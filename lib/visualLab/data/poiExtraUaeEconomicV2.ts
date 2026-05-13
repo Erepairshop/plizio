@@ -6,307 +6,539 @@ export const poiExtraUaeEconomicV2: POI[] = [
     type: "port",
     parent: "AE-DU",
     coords: [55.021, 24.992],
-    name: { de: "Hafen von Jebel Ali", hu: "Dzsebel Ali Kikötő", ro: "Portul Jebel Ali", en: "Jebel Ali Port",
-image: "/poi-images/jebel-ali-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Jebel Ali", hu: "Dzsebel Ali Kikötő", ro: "Portul Jebel Ali", en: "Jebel Ali Port"},
+    image: "/poi-images/jebel-ali-port-economic-v2.webp",
     description: { de: "Der Hafen von Jebel Ali in Dubai ist der größte künstliche Hafen der Welt und der wichtigste Hafen im Nahen Osten.", hu: "A dubaji Dzsebel Ali Kikötő a világ legnagyobb mesterséges kikötője és a Közel-Kelet legfontosabb tengeri csomópontja.", ro: "Portul Jebel Ali din Dubai este cel mai mare port artificial din lume și cel mai important hub maritim din Orientul Mijlociu.", en: "Jebel Ali Port in Dubai is the world's largest man-made harbor and the most significant maritime hub in the Middle East." },
     facts: {
       de: ["Wurde 1979 offiziell eröffnet.", "Verfügt über mehr als 65 Liegeplätze."],
       hu: ["Hivatalosan 1979-ben nyitották meg.", "Több mint 65 horgonyzóhellyel rendelkezik."],
       ro: ["A fost deschis oficial în 1979.", "Dispune de peste 65 de dane de ancorare."],
       en: ["Officially opened in 1979.", "Has more than 65 berths for vessels."]
-    }, image: "/poi-images/jebel-ali-port-economic-v2.webp"},
+    }, image: "/poi-images/jebel-ali-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jebel Ali Port, eröffnet 1979, ist der größte Hafen im Nahen Osten und der neuntgrößte der Welt. Er liegt etwa 35 Kilometer südwestlich von Dubai und umfasst eine Fläche von über 100 km². Der Hafen ist ein zentraler Knotenpunkt für den Containerumschlag, mit über 15 Millionen TEU jährlich. Er verfügt über 67 Liegeplätze und eine Tiefe von bis zu 15 Metern. Die angeschlossene Jebel Ali Free Zone (JAFZA) beherbergt über 7.000 Unternehmen und trägt signifikant zur Wirtschaft Dubais bei. Der Hafen ist Teil des Dubai Maritime City Authority und spielt eine Schlüsselrolle in der globalen Lieferkette, insbesondere für den Handel mit Asien und Afrika. Infrastrukturelle Erweiterungen wie das Terminal 4 erhöhen die Kapazität kontinuierlich.",
+      hu: "A Jebel Ali kikötőt 1979-ben nyitották meg, és azóta a Közel-Kelet legnagyobb, valamint a világ kilencedik legforgalmasabb konténerkikötőjévé vált. Dubai városközpontjától mintegy 35 kilométerre délnyugatra fekszik, és több mint 100 négyzetkilométer területet foglal el. A kikötő éves konténerforgalma meghaladja a 15 millió TEU-t. 67 kikötőhellyel rendelkezik, maximális mélysége 15 méter. A hozzá kapcsolódó Jebel Ali Szabad Gazdasági Övezet (JAFZA) több mint 7000 vállalatot vonz, és jelentősen hozzájárul Dubai gazdaságához. A kikötő a Dubai Maritime City Authority irányítása alatt áll, és kulcsszerepet játszik a globális ellátási láncban, különösen Ázsia és Afrika kereskedelmében. A 4-es terminál bővítése tovább növeli a kapacitást.",
+      ro: "Portul Jebel Ali, deschis în 1979, este cel mai mare port din Orientul Mijlociu și al nouălea ca mărime din lume. Situat la aproximativ 35 de kilometri sud-vest de Dubai, se întinde pe o suprafață de peste 100 km². Portul manipulează anual peste 15 milioane de TEU-uri. Dispune de 67 de dane și o adâncime de până la 15 metri. Zona Liberă Jebel Ali (JAFZA) asociată găzduiește peste 7.000 de companii, contribuind semnificativ la economia Dubaiului. Portul face parte din Autoritatea Maritimă a Dubaiului și joacă un rol crucial în lanțul global de aprovizionare, în special pentru comerțul cu Asia și Africa. Extinderea infrastructurii, cum ar fi Terminalul 4, crește continuu capacitatea.",
+      en: "Jebel Ali Port, inaugurated in 1979, is the largest port in the Middle East and the ninth busiest container port globally. Located about 35 kilometers southwest of Dubai, it spans over 100 square kilometers. Annually, it handles over 15 million TEUs. With 67 berths and a maximum depth of 15 meters, it accommodates the world's largest vessels. The adjacent Jebel Ali Free Zone (JAFZA) hosts over 7,000 companies, significantly boosting Dubai's economy. The port is managed by Dubai Maritime City Authority and serves as a critical hub in global supply chains, especially for trade with Asia and Africa. Ongoing expansions, including Terminal 4, aim to increase capacity further.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1979", "Fläche über 100 km²", "15+ Millionen TEU Jahreskapazität", "67 Liegeplätze", "Maximale Tiefe 15 Meter", "7.000+ Unternehmen in JAFZA"],
+      hu: ["1979-ben nyitották meg", "Több mint 100 km² terület", "Évi 15+ millió TEU kapacitás", "67 kikötőhely", "Maximális mélység 15 méter", "7.000+ vállalat a JAFZA-ban"],
+      ro: ["Deschis în 1979", "Suprafață de peste 100 km²", "Capacitate anuală de peste 15 milioane TEU", "67 de dane", "Adâncime maximă de 15 metri", "Peste 7.000 de companii în JAFZA"],
+      en: ["Opened in 1979", "Area over 100 km²", "Annual capacity over 15 million TEUs", "67 berths", "Maximum depth of 15 meters", "Over 7,000 companies in JAFZA"],
+    },
+  },
   {
     id: "khalifa-port-economic-v2",
     type: "port",
     parent: "AE-AZ",
     coords: [54.646, 24.846],
-    name: { de: "Khalifa-Hafen", hu: "Halífa Kikötő", ro: "Portul Khalifa", en: "Khalifa Port",
-image: "/poi-images/khalifa-port-economic-v2.webp"
-},
+    name: { de: "Khalifa-Hafen", hu: "Halífa Kikötő", ro: "Portul Khalifa", en: "Khalifa Port"},
+    image: "/poi-images/khalifa-port-economic-v2.webp",
     description: { de: "Der Khalifa-Hafen ist das wichtigste maritime Tor in Abu Dhabi und verfügt über das erste halbautomatische Containerterminal der Region.", hu: "A Halífa Kikötő Abu-Dzabi fő tengeri kapuja, amely a régió első félautomata konténertermináljával rendelkezik.", ro: "Portul Khalifa este principala poartă maritimă din Abu Dhabi, prezentând primul terminal de containere semi-automatizat din regiune.", en: "Khalifa Port is the primary maritime gateway in Abu Dhabi, featuring the region's first semi-automated container terminal." },
     facts: {
       de: ["Der Betrieb wurde 2012 aufgenommen.", "Ist direkt mit der Kizad-Industriezone verbunden."],
       hu: ["Működését 2012-ben kezdte meg.", "Közvetlenül kapcsolódik a Kizad ipari övezethez."],
       ro: ["Operațiunile au început în anul 2012.", "Este conectat direct cu zona industrială Kizad."],
       en: ["Operations commenced in 2012.", "Directly connected to the Kizad industrial zone."]
-    }, image: "/poi-images/khalifa-port-economic-v2.webp"},
+    }, image: "/poi-images/khalifa-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Khalifa Port, eingeweiht 2012, ist ein Tiefwasserhafen in Abu Dhabi, etwa 50 Kilometer nordöstlich der Stadt. Er ist Teil des Khalifa Industrial Zone Abu Dhabi (KIZAD) und wurde als einer der technologisch fortschrittlichsten Häfen der Welt konzipiert. Mit einer anfänglichen Kapazität von 2,5 Millionen TEU und einer Wassertiefe von 16,5 Metern kann er die größten Containerschiffe aufnehmen. Der Hafen nutzt automatisierte Kräne und ein intelligentes Verkehrsmanagementsystem. Er ist ein zentraler Knotenpunkt für den Handel mit Asien und Europa und dient als Drehscheibe für die Öl- und Gasindustrie. Die Erweiterung auf eine Kapazität von 5 Millionen TEU ist in Planung. Khalifa Port ist ein wichtiger Bestandteil der Wirtschaftsdiversifizierung Abu Dhabis.",
+      hu: "A Khalifa kikötőt 2012-ben avatták fel Abu Dhabi emírségben, mintegy 50 kilométerre északkeletre a várostól. Mélyvízi kikötő, amely a Khalifa Ipari Zóna (KIZAD) része, és a világ egyik legfejlettebb technológiájú kikötőjeként tervezték. Kezdeti kapacitása 2,5 millió TEU, vízmélysége 16,5 méter, így a világ legnagyobb konténerhajói is kiköthetnek. Automatizált darukat és intelligens forgalomirányítási rendszert használ. Ázsia és Európa közötti kereskedelem fontos csomópontja, valamint az olaj- és gázipar központja. Tervezik a kapacitás 5 millió TEU-ra bővítését. A kikötő kulcsszerepet játszik Abu Dhabi gazdasági diverzifikációjában.",
+      ro: "Portul Khalifa, inaugurat în 2012, este un port de apă adâncă din Abu Dhabi, situat la aproximativ 50 de kilometri nord-est de oraș. Face parte din Zona Industrială Khalifa Abu Dhabi (KIZAD) și a fost proiectat ca unul dintre cele mai avansate porturi tehnologic din lume. Cu o capacitate inițială de 2,5 milioane TEU și o adâncime de 16,5 metri, poate primi cele mai mari nave container. Utilizează macarale automatizate și un sistem inteligent de gestionare a traficului. Este un hub central pentru comerțul cu Asia și Europa și servește ca punct de tranzit pentru industria petrolieră și de gaze. Extinderea la o capacitate de 5 milioane TEU este planificată. Portul Khalifa este o componentă cheie a diversificării economice a Abu Dhabiului.",
+      en: "Khalifa Port, inaugurated in 2012, is a deepwater port in Abu Dhabi, about 50 kilometers northeast of the city. It is part of the Khalifa Industrial Zone Abu Dhabi (KIZAD) and was designed as one of the world's most technologically advanced ports. With an initial capacity of 2.5 million TEU and a water depth of 16.5 meters, it can accommodate the largest container ships. The port uses automated cranes and an intelligent traffic management system. It is a central hub for trade with Asia and Europe and serves as a hub for the oil and gas industry. Expansion to a capacity of 5 million TEU is planned. Khalifa Port is a key component of Abu Dhabi's economic diversification.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2012", "Kapazität 2,5 Millionen TEU", "Wassertiefe 16,5 Meter", "Teil von KIZAD", "50 km nordöstlich von Abu Dhabi", "Geplante Kapazität 5 Millionen TEU"],
+      hu: ["2012-ben avatták fel", "2,5 millió TEU kapacitás", "Vízmélység 16,5 méter", "A KIZAD része", "50 km-re északkeletre Abu Dhabi városától", "Tervezett kapacitás: 5 millió TEU"],
+      ro: ["Inaugurat în 2012", "Capacitate de 2,5 milioane TEU", "Adâncimea apei 16,5 metri", "Parte a KIZAD", "La 50 km nord-est de Abu Dhabi", "Capacitate planificată de 5 milioane TEU"],
+      en: ["Inaugurated in 2012", "Initial capacity of 2.5 million TEU", "Water depth of 16.5 meters", "Part of KIZAD", "Located 50 km northeast of Abu Dhabi", "Planned capacity of 5 million TEU"],
+    },
+  },
   {
     id: "barakah-nuclear-power-plant-economic-v2",
     type: "energy",
     parent: "AE-AZ",
     coords: [52.234, 23.968],
-    name: { de: "Kernkraftwerk Barakah", hu: "Barakah Atomerőmű", ro: "Centrala Nucleară Barakah", en: "Barakah Nuclear Power Plant",
-image: "/poi-images/barakah-nuclear-power-plant-economic-v2.webp"
-},
+    name: { de: "Kernkraftwerk Barakah", hu: "Barakah Atomerőmű", ro: "Centrala Nucleară Barakah", en: "Barakah Nuclear Power Plant"},
+    image: "/poi-images/barakah-nuclear-power-plant-economic-v2.webp",
     description: { de: "Das Kernkraftwerk Barakah in Abu Dhabi ist das erste kommerzielle Kernkraftwerk in der arabischen Welt.", hu: "Az Abu-Dzabiban található Barakah Atomerőmű az arab világ első kereskedelmi célú nukleáris létesítménye.", ro: "Centrala Nucleară Barakah din Abu Dhabi este prima centrală nucleară comercială din lumea arabă.", en: "The Barakah Nuclear Power Plant in Abu Dhabi is the first commercial nuclear power station in the Arab world." },
     facts: {
       de: ["Besteht aus vier südkoreanischen APR-1400-Reaktoren.", "Liefert rund 25 % des Strombedarfs der VAE."],
       hu: ["Négy dél-koreai APR-1400 típusú reaktorból áll.", "Az EAE áramszükségletének mintegy 25%-át biztosítja."],
       ro: ["Este formată din patru reactoare sud-coreene APR-1400.", "Furnizează aproximativ 25% din necesarul de energie al EAU."],
       en: ["Consists of four South Korean APR-1400 reactors.", "Supplies roughly 25% of the UAE's electricity needs."]
-    }, image: "/poi-images/barakah-nuclear-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/barakah-nuclear-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kernkraftwerk Barakah, etwa 53 Kilometer westlich von Ruwais, ist das erste Atomkraftwerk in der arabischen Welt. Es besteht aus vier APR-1400-Reaktoren mit einer Gesamtleistung von 5.600 MW. Block 1 begann 2020 mit der kommerziellen Stromerzeugung, Block 2 folgte 2021, Block 3 2022 und Block 4 2023. Die Anlage wird von der Emirates Nuclear Energy Corporation (ENEC) betrieben und soll bis zu 25 % des Strombedarfs der VAE decken. Das Kraftwerk reduziert jährlich etwa 21 Millionen Tonnen CO2-Emissionen. Es ist ein zentrales Element der Energiewende der VAE hin zu kohlenstoffarmen Quellen. Der Standort umfasst auch ein Zwischenlager für abgebrannte Brennelemente.",
+      hu: "A Barakah atomerőmű, Ruwais-tól mintegy 53 kilométerre nyugatra, az arab világ első atomerőműve. Négy APR-1400 reaktorból áll, teljes kapacitása 5600 MW. Az 1-es blokk 2020-ban kezdte meg a kereskedelmi áramtermelést, a 2-es 2021-ben, a 3-as 2022-ben, a 4-es 2023-ban. Az üzemeltető az Emirates Nuclear Energy Corporation (ENEC). Az erőmű az UAE villamosenergia-szükségletének akár 25%-át is fedezheti. Évente mintegy 21 millió tonna CO2-kibocsátást takarít meg. Az erőmű kulcsszerepet játszik az UAE alacsony szén-dioxid-kibocsátású energiaforrásokra való átállásában. A telephelyen kiégett fűtőelemek közbenső tárolója is található.",
+      ro: "Centrala nucleară Barakah, situată la aproximativ 53 de kilometri vest de Ruwais, este prima centrală nucleară din lumea arabă. Este formată din patru reactoare APR-1400 cu o capacitate totală de 5.600 MW. Unitatea 1 a început producția comercială de electricitate în 2020, Unitatea 2 în 2021, Unitatea 3 în 2022 și Unitatea 4 în 2023. Centrala este operată de Emirates Nuclear Energy Corporation (ENEC) și poate acoperi până la 25% din necesarul de electricitate al EAU. Reduce emisiile de CO2 cu aproximativ 21 de milioane de tone anual. Este un element central al tranziției energetice a EAU către surse cu emisii reduse de carbon. Amplasamentul include și o instalație de depozitare intermediară pentru combustibilul nuclear uzat.",
+      en: "The Barakah Nuclear Power Plant, located about 53 kilometers west of Ruwais, is the first nuclear power plant in the Arab world. It consists of four APR-1400 reactors with a total capacity of 5,600 MW. Unit 1 began commercial electricity generation in 2020, Unit 2 in 2021, Unit 3 in 2022, and Unit 4 in 2023. The plant is operated by the Emirates Nuclear Energy Corporation (ENEC) and can supply up to 25% of the UAE's electricity demand. It reduces CO2 emissions by approximately 21 million tons annually. The plant is a central element of the UAE's energy transition towards low-carbon sources. The site also includes an interim storage facility for spent nuclear fuel.",
+    },
+    factsAdvanced: {
+      de: ["Erstes Atomkraftwerk der arabischen Welt", "4 Reaktoren APR-1400", "Gesamtleistung 5.600 MW", "Block 1 in Betrieb seit 2020", "Reduziert 21 Mio. Tonnen CO2 jährlich", "Deckt bis zu 25 % des Strombedarfs der VAE"],
+      hu: ["Az arab világ első atomerőműve", "4 db APR-1400 reaktor", "Teljes kapacitás 5600 MW", "1-es blokk üzembe helyezve 2020-ban", "Évi 21 millió tonna CO2-kibocsátást takarít meg", "Az UAE áramszükségletének akár 25%-át fedezi"],
+      ro: ["Prima centrală nucleară din lumea arabă", "4 reactoare APR-1400", "Capacitate totală de 5.600 MW", "Unitatea 1 operațională din 2020", "Reduce emisiile de CO2 cu 21 milioane tone anual", "Acoperă până la 25% din necesarul electric al EAU"],
+      en: ["First nuclear plant in the Arab world", "4 APR-1400 reactors", "Total capacity 5,600 MW", "Unit 1 operational since 2020", "Reduces CO2 by 21 million tons annually", "Supplies up to 25% of UAE electricity"],
+    },
+  },
   {
     id: "mbr-solar-park-economic-v2",
     type: "energy",
     parent: "AE-DU",
     coords: [55.353, 24.757],
-    name: { de: "Mohammed bin Rashid Al Maktoum Solarpark", hu: "Mohammed bin Rashid Al Maktoum Napelempark", ro: "Parcul Solar Mohammed bin Rashid Al Maktoum", en: "Mohammed bin Rashid Al Maktoum Solar Park",
-image: "/poi-images/mbr-solar-park-economic-v2.webp"
-},
+    name: { de: "Mohammed bin Rashid Al Maktoum Solarpark", hu: "Mohammed bin Rashid Al Maktoum Napelempark", ro: "Parcul Solar Mohammed bin Rashid Al Maktoum", en: "Mohammed bin Rashid Al Maktoum Solar Park"},
+    image: "/poi-images/mbr-solar-park-economic-v2.webp",
     description: { de: "Dieser riesige Solarpark in der Wüste von Dubai ist eines der größten Erneuerbare-Energien-Projekte der Welt an einem einzigen Standort.", hu: "Ez a hatalmas napelempark a dubaji sivatagban a világ egyik legnagyobb, egy helyen található megújuló energia projektje.", ro: "Acest imens parc solar din deșertul Dubai este unul dintre cele mai mari proiecte de energie regenerabilă dintr-un singur amplasament din lume.", en: "This massive solar park in the Dubai desert is one of the world's largest single-site renewable energy projects." },
     facts: {
       de: ["Soll bis 2030 eine Kapazität von 5.000 MW erreichen.", "Verfügt über den höchsten Solarturm der Welt."],
       hu: ["2030-ra 5000 MW kapacitás elérése a célja.", "Itt található a világ legmagasabb naptornya."],
       ro: ["Obiectivul este de a atinge 5.000 MW până în 2030.", "Dispune de cel mai înalt turn solar din lume."],
       en: ["Aims to reach 5,000 MW capacity by 2030.", "Features the tallest solar tower in the world."]
-    }, image: "/poi-images/mbr-solar-park-economic-v2.webp"},
+    }, image: "/poi-images/mbr-solar-park-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mohammed bin Rashid Al Maktoum Solar Park ist der größte Solarpark der Welt mit einer geplanten Kapazität von 5.000 MW bis 2030. Er befindet sich in Saih Al Dahal, etwa 50 Kilometer südlich von Dubai. Phase 1 (13 MW) wurde 2013 in Betrieb genommen, Phase 2 (200 MW) 2017, Phase 3 (800 MW) 2020 und Phase 4 (950 MW) 2023. Der Park nutzt Photovoltaik- und konzentrierte Solarthermie-Technologien (CSP). Die vierte Phase umfasst den 260 Meter hohen Solarturm, den höchsten der Welt. Der Park wird voraussichtlich jährlich 6,5 Millionen Tonnen CO2-Emissionen reduzieren. Er ist ein zentraler Bestandteil der Dubai Clean Energy Strategy 2050, die darauf abzielt, 75 % der Energie aus sauberen Quellen zu gewinnen.",
+      hu: "A Mohammed bin Rashid Al Maktoum Napelempark a világ legnagyobb napelemparkja, tervezett kapacitása 5000 MW 2030-ig. Dubai városától mintegy 50 kilométerre délre, Saih Al Dahalban található. Az 1. fázis (13 MW) 2013-ban, a 2. (200 MW) 2017-ben, a 3. (800 MW) 2020-ban, a 4. (950 MW) 2023-ban kezdte meg a működést. A park fotovoltaikus és koncentrált napenergia-technológiákat (CSP) használ. A 4. fázis tartalmazza a 260 méter magas napelemtornyot, a világ legmagasabbját. A park évente várhatóan 6,5 millió tonna CO2-kibocsátást csökkent. Kulcsfontosságú eleme a Dubai Tiszta Energia Stratégia 2050-nek, amelynek célja, hogy 75%-ban tiszta forrásokból származzon az energia.",
+      ro: "Parcul Solar Mohammed bin Rashid Al Maktoum este cel mai mare parc solar din lume, cu o capacitate planificată de 5.000 MW până în 2030. Este situat în Saih Al Dahal, la aproximativ 50 de kilometri sud de Dubai. Faza 1 (13 MW) a devenit operațională în 2013, Faza 2 (200 MW) în 2017, Faza 3 (800 MW) în 2020 și Faza 4 (950 MW) în 2023. Parcul utilizează tehnologii fotovoltaice și de termoficare solară concentrată (CSP). Faza 4 include turnul solar de 260 de metri, cel mai înalt din lume. Parcul va reduce emisiile de CO2 cu aproximativ 6,5 milioane de tone anual. Este o componentă centrală a Strategiei Dubai pentru Energie Curată 2050, care își propune să obțină 75% din energie din surse curate.",
+      en: "The Mohammed bin Rashid Al Maktoum Solar Park is the world's largest solar park, with a planned capacity of 5,000 MW by 2030. It is located in Saih Al Dahal, about 50 kilometers south of Dubai. Phase 1 (13 MW) became operational in 2013, Phase 2 (200 MW) in 2017, Phase 3 (800 MW) in 2020, and Phase 4 (950 MW) in 2023. The park uses photovoltaic and concentrated solar power (CSP) technologies. Phase 4 includes the 260-meter solar tower, the tallest in the world. The park is expected to reduce CO2 emissions by 6.5 million tons annually. It is a central element of the Dubai Clean Energy Strategy 2050, aiming to produce 75% of energy from clean sources.",
+    },
+    factsAdvanced: {
+      de: ["Größter Solarpark der Welt", "Geplante Kapazität 5.000 MW bis 2030", "Phase 1: 13 MW (2013)", "Phase 4: 950 MW (2023)", "Solarturmhöhe 260 Meter", "Reduziert 6,5 Mio. Tonnen CO2 jährlich"],
+      hu: ["A világ legnagyobb napelemparkja", "Tervezett kapacitás 5000 MW 2030-ig", "1. fázis: 13 MW (2013)", "4. fázis: 950 MW (2023)", "Napelemtorony magassága 260 méter", "Évi 6,5 millió tonna CO2-kibocsátást csökkent"],
+      ro: ["Cel mai mare parc solar din lume", "Capacitate planificată de 5.000 MW până în 2030", "Faza 1: 13 MW (2013)", "Faza 4: 950 MW (2023)", "Înălțimea turnului solar: 260 metri", "Reduce emisiile de CO2 cu 6,5 milioane tone anual"],
+      en: ["World's largest solar park", "Planned capacity 5,000 MW by 2030", "Phase 1: 13 MW (2013)", "Phase 4: 950 MW (2023)", "Solar tower height 260 meters", "Reduces CO2 by 6.5 million tons annually"],
+    },
+  },
   {
     id: "jafza-economic-v2",
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.050, 24.965],
-    name: { de: "Freihandelszone Jebel Ali", hu: "Dzsebel Ali Szabadkereskedelmi Övezet", ro: "Zona Liberă Jebel Ali", en: "Jebel Ali Free Zone (JAFZA)",
-image: "/poi-images/jafza-economic-v2.webp"
-},
+    name: { de: "Freihandelszone Jebel Ali", hu: "Dzsebel Ali Szabadkereskedelmi Övezet", ro: "Zona Liberă Jebel Ali", en: "Jebel Ali Free Zone (JAFZA)"},
+    image: "/poi-images/jafza-economic-v2.webp",
     description: { de: "JAFZA ist eine der am schnellsten wachsenden Freihandelszonen der Welt und beherbergt Tausende von internationalen Unternehmen in Dubai.", hu: "A JAFZA a világ egyik leggyorsabban növekvő szabadkereskedelmi övezete, amely több ezer nemzetközi vállalatnak ad otthont Dubajban.", ro: "JAFZA este una dintre zonele libere cu cea mai rapidă creștere din lume, găzduind mii de companii internaționale în Dubai.", en: "JAFZA is one of the world's fastest-growing free trade zones, housing thousands of international companies in Dubai." },
     facts: {
       de: ["Wurde 1985 gegründet.", "Trägt massiv zum nicht-ölbasierten BIP von Dubai bei."],
       hu: ["1985-ben alapították.", "Jelentősen hozzájárul Dubaj nem olajalapú GDP-jéhez."],
       ro: ["A fost înființată în anul 1985.", "Contribuie masiv la PIB-ul non-petrolier al Dubaiului."],
       en: ["Established in 1985.", "Contributes massively to Dubai's non-oil GDP."]
-    }, image: "/poi-images/jafza-economic-v2.webp"},
+    }, image: "/poi-images/jafza-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Jebel Ali Free Zone (JAFZA), gegründet 1985, ist eine der ältesten und größten Freihandelszonen der Welt. Sie erstreckt sich über 100 km² und beherbergt über 7.000 Unternehmen aus mehr als 100 Ländern. Die Zone bietet 100% ausländisches Eigentum, Steuerbefreiungen und keine Zölle. Der Jahresumsatz der ansässigen Unternehmen übersteigt 80 Milliarden US-Dollar. JAFZA ist eng mit dem Jebel Ali Port verbunden und bietet direkten Zugang zu globalen Märkten. Die Zone hat maßgeblich zur wirtschaftlichen Diversifizierung Dubais beigetragen und beschäftigt über 130.000 Menschen. Sie umfasst Branchen von Logistik über Fertigung bis hin zu Technologie. JAFZA verfügt über eigene Kraftwerke und Entsalzungsanlagen.",
+      hu: "A Jebel Ali Szabad Gazdasági Övezetet (JAFZA) 1985-ben alapították, és a világ egyik legrégebbi és legnagyobb szabad kereskedelmi övezete. Több mint 100 km² területen fekszik, és több mint 7000 vállalatot vonz több mint 100 országból. Az övezet 100%-os külföldi tulajdont, adómentességet és vámmentességet kínál. A tagvállalatok éves forgalma meghaladja a 80 milliárd USD-t. A JAFZA szorosan kapcsolódik a Jebel Ali kikötőhöz, közvetlen hozzáférést biztosítva a globális piacokhoz. Az övezet jelentősen hozzájárult Dubai gazdasági diverzifikációjához, és több mint 130 000 embert foglalkoztat. Az iparágak közé tartozik a logisztika, a gyártás és a technológia. A JAFZA saját erőművekkel és sótalanító üzemekkel rendelkezik.",
+      ro: "Zona Liberă Jebel Ali (JAFZA), fondată în 1985, este una dintre cele mai vechi și mai mari zone libere din lume. Se întinde pe o suprafață de peste 100 km² și găzduiește peste 7.000 de companii din peste 100 de țări. Zona oferă proprietate 100% străină, scutiri de taxe și fără tarife vamale. Veniturile anuale ale companiilor depășesc 80 de miliarde de dolari. JAFZA este strâns legată de Portul Jebel Ali, oferind acces direct la piețele globale. Zona a contribuit semnificativ la diversificarea economică a Dubaiului și angajează peste 130.000 de persoane. Include sectoare precum logistica, producția și tehnologia. JAFZA are propriile centrale electrice și instalații de desalinizare.",
+      en: "The Jebel Ali Free Zone (JAFZA), established in 1985, is one of the oldest and largest free zones in the world. Spanning over 100 km², it hosts over 7,000 companies from more than 100 countries. The zone offers 100% foreign ownership, tax exemptions, and zero customs duties. Annual revenues of member companies exceed $80 billion. JAFZA is closely integrated with Jebel Ali Port, providing direct access to global markets. The zone has been instrumental in Dubai's economic diversification and employs over 130,000 people. Industries range from logistics and manufacturing to technology. JAFZA operates its own power plants and desalination facilities.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1985", "Fläche über 100 km²", "7.000+ Unternehmen", "Jahresumsatz über 80 Mrd. USD", "130.000+ Beschäftigte", "100% ausländisches Eigentum möglich"],
+      hu: ["1985-ben alapították", "Több mint 100 km² terület", "7.000+ vállalat", "Éves forgalom meghaladja a 80 milliárd USD-t", "130.000+ alkalmazott", "100%-os külföldi tulajdon lehetséges"],
+      ro: ["Fondată în 1985", "Suprafață peste 100 km²", "Peste 7.000 de companii", "Venituri anuale de peste 80 miliarde USD", "Peste 130.000 de angajați", "Proprietate 100% străină permisă"],
+      en: ["Established in 1985", "Area over 100 km²", "Over 7,000 companies", "Annual revenues over $80 billion", "Over 130,000 employees", "100% foreign ownership allowed"],
+    },
+  },
   {
     id: "adgm-economic-v2",
     type: "trade-hub",
     parent: "AE-AZ",
     coords: [54.391, 24.504],
-    name: { de: "Abu Dhabi Global Market", hu: "Abu Dhabi Global Market", ro: "Abu Dhabi Global Market", en: "Abu Dhabi Global Market (ADGM)",
-image: "/poi-images/adgm-economic-v2.webp"
-},
+    name: { de: "Abu Dhabi Global Market", hu: "Abu Dhabi Global Market", ro: "Abu Dhabi Global Market", en: "Abu Dhabi Global Market (ADGM)"},
+    image: "/poi-images/adgm-economic-v2.webp",
     description: { de: "Das ADGM auf der Al Maryah Island ist ein internationales Finanzzentrum, das als wichtiger Wirtschafts- und Handelsknotenpunkt fungiert.", hu: "Az Al Maryah-szigeten található ADGM egy nemzetközi pénzügyi központ, amely kulcsfontosságú gazdasági és kereskedelmi csomópontként működik.", ro: "ADGM de pe Insula Al Maryah este un centru financiar internațional care funcționează ca un important hub economic și comercial.", en: "The ADGM on Al Maryah Island is an international financial centre serving as a key economic and trading hub." },
     facts: {
       de: ["Es wendet englisches Common Law an.", "Die Insel umfasst auch luxuriöse Geschäftskomplexe."],
       hu: ["Az angol szokásjog (Common Law) alapján működik.", "A szigeten luxus üzleti komplexumok is találhatók."],
       ro: ["Aplică legea comună engleză (Common Law).", "Insula include și complexe de afaceri de lux."],
       en: ["It applies English Common Law.", "The island also includes luxury business complexes."]
-    }, image: "/poi-images/adgm-economic-v2.webp"},
+    }, image: "/poi-images/adgm-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Abu Dhabi Global Market (ADGM) ist ein internationales Finanzzentrum im Herzen von Abu Dhabi, gegründet 2013. Es operiert unter einem eigenen englischen Common Law-System und bietet eine robuste regulatorische Umgebung. ADGM beherbergt über 1.500 Finanzdienstleistungsunternehmen, darunter Banken, Versicherungen und Vermögensverwalter. Das Zentrum umfasst drei Bezirke: Al Maryah Island, den Finanzdistrikt und das Einkaufsviertel. ADGM spielt eine Schlüsselrolle bei der wirtschaftlichen Diversifizierung Abu Dhabis und fördert Innovation durch seine FinTech-Initiativen. Es verfügt über eine eigene Börse, die Abu Dhabi Securities Exchange (ADX). ADGM zielt darauf ab, ein führendes globales Finanzzentrum zu werden, mit einem verwalteten Vermögen von über 100 Milliarden US-Dollar.",
+      hu: "Az Abu Dhabi Global Market (ADGM) egy nemzetközi pénzügyi központ Abu Dhabi szívében, amelyet 2013-ban alapítottak. Saját angol common law jogrendszer alatt működik, és erős szabályozói környezetet biztosít. Az ADGM több mint 1500 pénzügyi szolgáltató vállalatot vonz, köztük bankokat, biztosítókat és vagyonkezelőket. A központ három negyedből áll: Al Maryah Island, a pénzügyi kerület és a bevásárlónegyed. Az ADGM kulcsszerepet játszik Abu Dhabi gazdasági diverzifikációjában, és a FinTech kezdeményezéseken keresztül ösztönzi az innovációt. Saját tőzsdével rendelkezik, az Abu Dhabi Securities Exchange (ADX) része. Az ADGM célja, hogy vezető globális pénzügyi központtá váljon, több mint 100 milliárd USD kezelt vagyonnal.",
+      ro: "Abu Dhabi Global Market (ADGM) este un centru financiar internațional situat în inima Abu Dhabiului, fondat în 2013. Funcționează sub propriul sistem de drept comun englez și oferă un mediu de reglementare solid. ADGM găzduiește peste 1.500 de companii de servicii financiare, inclusiv bănci, asigurări și administratori de active. Centrul cuprinde trei districte: Al Maryah Island, districtul financiar și zona comercială. ADGM joacă un rol cheie în diversificarea economică a Abu Dhabiului și promovează inovarea prin inițiativele sale FinTech. Are propria bursă, parte a Bursei de Valori Abu Dhabi (ADX). ADGM își propune să devină un centru financiar global de top, cu active administrate de peste 100 de miliarde de dolari.",
+      en: "The Abu Dhabi Global Market (ADGM) is an international financial center located in the heart of Abu Dhabi, established in 2013. It operates under its own English common law framework and provides a robust regulatory environment. ADGM hosts over 1,500 financial services firms, including banks, insurance companies, and asset managers. The center comprises three districts: Al Maryah Island, the financial district, and the retail district. ADGM plays a key role in Abu Dhabi's economic diversification and fosters innovation through its FinTech initiatives. It has its own exchange, part of the Abu Dhabi Securities Exchange (ADX). ADGM aims to become a leading global financial hub, with over $100 billion in assets under management.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2013", "Über 1.500 Finanzunternehmen", "Eigenes Common Law-System", "3 Bezirke", "Teil der ADX-Börse", "Über 100 Mrd. USD verwaltetes Vermögen"],
+      hu: ["2013-ban alapították", "Több mint 1500 pénzügyi vállalat", "Saját common law rendszer", "3 negyed", "Az ADX tőzsde része", "Több mint 100 milliárd USD kezelt vagyon"],
+      ro: ["Fondat în 2013", "Peste 1.500 de companii financiare", "Propriul sistem de drept comun", "3 districte", "Parte a bursei ADX", "Active administrate de peste 100 miliarde USD"],
+      en: ["Established in 2013", "Over 1,500 financial firms", "Own English common law system", "3 districts", "Part of ADX exchange", "Over $100 billion assets under management"],
+    },
+  },
   {
     id: "port-rashid-economic-v2",
     type: "port",
     parent: "AE-DU",
     coords: [55.274, 25.264],
-    name: { de: "Hafen Rashid", hu: "Rásid Kikötő", ro: "Portul Rashid", en: "Port Rashid",
-image: "/poi-images/port-rashid-economic-v2.webp"
-},
+    name: { de: "Hafen Rashid", hu: "Rásid Kikötő", ro: "Portul Rashid", en: "Port Rashid"},
+    image: "/poi-images/port-rashid-economic-v2.webp",
     description: { de: "Der Hafen Rashid war Dubais erster moderner Handelshafen und wurde in den letzten Jahren zunehmend in ein wichtiges Kreuzfahrtterminal umgewandelt.", hu: "A Rásid Kikötő Dubaj első modern kereskedelmi kikötője volt, amelyet az elmúlt években egyre inkább jelentős tengerjáró terminállá alakítottak át.", ro: "Portul Rashid a fost primul port comercial modern din Dubai și a fost transformat recent într-un important terminal pentru nave de croazieră.", en: "Port Rashid was Dubai's first modern commercial port and has increasingly been transformed into a major cruise terminal in recent years." },
     facts: {
       de: ["Eröffnete 1972 seinen Betrieb.", "Benannt nach dem ehemaligen Herrscher Sheikh Rashid bin Saeed Al Maktoum."],
       hu: ["1972-ben kezdte meg működését.", "Nevét a korábbi uralkodóról, Rásid bin Szaíd Al Maktúm sejkről kapta."],
       ro: ["Și-a început operațiunile în 1972.", "Numit după fostul conducător Șeic Rashid bin Saeed Al Maktoum."],
       en: ["Began operations in 1972.", "Named after former ruler Sheikh Rashid bin Saeed Al Maktoum."]
-    }, image: "/poi-images/port-rashid-economic-v2.webp"},
+    }, image: "/poi-images/port-rashid-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Port Rashid, eröffnet 1972, ist ein historischer Hafen in Dubai, der heute hauptsächlich für Kreuzfahrtschiffe genutzt wird. Er liegt in der Nähe der Dubai Creek und verfügt über 12 Liegeplätze, darunter vier für Megayachten. Der Hafen wurde umfassend modernisiert und kann jährlich über 1 Million Kreuzfahrtpassagiere abfertigen. Das Port Rashid Terminal ist ein architektonisches Wahrzeichen. Der Hafen ist auch ein wichtiger Umschlagplatz für Fracht, obwohl der Schwerpunkt auf dem Tourismus liegt. Er bietet direkten Zugang zur Altstadt von Dubai und den Souks. Der Hafen ist Teil der Dubai Maritime City und wird von DP World betrieben. In der Umgebung entstehen Luxusresidenzen und Hotels.",
+      hu: "A Port Rashid, amelyet 1972-ben nyitottak meg, Dubai történelmi kikötője, ma főként körutazási hajók számára használatos. A Dubai Creek közelében található, 12 kikötőhellyel rendelkezik, ebből négy megajachtok számára. A kikötőt átfogóan modernizálták, évente több mint 1 millió körutazási utast képes fogadni. A Port Rashid terminál építészeti nevezetesség. A kikötő teherforgalma is jelentős, bár a turizmus a fő hangsúly. Közvetlen hozzáférést biztosít Dubai óvárosához és a szúkhoz. A kikötő a Dubai Maritime City része, és a DP World üzemelteti. A környéken luxuslakások és szállodák épülnek.",
+      ro: "Portul Rashid, deschis în 1972, este un port istoric din Dubai, utilizat în principal pentru nave de croazieră. Este situat lângă Dubai Creek și dispune de 12 dane, dintre care patru pentru megayachturi. Portul a fost modernizat extensiv și poate gestiona anual peste 1 milion de pasageri de croazieră. Terminalul Port Rashid este un reper arhitectural. Portul este, de asemenea, un punct important pentru marfă, deși accentul se pune pe turism. Oferă acces direct la orașul vechi din Dubai și la souk-uri. Portul face parte din Dubai Maritime City și este operat de DP World. În zonă se dezvoltă reședințe de lux și hoteluri.",
+      en: "Port Rashid, opened in 1972, is a historic port in Dubai now primarily used for cruise ships. Located near Dubai Creek, it has 12 berths, including four for megayachts. The port has undergone extensive modernization and can handle over 1 million cruise passengers annually. The Port Rashid Terminal is an architectural landmark. The port also handles cargo, though tourism is the main focus. It offers direct access to Old Dubai and the souks. The port is part of Dubai Maritime City and operated by DP World. Surrounding areas are developing luxury residences and hotels.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1972", "12 Liegeplätze", "4 für Megayachten", "1+ Mio. Kreuzfahrtpassagiere jährlich", "Teil der Dubai Maritime City", "Betrieben von DP World"],
+      hu: ["1972-ben nyitották meg", "12 kikötőhely", "4 megajachtok számára", "Évi 1+ millió körutazási utas", "A Dubai Maritime City része", "DP World üzemelteti"],
+      ro: ["Deschis în 1972", "12 dane", "4 pentru megayachturi", "Peste 1 milion de pasageri de croazieră anual", "Parte a Dubai Maritime City", "Operat de DP World"],
+      en: ["Opened in 1972", "12 berths", "4 for megayachts", "Over 1 million cruise passengers annually", "Part of Dubai Maritime City", "Operated by DP World"],
+    },
+  },
   {
     id: "port-of-fujairah-economic-v2",
     type: "port",
     parent: "AE-FU",
     coords: [56.353, 25.176],
-    name: { de: "Hafen von Fudschaira", hu: "Fudzsejra Kikötője", ro: "Portul Fujairah", en: "Port of Fujairah",
-image: "/poi-images/port-of-fujairah-economic-v2.webp"
-},
+    name: { de: "Hafen von Fudschaira", hu: "Fudzsejra Kikötője", ro: "Portul Fujairah", en: "Port of Fujairah"},
+    image: "/poi-images/port-of-fujairah-economic-v2.webp",
     description: { de: "Dieser Hafen am Golf von Oman ist der einzige Mehrzweckhafen an der Ostküste der VAE und ein globales Zentrum für die Betankung von Schiffen.", hu: "Ez az Ománi-öböl partján fekvő kikötő az EAE keleti partjának egyetlen többcélú kikötője, és a hajók üzemanyag-ellátásának globális központja.", ro: "Acest port situat pe Golful Oman este singurul port multifuncțional de pe coasta de est a EAU și un centru global de alimentare a navelor.", en: "Located on the Gulf of Oman, this is the only multi-purpose port on the Eastern seaboard of the UAE and a global bunkering hub." },
     facts: {
       de: ["Einer der größten Bunkerhäfen der Welt.", "Ist durch eine Ölpipeline mit Abu Dhabi verbunden."],
       hu: ["A világ egyik legnagyobb bunker-kikötője.", "Olajvezeték köti össze Abu-Dzabival."],
       ro: ["Este unul dintre cele mai mari porturi de bunkerare din lume.", "Este conectat la Abu Dhabi printr-o conductă de petrol."],
       en: ["One of the largest bunkering ports in the world.", "Connected to Abu Dhabi via an oil pipeline."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Fujairah liegt an der Ostküste der VAE am Golf von Oman und ist der einzige Tiefwasserhafen des Landes an dieser Küste. Er wurde 1982 eröffnet und ist ein wichtiger Knotenpunkt für den Öl- und Gasumschlag sowie für Containertransporte. Der Hafen verfügt über 14 Liegeplätze, darunter mehrere für Tanker. Er ist ein bedeutender Bunkerhafen mit einem Marktanteil von über 20 % im Nahen Osten. Fujairah ist auch ein wichtiger Standort für Öllagerung mit einer Kapazität von über 10 Millionen Kubikmetern. Der Hafen spielt eine strategische Rolle für die Energieversorgung der VAE und dient als Alternative zur Straße von Hormus. Er wird von der Fujairah Port Authority betrieben.",
+      hu: "A Fujairah-i kikötő az UAE keleti partján, az Ománi-öbölben található, és az egyetlen mélyvízi kikötő ezen a parton. 1982-ben nyitották meg, és fontos csomópont az olaj- és gázszállítás, valamint a konténerforgalom számára. 14 kikötőhellyel rendelkezik, köztük több tanker számára. Jelentős bunkerezési központ, piaci részesedése meghaladja a 20%-ot a Közel-Keleten. Fujairah az olajtárolás fontos helyszíne, kapacitása meghaladja a 10 millió köbmétert. A kikötő stratégiai szerepet játszik az UAE energiaellátásában, és alternatívát kínál a Hormuzi-szoros elkerülésére. A Fujairah Port Authority üzemelteti.",
+      ro: "Portul Fujairah este situat pe coasta de est a EAU, în Golful Oman, și este singurul port de apă adâncă al țării pe această coastă. A fost deschis în 1982 și este un hub important pentru manipularea petrolului și gazelor, precum și pentru transportul de containere. Portul are 14 dane, inclusiv mai multe pentru tancuri. Este un port de alimentare cu combustibil semnificativ, cu o cotă de piață de peste 20% în Orientul Mijlociu. Fujairah este, de asemenea, un centru important pentru depozitarea petrolului, cu o capacitate de peste 10 milioane de metri cubi. Portul joacă un rol strategic în aprovizionarea cu energie a EAU și servește ca alternativă la Strâmtoarea Hormuz. Este operat de Autoritatea Portului Fujairah.",
+      en: "The Port of Fujairah is located on the east coast of the UAE on the Gulf of Oman and is the country's only deepwater port on that coast. Opened in 1982, it is a major hub for oil and gas transshipment and container traffic. The port has 14 berths, including several for tankers. It is a significant bunkering port with a market share of over 20% in the Middle East. Fujairah is also a key oil storage location with a capacity of over 10 million cubic meters. The port plays a strategic role in the UAE's energy supply and serves as an alternative to the Strait of Hormuz. It is operated by the Fujairah Port Authority.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1982", "Tiefwasserhafen am Golf von Oman", "14 Liegeplätze", "Bunker-Marktanteil über 20 %", "Öllagerkapazität über 10 Mio. m³", "Alternative zur Straße von Hormus"],
+      hu: ["1982-ben nyitották meg", "Mélyvízi kikötő az Ománi-öbölben", "14 kikötőhely", "Bunkerpiaci részesedés meghaladja a 20%-ot", "Olajtárolási kapacitás meghaladja a 10 millió m³-t", "Alternatíva a Hormuzi-szoros elkerülésére"],
+      ro: ["Deschis în 1982", "Port de apă adâncă în Golful Oman", "14 dane", "Cotă de piață de peste 20% pentru alimentare cu combustibil", "Capacitate de stocare a petrolului de peste 10 milioane m³", "Alternativă la Strâmtoarea Hormuz"],
+      en: ["Opened in 1982", "Deepwater port on the Gulf of Oman", "14 berths", "Bunkering market share over 20%", "Oil storage capacity over 10 million m³", "Alternative to Strait of Hormuz"],
+    },
   },
   {
     id: "kizad-economic-v2",
     type: "industry",
     parent: "AE-AZ",
     coords: [54.654, 24.811],
-    name: { de: "Khalifa-Industriezone Abu Dhabi", hu: "Halífa Ipari Övezet Abu-Dzabi", ro: "Zona Industrială Khalifa Abu Dhabi", en: "Khalifa Industrial Zone Abu Dhabi (KIZAD)",
-image: "/poi-images/kizad-economic-v2.webp"
-},
+    name: { de: "Khalifa-Industriezone Abu Dhabi", hu: "Halífa Ipari Övezet Abu-Dzabi", ro: "Zona Industrială Khalifa Abu Dhabi", en: "Khalifa Industrial Zone Abu Dhabi (KIZAD)"},
+    image: "/poi-images/kizad-economic-v2.webp",
     description: { de: "KIZAD ist ein riesiger Industrie- und Logistikkomplex in Abu Dhabi, der darauf ausgelegt ist, ausländische Direktinvestitionen in die Region zu lenken.", hu: "A KIZAD egy hatalmas ipari és logisztikai komplexum Abu-Dzabiban, amelynek célja a közvetlen külföldi tőkebefektetések vonzása a régióba.", ro: "KIZAD este un vast complex industrial și logistic în Abu Dhabi, conceput pentru a atrage investiții străine directe în regiune.", en: "KIZAD is a massive industrial and logistics hub in Abu Dhabi designed to attract foreign direct investments to the region." },
     facts: {
       de: ["Ist ein zentraler Teil der Wirtschaftsvision 2030 von Abu Dhabi.", "Bietet hervorragende Anbindungen an See-, Luft- und Straßennetz."],
       hu: ["Abu-Dzabi 2030-as gazdasági jövőképének központi eleme.", "Kiváló összeköttetést biztosít a tengeri, légi és közúti hálózattal."],
       ro: ["Este o parte centrală a Viziunii Economice 2030 a Abu Dhabi.", "Oferă conexiuni excelente la rețelele maritime, aeriene și rutiere."],
       en: ["A central part of Abu Dhabi's Economic Vision 2030.", "Offers excellent connections to sea, air, and road networks."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Khalifa Industrial Zone Abu Dhabi (KIZAD) ist ein riesiges Industriegebiet, das sich über 410 km² erstreckt. Es wurde 2010 gegründet und ist eng mit dem Khalifa Port verbunden. KIZAD ist in mehrere Cluster unterteilt, darunter Metallverarbeitung, Petrochemie, Logistik und Fertigung. Die Zone beherbergt über 200 Unternehmen, darunter Aluminiumhersteller EGA und Lebensmittelverarbeiter. KIZAD bietet eigene Versorgungseinrichtungen wie Kraftwerke und Entsalzungsanlagen. Die Infrastruktur umfasst ein Schienennetz, das an das nationale Netz angeschlossen ist. KIZAD soll zu einem der größten Industriekomplexe der Welt werden und trägt zur wirtschaftlichen Diversifizierung Abu Dhabis bei. Die Zone hat eine Gesamtinvestition von über 30 Milliarden US-Dollar angezogen.",
+      hu: "A Khalifa Ipari Zóna Abu Dhabi (KIZAD) egy hatalmas ipari terület, amely 410 km²-en terül el. 2010-ben alapították, és szorosan kapcsolódik a Khalifa kikötőhöz. A KIZAD több klaszterre oszlik, beleértve a fémfeldolgozást, petrolkémiát, logisztikát és gyártást. A zóna több mint 200 vállalatot vonz, köztük az EGA alumíniumgyártót és élelmiszer-feldolgozókat. A KIZAD saját közművekkel rendelkezik, mint erőművek és sótalanító üzemek. Az infrastruktúra magában foglal egy vasúthálózatot, amely csatlakozik a nemzeti hálózathoz. A KIZAD célja, hogy a világ egyik legnagyobb ipari komplexumává váljon, hozzájárulva Abu Dhabi gazdasági diverzifikációjához. A zóna több mint 30 milliárd USD beruházást vonzott.",
+      ro: "Zona Industrială Khalifa Abu Dhabi (KIZAD) este o imensă zonă industrială care se întinde pe 410 km². A fost fondată în 2010 și este strâns legată de Portul Khalifa. KIZAD este împărțită în mai multe clustere, inclusiv prelucrarea metalelor, petrochimie, logistică și producție. Zona găzduiește peste 200 de companii, inclusiv producătorul de aluminiu EGA și procesatori alimentari. KIZAD are propriile utilități, cum ar fi centrale electrice și instalații de desalinizare. Infrastructura include o rețea feroviară conectată la rețeaua națională. KIZAD își propune să devină unul dintre cele mai mari complexe industriale din lume, contribuind la diversificarea economică a Abu Dhabiului. Zona a atras investiții totale de peste 30 de miliarde de dolari.",
+      en: "The Khalifa Industrial Zone Abu Dhabi (KIZAD) is a vast industrial area spanning 410 km². Established in 2010, it is closely integrated with Khalifa Port. KIZAD is divided into multiple clusters including metals, petrochemicals, logistics, and manufacturing. The zone hosts over 200 companies, including aluminium producer EGA and food processors. KIZAD has its own utility plants, including power and desalination. The infrastructure includes a rail network connected to the national grid. KIZAD aims to become one of the world's largest industrial complexes, supporting Abu Dhabi's economic diversification. The zone has attracted over $30 billion in total investment.",
+    },
+    factsAdvanced: {
+      de: ["Fläche 410 km²", "Gegründet 2010", "Über 200 Unternehmen", "Eigene Kraftwerke und Entsalzungsanlagen", "Schienennetz angeschlossen", "Über 30 Mrd. USD Investitionen"],
+      hu: ["Terület 410 km²", "2010-ben alapították", "Több mint 200 vállalat", "Saját erőművek és sótalanító üzemek", "Vasúthálózat csatlakoztatva", "Több mint 30 milliárd USD beruházás"],
+      ro: ["Suprafață 410 km²", "Fondată în 2010", "Peste 200 de companii", "Centrale electrice și instalații de desalinizare proprii", "Rețea feroviară conectată", "Investiții totale de peste 30 miliarde USD"],
+      en: ["Area 410 km²", "Established in 2010", "Over 200 companies", "Own power and desalination plants", "Connected rail network", "Over $30 billion total investment"],
+    },
   },
   {
     id: "ruwais-refinery-economic-v2",
     type: "industry",
     parent: "AE-AZ",
     coords: [52.730, 24.137],
-    name: { de: "Raffinerie Ruwais", hu: "Ruwais Finomító", ro: "Rafinăria Ruwais", en: "Ruwais Refinery",
-image: "/poi-images/ruwais-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Ruwais", hu: "Ruwais Finomító", ro: "Rafinăria Ruwais", en: "Ruwais Refinery"},
+    image: "/poi-images/ruwais-refinery-economic-v2.webp",
     description: { de: "Die Raffinerie Ruwais in der Region Al Dhafra ist eine der größten und modernsten Erdölraffinerien der Welt und ein Eckpfeiler der ADNOC.", hu: "Az Al Dhafra régióban található Ruwais Finomító a világ egyik legnagyobb és legkorszerűbb kőolajfinomítója, az ADNOC egyik sarokköve.", ro: "Rafinăria Ruwais din regiunea Al Dhafra este una dintre cele mai mari și mai moderne rafinării de petrol din lume, piatră de temelie a ADNOC.", en: "The Ruwais Refinery in the Al Dhafra region is one of the world's largest and most modern oil refineries, acting as a cornerstone for ADNOC." },
     facts: {
       de: ["Sie verarbeitet Rohöl zu hochwertigen Erdölprodukten.", "Befindet sich etwa 240 Kilometer westlich von Abu Dhabi-Stadt."],
       hu: ["A nyersolajat kiváló minőségű kőolajtermékekké dolgozza fel.", "Körülbelül 240 kilométerre nyugatra található Abu-Dzabi városától."],
       ro: ["Procesează țițeiul în produse petroliere de înaltă calitate.", "Situată la aproximativ 240 de kilometri vest de orașul Abu Dhabi."],
       en: ["Processes crude oil into high-quality petroleum products.", "Located about 240 kilometers west of Abu Dhabi city."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Ruwais-Raffinerie ist eine der größten Erdölraffinerien der Welt, gelegen in der Stadt Ruwais in Abu Dhabi. Sie wurde 1981 in Betrieb genommen und hat eine Kapazität von über 800.000 Barrel pro Tag (bpd). Die Anlage wird von der Abu Dhabi National Oil Company (ADNOC) betrieben und ist ein zentraler Bestandteil der Ölindustrie der VAE. Die Raffinerie produziert eine breite Palette von Produkten, darunter Benzin, Diesel, Kerosin und Naphtha. Sie umfasst auch eine petrochemische Anlage, die Ethylen und Polypropylen herstellt. Die Ruwais-Raffinerie ist Teil des Ruwais Industrial Complex, der auch eine Gasverarbeitungsanlage und ein Kraftwerk umfasst. Die Anlage trägt wesentlich zur Wirtschaft der VAE bei und exportiert in viele Länder.",
+      hu: "A Ruwais-olajfinomító a világ egyik legnagyobb kőolaj-finomítója, Ruwais városában, Abu Dhabiban. 1981-ben kezdte meg a működését, kapacitása meghaladja a napi 800 000 hordót (bpd). Az üzemeltető az Abu Dhabi National Oil Company (ADNOC), és az UAE olajiparának központi eleme. A finomító széles termékpalettát állít elő, beleértve benzint, dízelolajat, kerozint és naftát. Tartalmaz egy petrolkémiai üzemet is, amely etilént és polipropilént gyárt. A Ruwais-finomító a Ruwais Ipari Komplexum része, amely magában foglal egy gázfeldolgozó üzemet és egy erőművet is. Az üzem jelentősen hozzájárul az UAE gazdaságához, és számos országba exportál.",
+      ro: "Rafinăria Ruwais este una dintre cele mai mari rafinării de petrol din lume, situată în orașul Ruwais, Abu Dhabi. A fost pusă în funcțiune în 1981 și are o capacitate de peste 800.000 de barili pe zi (bpd). Instalația este operată de Abu Dhabi National Oil Company (ADNOC) și este o componentă centrală a industriei petroliere a EAU. Rafinăria produce o gamă largă de produse, inclusiv benzină, motorină, kerosen și nafta. Include, de asemenea, o instalație petrochimică care produce etilenă și polipropilenă. Rafinăria Ruwais face parte din Complexul Industrial Ruwais, care include și o instalație de procesare a gazelor și o centrală electrică. Instalația contribuie semnificativ la economia EAU și exportă în multe țări.",
+      en: "The Ruwais Refinery is one of the world's largest oil refineries, located in the city of Ruwais, Abu Dhabi. It began operations in 1981 and has a capacity of over 800,000 barrels per day (bpd). The plant is operated by the Abu Dhabi National Oil Company (ADNOC) and is a central component of the UAE's oil industry. The refinery produces a wide range of products including gasoline, diesel, kerosene, and naphtha. It also includes a petrochemical plant that produces ethylene and polypropylene. The Ruwais Refinery is part of the Ruwais Industrial Complex, which also includes a gas processing plant and a power plant. The facility significantly contributes to the UAE's economy and exports to many countries.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität über 800.000 bpd", "In Betrieb seit 1981", "Betrieben von ADNOC", "Produziert Benzin, Diesel, Kerosin", "Petrochemische Anlage für Ethylen", "Teil des Ruwais Industrial Complex"],
+      hu: ["Kapacitás meghaladja a napi 800 000 hordót", "Működés kezdete: 1981", "ADNOC üzemelteti", "Benzint, gázolajat, kerozint állít elő", "Petrolkémiai üzem etilénhez", "A Ruwais Ipari Komplexum része"],
+      ro: ["Capacitate de peste 800.000 bpd", "În funcțiune din 1981", "Operată de ADNOC", "Produce benzină, motorină, kerosen", "Instalație petrochimică pentru etilenă", "Parte a Complexului Industrial Ruwais"],
+      en: ["Capacity over 800,000 bpd", "Operational since 1981", "Operated by ADNOC", "Produces gasoline, diesel, kerosene", "Petrochemical plant for ethylene", "Part of Ruwais Industrial Complex"],
+    },
   },
   {
     id: "ega-al-taweelah-economic-v2",
     type: "industry",
     parent: "AE-AZ",
     coords: [54.717, 24.848],
-    name: { de: "Emirates Global Aluminium Al Taweelah", hu: "Emirates Global Aluminium Al Taweelah", ro: "Emirates Global Aluminium Al Taweelah", en: "Emirates Global Aluminium Al Taweelah",
-image: "/poi-images/ega-al-taweelah-economic-v2.webp"
-},
+    name: { de: "Emirates Global Aluminium Al Taweelah", hu: "Emirates Global Aluminium Al Taweelah", ro: "Emirates Global Aluminium Al Taweelah", en: "Emirates Global Aluminium Al Taweelah"},
+    image: "/poi-images/ega-al-taweelah-economic-v2.webp",
     description: { de: "Die EGA-Schmelze in Al Taweelah ist eine der größten Aluminiumproduktionsstätten der Welt und ein Symbol für die industrielle Diversifizierung der VAE.", hu: "Az EGA Al Taweelah kohója a világ egyik legnagyobb alumíniumgyártó létesítménye, amely az EAE ipari diverzifikációjának egyik szimbóluma.", ro: "Topitoria EGA din Al Taweelah este una dintre cele mai mari fabrici de producție a aluminiului din lume, simbolizând diversificarea industrială a EAU.", en: "The EGA smelter in Al Taweelah is one of the world's largest aluminium production facilities, symbolizing the UAE's industrial diversification." },
     facts: {
       de: ["Produziert hochreines Aluminium für den Export.", "Die Anlage verfügt über ein eigenes Kraftwerk."],
       hu: ["Nagy tisztaságú alumíniumot állít elő exportra.", "A létesítmény saját erőművel rendelkezik."],
       ro: ["Produce aluminiu de înaltă puritate pentru export.", "Facilitatea are propria sa centrală electrică."],
       en: ["Produces high-purity aluminium for export.", "The facility has its own dedicated power plant."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Emirates Global Aluminium (EGA) betreibt eine der größten Aluminiumhütten der Welt in Al Taweelah, Abu Dhabi. Die Anlage wurde 2010 in Betrieb genommen und hat eine jährliche Produktionskapazität von über 1 Million Tonnen Aluminium. EGA ist ein Joint Venture zwischen Dubai Holding und der Investment Corporation of Dubai. Die Hütte nutzt die neueste Technologie, einschließlich des patentierten DX+ Ultra-Systems. Sie ist vollständig integriert mit einem eigenen Kraftwerk und einer Entsalzungsanlage. EGA exportiert Aluminium in über 50 Länder. Die Anlage ist ein wichtiger Arbeitgeber in der Region und trägt zur Diversifizierung der Wirtschaft der VAE bei. EGA ist auch in der Forschung zur Reduzierung von CO2-Emissionen aktiv.",
+      hu: "Az Emirates Global Aluminium (EGA) a világ egyik legnagyobb alumíniumkohóját üzemelteti Al Taweelah-ban, Abu Dhabiban. Az üzem 2010-ben kezdte meg a működését, éves termelési kapacitása meghaladja az 1 millió tonna alumíniumot. Az EGA a Dubai Holding és a Dubai Investment Corporation közös vállalkozása. A kohó a legújabb technológiát használja, beleértve a szabadalmaztatott DX+ Ultra rendszert. Teljesen integrált, saját erőművel és sótalanító üzemmel rendelkezik. Az EGA több mint 50 országba exportál alumíniumot. Az üzem fontos munkaadó a régióban, és hozzájárul az UAE gazdaságának diverzifikációjához. Az EGA aktív a CO2-kibocsátás csökkentésére irányuló kutatásokban is.",
+      ro: "Emirates Global Aluminium (EGA) operează una dintre cele mai mari topitorii de aluminiu din lume în Al Taweelah, Abu Dhabi. Instalația a devenit operațională în 2010 și are o capacitate anuală de producție de peste 1 milion de tone de aluminiu. EGA este o societate mixtă între Dubai Holding și Investment Corporation of Dubai. Topitoria utilizează cea mai recentă tehnologie, inclusiv sistemul brevetat DX+ Ultra. Este complet integrată cu o centrală electrică proprie și o instalație de desalinizare. EGA exportă aluminiu în peste 50 de țări. Instalația este un angajator important în regiune și contribuie la diversificarea economiei EAU. EGA este, de asemenea, activă în cercetarea pentru reducerea emisiilor de CO2.",
+      en: "Emirates Global Aluminium (EGA) operates one of the world's largest aluminium smelters in Al Taweelah, Abu Dhabi. The plant became operational in 2010 and has an annual production capacity of over 1 million tonnes of aluminium. EGA is a joint venture between Dubai Holding and the Investment Corporation of Dubai. The smelter uses the latest technology, including the patented DX+ Ultra system. It is fully integrated with its own power plant and desalination facility. EGA exports aluminium to over 50 countries. The plant is a major employer in the region and contributes to the UAE's economic diversification. EGA is also active in research to reduce CO2 emissions.",
+    },
+    factsAdvanced: {
+      de: ["Produktionskapazität über 1 Mio. Tonnen jährlich", "In Betrieb seit 2010", "Gemeinschaftsunternehmen von Dubai Holding und ICD", "Patentiertes DX+ Ultra System", "Eigenes Kraftwerk und Entsalzungsanlage", "Export in über 50 Länder"],
+      hu: ["Éves termelési kapacitás meghaladja az 1 millió tonnát", "2010 óta működik", "Dubai Holding és ICD közös vállalkozása", "Szabadalmaztatott DX+ Ultra rendszer", "Saját erőmű és sótalanító üzem", "Több mint 50 országba exportál"],
+      ro: ["Capacitate anuală de producție de peste 1 milion de tone", "Operațional din 2010", "Societate mixtă între Dubai Holding și ICD", "Sistem brevetat DX+ Ultra", "Centrală electrică și instalație de desalinizare proprii", "Export în peste 50 de țări"],
+      en: ["Annual capacity over 1 million tonnes", "Operational since 2010", "Joint venture of Dubai Holding and ICD", "Patented DX+ Ultra system", "Own power plant and desalination", "Exports to over 50 countries"],
+    },
   },
   {
     id: "saif-zone-economic-v2",
     type: "trade-hub",
     parent: "AE-SH",
     coords: [55.516, 25.321],
-    name: { de: "Internationale Freihandelszone des Flughafens Sardscha", hu: "Sardzsai Repülőtér Nemzetközi Szabadkereskedelmi Övezete", ro: "Zona Liberă Internațională a Aeroportului Sharjah", en: "Sharjah Airport International Free Zone (SAIF Zone)",
-image: "/poi-images/saif-zone-economic-v2.webp"
-},
+    name: { de: "Internationale Freihandelszone des Flughafens Sardscha", hu: "Sardzsai Repülőtér Nemzetközi Szabadkereskedelmi Övezete", ro: "Zona Liberă Internațională a Aeroportului Sharjah", en: "Sharjah Airport International Free Zone (SAIF Zone)"},
+    image: "/poi-images/saif-zone-economic-v2.webp",
     description: { de: "Die SAIF Zone ist ein dynamisches Geschäftszentrum, das Unternehmen erstklassige Logistikdienstleistungen mit direkter Anbindung an den Flughafen bietet.", hu: "A SAIF Zone egy dinamikus üzleti központ, amely első osztályú logisztikai szolgáltatásokat nyújt a vállalatoknak, közvetlen repülőtéri összeköttetéssel.", ro: "SAIF Zone este un centru de afaceri dinamic care oferă companiilor servicii logistice de top, având conexiune directă cu aeroportul.", en: "The SAIF Zone is a dynamic business hub providing companies with premier logistics services and direct access to the airport." },
     facts: {
       de: ["Wurde 1995 gegründet.", "Beherbergt Unternehmen aus über 160 Ländern."],
       hu: ["1995-ben alapították.", "Több mint 160 országból származó vállalatoknak ad otthont."],
       ro: ["A fost fondată în anul 1995.", "Găzduiește companii din peste 160 de țări."],
       en: ["Founded in 1995.", "Hosts companies from over 160 different countries."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Sharjah Airport International Free Zone (SAIF Zone) wurde 1995 gegründet und liegt in der Nähe des Flughafens Sharjah. Sie erstreckt sich über eine Fläche von 2,5 km² und beherbergt über 2.500 Unternehmen aus aller Welt. Die Zone bietet 100% ausländisches Eigentum, keine Steuern und zollfreie Einfuhren. SAIF Zone ist besonders attraktiv für KMU und Start-ups in den Bereichen Handel, Logistik und Leichtindustrie. Sie verfügt über eigene Büro- und Lagereinrichtungen sowie ein Geschäftszentrum. Die Zone ist strategisch günstig gelegen in der Nähe der Häfen von Sharjah und Dubai. SAIF Zone hat zur wirtschaftlichen Entwicklung Sharjahs beigetragen und bietet über 10.000 Arbeitsplätze. Sie ist bekannt für ihre schnelle Unternehmensregistrierung.",
+      hu: "A Sharjah Airport International Free Zone (SAIF Zone) 1995-ben jött létre, és a Sharjah repülőtér közelében található. Területe 2,5 km², és több mint 2500 vállalatot vonz a világ minden tájáról. Az övezet 100%-os külföldi tulajdont, adómentességet és vámmentes behozatalt kínál. A SAIF Zone különösen vonzó a kis- és középvállalkozások (KKV-k) és startupok számára a kereskedelem, logisztika és könnyűipar területén. Saját iroda- és raktárhelyiségekkel, valamint üzleti központtal rendelkezik. Az övezet stratégiai helyen fekszik Sharjah és Dubai kikötői közelében. A SAIF Zone hozzájárult Sharjah gazdasági fejlődéséhez, és több mint 10 000 munkahelyet teremt. Gyors cégalapításáról ismert.",
+      ro: "Zona Liberă Internațională a Aeroportului Sharjah (SAIF Zone) a fost înființată în 1995 și este situată lângă Aeroportul Sharjah. Se întinde pe o suprafață de 2,5 km² și găzduiește peste 2.500 de companii din întreaga lume. Zona oferă proprietate 100% străină, fără taxe și importuri scutite de vamă. SAIF Zone este deosebit de atractivă pentru IMM-uri și startup-uri în comerț, logistică și industrie ușoară. Dispune de propriile facilități de birouri și depozite, precum și de un centru de afaceri. Zona este situată strategic în apropierea porturilor Sharjah și Dubai. SAIF Zone a contribuit la dezvoltarea economică a Sharjahului și oferă peste 10.000 de locuri de muncă. Este cunoscută pentru înregistrarea rapidă a companiilor.",
+      en: "The Sharjah Airport International Free Zone (SAIF Zone) was established in 1995 and is located near Sharjah Airport. It spans 2.5 km² and hosts over 2,500 companies from around the world. The zone offers 100% foreign ownership, no taxes, and duty-free imports. SAIF Zone is particularly attractive for SMEs and startups in trade, logistics, and light manufacturing. It has its own office and warehouse facilities as well as a business center. The zone is strategically located near the ports of Sharjah and Dubai. SAIF Zone has contributed to Sharjah's economic development and provides over 10,000 jobs. It is known for quick company registration.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1995", "Fläche 2,5 km²", "2.500+ Unternehmen", "100% ausländisches Eigentum", "10.000+ Arbeitsplätze", "Nähe zu Sharjah und Dubai Häfen"],
+      hu: ["1995-ben alapították", "Terület 2,5 km²", "2.500+ vállalat", "100%-os külföldi tulajdon", "10.000+ munkahely", "Sharjah és Dubai kikötői közelében"],
+      ro: ["Fondată în 1995", "Suprafață 2,5 km²", "Peste 2.500 de companii", "Proprietate 100% străină", "Peste 10.000 de locuri de muncă", "Aproape de porturile Sharjah și Dubai"],
+      en: ["Established in 1995", "Area 2.5 km²", "Over 2,500 companies", "100% foreign ownership", "Over 10,000 jobs", "Near Sharjah and Dubai ports"],
+    },
   },
   {
     id: "zayed-port-economic-v2",
     type: "port",
     parent: "AE-AZ",
     coords: [54.381, 24.520],
-    name: { de: "Hafen Zayed", hu: "Zájed Kikötő", ro: "Portul Zayed", en: "Zayed Port",
-image: "/poi-images/zayed-port-economic-v2.webp"
-},
+    name: { de: "Hafen Zayed", hu: "Zájed Kikötő", ro: "Portul Zayed", en: "Zayed Port"},
+    image: "/poi-images/zayed-port-economic-v2.webp",
     description: { de: "Der Hafen Zayed war jahrzehntelang der Haupthandelshafen von Abu Dhabi, bevor der Containerverkehr zum Khalifa-Hafen verlagert wurde.", hu: "A Zájed Kikötő évtizedekig Abu-Dzabi fő kereskedelmi kikötője volt, mielőtt a konténerforgalmat áthelyezték volna a Halífa Kikötőbe.", ro: "Portul Zayed a fost portul comercial principal al Abu Dhabi timp de decenii, înainte ca traficul de containere să fie mutat la Portul Khalifa.", en: "Zayed Port was the main commercial port of Abu Dhabi for decades before container traffic was shifted to Khalifa Port." },
     facts: {
       de: ["Benannt nach Sheikh Zayed bin Sultan Al Nahyan.", "Konzentriert sich heute auf Kreuzfahrtschiffe und Stückgut."],
       hu: ["Nevét Zájed bin Szultán Ál Nahján sejkről kapta.", "Ma már főként a tengerjáró hajókra és a darabárukra összpontosít."],
       ro: ["Numit după Șeicul Zayed bin Sultan Al Nahyan.", "În prezent se concentrează pe nave de croazieră și mărfuri generale."],
       en: ["Named after Sheikh Zayed bin Sultan Al Nahyan.", "Now focuses mainly on cruise ships and general cargo."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Zayed Port, benannt nach Scheich Zayed bin Sultan Al Nahyan, ist ein historischer Hafen in der Innenstadt von Abu Dhabi. Er wurde 1968 eröffnet und war lange Zeit der Haupthafen der Stadt, bevor der Khalifa Port den Frachtverkehr übernahm. Heute wird der Hafen hauptsächlich für Passagierfährten, Kreuzfahrten und Freizeitboote genutzt. Er verfügt über 7 Liegeplätze und kann Schiffe bis zu einer Länge von 240 Metern aufnehmen. Der Hafen liegt in der Nähe der Corniche und ist ein beliebter Ausgangspunkt für Touren zu den Inseln. In den letzten Jahren wurde der Hafen modernisiert, um den Tourismus zu fördern. Der Zayed Port ist auch ein wichtiger Ort für kulturelle Veranstaltungen und Märkte.",
+      hu: "A Zayed kikötőt, amelyet Zayed bin Sultan Al Nahyan sejk után neveztek el, Abu Dhabi belvárosában található. 1968-ban nyitották meg, és hosszú ideig a város fő kikötője volt, mielőtt a Khalifa kikötő átvette a teherforgalmat. Ma a kikötőt főként személyszállító kompok, körutazóhajók és szabadidős hajók használják. 7 kikötőhellyel rendelkezik, és legfeljebb 240 méter hosszú hajókat fogadhat. A kikötő a Corniche közelében található, és népszerű kiindulópont a szigetekre tett kirándulásokhoz. Az elmúlt években a kikötőt modernizálták a turizmus fellendítése érdekében. A Zayed kikötő kulturális események és piacok fontos helyszíne is.",
+      ro: "Portul Zayed, numit după șeicul Zayed bin Sultan Al Nahyan, este un port istoric situat în centrul orașului Abu Dhabi. A fost deschis în 1968 și a fost mult timp portul principal al orașului, înainte ca Portul Khalifa să preia traficul de marfă. Astăzi, portul este utilizat în principal pentru feriboturi de pasageri, croaziere și ambarcațiuni de agrement. Dispune de 7 dane și poate primi nave de până la 240 de metri lungime. Portul este situat lângă Corniche și este un punct de plecare popular pentru excursii către insule. În ultimii ani, portul a fost modernizat pentru a stimula turismul. Portul Zayed este, de asemenea, un loc important pentru evenimente culturale și piețe.",
+      en: "Zayed Port, named after Sheikh Zayed bin Sultan Al Nahyan, is a historic port located in downtown Abu Dhabi. It opened in 1968 and was the city's main port for decades before Khalifa Port took over cargo traffic. Today, the port is primarily used for passenger ferries, cruises, and leisure boats. It has 7 berths and can accommodate vessels up to 240 meters in length. The port is near the Corniche and is a popular starting point for island tours. In recent years, the port has been modernized to boost tourism. Zayed Port also hosts cultural events and markets.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1968", "7 Liegeplätze", "Schiffe bis 240 m Länge", "Heute für Passagiere und Kreuzfahrten", "Innenstadtlage an der Corniche", "Modernisiert für Tourismus"],
+      hu: ["1968-ban nyitották meg", "7 kikötőhely", "Hajók max. 240 m hosszúságig", "Ma személyszállításra és körutazásokra", "Belvárosi elhelyezkedés a Corniche mellett", "Turizmus céljára modernizálták"],
+      ro: ["Deschis în 1968", "7 dane", "Nave de până la 240 m lungime", "Acum pentru pasageri și croaziere", "Amplasare centrală lângă Corniche", "Modernizat pentru turism"],
+      en: ["Opened in 1968", "7 berths", "Vessels up to 240 m length", "Now used for passengers and cruises", "Downtown location near Corniche", "Modernized for tourism"],
+    },
   },
   {
     id: "dubai-internet-city-economic-v2",
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.163, 25.097],
-    name: { de: "Dubai Internet City", hu: "Dubai Internet City", ro: "Dubai Internet City", en: "Dubai Internet City",
-image: "/poi-images/dubai-internet-city-economic-v2.webp"
-},
+    name: { de: "Dubai Internet City", hu: "Dubai Internet City", ro: "Dubai Internet City", en: "Dubai Internet City"},
+    image: "/poi-images/dubai-internet-city-economic-v2.webp",
     description: { de: "Dubai Internet City ist der größte Technologiepark für Informations- und Kommunikationstechnologie in der Region des Nahen Ostens und Nordafrikas.", hu: "A Dubai Internet City a Közel-Kelet és Észak-Afrika régió legnagyobb információs és kommunikációs technológiai (IKT) parkja.", ro: "Dubai Internet City este cel mai mare parc tehnologic pentru tehnologia informației și comunicațiilor din regiunea Orientului Mijlociu și a Africii de Nord.", en: "Dubai Internet City is the largest information and communications technology hub in the Middle East and North Africa region." },
     facts: {
       de: ["Wurde im Jahr 1999 angekündigt.", "Beherbergt regionale Niederlassungen von globalen Tech-Giganten."],
       hu: ["1999-ben jelentették be a létrehozását.", "Globális technológiai óriáscégek regionális irodáinak ad otthont."],
       ro: ["Proiectul a fost anunțat în anul 1999.", "Găzduiește birouri regionale ale giganților tehnologici globali."],
       en: ["Announced in the year 1999.", "Hosts regional headquarters of global tech giants."]
-    }, image: "/poi-images/dubai-internet-city-economic-v2.webp"},
+    }, image: "/poi-images/dubai-internet-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dubai Internet City (DIC) wurde 1999 gegründet und ist ein Technologiepark, der sich über 1 km² erstreckt. Sie beherbergt über 1.600 Unternehmen, darunter globale Tech-Giganten wie Google, Microsoft und Oracle. DIC ist ein führendes Zentrum für Informationstechnologie und Innovation im Nahen Osten. Der Park bietet hochmoderne Infrastruktur, einschließlich Glasfasernetzen und Rechenzentren. Er ist Teil des Dubai Technology and Media Free Zone (TECOM). DIC hat mehr als 20.000 Fachkräfte angezogen und fördert Start-ups durch Inkubatorprogramme. Die Stadt ist bekannt für ihre lebendige Geschäftsumgebung und die Nähe zur Dubai Marina. DIC hat maßgeblich zur Positionierung Dubais als globales Technologiezentrum beigetragen.",
+      hu: "A Dubai Internet City (DIC) 1999-ben jött létre, és egy 1 km²-es technológiai park. Több mint 1600 vállalatot vonz, köztük olyan globális tech-óriásokat, mint a Google, a Microsoft és az Oracle. A DIC a Közel-Kelet vezető információs technológiai és innovációs központja. A park csúcstechnológiás infrastruktúrát kínál, beleértve az optikai hálózatokat és adatközpontokat. A Dubai Technology and Media Free Zone (TECOM) része. A DIC több mint 20 000 szakembert vonzott, és inkubátorprogramokkal támogatja a startupokat. A város élénk üzleti környezetéről és a Dubai Marina közelségéről ismert. A DIC jelentősen hozzájárult Dubai globális technológiai központtá válásához.",
+      ro: "Dubai Internet City (DIC) a fost fondată în 1999 și este un parc tehnologic care se întinde pe 1 km². Găzduiește peste 1.600 de companii, inclusiv giganți tehnologici globali precum Google, Microsoft și Oracle. DIC este un centru lider pentru tehnologia informației și inovare în Orientul Mijlociu. Parcul oferă infrastructură de ultimă oră, inclusiv rețele de fibră optică și centre de date. Face parte din Zona Liberă pentru Tehnologie și Media Dubai (TECOM). DIC a atras peste 20.000 de profesioniști și sprijină startup-urile prin programe de incubare. Orașul este cunoscut pentru mediul său de afaceri vibrant și apropierea de Dubai Marina. DIC a contribuit semnificativ la poziționarea Dubaiului ca centru tehnologic global.",
+      en: "Dubai Internet City (DIC) was founded in 1999 and is a technology park spanning 1 km². It hosts over 1,600 companies, including global tech giants like Google, Microsoft, and Oracle. DIC is a leading hub for information technology and innovation in the Middle East. The park offers state-of-the-art infrastructure, including fiber optic networks and data centers. It is part of the Dubai Technology and Media Free Zone (TECOM). DIC has attracted over 20,000 professionals and supports startups through incubation programs. The city is known for its vibrant business environment and proximity to Dubai Marina. DIC has been instrumental in positioning Dubai as a global tech hub.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1999", "Fläche 1 km²", "1.600+ Unternehmen", "20.000+ Beschäftigte", "Teil von TECOM", "Heimat von Google, Microsoft, Oracle"],
+      hu: ["1999-ben alapították", "Terület 1 km²", "1.600+ vállalat", "20.000+ alkalmazott", "A TECOM része", "Google, Microsoft, Oracle otthona"],
+      ro: ["Fondată în 1999", "Suprafață 1 km²", "Peste 1.600 de companii", "Peste 20.000 de angajați", "Parte a TECOM", "Gazdă pentru Google, Microsoft, Oracle"],
+      en: ["Founded in 1999", "Area 1 km²", "Over 1,600 companies", "Over 20,000 employees", "Part of TECOM", "Home to Google, Microsoft, Oracle"],
+    },
+  },
   {
     id: "port-khalid-economic-v2",
     type: "port",
     parent: "AE-SH",
     coords: [55.378, 25.370],
-    name: { de: "Hafen Khalid", hu: "Hálid Kikötő", ro: "Portul Khalid", en: "Port Khalid",
-image: "/poi-images/port-khalid-economic-v2.webp"
-},
+    name: { de: "Hafen Khalid", hu: "Hálid Kikötő", ro: "Portul Khalid", en: "Port Khalid"},
+    image: "/poi-images/port-khalid-economic-v2.webp",
     description: { de: "Der Hafen Khalid im Herzen von Sardscha ist einer der wichtigsten Häfen der VAE und verfügt über exzellente Einrichtungen für Ro-Ro- und Stückgutschiffe.", hu: "A Sardzsa szívében található Hálid Kikötő az EAE egyik legfontosabb kikötője, amely kiváló létesítményekkel rendelkezik a ro-ro és darabáru-hajók számára.", ro: "Portul Khalid, situat în inima orașului Sharjah, este unul dintre porturile principale ale EAU, cu facilități excelente pentru navele Ro-Ro și de mărfuri generale.", en: "Port Khalid in the heart of Sharjah is one of the UAE's principal ports, featuring excellent facilities for ro-ro and general cargo vessels." },
     facts: {
       de: ["Der erste Tiefwasserhafen in Sardscha.", "Verfügt über ein dediziertes Containerterminal."],
       hu: ["Az első mélyvízi kikötő Sardzsában.", "Különálló konténerterminállal rendelkezik."],
       ro: ["Primul port de mare adâncime din Sharjah.", "Dispune de un terminal dedicat containerelor."],
       en: ["The first deep-water port in Sharjah.", "Features a dedicated container terminal."]
-    }, image: "/poi-images/port-khalid-economic-v2.webp"},
+    }, image: "/poi-images/port-khalid-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Port Khalid ist ein wichtiger Hafen in Sharjah, gelegen an der Westküste der VAE am Arabischen Golf. Er wurde 1976 eröffnet und ist ein bedeutender Umschlagplatz für Fracht, insbesondere für Schüttgut und Container. Der Hafen verfügt über 10 Liegeplätze mit einer maximalen Tiefe von 12 Metern. Er ist Teil des Sharjah Port Complex und wird von der Sharjah Port Authority betrieben. Port Khalid dient als wichtige Verbindung für den Handel mit dem Nahen Osten, Afrika und Asien. Der Hafen hat eine jährliche Containerumschlagkapazität von über 300.000 TEU. In der Nähe befinden sich mehrere Industriezonen, die die Frachtaktivitäten unterstützen.",
+      hu: "A Port Khalid Sharjah fontos kikötője, az UAE nyugati partján, az Arab-öbölben. 1976-ban nyitották meg, és jelentős teherforgalmi csomópont, különösen ömlesztett áruk és konténerek számára. A kikötő 10 kikötőhellyel rendelkezik, maximális mélysége 12 méter. A Sharjah Port Complex része, és a Sharjah Port Authority üzemelteti. A Port Khalid fontos kapcsolatot biztosít a Közel-Kelet, Afrika és Ázsia közötti kereskedelemhez. A kikötő éves konténerkapacitása meghaladja a 300 000 TEU-t. A közelben több ipari övezet található, amelyek támogatják a rakománytevékenységeket.",
+      ro: "Portul Khalid este un port important din Sharjah, situat pe coasta de vest a EAU, în Golful Arab. A fost deschis în 1976 și este un nod semnificativ pentru marfă, în special pentru mărfuri vrac și containere. Portul are 10 dane cu o adâncime maximă de 12 metri. Face parte din Complexul Portuar Sharjah și este operat de Autoritatea Portuară Sharjah. Portul Khalid servește ca o legătură vitală pentru comerțul cu Orientul Mijlociu, Africa și Asia. Capacitatea anuală de manipulare a containerelor depășește 300.000 TEU. În apropiere se află mai multe zone industriale care sprijină activitățile de marfă.",
+      en: "Port Khalid is a major port in Sharjah, located on the west coast of the UAE on the Arabian Gulf. It opened in 1976 and is a significant transshipment point for cargo, particularly bulk and container. The port has 10 berths with a maximum depth of 12 meters. It is part of the Sharjah Port Complex and operated by the Sharjah Port Authority. Port Khalid serves as a vital link for trade with the Middle East, Africa, and Asia. The port has an annual container handling capacity of over 300,000 TEU. Nearby industrial zones support cargo activities.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1976", "10 Liegeplätze", "Maximale Tiefe 12 Meter", "Jährliche Container-Kapazität über 300.000 TEU", "Teil des Sharjah Port Complex", "Betrieben von Sharjah Port Authority"],
+      hu: ["1976-ban nyitották meg", "10 kikötőhely", "Maximális mélység 12 méter", "Éves konténerkapacitás meghaladja a 300 000 TEU-t", "A Sharjah Port Complex része", "Sharjah Port Authority üzemelteti"],
+      ro: ["Deschis în 1976", "10 dane", "Adâncime maximă de 12 metri", "Capacitate anuală de containere de peste 300.000 TEU", "Parte a Complexului Portuar Sharjah", "Operat de Autoritatea Portuară Sharjah"],
+      en: ["Opened in 1976", "10 berths", "Maximum depth 12 meters", "Annual container capacity over 300,000 TEU", "Part of Sharjah Port Complex", "Operated by Sharjah Port Authority"],
+    },
+  },
   {
     id: "dmcc-economic-v2",
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.143, 25.074],
-    name: { de: "Dubai Multi Commodities Centre", hu: "Dubaji Multimodális Árutőzsdei Központ", ro: "Centrul Multi-Mărfuri Dubai", en: "Dubai Multi Commodities Centre (DMCC)",
-image: "/poi-images/dmcc-economic-v2.webp"
-},
+    name: { de: "Dubai Multi Commodities Centre", hu: "Dubaji Multimodális Árutőzsdei Központ", ro: "Centrul Multi-Mărfuri Dubai", en: "Dubai Multi Commodities Centre (DMCC)"},
+    image: "/poi-images/dmcc-economic-v2.webp",
     description: { de: "Das DMCC ist eine hochmoderne Freihandelszone im Stadtteil Jumeirah Lakes Towers, die als Zentrum für den globalen Rohstoffhandel dient.", hu: "A DMCC egy ultramodern szabadkereskedelmi övezet a Jumeirah Lakes Towers negyedben, amely a globális árukereskedelem központjaként szolgál.", ro: "DMCC este o zonă liberă ultramodernă în districtul Jumeirah Lakes Towers, servind drept centru pentru comerțul global cu mărfuri.", en: "DMCC is an ultra-modern free zone located in the Jumeirah Lakes Towers district, serving as a hub for global commodities trade." },
     facts: {
       de: ["Fördert den Handel mit Gold, Diamanten und Tee.", "Wurde mehrfach als beste Freihandelszone der Welt ausgezeichnet."],
       hu: ["Elősegíti az arannyal, gyémánttal és teával való kereskedelmet.", "Többször is a világ legjobb szabadkereskedelmi övezetévé választották."],
       ro: ["Promovează comerțul cu aur, diamante și ceai.", "A fost desemnată de mai multe ori drept cea mai bună zonă liberă din lume."],
       en: ["Promotes the trade of gold, diamonds, and tea.", "Has been repeatedly awarded as the world's best free zone."]
-    }, image: "/poi-images/dmcc-economic-v2.webp"},
+    }, image: "/poi-images/dmcc-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dubai Multi Commodities Centre (DMCC) wurde 2002 gegründet und ist eine Freihandelszone, die sich auf den Handel mit Rohstoffen spezialisiert hat. Es hat seinen Sitz im Jumeirah Lakes Towers (JLT) und beherbergt über 20.000 Unternehmen. DMCC bietet Dienstleistungen für den Handel mit Edelsteinen, Metallen, Energieprodukten und anderen Rohstoffen. Die Zone hat eigene Börsen für Gold und Diamanten. DMCC ist bekannt für seine flexible Unternehmensstruktur und die Unterstützung von Start-ups. Es trägt erheblich zum BIP Dubais bei. DMCC organisiert jährlich die Dubai Precious Metals Conference. Die Zone hat ein eigenes Schiedsgericht für Streitigkeiten.",
+      hu: "A Dubai Multi Commodities Centre (DMCC) 2002-ben jött létre, és egy szabadkereskedelmi övezet, amely a nyersanyagok kereskedelmére specializálódott. Székhelye a Jumeirah Lakes Towers (JLT) területén található, és több mint 20 000 vállalatot vonz. A DMCC szolgáltatásokat nyújt nemesfémek, fémek, energiahordozók és más nyersanyagok kereskedelméhez. Az övezet saját arany- és gyémánttőzsdével rendelkezik. A DMCC rugalmas vállalati struktúrájáról és a startupok támogatásáról ismert. Jelentősen hozzájárul Dubai GDP-jéhez. A DMCC évente megrendezi a Dubai Precious Metals Conference-t. Az övezet saját választottbírósággal rendelkezik a viták rendezésére.",
+      ro: "Dubai Multi Commodities Centre (DMCC) a fost fondat în 2002 și este o zonă liberă specializată în comerțul cu mărfuri. Are sediul în Jumeirah Lakes Towers (JLT) și găzduiește peste 20.000 de companii. DMCC oferă servicii pentru comerțul cu pietre prețioase, metale, produse energetice și alte mărfuri. Zona are propriile burse pentru aur și diamante. DMCC este cunoscut pentru structura sa corporativă flexibilă și sprijinul pentru startup-uri. Contribuie semnificativ la PIB-ul Dubaiului. DMCC organizează anual Conferința Dubai Precious Metals. Zona are propria curte de arbitraj pentru soluționarea disputelor.",
+      en: "The Dubai Multi Commodities Centre (DMCC) was established in 2002 and is a free zone specialized in commodity trading. Headquartered in Jumeirah Lakes Towers (JLT), it hosts over 20,000 companies. DMCC provides services for trading precious stones, metals, energy products, and other commodities. The zone has its own exchanges for gold and diamonds. DMCC is known for its flexible corporate structure and support for startups. It contributes significantly to Dubai's GDP. DMCC organizes the annual Dubai Precious Metals Conference. The zone has its own arbitration court for disputes.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2002", "Über 20.000 Unternehmen", "Spezialisiert auf Rohstoffhandel", "Eigene Gold- und Diamantbörse", "Sitz im Jumeirah Lakes Towers", "Jährliche Dubai Precious Metals Conference"],
+      hu: ["2002-ben alapították", "Több mint 20 000 vállalat", "Nyersanyagkereskedelemre specializálódott", "Saját arany- és gyémánttőzsde", "Székhely a Jumeirah Lakes Towers-ben", "Éves Dubai Precious Metals Conference"],
+      ro: ["Fondat în 2002", "Peste 20.000 de companii", "Specializat în comerțul cu mărfuri", "Burse proprii pentru aur și diamante", "Sediu în Jumeirah Lakes Towers", "Conferința anuală Dubai Precious Metals"],
+      en: ["Established in 2002", "Over 20,000 companies", "Specialized in commodity trading", "Own gold and diamond exchanges", "Headquarters in Jumeirah Lakes Towers", "Annual Dubai Precious Metals Conference"],
+    },
+  },
   {
     id: "stevin-rock-quarry-economic-v2",
     type: "mine",
     parent: "AE-RK",
     coords: [56.036, 25.928],
-    name: { de: "Steinbruch Stevin Rock", hu: "Stevin Rock Kőbánya", ro: "Cariera Stevin Rock", en: "Stevin Rock Quarry",
-image: "/poi-images/stevin-rock-quarry-economic-v2.webp"
-},
+    name: { de: "Steinbruch Stevin Rock", hu: "Stevin Rock Kőbánya", ro: "Cariera Stevin Rock", en: "Stevin Rock Quarry"},
+    image: "/poi-images/stevin-rock-quarry-economic-v2.webp",
     description: { de: "Der Stevin Rock Steinbruch in Ras Al Khaimah gehört zu den größten Kalksteinbrüchen der Welt und liefert Baumaterialien für Megaprojekte in der gesamten Golfregion.", hu: "A Rász el-Haima-i Stevin Rock kőbánya a világ egyik legnagyobb mészkőbányája, amely építőanyagokkal látja el az öböl menti régió megaprojektjeit.", ro: "Cariera Stevin Rock din Ras Al Khaimah este una dintre cele mai mari cariere de calcar din lume, furnizând materiale de construcție pentru megaproiecte din întreaga regiune a Golfului.", en: "The Stevin Rock quarry in Ras Al Khaimah is one of the world's largest limestone quarries, supplying construction materials for megaprojects across the Gulf region." },
     facts: {
       de: ["Produziert jährlich Millionen Tonnen Gestein.", "Hat maßgeblich zu den künstlichen Inseln in Dubai beigetragen."],
       hu: ["Évente több millió tonna kőzetet termel ki.", "Jelentősen hozzájárult a dubaji mesterséges szigetek felépítéséhez."],
       ro: ["Produce anual milioane de tone de piatră.", "A contribuit semnificativ la construcția insulelor artificiale din Dubai."],
       en: ["Produces millions of tons of rock annually.", "Contributed significantly to the artificial islands in Dubai."]
-    }, image: "/poi-images/stevin-rock-quarry-economic-v2.webp"},
+    }, image: "/poi-images/stevin-rock-quarry-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Stevin Rock Quarry ist einer der größten Steinbrüche der Welt, gelegen in Ras Al Khaimah, VAE. Er wird von Stevin Rock LLC betrieben und produziert jährlich über 50 Millionen Tonnen Gestein. Der Steinbruch liefert hauptsächlich Kalkstein für die Bauindustrie, einschließlich Großprojekte in Dubai und Abu Dhabi. Die Lagerstätte erstreckt sich über eine Fläche von etwa 10 km². Stevin Rock exportiert auch nach Katar, Saudi-Arabien und in andere Golfstaaten. Der Betrieb ist stark mechanisiert und nutzt moderne Spreng- und Brechtechniken. Der Steinbruch spielt eine entscheidende Rolle in der Baustoffversorgung der Region. Er beschäftigt über 2.000 Mitarbeiter.",
+      hu: "A Stevin Rock kőbánya a világ egyik legnagyobb kőbányája, Ras Al Khaimah-ban, az UAE-ben. A Stevin Rock LLC üzemelteti, és évente több mint 50 millió tonna követ termel. A kőbánya főként mészkövet biztosít az építőipar számára, beleértve Dubai és Abu Dhabi nagyprojektjeit. A lelőhely körülbelül 10 km²-en terül el. A Stevin Rock Katarba, Szaúd-Arábiába és más öbölbeli országokba is exportál. A termelés erősen gépesített, modern robbantási és zúzási technikákat alkalmaz. A kőbánya kulcsszerepet játszik a régió építőanyag-ellátásában. Több mint 2000 embert foglalkoztat.",
+      ro: "Cariera Stevin Rock este una dintre cele mai mari cariere din lume, situată în Ras Al Khaimah, EAU. Este operată de Stevin Rock LLC și produce anual peste 50 de milioane de tone de piatră. Cariera furnizează în principal calcar pentru industria construcțiilor, inclusiv pentru proiecte majore din Dubai și Abu Dhabi. Zăcământul se întinde pe o suprafață de aproximativ 10 km². Stevin Rock exportă și în Qatar, Arabia Saudită și alte țări din Golf. Operațiunile sunt puternic mecanizate, utilizând tehnici moderne de explozie și concasare. Cariera joacă un rol crucial în aprovizionarea cu materiale de construcții a regiunii. Angajează peste 2.000 de muncitori.",
+      en: "Stevin Rock Quarry is one of the largest quarries in the world, located in Ras Al Khaimah, UAE. Operated by Stevin Rock LLC, it produces over 50 million tonnes of rock annually. The quarry primarily supplies limestone for the construction industry, including major projects in Dubai and Abu Dhabi. The deposit spans about 10 km². Stevin Rock also exports to Qatar, Saudi Arabia, and other Gulf countries. Operations are highly mechanized, using modern blasting and crushing techniques. The quarry plays a crucial role in the region's construction material supply. It employs over 2,000 workers.",
+    },
+    factsAdvanced: {
+      de: ["Jahresproduktion über 50 Mio. Tonnen", "Fläche etwa 10 km²", "Liefert Kalkstein für Bauindustrie", "Exporte nach Katar, Saudi-Arabien", "Über 2.000 Mitarbeiter", "Moderne Spreng- und Brechtechniken"],
+      hu: ["Éves termelés meghaladja az 50 millió tonnát", "Terület kb. 10 km²", "Mészkövet szolgáltat az építőiparnak", "Export Katarba, Szaúd-Arábiába", "Több mint 2000 alkalmazott", "Modern robbantási és zúzási technikák"],
+      ro: ["Producție anuală de peste 50 milioane tone", "Suprafață de aproximativ 10 km²", "Furnizează calcar pentru construcții", "Exporturi în Qatar, Arabia Saudită", "Peste 2.000 de angajați", "Tehnici moderne de explozie și concasare"],
+      en: ["Annual production over 50 million tonnes", "Area about 10 km²", "Supplies limestone for construction", "Exports to Qatar, Saudi Arabia", "Over 2,000 employees", "Modern blasting and crushing techniques"],
+    },
+  },
   {
     id: "rakez-economic-v2",
     type: "trade-hub",
     parent: "AE-RK",
     coords: [55.972, 25.801],
-    name: { de: "Wirtschaftszone Ras Al Khaimah", hu: "Rász el-Haima-i Gazdasági Övezet", ro: "Zona Economică Ras Al Khaimah", en: "Ras Al Khaimah Economic Zone (RAKEZ)",
-image: "/poi-images/rakez-economic-v2.webp"
-},
+    name: { de: "Wirtschaftszone Ras Al Khaimah", hu: "Rász el-Haima-i Gazdasági Övezet", ro: "Zona Economică Ras Al Khaimah", en: "Ras Al Khaimah Economic Zone (RAKEZ)"},
+    image: "/poi-images/rakez-economic-v2.webp",
     description: { de: "RAKEZ ist ein bedeutendes Geschäfts- und Industriezentrum, das ausländische Investoren mit kostengünstigen Lösungen anzieht und ein diversifiziertes Wirtschaftswachstum fördert.", hu: "A RAKEZ egy jelentős üzleti és ipari központ, amely költséghatékony megoldásokkal vonzza a külföldi befektetőket, elősegítve a diverzifikált gazdasági növekedést.", ro: "RAKEZ este un centru major de afaceri și industrial, atrăgând investitori străini cu soluții eficiente din punct de vedere al costurilor și promovând o creștere economică diversificată.", en: "RAKEZ is a major business and industrial hub, attracting foreign investors with cost-effective solutions and promoting diversified economic growth." },
     facts: {
       de: ["Entstand aus der Fusion der RAK Free Trade Zone und RAK Investment Authority.", "Bietet spezialisierte Zonen für Industrie und Dienstleistungen."],
       hu: ["A RAK Szabadkereskedelmi Övezet és a RAK Befektetési Hatóság egyesüléséből jött létre.", "Speciális övezeteket kínál az ipar és a szolgáltatások számára."],
       ro: ["S-a format prin fuziunea RAK Free Trade Zone cu RAK Investment Authority.", "Oferă zone specializate pentru industrie și servicii."],
       en: ["Formed from the merger of RAK Free Trade Zone and RAK Investment Authority.", "Offers specialized zones for industry and services."]
-    }, image: "/poi-images/rakez-economic-v2.webp"},
+    }, image: "/poi-images/rakez-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ras Al Khaimah Economic Zone (RAKEZ) wurde 2000 gegründet und ist eine Freihandelszone in Ras Al Khaimah. Sie umfasst mehrere Gebiete, darunter Al Nakheel und Al Hamra, mit einer Gesamtfläche von über 1 km². RAKEZ beherbergt über 6.000 Unternehmen aus verschiedenen Branchen wie Produktion, Logistik und Dienstleistungen. Die Zone bietet 100% ausländisches Eigentum, Steuerbefreiungen und schnelle Unternehmensgründung. RAKEZ hat eine eigene Hafenanbindung und liegt in der Nähe des Flughafens. Die Zone hat über 25.000 Arbeitsplätze geschaffen und trägt wesentlich zur wirtschaftlichen Entwicklung Ras Al Khaimahs bei. RAKEZ ist bekannt für seine kostengünstigen Lösungen im Vergleich zu anderen Freizonen der VAE.",
+      hu: "A Ras Al Khaimah Gazdasági Övezetet (RAKEZ) 2000-ben alapították, és egy szabadkereskedelmi övezet Ras Al Khaimah-ban. Több területet foglal magában, köztük Al Nakheel és Al Hamra, teljes területe meghaladja az 1 km²-t. A RAKEZ több mint 6000 vállalatot vonz különböző ágazatokból, mint a gyártás, logisztika és szolgáltatások. Az övezet 100%-os külföldi tulajdont, adómentességet és gyors cégalapítást kínál. A RAKEZ saját kikötői kapcsolattal rendelkezik, és a repülőtér közelében található. Az övezet több mint 25 000 munkahelyet teremtett, és jelentősen hozzájárul Ras Al Khaimah gazdasági fejlődéséhez. A RAKEZ költséghatékony megoldásairól ismert a többi UAE szabad övezethez képest.",
+      ro: "Zona Economică Ras Al Khaimah (RAKEZ) a fost fondată în 2000 și este o zonă liberă în Ras Al Khaimah. Cuprinde mai multe zone, inclusiv Al Nakheel și Al Hamra, cu o suprafață totală de peste 1 km². RAKEZ găzduiește peste 6.000 de companii din diverse sectoare, cum ar fi producția, logistica și serviciile. Zona oferă proprietate 100% străină, scutiri de taxe și înființare rapidă a companiilor. RAKEZ are propria conexiune portuară și este situată aproape de aeroport. Zona a creat peste 25.000 de locuri de muncă și contribuie semnificativ la dezvoltarea economică a Ras Al Khaimah. RAKEZ este cunoscută pentru soluțiile sale rentabile în comparație cu alte zone libere din EAU.",
+      en: "The Ras Al Khaimah Economic Zone (RAKEZ) was established in 2000 and is a free zone in Ras Al Khaimah. It comprises several areas, including Al Nakheel and Al Hamra, with a total area of over 1 km². RAKEZ hosts over 6,000 companies from diverse sectors such as manufacturing, logistics, and services. The zone offers 100% foreign ownership, tax exemptions, and fast company setup. RAKEZ has its own port connectivity and is located near the airport. The zone has created over 25,000 jobs and contributes significantly to Ras Al Khaimah's economic development. RAKEZ is known for its cost-effective solutions compared to other UAE free zones.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2000", "Fläche über 1 km²", "6.000+ Unternehmen", "25.000+ Arbeitsplätze", "100% ausländisches Eigentum", "Eigene Hafenanbindung"],
+      hu: ["2000-ben alapították", "Terület meghaladja az 1 km²-t", "6.000+ vállalat", "25.000+ munkahely", "100%-os külföldi tulajdon", "Saját kikötői kapcsolat"],
+      ro: ["Fondată în 2000", "Suprafață de peste 1 km²", "Peste 6.000 de companii", "Peste 25.000 de locuri de muncă", "Proprietate 100% străină", "Conexiune portuară proprie"],
+      en: ["Established in 2000", "Area over 1 km²", "Over 6,000 companies", "Over 25,000 jobs", "100% foreign ownership", "Own port connectivity"],
+    },
+  },
   {
     id: "dwc-logistics-hub-economic-v2",
     type: "trade-hub",
     parent: "AE-DU",
     coords: [55.165, 24.912],
-    name: { de: "Dubai World Central Logistikzentrum", hu: "Dubai World Central Logisztikai Központ", ro: "Centrul Logistic Dubai World Central", en: "Dubai World Central Logistics Hub",
-image: "/poi-images/dwc-logistics-hub-economic-v2.webp"
-},
+    name: { de: "Dubai World Central Logistikzentrum", hu: "Dubai World Central Logisztikai Központ", ro: "Centrul Logistic Dubai World Central", en: "Dubai World Central Logistics Hub"},
+    image: "/poi-images/dwc-logistics-hub-economic-v2.webp",
     description: { de: "Dieser riesige Logistikkomplex ist Teil des Projekts Dubai South und verbindet nahtlos den Hafen Jebel Ali mit dem internationalen Flughafen Al Maktoum.", hu: "Ez a hatalmas logisztikai komplexum a Dubai South projekt része, és zökkenőmentesen köti össze a Dzsebel Ali Kikötőt az Al Maktoum Nemzetközi Repülőtérrel.", ro: "Acest imens complex logistic face parte din proiectul Dubai South, conectând fluid Portul Jebel Ali cu Aeroportul Internațional Al Maktoum.", en: "This vast logistics complex is part of the Dubai South project, seamlessly connecting Jebel Ali Port with Al Maktoum International Airport." },
     facts: {
       de: ["Ermöglicht multimodalen Transport (See-Luft) in nur vier Stunden.", "Teil der ersten zweckgebundenen 'Aerotropolis' der Welt."],
       hu: ["Lehetővé teszi a multimodális szállítást (tengeri-légi) mindössze négy óra alatt.", "A világ első célzottan épített 'aerotropoliszának' része."],
       ro: ["Permite transportul multimodal (mare-aer) în doar patru ore.", "Face parte din primul 'aerotropolis' construit special din lume."],
       en: ["Enables multimodal (sea-air) transport in just four hours.", "Part of the world's first purpose-built 'aerotropolis'."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Dubai World Central (DWC) Logistics Hub ist ein riesiges Logistikzentrum in der Nähe des Al Maktoum International Airport. Es erstreckt sich über eine Fläche von 140 km² und ist Teil des Dubai South Projekts. Der Hub umfasst Lagerhäuser, Frachtterminals und eine eigene Zollabfertigung. Er ist strategisch günstig gelegen zwischen Dubai und Abu Dhabi. DWC soll der größte Logistikknotenpunkt der Welt werden, mit einer Frachtkapazität von über 12 Millionen Tonnen jährlich. Der Hub ist eng mit dem Jebel Ali Port und dem Flughafen verbunden. Er bietet multimodale Transportmöglichkeiten einschließlich Straße, Schiene und Luftfracht. DWC hat zur wirtschaftlichen Diversifizierung Dubais beigetragen und schafft Tausende von Arbeitsplätzen.",
+      hu: "A Dubai World Central (DWC) Logisztikai Központ egy hatalmas logisztikai központ az Al Maktoum Nemzetközi Repülőtér közelében. Területe 140 km², és a Dubai South projekt része. A központ raktárakat, teherterminálokat és saját vámkezelést foglal magában. Stratégiai helyen fekszik Dubai és Abu Dhabi között. A DWC célja, hogy a világ legnagyobb logisztikai csomópontja legyen, évente több mint 12 millió tonna rakomány kapacitással. A központ szorosan kapcsolódik a Jebel Ali kikötőhöz és a repülőtérhez. Multimodális szállítási lehetőségeket kínál, beleértve a közúti, vasúti és légi áruszállítást. A DWC hozzájárult Dubai gazdasági diverzifikációjához, és több ezer munkahelyet teremt.",
+      ro: "Hub-ul Logistic Dubai World Central (DWC) este un centru logistic imens situat lângă Aeroportul Internațional Al Maktoum. Se întinde pe o suprafață de 140 km² și face parte din proiectul Dubai South. Hub-ul include depozite, terminale de marfă și propriul serviciu vamal. Este situat strategic între Dubai și Abu Dhabi. DWC își propune să devină cel mai mare nod logistic din lume, cu o capacitate de marfă de peste 12 milioane de tone anual. Hub-ul este strâns legat de Portul Jebel Ali și de aeroport. Oferă opțiuni de transport multimodal, inclusiv rutier, feroviar și aerian. DWC a contribuit la diversificarea economică a Dubaiului și creează mii de locuri de muncă.",
+      en: "The Dubai World Central (DWC) Logistics Hub is a massive logistics center near Al Maktoum International Airport. It spans 140 km² and is part of the Dubai South project. The hub includes warehouses, cargo terminals, and its own customs clearance. It is strategically located between Dubai and Abu Dhabi. DWC aims to be the world's largest logistics hub, with a cargo capacity of over 12 million tonnes annually. The hub is closely integrated with Jebel Ali Port and the airport. It offers multimodal transport options including road, rail, and air freight. DWC has contributed to Dubai's economic diversification and creates thousands of jobs.",
+    },
+    factsAdvanced: {
+      de: ["Fläche 140 km²", "Teil von Dubai South", "Jährliche Frachtkapazität über 12 Mio. Tonnen", "Nähe zu Al Maktoum Airport", "Multimodale Transportmöglichkeiten", "Schafft Tausende Arbeitsplätze"],
+      hu: ["Terület 140 km²", "A Dubai South része", "Éves rakománykapacitás meghaladja a 12 millió tonnát", "Al Maktoum repülőtér közelében", "Multimodális szállítási lehetőségek", "Több ezer munkahelyet teremt"],
+      ro: ["Suprafață de 140 km²", "Parte a Dubai South", "Capacitate anuală de marfă de peste 12 milioane tone", "Aproape de Aeroportul Al Maktoum", "Opțiuni de transport multimodal", "Creează mii de locuri de muncă"],
+      en: ["Area 140 km²", "Part of Dubai South", "Annual cargo capacity over 12 million tonnes", "Near Al Maktoum Airport", "Multimodal transport options", "Creates thousands of jobs"],
+    },
   },
   {
     id: "shams-solar-power-station-economic-v2",
     type: "energy",
     parent: "AE-AZ",
     coords: [53.712, 23.572],
-    name: { de: "Sonnenwärmekraftwerk Shams", hu: "Shams Naperőmű", ro: "Centrala Solară Shams", en: "Shams Solar Power Station",
-image: "/poi-images/shams-solar-power-station-economic-v2.webp"
-},
+    name: { de: "Sonnenwärmekraftwerk Shams", hu: "Shams Naperőmű", ro: "Centrala Solară Shams", en: "Shams Solar Power Station"},
+    image: "/poi-images/shams-solar-power-station-economic-v2.webp",
     description: { de: "Shams in Abu Dhabi war bei seiner Inbetriebnahme das größte solarthermische Parabolrinnenkraftwerk der Welt.", hu: "Az Abu-Dzabiban található Shams a maga nemében a világ legnagyobb parabolavályús naperőműve volt az üzembe helyezésekor.", ro: "Shams din Abu Dhabi a fost cea mai mare centrală solară cu jgheaburi parabolice din lume la momentul punerii în funcțiune.", en: "Shams in Abu Dhabi was the world's largest parabolic trough solar power station at the time of its commissioning." },
     facts: {
       de: ["Produziert erneuerbaren Strom für Tausende von Haushalten.", "Trägt zur Reduzierung der CO2-Emissionen bei."],
       hu: ["Több ezer háztartás számára termel megújuló villamos energiát.", "Hozzájárul a szén-dioxid-kibocsátás csökkentéséhez."],
       ro: ["Produce electricitate regenerabilă pentru mii de gospodării.", "Contribuie la reducerea emisiilor de CO2."],
       en: ["Produces renewable electricity for thousands of homes.", "Contributes to the reduction of CO2 emissions."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Shams Solar Power Station ist ein konzentriertes Solarkraftwerk (CSP) in der Wüste von Madinat Zayed, Abu Dhabi. Es wurde 2013 in Betrieb genommen und hat eine Kapazität von 100 MW. Die Anlage nutzt Parabolrinnen-Technologie mit einem thermischen Speichersystem, das eine Stromerzeugung auch nach Sonnenuntergang ermöglicht. Shams 1 war das erste CSP-Kraftwerk im Nahen Osten. Es reduziert jährlich etwa 175.000 Tonnen CO2-Emissionen. Das Kraftwerk erstreckt sich über eine Fläche von 2,5 km² und besteht aus über 768 Parabolrinnenkollektoren. Shams 1 ist ein Gemeinschaftsprojekt von Masdar, Total und Abengoa. Es trägt zur Diversifizierung der Energiequellen der VAE bei.",
+      hu: "A Shams Solar Power Station egy koncentrált napenergia-erőmű (CSP) Madinat Zayed sivatagában, Abu Dhabiban. 2013-ban kezdte meg a működését, kapacitása 100 MW. Az erőmű parabolikus vályú technológiát használ, hőtároló rendszerrel, amely lehetővé teszi az áramtermelést napnyugta után is. A Shams 1 volt az első CSP-erőmű a Közel-Keleten. Évente mintegy 175 000 tonna CO2-kibocsátást takarít meg. Az erőmű 2,5 km²-es területen fekszik, és több mint 768 parabolikus vályúkollektorból áll. A Shams 1 a Masdar, a Total és az Abengoa közös projektje. Hozzájárul az UAE energiaforrásainak diverzifikálásához.",
+      ro: "Centrala Solară Shams este o centrală solară concentrată (CSP) situată în deșertul Madinat Zayed, Abu Dhabi. A devenit operațională în 2013 și are o capacitate de 100 MW. Instalația utilizează tehnologia cu jgheab parabolic cu un sistem de stocare termică care permite generarea de energie electrică chiar și după apus. Shams 1 a fost prima centrală CSP din Orientul Mijlociu. Reduce emisiile de CO2 cu aproximativ 175.000 de tone anual. Centrala se întinde pe o suprafață de 2,5 km² și este formată din peste 768 de colectoare parabolice. Shams 1 este un proiect comun al Masdar, Total și Abengoa. Contribuie la diversificarea surselor de energie ale EAU.",
+      en: "The Shams Solar Power Station is a concentrated solar power (CSP) plant located in the desert of Madinat Zayed, Abu Dhabi. It became operational in 2013 and has a capacity of 100 MW. The plant uses parabolic trough technology with a thermal storage system allowing electricity generation after sunset. Shams 1 was the first CSP plant in the Middle East. It reduces CO2 emissions by approximately 175,000 tonnes annually. The plant spans 2.5 km² and consists of over 768 parabolic trough collectors. Shams 1 is a joint project of Masdar, Total, and Abengoa. It contributes to the UAE's energy source diversification.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität 100 MW", "In Betrieb seit 2013", "Erstes CSP-Kraftwerk im Nahen Osten", "Reduziert 175.000 Tonnen CO2 jährlich", "Fläche 2,5 km²", "768 Parabolrinnenkollektoren"],
+      hu: ["Kapacitás 100 MW", "2013 óta működik", "Az első CSP-erőmű a Közel-Keleten", "Évi 175 000 tonna CO2-kibocsátást takarít meg", "Terület 2,5 km²", "768 parabolikus vályúkollektor"],
+      ro: ["Capacitate de 100 MW", "Operațională din 2013", "Prima centrală CSP din Orientul Mijlociu", "Reduce emisiile de CO2 cu 175.000 tone anual", "Suprafață de 2,5 km²", "768 de colectoare parabolice"],
+      en: ["Capacity 100 MW", "Operational since 2013", "First CSP plant in the Middle East", "Reduces CO2 by 175,000 tonnes annually", "Area 2.5 km²", "768 parabolic trough collectors"],
+    },
   }
 ];

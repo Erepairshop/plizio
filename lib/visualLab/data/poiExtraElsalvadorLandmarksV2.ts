@@ -11,9 +11,8 @@ export const poiExtraElsalvadorLandmarksV2: POI[] = [
       de: "Nationaltheater von San Salvador",
       hu: "San Salvador-i Nemzeti Színház",
       ro: "Teatrul Național din San Salvador",
-      en: "National Theatre of San Salvador",
-image: "/poi-images/teatro-nacional-san-salvador-landmarks-v2.webp"
-},
+      en: "National Theatre of San Salvador"},
+    image: "/poi-images/teatro-nacional-san-salvador-landmarks-v2.webp",
     description: {
       de: "Das älteste Theater Mittelamerikas, ein architektonisches Juwel im Herzen der Stadt.",
       hu: "Közép-Amerika legrégebbi színháza, egy építészeti gyöngyszem a vörös tetők felett.",
@@ -50,9 +49,8 @@ image: "/poi-images/teatro-nacional-san-salvador-landmarks-v2.webp"
       de: "Nationalpalast von El Salvador",
       hu: "El Salvador-i Nemzeti Palota",
       ro: "Palatul Național din El Salvador",
-      en: "National Palace of El Salvador",
-image: "/poi-images/palacio-nacional-el-salvador-landmarks-v2.webp"
-},
+      en: "National Palace of El Salvador"},
+    image: "/poi-images/palacio-nacional-el-salvador-landmarks-v2.webp",
     description: {
       de: "Ein majestätisches Gebäude, das einst die drei Gewalten des salvadorianischen Staates beherbergte.",
       hu: "Egy fenséges épület, amely egykor a salvadori állam három hatalmi ágának adott otthont.",
@@ -89,9 +87,8 @@ image: "/poi-images/palacio-nacional-el-salvador-landmarks-v2.webp"
       de: "Kirche El Rosario",
       hu: "El Rosario templom",
       ro: "Biserica El Rosario",
-      en: "El Rosario Church",
-image: "/poi-images/iglesia-el-rosario-landmarks-v2.webp"
-},
+      en: "El Rosario Church"},
+    image: "/poi-images/iglesia-el-rosario-landmarks-v2.webp",
     description: {
       de: "Eine moderne Kirche mit einer einzigartigen Betonfassade und einem beeindruckenden Buntglas-Regenbogen im Inneren.",
       hu: "Modern templom egyedi betonhomlokzattal és lenyűgöző ólomüveg szivárvánnyal a belsejében.",
@@ -128,9 +125,8 @@ image: "/poi-images/iglesia-el-rosario-landmarks-v2.webp"
       de: "Denkmal der Revolution",
       hu: "A Forradalom emlékműve",
       ro: "Monumentul Revoluției",
-      en: "Monument to the Revolution",
-image: "/poi-images/monumento-a-la-revolucion-landmarks-v2.webp"
-},
+      en: "Monument to the Revolution"},
+    image: "/poi-images/monumento-a-la-revolucion-landmarks-v2.webp",
     description: {
       de: "Ein ikonisches Denkmal zur Erinnerung an den Aufstand von 1948, der zu wichtigen politischen Veränderungen führte.",
       hu: "Ikonikus emlékmű az 1948-as felkelés emlékére, amely fontos politikai változásokhoz vezetett.",
@@ -167,9 +163,8 @@ image: "/poi-images/monumento-a-la-revolucion-landmarks-v2.webp"
       de: "Cuscatlán-Stadion",
       hu: "Cuscatlán Stadion",
       ro: "Stadionul Cuscatlán",
-      en: "Cuscatlán Stadium",
-image: "/poi-images/estadio-cuscatlan-landmarks-v2.webp"
-},
+      en: "Cuscatlán Stadium"},
+    image: "/poi-images/estadio-cuscatlan-landmarks-v2.webp",
     description: {
       de: "Das größte Fußballstadion Mittelamerikas und die Heimat der salvadorianischen Fußballnationalmannschaft.",
       hu: "Közép-Amerika legnagyobb futballstadionja, a salvadori labdarúgó-válogatott otthona.",
@@ -206,9 +201,8 @@ image: "/poi-images/estadio-cuscatlan-landmarks-v2.webp"
       de: "Denkmal der Verfassung",
       hu: "Az Alkotmány emlékműve",
       ro: "Monumentul Constituției",
-      en: "Monument to the Constitution",
-image: "/poi-images/monumento-a-la-constitucion-landmarks-v2.webp"
-},
+      en: "Monument to the Constitution"},
+    image: "/poi-images/monumento-a-la-constitucion-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal zur Feier der Verfassung von 1983, bekannt als 'La Chulona'.",
       hu: "Az 1983-as alkotmányt ünneplő emlékmű, amelyet 'La Chulona' néven ismernek.",
@@ -245,9 +239,8 @@ image: "/poi-images/monumento-a-la-constitucion-landmarks-v2.webp"
       de: "Cuscatlán-Brücke",
       hu: "Cuscatlán híd",
       ro: "Podul Cuscatlán",
-      en: "Cuscatlán Bridge",
-image: "/poi-images/puente-cuscatlan-landmarks-v2.webp"
-},
+      en: "Cuscatlán Bridge"},
+    image: "/poi-images/puente-cuscatlan-landmarks-v2.webp",
     description: {
       de: "Eine der längsten Hängebrücken Mittelamerikas, die den Fluss Lempa überspannt.",
       hu: "Közép-Amerika egyik leghosszabb függőhídja, amely a Lempa folyón ível át.",
@@ -284,9 +277,8 @@ image: "/poi-images/puente-cuscatlan-landmarks-v2.webp"
       de: "Torre Futura",
       hu: "Torre Futura",
       ro: "Torre Futura",
-      en: "Torre Futura",
-image: "/poi-images/torre-futura-landmarks-v2.webp"
-},
+      en: "Torre Futura"},
+    image: "/poi-images/torre-futura-landmarks-v2.webp",
     description: {
       de: "Ein modernes Bürogebäude und eines der höchsten Gebäude in El Salvador, Teil des World Trade Center San Salvador.",
       hu: "San Salvador egyik legmodernebb és legikonikusabb felhőkarcolója, amely a World Trade Center komplexum része.",
@@ -323,9 +315,8 @@ image: "/poi-images/torre-futura-landmarks-v2.webp"
       de: "Bicentenario-Park",
       hu: "Kétszázéves park",
       ro: "Parcul Bicentenario",
-      en: "Bicentennial Park",
-image: "/poi-images/parque-bicentenario-landmarks-v2.webp"
-},
+      en: "Bicentennial Park"},
+    image: "/poi-images/parque-bicentenario-landmarks-v2.webp",
     description: {
       de: "Eine große städtische Grünfläche in San Salvador, die als 'Lunge' der Stadt dient.",
       hu: "Nagy városi zöldterület San Salvadorban, amely a város 'tüdejeként' szolgál.",
@@ -362,9 +353,8 @@ image: "/poi-images/parque-bicentenario-landmarks-v2.webp"
       de: "Nationalmuseum für Anthropologie Dr. David J. Guzmán (MUNA)",
       hu: "Dr. David J. Guzmán Nemzeti Antropológiai Múzeum (MUNA)",
       ro: "Muzeul Național de Antropologie Dr. David J. Guzmán (MUNA)",
-      en: "National Museum of Anthropology Dr. David J. Guzmán (MUNA)",
-image: "/poi-images/museo-nacional-antropologia-muna-landmarks-v2.webp"
-},
+      en: "National Museum of Anthropology Dr. David J. Guzmán (MUNA)"},
+    image: "/poi-images/museo-nacional-antropologia-muna-landmarks-v2.webp",
     description: {
       de: "Das Nationalmuseum, das der Archäologie und Geschichte El Salvadors gewidmet ist.",
       hu: "A salvadori régészetnek és történelemnek szentelt nemzeti múzeum.",
@@ -401,9 +391,8 @@ image: "/poi-images/museo-nacional-antropologia-muna-landmarks-v2.webp"
       de: "Botanischer Garten La Laguna",
       hu: "La Laguna Botanikus Kert",
       ro: "Grădina Botanică La Laguna",
-      en: "La Laguna Botanical Garden",
-image: "/poi-images/jardin-botanico-la-laguna-landmarks-v2.webp"
-},
+      en: "La Laguna Botanical Garden"},
+    image: "/poi-images/jardin-botanico-la-laguna-landmarks-v2.webp",
     description: {
       de: "Ein wunderschöner botanischer Garten in einem Vulkankrater am Rande der Stadt.",
       hu: "Gyönyörű botanikus kert egy vulkáni kráterben a város szélén.",
@@ -440,9 +429,8 @@ image: "/poi-images/jardin-botanico-la-laguna-landmarks-v2.webp"
       de: "Kunstmuseum von El Salvador (MARTE)",
       hu: "Salvadori Művészeti Múzeum (MARTE)",
       ro: "Muzeul de Artă din El Salvador (MARTE)",
-      en: "Museum of Art of El Salvador (MARTE)",
-image: "/poi-images/museo-de-arte-de-el-salvador-marte-landmarks-v2.webp"
-},
+      en: "Museum of Art of El Salvador (MARTE)"},
+    image: "/poi-images/museo-de-arte-de-el-salvador-marte-landmarks-v2.webp",
     description: {
       de: "Das führende Museum für salvadorianische Kunst vom 19. Jahrhundert bis zur Gegenwart.",
       hu: "A 19. századtól napjainkig terjedő salvadori művészet vezető múzeuma.",
@@ -479,9 +467,8 @@ image: "/poi-images/museo-de-arte-de-el-salvador-marte-landmarks-v2.webp"
       de: "Plaza Gerardo Barrios",
       hu: "Gerardo Barrios tér",
       ro: "Piața Gerardo Barrios",
-      en: "Gerardo Barrios Plaza",
-image: "/poi-images/plaza-gerardo-barrios-landmarks-v2.webp"
-},
+      en: "Gerardo Barrios Plaza"},
+    image: "/poi-images/plaza-gerardo-barrios-landmarks-v2.webp",
     description: {
       de: "Der Hauptplatz im historischen Zentrum von San Salvador, umgeben von wichtigen Gebäuden.",
       hu: "San Salvador történelmi központjának főtere, amelyet fontos épületek vesznek körül.",
@@ -518,9 +505,8 @@ image: "/poi-images/plaza-gerardo-barrios-landmarks-v2.webp"
       de: "Plaza Morazán",
       hu: "Morazán tér",
       ro: "Piața Morazán",
-      en: "Morazán Plaza",
-image: "/poi-images/plaza-morazan-landmarks-v2.webp"
-},
+      en: "Morazán Plaza"},
+    image: "/poi-images/plaza-morazan-landmarks-v2.webp",
     description: {
       de: "Ein historischer Platz in San Salvador mit einem Denkmal für den zentralamerikanischen Helden Francisco Morazán.",
       hu: "Történelmi tér San Salvadorban a közép-amerikai hős, Francisco Morazán emlékművével.",
@@ -557,9 +543,8 @@ image: "/poi-images/plaza-morazan-landmarks-v2.webp"
       de: "Kapelle des Krankenhauses Divina Providencia",
       hu: "Divina Providencia Kórház kápolnája",
       ro: "Capela Spitalului Divina Providencia",
-      en: "Chapel of the Hospital Divina Providencia",
-image: "/poi-images/hospital-divina-providencia-chapel-landmarks-v2.webp"
-},
+      en: "Chapel of the Hospital Divina Providencia"},
+    image: "/poi-images/hospital-divina-providencia-chapel-landmarks-v2.webp",
     description: {
       de: "Die Kapelle, in der Erzbischof Óscar Romero 1980 ermordet wurde, heute ein wichtiger Wallfahrtsort.",
       hu: "A kápolna, ahol 1980-ban meggyilkolták Óscar Romero érseket, ma fontos zarándokhely.",
@@ -596,9 +581,8 @@ image: "/poi-images/hospital-divina-providencia-chapel-landmarks-v2.webp"
       de: "Friedhof der Berühmten",
       hu: "Hírességek temetője",
       ro: "Cimitirul celor Iluștri",
-      en: "Cemetery of the Illustrious",
-image: "/poi-images/cementerio-de-los-ilustres-landmarks-v2.webp"
-},
+      en: "Cemetery of the Illustrious"},
+    image: "/poi-images/cementerio-de-los-ilustres-landmarks-v2.webp",
     description: {
       de: "Ein historischer Friedhof in San Salvador, Ruhestätte vieler berühmter Persönlichkeiten aus der Geschichte El Salvadors.",
       hu: "Történelmi temető San Salvadorban, El Salvador történelmének számos híres személyiségének nyughelye.",
@@ -635,9 +619,8 @@ image: "/poi-images/cementerio-de-los-ilustres-landmarks-v2.webp"
       de: "Denkmal des Friedens",
       hu: "A Béke emlékműve",
       ro: "Monumentul Păcii",
-      en: "Monument to Peace",
-image: "/poi-images/monumento-a-la-paz-landmarks-v2.webp"
-},
+      en: "Monument to Peace"},
+    image: "/poi-images/monumento-a-la-paz-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal, das an die Unterzeichnung der Friedensabkommen von 1992 erinnert, die den Bürgerkrieg beendeten.",
       hu: "A polgárháborút lezáró 1992-es békeszerződések aláírására emlékeztető emlékmű.",
@@ -674,9 +657,8 @@ image: "/poi-images/monumento-a-la-paz-landmarks-v2.webp"
       de: "Kirche der Unbefleckten Empfängnis, Santa Tecla",
       hu: "Szeplőtelen Fogantatás templom, Santa Tecla",
       ro: "Biserica Imaculata Concepție, Santa Tecla",
-      en: "Church of the Immaculate Conception, Santa Tecla",
-image: "/poi-images/iglesia-inmaculada-concepcion-santa-tecla-landmarks-v2.webp"
-},
+      en: "Church of the Immaculate Conception, Santa Tecla"},
+    image: "/poi-images/iglesia-inmaculada-concepcion-santa-tecla-landmarks-v2.webp",
     description: {
       de: "Eine neugotische Kirche in Santa Tecla, bekannt für ihre beeindruckenden Buntglasfenster.",
       hu: "Neogótikus templom Santa Teclában, amely lenyűgöző ólomüveg ablakairól ismert.",
@@ -713,9 +695,8 @@ image: "/poi-images/iglesia-inmaculada-concepcion-santa-tecla-landmarks-v2.webp"
       de: "Kirche El Calvario, San Salvador",
       hu: "El Calvario templom, San Salvador",
       ro: "Biserica El Calvario, San Salvador",
-      en: "El Calvario Church, San Salvador",
-image: "/poi-images/iglesia-el-calvario-san-salvador-landmarks-v2.webp"
-},
+      en: "El Calvario Church, San Salvador"},
+    image: "/poi-images/iglesia-el-calvario-san-salvador-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Kirche im gotischen Stil im Zentrum von San Salvador.",
       hu: "Lenyűgöző gótikus stílusú templom San Salvador központjában.",
@@ -752,9 +733,8 @@ image: "/poi-images/iglesia-el-calvario-san-salvador-landmarks-v2.webp"
       de: "Basilika des Heiligen Herzens Jesu",
       hu: "Jézus Szent Szíve bazilika",
       ro: "Bazilica Preasfintei Inimi a lui Iisus",
-      en: "Basilica of the Sacred Heart of Jesus",
-image: "/poi-images/basilica-sagrado-corazon-de-jesus-landmarks-v2.webp"
-},
+      en: "Basilica of the Sacred Heart of Jesus"},
+    image: "/poi-images/basilica-sagrado-corazon-de-jesus-landmarks-v2.webp",
     description: {
       de: "Eine römisch-katholische Basilika in San Salvador mit einer beeindruckenden Kuppel und Architektur.",
       hu: "Római katolikus bazilika San Salvadorban, lenyűgöző kupolával és építészettel.",
@@ -791,9 +771,8 @@ image: "/poi-images/basilica-sagrado-corazon-de-jesus-landmarks-v2.webp"
       de: "Bürger- und Kulturzentrum der Legislative",
       hu: "Törvényhozási Polgári és Kulturális Központ",
       ro: "Centrul Civic Cultural Legislativ",
-      en: "Legislative Civic and Cultural Center",
-image: "/poi-images/centro-civico-cultural-legislativo-landmarks-v2.webp"
-},
+      en: "Legislative Civic and Cultural Center"},
+    image: "/poi-images/centro-civico-cultural-legislativo-landmarks-v2.webp",
     description: {
       de: "Ein moderner Komplex, der das Parlamentsgebäude mit öffentlichen Kulturräumen verbindet.",
       hu: "A törvényhozó testület kulturális központja, amely a gyönyörűen felújított történelmi Villa Dueñas épületében található.",
@@ -830,9 +809,8 @@ image: "/poi-images/centro-civico-cultural-legislativo-landmarks-v2.webp"
       de: "Teatro Presidente",
       hu: "Presidente Színház",
       ro: "Teatrul Presidente",
-      en: "Presidente Theatre",
-image: "/poi-images/teatro-presidente-landmarks-v2.webp"
-},
+      en: "Presidente Theatre"},
+    image: "/poi-images/teatro-presidente-landmarks-v2.webp",
     description: {
       de: "Ein wichtiges Theater in San Salvador, das für seine große Kapazität und Vielfalt an Aufführungen bekannt ist.",
       hu: "Fontos színház San Salvadorban, amely nagy befogadóképességéről és változatos előadásairól ismert.",
@@ -869,9 +847,8 @@ image: "/poi-images/teatro-presidente-landmarks-v2.webp"
       de: "Blumenuhr von Zacamil",
       hu: "Zacamili virágóra",
       ro: "Ceasul Floral din Zacamil",
-      en: "Flower Clock of Zacamil",
-image: "/poi-images/reloj-de-flores-zacamil-landmarks-v2.webp"
-},
+      en: "Flower Clock of Zacamil"},
+    image: "/poi-images/reloj-de-flores-zacamil-landmarks-v2.webp",
     description: {
       de: "Eine große, funktionierende Uhr aus Blumen und Pflanzen, ein beliebter Orientierungspunkt.",
       hu: "Nagy, működő óra virágokból és növényekből, egy népszerű tájékozódási pont.",
@@ -908,9 +885,8 @@ image: "/poi-images/reloj-de-flores-zacamil-landmarks-v2.webp"
       de: "Walter-Thilo-Deininger-Nationalpark",
       hu: "Walter Thilo Deininger Nemzeti Park",
       ro: "Parcul Național Walter Thilo Deininger",
-      en: "Walter Thilo Deininger National Park",
-image: "/poi-images/parque-nacional-walter-thilo-deininger-landmarks-v2.webp"
-},
+      en: "Walter Thilo Deininger National Park"},
+    image: "/poi-images/parque-nacional-walter-thilo-deininger-landmarks-v2.webp",
     description: {
       de: "Ein Küsten-Nationalpark, der tropischen Trockenwald schützt und Ökotourismus-Aktivitäten bietet.",
       hu: "Tengerparti nemzeti park, amely a trópusi száraz erdőket védi és ökoturisztikai tevékenységeket kínál.",
@@ -947,9 +923,8 @@ image: "/poi-images/parque-nacional-walter-thilo-deininger-landmarks-v2.webp"
       de: "Denkmal für Erinnerung und Wahrheit",
       hu: "Az Emlékezet és Igazság emlékműve",
       ro: "Monumentul Memoriei și Adevărului",
-      en: "Monument to Memory and Truth",
-image: "/poi-images/monumento-a-la-memoria-y-la-verdad-landmarks-v2.webp"
-},
+      en: "Monument to Memory and Truth"},
+    image: "/poi-images/monumento-a-la-memoria-y-la-verdad-landmarks-v2.webp",
     description: {
       de: "Eine Gedenkmauer mit den Namen der Opfer des salvadorianischen Bürgerkriegs.",
       hu: "Emlékfal a salvadori polgárháború áldozatainak neveivel.",
@@ -986,9 +961,8 @@ image: "/poi-images/monumento-a-la-memoria-y-la-verdad-landmarks-v2.webp"
       de: "Aussichtspunkt La Giralda, Cerro Verde",
       hu: "La Giralda kilátó, Cerro Verde",
       ro: "Punctul de vedere La Giralda, Cerro Verde",
-      en: "La Giralda Viewpoint, Cerro Verde",
-image: "/poi-images/mirador-de-la-giralda-cerro-verde-landmarks-v2.webp"
-},
+      en: "La Giralda Viewpoint, Cerro Verde"},
+    image: "/poi-images/mirador-de-la-giralda-cerro-verde-landmarks-v2.webp",
     description: {
       de: "Ein berühmter Aussichtspunkt im Nationalpark Cerro Verde mit spektakulärem Blick auf den Izalco-Vulkan.",
       hu: "Híres kilátó a Cerro Verde Nemzeti Parkban, ahonnan látványos kilátás nyílik az Izalco vulkánra.",
@@ -1025,9 +999,8 @@ image: "/poi-images/mirador-de-la-giralda-cerro-verde-landmarks-v2.webp"
         de: "Kirche San Francisco, San Salvador",
         hu: "Szent Ferenc templom, San Salvador",
         ro: "Biserica San Francisco, San Salvador",
-        en: "San Francisco Church, San Salvador",
-image: "/poi-images/iglesia-san-francisco-san-salvador-landmarks-v2.webp"
-},
+        en: "San Francisco Church, San Salvador"},
+    image: "/poi-images/iglesia-san-francisco-san-salvador-landmarks-v2.webp",
     description: {
         de: "Eine der ältesten und historisch bedeutendsten Kirchen im Herzen von San Salvador.",
         hu: "San Salvador szívében található egyik legrégebbi és történelmileg legjelentősebb templom.",
@@ -1064,9 +1037,8 @@ image: "/poi-images/iglesia-san-francisco-san-salvador-landmarks-v2.webp"
         de: "Kathedrale Unserer Lieben Frau der Armen, Zacatecoluca",
         hu: "Szegények Miasszonyunk Katedrális, Zacatecoluca",
         ro: "Catedrala Maicii Domnului a Săracilor, Zacatecoluca",
-        en: "Cathedral of Our Lady of the Poor, Zacatecoluca",
-image: "/poi-images/catedral-nuestra-senora-de-los-pobres-zacatecoluca-landmarks-v2.webp"
-},
+        en: "Cathedral of Our Lady of the Poor, Zacatecoluca"},
+    image: "/poi-images/catedral-nuestra-senora-de-los-pobres-zacatecoluca-landmarks-v2.webp",
     description: {
         de: "Die Hauptkathedrale von Zacatecoluca, bekannt für ihre beeindruckende Kuppel und koloniale Architektur.",
         hu: "Zacatecoluca fő katedrálisa, amely lenyűgöző kupolájáról és gyarmati építészetéről ismert.",
@@ -1103,9 +1075,8 @@ image: "/poi-images/catedral-nuestra-senora-de-los-pobres-zacatecoluca-landmarks
         de: "Nationaler Handwerksmarkt",
         hu: "Nemzeti Kézműves Piac",
         ro: "Piața Națională de Artizanat",
-        en: "National Handicrafts Market",
-image: "/poi-images/mercado-nacional-de-artesanias-landmarks-v2.webp"
-},
+        en: "National Handicrafts Market"},
+    image: "/poi-images/mercado-nacional-de-artesanias-landmarks-v2.webp",
     description: {
         de: "Ein Markt, auf dem Handwerker aus dem ganzen Land ihre Produkte verkaufen, von Textilien bis hin zu Keramik.",
         hu: "Egy piac, ahol az ország minden tájáról érkező kézművesek árulják termékeiket, a textíliáktól a kerámiáig.",
@@ -1142,9 +1113,8 @@ image: "/poi-images/mercado-nacional-de-artesanias-landmarks-v2.webp"
         de: "Historisches Zentrum von San Salvador",
         hu: "San Salvador történelmi központja",
         ro: "Centrul Istoric al San Salvadorului",
-        en: "Historic Center of San Salvador",
-image: "/poi-images/centro-historico-de-san-salvador-landmarks-v2.webp"
-},
+        en: "Historic Center of San Salvador"},
+    image: "/poi-images/centro-historico-de-san-salvador-landmarks-v2.webp",
     description: {
         de: "Das Herz der Stadt mit Plätzen, Kirchen, dem Nationalpalast und dem Nationaltheater.",
         hu: "A város szíve terekkel, templomokkal, a Nemzeti Palotával és a Nemzeti Színházzal.",

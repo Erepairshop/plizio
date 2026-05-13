@@ -582,24 +582,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
     }
   },
   {
-    id: "city-riet-balzers-extra",
-    type: "city",
-    parent: "LI-004",
-    coords: [9.4950, 47.0700],
-    name: { de: "Riet", hu: "Riet", ro: "Riet", en: "Riet" },
-    description: {
-      de: "Eine weitläufige Landwirtschaftszone und Naherholungsgebiet in der Rheinebene bei Balzers.",
-      hu: "Kiterjedt mezőgazdasági övezet és rekreációs terület a Rajna-síkságon Balzers közelében.",
-      ro: "O zonă agricolă extinsă și o zonă de agrement locală în câmpia Rinului, lângă Balzers.",
-      en: "An extensive agricultural zone and local recreation area in the Rhine plain near Balzers."
-    },
-    facts: {
-      de: ["Wurde im 20. Jahrhundert durch Entwässerung urbar gemacht.", "Bietet wichtige Lebensräume für Feldhasen und Vögel."],
-      hu: ["A 20. században csapolással tették művelhetővé.", "Fontos élőhelyet biztosít a mezei nyulak és madarak számára."],
-      ro: ["A fost cultivată în secolul al XX-lea prin drenaj.", "Oferă habitate importante pentru iepuri și păsări."],
-      en: ["Was cultivated in the 20th century through drainage.", "Provides important habitats for hares and birds."]
-    }, image: "/poi-images/city-riet-balzers-extra.webp"},
-  {
     id: "city-unterm-schloss-extra",
     type: "city",
     parent: "LI-004",
@@ -617,24 +599,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Casele se agață strâns de stânca abruptă.", "Străduțele sunt deosebit de înguste și întortocheate aici."],
       en: ["The houses nestle tightly against the steep rock.", "The alleys here are particularly narrow and winding."]
     }, image: "/poi-images/city-unterm-schloss-extra.webp"},
-  {
-    id: "city-iradug-balzers-extra",
-    type: "city",
-    parent: "LI-004",
-    coords: [9.5080, 47.0650],
-    name: { de: "Iradug", hu: "Iradug", ro: "Iradug", en: "Iradug" },
-    description: {
-      de: "Ein Wohn- und Gewerbemischgebiet am südlichen Rand des Siedlungsgebiets von Balzers.",
-      hu: "Lakó- és kereskedelmi vegyes terület Balzers településterületének déli szélén.",
-      ro: "O zonă mixtă rezidențială și comercială la marginea de sud a zonei de așezare Balzers.",
-      en: "A mixed residential and commercial area on the southern edge of the Balzers settlement area."
-    },
-    facts: {
-      de: ["Verfügt über moderne Sport- und Freizeitanlagen.", "Der Name ist romanischen Ursprungs."],
-      hu: ["Modern sport- és szabadidős létesítményekkel rendelkezik.", "A név újlatin eredetű."],
-      ro: ["Are facilități moderne sportive și de agrement.", "Numele este de origine romanică."],
-      en: ["Features modern sports and leisure facilities.", "The name is of Romance origin."]
-    }, image: "/poi-images/city-iradug-balzers-extra.webp"},
   {
     id: "city-malbun-extra",
     type: "city",
@@ -982,24 +946,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
     }
   },
   {
-    id: "city-riet-eschen-extra",
-    type: "city",
-    parent: "LI-006",
-    coords: [9.5100, 47.2180],
-    name: { de: "Riet", hu: "Riet", ro: "Riet", en: "Riet" },
-    description: {
-      de: "Ein landwirtschaftlich intensiv genutztes Flachland im Norden von Eschen.",
-      hu: "Eschen északi részén található, intenzíven művelt mezőgazdasági síkvidék.",
-      ro: "O câmpie agricolă folosită intens în nordul orașului Eschen.",
-      en: "An intensively used agricultural flatland in the north of Eschen."
-    },
-    facts: {
-      de: ["Ein wichtiges Zentrum für den Gemüse- und Maisanbau.", "Teil des weiten Talbodens, der ins Schweizer Rheintal übergeht."],
-      hu: ["A zöldség- és kukoricatermesztés fontos központja.", "A széles völgyfenék része, amely a svájci Rajna-völgybe megy át."],
-      ro: ["Un centru important pentru cultivarea legumelor și porumbului.", "Parte a fundului larg al văii care se contopește cu valea elvețiană a Rinului."],
-      en: ["An important center for vegetable and corn cultivation.", "Part of the wide valley floor that merges into the Swiss Rhine Valley."]
-    }, image: "/poi-images/city-riet-eschen-extra.webp"},
-  {
     id: "city-presta-extra",
     type: "city",
     parent: "LI-006",
@@ -1163,24 +1109,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
       ro: ["Pârâul a jucat anterior un rol în alimentarea cu apă.", "Astăzi o zonă rezidențială idilică, cu multă verdeață."],
       en: ["The stream formerly played a role in the water supply.", "Today an idyllic residential area with lots of greenery."]
     }, image: "/poi-images/city-gaensbach-extra.webp"},
-  {
-    id: "city-riet-mauren-extra",
-    type: "city",
-    parent: "LI-007",
-    coords: [9.5480, 47.2080],
-    name: { de: "Riet", hu: "Riet", ro: "Riet", en: "Riet" },
-    description: {
-      de: "Die ausgedehnte Landwirtschaftszone und Naturschutzfläche südlich des Dorfes Mauren.",
-      hu: "A kiterjedt mezőgazdasági övezet és természetvédelmi terület Mauren falutól délre.",
-      ro: "Extinsa zonă agricolă și rezervație naturală la sud de satul Mauren.",
-      en: "The extensive agricultural zone and nature reserve south of the village of Mauren."
-    },
-    facts: {
-      de: ["Beherbergt ein wichtiges Feuchtgebiet (Maurer Riet).", "Es gibt ein gut ausgebautes Netz von Rad- und Spazierwegen."],
-      hu: ["Egy fontos vizes élőhelynek ad otthont (Maurer Riet).", "Jól kiépített kerékpár- és sétaúthálózat található itt."],
-      ro: ["Găzduiește o zonă umedă importantă (Maurer Riet).", "Există o rețea bine dezvoltată de piste de biciclete și alei pietonale."],
-      en: ["Home to an important wetland (Maurer Riet).", "There is a well-developed network of cycling and walking paths."]
-    }, image: "/poi-images/city-riet-mauren-extra.webp"},
   {
     id: "city-jonaboden-extra",
     type: "city",
@@ -1695,24 +1623,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
       en: ["The Rhine dam offers perfect conditions for inline skaters here.", "The tripoint (CH, AT, LI) is located nearby."]
     }, image: "/poi-images/city-rheinau-ruggell-extra.webp"},
   {
-    id: "city-letten-ruggell-extra",
-    type: "city",
-    parent: "LI-009",
-    coords: [9.5250, 47.2380],
-    name: { de: "Letten", hu: "Letten", ro: "Letten", en: "Letten" },
-    description: {
-      de: "Ein kleines, gemischtes Wohn- und Gewerbegebiet südlich des Dorfkerns von Ruggell.",
-      hu: "Kicsi, vegyes lakó- és kereskedelmi terület Ruggell faluközpontjától délre.",
-      ro: "O mică zonă mixtă rezidențială și comercială la sud de centrul satului Ruggell.",
-      en: "A small, mixed residential and commercial area south of the village center of Ruggell."
-    },
-    facts: {
-      de: ["Beherbergt einige mittelständische Unternehmen.", "Ein sehr ruhiges und gut erschlossenes Viertel."],
-      hu: ["Néhány középvállalkozásnak ad otthont.", "Nagyon csendes és jól megközelíthető negyed."],
-      ro: ["Găzduiește câteva companii mijlocii.", "Un cartier foarte liniștit și bine conectat."],
-      en: ["Houses some medium-sized companies.", "A very quiet and well-connected neighborhood."]
-    }, image: "/poi-images/city-letten-ruggell-extra.webp"},
-  {
     id: "city-ruggeller-riet-extra",
     type: "city",
     parent: "LI-009",
@@ -1786,24 +1696,6 @@ export const poiExtraLiechtensteinCities: POI[] = [
       en: ["The Kratzera forest protects the village from erosion.", "There is a well-signposted forest educational trail here."]
     }
   },
-  {
-    id: "city-au-gamprin-extra",
-    type: "city",
-    parent: "LI-011",
-    coords: [9.5020, 47.2150],
-    name: { de: "Au", hu: "Au", ro: "Au", en: "Au" },
-    description: {
-      de: "Eine ausgedehnte Landwirtschaftsfläche in Gamprin, nahe dem Rhein gelegen.",
-      hu: "Kiterjedt mezőgazdasági terület Gamprinban, a Rajna közelében.",
-      ro: "O zonă agricolă extinsă din Gamprin, situată în apropiere de Rin.",
-      en: "An extensive agricultural area in Gamprin, located near the Rhine."
-    },
-    facts: {
-      de: ["Das Land wird intensiv für den Anbau von Getreide und Gemüse genutzt.", "Eine wichtige Ebene für die liechtensteinische Landwirtschaft."],
-      hu: ["A földet intenzíven használják gabona- és zöldségtermesztésre.", "Fontos síkság a liechtensteini mezőgazdaság számára."],
-      ro: ["Pământul este folosit intens pentru cultivarea cerealelor și legumelor.", "O câmpie importantă pentru agricultura din Liechtenstein."],
-      en: ["The land is used intensively for the cultivation of grain and vegetables.", "An important plain for Liechtenstein agriculture."]
-    }, image: "/poi-images/city-au-gamprin-extra.webp"},
   {
     id: "city-under-au-extra",
     type: "city",

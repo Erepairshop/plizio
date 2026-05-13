@@ -6,304 +6,539 @@ export const poiExtraMaldivesNatureV2: POI[] = [
     type: "national-park",
     parent: "MV-20",
     coords: [73.0, 5.1667],
-    name: { de: "Baa-Atoll-Biosphärenreservat", hu: "Baa-atoll Bioszféra-rezervátum", ro: "Rezervația Biosferei Atolul Baa", en: "Baa Atoll Biosphere Reserve",
-image: "/poi-images/mv-baa-atoll-biosphere-nature-v2.webp"
-},
+    name: { de: "Baa-Atoll-Biosphärenreservat", hu: "Baa-atoll Bioszféra-rezervátum", ro: "Rezervația Biosferei Atolul Baa", en: "Baa Atoll Biosphere Reserve"},
+    image: "/poi-images/mv-baa-atoll-biosphere-nature-v2.webp",
     description: { de: "Das Baa-Atoll-Biosphärenreservat ist ein einzigartiges Meeresökosystem der Malediven, das für seine außergewöhnliche Artenvielfalt bekannt ist. Hier sammeln sich regelmäßig Hunderte von Manta-Rochen und Walhaien zur Nahrungsaufnahme.", hu: "A Baa-atoll Bioszféra-rezervátum a Maldív-szigetek egyedülálló tengeri ökoszisztémája, amely kivételes biológiai sokféleségéről ismert. Itt rendszeresen több száz mantarája és cetcápa gyűlik össze táplálkozni.", ro: "Rezervația Biosferei Atolul Baa este un ecosistem marin unic al Maldivelor, cunoscut pentru biodiversitatea sa excepțională. Aici, sute de pisici de mare și rechini-balenă se adună în mod regulat pentru a se hrăni.", en: "The Baa Atoll Biosphere Reserve is a unique marine ecosystem in the Maldives, known for its exceptional biodiversity. Here, hundreds of manta rays and whale sharks regularly gather to feed." },
     facts: {
       de: ["2011 zum UNESCO-Biosphärenreservat erklärt", "Bekannt für große Manta-Rochen-Populationen", "Umfasst 1.200 Quadratkilometer Korallenriffe"],
       hu: ["2011-ben lett UNESCO Bioszféra-rezervátum", "Hatalmas mantarája-populációjáról híres", "1200 négyzetkilométernyi korallzátonyt foglal magába"],
       ro: ["Desemnată rezervație a biosferei UNESCO în 2011", "Renumită pentru populațiile de pisici de mare", "Acoperă 1.200 de kilometri pătrați de recife de corali"],
       en: ["Designated a UNESCO Biosphere Reserve in 2011", "Famous for large manta ray populations", "Covers 1,200 square kilometers of coral reefs"]
-    }, image: "/poi-images/mv-baa-atoll-biosphere-nature-v2.webp"},
+    }, image: "/poi-images/mv-baa-atoll-biosphere-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Baa-Atoll-Biosphärenreservat wurde 2011 von der UNESCO anerkannt und ist das erste Biosphärenreservat der Malediven. Es umfasst eine Fläche von etwa 1.397 Quadratkilometern, einschließlich Korallenriffe, Mangroven und Seegraswiesen. Das Reservat beherbergt eine hohe Biodiversität, darunter Mantarochen, Walhaie und Meeresschildkröten. Es ist auch ein wichtiger Brutplatz für mehrere Vogelarten. Die lokale Bevölkerung ist in nachhaltige Praktiken eingebunden. Das Reservat ist in drei Zonen unterteilt: Kern-, Puffer- und Übergangszone. Die Hauptinsel Eydhafushi ist ein wichtiger Knotenpunkt.",
+      hu: "A Baa Atoll Bioszféra Rezervátumot 2011-ben ismerte el az UNESCO, és ez a Maldív-szigetek első bioszféra-rezervátuma. Területe körülbelül 1397 négyzetkilométer, beleértve a korallzátonyokat, mangroveerdőket és tengerifű-mezőket. A rezervátum magas biodiverzitással rendelkezik, beleértve a mantarájákat, cetcápákat és tengeri teknősöket. Számos madárfaj fontos fészkelőhelye is. A helyi lakosság fenntartható gyakorlatokban vesz részt. A rezervátum három zónára oszlik: mag-, puffer- és átmeneti zóna. A fő sziget Eydhafushi fontos csomópont.",
+      ro: "Rezervația Biosferei Atolul Baa a fost recunoscută de UNESCO în 2011 și este prima rezervație a biosferei din Maldive. Acoperă o suprafață de aproximativ 1.397 de kilometri pătrați, incluzând recife de corali, mangrove și pajiști marine. Rezervația găzduiește o biodiversitate ridicată, inclusiv raze manta, rechini balenă și țestoase marine. Este, de asemenea, un important loc de cuibărit pentru mai multe specii de păsări. Populația locală este implicată în practici durabile. Rezervația este împărțită în trei zone: nucleu, tampon și tranziție. Insula principală Eydhafushi este un nod important.",
+      en: "Baa Atoll Biosphere Reserve was designated by UNESCO in 2011, making it the first biosphere reserve in the Maldives. It covers an area of approximately 1,397 square kilometers, including coral reefs, mangroves, and seagrass beds. The reserve hosts high biodiversity, including manta rays, whale sharks, and sea turtles. It is also an important breeding ground for several bird species. Local communities are involved in sustainable practices. The reserve is divided into core, buffer, and transition zones. The main island, Eydhafushi, is a key hub.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Anerkennung im Jahr 2011.", "Das Reservat umfasst 1.397 Quadratkilometer.", "Es beherbergt über 250 Korallenarten.", "Die Kernzone macht 30% der Fläche aus.", "Es gibt 75 Inseln im Reservat, von denen 13 bewohnt sind.", "Jährlich werden über 100 Walhai-Sichtungen gemeldet."],
+      hu: ["UNESCO elismerés 2011-ben.", "A rezervátum területe 1397 négyzetkilométer.", "Több mint 250 korallfaj található itt.", "A magzóna a terület 30%-át teszi ki.", "75 sziget található a rezervátumban, ebből 13 lakott.", "Évente több mint 100 cetcápa-észlelést jelentenek."],
+      ro: ["Recunoaștere UNESCO în 2011.", "Rezervația acoperă 1.397 de kilometri pătrați.", "Adăpostește peste 250 de specii de corali.", "Zona nucleu reprezintă 30% din suprafață.", "Există 75 de insule în rezervație, dintre care 13 sunt locuite.", "Peste 100 de observări de rechini balenă sunt raportate anual."],
+      en: ["UNESCO designation in 2011.", "Reserve covers 1,397 square kilometers.", "Hosts over 250 coral species.", "Core zone comprises 30% of area.", "75 islands in reserve, 13 inhabited.", "Over 100 whale shark sightings reported annually."],
+    },
+  },
   {
     id: "mv-bandaara-kilhi-nature-v2",
     type: "lake",
     parent: "MV-29",
     coords: [73.426, -0.295],
-    name: { de: "Bandaara Kilhi", hu: "Bandaara Kilhi", ro: "Bandaara Kilhi", en: "Bandaara Kilhi",
-image: "/poi-images/mv-bandaara-kilhi-nature-v2.webp"
-},
+    name: { de: "Bandaara Kilhi", hu: "Bandaara Kilhi", ro: "Bandaara Kilhi", en: "Bandaara Kilhi"},
+    image: "/poi-images/mv-bandaara-kilhi-nature-v2.webp",
     description: { de: "Bandaara Kilhi ist der größte Süßwassersee der Malediven und bildet ein wichtiges Feuchtgebiet auf der Insel Fuvahmulah. Umgeben von dichter tropischer Vegetation bietet der See einen seltenen Anblick in dem ansonsten von Salzwasser dominierten Land.", hu: "A Bandaara Kilhi a Maldív-szigetek legnagyobb édesvizű tava, amely fontos vizesélőhelyet alkot a Fuvahmulah szigeten. A sűrű trópusi növényzettel körülvett tó ritka látványt nyújt az egyébként sós víz uralta országban.", ro: "Bandaara Kilhi este cel mai mare lac cu apă dulce din Maldive, formând o zonă umedă importantă pe insula Fuvahmulah. Înconjurat de o vegetație tropicală densă, lacul oferă o priveliște rară în țara dominată de apa sărată.", en: "Bandaara Kilhi is the largest freshwater lake in the Maldives, forming an important wetland on the island of Fuvahmulah. Surrounded by dense tropical vegetation, the lake offers a rare sight in the otherwise saltwater-dominated country." },
     facts: {
       de: ["Der größte Süßwassersee der Malediven", "Befindet sich auf der Insel Fuvahmulah", "Umgeben von dichter tropischer Vegetation"],
       hu: ["A Maldív-szigetek legnagyobb édesvizű tava", "A Fuvahmulah szigeten található", "Sűrű trópusi növényzet veszi körül"],
       ro: ["Cel mai mare lac cu apă dulce din Maldive", "Situat pe insula Fuvahmulah", "Înconjurat de vegetație tropicală densă"],
       en: ["The largest freshwater lake in the Maldives", "Located on the island of Fuvahmulah", "Surrounded by dense tropical vegetation"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Bandaara Kilhi ist ein Süßwassersee auf der Insel Fuvahmulah im südlichsten Atoll der Malediven, dem Gnaviyani-Atoll. Der See ist einer von zwei Süßwasserseen auf der Insel und ein wichtiger Lebensraum für Wasservögel und Süßwasserfische. Er hat eine Fläche von etwa 0,5 Quadratkilometern und ist bis zu 5 Meter tief. Der See wird von Regenwasser gespeist und spielt eine Rolle im lokalen Wasserkreislauf. Bandaara Kilhi ist ein geschütztes Gebiet und dient als Forschungsstätte für Limnologie. Die Insel Fuvahmulah hat etwa 11.000 Einwohner.",
+      hu: "A Bandaara Kilhi egy édesvizű tó Fuvahmulah szigetén, a Maldív-szigetek legdélebbi atolljában, a Gnaviyani Atollban. A tó az egyike a sziget két édesvizű tavának, és fontos élőhely a vízimadarak és édesvizű halak számára. Területe körülbelül 0,5 négyzetkilométer, mélysége eléri az 5 métert. A tavat esővíz táplálja, és szerepet játszik a helyi vízkörforgásban. A Bandaara Kilhi védett terület, és limnológiai kutatások helyszíne. Fuvahmulah szigetének körülbelül 11.000 lakosa van.",
+      ro: "Bandaara Kilhi este un lac de apă dulce pe insula Fuvahmulah din cel mai sudic atol al Maldivelor, Atolul Gnaviyani. Lacul este unul dintre cele două lacuri de apă dulce de pe insulă și un habitat important pentru păsări acvatice și pești de apă dulce. Are o suprafață de aproximativ 0,5 kilometri pătrați și o adâncime de până la 5 metri. Lacul este alimentat de apa de ploaie și joacă un rol în ciclul local al apei. Bandaara Kilhi este o arie protejată și servește ca sit de cercetare limnologică. Insula Fuvahmulah are aproximativ 11.000 de locuitori.",
+      en: "Bandaara Kilhi is a freshwater lake on Fuvahmulah Island in the southernmost atoll of the Maldives, Gnaviyani Atoll. The lake is one of two freshwater lakes on the island and an important habitat for water birds and freshwater fish. It has an area of about 0.5 square kilometers and a depth of up to 5 meters. The lake is fed by rainfall and plays a role in the local water cycle. Bandaara Kilhi is a protected area and serves as a limnological research site. Fuvahmulah Island has about 11,000 residents.",
+    },
+    factsAdvanced: {
+      de: ["Der See hat eine Fläche von etwa 0,5 Quadratkilometern.", "Die maximale Tiefe beträgt 5 Meter.", "Er ist einer von zwei Süßwasserseen auf Fuvahmulah.", "Die Insel Fuvahmulah hat etwa 11.000 Einwohner.", "Der See ist ein geschütztes Feuchtgebiet.", "Er liegt im Gnaviyani-Atoll, dem südlichsten Atoll der Malediven."],
+      hu: ["A tó területe körülbelül 0,5 négyzetkilométer.", "Maximális mélysége 5 méter.", "Az egyike a két édesvizű tónak Fuvahmulah szigetén.", "Fuvahmulah szigetének körülbelül 11.000 lakosa van.", "A tó védett vizes élőhely.", "A Gnaviyani Atollban található, a Maldív-szigetek legdélebbi atolljában."],
+      ro: ["Lacul are o suprafață de aproximativ 0,5 kilometri pătrați.", "Adâncimea maximă este de 5 metri.", "Este unul dintre cele două lacuri de apă dulce de pe Fuvahmulah.", "Insula Fuvahmulah are aproximativ 11.000 de locuitori.", "Lacul este o zonă umedă protejată.", "Este situat în Atolul Gnaviyani, cel mai sudic atol al Maldivelor."],
+      en: ["Lake area is about 0.5 square kilometers.", "Maximum depth is 5 meters.", "One of two freshwater lakes on Fuvahmulah.", "Fuvahmulah Island has about 11,000 residents.", "The lake is a protected wetland.", "Located in Gnaviyani Atoll, the southernmost atoll of the Maldives."],
+    },
   },
   {
     id: "mv-dhadimagi-kilhi-nature-v2",
     type: "lake",
     parent: "MV-29",
     coords: [73.425, -0.285],
-    name: { de: "Dhadimagi Kilhi", hu: "Dhadimagi Kilhi", ro: "Dhadimagi Kilhi", en: "Dhadimagi Kilhi",
-image: "/poi-images/mv-dhadimagi-kilhi-nature-v2.webp"
-},
+    name: { de: "Dhadimagi Kilhi", hu: "Dhadimagi Kilhi", ro: "Dhadimagi Kilhi", en: "Dhadimagi Kilhi"},
+    image: "/poi-images/mv-dhadimagi-kilhi-nature-v2.webp",
     description: { de: "Dhadimagi Kilhi ist der zweitgrößte See der Malediven und ein friedliches Naturgebiet. Die Einheimischen nutzen das schlammige Ufer für traditionelle Gesundheitsbäder, während zahlreiche Vogelarten das Gewässer als Zufluchtsort nutzen.", hu: "A Dhadimagi Kilhi a Maldív-szigetek második legnagyobb tava és egy békés természeti terület. A helyiek a iszapos partot hagyományos egészségügyi fürdőzésre használják, miközben számos madárfaj menedékként használja a vizet.", ro: "Dhadimagi Kilhi este al doilea cel mai mare lac din Maldive și o zonă naturală pașnică. Localnicii folosesc malul noroios pentru băi tradiționale de sănătate, în timp ce numeroase specii de păsări folosesc apa ca refugiu.", en: "Dhadimagi Kilhi is the second largest lake in the Maldives and a peaceful natural area. Locals use the muddy shore for traditional health baths, while numerous bird species use the water as a sanctuary." },
     facts: {
       de: ["Zweitgrößter Süßwassersee der Malediven", "Bekannt für traditionelle Schlammbäder", "Reich an einheimischen Vogelarten"],
       hu: ["A Maldív-szigetek második legnagyobb édesvizű tava", "Hagyományos iszapfürdőiről ismert", "Gazdag helyi madárfajokban"],
       ro: ["Al doilea cel mai mare lac cu apă dulce din Maldive", "Cunoscut pentru băile tradiționale cu nămol", "Bogat în specii de păsări locale"],
       en: ["Second largest freshwater lake in the Maldives", "Known for traditional mud bathing", "Rich in local bird species"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Dhadimagi Kilhi ist ein Süßwassersee auf der Insel Fuvahmulah im Gnaviyani-Atoll, der zweite der beiden Süßwasserseen der Insel. Er ist kleiner als Bandaara Kilhi, hat aber eine ähnliche ökologische Bedeutung. Der See ist von dichter Vegetation umgeben und beherbergt endemische Insekten- und Vogelarten. Er dient als wichtiger Trinkwasserreservoir für die lokale Landwirtschaft. Die Tiefe beträgt maximal 3 Meter. Der See ist auch kulturell bedeutsam, da er mit lokalen Legenden verbunden ist. Er ist Teil des Fuvahmulah-Schutzgebietsnetzwerks.",
+      hu: "A Dhadimagi Kilhi egy édesvizű tó Fuvahmulah szigetén, a Gnaviyani Atollban, a sziget két édesvizű tavának másodika. Kisebb, mint a Bandaara Kilhi, de hasonló ökológiai jelentőséggel bír. A tavat sűrű növényzet veszi körül, és endemikus rovar- és madárfajoknak ad otthont. Fontos ivóvíztározóként szolgál a helyi mezőgazdaság számára. Maximális mélysége 3 méter. A tó kultúrtörténeti szempontból is jelentős, mivel helyi mondákhoz kapcsolódik. Része a Fuvahmulah védett területek hálózatának.",
+      ro: "Dhadimagi Kilhi este un lac de apă dulce pe insula Fuvahmulah din Atolul Gnaviyani, al doilea dintre cele două lacuri de apă dulce ale insulei. Este mai mic decât Bandaara Kilhi, dar are o importanță ecologică similară. Lacul este înconjurat de vegetație densă și găzduiește specii endemice de insecte și păsări. Servește ca rezervor important de apă potabilă pentru agricultura locală. Adâncimea maximă este de 3 metri. Lacul are și semnificație culturală, fiind asociat cu legende locale. Face parte din rețeaua de arii protejate Fuvahmulah.",
+      en: "Dhadimagi Kilhi is a freshwater lake on Fuvahmulah Island in Gnaviyani Atoll, the second of the island's two freshwater lakes. It is smaller than Bandaara Kilhi but of similar ecological importance. The lake is surrounded by dense vegetation and hosts endemic insect and bird species. It serves as an important freshwater reservoir for local agriculture. Maximum depth is 3 meters. The lake also holds cultural significance, tied to local legends. It is part of the Fuvahmulah protected area network.",
+    },
+    factsAdvanced: {
+      de: ["Die maximale Tiefe beträgt 3 Meter.", "Der See ist kleiner als Bandaara Kilhi.", "Er ist von dichter Vegetation umgeben.", "Er dient als Trinkwasserreservoir für die Landwirtschaft.", "Der See ist Teil des Fuvahmulah-Schutzgebiets.", "Er hat eine Fläche von etwa 0,3 Quadratkilometern."],
+      hu: ["A maximális mélység 3 méter.", "A tó kisebb, mint a Bandaara Kilhi.", "Sűrű növényzet veszi körül.", "Ivóvíztározóként szolgál a mezőgazdaság számára.", "A tó a Fuvahmulah védett terület része.", "Területe körülbelül 0,3 négyzetkilométer."],
+      ro: ["Adâncimea maximă este de 3 metri.", "Lacul este mai mic decât Bandaara Kilhi.", "Este înconjurat de vegetație densă.", "Servește ca rezervor de apă potabilă pentru agricultură.", "Lacul face parte din aria protejată Fuvahmulah.", "Are o suprafață de aproximativ 0,3 kilometri pătrați."],
+      en: ["Maximum depth is 3 meters.", "Lake is smaller than Bandaara Kilhi.", "Surrounded by dense vegetation.", "Serves as freshwater reservoir for agriculture.", "Part of Fuvahmulah protected area.", "Area about 0.3 square kilometers."],
+    },
   },
   {
     id: "mv-huraa-mangrove-nature-v2",
     type: "forest",
     parent: "MV-26",
     coords: [73.598, 4.331],
-    name: { de: "Huraa-Mangrovenreservat", hu: "Huraa Mangrove Rezervátum", ro: "Rezervația de Mangrove Huraa", en: "Huraa Mangrove Nature Reserve",
-image: "/poi-images/mv-huraa-mangrove-nature-v2.webp"
-},
+    name: { de: "Huraa-Mangrovenreservat", hu: "Huraa Mangrove Rezervátum", ro: "Rezervația de Mangrove Huraa", en: "Huraa Mangrove Nature Reserve"},
+    image: "/poi-images/mv-huraa-mangrove-nature-v2.webp",
     description: { de: "Das Huraa-Mangrovenreservat ist ein geschütztes Waldgebiet, das eine entscheidende Rolle im lokalen Ökosystem spielt. Die dichten Wurzeln der Mangroven bieten jungen Fischen Schutz und filtern das Wasser, bevor es das offene Meer erreicht.", hu: "A Huraa Mangrove Rezervátum egy védett erdőterület, amely döntő szerepet játszik a helyi ökoszisztémában. A mangrovék sűrű gyökerei védelmet nyújtanak a fiatal halaknak, és megszűrik a vizet, mielőtt az a nyílt tengerbe érne.", ro: "Rezervația de Mangrove Huraa este o zonă forestieră protejată care joacă un rol crucial în ecosistemul local. Rădăcinile dense ale mangrovelor oferă adăpost peștilor tineri și filtrează apa înainte ca aceasta să ajungă în marea deschisă.", en: "The Huraa Mangrove Nature Reserve is a protected forest area that plays a crucial role in the local ecosystem. The dense roots of the mangroves provide shelter for young fish and filter the water before it reaches the open sea." },
     facts: {
       de: ["Geschützter Mangrovenwald", "Wichtiger Brutplatz für Meereslebewesen", "Befindet sich auf der Insel Huraa"],
       hu: ["Védett mangrove-erdő", "Fontos szaporodási hely a tengeri élőlények számára", "A Huraa szigeten található"],
       ro: ["Pădure de mangrove protejată", "Teren esențial de reproducere pentru viața marină", "Situată pe insula Huraa"],
       en: ["Protected mangrove forest", "Essential breeding ground for marine life", "Located on Huraa island"]
-    }, image: "/poi-images/mv-huraa-mangrove-nature-v2.webp"},
+    }, image: "/poi-images/mv-huraa-mangrove-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Huraa-Mangroven-Naturreservat liegt auf der Insel Huraa im Nord-Malé-Atoll. Es umfasst eine Fläche von etwa 3 Hektar und schützt ein Mangrovenökosystem, das eine wichtige Rolle bei der Küstenstabilisierung und als Kinderstube für Fische spielt. Die Mangroven bestehen hauptsächlich aus Arten der Gattung Rhizophora und Avicennia. Das Reservat beheimatet Wasservögel wie Reiher und Seeadler. Es ist ein beliebtes Ziel für Ökotourismus und Bildungsausflüge. Der Zugang ist reguliert, um die empfindliche Umgebung zu schützen. Die Insel Huraa hat etwa 1.000 Einwohner.",
+      hu: "A Huraa Mangrove Természetvédelmi Terület az Észak-Malé Atollban található Huraa szigetén. Körülbelül 3 hektár területet foglal magában, és egy mangrove ökoszisztémát véd, amely fontos szerepet játszik a partvédelemben és a halak szaporodóhelyeként. A mangrovefák főként a Rhizophora és Avicennia nemzetségbe tartoznak. A rezervátum vízimadaraknak, például gémeknek és rétisasoknak ad otthont. Kedvelt célpont az ökoturizmus és az oktatási kirándulások számára. A hozzáférés szabályozott a kényes környezet védelme érdekében. Huraa szigetének körülbelül 1000 lakosa van.",
+      ro: "Rezervația Naturală de Mangrove Huraa este situată pe insula Huraa din Atolul Malé de Nord. Acoperă o suprafață de aproximativ 3 hectare și protejează un ecosistem de mangrove care joacă un rol important în stabilizarea coastei și ca pepinieră pentru pești. Mangrovele constau în principal din specii ale genurilor Rhizophora și Avicennia. Rezervația găzduiește păsări acvatice precum stârci și vulturi de mare. Este o destinație populară pentru ecoturism și excursii educaționale. Accesul este reglementat pentru a proteja mediul fragil. Insula Huraa are aproximativ 1.000 de locuitori.",
+      en: "Huraa Mangrove Nature Reserve is located on Huraa Island in North Malé Atoll. It covers about 3 hectares and protects a mangrove ecosystem vital for coastal stabilization and fish nursery grounds. Mangroves consist mainly of Rhizophora and Avicennia species. The reserve hosts water birds such as herons and sea eagles. It is a popular ecotourism and educational destination. Access is regulated to protect the fragile environment. Huraa Island has around 1,000 residents.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat umfasst 3 Hektar.", "Die Mangroven bestehen aus Rhizophora und Avicennia.", "Huraa hat etwa 1.000 Einwohner.", "Es beherbergt Reiher und Seeadler.", "Das Reservat wurde 2012 offiziell ausgewiesen.", "Die Mangroven bieten Lebensraum für über 50 Fischarten."],
+      hu: ["A rezervátum területe 3 hektár.", "A mangrovefák Rhizophora és Avicennia fajokból állnak.", "Huraa lakossága körülbelül 1000 fő.", "Gémeknek és rétisasoknak ad otthont.", "A rezervátumot 2012-ben hozták létre hivatalosan.", "A mangrovek több mint 50 halfajnak biztosítanak élőhelyet."],
+      ro: ["Rezervația acoperă 3 hectare.", "Mangrovele sunt formate din Rhizophora și Avicennia.", "Huraa are aproximativ 1.000 de locuitori.", "Adăpostește stârci și vulturi de mare.", "Rezervația a fost desemnată oficial în 2012.", "Mangrovele oferă habitat pentru peste 50 de specii de pești."],
+      en: ["Reserve covers 3 hectares.", "Mangroves consist of Rhizophora and Avicennia.", "Huraa has about 1,000 residents.", "Hosts herons and sea eagles.", "Reserve officially designated in 2012.", "Mangroves provide habitat for over 50 fish species."],
+    },
+  },
   {
     id: "mv-south-ari-atoll-mpa-nature-v2",
     type: "national-park",
     parent: "MV-02",
     coords: [72.85, 3.5],
-    name: { de: "Meeresschutzgebiet Süd-Ari-Atoll", hu: "Dél-Ari-atoll Tengeri Védett Terület", ro: "Aria Marină Protejată Atolul Ari de Sud", en: "South Ari Atoll Marine Protected Area",
-image: "/poi-images/mv-south-ari-atoll-mpa-nature-v2.webp"
-},
+    name: { de: "Meeresschutzgebiet Süd-Ari-Atoll", hu: "Dél-Ari-atoll Tengeri Védett Terület", ro: "Aria Marină Protejată Atolul Ari de Sud", en: "South Ari Atoll Marine Protected Area"},
+    image: "/poi-images/mv-south-ari-atoll-mpa-nature-v2.webp",
     description: { de: "Das Meeresschutzgebiet Süd-Ari-Atoll ist eines der wenigen Gebiete weltweit, in denen Walhaie das ganze Jahr über beobachtet werden können. Die strengen Schutzmaßnahmen stellen sicher, dass die sanften Riesen in ihrer natürlichen Umgebung ungestört bleiben.", hu: "A Dél-Ari-atoll Tengeri Védett Terület egyike azon kevés területeknek a világon, ahol a cetcápák egész évben megfigyelhetők. A szigorú védelmi intézkedések biztosítják, hogy a szelíd óriások zavartalanul élhessenek természetes környezetükben.", ro: "Aria Marină Protejată Atolul Ari de Sud este una dintre puținele zone din lume în care rechinii-balenă pot fi observați tot timpul anului. Măsurile stricte de protecție asigură că giganții blânzi rămân netulburați în mediul lor natural.", en: "The South Ari Atoll Marine Protected Area is one of the few areas in the world where whale sharks can be observed year-round. Strict protection measures ensure that the gentle giants remain undisturbed in their natural environment." },
     facts: {
       de: ["Ganzjährig Walhaisichtungen möglich", "Umfasst 42 Quadratkilometer", "2009 als Schutzgebiet ausgewiesen"],
       hu: ["Egész évben láthatók itt cetcápák", "42 négyzetkilométeres területet fed le", "2009-ben nyilvánították védetté"],
       ro: ["Observări de rechini-balenă pe tot parcursul anului", "Acoperă 42 de kilometri pătrați", "Desemnată arie protejată în 2009"],
       en: ["Year-round whale shark sightings possible", "Covers 42 square kilometers", "Designated as a protected area in 2009"]
-    }, image: "/poi-images/mv-south-ari-atoll-mpa-nature-v2.webp"},
+    }, image: "/poi-images/mv-south-ari-atoll-mpa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das South Ari Atoll Marine Protected Area (MPA) wurde 2009 eingerichtet und umfasst eine Meeresfläche von etwa 10 Quadratkilometern. Es ist bekannt für regelmäßige Walhai-Sichtungen, da die Gewässer reich an Plankton sind. Das MPA schützt Korallenriffe, Seegraswiesen und Mangroven. Es beherbergt eine hohe Biodiversität, einschließlich Mantarochen, Schildkröten und Delfine. Die Schutzzone ist in drei Zonen unterteilt, mit eingeschränkter Fischerei und Bootsverkehr. Die Gemeinde ist in das Management eingebunden. Jährlich werden über 500 Walhai-Sichtungen gemeldet.",
+      hu: "A Dél-Ari Atoll Tengeri Védett Területet (MPA) 2009-ben hozták létre, és körülbelül 10 négyzetkilométernyi tengeri területet foglal magában. Rendszeres cetcápa-észleléseiről ismert, mivel a vizek gazdagok planktonban. Az MPA korallzátonyokat, tengerifű-mezőket és mangroveerdőket véd. Magas biodiverzitással rendelkezik, beleértve a mantarájákat, teknősöket és delfineket. A védett zóna három részre oszlik, korlátozott halászattal és hajóforgalommal. A közösség részt vesz a kezelésben. Évente több mint 500 cetcápa-észlelést jelentenek.",
+      ro: "Zona Marină Protejată (MPA) a Atolului Sud Ari a fost înființată în 2009 și acoperă o suprafață marină de aproximativ 10 kilometri pătrați. Este cunoscută pentru observările regulate de rechini balenă, deoarece apele sunt bogate în plancton. MPA protejează recife de corali, pajiști marine și mangrove. Adăpostește o biodiversitate ridicată, inclusiv raze manta, țestoase și delfini. Zona protejată este împărțită în trei sectoare, cu pescuit și trafic naval restricționat. Comunitatea este implicată în gestionare. Peste 500 de observări de rechini balenă sunt raportate anual.",
+      en: "The South Ari Atoll Marine Protected Area (MPA) was established in 2009 and covers approximately 10 square kilometers of marine area. It is known for regular whale shark sightings due to plankton-rich waters. The MPA protects coral reefs, seagrass beds, and mangroves. It hosts high biodiversity including manta rays, turtles, and dolphins. The protected zone is divided into three sectors with restricted fishing and boat traffic. Community is involved in management. Over 500 whale shark sightings are reported annually.",
+    },
+    factsAdvanced: {
+      de: ["Das MPA wurde 2009 eingerichtet.", "Es umfasst 10 Quadratkilometer.", "Jährlich werden über 500 Walhaie gesichtet.", "Die Schutzzone ist in drei Sektoren unterteilt.", "Es schützt 30 Korallenarten.", "Die Wassertiefe variiert von 5 bis 30 Metern."],
+      hu: ["Az MPA-t 2009-ben hozták létre.", "Területe 10 négyzetkilométer.", "Évente több mint 500 cetcápát figyelnek meg.", "A védett zóna három szektorra oszlik.", "30 korallfajt véd.", "A vízmélység 5 és 30 méter között változik."],
+      ro: ["MPA a fost înființată în 2009.", "Acoperă 10 kilometri pătrați.", "Peste 500 de rechini balenă sunt observați anual.", "Zona protejată este împărțită în trei sectoare.", "Protejează 30 de specii de corali.", "Adâncimea apei variază între 5 și 30 de metri."],
+      en: ["MPA established in 2009.", "Covers 10 square kilometers.", "Over 500 whale sharks sighted annually.", "Protected zone divided into three sectors.", "Protects 30 coral species.", "Water depth ranges from 5 to 30 meters."],
+    },
+  },
   {
     id: "mv-kuda-haa-nature-v2",
     type: "national-park",
     parent: "MV-26",
     coords: [73.423, 4.298],
-    name: { de: "Kuda Haa Meeresschutzgebiet", hu: "Kuda Haa Tengeri Védett Terület", ro: "Aria Protejată Kuda Haa", en: "Kuda Haa Marine Protected Area",
-image: "/poi-images/mv-kuda-haa-nature-v2.webp"
-},
+    name: { de: "Kuda Haa Meeresschutzgebiet", hu: "Kuda Haa Tengeri Védett Terület", ro: "Aria Protejată Kuda Haa", en: "Kuda Haa Marine Protected Area"},
+    image: "/poi-images/mv-kuda-haa-nature-v2.webp",
     description: { de: "Kuda Haa ist ein atemberaubendes untergetauchtes Riff in Form von zwei zusammenhängenden Hügeln. Dieses Schutzgebiet ist berühmt für seine dichten Schwammformationen und großen Schwärme von Riffbarschen, die das Korallenriff umkreisen.", hu: "A Kuda Haa egy lélegzetelállító, víz alatti zátony, amely két összekapcsolódó domb alakját ölti magára. Ez a védett terület sűrű szivacsformációiról és a korallzátonyt körülvevő nagy korallsügér-rajokról híres.", ro: "Kuda Haa este un recif subacvatic uimitor în formă de două dealuri conectate. Această arie protejată este renumită pentru formațiunile sale dense de bureți și pentru bancurile mari de pești de recif care înconjoară reciful de corali.", en: "Kuda Haa is a breathtaking submerged reef in the shape of two connected hills. This protected area is famous for its dense sponge formations and large schools of damselfish circling the coral reef." },
     facts: {
       de: ["Ein Thila (untergetauchtes Riff) im Nord-Malé-Atoll", "Seit 1995 unter Naturschutz", "Berühmt für große Schwammformationen"],
       hu: ["Egy thila (víz alatti zátony) az Észak-Malé-atollban", "1995 óta áll természetvédelem alatt", "Hatalmas szivacsformációiról híres"],
       ro: ["Un Thila (recif scufundat) în Atolul Malé Nord", "Protejat din 1995", "Faimos pentru formațiunile mari de bureți"],
       en: ["A Thila (submerged reef) in North Malé Atoll", "Protected since 1995", "Famous for large sponge formations"]
-    }, image: "/poi-images/mv-kuda-haa-nature-v2.webp"},
+    }, image: "/poi-images/mv-kuda-haa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Kuda Haa ist ein Meeresschutzgebiet im Nord-Malé-Atoll, das sich über etwa 2 Quadratkilometer erstreckt. Es wurde 1995 zum Schutz der Korallenriffe und der Meeresfauna eingerichtet. Das Gebiet ist bekannt für seine gesunden Weich- und Hartkorallenbestände und eine Vielzahl von Rifffischen. Es beheimatet auch Meeresschildkröten und Riffhaie. Kuda Haa ist ein beliebtes Ziel für Schnorchler und Taucher. Die Strömungen sind mild, was es für Anfänger geeignet macht. Das Schutzgebiet verbietet Fischfang und Ankern.",
+      hu: "A Kuda Haa egy tengeri védett terület az Észak-Malé Atollban, amely körülbelül 2 négyzetkilométeren terül el. 1995-ben hozták létre a korallzátonyok és a tengeri fauna védelmére. A terület egészséges lágy- és keménykorall-állományairól és sokféle zátonyhaláról ismert. Tengeri teknősöknek és zátonycápáknak is otthont ad. A Kuda Haa népszerű célpont sznorkelezők és búvárok számára. Az áramlatok enyhék, így kezdők számára is alkalmas. A védett területen tilos a halászat és a horgonyzás.",
+      ro: "Kuda Haa este o arie marină protejată în Atolul Malé de Nord, care se întinde pe aproximativ 2 kilometri pătrați. A fost înființată în 1995 pentru a proteja recifele de corali și fauna marină. Zona este cunoscută pentru populațiile sale sănătoase de corali moi și duri și o varietate de pești de recif. De asemenea, găzduiește țestoase marine și rechini de recif. Kuda Haa este o destinație populară pentru snorkeling și scufundări. Curenții sunt blânzi, făcându-l potrivit pentru începători. Aria protejată interzice pescuitul și ancorarea.",
+      en: "Kuda Haa is a marine protected area in North Malé Atoll, spanning about 2 square kilometers. Established in 1995, it protects coral reefs and marine fauna. The area is known for healthy soft and hard coral populations and a variety of reef fish. It also hosts sea turtles and reef sharks. Kuda Haa is a popular snorkeling and diving spot. Currents are mild, suitable for beginners. Fishing and anchoring are prohibited.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet erstreckt sich über 2 Quadratkilometer.", "Es wurde 1995 eingerichtet.", "Die Wassertiefe beträgt 3 bis 20 Meter.", "Es beheimatet über 100 Fischarten.", "Die durchschnittliche Sichtweite beträgt 20 Meter.", "Fischen ist verboten."],
+      hu: ["A védett terület 2 négyzetkilométeren terül el.", "1995-ben hozták létre.", "A vízmélység 3-20 méter.", "Több mint 100 halfajnak ad otthont.", "Az átlagos látótávolság 20 méter.", "Tilos a halászat."],
+      ro: ["Aria protejată se întinde pe 2 kilometri pătrați.", "A fost înființată în 1995.", "Adâncimea apei este de 3 până la 20 de metri.", "Adăpostește peste 100 de specii de pești.", "Vizibilitatea medie este de 20 de metri.", "Pescuitul este interzis."],
+      en: ["Protected area spans 2 square kilometers.", "Established in 1995.", "Water depth from 3 to 20 meters.", "Hosts over 100 fish species.", "Average visibility 20 meters.", "Fishing is prohibited."],
+    },
+  },
   {
     id: "mv-dhigali-haa-nature-v2",
     type: "national-park",
     parent: "MV-20",
     coords: [73.18, 5.15],
-    name: { de: "Dhigali Haa", hu: "Dhigali Haa", ro: "Dhigali Haa", en: "Dhigali Haa",
-image: "/poi-images/mv-dhigali-haa-nature-v2.webp"
-},
+    name: { de: "Dhigali Haa", hu: "Dhigali Haa", ro: "Dhigali Haa", en: "Dhigali Haa"},
+    image: "/poi-images/mv-dhigali-haa-nature-v2.webp",
     description: { de: "Dhigali Haa ist ein geschütztes Riff, das aus der Tiefe des Ozeans aufsteigt und eine reiche Meeresflora und -fauna beherbergt. Taucher besuchen dieses Gebiet oft, um die intakten Korallengärten und vorbeiziehende Schildkröten zu bewundern.", hu: "A Dhigali Haa egy védett zátony, amely az óceán mélyéből emelkedik ki, és gazdag tengeri növény- és állatvilágnak ad otthont. A búvárok gyakran látogatják ezt a területet, hogy megcsodálják az érintetlen korallkerteket és az elúszó teknősöket.", ro: "Dhigali Haa este un recif protejat care se ridică din adâncurile oceanului și găzduiește o bogată floră și faună marină. Scafandrii vizitează adesea această zonă pentru a admira grădinile de corali intacte și țestoasele care trec pe acolo.", en: "Dhigali Haa is a protected reef rising from the ocean depths, hosting rich marine flora and fauna. Divers often visit this area to admire the intact coral gardens and passing turtles." },
     facts: {
       de: ["Meeresschutzgebiet im Baa-Atoll", "Reich an Hart- und Weichkorallen", "Die Tiefe variiert zwischen 10 und 30 Metern"],
       hu: ["Tengeri védett terület a Baa-atollban", "Kemény- és lágykorallokban gazdag", "Mélysége 10 és 30 méter között változik"],
       ro: ["Arie marină protejată în Atolul Baa", "Bogată în corali duri și moi", "Adâncimea variază între 10 și 30 de metri"],
       en: ["Marine protected area in Baa Atoll", "Rich in hard and soft corals", "Depth ranges from 10 to 30 meters"]
-    }, image: "/poi-images/mv-dhigali-haa-nature-v2.webp"},
+    }, image: "/poi-images/mv-dhigali-haa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Dhigali Haa ist ein Meeresschutzgebiet im Nord-Malé-Atoll, bekannt für seine dramatische Unterwasserlandschaft mit Überhängen und Höhlen. Es erstreckt sich über etwa 1,5 Quadratkilometer und wurde 1995 eingerichtet. Das Riff ist reich an Gorgonien und Weichkorallen und beherbergt Großfische wie Barrakudas und Thunfische. Stromschnellen sind häufig, was erfahrene Taucher anzieht. Die Tiefe variiert von 5 bis 35 Metern. Das Schutzgebiet bietet auch Lebensraum für Riffhaie und Mantarochen.",
+      hu: "A Dhigali Haa egy tengeri védett terület az Észak-Malé Atollban, amely drámai víz alatti tájáról ismert túlnyúlásokkal és barlangokkal. Körülbelül 1,5 négyzetkilométeren terül el, és 1995-ben hozták létre. A zátony gazdag gorgóniákban és lágykorallokban, és nagy halaknak, például barrakudáknak és tonhalaknak ad otthont. Gyakoriak az áramlatok, ami tapasztalt búvárokat vonz. A mélység 5 és 35 méter között változik. A védett terület zátonycápáknak és mantarájáknak is élőhelyet biztosít.",
+      ro: "Dhigali Haa este o arie marină protejată în Atolul Malé de Nord, cunoscută pentru peisajul subacvatic dramatic cu surplombe și peșteri. Se întinde pe aproximativ 1,5 kilometri pătrați și a fost înființată în 1995. Reciful este bogat în gorgonii și corali moi și găzduiește pești mari precum baracude și ton. Curenții sunt frecvenți, atrăgând scafandri experimentați. Adâncimea variază între 5 și 35 de metri. Aria protejată oferă habitat și pentru rechini de recif și raze manta.",
+      en: "Dhigali Haa is a marine protected area in North Malé Atoll, known for dramatic underwater topography with overhangs and caves. It spans about 1.5 square kilometers and was established in 1995. The reef is rich in gorgonians and soft corals, hosting large fish such as barracuda and tuna. Currents are frequent, attracting experienced divers. Depth ranges from 5 to 35 meters. The protected area also hosts reef sharks and manta rays.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet ist 1,5 Quadratkilometer groß.", "Es wurde 1995 eingerichtet.", "Die maximale Tiefe beträgt 35 Meter.", "Der Ort ist für Überhänge und Höhlen bekannt.", "Er beherbergt 20 Weichkorallenarten.", "Strömungen erreichen Geschwindigkeiten von 2 Knoten."],
+      hu: ["A védett terület 1,5 négyzetkilométer nagyságú.", "1995-ben hozták létre.", "A maximális mélység 35 méter.", "A hely túlnyúlásairól és barlangjairól ismert.", "20 lágykorallfajnak ad otthont.", "Az áramlatok sebessége elérheti a 2 csomót."],
+      ro: ["Aria protejată are 1,5 kilometri pătrați.", "A fost înființată în 1995.", "Adâncimea maximă este de 35 de metri.", "Locul este cunoscut pentru surplombe și peșteri.", "Adăpostește 20 de specii de corali moi.", "Curenții ating viteze de 2 noduri."],
+      en: ["Protected area is 1.5 square kilometers.", "Established in 1995.", "Maximum depth 35 meters.", "Known for overhangs and caves.", "Hosts 20 soft coral species.", "Currents reach speeds of 2 knots."],
+    },
+  },
   {
     id: "mv-kandooma-thila-nature-v2",
     type: "national-park",
     parent: "MV-26",
     coords: [73.473, 3.905],
-    name: { de: "Kandooma Thila", hu: "Kandooma Thila", ro: "Kandooma Thila", en: "Kandooma Thila",
-image: "/poi-images/mv-kandooma-thila-nature-v2.webp"
-},
+    name: { de: "Kandooma Thila", hu: "Kandooma Thila", ro: "Kandooma Thila", en: "Kandooma Thila"},
+    image: "/poi-images/mv-kandooma-thila-nature-v2.webp",
     description: { de: "Kandooma Thila ist ein tränenförmige untergetauchtes Riff, das starken Strömungen ausgesetzt ist. Diese Strömungen bringen nährstoffreiches Wasser, das eine Explosion von Farben und Meereslebewesen, einschließlich grauer Riffhaie, anzieht.", hu: "A Kandooma Thila egy könnycsepp alakú víz alatti zátony, amely erős áramlatoknak van kitéve. Ezek az áramlatok tápanyagban gazdag vizet hoznak, ami a színek és a tengeri élőlények robbanásszerű sokaságát, köztük szürke szirticápákat vonz.", ro: "Kandooma Thila este un recif subacvatic în formă de lacrimă expus unor curenți puternici. Acești curenți aduc apă bogată în nutrienți, care atrage o explozie de culori și viață marină, inclusiv rechini de recif cenușii.", en: "Kandooma Thila is a teardrop-shaped submerged reef exposed to strong currents. These currents bring nutrient-rich water that attracts an explosion of color and marine life, including grey reef sharks." },
     facts: {
       de: ["Tränenförmige Unterwasserinsel", "Einer der besten Tauchplätze im Süd-Malé-Atoll", "Starke Meeresströmungen sorgen für Nährstoffe"],
       hu: ["Könnycsepp alakú víz alatti sziget", "A Dél-Malé-atoll egyik legjobb merülőhelye", "Az erős tengeráramlatok sok tápanyagot hoznak"],
       ro: ["Insulă subacvatică în formă de lacrimă", "Unul dintre cele mai bune locuri de scufundări din Atolul Malé Sud", "Curenți oceanici puternici"],
       en: ["Teardrop-shaped underwater island", "One of the best dive sites in South Malé Atoll", "Strong ocean currents provide nutrients"]
-    }, image: "/poi-images/mv-kandooma-thila-nature-v2.webp"},
+    }, image: "/poi-images/mv-kandooma-thila-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Kandooma Thila ist ein bekanntes Tauchgebiet im Süd-Malé-Atoll, das für seine reiche Meeresfauna und Korallen bekannt ist. Es handelt sich um einen unterseeischen Hügel (Thila), der bis zu 30 Meter tief ist. Die Strömungen können stark sein, was das Gebiet für fortgeschrittene Taucher geeignet macht. Man findet dort große Schwärme von Füsiliers, Schnappern und Barrakudas. Auch Riffhaie und Mantarochen werden häufig gesichtet. Die Korallen sind vielfältig, mit großen Tischkorallen und Weichkorallen. Die Sichtweite beträgt oft 25 Meter.",
+      hu: "A Kandooma Thila egy híres búvárhely a Dél-Malé Atollban, amely gazdag tengeri élővilágáról és koralljairól ismert. Ez egy víz alatti domb (thila), amely akár 30 méter mély is lehet. Az áramlatok erősek lehetnek, ami haladó búvárok számára teszi alkalmassá. Nagy rajokban találhatók füzérhalak, csattogóhalak és barrakudák. Zátonycápák és mantaráják is gyakran megfigyelhetők. A korallok változatosak, nagy asztalkorallokkal és lágykorallokkal. A látótávolság gyakran 25 méter.",
+      ro: "Kandooma Thila este un renumit loc de scufundări în Atolul Sud Malé, cunoscut pentru fauna marină bogată și coralii. Este o colină subacvatică (thila) care poate atinge adâncimea de 30 de metri. Curenții pot fi puternici, făcând zona potrivită pentru scafandri avansați. Se găsesc bancuri mari de pești fusilieri, pești de stâncă și baracude. Rechinii de recif și razele manta sunt frecvent observați. Coralii sunt diverși, cu corali masivi și corali moi. Vizibilitatea este adesea de 25 de metri.",
+      en: "Kandooma Thila is a famous dive site in South Malé Atoll, known for rich marine life and corals. It is an underwater pinnacle (thila) reaching depths of up to 30 meters. Currents can be strong, suitable for advanced divers. Large schools of fusiliers, snappers, and barracudas are found. Reef sharks and manta rays are frequently sighted. Corals are diverse with big table corals and soft corals. Visibility often reaches 25 meters.",
+    },
+    factsAdvanced: {
+      de: ["Die maximale Tiefe beträgt 30 Meter.", "Die Sichtweite kann 25 Meter erreichen.", "Das Gebiet ist für starke Strömungen bekannt.", "Es beherbergt 40 verschiedene Korallenarten.", "Die Wassertemperatur beträgt 27-30°C.", "Es liegt etwa 15 Kilometer von Malé entfernt."],
+      hu: ["A maximális mélység 30 méter.", "A látótávolság elérheti a 25 métert.", "A terület erős áramlatairól ismert.", "40 különböző korallfajnak ad otthont.", "A vízhőmérséklet 27-30°C.", "Körülbelül 15 kilométerre található Malétól."],
+      ro: ["Adâncimea maximă este de 30 de metri.", "Vizibilitatea poate ajunge la 25 de metri.", "Zona este cunoscută pentru curenți puternici.", "Adăpostește 40 de specii de corali.", "Temperatura apei este de 27-30°C.", "Este situat la aproximativ 15 kilometri de Malé."],
+      en: ["Maximum depth is 30 meters.", "Visibility can reach 25 meters.", "Known for strong currents.", "Hosts 40 different coral species.", "Water temperature 27-30°C.", "About 15 kilometers from Malé."],
+    },
+  },
   {
     id: "mv-rasfari-reef-nature-v2",
     type: "national-park",
     parent: "MV-26",
     coords: [73.35, 4.39],
-    name: { de: "Rasfari-Riff", hu: "Rasfari-zátony", ro: "Reciful Rasfari", en: "Rasfari Reef",
-image: "/poi-images/mv-rasfari-reef-nature-v2.webp"
-},
+    name: { de: "Rasfari-Riff", hu: "Rasfari-zátony", ro: "Reciful Rasfari", en: "Rasfari Reef"},
+    image: "/poi-images/mv-rasfari-reef-nature-v2.webp",
     description: { de: "Das Rasfari-Riff ist ein beeindruckendes Meeresgebiet mit einem steilen Abfall in die Tiefe. Es bietet Meeresbewohnern wie Haien, Rochen und großen Thunfischen einen sicheren Zufluchtsort in den Gewässern des Nord-Malé-Atolls.", hu: "A Rasfari-zátony egy lenyűgöző tengeri terület, amely meredeken szakad le a mélybe. Biztonságos menedéket nyújt az Észak-Malé-atoll vizeiben élő tengeri élőlények, például cápák, ráják és nagy tonhalak számára.", ro: "Reciful Rasfari este o zonă marină impresionantă, cu o cădere abruptă în adâncuri. Oferă un refugiu sigur pentru creaturile marine precum rechini, pisici de mare și ton mare în apele Atolului Malé Nord.", en: "Rasfari Reef is an impressive marine area with a steep drop-off into the depths. It offers a safe haven for marine life such as sharks, rays, and large tuna in the waters of the North Malé Atoll." },
     facts: {
       de: ["Seit 1995 geschützt", "Wichtiger Lebensraum für Graue Riffhaie", "Bietet einen spektakulären Steilabfall"],
       hu: ["1995 óta védett", "A szürke szirticápák fontos élőhelye", "Látványos mélybe szakadó fallal rendelkezik"],
       ro: ["Protejat din 1995", "Habitat vital pentru rechinii de recif cenușii", "Prezintă o cădere spectaculoasă în adâncuri"],
       en: ["Protected since 1995", "Vital habitat for grey reef sharks", "Features a spectacular drop-off"]
-    }, image: "/poi-images/mv-rasfari-reef-nature-v2.webp"},
+    }, image: "/poi-images/mv-rasfari-reef-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rasfari Reef ist ein Meeresschutzgebiet im Nord-Malé-Atoll, etwa 2 Kilometer von Malé entfernt. Es wurde 1995 eingerichtet und erstreckt sich über 1 Quadratkilometer. Das Riff ist bekannt für seine reichen Korallenbestände und die Vielzahl an Fischen, darunter Papageienfische, Kaiserfische und Riffbarsche. Es ist ein beliebter Ort für Schnorcheltouren. Die Wassertiefe ist gering, meist zwischen 2 und 12 Metern. Die Strömungen sind mild. Das Schutzgebiet verbietet Fischerei und schützt die fragilen Ökosysteme.",
+      hu: "A Rasfari Reef egy tengeri védett terület az Észak-Malé Atollban, körülbelül 2 kilométerre Malétól. 1995-ben hozták létre, és 1 négyzetkilométeren terül el. A zátony gazdag korallállományáról és sokféle haláról ismert, többek között papagájhalakról, császárhalakról és zátonysügérekről. Népszerű célpont sznorkelező túrák számára. A vízmélység sekély, általában 2 és 12 méter között van. Az áramlatok enyhék. A védett terület tiltja a halászatot és védi a törékeny ökoszisztémákat.",
+      ro: "Rasfari Reef este o arie marină protejată în Atolul Malé de Nord, la aproximativ 2 kilometri de Malé. A fost înființată în 1995 și se întinde pe 1 kilometru pătrat. Reciful este cunoscut pentru populațiile bogate de corali și varietatea de pești, inclusiv pești papagal, pești împărați și pești de stâncă. Este un loc popular pentru tururi de snorkeling. Adâncimea apei este mică, de obicei între 2 și 12 metri. Curenții sunt blânzi. Aria protejată interzice pescuitul și protejează ecosistemele fragile.",
+      en: "Rasfari Reef is a marine protected area in North Malé Atoll, about 2 kilometers from Malé. Established in 1995, it spans 1 square kilometer. The reef is known for rich coral cover and diverse fish, including parrotfish, angelfish, and damselfish. It is a popular snorkeling spot. Water depth is shallow, typically 2 to 12 meters. Currents are mild. The protected area bans fishing and protects fragile ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet ist 1 Quadratkilometer groß.", "Es wurde 1995 eingerichtet.", "Die Wassertiefe beträgt 2 bis 12 Meter.", "Es liegt 2 Kilometer von Malé entfernt.", "Beherbergt über 70 Fischarten.", "Die durchschnittliche Sichtweite beträgt 15 Meter."],
+      hu: ["A védett terület 1 négyzetkilométer nagyságú.", "1995-ben hozták létre.", "A vízmélység 2-12 méter.", "2 kilométerre található Malétól.", "Több mint 70 halfajnak ad otthont.", "Az átlagos látótávolság 15 méter."],
+      ro: ["Aria protejată are 1 kilometru pătrat.", "A fost înființată în 1995.", "Adâncimea apei este de 2 până la 12 metri.", "Este situat la 2 kilometri de Malé.", "Adăpostește peste 70 de specii de pești.", "Vizibilitatea medie este de 15 metri."],
+      en: ["Protected area is 1 square kilometer.", "Established in 1995.", "Water depth 2 to 12 meters.", "Located 2 kilometers from Malé.", "Hosts over 70 fish species.", "Average visibility 15 meters."],
+    },
+  },
   {
     id: "mv-filitheyo-kandu-nature-v2",
     type: "national-park",
     parent: "MV-14",
     coords: [73.045, 3.123],
-    name: { de: "Filitheyo Kandu", hu: "Filitheyo Kandu", ro: "Filitheyo Kandu", en: "Filitheyo Kandu",
-image: "/poi-images/mv-filitheyo-kandu-nature-v2.webp"
-},
+    name: { de: "Filitheyo Kandu", hu: "Filitheyo Kandu", ro: "Filitheyo Kandu", en: "Filitheyo Kandu"},
+    image: "/poi-images/mv-filitheyo-kandu-nature-v2.webp",
     description: { de: "Filitheyo Kandu ist ein natürlich geformter Kanal, der das offene Meer mit dem inneren Atoll verbindet. Durch die einfließende Strömung sammeln sich hier viele Raubfische, was das Gebiet zu einem aufregenden Unterwasserschutzgebiet macht.", hu: "A Filitheyo Kandu egy természetes úton kialakult csatorna, amely összeköti a nyílt tengert a belső atollal. A befelé irányuló áramlás miatt sok ragadozó hal gyűlik itt össze, ami izgalmas víz alatti védett területté teszi.", ro: "Filitheyo Kandu este un canal format natural care conectează marea deschisă cu atolul interior. Datorită curentului de intrare, mulți pești prădători se adună aici, făcând din zonă o rezervație subacvatică interesantă.", en: "Filitheyo Kandu is a naturally formed channel connecting the open sea to the inner atoll. Because of the incoming current, many predatory fish gather here, making the area an exciting underwater protected site." },
     facts: {
       de: ["Geschützter Meereskanal im Faafu-Atoll", "Berühmt für Tauchgänge mit Adlerrochen", "Der Kanal ist etwa 500 Meter breit"],
       hu: ["Védett tengeri csatorna a Faafu-atollban", "Sasráják közötti merüléseiről híres", "A csatorna körülbelül 500 méter széles"],
       ro: ["Canal protejat în Atolul Faafu", "Renumit pentru scufundările cu vulturi de mare", "Lățimea canalului este de aproximativ 500 de metri"],
       en: ["Protected channel in Faafu Atoll", "Famous for diving with eagle rays", "The channel is about 500 meters wide"]
-    }, image: "/poi-images/mv-filitheyo-kandu-nature-v2.webp"},
+    }, image: "/poi-images/mv-filitheyo-kandu-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Filitheyo Kandu ist ein Tauchgebiet im Faafu-Atoll, bekannt für seine Kanalströmungen und reiche Meeresfauna. Der Kanal ist etwa 300 Meter breit und bis zu 40 Meter tief. Er ist berühmt für Sichtungen von Grauen Riffhaien, Adlerrochen und Schildkröten. Die Strömungen können stark sein, daher ist das Gebiet für erfahrene Taucher geeignet. Die Korallen sind gesund mit vielen Gorgonien. Die beste Tauchzeit ist von Januar bis April. Der Ort bietet auch Übernachtungsmöglichkeiten auf der nahegelegenen Insel Filitheyo.",
+      hu: "A Filitheyo Kandu egy búvárhely a Faafu Atollban, amely csatornaáramlatairól és gazdag tengeri élővilágáról ismert. A csatorna körülbelül 300 méter széles és akár 40 méter mély. Híres a szürke zátonycápák, sasráják és teknősök megfigyeléséről. Az áramlatok erősek lehetnek, ezért a terület tapasztalt búvároknak való. A korallok egészségesek, sok gorgóniával. A legjobb búvár időszak januártól áprilisig tart. A helyszín szálláslehetőséget is kínál a közeli Filitheyo szigeten.",
+      ro: "Filitheyo Kandu este un loc de scufundări în Atolul Faafu, cunoscut pentru curenții de canal și fauna marină bogată. Canalul are aproximativ 300 de metri lățime și până la 40 de metri adâncime. Este renumit pentru observarea rechinilor de recif cenușii, a razelor vultur și a țestoaselor. Curenții pot fi puternici, deci zona este potrivită pentru scafandri experimentați. Coralii sunt sănătoși, cu multe gorgonii. Cel mai bun sezon de scufundări este din ianuarie până în aprilie. Locul oferă și cazare pe insula învecinată Filitheyo.",
+      en: "Filitheyo Kandu is a dive site in Faafu Atoll, known for its channel currents and rich marine life. The channel is about 300 meters wide and up to 40 meters deep. It is famous for sightings of grey reef sharks, eagle rays, and turtles. Currents can be strong, suitable for experienced divers. Corals are healthy with many gorgonians. Best diving season is January to April. Accommodation is available on nearby Filitheyo Island.",
+    },
+    factsAdvanced: {
+      de: ["Der Kanal ist 300 Meter breit.", "Die maximale Tiefe beträgt 40 Meter.", "Die beste Tauchzeit ist von Januar bis April.", "Strömungen erreichen 3 Knoten.", "Es beherbergt 15 Riffhaiarten.", "Der Kanal liegt im Faafu-Atoll."],
+      hu: ["A csatorna 300 méter széles.", "A maximális mélység 40 méter.", "A legjobb búvár időszak januártól áprilisig tart.", "Az áramlatok sebessége elérheti a 3 csomót.", "15 zátonycápafajnak ad otthont.", "A csatorna a Faafu Atollban található."],
+      ro: ["Canalul are 300 de metri lățime.", "Adâncimea maximă este de 40 de metri.", "Cel mai bun sezon de scufundări este din ianuarie până în aprilie.", "Curenții ating 3 noduri.", "Adăpostește 15 specii de rechini de recif.", "Canalul este situat în Atolul Faafu."],
+      en: ["Channel is 300 meters wide.", "Maximum depth 40 meters.", "Best diving season January to April.", "Currents reach 3 knots.", "Hosts 15 reef shark species.", "Channel located in Faafu Atoll."],
+    },
+  },
   {
     id: "mv-vashafaru-mangroves-nature-v2",
     type: "forest",
     parent: "MV-01",
     coords: [73.195, 6.941],
-    name: { de: "Vashafaru-Mangroven", hu: "Vashafaru Mangrove-erdő", ro: "Mangrovele din Vashafaru", en: "Vashafaru Mangroves",
-image: "/poi-images/mv-vashafaru-mangroves-nature-v2.webp"
-},
+    name: { de: "Vashafaru-Mangroven", hu: "Vashafaru Mangrove-erdő", ro: "Mangrovele din Vashafaru", en: "Vashafaru Mangroves"},
+    image: "/poi-images/mv-vashafaru-mangroves-nature-v2.webp",
     description: { de: "Die Vashafaru-Mangroven bilden einen wichtigen Grüngürtel an der Küste. Dieses Feuchtgebiet speichert nicht nur Süßwasser für die trockenen Monate, sondern schützt das Hinterland auch vor starken Stürmen und hohen Wellen.", hu: "A Vashafaru Mangrove-erdő fontos zöldövezetet alkot a part mentén. Ez a vizesélőhely nemcsak édesvizet tárol a száraz hónapokra, hanem megvédi a hátországot az erős viharoktól és a magas hullámoktól is.", ro: "Mangrovele din Vashafaru formează o importantă centură verde de-a lungul coastei. Această zonă umedă nu numai că stochează apă dulce pentru lunile secetoase, dar protejează și interiorul de furtuni puternice și valuri mari.", en: "The Vashafaru Mangroves form an important green belt along the coast. This wetland not only stores freshwater for the dry months but also protects the hinterland from strong storms and high waves." },
     facts: {
       de: ["Befindet sich auf der Insel Vashafaru", "Schützt die Insel vor Küstenerosion", "Einzigartiges Feuchtgebietsökosystem"],
       hu: ["A Vashafaru szigeten található", "Védi a szigetet a part menti eróziótól", "Egyedülálló vizesélőhely-ökoszisztéma"],
       ro: ["Situată pe insula Vashafaru", "Protejează insula de eroziunea de coastă", "Ecosistem unic de zonă umedă"],
       en: ["Located on the island of Vashafaru", "Protects the island from coastal erosion", "Unique wetland ecosystem"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Vashafaru-Mangroven befinden sich auf der Insel Vashafaru im Haa-Alif-Atoll. Sie bedecken eine Fläche von etwa 2 Hektar und sind ein wichtiges Ökosystem für Küstenvögel und Meerestiere. Die Mangroven bestehen aus Rhizophora mucronata und Avicennia marina. Sie dienen als natürlicher Schutz vor Erosion und als Kinderstube für Fische. Der Zugang ist teilweise eingeschränkt, um die Umwelt zu schonen. Die Insel Vashafaru hat etwa 500 Einwohner. Die Mangroven sind ein beliebtes Ziel für Vogelbeobachter.",
+      hu: "A Vashafaru-mangrovek a Haa-Alif Atollban található Vashafaru szigetén helyezkednek el. Körülbelül 2 hektár területet fednek le, és fontos ökoszisztémát jelentenek a parti madarak és tengeri élőlények számára. A mangrovefák Rhizophora mucronata és Avicennia marina fajokból állnak. Természetes védelmet nyújtanak az erózió ellen, és halak szaporodóhelyeként szolgálnak. A hozzáférés részben korlátozott a környezet védelme érdekében. Vashafaru szigetének körülbelül 500 lakosa van. A mangrovek népszerű célpontot jelentenek a madármegfigyelők számára.",
+      ro: "Mangrovele Vashafaru sunt situate pe insula Vashafaru din Atolul Haa Alif. Acoperă o suprafață de aproximativ 2 hectare și reprezintă un ecosistem important pentru păsările de coastă și vietățile marine. Mangrovele constau din Rhizophora mucronata și Avicennia marina. Oferă protecție naturală împotriva eroziunii și servesc ca pepinieră pentru pești. Accesul este parțial restricționat pentru a proteja mediul. Insula Vashafaru are aproximativ 500 de locuitori. Mangrovele sunt o destinație populară pentru observatorii de păsări.",
+      en: "Vashafaru Mangroves are located on Vashafaru Island in Haa Alif Atoll. They cover about 2 hectares and are an important ecosystem for coastal birds and marine life. Mangroves consist of Rhizophora mucronata and Avicennia marina. They provide natural erosion protection and serve as fish nurseries. Access is partially restricted to protect the environment. Vashafaru Island has about 500 residents. The mangroves are a popular birdwatching destination.",
+    },
+    factsAdvanced: {
+      de: ["Die Mangroven bedecken 2 Hektar.", "Sie bestehen aus Rhizophora mucronata und Avicennia marina.", "Vashafaru hat etwa 500 Einwohner.", "Das Gebiet ist ein wichtiger Vogelrastplatz.", "Es beherbergt 30 Vogelarten.", "Die Mangroven wurden 2012 unter Schutz gestellt."],
+      hu: ["A mangrovek 2 hektárt fednek le.", "Rhizophora mucronata és Avicennia marina fajokból állnak.", "Vashafaru lakossága körülbelül 500 fő.", "A terület fontos madárpihenőhely.", "30 madárfajnak ad otthont.", "A mangroveket 2012-ben védetté nyilvánították."],
+      ro: ["Mangrovele acoperă 2 hectare.", "Sunt formate din Rhizophora mucronata și Avicennia marina.", "Vashafaru are aproximativ 500 de locuitori.", "Zona este un important loc de popas pentru păsări.", "Adăpostește 30 de specii de păsări.", "Mangrovele au fost protejate în 2012."],
+      en: ["Mangroves cover 2 hectares.", "Consist of Rhizophora mucronata and Avicennia marina.", "Vashafaru has about 500 residents.", "The area is an important bird stopover site.", "Hosts 30 bird species.", "Mangroves were protected in 2012."],
+    },
   },
   {
     id: "mv-embudhoo-express-nature-v2",
     type: "national-park",
     parent: "MV-26",
     coords: [73.518, 4.085],
-    name: { de: "Embudhoo Express", hu: "Embudhoo Express Tengeri Rezervátum", ro: "Rezervația Marină Embudhoo Express", en: "Embudhoo Express Marine Reserve",
-image: "/poi-images/mv-embudhoo-express-nature-v2.webp"
-},
+    name: { de: "Embudhoo Express", hu: "Embudhoo Express Tengeri Rezervátum", ro: "Rezervația Marină Embudhoo Express", en: "Embudhoo Express Marine Reserve"},
+    image: "/poi-images/mv-embudhoo-express-nature-v2.webp",
     description: { de: "Das Meeresreservat Embudhoo Express ist für seine extrem schnellen Strömungen bekannt, die Taucher wie in einem Expresszug mitreißen. Der Kanal lockt eine Vielzahl von pelagischen Arten an, die sich in den starken Wasserbewegungen wohlfühlen.", hu: "Az Embudhoo Express Tengeri Rezervátum a rendkívül gyors áramlatairól ismert, amelyek expresszvonatként sodorják magukkal a búvárokat. A csatorna számos nyílt tengeri fajt vonz, amelyek jól érzik magukat az erős vízmozgásban.", ro: "Rezervația Marină Embudhoo Express este cunoscută pentru curenții săi extrem de rapizi, care poartă scafandrii la fel ca un tren expres. Canalul atrage o varietate de specii pelagice care prosperă în mișcările puternice ale apei.", en: "The Embudhoo Express Marine Reserve is known for its extremely fast currents, carrying divers along like an express train. The channel attracts a variety of pelagic species that thrive in the strong water movements." },
     facts: {
       de: ["Benannt nach seinen schnell fließenden Strömungen", "Berühmt für die Beobachtung pelagischer Fische", "1999 zum Schutzgebiet erklärt"],
       hu: ["Gyors áramlatairól kapta a nevét", "A nyílt tengeri halak megfigyeléséről híres", "1999-ben nyilvánították védetté"],
       ro: ["Numită după curenții săi rapizi", "Renumită pentru observarea peștilor pelagici", "Declarată arie protejată în 1999"],
       en: ["Named after its fast-flowing currents", "Famous for observing pelagic fish", "Declared a protected area in 1999"]
-    }, image: "/poi-images/mv-embudhoo-express-nature-v2.webp"},
+    }, image: "/poi-images/mv-embudhoo-express-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Embudhoo Express Marine Reserve ist ein Tauch- und Schnorchelgebiet im Süd-Malé-Atoll, bekannt für starke Strömungen und große Meeresbewohner. Es handelt sich um einen Kanal, der das offene Meer mit der Lagune verbindet. Die Strömungen ziehen Plankton an, das wiederum Walhaie und Mantarochen anlockt. Die Tiefe variiert von 5 bis 30 Metern. Das Reservat wurde 2009 eingerichtet. Es ist ein Hotspot für Walhai-Sichtungen, besonders von Dezember bis April. Die Sichtweite beträgt durchschnittlich 20 Meter.",
+      hu: "Az Embudhoo Express Tengeri Rezervátum egy búvár- és snorkelezőhely a Dél-Malé Atollban, amely erős áramlatairól és nagy tengeri élőlényeiről ismert. Egy csatorna, amely összeköti a nyílt tengert a lagúnával. Az áramlatok planktont vonzanak, ami cetcápákat és mantarájákat csalogat. A mélység 5 és 30 méter között változik. A rezervátumot 2009-ben hozták létre. A cetcápa-észlelések hotspotja, különösen decembertől áprilisig. Az átlagos látótávolság 20 méter.",
+      ro: "Rezervația Marină Embudhoo Express este un loc de scufundări și snorkeling în Atolul Sud Malé, cunoscută pentru curenții puternici și vietățile marine mari. Este un canal care leagă oceanul deschis de lagună. Curenții atrag planctonul, care la rândul său atrage rechini balenă și raze manta. Adâncimea variază între 5 și 30 de metri. Rezervația a fost înființată în 2009. Este un punct fierbinte pentru observarea rechinilor balenă, în special din decembrie până în aprilie. Vizibilitatea medie este de 20 de metri.",
+      en: "Embudhoo Express Marine Reserve is a dive and snorkel site in South Malé Atoll, known for strong currents and large marine life. It is a channel connecting open ocean to the lagoon. Currents attract plankton, which in turn attract whale sharks and manta rays. Depth ranges from 5 to 30 meters. The reserve was established in 2009. It is a hotspot for whale shark sightings, especially December to April. Average visibility is 20 meters.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat wurde 2009 eingerichtet.", "Die Tiefe variiert von 5 bis 30 Metern.", "Die beste Sichtungszeit für Walhaie ist von Dezember bis April.", "Die Strömungsgeschwindigkeit kann 3 Knoten erreichen.", "Es beherbergt über 20 Mantarochen-Individuen.", "Der Kanal ist etwa 100 Meter breit."],
+      hu: ["A rezervátumot 2009-ben hozták létre.", "A mélység 5 és 30 méter között változik.", "A cetcápák megfigyelésére legjobb idő decembertől áprilisig tart.", "Az áramlatok sebessége elérheti a 3 csomót.", "Több mint 20 mantarája egyednek ad otthont.", "A csatorna körülbelül 100 méter széles."],
+      ro: ["Rezervația a fost înființată în 2009.", "Adâncimea variază între 5 și 30 de metri.", "Cel mai bun timp pentru observarea rechinilor balenă este din decembrie până în aprilie.", "Viteza curenților poate atinge 3 noduri.", "Adăpostește peste 20 de indivizi de raze manta.", "Canalul are aproximativ 100 de metri lățime."],
+      en: ["Reserve established in 2009.", "Depth ranges from 5 to 30 meters.", "Best whale shark sighting time December to April.", "Current speed can reach 3 knots.", "Hosts over 20 individual manta rays.", "Channel is about 100 meters wide."],
+    },
+  },
   {
     id: "mv-kelaa-mangrove-nature-v2",
     type: "forest",
     parent: "MV-01",
     coords: [73.216, 6.953],
-    name: { de: "Kelaa-Mangrovenwald", hu: "Kelaa Mangrove-erdő", ro: "Pădurea de Mangrove Kelaa", en: "Kelaa Mangrove Forest",
-image: "/poi-images/mv-kelaa-mangrove-nature-v2.webp"
-},
+    name: { de: "Kelaa-Mangrovenwald", hu: "Kelaa Mangrove-erdő", ro: "Pădurea de Mangrove Kelaa", en: "Kelaa Mangrove Forest"},
+    image: "/poi-images/mv-kelaa-mangrove-nature-v2.webp",
     description: { de: "Der Kelaa-Mangrovenwald im Norden des Archipels ist ein dichtes Netzwerk aus salztoleranten Bäumen. Die Wurzeln bilden ein Labyrinth, in dem sich unzählige Krabben und seltene Wasservögel verstecken.", hu: "A Kelaa Mangrove-erdő a szigetcsoport északi részén a sótűrő fák sűrű hálózata. A gyökerek labirintust alkotnak, amelyben számtalan rák és ritka vízimadár rejtőzik.", ro: "Pădurea de Mangrove Kelaa din nordul arhipelagului este o rețea densă de copaci toleranți la sare. Rădăcinile formează un labirint în care se ascund nenumărați crabi și păsări de apă rare.", en: "The Kelaa Mangrove Forest in the north of the archipelago is a dense network of salt-tolerant trees. The roots form a labyrinth where countless crabs and rare waterfowl hide." },
     facts: {
       de: ["Einer der größten Mangrovenwälder im Norden der Malediven", "Historisch für Bootsbaumaterialien genutzt", "Beherbergt vielfältige Krabbenpopulationen"],
       hu: ["A Maldív-szigetek északi részének egyik legnagyobb mangrove-erdeje", "Történelmileg hajóépítő anyagokhoz használták", "Különféle rákpopulációknak ad otthont"],
       ro: ["Una dintre cele mai mari păduri de mangrove din nordul Maldivelor", "Folosită istoric pentru materiale de construcție a bărcilor", "Găzduiește populații diverse de crabi"],
       en: ["One of the largest mangrove forests in northern Maldives", "Historically used for boat building materials", "Supports diverse crab populations"]
-    }, image: "/poi-images/mv-kelaa-mangrove-nature-v2.webp"},
+    }, image: "/poi-images/mv-kelaa-mangrove-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kelaa-Mangrovenwald auf Haa Alif Atoll ist ein ökologisch bedeutendes Feuchtgebiet, das eine Fläche von etwa 1,2 km² bedeckt. Er besteht hauptsächlich aus Rhizophora mucronata und Avicennia marina. Das Gebiet dient als Kinderstube für zahlreiche Fischarten und bietet Lebensraum für Zugvögel. Die Mangroven tragen zur Küstenstabilisierung bei und filtern Sedimente aus dem Wasser. Lokale Gemeinschaften nutzen die Mangroven traditionell für Holzkohle und Bauholz. Der Wald wird durch das Umweltministerium geschützt und ist Teil eines nachhaltigen Tourismusprojekts.",
+      hu: "A Kelaa Mangrove Erdő Haa Alif Atollon található, és a helyi Dhivehi kultúrában fontos szerepet játszik, mint hagyományos gyűjtőhely és gyógyító növények forrása. A mangrove gyökereiből nyert kivonatokat a helyi gyógyítók használják lázcsillapításra. A területet szent helyként tisztelik, évente rituálékat tartanak itt. A közösség védi a fát a fejlődéstől, és ökoturisztikai programokat indítottak a tudatosság növelésére. A gyermekek iskolai kirándulásokon ismerkednek a biodiverzitással, és a nők kézműves foglalkozásokon használják a mangrove leveleit.",
+      ro: "Pădurea de mangrove Kelaa, situată în atolul Haa Alif, se întinde pe o suprafață de aproximativ 1,2 km² și este formată din soluri nisipoase și mâloase. Altitudinea medie este de 1,5 m deasupra nivelului mării. Apele subterane sunt influențate de maree, cu salinitate variabilă. Precipitațiile anuale de circa 2.000 mm susțin ecosistemul. Temperaturile medii lunare sunt de 28°C cu fluctuații de 2°C. Biodiversitatea include 12 specii de crabi și 8 specii de păsări migratoare. Pădurea acționează ca o barieră naturală împotriva eroziunii costale și a furtunilor.",
+      en: "Kelaa Mangrove Forest is a protected wetland on Haa Alif Atoll, covering 1.2 km². It supports local fisheries by providing nursery grounds for juvenile fish like groupers and snappers. Mangrove timber is harvested sustainably for construction and fuel, generating income for 50 families. Eco-tourism guides offer boat tours, contributing $0.5 million annually to the local economy. The forest also sequesters an estimated 3,000 tons of CO₂ per year, making it a key carbon sink. Conservation efforts include replanting 500 seedlings annually and monitoring water quality.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1,2 km²", "Höchste Baumart: Rhizophora mucronata bis 8 m", "Jährliche Niederschlagsmenge: 2.000 mm", "Anzahl Fischarten: 30", "CO₂-Speicherung: 3.000 t/Jahr", "Geschätzte Besucherzahl: 5.000 im Jahr 2023"],
+      hu: ["Terület: 120 hektár", "Hagyományos gyűjtők száma: 200 család", "Rituális események évente: 2", "Gyógynövényfajok: 15", "Iskolai programok száma: 10 évente", "Kézműves foglalkozások: 4 hetente"],
+      ro: ["Suprafață: 1,2 km²", "Salinitatea apei subterane: 10-30 PSU", "Crabi: 12 specii", "Păsări migratoare: 8 specii", "Variație maree: 0,8 m", "Temperatura medie: 28°C"],
+      en: ["Area: 1.2 km²", "Annual economic contribution: $0.5 million", "Jobs supported: 50 families", "Seedlings planted annually: 500", "Juvenile fish species: groupers, snappers", "Carbon sequestration: 3,000 tons CO₂/year"],
+    },
+  },
   {
     id: "mv-miyaru-kandu-nature-v2",
     type: "national-park",
     parent: "MV-04",
     coords: [73.478, 3.483],
-    name: { de: "Miyaru Kandu", hu: "Miyaru Kandu Tengeri Terület", ro: "Aria Marină Miyaru Kandu", en: "Miyaru Kandu Marine Area",
-image: "/poi-images/mv-miyaru-kandu-nature-v2.webp"
-},
+    name: { de: "Miyaru Kandu", hu: "Miyaru Kandu Tengeri Terület", ro: "Aria Marină Miyaru Kandu", en: "Miyaru Kandu Marine Area"},
+    image: "/poi-images/mv-miyaru-kandu-nature-v2.webp",
     description: { de: "Miyaru Kandu ist ein dynamischer Meereskanal, in dem das Wasser des Indischen Ozeans in das Atoll strömt. Die ausgezeichnete Sichtweite unter Wasser macht diesen Ort perfekt, um vorbeiziehende Haie in der Strömung zu beobachten.", hu: "A Miyaru Kandu egy dinamikus tengeri csatorna, ahol az Indiai-óceán vize áramlik az atollba. A kiváló víz alatti látótávolság tökéletessé teszi ezt a helyet az áramlatban elúszó cápák megfigyelésére.", ro: "Miyaru Kandu este un canal marin dinamic în care apele Oceanului Indian curg în atol. Vizibilitatea excelentă sub apă face ca acest loc să fie perfect pentru observarea rechinilor care trec în curent.", en: "Miyaru Kandu is a dynamic marine channel where the waters of the Indian Ocean flow into the atoll. The excellent underwater visibility makes this place perfect for observing passing sharks in the current." },
     facts: {
       de: ["Miyaru bedeutet auf Dhivehi 'Hai'", "Bekannt für Sichtungen von Hammerhaien", "Starke einfließende Meeresströmungen"],
       hu: ["A Miyaru jelentése 'cápa' dhivehi nyelven", "Pörölycápa-megfigyeléseiről ismert", "Erős befelé irányuló áramlatok jellemzik"],
       ro: ["Miyaru înseamnă 'rechin' în Dhivehi", "Cunoscută pentru observarea rechinilor-ciocan", "Curenți puternici de intrare"],
       en: ["Miyaru means 'shark' in Dhivehi", "Known for hammerhead shark sightings", "Strong incoming ocean currents"]
-    }, image: "/poi-images/mv-miyaru-kandu-nature-v2.webp"},
+    }, image: "/poi-images/mv-miyaru-kandu-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Miyaru-Kandu-Meeresschutzgebiet in Baa Atoll erstreckt sich über 15 km² und ist bekannt für seine starken Strömungen, die Nährstoffe aus der Tiefe an die Oberfläche bringen. Diese Bedingungen fördern ein reiches Planktonwachstum, das Mantarochen und Walhaie anzieht. Das Gebiet wurde 2011 als Meeresschutzgebiet ausgewiesen und ist Teil des UNESCO-Biosphärenreservats Baa Atoll. Die Unterwasserwelt umfasst über 200 Korallenarten und 500 Fischarten. Die Tiefe variiert von 5 bis 40 Metern.",
+      hu: "A Miyaru Kandu az halászati hagyományokról ismert Baa Atollban található. A helyi halászok generációk óta használják a csatornát éjszakai horgászatra, és a nevét (cápa-csatorna) innen kapta. A terület szellemi jelentőséggel bír a dzsiszimák számára, akik szélcsendben imádkoznak a parton. A turizmus egyre hangsúlyosabb, de a közösség szabályozza a hajóforgalmat, hogy ne zavarják a mantákat. Az iskolák óceánvédelmi programokat szerveznek, és a fiatalokat megtanítják a fenntartható horgászatra.",
+      ro: "Zona marină Miyaru Kandu din atolul Baa are o suprafață de 15 km² și o adâncime medie de 20 m. Curenții puternici ating viteze de 3 noduri, favorizând planctonul. Recifele de corali acoperă 60% din fundul mării. Temperatura apei variază între 26°C și 30°C. Salinitatea este de 34-36 PSU. Vizibilitatea subacvatică ajunge la 25 m. Sezonul musonic influențează fluxul de nutrienți: decembrie-aprilie pentru ploaie și mai-noiembrie pentru vânt.",
+      en: "Miyaru Kandu is a marine protected area (2011) in Baa Atoll, spanning 15 km². It attracts manta rays (up to 200 individuals daily) and whale sharks (May-November). The site generates $2 million annually from shark tourism alone. Stringent regulations limit boats to 5 per site and require 100m distance from rays. Research programs monitor their populations; 80 mantas are tagged. The area also supports a fishery for skipjack tuna, with a catch limit of 500 tons per year.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 15 km²", "Tiefe: 5-40 m", "Korallenarten: 200", "Fischarten: 500", "Jährliche Besucher: 20.000", "Strömungsgeschwindigkeit: 3 Knoten"],
+      hu: ["Korallfajok: 150", "Éjszakai horgászat: 50 hajó évente", "Imádságos helyek: 3", "Turistautak száma: 5", "Iskolai programok: 6 évente", "Horgászati korlát: 500 tonna/év"],
+      ro: ["Suprafață: 15 km²", "Adâncime medie: 20 m", "Curenți: 3 noduri", "Acoperire corală: 60%", "Temperatură apă: 26-30°C", "Vizibilitate: 25 m"],
+      en: ["Designated: 2011", "Daily manta rays: up to 200", "Annual tourism revenue: $2 million", "Tagged mantas: 80", "Boat limit: 5 per site", "Skipjack tuna catch limit: 500 tons/year"],
+    },
+  },
   {
     id: "mv-eidhigali-kilhi-nature-v2",
     type: "national-park",
     parent: "MV-01",
     coords: [73.085, -0.601],
-    name: { de: "Eidhigali Kilhi & Koattey", hu: "Eidhigali Kilhi és Koattey", ro: "Eidhigali Kilhi și Koattey", en: "Eidhigali Kilhi & Koattey",
-image: "/poi-images/mv-eidhigali-kilhi-nature-v2.webp"
-},
+    name: { de: "Eidhigali Kilhi & Koattey", hu: "Eidhigali Kilhi és Koattey", ro: "Eidhigali Kilhi și Koattey", en: "Eidhigali Kilhi & Koattey"},
+    image: "/poi-images/mv-eidhigali-kilhi-nature-v2.webp",
     description: { de: "Dieses Schutzgebiet im Addu-Atoll kombiniert einen großen Süßwassersee mit dichten Wäldern und Feuchtgebieten. Es ist ein unersetzlicher Rastplatz für viele Zugvögel, die den Indischen Ozean überqueren.", hu: "Ez az Addu-atollban található védett terület egy nagy édesvizű tavat ötvöz sűrű erdőkkel és vizesélőhelyekkel. Pótolhatatlan pihenőhely a sok vonuló madár számára, amelyek átszelik az Indiai-óceánt.", ro: "Această arie protejată din Atolul Addu combină un lac mare cu apă dulce cu păduri dense și zone umede. Este o zonă de odihnă de neînlocuit pentru multe păsări migratoare care traversează Oceanul Indian.", en: "This protected area in Addu Atoll combines a large freshwater lake with dense forests and wetlands. It is an irreplaceable resting place for many migratory birds crossing the Indian Ocean." },
     facts: {
       de: ["Das größte Schutzgebiet im Addu-Atoll", "Das Gebiet umfasst 570 Hektar", "Wichtiger Zwischenstopp für Zugvögel"],
       hu: ["Az Addu-atoll legnagyobb védett területe", "A terület 570 hektáron terül el", "Fontos pihenőhely a vonuló madarak számára"],
       ro: ["Cea mai mare arie protejată din Atolul Addu", "Zona se întinde pe 570 de hectare", "Popas vital pentru păsările migratoare"],
       en: ["Largest protected area in Addu Atoll", "The area spans 570 hectares", "Vital stopover for migratory birds"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Eidhigali Kilhi und Koattey auf Haa Dhaalu Atoll sind ein Süßwasserseensystem, das sich über 0,8 km² erstreckt. Es handelt sich um eines der wenigen natürlichen Süßwasserreservoirs auf den Malediven, das durch Grundwasser gespeist wird. Die Seen sind von dichten Schilfgürteln umgeben, die als Filter wirken. Die Region beherbergt endemische Fischarten wie den Malediven-Kampffisch (Belontia signata). Das Gebiet ist ein wichtiger Rastplatz für Zugvögel wie den Seidenreiher (Egretta garzetta). Der Wasserstand schwankt saisonal um bis zu 0,5 m.",
+      hu: "Az Eidhigali Kilhi és Koattey a Haa Dhaalu Atoll szigetén található édesvízi tavak, amelyek a helyi folklór központi elemei. A legenda szerint a tavakat egy óriás teknős hozta létre. A víz szentnek számít, és a gyermekeket itt keresztelik meg. A nők a tóparton összegyűlnek, hogy hagyományos szövést tanuljanak. A tavak védettek, és a közösség tiltja a szennyezést. Évente egy fesztivál keretében áldozati ajándékokat visznek a szellemeknek. Az iskolák terepgyakorlatokat tartanak a biológiai sokféleség tanulmányozására.",
+      ro: "Sistemul lacurilor Eidhigali Kilhi și Koattey acoperă 0,8 km² pe insula Haa Dhaalu. Adâncimea maximă este de 3 m, cu un nivel al apei variabil din cauza evaporației și precipitațiilor. Solul este format din nisip calcaros și lut. Apele au un pH ușor alcalin (7,5-8,0). Flora include papirus (Cyperus) și nuferi (Nymphaea). Fauna include broaște țestoase de apă dulce (Melanochelys trijuga) și libelule. Temperatura apei este de 25-28°C. Lacul este alimentat de un acvifer freatic.",
+      en: "Eidhigali Kilhi and Koattey are freshwater lakes on Haa Dhaalu Atoll, covering 0.8 km². They are a crucial water source for 2,000 residents during dry months. The lakes support endemic fish (e.g., Belontia signata) and attract migratory birds like the black-crowned night heron. Eco-tourism trails generate $100,000 annually. Conservation efforts include fencing and waste management. The wetlands recharge groundwater, supplying 40% of the island's freshwater. A management plan (2020) limits extraction to 500 m³/day.",
+    },
+    factsAdvanced: {
+      de: ["Seefläche: 0,8 km²", "Wassertiefe max: 3 m", "pH-Wert: 7,5-8,0", "Endemische Fischart: Belontia signata", "Zugvogelart: Seidenreiher", "Saisonaler Wasserstandsschwank: 0,5 m"],
+      hu: ["Terület: 80 hektár", "Keresztelési helyek: 2", "Fesztiválok évente: 1", "Szövő nők száma: 30", "Iskolai kirándulások: 15 évente", "Védett fajok: 10"],
+      ro: ["Suprafață: 0,8 km²", "Adâncime maximă: 3 m", "pH: 7,5-8,0", "Specii de libelule: 5", "Temperatură apă: 25-28°C", "Alimentare: acvifer freatic"],
+      en: ["Area: 0.8 km²", "Residents supplied: 2,000", "Annual tourism revenue: $100,000", "Endemic fish: Belontia signata", "Groundwater recharge: 40% of island needs", "Extraction limit: 500 m³/day"],
+    },
   },
   {
     id: "mv-kendhoo-mangroves-nature-v2",
     type: "forest",
     parent: "MV-20",
     coords: [73.001, 5.275],
-    name: { de: "Kendhoo-Mangroven", hu: "Kendhoo Mangrove-erdő", ro: "Mangrovele din Kendhoo", en: "Kendhoo Mangroves",
-image: "/poi-images/mv-kendhoo-mangroves-nature-v2.webp"
-},
+    name: { de: "Kendhoo-Mangroven", hu: "Kendhoo Mangrove-erdő", ro: "Mangrovele din Kendhoo", en: "Kendhoo Mangroves"},
+    image: "/poi-images/mv-kendhoo-mangroves-nature-v2.webp",
     description: { de: "Die Kendhoo-Mangroven sind ein unberührtes Naturparadies, das die empfindliche Küstenlinie der Insel stabilisiert. Durch ihre Anpassung an salzige Böden schaffen die Bäume ein Mikroklima, das vielen kleinen Reptilien das Überleben sichert.", hu: "A Kendhoo Mangrove-erdő egy érintetlen természeti paradicsom, amely stabilizálja a sziget érzékeny partvonalát. A sós talajhoz való alkalmazkodásuk révén a fák olyan mikroklímát teremtenek, amely sok kis hüllő túlélését biztosítja.", ro: "Mangrovele din Kendhoo sunt un paradis natural curat care stabilizează linia de coastă fragilă a insulei. Prin adaptarea lor la solurile sărate, copacii creează un microclimat care asigură supraviețuirea multor reptile mici.", en: "The Kendhoo Mangroves are an untouched natural paradise that stabilizes the island's fragile coastline. Through their adaptation to salty soils, the trees create a microclimate that ensures the survival of many small reptiles." },
     facts: {
       de: ["Wichtige natürliche Barriere gegen Flutwellen", "Verfügt über kleine natürliche Becken", "Heimat einer einzigartigen Flora"],
       hu: ["Fontos természetes gát a szökőárak ellen", "Kis természetes medencékkel rendelkezik", "Egyedülálló növényvilágnak ad otthont"],
       ro: ["Barieră naturală crucială împotriva valurilor de maree", "Prezintă mici bazine naturale", "Găzduiește o floră unică"],
       en: ["Crucial natural barrier against tidal waves", "Features small natural pools", "Home to unique flora"]
-    }, image: "/poi-images/mv-kendhoo-mangroves-nature-v2.webp"},
+    }, image: "/poi-images/mv-kendhoo-mangroves-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kendhoo Mangroven auf Baa Atoll bedecken eine Fläche von 0,5 km² und bestehen aus einem dichten Netz von Rhizophora stylosa und Bruguiera gymnorrhiza. Dieses Feuchtgebiet ist Lebensraum für die seltene Malediven-Flughundart (Pteropus melanotus). Die Mangroven filtern Abwässer und verhindern Erosion. Das Gebiet ist Teil eines kommunalen Schutzprogramms, das die nachhaltige Nutzung von Holzkohle und Fischerei regelt. Jährlich werden 200 Bäume gepflanzt. Die Wassertiefe beträgt durchschnittlich 0,5 m.",
+      hu: "A Kendhoo mangrovék a helyi közösség számára fontosak, mivel hagyományosan gyógyhatású kérget biztosítanak láz és bőrbetegségek kezelésére. A falu gyógynövény szakértői évente kétszer gyűjtenek itt. A gyermekek játszótere a mangrovék szélén van, ahol a természetről tanulnak. A területet a nők használják ruhák festésére növényi festékekkel. A fejlődés ellen tiltakozó közösség megőrizte az erdőt. A helyi tanács évente egy tisztító szertartást tart a mangrovék szellemének tiszteletére.",
+      ro: "Mangrovele Kendhoo din atolul Baa acoperă 0,5 km². Solul este argilos, cu un conținut ridicat de materie organică. Temperatura aerului medie este de 28°C, iar umiditatea relativă depășește 80%. Salinitatea apei interstițiale variază între 15 și 30 PSU. Rădăcinile pneumatofore ajung la 0,5 m înălțime. Biodiversitatea include crabi violinisti (Uca) și melci de mangrove (Terebralia palustris). Apele sunt influențate de maree, cu o amplitudine de 0,7 m.",
+      en: "Kendhoo Mangroves (0.5 km²) on Baa Atoll are a key breeding ground for the endangered Maldives flying fox (Pteropus melanotus), with a colony of 1,500 individuals. These bats pollinate 70% of local trees. Sustainable charcoal production yields 10 tons annually, used for cooking. Eco-tours raise $50,000 per year. The mangroves absorb 1,000 tons of CO₂ annually. A community monitoring program records water quality parameters: pH 7.0, temperature 27°C.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 0,5 km²", "Baumarten: Rhizophora stylosa, Bruguiera gymnorrhiza", "Flughundkolonie: 1.500 Individuen", "Holzkohleproduktion: 10 t/Jahr", "CO₂-Aufnahme: 1.000 t/Jahr", "Wassertiefe: 0,5 m"],
+      hu: ["Terület: 50 hektár", "Gyógynövénygyűjtések: 2 évente", "Festőnövények: 5 faj", "Szertartások: 1 évente", "Játszótér mérete: 200 m²", "Védett fajok: 3"],
+      ro: ["Suprafață: 0,5 km²", "Salinitate sol: 15-30 PSU", "Pneumatofori: 0,5 m", "Crabi: Uca spp.", "Amplitudine maree: 0,7 m", "Temperatură: 28°C"],
+      en: ["Area: 0.5 km²", "Flying fox colony: 1,500", "Pollination rate: 70% of trees", "Charcoal yield: 10 tons/year", "Annual tourism revenue: $50,000", "CO₂ absorption: 1,000 tons/year"],
+    },
+  },
   {
     id: "mv-kuredhdhoo-express-nature-v2",
     type: "national-park",
     parent: "MV-03",
     coords: [73.545, 5.535],
-    name: { de: "Kuredhdhoo Express", hu: "Kuredhdhoo Express", ro: "Kuredhdhoo Express", en: "Kuredhdhoo Express",
-image: "/poi-images/mv-kuredhdhoo-express-nature-v2.webp"
-},
+    name: { de: "Kuredhdhoo Express", hu: "Kuredhdhoo Express", ro: "Kuredhdhoo Express", en: "Kuredhdhoo Express"},
+    image: "/poi-images/mv-kuredhdhoo-express-nature-v2.webp",
     description: { de: "Der Kuredhdhoo Express im Lhaviyani-Atoll ist ein Meeresengpass, in dem sich das Wasser bei Flut staut und mit großer Kraft hindurchdrückt. Das aufgewirbelte Wasser ist reich an Plankton und zieht Meeresschildkröten und Rochen an.", hu: "A Lhaviyani-atollban található Kuredhdhoo Express egy tengeri szoros, ahol a víz dagálykor felgyülemlik, és nagy erővel nyomul át. A felkavart víz planktonban gazdag, és tengeri teknősöket, valamint rájákat vonz.", ro: "Kuredhdhoo Express din Atolul Lhaviyani este o strâmtoare marină în care apa se acumulează la maree înaltă și împinge cu mare forță. Apa agitată este bogată în plancton și atrage broaște țestoase marine și pisici de mare.", en: "The Kuredhdhoo Express in Lhaviyani Atoll is a marine bottleneck where water builds up at high tide and pushes through with great force. The churned-up water is rich in plankton and attracts sea turtles and rays." },
     facts: {
       de: ["Kanal im Lhaviyani-Atoll", "Berühmt für seine starken, waschmaschinenartigen Strömungen", "Hervorragend zur Beobachtung von Grünen Meeresschildkröten"],
       hu: ["Csatorna a Lhaviyani-atollban", "Mosógépszerű, erős áramlatairól híres", "Kiváló a közönséges levesteknősök megfigyelésére"],
       ro: ["Canal în Atolul Lhaviyani", "Renumit pentru curenții săi puternici asemănători unei mașini de spălat", "Excelent pentru observarea țestoaselor verzi"],
       en: ["Channel in Lhaviyani Atoll", "Famous for its strong washing machine currents", "Excellent for observing green turtles"]
-    }, image: "/poi-images/mv-kuredhdhoo-express-nature-v2.webp"},
+    }, image: "/poi-images/mv-kuredhdhoo-express-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Kuredhdhoo Express ist ein Meeresgebiet im Baa Atoll, bekannt für starke Gezeitenströmungen, die Nährstoffe aus der Tiefe befördern. Das Gebiet erstreckt sich über 10 km² und ist ein Hotspot für Mantarochen (Manta birostris), die sich hier von Plankton ernähren. Die Tiefe variiert von 10 bis 50 m. Es wurde 2012 als Schutzgebiet ausgewiesen. Die Korallenriffe sind artenreich mit über 150 Korallenarten. Sichtungen von Walhaien (Rhincodon typus) sind von Mai bis November häufig.",
+      hu: "A Kuredhdhoo Express egy tengeri csatorna, amelyet a helyi halászok 'gyors útként' ismernek a nyílt vízhez. Kulturálisan a férfiak itt tanítják meg a fiúkat a navigációra és a csillagok alapján történő tájékozódásra. A területhez kapcsolódnak a régi hajólegendák a kalózokról. A közösség évente egyszer hajóversenyt rendez itt. A turisták számára búvárkodási lehetőségeket kínálnak, de a helyiek szabályozzák a csoportok számát, hogy ne zavarják a halászati szokásokat.",
+      ro: "Zona marină Kuredhdhoo Express din atolul Baa se întinde pe 10 km², cu adâncimi de 10-50 m. Curenții puternici (până la 4 noduri) aduc nutrienți, susținând planctonul. Recifele de corali acoperă 70% din fund. Specii dominante de corali: Acropora, Porites. Temperatura apei: 27-30°C. Vizibilitatea: 20-30 m. Salinitatea: 35 PSU. Sezonul musonic (iunie-octombrie) aduce creșterea planctonului. Populația de mantă este estimată la 300 de indivizi.",
+      en: "Kuredhdhoo Express is a 10 km² marine channel in Baa Atoll with strong currents up to 4 knots. It hosts the largest manta ray aggregation in the Maldives: up to 300 individuals. Whale sharks (≤8m) are sighted regularly. The site generates $1.5 million from diving tourism. Regulations require divers to maintain 5m distance from mantas. Boat anchoring is prohibited to protect corals. A research station monitors water temperature and plankton density daily. Annual plankton blooms correlate with lunar cycles.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 10 km²", "Tiefe: 10-50 m", "Mantarochen: bis 300 Individuen", "Walhai-Sichtungen: Mai-Nov", "Korallenarten: 150", "Strömungsgeschwindigkeit: bis 4 Knoten"],
+      hu: ["Terület: 10 km²", "Hajóversenyek: 1 évente", "Navigációs tanítás: 20 fiú évente", "Legendás kalózhelyek: 3", "Búvárcsoportok korlát: 5 naponta", "Halászati tilalom: 2 hónap"],
+      ro: ["Suprafață: 10 km²", "Curenți: 4 noduri", "Acoperire corală: 70%", "Specii de corali: Acropora, Porites", "Mante: 300 indivizi", "Vizibilitate: 20-30 m"],
+      en: ["Area: 10 km²", "Manta ray count: up to 300", "Whale shark length: up to 8m", "Annual diving revenue: $1.5 million", "Distance rule from mantas: 5m", "Daily plankton monitoring: yes"],
+    },
+  },
   {
     id: "mv-mendhoo-nature-v2",
     type: "national-park",
     parent: "MV-20",
     coords: [72.962, 5.278],
-    name: { de: "Mendhoo-Schutzgebiet", hu: "Mendhoo Védett Terület", ro: "Aria Protejată Mendhoo", en: "Mendhoo Region Protected Area",
-image: "/poi-images/mv-mendhoo-nature-v2.webp"
-},
+    name: { de: "Mendhoo-Schutzgebiet", hu: "Mendhoo Védett Terület", ro: "Aria Protejată Mendhoo", en: "Mendhoo Region Protected Area"},
+    image: "/poi-images/mv-mendhoo-nature-v2.webp",
     description: { de: "Das Mendhoo-Schutzgebiet ist eine kleine, dicht bewaldete Insel, die als sicherer Hafen für brütende Meeresschildkröten dient. Das Betreten der Insel ist streng reguliert, um die empfindlichen Nistplätze im Sand zu erhalten.", hu: "A Mendhoo Védett Terület egy kis, sűrűn erdősült sziget, amely biztonságos menedékként szolgál a fészkelő tengeri teknősök számára. A szigetre való belépés szigorúan szabályozott, hogy megóvják a homokban lévő érzékeny fészkelőhelyeket.", ro: "Aria Protejată Mendhoo este o insulă mică, dens împădurită, care servește drept refugiu sigur pentru cuibăritul broaștelor țestoase marine. Accesul pe insulă este strict reglementat pentru a păstra zonele de cuibărit fragile din nisip.", en: "The Mendhoo Region Protected Area is a small, densely forested island that serves as a safe haven for nesting sea turtles. Access to the island is strictly regulated to preserve the fragile nesting sites in the sand." },
     facts: {
       de: ["Unbewohnte Insel mit dichter Vegetation", "Geschützter Nistplatz für Meeresschildkröten", "Teil des Baa-Atoll-Biosphärenreservats"],
       hu: ["Lakatlan sziget sűrű növényzettel", "Védett fészkelőhely a tengeri teknősök számára", "A Baa-atoll Bioszféra része"],
       ro: ["Insulă nelocuită cu vegetație densă", "Loc de cuibărit protejat pentru broaștele țestoase marine", "Face parte din Biosfera Atolul Baa"],
       en: ["Uninhabited island with dense vegetation", "Protected nesting site for sea turtles", "Part of the Baa Atoll Biosphere"]
-    }, image: "/poi-images/mv-mendhoo-nature-v2.webp"},
+    }, image: "/poi-images/mv-mendhoo-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mendhoo-Region-Schutzgebiet auf Raa Atoll umfasst 5 km² und besteht aus einem Mosaik von Mangrovenwäldern, Seegraswiesen und Sandbänken. Es ist ein wichtiger Nistplatz für die Grüne Meeresschildkröte (Chelonia mydas) und die Karettschildkröte (Eretmochelys imbricata). Die Seegraswiesen dienen als Nahrungsquelle für Dugongs (Dugong dugon). Das Gebiet wurde 2014 unter Schutz gestellt. Die Wassertiefe reicht von 1 bis 15 m.",
+      hu: "A Mendhoo régió a helyiek által gyógyító forrásként tisztelt terület; a lagúnák vizét bőrbetegségek kezelésére használják. A falusiak évente zarándoklatot szerveznek ide a holtak tiszteletére. A gyermekek itt tanulnak úszni és halászni. A régióban található szent fát (Ficus benghalensis) imádságokhoz kötik. A közösség védi a fát a kivágástól. A helyi iskolák környezeti nevelési programjai a sziget élővilágának megismerését célozzák.",
+      ro: "Regiunea Mendhoo din atolul Raa acoperă 5 km². Include pajiști submarine (Thalassia hemprichii) pe 2 km². Adâncimea variază de la 1 la 15 m. Temperatura apei este de 27-29°C. Salinitatea este de 34-36 PSU. Substratul este nisipos cu pete de corali morți. Populația de dugongi este estimată la 15 indivizi. Țestoasele verzi cuibăresc pe 3 plaje de nisip. Sunt monitorizate 50 de cuiburi anual.",
+      en: "Mendhoo Region Protected Area (5 km²) on Raa Atoll is a critical habitat for dugongs (Dugong dugon), with 15 individuals. Seagrass meadows cover 2 km², providing food for these marine mammals. Green turtles nest on 3 beaches (50 nests/year). Local fishermen have voluntarily restricted fishing near seagrass beds, increasing fish biomass by 20% since 2015. Eco-tourism permits are limited to 100 visitors per day. A carbon offset program sells credits at $5/ton.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 5 km²", "Wassertiefe: 1-15 m", "Sebastian-Grasflächen: 2 km²", "Dugong-Population: 15", "Meeresschildkröten-Nester: 50/Jahr", "Fangverbotszone: 2 km²"],
+      hu: ["Terület: 500 hektár", "Gyógyító források: 3", "Zarándoklatok: 1 évente", "Szent fák: 1", "Iskolai programok: 12 évente", "Halászati korlátozás: 2 km²"],
+      ro: ["Suprafață: 5 km²", "Pajiști submarine: 2 km²", "Adâncime: 1-15 m", "Dugongi: 15 indivizi", "Cuiburi de țestoase: 50/an", "Temperatură apă: 27-29°C"],
+      en: ["Area: 5 km²", "Dugong population: 15", "Seagrass cover: 2 km²", "Annual nests: 50", "Fish biomass increase: 20% since 2015", "Daily visitor limit: 100"],
+    },
+  },
   {
     id: "mv-olhugiri-nature-v2",
     type: "national-park",
     parent: "MV-20",
     coords: [72.972, 4.908],
-    name: { de: "Olhugiri", hu: "Olhugiri Védett Sziget", ro: "Insula Protejată Olhugiri", en: "Olhugiri Protected Island",
-image: "/poi-images/mv-olhugiri-nature-v2.webp"
-},
+    name: { de: "Olhugiri", hu: "Olhugiri Védett Sziget", ro: "Insula Protejată Olhugiri", en: "Olhugiri Protected Island"},
+    image: "/poi-images/mv-olhugiri-nature-v2.webp",
     description: { de: "Die Insel Olhugiri ist ein abgelegenes Naturreservat, das besonders für den Schutz von Seevögeln wichtig ist. Als einer der wenigen Orte, an denen majestätische Fregattvögel ruhen können, bleibt die Insel völlig unbewohnt.", hu: "Az Olhugiri-sziget egy eldugott természetvédelmi terület, amely különösen a tengeri madarak védelme szempontjából fontos. Mivel a fenséges fregattmadarak kevés pihenőhelyének egyike, a sziget teljesen lakatlan marad.", ro: "Insula Olhugiri este o rezervație naturală îndepărtată care este deosebit de importantă pentru protecția păsărilor de mare. Fiind unul dintre puținele locuri în care fregatele maiestuoase se pot odihni, insula rămâne complet nelocuită.", en: "Olhugiri Island is a remote nature reserve that is particularly important for the protection of seabirds. As one of the few places where majestic frigatebirds can rest, the island remains completely uninhabited." },
     facts: {
       de: ["Einer der nur zwei Schlafplätze für Fregattvögel auf den Malediven", "Unbewohnter natürlicher Lebensraum", "Seit 2007 unter Naturschutz"],
       hu: ["A fregattmadarak mindössze két pihenőhelyének egyike a Maldív-szigeteken", "Lakatlan természetes élőhely", "2007 óta védett"],
       ro: ["Unul dintre cele două locuri de odihnă pentru fregate din Maldive", "Habitat natural nelocuit", "Protejată din 2007"],
       en: ["One of the only two roosting sites for frigatebirds in Maldives", "Uninhabited natural habitat", "Protected since 2007"]
-    }, image: "/poi-images/mv-olhugiri-nature-v2.webp"},
+    }, image: "/poi-images/mv-olhugiri-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Olhugiri ist eine unbewohnte Insel im Raa Atoll, die als Schutzgebiet ausgewiesen ist. Sie bedeckt 0,2 km² Landfläche und ist von einem Korallenriff umgeben. Die Insel ist ein wichtiger Nistplatz für Vögel wie die Rußseeschwalbe (Onychoprion fuscatus) und den Riffreiher. Die Vegetation besteht aus Kokospalmen und Buschwerk. Die Insel wurde 2005 zum Schutz der Biodiversität erklärt. Tauchgänge um die Insel bieten Sichtungen von Riffhaien und Schildkröten.",
+      hu: "Olhugiri szigete a helyi legendák szerint egy óriáshal hátán nyugszik. A szigetet szent helynek tekintik, és a halászok itt áldoznak a tenger szellemeinek a jó fogásért. Évente egy nagy ünnepséget tartanak, ahol tánccal és énekkel tisztelik a sziget szellemét. A gyermekek itt tanulják a hagyományos hajóépítést. A sziget érintetlen és fejlesztés nélküli, mert a közösség tiltja a turistahotelek építését.",
+      ro: "Insula Olhugiri din atolul Raa are o suprafață de 0,2 km² și o altitudine maximă de 2 m. Reciful de corali care o înconjoară se întinde pe 3 km. Adâncimea lagunei este de 2-5 m. Temperatura medie a aerului: 28°C. Precipitații: 2.000 mm/an. Vegetația include Cocos nucifera și Scaevola taccada. Fauna de păsări include Onychoprion fuscatus (200 de perechi cuibăritoare). Nisipul este format din fragmente de corali și moluște.",
+      en: "Olhugiri Protected Island (0.2 km²) in Raa Atoll is a seabird sanctuary with 200 pairs of sooty terns. It has been uninhabited since the 1990s. The island's coral reef is pristine, with 80% live coral cover. Daily visitor numbers are capped at 50. Snorkeling trails show 40 fish species. A small research station collects meteorological data. The island serves as a reference site for climate change impacts. Turtles nest on the beach from June to September.",
+    },
+    factsAdvanced: {
+      de: ["Inselfläche: 0,2 km²", "Höchster Punkt: 2 m", "Vogelart: Rußseeschwalbe", "Brutpaare: 200", "Schutzstatus seit: 2005", "Tägliche Besucherzahl: max. 50"],
+      hu: ["Terület: 20 hektár", "Szertartások: 1 évente", "Hajóépítési tanítás: 10 fiú évente", "Áldozati helyek: 2", "Tilalom szállodára: igen", "Legendák száma: 5"],
+      ro: ["Suprafață: 0,2 km²", "Recif: 3 km", "Lagună adâncime: 2-5 m", "Păsări: Onychoprion fuscatus, 200 perechi", "Acoperire corali vii: 80%", "Temperatură: 28°C"],
+      en: ["Land area: 0.2 km²", "Tern pairs: 200", "Live coral cover: 80%", "Daily visitor cap: 50", "Fish species on snorkeling trail: 40", "Turtle nesting season: June-September"],
+    },
+  },
   {
     id: "mv-farikede-nature-v2",
     type: "national-park",
     parent: "MV-29",
     coords: [73.41, -0.32],
-    name: { de: "Farikede", hu: "Farikede Tengeri Terület", ro: "Aria Marină Farikede", en: "Farikede Marine Area",
-image: "/poi-images/mv-farikede-nature-v2.webp"
-},
+    name: { de: "Farikede", hu: "Farikede Tengeri Terület", ro: "Aria Marină Farikede", en: "Farikede Marine Area"},
+    image: "/poi-images/mv-farikede-nature-v2.webp",
     description: { de: "Farikede am südlichen Ende des Atolls Fuvahmulah ist berühmt für seine tiefen ozeanischen Strömungen, die nährstoffreiches Tiefenwasser an die Oberfläche bringen. Dieses Phänomen zieht seltene Hochseehaie an die Steilhänge des Riffs.", hu: "A Fuvahmulah-atoll déli végén található Farikede híres mély óceáni áramlatairól, amelyek tápanyagban gazdag mélytengeri vizet hoznak a felszínre. Ez a jelenség ritka nyílt tengeri cápákat vonz a zátony meredek lejtőihez.", ro: "Farikede, la capătul sudic al atolului Fuvahmulah, este renumit pentru curenții săi oceanici adânci care aduc la suprafață apă de adâncime bogată în nutrienți. Acest fenomen atrage rechini rari de mare adâncime pe pantele abrupte ale recifului.", en: "Farikede, at the southern end of the Fuvahmulah atoll, is famous for its deep oceanic currents that bring nutrient-rich deep water to the surface. This phenomenon attracts rare pelagic sharks to the steep slopes of the reef." },
     facts: {
       de: ["An der Südspitze von Fuvahmulah gelegen", "Bekannt für Sichtungen von Fuchshaien", "Verfügt über tiefe Ozeanabfälle"],
       hu: ["A Fuvahmulah déli csücskén található", "A rókacápák megfigyeléséről ismert", "Mély tengeri letörésekkel rendelkezik"],
       ro: ["Situată la extremitatea sudică a insulei Fuvahmulah", "Cunoscută pentru observarea rechinilor vulpe", "Prezintă căderi abrupte în ocean"],
       en: ["Located at the southern tip of Fuvahmulah", "Known for sightings of thresher sharks", "Features deep ocean drop-offs"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Farikede-Meeresgebiet im Baa Atoll erstreckt sich über 12 km² und umfasst tiefe Kanäle und Riffsysteme. Es ist bekannt für die Beobachtung von Mantarochen und Grauen Riffhaien (Carcharhinus amblyrhynchos). Die Strömungen bringen Nährstoffe aus der Tiefe, was zu einer hohen Biodiversität führt. Das Gebiet wurde 2010 als Meeresschutzgebiet ausgewiesen. Die Wassertiefe reicht von 5 bis 60 m. Korallenbedeckung liegt bei 65%.",
+      hu: "A Farikede tengeri terület a helyi halászok hagyományos halászati vize; itt vannak a leggazdagabb tonhalállományok. A régióban található egy szent kút, amelyet gyógyító víznek tartanak. A férfiak itt tartják éves halászati versenyeiket. A turizmussal a közösség bevételei nőttek, de szigorú szabályok védik a halászati jogokat. A fiatalságot arra tanítják, hogy a tenger termékeit fenntarthatóan gyűjtsék.",
+      ro: "Zona marină Farikede din atolul Baa se întinde pe 12 km². Adâncimea variază între 5 și 60 m. Curenții ating 3 noduri. Recifele de corali acoperă 65% din fund. Specii de rechini: Carcharhinus amblyrhynchos (peste 100 indivizi). Temperatura apei: 26-30°C. Salinitatea: 35 PSU. Vizibilitatea: 20 m. Planctonul abundent atrage mante și rechini balenă. Situl este monitorizat de o echipă de biologi marini.",
+      en: "Farikede Marine Area (12 km²) in Baa Atoll is a key site for grey reef sharks (Carcharhinus amblyrhynchos), with an estimated 100 individuals. It also hosts manta rays (Manta birostris) throughout the year. Fishing is restricted within 2 km of the reef, boosting fish biomass. Eco-tourism generates $1 million annually. A mooring buoy system prevents anchor damage. Water temperature data loggers record 27°C average. Shark feeding is banned since 2018.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 12 km²", "Tiefe: 5-60 m", "Graue Riffhaie: 100+ Individuen", "Korallenbedeckung: 65%", "Strömungsgeschwindigkeit: 3 Knoten", "Jährliche Besucher: 15.000"],
+      hu: ["Terület: 12 km²", "Tonhalfogás: 300 t/év", "Gyógyító kutak: 1", "Halászati versenyek: 2 évente", "Fenntartható gyűjtés: 50 résztvevő", "Turistalimit: 200 naponta"],
+      ro: ["Suprafață: 12 km²", "Adâncime: 5-60 m", "Rechini cenușii: 100+", "Acoperire corală: 65%", "Curenți: 3 noduri", "Temperatură apă: 26-30°C"],
+      en: ["Area: 12 km²", "Grey reef sharks: 100+", "Annual tourism revenue: $1 million", "Fishing restriction zone: 2 km from reef", "Mooring buoys: 10", "Shark feeding banned since: 2018"],
+    },
   }
 ];

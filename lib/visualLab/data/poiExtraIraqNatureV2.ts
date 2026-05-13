@@ -6,9 +6,8 @@ export const poiExtraIraqNatureV2: POI[] = [
     type: "river",
     parent: "IQ-BG",
     coords: [44.3986, 33.3250],
-    name: { de: "Tigris", hu: "Tigris", ro: "Tigru", en: "Tigris",
-image: "/poi-images/tigris-nature-v2.webp"
-},
+    name: { de: "Tigris", hu: "Tigris", ro: "Tigru", en: "Tigris"},
+    image: "/poi-images/tigris-nature-v2.webp",
     description: { de: "Der Tigris ist einer der beiden großen Ströme Mesopotamiens, der durch das Zentrum des Irak fließt.", hu: "A Tigris Mezopotámia két nagy folyójának egyike, amely átszeli Irak központi részét.", ro: "Tigrul este unul dintre cele două mari fluvii ale Mesopotamiei, curgând prin centrul Irakului.", en: "The Tigris is one of the two great rivers of Mesopotamia, flowing through the center of Iraq." },
     facts: {
       de: ["Länge: ca. 1.900 km.", "Fließt durch Bagdad.", "Mündet in den Schatt al-Arab."],
@@ -33,9 +32,8 @@ image: "/poi-images/tigris-nature-v2.webp"
     type: "river",
     parent: "IQ-AN",
     coords: [43.2500, 32.5500],
-    name: { de: "Euphrat", hu: "Eufrátesz", ro: "Eufrat", en: "Euphrates",
-image: "/poi-images/euphrates-nature-v2.webp"
-},
+    name: { de: "Euphrat", hu: "Eufrátesz", ro: "Eufrat", en: "Euphrates"},
+    image: "/poi-images/euphrates-nature-v2.webp",
     description: { de: "Der Euphrat ist der längste und historisch bedeutendste Fluss im Nahen Osten, der den Irak prägt.", hu: "Az Eufrátesz a Közel-Kelet leghosszabb és történelmileg legjelentősebb folyója, amely meghatározza Irak arculatát.", ro: "Eufratul este cel mai lung și cel mai important fluviu istoric din Orientul Mijlociu, modelând peisajul Irakului.", en: "The Euphrates is the longest and most historically significant river in the Middle East, shaping the landscape of Iraq." },
     facts: {
       de: ["Länge: 2.800 km.", "Bildet mit dem Tigris Mesopotamien.", "Wichtige Lebensader der Region."],
@@ -60,9 +58,8 @@ image: "/poi-images/euphrates-nature-v2.webp"
     type: "mountain",
     parent: "IQ-ER",
     coords: [44.9167, 36.5750],
-    name: { de: "Halgurd", hu: "Halgurd", ro: "Halgurd", en: "Halgurd",
-image: "/poi-images/halgurd-nature-v2.webp"
-},
+    name: { de: "Halgurd", hu: "Halgurd", ro: "Halgurd", en: "Halgurd"},
+    image: "/poi-images/halgurd-nature-v2.webp",
     description: { de: "Der Halgurd ist der höchste vollständig im Irak liegende Berg, gelegen in den Zagros-Bergen im irakischen Kurdistan.", hu: "A Halgurd a legmagasabb, teljes egészében Irak területén található hegy, amely az iraki Kurdisztán Zagrosz-hegységében fekszik.", ro: "Halgurd este cel mai înalt munte situat în întregime în Irak, aflat în Munții Zagros din Kurdistanul irakian.", en: "Halgurd is the highest mountain located entirely within Iraq, situated in the Zagros Mountains in Iraqi Kurdistan." },
     facts: {
       de: ["Höhe: 3.607 Meter.", "Teil des Zagros-Gebirges.", "Beliebtes Ziel für Bergsteiger."],
@@ -87,9 +84,8 @@ image: "/poi-images/halgurd-nature-v2.webp"
     type: "mountain",
     parent: "IQ-ER",
     coords: [44.9192, 36.7725],
-    name: { de: "Cheekha Dar", hu: "Cheekha Dar", ro: "Cheekha Dar", en: "Cheekha Dar",
-image: "/poi-images/cheekha-dar-nature-v2.webp"
-},
+    name: { de: "Cheekha Dar", hu: "Cheekha Dar", ro: "Cheekha Dar", en: "Cheekha Dar"},
+    image: "/poi-images/cheekha-dar-nature-v2.webp",
     description: { de: "Cheekha Dar ist der höchste Punkt im Irak und liegt genau an der Grenze zum Iran.", hu: "A Cheekha Dar Irak legmagasabb pontja, amely pontosan az iráni határon fekszik.", ro: "Cheekha Dar este cel mai înalt punct din Irak, situat chiar la granița cu Iranul.", en: "Cheekha Dar is the highest point in Iraq, located exactly on the border with Iran." },
     facts: {
       de: ["Höhe: 3.611 Meter.", "Name bedeutet \"Schwarzes Zelt\".", "Grenzt an den Iran."],
@@ -114,9 +110,8 @@ image: "/poi-images/cheekha-dar-nature-v2.webp"
     type: "lake",
     parent: "IQ-SD",
     coords: [43.2667, 33.9667],
-    name: { de: "Tharthar-See", hu: "Tartar-tó", ro: "Lacul Tharthar", en: "Lake Tharthar",
-image: "/poi-images/lake-tharthar-nature-v2.webp"
-},
+    name: { de: "Tharthar-See", hu: "Tartar-tó", ro: "Lacul Tharthar", en: "Lake Tharthar"},
+    image: "/poi-images/lake-tharthar-nature-v2.webp",
     description: { de: "Der Tharthar-See ist der flächenmäßig größte See im Irak und dient als wichtiges Wasserreservoir.", hu: "A Tartar-tó Irak legnagyobb területű tava, amely fontos víztározóként szolgál.", ro: "Lacul Tharthar este cel mai mare lac ca suprafață din Irak și servește ca un rezervor important de apă.", en: "Lake Tharthar is the largest lake by area in Iraq and serves as an important water reservoir." },
     facts: {
       de: ["Fläche: ca. 2.710 km².", "Künstlich erweitert.", "Liegt zwischen Tigris und Euphrat."],
@@ -141,9 +136,8 @@ image: "/poi-images/lake-tharthar-nature-v2.webp"
     type: "lake",
     parent: "IQ-AN",
     coords: [43.4833, 33.2833],
-    name: { de: "Habbaniyya-See", hu: "Habbanija-tó", ro: "Lacul Habbaniyah", en: "Lake Habbaniyah",
-image: "/poi-images/lake-habbaniyah-nature-v2.webp"
-},
+    name: { de: "Habbaniyya-See", hu: "Habbanija-tó", ro: "Lacul Habbaniyah", en: "Lake Habbaniyah"},
+    image: "/poi-images/lake-habbaniyah-nature-v2.webp",
     description: { de: "Der Habbaniyya-See ist ein flacher See in der Wüste der Provinz Al-Anbar, der zur Hochwasserkontrolle des Euphrats genutzt wird.", hu: "A Habbanija-tó egy sekély tó Al-Anbár tartomány sivatagában, amelyet az Eufrátesz árvízvédelmére használnak.", ro: "Lacul Habbaniyah este un lac puțin adânc în deșertul provinciei Al-Anbar, folosit pentru controlul inundațiilor pe râul Eufrat.", en: "Lake Habbaniyah is a shallow lake in the desert of Al-Anbar province, used for flood control of the Euphrates River." },
     facts: {
       de: ["Dient der Wasserspeicherung.", "Beliebtes Naherholungsgebiet.", "Durch Kanäle mit dem Euphrat verbunden."],
@@ -168,9 +162,8 @@ image: "/poi-images/lake-habbaniyah-nature-v2.webp"
     type: "lake",
     parent: "IQ-KA",
     coords: [43.6500, 32.6833],
-    name: { de: "Razzaza-See", hu: "Razzáza-tó", ro: "Lacul Razzaza", en: "Lake Razzaza",
-image: "/poi-images/lake-razzaza-nature-v2.webp"
-},
+    name: { de: "Razzaza-See", hu: "Razzáza-tó", ro: "Lacul Razzaza", en: "Lake Razzaza"},
+    image: "/poi-images/lake-razzaza-nature-v2.webp",
     description: { de: "Der Razzaza-See, auch bekannt als Bahr al-Milh (Salzmeer), ist der zweitgrößte See des Landes.", hu: "A Razzáza-tó, más néven Bahr al-Milh (Sós-tenger), az ország második legnagyobb tava.", ro: "Lacul Razzaza, cunoscut și sub numele de Bahr al-Milh (Marea de Sare), este al doilea lac ca mărime din țară.", en: "Lake Razzaza, also known as Bahr al-Milh (Sea of Salt), is the second largest lake in the country." },
     facts: {
       de: ["Sehr hoher Salzgehalt.", "Wichtiger Lebensraum für Zugvögel.", "Die Wasserfläche schwankt stark."],
@@ -195,9 +188,8 @@ image: "/poi-images/lake-razzaza-nature-v2.webp"
     type: "national-park",
     parent: "IQ-MA",
     coords: [47.6500, 31.5000],
-    name: { de: "Hawizeh-Marschen", hu: "Hawizeh-mocsarak", ro: "Mlaștinile Hawizeh", en: "Hawizeh Marshes",
-image: "/poi-images/hawizeh-marshes-nature-v2.webp"
-},
+    name: { de: "Hawizeh-Marschen", hu: "Hawizeh-mocsarak", ro: "Mlaștinile Hawizeh", en: "Hawizeh Marshes"},
+    image: "/poi-images/hawizeh-marshes-nature-v2.webp",
     description: { de: "Die Hawizeh-Marschen sind ein riesiges Feuchtgebiet im Südirak an der Grenze zum Iran, das eine einzigartige Artenvielfalt beherbergt.", hu: "A Hawizeh-mocsarak egy hatalmas vizes élőhely Dél-Irakban, az iráni határon, amely egyedülálló biológiai sokféleségnek ad otthont.", ro: "Mlaștinile Hawizeh sunt o zonă umedă imensă în sudul Irakului, la granița cu Iranul, adăpostind o biodiversitate unică.", en: "The Hawizeh Marshes are a vast wetland in southern Iraq on the border with Iran, hosting a unique biodiversity." },
     facts: {
       de: ["Teil des Ahwar-Weltnaturerbes.", "Von großen Trockenlegungen weitgehend verschont.", "Heimat seltener Vogelarten."],
@@ -222,9 +214,8 @@ image: "/poi-images/hawizeh-marshes-nature-v2.webp"
     type: "national-park",
     parent: "IQ-DQ",
     coords: [46.9000, 30.8000],
-    name: { de: "Hammar-Marschen", hu: "Hammar-mocsarak", ro: "Mlaștinile Hammar", en: "Hammar Marshes",
-image: "/poi-images/hammar-marshes-nature-v2.webp"
-},
+    name: { de: "Hammar-Marschen", hu: "Hammar-mocsarak", ro: "Mlaștinile Hammar", en: "Hammar Marshes"},
+    image: "/poi-images/hammar-marshes-nature-v2.webp",
     description: { de: "Die Hammar-Marschen bilden den südlichen Teil des mesopotamischen Marschlandes südlich des Euphrats.", hu: "A Hammar-mocsarak alkotják a mezopotámiai mocsárvidék déli részét, az Eufrátesztől délre.", ro: "Mlaștinile Hammar formează partea sudică a mlaștinilor mesopotamiene, la sud de Eufrat.", en: "The Hammar Marshes form the southern part of the Mesopotamian marshlands south of the Euphrates." },
     facts: {
       de: ["Der Hammar-See ist der größte Wasserkörper.", "Heimat der Marsch-Araber.", "UNESCO-Weltkulturerbe."],
@@ -249,9 +240,8 @@ image: "/poi-images/hammar-marshes-nature-v2.webp"
     type: "national-park",
     parent: "IQ-DQ",
     coords: [47.0333, 31.1000],
-    name: { de: "Zentralmarschen", hu: "Központi-mocsarak", ro: "Mlaștinile Centrale", en: "Central Marshes",
-image: "/poi-images/central-marshes-nature-v2.webp"
-},
+    name: { de: "Zentralmarschen", hu: "Központi-mocsarak", ro: "Mlaștinile Centrale", en: "Central Marshes"},
+    image: "/poi-images/central-marshes-nature-v2.webp",
     description: { de: "Die Zentralmarschen liegen im Herzen des Südiraks zwischen dem Tigris und dem Euphrat und sind ein bedeutendes Ökosystem.", hu: "A Központi-mocsarak Dél-Irak szívében, a Tigris és az Eufrátesz között találhatók, és jelentős ökoszisztémát alkotnak.", ro: "Mlaștinile Centrale sunt situate în inima sudului Irakului, între Tigru și Eufrat, reprezentând un ecosistem important.", en: "The Central Marshes are located in the heart of southern Iraq between the Tigris and Euphrates, and are a significant ecosystem." },
     facts: {
       de: ["Auch Qurna-Marschen genannt.", "Wurden in den 1990er Jahren fast zerstört.", "Werden seit 2003 erfolgreich renaturiert."],
@@ -276,9 +266,8 @@ image: "/poi-images/central-marshes-nature-v2.webp"
     type: "lake",
     parent: "IQ-SU",
     coords: [44.9500, 35.9500],
-    name: { de: "Dukan-See", hu: "Dukan-tó", ro: "Lacul Dukan", en: "Lake Dukan",
-image: "/poi-images/dukan-lake-nature-v2.webp"
-},
+    name: { de: "Dukan-See", hu: "Dukan-tó", ro: "Lacul Dukan", en: "Lake Dukan"},
+    image: "/poi-images/dukan-lake-nature-v2.webp",
     description: { de: "Der Dukan-See ist der größte See im irakischen Kurdistan und wird durch einen Staudamm am Kleinen Zab gebildet.", hu: "A Dukan-tó az iraki Kurdisztán legnagyobb tava, amelyet a Kis-Záb folyón épített gát hoz létre.", ro: "Lacul Dukan este cel mai mare lac din Kurdistanul irakian, format de un baraj pe Micul Zab.", en: "Lake Dukan is the largest lake in Iraqi Kurdistan, formed by a dam on the Little Zab River." },
     facts: {
       de: ["Staudamm erbaut zwischen 1954 und 1959.", "Wichtig für die Stromerzeugung.", "Fläche: ca. 270 km²."],
@@ -303,9 +292,8 @@ image: "/poi-images/dukan-lake-nature-v2.webp"
     type: "lake",
     parent: "IQ-SU",
     coords: [45.7167, 35.1167],
-    name: { de: "Darbandichan-See", hu: "Derbendihán-tó", ro: "Lacul Darbandikhan", en: "Lake Darbandikhan",
-image: "/poi-images/darbandikhan-lake-nature-v2.webp"
-},
+    name: { de: "Darbandichan-See", hu: "Derbendihán-tó", ro: "Lacul Darbandikhan", en: "Lake Darbandikhan"},
+    image: "/poi-images/darbandikhan-lake-nature-v2.webp",
     description: { de: "Der Darbandichan-See ist ein wunderschöner Stausee am Fluss Diyala in der Provinz Sulaimaniyya.", hu: "A Derbendihán-tó egy gyönyörű víztározó a Dijala folyón, Szulejmánijja tartományban.", ro: "Lacul Darbandikhan este un frumos lac de acumulare pe râul Diyala, în provincia Sulaymaniyah.", en: "Lake Darbandikhan is a beautiful reservoir on the Diyala River in the Sulaymaniyah Province." },
     facts: {
       de: ["Dient der Bewässerung und Stromerzeugung.", "Beliebt bei Touristen.", "Staudamm wurde 1961 fertiggestellt."],
@@ -331,9 +319,8 @@ image: "/poi-images/darbandikhan-lake-nature-v2.webp"
     type: "lake",
     parent: "IQ-MU",
     coords: [45.0000, 31.3167],
-    name: { de: "Sawa-See", hu: "Száva-tó", ro: "Lacul Sawa", en: "Sawa Lake",
-image: "/poi-images/sawa-lake-nature-v2.webp"
-},
+    name: { de: "Sawa-See", hu: "Száva-tó", ro: "Lacul Sawa", en: "Sawa Lake"},
+    image: "/poi-images/sawa-lake-nature-v2.webp",
     description: { de: "Der Sawa-See war ein endorheisches Becken in der Provinz al-Muthanna, bekannt für seinen hohen Salzgehalt und seine Kalksteinformationen.", hu: "A Száva-tó egy lefolyástalan medence volt al-Muthanna tartományban, amely magas sótartalmáról és mészkőképződményeiről ismert.", ro: "Lacul Sawa era un bazin endoreic în provincia al-Muthanna, cunoscut pentru salinitatea sa ridicată și formațiunile de calcar.", en: "Sawa Lake was an endorheic basin in the al-Muthanna governorate, known for its high salinity and limestone formations." },
     facts: {
       de: ["Er trocknete 2022 vollständig aus.", "Hatte keine oberirdischen Zuflüsse.", "Von Kalksteinmauern umgeben."],
@@ -358,9 +345,8 @@ image: "/poi-images/sawa-lake-nature-v2.webp"
     type: "lake",
     parent: "IQ-NI",
     coords: [42.8167, 36.6333],
-    name: { de: "Mosul-Stausee", hu: "Moszuli-víztározó", ro: "Lacul Mosul", en: "Mosul Dam Lake",
-image: "/poi-images/mosul-dam-lake-nature-v2.webp"
-},
+    name: { de: "Mosul-Stausee", hu: "Moszuli-víztározó", ro: "Lacul Mosul", en: "Mosul Dam Lake"},
+    image: "/poi-images/mosul-dam-lake-nature-v2.webp",
     description: { de: "Der Mosul-Stausee am Tigris ist der größte Stausee im Irak und liefert wichtiges Wasser für die Landwirtschaft.", hu: "A Tigrisen található Moszuli-víztározó Irak legnagyobb víztározója, és fontos vizet biztosít a mezőgazdaság számára.", ro: "Lacul Mosul de pe Tigru este cel mai mare lac de acumulare din Irak și furnizează apă importantă pentru agricultură.", en: "The Mosul Dam Lake on the Tigris is the largest reservoir in Iraq and provides essential water for agriculture." },
     facts: {
       de: ["Entstanden durch den Bau der Mosul-Talsperre.", "Größter Damm des Iraks.", "Wichtige Energiequelle."],
@@ -385,9 +371,8 @@ image: "/poi-images/mosul-dam-lake-nature-v2.webp"
     type: "mountain",
     parent: "IQ-ER",
     coords: [44.9667, 36.5667],
-    name: { de: "Kandil-Berge", hu: "Kandil-hegység", ro: "Munții Qandil", en: "Qandil Mountains",
-image: "/poi-images/qandil-mountains-nature-v2.webp"
-},
+    name: { de: "Kandil-Berge", hu: "Kandil-hegység", ro: "Munții Qandil", en: "Qandil Mountains"},
+    image: "/poi-images/qandil-mountains-nature-v2.webp",
     description: { de: "Die Kandil-Berge sind eine unwegsame Bergregion im Norden des Iraks nahe der Grenze zur Türkei und zum Iran.", hu: "A Kandil-hegység egy nehezen járható hegyvidéki régió Észak-Irakban, a török és iráni határ közelében.", ro: "Munții Qandil sunt o regiune montană greu accesibilă în nordul Irakului, aproape de granița cu Turcia și Iran.", en: "The Qandil Mountains are a rugged mountainous region in northern Iraq near the borders with Turkey and Iran." },
     facts: {
       de: ["Teil des Zagros-Gebirges.", "Höchste Gipfel über 3.000 Meter.", "Schwer zugängliches Gelände."],
@@ -412,9 +397,8 @@ image: "/poi-images/qandil-mountains-nature-v2.webp"
     type: "mountain",
     parent: "IQ-NI",
     coords: [41.8000, 36.3500],
-    name: { de: "Dschabal Sindschar", hu: "Szindzsár-hegység", ro: "Munții Sinjar", en: "Sinjar Mountains",
-image: "/poi-images/sinjar-mountains-nature-v2.webp"
-},
+    name: { de: "Dschabal Sindschar", hu: "Szindzsár-hegység", ro: "Munții Sinjar", en: "Sinjar Mountains"},
+    image: "/poi-images/sinjar-mountains-nature-v2.webp",
     description: { de: "Der Dschabal Sindschar ist ein rund 100 km langer Gebirgszug im Nordwesten des Irak, der das Kernland der Jesiden bildet.", hu: "A Szindzsár-hegység egy mintegy 100 km hosszú hegylánc Irak északnyugati részén, amely a jeziditák központja.", ro: "Munții Sinjar reprezintă un lanț muntos de aproximativ 100 km în nord-vestul Irakului, fiind inima comunității yazidi.", en: "The Sinjar Mountains are an approximately 100 km long mountain range in northwestern Iraq, forming the heartland of the Yazidis." },
     facts: {
       de: ["Höchster Punkt: 1.463 Meter.", "Heiliges Gebiet der Jesiden.", "Nahe der syrischen Grenze."],
@@ -439,9 +423,8 @@ image: "/poi-images/sinjar-mountains-nature-v2.webp"
     type: "river",
     parent: "IQ-DI",
     coords: [44.5167, 33.2167],
-    name: { de: "Diyala", hu: "Dijala", ro: "Râul Diyala", en: "Diyala River",
-image: "/poi-images/diyala-river-nature-v2.webp"
-},
+    name: { de: "Diyala", hu: "Dijala", ro: "Râul Diyala", en: "Diyala River"},
+    image: "/poi-images/diyala-river-nature-v2.webp",
     description: { de: "Der Diyala ist ein wichtiger Nebenfluss des Tigris, der im Iran entspringt und östlich von Bagdad mündet.", hu: "A Dijala a Tigris egyik fontos mellékfolyója, amely Iránban ered, és Bagdadtól keletre torkollik a folyóba.", ro: "Diyala este un important afluent al Tigrului, care izvorăște în Iran și se varsă la est de Bagdad.", en: "The Diyala is a major tributary of the Tigris, originating in Iran and emptying east of Baghdad." },
     facts: {
       de: ["Länge: ca. 445 km.", "Bildet streckenweise die Grenze zum Iran.", "Gespeist durch den Derbendichan-Staudamm."],
@@ -466,9 +449,8 @@ image: "/poi-images/diyala-river-nature-v2.webp"
     type: "river",
     parent: "IQ-ER",
     coords: [43.3500, 36.0000],
-    name: { de: "Großer Zab", hu: "Nagy-Záb", ro: "Marele Zab", en: "Great Zab",
-image: "/poi-images/great-zab-nature-v2.webp"
-},
+    name: { de: "Großer Zab", hu: "Nagy-Záb", ro: "Marele Zab", en: "Great Zab"},
+    image: "/poi-images/great-zab-nature-v2.webp",
     description: { de: "Der Große Zab ist ein Nebenfluss des Tigris im Nordirak und bringt große Mengen Schmelzwasser aus den Bergen.", hu: "A Nagy-Záb a Tigris mellékfolyója Észak-Irakban, amely nagy mennyiségű olvadékvizet hoz a hegyekből.", ro: "Marele Zab este un afluent al Tigrului din nordul Irakului, aducând cantități mari de apă de topire din munți.", en: "The Great Zab is a tributary of the Tigris in northern Iraq, bringing large amounts of meltwater from the mountains." },
     facts: {
       de: ["Länge: ca. 400 km.", "Entspringt in der Türkei.", "Wichtigster Zufluss des Tigris."],
@@ -493,9 +475,8 @@ image: "/poi-images/great-zab-nature-v2.webp"
     type: "river",
     parent: "IQ-BA",
     coords: [47.7833, 30.5000],
-    name: { de: "Schatt al-Arab", hu: "Satt el-Arab", ro: "Shatt al-Arab", en: "Shatt al-Arab",
-image: "/poi-images/shatt-al-arab-nature-v2.webp"
-},
+    name: { de: "Schatt al-Arab", hu: "Satt el-Arab", ro: "Shatt al-Arab", en: "Shatt al-Arab"},
+    image: "/poi-images/shatt-al-arab-nature-v2.webp",
     description: { de: "Der Schatt al-Arab entsteht durch den Zusammenfluss von Euphrat und Tigris und fließt bei Basra in den Persischen Golf.", hu: "A Satt el-Arab az Eufrátesz és a Tigris összefolyásából keletkezik, és Bászránál ömlik a Perzsa-öbölbe.", ro: "Shatt al-Arab se formează prin confluența Eufratului cu Tigrul și se varsă în Golful Persic lângă Basra.", en: "The Shatt al-Arab is formed by the confluence of the Euphrates and Tigris, flowing into the Persian Gulf near Basra." },
     facts: {
       de: ["Länge: ca. 200 km.", "Grenzfluss zum Iran.", "Wichtigster Wasserweg des Landes."],
@@ -520,9 +501,8 @@ image: "/poi-images/shatt-al-arab-nature-v2.webp"
     type: "forest",
     parent: "IQ-DA",
     coords: [43.1500, 36.9000],
-    name: { de: "Zawita-Wald", hu: "Závita-erdő", ro: "Pădurea Zawita", en: "Zawita Forest",
-image: "/poi-images/zawita-forest-nature-v2.webp"
-},
+    name: { de: "Zawita-Wald", hu: "Závita-erdő", ro: "Pădurea Zawita", en: "Zawita Forest"},
+    image: "/poi-images/zawita-forest-nature-v2.webp",
     description: { de: "Der Zawita-Wald in der Provinz Dohuk ist ein dicht bewaldetes Erholungsgebiet, das für seine Kiefern bekannt ist.", hu: "A Dohuk tartományban található Závita-erdő egy sűrűn fásított pihenőhely, amely fenyőiről ismert.", ro: "Pădurea Zawita din provincia Dohuk este o zonă de recreere dens împădurită, renumită pentru pinii săi.", en: "The Zawita Forest in the Dohuk province is a densely forested recreation area, famous for its pine trees." },
     facts: {
       de: ["Reich an kalabrischen Kiefern.", "Beliebtes Touristenziel im Sommer.", "Bietet Schutz vor Wüstenklima."],

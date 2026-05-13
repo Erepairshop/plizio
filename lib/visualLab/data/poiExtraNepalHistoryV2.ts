@@ -7,7 +7,6 @@ export const poiExtraNepalHistoryV2: POI[] = [
     parent: "NP-P3",
     coords: [85.2900, 27.7149],
     name: { en: "Swayambhunath Stupa", de: "Swayambhunath-Stupa", hu: "Szvajambhunáth sztúpa", ro: "Stupa Swayambhunath",
-image: "/poi-images/np-swayambhunath-history-v2.webp"
 },
     description: {
       en: "An ancient religious complex atop a hill in the Kathmandu Valley, often called the Monkey Temple.",
@@ -27,14 +26,14 @@ image: "/poi-images/np-swayambhunath-history-v2.webp"
       ro: "Stupa Swayambhunath, situată pe un deal la vest de Valea Kathmandu, este unul dintre cele mai sacre sanctuare budiste din Nepal, datând din secolul al V-lea. Legenda spune că dealul a apărut dintr-o floare de lotus care a crescut dintr-un lac preistoric. Complexul, un sit al Patrimoniului Mondial UNESCO, este format dintr-o stupă mare, văruită în alb, încoronată de o turlă aurită pe care sunt pictați ochii atotvăzători ai lui Buddha, orientați spre cele patru puncte cardinale. Numeroase temple mai mici, altare și statui înconjoară stupa principală, la fel ca și un număr mare de maimuțe, care i-au adus locului porecla de „Templul Maimuțelor”. Situl este un creuzet al budismului și hinduismului, unde pelerinii ambelor religii se roagă. Urcarea celor 365 de trepte de piatră de pe partea de est este o parte importantă a pelerinajului și oferă o vedere panoramică asupra orașului Kathmandu.",
       en: "The Swayambhunath Stupa, perched atop a hill to the west of the Kathmandu Valley, is one of Nepal's most sacred Buddhist shrines, with its origins dating back to the 5th century. According to legend, the hill itself emerged from a lotus flower that bloomed from a primordial lake. The complex, a UNESCO World Heritage Site, consists of a large, white-domed stupa crowned by a gilded spire, which has the all-seeing eyes of Buddha painted on its four sides, looking out in the cardinal directions. Numerous smaller temples, shrines, and statues surround the main stupa, as does a large population of monkeys, which have earned the site the nickname 'Monkey Temple'. The site is a melting pot of Buddhism and Hinduism, where pilgrims of both faiths come to worship. Climbing the 365 stone steps on the eastern side is a key part of the pilgrimage and offers panoramic views of Kathmandu city."
     },
-    factsAdvanced: { multi4: ["Létezése a Licchavi-dinasztia idejére, az 5. századra tehető.", "A legenda szerint a Katmandu-völgy egykor tó volt, és a sztúpa egy lótuszvirágból emelkedett ki.", "A 365 lépcső a keleti oldalon a zarándokút része.", "A 'Majom-templom' becenevet a területen élő szent majmokról kapta.", "1979-ben lett az UNESCO Világörökség része.", "A sztúpa tetején lévő 13 aranyozott gyűrű a megvilágosodáshoz vezető 13 lépcsőfokot szimbolizálja.", "A komplexumban hindu isteneknek szentelt szentélyek is találhatók, mint például a Harati Devi templom.", "A 2015-ös földrengés során a komplexum néhány épülete megsérült, de a fő sztúpa sértetlen maradt."] }, image: "/poi-images/np-swayambhunath-history-v2.webp"},
+    image: "/poi-images/np-swayambhunath-history-v2.webp",
+  },
   {
     id: "np-boudhanath-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.3612, 27.7215],
     name: { en: "Boudhanath Stupa", de: "Boudhanath-Stupa", hu: "Boudhanath sztúpa", ro: "Stupa Boudhanath",
-image: "/poi-images/np-boudhanath-history-v2.webp"
 },
     description: {
       en: "One of the largest spherical stupas in Nepal, representing the mandala and serving as a center of Tibetan Buddhism.",
@@ -54,14 +53,14 @@ image: "/poi-images/np-boudhanath-history-v2.webp"
       ro: "Stupa Boudhanath, situată în inima orașului Kathmandu, este una dintre cele mai mari stupe din lume și un sanctuar central al budismului tibetan. Construită în secolul al XIV-lea după distrugerea unei stupe anterioare, este un sit al Patrimoniului Mondial UNESCO. Structura masivă a mandalei simbolizează cosmosul budist. Domul alb reprezintă pământul, în timp ce harika cubică de deasupra simbolizează cele patru elemente. Cele 13 trepte ale turlei reprezintă etapele spre iluminare. Înconjurată de o piață plină de viață, cu mănăstiri, magazine și restaurante, stupa este un centru vibrant de cult. Mii de pelerini, inclusiv mulți tibetani în exil, înconjoară zilnic stupa în sensul acelor de ceasornic, rotind roțile de rugăciune încorporate în bază. Aerul este plin de sunetul mantrelor și de mirosul de tămâie de ienupăr, creând o atmosferă profund spirituală.",
       en: "Boudhanath Stupa, located in the heart of Kathmandu, is one of the largest stupas in the world and a central sanctuary of Tibetan Buddhism. Built in the 14th century after the destruction of a previous stupa, it is a UNESCO World Heritage site. The massive mandala structure symbolizes the Buddhist cosmos. The white dome represents the earth, while the cubical harika above symbolizes the four elements. The 13 steps of the spire represent the stages to enlightenment. Surrounded by a bustling square filled with monasteries, shops, and restaurants, the stupa is a vibrant center of worship. Thousands of pilgrims, including many exiled Tibetans, circumambulate the stupa daily in a clockwise direction, spinning the prayer wheels embedded in the base. The air is filled with the sound of mantras and the smell of juniper incense, creating a deeply spiritual atmosphere."
     },
-    factsAdvanced: { multi4: ["A világ egyik legnagyobb gömb alakú sztúpája.", "A jelenlegi sztúpa a 14. században épült a mogul inváziók után.", "A legenda szerint egy özvegyasszony építtette I. Malla király engedélyével.", "Az alapja egy hatalmas, háromszintes mandalát formáz.", "A sztúpát több mint 50 tibeti kolostor (gompa) veszi körül.", "1979 óta az UNESCO Világörökség része.", "A 2015-ös földrengésben a tornya súlyosan megrongálódott, de helyreállították.", "A terület a tibeti kultúra fontos központja Nepálban."] }, image: "/poi-images/np-boudhanath-history-v2.webp"},
+    image: "/poi-images/np-boudhanath-history-v2.webp",
+  },
   {
     id: "np-pashupatinath-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.3486, 27.7104],
     name: { en: "Pashupatinath Temple", de: "Pashupatinath-Tempel", hu: "Pashupatinath-templom", ro: "Templul Pashupatinath",
-image: "/poi-images/np-pashupatinath-history-v2.webp"
 },
     description: {
       en: "A famous and sacred Hindu temple complex located on the banks of the Bagmati River.",
@@ -75,14 +74,26 @@ image: "/poi-images/np-pashupatinath-history-v2.webp"
       hu: ["Síva istennek szentelték, az 5. században épült.", "Csak hinduk léphetnek be a fő templomudvarba."],
       ro: ["Dedicat zeului Shiva, construit în secolul al V-lea.", "Doar hindușilor le este permis accesul în curtea principală a templului."]
     },
-    factsAdvanced: { multi4: ["A templomkomplexumot az 5. században alapították.", "Siva istennek, az állatok urának (Pashupati) van szentelve.", "A főtemplomba csak hinduk léphetnek be.", "A Bagmati-folyó partján található, amely a Gangesz szent mellékfolyója.", "Itt zajlanak a nyilvános hamvasztási szertartások a 'ghat'-okon.", "1979 óta a Katmandu-völgy részeként az UNESCO Világörökség része.", "A 'Maha Shivaratri' fesztivál idején zarándokok százezreit vonzza.", "A komplexum több mint 500 templomot és emlékművet foglal magában."] }, image: "/poi-images/np-pashupatinath-history-v2.webp"},
+    image: "/poi-images/np-pashupatinath-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pashupatinath-Tempel in Kathmandu ist einer der heiligsten hinduistischen Tempel, dem Gott Shiva gewidmet. Die genaue Bauzeit ist unbekannt, aber die ältesten Teile stammen aus dem 5. Jahrhundert n. Chr. Der Tempelkomplex erstreckt sich über eine Fläche von rund 264 Hektar am Ufer des Bagmati-Flusses. Die Architektur ist ein Meisterwerk der Pagoden-Stil-Bauweise mit vergoldeten Dächern und silbernen Türen. Der Haupttempel ist für Nicht-Hindus nicht zugänglich, aber die umliegenden Tempel und Ghats sind offen. Der Tempel ist von 492 kleineren Schreinen und Tempeln umgeben, die eine reiche Vielfalt an hinduistischer Kunst und Kultur repräsentieren. Pashupatinath ist auch ein bedeutendes Zentrum für spirituelle Praktiken und Pilgerreisen, das jährlich Hunderttausende von Gläubigen anzieht.",
+      hu: "A Pashupatinath-templom Nepál legszentebb hindu temploma, amely Shiva istent dicsőíti. A templom a Bagmati folyó partján fekszik, és a hinduizmus egyik legfontosabb zarándokhelye. Az éves Shivaratri fesztivál alkalmával több mint egymillió hívő látogat ide. A templom területén számos ghat (hamvasztóhely) található, ahol a hindu halotti szertartásokat végzik. A templom építészeti stílusa a nepáli pagoda hagyományokat követi, aranyozott tetőkkel és ezüst ajtókkal. A főtemplomot csak hinduk látogathatják, de a környező épületek és a folyópart mindenki számára nyitottak. A templomkomplexum számos kisebb szentélyt és bálványt is magában foglal, amelyek a hindu panteon sokszínűségét tükrözik.",
+      ro: "Templul Pashupatinath din Kathmandu este unul dintre cele mai sacre locuri hinduse, dedicat zeului Shiva. Situat pe malul râului Bagmati, templul este un centru major de pelerinaj și practici spirituale. Arhitectura sa impresionantă în stil pagodă, cu acoperișuri aurite și uși de argint, datează din secolul al V-lea, deși structura actuală a fost renovată de-a lungul secolelor. Complexul templului include 492 de altare și temple mai mici, precum și ghat-uri unde au loc ceremonii funerare. Pashupatinath este inclus în Patrimoniul Mondial UNESCO din 1979. În fiecare an, în timpul festivalului Shivaratri, aici vin peste un milion de pelerini. Templul principal este accesibil doar hindușilor, dar vizitatorii pot explora zona exterioară și malul râului.",
+      en: "Pashupatinath Temple, located on the banks of the Bagmati River in Kathmandu, is a UNESCO World Heritage Site and one of the most sacred Hindu temples dedicated to Lord Shiva. The temple complex covers 264 hectares and includes 492 smaller shrines and temples. The main temple, built in the pagoda style with gilded roofs and silver doors, dates back to the 5th century, though the current structure was reconstructed in the 17th century. The temple is a significant cremation site; the Bagmati River is considered holy, and the ghats are used for funeral pyres. The annual Shivaratri festival attracts over one million pilgrims. Non-Hindus are not allowed inside the main temple but can view from a nearby platform. The site also features a museum and numerous ascetics dwelling in the premises.",
+    },
+    factsAdvanced: {
+      de: ["Der Tempelkomplex erstreckt sich über 264 Hektar.", "Die ältesten archäologischen Funde stammen aus dem 5. Jahrhundert n. Chr.", "Es gibt 492 kleinere Schreine und Tempel innerhalb des Komplexes.", "Der Haupttempel ist 23 Meter hoch.", "Das Shivaratri-Fest zieht jährlich über 1 Million Pilger an.", "Der Bagmati-Fluss ist 480 Kilometer lang."],
+      hu: ["A templom a Bagmati folyó jobb partján fekszik, 264 hektáron.", "A főtemplom magassága 23 méter.", "A templomkomplexumban 492 kisebb szentély található.", "Az éves Shivaratri fesztiválon több mint 1 millió zarándok vesz részt.", "A templomot 1979-ben nyilvánították UNESCO világörökségi hellyé.", "A Bagmati folyó hossza 480 kilométer."],
+      ro: ["Complexul templului se întinde pe 264 de hectare.", "Altarul principal are o înălțime de 23 de metri.", "Există 492 de sanctuare și temple mai mici în incintă.", "Festivalul Shivaratri atrage anual peste 1 milion de pelerini.", "Templul este inclus în Patrimoniul Mondial UNESCO din 1979.", "Râul Bagmati are o lungime de 480 de kilometri."],
+      en: ["The temple complex covers 264 hectares.", "The main temple is 23 meters tall.", "There are 492 smaller shrines within the complex.", "The Shivaratri festival attracts over 1 million pilgrims annually.", "The site was added to the UNESCO World Heritage list in 1979.", "The Bagmati River flows for 480 kilometers."],
+    },
+  },
   {
     id: "np-kathmandu-durbar-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.3060, 27.7042],
     name: { en: "Kathmandu Durbar Square", de: "Kathmandu Durbar Square", hu: "Katmandu Durbar tér", ro: "Piața Durbar din Kathmandu",
-image: "/poi-images/np-kathmandu-durbar-history-v2.webp"
 },
     description: {
       en: "The historic plaza in front of the old royal palace of the former Kathmandu Kingdom.",
@@ -96,14 +107,26 @@ image: "/poi-images/np-kathmandu-durbar-history-v2.webp"
       hu: ["A teret látványos newari építészet veszi körül.", "A 2015-ös földrengés során súlyos károkat szenvedett."],
       ro: ["Piața este înconjurată de o arhitectură Newari spectaculoasă.", "A suferit daune grave în timpul cutremurului din 2015."]
     },
-    factsAdvanced: { multi4: ["A Malla királyok és a Shah-dinasztia királyi székhelye volt.", "A legtöbb épület a 15. és 18. század között épült.", "A 'Kumari Ghar' ad otthont az élő istennőnek, a Kumarinak.", "A Hanuman Dhoka palota a tér központi épületegyüttese.", "Itt található a Kasthamandap, egy fa pavilon, amelyről a város a nevét kapta.", "1979 óta az UNESCO Világörökség része.", "A 2015-ös földrengés súlyos károkat okozott a téren, több templom elpusztult.", "A tér ma is fontos vallási és kulturális központ."] }, image: "/poi-images/np-kathmandu-durbar-history-v2.webp"},
+    image: "/poi-images/np-kathmandu-durbar-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kathmandu Durbar Square liegt im Herzen der Altstadt von Kathmandu und ist ein UNESCO-Weltkulturerbe. Der Platz war einst das königliche Zentrum der Malla-Könige und später der Shah-Dynastie. Die Gebäude stammen hauptsächlich aus dem 16. bis 19. Jahrhundert. Der Hanuman Dhoka Palace ist der Hauptpalastkomplex, der von 16 Tempeln umgeben ist, darunter der majestätische Taleju-Tempel. Der Platz ist bekannt für seine reiche Schnitzkunst und die vielen Schreine. Das Kumari Ghar, der Wohnsitz der lebenden Göttin Kumari, befindet sich ebenfalls hier. Der Platz erlitt schwere Schäden beim Erdbeben 2015, aber viele Gebäude wurden restauriert. Heute ist er ein lebendiges Zentrum des kulturellen Lebens mit Märkten und Festen.",
+      hu: "A Kathmandu Durbar Square a főváros történelmi szíve, ahol a Malla- és Shah királyok koronázási és adminisztratív központja volt. A teret lenyűgöző pagodák, paloták és udvarházak veszik körül, amelyek a nepáli építészet csúcsát képviselik. A Hanuman Dhoka palota 10 udvarból áll, és a 16. században épült. A téren található a Taleju-templom, amely 35 méter magas, és a Basantapur-torony, amely 30 méter magas. A Kumari-házban él a kiválasztott kislány, akit istennőként imádnak. A tér 1979-ben került fel az UNESCO világörökségi listájára. Az 2015-ös földrengés súlyos károkat okozott, de a helyreállítás folyamatos.",
+      ro: "Piața Kathmandu Durbar este un sit UNESCO situat în centrul vechi al orașului Kathmandu. A fost centrul regal al regatelor Malla și Shah, cu palate și temple construite între secolele XVI și XIX. Printre construcțiile notabile se numără Palatul Hanuman Dhoka, Templul Taleju (înalt de 35 de metri) și Turnul Basantapur (30 de metri). Piața găzduiește, de asemenea, Kumari Ghar, reședința zeiței vii Kumari. Cutremurul din 2015 a deteriorat grav multe clădiri, dar eforturile de restaurare sunt în desfășurare. Piața rămâne un loc vibrant, cu piețe și festivaluri.",
+      en: "Kathmandu Durbar Square is a UNESCO World Heritage Site located in the old city of Kathmandu. It served as the royal palace complex for the Malla and Shah kings, featuring a mix of pagodas, palaces, and courtyards. The Hanuman Dhoka Palace, named after the monkey god, contains 10 courtyards and dates from the 16th century. The 35-meter Taleju Temple and the 30-meter Basantapur Tower are prominent structures. The square also houses the Kumari Ghar, home to the living goddess Kumari. The 2015 earthquake caused significant damage, but reconstruction is ongoing. The square remains a focal point for festivals like Indra Jatra and a hub for local commerce.",
+    },
+    factsAdvanced: {
+      de: ["Der Platz umfasst 16 Tempel und Paläste.", "Der Hanuman Dhoka Palast hat 10 Innenhöfe.", "Der Taleju-Tempel ist 35 Meter hoch.", "Der Basantapur-Turm ist 30 Meter hoch.", "Der Platz wurde 1979 zum UNESCO-Weltkulturerbe erklärt.", "Das Erdbeben 2015 zerstörte 131 Gebäude im Platzareal."],
+      hu: ["A téren 16 templom és palota található.", "A Hanuman Dhoka palota 10 udvarból áll.", "A Taleju-templom magassága 35 méter.", "A Basantapur-torony 30 méter magas.", "A teret 1979-ben nyilvánították UNESCO világörökségi hellyé.", "A 2015-ös földrengés 131 épületet rongált meg a téren."],
+      ro: ["Piața cuprinde 16 temple și palate.", "Palatul Hanuman Dhoka are 10 curți interioare.", "Templul Taleju are o înălțime de 35 de metri.", "Turnul Basantapur are 30 de metri înălțime.", "Situl a fost declarat UNESCO în 1979.", "Cutremurul din 2015 a avariat 131 de clădiri în piață."],
+      en: ["The square contains 16 temples and palaces.", "Hanuman Dhoka Palace has 10 courtyards.", "Taleju Temple is 35 meters tall.", "Basantapur Tower is 30 meters high.", "The site was designated a UNESCO World Heritage Site in 1979.", "The 2015 earthquake damaged 131 buildings in the square."],
+    },
+  },
   {
     id: "np-patan-durbar-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.3253, 27.6728],
     name: { en: "Patan Durbar Square", de: "Patan Durbar Square", hu: "Patan Durbar tér", ro: "Piața Durbar din Patan",
-image: "/poi-images/np-patan-durbar-history-v2.webp"
 },
     description: {
       en: "A marvel of Newa architecture, this square is the center of the ancient city of Lalitpur.",
@@ -117,14 +140,26 @@ image: "/poi-images/np-patan-durbar-history-v2.webp"
       hu: ["Híres az 1637-ben épült Krishna Mandirról.", "A teret piros téglákkal burkolták."],
       ro: ["Faimoasă pentru Krishna Mandir, construit în 1637.", "Podeaua pieței este pavată cu cărămizi roșii."]
     },
-    factsAdvanced: { multi4: ["Lalitpur (Patan) ősi Malla királyságának központja volt.", "A tér épületeinek többsége a 17. században, Siddhi Narsingh Malla uralkodása alatt épült.", "A Krishna Mandir templomot 1637-ben építették, és teljes egészében kőből készült.", "A Patan Múzeum a tér egyik legszebb, felújított palotaszárnyában található.", "A tér három fő udvarra (chowk) oszlik: Mul Chowk, Sundari Chowk és Keshav Narayan Chowk.", "1979 óta az UNESCO Világörökség része.", "A tér padlóját vörös téglák borítják, ami egyedi hangulatot kölcsönöz neki.", "A 2015-ös földrengés itt is okozott károkat, de kevésbé súlyosakat, mint Katmanduban."] }, image: "/poi-images/np-patan-durbar-history-v2.webp"},
+    image: "/poi-images/np-patan-durbar-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Patan Durbar Square liegt in Lalitpur, etwa 5 km südöstlich von Kathmandu. Er ist bekannt als einer der schönsten und kunstvollsten königlichen Plätze Nepals. Der Platz wurde im 16. und 17. Jahrhundert unter den Malla-Königen erbaut. Der Königspalast mit seinen drei Innenhöfen beherbergt das Patan Museum, das für seine Bronzesammlung bekannt ist. Der Platz ist für seine atemberaubende Newari-Architektur berühmt, insbesondere den Krishna-Tempel aus schwarzem Stein, der 1637 erbaut wurde. Andere wichtige Tempel sind der Hiranya Varna Mahavihar (Goldener Tempel) und der Bhimsen-Tempel. Der Platz ist Teil des UNESCO-Weltkulturerbes seit 1979. Trotz Schäden durch das Erdbeben 2015 bleibt er ein pulsierendes kulturelles Zentrum.",
+      hu: "A Patan Durbar Square Lalitpur városában található, és a nepáli művészet és építészet egyik legkiválóbb példája. A tér a Malla-dinasztia idején, a 16–17. században épült. A három udvarból álló királyi palota ad otthont a Patan Múzeumnak, ahol értékes bronzszobrok és faragványok találhatók. A tér ikonikus épülete a Krishno-templom, amely teljes egészében fekete kőből készült, és 1637-ben épült. A Hiranya Varna Mahavihar (Aranytemplom) híres aranyozott homlokzatáról. A Bhimsen-templom 40 méter magas. A teret 1979-ben vették fel az UNESCO világörökségi listájára. A 2015-ös földrengés jelentős károkat okozott, de a felújítás folyamatos.",
+      ro: "Piața Patan Durbar, situată în Lalitpur, este renumită pentru arhitectura sa Newari rafinată. Construită în secolele XVI-XVII, piața include palatul regal cu trei curți interioare, care găzduiește Muzeul Patan, faimos pentru colecția sa de bronzuri. Templul Krishna, construit din piatră neagră în 1637, este un punct de reper. Alte temple includ Hiranya Varna Mahavihar (Templul de Aur) și Templul Bhimsen, înalt de 40 de metri. Situl face parte din Patrimoniul UNESCO din 1979. Cutremurul din 2015 a avariat piața, dar restaurările sunt în curs.",
+      en: "Patan Durbar Square, located in Lalitpur, is a UNESCO World Heritage Site known for its exquisite Newari architecture. Built during the Malla period (16th-17th centuries), the square features a royal palace with three courtyards, now housing the Patan Museum, which contains a renowned collection of bronze statues. The Krishna Temple, constructed of black stone in 1637, is a masterpiece. Other notable structures include the Hiranya Varna Mahavihar (Golden Temple) and the Bhimsen Temple, which stands at 40 meters. The square is a center for religious festivals and traditional crafts. Despite earthquake damage in 2015, restoration efforts preserve its cultural significance.",
+    },
+    factsAdvanced: {
+      de: ["Der Platz liegt auf einer Höhe von 1.350 Metern.", "Der Königspalast hat drei Innenhöfe.", "Der Krishna-Tempel wurde 1637 erbaut.", "Der Bhimsen-Tempel ist 40 Meter hoch.", "Das Patan Museum beherbergt über 1.500 Bronzestücke.", "Der Platz wurde 1979 zum UNESCO-Weltkulturerbe erklärt."],
+      hu: ["A tér 1350 méter tengerszint feletti magasságban fekszik.", "A királyi palota három udvarból áll.", "A Krishno-templom 1637-ben épült.", "A Bhimsen-templom 40 méter magas.", "A Patan Múzeum több mint 1500 bronz műtárgyat őriz.", "A teret 1979-ben vették fel az UNESCO világörökségi listájára."],
+      ro: ["Piața se află la o altitudine de 1.350 de metri.", "Palatul regal are trei curți interioare.", "Templul Krishna a fost construit în 1637.", "Templul Bhimsen are 40 de metri înălțime.", "Muzeul Patan deține peste 1.500 de piese din bronz.", "Situl a fost inclus în UNESCO în 1979."],
+      en: ["The square lies at an altitude of 1,350 meters.", "The royal palace has three courtyards.", "The Krishna Temple was built in 1637.", "Bhimsen Temple is 40 meters tall.", "Patan Museum holds over 1,500 bronze artifacts.", "The site was designated UNESCO in 1979."],
+    },
+  },
   {
     id: "np-bhaktapur-durbar-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.4280, 27.6722],
     name: { en: "Bhaktapur Durbar Square", de: "Bhaktapur Durbar Square", hu: "Bhaktapur Durbar tér", ro: "Piața Durbar din Bhaktapur",
-image: "/poi-images/np-bhaktapur-durbar-history-v2.webp"
 },
     description: {
       en: "The royal palace of the old Bhaktapur Kingdom, located in a city known as an open-air museum.",
@@ -138,14 +173,14 @@ image: "/poi-images/np-bhaktapur-durbar-history-v2.webp"
       hu: ["A főbb látványosságok közé tartozik az 55 Ablakos Palota.", "Az Aranykapu a dombornyomásos művészet remekműve."],
       ro: ["Atracțiile includ Palatul celor 55 de Ferestre.", "Poarta de Aur este o capodoperă a artei repousse."]
     },
-    factsAdvanced: { multi4: ["Bhaktapur, a 'hívek városa', a Malla-korszak egyik fővárosa volt.", "A tér híres az 55 Ablakos Palotáról, amelyet Jitamitra Malla király építtetett.", "Az Aranykapu (Lu Dhowka) a Taleju-templom udvarára vezet.", "A Nyatapola ötszintes pagoda Nepál legmagasabb pagodája, 1702-ben épült.", "A tér a newari fafaragás és kőfaragás remekműveinek ad otthont.", "A Fazekasok tere (Pottery Square) a hagyományos agyagművesség központja.", "1979 óta az UNESCO Világörökség része.", "A járműforgalom korlátozása miatt a tér megőrizte középkori hangulatát."] }, image: "/poi-images/np-bhaktapur-durbar-history-v2.webp"},
+    image: "/poi-images/np-bhaktapur-durbar-history-v2.webp",
+  },
   {
     id: "np-changunarayan-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.4277, 27.7163],
     name: { en: "Changu Narayan Temple", de: "Changu-Narayan-Tempel", hu: "Csangu Narájan templom", ro: "Templul Changu Narayan",
-image: "/poi-images/np-changunarayan-history-v2.webp"
 },
     description: {
       en: "Considered the oldest temple in Nepal, it stands on a high hilltop with majestic views.",
@@ -159,14 +194,14 @@ image: "/poi-images/np-changunarayan-history-v2.webp"
       hu: ["A templom a 4. századból származik.", "Itt találhatók a legkiválóbb hagyományos nepáli fafaragások."],
       ro: ["Templul datează din secolul al IV-lea.", "Prezintă unele dintre cele mai fine sculpturi în lemn tradiționale nepaleze."]
     },
-    factsAdvanced: { multi4: ["Nepál legrégebbi templomaként tartják számon, eredete a 4. századra nyúlik vissza.", "Visnu istennek van szentelve.", "A helyszínen található Nepál legrégebbi kőbe vésett felirata, amely i.sz. 464-ből származik.", "A templom a hagyományos nepáli pagoda stílusban épült.", "A templomudvar tele van a Licchavi-korszakból származó kőszobrokkal.", "Garuda, Visnu mitikus hátasállatának szobra az egyik legjelentősebb műalkotás.", "1979 óta a Katmandu-völgy részeként az UNESCO Világörökség része.", "A templom egy dombtetőn helyezkedik el, ahonnan panorámás kilátás nyílik a Himalájára."] }, image: "/poi-images/np-changunarayan-history-v2.webp"},
+    image: "/poi-images/np-changunarayan-history-v2.webp",
+  },
   {
     id: "np-lumbini-history-v2",
     type: "historical-site",
     parent: "NP-P5",
     coords: [83.2750, 27.4795],
     name: { en: "Lumbini", de: "Lumbini", hu: "Lumbini", ro: "Lumbini",
-image: "/poi-images/np-lumbini-history-v2.webp"
 },
     description: {
       en: "A Buddhist pilgrimage site where Queen Mahamayadevi gave birth to Siddhartha Gautama.",
@@ -180,14 +215,14 @@ image: "/poi-images/np-lumbini-history-v2.webp"
       hu: ["Buddha itt született i.e. 563 körül.", "Az Asóka-oszlopot Asóka császár állíttatta i.e. 249-ben."],
       ro: ["Buddha s-a născut aici în jurul anului 563 î.Hr.", "Stâlpul Ashoka a fost ridicat de Împăratul Ashoka în anul 249 î.Hr."]
     },
-    factsAdvanced: { multi4: ["Gautama Sziddhártha, a történelmi Buddha születési helye (kb. i.e. 563).", "A Májá Dévi templom jelöli a feltételezett születési helyet.", "Az Asóka-oszlopot i.e. 249-ben emelte Asóka császár, hogy megjelölje zarándoklatát.", "A Puszkarini szent tóban fürdött meg Májá Dévi a szülés előtt.", "1997-ben lett az UNESCO Világörökség része.", "A területen számos ország (pl. Kína, Thaiföld, Németország) épített saját buddhista templomot és kolostort.", "A Világbéke Pagodát japán buddhisták építették.", "A Lumbini Fejlesztési Terv célja a terület megőrzése és fejlesztése, mint a világbéke központja."] }, image: "/poi-images/np-lumbini-history-v2.webp"},
+    image: "/poi-images/np-lumbini-history-v2.webp",
+  },
   {
     id: "np-nyatapola-history-v2",
     type: "monument",
     parent: "NP-P3",
     coords: [85.4290, 27.6713],
     name: { en: "Nyatapola Temple", de: "Nyatapola-Tempel", hu: "Nyatapola templom", ro: "Templul Nyatapola",
-image: "/poi-images/np-nyatapola-history-v2.webp"
 },
     description: {
       en: "A remarkable five-tiered pagoda in Bhaktapur, representing the pinnacle of Nepali temple architecture.",
@@ -201,14 +236,14 @@ image: "/poi-images/np-nyatapola-history-v2.webp"
       hu: ["1702-ben építtette Bhupatindra Malla király.", "Túlélte az 1934-es és a 2015-ös hatalmas földrengéseket is."],
       ro: ["Construit în 1702 de Regele Bhupatindra Malla.", "A supraviețuit atât cutremurelor masive din 1934, cât și celor din 2015."]
     },
-    factsAdvanced: { multi4: ["1702-ben építtette Bhupatindra Malla király mindössze hét hónap alatt.", "Nepál legmagasabb pagodája, magassága meghaladja a 30 métert.", "Siddhi Lakshmi, a siker tantrikus istennőjének szentelték.", "A templomhoz vezető lépcsősoron öt pár szobor áll, amelyek az erőt szimbolizálják.", "A szobrok: két birkózó, két elefánt, két oroszlán, két griff és két istenség.", "A legenda szerint azért épült, hogy lecsillapítsa a közeli Bhairava templom istenségét.", "Túlélte az 1934-es és a 2015-ös nagy földrengéseket is, ami a kiváló mérnöki munkát dicséri.", "A neve (Nya ta pola) newari nyelven 'öt emeletes templomot' jelent."] }, image: "/poi-images/np-nyatapola-history-v2.webp"},
+    image: "/poi-images/np-nyatapola-history-v2.webp",
+  },
   {
     id: "np-dharahara-history-v2",
     type: "monument",
     parent: "NP-P3",
     coords: [85.3123, 27.7006],
     name: { en: "Dharahara Tower", de: "Dharahara-Turm", hu: "Dharahara torony", ro: "Turnul Dharahara",
-image: "/poi-images/np-dharahara-history-v2.webp"
 },
     description: {
       en: "A historic nine-story tower in the center of Kathmandu, originally built for military purposes.",
@@ -222,14 +257,14 @@ image: "/poi-images/np-dharahara-history-v2.webp"
       hu: ["Bhimsen Thapa miniszterelnök megbízásából épült 1832-ben.", "A 2015-ös földrengésben összeomlott, de azóta újjáépítették."],
       ro: ["Comandat de Prim-ministrul Bhimsen Thapa în 1832.", "S-a prăbușit în timpul cutremurului din 2015, dar a fost reconstruit."]
     },
-    factsAdvanced: { multi4: ["Az első tornyot Bhimsen Thapa miniszterelnök építtette 1825-ben.", "Az 1832-ben épült második, nyilvános torony 9 emeletes és 61,88 méter magas volt.", "Katonai őrtoronyként és kilátóként funkcionált.", "Az 1934-es nagy földrengésben elpusztult, de újjáépítették.", "A 2015. április 25-i földrengésben ismét összeomlott, a romok alatt sokan életüket vesztették.", "A nepáli kormány és a lakosság adományaiból újjáépítették.", "Az új, modern torony 2021-ben nyílt meg a nagyközönség előtt.", "Az újjáépített torony magasabb, mint az eredeti, és beépített lifttel is rendelkezik."] }, image: "/poi-images/np-dharahara-history-v2.webp"},
+    image: "/poi-images/np-dharahara-history-v2.webp",
+  },
   {
     id: "np-nuwakot-durbar-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.1633, 27.9150],
     name: { en: "Nuwakot Durbar", de: "Nuwakot Durbar", hu: "Nuwakot Durbar", ro: "Nuwakot Durbar",
-image: "/poi-images/np-nuwakot-durbar-history-v2.webp"
 },
     description: {
       en: "A prominent historic fortress that played a key role in the unification of Nepal under King Prithvi Narayan Shah.",
@@ -243,14 +278,14 @@ image: "/poi-images/np-nuwakot-durbar-history-v2.webp"
       hu: ["A fő palota egy hétemeletes téglaépület.", "Az egyesítési hadjárat idején fővárosként szolgált."],
       ro: ["Palatul principal este o structură din cărămidă cu șapte etaje.", "A servit drept capitală în timpul campaniei de unificare."]
     },
-    factsAdvanced: { multi4: ["Prithvi Narayan Shah király 1744-ben foglalta el a Malla királyoktól.", "Az egyesítési hadjárat idején ez volt a Gorkha királyság fővárosa.", "A 'Saat Tale Durbar' (Hétemeletes Palota) a komplexum központi épülete.", "A palota a Katmandu-völgy meghódításának stratégiai központjaként szolgált.", "A helyszínről ellenőrizték a Tibetbe vezető fontos kereskedelmi útvonalat.", "A komplexumhoz tartozik egy Taleju és egy Bhairabi templom is.", "A 2015-ös földrengés súlyos károkat okozott az épületekben, a helyreállítás folyamatban van.", "A palota a newari és a gorkha építészeti stílusok keveredését mutatja."] }, image: "/poi-images/np-nuwakot-durbar-history-v2.webp"},
+    image: "/poi-images/np-nuwakot-durbar-history-v2.webp",
+  },
   {
     id: "np-gorkha-durbar-history-v2",
     type: "historical-site",
     parent: "NP-P4",
     coords: [84.6293, 28.0039],
     name: { en: "Gorkha Durbar", de: "Gorkha Durbar", hu: "Gorkha Durbar", ro: "Gorkha Durbar",
-image: "/poi-images/np-gorkha-durbar-history-v2.webp"
 },
     description: {
       en: "An ancient palace and temple complex on a hilltop, the ancestral home of the Shah dynasty.",
@@ -264,14 +299,14 @@ image: "/poi-images/np-gorkha-durbar-history-v2.webp"
       hu: ["Prithvi Narayan Shah király szülőhelye.", "Kilátás nyílik a hatalmas Trisuli-völgyre."],
       ro: ["Locul de naștere al Regelui Prithvi Narayan Shah.", "Oferă vedere spre întinsa Vale Trisuli."]
     },
-    factsAdvanced: { multi4: ["A Shah-dinasztia eredeti székhelye.", "Prithvi Narayan Shah, Nepál egyesítőjének szülőhelye és hatalmi központja.", "A palota egy dombtetőn helyezkedik el, körülbelül 1000 méterrel a város felett.", "A komplexum egy erőd, palota és templom együtteséből áll.", "A területen található a szent Gorakhnath-barlang és a Kalika-templom.", "A palotából indult el Prithvi Narayan Shah 1744-ben, hogy meghódítsa Nuwakotot.", "A fő palotába (Gorkha Durbar) a belépés korlátozott.", "A helyszínről lenyűgöző kilátás nyílik a Manaszlu és az Annapurna hegyvonulatokra."] }, image: "/poi-images/np-gorkha-durbar-history-v2.webp"},
+    image: "/poi-images/np-gorkha-durbar-history-v2.webp",
+  },
   {
     id: "np-janaki-mandir-history-v2",
     type: "historical-site",
     parent: "NP-P2",
     coords: [85.9261, 26.7303],
     name: { en: "Janaki Mandir", de: "Janaki Mandir", hu: "Janaki Mandir", ro: "Janaki Mandir",
-image: "/poi-images/np-janaki-mandir-history-v2.webp"
 },
     description: {
       en: "A visually striking Hindu temple in Janakpur, dedicated to Goddess Sita, featuring distinct Rajput architecture.",
@@ -285,14 +320,14 @@ image: "/poi-images/np-janaki-mandir-history-v2.webp"
       hu: ["1910-ben építtette Brisabhanu Kunwari, Tikamgarh királynője.", "Gyakran Nau Lakha Mandirnak (Kilenc Lakh Templom) is nevezik."],
       ro: ["Construit în 1910 de Regina Brisabhanu Kunwari din Tikamgarh.", "Este adesea denumit Nau Lakha Mandir (Templul de nouă Lakh)."]
     },
-    factsAdvanced: { multi4: ["A templom Janakpurban található, amelyet a Rámájana eposzban Szíta istennő szülővárosaként említenek.", "A templom Szítának (más néven Dzsanaki) van szentelve.", "1910-ben építtette Brisabhanu Kunwari, Tikamgarh királynője.", "Az építési költsége 900 000 rúpia (kilenc 'lakh') volt, innen a 'Nau Lakha Mandir' név.", "Az építészeti stílusa a rádzsput és a mogul stílus egyedülálló keveréke.", "A főünnep a Vivaha Panchami, amely Ráma és Szíta esküvőjét ünnepli.", "A templom Nepál egyik legnagyobb és legfontosabb hindu szentélye.", "A templom teljes egészében kőből és márványból épült."] }, image: "/poi-images/np-janaki-mandir-history-v2.webp"},
+    image: "/poi-images/np-janaki-mandir-history-v2.webp",
+  },
   {
     id: "np-muktinath-history-v2",
     type: "historical-site",
     parent: "NP-P4",
     coords: [83.8715, 28.8164],
     name: { en: "Muktinath Temple", de: "Muktinath-Tempel", hu: "Muktinath templom", ro: "Templul Muktinath",
-image: "/poi-images/np-muktinath-history-v2.webp"
 },
     description: {
       en: "A sacred pilgrimage site for both Hindus and Buddhists, situated at a high altitude in the Mustang district.",
@@ -306,14 +341,14 @@ image: "/poi-images/np-muktinath-history-v2.webp"
       hu: ["A templom 3710 méteres tengerszint feletti magasságban található.", "108 kőből faragott, tehénfej alakú vízköpővel rendelkezik."],
       ro: ["Templul este situat la o altitudine de 3.710 metri.", "Prezintă 108 guri de scurgere a apei din piatră sculptate în formă de capete de vacă."]
     },
-    factsAdvanced: { multi4: ["3800 méteres magasságban található a Mustang-régióban.", "Mind a hinduk (Visnu-ként), mind a buddhisták (Avalokitesvara-ként) szent helyként tisztelik.", "A hinduk számára egyike a nyolc 'Svayam Vyakta Kshetras' (magától megnyilvánuló) szentélynek.", "A templom udvarán 108 réz vízköpő található, melyekben való fürdőzés a bűnöktől való megtisztulást jelenti.", "A Jwala Mai templomban egy földgázforrásból táplálkozó 'örök láng' ég.", "A hely a föld, víz, tűz és levegő elemeinek ritka találkozási pontja.", "Az Annapurna túraútvonal egyik fontos állomása.", "A zarándokok gyakran a közeli Kali Gandaki folyóban keresnek szent 'saligram' köveket."] }, image: "/poi-images/np-muktinath-history-v2.webp"},
+    image: "/poi-images/np-muktinath-history-v2.webp",
+  },
   {
     id: "np-tansen-durbar-history-v2",
     type: "historical-site",
     parent: "NP-P5",
     coords: [83.5435, 27.8668],
     name: { en: "Tansen Durbar", de: "Tansen Durbar", hu: "Tansen Durbar", ro: "Tansen Durbar",
-image: "/poi-images/np-tansen-durbar-history-v2.webp"
 },
     description: {
       en: "A historical palace in the Palpa district reflecting the grand legacy of the Sen dynasty before Nepal's unification.",
@@ -327,14 +362,14 @@ image: "/poi-images/np-tansen-durbar-history-v2.webp"
       hu: ["1927-ben építtette Pratap Shamsher Jang Bahadur Rana.", "A durbart 2006-ban a maoista konfliktus során súlyosan megrongálták, de később helyreállították."],
       ro: ["Construit în 1927 de Pratap Shamsher Jang Bahadur Rana.", "Durbarul a fost grav avariat în 2006 în timpul conflictului maoist, dar ulterior restaurat."]
     },
-    factsAdvanced: { multi4: ["A palotát 1927-ben építtette Pratap Shamsher Jang Bahadur Rana.", "A Rana-korszakban a nyugat-nepáli közigazgatás központja volt.", "Az eredeti palotának 64 szobája volt.", "2006-ban, a maoista felkelés során egy támadásban leégett.", "A helyi lakosság és a kormányzat segítségével újjáépítették.", "Az újjáépített palotát 2011-ben adták át.", "Ma a Palpa régió történelmét és kultúráját bemutató múzeum működik benne.", "Tansen városának egyik legfontosabb építészeti és történelmi emléke."] }, image: "/poi-images/np-tansen-durbar-history-v2.webp"},
+    image: "/poi-images/np-tansen-durbar-history-v2.webp",
+  },
   {
     id: "np-ranighat-history-v2",
     type: "monument",
     parent: "NP-P5",
     coords: [83.5658, 27.9103],
     name: { en: "Ranighat Palace", de: "Ranighat-Palast", hu: "Ranighat palota", ro: "Palatul Ranighat",
-image: "/poi-images/np-ranighat-history-v2.webp"
 },
     description: {
       en: "Often referred to as the Taj Mahal of Nepal, this neoclassical palace rests on the banks of the Kali Gandaki River.",
@@ -348,14 +383,14 @@ image: "/poi-images/np-ranighat-history-v2.webp"
       hu: ["1893-ban építtette Khadga Shamsher JBR szeretett felesége emlékére.", "Egy sűrű erdőkkel körülvett szurdokban található."],
       ro: ["Construit în 1893 de Khadga Shamsher JBR în memoria soției sale iubite.", "Este situat într-un defileu înconjurat de păduri dense."]
     },
-    factsAdvanced: { multi4: ["1893-ban építtette Khadga Shamsher Rana tábornok felesége, Tej Kumari Devi emlékére.", "A Kali Gandaki folyó partján, egy szurdokban található.", "Gyakran nevezik 'Nepál Tádzs Mahaljának'.", "Az építtetőnek politikai okokból Indiába kellett menekülnie, így a palota elhagyatottá vált.", "Évtizedekig romos állapotban volt, benőtte a dzsungel.", "Az elmúlt években jelentős felújításokon esett át.", "A palota csak gyalogosan vagy csónakkal közelíthető meg.", "A neve, 'Ranighat', a 'királynő fürdőhelyét' jelenti."] }, image: "/poi-images/np-ranighat-history-v2.webp"},
+    image: "/poi-images/np-ranighat-history-v2.webp",
+  },
   {
     id: "np-namobuddha-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.5804, 27.5702],
     name: { en: "Namobuddha", de: "Namobuddha", hu: "Namobuddha", ro: "Namobuddha",
-image: "/poi-images/np-namobuddha-history-v2.webp"
 },
     description: {
       en: "One of the most important Buddhist pilgrimage sites where, according to legend, a prince offered his body to a starving tigress.",
@@ -369,14 +404,14 @@ image: "/poi-images/np-namobuddha-history-v2.webp"
       hu: ["A helyszínen egy ősi sztúpa és egy kiemelkedő kolostor is található.", "Békésen fekszik egy dombon a Katmandu-völgytől keletre."],
       ro: ["Situl include o stupă veche și o mănăstire proeminentă.", "Este situat pașnic pe un deal la est de Valea Kathmandu."]
     },
-    factsAdvanced: { multi4: ["Nepál három legfontosabb buddhista zarándokhelyének egyike.", "A legenda szerint itt áldozta fel a testét Buddha egyik korábbi inkarnációja egy éhező tigrisnek.", "A dombtetőn egy ősi sztúpa és egy szentély állít emléket a tettnek.", "A helyszínen egy nagy, modern tibeti buddhista kolostor, a Thrangu Tashi Yangtse is működik.", "A kolostort a 9. Khenchen Thrangu Rinpoche alapította.", "A zarándokút (kora) a sztúpát és a szent helyeket köti össze.", "A helyszínről tiszta időben csodálatos kilátás nyílik a Himalája vonulataira.", "A név 'Hódolat Buddhának' jelentést hordoz."] }, image: "/poi-images/np-namobuddha-history-v2.webp"},
+    image: "/poi-images/np-namobuddha-history-v2.webp",
+  },
   {
     id: "np-kirtipur-history-v2",
     type: "historical-site",
     parent: "NP-P3",
     coords: [85.2764, 27.6782],
     name: { en: "Kirtipur Old Town", de: "Altstadt von Kirtipur", hu: "Kirtipur óvárosa", ro: "Orașul vechi Kirtipur",
-image: "/poi-images/np-kirtipur-history-v2.webp"
 },
     description: {
       en: "An ancient Newar township known for its fierce resistance against the Gorkha invasion in the 18th century.",
@@ -390,14 +425,14 @@ image: "/poi-images/np-kirtipur-history-v2.webp"
       hu: ["A város egy meredek, sziklás dombon található.", "Megőrizte hagyományos kultúráját, téglaépületeit és középkori hangulatát."],
       ro: ["Orașul este situat pe un deal stâncos abrupt.", "Își păstrează cultura tradițională, casele din cărămidă și atmosfera medievală."]
     },
-    factsAdvanced: { multi4: ["Ősi newar város, amelynek neve 'a dicsőség városa'-t jelenti.", "A 18. században híres volt a Gorkha invázióval szembeni heves ellenállásáról.", "Prithvi Narayan Shah seregei csak harmadik próbálkozásra tudták bevenni 1767-ben.", "A város lakóit a hódítók kegyetlenül megbüntették.", "A Bagh Bhairav templom a város egyik legfontosabb szentélye.", "Az Uma Maheshwar templomból kiváló kilátás nyílik a Katmandu-völgyre.", "Itt található Nepál legrégebbi egyeteme, a Tribhuvan Egyetem.", "Megőrizte középkori hangulatát, szűk utcáival és téglaházaival."] }, image: "/poi-images/np-kirtipur-history-v2.webp"},
+    image: "/poi-images/np-kirtipur-history-v2.webp",
+  },
   {
     id: "np-sindhuligadhi-history-v2",
     type: "battlefield",
     parent: "NP-P3",
     coords: [85.9610, 27.2798],
     name: { en: "Sindhuligadhi", de: "Sindhuligadhi", hu: "Sindhuligadhi", ro: "Sindhuligadhi",
-image: "/poi-images/np-sindhuligadhi-history-v2.webp"
 },
     description: {
       en: "A historic fort and battlefield where Gorkhali forces defeated the troops of the British East India Company in 1767.",
@@ -411,14 +446,14 @@ image: "/poi-images/np-sindhuligadhi-history-v2.webp"
       hu: ["A győzelem megakadályozta, hogy a brit erők előrenyomuljanak a Katmandu-völgy felé.", "Az erőd romjai még ma is állnak 1417 méteres magasságban."],
       ro: ["Victoria a împiedicat forțele britanice să avanseze spre Valea Kathmandu.", "Ruinele fortului încă se mai află la o altitudine de 1.417 metri."]
     },
-    factsAdvanced: { multi4: ["Itt zajlott a sindhuli-i csata 1767-ben.", "A gorkhali sereg döntő győzelmet aratott a Brit Kelet-indiai Társaság csapatai felett.", "A győzelem megakadályozta, hogy a britek beavatkozzanak Nepál egyesítésébe.", "Ez volt az első alkalom, hogy a brit hadsereg vereséget szenvedett Dél-Ázsiában.", "A gorkhali sereget Banshu Gurung vezette.", "A csata a nepáli hadtörténet egyik legdicsőbb pillanata.", "A helyszínen ma emlékmű és múzeum állít emléket a csatának.", "Az erőd romjai még mindig láthatók a hegytetőn."] }, image: "/poi-images/np-sindhuligadhi-history-v2.webp"},
+    image: "/poi-images/np-sindhuligadhi-history-v2.webp",
+  },
   {
     id: "np-kakrebihar-history-v2",
     type: "ruin",
     parent: "NP-P6",
     coords: [81.5975, 28.5601],
     name: { en: "Kakrebihar", de: "Kakrebihar", hu: "Kakrebihar", ro: "Kakrebihar",
-image: "/poi-images/np-kakrebihar-history-v2.webp"
 },
     description: {
       en: "Ancient ruins of a 12th-century Hindu-Buddhist temple complex in the shape of a lotus seed.",
@@ -432,5 +467,6 @@ image: "/poi-images/np-kakrebihar-history-v2.webp"
       hu: ["A romok a hindu és buddhista építészeti stílusok egyedülálló keverékét mutatják be.", "A terület egy védett erdős részén található."],
       ro: ["Ruinele prezintă un amestec unic de stiluri arhitecturale hinduse și budiste.", "Situl este situat într-o zonă forestieră protejată."]
     },
-    factsAdvanced: { multi4: ["A Surkhet-völgyben található, és a 12. századból származik.", "Mind hindu, mind buddhista istenségeket ábrázoló szobrokat találtak itt.", "A templomkomplexum a Khas Malla királyság idején épülhetett.", "A templom egyedülálló, kőből épült 'shikhara' (csúcsos torony) stílusú.", "A romokat évszázadokig elhanyagolták, és a helyiek 'a varjak lakhelyének' nevezték.", "Az elmúlt években megkezdődött a templom újjáépítése az eredeti kövek felhasználásával.", "A helyszín egy védett erdőterület közepén található.", "A feltárt szobrok a nyugat-nepáli szobrászat kiemelkedő példái."] }}
+    image: "/poi-images/np-kakrebihar-history-v2.webp",
+  },
 ];

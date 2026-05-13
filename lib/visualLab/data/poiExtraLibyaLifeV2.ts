@@ -7,9 +7,8 @@ export const poiExtraLibyaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "LY-TR",
     coords: [13.18, 32.88],
-    name: { de: "Tripoli Zoo", hu: "Tripoli Állatkert", ro: "Grădina Zoologică din Tripoli", en: "Tripoli Zoo",
-image: "/poi-images/tripoli-zoo-life-v2.webp"
-},
+    name: { de: "Tripoli Zoo", hu: "Tripoli Állatkert", ro: "Grădina Zoologică din Tripoli", en: "Tripoli Zoo"},
+    image: "/poi-images/tripoli-zoo-life-v2.webp",
     description: { de: "Ein bedeutender Park mit einer Vielfalt an Tieren.", hu: "Jelentős park állatok sokaságával.", ro: "O grădină importantă cu o varietate de animale.", en: "A significant park with a variety of animals." },
     facts: {
       de: ["Beheimatet diverse einheimische Arten.", "Ein beliebtes Ausflugsziel für Familien."],
@@ -37,9 +36,8 @@ image: "/poi-images/tripoli-zoo-life-v2.webp"
     type: "animal-habitat",
     parent: "LY-BN",
     coords: [20.06, 32.11],
-    name: { de: "Bengasi Zoo", hu: "Bengázi Állatkert", ro: "Grădina Zoologică din Benghazi", en: "Benghazi Zoo",
-image: "/poi-images/benghazi-zoo-life-v2.webp"
-},
+    name: { de: "Bengasi Zoo", hu: "Bengázi Állatkert", ro: "Grădina Zoologică din Benghazi", en: "Benghazi Zoo"},
+    image: "/poi-images/benghazi-zoo-life-v2.webp",
     description: { de: "Ein Zoo in der Küstenstadt Bengasi.", hu: "Állatkert a tengerparti Bengázi városában.", ro: "O grădină zoologică în orașul de coastă Benghazi.", en: "A zoo in the coastal city of Benghazi." },
     facts: {
       de: ["Fokus auf lokale Tierwelt.", "Bildet ein wichtiges Zentrum für Naturschutz."],
@@ -67,9 +65,8 @@ image: "/poi-images/benghazi-zoo-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-MI",
     coords: [15.09, 32.37],
-    name: { de: "Misrata Stadtpark", hu: "Miszrata Városliget", ro: "Parcul Orașului Misrata", en: "Misrata City Park",
-image: "/poi-images/misrata-park-life-v2.webp"
-},
+    name: { de: "Misrata Stadtpark", hu: "Miszrata Városliget", ro: "Parcul Orașului Misrata", en: "Misrata City Park"},
+    image: "/poi-images/misrata-park-life-v2.webp",
     description: { de: "Ein großer Park für Erholung und Spiel.", hu: "Nagy park kikapcsolódásra és játékra.", ro: "Un parc mare pentru relaxare și joacă.", en: "A large park for relaxation and play." },
     facts: {
       de: ["Verfügt über moderne Spielplätze.", "Beliebter Treffpunkt für Einwohner."],
@@ -97,9 +94,8 @@ image: "/poi-images/misrata-park-life-v2.webp"
     type: "agriculture",
     parent: "LY-NF",
     coords: [12.0, 31.8],
-    name: { de: "Djebel Nafusa Olivenhaine", hu: "Dzsebel Nefusza olajfaligetek", ro: "Livezile de măslini Jebel Nafusa", en: "Jebel Nafusa Olive Groves",
-image: "/poi-images/djebel-nafusa-agri-life-v2.webp"
-},
+    name: { de: "Djebel Nafusa Olivenhaine", hu: "Dzsebel Nefusza olajfaligetek", ro: "Livezile de măslini Jebel Nafusa", en: "Jebel Nafusa Olive Groves"},
+    image: "/poi-images/djebel-nafusa-agri-life-v2.webp",
     description: { de: "Traditionelle Olivenanbauregion im Bergland.", hu: "Hagyományos olívatermesztő régió a hegyvidéken.", ro: "Regiune tradițională de cultivare a măslinelor în zona montană.", en: "Traditional olive growing region in the mountains." },
     facts: {
       de: ["Bekannt für hochwertige Olivenölproduktion.", "Über Jahrhunderte gepflegte Anbaumethoden."],
@@ -127,9 +123,8 @@ image: "/poi-images/djebel-nafusa-agri-life-v2.webp"
     type: "agriculture",
     parent: "LY-NL",
     coords: [9.5, 30.1],
-    name: { de: "Gadamis Oase", hu: "Gadamis oázis", ro: "Oaza Ghadames", en: "Ghadames Oasis",
-image: "/poi-images/gadamis-oasis-life-v2.webp"
-},
+    name: { de: "Gadamis Oase", hu: "Gadamis oázis", ro: "Oaza Ghadames", en: "Ghadames Oasis"},
+    image: "/poi-images/gadamis-oasis-life-v2.webp",
     description: { de: "Eine grüne Oase mit traditionellem Anbau.", hu: "Zöld oázis hagyományos termesztéssel.", ro: "O oază verde cu culturi tradiționale.", en: "A green oasis with traditional cultivation." },
     facts: {
       de: ["Anbau von Datteln und Gemüse.", "Ein Symbol für Leben in der Wüste."],
@@ -157,9 +152,8 @@ image: "/poi-images/gadamis-oasis-life-v2.webp"
     type: "agriculture",
     parent: "LY-KF",
     coords: [23.3, 24.2],
-    name: { de: "Kufra Obstgärten", hu: "Kufra gyümölcsöskertek", ro: "Livezile Kufra", en: "Kufra Orchards",
-image: "/poi-images/kufra-orchard-life-v2.webp"
-},
+    name: { de: "Kufra Obstgärten", hu: "Kufra gyümölcsöskertek", ro: "Livezile Kufra", en: "Kufra Orchards"},
+    image: "/poi-images/kufra-orchard-life-v2.webp",
     description: { de: "Bewässerte Gärten mitten in der Wüste.", hu: "Öntözött kertek a sivatag közepén.", ro: "Grădini irigate în mijlocul deșertului.", en: "Irrigated gardens in the middle of the desert." },
     facts: {
       de: ["Ermöglicht durch unterirdische Wasserreserven.", "Zentrum für lokale Obstversorgung."],
@@ -187,9 +181,8 @@ image: "/poi-images/kufra-orchard-life-v2.webp"
     type: "agriculture",
     parent: "LY-ZA",
     coords: [12.7, 32.7],
-    name: { de: "Zawia Agrarzone", hu: "Záviai mezőgazdasági övezet", ro: "Zona agricolă Zawia", en: "Zawia Agricultural Zone",
-image: "/poi-images/zawia-farm-life-v2.webp"
-},
+    name: { de: "Zawia Agrarzone", hu: "Záviai mezőgazdasági övezet", ro: "Zona agricolă Zawia", en: "Zawia Agricultural Zone"},
+    image: "/poi-images/zawia-farm-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für den Ackerbau.", hu: "Jelentős terület a növénytermesztés számára.", ro: "O zonă semnificativă pentru agricultură.", en: "A significant area for farming." },
     facts: {
       de: ["Produziert Getreide und Futterpflanzen.", "Wirtschaftlicher Motor der Region."],
@@ -217,9 +210,8 @@ image: "/poi-images/zawia-farm-life-v2.webp"
     type: "agriculture",
     parent: "LY-GH",
     coords: [13.0, 32.1],
-    name: { de: "Gharyan Gärtnerei", hu: "Garian kertészet", ro: "Grădina botanică Gharyan", en: "Gharyan Nursery",
-image: "/poi-images/gharyan-nursery-life-v2.webp"
-},
+    name: { de: "Gharyan Gärtnerei", hu: "Garian kertészet", ro: "Grădina botanică Gharyan", en: "Gharyan Nursery"},
+    image: "/poi-images/gharyan-nursery-life-v2.webp",
     description: { de: "Ein Zentrum für Setzlinge und Pflanzen.", hu: "Palánták és növények központja.", ro: "Un centru pentru răsaduri și plante.", en: "A center for seedlings and plants." },
     facts: {
       de: ["Unterstützt die lokale Landwirtschaft.", "Züchtet klimaresistente Pflanzen."],
@@ -247,9 +239,8 @@ image: "/poi-images/gharyan-nursery-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-SB",
     coords: [14.4, 27.0],
-    name: { de: "Sebha Familienpark", hu: "Szebha családi park", ro: "Parcul familial Sebha", en: "Sebha Family Park",
-image: "/poi-images/sebha-park-life-v2.webp"
-},
+    name: { de: "Sebha Familienpark", hu: "Szebha családi park", ro: "Parcul familial Sebha", en: "Sebha Family Park"},
+    image: "/poi-images/sebha-park-life-v2.webp",
     description: { de: "Ein Erholungspark für Familien in der Wüste.", hu: "Pihenőpark családoknak a sivatagban.", ro: "Un parc de recreere pentru familii în deșert.", en: "A recreation park for families in the desert." },
     facts: {
       de: ["Beliebter Ort für Sommerabende.", "Bietet schattige Sitzbereiche."],
@@ -277,9 +268,8 @@ image: "/poi-images/sebha-park-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-TB",
     coords: [23.9, 32.0],
-    name: { de: "Tubruq Stadtgarten", hu: "Tubruki városkert", ro: "Grădina orașului Tobruk", en: "Tobruk City Garden",
-image: "/poi-images/tubruq-garden-life-v2.webp"
-},
+    name: { de: "Tubruq Stadtgarten", hu: "Tubruki városkert", ro: "Grădina orașului Tobruk", en: "Tobruk City Garden"},
+    image: "/poi-images/tubruq-garden-life-v2.webp",
     description: { de: "Ein grüner Ruhepunkt in Tubruq.", hu: "Zöld nyugvópont Tubrukban.", ro: "Un punct de odihnă verde în Tobruk.", en: "A green resting point in Tobruk." },
     facts: {
       de: ["Bietet Blick auf den Hafen.", "Gepflegte Blumenbeete."],
@@ -307,9 +297,8 @@ image: "/poi-images/tubruq-garden-life-v2.webp"
     type: "animal-habitat",
     parent: "LY-BA",
     coords: [21.7, 32.7],
-    name: { de: "Al-Baida Tierpark", hu: "El-Bajda állatpark", ro: "Parcul animalier Al-Baida", en: "Al-Baida Zoo",
-image: "/poi-images/al-baida-zoo-life-v2.webp"
-},
+    name: { de: "Al-Baida Tierpark", hu: "El-Bajda állatpark", ro: "Parcul animalier Al-Baida", en: "Al-Baida Zoo"},
+    image: "/poi-images/al-baida-zoo-life-v2.webp",
     description: { de: "Ein kleiner Tierpark in der Kyrenaika.", hu: "Kis állatpark Kirenaikában.", ro: "O mică grădină zoologică în Cirenaica.", en: "A small zoo in Cyrenaica." },
     facts: {
       de: ["Zeigt einheimische Wüstentiere.", "Bildungszentrum für Kinder."],
@@ -337,9 +326,8 @@ image: "/poi-images/al-baida-zoo-life-v2.webp"
     type: "agriculture",
     parent: "LY-BA",
     coords: [21.0, 32.5],
-    name: { de: "Dschabal al-Achdar Obstbau", hu: "Dzsebel el-Ahdar gyümölcstermesztés", ro: "Pomicultură Jebel Akhdar", en: "Jebel Akhdar Fruit Farming",
-image: "/poi-images/djebel-akhdar-farm-life-v2.webp"
-},
+    name: { de: "Dschabal al-Achdar Obstbau", hu: "Dzsebel el-Ahdar gyümölcstermesztés", ro: "Pomicultură Jebel Akhdar", en: "Jebel Akhdar Fruit Farming"},
+    image: "/poi-images/djebel-akhdar-farm-life-v2.webp",
     description: { de: "Obstbaugebiet im grünen Gebirge.", hu: "Gyümölcstermesztő terület a zöld hegyekben.", ro: "Zonă pomicolă în munții verzi.", en: "Fruit farming area in the green mountains." },
     facts: {
       de: ["Baut Äpfel und Birnen an.", "Mildes Klima ermöglicht Ernten."],
@@ -367,9 +355,8 @@ image: "/poi-images/djebel-akhdar-farm-life-v2.webp"
     type: "agriculture",
     parent: "LY-BA",
     coords: [21.3, 32.6],
-    name: { de: "Slonta Baumschule", hu: "Slonta faiskola", ro: "Pepiniere Slonta", en: "Slonta Nursery",
-image: "/poi-images/slonta-nursery-life-v2.webp"
-},
+    name: { de: "Slonta Baumschule", hu: "Slonta faiskola", ro: "Pepiniere Slonta", en: "Slonta Nursery"},
+    image: "/poi-images/slonta-nursery-life-v2.webp",
     description: { de: "Wichtige Baumschule für die Region.", hu: "Fontos faiskola a régióban.", ro: "Pepinieră importantă pentru regiune.", en: "Important nursery for the region." },
     facts: {
       de: ["Produziert Setzlinge für Wiederaufforstung.", "Fachwissen über lokale Flora."],
@@ -397,9 +384,8 @@ image: "/poi-images/slonta-nursery-life-v2.webp"
     type: "agriculture",
     parent: "LY-JA",
     coords: [21.5, 29.0],
-    name: { de: "Jalu Oasenanbau", hu: "Dzsalu oázistermesztés", ro: "Agricultura oazei Jalu", en: "Jalu Oasis Farming",
-image: "/poi-images/jalu-oasis-farm-life-v2.webp"
-},
+    name: { de: "Jalu Oasenanbau", hu: "Dzsalu oázistermesztés", ro: "Agricultura oazei Jalu", en: "Jalu Oasis Farming"},
+    image: "/poi-images/jalu-oasis-farm-life-v2.webp",
     description: { de: "Traditioneller Anbau in der Oase.", hu: "Hagyományos termesztés az oázisban.", ro: "Agricultură tradițională în oază.", en: "Traditional cultivation in the oasis." },
     facts: {
       de: ["Weltberühmt für Dattelsorten.", "Verbindet Tradition mit Bewässerungstechnik."],
@@ -427,9 +413,8 @@ image: "/poi-images/jalu-oasis-farm-life-v2.webp"
     type: "agriculture",
     parent: "LY-JA",
     coords: [21.3, 29.1],
-    name: { de: "Awjila Dattelhain", hu: "Audzsila datolyaliget", ro: "Livezile de curmali Awjila", en: "Awjila Date Grove",
-image: "/poi-images/awjila-orchard-life-v2.webp"
-},
+    name: { de: "Awjila Dattelhain", hu: "Audzsila datolyaliget", ro: "Livezile de curmali Awjila", en: "Awjila Date Grove"},
+    image: "/poi-images/awjila-orchard-life-v2.webp",
     description: { de: "Historische Oase mit Dattelanbau.", hu: "Történelmi oázis datolyatermesztéssel.", ro: "Oază istorică cu cultivarea curmalelor.", en: "Historical oasis with date farming." },
     facts: {
       de: ["Seit Jahrhunderten bepflanzt.", "Ein Zentrum für lokale Kultur."],
@@ -457,9 +442,8 @@ image: "/poi-images/awjila-orchard-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-MI",
     coords: [14.8, 32.0],
-    name: { de: "Tauergha Park", hu: "Tauerga park", ro: "Parcul Tauergha", en: "Tauergha Park",
-image: "/poi-images/tauergha-park-life-v2.webp"
-},
+    name: { de: "Tauergha Park", hu: "Tauerga park", ro: "Parcul Tauergha", en: "Tauergha Park"},
+    image: "/poi-images/tauergha-park-life-v2.webp",
     description: { de: "Ein Erholungsgebiet im Wiederaufbau.", hu: "Rekreációs terület az újjáépítésben.", ro: "O zonă de recreere în reconstrucție.", en: "A recreational area in reconstruction." },
     facts: {
       de: ["Entsteht neu für die Gemeinschaft.", "Mit kleinen Sportanlagen."],
@@ -487,9 +471,8 @@ image: "/poi-images/tauergha-park-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-MI",
     coords: [14.3, 32.6],
-    name: { de: "Homs Stadtpark", hu: "Homsz városliget", ro: "Parcul orașului Homs", en: "Homs City Park",
-image: "/poi-images/homsh-city-park-life-v2.webp"
-},
+    name: { de: "Homs Stadtpark", hu: "Homsz városliget", ro: "Parcul orașului Homs", en: "Homs City Park"},
+    image: "/poi-images/homsh-city-park-life-v2.webp",
     description: { de: "Ein schattiger Park nahe der Küste.", hu: "Árnyékos park a part közelében.", ro: "Un parc umbrit lângă coastă.", en: "A shaded park near the coast." },
     facts: {
       de: ["Bietet Spielbereiche für Kinder.", "Ein Ort der Entspannung."],
@@ -517,9 +500,8 @@ image: "/poi-images/homsh-city-park-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-SR",
     coords: [16.6, 31.2],
-    name: { de: "Sirte Familienzentrum", hu: "Szirt családi központ", ro: "Centrul familial Sirte", en: "Sirte Family Center",
-image: "/poi-images/sirte-family-life-v2.webp"
-},
+    name: { de: "Sirte Familienzentrum", hu: "Szirt családi központ", ro: "Centrul familial Sirte", en: "Sirte Family Center"},
+    image: "/poi-images/sirte-family-life-v2.webp",
     description: { de: "Ein Treffpunkt für Familien in Sirte.", hu: "Találkozóhely családoknak Szirtben.", ro: "Un loc de întâlnire pentru familii în Sirte.", en: "A meeting place for families in Sirte." },
     facts: {
       de: ["Veranstaltet Kinderfeste.", "Mit Innen- und Außenbereichen."],
@@ -547,9 +529,8 @@ image: "/poi-images/sirte-family-life-v2.webp"
     type: "agriculture",
     parent: "LY-MU",
     coords: [13.9, 25.9],
-    name: { de: "Murzuq Oase", hu: "Murzuk oázis", ro: "Oaza Murzuq", en: "Murzuq Oasis",
-image: "/poi-images/murzuq-oasis-life-v2.webp"
-},
+    name: { de: "Murzuq Oase", hu: "Murzuk oázis", ro: "Oaza Murzuq", en: "Murzuq Oasis"},
+    image: "/poi-images/murzuq-oasis-life-v2.webp",
     description: { de: "Traditioneller Anbau in der Wüste.", hu: "Hagyományos termesztés a sivatagban.", ro: "Agricultură tradițională în deșert.", en: "Traditional farming in the desert." },
     facts: {
       de: ["Baut Gemüse für den Eigenbedarf an.", "Wichtiger Wasserpunkt."],
@@ -577,9 +558,8 @@ image: "/poi-images/murzuq-oasis-life-v2.webp"
     type: "agriculture",
     parent: "LY-GT",
     coords: [10.2, 24.9],
-    name: { de: "Ghat Oasenanbau", hu: "Ghat oázistermesztés", ro: "Agricultura oazei Ghat", en: "Ghat Oasis Farming",
-image: "/poi-images/ghat-oasis-life-v2.webp"
-},
+    name: { de: "Ghat Oasenanbau", hu: "Ghat oázistermesztés", ro: "Agricultura oazei Ghat", en: "Ghat Oasis Farming"},
+    image: "/poi-images/ghat-oasis-life-v2.webp",
     description: { de: "Landbau am Rande des Tassili n'Ajjer.", hu: "Gazdálkodás a Tassili n'Ajjer szélén.", ro: "Agricultură la marginea Tassili n'Ajjer.", en: "Farming at the edge of Tassili n'Ajjer." },
     facts: {
       de: ["Gartenbau mit uralten Methoden.", "Symbol für Anpassung."],
@@ -607,9 +587,8 @@ image: "/poi-images/ghat-oasis-life-v2.webp"
     type: "agriculture",
     parent: "LY-NQ",
     coords: [12.1, 32.9],
-    name: { de: "Zwara Grüngürtel", hu: "Zvára zöldövezet", ro: "Centura verde Zwara", en: "Zwara Green Belt",
-image: "/poi-images/zwara-green-belt-life-v2.webp"
-},
+    name: { de: "Zwara Grüngürtel", hu: "Zvára zöldövezet", ro: "Centura verde Zwara", en: "Zwara Green Belt"},
+    image: "/poi-images/zwara-green-belt-life-v2.webp",
     description: { de: "Ein landwirtschaftliches Schutzgebiet.", hu: "Mezőgazdasági védterület.", ro: "O zonă agricolă protejată.", en: "An agricultural protected area." },
     facts: {
       de: ["Fördert nachhaltige Landwirtschaft.", "Schützt vor Wüstenbildung."],
@@ -637,9 +616,8 @@ image: "/poi-images/zwara-green-belt-life-v2.webp"
     type: "agriculture",
     parent: "LY-NL",
     coords: [10.5, 30.1],
-    name: { de: "Darj Oasengärten", hu: "Dards oáziskertek", ro: "Grădinile oazei Darj", en: "Darj Oasis Gardens",
-image: "/poi-images/darj-oasis-life-v2.webp"
-},
+    name: { de: "Darj Oasengärten", hu: "Dards oáziskertek", ro: "Grădinile oazei Darj", en: "Darj Oasis Gardens"},
+    image: "/poi-images/darj-oasis-life-v2.webp",
     description: { de: "Kleine Gärten in der libyschen Wüste.", hu: "Kis kertek a líbiai sivatagban.", ro: "Mici grădini în deșertul libian.", en: "Small gardens in the Libyan desert." },
     facts: {
       de: ["Spezialisiert auf Kleingemüse.", "Oft familiengeführt."],
@@ -667,9 +645,8 @@ image: "/poi-images/darj-oasis-life-v2.webp"
     type: "agriculture",
     parent: "LY-NL",
     coords: [10.9, 31.9],
-    name: { de: "Nalut Terrassenanbau", hu: "Nalut teraszos gazdálkodás", ro: "Agricultura în terase Nalut", en: "Nalut Terrace Farming",
-image: "/poi-images/nalut-terrace-life-v2.webp"
-},
+    name: { de: "Nalut Terrassenanbau", hu: "Nalut teraszos gazdálkodás", ro: "Agricultura în terase Nalut", en: "Nalut Terrace Farming"},
+    image: "/poi-images/nalut-terrace-life-v2.webp",
     description: { de: "Historische Terrassenfelder am Berg.", hu: "Történelmi teraszos földek a hegyen.", ro: "Câmpuri în terase istorice pe munte.", en: "Historical terrace fields on the mountain." },
     facts: {
       de: ["Sehr effiziente Wassernutzung.", "Kulturerbe der Region."],
@@ -697,9 +674,8 @@ image: "/poi-images/nalut-terrace-life-v2.webp"
     type: "agriculture",
     parent: "LY-JU",
     coords: [16.0, 29.1],
-    name: { de: "Jufra Palmenhaine", hu: "Dzsufra pálmaligetek", ro: "Livezile de palmieri Jufra", en: "Jufra Palm Groves",
-image: "/poi-images/jufra-orchard-life-v2.webp"
-},
+    name: { de: "Jufra Palmenhaine", hu: "Dzsufra pálmaligetek", ro: "Livezile de palmieri Jufra", en: "Jufra Palm Groves"},
+    image: "/poi-images/jufra-orchard-life-v2.webp",
     description: { de: "Großflächiger Anbau von Dattelpalmen.", hu: "Datolyapálmák nagyméretű termesztése.", ro: "Cultivarea pe scară largă a palmierilor curmali.", en: "Large-scale cultivation of date palms." },
     facts: {
       de: ["Zentrale Erwerbsquelle für Jufra.", "Landschaftsprägend."],
@@ -727,9 +703,8 @@ image: "/poi-images/jufra-orchard-life-v2.webp"
     type: "agriculture",
     parent: "LY-TR",
     coords: [13.6, 32.4],
-    name: { de: "Tarhuna Setzlingszentrum", hu: "Tarhuna palántaközpont", ro: "Centrul de răsaduri Tarhuna", en: "Tarhuna Seedling Center",
-image: "/poi-images/tarhuna-nursery-life-v2.webp"
-},
+    name: { de: "Tarhuna Setzlingszentrum", hu: "Tarhuna palántaközpont", ro: "Centrul de răsaduri Tarhuna", en: "Tarhuna Seedling Center"},
+    image: "/poi-images/tarhuna-nursery-life-v2.webp",
     description: { de: "Ein Betrieb für junge Obstbäume.", hu: "Üzem fiatal gyümölcsfák számára.", ro: "O unitate pentru pomi fructiferi tineri.", en: "A facility for young fruit trees." },
     facts: {
       de: ["Versorgt das Umland mit Bäumen.", "Fokus auf Oliven und Mandeln."],
@@ -757,9 +732,8 @@ image: "/poi-images/tarhuna-nursery-life-v2.webp"
     type: "agriculture",
     parent: "LY-MI",
     coords: [14.0, 32.5],
-    name: { de: "Msallata Olivenplantagen", hu: "Msallata olajfaültetvények", ro: "Plantații de măslini Msallata", en: "Msallata Olive Plantations",
-image: "/poi-images/msallata-olive-life-v2.webp"
-},
+    name: { de: "Msallata Olivenplantagen", hu: "Msallata olajfaültetvények", ro: "Plantații de măslini Msallata", en: "Msallata Olive Plantations"},
+    image: "/poi-images/msallata-olive-life-v2.webp",
     description: { de: "Bedeutende Olivenregion nahe der Küste.", hu: "Jelentős olíva régió a part közelében.", ro: "Regiune importantă de măsline lângă coastă.", en: "Important olive region near the coast." },
     facts: {
       de: ["Jahrhundertealte Bäume.", "Produziert erstklassiges Olivenöl."],
@@ -787,9 +761,8 @@ image: "/poi-images/msallata-olive-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-GT",
     coords: [10.1, 24.9],
-    name: { de: "Ghat Familienplatz", hu: "Ghat családi tér", ro: "Piața familială Ghat", en: "Ghat Family Square",
-image: "/poi-images/ghat-family-life-v2.webp"
-},
+    name: { de: "Ghat Familienplatz", hu: "Ghat családi tér", ro: "Piața familială Ghat", en: "Ghat Family Square"},
+    image: "/poi-images/ghat-family-life-v2.webp",
     description: { de: "Ein zentraler Ort für Familien in Ghat.", hu: "Központi hely családoknak Ghatban.", ro: "Un loc central pentru familii în Ghat.", en: "A central place for families in Ghat." },
     facts: {
       de: ["Ort für lokale Märkte.", "Treffpunkt der Gemeinde."],
@@ -817,9 +790,8 @@ image: "/poi-images/ghat-family-life-v2.webp"
     type: "kid-landmark",
     parent: "LY-SR",
     coords: [18.2, 30.5],
-    name: { de: "Bin Jawad Freizeitpark", hu: "Bin Dzsavád élménypark", ro: "Parcul de agrement Bin Jawad", en: "Bin Jawad Leisure Park",
-image: "/poi-images/bin-jawad-park-life-v2.webp"
-},
+    name: { de: "Bin Jawad Freizeitpark", hu: "Bin Dzsavád élménypark", ro: "Parcul de agrement Bin Jawad", en: "Bin Jawad Leisure Park"},
+    image: "/poi-images/bin-jawad-park-life-v2.webp",
     description: { de: "Ein Park am Rande des Golfs.", hu: "Park az öböl szélén.", ro: "Un parc la marginea golfului.", en: "A park at the edge of the gulf." },
     facts: {
       de: ["Mit Spielgeräten für Kinder.", "Beliebt für Picknicks."],
@@ -847,9 +819,8 @@ image: "/poi-images/bin-jawad-park-life-v2.webp"
     type: "agriculture",
     parent: "LY-ZA",
     coords: [13.0, 32.5],
-    name: { de: "Al-Azizia Ackerland", hu: "El-Azizija szántóföldek", ro: "Terenuri arabile Al-Azizia", en: "Al-Azizia Farmland",
-image: "/poi-images/al-azizia-agri-life-v2.webp"
-},
+    name: { de: "Al-Azizia Ackerland", hu: "El-Azizija szántóföldek", ro: "Terenuri arabile Al-Azizia", en: "Al-Azizia Farmland"},
+    image: "/poi-images/al-azizia-agri-life-v2.webp",
     description: { de: "Fruchtbares Ackergebiet südlich von Tripolis.", hu: "Termékeny szántóföldek Tripolitól délre.", ro: "Zonă arabilă fertilă la sud de Tripoli.", en: "Fertile farmland south of Tripoli." },
     facts: {
       de: ["Wichtig für die lokale Gemüseversorgung.", "Intensive Landwirtschaft."],
@@ -877,9 +848,8 @@ image: "/poi-images/al-azizia-agri-life-v2.webp"
     type: "agriculture",
     parent: "LY-NF",
     coords: [12.3, 31.9],
-    name: { de: "Zintan Obstgarten", hu: "Zintan gyümölcsöskert", ro: "Livezile Zintan", en: "Zintan Orchard",
-image: "/poi-images/zintan-orchard-life-v2.webp"
-},
+    name: { de: "Zintan Obstgarten", hu: "Zintan gyümölcsöskert", ro: "Livezile Zintan", en: "Zintan Orchard"},
+    image: "/poi-images/zintan-orchard-life-v2.webp",
     description: { de: "Ein kleiner Obstgarten im Bergland.", hu: "Kis gyümölcsöskert a hegyvidéken.", ro: "O mică livadă în zona montană.", en: "A small orchard in the mountains." },
     facts: {
       de: ["Spezialisiert auf lokale Sorten.", "Traditionelle Bewässerung."],

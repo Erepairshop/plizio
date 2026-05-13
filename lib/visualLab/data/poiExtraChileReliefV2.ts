@@ -11,9 +11,8 @@ export const poiExtraChileReliefV2: POI[] = [
       de: "Anden",
       hu: "Andok",
       ro: "Anzii",
-      en: "Andes",
-image: "/poi-images/cordillera-de-los-andes-relief-v2.webp"
-},
+      en: "Andes"},
+    image: "/poi-images/cordillera-de-los-andes-relief-v2.webp",
     descriptionAdvanced: {
       ro: "Munții Anzi definesc coloana vertebrală a Chile, fiind cel mai lung lanț muntos continental din lume și o barieră naturală impunătoare care influențează radical clima și viața în regiune. Acesta găzduiește numeroase vârfuri vulcanice și trecători montane esențiale pentru transport și comerț. Din perspectivă geologică, Anzii sunt rezultatul subducției plăcilor tectonice Nazca sub placa Sud-Americană, un proces continuu care generează activitate seismică și vulcanică. Înțelegerea Anzilor este fundamentală pentru orice elev sau pasionat de geografie, deoarece acest lanț muntos modelează întreaga ecologie și hidrologie a țării. Geografie K7 — plăci tectonice și relief."
     },
@@ -43,9 +42,8 @@ image: "/poi-images/cordillera-de-los-andes-relief-v2.webp"
       de: "Atacama-Wüste",
       hu: "Atacama-sivatag",
       ro: "Deșertul Atacama",
-      en: "Atacama Desert",
-image: "/poi-images/desierto-de-atacama-relief-v2.webp"
-},
+      en: "Atacama Desert"},
+    image: "/poi-images/desierto-de-atacama-relief-v2.webp",
     descriptionAdvanced: {
       ro: "Deșertul Atacama este cunoscut drept cel mai arid loc non-polar de pe Pământ, situat între Anzi și coasta Pacificului. Peisajul său este un amestec fascinant de câmpii saline, vulcani și dune, fiind un teren predilect pentru observarea astronomică datorită cerului extrem de limpede. Geologic, regiunea a suferit o ariditate extremă de milioane de ani, păstrând urme ale vieții și activității umane neatinse de factorii atmosferici uzuali. Deșertul nu este doar un peisaj spectaculos, ci și o resursă economică vitală prin depozitele sale imense de minerale (cupru, litiu, nitrați). Geografie K6 — ariditate și resurse minerale."
     },
@@ -75,9 +73,8 @@ image: "/poi-images/desierto-de-atacama-relief-v2.webp"
       de: "Zentrales Tal",
       hu: "Központi-völgy",
       ro: "Valea Centrală",
-      en: "Central Valley",
-image: "/poi-images/valle-central-relief-v2.webp"
-},
+      en: "Central Valley"},
+    image: "/poi-images/valle-central-relief-v2.webp",
     description: {
       de: "Die fruchtbare Senke zwischen den Anden und dem Küstengebirge, das landwirtschaftliche Herz Chiles.",
       hu: "Az Andok és a partmenti hegység közötti termékeny mélyedés, Chile mezőgazdasági szíve.",
@@ -111,9 +108,8 @@ image: "/poi-images/valle-central-relief-v2.webp"
       de: "Patagonische Fjorde",
       hu: "Patagóniai fjordok",
       ro: "Fiordurile patagoneze",
-      en: "Patagonian fjords",
-image: "/poi-images/fjorde-patagonien-relief-v2.webp"
-},
+      en: "Patagonian fjords"},
+    image: "/poi-images/fjorde-patagonien-relief-v2.webp",
     description: {
       de: "Die verzweigten Küstenlinien im Süden Chiles, geformt durch Gletscheraktivität und Meereserosion.",
       hu: "Dél-Chile elágazó partvonalai, amelyeket a gleccserek és a tenger eróziója alakított ki.",
@@ -148,9 +144,8 @@ image: "/poi-images/fjorde-patagonien-relief-v2.webp"
       de: "Osterinsel (Rapa Nui)",
       hu: "Húsvét-sziget (Rapa Nui)",
       ro: "Insula Paștelui (Rapa Nui)",
-      en: "Easter Island (Rapa Nui)",
-image: "/poi-images/isla-de-pascua-relief-v2.webp"
-},
+      en: "Easter Island (Rapa Nui)"},
+    image: "/poi-images/isla-de-pascua-relief-v2.webp",
     description: {
       de: "Eine abgelegene Vulkaninsel mitten im Pazifik, weltberühmt für ihre monumentalen Steinstatuen, die Moai.",
       hu: "Távoli vulkáni sziget a Csendes-óceán közepén, világhírű monumentális kőszobrairól, a moaikról.",
@@ -184,9 +179,8 @@ image: "/poi-images/isla-de-pascua-relief-v2.webp"
       de: "Pampa del Tamarugal",
       hu: "Pampa del Tamarugal",
       ro: "Pampa del Tamarugal",
-      en: "Pampa del Tamarugal",
-image: "/poi-images/pampa-del-tamargal-relief-v2.webp"
-},
+      en: "Pampa del Tamarugal"},
+    image: "/poi-images/pampa-del-tamargal-relief-v2.webp",
     description: {
       de: "Eine Hochlandwüste in Nordchile, bekannt für ihre Tamarugo-Bäume und archäologischen Schätze.",
       hu: "Magasföldi sivatag Észak-Chilében, amely a tamarugo fákról és régészeti kincseiről híres.",
@@ -220,9 +214,8 @@ image: "/poi-images/pampa-del-tamargal-relief-v2.webp"
       de: "Archipel Chiloé",
       hu: "Chiloé-szigetcsoport",
       ro: "Arhipelagul Chiloé",
-      en: "Chiloé Archipelago",
-image: "/poi-images/archipelago-de-chiloé-relief-v2.webp"
-},
+      en: "Chiloé Archipelago"},
+    image: "/poi-images/archipelago-de-chiloé-relief-v2.webp",
     description: {
       de: "Eine Inselgruppe im Süden Chiles, geprägt von ihrer einzigartigen Kultur, Architektur und maritimen Natur.",
       hu: "Szigetcsoport Chile déli részén, amelyet egyedülálló kultúrája, építészete és tengeri természete jellemez.",

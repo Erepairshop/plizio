@@ -5,9 +5,8 @@ export const spainReliefV2: POI[] = [
     id: "spain-sierra-nevada-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra Nevada", hu: "Sierra Nevada", ro: "Sierra Nevada", en: "Sierra Nevada",
-image: "/poi-images/spain-sierra-nevada-relief-v2.webp"
-},
+    name: { de: "Sierra Nevada", hu: "Sierra Nevada", ro: "Sierra Nevada", en: "Sierra Nevada"},
+    image: "/poi-images/spain-sierra-nevada-relief-v2.webp",
     coords: [-3.3, 37.1],
     coordinates: { lat: 37.1, lng: -3.3 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/spain-sierra-nevada-relief-v2.webp"
     id: "spain-pyrenees-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Pyrenäen", hu: "Pireneusok", ro: "Munții Pirinei", en: "Pyrenees",
-image: "/poi-images/spain-pyrenees-relief-v2.webp"
-},
+    name: { de: "Pyrenäen", hu: "Pireneusok", ro: "Munții Pirinei", en: "Pyrenees"},
+    image: "/poi-images/spain-pyrenees-relief-v2.webp",
     coords: [0.8, 42.6],
     coordinates: { lat: 42.6, lng: 0.8 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/spain-pyrenees-relief-v2.webp"
     id: "spain-meseta-central-relief-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Meseta Central", hu: "Központi-felföld", ro: "Podișul Central", en: "Meseta Central",
-image: "/poi-images/spain-meseta-central-relief-v2.webp"
-},
+    name: { de: "Meseta Central", hu: "Központi-felföld", ro: "Podișul Central", en: "Meseta Central"},
+    image: "/poi-images/spain-meseta-central-relief-v2.webp",
     coords: [-3.7, 40.5],
     coordinates: { lat: 40.5, lng: -3.7 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/spain-meseta-central-relief-v2.webp"
     id: "spain-sistema-central-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Zentralsystem", hu: "Központi-hegységrendszer", ro: "Sistemul Central", en: "Central System",
-image: "/poi-images/spain-sistema-central-relief-v2.webp"
-},
+    name: { de: "Zentralsystem", hu: "Központi-hegységrendszer", ro: "Sistemul Central", en: "Central System"},
+    image: "/poi-images/spain-sistema-central-relief-v2.webp",
     coords: [-5.2, 40.3],
     coordinates: { lat: 40.3, lng: -5.2 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/spain-sistema-central-relief-v2.webp"
     id: "spain-sistema-iberico-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Iberisches Gebirge", hu: "Ibériai-hegység", ro: "Sistemul Iberic", en: "Iberian System",
-image: "/poi-images/spain-sistema-iberico-relief-v2.webp"
-},
+    name: { de: "Iberisches Gebirge", hu: "Ibériai-hegység", ro: "Sistemul Iberic", en: "Iberian System"},
+    image: "/poi-images/spain-sistema-iberico-relief-v2.webp",
     coords: [-1.8, 41.1],
     coordinates: { lat: 41.1, lng: -1.8 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/spain-sistema-iberico-relief-v2.webp"
     id: "spain-cordillera-cantabrica-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Kantabrisches Gebirge", hu: "Kantábriai-hegység", ro: "Munții Cantabrici", en: "Cantabrian Mountains",
-image: "/poi-images/spain-cordillera-cantabrica-relief-v2.webp"
-},
+    name: { de: "Kantabrisches Gebirge", hu: "Kantábriai-hegység", ro: "Munții Cantabrici", en: "Cantabrian Mountains"},
+    image: "/poi-images/spain-cordillera-cantabrica-relief-v2.webp",
     coords: [-5.0, 43.0],
     coordinates: { lat: 43.0, lng: -5.0 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/spain-cordillera-cantabrica-relief-v2.webp"
     id: "spain-sierra-morena-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra Morena", hu: "Sierra Morena", ro: "Sierra Morena", en: "Sierra Morena",
-image: "/poi-images/spain-sierra-morena-relief-v2.webp"
-},
+    name: { de: "Sierra Morena", hu: "Sierra Morena", ro: "Sierra Morena", en: "Sierra Morena"},
+    image: "/poi-images/spain-sierra-morena-relief-v2.webp",
     coords: [-4.5, 38.3],
     coordinates: { lat: 38.3, lng: -4.5 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/spain-sierra-morena-relief-v2.webp"
     id: "spain-depresion-del-ebro-relief-v2",
     parent: "ES",
     type: "valley",
-    name: { de: "Ebro-Becken", hu: "Ebro-medence", ro: "Depresiunea Ebrului", en: "Ebro Basin",
-image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp"
-},
+    name: { de: "Ebro-Becken", hu: "Ebro-medence", ro: "Depresiunea Ebrului", en: "Ebro Basin"},
+    image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp",
     coords: [-0.8, 41.6],
     coordinates: { lat: 41.6, lng: -0.8 },
     description: {
@@ -281,7 +273,7 @@ image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp"
       hu: "Az Ebro-medence egy kiterjedt, markáns alföld az Ibériai-félsziget északkeleti részén, amely nagyjából háromszög alakú. Ezt a geológiai süllyedéket minden oldalról hatalmas hegyvonulatok veszik körül: északon a Pireneusok határolják, nyugaton és délen az Ibériai-hegység, keleten pedig a Katalán-partvidéki-hegység zárja el a medencét a Földközi-tengerhez való közvetlen hozzáféréstől. A harmadidőszak során ez a hatalmas mélyedés valójában egy sekély beltenger volt, amely évmilliók alatt lassan feltöltődött a folyami üledékek, elsősorban a fő folyó, az Ebro és annak mellékfolyói által szállított roppant mennyiségű hordalékkal. A környező hegyek árnyékoló hatása miatt a medencére erősen kontinentális és félsivatagi éghajlat jellemző, rendkívül kevés csapadékkal. A mesterséges öntözésnek köszönhetően egyébként nagyon termékeny mezőgazdasági övezet közepén fekszik a Bardenas Reales, egy lenyűgöző félsivatagi táj bizarr eróziós formákkal és szurdokokkal.",
       ro: "Depresiunea Ebrului este o câmpie vastă, distinctivă în nord-estul Peninsulei Iberice, care are o formă aproximativ triunghiulară. Această depresiune geologică este înconjurată pe toate părțile de lanțuri muntoase masive: la nord se învecinează cu Pirineii, la vest și la sud este mărginită de Sistemul Iberic, iar la est Munții Costieri Catalani izolează bazinul de accesul direct la Marea Mediterană. În timpul perioadei terțiare, această vastă depresiune a fost de fapt inundată de o mare interioară de mică adâncime, care s-a umplut lent de-a lungul a milioane de ani prin cantități uriașe de sedimente fluviale, transportate în principal de râul principal Ebru și de afluenții săi. Datorită efectului de ecranare al munților din jur, bazinul prezintă un climat puternic continental și semiarid, cu precipitații foarte reduse. În mijlocul zonei agricole, de altfel foarte fertile prin irigații artificiale, se află Bardenas Reales, un peisaj semideșertic fascinant, cu forme de eroziune și defilee bizare.",
       en: "",
-      en: "The Ebro Basin is a vast, distinctive lowland region in the northeast of the Iberian Peninsula that exhibits a roughly triangular shape. This immense geological depression is entirely enclosed by massive mountain ranges on all sides: it is bordered by the Pyrenees to the north, the Iberian System to the west and south, and the Catalan Coastal Range to the east, which completely blocks the basin from direct access to the Mediterranean Sea. During the Tertiary period, this enormous hollow was actually flooded by a shallow inland sea, which slowly filled up over millions of years with massive quantities of river sediments, primarily carried by the main Ebro river and its numerous tributaries. Due to the rain shadow effect created by the surrounding mountains, the basin experiences a highly continental and semi-arid climate with very low precipitation levels. Amidst the agricultural zone, which is otherwise rendered highly fertile through artificial irrigation, lies the Bardenas Reales, a fascinating semi-desert landscape featuring bizarre erosional forms and ravines."
+//       en: "The Ebro Basin is a vast, distinctive lowland region in the northeast of the Iberian Peninsula that exhibits a roughly triangular shape. This immense geological depression is entirely enclosed by massive mountain ranges on all sides: it is bordered by the Pyrenees to the north, the Iberian System to the west and south, and the Catalan Coastal Range to the east, which completely blocks the basin from direct access to the Mediterranean Sea. During the Tertiary period, this enormous hollow was actually flooded by a shallow inland sea, which slowly filled up over millions of years with massive quantities of river sediments, primarily carried by the main Ebro river and its numerous tributaries. Due to the rain shadow effect created by the surrounding mountains, the basin experiences a highly continental and semi-arid climate with very low precipitation levels. Amidst the agricultural zone, which is otherwise rendered highly fertile through artificial irrigation, lies the Bardenas Reales, a fascinating semi-desert landscape featuring bizarre erosional forms and ravines."
     },
     factsAdvanced: {
       de: ["The Ebro basin covers a vast triangular area of approximately 40,000 square kilometers.", "During the Oligocene and Miocene epochs, it was a large endorheic basin filled with a shallow inland sea.", "Average annual precipitation in the central basin is very low, often falling below 400 millimeters.", "The Ebro is Spain's most voluminous river, discharging heavily into the Mediterranean after breaking through the coastal range.", "The central part of the basin contains the Bardenas Reales, a recognized biosphere reserve consisting of clay, chalk, and sandstone.", "Sediment layers deposited by the river over millions of years reach thicknesses of several kilometers.", "Widespread modern irrigation networks have transformed parts of the arid basin into some of Europe's most productive agricultural land."],
@@ -294,9 +286,8 @@ image: "/poi-images/spain-depresion-del-ebro-relief-v2.webp"
     id: "spain-depresion-del-guadalquivir-relief-v2",
     parent: "ES",
     type: "valley",
-    name: { de: "Guadalquivir-Becken", hu: "Guadalquivir-medence", ro: "Depresiunea Guadalquivir", en: "Guadalquivir Basin",
-image: "/poi-images/spain-depresion-del-guadalquivir-relief-v2.webp"
-},
+    name: { de: "Guadalquivir-Becken", hu: "Guadalquivir-medence", ro: "Depresiunea Guadalquivir", en: "Guadalquivir Basin"},
+    image: "/poi-images/spain-depresion-del-guadalquivir-relief-v2.webp",
     coords: [-6.0, 37.4],
     coordinates: { lat: 37.4, lng: -6.0 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/spain-depresion-del-guadalquivir-relief-v2.webp"
     id: "spain-sierra-de-gredos-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra de Gredos", hu: "Sierra de Gredos", ro: "Sierra de Gredos", en: "Sierra de Gredos",
-image: "/poi-images/spain-sierra-de-gredos-relief-v2.webp"
-},
+    name: { de: "Sierra de Gredos", hu: "Sierra de Gredos", ro: "Sierra de Gredos", en: "Sierra de Gredos"},
+    image: "/poi-images/spain-sierra-de-gredos-relief-v2.webp",
     coords: [-5.25, 40.25],
     coordinates: { lat: 40.25, lng: -5.25 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/spain-sierra-de-gredos-relief-v2.webp"
     id: "spain-sierra-de-tramuntana-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra de Tramuntana", hu: "Sierra de Tramuntana", ro: "Sierra de Tramuntana", en: "Sierra de Tramuntana",
-image: "/poi-images/spain-sierra-de-tramuntana-relief-v2.webp"
-},
+    name: { de: "Sierra de Tramuntana", hu: "Sierra de Tramuntana", ro: "Sierra de Tramuntana", en: "Sierra de Tramuntana"},
+    image: "/poi-images/spain-sierra-de-tramuntana-relief-v2.webp",
     coords: [2.8, 39.8],
     coordinates: { lat: 39.8, lng: 2.8 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/spain-sierra-de-tramuntana-relief-v2.webp"
     id: "spain-moncayo-relief-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Moncayo", hu: "Moncayo", ro: "Moncayo", en: "Moncayo",
-image: "/poi-images/spain-moncayo-relief-v2.webp"
-},
+    name: { de: "Moncayo", hu: "Moncayo", ro: "Moncayo", en: "Moncayo"},
+    image: "/poi-images/spain-moncayo-relief-v2.webp",
     coords: [-1.83, 41.78],
     coordinates: { lat: 41.78, lng: -1.83 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/spain-moncayo-relief-v2.webp"
     id: "spain-cabo-de-gata-relief-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Cabo de Gata", hu: "Cabo de Gata", ro: "Cabo de Gata", en: "Cabo de Gata",
-image: "/poi-images/spain-cabo-de-gata-relief-v2.webp"
-},
+    name: { de: "Cabo de Gata", hu: "Cabo de Gata", ro: "Cabo de Gata", en: "Cabo de Gata"},
+    image: "/poi-images/spain-cabo-de-gata-relief-v2.webp",
     coords: [-2.2, 36.72],
     coordinates: { lat: 36.72, lng: -2.2 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/spain-cabo-de-gata-relief-v2.webp"
     id: "spain-sierra-de-cazorla-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra de Cazorla", hu: "Sierra de Cazorla", ro: "Sierra de Cazorla", en: "Sierra de Cazorla",
-image: "/poi-images/spain-sierra-de-cazorla-relief-v2.webp"
-},
+    name: { de: "Sierra de Cazorla", hu: "Sierra de Cazorla", ro: "Sierra de Cazorla", en: "Sierra de Cazorla"},
+    image: "/poi-images/spain-sierra-de-cazorla-relief-v2.webp",
     coords: [-2.9, 37.9],
     coordinates: { lat: 37.9, lng: -2.9 },
     description: {
@@ -509,9 +495,8 @@ image: "/poi-images/spain-sierra-de-cazorla-relief-v2.webp"
     id: "spain-montes-de-toledo-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Berge von Toledo", hu: "Toledói-hegyek", ro: "Munții Toledo", en: "Mountains of Toledo",
-image: "/poi-images/spain-montes-de-toledo-relief-v2.webp"
-},
+    name: { de: "Berge von Toledo", hu: "Toledói-hegyek", ro: "Munții Toledo", en: "Mountains of Toledo"},
+    image: "/poi-images/spain-montes-de-toledo-relief-v2.webp",
     coords: [-4.5, 39.5],
     coordinates: { lat: 39.5, lng: -4.5 },
     description: {
@@ -545,9 +530,8 @@ image: "/poi-images/spain-montes-de-toledo-relief-v2.webp"
     id: "spain-sierra-de-urbion-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra de Urbión", hu: "Sierra de Urbión", ro: "Sierra de Urbión", en: "Sierra de Urbión",
-image: "/poi-images/spain-sierra-de-urbion-relief-v2.webp"
-},
+    name: { de: "Sierra de Urbión", hu: "Sierra de Urbión", ro: "Sierra de Urbión", en: "Sierra de Urbión"},
+    image: "/poi-images/spain-sierra-de-urbion-relief-v2.webp",
     coords: [-2.85, 42.0],
     coordinates: { lat: 42.0, lng: -2.85 },
     description: {
@@ -581,9 +565,8 @@ image: "/poi-images/spain-sierra-de-urbion-relief-v2.webp"
     id: "spain-peñalara-relief-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Peñalara", hu: "Peñalara", ro: "Peñalara", en: "Peñalara",
-image: "/poi-images/spain-peñalara-relief-v2.webp"
-},
+    name: { de: "Peñalara", hu: "Peñalara", ro: "Peñalara", en: "Peñalara"},
+    image: "/poi-images/spain-peñalara-relief-v2.webp",
     coords: [-3.955, 40.851],
     coordinates: { lat: 40.851, lng: -3.955 },
     description: {
@@ -617,9 +600,8 @@ image: "/poi-images/spain-peñalara-relief-v2.webp"
     id: "spain-montes-de-leon-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Berge von León", hu: "Leóni-hegyek", ro: "Munții Leónului", en: "Mountains of León",
-image: "/poi-images/spain-montes-de-leon-relief-v2.webp"
-},
+    name: { de: "Berge von León", hu: "Leóni-hegyek", ro: "Munții Leónului", en: "Mountains of León"},
+    image: "/poi-images/spain-montes-de-leon-relief-v2.webp",
     coords: [-6.5, 42.4],
     coordinates: { lat: 42.4, lng: -6.5 },
     description: {
@@ -653,9 +635,8 @@ image: "/poi-images/spain-montes-de-leon-relief-v2.webp"
     id: "spain-aneto-relief-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Pico Aneto", hu: "Pico Aneto", ro: "Vârful Aneto", en: "Pico Aneto",
-image: "/poi-images/spain-aneto-relief-v2.webp"
-},
+    name: { de: "Pico Aneto", hu: "Pico Aneto", ro: "Vârful Aneto", en: "Pico Aneto"},
+    image: "/poi-images/spain-aneto-relief-v2.webp",
     coords: [0.657, 42.632],
     coordinates: { lat: 42.632, lng: 0.657 },
     description: {
@@ -689,9 +670,8 @@ image: "/poi-images/spain-aneto-relief-v2.webp"
     id: "spain-torre-de-cerredo-relief-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Torre de Cerredo", hu: "Torre de Cerredo", ro: "Torre de Cerredo", en: "Torre de Cerredo",
-image: "/poi-images/spain-torre-de-cerredo-relief-v2.webp"
-},
+    name: { de: "Torre de Cerredo", hu: "Torre de Cerredo", ro: "Torre de Cerredo", en: "Torre de Cerredo"},
+    image: "/poi-images/spain-torre-de-cerredo-relief-v2.webp",
     coords: [-4.851, 43.198],
     coordinates: { lat: 43.198, lng: -4.851 },
     description: {
@@ -725,9 +705,8 @@ image: "/poi-images/spain-torre-de-cerredo-relief-v2.webp"
     id: "spain-pico-almanzor-relief-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Pico Almanzor", hu: "Pico Almanzor", ro: "Pico Almanzor", en: "Pico Almanzor",
-image: "/poi-images/spain-pico-almanzor-relief-v2.webp"
-},
+    name: { de: "Pico Almanzor", hu: "Pico Almanzor", ro: "Pico Almanzor", en: "Pico Almanzor"},
+    image: "/poi-images/spain-pico-almanzor-relief-v2.webp",
     coords: [-5.298, 40.246],
     coordinates: { lat: 40.246, lng: -5.298 },
     description: {
@@ -761,9 +740,8 @@ image: "/poi-images/spain-pico-almanzor-relief-v2.webp"
     id: "spain-sierra-magina-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra Mágina", hu: "Sierra Mágina", ro: "Sierra Mágina", en: "Sierra Mágina",
-image: "/poi-images/spain-sierra-magina-relief-v2.webp"
-},
+    name: { de: "Sierra Mágina", hu: "Sierra Mágina", ro: "Sierra Mágina", en: "Sierra Mágina"},
+    image: "/poi-images/spain-sierra-magina-relief-v2.webp",
     coords: [-3.45, 37.7],
     coordinates: { lat: 37.7, lng: -3.45 },
     description: {
@@ -797,9 +775,8 @@ image: "/poi-images/spain-sierra-magina-relief-v2.webp"
     id: "spain-sierra-de-la-demanda-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra de la Demanda", hu: "Sierra de la Demanda", ro: "Sierra de la Demanda", en: "Sierra de la Demanda",
-image: "/poi-images/spain-sierra-de-la-demanda-relief-v2.webp"
-},
+    name: { de: "Sierra de la Demanda", hu: "Sierra de la Demanda", ro: "Sierra de la Demanda", en: "Sierra de la Demanda"},
+    image: "/poi-images/spain-sierra-de-la-demanda-relief-v2.webp",
     coords: [-3.1, 42.2],
     coordinates: { lat: 42.2, lng: -3.1 },
     description: {
@@ -834,9 +811,8 @@ image: "/poi-images/spain-sierra-de-la-demanda-relief-v2.webp"
     id: "spain-macizo-galaico-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Galicisches Massiv", hu: "Galiciai-masszívum", ro: "Masivul Galician", en: "Galician Massif",
-image: "/poi-images/spain-macizo-galaico-relief-v2.webp"
-},
+    name: { de: "Galicisches Massiv", hu: "Galiciai-masszívum", ro: "Masivul Galician", en: "Galician Massif"},
+    image: "/poi-images/spain-macizo-galaico-relief-v2.webp",
     coordinates: { lat: 42.6, lng: -7.8 },
     description: {
       de: "Ein altes Gebirgsmassiv im Nordwesten Spaniens, das durch sanfte Bergrücken und tiefe Flusstäler, die Rías, geprägt ist. Es besteht überwiegend aus Granit und Schiefer.",
@@ -868,9 +844,8 @@ image: "/poi-images/spain-macizo-galaico-relief-v2.webp"
     id: "spain-serrania-de-cuenca-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Serranía de Cuenca", hu: "Serranía de Cuenca", ro: "Serranía de Cuenca", en: "Serranía de Cuenca",
-image: "/poi-images/spain-serrania-de-cuenca-relief-v2.webp"
-},
+    name: { de: "Serranía de Cuenca", hu: "Serranía de Cuenca", ro: "Serranía de Cuenca", en: "Serranía de Cuenca"},
+    image: "/poi-images/spain-serrania-de-cuenca-relief-v2.webp",
     coordinates: { lat: 40.3, lng: -2.0 },
     description: {
       de: "Ein Gebirgszug im Osten Kastiliens, der für seine spektakulären Karstformationen und tiefen Schluchten bekannt ist. Er bildet einen Teil des Iberischen Systems.",
@@ -903,9 +878,8 @@ image: "/poi-images/spain-serrania-de-cuenca-relief-v2.webp"
     id: "spain-cordillera-costero-catalana-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Katalanisches Küstengebirge", hu: "Katalán-partvidéki-hegység", ro: "Cordillera Costero-Catalană", en: "Catalan Coastal Range",
-image: "/poi-images/spain-cordillera-costero-catalana-relief-v2.webp"
-},
+    name: { de: "Katalanisches Küstengebirge", hu: "Katalán-partvidéki-hegység", ro: "Cordillera Costero-Catalană", en: "Catalan Coastal Range"},
+    image: "/poi-images/spain-cordillera-costero-catalana-relief-v2.webp",
     coordinates: { lat: 41.5, lng: 1.5 },
     description: {
       de: "Ein System von Gebirgszügen, die parallel zur Mittelmeerküste in Katalonien verlaufen. Es trennt das katalanische Zentrabecken vom Meer.",
@@ -937,9 +911,8 @@ image: "/poi-images/spain-cordillera-costero-catalana-relief-v2.webp"
     id: "spain-montes-vascos-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Baskisches Gebirge", hu: "Baszk-hegység", ro: "Munții Basci", en: "Basque Mountains",
-image: "/poi-images/spain-montes-vascos-relief-v2.webp"
-},
+    name: { de: "Baskisches Gebirge", hu: "Baszk-hegység", ro: "Munții Basci", en: "Basque Mountains"},
+    image: "/poi-images/spain-montes-vascos-relief-v2.webp",
     coordinates: { lat: 43.1, lng: -2.4 },
     description: {
       de: "Ein Gebirgszug im Norden Spaniens, der den Übergang zwischen dem Kantabrischen Gebirge und den Pyrenäen bildet. Die Gipfel sind oft in Nebel gehüllt.",
@@ -972,9 +945,8 @@ image: "/poi-images/spain-montes-vascos-relief-v2.webp"
     id: "spain-sierra-de-albarracin-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Sierra de Albarracín", hu: "Sierra de Albarracín", ro: "Sierra de Albarracín", en: "Sierra de Albarracín",
-image: "/poi-images/spain-sierra-de-albarracin-relief-v2.webp"
-},
+    name: { de: "Sierra de Albarracín", hu: "Sierra de Albarracín", ro: "Sierra de Albarracín", en: "Sierra de Albarracín"},
+    image: "/poi-images/spain-sierra-de-albarracin-relief-v2.webp",
     coordinates: { lat: 40.4, lng: -1.6 },
     description: {
       de: "Ein Hochlandmassiv in der Region Aragonien, das Teil des südwestlichen Iberischen Systems ist. Es ist bekannt für sein raues Klima und dichte Kiefernwälder.",
@@ -1007,9 +979,8 @@ image: "/poi-images/spain-sierra-de-albarracin-relief-v2.webp"
     id: "spain-serrania-de-ronda-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Serranía de Ronda", hu: "Serranía de Ronda", ro: "Serranía de Ronda", en: "Serranía de Ronda",
-image: "/poi-images/spain-serrania-de-ronda-relief-v2.webp"
-},
+    name: { de: "Serranía de Ronda", hu: "Serranía de Ronda", ro: "Serranía de Ronda", en: "Serranía de Ronda"},
+    image: "/poi-images/spain-serrania-de-ronda-relief-v2.webp",
     coordinates: { lat: 36.7, lng: -5.1 },
     description: {
       de: "Eine zerklüftete Gebirgsregion in den Betischen Kordilleren Andalusiens. Sie ist berühmt für ihre steilen Abgründe und die typischen weißen Dörfer.",
@@ -1042,9 +1013,8 @@ image: "/poi-images/spain-serrania-de-ronda-relief-v2.webp"
     id: "spain-pre-pyrenees-relief-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Vorpyrenäen", hu: "Elő-Pireneusok", ro: "Prepirineii", en: "Pre-Pyrenees",
-image: "/poi-images/spain-pre-pyrenees-relief-v2.webp"
-},
+    name: { de: "Vorpyrenäen", hu: "Elő-Pireneusok", ro: "Prepirineii", en: "Pre-Pyrenees"},
+    image: "/poi-images/spain-pre-pyrenees-relief-v2.webp",
     coordinates: { lat: 42.3, lng: 1.0 },
     description: {
       de: "Die südliche Randzone der Pyrenäen, die den Übergang zum Ebrotal bildet. Sie besteht aus mehreren Gebirgsketten mit geringerer Höhe als die Zentralpyrenäen.",
@@ -1071,5 +1041,358 @@ image: "/poi-images/spain-pre-pyrenees-relief-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "spain-sierra-de-grazalema-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de Grazalema", hu: "Sierra de Grazalema", ro: "Sierra de Grazalema", en: "Sierra de Grazalema" },
+    coordinates: { lat: 36.75, lng: -5.36 },
+    description: {
+      de: "Dieses Kalksteingebirge in der Provinz Cádiz zeichnet sich durch hohe Niederschlagsmengen aus. Es ist ein Teil der Betischen Kordillere.",
+      hu: "A Cádiz tartományban található mészkőhegység jelentős csapadékmennyiségéről ismert. A Bétikai-hegyvidék része.",
+      ro: "Acest lanț muntos de calcar din provincia Cádiz este cunoscut pentru precipitațiile ridicate. Face parte din Cordiliera Betică.",
+      en: "This limestone mountain range in Cádiz province is known for high rainfall. It is part of the Baetic System.",
+    },
+    facts: {
+      de: ["Kalksteingebirge", "Betische Kordillere", "Hohe Niederschläge", "Provinz Cádiz"],
+      hu: ["Mészkőhegység", "Bétikai-hegyvidék", "Jelentős csapadék", "Cádiz tartomány"],
+      ro: ["Munți de calcar", "Cordiliera Betică", "Precipitații mari", "Provincia Cádiz"],
+      en: ["Limestone range", "Baetic System", "High rainfall", "Cádiz province"],
+    },
+    imageHint: "limestone peaks of Sierra de Grazalema",
+    descriptionAdvanced: {
+      de: "Die Sierra de Grazalema in der Provinz Cádiz, Andalusien, ist ein Kalksteinmassiv mit den höchsten Niederschlägen Spaniens. Der Naturpark umfasst 530 Quadratkilometer und ist bekannt für seine tiefen Schluchten, Höhlen und Wälder der Kork- und Portugiesischen Eiche. Der höchste Gipfel ist der Pico del Pinar mit 1.654 Metern. Das Gebiet ist ein Paradies für Wanderer und bietet eine vielfältige Vogelwelt, darunter den Gänsegeier. Die weißen Dörfer wie Grazalema sind malerisch.",
+      hu: "A Grazalema-hegység Cádiz tartományban, Andalúziában található, Spanyolország legcsapadékosabb területe. A természeti park 530 négyzetkilométer, mészkőhegység mély szurdokokkal, barlangokkal, paratölgy és portugál tölgy erdőkkel. Legmagasabb csúcsa a Pico del Pinar, 1.654 méter. Túrázók paradicsoma, gazdag madárvilág, többek között fakókeselyű. A fehér falvak, mint Grazalema, festőiek.",
+      ro: "Sierra de Grazalema din provincia Cádiz, Andaluzia, este un masiv calcaros cu cele mai mari precipitații din Spania. Parcul natural acoperă 530 km², cu chei adânci, peșteri și păduri de stejar de plută și stejar portughez. Cel mai înalt vârf este Pico del Pinar, la 1.654 m. Zonă ideală pentru drumeții, cu o avifaună diversă, inclusiv vulturul sur. Satele albe precum Grazalema sunt pitorești.",
+      en: "Sierra de Grazalema in Cádiz province is a limestone massif that receives the highest rainfall in Spain. The natural park covers 530 km², featuring deep gorges, caves, and cork oak forests. The highest peak is Pico del Pinar at 1,654 m. It is a haven for hikers and birdwatchers, with griffon vultures soaring above. The whitewashed villages like Grazalema are picturesque.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1977 als Biosphärenreservat anerkannt.", "Die jährliche Niederschlagsmenge beträgt bis zu 2.000 mm.", "Der höchste Gipfel ist der Pico del Pinar mit 1.654 Metern.", "Der Park umfasst 530 Quadratkilometer.", "Es gibt über 1.000 Höhlen im Gebiet.", "Die Korkeichenwälder bedecken 30% der Fläche."],
+      hu: ["A parkot 1977-ben bioszféra-rezervátummá nyilvánították.", "Az éves csapadékmennyiség eléri a 2.000 mm-t.", "A legmagasabb csúcs a Pico del Pinar, 1.654 méter.", "A park területe 530 négyzetkilométer.", "Több mint 1.000 barlang található a területen.", "A paratölgy erdők a terület 30%-át fedik le."],
+      ro: ["Parcul a fost recunoscut ca rezervație a biosferei în 1977.", "Precipitațiile anuale ating 2.000 mm.", "Cel mai înalt vârf este Pico del Pinar, la 1.654 m.", "Parcul acoperă 530 km².", "Există peste 1.000 de peșteri în zonă.", "Pădurile de stejar de plută acoperă 30% din suprafață."],
+      en: ["The park was designated a biosphere reserve in 1977.", "Annual rainfall reaches up to 2,000 mm.", "The highest peak is Pico del Pinar at 1,654 m.", "The park covers 530 square kilometers.", "There are over 1,000 caves in the area.", "Cork oak forests cover 30% of the area."],
+    },
+  },
+  {
+    id: "spain-picos-de-urbion-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Picos de Urbión", hu: "Picos de Urbión", ro: "Picos de Urbión", en: "Picos de Urbión" },
+    coordinates: { lat: 42.0, lng: -2.85 },
+    description: {
+      de: "Dieses Gebirgsmassiv markiert die Grenze zwischen den Provinzen Soria und Burgos. Hier entspringt der Fluss Duero.",
+      hu: "Ez a hegyvonulat Soria és Burgos tartományok határán fekszik. Itt ered a Duero folyó.",
+      ro: "Acest masiv muntos marchează granița dintre provinciile Soria și Burgos. Aici izvorăște râul Duero.",
+      en: "This mountain massif marks the border between Soria and Burgos provinces. The Duero River originates here.",
+    },
+    facts: {
+      de: ["Soria und Burgos", "Duero-Quelle", "Iberisches System", "Gletscherseen"],
+      hu: ["Soria és Burgos", "Duero-forrás", "Ibéria-hegyvidék", "Gleccsertavak"],
+      ro: ["Soria și Burgos", "Izvorul râului Duero", "Sistemul Iberic", "Lacuri glaciare"],
+      en: ["Soria and Burgos", "Duero source", "Iberian System", "Glacial lakes"],
+    },
+    imageHint: "mountain landscape Picos de Urbion",
+    descriptionAdvanced: {
+      de: "Die Picos de Urbión in der Region La Rioja und Kastilien-León sind ein Gebirgszug, der seinen Namen vom Gipfel Urbión (2.228 m) hat. Das Massiv besteht aus Sandstein und Konglomerat und ist von Gletscherseen umgeben. Die Wälder sind reich an Buchen und Kiefern. Das Gebiet ist ein wichtiges Jagdrevier für Rothirsche und Wildschweine. Der Naturpark Sierra de Urbión bietet zahlreiche Wanderwege. Die traditionelle Schafzucht prägt die Kulturlandschaft.",
+      hu: "A Picos de Urbión La Rioja és Kasztília-León határán húzódó hegység. Legmagasabb csúcsa az Urbión (2.228 m). Homokkőből és konglomerátumból áll, gleccsertavak veszik körül. Erdőkben bükk és fenyő található. Gímszarvas és vaddisznó él itt. A Sierra de Urbión természeti park túraútvonalakat kínál. A hagyományos juhtenyésztés formálja a tájat.",
+      ro: "Picos de Urbión, situat în La Rioja și Castilia-León, este un masiv muntos al cărui vârf Urbión atinge 2.228 m. Format din gresie și conglomerat, este înconjurat de lacuri glaciare. Pădurile de fag și pin domină. Fauna include cerb și mistreț. Parcul Natural Sierra de Urbión oferă trasee de drumeție. Creșterea tradițională a oilor marchează peisajul.",
+      en: "Picos de Urbión is a mountain range between La Rioja and Castile and León, with the highest peak Urbión at 2,228 m. Composed of sandstone and conglomerate, it features glacial lakes and beech-pine forests. Wildlife includes red deer and wild boar. The Sierra de Urbión Natural Park offers hiking trails. Traditional sheep farming shapes the cultural landscape.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel ist der Urbión mit 2.228 Metern.", "Das Massiv umfasst eine Fläche von 350 Quadratkilometern.", "Es gibt mehr als 20 Gletscherseen in der Region.", "Der Naturpark wurde 1997 eingerichtet.", "Die Buchenwälder sind bis zu 200 Jahre alt.", "Die durchschnittliche Höhe der Gipfel liegt bei 2.000 Metern."],
+      hu: ["A legmagasabb csúcs az Urbión, 2.228 méter.", "A hegység területe 350 négyzetkilométer.", "Több mint 20 gleccsertó található a régióban.", "A természeti parkot 1997-ben hozták létre.", "A bükkös erdők akár 200 évesek is lehetnek.", "A csúcsok átlagos magassága 2.000 méter."],
+      ro: ["Cel mai înalt vârf este Urbión, cu 2.228 de metri.", "Masivul acoperă 350 de kilometri pătrați.", "Peste 20 de lacuri glaciare există în regiune.", "Parcul natural a fost înființat în 1997.", "Pădurile de fag au până la 200 de ani vechime.", "Înălțimea medie a vârfurilor este de 2.000 de metri."],
+      en: ["The highest peak is Urbión at 2,228 meters.", "The massif covers 350 square kilometers.", "There are over 20 glacial lakes in the region.", "The natural park was established in 1997.", "Beech forests are up to 200 years old.", "The average peak height is 2,000 meters."],
+    },
+  },
+  {
+    id: "spain-sierra-de-las-nieves-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de las Nieves", hu: "Sierra de las Nieves", ro: "Sierra de las Nieves", en: "Sierra de las Nieves" },
+    coordinates: { lat: 36.65, lng: -5.0 },
+    description: {
+      de: "Ein Gebirgszug in der Provinz Málaga, der für seine komplexen Karstformationen bekannt ist. Die höchste Erhebung ist der Torrecilla.",
+      hu: "Málaga tartományi hegylánc, amely bonyolult karsztképződményeiről ismert. Legmagasabb pontja a Torrecilla.",
+      ro: "Un lanț muntos în provincia Málaga, cunoscut pentru formațiunile carstice complexe. Cel mai înalt punct este Torrecilla.",
+      en: "A mountain range in Málaga province known for complex karst formations. The highest peak is the Torrecilla.",
+    },
+    facts: {
+      de: ["Provinz Málaga", "Karstlandschaft", "Torrecilla-Gipfel", "Biosphärenreservat"],
+      hu: ["Málaga tartomány", "Karsztos táj", "Torrecilla-csúcs", "Bioszféra-rezervátum"],
+      ro: ["Provincia Málaga", "Peisaj carstic", "Vârful Torrecilla", "Rezervație a biosferei"],
+      en: ["Málaga province", "Karst landscape", "Torrecilla peak", "Biosphere reserve"],
+    },
+    imageHint: "karst peaks Sierra de las Nieves",
+    descriptionAdvanced: {
+      de: "Die Sierra de las Nieves in der Provinz Málaga, Andalusien, ist ein Kalksteinmassiv, das 1989 zum Naturpark erklärt wurde. Der höchste Gipfel ist der Torrecilla mit 1.919 Metern. Das Gebiet ist bekannt für seine spanischen Tannen (Pinsapo), eine Reliktart aus dem Tertiär. Die Landschaft umfasst tiefe Schluchten, Karstformationen und Höhlen. Der Park ist ein wichtiges Rückzugsgebiet für den Steinadler. Die Dörfer wie Monda bieten traditionelle andalusische Küche.",
+      hu: "A Sierra de las Nieves Málaga tartományban, Andalúziában található mészkőhegység. 1989-ben nyilvánították természeti parkká. Legmagasabb csúcsa a Torrecilla, 1.919 méter. Híres a spanyol jegenyefenyőről (Pinsapo), egy harmadidőszaki reliktum fajról. Mély szurdokok, karsztformációk és barlangok jellemzik. A szirti sas fontos élőhelye. A falvak, mint Monda, hagyományos andalúz konyhát kínálnak.",
+      ro: "Sierra de las Nieves din provincia Málaga, Andaluzia, este un masiv calcaros declarat parc natural în 1989. Cel mai înalt vârf este Torrecilla, la 1.919 m. Cunoscut pentru bradul spaniol (Pinsapo), o specie relicvă din Terțiar. Peisajul include chei adânci, formațiuni carstice și peșteri. Este un refugiu pentru acvila de munte. Satele precum Monda oferă bucătărie tradițională andaluză.",
+      en: "Sierra de las Nieves in Málaga province is a limestone massif declared a natural park in 1989. The highest peak is Torrecilla at 1,919 m. It is famous for the Spanish fir (Pinsapo), a Tertiary relict species. The landscape features deep gorges, karst formations, and caves. Golden eagles soar above. White villages like Monda offer traditional Andalusian cuisine.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1989 eingerichtet.", "Die Torrecilla ist 1.919 Meter hoch.", "Die Pinsapo-Bäume können 30 Meter hoch werden.", "Es gibt etwa 2.000 Hektar Pinsapo-Wälder.", "Die jährliche Niederschlagsmenge beträgt 1.000 mm.", "Der Park umfasst 180 Quadratkilometer."],
+      hu: ["A parkot 1989-ben hozták létre.", "A Torrecilla 1.919 méter magas.", "A Pinsapo fák akár 30 méter magasra is megnőhetnek.", "Körülbelül 2.000 hektár Pinsapo erdő található.", "Az éves csapadékmennyiség 1.000 mm.", "A park területe 180 négyzetkilométer."],
+      ro: ["Parcul a fost înființat în 1989.", "Vârful Torrecilla are 1.919 de metri.", "Brazil de Pinsapo pot atinge 30 de metri înălțime.", "Există aproximativ 2.000 de hectare de păduri de Pinsapo.", "Precipitațiile anuale sunt de 1.000 mm.", "Parcul acoperă 180 km²."],
+      en: ["The park was established in 1989.", "Torrecilla peak is 1,919 meters high.", "Pinsapo trees can grow up to 30 meters tall.", "There are about 2,000 hectares of Pinsapo forests.", "Annual rainfall is 1,000 mm.", "The park covers 180 square kilometers."],
+    },
+  },
+  {
+    id: "spain-macizo-de-penagolosa-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Penyagolosa", hu: "Penyagolosa", ro: "Penyagolosa", en: "Penyagolosa" },
+    coordinates: { lat: 40.23, lng: -0.35 },
+    description: {
+      de: "Dieser Berg im Iberischen System ist einer der höchsten Gipfel in der Region Valencia. Er besteht überwiegend aus Kalkstein.",
+      hu: "Az Ibéria-hegyvidék része, Valencia régió egyik legmagasabb csúcsa. Főleg mészkőből áll.",
+      ro: "Acest munte din Sistemul Iberic este unul dintre cele mai înalte vârfuri din regiunea Valencia. Este compus predominant din calcar.",
+      en: "This mountain in the Iberian System is one of the highest peaks in the Valencia region. It is composed primarily of limestone.",
+    },
+    facts: {
+      de: ["Iberisches System", "Region Valencia", "1815 Meter Höhe", "Kalksteingipfel"],
+      hu: ["Ibéria-hegyvidék", "Valencia régió", "1815 méter magas", "Mészkőcsúcs"],
+      ro: ["Sistemul Iberic", "Regiunea Valencia", "1815 metri înălțime", "Vârf de calcar"],
+      en: ["Iberian System", "Valencia region", "1815 meters high", "Limestone peak"],
+    },
+    imageHint: "Penyagolosa mountain peak",
+    descriptionAdvanced: {
+      de: "Der Penyagolosa in der Provinz Castellón, Valencianische Gemeinschaft, ist mit 1.813 Metern der höchste Gipfel der Provinz. Das Massiv ist ein beliebtes Ziel für Wanderer und Pilger, da der Gipfel ein Kreuz trägt. Die Umgebung ist geprägt von Kiefernwäldern und Kalksteinfelsen. Der Naturpark Penyagolosa umfasst 1.100 Hektar und beherbergt eine reiche Vogelwelt. Die traditionellen Dörfer wie Vistabella del Maestrazgo haben eine mittelalterliche Atmosphäre.",
+      hu: "A Penyagolosa Castellón tartományban, Valenciai Közösségben található, 1.813 méterével a tartomány legmagasabb csúcsa. Kedvelt túra- és zarándokhely, a csúcson kereszt áll. Környékét fenyvesek és mészkősziklák jellemzik. A Penyagolosa természeti park 1.100 hektáron terül el, gazdag madárvilággal. A hagyományos falvak, mint Vistabella del Maestrazgo, középkori hangulatúak.",
+      ro: "Penyagolosa din provincia Castellón, Comunitatea Valenciană, este cel mai înalt vârf al provinciei, cu 1.813 m. Masivul este popular pentru drumeții și pelerinaje, având o cruce pe vârf. Împrejurimile sunt dominate de păduri de pin și stânci calcaroase. Parcul Natural Penyagolosa acoperă 1.100 de hectare și găzduiește o avifaună bogată. Satele tradiționale precum Vistabella del Maestrazgo au o atmosferă medievală.",
+      en: "Penyagolosa in Castellón province is the tallest peak in the province at 1,813 m. The massif is a popular hiking and pilgrimage destination, topped with a cross. The area features pine forests and limestone cliffs. The Penyagolosa Natural Park covers 1,100 hectares and hosts diverse birdlife. Traditional villages like Vistabella del Maestrazgo retain a medieval charm.",
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel ist 1.813 Meter hoch.", "Der Naturpark wurde 2006 eingerichtet.", "Das Massiv bedeckt 1.100 Hektar.", "Die jährlichen Besucherzahlen übersteigen 50.000.", "Es gibt über 20 markierte Wanderwege.", "Die Temperatur am Gipfel kann im Winter -10°C erreichen."],
+      hu: ["A csúcs 1.813 méter magas.", "A természeti parkot 2006-ban hozták létre.", "A hegység területe 1.100 hektár.", "Az éves látogatók száma meghaladja az 50.000-et.", "Több mint 20 jelzett túraútvonal van.", "A csúcson a téli hőmérséklet -10°C is lehet."],
+      ro: ["Vârful are 1.813 metri.", "Parcul natural a fost înființat în 2006.", "Masivul acoperă 1.100 de hectare.", "Numărul anual de vizitatori depășește 50.000.", "Există peste 20 de trasee de drumeție marcate.", "Temperatura pe vârf poate atinge -10°C iarna."],
+      en: ["The peak is 1,813 meters high.", "The natural park was established in 2006.", "The massif covers 1,100 hectares.", "Annual visitors exceed 50,000.", "There are over 20 marked hiking trails.", "Winter temperatures on the peak can reach -10°C."],
+    },
+  },
+  {
+    id: "spain-sierra-de-ayllon-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de Ayllón", hu: "Sierra de Ayllón", ro: "Sierra de Ayllón", en: "Sierra de Ayllón" },
+    coordinates: { lat: 41.15, lng: -3.35 },
+    description: {
+      de: "Ein Gebirgszug im Zentralmassiv, der die Grenzen der Provinzen Guadalajara, Segovia und Madrid verbindet. Der Pico del Lobo ist der höchste Gipfel.",
+      hu: "A Központi-rendszer hegylánca, amely összeköti Guadalajara, Segovia és Madrid tartományokat. Legmagasabb pontja a Pico del Lobo.",
+      ro: "Un lanț muntos în Sistemul Central care leagă provinciile Guadalajara, Segovia și Madrid. Pico del Lobo este cel mai înalt vârf.",
+      en: "A mountain range in the Central System connecting the provinces of Guadalajara, Segovia, and Madrid. The Pico del Lobo is the highest peak.",
+    },
+    facts: {
+      de: ["Zentralmassiv", "Pico del Lobo", "Provinzgrenzen", "Eichenwälder"],
+      hu: ["Központi-rendszer", "Pico del Lobo", "Tartományi határok", "Tölgyesek"],
+      ro: ["Sistemul Central", "Pico del Lobo", "Granițe provinciale", "Păduri de stejar"],
+      en: ["Central System", "Pico del Lobo", "Provincial borders", "Oak forests"],
+    },
+    imageHint: "Sierra de Ayllon mountain range",
+    descriptionAdvanced: {
+      de: "Die Sierra de Ayllón liegt zwischen den Provinzen Guadalajara und Segovia in Kastilien-La Mancha und Kastilien-León. Der höchste Gipfel ist der Pico del Lobo mit 2.272 Metern. Das Gebirge besteht aus Granit und wird von Hochmooren und Wäldern aus Eichen und Buchen dominiert. Es ist ein wichtiges Wassereinzugsgebiet für den Fluss Sorbe. Der Naturpark Sierra de Ayllón bietet Lebensraum für Wölfe und Rehe. Die traditionelle Viehzucht prägt die Wirtschaft.",
+      hu: "A Sierra de Ayllón Guadalajara és Segovia tartományokban található Kasztília-La Mancha és Kasztília-León határán. Legmagasabb csúcsa a Pico del Lobo, 2.272 méter. Gránitból áll, fennsíkok, tölgy- és bükkerdők jellemzik. A Sorbe folyó vízgyűjtője. A természeti parkban farkasok és őzek élnek. A hagyományos állattartás meghatározó.",
+      ro: "Sierra de Ayllón se întinde între provinciile Guadalajara și Segovia, în Castilia-La Mancha și Castilia-León. Cel mai înalt vârf este Pico del Lobo, la 2.272 m. Format din granit, cu mlaștini și păduri de stejar și fag. Bazinul hidrografic al râului Sorbe. Parcul Natural Sierra de Ayllón adăpostește lupi și căprioare. Creșterea animalelor este tradițională.",
+      en: "Sierra de Ayllón spans Guadalajara and Segovia provinces in central Spain. The highest peak is Pico del Lobo at 2,272 m. The range is granite, with high moors, oak and beech forests. It is a key watershed for the Sorbe River. The natural park hosts wolves and deer. Traditional livestock farming is central to the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Der Pico del Lobo ist 2.272 Meter hoch.", "Der Naturpark wurde 2011 eingerichtet.", "Die durchschnittliche Höhe der Gipfel beträgt 1.800 Meter.", "Es gibt über 150 Vogelarten im Park.", "Die Region erhält jährlich 1.200 mm Niederschlag.", "Die Fläche des Parks beträgt 320 Quadratkilometer."],
+      hu: ["A Pico del Lobo 2.272 méter magas.", "A természeti parkot 2011-ben hozták létre.", "A csúcsok átlagos magassága 1.800 méter.", "Több mint 150 madárfaj található a parkban.", "A régió éves csapadékmennyisége 1.200 mm.", "A park területe 320 négyzetkilométer."],
+      ro: ["Pico del Lobo are 2.272 de metri.", "Parcul natural a fost înființat în 2011.", "Înălțimea medie a vârfurilor este de 1.800 de metri.", "Peste 150 de specii de păsări există în parc.", "Regiunea primește 1.200 mm precipitații anual.", "Parcul are o suprafață de 320 km²."],
+      en: ["Pico del Lobo is 2,272 meters high.", "The natural park was established in 2011.", "The average peak height is 1,800 meters.", "Over 150 bird species are found in the park.", "The region receives 1,200 mm of precipitation annually.", "The park has an area of 320 square kilometers."],
+    },
+  },
+  {
+    id: "spain-sierra-de-la-cabrera-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de la Cabrera", hu: "Sierra de la Cabrera", ro: "Sierra de la Cabrera", en: "Sierra de la Cabrera" },
+    coordinates: { lat: 40.85, lng: -3.6 },
+    description: {
+      de: "Ein Granitgebirge im nördlichen Teil der Autonomen Gemeinschaft Madrid. Es ist Teil des Zentralmassivs.",
+      hu: "Gránithegység Madrid autonóm közösség északi részén. A Központi-rendszer része.",
+      ro: "Un lanț muntos de granit în partea de nord a Comunității Autonome Madrid. Face parte din Sistemul Central.",
+      en: "A granite mountain range in the northern part of the Community of Madrid. It is part of the Central System.",
+    },
+    facts: {
+      de: ["Granit", "Madrid", "Zentralmassiv", "Klettergebiet"],
+      hu: ["Gránit", "Madrid", "Központi-rendszer", "Mászóhely"],
+      ro: ["Granit", "Madrid", "Sistemul Central", "Zona de cățărare"],
+      en: ["Granite", "Madrid", "Central System", "Climbing area"],
+    },
+    imageHint: "granite peaks Sierra de la Cabrera",
+    descriptionAdvanced: {
+      de: "Die Sierra de la Cabrera in der Provinz León, Kastilien-León, ist ein isoliertes Bergmassiv. Der höchste Gipfel ist der Cancho Largo mit 2.002 Metern. Das Gebiet besteht aus Schiefer und Quarzit und ist von Steineichenwäldern und Heidekraut bedeckt. Es ist ein wichtiges Rückzugsgebiet für den Iberischen Wolf. Der Naturpark Sierra de la Cabrera umfasst 400 Quadratkilometer und bietet Wanderungen durch eine abgeschiedene Landschaft.",
+      hu: "A Sierra de la Cabrera León tartományban, Kasztília-Leónban található, egy elszigetelt hegycsoport. Legmagasabb csúcsa a Cancho Largo, 2.002 méter. Pala és kvarcit alkotja, paratölgyesek és hangafélék borítják. Az ibériai farkas fontos élőhelye. A természeti park 400 négyzetkilométeren fekszik, elszigetelt tájat kínál túrázásra.",
+      ro: "Sierra de la Cabrera în provincia León, Castilia-León, este un masiv muntos izolat. Cel mai înalt vârf este Cancho Largo, cu 2.002 m. Format din șist și cuarțit, acoperit de păduri de stejar de plută și mărăciniș. Este un refugiu pentru lupul iberic. Parcul Natural Sierra de la Cabrera se întinde pe 400 km², oferind drumeții prin peisaje izolate.",
+      en: "Sierra de la Cabrera in León province is an isolated mountain massif. The highest peak is Cancho Largo at 2,002 m. The bedrock is slate and quartzite, covered by cork oak and heathland. It is a stronghold for the Iberian wolf. The natural park covers 400 km², offering hikes through a remote, pristine landscape.",
+    },
+    factsAdvanced: {
+      de: ["Der Cancho Largo ist 2.002 Meter hoch.", "Der Park wurde 1990 eingerichtet.", "Das Massiv umfasst 400 Quadratkilometer.", "Die Wolfspopulation wird auf 50 Tiere geschätzt.", "Die jährliche Niederschlagsmenge beträgt 800 mm.", "Es gibt 90 Vogelarten im Park."],
+      hu: ["A Cancho Largo 2.002 méter magas.", "A parkot 1990-ben hozták létre.", "A hegység területe 400 négyzetkilométer.", "A farkas populációt 50 egyedre becsülik.", "Az éves csapadékmennyiség 800 mm.", "90 madárfaj él a parkban."],
+      ro: ["Cancho Largo are 2.002 metri.", "Parcul a fost înființat în 1990.", "Masivul acoperă 400 km².", "Populația de lupi este estimată la 50 de exemplare.", "Precipitațiile anuale sunt de 800 mm.", "Există 90 de specii de păsări în parc."],
+      en: ["Cancho Largo is 2,002 meters high.", "The park was established in 1990.", "The massif covers 400 square kilometers.", "The wolf population is estimated at 50 animals.", "Annual rainfall is 800 mm.", "There are 90 bird species in the park."],
+    },
+  },
+  {
+    id: "spain-sierra-de-alcaraz-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de Alcaraz", hu: "Sierra de Alcaraz", ro: "Sierra de Alcaraz", en: "Sierra de Alcaraz" },
+    coordinates: { lat: 38.65, lng: -2.5 },
+    description: {
+      de: "Diese Gebirgskette in der Provinz Albacete ist ein wichtiger Teil des Iberischen Systems. Sie zeichnet sich durch raue Kalksteinformationen aus.",
+      hu: "Ez az Albacete tartományi hegylánc az Ibéria-hegyvidék fontos része. Durva mészkőképződmények jellemzik.",
+      ro: "Acest lanț muntos din provincia Albacete este o parte importantă a Sistemului Iberic. Se remarcă prin formațiuni de calcar accidentate.",
+      en: "This mountain range in Albacete province is an important part of the Iberian System. It is characterized by rugged limestone formations.",
+    },
+    facts: {
+      de: ["Provinz Albacete", "Iberisches System", "Kalkstein", "Wandergebiet"],
+      hu: ["Albacete tartomány", "Ibéria-hegyvidék", "Mészkő", "Túrázóhely"],
+      ro: ["Provincia Albacete", "Sistemul Iberic", "Calcar", "Zona de drumeții"],
+      en: ["Albacete province", "Iberian System", "Limestone", "Hiking area"],
+    },
+    imageHint: "rugged landscape Sierra de Alcaraz",
+    descriptionAdvanced: {
+      de: "Die Sierra de Alcaraz in der Provinz Albacete, Kastilien-La Mancha, ist ein Kalksteinmassiv mit dem höchsten Gipfel Pico de Almenara (1.843 m). Das Gebiet ist Teil der Serranía de Alcaraz und bekannt für seine Pinien- und Eichenwälder. Die Landschaft ist geprägt von Schluchten und Flüssen. Der Naturpark bietet Lebensraum für Wildkatzen und Mufflons. Die Region ist traditionell landwirtschaftlich geprägt mit Oliven- und Getreideanbau.",
+      hu: "A Sierra de Alcaraz Albacete tartományban, Kasztília-La Manchában található mészkőhegység. Legmagasabb csúcsa a Pico de Almenara, 1.843 méter. A Serranía de Alcaraz része, fenyő- és tölgyerdőkkel. Szurdokok és folyók jellemzik. A természeti park vadmacskáknak és muflonoknak ad otthont. Hagyományosan mezőgazdasági terület olajbogyó- és gabonatermesztéssel.",
+      ro: "Sierra de Alcaraz în provincia Albacete, Castilia-La Mancha, este un masiv calcaros cu cel mai înalt vârf Pico de Almenara (1.843 m). Face parte din Serranía de Alcaraz, cu păduri de pin și stejar. Peisajul include chei și râuri. Parcul natural găzduiește pisici sălbatice și mufloni. Regiunea este agricolă, cu culturi de măsline și cereale.",
+      en: "Sierra de Alcaraz in Albacete province is a limestone massif, part of the Serranía de Alcaraz. Its highest peak is Pico de Almenara at 1,843 m. Forests of pine and oak cover the slopes, dissected by gorges and rivers. The natural park hosts wildcats and mouflons. The local economy is based on olives and cereals.",
+    },
+    factsAdvanced: {
+      de: ["Der Pico de Almenara ist 1.843 Meter hoch.", "Der Naturpark wurde 2000 eingerichtet.", "Die maximale Höhe des Parks beträgt 1.843 Meter.", "Es gibt über 100 Vogelarten.", "Die jährliche Niederschlagsmenge beträgt 600 mm.", "Die Fläche des Parks umfasst 120 Quadratkilometer."],
+      hu: ["A Pico de Almenara 1.843 méter magas.", "A természeti parkot 2000-ben hozták létre.", "A park legmagasabb pontja 1.843 méter.", "Több mint 100 madárfaj él itt.", "Az éves csapadékmennyiség 600 mm.", "A park területe 120 négyzetkilométer."],
+      ro: ["Pico de Almenara are 1.843 de metri.", "Parcul natural a fost înființat în 2000.", "Altitudinea maximă a parcului este de 1.843 de metri.", "Peste 100 de specii de păsări există.", "Precipitațiile anuale sunt de 600 mm.", "Parcul acoperă o suprafață de 120 km²."],
+      en: ["Pico de Almenara is 1,843 meters high.", "The natural park was established in 2000.", "The maximum altitude of the park is 1,843 meters.", "Over 100 bird species are found.", "Annual rainfall is 600 mm.", "The park covers an area of 120 square kilometers."],
+    },
+  },
+  {
+    id: "spain-sierra-de-gata-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de Gata", hu: "Sierra de Gata", ro: "Sierra de Gata", en: "Sierra de Gata" },
+    coordinates: { lat: 40.23, lng: -6.65 },
+    description: {
+      de: "Ein Gebirgszug im Nordwesten der Provinz Cáceres an der Grenze zu Portugal. Die Landschaft ist geprägt von Schiefergestein.",
+      hu: "Hegylánc Cáceres tartomány északnyugati részén, Portugália határán. A tájat agyagpala jellemzi.",
+      ro: "Un lanț muntos în nord-vestul provinciei Cáceres, la granița cu Portugalia. Peisajul este caracterizat de șisturi.",
+      en: "A mountain range in the northwest of Cáceres province on the border with Portugal. The landscape is characterized by shale rock.",
+    },
+    facts: {
+      de: ["Provinz Cáceres", "Grenze zu Portugal", "Schiefer", "Naturpark"],
+      hu: ["Cáceres tartomány", "Portugál határ", "Agyagpala", "Natúrpark"],
+      ro: ["Provincia Cáceres", "Granița cu Portugalia", "Șist", "Parc natural"],
+      en: ["Cáceres province", "Border with Portugal", "Shale", "Natural park"],
+    },
+    imageHint: "Sierra de Gata mountains landscape",
+    descriptionAdvanced: {
+      de: "Die Sierra de Gata in der Provinz Cáceres, Extremadura, ist ein Gebirgszug mit dem höchsten Gipfel La Hastiala (1.192 m). Das Gebiet besteht aus Granit und Schiefer und ist von Steineichen- und Korkeichenwäldern bedeckt. Bekannt ist die Region für ihre Dörfer mit traditioneller Architektur. Der Naturpark Sierra de Gata umfasst 150 Quadratkilometer und ist ein Rückzugsgebiet für den Schwarzstorch. Die lokale Wirtschaft basiert auf Olivenöl und Viehzucht.",
+      hu: "A Sierra de Gata Cáceres tartományban, Extremadurában található hegység. Legmagasabb csúcsa a La Hastiala, 1.192 méter. Gránitból és palából áll, paratölgyesek borítják. A falvak hagyományos építészetükről híresek. A természeti park 150 négyzetkilométer, a fekete gólya élőhelye. A gazdaságot az olívaolaj és állattenyésztés jellemzi.",
+      ro: "Sierra de Gata în provincia Cáceres, Extremadura, este un lanț muntos cu cel mai înalt vârf La Hastiala (1.192 m). Format din granit și șist, acoperit de păduri de stejar de plută. Satele au arhitectură tradițională. Parcul Natural Sierra de Gata se întinde pe 150 km², adăpostind barza neagră. Economia se bazează pe ulei de măsline și creșterea animalelor.",
+      en: "Sierra de Gata in Cáceres province, Extremadura, is a mountain range with the highest peak La Hastiala at 1,192 m. Composed of granite and slate, it is covered with cork oak forests. The villages boast traditional architecture. The natural park covers 150 km² and is a refuge for the black stork. The local economy relies on olive oil and livestock.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel ist La Hastiala mit 1.192 Metern.", "Der Park wurde 1997 eingerichtet.", "Die Fläche des Parks beträgt 150 Quadratkilometer.", "Der Schwarzstorch hat eine Population von 10 Paaren.", "Die jährliche Niederschlagsmenge beträgt 1.100 mm.", "Es gibt 20 Dörfer im Parkgebiet."],
+      hu: ["A legmagasabb csúcs a La Hastiala, 1.192 méter.", "A parkot 1997-ben hozták létre.", "A park területe 150 négyzetkilométer.", "A fekete gólya populációja 10 pár.", "Az éves csapadékmennyiség 1.100 mm.", "20 falu található a park területén."],
+      ro: ["Cel mai înalt vârf este La Hastiala, cu 1.192 de metri.", "Parcul a fost înființat în 1997.", "Parcul acoperă 150 km².", "Populația de barză neagră este de 10 perechi.", "Precipitațiile anuale sunt de 1.100 mm.", "Există 20 de sate în aria parcului."],
+      en: ["The highest peak is La Hastiala at 1,192 meters.", "The park was established in 1997.", "The park covers 150 square kilometers.", "The black stork population is 10 pairs.", "Annual rainfall is 1,100 mm.", "There are 20 villages within the park area."],
+    },
+  },
+  {
+    id: "spain-sierra-de-segura-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de Segura", hu: "Sierra de Segura", ro: "Sierra de Segura", en: "Sierra de Segura" },
+    coordinates: { lat: 38.3, lng: -2.6 },
+    description: {
+      de: "Teil des Gebirgssystems Cazorla, Segura und Las Villas in der Provinz Jaén. Es ist eines der größten Schutzgebiete Spaniens.",
+      hu: "A Jaén tartománybeli Cazorla, Segura és Las Villas hegyrendszer része. Spanyolország egyik legnagyobb védett területe.",
+      ro: "Parte a sistemului montan Cazorla, Segura și Las Villas din provincia Jaén. Este una dintre cele mai mari zone protejate din Spania.",
+      en: "Part of the Cazorla, Segura and Las Villas mountain system in Jaén province. It is one of the largest protected areas in Spain.",
+    },
+    facts: {
+      de: ["Provinz Jaén", "Schutzgebiet", "Kalkstein", "Flussquellen"],
+      hu: ["Jaén tartomány", "Védett terület", "Mészkő", "Folyóforrások"],
+      ro: ["Provincia Jaén", "Arie protejată", "Calcar", "Izvoare de râu"],
+      en: ["Jaén province", "Protected area", "Limestone", "River sources"],
+    },
+    imageHint: "landscape of Sierra de Segura",
+    descriptionAdvanced: {
+      de: "Die Sierra de Segura in der Provinz Jaén, Andalusien, ist ein Kalksteinmassiv mit dem Gipfel Las Villas (1.831 m). Das Gebirge ist Teil der Cordillera Subbética und bekannt für seine Olivenhaine und Pinienwälder. Der Naturpark Sierra de Segura umfasst 500 Quadratkilometer und ist Lebensraum für den Steinadler. Die Region ist berühmt für ihr Olivenöl aus der Sorte Picual. Die traditionelle Architektur der Dörfer ist geprägt von weißen Häusern.",
+      hu: "A Sierra de Segura Jaén tartományban, Andalúziában található mészkőhegység. Legmagasabb csúcsa a Las Villas, 1.831 méter. A Cordillera Subbética része, olajfaligetek és fenyvesek jellemzik. A természeti park 500 négyzetkilométer, a szirti sas élőhelye. A régió híres a Picual olajbogyó fajtából készült olívaolajáról. A falvak fehér házai hagyományosak.",
+      ro: "Sierra de Segura în provincia Jaén, Andaluzia, este un masiv calcaros cu vârful Las Villas (1.831 m). Face parte din Cordillera Subbética, cu livezi de măslini și păduri de pin. Parcul Natural Sierra de Segura acoperă 500 km², adăpostind acvila de munte. Regiunea este renumită pentru uleiul de măsline din soiul Picual. Satele au case albe tradiționale.",
+      en: "Sierra de Segura in Jaén province is a limestone massif, part of the Cordillera Subbética, with the highest peak Las Villas at 1,831 m. Olive groves and pine forests dominate. The natural park covers 500 km², home to golden eagles. The area is famous for Picual olive oil. Whitewashed villages reflect traditional Andalusian architecture.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel ist Las Villas mit 1.831 Metern.", "Der Naturpark wurde 1998 eingerichtet.", "Die Fläche beträgt 500 Quadratkilometer.", "Die Olivenproduktion erreicht 100.000 Tonnen jährlich.", "Es gibt 150 Vogelarten im Park.", "Die durchschnittliche Höhe liegt bei 1.000 Metern."],
+      hu: ["A legmagasabb csúcs a Las Villas, 1.831 méter.", "A természeti parkot 1998-ban hozták létre.", "Területe 500 négyzetkilométer.", "Az olíva termelés eléri a 100.000 tonnát évente.", "150 madárfaj él a parkban.", "Az átlagos magasság 1.000 méter."],
+      ro: ["Cel mai înalt vârf este Las Villas, la 1.831 de metri.", "Parcul natural a fost înființat în 1998.", "Suprafața este de 500 km².", "Producția de măsline ajunge la 100.000 de tone anual.", "Există 150 de specii de păsări în parc.", "Altitudinea medie este de 1.000 de metri."],
+      en: ["The highest peak is Las Villas at 1,831 meters.", "The natural park was established in 1998.", "The area is 500 square kilometers.", "Olive production reaches 100,000 tons annually.", "There are 150 bird species in the park.", "The average elevation is 1,000 meters."],
+    },
+  },
+  {
+    id: "spain-sierra-de-oropesa-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra de Oropesa", hu: "Sierra de Oropesa", ro: "Sierra de Oropesa", en: "Sierra de Oropesa" },
+    coordinates: { lat: 39.98, lng: -5.15 },
+    description: {
+      de: "Eine sanfte Gebirgskette in der Provinz Toledo. Sie trennt das Becken des Tajo von den Montes de Toledo.",
+      hu: "Szelíd hegylánc Toledo tartományban. Elválasztja a Tajo-medencét a Montes de Toledo-tól.",
+      ro: "Un lanț muntos domol în provincia Toledo. Acesta separă bazinul râului Tajo de Montes de Toledo.",
+      en: "A gentle mountain range in Toledo province. It separates the Tagus basin from the Montes de Toledo.",
+    },
+    facts: {
+      de: ["Provinz Toledo", "Tajo-Becken", "Montes de Toledo", "Sanfte Landschaft"],
+      hu: ["Toledo tartomány", "Tajo-medence", "Montes de Toledo", "Szelíd táj"],
+      ro: ["Provincia Toledo", "Bazinul Tajo", "Montes de Toledo", "Peisaj domol"],
+      en: ["Toledo province", "Tagus basin", "Montes de Toledo", "Gentle landscape"],
+    },
+    imageHint: "Sierra de Oropesa landscape",
+    descriptionAdvanced: {
+      de: "Die Sierra de Oropesa in der Provinz Toledo, Kastilien-La Mancha, ist ein kleines Gebirge mit dem höchsten Gipfel Cerro de la Higuera (1.120 m). Das Gebiet besteht aus Granit und wird von Kiefernwäldern und Macchia bedeckt. Der Naturpark Sierra de Oropesa umfasst 250 Quadratkilometer und ist ein wichtiger Lebensraum für Wildschweine und Füchse. Die Region ist historisch bedeutsam durch die Burg von Oropesa.",
+      hu: "A Sierra de Oropesa Toledo tartományban, Kasztília-La Manchában található kis hegység. Legmagasabb csúcsa a Cerro de la Higuera, 1.120 méter. Gránitból áll, fenyvesek és macchia borítják. A természeti park 250 négyzetkilométer, vaddisznóknak és rókáknak ad otthont. A régió történelmi jelentősége az oropesai vár.",
+      ro: "Sierra de Oropesa în provincia Toledo, Castilia-La Mancha, este un mic lanț muntos cu cel mai înalt vârf Cerro de la Higuera (1.120 m). Format din granit, acoperit de păduri de pin și macchie. Parcul Natural Sierra de Oropesa se întinde pe 250 km², adăpostind mistreți și vulpi. Regiunea are importanță istorică datorită castelului Oropesa.",
+      en: "Sierra de Oropesa in Toledo province is a small mountain range with the highest peak Cerro de la Higuera at 1,120 m. Granite bedrock supports pine forests and Mediterranean scrub. The natural park covers 250 km², home to wild boar and foxes. The area is historically notable for the Castle of Oropesa.",
+    },
+    factsAdvanced: {
+      de: ["Der Cerro de la Higuera ist 1.120 Meter hoch.", "Der Park wurde 1995 eingerichtet.", "Die Fläche beträgt 250 Quadratkilometer.", "Die Burg von Oropesa stammt aus dem 15. Jahrhundert.", "Es gibt 80 Vogelarten im Park.", "Die jährliche Niederschlagsmenge beträgt 500 mm."],
+      hu: ["A Cerro de la Higuera 1.120 méter magas.", "A parkot 1995-ben hozták létre.", "Területe 250 négyzetkilométer.", "Az oropesai vár a 15. századból származik.", "80 madárfaj él a parkban.", "Az éves csapadékmennyiség 500 mm."],
+      ro: ["Cerro de la Higuera are 1.120 de metri.", "Parcul a fost înființat în 1995.", "Suprafața este de 250 km².", "Castelul Oropesa datează din secolul al XV-lea.", "Există 80 de specii de păsări în parc.", "Precipitațiile anuale sunt de 500 mm."],
+      en: ["Cerro de la Higuera is 1,120 meters high.", "The park was established in 1995.", "The area is 250 square kilometers.", "The Castle of Oropesa dates from the 15th century.", "There are 80 bird species in the park.", "Annual rainfall is 500 mm."],
+    },
+  },
+  {
+    id: "spain-sierra-de-sierra-nevada-peaks-relief-v2",
+    type: "mountain",
+    parent: "ES",
+    name: { de: "Sierra Nevada Gipfel", hu: "Sierra Nevada csúcsai", ro: "Vârfurile Sierra Nevada", en: "Sierra Nevada Peaks" },
+    coordinates: { lat: 37.05, lng: -3.32 },
+    description: {
+      de: "Eine Ansammlung hochalpiner Gipfel in der Sierra Nevada, darunter Mulhacén und Veleta. Dies sind die höchsten Erhebungen des spanischen Festlands.",
+      hu: "Magas alpesi csúcsok csoportja a Sierra Nevadában, beleértve a Mulhacén-t és a Veleta-t. Ezek a spanyol szárazföld legmagasabb pontjai.",
+      ro: "Un grup de vârfuri alpine înalte în Sierra Nevada, inclusiv Mulhacén și Veleta. Acestea sunt cele mai înalte puncte din Spania continentală.",
+      en: "A cluster of high alpine peaks in the Sierra Nevada, including Mulhacén and Veleta. These are the highest elevations on the Spanish mainland.",
+    },
+    facts: {
+      de: ["Sierra Nevada", "Mulhacén", "Veleta", "Höchste Gipfel Spaniens"],
+      hu: ["Sierra Nevada", "Mulhacén", "Veleta", "Spanyolország legmagasabb csúcsai"],
+      ro: ["Sierra Nevada", "Mulhacén", "Veleta", "Cele mai înalte vârfuri din Spania"],
+      en: ["Sierra Nevada", "Mulhacén", "Veleta", "Highest peaks in Spain"],
+    },
+    imageHint: "snowy alpine peaks Sierra Nevada",
+    descriptionAdvanced: {
+      de: "Die Sierra Nevada in Andalusien ist ein Hochgebirge mit den höchsten Gipfeln des spanischen Festlands: Mulhacén (3.479 m) und Veleta (3.396 m). Der Nationalpark Sierra Nevada umfasst 860 Quadratkilometer und ist ein UNESCO-Biosphärenreservat. Die Gipfel sind über 3.000 Meter hoch und bieten eine alpine Umgebung mit Gletscherseen. Die Flora umfasst endemische Arten wie die Sierra-Nevada-Milchstern. Der Wintersport ist bedeutend, ebenso wie die astronomische Forschung auf dem Observatorium.",
+      hu: "A Sierra Nevada Andalúziában a legmagasabb hegység a szárazföldi Spanyolországban. Legmagasabb csúcsai a Mulhacén (3.479 m) és a Veleta (3.396 m). A nemzeti park 860 négyzetkilométer, UNESCO bioszféra-rezervátum. A 3000 méter feletti csúcsok gleccsertavakkal rendelkeznek. Endemikus növényvilág, például a Sierra Nevada-i sáfrány. Téli sportok és csillagászati obszervatórium.",
+      ro: "Sierra Nevada din Andaluzia este cel mai înalt lanț muntos din Spania continentală, cu vârfurile Mulhacén (3.479 m) și Veleta (3.396 m). Parcul Național Sierra Nevada acoperă 860 km² și este rezervație a biosferei UNESCO. Vârfurile de peste 3.000 m au lacuri glaciare. Flora include specii endemice precum crocusul Sierra Nevada. Sporturi de iarnă și observator astronomic.",
+      en: "Sierra Nevada in Andalusia is the highest mountain range in mainland Spain, with peaks Mulhacén (3,479 m) and Veleta (3,396 m). The national park covers 860 km² and is a UNESCO Biosphere Reserve. The highest peaks exceed 3,000 m, featuring glacial lakes. Endemic flora includes the Sierra Nevada crocus. Winter sports and astronomical observatories are prominent.",
+    },
+    factsAdvanced: {
+      de: ["Der Mulhacén ist mit 3.479 Metern der höchste Gipfel des spanischen Festlands.", "Der Nationalpark wurde 1999 eingerichtet.", "Die Fläche beträgt 860 Quadratkilometer.", "Es gibt 20 Gletscherseen über 3.000 Metern.", "Die Bergkette beherbergt 2.100 Pflanzenarten.", "Das Observatorium Sierra Nevada liegt auf 2.896 Metern."],
+      hu: ["A Mulhacén 3.479 méterével a szárazföldi Spanyolország legmagasabb csúcsa.", "A nemzeti parkot 1999-ben hozták létre.", "Területe 860 négyzetkilométer.", "20 gleccsertó található 3.000 méter felett.", "A hegység 2.100 növényfajnak ad otthont.", "A Sierra Nevada Obszervatórium 2.896 méteren található."],
+      ro: ["Mulhacén, cu 3.479 de metri, este cel mai înalt vârf din Spania continentală.", "Parcul național a fost înființat în 1999.", "Suprafața este de 860 km².", "Există 20 de lacuri glaciare peste 3.000 de metri.", "Lanțul muntos găzduiește 2.100 de specii de plante.", "Observatorul Sierra Nevada este situat la 2.896 de metri."],
+      en: ["Mulhacén at 3,479 m is the highest peak in mainland Spain.", "The national park was established in 1999.", "The area is 860 square kilometers.", "There are 20 glacial lakes above 3,000 meters.", "The range hosts 2,100 plant species.", "The Sierra Nevada Observatory is located at 2,896 meters."],
+    },
   }
 ];

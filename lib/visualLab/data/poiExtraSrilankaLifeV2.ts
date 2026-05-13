@@ -6,301 +6,539 @@ export const poiExtraSrilankaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "LK-32",
     coords: [81.7167, 6.5500],
-    name: { de: "Kumana-Nationalpark", hu: "Kumana Nemzeti Park", ro: "Parcul Național Kumana", en: "Kumana National Park",
-image: "/poi-images/kumana-national-park-life-v2.webp"
-},
+    name: { de: "Kumana-Nationalpark", hu: "Kumana Nemzeti Park", ro: "Parcul Național Kumana", en: "Kumana National Park"},
+    image: "/poi-images/kumana-national-park-life-v2.webp",
     description: { de: "Ein Nationalpark, der für sein bedeutendes Vogelschutzgebiet bekannt ist.", hu: "Egy nemzeti park, amely jelentős madárrezervátumáról ismert.", ro: "Un parc național cunoscut pentru sanctuarul său important de păsări.", en: "A national park known for its important bird sanctuary." },
     facts: {
       de: ["Bedeutender Nistplatz für Vögel", "Heimat von Leoparden und Elefanten", "Liegt an der Ostküste"],
       hu: ["Jelentős fészkelőhely a madaraknak", "Leopárdok és elefántok otthona", "A keleti parton fekszik"],
       ro: ["Zonă importantă de cuibărit pentru păsări", "Adăpostește leoparzi și elefanți", "Situat pe coasta de est"],
       en: ["Important nesting site for birds", "Home to leopards and elephants", "Located on the east coast"]
-    }, image: "/poi-images/kumana-national-park-life-v2.webp"},
+    }, image: "/poi-images/kumana-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kumana Nationalpark, früher Yala East genannt, liegt an der Südostküste Sri Lankas. Er ist bekannt für seine Vogelvielfalt, mit über 255 Arten, darunter der seltene Sri-Lanka-Drossel. Der Park umfasst Lagunen, Mangroven und Trockenwälder. Er ist Lebensraum für Elefanten, Leoparden und Wasserbüffel. Der beste Besuch ist von Mai bis September. Der Park ist weniger überlaufen als der benachbarte Yala-Nationalpark. Der Kumana-See ist ein wichtiger Zufluchtsort für Zugvögel.",
+      hu: "A Kumana Nemzeti Park (korábban Yala East) Srí Lanka délkeleti partján fekszik. Híres madárvilágáról, több mint 255 fajjal, köztük a ritka Srí Lanka-i rigóval. Lápos területek, mangrove- és száraz erdők jellemzik. Elefántok, leopárdok és vízibivalyok élőhelye. Legjobb idő: május–szeptember. Kevesebb turista jár ide, mint a szomszédos Yalába. A Kumana-tó fontos vonulómadár-élőhely.",
+      ro: "Parcul Național Kumana (fost Yala East) este situat pe coasta de sud-est a Sri Lankai. Renumit pentru diversitatea păsărilor, cu peste 255 de specii, inclusiv sturzul din Sri Lanka. Include lagune, mangrove și păduri uscate. Habitat pentru elefanți, leoparzi și bivoli. Cel mai bine de vizitat din mai până în septembrie. Mai puțin aglomerat decât Yala. Lacul Kumana este un refugiu important pentru păsările migratoare.",
+      en: "Kumana National Park, formerly known as Yala East, is located on Sri Lanka's southeast coast. It is renowned for its rich avian biodiversity, with over 255 recorded bird species, including the rare Sri Lanka thrush. The park features lagoons, mangrove swamps, and dry deciduous forests. It hosts Asian elephants, leopards, and water buffalo. The best time to visit is May–September. Compared to neighboring Yala, it is less crowded. Kumana Lake is critical for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 181 km².", "Gegründet als Nationalpark im Jahr 1984.", "Vogelarten: über 255.", "Säugetierarten: über 30.", "Lage: angrenzend an den Yala-Nationalpark im Osten.", "Der Kumana-See bedeckt etwa 200 Hektar."],
+      hu: ["Területe: 181 km².", "1984-ben nyilvánították nemzeti parkká.", "Madárfajok: több mint 255.", "Emlősfajok: több mint 30.", "Yala Nemzeti Parkkal határos keletről.", "A Kumana-tó kb. 200 hektár."],
+      ro: ["Suprafață: 181 km².", "Desemnat parc național în 1984.", "Specii de păsări: peste 255.", "Specii de mamifere: peste 30.", "Învecinat cu Parcul Național Yala la est.", "Lacul Kumana se întinde pe aproximativ 200 de hectare."],
+      en: ["Area: 181 km² (70 sq miles).", "Designated as a national park in 1984.", "Bird species: over 255 recorded.", "Mammal species: over 30.", "Borders Yala National Park to the east.", "Kumana Lake covers approximately 200 hectares (494 acres)."],
+    },
+  },
   {
     id: "lunugamvehera-national-park-life-v2",
     type: "wildlife-area",
     parent: "LK-82",
     coords: [81.2000, 6.4333],
-    name: { de: "Lunugamvehera-Nationalpark", hu: "Lunugamvehera Nemzeti Park", ro: "Parcul Național Lunugamvehera", en: "Lunugamvehera National Park",
-image: "/poi-images/lunugamvehera-national-park-life-v2.webp"
-},
+    name: { de: "Lunugamvehera-Nationalpark", hu: "Lunugamvehera Nemzeti Park", ro: "Parcul Național Lunugamvehera", en: "Lunugamvehera National Park"},
+    image: "/poi-images/lunugamvehera-national-park-life-v2.webp",
     description: { de: "Ein Schutzgebiet für Elefanten, das als Korridor zwischen Yala und Udawalawe dient.", hu: "Elefántok menedékhelye, amely folyosóként szolgál Yala és Udawalawe között.", ro: "Un sanctuar pentru elefanți care servește drept coridor între Yala și Udawalawe.", en: "An elephant sanctuary serving as a corridor between Yala and Udawalawe." },
     facts: {
       de: ["Wichtiger Elefantenkorridor", "Schützt das Einzugsgebiet des Stausees", "Reiche Vogelwelt und Hirsche"],
       hu: ["Fontos elefántfolyosó", "Védi a víztározó vízgyűjtő területét", "Gazdag madárvilág és szarvasok"],
       ro: ["Coridor important pentru elefanți", "Protejează bazinul de recepție al lacului", "Faună bogată de păsări și cerbi"],
       en: ["Important elephant corridor", "Protects the reservoir catchment area", "Rich birdlife and deer"]
-    }, image: "/poi-images/lunugamvehera-national-park-life-v2.webp"},
+    }, image: "/poi-images/lunugamvehera-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lunugamvehera-Nationalpark im Südosten Sri Lankas wurde am 8. Dezember 1995 ausgewiesen und erstreckt sich über 235 Quadratkilometer. Er dient als wichtiger Korridor zwischen dem Yala-Nationalpark und dem Udawalawe-Nationalpark und ermöglicht die Wanderung von Elefanten. Das trockene Monsunklima prägt die Vegetation mit offenen Wäldern und Grasflächen. Der Park beherbergt eine vielfältige Fauna, darunter endemische Vogelarten wie den Sri-Lanka-Zwergfischer. Die Wasserstellen entlang des Lunugamvehera-Stausees ziehen besonders in der Trockenzeit zahlreiche Tiere an. Besucher können Leoparden, Bären und Wasserbüffel beobachten. Der Park ist weniger frequentiert als andere Nationalparks und bietet daher eine ruhigere Safari-Erfahrung.",
+      hu: "A Lunugamvehera Nemzeti Park Srí Lanka délkeleti részén található, 235 négyzetkilométeren terül el. 1995-ben alapították, hogy összekötőként szolgáljon a Yala és az Udawalawe nemzeti parkok között, lehetővé téve az elefántok vándorlását. A parkot száraz monszun éghajlat jellemzi, nyílt erdőkkel és füves pusztákkal. A Lunugamvehera-tározó fontos vízforrás, amely vonzza az állatokat. A park kevésbé ismert a turisták körében, így csendesebb szafarikat kínál. Gyakori látnivalók a szarvasok, medvék és számos madárfaj. A terület fontos szerepet játszik az elefántok védelmében és a biodiverzitás megőrzésében.",
+      ro: "Parcul Național Lunugamvehera, situat în sud-estul Sri Lankăi, a fost înființat pe 8 decembrie 1995 și acoperă o suprafață de 235 km pătrați. Acesta servește ca un coridor ecologic vital între Parcurile Naționale Yala și Udawalawe, facilitând migrația elefanților. Clima este de monson uscat, cu păduri deschise și pajiști. Rezervorul Lunugamvehera oferă apă pe tot parcursul anului, atrăgând o faună diversă, inclusiv leoparzi, urși leneși și bivoli sălbatici. Parcul este mai puțin vizitat, oferind o experiență de safari liniștită. Peste 200 de specii de păsări au fost înregistrate, inclusiv endemicul pescăruș de Sri Lanka.",
+      en: "Lunugamvehera National Park, established on December 8, 1995, spans 235 km² in southeastern Sri Lanka. It functions as a critical wildlife corridor between Yala and Udawalawe National Parks, particularly for elephant migration. The park’s dry monsoon climate supports open forests and grasslands. The Lunugamvehera reservoir is a key water source, sustaining rich biodiversity. The park hosts over 200 bird species, including the endemic Sri Lanka kingfisher. Mammals include leopards, sloth bears, and water buffalo. Due to lower visitor numbers, it offers a tranquil safari experience. The park also contributes to the conservation of the endangered Sri Lankan elephant.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet am 8. Dezember 1995.", "Fläche: 235 km².", "Niederschlag: ca. 1250 mm jährlich.", "Höchste Erhebung: ca. 150 m über dem Meeresspiegel.", "Elefantenpopulation: schätzungsweise 50-100 Individuen.", "Anzahl der Vogelarten: über 200."],
+      hu: ["1995. december 8-án alapították.", "Területe 235 négyzetkilométer.", "Éves csapadékmennyiség körülbelül 1250 mm.", "Legmagasabb pontja kb. 150 méter tengerszint felett.", "Az elefántpopuláció becslések szerint 50-100 egyed.", "Több mint 200 madárfaj található a parkban."],
+      ro: ["Înființat pe 8 decembrie 1995.", "Suprafață: 235 km².", "Precipitații anuale: circa 1250 mm.", "Altitudine maximă: aprox. 150 m deasupra nivelului mării.", "Populația de elefanți: estimată între 50 și 100 de indivizi.", "Peste 200 de specii de păsări înregistrate."],
+      en: ["Established on December 8, 1995.", "Area: 235 km².", "Annual rainfall: about 1250 mm.", "Highest elevation: approximately 150 m above sea level.", "Elephant population: estimated 50-100 individuals.", "Over 200 bird species recorded."],
+    },
+  },
   {
     id: "maduru-oya-national-park-life-v2",
     type: "wildlife-area",
     parent: "LK-71",
     coords: [81.1667, 7.5000],
-    name: { de: "Maduru-Oya-Nationalpark", hu: "Maduru Oya Nemzeti Park", ro: "Parcul Național Maduru Oya", en: "Maduru Oya National Park",
-image: "/poi-images/maduru-oya-national-park-life-v2.webp"
-},
+    name: { de: "Maduru-Oya-Nationalpark", hu: "Maduru Oya Nemzeti Park", ro: "Parcul Național Maduru Oya", en: "Maduru Oya National Park"},
+    image: "/poi-images/maduru-oya-national-park-life-v2.webp",
     description: { de: "Ein Park mit reicher Tierwelt und alten buddhistischen Ruinen in der Nähe des Stausees.", hu: "Gazdag vadvilággal és ősi buddhista romokkal rendelkező park a víztározó közelében.", ro: "Un parc cu faună bogată și ruine budiste antice lângă lacul de acumulare.", en: "A park with rich wildlife and ancient Buddhist ruins near the reservoir." },
     facts: {
       de: ["Beherbergt viele asiatische Elefanten", "Alte buddhistische Schreine", "Staudamm aus dem 3. Jahrhundert"],
       hu: ["Sok ázsiai elefántnak ad otthont", "Ősi buddhista szentélyek", "3. századi gát található itt"],
       ro: ["Găzduiește mulți elefanți asiatici", "Altare budiste antice", "Baraj datând din secolul al III-lea"],
       en: ["Home to many Asian elephants", "Ancient Buddhist shrines", "Features a 3rd-century dam"]
-    }, image: "/poi-images/maduru-oya-national-park-life-v2.webp"},
+    }, image: "/poi-images/maduru-oya-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Maduru-Oya-Nationalpark wurde 1983 gegründet und erstreckt sich über 588 Quadratkilometer in der Trockenzone Sri Lankas. Er schützt ein wichtiges Einzugsgebiet des Maduru-Oya-Flusses und umfasst verschiedene Ökosysteme wie Savannen, Wälder und Stauseen. Der Park ist bekannt für seine Elefantenpopulation und bietet Lebensraum für endemische Arten wie den Sri-Lanka-Leoparden. Historische Stätten innerhalb des Parks, wie Ruinen alter Klöster, zeugen von der frühen Zivilisation. Die Vegetation besteht hauptsächlich aus trockener immergrüner Wald und Gestrüpp. Der Maduru-Oya-Stausee dient der Bewässerung und unterstützt die Tierwelt. Besucher können Wildtiere wie Bären, Hirsche und verschiedene Vogelarten beobachten.",
+      hu: "A Maduru Oya Nemzeti Parkot 1983-ban hozták létre, területe 588 négyzetkilométer Srí Lanka száraz zónájában. A park védi a Maduru Oya folyó vízgyűjtő területét és változatos élőhelyeket kínál, beleértve szavannákat, erdőket és tározókat. Különösen híres az elefántpopulációjáról, valamint számos endemikus fajnak ad otthont. A park területén több ősi régészeti lelőhely található, mint például kolostorromok. A tájat száraz örökzöld erdő és bozótos jellemzi. A Maduru Oya tározó létfontosságú a mezőgazdaság és a vadon élő állatok számára. Látogatók gyakran találkoznak medvékkel, szarvasokkal és számos madárral.",
+      ro: "Parcul Național Maduru Oya a fost înființat în 1983 și acoperă 588 km² în zona uscată a Sri Lankăi. Scopul său principal este protejarea bazinului hidrografic al râului Maduru Oya. Ecosistemele includ savane, păduri tropicale uscate și rezervoare. Parcul este renumit pentru populația sa de elefanți și pentru leopardul din Sri Lanka. Siturile istorice, cum ar fi ruinele mănăstirilor antice, reflectă o civilizație veche. Vegetația predominantă este pădurea tropicală uscată. Rezervorul Maduru Oya sprijină irigațiile și fauna locală. Vizitatorii pot observa urși leneși, cerbi și peste 150 de specii de păsări.",
+      en: "Maduru Oya National Park, established in 1983, covers 588 km² in Sri Lanka’s dry zone. It protects the catchment of the Maduru Oya River and features diverse ecosystems including savanna, dry evergreen forests, and reservoirs. The park is known for its elephant population and is home to the Sri Lankan leopard. Archaeological remains, such as ancient monastery ruins, indicate early settlement. The dry evergreen forest and scrubland dominate the landscape. The Maduru Oya reservoir supports irrigation and wildlife. Common sightings include sloth bears, sambar deer, and numerous bird species. The park also hosts the rare and endemic red slender loris.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1983.", "Fläche: 588 km².", "Höchster Punkt: ca. 300 m.", "Jährliche Niederschlagsmenge: 1200-1500 mm.", "Elefantenpopulation: ca. 100-200 Tiere.", "Anzahl der endemischen Pflanzenarten: 32."],
+      hu: ["Alapítás éve: 1983.", "Terület: 588 km².", "Legmagasabb pont: kb. 300 méter.", "Éves csapadék: 1200-1500 mm.", "Elefántok száma: körülbelül 100-200 egyed.", "Endemikus növényfajok száma: 32."],
+      ro: ["Înființat în 1983.", "Suprafață: 588 km².", "Altitudine maximă: aproximativ 300 m.", "Precipitații anuale: 1200-1500 mm.", "Populația de elefanți: aproximativ 100-200 de indivizi.", "Numărul de specii de plante endemice: 32."],
+      en: ["Established in 1983.", "Area: 588 km².", "Highest elevation: about 300 m.", "Annual rainfall: 1200-1500 mm.", "Elephant population: approximately 100-200 individuals.", "Number of endemic plant species: 32."],
+    },
+  },
   {
     id: "pigeon-island-national-park-life-v2",
     type: "wildlife-area",
     parent: "LK-51",
     coords: [81.2333, 8.7167],
-    name: { de: "Pigeon-Island-Nationalpark", hu: "Galamb-sziget Nemzeti Park", ro: "Parcul Național Insula Porumbelului", en: "Pigeon Island National Park",
-image: "/poi-images/pigeon-island-national-park-life-v2.webp"
-},
+    name: { de: "Pigeon-Island-Nationalpark", hu: "Galamb-sziget Nemzeti Park", ro: "Parcul Național Insula Porumbelului", en: "Pigeon Island National Park"},
+    image: "/poi-images/pigeon-island-national-park-life-v2.webp",
     description: { de: "Einer der beiden marinen Nationalparks, berühmt für seine Korallenriffe und Schwarzspitzen-Riffhaie.", hu: "A két tengeri nemzeti park egyike, amely korallzátonyairól és feketeúszójú szirticápáiról híres.", ro: "Unul dintre cele două parcuri naționale marine, faimos pentru recifele sale de corali și rechinii de recif.", en: "One of the two marine national parks, famous for its coral reefs and blacktip reef sharks." },
     facts: {
       de: ["Beliebtes Ziel zum Schnorcheln", "Heimat von Riffhaien", "Benannt nach der Felsentaube"],
       hu: ["Népszerű sznorkelezési célpont", "Szirticápák otthona", "A szirti galambról kapta nevét"],
       ro: ["Destinație populară pentru snorkeling", "Găzduiește rechini de recif", "Numit după porumbelul de stâncă"],
       en: ["Popular destination for snorkeling", "Home to blacktip reef sharks", "Named after the rock pigeon"]
-    }, image: "/poi-images/pigeon-island-national-park-life-v2.webp"},
+    }, image: "/poi-images/pigeon-island-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pigeon-Island-Nationalpark umfasst zwei Inseln vor der Küste von Trincomalee im Osten Sri Lankas und wurde 2003 als Naturschutzgebiet ausgewiesen. Er ist bekannt für seine artenreichen Korallenriffe und als Brutstätte für die gefährdete Eiltaube. Das klare Wasser bietet hervorragende Bedingungen zum Schnorcheln und Tauchen. Die Inseln bestehen aus Granitfelsen mit spärlicher Vegetation. Die Korallenriffe beherbergen über 100 Fischarten und verschiedene Hartkorallen. Der Park ist durch Überfischung und Tourismus bedroht, weshalb Schutzmaßnahmen ergriffen werden. Besucher können Schildkröten, Rochen und bunte Fischschwärme beobachten.",
+      hu: "A Pigeon Island Nemzeti Park két szigetből áll Trincomalee partjainál, Srí Lanka keleti részén. 2003-ban nyilvánították védett területté. Híres gazdag korallzátonyairól és a veszélyeztetett sziklai galamb fészkelőhelyéről. A kristálytiszta víz kiválóan alkalmas sznorkelezésre és búvárkodásra. A szigetek gránitból állnak, kevés növényzettel. A korallzátonyok több mint 100 halfajnak és különféle keménykoralloknak adnak otthont. A parkot a túlhalászás és a turizmus veszélyezteti, ezért védelmi intézkedések vannak érvényben. Látogatók teknősökkel, rájákkal és színes halrajokkal találkozhatnak.",
+      ro: "Parcul Național Pigeon Island cuprinde două insule în largul coastei Trincomalee, estul Sri Lankăi, fiind desemnat în 2003. Este renumit pentru recifele de corali diverse și ca loc de cuibărit pentru porumbelul de stâncă, o specie amenințată. Apele limpezi oferă condiții excelente pentru snorkeling și scufundări. Insulele sunt formate din granit, cu vegetație redusă. Recifele găzduiesc peste 100 de specii de pești și corali duri. Parcul este amenințat de pescuitul excesiv și turism, necesitând măsuri de conservare. Vizitatorii pot observa țestoase, raze și bancuri de pești colorați.",
+      en: "Pigeon Island National Park, designated in 2003, consists of two islands off the coast of Trincomalee in eastern Sri Lanka. It is renowned for its rich coral reefs and as a nesting site for the endangered rock pigeon. The clear waters are ideal for snorkeling and diving. The islands are granite outcrops with sparse vegetation. The reefs host over 100 fish species and various hard corals. Threats include overfishing and tourism pressure, leading to conservation efforts. Visitors can see sea turtles, rays, and colorful fish. The park was named after the rock pigeon, once a major nesting population here.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebiet seit 2003.", "Gesamtfläche: ca. 4,7 km² (inkl. Marinebereich).", "Anzahl der Korallenarten: über 80.", "Fischarten: mehr als 100.", "Brutpaare der Eiltaube: schätzungsweise 1000.", "Wassertiefe: bis zu 15 m."],
+      hu: ["Védetté nyilvánítva 2003-ban.", "Teljes terület: kb. 4,7 km² (tengeri területtel együtt).", "Korallfajok száma: több mint 80.", "Halfajok: több mint 100.", "Sziklai galamb fészkelő párok: kb. 1000.", "Vízmélység: maximum 15 méter."],
+      ro: ["Desemnat în 2003.", "Suprafață totală: aprox. 4,7 km² (inclusiv zona marină).", "Specii de corali: peste 80.", "Specii de pești: peste 100.", "Cupluri de porumbei de stâncă: estimate la 1000.", "Adâncimea apei: până la 15 m."],
+      en: ["Designated in 2003.", "Total area: approx. 4.7 km² (including marine zone).", "Coral species: over 80.", "Fish species: more than 100.", "Rock pigeon nesting pairs: estimated 1000.", "Water depth: up to 15 m."],
+    },
+  },
   {
     id: "hikkaduwa-national-park-life-v2",
     type: "wildlife-area",
     parent: "LK-31",
     coords: [80.0964, 6.1367],
-    name: { de: "Hikkaduwa-Nationalpark", hu: "Hikkaduwa Nemzeti Park", ro: "Parcul Național Hikkaduwa", en: "Hikkaduwa National Park",
-image: "/poi-images/hikkaduwa-national-park-life-v2.webp"
-},
+    name: { de: "Hikkaduwa-Nationalpark", hu: "Hikkaduwa Nemzeti Park", ro: "Parcul Național Hikkaduwa", en: "Hikkaduwa National Park"},
+    image: "/poi-images/hikkaduwa-national-park-life-v2.webp",
     description: { de: "Ein mariner Nationalpark im Südwesten, der für sein flaches Korallenriff und Meeresschildkröten bekannt ist.", hu: "Délnyugati tengeri nemzeti park, amely sekély korallzátonyáról és tengeri teknőseiről ismert.", ro: "Un parc național marin în sud-vest, cunoscut pentru reciful său de corali puțin adânc și țestoasele marine.", en: "A marine national park in the southwest known for its shallow coral reef and sea turtles." },
     facts: {
       de: ["Schützt empfindliche Korallenriffe", "Begegnungen mit Meeresschildkröten", "Fahrten mit dem Glasbodenboot"],
       hu: ["Érzékeny korallzátonyokat véd", "Találkozások tengeri teknősökkel", "Üvegfenekű hajótúrák elérhetők"],
       ro: ["Protejează recifele de corali fragile", "Întâlniri cu țestoase marine", "Plimbări cu barca cu fund de sticlă"],
       en: ["Protects fragile coral reefs", "Encounters with sea turtles", "Glass-bottom boat rides available"]
-    }, image: "/poi-images/hikkaduwa-national-park-life-v2.webp"},
+    }, image: "/poi-images/hikkaduwa-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hikkaduwa-Nationalpark an der Südwestküste Sri Lankas wurde 2002 als Meeresschutzgebiet eingerichtet. Er erstreckt sich über etwa 1,5 Quadratkilometer entlang der Küste und schützt ein Korallenriff mit hoher Biodiversität. Das Riff ist bei Tauchern und Schnorchlern beliebt und beherbergt Meeresschildkröten, Riffe und über 60 Fischarten. Der Park ist durch Verschmutzung, Sedimentation und Tourismus belastet; Maßnahmen zur Wiederherstellung der Korallen wurden ergriffen. Die Korallenriffe bestehen hauptsächlich aus Acropora-Arten. Der öffentliche Strand ist stark besucht, aber das Schutzgebiet bietet Rückzugsorte für die Meeresfauna.",
+      hu: "A Hikkaduwa Nemzeti Parkot 2002-ben hozták létre Srí Lanka délnyugati partján, tengeri védett területként. Területe körülbelül 1,5 négyzetkilométer a part mentén, és egy magas biodiverzitású korallzátonyt véd. A zátony népszerű a búvárok és sznorkelezők körében, tengeri teknősök, ráják és több mint 60 halfaj élőhelye. A parkot a szennyezés, az üledéklerakódás és a turizmus fenyegeti; a korallok helyreállítására irányuló intézkedések folynak. A korallok főként Acropora fajokból állnak. A közeli strand forgalmas, de a védett terület menedéket nyújt a tengeri élővilágnak.",
+      ro: "Parcul Național Hikkaduva, înființat în 2002 pe coasta de sud-vest a Sri Lankăi, este o arie marină protejată de aproximativ 1,5 km². Protejează un recif de corali cu biodiversitate ridicată, popular pentru scufundări. Reciful găzduiește țestoase marine, raze și peste 60 de specii de pești. Printre amenințări se numără poluarea, sedimentarea și turismul; s-au luat măsuri de restaurare a coralilor. Coralii sunt în principal din genul Acropora. Plaja publică este aglomerată, dar zona protejată oferă refugiu faunei marine.",
+      en: "Hikkaduwa National Park, established in 2002 along Sri Lanka’s southwest coast, is a marine protected area covering approximately 1.5 km². It protects a fringing coral reef with high biodiversity, popular among snorkelers and divers. The reef hosts sea turtles, rays, and over 60 fish species. Threats include pollution, sedimentation, and tourism pressure; coral restoration projects are ongoing. The reef is dominated by Acropora corals. The adjacent beach is a bustling tourist destination, while the protected zone provides a sanctuary for marine life. The park also includes a small stretch of beach.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebiet seit 2002.", "Fläche: 1,5 km².", "Korallenbedeckung: ursprünglich 50%, heute durch Schäden reduziert.", "Anzahl der Fischarten: über 60.", "Taucher pro Jahr: ca. 100.000.", "Wasseroberflächentemperatur: 27-30°C."],
+      hu: ["Védett terület 2002 óta.", "Terület: 1,5 km².", "Korallborítottság: eredetileg 50%, mára károsodások miatt csökkent.", "Halfajok száma: több mint 60.", "Éves búvárok száma: kb. 100.000.", "Vízfelszíni hőmérséklet: 27-30°C."],
+      ro: ["Arie protejată din 2002.", "Suprafață: 1,5 km².", "Acoperire coraligenă: inițial 50%, acum redusă din cauza degradării.", "Specii de pești: peste 60.", "Scufundători anual: aprox. 100.000.", "Temperatura apei la suprafață: 27-30°C."],
+      en: ["Protected since 2002.", "Area: 1.5 km².", "Coral cover: originally 50%, now reduced due to damage.", "Fish species: over 60.", "Annual divers: approximately 100,000.", "Surface water temperature: 27-30°C."],
+    },
+  },
   {
     id: "lahugala-kitulana-national-park-life-v2",
     type: "wildlife-area",
     parent: "LK-32",
     coords: [81.7167, 6.8667],
-    name: { de: "Lahugala-Kitulana-Nationalpark", hu: "Lahugala Kitulana Nemzeti Park", ro: "Parcul Național Lahugala Kitulana", en: "Lahugala Kitulana National Park",
-image: "/poi-images/lahugala-kitulana-national-park-life-v2.webp"
-},
+    name: { de: "Lahugala-Kitulana-Nationalpark", hu: "Lahugala Kitulana Nemzeti Park", ro: "Parcul Național Lahugala Kitulana", en: "Lahugala Kitulana National Park"},
+    image: "/poi-images/lahugala-kitulana-national-park-life-v2.webp",
     description: { de: "Einer der kleinsten Nationalparks, aber ein wichtiger Lebensraum für Elefanten und endemische Vögel.", hu: "Az egyik legkisebb nemzeti park, de fontos élőhelye az elefántoknak és az endemikus madaraknak.", ro: "Unul dintre cele mai mici parcuri naționale, dar un habitat important pentru elefanți și păsări endemice.", en: "One of the smallest national parks, but an important habitat for elephants and endemic birds." },
     facts: {
       de: ["Sehr kleiner Nationalpark", "Zieht Herden von Elefanten an", "Umfasst den Lahugala-See"],
       hu: ["Nagyon kicsi nemzeti park", "Elefántcsordákat vonz", "Magában foglalja a Lahugala-tavat"],
       ro: ["Parc național foarte mic", "Atrage turme de elefanți", "Include lacul Lahugala"],
       en: ["Very small national park", "Attracts herds of elephants", "Includes the Lahugala lake"]
-    }, image: "/poi-images/lahugala-kitulana-national-park-life-v2.webp"},
+    }, image: "/poi-images/lahugala-kitulana-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lahugala-Kitulana-Nationalpark in der Ostprovinz Sri Lankas wurde 2006 ausgewiesen und umfasst 1.554 Hektar. Er ist ein wichtiger Lebensraum für Elefanten, die sich in den Sümpfen und Grasflächen aufhalten. Der Park besteht aus drei Stauseen – Lahugala, Kitulana und Sengamuwa – die während der Trockenzeit Wildtiere anziehen. Die Tierwelt umfasst Vogelarten wie den Weißbauch-Seeadler und den Paddy-Buschsänger. Der Park ist relativ klein und bietet eine ruhige Umgebung. Die Vegetation wird von trockenen immergrünen Wäldern und Savannen dominiert. Elefantenwanderungen zwischen diesem Park und dem Yala-Komplex sind häufig.",
+      hu: "A Lahugala Kitulana Nemzeti Park Srí Lanka keleti tartományában található, 2006-ban hozták létre, területe 1554 hektár. Fontos élőhely az elefántok számára, amelyek a mocsarakban és füves területeken tartózkodnak. A park három tározóból áll: Lahugala, Kitulana és Sengamuwa, amelyek a száraz évszakban vonzzák a vadállományt. A madárvilágban megtalálható a fehérhasú rétisas és a rizsföldi szöcske. A park viszonylag kicsi, csendes környezettel. A növényzetet száraz örökzöld erdő és szavanna jellemzi. Az elefántok gyakran vándorolnak a Yala komplexumba.",
+      ro: "Parcul Național Lahugala Kitulana, situat în provincia de est a Sri Lankăi, a fost desemnat în 2006 și se întinde pe 1554 de hectare. Este un habitat important pentru elefanți, care frecventează mlaștinile și pajiștile. Parcul cuprinde trei rezervoare – Lahugala, Kitulana și Sengamuwa – care atrag fauna în sezonul uscat. Fauna include specii de păsări precum vulturul pescar cu burtă albă. Parcul este relativ mic, oferind un mediu liniștit. Vegetația este dominată de păduri tropicale uscate și savane. Elefanții migrează între acest parc și complexul Yala.",
+      en: "Lahugala Kitulana National Park, established in 2006 in Sri Lanka’s Eastern Province, covers 1,554 hectares. It is a key elephant habitat, particularly around the three reservoirs (Lahugala, Kitulana, Sengamuwa) which attract wildlife during the dry season. The park’s marshy grasslands support a variety of birds, including the white-bellied sea eagle. The park is small and offers a tranquil safari experience. Vegetation consists of dry evergreen forests and savanna. The park serves as an important corridor for elephant migration between Yala and other protected areas. It is one of the best places to see wild elephants in their natural habitat.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2006.", "Fläche: 1.554 Hektar.", "Anzahl der Stauseen: 3.", "Elefantenpopulation: schätzungsweise 100-150 Tiere.", "Niederschlag: 1.000-1.500 mm jährlich.", "Höchster Punkt: ca. 50 m."],
+      hu: ["Alapítás éve: 2006.", "Terület: 1554 hektár.", "Tározók száma: 3.", "Elefántpopuláció: becslések szerint 100-150 egyed.", "Éves csapadék: 1000-1500 mm.", "Legmagasabb pont: kb. 50 méter."],
+      ro: ["Înființat în 2006.", "Suprafață: 1554 de hectare.", "Numărul de rezervoare: 3.", "Populația de elefanți: estimată la 100-150 de indivizi.", "Precipitații anuale: 1000-1500 mm.", "Altitudine maximă: circa 50 m."],
+      en: ["Established in 2006.", "Area: 1,554 hectares.", "Number of reservoirs: 3.", "Elephant population: estimated 100-150 individuals.", "Annual rainfall: 1,000-1,500 mm.", "Highest elevation: about 50 m."],
+    },
+  },
   {
     id: "royal-botanical-gardens-peradeniya-life-v2",
     type: "park",
     parent: "LK-21",
     coords: [80.5960, 7.2680],
-    name: { de: "Botanischer Garten Peradeniya", hu: "Peradeniya Királyi Botanikus Kert", ro: "Grădina Botanică Regală Peradeniya", en: "Royal Botanical Gardens Peradeniya",
-image: "/poi-images/royal-botanical-gardens-peradeniya-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Peradeniya", hu: "Peradeniya Királyi Botanikus Kert", ro: "Grădina Botanică Regală Peradeniya", en: "Royal Botanical Gardens Peradeniya"},
+    image: "/poi-images/royal-botanical-gardens-peradeniya-life-v2.webp",
     description: { de: "Der größte botanische Garten des Landes, berühmt für seine Orchideensammlung und die riesige Javanische Feige.", hu: "Az ország legnagyobb botanikus kertje, amely orchideagyűjteményéről és hatalmas jávai fügefájáról híres.", ro: "Cea mai mare grădină botanică din țară, faimoasă pentru colecția sa de orhidee și uriașul smochin de Java.", en: "The largest botanical garden in the country, famous for its orchid collection and massive Javan fig tree." },
     facts: {
       de: ["Gegründet im Jahr 1843", "Besitzt ein großes Orchideenhaus", "Zieht jährlich Millionen Besucher an"],
       hu: ["1843-ban alapították", "Nagy orchideaházzal rendelkezik", "Évente több millió látogatót vonz"],
       ro: ["Fondată în 1843", "Deține o mare seră de orhidee", "Atrage milioane de vizitatori anual"],
       en: ["Founded in 1843", "Features a large orchid house", "Attracts millions of visitors annually"]
-    }, image: "/poi-images/royal-botanical-gardens-peradeniya-life-v2.webp"},
+    }, image: "/poi-images/royal-botanical-gardens-peradeniya-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Königlichen Botanischen Gärten von Peradeniya liegen etwa 5,5 Kilometer westlich von Kandy in Sri Lanka. Sie wurden 1821 gegründet und erstrecken sich über 59 Hektar. Die Gärten sind bekannt für ihre umfangreiche Sammlung tropischer Pflanzen, darunter eine beeindruckende Orchideensammlung mit über 300 Orchideenarten. Der Garten beherbergt außerdem eine Allee der Riesenbambus, den Javanischen Feigenbaum (Ficus benghalensis) und viele Palmenarten. Er dient als Forschungs- und Bildungszentrum. Das Gelände ist terrassiert und wird vom Mahaweli-Fluss durchflossen. Jährlich besuchen über 1,5 Millionen Menschen die Gärten.",
+      hu: "A Peradeniyai Királyi Botanikus Kert Kandy városától körülbelül 5,5 km-re nyugatra található Srí Lankán. 1821-ben alapították, területe 59 hektár. A kert híres trópusi növénygyűjteményéről, különösen orchidea kollekciójáról, amely több mint 300 orchideafajt tartalmaz. Itt található az óriás bambuszok sétánya, a jávai fügefa (Ficus benghalensis) és számos pálmafaj. A kert kutatási és oktatási központként működik. A terület teraszos, és a Mahaweli folyó szeli át. Évente több mint 1,5 millió látogató keresi fel.",
+      ro: "Grădinile Botanice Regale din Peradeniya sunt situate la aproximativ 5,5 km vest de Kandy, Sri Lanka. Au fost înființate în 1821 și se întind pe 59 de hectare. Sunt renumite pentru colecția vastă de plante tropicale, în special colecția de orhidee cu peste 300 de specii. Grădina include o alee de bambus uriaș, un smochin bengalez (Ficus benghalensis) și multe specii de palmieri. Servește ca centru de cercetare și educație. Terenul este în terase și este traversat de râul Mahaweli. Peste 1,5 milioane de vizitatori anual.",
+      en: "The Royal Botanical Gardens in Peradeniya, located 5.5 km west of Kandy, Sri Lanka, were established in 1821 and cover 59 hectares. They are renowned for their extensive tropical plant collection, including an orchid house with over 300 orchid species. Highlights include the giant bamboo avenue, the Java fig tree (Ficus benghalensis), and a palm collection. The gardens serve as a research and education center. The landscape is terraced and intersected by the Mahaweli River. Annual visitors exceed 1.5 million. The gardens were originally designed as a pleasure garden for the Kandyan kings before British colonial development.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1821.", "Fläche: 59 Hektar.", "Anzahl der Orchideenarten: über 300.", "Jährliche Besucher: über 1,5 Millionen.", "Anzahl der Palmenarten: über 100.", "Ursprünglich 1375 als königlicher Garten angelegt."],
+      hu: ["Alapítás: 1821.", "Terület: 59 hektár.", "Orchideafajok száma: több mint 300.", "Éves látogatók száma: több mint 1,5 millió.", "Pálmafajok száma: több mint 100.", "Eredetileg 1375-ben királyi kertként létesült."],
+      ro: ["Înființat în 1821.", "Suprafață: 59 hectare.", "Specii de orhidee: peste 300.", "Vizitatori anuali: peste 1,5 milioane.", "Specii de palmieri: peste 100.", "Inițial amenajat ca grădină regală în 1375."],
+      en: ["Established in 1821.", "Area: 59 hectares.", "Orchid species: over 300.", "Annual visitors: over 1.5 million.", "Palm species: over 100.", "Originally laid out as a royal garden in 1375."],
+    },
+  },
   {
     id: "hakgala-botanical-garden-life-v2",
     type: "park",
     parent: "LK-22",
     coords: [80.8167, 6.9167],
-    name: { de: "Botanischer Garten Hakgala", hu: "Hakgala Botanikus Kert", ro: "Grădina Botanică Hakgala", en: "Hakgala Botanical Garden",
-image: "/poi-images/hakgala-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Hakgala", hu: "Hakgala Botanikus Kert", ro: "Grădina Botanică Hakgala", en: "Hakgala Botanical Garden"},
+    image: "/poi-images/hakgala-botanical-garden-life-v2.webp",
     description: { de: "Der zweitgrößte botanische Garten, gelegen in kühlem Klima, bekannt für Farne und Rosen.", hu: "A második legnagyobb botanikus kert, hűvös éghajlaton, páfrányairól és rózsáiról ismert.", ro: "A doua cea mai mare grădină botanică, situată într-un climat răcoros, cunoscută pentru ferigi și trandafiri.", en: "The second largest botanical garden, located in a cool climate, known for ferns and roses." },
     facts: {
       de: ["Liegt auf über 1700 Metern Höhe", "Bekannt für seine Rosen-Gärten", "Angrenzend an das Hakgala-Naturreservat"],
       hu: ["Több mint 1700 méter magasan fekszik", "Rózsakertjeiről híres", "A Hakgala Természetvédelmi Terület mellett van"],
       ro: ["Situată la peste 1700 de metri altitudine", "Cunoscută pentru grădinile de trandafiri", "Adiacentă Rezervației Naturale Hakgala"],
       en: ["Situated over 1700 meters above sea level", "Known for its rose gardens", "Adjacent to the Hakgala Nature Reserve"]
-    }, image: "/poi-images/hakgala-botanical-garden-life-v2.webp"},
+    }, image: "/poi-images/hakgala-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hakgala-Botanische Garten liegt in den zentralen Highlands Sri Lankas, etwa 16 Kilometer von Nuwara Eliya entfernt, auf einer Höhe von 1.600 bis 1.800 Metern. Er wurde 1861 als Versuchsgarten für den Anbau von Chinin-Bäumen angelegt. Der Garten erstreckt sich über 27 Hektar und beherbergt eine große Vielfalt an Pflanzen, darunter Rhododendren, Rosen, Farnen und Nadelbäume. Die kühle Bergluft begünstigt das Wachstum von Pflanzen aus gemäßigten Zonen. Der Garten ist berühmt für seine Baumfarne und die japanische Pagode. Er dient auch als Forschungsstation. Die Landschaft bietet atemberaubende Ausblicke auf die umliegenden Berge.",
+      hu: "A Hakgala Botanikus Kert Srí Lanka középső hegyvidékén található, Nuwara Eliyától körülbelül 16 km-re, 1600-1800 méteres tengerszint feletti magasságban. 1861-ben hozták létre kísérleti kertként kininkéreg-fák termesztésére. A kert 27 hektáron terül el, és sokféle növénynek ad otthont, beleértve rododendronokat, rózsákat, páfrányokat és tűlevelűeket. A hűvös hegyi levegő elősegíti a mérsékelt égövi növények növekedését. A kert híres fa páfrányairól és egy japán pagodáról. Kutatóállomásként is működik. Kilátás nyílik a környező hegyekre.",
+      ro: "Grădina Botanică Hakgala este situată în munții centrali ai Sri Lankăi, la aproximativ 16 km de Nuwara Eliya, la o altitudine de 1.600-1.800 de metri. A fost înființată în 1861 ca grădină experimentală pentru cultivarea arborelui de chinină. Grădina se întinde pe 27 de hectare și găzduiește o mare diversitate de plante, inclusiv rododendroni, trandafiri, ferigi și conifere. Aerul răcoros de munte favorizează plantele din zone temperate. Este renumită pentru ferigile arborescente și o pagodă japoneză. Servește și ca stație de cercetare. Peisajul oferă vederi spectaculoase asupra munților din jur.",
+      en: "Hakgala Botanical Garden, located 16 km from Nuwara Eliya in Sri Lanka’s central highlands, sits at an altitude of 1,600-1,800 meters. Established in 1861 as an experimental garden for cinchona cultivation, it now covers 27 hectares. The garden boasts a diverse collection of temperate and tropical plants, including rhododendrons, roses, ferns, and conifers. It is famous for its giant tree ferns and a Japanese pagoda. The cool climate allows cultivation of plants not found elsewhere in Sri Lanka. The garden also serves as a research station. Its terraced layout offers panoramic views of the surrounding hills.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1861.", "Fläche: 27 Hektar.", "Höhenlage: 1.600-1.800 m.", "Anzahl der Farnarten: über 100.", "Jährliche Niederschlagsmenge: 2.500 mm.", "Ehemaliger Name: Hakgala Gardens."],
+      hu: ["Alapítás: 1861.", "Terület: 27 hektár.", "Tengerszint feletti magasság: 1600-1800 m.", "Páfrányfajok száma: több mint 100.", "Éves csapadék: 2500 mm.", "Korábbi neve: Hakgala Gardens."],
+      ro: ["Înființată în 1861.", "Suprafață: 27 de hectare.", "Altitudine: 1.600-1.800 m.", "Specii de ferigi: peste 100.", "Precipitații anuale: 2.500 mm.", "Nume anterior: Hakgala Gardens."],
+      en: ["Established in 1861.", "Area: 27 hectares.", "Elevation: 1,600-1,800 m.", "Fern species: over 100.", "Annual rainfall: 2,500 mm.", "Former name: Hakgala Gardens."],
+    },
+  },
   {
     id: "henarathgoda-botanical-garden-life-v2",
     type: "park",
     parent: "LK-11",
     coords: [79.9833, 7.1000],
-    name: { de: "Botanischer Garten Henarathgoda", hu: "Henarathgoda Botanikus Kert", ro: "Grădina Botanică Henarathgoda", en: "Henarathgoda Botanical Garden",
-image: "/poi-images/henarathgoda-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Henarathgoda", hu: "Henarathgoda Botanikus Kert", ro: "Grădina Botanică Henarathgoda", en: "Henarathgoda Botanical Garden"},
+    image: "/poi-images/henarathgoda-botanical-garden-life-v2.webp",
     description: { de: "Ein historischer Garten, in dem der erste Kautschukbaum Südasiens gepflanzt wurde.", hu: "Történelmi kert, ahol Dél-Ãzsia első kaucsukfáját elültették.", ro: "O grădină istorică unde a fost plantat primul arbore de cauciuc din Asia de Sud.", en: "A historical garden where the first rubber tree in South Asia was planted." },
     facts: {
       de: ["Gegründet im Jahr 1876", "Heimat seltener tropischer Bäume", "Wichtig für die frühe Kautschukindustrie"],
       hu: ["1876-ban alapították", "Ritka trópusi fák otthona", "Fontos volt a korai gumiipar számára"],
       ro: ["Fondată în 1876", "Găzduiește arbori tropicali rari", "Importantă pentru industria timpurie a cauciucului"],
       en: ["Established in 1876", "Home to rare tropical trees", "Important to the early rubber industry"]
-    }, image: "/poi-images/henarathgoda-botanical-garden-life-v2.webp"},
+    }, image: "/poi-images/henarathgoda-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Henarathgoda-Botanische Garten befindet sich in Gampaha, etwa 24 Kilometer von Colombo entfernt, auf einer Höhe von nur 10 Metern über dem Meeresspiegel. Er wurde 1876 gegründet, hauptsächlich für die Einführung des Kautschukbaums (Hevea brasiliensis) in Sri Lanka. Der Garten erstreckt sich über 17 Hektar und beherbergt eine Sammlung tropischer Nutzpflanzen, darunter Kakao, Kaffee und Muskatnuss. Das feuchte Tieflandklima begünstigt das Wachstum. Der Garten ist bekannt für seinen hohen Bestand an Palmen und Bambus. Er spielte eine Schlüsselrolle in der landwirtschaftlichen Entwicklung des Landes. Heute dient er als botanisches Forschungszentrum.",
+      hu: "A Henarathgoda Botanikus Kert Gampaha városában található, Colombótól mintegy 24 km-re, mindössze 10 méteres tengerszint feletti magasságban. 1876-ban alapították, elsősorban a gumifa (Hevea brasiliensis) Srí Lankára történő bevezetése céljából. A kert 17 hektáron terül el, és trópusi haszonnövények gyűjteményét tartalmazza, mint a kakaó, a kávé és a szerecsendió. A párás alföldi klíma kedvez a növényzetnek. A kert híres pálma- és bambuszállományáról. Kulcsszerepet játszott az ország mezőgazdasági fejlődésében. Ma botanikai kutatóközpontként működik.",
+      ro: "Grădina Botanică Henarathgoda este situată în Gampaha, la aproximativ 24 km de Colombo, la o altitudine de numai 10 metri deasupra nivelului mării. A fost fondată în 1876, în principal pentru introducerea arborelui de cauciuc (Hevea brasiliensis) în Sri Lanka. Grădina se întinde pe 17 hectare și găzduiește o colecție de plante tropicale utile, inclusiv cacao, cafea și nucșoară. Clima umedă de câmpie este favorabilă creșterii. Este cunoscută pentru colecția sa de palmieri și bambus. A jucat un rol cheie în dezvoltarea agricolă a țării. Astăzi servește ca centru de cercetare botanică.",
+      en: "Henarathgoda Botanical Garden, located in Gampaha, 24 km from Colombo, sits at an elevation of just 10 meters above sea level. It was established in 1876 primarily for the introduction of the rubber tree (Hevea brasiliensis) to Sri Lanka. The garden covers 17 hectares and hosts a collection of tropical economic plants, including cocoa, coffee, and nutmeg. The humid lowland climate supports lush growth. The garden is noted for its palm and bamboo collections. It was instrumental in the country's agricultural development, especially the rubber industry. Today, it serves as a research and conservation center.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1876.", "Fläche: 17 Hektar.", "Höhe über dem Meer: 10 m.", "Zweck: Einführung des Kautschukbaums.", "Anzahl der Palmenarten: 25.", "Jährliche Niederschlagsmenge: 2.300 mm."],
+      hu: ["Alapítás: 1876.", "Terület: 17 hektár.", "Tengerszint feletti magasság: 10 m.", "Cél: a gumifa bevezetése.", "Pálmafajok száma: 25.", "Éves csapadék: 2300 mm."],
+      ro: ["Fondată în 1876.", "Suprafață: 17 hectare.", "Altitudine: 10 m deasupra nivelului mării.", "Scop: introducerea arborelui de cauciuc.", "Specii de palmieri: 25.", "Precipitații anuale: 2.300 mm."],
+      en: ["Established in 1876.", "Area: 17 hectares.", "Elevation: 10 m above sea level.", "Purpose: Introduction of rubber tree.", "Palm species: 25.", "Annual rainfall: 2,300 mm."],
+    },
+  },
   {
     id: "viharamahadevi-park-life-v2",
     type: "park",
     parent: "LK-11",
     coords: [79.8612, 6.9118],
-    name: { de: "Viharamahadevi-Park", hu: "Viharamahadevi Park", ro: "Parcul Viharamahadevi", en: "Viharamahadevi Park",
-image: "/poi-images/viharamahadevi-park-life-v2.webp"
-},
+    name: { de: "Viharamahadevi-Park", hu: "Viharamahadevi Park", ro: "Parcul Viharamahadevi", en: "Viharamahadevi Park"},
+    image: "/poi-images/viharamahadevi-park-life-v2.webp",
     description: { de: "Der größte und älteste öffentliche Park in Colombo, mit einem großen Buddha und Wasserfontänen.", hu: "Colombo legnagyobb és legrégebbi nyilvános parkja, egy hatalmas Buddha-szoborral és szökőkutakkal.", ro: "Cel mai mare și mai vechi parc public din Colombo, cu o statuie mare a lui Buddha și fântâni arteziene.", en: "The largest and oldest public park in Colombo, featuring a large Buddha statue and water fountains." },
     facts: {
       de: ["Früher als Victoria Park bekannt", "Gegenüber dem Rathaus gelegen", "Beliebt für Picknicks und Spaziergänge"],
       hu: ["Korábban Victoria Park néven volt ismert", "A városházával szemben található", "Népszerű piknikező- és sétálóhely"],
       ro: ["Fostul parc Victoria", "Situat vizavi de Primărie", "Popular pentru picnicuri și plimbări"],
       en: ["Formerly known as Victoria Park", "Located opposite the Town Hall", "Popular for picnics and walks"]
-    }, image: "/poi-images/viharamahadevi-park-life-v2.webp"},
+    }, image: "/poi-images/viharamahadevi-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Viharamahadevi Park in Colombo ist der älteste und größte öffentliche Park der Stadt. Er wurde in den 1860er Jahren angelegt und hieß ursprünglich Victoria Park, später umbenannt zu Ehren der Mutter von König Vijaya. Der Park erstreckt sich über etwa 15 Hektar und bietet einen ruhigen Rückzugsort im Herzen der Hauptstadt. Er beherbergt einen großen Teich, jahrhundertealte Bäume und Denkmäler, darunter eine Statue von Viharamahadevi. Der Park ist bekannt für seine Vogelwelt und die jährliche Weihnachtsbeleuchtung. Er dient als Erholungsgebiet mit Spielplätzen und Spazierwegen. Der Park wurde durch die britische Kolonialverwaltung gestaltet und ist ein beliebter Ort für Familien.",
+      hu: "A Viharamahadevi Park Colombo legrégebbi és legnagyobb közparkja. Az 1860-as években hozták létre, eredetileg Victoria Park, később nevezték át Vijaya király anyjának tiszteletére. A park körülbelül 15 hektáron terül el, és csendes menedéket kínál a főváros központjában. Itt található egy nagy tó, évszázados fák és emlékművek, köztük Viharamahadevi szobra. A park híres madárvilágáról és az éves karácsonyi fénykiállításáról. Szabadidős területként szolgál játszóterekkel és sétányokkal. A brit gyarmati közigazgatás hozta létre, népszerű családi kirándulóhely.",
+      ro: "Parcul Viharamahadevi din Colombo este cel mai vechi și mai mare parc public al orașului. A fost amenajat în anii 1860, numit inițial Victoria Park, ulterior redenumit în onoarea mamei regelui Vijaya. Parcul se întinde pe aproximativ 15 hectare și oferă un refugiu liniștit în inima capitalei. Adăpostește un iaz mare, copaci seculari și monumente, inclusiv o statuie a Viharamahadevi. Este cunoscut pentru păsările sale și iluminatul anual de Crăciun. Servește ca zonă de recreere cu locuri de joacă și alei. A fost proiectat de administrația colonială britanică și este popular printre familii.",
+      en: "Viharamahadevi Park in Colombo is the city's oldest and largest public park. Laid out in the 1860s, it was originally named Victoria Park and later renamed to honor the mother of King Vijaya. The park covers about 15 hectares and provides a serene green space in the heart of the capital. It features a large pond, ancient trees, and monuments, including a statue of Viharamahadevi. The park is known for its birdlife and annual Christmas light display. It serves as a recreational area with playgrounds and walking paths. The park was designed by the British colonial administration and remains a popular spot for families and joggers.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet in den 1860er Jahren.", "Fläche: 15 Hektar.", "Ursprünglicher Name: Victoria Park.", "Umbenennung: 1999.", "Anzahl der jährlichen Besucher: über 1 Million.", "Beherbergt über 40 monumentale Bäume."],
+      hu: ["Az 1860-as években alapították.", "Terület: 15 hektár.", "Eredeti neve: Victoria Park.", "Átnevezés: 1999-ben.", "Éves látogatók száma: több mint 1 millió.", "Több mint 40 monumentális fa található itt."],
+      ro: ["Fondat în anii 1860.", "Suprafață: 15 hectare.", "Nume original: Victoria Park.", "Redenumit în 1999.", "Vizitatori anuali: peste 1 milion.", "Adăpostește peste 40 de copaci monumentali."],
+      en: ["Established in the 1860s.", "Area: 15 hectares.", "Original name: Victoria Park.", "Renamed in 1999.", "Annual visitors: over 1 million.", "Hosts over 40 monumental trees."],
+    },
+  },
   {
     id: "victoria-park-nuwara-eliya-life-v2",
     type: "park",
     parent: "LK-22",
     coords: [80.7716, 6.9734],
-    name: { de: "Victoria-Park", hu: "Victoria Park", ro: "Parcul Victoria", en: "Victoria Park Nuwara Eliya",
-image: "/poi-images/victoria-park-nuwara-eliya-life-v2.webp"
-},
+    name: { de: "Victoria-Park", hu: "Victoria Park", ro: "Parcul Victoria", en: "Victoria Park Nuwara Eliya"},
+    image: "/poi-images/victoria-park-nuwara-eliya-life-v2.webp",
     description: { de: "Ein gepflegter Stadtpark im Hochland, benannt nach Königin Victoria, beliebt bei Vogelbeobachtern.", hu: "Jól gondozott hegyvidéki városi park, amelyet Viktória királynőről neveztek el, népszerű a madármegfigyelők körében.", ro: "Un parc urban bine întreținut în zonele înalte, numit după Regina Victoria, popular printre observatorii de păsări.", en: "A well-maintained urban park in the highlands, named after Queen Victoria, popular among birdwatchers." },
     facts: {
       de: ["Benannt zum 60. Jubiläum von Königin Victoria", "Guter Ort für Vogelbeobachtung", "Besitzt farbenfrohe Blumenbeete"],
       hu: ["Viktória királynő gyémántjubileumára nevezték el", "Jó helyszín madármegfigyelésre", "Színes virágágyásokkal rendelkezik"],
       ro: ["Numit cu ocazia Jubileului de Diamant al Reginei Victoria", "Loc bun pentru observarea păsărilor", "Are straturi colorate de flori"],
       en: ["Named for Queen Victoria's Diamond Jubilee", "Good spot for birdwatching", "Features colorful flowerbeds"]
-    }, image: "/poi-images/victoria-park-nuwara-eliya-life-v2.webp"},
+    }, image: "/poi-images/victoria-park-nuwara-eliya-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Victoria Park in Nuwara Eliya liegt in den zentralen Highlands Sri Lankas auf einer Höhe von etwa 1.868 Metern. Der Park wurde 1897 zum Gedenken an das Diamantene Thronjubiläum von Königin Victoria angelegt. Er erstreckt sich über 11 Hektar und beherbergt eine Vielzahl von Blumen, darunter Rosen, Azaleen und Rhododendren. Der Park ist ein wichtiger Lebensraum für Vögel, besonders für den endemischen Sri-Lanka-Brillenvogel. Künstliche Teiche und Brunnen schmücken die Anlage. Der Park bietet einen Panoramablick auf die umliegenden Berge. Er ist ein beliebtes Ziel für Naturliebhaber und Brutvogelbeobachter.",
+      hu: "A Victoria Park Nuwara Eliyában található, Srí Lanka középső hegyvidékén, körülbelül 1868 méteres tengerszint feletti magasságban. A parkot 1897-ben hozták létre Viktória királynő gyémántjubileumának emlékére. Területe 11 hektár, és számos virágfajt kínál, például rózsákat, azáleákat és rododendronokat. A park fontos madárélőhely, különösen az endemikus Srí Lanka-i fehérszemű számára. Mesterséges tavak és szökőkutak díszítik. Panorámás kilátás nyílik a környező hegyekre. Népszerű a természetkedvelők és a madármegfigyelők körében.",
+      ro: "Parcul Victoria din Nuwara Eliya este situat în munții centrali ai Sri Lankăi, la o altitudine de aproximativ 1.868 de metri. Parcul a fost înființat în 1897 pentru a comemora Jubileul de Diamant al Reginei Victoria. Se întinde pe 11 hectare și găzduiește o varietate de flori, inclusiv trandafiri, azalee și rododendroni. Este un habitat important pentru păsări, în special pentru ochiul-alb din Sri Lanka, o specie endemică. Parcul este decorat cu iazuri artificiale și fântâni. Oferă vederi panoramice asupra munților din jur. Este un loc popular pentru iubitorii de natură și observatorii de păsări.",
+      en: "Victoria Park in Nuwara Eliya is located in Sri Lanka's central highlands at an elevation of about 1,868 meters. Established in 1897 to commemorate Queen Victoria's Diamond Jubilee, the park covers 11 hectares and features a variety of flowers, including roses, azaleas, and rhododendrons. It is an important bird habitat, particularly for the endemic Sri Lanka white-eye. The park includes artificial ponds and fountains. Panoramic views of the surrounding hills are a highlight. It is a popular spot for birdwatchers and those seeking tranquility. The well-maintained lawns and flower beds attract many visitors.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1897.", "Fläche: 11 Hektar.", "Höhenlage: 1.868 m.", "Anlass: Diamantenes Thronjubiläum von Königin Victoria.", "Anzahl der endemischen Vogelarten: 1 (Sri-Lanka-Brillenvogel).", "Jährliche Besucher: ca. 200.000."],
+      hu: ["Alapítás: 1897.", "Terület: 11 hektár.", "Tengerszint feletti magasság: 1.868 m.", "Alkalom: Viktória királynő gyémántjubileuma.", "Endemikus madárfajok száma: 1 (Srí Lanka-i fehérszemű).", "Éves látogatók száma: kb. 200.000."],
+      ro: ["Înființat în 1897.", "Suprafață: 11 hectare.", "Altitudine: 1.868 m.", "Ocazie: Jubileul de Diamant al Reginei Victoria.", "Specii endemice de păsări: 1 (ochiul-alb din Sri Lanka).", "Vizitatori anuali: aproximativ 200.000."],
+      en: ["Established in 1897.", "Area: 11 hectares.", "Elevation: 1,868 m.", "Occasion: Queen Victoria's Diamond Jubilee.", "Endemic bird species: 1 (Sri Lanka white-eye).", "Annual visitors: about 200,000."],
+    },
+  },
   {
     id: "ridiyagama-safari-park-life-v2",
     type: "park",
     parent: "LK-82",
     coords: [80.9880, 6.2300],
-    name: { de: "Safari-Park Ridiyagama", hu: "Ridiyagama Szafaripark", ro: "Parcul de Safari Ridiyagama", en: "Ridiyagama Safari Park",
-image: "/poi-images/ridiyagama-safari-park-life-v2.webp"
-},
+    name: { de: "Safari-Park Ridiyagama", hu: "Ridiyagama Szafaripark", ro: "Parcul de Safari Ridiyagama", en: "Ridiyagama Safari Park"},
+    image: "/poi-images/ridiyagama-safari-park-life-v2.webp",
     description: { de: "Ein weitläufiger Safaripark mit Freigehegen für afrikanische Löwen, asiatische Elefanten und bengalische Tiger.", hu: "Kiterjedt szafaripark hatalmas kifutókkal az afrikai oroszlánok, ázsiai elefántok és bengáli tigrisek számára.", ro: "Un parc de safari extins cu incinte mari în aer liber pentru lei africani, elefanți asiatici și tigri bengalezi.", en: "An expansive safari park with open-air enclosures for African lions, Asian elephants, and Bengal tigers." },
     facts: {
       de: ["Der erste Safari-Park in Sri Lanka", "Eröffnet im Jahr 2016", "Umfasst über 500 Hektar Land"],
       hu: ["Az első szafaripark Srí Lankán", "2016-ban nyitotta meg kapuit", "Több mint 500 hektáros területen fekszik"],
       ro: ["Primul parc de safari din Sri Lanka", "Deschis în 2016", "Se întinde pe peste 500 de hectare"],
       en: ["The first safari park in Sri Lanka", "Opened in 2016", "Spans over 500 acres of land"]
-    }, image: "/poi-images/ridiyagama-safari-park-life-v2.webp"},
+    }, image: "/poi-images/ridiyagama-safari-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ridiyagama Safari Park befindet sich in der Nähe von Hambantota im Süden Sri Lankas und wurde 2016 eröffnet. Er erstreckt sich über etwa 200 Hektar und ist der erste Safaripark der Insel, der als Freigehege angelegt ist. Der Park ist in Zonen unterteilt, die Tiere wie Löwen, Tiger, Bären, Giraffen und Zebras beherbergen. Einige Tiere wurden aus anderen Zoos importiert oder aus geretteten Beständen aufgenommen. Der Park bietet Safari-Touren mit Fahrzeugen an. Ziel ist es, die Artenvielfalt zu präsentieren und Umweltbildung zu fördern. Der Park arbeitet mit lokalen Naturschutzprojekten zusammen.",
+      hu: "A Ridiyagama Szafari Park Hambantota közelében, Srí Lanka déli részén található, és 2016-ban nyílt meg. Területe körülbelül 200 hektár, és ez a sziget első szafariparkja, amely természetes környezetben mutatja be az állatokat. A park övezetekre van osztva, ahol oroszlánok, tigrisek, medvék, zsiráfok és zebrák élnek. Néhány állatot más állatkertekből hoztak vagy mentett állományból vettek fel. A park járműves szafaritúrákat kínál. Célja a biodiverzitás bemutatása és a környezeti nevelés. Helyi természetvédelmi projektekkel működik együtt.",
+      ro: "Parcul Safari Ridiyagama este situat lângă Hambantota, în sudul Sri Lankăi, și a fost deschis în 2016. Se întinde pe aproximativ 200 de hectare și este primul parc safari din insulă, amenajat în spații deschise. Parcul este împărțit pe zone ce adăpostesc lei, tigri, urși, girafe și zebre. Unele animale au fost importate din alte grădini zoologice sau provin din populații salvate. Parcul oferă tururi de safari cu vehicule. Scopul său este de a prezenta biodiversitatea și de a promova educația ecologică. Colaborează cu proiecte locale de conservare.",
+      en: "Ridiyagama Safari Park, located near Hambantota in southern Sri Lanka, opened in 2016 and covers around 200 hectares. It is the first open-range safari park in the country, designed to mimic natural habitats. The park is divided into zones housing animals such as lions, tigers, bears, giraffes, and zebras. Many animals were sourced from other zoos or rescued from captivity. The park offers guided vehicle safaris. Its mission includes conservation education and promoting biodiversity awareness. The park also supports local wildlife rescue and rehabilitation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2016.", "Fläche: 200 Hektar.", "Anzahl der Gehegezonen: 7.", "Anzahl der Tierarten: 25.", "Kapazität der Safari-Fahrzeuge: 20 Personen pro Fahrzeug.", "Eintrittspreis für Erwachsene: 3000 LKR."],
+      hu: ["Megnyitás: 2016.", "Terület: 200 hektár.", "Kifutózónák száma: 7.", "Állatfajok száma: 25.", "Safari járművek kapacitása: 20 fő járművenként.", "Felnőtt belépőjegy: 3000 LKR."],
+      ro: ["Deschis în 2016.", "Suprafață: 200 de hectare.", "Număr de zone de incintă: 7.", "Specii de animale: 25.", "Capacitate vehicule safari: 20 de persoane pe vehicul.", "Preț bilet pentru adulți: 3000 LKR."],
+      en: ["Opened in 2016.", "Area: 200 hectares.", "Number of enclosure zones: 7.", "Animal species: 25.", "Safari vehicle capacity: 20 persons per vehicle.", "Adult ticket price: 3000 LKR."],
+    },
+  },
   {
     id: "pedro-tea-estate-life-v2",
     type: "agriculture",
     parent: "LK-22",
     coords: [80.7933, 6.9730],
-    name: { de: "Pedro-Teeplantage", hu: "Pedro Teabirtok", ro: "Plantația de Ceai Pedro", en: "Pedro Tea Estate",
-image: "/poi-images/pedro-tea-estate-life-v2.webp"
-},
+    name: { de: "Pedro-Teeplantage", hu: "Pedro Teabirtok", ro: "Plantația de Ceai Pedro", en: "Pedro Tea Estate"},
+    image: "/poi-images/pedro-tea-estate-life-v2.webp",
     description: { de: "Eine historische Teeplantage in Nuwara Eliya, die für ihren milden Ceylon-Tee bekannt ist.", hu: "Történelmi teabirtok Nuwara Eliyában, amely lágy ceyloni teájáról ismert.", ro: "O plantație istorică de ceai din Nuwara Eliya, cunoscută pentru ceaiul său blând de Ceylon.", en: "A historic tea estate in Nuwara Eliya known for its light Ceylon tea." },
     facts: {
       de: ["Gegründet im Jahr 1885", "Produziert hellen Tee", "Bietet Werksbesichtigungen an"],
       hu: ["1885-ben alapították", "Világos főzetű teát gyárt", "Gyárlátogatásokat is kínál"],
       ro: ["Fondată în 1885", "Produce ceai cu infuzie deschisă", "Oferă tururi ale fabricii"],
       en: ["Established in 1885", "Produces light-liquor tea", "Offers factory tours to visitors"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Pedro Tea Estate liegt in Nuwara Eliya, in den zentralen Highlands Sri Lankas, auf einer Höhe von etwa 1.800 Metern. Es wurde 1885 gegründet und ist eine der ältesten Teeplantagen der Region. Das Anwesen produziert hochwertigen Schwarztee, der für sein Aroma bekannt ist. Besucher können an Führungen durch die Fabrik teilnehmen, bei denen der traditionelle Herstellungsprozess von CTC- und Orthodox-Tee gezeigt wird. Die Plantage erstreckt sich über sanfte Hügel mit konstant kühlem Klima. Die Arbeiter sind meist Nachfahren tamilischer Einwanderer. Der Tee wird lokal verarbeitet und exportiert.",
+      hu: "A Pedro Tea Estate Nuwara Eliyában, Srí Lanka középső hegyvidékén található, körülbelül 1800 méter magasan. 1885-ben alapították, a régió egyik legrégebbi teaültetvénye. A birtok kiváló minőségű fekete teát termel, amely aromájáról híres. A látogatók vezetett túrákon vehetnek részt a gyárban, ahol bemutatják a CTC és az orthodox tea hagyományos előállítását. Az ültetvény szelíd dombokon terül el, állandóan hűvös időjárással. A munkások többnyire tamil bevándorlók leszármazottai. A teát helyben dolgozzák fel és exportálják.",
+      ro: "Pedro Tea Estate este situat în Nuwara Eliya, în munții centrali ai Sri Lankăi, la o altitudine de aproximativ 1.800 de metri. A fost fondată în 1885 și este una dintre cele mai vechi plantații de ceai din regiune. Proprietatea produce ceai negru de înaltă calitate, renumit pentru aroma sa. Vizitatorii pot participa la tururi ghidate ale fabricii, unde este demonstrat procesul tradițional de fabricare a ceaiului CTC și ortodox. Plantația se întinde pe dealuri line, cu un climat constant răcoros. Muncitorii sunt în mare parte descendenți ai imigranților tamili. Ceaiul este procesat local și exportat.",
+      en: "Pedro Tea Estate, located in Nuwara Eliya in Sri Lanka's central highlands at an altitude of about 1,800 meters, was established in 1885. It is one of the oldest tea plantations in the region, producing high-quality black tea known for its brisk flavor. Visitors can take guided tours of the factory, witnessing the traditional manufacturing process of both CTC and orthodox tea. The estate spans rolling hills with a consistently cool climate. Workers are predominantly descendants of Tamil immigrants brought during British rule. The tea is processed on-site and exported globally.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1885.", "Höhenlage: 1.800 m.", "Anbaufläche: ca. 200 Hektar.", "Jährliche Teeproduktion: ca. 500 Tonnen.", "Beschäftigte: ca. 500 Arbeiter.", "CTC-Teeproduktion seit 1950."],
+      hu: ["Alapítás: 1885.", "Tengerszint feletti magasság: 1800 m.", "Termőterület: kb. 200 hektár.", "Éves teatermelés: kb. 500 tonna.", "Foglalkoztatottak: kb. 500 munkás.", "CTC tea gyártás 1950 óta."],
+      ro: ["Fondată în 1885.", "Altitudine: 1.800 m.", "Suprafață cultivată: aprox. 200 de hectare.", "Producție anuală de ceai: aprox. 500 de tone.", "Angajați: aprox. 500 de muncitori.", "Producția de ceai CTC începând cu 1950."],
+      en: ["Established in 1885.", "Elevation: 1,800 m.", "Cultivated area: approx. 200 hectares.", "Annual tea production: approx. 500 tons.", "Employees: approx. 500 workers.", "CTC tea production since 1950."],
+    },
   },
   {
     id: "damro-labookellie-tea-estate-life-v2",
     type: "agriculture",
     parent: "LK-22",
     coords: [80.7022, 7.0261],
-    name: { de: "Damro Labookellie Teeplantage", hu: "Damro Labookellie Teabirtok", ro: "Plantația de Ceai Damro Labookellie", en: "Damro Labookellie Tea Estate",
-image: "/poi-images/damro-labookellie-tea-estate-life-v2.webp"
-},
+    name: { de: "Damro Labookellie Teeplantage", hu: "Damro Labookellie Teabirtok", ro: "Plantația de Ceai Damro Labookellie", en: "Damro Labookellie Tea Estate"},
+    image: "/poi-images/damro-labookellie-tea-estate-life-v2.webp",
     description: { de: "Eine der ältesten und größten Teeplantagen Sri Lankas, die malerische Ausblicke und Führungen anbietet.", hu: "Srí Lanka egyik legrégebbi és legnagyobb teabirtoka, amely festői kilátást és vezetett túrákat kínál.", ro: "Una dintre cele mai vechi și mai mari plantații de ceai din Sri Lanka, oferind priveliști pitorești și tururi ghidate.", en: "One of the oldest and largest tea estates in Sri Lanka, offering scenic views and guided tours." },
     facts: {
       de: ["Früher Mackwoods genannt", "Liegt auf über 1500 Metern", "Umfasst Tausende von Hektar"],
       hu: ["Korábban Mackwoods néven volt ismert", "Több mint 1500 méteres magasságban van", "Több ezer hektáron terül el"],
       ro: ["Cunoscută anterior ca Mackwoods", "Situată la peste 1500 de metri", "Acoperă mii de hectare"],
       en: ["Formerly known as Mackwoods", "Located above 1500 meters", "Covers thousands of hectares"]
-    }, image: "/poi-images/damro-labookellie-tea-estate-life-v2.webp"},
+    }, image: "/poi-images/damro-labookellie-tea-estate-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Damro Labookellie Tea Estate liegt in Nuwara Eliya, etwa 16 Kilometer entfernt, auf einer Höhe von 1.900 Metern. Es wurde im späten 19. Jahrhundert gegründet und ist eine der größten Teeplantagen der Region. Das Anwesen gehört zur Damro Group und produziert hochwertigen Schwarztee. Die Fabrik ist für ihre traditionelle Verarbeitung bekannt. Besucher können den gesamten Herstellungsprozess besichtigen, von der Ernte bis zur Verpackung. Die Landschaft ist geprägt von grünen Hügeln und Teebüschen. Die Plantage beschäftigt viele saisonale Arbeiter. Der Tee wird in verschiedenen Qualitäten exportiert.",
+      hu: "A Damro Labookellie Tea Estate Nuwara Eliya közelében, körülbelül 16 km-re található, 1900 méteres magasságban. A 19. század végén alapították, és a régió egyik legnagyobb teaültetvénye. A birtok a Damro csoporthoz tartozik, és kiváló minőségű fekete teát termel. A gyár hagyományos feldolgozásáról híres. A látogatók megtekinthetik a teljes gyártási folyamatot a betakarítástól a csomagolásig. A tájat zöld dombok és teabokrok jellemzik. Az ültetvény sok idénymunkást foglalkoztat. A teát különböző minőségekben exportálják.",
+      ro: "Damro Labookellie Tea Estate este situat lângă Nuwara Eliya, la aproximativ 16 km, la o altitudine de 1.900 de metri. A fost fondat la sfârșitul secolului al XIX-lea și este una dintre cele mai mari plantații de ceai din regiune. Proprietatea aparține grupului Damro și produce ceai negru de înaltă calitate. Fabrica este cunoscută pentru prelucrarea tradițională. Vizitatorii pot vedea întregul proces de fabricație, de la recoltare la ambalare. Peisajul este alcătuit din dealuri verzi și tufișuri de ceai. Plantația angajează mulți muncitori sezonieri. Ceaiul este exportat în diferite grade de calitate.",
+      en: "Damro Labookellie Tea Estate, located near Nuwara Eliya at an elevation of 1,900 meters, was established in the late 19th century. It is one of the largest tea plantations in the region, owned by the Damro Group. The estate produces high-quality black tea and its factory is renowned for traditional processing methods. Visitors can tour the entire production line, from plucking to packaging. The landscape features rolling hills covered with tea bushes. The estate employs numerous seasonal workers. The tea is exported in various grades, primarily to Europe and the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet Ende 19. Jh.", "Höhenlage: 1.900 m.", "Anbaufläche: ca. 400 Hektar.", "Jährliche Produktion: ca. 800 Tonnen.", "Mitarbeiter: ca. 700.", "Exportanteil: 90% der Produktion."],
+      hu: ["A 19. század végén alapították.", "Tengerszint feletti magasság: 1900 m.", "Termőterület: kb. 400 hektár.", "Éves termelés: kb. 800 tonna.", "Munkavállalók száma: kb. 700.", "Export arány: a termelés 90%-a."],
+      ro: ["Fondat la sfârșitul sec. XIX.", "Altitudine: 1.900 m.", "Suprafață cultivată: aprox. 400 de hectare.", "Producție anuală: aprox. 800 de tone.", "Angajați: aprox. 700.", "Procent export: 90% din producție."],
+      en: ["Established late 19th century.", "Elevation: 1,900 m.", "Cultivated area: approx. 400 hectares.", "Annual production: approx. 800 tons.", "Employees: approx. 700.", "Export share: 90% of production."],
+    },
+  },
   {
     id: "handunugoda-tea-estate-life-v2",
     type: "agriculture",
     parent: "LK-31",
     coords: [80.3700, 6.0000],
-    name: { de: "Handunugoda-Teeplantage", hu: "Handunugoda Teabirtok", ro: "Plantația de Ceai Handunugoda", en: "Handunugoda Tea Estate",
-image: "/poi-images/handunugoda-tea-estate-life-v2.webp"
-},
+    name: { de: "Handunugoda-Teeplantage", hu: "Handunugoda Teabirtok", ro: "Plantația de Ceai Handunugoda", en: "Handunugoda Tea Estate"},
+    image: "/poi-images/handunugoda-tea-estate-life-v2.webp",
     description: { de: "Eine einzigartige tiefliegende Plantage in der Nähe von Galle, berühmt für ihren weißen Tee.", hu: "Egyedülálló, mélyföldi ültetvény Galle közelében, amely a fehér teájáról híres.", ro: "O plantație unică la joasă altitudine lângă Galle, faimoasă pentru ceaiul ei alb.", en: "A unique low-country estate near Galle, famous for its white tea." },
     facts: {
       de: ["Produziert Virgin White Tea", "Kein menschlicher Hautkontakt beim Pflücken", "Nahe der Küste gelegen"],
       hu: ["Érintetlen fehér teát termel", "Szedéskor nem érintkezik emberi bőrrel", "A part közelében fekszik"],
       ro: ["Produce ceai alb virgin", "Fără contact uman la cules", "Situată aproape de coastă"],
       en: ["Produces Virgin White Tea", "No human touch during plucking", "Located near the coast"]
-    }, image: "/poi-images/handunugoda-tea-estate-life-v2.webp"},
+    }, image: "/poi-images/handunugoda-tea-estate-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Handunugoda Tea Estate liegt im Süden Sri Lankas, nahe der Stadt Galle. Sie ist bekannt für die Produktion des teuersten Tees der Welt, dem 'Virgin White Tea'. Die Plantage wurde 1880 gegründet und erstreckt sich über etwa 80 Hektar. Die Teeblätter werden von Hand gepflückt und schonend verarbeitet. Ein besonderes Merkmal ist die Lage in niedriger Höhe (20 m ü.d.M.), was im Gegensatz zu typischen Teeanbaugebieten in höheren Lagen steht. Besucher können an Führungen teilnehmen und den Herstellungsprozess beobachten. Die Plantage bietet auch eine Teeverkostung an.",
+      hu: "A Handunugoda Tea Estate Srí Lanka déli részén, Galle közelében található. Híres a világ legdrágább teájának, a 'Virgin White Tea'-nak a termeléséről. Az ültetvényt 1880-ban alapították, területe körülbelül 80 hektár. A tealeveleket kézzel szedik és kíméletesen dolgozzák fel. Alacsony tengerszint feletti magasságban (20 m) fekszik, ami ritka a teatermesztésben. A látogatók túrákon vehetnek részt, és megkóstolhatják a teákat. A birtokon múzeum is található.",
+      ro: "Handunugoda Tea Estate este o plantație de ceai din sudul Sri Lanka, lângă Galle. Este renumită pentru producția celui mai scump ceai din lume, 'Virgin White Tea'. Plantată în 1880, se întinde pe aproximativ 80 de hectare. Frunzele sunt culese manual și prelucrate delicat. Altitudinea joasă (20 m) este neobișnuită pentru ceai. Vizitatorii pot face tururi și degustări. Plantația are un muzeu al ceaiului.",
+      en: "Handunugoda Tea Estate is a tea plantation in southern Sri Lanka near Galle, famous for producing 'Virgin White Tea', one of the most expensive teas globally. Established in 1880, it covers about 80 hectares at a low altitude of 20 meters above sea level, which is atypical for tea cultivation. The leaves are hand-plucked and processed with minimal oxidation. The estate offers guided tours, tea tastings, and a museum. It provides insight into traditional tea production methods. The region's tropical climate contributes to the tea's unique flavor profile.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1880.", "Fläche: 80 Hektar.", "Höhe: 20 Meter über Meeresspiegel.", "Preis des Virgin White Tea: bis zu 3000 US-Dollar/kg.", "Jährliche Produktion: etwa 500 kg Virgin White Tea.", "Anzahl der Beschäftigten: ca. 200."],
+      hu: ["Alapítva: 1880.", "Terület: 80 hektár.", "Magasság: 20 méter tengerszint felett.", "Virgin White Tea ára: akár 3000 USD/kg.", "Éves termelés: kb. 500 kg Virgin White Tea.", "Alkalmazottak száma: kb. 200."],
+      ro: ["Fondată: 1880.", "Suprafață: 80 de hectare.", "Altitudine: 20 de metri.", "Prețul ceaiului Virgin White: până la 3000 USD/kg.", "Producție anuală: circa 500 kg Virgin White Tea.", "Număr de angajați: aproximativ 200."],
+      en: ["Established: 1880.", "Area: 80 hectares.", "Elevation: 20 meters above sea level.", "Virgin White Tea price: up to USD 3000/kg.", "Annual production: about 500 kg of Virgin White Tea.", "Number of employees: approx. 200."],
+    },
+  },
   {
     id: "halpewatte-tea-factory-life-v2",
     type: "agriculture",
     parent: "LK-81",
     coords: [81.0475, 6.8850],
-    name: { de: "Halpewatte-Teefabrik", hu: "Halpewatte Teagyár", ro: "Fabrica de Ceai Halpewatte", en: "Halpewatte Tea Factory",
-image: "/poi-images/halpewatte-tea-factory-life-v2.webp"
-},
+    name: { de: "Halpewatte-Teefabrik", hu: "Halpewatte Teagyár", ro: "Fabrica de Ceai Halpewatte", en: "Halpewatte Tea Factory"},
+    image: "/poi-images/halpewatte-tea-factory-life-v2.webp",
     description: { de: "Die größte Teefabrik in der Uva-Region, die detaillierte Einblicke in den Teeproduktionsprozess bietet.", hu: "Az Uva régió legnagyobb teagyára, amely részletes betekintést nyújt a teagyártás folyamatába.", ro: "Cea mai mare fabrică de ceai din regiunea Uva, oferind o privire detaliată asupra procesului de producție a ceaiului.", en: "The largest tea factory in the Uva region, providing detailed insights into the tea production process." },
     facts: {
       de: ["Gegründet im Jahr 1940", "Größte Fabrik der Uva-Provinz", "Bietet umfangreiche Teeverkostungen"],
       hu: ["1940-ben alapították", "Az Uva tartomány legnagyobb gyára", "Kiterjedt teakóstolókat kínál"],
       ro: ["Fondată în 1940", "Cea mai mare fabrică din provincia Uva", "Oferă degustări ample de ceai"],
       en: ["Founded in 1940", "Largest factory in Uva Province", "Offers extensive tea tasting sessions"]
-    }, image: "/poi-images/halpewatte-tea-factory-life-v2.webp"},
+    }, image: "/poi-images/halpewatte-tea-factory-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Halpewatte Tea Factory befindet sich in Nuwara Eliya, auf einer Höhe von 1.900 Metern. Sie wurde in den 1970er Jahren erbaut und ist eine der modernsten Teefabriken der Region. Die Fabrik verarbeitet Tee aus den umliegenden Plantagen und produziert sowohl CTC- als auch Orthodox-Tee. Besucher können den gesamten Verarbeitungsprozess besichtigen, vom Welken bis zur Sortierung. Die Fabrik legt Wert auf Qualitätskontrolle und nachhaltige Methoden. Die Anlage ist hoch automatisiert. Der Tee wird unter der Marke „Halpewatte“ exportiert. Führungen enden mit einer Verkostung.",
+      hu: "A Halpewatte Tea Factory Nuwara Eliyában, 1900 méteres magasságban található. Az 1970-es években épült, és a régió egyik legmodernebb teagyára. A gyár a környező ültetvényekről származó teát dolgozza fel, és CTC, valamint orthodox teát is gyárt. A látogatók megtekinthetik a teljes feldolgozási folyamatot a hervadástól a válogatásig. A gyár hangsúlyt fektet a minőségellenőrzésre és a fenntartható módszerekre. Az üzem erősen automatizált. A teát „Halpewatte” márkanéven exportálják. A túrák kóstolóval zárulnak.",
+      ro: "Fabrica de ceai Halpewatte este situată în Nuwara Eliya, la o altitudine de 1.900 de metri. A fost construită în anii 1970 și este una dintre cele mai moderne fabrici de ceai din regiune. Fabrica prelucrează ceai de pe plantațiile din jur, producând atât ceai CTC, cât și ortodox. Vizitatorii pot vedea întregul proces, de la ofilire la sortare. Fabrica pune accent pe controlul calității și metodele sustenabile. Instalația este puternic automatizată. Ceaiul este exportat sub brandul „Halpewatte”. Tururile se încheie cu o degustare.",
+      en: "Halpewatte Tea Factory, located in Nuwara Eliya at an elevation of 1,900 meters, was built in the 1970s and is one of the most modern tea processing facilities in the region. The factory processes tea from surrounding estates, producing both CTC (Crush-Tear-Curl) and orthodox teas. Visitors can tour the entire process, from withering to sorting. The factory emphasizes quality control and sustainable practices. The facility is highly automated. Tea is exported under the Halpewatte brand. Tours conclude with a tasting session.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1970er Jahren.", "Höhenlage: 1.900 m.", "Verarbeitungskapazität: 10.000 kg grüne Blätter pro Tag.", "Produziert CTC- und Orthodox-Tee.", "Anzahl der Beschäftigten: 200.", "Export in 15 Länder."],
+      hu: ["Az 1970-es években épült.", "Tengerszint feletti magasság: 1900 m.", "Feldolgozási kapacitás: napi 10.000 kg zöld levél.", "CTC és orthodox teát gyárt.", "Foglalkoztatottak száma: 200.", "15 országba exportál."],
+      ro: ["Construit în anii 1970.", "Altitudine: 1.900 m.", "Capacitate de prelucrare: 10.000 kg de frunze verzi pe zi.", "Produce ceai CTC și ortodox.", "Număr de angajați: 200.", "Exportă în 15 țări."],
+      en: ["Built in the 1970s.", "Elevation: 1,900 m.", "Processing capacity: 10,000 kg of green leaves per day.", "Produces both CTC and orthodox teas.", "Number of employees: 200.", "Exports to 15 countries."],
+    },
+  },
   {
     id: "newburgh-green-tea-factory-life-v2",
     type: "agriculture",
     parent: "LK-81",
     coords: [81.0550, 6.8700],
-    name: { de: "Newburgh-Grünteefabrik", hu: "Newburgh Zöldtea Gyár", ro: "Fabrica de Ceai Verde Newburgh", en: "Newburgh Green Tea Factory",
-image: "/poi-images/newburgh-green-tea-factory-life-v2.webp"
-},
+    name: { de: "Newburgh-Grünteefabrik", hu: "Newburgh Zöldtea Gyár", ro: "Fabrica de Ceai Verde Newburgh", en: "Newburgh Green Tea Factory"},
+    image: "/poi-images/newburgh-green-tea-factory-life-v2.webp",
     description: { de: "Eine spezialisierte Fabrik in Ella, die ausschließlich hochwertigen grünen Ceylon-Tee herstellt.", hu: "Egy speciális gyár Ellában, amely kizárólag kiváló minőségű ceyloni zöld teát állít elő.", ro: "O fabrică specializată în Ella, care produce exclusiv ceai verde de Ceylon de înaltă calitate.", en: "A specialized factory in Ella producing exclusively high-quality green Ceylon tea." },
     facts: {
       de: ["Produziert nur grünen Tee", "Verwendet moderne Verarbeitungstechniken", "Befindet sich in Ella"],
       hu: ["Csak zöld teát állít elő", "Modern feldolgozási technikákat alkalmaz", "Ellában található"],
       ro: ["Produce doar ceai verde", "Folosește tehnici moderne de procesare", "Situată în Ella"],
       en: ["Produces only green tea", "Uses modern processing techniques", "Located in Ella"]
-    }, image: "/poi-images/newburgh-green-tea-factory-life-v2.webp"},
+    }, image: "/poi-images/newburgh-green-tea-factory-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Newburgh Green Tea Factory befindet sich in Ella, Sri Lanka, auf einer Höhe von etwa 1.000 Metern. Sie wurde in den 1930er Jahren gegründet und spezialisiert sich auf die Herstellung von grünem Tee, eine Abweichung von der üblichen Schwarztee-Produktion Sri Lankas. Die Fabrik verarbeitet Teeblätter mit traditionellen Methoden, um den Geschmack zu bewahren. Besucher können den Prozess der Dämpfung, Rollung und Trocknung beobachten. Die Fabrik ist kleiner als andere und bietet einen persönlicheren Einblick. Der grüne Tee wird lokal und international verkauft. Die umliegende Landschaft ist bergig mit Wasserfällen.",
+      hu: "A Newburgh Green Tea Factory Ellában, Srí Lankán található, körülbelül 1000 méteres magasságban. Az 1930-as években alapították, és a zöld tea előállítására specializálódott, ami eltérés a Srí Lanka-i szokásos fekete tea termeléstől. A gyár hagyományos módszerekkel dolgozza fel a tealeveleket az íz megőrzése érdekében. A látogatók megfigyelhetik a gőzölés, hengerelés és szárítás folyamatát. A gyár kisebb, mint mások, és személyesebb betekintést nyújt. A zöld teát helyben és nemzetközileg is értékesítik. A környező táj hegyvidéki, vízesésekkel.",
+      ro: "Fabrica de ceai verde Newburgh este situată în Ella, Sri Lanka, la o altitudine de aproximativ 1.000 de metri. A fost fondată în anii 1930 și este specializată în producția de ceai verde, o abatere de la producția obișnuită de ceai negru din Sri Lanka. Fabrica procesează frunzele de ceai folosind metode tradiționale pentru a păstra aroma. Vizitatorii pot observa procesul de aburire, rulare și uscare. Fabrica este mai mică decât altele și oferă o perspectivă mai personală. Ceaiul verde este vândut local și internațional. Peisajul din jur este muntos, cu cascade.",
+      en: "Newburgh Green Tea Factory in Ella, Sri Lanka, sits at an elevation of about 1,000 meters. Established in the 1930s, it specializes in green tea production, a departure from Sri Lanka's typical black tea. The factory uses traditional methods to preserve flavor, including steaming and rolling. Visitors can tour the small-scale facility and observe the entire process. The green tea is sold both locally and internationally. The surrounding area features stunning mountain scenery and waterfalls. The factory offers a more intimate experience compared to larger estates.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet in den 1930er Jahren.", "Höhenlage: 1.000 m.", "Anbaufläche: ca. 20 Hektar.", "Jährliche Produktion: ca. 10 Tonnen grüner Tee.", "Mitarbeiter: 30.", "Spezialisiert auf Bio-Grüntee seit 2005."],
+      hu: ["Az 1930-as években alapították.", "Tengerszint feletti magasság: 1000 m.", "Termőterület: kb. 20 hektár.", "Éves termelés: kb. 10 tonna zöld tea.", "Foglalkoztatottak: 30.", "Bio zöld teára specializálódott 2005 óta."],
+      ro: ["Fondată în anii 1930.", "Altitudine: 1.000 m.", "Suprafață cultivată: aprox. 20 de hectare.", "Producție anuală: aprox. 10 tone de ceai verde.", "Angajați: 30.", "Specializată în ceai verde organic din 2005."],
+      en: ["Established in the 1930s.", "Elevation: 1,000 m.", "Cultivated area: approx. 20 hectares.", "Annual production: approx. 10 tons of green tea.", "Employees: 30.", "Specialized in organic green tea since 2005."],
+    },
+  },
   {
     id: "pinnawala-open-zoo-life-v2",
     type: "kid-friendly",
     parent: "LK-92",
     coords: [80.3860, 7.2960],
-    name: { de: "Pinnawala Freiluftzoo", hu: "Pinnawala Szabadtéri Ãllatkert", ro: "Grădina Zoologică în Aer Liber Pinnawala", en: "Pinnawala Open Zoo",
-image: "/poi-images/pinnawala-open-zoo-life-v2.webp"
-},
+    name: { de: "Pinnawala Freiluftzoo", hu: "Pinnawala Szabadtéri Ãllatkert", ro: "Grădina Zoologică în Aer Liber Pinnawala", en: "Pinnawala Open Zoo"},
+    image: "/poi-images/pinnawala-open-zoo-life-v2.webp",
     description: { de: "Der erste Freiluftzoo des Landes, der weitläufige Gehege für einheimische und exotische Tiere bietet.", hu: "Az ország első szabadtéri állatkertje, amely tágas kifutókat biztosít hazai és egzotikus állatoknak.", ro: "Prima grădină zoologică în aer liber din țară, oferind incinte spațioase pentru animale indigene și exotice.", en: "The country's first open-air zoo, providing spacious enclosures for indigenous and exotic animals." },
     facts: {
       de: ["Eröffnet im Jahr 2015", "Tiere leben in natürlichen Lebensräumen", "Direkt neben dem Elefantenwaisenhaus"],
       hu: ["2015-ben nyílt meg", "Az állatok természetes élőhelyen élnek", "Közvetlenül az elefántárvaház mellett van"],
       ro: ["Deschisă în 2015", "Animalele trăiesc în habitate naturale", "Chiar lângă orfelinatul de elefanți"],
       en: ["Opened in 2015", "Animals live in natural habitats", "Right next to the elephant orphanage"]
-    }, image: "/poi-images/pinnawala-open-zoo-life-v2.webp"},
+    }, image: "/poi-images/pinnawala-open-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pinnawala Open Zoo wurde 2015 eröffnet und liegt in der Nähe von Kegalle, etwa 80 Kilometer von Colombo entfernt. Er erstreckt sich über 18 Hektar und ist der erste offene Zoo Sri Lankas, in dem Tiere in großen, natürlichen Gehegen leben. Der Zoo beherbergt eine Vielzahl von Tieren, darunter Löwen, Tiger, Bären, Affen und Vögel. Besonders bekannt ist er für seine Elefanten. Besucher können die Tiere aus nächster Nähe beobachten. Der Zoo legt Wert auf Artenschutz und Bildung. Er ist bei einheimischen und internationalen Touristen beliebt. Der Zoo arbeitet mit dem Department of Wildlife Conservation zusammen.",
+      hu: "A Pinnawala Open Zoo 2015-ben nyílt meg Kegalle közelében, Colombótól mintegy 80 km-re. 18 hektáron terül el, és Srí Lanka első nyílt állatkertje, ahol az állatok nagy, természetes kifutókban élnek. Az állatkert számos állatfajnak ad otthont, köztük oroszlánoknak, tigriseknek, medvéknek, majmoknak és madaraknak. Különösen híres az elefántjairól. A látogatók közelről figyelhetik meg az állatokat. Az állatkert hangsúlyt fektet a természetvédelemre és az oktatásra. Népszerű a helyi és nemzetközi turisták körében. A Vadvédelmi Minisztériummal együttműködve működik.",
+      ro: "Grădina Zoologică Deschisă Pinnawala a fost deschisă în 2015, lângă Kegalle, la aproximativ 80 km de Colombo. Se întinde pe 18 hectare și este prima grădină zoologică deschisă din Sri Lanka, unde animalele trăiesc în incinte mari, naturale. Adăpostește o varietate de animale, inclusiv lei, tigri, urși, maimuțe și păsări. Este deosebit de renumită pentru elefanți. Vizitatorii pot observa animalele de aproape. Grădina zoologică pune accent pe conservarea speciilor și educație. Este populară printre turiști locali și internaționali. Colaborează cu Departamentul pentru Conservarea Faunei Sălbatice.",
+      en: "Pinnawala Open Zoo, opened in 2015 near Kegalle, about 80 km from Colombo, covers 18 hectares and is Sri Lanka's first open zoo, featuring large natural enclosures. The zoo houses a diverse array of animals including lions, tigers, bears, monkeys, and birds. It is particularly known for its elephant enclosures. Visitors can observe animals up close in a safari-like environment. The zoo emphasizes conservation and education. It is a popular attraction for both local and international tourists. The zoo works closely with the Sri Lanka Department of Wildlife Conservation.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2015.", "Fläche: 18 Hektar.", "Anzahl der Tierarten: 50.", "Anzahl der Tiere: über 300.", "Besucher jährlich: ca. 500.000.", "Eintrittspreis Erwachsene: 2000 LKR."],
+      hu: ["Megnyitás: 2015.", "Terület: 18 hektár.", "Állatfajok száma: 50.", "Állatok száma: több mint 300.", "Éves látogatók: kb. 500.000.", "Felnőtt belépőjegy: 2000 LKR."],
+      ro: ["Deschis în 2015.", "Suprafață: 18 hectare.", "Specii de animale: 50.", "Număr de animale: peste 300.", "Vizitatori anuali: aprox. 500.000.", "Preț bilet adulți: 2000 LKR."],
+      en: ["Opened in 2015.", "Area: 18 hectares.", "Animal species: 50.", "Number of animals: over 300.", "Annual visitors: approx. 500,000.", "Adult ticket price: 2000 LKR."],
+    },
+  },
   {
     id: "millennium-elephant-foundation-life-v2",
     type: "kid-friendly",
     parent: "LK-92",
     coords: [80.4000, 7.2700],
-    name: { de: "Millennium-Elefanten-Stiftung", hu: "Millennium Elefánt Alapítvány", ro: "Fundația Elefanților Millennium", en: "Millennium Elephant Foundation",
-image: "/poi-images/millennium-elephant-foundation-life-v2.webp"
-},
+    name: { de: "Millennium-Elefanten-Stiftung", hu: "Millennium Elefánt Alapítvány", ro: "Fundația Elefanților Millennium", en: "Millennium Elephant Foundation"},
+    image: "/poi-images/millennium-elephant-foundation-life-v2.webp",
     description: { de: "Eine familienfreundliche Rettungsorganisation, in der Besucher respektvoll mit Elefanten interagieren können.", hu: "Egy családbarát mentőszervezet, ahol a látogatók tiszteletteljesen kapcsolatba léphetnek az elefántokkal.", ro: "O organizație de salvare potrivită pentru familii, unde vizitatorii pot interacționa respectuos cu elefanții.", en: "A family-friendly rescue organization where visitors can interact respectfully with elephants." },
     facts: {
       de: ["Kümmert sich um gerettete Elefanten", "Bietet Spaziergänge mit Elefanten an", "Fördert den Tierschutz"],
       hu: ["Mentett elefántokról gondoskodik", "Sétákat kínál elefántokkal", "Elősegíti az állatvédelmet"],
       ro: ["Îngrijește elefanții salvați", "Oferă plimbări cu elefanții", "Promovează bunăstarea animalelor"],
       en: ["Cares for rescued elephants", "Offers walks with elephants", "Promotes animal welfare"]
-    }, image: "/poi-images/millennium-elephant-foundation-life-v2.webp"},
+    }, image: "/poi-images/millennium-elephant-foundation-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Millennium Elephant Foundation liegt in Kegalle, Sri Lanka, und wurde 1999 gegründet. Sie ist eine gemeinnützige Organisation, die sich für das Wohlergehen von Elefanten einsetzt. Die Stiftung bietet geretteten und verwaisten Elefanten ein Zuhause und betreibt ein Programm zur Aufzucht von Elefanten. Besucher können die Elefanten hautnah erleben, sie füttern und baden. Die Stiftung klärt über die Probleme auf, mit denen Elefanten in Sri Lanka konfrontiert sind, wie Lebensraumverlust und Wilderei. Sie arbeitet mit lokalen Gemeinden zusammen. Die Einrichtung ist ein wichtiges Zentrum für Elefantenschutz.",
+      hu: "A Millennium Elephant Foundation Kegalle városában, Srí Lankán található, és 1999-ben alapították. Ez egy nonprofit szervezet, amely az elefántok jólétéért dolgozik. Az alapítvány otthont ad megmentett és árván maradt elefántoknak, és elefántnevelő programot működtet. A látogatók közelről találkozhatnak az elefántokkal, etethetik és fürdethetik őket. Az alapítvány felvilágosít az elefántokat fenyegető veszélyekről, mint az élőhelyvesztés és az orvvadászat. Helyi közösségekkel együttműködve dolgozik. A létesítmény fontos központja az elefántvédelemnek.",
+      ro: "Fundația Milleniului pentru Elefanți este situată în Kegalle, Sri Lanka, și a fost fondată în 1999. Este o organizație non-profit dedicată bunăstării elefanților. Fundația oferă adăpost elefanților salvați și orfani și conduce un program de creștere a elefanților. Vizitatorii pot interacționa îndeaproape cu elefanții, hrănindu-i și scăldându-i. Fundația educă publicul cu privire la problemele cu care se confruntă elefanții din Sri Lanka, cum ar fi pierderea habitatului și braconajul. Colaborează cu comunitățile locale. Facilitatea este un centru important pentru conservarea elefanților.",
+      en: "The Millennium Elephant Foundation in Kegalle, Sri Lanka, was established in 1999 as a non-profit organization dedicated to elephant welfare. It provides a home for rescued and orphaned elephants and runs a captive breeding program. Visitors can interact closely with elephants, including feeding and bathing them. The foundation educates the public about threats to Sri Lankan elephants, such as habitat loss and poaching. It works with local communities to promote coexistence. The foundation is a key center for elephant conservation and research.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1999.", "Anzahl der Elefanten: 10-15.", "Besucher jährlich: ca. 50.000.", "Fläche: 3 Hektar.", "Beschäftigte: 40.", "Freiwillige pro Jahr: 200."],
+      hu: ["Alapítás: 1999.", "Elefántok száma: 10-15.", "Éves látogatók: kb. 50.000.", "Terület: 3 hektár.", "Foglalkoztatottak: 40.", "Éves önkéntesek: 200."],
+      ro: ["Fondată în 1999.", "Numărul de elefanți: 10-15.", "Vizitatori anuali: aprox. 50.000.", "Suprafață: 3 hectare.", "Angajați: 40.", "Voluntari pe an: 200."],
+      en: ["Founded in 1999.", "Number of elephants: 10-15.", "Annual visitors: approx. 50,000.", "Area: 3 hectares.", "Employees: 40.", "Volunteers per year: 200."],
+    },
+  },
   {
     id: "kosgoda-sea-turtle-conservation-project-life-v2",
     type: "kid-friendly",
     parent: "LK-31",
     coords: [80.0260, 6.3050],
-    name: { de: "Meeresschildkröten-Schutzprojekt Kosgoda", hu: "Kosgoda Tengeri Teknős Védelmi Projekt", ro: "Proiectul de Conservare a Țestoaselor Marine din Kosgoda", en: "Kosgoda Sea Turtle Conservation Project",
-image: "/poi-images/kosgoda-sea-turtle-conservation-project-life-v2.webp"
-},
+    name: { de: "Meeresschildkröten-Schutzprojekt Kosgoda", hu: "Kosgoda Tengeri Teknős Védelmi Projekt", ro: "Proiectul de Conservare a Țestoaselor Marine din Kosgoda", en: "Kosgoda Sea Turtle Conservation Project"},
+    image: "/poi-images/kosgoda-sea-turtle-conservation-project-life-v2.webp",
     description: { de: "Eine Schutzstation, die Schildkröteneier rettet und frisch geschlüpfte Babys sicher ins Meer entlässt.", hu: "Egy mentőállomás, amely megmenti a teknőstojásokat, és a frissen kikelt fiókákat biztonságosan a tengerbe engedi.", ro: "O stație de conservare care salvează ouăle de broască țestoasă și eliberează puii eclozați în siguranță în mare.", en: "A conservation hatchery that rescues turtle eggs and safely releases hatchlings into the ocean." },
     facts: {
       de: ["Rettet verletzte Schildkröten", "Lässt Babyschildkröten frei", "Klärt Besucher über den Schutz auf"],
       hu: ["Sérült teknősöket ment meg", "Kis teknősöket enged szabadon", "Oktatja a látogatókat a védelemről"],
       ro: ["Salvează țestoasele rănite", "Eliberează puii de broască țestoasă", "Mărește conștientizarea vizitatorilor"],
       en: ["Rescues injured turtles", "Releases baby turtles into the sea", "Educates visitors on conservation"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kosgoda Sea Turtle Conservation Project wurde 1978 gegründet und liegt an der Südwestküste Sri Lankas, etwa 10 Kilometer von Bentota entfernt. Es ist ein Basisprojekt zum Schutz von Meeresschildkröten, die an den Stränden nisten. Das Projekt sammelt Eier, schützt Nester und setzt Jungtiere aus. Besucher können die verschiedenen Schildkrötenarten beobachten, darunter die Grüne Meeresschildkröte und die Echte Karettschildkröte. Das Projekt klärt über die Bedrohungen auf, wie Plastikverschmutzung und Wilderei. Es arbeitet mit lokalen Fischern zusammen. Freiwillige können bei der Pflege helfen.",
+      hu: "A Kosgoda Tengeri Teknős Védelmi Projektet 1978-ban alapították, és Srí Lanka délnyugati partján, Bentotától kb. 10 km-re található. Ez egy alulról szerveződő kezdeményezés a tengeri teknősök védelmére, amelyek a partokon rakják le tojásaikat. A projekt összegyűjti a tojásokat, védi a fészkeket, és kiengedi a kisteknősöket. A látogatók megfigyelhetik a különböző teknősfajokat, mint a zöld teknős és a cserepesteknős. A projekt felvilágosít a veszélyekről, mint a műanyagszennyezés és az orvvadászat. Helyi halászokkal működik együtt. Önkéntesek segíthetnek a gondozásban.",
+      ro: "Proiectul de Conservare a Țestoaselor Marine de la Kosgoda a fost fondat în 1978, situat pe coasta de sud-vest a Sri Lankăi, la aproximativ 10 km de Bentota. Este un proiect local de protejare a țestoaselor marine care cuibăresc pe plaje. Proiectul colectează ouă, protejează cuiburile și eliberează puii. Vizitatorii pot observa diferite specii de țestoase, inclusiv țestoasa verde și țestoasa carettă. Proiectul educă publicul cu privire la amenințări precum poluarea cu plastic și braconajul. Colaborează cu pescarii locali. Voluntarii pot ajuta la îngrijire.",
+      en: "The Kosgoda Sea Turtle Conservation Project, founded in 1978 on Sri Lanka's southwest coast about 10 km from Bentota, is a grassroots initiative to protect marine turtles nesting on the beaches. The project collects eggs, safeguards nests, and releases hatchlings. Visitors can observe various species, including green turtles and hawksbill turtles. The project educates about threats such as plastic pollution and poaching. It collaborates with local fishermen to reduce accidental catches. Volunteers can participate in hatchery duties. The project has released over 500,000 baby turtles since its inception.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1978.", "Anzahl der Schildkrötenarten: 5.", "Jährlich geschlüpfte Jungtiere: ca. 10.000.", "Bisher freigelassene Schildkröten: über 500.000.", "Freiwillige pro Jahr: 1.000.", "Entfernung zu Colombo: 80 km."],
+      hu: ["Alapítás: 1978.", "Teknősfajok száma: 5.", "Évente kikelt teknősök: kb. 10.000.", "Eddig kiengedett teknősök: több mint 500.000.", "Éves önkéntesek: 1000.", "Távolság Colombótól: 80 km."],
+      ro: ["Fondat în 1978.", "Specii de țestoase: 5.", "Pui eclozați anual: aprox. 10.000.", "Țestoase eliberate până acum: peste 500.000.", "Voluntari pe an: 1.000.", "Distanța față de Colombo: 80 km."],
+      en: ["Founded in 1978.", "Turtle species: 5.", "Annual hatchlings: approx. 10,000.", "Turtles released to date: over 500,000.", "Volunteers per year: 1,000.", "Distance from Colombo: 80 km."],
+    },
   }
 ];

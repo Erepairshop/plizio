@@ -5,9 +5,8 @@ export const moldovaEconomicV2: POI[] = [
     id: "moldova-giurgiulesti-port-economic-v2",
     parent: "MD",
     type: "port",
-    name: { de: "Internationaler Freihafen Giurgiulești", hu: "Giurgiulești Nemzetközi Szabadkikötő", ro: "Portul Internațional Liber Giurgiulești", en: "Giurgiulești International Free Port",
-image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"
-},
+    name: { de: "Internationaler Freihafen Giurgiulești", hu: "Giurgiulești Nemzetközi Szabadkikötő", ro: "Portul Internațional Liber Giurgiulești", en: "Giurgiulești International Free Port"},
+    image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp",
     coords: [28.2036, 45.4744],
     coordinates: { lat: 45.4744, lng: 28.2036 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/moldova-giurgiulesti-port-economic-v2.webp"
     id: "moldova-fez-balti-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Bălți", hu: "Bălți Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Bălți", en: "Free Economic Zone Bălți",
-image: "/poi-images/moldova-fez-balti-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Bălți", hu: "Bălți Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Bălți", en: "Free Economic Zone Bălți"},
+    image: "/poi-images/moldova-fez-balti-economic-v2.webp",
     coords: [27.9225, 47.7812],
     coordinates: { lat: 47.7812, lng: 27.9225 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/moldova-fez-balti-economic-v2.webp"
     id: "moldova-cricova-winery-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Weingut Cricova", hu: "Cricova Borászat", ro: "Combinatul de Vinuri Cricova", en: "Cricova Winery",
-image: "/poi-images/moldova-cricova-winery-economic-v2.webp"
-},
+    name: { de: "Weingut Cricova", hu: "Cricova Borászat", ro: "Combinatul de Vinuri Cricova", en: "Cricova Winery"},
+    image: "/poi-images/moldova-cricova-winery-economic-v2.webp",
     coords: [28.8583, 47.1388],
     coordinates: { lat: 47.1388, lng: 28.8583 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/moldova-cricova-winery-economic-v2.webp"
     id: "moldova-cuciurgan-power-station-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Kraftwerk Cuciurgan", hu: "Cuciurgan Erőmű", ro: "Centrala Electrică de la Cuciurgan", en: "Cuciurgan Power Station",
-image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Cuciurgan", hu: "Cuciurgan Erőmű", ro: "Centrala Electrică de la Cuciurgan", en: "Cuciurgan Power Station"},
+    image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp",
     coords: [29.9372, 46.6261],
     coordinates: { lat: 46.6261, lng: 29.9372 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/moldova-cuciurgan-power-station-economic-v2.webp"
     id: "moldova-bucuria-factory-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Süßwarenfabrik Bucuria", hu: "Bucuria Édességgyár", ro: "Fabrica de bomboane Bucuria", en: "Bucuria Confectionery Factory",
-image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"
-},
+    name: { de: "Süßwarenfabrik Bucuria", hu: "Bucuria Édességgyár", ro: "Fabrica de bomboane Bucuria", en: "Bucuria Confectionery Factory"},
+    image: "/poi-images/moldova-bucuria-factory-economic-v2.webp",
     coords: [28.8314, 47.0347],
     coordinates: { lat: 47.0347, lng: 28.8314 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/moldova-bucuria-factory-economic-v2.webp"
     id: "moldova-milestii-mici-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Weinkeller von Mileștii Mici", hu: "Mileștii Mici Borpince", ro: "Combinatul de Vinuri Mileștii Mici", en: "Mileștii Mici Winery",
-image: "/poi-images/moldova-milestii-mici-economic-v2.webp"
-},
+    name: { de: "Weinkeller von Mileștii Mici", hu: "Mileștii Mici Borpince", ro: "Combinatul de Vinuri Mileștii Mici", en: "Mileștii Mici Winery"},
+    image: "/poi-images/moldova-milestii-mici-economic-v2.webp",
     coords: [28.8028, 46.9111],
     coordinates: { lat: 46.9111, lng: 28.8028 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/moldova-milestii-mici-economic-v2.webp"
     id: "moldova-glass-factory-chisinau-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Glasfabrik Chișinău", hu: "Kisinyovi Üveggyár", ro: "Fabrica de Sticlă din Chișinău", en: "Glass Factory Chișinău",
-image: "/poi-images/moldova-glass-factory-chisinau-economic-v2.webp"
-},
+    name: { de: "Glasfabrik Chișinău", hu: "Kisinyovi Üveggyár", ro: "Fabrica de Sticlă din Chișinău", en: "Glass Factory Chișinău"},
+    image: "/poi-images/moldova-glass-factory-chisinau-economic-v2.webp",
     coords: [28.9022, 47.0211],
     coordinates: { lat: 47.0211, lng: 28.9022 },
     description: {
@@ -256,9 +249,8 @@ image: "/poi-images/moldova-glass-factory-chisinau-economic-v2.webp"
     id: "moldova-purcari-estate-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Weingut Purcari", hu: "Purcari Birtok", ro: "Vinăria Purcari", en: "Purcari Estate",
-image: "/poi-images/moldova-purcari-estate-economic-v2.webp"
-},
+    name: { de: "Weingut Purcari", hu: "Purcari Birtok", ro: "Vinăria Purcari", en: "Purcari Estate"},
+    image: "/poi-images/moldova-purcari-estate-economic-v2.webp",
     coords: [29.8711, 46.5325],
     coordinates: { lat: 46.5325, lng: 29.8711 },
     description: {
@@ -292,9 +284,8 @@ image: "/poi-images/moldova-purcari-estate-economic-v2.webp"
     id: "moldova-costesti-stanca-dam-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Wasserkraftwerk Costești-Stânca", hu: "Costești-Stânca Vízerőmű", ro: "Nodul Hidrotehnic Costești-Stânca", en: "Costești-Stânca Hydroelectric Plant",
-image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"
-},
+    name: { de: "Wasserkraftwerk Costești-Stânca", hu: "Costești-Stânca Vízerőmű", ro: "Nodul Hidrotehnic Costești-Stânca", en: "Costești-Stânca Hydroelectric Plant"},
+    image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp",
     coords: [27.2288, 47.8388],
     coordinates: { lat: 47.8388, lng: 27.2288 },
     description: {
@@ -328,9 +319,8 @@ image: "/poi-images/moldova-costesti-stanca-dam-economic-v2.webp"
     id: "moldova-fez-ungheni-business-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "FEZ Ungheni-Business", hu: "Ungheni-Business Szabad Gazdasági Övezet", ro: "ZEL Ungheni-Business", en: "FEZ Ungheni-Business",
-image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"
-},
+    name: { de: "FEZ Ungheni-Business", hu: "Ungheni-Business Szabad Gazdasági Övezet", ro: "ZEL Ungheni-Business", en: "FEZ Ungheni-Business"},
+    image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp",
     coords: [27.8011, 47.2022],
     coordinates: { lat: 47.2022, lng: 27.8011 },
     description: {
@@ -364,9 +354,8 @@ image: "/poi-images/moldova-fez-ungheni-business-economic-v2.webp"
     id: "moldova-orhei-vit-factory-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Orhei-Vit Konservenfabrik", hu: "Orhei-Vit Konzervgyár", ro: "Fabrica Orhei-Vit", en: "Orhei-Vit Cannery",
-image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"
-},
+    name: { de: "Orhei-Vit Konservenfabrik", hu: "Orhei-Vit Konzervgyár", ro: "Fabrica Orhei-Vit", en: "Orhei-Vit Cannery"},
+    image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp",
     coords: [28.8211, 47.3755],
     coordinates: { lat: 47.3755, lng: 28.8211 },
     description: {
@@ -400,9 +389,8 @@ image: "/poi-images/moldova-orhei-vit-factory-economic-v2.webp"
     id: "moldova-dubasari-dam-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Staudamm von Dubăsari", hu: "Dubăsari-gát", ro: "Barajul de la Dubăsari", en: "Dubăsari Dam",
-image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"
-},
+    name: { de: "Staudamm von Dubăsari", hu: "Dubăsari-gát", ro: "Barajul de la Dubăsari", en: "Dubăsari Dam"},
+    image: "/poi-images/moldova-dubasari-dam-economic-v2.webp",
     coords: [29.1255, 47.2722],
     coordinates: { lat: 47.2722, lng: 29.1255 },
     description: {
@@ -436,9 +424,8 @@ image: "/poi-images/moldova-dubasari-dam-economic-v2.webp"
     id: "moldova-floare-carpet-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Teppichfabrik Floare-Carpet", hu: "Floare-Carpet Szőnyeggyár", ro: "Fabrica Floare-Carpet", en: "Floare-Carpet Factory",
-image: "/poi-images/moldova-floare-carpet-economic-v2.webp"
-},
+    name: { de: "Teppichfabrik Floare-Carpet", hu: "Floare-Carpet Szőnyeggyár", ro: "Fabrica Floare-Carpet", en: "Floare-Carpet Factory"},
+    image: "/poi-images/moldova-floare-carpet-economic-v2.webp",
     coords: [28.8755, 47.0011],
     coordinates: { lat: 47.0011, lng: 28.8755 },
     description: {
@@ -472,9 +459,8 @@ image: "/poi-images/moldova-floare-carpet-economic-v2.webp"
     id: "moldova-zorile-shoe-factory-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Schuhfabrik Zorile", hu: "Zorile Cipőgyár", ro: "Fabrica de încălțăminte Zorile", en: "Zorile Shoe Factory",
-image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"
-},
+    name: { de: "Schuhfabrik Zorile", hu: "Zorile Cipőgyár", ro: "Fabrica de încălțăminte Zorile", en: "Zorile Shoe Factory"},
+    image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp",
     coords: [28.8188, 47.0311],
     coordinates: { lat: 47.0311, lng: 28.8188 },
     description: {
@@ -508,9 +494,8 @@ image: "/poi-images/moldova-zorile-shoe-factory-economic-v2.webp"
     id: "moldova-fez-tvardita-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Tvardița", hu: "Tvardița Szabad Gazdasági Övezet", ro: "ZEL Tvardița", en: "Free Economic Zone Tvardița",
-image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Tvardița", hu: "Tvardița Szabad Gazdasági Övezet", ro: "ZEL Tvardița", en: "Free Economic Zone Tvardița"},
+    image: "/poi-images/moldova-fez-tvardita-economic-v2.webp",
     coords: [28.9611, 46.1522],
     coordinates: { lat: 46.1522, lng: 28.9611 },
     description: {
@@ -544,9 +529,8 @@ image: "/poi-images/moldova-fez-tvardita-economic-v2.webp"
     id: "moldova-fez-valcanes-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Valkaneș", hu: "Valkaneș Szabad Gazdasági Övezet", ro: "ZEL Valkaneș", en: "Free Economic Zone Valkaneș",
-image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Valkaneș", hu: "Valkaneș Szabad Gazdasági Övezet", ro: "ZEL Valkaneș", en: "Free Economic Zone Valkaneș"},
+    image: "/poi-images/moldova-fez-valcanes-economic-v2.webp",
     coords: [28.4122, 45.6911],
     coordinates: { lat: 45.6911, lng: 28.4122 },
     description: {
@@ -580,9 +564,8 @@ image: "/poi-images/moldova-fez-valcanes-economic-v2.webp"
     id: "moldova-cosauti-stone-quarry-economic-v2",
     parent: "MD",
     type: "mine",
-    name: { de: "Steinbruch von Cosăuți", hu: "Cosăuți kőbánya", ro: "Cariera de piatră din Cosăuți", en: "Cosăuți Stone Quarry",
-image: "/poi-images/moldova-cosauti-stone-quarry-economic-v2.webp"
-},
+    name: { de: "Steinbruch von Cosăuți", hu: "Cosăuți kőbánya", ro: "Cariera de piatră din Cosăuți", en: "Cosăuți Stone Quarry"},
+    image: "/poi-images/moldova-cosauti-stone-quarry-economic-v2.webp",
     coords: [28.3011, 48.2255],
     coordinates: { lat: 48.2255, lng: 28.3011 },
     description: {
@@ -615,9 +598,8 @@ image: "/poi-images/moldova-cosauti-stone-quarry-economic-v2.webp"
     id: "moldova-micauti-limestone-quarry-economic-v2",
     parent: "MD",
     type: "mine",
-    name: { de: "Kalksteinbruch Micăuți", hu: "Micăuți mészkőbánya", ro: "Cariera de calcar Micăuți", en: "Micăuți Limestone Quarry",
-image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"
-},
+    name: { de: "Kalksteinbruch Micăuți", hu: "Micăuți mészkőbánya", ro: "Cariera de calcar Micăuți", en: "Micăuți Limestone Quarry"},
+    image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp",
     coords: [28.7511, 47.1755],
     coordinates: { lat: 47.1755, lng: 28.7511 },
     description: {
@@ -651,9 +633,8 @@ image: "/poi-images/moldova-micauti-limestone-quarry-economic-v2.webp"
     id: "moldova-chateau-vartely-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Chateau Vartely", hu: "Chateau Vartely", ro: "Chateau Vartely", en: "Chateau Vartely",
-image: "/poi-images/moldova-chateau-vartely-economic-v2.webp"
-},
+    name: { de: "Chateau Vartely", hu: "Chateau Vartely", ro: "Chateau Vartely", en: "Chateau Vartely"},
+    image: "/poi-images/moldova-chateau-vartely-economic-v2.webp",
     coords: [28.8255, 47.3788],
     coordinates: { lat: 47.3788, lng: 28.8255 },
     description: {
@@ -686,9 +667,8 @@ image: "/poi-images/moldova-chateau-vartely-economic-v2.webp"
     id: "moldova-castel-mimi-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Castel Mimi", hu: "Mimi Kastély", ro: "Castel Mimi", en: "Castel Mimi",
-image: "/poi-images/moldova-castel-mimi-economic-v2.webp"
-},
+    name: { de: "Castel Mimi", hu: "Mimi Kastély", ro: "Castel Mimi", en: "Castel Mimi"},
+    image: "/poi-images/moldova-castel-mimi-economic-v2.webp",
     coords: [29.1711, 46.8922],
     coordinates: { lat: 46.8922, lng: 29.1711 },
     description: {
@@ -722,9 +702,8 @@ image: "/poi-images/moldova-castel-mimi-economic-v2.webp"
     id: "moldova-fez-expo-business-chisinau-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "FEZ Expo-Business-Chișinău", hu: "Expo-Business-Chișinău Szabad Gazdasági Övezet", ro: "ZEL Expo-Business-Chișinău", en: "FEZ Expo-Business-Chișinău",
-image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"
-},
+    name: { de: "FEZ Expo-Business-Chișinău", hu: "Expo-Business-Chișinău Szabad Gazdasági Övezet", ro: "ZEL Expo-Business-Chișinău", en: "FEZ Expo-Business-Chișinău"},
+    image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp",
     coords: [28.8811, 46.9855],
     coordinates: { lat: 46.9855, lng: 28.8811 },
     description: {
@@ -758,9 +737,8 @@ image: "/poi-images/moldova-fez-expo-business-chisinau-v2.webp"
     id: "moldova-soroca-fruit-cluster-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Soroca Obstverarbeitungskluster", hu: "Soroca Gyümölcsfeldolgozó Klaszter", ro: "Clusterul de procesare a fructelor Soroca", en: "Soroca Fruit Processing Cluster",
-image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"
-},
+    name: { de: "Soroca Obstverarbeitungskluster", hu: "Soroca Gyümölcsfeldolgozó Klaszter", ro: "Clusterul de procesare a fructelor Soroca", en: "Soroca Fruit Processing Cluster"},
+    image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp",
     coords: [28.2955, 48.1588],
     coordinates: { lat: 48.1588, lng: 28.2955 },
     description: {
@@ -794,9 +772,8 @@ image: "/poi-images/moldova-soroca-fruit-cluster-economic-v2.webp"
     id: "moldova-mesterul-furniture-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Möbelfabrik Meșterul", hu: "Meșterul Bútorgyár", ro: "Fabrica de mobila Meșterul", en: "Meșterul Furniture Factory",
-image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"
-},
+    name: { de: "Möbelfabrik Meșterul", hu: "Meșterul Bútorgyár", ro: "Fabrica de mobila Meșterul", en: "Meșterul Furniture Factory"},
+    image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp",
     coords: [28.8455, 47.0122],
     coordinates: { lat: 47.0122, lng: 28.8455 },
     description: {
@@ -830,9 +807,8 @@ image: "/poi-images/moldova-mesterul-furniture-economic-v2.webp"
     id: "moldova-steaua-reds-textile-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Textilfabrik Steaua-RedS", hu: "Steaua-RedS Textilgyár", ro: "Fabrica Steaua-RedS", en: "Steaua-RedS Textile Factory",
-image: "/poi-images/moldova-steaua-reds-textile-v2.webp"
-},
+    name: { de: "Textilfabrik Steaua-RedS", hu: "Steaua-RedS Textilgyár", ro: "Fabrica Steaua-RedS", en: "Steaua-RedS Textile Factory"},
+    image: "/poi-images/moldova-steaua-reds-textile-v2.webp",
     coords: [28.8522, 47.0188],
     coordinates: { lat: 47.0188, lng: 28.8522 },
     description: {
@@ -866,9 +842,8 @@ image: "/poi-images/moldova-steaua-reds-textile-v2.webp"
     id: "moldova-fez-otaci-business-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Wirtschaftszone Otaci-Business", hu: "Otaci-Business Gazdasági Övezet", ro: "ZEL Otaci-Business", en: "Otaci-Business SEZ",
-image: "/poi-images/moldova-fez-otaci-business-v2.webp"
-},
+    name: { de: "Wirtschaftszone Otaci-Business", hu: "Otaci-Business Gazdasági Övezet", ro: "ZEL Otaci-Business", en: "Otaci-Business SEZ"},
+    image: "/poi-images/moldova-fez-otaci-business-v2.webp",
     coords: [27.8011, 48.4322],
     coordinates: { lat: 48.4322, lng: 27.8011 },
     description: {
@@ -902,9 +877,8 @@ image: "/poi-images/moldova-fez-otaci-business-v2.webp"
     id: "moldova-fez-taraclia-economic-v2",
     parent: "MD",
     type: "industry",
-    name: { de: "Freie Wirtschaftszone Taraclia", hu: "Taraclia Szabad Gazdasági Övezet", ro: "ZEL Taraclia", en: "Free Economic Zone Taraclia",
-image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Taraclia", hu: "Taraclia Szabad Gazdasági Övezet", ro: "ZEL Taraclia", en: "Free Economic Zone Taraclia"},
+    image: "/poi-images/moldova-fez-taraclia-economic-v2.webp",
     coords: [28.6711, 45.9022],
     coordinates: { lat: 45.9022, lng: 28.6711 },
     description: {
@@ -938,9 +912,8 @@ image: "/poi-images/moldova-fez-taraclia-economic-v2.webp"
     id: "moldova-chisinau-airport-hub-v2",
     parent: "MD",
     type: "landmark",
-    name: { de: "Wirtschaftshub Flughafen Chișinău", hu: "Kisinyovi Repülőtér Gazdasági Hub", ro: "Hub-ul economic Aeroportul Chișinău", en: "Chișinău Airport Business Hub",
-image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"
-},
+    name: { de: "Wirtschaftshub Flughafen Chișinău", hu: "Kisinyovi Repülőtér Gazdasági Hub", ro: "Hub-ul economic Aeroportul Chișinău", en: "Chișinău Airport Business Hub"},
+    image: "/poi-images/moldova-chisinau-airport-hub-v2.webp",
     coords: [28.9322, 46.9311],
     coordinates: { lat: 46.9311, lng: 28.9322 },
     description: {
@@ -974,9 +947,8 @@ image: "/poi-images/moldova-chisinau-airport-hub-v2.webp"
     id: "moldova-ionel-clothing-factory-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Bekleidungsfabrik Ionel", hu: "Ionel Ruhagyár", ro: "Fabrica de confecții Ionel", en: "Ionel Clothing Factory",
-image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"
-},
+    name: { de: "Bekleidungsfabrik Ionel", hu: "Ionel Ruhagyár", ro: "Fabrica de confecții Ionel", en: "Ionel Clothing Factory"},
+    image: "/poi-images/moldova-ionel-clothing-factory-v2.webp",
     coords: [28.8411, 47.0255],
     coordinates: { lat: 47.0255, lng: 28.8411 },
     description: {
@@ -1010,9 +982,8 @@ image: "/poi-images/moldova-ionel-clothing-factory-v2.webp"
     id: "moldova-tirotex-textile-complex-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Textilkomplex Tirotex", hu: "Tirotex Textilipari Komplexum", ro: "Complexul textil Tirotex", en: "Tirotex Textile Complex",
-image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"
-},
+    name: { de: "Textilkomplex Tirotex", hu: "Tirotex Textilipari Komplexum", ro: "Complexul textil Tirotex", en: "Tirotex Textile Complex"},
+    image: "/poi-images/moldova-tirotex-textile-complex-v2.webp",
     coords: [29.6611, 46.8322],
     coordinates: { lat: 46.8322, lng: 29.6611 },
     description: {
@@ -1046,9 +1017,8 @@ image: "/poi-images/moldova-tirotex-textile-complex-v2.webp"
     id: "moldova-cahul-cannery-economic-v2",
     parent: "MD",
     type: "factory",
-    name: { de: "Konservenfabrik Cahul", hu: "Cahuli Konzervgyár", ro: "Fabrica de conserve din Cahul", en: "Cahul Cannery",
-image: "/poi-images/moldova-cahul-cannery-economic-v2.webp"
-},
+    name: { de: "Konservenfabrik Cahul", hu: "Cahuli Konzervgyár", ro: "Fabrica de conserve din Cahul", en: "Cahul Cannery"},
+    image: "/poi-images/moldova-cahul-cannery-economic-v2.webp",
     coords: [28.1855, 45.9088],
     coordinates: { lat: 45.9088, lng: 28.1855 },
     description: {
@@ -1075,6 +1045,39 @@ image: "/poi-images/moldova-cahul-cannery-economic-v2.webp"
       hu: ["Gyümölcssűrítmények központja", "EU-piacra irányuló exportfókusz", "Paradicsom- és almafeldolgozás", "A legdélebbi ipari helyszín"],
       ro: ["Centru de concentrate de fructe", "Focus pe exportul în piața UE", "Procesare de tomate și mere", "Locație industrială în sud"],
       en: ["Center for fruit concentrates", "Export focus on the EU market", "Processing of tomatoes and apples", "Southernmost industrial site"],
+    },
+  }
+,
+  {
+    id: "moldova-floare-carpet-factory-economic-v2",
+    type: "factory",
+    parent: "MD",
+    name: { de: "Floare-Carpet Teppichfabrik", hu: "Floare-Carpet szőnyeggyár", ro: "Fabrica de covoare Floare-Carpet", en: "Floare-Carpet Carpet Factory" },
+    coordinates: { lat: 47.0175, lng: 28.854 },
+    description: {
+      de: "Die Fabrik Floare-Carpet in Chișinău ist einer der größten Hersteller von Wollteppichen in der Republik Moldau. Das Unternehmen exportiert seine Erzeugnisse in mehrere europäische Länder.",
+      hu: "A kisinyovi Floare-Carpet gyár a Moldovai Köztársaság egyik legnagyobb gyapjúszőnyeg-gyártója. A vállalat számos európai országba exportálja termékeit.",
+      ro: "Fabrica Floare-Carpet din Chișinău este unul dintre cei mai mari producători de covoare din lână din Republica Moldova. Întreprinderea își exportă produsele în mai multe țări europene.",
+      en: "The Floare-Carpet factory in Chișinău is one of the largest wool carpet manufacturers in the Republic of Moldova. The company exports its products to several European countries.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1978.", "Spezialisiert auf Jacquard-Webtechnik.", "Verwendet hochwertige neuseeländische Wolle.", "Produktionsstandort ist die Hauptstadt Chișinău."],
+      hu: ["1978-ban alapították.", "Jacquard-szövési technikára szakosodott.", "Kiváló minőségű új-zélandi gyapjút használ.", "Gyártási helyszín a főváros, Kisinyov."],
+      ro: ["Fondată în anul 1978.", "Specializată în tehnica de țesere Jacquard.", "Utilizează lână de înaltă calitate din Noua Zeelandă.", "Sediul de producție este în capitala Chișinău."],
+      en: ["Founded in 1978.", "Specializes in Jacquard weaving technique.", "Uses high-quality New Zealand wool.", "Production facility located in the capital, Chișinău."],
+    },
+    imageHint: "traditional wool carpets manufacturing in Moldova factory",
+    descriptionAdvanced: {
+      de: "Seit 1978 produziert die Fabrik in Chișinău hochwertige Wollteppiche nach traditionellen und modernen Jacquard-Verfahren, die weltweit in über zwanzig Länder exportiert werden.",
+      hu: "A kisinyovi gyár 1978 óta Moldova legjelentősebb szőnyegkészítője, ahol tiszta gyapjúból készült, tartós és esztétikus darabokat állítanak elő a globális piacok számára.",
+      ro: "Fondată în 1978 la Chișinău, S.A. Floare-Carpet este lider în fabricarea covoarelor din lână pură, fiind renumită pentru densitatea înaltă a nodurilor și designul său variat.",
+      en: "Established in 1978, this Chișinău-based factory is Moldova's premier carpet producer, specializing in high-density woolen textiles for both domestic and international markets.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1978", "Sitz in der Hauptstadt Chișinău", "Verwendung von 100% Schafwolle", "Einsatz moderner Jacquard-Webstühle", "Export in mehr als 20 Nationen", "Zertifiziert nach ISO 9001 Normen"],
+      hu: ["1978-ban alapított nagyvállalat", "Központja Kisinyov városában van", "Új-zélandi gyapjú alapanyagok", "Speciális Jacquard-szövési mód", "Számos nemzetközi minőségi díj", "Moldova legnagyobb textilipari egysége"],
+      ro: ["Înființată oficial în anul 1978", "Sediul principal situat în Chișinău", "Utilizează lână pură de calitate", "Tehnologie avansată de țesut Jacquard", "Exportă masiv în UE și spațiul CSI", "Peste 45 de ani de experiență"],
+      en: ["Founded in 1978 in Chișinău", "Specializes in 100% pure wool rugs", "High-density Jacquard weaving tech", "Major Moldovan industrial exporter", "Extensive global distribution network", "Winner of multiple international awards"],
     },
   }
 ];

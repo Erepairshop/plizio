@@ -10,9 +10,8 @@ export const poiExtraIranCitiesV2: POI[] = [
       de: "Teheran",
       hu: "Teherán",
       ro: "Teheran",
-      en: "Tehran",
-image: "/poi-images/tehran-cities-v2.webp"
-},
+      en: "Tehran"},
+    image: "/poi-images/tehran-cities-v2.webp",
     description: {
       de: "Teheran ist die Hauptstadt und größte Stadt des Irans, bekannt für ihre moderne Skyline und historische Paläste.",
       hu: "Teherán Irán fővárosa és legnagyobb városa, híres modern városképéről és történelmi palotáiról.",
@@ -46,9 +45,8 @@ image: "/poi-images/tehran-cities-v2.webp"
       de: "Maschhad",
       hu: "Meshed",
       ro: "Mașhad",
-      en: "Mashhad",
-image: "/poi-images/mashhad-cities-v2.webp"
-},
+      en: "Mashhad"},
+    image: "/poi-images/mashhad-cities-v2.webp",
     description: {
       de: "Maschhad ist die zweitgrößte Stadt im Iran und ein wichtiges spirituelles Zentrum für schiitische Muslime.",
       hu: "Meshed Irán második legnagyobb városa és a síita muszlimok fontos spirituális központja.",
@@ -82,9 +80,8 @@ image: "/poi-images/mashhad-cities-v2.webp"
       de: "Isfahan",
       hu: "Iszfahán",
       ro: "Isfahan",
-      en: "Isfahan",
-image: "/poi-images/isfahan-cities-v2.webp"
-},
+      en: "Isfahan"},
+    image: "/poi-images/isfahan-cities-v2.webp",
     description: {
       de: "Isfahan ist bekannt für seine persisch-islamische Architektur, prächtige Boulevards und überdachte Brücken.",
       hu: "Iszfahán híres perzsa-iszlám építészetéről, pompás körútjairól és fedett hídjairól.",
@@ -118,9 +115,8 @@ image: "/poi-images/isfahan-cities-v2.webp"
       de: "Karadsch",
       hu: "Karadzs",
       ro: "Karaj",
-      en: "Karaj",
-image: "/poi-images/karaj-cities-v2.webp"
-},
+      en: "Karaj"},
+    image: "/poi-images/karaj-cities-v2.webp",
     description: {
       de: "Karadsch ist die Hauptstadt der Provinz Alborz und ein wichtiger industrieller Vorort von Teheran.",
       hu: "Karadzs Alborz tartomány fővárosa és Teherán egyik fontos ipari elővárosa.",
@@ -154,9 +150,8 @@ image: "/poi-images/karaj-cities-v2.webp"
       de: "Schiras",
       hu: "Siráz",
       ro: "Shiraz",
-      en: "Shiraz",
-image: "/poi-images/shiraz-cities-v2.webp"
-},
+      en: "Shiraz"},
+    image: "/poi-images/shiraz-cities-v2.webp",
     description: {
       de: "Schiras ist die Stadt der Dichter, der Literatur, des Weins und der Blumen und liegt in der Nähe von Persepolis.",
       hu: "Siráz a költők, az irodalom, a bor és a virágok városa, mely Perszepolisz közelében fekszik.",
@@ -190,9 +185,8 @@ image: "/poi-images/shiraz-cities-v2.webp"
       de: "Täbris",
       hu: "Tebriz",
       ro: "Tabriz",
-      en: "Tabriz",
-image: "/poi-images/tabriz-cities-v2.webp"
-},
+      en: "Tabriz"},
+    image: "/poi-images/tabriz-cities-v2.webp",
     description: {
       de: "Täbris ist die größte Stadt im Nordwesten des Irans, bekannt für ihren historischen Basar und Teppiche.",
       hu: "Tebriz Irán északnyugati részének legnagyobb városa, híres történelmi bazárjáról és szőnyegeiről.",
@@ -226,9 +220,8 @@ image: "/poi-images/tabriz-cities-v2.webp"
       de: "Ghom",
       hu: "Kom",
       ro: "Qom",
-      en: "Qom",
-image: "/poi-images/qom-cities-v2.webp"
-},
+      en: "Qom"},
+    image: "/poi-images/qom-cities-v2.webp",
     description: {
       de: "Ghom ist ein wichtiges religiöses Zentrum im Iran und bekannt für den Schrein der Fatima Masuma.",
       hu: "Kom egy fontos iráni vallási központ, mely Fatima Maszúma szentélyéről híres.",
@@ -262,9 +255,8 @@ image: "/poi-images/qom-cities-v2.webp"
       de: "Ahvaz",
       hu: "Ahváz",
       ro: "Ahvaz",
-      en: "Ahvaz",
-image: "/poi-images/ahvaz-cities-v2.webp"
-},
+      en: "Ahvaz"},
+    image: "/poi-images/ahvaz-cities-v2.webp",
     description: {
       de: "Ahvaz liegt im Südwesten Irans und ist das Zentrum der Ölindustrie des Landes.",
       hu: "Ahváz Irán délnyugati részén fekszik, és az ország olajiparának központja.",
@@ -298,9 +290,8 @@ image: "/poi-images/ahvaz-cities-v2.webp"
       de: "Kermanschah",
       hu: "Kermánsáh",
       ro: "Kermanshah",
-      en: "Kermanshah",
-image: "/poi-images/kermanshah-cities-v2.webp"
-},
+      en: "Kermanshah"},
+    image: "/poi-images/kermanshah-cities-v2.webp",
     description: {
       de: "Kermanschah ist eine historisch bedeutsame Stadt im Westen des Irans und Zentrum der kurdischen Kultur.",
       hu: "Kermánsáh történelmileg jelentős város Nyugat-Iránban, és a kurd kultúra központja.",
@@ -334,9 +325,8 @@ image: "/poi-images/kermanshah-cities-v2.webp"
       de: "Urmia",
       hu: "Urmia",
       ro: "Urmia",
-      en: "Urmia",
-image: "/poi-images/urmia-cities-v2.webp"
-},
+      en: "Urmia"},
+    image: "/poi-images/urmia-cities-v2.webp",
     description: {
       de: "Urmia liegt in der Nähe des Urmia-Sees und ist die Hauptstadt der Provinz West-Aserbaidschan.",
       hu: "Urmia az Urmia-tó közelében található, Nyugat-Azerbajdzsán tartomány fővárosa.",
@@ -370,9 +360,8 @@ image: "/poi-images/urmia-cities-v2.webp"
       de: "Rascht",
       hu: "Rast",
       ro: "Rasht",
-      en: "Rasht",
-image: "/poi-images/rasht-cities-v2.webp"
-},
+      en: "Rasht"},
+    image: "/poi-images/rasht-cities-v2.webp",
     description: {
       de: "Rascht ist die Hauptstadt der Provinz Gilan, nahe dem Kaspischen Meer, und für ihr feuchtes Klima bekannt.",
       hu: "Rast Gilán tartomány fővárosa, a Kaszpi-tenger közelében, mely nedves éghajlatáról ismert.",
@@ -406,9 +395,8 @@ image: "/poi-images/rasht-cities-v2.webp"
       de: "Zahedan",
       hu: "Záhedán",
       ro: "Zahedan",
-      en: "Zahedan",
-image: "/poi-images/zahedan-cities-v2.webp"
-},
+      en: "Zahedan"},
+    image: "/poi-images/zahedan-cities-v2.webp",
     description: {
       de: "Zahedan ist das Zentrum der Provinz Sistan und Belutschistan an der Grenze zu Pakistan und Afghanistan.",
       hu: "Záhedán Szisztán és Beludzsisztán tartomány központja Pakisztán és Afganisztán határán.",
@@ -442,9 +430,8 @@ image: "/poi-images/zahedan-cities-v2.webp"
       de: "Hamadan",
       hu: "Hamadán",
       ro: "Hamadan",
-      en: "Hamadan",
-image: "/poi-images/hamadan-cities-v2.webp"
-},
+      en: "Hamadan"},
+    image: "/poi-images/hamadan-cities-v2.webp",
     description: {
       de: "Hamadan gehört zu den ältesten durchgehend bewohnten Städten der Welt und hat eine reiche antike Geschichte.",
       hu: "Hamadán a világ legrégebb óta lakott városai közé tartozik, gazdag ókori történelemmel.",
@@ -478,9 +465,8 @@ image: "/poi-images/hamadan-cities-v2.webp"
       de: "Kerman",
       hu: "Kermán",
       ro: "Kerman",
-      en: "Kerman",
-image: "/poi-images/kerman-cities-v2.webp"
-},
+      en: "Kerman"},
+    image: "/poi-images/kerman-cities-v2.webp",
     description: {
       de: "Kerman liegt im Südosten des Irans und ist ein Zentrum für Teppichherstellung und Landwirtschaft in der Wüste.",
       hu: "Kermán Irán délkeleti részén fekszik, a sivatagi mezőgazdaság és szőnyegkészítés központja.",
@@ -514,9 +500,8 @@ image: "/poi-images/kerman-cities-v2.webp"
       de: "Yazd",
       hu: "Jazd",
       ro: "Yazd",
-      en: "Yazd",
-image: "/poi-images/yazd-cities-v2.webp"
-},
+      en: "Yazd"},
+    image: "/poi-images/yazd-cities-v2.webp",
     description: {
       de: "Yazd ist berühmt für seine einzigartige Lehmziegelarchitektur, Windtürme und seine zoroastrische Gemeinschaft.",
       hu: "Jazd egyedülálló vályogépítészetéről, széltornyairól és zoroasztriánus közösségéről híres.",
@@ -550,9 +535,8 @@ image: "/poi-images/yazd-cities-v2.webp"
       de: "Ardabil",
       hu: "Ardabil",
       ro: "Ardabil",
-      en: "Ardabil",
-image: "/poi-images/ardabil-cities-v2.webp"
-},
+      en: "Ardabil"},
+    image: "/poi-images/ardabil-cities-v2.webp",
     description: {
       de: "Ardabil ist bekannt für das Safi-ad-Din-Mausoleum, ein UNESCO-Weltkulturerbe, und seine Seiden- und Teppichtradition.",
       hu: "Ardabil Szafi ad-Dín mauzóleumáról ismert, amely UNESCO világörökség, valamint selyem- és szőnyeghagyományairól.",
@@ -586,9 +570,8 @@ image: "/poi-images/ardabil-cities-v2.webp"
       de: "Bandar Abbas",
       hu: "Bandar Abbász",
       ro: "Bandar Abbas",
-      en: "Bandar Abbas",
-image: "/poi-images/bandar-abbas-cities-v2.webp"
-},
+      en: "Bandar Abbas"},
+    image: "/poi-images/bandar-abbas-cities-v2.webp",
     description: {
       de: "Bandar Abbas ist die Hauptstadt der Provinz Hormozgan und der wichtigste Seehafen des Irans am Persischen Golf.",
       hu: "Bandar Abbász Hormozgán tartomány fővárosa és Irán legfontosabb tengeri kikötője a Perzsa-öbölben.",
@@ -622,9 +605,8 @@ image: "/poi-images/bandar-abbas-cities-v2.webp"
       de: "Arak",
       hu: "Arák",
       ro: "Arak",
-      en: "Arak",
-image: "/poi-images/arak-cities-v2.webp"
-},
+      en: "Arak"},
+    image: "/poi-images/arak-cities-v2.webp",
     description: {
       de: "Arak ist eine der wichtigsten Industriestädte Irans und liegt in der Zentralprovinz Markazi.",
       hu: "Arák Irán egyik legfontosabb iparvárosa, mely Markazi tartományban fekszik.",
@@ -658,9 +640,8 @@ image: "/poi-images/arak-cities-v2.webp"
       de: "Eslamabad",
       hu: "Eszlámábád",
       ro: "Islamshahr",
-      en: "Islamshahr",
-image: "/poi-images/islamshahr-cities-v2.webp"
-},
+      en: "Islamshahr"},
+    image: "/poi-images/islamshahr-cities-v2.webp",
     description: {
       de: "Eslamabad ist eine große Stadt in der Provinz Teheran, die aufgrund ihrer Nähe zur Hauptstadt schnell gewachsen ist.",
       hu: "Eszlámábád nagyváros Teherán tartományban, amely a főváros közelsége miatt gyorsan fejlődött.",
@@ -694,9 +675,8 @@ image: "/poi-images/islamshahr-cities-v2.webp"
       de: "Zandschan",
       hu: "Zandzsán",
       ro: "Zanjan",
-      en: "Zanjan",
-image: "/poi-images/zanjan-cities-v2.webp"
-},
+      en: "Zanjan"},
+    image: "/poi-images/zanjan-cities-v2.webp",
     description: {
       de: "Zandschan ist bekannt für seine traditionellen Kunsthandwerke, insbesondere für die Herstellung von Messern und Silberwaren.",
       hu: "Zandzsán hagyományos kézművességéről ismert, különösen a késkészítésről és ezüstművességéről.",
@@ -730,9 +710,8 @@ image: "/poi-images/zanjan-cities-v2.webp"
       de: "Sanandadsch",
       hu: "Szanandadzs",
       ro: "Sanandaj",
-      en: "Sanandaj",
-image: "/poi-images/sanandaj-cities-v2.webp"
-},
+      en: "Sanandaj"},
+    image: "/poi-images/sanandaj-cities-v2.webp",
     description: {
       de: "Sanandadsch ist die Hauptstadt der iranischen Provinz Kurdistan und ein wichtiges kulturelles Zentrum für die kurdische Bevölkerung.",
       hu: "Szanandadzs az iráni Kurdisztán tartomány fővárosa, a kurd lakosság fontos kulturális központja.",
@@ -766,9 +745,8 @@ image: "/poi-images/sanandaj-cities-v2.webp"
       de: "Ghaswin",
       hu: "Kazvin",
       ro: "Qazvin",
-      en: "Qazvin",
-image: "/poi-images/qazvin-cities-v2.webp"
-},
+      en: "Qazvin"},
+    image: "/poi-images/qazvin-cities-v2.webp",
     description: {
       de: "Ghaswin war einst die Hauptstadt des Persischen Reiches und zeichnet sich durch historische Stätten und landwirtschaftliche Bedeutung aus.",
       hu: "Kazvin egykor a Perzsa Birodalom fővárosa volt, történelmi helyszínei és mezőgazdasági jelentősége is kiemelkedő.",
@@ -802,9 +780,8 @@ image: "/poi-images/qazvin-cities-v2.webp"
       de: "Chorramabad",
       hu: "Horramábád",
       ro: "Khorramabad",
-      en: "Khorramabad",
-image: "/poi-images/khorramabad-cities-v2.webp"
-},
+      en: "Khorramabad"},
+    image: "/poi-images/khorramabad-cities-v2.webp",
     description: {
       de: "Chorramabad ist die Hauptstadt der Provinz Lorestan und liegt in den Ausläufern des Zagros-Gebirges.",
       hu: "Horramábád Loresztán tartomány fővárosa, mely a Zagrosz-hegység lábánál fekszik.",
@@ -838,9 +815,8 @@ image: "/poi-images/khorramabad-cities-v2.webp"
       de: "Gorgan",
       hu: "Gorgán",
       ro: "Gorgan",
-      en: "Gorgan",
-image: "/poi-images/gorgan-cities-v2.webp"
-},
+      en: "Gorgan"},
+    image: "/poi-images/gorgan-cities-v2.webp",
     description: {
       de: "Gorgan liegt im Norden Irans in der Provinz Golestan und ist umgeben von dichten Wäldern und Bergen.",
       hu: "Gorgán Irán északi részén, Golesztán tartományban fekszik, sűrű erdőkkel és hegyekkel körülvéve.",
@@ -874,9 +850,8 @@ image: "/poi-images/gorgan-cities-v2.webp"
       de: "Sari",
       hu: "Szári",
       ro: "Sari",
-      en: "Sari",
-image: "/poi-images/sari-cities-v2.webp"
-},
+      en: "Sari"},
+    image: "/poi-images/sari-cities-v2.webp",
     description: {
       de: "Sari ist die Hauptstadt der Provinz Mazandaran und eine der wichtigsten Städte im Norden Irans am Kaspischen Meer.",
       hu: "Szári Mázandarán tartomány fővárosa, az egyik legfontosabb északi iráni város a Kaszpi-tengernél.",
@@ -910,9 +885,8 @@ image: "/poi-images/sari-cities-v2.webp"
       de: "Schahriar",
       hu: "Sahrijar",
       ro: "Shahriar",
-      en: "Shahriar",
-image: "/poi-images/shahriar-cities-v2.webp"
-},
+      en: "Shahriar"},
+    image: "/poi-images/shahriar-cities-v2.webp",
     description: {
       de: "Schahriar ist eine schnell wachsende Stadt westlich von Teheran und bekannt für ihre weitläufigen Obstgärten.",
       hu: "Sahrijar egy gyorsan növekvő város Teherántól nyugatra, amely kiterjedt gyümölcsöseiről ismert.",
@@ -946,9 +920,8 @@ image: "/poi-images/shahriar-cities-v2.webp"
       de: "Kaschan",
       hu: "Kásán",
       ro: "Kashan",
-      en: "Kashan",
-image: "/poi-images/kashan-cities-v2.webp"
-},
+      en: "Kashan"},
+    image: "/poi-images/kashan-cities-v2.webp",
     description: {
       de: "Kaschan ist berühmt für seine historischen Villen, Teppichmanufakturen und traditionelle persische Gärten.",
       hu: "Kásán történelmi villáiról, szőnyegkészítéséről és hagyományos perzsa kertjeiről híres.",
@@ -982,9 +955,8 @@ image: "/poi-images/kashan-cities-v2.webp"
       de: "Desful",
       hu: "Dezful",
       ro: "Dezful",
-      en: "Dezful",
-image: "/poi-images/dezful-cities-v2.webp"
-},
+      en: "Dezful"},
+    image: "/poi-images/dezful-cities-v2.webp",
     description: {
       de: "Desful ist eine historische Stadt in der Provinz Chuzestan, gelegen am Fluss Dez und bekannt für antike Bewässerungssysteme.",
       hu: "Dezful történelmi város Huzesztán tartományban, a Dez folyó mentén, ókori öntözőrendszereiről híres.",
@@ -1018,9 +990,8 @@ image: "/poi-images/dezful-cities-v2.webp"
       de: "Nischapur",
       hu: "Nisápur",
       ro: "Nishapur",
-      en: "Neyshabur",
-image: "/poi-images/neyshabur-cities-v2.webp"
-},
+      en: "Neyshabur"},
+    image: "/poi-images/neyshabur-cities-v2.webp",
     description: {
       de: "Nischapur war eine der größten und kulturell reichsten Städte im mittelalterlichen Persien und ist die Geburtsstadt Omar Chayyams.",
       hu: "Nisápur a középkori Perzsia egyik legnagyobb és kulturálisan leggazdagabb városa volt, Omár Hajjám szülőhelye.",
@@ -1054,9 +1025,8 @@ image: "/poi-images/neyshabur-cities-v2.webp"
       de: "Ilam",
       hu: "Ilám",
       ro: "Ilam",
-      en: "Ilam",
-image: "/poi-images/ilam-cities-v2.webp"
-},
+      en: "Ilam"},
+    image: "/poi-images/ilam-cities-v2.webp",
     description: {
       de: "Ilam ist die Hauptstadt der gleichnamigen Provinz im Westen Irans, geprägt durch die beeindruckenden Berglandschaften des Zagros.",
       hu: "Ilám a nyugat-iráni azonos nevű tartomány fővárosa, amelyet a Zagrosz látványos hegyvidéki tájai jellemeznek.",

@@ -7,9 +7,8 @@ export const poiExtraEritreaLifeV2: POI[] = [
     type: "agriculture",
     parent: "ER-GB",
     coords: [37.58, 15.12],
-    name: { de: "Gash-Barka Baumwollanbau", hu: "Gash-Barka gyapottermesztés", ro: "Cultivarea bumbacului Gash-Barka", en: "Gash-Barka cotton cultivation",
-image: "/poi-images/gash-barka-cotton-life-v2.webp"
-},
+    name: { de: "Gash-Barka Baumwollanbau", hu: "Gash-Barka gyapottermesztés", ro: "Cultivarea bumbacului Gash-Barka", en: "Gash-Barka cotton cultivation"},
+    image: "/poi-images/gash-barka-cotton-life-v2.webp",
     description: { de: "Große Baumwollfelder im Gash-Barka-Gebiet.", hu: "Kiterjedt gyapotföldek a Gash-Barka régióban.", ro: "Câmpuri vaste de bumbac în regiunea Gash-Barka.", en: "Extensive cotton fields in the Gash-Barka region." },
     facts: {
       de: ["Wichtige Einnahmequelle", "Mechanisierte Bewässerung"],
@@ -29,9 +28,8 @@ image: "/poi-images/gash-barka-cotton-life-v2.webp"
     type: "kid-landmark",
     parent: "ER-MA",
     coords: [38.93, 15.33],
-    name: { de: "Asmara Kinder-Freizeitpark", hu: "Aszmara gyermek szabadidőpark", ro: "Parc de distracții pentru copii Asmara", en: "Asmara children's amusement park",
-image: "/poi-images/asmara-children-park-life-v2.webp"
-},
+    name: { de: "Asmara Kinder-Freizeitpark", hu: "Aszmara gyermek szabadidőpark", ro: "Parc de distracții pentru copii Asmara", en: "Asmara children's amusement park"},
+    image: "/poi-images/asmara-children-park-life-v2.webp",
     description: { de: "Ein beliebter Park für Familien mit Spielgeräten.", hu: "Népszerű családi park játékokkal.", ro: "Un parc popular pentru familii cu echipamente de joacă.", en: "A popular park for families with play equipment." },
     facts: {
       de: ["Zentral gelegen", "Grünflächen für Kinder"],
@@ -51,423 +49,756 @@ image: "/poi-images/asmara-children-park-life-v2.webp"
     type: "animal-habitat",
     parent: "ER-SK",
     coords: [39.45, 15.60],
-    name: { de: "Massaua Meeresschutzzentrum", hu: "Massawa tengeri védelmi központ", ro: "Centru de conservare marină Massawa", en: "Massawa marine conservation center",
-image: "/poi-images/massawa-marine-life-v2.webp"
-},
+    name: { de: "Massaua Meeresschutzzentrum", hu: "Massawa tengeri védelmi központ", ro: "Centru de conservare marină Massawa", en: "Massawa marine conservation center"},
+    image: "/poi-images/massawa-marine-life-v2.webp",
     description: { de: "Schutzgebiet für Meereslebewesen in der Nähe von Massaua.", hu: "Tengeri élővilág védelmi terület Massawa közelében.", ro: "Arie protejată pentru fauna marină lângă Massawa.", en: "Protected area for marine life near Massawa." },
     facts: {
       de: ["Korallenriff-Schutz", "Vielfältige Fischarten"],
       hu: ["Korallzátony-védelem", "Változatos halfajok"],
       ro: ["Protecția recifelor de corali", "Specii variate de pești"],
       en: ["Coral reef protection", "Diverse fish species"]
-    }, image: "/poi-images/massawa-marine-life-v2.webp"},
+    }, image: "/poi-images/massawa-marine-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Massawa Marine Conservation Center wurde 2010 gegründet, um die Korallenriffe und die Meeresfauna im Roten Meer zu schützen. Das Zentrum befindet sich in der Nähe des Hafens und betreibt Forschung, Bildung und Wiederherstellung. Es beherbergt ein Aquarium, Labore und Schulungsräume. Ziel ist es, die nachhaltige Fischerei zu fördern und die Artenvielfalt zu erhalten. Das Zentrum arbeitet mit internationalen Organisationen zusammen. Jährlich werden Tausende von Schülern durch Bildungsprogramme erreicht. Die Umgebung bietet hervorragende Tauchmöglichkeiten.",
+      hu: "A masszawai tengeri élővilág védelmi központot 2010-ben hozták létre a Vörös-tenger korallzátonyainak védelmére. A központ akváriummal, laboratóriumokkal és oktatótermekkel rendelkezik. Kutatásokat végez a tengeri ökoszisztémáról és a fenntartható halászatról. Évente 5000 diák vesz részt az oktatási programokban. A központ együttműködik a WWF-fel és más nemzetközi szervezetekkel. A közelben kiváló búvárhelyek találhatók.",
+      ro: "Centrul de conservare a vieții marine din Massawa a fost fondat în 2010 pentru a proteja recifele de corali și fauna Mării Roșii. Centrul include un acvariu, laboratoare și săli de clasă. Efectuează cercetări asupra ecosistemelor marine și promovează pescuitul durabil. Aproximativ 5.000 de studenți participă la programe educaționale anual. Colaborează cu WWF și alte ONG-uri. Zona este renumită pentru scufundări.",
+      en: "The Massawa Marine Conservation Center was established in 2010 to protect the coral reefs and marine life of the Red Sea. The facility includes an aquarium, research labs, and education rooms. It conducts research on marine ecosystems and promotes sustainable fishing practices. About 5,000 students participate in educational programs annually. The center collaborates with WWF and other international organizations. The surrounding waters are popular for diving and snorkeling.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2010.", "Enthält ein 500.000 Liter fassendes Aquarium.", "Forschungslabore auf 1.000 Quadratmetern.", "Jährlich 5.000 Schüler in Bildungsprogrammen.", "Zusammenarbeit mit WWF.", "Schützt über 200 Korallenarten."],
+      hu: ["2010-ben alapították.", "500 000 literes akvárium.", "1000 négyzetméternyi labor.", "Évente 5000 diák.", "Együttműködés a WWF-fel.", "200 korallfaj védelme."],
+      ro: ["Fondat în 2010.", "Acvariu de 500.000 litri.", "Laboratoare pe 1.000 m².", "5.000 de studenți pe an.", "Colaborare cu WWF.", "Protejează peste 200 de specii de corali."],
+      en: ["Founded in 2010.", "500,000-liter aquarium.", "1,000 m² of lab space.", "5,000 students reached annually.", "Partnership with WWF.", "Protects over 200 coral species."],
+    },
+  },
   {
     id: "keren-sorghum-farms-life-v2",
     type: "agriculture",
     parent: "ER-AN",
     coords: [38.45, 15.78],
-    name: { de: "Keren Sorghum-Felder", hu: "Keren cirokföldek", ro: "Câmpuri de sorg Keren", en: "Keren sorghum fields",
-image: "/poi-images/keren-sorghum-farms-life-v2.webp"
-},
+    name: { de: "Keren Sorghum-Felder", hu: "Keren cirokföldek", ro: "Câmpuri de sorg Keren", en: "Keren sorghum fields"},
+    image: "/poi-images/keren-sorghum-farms-life-v2.webp",
     description: { de: "Traditionelle Felder für Sorghum-Anbau.", hu: "Hagyományos ciroktermesztő földek.", ro: "Câmpuri tradiționale pentru cultivarea sorgului.", en: "Traditional fields for sorghum cultivation." },
     facts: {
       de: ["Hauptnahrungsmittel", "Trockenresistente Pflanze"],
       hu: ["Alapvető élelmiszer", "Szárazságtűrő növény"],
       ro: ["Aliment de bază", "Plantă rezistentă la secetă"],
       en: ["Staple food", "Drought-resistant plant"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Sorghumfelder von Keren erstrecken sich über die Hochebene der Region Anseba in Eritrea. Sorghum ist das wichtigste Grundnahrungsmittel und wird seit Jahrhunderten angebaut. Die Felder profitieren von den saisonalen Regenfällen, die zwischen Juni und September fallen. Traditionelle Regenfeldbaumethoden werden angewandt, ergänzt durch Terrassenbau zur Erosionskontrolle. Die Ernte erfolgt von November bis Dezember. Neben Sorghum werden auch Bohnen und Sesampflanzen angebaut. Die landwirtschaftliche Produktion sichert die Ernährung von etwa 200.000 Menschen in der Region.",
+      hu: "Keren környékén a cirokfarmok az Anseba régió magasföldjén terülnek el. A cirok termesztése évezredekre nyúlik vissza, és alapvető élelmiszerforrás Eritreában. A gazdák hagyományos esőztető gazdálkodást folytatnak, kiegészítve teraszos műveléssel az erózió ellen. A termést novembertől decemberig takarítják be. A régióban babot és szezámot is termesztenek. A mezőgazdasági termelés mintegy 200 000 ember élelmiszerellátását biztosítja. A farmok a közösségi földtulajdon rendszerén alapulnak.",
+      ro: "Câmpurile de sorg din Keren se întind pe platoul regiunii Anseba din Eritreea. Sorgul este principala cultură alimentară, cultivat de secole. Aceste câmpuri beneficiază de ploile sezoniere din iunie-septembrie. Fermierii folosesc metode tradiționale de agricultură pluvială, completate de terasări pentru controlul eroziunii. Recolta are loc între noiembrie și decembrie. Pe lângă sorg, se cultivă fasole și susan. Producția agricolă asigură hrana a aproximativ 200.000 de oameni din regiune.",
+      en: "Keren's sorghum fields cover the highlands of the Anseba region in Eritrea. Sorghum, a staple food, has been cultivated for centuries using rain-fed agriculture. The fields rely on seasonal rains from June to September. Farmers employ traditional terracing to prevent erosion. Harvest occurs from November to December. In addition to sorghum, beans and sesame are grown. The farms support around 200,000 people in the area. Sorghum is used to make 'kicha' flatbread and porridge.",
+    },
+    factsAdvanced: {
+      de: ["Die Sorghumfelder bedecken etwa 15.000 Hektar in der Region Anseba.", "Der durchschnittliche Ertrag liegt bei 1,2 Tonnen pro Hektar.", "Die Regenzeit dauert durchschnittlich 90 Tage.", "Sorghum wurde in Eritrea bereits vor 3.000 Jahren angebaut.", "Etwa 60 % der landwirtschaftlichen Fläche in Keren sind mit Sorghum bepflanzt.", "Die Höhenlage der Felder beträgt zwischen 1.300 und 1.800 Metern."],
+      hu: ["A cirokföldek Anseba régióban mintegy 15 000 hektárt foglalnak el.", "Az átlagos hozam hektáronként 1,2 tonna.", "Az esős évszak átlagosan 90 napig tart.", "A cirokot Eritreában már 3000 évvel ezelőtt termesztették.", "Keren mezőgazdasági területének körülbelül 60%-án termesztenek cirokot.", "A földek tengerszint feletti magassága 1300 és 1800 méter között van."],
+      ro: ["Câmpurile de sorg acoperă aproximativ 15.000 de hectare în regiunea Anseba.", "Randamentul mediu este de 1,2 tone la hectar.", "Sezonul ploios durează în medie 90 de zile.", "Sorgul este cultivat în Eritreea de acum 3.000 de ani.", "Aproximativ 60% din terenul agricol din Keren este cultivat cu sorg.", "Altitudinea câmpurilor variază între 1.300 și 1.800 de metri."],
+      en: ["Sorghum fields cover about 15,000 hectares in the Anseba region.", "Average yield is 1.2 tons per hectare.", "The rainy season lasts an average of 90 days.", "Sorghum has been cultivated in Eritrea for over 3,000 years.", "About 60% of agricultural land in Keren is planted with sorghum.", "Field elevation ranges from 1,300 to 1,800 meters."],
+    },
   },
   {
     id: "ghinda-coffee-farms-life-v2",
     type: "agriculture",
     parent: "ER-SK",
     coords: [39.08, 15.45],
-    name: { de: "Ghinda Kaffeeplantagen", hu: "Ghinda kávéültetvények", ro: "Plantații de cafea Ghinda", en: "Ghinda coffee plantations",
-image: "/poi-images/ghinda-coffee-farms-life-v2.webp"
-},
+    name: { de: "Ghinda Kaffeeplantagen", hu: "Ghinda kávéültetvények", ro: "Plantații de cafea Ghinda", en: "Ghinda coffee plantations"},
+    image: "/poi-images/ghinda-coffee-farms-life-v2.webp",
     description: { de: "Hochgelegene Kaffeeplantagen in der Region Ghinda.", hu: "Magasan fekvő kávéültetvények Ghinda régióban.", ro: "Plantații de cafea la altitudine în regiunea Ghinda.", en: "High-altitude coffee plantations in the Ghinda region." },
     facts: {
       de: ["Arabica-Kaffee", "Regenreiches Mikroklima"],
       hu: ["Arabica kávé", "Csapadékos mikroklíma"],
       ro: ["Cafea Arabica", "Microclimat ploios"],
       en: ["Arabica coffee", "Rainy microclimate"]
-    }, image: "/poi-images/ghinda-coffee-farms-life-v2.webp"},
+    }, image: "/poi-images/ghinda-coffee-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kaffeeplantagen von Ghinda liegen im Osten Eritreas, in der Region Semienawi Kayih Bahri. Die Plantagen erstrecken sich über die Hänge des Hochlandes in Höhenlagen von 800 bis 1.500 Metern. Der Kaffeeanbau begann in der italienischen Kolonialzeit und wird heute von Kleinbauern betrieben. Hauptsorte ist Arabica, der unter Schattenbäumen wächst. Die Erntezeit ist von Oktober bis Januar. Nach der Ernte werden die Bohnen traditionell auf Terrassen getrocknet. Ghinda-Kaffee zeichnet sich durch ein fruchtiges Aroma aus.",
+      hu: "Ghinda kávéültetvényei Eritrea keleti részén, a Semienawi Kayih Bahri régióban találhatók. Az ültetvények a hegyoldalakon 800–1500 méteres magasságban helyezkednek el. A kávétermesztés az olasz gyarmati időszakban kezdődött, és ma is kisgazdák művelik. A fő fajta az Arabica, amely árnyékfák alatt nő. A szüret októbertől januárig tart. A babszemeket hagyományosan teraszokon szárítják. A Ghinda kávé gyümölcsös aromájáról ismert.",
+      ro: "Plantațiile de cafea din Ghinda sunt situate în estul Eritreei, în regiunea Semienawi Kayih Bahri. Plantațiile se întind pe pantele munților la altitudini de 800-1.500 de metri. Cultivarea cafelei a început în perioada colonială italiană și este practicată de micii fermieri. Soiul principal este Arabica, care crește sub copaci de umbră. Recoltarea are loc din octombrie până în ianuarie. Boabele sunt uscate tradițional pe terase. Cafeaua Ghinda are o aromă fructată.",
+      en: "Ghinda coffee plantations lie in eastern Eritrea, in the Semienawi Kayih Bahri region. Plantations cover slopes at 800–1,500 meters altitude. Coffee cultivation started during Italian colonization and now is run by smallholders. The main variety is Arabica, grown under shade trees. Harvest runs from October to January. Beans are sun-dried on terraces. Ghinda coffee is known for its fruity aroma and mild acidity.",
+    },
+    factsAdvanced: {
+      de: ["Die Plantagen bedecken rund 800 Hektar.", "Der durchschnittliche Ertrag beträgt 300 kg grüne Bohnen pro Hektar.", "Die Arabica-Pflanzen stammen von ursprünglich eingeführten Sorten aus dem Jemen.", "Die Trocknungszeit der Bohnen beträgt etwa 15 Tage.", "Ghinda-Kaffee wird auf Märkten in Asmara und Massaua verkauft.", "Die Plantagen beschäftigen etwa 1.200 Saisonarbeiter während der Ernte."],
+      hu: ["Az ültetvények mintegy 800 hektárt foglalnak el.", "Az átlagos hozam 300 kg nyers bab hektáronként.", "Az Arabica növények Jemenből származó fajták leszármazottai.", "A bab szárítási ideje körülbelül 15 nap.", "A Ghinda kávét Asmara és Massawa piacain értékesítik.", "Az ültetvények mintegy 1.200 szezonális munkást foglalkoztatnak a szüret idején."],
+      ro: ["Plantațiile acoperă aproximativ 800 de hectare.", "Randamentul mediu este de 300 kg boabe verzi la hectar.", "Plantele Arabica provin din soiuri introduse din Yemen.", "Timpul de uscare a boabelor este de aproximativ 15 zile.", "Cafeaua Ghinda este vândută pe piețele din Asmara și Massawa.", "Plantațiile angajează aproximativ 1.200 de muncitori sezonieri în timpul recoltei."],
+      en: ["Plantations cover around 800 hectares.", "Average yield is 300 kg of green beans per hectare.", "Arabica plants descend from varieties originally from Yemen.", "Bean drying time is about 15 days.", "Ghinda coffee is sold at markets in Asmara and Massawa.", "Plantations employ about 1,200 seasonal workers during harvest."],
+    },
+  },
   {
     id: "senhit-livestock-life-v2",
     type: "animal-habitat",
     parent: "ER-AN",
     coords: [38.30, 15.90],
-    name: { de: "Senhit Viehweiden", hu: "Senhit állatlegelő", ro: "Pășuni Senhit", en: "Senhit livestock pastures",
-image: "/poi-images/senhit-livestock-life-v2.webp"
-},
+    name: { de: "Senhit Viehweiden", hu: "Senhit állatlegelő", ro: "Pășuni Senhit", en: "Senhit livestock pastures"},
+    image: "/poi-images/senhit-livestock-life-v2.webp",
     description: { de: "Weideflächen für Rinder und Ziegen.", hu: "Legelőterületek szarvasmarhák és kecskék számára.", ro: "Pășuni pentru bovine și caprine.", en: "Grazing areas for cattle and goats." },
     facts: {
       de: ["Traditionelle Viehhaltung", "Wanderweidewirtschaft"],
       hu: ["Hagyományos állattartás", "Vándorlegeltetés"],
       ro: ["Creșterea tradițională a animalelor", "Păstorit nomad"],
       en: ["Traditional animal husbandry", "Nomadic herding"]
-    }, image: "/poi-images/senhit-livestock-life-v2.webp"},
+    }, image: "/poi-images/senhit-livestock-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Viehweiden von Senhit liegen im Westen Eritreas in der Region Gash-Barka. Die Savannenlandschaft wird von halbnomadischen Hirten genutzt, die Rinder, Ziegen, Schafe und Kamele halten. Die Weideflächen erstrecken sich über etwa 50.000 Hektar entlang des Flusses Gash. Die Tiere werden zur Milch-, Fleisch- und Lederproduktion genutzt. Viehzucht ist eine der wichtigsten Einkommensquellen für die lokale Bevölkerung. Transhumanz wird praktiziert, um saisonale Wasserquellen zu nutzen.",
+      hu: "Senhit legelői Eritrea nyugati részén, Gash-Barka régióban találhatók. A szavannai tájat félnomád pásztorok használják szarvasmarha, kecske, juh és teve legeltetésére. A legelők mintegy 50 000 hektáron terülnek el a Gash folyó mentén. Az állatok tej-, hús- és bőrtermelésre szolgálnak. Az állattenyésztés a helyi lakosság egyik fő bevételi forrása. A transzhumánc gyakorlatot alkalmazzák az évszakos vízforrások kihasználására.",
+      ro: "Pășunile pentru animale din Senhit sunt situate în vestul Eritreei, în regiunea Gash-Barka. Peisajul de savană este utilizat de păstorii semi-nomazi care cresc vite, capre, oi și cămile. Pășunile se întind pe aproximativ 50.000 de hectare de-a lungul râului Gash. Animalele sunt folosite pentru lapte, carne și piele. Creșterea animalelor este una dintre principalele surse de venit pentru populația locală. Se practică transhumanța pentru a folosi sursele sezoniere de apă.",
+      en: "Senhit livestock pastures are located in western Eritrea's Gash-Barka region. The savanna is used by semi-nomadic herders raising cattle, goats, sheep, and camels. Pastures cover about 50,000 hectares along the Gash River. Livestock provide milk, meat, and leather. Animal husbandry is a key income source. Transhumance is practiced to access seasonal water sources.",
+    },
+    factsAdvanced: {
+      de: ["Die Herdengröße variiert zwischen 50 und 200 Tieren pro Familie.", "Rinder der Rasse Barka sind an die Trockenheit angepasst.", "Die Milchleistung einer Kuh beträgt 2-3 Liter pro Tag.", "Etwa 70% der Haushalte in Senhit besitzen Vieh.", "Die Weideflächen werden nach traditionellen Nutzungsrechten verwaltet.", "Der Fleischkonsum pro Kopf liegt in der Region bei 15 kg jährlich."],
+      hu: ["A csordák mérete családonként 50 és 200 állat között változik.", "A Barka szarvasmarha fajta szárazságtűrő.", "Egy tehén napi tejhozama 2-3 liter.", "Senhit háztartásainak mintegy 70%-a rendelkezik állattal.", "A legelőket hagyományos használati jogok alapján kezelik.", "A régióban az egy főre jutó éves húsfogyasztás 15 kg."],
+      ro: ["Mărimea turmelor variază între 50 și 200 de animale per familie.", "Rasa de vite Barka este adaptată la secetă.", "Producția de lapte a unei vaci este de 2-3 litri pe zi.", "Aproximativ 70% din gospodăriile din Senhit dețin animale.", "Pășunile sunt gestionate conform drepturilor tradiționale de utilizare.", "Consumul de carne pe cap de locuitor în regiune este de 15 kg anual."],
+      en: ["Herd sizes range from 50 to 200 animals per family.", "Barka cattle breed is adapted to drought.", "Milk yield per cow is 2-3 liters per day.", "About 70% of households in Senhit own livestock.", "Pastures are managed under traditional use rights.", "Per capita meat consumption in the region is 15 kg annually."],
+    },
+  },
   {
     id: "dekemhare-family-park-life-v2",
     type: "kid-landmark",
     parent: "ER-DU",
     coords: [39.12, 15.08],
-    name: { de: "Dekemhare Familienpark", hu: "Dekemhare családi park", ro: "Parc familial Dekemhare", en: "Dekemhare family park",
-image: "/poi-images/dekemhare-family-park-life-v2.webp"
-},
+    name: { de: "Dekemhare Familienpark", hu: "Dekemhare családi park", ro: "Parc familial Dekemhare", en: "Dekemhare family park"},
+    image: "/poi-images/dekemhare-family-park-life-v2.webp",
     description: { de: "Park mit Spielplätzen für Familien in Dekemhare.", hu: "Park játszóterekkel családoknak Dekemhare-ben.", ro: "Parc cu locuri de joacă pentru familii în Dekemhare.", en: "Park with playgrounds for families in Dekemhare." },
     facts: {
       de: ["Sicherer Spielbereich", "Picknickzonen"],
       hu: ["Biztonságos játszótér", "Piknikező helyek"],
       ro: ["Zonă de joacă sigură", "Zone de picnic"],
       en: ["Safe play area", "Picnic zones"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Familienpark von Dekemhare befindet sich in der Stadt Dekemhare in der Region Debub. Er wurde 2012 eröffnet und erstreckt sich über 15 Hektar. Der Park bietet Spielplätze, Erholungszonen, ein Amphitheater und botanische Gärten. Er dient der lokalen Bevölkerung als Naherholungsgebiet und Veranstaltungsort für kulturelle Feste. Der Park wurde mit Unterstützung der chinesischen Regierung errichtet. Er verfügt über eine künstliche Lagune und Bewässerungssysteme für die Pflanzen.",
+      hu: "A dekemharei családi park Debub régióban, Dekemhare városában található. 2012-ben nyílt meg, 15 hektáron terül el. A park játszóterekkel, pihenőhelyekkel, egy amfiteátrummal és botanikus kertekkel rendelkezik. A helyi lakosság számára rekreációs terület és kulturális rendezvények helyszíne. A park a kínai kormány támogatásával épült. Mesterséges lagúna és öntözőrendszerek segítik a növényzetet.",
+      ro: "Parcul familial din Dekemhare este situat în orașul Dekemhare, în regiunea Debub. A fost deschis în 2012 și se întinde pe 15 hectare. Parcul oferă locuri de joacă, zone de relaxare, un amfiteatru și grădini botanice. Este o zonă de recreere și loc pentru evenimente culturale. Parcul a fost construit cu sprijinul guvernului chinez. Are o lagună artificială și sisteme de irigații.",
+      en: "Dekemhare family park is located in Dekemhare town, Debub region. Opened in 2012, it covers 15 hectares. The park features playgrounds, relaxation areas, an amphitheater, and botanical gardens. It serves as a local recreation spot and cultural event venue. The park was built with Chinese government support. It includes an artificial lagoon and irrigation systems.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2012 eingeweiht.", "Die Fläche beträgt 15 Hektar.", "Das Amphitheater fasst 800 Zuschauer.", "Der Park enthält über 50 Pflanzenarten.", "Die Baukosten beliefen sich auf 3 Millionen US-Dollar.", "Jährlich besuchen etwa 50.000 Menschen den Park."],
+      hu: ["A park 2012-ben nyílt meg.", "Területe 15 hektár.", "Az amfiteátrum 800 néző befogadására alkalmas.", "A parkban több mint 50 növényfaj található.", "Az építési költségek 3 millió USD-t tettek ki.", "Évente mintegy 50.000 látogatója van."],
+      ro: ["Parcul a fost inaugurat în 2012.", "Suprafața este de 15 hectare.", "Amfiteatrul poate găzdui 800 de spectatori.", "Parcul conține peste 50 de specii de plante.", "Costurile de construcție s-au ridicat la 3 milioane de dolari.", "Aproximativ 50.000 de vizitatori vin anual."],
+      en: ["Park opened in 2012.", "Area is 15 hectares.", "Amphitheater seats 800 spectators.", "Park contains over 50 plant species.", "Construction cost $3 million.", "About 50,000 visitors annually."],
+    },
   },
   {
     id: "gash-barka-bird-reserve-life-v2",
     type: "animal-habitat",
     parent: "ER-GB",
     coords: [37.20, 15.20],
-    name: { de: "Gash-Barka Vogelschutzgebiet", hu: "Gash-Barka madárvédelmi terület", ro: "Rezervație de păsări Gash-Barka", en: "Gash-Barka bird sanctuary",
-image: "/poi-images/gash-barka-bird-reserve-life-v2.webp"
-},
+    name: { de: "Gash-Barka Vogelschutzgebiet", hu: "Gash-Barka madárvédelmi terület", ro: "Rezervație de păsări Gash-Barka", en: "Gash-Barka bird sanctuary"},
+    image: "/poi-images/gash-barka-bird-reserve-life-v2.webp",
     description: { de: "Ein Schutzgebiet für Zugvögel in der Gash-Barka-Region.", hu: "Vonuló madarak védelmi területe Gash-Barka régióban.", ro: "O arie protejată pentru păsările migratoare în regiunea Gash-Barka.", en: "A protected area for migratory birds in the Gash-Barka region." },
     facts: {
       de: ["Hotspot für Ornithologen", "Saisonale Feuchtgebiete"],
       hu: ["Madártani központ", "Szezonális vizes élőhelyek"],
       ro: ["Punct fierbinte pentru ornitologi", "Zone umede sezoniere"],
       en: ["Ornithology hotspot", "Seasonal wetlands"]
-    }, image: "/poi-images/gash-barka-bird-reserve-life-v2.webp"},
+    }, image: "/poi-images/gash-barka-bird-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Gash-Barka-Vogelschutzgebiet liegt im Westen Eritreas entlang des Gash-Flusses. Es wurde 1960 als Schutzgebiet ausgewiesen und umfasst 2.500 Quadratkilometer. Die Feuchtgebiete, Savannen und Akazienwälder beherbergen über 300 Vogelarten, darunter den endemischen Eritrea-Sperling und Zugvögel aus Europa. Das Schutzgebiet ist ein wichtiger Rastplatz für den Weißstorch. Die Region wird auch von Nilpferden und Antilopen bewohnt.",
+      hu: "A Gash-Barka madárrezervátum Eritrea nyugati részén, a Gash folyó mentén található. 1960-ban nyilvánították védett területté, és 2500 négyzetkilométert fed le. A vizes élőhelyek, szavannák és akácerdők több mint 300 madárfajnak adnak otthont, köztük az eritreai verébnek és európai vonuló madaraknak. A rezervátum fontos pihenőhely a fehér gólyák számára. A területen vízilovak és antilopok is élnek.",
+      ro: "Rezervația de păsări Gash-Barka este situată în vestul Eritreei, de-a lungul râului Gash. A fost desemnată zonă protejată în 1960 și acoperă 2.500 de kilometri pătrați. Zonele umede, savanele și pădurile de salcâm găzduiesc peste 300 de specii de păsări, inclusiv vrabia eritreeană endemică și păsări migratoare din Europa. Rezervația este un punct important de odihnă pentru berzele albe. Zona este locuită și de hipopotami și antilope.",
+      en: "The Gash-Barka bird reserve in western Eritrea along the Gash River. Established in 1960, it covers 2,500 square kilometers. Wetlands, savannas, and acacia forests host over 300 bird species, including the endemic Eritrean sparrow and European migrants. The reserve is a major stopover for white storks. Hippos and antelopes also inhabit the area.",
+    },
+    factsAdvanced: {
+      de: ["Die Schutzgebietsfläche beträgt 2.500 km².", "Über 300 Vogelarten wurden nachgewiesen.", "Der Weißstorch nutzt das Gebiet als Rastplatz auf dem Zug nach Afrika.", "Die Gründung erfolgte 1960.", "Die jährliche Niederschlagsmenge beträgt 400-600 mm.", "Das Gebiet ist auch Lebensraum für den Afrikanischen Elefanten (historisch)."],
+      hu: ["A védett terület 2500 km².", "Több mint 300 madárfajt regisztráltak.", "A fehér gólya pihenőhelyként használja a területet az Afrikába tartó úton.", "Az alapítás 1960-ban történt.", "Az éves csapadékmennyiség 400-600 mm.", "A terület az afrikai elefánt élőhelye is (történelmileg)."],
+      ro: ["Suprafața rezervației este de 2.500 km².", "Peste 300 de specii de păsări sunt înregistrate.", "Barza albă folosește zona ca loc de popas pe drumul spre Africa.", "Înființarea a avut loc în 1960.", "Precipitațiile anuale sunt de 400-600 mm.", "Zona este, de asemenea, habitat pentru elefantul african (istoric)."],
+      en: ["Reserve area is 2,500 km².", "Over 300 bird species recorded.", "White stork uses it as a stopover on migration to Africa.", "Established in 1960.", "Annual rainfall is 400-600 mm.", "Area also historically habitat for African elephant."],
+    },
+  },
   {
     id: "tessenei-crops-life-v2",
     type: "agriculture",
     parent: "ER-GB",
     coords: [36.65, 15.10],
-    name: { de: "Tessenei Hirse- und Baumwollfelder", hu: "Tessenei köles- és gyapotföldek", ro: "Câmpuri de mei și bumbac Tessenei", en: "Tessenei millet and cotton fields",
-image: "/poi-images/tessenei-crops-life-v2.webp"
-},
+    name: { de: "Tessenei Hirse- und Baumwollfelder", hu: "Tessenei köles- és gyapotföldek", ro: "Câmpuri de mei și bumbac Tessenei", en: "Tessenei millet and cotton fields"},
+    image: "/poi-images/tessenei-crops-life-v2.webp",
     description: { de: "Wichtige landwirtschaftliche Anbauflächen nahe Tessenei.", hu: "Fontos mezőgazdasági területek Tessenei közelében.", ro: "Zone agricole importante lângă Tessenei.", en: "Important agricultural fields near Tessenei." },
     facts: {
       de: ["Günstiges Bewässerungssystem", "Wirtschaftszentrum"],
       hu: ["Kedvező öntözőrendszer", "Gazdasági központ"],
       ro: ["Sistem de irigații favorabil", "Centru economic"],
       en: ["Favorable irrigation system", "Economic hub"]
-    }, image: "/poi-images/tessenei-crops-life-v2.webp"},
+    }, image: "/poi-images/tessenei-crops-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Milch- und Baumwollfelder von Tessenei liegen im Westen Eritreas in der Region Gash-Barka. Die Region ist eine der wichtigsten landwirtschaftlichen Zonen des Landes. Milch (Hirse) und Baumwolle werden auf Bewässerungsflächen entlang des Flusses Gash angebaut. Der Bewässerungsanbau wurde in den 1960er Jahren eingeführt. Milch dient als Grundnahrungsmittel, Baumwolle wird exportiert. Die Felder erstrecken sich über etwa 10.000 Hektar. Die Ernte von Milch erfolgt von September bis November, Baumwolle von Dezember bis Februar.",
+      hu: "Tessenei köles- és gyapotföldjei Eritrea nyugati részén, Gash-Barka régióban találhatók. A régió az ország egyik legfontosabb mezőgazdasági övezete. A kölest és gyapotot öntözött területeken termesztik a Gash folyó mentén. Az öntözéses gazdálkodást az 1960-as években vezették be. A köles alapvető élelmiszer, a gyapotot exportálják. A földek mintegy 10 000 hektáron terülnek el. A kölest szeptembertől novemberig, a gyapotot decembertől februárig aratják.",
+      ro: "Câmpurile de mei și bumbac din Tessenei sunt situate în vestul Eritreei, în regiunea Gash-Barka. Regiunea este una dintre cele mai importante zone agricole. Meiul și bumbacul sunt cultivate pe terenuri irigate de-a lungul râului Gash. Irrigațiile au fost introduse în anii 1960. Meiul este aliment de bază, bumbacul este exportat. Câmpurile se întind pe aproximativ 10.000 de hectare. Recolta de mei are loc din septembrie până în noiembrie, cea de bumbac din decembrie până în februarie.",
+      en: "Tessenei millet and cotton fields in western Eritrea's Gash-Barka region. The area is a key agricultural zone. Millet and cotton are grown on irrigated land along the Gash River. Irrigation was introduced in the 1960s. Millet is a staple, cotton is exported. Fields cover about 10,000 hectares. Millet harvest is September to November, cotton December to February.",
+    },
+    factsAdvanced: {
+      de: ["Die bewässerte Fläche beträgt 10.000 Hektar.", "Millet (Hirse) ist eine der ältesten Kulturpflanzen der Region.", "Der Baumwollertrag liegt bei 1,5 Tonnen pro Hektar.", "Die Bewässerung erfolgt durch Kanäle aus dem Gash-Fluss.", "Etwa 15.000 Landwirte sind in der Region tätig.", "Baumwollexporte machen 5 % der landwirtschaftlichen Exporte Eritreas aus."],
+      hu: ["Az öntözött terület 10 000 hektár.", "A köles a régió egyik legrégebbi termesztett növénye.", "A gyapot hozama hektáronként 1,5 tonna.", "Az öntözést a Gash folyóból épített csatornák biztosítják.", "Mintegy 15 000 gazdálkodó tevékenykedik a régióban.", "A gyapotexport Eritrea mezőgazdasági exportjának 5%-át teszi ki."],
+      ro: ["Suprafața irigată este de 10.000 de hectare.", "Meiul este una dintre cele mai vechi culturi din regiune.", "Randamentul bumbacului este de 1,5 tone la hectar.", "Irigarea se face prin canale din râul Gash.", "Aproximativ 15.000 de fermieri activează în regiune.", "Exporturile de bumbac reprezintă 5% din exporturile agricole ale Eritreei."],
+      en: ["Irrigated area is 10,000 hectares.", "Millet is one of the oldest crops in the region.", "Cotton yield is 1.5 tons per hectare.", "Irrigation via canals from the Gash River.", "About 15,000 farmers operate in the region.", "Cotton exports account for 5% of Eritrea's agricultural exports."],
+    },
+  },
   {
     id: "arkiko-fishery-center-life-v2",
     type: "agriculture",
     parent: "ER-SK",
     coords: [39.48, 15.55],
-    name: { de: "Arkiko Fischereizentrum", hu: "Arkiko halászati központ", ro: "Centru de pescuit Arkiko", en: "Arkiko fishery center",
-image: "/poi-images/arkiko-fishery-center-life-v2.webp"
-},
+    name: { de: "Arkiko Fischereizentrum", hu: "Arkiko halászati központ", ro: "Centru de pescuit Arkiko", en: "Arkiko fishery center"},
+    image: "/poi-images/arkiko-fishery-center-life-v2.webp",
     description: { de: "Zentrum für lokale Fischerei und Verarbeitung.", hu: "Helyi halászati és feldolgozó központ.", ro: "Centru pentru pescuit local și procesare.", en: "Center for local fishing and processing." },
     facts: {
       de: ["Frischer Fang", "Traditionelle Fangmethoden"],
       hu: ["Friss fogás", "Hagyományos halászati módszerek"],
       ro: ["Captură proaspătă", "Metode tradiționale de pescuit"],
       en: ["Fresh catch", "Traditional fishing methods"]
-    }, image: "/poi-images/arkiko-fishery-center-life-v2.webp"},
+    }, image: "/poi-images/arkiko-fishery-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Fischereizentrum von Arkiko liegt an der Küste des Roten Meeres in der Region Semienawi Kayih Bahri. Es wurde 2005 mit Unterstützung der japanischen Regierung errichtet. Das Zentrum verfügt über Kühlhäuser, Anlegestellen und eine Verarbeitungsanlage. Es dient als Sammelpunkt für lokale Fischer, die Sardinen, Makrelen und Thunfisch fangen. Die Fangflotte besteht aus etwa 200 Holzbooten. Das Zentrum verarbeitet jährlich etwa 5.000 Tonnen Fisch für den lokalen Markt und Export.",
+      hu: "Az arkikói halászati központ a Vörös-tenger partján, a Semienawi Kayih Bahri régióban található. 2005-ben épült a japán kormány támogatásával. A központ hűtőházakkal, kikötőhelyekkel és feldolgozóüzemmel rendelkezik. A helyi halászok szardínia, makréla és tonhal fogását gyűjti össze. A flotta mintegy 200 fahajóból áll. A központ évente mintegy 5000 tonna halat dolgoz fel a helyi piacra és exportra.",
+      ro: "Centrul de pescuit din Arkiko este situat pe coasta Mării Roșii, în regiunea Semienawi Kayih Bahri. A fost construit în 2005 cu sprijinul guvernului japonez. Centrul dispune de depozite frigorifice, pontoane și o unitate de procesare. Colectează pește de la pescarii locali: sardine, macrou și ton. Flota este formată din aproximativ 200 de bărci din lemn. Centrul procesează anual aproximativ 5.000 de tone de pește pentru piața locală și export.",
+      en: "Arkiko fishery center on the Red Sea coast in Semienawi Kayih Bahri region. Built in 2005 with Japanese support. The center has cold storage, jetties, and processing plant. It collects fish from local fishers: sardines, mackerel, tuna. Fleet of about 200 wooden boats. Processes about 5,000 tons annually for local and export markets.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum verarbeitet jährlich 5.000 Tonnen Fisch.", "Die Bootsflotte besteht aus 200 traditionellen Holzbooten.", "Die Kühlhauskapazität beträgt 500 Tonnen.", "Der Bau kostete 2 Millionen US-Dollar.", "Es werden 300 Fischer direkt unterstützt.", "Die Hauptfangsaison ist von November bis März."],
+      hu: ["A központ évente 5000 tonna halat dolgoz fel.", "A hajóflotta 200 hagyományos fahajóból áll.", "A hűtőház kapacitása 500 tonna.", "Az építés 2 millió USD-ba került.", "Közvetlenül 300 halászt támogat.", "A fő halászati szezon novembertől márciusig tart."],
+      ro: ["Centrul procesează anual 5.000 de tone de pește.", "Flota este formată din 200 de bărci tradiționale din lemn.", "Capacitatea de depozitare frigorifică este de 500 de tone.", "Construcția a costat 2 milioane de dolari.", "Sprijină direct 300 de pescari.", "Sezonul principal de pescuit este din noiembrie până în martie."],
+      en: ["Center processes 5,000 tons of fish annually.", "Boat fleet consists of 200 traditional wooden boats.", "Cold storage capacity is 500 tons.", "Construction cost $2 million.", "Directly supports 300 fishers.", "Main fishing season is November to March."],
+    },
+  },
   {
     id: "hargigo-horticulture-life-v2",
     type: "agriculture",
     parent: "ER-SK",
     coords: [39.42, 15.65],
-    name: { de: "Hargigo Gartenbauzone", hu: "Hargigo kertészeti zóna", ro: "Zonă horticolă Hargigo", en: "Hargigo horticultural zone",
-image: "/poi-images/hargigo-horticulture-life-v2.webp"
-},
+    name: { de: "Hargigo Gartenbauzone", hu: "Hargigo kertészeti zóna", ro: "Zonă horticolă Hargigo", en: "Hargigo horticultural zone"},
+    image: "/poi-images/hargigo-horticulture-life-v2.webp",
     description: { de: "Gemüse- und Gartenbau in der Nähe von Hargigo.", hu: "Zöldség- és kertészet Hargigo közelében.", ro: "Legumicultură și horticultură lângă Hargigo.", en: "Vegetable and horticultural farming near Hargigo." },
     facts: {
       de: ["Lokale Marktversorgung", "Gewächshäuser"],
       hu: ["Helyi piaci ellátás", "Üvegházak"],
       ro: ["Aprovizionarea piețelor locale", "Sere"],
       en: ["Local market supply", "Greenhouses"]
-    }, image: "/poi-images/hargigo-horticulture-life-v2.webp"},
+    }, image: "/poi-images/hargigo-horticulture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die gartenbauliche Zone von Hargigo befindet sich in der Nähe von Massaua in der Region Semienawi Kayih Bahri. Die Zone wurde 2010 eingerichtet und umfasst 200 Hektar. Sie produziert Gemüse wie Tomaten, Auberginen, Paprika und Okra unter Bewässerung aus dem Wadi Hargigo. Die Produktion dient der lokalen Versorgung und den Märkten in Massaua. Es werden etwa 500 Kleinbauern beschäftigt. Die Zone wird vom Landwirtschaftsministerium unterstützt.",
+      hu: "Hargigo kertészeti övezete Massawa közelében, a Semienawi Kayih Bahri régióban található. Az övezetet 2010-ben hozták létre, 200 hektáron. Zöldségeket termesztenek, mint paradicsom, padlizsán, paprika és okra, a Wadi Hargigóból történő öntözéssel. A termelés a helyi ellátást és a massawai piacokat szolgálja. Mintegy 500 kisgazdát foglalkoztat. Az övezetet a Mezőgazdasági Minisztérium támogatja.",
+      ro: "Zona horticolă Hargigo este situată lângă Massawa, în regiunea Semienawi Kayih Bahri. A fost înființată în 2010 și se întinde pe 200 de hectare. Produce legume precum roșii, vinete, ardei și okra, irigate din Wadi Hargigo. Producția deservește piața locală și piețele din Massawa. Angajează aproximativ 500 de mici fermieri. Zona este sprijinită de Ministerul Agriculturii.",
+      en: "Hargigo horticultural zone near Massawa in Semienawi Kayih Bahri region. Established in 2010, covering 200 hectares. It grows vegetables like tomatoes, eggplants, peppers, and okra using irrigation from Wadi Hargigo. Output supplies local and Massawa markets. Employs about 500 smallholder farmers. Supported by the Ministry of Agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Die bewässerte Fläche beträgt 200 Hektar.", "Die jährliche Gemüseproduktion liegt bei 3.000 Tonnen.", "Es werden 500 Kleinbauern beschäftigt.", "Die Bewässerung erfolgt durch Tröpfchenbewässerung.", "Der Tomatenertrag beträgt 25 Tonnen pro Hektar.", "Das Projekt kostete 1,5 Millionen US-Dollar."],
+      hu: ["Az öntözött terület 200 hektár.", "Az éves zöldségtermelés 3000 tonna.", "500 kisgazdát foglalkoztat.", "Az öntözés csepegtető öntözéssel történik.", "A paradicsom hozama hektáronként 25 tonna.", "A beruházás 1,5 millió USD-ba került."],
+      ro: ["Suprafața irigată este de 200 de hectare.", "Producția anuală de legume este de 3.000 de tone.", "Angajează 500 de mici fermieri.", "Irigarea se face prin picurare.", "Randamentul la roșii este de 25 de tone la hectar.", "Proiectul a costat 1,5 milioane de dolari."],
+      en: ["Irrigated area is 200 hectares.", "Annual vegetable production is 3,000 tons.", "Employs 500 smallholder farmers.", "Irrigation uses drip systems.", "Tomato yield is 25 tons per hectare.", "Project cost $1.5 million."],
+    },
+  },
   {
     id: "asmara-research-garden-life-v2",
     type: "agriculture",
     parent: "ER-MA",
     coords: [38.90, 15.35],
-    name: { de: "Asmara botanischer Forschungsgarten", hu: "Aszmara botanikai kutatókert", ro: "Grădină botanică de cercetare Asmara", en: "Asmara botanical research garden",
-image: "/poi-images/asmara-research-garden-life-v2.webp"
-},
+    name: { de: "Asmara botanischer Forschungsgarten", hu: "Aszmara botanikai kutatókert", ro: "Grădină botanică de cercetare Asmara", en: "Asmara botanical research garden"},
+    image: "/poi-images/asmara-research-garden-life-v2.webp",
     description: { de: "Forschungseinrichtung für heimische Pflanzen.", hu: "Kutatóintézet őshonos növények számára.", ro: "Unitate de cercetare pentru plante native.", en: "Research facility for native plants." },
     facts: {
       de: ["Artenvielfalt", "Bildungszwecke"],
       hu: ["Fajgazdagság", "Oktatási célok"],
       ro: ["Biodiversitate", "Scopuri educaționale"],
       en: ["Biodiversity", "Educational purposes"]
-    }, image: "/poi-images/asmara-research-garden-life-v2.webp"},
+    }, image: "/poi-images/asmara-research-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der botanische Forschungsgarten von Asmara befindet sich im Norden der eritreischen Hauptstadt. Er wurde 1890 von den Italienern angelegt und umfasst 10 Hektar. Der Garten dient der Erforschung und Erhaltung einheimischer und exotischer Pflanzen. Er ist bekannt für seine Sammlung von Kakteen, Palmen und Heilpflanzen. Das Forschungszentrum arbeitet mit der Universität Asmara zusammen. Der Garten bietet auch Bildungsprogramme für Schulen.",
+      hu: "Az asmarai botanikus kutatókert Eritrea fővárosának északi részén található. 1890-ben olaszok alapították, 10 hektáron. A kert a helyi és egzotikus növények kutatására és megőrzésére szolgál. Híres kaktusz-, pálma- és gyógynövénygyűjteményéről. A kutatóközpont együttműködik az Asmara Egyetemmel. A kert oktatási programokat is kínál iskolák számára.",
+      ro: "Grădina de cercetare botanică din Asmara este situată în nordul capitalei Eritreei. A fost fondată în 1890 de italieni și se întinde pe 10 hectare. Grădina servește cercetării și conservării plantelor native și exotice. Este renumită pentru colecția de cactuși, palmieri și plante medicinale. Centrul de cercetare colaborează cu Universitatea Asmara. Grădina oferă și programe educaționale pentru școli.",
+      en: "Asmara botanical research garden in northern Asmara. Founded in 1890 by Italians, covering 10 hectares. The garden researches and conserves native and exotic plants. Known for cactus, palm, and medicinal plant collections. Research center collaborates with Asmara University. Offers educational programs for schools.",
+    },
+    factsAdvanced: {
+      de: ["Der Garten wurde 1890 gegründet.", "Die Fläche beträgt 10 Hektar.", "Es gibt über 500 Pflanzenarten.", "Die Sammlung umfasst 100 Kakteenarten.", "Der Garten hat ein Herbarium mit 5.000 Belegen.", "Jährlich besuchen 10.000 Besucher den Garten."],
+      hu: ["A kertet 1890-ben alapították.", "Területe 10 hektár.", "Több mint 500 növényfaj található.", "A gyűjtemény 100 kaktuszfajt tartalmaz.", "A kert herbáriuma 5000 példánnyal rendelkezik.", "Évente 10 000 látogató keresi fel."],
+      ro: ["Grădina a fost fondată în 1890.", "Suprafața este de 10 hectare.", "Există peste 500 de specii de plante.", "Colecția include 100 de specii de cactuși.", "Grădina are un herbar cu 5.000 de specimene.", "Anual, 10.000 de vizitatori vin în grădină."],
+      en: ["Garden founded in 1890.", "Area is 10 hectares.", "Over 500 plant species.", "Collection includes 100 cactus species.", "Herbarium with 5,000 specimens.", "10,000 annual visitors."],
+    },
+  },
   {
     id: "barentu-children-park-life-v2",
     type: "kid-landmark",
     parent: "ER-GB",
     coords: [37.58, 15.11],
-    name: { de: "Barentu Kinder-Erlebnispark", hu: "Barentu gyermek élménypark", ro: "Parc de aventură pentru copii Barentu", en: "Barentu children's adventure park",
-image: "/poi-images/barentu-children-park-life-v2.webp"
-},
+    name: { de: "Barentu Kinder-Erlebnispark", hu: "Barentu gyermek élménypark", ro: "Parc de aventură pentru copii Barentu", en: "Barentu children's adventure park"},
+    image: "/poi-images/barentu-children-park-life-v2.webp",
     description: { de: "Spielplatz in Barentu für alle Altersgruppen.", hu: "Játszótér Barentu-ban minden korosztálynak.", ro: "Loc de joacă în Barentu pentru toate vârstele.", en: "Playground in Barentu for all ages." },
     facts: {
       de: ["Beliebter Treffpunkt", "Bunte Spielgeräte"],
       hu: ["Népszerű találkozóhely", "Színes játékok"],
       ro: ["Loc de întâlnire popular", "Echipamente de joacă colorate"],
       en: ["Popular meeting spot", "Colorful play equipment"]
-    }, image: "/poi-images/barentu-children-park-life-v2.webp"},
+    }, image: "/poi-images/barentu-children-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kinderpark von Barentu befindet sich in der Stadt Barentu in der Region Gash-Barka. Er wurde 2015 eröffnet und umfasst 5 Hektar. Der Park bietet einen Spielplatz, einen kleinen Zoo, Springbrunnen und Picknickbereiche. Er ist ein beliebtes Ausflugsziel für Familien. Der Park wird von der Stadtverwaltung betrieben. Er wurde mit Spenden der eritreischen Diaspora finanziert.",
+      hu: "A barentui gyermekpark Gash-Barka régióban, Barentu városában található. 2015-ben nyílt meg, 5 hektáron. A park játszótérrel, kisállatkerttel, szökőkutakkal és piknikhelyekkel rendelkezik. Kedvelt családi kirándulóhely. A parkot a városi önkormányzat üzemelteti. Az eritreai diaszpóra adományaiból finanszírozták.",
+      ro: "Parcul pentru copii din Barentu este situat în orașul Barentu, regiunea Gash-Barka. A fost deschis în 2015 și se întinde pe 5 hectare. Parcul oferă un loc de joacă, o mică grădină zoologică, fântâni și zone de picnic. Este o destinație populară pentru familii. Parcul este administrat de primărie. A fost finanțat prin donații ale diasporei eritreeene.",
+      en: "Barentu children's park in Barentu town, Gash-Barka region. Opened in 2015, covering 5 hectares. Features playground, small zoo, fountains, and picnic areas. Popular family destination. Operated by the municipal council. Funded by Eritrean diaspora donations.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2015 eröffnet.", "Die Fläche beträgt 5 Hektar.", "Der kleine Zoo beherbergt 20 Tierarten.", "Die Baukosten betrugen 500.000 US-Dollar.", "Der Park hat einen Wasserpark mit zwei Becken.", "Jährlich kommen etwa 20.000 Besucher."],
+      hu: ["A park 2015-ben nyílt meg.", "Területe 5 hektár.", "A kisállatkert 20 állatfajnak ad otthont.", "Az építési költségek 500 000 USD-t tettek ki.", "A parkban vízi park található két medencével.", "Évente mintegy 20 000 látogató érkezik."],
+      ro: ["Parcul a fost deschis în 2015.", "Suprafața este de 5 hectare.", "Grădina zoologică mică găzduiește 20 de specii de animale.", "Costurile de construcție au fost de 500.000 de dolari.", "Parcul are un parc acvatic cu două bazine.", "Anual vin aproximativ 20.000 de vizitatori."],
+      en: ["Park opened in 2015.", "Area is 5 hectares.", "Small zoo houses 20 animal species.", "Construction cost $500,000.", "Park has a water park with two pools.", "About 20,000 annual visitors."],
+    },
+  },
   {
     id: "ginda-orchard-life-v2",
     type: "agriculture",
     parent: "ER-SK",
     coords: [39.05, 15.48],
-    name: { de: "Ginda Obstgarten", hu: "Ginda gyümölcsöskert", ro: "Livada Ginda", en: "Ginda orchard",
-image: "/poi-images/ginda-orchard-life-v2.webp"
-},
+    name: { de: "Ginda Obstgarten", hu: "Ginda gyümölcsöskert", ro: "Livada Ginda", en: "Ginda orchard"},
+    image: "/poi-images/ginda-orchard-life-v2.webp",
     description: { de: "Obstgarten für den lokalen Bedarf.", hu: "Gyümölcsöskert helyi igényekre.", ro: "Livadă pentru necesitățile locale.", en: "Orchard for local needs." },
     facts: {
       de: ["Zitrusfrüchte", "Saisonaler Anbau"],
       hu: ["Citrusfélék", "Szezonális termesztés"],
       ro: ["Citrice", "Cultivare sezonieră"],
       en: ["Citrus fruits", "Seasonal farming"]
-    }, image: "/poi-images/ginda-orchard-life-v2.webp"},
+    }, image: "/poi-images/ginda-orchard-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Obstgarten von Ginda liegt in der Region Semienawi Kayih Bahri, östlich des eritreischen Hochlandes. Er wurde in den 1960er Jahren von italienischen Siedlern angelegt und erstreckt sich über 50 Hektar. Angebaut werden Zitrusfrüchte, Mangos, Avocados und Papayas. Der Garten wird durch Bewässerung aus dem Fluss Ginda bewässert. Die Früchte werden auf lokalen Märkten verkauft und teilweise nach Massaua exportiert.",
+      hu: "A gindai gyümölcsöskert a Semienawi Kayih Bahri régióban található, az eritreai felföldtől keletre. Az 1960-as években olasz telepesek alapították, 50 hektáron. Citrusféléket, mangót, avokádót és papayát termesztenek. A kertet a Ginda folyóból öntözik. A gyümölcsöket helyi piacokon értékesítik, és részben Massawába exportálják.",
+      ro: "Livada din Ginda este situată în regiunea Semienawi Kayih Bahri, la est de podișul eritreean. A fost înființată în anii 1960 de coloniști italieni și se întinde pe 50 de hectare. Se cultivă citrice, mango, avocado și papaya. Livada este irigată din râul Ginda. Fructele sunt vândute pe piețele locale și parțial exportate la Massawa.",
+      en: "Ginda orchard in Semienawi Kayih Bahri region, east of the Eritrean highlands. Established in the 1960s by Italian settlers, covering 50 hectares. Grows citrus, mangoes, avocados, and papayas. Irrigated from the Ginda River. Fruits sold locally and partly exported to Massawa.",
+    },
+    factsAdvanced: {
+      de: ["Der Obstgarten umfasst 50 Hektar.", "Die Zitrusernte beträgt jährlich 200 Tonnen.", "Die Mangoproduktion liegt bei 150 Tonnen pro Jahr.", "Die Bewässerung erfolgt über Tropfschläuche.", "Es werden 100 Arbeiter beschäftigt.", "Der Obstgarten exportiert 30 % seiner Ernte."],
+      hu: ["A gyümölcsöskert 50 hektáron terül el.", "A citrusfélék éves termése 200 tonna.", "A mangótermelés évi 150 tonna.", "Az öntözés csepegtető csövekkel történik.", "100 munkást foglalkoztat.", "A kert termésének 30%-át exportálja."],
+      ro: ["Livada se întinde pe 50 de hectare.", "Recolta anuală de citrice este de 200 de tone.", "Producția de mango este de 150 de tone pe an.", "Irigarea se face prin furtunuri de picurare.", "Angajează 100 de muncitori.", "Livada exportă 30% din recoltă."],
+      en: ["Orchard covers 50 hectares.", "Annual citrus harvest is 200 tons.", "Mango production is 150 tons per year.", "Irrigation uses drip hoses.", "Employs 100 workers.", "Orchard exports 30% of its produce."],
+    },
+  },
   {
     id: "senhit-pastures-life-v2",
     type: "animal-habitat",
     parent: "ER-AN",
     coords: [38.35, 15.92],
-    name: { de: "Senhit Weide-Schutzzone", hu: "Senhit legelővédelmi zóna", ro: "Zonă de protecție a pășunilor Senhit", en: "Senhit pasture protection zone",
-image: "/poi-images/senhit-pastures-life-v2.webp"
-},
+    name: { de: "Senhit Weide-Schutzzone", hu: "Senhit legelővédelmi zóna", ro: "Zonă de protecție a pășunilor Senhit", en: "Senhit pasture protection zone"},
+    image: "/poi-images/senhit-pastures-life-v2.webp",
     description: { de: "Geschützte Weidefläche in Senhit.", hu: "Védett legelőterület Senhitben.", ro: "Zonă de pășunat protejată în Senhit.", en: "Protected grazing area in Senhit." },
     facts: {
       de: ["Nachhaltige Beweidung", "Bodenfruchtbarkeit"],
       hu: ["Fenntartható legeltetés", "Talajtermékenység"],
       ro: ["Pășunat sustenabil", "Fertilitatea solului"],
       en: ["Sustainable grazing", "Soil fertility"]
-    }, image: "/poi-images/senhit-pastures-life-v2.webp"},
+    }, image: "/poi-images/senhit-pastures-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Weideschutzzone von Senhit liegt im Westen Eritreas in der Region Gash-Barka. Sie wurde 2010 eingerichtet, um die Überweidung zu kontrollieren und die Biodiversität zu schützen. Die Zone umfasst 30.000 Hektar semiarides Grasland und Buschland. Die Nutzung ist durch Rotationsweide geregelt. Die Zone schützt einheimische Gräser und bietet Lebensraum für Wildtiere wie Gazellen und Strauße. Gemeindebasierte Managementkomitees überwachen die Einhaltung.",
+      hu: "A senhiti legelővédelmi övezet Eritrea nyugati részén, Gash-Barka régióban található. 2010-ben hozták létre a túllegeltetés ellenőrzésére és a biodiverzitás védelmére. Az övezet 30 000 hektár fél-száraz füves és bozótos területet foglal magában. A használatot forgó legeltetés szabályozza. Az övezet védi az őshonos füveket, és élőhelyet biztosít vadon élő állatoknak, például gazelláknak és struccoknak. Közösségi irányító bizottságok felügyelik a betartást.",
+      ro: "Zona de protecție a pășunilor Senhit este situată în vestul Eritreei, în regiunea Gash-Barka. A fost înființată în 2010 pentru a controla pășunatul excesiv și a proteja biodiversitatea. Zona cuprinde 30.000 de hectare de pajiști și tufărișuri semi-aride. Utilizarea este reglementată prin pășunat rotativ. Zona protejează ierburile native și oferă habitat pentru animale sălbatice precum gazele și struți. Comitete de gestionare comunitară monitorizează respectarea regulilor.",
+      en: "Senhit pasture protection zone in western Eritrea's Gash-Barka region. Established in 2010 to control overgrazing and protect biodiversity. Encompasses 30,000 hectares of semi-arid grassland and scrub. Use is regulated by rotational grazing. Protects native grasses and provides habitat for wildlife like gazelles and ostriches. Community management committees oversee compliance.",
+    },
+    factsAdvanced: {
+      de: ["Die Schutzfläche beträgt 30.000 Hektar.", "Es gibt 50 Dörfer, die die Zone nutzen.", "Die Rotationsweide erfolgt in 10 großen Blöcken.", "Die Zone beherbergt 20 Gazellenartige.", "Die jährliche Niederschlagsmenge beträgt 300 mm.", "Das Projekt wurde von UNDP mit 1 Million US-Dollar unterstützt."],
+      hu: ["A védett terület 30 000 hektár.", "50 falu használja az övezetet.", "A forgó legeltetés 10 nagy blokkban történik.", "Az övezet 20 gazella-fajnak ad otthont.", "Az éves csapadékmennyiség 300 mm.", "A projektet az UNDP 1 millió USD-val támogatta."],
+      ro: ["Suprafața protejată este de 30.000 de hectare.", "50 de sate folosesc zona.", "Pășunatul rotativ se face în 10 blocuri mari.", "Zona găzduiește 20 de specii de gazele.", "Precipitațiile anuale sunt de 300 mm.", "Proiectul a fost sprijinit de UNDP cu 1 milion de dolari."],
+      en: ["Protected area is 30,000 hectares.", "50 villages use the zone.", "Rotational grazing in 10 large blocks.", "Zone hosts 20 gazelle-like species.", "Annual rainfall is 300 mm.", "Project supported by UNDP with $1 million."],
+    },
+  },
   {
     id: "massawa-marine-park-life-v2",
     type: "kid-landmark",
     parent: "ER-SK",
     coords: [39.46, 15.62],
-    name: { de: "Massaua Meer-Erlebnispark", hu: "Massawa tengeri élménypark", ro: "Parc marin Massawa", en: "Massawa marine theme park",
-image: "/poi-images/massawa-marine-park-life-v2.webp"
-},
+    name: { de: "Massaua Meer-Erlebnispark", hu: "Massawa tengeri élménypark", ro: "Parc marin Massawa", en: "Massawa marine theme park"},
+    image: "/poi-images/massawa-marine-park-life-v2.webp",
     description: { de: "Park mit Meeresbezug für Kinder.", hu: "Tengeri témájú park gyerekeknek.", ro: "Parc cu tematică marină pentru copii.", en: "Park with a marine theme for kids." },
     facts: {
       de: ["Interaktive Stationen", "Strandzugang"],
       hu: ["Interaktív állomások", "Strandhozzáférés"],
       ro: ["Stații interactive", "Acces la plajă"],
       en: ["Interactive stations", "Beach access"]
-    }, image: "/poi-images/massawa-marine-park-life-v2.webp"},
+    }, image: "/poi-images/massawa-marine-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Meereserlebnispark Massaua liegt auf einer Insel vor der Küste von Massaua in der Region Semienawi Kayih Bahri. Er wurde 2018 eröffnet und umfasst 40 Hektar. Der Park bietet Korallenriffbeobachtung, Bootsfahrten, Mangrovenwälder und einen Strandclub. Er dient dem Ökotourismus und der Umweltbildung. Der Park wird privat betrieben und beschäftigt 200 Einheimische. Er ist Teil eines Korallenrestaurationsprojekts.",
+      hu: "A massawai tengeri élménypark Massawa közelében, egy szigeten található a Semienawi Kayih Bahri régióban. 2018-ban nyílt meg, 40 hektáron. A park korallzátony-megfigyelést, hajókirándulásokat, mangroveerdőket és strandidőt kínál. Ökoturisztikai és környezeti nevelési célokat szolgál. A park magánüzemeltetésű, 200 helyi lakost foglalkoztat. Egy korall-helyreállítási projekt része.",
+      ro: "Parcul marin Massawa este situat pe o insulă în largul coastei Massawa, în regiunea Semienawi Kayih Bahri. A fost deschis în 2018 și se întinde pe 40 de hectare. Parcul oferă observarea recifelor de corali, plimbări cu barca, păduri de mangrove și un club de plajă. Servește ecoturismului și educației de mediu. Parcul este operat privat și angajează 200 de localnici. Face parte dintr-un proiect de restaurare a coralilor.",
+      en: "Massawa marine theme park on an island off Massawa coast, Semienawi Kayih Bahri region. Opened in 2018, covering 40 hectares. Offers coral reef viewing, boat trips, mangrove forests, and a beach club. Ecotourism and environmental education. Privately operated, employs 200 locals. Part of a coral restoration project.",
+    },
+    factsAdvanced: {
+      de: ["Der Park umfasst 40 Hektar.", "Es gibt 2 km markierte Korallenriff-Trails.", "Der Eintrittspreis beträgt 100 Nakfa (ca. 6 USD).", "Im Park wurden 500 Korallenstöcke neu gepflanzt.", "Die Mangrovenfläche beträgt 15 Hektar.", "Jährlich kommen 30.000 Touristen."],
+      hu: ["A park 40 hektáron terül el.", "2 km hosszú jelölt korallzátony útvonalak vannak.", "A belépőjegy 100 nakfa (kb. 6 USD).", "A parkban 500 koralltelepítés történt.", "A mangroveerdő 15 hektáron terül el.", "Évente 30 000 turista látogatja."],
+      ro: ["Parcul se întinde pe 40 de hectare.", "Există 2 km de trasee marcate pentru recife de corali.", "Prețul biletului este de 100 Nakfa (aproximativ 6 USD).", "În parc au fost plantați 500 de corali noi.", "Suprafața de mangrove este de 15 hectare.", "Anual vin 30.000 de turiști."],
+      en: ["Park covers 40 hectares.", "2 km of marked coral reef trails.", "Entry fee is 100 Nakfa (approx. 6 USD).", "500 new coral colonies planted.", "Mangrove area is 15 hectares.", "30,000 annual tourists."],
+    },
+  },
   {
     id: "gash-barka-grain-life-v2",
     type: "agriculture",
     parent: "ER-GB",
     coords: [37.30, 15.30],
-    name: { de: "Gash-Barka Getreideanbau", hu: "Gash-Barka gabonatermesztés", ro: "Cultivarea cerealelor Gash-Barka", en: "Gash-Barka grain cultivation",
-image: "/poi-images/gash-barka-grain-life-v2.webp"
-},
+    name: { de: "Gash-Barka Getreideanbau", hu: "Gash-Barka gabonatermesztés", ro: "Cultivarea cerealelor Gash-Barka", en: "Gash-Barka grain cultivation"},
+    image: "/poi-images/gash-barka-grain-life-v2.webp",
     description: { de: "Großflächiger Getreideanbau in Gash-Barka.", hu: "Nagy kiterjedésű gabonatermesztés Gash-Barka régióban.", ro: "Cultivare pe scară largă a cerealelor în Gash-Barka.", en: "Large-scale grain farming in Gash-Barka." },
     facts: {
       de: ["Hauptanbaugebiet", "Moderne Landmaschinen"],
       hu: ["Fő termesztési terület", "Modern mezőgazdasági gépek"],
       ro: ["Zona principală de cultivare", "Mașini agricole moderne"],
       en: ["Main farming area", "Modern agricultural machines"]
-    }, image: "/poi-images/gash-barka-grain-life-v2.webp"},
+    }, image: "/poi-images/gash-barka-grain-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Getreideanbauzone Gash-Barka liegt im Westen Eritreas in der gleichnamigen Region. Sie ist das wichtigste Getreideanbaugebiet des Landes. Angebaut werden Sorghum, Millet, Mais und Weizen auf Bewässerungs- und Regenfeldbauflächen. Die Anbaufläche beträgt 100.000 Hektar. Die Region erhält saisonale Regenfälle. Getreide wird sowohl für den lokalen Verbrauch als auch für staatliche Vorräte produziert.",
+      hu: "A Gash-Barka gabonatermesztő zóna Eritrea nyugati részén, a névadó régióban található. Ez az ország legfontosabb gabonatermesztő területe. Cirokot, kölest, kukoricát és búzát termesztenek öntözött és esőztető területeken. A termőterület 100 000 hektár. A régió évszakos csapadékot kap. A gabonát helyi fogyasztásra és állami tartalékokra is termelik.",
+      ro: "Zona de cultivare a cerealelor Gash-Barka este situată în vestul Eritreei, în regiunea cu același nume. Este cea mai importantă zonă de cultivare a cerealelor din țară. Se cultivă sorg, mei, porumb și grâu pe terenuri irigate și pluviale. Suprafața cultivată este de 100.000 de hectare. Regiunea primește ploi sezoniere. Cerealele sunt produse atât pentru consumul local, cât și pentru rezervele de stat.",
+      en: "Gash-Barka grain cultivation zone in western Eritrea. The country's primary grain-producing area. Grows sorghum, millet, maize, and wheat on irrigated and rainfed land. Planted area is 100,000 hectares. Receives seasonal rains. Grains are produced for local consumption and state reserves.",
+    },
+    factsAdvanced: {
+      de: ["Die Anbaufläche beträgt 100.000 Hektar.", "Der durchschnittliche Maisertrag liegt bei 2 Tonnen pro Hektar.", "Weizen wird auf 10.000 Hektar angebaut.", "Die Bewässerungsfläche beträgt 25.000 Hektar.", "Die Getreideproduktion deckt 60% des nationalen Bedarfs.", "Der Regenfeldbau macht 75% der Fläche aus."],
+      hu: ["A termőterület 100 000 hektár.", "A kukorica átlagos hozama 2 tonna hektáronként.", "A búzát 10 000 hektáron termesztik.", "Az öntözött terület 25 000 hektár.", "A gabonatermelés a nemzeti szükségletek 60%-át fedezi.", "Az esőztető gazdálkodás a terület 75%-át teszi ki."],
+      ro: ["Suprafața cultivată este de 100.000 de hectare.", "Randamentul mediu la porumb este de 2 tone la hectar.", "Grâul este cultivat pe 10.000 de hectare.", "Suprafața irigată este de 25.000 de hectare.", "Producția de cereale acoperă 60% din necesarul național.", "Agricultura pluvială reprezintă 75% din suprafață."],
+      en: ["Planted area is 100,000 hectares.", "Average maize yield is 2 tons per hectare.", "Wheat is grown on 10,000 hectares.", "Irrigated area is 25,000 hectares.", "Grain production meets 60% of national demand.", "Rainfed farming accounts for 75% of area."],
+    },
+  },
   {
     id: "dekemhare-orchards-life-v2",
     type: "agriculture",
     parent: "ER-DU",
     coords: [39.15, 15.05],
-    name: { de: "Dekemhare Obstplantagen", hu: "Dekemhare gyümölcsösök", ro: "Livezi Dekemhare", en: "Dekemhare fruit orchards",
-image: "/poi-images/dekemhare-orchards-life-v2.webp"
-},
+    name: { de: "Dekemhare Obstplantagen", hu: "Dekemhare gyümölcsösök", ro: "Livezi Dekemhare", en: "Dekemhare fruit orchards"},
+    image: "/poi-images/dekemhare-orchards-life-v2.webp",
     description: { de: "Obstplantagen in der Region Dekemhare.", hu: "Gyümölcsösök Dekemhare régióban.", ro: "Livezi în regiunea Dekemhare.", en: "Fruit orchards in the Dekemhare region." },
     facts: {
       de: ["Qualitätsobst", "Lokaler Export"],
       hu: ["Minőségi gyümölcs", "Helyi export"],
       ro: ["Fructe de calitate", "Export local"],
       en: ["Quality fruit", "Local export"]
-    }, image: "/poi-images/dekemhare-orchards-life-v2.webp"},
+    }, image: "/poi-images/dekemhare-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Obstplantagen von Dekemhare liegen im Hochland der Region Debub. Sie wurden in den 1950er Jahren angelegt und umfassen 30 Hektar. Angebaut werden Äpfel, Pflaumen, Aprikosen und Birnen. Die Plantagen werden durch Regen und Bewässerung aus dem Fluss Mai Aini versorgt. Die Früchte werden auf den Märkten in Asmara verkauft. Die Plantagen sind im Besitz von Genossenschaften.",
+      hu: "A dekemhare-i gyümölcsösök Debub régió felföldjén találhatók. Az 1950-es években létesítették, 30 hektáron. Almát, szilvát, sárgabarackot és körtét termesztenek. Az ültetvényeket esővízzel és a Mai Aini folyóból öntözéssel látják el. A gyümölcsöket Asmara piacain értékesítik. Az ültetvények szövetkezetek tulajdonában vannak.",
+      ro: "Livezile din Dekemhare sunt situate pe podișul regiunii Debub. Au fost înființate în anii 1950 și se întind pe 30 de hectare. Se cultivă mere, prune, caise și pere. Livezile sunt irigate cu apă de ploaie și din râul Mai Aini. Fructele sunt vândute pe piețele din Asmara. Livezile sunt deținute de cooperative.",
+      en: "Dekemhare orchards in the highlands of Debub region. Established in the 1950s, covering 30 hectares. Grows apples, plums, apricots, and pears. Irrigated by rain and Mai Aini River. Fruits sold in Asmara markets. Orchards are owned by cooperatives.",
+    },
+    factsAdvanced: {
+      de: ["Die Plantagenfläche beträgt 30 Hektar.", "Die Apfelernte beträgt 150 Tonnen pro Jahr.", "Die Pflaumenproduktion liegt bei 80 Tonnen.", "Die Bäume sind durchschnittlich 40 Jahre alt.", "Es werden 50 ständige Arbeiter beschäftigt.", "Die Genossenschaft hat 200 Mitglieder."],
+      hu: ["Az ültetvények területe 30 hektár.", "Az alma éves termése 150 tonna.", "A szilvatermelés 80 tonna.", "A fák átlagéletkora 40 év.", "50 állandó munkást foglalkoztat.", "A szövetkezet 200 taggal rendelkezik."],
+      ro: ["Suprafața livezilor este de 30 de hectare.", "Recolta anuală de mere este de 150 de tone.", "Producția de prune este de 80 de tone.", "Copacii au în medie 40 de ani.", "Angajează 50 de muncitori permanenți.", "Cooperativa are 200 de membri."],
+      en: ["Orchard area is 30 hectares.", "Apple harvest is 150 tons per year.", "Plum production is 80 tons.", "Trees average 40 years old.", "Employs 50 permanent workers.", "Cooperative has 200 members."],
+    },
+  },
   {
     id: "asmara-green-belt-life-v2",
     type: "animal-habitat",
     parent: "ER-MA",
     coords: [38.92, 15.32],
-    name: { de: "Asmara Grüngürtel", hu: "Aszmara zöldövezet", ro: "Centura verde Asmara", en: "Asmara green belt",
-image: "/poi-images/asmara-green-belt-life-v2.webp"
-},
+    name: { de: "Asmara Grüngürtel", hu: "Aszmara zöldövezet", ro: "Centura verde Asmara", en: "Asmara green belt"},
+    image: "/poi-images/asmara-green-belt-life-v2.webp",
     description: { de: "Eine grüne Zone um Asmara, die Lebensraum für lokale Vögel bietet.", hu: "Zöldövezet Aszmara körül, élőhely helyi madaraknak.", ro: "O zonă verde în jurul Asmara care oferă habitat pentru păsările locale.", en: "A green zone around Asmara providing habitat for local birds." },
     facts: {
       de: ["Luftreinigung", "Urbaner Lebensraum"],
       hu: ["Levegőtisztítás", "Városi élőhely"],
       ro: ["Purificarea aerului", "Habitat urban"],
       en: ["Air purification", "Urban habitat"]
-    }, image: "/poi-images/asmara-green-belt-life-v2.webp"},
+    }, image: "/poi-images/asmara-green-belt-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Grüne Gürtel von Asmara umgibt die eritreische Hauptstadt. Er wurde in den 1980er Jahren als Aufforstungsprojekt begonnen und erstreckt sich über 500 Hektar. Der Gürtel besteht aus Eukalyptus-, Akazien- und Kiefernwäldern. Er dient dem Erosionsschutz, der Luftverbesserung und der Erholung. Der Gürtel wird von der Stadtverwaltung gepflegt.",
+      hu: "Asmara zöld övezete körülveszi az eritreai fővárost. Az 1980-as években kezdték el erdősítési projektként, 500 hektáron terül el. Az övezet eukaliptusz-, akác- és fenyőerdőkből áll. Szolgálja az erózió elleni védelmet, a levegőjavítást és a kikapcsolódást. Az övezetet a városi önkormányzat gondozza.",
+      ro: "Centura verde a orașului Asmara înconjoară capitala Eritreei. A început ca proiect de reîmpădurire în anii 1980 și se întinde pe 500 de hectare. Este alcătuită din păduri de eucalipt, salcâm și pini. Servește la protecția împotriva eroziunii, îmbunătățirea aerului și recreere. Centura este întreținută de administrația orașului.",
+      en: "Asmara green belt surrounds the Eritrean capital. Started as an afforestation project in the 1980s, covering 500 hectares. Composed of eucalyptus, acacia, and pine forests. Provides erosion control, air improvement, and recreation. Maintained by the municipality.",
+    },
+    factsAdvanced: {
+      de: ["Der grüne Gürtel umfasst 500 Hektar.", "Es wurden 2 Millionen Bäume gepflanzt.", "Eukalyptus macht 60% der Bäume aus.", "Der Gürtel reduziert die Windgeschwindigkeit um 20%.", "Er wird von 50 Gärtnern betreut.", "Die Aufforstung begann 1985."],
+      hu: ["A zöld övezet 500 hektáron terül el.", "2 millió fát ültettek.", "Az eukaliptusz a fák 60%-át teszi ki.", "Az övezet 20%-kal csökkenti a szélsebességet.", "50 kertész gondozza.", "Az erdősítés 1985-ben kezdődött."],
+      ro: ["Centura verde acoperă 500 de hectare.", "S-au plantat 2 milioane de copaci.", "Eucaliptul reprezintă 60% dintre copaci.", "Centura reduce viteza vântului cu 20%.", "Este îngrijită de 50 de grădinari.", "Împădurirea a început în 1985."],
+      en: ["Green belt covers 500 hectares.", "2 million trees planted.", "Eucalyptus makes up 60% of trees.", "Belt reduces wind speed by 20%.", "Maintained by 50 gardeners.", "Afforestation started in 1985."],
+    },
+  },
   {
     id: "ghinda-community-garden-life-v2",
     type: "kid-landmark",
     parent: "ER-SK",
     coords: [39.09, 15.46],
-    name: { de: "Ghinda Gemeinschaftsgarten", hu: "Ghinda közösségi kert", ro: "Grădină comunitară Ghinda", en: "Ghinda community garden",
-image: "/poi-images/ghinda-community-garden-life-v2.webp"
-},
+    name: { de: "Ghinda Gemeinschaftsgarten", hu: "Ghinda közösségi kert", ro: "Grădină comunitară Ghinda", en: "Ghinda community garden"},
+    image: "/poi-images/ghinda-community-garden-life-v2.webp",
     description: { de: "Ein Garten, der von der lokalen Gemeinschaft gepflegt wird.", hu: "Közösségi kert, amelyet a helyiek tartanak fenn.", ro: "O grădină îngrijită de comunitatea locală.", en: "A garden maintained by the local community." },
     facts: {
       de: ["Bildungsprojekt", "Bio-Produkte"],
       hu: ["Oktatási projekt", "Bio-termékek"],
       ro: ["Proiect educațional", "Produse bio"],
       en: ["Educational project", "Organic products"]
-    }, image: "/poi-images/ghinda-community-garden-life-v2.webp"},
+    }, image: "/poi-images/ghinda-community-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gemeinschaftsgarten von Ghinda liegt in der Region Semienawi Kayih Bahri. Er wurde 2012 von einer lokalen NGO gegründet und umfasst 2 Hektar. Der Garten dient der Nahrungsmittelproduktion für bedürftige Familien. Angebaut werden Gemüse und Früchte. Der Garten wird von Freiwilligen bewirtschaftet und bietet Schulungen zu nachhaltiger Landwirtschaft.",
+      hu: "A gindai közösségi kert a Semienawi Kayih Bahri régióban található. 2012-ben alapította egy helyi NGO, 2 hektáron. A kert a rászoruló családok élelmiszer-termelését szolgálja. Zöldséget és gyümölcsöt termesztenek. A kertet önkéntesek művelik, és képzéseket kínál a fenntartható mezőgazdaságról.",
+      ro: "Grădina comunitară din Ghinda este situată în regiunea Semienawi Kayih Bahri. A fost fondată în 2012 de o ONG locală și se întinde pe 2 hectare. Grădina servește la producerea de alimente pentru familiile nevoiașe. Se cultivă legume și fructe. Grădina este întreținută de voluntari și oferă instruire în agricultură durabilă.",
+      en: "Ghinda community garden in Semienawi Kayih Bahri region. Founded in 2012 by a local NGO, covering 2 hectares. Produces food for needy families. Grows vegetables and fruits. Maintained by volunteers, offering training in sustainable agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Die Gartenfläche beträgt 2 Hektar.", "Es werden 50 Familien versorgt.", "Jährlich werden 10 Tonnen Gemüse produziert.", "Der Garten hat 20 Freiwillige.", "Es werden 15 Gemüsesorten angebaut.", "Das Projekt kostete 20.000 US-Dollar."],
+      hu: ["A kert területe 2 hektár.", "50 családot lát el.", "Évente 10 tonna zöldséget termel.", "A kertben 20 önkéntes dolgozik.", "15 zöldségfajtát termesztenek.", "A beruházás 20 000 USD-ba került."],
+      ro: ["Suprafața grădinii este de 2 hectare.", "Aprovizionează 50 de familii.", "Produce anual 10 tone de legume.", "Grădina are 20 de voluntari.", "Se cultivă 15 soiuri de legume.", "Proiectul a costat 20.000 de dolari."],
+      en: ["Garden area is 2 hectares.", "Supplies 50 families.", "Produces 10 tons of vegetables annually.", "Has 20 volunteers.", "15 vegetable varieties grown.", "Project cost $20,000."],
+    },
+  },
   {
     id: "massawa-palm-grove-life-v2",
     type: "agriculture",
     parent: "ER-SK",
     coords: [39.44, 15.58],
-    name: { de: "Massaua Dattelpalmenhain", hu: "Massawa datolyapálma liget", ro: "Crâng de curmali Massawa", en: "Massawa date palm grove",
-image: "/poi-images/massawa-palm-grove-life-v2.webp"
-},
+    name: { de: "Massaua Dattelpalmenhain", hu: "Massawa datolyapálma liget", ro: "Crâng de curmali Massawa", en: "Massawa date palm grove"},
+    image: "/poi-images/massawa-palm-grove-life-v2.webp",
     description: { de: "Dattelpalmenanbau nahe der Küste.", hu: "Datolyapálma termesztés a part közelében.", ro: "Cultivarea palmierilor de curmale lângă coastă.", en: "Date palm farming near the coast." },
     facts: {
       de: ["Traditionelle Ernte", "Schattenreiche Zone"],
       hu: ["Hagyományos szüret", "Árnyékos terület"],
       ro: ["Recoltare tradițională", "Zonă umbrită"],
       en: ["Traditional harvest", "Shaded area"]
-    }, image: "/poi-images/massawa-palm-grove-life-v2.webp"},
+    }, image: "/poi-images/massawa-palm-grove-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dattelpalmenhain von Massawa liegt entlang der Küste des Roten Meeres in Eritrea. Diese Plantagen wurden bereits im 19. Jahrhundert von den Osmanen und später von den Italienern erweitert. Die Palmen liefern Datteln, die ein wichtiges landwirtschaftliches Produkt der Region sind. Der Hain bietet zudem Schutz vor der Küstenerosion und dient als Lebensraum für Vögel. Die Pflanzen werden mit traditionellen Bewässerungsmethoden, wie Kanälen aus dem nahen Fluss, bewässert. Der Palmenhain ist auch ein Naherholungsgebiet für die Bewohner Massawas und zieht Besucher an, die die schattige Oase genießen.",
+      hu: "Massawa datolyapálma-ligetei a Vörös-tenger partján húzódnak. A pálmákat az oszmán időkben telepítették, majd az olasz gyarmatosítók bővítették a területet. A liget több hektáron terül el, és évente több tonna datolyát termel. A pálmák árnyékot adnak, és hozzájárulnak a helyi mikroklíma javulásához. A liget fontos a város ökológiai egyensúlya szempontjából, és pihenőhelyként szolgál a lakosok számára. A területen madárfajok is fészkelnek, ami növeli a biodiverzitást.",
+      ro: "Livezile de curmali din Massawa sunt situate de-a lungul coastei Mării Roșii, în Eritreea. Acestea au fost înființate în perioada otomană și extinse de italieni. Acoperă o suprafață de aproximativ 50 de hectare. Datile produse aici sunt renumite pentru calitatea lor. Livezile sunt irigate cu apă din râurile care se varsă în mare. Pe lângă producția de curmale, palmierii oferă umbră și protejează solul de eroziune. Este un loc frecventat de localnici pentru relaxare în timpul liber.",
+      en: "The Massawa date palm groves stretch along the Red Sea coast, forming a lush green belt near the port city. These groves have been cultivated since Ottoman times and were expanded during Italian colonization. They cover about 50 hectares and produce high-quality dates, a key export for Eritrea. The palm trees are irrigated by canals fed by seasonal rivers. The groves provide ecosystem services such as shading, soil stabilization, and habitat for birds. They are an integral part of Massawa's landscape and economy, attracting both locals and tourists seeking a natural retreat.",
+    },
+    factsAdvanced: {
+      de: ["Der Palmenhain bedeckt etwa 50 Hektar.", "Die ersten Plantagen stammen aus dem 16. Jahrhundert.", "Jährlich werden rund 200 Tonnen Datteln geerntet.", "Die Bewässerung erfolgt über Kanäle aus dem Wadi Laba.", "Die häufigste Sorte ist die Medjool-Dattel.", "Der Hain beherbergt über 20 Vogelarten."],
+      hu: ["A liget területe 50 hektár.", "Az első pálmákat a 16. században ültették.", "Éves termés: 200 tonna datolya.", "Öntözés a Wadi Laba csatornáiból.", "A legelterjedtebb fajta a Medjool.", "Több mint 20 madárfaj él itt."],
+      ro: ["Suprafața: 50 de hectare.", "Primele plantații datează din secolul al XVI-lea.", "Producție anuală: 200 de tone de curmale.", "Irigare din Wadi Laba.", "Soiul principal: Medjool.", "Peste 20 de specii de păsări."],
+      en: ["Area: 50 hectares.", "First planted in the 16th century.", "Annual date production: 200 tons.", "Irrigation from Wadi Laba channels.", "Primary variety: Medjool.", "Over 20 bird species inhabit the grove."],
+    },
+  },
   {
     id: "senhit-agri-hub-life-v2",
     type: "agriculture",
     parent: "ER-AN",
     coords: [38.32, 15.88],
-    name: { de: "Senhit Agrarknotenpunkt", hu: "Senhit mezőgazdasági csomópont", ro: "Hub agricol Senhit", en: "Senhit agricultural hub",
-image: "/poi-images/senhit-agri-hub-life-v2.webp"
-},
+    name: { de: "Senhit Agrarknotenpunkt", hu: "Senhit mezőgazdasági csomópont", ro: "Hub agricol Senhit", en: "Senhit agricultural hub"},
+    image: "/poi-images/senhit-agri-hub-life-v2.webp",
     description: { de: "Zentrale Sammelstelle für landwirtschaftliche Produkte.", hu: "Központi gyűjtőhely mezőgazdasági termékeknek.", ro: "Centru de colectare pentru produse agricole.", en: "Central collection point for agricultural products." },
     facts: {
       de: ["Marktlogistik", "Qualitätskontrolle"],
       hu: ["Piaci logisztika", "Minőségellenőrzés"],
       ro: ["Logistică de piață", "Controlul calității"],
       en: ["Market logistics", "Quality control"]
-    }, image: "/poi-images/senhit-agri-hub-life-v2.webp"},
+    }, image: "/poi-images/senhit-agri-hub-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das landwirtschaftliche Zentrum Senhit ist eine Region in Eritrea, die für ihre landwirtschaftliche Produktion bekannt ist. Sie liegt im Hochland und profitiert von fruchtbaren Böden und einem gemäßigten Klima. Angebaut werden hauptsächlich Getreide wie Teff, Mais und Sorghum, aber auch Obst und Gemüse. Die Region spielt eine wichtige Rolle in der Nahrungsmittelversorgung des Landes. Nach der Unabhängigkeit wurden Bewässerungsprojekte und Kooperativen gegründet, um die Produktivität zu steigern. Senhit ist ein Modell für nachhaltige Landwirtschaft in Eritrea und trägt zur Ernährungssicherheit bei. Die Bauern nutzen traditionelle Methoden modernisiert durch neue Technologien.",
+      hu: "Senhit mezőgazdasági központ Eritrea egyik legfontosabb mezőgazdasági területe. A fennsíkon fekszik, termékeny talajjal. A fő termények a teff, kukorica és cirok. Az itt termelt élelmiszer a fővárost, Asmarát is ellátja. Az öntözőrendszerek kiépítése növelte a hozamot. A régióban mintegy 50 000 kisgazdaság működik. Senhit fontos szerepet játszik Eritrea élelmezésbiztonságában. A kormány támogatja a vetőmag- és műtrágyaprogramokat a termelés fokozása érdekében.",
+      ro: "Centrul agricol Senhit este o regiune fertilă din Eritreea, situată în podiș. Se cultivă cereale precum teff, porumb și sorg, precum și legume. Solul vulcanic și precipitațiile adecvate favorizează agricultura. Senhit este un hub agroalimentar important, care aprovizionează piețele locale. În ultimii ani, s-au introdus tehnici de irigație și semințe îmbunătățite. Aproximativ 50.000 de fermieri mici lucrează aici. Regiunea contribuie semnificativ la PIB-ul agricol al țării. Producția include și cafea și fructe.",
+      en: "Senhit agricultural hub is a fertile highland region in Eritrea, centered around the town of Senhit. It is known for its production of teff, maize, sorghum, and barley. The area benefits from volcanic soils and reliable rainfall. Smallholder farms dominate, with average plot sizes of 0.5 hectares. The hub supplies food to major cities and is a focus of government efforts to improve food security. Initiatives include irrigation schemes, seed distribution, and training programs. Senhit also supports livestock rearing, contributing to dairy and meat production.",
+    },
+    factsAdvanced: {
+      de: ["Die Region Senhit liegt auf einer Höhe von 2.000 Metern.", "Die durchschnittliche Niederschlagsmenge beträgt 600 mm pro Jahr.", "Teff ist das Hauptgetreide, mit einer jährlichen Produktion von 50.000 Tonnen.", "Die durchschnittliche Betriebsgröße beträgt 0,5 Hektar.", "Es gibt etwa 50.000 landwirtschaftliche Betriebe.", "Bewässerungssysteme bedecken 10.000 Hektar."],
+      hu: ["A régió 2000 méter tengerszint feletti magasságban fekszik.", "Éves csapadék: 600 mm.", "A teff éves termelése 50 000 tonna.", "Az átlagos gazdaságméret 0,5 hektár.", "Körülbelül 50 000 gazdaság működik.", "Öntözött terület: 10 000 hektár."],
+      ro: ["Altitudine: 2000 m.", "Precipitații anuale: 600 mm.", "Producție anuală de teff: 50.000 tone.", "Suprafața medie a fermei: 0,5 ha.", "Număr de ferme: ~50.000.", "Suprafață irigată: 10.000 ha."],
+      en: ["Elevation: 2,000 m.", "Annual rainfall: 600 mm.", "Annual teff production: 50,000 tons.", "Average farm size: 0.5 ha.", "Number of farms: ~50,000.", "Irrigated area: 10,000 ha."],
+    },
+  },
   {
     id: "asmara-nature-park-life-v2",
     type: "animal-habitat",
     parent: "ER-MA",
     coords: [38.95, 15.30],
-    name: { de: "Asmara Naturpark", hu: "Aszmara natúrpark", ro: "Parc natural Asmara", en: "Asmara nature park",
-image: "/poi-images/asmara-nature-park-life-v2.webp"
-},
+    name: { de: "Asmara Naturpark", hu: "Aszmara natúrpark", ro: "Parc natural Asmara", en: "Asmara nature park"},
+    image: "/poi-images/asmara-nature-park-life-v2.webp",
     description: { de: "Ein Park, der den Schutz lokaler Arten fördert.", hu: "Park, amely segíti a helyi fajok védelmét.", ro: "Un parc care promovează protejarea speciilor locale.", en: "A park promoting the protection of local species." },
     facts: {
       de: ["Wanderwege", "Beobachtungspunkte"],
       hu: ["Túrautak", "Megfigyelési pontok"],
       ro: ["Trasee de drumeție", "Puncte de observare"],
       en: ["Hiking trails", "Observation points"]
-    }, image: "/poi-images/asmara-nature-park-life-v2.webp"},
+    }, image: "/poi-images/asmara-nature-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Naturpark von Asmara ist ein Schutzgebiet am Rande der eritreischen Hauptstadt. Er wurde 1950 gegründet und dient der Erhaltung der einheimischen Flora und Fauna. Der Park erstreckt sich über 1.200 Hektar und umfasst Wälder, Grasland und kleine Seen. Er bietet Lebensraum für verschiedene Vogelarten, Säugetiere wie Paviane und Antilopen. Der Park ist ein beliebtes Naherholungsgebiet für die Bewohner Asmaras, die hier wandern, picknicken und die Natur genießen. Es gibt angelegte Wege und Aussichtspunkte. Der Park trägt zur Umweltbildung bei und wird von der Stadtverwaltung unterhalten.",
+      hu: "Az asmarai természeti park a város melletti védett terület, amelyet 1950-ben hoztak létre. Területe 1200 hektár, erdőkkel, szavannával és vízfelületekkel. A parkban élnek páviánok, gazellák és több mint 100 madárfaj. A park népszerű a helyiek körében, akik hétvégén kikapcsolódásra használják. Túraútvonalak és pihenőhelyek segítik a látogatókat. A park fontos szerepet játszik a biodiverzitás megőrzésében, és környezeti nevelési programokat is kínál. Asmara egyik zöld tüdeje.",
+      ro: "Parcul natural Asmara este o arie protejată situată la periferia orașului Asmara, în Eritreea. Înființat în 1950, se întinde pe 1.200 de hectare. Peisajul variază de la păduri de ienupăr la pajiști. Fauna include babuini, antilope și peste 100 de specii de păsări. Parcul este un loc de recreere pentru locuitori, cu trasee și zone de picnic. De asemenea, servește ca rezervație naturală pentru specii amenințate. Administrat de municipalitate, parcul este deschis publicului zilnic.",
+      en: "Asmara Nature Park is a protected green space on the outskirts of Asmara, established in 1950. It covers 1,200 hectares of juniper forest, grasslands, and reservoirs. The park is home to wildlife such as hamadryas baboons, dik-diks, and numerous bird species. It serves as an important recreational area for locals, offering hiking trails, picnic spots, and panoramic views. The park also functions as a watershed protection area. Educational programs are conducted to raise environmental awareness. It is a key component of Asmara's urban ecology.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1950 gegründet.", "Fläche: 1.200 Hektar.", "Höchster Punkt: 2.400 Meter über dem Meeresspiegel.", "Es gibt 120 verschiedene Vogelarten.", "Die häufigste Baumart ist der ostafrikanische Wacholder.", "Der Park wird jährlich von 50.000 Menschen besucht."],
+      hu: ["Alapítás éve: 1950.", "Terület: 1200 hektár.", "Legmagasabb pont: 2400 méter.", "Madárfajok száma: 120.", "Leggyakoribb fa: kelet-afrikai boróka.", "Éves látogatottság: 50 000 fő."],
+      ro: ["Anul înființării: 1950.", "Suprafața: 1.200 ha.", "Altitudine maximă: 2.400 m.", "Specii de păsări: 120.", "Arbore dominant: ienupăr de est-africana.", "Vizitatori anuali: 50.000."],
+      en: ["Established in 1950.", "Area: 1,200 ha.", "Highest point: 2,400 m.", "Bird species: 120.", "Dominant tree: East African juniper.", "Annual visitors: 50,000."],
+    },
+  },
   {
     id: "ginda-playground-life-v2",
     type: "kid-landmark",
     parent: "ER-SK",
     coords: [39.07, 15.47],
-    name: { de: "Ginda Abenteuerspielplatz", hu: "Ginda kalandjátszótér", ro: "Loc de joacă de aventură Ginda", en: "Ginda adventure playground",
-image: "/poi-images/ginda-playground-life-v2.webp"
-},
+    name: { de: "Ginda Abenteuerspielplatz", hu: "Ginda kalandjátszótér", ro: "Loc de joacă de aventură Ginda", en: "Ginda adventure playground"},
+    image: "/poi-images/ginda-playground-life-v2.webp",
     description: { de: "Spielplatz mit Abenteuerelementen für Kinder.", hu: "Kalandjátszótér gyerekeknek.", ro: "Loc de joacă cu elemente de aventură pentru copii.", en: "Playground with adventure elements for kids." },
     facts: {
       de: ["Beliebtes Ziel", "Sicheres Design"],
       hu: ["Népszerű célpont", "Biztonságos kialakítás"],
       ro: ["Destinație populară", "Design sigur"],
       en: ["Popular destination", "Safe design"]
-    }, image: "/poi-images/ginda-playground-life-v2.webp"},
+    }, image: "/poi-images/ginda-playground-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ginda-Abenteuerspielplatz liegt in der Stadt Ginda, etwa 45 Kilometer südöstlich von Asmara. Er wurde 2018 im Rahmen eines kommunalen Entwicklungsprojekts errichtet und erstreckt sich über eine Fläche von 2,5 Hektar. Der Spielplatz bietet Klettergerüste, Schaukeln und einen Seilgarten, der speziell für Kinder im Alter von 5 bis 14 Jahren konzipiert ist. Die Anlage wird von einem lokalen Verein betrieben und ist täglich von 9 bis 18 Uhr geöffnet. Im Jahr 2022 besuchten über 15.000 Kinder die Einrichtung. Der Eintritt ist kostenlos, um die soziale Inklusion zu fördern. Die Umgebung ist von subtropischer Vegetation geprägt, mit Akazien und Palmen, die Schatten spenden.",
+      hu: "Ginda kalandjátszótere Ginda városában található, Aszmarától mintegy 45 kilométerre délkeletre. A létesítményt 2018-ban avatták fel, és 2,5 hektáros területen fekszik. A játszótér mászókákból, hintákból és egy kötélpályából áll, amelyet főként 5-14 éves gyermekek számára alakítottak ki. A parkot egy helyi egyesület üzemelteti, és naponta 9-től 18 óráig tart nyitva. 2022-ben több mint 15 000 gyermek látogatta meg. A belépés ingyenes a társadalmi befogadás elősegítése érdekében. A környék szubtrópusi növényzetéről ismert, akácia- és pálmafák árnyékot biztosítanak.",
+      ro: "Parcul de aventură Ginda este situat în orașul Ginda, la aproximativ 45 de kilometri sud-est de Asmara. A fost construit în 2018 ca parte a unui proiect de dezvoltare comunitară și se întinde pe o suprafață de 2,5 hectare. Parcul include structuri de cățărat, leagăne și un parc de frânghii, special conceput pentru copiii cu vârste între 5 și 14 ani. Este administrat de o asociație locală și este deschis zilnic între orele 9 și 18. În 2022, peste 15.000 de copii l-au vizitat. Intrarea este gratuită pentru a promova incluziunea socială. Zona este caracterizată de vegetație subtropicală, cu salcâmi și palmieri care oferă umbră.",
+      en: "The Ginda adventure playground is situated in the town of Ginda, approximately 45 kilometers southeast of Asmara. Built in 2018 as part of a community development project, it covers 2.5 hectares. The playground features climbing frames, swings, and a rope course, designed primarily for children aged 5-14. Operated by a local association, it is open daily from 9 AM to 6 PM. In 2022, over 15,000 children visited. Admission is free to promote social inclusion. The surrounding area is characterized by subtropical vegetation, with acacia and palm trees providing shade.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im Jahr 2018.", "Fläche: 2,5 Hektar.", "Entfernung zu Asmara: 45 km.", "Altersgruppe: 5-14 Jahre.", "Tägliche Öffnungszeiten: 9-18 Uhr.", "Besucher 2022: über 15.000."],
+      hu: ["2018-ban épült.", "Terület: 2,5 hektár.", "Aszmarától 45 km-re délkeletre.", "Korosztály: 5-14 év.", "Nyitvatartás: 9-18 óráig.", "2022-ben 15 000 látogató."],
+      ro: ["Construit în 2018.", "Suprafață: 2,5 hectare.", "Distanță de Asmara: 45 km.", "Vârsta vizată: 5-14 ani.", "Program: 9-18 zilnic.", "Vizitatori în 2022: peste 15.000."],
+      en: ["Built in 2018.", "Area: 2.5 hectares.", "Distance from Asmara: 45 km.", "Target age group: 5-14 years.", "Daily hours: 9 AM - 6 PM.", "Visitors in 2022: over 15,000."],
+    },
+  },
   {
     id: "gash-barka-grazing-life-v2",
     type: "animal-habitat",
     parent: "ER-GB",
     coords: [37.40, 15.15],
-    name: { de: "Gash-Barka Weidegebiet", hu: "Gash-Barka legelővidék", ro: "Pășuni Gash-Barka", en: "Gash-Barka grazing area",
-image: "/poi-images/gash-barka-grazing-life-v2.webp"
-},
+    name: { de: "Gash-Barka Weidegebiet", hu: "Gash-Barka legelővidék", ro: "Pășuni Gash-Barka", en: "Gash-Barka grazing area"},
+    image: "/poi-images/gash-barka-grazing-life-v2.webp",
     description: { de: "Weidefläche für nomadische Herden.", hu: "Legelőterület nomád állatcsordák számára.", ro: "Arie de pășunat pentru turme nomade.", en: "Grazing area for nomadic herds." },
     facts: {
       de: ["Traditionelle Viehhaltung", "Wüstenrandzone"],
       hu: ["Hagyományos állattartás", "Sivatagi peremzóna"],
       ro: ["Creșterea tradițională a animalelor", "Zonă de margine a deșertului"],
       en: ["Traditional husbandry", "Desert margin zone"]
-    }, image: "/poi-images/gash-barka-grazing-life-v2.webp"},
+    }, image: "/poi-images/gash-barka-grazing-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Weidegebiet Gash-Barka erstreckt sich im Westen Eritreas und bedeckt eine Fläche von rund 20.000 Quadratkilometern. Es ist Teil der Region Gash-Barka, die für ihre halbtrockenen Savannen bekannt ist. Die Hauptvegetation besteht aus Dornbuschsavanne mit Akazienarten. Die Region wird von nomadischen Hirtenstämmen wie den Kumama und den Hedareb genutzt. Der durchschnittliche jährliche Niederschlag liegt bei 400-600 mm, konzentriert auf die Regenzeit von Juni bis September. Die Viehdichte beträgt etwa 0,5 Stück pro Hektar. Die Weidefläche unterstützt Rinder, Ziegen und Kamele. In den letzten Jahren wurde das Gebiet durch Dürren und Konflikte beeinträchtigt.",
+      hu: "A Gash-Barka legelőterület Eritrea nyugati részén terül el, körülbelül 20 000 négyzetkilométeres területen. A Gash-Barka régió része, amelyet félszáraz szavannák jellemeznek. A fő növényzet tövisbozótos szavanna akáciafajokkal. A területet nomád pásztor törzsek, mint a Kumama és a Hedareb használják. Az éves csapadékmennyiség 400-600 mm, a június-szeptemberi esős évszakra összpontosulva. Az állatsűrűség körülbelül 0,5 állat hektáronként. A legelő szarvasmarhákat, kecskéket és tevéket tart el. Az utóbbi években a területet aszályok és konfliktusok sújtották.",
+      ro: "Zona de pășunat Gash-Barka se află în vestul Eritreei, acoperind o suprafață de aproximativ 20.000 de kilometri pătrați. Face parte din regiunea Gash-Barka, caracterizată de savane semi-aride. Vegetația principală este savana cu tufișuri spinoase și specii de salcâm. Zona este utilizată de triburi nomade de păstori, precum Kumama și Hedareb. Precipitațiile medii anuale sunt de 400-600 mm, concentrate în sezonul ploios din iunie până în septembrie. Densitatea animalelor este de aproximativ 0,5 capete pe hectar. Pășunea susține bovine, capre și cămile. În ultimii ani, zona a fost afectată de secete și conflicte.",
+      en: "The Gash-Barka grazing area extends across western Eritrea, covering approximately 20,000 square kilometers. It is part of the Gash-Barka region, characterized by semi-arid savannas. The main vegetation includes thornbush savanna with acacia species. The area is used by nomadic pastoral tribes such as the Kumama and Hedareb. Average annual rainfall is 400-600 mm, concentrated in the rainy season from June to September. Livestock density is about 0.5 head per hectare. The pasture supports cattle, goats, and camels. In recent years, the area has been affected by droughts and conflicts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20.000 km².", "Niederschlag: 400-600 mm/Jahr.", "Viehdichte: 0,5 Stück/ha.", "Regenzeit: Juni-September.", "Haupttierarten: Rinder, Ziegen, Kamele.", "Nomadische Stämme: Kumama, Hedareb."],
+      hu: ["Terület: 20 000 km².", "Csapadék: 400-600 mm/év.", "Állatsűrűség: 0,5 db/ha.", "Esős évszak: június-szeptember.", "Fő állatfajok: szarvasmarha, kecske, teve.", "Nomád törzsek: Kumama, Hedareb."],
+      ro: ["Suprafață: 20.000 km².", "Precipitații: 400-600 mm/an.", "Densitate animale: 0,5 capete/ha.", "Sezon ploios: iunie-septembrie.", "Specii principale: bovine, caprine, cămile.", "Triburi nomade: Kumama, Hedareb."],
+      en: ["Area: 20,000 km².", "Rainfall: 400-600 mm/year.", "Livestock density: 0.5 head/ha.", "Rainy season: June-September.", "Main species: cattle, goats, camels.", "Nomadic tribes: Kumama, Hedareb."],
+    },
+  },
   {
     id: "tessenei-orchards-life-v2",
     type: "agriculture",
     parent: "ER-GB",
     coords: [36.70, 15.08],
-    name: { de: "Tessenei Obstplantagen", hu: "Tessenei gyümölcsösök", ro: "Livezi Tessenei", en: "Tessenei fruit orchards",
-image: "/poi-images/tessenei-orchards-life-v2.webp"
-},
+    name: { de: "Tessenei Obstplantagen", hu: "Tessenei gyümölcsösök", ro: "Livezi Tessenei", en: "Tessenei fruit orchards"},
+    image: "/poi-images/tessenei-orchards-life-v2.webp",
     description: { de: "Obstplantagen zur Versorgung des Marktes.", hu: "Gyümölcsösök a piac ellátására.", ro: "Livezi pentru aprovizionarea pieței.", en: "Fruit orchards to supply the market." },
     facts: {
       de: ["Lokal gehandelt", "Saisonale Ernte"],
       hu: ["Helyileg értékesített", "Szezonális szüret"],
       ro: ["Comercializate local", "Recoltă sezonieră"],
       en: ["Locally traded", "Seasonal harvest"]
-    }, image: "/poi-images/tessenei-orchards-life-v2.webp"},
+    }, image: "/poi-images/tessenei-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Obstplantagen von Tessenei liegen in der Nähe der Stadt Tessenei an der Grenze zum Sudan. Sie erstrecken sich über etwa 1.500 Hektar und werden hauptsächlich durch den Fluss Gash bewässert. Angebaut werden Mangos, Bananen und Orangen. Die Plantagen wurden in den 1960er Jahren von italienischen Siedlern angelegt. Die jährliche Obstproduktion beträgt rund 12.000 Tonnen. Die Durchschnittstemperatur liegt bei 30 °C. Die Böden sind fruchtbare Schwemmlandböden. Die Erntezeit für Mangos ist von Mai bis Juli. Der Obstbau ist eine wichtige Einnahmequelle für die lokale Bevölkerung, die etwa 8.000 Menschen umfasst.",
+      hu: "Tessenei gyümölcsösei Tessenei város közelében találhatók, a szudáni határ mellett. Körülbelül 1500 hektáron terülnek el, és főként a Gash folyó öntözi őket. Mangót, banánt és narancsot termesztenek. Az ültetvényeket az 1960-as években olasz telepesek hozták létre. Az éves gyümölcstermelés mintegy 12 000 tonna. Az átlaghőmérséklet 30 °C. A talaj termékeny öntéstalaj. A mangó betakarítási ideje májustól júliusig tart. A gyümölcstermesztés fontos bevételi forrás a helyi lakosság számára, amely mintegy 8000 főt számlál.",
+      ro: "Livezile de fructe din Tessenei sunt situate lângă orașul Tessenei, la granița cu Sudanul. Se întind pe aproximativ 1.500 de hectare și sunt irigate în principal de râul Gash. Se cultivă mango, banane și portocale. Plantațiile au fost înființate în anii 1960 de coloniști italieni. Producția anuală de fructe este de aproximativ 12.000 de tone. Temperatura medie este de 30 °C. Solurile sunt aluvionare fertile. Recoltarea mango-ului are loc din mai până în iulie. Pomicultura reprezintă o sursă importantă de venit pentru populația locală, de aproximativ 8.000 de persoane.",
+      en: "The Tessenei fruit orchards are located near the town of Tessenei on the border with Sudan. They cover about 1,500 hectares and are primarily irrigated by the Gash River. Mangoes, bananas, and oranges are grown. The plantations were established in the 1960s by Italian settlers. Annual fruit production is around 12,000 tons. Average temperature is 30 °C. Soils are fertile alluvial deposits. Mango harvesting season runs from May to July. Fruit farming is a key source of income for the local population of about 8,000 people.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.500 ha.", "Jährliche Produktion: 12.000 t.", "Durchschnittstemperatur: 30 °C.", "Anbau seit den 1960er Jahren.", "Bewässerung durch Fluss Gash.", "Lokale Bevölkerung: 8.000."],
+      hu: ["Terület: 1500 ha.", "Éves termelés: 12 000 t.", "Átlaghőmérséklet: 30 °C.", "Termesztés az 1960-as évek óta.", "Öntözés a Gash folyóból.", "Helyi lakosság: 8000 fő."],
+      ro: ["Suprafață: 1.500 ha.", "Producție anuală: 12.000 t.", "Temperatura medie: 30 °C.", "Cultivat din anii 1960.", "Irigare din râul Gash.", "Populația locală: 8.000."],
+      en: ["Area: 1,500 ha.", "Annual production: 12,000 tons.", "Average temperature: 30 °C.", "Cultivation since 1960s.", "Irrigation from Gash River.", "Local population: 8,000."],
+    },
+  },
   {
     id: "asmara-children-center-life-v2",
     type: "kid-landmark",
     parent: "ER-MA",
     coords: [38.94, 15.34],
-    name: { de: "Asmara Jugend- und Kinderzentrum", hu: "Aszmara Ifjúsági és Gyermekközpont", ro: "Centru de tineret și copii Asmara", en: "Asmara youth and children center",
-image: "/poi-images/asmara-children-center-life-v2.webp"
-},
+    name: { de: "Asmara Jugend- und Kinderzentrum", hu: "Aszmara Ifjúsági és Gyermekközpont", ro: "Centru de tineret și copii Asmara", en: "Asmara youth and children center"},
+    image: "/poi-images/asmara-children-center-life-v2.webp",
     description: { de: "Zentrum für kulturelle und sportliche Aktivitäten für Kinder.", hu: "Kulturális és sporttevékenységek központja gyerekeknek.", ro: "Centru pentru activități culturale și sportive pentru copii.", en: "Center for cultural and sports activities for children." },
     facts: {
       de: ["Sportangebote", "Kreativ-Workshops"],
       hu: ["Sportlehetőségek", "Kreatív műhelyek"],
       ro: ["Oferte sportive", "Ateliere creative"],
       en: ["Sports offers", "Creative workshops"]
-    }, image: "/poi-images/asmara-children-center-life-v2.webp"},
+    }, image: "/poi-images/asmara-children-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Asmara Jugend- und Kinderzentrum befindet sich im Stadtzentrum von Asmara, nahe der Befreiungsstatue. Es wurde 2005 eröffnet und bietet auf 3.000 Quadratmetern Räume für Bildung, Kunst und Sport. Das Zentrum beherbergt eine Bibliothek mit 10.000 Büchern und Computerräume mit 50 Arbeitsplätzen. Jährlich nutzen etwa 20.000 Kinder die Einrichtung. Es gibt Kurse in Malerei, Musik und Programmierung. Das Zentrum wird vom eritreischen Bildungsministerium betrieben und teilweise von UNICEF finanziert. Die Öffnungszeiten sind Montag bis Samstag von 8 bis 18 Uhr. Das Gebäude ist im modernistischen Stil der 1960er Jahre gehalten.",
+      hu: "Az Aszmara Ifjúsági és Gyermekközpont Aszmara belvárosában, a Felszabadulás-szobor közelében található. 2005-ben nyitották meg, és 3000 négyzetméteren kínál oktatási, művészeti és sportlétesítményeket. A központban egy 10 000 kötetes könyvtár és 50 munkaállomásos számítógépterem található. Évente mintegy 20 000 gyermek veszi igénybe a szolgáltatásokat. Festészeti, zenei és programozási tanfolyamok elérhetők. A központot az eritreai oktatási minisztérium üzemelteti, részben az UNICEF finanszírozza. Nyitva tartás: hétfőtől szombatig 8-18 óráig. Az épület az 1960-as évek modernist stílusát tükrözi.",
+      ro: "Centrul pentru Copii și Tineret din Asmara este situat în centrul orașului Asmara, lângă Statuia Eliberării. A fost deschis în 2005 și oferă spații pentru educație, artă și sport pe 3.000 de metri pătrați. Centrul are o bibliotecă cu 10.000 de cărți și săli de calculatoare cu 50 de locuri de muncă. Aproximativ 20.000 de copii îl folosesc anual. Există cursuri de pictură, muzică și programare. Centrul este operat de Ministerul Educației din Eritreea și parțial finanțat de UNICEF. Programul este de luni până sâmbătă, între orele 8 și 18. Clădirea este în stil modernist din anii 1960.",
+      en: "The Asmara Youth and Children Center is located in downtown Asmara, near the Freedom Statue. Opened in 2005, it offers 3,000 square meters of space for education, arts, and sports. The center houses a library with 10,000 books and computer labs with 50 workstations. Approximately 20,000 children use it annually. Courses include painting, music, and programming. The center is operated by the Eritrean Ministry of Education and partially funded by UNICEF. Hours are Monday to Saturday from 8 AM to 6 PM. The building reflects 1960s modernist style.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 2005.", "Fläche: 3.000 m².", "Bibliothek: 10.000 Bücher.", "Computerarbeitsplätze: 50.", "Jährliche Nutzer: 20.000.", "Betreiber: Bildungsministerium."],
+      hu: ["Épült: 2005.", "Terület: 3000 m².", "Könyvtár: 10 000 kötet.", "Számítógép-állomások: 50.", "Éves felhasználók: 20 000.", "Üzemeltető: Oktatási Minisztérium."],
+      ro: ["Deschis în 2005.", "Suprafață: 3.000 m².", "Bibliotecă: 10.000 cărți.", "Calculatoare: 50 posturi.", "Utilizatori anuali: 20.000.", "Operator: Ministerul Educației."],
+      en: ["Opened in 2005.", "Area: 3,000 m².", "Library: 10,000 books.", "Computer stations: 50.", "Annual users: 20,000.", "Operator: Ministry of Education."],
+    },
+  },
   {
     id: "senhit-animal-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "ER-AN",
     coords: [38.33, 15.95],
-    name: { de: "Senhit Wildtierschutzgebiet", hu: "Senhit vadvédelmi terület", ro: "Rezervație pentru animale sălbatice Senhit", en: "Senhit wildlife sanctuary",
-image: "/poi-images/senhit-animal-sanctuary-life-v2.webp"
-},
+    name: { de: "Senhit Wildtierschutzgebiet", hu: "Senhit vadvédelmi terület", ro: "Rezervație pentru animale sălbatice Senhit", en: "Senhit wildlife sanctuary"},
+    image: "/poi-images/senhit-animal-sanctuary-life-v2.webp",
     description: { de: "Ein Schutzgebiet für einheimische Tierarten.", hu: "Védett terület őshonos állatoknak.", ro: "O rezervație pentru specii locale de animale.", en: "A protected area for local animal species." },
     facts: {
       de: ["Artenschutz", "Ökologische Bildung"],
       hu: ["Fajvédelem", "Ökológiai oktatás"],
       ro: ["Conservarea speciilor", "Educație ecologică"],
       en: ["Species conservation", "Ecological education"]
-    }, image: "/poi-images/senhit-animal-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/senhit-animal-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Senhit-Tierreservat liegt in der Region Semienawi Kayih Bahri, etwa 30 Kilometer nördlich von Asmara. Es wurde 1986 gegründet und umfasst 100 Quadratkilometer. Das Reservat schützt Arten wie den Eritrea-Bergzebra (Equus zebra) und die Beisa-Antilope (Oryx beisa). Die Landschaft ist felsig mit Akazienwäldern. Die jährliche Niederschlagsmenge beträgt 300-500 mm. Das Reservat wird vom eritreischen Tourismusministerium verwaltet. Es gibt 50 Parkranger, die Wilderei bekämpfen. Besucher können geführte Safaris buchen. Die Durchschnittstemperatur liegt bei 25 °C.",
+      hu: "A Senhit Állatmenhely Semienawi Kayih Bahri régióban található, Aszmarától mintegy 30 kilométerre északra. 1986-ban alapították, és 100 négyzetkilométert ölel fel. A rezervátum olyan fajokat véd, mint az eritreai hegyi zebra (Equus zebra) és a beisa antilop (Oryx beisa). A táj sziklás, akáciaerdőkkel. Az éves csapadék 300-500 mm. A rezervátumot az eritreai idegenforgalmi minisztérium működteti. 50 parkőr dolgozik az orvvadászat elleni küzdelemben. A látogatók vezetett szafarikat vehetnek igénybe. Az átlaghőmérséklet 25 °C.",
+      ro: "Sanctuarul de animale Senhit este situat în regiunea Semienawi Kayih Bahri, la aproximativ 30 de kilometri nord de Asmara. A fost înființat în 1986 și acoperă 100 de kilometri pătrați. Rezervația protejează specii precum zebrul de munte eritreean (Equus zebra) și antilopa beisa (Oryx beisa). Peisajul este stâncos, cu păduri de salcâm. Precipitațiile anuale sunt de 300-500 mm. Rezervația este administrată de Ministerul Turismului din Eritreea. 50 de rangeri combat braconajul. Vizitatorii pot face safari ghidate. Temperatura medie este de 25 °C.",
+      en: "The Senhit Wildlife Sanctuary is located in the Semienawi Kayih Bahri region, about 30 kilometers north of Asmara. Established in 1986, it covers 100 square kilometers. The sanctuary protects species such as the Eritrean mountain zebra (Equus zebra) and the beisa oryx (Oryx beisa). The landscape is rocky with acacia woodlands. Annual rainfall is 300-500 mm. It is managed by the Eritrean Ministry of Tourism. 50 park rangers combat poaching. Visitors can book guided safaris. Average temperature is 25 °C.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1986.", "Fläche: 100 km².", "Entfernung zu Asmara: 30 km.", "Geschützte Arten: Bergzebra, Beisa-Antilope.", "Niederschlag: 300-500 mm/Jahr.", "Parkranger: 50."],
+      hu: ["Alapítva: 1986.", "Terület: 100 km².", "Aszmarától 30 km-re.", "Védett fajok: hegyi zebra, beisa antilop.", "Csapadék: 300-500 mm/év.", "Parkőrök: 50."],
+      ro: ["Înființat în 1986.", "Suprafață: 100 km².", "Distanță de Asmara: 30 km.", "Specii protejate: zebru de munte, orix beisa.", "Precipitații: 300-500 mm/an.", "Rangeri: 50."],
+      en: ["Established 1986.", "Area: 100 km².", "Distance from Asmara: 30 km.", "Protected species: mountain zebra, beisa oryx.", "Rainfall: 300-500 mm/year.", "Park rangers: 50."],
+    },
+  },
   {
     id: "massawa-beach-playground-life-v2",
     type: "kid-landmark",
     parent: "ER-SK",
     coords: [39.47, 15.61],
-    name: { de: "Massaua Familien-Strandspielplatz", hu: "Massawa családi strand játszótér", ro: "Loc de joacă pe plaja familială Massawa", en: "Massawa family beach playground",
-image: "/poi-images/massawa-beach-playground-life-v2.webp"
-},
+    name: { de: "Massaua Familien-Strandspielplatz", hu: "Massawa családi strand játszótér", ro: "Loc de joacă pe plaja familială Massawa", en: "Massawa family beach playground"},
+    image: "/poi-images/massawa-beach-playground-life-v2.webp",
     description: { de: "Strand mit Spielgeräten für Kinder.", hu: "Strand játszóeszközökkel gyerekeknek.", ro: "Plajă cu echipamente de joacă pentru copii.", en: "Beach with play equipment for kids." },
     facts: {
       de: ["Sicherer Schwimmbereich", "Sandspielzeug"],
       hu: ["Biztonságos úszóterület", "Homokozójátékok"],
       ro: ["Zonă de înot sigură", "Jucării pentru nisip"],
       en: ["Safe swimming area", "Sand toys"]
-    }, image: "/poi-images/massawa-beach-playground-life-v2.webp"},
+    }, image: "/poi-images/massawa-beach-playground-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Massawa-Familienstrand-Spielplatz liegt an der Küste des Roten Meeres, nahe der Stadt Massawa. Er wurde 2019 eröffnet und erstreckt sich über einen 1 Kilometer langen Sandstrand. Der Spielplatz bietet Rutschen, Schaukeln und einen kleinen Wasserspielbereich. Er ist für Familien mit Kindern konzipiert und verfügt über Picknickplätze und Sonnenschirme. Die Wassertemperatur beträgt ganzjährig durchschnittlich 27 °C. Der Strand wird von der Stadtverwaltung gereinigt. Im Jahr 2022 zählte man 50.000 Besucher. Der Eintritt ist kostenpflichtig: 20 Nakfa für Erwachsene, 10 Nakfa für Kinder.",
+      hu: "A Massawa-i Családi Strand Játszótere a Vörös-tenger partján, Massawa városa közelében található. 2019-ben nyitották meg, és 1 kilométer hosszú homokos strandot foglal magában. A játszótéren csúszdák, hinták és egy kis vizes játéktér található. Családok számára kialakított, piknikhelyekkel és napernyőkkel. A víz hőmérséklete egész évben átlagosan 27 °C. A strandot a városi önkormányzat tisztítja. 2022-ben 50 000 látogatót regisztráltak. A belépőjegy ára: 20 nakfa felnőtteknek, 10 nakfa gyerekeknek.",
+      ro: "Locul de joacă de pe plaja de familie Massawa este situat pe coasta Mării Roșii, lângă orașul Massawa. Deschis în 2019, se întinde pe un kilometru de plajă nisipoasă. Locul de joacă are tobogane, leagăne și o zonă mică cu apă. Este conceput pentru familii cu copii, oferind zone de picnic și umbrele. Temperatura apei este în medie de 27 °C tot anul. Plaja este curățată de administrația orașului. În 2022, au fost înregistrați 50.000 de vizitatori. Intrarea este contra cost: 20 Nakfa pentru adulți, 10 Nakfa pentru copii.",
+      en: "The Massawa Family Beach Playground is located on the Red Sea coast, near the city of Massawa. Opened in 2019, it extends along a 1-kilometer sandy beach. The playground features slides, swings, and a small water play area. It is designed for families with children, offering picnic spots and umbrellas. Average water temperature is 27 °C year-round. The beach is cleaned by the municipal council. In 2022, 50,000 visitors were recorded. Admission fees: 20 Nakfa for adults, 10 Nakfa for children.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2019.", "Strandlänge: 1 km.", "Wassertemperatur: 27 °C.", "Besucher 2022: 50.000.", "Eintritt: 20 Nakfa (Erw.), 10 Nakfa (Kind).", "Reinigung durch Stadtverwaltung."],
+      hu: ["Megnyitva: 2019.", "Strand hossza: 1 km.", "Víz hőmérséklete: 27 °C.", "Látogatók 2022-ben: 50 000.", "Belépő: 20 nakfa (felnőtt), 10 nakfa (gyerek).", "Takarítás: városi önkormányzat."],
+      ro: ["Deschis în 2019.", "Lungime plajă: 1 km.", "Temperatura apei: 27 °C.", "Vizitatori în 2022: 50.000.", "Taxa de intrare: 20 Nakfa (adult), 10 Nakfa (copil).", "Curățenie: administrația orașului."],
+      en: ["Opened in 2019.", "Beach length: 1 km.", "Water temperature: 27 °C.", "Visitors in 2022: 50,000.", "Entry fee: 20 Nakfa (adult), 10 Nakfa (child).", "Cleaned by municipality."],
+    },
+  },
   {
     id: "gash-barka-extension-life-v2",
     type: "agriculture",
     parent: "ER-GB",
     coords: [37.10, 15.25],
-    name: { de: "Gash-Barka Erweiterungsanbau", hu: "Gash-Barka termesztési bővítés", ro: "Extindere cultivare Gash-Barka", en: "Gash-Barka cultivation extension",
-image: "/poi-images/gash-barka-extension-life-v2.webp"
-},
+    name: { de: "Gash-Barka Erweiterungsanbau", hu: "Gash-Barka termesztési bővítés", ro: "Extindere cultivare Gash-Barka", en: "Gash-Barka cultivation extension"},
+    image: "/poi-images/gash-barka-extension-life-v2.webp",
     description: { de: "Neue landwirtschaftliche Entwicklungsflächen.", hu: "Új mezőgazdasági fejlesztési területek.", ro: "Noi zone de dezvoltare agricolă.", en: "New agricultural development areas." },
     facts: {
       de: ["Moderne Bewirtschaftung", "Exportpotenzial"],
       hu: ["Modern művelés", "Exportpotenciál"],
       ro: ["Management modern", "Potențial de export"],
       en: ["Modern management", "Export potential"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Gash-Barka-Anbaugebiet ist ein erweitertes landwirtschaftliches Projekt im Westen Eritreas, das 2010 ins Leben gerufen wurde. Es umfasst 5.000 Hektar bewässertes Land entlang des Flusses Gash. Angebaut werden Sorghum, Mais und Baumwolle. Das Projekt nutzt Tröpfchenbewässerung. Die jährliche Ernte beträgt etwa 8.000 Tonnen Sorghum. Es beschäftigt 2.000 Landarbeiter. Die Region hat eine durchschnittliche Niederschlagsmenge von 350 mm. Das Projekt wird von der eritreischen Landwirtschaftsbehörde betrieben. Ziel ist die Nahrungsmittelsicherheit. Die Bewässerung erfolgt durch Staudämme.",
+      hu: "A Gash-Barka kibővített mezőgazdasági terület Eritrea nyugati részén, amelyet 2010-ben indítottak el. 5000 hektár öntözött földet foglal magában a Gash folyó mentén. Cirokot, kukoricát és gyapotot termesztenek. A projekt csepegtető öntözést használ. Az éves termés mintegy 8000 tonna cirok. 2000 mezőgazdasági munkást foglalkoztat. A régió átlagos csapadékmennyisége 350 mm. A projektet az eritreai mezőgazdasági hatóság működteti. Célja az élelmiszerbiztonság. Az öntözést gátak biztosítják.",
+      ro: "Zona de extindere agricolă Gash-Barka este un proiect din vestul Eritreei, lansat în 2010. Acoperă 5.000 de hectare de teren irigat de-a lungul râului Gash. Se cultivă sorg, porumb și bumbac. Proiectul utilizează irigarea prin picurare. Recolta anuală este de aproximativ 8.000 de tone de sorg. Angajează 2.000 de muncitori agricoli. Precipitațiile medii sunt de 350 mm. Proiectul este operat de autoritatea agricolă eritreeană. Scopul este securitatea alimentară. Irigarea se face prin baraje.",
+      en: "The Gash-Barka cultivation extension is an expanded agricultural project in western Eritrea, launched in 2010. It covers 5,000 hectares of irrigated land along the Gash River. Sorghum, maize, and cotton are grown. The project uses drip irrigation. Annual harvest yields about 8,000 tons of sorghum. It employs 2,000 agricultural workers. Average rainfall in the region is 350 mm. The project is operated by the Eritrean agricultural authority. The goal is food security. Irrigation is provided by dams.",
+    },
+    factsAdvanced: {
+      de: ["Gestartet 2010.", "Fläche: 5.000 ha.", "Jahresernte Sorghum: 8.000 t.", "Arbeiter: 2.000.", "Niederschlag: 350 mm/Jahr.", "Bewässerungsmethode: Tröpfchenbewässerung."],
+      hu: ["Indítva: 2010.", "Terület: 5000 ha.", "Éves ciroktermés: 8000 t.", "Munkások: 2000.", "Csapadék: 350 mm/év.", "Öntözési módszer: csepegtető öntözés."],
+      ro: ["Lansat în 2010.", "Suprafață: 5.000 ha.", "Recoltă anuală sorg: 8.000 t.", "Muncitori: 2.000.", "Precipitații: 350 mm/an.", "Metoda de irigare: picurare."],
+      en: ["Launched in 2010.", "Area: 5,000 ha.", "Annual sorghum harvest: 8,000 tons.", "Workers: 2,000.", "Rainfall: 350 mm/year.", "Irrigation method: drip."],
+    },
   }
 ];
 

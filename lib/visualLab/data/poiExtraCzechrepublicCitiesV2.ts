@@ -5,9 +5,8 @@ export const czechrepublicCitiesV2: POI[] = [
     id: "czechrepublic-prague-cities-v2",
     parent: "CZ",
     type: "capital",
-    name: { de: "Prag", hu: "Prága", ro: "Praga", en: "Prague",
-image: "/poi-images/czechrepublic-prague-cities-v2.webp"
-},
+    name: { de: "Prag", hu: "Prága", ro: "Praga", en: "Prague"},
+    image: "/poi-images/czechrepublic-prague-cities-v2.webp",
     coords: [14.4214, 50.0875],
     coordinates: { lat: 50.0875, lng: 14.4214 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/czechrepublic-prague-cities-v2.webp"
     id: "czechrepublic-brno-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Brünn", hu: "Brno", ro: "Brno", en: "Brno",
-image: "/poi-images/czechrepublic-brno-cities-v2.webp"
-},
+    name: { de: "Brünn", hu: "Brno", ro: "Brno", en: "Brno"},
+    image: "/poi-images/czechrepublic-brno-cities-v2.webp",
     coords: [16.6068, 49.1951],
     coordinates: { lat: 49.1951, lng: 16.6068 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/czechrepublic-brno-cities-v2.webp"
     id: "czechrepublic-ostrava-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Ostrava", hu: "Ostrava", ro: "Ostrava", en: "Ostrava",
-image: "/poi-images/czechrepublic-ostrava-cities-v2.webp"
-},
+    name: { de: "Ostrava", hu: "Ostrava", ro: "Ostrava", en: "Ostrava"},
+    image: "/poi-images/czechrepublic-ostrava-cities-v2.webp",
     coords: [18.282, 49.8349],
     coordinates: { lat: 49.8349, lng: 18.282 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/czechrepublic-ostrava-cities-v2.webp"
     id: "czechrepublic-plzen-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Pilsen", hu: "Plzeň", ro: "Plzeň", en: "Plzeň",
-image: "/poi-images/czechrepublic-plzen-cities-v2.webp"
-},
+    name: { de: "Pilsen", hu: "Plzeň", ro: "Plzeň", en: "Plzeň"},
+    image: "/poi-images/czechrepublic-plzen-cities-v2.webp",
     coords: [13.3775, 49.7475],
     coordinates: { lat: 49.7475, lng: 13.3775 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/czechrepublic-plzen-cities-v2.webp"
     id: "czechrepublic-liberec-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Liberec", hu: "Liberec", ro: "Liberec", en: "Liberec",
-image: "/poi-images/czechrepublic-liberec-cities-v2.webp"
-},
+    name: { de: "Liberec", hu: "Liberec", ro: "Liberec", en: "Liberec"},
+    image: "/poi-images/czechrepublic-liberec-cities-v2.webp",
     coords: [15.0562, 50.7671],
     coordinates: { lat: 50.7671, lng: 15.0562 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/czechrepublic-liberec-cities-v2.webp"
     id: "czechrepublic-olomouc-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Olomouc", hu: "Olomouc", ro: "Olomouc", en: "Olomouc",
-image: "/poi-images/czechrepublic-olomouc-cities-v2.webp"
-},
+    name: { de: "Olomouc", hu: "Olomouc", ro: "Olomouc", en: "Olomouc"},
+    image: "/poi-images/czechrepublic-olomouc-cities-v2.webp",
     coords: [17.2508, 49.5938],
     coordinates: { lat: 49.5938, lng: 17.2508 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/czechrepublic-olomouc-cities-v2.webp"
     id: "czechrepublic-ceske-budejovice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Budweis", hu: "České Budějovice", ro: "České Budějovice", en: "České Budějovice",
-image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp"
-},
+    name: { de: "Budweis", hu: "České Budějovice", ro: "České Budějovice", en: "České Budějovice"},
+    image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp",
     coords: [14.4747, 48.9747],
     coordinates: { lat: 48.9747, lng: 14.4747 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/czechrepublic-ceske-budejovice-cities-v2.webp"
     id: "czechrepublic-hradec-kralove-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Königgrätz", hu: "Hradec Králové", ro: "Hradec Králové", en: "Hradec Králové",
-image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp"
-},
+    name: { de: "Königgrätz", hu: "Hradec Králové", ro: "Hradec Králové", en: "Hradec Králové"},
+    image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp",
     coords: [15.8319, 50.2086],
     coordinates: { lat: 50.2086, lng: 15.8319 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/czechrepublic-hradec-kralove-cities-v2.webp"
     id: "czechrepublic-pardubice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Pardubitz", hu: "Pardubice", ro: "Pardubice", en: "Pardubice",
-image: "/poi-images/czechrepublic-pardubice-cities-v2.webp"
-},
+    name: { de: "Pardubitz", hu: "Pardubice", ro: "Pardubice", en: "Pardubice"},
+    image: "/poi-images/czechrepublic-pardubice-cities-v2.webp",
     coords: [15.7792, 50.0386],
     coordinates: { lat: 50.0386, lng: 15.7792 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/czechrepublic-pardubice-cities-v2.webp"
     id: "czechrepublic-zlin-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Zlín", hu: "Zlín", ro: "Zlín", en: "Zlín",
-image: "/poi-images/czechrepublic-zlin-cities-v2.webp"
-},
+    name: { de: "Zlín", hu: "Zlín", ro: "Zlín", en: "Zlín"},
+    image: "/poi-images/czechrepublic-zlin-cities-v2.webp",
     coords: [17.6672, 49.2223],
     coordinates: { lat: 49.2223, lng: 17.6672 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/czechrepublic-zlin-cities-v2.webp"
     id: "czechrepublic-havirov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Havířov", hu: "Havířov", ro: "Havířov", en: "Havířov",
-image: "/poi-images/czechrepublic-havirov-cities-v2.webp"
-},
+    name: { de: "Havířov", hu: "Havířov", ro: "Havířov", en: "Havířov"},
+    image: "/poi-images/czechrepublic-havirov-cities-v2.webp",
     coords: [18.4355, 49.7788],
     coordinates: { lat: 49.7788, lng: 18.4355 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/czechrepublic-havirov-cities-v2.webp"
     id: "czechrepublic-kladno-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Kladno", hu: "Kladno", ro: "Kladno", en: "Kladno",
-image: "/poi-images/czechrepublic-kladno-cities-v2.webp"
-},
+    name: { de: "Kladno", hu: "Kladno", ro: "Kladno", en: "Kladno"},
+    image: "/poi-images/czechrepublic-kladno-cities-v2.webp",
     coords: [14.1028, 50.1473],
     coordinates: { lat: 50.1473, lng: 14.1028 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/czechrepublic-kladno-cities-v2.webp"
     id: "czechrepublic-most-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Most", hu: "Most", ro: "Most", en: "Most",
-image: "/poi-images/czechrepublic-most-cities-v2.webp"
-},
+    name: { de: "Most", hu: "Most", ro: "Most", en: "Most"},
+    image: "/poi-images/czechrepublic-most-cities-v2.webp",
     coords: [13.6362, 50.503],
     coordinates: { lat: 50.503, lng: 13.6362 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/czechrepublic-most-cities-v2.webp"
     id: "czechrepublic-opava-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Troppau", hu: "Opava", ro: "Opava", en: "Opava",
-image: "/poi-images/czechrepublic-opava-cities-v2.webp"
-},
+    name: { de: "Troppau", hu: "Opava", ro: "Opava", en: "Opava"},
+    image: "/poi-images/czechrepublic-opava-cities-v2.webp",
     coords: [17.9026, 49.9387],
     coordinates: { lat: 49.9387, lng: 17.9026 },
     description: {
@@ -509,9 +495,8 @@ image: "/poi-images/czechrepublic-opava-cities-v2.webp"
     id: "czechrepublic-frydek-mistek-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Friedeck-Mistek", hu: "Frýdek-Místek", ro: "Frýdek-Místek", en: "Frýdek-Místek",
-image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp"
-},
+    name: { de: "Friedeck-Mistek", hu: "Frýdek-Místek", ro: "Frýdek-Místek", en: "Frýdek-Místek"},
+    image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp",
     coords: [18.349, 49.6844],
     coordinates: { lat: 49.6844, lng: 18.349 },
     description: {
@@ -545,9 +530,8 @@ image: "/poi-images/czechrepublic-frydek-mistek-cities-v2.webp"
     id: "czechrepublic-karvina-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Karwin", hu: "Karviná", ro: "Karviná", en: "Karviná",
-image: "/poi-images/czechrepublic-karvina-cities-v2.webp"
-},
+    name: { de: "Karwin", hu: "Karviná", ro: "Karviná", en: "Karviná"},
+    image: "/poi-images/czechrepublic-karvina-cities-v2.webp",
     coords: [18.5414, 49.854],
     coordinates: { lat: 49.854, lng: 18.5414 },
     description: {
@@ -581,9 +565,8 @@ image: "/poi-images/czechrepublic-karvina-cities-v2.webp"
     id: "czechrepublic-jihlava-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Iglau", hu: "Jihlava", ro: "Jihlava", en: "Jihlava",
-image: "/poi-images/czechrepublic-jihlava-cities-v2.webp"
-},
+    name: { de: "Iglau", hu: "Jihlava", ro: "Jihlava", en: "Jihlava"},
+    image: "/poi-images/czechrepublic-jihlava-cities-v2.webp",
     coords: [15.5912, 49.3961],
     coordinates: { lat: 49.3961, lng: 15.5912 },
     description: {
@@ -617,9 +600,8 @@ image: "/poi-images/czechrepublic-jihlava-cities-v2.webp"
     id: "czechrepublic-teplice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Teplitz", hu: "Teplice", ro: "Teplice", en: "Teplice",
-image: "/poi-images/czechrepublic-teplice-cities-v2.webp"
-},
+    name: { de: "Teplitz", hu: "Teplice", ro: "Teplice", en: "Teplice"},
+    image: "/poi-images/czechrepublic-teplice-cities-v2.webp",
     coords: [13.8245, 50.6403],
     coordinates: { lat: 50.6403, lng: 13.8245 },
     description: {
@@ -653,9 +635,8 @@ image: "/poi-images/czechrepublic-teplice-cities-v2.webp"
     id: "czechrepublic-decin-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Tetschen", hu: "Děčín", ro: "Děčín", en: "Děčín",
-image: "/poi-images/czechrepublic-decin-cities-v2.webp"
-},
+    name: { de: "Tetschen", hu: "Děčín", ro: "Děčín", en: "Děčín"},
+    image: "/poi-images/czechrepublic-decin-cities-v2.webp",
     coords: [14.2139, 50.7811],
     coordinates: { lat: 50.7811, lng: 14.2139 },
     description: {
@@ -689,9 +670,8 @@ image: "/poi-images/czechrepublic-decin-cities-v2.webp"
     id: "czechrepublic-karlovy-vary-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Karlsbad", hu: "Karlovy Vary", ro: "Karlovy Vary", en: "Karlovy Vary",
-image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp"
-},
+    name: { de: "Karlsbad", hu: "Karlovy Vary", ro: "Karlovy Vary", en: "Karlovy Vary"},
+    image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp",
     coords: [12.872, 50.2319],
     coordinates: { lat: 50.2319, lng: 12.872 },
     description: {
@@ -725,9 +705,8 @@ image: "/poi-images/czechrepublic-karlovy-vary-cities-v2.webp"
     id: "czechrepublic-chomutov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Chomutov", hu: "Chomutov", ro: "Chomutov", en: "Chomutov",
-image: "/poi-images/czechrepublic-chomutov-cities-v2.webp"
-},
+    name: { de: "Chomutov", hu: "Chomutov", ro: "Chomutov", en: "Chomutov"},
+    image: "/poi-images/czechrepublic-chomutov-cities-v2.webp",
     coords: [13.4177, 50.4605],
     coordinates: { lat: 50.4605, lng: 13.4177 },
     description: {
@@ -761,9 +740,8 @@ image: "/poi-images/czechrepublic-chomutov-cities-v2.webp"
     id: "czechrepublic-jablonec-nad-nisou-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Gablonz an der Neiße", hu: "Jablonec nad Nisou", ro: "Jablonec nad Nisou", en: "Jablonec nad Nisou",
-image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp"
-},
+    name: { de: "Gablonz an der Neiße", hu: "Jablonec nad Nisou", ro: "Jablonec nad Nisou", en: "Jablonec nad Nisou"},
+    image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp",
     coords: [15.1711, 50.7243],
     coordinates: { lat: 50.7243, lng: 15.1711 },
     description: {
@@ -797,9 +775,8 @@ image: "/poi-images/czechrepublic-jablonec-nad-nisou-cities-v2.webp"
     id: "czechrepublic-mlada-boleslav-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Jungbunzlau", hu: "Mladá Boleslav", ro: "Mladá Boleslav", en: "Mladá Boleslav",
-image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp"
-},
+    name: { de: "Jungbunzlau", hu: "Mladá Boleslav", ro: "Mladá Boleslav", en: "Mladá Boleslav"},
+    image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp",
     coords: [14.9032, 50.4114],
     coordinates: { lat: 50.4114, lng: 14.9032 },
     description: {
@@ -833,9 +810,8 @@ image: "/poi-images/czechrepublic-mlada-boleslav-cities-v2.webp"
     id: "czechrepublic-prostejov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Proßnitz in Mähren", hu: "Prostějov", ro: "Prostějov", en: "Prostějov",
-image: "/poi-images/czechrepublic-prostejov-cities-v2.webp"
-},
+    name: { de: "Proßnitz in Mähren", hu: "Prostějov", ro: "Prostějov", en: "Prostějov"},
+    image: "/poi-images/czechrepublic-prostejov-cities-v2.webp",
     coords: [17.1118, 49.4719],
     coordinates: { lat: 49.4719, lng: 17.1118 },
     description: {
@@ -869,9 +845,8 @@ image: "/poi-images/czechrepublic-prostejov-cities-v2.webp"
     id: "czechrepublic-prerov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Prerau", hu: "Přerov", ro: "Přerov", en: "Přerov",
-image: "/poi-images/czechrepublic-prerov-cities-v2.webp"
-},
+    name: { de: "Prerau", hu: "Přerov", ro: "Přerov", en: "Přerov"},
+    image: "/poi-images/czechrepublic-prerov-cities-v2.webp",
     coords: [17.4506, 49.4552],
     coordinates: { lat: 49.4552, lng: 17.4506 },
     description: {
@@ -905,9 +880,8 @@ image: "/poi-images/czechrepublic-prerov-cities-v2.webp"
     id: "czechrepublic-ceska-lipa-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Böhmisch Leipa", hu: "Česká Lípa", ro: "Česká Lípa", en: "Česká Lípa",
-image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp"
-},
+    name: { de: "Böhmisch Leipa", hu: "Česká Lípa", ro: "Česká Lípa", en: "Česká Lípa"},
+    image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp",
     coords: [14.5378, 50.6855],
     coordinates: { lat: 50.6855, lng: 14.5378 },
     description: {
@@ -941,9 +915,8 @@ image: "/poi-images/czechrepublic-ceska-lipa-cities-v2.webp"
     id: "czechrepublic-trebic-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Trebitsch", hu: "Třebíč", ro: "Třebíč", en: "Třebíč",
-image: "/poi-images/czechrepublic-trebic-cities-v2.webp"
-},
+    name: { de: "Trebitsch", hu: "Třebíč", ro: "Třebíč", en: "Třebíč"},
+    image: "/poi-images/czechrepublic-trebic-cities-v2.webp",
     coords: [15.8817, 49.2149],
     coordinates: { lat: 49.2149, lng: 15.8817 },
     description: {
@@ -977,9 +950,8 @@ image: "/poi-images/czechrepublic-trebic-cities-v2.webp"
     id: "czechrepublic-tabor-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Tabor", hu: "Tábor", ro: "Tábor", en: "Tábor",
-image: "/poi-images/czechrepublic-tabor-cities-v2.webp"
-},
+    name: { de: "Tabor", hu: "Tábor", ro: "Tábor", en: "Tábor"},
+    image: "/poi-images/czechrepublic-tabor-cities-v2.webp",
     coords: [14.6578, 49.4144],
     coordinates: { lat: 49.4144, lng: 14.6578 },
     description: {
@@ -1013,9 +985,8 @@ image: "/poi-images/czechrepublic-tabor-cities-v2.webp"
     id: "czechrepublic-trinec-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Trzynietz", hu: "Třinec", ro: "Třinec", en: "Třinec",
-image: "/poi-images/czechrepublic-trinec-cities-v2.webp"
-},
+    name: { de: "Trzynietz", hu: "Třinec", ro: "Třinec", en: "Třinec"},
+    image: "/poi-images/czechrepublic-trinec-cities-v2.webp",
     coords: [18.6707, 49.6776],
     coordinates: { lat: 49.6776, lng: 18.6707 },
     description: {
@@ -1049,9 +1020,8 @@ image: "/poi-images/czechrepublic-trinec-cities-v2.webp"
     id: "czechrepublic-pribram-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Pibrans", hu: "Příbram", ro: "Příbram", en: "Příbram",
-image: "/poi-images/czechrepublic-pribram-cities-v2.webp"
-},
+    name: { de: "Pibrans", hu: "Příbram", ro: "Příbram", en: "Příbram"},
+    image: "/poi-images/czechrepublic-pribram-cities-v2.webp",
     coords: [14.0104, 49.6898],
     coordinates: { lat: 49.6898, lng: 14.0104 },
     description: {
@@ -1085,9 +1055,8 @@ image: "/poi-images/czechrepublic-pribram-cities-v2.webp"
     id: "czechrepublic-orlova-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Orlau", hu: "Orlová", ro: "Orlová", en: "Orlová",
-image: "/poi-images/czechrepublic-orlova-cities-v2.webp"
-},
+    name: { de: "Orlau", hu: "Orlová", ro: "Orlová", en: "Orlová"},
+    image: "/poi-images/czechrepublic-orlova-cities-v2.webp",
     coords: [18.43, 49.845],
     coordinates: { lat: 49.845, lng: 18.43 },
     description: {
@@ -1121,9 +1090,8 @@ image: "/poi-images/czechrepublic-orlova-cities-v2.webp"
     id: "czechrepublic-trutnov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Trautenau", hu: "Trutnov", ro: "Trutnov", en: "Trutnov",
-image: "/poi-images/czechrepublic-trutnov-cities-v2.webp"
-},
+    name: { de: "Trautenau", hu: "Trutnov", ro: "Trutnov", en: "Trutnov"},
+    image: "/poi-images/czechrepublic-trutnov-cities-v2.webp",
     coords: [15.91, 50.56],
     coordinates: { lat: 50.56, lng: 15.91 },
     description: {
@@ -1157,9 +1125,8 @@ image: "/poi-images/czechrepublic-trutnov-cities-v2.webp"
     id: "czechrepublic-kolin-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Kolin", hu: "Kolín", ro: "Kolín", en: "Kolín",
-image: "/poi-images/czechrepublic-kolin-cities-v2.webp"
-},
+    name: { de: "Kolin", hu: "Kolín", ro: "Kolín", en: "Kolín"},
+    image: "/poi-images/czechrepublic-kolin-cities-v2.webp",
     coords: [15.2006, 50.0281],
     coordinates: { lat: 50.0281, lng: 15.2006 },
     description: {
@@ -1193,9 +1160,8 @@ image: "/poi-images/czechrepublic-kolin-cities-v2.webp"
     id: "czechrepublic-pisek-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Pisek", hu: "Písek", ro: "Písek", en: "Písek",
-image: "/poi-images/czechrepublic-pisek-cities-v2.webp"
-},
+    name: { de: "Pisek", hu: "Písek", ro: "Písek", en: "Písek"},
+    image: "/poi-images/czechrepublic-pisek-cities-v2.webp",
     coords: [14.1475, 49.3088],
     coordinates: { lat: 49.3088, lng: 14.1475 },
     description: {
@@ -1229,9 +1195,8 @@ image: "/poi-images/czechrepublic-pisek-cities-v2.webp"
     id: "czechrepublic-kromeriz-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Kremsier", hu: "Kroměříž", ro: "Kroměříž", en: "Kroměříž",
-image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp"
-},
+    name: { de: "Kremsier", hu: "Kroměříž", ro: "Kroměříž", en: "Kroměříž"},
+    image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp",
     coords: [17.3931, 49.2978],
     coordinates: { lat: 49.2978, lng: 17.3931 },
     description: {
@@ -1265,9 +1230,8 @@ image: "/poi-images/czechrepublic-kromeriz-cities-v2.webp"
     id: "czechrepublic-sumperk-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Mährisch Schönberg", hu: "Šumperk", ro: "Šumperk", en: "Šumperk",
-image: "/poi-images/czechrepublic-sumperk-cities-v2.webp"
-},
+    name: { de: "Mährisch Schönberg", hu: "Šumperk", ro: "Šumperk", en: "Šumperk"},
+    image: "/poi-images/czechrepublic-sumperk-cities-v2.webp",
     coords: [16.9706, 49.9653],
     coordinates: { lat: 49.9653, lng: 16.9706 },
     description: {
@@ -1301,9 +1265,8 @@ image: "/poi-images/czechrepublic-sumperk-cities-v2.webp"
     id: "czechrepublic-vsetin-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Wsetin", hu: "Vsetín", ro: "Vsetín", en: "Vsetín",
-image: "/poi-images/czechrepublic-vsetin-cities-v2.webp"
-},
+    name: { de: "Wsetin", hu: "Vsetín", ro: "Vsetín", en: "Vsetín"},
+    image: "/poi-images/czechrepublic-vsetin-cities-v2.webp",
     coords: [17.9961, 49.3384],
     coordinates: { lat: 49.3384, lng: 17.9961 },
     description: {
@@ -1337,9 +1300,8 @@ image: "/poi-images/czechrepublic-vsetin-cities-v2.webp"
     id: "czechrepublic-valasske-mezirici-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Wallachisch Meseritsch", hu: "Valašské Meziříčí", ro: "Valašské Meziříčí", en: "Valašské Meziříčí",
-image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp"
-},
+    name: { de: "Wallachisch Meseritsch", hu: "Valašské Meziříčí", ro: "Valašské Meziříčí", en: "Valašské Meziříčí"},
+    image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp",
     coords: [17.9714, 49.4714],
     coordinates: { lat: 49.4714, lng: 17.9714 },
     description: {
@@ -1373,9 +1335,8 @@ image: "/poi-images/czechrepublic-valasske-mezirici-cities-v2.webp"
     id: "czechrepublic-litvinov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Oberleutensdorf", hu: "Litvínov", ro: "Litvínov", en: "Litvínov",
-image: "/poi-images/czechrepublic-litvinov-cities-v2.webp"
-},
+    name: { de: "Oberleutensdorf", hu: "Litvínov", ro: "Litvínov", en: "Litvínov"},
+    image: "/poi-images/czechrepublic-litvinov-cities-v2.webp",
     coords: [13.6108, 50.6011],
     coordinates: { lat: 50.6011, lng: 13.6108 },
     description: {
@@ -1409,9 +1370,8 @@ image: "/poi-images/czechrepublic-litvinov-cities-v2.webp"
     id: "czechrepublic-uherske-hradiste-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Ungarisch Hradisch", hu: "Uherské Hradiště", ro: "Uherské Hradiště", en: "Uherské Hradiště",
-image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp"
-},
+    name: { de: "Ungarisch Hradisch", hu: "Uherské Hradiště", ro: "Uherské Hradiště", en: "Uherské Hradiště"},
+    image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp",
     coords: [17.4597, 49.0683],
     coordinates: { lat: 49.0683, lng: 17.4597 },
     description: {
@@ -1445,9 +1405,8 @@ image: "/poi-images/czechrepublic-uherske-hradiste-cities-v2.webp"
     id: "czechrepublic-hodonin-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Göding", hu: "Hodonín", ro: "Hodonín", en: "Hodonín",
-image: "/poi-images/czechrepublic-hodonin-cities-v2.webp"
-},
+    name: { de: "Göding", hu: "Hodonín", ro: "Hodonín", en: "Hodonín"},
+    image: "/poi-images/czechrepublic-hodonin-cities-v2.webp",
     coords: [17.1303, 48.8489],
     coordinates: { lat: 48.8489, lng: 17.1303 },
     description: {
@@ -1481,9 +1440,8 @@ image: "/poi-images/czechrepublic-hodonin-cities-v2.webp"
     id: "czechrepublic-breclav-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Lundenburg", hu: "Břeclav", ro: "Břeclav", en: "Břeclav",
-image: "/poi-images/czechrepublic-breclav-cities-v2.webp"
-},
+    name: { de: "Lundenburg", hu: "Břeclav", ro: "Břeclav", en: "Břeclav"},
+    image: "/poi-images/czechrepublic-breclav-cities-v2.webp",
     coords: [16.8822, 48.7589],
     coordinates: { lat: 48.7589, lng: 16.8822 },
     description: {
@@ -1517,9 +1475,8 @@ image: "/poi-images/czechrepublic-breclav-cities-v2.webp"
     id: "czechrepublic-krnov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Jägerndorf", hu: "Krnov", ro: "Krnov", en: "Krnov",
-image: "/poi-images/czechrepublic-krnov-cities-v2.webp"
-},
+    name: { de: "Jägerndorf", hu: "Krnov", ro: "Krnov", en: "Krnov"},
+    image: "/poi-images/czechrepublic-krnov-cities-v2.webp",
     coords: [17.7038, 50.0897],
     coordinates: { lat: 50.0897, lng: 17.7038 },
     description: {
@@ -1553,9 +1510,8 @@ image: "/poi-images/czechrepublic-krnov-cities-v2.webp"
     id: "czechrepublic-litomerice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Leitmeritz", hu: "Litoměřice", ro: "Litoměřice", en: "Litoměřice",
-image: "/poi-images/czechrepublic-litomerice-cities-v2.webp"
-},
+    name: { de: "Leitmeritz", hu: "Litoměřice", ro: "Litoměřice", en: "Litoměřice"},
+    image: "/poi-images/czechrepublic-litomerice-cities-v2.webp",
     coords: [14.1317, 50.5338],
     coordinates: { lat: 50.5338, lng: 14.1317 },
     description: {
@@ -1589,9 +1545,8 @@ image: "/poi-images/czechrepublic-litomerice-cities-v2.webp"
     id: "czechrepublic-havlickuv-brod-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Deutschbrod", hu: "Havlíčkův Brod", ro: "Havlíčkův Brod", en: "Havlíčkův Brod",
-image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp"
-},
+    name: { de: "Deutschbrod", hu: "Havlíčkův Brod", ro: "Havlíčkův Brod", en: "Havlíčkův Brod"},
+    image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp",
     coords: [15.5806, 49.6078],
     coordinates: { lat: 49.6078, lng: 15.5806 },
     description: {
@@ -1625,9 +1580,8 @@ image: "/poi-images/czechrepublic-havlickuv-brod-cities-v2.webp"
     id: "czechrepublic-zdar-nad-sazavou-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Saar", hu: "Žďár nad Sázavou", ro: "Žďár nad Sázavou", en: "Žďár nad Sázavou",
-image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp"
-},
+    name: { de: "Saar", hu: "Žďár nad Sázavou", ro: "Žďár nad Sázavou", en: "Žďár nad Sázavou"},
+    image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp",
     coords: [15.9392, 49.5628],
     coordinates: { lat: 49.5628, lng: 15.9392 },
     description: {
@@ -1649,7 +1603,7 @@ image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp"
       hu: "Žďár nad Sázavou neve elválaszthatatlanul összefonódik két rendkívüli építménnyel: az egykori ciszterci kolostorral és a Zelená horán (Zöld-hegy) álló Nepomuki Szent János zarándoktemplommal. A templom, a zseniális építész, Johann Blasius Santini-Aichl barokk-gótikus stílusú mesterműve, 1994-ben került fel az UNESCO Világörökség listájára. Építészete tele van szimbolikával, amely az ötös számon alapul – az öt csillagon, amelyek a legenda szerint a szent holtteste felett jelentek meg. A ma a Kinský család tulajdonában lévő kolostor az Új Generáció Múzeumának és a Könyvmúzeumnak ad otthont. Maga a város a kolostor melletti településből fejlődött ki, és a 20. században a ŽĎAS gépgyár megalapításával erőteljesen megnőtt.",
       ro: "Žďár nad Sázavou este indisolubil legat de două structuri excepționale: fosta mănăstire cisterciană și Biserica de pelerinaj Sfântul Ioan Nepomuk de pe Muntele Verde (Zelená hora). Biserica, o capodoperă a genialului arhitect Johann Blasius Santini-Aichl în stilul gotic baroc, a fost declarată Patrimoniu Mondial UNESCO în 1994. Arhitectura sa este plină de simbolism, bazată pe cifra cinci – cele cinci stele care se spune că au apărut deasupra trupului sfântului. Mănăstirea, aflată astăzi în proprietatea familiei Kinský, găzduiește Muzeul Noii Generații și Muzeul Cărții. Orașul însuși s-a dezvoltat dintr-o așezare de lângă mănăstire și a crescut puternic în secolul al XX-lea datorită înființării uzinelor mecanice ŽĎAS.",
       en: "",
-      en: "Žďár nad Sázavou is inextricably linked with two exceptional structures: the former Cistercian monastery and the Pilgrimage Church of St. John of Nepomuk on Zelená hora (Green Hill). The church, a masterpiece by the brilliant architect Johann Blasius Santini-Aichl in the Baroque Gothic style, was declared a UNESCO World Heritage site in 1994. Its architecture is full of symbolism based on the number five—the five stars said to have appeared over the saint's body. The monastery, now owned by the Kinský family, houses a New Generation Museum and the Book Museum. The town itself developed from a settlement near the monastery and grew significantly in the 20th century with the establishment of the ŽĎAS engineering works."
+//       en: "Žďár nad Sázavou is inextricably linked with two exceptional structures: the former Cistercian monastery and the Pilgrimage Church of St. John of Nepomuk on Zelená hora (Green Hill). The church, a masterpiece by the brilliant architect Johann Blasius Santini-Aichl in the Baroque Gothic style, was declared a UNESCO World Heritage site in 1994. Its architecture is full of symbolism based on the number five—the five stars said to have appeared over the saint's body. The monastery, now owned by the Kinský family, houses a New Generation Museum and the Book Museum. The town itself developed from a settlement near the monastery and grew significantly in the 20th century with the establishment of the ŽĎAS engineering works."
     },
     factsAdvanced: {
       de: ["Die Wallfahrtskirche wurde zwischen 1719 und 1722 erbaut.", "Der Grundriss der Kirche hat die Form eines fünfzackigen Sterns.", "Das Zisterzienserkloster wurde 1252 gegründet.", "Johann Blasius Santini-Aichl war ein tschechischer Architekt italienischer Herkunft.", "Der Grüne Berg (Zelená hora) ist ein künstlich aufgeschütteter Hügel.", "Die ŽĎAS-Werke sind ein bedeutender Hersteller von Schwermaschinen und Werkzeugen.", "Das 'Museum der Neuen Generation' im Schloss nutzt interaktive Exponate, um die Geschichte des Ortes zu erzählen.", "Die Stadt liegt in der geschützten Landschaftsregion Žďárské vrchy (Saarer Berge)."],
@@ -1662,9 +1616,8 @@ image: "/poi-images/czechrepublic-zdar-nad-sazavou-cities-v2.webp"
     id: "czechrepublic-chrudim-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Chrudim", hu: "Chrudim", ro: "Chrudim", en: "Chrudim",
-image: "/poi-images/czechrepublic-chrudim-cities-v2.webp"
-},
+    name: { de: "Chrudim", hu: "Chrudim", ro: "Chrudim", en: "Chrudim"},
+    image: "/poi-images/czechrepublic-chrudim-cities-v2.webp",
     coords: [15.7953, 49.9511],
     coordinates: { lat: 49.9511, lng: 15.7953 },
     description: {
@@ -1698,9 +1651,8 @@ image: "/poi-images/czechrepublic-chrudim-cities-v2.webp"
     id: "czechrepublic-strakonice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Strakonitz", hu: "Strakonice", ro: "Strakonice", en: "Strakonice",
-image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"
-},
+    name: { de: "Strakonitz", hu: "Strakonice", ro: "Strakonice", en: "Strakonice"},
+    image: "/poi-images/czechrepublic-strakonice-cities-v2.webp",
     coords: [13.9031, 49.2611],
     coordinates: { lat: 49.2611, lng: 13.9031 },
     description: {
@@ -1722,7 +1674,7 @@ image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"
       hu: "Strakonice Dél-Csehországban, az Otava és a Volyňka folyók összefolyásánál fekszik. A város neve elválaszthatatlanul összefonódik három hagyománnyal: a dudával, a fezzel (egy keleti fejfedő) és a ČZ motorkerékpár-márkával. A lenyűgöző strakonicei vár, amely a johannita lovagrend várának és komendájának kombinációja, uralja a várost, és a Középső-Otava-völgy Múzeumának ad otthont. Kétévente itt rendezik meg a Nemzetközi Dudafesztivált, amely a világ minden tájáról vonzza a zenészeket. Az ipartörténetet a kalapgyár (később Tonak) és a Česká zbrojovka (ČZ) fegyver- és motorkerékpárgyár határozta meg, amelynek motorjai egykor világhírűek voltak.",
       ro: "Strakonice este situat la confluența râurilor Otava și Volyňka în Boemia de Sud. Orașul este indisolubil legat de trei tradiții: cimpoiul, fesul (o acoperitoare de cap orientală) și marca de motociclete ČZ. Impunătorul Castel Strakonice, o combinație de castel și comandă a Ordinului Ioaniților, domină orașul și găzduiește Muzeul Văii Mijlocii a Otava. La fiecare doi ani, aici are loc Festivalul Internațional de Cimpoi, care atrage muzicieni din întreaga lume. Istoria industrială a fost marcată de fabrica de pălării (mai târziu Tonak) și de fabrica de arme și motociclete Česká zbrojovka (ČZ), ale cărei motociclete au fost cândva renumite la nivel mondial.",
       en: "",
-      en: "Strakonice is located at the confluence of the Otava and Volyňka rivers in South Bohemia. The city is inextricably linked with three traditions: the bagpipes, the fez (an oriental headdress), and the ČZ motorcycle brand. The imposing Strakonice Castle, a combination of a castle and a commandery of the Knights of St. John, dominates the town and houses the Museum of the Middle Otava River Region. Every two years, the International Bagpipe Festival is held here, attracting musicians from all over the world. The industrial history was shaped by the hat factory (later Tonak) and the arms and motorcycle factory Česká zbrojovka (ČZ), whose motorcycles were once world-famous."
+//       en: "Strakonice is located at the confluence of the Otava and Volyňka rivers in South Bohemia. The city is inextricably linked with three traditions: the bagpipes, the fez (an oriental headdress), and the ČZ motorcycle brand. The imposing Strakonice Castle, a combination of a castle and a commandery of the Knights of St. John, dominates the town and houses the Museum of the Middle Otava River Region. Every two years, the International Bagpipe Festival is held here, attracting musicians from all over the world. The industrial history was shaped by the hat factory (later Tonak) and the arms and motorcycle factory Česká zbrojovka (ČZ), whose motorcycles were once world-famous."
     },
     factsAdvanced: {
       de: ["Die Burg Strakonice wurde im 13. Jahrhundert gegründet.", "Das Internationale Dudelsackfestival findet seit 1967 statt.", "Die Firma ČZ (Česká zbrojovka) wurde 1919 gegründet.", "Die Produktion von Fez-Hüten begann in Strakonice im Jahr 1807.", "Die Stadt war ein wichtiges Zentrum der tschechischen Nationalen Wiedergeburt.", "Der Rumpál-Turm in der Burg bietet einen weiten Blick über die Stadt.", "Die Legende vom Dudelsackpfeifer Švanda ist eng mit Strakonice verbunden.", "Die Otava war früher ein wichtiger Fluss für die Flößerei und die Goldwäsche."],
@@ -1735,9 +1687,8 @@ image: "/poi-images/czechrepublic-strakonice-cities-v2.webp"
     id: "czechrepublic-koprivnice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Nesselsdorf", hu: "Kopřivnice", ro: "Kopřivnice", en: "Kopřivnice",
-image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp"
-},
+    name: { de: "Nesselsdorf", hu: "Kopřivnice", ro: "Kopřivnice", en: "Kopřivnice"},
+    image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp",
     coords: [18.1444, 49.5986],
     coordinates: { lat: 49.5986, lng: 18.1444 },
     description: {
@@ -1771,9 +1722,8 @@ image: "/poi-images/czechrepublic-koprivnice-cities-v2.webp"
     id: "czechrepublic-bohumin-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Oderberg", hu: "Bohumín", ro: "Bohumín", en: "Bohumín",
-image: "/poi-images/czechrepublic-bohumin-cities-v2.webp"
-},
+    name: { de: "Oderberg", hu: "Bohumín", ro: "Bohumín", en: "Bohumín"},
+    image: "/poi-images/czechrepublic-bohumin-cities-v2.webp",
     coords: [18.3561, 49.9044],
     coordinates: { lat: 49.9044, lng: 18.3561 },
     description: {
@@ -1807,9 +1757,8 @@ image: "/poi-images/czechrepublic-bohumin-cities-v2.webp"
     id: "czechrepublic-klatovy-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Klattau", hu: "Klatovy", ro: "Klatovy", en: "Klatovy",
-image: "/poi-images/czechrepublic-klatovy-cities-v2.webp"
-},
+    name: { de: "Klattau", hu: "Klatovy", ro: "Klatovy", en: "Klatovy"},
+    image: "/poi-images/czechrepublic-klatovy-cities-v2.webp",
     coords: [13.2955, 49.3955],
     coordinates: { lat: 49.3955, lng: 13.2955 },
     description: {
@@ -1843,9 +1792,8 @@ image: "/poi-images/czechrepublic-klatovy-cities-v2.webp"
     id: "czechrepublic-jindrichuv-hradec-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Neuhaus", hu: "Jindřichův Hradec", ro: "Jindřichův Hradec", en: "Jindřichův Hradec",
-image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp"
-},
+    name: { de: "Neuhaus", hu: "Jindřichův Hradec", ro: "Jindřichův Hradec", en: "Jindřichův Hradec"},
+    image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp",
     coords: [15.0031, 49.1444],
     coordinates: { lat: 49.1444, lng: 15.0031 },
     description: {
@@ -1879,9 +1827,8 @@ image: "/poi-images/czechrepublic-jindrichuv-hradec-cities-v2.webp"
     id: "czechrepublic-vyskov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Wischau", hu: "Vyškov", ro: "Vyškov", en: "Vyškov",
-image: "/poi-images/czechrepublic-vyskov-cities-v2.webp"
-},
+    name: { de: "Wischau", hu: "Vyškov", ro: "Vyškov", en: "Vyškov"},
+    image: "/poi-images/czechrepublic-vyskov-cities-v2.webp",
     coords: [16.9989, 49.2775],
     coordinates: { lat: 49.2775, lng: 16.9989 },
     description: {
@@ -1915,9 +1862,8 @@ image: "/poi-images/czechrepublic-vyskov-cities-v2.webp"
     id: "czechrepublic-kutna-hora-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Kuttenberg", hu: "Kutná Hora", ro: "Kutná Hora", en: "Kutná Hora",
-image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp"
-},
+    name: { de: "Kuttenberg", hu: "Kutná Hora", ro: "Kutná Hora", en: "Kutná Hora"},
+    image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp",
     coords: [15.2681, 49.9483],
     coordinates: { lat: 49.9483, lng: 15.2681 },
     description: {
@@ -1951,9 +1897,8 @@ image: "/poi-images/czechrepublic-kutna-hora-cities-v2.webp"
     id: "czechrepublic-jirkov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Görkau", hu: "Jirkov", ro: "Jirkov", en: "Jirkov",
-image: "/poi-images/czechrepublic-jirkov-cities-v2.webp"
-},
+    name: { de: "Görkau", hu: "Jirkov", ro: "Jirkov", en: "Jirkov"},
+    image: "/poi-images/czechrepublic-jirkov-cities-v2.webp",
     coords: [13.4475, 50.4994],
     coordinates: { lat: 50.4994, lng: 13.4475 },
     description: {
@@ -1987,9 +1932,8 @@ image: "/poi-images/czechrepublic-jirkov-cities-v2.webp"
     id: "czechrepublic-blansko-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Blansko", hu: "Blansko", ro: "Blansko", en: "Blansko",
-image: "/poi-images/czechrepublic-blansko-cities-v2.webp"
-},
+    name: { de: "Blansko", hu: "Blansko", ro: "Blansko", en: "Blansko"},
+    image: "/poi-images/czechrepublic-blansko-cities-v2.webp",
     coords: [16.6439, 49.3631],
     coordinates: { lat: 49.3631, lng: 16.6439 },
     description: {
@@ -2023,9 +1967,8 @@ image: "/poi-images/czechrepublic-blansko-cities-v2.webp"
     id: "czechrepublic-hranice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Mährisch Weißkirchen", hu: "Hranice", ro: "Hranice", en: "Hranice",
-image: "/poi-images/czechrepublic-hranice-cities-v2.webp"
-},
+    name: { de: "Mährisch Weißkirchen", hu: "Hranice", ro: "Hranice", en: "Hranice"},
+    image: "/poi-images/czechrepublic-hranice-cities-v2.webp",
     coords: [17.7347, 49.5483],
     coordinates: { lat: 49.5483, lng: 17.7347 },
     description: {
@@ -2059,9 +2002,8 @@ image: "/poi-images/czechrepublic-hranice-cities-v2.webp"
     id: "czechrepublic-beroun-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Beraun", hu: "Beroun", ro: "Beroun", en: "Beroun",
-image: "/poi-images/czechrepublic-beroun-cities-v2.webp"
-},
+    name: { de: "Beraun", hu: "Beroun", ro: "Beroun", en: "Beroun"},
+    image: "/poi-images/czechrepublic-beroun-cities-v2.webp",
     coords: [14.0719, 49.9639],
     coordinates: { lat: 49.9639, lng: 14.0719 },
     description: {
@@ -2095,9 +2037,8 @@ image: "/poi-images/czechrepublic-beroun-cities-v2.webp"
     id: "czechrepublic-zatec-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Saaz", hu: "Žatec", ro: "Žatec", en: "Žatec",
-image: "/poi-images/czechrepublic-zatec-cities-v2.webp"
-},
+    name: { de: "Saaz", hu: "Žatec", ro: "Žatec", en: "Žatec"},
+    image: "/poi-images/czechrepublic-zatec-cities-v2.webp",
     coords: [13.5431, 50.3283],
     coordinates: { lat: 50.3283, lng: 13.5431 },
     description: {
@@ -2131,9 +2072,8 @@ image: "/poi-images/czechrepublic-zatec-cities-v2.webp"
     id: "czechrepublic-louny-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Laun", hu: "Louny", ro: "Louny", en: "Louny",
-image: "/poi-images/czechrepublic-louny-cities-v2.webp"
-},
+    name: { de: "Laun", hu: "Louny", ro: "Louny", en: "Louny"},
+    image: "/poi-images/czechrepublic-louny-cities-v2.webp",
     coords: [13.7961, 50.3575],
     coordinates: { lat: 50.3575, lng: 13.7961 },
     description: {
@@ -2167,9 +2107,8 @@ image: "/poi-images/czechrepublic-louny-cities-v2.webp"
     id: "czechrepublic-nachod-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Nachod", hu: "Náchod", ro: "Náchod", en: "Náchod",
-image: "/poi-images/czechrepublic-nachod-cities-v2.webp"
-},
+    name: { de: "Nachod", hu: "Náchod", ro: "Náchod", en: "Náchod"},
+    image: "/poi-images/czechrepublic-nachod-cities-v2.webp",
     coords: [16.1628, 50.4169],
     coordinates: { lat: 50.4169, lng: 16.1628 },
     description: {
@@ -2203,9 +2142,8 @@ image: "/poi-images/czechrepublic-nachod-cities-v2.webp"
     id: "czechrepublic-marianske-lazne-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Marienbad", hu: "Mariánské Lázně", ro: "Mariánské Lázně", en: "Mariánské Lázně",
-image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp"
-},
+    name: { de: "Marienbad", hu: "Mariánské Lázně", ro: "Mariánské Lázně", en: "Mariánské Lázně"},
+    image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp",
     coords: [12.7011, 49.9647],
     coordinates: { lat: 49.9647, lng: 12.7011 },
     description: {
@@ -2239,9 +2177,8 @@ image: "/poi-images/czechrepublic-marianske-lazne-cities-v2.webp"
     id: "czechrepublic-pelhrimov-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Pilgrams", hu: "Pelhřimov", ro: "Pelhřimov", en: "Pelhřimov",
-image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp"
-},
+    name: { de: "Pilgrams", hu: "Pelhřimov", ro: "Pelhřimov", en: "Pelhřimov"},
+    image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp",
     coords: [15.2228, 49.4311],
     coordinates: { lat: 49.4311, lng: 15.2228 },
     description: {
@@ -2275,9 +2212,8 @@ image: "/poi-images/czechrepublic-pelhrimov-cities-v2.webp"
     id: "czechrepublic-slany-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Schlan", hu: "Slaný", ro: "Slaný", en: "Slaný",
-image: "/poi-images/czechrepublic-slany-cities-v2.webp"
-},
+    name: { de: "Schlan", hu: "Slaný", ro: "Slaný", en: "Slaný"},
+    image: "/poi-images/czechrepublic-slany-cities-v2.webp",
     coords: [14.0867, 50.2306],
     coordinates: { lat: 50.2306, lng: 14.0867 },
     description: {
@@ -2311,9 +2247,8 @@ image: "/poi-images/czechrepublic-slany-cities-v2.webp"
     id: "czechrepublic-vlasim-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Wlaschim", hu: "Vlašim", ro: "Vlašim", en: "Vlašim",
-image: "/poi-images/czechrepublic-vlasim-cities-v2.webp"
-},
+    name: { de: "Wlaschim", hu: "Vlašim", ro: "Vlašim", en: "Vlašim"},
+    image: "/poi-images/czechrepublic-vlasim-cities-v2.webp",
     coords: [14.8983, 49.7064],
     coordinates: { lat: 49.7064, lng: 14.8983 },
     description: {
@@ -2347,9 +2282,8 @@ image: "/poi-images/czechrepublic-vlasim-cities-v2.webp"
     id: "czechrepublic-humpolec-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Humpoletz", hu: "Humpolec", ro: "Humpolec", en: "Humpolec",
-image: "/poi-images/czechrepublic-humpolec-cities-v2.webp"
-},
+    name: { de: "Humpoletz", hu: "Humpolec", ro: "Humpolec", en: "Humpolec"},
+    image: "/poi-images/czechrepublic-humpolec-cities-v2.webp",
     coords: [15.3583, 49.5414],
     coordinates: { lat: 49.5414, lng: 15.3583 },
     description: {
@@ -2383,9 +2317,8 @@ image: "/poi-images/czechrepublic-humpolec-cities-v2.webp"
     id: "czechrepublic-domazlice-cities-v2",
     parent: "CZ",
     type: "city",
-    name: { de: "Taus", hu: "Domažlice", ro: "Domažlice", en: "Domažlice",
-image: "/poi-images/czechrepublic-domazlice-cities-v2.webp"
-},
+    name: { de: "Taus", hu: "Domažlice", ro: "Domažlice", en: "Domažlice"},
+    image: "/poi-images/czechrepublic-domazlice-cities-v2.webp",
     coords: [12.9297, 49.4406],
     coordinates: { lat: 49.4406, lng: 12.9297 },
     description: {
@@ -2413,5 +2346,934 @@ image: "/poi-images/czechrepublic-domazlice-cities-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "czechrepublic-benesov-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Benešov", hu: "Benešov", ro: "Benešov", en: "Benešov" },
+    coordinates: { lat: 49.7821, lng: 14.6865 },
+    description: {
+      de: "Benešov ist eine Stadt in der Mittelböhmischen Region. Sie liegt etwa 40 Kilometer südöstlich von Prag.",
+      hu: "Benešov a Közép-csehországi kerületben található város. Prágától mintegy 40 kilométerre délkeletre fekszik.",
+      ro: "Benešov este un oraș situat în Regiunea Boemia Centrală. Se află la aproximativ 40 de kilometri sud-est de Praga.",
+      en: "Benešov is a city in the Central Bohemian Region. It is situated approximately 40 kilometers southeast of Prague.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 17.000", "Erste Erwähnung: 1219", "Liegt in Mittelböhmen", "In der Nähe der Burg Konopiště"],
+      hu: ["Népesség: kb. 17 000", "Első említés: 1219", "Közép-Csehországban található", "A Konopiště kastély közelében"],
+      ro: ["Populație: aprox. 17.000", "Prima mențiune: 1219", "Situat în Boemia Centrală", "Aproape de castelul Konopiště"],
+      en: ["Population: approx. 17,000", "First mentioned: 1219", "Located in Central Bohemia", "Near Konopiště Castle"],
+    },
+    imageHint: "Benesov town square historic buildings",
+    descriptionAdvanced: {
+      de: "Benešov in Mittelböhmen liegt etwa 40 Kilometer südöstlich von Prag und ist vor allem durch das nahegelegene Schloss Konopiště, den einstigen Sitz von Erzherzog Franz Ferdinand, historisch bedeutend.",
+      hu: "A közép-csehországi Benešov története a 11. századig nyúlik vissza. A település legfőbb nevezetessége a Konopiště-kastély, amely Ferenc Ferdinánd trónörökös rezidenciája volt az első világháború előtt.",
+      ro: "Situat în regiunea Boemia Centrală, Benešov este un oraș cu peste 16.000 de locuitori, renumit pentru Castelul Konopiště din apropiere, care a servit ca reședință a arhiducelui Franz Ferdinand până în 1914.",
+      en: "Benešov is a town in the Central Bohemian Region of the Czech Republic, situated roughly 40 km from Prague. It is most famous for Konopiště Castle, the last residence of Archduke Franz Ferdinand of Austria.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Mittelböhmischen Region.", "Erste urkundliche Erwähnung im 11. Jahrhundert.", "Das Schloss Konopiště liegt 2 Kilometer westlich.", "Erzherzog Franz Ferdinand erwarb das Schloss im Jahr 1887.", "Die Stadt hat etwa 16.000 Einwohner.", "Die Entfernung zur Hauptstadt Prag beträgt 40 Kilometer."],
+      hu: ["A város népessége megközelítőleg 16 ezer fő.", "Ferenc Ferdinánd 1887-ben vásárolta meg a közeli kastélyt.", "A település első írásos emlékei a 11. századból származnak.", "Prágától 40 kilométerre délkeletre fekszik.", "A minorita kolostor romjai a 13. századra tehetők.", "A Konopiště-kastélyban hatalmas fegyver- és trófeagyűjtemény található."],
+      ro: ["Benešov are o populație de aproximativ 16.800 de locuitori.", "A fost menționat pentru prima dată în secolul al XI-lea.", "Castelul Konopiště se află la marginea orașului.", "Biserica Sfântul Nicolae a fost fondată în secolul al XIII-lea.", "Franz Ferdinand a fost asasinat la scurt timp după plecarea de aici, în 1914.", "Orașul este un centru administrativ în Boemia Centrală."],
+      en: ["Benešov has a population of around 16,800 residents.", "The town was first established in the 11th century.", "Located 40 km southeast of the national capital, Prague.", "Konopiště Castle is the primary local tourist attraction.", "The local Minorite monastery was burned by Hussites in 1420.", "Archduke Franz Ferdinand modernized the nearby castle in 1887."],
+    },
+  },
+  {
+    id: "czechrepublic-valasske-klobouky-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Valašské Klobouky", hu: "Valašské Klobouky", ro: "Valašské Klobouky", en: "Valašské Klobouky" },
+    coordinates: { lat: 49.1361, lng: 18.0108 },
+    description: {
+      de: "Valašské Klobouky ist eine Stadt im Zlíner Kreis. Sie ist ein Zentrum der Region Walachei.",
+      hu: "Valašské Klobouky a Zlíni kerületben található város. A Morva-Oláhország régió egyik központja.",
+      ro: "Valašské Klobouky este un oraș din Regiunea Zlín. Este un centru al regiunii Valahia Moravă.",
+      en: "Valašské Klobouky is a city in the Zlín Region. It is a center of the Moravian Wallachia region.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 5.000", "Region: Mährische Walachei", "Höhe: ca. 400 Meter", "Bekannt für Volkskunst"],
+      hu: ["Népesség: kb. 5 000", "Régió: Morva-Oláhország", "Magasság: kb. 400 méter", "Népművészetéről ismert"],
+      ro: ["Populație: aprox. 5.000", "Regiune: Valahia Moravă", "Altitudine: aprox. 400 metri", "Cunoscut pentru arta populară"],
+      en: ["Population: approx. 5,000", "Region: Moravian Wallachia", "Altitude: approx. 400 meters", "Known for folk art"],
+    },
+    imageHint: "Valasske Klobouky landscape",
+    descriptionAdvanced: {
+      de: "Historische Stadt in der Mährischen Walachei, bekannt für ihre volkstümliche Holzarchitektur und das reiche Erbe des Handwerks, das jährlich beim Adventsmarkt gefeiert wird.",
+      hu: "A morva-valach vidéken fekvő város népi építészetéről és kézműves hagyományairól nevezetes. Az 1356-ban alapított település adventi vására messze földön híres kulturális esemény.",
+      ro: "Oraș în regiunea Valahia Moravă, renumit pentru arhitectura sa populară din lemn și tradițiile meșteșugărești păstrate. Prima atestare documentară a localității datează din 1356.",
+      en: "Located in the Moravian Wallachia region, this town is famous for its folk wooden architecture and long-standing craft traditions, celebrated during its annual Advent markets.",
+    },
+    factsAdvanced: {
+      de: ["1356 Ersterwähnung", "440 m Meereshöhe", "Region Zlín", "4900 Einwohner"],
+      hu: ["1356-os első említés", "440 m tengerszint feletti magasság", "Zlíni régió", "4900 lakos"],
+      ro: ["Prima atestare în 1356", "Altitudine 440 m", "Regiunea Zlín", "4900 de locuitori"],
+      en: ["First mentioned in 1356", "Altitude 440 m", "Zlín Region", "4900 inhabitants"],
+    },
+  },
+  {
+    id: "czechrepublic-jesenik-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Jeseník", hu: "Jeseník", ro: "Jeseník", en: "Jeseník" },
+    coordinates: { lat: 50.2289, lng: 17.2025 },
+    description: {
+      de: "Jeseník ist eine Stadt im Altvatergebirge in der Region Olmütz. Sie ist als Kurort bekannt.",
+      hu: "Jeseník az Altvater-hegységben található város az Olomouci kerületben. Gyógyfürdőhelyként ismert.",
+      ro: "Jeseník este un oraș situat în Munții Jeseníky din Regiunea Olomouc. Este cunoscut ca stațiune balneară.",
+      en: "Jeseník is a city in the Jeseníky Mountains in the Olomouc Region. It is known as a spa town.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 11.000", "Altvatergebirge", "Kurort seit dem 19. Jahrhundert", "Gehört zur Region Olmütz"],
+      hu: ["Népesség: kb. 11 000", "Altvater-hegység", "Gyógyfürdőhely a 19. század óta", "Olomouci kerület része"],
+      ro: ["Populație: aprox. 11.000", "Munții Jeseníky", "Stațiune balneară din secolul al XIX-lea", "Parte a Regiunii Olomouc"],
+      en: ["Population: approx. 11,000", "Jeseníky Mountains", "Spa town since the 19th century", "Part of the Olomouc Region"],
+    },
+    imageHint: "Jesenik spa town architecture",
+    descriptionAdvanced: {
+      de: "Berühmte Kurstadt im Altvatergebirge, Geburtsort der modernen Hydrotherapie durch Vincenz Prießnitz. Die Stadt blickt auf eine bewegte Geschichte mit Hexenprozessen zurück.",
+      hu: "Az Altvater-hegységben fekvő fürdőváros a modern hidroterápia bölcsője, Vincenz Priessnitz munkássága révén. Történelme hírhedt 17. századi boszorkányperekhez is kapcsolódik.",
+      ro: "Oraș balnear situat în munții Altvater, cunoscut drept locul de naștere al hidroterapiei moderne prin Vincenz Priessnitz. Are un trecut marcat de procesele vrăjitoarelor.",
+      en: "A spa town in the Altvater Mountains, world-renowned as the birthplace of modern hydrotherapy by Vincenz Priessnitz. It has a dark history related to 17th-century witch trials.",
+    },
+    factsAdvanced: {
+      de: ["Gründung 1267", "Kurort seit 1822", "11000 Einwohner", "Jeseníky-Gebirge"],
+      hu: ["1267-ben alapították", "1822 óta fürdőváros", "11000 lakos", "Jeseníky-hegység"],
+      ro: ["Fondat în 1267", "Stațiune din 1822", "11000 de locuitori", "Munții Jeseníky"],
+      en: ["Founded in 1267", "Spa town since 1822", "11000 inhabitants", "Jeseníky Mountains"],
+    },
+  },
+  {
+    id: "czechrepublic-novy-jicin-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Nový Jičín", hu: "Nový Jičín", ro: "Nový Jičín", en: "Nový Jičín" },
+    coordinates: { lat: 49.5939, lng: 18.0108 },
+    description: {
+      de: "Nový Jičín liegt in Mährisch-Schlesien. Die Stadt besitzt einen gut erhaltenen historischen Stadtkern.",
+      hu: "Nový Jičín Morva-Sziléziában fekszik. A város jól megőrzött történelmi központtal rendelkezik.",
+      ro: "Nový Jičín este situat în Silezia Moraviană. Orașul are un centru istoric bine conservat.",
+      en: "Nový Jičín is located in Moravian-Silesia. The city has a well-preserved historic center.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 23.000", "Region: Mährisch-Schlesien", "Erste Erwähnung: 1313", "Bekannt für Hutproduktion"],
+      hu: ["Népesség: kb. 23 000", "Régió: Morva-Szilézia", "Első említés: 1313", "Kalapgyártásáról ismert"],
+      ro: ["Populație: aprox. 23.000", "Regiune: Silezia Moraviană", "Prima mențiune: 1313", "Cunoscut pentru producția de pălării"],
+      en: ["Population: approx. 23,000", "Region: Moravian-Silesia", "First mentioned: 1313", "Known for hat production"],
+    },
+    imageHint: "Novy Jicin main square",
+    descriptionAdvanced: {
+      de: "Die Stadt ist für ihren einzigartigen quadratischen Marktplatz mit Arkaden und ihre jahrhundertealte Tradition der Hutmacherei bekannt, die im lokalen Museum ausgestellt wird.",
+      hu: "A város különleges, árkádos főteréről és évszázados kalapkészítő hagyományairól híres. A Tonak gyár máig őrzi a mesterség hírnevét a Morva-sziléziai régió szívében.",
+      ro: "Oraș renumit pentru piața sa centrală pătrată cu arcade și tradiția seculară a fabricării pălăriilor. Centrul său istoric este protejat ca rezervație urbană din 1967.",
+      en: "Famous for its unique square market with arcades and a centuries-old hat-making tradition. The local Tonak factory has been producing world-class headwear since 1799.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1313", "Denkmalreservat seit 1967", "23000 Einwohner", "Hutmuseum"],
+      hu: ["1313-ban alapították", "Műemléki terület 1967-től", "23000 lakos", "Kalapmúzeum"],
+      ro: ["Fondat în 1313", "Rezervație istorică din 1967", "23000 locuitori", "Muzeul pălăriilor"],
+      en: ["Founded in 1313", "Heritage site since 1967", "23000 inhabitants", "Hat museum"],
+    },
+  },
+  {
+    id: "czechrepublic-hronov-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Hronov", hu: "Hronov", ro: "Hronov", en: "Hronov" },
+    coordinates: { lat: 50.4851, lng: 16.1953 },
+    description: {
+      de: "Hronov liegt in der Region Hradec Králové nahe der polnischen Grenze. Es ist der Geburtsort von Alois Jirásek.",
+      hu: "Hronov a Hradec Králové-i kerületben található, a lengyel határ közelében. Alois Jirásek szülőhelye.",
+      ro: "Hronov este situat în Regiunea Hradec Králové, lângă granița cu Polonia. Este locul de naștere al lui Alois Jirásek.",
+      en: "Hronov is located in the Hradec Králové Region near the Polish border. It is the birthplace of Alois Jirásek.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 6.000", "Region: Hradec Králové", "Geburtsort von Alois Jirásek", "Nahe der Grenze zu Polen"],
+      hu: ["Népesség: kb. 6 000", "Régió: Hradec Králové", "Alois Jirásek szülőhelye", "Közel a lengyel határhoz"],
+      ro: ["Populație: aprox. 6.000", "Regiune: Hradec Králové", "Locul de naștere al lui Alois Jirásek", "Aproape de granița cu Polonia"],
+      en: ["Population: approx. 6,000", "Region: Hradec Králové", "Birthplace of Alois Jirásek", "Near the Polish border"],
+    },
+    imageHint: "Hronov small town view",
+    descriptionAdvanced: {
+      de: "Geburtsort des Schriftstellers Alois Jirásek und Zentrum des Amateurtheaters. Jedes Jahr findet hier ein internationales Festival statt, das die tschechische Kultur feiert.",
+      hu: "Alois Jirásek író szülővárosa és a cseh amatőr színjátszás központja. Az 1931 óta megrendezett Jirásek Hronov fesztivál a legrégibb ilyen jellegű esemény Európában.",
+      ro: "Orașul natal al scriitorului Alois Jirásek și un important centru al teatrului de amatori. Găzduiește anual festivalul internațional Jiráskův Hronov, fondat în 1931.",
+      en: "The birthplace of writer Alois Jirásek and a hub for amateur theatre. It hosts an international theatre festival annually, maintaining a tradition that began in 1931.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1359", "364 m Meereshöhe", "Region Königgrätz", "Jiráskův Hronov Festival"],
+      hu: ["1359-es első említés", "364 m magasság", "Hradec Králové-i régió", "Színjátszó fesztivál"],
+      ro: ["Atestat în 1359", "Altitudine 364 m", "Regiunea Hradec Králové", "Festival de teatru"],
+      en: ["First mentioned 1359", "Altitude 364 m", "Hradec Králové Region", "Theatre festival"],
+    },
+  },
+  {
+    id: "czechrepublic-roznove-pod-radhostem-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Rožnov pod Radhoštěm", hu: "Rožnov pod Radhoštěm", ro: "Rožnov pod Radhoštěm", en: "Rožnov pod Radhoštěm" },
+    coordinates: { lat: 49.4542, lng: 18.1437 },
+    description: {
+      de: "Rožnov pod Radhoštěm liegt in der Mährischen Walachei. Die Stadt ist für ihr großes Freilichtmuseum bekannt.",
+      hu: "Rožnov pod Radhoštěm a Morva-Oláhországban fekszik. A város nagy szabadtéri néprajzi múzeumáról ismert.",
+      ro: "Rožnov pod Radhoštěm este situat în Valahia Moravă. Orașul este cunoscut pentru marele său muzeu în aer liber.",
+      en: "Rožnov pod Radhoštěm is located in Moravian Wallachia. The city is famous for its large open-air museum.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 16.000", "Freilichtmuseum Walachisches Dorf", "Region: Zlín", "Am Fluss Rožnovská Bečva"],
+      hu: ["Népesség: kb. 16 000", "Oláh szabadtéri múzeum", "Régió: Zlín", "A Rožnovská Bečva folyó mentén"],
+      ro: ["Populație: aprox. 16.000", "Muzeul satului valah în aer liber", "Regiune: Zlín", "Pe râul Rožnovská Bečva"],
+      en: ["Population: approx. 16,000", "Wallachian open-air museum", "Region: Zlín", "On the Rožnovská Bečva river"],
+    },
+    imageHint: "Roznov pod Radhostem open air museum",
+    descriptionAdvanced: {
+      de: "Rožnov pod Radhoštěm ist eine Stadt in der Region Zlín und gilt als kulturelles Zentrum der Mährischen Walachei, berühmt für das 1925 gegründete, weitläufige walachische Freilichtmuseum.",
+      hu: "A Zlíni kerületben, a Rožnovská Bečva folyó partján fekvő város a Morva Havasalföld kulturális központja. Az 1925-ben alapított szabadtéri néprajzi múzeum a régió népi építészetét mutatja be.",
+      ro: "Rožnov pod Radhoštěm, situat în regiunea Zlín, este poarta către regiunea istorică a Vlahiei Morave. Orașul găzduiește un faimos muzeu în aer liber, fondat în 1925, care conservă arhitectura tradițională.",
+      en: "Situated in the Zlín Region, Rožnov pod Radhoštěm is a major center of Wallachian culture. It lies along the Rožnovská Bečva river and features a renowned open-air museum established in 1925.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Region Zlín am Fuße der Beskiden.", "Das Walachische Freilichtmuseum wurde 1925 eröffnet.", "Die Stadt hat rund 16.000 Einwohner.", "Der nahegelegene Berg Radhošť ist 1129 Meter hoch.", "Der Fluss Rožnovská Bečva fließt durch die Stadt.", "Erste schriftliche Erwähnung stammt aus dem Jahr 1267."],
+      hu: ["A város lakossága körülbelül 16 ezer fő.", "Az 1129 méter magas Radhošť hegy lábánál fekszik.", "A Rožnovská Bečva folyó szeli át a települést.", "Az első írásos említése 1267-ből származik.", "A Walachiai Szabadtéri Múzeum 1925-ben nyílt meg.", "A 19. században klimatikus gyógyhelyként is ismert volt."],
+      ro: ["Orașul are o populație de aproximativ 16.200 de persoane.", "Muzeul în aer liber a fost înființat în anul 1925.", "Este situat pe râul Rožnovská Bečva.", "Prima documentare istorică a orașului datează din 1267.", "Muntele Radhošť din vecinătate atinge 1129 de metri.", "Dezvoltarea timpurie a fost legată de producția de sticlă și țesături."],
+      en: ["The population of the town is roughly 16,200.", "The Wallachian Open Air Museum was founded in 1925.", "It is located at the foot of the 1129m tall Radhošť mountain.", "The Rožnovská Bečva river flows directly through the town.", "First written records of the settlement date back to 1267.", "In the 19th century, it was known as a climatic spa town."],
+    },
+  },
+  {
+    id: "czechrepublic-frydlant-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Frýdlant", hu: "Frýdlant", ro: "Frýdlant", en: "Frýdlant" },
+    coordinates: { lat: 50.9205, lng: 15.0762 },
+    description: {
+      de: "Frýdlant ist eine Stadt im Liberecký kraj. Sie ist bekannt für ihr bedeutendes Schloss über der Stadt.",
+      hu: "Frýdlant a Libereci kerületben található város. A város felett álló jelentős kastélyáról ismert.",
+      ro: "Frýdlant este un oraș din Regiunea Liberec. Este cunoscut pentru castelul său important situat deasupra orașului.",
+      en: "Frýdlant is a city in the Liberec Region. It is known for its significant castle above the town.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 7.500", "Region: Liberec", "Bedeutende Schlossanlage", "Nahe der polnischen Grenze"],
+      hu: ["Népesség: kb. 7 500", "Régió: Liberec", "Jelentős kastélykomplexum", "Közel a lengyel határhoz"],
+      ro: ["Populație: aprox. 7.500", "Regiune: Liberec", "Castel important", "Aproape de granița cu Polonia"],
+      en: ["Population: approx. 7,500", "Region: Liberec", "Significant castle complex", "Near the Polish border"],
+    },
+    imageHint: "Frydlant castle landscape",
+    descriptionAdvanced: {
+      de: "Frýdlant in der Region Liberec liegt am Fluss Smědá nahe der polnischen Grenze. Das dominierende Frýdlant-Schloss war während des Dreißigjährigen Krieges im Besitz von Albrecht von Wallenstein.",
+      hu: "A Libereci kerület északi részén található Frýdlant a Smědá folyó partján fekszik. A település történelme szorosan összefonódik a Wallenstein-családdal és a 13. században épült monumentális várkastéllyal.",
+      ro: "Aflat în regiunea Liberec, pe râul Smědá, Frýdlant este un oraș istoric. Monumentul său central este Castelul Frýdlant, deținut în secolul al XVII-lea de faimosul comandant militar Albrecht von Wallenstein.",
+      en: "Frýdlant is a town in the Liberec Region on the Smědá river, situated near the Polish border. The town is dominated by Frýdlant Castle, notably owned by Albrecht von Wallenstein in the 17th century.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in der Region Liberec am Fluss Smědá.", "Die Stadt hat etwa 7.500 Einwohner.", "Das Schloss Frýdlant kombiniert Burg- und Schlossarchitektur.", "Albrecht von Wallenstein besaß die Herrschaft ab 1620.", "Das Rathaus im Neorenaissance-Stil wurde 1893 bis 1896 erbaut.", "Die erste urkundliche Erwähnung erfolgte im Jahr 1278."],
+      hu: ["A város népessége nagyjából 7500 fő.", "A Smědá folyó partján fekszik a lengyel határ közelében.", "Albrecht von Wallenstein 1620-ban szerezte meg a birtokot.", "A várkastély legrégebbi részei a 13. századból valók.", "A neoreneszánsz városháza 1896-ban készült el.", "1278-ban említik először írásos források."],
+      ro: ["Frýdlant are o populație de aproximativ 7.500 de locuitori.", "Este situat în nordul Boemiei, aproape de Polonia.", "Castelul Frýdlant este o combinație de fortăreață și palat renascentist.", "Albrecht von Wallenstein a condus ducatul între 1627 și 1634.", "Râul Smědá traversează centrul orașului.", "Primăria orașului a fost construită între 1893 și 1896."],
+      en: ["The town has a population of approximately 7,500.", "Located in the Liberec Region near the Polish border.", "The historic Frýdlant Castle dates back to the 13th century.", "Albrecht von Wallenstein acquired the estate in 1620.", "The Smědá river flows through the town.", "The Neo-Renaissance town hall was completed in 1896."],
+    },
+  },
+  {
+    id: "czechrepublic-turnov-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Turnov", hu: "Turnov", ro: "Turnov", en: "Turnov" },
+    coordinates: { lat: 50.5855, lng: 15.1524 },
+    description: {
+      de: "Turnov liegt im Böhmischen Paradies in der Region Liberec. Die Stadt ist ein bekanntes Zentrum für Edelsteinschleiferei.",
+      hu: "Turnov a Cseh Paradicsomban fekszik, a Libereci kerületben. A város a drágakő-csiszolás ismert központja.",
+      ro: "Turnov este situat în Paradisul Boem, în Regiunea Liberec. Orașul este un centru cunoscut pentru tăierea pietrelor prețioase.",
+      en: "Turnov is located in the Bohemian Paradise in the Liberec Region. The city is a known center for gemstone cutting.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 14.000", "Zentrum des Böhmischen Paradieses", "Edelsteinverarbeitung", "Region: Liberec"],
+      hu: ["Népesség: kb. 14 000", "A Cseh Paradicsom központja", "Drágakő-megmunkálás", "Régió: Liberec"],
+      ro: ["Populație: aprox. 14.000", "Centrul Paradisului Boem", "Prelucrarea pietrelor prețioase", "Regiune: Liberec"],
+      en: ["Population: approx. 14,000", "Center of Bohemian Paradise", "Gemstone processing", "Region: Liberec"],
+    },
+    imageHint: "Turnov town view Bohemian Paradise",
+    descriptionAdvanced: {
+      de: "Turnov liegt in der Region Liberec am Fluss Jizera und gilt als das Herz des Böhmischen Paradieses. Die Stadt besitzt eine lange Tradition in der Edelsteinverarbeitung, insbesondere des Böhmischen Granats.",
+      hu: "A Libereci kerületben fekvő Turnovot a Cseh Paradicsom (Český ráj) kapujaként tartják számon. A Jizera folyó mentén épült város évszázadok óta a cseh gránátfeldolgozás és az ékszerkészítés központja.",
+      ro: "Turnov este un oraș în regiunea Liberec, situat pe râul Jizera. Este recunoscut drept centrul istoric al regiunii „Paradisul Boemian” și este faimos la nivel mondial pentru prelucrarea pietrelor de granat.",
+      en: "Turnov is a town in the Liberec Region, situated on the Jizera river. It is widely considered the heart of the Bohemian Paradise (Český ráj) and is historically famous for the processing of Bohemian garnets.",
+    },
+    factsAdvanced: {
+      de: ["Turnov hat etwa 14.500 Einwohner.", "Die Stadt wurde 1272 von Jaroslav und Havel von Markvartice gegründet.", "Liegt am Fluss Jizera im Böhmischen Paradies.", "Seit dem 16. Jahrhundert Zentrum der Edelsteinverarbeitung.", "Das Museum des Böhmischen Paradieses befindet sich hier.", "Die Burg Valdštejn liegt wenige Kilometer südlich der Stadt."],
+      hu: ["A település lakossága mintegy 14 500 fő.", "Turnovot 1272-ben alapították a Markvartice család tagjai.", "A Jizera folyó szeli ketté a várost.", "A 16. század óta az ékszeripar jelentős központja.", "A város a 400 km²-es Cseh Paradicsom geopark központja.", "A Valdštejn vár romjai a város közelében találhatók."],
+      ro: ["Orașul are o populație de aproximativ 14.500 de locuitori.", "A fost fondat în anul 1272 de nobilimea locală.", "Este situat pe râul Jizera.", "Muzeul Paradisului Boemian expune pietre prețioase locale.", "Tradiția prelucrării granatului a început în secolul al XVI-lea.", "Turnov servește ca poartă către rezervația naturală Paradisul Boemian."],
+      en: ["Turnov has a population of around 14,500 residents.", "The town was founded in 1272 by the Markvartice family.", "It is located on the Jizera river in the Liberec Region.", "A center for cutting and polishing Bohemian garnet since the 1500s.", "The Museum of the Bohemian Paradise is located in the town.", "Turnov is the starting point for exploring the 400 sq km Bohemian Paradise."],
+    },
+  },
+  {
+    id: "czechrepublic-usti-nad-orlici-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Ústí nad Orlicí", hu: "Ústí nad Orlicí", ro: "Ústí nad Orlicí", en: "Ústí nad Orlicí" },
+    coordinates: { lat: 49.9757, lng: 16.3934 },
+    description: {
+      de: "Ústí nad Orlicí liegt in der Region Pardubice am Zusammenfluss der Flüsse Tichá Orlice und Třebovka.",
+      hu: "Ústí nad Orlicí a Pardubicei kerületben fekszik, a Tichá Orlice és a Třebovka folyók összefolyásánál.",
+      ro: "Ústí nad Orlicí este situat în Regiunea Pardubice, la confluența râurilor Tichá Orlice și Třebovka.",
+      en: "Ústí nad Orlicí is located in the Pardubice Region at the confluence of the Tichá Orlice and Třebovka rivers.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 14.000", "Region: Pardubice", "Industrielle Tradition", "Zusammenfluss zweier Flüsse"],
+      hu: ["Népesség: kb. 14 000", "Régió: Pardubice", "Ipari hagyományok", "Két folyó összefolyása"],
+      ro: ["Populație: aprox. 14.000", "Regiune: Pardubice", "Tradiții industriale", "Confluența a două râuri"],
+      en: ["Population: approx. 14,000", "Region: Pardubice", "Industrial tradition", "Confluence of two rivers"],
+    },
+    imageHint: "Usti nad Orlici river landscape",
+    descriptionAdvanced: {
+      de: "Ústí nad Orlicí in der Pardubitzer Region liegt am Zusammenfluss von Třebovka und Tichá Orlice. Die Stadt entwickelte sich im 19. Jahrhundert zu einem wichtigen Eisenbahnknotenpunkt und Textilzentrum.",
+      hu: "A Pardubicei kerületben, a Třebovka és a Tichá Orlice folyók összefolyásánál fekszik Ústí nad Orlicí. A város fejlődését az 1845-ben átadott vasútvonal és a fellendülő textilipar határozta meg a 19. században.",
+      ro: "Situat în regiunea Pardubice, Ústí nad Orlicí se află la confluența râurilor Třebovka și Tichá Orlice. Orașul a devenit un important nod feroviar în anul 1845, dezvoltând o puternică industrie textilă.",
+      en: "Ústí nad Orlicí is located in the Pardubice Region at the confluence of the Třebovka and Tichá Orlice rivers. It grew significantly in the 19th century as a major railway junction and a center of the textile industry.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat knapp 14.000 Einwohner.", "Sie liegt am Zusammenfluss der Flüsse Třebovka und Tichá Orlice.", "Gegründet um das Jahr 1241 durch Wilhelm von Dürnholz.", "Der Bahnhof wurde im Jahr 1845 in Betrieb genommen.", "Die historische Altstadt steht unter Denkmalschutz.", "Das historische Bahnhofsgebäude von 1874 blieb als Denkmal erhalten."],
+      hu: ["A lakosság száma megközelítőleg 14 000 fő.", "A város az 1241-es évek körül jött létre.", "A Tichá Orlice és a Třebovka folyók találkozásánál fekszik.", "1845-ben csatlakozott a Prága-Olmütz vasútvonalhoz.", "A 19. században jelentős textilipari központtá vált.", "Történelmi központja 1990 óta városi műemlékvédelmi zóna."],
+      ro: ["Ústí nad Orlicí are o populație de aproximativ 14.000 de locuitori.", "Orașul a fost fondat în jurul anului 1241.", "Se află la convergența râurilor Třebovka și Tichá Orlice.", "Conexiunea feroviară cu Praga a fost deschisă în 1845.", "Vechea clădire a gării din 1874 a fost salvată de la demolare.", "Timp de decenii, orașul a fost poreclit „Manchesterul Boemiei” pentru textile."],
+      en: ["The town has a population of roughly 14,000 residents.", "Founded around 1241 during the colonization by Wilhelm of Dürnholz.", "Located at the confluence of the Třebovka and Tichá Orlice rivers.", "The railway line connecting to Prague opened in 1845.", "The historic passenger railway station building dates from 1874.", "The town historically thrived on its large-scale textile industry."],
+    },
+  },
+  {
+    id: "czechrepublic-dvur-kralove-nad-labem-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Dvůr Králové nad Labem", hu: "Dvůr Králové nad Labem", ro: "Dvůr Králové nad Labem", en: "Dvůr Králové nad Labem" },
+    coordinates: { lat: 50.4328, lng: 15.8115 },
+    description: {
+      de: "Dvůr Králové nad Labem liegt in der Region Hradec Králové. Die Stadt ist für ihren Safaripark bekannt.",
+      hu: "Dvůr Králové nad Labem a Hradec Králové-i kerületben található. A város szafariparkjáról híres.",
+      ro: "Dvůr Králové nad Labem este situat în Regiunea Hradec Králové. Orașul este cunoscut pentru parcul său safari.",
+      en: "Dvůr Králové nad Labem is located in the Hradec Králové Region. The city is famous for its safari park.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 15.000", "Safaripark vorhanden", "Region: Hradec Králové", "Am Fluss Elbe"],
+      hu: ["Népesség: kb. 15 000", "Szafaripark", "Régió: Hradec Králové", "Az Elbe folyó mentén"],
+      ro: ["Populație: aprox. 15.000", "Parc safari", "Regiune: Hradec Králové", "Pe râul Elba"],
+      en: ["Population: approx. 15,000", "Safari park", "Region: Hradec Králové", "On the Elbe river"],
+    },
+    imageHint: "Dvur Kralove safari park animals",
+    descriptionAdvanced: {
+      de: "Dvůr Králové nad Labem liegt in der Region Hradec Králové am Ufer der Elbe. Internationale Bekanntheit erlangte die Stadt durch den großen Safari-Park, der 1946 eröffnet wurde und afrikanische Tiere beheimatet.",
+      hu: "Az Elba folyó partján fekvő Dvůr Králové nad Labem a Hradec Králové-i kerületben található. Legfőbb vonzereje az 1946-ban alapított szafaripark és állatkert, amely afrikai állatfajok tenyésztésére specializálódott.",
+      ro: "Situat în regiunea Hradec Králové, pe fluviul Elba, Dvůr Králové nad Labem este cunoscut la nivel global pentru parcul său Safari. Fondat în 1946, parcul este specializat în conservarea faunei sălbatice africane.",
+      en: "Dvůr Králové nad Labem is located in the Hradec Králové Region along the Elbe river. The town is famous for the Safari Park Dvůr Králové, opened in 1946, which focuses extensively on breeding African wildlife.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat etwa 15.000 Einwohner.", "Erstmals erwähnt im Jahr 1270.", "Die Stadt liegt am Oberlauf der Elbe (Labe).", "Der Safari Park Dvůr Králové wurde 1946 eröffnet.", "Der Zoo beherbergt eine der größten Herden afrikanischer Huftiere.", "Die Textilindustrie prägte die städtische Wirtschaft im 19. Jahrhundert."],
+      hu: ["A város lakossága mintegy 15 000 fő.", "Az első írásos említése 1270-ből származik.", "Az Elba (Labe) folyó völgyében fekszik.", "A helyi szafaripark 1946 óta fogadja a látogatókat.", "Az állatkert fókuszában az afrikai patás állatok védelme áll.", "Történelmileg egykor a cseh királynék birtoka volt."],
+      ro: ["Orașul are o populație de aproximativ 15.000 de locuitori.", "A fost menționat pentru prima dată într-un document din 1270.", "Este traversat de cursul superior al fluviului Elba.", "Parcul Safari Dvůr Králové a fost fondat în 1946.", "Grădina zoologică are una dintre cele mai mari colecții de animale africane din Europa.", "Orașul are un istoric puternic în producția de materiale textile."],
+      en: ["The town has a population of approximately 15,000 residents.", "The first written mention of the settlement dates to 1270.", "It is situated on the upper course of the Elbe river.", "The Safari Park Dvůr Králové was established in 1946.", "The zoo is a major center for captive breeding of African ungulates.", "The town was historically a dowry town of the Bohemian queens."],
+    },
+  },
+  {
+    id: "czechrepublic-semily-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Semily", hu: "Semily", ro: "Semily", en: "Semily" },
+    coordinates: { lat: 50.6033, lng: 15.3333 },
+    description: {
+      de: "Semily liegt in der Region Liberec. Die Stadt dient als Tor zum Geopark Böhmisches Paradies.",
+      hu: "Semily a Libereci kerületben fekszik. A város kapu a Cseh Paradicsom Geoparkhoz.",
+      ro: "Semily este situat în Regiunea Liberec. Orașul servește drept poartă către Geoparcul Paradisul Boem.",
+      en: "Semily is located in the Liberec Region. The city serves as a gateway to the Bohemian Paradise Geopark.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 8.000", "Region: Liberec", "Tor zum Böhmischen Paradies", "Am Fluss Iser"],
+      hu: ["Népesség: kb. 8 000", "Régió: Liberec", "Kapu a Cseh Paradicsomhoz", "Az Iser folyó mentén"],
+      ro: ["Populație: aprox. 8.000", "Regiune: Liberec", "Poarta către Paradisul Boem", "Pe râul Jizera"],
+      en: ["Population: approx. 8,000", "Region: Liberec", "Gateway to Bohemian Paradise", "On the Jizera river"],
+    },
+    imageHint: "Semily town landscape",
+    descriptionAdvanced: {
+      de: "Industriestadt am Zusammenfluss von Iser und Oleška, am Rande des Böhmischen Paradieses gelegen. Sie ist bekannt für ihre Textilgeschichte und den nahen Riegrovy-Weg.",
+      hu: "Az Iser és az Oleška folyók összefolyásánál fekvő iparváros a Cseh Paradicsom kapujában. Textiliparáról és a közeli sziklák mentén futó Riegrovy-ösvényről nevezetes.",
+      ro: "Oraș industrial la confluența râurilor Jizera și Oleška, situat la marginea Paradisului Ceh. Este cunoscut pentru istoria sa textilă și traseul spectaculos Riegrova stezka.",
+      en: "An industrial town at the confluence of the Jizera and Oleška rivers, gateway to the Bohemian Paradise. It is noted for its textile history and the scenic Rieger Trail nearby.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1352", "318 m Meereshöhe", "Liberecer Region", "8300 Einwohner"],
+      hu: ["1352-es első említés", "318 m magasság", "Libereci régió", "8300 lakos"],
+      ro: ["Atestat în 1352", "Altitudine 318 m", "Regiunea Liberec", "8300 de locuitori"],
+      en: ["First mentioned 1352", "Altitude 318 m", "Liberec Region", "8300 inhabitants"],
+    },
+  },
+  {
+    id: "czechrepublic-benatky-nad-jizerou-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Benátky nad Jizerou", hu: "Benátky nad Jizerou", ro: "Benátky nad Jizerou", en: "Benátky nad Jizerou" },
+    coordinates: { lat: 50.2882, lng: 14.8315 },
+    description: {
+      de: "Benátky nad Jizerou liegt in der Mittelböhmischen Region. Es ist für sein Schloss und die historische Atmosphäre bekannt.",
+      hu: "Benátky nad Jizerou a Közép-csehországi kerületben fekszik. Kastélyáról és történelmi hangulatáról ismert.",
+      ro: "Benátky nad Jizerou este situat în Regiunea Boemia Centrală. Este cunoscut pentru castelul său și atmosfera istorică.",
+      en: "Benátky nad Jizerou is located in the Central Bohemian Region. It is known for its castle and historic atmosphere.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 7.500", "Region: Mittelböhmen", "Schloss im Ort", "Am Fluss Iser"],
+      hu: ["Népesség: kb. 7 500", "Régió: Közép-Csehország", "Kastély a városban", "Az Iser folyó mentén"],
+      ro: ["Populație: aprox. 7.500", "Regiune: Boemia Centrală", "Castel în localitate", "Pe râul Jizera"],
+      en: ["Population: approx. 7,500", "Region: Central Bohemia", "Castle in the town", "On the Jizera river"],
+    },
+    imageHint: "Benatky nad Jizerou castle",
+    descriptionAdvanced: {
+      de: "Benátky nad Jizerou liegt in der Mittelböhmischen Region beiderseits des Flusses Jizera. Das örtliche Schloss war 1599 der Wohnort des dänischen Astronomen Tycho Brahe, der hier im Auftrag von Rudolf II. forschte.",
+      hu: "A közép-csehországi Benátky nad Jizerou a Jizera folyó mentén épült fel. 1599-ben a helyi kastélyban élt és dolgozott Tycho Brahe dán csillagász, II. Rudolf német-római császár udvari tudósaként.",
+      ro: "Benátky nad Jizerou, situat în regiunea Boemia Centrală pe râul Jizera, are o istorie științifică bogată. În 1599, astronomul Tycho Brahe a locuit în castelul local, construind un observator pentru împăratul Rudolf II.",
+      en: "Benátky nad Jizerou is a town in the Central Bohemian Region, located on the Jizera river. In 1599, the local castle served as the observatory and residence for the famous Danish astronomer Tycho Brahe.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat rund 7.500 Einwohner.", "Sie liegt am Fluss Jizera, etwa 40 km nordöstlich von Prag.", "Erste urkundliche Erwähnung im 11. Jahrhundert.", "Das Schloss Benátky nad Jizerou wurde ab 1525 im Renaissancestil erbaut.", "Tycho Brahe ließ hier 1599 ein Observatorium errichten.", "Auch Johannes Kepler besuchte Brahe hier im Jahr 1600."],
+      hu: ["A település lakossága körülbelül 7500 fő.", "A Jizera folyó partján fekszik, Prágától 40 km-re.", "A 11. században már oklevelek is említik a helyet.", "A várkastély reneszánsz stílusú építése 1525-ben kezdődött.", "Tycho Brahe csillagvizsgálót rendezett be itt 1599-ben.", "Johannes Kepler is dolgozott itt egy rövid ideig 1600-ban."],
+      ro: ["Populația orașului se ridică la aproximativ 7.500 de persoane.", "Se află la 40 de kilometri nord-est de capitala Praga.", "Orașul a fost atestat documentar în secolul al XI-lea.", "Castelul renascentist a fost construit începând cu anul 1525.", "Astronomul Tycho Brahe a trăit și lucrat la castel în 1599.", "Johannes Kepler l-a vizitat pe Brahe aici pentru colaborare științifică."],
+      en: ["The town has a population of roughly 7,500 residents.", "It is located on the Jizera river, 40 km northeast of Prague.", "First historical records of the town date back to the 11th century.", "The Renaissance castle was built starting in 1525.", "Astronomer Tycho Brahe established an observatory here in 1599.", "Johannes Kepler joined Brahe at this location in 1600."],
+    },
+  },
+  {
+    id: "czechrepublic-rumburk-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Rumburk", hu: "Rumburk", ro: "Rumburk", en: "Rumburk" },
+    coordinates: { lat: 50.9529, lng: 14.5574 },
+    description: {
+      de: "Rumburk liegt im äußersten Norden der Region Ústí nad Labem. Es ist die größte Stadt des Schluckenauer Zipfels.",
+      hu: "Rumburk az Ústí nad Labem-i kerület legészakibb részén található. A Schluckenau-nyúlvány legnagyobb városa.",
+      ro: "Rumburk este situat în extremitatea nordică a Regiunii Ústí nad Labem. Este cel mai mare oraș din regiunea Schluckenauer Zipfel.",
+      en: "Rumburk is located in the far north of the Ústí nad Labem Region. It is the largest city in the Schluckenau Hook region.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 11.000", "Schluckenauer Zipfel", "Region: Ústí nad Labem", "Grenznah"],
+      hu: ["Népesség: kb. 11 000", "Schluckenau-nyúlvány", "Régió: Ústí nad Labem", "Határközeli"],
+      ro: ["Populație: aprox. 11.000", "Schluckenauer Zipfel", "Regiune: Ústí nad Labem", "Aproape de graniță"],
+      en: ["Population: approx. 11,000", "Schluckenau Hook", "Region: Ústí nad Labem", "Near the border"],
+    },
+    imageHint: "Rumburk town historic square",
+    descriptionAdvanced: {
+      de: "Eine Stadt im Schluckenauer Zipfel mit einer berühmten Loreto-Kapelle. Bekannt wurde sie 1918 durch den Rumburger Aufstand tschechischer Soldaten gegen die Monarchie.",
+      hu: "A Šluknovi-kiszögellés városa, amely híres Loretói kápolnájáról ismert. Történelmi jelentőségét az 1918-as rumburki katonalázadás adja az Osztrák-Magyar Monarchia ellen.",
+      ro: "Oraș în regiunea Șluknov, faimos pentru Capela Loreta. Este istoric cunoscut pentru revolta soldaților din 1918 împotriva monarhiei Austro-Ungare.",
+      en: "Located in the Šluknov Hook, this town features a famous Loreto Chapel. It is historically significant for the 1918 Rumburk Rebellion of soldiers against the monarchy.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1298", "Loreto-Kapelle von 1704", "Region Aussig", "11000 Einwohner"],
+      hu: ["1298-as első említés", "Loretói kápolna 1704-ből", "Ústí régió", "11000 lakos"],
+      ro: ["Atestat în 1298", "Capela Loreta din 1704", "Regiunea Ústí", "11000 locuitori"],
+      en: ["First mentioned 1298", "Loreto Chapel from 1704", "Ústí Region", "11000 inhabitants"],
+    },
+  },
+  {
+    id: "czechrepublic-kralupy-nad-vltavou-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Kralupy nad Vltavou", hu: "Kralupy nad Vltavou", ro: "Kralupy nad Vltavou", en: "Kralupy nad Vltavou" },
+    coordinates: { lat: 50.2407, lng: 14.3129 },
+    description: {
+      de: "Kralupy nad Vltavou liegt in der Mittelböhmischen Region nördlich von Prag. Es ist ein wichtiger Verkehrsknotenpunkt.",
+      hu: "Kralupy nad Vltavou a Közép-csehországi kerületben fekszik, Prágától északra. Jelentős közlekedési csomópont.",
+      ro: "Kralupy nad Vltavou este situat în Regiunea Boemia Centrală, la nord de Praga. Este un nod de transport important.",
+      en: "Kralupy nad Vltavou is located in the Central Bohemian Region north of Prague. It is an important transport hub.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 18.000", "Region: Mittelböhmen", "Verkehrsknotenpunkt", "Am Fluss Moldau"],
+      hu: ["Népesség: kb. 18 000", "Régió: Közép-Csehország", "Közlekedési csomópont", "A Moldva folyó mentén"],
+      ro: ["Populație: aprox. 18.000", "Regiune: Boemia Centrală", "Nod de transport", "Pe râul Vltava"],
+      en: ["Population: approx. 18,000", "Region: Central Bohemia", "Transport hub", "On the Vltava river"],
+    },
+    imageHint: "Kralupy nad Vltavou river bridge",
+    descriptionAdvanced: {
+      de: "Kralupy nad Vltavou in Mittelböhmen liegt an der Moldau und ist ein bedeutender Industriestandort. Im 19. Jahrhundert wurde die Stadt durch den Eisenbahnbau erschlossen und ist heute für ihre Raffinerien bekannt.",
+      hu: "A közép-csehországi Kralupy nad Vltavou a Moldva folyó partján terül el. A település a 19. századi vasútépítéseknek köszönhetően indult fejlődésnek, napjainkban pedig az ország egyik legfontosabb vegyipari központja.",
+      ro: "Situat pe râul Vltava în Boemia Centrală, Kralupy nad Vltavou este un centru industrial cheie. Dezvoltarea sa a explodat în anii 1850 datorită căilor ferate, iar astăzi găzduiește rafinării de petrol și petrochimie.",
+      en: "Kralupy nad Vltavou is an industrial town in the Central Bohemian Region on the Vltava river. It experienced rapid growth in the 1850s due to railway expansion and is now a major center for oil refining and petrochemicals.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat etwa 18.000 Einwohner.", "Sie liegt am Fluss Moldau (Vltava).", "Der Bahnhof wurde im Jahr 1850 eröffnet.", "Kralupy erhielt 1902 das offizielle Stadtrecht.", "Die Erdölraffinerie ist eine der wichtigsten in Tschechien.", "Der Dichter Jaroslav Seifert verbrachte hier oft seine Zeit."],
+      hu: ["A lakosság száma megközelítőleg 18 000 fő.", "A Moldva (Vltava) folyó szeli át a várost.", "A vasúti csatlakozás 1850-ben készült el.", "Kralupy 1902-ben kapott hivatalos városi rangot.", "A város kőolajfinomítója (ČEPRO, MERO) nemzeti jelentőségű.", "Jaroslav Seifert Nobel-díjas cseh költő nyughelye a helyi temetőben van."],
+      ro: ["Kralupy nad Vltavou are aproximativ 18.000 de locuitori.", "Orașul se află pe malurile râului Vltava.", "Calea ferată a ajuns în localitate în anul 1850.", "Statutul de oraș a fost obținut oficial în 1902.", "Orașul găzduiește o rafinărie majoră de petrol și o fabrică de cauciuc sintetic.", "Mormântul poetului Jaroslav Seifert, laureat Nobel, se află aici."],
+      en: ["The town has a population of approximately 18,000.", "It is situated on both banks of the Vltava river.", "The pivotal railway line opened in 1850.", "Kralupy officially gained town privileges in 1902.", "The town is home to a major oil refinery and synthetic rubber plant.", "Nobel laureate poet Jaroslav Seifert is buried in the town's cemetery."],
+    },
+  },
+  {
+    id: "czechrepublic-velke-mezirici-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Velké Meziříčí", hu: "Velké Meziříčí", ro: "Velké Meziříčí", en: "Velké Meziříčí" },
+    coordinates: { lat: 49.3551, lng: 16.0153 },
+    description: {
+      de: "Velké Meziříčí liegt in der Region Vysočina. Die Stadt ist durch eine markante Autobahnbrücke bekannt.",
+      hu: "Velké Meziříčí a Vysočina kerületben található. A várost egy jellegzetes autópálya-híd teszi ismertté.",
+      ro: "Velké Meziříčí este situat în Regiunea Vysočina. Orașul este cunoscut pentru un pod autostradal proeminent.",
+      en: "Velké Meziříčí is located in the Vysočina Region. The city is known for a distinctive motorway bridge.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 11.500", "Region: Vysočina", "Markante Autobahnbrücke", "Historisches Zentrum"],
+      hu: ["Népesség: kb. 11 500", "Régió: Vysočina", "Jellegzetes autópálya-híd", "Történelmi központ"],
+      ro: ["Populație: aprox. 11.500", "Regiune: Vysočina", "Pod autostradal proeminent", "Centru istoric"],
+      en: ["Population: approx. 11,500", "Region: Vysočina", "Distinctive motorway bridge", "Historic center"],
+    },
+    imageHint: "Velke Mezirici highway bridge",
+    descriptionAdvanced: {
+      de: "Velké Meziříčí in der Region Vysočina liegt am Zusammenfluss der Flüsse Oslava und Balinka. Markant ist die 425 Meter lange Autobahnbrücke der D1, die das Flusstal direkt über der Stadt überspannt.",
+      hu: "A Vysočina kerületben található Velké Meziříčí az Oslava és a Balinka folyók összefolyásánál épült. A település arculatát meghatározza a völgy felett átívelő, 425 méter hosszú és 77 méter magas D1-es autópályahíd.",
+      ro: "Velké Meziříčí, în regiunea Vysočina, este așezat la confluența râurilor Oslava și Balinka. Orașul este dominat vizual de podul autostrăzii D1, cu o lungime de 425 de metri, care traversează valea chiar deasupra sa.",
+      en: "Velké Meziříčí is a town in the Vysočina Region, located at the confluence of the Oslava and Balinka rivers. The town is visually dominated by the 425-meter-long D1 highway bridge crossing the valley above it.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat rund 11.500 Einwohner.", "Erste urkundliche Erwähnung im Jahr 1197.", "Die Flüsse Oslava und Balinka fließen hier zusammen.", "Die Vysočina-Brücke der Autobahn D1 wurde 1978 fertiggestellt.", "Die Brücke überspannt das Tal in einer Höhe von 77 Metern.", "Das Schloss Velké Meziříčí geht auf eine romanische Burg zurück."],
+      hu: ["A település lakossága mintegy 11 500 fő.", "Első ismert írásos említése 1197-ből származik.", "Az Oslava és a Balinka folyók találkozási pontja.", "A 77 méter magas Vysočina hidat 1978-ban adták át a forgalomnak.", "A D1-es autópálya hídja 425 méter hosszan ível a völgy felett.", "A helyi várkastély alapjai a román kori építészet jegyeit viselik."],
+      ro: ["Populația orașului numără în jur de 11.500 de locuitori.", "Prima mențiune documentară a așezării este din 1197.", "Râurile Oslava și Balinka se unesc în centrul orașului.", "Podul autostrăzii Vysočina a fost inaugurat în 1978.", "Podul are 425 metri lungime și se înalță la 77 metri deasupra văii.", "Castelul orașului a fost inițial o fortăreață romanică."],
+      en: ["The town has a population of approximately 11,500 residents.", "First explicitly mentioned in historical records in 1197.", "Positioned at the confluence of the Oslava and Balinka rivers.", "The D1 highway bridge (Vysočina bridge) was opened in 1978.", "The bridge is 425 meters long and 77 meters high.", "The town's castle evolved from an original Romanesque fortress."],
+    },
+  },
+  {
+    id: "czechrepublic-cesky-brod-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Český Brod", hu: "Český Brod", ro: "Český Brod", en: "Český Brod" },
+    coordinates: { lat: 50.0734, lng: 14.8569 },
+    description: {
+      de: "Český Brod liegt in der Mittelböhmischen Region östlich von Prag. Es ist eine historische Stadt mit mittelalterlichem Ursprung.",
+      hu: "Český Brod a Közép-csehországi kerületben fekszik, Prágától keletre. Történelmi város, középkori eredettel.",
+      ro: "Český Brod este situat în Regiunea Boemia Centrală, la est de Praga. Este un oraș istoric cu origine medievală.",
+      en: "Český Brod is located in the Central Bohemian Region east of Prague. It is a historic city with medieval origins.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 7.000", "Region: Mittelböhmen", "Historische Stadt", "Östlich von Prag"],
+      hu: ["Népesség: kb. 7 000", "Régió: Közép-Csehország", "Történelmi város", "Prágától keletre"],
+      ro: ["Populație: aprox. 7.000", "Regiune: Boemia Centrală", "Oraș istoric", "La est de Praga"],
+      en: ["Population: approx. 7,000", "Region: Central Bohemia", "Historic city", "East of Prague"],
+    },
+    imageHint: "Cesky Brod town square",
+    descriptionAdvanced: {
+      de: "Český Brod ist eine historische Stadt in Mittelböhmen. Sie wurde im 12. Jahrhundert vom Prager Bischof gegründet und liegt unweit des Schauplatzes der Schlacht bei Lipany, die 1434 stattfand.",
+      hu: "A közép-csehországi Český Brod történelmi városát a 12. században a prágai püspök alapította. A település történetében fontos szerepet játszott az 1434-es lipany-i csata, amely a közelben zajlott le.",
+      ro: "Český Brod este un oraș istoric în Boemia Centrală, fondat în secolul al XII-lea de episcopul de Praga. Orașul este situat aproape de câmpul de luptă de la Lipany, unde forțele husite au fost înfrânte în 1434.",
+      en: "Český Brod is a historical town in the Central Bohemian Region, founded in the 12th century by the Bishop of Prague. It lies close to the site of the 1434 Battle of Lipany, a decisive clash in the Hussite Wars.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat etwa 7.000 Einwohner.", "Gegründet im 12. Jahrhundert durch Bischof Johann I. von Prag.", "Die gotische Kirche St. Gothard stammt aus dem 14. Jahrhundert.", "Die Schlacht bei Lipany (1434) fand nahe der Stadt statt.", "Bis heute sind Teile der mittelalterlichen Stadtmauer erhalten.", "Die Stadt liegt etwa 30 Kilometer östlich von Prag."],
+      hu: ["A település lakossága mintegy 7000 fő.", "A 12. században alapították egy fontos kereskedelmi útvonal mentén.", "A gótikus Szent Gothárd-templomot a 14. században építették.", "A huszita háborúkat lezáró 1434-es lipany-i csata helyszíne a közelben található.", "A középkori városfalak több szakasza ma is áll.", "Prága központjától mintegy 30 kilométerre keletre fekszik."],
+      ro: ["Orașul are o populație de aproximativ 7.000 de locuitori.", "A fost fondat de episcopul de Praga în secolul al XII-lea.", "Biserica gotică Sfântul Gothard datează din secolul al XIV-lea.", "Bătălia de la Lipany a avut loc la câțiva kilometri de oraș în 1434.", "Zidurile medievale de apărare s-au păstrat parțial până astăzi.", "Český Brod se află la aproximativ 30 km est de Praga."],
+      en: ["The town has a population of around 7,000 residents.", "Founded in the 12th century by the Bishop of Prague.", "The Gothic Church of St. Gothard was built in the 14th century.", "The nearby Battle of Lipany took place in 1434.", "Significant sections of the medieval town walls remain intact.", "Located roughly 30 kilometers east of the capital, Prague."],
+    },
+  },
+  {
+    id: "czechrepublic-velvary-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Velvary", hu: "Velvary", ro: "Velvary", en: "Velvary" },
+    coordinates: { lat: 50.2801, lng: 14.2323 },
+    description: {
+      de: "Velvary ist eine kleine Stadt in der Mittelböhmischen Region. Sie bewahrt ihr historisches Stadtbild.",
+      hu: "Velvary egy kis város a Közép-csehországi kerületben. Megőrzi történelmi városképét.",
+      ro: "Velvary este un oraș mic din Regiunea Boemia Centrală. Își păstrează peisajul urban istoric.",
+      en: "Velvary is a small city in the Central Bohemian Region. It preserves its historic townscape.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 3.000", "Region: Mittelböhmen", "Historischer Stadtkern", "Nahe Veltrusy"],
+      hu: ["Népesség: kb. 3 000", "Régió: Közép-Csehország", "Történelmi városmag", "Veltrusy közelében"],
+      ro: ["Populație: aprox. 3.000", "Regiune: Boemia Centrală", "Centru istoric", "Aproape de Veltrusy"],
+      en: ["Population: approx. 3,000", "Region: Central Bohemia", "Historic center", "Near Veltrusy"],
+    },
+    imageHint: "Velvary small historic square",
+    descriptionAdvanced: {
+      de: "Eine königliche Stadt mit dem gut erhaltenen Prager Tor aus der Renaissance. Bekannt durch die Legende von den hartgekochten Eiern beim Bau der Prager Karlsbrücke.",
+      hu: "Királyi város, melynek legfőbb dísze a reneszánsz Prágai-kapu. Híres a legenda szerint idevalósiak által a Károly híd építéséhez küldött kemény tojásokról.",
+      ro: "Oraș regal care păstrează Poarta Praga, un monument renascentist din 1594. Este celebru pentru legenda ouălor fierte trimise pentru construcția Podului Carol.",
+      en: "A royal town featuring the well-preserved Renaissance Prague Gate from 1594. It is famous for the legend of hard-boiled eggs sent to build Prague's Charles Bridge.",
+    },
+    factsAdvanced: {
+      de: ["Königliche Stadt seit 1282", "Prager Tor von 1594", "Region Mittelböhmen", "3000 Einwohner"],
+      hu: ["Királyi város 1282-től", "Prágai-kapu 1594-ből", "Közép-csehországi régió", "3000 lakos"],
+      ro: ["Oraș regal din 1282", "Poarta Praga din 1594", "Boemia Centrală", "3000 de locuitori"],
+      en: ["Royal town since 1282", "Prague Gate from 1594", "Central Bohemia", "3000 inhabitants"],
+    },
+  },
+  {
+    id: "czechrepublic-zdice-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Zdice", hu: "Zdice", ro: "Zdice", en: "Zdice" },
+    coordinates: { lat: 49.9142, lng: 13.9781 },
+    description: {
+      de: "Zdice liegt in der Mittelböhmischen Region südwestlich von Prag. Es ist eine Industriestadt.",
+      hu: "Zdice a Közép-csehországi kerületben fekszik, Prágától délnyugatra. Ipari város.",
+      ro: "Zdice este situat în Regiunea Boemia Centrală, la sud-vest de Praga. Este un oraș industrial.",
+      en: "Zdice is located in the Central Bohemian Region southwest of Prague. It is an industrial city.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 4.000", "Region: Mittelböhmen", "Industrielle Tradition", "Nahe Beroun"],
+      hu: ["Népesség: kb. 4 000", "Régió: Közép-Csehország", "Ipari hagyományok", "Beroun közelében"],
+      ro: ["Populație: aprox. 4.000", "Regiune: Boemia Centrală", "Tradiții industriale", "Aproape de Beroun"],
+      en: ["Population: approx. 4,000", "Region: Central Bohemia", "Industrial tradition", "Near Beroun"],
+    },
+    imageHint: "Zdice town scenery",
+    descriptionAdvanced: {
+      de: "Zdice in der Mittelböhmischen Region liegt am Fluss Litavka südwestlich von Beroun. Die Stadt ist traditionell ein wichtiger Eisenbahnknotenpunkt an der Strecke, die Prag mit Pilsen verbindet.",
+      hu: "A közép-csehországi Zdice a Litavka folyó mentén található. A település jelentős közlekedési csomópont, különösen a Prágát Plzeň városával összekötő vasútvonal megépülése óta játszik fontos szerepet.",
+      ro: "Zdice este un mic oraș situat în regiunea Boemia Centrală, pe malul râului Litavka. Așezarea a crescut ca importanță în secolul al XIX-lea datorită rolului său de nod feroviar pe ruta dintre Praga și Plzeň.",
+      en: "Zdice is a town in the Central Bohemian Region located along the Litavka river. It historically grew in prominence during the 19th century as a significant railway junction on the route between Prague and Plzeň.",
+    },
+    factsAdvanced: {
+      de: ["Zdice hat rund 4.100 Einwohner.", "Die erste schriftliche Erwähnung datiert aus dem Jahr 1148.", "Die Stadt liegt am Fluss Litavka.", "Ein wichtiger Knotenpunkt der Eisenbahnstrecke Prag–Pilsen.", "Das offizielle Stadtrecht erhielt Zdice im Jahr 1994.", "In der Stadt gibt es ein Museum für historische Militärtechnik (Výtopna Zdice)."],
+      hu: ["A lakosság száma körülbelül 4100 fő.", "Az első okleveles említése 1148-ból származik.", "A Litavka folyó szeli át a települést.", "A Prága és Plzeň közötti vasútvonal meghatározó állomása.", "Hivatalosan 1994-ben nyilvánították várossá.", "A helyi vasúti fűtőházban katonai- és közlekedési múzeum működik."],
+      ro: ["Populația orașului Zdice este de aproximativ 4.100 de locuitori.", "Atestarea documentară a așezării datează din anul 1148.", "Orașul este așezat pe râul Litavka.", "Gara Zdice este un punct major pe linia feroviară Praga-Plzeň.", "Localitatea a obținut oficial statutul de oraș abia în 1994.", "Un muzeu de vehicule istorice feroviare și militare funcționează în vechiul depou."],
+      en: ["Zdice has a population of approximately 4,100 residents.", "The first written record of the settlement is from 1148.", "The town is situated along the Litavka river.", "It functions as a railway hub on the main line connecting Prague and Plzeň.", "The settlement was officially granted town status in 1994.", "The town features a museum of historic railway and military vehicles."],
+    },
+  },
+  {
+    id: "czechrepublic-frydlant-nad-ostravici-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Frýdlant nad Ostravicí", hu: "Frýdlant nad Ostravicí", ro: "Frýdlant nad Ostravicí", en: "Frýdlant nad Ostravicí" },
+    coordinates: { lat: 49.5936, lng: 18.3582 },
+    description: {
+      de: "Frýdlant nad Ostravicí liegt in der Region Mährisch-Schlesien am Fuß der Beskiden. Es ist ein Tor zu den Bergen.",
+      hu: "Frýdlant nad Ostravicí a Morva-Sziléziai kerületben fekszik, a Beszkidek lábánál. Kapu a hegyek felé.",
+      ro: "Frýdlant nad Ostravicí este situat în Regiunea Silezia Moraviană, la poalele Munților Beskydy. Este o poartă către munți.",
+      en: "Frýdlant nad Ostravicí is located in the Moravian-Silesian Region at the foot of the Beskydy Mountains. It is a gateway to the mountains.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 10.000", "Region: Mährisch-Schlesien", "Tor zu den Beskiden", "Am Fluss Ostravice"],
+      hu: ["Népesség: kb. 10 000", "Régió: Morva-Szilézia", "Kapu a Beszkidekhez", "Az Ostravice folyó mentén"],
+      ro: ["Populație: aprox. 10.000", "Regiune: Silezia Moraviană", "Poarta către Munții Beskydy", "Pe râul Ostravice"],
+      en: ["Population: approx. 10,000", "Region: Moravian-Silesia", "Gateway to Beskydy", "On the Ostravice river"],
+    },
+    imageHint: "Frydlant nad Ostravici mountains view",
+    descriptionAdvanced: {
+      de: "Frýdlant nad Ostravicí liegt in der Mährisch-Schlesischen Region am Fuße der Beskiden. Die Stadt an der Ostravice war historisch für ihre Eisenhütten bekannt und ist heute ein beliebtes touristisches Tor zum Gebirge.",
+      hu: "A Morva-Sziléziai kerületben, a Beszkidek lábánál fekszik Frýdlant nad Ostravicí. Az Ostravice folyó mentén épült település történelme során fontos vasipari központ volt, ma pedig a hegyvidéki turizmus kiindulópontja.",
+      ro: "Frýdlant nad Ostravicí, situat în regiunea Moravia-Silezia, se află la poalele Munților Beskizi. Așezat pe râul Ostravice, orașul are o istorie legată de fierării, iar astăzi servește ca bază pentru turismul montan.",
+      en: "Frýdlant nad Ostravicí is located in the Moravian-Silesian Region at the foothills of the Beskids. Situated on the Ostravice river, it has a history of ironworks and now serves as a gateway for mountain tourism.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat etwa 9.900 Einwohner.", "Liegt am Fluss Ostravice an den Hängen der Mährisch-Schlesischen Beskiden.", "Erste urkundliche Erwähnung um das Jahr 1395.", "Im 17. Jahrhundert wurden hier Eisenwerke gegründet.", "Das Emaillierwerk prägte die lokale Industrie im 19. Jahrhundert.", "Die Stadt ist ein Ausgangspunkt für Wanderungen auf den Berg Lysá hora."],
+      hu: ["A település lakossága mintegy 9900 fő.", "Az Ostravice folyó völgyében, a Morva-Sziléziai Beszkidek lábánál található.", "Első ismert írásos említése 1395-ből származik.", "A 17. század közepétől indult meg a helyi vasérc feldolgozása.", "A 19. században zománcárugyártásáról vált ismertté.", "Kedvelt kiindulópontja a Lysá hora csúcsra induló túráknak."],
+      ro: ["Populația orașului se apropie de 9.900 de locuitori.", "Orașul este situat pe râul Ostravice, sub Munții Beskizi.", "Prima mențiune scrisă a fost realizată în 1395.", "Extracția și prelucrarea fierului a început în secolul al XVII-lea.", "Industria emailului s-a dezvoltat masiv aici în secolul al XIX-lea.", "Orașul este o poartă către cel mai înalt vârf din Beskizi, Lysá hora."],
+      en: ["The town has a population of approximately 9,900 residents.", "Located along the Ostravice river at the foot of the Moravian-Silesian Beskids.", "First written evidence of the settlement dates to 1395.", "Ironworks were established in the area during the 17th century.", "The town became known for large-scale enamelware production in the 1800s.", "It is a popular starting point for hiking to Lysá hora mountain."],
+    },
+  },
+  {
+    id: "czechrepublic-sobotka-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Sobotka", hu: "Sobotka", ro: "Sobotka", en: "Sobotka" },
+    coordinates: { lat: 50.4851, lng: 15.1764 },
+    description: {
+      de: "Sobotka liegt in der Region Hradec Králové. Sie ist bekannt für ihre historische Architektur und als Tor zum Böhmischen Paradies.",
+      hu: "Sobotka a Hradec Králové-i kerületben található. Történelmi építészetéről és a Cseh Paradicsom kapujaként ismert.",
+      ro: "Sobotka este situat în Regiunea Hradec Králové. Este cunoscut pentru arhitectura sa istorică și ca poartă către Paradisul Boem.",
+      en: "Sobotka is located in the Hradec Králové Region. It is known for its historical architecture and as a gateway to the Bohemian Paradise.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 2.500", "Region: Hradec Králové", "Böhmisches Paradies", "Historische Architektur"],
+      hu: ["Népesség: kb. 2 500", "Régió: Hradec Králové", "Cseh Paradicsom", "Történelmi építészet"],
+      ro: ["Populație: aprox. 2.500", "Regiune: Hradec Králové", "Paradisul Boem", "Arhitectură istorică"],
+      en: ["Population: approx. 2,500", "Region: Hradec Králové", "Bohemian Paradise", "Historical architecture"],
+    },
+    imageHint: "Sobotka historic town centre",
+    descriptionAdvanced: {
+      de: "Malerische Stadt am Rande des Böhmischen Paradieses, dominiert vom herzförmigen Jagdschloss Humprecht. Sie ist Schauplatz des Literaturfestivals Šrámkova Sobotka.",
+      hu: "Festői kisváros a Cseh Paradicsom szélén, melynek jelképe a különleges Humprecht-vadászkastély. A város a Šrámkova Sobotka irodalmi fesztivál állandó házigazdája.",
+      ro: "Oraș pitoresc la marginea Paradisului Ceh, dominat de castelul de vânătoare Humprecht. Găzduiește anual prestigiosul festival de literatură Šrámkova Sobotka.",
+      en: "A picturesque town at the edge of Bohemian Paradise, dominated by the heart-shaped Humprecht Castle. It hosts the renowned Šrámkova Sobotka literary festival.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1318", "Jagdschloss Humprecht", "Region Königgrätz", "2400 Einwohner"],
+      hu: ["1318-as első említés", "Humprecht-kastély", "Hradec Králové-i régió", "2400 lakos"],
+      ro: ["Atestat în 1318", "Castelul Humprecht", "Regiunea Hradec Králové", "2400 locuitori"],
+      en: ["First mentioned 1318", "Humprecht Castle", "Hradec Králové Region", "2400 inhabitants"],
+    },
+  },
+  {
+    id: "czechrepublic-vyssi-brod-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Vyšší Brod", hu: "Vyšší Brod", ro: "Vyšší Brod", en: "Vyšší Brod" },
+    coordinates: { lat: 48.6235, lng: 14.3072 },
+    description: {
+      de: "Vyšší Brod liegt in Südböhmen an der Moldau. Die Stadt ist für ihr berühmtes Zisterzienserkloster bekannt.",
+      hu: "Vyšší Brod Dél-Csehországban található, a Moldva folyónál. A város híres ciszterci kolostoráról ismert.",
+      ro: "Vyšší Brod este situat în Boemia de Sud, pe râul Vltava. Orașul este cunoscut pentru celebra sa mănăstire cisterciană.",
+      en: "Vyšší Brod is located in South Bohemia on the Vltava river. The city is known for its famous Cistercian monastery.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 2.500", "Region: Südböhmen", "Zisterzienserkloster", "Am Fluss Moldau"],
+      hu: ["Népesség: kb. 2 500", "Régió: Dél-Csehország", "Ciszterci kolostor", "A Moldva folyó mentén"],
+      ro: ["Populație: aprox. 2.500", "Regiune: Boemia de Sud", "Mănăstire cisterciană", "Pe râul Vltava"],
+      en: ["Population: approx. 2,500", "Region: South Bohemia", "Cistercian monastery", "On the Vltava river"],
+    },
+    imageHint: "Vyssi Brod monastery",
+    descriptionAdvanced: {
+      de: "Vyšší Brod in der Südböhmischen Region ist die am südlichsten gelegene Stadt Tschechiens. Sie liegt an der Moldau und wird vom 1259 gegründeten, bedeutenden Zisterzienserkloster Vyšší Brod dominiert.",
+      hu: "A Dél-csehországi kerületben fekvő Vyšší Brod Csehország legdélebbi fekvésű városa. A Moldva folyó partján épült település legfőbb látványossága az 1259-ben alapított hatalmas ciszterci kolostor.",
+      ro: "Vyšší Brod, în regiunea Boemia de Sud, este cel mai sudic oraș din Republica Cehă. Situat pe râul Vltava, este dominat de masiva mănăstire cisterciană înființată în anul 1259, care atrage numeroși vizitatori.",
+      en: "Vyšší Brod is the southernmost town in the Czech Republic, situated in the South Bohemian Region along the Vltava river. Its centerpiece is the prominent Vyšší Brod Cistercian Monastery, established in 1259.",
+    },
+    factsAdvanced: {
+      de: ["Vyšší Brod ist die südlichste Stadt der Tschechischen Republik.", "Die Stadt hat etwa 2.500 Einwohner.", "Liegt am oberen Lauf der Moldau (Vltava).", "Das Zisterzienserkloster wurde 1259 von Wok von Rosenberg gegründet.", "Die Klosterbibliothek umfasst über 70.000 historische Bände.", "In der Nähe befindet sich der Stausee Lipno."],
+      hu: ["Csehország legdélebbi városa, közel az osztrák határhoz.", "A lakosság száma megközelítőleg 2500 fő.", "A Moldva (Vltava) folyó felső szakaszán fekszik.", "A ciszterci apátságot 1259-ben alapította a Rosenberg család.", "A kolostor könyvtára mintegy 70 000 értékes kötetet őriz.", "Népszerű a vízitúrázók körében, innen indulnak a Moldván lefelé."],
+      ro: ["Este cel mai sudic oraș din întreaga Republică Cehă.", "Are o populație restrânsă de aproximativ 2.500 de locuitori.", "Așezarea este străbătută de râul Vltava.", "Mănăstirea cisterciană a fost fondată în 1259 de familia Rožmberk.", "Biblioteca mănăstirii găzduiește peste 70.000 de volume istorice.", "Cea mai veche piesă de artă locală este o pictură madonă din secolul al XIV-lea."],
+      en: ["Vyšší Brod holds the title of the southernmost town in the Czech Republic.", "The town has a population of roughly 2,500 residents.", "It is situated on the upper course of the Vltava river.", "The Vyšší Brod Monastery was founded by the Rosenberg family in 1259.", "The monastery library contains over 70,000 historic volumes.", "The town is a highly popular starting point for canoeing on the Vltava."],
+    },
+  },
+  {
+    id: "czechrepublic-horice-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Hořice", hu: "Hořice", ro: "Hořice", en: "Hořice" },
+    coordinates: { lat: 50.3664, lng: 15.6267 },
+    description: {
+      de: "Hořice liegt in der Region Hradec Králové. Die Stadt ist für ihre Produktion von traditionellen Schaumrollen bekannt.",
+      hu: "Hořice a Hradec Králové-i kerületben található. A város hagyományos tejszínhabos tekercseiről ismert.",
+      ro: "Hořice este situat în Regiunea Hradec Králové. Orașul este cunoscut pentru producția de rulouri tradiționale cu cremă.",
+      en: "Hořice is located in the Hradec Králové Region. The city is known for the production of traditional cream rolls.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 8.500", "Region: Hradec Králové", "Traditionelle Schaumrollen", "Steinbildhauerschule"],
+      hu: ["Népesség: kb. 8 500", "Régió: Hradec Králové", "Hagyományos tejszínhabos tekercs", "Kőszobrászati iskola"],
+      ro: ["Populație: aprox. 8.500", "Regiune: Hradec Králové", "Rulouri tradiționale cu cremă", "Școală de sculptură în piatră"],
+      en: ["Population: approx. 8,500", "Region: Hradec Králové", "Traditional cream rolls", "Stone sculpture school"],
+    },
+    imageHint: "Horice town sculpture",
+    descriptionAdvanced: {
+      de: "Hořice in der Region Hradec Králové ist berühmt für seine Tradition in der Steinbildhauerei und für die Süßspeise 'Hořické trubičky'. Seit 1884 existiert hier eine renommierte Steinmetzschule.",
+      hu: "A Hradec Králové-i kerületben található Hořice a kőfaragás és a szobrászat egyik hazai központja, ahol 1884 óta szakiskola is működik. A város védjegye a hagyományos ostyatekercs, a 'Hořické trubičky'.",
+      ro: "Hořice, situat în regiunea Hradec Králové, este un oraș recunoscut pentru tradiția sa în sculptura în piatră. Școala de pietrărie a fost deschisă în 1884, iar orașul este faimos și pentru rulourile dulci tradiționale.",
+      en: "Hořice is a town in the Hradec Králové Region, well known for its long tradition in stone sculpture. A specialized stone masonry school opened here in 1884, and the town is also famous for its traditional wafer rolls.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat etwa 8.500 Einwohner.", "Erste urkundliche Erwähnung im Jahr 1143.", "Die Fachschule für Steinmetze und Bildhauer wurde 1884 gegründet.", "Die Waffelröllchen 'Hořické trubičky' werden seit 1812 produziert.", "Jährlich findet das Motorradrennen '300 Kurven von Gustav Havel' statt.", "Ein großer Skulpturenpark (Gothard) präsentiert internationale Steinmetzkunst."],
+      hu: ["A település lakossága mintegy 8500 fő.", "Az első írásos említése 1143-ból származik.", "Az Állami Kőfaragó- és Szobrásziskolát 1884-ben alapították.", "A 'Hořické trubičky' ostyát 1812 óta készítik helyi recept alapján.", "A Gothard-hegyen nagyszabású kőszobor-park tekinthető meg.", "A város ad otthont a 'Gustav Havel 300 kanyarja' motorversenynek."],
+      ro: ["Populația orașului Hořice este de aproximativ 8.500 de locuitori.", "Atestarea documentară a așezării este din anul 1143.", "Școala de sculptură în piatră funcționează fără întrerupere din 1884.", "Rulourile dulci 'Hořické trubičky' sunt produse din 1812.", "Cursele anuale de motociclete '300 Curbe Gustav Havel' se țin pe străzile orașului.", "Dealul Gothard găzduiește zeci de sculpturi moderne din gresie."],
+      en: ["The town has a population of approximately 8,500 residents.", "The first historical mention of Hořice is from 1143.", "A specialized school for stone sculpture was established in 1884.", "The local sweet wafer rolls, 'Hořické trubičky', date back to 1812.", "The '300 Curves of Gustav Havel' motorcycle road race is held here annually.", "The Gothard hill features a permanent outdoor exhibition of stone sculptures."],
+    },
+  },
+  {
+    id: "czechrepublic-hustopece-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Hustopeče", hu: "Hustopeče", ro: "Hustopeče", en: "Hustopeče" },
+    coordinates: { lat: 48.9431, lng: 16.7354 },
+    description: {
+      de: "Hustopeče liegt in der Region Südmähren. Die Stadt ist ein Zentrum des Weinbaus.",
+      hu: "Hustopeče Dél-Morvaországban található. A város a szőlőtermesztés egyik központja.",
+      ro: "Hustopeče este situat în Regiunea Moravia de Sud. Orașul este un centru al viticulturii.",
+      en: "Hustopeče is located in the South Moravian Region. The city is a center of viticulture.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 6.000", "Region: Südmähren", "Weinbauzentrum", "Am Mandelpfad"],
+      hu: ["Népesség: kb. 6 000", "Régió: Dél-Morvaország", "Bortermelő központ", "A mandulaösvényen"],
+      ro: ["Populație: aprox. 6.000", "Regiune: Moravia de Sud", "Centru viticol", "Pe poteca migdalelor"],
+      en: ["Population: approx. 6,000", "Region: South Moravia", "Viticulture center", "On the almond trail"],
+    },
+    imageHint: "Hustopece vineyard landscape",
+    descriptionAdvanced: {
+      de: "Hustopeče in der Südmährischen Region ist ein Zentrum des Weinbaus und umgeben von ausgedehnten Weinbergen und den größten Mandelhainen Mitteleuropas. Moderne und Geschichte treffen hier aufeinander.",
+      hu: "A dél-morvaországi Hustopeče a cseh borászat egyik meghatározó központja. A várost hatalmas szőlőültetvények és Közép-Európa legnagyobb mandulaültetvényei övezik, amelyek tavasszal virágzásba borulnak.",
+      ro: "Situat în regiunea Moravia de Sud, Hustopeče este inima viticulturii locale. Orașul este înconjurat de dealuri acoperite de viță de vie și găzduiește cele mai mari livezi de migdali din Europa Centrală.",
+      en: "Hustopeče is a town in the South Moravian Region, celebrated as a center of viticulture. The surrounding landscape is characterized by extensive vineyards and the largest almond orchards in Central Europe.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat rund 6.000 Einwohner.", "Erste urkundliche Erwähnung im Jahr 1249.", "Die Mandelhaine umfassen etwa 50.000 Bäume auf fast 50 Hektar.", "Die moderne Wenzelskirche wurde 1994 am Hauptplatz fertiggestellt.", "Hustopeče ist ein wichtiges Zentrum der Weinbauregion Velké Pavlovice.", "Das Renaissancerathaus aus dem Jahr 1906 prägt das Stadtzentrum."],
+      hu: ["A település lakossága megközelítőleg 6000 fő.", "Az első okleveles említése 1249-ből származik.", "A helyi mandulaültetvényeken mintegy 50 ezer fa található.", "A modern Szent Vencel-templomot 1994-ben szentelték fel.", "A Velké Pavlovice-i borvidék egyik meghatározó városa.", "A neoreneszánsz stílusú városháza 1906-ban épült."],
+      ro: ["Orașul are o populație de aproximativ 6.000 de locuitori.", "A fost atestat documentar pentru prima dată în anul 1249.", "Livezile de migdali conțin aproape 50.000 de arbori.", "Biserica Sfântul Wenceslas are o arhitectură modernă unică, finalizată în 1994.", "Este un nod principal în sub-regiunea viticolă Velké Pavlovice.", "Turnul modern al bisericii are 52 de metri înălțime."],
+      en: ["Hustopeče has a population of approximately 6,000 residents.", "The first written mention of the town occurred in 1249.", "The local almond orchards span 50 hectares with tens of thousands of trees.", "The uniquely modern St. Wenceslas Church was consecrated in 1994.", "It is a central hub for the Velké Pavlovice wine subregion.", "The town hall was rebuilt in the Neo-Renaissance style in 1906."],
+    },
+  },
+  {
+    id: "czechrepublic-kadan-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Kadaň", hu: "Kadaň", ro: "Kadaň", en: "Kadaň" },
+    coordinates: { lat: 50.3807, lng: 13.2687 },
+    description: {
+      de: "Kadaň liegt in der Region Ústí nad Labem an der Eger. Die Stadt bewahrt eine gut erhaltene historische Stadtmauer.",
+      hu: "Kadaň az Ústí nad Labem-i kerületben fekszik, az Eger folyó mentén. A város megőrizte jól konzervált történelmi városfalát.",
+      ro: "Kadaň este situat în Regiunea Ústí nad Labem, pe râul Ohře. Orașul păstrează un zid istoric bine conservat.",
+      en: "Kadaň is located in the Ústí nad Labem Region on the Eger river. The city preserves a well-preserved historic town wall.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 18.000", "Region: Ústí nad Labem", "Historische Stadtmauer", "Am Fluss Eger"],
+      hu: ["Népesség: kb. 18 000", "Régió: Ústí nad Labem", "Történelmi városfal", "Az Eger folyó mentén"],
+      ro: ["Populație: aprox. 18.000", "Regiune: Ústí nad Labem", "Zid istoric al orașului", "Pe râul Ohře"],
+      en: ["Population: approx. 18,000", "Region: Ústí nad Labem", "Historic town wall", "On the Eger river"],
+    },
+    imageHint: "Kadan historic town wall and river",
+    descriptionAdvanced: {
+      de: "Historische Stadt an der Eger mit einer der am besten erhaltenen Stadtbefestigungen und der engsten Gasse Tschechiens, der Katova ulička (Henkergasse).",
+      hu: "Az Ohře partján fekvő város kiváló állapotú városfallal és Csehország legkeskenyebb utcájával büszkélkedhet. Történelmi központja 1978 óta műemléki rezervátum.",
+      ro: "Oraș istoric pe râul Ohře, având unul dintre cele mai bine conservate sisteme de fortificații. Include Ulița Călăului, cea mai îngustă stradă din Cehia.",
+      en: "A historic town on the Ohře River with well-preserved fortifications and the narrowest street in the Czech Republic, known as the Executioner's Lane.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1183", "Denkmalreservat seit 1978", "18000 Einwohner", "Katova ulička"],
+      hu: ["1183-ban alapították", "Műemléki terület 1978-tól", "18000 lakos", "Katova ulička"],
+      ro: ["Fondat în 1183", "Rezervație istorică din 1978", "18000 locuitori", "Strada Călăului"],
+      en: ["Founded in 1183", "Heritage site since 1978", "18000 inhabitants", "Executioner's Lane"],
+    },
+  },
+  {
+    id: "czechrepublic-pacov-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Pacov", hu: "Pacov", ro: "Pacov", en: "Pacov" },
+    coordinates: { lat: 49.4756, lng: 15.0005 },
+    description: {
+      de: "Pacov liegt in der Region Vysočina. Die Stadt ist für ihre ruhige Atmosphäre und das Schloss bekannt.",
+      hu: "Pacov a Vysočina kerületben fekszik. A város csendes légköréről és kastélyáról ismert.",
+      ro: "Pacov este situat în Regiunea Vysočina. Orașul este cunoscut pentru atmosfera sa liniștită și castel.",
+      en: "Pacov is located in the Vysočina Region. The city is known for its quiet atmosphere and castle.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 5.000", "Region: Vysočina", "Schloss Pacov", "Ruhige Kleinstadt"],
+      hu: ["Népesség: kb. 5 000", "Régió: Vysočina", "Pacovi kastély", "Csendes kisváros"],
+      ro: ["Populație: aprox. 5.000", "Regiune: Vysočina", "Castelul Pacov", "Oraș mic și liniștit"],
+      en: ["Population: approx. 5,000", "Region: Vysočina", "Pacov Castle", "Quiet small town"],
+    },
+    imageHint: "Pacov town castle",
+    descriptionAdvanced: {
+      de: "Die Stadt ist als Geburtsort des Motorradsports bekannt, da hier 1904 der Internationale Motorradverband (FIM) gegründet wurde. Sie liegt am Rande der Böhmisch-Mährischen Höhe.",
+      hu: "A várost a motorsport bölcsőjeként tisztelik, mivel 1904-ben itt alapították meg a Nemzetközi Motorkerékpáros Szövetséget (FIM). A Cseh-Morva-dombság szélén fekszik.",
+      ro: "Oraș cunoscut drept locul de naștere al motociclismului sportiv internațional, aici fiind fondată FIM în 1904. Este situat la marginea Podișului Boemo-Morav.",
+      en: "Known as the birthplace of international motorcycle racing, the FIM was founded here in 1904. It is situated on the edge of the Bohemian-Moravian Highlands.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1316", "FIM Gründung 1904", "Region Vysočina", "Antonín Sova Museum"],
+      hu: ["1316-os első említés", "FIM alapítás 1904", "Vysočina régió", "Antonín Sova múzeum"],
+      ro: ["Atestat în 1316", "Fondarea FIM în 1904", "Regiunea Vysočina", "Muzeul Antonín Sova"],
+      en: ["First mentioned 1316", "FIM founded 1904", "Vysočina Region", "Antonín Sova Museum"],
+    },
+  },
+  {
+    id: "czechrepublic-hranice-na-morave-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Hranice na Moravě", hu: "Hranice na Moravě", ro: "Hranice na Moravě", en: "Hranice na Moravě" },
+    coordinates: { lat: 49.5539, lng: 17.7347 },
+    description: {
+      de: "Hranice na Moravě liegt in der Region Olmütz. In der Nähe befindet sich der Abgrund Hranická propast.",
+      hu: "Hranice na Moravě az Olomouci kerületben fekszik. A közelben található a Hranicei-szakadék.",
+      ro: "Hranice na Moravě este situat în Regiunea Olomouc. În apropiere se află prăpastia Hranická propast.",
+      en: "Hranice na Moravě is located in the Olomouc Region. Nearby is the Hranice Abyss.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 18.000", "Region: Olmütz", "Nahe dem Abgrund", "Wichtiger Bahnknotenpunkt"],
+      hu: ["Népesség: kb. 18 000", "Régió: Olomouc", "A szakadék közelében", "Fontos vasúti csomópont"],
+      ro: ["Populație: aprox. 18.000", "Regiune: Olomouc", "Aproape de prăpastie", "Nod feroviar important"],
+      en: ["Population: approx. 18,000", "Region: Olomouc", "Near the abyss", "Important railway junction"],
+    },
+    imageHint: "Hranice na Morave view",
+    descriptionAdvanced: {
+      de: "Bekannt für den tiefsten überfluteten Abgrund der Welt, die Hranicka Propast. Die Stadt liegt an der Mährischen Pforte und bietet zudem die Zbrasover Aragonithöhlen.",
+      hu: "A város a világ legmélyebb elárasztott barlangjáról, a Hranicei-szakadékról híres. A Morva-kapunál fekvő település közelében találhatók a Zbrašovi aragonitbarlangok is.",
+      ro: "Oraș renumit pentru cea mai adâncă prăpastie inundată din lume, Hranická propast. Este situat în Poarta Moravă și găzduiește peșterile de aragonit Zbrašov.",
+      en: "Famous for the Hranice Abyss, the world's deepest flooded sinkhole. Located in the Moravian Gate, it also features the unique Zbrašov aragonite caves.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1169", "Hranicka Propast (473m+)", "Region Olmütz", "18000 Einwohner"],
+      hu: ["1169-es első említés", "Hranicei-szakadék (473m+)", "Olomouci régió", "18000 lakos"],
+      ro: ["Atestat în 1169", "Abisul Hranice (473m+)", "Regiunea Olomouc", "18000 locuitori"],
+      en: ["First mentioned 1169", "Hranice Abyss (473m+)", "Olomouc Region", "18000 inhabitants"],
+    },
+  },
+  {
+    id: "czechrepublic-zamberk-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Žamberk", hu: "Žamberk", ro: "Žamberk", en: "Žamberk" },
+    coordinates: { lat: 50.0886, lng: 16.4633 },
+    description: {
+      de: "Žamberk liegt in der Region Pardubice am Ufer der Divoká Orlice. Es ist als Eingangstor zum Adlergebirge bekannt.",
+      hu: "Žamberk a Pardubicei kerületben fekszik, a Divoká Orlice partján. Az Orlické-hegység bejárati kapujaként ismert.",
+      ro: "Žamberk este situat în Regiunea Pardubice, pe malul râului Divoká Orlice. Este cunoscută drept poarta de intrare către Munții Vulturului.",
+      en: "Žamberk is located in the Pardubice Region on the banks of the Divoká Orlice. It is known as the gateway to the Eagle Mountains.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 6.000", "Region: Pardubice", "Tor zum Adlergebirge", "Am Fluss Divoká Orlice"],
+      hu: ["Népesség: kb. 6 000", "Régió: Pardubice", "Kapu az Orlické-hegységhez", "A Divoká Orlice folyó partján"],
+      ro: ["Populație: aprox. 6.000", "Regiune: Pardubice", "Poarta către Munții Vulturului", "Pe râul Divoká Orlice"],
+      en: ["Population: approx. 6,000", "Region: Pardubice", "Gateway to Eagle Mountains", "On the Divoká Orlice river"],
+    },
+    imageHint: "Zamberk river landscape",
+    descriptionAdvanced: {
+      de: "Žamberk in der Pardubitzer Region liegt am Fluss Divoká Orlice im Vorland des Adlergebirges. Die Stadt ist der Geburtsort des Erfinders Prokop Diviš, der 1754 einen der ersten Blitzableiter konstruierte.",
+      hu: "A Pardubicei kerületben, a Divoká Orlice folyó völgyében fekvő Žamberk a Sas-hegység kapuja. A település szülötte Prokop Diviš tudós, aki 1754-ben Európában az elsők között szerkesztett villámhárítót.",
+      ro: "Žamberk este un oraș din regiunea Pardubice, situat pe râul Divoká Orlice. La poalele Munților Vulturului, orașul se mândrește ca fiind locul de naștere al lui Prokop Diviš, inventatorul paratrăsnetului european (1754).",
+      en: "Žamberk is located in the Pardubice Region along the Divoká Orlice river, serving as a gateway to the Eagle Mountains. It is famously the birthplace of Prokop Diviš, who invented a grounded lightning rod in 1754.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat rund 6.000 Einwohner.", "Sie liegt am Fluss Divoká Orlice.", "Erstmals 1332 schriftlich erwähnt.", "Der Erfinder Prokop Diviš wurde hier 1698 geboren.", "Das städtische Museum beherbergt eine alte Apotheke aus dem Jahr 1813.", "Der Aussichtsturm Tyršovka bietet einen Blick auf das Adlergebirge."],
+      hu: ["A lakosság száma megközelítőleg 6000 fő.", "A Divoká Orlice folyó szeli át a települést.", "Az első ismert írásos említése 1332-ből származik.", "Prokop Diviš 1698-ban látta meg itt a napvilágot.", "A helyi múzeumban egy 1813-ból származó gyógyszertár is megtekinthető.", "A Tyrš-torony (Tyršova rozhledna) 1932-ben épült kilátó."],
+      ro: ["Orașul numără o populație de aproximativ 6.000 de locuitori.", "Este situat în valea râului Divoká Orlice.", "A fost menționat pentru prima dată în documente din 1332.", "Prokop Diviš, pionier al electricității, s-a născut aici în 1698.", "Muzeul orășenesc include o farmacie originală datând din 1813.", "Turnul de observație Tyrš a fost construit în anul 1932."],
+      en: ["The town has a population of approximately 6,000 residents.", "Located on the banks of the Divoká Orlice river.", "The first written record of Žamberk dates back to 1332.", "Inventor and scientist Prokop Diviš was born in the town in 1698.", "The town museum features a preserved pharmacy interior from 1813.", "The 20-meter high Tyrš observation tower was built in 1932."],
+    },
+  },
+  {
+    id: "czechrepublic-klimkovice-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Klimkovice", hu: "Klimkovice", ro: "Klimkovice", en: "Klimkovice" },
+    coordinates: { lat: 49.7953, lng: 18.1311 },
+    description: {
+      de: "Klimkovice liegt in der Region Mährisch-Schlesien nahe Ostrava. Es ist für sein modernes Sanatorium bekannt.",
+      hu: "Klimkovice a Morva-Sziléziai kerületben található, Ostrava közelében. Modern szanatóriumáról ismert.",
+      ro: "Klimkovice este situat în Regiunea Silezia Moraviană, lângă Ostrava. Este cunoscut pentru sanatoriul său modern.",
+      en: "Klimkovice is located in the Moravian-Silesian Region near Ostrava. It is known for its modern sanatorium.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 4.500", "Region: Mährisch-Schlesien", "Modernes Sanatorium", "Nahe Ostrava"],
+      hu: ["Népesség: kb. 4 500", "Régió: Morva-Szilézia", "Modern szanatórium", "Ostrava közelében"],
+      ro: ["Populație: aprox. 4.500", "Regiune: Silezia Moraviană", "Sanatoriu modern", "Lângă Ostrava"],
+      en: ["Population: approx. 4,500", "Region: Moravian-Silesia", "Modern sanatorium", "Near Ostrava"],
+    },
+    imageHint: "Klimkovice sanatorium",
+    descriptionAdvanced: {
+      de: "Ein Kurort bei Ostrau, der für sein Heilwasser mit hohem Jod- und Bromgehalt bekannt ist. Die Stadt verfügt über ein Barockschloss und eine lange Bergbaugeschichte.",
+      hu: "Ostrava közeli fürdőváros, amely különleges jód-brómos gyógyvizéről nevezetes. Barokk kastélya és bányászati múltja gazdagítja a Morva-sziléziai város történetét.",
+      ro: "Stațiune balneară lângă Ostrava, renumită pentru apele sale terapeutice bogate în iod și brom. Orașul deține un castel baroc și o lungă tradiție minieră.",
+      en: "A spa town near Ostrava, famous for its unique iodine-bromine therapeutic waters. It features a Baroque castle and has a history rooted in the local mining industry.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung 1373", "Jod-Brom-Heilbad", "Region Mährisch-Schlesien", "Schloss Klimkovice"],
+      hu: ["1373-as első említés", "Jódos-brómos fürdő", "Morva-sziléziai régió", "Klimkovicei kastély"],
+      ro: ["Atestat în 1373", "Băi cu iod și brom", "Silezia Moravă", "Castelul Klimkovice"],
+      en: ["First mentioned 1373", "Iodine-bromine spa", "Moravian-Silesian Region", "Klimkovice Castle"],
+    },
+  },
+  {
+    id: "czechrepublic-pribor-cities-v2",
+    type: "city",
+    parent: "CZ",
+    name: { de: "Příbor", hu: "Příbor", ro: "Příbor", en: "Příbor" },
+    coordinates: { lat: 49.6384, lng: 18.1481 },
+    description: {
+      de: "Příbor liegt in der Region Mährisch-Schlesien. Die Stadt ist der Geburtsort von Sigmund Freud.",
+      hu: "Příbor a Morva-Sziléziai kerületben található. A város Sigmund Freud szülőhelye.",
+      ro: "Příbor este situat în Regiunea Silezia Moraviană. Orașul este locul de naștere al lui Sigmund Freud.",
+      en: "Příbor is located in the Moravian-Silesian Region. The city is the birthplace of Sigmund Freud.",
+    },
+    facts: {
+      de: ["Bevölkerung: ca. 8.500", "Region: Mährisch-Schlesien", "Geburtsort von Sigmund Freud", "Historisches Zentrum"],
+      hu: ["Népesség: kb. 8 500", "Régió: Morva-Szilézia", "Sigmund Freud szülőhelye", "Történelmi központ"],
+      ro: ["Populație: aprox. 8.500", "Regiune: Silezia Moraviană", "Locul de naștere al lui Sigmund Freud", "Centru istoric"],
+      en: ["Population: approx. 8,500", "Region: Moravian-Silesia", "Birthplace of Sigmund Freud", "Historic center"],
+    },
+    imageHint: "Pribor town view",
+    descriptionAdvanced: {
+      de: "Příbor in der Mährisch-Schlesischen Region liegt am Ufer der Lubina. Weltweite Berühmtheit erlangte die Stadt als Geburtsort des Psychoanalytikers Sigmund Freud, der hier 1856 geboren wurde.",
+      hu: "A Morva-Sziléziai kerületben található Příbor a Lubina folyó mentén épült fel. A város nevét világszerte ismerik, hiszen 1856-ban itt született Sigmund Freud, a pszichoanalízis megalapítója.",
+      ro: "Příbor, un oraș istoric din regiunea Moravia-Silezia așezat pe râul Lubina, are un centru vechi bine conservat. Este faimos la nivel internațional drept locul de naștere al fondatorului psihanalizei, Sigmund Freud, în 1856.",
+      en: "Příbor is a town in the Moravian-Silesian Region on the Lubina river. One of the oldest towns in the region, it is internationally renowned as the birthplace of the founder of psychoanalysis, Sigmund Freud, born in 1856.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt hat etwa 8.400 Einwohner.", "Gegründet um 1251 durch den Grafen Franko von Hückeswagen.", "Die Stadt liegt am Ufer des Flusses Lubina.", "Sigmund Freud wurde am 6. Mai 1856 hier geboren.", "Das Geburtshaus von Freud ist heute ein Museum.", "Das historische Stadtzentrum steht unter Denkmalschutz."],
+      hu: ["A város lakossága mintegy 8400 fő.", "Franko von Hückeswagen gróf alapította 1251 körül.", "A Lubina folyó folyik át a településen.", "Sigmund Freud 1856. május 6-án született az egyik helyi polgárházban.", "Freud szülőháza 2006-os felújítása óta múzeumként működik.", "A település történelmi magja 1989 óta városi műemlékvédelmi zóna."],
+      ro: ["Populația orașului Příbor este de aproximativ 8.400 de locuitori.", "Orașul a fost fondat în jurul anului 1251.", "Râul Lubina curge prin teritoriul orașului.", "Sigmund Freud s-a născut aici la 6 mai 1856.", "Casa natală a lui Freud este deschisă publicului ca muzeu.", "Centrul istoric medieval este protejat arhitectural."],
+      en: ["The town has a population of roughly 8,400 residents.", "Příbor was founded around 1251 by Count Franko of Hückeswagen.", "The town is situated on the Lubina river.", "Sigmund Freud was born in the town on May 6, 1856.", "Freud's birthplace has been restored and operates as a public museum.", "The town's historical center is a protected urban monument zone."],
+    },
   }
 ];

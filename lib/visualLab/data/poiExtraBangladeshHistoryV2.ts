@@ -7,9 +7,8 @@ export const poiExtraBangladeshHistoryV2: POI[] = [
     type: "ruin",
     parent: "BD-E",
     coords: [88.9767, 25.0319],
-    name: { de: "Somapura Mahavihara", hu: "Szomapura Mahávihára", ro: "Somapura Mahavihara", en: "Somapura Mahavihara",
-image: "/poi-images/somapura-mahavihara-history-v2.webp"
-},
+    name: { de: "Somapura Mahavihara", hu: "Szomapura Mahávihára", ro: "Somapura Mahavihara", en: "Somapura Mahavihara"},
+    image: "/poi-images/somapura-mahavihara-history-v2.webp",
     description: { de: "Ein bedeutendes buddhistisches Klosterzentrum in Paharpur aus dem 8. Jahrhundert. Es ist eine UNESCO-Welterbestätte und berühmt für seine Terrakotta-Plaketten.", hu: "Egy jelentős 8. századi buddhista kolostorközpont Paharpurban. Az UNESCO világörökség része, amely terrakotta díszeiről híres.", ro: "Un important centru monastic budist din secolul al VIII-lea, situat în Paharpur. Este un sit al Patrimoniului Mondial UNESCO și renumit pentru plăcile sale din teracotă.", en: "A major 8th-century Buddhist monastic center located in Paharpur. It is a UNESCO World Heritage site and famous for its terracotta plaques." },
     facts: {
       de: ["Gegründet von Dharmapala im 8. Jahrhundert.", "Das Areal umfasst etwa 11 Hektar."],
@@ -37,9 +36,8 @@ image: "/poi-images/somapura-mahavihara-history-v2.webp"
     type: "historical-site",
     parent: "BD-C",
     coords: [90.3883, 23.7194],
-    name: { de: "Lalbagh-Fort", hu: "Lalbagh erőd", ro: "Fortul Lalbagh", en: "Lalbagh Fort",
-image: "/poi-images/lalbagh-fort-history-v2.webp"
-},
+    name: { de: "Lalbagh-Fort", hu: "Lalbagh erőd", ro: "Fortul Lalbagh", en: "Lalbagh Fort"},
+    image: "/poi-images/lalbagh-fort-history-v2.webp",
     description: { de: "Ein unvollendetes Fort aus der Mogulzeit aus dem 17. Jahrhundert in Dhaka. Es beherbergt das Grab von Bibi Pari und eine beeindruckende Moschee.", hu: "Egy befejezetlen 17. századi mogul erőd Dakkában. Itt található Bibi Pari sírja és egy lenyűgöző mecset.", ro: "Un fort neterminat din epoca Mughal din secolul al XVII-lea, în Dhaka. Adăpostește mormântul lui Bibi Pari și o moschee impresionantă.", en: "An incomplete 17th-century Mughal fort in Dhaka. It houses the tomb of Bibi Pari and an impressive mosque." },
     facts: {
       de: ["Der Bau begann 1678 durch Prinz Muhammad Azam.", "Das Fort wurde nie vollständig fertiggestellt."],
@@ -67,9 +65,8 @@ image: "/poi-images/lalbagh-fort-history-v2.webp"
     type: "historical-site",
     parent: "BD-C",
     coords: [90.4042, 23.7086],
-    name: { de: "Ahsan Manzil", hu: "Ahsan Manzil", ro: "Ahsan Manzil", en: "Ahsan Manzil",
-image: "/poi-images/ahsan-manzil-history-v2.webp"
-},
+    name: { de: "Ahsan Manzil", hu: "Ahsan Manzil", ro: "Ahsan Manzil", en: "Ahsan Manzil"},
+    image: "/poi-images/ahsan-manzil-history-v2.webp",
     description: { de: "Der ehemalige Palast des Nawabs von Dhaka, direkt am Ufer des Buriganga-Flusses. Das markante rosafarbene Gebäude dient heute als nationales Museum.", hu: "Dakka nábobjának egykori palotája, a Buriganga folyó partján. A jellegzetes rózsaszín épület ma nemzeti múzeumként működik.", ro: "Fostul palat al nababului din Dhaka, pe malul râului Buriganga. Clădirea roz distinctivă servește astăzi ca muzeu național.", en: "The former palace of the Nawab of Dhaka, on the banks of the Buriganga River. The distinctive pink building now serves as a national museum." },
     facts: {
       de: ["Der Bau wurde 1872 abgeschlossen.", "Es war der erste Ort in Dhaka mit Stromversorgung."],
@@ -97,9 +94,8 @@ image: "/poi-images/ahsan-manzil-history-v2.webp"
     type: "historical-site",
     parent: "BD-D",
     coords: [89.7428, 22.6744],
-    name: { de: "Sechzig-Kuppel-Moschee", hu: "Hatvankupolás mecset", ro: "Moscheea cu șaizeci de cupole", en: "Sixty Dome Mosque",
-image: "/poi-images/sixty-dome-mosque-history-v2.webp"
-},
+    name: { de: "Sechzig-Kuppel-Moschee", hu: "Hatvankupolás mecset", ro: "Moscheea cu șaizeci de cupole", en: "Sixty Dome Mosque"},
+    image: "/poi-images/sixty-dome-mosque-history-v2.webp",
     description: { de: "Eine der ältesten Moscheen in Bangladesch, gelegen in Bagerhat. Sie wurde im 15. Jahrhundert erbaut und zeichnet sich durch ihre zahlreichen Kuppeln aus.", hu: "Banglades egyik legrégebbi mecsete, amely Bagerhatban található. A 15. században épült, és a számos kupolájáról ismert.", ro: "Una dintre cele mai vechi moschei din Bangladesh, situată în Bagerhat. A fost construită în secolul al XV-lea și este remarcabilă pentru numeroasele sale cupole.", en: "One of the oldest mosques in Bangladesh, located in Bagerhat. Built in the 15th century, it is notable for its numerous domes." },
     facts: {
       de: ["Tatsächlich besitzt die Moschee 81 Kuppeln, nicht 60.", "Sie wurde von Khan Jahan Ali gegründet."],
@@ -127,9 +123,8 @@ image: "/poi-images/sixty-dome-mosque-history-v2.webp"
     type: "ruin",
     parent: "BD-E",
     coords: [89.3444, 24.9622],
-    name: { de: "Mahasthangarh", hu: "Mahaszthangarh", ro: "Mahasthangarh", en: "Mahasthangarh",
-image: "/poi-images/mahasthangarh-history-v2.webp"
-},
+    name: { de: "Mahasthangarh", hu: "Mahaszthangarh", ro: "Mahasthangarh", en: "Mahasthangarh"},
+    image: "/poi-images/mahasthangarh-history-v2.webp",
     description: { de: "Eine der ältesten bekannten archäologischen Stätten in Bangladesch. Die Ruinenstadt stammt aus dem 3. Jahrhundert vor Christus und war eine bedeutende Provinzhauptstadt.", hu: "Banglades egyik legrégebbi ismert régészeti lelőhelye. A romváros a Kr. e. 3. századból származik, és fontos tartományi főváros volt.", ro: "Unul dintre cele mai vechi situri arheologice cunoscute din Bangladesh. Orașul antic datează din secolul al III-lea î.Hr. și a fost o importantă capitală provincială.", en: "One of the oldest known archaeological sites in Bangladesh. The ancient city ruins date back to the 3rd century BC and served as a major provincial capital." },
     facts: {
       de: ["Sie war bis ins 18. Jahrhundert durchgehend bewohnt.", "Die Stadtmauer erstreckt sich über mehrere Kilometer."],
@@ -157,9 +152,8 @@ image: "/poi-images/mahasthangarh-history-v2.webp"
     type: "ruin",
     parent: "BD-B",
     coords: [91.1361, 23.4283],
-    name: { de: "Mainamati-Ruinen", hu: "Mainamati romok", ro: "Ruinele Mainamati", en: "Mainamati Ruins",
-image: "/poi-images/mainamati-ruins-history-v2.webp"
-},
+    name: { de: "Mainamati-Ruinen", hu: "Mainamati romok", ro: "Ruinele Mainamati", en: "Mainamati Ruins"},
+    image: "/poi-images/mainamati-ruins-history-v2.webp",
     description: { de: "Ein bedeutendes Zentrum buddhistischer Kultur zwischen dem 8. und 12. Jahrhundert. Die Ausgrabungen in Comilla brachten Stupas und Klöster zutage.", hu: "A buddhista kultúra fontos központja volt a 8. és 12. század között. A Comilla melletti ásatások sztúpákat és kolostorokat tártak fel.", ro: "Un important centru al culturii budiste între secolele VIII și XII. Săpăturile din Comilla au scos la iveală stupe și mănăstiri.", en: "An important center of Buddhist culture between the 8th and 12th centuries. Excavations in Comilla revealed stupas and monasteries." },
     facts: {
       de: ["Salban Vihara ist die größte Anlage in Mainamati.", "Es wurden hier zahlreiche Kupfermünzen gefunden."],
@@ -187,9 +181,8 @@ image: "/poi-images/mainamati-ruins-history-v2.webp"
     type: "monument",
     parent: "BD-C",
     coords: [90.2547, 23.9114],
-    name: { de: "Nationales Märtyrerdenkmal", hu: "Nemzeti Mártíremlékmű", ro: "Monumentul Național al Martirilor", en: "National Martyrs' Monument",
-image: "/poi-images/national-martyrs-monument-history-v2.webp"
-},
+    name: { de: "Nationales Märtyrerdenkmal", hu: "Nemzeti Mártíremlékmű", ro: "Monumentul Național al Martirilor", en: "National Martyrs' Monument"},
+    image: "/poi-images/national-martyrs-monument-history-v2.webp",
     description: { de: "Das nationale Symbol zum Gedenken an die Opfer des bangladeschischen Befreiungskrieges von 1971. Es befindet sich in Savar nahe Dhaka.", hu: "Az 1971-es bangladesi függetlenségi háború áldozatainak emléket állító nemzeti szimbólum. Savarban, Dakka közelében található.", ro: "Simbolul național care comemorează victimele Războiului de Eliberare din Bangladesh din 1971. Este situat în Savar, lângă Dhaka.", en: "The national symbol commemorating the victims of the Bangladesh Liberation War of 1971. It is located in Savar near Dhaka." },
     facts: {
       de: ["Das Denkmal besteht aus sieben dreieckigen Prismen.", "Die höchste Struktur ragt 45 Meter in den Himmel."],
@@ -217,9 +210,8 @@ image: "/poi-images/national-martyrs-monument-history-v2.webp"
     type: "monument",
     parent: "BD-C",
     coords: [90.3986, 23.7275],
-    name: { de: "Shaheed Minar", hu: "Shaheed Minar", ro: "Shaheed Minar", en: "Shaheed Minar",
-image: "/poi-images/shaheed-minar-history-v2.webp"
-},
+    name: { de: "Shaheed Minar", hu: "Shaheed Minar", ro: "Shaheed Minar", en: "Shaheed Minar"},
+    image: "/poi-images/shaheed-minar-history-v2.webp",
     description: { de: "Ein nationales Denkmal in Dhaka zur Erinnerung an die Opfer der bengalischen Sprachbewegung von 1952. Es steht für den Kampf um sprachliche und kulturelle Identität.", hu: "Dakkai nemzeti emlékmű, amely az 1952-es bengáli nyelvi mozgalom áldozatainak állít emléket. A nyelvi és kulturális identitásért folytatott küzdelmet jelképezi.", ro: "Un monument național în Dhaka în memoria victimelor Mișcării Limbii Bengaleze din 1952. Simbolizează lupta pentru identitate lingvistică și culturală.", en: "A national monument in Dhaka commemorating the victims of the Bengali Language Movement of 1952. It represents the struggle for linguistic and cultural identity." },
     facts: {
       de: ["Das ursprüngliche Denkmal wurde 1971 zerstört und später wieder aufgebaut.", "Die halbrunden Säulen symbolisieren die Mutter mit ihren gefallenen Söhnen."],
@@ -247,9 +239,8 @@ image: "/poi-images/shaheed-minar-history-v2.webp"
     type: "historical-site",
     parent: "BD-F",
     coords: [88.6558, 25.7594],
-    name: { de: "Kantajew-Tempel", hu: "Kantadzsew-templom", ro: "Templul Kantajew", en: "Kantajew Temple",
-image: "/poi-images/kantajew-temple-history-v2.webp"
-},
+    name: { de: "Kantajew-Tempel", hu: "Kantadzsew-templom", ro: "Templul Kantajew", en: "Kantajew Temple"},
+    image: "/poi-images/kantajew-temple-history-v2.webp",
     description: { de: "Ein bedeutender hinduistischer Terrakotta-Tempel aus dem 18. Jahrhundert in Dinajpur. Er ist bekannt für seine detaillierten Reliefs, die mythologische Geschichten erzählen.", hu: "Egy jelentős 18. századi hindu terrakotta templom Dinajpurban. Híres a részletgazdag domborműveiről, amelyek mitológiai történeteket mesélnek el.", ro: "Un important templu hindus din teracotă din secolul al XVIII-lea în Dinajpur. Este renumit pentru reliefurile sale detaliate care spun povești mitologice.", en: "An important 18th-century Hindu terracotta temple in Dinajpur. It is famous for its detailed reliefs that tell mythological stories." },
     facts: {
       de: ["Der Tempel wurde 1722 von Maharaja Pran Nath erbaut.", "Ursprünglich hatte das Gebäude neun Türme, die bei einem Erdbeben 1897 zerstört wurden."],
@@ -277,9 +268,8 @@ image: "/poi-images/kantajew-temple-history-v2.webp"
     type: "historical-site",
     parent: "BD-F",
     coords: [89.2611, 25.7336],
-    name: { de: "Tajhat-Palast", hu: "Tajhat palota", ro: "Palatul Tajhat", en: "Tajhat Palace",
-image: "/poi-images/tajhat-palace-history-v2.webp"
-},
+    name: { de: "Tajhat-Palast", hu: "Tajhat palota", ro: "Palatul Tajhat", en: "Tajhat Palace"},
+    image: "/poi-images/tajhat-palace-history-v2.webp",
     description: { de: "Ein historischer Palast in Rangpur, der im frühen 20. Jahrhundert von einem wohlhabenden Juwelier erbaut wurde. Er besticht durch seine europäisch inspirierte Architektur.", hu: "Egy történelmi palota Rangpurban, amelyet a 20. század elején épített egy gazdag ékszerész. Az épület európai ihletésű építészetével nyűgözi le a látogatókat.", ro: "Un palat istoric din Rangpur, construit la începutul secolului al XX-lea de un bijutier bogat. Impresionează prin arhitectura sa de inspirație europeană.", en: "A historic palace in Rangpur, built in the early 20th century by a wealthy jeweler. It impresses with its European-inspired architecture." },
     facts: {
       de: ["Die Fassade besteht aus importiertem weißem Marmor.", "Heute beherbergt der Palast ein Museum mit alten Manuskripten und Skulpturen."],
@@ -307,9 +297,8 @@ image: "/poi-images/tajhat-palace-history-v2.webp"
     type: "historical-site",
     parent: "BD-C",
     coords: [90.6028, 23.6467],
-    name: { de: "Panam-Stadt", hu: "Panam romváros", ro: "Orașul Panam", en: "Panam City",
-image: "/poi-images/panam-city-history-v2.webp"
-},
+    name: { de: "Panam-Stadt", hu: "Panam romváros", ro: "Orașul Panam", en: "Panam City"},
+    image: "/poi-images/panam-city-history-v2.webp",
     description: { de: "Eine verlassene historische Siedlung in Sonargaon, die im 19. Jahrhundert das Zentrum der reichen hinduistischen Kaufleute war. Die Architektur mischt bengalische und europäische Stile.", hu: "Egy elhagyatott történelmi település Sonargaonban, amely a 19. században a gazdag hindu kereskedők központja volt. Az építészet a bengáli és európai stílusokat ötvözi.", ro: "O așezare istorică abandonată din Sonargaon, care a fost centrul comercianților hinduși bogați în secolul al XIX-lea. Arhitectura îmbină stilurile bengaleze și europene.", en: "An abandoned historic settlement in Sonargaon, which was the center of wealthy Hindu merchants in the 19th century. The architecture blends Bengali and European styles." },
     facts: {
       de: ["Es gibt noch etwa 52 historische Gebäude auf beiden Seiten der Hauptstraße.", "Die Siedlung war ein wichtiges Zentrum für den Textilhandel."],
@@ -337,9 +326,8 @@ image: "/poi-images/panam-city-history-v2.webp"
     type: "historical-site",
     parent: "BD-C",
     coords: [90.3953, 23.7142],
-    name: { de: "Sternenmoschee", hu: "Csillag mecset", ro: "Moscheea Stea", en: "Star Mosque",
-image: "/poi-images/star-mosque-history-v2.webp"
-},
+    name: { de: "Sternenmoschee", hu: "Csillag mecset", ro: "Moscheea Stea", en: "Star Mosque"},
+    image: "/poi-images/star-mosque-history-v2.webp",
     description: { de: "Eine reich verzierte Moschee im alten Teil von Dhaka aus dem späten 18. Jahrhundert. Sie ist berühmt für ihre Mosaikdekorationen aus blauen Sternen und japanischen Fliesen.", hu: "Egy gazdagon díszített mecset Dakka óvárosában, a 18. század végéről. Híres a kék csillagokból és japán csempékből készült mozaikdíszítéseiről.", ro: "O moschee bogat decorată în partea veche a orașului Dhaka, de la sfârșitul secolului al XVIII-lea. Este faimoasă pentru decorațiunile sale din mozaic cu stele albastre și plăci japoneze.", en: "A richly decorated mosque in the old part of Dhaka from the late 18th century. It is famous for its mosaic decorations made of blue stars and Japanese tiles." },
     facts: {
       de: ["Die charakteristischen Sternmotive wurden erst im 20. Jahrhundert hinzugefügt.", "Mirza Ghulam Pir ließ das Gebäude ursprünglich errichten."],
@@ -367,9 +355,8 @@ image: "/poi-images/star-mosque-history-v2.webp"
     type: "historical-site",
     parent: "BD-E",
     coords: [88.1517, 24.8456],
-    name: { de: "Kleine Goldene Moschee", hu: "Kis Arany mecset", ro: "Mica Moschee de Aur", en: "Chhota Sona Mosque",
-image: "/poi-images/chhota-sona-mosque-history-v2.webp"
-},
+    name: { de: "Kleine Goldene Moschee", hu: "Kis Arany mecset", ro: "Mica Moschee de Aur", en: "Chhota Sona Mosque"},
+    image: "/poi-images/chhota-sona-mosque-history-v2.webp",
     description: { de: "Eine historische Moschee aus der Zeit des Sultanats von Bengalen, nahe der Grenze zu Indien. Der Name bezieht sich auf die ursprüngliche Vergoldung der Kuppeln.", hu: "Egy történelmi mecset a bengáli szultanátus idejéből, az indiai határ közelében. A név a kupolák eredeti aranyozására utal.", ro: "O moschee istorică din perioada Sultanatului Bengal, aproape de granița cu India. Numele se referă la poleirea originală cu aur a cupolelor.", en: "A historic mosque from the Bengal Sultanate period, near the border with India. The name refers to the original gilding of the domes." },
     facts: {
       de: ["Die Moschee wurde zwischen 1493 und 1519 erbaut.", "Fünfzehn vergoldete Kuppeln zierten einst das Bauwerk."],
@@ -397,9 +384,8 @@ image: "/poi-images/chhota-sona-mosque-history-v2.webp"
     type: "historical-site",
     parent: "BD-E",
     coords: [88.8322, 24.3639],
-    name: { de: "Tempelkomplex von Puthia", hu: "Puthia templomegyüttes", ro: "Complexul de temple Puthia", en: "Puthia Temple Complex",
-image: "/poi-images/puthia-temple-complex-history-v2.webp"
-},
+    name: { de: "Tempelkomplex von Puthia", hu: "Puthia templomegyüttes", ro: "Complexul de temple Puthia", en: "Puthia Temple Complex"},
+    image: "/poi-images/puthia-temple-complex-history-v2.webp",
     description: { de: "Eine bemerkenswerte Ansammlung hinduistischer Tempel in der Rajshahi-Division. Die Terrakotta-Bauwerke aus dem 19. Jahrhundert sind für ihre aufwendigen Verzierungen berühmt.", hu: "Hindu templomok figyelemre méltó együttese Rajshahi régióban. A 19. századi terrakotta épületek a bonyolult díszítésekről híresek.", ro: "O colecție remarcabilă de temple hinduse în divizia Rajshahi. Clădirile din teracotă din secolul al XIX-lea sunt faimoase pentru decorațiunile lor complexe.", en: "A remarkable cluster of Hindu temples in the Rajshahi Division. The 19th-century terracotta structures are famous for their intricate decorations." },
     facts: {
       de: ["Der Govinda-Tempel ist das Herzstück der Anlage.", "Die Gebäude wurden von den Zamindars von Puthia finanziert."],
@@ -427,9 +413,8 @@ image: "/poi-images/puthia-temple-complex-history-v2.webp"
     type: "ruin",
     parent: "BD-C",
     coords: [90.8167, 24.0883],
-    name: { de: "Wari-Bateshwar-Ruinen", hu: "Wari-Bateshwar romok", ro: "Ruinele Wari-Bateshwar", en: "Wari-Bateshwar Ruins",
-image: "/poi-images/wari-bateshwar-ruins-history-v2.webp"
-},
+    name: { de: "Wari-Bateshwar-Ruinen", hu: "Wari-Bateshwar romok", ro: "Ruinele Wari-Bateshwar", en: "Wari-Bateshwar Ruins"},
+    image: "/poi-images/wari-bateshwar-ruins-history-v2.webp",
     description: { de: "Eine archäologische Stätte in der Region Narsingdi, die auf etwa 450 v. Chr. datiert wird. Es wird angenommen, dass es sich um eine städtische Siedlung an der Seidenstraße handelte.", hu: "Narsingdi régióban található régészeti lelőhely, amelyet körülbelül Kr. e. 450-re datálnak. Úgy vélik, hogy ez egy selyemút menti városi település volt.", ro: "Un sit arheologic în regiunea Narsingdi, datând aproximativ din 450 î.Hr. Se crede că a fost o așezare urbană de-a lungul Drumului Mătăsii.", en: "An archaeological site in the Narsingdi region, dating back to around 450 BC. It is believed to have been an urban settlement along the Silk Road." },
     facts: {
       de: ["Ausgrabungen brachten Silbermünzen und Halbedelsteine zutage.", "Die Anlage wies ein komplexes Straßensystem auf."],
@@ -457,9 +442,8 @@ image: "/poi-images/wari-bateshwar-ruins-history-v2.webp"
     type: "historical-site",
     parent: "BD-E",
     coords: [88.8344, 24.1953],
-    name: { de: "Bagha-Moschee", hu: "Bagha mecset", ro: "Moscheea Bagha", en: "Bagha Mosque",
-image: "/poi-images/bagha-mosque-history-v2.webp"
-},
+    name: { de: "Bagha-Moschee", hu: "Bagha mecset", ro: "Moscheea Bagha", en: "Bagha Mosque"},
+    image: "/poi-images/bagha-mosque-history-v2.webp",
     description: { de: "Eine wunderschöne historische Moschee am Rande von Rajshahi. Sie ist bekannt für ihre detailreichen Terrakotta-Muster, die Blumen und geometrische Formen darstellen.", hu: "Egy gyönyörű történelmi mecset Rajshahi szélén. Részletgazdag terrakotta mintáiról ismert, amelyek virágokat és geometriai formákat ábrázolnak.", ro: "O frumoasă moschee istorică la marginea orașului Rajshahi. Este cunoscută pentru modelele sale detaliate din teracotă, reprezentând flori și forme geometrice.", en: "A beautiful historic mosque on the outskirts of Rajshahi. It is known for its detailed terracotta patterns depicting flowers and geometric shapes." },
     facts: {
       de: ["Sie wurde 1523 unter der Herrschaft von Sultan Nusrat Shah erbaut.", "Das Bauwerk ziert die 50-Taka-Banknote von Bangladesch."],
@@ -487,9 +471,8 @@ image: "/poi-images/bagha-mosque-history-v2.webp"
     type: "ruin",
     parent: "BD-C",
     coords: [90.3944, 23.7122],
-    name: { de: "Bara Katra", hu: "Bara Katra", ro: "Bara Katra", en: "Bara Katra",
-image: "/poi-images/bara-katra-history-v2.webp"
-},
+    name: { de: "Bara Katra", hu: "Bara Katra", ro: "Bara Katra", en: "Bara Katra"},
+    image: "/poi-images/bara-katra-history-v2.webp",
     description: { de: "Ein historisches Bauwerk der Mogulzeit in Dhaka, das ursprünglich als Karawanserei diente. Heute sind nur noch die Ruinen des einst prunkvollen Gebäudes erhalten.", hu: "A mogul korszak egyik történelmi épülete Dakkában, amely eredetileg karavánszerájként szolgált. Ma már csak az egykor pompás épület romjai láthatók.", ro: "O structură istorică din perioada Mughal din Dhaka, care inițial servea drept caravanserai. Astăzi se mai păstrează doar ruinele clădirii cândva grandioase.", en: "A historic Mughal-era structure in Dhaka that originally served as a caravanserai. Today, only the ruins of the once magnificent building remain." },
     facts: {
       de: ["Das Gebäude wurde 1644 im Auftrag von Prinz Shah Shuja errichtet.", "Es bot reisenden Händlern Unterschlupf und Schutz."],
@@ -517,9 +500,8 @@ image: "/poi-images/bara-katra-history-v2.webp"
     type: "monument",
     parent: "BD-D",
     coords: [88.6381, 23.7381],
-    name: { de: "Mujibnagar-Denkmal", hu: "Mujibnagar emlékmű", ro: "Monumentul Mujibnagar", en: "Mujibnagar Monument",
-image: "/poi-images/mujibnagar-monument-history-v2.webp"
-},
+    name: { de: "Mujibnagar-Denkmal", hu: "Mujibnagar emlékmű", ro: "Monumentul Mujibnagar", en: "Mujibnagar Monument"},
+    image: "/poi-images/mujibnagar-monument-history-v2.webp",
     description: { de: "Das Denkmal erinnert an die erste provisorische Regierung von Bangladesch, die 1971 hier vereidigt wurde. Es ist ein Symbol des erfolgreichen Unabhängigkeitskampfes.", hu: "Az emlékmű az első bangladesi ideiglenes kormánynak állít emléket, amely 1971-ben itt tette le az esküt. A sikeres függetlenségi harc szimbóluma.", ro: "Monumentul comemorează primul guvern provizoriu al Bangladeshului, care a depus jurământul aici în 1971. Este un simbol al luptei de succes pentru independență.", en: "The monument commemorates the first provisional government of Bangladesh, which was sworn in here in 1971. It is a symbol of the successful struggle for independence." },
     facts: {
       de: ["Das Denkmal besteht aus 23 Säulen, die für 23 Jahre der Unterdrückung stehen.", "Der Ort hieß früher Baidyanathtala."],
@@ -547,9 +529,8 @@ image: "/poi-images/mujibnagar-monument-history-v2.webp"
     type: "historical-site",
     parent: "BD-C",
     coords: [90.3922, 23.7214],
-    name: { de: "Hussaini Dalan", hu: "Hussaini Dalan", ro: "Hussaini Dalan", en: "Hussaini Dalan",
-image: "/poi-images/hussaini-dalan-history-v2.webp"
-},
+    name: { de: "Hussaini Dalan", hu: "Hussaini Dalan", ro: "Hussaini Dalan", en: "Hussaini Dalan"},
+    image: "/poi-images/hussaini-dalan-history-v2.webp",
     description: { de: "Ein bedeutendes islamisches Bauwerk der Schiiten im Herzen von Dhaka. Es wurde im 17. Jahrhundert erbaut und diente als Versammlungshalle für religiöse Trauerfeiern.", hu: "Jelentős síita iszlám épület Dakka szívében. A 17. században épült, és vallási gyászszertartások gyülekezeti termeként szolgált.", ro: "O importantă structură islamică șiită în inima orașului Dhaka. A fost construită în secolul al XVII-lea și a servit drept sală de adunare pentru ceremoniile religioase de doliu.", en: "An important Shia Islamic structure in the heart of Dhaka. It was built in the 17th century and served as an assembly hall for religious mourning ceremonies." },
     facts: {
       de: ["Das Gebäude wurde während des Erdbebens 1897 schwer beschädigt.", "Es wurde im Auftrag von Mir Murad erbaut."],
@@ -577,9 +558,8 @@ image: "/poi-images/hussaini-dalan-history-v2.webp"
     type: "historical-site",
     parent: "BD-C",
     coords: [90.4267, 23.7169],
-    name: { de: "Rosengarten-Palast", hu: "Rózsakert palota", ro: "Palatul Grădinii de Trandafiri", en: "Rose Garden Palace",
-image: "/poi-images/rose-garden-palace-history-v2.webp"
-},
+    name: { de: "Rosengarten-Palast", hu: "Rózsakert palota", ro: "Palatul Grădinii de Trandafiri", en: "Rose Garden Palace"},
+    image: "/poi-images/rose-garden-palace-history-v2.webp",
     description: { de: "Ein prachtvolles Herrenhaus in Dhaka aus dem späten 19. Jahrhundert. Es ist historisch bedeutsam, da hier die Awami-Liga gegründet wurde.", hu: "Egy pompás 19. század végi kúria Dakkában. Történelmi jelentősége abban rejlik, hogy itt alapították meg az Awami Ligát.", ro: "Un conac magnific din Dhaka de la sfârșitul secolului al XIX-lea. Este semnificativ din punct de vedere istoric deoarece aici a fost fondată Liga Awami.", en: "A magnificent late 19th-century mansion in Dhaka. It is historically significant as the Awami League was founded here." },
     facts: {
       de: ["Die Gründung der politischen Partei fand 1949 statt.", "Das Anwesen gehörte ursprünglich einem hinduistischen Grundbesitzer."],

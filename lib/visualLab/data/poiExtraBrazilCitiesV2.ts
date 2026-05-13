@@ -8,9 +8,8 @@ export const poiExtraBrazilCitiesV2: POI[] = [
     type: "state-capital",
     parent: "BR-SP",
     coords: [-46.6333, -23.5505],
-    name: { de: "São Paulo", hu: "São Paulo", ro: "São Paulo", en: "São Paulo",
-image: "/poi-images/sao-paulo-cities-v2.webp"
-},
+    name: { de: "São Paulo", hu: "São Paulo", ro: "São Paulo", en: "São Paulo"},
+    image: "/poi-images/sao-paulo-cities-v2.webp",
     description: { de: "Die größte Stadt Südamerikas und das wirtschaftliche Zentrum Brasiliens, bekannt für ihre Architektur und Gastronomie.", hu: "Dél-Amerika legnagyobb városa és Brazília gazdasági központja, amely híres építészetéről és gasztronómiájáról.", ro: "Cel mai mare oraș din America de Sud și centrul economic al Braziliei, cunoscut pentru arhitectura și gastronomia sa.", en: "The largest city in South America and the economic hub of Brazil, known for its architecture and gastronomy." },
     facts: {
       de: ["Über 12 Millionen Einwohner.", "Besitzt die meisten Wolkenkratzer des Landes.", "Berühmte Avenida Paulista.", "Größtes japanisches Viertel außerhalb Japans (Liberdade)."],
@@ -35,9 +34,8 @@ image: "/poi-images/sao-paulo-cities-v2.webp"
     type: "state-capital",
     parent: "BR-RJ",
     coords: [-43.1729, -22.9068],
-    name: { de: "Rio de Janeiro", hu: "Rio de Janeiro", ro: "Rio de Janeiro", en: "Rio de Janeiro",
-image: "/poi-images/rio-de-janeiro-cities-v2.webp"
-},
+    name: { de: "Rio de Janeiro", hu: "Rio de Janeiro", ro: "Rio de Janeiro", en: "Rio de Janeiro"},
+    image: "/poi-images/rio-de-janeiro-cities-v2.webp",
     description: { de: "Eine ikonische Küstenstadt, berühmt für den Karneval, die Copacabana und die Christusstatue auf dem Corcovado.", hu: "Egy ikonikus tengerparti város, amely híres a karneválról, a Copacabanáról és a Megváltó Krisztus szobráról.", ro: "Un oraș de coastă iconic, faimos pentru carnaval, Copacabana și statuia lui Hristos Mântuitorul.", en: "An iconic coastal city famous for its Carnival, Copacabana beach, and Christ the Redeemer statue." },
     facts: {
       de: ["War bis 1960 die Hauptstadt Brasiliens.", "Christusstatue ist eines der Neuen Sieben Weltwunder.", "Jährlich Millionen Besucher beim Karneval.", "Umgeben von markanten Granitbergen."],
@@ -62,9 +60,8 @@ image: "/poi-images/rio-de-janeiro-cities-v2.webp"
     type: "state-capital",
     parent: "BR-DF",
     coords: [-47.9292, -15.7801],
-    name: { de: "Brasília", hu: "Brazíliaváros", ro: "Brasília", en: "Brasília",
-image: "/poi-images/brasilia-cities-v2.webp"
-},
+    name: { de: "Brasília", hu: "Brazíliaváros", ro: "Brasília", en: "Brasília"},
+    image: "/poi-images/brasilia-cities-v2.webp",
     description: { de: "Die moderne Hauptstadt Brasiliens, die in den 1950er Jahren aus dem Nichts entworfen wurde.", hu: "Brazília modern fővárosa, amelyet az 1950-es években a semmiből terveztek.", ro: "Capitala modernă a Braziliei, proiectată de la zero în anii 1950.", en: "The modern capital of Brazil, designed from scratch in the 1950s." },
     facts: {
       de: ["Geplant vom Architekten Oscar Niemeyer.", "Grundriss in Form eines Flugzeugs.", "Gegründet im Jahr 1960.", "UNESCO-Weltkulturerbe."],
@@ -89,9 +86,8 @@ image: "/poi-images/brasilia-cities-v2.webp"
     type: "state-capital",
     parent: "BR-BA",
     coords: [-38.5124, -12.9714],
-    name: { de: "Salvador", hu: "Salvador", ro: "Salvador", en: "Salvador",
-image: "/poi-images/salvador-cities-v2.webp"
-},
+    name: { de: "Salvador", hu: "Salvador", ro: "Salvador", en: "Salvador"},
+    image: "/poi-images/salvador-cities-v2.webp",
     description: { de: "Die erste Hauptstadt Brasiliens, bekannt für ihre afrobrasilianische Kultur und historische Architektur.", hu: "Brazília első fővárosa, amely az afro-brazil kultúráról és történelmi építészetéről ismert.", ro: "Prima capitală a Braziliei, cunoscută pentru cultura sa afro-braziliană și arhitectura istorică.", en: "The first capital of Brazil, known for its Afro-Brazilian culture and historical architecture." },
     facts: {
       de: ["Zentrum der Capoeira-Kampfkunst.", "Historische Altstadt Pelourinho.", "Besitzt den größten Straßenkarneval der Welt.", "Stark beeinflusst von westafrikanischen Traditionen."],
@@ -116,9 +112,8 @@ image: "/poi-images/salvador-cities-v2.webp"
     type: "state-capital",
     parent: "BR-CE",
     coords: [-38.5267, -3.7319],
-    name: { de: "Fortaleza", hu: "Fortaleza", ro: "Fortaleza", en: "Fortaleza",
-image: "/poi-images/fortaleza-cities-v2.webp"
-},
+    name: { de: "Fortaleza", hu: "Fortaleza", ro: "Fortaleza", en: "Fortaleza"},
+    image: "/poi-images/fortaleza-cities-v2.webp",
     description: { de: "Eine große Hafenstadt im Nordosten, bekannt für ihre sonnigen Strände und reiche Folklore.", hu: "Egy nagy kikötőváros északkeleten, amely napsütötte strandjairól és gazdag folklórjáról ismert.", ro: "Un mare oraș-port în nord-est, cunoscut pentru plajele sale însorite și folclorul bogat.", en: "A large port city in the northeast, known for its sunny beaches and rich folklore." },
     facts: {
       de: ["Beliebtes Touristenziel Brasiliens.", "Besitzt den riesigen Wasserpark Beach Park.", "Wichtiger Seehafen am Atlantik.", "Bekannt für traditionelle Spitze und Kunsthandwerk."],
@@ -143,9 +138,8 @@ image: "/poi-images/fortaleza-cities-v2.webp"
     type: "state-capital",
     parent: "BR-MG",
     coords: [-43.9378, -19.9208],
-    name: { de: "Belo Horizonte", hu: "Belo Horizonte", ro: "Belo Horizonte", en: "Belo Horizonte",
-image: "/poi-images/belo-horizonte-cities-v2.webp"
-},
+    name: { de: "Belo Horizonte", hu: "Belo Horizonte", ro: "Belo Horizonte", en: "Belo Horizonte"},
+    image: "/poi-images/belo-horizonte-cities-v2.webp",
     description: { de: "Die Hauptstadt von Minas Gerais, umgeben von Bergen und bekannt für ihre traditionellen Bars (Botecos).", hu: "Minas Gerais fővárosa, amelyet hegyek vesznek körül, és híres hagyományos bárjairól (Botecos).", ro: "Capitala statului Minas Gerais, înconjurată de munți și cunoscută pentru barurile sale tradiționale (Botecos).", en: "The capital of Minas Gerais, surrounded by mountains and famous for its traditional bars (Botecos)." },
     facts: {
       de: ["Erste geplante Stadt Brasiliens.", "Zentrum der Pão de Queijo (Käsebrot) Produktion.", "Beherbergt den Pampulha-Architekturkomplex.", "Großer Einfluss auf die brasilianische Musik."],
@@ -170,9 +164,8 @@ image: "/poi-images/belo-horizonte-cities-v2.webp"
     type: "state-capital",
     parent: "BR-AM",
     coords: [-60.0217, -3.119],
-    name: { de: "Manaus", hu: "Manaus", ro: "Manaus", en: "Manaus",
-image: "/poi-images/manaus-cities-v2.webp"
-},
+    name: { de: "Manaus", hu: "Manaus", ro: "Manaus", en: "Manaus"},
+    image: "/poi-images/manaus-cities-v2.webp",
     description: { de: "Eine Metropole mitten im Amazonas-Regenwald, erreichbar fast nur per Schiff oder Flugzeug.", hu: "Egy metropolisz az amazonasi esőerdő közepén, amely szinte csak hajóval vagy repülővel érhető el.", ro: "O metropolă în mijlocul pădurii tropicale amazoniene, accesibilă aproape doar cu barca sau avionul.", en: "A metropolis in the middle of the Amazon rainforest, accessible almost entirely by ship or airplane." },
     facts: {
       de: ["Entstand während des Kautschukbooms.", "Standort des berühmten Teatro Amazonas.", "Treffpunkt der Flüsse Negro und Solimões.", "Eine riesige Freihandelszone."],
@@ -197,9 +190,8 @@ image: "/poi-images/manaus-cities-v2.webp"
     type: "state-capital",
     parent: "BR-PR",
     coords: [-49.2731, -25.4284],
-    name: { de: "Curitiba", hu: "Curitiba", ro: "Curitiba", en: "Curitiba",
-image: "/poi-images/curitiba-cities-v2.webp"
-},
+    name: { de: "Curitiba", hu: "Curitiba", ro: "Curitiba", en: "Curitiba"},
+    image: "/poi-images/curitiba-cities-v2.webp",
     description: { de: "Die Hauptstadt von Paraná, weltweit anerkannt für ihre innovativen städtebaulichen und ökologischen Lösungen.", hu: "Paraná fővárosa, amelyet világszerte elismernek innovatív várostervezési és ökológiai megoldásaiért.", ro: "Capitala statului Paraná, recunoscută la nivel mondial pentru soluțiile sale inovatoare urbane și ecologice.", en: "The capital of Paraná, globally recognized for its innovative urban and ecological solutions." },
     facts: {
       de: ["Pionier des Bus-Rapid-Transit-Systems.", "Gilt als die grünste Stadt Brasiliens.", "Starker europäischer Einwanderereinfluss.", "Besitzt einen botanischen Garten aus Glas."],
@@ -224,9 +216,8 @@ image: "/poi-images/curitiba-cities-v2.webp"
     type: "state-capital",
     parent: "BR-PE",
     coords: [-34.8811, -8.0476],
-    name: { de: "Recife", hu: "Recife", ro: "Recife", en: "Recife",
-image: "/poi-images/recife-cities-v2.webp"
-},
+    name: { de: "Recife", hu: "Recife", ro: "Recife", en: "Recife"},
+    image: "/poi-images/recife-cities-v2.webp",
     description: { de: "Eine historische Hafenstadt, oft Venedig Brasiliens genannt wegen ihrer vielen Flüsse, Kanäle und Brücken.", hu: "Történelmi kikötőváros, amelyet gyakran Brazília Velencéjének neveznek számos folyója, csatornája és hídja miatt.", ro: "Un oraș-port istoric, adesea numit Veneția Braziliei datorită numeroaselor sale râuri, canale și poduri.", en: "A historic port city, often called the Venice of Brazil due to its many rivers, canals, and bridges." },
     facts: {
       de: ["Wichtiges Zentrum für Technologie und IT.", "Bekannt für den Frevo-Tanz und Karneval.", "Einer der ältesten Häfen Südamerikas.", "War im 17. Jahrhundert niederländische Kolonie."],
@@ -251,9 +242,8 @@ image: "/poi-images/recife-cities-v2.webp"
     type: "state-capital",
     parent: "BR-GO",
     coords: [-49.2539, -16.6869],
-    name: { de: "Goiânia", hu: "Goiânia", ro: "Goiânia", en: "Goiânia",
-image: "/poi-images/goiania-cities-v2.webp"
-},
+    name: { de: "Goiânia", hu: "Goiânia", ro: "Goiânia", en: "Goiânia"},
+    image: "/poi-images/goiania-cities-v2.webp",
     description: { de: "Eine geplante Stadt im Zentrum des Landes, die für ihre vielen Parks und Art-déco-Gebäude bekannt ist.", hu: "Egy tervezett város az ország központjában, amely számos parkjáról és art deco épületéről ismert.", ro: "Un oraș planificat în centrul țării, cunoscut pentru numeroasele sale parcuri și clădiri Art Deco.", en: "A planned city in the center of the country, known for its many parks and Art Deco buildings." },
     facts: {
       de: ["Gegründet im Jahr 1933.", "Hat eine der größten Grünflächen pro Einwohner.", "Zentrum der brasilianischen Country-Musik (Sertanejo).", "Zweitbevölkerungsreichste Stadt im Mittleren Westen."],
@@ -278,9 +268,8 @@ image: "/poi-images/goiania-cities-v2.webp"
     type: "state-capital",
     parent: "BR-PA",
     coords: [-48.5044, -1.4558],
-    name: { de: "Belém", hu: "Belém", ro: "Belém", en: "Belém",
-image: "/poi-images/belem-cities-v2.webp"
-},
+    name: { de: "Belém", hu: "Belém", ro: "Belém", en: "Belém"},
+    image: "/poi-images/belem-cities-v2.webp",
     description: { de: "Eine Hafenstadt an der Mündung des Amazonas, berühmt für ihren Markt Ver-o-Peso.", hu: "Kikötőváros az Amazonas torkolatánál, amely a Ver-o-Peso piacáról híres.", ro: "Un oraș-port la gura de vărsare a Amazonului, renumit pentru piața sa Ver-o-Peso.", en: "A port city at the mouth of the Amazon, famous for its Ver-o-Peso market." },
     facts: {
       de: ["Tor zum Amazonasgebiet.", "Größter Freiluftmarkt Lateinamerikas (Ver-o-Peso).", "Heimat des religiösen Festes Círio de Nazaré.", "Bekannt für Açaí-Produktion."],
@@ -305,9 +294,8 @@ image: "/poi-images/belem-cities-v2.webp"
     type: "state-capital",
     parent: "BR-RS",
     coords: [-51.2287, -30.0346],
-    name: { de: "Porto Alegre", hu: "Porto Alegre", ro: "Porto Alegre", en: "Porto Alegre",
-image: "/poi-images/porto-alegre-cities-v2.webp"
-},
+    name: { de: "Porto Alegre", hu: "Porto Alegre", ro: "Porto Alegre", en: "Porto Alegre"},
+    image: "/poi-images/porto-alegre-cities-v2.webp",
     description: { de: "Die südlichste Hauptstadt Brasiliens, tief verwurzelt in der Gaucho-Kultur (südamerikanische Cowboys).", hu: "Brazília legdélebbi fővárosa, amely mélyen gyökerezik a gaucho (dél-amerikai cowboy) kultúrában.", ro: "Cea mai sudică capitală a Braziliei, adânc înrădăcinată în cultura Gaucho (cowboy sud-americani).", en: "The southernmost capital of Brazil, deeply rooted in Gaucho (South American cowboy) culture." },
     facts: {
       de: ["Zentrum des Churrasco (brasilianisches Barbecue).", "Beliebt für den Konsum von Mate-Tee (Chimarrão).", "Hat eine hohe Lebensqualität.", "Liegt am Ufer des Guaíba-Sees."],
@@ -332,9 +320,8 @@ image: "/poi-images/porto-alegre-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-46.5333, -23.4628],
-    name: { de: "Guarulhos", hu: "Guarulhos", ro: "Guarulhos", en: "Guarulhos",
-image: "/poi-images/guarulhos-cities-v2.webp"
-},
+    name: { de: "Guarulhos", hu: "Guarulhos", ro: "Guarulhos", en: "Guarulhos"},
+    image: "/poi-images/guarulhos-cities-v2.webp",
     description: { de: "Eine bedeutende Industriestadt im Großraum São Paulo, in der sich der größte internationale Flughafen Brasiliens befindet.", hu: "Jelentős iparváros São Paulo vonzáskörzetében, ahol Brazília legnagyobb nemzetközi repülőtere található.", ro: "Un oraș industrial major în regiunea metropolitană São Paulo, care găzduiește cel mai mare aeroport internațional din Brazilia.", en: "A major industrial city in the Greater São Paulo area, home to Brazil's largest international airport." },
     facts: {
       de: ["Beherbergt den Flughafen São Paulo-Guarulhos.", "Zweitgrößte Stadt im Bundesstaat São Paulo.", "Wichtiger Logistik- und Industrie-Hub.", "Stark wachsendes Geschäftszentrum."],
@@ -359,9 +346,8 @@ image: "/poi-images/guarulhos-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-47.0608, -22.9099],
-    name: { de: "Campinas", hu: "Campinas", ro: "Campinas", en: "Campinas",
-image: "/poi-images/campinas-cities-v2.webp"
-},
+    name: { de: "Campinas", hu: "Campinas", ro: "Campinas", en: "Campinas"},
+    image: "/poi-images/campinas-cities-v2.webp",
     description: { de: "Ein führendes Forschungs- und Technologiezentrum im Landesinneren des Bundesstaates São Paulo.", hu: "Vezető kutatási és technológiai központ São Paulo állam belső részén.", ro: "Un centru de cercetare și tehnologie de top din interiorul statului São Paulo.", en: "A leading research and technology center in the interior of the state of São Paulo." },
     facts: {
       de: ["Oft als das Silicon Valley Brasiliens bezeichnet.", "Beherbergt die renommierte Unicamp-Universität.", "Besitzt den wichtigen Flughafen Viracopos.", "Ehemaliges Zentrum der Kaffeeproduktion."],
@@ -386,9 +372,8 @@ image: "/poi-images/campinas-cities-v2.webp"
     type: "state-capital",
     parent: "BR-MA",
     coords: [-44.3028, -2.5297],
-    name: { de: "São Luís", hu: "São Luís", ro: "São Luís", en: "São Luís",
-image: "/poi-images/sao-luis-cities-v2.webp"
-},
+    name: { de: "São Luís", hu: "São Luís", ro: "São Luís", en: "São Luís"},
+    image: "/poi-images/sao-luis-cities-v2.webp",
     description: { de: "Eine historische Inselstadt, die stark von der portugiesischen Kolonialarchitektur und afrobrasilianischen Traditionen geprägt ist.", hu: "Történelmi szigetváros, amelyet erősen jellemez a portugál gyarmati építészet és az afro-brazil hagyományok.", ro: "Un oraș insular istoric, puternic influențat de arhitectura colonială portugheză și tradițiile afro-braziliene.", en: "A historic island city strongly influenced by Portuguese colonial architecture and Afro-Brazilian traditions." },
     facts: {
       de: ["Die einzige brasilianische Hauptstadt, die von Franzosen gegründet wurde.", "Das historische Zentrum ist UNESCO-Welterbe.", "Berühmt für das Bumba-Meu-Boi Fest.", "Bekannt für seine mit Kacheln (Azulejos) verkleideten Gebäude."],
@@ -413,9 +398,8 @@ image: "/poi-images/sao-luis-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-43.0631, -22.8269],
-    name: { de: "São Gonçalo", hu: "São Gonçalo", ro: "São Gonçalo", en: "São Gonçalo",
-image: "/poi-images/sao-goncalo-cities-v2.webp"
-},
+    name: { de: "São Gonçalo", hu: "São Gonçalo", ro: "São Gonçalo", en: "São Gonçalo"},
+    image: "/poi-images/sao-goncalo-cities-v2.webp",
     description: { de: "Eine einwohnerstarke Stadt in der Metropolregion Rio de Janeiro mit wachsender industrieller Bedeutung.", hu: "Népes város Rio de Janeiro vonzáskörzetében, növekvő ipari jelentőséggel.", ro: "Un oraș foarte populat din regiunea metropolitană Rio de Janeiro, cu o importanță industrială în creștere.", en: "A highly populated city in the Rio de Janeiro metropolitan area with growing industrial importance." },
     facts: {
       de: ["Zweitgrößte Stadt im Bundesstaat Rio de Janeiro.", "Historisch als das 'Manchester Fluminense' bekannt.", "Wichtig für die Schiffbauindustrie.", "Hat eine große Arbeiterbevölkerung."],
@@ -440,9 +424,8 @@ image: "/poi-images/sao-goncalo-cities-v2.webp"
     type: "state-capital",
     parent: "BR-AL",
     coords: [-35.7331, -9.6662],
-    name: { de: "Maceió", hu: "Maceió", ro: "Maceió", en: "Maceió",
-image: "/poi-images/maceio-cities-v2.webp"
-},
+    name: { de: "Maceió", hu: "Maceió", ro: "Maceió", en: "Maceió"},
+    image: "/poi-images/maceio-cities-v2.webp",
     description: { de: "Eine wunderschöne Küstenstadt, berühmt für ihr smaragdgrünes Meer und ihre natürlichen Pools.", hu: "Gyönyörű tengerparti város, amely smaragdzöld tengeréről és természetes medencéiről híres.", ro: "Un oraș de coastă frumos, renumit pentru marea sa de smarald și piscinele naturale.", en: "A beautiful coastal city famous for its emerald green sea and natural pools." },
     facts: {
       de: ["Bekannt als das 'Wasserparadies Brasiliens'.", "Natürliche Pools (Piscinas Naturais) am Pajuçara-Strand.", "Ein wichtiges Ziel für den Inlandstourismus.", "Bedeutend für den Zuckerrohranbau."],
@@ -467,9 +450,8 @@ image: "/poi-images/maceio-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-43.3117, -22.7856],
-    name: { de: "Duque de Caxias", hu: "Duque de Caxias", ro: "Duque de Caxias", en: "Duque de Caxias",
-image: "/poi-images/duque-de-caxias-cities-v2.webp"
-},
+    name: { de: "Duque de Caxias", hu: "Duque de Caxias", ro: "Duque de Caxias", en: "Duque de Caxias"},
+    image: "/poi-images/duque-de-caxias-cities-v2.webp",
     description: { de: "Eines der größten Industrie- und Handelszentren im Bundesstaat Rio de Janeiro.", hu: "Rio de Janeiro állam egyik legnagyobb ipari és kereskedelmi központja.", ro: "Unul dintre cele mai mari centre industriale și comerciale din statul Rio de Janeiro.", en: "One of the largest industrial and commercial centers in the state of Rio de Janeiro." },
     facts: {
       de: ["Hat die größte Erdölraffinerie Brasiliens (REDUC).", "Bedeutender Wirtschaftsmotor für die Region.", "Sehr hohe Bevölkerungsdichte.", "Teil der Baixada Fluminense."],
@@ -494,9 +476,8 @@ image: "/poi-images/duque-de-caxias-cities-v2.webp"
     type: "state-capital",
     parent: "BR-MS",
     coords: [-54.6201, -20.4428],
-    name: { de: "Campo Grande", hu: "Campo Grande", ro: "Campo Grande", en: "Campo Grande",
-image: "/poi-images/campo-grande-cities-v2.webp"
-},
+    name: { de: "Campo Grande", hu: "Campo Grande", ro: "Campo Grande", en: "Campo Grande"},
+    image: "/poi-images/campo-grande-cities-v2.webp",
     description: { de: "Die Hauptstadt von Mato Grosso do Sul, bekannt für ihre weiten Alleen und starke landwirtschaftliche Prägung.", hu: "Mato Grosso do Sul fővárosa, amely széles sugárútjairól és erős mezőgazdasági jellegéről ismert.", ro: "Capitala statului Mato Grosso do Sul, cunoscută pentru bulevardele sale largi și caracterul agricol puternic.", en: "The capital of Mato Grosso do Sul, known for its wide avenues and strong agricultural character." },
     facts: {
       de: ["Wird auch die 'braune Stadt' (Cidade Morena) genannt.", "Wichtiger Hub für die Rinderzucht.", "Das Tor zur Pantanal-Region.", "Starker Einfluss indigener und paraguayischer Kultur."],
@@ -521,9 +502,8 @@ image: "/poi-images/campo-grande-cities-v2.webp"
     type: "state-capital",
     parent: "BR-RN",
     coords: [-35.2094, -5.7945],
-    name: { de: "Natal", hu: "Natal", ro: "Natal", en: "Natal",
-image: "/poi-images/natal-cities-v2.webp"
-},
+    name: { de: "Natal", hu: "Natal", ro: "Natal", en: "Natal"},
+    image: "/poi-images/natal-cities-v2.webp",
     description: { de: "Eine sonnige Stadt im Nordosten, bekannt für ihre riesigen Sanddünen und die frische Meeresbrise.", hu: "Napfényes város északkeleten, amely hatalmas homokdűnéiről és a friss tengeri szellőről ismert.", ro: "Un oraș însorit în nord-est, cunoscut pentru dunele sale uriașe de nisip și briza proaspătă a mării.", en: "A sunny city in the northeast, known for its massive sand dunes and fresh sea breeze." },
     facts: {
       de: ["Bedeutet 'Weihnachten' auf Portugiesisch.", "Besitzt den größten Cashewbaum der Welt in der Nähe.", "Berühmt für Buggy-Fahrten auf den Dünen von Genipabu.", "Wurde während des Zweiten Weltkriegs als US-Luftwaffenbasis genutzt."],
@@ -548,9 +528,8 @@ image: "/poi-images/natal-cities-v2.webp"
     type: "state-capital",
     parent: "BR-PI",
     coords: [-42.8019, -5.0892],
-    name: { de: "Teresina", hu: "Teresina", ro: "Teresina", en: "Teresina",
-image: "/poi-images/teresina-cities-v2.webp"
-},
+    name: { de: "Teresina", hu: "Teresina", ro: "Teresina", en: "Teresina"},
+    image: "/poi-images/teresina-cities-v2.webp",
     description: { de: "Die einzige Hauptstadt im Nordosten Brasiliens, die nicht an der Küste liegt, bekannt für ihre Hitze.", hu: "Az egyetlen főváros Brazília északkeleti részén, amely nem a tengerparton fekszik, és forróságáról ismert.", ro: "Singura capitală din nord-estul Braziliei care nu este pe coastă, cunoscută pentru căldura sa.", en: "The only capital in northeastern Brazil that is not on the coast, known for its heat." },
     facts: {
       de: ["Liegt am Fluss Parnaíba.", "Wird oft die 'Grüne Stadt' (Cidade Verde) genannt.", "Erste geplante Hauptstadt Brasiliens.", "Wichtiges medizinisches Zentrum der Region."],
@@ -575,9 +554,8 @@ image: "/poi-images/teresina-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-46.55, -23.6939],
-    name: { de: "São Bernardo do Campo", hu: "São Bernardo do Campo", ro: "São Bernardo do Campo", en: "São Bernardo do Campo",
-image: "/poi-images/sao-bernardo-do-campo-cities-v2.webp"
-},
+    name: { de: "São Bernardo do Campo", hu: "São Bernardo do Campo", ro: "São Bernardo do Campo", en: "São Bernardo do Campo"},
+    image: "/poi-images/sao-bernardo-do-campo-cities-v2.webp",
     description: { de: "Eine stark industrialisierte Stadt in der Metropolregion São Paulo, die historisch als Wiege der brasilianischen Automobilindustrie gilt.", hu: "Erősen iparosodott város São Paulo vonzáskörzetében, amelyet történelmileg a brazil autóipar bölcsőjeként tartanak számon.", ro: "Un oraș puternic industrializat din regiunea metropolitană São Paulo, considerat istoric ca leagănul industriei auto braziliene.", en: "A highly industrialized city in the São Paulo metropolitan area, historically considered the cradle of the Brazilian automotive industry." },
     facts: {
       de: ["Teil der sogenannten ABC-Region.", "Besitzt viele Automobilfabriken.", "Wichtiger Ort für die brasilianische Gewerkschaftsbewegung.", "Hat auch große Stauseen zur Trinkwasserversorgung."],
@@ -602,9 +580,8 @@ image: "/poi-images/sao-bernardo-do-campo-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-43.4503, -22.7561],
-    name: { de: "Nova Iguaçu", hu: "Nova Iguaçu", ro: "Nova Iguaçu", en: "Nova Iguaçu",
-image: "/poi-images/nova-iguacu-cities-v2.webp"
-},
+    name: { de: "Nova Iguaçu", hu: "Nova Iguaçu", ro: "Nova Iguaçu", en: "Nova Iguaçu"},
+    image: "/poi-images/nova-iguacu-cities-v2.webp",
     description: { de: "Eine einwohnerstarke Stadt in der Baixada Fluminense in der Metropolregion von Rio de Janeiro.", hu: "Népes város a Baixada Fluminense régióban, Rio de Janeiro vonzáskörzetében.", ro: "Un oraș foarte populat din Baixada Fluminense, în regiunea metropolitană Rio de Janeiro.", en: "A highly populated city in the Baixada Fluminense region in the metropolitan area of Rio de Janeiro." },
     facts: {
       de: ["Historisch bedeutend für den Orangenanbau.", "Ein wichtiges Pendlerzentrum nach Rio.", "Besitzt ausgedehnte Naturschutzgebiete in den Bergen.", "Wirtschaftlich im Handel und Dienstleistungssektor stark."],
@@ -629,9 +606,8 @@ image: "/poi-images/nova-iguacu-cities-v2.webp"
     type: "state-capital",
     parent: "BR-PB",
     coords: [-34.8631, -7.1153],
-    name: { de: "João Pessoa", hu: "João Pessoa", ro: "João Pessoa", en: "João Pessoa",
-image: "/poi-images/joao-pessoa-cities-v2.webp"
-},
+    name: { de: "João Pessoa", hu: "João Pessoa", ro: "João Pessoa", en: "João Pessoa"},
+    image: "/poi-images/joao-pessoa-cities-v2.webp",
     description: { de: "Eine der ältesten Städte Brasiliens und der östlichste Punkt des amerikanischen Kontinents.", hu: "Brazília egyik legrégebbi városa és az amerikai kontinens legkeletibb pontja.", ro: "Unul dintre cele mai vechi orașe din Brazilia și cel mai estic punct al continentului american.", en: "One of the oldest cities in Brazil and the easternmost point of the American continent." },
     facts: {
       de: ["Gegründet im Jahr 1585.", "Bekannt als die Stadt, wo die Sonne zuerst aufgeht (in Amerika).", "Ponta do Seixas ist der östlichste Punkt.", "Hat sehr viel städtisches Grün."],
@@ -656,9 +632,8 @@ image: "/poi-images/joao-pessoa-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-45.8869, -23.2237],
-    name: { de: "São José dos Campos", hu: "São José dos Campos", ro: "São José dos Campos", en: "São José dos Campos",
-image: "/poi-images/sao-jose-dos-campos-cities-v2.webp"
-},
+    name: { de: "São José dos Campos", hu: "São José dos Campos", ro: "São José dos Campos", en: "São José dos Campos"},
+    image: "/poi-images/sao-jose-dos-campos-cities-v2.webp",
     description: { de: "Das technologische Herz Brasiliens, besonders bekannt für seine Luft- und Raumfahrtindustrie.", hu: "Brazília technológiai szíve, amely különösen a repülőgép- és űriparáról ismert.", ro: "Inima tehnologică a Braziliei, cunoscută în special pentru industria aerospațială.", en: "The technological heart of Brazil, particularly known for its aerospace industry." },
     facts: {
       de: ["Hauptsitz des Flugzeugherstellers Embraer.", "Beherbergt das Nationale Institut für Weltraumforschung (INPE).", "Wichtiger Technologiestandort im Paraíba-Tal.", "Eine der Städte mit der höchsten Lebensqualität im Land."],
@@ -683,9 +658,8 @@ image: "/poi-images/sao-jose-dos-campos-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-46.5383, -23.6553],
-    name: { de: "Santo André", hu: "Santo André", ro: "Santo André", en: "Santo André",
-image: "/poi-images/santo-andre-cities-v2.webp"
-},
+    name: { de: "Santo André", hu: "Santo André", ro: "Santo André", en: "Santo André"},
+    image: "/poi-images/santo-andre-cities-v2.webp",
     description: { de: "Eine wichtige Industriestadt im Großraum São Paulo, Teil der wirtschaftlich starken ABC-Region.", hu: "Fontos iparváros São Paulo vonzáskörzetében, a gazdaságilag erős ABC-régió része.", ro: "Un important oraș industrial din regiunea metropolitană São Paulo, care face parte din regiunea puternic economică ABC.", en: "An important industrial city in the Greater São Paulo area, part of the economically strong ABC region." },
     facts: {
       de: ["Traditionelles Zentrum für Petrochemie und Kunststoffindustrie.", "Gegründet im Jahr 1553.", "Bietet historische Siedlungen wie Paranapiacaba.", "Starker europäischer Einwanderereinfluss im 19. Jahrhundert."],
@@ -710,9 +684,8 @@ image: "/poi-images/santo-andre-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-47.8103, -21.1704],
-    name: { de: "Ribeirão Preto", hu: "Ribeirão Preto", ro: "Ribeirão Preto", en: "Ribeirão Preto",
-image: "/poi-images/ribeirao-preto-cities-v2.webp"
-},
+    name: { de: "Ribeirão Preto", hu: "Ribeirão Preto", ro: "Ribeirão Preto", en: "Ribeirão Preto"},
+    image: "/poi-images/ribeirao-preto-cities-v2.webp",
     description: { de: "Ein wohlhabendes Zentrum für Landwirtschaft und Handel im Inneren des Bundesstaates São Paulo, das historisch durch Kaffee reich wurde.", hu: "A mezőgazdaság és a kereskedelem tehetős központja São Paulo állam belső részén, amely történelmileg a kávé révén gazdagodott meg.", ro: "Un centru prosper pentru agricultură și comerț din interiorul statului São Paulo, care s-a îmbogățit istoric datorită cafelei.", en: "A prosperous center for agriculture and commerce in the interior of the state of São Paulo, which grew rich historically through coffee." },
     facts: {
       de: ["Wichtiges Zentrum der brasilianischen Agrarwirtschaft.", "War früher die 'Kaffeehauptstadt der Welt'.", "Oft 'Brasilianisches Kalifornien' genannt.", "Hat eine der berühmtesten Brauereien (Pinguim)."],
@@ -737,9 +710,8 @@ image: "/poi-images/ribeirao-preto-cities-v2.webp"
     type: "city",
     parent: "BR-PE",
     coords: [-35.0153, -8.1128],
-    name: { de: "Jaboatão dos Guararapes", hu: "Jaboatão dos Guararapes", ro: "Jaboatão dos Guararapes", en: "Jaboatão dos Guararapes",
-image: "/poi-images/jaboatao-dos-guararapes-cities-v2.webp"
-},
+    name: { de: "Jaboatão dos Guararapes", hu: "Jaboatão dos Guararapes", ro: "Jaboatão dos Guararapes", en: "Jaboatão dos Guararapes"},
+    image: "/poi-images/jaboatao-dos-guararapes-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt in Pernambuco, tief mit der frühen Kolonialgeschichte und berühmten Schlachten gegen die Niederländer verbunden.", hu: "Pernambuco második legnagyobb városa, amely szorosan kötődik a korai gyarmati történelemhez és a hollandok elleni híres csatákhoz.", ro: "Al doilea oraș ca mărime din Pernambuco, adânc legat de istoria colonială timpurie și de faimoasele bătălii împotriva olandezilor.", en: "The second largest city in Pernambuco, deeply connected to early colonial history and famous battles against the Dutch." },
     facts: {
       de: ["Teil der Metropolregion von Recife.", "Ort der historischen Guararapes-Schlachten (1648/1649).", "Hat schöne, stark frequentierte Sandstrände.", "Wichtiges Industrie- und Logistikzentrum im Nordosten."],
@@ -764,9 +736,8 @@ image: "/poi-images/jaboatao-dos-guararapes-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-46.7922, -23.5325],
-    name: { de: "Osasco", hu: "Osasco", ro: "Osasco", en: "Osasco",
-image: "/poi-images/osasco-cities-v2.webp"
-},
+    name: { de: "Osasco", hu: "Osasco", ro: "Osasco", en: "Osasco"},
+    image: "/poi-images/osasco-cities-v2.webp",
     description: { de: "Eine wirtschaftlich boomende Stadt neben São Paulo, die sich von einem Industriezentrum zu einem Knotenpunkt für Dienstleistungen entwickelt hat.", hu: "Egy gazdaságilag virágzó város São Paulo mellett, amely ipari központból szolgáltatási csomóponttá fejlődött.", ro: "Un oraș în plină expansiune economică de lângă São Paulo, care a evoluat de la un centru industrial la un centru de servicii.", en: "An economically booming city next to São Paulo that has evolved from an industrial center into a hub for services." },
     facts: {
       de: ["Hat eines der höchsten Bruttoinlandsprodukte Brasiliens.", "Ehemaliger Standort der Cobrasma (Schwerindustrie).", "Hauptsitz großer Banken und E-Commerce-Unternehmen.", "Trennt sich erst 1962 offiziell von der Stadt São Paulo."],
@@ -791,9 +762,8 @@ image: "/poi-images/osasco-cities-v2.webp"
     type: "city",
     parent: "BR-MG",
     coords: [-48.2772, -18.9186],
-    name: { de: "Uberlândia", hu: "Uberlândia", ro: "Uberlândia", en: "Uberlândia",
-image: "/poi-images/uberlandia-cities-v2.webp"
-},
+    name: { de: "Uberlândia", hu: "Uberlândia", ro: "Uberlândia", en: "Uberlândia"},
+    image: "/poi-images/uberlandia-cities-v2.webp",
     description: { de: "Die wichtigste Stadt im sogenannten Triângulo Mineiro, bekannt als starker Standort für Agrargeschäft und Logistik.", hu: "A legfontosabb város az úgynevezett Triângulo Mineiróban, amely erős mezőgazdasági és logisztikai központként ismert.", ro: "Cel mai important oraș din așa-numitul Triângulo Mineiro, cunoscut ca un puternic centru de agrobusiness și logistică.", en: "The most important city in the so-called Triângulo Mineiro, known as a strong location for agribusiness and logistics." },
     facts: {
       de: ["Zweitgrößte Stadt in Minas Gerais.", "Ein strategischer Knotenpunkt zwischen São Paulo und Brasília.", "Zentrum der brasilianischen Großhandelsverteilung.", "Wichtig für Soja- und Maisproduktion."],
@@ -818,9 +788,8 @@ image: "/poi-images/uberlandia-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-47.4581, -23.5017],
-    name: { de: "Sorocaba", hu: "Sorocaba", ro: "Sorocaba", en: "Sorocaba",
-image: "/poi-images/sorocaba-cities-v2.webp"
-},
+    name: { de: "Sorocaba", hu: "Sorocaba", ro: "Sorocaba", en: "Sorocaba"},
+    image: "/poi-images/sorocaba-cities-v2.webp",
     description: { de: "Eine historische Industriestadt im Inneren des Bundesstaates São Paulo, die für ihre hohe Lebensqualität und Modernität geschätzt wird.", hu: "Történelmi iparváros São Paulo állam belső részén, amelyet magas életminősége és modernsége miatt értékelnek.", ro: "Un oraș industrial istoric din interiorul statului São Paulo, apreciat pentru calitatea înaltă a vieții și modernitatea sa.", en: "A historic industrial city in the interior of the state of São Paulo, valued for its high quality of life and modernity." },
     facts: {
       de: ["Gegründet im Jahr 1654.", "Einst Zentrum des Handels mit Maultieren (Tropeiros).", "Heute ein wichtiges Zentrum der Metall- und Maschinenbauindustrie.", "Besitzt über 100 Kilometer Fahrradwege."],
@@ -845,9 +814,8 @@ image: "/poi-images/sorocaba-cities-v2.webp"
     type: "city",
     parent: "BR-MG",
     coords: [-44.0817, -19.9328],
-    name: { de: "Contagem", hu: "Contagem", ro: "Contagem", en: "Contagem",
-image: "/poi-images/contagem-cities-v2.webp"
-},
+    name: { de: "Contagem", hu: "Contagem", ro: "Contagem", en: "Contagem"},
+    image: "/poi-images/contagem-cities-v2.webp",
     description: { de: "Eine stark industrialisierte Stadt, die direkt an Belo Horizonte grenzt und ein wichtiger Wirtschaftsmotor des Bundesstaates ist.", hu: "Erősen iparosodott város, amely közvetlenül Belo Horizonte mellett található, és az állam fontos gazdasági motorja.", ro: "Un oraș puternic industrializat, direct adiacent cu Belo Horizonte, care este un motor economic important al statului.", en: "A highly industrialized city directly adjacent to Belo Horizonte and an important economic engine of the state." },
     facts: {
       de: ["Dritteröffnungsreichste Stadt in Minas Gerais.", "Ein bedeutendes Logistikzentrum.", "Bekannt für den riesigen Industriekomplex Cidade Industrial.", "Der Name leitet sich von alten Zollstationen ab."],
@@ -872,9 +840,8 @@ image: "/poi-images/contagem-cities-v2.webp"
     type: "state-capital",
     parent: "BR-SE",
     coords: [-37.0717, -10.9472],
-    name: { de: "Aracaju", hu: "Aracaju", ro: "Aracaju", en: "Aracaju",
-image: "/poi-images/aracaju-cities-v2.webp"
-},
+    name: { de: "Aracaju", hu: "Aracaju", ro: "Aracaju", en: "Aracaju"},
+    image: "/poi-images/aracaju-cities-v2.webp",
     description: { de: "Die Hauptstadt von Sergipe, bekannt für ihre gute Lebensqualität und die schöne Promenade am Strand von Atalaia.", hu: "Sergipe fővárosa, amely jó életminőségéről és az Atalaia strand gyönyörű sétányáról ismert.", ro: "Capitala statului Sergipe, cunoscută pentru calitatea bună a vieții și pentru promenada frumoasă de pe plaja Atalaia.", en: "The capital of Sergipe, known for its good quality of life and the beautiful promenade at Atalaia beach." },
     facts: {
       de: ["Die kleinste Hauptstadt im Nordosten Brasiliens.", "Wurde im 19. Jahrhundert schachbrettartig geplant.", "Berühmt für ihr großes Ozeanarium in Schildkrötenform.", "Bekannt als eine der sichersten Hauptstädte im Nordosten."],
@@ -899,9 +866,8 @@ image: "/poi-images/aracaju-cities-v2.webp"
     type: "city",
     parent: "BR-BA",
     coords: [-38.9669, -12.2667],
-    name: { de: "Feira de Santana", hu: "Feira de Santana", ro: "Feira de Santana", en: "Feira de Santana",
-image: "/poi-images/feira-de-santana-cities-v2.webp"
-},
+    name: { de: "Feira de Santana", hu: "Feira de Santana", ro: "Feira de Santana", en: "Feira de Santana"},
+    image: "/poi-images/feira-de-santana-cities-v2.webp",
     description: { de: "Die größte Stadt im Landesinneren des Nordostens, berühmt als das wichtigste kommerzielle Drehkreuz in Bahia.", hu: "Az északkeleti régió belső részének legnagyobb városa, amely Bahia legfontosabb kereskedelmi csomópontjaként híres.", ro: "Cel mai mare oraș din interiorul nord-estului, faimos ca cel mai important centru comercial din Bahia.", en: "The largest city in the interior of the northeast, famous as the most important commercial hub in Bahia." },
     facts: {
       de: ["Zweitgrößte Stadt im Bundesstaat Bahia.", "Bekannt als das 'Tor zum Sertão' (Prinzessin des Sertão).", "Ein historischer Kreuzungspunkt für Viehtreiber.", "Wichtiger Hub für den Straßenverkehr und den Handel."],
@@ -926,9 +892,8 @@ image: "/poi-images/feira-de-santana-cities-v2.webp"
     type: "state-capital",
     parent: "BR-MT",
     coords: [-56.0969, -15.601],
-    name: { de: "Cuiabá", hu: "Cuiabá", ro: "Cuiabá", en: "Cuiabá",
-image: "/poi-images/cuiaba-cities-v2.webp"
-},
+    name: { de: "Cuiabá", hu: "Cuiabá", ro: "Cuiabá", en: "Cuiabá"},
+    image: "/poi-images/cuiaba-cities-v2.webp",
     description: { de: "Das Tor zum nördlichen Pantanal und die Hauptstadt von Mato Grosso, die oft extrem heiße Temperaturen verzeichnet.", hu: "A kapu az északi Pantanal felé és Mato Grosso fővárosa, ahol gyakran mérnek rendkívül forró hőmérsékletet.", ro: "Poarta de intrare către nordul Pantanalului și capitala Mato Grosso, care înregistrează adesea temperaturi extrem de ridicate.", en: "The gateway to the northern Pantanal and the capital of Mato Grosso, which often records extremely hot temperatures." },
     facts: {
       de: ["Geografisches Zentrum Südamerikas (Centro Geodésico).", "Gegründet im frühen 18. Jahrhundert während des Goldrauschs.", "Wichtig für die Landwirtschaft und Sojaproduktion.", "Einer der heißesten Orte Brasiliens."],
@@ -953,9 +918,8 @@ image: "/poi-images/cuiaba-cities-v2.webp"
     type: "city",
     parent: "BR-SC",
     coords: [-48.8461, -26.3045],
-    name: { de: "Joinville", hu: "Joinville", ro: "Joinville", en: "Joinville",
-image: "/poi-images/joinville-cities-v2.webp"
-},
+    name: { de: "Joinville", hu: "Joinville", ro: "Joinville", en: "Joinville"},
+    image: "/poi-images/joinville-cities-v2.webp",
     description: { de: "Die größte Stadt in Santa Catarina, bekannt für ihre starke deutsche und europäische Industrie-Tradition.", hu: "Santa Catarina legnagyobb városa, amely erős német és európai ipari hagyományairól ismert.", ro: "Cel mai mare oraș din Santa Catarina, cunoscut pentru puternica sa tradiție industrială germană și europeană.", en: "The largest city in Santa Catarina, known for its strong German and European industrial tradition." },
     facts: {
       de: ["Zentrum des brasilianischen Tanzfestivals (Festival de Dança).", "Die einzige Stadt mit einer Bolshoi-Ballettschule außerhalb Russlands.", "Ein Kraftzentrum der metallverarbeitenden Industrie.", "Gegründet von deutschen, schweizerischen und norwegischen Einwanderern."],
@@ -980,9 +944,8 @@ image: "/poi-images/joinville-cities-v2.webp"
     type: "city",
     parent: "BR-GO",
     coords: [-49.2458, -16.825],
-    name: { de: "Aparecida de Goiânia", hu: "Aparecida de Goiânia", ro: "Aparecida de Goiânia", en: "Aparecida de Goiânia",
-image: "/poi-images/aparecida-de-goiania-cities-v2.webp"
-},
+    name: { de: "Aparecida de Goiânia", hu: "Aparecida de Goiânia", ro: "Aparecida de Goiânia", en: "Aparecida de Goiânia"},
+    image: "/poi-images/aparecida-de-goiania-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt in Goiás, die direkt an die Hauptstadt Goiânia angrenzt und ein dynamisches Wirtschaftswachstum verzeichnet.", hu: "Goiás állam második legnagyobb városa, amely közvetlenül a főváros, Goiânia mellett található, és dinamikus gazdasági növekedést mutat.", ro: "Al doilea oraș ca mărime din Goiás, situat chiar lângă capitala Goiânia și care înregistrează o creștere economică dinamică.", en: "The second largest city in Goiás, bordering the capital Goiânia and experiencing dynamic economic growth." },
     facts: {
       de: ["Ursprünglich entstanden als Satellitenstadt.", "Besitzt mehrere große Industrie- und Logistikparks.", "Die Bevölkerung ist in den letzten Jahrzehnten rasant gewachsen.", "Ein wichtiger Standort für die Lebensmittel- und Pharmaindustrie."],
@@ -1007,9 +970,8 @@ image: "/poi-images/aparecida-de-goiania-cities-v2.webp"
     type: "city",
     parent: "BR-PR",
     coords: [-51.1628, -23.3103],
-    name: { de: "Londrina", hu: "Londrina", ro: "Londrina", en: "Londrina",
-image: "/poi-images/londrina-cities-v2.webp"
-},
+    name: { de: "Londrina", hu: "Londrina", ro: "Londrina", en: "Londrina"},
+    image: "/poi-images/londrina-cities-v2.webp",
     description: { de: "Eine florierende Universitätsstadt im Norden von Paraná, die ursprünglich von britischen Investoren für den Kaffeeanbau geplant wurde.", hu: "Virágzó egyetemi város Paraná északi részén, amelyet eredetileg brit befektetők terveztek kávétermesztésre.", ro: "Un oraș universitar înfloritor din nordul statului Paraná, planificat inițial de investitorii britanici pentru cultivarea cafelei.", en: "A thriving university city in northern Paraná, originally planned by British investors for coffee cultivation." },
     facts: {
       de: ["Der Name bedeutet 'Klein-London'.", "Wurde in den 1930er Jahren gegründet.", "Zweitgrößte Stadt im Bundesstaat Paraná.", "Wichtiges Zentrum für Agrarforschung und Bildung."],
@@ -1034,9 +996,8 @@ image: "/poi-images/londrina-cities-v2.webp"
     type: "city",
     parent: "BR-MG",
     coords: [-43.3506, -21.7664],
-    name: { de: "Juiz de Fora", hu: "Juiz de Fora", ro: "Juiz de Fora", en: "Juiz de Fora",
-image: "/poi-images/juiz-de-fora-cities-v2.webp"
-},
+    name: { de: "Juiz de Fora", hu: "Juiz de Fora", ro: "Juiz de Fora", en: "Juiz de Fora"},
+    image: "/poi-images/juiz-de-fora-cities-v2.webp",
     description: { de: "Eine wichtige Industrie- und Universitätsstadt im Südosten von Minas Gerais mit starken historischen Verbindungen nach Rio de Janeiro.", hu: "Fontos ipari és egyetemi város Minas Gerais délkeleti részén, amely erős történelmi kapcsolatokkal rendelkezik Rio de Janeiróval.", ro: "Un oraș industrial și universitar important din sud-estul statului Minas Gerais, cu legături istorice puternice cu Rio de Janeiro.", en: "An important industrial and university city in southeastern Minas Gerais with strong historical ties to Rio de Janeiro." },
     facts: {
       de: ["Eines der ersten Industriezentren Brasiliens.", "Wurde im 19. Jahrhundert durch den Kaffeehandel reich.", "Standort der Föderalen Universität von Juiz de Fora.", "Besitzt bedeutende Art-déco-Architektur."],
@@ -1061,9 +1022,8 @@ image: "/poi-images/juiz-de-fora-cities-v2.webp"
     type: "state-capital",
     parent: "BR-RO",
     coords: [-63.9039, -8.7619],
-    name: { de: "Porto Velho", hu: "Porto Velho", ro: "Porto Velho", en: "Porto Velho",
-image: "/poi-images/porto-velho-cities-v2.webp"
-},
+    name: { de: "Porto Velho", hu: "Porto Velho", ro: "Porto Velho", en: "Porto Velho"},
+    image: "/poi-images/porto-velho-cities-v2.webp",
     description: { de: "Die Hauptstadt von Rondônia, gelegen am Ufer des Río Madeira und ein wichtiger Binnenhafen für die Amazonas-Region.", hu: "Rondônia fővárosa, amely a Río Madeira partján fekszik, és az Amazonas régió fontos belföldi kikötője.", ro: "Capitala statului Rondônia, situată pe malurile râului Madeira și un important port interior pentru regiunea Amazonului.", en: "The capital of Rondônia, located on the banks of the Madeira River and an important inland port for the Amazon region." },
     facts: {
       de: ["Gegründet 1914 während des Baus der Madeira-Mamoré-Eisenbahn.", "Bedeutender Umschlagplatz für landwirtschaftliche Güter.", "Hat eine große Fläche, die fast so groß wie Belgien ist.", "Besitzt das historische Eisenbahnmuseum Madeira-Mamoré."],
@@ -1088,9 +1048,8 @@ image: "/poi-images/porto-velho-cities-v2.webp"
     type: "city",
     parent: "BR-PA",
     coords: [-48.3725, -1.3658],
-    name: { de: "Ananindeua", hu: "Ananindeua", ro: "Ananindeua", en: "Ananindeua",
-image: "/poi-images/ananindeua-cities-v2.webp"
-},
+    name: { de: "Ananindeua", hu: "Ananindeua", ro: "Ananindeua", en: "Ananindeua"},
+    image: "/poi-images/ananindeua-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt im Bundesstaat Pará, die eng in die Metropolregion von Belém integriert ist.", hu: "Pará állam második legnagyobb városa, amely szorosan integrálódik Belém vonzáskörzetébe.", ro: "Al doilea oraș ca mărime din statul Pará, integrat strâns în regiunea metropolitană Belém.", en: "The second largest city in the state of Pará, closely integrated into the Belém metropolitan area." },
     facts: {
       de: ["Ein wichtiger Verkehrsknotenpunkt der BR-316 Autobahn.", "Das Stadtgebiet umfasst zahlreiche Flüsse und kleine Inseln.", "Hat historisch eine starke Bedeutung für lokale indigene Stämme.", "Erfährt ein schnelles städtisches Wachstum."],
@@ -1115,9 +1074,8 @@ image: "/poi-images/ananindeua-cities-v2.webp"
     type: "city",
     parent: "BR-ES",
     coords: [-40.3078, -20.1286],
-    name: { de: "Serra", hu: "Serra", ro: "Serra", en: "Serra",
-image: "/poi-images/serra-cities-v2.webp"
-},
+    name: { de: "Serra", hu: "Serra", ro: "Serra", en: "Serra"},
+    image: "/poi-images/serra-cities-v2.webp",
     description: { de: "Die bevölkerungsreichste Stadt im Bundesstaat Espírito Santo mit bedeutenden Stränden und starker Industrie.", hu: "Espírito Santo állam legnépesebb városa, amely jelentős strandokkal és erős iparral rendelkezik.", ro: "Cel mai populat oraș din statul Espírito Santo, cu plaje semnificative și industrie puternică.", en: "The most populous city in the state of Espírito Santo, featuring significant beaches and strong industry." },
     facts: {
       de: ["Heimat des großen Stahlwerks von ArcelorMittal.", "Besitzt beliebte Strände wie Jacaraípe und Manguinhos.", "Gehört zur Metropolregion von Vitória.", "Ist reich an afro-brasilianischer Kultur und Traditionen (Congo-Tanz)."],
@@ -1142,9 +1100,8 @@ image: "/poi-images/serra-cities-v2.webp"
     type: "city",
     parent: "BR-RS",
     coords: [-51.1794, -29.1681],
-    name: { de: "Caxias do Sul", hu: "Caxias do Sul", ro: "Caxias do Sul", en: "Caxias do Sul",
-image: "/poi-images/caxias-do-sul-cities-v2.webp"
-},
+    name: { de: "Caxias do Sul", hu: "Caxias do Sul", ro: "Caxias do Sul", en: "Caxias do Sul"},
+    image: "/poi-images/caxias-do-sul-cities-v2.webp",
     description: { de: "Eine blühende Industriestadt in der Bergregion (Serra Gaúcha), tief verwurzelt in der italienischen Einwanderergeschichte.", hu: "Virágzó iparváros a hegyvidéki régióban (Serra Gaúcha), amely mélyen gyökerezik az olasz bevándorlók történelmében.", ro: "Un oraș industrial înfloritor în regiunea montană (Serra Gaúcha), adânc înrădăcinat în istoria imigrației italiene.", en: "A thriving industrial city in the mountainous region (Serra Gaúcha), deeply rooted in the history of Italian immigration." },
     facts: {
       de: ["Zweitgrößte Stadt im Bundesstaat Rio Grande do Sul.", "Das Zentrum der brasilianischen Wein- und Traubenproduktion.", "Veranstaltet alle zwei Jahre das große Traubenfest (Festa da Uva).", "Starke Wirtschaft in der Metallverarbeitung und Nutzfahrzeugherstellung."],
@@ -1169,9 +1126,8 @@ image: "/poi-images/caxias-do-sul-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-43.1228, -22.8833],
-    name: { de: "Niterói", hu: "Niterói", ro: "Niterói", en: "Niterói",
-image: "/poi-images/niteroi-cities-v2.webp"
-},
+    name: { de: "Niterói", hu: "Niterói", ro: "Niterói", en: "Niterói"},
+    image: "/poi-images/niteroi-cities-v2.webp",
     description: { de: "Die Zwillingsstadt von Rio de Janeiro auf der anderen Seite der Guanabara-Bucht, bekannt für hohe Lebensqualität und spektakuläre Aussichten.", hu: "Rio de Janeiro ikervárosa a Guanabara-öböl túloldalán, amely magas életminőségéről és látványos kilátásáról ismert.", ro: "Orașul geamăn al Rio de Janeiro de cealaltă parte a golfului Guanabara, cunoscut pentru calitatea înaltă a vieții și vederile spectaculoase.", en: "The twin city of Rio de Janeiro on the other side of Guanabara Bay, known for high quality of life and spectacular views." },
     facts: {
       de: ["Über die berühmte Rio-Niterói-Brücke mit Rio verbunden.", "Besitzt das vom Architekten Oscar Niemeyer entworfene Museum für zeitgenössische Kunst (MAC).", "Eines der höchsten Pro-Kopf-Einkommen Brasiliens.", "Historisch als Hauptstadt des Bundesstaates Rio de Janeiro gedient."],
@@ -1196,9 +1152,8 @@ image: "/poi-images/niteroi-cities-v2.webp"
     type: "state-capital",
     parent: "BR-AP",
     coords: [-51.0694, 0.0389],
-    name: { de: "Macapá", hu: "Macapá", ro: "Macapá", en: "Macapá",
-image: "/poi-images/macapa-cities-v2.webp"
-},
+    name: { de: "Macapá", hu: "Macapá", ro: "Macapá", en: "Macapá"},
+    image: "/poi-images/macapa-cities-v2.webp",
     description: { de: "Die Hauptstadt von Amapá, einzigartig am nördlichen Ufer der Amazonasmündung gelegen und vom Äquator durchschnitten.", hu: "Amapá fővárosa, amely egyedülállóan az Amazonas torkolatának északi partján fekszik, és az Egyenlítő metszi.", ro: "Capitala statului Amapá, situată în mod unic pe malul nordic al gurii Amazonului și traversată de Ecuator.", en: "The capital of Amapá, uniquely situated on the northern bank of the Amazon mouth and crossed by the Equator." },
     facts: {
       de: ["Ist nicht auf dem Landweg mit anderen brasilianischen Hauptstädten verbunden.", "Die einzige Hauptstadt, durch die die Äquatorlinie verläuft.", "Das Monumento Marco Zero markiert den Äquator.", "Hat die historische Fortaleza de São José de Macapá aus dem 18. Jahrhundert."],
@@ -1223,9 +1178,8 @@ image: "/poi-images/macapa-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-43.3997, -22.7642],
-    name: { de: "Belford Roxo", hu: "Belford Roxo", ro: "Belford Roxo", en: "Belford Roxo",
-image: "/poi-images/belford-roxo-cities-v2.webp"
-},
+    name: { de: "Belford Roxo", hu: "Belford Roxo", ro: "Belford Roxo", en: "Belford Roxo"},
+    image: "/poi-images/belford-roxo-cities-v2.webp",
     description: { de: "Eine dicht besiedelte Stadt in der Baixada Fluminense, historisch als wichtige Wasserquelle für die Region bekannt.", hu: "Sűrűn lakott város a Baixada Fluminensében, történelmileg a régió fontos vízforrásaként ismert.", ro: "Un oraș dens populat din Baixada Fluminense, cunoscut istoric ca o sursă importantă de apă pentru regiune.", en: "A densely populated city in the Baixada Fluminense, historically known as an important water source for the region." },
     facts: {
       de: ["Hat ein sehr hohes Bevölkerungswachstum erlebt.", "Wurde erst 1990 eine eigenständige Gemeinde.", "Ist Sitz einer der größten Anlagen von Bayer in Brasilien.", "Ein wichtiges Wohngebiet für Pendler nach Rio."],
@@ -1250,9 +1204,8 @@ image: "/poi-images/belford-roxo-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-41.3283, -21.7589],
-    name: { de: "Campos dos Goytacazes", hu: "Campos dos Goytacazes", ro: "Campos dos Goytacazes", en: "Campos dos Goytacazes",
-image: "/poi-images/campos-dos-goytacazes-cities-v2.webp"
-},
+    name: { de: "Campos dos Goytacazes", hu: "Campos dos Goytacazes", ro: "Campos dos Goytacazes", en: "Campos dos Goytacazes"},
+    image: "/poi-images/campos-dos-goytacazes-cities-v2.webp",
     description: { de: "Die flächengrößte Stadt im Bundesstaat Rio de Janeiro, berühmt für ihre reiche Erdöl- und Zuckerrohrproduktion.", hu: "Rio de Janeiro állam legnagyobb területű városa, amely gazdag kőolaj- és cukornádtermeléséről híres.", ro: "Cel mai mare oraș ca suprafață din statul Rio de Janeiro, renumit pentru producția sa bogată de petrol și trestie de zahăr.", en: "The largest city by area in the state of Rio de Janeiro, famous for its rich oil and sugarcane production." },
     facts: {
       de: ["Hauptzentrum der brasilianischen Offshore-Ölförderung.", "Die erste Stadt Südamerikas mit öffentlicher Straßenbeleuchtung.", "Historisch sehr wichtig für die Zuckerindustrie.", "Hat zahlreiche historische Bauernhäuser (Fazendas)."],
@@ -1277,9 +1230,8 @@ image: "/poi-images/campos-dos-goytacazes-cities-v2.webp"
     type: "state-capital",
     parent: "BR-SC",
     coords: [-48.5492, -27.5954],
-    name: { de: "Florianópolis", hu: "Florianópolis", ro: "Florianópolis", en: "Florianópolis",
-image: "/poi-images/florianopolis-cities-v2.webp"
-},
+    name: { de: "Florianópolis", hu: "Florianópolis", ro: "Florianópolis", en: "Florianópolis"},
+    image: "/poi-images/florianopolis-cities-v2.webp",
     description: { de: "Die Hauptstadt von Santa Catarina, die größtenteils auf einer Insel liegt und für ihre vielen atemberaubenden Strände berühmt ist.", hu: "Santa Catarina fővárosa, amely nagyrészt egy szigeten fekszik, és lenyűgöző strandjairól híres.", ro: "Capitala Santa Catarina, care este în mare parte situată pe o insulă și este renumită pentru numeroasele sale plaje uimitoare.", en: "The capital of Santa Catarina, which is mostly located on an island and famous for its many stunning beaches." },
     facts: {
       de: ["Wird liebevoll die 'Insel der Magie' (Ilha da Magia) genannt.", "Verfügt über 42 offizielle Strände.", "Einer der höchsten Lebensstandards in Brasilien.", "Die Hängebrücke Hercílio Luz ist ihr Wahrzeichen."],
@@ -1304,9 +1256,8 @@ image: "/poi-images/florianopolis-cities-v2.webp"
     type: "city",
     parent: "BR-ES",
     coords: [-40.2972, -20.3297],
-    name: { de: "Vila Velha", hu: "Vila Velha", ro: "Vila Velha", en: "Vila Velha",
-image: "/poi-images/vila-velha-cities-v2.webp"
-},
+    name: { de: "Vila Velha", hu: "Vila Velha", ro: "Vila Velha", en: "Vila Velha"},
+    image: "/poi-images/vila-velha-cities-v2.webp",
     description: { de: "Eine der ältesten Städte Brasiliens, die direkt neben der Hauptstadt Vitória liegt und eine bedeutende Küstenlinie besitzt.", hu: "Brazília egyik legrégebbi városa, amely közvetlenül a főváros, Vitória mellett fekszik, és jelentős partvonallal rendelkezik.", ro: "Unul dintre cele mai vechi orașe din Brazilia, situat chiar lângă capitala Vitória și având o coastă semnificativă.", en: "One of the oldest cities in Brazil, located right next to the capital Vitória and possessing a significant coastline." },
     facts: {
       de: ["Gegründet im Jahr 1535.", "Bekannt für das Kloster Penha (Convento da Penha), das auf einem Felsen thront.", "Hauptsitz der Schokoladenfabrik Garoto.", "Bedeutend für den Immobiliensektor und Tourismus."],
@@ -1331,9 +1282,8 @@ image: "/poi-images/vila-velha-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-46.4614, -23.6678],
-    name: { de: "Mauá", hu: "Mauá", ro: "Mauá", en: "Mauá",
-image: "/poi-images/maua-cities-v2.webp"
-},
+    name: { de: "Mauá", hu: "Mauá", ro: "Mauá", en: "Mauá"},
+    image: "/poi-images/maua-cities-v2.webp",
     description: { de: "Ein wichtiges industrielles Zentrum in der Metropolregion von São Paulo, bekannt für die Petrochemie.", hu: "Fontos ipari központ São Paulo vonzáskörzetében, amely a petrolkémiai iparáról ismert.", ro: "Un important centru industrial din regiunea metropolitană São Paulo, cunoscut pentru produsele sale petrochimice.", en: "An important industrial center in the metropolitan region of São Paulo, known for petrochemicals." },
     facts: {
       de: ["Heimat eines großen petrochemischen Pols.", "Wuchs stark durch die Eisenbahn Sao Paulo Railway.", "Bedeutend in der Keramik- und Porzellanindustrie historisch.", "Sehr dichte städtische Besiedlung."],
@@ -1358,9 +1308,8 @@ image: "/poi-images/maua-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-43.37, -22.8039],
-    name: { de: "São João de Meriti", hu: "São João de Meriti", ro: "São João de Meriti", en: "São João de Meriti",
-image: "/poi-images/sao-joao-de-meriti-cities-v2.webp"
-},
+    name: { de: "São João de Meriti", hu: "São João de Meriti", ro: "São João de Meriti", en: "São João de Meriti"},
+    image: "/poi-images/sao-joao-de-meriti-cities-v2.webp",
     description: { de: "Oft als 'Ameisenhaufen Amerikas' bezeichnet, ist dies eine der am dichtesten besiedelten Städte Südamerikas.", hu: "Gyakran 'Amerika hangyabolyának' nevezik, Dél-Amerika egyik legsűrűbben lakott városa.", ro: "Adesea denumit 'Mușuroiul Americii', este unul dintre orașele cele mai dens populate din America de Sud.", en: "Often referred to as the 'Anthill of the Americas', it is one of the most densely populated cities in South America." },
     facts: {
       de: ["Hat eine der höchsten Bevölkerungsdichten der Welt.", "Fast das gesamte Stadtgebiet ist urbanisiert.", "Ein wichtiges Handelszentrum in der Baixada Fluminense.", "Früher dominierten Zuckerrohr- und Kaffeefarmen."],
@@ -1385,9 +1334,8 @@ image: "/poi-images/sao-joao-de-meriti-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-49.3794, -20.8197],
-    name: { de: "São José do Rio Preto", hu: "São José do Rio Preto", ro: "São José do Rio Preto", en: "São José do Rio Preto",
-image: "/poi-images/sao-jose-do-rio-preto-cities-v2.webp"
-},
+    name: { de: "São José do Rio Preto", hu: "São José do Rio Preto", ro: "São José do Rio Preto", en: "São José do Rio Preto"},
+    image: "/poi-images/sao-jose-do-rio-preto-cities-v2.webp",
     description: { de: "Ein wichtiges Bildungs-, Gesundheits- und Wirtschaftszentrum im Nordwesten des Bundesstaates São Paulo.", hu: "Fontos oktatási, egészségügyi és gazdasági központ São Paulo állam északnyugati részén.", ro: "Un important centru educațional, de sănătate și economic din nord-vestul statului São Paulo.", en: "An important educational, health, and economic center in the northwest of the state of São Paulo." },
     facts: {
       de: ["Wurde Ende des 19. Jahrhunderts gegründet.", "Sehr hohe Qualität im Gesundheitssektor.", "Ein wichtiges Handelszentrum für eine riesige landwirtschaftliche Region.", "Großer Produzent von Möbeln und Bekleidung."],
@@ -1412,9 +1360,8 @@ image: "/poi-images/sao-jose-do-rio-preto-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-46.1856, -23.5236],
-    name: { de: "Mogi das Cruzes", hu: "Mogi das Cruzes", ro: "Mogi das Cruzes", en: "Mogi das Cruzes",
-image: "/poi-images/mogi-das-cruzes-cities-v2.webp"
-},
+    name: { de: "Mogi das Cruzes", hu: "Mogi das Cruzes", ro: "Mogi das Cruzes", en: "Mogi das Cruzes"},
+    image: "/poi-images/mogi-das-cruzes-cities-v2.webp",
     description: { de: "Eine traditionsreiche Stadt in der Metropolregion São Paulo, die für Landwirtschaft und Universitäten bekannt ist.", hu: "Hagyományokban gazdag város São Paulo vonzáskörzetében, amely mezőgazdaságáról és egyetemeiről ismert.", ro: "Un oraș tradițional din regiunea metropolitană São Paulo, cunoscut pentru agricultură și universități.", en: "A traditional city in the metropolitan region of São Paulo, known for agriculture and universities." },
     facts: {
       de: ["Berühmt als der größte Produzent von Orchideen in Brasilien.", "Starker Einfluss der japanischen Einwanderer.", "Gegründet im Jahr 1560 als Bandeiranten-Außenposten.", "Wichtiger Hub für landwirtschaftliche Produkte."],
@@ -1439,9 +1386,8 @@ image: "/poi-images/mogi-das-cruzes-cities-v2.webp"
     type: "city",
     parent: "BR-MG",
     coords: [-19.9678, -44.1983],
-    name: { de: "Betim", hu: "Betim", ro: "Betim", en: "Betim",
-image: "/poi-images/betim-cities-v2.webp"
-},
+    name: { de: "Betim", hu: "Betim", ro: "Betim", en: "Betim"},
+    image: "/poi-images/betim-cities-v2.webp",
     description: { de: "Eine hochindustrialisierte Stadt neben Belo Horizonte, in der sich einige der größten Fabriken Brasiliens befinden.", hu: "Erősen iparosodott város Belo Horizonte mellett, ahol Brazília néhány legnagyobb gyára található.", ro: "Un oraș foarte industrializat de lângă Belo Horizonte, unde sunt situate unele dintre cele mai mari fabrici din Brazilia.", en: "A highly industrialized city next to Belo Horizonte, where some of the largest factories in Brazil are located." },
     facts: {
       de: ["Sitz des riesigen Fiat-Automobilwerks.", "Besitzt eine große Erdölraffinerie (Gabriel Passos).", "Wichtiger Knotenpunkt zweier Hauptautobahnen (BR-381, BR-262).", "Bedeutend für das BIP des Bundesstaates Minas Gerais."],
@@ -1466,9 +1412,8 @@ image: "/poi-images/betim-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-23.9608, -46.3333],
-    name: { de: "Santos", hu: "Santos", ro: "Santos", en: "Santos",
-image: "/poi-images/santos-cities-v2.webp"
-},
+    name: { de: "Santos", hu: "Santos", ro: "Santos", en: "Santos"},
+    image: "/poi-images/santos-cities-v2.webp",
     description: { de: "Die wichtigste Hafenstadt Brasiliens mit einer reichen Kaffeegeschichte und den längsten Strandgärten der Welt.", hu: "Brazília legfontosabb kikötővárosa, amely gazdag kávétörténelemmel és a világ leghosszabb tengerparti kertjeivel rendelkezik.", ro: "Cel mai important oraș-port al Braziliei, cu o istorie bogată a cafelei și cele mai lungi grădini pe plajă din lume.", en: "Brazil's most important port city, with a rich coffee history and the longest beach gardens in the world." },
     facts: {
       de: ["Hat den größten Seehafen Lateinamerikas.", "Die Strandgärten stehen im Guinness-Buch der Rekorde.", "Berühmt für das Kaffeebörsen-Museum.", "Heimat des legendären Fußballvereins Santos FC (Pelé)."],
@@ -1493,9 +1438,8 @@ image: "/poi-images/santos-cities-v2.webp"
     type: "city",
     parent: "BR-PR",
     coords: [-23.421, -51.9331],
-    name: { de: "Maringá", hu: "Maringá", ro: "Maringá", en: "Maringá",
-image: "/poi-images/maringa-cities-v2.webp"
-},
+    name: { de: "Maringá", hu: "Maringá", ro: "Maringá", en: "Maringá"},
+    image: "/poi-images/maringa-cities-v2.webp",
     description: { de: "Eine sehr grüne, geplante Stadt im Inneren von Paraná, bekannt für ihre Lebensqualität und den konischen Dom.", hu: "Nagyon zöld, tervezett város Paraná belsejében, amely életminőségéről és kúp alakú dómjáról ismert.", ro: "Un oraș planificat, foarte verde, din interiorul Paraná, cunoscut pentru calitatea vieții și pentru catedrala sa conică.", en: "A very green, planned city in the interior of Paraná, known for its quality of life and its conical cathedral." },
     facts: {
       de: ["Der Dom von Maringá ist die höchste Kirche Südamerikas (114 m).", "Wurde in den 1940er Jahren gegründet.", "Gilt als eine der sichersten Großstädte Brasiliens.", "Besitzt unzählige Baumalleen und Parks."],
@@ -1520,9 +1464,8 @@ image: "/poi-images/maringa-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-23.6867, -46.6219],
-    name: { de: "Diadema", hu: "Diadema", ro: "Diadema", en: "Diadema",
-image: "/poi-images/diadema-cities-v2.webp"
-},
+    name: { de: "Diadema", hu: "Diadema", ro: "Diadema", en: "Diadema"},
+    image: "/poi-images/diadema-cities-v2.webp",
     description: { de: "Die am dichtesten besiedelte Stadt der ABC-Region in der Metropolregion São Paulo mit starkem industriellen Hintergrund.", hu: "Az ABC-régió legsűrűbben lakott városa a São Paulo-i vonzáskörzetben, erős ipari háttérrel.", ro: "Cel mai dens populat oraș din regiunea ABC din zona metropolitană São Paulo, cu un fond industrial puternic.", en: "The most densely populated city in the ABC region in the São Paulo metropolitan area, with a strong industrial background." },
     facts: {
       de: ["Zentrum für die Produktion von Kosmetika und Autoteilen.", "Ursprünglich ein Zwischenstopp für Reisende zur Küste.", "Wurde 1959 nach Volksabstimmung eigenständig.", "Gilt als die Stadt mit der höchsten Bevölkerungsdichte im Bundesstaat São Paulo."],
@@ -1547,9 +1490,8 @@ image: "/poi-images/diadema-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-23.1856, -46.8842],
-    name: { de: "Jundiaí", hu: "Jundiaí", ro: "Jundiaí", en: "Jundiaí",
-image: "/poi-images/jundiai-cities-v2.webp"
-},
+    name: { de: "Jundiaí", hu: "Jundiaí", ro: "Jundiaí", en: "Jundiaí"},
+    image: "/poi-images/jundiai-cities-v2.webp",
     description: { de: "Eine reiche Stadt zwischen São Paulo und Campinas, die sich vom Agrarzentrum zur High-Tech- und Logistikhochburg entwickelt hat.", hu: "Gazdag város São Paulo és Campinas között, amely agrártömörülésből csúcstechnológiai és logisztikai fellegvárrá fejlődött.", ro: "Un oraș bogat între São Paulo și Campinas care a evoluat de la un centru agricol la o fortăreață a tehnologiei și logisticii.", en: "A wealthy city between São Paulo and Campinas that has evolved from an agricultural center to a high-tech and logistics stronghold." },
     facts: {
       de: ["Historisch berühmt für den Weinbau (Terra da Uva).", "Beherbergt massive Logistikzentren (z. B. Amazon, Mercado Livre).", "Sehr starkes Wirtschaftswachstum in den letzten Jahren.", "Beliebt wegen ihrer Nähe zu bedeutenden Autobahnen (Bandeirantes, Anhanguera)."],
@@ -1574,9 +1516,8 @@ image: "/poi-images/jundiai-cities-v2.webp"
     type: "state-capital",
     parent: "BR-RR",
     coords: [2.8197, -60.6733],
-    name: { de: "Boa Vista", hu: "Boa Vista", ro: "Boa Vista", en: "Boa Vista",
-image: "/poi-images/boa-vista-cities-v2.webp"
-},
+    name: { de: "Boa Vista", hu: "Boa Vista", ro: "Boa Vista", en: "Boa Vista"},
+    image: "/poi-images/boa-vista-cities-v2.webp",
     description: { de: "Die einzige brasilianische Hauptstadt, die vollständig nördlich des Äquators liegt, geplant in Form eines Fächers.", hu: "Az egyetlen brazil főváros, amely teljesen az Egyenlítőtől északra fekszik, és legyező alakban tervezték.", ro: "Singura capitală braziliană situată complet la nord de Ecuator, planificată în formă de evantai.", en: "The only Brazilian capital located entirely north of the Equator, planned in the shape of a fan." },
     facts: {
       de: ["Liegt am Fluss Branco.", "Ist eine geplante Stadt, inspiriert vom Radialsystem in Paris.", "Tor zum Roraima-Berg und zur Grenze nach Venezuela.", "Gilt als die Hauptstadt mit den meisten indigenen Einwohnern proportional."],
@@ -1601,9 +1542,8 @@ image: "/poi-images/boa-vista-cities-v2.webp"
     type: "city",
     parent: "BR-MG",
     coords: [-16.735, -43.8617],
-    name: { de: "Montes Claros", hu: "Montes Claros", ro: "Montes Claros", en: "Montes Claros",
-image: "/poi-images/montes-claros-cities-v2.webp"
-},
+    name: { de: "Montes Claros", hu: "Montes Claros", ro: "Montes Claros", en: "Montes Claros"},
+    image: "/poi-images/montes-claros-cities-v2.webp",
     description: { de: "Die größte Stadt im Norden von Minas Gerais, ein wichtiges regionales Zentrum, das Süden und Nordosten Brasiliens verbindet.", hu: "Minas Gerais északi részének legnagyobb városa, egy fontos regionális központ, amely Brazília déli és északkeleti részét köti össze.", ro: "Cel mai mare oraș din nordul statului Minas Gerais, un important centru regional care leagă sudul de nord-estul Braziliei.", en: "The largest city in northern Minas Gerais, an important regional center connecting the south and northeast of Brazil." },
     facts: {
       de: ["Bekannt als die 'Hauptstadt des Nordens' (von Minas Gerais).", "Wichtiger Universitätsstandort und Medizinisches Zentrum.", "Zentrum für Landwirtschaft und Rinderzucht (Zebu-Rinder).", "Das Klima markiert den Übergang zum halbtrockenen Sertão."],
@@ -1628,9 +1568,8 @@ image: "/poi-images/montes-claros-cities-v2.webp"
     type: "state-capital",
     parent: "BR-AC",
     coords: [-9.9747, -67.81],
-    name: { de: "Rio Branco", hu: "Rio Branco", ro: "Rio Branco", en: "Rio Branco",
-image: "/poi-images/rio-branco-cities-v2.webp"
-},
+    name: { de: "Rio Branco", hu: "Rio Branco", ro: "Rio Branco", en: "Rio Branco"},
+    image: "/poi-images/rio-branco-cities-v2.webp",
     description: { de: "Die Hauptstadt von Acre im äußersten Westen Brasiliens, die eng mit der Geschichte des Kautschuks und dem Umweltschutz verbunden ist.", hu: "Acre fővárosa Brazília legnyugatibb részén, amely szorosan kapcsolódik a kaucsuk történetéhez és a környezetvédelemhez.", ro: "Capitala statului Acre, în vestul extrem al Braziliei, strâns legată de istoria cauciucului și de protecția mediului.", en: "The capital of Acre in far western Brazil, closely linked to the history of rubber and environmental protection." },
     facts: {
       de: ["Heimat des Umweltschützers Chico Mendes.", "Oft als 'Naturhauptstadt' bezeichnet.", "Geteilt durch den Fluss Acre.", "Die Stadt gehörte früher zu Bolivien."],
@@ -1655,9 +1594,8 @@ image: "/poi-images/rio-branco-cities-v2.webp"
     type: "city",
     parent: "BR-PB",
     coords: [-7.2197, -35.8811],
-    name: { de: "Campina Grande", hu: "Campina Grande", ro: "Campina Grande", en: "Campina Grande",
-image: "/poi-images/campina-grande-cities-v2.webp"
-},
+    name: { de: "Campina Grande", hu: "Campina Grande", ro: "Campina Grande", en: "Campina Grande"},
+    image: "/poi-images/campina-grande-cities-v2.webp",
     description: { de: "Ein wichtiges technologisches und kulturelles Zentrum im Landesinneren von Paraíba, berühmt für das größte São-João-Fest der Welt.", hu: "Paraíba belső részének fontos technológiai és kulturális központja, amely a világ legnagyobb São João-ünnepéről híres.", ro: "Un important centru tehnologic și cultural din interiorul statului Paraíba, renumit pentru cel mai mare festival São João din lume.", en: "An important technological and cultural center in the interior of Paraíba, famous for the world's largest São João festival." },
     facts: {
       de: ["Veranstaltet das O Maior São João do Mundo (Junifest).", "Wichtiger IT- und Softwareentwicklungs-Hub.", "Historisch als zweitgrößter Baumwollexporteur der Welt bekannt.", "Liegt in einer bergigen Region, was ihr ein kühleres Klima verleiht."],
@@ -1682,9 +1620,8 @@ image: "/poi-images/campina-grande-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-22.7253, -47.6492],
-    name: { de: "Piracicaba", hu: "Piracicaba", ro: "Piracicaba", en: "Piracicaba",
-image: "/poi-images/piracicaba-cities-v2.webp"
-},
+    name: { de: "Piracicaba", hu: "Piracicaba", ro: "Piracicaba", en: "Piracicaba"},
+    image: "/poi-images/piracicaba-cities-v2.webp",
     description: { de: "Eine traditionsreiche Stadt, benannt nach ihrem Fluss, bekannt als 'Ort, wo der Fisch stoppt', und ein Kraftzentrum des Agrobusiness.", hu: "Hagyományokban gazdag város, amely a folyójáról kapta a nevét, jelentése 'a hely, ahol a hal megáll', és az agráripar egyik fellegvára.", ro: "Un oraș tradițional numit după râul său, cunoscut ca 'locul unde se oprește peștele', și o putere a agrobusiness-ului.", en: "A traditional city named after its river, known as the 'place where the fish stops', and an agribusiness powerhouse." },
     facts: {
       de: ["Zentrum der Zuckerrohrindustrie und Ethanolproduktion.", "Sitz der renommierten Landwirtschaftsschule ESALQ (USP).", "Bekannt für sein traditionelles Fischgericht (Dourado auf dem Spieß).", "Der Piracicaba-Fluss hat historische Bedeutung für die Stadtentwicklung."],
@@ -1709,9 +1646,8 @@ image: "/poi-images/piracicaba-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-23.5228, -46.8353],
-    name: { de: "Carapicuíba", hu: "Carapicuíba", ro: "Carapicuíba", en: "Carapicuíba",
-image: "/poi-images/carapicuiba-cities-v2.webp"
-},
+    name: { de: "Carapicuíba", hu: "Carapicuíba", ro: "Carapicuíba", en: "Carapicuíba"},
+    image: "/poi-images/carapicuiba-cities-v2.webp",
     description: { de: "Eine dicht bebaute Stadt im Großraum São Paulo, die sich aus einem alten indigenen Dorf entwickelt hat.", hu: "Sűrűn beépített város São Paulo vonzáskörzetében, amely egy régi indián faluból fejlődött ki.", ro: "Un oraș dens construit în zona metropolitană a orașului São Paulo care a evoluat dintr-un vechi sat indigen.", en: "A densely built city in the Greater São Paulo area that evolved from an old indigenous village." },
     facts: {
       de: ["Hat eines der ursprünglichsten jesuitischen Dörfer Brasiliens (Aldeia Jesuítica).", "Verzeichnete ein starkes Bevölkerungswachstum in den 1970er Jahren.", "Gilt heute als eine der am stärksten verdichteten Städte des Bundesstaates.", "War früher ein wichtiger Ort für den Holzabbau."],
@@ -1736,9 +1672,8 @@ image: "/poi-images/carapicuiba-cities-v2.webp"
     type: "city",
     parent: "BR-PE",
     coords: [-8.0089, -34.845],
-    name: { de: "Olinda", hu: "Olinda", ro: "Olinda", en: "Olinda",
-image: "/poi-images/olinda-cities-v2.webp"
-},
+    name: { de: "Olinda", hu: "Olinda", ro: "Olinda", en: "Olinda"},
+    image: "/poi-images/olinda-cities-v2.webp",
     description: { de: "Eine der besterhaltenen Kolonialstädte Brasiliens, die direkt an Recife angrenzt und weltberühmt für ihren bunten Karneval ist.", hu: "Brazília egyik legjobb állapotban fennmaradt gyarmati városa, amely közvetlenül Recife mellett található, és világhírű színes karneváljáról.", ro: "Unul dintre cele mai bine conservate orașe coloniale din Brazilia, situat chiar lângă Recife și renumit în întreaga lume pentru carnavalul său colorat.", en: "One of the best-preserved colonial cities in Brazil, adjacent to Recife and world-famous for its colorful carnival." },
     facts: {
       de: ["Das historische Zentrum ist UNESCO-Welterbe.", "Erste Kulturhauptstadt Brasiliens.", "Berühmt für die riesigen Karnevalspuppen (Bonecos de Olinda).", "Wurde 1535 gegründet und 1631 von den Holländern niedergebrannt."],
@@ -1763,9 +1698,8 @@ image: "/poi-images/olinda-cities-v2.webp"
     type: "city",
     parent: "BR-MS",
     coords: [-19.0092, -57.6533],
-    name: { de: "Corumbá", hu: "Corumbá", ro: "Corumbá", en: "Corumbá",
-image: "/poi-images/corumba-cities-v2.webp"
-},
+    name: { de: "Corumbá", hu: "Corumbá", ro: "Corumbá", en: "Corumbá"},
+    image: "/poi-images/corumba-cities-v2.webp",
     description: { de: "Die 'Hauptstadt des Pantanal', gelegen an der Grenze zu Bolivien am Río Paraguay, mit enormer Bedeutung für den Ökotourismus.", hu: "A 'Pantanal fővárosa', amely Bolívia határán, a Río Paraguay partján fekszik, és hatalmas jelentőséggel bír az ökoturizmus számára.", ro: "'Capitala Pantanalului', situată la granița cu Bolivia pe râul Paraguay, de o importanță enormă pentru ecoturism.", en: "The 'Capital of the Pantanal', located on the border with Bolivia on the Paraguay River, with enormous importance for ecotourism." },
     facts: {
       de: ["Wichtigster Binnenhafen im Mittleren Westen.", "Tor zu ausgedehnten Safaris in die Feuchtgebiete.", "Besitzt eine starke kulturelle Mischung aus brasilianischen und bolivianischen Elementen.", "Erlebt regelmäßig starke Überschwemmungen im Umland."],
@@ -1790,9 +1724,8 @@ image: "/poi-images/corumba-cities-v2.webp"
     type: "city",
     parent: "BR-SP",
     coords: [-22.3145, -49.0606],
-    name: { de: "Bauru", hu: "Bauru", ro: "Bauru", en: "Bauru",
-image: "/poi-images/bauru-cities-v2.webp"
-},
+    name: { de: "Bauru", hu: "Bauru", ro: "Bauru", en: "Bauru"},
+    image: "/poi-images/bauru-cities-v2.webp",
     description: { de: "Ein wichtiges Universitäts- und Eisenbahnzentrum im Landesinneren von São Paulo, bekannt für das gleichnamige Sandwich.", hu: "Fontos egyetemi és vasúti központ São Paulo belső részén, amely az azonos nevű szendvicsről ismert.", ro: "Un important centru universitar și feroviar din interiorul statului São Paulo, cunoscut pentru sandvișul omonim.", en: "An important university and railway center in the interior of São Paulo, known for the eponymous sandwich." },
     facts: {
       de: ["Hier wurde das berühmte 'Bauru'-Sandwich erfunden.", "Historischer Knotenpunkt der Noroeste do Brasil-Eisenbahn.", "Wo Pelé aufwuchs und anfing, Fußball zu spielen.", "Großer Standort der Staatsuniversität UNESP."],
@@ -1817,9 +1750,8 @@ image: "/poi-images/bauru-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-22.3708, -41.7867],
-    name: { de: "Macaé", hu: "Macaé", ro: "Macaé", en: "Macaé",
-image: "/poi-images/macae-cities-v2.webp"
-},
+    name: { de: "Macaé", hu: "Macaé", ro: "Macaé", en: "Macaé"},
+    image: "/poi-images/macae-cities-v2.webp",
     description: { de: "Weltweit als 'Erdölhauptstadt' Brasiliens bekannt, bedient diese Küstenstadt das gesamte Campos-Becken.", hu: "Világszerte Brazília 'kőolaj-fővárosaként' ismert tengerparti város, amely a teljes Campos-medencét kiszolgálja.", ro: "Cunoscut la nivel mondial sub numele de 'Capitala petrolului' a Braziliei, acest oraș de coastă deservește întregul bazin Campos.", en: "Known globally as the 'Oil Capital' of Brazil, this coastal city serves the entire Campos Basin." },
     facts: {
       de: ["Petrobras unterhält hier seine wichtigsten Offshore-Basen.", "Verzeichnete ab den 1980er Jahren ein explosionsartiges Wachstum.", "Besitzt auch schöne Strände und eine Bergregion (Sana).", "Viele internationale Ölfirmen haben hier Niederlassungen."],
@@ -1844,9 +1776,8 @@ image: "/poi-images/macae-cities-v2.webp"
     type: "city",
     parent: "BR-RJ",
     coords: [-22.505, -43.1789],
-    name: { de: "Petrópolis", hu: "Petrópolis", ro: "Petrópolis", en: "Petrópolis",
-image: "/poi-images/petropolis-cities-v2.webp"
-},
+    name: { de: "Petrópolis", hu: "Petrópolis", ro: "Petrópolis", en: "Petrópolis"},
+    image: "/poi-images/petropolis-cities-v2.webp",
     description: { de: "Die historische Sommerresidenz der brasilianischen Kaiser in den Bergen von Rio de Janeiro.", hu: "A brazil császárok történelmi nyári rezidenciája Rio de Janeiro hegyei között.", ro: "Reședința istorică de vară a împăraților brazilieni în munții din Rio de Janeiro.", en: "The historic summer residence of the Brazilian emperors in the mountains of Rio de Janeiro." },
     facts: {
       de: ["Beherbergt das Kaiserliche Museum (Museu Imperial).", "Wurde von Kaiser Dom Pedro II. gegründet.", "Beliebt für sein angenehmes Bergklima.", "Zentrum für die Produktion von Textilien und Bier."],
@@ -1871,9 +1802,8 @@ image: "/poi-images/petropolis-cities-v2.webp"
     type: "city",
     parent: "BR-SC",
     coords: [-26.9194, -49.0661],
-    name: { de: "Blumenau", hu: "Blumenau", ro: "Blumenau", en: "Blumenau",
-image: "/poi-images/blumenau-cities-v2.webp"
-},
+    name: { de: "Blumenau", hu: "Blumenau", ro: "Blumenau", en: "Blumenau"},
+    image: "/poi-images/blumenau-cities-v2.webp",
     description: { de: "Eine stark von deutschen Einwanderern geprägte Stadt, die weltweit für das zweitgrößte Oktoberfest bekannt ist.", hu: "A német bevándorlók által erősen meghatározott város, amely világszerte ismert a második legnagyobb Oktoberfestről.", ro: "Un oraș puternic influențat de imigranții germani, cunoscut în întreaga lume pentru cel de-al doilea Oktoberfest ca mărime.", en: "A city strongly influenced by German immigrants, known worldwide for hosting the second largest Oktoberfest." },
     facts: {
       de: ["Ausgeprägte deutsche Fachwerkhäuser in der Innenstadt.", "Zentrum der brasilianischen Textil- und IT-Industrie.", "Gegründet im Jahr 1850 durch Hermann Bruno Otto Blumenau.", "Das Oktoberfest zieht jährlich hunderttausende Touristen an."],

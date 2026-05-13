@@ -6,9 +6,8 @@ export const poiExtraAngolaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "AO-BGO",
     coords: [13.4358, -9.5161],
-    name: { de: "Nationalpark Kissama", hu: "Kissama Nemzeti Park", ro: "Parcul Național Kissama", en: "Kissama National Park",
-image: "/poi-images/parque-nacional-da-kissama-life-v2.webp"
-},
+    name: { de: "Nationalpark Kissama", hu: "Kissama Nemzeti Park", ro: "Parcul Național Kissama", en: "Kissama National Park"},
+    image: "/poi-images/parque-nacional-da-kissama-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das für die Wiederansiedlung von Elefanten und anderen Wildtieren bekannt ist.", hu: "Elefántok és egyéb vadon élő állatok visszatelepítéséről ismert védett terület.", ro: "O zonă protejată cunoscută pentru reintroducerea elefanților și a altor animale sălbatice.", en: "A protected area known for the reintroduction of elephants and other wildlife." },
     facts: {
       de: ["Größter Nationalpark in Angola", "Heimat von Elefanten und Antilopen"],
@@ -33,9 +32,8 @@ image: "/poi-images/parque-nacional-da-kissama-life-v2.webp"
     type: "agriculture",
     parent: "AO-HUA",
     coords: [15.2281, -12.7933],
-    name: { de: "Fazenda Tchipeio", hu: "Tchipeio Gazdaság", ro: "Ferma Tchipeio", en: "Tchipeio Farm",
-image: "/poi-images/fazenda-tchipeio-life-v2.webp"
-},
+    name: { de: "Fazenda Tchipeio", hu: "Tchipeio Gazdaság", ro: "Ferma Tchipeio", en: "Tchipeio Farm"},
+    image: "/poi-images/fazenda-tchipeio-life-v2.webp",
     description: { de: "Ein landwirtschaftlicher Betrieb, der sich auf den Kaffeeanbau in den Hochländern spezialisiert hat.", hu: "A felföldi kávétermesztésre szakosodott mezőgazdasági üzem.", ro: "O fermă agricolă specializată în cultivarea cafelei în zonele înalte.", en: "An agricultural farm contributing to local produce development in the region." },
     facts: {
       de: ["Region Huambo", "Hochwertiger Arabica-Kaffee"],
@@ -60,9 +58,8 @@ image: "/poi-images/fazenda-tchipeio-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2500, -8.8333],
-    name: { de: "Zoo Luanda", hu: "Luandai Állatkert", ro: "Grădina Zoologică din Luanda", en: "Luanda Zoo",
-image: "/poi-images/jardim-zoologico-luanda-life-v2.webp"
-},
+    name: { de: "Zoo Luanda", hu: "Luandai Állatkert", ro: "Grădina Zoologică din Luanda", en: "Luanda Zoo"},
+    image: "/poi-images/jardim-zoologico-luanda-life-v2.webp",
     description: { de: "Ein beliebter Ort für Familien, um einheimische Tierarten aus Angola zu entdecken.", hu: "Népszerű hely a családok számára, ahol megismerhetik Angola őshonos állatfajait.", ro: "O grădină zoologică dedicată conservării faunei locale și educării publicului despre biodiversitatea angoleză.", en: "A popular place for families to discover native animal species from Angola." },
     facts: {
       de: ["Bildungszentrum", "Afrikanische Tierwelt"],
@@ -87,9 +84,8 @@ image: "/poi-images/jardim-zoologico-luanda-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-HUI",
     coords: [15.8203, -16.2155],
-    name: { de: "Mupa Spezialreservat", hu: "Mupa Különleges Rezervátum", ro: "Rezervația Specială Mupa", en: "Mupa Special Reserve",
-image: "/poi-images/reserva-especial-de-mupa-life-v2.webp"
-},
+    name: { de: "Mupa Spezialreservat", hu: "Mupa Különleges Rezervátum", ro: "Rezervația Specială Mupa", en: "Mupa Special Reserve"},
+    image: "/poi-images/reserva-especial-de-mupa-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das besonders für seine vielfältige Vogelwelt bekannt ist.", hu: "Különösen gazdag madárvilágáról ismert védett terület.", ro: "O arie protejată cunoscută în special pentru diversitatea păsărilor sale.", en: "A protected area known especially for its diverse birdlife." },
     facts: {
       de: ["Bedeutend für Ornithologen", "Trockene Waldregion"],
@@ -114,9 +110,8 @@ image: "/poi-images/reserva-especial-de-mupa-life-v2.webp"
     type: "agriculture",
     parent: "AO-UIG",
     coords: [15.7500, -6.0000],
-    name: { de: "Maquela do Zombo Plantage", hu: "Maquela do Zombo Ültetvény", ro: "Plantația Maquela do Zombo", en: "Maquela do Zombo Plantation",
-image: "/poi-images/fazenda-maquela-do-zombo-life-v2.webp"
-},
+    name: { de: "Maquela do Zombo Plantage", hu: "Maquela do Zombo Ültetvény", ro: "Plantația Maquela do Zombo", en: "Maquela do Zombo Plantation"},
+    image: "/poi-images/fazenda-maquela-do-zombo-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Region im Norden, die für den Anbau tropischer Früchte und Kaffee bekannt ist.", hu: "Északi mezőgazdasági régió, amely trópusi gyümölcsök és kávé termesztéséről ismert.", ro: "O fermă agricolă importantă situată în provincia Uíge, reprezentativă pentru producția locală de cafea și culturi tropicale.", en: "A farmstead located in the northern region, focusing on sustainable agricultural practices." },
     facts: {
       de: ["Uíge Provinz", "Günstiges tropisches Klima"],
@@ -141,9 +136,8 @@ image: "/poi-images/fazenda-maquela-do-zombo-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-MAL",
     coords: [16.6500, -9.8000],
-    name: { de: "Cangandala Nationalpark", hu: "Cangandala Nemzeti Park", ro: "Parcul Național Cangandala", en: "Cangandala National Park",
-image: "/poi-images/parque-nacional-da-cangandala-life-v2.webp"
-},
+    name: { de: "Cangandala Nationalpark", hu: "Cangandala Nemzeti Park", ro: "Parcul Național Cangandala", en: "Cangandala National Park"},
+    image: "/poi-images/parque-nacional-da-cangandala-life-v2.webp",
     description: { de: "Ein spezielles Schutzgebiet für den Erhalt der seltenen Riesen-Rappenantilope.", hu: "Különleges védett terület a ritka óriás fekete lóantilop megőrzésére.", ro: "O arie protejată specială pentru conservarea rarisimei antilope negre gigant.", en: "A special protected area for the conservation of the rare giant sable antelope." },
     facts: {
       de: ["Heimat der Riesen-Rappenantilope", "Kleinster Nationalpark Angolas"],
@@ -168,9 +162,8 @@ image: "/poi-images/parque-nacional-da-cangandala-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-NAM",
     coords: [12.0000, -15.0000],
-    name: { de: "Namibe Teilreservat", hu: "Namibe Részleges Rezervátum", ro: "Rezervația Parțială Namibe", en: "Namibe Partial Reserve",
-image: "/poi-images/reserva-parcial-do-namibe-life-v2.webp"
-},
+    name: { de: "Namibe Teilreservat", hu: "Namibe Részleges Rezervátum", ro: "Rezervația Parțială Namibe", en: "Namibe Partial Reserve"},
+    image: "/poi-images/reserva-parcial-do-namibe-life-v2.webp",
     description: { de: "Ein Wüstenökosystem, das einzigartige Pflanzenarten und Wüstentiere beherbergt.", hu: "Sivatagi ökoszisztéma, amely egyedülálló növényfajoknak és sivatagi állatoknak ad otthont.", ro: "O zonă protejată cu un ecosistem arid unic, fiind casa speciilor adaptate la condițiile aspre din deșertul Namibe.", en: "A protected area preserving unique desert and coastal flora and fauna of the Namibe region." },
     facts: {
       de: ["Wüstenanpassung", "Einzigartige Flora"],
@@ -195,9 +188,8 @@ image: "/poi-images/reserva-parcial-do-namibe-life-v2.webp"
     type: "agriculture",
     parent: "AO-HUI",
     coords: [14.0000, -14.0000],
-    name: { de: "Fazenda Cacula", hu: "Cacula Gazdaság", ro: "Ferma Cacula", en: "Cacula Farm",
-image: "/poi-images/fazenda-cacula-life-v2.webp"
-},
+    name: { de: "Fazenda Cacula", hu: "Cacula Gazdaság", ro: "Ferma Cacula", en: "Cacula Farm"},
+    image: "/poi-images/fazenda-cacula-life-v2.webp",
     description: { de: "Ein Betrieb, der für die Viehzucht und den Getreideanbau in der Huíla-Region bekannt ist.", hu: "A Huíla régióban az állattenyésztésről és gabonatermesztésről ismert gazdaság.", ro: "O fermă cunoscută pentru creșterea animalelor și cultivarea cerealelor în regiunea Huíla.", en: "An active agricultural unit promoting rural growth and local food security." },
     facts: {
       de: ["Huíla Provinz", "Traditionelle Landwirtschaft"],
@@ -222,9 +214,8 @@ image: "/poi-images/fazenda-cacula-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2200, -8.8400],
-    name: { de: "Luanda Kinderspielpark", hu: "Luanda Játszótérpark", ro: "Parc de Joacă Luanda", en: "Luanda Children's Park",
-image: "/poi-images/parque-infantil-luanda-life-v2.webp"
-},
+    name: { de: "Luanda Kinderspielpark", hu: "Luanda Játszótérpark", ro: "Parc de Joacă Luanda", en: "Luanda Children's Park"},
+    image: "/poi-images/parque-infantil-luanda-life-v2.webp",
     description: { de: "Ein öffentlicher Bereich mit Spielplätzen und Aktivitäten für Kinder im Herzen von Luanda.", hu: "Nyilvános terület játszóterekkel és gyermekprogramokkal Luanda szívében.", ro: "O zonă publică cu locuri de joacă și activități pentru copii în inima orașului Luanda.", en: "A recreational space for children in the capital, providing vital urban green space." },
     facts: {
       de: ["Familienfreundlich", "Stadtmitte"],
@@ -249,9 +240,8 @@ image: "/poi-images/parque-infantil-luanda-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-LUA",
     coords: [13.1500, -8.8800],
-    name: { de: "Ilhéu dos Pássaros Reservat", hu: "Ilhéu dos Pássaros Rezervátum", ro: "Rezervația Ilhéu dos Pássaros", en: "Ilhéu dos Pássaros Reserve",
-image: "/poi-images/reserva-natural-do-ilheu-dos-passaros-life-v2.webp"
-},
+    name: { de: "Ilhéu dos Pássaros Reservat", hu: "Ilhéu dos Pássaros Rezervátum", ro: "Rezervația Ilhéu dos Pássaros", en: "Ilhéu dos Pássaros Reserve"},
+    image: "/poi-images/reserva-natural-do-ilheu-dos-passaros-life-v2.webp",
     description: { de: "Eine kleine Insel vor Luanda, die ein wichtiges Schutzgebiet für Seevögel ist.", hu: "Luanda előtti kis sziget, amely a tengeri madarak fontos védett területe.", ro: "O mică insulă în largul Luandei, care este o importantă arie protejată pentru păsările marine.", en: "A small island off Luanda, which is an important protected area for seabirds." },
     facts: {
       de: ["Seevogelkolonien", "Geschütztes Ökosystem"],
@@ -276,9 +266,8 @@ image: "/poi-images/reserva-natural-do-ilheu-dos-passaros-life-v2.webp"
     type: "agriculture",
     parent: "AO-CUS",
     coords: [14.5000, -10.5000],
-    name: { de: "Fazenda Kwanza Sul", hu: "Kwanza Sul Gazdaság", ro: "Ferma Kwanza Sul", en: "Kwanza Sul Farm",
-image: "/poi-images/fazenda-kwanza-sul-life-v2.webp"
-},
+    name: { de: "Fazenda Kwanza Sul", hu: "Kwanza Sul Gazdaság", ro: "Ferma Kwanza Sul", en: "Kwanza Sul Farm"},
+    image: "/poi-images/fazenda-kwanza-sul-life-v2.webp",
     description: { de: "Eine produktive landwirtschaftliche Region, die für Obst- und Gemüseanbau steht.", hu: "Termékeny mezőgazdasági régió, amely zöldség- és gyümölcstermesztéséről ismert.", ro: "O regiune agricolă productivă, cunoscută pentru cultivarea legumelor și fructelor.", en: "A significant farm in the Kwanza-Sul province involved in large-scale crop production." },
     facts: {
       de: ["Kwanza Sul Provinz", "Hoher Ertrag"],
@@ -303,9 +292,8 @@ image: "/poi-images/fazenda-kwanza-sul-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-HUI",
     coords: [13.4800, -14.9200],
-    name: { de: "Umweltzentrum Lubango", hu: "Lubangói Környezetvédelmi Központ", ro: "Centrul de Mediu Lubango", en: "Lubango Environmental Center",
-image: "/poi-images/centro-ambiental-lubango-life-v2.webp"
-},
+    name: { de: "Umweltzentrum Lubango", hu: "Lubangói Környezetvédelmi Központ", ro: "Centrul de Mediu Lubango", en: "Lubango Environmental Center"},
+    image: "/poi-images/centro-ambiental-lubango-life-v2.webp",
     description: { de: "Ein interaktives Zentrum, das Kindern Wissen über die Natur Angolas vermittelt.", hu: "Interaktív központ, amely megtanítja a gyerekeket Angola természetéről.", ro: "Un centru dedicat conservării mediului înconjurător în zona muntoasă din jurul orașului Lubango.", en: "An environmental research and education center focusing on preserving Angola's highland biodiversity." },
     facts: {
       de: ["Bildung", "Naturkunde"],
@@ -330,9 +318,8 @@ image: "/poi-images/centro-ambiental-lubango-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-BGO",
     coords: [13.5000, -9.6000],
-    name: { de: "Quiçama Nationalpark", hu: "Quiçama Nemzeti Park", ro: "Parcul Național Quiçama", en: "Quiçama National Park",
-image: "/poi-images/parque-nacional-da-quiçama-life-v2.webp"
-},
+    name: { de: "Quiçama Nationalpark", hu: "Quiçama Nemzeti Park", ro: "Parcul Național Quiçama", en: "Quiçama National Park"},
+    image: "/poi-images/parque-nacional-da-quiçama-life-v2.webp",
     description: { de: "Ein weitläufiges Schutzgebiet, ideal für Safaris und die Beobachtung afrikanischer Fauna.", hu: "Hatalmas védett terület, ideális szafarikhoz és az afrikai vadvilág megfigyeléséhez.", ro: "Unul dintre cele mai importante parcuri naționale, celebru pentru eforturile sale de repopulare cu animale sălbatice.", en: "A premier national park known for its successful wildlife rehabilitation programs." },
     facts: {
       de: ["Artenvielfalt", "Große Säugetiere"],
@@ -357,9 +344,8 @@ image: "/poi-images/parque-nacional-da-quiçama-life-v2.webp"
     type: "agriculture",
     parent: "AO-BGO",
     coords: [13.4150, -12.5700],
-    name: { de: "Fazenda Benguela", hu: "Benguela Gazdaság", ro: "Ferma Benguela", en: "Benguela Farm",
-image: "/poi-images/fazenda-benguela-life-v2.webp"
-},
+    name: { de: "Fazenda Benguela", hu: "Benguela Gazdaság", ro: "Ferma Benguela", en: "Benguela Farm"},
+    image: "/poi-images/fazenda-benguela-life-v2.webp",
     description: { de: "Ein landwirtschaftlicher Betrieb in der Küstenregion, bekannt für Sisal und andere Nutzpflanzen.", hu: "Mezőgazdasági üzem a partvidéken, amely szizál és egyéb haszonnövények termesztéséről ismert.", ro: "O fermă agricolă în regiunea de coastă, cunoscută pentru sisal și alte culturi.", en: "An important agricultural facility in the Benguela province supporting regional markets." },
     facts: {
       de: ["Benguela Küste", "Industriepflanzen"],
@@ -384,9 +370,8 @@ image: "/poi-images/fazenda-benguela-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-HUI",
     coords: [13.4900, -14.9100],
-    name: { de: "Botanischer Garten Lubango", hu: "Lubangói Füvészkert", ro: "Grădina Botanică Lubango", en: "Lubango Botanical Garden",
-image: "/poi-images/jardim-botanico-do-lubango-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Lubango", hu: "Lubangói Füvészkert", ro: "Grădina Botanică Lubango", en: "Lubango Botanical Garden"},
+    image: "/poi-images/jardim-botanico-do-lubango-life-v2.webp",
     description: { de: "Ein schöner Garten mit heimischen Pflanzen aus Angola, der auch als Erholungsort dient.", hu: "Szép kert angolai őshonos növényekkel, amely pihenőhelyként is szolgál.", ro: "O grădină botanică ce prezintă flora diversă a platoului Huíla într-un cadru protejat.", en: "A botanical garden showcasing diverse plant species native to the Angolan highlands." },
     facts: {
       de: ["Heimische Flora", "Erholung"],
@@ -411,9 +396,8 @@ image: "/poi-images/jardim-botanico-do-lubango-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-MAL",
     coords: [17.5000, -10.0000],
-    name: { de: "Luando Jagdreservat", hu: "Luando Vadászrezervátum", ro: "Rezervația de Vânătoare Luando", en: "Luando Hunting Reserve",
-image: "/poi-images/reserva-de-caça-do-luando-life-v2.webp"
-},
+    name: { de: "Luando Jagdreservat", hu: "Luando Vadászrezervátum", ro: "Rezervația de Vânătoare Luando", en: "Luando Hunting Reserve"},
+    image: "/poi-images/reserva-de-caça-do-luando-life-v2.webp",
     description: { de: "Ein wichtiges Schutzgebiet für die Erhaltung der lokalen Biodiversität, insbesondere für Antilopenarten.", hu: "Fontos védett terület a helyi biológiai sokféleség megőrzésére, különösen az antilopfajok számára.", ro: "O arie protejată importantă pentru conservarea biodiversității locale, în special pentru speciile de antilope.", en: "An important protected area for the conservation of local biodiversity, especially for antelope species." },
     facts: {
       de: ["Wildschutz", "Biodiversitätsknotenpunkt"],
@@ -438,9 +422,8 @@ image: "/poi-images/reserva-de-caça-do-luando-life-v2.webp"
     type: "agriculture",
     parent: "AO-LNO",
     coords: [20.0000, -8.0000],
-    name: { de: "Fazenda Lunda Norte", hu: "Lunda Norte Gazdaság", ro: "Ferma Lunda Norte", en: "Lunda Norte Farm",
-image: "/poi-images/fazenda-lunda-norte-life-v2.webp"
-},
+    name: { de: "Fazenda Lunda Norte", hu: "Lunda Norte Gazdaság", ro: "Ferma Lunda Norte", en: "Lunda Norte Farm"},
+    image: "/poi-images/fazenda-lunda-norte-life-v2.webp",
     description: { de: "Ein landwirtschaftliches Gebiet im Nordosten, bekannt für seine vielfältigen Anbaumöglichkeiten.", hu: "Északkeleti mezőgazdasági terület, amely sokszínű termesztési lehetőségeiről ismert.", ro: "O exploatație agricolă reprezentativă pentru potențialul agricol al regiunii Lunda Norte.", en: "An agricultural enterprise in Lunda Norte supporting regional farming and rural development." },
     facts: {
       de: ["Lunda Norte Provinz", "Fruchtbarer Boden"],
@@ -465,9 +448,8 @@ image: "/poi-images/fazenda-lunda-norte-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2300, -8.8450],
-    name: { de: "Cidadela Stadtpark", hu: "Cidadela Városliget", ro: "Parc Urban Cidadela", en: "Cidadela Urban Park",
-image: "/poi-images/parque-urbano-da-cidadela-life-v2.webp"
-},
+    name: { de: "Cidadela Stadtpark", hu: "Cidadela Városliget", ro: "Parc Urban Cidadela", en: "Cidadela Urban Park"},
+    image: "/poi-images/parque-urbano-da-cidadela-life-v2.webp",
     description: { de: "Ein Park mit vielen Flächen für Kinder und Familien zum Spielen in Luanda.", hu: "Park sok területtel a gyerekek és családok számára a játékhoz Luandában.", ro: "Un spațiu verde recreativ situat în inima urbană a orașului, oferind locuri de relaxare și aer curat.", en: "An urban park in Luanda providing a central green space for residents and city activities." },
     facts: {
       de: ["Grünfläche", "Freizeit"],
@@ -492,9 +474,8 @@ image: "/poi-images/parque-urbano-da-cidadela-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-BGO",
     coords: [13.4000, -9.5500],
-    name: { de: "Quissama Naturreservat", hu: "Quissama Természetvédelmi Terület", ro: "Rezervația Naturală Quissama", en: "Quissama Nature Reserve",
-image: "/poi-images/reserva-natural-do-quissama-life-v2.webp"
-},
+    name: { de: "Quissama Naturreservat", hu: "Quissama Természetvédelmi Terület", ro: "Rezervația Naturală Quissama", en: "Quissama Nature Reserve"},
+    image: "/poi-images/reserva-natural-do-quissama-life-v2.webp",
     description: { de: "Ein Teil des großen Parkgebiets, das sich auf den Schutz von Lebensräumen für Wildtiere konzentriert.", hu: "A nagy parkterület egy része, amely a vadvilág élőhelyeinek védelmére összpontosít.", ro: "O parte a vastei arii a parcului, concentrată pe protejarea habitatelor pentru animalele sălbatice.", en: "A protected natural reserve encompassing diverse habitats for Angola's iconic wildlife." },
     facts: {
       de: ["Lebensraumschutz", "Wilde Tiere"],
@@ -519,9 +500,8 @@ image: "/poi-images/reserva-natural-do-quissama-life-v2.webp"
     type: "agriculture",
     parent: "AO-CAB",
     coords: [12.2000, -5.3000],
-    name: { de: "Fazenda Cabinda", hu: "Cabinda Gazdaság", ro: "Ferma Cabinda", en: "Cabinda Farm",
-image: "/poi-images/fazenda-cabinda-life-v2.webp"
-},
+    name: { de: "Fazenda Cabinda", hu: "Cabinda Gazdaság", ro: "Ferma Cabinda", en: "Cabinda Farm"},
+    image: "/poi-images/fazenda-cabinda-life-v2.webp",
     description: { de: "Landwirtschaftliche Aktivitäten in der Cabinda-Exklave, mit Schwerpunkt auf Kakao.", hu: "Mezőgazdasági tevékenységek a Cabinda-exklávéban, a kakaóra összpontosítva.", ro: "Activități agricole în exclava Cabinda, cu accent pe cacao.", en: "A farmstead in the Cabinda exclave contributing to the regional agricultural sector." },
     facts: {
       de: ["Cabinda Exklave", "Kakaoanbau"],
@@ -548,9 +528,8 @@ image: "/poi-images/fazenda-cabinda-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2400, -8.8400],
-    name: { de: "Garten der Unabhängigkeit", hu: "Függetlenség Kertje", ro: "Grădina Independenței", en: "Garden of Independence",
-image: "/poi-images/jardim-da-independencia-life-v2.webp"
-},
+    name: { de: "Garten der Unabhängigkeit", hu: "Függetlenség Kertje", ro: "Grădina Independenței", en: "Garden of Independence"},
+    image: "/poi-images/jardim-da-independencia-life-v2.webp",
     description: { de: "Ein öffentlicher Raum in Luanda, der oft für familienorientierte Veranstaltungen genutzt wird.", hu: "Luandai nyilvános tér, amelyet gyakran családközpontú rendezvényekre használnak.", ro: "O grădină publică simbolică pentru istoria recentă a Angolei, situată într-o zonă urbană centrală.", en: "A commemorative garden reflecting Angola's journey to independence and national identity." },
     facts: {
       de: ["Öffentliche Versammlungen", "Familien"],
@@ -577,9 +556,8 @@ image: "/poi-images/jardim-da-independencia-life-v2.webp"
     type: "agriculture",
     parent: "AO-HUA",
     coords: [15.7000, -12.7000],
-    name: { de: "Fazenda Huambo", hu: "Huambo Gazdaság", ro: "Ferma Huambo", en: "Huambo Farm",
-image: "/poi-images/fazenda-huambo-life-v2.webp"
-},
+    name: { de: "Fazenda Huambo", hu: "Huambo Gazdaság", ro: "Ferma Huambo", en: "Huambo Farm"},
+    image: "/poi-images/fazenda-huambo-life-v2.webp",
     description: { de: "Ein zentraler landwirtschaftlicher Betrieb in Huambo, spezialisiert auf Getreide.", hu: "Központi mezőgazdasági üzem Huambóban, gabonafélékre szakosodva.", ro: "O fermă agricolă centrală în Huambo, specializată în cereale.", en: "An agricultural production unit situated in the fertile highlands of Huambo province." },
     facts: {
       de: ["Huambo Region", "Getreideanbau"],
@@ -606,9 +584,8 @@ image: "/poi-images/fazenda-huambo-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-BGO",
     coords: [13.4000, -12.5800],
-    name: { de: "Benguela Kinderspielpark", hu: "Benguela Játszótérpark", ro: "Parc de Joacă Benguela", en: "Benguela Children's Park",
-image: "/poi-images/parque-infantil-benguela-life-v2.webp"
-},
+    name: { de: "Benguela Kinderspielpark", hu: "Benguela Játszótérpark", ro: "Parc de Joacă Benguela", en: "Benguela Children's Park"},
+    image: "/poi-images/parque-infantil-benguela-life-v2.webp",
     description: { de: "Ein schöner Kinderspielplatz in der Stadt Benguela, der bei lokalen Familien beliebt ist.", hu: "Szép játszótér Benguela városában, amely népszerű a helyi családok körében.", ro: "Un loc de joacă frumos pentru copii în orașul Benguela, popular printre familiile locale.", en: "A community-focused children's play area in the city of Benguela." },
     facts: {
       de: ["Kindgerecht", "Benguela Stadt"],
@@ -633,9 +610,8 @@ image: "/poi-images/parque-infantil-benguela-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-MOX",
     coords: [21.5000, -11.5000],
-    name: { de: "Lumeje Reservat", hu: "Lumeje Rezervátum", ro: "Rezervația Lumeje", en: "Lumeje Reserve",
-image: "/poi-images/reserva-do-lumeje-life-v2.webp"
-},
+    name: { de: "Lumeje Reservat", hu: "Lumeje Rezervátum", ro: "Rezervația Lumeje", en: "Lumeje Reserve"},
+    image: "/poi-images/reserva-do-lumeje-life-v2.webp",
     description: { de: "Ein Naturschutzgebiet, das den Schutz von Wildtieren im Osten Angolas fördert.", hu: "Természetvédelmi terület, amely elősegíti a vadvilág védelmét Angola keleti részén.", ro: "O rezervație naturală ce protejează flora și fauna specifică bazinului râului Lumeje.", en: "A nature reserve focused on protecting local biodiversity in the Lumeje river region." },
     facts: {
       de: ["Ost-Angola", "Wildtiererhalt"],
@@ -660,9 +636,8 @@ image: "/poi-images/reserva-do-lumeje-life-v2.webp"
     type: "agriculture",
     parent: "AO-MAL",
     coords: [16.3000, -9.5000],
-    name: { de: "Fazenda Malanje", hu: "Malanje Gazdaság", ro: "Ferma Malanje", en: "Malanje Farm",
-image: "/poi-images/fazenda-malanje-life-v2.webp"
-},
+    name: { de: "Fazenda Malanje", hu: "Malanje Gazdaság", ro: "Ferma Malanje", en: "Malanje Farm"},
+    image: "/poi-images/fazenda-malanje-life-v2.webp",
     description: { de: "Ein landwirtschaftlicher Betrieb in Malanje, konzentriert auf verschiedene Anbaumethoden.", hu: "Malanjei mezőgazdasági üzem, a különböző termesztési módszerekre koncentrálva.", ro: "O fermă agricolă în Malanje, concentrată pe diverse metode de cultivare.", en: "An agricultural farm in Malanje, focused on various cultivation methods." },
     facts: {
       de: ["Malanje Provinz", "Gemischte Landwirtschaft"],
@@ -687,9 +662,8 @@ image: "/poi-images/fazenda-malanje-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-LUA",
     coords: [13.2600, -8.8500],
-    name: { de: "Ökopark Luanda", hu: "Luandai Ökopark", ro: "Parcul Ecologic Luanda", en: "Luanda Eco Park",
-image: "/poi-images/parque-ecologico-de-luanda-life-v2.webp"
-},
+    name: { de: "Ökopark Luanda", hu: "Luandai Ökopark", ro: "Parcul Ecologic Luanda", en: "Luanda Eco Park"},
+    image: "/poi-images/parque-ecologico-de-luanda-life-v2.webp",
     description: { de: "Ein Lernort für Kinder über ökologische Zusammenhänge und Umweltschutz.", hu: "Tanulási hely gyerekeknek az ökológiai összefüggésekről és a környezetvédelemről.", ro: "Un parc ecologic ce promovează conservarea naturii și activitățile în aer liber în apropierea capitalei.", en: "An ecological park near the capital designed for conservation education and nature appreciation." },
     facts: {
       de: ["Umweltbildung", "Natur"],
@@ -714,9 +688,8 @@ image: "/poi-images/parque-ecologico-de-luanda-life-v2.webp"
     type: "animal-habitat",
     parent: "AO-MAL",
     coords: [16.6000, -9.8500],
-    name: { de: "Cangandala Reservat", hu: "Cangandala Rezervátum", ro: "Rezervația Cangandala", en: "Cangandala Reserve",
-image: "/poi-images/reserva-de-cangandala-life-v2.webp"
-},
+    name: { de: "Cangandala Reservat", hu: "Cangandala Rezervátum", ro: "Rezervația Cangandala", en: "Cangandala Reserve"},
+    image: "/poi-images/reserva-de-cangandala-life-v2.webp",
     description: { de: "Ein wichtiger Schutzraum zur Bewahrung der Riesen-Rappenantilopen-Population.", hu: "Fontos menedék az óriás fekete lóantilop populáció megőrzésére.", ro: "O rezervație creată inițial pentru protejarea antilopei sable gigante, simbolul național al Angolei.", en: "A critical nature reserve established to protect the Giant Sable Antelope, a national symbol." },
     facts: {
       de: ["Erhaltungszucht", "Seltene Art"],
@@ -741,9 +714,8 @@ image: "/poi-images/reserva-de-cangandala-life-v2.webp"
     type: "agriculture",
     parent: "AO-HUI",
     coords: [14.1000, -14.1000],
-    name: { de: "Fazenda Huíla", hu: "Huíla Gazdaság", ro: "Ferma Huíla", en: "Huíla Farm",
-image: "/poi-images/fazenda-huila-life-v2.webp"
-},
+    name: { de: "Fazenda Huíla", hu: "Huíla Gazdaság", ro: "Ferma Huíla", en: "Huíla Farm"},
+    image: "/poi-images/fazenda-huila-life-v2.webp",
     description: { de: "Landwirtschaftliche Nutzung der Hochebenen in Huíla mit Fokus auf Nutzpflanzen.", hu: "A huíla-i fennsíkok mezőgazdasági hasznosítása, a haszonnövényekre helyezve a hangsúlyt.", ro: "Utilizarea agricolă a platourilor în Huíla, cu accent pe culturi.", en: "Agricultural use of the plateaus in Huíla, with a focus on crops." },
     facts: {
       de: ["Hochland-Anbau", "Regionale Produkte"],
@@ -770,9 +742,8 @@ image: "/poi-images/fazenda-huila-life-v2.webp"
     type: "kid-landmark",
     parent: "AO-HUA",
     coords: [15.7500, -12.7500],
-    name: { de: "Botanischer Park Huambo", hu: "Huambo Botanikus Park", ro: "Parcul Botanic Huambo", en: "Huambo Botanical Park",
-image: "/poi-images/parque-botanico-huambo-life-v2.webp"
-},
+    name: { de: "Botanischer Park Huambo", hu: "Huambo Botanikus Park", ro: "Parcul Botanic Huambo", en: "Huambo Botanical Park"},
+    image: "/poi-images/parque-botanico-huambo-life-v2.webp",
     description: { de: "Ein pädagogischer Garten in Huambo, der Familien die Flora Angolas näherbringt.", hu: "Oktatókert Huambóban, amely közelebb hozza a családokhoz Angola növényvilágát.", ro: "O grădină botanică situată în Huambo, concentrată pe studierea și conservarea plantelor din regiunile interioare.", en: "A botanical site highlighting the diverse highland vegetation and plant species of central Angola." },
     facts: {
       de: ["Bildung", "Pflanzenwelt"],

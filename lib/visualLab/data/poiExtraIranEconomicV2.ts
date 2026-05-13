@@ -10,9 +10,8 @@ export const poiExtraIranEconomicV2: POI[] = [
       de: "South Pars Gasfeld",
       hu: "Déli Pars Gázmező",
       ro: "Câmpul de gaze South Pars",
-      en: "South Pars Gas Field",
-image: "/poi-images/south-pars-gas-field-economic-v2.webp"
-},
+      en: "South Pars Gas Field"},
+    image: "/poi-images/south-pars-gas-field-economic-v2.webp",
     description: {
       de: "Das weltweit größte Gasfeld im Persischen Golf, das von Iran und Katar geteilt wird.",
       hu: "A világ legnagyobb gázmezeje a Perzsa-öbölben, amelyen Irán és Katar osztozik.",
@@ -46,9 +45,8 @@ image: "/poi-images/south-pars-gas-field-economic-v2.webp"
       de: "Hafen von Bandar Abbas",
       hu: "Bandar Abbász kikötő",
       ro: "Portul Bandar Abbas",
-      en: "Port of Bandar Abbas",
-image: "/poi-images/bandar-abbas-port-economic-v2.webp"
-},
+      en: "Port of Bandar Abbas"},
+    image: "/poi-images/bandar-abbas-port-economic-v2.webp",
     description: {
       de: "Der wichtigste und größte Seehafen Irans an der Straße von Hormus.",
       hu: "Irán legfontosabb és legnagyobb tengeri kikötője a Hormuzi-szorosnál.",
@@ -82,9 +80,8 @@ image: "/poi-images/bandar-abbas-port-economic-v2.webp"
       de: "Kupferbergwerk Sarcheshmeh",
       hu: "Szarcsesmeh rézbánya",
       ro: "Mina de cupru Sarcheshmeh",
-      en: "Sarcheshmeh Copper Mine",
-image: "/poi-images/sarcheshmeh-copper-mine-economic-v2.webp"
-},
+      en: "Sarcheshmeh Copper Mine"},
+    image: "/poi-images/sarcheshmeh-copper-mine-economic-v2.webp",
     description: {
       de: "Eine der größten Kupferminen der Welt, gelegen in der Provinz Kerman.",
       hu: "A világ egyik legnagyobb rézbányája, amely Kerman tartományban található.",
@@ -118,9 +115,8 @@ image: "/poi-images/sarcheshmeh-copper-mine-economic-v2.webp"
       de: "Stahlwerk Mobarakeh",
       hu: "Mobáraké acélművek",
       ro: "Combinatul Siderurgic Mobarakeh",
-      en: "Mobarakeh Steel Company",
-image: "/poi-images/mobarakeh-steel-company-economic-v2.webp"
-},
+      en: "Mobarakeh Steel Company"},
+    image: "/poi-images/mobarakeh-steel-company-economic-v2.webp",
     description: {
       de: "Der größte Stahlproduzent in der Region Naher Osten und Nordafrika.",
       hu: "A Közel-Kelet és Észak-Afrika régió legnagyobb acéltermelő vállalata.",
@@ -154,9 +150,8 @@ image: "/poi-images/mobarakeh-steel-company-economic-v2.webp"
       de: "Hafen von Tschabahar",
       hu: "Csábáhár kikötő",
       ro: "Portul Chabahar",
-      en: "Chabahar Port",
-image: "/poi-images/chabahar-port-economic-v2.webp"
-},
+      en: "Chabahar Port"},
+    image: "/poi-images/chabahar-port-economic-v2.webp",
     description: {
       de: "Irans einziger ozeanischer Hafen am Golf von Oman, strategisch wichtig für den Handel mit Indien.",
       hu: "Irán egyetlen óceáni kikötője az Ománi-öbölben, stratégiai jelentőségű az Indiával való kereskedelemben.",
@@ -190,9 +185,8 @@ image: "/poi-images/chabahar-port-economic-v2.webp"
       de: "Petrochemiekomplex Täbris",
       hu: "Tebriz petrolkémiai kombinát",
       ro: "Complexul Petrochimic Tabriz",
-      en: "Tabriz Petrochemical Company",
-image: "/poi-images/tabriz-petrochemical-economic-v2.webp"
-},
+      en: "Tabriz Petrochemical Company"},
+    image: "/poi-images/tabriz-petrochemical-economic-v2.webp",
     description: {
       de: "Ein bedeutendes petrochemisches Zentrum im Nordwesten Irans, das Kunststoffe und Polymere herstellt.",
       hu: "Jelentős petrolkémiai központ Északnyugat-Iránban, amely műanyagokat és polimereket állít elő.",
@@ -226,9 +220,8 @@ image: "/poi-images/tabriz-petrochemical-economic-v2.webp"
       de: "Ölfeld Ahvaz",
       hu: "Ahváz olajmező",
       ro: "Câmpul petrolier Ahvaz",
-      en: "Ahvaz Oil Field",
-image: "/poi-images/ahvaz-oil-field-economic-v2.webp"
-},
+      en: "Ahvaz Oil Field"},
+    image: "/poi-images/ahvaz-oil-field-economic-v2.webp",
     description: {
       de: "Eines der größten Ölfelder der Welt im Südwesten Irans.",
       hu: "A világ egyik legnagyobb olajmezeje, Délnyugat-Iránban található.",
@@ -262,9 +255,8 @@ image: "/poi-images/ahvaz-oil-field-economic-v2.webp"
       de: "Eisenerzbergwerk Bafgh",
       hu: "Bafgh vasércbánya",
       ro: "Mina de minereu de fier Bafgh",
-      en: "Bafgh Iron Ore Mine",
-image: "/poi-images/bafgh-iron-ore-mine-economic-v2.webp"
-},
+      en: "Bafgh Iron Ore Mine"},
+    image: "/poi-images/bafgh-iron-ore-mine-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Eisenerzabbaugebiet in der Provinz Yazd.",
       hu: "Jelentős vasércbányászati terület Jazd tartományban.",
@@ -298,9 +290,8 @@ image: "/poi-images/bafgh-iron-ore-mine-economic-v2.webp"
       de: "Industriegebiet Asaluyeh",
       hu: "Aszaluje ipari övezet",
       ro: "Zona Industrială Asaluyeh",
-      en: "Asaluyeh Industrial Area",
-image: "/poi-images/asaluyeh-industrial-area-economic-v2.webp"
-},
+      en: "Asaluyeh Industrial Area"},
+    image: "/poi-images/asaluyeh-industrial-area-economic-v2.webp",
     description: {
       de: "Das Zentrum der iranischen Petrochemie und Gasverarbeitung nahe dem South Pars Gasfeld.",
       hu: "Az iráni petrolkémia és gázfeldolgozás központja a Déli Pars gázmező közelében.",
@@ -334,9 +325,8 @@ image: "/poi-images/asaluyeh-industrial-area-economic-v2.webp"
       de: "Hafen Imam Chomeini",
       hu: "Imám Khomeini kikötő",
       ro: "Portul Imam Khomeini",
-      en: "Bandar Imam Khomeini Port",
-image: "/poi-images/bandar-imam-khomeini-economic-v2.webp"
-},
+      en: "Bandar Imam Khomeini Port"},
+    image: "/poi-images/bandar-imam-khomeini-economic-v2.webp",
     description: {
       de: "Ein bedeutender Hafenkomplex und Industriezentrum am Persischen Golf.",
       hu: "Jelentős kikötőkomplexum és ipari központ a Perzsa-öböl partján.",
@@ -370,9 +360,8 @@ image: "/poi-images/bandar-imam-khomeini-economic-v2.webp"
       de: "Maschinenbauwerk Arak",
       hu: "Arak gépgyár",
       ro: "Uzina de Construcții de Mașini Arak",
-      en: "Arak Machine Sazi",
-image: "/poi-images/arak-machine-sazi-economic-v2.webp"
-},
+      en: "Arak Machine Sazi"},
+    image: "/poi-images/arak-machine-sazi-economic-v2.webp",
     description: {
       de: "Ein großer Industriekomplex, der schwere Maschinen, Brücken und Kesselanlagen herstellt.",
       hu: "Hatalmas ipari komplexum, amely nehézgépeket, hidakat és kazánberendezéseket gyárt.",
@@ -406,9 +395,8 @@ image: "/poi-images/arak-machine-sazi-economic-v2.webp"
       de: "Chadormalu Bergbauunternehmen",
       hu: "Csadormalu bányavállalat",
       ro: "Compania Minieră Chadormalu",
-      en: "Chadormalu Mining Company",
-image: "/poi-images/chadormalu-mining-economic-v2.webp"
-},
+      en: "Chadormalu Mining Company"},
+    image: "/poi-images/chadormalu-mining-economic-v2.webp",
     description: {
       de: "Einer der größten Eisenerzproduzenten Irans, im Herzen der Wüste gelegen.",
       hu: "Irán egyik legnagyobb vasérctermelője, a sivatag szívében fekszik.",
@@ -442,9 +430,8 @@ image: "/poi-images/chadormalu-mining-economic-v2.webp"
       de: "Raffinerie Abadan",
       hu: "Abadán kőolajfinomító",
       ro: "Rafinăria Abadan",
-      en: "Abadan Refinery",
-image: "/poi-images/abadan-refinery-economic-v2.webp"
-},
+      en: "Abadan Refinery"},
+    image: "/poi-images/abadan-refinery-economic-v2.webp",
     description: {
       de: "Historische Ölraffinerie, die einst als die größte der Welt galt.",
       hu: "Történelmi kőolajfinomító, amelyet egykor a világ legnagyobbnak tartottak.",
@@ -478,9 +465,8 @@ image: "/poi-images/abadan-refinery-economic-v2.webp"
       de: "Hafen von Bandar Lengeh",
       hu: "Bandar Lengeh kikötője",
       ro: "Portul Bandar Lengeh",
-      en: "Port of Bandar Lengeh",
-image: "/poi-images/bandar-lengeh-economic-v2.webp"
-},
+      en: "Port of Bandar Lengeh"},
+    image: "/poi-images/bandar-lengeh-economic-v2.webp",
     description: {
       de: "Ein bedeutender lokaler Hafen, historisch bekannt als Zentrum der Perlenfischerei.",
       hu: "Jelentős helyi kikötő, történelmileg a gyöngyhalászat központjaként volt ismert.",
@@ -514,9 +500,8 @@ image: "/poi-images/bandar-lengeh-economic-v2.webp"
       de: "Kernkraftwerk Buschehr",
       hu: "Busehr atomerőmű",
       ro: "Centrala Nucleară Bushehr",
-      en: "Bushehr Nuclear Power Plant",
-image: "/poi-images/bushehr-nuclear-plant-economic-v2.webp"
-},
+      en: "Bushehr Nuclear Power Plant"},
+    image: "/poi-images/bushehr-nuclear-plant-economic-v2.webp",
     description: {
       de: "Das erste und einzige kommerzielle Kernkraftwerk im Nahen Osten.",
       hu: "A Közel-Kelet első és egyetlen kereskedelmi atomerőműve.",
@@ -550,9 +535,8 @@ image: "/poi-images/bushehr-nuclear-plant-economic-v2.webp"
       de: "Iran Khodro Automobilwerk",
       hu: "Irán Khodro autógyár",
       ro: "Uzina Auto Iran Khodro",
-      en: "Iran Khodro Automaker",
-image: "/poi-images/iran-khodro-tehran-economic-v2.webp"
-},
+      en: "Iran Khodro Automaker"},
+    image: "/poi-images/iran-khodro-tehran-economic-v2.webp",
     description: {
       de: "Der größte Automobilhersteller im Nahen Osten mit Sitz nahe Teheran.",
       hu: "A Közel-Kelet legnagyobb autógyártója, amelynek központja Teherán közelében található.",
@@ -586,9 +570,8 @@ image: "/poi-images/iran-khodro-tehran-economic-v2.webp"
       de: "Eisenerzmine Golgohar",
       hu: "Golgohar vasércbánya",
       ro: "Mina de fier Golgohar",
-      en: "Golgohar Iron Ore Mine",
-image: "/poi-images/golgohar-iron-ore-economic-v2.webp"
-},
+      en: "Golgohar Iron Ore Mine"},
+    image: "/poi-images/golgohar-iron-ore-economic-v2.webp",
     description: {
       de: "Einer der größten und reichsten Eisenerzkomplexe im Iran, südwestlich von Sirjan.",
       hu: "Irán egyik legnagyobb és leggazdagabb vasérckomplexuma, Szírdzsántól délnyugatra.",
@@ -622,9 +605,8 @@ image: "/poi-images/golgohar-iron-ore-economic-v2.webp"
       de: "Hafen von Chorramschahr",
       hu: "Khorramsahr kikötő",
       ro: "Portul Khorramshahr",
-      en: "Port of Khorramshahr",
-image: "/poi-images/khorramshahr-port-economic-v2.webp"
-},
+      en: "Port of Khorramshahr"},
+    image: "/poi-images/khorramshahr-port-economic-v2.webp",
     description: {
       de: "Ein historisch wichtiger Binnenhafen am Arvand Rud nahe der Grenze zum Irak.",
       hu: "Történelmileg fontos belvízi kikötő az Arvand Rud folyón, az iraki határ közelében.",
@@ -658,9 +640,8 @@ image: "/poi-images/khorramshahr-port-economic-v2.webp"
       de: "Ölfeld Gachsaran",
       hu: "Gacsszarán olajmező",
       ro: "Câmpul petrolier Gachsaran",
-      en: "Gachsaran Oil Field",
-image: "/poi-images/gachsaran-oil-field-economic-v2.webp"
-},
+      en: "Gachsaran Oil Field"},
+    image: "/poi-images/gachsaran-oil-field-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Onshore-Ölfeld im Südwesten Irans.",
       hu: "Jelentős szárazföldi olajmező Délnyugat-Iránban.",
@@ -694,9 +675,8 @@ image: "/poi-images/gachsaran-oil-field-economic-v2.webp"
       de: "Freihandelszone Qeschm",
       hu: "Qeshm szabadkereskedelmi övezet",
       ro: "Zona Liberă Qeshm",
-      en: "Qeshm Free Trade Zone",
-image: "/poi-images/qeshm-free-trade-zone-economic-v2.webp"
-},
+      en: "Qeshm Free Trade Zone"},
+    image: "/poi-images/qeshm-free-trade-zone-economic-v2.webp",
     description: {
       de: "Ein strategisches Handelszentrum auf der größten Insel des Persischen Golfs.",
       hu: "Stratégiai kereskedelmi központ a Perzsa-öböl legnagyobb szigetén.",

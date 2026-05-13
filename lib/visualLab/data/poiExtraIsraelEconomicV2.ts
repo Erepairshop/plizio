@@ -6,40 +6,62 @@ export const poiExtraIsraelEconomicV2: POI[] = [
     type: "port",
     parent: "IL-HA",
     coords: [35.0116, 32.8197],
-    name: { de: "Hafen von Haifa", hu: "Haifai kikötő", ro: "Portul Haifa", en: "Port of Haifa",
-image: "/poi-images/il-port-haifa-economic-v2.webp"
-},
+    name: { de: "Hafen von Haifa", hu: "Haifai kikötő", ro: "Portul Haifa", en: "Port of Haifa"},
+    image: "/poi-images/il-port-haifa-economic-v2.webp",
     description: { de: "Der größte Seehafen Israels, der eine zentrale Rolle im internationalen Handel und im Passagierverkehr des Landes spielt.", hu: "Izrael legnagyobb tengeri kikötője, amely központi szerepet játszik az ország nemzetközi kereskedelmében és személyforgalmában.", ro: "Cel mai mare port maritim din Israel, având un rol central în comerțul internațional și traficul de pasageri al țării.", en: "The largest seaport in Israel, playing a central role in the country's international trade and passenger traffic." },
     facts: {
       de: ["Eröffnet im Jahr 1933.", "Wichtiger Knotenpunkt am Mittelmeer.", "Befindet sich an der Bucht von Haifa."],
       hu: ["1933-ban nyitották meg.", "Fontos csomópont a Földközi-tengeren.", "A Haifai-öbölben található."],
       ro: ["Deschis în anul 1933.", "Nod important la Marea Mediterană.", "Situat în Golful Haifa."],
       en: ["Opened in 1933.", "Important hub on the Mediterranean Sea.", "Located on the Bay of Haifa."]
-    }, image: "/poi-images/il-port-haifa-economic-v2.webp"},
+    }, image: "/poi-images/il-port-haifa-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Haifa ist der größte Hafen Israels und liegt an der Mittelmeerküste im Norden des Landes. Er wurde in den 1930er Jahren erbaut und spielt eine zentrale Rolle im israelischen Außenhandel. Der Hafen verfügt über mehrere Containerterminals und Abfertigungsanlagen für Massengüter. Im Jahr 2021 wurde ein neues Tiefwasserterminal eröffnet, das größere Schiffe empfangen kann. Der Hafen von Haifa ist auch ein wichtiger Knotenpunkt für den Personenverkehr, mit Fährverbindungen nach Zypern und Griechenland. Darüber hinaus ist er ein Zentrum für die petrochemische Industrie und beherbergt eine große Raffinerie. Der Hafen beschäftigt direkt und indirekt Tausende von Arbeitern.",
+      hu: "A haifai kikötő Izrael legnagyobb kikötője, a Földközi-tenger partján, az ország északi részén. Az 1930-as években épült, és központi szerepet játszik az izraeli külkereskedelemben. Több konténerterminállal és ömlesztettáru-feldolgozó létesítménnyel rendelkezik. 2021-ben megnyílt egy új mélyvízi terminál, amely nagyobb hajókat fogad. A kikötő fontos személyszállítási csomópont is, kompjáratokkal Ciprusra és Görögországba. A petrokémiai ipar központja, egy nagy olajfinomítóval. Több ezer munkavállalót foglalkoztat.",
+      ro: "Portul Haifa este cel mai mare port al Israelului, situat pe coasta mediteraneană, în nordul țării. A fost construit în anii 1930 și joacă un rol central în comerțul exterior israelian. Dispune de mai multe terminale de containere și instalații pentru mărfuri vrac. În 2021 s-a deschis un nou terminal de apă adâncă, care poate primi nave mai mari. Portul este și un nod important pentru transportul de pasageri, cu feriboturi către Cipru și Grecia. De asemenea, este un centru al industriei petrochimice, găzduind o rafinărie mare.",
+      en: "The Port of Haifa is the largest port in Israel, located on the Mediterranean coast in the northern part of the country. It was constructed in the 1930s and is a key hub for Israeli international trade. The port has multiple container terminals and bulk cargo facilities. In 2021, a new deep-water terminal was opened, capable of handling larger vessels. Haifa Port also serves as a passenger terminal, with ferry services to Cyprus and Greece. It is a center for the petrochemical industry, housing a major oil refinery. The port employs thousands of workers directly and indirectly.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1933 fertiggestellt", "Containerumschlag (2022): ca. 1,5 Millionen TEU", "Wassertiefe: bis zu 16 m am neuen Terminal", "Anzahl der Kais: 22", "Fläche des Hafens: ca. 400 Hektar", "Jährlicher Frachtumschlag: ca. 30 Millionen Tonnen"],
+      hu: ["Építés éve: 1933-ban készült el", "Konténerforgalom (2022): kb. 1,5 millió TEU", "Vízmélység az új terminálnál: akár 16 m", "Mólók száma: 22", "A kikötő területe: kb. 400 hektár", "Éves áruforgalom: kb. 30 millió tonna"],
+      ro: ["Anul construcției: finalizat în 1933", "Trafic de containere (2022): circa 1,5 milioane TEU", "Adâncimea apei la noul terminal: până la 16 m", "Număr de cheiuri: 22", "Suprafața portului: circa 400 de hectare", "Trafic anual de mărfuri: circa 30 de milioane de tone"],
+      en: ["Year built: completed in 1933", "Container throughput (2022): about 1.5 million TEU", "Water depth at new terminal: up to 16 m", "Number of berths: 22", "Area of port: about 400 hectares", "Annual cargo throughput: about 30 million tons"],
+    },
+  },
   {
     id: "il-port-ashdod-economic-v2",
     type: "port",
     parent: "IL-D",
     coords: [34.6469, 31.8344],
-    name: { de: "Hafen von Aschdod", hu: "Asdodi kikötő", ro: "Portul Așdod", en: "Port of Ashdod",
-image: "/poi-images/il-port-ashdod-economic-v2.webp"
-},
+    name: { de: "Hafen von Aschdod", hu: "Asdodi kikötő", ro: "Portul Așdod", en: "Port of Ashdod"},
+    image: "/poi-images/il-port-ashdod-economic-v2.webp",
     description: { de: "Ein bedeutender Frachthafen an der Mittelmeerküste, der einen großen Teil der israelischen Importe und Exporte abwickelt.", hu: "Jelentős teherkikötő a Földközi-tenger partján, amely az izraeli import és export nagy részét bonyolítja le.", ro: "Un port de marfă important pe coasta mediteraneană, care gestionează o mare parte din importurile și exporturile Israelului.", en: "A major cargo port on the Mediterranean coast, handling a large portion of Israel's imports and exports." },
     facts: {
       de: ["Zweitgrößter Hafen des Landes.", "In den 1960er Jahren erbaut.", "Wichtig für die südliche Wirtschaft."],
       hu: ["Az ország második legnagyobb kikötője.", "Az 1960-as években épült.", "Fontos a déli gazdaság számára."],
       ro: ["Al doilea port ca mărime din țară.", "Construit în anii 1960.", "Important pentru economia sudică."],
       en: ["Second largest port in the country.", "Built in the 1960s.", "Important for the southern economy."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Ashdod ist der zweitgrößte Hafen Israels und liegt an der Mittelmeerküste südlich von Tel Aviv. Er wurde 1965 eröffnet und ist einer der wichtigsten Frachthäfen des Landes. Der Hafen verfügt über Containerterminals, Schüttgut- und Flüssiggutlager. Im Jahr 2005 wurde ein neuer Tiefwasserhafen errichtet. Ashdod ist auch ein wichtiger Stützpunkt für die israelische Marine. Der Hafen spielt eine entscheidende Rolle bei der Abfertigung von Importen wie Getreide und Rohstoffen. Er beschäftigt rund 1.000 Mitarbeiter direkt und viele weitere indirekt. Die strategische Lage des Hafens ermöglicht einen effizienten Warentransport in das israelische Hinterland.",
+      hu: "Az ashdodi kikötő Izrael második legnagyobb kikötője, a Földközi-tenger partján, Tel-Avivtól délre. 1965-ben nyitották meg, és az ország egyik legfontosabb teherkikötője. Konténerterminálokkal, ömlesztett- és folyékonyáru-tárolókkal rendelkezik. 2005-ben új mélyvízi kikötő épült. Az izraeli haditengerészet fontos bázisa. Szerepet játszik a gabona és nyersanyagok behozatalában. Közvetlenül kb. 1000 embert foglalkoztat.",
+      ro: "Portul Ashdod este al doilea port ca mărime din Israel, situat pe coasta mediteraneană la sud de Tel Aviv. A fost deschis în 1965 și este unul dintre cele mai importante porturi de marfă ale țării. Dispune de terminale de containere, depozite pentru mărfuri vrac și lichide. În 2005 a fost construit un nou port de apă adâncă. Este o bază importantă pentru Marina Israeliană. Joacă un rol crucial în importul de cereale și materii prime. Angajează direct aproximativ 1.000 de persoane.",
+      en: "The Port of Ashdod is the second-largest port in Israel, located on the Mediterranean coast south of Tel Aviv. It opened in 1965 and is a major freight hub. The port has container terminals, bulk cargo and liquid cargo facilities. In 2005, a new deep-water port was built. Ashdod is also a key base for the Israeli Navy. The port handles a significant portion of Israel's imports, including grain and raw materials. It directly employs about 1,000 people and many more indirectly. Its strategic location allows efficient distribution to the Israeli hinterland.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnungsjahr: 1965", "Containerumschlag (2022): ca. 1,3 Millionen TEU", "Wassertiefe: bis zu 15,5 m", "Anzahl der Kais: 18", "Fläche des Hafens: ca. 450 Hektar", "Jährlicher Frachtumschlag: ca. 22 Millionen Tonnen"],
+      hu: ["Megnyitás éve: 1965", "Konténerforgalom (2022): kb. 1,3 millió TEU", "Vízmélység: akár 15,5 m", "Mólók száma: 18", "A kikötő területe: kb. 450 hektár", "Éves áruforgalom: kb. 22 millió tonna"],
+      ro: ["Anul deschiderii: 1965", "Trafic de containere (2022): circa 1,3 milioane TEU", "Adâncimea apei: până la 15,5 m", "Număr de cheiuri: 18", "Suprafața portului: circa 450 de hectare", "Trafic anual de mărfuri: circa 22 de milioane de tone"],
+      en: ["Opening year: 1965", "Container throughput (2022): about 1.3 million TEU", "Water depth: up to 15.5 m", "Number of berths: 18", "Area of port: about 450 hectares", "Annual cargo throughput: about 22 million tons"],
+    },
   },
   {
     id: "il-port-eilat-economic-v2",
     type: "port",
     parent: "IL-D",
     coords: [34.9541, 29.5394],
-    name: { de: "Hafen von Eilat", hu: "Eilati kikötő", ro: "Portul Eilat", en: "Port of Eilat",
-image: "/poi-images/il-port-eilat-economic-v2.webp"
-},
+    name: { de: "Hafen von Eilat", hu: "Eilati kikötő", ro: "Portul Eilat", en: "Port of Eilat"},
+    image: "/poi-images/il-port-eilat-economic-v2.webp",
     description: { de: "Israels einziger Hafen am Roten Meer, der den direkten maritimen Zugang zu den Märkten in Asien und Ostafrika ermöglicht.", hu: "Izrael egyetlen kikötője a Vörös-tengeren, amely közvetlen tengeri hozzáférést biztosít az ázsiai és kelet-afrikai piacokhoz.", ro: "Singurul port al Israelului la Marea Roșie, oferind acces maritim direct către piețele din Asia și Africa de Est.", en: "Israel's only port on the Red Sea, providing direct maritime access to markets in Asia and East Africa." },
     facts: {
       de: ["Lage am Golf von Akaba.", "Wichtig für den asiatischen Handel.", "Südlichster Hafen Israels."],
@@ -52,255 +74,458 @@ image: "/poi-images/il-port-eilat-economic-v2.webp"
     type: "energy",
     parent: "IL-HA",
     coords: [34.8817, 32.4681],
-    name: { de: "Kraftwerk Orot Rabin", hu: "Orot Rabin Erőmű", ro: "Centrala Electrică Orot Rabin", en: "Orot Rabin Power Station",
-image: "/poi-images/il-orot-rabin-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Orot Rabin", hu: "Orot Rabin Erőmű", ro: "Centrala Electrică Orot Rabin", en: "Orot Rabin Power Station"},
+    image: "/poi-images/il-orot-rabin-economic-v2.webp",
     description: { de: "Das größte Kraftwerk Israels, das sich an der Küste von Hadera befindet und einen erheblichen Teil des landesweiten Stroms erzeugt.", hu: "Izrael legnagyobb erőműve, amely Hadera partján található, és az országos áramtermelés jelentős részét adja.", ro: "Cea mai mare centrală electrică din Israel, situată pe coasta Haderei, producând o parte semnificativă a energiei țării.", en: "The largest power station in Israel, located on the coast of Hadera, generating a significant portion of the country's electricity." },
     facts: {
       de: ["Wurde 1981 in Betrieb genommen.", "Verwendet hauptsächlich Kohle und Gas.", "Befindet sich bei Hadera."],
       hu: ["1981-ben helyezték üzembe.", "Főként szenet és gázt használ.", "Hadera mellett található."],
       ro: ["Pusă în funcțiune în 1981.", "Folosește în principal cărbune și gaz.", "Situată lângă Hadera."],
       en: ["Commissioned in 1981.", "Uses primarily coal and gas.", "Located near Hadera."]
-    }, image: "/poi-images/il-orot-rabin-economic-v2.webp"},
+    }, image: "/poi-images/il-orot-rabin-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Orot Rabin (hebräisch für ‚Lichter Rabins‘) ist ein mit Kohle und Erdgas betriebenes Wärmekraftwerk an der Mittelmeerküste nahe Chadera. Mit einer installierten Leistung von über 2.590 MW ist es das größte Kraftwerk Israels. Die Anlage besteht aus sechs Blöcken, die zwischen 1973 und 1993 in Betrieb genommen wurden. Jeder Block verfügt über einen 250 m hohen Schornstein. Zur Kühlung wird Meerwasser eingesetzt. Seit 2010 wurden drei Blöcke auf Erdgas umgerüstet, was die CO₂-Emissionen um etwa 30 % reduzierte. Das Kraftwerk deckt rund 20 % des israelischen Strombedarfs.",
+      hu: "Az Orot Rabin erőmű Izrael legnagyobb teljesítményű hőerőműve, amely a Földközi-tenger partján, Hadera közelében található. Névleges teljesítménye meghaladja a 2,590 MW-ot. Az erőmű hat blokkból áll, amelyeket 1973 és 1993 között helyeztek üzembe. A létesítmény szén- és földgáztüzelésű, és évente körülbelül 4,5 millió tonna szenet égetett el a gáztüzelésű blokkok üzembe helyezése előtt. Az erőmű által termelt villamos energia mintegy 20%-át adja Izrael országos fogyasztásának. A hűtéshez tengervizet használnak, amely napi 120 000 köbméter mennyiségben áramlik át a rendszeren.",
+      ro: "Centrala Orot Rabin, situată pe coasta mediteraneană lângă Hadera, este cea mai mare centrală termoelectrică din Israel, cu o capacitate instalată de peste 2.590 MW. Construcția a început în 1969, iar primul bloc a fost pus în funcțiune în 1973. Centrala funcționează pe bază de cărbune și gaze naturale, având șase blocuri. Fiecare bloc este echipat cu un coș de fum de 250 m înălțime. Apa de mare este utilizată pentru răcire, cu un debit zilnic de aproximativ 120.000 m³. De la conversia parțială la gaze naturale, emisiile de CO₂ au scăzut cu 30%.",
+      en: "Orot Rabin Power Station is the largest power plant in Israel, located on the Mediterranean coast near Hadera. With an installed capacity of 2,590 MW, it supplies approximately 20% of the country's electricity. The plant consists of six generating units commissioned between 1973 and 1993. Initially coal-fired, three units were converted to natural gas between 2010 and 2013, reducing carbon dioxide emissions by about 30%. The facility uses seawater for cooling, with an intake of 120,000 cubic meters per day. The plant's name commemorates Prime Minister Yitzhak Rabin.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 2.590 MW", "Baubeginn: 1969", "Anzahl der Blöcke: 6", "Schornsteinhöhe: 250 m", "CO₂-Reduktion durch Gaskonversion: 30 %", "Wasserverbrauch zur Kühlung: 120.000 m³ pro Tag"],
+      hu: ["Teljesítmény: 2.590 MW", "A hat blokkot 1973 és 1993 között helyezték üzembe", "Éves szénfogyasztás a konverzió előtt: 4,5 millió tonna", "A gázturbinák hatásfoka: 55%", "Az erőmű az ország áramtermelésének 20%-át adja", "A tengervíz hűtési kapacitása: 750 MW"],
+      ro: ["Capacitate instalată: 2.590 MW", "Primul bloc operațional: 1973", "Înălțimea coșurilor: 250 m", "Reducerea emisiilor de CO₂: 30%", "Consum zilnic de apă de mare: 120.000 m³", "Număr de angajați: aproximativ 400"],
+      en: ["Installed capacity: 2,590 MW", "Number of generating units: 6", "Unit commissioning years: 1973, 1978, 1983, 1988, 1991, 1993", "Chimney height: 250 meters", "Natural gas conversion reduced CO2 emissions by 30%", "Seawater cooling rate: 120,000 m³ per day"],
+    },
+  },
   {
     id: "il-rutenberg-economic-v2",
     type: "energy",
     parent: "IL-D",
     coords: [34.5200, 31.6264],
-    name: { de: "Kraftwerk Rutenberg", hu: "Rutenberg Erőmű", ro: "Centrala Electrică Rutenberg", en: "Rutenberg Power Station",
-image: "/poi-images/il-rutenberg-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Rutenberg", hu: "Rutenberg Erőmű", ro: "Centrala Electrică Rutenberg", en: "Rutenberg Power Station"},
+    image: "/poi-images/il-rutenberg-economic-v2.webp",
     description: { de: "Ein bedeutendes Kohle- und Gaskraftwerk in der Nähe von Aschkelon, das eine wichtige Rolle in der Energieversorgung des Südens spielt.", hu: "Jelentős szén- és gázerőmű Askelón közelében, amely fontos szerepet játszik a déli régió energiaellátásában.", ro: "O importantă centrală electrică pe cărbune și gaz lângă Așkelon, care joacă un rol major în aprovizionarea cu energie a sudului.", en: "A major coal and gas power plant near Ashkelon, playing an important role in the energy supply of the south." },
     facts: {
       de: ["Benannt nach Pinchas Rutenberg.", "Zweitgrößtes Kraftwerk des Landes.", "Liegt direkt am Mittelmeer."],
       hu: ["Pinhasz Rutenbergről kapta a nevét.", "Az ország második legnagyobb erőműve.", "Közvetlenül a Földközi-tenger partján fekszik."],
       ro: ["Numită după Pinhas Rutenberg.", "A doua cea mai mare centrală din țară.", "Situată direct la Marea Mediterană."],
       en: ["Named after Pinhas Rutenberg.", "Second largest power plant in the country.", "Located directly on the Mediterranean."]
-    }, image: "/poi-images/il-rutenberg-economic-v2.webp"},
+    }, image: "/poi-images/il-rutenberg-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rutenberg-Kraftwerk (auch Aschkelon-Kraftwerk genannt) liegt an der Mittelmeerküste südlich von Aschkelon. Es ist mit einer installierten Leistung von rund 2.250 MW das zweitgrößte Kraftwerk Israels. Benannt ist es nach Pinchas Rutenberg, einem Pionier der israelischen Elektrizitätswirtschaft. Die Anlage besteht aus vier Kohleblöcken, die zwischen 1990 und 2001 in Betrieb genommen wurden. Jeweils zwei 300-MW- und zwei 575-MW-Blöcke. Zur Kühlung dient Meerwasser. Ein Entschwefelungssystem reduziert Schwefeldioxidemissionen um 95 %. Das Kraftwerk versorgt etwa 15 % des israelischen Stromnetzes.",
+      hu: "A Rutenberg erőmű (más néven Ashkelon erőmű) Izrael második legnagyobb erőműve, 2.250 MW teljesítménnyel. A létesítmény négy széntüzelésű blokkból áll, amelyeket 1990 és 2001 között kapcsoltak a hálózatra. Az erőmű a Földközi-tenger partján, Askelon városától délre található. Nevét Pinchas Rutenbergről kapta, aki az izraeli villamosenergia-ipar egyik úttörője volt. A blokkok közül kettő 300 MW, kettő pedig 575 MW teljesítményű. A kéntelenítő rendszer 95%-kal csökkenti a kén-dioxid-kibocsátást. Az erőmű látja el Izrael áramszükségletének mintegy 15%-át.",
+      ro: "Centrala Rutenberg, cunoscută și ca Centrala Ashkelon, este a doua ca mărime din Israel, cu o capacitate de 2.250 MW. Situată pe coasta mediteraneană la sud de Ashkelon, centrala are patru grupuri pe cărbune, puse în funcțiune între 1990 și 2001. Două grupuri sunt de 300 MW, iar două de 575 MW. Sistemul de desulfurare reduce emisiile de dioxid de sulf cu 95%. Apa de mare este utilizată pentru răcire, cu un debit de 150.000 m³ pe zi. Centrala poartă numele lui Pinchas Rutenberg, pionier al electrificării Israelului.",
+      en: "Rutenberg Power Station, also known as Ashkelon Power Station, is the second largest power plant in Israel with an installed capacity of 2,250 MW. Located on the Mediterranean coast south of Ashkelon, it consists of four coal-fired units commissioned between 1990 and 2001: two 300 MW and two 575 MW units. The plant features a flue-gas desulfurization system that removes 95% of sulfur dioxide emissions. Seawater is used for cooling at a rate of 150,000 cubic meters per day. The station was named after Pinchas Rutenberg, a founder of the Israeli electric utility industry.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 2.250 MW", "Anzahl der Blöcke: 4", "Inbetriebnahme: 1990–2001", "Entschwefelungsrate: 95 %", "Kühlwassermenge: 150.000 m³/Tag", "Stromanteil am israelischen Netz: ca. 15 %"],
+      hu: ["Teljesítmény: 2.250 MW", "Blokkok száma: 4 (2×300 MW, 2×575 MW)", "Üzembe helyezés évei: 1990, 1993, 1998, 2001", "Kén-dioxid csökkentés: 95%", "Tengervíz hűtés: 150.000 m³/nap", "Névadó: Pinchas Rutenberg"],
+      ro: ["Capacitate instalată: 2.250 MW", "Număr de grupuri: 4", "Ani de punere în funcțiune: 1990, 1993, 1998, 2001", "Eficiența desulfurării: 95%", "Apă de răcire: 150.000 m³/zi", "Contribuție la rețea: 15%"],
+      en: ["Installed capacity: 2,250 MW", "Unit sizes: two 300 MW and two 575 MW", "Commissioning years: 1990, 1993, 1998, 2001", "SO2 removal efficiency: 95%", "Seawater cooling intake: 150,000 m³/day", "Provides about 15% of Israel's electricity"],
+    },
+  },
   {
     id: "il-reading-economic-v2",
     type: "energy",
     parent: "IL-TA",
     coords: [34.7761, 32.1039],
-    name: { de: "Kraftwerk Reading", hu: "Reading Erőmű", ro: "Centrala Electrică Reading", en: "Reading Power Station",
-image: "/poi-images/il-reading-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Reading", hu: "Reading Erőmű", ro: "Centrala Electrică Reading", en: "Reading Power Station"},
+    image: "/poi-images/il-reading-economic-v2.webp",
     description: { de: "Ein historisches Kraftwerk in Tel Aviv, das heute mit Erdgas betrieben wird und ein markantes Wahrzeichen der städtischen Küstenlinie ist.", hu: "Történelmi erőmű Tel-Avivban, amelyet ma földgázzal üzemeltetnek, és a városi partvonal jellegzetes tájékozódási pontja.", ro: "O centrală electrică istorică din Tel Aviv, operată în prezent cu gaze naturale, fiind un punct de reper pe coasta orașului.", en: "A historic power station in Tel Aviv, now powered by natural gas, which is a prominent landmark of the city's coastline." },
     facts: {
       de: ["Eröffnet im Jahr 1938.", "Liegt an der Mündung des Jarkon.", "Architektur im Bauhaus-Stil."],
       hu: ["1938-ban nyitották meg.", "A Jarkon folyó torkolatánál fekszik.", "Bauhaus stílusú építészet."],
       ro: ["Deschisă în anul 1938.", "Situată la gura râului Yarkon.", "Arhitectură în stil Bauhaus."],
       en: ["Opened in 1938.", "Located at the mouth of the Yarkon.", "Bauhaus-style architecture."]
-    }, image: "/poi-images/il-reading-economic-v2.webp"},
+    }, image: "/poi-images/il-reading-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Reading-Kraftwerk ist ein Gaskraftwerk am Nordufer des Jarkon-Flusses in Tel Aviv. Mit einer installierten Leistung von 428 MW ist es eines der kleineren Kraftwerke Israels, aber aufgrund seiner Lage in der Innenstadt von Tel Aviv von strategischer Bedeutung. Es wurde 1938 als erstes Kraftwerk des Landes errichtet und nach Rufus Isaacs, 1. Marquess of Reading, benannt. Die heutige Anlage besteht aus Gasturbinen und einem Steuerhaus. Das Kraftwerk liefert Notstrom für die Region Tel Aviv und dient als Spitzenlastkraftwerk.",
+      hu: "A Reading erőmű egy földgáztüzelésű erőmű Tel-Avivban, a Jarkon folyó északi partján. Teljesítménye 428 MW. Az erőművet 1938-ban helyezték üzembe, ez volt az ország első villamos erőműve. Nevét Rufus Isaacs, Reading első márkija után kapta. Jelenleg gázturbinákkal üzemel, és csúcsidőszaki áramtermelésre, valamint tartalék kapacitásként szolgál a tel-avivi régió számára. Az eredeti épület ma műemléki védettséget élvez.",
+      ro: "Centrala Reading este o centrală pe gaz situată pe malul nordic al râului Yarkon în Tel Aviv, cu o capacitate instalată de 428 MW. A fost construită în 1938 ca prima centrală electrică din Palestina obligatorie. Numele său provine de la Rufus Isaacs, Marchizul de Reading. Astăzi, centrala funcționează cu turbine cu gaz și servește drept unitate de vârf și rezervă pentru rețeaua din Tel Aviv. Clădirea istorică este protejată ca monument.",
+      en: "Reading Power Station is a natural gas-fired plant on the north bank of the Yarkon River in Tel Aviv, with an installed capacity of 428 MW. Commissioned in 1938, it was the first power station in the region. It was named after Rufus Isaacs, 1st Marquess of Reading. Today, it operates as a peaking plant with gas turbines, providing backup power for the Tel Aviv area. The original building is a designated heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 428 MW", "Inbetriebnahme: 1938", "Brennstoff: Erdgas", "Lage: Jarkon-Ufer, Tel Aviv", "Ursprüngliche Kapazität: 12 MW", "Denkmalgeschützt: ja"],
+      hu: ["Teljesítmény: 428 MW", "Üzembe helyezés: 1938", "Üzemanyag: földgáz", "Eredeti teljesítmény: 12 MW", "Magasság: 30 m", "Műemlékvédelem: 1998 óta"],
+      ro: ["Capacitate: 428 MW", "Anul punerii în funcțiune: 1938", "Combustibil: gaz natural", "Putere inițială: 12 MW", "Număr de turbine: 4", "Clădire protejată: da"],
+      en: ["Installed capacity: 428 MW", "Commissioned: 1938", "Initial capacity: 12 MW", "Fuel: natural gas", "Number of gas turbines: 4", "Heritage building protected since 1998"],
+    },
+  },
   {
     id: "il-ashalim-economic-v2",
     type: "energy",
     parent: "IL-D",
     coords: [34.7350, 31.0250],
-    name: { de: "Sonnenkraftwerk Ashalim", hu: "Ashalim Naperőmű", ro: "Centrala Solară Ashalim", en: "Ashalim Power Station",
-image: "/poi-images/il-ashalim-economic-v2.webp"
-},
+    name: { de: "Sonnenkraftwerk Ashalim", hu: "Ashalim Naperőmű", ro: "Centrala Solară Ashalim", en: "Ashalim Power Station"},
+    image: "/poi-images/il-ashalim-economic-v2.webp",
     description: { de: "Ein innovatives Solarkraftwerk in der Negev-Wüste, das einen der höchsten Solartürme der Welt besitzt und erneuerbare Energie liefert.", hu: "Innovatív naperőmű a Negev-sivatagban, amely a világ egyik legmagasabb naptornyával rendelkezik, és megújuló energiát szolgáltat.", ro: "O centrală solară inovatoare în deșertul Negev, cu unul dintre cele mai înalte turnuri solare din lume, furnizând energie regenerabilă.", en: "An innovative solar power plant in the Negev Desert, featuring one of the tallest solar towers in the world and providing renewable energy." },
     facts: {
       de: ["Turmhöhe von über 240 Metern.", "Nutzt Tausende von Spiegeln.", "Wichtig für grüne Energie in Israel."],
       hu: ["A torony magassága több mint 240 méter.", "Több ezer tükröt használ.", "Fontos a zöld energia szempontjából Izraelben."],
       ro: ["Înălțimea turnului este de peste 240 de metri.", "Folosește mii de oglinzi.", "Importantă pentru energia verde în Israel."],
       en: ["Tower height of over 240 meters.", "Uses thousands of mirrors.", "Important for green energy in Israel."]
-    }, image: "/poi-images/il-ashalim-economic-v2.webp"},
+    }, image: "/poi-images/il-ashalim-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sonnenkraftwerk Ashalim (auch Ashalim-Konzentratorkraftwerk) liegt in der Negev-Wüste südöstlich von Beerscheba. Es besteht aus drei Anlagen: einem solarthermischen Turmkraftwerk (Ashalim A), einem Parabolrinnenfeld (Ashalim B) und einem Photovoltaik-Park (Ashalim C). Die Gesamtleistung beträgt rund 310 MW. Ashalim A nutzt Heliostate, die Sonnenstrahlen auf einen 260 m hohen Turm konzentrieren, um Dampf zu erzeugen. Ashalim B verwendet Parabolrinnen mit Wärmespeicherung. Das Projekt wurde 2019 in Betrieb genommen und ist eines der größten CSP-Kraftwerke der Welt.",
+      hu: "Az Ashalim naperőmű Izrael legnagyobb napenergia-komplexuma, a Negev-sivatagban, Beér-Sevától délkeletre. Három részből áll: Ashalim A (nap-torony), Ashalim B (parabola vályúk) és Ashalim C (fotovoltaikus). A teljes kapacitás 310 MW. Az Ashalim A 260 méter magas tornyot használ, amelyet 56 000 heliosztát vesz körül. A rendszer 1000 °C fölé hevíti a sóolvadékot, amely hőtárolást is lehetővé tesz. Az erőmű 2019-ben kezdte meg a kereskedelmi termelést. A projekt mintegy 4 milliárd sékelbe került.",
+      ro: "Centrala solară Ashalim este un complex de energie solară situat în deșertul Negev, la sud-est de Beer Șeva. Este format din trei instalații: Ashalim A (turn solar), Ashalim B (parabole cilindrice) și Ashalim C (fotovoltaic). Capacitatea totală este de aproximativ 310 MW. Turnul Ashalim A are 260 de metri înălțime și este înconjurat de 56.000 de heliostate. Sistemul utilizează săruri topite pentru stocarea căldurii, permițând producția de electricitate timp de câteva ore după apus. Proiectul a fost finalizat în 2019.",
+      en: "Ashalim Power Station is a solar energy complex in the Negev desert southeast of Beer Sheva, comprising three facilities: Ashalim A (solar thermal tower), Ashalim B (parabolic troughs), and Ashalim C (photovoltaic). Total capacity is about 310 MW. The Ashalim A tower, 260 meters high, is surrounded by 56,000 heliostats that concentrate sunlight to heat molten salt to over 1,000°C, enabling heat storage for up to 4.5 hours of power after sunset. Commissioned in 2019, it is one of the largest concentrated solar power plants.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtleistung: 310 MW", "Turmhöhe Ashalim A: 260 m", "Anzahl Heliostate: 56.000", "Inbetriebnahme: 2019", "Wärmespeicher: Schmelzsals, 4,5 h Kapazität", "Investitionskosten: ca. 4 Milliarden ILS"],
+      hu: ["Teljes kapacitás: 310 MW", "Ashalim A torony magassága: 260 m", "Heliosztátok száma: 56.000", "Hőtárolás: olvadt só, 4,5 óra", "Ashalim B parabolavályúk: 100 MW", "Beér-Sevától való távolság: 50 km"],
+      ro: ["Capacitate totală: 310 MW", "Înălțimea turnului Ashalim A: 260 m", "Număr de heliostate: 56.000", "Capacitate stocare termică: 4,5 ore", "Finalizare proiect: 2019", "Cost: 1,1 miliarde USD"],
+      en: ["Total capacity: 310 MW", "Ashalim A tower height: 260 meters", "Heliostats: 56,000", "Thermal storage duration: 4.5 hours", "Ashalim B parabolic trough capacity: 100 MW", "Commissioned: 2019"],
+    },
+  },
   {
     id: "il-haifa-refinery-economic-v2",
     type: "industry",
     parent: "IL-HA",
     coords: [35.0394, 32.7931],
-    name: { de: "Raffinerie Haifa", hu: "Haifai Finomító", ro: "Rafinăria Haifa", en: "Haifa Oil Refinery",
-image: "/poi-images/il-haifa-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Haifa", hu: "Haifai Finomító", ro: "Rafinăria Haifa", en: "Haifa Oil Refinery"},
+    image: "/poi-images/il-haifa-refinery-economic-v2.webp",
     description: { de: "Eine der größten Erdölraffinerien des Landes, bekannt für ihre ikonischen Kühltürme, die industrielle Kraft und Geschichte repräsentieren.", hu: "Az ország egyik legnagyobb kőolajfinomítója, amely ikonikus hűtőtornyairól ismert, és az ipari erőt valamint a történelmet jelképezi.", ro: "Una dintre cele mai mari rafinării de petrol din țară, cunoscută pentru turnurile sale de răcire iconice, reprezentând puterea industrială.", en: "One of the largest oil refineries in the country, known for its iconic cooling towers that represent industrial power and history." },
     facts: {
       de: ["Gegründet in der britischen Mandatszeit.", "Gehört zur Bazan-Gruppe.", "Wichtig für die petrochemische Industrie."],
       hu: ["A brit mandátum idején alapították.", "A Bazan csoport része.", "Fontos a petrolkémiai ipar számára."],
       ro: ["Fondată în perioada mandatului britanic.", "Aparține Grupului Bazan.", "Importantă pentru industria petrochimică."],
       en: ["Founded during the British Mandate.", "Part of the Bazan Group.", "Important for the petrochemical industry."]
-    }, image: "/poi-images/il-haifa-refinery-economic-v2.webp"},
+    }, image: "/poi-images/il-haifa-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Haifa-Raffinerie (auch Bazan-Gruppe) ist die älteste und größte Ölraffinerie Israels, gelegen in der Bucht von Haifa. Sie wurde 1930 von der Iraq Petroleum Company gegründet. Die Raffinerie hat eine Kapazität von rund 200.000 Barrel pro Tag. Sie verarbeitet Rohöl aus verschiedenen Quellen und produziert Treibstoffe, Chemikalien und Asphalt. Die Anlage besteht aus zwei Raffineriekomplexen (Ost und West). Seit 2006 ist sie im Besitz der Bazan Group. Die Raffinerie beschäftigt etwa 1.500 Mitarbeiter.",
+      hu: "A haifai olajfinomító (Bazan-csoport) Izrael legrégebbi és legnagyobb olajfinomítója, a Haifai-öböl partján. 1930-ban alapította az Iraq Petroleum Company. Napi kapacitása körülbelül 200 000 hordó. A finomító nyersolajat dolgoz fel, és üzemanyagokat, petrolkémiai termékeket és bitument állít elő. Két fő egységből áll: Keleti és Nyugati finomító. 2006 óta a Bazan Group tulajdona. A létesítmény mintegy 1500 főt foglalkoztat.",
+      ro: "Rafinăria Haifa, cunoscută și sub numele de Grupul Bazan, este cea mai veche și mai mare rafinărie de petrol din Israel, situată pe coasta Golfului Haifa. A fost fondată în 1930 de Iraq Petroleum Company. Capacitatea de rafinare este de aproximativ 200.000 de barili pe zi. Produce combustibili, produse petrochimice și bitum. Rafinăria are două unități principale: de est și de vest. Din 2006, este deținută de Bazan Group. Angajează aproximativ 1.500 de persoane.",
+      en: "Haifa Oil Refinery, part of the Bazan Group, is the oldest and largest oil refinery in Israel, located on the Haifa Bay coast. Established in 1930 by the Iraq Petroleum Company, it has a refining capacity of about 200,000 barrels per day. The refinery processes crude oil into fuels, petrochemicals, and asphalt. It consists of two main complexes: East and West. Since 2006, it has been owned by the Bazan Group. The facility employs around 1,500 workers.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 200.000 Barrel/Tag", "Gründung: 1930", "Eigentümer: Bazan Group seit 2006", "Mitarbeiter: ca. 1.500", "Anzahl der Raffineriekomplexe: 2 (Ost und West)", "Produkte: Treibstoffe, Chemikalien, Asphalt"],
+      hu: ["Napi kapacitás: 200 000 hordó", "Alapítás: 1930", "Tulajdonos: Bazan Group (2006 óta)", "Alkalmazottak: 1 500", "Terület: 2,5 km²", "Termelés: évi 10 millió tonna"],
+      ro: ["Capacitate: 200.000 barili/zi", "Fondată: 1930", "Angajați: 1.500", "Suprafață: 250 ha", "Producție anuală: 10 milioane de tone", "Număr de unități: 2"],
+      en: ["Refining capacity: 200,000 barrels per day", "Founded: 1930", "Owner: Bazan Group since 2006", "Employees: 1,500", "Area: 2.5 km²", "Annual production: 10 million tons"],
+    },
+  },
   {
     id: "il-ashdod-refinery-economic-v2",
     type: "industry",
     parent: "IL-D",
     coords: [34.6644, 31.8239],
-    name: { de: "Raffinerie Aschdod", hu: "Asdodi Finomító", ro: "Rafinăria Așdod", en: "Ashdod Oil Refinery",
-image: "/poi-images/il-ashdod-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Aschdod", hu: "Asdodi Finomító", ro: "Rafinăria Așdod", en: "Ashdod Oil Refinery"},
+    image: "/poi-images/il-ashdod-refinery-economic-v2.webp",
     description: { de: "Ein moderner petrochemischer Komplex, der einen erheblichen Teil des israelischen Treibstoffbedarfs produziert und verarbeitet.", hu: "Modern petrolkémiai komplexum, amely az izraeli üzemanyag-szükséglet jelentős részét termeli és dolgozza fel.", ro: "Un complex petrochimic modern care produce și procesează o parte semnificativă din necesarul de combustibil al Israelului.", en: "A modern petrochemical complex that produces and processes a significant portion of Israel's fuel needs." },
     facts: {
       de: ["Inbetriebnahme im Jahr 1973.", "Zweitgrößte Raffinerie in Israel.", "Produziert Treibstoffe und Chemikalien."],
       hu: ["1973-ban helyezték üzembe.", "Izrael második legnagyobb finomítója.", "Üzemanyagokat és vegyszereket gyárt."],
       ro: ["Pusă în funcțiune în 1973.", "A doua rafinărie ca mărime din Israel.", "Produce combustibili și substanțe chimice."],
       en: ["Commissioned in 1973.", "Second largest refinery in Israel.", "Produces fuels and chemicals."]
-    }, image: "/poi-images/il-ashdod-refinery-economic-v2.webp"},
+    }, image: "/poi-images/il-ashdod-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Aschdod-Raffinerie ist eine Erdölraffinerie in der Hafenstadt Aschdod. Sie wurde 1973 in Betrieb genommen und hat eine Kapazität von rund 280.000 Barrel pro Tag. Damit ist sie die größte Raffinerie Israels. Betreiber ist die Paz Oil Company. Die Anlage verarbeitet Rohöl, das per Pipeline aus Eilat kommt. Sie produziert Treibstoffe, Heizöl und petrochemische Grundstoffe. Die Raffinerie beschäftigt rund 600 Mitarbeiter.",
+      hu: "Az asdodi olajfinomító Izrael legnagyobb kapacitású finomítója, napi 280 000 hordó feldolgozásával. 1973-ban helyezték üzembe. A Paz Oil Company üzemelteti. A nyersolaj az Eilatból érkező csővezetéken keresztül jut el a finomítóba. Termékei közé tartoznak az üzemanyagok, a fűtőolaj és a petrolkémiai alapanyagok. A létesítmény mintegy 600 alkalmazottat foglalkoztat.",
+      ro: "Rafinăria Ashdod este cea mai mare rafinărie din Israel, cu o capacitate de 280.000 de barili pe zi. A fost pusă în funcțiune în 1973 și este operată de Paz Oil Company. Petrolul brut este transportat printr-o conductă din Eilat. Rafinăria produce combustibili, păcură și materii prime petrochimice. Are aproximativ 600 de angajați.",
+      en: "Ashdod Oil Refinery is the largest refinery in Israel, with a capacity of 280,000 barrels per day. Commissioned in 1973, it is operated by Paz Oil Company. Crude oil arrives via pipeline from Eilat. The refinery produces fuels, heating oil, and petrochemical feedstocks. It employs about 600 people.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 280.000 Barrel/Tag", "Inbetriebnahme: 1973", "Betreiber: Paz Oil Company", "Mitarbeiter: 600", "Rohölversorgung: Pipeline aus Eilat", "Produkte umfassen Treibstoffe und Heizöl"],
+      hu: ["Napi kapacitás: 280 000 hordó", "Üzembe helyezés: 1973", "Tulajdonos: Paz Oil Company", "Alkalmazottak: 600", "Csővezeték hossza Eilatból: 254 km", "Éves termelés: 10 millió tonna"],
+      ro: ["Capacitate: 280.000 barili/zi", "An punere în funcțiune: 1973", "Operator: Paz Oil Company", "Angajați: 600", "Lungime conductă Eilat: 254 km", "Producție anuală: 10 milioane tone"],
+      en: ["Capacity: 280,000 barrels per day", "Commissioned: 1973", "Operator: Paz Oil Company", "Employees: 600", "Pipeline length from Eilat: 254 km", "Annual production: 10 million tons"],
+    },
+  },
   {
     id: "il-dead-sea-works-economic-v2",
     type: "industry",
     parent: "IL-D",
     coords: [35.3970, 31.0360],
-    name: { de: "Totes Meer Werke", hu: "Holt-tengeri Művek", ro: "Uzinele Mării Moarte", en: "Dead Sea Works",
-image: "/poi-images/il-dead-sea-works-economic-v2.webp"
-},
+    name: { de: "Totes Meer Werke", hu: "Holt-tengeri Művek", ro: "Uzinele Mării Moarte", en: "Dead Sea Works"},
+    image: "/poi-images/il-dead-sea-works-economic-v2.webp",
     description: { de: "Ein riesiger industrieller Komplex, der wertvolle Mineralien wie Kali, Brom und Magnesium aus dem Wasser des Toten Meeres extrahiert.", hu: "Hatalmas ipari komplexum, amely értékes ásványokat, például hamuzsírt, brómot és magnéziumot von ki a Holt-tenger vizéből.", ro: "Un complex industrial uriaș care extrage minerale valoroase precum potasiu, brom și magneziu din apa Mării Moarte.", en: "A huge industrial complex that extracts valuable minerals such as potash, bromine, and magnesium from the water of the Dead Sea." },
     facts: {
       de: ["Gegründet im Jahr 1929.", "Einer der weltgrößten Düngemittelproduzenten.", "Liegt am südlichen Becken des Sees."],
       hu: ["1929-ben alapították.", "A világ egyik legnagyobb műtrágyagyártója.", "A tó déli medencéjénél található."],
       ro: ["Fondată în anul 1929.", "Unul dintre cei mai mari producători de îngrășăminte.", "Situată pe bazinul sudic al mării."],
       en: ["Founded in 1929.", "One of the world's largest fertilizer producers.", "Located on the southern basin of the sea."]
-    }, image: "/poi-images/il-dead-sea-works-economic-v2.webp"},
+    }, image: "/poi-images/il-dead-sea-works-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dead Sea Works (Totes-Meer-Werke) ist ein israelisches Chemieunternehmen am südlichen Ende des Toten Meeres. Sie fördert Minerale wie Kaliumchlorid, Magnesiumchlorid und Brom. Das 1952 gegründete Werk nutzt Verdunstungsbecken zur Gewinnung von Salz aus dem Toten Meer. Die Kaliproduktion beträgt rund 4 Millionen Tonnen pro Jahr. Das Unternehmen ist einer der weltweit größten Produzenten von Kali und Brom. Es beschäftigt etwa 3.000 Mitarbeiter.",
+      hu: "A Holt-tengeri Művek (Dead Sea Works) egy izraeli vegyipari vállalat a Holt-tenger déli végénél. Kálium-kloridot, magnézium-kloridot és brómot termel. A vállalatot 1952-ben alapították, és párologtatási medencéket használ a sók kinyerésére. Éves káliumtermelése körülbelül 4 millió tonna. A világ egyik legnagyobb káli- és brómgyártója. Mintegy 3000 alkalmazottat foglalkoztat.",
+      ro: "Dead Sea Works este o companie chimică israeliană situată la capătul sudic al Mării Moarte. Extrage minerale precum clorură de potasiu, clorură de magneziu și brom. Fondată în 1952, utilizează bazine de evaporare pentru a separa sărurile. Producția anuală de potasiu este de aproximativ 4 milioane de tone. Este unul dintre cei mai mari producători mondiali de potasiu și brom. Angajează aproximativ 3.000 de persoane.",
+      en: "Dead Sea Works is an Israeli chemical company at the southern end of the Dead Sea, producing potash, magnesium chloride, and bromine. Founded in 1952, it uses evaporation ponds to extract minerals. Annual potash production is about 4 million tons, making it one of the world's largest producers. It employs around 3,000 people.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1952", "Kaliproduktion: 4 Mio. Tonnen/Jahr", "Mitarbeiter: ca. 3.000", "Produkte: Kali, Brom, Magnesium", "Fläche der Verdunstungsbecken: 120 km²", "Standort: südliches Ende des Toten Meeres"],
+      hu: ["Alapítás: 1952", "Éves káliumtermelés: 4 millió tonna", "Alkalmazottak: 3 000", "Párologtatási medencék területe: 120 km²", "Brómtermelés: a világ 30%-a", "Magasság a tengerszint alatt: 430 m"],
+      ro: ["Fondată: 1952", "Producție anuală de potasiu: 4 milioane tone", "Angajați: 3.000", "Suprafața bazinelor de evaporare: 120 km²", "Producție brom: 30% din total mondial", "Altitudine: -430 m"],
+      en: ["Founded: 1952", "Annual potash production: 4 million tons", "Employees: 3,000", "Evaporation pond area: 120 km²", "Bromine production: 30% of global total", "Elevation: 430 meters below sea level"],
+    },
+  },
   {
     id: "il-ramat-hovav-economic-v2",
     type: "industry",
     parent: "IL-D",
     coords: [34.8144, 31.1444],
-    name: { de: "Industriegebiet Ramat Hovaw", hu: "Ramat Hovav Ipari Park", ro: "Zona Industrială Ramat Hovav", en: "Ramat Hovav Industrial Zone",
-image: "/poi-images/il-ramat-hovav-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Ramat Hovaw", hu: "Ramat Hovav Ipari Park", ro: "Zona Industrială Ramat Hovav", en: "Ramat Hovav Industrial Zone"},
+    image: "/poi-images/il-ramat-hovav-economic-v2.webp",
     description: { de: "Ein bedeutendes Zentrum für die chemische Industrie im Süden Israels, das zahlreiche Fabriken und Entsorgungseinrichtungen beherbergt.", hu: "A vegyipar jelentős központja Izrael déli részén, amely számos gyárnak és hulladékkezelő létesítménynek ad otthont.", ro: "Un centru major pentru industria chimică în sudul Israelului, găzduind numeroase fabrici și instalații de eliminare a deșeurilor.", en: "A major center for the chemical industry in southern Israel, home to numerous factories and waste disposal facilities." },
     facts: {
       de: ["Südlich von Be'er Scheva gelegen.", "Schwerpunkt auf Schwerindustrie.", "Verfügt über eine Sondermülldeponie."],
       hu: ["Beér-Seva városától délre fekszik.", "A nehéziparra összpontosít.", "Veszélyes hulladék lerakóval rendelkezik."],
       ro: ["Situată la sud de Beer Șeva.", "Se concentrează pe industria grea.", "Dispune de un depozit de deșeuri periculoase."],
       en: ["Located south of Beersheba.", "Focus on heavy industry.", "Has a hazardous waste landfill."]
-    }, image: "/poi-images/il-ramat-hovav-economic-v2.webp"},
+    }, image: "/poi-images/il-ramat-hovav-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Ramat Hovav ist ein Industriepark in der Negev-Wüste bei Beerscheba, der sich auf Chemie und Schwerindustrie spezialisiert hat. Er wurde 1972 gegründet und beherbergt rund 50 Fabriken, darunter Produzenten von Pestiziden, Pharmazeutika und Spezialchemikalien. Der Park umfasst eine Fläche von 5.000 Dunam (500 ha). Bekannt ist er auch für die Müllverbrennungsanlage und das Gefahrstofflager. Die Anlage beschäftigt etwa 3.500 Personen.",
+      hu: "Ramat Hovav egy ipari park a Negev-sivatagban, Beér-Seva közelében. 1972-ben alapították, és mintegy 50 gyárat foglal magában, amelyek vegyi anyagokat, növényvédő szereket és gyógyszereket gyártanak. Területe 500 hektár. A parkban található egy veszélyes hulladékégető üzem is. Mintegy 3500 ember dolgozik itt.",
+      ro: "Ramat Hovav este un parc industrial situat în deșertul Negev, lângă Beer Șeva, specializat în chimie și industrie grea. Fondat în 1972, găzduiește aproximativ 50 de fabrici care produc pesticide, produse farmaceutice și substanțe chimice speciale. Parcul se întinde pe 500 de hectare. Include și o instalație de incinerare a deșeurilor periculoase. Angajează circa 3.500 de persoane.",
+      en: "Ramat Hovav is an industrial park in the Negev desert near Beer Sheva, focused on chemicals and heavy industry. Established in 1972, it houses about 50 factories producing pesticides, pharmaceuticals, and specialty chemicals. The park covers 500 hectares. It also has a hazardous waste incineration facility. It employs around 3,500 people.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1972", "Fläche: 500 ha", "Anzahl Fabriken: ca. 50", "Mitarbeiter: ca. 3.500", "Branchen: Chemie, Pharmazie, Pestizide", "Gefahrstofflager vorhanden"],
+      hu: ["Alapítás: 1972", "Terület: 500 hektár", "Gyárak száma: 50", "Foglalkoztatottak: 3 500", "Veszélyes hulladékégető: van", "Távolság Beér-Sevától: 10 km"],
+      ro: ["Fondat: 1972", "Suprafață: 500 ha", "Număr fabrici: 50", "Angajați: 3.500", "Instalație de incinerare: da", "Distanță față de Beer Șeva: 10 km"],
+      en: ["Established: 1972", "Area: 500 hectares", "Number of factories: 50", "Employees: 3,500", "Hazardous waste incinerator: yes", "Distance from Beer Sheva: 10 km"],
+    },
+  },
   {
     id: "il-diamond-exchange-economic-v2",
     type: "trade-hub",
     parent: "IL-TA",
     coords: [34.8025, 32.0839],
-    name: { de: "Israelische Diamantenbörse", hu: "Izraeli Gyémánttőzsde", ro: "Bursa de Diamante din Israel", en: "Israel Diamond Exchange",
-image: "/poi-images/il-diamond-exchange-economic-v2.webp"
-},
+    name: { de: "Israelische Diamantenbörse", hu: "Izraeli Gyémánttőzsde", ro: "Bursa de Diamante din Israel", en: "Israel Diamond Exchange"},
+    image: "/poi-images/il-diamond-exchange-economic-v2.webp",
     description: { de: "Das Herzstück des israelischen Diamantenhandels in Ramat Gan, das als einer der wichtigsten Umschlagplätze der Welt für Edelsteine gilt.", hu: "Az izraeli gyémántkereskedelem központja Ramat Ganban, amely a világ egyik legfontosabb drágakő-elosztó helye.", ro: "Inima comerțului cu diamante din Israel în Ramat Gan, considerat unul dintre cele mai importante centre de pietre prețioase din lume.", en: "The heart of the Israeli diamond trade in Ramat Gan, considered one of the world's most important trading hubs for gemstones." },
     facts: {
       de: ["Ein Komplex aus vier Hochhäusern.", "Strengste Sicherheitsvorkehrungen.", "Verantwortlich für riesige Exportvolumen."],
       hu: ["Négy felhőkarcolóból álló komplexum.", "Szigorú biztonsági intézkedések jellemzik.", "Hatalmas exportvolumenért felelős."],
       ro: ["Un complex format din patru zgârie-nori.", "Măsuri stricte de securitate.", "Responsabil pentru volume uriașe de export."],
       en: ["A complex of four skyscrapers.", "Strict security measures.", "Responsible for huge export volumes."]
-    }, image: "/poi-images/il-diamond-exchange-economic-v2.webp"},
+    }, image: "/poi-images/il-diamond-exchange-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Israel Diamond Exchange (IDE) ist ein Diamantenbörse in Ramat Gan, Teil des Diamond Districts. Sie wurde 1937 gegründet und ist heute eine der größten Diamantenbörsen der Welt. Der Komplex besteht aus mehreren Gebäuden, darunter der 32-stöckige Diamond Tower. Der Handel umfasst Roh- und geschliffene Diamanten. Israel exportiert jährlich Diamanten im Wert von über 10 Milliarden US-Dollar. Die Börse hat rund 3.000 Mitglieder.",
+      hu: "Az Izraeli Gyémánt Börze (IDE) a világ egyik legnagyobb gyémántkereskedelmi központja, Ramat Ganban. 1937-ben alapították. A komplexum több épületből áll, köztük a 32 emeletes Gyémánt Toronyból. Itt nyers és csiszolt gyémántokkal kereskednek. Izrael évente több mint 10 milliárd dollár értékben exportál gyémántot. A börze mintegy 3000 tagot számlál.",
+      ro: "Bursa de Diamante Israel (IDE) este una dintre cele mai mari burse de diamante din lume, situată în Ramat Gan. Fondată în 1937, complexul include mai multe clădiri, printre care Turnul Diamantelor cu 32 de etaje. Se tranzacționează diamante brute și șlefuite. Israelul exportă anual diamante în valoare de peste 10 miliarde de dolari. Bursa are aproximativ 3.000 de membri.",
+      en: "The Israel Diamond Exchange (IDE) in Ramat Gan is one of the world's largest diamond trading hubs. Founded in 1937, the complex includes several buildings, notably the 32-story Diamond Tower. It trades rough and polished diamonds. Israel annually exports diamonds worth over $10 billion. The exchange has about 3,000 members.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1937", "Mitglieder: ca. 3.000", "Exportwert: > 10 Mrd. USD/Jahr", "Gebäude: Diamond Tower, 32 Stockwerke", "Standort: Ramat Gan, Bezirk Tel Aviv", "Handelsvolumen: rund 20 Mrd. USD jährlich"],
+      hu: ["Alapítás: 1937", "Tagok száma: 3 000", "Éves export: 10 milliárd dollár", "Gyémánt torony: 32 emelet, 115 m magas", "Terület: 100 000 m²", "Napi kereskedés: 15 000 ügylet"],
+      ro: ["Fondată: 1937", "Membri: 3.000", "Export anual: 10 miliarde USD", "Turnul Diamantelor: 32 etaje, 115 m", "Suprafața complexului: 100.000 m²", "Tranzacții zilnice: 15.000"],
+      en: ["Founded: 1937", "Members: ~3,000", "Annual diamond exports: > $10 billion", "Diamond Tower: 32 stories, 115 m tall", "Complex area: 100,000 m²", "Daily transactions: ~15,000"],
+    },
+  },
   {
     id: "il-matam-park-economic-v2",
     type: "industry",
     parent: "IL-HA",
     coords: [34.9578, 32.7892],
-    name: { de: "Matam-Park", hu: "Matam Ipari Park", ro: "Parcul Matam", en: "Matam High-Tech Park",
-image: "/poi-images/il-matam-park-economic-v2.webp"
-},
+    name: { de: "Matam-Park", hu: "Matam Ipari Park", ro: "Parcul Matam", en: "Matam High-Tech Park"},
+    image: "/poi-images/il-matam-park-economic-v2.webp",
     description: { de: "Der erste und größte High-Tech-Park in Israel, gelegen in Haifa, der zahlreiche globale Technologieunternehmen und Forschungszentren anzieht.", hu: "Izrael első és legnagyobb csúcstechnológiai parkja Haifában, amely számos globális technológiai vállalatot és kutatóközpontot vonz.", ro: "Primul și cel mai mare parc high-tech din Israel, situat în Haifa, atrăgând numeroase companii tehnologice globale și centre de cercetare.", en: "The first and largest high-tech park in Israel, located in Haifa, attracting numerous global technology companies and research centers." },
     facts: {
       de: ["Gegründet in den 1970er Jahren.", "Knotenpunkt der israelischen Innovation.", "Beschäftigt Zehntausende von Ingenieuren."],
       hu: ["Az 1970-es években alapították.", "Az izraeli innováció központja.", "Mérnökök tízezreit foglalkoztatja."],
       ro: ["Fondat în anii 1970.", "Centrul inovației israeliene.", "Angajează zeci de mii de ingineri."],
       en: ["Founded in the 1970s.", "Hub of Israeli innovation.", "Employs tens of thousands of engineers."]
-    }, image: "/poi-images/il-matam-park-economic-v2.webp"},
+    }, image: "/poi-images/il-matam-park-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Matam-Park (Mercaz Ta'asiyot Mada) ist ein High-Tech-Park in Haifa, gegründet 1972. Er erstreckt sich über 120 Dunam (12 ha) und beherbergt über 200 Unternehmen, darunter Intel, Microsoft, Google und Apple. Mit rund 8.000 Beschäftigten ist er einer der größten Technologieparks Israels. Der Park liegt in der Nähe des Technion und der Universität Haifa. Er bietet Büros, Labore und Produktionsstätten.",
+      hu: "A Matam park Haifa legnagyobb high-tech parkja, 1972-ben alapították. Területe 12 hektár, és több mint 200 vállalat található itt, köztük az Intel, a Microsoft, a Google és az Apple. Körülbelül 8000 embert foglalkoztat. A park a Technion és a Haifai Egyetem közelében fekszik.",
+      ro: "Parcul Matam este un parc high-tech din Haifa, înființat în 1972. Se întinde pe 12 hectare și găzduiește peste 200 de companii, inclusiv Intel, Microsoft, Google și Apple. Angajează aproximativ 8.000 de persoane. Parcul este situat în apropierea Technion și a Universității Haifa.",
+      en: "Matam Park is a high-tech park in Haifa, established in 1972. It covers 12 hectares and houses over 200 companies, including Intel, Microsoft, Google, and Apple. It employs around 8,000 people. The park is adjacent to the Technion and the University of Haifa.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1972", "Fläche: 12 ha", "Unternehmen: > 200", "Mitarbeiter: ca. 8.000", "Bekannte Mieter: Intel, Microsoft, Google, Apple", "Lage: Haifa, nahe Technion"],
+      hu: ["Alapítás: 1972", "Terület: 12 hektár", "Vállalatok: 200+", "Foglalkoztatottak: 8 000", "Legnagyobb bérlő: Intel (több ezer dolgozó)", "Távolság a Techniontól: 2 km"],
+      ro: ["Fondat: 1972", "Suprafață: 12 ha", "Companii: 200+", "Angajați: 8.000", "Chiriași principali: Intel, Microsoft, Apple, Google", "Distanță până la Technion: 2 km"],
+      en: ["Established: 1972", "Area: 12 hectares", "Companies: over 200", "Employees: ~8,000", "Major tenants: Intel, Microsoft, Google, Apple", "Distance to Technion: 2 km"],
+    },
+  },
   {
     id: "il-airport-city-economic-v2",
     type: "trade-hub",
     parent: "IL-M",
     coords: [34.9122, 32.0000],
-    name: { de: "Airport City Tel Aviv", hu: "Airport City Tel-Aviv", ro: "Airport City Tel Aviv", en: "Airport City Tel Aviv",
-image: "/poi-images/il-airport-city-economic-v2.webp"
-},
+    name: { de: "Airport City Tel Aviv", hu: "Airport City Tel-Aviv", ro: "Airport City Tel Aviv", en: "Airport City Tel Aviv"},
+    image: "/poi-images/il-airport-city-economic-v2.webp",
     description: { de: "Ein bedeutendes Geschäfts- und Logistikzentrum in der Nähe des Ben-Gurion-Flughafens, das als Drehscheibe für Handel und Unternehmen dient.", hu: "Jelentős üzleti és logisztikai központ a Ben Gurion repülőtér közelében, amely a kereskedelem és a vállalatok csomópontjaként szolgál.", ro: "Un centru important de afaceri și logistică lângă Aeroportul Ben Gurion, care servește ca un hub pentru comerț și companii.", en: "A major business and logistics center near Ben Gurion Airport, serving as a hub for trade and companies." },
     facts: {
       de: ["Zentrale Lage in Israel.", "Sitz vieler Firmenzentralen.", "Bietet umfangreiche Lagerkapazitäten."],
       hu: ["Központi elhelyezkedés Izraelben.", "Sok vállalati központ székhelye.", "Jelentős raktárkapacitást kínál."],
       ro: ["Locație centrală în Israel.", "Sediul multor corporații.", "Oferă capacități mari de depozitare."],
       en: ["Central location in Israel.", "Headquarters of many corporations.", "Offers large storage capacities."]
-    }, image: "/poi-images/il-airport-city-economic-v2.webp"},
+    }, image: "/poi-images/il-airport-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Airport City ist ein Gewerbe- und Logistikpark nahe dem Flughafen Ben-Gurion westlich von Tel Aviv. Er wurde 2003 eröffnet und erstreckt sich über 1.000 Dunam (100 ha). Der Park beherbergt Büros, Hotels, Logistikzentren und Einzelhandel. Er ist Sitz vieler internationaler Konzerne wie IBM, HP und der Fluggesellschaft El Al. Airport City hat eine eigene Anbindung an die Autobahn 1 und den Flughafen.",
+      hu: "Az Airport City egy üzleti és logisztikai park a Ben-Gurion repülőtér közelében, Tel-Avivtól nyugatra. 2003-ban nyílt meg, területe 100 hektár. Irodáknak, hoteleknek, logisztikai központoknak és kiskereskedelmi egységeknek ad otthont. Számos nemzetközi vállalat, mint az IBM, a HP és az El Al légitársaság székhelye itt található.",
+      ro: "Airport City este un parc de afaceri și logistică lângă Aeroportul Ben-Gurion, la vest de Tel Aviv. Deschis în 2003, se întinde pe 100 de hectare. Găzduiește birouri, hoteluri, centre logistice și magazine. Este sediul unor companii multinaționale precum IBM, HP și El Al.",
+      en: "Airport City is a business and logistics park near Ben-Gurion Airport, west of Tel Aviv. Opened in 2003, it covers 100 hectares. It hosts offices, hotels, logistics centers, and retail. It is home to multinational companies like IBM, HP, and El Al Airlines.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2003", "Fläche: 100 ha", "Lage: nahe Ben-Gurion Flughafen", "Nutzung: Büros, Logistik, Hotel, Einzelhandel", "Anzahl Gebäude: über 20", "Anbindung: Autobahn 1"],
+      hu: ["Megnyitás: 2003", "Terület: 100 hektár", "El Al székhely: itt található", "Távolság Tel-Avivtól: 15 km", "Parkolóhelyek: 5 000", "Éves forgalom: 2 milliárd sékel"],
+      ro: ["Deschis: 2003", "Suprafață: 100 ha", "Sediu El Al: da", "Distanță Tel Aviv: 15 km", "Locuri de parcare: 5.000", "Cifră de afaceri anuală: 2 miliarde ILS"],
+      en: ["Opened: 2003", "Area: 100 hectares", "Distance from Tel Aviv: 15 km", "Headquarters of El Al Airlines", "Parking spaces: 5,000", "Annual revenue: ~2 billion ILS"],
+    },
+  },
   {
     id: "il-sorek-desalination-economic-v2",
     type: "industry",
     parent: "IL-M",
     coords: [34.7081, 31.9333],
-    name: { de: "Meerwasserentsalzungsanlage Sorek", hu: "Sorek Sótalanító Üzem", ro: "Uzina de desalinizare Sorek", en: "Sorek Desalination Plant",
-image: "/poi-images/il-sorek-desalination-economic-v2.webp"
-},
+    name: { de: "Meerwasserentsalzungsanlage Sorek", hu: "Sorek Sótalanító Üzem", ro: "Uzina de desalinizare Sorek", en: "Sorek Desalination Plant"},
+    image: "/poi-images/il-sorek-desalination-economic-v2.webp",
     description: { de: "Eine der größten Umkehrosmose-Entsalzungsanlagen der Welt, die einen entscheidenden Beitrag zur Trinkwasserversorgung des Landes leistet.", hu: "A világ egyik legnagyobb fordított ozmózisos sótalanító üzeme, amely döntő mértékben hozzájárul az ország ivóvízellátásához.", ro: "Una dintre cele mai mari uzine de desalinizare cu osmoză inversă din lume, contribuind decisiv la alimentarea cu apă potabilă a țării.", en: "One of the world's largest reverse osmosis desalination plants, making a crucial contribution to the country's drinking water supply." },
     facts: {
       de: ["Ging 2013 in Betrieb.", "Produziert Millionen Kubikmeter Wasser.", "Nutzung fortschrittlicher Filtertechnik."],
       hu: ["2013-ban kezdte meg működését.", "Több millió köbméter vizet termel.", "Fejlett szűréstechnikát alkalmaz."],
       ro: ["A intrat în funcțiune în 2013.", "Produce milioane de metri cubi de apă.", "Utilizează tehnologie avansată de filtrare."],
       en: ["Began operations in 2013.", "Produces millions of cubic meters of water.", "Uses advanced filtration technology."]
-    }, image: "/poi-images/il-sorek-desalination-economic-v2.webp"},
+    }, image: "/poi-images/il-sorek-desalination-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sorek-Entsalzungsanlage liegt nahe Palmachim südlich von Tel Aviv. Sie ist eine der größten Meerwasserentsalzungsanlagen der Welt mit einer Kapazität von 624.000 m³ pro Tag (rund 150 Mio. m³ pro Jahr). Die Anlage nutzt die Umkehrosmose-Technologie und wurde 2013 in Betrieb genommen. Sie versorgt vor allem die Region Tel Aviv mit Trinkwasser. Betreiber ist Sorek Desalination Ltd.",
+      hu: "A Sorek-sótalanító üzem Palmachim közelében, Tel-Avivtól délre található. Ez a világ egyik legnagyobb tengervíz-sótalanítója, napi 624 000 m³ kapacitással (évi 150 millió m³). A fordított ozmózis technológiát használja. 2013-ban helyezték üzembe, és főként Tel-Aviv térségét látja el ivóvízzel.",
+      ro: "Uzina de desalinizare Sorek este situată lângă Palmachim, la sud de Tel Aviv. Este una dintre cele mai mari uzine de desalinizare din lume, cu o capacitate de 624.000 m³ pe zi (150 milioane m³ pe an). Folosește tehnologia osmoză inversă și a fost pusă în funcțiune în 2013. Furnizează apă potabilă în principal regiunii Tel Aviv.",
+      en: "The Sorek Desalination Plant, near Palmachim south of Tel Aviv, is one of the world's largest seawater desalination plants, with a capacity of 624,000 m³ per day (150 million m³ annually). It uses reverse osmosis technology and was commissioned in 2013. It supplies drinking water primarily to the Tel Aviv region.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 624.000 m³/Tag", "Jahresproduktion: 150 Mio. m³", "Technologie: Umkehrosmose", "Inbetriebnahme: 2013", "Standort: Palmachim, Tel Aviv südlich", "Versorgungsgebiet: Region Tel Aviv"],
+      hu: ["Napi kapacitás: 624 000 m³", "Éves termelés: 150 millió m³", "Technológia: fordított ozmózis", "Üzembe helyezés: 2013", "Vízhozam: 624 000 m³/nap", "Ellátott terület: Tel-Aviv és környéke"],
+      ro: ["Capacitate: 624.000 m³/zi", "Producție anuală: 150 milioane m³", "Tehnologie: osmoză inversă", "An punere în funcțiune: 2013", "Cost construcție: 400 milioane USD", "Furnizează apă pentru 1,5 milioane oameni"],
+      en: ["Capacity: 624,000 m³/day", "Annual production: 150 million m³", "Technology: reverse osmosis", "Commissioned: 2013", "Construction cost: $400 million", "Serves about 1.5 million people"],
+    },
+  },
   {
     id: "il-hadera-desalination-economic-v2",
     type: "industry",
     parent: "IL-HA",
     coords: [34.8822, 32.4700],
-    name: { de: "Entsalzungsanlage Hadera", hu: "Haderai Sótalanító Üzem", ro: "Uzina de desalinizare Hadera", en: "Hadera Desalination Plant",
-image: "/poi-images/il-hadera-desalination-economic-v2.webp"
-},
+    name: { de: "Entsalzungsanlage Hadera", hu: "Haderai Sótalanító Üzem", ro: "Uzina de desalinizare Hadera", en: "Hadera Desalination Plant"},
+    image: "/poi-images/il-hadera-desalination-economic-v2.webp",
     description: { de: "Eine wichtige Anlage an der Mittelmeerküste, die Meerwasser in Trinkwasser umwandelt und die Wasserknappheit der Region lindert.", hu: "Fontos létesítmény a Földközi-tenger partján, amely tengervizet ivóvízzé alakít, enyhítve a régió vízhiányát.", ro: "O instalație importantă pe coasta mediteraneană care transformă apa de mare în apă potabilă, atenuând deficitul de apă al regiunii.", en: "An important facility on the Mediterranean coast that converts seawater into drinking water, alleviating the region's water scarcity." },
     facts: {
       de: ["Eröffnet im Jahr 2009.", "Eine der größten Anlagen ihrer Art.", "Arbeitet eng mit dem Kraftwerk zusammen."],
       hu: ["2009-ben nyitották meg.", "A maga nemében az egyik legnagyobb létesítmény.", "Szorosan együttműködik az erőművel."],
       ro: ["Deschisă în anul 2009.", "Una dintre cele mai mari facilități de acest gen.", "Lucrează îndeaproape cu centrala electrică."],
       en: ["Opened in 2009.", "One of the largest facilities of its kind.", "Works closely with the power plant."]
-    }, image: "/poi-images/il-hadera-desalination-economic-v2.webp"},
+    }, image: "/poi-images/il-hadera-desalination-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hadera-Entsalzungsanlage liegt an der Mittelmeerküste nördlich von Hadera. Mit einer Kapazität von 456.000 m³ pro Tag (110 Mio. m³ pro Jahr) ist sie eine der größten Entsalzungsanlagen der Welt. Sie wurde 2009 in Betrieb genommen und nutzt ebenfalls Umkehrosmose. Betreiber ist die Firma H2ID (Hadera Desalination Ltd.). Die Anlage deckt etwa 15 % des israelischen Trinkwasserbedarfs.",
+      hu: "A haderai sótalanító üzem a Földközi-tenger partján, Hadarától északra található. Napi kapacitása 456 000 m³ (évi 110 millió m³). 2009-ben helyezték üzembe, fordított ozmózis technológiával. A H2ID üzemelteti. Izrael ivóvízszükségletének mintegy 15%-át fedezi.",
+      ro: "Uzina de desalinizare Hadera este situată pe coasta Mediteranei, la nord de Hadera, cu o capacitate de 456.000 m³ pe zi (110 milioane m³ pe an). A fost pusă în funcțiune în 2009, folosind osmoză inversă. Este operată de H2ID. Asigură aproximativ 15% din necesarul de apă potabilă al Israelului.",
+      en: "The Hadera Desalination Plant, on the Mediterranean coast north of Hadera, has a capacity of 456,000 m³ per day (110 million m³ annually). Commissioned in 2009, it uses reverse osmosis. Operated by H2ID, it supplies about 15% of Israel's drinking water.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 456.000 m³/Tag", "Jahresproduktion: 110 Mio. m³", "Inbetriebnahme: 2009", "Technologie: Umkehrosmose", "Betreiber: H2ID", "Anteil am Trinkwasser: ca. 15 %"],
+      hu: ["Napi kapacitás: 456 000 m³", "Éves termelés: 110 millió m³", "Üzembe helyezés: 2009", "Technológia: fordított ozmózis", "Tulajdonos: H2ID", "Ellátott lakosság: 1,2 millió"],
+      ro: ["Capacitate: 456.000 m³/zi", "Producție anuală: 110 milioane m³", "An punere în funcțiune: 2009", "Tehnologie: osmoză inversă", "Operator: H2ID", "Cost: 350 milioane USD"],
+      en: ["Capacity: 456,000 m³/day", "Annual production: 110 million m³", "Commissioned: 2009", "Technology: reverse osmosis", "Operator: H2ID", "Cost: $350 million"],
+    },
+  },
   {
     id: "il-zin-mine-economic-v2",
     type: "mine",
     parent: "IL-D",
     coords: [35.1500, 30.9333],
-    name: { de: "Phosphatmine Zin", hu: "Cin Foszfátbánya", ro: "Mina de fosfați Zin", en: "Zin Phosphate Mine",
-image: "/poi-images/il-zin-mine-economic-v2.webp"
-},
+    name: { de: "Phosphatmine Zin", hu: "Cin Foszfátbánya", ro: "Mina de fosfați Zin", en: "Zin Phosphate Mine"},
+    image: "/poi-images/il-zin-mine-economic-v2.webp",
     description: { de: "Eine der wichtigsten Minen in der Negev-Wüste, die große Mengen an Phosphaten für die chemische Industrie und den Export abbaut.", hu: "A Negev-sivatag egyik legfontosabb bányája, amely nagy mennyiségű foszfátot termel ki a vegyipar és az export számára.", ro: "Una dintre cele mai importante mine din deșertul Negev, extrăgând cantități mari de fosfați pentru industria chimică și export.", en: "One of the most important mines in the Negev Desert, extracting large quantities of phosphates for the chemical industry and export." },
     facts: {
       de: ["Liegt tief in der Wüstenlandschaft.", "Sichert wertvolle Rohstoffe.", "Teil der israelischen Düngemittelproduktion."],
       hu: ["Mélyen a sivatagi tájban fekszik.", "Értékes nyersanyagokat biztosít.", "Az izraeli műtrágyagyártás része."],
       ro: ["Situată adânc în peisajul deșertic.", "Asigură materii prime valoroase.", "Parte a producției israeliene de îngrășăminte."],
       en: ["Located deep in the desert landscape.", "Secures valuable raw materials.", "Part of Israeli fertilizer production."]
-    }, image: "/poi-images/il-zin-mine-economic-v2.webp"},
+    }, image: "/poi-images/il-zin-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zin-Phosphatmine liegt in der Negev-Wüste, nördlich des Machtesch Ramon. Sie ist eine der wichtigsten Phosphatminen Israels. Der Abbau erfolgt im Tagebau. Die Mine produziert jährlich rund 4 Millionen Tonnen Phosphatgestein. Betreiber ist die Israel Chemicals Ltd. (ICL). Das Phosphat wird für Düngemittel und chemische Produkte verwendet. Die Mine beschäftigt etwa 400 Mitarbeiter.",
+      hu: "A Zin-foszfátbánya a Negev-sivatagban, a Makhtesh Ramontól északra található. Izrael egyik legjelentősebb foszfátbányája. A kitermelés külszíni fejtéssel történik. Éves termelése körülbelül 4 millió tonna foszfátkőzet. Az Israel Chemicals Ltd. (ICL) üzemelteti. A foszfátot műtrágyák és vegyi termékek előállítására használják. A bánya mintegy 400 embert foglalkoztat.",
+      ro: "Mina de fosfat Zin este situată în deșertul Negev, la nord de Makhtesh Ramon. Este una dintre cele mai importante mine de fosfat din Israel. Exploatarea se face în carieră deschisă. Producția anuală este de aproximativ 4 milioane de tone de rocă fosfatică. Operatorul este Israel Chemicals Ltd. (ICL). Fosfatul este utilizat pentru îngrășăminte și produse chimice. Mina angajează circa 400 de persoane.",
+      en: "The Zin Phosphate Mine is located in the Negev desert, north of Makhtesh Ramon. It is one of Israel's major phosphate mines, with open-pit mining. Annual production is about 4 million tons of phosphate rock. Operated by Israel Chemicals Ltd. (ICL), the phosphate is used for fertilizers and chemicals. The mine employs around 400 people.",
+    },
+    factsAdvanced: {
+      de: ["Jahresproduktion: 4 Mio. Tonnen Phosphat", "Methode: Tagebau", "Betreiber: ICL", "Mitarbeiter: ca. 400", "Lage: Negev, nördlich von Machtesch Ramon", "Produkte: Düngemittel, Chemikalien"],
+      hu: ["Éves termelés: 4 millió tonna", "Bányászati módszer: külszíni", "Tulajdonos: ICL", "Foglalkoztatottak: 400", "Foszfáttartalom: 30% P2O5", "Terület: 15 km²"],
+      ro: ["Producție anuală: 4 milioane tone", "Metodă: carieră deschisă", "Operator: ICL", "Angajați: 400", "Conținut de P2O5: 30%", "Suprafață: 15 km²"],
+      en: ["Annual production: 4 million tons", "Mining method: open-pit", "Operator: ICL", "Employees: 400", "Phosphate content: 30% P2O5", "Area: 15 km²"],
+    },
+  },
   {
     id: "il-ashkelon-terminal-economic-v2",
     type: "trade-hub",
     parent: "IL-D",
     coords: [34.5167, 31.6333],
-    name: { de: "Ölterminal Aschkelon", hu: "Askelóni Olajterminál", ro: "Terminalul petrolier Așkelon", en: "Ashkelon Oil Terminal",
-image: "/poi-images/il-ashkelon-terminal-economic-v2.webp"
-},
+    name: { de: "Ölterminal Aschkelon", hu: "Askelóni Olajterminál", ro: "Terminalul petrolier Așkelon", en: "Ashkelon Oil Terminal"},
+    image: "/poi-images/il-ashkelon-terminal-economic-v2.webp",
     description: { de: "Ein entscheidender Knotenpunkt für den Öltransport, der das Rote Meer mit dem Mittelmeer verbindet und internationale Märkte versorgt.", hu: "Az olajszállítás döntő csomópontja, amely összeköti a Vörös-tengert a Földközi-tengerrel, és nemzetközi piacokat lát el.", ro: "Un punct central pentru transportul de petrol, conectând Marea Roșie cu Marea Mediterană și aprovizionând piețele internaționale.", en: "A crucial hub for oil transport, connecting the Red Sea with the Mediterranean and supplying international markets." },
     facts: {
       de: ["Teil der EAPC-Pipeline.", "Kann große Supertanker abfertigen.", "Strategisch wichtige Infrastruktur."],
       hu: ["Az EAPC vezeték része.", "Nagy szupertankereket is képes fogadni.", "Stratégiailag fontos infrastruktúra."],
       ro: ["Parte a conductei EAPC.", "Poate deservi supertancuri mari.", "Infrastructură strategică importantă."],
       en: ["Part of the EAPC pipeline.", "Can handle large supertankers.", "Strategically important infrastructure."]
-    }, image: "/poi-images/il-ashkelon-terminal-economic-v2.webp"},
+    }, image: "/poi-images/il-ashkelon-terminal-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Aschkelon-Ölterminal ist ein wichtiger Ölumschlagplatz an der Mittelmeerküste, südlich von Aschkelon. Es wurde 1970 errichtet und dient als Endpunkt der Trans-Israel-Pipeline (Eilat-Aschkelon). Das Terminal kann Tanker mit bis zu 500.000 Tonnen abfertigen. Es lagert Rohöl und Produkte in großen Tanks. Die Anlage gehört der Eilat Ashkelon Pipeline Company (EAPC).",
+      hu: "Az askeloni olajterminál egy fontos olajátrakó pont a Földközi-tenger partján, Askelontól délre. 1970-ben épült, és a transz-izraeli csővezeték (Eilat-Askelon) végpontja. A terminál akár 500 000 tonnás tankerek fogadására is alkalmas. Nyersolajat és termékeket tárol nagy tartályokban. A létesítmény az Eilat Ashkelon Pipeline Company (EAPC) tulajdona.",
+      ro: "Terminalul petrolier Ashkelon este un important punct de transbordare a petrolului pe coasta Mediteranei, la sud de Ashkelon. Construit în 1970, este punctul terminus al conductei Trans-Israel (Eilat-Ashkelon). Terminalul poate deservi tancuri de până la 500.000 de tone. Depozitează țiței și produse în rezervoare mari. Este deținut de Eilat Ashkelon Pipeline Company (EAPC).",
+      en: "The Ashkelon Oil Terminal is a major oil transshipment point on the Mediterranean coast, south of Ashkelon. Built in 1970, it is the endpoint of the Trans-Israel Pipeline (Eilat-Ashkelon). The terminal can handle tankers up to 500,000 tons. It stores crude oil and products in large tanks. It is owned by the Eilat Ashkelon Pipeline Company (EAPC).",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1970", "Tankergröße: bis 500.000 Tonnen", "Pipeline: Eilat-Aschkelon, Länge 254 km", "Eigentümer: EAPC", "Lagerkapazität: mehrere Millionen Barrel", "Standort: südlich von Aschkelon"],
+      hu: ["Építés éve: 1970", "Maximális tankerméret: 500 000 tonna", "Csővezeték hossza: 254 km", "Tulajdonos: EAPC", "Tárolókapacitás: 10 millió hordó", "Kikötő mélysége: 28 m"],
+      ro: ["An construcție: 1970", "Capacitate tancuri: până la 500.000 tone", "Lungime conductă: 254 km", "Proprietar: EAPC", "Capacitate depozitare: 10 milioane barili", "Adâncimea portului: 28 m"],
+      en: ["Built: 1970", "Maximum tanker size: 500,000 tons", "Pipeline length: 254 km", "Owner: EAPC", "Storage capacity: 10 million barrels", "Port depth: 28 m"],
+    },
+  },
   {
     id: "il-osem-sderot-economic-v2",
     type: "industry",
     parent: "IL-D",
     coords: [34.5833, 31.5167],
-    name: { de: "Osem-Werk Sderot", hu: "Osem Gyár Szderót", ro: "Fabrica Osem Sderot", en: "Osem Factory Sderot",
-image: "/poi-images/il-osem-sderot-economic-v2.webp"
-},
+    name: { de: "Osem-Werk Sderot", hu: "Osem Gyár Szderót", ro: "Fabrica Osem Sderot", en: "Osem Factory Sderot"},
+    image: "/poi-images/il-osem-sderot-economic-v2.webp",
     description: { de: "Eine große Lebensmittelproduktionsstätte in Süd-Israel, die eine Vielzahl von beliebten israelischen Snacks und Grundnahrungsmitteln herstellt.", hu: "Nagy élelmiszergyártó létesítmény Dél-Izraelben, amely számos népszerű izraeli rágcsálnivalót és alapvető élelmiszert állít elő.", ro: "O mare unitate de producție alimentară în sudul Israelului, care fabrică o varietate de gustări populare și alimente de bază israeliene.", en: "A large food production facility in southern Israel, manufacturing a variety of popular Israeli snacks and staple foods." },
     facts: {
       de: ["Gehört zu den größten Arbeitgebern der Region.", "Produziert die berühmten Bamba-Snacks.", "Symbol der industriellen Resilienz."],
       hu: ["A régió egyik legnagyobb munkaadója.", "A híres Bamba snackeket is gyártja.", "Az ipari ellenállóképesség szimbóluma."],
       ro: ["Unul dintre cei mai mari angajatori din regiune.", "Produce faimoasele gustări Bamba.", "Simbol al rezilienței industriale."],
       en: ["One of the largest employers in the region.", "Produces the famous Bamba snacks.", "Symbol of industrial resilience."]
-    }, image: "/poi-images/il-osem-sderot-economic-v2.webp"},
+    }, image: "/poi-images/il-osem-sderot-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Osem-Fabrik in Sderot ist ein Produktionsstandort des israelischen Lebensmittelkonzerns Osem (Nestlé). Sie wurde 1997 eröffnet und stellt vor allem Nudeln, Snacks und Fertiggerichte her. Die Fabrik liegt im Industriegebiet von Sderot, nahe dem Gazastreifen. Sie beschäftigt rund 500 Mitarbeiter. Die Anlage ist für ihre hohen Sicherheitsstandards bekannt, insbesondere aufgrund der Raketenangriffe aus Gaza.",
+      hu: "Az Osem sderoti gyára az izraeli Osem (Nestlé) élelmiszeripari vállalat egyik termelőüzeme. 1997-ben nyílt meg, elsősorban tésztát, snackeket és készételeket gyárt. Sderot ipari övezetében található, a Gázai övezet közelében. Körülbelül 500 főt foglalkoztat. Az üzem magas biztonsági előírásokkal rendelkezik a rakétatámadások miatt.",
+      ro: "Fabrica Osem din Sderot este o unitate de producție a companiei israeliene de alimente Osem (Nestlé). Deschisă în 1997, produce paste, gustări și mese gata. Fabrica este situată în zona industrială Sderot, lângă Fâșia Gaza. Angajează aproximativ 500 de persoane. Are standarde ridicate de securitate din cauza atacurilor cu rachete din Gaza.",
+      en: "The Osem Factory in Sderot is a production facility of the Israeli food company Osem (Nestlé). Opened in 1997, it produces pasta, snacks, and ready meals. The factory is in Sderot's industrial zone, near the Gaza Strip. It employs about 500 people. It has high security standards due to rocket attacks from Gaza.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1997", "Produkte: Nudeln, Snacks, Fertiggerichte", "Mitarbeiter: ca. 500", "Mutterkonzern: Osem (Nestlé)", "Standort: Sderot, Industriegebiet", "Sicherheitsvorkehrungen: Schutzräume, Raketenabwehr"],
+      hu: ["Megnyitás: 1997", "Termékek: tészta, snack, készételek", "Alkalmazottak: 500", "Tulajdonos: Osem / Nestlé", "Távolság a Gázai övezettől: 1 km", "Napi termelés: 100 tonna tészta"],
+      ro: ["Deschisă: 1997", "Produse: paste, gustări, mese gata", "Angajați: 500", "Proprietar: Osem / Nestlé", "Distanță față de Fâșia Gaza: 1 km", "Producție zilnică: 100 tone de paste"],
+      en: ["Opened: 1997", "Products: pasta, snacks, ready meals", "Employees: 500", "Parent company: Osem (Nestlé)", "Distance from Gaza Strip: 1 km", "Daily pasta production: 100 tons"],
+    },
+  },
   {
     id: "il-caesarea-park-economic-v2",
     type: "industry",
     parent: "IL-HA",
     coords: [34.9333, 32.4833],
-    name: { de: "Gewerbepark Caesarea", hu: "Caesarea Üzleti Park", ro: "Parcul de Afaceri Cezareea", en: "Caesarea Business Park",
-image: "/poi-images/il-caesarea-park-economic-v2.webp"
-},
+    name: { de: "Gewerbepark Caesarea", hu: "Caesarea Üzleti Park", ro: "Parcul de Afaceri Cezareea", en: "Caesarea Business Park"},
+    image: "/poi-images/il-caesarea-park-economic-v2.webp",
     description: { de: "Ein umweltfreundlicher und moderner Industriepark, der eine breite Palette von High-Tech-, Medizintechnik- und Logistikunternehmen anzieht.", hu: "Környezetbarát és modern ipari park, amely a csúcstechnológiai, orvostechnikai és logisztikai vállalatok széles skáláját vonzza.", ro: "Un parc industrial modern și ecologic, care atrage o gamă largă de companii de înaltă tehnologie, tehnologie medicală și logistică.", en: "An eco-friendly and modern industrial park attracting a wide range of high-tech, medical technology, and logistics companies." },
     facts: {
       de: ["Zählt zu den größten Gewerbeparks in Israel.", "Fokus auf nachhaltige Entwicklung.", "Bietet moderne Infrastruktur."],
       hu: ["Izrael egyik legnagyobb üzleti parkja.", "A fenntartható fejlődésre összpontosít.", "Modern infrastruktúrát kínál."],
       ro: ["Unul dintre cele mai mari parcuri de afaceri din Israel.", "Se concentrează pe dezvoltarea durabilă.", "Oferă infrastructură modernă."],
       en: ["One of the largest business parks in Israel.", "Focus on sustainable development.", "Offers modern infrastructure."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Caesarea Business Park ist ein Gewerbe- und Technologiepark auf dem Gelände der antiken Stadt Caesarea Maritima, an der Mittelmeerküste zwischen Tel Aviv und Haifa. Der Park wurde in den 1990er Jahren entwickelt und beherbergt heute über 150 Unternehmen, darunter Start-ups und Technologiefirmen. Die Umgebung bietet eine einzigartige Mischung aus historischem Ambiente und moderner Infrastruktur. Der Park erstreckt sich über 1.200 Dunam (120 ha).",
+      hu: "A cézárei üzleti park egy kereskedelmi és technológiai park az ősi Caesarea Maritima területén, a Földközi-tenger partján, Tel-Aviv és Haifa között. Az 1990-es években fejlesztették ki, ma több mint 150 vállalatnak ad otthont, köztük startupoknak és technológiai cégeknek. A környezet egyedülálló keveréke a történelmi hangulatnak és a modern infrastruktúrának. A park területe 120 hektár.",
+      ro: "Parcul de afaceri Caesarea este un parc comercial și tehnologic situat pe situl orașului antic Caesarea Maritima, pe coasta Mediteranei, între Tel Aviv și Haifa. Dezvoltat în anii 1990, găzduiește peste 150 de companii, inclusiv startup-uri și firme de tehnologie. Oferă un amestec unic de atmosferă istorică și infrastructură modernă. Parcul se întinde pe 120 de hectare.",
+      en: "Caesarea Business Park is a commercial and technology park located on the site of the ancient city of Caesarea Maritima, on the Mediterranean coast between Tel Aviv and Haifa. Developed in the 1990s, it houses over 150 companies, including startups and tech firms. The setting offers a unique blend of historical ambiance and modern infrastructure. The park covers 120 hectares.",
+    },
+    factsAdvanced: {
+      de: ["Entwicklung: 1990er Jahre", "Fläche: 120 ha", "Unternehmen: > 150", "Lage: Caesarea, Küste zwischen Tel Aviv und Haifa", "Historische Stätte: Caesarea Maritima aus der Römerzeit", "Branchen: Technologie, Dienstleistungen"],
+      hu: ["Fejlesztés: 1990-es évek", "Terület: 120 hektár", "Vállalatok: 150+", "Távolság Tel-Avivtól: 50 km", "Történelmi helyszín: római kori Caesarea", "Foglalkoztatottak: 5 000"],
+      ro: ["Dezvoltare: anii 1990", "Suprafață: 120 ha", "Companii: 150+", "Distanță Tel Aviv: 50 km", "Sit istoric: Caesarea Maritima romană", "Angajați: 5.000"],
+      en: ["Developed: 1990s", "Area: 120 hectares", "Companies: over 150", "Distance from Tel Aviv: 50 km", "Historical site: Roman Caesarea Maritima", "Employees: 5,000"],
+    },
   }
 ];

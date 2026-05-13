@@ -11,9 +11,8 @@ export const poiExtraGuineabissauReliefV2: POI[] = [
       de: "Mount Mocende",
       hu: "Mocende-hegy",
       ro: "Muntele Mocende",
-      en: "Mount Mocende",
-image: "/poi-images/mount-mocende-relief-v2.webp"
-},
+      en: "Mount Mocende"},
+    image: "/poi-images/mount-mocende-relief-v2.webp",
     description: {
       de: "Der Mount Mocende ist mit etwa 300 Metern die höchste Erhebung in Guinea-Bissau und liegt im hügeligen Südosten des Landes.",
       hu: "A Mocende-hegy Bissau-Guinea legmagasabb pontja, körülbelül 300 méteres magasságával az ország dombos délkeleti részén található.",
@@ -47,9 +46,8 @@ image: "/poi-images/mount-mocende-relief-v2.webp"
       de: "Boé-Hochebene",
       hu: "Boé-fennsík",
       ro: "Podișul Boé",
-      en: "Boé Plateau",
-image: "/poi-images/boe-plateau-relief-v2.webp"
-},
+      en: "Boé Plateau"},
+    image: "/poi-images/boe-plateau-relief-v2.webp",
     description: {
       de: "Die Boé-Hochebene ist eine felsige und hügelige Region im Südosten, die sich deutlich von den flachen Küstenebenen des Landes abhebt.",
       hu: "A Boé-fennsík egy sziklás és dombos régió délkeleten, amely jelentősen eltér az ország lapos tengerparti síkságaitól.",
@@ -83,9 +81,8 @@ image: "/poi-images/boe-plateau-relief-v2.webp"
       de: "Varela-Dünen",
       hu: "Varela-dűnék",
       ro: "Dunele din Varela",
-      en: "Varela Dunes",
-image: "/poi-images/varela-dunes-relief-v2.webp"
-},
+      en: "Varela Dunes"},
+    image: "/poi-images/varela-dunes-relief-v2.webp",
     description: {
       de: "An der nordwestlichen Küste bei Varela finden sich seltene Dünenformationen, die den Übergang vom Atlantik zum Festland markieren.",
       hu: "Az északnyugati parton, Varela közelében ritka dűneformációk találhatók, amelyek az Atlanti-óceán és a szárazföld közötti átmenetet jelzik.",
@@ -119,9 +116,8 @@ image: "/poi-images/varela-dunes-relief-v2.webp"
       de: "Binta-Wald",
       hu: "Binta-erdő",
       ro: "Pădurea Binta",
-      en: "Binta Forest",
-image: "/poi-images/binta-forest-relief-v2.webp"
-},
+      en: "Binta Forest"},
+    image: "/poi-images/binta-forest-relief-v2.webp",
     description: {
       de: "Der Binta-Wald ist ein wichtiges Waldgebiet im Norden Guinea-Bissaus, das eine Mischung aus Savanne und dichtem Baumbestand bietet.",
       hu: "A Binta-erdő egy fontos erdőterület Bissau-Guinea északi részén, amely a szavanna és a sűrű faállomány keverékét kínálja.",
@@ -155,9 +151,8 @@ image: "/poi-images/binta-forest-relief-v2.webp"
       de: "Geba-Niederung",
       hu: "Geba-alföld",
       ro: "Câmpia Geba",
-      en: "Geba Lowland",
-image: "/poi-images/geba-lowland-relief-v2.webp"
-},
+      en: "Geba Lowland"},
+    image: "/poi-images/geba-lowland-relief-v2.webp",
     description: {
       de: "Die ausgedehnte Tiefebene entlang des Geba-Flusses ist durch saisonale Überschwemmungen und fruchtbare Sedimentablagerungen geprägt.",
       hu: "A Geba-folyó menti kiterjedt alföldet szezonális áradások és termékeny üledéklerakódások jellemzik.",
@@ -191,9 +186,8 @@ image: "/poi-images/geba-lowland-relief-v2.webp"
       de: "Corubal-Becken",
       hu: "Corubal-medence",
       ro: "Bazinul Corubal",
-      en: "Corubal Basin",
-image: "/poi-images/corubal-basin-relief-v2.webp"
-},
+      en: "Corubal Basin"},
+    image: "/poi-images/corubal-basin-relief-v2.webp",
     description: {
       de: "Das Becken des Corubal-Flusses im Osten des Landes weist ein abwechslungsreiches Relief mit tief eingeschnittenen Tälern und Plateaus auf.",
       hu: "A Corubal-folyó medencéje az ország keleti részén változatos domborzatot mutat mély völgyekkel és fennsíkokkal.",
@@ -228,9 +222,8 @@ image: "/poi-images/corubal-basin-relief-v2.webp"
       de: "Mansoa-Mangroven",
       hu: "Mansoa-mangrove",
       ro: "Mangrovele Mansoa",
-      en: "Mansoa Mangroves",
-image: "/poi-images/mansoa-mangroves-relief-v2.webp"
-},
+      en: "Mansoa Mangroves"},
+    image: "/poi-images/mansoa-mangroves-relief-v2.webp",
     description: {
       de: "Die dichten Mangrovenwälder am Mansoa-Fluss bilden ein komplexes Ökosystem, das die Küstenlinie vor Erosion schützt.",
       hu: "A Mansoa-folyó menti sűrű mangroveerdők összetett ökoszisztémát alkotnak, amely védi a partvonalat az eróziótól.",
@@ -265,9 +258,8 @@ image: "/poi-images/mansoa-mangroves-relief-v2.webp"
       de: "Rio Grande-Küstenrelief",
       hu: "Rio Grande-parti domborzat",
       ro: "Relieful de coastă Rio Grande",
-      en: "Rio Grande Coastal Relief",
-image: "/poi-images/rio-grande-relief-v2.webp"
-},
+      en: "Rio Grande Coastal Relief"},
+    image: "/poi-images/rio-grande-relief-v2.webp",
     description: {
       de: "Die fjordähnliche Struktur des Rio Grande de Buba ist geologisch einzigartig in Westafrika und tief in das Küstenplateau eingeschnitten.",
       hu: "A Rio Grande de Buba fjord-szerű szerkezete geológiailag egyedülálló Nyugat-Afrikában, mélyen belevágva a tengerparti fennsíkba.",
@@ -302,9 +294,8 @@ image: "/poi-images/rio-grande-relief-v2.webp"
       de: "Bolama-Palmenhain",
       hu: "Bolama-pálmaliget",
       ro: "Palmierii din Bolama",
-      en: "Bolama Palm Grove",
-image: "/poi-images/bolama-palm-forest-relief-v2.webp"
-},
+      en: "Bolama Palm Grove"},
+    image: "/poi-images/bolama-palm-forest-relief-v2.webp",
     description: {
       de: "Die Insel Bolama ist von dichten Ölpalmenwäldern bedeckt, die sowohl wild wachsen als auch seit Generationen bewirtschaftet werden.",
       hu: "Bolama szigetét sűrű olajpálma-erdők borítják, amelyek vadon is nőnek, és generációk óta művelik őket.",
@@ -339,9 +330,8 @@ image: "/poi-images/bolama-palm-forest-relief-v2.webp"
       de: "Quinará-Hügelland",
       hu: "Quinará-dombság",
       ro: "Dealurile Quinará",
-      en: "Quinará Hills",
-image: "/poi-images/quinara-hills-relief-v2.webp"
-},
+      en: "Quinará Hills"},
+    image: "/poi-images/quinara-hills-relief-v2.webp",
     description: {
       de: "Die sanften Hügelketten der Quinará-Region bilden eine Wasserscheide zwischen den großen Flusssystemen des Südens.",
       hu: "Quinará régió szelíd dombvonulatai vízválasztót alkotnak a dél nagy folyórendszerei között.",
@@ -376,9 +366,8 @@ image: "/poi-images/quinara-hills-relief-v2.webp"
       de: "Gabú-Plateau",
       hu: "Gabú-fennsík",
       ro: "Podișul Gabú",
-      en: "Gabú Plateau",
-image: "/poi-images/gabu-plateau-relief-v2.webp"
-},
+      en: "Gabú Plateau"},
+    image: "/poi-images/gabu-plateau-relief-v2.webp",
     description: {
       de: "Das Gabú-Plateau im Osten ist eine trockene Hochebene, die den Übergang zur sahelischen Zone Westafrikas markiert.",
       hu: "A keleten fekvő Gabú-fennsík egy száraz felföld, amely Nyugat-Afrika száheli zónája felé való átmenetet jelzi.",
@@ -413,9 +402,8 @@ image: "/poi-images/gabu-plateau-relief-v2.webp"
       de: "Tombali-Regenwald",
       hu: "Tombali-esőerdő",
       ro: "Pădurea tropicală Tombali",
-      en: "Tombali Rainforest",
-image: "/poi-images/tombali-rainforest-relief-v2.webp"
-},
+      en: "Tombali Rainforest"},
+    image: "/poi-images/tombali-rainforest-relief-v2.webp",
     description: {
       de: "Im tiefen Süden von Tombali finden sich die letzten Reste des ursprünglichen westafrikanischen Regenwaldes in Guinea-Bissau.",
       hu: "Tombali mély déli részén találhatók az eredeti nyugat-afrikai esőerdők utolsó maradványai Bissau-Guineában.",
@@ -450,9 +438,8 @@ image: "/poi-images/tombali-rainforest-relief-v2.webp"
       de: "Cacheu-Ebene",
       hu: "Cacheu-síkság",
       ro: "Câmpia Cacheu",
-      en: "Cacheu Plain",
-image: "/poi-images/cacheu-plain-relief-v2.webp"
-},
+      en: "Cacheu Plain"},
+    image: "/poi-images/cacheu-plain-relief-v2.webp",
     description: {
       de: "Die Cacheu-Ebene ist eine flache Sedimentebene im Norden, die von zahlreichen Meeresarmen und Kanälen durchzogen ist.",
       hu: "A Cacheu-síkság egy északi üledékes síkság, amelyet számos tengeröböl és csatorna szel át.",
@@ -487,9 +474,8 @@ image: "/poi-images/cacheu-plain-relief-v2.webp"
       de: "Bubaque-Küstenfelsen",
       hu: "Bubaque-parti sziklák",
       ro: "Stâncile de coastă din Bubaque",
-      en: "Bubaque Coastal Rocks",
-image: "/poi-images/bubaque-coastal-relief-v2.webp"
-},
+      en: "Bubaque Coastal Rocks"},
+    image: "/poi-images/bubaque-coastal-relief-v2.webp",
     description: {
       de: "Die Küste von Bubaque zeigt interessante geologische Formationen aus Lateritgestein, das bei Ebbe weite Plateaus bildet.",
       hu: "Bubaque partvidéke érdekes lateritkőzet-formációkat mutat, amelyek apálykor széles fennsíkokat alkotnak.",
@@ -524,9 +510,8 @@ image: "/poi-images/bubaque-coastal-relief-v2.webp"
       de: "Rubane-Wald",
       hu: "Rubane-erdő",
       ro: "Pădurea Rubane",
-      en: "Rubane Forest",
-image: "/poi-images/rubane-forest-relief-v2.webp"
-},
+      en: "Rubane Forest"},
+    image: "/poi-images/rubane-forest-relief-v2.webp",
     description: {
       de: "Der dichte Wald der Insel Rubane ist ein Paradebeispiel für die unberührte Vegetation der Bijagós-Inseln.",
       hu: "Rubane szigetének sűrű erdője a Bijagós-szigetek érintetlen vegetációjának kiváló példája.",
@@ -561,9 +546,8 @@ image: "/poi-images/rubane-forest-relief-v2.webp"
       de: "Bafatá-Hügelland",
       hu: "Bafatá-dombság",
       ro: "Dealurile Bafatá",
-      en: "Bafatá Hills",
-image: "/poi-images/bafata-hills-relief-v2.webp"
-},
+      en: "Bafatá Hills"},
+    image: "/poi-images/bafata-hills-relief-v2.webp",
     description: {
       de: "Rund um die Stadt Bafatá erhebt sich das Gelände leicht und bildet eine malerische Hügellandschaft oberhalb des Geba-Flusses.",
       hu: "Bafatá városa körül a terep enyhén megemelkedik, festői dombvidéket alkotva a Geba-folyó felett.",
@@ -598,9 +582,8 @@ image: "/poi-images/bafata-hills-relief-v2.webp"
       de: "Farim-Senke",
       hu: "Farim-medence",
       ro: "Depresiunea Farim",
-      en: "Farim Depression",
-image: "/poi-images/farim-depression-relief-v2.webp"
-},
+      en: "Farim Depression"},
+    image: "/poi-images/farim-depression-relief-v2.webp",
     description: {
       de: "Die Senke von Farim im Norden des Landes ist bekannt für ihre Phosphatlagerstätten und das flache, weite Relief.",
       hu: "Az ország északi részén található Farim-medence foszfátlelőhelyeiről és sík, tágas domborzatáról ismert.",
@@ -635,9 +618,8 @@ image: "/poi-images/farim-depression-relief-v2.webp"
       de: "Biombo-Küstensumpf",
       hu: "Biombo-parti mocsár",
       ro: "Mlaștina de coastă Biombo",
-      en: "Biombo Coastal Swamp",
-image: "/poi-images/biombo-coastal-swamp-relief-v2.webp"
-},
+      en: "Biombo Coastal Swamp"},
+    image: "/poi-images/biombo-coastal-swamp-relief-v2.webp",
     description: {
       de: "Das Marsch- und Sumpfland von Biombo ist ein Übergangsrelief zwischen den sandigen Küsten und den inneren Flussebenen.",
       hu: "Biombo mocsárvidéke egy átmeneti domborzat a homokos partok és a belső folyómenti síkságok között.",
@@ -672,9 +654,8 @@ image: "/poi-images/biombo-coastal-swamp-relief-v2.webp"
       de: "Oio-Plateau",
       hu: "Oio-fennsík",
       ro: "Podișul Oio",
-      en: "Oio Plateau",
-image: "/poi-images/oio-plateau-relief-v2.webp"
-},
+      en: "Oio Plateau"},
+    image: "/poi-images/oio-plateau-relief-v2.webp",
     description: {
       de: "Die Oio-Region besteht überwiegend aus einem sanft gewellten Plateau, das für den großflächigen Landbau genutzt wird.",
       hu: "Az Oio-régió túlnyomórészt enyhén hullámzó fennsíkból áll, amelyet kiterjedt mezőgazdasági művelésre használnak.",
@@ -709,9 +690,8 @@ image: "/poi-images/oio-plateau-relief-v2.webp"
       de: "Galinhas-Wald",
       hu: "Galinhas-erdő",
       ro: "Pădurea Galinhas",
-      en: "Galinhas Forest",
-image: "/poi-images/galinhas-forest-relief-v2.webp"
-},
+      en: "Galinhas Forest"},
+    image: "/poi-images/galinhas-forest-relief-v2.webp",
     description: {
       de: "Die Insel Galinhas beherbergt eine dichte Mischvegetation aus Palmen und tropischen Laubbäumen.",
       hu: "Galinhas szigete pálmákból és trópusi lombhullató fákból álló sűrű vegyes vegetációnak ad otthont.",

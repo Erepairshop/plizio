@@ -72,146 +72,6 @@ export const portugalCountry: POI = {
 
 export const portugalRegions: POI[] = [
   {
-    id: "city-lisbon",
-    type: "city",
-    parent: "portugal",
-    coords: [-9.1393, 38.7223],
-    name: { de: "Lissabon", hu: "Lisszabon", ro: "Lisabona", en: "Lisbon" },
-    description: {
-      de: "Lissabon ist die Hauptstadt Portugals, eine charmante Stadt auf sieben Hügeln, bekannt für ihre gelben Straßenbahnen, den melancholischen Fado und die prächtige Belém-Architektur.",
-      hu: "Lisszabon Portugália fővárosa, egy bájos város hét dombon, amely sárga villamosairól, melankolikus fado zenéjéről és Belém pompás építészetéről ismert.",
-      ro: "Lisabona este capitala Portugaliei, un oraș fermecător pe șapte dealuri, cunoscut pentru tramvaiele sale galbene, muzica Fado melancolică și arhitectura magnifică din Belém.",
-      en: "Lisbon is the capital of Portugal, a charming city on seven hills, known for its yellow trams, soulful Fado music, and the magnificent Belém architecture."
-    },
-    descriptionAdvanced: {
-      en: "Lisbon, the sun-drenched capital of Portugal, is one of the oldest and most charismatic cities in Western Europe. Built on seven hills overlooking the wide estuary of the Tagus River, it offers a unique blend of historic grandeur and contemporary vibrancy. The city's history is etched into its diverse neighborhoods, from the labyrinthine, cobblestone alleys of Alfama—the oldest district that miraculously survived the devastating 1755 earthquake—to the elegant, grid-like streets of Baixa, rebuilt by the Marquis of Pombal. Lisbon's golden age during the 15th and 16th centuries, the Age of Discovery, is immortalized in the grand monuments of Belém, such as the Jerónimos Monastery and the Belém Tower, both UNESCO World Heritage sites. The city is famous for its iconic yellow trams, particularly the legendary Number 28, which creaks through the steepest and narrowest streets, offering a nostalgic journey through time. Lisbon's cultural life is deeply rooted in Fado, the soulful and melancholic music that echoes from the taverns of Mouraria and Alfama, expressing the uniquely Portuguese sentiment of 'saudade'. Modern Lisbon is a thriving hub of innovation and creativity, home to world-class museums like the Calouste Gulbenkian and the MAAT, which showcases cutting-edge art and architecture on the riverfront. The city's numerous 'miradouros' (viewpoints) provide breathtaking panoramas of terracotta rooftops, historic domes, and the iconic 25 de Abril Bridge, which bears a striking resemblance to San Francisco's Golden Gate. Gastronomy is a cornerstone of the Lisbon experience, ranging from the world-famous Pastéis de Belém custard tarts to fresh Atlantic seafood enjoyed in bustling 'cervejarias'. As the sun sets, the Bairro Alto district comes alive with a vibrant nightlife, where narrow streets transform into a massive open-air party. Lisbon's enduring appeal lies in its ability to honor its ancient roots while embracing a forward-looking spirit, making it a city that captures the heart of every traveler. Whether you are exploring the ruins of the Carmo Convent, wandering through the trendy shops of Chiado, or simply enjoying a 'bica' (espresso) at a sidewalk café, Lisbon invites you to slow down and savor its luminous beauty and timeless charm.",
-      de: "Lissabon, die sonnenverwöhnte Hauptstadt Portugals, ist eine der ältesten und charismatischsten Städte Westeuropas. Erbaut auf sieben Hügeln mit Blick auf die weite Mündung des Tejo, bietet sie eine einzigartige Mischung aus historischer Pracht und zeitgenössischer Lebendigkeit. Die Geschichte der Stadt ist in ihre vielfältigen Viertel eingraviert, von den labyrinthartigen, kopfsteingepflasterten Gassen der Alfama – dem ältesten Viertel, das das verheerende Erdbeben von 1755 wie durch ein Wunder überlebte – bis zu den eleganten, schachbrettartigen Straßen der Baixa, die vom Marquis von Pombal wiederaufgebaut wurden. Lissabons goldenes Zeitalter im 15. und 16. Jahrhundert, das Zeitalter der Entdeckungen, ist in den prächtigen Monumenten von Belém verewigt, wie dem Hieronymus-Kloster und dem Turm von Belém, beides UNESCO-Weltkulturerbestätten. Die Stadt ist berühmt für ihre ikonischen gelben Straßenbahnen, insbesondere die legendäre Linie 28, die durch die steilsten und engsten Straßen knarrt und eine nostalgische Zeitreise bietet. Lissabons kulturelles Leben ist tief im Fado verwurzelt, der gefühlvollen und melancholischen Musik, die aus den Tavernen von Mouraria und Alfama widerhallt und das einzigartig portugiesische Gefühl der 'Saudade' ausdrückt. Das moderne Lissabon ist ein blühendes Zentrum für Innovation und Kreativität, Heimat von Weltklasse-Museen wie dem Calouste Gulbenkian und dem MAAT, das modernste Kunst und Architektur am Flussufer präsentiert. Die zahlreichen 'Miradouros' (Aussichtspunkte) der Stadt bieten atemberaubende Panoramen auf Terrakotta-Dächer, historische Kuppeln und die ikonische Brücke des 25. April, die eine verblüffende Čhnlichkeit mit der Golden Gate Bridge in San Francisco aufweist. Die Gastronomie ist ein Eckpfeiler des Lissabon-Erlebnisses und reicht von den weltberühmten Pastéis de Belém-Sorgerechts-Törtchen bis hin zu frischen atlantischen Meeresfrüchten, die in belebten 'Cervejarias' genossen werden. Wenn die Sonne untergeht, erwacht das Viertel Bairro Alto mit einem pulsierenden Nachtleben zum Leben, in dem sich enge Gassen in eine riesige Open-Air-Party verwandeln. Lissabons anhaltende Anziehungskraft liegt in seiner Fähigkeit, seine alten Wurzeln zu ehren und gleichzeitig einen zukunftsorientierten Geist zu bewahren, was es zu einer Stadt macht, die das Herz jedes Reisenden erobert. Ob Sie die Ruinen des Carmo-Konvents erkunden, durch die trendigen Geschäfte des Chiado schlendern oder einfach eine 'Bica' (Espresso) in einem Straßencafé genießen, Lissabon lädt Sie ein, langsamer zu werden und seine leuchtende Schönheit und seinen zeitlosen Charme zu genießen.",
-      hu: "Lisszabon, Portugália napsütötte fővárosa, Nyugat-Európa egyik legrégebbi és legkarizmatikusabb városa. A Tejo-folyó széles torkolatára néző hét dombra épült város a történelmi nagyszerűség és a kortárs vibrálás egyedülálló keverékét kínálja. A város történelme beivódott változatos negyedeibe, az Alfama labirintusszerű, macskaköves sikátoraitól – a legrégebbi negyedtől, amely csodával határos módon túlélte az 1755-ös pusztító földrengést – a Baixa elegáns, négyzethálós utcáiig, amelyeket Pombal márki építtetett újjá. Lisszabon 15. és 16. századi aranykora, a felfedezések kora, Belém nagyszerű műemlékeiben öröklődött meg, mint például a Jeromos-kolostor és a Belém-torony, amelyek mindketten az UNESCO Világörökség részei. A város híres ikonikus sárga villamosairól, különösen a legendás 28-as járatról, amely a legmeredekebb és legszűkebb utcákon csikorog végig, nosztalgikus időutazást kínálva. Lisszabon kulturális élete mélyen gyökerezik a fadóban, abban a lélekkel teli és melankolikus zenében, amely Mouraria és Alfama tavernáiból árad, kifejezve az egyedülálló portugál életérzést, a 'saudade'-ot. A modern Lisszabon az innováció és a kreativitás virágzó központja, olyan világszínvonalú múzeumok otthona, mint a Calouste Gulbenkian és a MAAT, amely élvonalbeli művészetet és építészetet mutat be a folyóparton. A város számos 'miradouro'-ja (kilátója) lélegzetelállító panorámát nyújt a terrakotta tetőkre, történelmi kupolákra és az ikonikus Április 25. hídra, amely kísértetiesen hasonlít a San Francisco-i Golden Gate hídra. A gasztronómia a lisszaboni élmény alapköve, a világhírű Pastéis de Belém krémes süteményektől a nyüzsgő 'cervejariákban' fogyasztott friss atlanti tengeri ételekig. Ahogy a nap lemegy, a Bairro Alto negyed életre kel vibráló éjszakai életével, ahol a szűk utcák egy hatalmas szabadtéri bulivá alakulnak. Lisszabon tartós vonzereje abban rejlik, hogy képes tisztelni ősi gyökereit, miközben befogadja az előretekintő szellemet, így olyan várossá válik, amely minden utazó szívét rabul ejti. Akár a Carmo-kolostor romjait fedezi fel, akár Chiado divatos üzletei között barangol, vagy egyszerűen csak egy 'bicát' (eszpresszót) élvez egy utcai kávézóban, Lisszabon arra hívja, hogy lassítson le, és élvezze ragyogó szépségét és időtlen báját.",
-      ro: "Lisabona, capitala însorită a Portugaliei, este unul dintre cele mai vechi și mai carismatice orașe din Europa de Vest. Construit pe șapte dealuri cu vedere la estuarul larg al râului Tagus, oferă un amestec unic de măreție istorică și vibrație contemporană. Istoria orașului este gravată în cartierele sale diverse, de la străduțele labirintice și pietruite din Alfama — cel mai vechi district care a supraviețuit miraculos cutremurului devastator din 1755 — la străzile elegante, în formă de grilă, din Baixa, reconstruite de Marchizul de Pombal. Epoca de aur a Lisabonei din secolele XV și XVI, Epoca Descoperirilor, este imortalizată în marile monumente din Belém, cum ar fi Mănăstirea Jerónimos și Turnul Belém, ambele situri ale Patrimoniului Mondial UNESCO. Orașul este faimos pentru tramvaiele sale galbene iconice, în special legendarul număr 28, care scârțâie pe cele mai abrupte și înguste străzi, oferind o călătorie nostalgică prin timp. Viața culturală a Lisabonei este profund înrădăcinată în Fado, muzica plină de suflet și melancolie care răsună din tavernele din Mouraria și Alfama, exprimând sentimentul unic portughez de 'saudade'. Lisabona modernă este un centru înfloritor de inovație și creativitate, găzduind muzee de talie mondială precum Calouste Gulbenkian și MAAT, care prezintă artă și arhitectură de ultimă oră pe malul râului. Numeroasele 'miradouros' (puncte de belvedere) ale orașului oferă panorame uluitoare ale acoperișurilor de teracotă, cupolelor istorice și iconicului Pod 25 Aprilie, care seamănă izbitor cu Golden Gate din San Francisco. Gastronomia este o piatră de temelie a experienței lisaboneze, variind de la faimoasele tarte cu cremă Pastéis de Belém la fructe de mare proaspete din Atlantic savurate în 'cervejarias' pline de viață. Pe măsură ce soarele apune, cartierul Bairro Alto prinde viață cu o viață de noapte vibrantă, unde străzile înguste se transformă într-o petrecere masivă în aer liber. Atractivitatea durabilă a Lisabonei constă în capacitatea sa de a-și onora rădăcinile antice, îmbrățișând în același timp un spirit orientat spre viitor, făcându-l un oraș care cucerește inima fiecărui călător. Fie că explorați ruinele Conventului Carmo, vă plimbați prin magazinele la modă din Chiado sau pur și simplu savurați o 'bica' (espresso) la o cafenea de pe trotuar, Lisabona vă invită să încetiniți și să vă bucurați de frumusețea sa luminoasă și farmecul atemporal."
-    },
-    facts: {
-      en: [
-        "Lisbon is one of the oldest cities in the world, predating Rome, London, and Paris by centuries.",
-        "The city was almost completely destroyed by a massive earthquake, tsunami, and fires in 1755.",
-        "The iconic yellow Tram 28 is a vintage vehicle from the 1930s that still serves the historic districts.",
-        "Lisbon's Oceanarium is the largest indoor aquarium in Europe and houses over 8,000 sea creatures.",
-        "The 25 de Abril Bridge is often compared to the Golden Gate Bridge because of its color and design.",
-        "The Vasco da Gama Bridge is the second-longest bridge in Europe, stretching over 12 kilometers.",
-        "Lisbon is known as the 'City of the Seven Hills', similar to Rome and Istanbul.",
-        "The Jerónimos Monastery took 100 years to build and is a masterpiece of Manueline architecture.",
-        "The Bertrand Bookstore in Chiado is recognized by Guinness World Records as the oldest in the world.",
-        "Lisbon's pink street in Cais do Sodré was once the city's red-light district and is now a nightlife hotspot."
-      ],
-      de: [
-        "Lissabon ist eine der ältesten Städte der Welt und geht Rom, London und Paris um Jahrhunderte voraus.",
-        "Die Stadt wurde 1755 durch ein massives Erdbeben, einen Tsunami und Brände fast vollständig zerstört.",
-        "Die ikonische gelbe Straßenbahn 28 ist ein Oldtimer-Fahrzeug aus den 1930er Jahren, das immer noch die historischen Viertel bedient.",
-        "Das Ozeanarium von Lissabon ist das größte Indoor-Aquarium Europas und beherbergt über 8.000 Meerestiere.",
-        "Die Brücke des 25. April wird aufgrund ihrer Farbe und ihres Designs oft mit der Golden Gate Bridge verglichen.",
-        "Die Vasco-da-Gama-Brücke ist mit über 12 Kilometern die zweitlängste Brücke Europas.",
-        "Lissabon ist als 'Stadt der sieben Hügel' bekannt, ähnlich wie Rom und Istanbul.",
-        "Der Bau des Hieronymus-Klosters dauerte 100 Jahre und ist ein Meisterwerk der manuelinischen Architektur.",
-        "Die Buchhandlung Bertrand im Chiado ist laut Guinness-Buch der Rekorde die älteste der Welt.",
-        "Lissabons rosa Straße in Cais do Sodré war einst das Rotlichtviertel der Stadt und ist heute ein Hotspot des Nachtlebens."
-      ],
-      hu: [
-        "Lisszabon a világ egyik legrégebbi városa, évszázadokkal megelőzi Rómát, Londont és Párizst.",
-        "A várost 1755-ben egy hatalmas földrengés, szökőár és tűzvészek szinte teljesen elpusztították.",
-        "Az ikonikus sárga 28-as villamos egy 1930-as évekből származó veterán jármű, amely ma is a történelmi negyedeket szolgálja.",
-        "A lisszaboni óceanárium Európa legnagyobb fedett akváriuma, és több mint 8000 tengeri élőlénynek ad otthont.",
-        "Az Április 25. hidat színe és kialakítása miatt gyakran hasonlítják a Golden Gate hídhoz.",
-        "A Vasco da Gama híd Európa második leghosszabb hídja, hossza meghaladja a 12 kilométert.",
-        "Lisszabont a 'hét domb városaként' ismerik, hasonlóan Rómához és Isztambulhoz.",
-        "A Jeromos-kolostor építése 100 évig tartott, és a mánuel stílusú építészet remekműve.",
-        "A chiadói Bertrand könyvesboltot a Guinness Rekordok Könyve a világ legrégebbi könyvesboltjaként ismeri el.",
-        "Lisszabon rózsaszín utcája Cais do Sodréban egykor a város vöröslámpás negyede volt, ma pedig az éjszakai élet központja."
-      ],
-      ro: [
-        "Lisabona este unul dintre cele mai vechi orașe din lume, precedând Roma, Londra și Parisul cu secole.",
-        "Orașul a fost aproape complet distrus de un cutremur masiv, tsunami și incendii în 1755.",
-        "Iconicul tramvai galben 28 este un vehicul de epocă din anii 1930 care deservește și astăzi districtele istorice.",
-        "Oceanariul din Lisabona este cel mai mare acvariu interior din Europa și găzduiește peste 8.000 de creaturi marine.",
-        "Podul 25 Aprilie este adesea comparat cu Podul Golden Gate datorită culorii și designului său.",
-        "Podul Vasco da Gama este al doilea cel mai lung pod din Europa, întinzându-se pe mai mult de 12 kilometri.",
-        "Lisabona este cunoscută sub numele de 'Orașul celor șapte dealuri', similar cu Roma și Istanbul.",
-        "Mănăstirea Jerónimos a fost construită în 100 de ani și este o capodoperă a arhitecturii manueline.",
-        "Librăria Bertrand din Chiado este recunoscută de Guinness World Records ca fiind cea mai veche din lume.",
-        "Strada roz din Lisabona, în Cais do Sodré, a fost odinioară cartierul roșu al orașului și este acum un punct fierbinte al vieții de noapte."
-      ]
-    },
-    image: "/geo-images/portugal/lisbon.webp",
-  },
-  {
-    id: "city-porto",
-    type: "city",
-    parent: "portugal",
-    coords: [-8.6291, 41.1579],
-    name: { de: "Porto", hu: "Porto", ro: "Porto", en: "Porto" },
-    description: {
-      de: "Porto ist die zweitgrößte Stadt Portugals, bekannt für ihre malerische Altstadt am Douro, die beeindruckende Dom-Luís-I.-Brücke und den weltberühmten Portwein.",
-      hu: "Porto Portugália második legnagyobb városa, amely a Douro-parti festői óvárosáról, a lenyűgöző I. Lajos hídról és a világhírű portói borról ismert.",
-      ro: "Porto este al doilea oraș ca mărime din Portugalia, cunoscut pentru centrul său vechi pitoresc de pe malul râului Douro, impresionantul pod Dom Luís I și faimosul vin de Porto.",
-      en: "Porto is the second-largest city in Portugal, known for its picturesque old town on the Douro, the impressive Dom Luís I Bridge, and the world-famous Port wine."
-    },
-    descriptionAdvanced: {
-      en: "Porto, the 'Invicta' (unconquered) city, is a mesmerizing blend of medieval charm, industrial heritage, and world-class wine culture. Perched on the steep banks of the Douro River in Northern Portugal, it is the country's second-largest city and the place that gave Portugal its name. The city's heart is the Ribeira district, a UNESCO World Heritage site where colorful, ancient houses lean against each other along narrow, winding cobbled streets. Porto's skyline is dominated by the Clérigos Tower and the massive Sé Cathedral, while the iconic Dom Luís I Bridge, a double-deck iron masterpiece designed by a disciple of Gustave Eiffel, connects the city to Vila Nova de Gaia. It is in Gaia that the world-famous Port wine is aged in vast, historic cellars, offering visitors a chance to delve into the rich history of this fortified wine. Porto is a city of stunning interiors, from the opulent, gold-covered Church of São Francisco to the breathtaking São Bento Railway Station, whose walls are adorned with over 20,000 blue-and-white azulejo tiles depicting pivotal moments in Portuguese history. For book lovers, the Livraria Lello, with its neo-Gothic facade and majestic red staircase, is often cited as one of the most beautiful bookstores in the world and a source of inspiration for the Harry Potter series. Modern Porto is equally captivating, featuring the striking Casa da Música, a contemporary architectural icon designed by Rem Koolhaas, and the Serralves Museum of Contemporary Art, set within a magnificent park. The city's culinary scene is legendary, centered around the hearty Francesinha sandwich—a multi-layered masterpiece of meats, cheese, and a secret spicy sauce—and fresh seafood from the nearby Atlantic coast. Porto's atmosphere is defined by its hardworking yet welcoming people, the morning mist rising from the Douro, and the vibrant energy of its traditional markets like Bolhão. Whether you are taking a traditional Rabelo boat cruise under the city's six bridges, exploring the trendy galleries of Rua de Miguel Bombarda, or enjoying a sunset at the Jardim do Morro, Porto offers an authentic and deeply soulful experience. Its unique character, where grit meets elegance, ensures that every visitor leaves with a piece of the city in their heart. Porto is not just a destination; it is a sensory journey through centuries of history, art, and tradition, all washed down with a glass of its finest vintage.",
-      de: "Porto, die 'Invicta' (unbesiegte) Stadt, ist eine faszinierende Mischung aus mittelalterlichem Charme, industriellem Erbe und Weltklasse-Weinkultur. An den steilen Ufern des Douro im Norden Portugals gelegen, ist sie die zweitgrößte Stadt des Landes und der Ort, der Portugal seinen Namen gab. Das Herz der Stadt ist das Viertel Ribeira, ein UNESCO-Weltkulturerbe, in dem sich bunte, alte Häuser in engen, gewundenen Kopfsteinpflastergassen aneinanderlehnen. Portos Skyline wird vom Clérigos-Turm und der massiven Sé-Kathedrale dominiert, während die ikonische Dom-Luís-I-Brücke, ein doppelstöckiges Eisenmeisterwerk, das von einem Schüler Gustave Eiffels entworfen wurde, die Stadt mit Vila Nova de Gaia verbindet. In Gaia reift der weltberühmte Portwein in riesigen, historischen Kellern und bietet Besuchern die Möglichkeit, in die reiche Geschichte dieses verstärkten Weins einzutauchen. Porto ist eine Stadt mit beeindruckenden Innenräumen, von der opulenten, goldbedeckten Kirche São Francisco bis zum atemberaubenden Bahnhof São Bento, dessen Wände mit über 20.000 blau-weißen Azulejo-Kacheln geschmückt sind, die entscheidende Momente der portugiesischen Geschichte darstellen. Für Buchliebhaber wird die Livraria Lello mit ihrer neugotischen Fassade und der majestätischen roten Treppe oft als eine der schönsten Buchhandlungen der Welt und als Inspirationsquelle für die Harry-Potter-Serie angeführt. Das moderne Porto ist ebenso fesselnd und bietet die markante Casa da Música, eine zeitgenössische Architekturikone von Rem Koolhaas, und das Serralves-Museum für zeitgenössische Kunst, das in einem herrlichen Park liegt. Die kulinarische Szene der Stadt ist legendär und konzentriert sich auf das herzhafte Francesinha-Sandwich – ein vielschichtiges Meisterwerk aus Fleisch, Käse und einer geheimen würzigen Sauce – sowie auf frische Meeresfrüchte von der nahe gelegenen Atlantikküste. Portos Atmosphäre ist geprägt von seinen hart arbeitenden und doch gastfreundlichen Menschen, dem Morgennebel, der vom Douro aufsteigt, und der lebendigen Energie seiner traditionellen Märkte wie Bolhão. Ob Sie eine traditionelle Rabelo-Bootsfahrt unter den sechs Brücken der Stadt unternehmen, die trendigen Galerien der Rua de Miguel Bombarda erkunden oder einen Sonnenuntergang im Jardim do Morro genießen, Porto bietet ein authentisches und tiefgründiges Erlebnis. Sein einzigartiger Charakter, in dem Rauheit auf Eleganz trifft, sorgt dafür, dass jeder Besucher ein Stück der Stadt im Herzen behält. Porto ist nicht nur ein Reiseziel; es ist eine Reise der Sinne durch Jahrhunderte von Geschichte, Kunst und Tradition, abgerundet mit einem Glas seines feinsten Jahrgangs.",
-      hu: "Porto, az 'Invicta' (legyőzhetetlen) város, a középkori báj, az ipari örökség és a világszínvonalú borkultúra lenyűgöző keveréke. Észak-Portugáliában, a Douro-folyó meredek partján fekszik; ez az ország második legnagyobb városa, és az a hely, amely Portugáliának a nevét adta. A város szíve a Ribeira negyed, az UNESCO Világörökség része, ahol színes, ősi házak támaszkodnak egymásnak a szűk, kanyargós macskaköves utcák mentén. Porto látképét a Clérigos-torony és a hatalmas Sé-székesegyház uralja, míg az ikonikus Dom Luís I. híd, Gustave Eiffel egyik tanítványa által tervezett kétszintes vas remekmű, köti össze a várost Vila Nova de Gaiával. Gaiában érlelik a világhírű portói bort hatalmas, történelmi pincékben, lehetőséget kínálva a látogatóknak, hogy elmerüljenek e dúsított bor gazdag történelmében. Porto a lenyűgöző belső terek városa, az arannyal borított São Francisco-templomtól a lélegzetelállító São Bento vasútállomásig, amelynek falait több mint 20 000 kék-fehér azulejo csempe díszíti, a portugál történelem sorsfordító pillanatait ábrázolva. A könyvbarátok számára a Livraria Lello, neogótikus homlokzatával és fenséges vörös lépcsőjével, a világ egyik legszebb könyvesboltjaként ismert, és a Harry Potter-sorozat ihletőjeként is emlegetik. A modern Porto hasonlóan magával ragadó, itt található a feltűnő Casa da Música, a Rem Koolhaas által tervezett kortárs építészeti ikon, valamint a Serralves Kortárs Művészeti Múzeum, amely egy csodálatos parkban fekszik. A város gasztronómiája legendás, középpontjában a laktató Francesinha szendvics áll – húsokból, sajtból és egy titkos fűszeres szószból álló többrétegű remekmű –, valamint a közeli atlanti partvidékről származó friss tengeri ételek. Porto hangulatát a szorgalmas, mégis vendégszerető emberek, a Douróról felszálló reggeli köd és a hagyományos piacok, például a Bolhão vibráló energiája határozza meg. Akár egy hagyományos Rabelo hajókiránduláson vesz részt a város hat hídja alatt, akár a Rua de Miguel Bombarda divatos galériáit fedezi fel, vagy a Jardim do Morro-ban élvezi a naplementét, Porto autentikus és mélyen lélekkel teli élményt nyújt. Egyedülálló karaktere, ahol a nyers erő találkozik az eleganciával, garantálja, hogy minden látogató a szívében őriz meg egy darabot a városból. Porto nem csupán egy úti cél; ez egy érzékszervi utazás évszázadok történelmén, művészetén és hagyományain keresztül, mindezt egy pohár legfinomabb borral megkoronázva.",
-      ro: "Porto, orașul 'Invicta' (necucerit), este un amestec fascinant de farmec medieval, moștenire industrială și cultură a vinului de talie mondială. Cocoțat pe malurile abrupte ale râului Douro, în nordul Portugaliei, este al doilea oraș ca mărime din țară și locul care a dat numele Portugaliei. Inima orașului este cartierul Ribeira, un sit al Patrimoniului Mondial UNESCO unde case colorate și vechi se sprijină una de cealaltă de-a lungul străzilor înguste și șerpuite cu piatră cubică. Orizontul orașului Porto este dominat de Turnul Clérigos și de masiva Catedrală Sé, în timp ce iconicul Pod Dom Luís I, o capodoperă de fier cu două etaje proiectată de un discipol al lui Gustave Eiffel, conectează orașul de Vila Nova de Gaia. În Gaia, faimosul vin de Porto este învechit în pivnițe vaste și istorice, oferind vizitatorilor șansa de a pătrunde în istoria bogată a acestui vin fortificat. Porto este un oraș al interioarelor uimitoare, de la opulenta Biserică São Francisco, acoperită cu aur, până la uluitoarea Gară São Bento, ai cărei pereți sunt împodobiți cu peste 20.000 de plăci de azulejo alb-albastru care înfățișează momente esențiale din istoria Portugaliei. Pentru iubitorii de carte, Livraria Lello, cu fațada sa neogotică și scara roșie maiestuoasă, este adesea citată ca fiind una dintre cele mai frumoase librării din lume și o sursă de inspirație pentru seria Harry Potter. Porto modern este la fel de captivant, prezentând frapanta Casa da Música, o pictogramă arhitecturală contemporană proiectată de Rem Koolhaas, și Muzeul de Artă Contemporană Serralves, situat întrun parc magnific. Scena culinară a orașului este legendară, centrată pe consistentul sandviș Francesinha — o capodoperă multistratificată de carne, brânză și un sos picant secret — și fructe de mare proaspete de pe coasta atlantică din apropiere. Atmosfera orașului Porto este definită de oamenii săi muncitori, dar primitori, de ceața dimineții care se ridică din Douro și de energia vibrantă a piețelor sale tradiționale, cum ar fi Bolhão. Fie că faceți o croazieră tradițională cu barca Rabelo pe sub cele șase poduri ale orașului, explorați galeriile la modă de pe Rua de Miguel Bombarda sau vă bucurați de un apus de soare la Jardim do Morro, Porto oferă o experiență autentică și profundă. Caracterul său unic, unde asprimea întâlnește eleganța, asigură că fiecare vizitator pleacă cu o bucată din oraș în inimă. Porto nu este doar o destinație; este o călătorie senzorială prin secole de istorie, artă și tradiție, totul acompaniat de un pahar din cel mai bun vin de Porto."
-    },
-    facts: {
-      en: [
-        "Porto is the city that gave Portugal its name (from the Roman name Portus Cale).",
-        "The historic center of Porto and the Ribeira district have been UNESCO World Heritage sites since 1996.",
-        "The Dom Luís I Bridge was the longest iron arch bridge in the world at the time of its completion in 1886.",
-        "Port wine is exclusively produced in the Douro Valley and aged in the cellars of Vila Nova de Gaia.",
-        "The São Bento Railway Station features 20,000 azulejo tiles that took 11 years to complete.",
-        "Livraria Lello is famous for its stunning architecture and its connection to the Harry Potter universe.",
-        "The Francesinha, Porto's signature sandwich, was inspired by the French Croque Monsieur.",
-        "Porto is known as the 'City of Bridges' because of the six bridges that span the Douro River.",
-        "The Clérigos Tower was once the tallest building in Portugal and served as a landmark for sailors.",
-        "Porto's football club, FC Porto, is one of the most successful in Portugal and has won the UEFA Champions League twice."
-      ],
-      de: [
-        "Porto ist die Stadt, die Portugal seinen Namen gab (vom römischen Namen Portus Cale).",
-        "Das historische Zentrum von Porto und das Viertel Ribeira sind seit 1996 UNESCO-Weltkulturerbe.",
-        "Die Dom-Luís-I-Brücke war zum Zeitpunkt ihrer Fertigstellung im Jahr 1886 die längste Eisenbogenbrücke der Welt.",
-        "Portwein wird ausschließlich im Douro-Tal hergestellt und in den Kellern von Vila Nova de Gaia gelagert.",
-        "Der Bahnhof São Bento verfügt über 20.000 Azulejo-Kacheln, deren Fertigstellung 11 Jahre dauerte.",
-        "Die Livraria Lello ist berühmt für ihre beeindruckende Architektur und ihre Verbindung zum Harry-Potter-Universum.",
-        "Die Francesinha, Portos typisches Sandwich, wurde vom französischen Croque Monsieur inspiriert.",
-        "Porto ist als 'Stadt der Brücken' bekannt, da sechs Brücken den Douro überspannen.",
-        "Der Clérigos-Turm war einst das höchste Gebäude Portugals und diente Seefahrern als Orientierungspunkt.",
-        "Portos Fußballverein, der FC Porto, ist einer der erfolgreichsten in Portugal und hat zweimal die UEFA Champions League gewonnen."
-      ],
-      hu: [
-        "Porto az a város, amely Portugáliának a nevét adta (a római Portus Cale névből).",
-        "Porto történelmi központja és a Ribeira negyed 1996 óta az UNESCO Világörökség része.",
-        "A Dom Luís I. híd 1886-os átadásakor a világ leghosszabb vashídja volt.",
-        "A portói bort kizárólag a Douro-völgyben termelik, és Vila Nova de Gaia pincéiben érlelik.",
-        "A São Bento vasútállomás 20 000 azulejo csempéje 11 év alatt készült el.",
-        "A Livraria Lello híres lenyűgöző építészetéről és a Harry Potter-univerzumhoz való kötődéséről.",
-        "A Francesinha, Porto jellegzetes szendvicse, a francia Croque Monsieur mintájára készült.",
-        "Portót a 'hidak városaként' ismerik a Douro-folyón átívelő hat hídja miatt.",
-        "A Clérigos-torony egykor Portugália legmagasabb épülete volt, és jelzőpontként szolgált a hajósoknak.",
-        "Porto futballklubja, az FC Porto, Portugália egyik legsikeresebb csapata, kétszer nyerte meg az UEFA Bajnokok Ligáját."
-      ],
-      ro: [
-        "Porto este orașul care a dat numele Portugaliei (de la numele roman Portus Cale).",
-        "Centrul istoric al orașului Porto și cartierul Ribeira sunt situri ale Patrimoniului Mondial UNESCO din 1996.",
-        "Podul Dom Luís I a fost cel mai lung pod cu arc de fier din lume la momentul finalizării sale în 1886.",
-        "Vinul de Porto este produs exclusiv în Valea Douro și învechit în pivnițele din Vila Nova de Gaia.",
-        "Gara São Bento are 20.000 de plăci de azulejo a căror finalizare a durat 11 ani.",
-        "Livraria Lello este faimoasă pentru arhitectura sa uimitoare și legătura cu universul Harry Potter.",
-        "Francesinha, sandvișul emblematic al orașului Porto, a fost inspirat de Croque Monsieur-ul francez.",
-        "Porto este cunoscut sub numele de 'Orașul Podurilor' datorită celor șase poduri care traversează râul Douro.",
-        "Turnul Clérigos a fost odinioară cea mai înaltă clădire din Portugalia și a servit ca punct de reper pentru marinari.",
-        "Clubul de fotbal din Porto, FC Porto, este unul dintre cele mai de succes din Portugalia și a câștigat UEFA Champions League de două ori."
-      ]
-    },
-    image: "/geo-images/portugal/porto.webp",
-  },
-  {
     id: "reg-algarve",
     type: "region",
     parent: "portugal",
@@ -381,26 +241,6 @@ export const portugalCulture: POI[] = [
       en: ["Construction of the monastery began in 1501.", "Vasco da Gama is buried here.", "It was built from golden limestone.", "The monastery survived the 1755 earthquake almost undamaged.", "The cloister is considered one of the most beautiful in the world."]
     },
     image: "/geo-images/portugal/cult-jeronimos.webp"
-  },
-  {
-    id: "cult-torre-belem",
-    type: "landmark",
-    parent: "city-lisboa",
-    coords: [-9.2159, 38.6916],
-    name: { de: "Turm von Belém", hu: "Torre de Belém", ro: "Turnul Belém", en: "Belém Tower" },
-    description: {
-      de: "Der Turm von Belém ist ein Festungsturm im manuelinischen Stil in Lissabon. Er diente als Ausgangspunkt für viele Entdeckungsreisen und ist heute ein Wahrzeichen der Stadt.",
-      hu: "A Belém-torony egy mánuel stílusú erődtorony Lisszabonban. Számos felfedezőút kiindulópontjaként szolgált, és ma a város egyik jelképe.",
-      ro: "Turnul Belém este un turn fortificat în stil manuelin din Lisabona. A servit ca punct de plecare pentru multe călătorii de descoperire și este astăzi un simbol al orașului.",
-      en: "The Belém Tower is a Manueline-style fortified tower in Lisbon. It served as the starting point for many voyages of discovery and is now a landmark of the city."
-    },
-    facts: {
-      de: ["Der Turm wurde im 16. Jahrhundert erbaut.", "Er war ursprünglich von Wasser umgeben.", "Der Turm ist reich an maritimen Verzierungen.", "Er gehört zum UNESCO-Welterbe.", "Er diente auch als Gefängnis."],
-      hu: ["A torony a 16. században épült.", "Eredetileg teljesen víz vette körül.", "A torony gazdagon díszített tengeri motívumokkal.", "Az UNESCO világörökség része.", "Börtönként is szolgált."],
-      ro: ["Turnul a fost construit în secolul al XVI-lea.", "Inițial era complet înconjurat de apă.", "Turnul este bogat decorat cu motive maritime.", "Face parte din patrimoniul UNESCO.", "A servit și ca închisoare."],
-      en: ["The tower was built in the 16th century.", "It was originally completely surrounded by water.", "The tower is richly decorated with maritime motifs.", "It is part of the UNESCO World Heritage.", "It also served as a prison."]
-    },
-    image: "/geo-images/portugal/cult-torre-belem.webp"
   },
   {
     id: "cult-batalha",
@@ -1106,26 +946,6 @@ export const portugalNature: POI[] = [
     image: "/geo-images/portugal/douro-valley.webp",
   },
   {
-    id: "nat-douro",
-    type: "landmark",
-    parent: "portugal",
-    coords: [-7.8, 41.2],
-    name: { de: "Douro-Region", hu: "Douro-völgy", ro: "Regiunea Douro", en: "Douro Valley" },
-    description: {
-      de: "Die Douro-Region ist das älteste abgegrenzte Weinbaugebiet der Welt und gehört zum UNESCO-Welterbe. Die terrassierten Hänge entlang des Flusses bieten eine atemberaubende Kulisse für den Weinbau.",
-      hu: "A Douro-völgy a világ legrégebbi kijelölt borvidéke és az UNESCO világörökség része. A folyó menti teraszos domboldalak lélegzetelállító hátteret biztosítanak a szőlőtermesztéshez.",
-      ro: "Regiunea Douro este cea mai veche regiune viticolă demarcată din lume și face parte din patrimoniul UNESCO. Versanții terasați de-a lungul râului oferă un decor uluitor pentru viticultură.",
-      en: "The Douro Valley is the oldest demarcated wine region in the world and a UNESCO World Heritage site. The terraced hillsides along the river provide a breathtaking backdrop for viticulture."
-    },
-    facts: {
-      de: ["Wein wird hier seit über 2.000 Jahren angebaut.", "Es ist die Heimat des Portweins.", "Die Landschaft wurde über Jahrhunderte von Menschenhand geformt.", "Der Fluss entspringt in Spanien.", "Schifffahrten auf dem Douro sind sehr beliebt."],
-      hu: ["Több mint 2000 éve termelnek itt bort.", "Ez a portói bor hazája.", "A tájat évszázadok alatt emberi kéz formálta.", "A folyó Spanyolországban ered.", "A Douro-folyón való hajózás nagyon népszerű."],
-      ro: ["Vinul este produs aici de peste 2.000 de ani.", "Este patria vinului de Porto.", "Peisajul a fost modelat de mâna omului de-a lungul secolelor.", "Râul izvorăște din Spania.", "Croazierele pe Douro sunt foarte populare."],
-      en: ["Wine has been produced here for over 2,000 years.", "It is the home of Port wine.", "The landscape has been shaped by human hands over centuries.", "The river rises in Spain.", "Boat trips on the Douro are very popular."]
-    },
-    image: "/geo-images/portugal/nat-douro.webp"
-  },
-  {
     id: "nat-serra-estrela",
     type: "landmark",
     parent: "portugal",
@@ -1226,26 +1046,6 @@ export const portugalNature: POI[] = [
     image: "/geo-images/portugal/nat-peneda-geres.webp"
   },
   
-  {
-    id: "nat-serra-da-estrela",
-    type: "mountain",
-    parent: "portugal",
-    coords: [-7.614, 40.325],
-    name: { de: "Serra da Estrela", hu: "Serra da Estrela", ro: "Serra da Estrela", en: "Serra da Estrela" },
-    description: {
-      de: "Die Serra da Estrela ist das höchste Gebirge des portugiesischen Festlands und ein wichtiges Naturziel im Inland. Die Region bietet alpine Landschaften, Gletscherformen, Dörfer und Wintertourismus. Im Sommer locken Wanderwege und Panoramen, im Winter oft Schnee. Serra da Estrela ist ein starker SEO-Begriff für Berge, Natur und Zentralportugal.",
-      hu: "A Serra da Estrela Portugália szárazföldjének legmagasabb hegysége és fontos természeti célpont a belső területeken. A régió alpesi tájakat, gleccserformákat, falvakat és téli turizmust kínál. Nyáron túraösvények és panorámák, télen gyakran hó várja az utazókat. Serra da Estrela erős SEO-kulcsszó a hegyek, a természet és Közép-Portugália témájában.",
-      ro: "Serra da Estrela este cel mai înalt lanț muntos al Portugaliei continentale și o destinație naturală importantă în interior. Regiunea oferă peisaje alpine, forme glaciare, sate și turism de iarnă. Vara atrage prin trasee de drumeție și panorame, iar iarna apare adesea zăpada. Serra da Estrela este un cuvânt-cheie SEO puternic pentru munți, natură și Portugalia centrală.",
-      en: "Serra da Estrela is the highest mountain range on mainland Portugal and an important inland nature destination. The region offers alpine scenery, glacial landforms, villages, and winter tourism. In summer it attracts hikers and panoramas, while in winter it often gets snow. Serra da Estrela is a strong SEO keyword for mountains, nature, and central Portugal."
-    },
-    facts: {
-      de: ["Hier liegt der höchste Punkt des Festlands.", "Die Region ist im Winter oft schneereich.", "Sie ist berühmt für den Serra-Käse.", "Es gibt viele Wanderwege.", "Der Naturpark schützt die Landschaft."],
-      hu: ["Itt található a szárazföld legmagasabb pontja.", "A régió télen gyakran havas.", "Híres a Serra sajtról.", "Sok túraútvonal található itt.", "A természetvédelmi park védi a tájat."],
-      ro: ["Aici se află cel mai înalt punct al continentului.", "Regiunea are adesea zăpadă iarna.", "Este faimoasă pentru brânza Serra.", "Există multe trasee de drumeție.", "Parcul natural protejează peisajul."],
-      en: ["It holds the mainland's highest point.", "The region often gets snow in winter.", "It is famous for Serra cheese.", "There are many hiking trails.", "The natural park protects the landscape."]
-    },
-    image: "/geo-images/portugal/nat-serra-da-estrela.webp"
-  },
   {
     id: "nat-pico-mountain",
     type: "mountain",
@@ -1549,26 +1349,6 @@ export const portugalNature: POI[] = [
 ];
 
 export const portugalCities: POI[] = [
-  {
-    id: "city-lisboa",
-    type: "city",
-    parent: "portugal",
-    coords: [-9.1393, 38.7223],
-    name: { de: "Lissabon", hu: "Lisszabon", ro: "Lisabona", en: "Lisbon" },
-    description: {
-      de: "Lissabon, die Hauptstadt Portugals, ist bekannt für ihre historischen Viertel wie Alfama und Baixa. Die Stadt liegt an der Mündung des Tejo und bietet eine Mischung aus Tradition und Moderne.",
-      hu: "Lisszabon Portugália fővárosa, amely az Alfama és Baixa negyedek történelmi hangulatáról ismert. A Tejo folyó torkolatánál fekvő város a hagyomány és a modernitás különleges keverékét nyújtja.",
-      ro: "Lisabona, capitala Portugaliei, este cunoscută pentru cartierele sale istorice precum Alfama și Baixa. Orașul este situat la gura de vărsare a râului Tagus și oferă un amestec de tradiție și modernitate.",
-      en: "Lisbon, the capital of Portugal, is famous for its historic districts like Alfama and Baixa. Situated at the mouth of the Tagus River, the city offers a unique blend of tradition and modernity."
-    },
-    facts: {
-      de: ["Lissabon ist eine der ältesten Städte Westeuropas.", "Die Stadt ist berühmt für ihre gelben Straßenbahnen.", "Das Viertel Alfama überstand das große Erdbeben von 1755.", "Die Stadt ist auf sieben Hügeln erbaut.", "Lissabon ist die Heimat des Fado-Gesangs."],
-      hu: ["Lisszabon Nyugat-Európa egyik legrégebbi városa.", "A város híres a sárga villamosairól.", "Az Alfama negyed túlélte az 1755-ös nagy földrengést.", "A város hét dombra épült.", "Lisszabon a fado ének hazája."],
-      ro: ["Lisabona este unul dintre cele mai vechi orașe din Europa de Vest.", "Orașul este faimos pentru tramvaiele sale galbene.", "Cartierul Alfama a supraviețuit marelui cutremur din 1755.", "Orașul este construit pe șapte dealuri.", "Lisabona este patria cântului Fado."],
-      en: ["Lisbon is one of the oldest cities in Western Europe.", "The city is famous for its yellow trams.", "The Alfama district survived the great earthquake of 1755.", "The city is built on seven hills.", "Lisbon is the home of Fado singing."]
-    },
-    image: "/geo-images/portugal/city-lisboa.webp"
-  },
   {
     id: "city-coimbra",
     type: "city",
@@ -2352,26 +2132,6 @@ export const portugalCities: POI[] = [
       en: ["Ceramics are part of the city's identity.", "Barcelos is known for the rooster.", "Local workshops remain active.", "Tradition and sales work together.", "Northern Portugal benefits from the image."]
     },
     image: "/geo-images/portugal/industry-barcelos-ceramics.webp"
-  },
-  {
-    id: "kid-oceanario-lisbon",
-    type: "kid-landmark",
-    parent: "city-lisboa",
-    coords: [-9.0898, 38.7637],
-    name: { de: "Ozeanarium Lissabon", hu: "Lisszaboni Óceanárium", ro: "Oceanariul din Lisabona", en: "Lisbon Oceanarium" },
-    description: {
-      de: "Das Ozeanarium von Lissabon ist eine der beliebtesten Familienattraktionen Portugals. Die große Unterwasserwelt macht Meeresbiologie für Kinder und Erwachsene leicht zugänglich. Durch die Lage im modernen Ost-Lissabon passt es gut in eine Stadttour mit Freizeitfaktor. Für SEO zu Lissabon, Kindern und Atlantik-Tierwelt ist es sehr stark.",
-      hu: "A lisszaboni óceanárium Portugália egyik legnépszerűbb családi attrakciója. A nagy víz alatti világ könnyen érthetővé teszi a tengeri biológiát gyerekek és felnőttek számára. A modern kelet-lisszaboni fekvés jól illik egy városi, szabadidős programba. Lisszabon, gyerekek és atlanti állatvilág SEO-jához nagyon erős.",
-      ro: "Oceanariul din Lisabona este una dintre cele mai populare atracții de familie din Portugalia. Lumea subacvatică mare face biologia marină ușor de înțeles pentru copii și adulți. Poziția în estul modern al Lisabonei se potrivește bine într-un tur urban cu timp de relaxare. Pentru SEO despre Lisabona, copii și fauna Atlanticului, este foarte puternic.",
-      en: "Lisbon Oceanarium is one of Portugal's most popular family attractions. Its large underwater world makes marine biology easy to understand for children and adults. The modern eastern Lisbon location fits well into a city tour with leisure time. For SEO about Lisbon, kids, and Atlantic wildlife, it is very strong."
-    },
-    facts: {
-      de: ["Es gehört zu den bekanntesten Familienzielen der Stadt.", "Meerestiere stehen im Mittelpunkt.", "Der Standort liegt im modernen Ost-Lissabon.", "Das Aquarium ist ganzjährig attraktiv.", "Es verbindet Lernen und Spaß."],
-      hu: ["A város egyik legismertebb családi célpontja.", "A tengeri állatok állnak a középpontban.", "A helyszín a modern kelet-lisszaboni részen van.", "Az akvárium egész évben vonzó.", "Összeköti a tanulást és a szórakozást."],
-      ro: ["Este una dintre cele mai cunoscute destinații de familie.", "Animalele marine sunt în centrul atenției.", "Locația este în estul modern al Lisabonei.", "Acvariul este atractiv tot anul.", "Îmbină învățarea și distracția."],
-      en: ["It is one of the city's best-known family stops.", "Marine animals are the focus.", "The site is in modern eastern Lisbon.", "The aquarium is attractive year-round.", "It combines learning and fun."]
-    },
-    image: "/geo-images/portugal/kid-oceanario-lisbon.webp"
   },
   {
     id: "kid-zoomarine-algarve",

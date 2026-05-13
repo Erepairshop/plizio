@@ -367,23 +367,6 @@ export const netherlandsCities: POI[] = [
   }
   },
   {
-    id: "NL-CT-UTR", type: "city", parent: "NL-UT", coords: [5.12, 52.09],
-    name: { de: "Utrecht", hu: "Utrecht", ro: "Utrecht", en: "Utrecht" },
-    image: "/geo-images/netherlands/utrecht.webp",
-  description: {
-    de: "Utrecht, oft als gemütlichere Alternative zu Amsterdam betrachtet, ist eine pulsierende Universitätsstadt im Herzen der Niederlande. Ihr historisches Zentrum wird dominiert vom majestätischen Domturm, der höchsten Kirche des Landes. Die Oudegracht, der Hauptkanal der Stadt, ist einzigartig in Europa wegen ihrer Werftkeller, in denen heute Restaurants und Cafés direkt am Wasser liegen. Mit der größten Universität des Landes hat Utrecht eine junge und dynamische Bevölkerung.",
-    hu: "Utrechtet gyakran Amszterdam hangulatosabb alternatívájaként tartják számon; egy nyüzsgő egyetemváros Hollandia szívében. Történelmi központját a fenséges Dóm-torony, az ország legmagasabb temploma uralja. A város fő csatornája, az Oudegracht egyedülálló Európában a rakparti pincéi miatt, ahol ma közvetlenül a vízparton éttermek és kávézók találhatók. Az ország legnagyobb egyetemével Utrecht fiatal és dinamikus népességgel rendelkezik.",
-    ro: "Utrecht, considerat adesea o alternativă mai confortabilă la Amsterdam, este un oraș universitar vibrant în inima Olandei. Centrul său istoric este dominat de maiestuosul Turn Dom, cea mai înaltă biserică din țară. Oudegracht, canalul principal al orașului, este unic în Europa datorită pivnițelor sale de pe chei, unde astăzi restaurantele și cafenelele sunt situate chiar pe apă. Cu cea mai mare universitate din țară, Utrecht are o populație tânără și dinamică.",
-    en: "Utrecht, often considered a cozier alternative to Amsterdam, is a vibrant university city in the heart of the Netherlands. Its historic center is dominated by the majestic Dom Tower, the tallest church in the country. The Oudegracht, the city's main canal, is unique in Europe because of its wharf cellars, where restaurants and cafes are now located right on the water. With the largest university in the country, Utrecht has a young and dynamic population."
-  },
-  facts: {
-    de: ["Der Domturm (112 Meter) ist der höchste Kirchturm der Niederlande.","Die Werftkeller (Werven) an der Oudegracht sind weltweit einzigartig.","Ist der wichtigste Eisenbahnknotenpunkt des Landes (Utrecht Centraal).","Hat die größte Universität der Niederlande (Universität Utrecht).","Das Rietveld-Schröder-Haus ist UNESCO-Weltkulturerbe.","Das Eisenbahnmuseum (Spoorwegmuseum) ist eine Hauptattraktion.","Bietet eines der lebendigsten Studentenleben des Landes.","War historisch eines der wichtigsten kirchlichen Zentren im Norden."],
-    hu: ["A Dóm-torony (112 méter) Hollandia legmagasabb templomtornya.","Az Oudegracht mentén található rakparti pincék (Werven) világszerte egyedülállóak.","Az ország legfontosabb vasúti csomópontja (Utrecht Centraal).","Itt található Hollandia legnagyobb egyeteme (Utrechti Egyetem).","A Rietveld-Schröder-ház az UNESCO világörökség része.","A Vasúti Múzeum (Spoorwegmuseum) az egyik fő látványosság.","Az ország egyik legélénkebb diákéletével büszkélkedhet.","Történelmileg a legfontosabb északi egyházi központok egyike volt."],
-    ro: ["Turnul Dom (112 metri) este cel mai înalt turn de biserică din Olanda.","Pivnițele din debarcader (Werven) de pe Oudegracht sunt unice în lume.","Este cel mai important nod feroviar din țară (Utrecht Centraal).","Are cea mai mare universitate din Olanda (Universitatea din Utrecht).","Casa Rietveld-Schröder este inclusă în Patrimoniul Mondial UNESCO.","Muzeul Căilor Ferate (Spoorwegmuseum) este o atracție principală.","Oferă una dintre cele mai vibrante vieți studențești din țară.","A fost din punct de vedere istoric unul dintre cele mai importante centre ecleziastice din nord."],
-    en: ["The Dom Tower (112 meters) is the tallest church tower in the Netherlands.","The wharf cellars (Werven) on the Oudegracht are unique in the world.","Is the most important railway hub in the country (Utrecht Centraal).","Has the largest university in the Netherlands (Utrecht University).","The Rietveld-Schröder House is a UNESCO World Heritage site.","The Railway Museum (Spoorwegmuseum) is a main attraction.","Offers one of the most vibrant student lives in the country.","Was historically one of the most important ecclesiastical centers in the north."]
-  }
-  },
-  {
     id: "NL-CT-EIN", type: "city", parent: "NL-NB", coords: [5.48, 51.44],
     name: { de: "Eindhoven", hu: "Eindhoven", ro: "Eindhoven", en: "Eindhoven" },
     image: "/geo-images/netherlands/eindhoven.webp",
@@ -398,23 +381,6 @@ export const netherlandsCities: POI[] = [
     hu: ["A Philips globális elektronikai konszern szülőhelye.","A 'Brainport Eindhoven' csúcstechnológiai régió központja.","A Philips Múzeum a vállalat történetét mutatja be.","A Dutch Design Week Európa egyik legfontosabb dizájneseménye.","A híres PSV Eindhoven futballklub otthona.","Az 'Evoluon' egy feltűnő, ufó alakú építmény.","A 'GLOW' fényfesztivál novemberben színes művészeti alkotásokba burkolja a várost.","Az eindhoveni Design Academy a világ legjobbjai közé tartozik."],
     ro: ["Locul de naștere al companiei globale de electronice Philips.","Centrul regiunii de înaltă tehnologie 'Brainport Eindhoven'.","Muzeul Philips prezintă istoria companiei.","Dutch Design Week este unul dintre cele mai importante evenimente de design din Europa.","Sediul celebrului club de fotbal PSV Eindhoven.","'Evoluon' este o clădire izbitoare, în formă de OZN.","Festivalul luminii 'GLOW' scufundă orașul în opere de artă colorate în noiembrie.","Design Academy Eindhoven este printre cele mai bune din lume."],
     en: ["Birthplace of the global electronics company Philips.","Center of the high-tech region 'Brainport Eindhoven'.","The Philips Museum shows the history of the company.","The Dutch Design Week is one of the most important design events in Europe.","Home of the famous football club PSV Eindhoven.","The 'Evoluon' is a striking, UFO-shaped building.","The light festival 'GLOW' immerses the city in colorful artworks in November.","The Design Academy Eindhoven is among the best in the world."]
-  }
-  },
-  {
-    id: "NL-CT-GRO", type: "city", parent: "NL-GR", coords: [6.57, 53.22],
-    name: { de: "Groningen", hu: "Groningen", ro: "Groningen", en: "Groningen" },
-    image: "/geo-images/netherlands/groningen.webp",
-  description: {
-    de: "Groningen ist die größte Stadt im Norden der Niederlande und als junge, dynamische Universitätsstadt bekannt. Rund ein Viertel der Bevölkerung sind Studenten, was der Stadt ein pulsierendes Nachtleben und eine lebhafte Kulturszene verleiht. Der historische Stadtkern wird vom berühmten Martiniturm überragt und ist äußerst fahrradfreundlich. Die Mischung aus alten Gassen, modernen Museen wie dem Groninger Museum und innovativer Stadtplanung macht sie einzigartig.",
-    hu: "Groningen a legnagyobb város Hollandia északi részén, és fiatalos, dinamikus egyetemvárosként ismert. A lakosság mintegy negyede diák, ami lüktető éjszakai életet és élénk kulturális színteret biztosít a városnak. A történelmi városközpont fölé a híres Martini-torony magasodik, és a terület rendkívül kerékpárosbarát. A régi utcák, az olyan modern múzeumok, mint a Groninger Múzeum, és az innovatív várostervezés keveréke egyedülállóvá teszi.",
-    ro: "Groningen este cel mai mare oraș din nordul Olandei și este cunoscut ca un oraș universitar tânăr și dinamic. Aproximativ un sfert din populație sunt studenți, ceea ce oferă orașului o viață de noapte vibrantă și o scenă culturală plină de viață. Centrul istoric al orașului este dominat de faimosul Turn Martini și este extrem de prietenos cu bicicletele. Amestecul de alei vechi, muzee moderne, cum ar fi Muzeul Groninger, și planificarea urbană inovatoare îl fac unic.",
-    en: "Groningen is the largest city in the north of the Netherlands and is known as a young, dynamic university city. About a quarter of the population are students, giving the city a vibrant nightlife and lively cultural scene. The historic city center is dominated by the famous Martini Tower and is extremely bicycle-friendly. The mix of old alleys, modern museums like the Groninger Museum, and innovative urban planning makes it unique."
-  },
-  facts: {
-    de: ["Groningen ist die größte Wirtschafts- und Kulturmetropole im Norden.","Besitzt den prozentual höchsten Studentenanteil der Niederlande.","Der Martiniturm (d'Olle Grieze) ist das berühmte Wahrzeichen der Stadt.","Das futuristische Groninger Museum ist weltbekannt für moderne Kunst.","Das Stadtzentrum wurde in den 1970ern konsequent fahrradfreundlich gemacht.","Hat keine Sperrstunde, was ein intensives Nachtleben ermöglicht.","Die Rijksuniversiteit Groningen ist eine der ältesten Universitäten des Landes.","Der Grote Markt ist das geschäftige historische Herz der Stadt."],
-    hu: ["Groningen a legnagyobb gazdasági és kulturális metropolisz északon.","A lakosság arányát tekintve itt a legmagasabb a diákok aránya Hollandiában.","A Martini-torony (d'Olle Grieze) a város híres jelképe.","A futurisztikus Groninger Múzeum világhírű modern művészetéről.","A városközpontot az 1970-es években következetesen kerékpárosbaráttá tették.","Nincs záróra, ami intenzív éjszakai életet tesz lehetővé.","A Groningeni Egyetem (RUG) az ország egyik legrégebbi egyeteme.","A Grote Markt a város nyüzsgő történelmi központja."],
-    ro: ["Groningen este cea mai mare metropolă economică și culturală din nord.","Are cel mai mare procent de studenți din Olanda.","Turnul Martini (d'Olle Grieze) este faimosul simbol al orașului.","Muzeul futurist Groninger este renumit în întreaga lume pentru arta modernă.","Centrul orașului a devenit în mod constant prietenos cu bicicletele în anii 1970.","Nu are oră de închidere, ceea ce permite o viață de noapte intensă.","Universitatea din Groningen este una dintre cele mai vechi universități din țară.","Grote Markt este inima istorică plină de viață a orașului."],
-    en: ["Groningen is the largest economic and cultural metropolis in the north.","Has the highest percentage of students in the Netherlands.","The Martini Tower (d'Olle Grieze) is the famous landmark of the city.","The futuristic Groninger Museum is world-renowned for modern art.","The city center was made consistently bicycle-friendly in the 1970s.","Has no curfew, which allows for an intense nightlife.","The University of Groningen is one of the oldest universities in the country.","The Grote Markt is the bustling historic heart of the city."]
   }
   },
   {
@@ -792,23 +758,6 @@ export const netherlandsCities: POI[] = [
     }
   },
   {
-    id: "nl-delft-full", type: "city", parent: "NL-ZH", coords: [4.3571, 52.0116],
-    name: { de: "Delft", hu: "Delft", ro: "Delft", en: "Delft" },
-    image: "/geo-images/netherlands/delft.webp",
-    description: {
-      de: "Delft ist eine malerische Stadt, weltbekannt für ihr blau-weißes Porzellan, das 'Delfter Blau'. Sie bietet eine gut erhaltene historische Altstadt mit wunderschönen Grachten und traditioneller Architektur. Delft ist eng mit dem niederländischen Königshaus und dem berühmten Maler Johannes Vermeer verbunden.",
-      hu: "Delft festői város, amely világszerte ismert kék-fehér porcelánjáról, a 'Delfti kékről'. Jól megőrzött történelmi óvárosával, gyönyörű csatornáiról és hagyományos építészetével büszkélkedhet. Delft szorosan kötődik a holland királyi családhoz és a híres festőhöz, Johannes Vermeerhez.",
-      ro: "Delft este un oraș pitoresc, renumit în întreaga lume pentru porțelanul său albastru și alb, 'Albastru de Delft'. Oferă un oraș vechi istoric bine conservat, cu canale frumoase și arhitectură tradițională. Delft este strâns legat de familia regală olandeză și de faimosul pictor Johannes Vermeer.",
-      en: "Delft is a picturesque city, world-renowned for its blue and white porcelain, 'Delft Blue'. It offers a well-preserved historic old town with beautiful canals and traditional architecture. Delft is closely associated with the Dutch royal family and the famous painter Johannes Vermeer."
-    },
-    facts: {
-      de: ["Heimat des berühmten Delfter Blau Porzellans.", "Geburts- und Wohnort von Johannes Vermeer.", "Die Neue Kirche ist die Grabstätte der königlichen Familie.", "Sitz der Technischen Universität Delft.", "Verfügt über ein charmantes Grachtensystem.", "Wilhelm von Oranien wurde hier ermordet."],
-      hu: ["A híres delfti kék porcelán hazája.", "Johannes Vermeer szülő- és lakóhelye.", "Az Új Templom a királyi család temetkezési helye.", "A Delfti Műszaki Egyetem székhelye.", "Bájos csatornarendszerrel rendelkezik.", "Orániai Vilmost itt gyilkolták meg."],
-      ro: ["Locul de naștere al celebrului porțelan Albastru de Delft.", "Locul de naștere și reședința lui Johannes Vermeer.", "Biserica Nouă este locul de înmormântare al familiei regale.", "Sediul Universității de Tehnologie din Delft.", "Are un sistem fermecător de canale.", "Wilhelm de Orania a fost asasinat aici."],
-      en: ["Home to the famous Delft Blue porcelain.", "Birthplace and residence of Johannes Vermeer.", "The New Church is the burial place of the royal family.", "Seat of the Delft University of Technology.", "Features a charming canal system.", "William of Orange was assassinated here."]
-    }
-  },
-  {
     id: "nl-enschede", type: "city", parent: "NL-OV", coords: [6.8937, 52.2215],
     name: { de: "Enschede", hu: "Enschede", ro: "Enschede", en: "Enschede" },
     image: "/geo-images/netherlands/enschede.webp",
@@ -894,23 +843,6 @@ export const netherlandsCities: POI[] = [
     }
   },
   {
-    id: "nl-maastricht-full", type: "city", parent: "NL-LI", coords: [5.6889, 50.8514],
-    name: { de: "Maastricht", hu: "Maastricht", ro: "Maastricht", en: "Maastricht" },
-    image: "/geo-images/netherlands/maastricht.webp",
-    description: {
-      de: "Maastricht liegt im äußersten Süden der Niederlande und gehört zu den ältesten Städten des Landes. Die Stadt hat eine fast südeuropäische Atmosphäre und ist historisch bedeutend durch den Vertrag von Maastricht, der die Europäische Union begründete. Maastricht ist berühmt für seine charmanten Plätze, Höhlen und Basiliken.",
-      hu: "Maastricht Hollandia legdélibb részén fekszik, és az ország egyik legrégebbi városa. A város szinte dél-európai hangulatot áraszt, és történelmileg jelentős a maastrichti szerződés révén, amely az Európai Uniót megalapította. Maastricht híres bájos tereiről, barlangjairól és bazilikáiról.",
-      ro: "Maastricht este situat în extremitatea sudică a Olandei și este unul dintre cele mai vechi orașe din țară. Orașul are o atmosferă aproape sud-europeană și este semnificativ din punct de vedere istoric datorită Tratatului de la Maastricht, care a fondat Uniunea Europeană. Maastricht este renumit pentru piețele, peșterile și bazilicile sale fermecătoare.",
-      en: "Maastricht is located in the far south of the Netherlands and is one of the oldest cities in the country. The city has an almost southern European atmosphere and is historically significant through the Maastricht Treaty, which founded the European Union. Maastricht is famous for its charming squares, caves and basilicas."
-    },
-    facts: {
-      de: ["Gründungsort der Europäischen Union durch den Vertrag von Maastricht (1992).", "Die St.-Servatius-Brücke ist die älteste Brücke der Niederlande.", "Der Vrijthof ist der berühmteste Platz der Stadt.", "Unterirdische Grotten im Sint-Pietersberg.", "Geprägt von einer reichen römischen Geschichte.", "Bekannt für das TEFAF-Kunstfestival."],
-      hu: ["Az Európai Unió alapító helyszíne a maastrichti szerződés révén (1992).", "A Szent Szervácius híd Hollandia legrégebbi hídja.", "A Vrijthof a város leghíresebb tere.", "Földalatti barlangok a Sint-Pietersberg-hegyben.", "Gazdag római kori történelemmel büszkélkedhet.", "A TEFAF művészeti fesztiválról ismert."],
-      ro: ["Locul de fondare al Uniunii Europene prin Tratatul de la Maastricht (1992).", "Podul Sf. Servatius este cel mai vechi pod din Olanda.", "Vrijthof este cea mai faimoasă piață din oraș.", "Peșteri subterane din Sint-Pietersberg.", "Caracterizat de o bogată istorie romană.", "Cunoscut pentru festivalul de artă TEFAF."],
-      en: ["Founding place of the European Union through the Maastricht Treaty (1992).", "St. Servatius Bridge is the oldest bridge in the Netherlands.", "The Vrijthof is the city's most famous square.", "Underground caves in the Sint-Pietersberg.", "Characterized by a rich Roman history.", "Known for the TEFAF art festival."]
-    }
-  },
-  {
     id: "nl-dordrecht", type: "city", parent: "NL-ZH", coords: [4.6683, 51.8133],
     name: { de: "Dordrecht", hu: "Dordrecht", ro: "Dordrecht", en: "Dordrecht" },
     image: "/geo-images/netherlands/dordrecht.webp",
@@ -945,23 +877,6 @@ export const netherlandsCities: POI[] = [
     }
   },
   {
-    id: "nl-van-gogh-museum", type: "landmark", parent: "NL-NH", coords: [4.8810, 52.3584],
-    name: { de: "Van Gogh Museum", hu: "Van Gogh Múzeum", ro: "Muzeul Van Gogh", en: "Van Gogh Museum" },
-    image: "/geo-images/netherlands/van-gogh-museum.webp",
-    description: {
-      de: "Das Van Gogh Museum in Amsterdam widmet sich dem Leben und Werk des niederländischen Malers Vincent van Gogh. Es beherbergt die weltweit größte Sammlung seiner Gemälde, Zeichnungen und Briefe. Das Museum zieht jährlich Millionen Kunstliebhaber an und zeigt auch Werke von Van Goghs Zeitgenossen.",
-      hu: "Az amszterdami Van Gogh Múzeum Vincent van Gogh holland festőművész életének és munkásságának szenteli magát. Itt található a világ legnagyobb gyűjteménye a festményeiből, rajzaiból és leveleiből. A múzeum évente művészetkedvelők millióit vonzza, és Van Gogh kortársainak műveit is bemutatja.",
-      ro: "Muzeul Van Gogh din Amsterdam este dedicat vieții și operei pictorului olandez Vincent van Gogh. Găzduiește cea mai mare colecție din lume a picturilor, desenelor și scrisorilor sale. Muzeul atrage anual milioane de iubitori de artă și expune, de asemenea, lucrări ale contemporanilor lui Van Gogh.",
-      en: "The Van Gogh Museum in Amsterdam is dedicated to the life and work of the Dutch painter Vincent van Gogh. It houses the world's largest collection of his paintings, drawings, and letters. The museum attracts millions of art lovers annually and also displays works by Van Gogh's contemporaries."
-    },
-    facts: {
-      de: ["Beherbergt die größte Van-Gogh-Sammlung der Welt.", "Enthält Meisterwerke wie 'Die Sonnenblumen' und 'Das Schlafzimmer'.", "Wurde 1973 eröffnet und von Gerrit Rietveld entworfen.", "Zeigt über 200 Gemälde und 500 Zeichnungen.", "Gehört zu den meistbesuchten Museen der Niederlande.", "Liegt am Museumplein in Amsterdam."],
-      hu: ["A világ legnagyobb Van Gogh-gyűjteményének ad otthont.", "Olyan remekműveket tartalmaz, mint a 'Napraforgók' és 'A hálószoba'.", "1973-ban nyílt meg, és Gerrit Rietveld tervezte.", "Több mint 200 festményt és 500 rajzot mutat be.", "Hollandia leglátogatottabb múzeumai közé tartozik.", "Az amszterdami Museumplein téren található."],
-      ro: ["Găzduiește cea mai mare colecție Van Gogh din lume.", "Conține capodopere precum 'Floarea-soarelui' și 'Dormitorul'.", "Deschis în 1973 și proiectat de Gerrit Rietveld.", "Expune peste 200 de picturi și 500 de desene.", "Unul dintre cele mai vizitate muzee din Olanda.", "Situat pe Museumplein din Amsterdam."],
-      en: ["Houses the largest Van Gogh collection in the world.", "Contains masterpieces such as 'Sunflowers' and 'The Bedroom'.", "Opened in 1973 and designed by Gerrit Rietveld.", "Displays over 200 paintings and 500 drawings.", "One of the most visited museums in the Netherlands.", "Located on the Museumplein in Amsterdam."]
-    }
-  },
-  {
     id: "nl-mauritshuis", type: "landmark", parent: "NL-ZH", coords: [4.3145, 52.0803],
     name: { de: "Mauritshuis", hu: "Mauritshuis", ro: "Mauritshuis", en: "Mauritshuis" },
     image: "/geo-images/netherlands/mauritshuis.webp",
@@ -993,57 +908,6 @@ export const netherlandsCities: POI[] = [
       hu: ["Eredetileg amszterdami városházaként épült (1648).", "A 17. század legnagyobb világi épületének tartják.", "Ma állami fogadásokra és királyi rendezvényekre használják.", "A Polgárok Csarnoka padlóján lenyűgöző világtérképek láthatók.", "Több mint 13 000 facölöpön nyugszik.", "Louis Bonaparte tette királyi palotává 1808-ban."],
       ro: ["Construit inițial ca Primărie a Amsterdamului (1648).", "Considerată cea mai mare clădire seculară din secolul al XVII-lea.", "Astăzi este folosit pentru recepții de stat și evenimente regale.", "Sala Cetățenilor prezintă hărți ale lumii impresionante pe podea.", "Se sprijină pe peste 13.000 de piloni de lemn.", "Louis Bonaparte l-a transformat în palat regal în 1808."],
       en: ["Originally built as the Amsterdam Town Hall (1648).", "Considered the largest secular building of the 17th century.", "Today it is used for state receptions and royal events.", "The Citizens' Hall features impressive world maps on the floor.", "Rests on over 13,000 wooden piles.", "Louis Bonaparte made it a royal palace in 1808."]
-    }
-  },
-  {
-    id: "nl-efteling", type: "kid-landmark", parent: "NL-NB", coords: [5.0440, 51.6492],
-    name: { de: "Efteling", hu: "Efteling", ro: "Efteling", en: "Efteling" },
-    image: "/geo-images/netherlands/efteling.webp",
-    description: {
-      de: "Efteling ist der größte und berühmteste Freizeitpark der Niederlande und einer der ältesten der Welt. Mit einem einzigartigen Fokus auf Märchen, Mythen und Sagen bietet der Park Fahrgeschäfte für alle Altersgruppen. Der märchenhafte Charakter verdankt sich vor allem den Entwürfen des Künstlers Anton Pieck.",
-      hu: "Az Efteling Hollandia legnagyobb és leghíresebb vidámparkja, és a világ egyik legrégebbi parkja. A mesékre, mítoszokra és legendákra összpontosítva a park minden korosztály számára kínál attrakciókat. Mesebeli karakterét főleg Anton Pieck művész terveinek köszönheti.",
-      ro: "Efteling este cel mai mare și mai faimos parc de distracții din Țările de Jos și unul dintre cele mai vechi din lume. Cu un accent unic pe basme, mituri și legende, parcul oferă atracții pentru toate vârstele. Caracterul său de basm se datorează în principal desenelor artistului Anton Pieck.",
-      en: "Efteling is the largest and most famous amusement park in the Netherlands and one of the oldest in the world. With a unique focus on fairy tales, myths and legends, the park offers rides for all ages. Its fairytale character is mainly due to the designs of the artist Anton Pieck."
-    },
-    facts: {
-      de: ["Eröffnet 1952 mit dem berühmten Märchenwald (Sprookjesbos).", "Der meistbesuchte Freizeitpark der Niederlande.", "Bekannt für das magische und nostalgische Design von Anton Pieck.", "Bietet aufregende Achterbahnen wie Baron 1898.", "Das ganze Jahr über geöffnet.", "Eine der beliebtesten Touristenattraktionen in Europa."],
-      hu: ["1952-ben nyílt meg a híres Meseerdővel (Sprookjesbos).", "Hollandia leglátogatottabb vidámparkja.", "Anton Pieck varázslatos és nosztalgikus dizájnjáról ismert.", "Olyan izgalmas hullámvasutakat kínál, mint a Baron 1898.", "Egész évben nyitva tart.", "Európa egyik legnépszerűbb turisztikai látványossága."],
-      ro: ["Deschis în 1952 cu celebra Pădure de Basm (Sprookjesbos).", "Cel mai vizitat parc de distracții din Olanda.", "Cunoscut pentru designul magic și nostalgic al lui Anton Pieck.", "Oferă montagne russe palpitante, cum ar fi Baron 1898.", "Deschis pe tot parcursul anului.", "Una dintre cele mai populare atracții turistice din Europa."],
-      en: ["Opened in 1952 with the famous Fairytale Forest (Sprookjesbos).", "The most visited amusement park in the Netherlands.", "Known for the magical and nostalgic design of Anton Pieck.", "Offers thrilling roller coasters such as Baron 1898.", "Open all year round.", "One of the most popular tourist attractions in Europe."]
-    }
-  },
-  {
-    id: "nl-madurodam", type: "kid-landmark", parent: "NL-ZH", coords: [4.2963, 52.0995],
-    name: { de: "Madurodam", hu: "Madurodam", ro: "Madurodam", en: "Madurodam" },
-    image: "/geo-images/netherlands/madurodam.webp",
-    description: {
-      de: "Madurodam ist ein weltbekannter Miniaturpark in Den Haag, der die Niederlande im Maßstab 1:25 präsentiert. Hier können Besucher detailgetreue Nachbildungen von niederländischen Wahrzeichen, Städten und Landschaften bewundern. Der Park bietet zudem interaktive Erlebnisse und zeigt die Geschichte und technologischen Errungenschaften des Landes.",
-      hu: "A Madurodam egy világszerte ismert hágai miniatűr park, amely Hollandiát mutatja be 1:25 méretarányban. A látogatók itt holland nevezetességek, városok és tájak részletes másolatait csodálhatják meg. A park interaktív élményeket is kínál, és bemutatja az ország történelmét és technológiai vívmányait.",
-      ro: "Madurodam este un parc în miniatură de renume mondial din Haga, care prezintă Țările de Jos la scara 1:25. Aici vizitatorii pot admira replici detaliate ale reperelor, orașelor și peisajelor olandeze. Parcul oferă, de asemenea, experiențe interactive și prezintă istoria și realizările tehnologice ale țării.",
-      en: "Madurodam is a world-renowned miniature park in The Hague that presents the Netherlands on a scale of 1:25. Here visitors can admire detailed replicas of Dutch landmarks, cities and landscapes. The park also offers interactive experiences and highlights the history and technological achievements of the country."
-    },
-    facts: {
-      de: ["Gegründet 1952 zum Gedenken an den Kriegshelden George Maduro.", "Präsentiert die Niederlande im Maßstab 1:25.", "Enthält über 700 detaillierte Modelle von Gebäuden und Bauwerken.", "Die Gewinne gehen traditionell an wohltätige Zwecke für Kinder.", "Viele Modelle sind animiert und interaktiv.", "Ein beliebter Ort, um die Niederlande an einem Tag zu erleben."],
-      hu: ["1952-ben alapították George Maduro háborús hős emlékére.", "Hollandiát mutatja be 1:25 méretarányban.", "Több mint 700 részletes épület- és építménymodellt tartalmaz.", "A bevételt hagyományosan gyermekekkel foglalkozó jótékonysági szervezetek kapják.", "Számos modell animált és interaktív.", "Népszerű hely Hollandia egyetlen nap alatt történő felfedezésére."],
-      ro: ["Fondat în 1952 în memoria eroului de război George Maduro.", "Prezintă Țările de Jos la scara 1:25.", "Conține peste 700 de modele detaliate de clădiri și structuri.", "Profiturile sunt direcționate în mod tradițional către organizațiile de caritate pentru copii.", "Multe modele sunt animate și interactive.", "Un loc popular pentru a experimenta Olanda într-o singură zi."],
-      en: ["Founded in 1952 in memory of war hero George Maduro.", "Presents the Netherlands on a scale of 1:25.", "Contains over 700 detailed models of buildings and structures.", "Profits traditionally go to children's charities.", "Many models are animated and interactive.", "A popular place to experience the Netherlands in a single day."]
-    }
-  },
-  {
-    id: "nl-zaanse-schans", type: "landmark", parent: "NL-NH", coords: [4.8194, 52.4732],
-    name: { de: "Zaanse Schans", hu: "Zaanse Schans", ro: "Zaanse Schans", en: "Zaanse Schans" },
-    image: "/geo-images/netherlands/zaanse-schans.webp",
-    description: {
-      de: "Die Zaanse Schans ist ein historisches Viertel in Zaandam, das wie ein Freilichtmuseum wirkt. Sie vermittelt einen lebendigen Eindruck des Lebens in den Niederlanden des 18. und 19. Jahrhunderts. Besucher können traditionelle Windmühlen in Betrieb, grüne Holzhäuser, eine Käserei und eine Holzschuhwerkstatt besichtigen.",
-      hu: "A Zaanse Schans egy történelmi negyed Zaandamban, amely olyan, mint egy szabadtéri múzeum. Élethű képet ad a 18. és 19. századi holland életről. A látogatók megtekinthetik a működő hagyományos szélmalmokat, a zöld faházakat, egy sajtgyárat és egy fapapucskészítő műhelyt.",
-      ro: "Zaanse Schans este un cartier istoric din Zaandam care funcționează ca un muzeu în aer liber. Oferă o impresie vie a vieții din Olanda în secolele al XVIII-lea și al XIX-lea. Vizitatorii pot vedea mori de vânt tradiționale în funcțiune, case verzi din lemn, o fabrică de brânzeturi și un atelier de saboți.",
-      en: "Zaanse Schans is a historic neighborhood in Zaandam that feels like an open-air museum. It provides a vivid impression of life in the Netherlands in the 18th and 19th centuries. Visitors can see operational traditional windmills, green wooden houses, a cheese factory and a clog workshop."
-    },
-    facts: {
-      de: ["Berühmt für seine funktionsfähigen historischen Windmühlen.", "Zeigt traditionelle Holzarchitektur der Region Zaanstreek.", "Beherbergt traditionelle Handwerksbetriebe (Holzschuhe, Käse).", "Millionen von Touristen besuchen es jährlich.", "Viele der Gebäude wurden hierher versetzt, um sie zu retten.", "Liegt malerisch am Fluss Zaan."],
-      hu: ["Működő történelmi szélmalmairól híres.", "A Zaanstreek régió hagyományos faépítészetét mutatja be.", "Hagyományos kézműves műhelyeknek (fapapucs, sajt) ad otthont.", "Turisták milliói látogatják évente.", "Sok épületet ideköltöztettek a megmentésük érdekében.", "Festői környezetben, a Zaan folyó partján fekszik."],
-      ro: ["Renumit pentru morile sale de vânt istorice funcționale.", "Prezintă arhitectura tradițională din lemn a regiunii Zaanstreek.", "Găzduiește ateliere de artizanat tradițional (saboți, brânză).", "Milioane de turiști îl vizitează anual.", "Multe dintre clădiri au fost mutate aici pentru a fi salvate.", "Situat pitoresc pe râul Zaan."],
-      en: ["Famous for its operational historic windmills.", "Shows traditional wooden architecture of the Zaanstreek region.", "Houses traditional craft workshops (clogs, cheese).", "Millions of tourists visit it annually.", "Many of the buildings were moved here to save them.", "Picturesquely situated on the Zaan river."]
     }
   },
   {
@@ -1098,40 +962,6 @@ export const netherlandsCities: POI[] = [
     }
   },
   {
-    id: "nl-anne-frank-house", type: "historical", parent: "NL-NH", coords: [4.8839, 52.3752],
-    name: { de: "Anne Frank Haus", hu: "Anne Frank Ház", ro: "Casa Anne Frank", en: "Anne Frank House" },
-    image: "/geo-images/netherlands/anne-frank-house.webp",
-    description: {
-      de: "Das Anne Frank Haus in Amsterdam ist das Gebäude, in dem sich die jüdische Familie Frank während des Zweiten Weltkriegs vor den Nationalsozialisten versteckte. Hier schrieb Anne Frank ihr weltberühmtes Tagebuch. Heute ist das Haus ein bedeutendes Museum und Gedenkstätte.",
-      hu: "Az amszterdami Anne Frank Ház az az épület, ahol a zsidó Frank család a második világháború alatt a nácik elől bujkált. Itt írta Anne Frank világhírű naplóját. Ma a ház fontos múzeum és emlékhely.",
-      ro: "Casa Anne Frank din Amsterdam este clădirea în care familia evreiască Frank s-a ascuns de naziști în timpul celui de-al Doilea Război Mondial. Aici și-a scris Anne Frank jurnalul ei de renume mondial. Astăzi casa este un important muzeu și un memorial.",
-      en: "The Anne Frank House in Amsterdam is the building where the Jewish Frank family hid from the Nazis during World War II. It was here that Anne Frank wrote her world-famous diary. Today the house is an important museum and memorial."
-    },
-    facts: {
-      de: ["Ort des 'Hinterhauses', wo Anne Frank sich versteckte.", "Das Original-Tagebuch wird hier ausgestellt.", "Erinnert an die Opfer des Holocaust.", "Eines der meistbesuchten Museen in Amsterdam.", "Der Zugang zum Versteck war hinter einem drehbaren Bücherregal verborgen.", "Besucher spüren die beklemmende Enge des Verstecks."],
-      hu: ["A 'Hátsó traktus' helyszíne, ahol Anne Frank bujkált.", "Itt állítják ki az eredeti naplót.", "A holokauszt áldozataira emlékezik.", "Amszterdam egyik leglátogatottabb múzeuma.", "A rejtekhely bejárata egy forgatható könyvespolc mögött volt.", "A látogatók átérezhetik a rejtekhely nyomasztó szűkös voltát."],
-      ro: ["Locația 'Anexei Secrete', unde s-a ascuns Anne Frank.", "Jurnalul original este expus aici.", "Comemorează victimele Holocaustului.", "Unul dintre cele mai vizitate muzee din Amsterdam.", "Accesul la ascunzătoare a fost ascuns în spatele unei biblioteci rotative.", "Vizitatorii pot simți îngustimea opresivă a ascunzătoarei."],
-      en: ["Location of the 'Secret Annex', where Anne Frank hid.", "The original diary is on display here.", "Commemorates the victims of the Holocaust.", "One of the most visited museums in Amsterdam.", "Access to the hiding place was hidden behind a revolving bookcase.", "Visitors can feel the oppressive confinement of the hiding place."]
-    }
-  },
-  {
-    id: "nl-hoge-veluwe", type: "landmark", parent: "NL-GE", coords: [5.8500, 52.0500],
-    name: { de: "Hoge Veluwe", hu: "Hoge Veluwe", ro: "Hoge Veluwe", en: "Hoge Veluwe" },
-    image: "/geo-images/netherlands/hoge-veluwe.webp",
-    description: {
-      de: "Der Nationalpark De Hoge Veluwe ist das größte durchgehende Naturschutzgebiet der Niederlande. Er bietet eine einzigartige Landschaft aus Wäldern, Heideland, Grasflächen und Sandverwehungen. Mitten im Park liegt das Kröller-Müller Museum, das eine bedeutende Kunstsammlung und einen großen Skulpturengarten beherbergt.",
-      hu: "A De Hoge Veluwe Nemzeti Park Hollandia legnagyobb egybefüggő természetvédelmi területe. Erdők, fenyérek, füves puszták és homokdűnék egyedülálló táját kínálja. A park közepén található a Kröller-Müller Múzeum, amely jelentős művészeti gyűjteménynek és egy nagy szoborparknak ad otthont.",
-      ro: "Parcul Național De Hoge Veluwe este cea mai mare rezervație naturală continuă din Țările de Jos. Oferă un peisaj unic de păduri, pajiști, pășuni și dune de nisip. În mijlocul parcului se află Muzeul Kröller-Müller, care găzduiește o importantă colecție de artă și o mare grădină de sculpturi.",
-      en: "De Hoge Veluwe National Park is the largest continuous nature reserve in the Netherlands. It offers a unique landscape of forests, heathland, grasslands and sand dunes. In the middle of the park is the Kröller-Müller Museum, which houses an important art collection and a large sculpture garden."
-    },
-    facts: {
-      de: ["Größter Nationalpark der Niederlande auf Privatgrund.", "Berühmt für die kostenlosen weißen Fahrräder (Witte Fietsen).", "Beherbergt das renommierte Kröller-Müller Museum.", "Die Landschaft reicht von Sanddünen bis zu dichten Wäldern.", "Heimat von Hirschen, Wildschweinen und Mufflons.", "Besonders zur Heideblüte im August ein Spektakel."],
-      hu: ["Hollandia legnagyobb magánterületen lévő nemzeti parkja.", "Híres az ingyenes fehér kerékpárokról (Witte Fietsen).", "A neves Kröller-Müller Múzeumnak ad otthont.", "A táj a homokdűnéktől a sűrű erdőkig terjed.", "Szarvasok, vaddisznók és muflonok otthona.", "Különösen az augusztusi hangavirágzás idején látványos."],
-      ro: ["Cel mai mare parc național din Olanda aflat pe un teren privat.", "Faimos pentru bicicletele albe gratuite (Witte Fietsen).", "Găzduiește renumitul Muzeu Kröller-Müller.", "Peisajul variază de la dune de nisip la păduri dese.", "Casa cerbilor, mistreților și muflonilor.", "Un spectacol în special în timpul înfloririi bruyerei în august."],
-      en: ["Largest national park in the Netherlands on private land.", "Famous for the free white bicycles (Witte Fietsen).", "Houses the renowned Kröller-Müller Museum.", "The landscape ranges from sand dunes to dense forests.", "Home to deer, wild boar and mouflon.", "A spectacle especially during the heather bloom in August."]
-    }
-  },
-  {
     id: "nl-waddenzee", type: "landmark", parent: "NL-FR", coords: [5.4000, 53.4500],
     name: { de: "Wattenmeer", hu: "Watt-tenger", ro: "Marea Wadden", en: "Wadden Sea" },
     image: "/geo-images/netherlands/waddenzee.webp",
@@ -1149,23 +979,6 @@ export const netherlandsCities: POI[] = [
     }
   },
   {
-    id: "nl-texel-island", type: "island", parent: "NL-NH", coords: [4.7667, 53.0500],
-    name: { de: "Texel", hu: "Texel", ro: "Texel", en: "Texel" },
-    image: "/geo-images/netherlands/texel-island.webp",
-    description: {
-      de: "Texel ist die größte und bevölkerungsreichste der Westfriesischen Inseln der Niederlande. Sie bietet lange Sandstrände, den Nationalpark Duinen van Texel, charmante Dörfer und Natur pur. Die Insel ist bekannt für ihre vielen Schafe und als Zufluchtsort für zahlreiche Vogelarten.",
-      hu: "Texel a legnagyobb és legnépesebb a hollandiai Nyugati-Fríz-szigetek közül. Hosszú homokos strandokat, a Duinen van Texel Nemzeti Parkot, bájos falvakat és hamisítatlan természetet kínál. A sziget híres a sok juhról és arról, hogy számos madárfaj menedéke.",
-      ro: "Texel este cea mai mare și cea mai populată dintre Insulele Frisice de Vest din Țările de Jos. Oferă plaje lungi cu nisip, Parcul Național Duinen van Texel, sate fermecătoare și natură pură. Insula este cunoscut pentru oile sale numeroase și ca refugiu pentru numeroase specii de păsări.",
-      en: "Texel is the largest and most populous of the West Frisian Islands of the Netherlands. It offers long sandy beaches, the Duinen van Texel National Park, charming villages and pure nature. The island is known for its many sheep and as a refuge for numerous bird species."
-    },
-    facts: {
-      de: ["Die größte niederländische Nordseeinsel.", "Beherbergt den Nationalpark Duinen van Texel.", "Es gibt auf der Insel etwa genauso viele Schafe wie Einwohner.", "Der rote Leuchtturm im Norden ist ein beliebtes Fotomotiv.", "Ecomare bietet Einblicke in das Leben von Seehunden.", "Bietet hervorragende Bedingungen für Radfahrer und Wanderer."],
-      hu: ["A legnagyobb holland északi-tengeri sziget.", "A Duinen van Texel Nemzeti Park otthona.", "A szigeten körülbelül annyi juh van, mint amennyi lakos.", "Az északi piros világítótorony népszerű fotótéma.", "Az Ecomare bepillantást enged a fókák életébe.", "Kiváló feltételeket kínál a kerékpárosok és túrázók számára."],
-      ro: ["Cea mai mare insulă olandeză din Marea Nordului.", "Găzduiește Parcul Național Duinen van Texel.", "Pe insulă sunt cam tot atâtea oi câți locuitori.", "Farul roșu din nord este un motiv foto popular.", "Ecomare oferă informații despre viața focilor.", "Oferă condiții excelente pentru bicicliști și drumeți."],
-      en: ["The largest Dutch North Sea island.", "Home to the Duinen van Texel National Park.", "There are about as many sheep as residents on the island.", "The red lighthouse in the north is a popular photo motif.", "Ecomare offers insights into the life of seals.", "Offers excellent conditions for cyclists and hikers."]
-    }
-  },
-  {
     id: "nl-biesbosch", type: "landmark", parent: "NL-NB", coords: [4.8000, 51.7500],
     name: { de: "De Biesbosch", hu: "De Biesbosch", ro: "De Biesbosch", en: "De Biesbosch" },
     image: "/geo-images/netherlands/biesbosch.webp",
@@ -1180,23 +993,6 @@ export const netherlandsCities: POI[] = [
       hu: ["Ritka édesvízi árapály-rendszer.", "Az 1421-es Szent Erzsébet-árvíz révén alakult ki.", "Híres európai hódpopulációjáról.", "Nagyon népszerű a kenu- és suttogócsónak-túrákhoz.", "Sok vízimadár fontos fészkelőhelye.", "Dél-Holland és Észak-Brabant határán fekszik."],
       ro: ["Un sistem rar de maree cu apă dulce.", "Creat de inundația Sf. Elisabeta din 1421.", "Renumit pentru populația sa de castori europeni.", "Foarte popular pentru excursiile cu canoe și bărci cu șoapte.", "Loc important de reproducere pentru multe păsări de apă.", "Situat la granița dintre Olanda de Sud și Brabantul de Nord."],
       en: ["A rare freshwater tidal system.", "Created by the St. Elizabeth's flood in 1421.", "Famous for its population of European beavers.", "Very popular for canoe and whisper boat tours.", "Important breeding ground for many water birds.", "Located on the border of South Holland and North Brabant."]
-    }
-  },
-  {
-    id: "nl-keukenhof-gardens", type: "landmark", parent: "NL-ZH", coords: [4.5473, 52.2697],
-    name: { de: "Keukenhof", hu: "Keukenhof", ro: "Keukenhof", en: "Keukenhof" },
-    image: "/geo-images/netherlands/keukenhof-gardens.webp",
-    description: {
-      de: "Der Keukenhof ist der berühmteste Frühlingsgarten der Welt und das Schaufenster der niederländischen Blumenzucht. Jedes Jahr blühen hier Millionen von Tulpen, Narzissen und Hyazinthen in einem spektakulären Farbenmeer. Der Park ist nur für wenige Wochen im Frühjahr geöffnet und zieht Besucher aus aller Welt an.",
-      hu: "A Keukenhof a világ leghíresebb tavaszi kertje és a holland virágtermesztés kirakata. Évente több millió tulipán, nárcisz és jácint nyílik itt a színek látványos tengerében. A park csak néhány hétig tart nyitva tavasszal, és a világ minden tájáról vonzza a látogatókat.",
-      ro: "Keukenhof este cea mai faimoasă grădină de primăvară din lume și vitrina floriculturii olandeze. În fiecare an, milioane de lalele, narcise și zambile înfloresc aici într-o mare de culori spectaculoasă. Parcul este deschis doar pentru câteva săptămâni primăvara și atrage vizitatori din întreaga lume.",
-      en: "Keukenhof is the most famous spring garden in the world and the showcase of Dutch floriculture. Every year millions of tulips, daffodils and hyacinths bloom here in a spectacular sea of colors. The park is only open for a few weeks in the spring and attracts visitors from all over the world."
-    },
-    facts: {
-      de: ["Bekannt als 'Garten Europas'.", "Etwa 7 Millionen Blumenzwiebeln werden jährlich gepflanzt.", "Nur ca. 8 Wochen im Frühling (März bis Mai) geöffnet.", "Zeigt über 800 verschiedene Tulpensorten.", "Einer der am meisten fotografierten Orte der Welt.", "Befindet sich in Lisse, in der 'Bollenstreek' (Zwiebelregion)."],
-      hu: ["'Európa kertjeként' ismert.", "Évente mintegy 7 millió virághagymát ültetnek el.", "Csak kb. 8 hétig van nyitva tavasszal (márciustól májusig).", "Több mint 800 különböző tulipánfajtát mutat be.", "A világ egyik legtöbbet fényképezett helye.", "Lisse-ben, a 'Bollenstreek' (virághagyma régió) területén található."],
-      ro: ["Cunoscută sub numele de 'Grădina Europei'.", "Aproximativ 7 milioane de bulbi de flori sunt plantați anual.", "Deschis doar aproximativ 8 săptămâni primăvara (martie până în mai).", "Afișează peste 800 de soiuri diferite de lalele.", "Unul dintre cele mai fotografiate locuri din lume.", "Situat în Lisse, în 'Bollenstreek' (regiunea bulbilor)."],
-      en: ["Known as the 'Garden of Europe'.", "About 7 million flower bulbs are planted annually.", "Open only about 8 weeks in spring (March to May).", "Displays over 800 different varieties of tulips.", "One of the most photographed places in the world.", "Located in Lisse, in the 'Bollenstreek' (bulb region)."]
     }
   },
   {
@@ -1231,40 +1027,6 @@ export const netherlandsCities: POI[] = [
       hu: ["Hollandiában még 52 fennmaradt megalitikus sír található.", "A legtöbb Drenthe tartományban van.", "A jégkorszak alatt Skandináviából idesodort vándorkövekből épültek.", "Régebbiek, mint Stonehenge és a piramisok.", "Borgerben található a legnagyobb megalitikus sír (D27) és a Hunebedcentrum.", "Kollektív temetkezési helyként szolgáltak."],
       ro: ["Există încă 52 de morminte megalitice păstrate în Țările de Jos.", "Cele mai multe sunt situate în provincia Drenthe.", "Construite din bolovani care au venit din Scandinavia în timpul Epocii de Gheață.", "Mai vechi decât Stonehenge și piramidele.", "În Borger se află cel mai mare mormânt megalitic (D27) și Hunebedcentrum.", "Au servit drept locuri de înmormântare colective."],
       en: ["There are still 52 preserved dolmens in the Netherlands.", "Most are located in the province of Drenthe.", "Built from boulders that came from Scandinavia during the Ice Age.", "Older than Stonehenge and the pyramids.", "In Borger is the largest dolmen (D27) and the Hunebedcentrum.", "Served as collective burial places."]
-    }
-  },
-  {
-    id: "nl-ijsselmeer", type: "lake", parent: "NL-FL", coords: [5.2500, 52.7500],
-    name: { de: "IJsselmeer", hu: "IJsselmeer", ro: "IJsselmeer", en: "IJsselmeer" },
-    image: "/geo-images/netherlands/ijsselmeer.webp",
-    description: {
-      de: "Das IJsselmeer ist der größte See der Niederlande, ein flaches Süßwasserbecken, das 1932 durch den Bau des Afsluitdijk aus der Zuiderzee entstand. Es ist ein Paradies für Segler und Wassersportler. Rund um den See liegen viele historische Fischerdörfer, die an die maritime Vergangenheit erinnern.",
-      hu: "Az IJsselmeer Hollandia legnagyobb tava, egy sekély édesvizű medence, amely 1932-ben a Zuiderzeeből jött létre az Afsluitdijk felépítésével. Paradicsom a vitorlázók és a vízi sportok szerelmesei számára. A tó körül számos történelmi halászfalu található, amelyek a tengeri múltra emlékeztetnek.",
-      ro: "IJsselmeer este cel mai mare lac din Țările de Jos, un bazin de apă dulce de mică adâncime care a fost creat din Zuiderzee în 1932 prin construcția Afsluitdijk. Este un paradis pentru marinari și iubitorii de sporturi nautice. În jurul lacului se află multe sate de pescari istorice care amintesc de trecutul maritim.",
-      en: "The IJsselmeer is the largest lake in the Netherlands, a shallow freshwater basin that was created from the Zuiderzee in 1932 by the construction of the Afsluitdijk. It is a paradise for sailors and water sports enthusiasts. Around the lake are many historic fishing villages that are reminders of the maritime past."
-    },
-    facts: {
-      de: ["Größter Binnensee der Niederlande.", "Wurde 1932 durch Abtrennung von der Nordsee zum Süßwassersee.", "Dient als riesiges Süßwasserreservoir.", "Teil des Sees wurde zur Gewinnung der Provinz Flevoland trockengelegt.", "Beliebtes Revier für Segeln, Kitesurfen und Windsurfen.", "Umgeben von historischen Orten wie Volendam und Hoorn."],
-      hu: ["Hollandia legnagyobb beltengere/tava.", "1932-ben az Északi-tengertől való leválasztással vált édesvizű tóvá.", "Hatalmas édesvíztározóként szolgál.", "A tó egy részét kiszárították Flevoland tartomány létrehozásához.", "Népszerű terület a vitorlázás, a kiteszörf és a szörfözés szerelmesei körében.", "Olyan történelmi helyek veszik körül, mint Volendam és Hoorn."],
-      ro: ["Cel mai mare lac interior din Olanda.", "A devenit un lac cu apă dulce în 1932 prin separarea de Marea Nordului.", "Servește ca un imens rezervor de apă dulce.", "O parte a lacului a fost drenată pentru a crea provincia Flevoland.", "Zonă populară pentru navigație, kitesurfing și windsurfing.", "Înconjurat de locuri istorice precum Volendam și Hoorn."],
-      en: ["Largest inland lake in the Netherlands.", "Became a freshwater lake in 1932 by separation from the North Sea.", "Serves as a huge freshwater reservoir.", "Part of the lake was drained to create the province of Flevoland.", "Popular area for sailing, kitesurfing and windsurfing.", "Surrounded by historic places like Volendam and Hoorn."]
-    }
-  },
-  {
-    id: "nl-giethoorn-village", type: "landmark", parent: "NL-OV", coords: [6.0800, 52.7400],
-    name: { de: "Giethoorn", hu: "Giethoorn", ro: "Giethoorn", en: "Giethoorn" },
-    image: "/geo-images/netherlands/giethoorn-village.webp",
-    description: {
-      de: "Giethoorn ist ein idyllisches Dorf in der Provinz Overijssel, das oft als 'Venedig des Nordens' bezeichnet wird. Der historische Kern hat keine Straßen, stattdessen dienen kleine Kanäle als Transportwege. Die charakteristischen strohgedeckten Bauernhäuser sind durch zahlreiche hohe Holzbrücken verbunden.",
-      hu: "Giethoorn egy idilli falu Overijssel tartományban, amelyet gyakran 'Észak Velencéjének' is neveznek. A történelmi központban nincsenek utak, helyettük kis csatornák szolgálnak közlekedési útvonalként. A jellegzetes nádtetős parasztházakat számos magas fahíd köti össze.",
-      ro: "Giethoorn este un sat idilic din provincia Overijssel, adesea numit 'Veneția Nordului'. Centrul istoric nu are străzi, în schimb canale mici servesc drept rute de transport. Fermele caracteristice cu acoperiș de stuf sunt conectate prin numeroase poduri înalte din lemn.",
-      en: "Giethoorn is an idyllic village in the province of Overijssel, often referred to as the 'Venice of the North'. The historic center has no roads, instead small canals serve as transport routes. The characteristic thatched-roof farmhouses are connected by numerous high wooden bridges."
-    },
-    facts: {
-      de: ["Bekannt als 'Venedig des Nordens'.", "Das historische Zentrum ist komplett autofrei.", "Der Verkehr erfolgt hauptsächlich über sogenannte Flüsterboote.", "Besitzt über 170 kleine Holzbrücken.", "Liegt im Nationalpark Weerribben-Wieden.", "Entstand durch Torfabbau in der Region."],
-      hu: ["'Észak Velencéje' néven ismert.", "A történelmi központ teljesen autómentes.", "A közlekedés főleg úgynevezett suttogócsónakokkal történik.", "Több mint 170 kis fahíddal rendelkezik.", "A Weerribben-Wieden Nemzeti Parkban található.", "A régióban folyó tőzegkitermelés révén alakult ki."],
-      ro: ["Cunoscut ca 'Veneția Nordului'.", "Centrul istoric este complet fără mașini.", "Transportul se face în principal prin așa-numitele bărci cu șoapte.", "Are peste 170 de poduri mici din lemn.", "Situat în Parcul Național Weerribben-Wieden.", "Creat de extracția turbei în regiune."],
-      en: ["Known as the 'Venice of the North'.", "The historic center is completely car-free.", "Traffic is mainly via so-called whisper boats.", "Has over 170 small wooden bridges.", "Located in the Weerribben-Wieden National Park.", "Created by peat extraction in the region."]
     }
   },
   {

@@ -5,9 +5,8 @@ export const albaniaCitiesV2: POI[] = [
     id: "albania-elbasan-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan",
-image: "/poi-images/albania-elbasan-cities-v2.webp"
-},
+    name: { de: "Elbasan", hu: "Elbasan", ro: "Elbasan", en: "Elbasan"},
+    image: "/poi-images/albania-elbasan-cities-v2.webp",
     coords: [20.0822, 41.1125],
     coordinates: { lat: 41.1125, lng: 20.0822 },
     description: {
@@ -40,9 +39,8 @@ imageHint: "Elbasan fortress walls and clock tower",
     id: "albania-kamez-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Kamëz", hu: "Kamëz", ro: "Kamëz", en: "Kamëz",
-image: "/poi-images/albania-kamez-cities-v2.webp"
-},
+    name: { de: "Kamëz", hu: "Kamëz", ro: "Kamëz", en: "Kamëz"},
+    image: "/poi-images/albania-kamez-cities-v2.webp",
     coords: [19.7594, 41.3817],
     coordinates: { lat: 41.3817, lng: 19.7594 },
     description: {
@@ -75,9 +73,8 @@ imageHint: "Kamëz city center and boulevard",
     id: "albania-lushnje-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Lushnjë", hu: "Lushnjë", ro: "Lushnjë", en: "Lushnjë",
-image: "/poi-images/albania-lushnje-cities-v2.webp"
-},
+    name: { de: "Lushnjë", hu: "Lushnjë", ro: "Lushnjë", en: "Lushnjë"},
+    image: "/poi-images/albania-lushnje-cities-v2.webp",
     coords: [19.705, 40.9419],
     coordinates: { lat: 40.9419, lng: 19.705 },
     description: {
@@ -110,9 +107,8 @@ imageHint: "Lushnjë city center and memorial",
     id: "albania-pogradec-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Pogradec", hu: "Pogradec", ro: "Pogradec", en: "Pogradec",
-image: "/poi-images/albania-pogradec-cities-v2.webp"
-},
+    name: { de: "Pogradec", hu: "Pogradec", ro: "Pogradec", en: "Pogradec"},
+    image: "/poi-images/albania-pogradec-cities-v2.webp",
     coords: [20.6544, 40.9014],
     coordinates: { lat: 40.9014, lng: 20.6544 },
     description: {
@@ -145,9 +141,8 @@ imageHint: "Pogradec lakeside promenade at sunset",
     id: "albania-kavaje-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Kavajë", hu: "Kavajë", ro: "Kavajë", en: "Kavajë",
-image: "/poi-images/albania-kavaje-cities-v2.webp"
-},
+    name: { de: "Kavajë", hu: "Kavajë", ro: "Kavajë", en: "Kavajë"},
+    image: "/poi-images/albania-kavaje-cities-v2.webp",
     coords: [19.5569, 41.1856],
     coordinates: { lat: 41.1856, lng: 19.5569 },
     description: {
@@ -180,9 +175,8 @@ imageHint: "Kavajë clock tower and mosque",
     id: "albania-lac-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Laç", hu: "Laç", ro: "Laç", en: "Laç",
-image: "/poi-images/albania-lac-cities-v2.webp"
-},
+    name: { de: "Laç", hu: "Laç", ro: "Laç", en: "Laç"},
+    image: "/poi-images/albania-lac-cities-v2.webp",
     coords: [19.7131, 41.6356],
     coordinates: { lat: 41.6356, lng: 19.7131 },
     description: {
@@ -215,9 +209,8 @@ imageHint: "St. Anthony Church on the hill above Laç",
     id: "albania-lezhe-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Lezhë", hu: "Lezhë", ro: "Lezhë", en: "Lezhë",
-image: "/poi-images/albania-lezhe-cities-v2.webp"
-},
+    name: { de: "Lezhë", hu: "Lezhë", ro: "Lezhë", en: "Lezhë"},
+    image: "/poi-images/albania-lezhe-cities-v2.webp",
     coords: [19.6436, 41.7836],
     coordinates: { lat: 41.7836, lng: 19.6436 },
     description: {
@@ -250,9 +243,8 @@ imageHint: "Memorial of Skanderbeg in Lezhë",
     id: "albania-kruje-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Krujë", hu: "Krujë", ro: "Krujë", en: "Krujë",
-image: "/poi-images/albania-kruje-cities-v2.webp"
-},
+    name: { de: "Krujë", hu: "Krujë", ro: "Krujë", en: "Krujë"},
+    image: "/poi-images/albania-kruje-cities-v2.webp",
     coords: [19.7925, 41.5094],
     coordinates: { lat: 41.5094, lng: 19.7925 },
     description: {
@@ -285,9 +277,8 @@ imageHint: "Krujë Castle and old bazaar street",
     id: "albania-patos-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Patos", hu: "Patos", ro: "Patos", en: "Patos",
-image: "/poi-images/albania-patos-cities-v2.webp"
-},
+    name: { de: "Patos", hu: "Patos", ro: "Patos", en: "Patos"},
+    image: "/poi-images/albania-patos-cities-v2.webp",
     coords: [19.6167, 40.6833],
     coordinates: { lat: 40.6833, lng: 19.6167 },
     description: {
@@ -303,14 +294,26 @@ image: "/poi-images/albania-patos-cities-v2.webp"
       en: ["Center of oil extraction", "Founded around 1949", "Industrial planned city", "Located near Fier"],
     },
     imageHint: "Oil pumps in the landscape of Patos",
-    image: "/poi-images/albania-patos-cities-v2.webp"},
+    image: "/poi-images/albania-patos-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Patos ist das bedeutendste Zentrum der albanischen Erdölindustrie. Die Stadt entwickelte sich rasant im 20. Jahrhundert nach der Entdeckung großer Vorkommen in der Myzeqe-Ebene.",
+      hu: "Patos Albánia egyik legfontosabb ipari városa, az ország kőolajbányászatának központja. A város fejlődése a 20. század közepén indult meg a jelentős mezők feltárásával.",
+      ro: "Patos este principalul centru al industriei petroliere din Albania. Orașul s-a dezvoltat rapid în secolul XX, după descoperirea unor zăcăminte majore în câmpia Myzeqe.",
+      en: "Patos is the primary hub of the Albanian oil industry. The city expanded significantly during the mid-20th century following the discovery of vast crude oil reserves.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Industriestadt um 1949", "Liegt im Qark Fier im Südwesten", "Zentrum des Ölfeldes Patos-Marinza", "Höhe von ca. 70 Metern über Meer"],
+      hu: ["Ipari városként alapították 1949-ben", "Fier megyében, délnyugaton fekszik", "A Patos-Marinza olajmező központja", "Tengerszint feletti magassága 70 m"],
+      ro: ["Fondat ca oraș industrial în 1949", "Situat în regiunea Fier, în sud-vest", "Centrul câmpului petrolifer Patos-Marinza", "Altitudine medie de circa 70 metri"],
+      en: ["Founded as an industrial town in 1949", "Located in Fier County, SW Albania", "Center of the Patos-Marinza oil field", "Average elevation of 70 meters"],
+    },
+  },
   {
     id: "albania-kucove-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Kuçovë", hu: "Kuçovë", ro: "Kuçovë", en: "Kuçovë",
-image: "/poi-images/albania-kucove-cities-v2.webp"
-},
+    name: { de: "Kuçovë", hu: "Kuçovë", ro: "Kuçovë", en: "Kuçovë"},
+    image: "/poi-images/albania-kucove-cities-v2.webp",
     coords: [19.9142, 40.8031],
     coordinates: { lat: 40.8031, lng: 19.9142 },
     description: {
@@ -326,14 +329,26 @@ image: "/poi-images/albania-kucove-cities-v2.webp"
       en: ["Once named Qyteti Stalin", "Country's first oil center", "Soviet industrial architecture", "NATO air base"],
     },
     imageHint: "Industrial skyline of Kuçovë with oil rigs",
-    image: "/poi-images/albania-kucove-cities-v2.webp"},
+    image: "/poi-images/albania-kucove-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kuçovë war während der kommunistischen Ära als Stalin-Stadt bekannt. Sie wurde als Musterstadt für die Ölindustrie geplant und beherbergt einen wichtigen Militärflugplatz.",
+      hu: "Kuçovë a kommunizmus idején Sztálinváros néven volt ismert. Az olajipar számára tervezett mintavárosként épült fel, és fontos katonai repülőtérrel rendelkezik.",
+      ro: "Kuçovë a fost cunoscut sub numele de Orașul Stalin în perioada comunistă. A fost proiectat ca un oraș model pentru industria petrolieră și găzduiește o bază aeriană.",
+      en: "Kuçovë was known as Stalin City during the communist era. It was planned as a model industrial town for oil workers and hosts a significant military airbase.",
+    },
+    factsAdvanced: {
+      de: ["Hieß von 1950 bis 1991 Qyteti Stalin", "Erster Ölbrunnen wurde 1928 gebohrt", "Besitzt eine NATO-Luftwaffenbasis", "Einwohnerzahl ca. 12.000 (Kernstadt)"],
+      hu: ["1950 és 1991 között Sztálinváros", "Az első olajkutat 1928-ban fúrták", "NATO légi támaszpont működik itt", "Lakossága kb. 12 000 fő"],
+      ro: ["Numit Qyteti Stalin între 1950 și 1991", "Primul puț de petrol forat în 1928", "Găzduiește o bază aeriană NATO", "Populație urbană de circa 12.000 loc."],
+      en: ["Named Qyteti Stalin from 1950 to 1991", "First oil well drilled here in 1928", "Hosts a strategic NATO airbase", "Population approx. 12,000 in town"],
+    },
+  },
   {
     id: "albania-kukes-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Kukës", hu: "Kukës", ro: "Kukës", en: "Kukës",
-image: "/poi-images/albania-kukes-cities-v2.webp"
-},
+    name: { de: "Kukës", hu: "Kukës", ro: "Kukës", en: "Kukës"},
+    image: "/poi-images/albania-kukes-cities-v2.webp",
     coords: [20.4217, 42.0767],
     coordinates: { lat: 42.0767, lng: 20.4217 },
     description: {
@@ -349,14 +364,26 @@ image: "/poi-images/albania-kukes-cities-v2.webp"
       en: ["Nominated for Nobel Peace Prize", "New town built since 1962", "At the confluence of Drin rivers", "Major border crossing to Kosovo"],
     },
     imageHint: "Kukës city with the Gjallica mountain background",
-    image: "/poi-images/albania-kukes-cities-v2.webp"},
+    image: "/poi-images/albania-kukes-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Das heutige Kukës ist eine Reißbrettstadt, die in den 1970ern erbaut wurde. Die ursprüngliche Altstadt versank im Fierza-Stausee, um Platz für die Wasserkraftnutzung zu machen.",
+      hu: "A mai Kukës egy tervezett város, amelyet az 1970-es években építettek. Az eredeti óváros a Fierza-víztározó mélyén fekszik a vízerőmű építése miatt.",
+      ro: "Kukësul actual este un oraș planificat, construit în anii '70. Orașul vechi a fost inundat de lacul de acumulare Fierza pentru a permite producția de energie.",
+      en: "Modern Kukës is a planned city built in the 1970s. The original town was submerged by the Fierza reservoir to facilitate hydroelectric power generation.",
+    },
+    factsAdvanced: {
+      de: ["Nominiert für Friedensnobelpreis 2000", "Liegt am Zusammenfluss von Drin-Armen", "Flughafen Kukës Zayed eröffnet 2021", "Umgeben von den Gipfeln der Gjallica"],
+      hu: ["Nobel-békedíjra jelölték 2000-ben", "A Drin folyó ágainak összefolyásánál", "Kukës Zayed repülőtér nyílt 2021-ben", "A Gjallica-csúcs lábánál fekszik"],
+      ro: ["Nominalizat la Premiul Nobel în 2000", "La confluența brațelor râului Drin", "Aeroportul Kukës Zayed deschis în 2021", "Înconjurat de masivul Gjallica"],
+      en: ["Nominated for Nobel Peace Prize in 2000", "Located at the confluence of Drin arms", "Kukës Zayed Airport opened in 2021", "Surrounded by the Gjallica mountains"],
+    },
+  },
   {
     id: "albania-peshkopi-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Peshkopi", hu: "Peshkopi", ro: "Peshkopi", en: "Peshkopi",
-image: "/poi-images/albania-peshkopi-cities-v2.webp"
-},
+    name: { de: "Peshkopi", hu: "Peshkopi", ro: "Peshkopi", en: "Peshkopi"},
+    image: "/poi-images/albania-peshkopi-cities-v2.webp",
     coords: [20.4289, 41.685],
     coordinates: { lat: 41.685, lng: 20.4289 },
     description: {
@@ -372,14 +399,26 @@ image: "/poi-images/albania-peshkopi-cities-v2.webp"
       en: ["Famous for thermal springs", "Center of the Dibra region", "Near Mount Korab", "Traditional stone architecture"],
     },
     imageHint: "Peshkopi thermal baths and mountain views",
-    image: "/poi-images/albania-peshkopi-cities-v2.webp"},
+    image: "/poi-images/albania-peshkopi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Peshkopi ist das Verwaltungszentrum der Region Dibra im Osten Albaniens. Bekannt ist die Stadt vor allem für ihre schwefelhaltigen Thermalquellen und die Nähe zum Korab-Gebirge.",
+      hu: "Peshkopi a kelet-albániai Dibra régió központja. A város elsősorban kéntartalmú gyógyfürdőiről és a közeli Korab-hegység közelségéről nevezetes.",
+      ro: "Peshkopi este centrul administrativ al regiunii Dibra din estul Albaniei. Orașul este renumit pentru izvoarele termale sulfuroase și apropierea de muntele Korab.",
+      en: "Peshkopi is the administrative center of the Dibër region in eastern Albania. It is famous for its sulfuric thermal baths and proximity to the Korab massif.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für 'Llixhat' (Thermalbäder)", "Liegt auf ca. 650 Metern Höhe", "Grenznähe zu Nordmazedonien (20 km)", "Zentrum des Obstanbaus in Albanien"],
+      hu: ["Híres kénes gyógyfürdőiről (Llixhat)", "Kb. 650 méteres magasságban fekszik", "20 km-re az észak-macedón határtól", "Az albán gyümölcstermesztés központja"],
+      ro: ["Renumit pentru băile termale 'Llixhat'", "Situat la o altitudine de circa 650 m", "Aproape de granița cu Macedonia (20 km)", "Centru pomicol major al Albaniei"],
+      en: ["Famous for 'Llixhat' thermal springs", "Situated at 650m above sea level", "20km from North Macedonia border", "Major fruit production hub in Albania"],
+    },
+  },
   {
     id: "albania-burrel-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Burrel", hu: "Burrel", ro: "Burrel", en: "Burrel",
-image: "/poi-images/albania-burrel-cities-v2.webp"
-},
+    name: { de: "Burrel", hu: "Burrel", ro: "Burrel", en: "Burrel"},
+    image: "/poi-images/albania-burrel-cities-v2.webp",
     coords: [20.0108, 41.6103],
     coordinates: { lat: 41.6103, lng: 20.0108 },
     description: {
@@ -395,14 +434,26 @@ image: "/poi-images/albania-burrel-cities-v2.webp"
       en: ["Center of Mat District", "Known for chrome mining", "Home of King Zog I", "Founded on a plateau"],
     },
     imageHint: "Burrel main square and mountains",
-    image: "/poi-images/albania-burrel-cities-v2.webp"},
+    image: "/poi-images/albania-burrel-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Burrel liegt auf einem Plateau im Mat-Tal. Die Stadt wurde unter König Zog I. ausgebaut und war während der sozialistischen Ära ein bedeutender Standort für die Bergbauindustrie.",
+      hu: "Burrel a Mat-völgy egy fennsíkján fekszik. A várost I. Zogu király idején fejlesztették tovább, a szocializmus alatt pedig jelentős bányászati központtá vált.",
+      ro: "Burrel este situat pe un platou în valea râului Mat. Orașul a fost extins sub regele Zog I și a servit ca centru minier important în perioada comunistă.",
+      en: "Burrel is situated on a plateau overlooking the Mat valley. Expanded under King Zog I, it became a significant mining center during the socialist era.",
+    },
+    factsAdvanced: {
+      de: ["Geburtsort von König Zog I. (nahebei)", "Zentrum der Chrom-Verarbeitung", "Liegt im Qark Dibra (ehemals Mat)", "Stadtstatus offiziell seit 1952"],
+      hu: ["I. Zogu király szülőhelye (közelében)", "A krómfeldolgozás egyik központja", "Dibra megyében (Mat körzet) fekszik", "Városi rangot 1952-ben kapott"],
+      ro: ["Locul natal al regelui Zog I (aproape)", "Centru de prelucrare a cromului", "Situat în regiunea Dibra (Mat)", "Statut de oraș obținut în 1952"],
+      en: ["Birthplace of King Zog I nearby", "Center for chromium processing", "Located in Dibër County (Mat district)", "Official city status granted in 1952"],
+    },
+  },
   {
     id: "albania-cerrik-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Cërrik", hu: "Cërrik", ro: "Cërrik", en: "Cërrik",
-image: "/poi-images/albania-cerrik-cities-v2.webp"
-},
+    name: { de: "Cërrik", hu: "Cërrik", ro: "Cërrik", en: "Cërrik"},
+    image: "/poi-images/albania-cerrik-cities-v2.webp",
     coords: [19.9753, 41.0319],
     coordinates: { lat: 41.0319, lng: 19.9753 },
     description: {
@@ -418,14 +469,26 @@ image: "/poi-images/albania-cerrik-cities-v2.webp"
       en: ["Former oil refining center", "Located near Elbasan", "Founded around 1952", "Key agricultural market"],
     },
     imageHint: "Cërrik town hall and main street",
-    image: "/poi-images/albania-cerrik-cities-v2.webp"},
+    image: "/poi-images/albania-cerrik-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cërrik ist eine industrielle Satellitenstadt südwestlich von Elbasan. Sie wurde in der Nachkriegszeit primär für die Arbeiter einer großen Erdölraffinerie und Chemiewerke errichtet.",
+      hu: "Cërrik egy ipari szatellitváros Elbasantól délnyugatra. A háború utáni években épült, elsősorban a kőolajfinomító és vegyi üzemek munkásai számára.",
+      ro: "Cërrik este un oraș industrial satelit situat la sud-vest de Elbasan. A fost construit postbelic pentru muncitorii de la rafinăria locală și combinatele chimice.",
+      en: "Cërrik is an industrial satellite town southwest of Elbasan. It was established post-WWII primarily to house workers from the local oil refinery and chemical plants.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn der Raffinerie 1952", "Liegt in der fruchtbaren Shkumbin-Ebene", "Wichtiger Verkehrsknoten im Qark Elbasan", "Höhe von nur 65 Metern über Meer"],
+      hu: ["A finomító építése 1952-ben indult", "A termékeny Shkumbin-síkságon fekszik", "Fontos csomópont Elbasan megyében", "Tengerszint feletti magassága 65 m"],
+      ro: ["Rafinăria a fost construită în 1952", "Situat în câmpia fertilă a Shkumbinului", "Nod rutier în regiunea Elbasan", "Altitudine medie de 65 metri"],
+      en: ["Refinery construction started in 1952", "Located in the fertile Shkumbin plain", "Road junction in Elbasan County", "Elevation of 65m above sea level"],
+    },
+  },
   {
     id: "albania-shijak-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Shijak", hu: "Shijak", ro: "Shijak", en: "Shijak",
-image: "/poi-images/albania-shijak-cities-v2.webp"
-},
+    name: { de: "Shijak", hu: "Shijak", ro: "Shijak", en: "Shijak"},
+    image: "/poi-images/albania-shijak-cities-v2.webp",
     coords: [19.5667, 41.3456],
     coordinates: { lat: 41.3456, lng: 19.5667 },
     description: {
@@ -441,14 +504,26 @@ image: "/poi-images/albania-shijak-cities-v2.webp"
       en: ["Located on Erzen River", "Historic trading market", "Key wine producer", "Founded in the 19th century"],
     },
     imageHint: "Shijak town center and Erzen river",
-    image: "/poi-images/albania-shijak-cities-v2.webp"},
+    image: "/poi-images/albania-shijak-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Shijak ist eine historische Kleinstadt am Ufer des Erzen, auf halbem Weg zwischen Tirana und Durrës. Sie ist bekannt für ihre traditionellen Märkte und landwirtschaftlichen Produkte.",
+      hu: "Shijak egy történelmi kisváros az Erzen-folyó partján, Tirana és Durrës között. Hagyományos piacairól és mezőgazdasági terményeiről ismert település.",
+      ro: "Shijak este un oraș istoric pe malul râului Erzen, situat între Tirana și Durrës. Este cunoscut pentru piețele tradiționale și produsele agricole locale.",
+      en: "Shijak is a historical small town on the banks of the Erzen River, mid-way between Tirana and Durrës. It is renowned for its markets and agricultural produce.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1880 durch Sipahi", "Schwere Erdbebenschäden im Jahr 2019", "Liegt im Qark Durrës", "Traditionelle Teppichweberei früher"],
+      hu: ["1880 körül alapították szipáhik", "Súlyos földrengéskárok 2019-ben", "Durrës megyében fekszik", "Hagyományos szőnyegszövő központ"],
+      ro: ["Fondat în jurul anului 1880", "Afectat grav de cutremurul din 2019", "Situat în regiunea Durrës", "Fost centru de țesut covoare"],
+      en: ["Founded around 1880 by Sipahi", "Severely damaged in the 2019 earthquake", "Located in Durrës County", "Former traditional carpet weaving center"],
+    },
+  },
   {
     id: "albania-corovode-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Çorovodë", hu: "Çorovodë", ro: "Çorovodë", en: "Çorovodë",
-image: "/poi-images/albania-corovode-cities-v2.webp"
-},
+    name: { de: "Çorovodë", hu: "Çorovodë", ro: "Çorovodë", en: "Çorovodë"},
+    image: "/poi-images/albania-corovode-cities-v2.webp",
     coords: [20.2272, 40.5042],
     coordinates: { lat: 40.5042, lng: 20.2272 },
     description: {
@@ -464,14 +539,26 @@ image: "/poi-images/albania-corovode-cities-v2.webp"
       en: ["Gateway to Osum Canyon", "Center of Skrapar region", "Famous for Raki production", "Nestled between mountains"],
     },
     imageHint: "Osum River canyon near Çorovodë",
-    image: "/poi-images/albania-corovode-cities-v2.webp"},
+    image: "/poi-images/albania-corovode-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Çorovodë ist das Tor zu den spektakulären Osum-Canyons im Süden Albaniens. Die Stadt liegt in einer tiefen Schlucht und dient als Basis für Outdoor-Tourismus wie Rafting.",
+      hu: "Çorovodë a látványos Osum-kanyon kapuja Dél-Albániában. A város egy mély szurdokvölgyben fekszik, és a vadvízi evezés és természetjárás központja.",
+      ro: "Çorovodë este poarta de intrare către spectaculoasele canioane ale râului Osum. Orașul este situat într-o vale adâncă și servește ca bază pentru rafting.",
+      en: "Çorovodë is the gateway to the spectacular Osum Canyons in southern Albania. Nestled in a deep valley, it serves as a primary hub for rafting and outdoor tourism.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort des Skrapar-Distrikts", "Osum-Canyon ist ca. 26 km lang", "Name bedeutet 'Schwarzes Wasser'", "Liegt auf ca. 300 Metern Höhe"],
+      hu: ["Skrapar körzet központja", "Az Osum-kanyon hossza kb. 26 km", "Neve 'fekete vizet' jelent", "Kb. 300 méteres magasságban fekszik"],
+      ro: ["Centrul districtului Skrapar", "Canionul Osum are circa 26 km lungime", "Numele înseamnă 'Apă Neagră'", "Situat la o altitudine de 300 m"],
+      en: ["Center of the Skrapar district", "Osum Canyon is approx. 26km long", "Name translates to 'Black Water'", "Elevation of roughly 300 meters"],
+    },
+  },
   {
     id: "albania-librazhd-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Librazhd", hu: "Librazhd", ro: "Librazhd", en: "Librazhd",
-image: "/poi-images/albania-librazhd-cities-v2.webp"
-},
+    name: { de: "Librazhd", hu: "Librazhd", ro: "Librazhd", en: "Librazhd"},
+    image: "/poi-images/albania-librazhd-cities-v2.webp",
     coords: [20.3153, 41.1831],
     coordinates: { lat: 41.1831, lng: 20.3153 },
     description: {
@@ -487,14 +574,26 @@ image: "/poi-images/albania-librazhd-cities-v2.webp"
       en: ["Gateway to Shebenik Park", "Located on the Via Egnatia", "Known for honey production", "Shkumbin River flows through"],
     },
     imageHint: "Librazhd town with mountains and river",
-    image: "/poi-images/albania-librazhd-cities-v2.webp"},
+    image: "/poi-images/albania-librazhd-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Librazhd liegt an der antiken Via Egnatia am Ufer des Shkumbin. Die Stadt ist von Bergen umgeben und grenzt an den Shebenik-Jabllanicë-Nationalpark, ein UNESCO-Weltnaturerbe.",
+      hu: "Librazhd az ókori Via Egnatia mentén, a Shkumbin-folyó partján fekszik. Hegyek övezik, szomszédságában található a Shebenik-Jabllanicë Nemzeti Park.",
+      ro: "Librazhd se află pe traseul vechii Via Egnatia, pe malul râului Shkumbin. Orașul este poarta către Parcul Național Shebenik-Jabllanicë, sit UNESCO.",
+      en: "Librazhd is located along the ancient Via Egnatia by the Shkumbin River. Surrounded by peaks, it borders the UNESCO-listed Shebenik-Jabllanicë National Park.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als moderne Stadt 1958", "Tor zum Shebenik-Nationalpark", "Bekannt für Honig- und Weinproduktion", "Schnittstelle zwischen Nord und Süd"],
+      hu: ["Modern városként 1958-ban alapították", "A Shebenik Nemzeti Park kapuja", "Híres méz- és bortermeléséről", "Észak- és Dél-Albánia találkozási pontja"],
+      ro: ["Declarat oraș în anul 1958", "Poarta către Parcul Național Shebenik", "Cunoscut pentru miere și vin", "Nod de legătură între nord și sud"],
+      en: ["Founded as a modern town in 1958", "Gateway to Shebenik National Park", "Famous for honey and wine production", "Link between northern and southern Albania"],
+    },
+  },
   {
     id: "albania-tepelene-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Tepelenë", hu: "Tepelenë", ro: "Tepelenë", en: "Tepelenë",
-image: "/poi-images/albania-tepelene-cities-v2.webp"
-},
+    name: { de: "Tepelenë", hu: "Tepelenë", ro: "Tepelenë", en: "Tepelenë"},
+    image: "/poi-images/albania-tepelene-cities-v2.webp",
     coords: [20.0192, 40.2958],
     coordinates: { lat: 40.2958, lng: 20.0192 },
     description: {
@@ -510,14 +609,26 @@ image: "/poi-images/albania-tepelene-cities-v2.webp"
       en: ["Castle of Ali Pasha", "Famous for mineral water", "Located on the Vjosa River", "Visited by Lord Byron"],
     },
     imageHint: "Tepelenë fortress overlooking the Vjosa river",
-    image: "/poi-images/albania-tepelene-cities-v2.webp"},
+    image: "/poi-images/albania-tepelene-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tepelenë thront strategisch über dem Zusammenfluss von Vjosa und Drino. Berühmt wurde die Stadt durch die Festung von Ali Pascha Tepelena und Lord Byrons Besuch im Jahr 1809.",
+      hu: "Tepelenë stratégiai helyen, a Vjosa és a Drino folyók összefolyásánál fekszik. Ali Tepeleni pasa erődje és Lord Byron 1809-es látogatása tette híressé.",
+      ro: "Tepelenë este situat strategic deasupra confluenței râurilor Vjosa și Drino. Orașul este faimos pentru cetatea lui Ali Pașa și vizita lui Lord Byron în 1809.",
+      en: "Tepelenë sits strategically above the confluence of the Vjosa and Drino rivers. It is famed for Ali Pasha's fortress and Lord Byron's historic visit in 1809.",
+    },
+    factsAdvanced: {
+      de: ["Ali Pascha Burgruinen sind erhalten", "Berühmt für Mineralwasser (Uji Tepelena)", "Lord Byron Denkmal in der Stadt", "Schlüsselposition im Gjirokastër Qark"],
+      hu: ["Ali pasa várának romjai ma is állnak", "Híres ásványvizéről (Uji Tepelena)", "Lord Byron-emlékmű a városban", "Kulcsfontosságú hely Gjirokastër megyében"],
+      ro: ["Ruinele cetății lui Ali Pașa sunt vizibile", "Renumit pentru apa minerală locală", "Monument Lord Byron în oraș", "Poziție cheie în regiunea Gjirokastër"],
+      en: ["Ali Pasha's castle ruins remain", "Famous for 'Uji Tepelena' mineral water", "Lord Byron monument in the city", "Key location in Gjirokastër County"],
+    },
+  },
   {
     id: "albania-gramsh-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Gramsh", hu: "Gramsh", ro: "Gramsh", en: "Gramsh",
-image: "/poi-images/albania-gramsh-cities-v2.webp"
-},
+    name: { de: "Gramsh", hu: "Gramsh", ro: "Gramsh", en: "Gramsh"},
+    image: "/poi-images/albania-gramsh-cities-v2.webp",
     coords: [20.1839, 40.8672],
     coordinates: { lat: 40.8672, lng: 20.1839 },
     description: {
@@ -533,14 +644,26 @@ image: "/poi-images/albania-gramsh-cities-v2.webp"
       en: ["Former weapons industry center", "Located on Devoll River", "Banjë hydro plant nearby", "Gateway to Holta Canyon"],
     },
     imageHint: "Gramsh town center with surrounding hills",
-    image: "/poi-images/albania-gramsh-cities-v2.webp"},
+    image: "/poi-images/albania-gramsh-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gramsh liegt am Fluss Devoll im Herzen Zentralebaniens. Die Stadt wandelte sich von einem landwirtschaftlichen Zentrum zu einem Industriestandort mit Fokus auf Wasserkraft.",
+      hu: "Gramsh a Devoll-folyó mentén, Közép-Albánia szívében fekszik. Mezőgazdasági központból vált ipari várossá, ahol ma a vízi energiahasznosítás dominál.",
+      ro: "Gramsh este situat pe râul Devoll, în inima Albaniei centrale. Orașul a evoluat de la un centru agricol la unul industrial axat pe energia hidroelectrică.",
+      en: "Gramsh is located on the Devoll River in central Albania. It evolved from an agricultural center into an industrial town focused on hydroelectric power.",
+    },
+    factsAdvanced: {
+      de: ["Große Waffenfabrik aus der Ära Hoxha", "Nahe dem Banjë-Wasserkraftwerk", "Liegt am Fuße des Tomorr-Gebirges", "Wichtige Verbindung nach Korça"],
+      hu: ["Hatalmas fegyvergyár a Hoxha-érából", "A Banjë vízerőmű közelében fekszik", "A Tomorr-hegység lábánál található", "Fontos összekötő út Korça felé"],
+      ro: ["Fostă mare fabrică de armament", "Lângă hidrocentrala de la Banjë", "La poalele masivului Tomorr", "Legătură rutieră importantă spre Korça"],
+      en: ["Large armaments factory from Hoxha era", "Near the Banjë hydroelectric plant", "At the foot of the Tomorr mountains", "Important transport link to Korça"],
+    },
+  },
   {
     id: "albania-permet-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Përmet", hu: "Përmet", ro: "Përmet", en: "Përmet",
-image: "/poi-images/albania-permet-cities-v2.webp"
-},
+    name: { de: "Përmet", hu: "Përmet", ro: "Përmet", en: "Përmet"},
+    image: "/poi-images/albania-permet-cities-v2.webp",
     coords: [20.3514, 40.2333],
     coordinates: { lat: 40.2333, lng: 20.3514 },
     description: {
@@ -556,14 +679,26 @@ image: "/poi-images/albania-permet-cities-v2.webp"
       en: ["City of Roses", "Benja thermal baths", "Located on the Vjosa River", "Famous for Gliko sweets"],
     },
     imageHint: "The big rock (Guri i Qytetit) in Përmet",
-    image: "/poi-images/albania-permet-cities-v2.webp"},
+    image: "/poi-images/albania-permet-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Përmet gilt als die 'Stadt der Blumen' und der Rosen. Bekannt für ihre entspannte Atmosphäre, Thermalquellen in Bënja und die exzellente lokale Gastronomie am Oberlauf der Vjosa.",
+      hu: "Përmet a 'virágok városa' és a rózsák hazája. Nyugodt légköréről, a bënjai termálforrásokról és a Vjosa-folyó menti kiváló gasztronómiájáról ismert.",
+      ro: "Përmet este supranumit 'Orașul Florilor'. Este renumit pentru atmosfera liniștită, apele termale de la Bënja și gastronomia locală de pe malul râului Vjosa.",
+      en: "Përmet is known as the 'City of Flowers' and roses. It is famous for its relaxed vibe, Bënja thermal springs, and excellent cuisine along the upper Vjosa River.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für 'Gliko' (Süßspeise)", "Großer Stadtfelsen (Guri i Qytetit)", "Tor zum Fir of Hotova Nationalpark", "Zentrum der albanischen Polyphonie"],
+      hu: ["Híres a 'Gliko' gyümölcsbefőttről", "Városképi jelentőségű szikla a központban", "A Hotovai-fenyves Nemzeti Park kapuja", "Az albán polifonikus zene központja"],
+      ro: ["Renumit pentru dulceața 'Gliko'", "Simbolul orașului: Stânca Orașului", "Poarta spre Parcul Național Hotovë", "Centru al polifoniei albaneze"],
+      en: ["Famous for 'Gliko' fruit preserves", "Iconic City Rock (Guri i Qytetit)", "Gateway to Fir of Hotova National Park", "Center of Albanian polyphonic music"],
+    },
+  },
   {
     id: "albania-ballsh-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Ballsh", hu: "Ballsh", ro: "Ballsh", en: "Ballsh",
-image: "/poi-images/albania-ballsh-cities-v2.webp"
-},
+    name: { de: "Ballsh", hu: "Ballsh", ro: "Ballsh", en: "Ballsh"},
+    image: "/poi-images/albania-ballsh-cities-v2.webp",
     coords: [19.735, 40.6033],
     coordinates: { lat: 40.6033, lng: 19.735 },
     description: {
@@ -579,14 +714,26 @@ image: "/poi-images/albania-ballsh-cities-v2.webp"
       en: ["Center of oil refining", "Near the ancient city Byllis", "Founded in the 20th century", "Key employer in Mallakastra"],
     },
     imageHint: "Industrial plants and hills around Ballsh",
-    image: "/poi-images/albania-ballsh-cities-v2.webp"},
+    image: "/poi-images/albania-ballsh-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ballsh liegt im Hügelland der Mallakastra und ist das industrielle Rückgrat der albanischen Ölverarbeitung. Nahe der Stadt befinden sich die bedeutenden Ruinen des antiken Byllis.",
+      hu: "Ballsh a Mallakastra-dombságban fekszik, és az albán olajfeldolgozás ipari gerincét alkotja. A város közelében találhatók az ókori Byllis romjai.",
+      ro: "Ballsh este situat în dealurile Mallakastra și reprezintă coloana vertebrală a rafinării petrolului. Lângă oraș se află ruinele anticei cetăți Byllis.",
+      en: "Ballsh is located in the Mallakastra hills and serves as the industrial backbone of Albanian oil refining. Nearby lie the significant ruins of ancient Byllis.",
+    },
+    factsAdvanced: {
+      de: ["Sitz einer großen Ölraffinerie", "Antike Stadt Byllis liegt 5 km entfernt", "Hauptort der Mallakastra-Region", "Siedlung seit dem Mittelalter bekannt"],
+      hu: ["Nagy kőolajfinomító működik itt", "Byllis ókori városa 5 km-re fekszik", "A Mallakastra régió központja", "A középkor óta lakott település"],
+      ro: ["Sediul unei mari rafinării de petrol", "Orașul antic Byllis este la 5 km distanță", "Centrul regiunii Mallakastra", "Așezare atestată din epoca medievală"],
+      en: ["Home to a major oil refinery", "Ancient Byllis is located 5km away", "Main town of Mallakastra region", "Settlement known since medieval times"],
+    },
+  },
   {
     id: "albania-fushe-kruje-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Fushë-Krujë", hu: "Fushë-Krujë", ro: "Fushë-Krujë", en: "Fushë-Krujë",
-image: "/poi-images/albania-fushe-kruje-cities-v2.webp"
-},
+    name: { de: "Fushë-Krujë", hu: "Fushë-Krujë", ro: "Fushë-Krujë", en: "Fushë-Krujë"},
+    image: "/poi-images/albania-fushe-kruje-cities-v2.webp",
     coords: [19.7222, 41.4783],
     coordinates: { lat: 41.4783, lng: 19.7222 },
     description: {
@@ -602,14 +749,26 @@ image: "/poi-images/albania-fushe-kruje-cities-v2.webp"
       en: ["Statue of George W. Bush", "Industrial and trade hub", "Near Tirana Airport", "Key transport junction"],
     },
     imageHint: "Statue of George W. Bush in Fushë-Krujë",
-    image: "/poi-images/albania-fushe-kruje-cities-v2.webp"},
+    image: "/poi-images/albania-fushe-kruje-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Fushë-Krujë liegt in der Ebene unterhalb der historischen Bergstadt Krujë. Die Stadt ist ein wichtiger Industriestandort, besonders für die Zementherstellung und den Handel.",
+      hu: "Fushë-Krujë a történelmi Krujë városa alatti síkságon fekszik. Fontos ipari központ, különösen a cementgyártásáról és kereskedelméről nevezetes település.",
+      ro: "Fushë-Krujë se află în câmpia de sub orașul istoric Krujë. Este un nod industrial major, remarcându-se prin producția de ciment și activități comerciale.",
+      en: "Fushë-Krujë is located in the plain below the historic mountain town of Krujë. It is a major industrial hub, particularly known for cement production and trade.",
+    },
+    factsAdvanced: {
+      de: ["Große Zementwerke in der Nähe", "George W. Bush besuchte die Stadt 2007", "Statue von US-Präsident Bush im Zentrum", "Wichtiger Verkehrsknoten bei Tirana"],
+      hu: ["Hatalmas cementgyárak a közelben", "George W. Bush 2007-ben itt járt", "Bush elnök szobra áll a központban", "Fontos közlekedési csomópont Tirana mellett"],
+      ro: ["Mari fabrici de ciment în zonă", "Vizitat de George W. Bush în 2007", "Statuia președintelui Bush în centru", "Nod rutier strategic lângă Tirana"],
+      en: ["Large cement plants nearby", "Visited by George W. Bush in 2007", "Statue of President Bush in the center", "Key transport junction near Tirana"],
+    },
+  },
   {
     id: "albania-rreshen-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Rrëshen", hu: "Rrëshen", ro: "Rrëshen", en: "Rrëshen",
-image: "/poi-images/albania-rreshen-cities-v2.webp"
-},
+    name: { de: "Rrëshen", hu: "Rrëshen", ro: "Rrëshen", en: "Rrëshen"},
+    image: "/poi-images/albania-rreshen-cities-v2.webp",
     coords: [19.8753, 41.7675],
     coordinates: { lat: 41.7675, lng: 19.8753 },
     description: {
@@ -625,14 +784,26 @@ image: "/poi-images/albania-rreshen-cities-v2.webp"
       en: ["Center of Mirdita region", "Catholic episcopal seat", "Copper mining history", "New cathedral in city center"],
     },
     imageHint: "Cathedral of Rrëshen in the town square",
-    image: "/poi-images/albania-rreshen-cities-v2.webp"},
+    image: "/poi-images/albania-rreshen-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rrëshen ist der Hauptort der Region Mirdita, die für ihre starke katholische Tradition bekannt ist. Die Stadt liegt verkehrsgünstig an der Autobahn zwischen Tirana und dem Kosovo.",
+      hu: "Rrëshen a katolikus hagyományairól ismert Mirdita-vidék központja. A város kedvező helyen, a Tirana és Koszovó közötti autópálya mentén fekszik.",
+      ro: "Rrëshen este centrul regiunii Mirdita, cunoscută pentru puternica tradiție catolică. Orașul este situat pe autostrada care leagă Tirana de Kosovo.",
+      en: "Rrëshen is the main town of the Mirdita region, famous for its strong Catholic traditions. It is conveniently located on the highway connecting Tirana and Kosovo.",
+    },
+    factsAdvanced: {
+      de: ["Bischofssitz der Diözese Rrëshen", "Berühmt für den Wein aus Kallmet", "Zentrum der Mirdita-Kultur", "Wichtiger Stopp an der Rruga e Kombit"],
+      hu: ["A Rrësheni Egyházmegye püspöki széke", "Híres a kallmeti borról", "A Mirdita-kultúra szellemi központja", "Fontos megálló a Nemzet Útján"],
+      ro: ["Sediul Episcopiei de Rrëshen", "Faimos pentru vinul de Kallmet", "Inima culturii mirditore", "Punct de oprire pe Rruga e Kombit"],
+      en: ["Seat of the Diocese of Rrëshen", "Famous for Kallmet wine", "Cultural heart of the Mirdita region", "Major stop on the 'Road of the Nation'"],
+    },
+  },
   {
     id: "albania-puke-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Pukë", hu: "Pukë", ro: "Pukë", en: "Pukë",
-image: "/poi-images/albania-puke-cities-v2.webp"
-},
+    name: { de: "Pukë", hu: "Pukë", ro: "Pukë", en: "Pukë"},
+    image: "/poi-images/albania-puke-cities-v2.webp",
     coords: [19.8936, 42.0444],
     coordinates: { lat: 42.0444, lng: 19.8936 },
     description: {
@@ -648,14 +819,26 @@ image: "/poi-images/albania-puke-cities-v2.webp"
       en: ["Highest city in the country", "Center of Albanian skiing", "Known for pine forests", "Mountain health resort"],
     },
     imageHint: "Pukë town surrounded by pine forests",
-    image: "/poi-images/albania-puke-cities-v2.webp"},
+    image: "/poi-images/albania-puke-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pukë ist eine der höchstgelegenen Städte Albaniens und von dichten Kiefernwäldern umgeben. Sie gilt als attraktives Ziel für Bergsteiger und Wintersportler im Norden des Landes.",
+      hu: "Pukë Albánia egyik legmagasabban fekvő városa, amelyet sűrű fenyvesek vesznek körül. Északon a hegymászók és a téli sportok kedvelőinek egyik célpontja.",
+      ro: "Pukë este unul dintre cele mai înalte orașe din Albania, fiind înconjurat de păduri de pini. Este o destinație populară pentru alpinism și sporturi de iarnă.",
+      en: "Pukë is one of the highest towns in Albania, surrounded by dense pine forests. It is a burgeoning destination for mountaineering and winter sports in the north.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf ca. 830 Metern Höhe", "Bekannt für sein kühles Mikroklima", "Traditionelle Bierbrauerei vor Ort", "Migjeni-Museum im ehemaligen Wohnhaus"],
+      hu: ["Kb. 830 méteres magasságban fekszik", "Hűvös mikroklímájáról ismert", "Helyi sörfőzdéje hagyományokkal bír", "Migjeni-múzeum az egykori házában"],
+      ro: ["Situat la o altitudine de 830 metri", "Cunoscut pentru microclimatul răcoros", "Găzduiește o fabrică de bere locală", "Muzeul Migjeni în fosta sa casă"],
+      en: ["Situated at 830m above sea level", "Known for its cool microclimate", "Features a local traditional brewery", "Migjeni Museum located in his former home"],
+    },
+  },
   {
     id: "albania-koplik-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Koplik", hu: "Koplik", ro: "Koplik", en: "Koplik",
-image: "/poi-images/albania-koplik-cities-v2.webp"
-},
+    name: { de: "Koplik", hu: "Koplik", ro: "Koplik", en: "Koplik"},
+    image: "/poi-images/albania-koplik-cities-v2.webp",
     coords: [19.4361, 42.2133],
     coordinates: { lat: 42.2133, lng: 19.4361 },
     description: {
@@ -671,14 +854,25 @@ image: "/poi-images/albania-koplik-cities-v2.webp"
       en: ["Gateway to the Albanian Alps", "Center of Malësi e Madhe", "Known for herb trading", "Near Lake Shkodra"],
     },
     imageHint: "Koplik town with mountains in the background",
+    descriptionAdvanced: {
+      de: "Koplik ist der Hauptort der Region Malësia e Madhe und liegt am Ufer des Shkodrasees. Die Stadt ist ein Tor zu den Albanischen Alpen und ein Zentrum für Heilkräuter-Exporte.",
+      hu: "Koplik a Malësia e Madhe vidék központja a Shkodrai-tó partján. Az Albán-Alpok kapuja és az ország egyik legfontosabb gyógynövény-exportőre.",
+      ro: "Koplik este centrul regiunii Malësia e Madhe, situat pe malul lacului Shkodra. Este poarta spre Alpii Albanezi și un centru major de export al plantelor medicinale.",
+      en: "Koplik is the hub of the Malësia e Madhe region, located on Lake Shkodër. It serves as a gateway to the Albanian Alps and a center for medicinal herb exports.",
+    },
+    factsAdvanced: {
+      de: ["Tor zum Dorf Theth (nahebei)", "Zentrum für Salbei- und Lavendelexport", "Nahe der Grenze zu Montenegro", "Liegt am Ostufer des Shkodrasees"],
+      hu: ["Theth faluja innen közelíthető meg", "Zsálya- és levendulaexport központja", "Közel a montenegrói határhoz", "A Shkodrai-tó keleti partján fekszik"],
+      ro: ["Poarta de acces spre satul Theth", "Centru de export pentru salvie și levănțică", "Aproape de vama cu Muntenegru", "Pe malul estic al lacului Shkodra"],
+      en: ["Gateway to the village of Theth", "Major center for sage and lavender export", "Located near the Montenegro border", "Situated on the east shore of Lake Shkodër"],
+    },
   },
   {
     id: "albania-memaliaj-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Memaliaj", hu: "Memaliaj", ro: "Memaliaj", en: "Memaliaj",
-image: "/poi-images/albania-memaliaj-cities-v2.webp"
-},
+    name: { de: "Memaliaj", hu: "Memaliaj", ro: "Memaliaj", en: "Memaliaj"},
+    image: "/poi-images/albania-memaliaj-cities-v2.webp",
     coords: [19.9806, 40.3517],
     coordinates: { lat: 40.3517, lng: 19.9806 },
     description: {
@@ -694,14 +888,26 @@ image: "/poi-images/albania-memaliaj-cities-v2.webp"
       en: ["Founded as a mining town in 1946", "Center for coal mining", "Located on the Vjosa River", "Industrial heritage"],
     },
     imageHint: "Memaliaj town view with the Vjosa river",
-    image: "/poi-images/albania-memaliaj-cities-v2.webp"},
+    image: "/poi-images/albania-memaliaj-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Memaliaj wurde 1946 als Arbeiterstadt für den Kohlebergbau gegründet. Die Stadt liegt malerisch in einer Schleife der Vjosa und zeugt heute von der industriellen Vergangenheit.",
+      hu: "Memaliajt 1946-ban alapították bányászvárosként a szénbányák munkásai számára. A Vjosa-folyó kanyarulatában fekvő város az ipari múlt emlékeit őrzi.",
+      ro: "Memaliaj a fost fondat în 1946 ca oraș muncitoresc pentru exploatarea cărbunelui. Situat într-o buclă a râului Vjosa, reflectă trecutul industrial al zonei.",
+      en: "Memaliaj was founded in 1946 as a worker town for coal mining. Picturesquely located in a bend of the Vjosa River, it stands as a testament to Albania's industrial era.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet für die Kohlemine 1946", "Liegt an der Nationalstraße Fier-Gjirokastër", "Ehemals wichtiger Industriestandort", "Uferpromenade am Fluss Vjosa"],
+      hu: ["Szénbányászathoz alapították 1946-ban", "A Fier-Gjirokastër főút mentén fekszik", "Egykor jelentős ipari központ volt", "Vjosa-parti sétánnyal rendelkezik"],
+      ro: ["Fondat pentru mina de cărbune în 1946", "Pe drumul național Fier-Gjirokastër", "Fost centru industrial de importanță", "Promenadă de-a lungul râului Vjosa"],
+      en: ["Founded for coal mining in 1946", "Located on the Fier-Gjirokastër highway", "Formerly a key industrial site", "Features a scenic promenade along the Vjosa"],
+    },
+  },
   {
     id: "albania-erseke-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Ersekë", hu: "Ersekë", ro: "Ersekë", en: "Ersekë",
-image: "/poi-images/albania-erseke-cities-v2.webp"
-},
+    name: { de: "Ersekë", hu: "Ersekë", ro: "Ersekë", en: "Ersekë"},
+    image: "/poi-images/albania-erseke-cities-v2.webp",
     coords: [20.6789, 40.3378],
     coordinates: { lat: 40.3378, lng: 20.6789 },
     description: {
@@ -717,14 +923,26 @@ image: "/poi-images/albania-erseke-cities-v2.webp"
       en: ["Center of Kolonjë region", "At the foot of Mount Gramoz", "Known for Albanian apples", "High-altitude plateau town"],
     },
     imageHint: "Ersekë town square with mountains",
-    image: "/poi-images/albania-erseke-cities-v2.webp"},
+    image: "/poi-images/albania-erseke-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ersekë ist die höchstgelegene Stadt Albaniens, eingebettet zwischen dem Gramoz-Gebirge und dem Osum-Tal. Sie ist das kulturelle Zentrum der Kolonja-Region mit reicher Tradition.",
+      hu: "Ersekë Albánia legmagasabban fekvő városa, a Gramoz-hegység és az Osum-völgy között. A Kolonja-vidék kulturális központja, gazdag népi hagyományokkal.",
+      ro: "Ersekë este cel mai înalt oraș din Albania, situat între muntele Gramoz și valea Osumului. Este centrul cultural al regiunii Kolonja, cu tradiții bogate.",
+      en: "Ersekë is the highest town in Albania, nestled between the Gramoz Mountains and the Osum Valley. It is the cultural heart of the Kolonja region.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf ca. 1.020 Metern Höhe", "Gramoz-Gebirge erreicht 2.522 m", "Bekannt für traditionelle Handwerkskunst", "Wichtiger Ort für Äpfel und Honig"],
+      hu: ["Kb. 1020 méteres magasságban fekszik", "A Gramoz-hegy 2522 méter magas", "Híres a hagyományos kézművességről", "Fontos alma- és méztermelő vidék"],
+      ro: ["Situat la 1.020 metri altitudine", "Muntele Gramoz atinge 2.522 m", "Cunoscut pentru artizanatul tradițional", "Centru pomicol și apicol major"],
+      en: ["Located at 1,020m above sea level", "Gramoz Mountain reaches 2,522m", "Famous for traditional handicrafts", "Major producer of apples and honey"],
+    },
+  },
   {
     id: "albania-bajram-curri-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Bajram Curri", hu: "Bajram Curri", ro: "Bajram Curri", en: "Bajram Curri",
-image: "/poi-images/albania-bajram-curri-cities-v2.webp"
-},
+    name: { de: "Bajram Curri", hu: "Bajram Curri", ro: "Bajram Curri", en: "Bajram Curri"},
+    image: "/poi-images/albania-bajram-curri-cities-v2.webp",
     coords: [20.0769, 42.3578],
     coordinates: { lat: 42.3578, lng: 20.0769 },
     description: {
@@ -740,14 +958,26 @@ image: "/poi-images/albania-bajram-curri-cities-v2.webp"
       en: ["Gateway to Valbona Valley", "Formerly called Tropojë", "Center of Tropojë District", "Prokletije mountain scenery"],
     },
     imageHint: "Bajram Curri town center and Alps",
-    image: "/poi-images/albania-bajram-curri-cities-v2.webp"},
+    image: "/poi-images/albania-bajram-curri-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bajram Curri ist das administrative Zentrum der Tropoja-Region in den nördlichen Alpen. Die Stadt dient als wichtigster Ausgangspunkt für Wanderungen in das berühmte Valbonatal.",
+      hu: "Bajram Curri a Tropoja-vidék központja az északi Alpokban. A város a kiindulópontja a híres Valbona-völgybe vezető túráknak és a hegyi turizmusnak.",
+      ro: "Bajram Curri este centrul administrativ al regiunii Tropoja din Alpii de Nord. Orașul este principalul punct de plecare către faimoasa vale Valbona.",
+      en: "Bajram Curri is the administrative hub of the Tropoja region in the Northern Alps. It serves as the primary gateway to the renowned Valbona Valley.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach dem Freiheitskämpfer", "Tor zum Valbona-Nationalpark", "Wichtigster Hafen an der Fierza-Fähre", "Grenznähe zum Kosovo (Gjakova)"],
+      hu: ["Egy szabadságharcasról nevezték el", "A Valbona Nemzeti Park kapuja", "A fierzai komp fő kikötője", "Közel a koszovói határhoz (Gjakova)"],
+      ro: ["Numit după luptătorul pentru libertate", "Poarta spre Parcul Național Valbona", "Principal port pentru feribotul Fierza", "Aproape de vama Gjakova (Kosovo)"],
+      en: ["Named after the freedom fighter", "Gateway to Valbona National Park", "Main port for the Fierza Lake ferry", "Located near the Kosovo border"],
+    },
+  },
   {
     id: "albania-selenice-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Selenicë", hu: "Selenicë", ro: "Selenicë", en: "Selenicë",
-image: "/poi-images/albania-selenice-cities-v2.webp"
-},
+    name: { de: "Selenicë", hu: "Selenicë", ro: "Selenicë", en: "Selenicë"},
+    image: "/poi-images/albania-selenice-cities-v2.webp",
     coords: [19.635, 40.5311],
     coordinates: { lat: 40.5311, lng: 19.635 },
     description: {
@@ -763,14 +993,26 @@ image: "/poi-images/albania-selenice-cities-v2.webp"
       en: ["World-famous bitumen mine", "Mined since antiquity", "Near the Vjosa River", "Major mining center"],
     },
     imageHint: "Bitumen mines near Selenicë",
-    image: "/poi-images/albania-selenice-cities-v2.webp"},
+    image: "/poi-images/albania-selenice-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Selenicë ist weltberühmt für seine natürlichen Bitumenvorkommen, die bereits in der Antike genutzt wurden. Die Stadt liegt auf einem Hügel über dem Unterlauf der Vjosa.",
+      hu: "Selenicë világszerte ismert természetes bitumenlelőhelyeiről, amelyeket már az ókorban is bányásztak. A város a Vjosa-folyó alsó szakasza feletti dombon fekszik.",
+      ro: "Selenicë este renumit la nivel mondial pentru zăcămintele naturale de bitum, exploatate încă din antichitate. Orașul domină valea inferioară a râului Vjosa.",
+      en: "Selenicë is world-famous for its natural bitumen deposits, which have been mined since antiquity. The town is situated on a hill overlooking the lower Vjosa River.",
+    },
+    factsAdvanced: {
+      de: ["Bitumenminen seit der Antike bekannt", "Bitumen wurde für Paris' Straßen genutzt", "Liegt im Qark Vlora", "Wichtigste Bitumenquelle Europas"],
+      hu: ["A bitumenbányák az ókor óta ismertek", "A párizsi utcákhoz is innen vittek bitument", "Vlora megyében található", "Európa legfontosabb bitumenforrása"],
+      ro: ["Mine de bitum cunoscute din antichitate", "Bitum folosit pentru străzile Parisului", "Situat în regiunea Vlora", "Cea mai importantă sursă de bitum din Europa"],
+      en: ["Bitumen mines known since antiquity", "Supplied bitumen for Paris streets", "Located in Vlorë County", "Europe's most significant bitumen source"],
+    },
+  },
   {
     id: "albania-bilisht-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Bilisht", hu: "Bilisht", ro: "Bilisht", en: "Bilisht",
-image: "/poi-images/albania-bilisht-cities-v2.webp"
-},
+    name: { de: "Bilisht", hu: "Bilisht", ro: "Bilisht", en: "Bilisht"},
+    image: "/poi-images/albania-bilisht-cities-v2.webp",
     coords: [20.99, 40.6275],
     coordinates: { lat: 40.6275, lng: 20.99 },
     description: {
@@ -786,14 +1028,26 @@ image: "/poi-images/albania-bilisht-cities-v2.webp"
       en: ["Center of Devolli region", "Near the Greek border", "Kapshticë border crossing", "High-altitude agricultural town"],
     },
     imageHint: "Bilisht town and Devolli valley",
-    image: "/poi-images/albania-bilisht-cities-v2.webp"},
+    image: "/poi-images/albania-bilisht-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bilisht ist das Zentrum des fruchtbaren Devoll-Hochtals an der Grenze zu Griechenland. Die Stadt ist ein bedeutender Handelsknotenpunkt und bekannt für ihre Landwirtschaft.",
+      hu: "Bilisht a termékeny Devoll-fennsík központja a görög határ mentén. A város fontos kereskedelmi csomópont és jelentős mezőgazdasági területtel rendelkezik.",
+      ro: "Bilisht este centrul fertilei câmpii înalte Devoll, situat la granița cu Grecia. Orașul este un nod comercial important și un centru agricol regional.",
+      en: "Bilisht is the center of the fertile Devoll highland near the Greek border. It serves as a vital commercial hub and a significant agricultural regional center.",
+    },
+    factsAdvanced: {
+      de: ["Hauptort des Devoll-Distrikts", "Wichtiger Grenzübergang (Kapshtica)", "Liegt auf ca. 900 Metern Höhe", "Berühmt für Äpfel und Bohnen"],
+      hu: ["A Devoll körzet központja", "Fontos határátkelő (Kapshtica)", "Kb. 900 méteres magasságban fekszik", "Híres az almáról és a babról"],
+      ro: ["Centrul districtului Devoll", "Vamă importantă spre Grecia (Kapshtica)", "Situat la o altitudine de 900 m", "Cunoscut pentru producția de mere"],
+      en: ["Center of the Devoll district", "Major border crossing (Kapshtica)", "Located 900m above sea level", "Famous for apple and bean production"],
+    },
+  },
   {
     id: "albania-roskovec-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Roskovec", hu: "Roskovec", ro: "Roskovec", en: "Roskovec",
-image: "/poi-images/albania-roskovec-cities-v2.webp"
-},
+    name: { de: "Roskovec", hu: "Roskovec", ro: "Roskovec", en: "Roskovec"},
+    image: "/poi-images/albania-roskovec-cities-v2.webp",
     coords: [19.7022, 40.7375],
     coordinates: { lat: 40.7375, lng: 19.7022 },
     description: {
@@ -809,14 +1063,26 @@ image: "/poi-images/albania-roskovec-cities-v2.webp"
       en: ["Center of olive oil production", "Located in Myzeqe plain", "Agricultural trade hub", "Nearby oil wells"],
     },
     imageHint: "Olive groves around Roskovec",
-    image: "/poi-images/albania-roskovec-cities-v2.webp"},
+    image: "/poi-images/albania-roskovec-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Roskovec liegt in der Myzeqe-Ebene und ist ein wichtiges Agrarzentrum. Die Umgebung ist von Olivenhainen und Ölfeldern geprägt, was der Stadt eine doppelte wirtschaftliche Basis gibt.",
+      hu: "Roskovec a Myzeqe-síkságon fekszik, és fontos mezőgazdasági központ. Környékét olajfaligetek és olajmezők jellemzik, ami kettős gazdasági alapot ad a városnak.",
+      ro: "Roskovec este situat în câmpia Myzeqe și reprezintă un centru agricol vital. Zona este marcată de livezi de măslini și câmpuri petroliere productive.",
+      en: "Roskovec is located in the Myzeqe plain and is a vital agricultural hub. The area is characterized by vast olive groves and productive oil fields.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum des Olivenanbaus", "Teil des Ölfeldes Patos-Marinza", "Liegt an der Straße Fier-Berat", "Status als Stadt seit 1960er Jahren"],
+      hu: ["Az olajbogyó-termesztés központja", "A Patos-Marinza olajmező része", "A Fier-Berat út mentén fekszik", "Városi rangot az 1960-as években kapott"],
+      ro: ["Centru major de cultivare a măslinilor", "Parte a câmpului petrolifer Patos-Marinza", "Situat pe drumul Fier-Berat", "Statut de oraș din anii '60"],
+      en: ["Major olive production center", "Part of the Patos-Marinza oil field", "Located on the Fier-Berat road", "Granted city status in the 1960s"],
+    },
+  },
   {
     id: "albania-peqin-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Peqin", hu: "Peqin", ro: "Peqin", en: "Peqin",
-image: "/poi-images/albania-peqin-cities-v2.webp"
-},
+    name: { de: "Peqin", hu: "Peqin", ro: "Peqin", en: "Peqin"},
+    image: "/poi-images/albania-peqin-cities-v2.webp",
     coords: [19.7503, 41.0464],
     coordinates: { lat: 41.0464, lng: 19.7503 },
     description: {
@@ -832,14 +1098,26 @@ image: "/poi-images/albania-peqin-cities-v2.webp"
       en: ["Ancient Via Egnatia station", "Ottoman fortress (castle)", "Historic clock tower", "Located on Shkumbin River"],
     },
     imageHint: "Peqin castle and clock tower",
-    image: "/poi-images/albania-peqin-cities-v2.webp"},
+    image: "/poi-images/albania-peqin-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Peqin ist eine der ältesten Städte Albaniens, gegründet an der antiken Via Egnatia. Die markante Burg aus osmanischer Zeit zeugt von der einstigen strategischen Bedeutung am Shkumbin.",
+      hu: "Peqin Albánia egyik legrégebbi városa, az ókori Via Egnatia mentén. Oszmán kori vára a Shkumbin-folyó menti egykori stratégiai jelentőségéről tanúskodik.",
+      ro: "Peqin este unul dintre cele mai vechi orașe din Albania, situat pe Via Egnatia. Cetatea otomană domină orașul, amintind de importanța sa strategică.",
+      en: "Peqin is one of Albania's oldest towns, founded along the ancient Via Egnatia. Its Ottoman castle overlooks the town, marking its historical strategic value.",
+    },
+    factsAdvanced: {
+      de: ["Antiker Name war Clodiana", "Gut erhaltene osmanische Burg", "Liegt im Qark Elbasan", "Wichtiger Stopp an der Via Egnatia"],
+      hu: ["Ókori neve Clodiana volt", "Jó állapotú oszmán várral rendelkezik", "Elbasan megyében fekszik", "Fontos megálló volt a Via Egnatián"],
+      ro: ["Numele antic a fost Clodiana", "Cetate otomană bine conservată", "Situat în regiunea Elbasan", "Fost punct cheie pe Via Egnatia"],
+      en: ["Ancient name was Clodiana", "Well-preserved Ottoman fortress", "Located in Elbasan County", "Key stop on the ancient Via Egnatia"],
+    },
+  },
   {
     id: "albania-krume-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Krumë", hu: "Krumë", ro: "Krumë", en: "Krumë",
-image: "/poi-images/albania-krume-cities-v2.webp"
-},
+    name: { de: "Krumë", hu: "Krumë", ro: "Krumë", en: "Krumë"},
+    image: "/poi-images/albania-krume-cities-v2.webp",
     coords: [20.4131, 42.1994],
     coordinates: { lat: 42.1994, lng: 20.4131 },
     description: {
@@ -855,14 +1133,26 @@ image: "/poi-images/albania-krume-cities-v2.webp"
       en: ["Center of Has region", "Known for copper mining", "Foot of Pashtrik mountain", "Near Kosovo border"],
     },
     imageHint: "Krumë town and Pashtrik mountain",
-    image: "/poi-images/albania-krume-cities-v2.webp"},
+    image: "/poi-images/albania-krume-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Krumë ist der Hauptort der Region Has im Nordosten Albaniens. Die Stadt liegt am Fuße der kargen Kalksteinberge und ist bekannt für ihre Bergbaugeschichte und traditionelle Gastfreundschaft.",
+      hu: "Krumë a Has-vidék központja Északkelet-Albániában. A város kopár mészkőhegyek lábánál fekszik, bányászati múltjáról és hagyományos vendégszeretetéről ismert.",
+      ro: "Krumë este centrul regiunii Has din nord-estul Albaniei. Orașul se află la poalele munților calcaroși și este cunoscut pentru istoria sa minieră.",
+      en: "Krumë is the administrative center of the Has region in NE Albania. Located at the foot of limestone mountains, it is known for its mining history.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt des Has-Distrikts", "Zentrum der Kupfer- und Chrom-Minen", "Liegt nahe der Grenze zum Kosovo", "Höhe von ca. 430 Metern über Meer"],
+      hu: ["A Has körzet székhelye", "Réz- és króm bányászat központja", "Közel fekszik a koszovói határhoz", "Kb. 430 méteres magasságban fekszik"],
+      ro: ["Reședința districtului Has", "Centru de minerit (cupru și crom)", "Situat aproape de granița cu Kosovo", "Altitudine medie de 430 metri"],
+      en: ["Capital of the Has district", "Center for copper and chrome mining", "Located near the border with Kosovo", "Elevation of approx. 430 meters"],
+    },
+  },
   {
     id: "albania-libohove-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Libohovë", hu: "Libohovë", ro: "Libohovë", en: "Libohovë",
-image: "/poi-images/albania-libohove-cities-v2.webp"
-},
+    name: { de: "Libohovë", hu: "Libohovë", ro: "Libohovë", en: "Libohovë"},
+    image: "/poi-images/albania-libohove-cities-v2.webp",
     coords: [20.2631, 40.0311],
     coordinates: { lat: 40.0311, lng: 20.2631 },
     description: {
@@ -878,14 +1168,26 @@ image: "/poi-images/albania-libohove-cities-v2.webp"
       en: ["Giant 500-year-old plane tree", "Libohovë Castle", "View over Drino Valley", "Traditional manor houses"],
     },
     imageHint: "The giant plane tree of Libohovë",
-    image: "/poi-images/albania-libohove-cities-v2.webp"},
+    image: "/poi-images/albania-libohove-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Libohovë schmiegt sich an die Hänge des Bureto-Berges über dem Drino-Tal. Die Stadt ist berühmt für ihre riesige, über 500 Jahre alte Platane und den Palast der Familie Libohova.",
+      hu: "Libohovë a Bureto-hegy lejtőin, a Drino-völgy felett fekszik. Híres az ötszáz évesnél is idősebb hatalmas platánfájáról és a Libohova-család egykori palotájáról.",
+      ro: "Libohovë este situat pe versanții muntelui Bureto, deasupra văii Drino. Orașul este celebru pentru platanul vechi de 500 de ani și conacul familiei Libohova.",
+      en: "Libohovë clings to the slopes of Mount Bureto above the Drino Valley. It is famous for its 500-year-old giant plane tree and the Libohova family mansion.",
+    },
+    factsAdvanced: {
+      de: ["Riesige Platane ist Naturdenkmal", "Sitz der adligen Libohova-Familie", "Ali Pascha schenkte seiner Schwester eine Burg", "Blick über das weite Drino-Tal"],
+      hu: ["Hatalmas platánfája természeti emlék", "A nemesi Libohova-család székhelye", "Ali pasa várat építtetett itt húgának", "Kilátás a tágas Drino-völgyre"],
+      ro: ["Platanul secular este monument natural", "Reședința nobilei familii Libohova", "Castel dăruit de Ali Pașa surorii sale", "Vedere panoramică asupra văii Drino"],
+      en: ["Giant plane tree is a natural monument", "Seat of the noble Libohova family", "Ali Pasha built a castle here for his sister", "Overlooks the expansive Drino Valley"],
+    },
+  },
   {
     id: "albania-vore-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Vorë", hu: "Vorë", ro: "Vorë", en: "Vorë",
-image: "/poi-images/albania-vore-cities-v2.webp"
-},
+    name: { de: "Vorë", hu: "Vorë", ro: "Vorë", en: "Vorë"},
+    image: "/poi-images/albania-vore-cities-v2.webp",
     coords: [19.6547, 41.3908],
     coordinates: { lat: 41.3908, lng: 19.6547 },
     description: {
@@ -901,14 +1203,26 @@ image: "/poi-images/albania-vore-cities-v2.webp"
       en: ["Important railway junction", "Near Tirana Airport", "Logistics and industrial hub", "Connects Tirana and Durrës"],
     },
     imageHint: "Vorë city center and highway junction",
-    image: "/poi-images/albania-vore-cities-v2.webp"},
+    image: "/poi-images/albania-vore-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Vorë ist ein strategischer Verkehrsknotenpunkt zwischen Tirana und Durrës. Die Stadt hat sich rasant zu einem Logistik- und Industriezentrum entwickelt und ist der wichtigste Eisenbahnknoten.",
+      hu: "Vorë stratégiai közlekedési csomópont Tirana és Durrës között. A város gyorsan logisztikai és ipari központtá fejlődött, és az ország legfontosabb vasúti csomópontja.",
+      ro: "Vorë este un nod de transport strategic între Tirana și Durrës. Orașul s-a dezvoltat rapid ca centru logistic și industrial, fiind principalul nod feroviar.",
+      en: "Vorë is a strategic transport hub located between Tirana and Durrës. It has rapidly developed into a logistics and industrial center and a key railway junction.",
+    },
+    factsAdvanced: {
+      de: ["Wichtigster Eisenbahnknoten Albaniens", "Liegt an der Autobahn SH2", "Zentrum für Logistik und Lagerhallen", "Zwischen Tirana und dem Flughafen"],
+      hu: ["Albánia legfontosabb vasúti csomópontja", "Az SH2-es autópálya mentén fekszik", "Logisztikai és raktározási központ", "Tirana és a repülőtér között található"],
+      ro: ["Cel mai important nod feroviar albanez", "Situat pe autostrada SH2", "Centru de logistică și depozitare", "Între Tirana și aeroportul internațional"],
+      en: ["Most important railway hub in Albania", "Located on the SH2 highway", "Major center for logistics and warehousing", "Positioned between Tirana and the airport"],
+    },
+  },
   {
     id: "albania-himare-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Himarë", hu: "Himarë", ro: "Himarë", en: "Himarë",
-image: "/poi-images/albania-himare-cities-v2.webp"
-},
+    name: { de: "Himarë", hu: "Himarë", ro: "Himarë", en: "Himarë"},
+    image: "/poi-images/albania-himare-cities-v2.webp",
     coords: [19.7447, 40.1031],
     coordinates: { lat: 40.1031, lng: 19.7447 },
     description: {
@@ -924,14 +1238,26 @@ image: "/poi-images/albania-himare-cities-v2.webp"
       en: ["Pearl of the Albanian Riviera", "Ancient Castle of Himarë", "Bilingual population", "Known for olive oil"],
     },
     imageHint: "Himarë bay and old town on the hill",
-    image: "/poi-images/albania-himare-cities-v2.webp"},
+    image: "/poi-images/albania-himare-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Himarë ist das Juwel der albanischen Riviera, geprägt von steilen Bergen, die direkt ins Ionische Meer abfallen. Die Stadt bewahrt eine starke griechische Identität und orthodoxe Kultur.",
+      hu: "Himarë az albán riviéra ékköve, ahol a meredek hegyek közvetlenül a Jón-tengerbe szakadnak. A város erős görög identitással és ortodox kultúrával rendelkezik.",
+      ro: "Himarë este perla rivierei albaneze, unde munții abrupți întâlnesc Marea Ionică. Orașul păstrează o puternică identitate grecească și o cultură ortodoxă.",
+      en: "Himarë is the jewel of the Albanian Riviera, where steep mountains drop directly into the Ionian Sea. It maintains a strong Greek identity and Orthodox culture.",
+    },
+    factsAdvanced: {
+      de: ["Altstadt (Kastro) liegt auf dem Hügel", "Bekannt für kristallklare Strände", "Bedeutende griechische Minderheit", "Geprägt von Oliven- und Zitrusbäumen"],
+      hu: ["Az óváros (Kastro) a dombtetőn fekszik", "Kristálytiszta strandjairól ismert", "Jelentős görög kisebbség él itt", "Olajfa- és citrusligetek övezik"],
+      ro: ["Orașul vechi (Kastro) situat pe deal", "Cunoscut pentru plaje cu apă cristalină", "Minoritate greacă semnificativă", "Peisaj cu măslini și citrice"],
+      en: ["Old Town (Kastro) is situated on a hill", "Famous for crystal-clear beaches", "Significant Greek-speaking population", "Surrounded by olive and citrus groves"],
+    },
+  },
   {
     id: "albania-delvine-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Delvinë", hu: "Delvinë", ro: "Delvinë", en: "Delvinë",
-image: "/poi-images/albania-delvine-cities-v2.webp"
-},
+    name: { de: "Delvinë", hu: "Delvinë", ro: "Delvinë", en: "Delvinë"},
+    image: "/poi-images/albania-delvine-cities-v2.webp",
     coords: [20.0978, 39.9511],
     coordinates: { lat: 39.9511, lng: 20.0978 },
     description: {
@@ -947,14 +1273,26 @@ image: "/poi-images/albania-delvine-cities-v2.webp"
       en: ["Historic Ottoman center", "Fortress ruins on the hill", "Xhermëhalla complex", "Located near Blue Eye spring"],
     },
     imageHint: "Delvinë town with mountain backdrop",
-    image: "/poi-images/albania-delvine-cities-v2.webp"},
+    image: "/poi-images/albania-delvine-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Delvinë liegt im Hinterland von Saranda am Fuße des Berg-Sopot-Massivs. Die Stadt war historisch ein bedeutendes administratives Zentrum im osmanischen Epirus mit vielen Moscheen.",
+      hu: "Delvinë Saranda hátországában, a Sopot-hegység lábánál fekszik. Történelmileg az oszmán Epirusz jelentős adminisztratív központja volt, számos mecsettel.",
+      ro: "Delvinë se află în hinterlandul orașului Saranda, la poalele masivului Sopot. Istoric, a fost un centru administrativ major în Epirul otoman.",
+      en: "Delvinë is located in the hinterland of Saranda at the foot of the Sopot massif. Historically, it was a significant administrative center in Ottoman Epirus.",
+    },
+    factsAdvanced: {
+      de: ["Überreste der Burg von Delvinë", "Einst Sitz eines Sandschaks", "Wichtiger Ort der Bektaschi-Gemeinschaft", "Nahe der antiken Stätte Phoinike"],
+      hu: ["Delvinë várának romjai láthatók", "Egykor szandzsák székhelye volt", "A bektasi közösség fontos helyszíne", "Az ókori Phoinike közelében fekszik"],
+      ro: ["Ruinele cetății Delvinë domină zona", "Fost sediu de sangeac otoman", "Centru important al comunității Bektashi", "Aproape de situl antic Phoinike"],
+      en: ["Ruins of Delvinë Castle remain", "Former seat of an Ottoman Sanjak", "Key center for the Bektashi community", "Located near the ancient site of Phoinike"],
+    },
+  },
   {
     id: "albania-orikum-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Orikum", hu: "Orikum", ro: "Orikum", en: "Orikum",
-image: "/poi-images/albania-orikum-cities-v2.webp"
-},
+    name: { de: "Orikum", hu: "Orikum", ro: "Orikum", en: "Orikum"},
+    image: "/poi-images/albania-orikum-cities-v2.webp",
     coords: [19.4714, 40.3328],
     coordinates: { lat: 40.3328, lng: 19.4714 },
     description: {
@@ -970,14 +1308,26 @@ image: "/poi-images/albania-orikum-cities-v2.webp"
       en: ["Ancient city of Oricum", "Major naval port", "Located on Vlorë Bay", "Near Llogara Pass"],
     },
     imageHint: "Orikum bay and archaeological site",
-    image: "/poi-images/albania-orikum-cities-v2.webp"},
+    image: "/poi-images/albania-orikum-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Orikum verbindet antike Geschichte mit moderner Seefahrt an der Bucht von Vlora. Nahe der Stadt liegen die Ausgrabungen des antiken Oricum und der einzige Jachthafen Albaniens.",
+      hu: "Orikum az ókori történelmet ötvözi a modern hajózással a Vlorai-öbölben. A város közelében találhatók az ókori Oricum ásatásai és Albánia egyetlen jachtkikötője.",
+      ro: "Orikum îmbină istoria antică cu navigația modernă în golful Vlora. Lângă oraș se află situl arheologic Oricum și singurul port de iahturi din Albania.",
+      en: "Orikum blends ancient history with modern maritime life in the Vlorë Bay. Nearby lie the excavations of ancient Oricum and Albania's only yacht marina.",
+    },
+    factsAdvanced: {
+      de: ["Einziger Jachthafen des Landes", "Antikes Oricum wurde 2014 Park", "Strategische Marinebasis Pashaliman", "Eingang zur Halbinsel Karaburun"],
+      hu: ["Az ország egyetlen jachtkikötője", "Az ókori Oricum 2014-ben lett park", "Pashaliman stratégiai tengerészeti bázis", "A Karaburun-félsziget bejárata"],
+      ro: ["Singura marină de iahturi din țară", "Situl Oricum declarat parc în 2014", "Baza navală strategică Pashaliman", "Poarta către peninsula Karaburun"],
+      en: ["Home to Albania's only yacht marina", "Ancient Oricum became a park in 2014", "Pashaliman strategic naval base nearby", "Entrance point to the Karaburun Peninsula"],
+    },
+  },
   {
     id: "albania-polican-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Poliçan", hu: "Poliçan", ro: "Poliçan", en: "Poliçan",
-image: "/poi-images/albania-polican-cities-v2.webp"
-},
+    name: { de: "Poliçan", hu: "Poliçan", ro: "Poliçan", en: "Poliçan"},
+    image: "/poi-images/albania-polican-cities-v2.webp",
     coords: [20.0983, 40.6122],
     coordinates: { lat: 40.6122, lng: 20.0983 },
     description: {
@@ -993,14 +1343,26 @@ image: "/poi-images/albania-polican-cities-v2.webp"
       en: ["Former weapons factory town", "At the foot of Mount Tomorr", "Founded in the 1960s", "Known for viticulture"],
     },
     imageHint: "Poliçan town with Mount Tomorr background",
-    image: "/poi-images/albania-polican-cities-v2.webp"},
+    image: "/poi-images/albania-polican-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Poliçan wurde in den 1960er Jahren als Modellstadt der sozialistischen Industrialisierung auf den Terrassen oberhalb des Osum-Tals errichtet. Die Stadt war jahrzehntelang Sperrgebiet, da sie das Zentrum der albanischen Munitions- und Waffenproduktion beherbergte. Die Architektur ist funktionalistisch und spiegelt den Geist einer geschlossenen Industriestadt wider. Heute öffnet sich Poliçan dem Tourismus, vor allem als Ausgangspunkt für Pilgerfahrten zum heiligen Berg Tomorr, der majestätisch über der Stadt thront. Die Umgebung ist geprägt von Weinbergen und einer rauen, unberührten Gebirgslandschaft, die einen starken Kontrast zur industriellen Vergangenheit bildet.",
+      hu: "Poliçan városa az 1960-as években született meg a szocialista iparosítás mintaprojektjeként az Osum-folyó feletti teraszokon. Évtizedekig zárt település volt, mivel itt működött Albánia legjelentősebb hadianyag- és fegyvergyára, amely a környező hegyek gyomrában rejtőzött. A város építészete ma is hűen tükrözi a korszak funkcionalista stílusát. Napjainkban Poliçan egyre inkább a turizmus felé nyit, elsősorban a szent Tomorr-hegyre induló zarándokok és túrázók bázisállomásaként. A vidéket híres szőlőültetvények és különleges mikroklíma jellemzi, amely kiváló alapanyagot szolgáltat a helyi raki lepárlásához.",
+      ro: "Poliçan a fost construit în anii 1960 ca un oraș model al industrializării socialiste, fiind amplasat strategic pe terasele de deasupra văii râului Osum. Timp de decenii, accesul în oraș a fost strict restricționat, deoarece găzduia principalul centru de producție de muniție și armament al țării. Arhitectura sa funcționalistă păstrează amprenta acelei epoci de izolare industrială. În prezent, orașul se transformă într-un punct de interes pentru turismul montan, servind drept poartă principală către muntele sfânt Tomorr. Regiunea din jurul orașului este renumită pentru viticultură, oferind peisaje spectaculoase unde tradiția agricolă se împletește cu vestigiile industriale ale trecutului.",
+      en: "Poliçan was established in the 1960s as a centerpiece of socialist industrial planning, perched on the terraces overlooking the Osum River. For decades, it remained a restricted military zone, serving as the primary hub for Albania's ammunition and weaponry production hidden within the surrounding hills. The city's functionalist layout and stark architecture bear witness to its secretive industrial past. Today, Poliçan is reinventing itself as a gateway for eco-tourism and spiritual pilgrimages to the nearby Mount Tomorr, a sacred site for the Bektashi community. The surrounding countryside is noted for its high-quality vineyards and the production of traditional Albanian spirits."
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1961 als Zentrum der Waffenindustrie", "Liegt auf einer Höhe von ca. 580 Metern", "Wichtigster Zugang zum Nationalpark Berg Tomorr", "Besitzt ein ausgedehntes System von Tunneln und Bunkern", "Zentrum der Raki-Produktion in der Region Skrapar", "Einst Standort der staatlichen Kombinat-Mëllëz Fabrik", "Bevölkerung von etwa 10.000 Einwohnern im Stadtkern"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-shengjin-cities-v2",
     parent: "AL",
     type: "port",
-    name: { de: "Shëngjin", hu: "Shëngjin", ro: "Shëngjin", en: "Shëngjin",
-image: "/poi-images/albania-shengjin-cities-v2.webp"
-},
+    name: { de: "Shëngjin", hu: "Shëngjin", ro: "Shëngjin", en: "Shëngjin"},
+    image: "/poi-images/albania-shengjin-cities-v2.webp",
     coords: [19.5939, 41.8139],
     coordinates: { lat: 41.8139, lng: 19.5939 },
     description: {
@@ -1016,14 +1378,26 @@ image: "/poi-images/albania-shengjin-cities-v2.webp"
       en: ["Major Adriatic port", "Rana e Hedhun sand dune", "Located near Lezhë", "Popular tourist destination"],
     },
     imageHint: "Shëngjin port and beach area",
-    image: "/poi-images/albania-shengjin-cities-v2.webp"},
+    image: "/poi-images/albania-shengjin-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Shëngjin ist einer der bedeutendsten Hafenstandorte Nordalbaniens und hat sich in den letzten Jahren zu einem lebhaften Touristenzentrum an der Adria entwickelt. Die Stadt blickt auf eine antike Geschichte zurück und war einst als Nymphaeum bekannt. Ein absolutes Highlight in der Umgebung ist die Düne 'Rana e Hedhun', wo der Sand steil von den Berghängen direkt ins Meer abfällt – ein seltenes Naturphänomen an der Mittelmeerküste. Der Hafen spielt eine strategische Rolle für den Handel mit dem Kosovo, während die Uferpromenade mit modernen Hotels und Restaurants Besucher anzieht. Naturliebhaber schätzen zudem die Nähe zur Lagune von Kune-Vain, die ein wichtiges Refugium für Zugvögel darstellt.",
+      hu: "Shëngjin Észak-Albánia legfontosabb kikötővárosa, amely az elmúlt évtizedben dinamikus turisztikai központtá fejlődött az Adriai-tenger partján. Az ókorban Nymphaeum néven ismert település ma modern üdülőhely, amely ötvözi a tengerparti kikapcsolódást és a gazdasági aktivitást. A város északi részén található a híres 'Rana e Hedhun' (Hányt Homok) dűne, ahol a homokos domboldalak közvetlenül a kristálytiszta tengerbe szakadnak. A kikötő stratégiai kapuként szolgál Koszovó felé, míg a városi strand széles homokos partja a családosok kedvence. A közeli Kune-Vain lagúna természetvédelmi területe gazdag madárvilágával várja a természetjárókat.",
+      ro: "Shëngjin este unul dintre cele mai importante porturi din nordul Albaniei, transformându-se recent într-o destinație turistică vibrantă pe coasta Adriaticii. Orașul are rădăcini antice, fiind cunoscut în trecut sub numele de Nymphaeum. Principala atracție naturală din proximitate este duna 'Rana e Hedhun', un fenomen geologic rar unde nisipul pare să se prăbușească direct de pe versanții muntelui în apele mării. Portul modern facilitează schimburi comerciale esențiale, în special cu Kosovo, în timp ce faleza este tivită de hoteluri contemporane. Rezervația naturală Kune-Vain din apropiere oferă un ecosistem de lagună protejat, fiind un paradis pentru observarea păsărilor migratoare.",
+      en: "Shëngjin stands as a vital port city in northern Albania, having evolved into a bustling Adriatic resort known for its therapeutic sandy beaches. Historically known as Nymphaeum, the town bridges its maritime heritage with modern tourism. A short distance to the north lies the spectacular 'Rana e Hedhun' sand dune, a unique geological formation where mountain slopes meet the sea in a cascade of sand. The port serves as a strategic gateway for regional trade, particularly with neighboring Kosovo. Beyond the beach clubs and promenades, the nearby Kune-Vain lagoon system provides a protected habitat for diverse wildlife, making it a key site for ecological tourism in the Lezhë region."
+    },
+    factsAdvanced: {
+      de: ["Strategischer Adriahafen mit Verbindungen zum Kosovo", "Rana e Hedhun Düne ist ein geschütztes Naturdenkmal", "Einstiger antiker Hafen unter dem Namen Nymphaeum", "Durchschnittlich über 280 Sonnentage im Jahr", "Angrenzendes Kune-Vain Naturschutzgebiet (125 km²)", "Jodhaltiger Sand wird für medizinische Zwecke genutzt", "Bedeutender Standort für die lokale Fischereiindustrie"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-rubik-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Rubik", hu: "Rubik", ro: "Rubik", en: "Rubik",
-image: "/poi-images/albania-rubik-cities-v2.webp"
-},
+    name: { de: "Rubik", hu: "Rubik", ro: "Rubik", en: "Rubik"},
+    image: "/poi-images/albania-rubik-cities-v2.webp",
     coords: [19.7858, 41.7744],
     coordinates: { lat: 41.7744, lng: 19.7858 },
     description: {
@@ -1039,14 +1413,26 @@ image: "/poi-images/albania-rubik-cities-v2.webp"
       en: ["12th-century church", "Former copper mining hub", "Located on Fan River", "Mirdita cultural region"],
     },
     imageHint: "The church of Rubik on the rocky cliff",
-    image: "/poi-images/albania-rubik-cities-v2.webp"},
+    image: "/poi-images/albania-rubik-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Das auf einem markanten Felsen thronende Rubik ist ein Symbol der christlichen Identität in der Mirdita-Region. Die Stadt ist vor allem für ihre Kirche des Erlösers aus dem 12. Jahrhundert bekannt, die eines der bedeutendsten architektonischen Denkmäler Albaniens darstellt und seltene Fresken im byzantinisch-romanischen Mischstil beherbergt. Während der kommunistischen Ära entwickelte sich Rubik zu einem industriellen Zentrum des Kupferbergbaus und der Metallurgie, was das Stadtbild nachhaltig prägte. Heute besinnt sich der Ort auf seine natürlichen Ressourcen und die spektakuläre Lage am Fluss Fan. Die umliegenden Berge bieten hervorragende Möglichkeiten für Wandertourismus und Einblicke in die traditionelle Lebensweise der Mirdita-Stämme.",
+      hu: "A meredek sziklafalra épült Rubik a Mirdita-vidék egyik legfontosabb szakrális és történelmi központja. A város büszkesége a 12. századi Megváltó-templom, amely bizánci és román stílusjegyeket ötvöző freskóival az ország egyik legértékesebb műemléke. A 20. század második felében Rubik fontos ipari várossá vált, a környék rézbányáira épülő kohászat határozta meg a település fejlődését. A szocialista ipar hanyatlása után a város a természetjárás és a kulturális turizmus felé fordult. A Fan-folyó völgye és a környező vadregényes hegycsúcsok kiváló terepet biztosítanak a túrázáshoz, miközben a látogatók megismerhetik a mirditai katolikus közösség ősi hagyományait.",
+      ro: "Cocoțat pe o stâncă spectaculoasă, Rubik este un simbol al rezistenței culturale și religioase din regiunea Mirdita. Localitatea este faimoasă pentru Biserica Mântuitorului, ridicată în secolul al XII-lea, care adăpostește fresce rare într-un stil hibrid bizantino-romanic, fiind un monument de importanță națională. În perioada comunistă, Rubik s-a transformat într-un hub industrial major axat pe exploatarea și prelucrarea cuprului, lăsând în urmă un peisaj marcat de structuri metalurgice impresionante. Astăzi, orașul atrage vizitatori prin peisajele sale montane dramatice de-a lungul râului Fan, oferind o incursiune autentică în tradițiile catolice și ospitalitatea specifică nordului Albaniei.",
+      en: "Perched dramatically on a rocky outcrop, Rubik serves as a historic bastion of faith and industry in the Mirdita region. The town is globally recognized for the 12th-century Church of the Redeemer, a masterpiece of medieval architecture featuring a rare blend of Byzantine and Romanesque frescoes. During the mid-20th century, Rubik was transformed into a vital center for Albania's copper mining and metallurgical industries, shaping its urban identity. Following the industrial shift, the town has become a focal point for cultural and adventure tourism. Its location along the Fan River, surrounded by rugged peaks, offers travelers a unique combination of spiritual heritage, industrial archaeology, and mountain trekking."
+    },
+    factsAdvanced: {
+      de: ["Erlöserkirche (Kisha e Shëlbumit) stammt von 1166", "Einstiges Zentrum der Kupfer- und Goldgewinnung", "Strategische Lage am Zusammenfluss des Fan-Flusses", "Wichtiger Ort des katholischen Glaubens in Albanien", "Berühmt für die Fresken aus dem 13. Jahrhundert", "Besitzt ein markantes industrielles Erbe der Metallurgie", "Tor zu den unberührten Mirdita-Hochlandregionen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-kelcyre-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Këlcyrë", hu: "Këlcyrë", ro: "Këlcyrë", en: "Këlcyrë",
-image: "/poi-images/albania-kelcyre-cities-v2.webp"
-},
+    name: { de: "Këlcyrë", hu: "Këlcyrë", ro: "Këlcyrë", en: "Këlcyrë"},
+    image: "/poi-images/albania-kelcyre-cities-v2.webp",
     coords: [20.1889, 40.3125],
     coordinates: { lat: 40.3125, lng: 20.1889 },
     description: {
@@ -1062,14 +1448,26 @@ image: "/poi-images/albania-kelcyre-cities-v2.webp"
       en: ["Këlcyrë Gorge", "Located on Vjosa River", "Historic Ali Pasha castle", "Center of Vjosa Valley"],
     },
     imageHint: "Këlcyrë gorge and Vjosa river",
-    image: "/poi-images/albania-kelcyre-cities-v2.webp"},
+    image: "/poi-images/albania-kelcyre-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Këlcyrë liegt an einer der spektakulärsten Naturpforten Albaniens, wo die Vjosa, einer der letzten Wildflüsse Europas, eine gewaltige Schlucht zwischen den Bergen Nemërçka und Trebeshina gegraben hat. Die Stadt, die im Schatten der Ruinen der Burg von Ali Pascha liegt, war historisch ein wichtiger Knotenpunkt für Karawanen zwischen Janina und Berat. Bekannt ist der Ort auch für das 'Uji i Zi' (Schwarzes Wasser), eine Reihe von Quellen, die direkt aus dem Felsen in den Fluss sprudeln. Die Gegend um Këlcyrë ist berühmt für ihre hervorragenden Milchprodukte und den lokalen Wein. Wanderer schätzen die Region für die unzähligen Pfade, die durch tief eingeschnittene Täler und zu einsamen Bergdörfern führen.",
+      hu: "Këlcyrë Albánia egyik legdrámaibb természeti kapujánál fekszik, ahol Európa utolsó vad folyója, a Vjosa hatalmas szurdokot vájt a Nemërçka és a Trebeshina hegytömbjei közé. A város stratégiai jelentőségét már Ali Tepeleni pasa is felismerte, akinek egykori várának romjai ma is a település felett őrködnek. A környék egyik különlegessége az 'Uji i Zi' (Fekete-víz) forráscsoport, amely közvetlenül a sziklákból zúdul a folyóba. Këlcyrë vidéke híres kiváló tejtermékeiről, sajtjairól és zamatos borairól, amelyek a völgy különleges mikroklímájának köszönhetik aromájukat. A szurdokvölgy és a környező hegyek a vadvízi evezés és a természetjárás kedvelőinek egyik legfontosabb dél-albániai bázisát alkotják.",
+      ro: "Këlcyrë este situat la una dintre cele mai spectaculoase porți naturale ale Albaniei, unde râul Vjosa, unul dintre ultimele râuri sălbatice ale Europei, a tăiat un canion adânc între masivele Nemërçka și Trebeshina. Orașul este dominat de ruinele cetății lui Ali Pașa, amintind de rolul său istoric de punct de control pentru caravanele ce legau Berat de Ianina. O atracție locală remarcabilă este 'Uji i Zi' (Apa Neagră), un complex de izvoare carstice care țâșnesc direct din peretele de stâncă în Vjosa. Regiunea este renumită pentru produsele lactate tradiționale și viticultură, oferind totodată acces la trasee montane virgine și zone ideale pentru rafting și turism de aventură în inima sudului muntos.",
+      en: "Këlcyrë is nestled at one of Albania's most dramatic natural gateways, where the Vjosa River—one of Europe's last wild rivers—has carved a magnificent gorge between the Trebeshina and Nemërçka mountains. The town's strategic importance is highlighted by the ruins of Ali Pasha's fortress, which historically guarded the trade routes between Janina and the interior. A notable local phenomenon is the 'Uji i Zi' (Black Water) springs, where crystalline water gushes directly from the limestone cliffs into the turquoise river. Renowned for its dairy products and viticulture, Këlcyrë serves as a prime destination for outdoor enthusiasts seeking rafting adventures in the gorge or trekking through the rugged, unspoiled landscapes of southern Albania."
+    },
+    factsAdvanced: {
+      de: ["Die Këlcyrë-Schlucht ist etwa 13 Kilometer lang", "Strategischer Kontrollpunkt seit der Antike", "Heimat der berühmten 'Uji i Zi' Karstquellen", "Wichtiger Standort für die Käseproduktion (Feta-Stil)", "Liegt am Zusammenfluss von Vjosa und Deshnicë", "Ali Pascha Tepelena besaß hier einen prachtvollen Serail", "Eingang zum Zagoria-Tal und dem Nemërçka-Massiv"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-maliq-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Maliq", hu: "Maliq", ro: "Maliq", en: "Maliq",
-image: "/poi-images/albania-maliq-cities-v2.webp"
-},
+    name: { de: "Maliq", hu: "Maliq", ro: "Maliq", en: "Maliq"},
+    image: "/poi-images/albania-maliq-cities-v2.webp",
     coords: [20.6983, 40.7078],
     coordinates: { lat: 40.7078, lng: 20.6983 },
     description: {
@@ -1085,14 +1483,26 @@ image: "/poi-images/albania-maliq-cities-v2.webp"
       en: ["Former sugar industry hub", "Built on drained lake bed", "SE Albanian agricultural town", "Located near Korçë"],
     },
     imageHint: "Maliq town center and fields",
-    image: "/poi-images/albania-maliq-cities-v2.webp"},
+    image: "/poi-images/albania-maliq-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Maliq ist eine faszinierende Reißbrettstadt, deren Geschichte untrennbar mit der Trockenlegung des gleichnamigen Sees in der Nachkriegszeit verbunden ist. Wo einst Sumpfgebiete waren, entstand unter enormem Aufwand eine fruchtbare Ebene, die Maliq zum Zentrum der albanischen Zuckerindustrie machte. Die Stadt wurde um die massive Zuckerfabrik herum geplant, deren Architektur den typischen sozialistischen Realismus der 1950er Jahre widerspiegelt. Maliq gilt heute als bedeutendes archäologisches Zentrum, da in der Region Pfahlbausiedlungen aus der Jungsteinzeit entdeckt wurden, die zu den wichtigsten in Südosteuropa zählen. Obwohl die Zuckerproduktion eingestellt wurde, bleibt die Stadt ein wichtiger Agrarknotenpunkt in der Region Korça, umgeben von weiten Feldern und Obstgärten.",
+      hu: "Maliq városa egyedülálló történelemmel bír: a település a második világháború utáni nagyszabású mocsárlecsapolási munkálatok során jött létre az egykori Maliq-tó helyén. A visszanyert termékeny területen épült fel Albánia legnagyobb cukorgyára, amely köré egy modern, szocialista stílusú iparvárost terveztek az 1950-es években. A város ipari múltja mellett világraszóló régészeti jelentőséggel is bír, ugyanis határában tárták fel Délkelet-Európa egyik legfontosabb újkőkori cölöpházas települését. Noha a cukorgyártás ma már a múlté, Maliq továbbra is a Korça-medence meghatározó mezőgazdasági központja, ahol a modern farmgazdálkodás és az ősi történelem emlékei különleges elegyet alkotnak.",
+      ro: "Orașul Maliq are o istorie fascinantă, fiind construit pe locul fostului lac Maliq, care a fost desecat printr-un efort masiv de inginerie în perioada postbelică. Această transformare a creat o câmpie extrem de fertilă, transformând localitatea în inima industriei zahărului din Albania, cu o fabrică uriașă ce domină peisajul urban în stilul realismului socialist al anilor '50. Dincolo de identitatea industrială, Maliq este un sit de importanță arheologică mondială, aici fiind descoperite așezări lacustre din neolitic, printre cele mai semnificative din sud-estul Europei. Deși epoca zahărului a apus, orașul rămâne un hub agricol vital pentru regiunea Korçë, fiind înconjurat de exploatații agricole moderne și livezi bogate.",
+      en: "Maliq is a town with a unique origin story, built on the reclaimed bed of Lake Maliq, which was drained in a massive post-WWII engineering project. This endeavor turned treacherous swampland into Albania's most fertile agricultural plain, with Maliq becoming the national center for sugar production. The city was meticulously planned around its colossal sugar refinery, showcasing the distinctive socialist-era architecture of the 1950s. Beyond its industrial roots, the area is a site of international archaeological significance, hosting well-preserved Neolithic pile-dwelling settlements. Today, while the sugar industry has faded, Maliq remains a crucial agricultural hub for the Korçë basin, bridging its prehistoric heritage with modern farming landscapes."
+    },
+    factsAdvanced: {
+      de: ["Erbaut auf dem trockengelegten Grund des Maliq-Sees", "Standort der ersten Zuckerfabrik Albaniens (1951)", "Bedeutende neolithische Pfahlbaufunde in der Nähe", "Zentrum des Zuckerrübenanbaus in der Korça-Ebene", "Die Stadtplanung folgt dem sozialistischen Realismus", "Wichtiger Fundplatz für prähistorische Keramik", "Liegt an der strategischen Route zwischen Korça und Elbasan"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-prrenjas-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Prrenjas", hu: "Prrenjas", ro: "Prrenjas", en: "Prrenjas",
-image: "/poi-images/albania-prrenjas-cities-v2.webp"
-},
+    name: { de: "Prrenjas", hu: "Prrenjas", ro: "Prrenjas", en: "Prrenjas"},
+    image: "/poi-images/albania-prrenjas-cities-v2.webp",
     coords: [20.5483, 41.0694],
     coordinates: { lat: 41.0694, lng: 20.5483 },
     description: {
@@ -1108,14 +1518,26 @@ image: "/poi-images/albania-prrenjas-cities-v2.webp"
       en: ["Iron and nickel mining", "Located near Lake Ohrid", "Mountainous border region", "Important railway stop"],
     },
     imageHint: "Prrenjas landscape with mines and mountains",
-    image: "/poi-images/albania-prrenjas-cities-v2.webp"},
+    image: "/poi-images/albania-prrenjas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Prrenjas liegt in einem malerischen Tal im Osten Albaniens, umgeben von den Gipfeln des Shebenik-Jabllanica Nationalparks. Die Stadt entwickelte sich während des 20. Jahrhunderts zu einem bedeutenden Zentrum für den Bergbau, insbesondere für die Gewinnung von Eisen-Nickel-Erzen, was die ökonomische Basis der Region bildete. Die Architektur der Stadt ist zweckmäßig und spiegelt den industriellen Boom der sozialistischen Ära wider. Heute ist Prrenjas ein wichtiger Transitpunkt an der Nationalstraße SH3, die Tirana mit dem Ohridsee und Nordmazedonien verbindet. Für Naturbegeisterte bietet die Umgebung spektakuläre Wanderwege durch dichte Buchenwälder und zu eiszeitlichen Bergseen in den angrenzenden Hochgebirgen.",
+      hu: "Prrenjas Albánia keleti részén, egy festői völgyben fekszik, a Shebenik-Jabllanica Nemzeti Park fenséges csúcsainak gyűrűjében. A város a 20. század folyamán vált jelentős bányászati központtá, ahol elsősorban vas- és nikkelérc kitermelése folyt, meghatározva a régió gazdasági arculatát. A település építészete a szocialista korszak ipari fellendülésének funkcionális stílusát őrzi. Napjainkban Prrenjas fontos közlekedési csomópont az SH3-as főút mentén, amely Tiranát köti össze az Ohridi-tóval és Észak-Macedóniával. A természetjárók számára a környék lenyűgöző túraútvonalakat kínál, amelyek sűrű bükkerdőkön keresztül vezetnek a magashegyi gleccsertavakhoz.",
+      ro: "Prrenjas este situat într-o vale pitorească din estul Albaniei, fiind înconjurat de culmile spectaculoase ale Parcului Național Shebenik-Jabllanica. Orașul s-a dezvoltat în secolul al XX-lea ca un centru minier de primă mărime, axat pe extracția minereurilor de fier și nichel, pilonul central al economiei locale pentru decenii. Arhitectura urbană păstrează trăsăturile pragmatice ale perioadei de expansiune industrială socialistă. Astăzi, Prrenjas reprezintă un punct de tranzit vital pe drumul național SH3, care leagă Tirana de lacul Ohrid și Macedonia de Nord. Împrejurimile oferă trasee de drumeție remarcabile, traversând păduri de fag seculare către lacurile glaciare izolate din masivul muntos adiacent.",
+      en: "Prrenjas is situated in a scenic valley in eastern Albania, framed by the towering peaks of the Shebenik-Jabllanica National Park. During the 20th century, the town rose to prominence as a key mining hub, specializing in the extraction of iron-nickel ores that fueled the regional economy. The town's layout and buildings reflect the functionalist design of the socialist industrial era. Currently, Prrenjas serves as a major transit node on the SH3 national highway, connecting Tirana to Lake Ohrid and North Macedonia. For outdoor enthusiasts, the surrounding mountains offer pristine hiking trails through dense beech forests, leading to spectacular glacial lakes hidden high within the national park."
+    },
+    factsAdvanced: {
+      de: ["Zentrum des albanischen Eisen-Nickel-Bergbaus", "Tor zum Shebenik-Jabllanica Nationalpark", "Liegt an der strategischen Route Tirana-Qafë Thanë", "Einst Standort einer großen Erzanreicherungsanlage", "Umgeben von Bergen über 2200 Metern Höhe", "Besitzt eine bedeutende Eisenbahnstation am Drin-Korridor", "Wichtiger Punkt für den grenzüberschreitenden Handel"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-sukth-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Sukth", hu: "Sukth", ro: "Sukth", en: "Sukth",
-image: "/poi-images/albania-sukth-cities-v2.webp"
-},
+    name: { de: "Sukth", hu: "Sukth", ro: "Sukth", en: "Sukth"},
+    image: "/poi-images/albania-sukth-cities-v2.webp",
     coords: [19.5447, 41.3789],
     coordinates: { lat: 41.3789, lng: 19.5447 },
     description: {
@@ -1131,14 +1553,26 @@ image: "/poi-images/albania-sukth-cities-v2.webp"
       en: ["Located near Durrës", "Situated on Erzen River", "Important agricultural zone", "Part of Shijak municipality"],
     },
     imageHint: "Sukth town and Erzen river landscape",
-    image: "/poi-images/albania-sukth-cities-v2.webp"},
+    image: "/poi-images/albania-sukth-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sukth ist eine dynamische Gemeinde in der Küstenebene zwischen den beiden größten Städten Albaniens, Tirana und Durrës. Der Ort wird vom Fluss Erzen durchquert, dessen fruchtbare Ablagerungen die Region zu einem der produktivsten Agrargebiete des Landes gemacht haben. Historisch war Sukth als Standort eines staatlichen Musterguts bekannt, das während der kommunistischen Ära Pionierarbeit in der modernen Landwirtschaft leistete. Heute profitiert die Stadt von ihrer strategischen Lage an der Autobahn SH2 und hat sich zu einem begehrten Wohnort für Pendler entwickelt. Die Mischung aus traditioneller Landwirtschaft, aufstrebender Leichtindustrie und moderner Vorstadtentwicklung verleiht Sukth einen einzigartigen Charakter in der pulsierenden Zentralregion.",
+      hu: "Sukth egy dinamikusan fejlődő település a partmenti síkságon, Albánia két legnagyobb városa, Tirana és Durrës között. A városon áthalad az Erzen-folyó, amelynek termékeny hordaléka az ország egyik legfontosabb mezőgazdasági területévé tette a vidéket. Történelmileg Sukth egy állami mintagazdaság székhelyeként volt ismert, amely úttörő szerepet játszott a modern mezőgazdasági technológiák bevezetésében a szocialista korszakban. Napjainkban a város az SH2-es autópálya közelségének köszönhetően népszerű lakóhellyé vált az ingázók körében. A hagyományos földművelés, a feltörekvő könnyűipar és a modern elővárosi fejlődés különleges elegyet alkot ebben a forgalmas központi régióban.",
+      ro: "Sukth este o comunitate dinamică situată în câmpia litorală, între cele mai mari două orașe ale Albaniei, Tirana și Durrës. Localitatea este traversată de râul Erzen, ale cărui depuneri fertile au transformat regiunea într-una dintre cele mai productive zone agricole ale țării. Istoric, Sukth a fost sediul unei ferme model de stat, care a deschis drumul agriculturii moderne în perioada comunistă. În prezent, orașul profită de locația sa strategică de-a lungul autostrăzii SH2, devenind o zonă rezidențială căutată pentru navetiști. Mixul între agricultura tradițională, industria ușoară în plină expansiune și dezvoltarea suburbană modernă oferă localității Sukth un caracter distinct în inima regiunii centrale.",
+      en: "Sukth is a fast-developing town located in the coastal plain between Albania's two largest cities, Tirana and Durrës. The town is split by the Erzen River, whose fertile banks have made this region one of the most productive agricultural heartlands in the country. Historically, Sukth was home to a major state-run model farm that pioneered modern farming techniques during the socialist era. Today, its strategic position along the SH2 highway has transformed it into a popular residential area for professionals working in the nearby urban centers. The blend of traditional farming, emerging light industry, and modern suburban growth defines Sukth's role in Albania's vibrant central economic corridor."
+    },
+    factsAdvanced: {
+      de: ["Strategisch gelegen zwischen Tirana und Durrës", "Vom Fluss Erzen in zwei Teile geteilt", "Ehemaliger Standort der größten staatlichen Farm Albaniens", "Zentrum für den Anbau von Gemüse und Getreide", "Wichtiger Eisenbahnknotenpunkt an der Strecke nach Durrës", "Rasant wachsendes Wohngebiet für Pendler", "Standort vieler Logistik- und Handelsunternehmen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-mamurras-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Mamurras", hu: "Mamurras", ro: "Mamurras", en: "Mamurras",
-image: "/poi-images/albania-mamurras-cities-v2.webp"
-},
+    name: { de: "Mamurras", hu: "Mamurras", ro: "Mamurras", en: "Mamurras"},
+    image: "/poi-images/albania-mamurras-cities-v2.webp",
     coords: [19.6922, 41.5778],
     coordinates: { lat: 41.5778, lng: 19.6922 },
     description: {
@@ -1154,14 +1588,26 @@ image: "/poi-images/albania-mamurras-cities-v2.webp"
       en: ["Junction on the highway", "Trade town for farm goods", "North of the capital", "Near the Adriatic coast"],
     },
     imageHint: "Mamurras town center near the highway",
-    image: "/poi-images/albania-mamurras-cities-v2.webp"},
+    image: "/poi-images/albania-mamurras-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mamurras liegt am Rande der fruchtbaren Küstenebene am Fuße der Skanderbeg-Berge. Die Stadt ist tief in der albanischen Geschichte verwurzelt und war während des Zweiten Weltkriegs ein Zentrum des Widerstands gegen die Besatzungsmächte. Nach dem Krieg entwickelte sich Mamurras zu einem bedeutenden landwirtschaftlichen Knotenpunkt, der vor allem für den Anbau von Mais und Weizen sowie für die Viehzucht bekannt wurde. Die strategische Lage an der Nord-Süd-Achse des Landes macht Mamurras zu einem wichtigen Durchgangspunkt für Reisende zwischen Tirana und Shkodra. In der Umgebung finden sich dichte Wälder und sanfte Hügel, die typisch für das Übergangsgebiet zwischen der Adriaküste und dem zentralen Bergland sind.",
+      hu: "Mamurras a termékeny partmenti síkság szélén, a Skanderbeg-hegység lábánál fekszik. A város mélyen gyökerezik az albán történelemben, a második világháború idején a megszálló erők elleni ellenállás egyik fontos központja volt. A háborút követően Mamurras jelentős mezőgazdasági csomóponttá fejlődött, amely elsősorban kukorica- és búzatermesztéséről, valamint állattenyésztéséről vált ismertté. Az ország észak-déli tengelyén elfoglalt stratégiai helyzete miatt a város fontos állomás a Tirana és Shkodra között utazók számára. A környéken sűrű erdők és szelíd dombok találhatók, amelyek jellemzőek az adriai partvidék és a központi hegyvidék közötti átmeneti zónára.",
+      ro: "Mamurras este situat la marginea câmpiei fertile de coastă, la poalele munților Skanderbeg. Orașul are rădăcini adânci în istoria albaneză, fiind un centru activ de rezistență împotriva forțelor de ocupație în timpul celui de-al Doilea Război Mondial. Ulterior, s-a dezvoltat ca un hub agricol semnificativ, renumit pentru culturile de porumb și grâu, precum și pentru creșterea animalelor. Poziția sa strategică pe axa nord-sud a țării face din Mamurras un punct de tranzit important pentru călătorii care circulă între Tirana și Shkodra. Împrejurimile sunt caracterizate prin păduri dese și dealuri domoale, specifice zonei de tranziție între litoralul Adriaticii și masivele muntoase centrale.",
+      en: "Mamurras is located at the edge of the fertile coastal plain, nestled at the foot of the Skanderbeg mountain range. The town holds a significant place in Albanian history, particularly as a center of resistance during World War II. In the post-war era, Mamurras flourished as an agricultural hub, noted for its extensive maize and wheat fields as well as livestock farming. Its strategic location along the country’s main north-south transport corridor makes it a vital transit point for those traveling between Tirana and Shkodra. The surrounding area features lush forests and rolling hills, typical of the transitional landscape between the Adriatic coast and the rugged interior highlands."
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Hauptverkehrsader SH1", "Bedeutendes Zentrum für Getreideproduktion", "Ort wichtiger Partisanenkämpfe im Zweiten Weltkrieg", "Nähe zu den künstlichen Seen von Thumanë", "Bekannt für den lokalen Marktplatz für Agrarprodukte", "Reich an Quellen am Fuße der Berge", "Strategisches Tor zur Region Kurbin"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-bulqize-cities-v2",
     parent: "AL",
     type: "city",
-    name: { de: "Bulqizë", hu: "Bulqizë", ro: "Bulqizë", en: "Bulqizë",
-image: "/poi-images/albania-bulqize-cities-v2.webp"
-},
+    name: { de: "Bulqizë", hu: "Bulqizë", ro: "Bulqizë", en: "Bulqizë"},
+    image: "/poi-images/albania-bulqize-cities-v2.webp",
     coords: [20.2208, 41.4914],
     coordinates: { lat: 41.4914, lng: 20.2208 },
     description: {
@@ -1177,14 +1623,26 @@ image: "/poi-images/albania-bulqize-cities-v2.webp"
       en: ["World's largest chrome mine", "High-altitude mining town", "Located in Dibra region", "Industrial character"],
     },
     imageHint: "Bulqizë chrome mine and mountain valley",
-    image: "/poi-images/albania-bulqize-cities-v2.webp"},
+    image: "/poi-images/albania-bulqize-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bulqizë ist das Herz des albanischen Bergbaus und weltweit bekannt für seine massiven Chromvorkommen, die zu den reinsten und größten in Europa zählen. Die Stadt liegt in einer rauen Hochgebirgsregion im Osten des Landes und ist von den Bergwerken geprägt, die tief in das Gestein der umliegenden Gipfel führen. Gegründet als klassische Bergarbeitersiedlung, spiegelt Bulqizë die harte Realität und den Stolz einer Industriegemeinschaft wider, deren Leben seit Jahrzehnten vom Rhythmus der Chromgewinnung bestimmt wird. Trotz der industriellen Dominanz bietet die Umgebung spektakuläre Ausblicke auf die unberührte Natur des Drin-Tals. Die Stadt ist ein Symbol für Albaniens mineralischen Reichtum und bleibt ein kritischer Pfeiler für den Export des Landes.",
+      hu: "Bulqizë az albán bányászat szíve, világszerte ismert hatalmas krómkészleteiről, amelyek Európa legtisztább és legnagyobb lelőhelyei közé tartoznak. A város az ország keleti részének zord magashegyi régiójában fekszik, arculatát a környező hegyek gyomrába nyúló mély bányajáratok határozzák meg. Klasszikus bányásztelepülésként Bulqizë a kemény munkát és az ipari közösség büszkeségét szimbolizálja, ahol az élet évtizedek óta a krómkitermelés ritmusához igazodik. Az ipari dominancia ellenére a környék lenyűgöző kilátást nyújt a Drin-völgy érintetlen természeti környezetére. A város Albánia ásványkincsekben való gazdagságának jelképe és az ország exportjának egyik legfontosabb tartóoszlopa.",
+      ro: "Bulqiză este inima mineritului albanez, fiind celebră la nivel mondial pentru zăcămintele sale masive de crom, printre cele mai mari și pure din Europa. Orașul este situat într-o regiune montană aspră din estul țării, peisajul său fiind definit de galeriile miniere care pătrund adânc în versanții masivelor înconjurătoare. Fondat ca o așezare minieră clasică, Bulqiză reflectă realitatea dură și mândria unei comunități industriale a cărei viață a fost dictată timp de decenii de ritmul extracției de crom. În ciuda dominanței industriale, împrejurimile oferă panorame spectaculoase asupra naturii sălbatice din valea Drinului. Orașul rămâne un pilon critic al exporturilor Albaniei și un simbol al bogăției sale minerale.",
+      en: "Bulqizë is the heartbeat of Albania’s mining industry, world-renowned for its massive chromium deposits which are among the largest and highest quality in Europe. Perched in a rugged mountainous region in the east, the town's identity is forged by the deep mines that penetrate the surrounding peaks. Established as a dedicated mining settlement, Bulqizë embodies the resilience and pride of an industrial community whose life has been governed by the pulse of chrome extraction for decades. Despite the industrial backdrop, the surrounding landscapes offer breathtaking views of the pristine Drin valley. The town remains a critical pillar of Albania’s export economy and a symbol of the nation’s vast mineral wealth."
+    },
+    factsAdvanced: {
+      de: ["Größte Chrommine des Balkans befindet sich hier", "Wichtiger Standort für den Export von Erzen weltweit", "Liegt in einer Höhe von über 800 Metern", "Gegründet in den späten 1940er Jahren", "Stadtbild geprägt von Bergbau-Infrastruktur", "Umgeben von den Gipfeln des Dhos-Gebirges", "Zentrum der lokalen Verwaltung der Region Bulqizë"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-divjake-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Divjakë", hu: "Divjakë", ro: "Divjakë", en: "Divjakë",
-image: "/poi-images/albania-divjake-cities-v2.webp"
-},
+    name: { de: "Divjakë", hu: "Divjakë", ro: "Divjakë", en: "Divjakë"},
+    image: "/poi-images/albania-divjake-cities-v2.webp",
     coords: [19.5308, 40.9939],
     coordinates: { lat: 40.9939, lng: 19.5308 },
     description: {
@@ -1200,14 +1658,26 @@ image: "/poi-images/albania-divjake-cities-v2.webp"
       en: ["Karavasta Lagoon (pelicans)", "Famous pine forests", "Located near the sea", "Important national park"],
     },
     imageHint: "Karavasta lagoon and Dalmatian pelicans",
-    image: "/poi-images/albania-divjake-cities-v2.webp"},
+    image: "/poi-images/albania-divjake-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Divjakë ist ein Paradies für Naturliebhaber und Heimat des Divjakë-Karavasta Nationalparks, der größten Lagune Albaniens. Die Stadt liegt eingebettet in einen uralten Pinienwald, der direkt an den unberührten Sandstrand der Adria grenzt. Divjakë ist weltberühmt für seine Kolonie von Krauskopfpelikanen, einer seltenen und bedrohten Vogelart, die in den geschützten Gewässern der Karavasta-Lagune brütet. Die Stadt selbst ist ein ruhiges Zentrum der Landwirtschaft, bekannt für den Anbau von Wassermelonen und Gemüse in der fruchtbaren Küstenebene. Besucher schätzen die Kombination aus ökologischem Tourismus, Vogelbeobachtung und den weitläufigen, schattigen Wäldern, die einen kühlen Rückzugsort während der heißen Sommermonate bieten.",
+      hu: "Divjakë a természetbarátok paradicsoma, itt található a Divjakë-Karavasta Nemzeti Park, Albánia legnagyobb lagúna-rendszere. A várost egy ősi fenyőerdő öleli körül, amely közvetlenül az Adria érintetlen homokos strandjaiig nyúlik. Divjakë világszerte híres a borzas pelikán kolóniájáról; ez a ritka és veszélyeztetett madárfaj a Karavasta-lagúna védett vizeiben fészkel. Maga a város a mezőgazdaság csendes központja, különösen híres a termékeny partmenti síkságon termesztett görögdinnyéjéről és zöldségeiről. A látogatók nagyra értékelik az ökoturizmus, a madármegfigyelés és a kiterjedt, árnyas erdők kombinációját, amelyek hűvös menedéket nyújtanak a forró nyári hónapokban.",
+      ro: "Divjakă este un paradis pentru iubitorii de natură, fiind poarta de acces către Parcul Național Divjakă-Karavasta, cea mai mare lagună din Albania. Orașul este înconjurat de o pădure seculară de pini care se întinde până la plajele virgine de nisip ale Adriaticii. Localitatea este faimoasă în întreaga lume pentru colonia sa de pelicani creți, o specie rară și protejată care cuibărește în apele lagunei Karavasta. Orașul în sine este un centru agricol liniștit, renumit pentru producția de pepeni verzi și legume în câmpia litorală fertilă. Vizitatorii sunt atrași de combinația unică de ecoturism, observarea păsărilor și pădurile umbroase vaste, care oferă un refugiu răcoros în timpul verii.",
+      en: "Divjakë is a haven for nature enthusiasts, home to the Divjakë-Karavasta National Park, Albania's largest lagoon system. The town is nestled within an ancient pine forest that meets the untouched sandy shores of the Adriatic Sea. Divjakë is internationally famous for its colony of Dalmatian Pelicans, a rare and endangered bird species that nests in the protected waters of the Karavasta Lagoon. The town itself serves as a peaceful agricultural center, renowned for its high-quality watermelons and vegetables grown in the fertile coastal plain. Visitors flock here for a unique blend of eco-tourism, birdwatching, and the tranquility of the vast, shaded forests that offer a cool respite during the Mediterranean summer."
+    },
+    factsAdvanced: {
+      de: ["Sitz des Divjakë-Karavasta Nationalparks (Ramsar-Gebiet)", "Beherbergt ca. 5% der weltweiten Krauskopfpelikan-Population", "Berühmt für den uralten Küsten-Pinienwald", "Wichtigstes Zentrum für Wassermelonen-Anbau in Albanien", "Besitzt einen 12 km langen, naturbelassenen Sandstrand", "Wichtiges Ziel für internationales Birdwatching", "Bekannt für frischen Fisch aus der Lagune"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-belsh-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Belsh", hu: "Belsh", ro: "Belsh", en: "Belsh",
-image: "/poi-images/albania-belsh-cities-v2.webp"
-},
+    name: { de: "Belsh", hu: "Belsh", ro: "Belsh", en: "Belsh"},
+    image: "/poi-images/albania-belsh-cities-v2.webp",
     coords: [19.8911, 40.9797],
     coordinates: { lat: 40.9797, lng: 19.8911 },
     description: {
@@ -1223,14 +1693,26 @@ image: "/poi-images/albania-belsh-cities-v2.webp"
       en: ["Center of the 84 lakes", "Dumre plateau region", "Popular day-trip spot", "Ancient Illyrian settlement"],
     },
     imageHint: "Belsh town on the shore of a karst lake",
-    image: "/poi-images/albania-belsh-cities-v2.webp"},
+    image: "/poi-images/albania-belsh-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Belsh ist das pulsierende Herz der Dumre-Hochebene, einer einzigartigen Karstlandschaft in Zentralalbanien, die für ihre 84 natürlichen Seen bekannt ist. Die Stadt hat in den letzten Jahren eine beeindruckende Transformation durchlaufen und sich zu einem Musterbeispiel für den ländlichen Agrotourismus entwickelt. Die Uferpromenade am Belsh-See lädt mit Cafés und Radwegen zum Verweilen ein, während die umliegenden sanften Hügel oft als die 'albanische Toskana' bezeichnet werden. Neben seiner landschaftlichen Schönheit ist Belsh ein bedeutendes Zentrum für den Olivenanbau und die Produktion von hochwertigem Olivenöl. Die Region bietet eine harmonische Mischung aus traditioneller Landwirtschaft und modernem Ökotourismus, was sie zu einem der attraktivsten Ausflugsziele im Hinterland von Elbasan macht.",
+      hu: "Belsh a Dumre-fennsík lüktető szíve Közép-Albániában; ez az egyedülálló karsztvidék 84 természetes taváról híres. A város az elmúlt években látványos átalakuláson ment keresztül, és a vidéki agroturizmus mintapéldájává vált. A Belsh-tó partján kialakított sétány kávézókkal és kerékpárutakkal várja a látogatókat, miközben a környező szelíd dombokat gyakran az 'albán Toszkánaként' emlegetik. Természeti szépsége mellett Belsh az olajbogyó-termesztés és a kiváló minőségű olívaolaj-termelés egyik legfontosabb központja az országban. A régió a hagyományos földművelés és a modern ökoturizmus harmonikus elegyét kínálja, így Elbasan hátországának egyik legvonzóbb célpontjává vált.",
+      ro: "Belsh este inima vibrantă a podișului Dumre, o zonă carstică unică din centrul Albaniei, celebră pentru cele 84 de lacuri naturale ale sale. Orașul a trecut printr-o transformare spectaculoasă în ultimii ani, devenind un model de succes pentru agroturismul rural. Faleza amenajată pe malul lacului Belsh, cu cafenele și piste de biciclete, atrage numeroși vizitatori, în timp ce dealurile domoale din jur sunt adesea supranumite 'Toscana albaneză'. Pe lângă frumusețea peisajului, Belsh este un centru vital pentru cultura măslinilor și producția de ulei de măsline de înaltă calitate. Regiunea oferă un mix armonios între agricultura tradițională și ecoturismul modern, fiind una dintre cele mai apreciate destinații de relaxare din apropierea orașului Elbasan.",
+      en: "Belsh is the vibrant center of the Dumre Plateau, a unique karstic landscape in central Albania famous for its 84 natural lakes. The town has undergone a remarkable transformation in recent years, emerging as a prime example of rural agrotourism development. The redesigned promenade along Lake Belsh features charming cafes and cycling paths, while the surrounding rolling hills are frequently compared to the 'Albanian Tuscany.' Beyond its scenic allure, Belsh is a major hub for olive cultivation and the production of premium olive oil. The region offers a perfect balance between traditional farming life and modern ecological tourism, making it one of the most sought-after getaway destinations in the Elbasan hinterland."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der Dumre-Region mit 84 Karstseen", "Wichtiger Standort für Olivenöl-Produktion", "Einst Standort der antiken illyrischen Siedlung Gradishta", "Beliebtes Ziel für Fahrradtourismus und Wandern", "Beherbergt das jährliche 'Seen-Festival'", "Moderne Uferpromenade am Belsh-See (See von Belsh)", "Bekannt für seine sanfte, hügelige Agrarlandschaft"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
   {
     id: "albania-konispol-cities-v2",
     parent: "AL",
     type: "town",
-    name: { de: "Konispol", hu: "Konispol", ro: "Konispol", en: "Konispol",
-image: "/poi-images/albania-konispol-cities-v2.webp"
-},
+    name: { de: "Konispol", hu: "Konispol", ro: "Konispol", en: "Konispol"},
+    image: "/poi-images/albania-konispol-cities-v2.webp",
     coords: [20.1817, 39.6589],
     coordinates: { lat: 39.6589, lng: 20.1817 },
     description: {
@@ -1246,5 +1728,1810 @@ image: "/poi-images/albania-konispol-cities-v2.webp"
       en: ["Southernmost town in Albania", "Prehistoric cave (Kreshmoi)", "Famous for mandarins", "Directly on Greek border"],
     },
     imageHint: "Konispol town and citrus groves",
+    descriptionAdvanced: {
+      de: "Konispol ist die südlichste Stadt Albaniens und liegt malerisch auf einem Hügelplateau direkt an der Grenze zu Griechenland. Die Stadt ist berühmt für ihr außergewöhnliches Mikroklima, das sie zum wichtigsten Zentrum für den Anbau von Zitrusfrüchten, insbesondere Mandarinen, in Albanien macht. Von den Hängen der Stadt hat man einen weiten Blick über das Ionische Meer und die griechische Insel Korfu. Historisch ist Konispol von großer Bedeutung, da sich in unmittelbarer Nähe die Höhle von Kreshmoi befindet, die Siedlungsspuren aus der Altsteinzeit beherbergt und zu den ältesten bewohnten Orten des Balkans zählt. Die Architektur der Stadt ist geprägt von massiven Steinhäusern, die von der wohlhabenden Vergangenheit der lokalen Handelsfamilien zeugen.",
+      hu: "Konispol Albánia legdélebbi városa, amely festői módon egy dombtetőn fekszik, közvetlenül a görög határ mentén. A város kivételes mikroklímájáról híres, amely Albánia legfontosabb citrusféle-termelő központjává teszi, különös tekintettel a mandarinra. A település lejtőiről pazar kilátás nyílik a Jón-tengerre és a közeli Korfu szigetére. Történelmi szempontból Konispol kiemelkedő jelentőségű, mivel határában található a Kreshmoi-barlang, ahol az őskőkorig visszanyúló településnyomokat tártak fel, így a Balkán egyik legrégebben lakott helyeként tartják számon. A város építészetét masszív kőházak jellemzik, amelyek a helyi kereskedőcsaládok egykori gazdagságáról tanúskodnak.",
+      ro: "Konispol este cel mai sudic oraș al Albaniei, situat pitoresc pe un platou deluros chiar la granița cu Grecia. Orașul este renumit pentru microclimatul său excepțional, care l-a transformat în principalul centru de producție a citricelor, în special a mandarinelor, din Albania. De pe pantele orașului se deschide o vedere panoramică vastă către Marea Ionică și insula grecească Corfu. Din punct de vedere istoric, Konispol este de o importanță majoră datorită peșterii Kreshmoi din apropiere, care conține urme de locuire din paleolitic, fiind unul dintre cele mai vechi situri locuite din Balcani. Arhitectura locală este definită de case masive din piatră, reflectând prosperitatea istorică a familiilor de comercianți din zonă.",
+      en: "Konispol is Albania's southernmost town, perched beautifully on a high plateau right at the border with Greece. The town is celebrated for its unique microclimate, which has established it as the premier hub for citrus cultivation—particularly mandarins—in the country. From its elevated vantage points, Konispol offers sweeping views of the Ionian Sea and the nearby Greek island of Corfu. The area holds immense historical value due to the Konispol Cave (Kreshmoi), which contains archaeological layers dating back to the Upper Paleolithic, making it one of the oldest inhabited sites in the Balkans. The town's architecture features impressive traditional stone mansions that speak to the historical wealth of its merchant families."
+    },
+    factsAdvanced: {
+      de: ["Südlichste Stadt der Republik Albanien", "Zentrum der albanischen Mandarinen-Produktion", "Standort der prähistorischen Kreshmoi-Höhle", "Traditionelle Steinarchitektur (Kulla-Stil)", "Bietet Blick auf die Butrint-Ebene und Korfu", "Wichtiger Grenzübergang nach Griechenland (Qafë Botë)", "Bekannt für hochwertiges Olivenöl und Honig"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  }
+,
+  {
+    id: "albania-voskopoje-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Voskopojë", hu: "Voskopojë", ro: "Voskopojë", en: "Voskopojë" },
+    coordinates: { lat: 40.6333, lng: 20.5889 },
+    description: {
+      de: "Voskopojë war im 18. Jahrhundert ein bedeutendes kulturelles Zentrum des Balkans. Heute ist es ein ruhiges Bergdorf mit wertvollen historischen Kirchen.",
+      hu: "Voskopojë a 18. században a Balkán egyik legfontosabb kulturális központja volt. Ma egy csendes hegyi falu, amely értékes történelmi templomairól ismert.",
+      ro: "Voskopojë a fost un centru cultural major al Balcanilor în secolul al XVIII-lea. Astăzi este un sat de munte liniștit, renumit pentru bisericile sale istorice.",
+      en: "Voskopojë was a major cultural center of the Balkans during the 18th century. Today it is a quiet mountain village known for its valuable historical churches.",
+    },
+    facts: {
+      de: ["Gründung im 14. Jahrhundert", "Sitz der ersten Druckerei im Balkan", "Einst über 30.000 Einwohner", "Berühmt für byzantinische Fresken"],
+      hu: ["A 14. században alapították", "Az első balkáni nyomda székhelye", "Egykor több mint 30 000 lakosa volt", "Híres a bizánci freskóiról"],
+      ro: ["Fondat în secolul al XIV-lea", "Sediul primei tipografii din Balcani", "A avut odată peste 30.000 de locuitori", "Celebru pentru frescele bizantine"],
+      en: ["Founded in the 14th century", "Site of the first printing press in the Balkans", "Once had over 30,000 inhabitants", "Famous for its Byzantine frescoes"],
+    },
+    imageHint: "Ancient Orthodox church in Voskopoje mountains",
+    descriptionAdvanced: {
+      de: "Voskopojë, einst als Moscopole bekannt, war im 18. Jahrhundert eine der bedeutendsten Metropolen des Balkans und ein blühendes Zentrum für Handel, Kultur und Bildung. In ihrer Glanzzeit verfügte die Stadt über die einzige Druckerei des osmanischen Balkans und eine Akademie, die Gelehrte aus der gesamten Region anlockte. Heute ist Voskopojë ein malerisches Bergdorf und ein geschütztes Kulturdenkmal, das vor allem für seine beeindruckenden orthodoxen Kirchen mit ihren meisterhaften Fresken bekannt ist. Die Kirchen St. Nikolaus und St. Athanasius sind Juwelen der post-byzantinischen Kunst. Dank seiner gesunden Höhenluft und der herrlichen Pinienwälder hat sich der Ort zudem zu einem beliebten Bergkurort entwickelt, der das ganze Jahr über Besucher für Kultur- und Naturreisen anzieht.",
+      hu: "Voskopojë, az egykori Moscopole, a 18. században a Balkán egyik legjelentősebb metaropolisza volt, a kereskedelem, a kultúra és az oktatás virágzó központja. Fénykorában a város rendelkezett az oszmán Balkán egyetlen nyomdájával és egy híres akadémiával, amely a régió minden részéből vonzotta a tudósokat. Ma Voskopojë egy festői hegyi falu és védett műemlék, amely elsősorban lenyűgöző ortodox templomairól és azok mesteri freskóiról híres. A Szent Miklós és Szent Atanáz templomok a poszt-bizánci művészet gyöngyszemei. Az egészséges hegyi levegőnek és a gyönyörű fenyőerdőknek köszönhetően a település népszerű hegyi üdülőhellyé vált, amely egész évben várja a kulturális és természetjáró turistákat.",
+      ro: "Voskopojë, cunoscut istoric sub numele de Moscopole, a fost în secolul al XVIII-lea una dintre cele mai importante metropole din Balcani, un centru înfloritor al comerțului, culturii și educației. În perioada sa de glorie, orașul găzduia singura tipografie din Balcanii otomani și o academie celebră care atrăgea învățați din întreaga regiune. Astăzi, Voskopojë este un sat montan pitoresc și un monument cultural protejat, fiind renumit pentru bisericile sale ortodoxe impresionante cu fresce magistrale. Bisericile Sfântul Nicolae și Sfântul Atanasie sunt bijuterii ale artei post-bizantine. Datorită aerului curat de munte și pădurilor de pini, localitatea s-a transformat într-o stațiune montană căutată, ideală pentru turism cultural și drumeții în orice anotimp.",
+      en: "Voskopojë, historically known as Moscopole, was one of the most significant metropolises in the Balkans during the 18th century, serving as a flourishing hub for trade, culture, and enlightenment. At its peak, the city boasted the only printing press in the Ottoman Balkans and a prestigious academy that attracted scholars from across the region. Today, Voskopojë is a serene mountain village and a protected cultural monument, renowned for its extraordinary Orthodox churches adorned with masterful frescoes. The churches of St. Nicholas and St. Athanasius are considered masterpieces of post-Byzantine art. Thanks to its bracing mountain air and lush pine forests, the village has also become a premier mountain resort, attracting visitors year-round for cultural exploration and nature retreats."
+    },
+    factsAdvanced: {
+      de: ["Einstige Metropole mit über 40.000 Einwohnern im 18. Jh.", "Standort der ersten Druckerei im osmanischen Balkan (1720)", "Besitzt sieben erhaltene monumentale orthodoxe Kirchen", "Berühmt für die Fresken der Meister David Selenica und Zografi", "Sitz der 'Neuen Akademie' (Akademia e Re) von 1744", "Wichtiger Höhenkurort auf ca. 1160 Metern Höhe", "Zentrum des kulturellen Erbes der Aromunen (Vlachen)"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-paskuqan-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Paskuqan", hu: "Paskuqan", ro: "Paskuqan", en: "Paskuqan" },
+    coordinates: { lat: 41.3611, lng: 19.825 },
+    description: {
+      de: "Paskuqan ist ein schnell wachsender Vorort nördlich von Tirana am gleichnamigen See. Er hat sich von einer ländlichen Zone zu einem dichten Wohngebiet entwickelt.",
+      hu: "Paskuqan egy gyorsan növekvő külváros Tirana északi részén, az azonos nevű tó partján. Vidéki övezetből sűrű lakónegyeddé vált.",
+      ro: "Paskuqan este o suburbie cu creștere rapidă la nord de Tirana, situată lângă lacul cu același nume. S-a transformat dintr-o zonă rurală într-un cartier rezidențial dens.",
+      en: "Paskuqan is a rapidly growing suburb north of Tirana, located by the lake of the same name. It has transformed from a rural zone into a dense residential area.",
+    },
+    facts: {
+      de: ["Grenz an den Paskuqan-See", "Teil der Metropolregion Tirana", "Über 37.000 Einwohner", "Wichtiges Expansionsgebiet der Hauptstadt"],
+      hu: ["A Paskuqan-tó határolja", "Tirana metropolisz övezetének része", "Több mint 37 000 lakos", "A főváros fontos terjeszkedési területe"],
+      ro: ["Se învecinează cu Lacul Paskuqan", "Parte a zonei metropolitane Tirana", "Peste 37.000 de locuitori", "Zonă importantă de expansiune a capitalei"],
+      en: ["Bordered by Lake Paskuqan", "Part of the Tirana metropolitan area", "Over 37,000 inhabitants", "Important expansion area for the capital"],
+    },
+    imageHint: "Aerial view of Paskuqan lake and houses",
+    descriptionAdvanced: {
+      de: "Paskuqan ist eine rasant wachsende Vorstadtgemeinde unmittelbar nördlich der albanischen Hauptstadt Tirana. Lange Zeit als rein agrarisch geprägtes Gebiet bekannt, hat sich der Ort durch die massive urbane Expansion zu einem integrierten Bestandteil der Metropolregion entwickelt. Das Herzstück der Gemeinde ist der künstliche See von Paskuqan, der derzeit im Rahmen eines großen städtebaulichen Projekts zu einem weitläufigen Freizeitpark umgestaltet wird, ähnlich dem Großen Park von Tirana. Diese Entwicklung macht Paskuqan zu einem attraktiven Wohnort für Familien, die die Nähe zum Zentrum schätzen, aber auch von den neuen Grünflächen und der verbesserten Infrastruktur profitieren möchten. Die Stadt ist ein Symbol für die moderne Transformation und das schnelle Bevölkerungswachstum im Herzen Albaniens.",
+      hu: "Paskuqan egy gyorsan növekvő elővárosi közösség közvetlenül az albán főváros, Tirana északi határában. Sokáig tisztán mezőgazdasági területként ismerték, de a masszív városi terjeszkedés révén a metropolisz övezet integrált részévé vált. A település központi eleme a Paskuqan-i mesterséges tó, amelyet jelenleg egy nagyszabású városrendezési projekt keretében hatalmas szabadidőparkká alakítanak át, hasonlóan a Tiranai Nagy Parkhoz. Ez a fejlesztés Paskuqant vonzó lakóhellyé teszi a családok számára, akik értékelik a központ közelségét, de szeretnének profitálni az új zöldfelületekből és a javuló infrastruktúrából is. A város a modern átalakulás és a közép-albániai gyors népességnövekedés egyik jelképe.",
+      ro: "Paskuqan este o comunitate suburbană cu o creștere rapidă, situată imediat la nord de capitala Albaniei, Tirana. Cunoscută mult timp ca o zonă pur agricolă, localitatea a devenit prin expansiunea urbană masivă o parte integrantă a regiunii metropolitane. Punctul central al comunității este lacul artificial Paskuqan, care este în prezent transformat printr-un proiect urbanistic major într-un parc recreativ vast, similar Marelui Parc din Tirana. Această dezvoltare face din Paskuqan o zonă rezidențială atractivă pentru familiile care apreciază proximitatea de centru, dar doresc să beneficieze de noi spații verzi și de o infrastructură îmbunătățită. Orașul este un simbol al transformării moderne și al creșterii demografice rapide din inima Albaniei.",
+      en: "Paskuqan is a rapidly growing suburban community located directly north of the Albanian capital, Tirana. Once a predominantly agricultural area, it has been integrated into the Tirana metropolitan region through massive urban expansion over the last few decades. The centerpiece of the municipality is the Paskuqan Lake, which is currently being developed into a sprawling recreational park as part of a major urban regeneration project, aimed at providing a secondary 'green lung' for the capital. This transformation makes Paskuqan an increasingly desirable residential location for families seeking proximity to the city center along with modern amenities and improved green spaces. The town stands as a testament to the dynamic urban shift occurring in central Albania."
+    },
+    factsAdvanced: {
+      de: ["Unmittelbar nördlich an die Stadt Tirana angrenzend", "Standort des neu entwickelten Paskuqan-Seeparks", "Eines der am schnellsten wachsenden Wohngebiete Albaniens", "Strategische Anbindung an den inneren Ring von Tirana", "Transformiert von einer Agrar- zu einer Vorstadtgemeinde", "Wichtiger Standort für lokale KMUs und Dienstleistungen", "Teil der Metropolregion Tirana-Durrës"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-rrogozhine-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Rrogozhinë", hu: "Rrogozhinë", ro: "Rrogozhinë", en: "Rrogozhinë" },
+    coordinates: { lat: 41.0767, lng: 19.6653 },
+    description: {
+      de: "Rrogozhinë ist ein strategischer Verkehrsknotenpunkt in Zentralalbanien. Die Stadt liegt an der Kreuzung wichtiger Nord-Süd- und Ost-West-Verbindungen.",
+      hu: "Rrogozhinë stratégiai közlekedési csomópont Közép-Albániában. A város a fontos észak-déli és kelet-nyugati útvonalak kereszteződésében fekszik.",
+      ro: "Rrogozhinë este un nod de transport strategic în centrul Albaniei. Orașul este situat la intersecția unor rute importante nord-sud și est-vest.",
+      en: "Rrogozhinë is a strategic transport hub in central Albania. The town is located at the intersection of major north-south and east-west routes.",
+    },
+    facts: {
+      de: ["Wichtiger Eisenbahnknotenpunkt", "Liegt am Fluss Shkumbin", "Zentrum der lokalen Lebensmittelindustrie", "In der Nähe der Adria-Küste"],
+      hu: ["Fontos vasúti csomópont", "A Shkumbin-folyó mentén fekszik", "A helyi élelmiszeripar központja", "Közel az Adriai-tenger partjához"],
+      ro: ["Nod feroviar important", "Situat pe râul Shkumbin", "Centru al industriei alimentare locale", "Aproape de coasta Mării Adriatice"],
+      en: ["Important railway junction", "Located on the Shkumbin River", "Center of local food industry", "Near the Adriatic Sea coast"],
+    },
+    imageHint: "Road junction and buildings in Rrogozhine",
+    descriptionAdvanced: {
+      de: "Rrogozhinë ist ein strategischer Verkehrsknotenpunkt in Zentralalbanien, gelegen am Übergang zwischen der Küstenebene und dem Shkumbin-Tal. Die Stadt spielt seit jeher eine entscheidende Rolle als Kreuzungspunkt für den Schienen- und Straßenverkehr und verbindet den Norden mit dem Süden sowie die Küste mit dem Landesinneren. Wirtschaftlich ist die Region stark von der Landwirtschaft geprägt, wobei die fruchtbaren Böden entlang des Shkumbin-Flusses ideale Bedingungen für den Getreide- und Gemüseanbau bieten. Während der industriellen Ära war Rrogozhinë zudem für seine Textil- und Lebensmittelverarbeitung bekannt. Heute dient die Stadt als wichtiges Versorgungszentrum für die umliegenden ländlichen Gemeinden und bleibt aufgrund seiner Lage an der historischen Via Egnatia ein bedeutender Ort für Handel und Logistik.",
+      hu: "Rrogozhinë Közép-Albánia egyik stratégiai közlekedési csomópontja, a partmenti síkság és a Shkumbin-völgy találkozásánál. A város hagyományosan meghatározó szerepet tölt be a vasúti és közúti közlekedésben, összekötve az északi és déli országrészeket, valamint a tengerpartot a belső területekkel. Gazdaságilag a régiót az intenzív mezőgazdaság jellemzi; a Shkumbin-folyó menti termékeny talaj ideális feltételeket biztosít a gabona- és zöldségtermesztéshez. Az ipari korszakban Rrogozhinë textiliparáról és élelmiszer-feldolgozásáról is ismert volt. Ma a város fontos ellátó központ a környező vidéki közösségek számára, és a történelmi Via Egnatia menti fekvésének köszönhetően továbbra is jelentős kereskedelmi és logisztikai bázis.",
+      ro: "Rrogozhinë este un nod de transport strategic în centrul Albaniei, situat la joncțiunea dintre câmpia litorală și valea Shkumbin. Orașul joacă un rol crucial ca punct de intersecție pentru traficul feroviar și rutier, legând nordul de sudul țării și coasta de interiorul teritoriului. Din punct de vedere economic, regiunea este puternic marcată de agricultură, solurile fertile de-a lungul râului Shkumbin oferind condiții ideale pentru culturile de cereale și legume. În perioada industrială, Rrogozhinë a fost recunoscut și pentru prelucrarea textilelor și a alimentelor. Astăzi, orașul servește drept centru important de aprovizionare pentru comunitățile rurale din jur, rămânând un punct vital pentru comerț și logistică datorită amplasării sale pe ruta istorică Via Egnatia.",
+      en: "Rrogozhinë is a strategic transport hub in central Albania, located where the coastal plain meets the Shkumbin River valley. The town has historically served as a vital crossroads for both rail and road networks, connecting the north to the south and the Adriatic coast to the interior. Economically, the region is defined by its robust agriculture, with the fertile alluvial soils along the Shkumbin providing ideal conditions for large-scale grain and vegetable production. During the industrial era, Rrogozhinë was also known for its textile manufacturing and food processing facilities. Today, it continues to function as an essential service center for surrounding rural municipalities and remains a key logistics node situated along the ancient route of the Via Egnatia."
+    },
+    factsAdvanced: {
+      de: ["Strategischer Eisenbahnknotenpunkt Mittelalbaniens", "Liegt an der historischen Route der Via Egnatia", "Wichtige Kreuzung der Nationalstraßen SH4 und SH7", "Zentrum für Getreide- und Sonnenblumenanbau", "In unmittelbarer Nähe zum Fluss Shkumbin", "Historischer Standort einer großen Öl- und Seifenfabrik", "Wichtiger Versorgungsmarkt für die umliegende Agrarregion"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-dimal-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Dimal", hu: "Dimal", ro: "Dimal", en: "Dimal" },
+    coordinates: { lat: 40.7725, lng: 19.7825 },
+    description: {
+      de: "Dimal, früher bekannt als Ura Vajgurore, ist eine Stadt in der Nähe von Berat. Sie wurde nach einer bedeutenden antiken illyrischen Siedlung in der Region umbenannt.",
+      hu: "Dimal, korábbi nevén Ura Vajgurore, egy Berat közelében fekvő város. Nevét a régió egyik jelentős ókori illír településéről kapta.",
+      ro: "Dimal, cunoscut anterior sub numele de Ura Vajgurore, este un oraș situat lângă Berat. A fost redenumit după o așezare iliră antică importantă din regiune.",
+      en: "Dimal, formerly known as Ura Vajgurore, is a town located near Berat. It was renamed after a significant ancient Illyrian settlement in the region.",
+    },
+    facts: {
+      de: ["Umbenannt im Jahr 2021", "Liegt am Fluss Osum", "Wichtiges Zentrum für Kalksteinabbau", "Tor zur historischen Stadt Berat"],
+      hu: ["2021-ben nevezték át", "Az Osum-folyó partján fekszik", "Fontos mészkőbányászati központ", "A történelmi Berat városának kapuja"],
+      ro: ["Redenumit în anul 2021", "Situat pe râul Osum", "Centru important pentru extracția calcarului", "Poarta către orașul istoric Berat"],
+      en: ["Renamed in the year 2021", "Located on the Osum River", "Important center for limestone mining", "Gateway to the historical city of Berat"],
+    },
+    imageHint: "Bridge over Osum river in Dimal town",
+    descriptionAdvanced: {
+      de: "Dimal, früher als Ura Vajgurore bekannt, ist eine Stadt im Übergangsgebiet zwischen der Myzeqe-Ebene und den sanften Hügeln von Berat. Die Stadt wurde kürzlich zu Ehren der nahe gelegenen antiken illyrischen Stadt Dimal umbenannt, die einst eines der bedeutendsten befestigten Zentren der Region war. Heute ist Dimal ein wichtiges wirtschaftliches Zentrum, das stark von der Kalkstein- und Steinbruchindustrie sowie der Landwirtschaft geprägt ist. Die Stadt dient als strategische Brücke über den Fluss Osum und ist ein wichtiger Transitpunkt für Reisende in den Süden Albaniens. Die Mischung aus industrieller Dynamik und dem Stolz auf das antike Erbe verleiht Dimal eine neue Identität als aufstrebendes urbanes Zentrum im Herzen des Landes.",
+      hu: "Dimal, korábbi nevén Ura Vajgurore, egy város a Myzeqe-síkság és Berat szelíd dombjai közötti átmeneti övezetben. A települést a közelmúltban nevezték át a közeli ókori illír város, Dimal tiszteletére, amely egykor a régió egyik legjelentősebb erődített központja volt. Ma Dimal fontos gazdasági központ, amelynek arculatát a mészkőbányászat, a kőfeldolgozás és a mezőgazdaság határozza meg. A város stratégiai hídként szolgál az Osum-folyó felett, és fontos tranzitpont a Dél-Albánia felé utazók számára. Az ipari dinamizmus és az ókori örökség iránti büszkeség ötvözete új identitást ad Dimalnak, mint az ország szívében fekvő, feltörekvő városi központnak.",
+      ro: "Dimal, cunoscut anterior sub numele de Ura Vajgurore, este un oraș situat în zona de tranziție între câmpia Myzeqe și dealurile din jurul orașului Berat. Localitatea a fost redenumită recent în onoarea vechiului oraș ilir Dimal, aflat în apropiere, care a fost unul dintre cele mai importante centre fortificate ale regiunii în antichitate. Astăzi, Dimal este un hub economic vital, axat pe industria extractivă a calcarului și agricultură. Orașul servește drept punte strategică peste râul Osum și este un punct de tranzit esențial pentru călătorii care se îndreaptă spre sudul Albaniei. Amestecul de dinamism industrial și mândria față de moștenirea antică oferă orașului Dimal o nouă identitate ca centru urban în plină dezvoltare.",
+      en: "Dimal, formerly known as Ura Vajgurore, is a town located at the crossroads between the Myzeqe plain and the rolling hills of the Berat region. The town was recently renamed to honor the nearby ancient Illyrian city of Dimal, once one of the most powerful fortified settlements in southern Illyria. Today, Dimal functions as a significant economic center, driven by the limestone quarrying industry and productive agriculture. Positioned strategically on the banks of the Osum River, it serves as a vital bridge and transit node for travelers heading deeper into southern Albania. This blend of industrial growth and ancient historical pride defines Dimal’s new identity as a rising urban hub in the country's interior."
+    },
+    factsAdvanced: {
+      de: ["Umbenannt 2021 nach der antiken illyrischen Stadt Dimal", "Wichtiger Standort für Steinbrüche und Baumaterialien", "Strategische Brücke über den Fluss Osum", "Einstiges Zentrum der albanischen Erdöl-Logistik", "Nahe der archäologischen Ausgrabungsstätte Dimal gelegen", "Tor zur Welterbestadt Berat", "Zentrum einer fruchtbaren Wein- und Olivenregion"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-golem-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Golem", hu: "Golem", ro: "Golem", en: "Golem" },
+    coordinates: { lat: 41.25, lng: 19.521 },
+    description: {
+      de: "Golem ist einer der beliebtesten Badeorte Albaniens an der Adria. Es ist bekannt für seine langen Sandstrände und zahlreichen modernen Hotels.",
+      hu: "Golem Albánia egyik legnépszerűbb tengerparti üdülőhelye az Adria partján. Hosszú homokos strandjairól és számos modern szállodájáról ismert.",
+      ro: "Golem este una dintre cele mai populare stațiuni de pe litoralul albanez al Adriaticii. Este cunoscut pentru plajele sale lungi de nisip și numeroasele hoteluri moderne.",
+      en: "Golem is one of Albania's most popular seaside resorts on the Adriatic coast. It is known for its long sandy beaches and numerous modern hotels.",
+    },
+    facts: {
+      de: ["Teil der Riviera von Durrës", "Hauptziel für Sommertourismus", "Pinienwälder entlang der Küste", "Schnelle Anbindung an Tirana"],
+      hu: ["A Durrës-i riviéra része", "A nyári turizmus fő célpontja", "Fenyőerdők a tengerpart mentén", "Gyors összeköttetés Tiranával"],
+      ro: ["Parte a rivierei din Durrës", "Destinație principală pentru turismul de vară", "Păduri de pini de-a lungul coastei", "Acces rapid către Tirana"],
+      en: ["Part of the Durrës riviera", "Main destination for summer tourism", "Pine forests along the coast", "Fast connection to Tirana"],
+    },
+    imageHint: "Sandy beach and hotels in Golem resort",
+    descriptionAdvanced: {
+      de: "Golem ist einer der bekanntesten und beliebtesten Badeorte Albaniens, gelegen an der Adriaküste südlich der Hafenstadt Durrës. Charakteristisch für Golem ist der weitläufige, flach abfallende Sandstrand, der von einem markanten Gürtel aus Pinienwäldern gesäumt wird und natürlichen Schatten bietet. Die Stadt hat in den letzten Jahrzehnten einen massiven Bauboom erlebt und beherbergt heute einige der modernsten Luxushotels und Resorts des Landes. Golem ist besonders bei Familien beliebt und bietet eine erstklassige touristische Infrastruktur mit zahlreichen Restaurants, Beach-Clubs und Freizeitmöglichkeiten. Trotz der intensiven Entwicklung bewahrt der Ort durch seine Pinienhaine einen Hauch von Natürlichkeit und bleibt das primäre Ziel für den Sommertourismus in Zentralalbanien.",
+      hu: "Golem Albánia egyik legismertebb és legnépszerűbb üdülőhelye, az Adriai-tenger partján, Durrës kikötővárosától délre. Golem jellegzetessége a széles, lassan mélyülő homokos strand, amelyet egy markáns fenyőerdő-sáv szegélyez, természetes árnyékot nyújtva a látogatóknak. A település az elmúlt évtizedekben hatalmas építési lázat élt át, és ma az ország legmodernebb luxusszállodáinak és resortjainak ad otthont. Golem különösen népszerű a családok körében, elsőrangú turisztikai infrastruktúrával, számos étteremmel, beach-clubbal és szabadidős lehetőséggel várja a vendégeket. Az intenzív fejlesztések ellenére a fenyőligetek révén a hely megőrizte természetes jellegét, és Közép-Albánia első számú nyári turisztikai célpontja maradt.",
+      ro: "Golem este una dintre cele mai cunoscute și populare stațiuni balneare din Albania, situată pe coasta Adriaticii, la sud de orașul port Durrës. Golem se caracterizează prin plaja sa vastă de nisip, cu intrare lină în mare, mărginită de o fâșie distinctivă de păduri de pini care oferă umbră naturală. Localitatea a cunoscut un boom imobiliar masiv în ultimele decenii, găzduind astăzi unele dintre cele mai moderne hoteluri de lux și resorturi din țară. Golem este preferat în special de familii, oferind o infrastructură turistică de primă clasă, cu numeroase restaurante și cluburi de plajă. În ciuda dezvoltării intense, stațiunea își păstrează farmecul natural prin crângurile de pini, rămânând destinația principală pentru turismul estival din centrul Albaniei.",
+      en: "Golem is one of Albania’s premier seaside destinations, stretching along the Adriatic coast just south of the port city of Durrës. Known for its expansive sandy beaches and shallow waters, Golem is uniquely defined by its signature belt of pine forests that provide a natural, fragrant canopy along the shore. Over the past few decades, the town has seen exponential growth, becoming home to some of the country's most modern luxury resorts and beach hotels. It is a top choice for families and international tourists alike, offering a sophisticated infrastructure of restaurants, entertainment venues, and beach clubs. Despite its rapid urbanization, Golem retains its scenic appeal through its coastal greenery, serving as a primary hub for summer tourism in Central Albania."
+    },
+    factsAdvanced: {
+      de: ["Einer der größten Badeorte an der albanischen Adria", "Berühmt für die schattenspendenden Küsten-Pinienwälder", "Besitzt einen kilometerlangen, breiten Sandstrand", "Standort vieler High-End-Resorts und moderner Hotels", "Hervorragende Anbindung an Tirana und Durrës via Autobahn", "Zentrum des Sommertourismus für Einheimische und Ausländer", "Bietet eine Vielzahl von Wassersportmöglichkeiten"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-tropoje-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Tropojë", hu: "Tropojë", ro: "Tropojë", en: "Tropojë" },
+    coordinates: { lat: 42.4, lng: 20.1667 },
+    description: {
+      de: "Tropojë ist ein historisches Dorf im Nordosten Albaniens, nahe der Grenze zum Kosovo. Es liegt in den spektakulären Albanischen Alpen.",
+      hu: "Tropojë egy történelmi falu Albánia északkeleti részén, a koszovói határ közelében. A látványos Albán-Alpokban fekszik.",
+      ro: "Tropojë este un sat istoric din nord-estul Albaniei, aproape de granița cu Kosovo. Este situat în spectaculoșii Alpi Albanezi.",
+      en: "Tropojë is a historical village in northeastern Albania, near the border with Kosovo. It is located in the spectacular Albanian Alps.",
+    },
+    facts: {
+      de: ["Namensgeber für die Region Tropoja", "Historisches Zentrum des Krasniqi-Stammes", "Bekannt für traditionelle Kulla-Häuser", "Umgeben von hohen Berggipfeln"],
+      hu: ["A Tropoja régió névadója", "A Krasniqi törzs történelmi központja", "Hagyományos kulla-házairól ismert", "Magas hegycsúcsok veszik körül"],
+      ro: ["Eponim pentru regiunea Tropoja", "Centrul istoric al tribului Krasniqi", "Cunoscut pentru casele tradiționale kulla", "Înconjurat de vârfuri muntoase înalte"],
+      en: ["Eponymous for the Tropoja region", "Historical center of the Krasniqi tribe", "Known for traditional kulla houses", "Surrounded by high mountain peaks"],
+    },
+    imageHint: "Traditional village houses in Tropoje mountains",
+    descriptionAdvanced: {
+      de: "Tropojë ist ein geschichtsträchtiges Zentrum in den Albanischen Alpen und gilt als das Herz des Gjakova-Hochlandes. Die Stadt und die gleichnamige Region sind bekannt für ihre heldenhafte Geschichte und die Bewahrung jahrhundertealter Traditionen, die im Kanun wurzeln. Tropojë ist das Tor zum Valbona-Tal Nationalpark, einem der spektakulärsten Naturwunder Europas, das oft als die 'Perle der Alpen' bezeichnet wird. Die Gegend ist berühmt für ihre riesigen Kastanienwälder und die Produktion von hochwertigem Berg-Honig. Die Architektur der Region ist geprägt von den 'Kullas', massiven steinernen Turmhäusern, die einst Verteidigungszwecken dienten. Heute wandelt sich Tropojë von einem abgelegenen Grenzgebiet zu einem bedeutenden Zentrum für den Ökotourismus und das Bergwandern im Norden Albaniens.",
+      hu: "Tropojë egy történelmi központ az Albán-Alpokban, a Gjakovai-felföld szíve. A város és az azonos nevű régió hősies történelméről, valamint a Kanunban gyökerező, évszázados hagyományok megőrzéséről ismert. Tropojë a Valbona-völgy Nemzeti Park kapuja, amely Európa egyik leglátványosabb természeti csodája, és gyakran az 'Alpok gyöngyszemeként' emlegetik. A vidék híres hatalmas gesztenyeerdőiről és a kiváló minőségű hegyi méz termeléséről. A régió építészetét a 'kulla'-k, a masszív kőből épült toronyházak jellemzik, amelyek egykor védelmi célokat szolgáltak. Napjainkban Tropojë egy elszigetelt határvidékből az ökoturizmus és a hegyi túrázás jelentős észak-albániai központjává válik.",
+      ro: "Tropojë este un centru încărcat de istorie din Alpii Albanezi, fiind considerat inima podișului Gjakova. Orașul și regiunea omonimă sunt renumite pentru istoria lor eroică și păstrarea tradițiilor seculare adânc înrădăcinate în codul Kanun. Tropojë servește drept poartă de acces către Parcul Național Valea Valbonei, una dintre cele mai spectaculoase minuni naturale ale Europei, supranumită adesea 'Perla Alpilor'. Zona este celebră pentru pădurile sale vaste de castani și producția de miere de munte de înaltă calitate. Arhitectura regională este marcată de 'kulla', case-turn masive din piatră care serveau în trecut scopuri defensive. Astăzi, Tropojë evoluează dintr-o zonă de frontieră izolată într-un centru major pentru ecoturism și drumeții montane în nordul Albaniei.",
+      en: "Tropojë is a historic bastion in the Albanian Alps, regarded as the spiritual heart of the Gjakova Highlands. The town and its surrounding region are famed for their storied history and the preservation of age-old traditions rooted in the highland codes of honor. Tropojë acts as the main gateway to the Valbona Valley National Park, a breathtaking glacial valley often called the 'Jewel of the Alps' for its pristine beauty. The region is renowned for its vast ancient chestnut forests and the production of premium mountain honey. Traditional architecture here is defined by 'kullas'—stone tower houses that symbolize the area's resilient past. Today, Tropojë is transitioning into a premier hub for eco-tourism, attracting hikers and adventurers from around the world to northern Albania."
+    },
+    factsAdvanced: {
+      de: ["Historisches Zentrum des Gjakova-Hochlandes (Malësia e Gjakovës)", "Wichtigstes Tor zum Valbona-Tal Nationalpark", "Beherbergt die größten Kastanienwälder des Balkans", "Bekannt für die Bewahrung der epischen Volkspoesie", "Traditionelle Steinarchitektur mit historischen Turmhäusern (Kulla)", "Berühmt für die Tropojë-Tänze und Volksmusik", "Zentrum für hochwertigen Berg-Honig und Heilpflanzen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-maqellare-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Maqellarë", hu: "Maqellarë", ro: "Maqellarë", en: "Maqellarë" },
+    coordinates: { lat: 41.5917, lng: 20.485 },
+    description: {
+      de: "Maqellarë ist eine Grenzstadt im Osten Albaniens, nahe Nordmazedonien. Sie liegt in der fruchtbaren Ebene von Dibra zwischen Peshkopi und Debar.",
+      hu: "Maqellarë egy határmenti város Albánia keleti részén, Észak-Macedónia közelében. A termékeny Dibra-síkságon fekszik Peshkopi és Debar között.",
+      ro: "Maqellarë este un oraș de graniță din estul Albaniei, aproape de Macedonia de Nord. Este situat în câmpia fertilă Dibra, între Peshkopi și Debar.",
+      en: "Maqellarë is a border town in eastern Albania, near North Macedonia. It is located in the fertile Dibra plain between Peshkopi and Debar.",
+    },
+    facts: {
+      de: ["Wichtiger Grenzübergang nach Debar", "Zentrum einer landwirtschaftlichen Region", "Historisch Teil der Dibra-Region", "An der Nationalstraße SH6 gelegen"],
+      hu: ["Fontos határátkelő Debar felé", "Egy mezőgazdasági régió központja", "Történelmileg a Dibra-régió része", "Az SH6-os főút mentén található"],
+      ro: ["Punct de frontieră important către Debar", "Centrul unei regiuni agricole", "Istoric parte a regiunii Dibra", "Situat pe drumul național SH6"],
+      en: ["Important border crossing to Debar", "Center of an agricultural region", "Historically part of the Dibra region", "Located on the SH6 national road"],
+    },
+    imageHint: "Town of Maqellare with mountains in background",
+    descriptionAdvanced: {
+      de: "Maqellarë liegt in einer fruchtbaren Ebene im Osten Albaniens, unweit der Grenze zu Nordmazedonien und der Stadt Peshkopi. Die Gemeinde ist ein bedeutendes landwirtschaftliches Zentrum, das von den nährstoffreichen Böden des Drin-Tals profitiert. Historisch war Maqellarë ein wichtiger Treffpunkt für den regionalen Handel zwischen den Stämmen des Dibra-Hochlandes. Bekannt ist der Ort auch für seine Nähe zu den Thermalquellen (Llixhat), die seit der Antike für ihre heilende Wirkung geschätzt werden. Die Landschaft ist geprägt von weiten Feldern, auf denen Getreide und Obst angebaut werden, und bietet eine ruhige, ländliche Atmosphäre. Maqellarë dient heute als wichtiges Bindeglied im grenzüberschreitenden Austausch und bewahrt die herzliche Gastfreundschaft, für die die Region Dibra bekannt ist.",
+      hu: "Maqellarë Albánia keleti részén, egy termékeny síkságon fekszik, nem messze az észak-macedón határtól és Peshkopi városától. A település jelentős mezőgazdasági központ, amely a Drin-völgy tápanyagban gazdag talajából profitál. Történelmileg Maqellarë fontos találkozóhely volt a Dibra-felföld törzsei közötti regionális kereskedelem számára. A helység közismert a közeli termálforrásokról (Llixhat) is, amelyeket gyógyhatásuk miatt már az ókor óta nagyra értékelnek. A tájat kiterjedt mezők jellemzik, ahol gabonát és gyümölcsöt termesztenek, nyugodt vidéki hangulatot árasztva. Maqellarë fontos összekötő kapocsként szolgál a határon átnyúló kapcsolatokban, és hűen őrzi a Dibra-régióra jellemző szívélyes vendégszeretetet.",
+      ro: "Maqellarë este situat într-o câmpie fertilă din estul Albaniei, aproape de granița cu Macedonia de Nord și de orașul Peshkopi. Comunitatea este un centru agricol semnificativ, beneficiind de solurile bogate în nutrienți din valea râului Drin. Istoric, Maqellarë a fost un punct de întâlnire vital pentru comerțul regional între triburile din zonele înalte ale regiunii Dibra. Localitatea este cunoscută și pentru proximitatea față de izvoarele termale (Llixhat), apreciate încă din antichitate pentru proprietățile lor curative. Peisajul este definit de câmpuri vaste cultivate cu cereale și pomi fructiferi, oferind o atmosferă rurală liniștită. Astăzi, Maqellarë servește ca o verigă importantă în schimburile transfrontaliere și păstrează ospitalitatea caldă pentru care este faimoasă regiunea Dibra.",
+      en: "Maqellarë is situated in a fertile plain in eastern Albania, conveniently located near the border with North Macedonia and the regional capital of Peshkopi. The town serves as an essential agricultural hub, utilizing the rich alluvial soils of the Drin Valley for crop and fruit production. Historically, Maqellarë acted as a pivotal meeting ground for trade between the highland clans of the Dibra region. It is also well-known for its proximity to local thermal springs (Llixhat), which have been valued for their medicinal properties since ancient times. The landscape is characterized by vast open fields and a peaceful rural ambiance. Today, Maqellarë remains a key link for cross-border cooperation and a place where the legendary hospitality of the Dibra people is still very much alive."
+    },
+    factsAdvanced: {
+      de: ["Strategisch günstig an der Nationalstraße nach Nordmazedonien", "Zentrum der landwirtschaftlichen Produktion im Dibra-Tal", "Nähe zu den berühmten Heilquellen von Peshkopi (Llixhat)", "Bekannt für den Anbau von Äpfeln und Kirschen", "Historischer Marktplatz der Region Dibra", "Bedeutendes Dorf im Einzugsgebiet des Schwarzen Drin", "Zentrum für die Bewahrung lokaler Dibra-Traditionen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-vau-i-dejes-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Vau i Dejës", hu: "Vau i Dejës", ro: "Vau i Dejës", en: "Vau i Dejës" },
+    coordinates: { lat: 42.0083, lng: 19.6417 },
+    description: {
+      de: "Vau i Dejës ist eine Kleinstadt im Norden Albaniens, die am Ausgang der Drin-Schlucht liegt. Sie ist eng mit der Energieerzeugung am gleichnamigen Stausee verbunden.",
+      hu: "Vau i Dejës egy észak-albániai kisváros a Drin-szoros kijáratánál. Szorosan kötődik az azonos nevű víztározónál zajló energiatermeléshez.",
+      ro: "Vau i Dejës este un oraș mic din nordul Albaniei, situat la ieșirea din defileul râului Drin. Este strâns legat de producția de energie de la lacul de acumulare omonim.",
+      en: "Vau i Dejës is a small town in northern Albania located at the exit of the Drin gorge. It is closely linked to power generation at the reservoir of the same name.",
+    },
+    facts: {
+      de: ["Tor zum Drin-Talsystem", "Standort der mittelalterlichen Festung Deja", "Wichtiges religiöses Zentrum (Bistum Sapë)", "Liegt an einem künstlichen See"],
+      hu: ["A Drin-völgyi rendszer kapuja", "A középkori Deja várának helyszíne", "Fontos vallási központ (Sapa püspöksége)", "Egy mesterséges tó partján fekszik"],
+      ro: ["Poarta către sistemul văii Drin", "Locația cetății medievale Deja", "Centru religios important (Episcopia de Sapë)", "Situat lângă un lac artificial"],
+      en: ["Gateway to the Drin valley system", "Site of the medieval Deja fortress", "Important religious center (Bishopric of Sapë)", "Located by an artificial lake"],
+    },
+    imageHint: "Vau i Dejes town and nearby dam",
+    descriptionAdvanced: {
+      de: "Vau i Dejës ist ein strategisch wichtiger Ort im Norden Albaniens, wo der Fluss Drin aus den Bergen in die Ebene von Shkodra austritt. Die Stadt ist vor allem als Standort eines der größten Wasserkraftwerke des Landes bekannt, dessen Staudamm den beeindruckenden Vau-i-Dejës-See gebildet hat. Historisch ist der Ort von immenser Bedeutung; die Ruinen der mittelalterlichen Burg von Danja thronen auf einem Hügel über der Stadt und zeugen von der strategischen Kontrolle über den Drin-Handelsweg. Vau i Dejës dient als Tor zum zerklüfteten Bergland von Mirdita und Puka. Neben der industriellen Bedeutung bietet die Region malerische Ausblicke auf den See und die umliegenden Hügel, was sie zu einem interessanten Ziel für Geschichtsinteressierte und Naturliebhaber gleichermaßen macht.",
+      hu: "Vau i Dejës stratégiailag fontos település Észak-Albániában, ott, ahol a Drin-folyó elhagyja a hegyeket és belép a Shkodrai-síkságra. A város leginkább az ország egyik legnagyobb vízerőművének székhelyeként ismert, amelynek gátja létrehozta a lenyűgöző Vau i Dejës-tavat. Történelmileg a hely kiemelkedő jelentőségű; a középkori Danja várának romjai a város feletti dombon trónolnak, emlékeztetve a Drin menti kereskedelmi útvonal egykori stratégiai ellenőrzésére. Vau i Dejës kapuként szolgál Mirdita és Puka vadregényes hegyvidékei felé. Ipari jelentősége mellett a régió festői kilátást nyújt a tóra és a környező dombokra, így a történelem és a természet kedvelői számára egyaránt érdekes célpont.",
+      ro: "Vau i Dejës este o localitate de importanță strategică în nordul Albaniei, situată în punctul unde râul Drin părăsește munții pentru a intra în câmpia Shkodrei. Orașul este cunoscut în principal pentru una dintre cele mai mari hidrocentrale din țară, al cărei baraj a format lacul de acumulare Vau i Dejës. Din punct de vedere istoric, locul este extrem de semnificativ; ruinele cetății medievale Danja domină orașul de pe un deal, amintind de controlul strategic asupra rutei comerciale de-a lungul Drinului. Vau i Dejës servește drept poartă către zonele muntoase aspre din Mirdita și Puka. Dincolo de importanța industrială, regiunea oferă panorame pitorești asupra lacului, fiind o destinație atractivă atât pentru pasionații de istorie, cât și pentru iubitorii de natură.",
+      en: "Vau i Dejës is a strategically vital town in northern Albania, positioned where the Drin River flows from the mountains into the Shkodra plain. The town is best known for housing one of the country’s largest hydroelectric power plants, with its dam creating the vast and scenic Vau i Dejës Reservoir. Historically, the location is of immense importance, evidenced by the ruins of the medieval Danja Castle perched on a hill overlooking the town, which once guarded the vital trade routes along the Drin. Vau i Dejës acts as a gateway to the rugged highlands of Mirdita and Puka. In addition to its industrial significance, the area offers picturesque lakeside vistas, making it an intriguing spot for history buffs and nature lovers alike."
+    },
+    factsAdvanced: {
+      de: ["Standort eines der drei großen Wasserkraftwerke am Drin", "Heimat der mittelalterlichen Festung von Danja (Sarda)", "Ausgangspunkt für Bootsfahrten auf dem Vau-i-Dejës-See", "Strategischer Übergang zwischen Bergland und Ebene", "Bedeutendes religiöses Zentrum mit der Kathedrale von Vau i Dejës", "Wichtiger Standort für die Energieproduktion Albaniens", "Liegt an der historischen Route nach Kosovo"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-fushe-arrez-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Fushë-Arrëz", hu: "Fushë-Arrëz", ro: "Fushë-Arrëz", en: "Fushë-Arrëz" },
+    coordinates: { lat: 42.0622, lng: 20.0167 },
+    description: {
+      de: "Fushë-Arrëz ist eine Bergstadt in der Region Pukë im Norden Albaniens. Sie ist bekannt für ihre Forstwirtschaft und als Ausgangspunkt für Wanderungen in die Mirdita-Berge.",
+      hu: "Fushë-Arrëz egy hegyi város Pukë régióban, Észak-Albániában. Erdőgazdálkodásáról és a Mirdita-hegységbe induló túrák kiindulópontjaként ismert.",
+      ro: "Fushë-Arrëz este un oraș montan din regiunea Pukë, în nordul Albaniei. Este cunoscut pentru industria forestieră și ca punct de plecare pentru drumeții în munții Mirdita.",
+      en: "Fushë-Arrëz is a mountain town in the Pukë region of northern Albania. It is known for its forestry and as a starting point for treks into the Mirdita mountains.",
+    },
+    facts: {
+      de: ["Zentrum der albanischen Holzindustrie", "Liegt an der alten Route Shkodra-Kukes", "Umgeben von dichten Nadelwäldern", "Wichtiger Bergbau-Stützpunkt früherer Zeiten"],
+      hu: ["Az albán faipar központja", "A régi Shkodra-Kukës útvonalon fekszik", "Sűrű fenyőerdők veszik körül", "Egykori fontos bányászati bázis"],
+      ro: ["Centrul industriei albaneze a lemnului", "Situat pe vechea rută Shkodra-Kukës", "Înconjurat de păduri dese de conifere", "Bază minieră importantă în trecut"],
+      en: ["Center of the Albanian timber industry", "Located on the old Shkodra-Kukës route", "Surrounded by dense coniferous forests", "Important mining base in former times"],
+    },
+    imageHint: "Mountain town Fushë-Arrëz surrounded by forest",
+    descriptionAdvanced: {
+      de: "Fushë-Arrëz ist eine bedeutende Industriestadt im Herzen des Puka-Hochlandes, umgeben von dichten Nadelwäldern und schroffen Berggipfeln. Die Stadt entwickelte sich während des 20. Jahrhunderts zum wichtigsten Zentrum der albanischen Holzindustrie und war zudem ein kritischer Standort für den Kupferbergbau in der Region. Die Architektur ist zweckmäßig und spiegelt den industriellen Charakter einer Bergarbeiter- und Holzarbeitersiedlung wider. Heute wandelt sich Fushë-Arrëz langsam zu einem Ziel für Abenteuertouristen, die die unberührte Natur des Nordens erkunden möchten. Die Stadt dient als wichtiger Stützpunkt an der Nationalstraße SH5, die Shkodra mit dem Landesinneren verbindet, und bewahrt die stolze, eigenständige Kultur der Malësorë-Hochländer.",
+      hu: "Fushë-Arrëz egy jelentős iparváros a Puka-felföld szívében, sűrű fenyőerdők és meredek hegycsúcsok gyűrűjében. A város a 20. század folyamán Albánia legfontosabb faipari központjává fejlődött, emellett a régió rézbányászatának is kritikus helyszíne volt. Építészete célszerű, híven tükrözi egy bányász- és erdőmunkás település ipari karakterét. Napjainkban Fushë-Arrëz lassan átalakul a kalandturizmus célpontjává, vonzva azokat, akik Észak-Albánia érintetlen természetét keresik. A város fontos bázisállomás az SH5-ös főút mentén, amely Shkodrát köti össze a belső országrészekkel, és büszkén őrzi a malësori hegyi emberek sajátos kultúráját.",
+      ro: "Fushë-Arrëz este un oraș industrial important situat în inima podișului Puka, înconjurat de păduri dese de conifere și vârfuri montane abrupte. Orașul s-a dezvoltat în secolul al XX-lea ca principalul centru al industriei lemnului din Albania și a reprezentat, de asemenea, un punct critic pentru extracția cuprului în regiune. Arhitectura sa este funcțională, reflectând caracterul industrial al unei așezări de mineri și forestieri. Astăzi, Fushë-Arrëz se transformă treptat într-o destinație pentru turismul de aventură, atrăgând vizitatori care doresc să exploreze natura virgină a nordului. Orașul servește drept bază importantă pe drumul național SH5, legând Shkodra de interiorul țării, și păstrează cultura mândră a muntenilor Malësorë.",
+      en: "Fushë-Arrëz is a prominent industrial town in the heart of the Puka highlands, encircled by dense pine forests and jagged mountain peaks. During the 20th century, it emerged as the leading hub for Albania's timber industry and a vital site for regional copper mining. The town's layout and buildings are functionalist, mirroring its origins as a settlement for miners and forestry workers. Currently, Fushë-Arrëz is gradually reinventing itself as a base for adventure tourism, appealing to those seeking the untamed nature of Northern Albania. Situated along the SH5 national highway connecting Shkodra to the interior, the town remains a bastion of the resilient and independent Malësorë highland culture."
+    },
+    factsAdvanced: {
+      de: ["Historisches Zentrum der albanischen Holzindustrie", "Wichtiger Standort für Kupferbergbau in der Region Puka", "Liegt in einer Höhe von ca. 550 Metern", "Strategischer Punkt an der Nationalstraße SH5", "Umgeben von ausgedehnten Kiefern- und Buchenwäldern", "Sitz eines bedeutenden katholischen Missionszentrums", "Tor zu den unentdeckten Bergregionen Nordalbaniens"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-klos-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Klos", hu: "Klos", ro: "Klos", en: "Klos" },
+    coordinates: { lat: 41.5069, lng: 20.0858 },
+    description: {
+      de: "Klos ist eine Stadt im Mat-Tal im Zentrum Albaniens. Sie dient als lokales Handelszentrum für die umliegenden ländlichen Bergregionen von Mat und Bulqizë.",
+      hu: "Klos egy város a Mat-völgyben, Közép-Albániában. Kereskedelmi központként szolgál Mat és Bulqizë környező hegyvidéki régiói számára.",
+      ro: "Klos este un oraș din valea râului Mat, în centrul Albaniei. Servește ca centru comercial local pentru regiunile montane învecinate Mat și Bulqiză.",
+      en: "Klos is a town in the Mat valley in central Albania. It serves as a local commercial center for the surrounding rural mountain regions of Mat and Bulqizë.",
+    },
+    facts: {
+      de: ["Liegt am Oberlauf des Flusses Mat", "An der historischen 'Rruga e Arbrit' gelegen", "Zentrum für Viehzucht und Landwirtschaft", "Einst wichtiger Stützpunkt für Chrom-Transport"],
+      hu: ["A Mat-folyó felső szakaszánál fekszik", "A történelmi 'Arber-út' mentén található", "Állattenyésztési és mezőgazdasági központ", "Egykor fontos bázis a króm szállításában"],
+      ro: ["Situat pe cursul superior al râului Mat", "Aflat pe drumul istoric 'Rruga e Arbrit'", "Centru pentru creșterea animalelor și agricultură", "Fost punct important pentru transportul cromului"],
+      en: ["Located on the upper reaches of Mat River", "Situated on the historical 'Arber Road'", "Center for livestock and agriculture", "Once an important base for chrome transport"],
+    },
+    imageHint: "Klos town in the Mat river valley",
+    descriptionAdvanced: {
+      de: "Klos liegt malerisch am Ufer des Flusses Mat in einer fruchtbaren Senke, die das Mat-Hochland mit der Region Dibra verbindet. Die Stadt ist ein historischer Kreuzungspunkt für Karawanenwege, die seit Jahrhunderten das Landesinnere mit der Adriaküste verknüpfen. Wirtschaftlich ist Klos stark von der Landwirtschaft geprägt, wobei der Anbau von Getreide und Obst in der Flussebene eine zentrale Rolle spielt. Die Umgebung ist bekannt für ihre raue Schönheit und die traditionellen Steinhäuser der lokalen Stämme. Klos hat in den letzten Jahren durch den Bau der neuen Rruga e Arbrit (Arber-Straße) an Bedeutung gewonnen, da es nun eine schnellere Verbindung zur Hauptstadt Tirana bietet. Die Region ist reich an Quellen und bietet hervorragende Möglichkeiten für Wanderungen in die umliegenden Täler.",
+      hu: "Klos festői helyen, a Mat-folyó partján fekszik egy termékeny medencében, amely összeköti a Mat-felföldet Dibra régiójával. A város történelmi találkozópontja volt azoknak a karavánutaknak, amelyek évszázadok óta összekötötték az ország belsejét az adriai partvidékkel. Gazdaságilag Klos erősen mezőgazdasági jellegű; a folyó menti síkságon folyó gabona- és gyümölcstermesztés központi szerepet játszik a település életében. A környék vadregényes szépségéről és a helyi törzsek hagyományos kőházairól ismert. Klos jelentősége az elmúlt években az új Rruga e Arbrit (Arber-út) megépítésével nőtt meg, amely gyorsabb összeköttetést biztosít Tirana felé. A régió forrásokban gazdag, és kiváló túrázási lehetőségeket kínál a környező völgyekbe.",
+      ro: "Klos este situat pitoresc pe malul râului Mat, într-o depresiune fertilă care leagă podișul Mat de regiunea Dibra. Orașul este un nod istoric pentru rutele caravanelor care au legat timp de secole interiorul țării de coasta Adriaticii. Din punct de vedere economic, Klos este puternic dependent de agricultură, cultivarea cerealelor și a pomilor fructiferi în valea râului jucând un rol central. Împrejurimile sunt cunoscute pentru frumusețea lor aspră și casele tradiționale din piatră ale triburilor locale. În ultimii ani, importanța orașului Klos a crescut datorită construcției noii autostrăzi Rruga e Arbrit, care oferă o conexiune mult mai rapidă cu capitala Tirana. Regiunea este bogată în izvoare și oferă oportunități excelente pentru drumeții în văile adiacente.",
+      en: "Klos is picturesquely situated on the banks of the Mat River within a fertile basin that bridges the Mat highlands with the Dibra region. The town has historically served as a vital crossroads for caravan routes connecting the interior of Albania to the Adriatic coast for centuries. Economically, Klos is deeply rooted in agriculture, with grain and fruit production in the river valley forming the backbone of the local economy. The area is noted for its rugged natural beauty and the traditional stone architecture of the local clans. Recently, Klos has seen a rise in strategic importance due to the construction of the Rruga e Arbrit highway, which provides a significantly faster link to Tirana. Rich in natural springs, the region is a prime spot for exploring the pristine valleys of central Albania."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Knotenpunkt an der neuen Rruga e Arbrit", "Liegt im fruchtbaren Tal des Flusses Mat", "Traditionelles Zentrum des Mat-Stammes", "Bedeutend für den regionalen Handel mit Agrarprodukten", "Umgeben von den Gebirgsketten des Balgjaj-Massivs", "Bekannt für seine historischen Steinbrücken in der Umgebung", "Zentrum für den Anbau von Getreide und Kirschen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-leskovik-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Leskovik", hu: "Leskovik", ro: "Leskovik", en: "Leskovik" },
+    coordinates: { lat: 40.1514, lng: 20.5978 },
+    description: {
+      de: "Leskovik ist eine abgelegene Bergstadt im Südosten Albaniens an der Grenze zu Griechenland. Sie ist bekannt für ihre traditionelle Musik und erstklassige Weine.",
+      hu: "Leskovik egy eldugott hegyi város Albánia délkeleti részén, a görög határnál. Hagyományos zenéjéről és kiváló borairól ismert.",
+      ro: "Leskovik este un oraș montan izolat din sud-estul Albaniei, la granița cu Grecia. Este cunoscut pentru muzica tradițională și vinurile de calitate superioară.",
+      en: "Leskovik is a remote mountain town in southeastern Albania on the border with Greece. It is known for its traditional music and premium wines.",
+    },
+    facts: {
+      de: ["Berühmt für die Saze-Volksmusik", "Wichtige Weinbauregion der Sorte Debine", "Liegt am Fuße des Melesin-Berges", "Früher ein bedeutendes Handelszentrum"],
+      hu: ["A Saze népzenéről híres", "Fontos Debine szőlőtermesztő vidék", "A Melesin-hegy lábánál fekszik", "Korábban jelentős kereskedelmi központ"],
+      ro: ["Faimos pentru muzica populară Saze", "Regiune viticolă importantă (soiul Debine)", "Situat la poalele muntelui Melesin", "În trecut, un centru comercial semnificativ"],
+      en: ["Famous for Saze folk music", "Important wine region (Debine variety)", "Located at the foot of Melesin Mountain", "Formerly a significant trading center"],
+    },
+    imageHint: "Small mountain town Leskovik with vineyards",
+    descriptionAdvanced: {
+      de: "Leskovik ist eine charmante Kleinstadt im äußersten Südosten Albaniens, gelegen auf einem Hochplateau nahe der griechischen Grenze am Fuße des Berges Melesin. Die Stadt ist landesweit berühmt für ihren Wein und den Raki, insbesondere die Sorte 'Leskoviku', die für ihr einzigartiges Aroma geschätzt wird. Historisch war Leskovik ein bedeutendes kulturelles Zentrum und ein beliebter Rückzugsort der Elite während der osmanischen Zeit. Die Stadt bewahrt eine nostalgische Atmosphäre mit traditionellen Häusern und einer tiefen Verbundenheit zur Volksmusik, dem berühmten Leskovik-Saze-Stil. Dank der heilenden Thermalquellen von Sarandapor im Tal und der kühlen Bergluft ist Leskovik ein gefragtes Ziel für Erholungssuchende und Weinliebhaber, die die authentische Gastfreundschaft Südalbaniens erleben möchten.",
+      hu: "Leskovik egy bájos kisváros Albánia távoli délkeleti részén, egy magas fennsíkon, a görög határ közelében, a Melesin-hegy lábánál. A város országszerte híres boráról és rakijáról, különösen a 'Leskoviku' márkáról, amelyet egyedülálló aromája miatt nagyra értékelnek. Történelmileg Leskovik jelentős kulturális központ volt, és az oszmán időkben az elit kedvelt pihenőhelyeként szolgált. A település nosztalgikus hangulatot áraszt hagyományos házaival és a népzene, különösen a híres Leskovik-saze stílus iránti mély elkötelezettségével. A völgyben található sarandapori gyógyforrásoknak és a hűvös hegyi levegőnek köszönhetően Leskovik népszerű célpont a pihenni vágyók és a borkedvelők körében, akik Dél-Albánia autentikus vendégszeretetét keresik.",
+      ro: "Leskovik este un orășel fermecător situat în extremul sud-est al Albaniei, pe un platou înalt lângă granița cu Grecia, la poalele muntelui Melesin. Orașul este faimos la nivel național pentru vinul și rachiu-ul său, în special soiul 'Leskoviku', apreciat pentru aroma sa unică. Istoric, Leskovik a fost un centru cultural semnificativ și un loc de retragere preferat al elitei în perioada otomană. Localitatea păstrează o atmosferă nostalgică, cu case tradiționale și o legătură profundă cu muzica populară, celebrul stil 'saze' de Leskovik. Datorită izvoarelor termale curative de la Sarandapor din vale și aerului rece de munte, Leskovik este o destinație căutată de cei care caută relaxare și de iubitorii de vin care vor să experimenteze ospitalitatea autentică a sudului Albaniei.",
+      en: "Leskovik is a charming small town in extreme southeastern Albania, perched on a high plateau near the Greek border at the foot of Mount Melesin. The town is nationally renowned for its viticulture, particularly its wine and raki under the 'Leskoviku' label, prized for its distinctive flavor profile. Historically, Leskovik was a significant cultural hub and a favored retreat for the elite during the Ottoman era. It maintains a nostalgic ambiance with traditional architecture and a profound musical heritage, being the birthplace of the famous 'saze' style of folk music. With the therapeutic Sarandapor thermal springs in the nearby valley and crisp mountain air, Leskovik attracts visitors seeking authentic southern hospitality, wellness, and fine wines."
+    },
+    factsAdvanced: {
+      de: ["Berühmt für die Leskoviku-Wein- und Raki-Produktion", "Eine der höchstgelegenen Städte Albaniens (ca. 900m)", "Geburtsort des berühmten Saze-Musikstils", "Nahe der griechischen Grenze am Berg Melesin gelegen", "Einstiges kulturelles Zentrum des osmanischen Elsass", "Zugang zu den Thermalquellen von Sarandapor", "Bedeutender Standort für die Holzverarbeitung"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-milot-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Milot", hu: "Milot", ro: "Milot", en: "Milot" },
+    coordinates: { lat: 41.6836, lng: 19.7153 },
+    description: {
+      de: "Milot ist ein strategischer Verkehrsknotenpunkt im Nordwesten Albaniens. Die Stadt liegt an der Stelle, wo der Fluss Mat die Berge verlässt und in die Küstenebene eintritt.",
+      hu: "Milot egy stratégiai közlekedési csomópont Albánia északnyugati részén. A város ott fekszik, ahol a Mat-folyó elhagyja a hegyeket és belép a partmenti síkságra.",
+      ro: "Milot este un nod de transport strategic în nord-vestul Albaniei. Orașul este situat în locul unde râul Mat părăsește munții și intră în câmpia de coastă.",
+      en: "Milot is a strategic transport hub in northwestern Albania. The town is located where the Mat River leaves the mountains and enters the coastal plain.",
+    },
+    facts: {
+      de: ["Standort der berühmten Zog-Brücke", "Verbindungspunkt zwischen Nord- und Südalbanien", "Wichtiger Marktort für die Region Kurbin", "Kreuzung der Autobahnen A1 und SH1"],
+      hu: ["A híres Zogu-híd helyszíne", "Összekötő pont Észak- és Dél-Albánia között", "Kurbin régió fontos piachelye", "Az A1-es és SH1-es autópályák kereszteződése"],
+      ro: ["Locația faimosului Pod al lui Zog", "Punct de legătură între nordul și sudul Albaniei", "Piață importantă pentru regiunea Kurbin", "Intersecția autostrăzilor A1 și SH1"],
+      en: ["Site of the famous Zog Bridge", "Connection point between North and South Albania", "Important market town for the Kurbin region", "Intersection of A1 and SH1 highways"],
+    },
+    imageHint: "Zog bridge near Milot town over Mat river",
+    descriptionAdvanced: {
+      de: "Milot ist ein unverzichtbarer Verkehrsknotenpunkt in Nordalbanien, gelegen an der Stelle, wo der Fluss Mat in die Küstenebene eintritt. Die Stadt ist vor allem für ihre strategische Brücke über den Mat bekannt, die als Tor zu den nördlichen und östlichen Regionen des Landes sowie zum Kosovo dient. Historisch war Milot ein bedeutender Marktplatz, auf dem die Bergbewohner ihre Produkte mit den Händlern aus der Ebene tauschten. Heute profitiert die Stadt von der neuen Autobahninfrastruktur, die sie zu einem der wichtigsten logistischen Zentren an der Nord-Süd-Achse macht. In der Umgebung von Milot finden sich fruchtbare Agrarflächen und das beeindruckende Vorgebirge der Skanderbeg-Berge. Die Stadt bleibt ein lebendiger Ort des Handels und ein Symbol für die infrastrukturelle Verbindung zwischen den verschiedenen Teilen Albaniens.",
+      hu: "Milot Észak-Albánia megkerülhetetlen közlekedési csomópontja, azon a ponton fekszik, ahol a Mat-folyó belép a partmenti síkságra. A város leginkább a Mat feletti stratégiai hídjáról ismert, amely kapuként szolgál az ország északi és keleti régiói, valamint Koszovó felé. Történelmileg Milot jelentős piactér volt, ahol a hegyvidéki emberek cserélték ki termékeiket a síkság kereskedőivel. Napjainkban a város az új autópálya-infrastruktúra előnyeit élvezi, ami az észak-déli tengely egyik legfontosabb logisztikai központjává tette. Milot környékén termékeny mezőgazdasági területek és a Skanderbeg-hegység lenyűgöző vonulatai találhatók. A város továbbra is a kereskedelem életteli helyszíne és Albánia különböző részeit összekötő infrastruktúra szimbóluma.",
+      ro: "Milot este un nod de transport indispensabil în nordul Albaniei, situat în punctul unde râul Mat intră în câmpia litorală. Orașul este cunoscut în special pentru podul său strategic peste Mat, care servește drept poartă către regiunile de nord și de est ale țării, precum și către Kosovo. Istoric, Milot a fost o piață importantă unde locuitorii de la munte își schimbau produsele cu negustorii din câmpie. Astăzi, orașul beneficiază de noua infrastructură de autostrăzi, devenind unul dintre cele mai importante centre logistice de pe axa nord-sud. În împrejurimile orașului Milot se află terenuri agricole fertile și pantele impresionante ale munților Skanderbeg. Orașul rămâne un loc vibrant de comerț și un simbol al conexiunii de infrastructură între diferitele regiuni ale Albaniei.",
+      en: "Milot is an indispensable transport artery in northern Albania, strategically positioned where the Mat River flows into the coastal plain. The town is famous for its pivotal bridges over the Mat, acting as the primary gateway to the northern and eastern regions of the country and to neighboring Kosovo. Historically, Milot served as a major marketplace where highlanders traded goods with merchants from the coast. Today, the town capitalizes on modern highway infrastructure, cementing its status as a critical logistical hub along the main north-south axis. Surrounded by fertile farmland and the rugged foothills of the Skanderbeg mountains, Milot continues to be a bustling trade center and a vital link connecting various parts of the Albanian landscape."
+    },
+    factsAdvanced: {
+      de: ["Strategisches Tor zum Norden und zum Kosovo", "Bekannt für die historische König-Zog-Brücke über den Mat", "Wichtige Kreuzung der Nationalstraßen SH1 und A1", "Traditioneller Marktplatz der Region Kurbin", "Liegt am Fuße der Skanderbeg-Berge", "Bedeutendes Zentrum für den regionalen Agrarhandel", "Kritischer Punkt im albanischen Schienennetz"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-novosele-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Novoselë", hu: "Novoselë", ro: "Novoselë", en: "Novoselë" },
+    coordinates: { lat: 40.6272, lng: 19.4636 },
+    description: {
+      de: "Novoselë ist ein wichtiges landwirtschaftliches Zentrum im Süden Albaniens, nahe der Mündung des Flusses Vjosa. Es ist bekannt für seine fruchtbaren Böden und Olivenhaine.",
+      hu: "Novoselë egy fontos mezőgazdasági központ Dél-Albániában, a Vjosa-folyó torkolatának közelében. Termékeny földjeiről és olajfaligeteiről ismert.",
+      ro: "Novoselë este un centru agricol important din sudul Albaniei, aproape de gura de vărsare a râului Vjosa. Este cunoscut pentru solurile fertile și livezile de măslini.",
+      en: "Novoselë is an important agricultural center in southern Albania, near the mouth of the Vjosa River. It is known for its fertile soils and olive groves.",
+    },
+    facts: {
+      de: ["Liegt am Unterlauf der Vjosa", "Zentrum des Baumwoll- und Olivenanbaus", "Wichtiger Punkt an der Autobahn nach Vlorë", "Oft von Vjosa-Überschwemmungen betroffen"],
+      hu: ["A Vjosa alsó szakaszánál fekszik", "A gyapot- és olajbogyó-termesztés központja", "Fontos pont a Vlorë felé vezető autópályán", "Gyakran sújtják a Vjosa áradásai"],
+      ro: ["Situat pe cursul inferior al râului Vjosa", "Centru al culturii de bumbac și măslini", "Punct important pe autostrada către Vlorë", "Afectat frecvent de inundațiile râului Vjosa"],
+      en: ["Located on the lower reaches of Vjosa", "Center of cotton and olive cultivation", "Important point on the highway to Vlorë", "Often affected by Vjosa floods"],
+    },
+    imageHint: "Agriculture fields and Vjosa river near Novoselë",
+    descriptionAdvanced: {
+      de: "Novoselë liegt in der weiten Küstenebene nördlich von Vlorë, unmittelbar an der Mündung des Flusses Vjosa in die Adria. Die Gemeinde ist eines der wichtigsten landwirtschaftlichen Zentren Südalbaniens und profitiert von den fruchtbaren Schwemmlandböden des Vjosa-Deltas. Novoselë ist bekannt für den großflächigen Anbau von Oliven, Obst und Gemüse sowie für die Salzgewinnung in den nahe gelegenen Salinen von Narta. Die strategische Lage an der Nationalstraße SH4 macht den Ort zu einem wichtigen Durchgangspunkt für Reisende an die albanische Riviera. In der Umgebung finden sich bedeutende Feuchtgebiete, die ein Refugium für seltene Vogelarten darstellen. Novoselë bewahrt einen starken ländlichen Charakter und spielt eine zentrale Rolle in der Lebensmittelversorgung der gesamten Region Vlorë.",
+      hu: "Novoselë Vlorë-tól északra, a széles partmenti síkságon fekszik, közvetlenül a Vjosa-folyó adriai torkolatánál. A település Dél-Albánia egyik legfontosabb mezőgazdasági központja, amely a Vjosa-delta termékeny hordalékos talajából profitál. Novoselë híres az olajbogyó-, gyümölcs- és zöldségtermesztéséről, valamint a közeli Narta-i lepárlókban folyó sókitermelésről. Az SH4-es főút menti stratégiai fekvése miatt a hely fontos átkelőpont az albán riviéra felé utazók számára. A környéken jelentős vizes élőhelyek találhatók, amelyek ritka madárfajok menedékeként szolgálnak. Novoselë megőrizte erős vidéki jellegét, és központi szerepet játszik az egész Vlorë-régió élelmiszerellátásában.",
+      ro: "Novoselë este situat în vasta câmpie litorală la nord de Vlorë, chiar la gura de vărsare a râului Vjosa în Marea Adriatică. Comunitatea este unul dintre cele mai importante centre agricole din sudul Albaniei, beneficiind de solurile aluvionare fertile din delta Vjosa. Novoselë este renumit pentru cultivarea pe scară largă a măslinilor, fructelor și legumelor, precum și pentru extracția de sare din salinele Narta aflate în apropiere. Poziția sa strategică pe drumul național SH4 face din localitate un punct de tranzit esențial pentru călătorii care se îndreaptă spre Riviera Albaneză. În împrejurimi se află zone umede importante, care reprezintă un refugiu pentru specii rare de păsări. Novoselë păstrează un puternic caracter rural și joacă un rol central în aprovizionarea cu alimente a întregii regiuni Vlorë.",
+      en: "Novoselë is located in the expansive coastal plain north of Vlorë, directly at the mouth of the Vjosa River where it meets the Adriatic Sea. The municipality stands as one of southern Albania's vital agricultural hubs, thriving on the fertile alluvial plains of the Vjosa delta. Novoselë is renowned for its large-scale production of olives, fruits, and vegetables, as well as its proximity to the Narta salt pans. Its strategic position along the SH4 national highway makes it a crucial stop for travelers heading toward the Albanian Riviera. The surrounding area features significant wetlands that serve as a sanctuary for rare bird species. Novoselë maintains a robust rural character and is a key contributor to the food security and economy of the Vlorë region."
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Mündung der Vjosa, dem letzten Wildfluss Europas", "Wichtiger Standort für Oliven- und Gemüseanbau", "Nähe zu den bedeutenden Salinen von Narta", "Strategischer Punkt an der Nationalstraße SH4", "Teil des geschützten Vjosa-Narta-Ökosystems", "Bedeutendes Zentrum für die Viehzucht in Südalbanien", "Tor zur nördlichen Küstenregion von Vlorë"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-levan-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Levan", hu: "Levan", ro: "Levan", en: "Levan" },
+    coordinates: { lat: 40.6756, lng: 19.4908 },
+    description: {
+      de: "Levan ist eine bedeutende Stadt in der Myzeqe-Ebene im Südwesten Albaniens. Sie dient als wichtiger Knotenpunkt für den Verkehr zwischen Fier, Vlorë und Tepelenë.",
+      hu: "Levan egy jelentős város a Myzeqe-síkságon, Albánia délnyugati részén. Fontos csomópontként szolgál Fier, Vlorë és Tepelenë közötti forgalom számára.",
+      ro: "Levan este un oraș semnificativ din câmpia Myzeqe, în sud-vestul Albaniei. Servește ca nod important pentru traficul între Fier, Vlorë și Tepelenë.",
+      en: "Levan is a significant town in the Myzeqe plain of southwestern Albania. It serves as a major hub for traffic between Fier, Vlorë, and Tepelenë.",
+    },
+    facts: {
+      de: ["Wichtiger Agrarmarkt der Myzeqe", "Knotenpunkt der Nationalstraße SH4", "In der Nähe der antiken Apollonia", "Zentrum für Getreide- und Gemüsebau"],
+      hu: ["A Myzeqe fontos mezőgazdasági piaca", "Az SH4-es főút csomópontja", "Az ókori Apollónia közelében található", "Gabona- és zöldségtermesztési központ"],
+      ro: ["Piață agricolă importantă în Myzeqe", "Nod rutier pe drumul național SH4", "În apropierea anticului Apollonia", "Centru pentru cultura cerealelor și legumelor"],
+      en: ["Important agricultural market of Myzeqe", "Road junction of SH4 national road", "Near the ancient Apollonia", "Center for grain and vegetable farming"],
+    },
+    imageHint: "Town square and market in Levan",
+    descriptionAdvanced: {
+      de: "Levan ist ein bedeutender Verkehrsknotenpunkt und ein landwirtschaftliches Zentrum im Westen Albaniens, unweit der Stadt Fier. Die Gemeinde liegt strategisch günstig an der Kreuzung der Nationalstraßen, die Tirana mit Vlorë und der südalbanischen Küste verbinden. Die Region ist Teil der fruchtbaren Myzeqe-Ebene und profitiert von einer intensiven Landwirtschaft, insbesondere dem Anbau von Getreide, Baumwolle und Oliven. Historisch ist Levan eng mit der antiken Stadt Apollonia verbunden, die nur wenige Kilometer entfernt liegt. Heute dient der Ort als wichtiges Versorgungszentrum für das Umland und ist ein dynamischer Standort für den regionalen Handel und die Logistik auf dem Weg in den Süden des Landes.",
+      hu: "Levan egy jelentős közlekedési csomópont és mezőgazdasági központ Albánia nyugati részén, Fier városa közelében. A település stratégiai helyen, a Tiranát Vlorë-val és a dél-albán tengerparttal összekötő főutak kereszteződésében fekszik. A régió a termékeny Myzeqe-síkság része, és intenzív mezőgazdasági termelés jellemzi, különösen a gabona-, gyapot- és olajbogyó-termesztés terén. Történelmileg Levan szorosan kapcsolódik az ókori Apollónia városához, amely mindössze néhány kilométerre található. Napjainkban a helység a környező területek fontos ellátó központjaként szolgál, valamint a regionális kereskedelem és logisztika dinamikus állomása az ország déli része felé vezető úton.",
+      ro: "Levan este un nod de transport și un centru agricol semnificativ în vestul Albaniei, situat în apropierea orașului Fier. Comunitatea se află strategic la intersecția drumurilor naționale care leagă Tirana de Vlorë și de coasta sudică a Albaniei. Regiunea face parte din câmpia fertilă Myzeqe și beneficiază de o agricultură intensivă, în special în cultivarea cerealelor, bumbacului și măslinilor. Din punct de vedere istoric, Levan este strâns legat de orașul antic Apollonia, situat la doar câțiva kilometri distanță. Astăzi, localitatea servește drept centru important de aprovizionare pentru zonele învecinate și este un punct dinamic pentru comerțul regional și logistică pe ruta către sudul țării.",
+      en: "Levan is a major transport junction and agricultural hub in western Albania, located near the city of Fier. The municipality is strategically positioned at the crossroads of the national highways connecting Tirana with Vlorë and the southern Albanian coast. As part of the fertile Myzeqe plain, the region is characterized by intensive agricultural production, particularly in grains, cotton, and olives. Historically, Levan is closely linked to the ancient city of Apollonia, which lies just a few kilometers away. Today, the town functions as an essential service center for the surrounding countryside and is a dynamic site for regional trade and logistics for those traveling toward the country's southern regions."
+    },
+    factsAdvanced: {
+      de: ["Strategischer Knotenpunkt an der Nationalstraße SH4", "Wichtiger Standort für die Getreide- und Olivenproduktion", "Liegt in unmittelbarer Nähe zum antiken Apollonia", "Zentrum des regionalen Handels in der Myzeqe-Ebene", "Wichtiger Durchgangspunkt nach Vlorë und zur Riviera", "Bekannt für seine traditionelle lokale Küche", "Bedeutendes Dorf im Einzugsgebiet des Flusses Gjanica"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-cakran-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Cakran", hu: "Cakran", ro: "Cakran", en: "Cakran" },
+    coordinates: { lat: 40.6083, lng: 19.6167 },
+    description: {
+      de: "Cakran ist ein geschichtsträchtiges Dorf im Hügelland südlich von Fier. Es ist bekannt für seine archäologischen Funde aus der Steinzeit und der Antike.",
+      hu: "Cakran egy történelmi falu a Fier-től délre fekvő dombvidéken. A kőkorszakból és az ókorból származó régészeti leleteiről ismert.",
+      ro: "Cakran este un sat cu o istorie bogată, situat în zona colinară de la sud de Fier. Este cunoscut pentru descoperirile arheologice din epoca pietrei și antichitate.",
+      en: "Cakran is a village rich in history located in the hills south of Fier. It is known for its archaeological finds from the Stone Age and antiquity.",
+    },
+    facts: {
+      de: ["Namensgeber einer neolithischen Kultur", "Wichtige Fundstätte illyrischer Gräber", "Zentrum für Olivenölproduktion", "Panoramablick über die Myzeqe-Ebene"],
+      hu: ["Egy neolitikus kultúra névadója", "Illír sírok fontos lelőhelye", "Olívaolaj-termelési központ", "Panorámás kilátás a Myzeqe-síkságra"],
+      ro: ["Eponim pentru o cultură neolitică", "Situl unor importante morminte ilire", "Centru de producție a uleiului de măsline", "Vedere panoramică asupra câmpiei Myzeqe"],
+      en: ["Eponymous for a Neolithic culture", "Site of important Illyrian graves", "Center for olive oil production", "Panoramic view over the Myzeqe plain"],
+    },
+    imageHint: "Landscape and houses in Cakran hills",
+    descriptionAdvanced: {
+      de: "Cakran liegt in einer malerischen Hügellandschaft südlich von Fier und ist bekannt für seine reiche landwirtschaftliche Tradition, insbesondere den Anbau von Oliven und Wein. Die Region hat eine tiefe historische Bedeutung, da in der Nähe Spuren bedeutender illyrischer Siedlungen und Befestigungen entdeckt wurden, die auf eine kontinuierliche Besiedlung seit der Antike hinweisen. Die hügelige Topographie bietet weite Ausblicke über das Shushica-Tal und die Küstenebene. Cakran bewahrt einen authentischen ländlichen Charakter mit traditionellen Steinhäusern und einer starken Gemeinschaft, die sich der Bewahrung lokaler Bräuche verschrieben hat. Heute ist der Ort ein wichtiges Zentrum für den ökologischen Olivenölbau und gewinnt zunehmend an Bedeutung für Wanderer, die die unberührten Hügelketten Zentralalbaniens erkunden möchten.",
+      hu: "Cakran Fier-től délre, egy festői dombvidéken fekszik, és gazdag mezőgazdasági hagyományairól, különösen az olajbogyó- és szőlőtermesztésről ismert. A régió mély történelmi jelentőséggel bír, mivel a közelben jelentős illír települések és erődítmények nyomait fedezték fel, amelyek az ókor óta tartó folyamatos lakottságra utalnak. A dombos domborzat pazar kilátást nyújt a Shushica-völgyre és a partmenti síkságra. Cakran megőrizte autentikus vidéki jellegét hagyományos kőházaival és a helyi szokások megőrzése mellett elkötelezett erős közösségével. Ma a település az ökológiai olívaolaj-termelés fontos központja, és egyre népszerűbb a túrázók körében, akik Közép-Albánia érintetlen dombvonulatait szeretnék felfedezni.",
+      ro: "Cakran este situat într-o zonă colinară pitorească la sud de Fier și este cunoscut pentru tradiția sa agricolă bogată, în special cultivarea măslinilor și a viței-de-vie. Regiunea are o importanță istorică profundă, deoarece în apropiere au fost descoperite urme ale unor așezări și fortificații ilire semnificative, care indică o locuire continuă încă din antichitate. Topografia colinară oferă vederi largi asupra văii Shushica și a câmpiei litorale. Cakran păstrează un caracter rural autentic, cu case tradiționale din piatră și o comunitate puternică dedicată păstrării obiceiurilor locale. Astăzi, localitatea este un centru important pentru producția ecologică de ulei de măsline și devine tot mai atractivă pentru turiștii care doresc să exploreze lanțurile deluroase neatinse ale Albaniei Centrale.",
+      en: "Cakran is nestled in a picturesque hilly landscape south of Fier, renowned for its deep-rooted agricultural traditions, particularly olive and grape cultivation. The area holds significant historical weight, with remains of major Illyrian settlements and fortifications discovered nearby, suggesting continuous inhabitation since antiquity. Its rolling topography provides sweeping views across the Shushica Valley and the coastal plain. Cakran maintains an authentic rural charm with traditional stone architecture and a resilient community dedicated to preserving local customs. Today, the town is a key hub for organic olive oil production and is increasingly becoming a point of interest for hikers looking to explore the unspoiled hill country of Central Albania."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Standort für den ökologischen Olivenanbau", "Beherbergt archäologische Funde aus der illyrischen Zeit", "Malerische Lage mit Blick auf das Vjosa-Tal", "Bekannt für die Produktion von hochwertigem Wein", "Zentrum der lokalen Verwaltung für das Hügelland von Mallakastra", "Historisch bedeutend während der albanischen Unabhängigkeitsbewegung", "Reich an natürlichen Quellen und Wanderpfaden"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-libonik-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Libonik", hu: "Libonik", ro: "Libonik", en: "Libonik" },
+    coordinates: { lat: 40.7064, lng: 20.7328 },
+    description: {
+      de: "Libonik ist eine Stadt in der Ebene von Korçë im Südosten Albaniens. Sie ist ein bedeutendes Zentrum für Landwirtschaft und Handel in der Region Maliq.",
+      hu: "Libonik egy város a Korçë-i síkságon, Albánia délkeleti részén. Maliq régió jelentős mezőgazdasági és kereskedelmi központja.",
+      ro: "Libonik este un oraș din câmpia Korçë, în sud-estul Albaniei. Este un centru semnificativ pentru agricultură și comerț în regiunea Maliq.",
+      en: "Libonik is a town in the Korçë plain of southeastern Albania. It is a significant center for agriculture and trade in the Maliq region.",
+    },
+    facts: {
+      de: ["Liegt am Fuße der Morava-Berge", "Wichtiges Zentrum für Zuckerrübenanbau", "Nah am ehemaligen Maliq-See", "Handelsplatz für lokale Bauern"],
+      hu: ["A Morava-hegység lábánál fekszik", "A cukorrépa-termesztés fontos központja", "Közel az egykori Maliq-tóhoz", "Kereskedelmi hely a helyi gazdák számára"],
+      ro: ["Situat la poalele munților Morava", "Centru important pentru cultura sfeclei de zahăr", "Aproape de fostul lac Maliq", "Loc de comerț pentru fermierii locali"],
+      en: ["Located at the foot of Morava Mountains", "Important center for sugar beet cultivation", "Near the former Maliq Lake", "Trading place for local farmers"],
+    },
+    imageHint: "Agriculture town Libonik in Korçë plain",
+    descriptionAdvanced: {
+      de: "Libonik ist ein bedeutendes landwirtschaftliches Zentrum im Korça-Becken, gelegen am Fuße der Berge unweit der Stadt Maliq. Die Gemeinde profitiert von den extrem fruchtbaren Böden, die durch die Trockenlegung des Maliq-Sees in der Mitte des 20. Jahrhunderts gewonnen wurden. Libonik ist heute einer der wichtigsten Produzenten von Getreide, Kartoffeln und Obst in Südostalbanien. Die Stadt hat einen typisch ländlichen Charakter bewahrt, dient aber als wichtiger Logistikknotenpunkt für den Transport landwirtschaftlicher Güter in die größeren Städte. In der Umgebung finden sich zahlreiche Bewässerungskanäle, die Zeugnis von den großflächigen Meliorationsarbeiten der Vergangenheit ablegen. Für Besucher bietet Libonik einen Einblick in das produktive Bauernleben der Korça-Ebene und dient als Ausgangspunkt für Ausflüge in die angrenzenden Hochgebirge.",
+      hu: "Libonik a Korçai-medence egyik jelentős mezőgazdasági központja, a hegyek lábánál, Maliq városa közelében. A település a rendkívül termékeny talajból profitál, amelyet a Maliq-tó 20. század közepén történt lecsapolásával nyertek vissza. Libonik ma Délkelet-Albánia egyik legfontosabb gabona-, burgonya- és gyümölcstermelője. A település megőrizte tipikus vidéki jellegét, de fontos logisztikai csomópontként szolgál a mezőgazdasági áruk nagyobb városokba történő szállításában. A környéken számos öntözőcsatorna található, amelyek a múlt nagyszabású talajjavítási munkálatairól tanúskodnak. A látogatók számára Libonik betekintést nyújt a Korçai-síkság termelékeny paraszti életébe, és kiindulópontként szolgál a szomszédos magashegységekbe induló kirándulásokhoz.",
+      ro: "Libonik este un centru agricol semnificativ din bazinul Korçë, situat la poalele munților, nu departe de orașul Maliq. Comunitatea beneficiază de solurile extrem de fertile care au fost câștigate prin desecarea lacului Maliq la mijlocul secolului al XX-lea. Astăzi, Libonik este unul dintre cei mai importanți producători de cereale, cartofi și fructe din sud-estul Albaniei. Localitatea și-a păstrat caracterul rural tipic, dar servește drept nod logistic esențial pentru transportul produselor agricole către orașele mari. În împrejurimi se găsesc numeroase canale de irigații, care stau mărturie lucrărilor vaste de îmbunătățiri funciare din trecut. Pentru vizitatori, Libonik oferă o incursiune în viața agricolă productivă a câmpiei Korçë și servește drept punct de plecare pentru excursii în masivele muntoase adiacente.",
+      en: "Libonik is a prominent agricultural center in the Korçë basin, situated at the foot of the mountains near the town of Maliq. The municipality thrives on the exceptionally fertile land reclaimed from the draining of Lake Maliq in the mid-20th century. Today, Libonik is one of southeastern Albania's leading producers of grains, potatoes, and various fruits. While maintaining a predominantly rural atmosphere, the town acts as a vital logistics node for transporting agricultural produce to larger urban centers. The surrounding landscape is crisscrossed by irrigation canals, a legacy of the extensive land reclamation projects of the past. For visitors, Libonik offers a glimpse into the productive farming life of the Korçë plain and serves as a gateway for treks into the neighboring high mountains."
+    },
+    factsAdvanced: {
+      de: ["Liegt auf dem fruchtbaren Boden des ehemaligen Maliq-Sees", "Wichtiger Produzent von Getreide und Feldfrüchten", "Teil des intensiv genutzten Agrargürtels von Korça", "Besitzt ein ausgedehntes System historischer Bewässerungskanäle", "Zentrum für die lokale Kartoffelproduktion", "Strategisch gelegen an der Route nach Pogradec", "Umgeben von malerischen Berglandschaften"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-pojan-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Pojan", hu: "Pojan", ro: "Pojan", en: "Pojan" },
+    coordinates: { lat: 40.7236, lng: 20.8417 },
+    description: {
+      de: "Pojan ist ein geschichtsträchtiges Dorf bei Korçë, das für seine Nähe zu bedeutenden illyrischen und römischen archäologischen Stätten bekannt ist.",
+      hu: "Pojan egy történelmi falu Korçë közelében, amely jelentős illír és római régészeti lelőhelyeiről ismert.",
+      ro: "Pojan este un sat cu o istorie bogată de lângă Korçë, cunoscut pentru apropierea sa de situri arheologice ilire și romane importante.",
+      en: "Pojan is a village rich in history near Korçë, known for its proximity to significant Illyrian and Roman archaeological sites.",
+    },
+    facts: {
+      de: ["Standort der antiken Siedlung Pojan", "Traditionelles Dorf der Korçë-Ebene", "Berühmt für lokale Handwerkskunst", "Wichtiger Fundort antiker Münzen"],
+      hu: ["Az ókori Pojan település helyszíne", "A Korçë-síkság hagyományos faluja", "Híres a helyi kézművességről", "Antik érmék fontos lelőhelye"],
+      ro: ["Locația așezării antice Pojan", "Sat tradițional din câmpia Korçë", "Faimos pentru meșteșugurile locale", "Situl unor importante descoperiri de monede antice"],
+      en: ["Site of the ancient settlement Pojan", "Traditional village of the Korçë plain", "Famous for local craftsmanship", "Site of important ancient coin finds"],
+    },
+    imageHint: "Village houses in Pojan near Korçë",
+    descriptionAdvanced: {
+      de: "Pojan ist eine historisch bedeutsame Gemeinde in der Region Korça, die für ihre reiche archäologische Vergangenheit und ihre Rolle als Zentrum der landwirtschaftlichen Tradition bekannt ist. In unmittelbarer Nähe wird der Standort der antiken Stadt Pellion vermutet, die eine wichtige Rolle in den Kriegen zwischen Illyrern und Mazedoniern spielte. Die Stadt liegt in einer fruchtbaren Ebene und ist berühmt für den Anbau von Getreide und die traditionelle Viehzucht. Die Architektur von Pojan umfasst viele historische Steinhäuser, die den Charakter der Region Dibra und Korça widerspiegeln. Heute ist Pojan ein wichtiger Ort für die Erforschung der illyrischen Geschichte und ein lebendiges Beispiel für die Bewahrung ländlicher Kultur und Gastfreundschaft in Südostalbanien.",
+      hu: "Pojan a Korça-régió történelmileg jelentős települése, amely gazdag régészeti múltjáról és mezőgazdasági hagyományairól ismert. Közvetlen közelében feltételezik az ókori Pellion városának helyszínét, amely fontos szerepet játszott az illírek és macedónok közötti háborúkban. A település egy termékeny síkságon fekszik, és híres gabonatermesztéséről, valamint hagyományos állattenyésztéséről. Pojan építészete számos történelmi kőházat foglal magában, amelyek hűen tükrözik a Dibra és Korça régió karakterét. Ma Pojan az illír történelem kutatásának fontos helyszíne, és élő példája a délkelet-albániai vidéki kultúra és vendégszeretet megőrzésének.",
+      ro: "Pojan este o comunitate încărcată de istorie din regiunea Korçë, cunoscută pentru trecutul său arheologic bogat și rolul său de centru al tradiției agricole. În imediata apropiere se presupune că a fost locația orașului antic Pellion, care a jucat un rol crucial în războaiele dintre iliri și macedoneni. Localitatea este situată într-o câmpie fertilă și este renumită pentru cultivarea cerealelor și creșterea tradițională a animalelor. Arhitectura din Pojan cuprinde multe case istorice din piatră, care reflectă caracterul regiunilor Dibra și Korçë. Astăzi, Pojan este un punct important pentru cercetarea istoriei ilire și un exemplu viu al păstrării culturii rurale și a ospitalității în sud-estul Albaniei.",
+      en: "Pojan is a historically significant municipality in the Korçë region, renowned for its rich archaeological heritage and its role as a bastion of agricultural tradition. It is widely believed that the ancient city of Pellion, which played a strategic role in the wars between the Illyrians and Macedonians, was located in its immediate vicinity. Situated in a fertile plain, the town is famous for grain cultivation and traditional livestock farming. The architecture in Pojan features many historic stone dwellings that mirror the distinctive styles of the Korçë area. Today, Pojan remains a key site for studying Illyrian history and stands as a vibrant example of rural cultural preservation and hospitality in southeastern Albania."
+    },
+    factsAdvanced: {
+      de: ["Möglicher Standort der antiken illyrischen Stadt Pellion", "Wichtiger Standort für die Getreideproduktion in der Korça-Ebene", "Besitzt eine bedeutende mittelalterliche Kirche (St. Nikolaus)", "Traditionelles Zentrum des regionalen Handwerks", "Liegt an der historischen Route nach Nordmazedonien", "Bekannt für seine archäologischen Ausgrabungsstätten", "Zentrum der lokalen Folklore und Traditionen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-shupenze-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Shupenzë", hu: "Shupenzë", ro: "Shupenzë", en: "Shupenzë" },
+    coordinates: { lat: 41.5236, lng: 20.4217 },
+    description: {
+      de: "Shupenzë ist eine Stadt im Drin-Tal im Osten Albaniens. Sie dient als administratives Zentrum für die umliegende Gebirgsregion von Dibra.",
+      hu: "Shupenzë egy város a Drin-völgyben, Albánia keleti részén. Adminisztratív központként szolgál Dibra környező hegyvidéki régiója számára.",
+      ro: "Shupenzë este un oraș din valea Drinului, în estul Albaniei. Servește ca centru administrativ pentru regiunea montană învecinată Dibra.",
+      en: "Shupenzë is a town in the Drin valley of eastern Albania. It serves as an administrative center for the surrounding mountain region of Dibra.",
+    },
+    facts: {
+      de: ["Liegt an der Nationalstraße SH6", "Wichtiger Marktplatz der Region", "Umgeben von hohen Bergen", "Zentrum für lokale Bildung und Verwaltung"],
+      hu: ["Az SH6-os főút mentén fekszik", "A régió fontos piaca", "Magas hegyek veszik körül", "Helyi oktatási és közigazgatási központ"],
+      ro: ["Situat pe drumul național SH6", "Piață importantă a regiunii", "Înconjurat de munți înalți", "Centru pentru educație și administrație locală"],
+      en: ["Located on the SH6 national road", "Important marketplace of the region", "Surrounded by high mountains", "Center for local education and administration"],
+    },
+    imageHint: "Aerial view of Shupenzë town in Drin valley",
+    descriptionAdvanced: {
+      de: "Shupenzë liegt im Herzen des Drin-Tals in der Region Dibra und ist ein wichtiges ländliches Zentrum an der historischen Route zwischen Peshkopi und Tirana. Die Stadt ist geprägt von einer fruchtbaren Agrarlandschaft, in der Getreide, Mais und Obst angebaut werden. Historisch war Shupenzë ein wichtiger Marktplatz für die umliegenden Bergdörfer und ein bedeutender Transitpunkt für den Handel mit dem Landesinneren. Die Umgebung bietet spektakuläre Ausblicke auf das Drin-Tal und die angrenzenden Hochgebirge von Dibra. Heute profitiert Shupenzë von der verbesserten Straßeninfrastruktur und bewahrt seine Rolle als Versorgungs- und Handelszentrum für die lokale Bevölkerung, wobei die traditionelle Gastfreundschaft der Region Dibra weiterhin im Mittelpunkt steht.",
+      hu: "Shupenzë a Drin-völgy szívében, a Dibra-régióban fekszik, és fontos vidéki központ a Peshkopi és Tirana közötti történelmi útvonal mentén. A települést termékeny mezőgazdasági táj jellemzi, ahol gabonát, kukoricát és gyümölcsöt termesztenek. Történelmileg Shupenzë fontos piactér volt a környező hegyi falvak számára, és jelentős tranzitpont a belső területekkel folytatott kereskedelemben. A környék lenyűgöző kilátást nyújt a Drin-völgyre és Dibra szomszédos magashegységeire. Ma Shupenzë a javuló közúti infrastruktúra előnyeit élvezi, és megőrzi szerepét a helyi lakosság ellátó- és kereskedelmi központjaként, ahol a Dibra-régióra jellemző hagyományos vendégszeretet továbbra is központi jelentőségű.",
+      ro: "Shupenzë este situat în inima văii Drin, în regiunea Dibra, fiind un centru rural important pe ruta istorică dintre Peshkopi și Tirana. Localitatea este definită de un peisaj agricol fertil, unde se cultivă cereale, porumb și fructe. Istoric, Shupenzë a fost o piață vitală pentru satele montane din jur și un punct de tranzit semnificativ pentru comerțul cu interiorul țării. Împrejurimile oferă vederi spectaculoase asupra văii Drinului și a masivelor muntoase adiacente din regiunea Dibra. Astăzi, Shupenzë beneficiază de îmbunătățirea infrastructurii rutiere și își păstrează rolul de centru de aprovizionare și comerț pentru populația locală, ospitalitatea tradițională a regiunii Dibra rămânând o valoare centrală.",
+      en: "Shupenzë is located in the heart of the Drin Valley in the Dibra region, serving as a key rural center along the historic route between Peshkopi and Tirana. The town is characterized by a fertile agricultural landscape where grains, maize, and fruits are cultivated. Historically, Shupenzë was an important marketplace for the surrounding mountain villages and a vital transit point for trade with the interior. The area offers spectacular views of the Drin Valley and the neighboring high mountains of Dibra. Today, Shupenzë benefits from improved road infrastructure while maintaining its role as a service and trade hub for the local population, with the traditional hospitality of the Dibra region remaining a cornerstone of its identity."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Marktplatz im zentralen Drin-Tal", "Strategisch günstig an der Nationalstraße SH6 gelegen", "Zentrum der Getreide- und Maisproduktion in Dibra", "Historischer Durchgangspunkt für den regionalen Handel", "Umgeben von beeindruckenden Berglandschaften", "Wichtiger Versorgungsort für die umliegenden Hochlanddörfer", "Bekannt für die Bewahrung der lokalen Dibra-Folklore"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-zerqan-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Zerqan", hu: "Zerqan", ro: "Zerqan", en: "Zerqan" },
+    coordinates: { lat: 41.5, lng: 20.35 },
+    description: {
+      de: "Zerqan ist ein historisches Dorf in der Region Bulqizë im Osten Albaniens. Es ist bekannt für seine gut erhaltene traditionelle Architektur und religiöse Monumente.",
+      hu: "Zerqan egy történelmi falu Bulqizë régióban, Albánia keleti részén. Jól megőrzött hagyományos építészetéről és vallási műemlékeiről ismert.",
+      ro: "Zerqan este un sat istoric din regiunea Bulqiză, în estul Albaniei. Este cunoscut pentru arhitectura tradițională bine conservată și monumentele religioase.",
+      en: "Zerqan is a historical village in the Bulqizë region of eastern Albania. It is known for its well-preserved traditional architecture and religious monuments.",
+    },
+    facts: {
+      de: ["Historisches Zentrum der Zerqan-Ebene", "Besitzt alte Steinhäuser (Kulla)", "Bekannt für den lokalen Bektaschi-Schrein", "Früher bedeutender Handelsplatz"],
+      hu: ["A Zerqan-síkság történelmi központja", "Régi kőházakkal (kulla) rendelkezik", "Helyi bektasi szentélyéről ismert", "Korábban jelentős kereskedelmi központ"],
+      ro: ["Centrul istoric al câmpiei Zerqan", "Deține case vechi din piatră (kulla)", "Cunoscut pentru sanctuarul bektashi local", "În trecut, un centru comercial semnificativ"],
+      en: ["Historical center of the Zerqan plain", "Possesses old stone houses (kulla)", "Known for its local Bektashi shrine", "Formerly an important trading place"],
+    },
+    imageHint: "Traditional stone houses in Zerqan village",
+    descriptionAdvanced: {
+      de: "Zerqan ist ein geschichtsträchtiges Juwel in der Region Bulqizë im Osten Albaniens. Das Dorf liegt eingebettet in die fruchtbare Zerqan-Ebene und ist berühmt für seine außergewöhnlich gut erhaltene traditionelle Architektur, insbesondere die massiven Steinhäuser (Kulla), die von der einstigen Bedeutung des Ortes als Handelszentrum zeugen. Zerqan war jahrhundertelang ein wichtiger religiöser und kultureller Knotenpunkt, wovon die historische Moschee und der lokale Bektaschi-Schrein berichten. Die Umgebung ist geprägt von einer sanften Hügellandschaft und dem Blick auf die schroffen Gipfel des Dibra-Hochlandes. Heute zieht der Ort Besucher an, die die authentische, mittelalterlich anmutende Atmosphäre eines der besterhaltenen Dörfer der Region erleben möchten.",
+      hu: "Zerqan egy történelmi drágakő az északkelet-albániai Bulqizë régióban. A falu a termékeny Zerqan-síkságon fekszik, és rendkívül jól megőrzött hagyományos építészetéről, különösen a masszív kőtoronyházairól (kulla) híres, amelyek a település egykori kereskedelmi központi szerepéről tanúskodnak. Zerqan évszázadokon át fontos vallási és kulturális csomópont volt, amiről a történelmi mecset és a helyi bektasi szentély is mesél. A környéket szelíd dombok és a Dibra-felföld meredek csúcsaira nyíló kilátás jellemzi. Ma a helység vonzza azokat a látogatókat, akik egy autentikus, középkori hangulatú, a régió egyik legjobban megőrzött faluját szeretnék felfedezni.",
+      ro: "Zerqan este o bijuterie istorică din regiunea Bulqiză, situată în estul Albaniei. Satul este amplasat în câmpia fertilă Zerqan și este faimos pentru arhitectura sa tradițională excepțional de bine conservată, în special casele masive din piatră (kulla), care stau mărturie importanței trecute a localității ca centru comercial. Timp de secole, Zerqan a fost un nod religios și cultural vital, fapt confirmat de moscheea istorică și sanctuarul bektashi local. Împrejurimile sunt definite de un peisaj colinar domol, cu vederi spre vârfurile abrupte ale regiunii Dibra. Astăzi, localitatea atrage vizitatori care doresc să experimenteze atmosfera autentică, cu valențe medievale, a unuia dintre cele mai bine conservate sate din regiune.",
+      en: "Zerqan is a historical gem located in the Bulqizë region of eastern Albania. Nestled within the fertile Zerqan plain, the village is renowned for its remarkably well-preserved traditional architecture, specifically its massive stone tower houses (kulla), which reflect its past prominence as a regional trading hub. For centuries, Zerqan served as a pivotal religious and cultural crossroads, a heritage maintained by its historic mosque and local Bektashi shrine. The surrounding landscape features rolling hills framed by the rugged peaks of the Dibra highlands. Today, it remains a destination for those seeking an authentic glimpse into the past, offering a serene, medieval-like atmosphere in one of the most picturesque villages in the east."
+    },
+    factsAdvanced: {
+      de: ["Historisches Zentrum der Zerqan-Ebene in Dibra", "Besitzt außergewöhnlich gut erhaltene Steinhäuser (Kulla)", "Bedeutender Ort des Bektaschi-Ordens in der Region", "Ehemaliger wichtiger Handelsplatz an der Karawanenroute", "Bekannt für seine historische Holzmoschee", "Umgeben von fruchtbarem Ackerland und Obstgärten", "Zentrum der lokalen Folklore und Traditionen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-shishtavec-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Shishtavec", hu: "Shishtavec", ro: "Shishtavec", en: "Shishtavec" },
+    coordinates: { lat: 41.9483, lng: 20.6053 },
+    description: {
+      de: "Shishtavec ist ein malerisches Bergdorf im Nordosten Albaniens, nahe der Grenze zum Kosovo. Es ist bekannt für seine einzigartige Kultur und als Zentrum des Wintersports.",
+      hu: "Shishtavec egy festői hegyi falu Albánia északkeleti részén, a koszovói határ közelében. Egyedülálló kultúrájáról és téli sportközpontjáról ismert.",
+      ro: "Shishtavec este un sat montan pitoresc din nord-estul Albaniei, aproape de granița cu Kosovo. Este cunoscut pentru cultura sa unică și ca centru al sporturilor de iarnă.",
+      en: "Shishtavec is a picturesque mountain village in northeastern Albania, near the border with Kosovo. It is known for its unique culture and as a center for winter sports.",
+    },
+    facts: {
+      de: ["Bewohnt von der Gemeinschaft der Goranen", "Bekannt für seine Skitradition", "Berühmt für die Shishtavec-Kartoffeln", "Liegt auf über 1300 Metern Höhe"],
+      hu: ["A goráni közösség lakja", "Sízési hagyományairól ismert", "Híres a shishtaveci burgonyáról", "Több mint 1300 méteres magasságban fekszik"],
+      ro: ["Locuit de comunitatea goranilor", "Cunoscut pentru tradiția schiului", "Faimos pentru cartofii de Shishtavec", "Situat la o altitudine de peste 1300 metri"],
+      en: ["Inhabited by the Gorani community", "Known for its skiing tradition", "Famous for Shishtavec potatoes", "Located at over 1300 meters altitude"],
+    },
+    imageHint: "Mountain village Shishtavec in snow",
+    descriptionAdvanced: {
+      de: "Shishtavec ist ein malerisches Bergdorf im äußersten Nordosten Albaniens, gelegen in der Region Kukës nahe der Grenze zum Kosovo. Der Ort ist die Heimat der goranischen Gemeinschaft, die eine einzigartige slawische Sprache und faszinierende Traditionen bewahrt hat. Auf über 1300 Metern Höhe gelegen, ist Shishtavec landesweit für seine qualitativ hochwertigen Kartoffeln und seine lange Tradition im Wintersport bekannt, wobei hier einige der ersten Skifahrer Albaniens beheimatet waren. Die Landschaft ist geprägt von weiten alpinen Wiesen und den schroffen Gipfeln des Sharr-Gebirges, was sie zu einem Paradies für Wanderer und Naturliebhaber macht. Shishtavec bietet eine seltene Mischung aus kultureller Einzigartigkeit und atemberaubender Hochgebirgsnatur, die Besucher vor allem für ihre Authentizität und Ruhe schätzen.",
+      hu: "Shishtavec egy festői hegyi falu Albánia távoli északkeleti részén, a Kukës régióban, a koszovói határ közelében. A település a goráni közösség otthona, amely egyedülálló szláv nyelvet és lenyűgöző hagyományokat őriz. Az 1300 méter feletti magasságban fekvő Shishtavec országszerte híres kiváló minőségű burgonyájáról és a téli sportok terén szerzett hosszú múltjáról; itt nevelkedtek Albánia első síelői. A tájat kiterjedt alpesi rétek és a Sharr-hegység meredek csúcsai jellemzik, ami a túrázók és a természetbarátok paradicsomává teszi a vidéket. Shishtavec a kulturális egyediség és a lélegzetelállító magashegyi természet ritka elegyét kínálja, amelyet a látogatók elsősorban hitelessége és nyugalma miatt értékelnek.",
+      ro: "Shishtavec este un sat montan pitoresc din extremul nord-est al Albaniei, situat în regiunea Kukës, aproape de granița cu Kosovo. Localitatea este căminul comunității goranilor, care au păstrat o limbă slavă unică și tradiții fascinante. Situat la o altitudine de peste 1300 de metri, Shishtavec este renumit la nivel național pentru cartofii săi de înaltă calitate și pentru tradiția îndelungată în sporturile de iarnă, fiind locul de origine al unora dintre primii schiori ai Albaniei. Peisajul este definit de pajiști alpine vaste și vârfurile abrupte ale munților Sharr, făcând din acesta un paradis pentru drumeți și iubitorii de natură. Shishtavec oferă un mix rar de unicitate culturală și natură montană spectaculoasă, apreciat pentru autenticitate și liniște.",
+      en: "Shishtavec is a picturesque mountain village in the remote northeast of Albania, located in the Kukës region near the border with Kosovo. It is the heartland of the Gorani community, who preserve a unique Slavic language and distinct cultural traditions. Situated at an altitude of over 1300 meters, Shishtavec is nationally famous for its premium potato production and its historic role as a center for winter sports, producing some of Albania's earliest competitive skiers. The landscape is dominated by sweeping alpine meadows and the jagged peaks of the Sharr Mountains, making it a prime destination for trekkers. Shishtavec offers a rare combination of cultural singularity and breathtaking high-mountain nature, prized by visitors for its authenticity and serenity."
+    },
+    factsAdvanced: {
+      de: ["Eines der höchstgelegenen bewohnten Dörfer Albaniens", "Zentrum der Goranen-Kultur im Nordosten", "Berühmt für die Shishtavec-Kartoffeln (höchste Qualität)", "Traditioneller Standort für Skisport seit den 1950ern", "Liegt im Sharr-Gebirge nahe der kosovarischen Grenze", "Bekannt für die Zucht von Sharr-Hunden", "Zentrum für Bergwandern und Ökotourismus"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-bushat-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Bushat", hu: "Bushat", ro: "Bushat", en: "Bushat" },
+    coordinates: { lat: 41.9567, lng: 19.5336 },
+    description: {
+      de: "Bushat ist ein bedeutendes Zentrum in der Zadrima-Ebene zwischen Shkodra und Lezha. Es ist historisch mit der einflussreichen Bushati-Dynastie verbunden.",
+      hu: "Bushat egy jelentős központ a Zadrima-síkságon, Shkodra és Lezha között. Történelmileg a befolyásos Bushati-dinasztiához kötődik.",
+      ro: "Bushat este un centru important din câmpia Zadrima, situat între Shkodra și Lezha. Este legat istoric de influenta dinastie Bushati.",
+      en: "Bushat is an important center in the Zadrima plain between Shkodra and Lezha. It is historically linked to the influential Bushati dynasty.",
+    },
+    facts: {
+      de: ["Wichtiges Agrarzentrum im Norden", "An der Nationalstraße SH1 gelegen", "Sitz großer Geflügelfarmen", "Historischer Ursprung der Paschas von Shkodra"],
+      hu: ["Észak fontos mezőgazdasági központja", "Az SH1-es főút mentén fekszik", "Nagy baromfifarmok székhelye", "A shkodrai pasák történelmi származási helye"],
+      ro: ["Centru agricol important în nord", "Situat pe drumul național SH1", "Sediul unor mari ferme de păsări", "Originea istorică a pașalelor din Shkodra"],
+      en: ["Important agricultural center in the north", "Located on the SH1 national road", "Site of large poultry farms", "Historical origin of the Pashas of Shkodra"],
+    },
+    imageHint: "Landscape of Bushat town in Zadrima plain",
+    descriptionAdvanced: {
+      de: "Bushat ist ein bedeutendes Zentrum in der fruchtbaren Zadrima-Ebene zwischen Shkodra und Lezha. Die Stadt ist untrennbar mit der Geschichte der einflussreichen Bushati-Dynastie verbunden, die als Paschas von Shkodra über Jahrhunderte die Geschicke Nordalbaniens lenkten. Heute ist Bushat ein prosperierendes landwirtschaftliches und gewerbliches Zentrum, das von seiner strategischen Lage an der Nationalstraße SH1 profitiert. Die Region ist bekannt für ihre produktiven Farmen, insbesondere im Bereich der Geflügelzucht und des Gemüseanbaus. Die Landschaft ist geprägt von weiten, intensiv genutzten Feldern und einer modernen ländlichen Infrastruktur. Bushat bewahrt seinen Stolz auf die aristokratische Vergangenheit und dient gleichzeitig als wichtiger Wirtschaftsmotor für den Agrarsektor im Norden des Landes.",
+      hu: "Bushat egy jelentős központ a termékeny Zadrima-síkságon, Shkodra és Lezha között. A város elválaszthatatlanul kötődik a befolyásos Bushati-dinasztia történetéhez, akik shkodrai pasákként évszázadokon át meghatározták Észak-Albánia sorsát. Ma Bushat egy virágzó mezőgazdasági és kereskedelmi központ, amely az SH1-es főút menti stratégiai fekvéséből profitál. A régió híres termelékeny gazdaságairól, különösen a baromfitenyésztés és a zöldségtermesztés terén. A tájat kiterjedt, intenzíven művelt szántóföldek és modern vidéki infrastruktúra jellemzi. Bushat büszkén őrzi arisztokratikus múltjának emlékét, miközben az ország északi részének egyik legfontosabb mezőgazdasági motorjaként szolgál.",
+      ro: "Bushat este un centru important situat în câmpia fertilă Zadrima, între orașele Shkodra și Lezha. Orașul este inseparabil legat de istoria influentei dinastii Bushati, care, în calitate de pașale de Shkodra, au condus destinele nordului Albaniei timp de secole. Astăzi, Bushat este un centru agricol și comercial prosper, beneficiind de locația sa strategică de-a lungul drumului național SH1. Regiunea este cunoscută pentru fermele sale productive, în special în sectorul creșterii păsărilor și al culturii legumelor. Peisajul este definit de câmpuri vaste, cultivate intensiv, și de o infrastructură rurală modernă. Bushat își păstrează mândria legată de trecutul său aristocratic, servind totodată ca un motor economic vital pentru sectorul agrar din nordul țării.",
+      en: "Bushat is a prominent center located in the fertile Zadrima plain, situated between Shkodra and Lezha. The town is inextricably linked to the history of the influential Bushati dynasty, who ruled as the Pashas of Shkodra and shaped the destiny of northern Albania for centuries. Today, Bushat is a thriving agricultural and commercial hub, capitalizing on its strategic position along the SH1 national highway. The region is renowned for its highly productive farms, particularly in poultry and vegetable production. The landscape is characterized by expansive, intensively cultivated fields and modern rural infrastructure. Bushat balances its aristocratic heritage with its role as a key economic engine for the northern Albanian agricultural sector."
+    },
+    factsAdvanced: {
+      de: ["Historischer Ursprung der mächtigen Bushati-Paschas", "Wichtigstes Agrarzentrum der Zadrima-Ebene", "Strategisch gelegen an der Hauptverkehrsader SH1", "Zentrum für großflächige Geflügel- und Viehzucht", "Historischer Standort bedeutender mittelalterlicher Märkte", "Reich an fruchtbarem Schwemmlandboden", "Wichtiger Versorgungsort für die Metropolregion Shkodra"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-postribe-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Postribë", hu: "Postribë", ro: "Postribë", en: "Postribë" },
+    coordinates: { lat: 42.1136, lng: 19.5786 },
+    description: {
+      de: "Postribë ist ein geschichtsträchtiges Dorf nordöstlich von Shkodra am Fluss Kir. Es ist bekannt für den Postribë-Aufstand gegen das kommunistische Regime im Jahr 1946.",
+      hu: "Postribë egy történelmi falu Shkodra-tól északkeletre, a Kir-folyó mentén. Az 1946-os kommunistaellenes Postribë-felkelésről ismert.",
+      ro: "Postribë este un sat istoric situat la nord-est de Shkodra, pe râul Kir. Este cunoscut pentru revolta din Postribë împotriva regimului comunist din 1946.",
+      en: "Postribë is a village rich in history northeast of Shkodra on the Kir River. It is known for the Postribë revolt against the communist regime in 1946.",
+    },
+    facts: {
+      de: ["Liegt nahe der berühmten Mes-Brücke", "Tor zu den Shkodra-Hochlanden", "Ort des ersten antikommunistischen Aufstands", "Bekannt für traditionelle Tabakproduktion"],
+      hu: ["A híres Mes-híd közelében fekszik", "A shkodrai felföld kapuja", "Az első antikommunista felkelés helyszíne", "Hagyományos dohánytermeléséről ismert"],
+      ro: ["Situat lângă celebrul Pod Mes", "Poarta către munții din Shkodra", "Locul primei revolte anticomuniste", "Cunoscut pentru producția tradițională de tutun"],
+      en: ["Located near the famous Mes Bridge", "Gateway to the Shkodra highlands", "Site of the first anti-communist revolt", "Known for traditional tobacco production"],
+    },
+    imageHint: "Postribë village near the Kir river and Mes bridge",
+    descriptionAdvanced: {
+      de: "Postribë ist ein geschichtsträchtiges Dorf nordöstlich von Shkodra, gelegen am malerischen Ufer des Flusses Kir. Der Ort ist in der albanischen Geschichte als Schauplatz des Postribë-Aufstands von 1946 bekannt, der ersten bewaffneten Erhebung gegen das kommunistische Regime. In unmittelbarer Nähe befindet sich die berühmte Mes-Brücke (Ura e Mesit), ein osmanisches Meisterwerk aus dem 18. Jahrhundert, das eines der meistfotografierten Denkmäler Albaniens ist. Postribë ist zudem für seinen hochwertigen Tabakanbau und seine tief verwurzelten Traditionen in der Gastfreundschaft bekannt. Die Landschaft bietet eine beeindruckende Kulisse aus fließendem Wasser und den aufsteigenden Kalksteinfelsen des Shkodra-Hochlandes, was den Ort zu einem wichtigen Ziel für Kultur- und Naturtouristen macht.",
+      hu: "Postribë egy történelmi falu Shkodrától északkeletre, a festői Kir-folyó partján. A település az albán történelemben az 1946-os postribëi felkelés helyszíneként ismert, amely az első fegyveres megmozdulás volt a kommunista rezsim ellen. Közvetlen közelében található a híres Mes-híd (Ura e Mesit), egy 18. századi oszmán remekmű, amely Albánia egyik legtöbbet fényképezett műemléke. Postribë emellett kiváló minőségű dohánytermesztéséről és a vendégszeretet mélyen gyökerező hagyományairól is közismert. A táj lenyűgöző hátteret biztosít a folyóvízzel és a shkodrai felföld emelkedő mészkőszikláival, így a település a kulturális és természetjáró turisták egyik kedvelt célpontja.",
+      ro: "Postribë este un sat încărcat de istorie situat la nord-est de Shkodra, pe malul pitoresc al râului Kir. Localitatea este cunoscută în istoria albaneză ca locul revoltei din Postribë din 1946, prima mișcare armată împotriva regimului comunist. În imediata apropiere se află celebrul Pod Mes (Ura e Mesit), o capodoperă otomană din secolul al XVIII-lea, fiind unul dintre cele mai fotografiate monumente din Albania. Postribë este renumit și pentru cultura sa de tutun de înaltă calitate și pentru tradițiile adânc înrădăcinate ale ospitalității. Peisajul oferă un cadru impresionant, cu apele râului și stâncile calcaroase ale munților din Shkodra, făcând din localitate o destinație esențială pentru turismul cultural și natural.",
+      en: "Postribë is a village steeped in history northeast of Shkodra, located along the scenic banks of the Kir River. It holds a significant place in Albanian history as the site of the 1946 Postribë Revolt, the nation's first armed uprising against the communist regime. Just a short distance away lies the famous Mes Bridge (Ura e Mesit), an 18th-century Ottoman architectural masterpiece and one of Albania's most iconic monuments. Postribë is also noted for its high-quality tobacco cultivation and its residents' traditional commitment to highland hospitality. The landscape offers a striking backdrop of flowing river waters and the rising limestone cliffs of the Shkodra highlands, making it a key stop for cultural and nature seekers."
+    },
+    factsAdvanced: {
+      de: ["Ort des ersten antikommunistischen Aufstands (1946)", "Unmittelbare Nähe zur berühmten osmanischen Mes-Brücke", "Liegt am Gebirgsfluss Kir im Norden", "Bekannt für den Anbau von hochwertigem Postribë-Tabak", "Tor zu den Wanderwegen der Shkodra-Berge", "Traditionelles Zentrum des lokalen Kunsthandwerks", "Bedeutender Ort der kulturellen Identität Nordalbaniens"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-velipoje-town-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Velipojë", hu: "Velipojë", ro: "Velipojë", en: "Velipojë" },
+    coordinates: { lat: 41.865, lng: 19.4317 },
+    description: {
+      de: "Velipojë ist die nördlichste Küstenstadt Albaniens an der Mündung des Flusses Buna. Sie ist berühmt für ihren jodhaltigen Sand und das angrenzende Naturschutzgebiet.",
+      hu: "Velipojë Albánia legészakibb tengerparti városa a Buna-folyó torkolatánál. Jódban gazdag homokjáról és a szomszédos természetvédelmi területről híres.",
+      ro: "Velipojë este cel mai nordic oraș de coastă al Albaniei, situat la gura de vărsare a râului Buna. Este renumit pentru nisipul bogat în iod și rezervația naturală adiacentă.",
+      en: "Velipojë is the northernmost coastal town of Albania at the mouth of the Buna River. It is famous for its iodine-rich sand and the adjacent nature reserve.",
+    },
+    facts: {
+      de: ["Längster Sandstrand im Norden", "An der Grenze zu Montenegro", "Bekannt für medizinisches Sandbaden", "Wichtiger Ort für den Vogelzug"],
+      hu: ["Észak leghosszabb homokos strandja", "Montenegrói határ mentén", "Gyógyhatású homokos fürdőiről ismert", "Fontos helyszín a madárvonulás számára"],
+      ro: ["Cea mai lungă plajă de nisip din nord", "La granița cu Muntenegru", "Cunoscut pentru băile de nisip medicinale", "Loc important pentru migrația păsărilor"],
+      en: ["Longest sandy beach in the north", "On the border with Montenegro", "Known for medicinal sand bathing", "Important site for bird migration"],
+    },
+    imageHint: "Velipojë beach and river Buna mouth",
+    descriptionAdvanced: {
+      de: "Velipojë ist der nördlichste Küstenort Albaniens, gelegen an der Adriaküste unmittelbar an der Grenze zu Montenegro. Die Stadt befindet sich an der Mündung des Flusses Buna und ist berühmt für ihren weitläufigen Sandstrand, dessen Sand einen hohen Jodgehalt besitzt und für seine heilende Wirkung geschätzt wird. Velipojë bietet eine einzigartige Kombination aus maritimem Flair und unberührter Natur, da sie an ein bedeutendes Naturschutzgebiet grenzt, das reich an Feuchtgebieten und seltenen Vogelarten ist. Die Nähe zum Shkodra-See und die frische Brise, die vom Meer herüberweht, machen den Ort zu einem der beliebtesten Reiseziele für Familien im Norden Albaniens. Velipojë hat sich in den letzten Jahren rasant entwickelt, bewahrt aber durch seine Lage am Flussdelta eine faszinierende ökologische Vielfalt.",
+      hu: "Velipojë Albánia legészakibb tengerparti települése, az Adriai-tenger partján, közvetlenül a montenegrói határnál. A város a Buna-folyó torkolatánál fekszik, és híres kiterjedt homokos strandjáról, amelynek homokja magas jódtartalommal bír, és gyógyhatása miatt nagyra értékelik. Velipojë a tengerparti hangulat és az érintetlen természet egyedülálló kombinációját kínálja, mivel egy jelentős természetvédelmi területtel határos, amely vizes élőhelyekben és ritka madárfajokban gazdag. A Shkodrai-tó közelsége és a tengerről fújó friss szellő az ország északi részének egyik legnépszerűbb családi üdülőhelyévé teszi a várost. Velipojë az elmúlt években gyors fejlődésen ment keresztül, de a folyódelta menti fekvésének köszönhetően megőrizte lenyűgöző ökológiai sokszínűségét.",
+      ro: "Velipojë este cea mai nordică localitate de coastă a Albaniei, situată pe malul Adriaticii, chiar la granița cu Muntenegru. Orașul se află la gura de vărsare a râului Buna și este faimos pentru plaja sa vastă de nisip, care are un conținut ridicat de iod și este apreciat pentru proprietățile sale curative. Velipojë oferă o combinație unică de atmosferă maritimă și natură virgină, fiind învecinat cu o rezervație naturală importantă, bogată în zone umede și specii rare de păsări. Proximitatea față de lacul Shkodra și briza proaspătă marină fac din această localitate una dintre cele mai populare destinații pentru familii din nordul Albaniei. Velipojë s-a dezvoltat rapid în ultimii ani, dar își păstrează o diversitate ecologică fascinantă datorită locației sale în delta râului.",
+      en: "Velipojë is Albania's northernmost seaside resort, located on the Adriatic coast right at the border with Montenegro. Positioned at the mouth of the Buna River, the town is renowned for its expansive sandy beach, famous for its high iodine content and medicinal properties. Velipojë offers a unique synergy of seaside leisure and pristine nature, bordering a significant nature reserve rich in wetlands and rare bird species. Its proximity to Lake Shkodra and the refreshing sea breezes make it a favorite destination for families in northern Albania. While the town has seen rapid development as a tourist hub, its location within the river delta ensures the preservation of a fascinating ecological diversity found nowhere else along the coast."
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Küstenort Albaniens an der Buna-Mündung", "Berühmt für den jodhaltigen Heilsand der Adria", "Standort eines bedeutenden Naturschutzgebiets (Buna-Delta)", "Besitzt einen ca. 10 km langen Sandstrand", "Wichtiges Ziel für Familien- und Ökotourismus", "Liegt an der Grenze zu Montenegro", "Bietet eine reiche Auswahl an frischem Fisch und Meeresfrüchten"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-tale-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Tale", hu: "Tale", ro: "Tale", en: "Tale" },
+    coordinates: { lat: 41.7117, lng: 19.5936 },
+    description: {
+      de: "Tale ist ein aufstrebender Badeort südlich von Lezha. Er bietet breite, unberührte Sandstrände und ist besonders bei einheimischen Touristen beliebt.",
+      hu: "Tale egy feltörekvő üdülőhely Lezha-tól délre. Széles, érintetlen homokos strandokat kínál, és különösen a helyi turisták körében népszerű.",
+      ro: "Tale este o stațiune balneară în curs de dezvoltare la sud de Lezha. Oferă plaje largi de nisip neatinse și este populară în special printre turiștii locali.",
+      en: "Tale is an emerging seaside resort south of Lezha. It offers wide, untouched sandy beaches and is particularly popular among local tourists.",
+    },
+    facts: {
+      de: ["Gehört zur Gemeinde Lezha", "Schnell wachsender Tourismussektor", "Bekannt für frische Meeresfrüchte", "Ruhige Alternative zu Durrës"],
+      hu: ["Lezha községhez tartozik", "Gyorsan növekvő turisztikai szektor", "Friss tenger gyümölcseiről ismert", "Csendes alternatíva Durrës mellett"],
+      ro: ["Aparține de municipalitatea Lezha", "Sector turistic cu creștere rapidă", "Cunoscut pentru fructele de mare proaspete", "Alternativă liniștită la Durrës"],
+      en: ["Belongs to Lezha municipality", "Fast-growing tourism sector", "Known for fresh seafood", "Quiet alternative to Durrës"],
+    },
+    imageHint: "Sandy beach and sea in Tale resort",
+    descriptionAdvanced: {
+      de: "Tale ist ein aufstrebendes Juwel an der albanischen Adriaküste, gelegen südlich der historischen Stadt Lezhë. Der Ort ist bekannt für seinen kilometerlangen, breiten Sandstrand und das kristallklare, flach abfallende Wasser, was ihn besonders bei Familien und Ruhesuchenden beliebt macht. Im Gegensatz zu den geschäftigen Touristenzentren hat sich Tale einen Hauch von Ursprünglichkeit bewahrt und bietet eine entspannte Atmosphäre abseits des Massentourismus. Die Uferpromenade entwickelt sich stetig mit gemütlichen Restaurants, die frischen Fisch und lokale Spezialitäten servieren. Die Nähe zu den Feuchtgebieten von Kune-Vain macht Tale zudem zu einem interessanten Ausgangspunkt für Naturbeobachtungen, während die sanfte Meeresbrise auch an heißen Sommertagen für angenehme Abkühlung sorgt.",
+      hu: "Tale az albán adriai partvidék egyik feltörekvő gyöngyszeme, a történelmi Lezhë városától délre. A település kilométer hosszú, széles homokos strandjáról és kristálytiszta, lassan mélyülő vizéről ismert, ami különösen népszerűvé teszi a családok és a nyugalomra vágyók körében. A forgalmas turisztikai központokkal ellentétben Tale megőrizte eredetiségét, és a tömegturizmustól távoli, pihentető légkört kínál. A tengerparti sétány folyamatosan fejlődik, barátságos éttermekkel várja a vendégeket, amelyek friss halat és helyi különlegességeket kínálnak. A közeli Kune-Vain vizes élőhelyek közelsége miatt Tale érdekes kiindulópont a természetbarátok számára is, miközben a lágy tengeri szellő még a forró nyári napokon is kellemes felfrissülést nyújt.",
+      ro: "Tale este o bijuterie în curs de dezvoltare pe coasta adriatică a Albaniei, situată la sud de orașul istoric Lezhë. Localitatea este cunoscută pentru plaja sa de nisip lată, care se întinde pe kilometri, și pentru apele cristaline cu intrare lină, fiind o destinație preferată de familii și de cei care caută liniște. Spre deosebire de centrele turistice aglomerate, Tale și-a păstrat un aer de autenticitate și oferă o atmosferă relaxată, departe de turismul de masă. Faleza este în continuă dezvoltare, cu restaurante primitoare care servesc pește proaspăt și specialități locale. Proximitatea față de zonele umede Kune-Vain face din Tale un punct de plecare interesant pentru observarea naturii, în timp ce briza marină plăcută oferă răcoare chiar și în cele mai calde zile de vară.",
+      en: "Tale is an emerging gem on the Albanian Adriatic coast, located south of the historic city of Lezhë. The town is renowned for its wide, miles-long sandy beach and crystal-clear, shallow waters, making it a favorite for families and those seeking tranquility. Unlike the more bustling tourist centers, Tale has maintained a sense of originality and offers a relaxed atmosphere away from mass tourism. The seaside promenade is steadily developing with cozy restaurants serving fresh seafood and local delicacies. Its proximity to the Kune-Vain wetlands makes Tale an intriguing base for nature watching, while the gentle sea breezes provide a welcome respite even during the height of the Mediterranean summer."
+    },
+    factsAdvanced: {
+      de: ["Aufstrebender Badeort an der Adria bei Lezhë", "Besitzt einen der breitesten Sandstrände Nordalbaniens", "Ruhige Alternative zu den großen Touristenzentren", "Bekannt für exzellente Meeresfrüchte-Küche", "Wichtiger Standort für den lokalen Agrotourismus", "Liegt nahe dem Naturschutzgebiet Kune-Vain", "Wachsende Infrastruktur mit modernen Gästehäusern"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-bradashesh-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Bradashesh", hu: "Bradashesh", ro: "Bradashesh", en: "Bradashesh" },
+    coordinates: { lat: 41.1117, lng: 20.0383 },
+    description: {
+      de: "Bradashesh ist ein Vorort von Elbasan und ein wichtiger Industriestandort. Er liegt an der Kreuzung der Autobahn nach Tirana und der Route zum Qafë Thanë Pass.",
+      hu: "Bradashesh Elbasan külvárosa és fontos ipari központ. A Tirana felé vezető autópálya és a Qafë Thanë-hágó útvonalának kereszteződésében fekszik.",
+      ro: "Bradashesh este o suburbie a orașului Elbasan și un centru industrial important. Se află la intersecția autostrăzii către Tirana și rutei către trecătoarea Qafë Thanë.",
+      en: "Bradashesh is a suburb of Elbasan and an important industrial location. It is located at the intersection of the highway to Tirana and the route to Qafë Thanë Pass.",
+    },
+    facts: {
+      de: ["Standort großer metallurgischer Werke", "Wichtiger Straßenknotenpunkt (SH3)", "Teil der Metropolregion Elbasan", "Historisch Siedlungsplatz an der Via Egnatia"],
+      hu: ["Nagy kohászati művek helyszíne", "Fontos közúti csomópont (SH3)", "Elbasan metropolisz övezetének része", "Történelmileg település a Via Egnatia mentén"],
+      ro: ["Locația unor mari uzine metalurgice", "Nod rutier important (SH3)", "Parte a zonei metropolitane Elbasan", "Istoric, așezare pe Via Egnatia"],
+      en: ["Site of large metallurgical works", "Important road junction (SH3)", "Part of Elbasan metropolitan area", "Historically a settlement on Via Egnatia"],
+    },
+    imageHint: "Industrial area and road junction in Bradashesh",
+    descriptionAdvanced: {
+      de: "Bradashesh ist ein bedeutendes Industrie- und Vorstadtzentrum unmittelbar westlich von Elbasan. Der Ort ist landesweit bekannt als Standort des gewaltigen metallurgischen Kombinats, das jahrzehntelang das Rückgrat der albanischen Schwerindustrie bildete und heute modernisiert weitergeführt wird. Doch Bradashesh besitzt auch eine faszinierende historische Dimension: Hier befinden sich die Ruinen von Ad Quintum, einer bedeutenden römischen Station an der antiken Via Egnatia, die für ihre gut erhaltenen Thermen und Mosaike bekannt ist. Die strategische Lage an der Kreuzung der Autobahn nach Tirana und der Route nach Osten macht Bradashesh zu einem kritischen logistischen Knotenpunkt. Die Stadt bietet somit eine einzigartige Mischung aus industrieller Macht und antiker römischer Geschichte im Herzen Albaniens.",
+      hu: "Bradashesh egy jelentős ipari és elővárosi központ közvetlenül Elbasantól nyugatra. A település országszerte a hatalmas kohászati kombinát székhelyeként ismert, amely évtizedeken át az albán nehézipar gerincét alkotta, és ma modernizált formában működik tovább. Bradashesh azonban lenyűgöző történelmi dimenzióval is rendelkezik: itt találhatók Ad Quintum romjai, amely a történelmi Via Egnatia egyik fontos római állomása volt, és jól megőrzött termálfürdőiről, valamint mozaikjairól híres. A Tirana felé vezető autópálya és a keleti útvonal kereszteződésében elfoglalt stratégiai helyzete miatt Bradashesh kritikus logisztikai csomópont. A város így az ipari erő és az ókori római történelem egyedülálló elegyét kínálja Albánia szívében.",
+      ro: "Bradashesh este un centru industrial și suburban major situat imediat la vest de Elbasan. Localitatea este cunoscută la nivel național ca sediu al vastului combinat metalurgic care a format timp de decenii coloana vertebrală a industriei grele albaneze și care continuă să funcționeze astăzi într-o formă modernizată. Totuși, Bradashesh posedă și o dimensiune istorică fascinantă: aici se află ruinele Ad Quintum, o stație romană importantă pe vechea Via Egnatia, renumită pentru termele și mozaicurile sale bine conservate. Poziția strategică la intersecția autostrăzii către Tirana și rutei către est face din Bradashesh un nod logistic critic. Orașul oferă astfel un amestec unic de forță industrială și istorie romană antică în inima Albaniei.",
+      en: "Bradashesh is a significant industrial and suburban center located just west of Elbasan. It is nationally recognized as the site of the massive metallurgical complex that for decades formed the backbone of Albania’s heavy industry and continues to operate today in a modernized capacity. However, Bradashesh also boasts a fascinating historical side: it is home to the ruins of Ad Quintum, an important Roman station along the ancient Via Egnatia, famous for its well-preserved baths and mosaics. Its strategic position at the intersection of the highway to Tirana and the route eastward makes Bradashesh a critical logistical node. The town represents a unique intersection of industrial might and ancient Roman heritage in central Albania."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der albanischen Metallurgie und Schwerindustrie", "Standort der römischen Ruinen von Ad Quintum", "Wichtiger Knotenpunkt der Via Egnatia", "Strategisch gelegen an der Autobahn Tirana-Elbasan", "Beherbergt gut erhaltene antike Thermenanlagen", "Bedeutender Logistikstandort für Zentralalbanien", "Vorort und wirtschaftliches Tor zu Elbasan"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-labinot-fushe-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Labinot-Fushë", hu: "Labinot-Fushë", ro: "Labinot-Fushë", en: "Labinot-Fushë" },
+    coordinates: { lat: 41.1417, lng: 20.1583 },
+    description: {
+      de: "Labinot-Fushë ist ein Dorf östlich von Elbasan im Shkumbin-Tal. Es ist historisch bedeutsam als Gründungsort des Generalstabs der Nationalen Befreiungsarmee im Jahr 1943.",
+      hu: "Labinot-Fushë egy falu Elbasan-tól keletre, a Shkumbin-völgyben. Történelmileg jelentős, mivel itt alakult meg a Nemzeti Felszabadító Hadsereg vezérkara 1943-ban.",
+      ro: "Labinot-Fushë este un sat la est de Elbasan, în valea Shkumbin. Este semnificativ istoric ca loc de fondare a Statului Major al Armatei Naționale de Eliberare în 1943.",
+      en: "Labinot-Fushë is a village east of Elbasan in the Shkumbin valley. It is historically significant as the founding site of the General Staff of the National Liberation Army in 1943.",
+    },
+    facts: {
+      de: ["Ort wichtiger historischer Versammlungen", "Liegt am Fluss Shkumbin", "Zentrum für Gemüseanbau", "An der Bahnstrecke Elbasan-Pogradec"],
+      hu: ["Fontos történelmi gyűlések helyszíne", "A Shkumbin-folyó mentén fekszik", "Zöldségtermesztési központ", "Az Elbasan-Pogradec vasútvonal mentén"],
+      ro: ["Locul unor importante adunări istorice", "Situat pe râul Shkumbin", "Centru pentru cultura legumelor", "Pe linia de cale ferată Elbasan-Pogradec"],
+      en: ["Site of important historical assemblies", "Located on the Shkumbin River", "Center for vegetable production", "On the Elbasan-Pogradec railway line"],
+    },
+    imageHint: "Labinot-Fushë village in Shkumbin valley",
+    descriptionAdvanced: {
+      de: "Labinot-Fushë ist ein geschichtsträchtiges Dorf im Shkumbin-Tal, östlich von Elbasan. Der Ort erlangte nationale Berühmtheit als Schauplatz einer entscheidenden Konferenz im Jahr 1943, bei der der Generalstab der albanischen Nationalen Befreiungsarmee gegründet wurde, was Labinot zu einem Symbol des Widerstands gegen die Besatzung machte. Heute ist die Gemeinde ein wichtiges landwirtschaftliches Zentrum, das von der fruchtbaren Schwemmlandebene des Flusses Shkumbin profitiert. Labinot-Fushë ist bekannt für seinen intensiven Gemüseanbau und dient als wichtiger Versorgungspunkt an der Nationalstraße nach Nordmazedonien. Die Umgebung bietet malerische Ausblicke auf den Fluss und die umliegenden Berge, während historische Gedenkstätten an die bedeutende Rolle des Dorfes während des Zweiten Weltkriegs erinnern.",
+      hu: "Labinot-Fushë egy történelmi falu a Shkumbin-völgyben, Elbasantól keletre. A település az 1943-as sorsdöntő konferencia helyszíneként vált országosan ismertté, ahol megalakult az Albán Nemzeti Felszabadító Hadsereg vezérkara, így Labinot a megszállás elleni ellenállás szimbólumává vált. Ma a közösség fontos mezőgazdasági központ, amely a Shkumbin-folyó termékeny hordalékos síkságából profitál. Labinot-Fushë intenzív zöldségtermesztéséről ismert, és fontos ellátó pontként szolgál az Észak-Macedónia felé vezető főút mentén. A környék festői kilátást nyújt a folyóra és a környező hegyekre, miközben történelmi emlékhelyek emlékeztetnek a falu második világháború alatt betöltött jelentős szerepére.",
+      ro: "Labinot-Fushë este un sat încărcat de istorie din valea Shkumbin, situat la est de Elbasan. Localitatea a câștigat faimă națională ca loc al unei conferințe cruciale din 1943, în care a fost fondat Statul Major al Armatei de Eliberare Națională a Albaniei, transformând Labinot într-un simbol al rezistenței împotriva ocupației. Astăzi, comunitatea este un centru agricol vital, beneficiind de câmpia aluvionară fertilă a râului Shkumbin. Labinot-Fushë este renumit pentru cultura intensivă a legumelor și servește ca punct important de aprovizionare pe drumul național către Macedonia de Nord. Împrejurimile oferă vederi pitorești asupra râului și munților din jur, în timp ce siturile memoriale amintesc de rolul semnificativ al satului în timpul celui de-al Doilea Război Mondial.",
+      en: "Labinot-Fushë is a village steeped in history in the Shkumbin Valley, located east of Elbasan. It achieved national prominence as the site of a decisive 1943 conference where the General Staff of the Albanian National Liberation Army was formed, making Labinot a symbol of resistance against wartime occupation. Today, the municipality functions as an essential agricultural hub, thriving on the fertile alluvial soil of the Shkumbin River plain. Labinot-Fushë is noted for its intensive vegetable farming and serves as a major service point along the national highway leading to North Macedonia. The surrounding area offers scenic river vistas and mountain backdrops, while historical monuments commemorate the village's pivotal role during World War II."
+    },
+    factsAdvanced: {
+      de: ["Gründungsort des Generalstabs der Befreiungsarmee (1943)", "Strategisch gelegen im Shkumbin-Flusstal", "Wichtiges Zentrum für intensiven Gemüseanbau", "Liegt an der Hauptroute nach Pogradec und Korça", "Beherbergt historische Gedenkstätten des Nationalen Widerstands", "Bedeutender Versorgungsstopp für Reisende nach Osten", "Umgeben von markanten Kalksteingebirgen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-poshnje-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Poshnjë", hu: "Poshnjë", ro: "Poshnjë", en: "Poshnjë" },
+    coordinates: { lat: 40.8167, lng: 19.7417 },
+    description: {
+      de: "Poshnjë ist ein wichtiges landwirtschaftliches Zentrum in der Myzeqe-Ebene, nördlich von Berat. Es ist bekannt für seine großen Gewächshäuser und den Gemüseexport.",
+      hu: "Poshnjë egy fontos mezőgazdasági központ a Myzeqe-síkságon, Berat-tól északra. Nagy üvegházairól és zöldségexportjáról ismert.",
+      ro: "Poshnjë este un centru agricol important din câmpia Myzeqe, la nord de Berat. Este cunoscut pentru serele sale mari și exportul de legume.",
+      en: "Poshnjë is an important agricultural center in the Myzeqe plain, north of Berat. It is known for its large greenhouses and vegetable export.",
+    },
+    facts: {
+      de: ["Größter Gewächshaus-Hub Zentralalbaniens", "Wichtiger Lieferant für regionale Märkte", "Liegt an der Straße Fier-Berat", "Spezialisiert auf Tomaten und Paprika"],
+      hu: ["Közép-Albánia legnagyobb üvegház-csomópontja", "Regionális piacok fontos beszállítója", "A Fier-Berat út mentén fekszik", "Paradicsom- és paprikatermesztésre szakosodott"],
+      ro: ["Cel mai mare hub de sere din centrul Albaniei", "Furnizor important pentru piețele regionale", "Situat pe drumul Fier-Berat", "Specializat în roșii și ardei"],
+      en: ["Largest greenhouse hub in central Albania", "Important supplier for regional markets", "Located on the Fier-Berat road", "Specialized in tomatoes and peppers"],
+    },
+    imageHint: "Greenhouses and farms in Poshnjë",
+    descriptionAdvanced: {
+      de: "Poshnjë ist ein Kraftzentrum der albanischen Landwirtschaft in der Myzeqe-Ebene, nördlich von Berat. Die Stadt ist landesweit bekannt für ihre gewaltigen Gewächshauskomplexe, die zu den größten und modernsten des Balkans zählen. Hier werden das ganze Jahr über Gemüse und Obst produziert, die nicht nur den albanischen Markt versorgen, sondern in großen Mengen in die Europäische Union exportiert werden. Poshnjë hat sich durch diese Spezialisierung zu einem dynamischen Wirtschaftsknotenpunkt entwickelt, der zahlreiche Arbeitsplätze in der Region schafft. Die flache, sonnenverwöhnte Landschaft ist geprägt von endlosen Reihen gläserner und plastischer Strukturen, die Zeugnis von Albaniens Potenzial als 'Garten Europas' ablegen. Trotz des modernen Agrarbusiness bewahrt die Stadt den herzlichen Charakter einer ländlichen Gemeinschaft im Hinterland von Berat.",
+      hu: "Poshnjë az albán mezőgazdaság egyik motorja a Myzeqe-síkságon, Berattól északra. A város országszerte hatalmas üvegházkomplekszumairól ismert, amelyek a Balkán legnagyobb és legmodernebb létesítményei közé tartoznak. Itt egész évben folyik a zöldség- és gyümölcstermesztés, amely nemcsak az albán piacot látja el, hanem jelentős mennyiségben exportálják az Európai Unióba is. Poshnjë ezen specializáció révén dinamikus gazdasági csomóponttá fejlődött, amely számos munkahelyet teremt a régióban. A sík, napsütötte tájat üveg- és fóliaszerkezetek végtelen sorai jellemzik, amelyek Albánia 'Európa kertjeként' való potenciáljáról tanúskodnak. A modern agrárüzlet ellenére a város megőrizte a Berat hátországára jellemző vidéki közösség szívélyes karakterét.",
+      ro: "Poshnjë este un motor al agriculturii albaneze în câmpia Myzeqe, la nord de Berat. Orașul este cunoscut la nivel național pentru complexele sale vaste de sere, care se numără printre cele mai mari și mai moderne din Balcani. Aici se produc legume și fructe pe tot parcursul anului, aprovizionând nu doar piața albaneză, ci fiind exportate în cantități mari către Uniunea Europeană. Poshnjë s-a dezvoltat datorită acestei specializări într-un hub economic dinamic, creând numeroase locuri de muncă în regiune. Peisajul plat și însorit este definit de rânduri nesfârșite de structuri din sticlă și plastic, care stau mărturie potențialului Albaniei de a fi 'grădina Europei'. În ciuda afacerilor agricole moderne, orașul păstrează caracterul cald al unei comunități rurale din interiorul regiunii Berat.",
+      en: "Poshnjë is a powerhouse of Albanian agriculture located in the Myzeqe plain, north of Berat. The town is nationally famous for its massive greenhouse complexes, which are among the largest and most technologically advanced in the Balkans. These facilities allow for year-round production of vegetables and fruits, supplying domestic markets and exporting significantly to the European Union. This specialization has turned Poshnjë into a dynamic economic hub, providing vital employment for the surrounding region. The flat, sun-drenched landscape is characterized by endless rows of modern greenhouses, showcasing Albania's potential as a premier agricultural exporter. Despite its modern industrial farming, the town retains the friendly and welcoming spirit of a rural community in the Berat heartland."
+    },
+    factsAdvanced: {
+      de: ["Größtes Zentrum für Gewächshaus-Produktion in Albanien", "Wichtiger Exporteur von Gemüse in die EU", "Strategisch gelegen an der Hauptstraße Fier-Berat", "Zentrum für modernste Agrartechnologie im Land", "Beherbergt große Logistikzentren für den Agrarexport", "Spezialisiert auf Tomaten, Gurken und Paprika", "Wirtschaftlicher Motor der Region Myzeqe-Berat"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-bubullime-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Bubullimë", hu: "Bubullimë", ro: "Bubullimë", en: "Bubullimë" },
+    coordinates: { lat: 40.8667, lng: 19.6167 },
+    description: {
+      de: "Bubullimë ist ein Dorf in der Region Lushnja, das für seinen bedeutenden Beitrag zur albanischen Unabhängigkeitsbewegung bekannt ist.",
+      hu: "Bubullimë egy falu Lushnja régióban, amely az albán függetlenségi mozgalomhoz való jelentős hozzájárulásáról ismert.",
+      ro: "Bubullimë este un sat din regiunea Lushnja, cunoscut pentru contribuția sa semnificativă la mișcarea de independență a Albaniei.",
+      en: "Bubullimë is a village in the Lushnja region known for its significant contribution to the Albanian independence movement.",
+    },
+    facts: {
+      de: ["Teil der fruchtbaren Myzeqe-Ebene", "Geburtsort lokaler Patrioten", "Zentrum für Weizen- und Maisanbau", "Historisch Teil der Gemeinde Lushnja"],
+      hu: ["A termékeny Myzeqe-síkság része", "Helyi patrióták szülőhelye", "Búza- és kukoricatermesztési központ", "Történelmileg Lushnja község része"],
+      ro: ["Parte a câmpiei fertile Myzeqe", "Locul de naștere al unor patrioți locali", "Centru pentru cultura grâului și porumbului", "Istoric parte a municipalității Lushnja"],
+      en: ["Part of the fertile Myzeqe plain", "Birthplace of local patriots", "Center for wheat and maize cultivation", "Historically part of Lushnja municipality"],
+    },
+    imageHint: "Agriculture village Bubullimë in plain",
+    descriptionAdvanced: {
+      de: "Bubullimë ist ein geschichtsträchtiges Dorf im Herzen der Myzeqe-Ebene, unweit von Lushnja. Der Ort ist tief in der albanischen Unabhängigkeitsbewegung verwurzelt und war die Heimat zahlreicher Patrioten, die für die Befreiung des Landes kämpften. Wirtschaftlich ist Bubullimë ein bedeutendes Zentrum für den Getreide- und Sonnenblumenanbau, begünstigt durch die extrem fruchtbaren Böden der Region. Die Architektur des Dorfes bewahrt viele traditionelle Merkmale der zentralalbanischen Landhäuser. In der Umgebung von Bubullimë finden sich zahlreiche Bewässerungskanäle, die die Grundlage für die produktive Landwirtschaft bilden. Der Ort ist ein lebendiges Beispiel für die Beständigkeit der ländlichen Traditionen in der Myzeqe und bleibt ein stolzes Symbol für den lokalen Patriotismus und die landwirtschaftliche Stärke Albaniens.",
+      hu: "Bubullimë egy történelmi falu a Myzeqe-síkság szívében, Lushnja közelében. A település mélyen gyökerezik az albán függetlenségi mozgalomban, és számos patrióta otthona volt, akik az ország felszabadításáért küzdöttek. Gazdaságilag Bubullimë jelentős gabona- és napraforgó-termesztési központ, amit a régió rendkívül termékeny talaja tesz lehetővé. A falu építészete számos hagyományos közép-albániai vidéki ház stílusjegyeit őrzi. Bubullimë környékén számos öntözőcsatorna található, amelyek a termelékeny mezőgazdaság alapját képezik. A település a myzeqei vidéki hagyományok állandóságának élő példája, és továbbra is a helyi hazafiság és Albánia mezőgazdasági erejének büszke szimbóluma.",
+      ro: "Bubullimë este un sat încărcat de istorie din inima câmpiei Myzeqe, situat nu departe de Lushnja. Localitatea are rădăcini adânci în mișcarea de independență a Albaniei, fiind casa multor patrioți care au luptat pentru eliberarea țării. Din punct de vedere economic, Bubullimë este un centru important pentru cultivarea cerealelor și a florii-soarelui, favorizat de solurile extrem de fertile ale regiunii. Arhitectura satului păstrează multe caracteristici tradiționale ale caselor rurale din centrul Albaniei. În împrejurimile localității Bubullimë se găsesc numeroase canale de irigații, care stau la baza agriculturii productive. Satul este un exemplu viu al perseverenței tradițiilor rurale din Myzeqe și rămâne un simbol mândru al patriotismului local și al forței agricole a Albaniei.",
+      en: "Bubullimë is a village rich in history located in the heart of the Myzeqe plain, near the town of Lushnja. The settlement is deeply connected to the Albanian national movement, having been the birthplace of many patriots who fought for the country's independence. Economically, Bubullimë serves as a significant hub for grain and sunflower production, benefiting from the exceptionally fertile soils typical of this region. The village's architecture preserves many traditional features of central Albanian rural dwellings. The area around Bubullimë is defined by an extensive network of irrigation canals that support its high agricultural yields. It stands as a living testament to the enduring rural traditions of the Myzeqe and remains a proud symbol of local patriotism and agricultural resilience."
+    },
+    factsAdvanced: {
+      de: ["Historischer Geburtsort lokaler Patrioten und Freiheitskämpfer", "Zentrum des Getreideanbaus in der Region Lushnja", "Bedeutender Standort für die Produktion von Sonnenblumenöl", "Liegt in der fruchtbarsten Zone der Myzeqe-Ebene", "Bewahrt traditionelle zentralalbanische Steinarchitektur", "Wichtiger Versorgungsmarkt für umliegende Dörfer", "Symbol für den landwirtschaftlichen Wohlstand Mittelalbaniens"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-karbunare-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Karbunarë", hu: "Karbunarë", ro: "Karbunarë", en: "Karbunarë" },
+    coordinates: { lat: 40.9383, lng: 19.7336 },
+    description: {
+      de: "Karbunarë ist ein Vorort von Lushnja, der als wichtiges landwirtschaftliches und industrielles Tor zur Myzeqe-Ebene dient.",
+      hu: "Karbunarë Lushnja külvárosa, amely fontos mezőgazdasági és ipari kapuként szolgál a Myzeqe-síkság felé.",
+      ro: "Karbunarë este o suburbie a orașului Lushnja, servind ca o importantă poartă agricolă și industrială către câmpia Myzeqe.",
+      en: "Karbunarë is a suburb of Lushnja, serving as an important agricultural and industrial gateway to the Myzeqe plain.",
+    },
+    facts: {
+      de: ["Standort lokaler Fertigungsbetriebe", "Wichtiger Bahnstopp der Region", "Zentrum für Saatgutproduktion", "Gute Anbindung an die Stadt Lushnja"],
+      hu: ["Helyi gyártóüzemek helyszíne", "A régió fontos vasúti megállója", "Vetőmagtermelési központ", "Jó összeköttetés Lushnja városával"],
+      ro: ["Locația unor întreprinderi locale de producție", "Stație de cale ferată importantă în regiune", "Centru pentru producția de semințe", "Conexiune bună cu orașul Lushnja"],
+      en: ["Site of local manufacturing plants", "Important railway stop in the region", "Center for seed production", "Good connection to Lushnja city"],
+    },
+    imageHint: "Karbunare suburb houses and industry",
+    descriptionAdvanced: {
+      de: "Karbunarë ist eine geschäftige Vorstadtgemeinde von Lushnja, die am Übergang zwischen der weiten Myzeqe-Ebene und den sanften Hügelketten Zentralalbaniens liegt. Der Ort dient als wichtiges landwirtschaftliches und gewerbliches Tor für die Region und profitiert von seiner direkten Anbindung an die städtische Infrastruktur. Karbunarë ist bekannt für seine produktiven Obstgärten und Olivenhaine, die die umliegenden Hänge säumen. Die Gemeinde hat sich in den letzten Jahren zu einem dynamischen Wohngebiet entwickelt, das die traditionelle ländliche Lebensweise mit moderner gewerblicher Tätigkeit verbindet. Die Nähe zu Lushnja macht Karbunarë zu einem wichtigen Versorgungszentrum für Agrarprodukte und zu einem lebendigen Ort des lokalen Handels.",
+      hu: "Karbunarë Lushnja forgalmas elővárosi közössége, amely a kiterjedt Myzeqe-síkság és Közép-Albánia szelíd dombvonulatai közötti átmeneti területen fekszik. A település a régió fontos mezőgazdasági és kereskedelmi kapujaként szolgál, és profitál a városi infrastruktúrához való közvetlen kapcsolódásból. Karbunarë termelékeny gyümölcsöskertjeiről és olajfaligeteiről ismert, amelyek a környező domboldalakat borítják. A közösség az elmúlt években dinamikus lakóövezetté fejlődött, amely ötvözi a hagyományos vidéki életmódot a modern kereskedelmi tevékenységgel. Lushnja közelsége miatt Karbunarë a mezőgazdasági termékek fontos ellátó központjává és a helyi kereskedelem életteli helyszínévé vált.",
+      ro: "Karbunarë este o comunitate suburbană agitată a orașului Lushnja, situată la tranziția dintre vasta câmpie Myzeqe și lanțurile deluroase domoale din centrul Albaniei. Localitatea servește drept poartă agricolă și comercială importantă pentru regiune, beneficiind de conexiunea directă cu infrastructura urbană. Karbunarë este renumit pentru livezile sale productive de pomi fructiferi și măslini care acoperă pantele din jur. Comunitatea s-a dezvoltat în ultimii ani într-o zonă rezidențială dinamică, ce îmbină stilul de viață rural tradițional cu activitățile comerciale moderne. Proximitatea față de Lushnja face din Karbunarë un centru vital de aprovizionare pentru produse agricole și un loc vibrant al comerțului local.",
+      en: "Karbunarë is a bustling suburban community of Lushnja, located at the transitional zone where the vast Myzeqe plain meets the rolling hills of central Albania. The town serves as a vital agricultural and commercial gateway for the region, benefiting from its seamless connection to urban infrastructure. Karbunarë is noted for its productive orchards and olive groves that terrace the surrounding hillsides. Over recent years, the community has evolved into a dynamic residential area that balances traditional rural life with modern commercial activities. Its close proximity to Lushnja positions Karbunarë as an essential hub for agricultural distribution and a lively center for local regional trade."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Vorort und Wirtschaftstor zu Lushnja", "Zentrum für den Anbau von Pfirsichen und Oliven", "Strategisch günstig am Rande der Myzeqe-Ebene gelegen", "Wichtiger Standort für lokale Fertigungsbetriebe", "Bekannt für seine produktiven Obstbau-Plantagen", "Dient als logistisches Bindeglied zur Hügelregion", "Bedeutender Ort für den regionalen Wochenmarkt"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-dushk-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Dushk", hu: "Dushk", ro: "Dushk", en: "Dushk" },
+    coordinates: { lat: 41.0083, lng: 19.6836 },
+    description: {
+      de: "Dushk ist eine Ortschaft in der Region Lushnja, bekannt für ihre produktive Landwirtschaft und ihre Lage an der wichtigsten Nord-Süd-Verkehrsachse.",
+      hu: "Dushk egy település Lushnja régióban, amely termelékeny mezőgazdaságáról és a legfontosabb észak-déli közlekedési tengelyen való elhelyezkedéséről ismert.",
+      ro: "Dushk este o localitate din regiunea Lushnja, cunoscută pentru agricultura sa productivă și amplasarea pe principala axă de transport nord-sud.",
+      en: "Dushk is a settlement in the Lushnja region known for its productive agriculture and location on the main north-south transport axis.",
+    },
+    facts: {
+      de: ["Wichtiger Lieferant von Feldfrüchten", "Liegt an der Nationalstraße SH4", "Zentrum für Molkereiprodukte", "Teil der fruchtbaren Myzeqe-Zone"],
+      hu: ["Szántóföldi növények fontos beszállítója", "Az SH4-es főút mentén fekszik", "Tejtermékek központja", "A termékeny Myzeqe-övezet része"],
+      ro: ["Furnizor important de culturi de câmp", "Situat pe drumul național SH4", "Centru pentru produse lactate", "Parte a zonei fertile Myzeqe"],
+      en: ["Important supplier of field crops", "Located on the SH4 national road", "Center for dairy products", "Part of the fertile Myzeqe zone"],
+    },
+    imageHint: "Dushk village landscape in Myzeqe plain",
+    descriptionAdvanced: {
+      de: "Dushk ist ein bedeutendes landwirtschaftliches Zentrum in der Region Lushnja, das strategisch günstig an der wichtigsten Nord-Süd-Verkehrsachse Albaniens, der Nationalstraße SH4, liegt. Der Ort ist das pulsierende Herz eines intensiv genutzten Agrargebietes, das für seine großen Gewächshäuser und modernen Farmbetriebe bekannt ist. Dushk spielt eine zentrale Rolle in der nationalen Lebensmittelversorgung, insbesondere bei der Produktion von frischem Gemüse und Molkereiprodukten. Die flache Myzeqe-Landschaft um Dushk ist geprägt von weiten Feldern und einer dynamischen agrarindustriellen Entwicklung. Reisende schätzen den Ort oft als wichtigen Versorgungshalt, während die lokale Gemeinschaft für ihre produktive Arbeitsmoral und ihren bedeutenden Beitrag zum albanischen Agrarexport bekannt ist.",
+      hu: "Dushk Lushnja régiójának egyik jelentős mezőgazdasági központja, amely stratégiai helyen, Albánia legfontosabb észak-déli közlekedési tengelye, az SH4-es főút mentén fekszik. A település egy intenzíven művelt agrárvidék lüktető szíve, amely nagy üvegházairól és modern farmgazdaságairól ismert. Dushk központi szerepet játszik az országos élelmiszerellátásban, különös tekintettel a friss zöldségek és tejtermékek termelésére. A Dushk körüli sík myzeqei tájat kiterjedt szántóföldek és dinamikus agrár-ipari fejlődés jellemzi. Az utazók gyakran fontos pihenőhelyként tekintenek a településre, míg a helyi közösség termelékeny munkamoráljáról és az albán agrárexporthoz való jelentős hozzájárulásáról ismert.",
+      ro: "Dushk este un centru agricol semnificativ din regiunea Lushnja, situat strategic pe principala axă de transport nord-sud a Albaniei, drumul național SH4. Localitatea este inima vibrantă a unei zone agrare utilizate intensiv, fiind renumită pentru serele sale vaste și fermele moderne. Dushk joacă un rol central în aprovizionarea națională cu alimente, în special în producția de legume proaspete și produse lactate. Peisajul plat din Myzeqe din jurul orașului Dushk este marcat de câmpuri întinse și de o dezvoltare agroindustrială dinamică. Călătorii apreciază adesea localitatea ca pe un popas important pentru aprovizionare, în timp ce comunitatea locală este cunoscută pentru etica muncii productive și contribuția sa majoră la exportul agricol al Albaniei.",
+      en: "Dushk is a prominent agricultural hub in the Lushnja region, strategically positioned along Albania's primary north-south transport artery, the SH4 highway. The town serves as the bustling heart of an intensively cultivated farming district, famed for its large-scale greenhouse complexes and modern dairy operations. Dushk plays a pivotal role in national food security, specializing in the production of fresh vegetables and dairy products. The flat Myzeqe landscape surrounding Dushk is defined by expansive fields and dynamic agro-industrial growth. While travelers often see it as a convenient supply stop, the local community is widely recognized for its productive work ethic and significant contribution to Albania's agricultural exports."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Knotenpunkt an der Nationalstraße SH4", "Zentrum der Gemüseproduktion in der Region Lushnja", "Bedeutender Standort für die lokale Milchwirtschaft", "Liegt im Zentrum der fruchtbaren Myzeqe-Ebene", "Wichtiger Durchgangspunkt für den Handel nach Südalbanien", "Beherbergt zahlreiche moderne Gewächshäuser", "Versorgungszentrum für die umliegende Agrarregion"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-grabian-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Grabian", hu: "Grabian", ro: "Grabian", en: "Grabian" },
+    coordinates: { lat: 40.95, lng: 19.5836 },
+    description: {
+      de: "Grabian ist ein landwirtschaftlich geprägtes Dorf in der Myzeqe-Ebene. Es ist bekannt für seine fortschrittlichen Meliorationssysteme und die Viehzucht.",
+      hu: "Grabian egy mezőgazdasági jellegű falu a Myzeqe-síkságon. Fejlett meliorációs rendszereiről és állattenyésztéséről ismert.",
+      ro: "Grabian este un sat cu profil agricol din câmpia Myzeqe. Este cunoscut pentru sistemele sale avansate de îmbunătățiri funciare și creșterea animalelor.",
+      en: "Grabian is an agricultural village in the Myzeqe plain. It is known for its advanced land reclamation systems and livestock farming.",
+    },
+    facts: {
+      de: ["Wichtiger Produzent von Tierfutter", "In der Nähe der Karavasta-Lagune", "Zentrum der lokalen Milchwirtschaft", "Liegt in einer flachen Polderregion"],
+      hu: ["Fontos takarmánygyártó", "A Karavasta-lagúna közelében", "A helyi tejipar központja", "Lapos polder régióban fekszik"],
+      ro: ["Producător important de furaje", "În apropierea lagunei Karavasta", "Centru al industriei lactate locale", "Situat într-o regiune de poldere plate"],
+      en: ["Important producer of animal feed", "Near the Karavasta Lagoon", "Center of local dairy industry", "Located in a flat polder region"],
+    },
+    imageHint: "Farms and fields in Grabian plain",
+    descriptionAdvanced: {
+      de: "Grabian liegt in einem einzigartigen polderartigen Gebiet der Myzeqe-Ebene, unweit der Lagune von Karavasta. Die Geschichte des Ortes ist untrennbar mit den massiven Meliorationsarbeiten und Landgewinnungsprojekten der Nachkriegszeit verbunden, die sumpfiges Ödland in hochproduktives Ackerland verwandelten. Heute ist Grabian ein Vorzeigemodell für die albanische Viehzucht und Getreideproduktion. Die Gemeinde profitiert von einem ausgeklügelten System von Bewässerungs- und Entwässerungskanälen, die die flache Landschaft durchziehen. Grabian bewahrt eine ruhige, ländliche Atmosphäre und ist ein wichtiges Zentrum für die Fleisch- und Milchproduktion der Region. Die Nähe zum Divjaka-Karavasta Nationalpark verleiht der Region zudem ein besonderes ökologisches Profil, in dem Landwirtschaft und Naturschutz aufeinandertreffen.",
+      hu: "Grabian a Myzeqe-síkság egyedülálló, polder-jellegű területén fekszik, nem messze a Karavasta-lagúnától. A település története elválaszthatatlan a háború utáni nagyszabású talajjavítási és földvisszanyerési projektektől, amelyek a mocsaras területet rendkívül termelékeny szántófölddé alakították. Ma Grabian az albán állattenyésztés és gabonatermelés mintaképe. A közösség a tájat átszelő kifinomult öntöző- és csatornarendszer előnyeit élvezi. Grabian megőrizte nyugodt, vidéki hangulatát, és a régió hús- és tejtermelésének fontos központja. A Divjaka-Karavasta Nemzeti Park közelsége különleges ökológiai arculatot ad a régiónak, ahol a mezőgazdaság és a természetvédelem találkozik.",
+      ro: "Grabian este situat într-o zonă unică de poldere din câmpia Myzeqe, nu departe de laguna Karavasta. Istoria localității este inseparabil legată de lucrările masive de îmbunătățiri funciare și proiectele de desecare postbelice, care au transformat zonele mlăștinoase în terenuri agricole extrem de productive. Astăzi, Grabian este un model pentru creșterea animalelor și producția de cereale din Albania. Comunitatea beneficiază de un sistem sofisticat de canale de irigații și drenaj care traversează peisajul plat. Grabian păstrează o atmosferă rurală liniștită și este un centru vital pentru producția de carne și lactate din regiune. Proximitatea față de Parcul Național Divjakă-Karavasta oferă regiunii un profil ecologic special, unde agricultura se întâlnește cu conservarea naturii.",
+      en: "Grabian is located in a unique polder-like district of the Myzeqe plain, situated near the Karavasta Lagoon. The town's modern history is defined by the massive land reclamation and drainage projects of the post-war era, which transformed treacherous marshes into highly productive farmland. Today, Grabian serves as a showcase for Albanian livestock farming and grain production. The community relies on an intricate network of irrigation and drainage canals that crisscross the flat terrain. Grabian maintains a peaceful, rural ambiance and functions as an essential hub for regional meat and dairy supplies. Its location near the Divjakë-Karavasta National Park adds a distinctive ecological dimension to the area, where intensive farming meets natural conservation efforts."
+    },
+    factsAdvanced: {
+      de: ["Erbaut auf durch Entwässerung gewonnenem Neuland", "Wichtiges Zentrum für Rinder- und Schafzucht", "Liegt in unmittelbarer Nähe zur Karavasta-Lagune", "Bekannt für seine fortschrittlichen Meliorationssysteme", "Bedeutender Produzent von Futtermais und Getreide", "Ruhiger, ländlicher Charakter abseits der Hauptverkehrswege", "Wichtiger Standort der regionalen Milchwirtschaft"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-zharrez-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Zharrëz", hu: "Zharrëz", ro: "Zharrëz", en: "Zharrëz" },
+    coordinates: { lat: 40.7167, lng: 19.6436 },
+    description: {
+      de: "Zharrëz ist eine bedeutende Industriestadt in der Nähe von Fier, die im Zentrum der albanischen Erdölförderung liegt.",
+      hu: "Zharrëz egy jelentős ipari város Fier közelében, amely az albán kőolajkitermelés központjában fekszik.",
+      ro: "Zharrëz este un oraș industrial semnificativ de lângă Fier, situat în centrul extracției de petrol din Albania.",
+      en: "Zharrëz is a significant industrial town near Fier, located at the center of Albanian oil extraction.",
+    },
+    facts: {
+      de: ["Kerngebiet des Patos-Marinza Ölfelds", "Wichtiger Standort für Ölbohrtürme", "Zentrum der lokalen Energieindustrie", "Häufiger Fokus von Umweltprojekten"],
+      hu: ["A Patos-Marinza olajmező magterülete", "Olajfúró tornyok fontos helyszíne", "A helyi energiaipar központja", "Gyakran áll környezetvédelmi projektek fókuszában"],
+      ro: ["Zona centrală a câmpului petrolifer Patos-Marinza", "Locație importantă pentru sondele de petrol", "Centru al industriei energetice locale", "Focus frecvent al proiectelor de mediu"],
+      en: ["Core area of Patos-Marinza oil field", "Important site for oil derricks", "Center of local energy industry", "Frequent focus of environmental projects"],
+    },
+    imageHint: "Oil derricks and industrial landscape in Zharrëz",
+    descriptionAdvanced: {
+      de: "Zharrëz ist ein kritischer Knotenpunkt der albanischen Energieindustrie und liegt im Herzen des Patos-Marinza-Ölfeldes, dem größten Onshore-Ölvorkommen Kontinentaleuropas. Das Stadtbild ist geprägt von der industriellen Dynamik der Erdölförderung, mit zahlreichen Bohrtürmen und Förderanlagen, die die umliegende Landschaft dominieren. Zharrëz ist ein Symbol für Albaniens mineralischen Reichtum, aber auch ein Ort, an dem die Herausforderungen der industriellen Entwicklung und des Umweltschutzes täglich spürbar sind. Die Stadt beherbergt eine spezialisierte Arbeiterschaft und ist ein wichtiges logistisches Zentrum für internationale Energieunternehmen. Trotz der industriellen Prägung bewahrt die Gemeinde Verbindungen zur traditionellen Landwirtschaft der Region Fier und ist ein Ort von strategischer nationaler Bedeutung für den Export von Rohstoffen.",
+      hu: "Zharrëz az albán energiaipar egyik kritikus csomópontja, a Patos-Marinza olajmező szívében fekszik, amely az európai kontinens legnagyobb szárazföldi kőolajlelőhelye. A városképet a kőolajkitermelés ipari dinamizmusa határozza meg; számos fúrótorony és kitermelő berendezés dominálja a környező tájat. Zharrëz Albánia ásványkincsekben való gazdagságának szimbóluma, de egyben olyan hely is, ahol az ipari fejlődés és a környezetvédelem kihívásai naponta érezhetőek. A város speciálisan képzett munkaerőnek ad otthont, és a nemzetközi energiacégek fontos logisztikai központja. Az ipari jelleg ellenére a közösség őrzi kötődését a Fier-régió hagyományos mezőgazdaságához, és stratégiai nemzeti jelentőségű helyszín a nyersanyagexport szempontjából.",
+      ro: "Zharrëz este un nod critic al industriei energetice albaneze, situat în inima câmpului petrolifer Patos-Marinza, cea mai mare rezervă de petrol onshore din Europa continentală. Peisajul urban este definit de dinamismul industrial al extracției de țiței, cu numeroase sonde și instalații de pompare care domină împrejurimile. Zharrëz este un simbol al bogăției minerale a Albaniei, dar și un loc unde provocările dezvoltării industriale și ale protecției mediului sunt resimțite zilnic. Orașul găzduiește o forță de muncă specializată și este un centru logistic important pentru companiile energetice internaționale. În ciuda amprentei industriale, comunitatea păstrează legături cu agricultura tradițională din regiunea Fier, fiind un loc de o importanță strategică națională pentru exportul de materii prime.",
+      en: "Zharrëz is a critical hub of the Albanian energy sector, located at the heart of the Patos-Marinza oil field—the largest onshore oil deposit in continental Europe. The town's identity is forged by the industrial dynamism of petroleum extraction, with numerous derricks and pumping stations dominating the local landscape. Zharrëz stands as a symbol of Albania’s mineral wealth, yet it is also a place where the complex balance between industrial progress and environmental stewardship is a daily reality. Home to a specialized workforce, the town serves as an essential logistical base for international energy firms. Despite the industrial backdrop, the community maintains its roots in the traditional farming of the Fier region, holding strategic national importance for the country's commodity exports."
+    },
+    factsAdvanced: {
+      de: ["Zentrum des größten Onshore-Ölfeldes in Europa", "Strategischer Standort für internationale Energiekonzerne", "Wichtiger Logistikknoten für die Erdölförderung", "Liegt im Kerngebiet der Region Patos-Marinza", "Bedeutender Beitrag zum albanischen Bruttoinlandsprodukt", "Fokus nationaler und internationaler Umweltprojekte", "Wirtschaftliches Zentrum der Energiewirtschaft bei Fier"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-brataj-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Brataj", hu: "Brataj", ro: "Brataj", en: "Brataj" },
+    coordinates: { lat: 40.35, lng: 19.6667 },
+    description: {
+      de: "Brataj ist ein malerisches Bergdorf im Tal des Flusses Shushica, südlich von Vlorë. Es ist bekannt für seine historische Steinbrücke und die raue Berglandschaft.",
+      hu: "Brataj egy festői hegyi falu a Shushica-folyó völgyében, Vlorë-tól délre. Történelmi kőhídjáról és vadregényes hegyi tájáról ismert.",
+      ro: "Brataj este un sat montan pitoresc din valea râului Shushica, la sud de Vlorë. Este cunoscut pentru podul său istoric de piatră și peisajul montan sălbatic.",
+      en: "Brataj is a picturesque mountain village in the Shushica river valley, south of Vlorë. It is known for its historical stone bridge and rugged mountain scenery.",
+    },
+    facts: {
+      de: ["Standort einer osmanischen Steinbrücke", "Historisches Zentrum der Shushica-Region", "Bekannt für traditionelle Schafzucht", "Wichtiger Stützpunkt während des Nationalen Befreiungskampfes"],
+      hu: ["Egy oszmán kori kőhíd helyszíne", "A Shushica-régió történelmi központja", "Hagyományos juhtenyésztéséről ismert", "Fontos bázis a nemzeti felszabadító harc idején"],
+      ro: ["Locația unui pod de piatră otoman", "Centrul istoric al regiunii Shushica", "Cunoscut pentru creșterea tradițională a oilor", "Bază importantă în timpul luptei de eliberare națională"],
+      en: ["Site of an Ottoman stone bridge", "Historical center of the Shushica region", "Known for traditional sheep farming", "Important base during National Liberation struggle"],
+    },
+    imageHint: "Old stone bridge and mountains in Brataj",
+    descriptionAdvanced: {
+      de: "Brataj ist ein geschichtsträchtiges und malerisches Dorf im Tal des Flusses Shushica, tief im Hinterland von Vlorë gelegen. Der Ort ist berühmt für seine spektakuläre osmanische Steinbrücke aus dem 18. Jahrhundert, die sich elegant über den glasklaren Fluss spannt und ein wichtiges Kulturdenkmal darstellt. Brataj liegt eingebettet in die raue Bergwelt des Labëria-Hochlandes und ist bekannt für seine heldenhafte Rolle während des Nationalen Befreiungskampfes im Zweiten Weltkrieg. Die Architektur des Dorfes ist geprägt von traditionellen Steinhäusern, die harmonisch in die terrassierte Landschaft eingefügt sind. Heute zieht Brataj vor allem Naturliebhaber und Wanderer an, die die unberührte Schönheit des Shushica-Tals, die lokale Käseproduktion und die tiefe, archaische Folklore der Labë-Region erleben möchten.",
+      hu: "Brataj egy történelmi és festői falu a Shushica-folyó völgyében, Vlorë hátországának mélyén. A település híres a 18. századi oszmán kőhídjáról, amely elegánsan ível át a kristálytiszta folyó felett, és fontos műemléknek számít. Brataj a Labëria-felföld vadregényes hegyvilágában fekszik, és a második világháborús nemzeti felszabadító harcban betöltött hősies szerepéről ismert. A falu építészetét a teraszos tájba harmonikusan illeszkedő hagyományos kőházak jellemzik. Ma Brataj elsősorban a természetbarátokat és a túrázókat vonzza, akik a Shushica-völgy érintetlen szépségét, a helyi sajttermelést és a Labë-régió mély, archaikus folklórját szeretnék megismerni.",
+      ro: "Brataj este un sat pitoresc și încărcat de istorie din valea râului Shushica, situat adânc în interiorul regiunii Vlorë. Localitatea este celebră pentru podul său spectaculos din piatră din perioada otomană (secolul al XVIII-lea), care se întinde elegant peste râul cristalin și reprezintă un monument cultural major. Brataj este cuibărit în lumea montană aspră a podișului Labëria și este cunoscut pentru rolul său eroic în timpul luptei de eliberare națională din cel de-al Doilea Război Mondial. Arhitectura satului este definită de case tradiționale din piatră, integrate armonios în peisajul terasat. Astăzi, Brataj atrage în special iubitorii de natură și drumeții care doresc să experimenteze frumusețea neatinsă a văii Shushica, producția locală de brânzeturi și folclorul arhaic profund al regiunii Labë.",
+      en: "Brataj is a scenic and historic village nestled in the Shushica River valley, deep within the Vlorë hinterland. The village is renowned for its spectacular 18th-century Ottoman stone bridge, which arches gracefully over the crystalline river and stands as a major protected monument. Perched within the rugged peaks of the Labëria highlands, Brataj is celebrated for its heroic role during the National Liberation struggle of World War II. The traditional stone architecture of the village is harmoniously integrated into the terraced mountain landscape. Today, Brataj attracts nature lovers and hikers seeking the unspoiled beauty of the Shushica Valley, the authentic local cheese production, and the deep, archaic folklore of the Labë region."
+    },
+    factsAdvanced: {
+      de: ["Heimat einer monumentalen osmanischen Steinbrücke (18. Jh.)", "Wichtiges historisches Zentrum der Labëria-Region", "Ort bedeutender Partisanenschlachten im Zweiten Weltkrieg", "Liegt im unberührten Tal des Flusses Shushica", "Bekannt für exzellenten Schafskäse und Bergtee", "Besitzt traditionelle Steinarchitektur und terrassierte Gärten", "Ausgangspunkt für Wanderungen in die Cika-Berge"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-kote-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Kotë", hu: "Kotë", ro: "Kotë", en: "Kotë" },
+    coordinates: { lat: 40.4833, lng: 19.6 },
+    description: {
+      de: "Kotë ist ein strategisch gelegenes Dorf im Hinterland von Vlorë. Es dient als lokaler Marktplatz für das Shushica-Tal und ist geschichtlich für die Schlacht von 1920 bekannt.",
+      hu: "Kotë egy stratégiailag fekvő falu Vlorë hátországában. A Shushica-völgy helyi piacaként szolgál, és az 1920-as csatáról ismert.",
+      ro: "Kotë este un sat situat strategic în interiorul regiunii Vlorë. Servește ca piață locală pentru valea Shushica și este cunoscut istoric pentru bătălia din 1920.",
+      en: "Kotë is a strategically located village in the hinterland of Vlorë. It serves as a local marketplace for the Shushica valley and is historically known for the 1920 battle.",
+    },
+    facts: {
+      de: ["Wichtiger Punkt der Vlora-Kriegsgeschichte", "Zentrum des lokalen Weinhandels", "Liegt an der Kreuzung nach Tepelenë", "Bekannt für seine Olivenhaine"],
+      hu: ["A vlorai háború történetének fontos pontja", "A helyi borkereskedelem központja", "A Tepelenë felé vezető út kereszteződésében", "Olajfaligeteiről ismert"],
+      ro: ["Punct important în istoria războiului din Vlora", "Centru al comerțului local cu vin", "Situat la intersecția către Tepelenë", "Cunoscut pentru livezile de măslini"],
+      en: ["Important point in Vlora war history", "Center of local wine trade", "Located at the junction to Tepelenë", "Known for its olive groves"],
+    },
+    imageHint: "Village of Kotë with surrounding hills and olives",
+    descriptionAdvanced: {
+      de: "Kotë ist ein geschichtlich bedeutsames Dorf im Hinterland von Vlorë, gelegen an einem strategischen Knotenpunkt im Shushica-Tal. Der Ort ist in der albanischen Geschichte tief verwurzelt, insbesondere als Schauplatz entscheidender Kämpfe während des Vlora-Krieges von 1920, als lokale Aufständische gegen die italienische Besatzung kämpften. Heute dient Kotë als wichtiges regionales Versorgungszentrum und Marktplatz für die umliegenden ländlichen Gemeinden. Die Landschaft ist geprägt von weiten Olivenhainen und Weinbergen, die von der fruchtbaren Erde des Tals profitieren. Kotë bewahrt eine authentische Atmosphäre und ist ein idealer Ausgangspunkt, um die reiche Geschichte und die unberührte Natur des Labëria-Hochlandes zu erkunden.",
+      hu: "Kotë egy történelmileg jelentős falu Vlorë hátországában, a Shushica-völgy egyik stratégiai csomópontjában. A település mélyen gyökerezik az albán történelemben, különösen az 1920-as vlorai háború döntő fontosságú harcainak helyszíneként, amikor a helyi felkelők az olasz megszállás ellen küzdöttek. Ma Kotë fontos regionális ellátó központ és piactér a környező vidéki közösségek számára. A tájat kiterjedt olajfaligetek és szőlőültetvények jellemzik, amelyek a völgy termékeny talajából profitálnak. Kotë megőrizte autentikus hangulatát, és ideális kiindulópont a Labëria-felföld gazdag történelmének és érintetlen természetének felfedezéséhez.",
+      ro: "Kotë este un sat semnificativ din punct de vedere istoric în interiorul regiunii Vlorë, situat la un nod strategic în valea Shushica. Localitatea are rădăcini adânci în istoria albaneză, fiind locul unor lupte decisive în timpul războiului din Vlora din 1920, când insurgenții locali au luptat împotriva ocupației italiene. Astăzi, Kotë servește drept centru important de aprovizionare regională și piață pentru comunitățile rurale din jur. Peisajul este marcat de livezi vaste de măslini și podgorii, care beneficiază de pământul fertil al văii. Kotë păstrează o atmosferă autentică și este un punct de plecare ideal pentru a explora istoria bogată și natura virgină a podișului Labëria.",
+      en: "Kotë is a historically significant village in the Vlorë hinterland, positioned at a strategic crossroads within the Shushica Valley. The settlement is deeply embedded in Albanian history, most notably as the site of crucial battles during the 1920 Vlora War, where local insurgents rose against Italian occupation. Today, Kotë functions as an essential regional service hub and marketplace for the surrounding rural communities. The landscape is characterized by sprawling olive groves and vineyards that thrive in the valley's fertile soil. Kotë maintains an authentic ambiance and serves as an excellent base for travelers looking to explore the rich heritage and rugged natural beauty of the Labëria highlands."
+    },
+    factsAdvanced: {
+      de: ["Wichtiger Schauplatz des Vlora-Krieges von 1920", "Strategischer Knotenpunkt im Shushica-Tal", "Zentrum für den Anbau von Oliven und Trauben", "Bedeutender regionaler Marktplatz im Hinterland von Vlorë", "Liegt an der Kreuzung der Wege nach Tepelenë und Himarë", "Historisch Teil der autonomen Labëria-Region", "Reich an Quellen und traditioneller Steinarchitektur"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-aliko-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Aliko", hu: "Aliko", ro: "Aliko", en: "Aliko" },
+    coordinates: { lat: 39.85, lng: 20.0833 },
+    description: {
+      de: "Aliko ist ein Dorf in der Region Saranda, das für seine griechische Minderheit und die fruchtbaren Ebenen südlich der Butrint-Lagune bekannt ist.",
+      hu: "Aliko egy falu Saranda régióban, amely görög kisebbségéről és a Butrint-lagúnától délre fekvő termékeny síkságairól ismert.",
+      ro: "Aliko este un sat din regiunea Saranda, cunoscut pentru minoritatea sa greacă și câmpia fertilă de la sud de laguna Butrint.",
+      en: "Aliko is a village in the Saranda region known for its Greek minority and the fertile plains south of the Butrint lagoon.",
+    },
+    facts: {
+      de: ["Zentrum der griechischen Gemeinschaft", "Wichtiger Produzent von Zitrusfrüchten", "In der Nähe der antiken Stadt Butrint", "Historisch Teil der Dropull-Region"],
+      hu: ["A görög közösség központja", "Fontos citrusféle-termelő", "Az ókori Butrint városa közelében", "Történelmileg a Dropull-régió része"],
+      ro: ["Centru al comunității grecești", "Producător important de citrice", "În apropierea orașului antic Butrint", "Istoric parte a regiunii Dropull"],
+      en: ["Center of the Greek community", "Important producer of citrus fruits", "Near the ancient city of Butrint", "Historically part of the Dropull region"],
+    },
+    imageHint: "Aliko village with citrus orchards",
+    descriptionAdvanced: {
+      de: "Aliko ist ein bedeutendes Dorf in der Region Saranda, unweit der antiken Stätte Butrint und der griechischen Grenze. Der Ort ist bekannt für seine starke griechische Minderheit, die hier seit Generationen ihre kulturellen Traditionen und Sprache pflegt. Aliko liegt in einer fruchtbaren Küstenebene und ist eines der wichtigsten Zentren für den Anbau von Zitrusfrüchten, insbesondere Mandarinen und Zitronen, die für den Export produziert werden. Die Architektur des Dorfes spiegelt die traditionelle Bauweise der Region wider, mit gepflegten Gärten und einer ruhigen, ländlichen Atmosphäre. Dank seiner Nähe zum Butrint Nationalpark und den Stränden von Ksamil bietet Aliko eine friedliche Alternative zum touristischen Trubel an der Küste und bewahrt den Charme einer multikulturellen Agrargemeinschaft.",
+      hu: "Aliko Saranda régiójának egyik jelentős települése, Butrint ókori városa és a görög határ közelében. A helység híres erős görög kisebbségéről, amely generációk óta őrzi kulturális hagyományait és nyelvét. Aliko egy termékeny partmenti síkságon fekszik, és az ország egyik legfontosabb citrusféle-termelő központja, különösen az exportra szánt mandarin és citrom termesztése terén. A falu építészete a régió hagyományos stílusát tükrözi, gondozott kertekkel és nyugodt vidéki hangulattal. A Butrinti Nemzeti Park és Ksamil strandjaihoz való közelségének köszönhetően Aliko békés alternatívát kínál a tengerparti turisztikai nyüzsgéssel szemben, megőrizve egy multikulturális mezőgazdasági közösség báját.",
+      ro: "Aliko este un sat important din regiunea Saranda, situat în apropierea sitului antic Butrint și a graniței cu Grecia. Localitatea este cunoscută pentru puternica sa minoritate greacă, care își păstrează de generații tradițiile culturale și limba. Aliko se află într-o câmpie litorală fertilă și este unul dintre cele mai importante centre pentru cultivarea citricelor, în special a mandarinelor și lămâilor destinate exportului. Arhitectura satului reflectă stilul tradițional al regiunii, cu grădini îngrijite și o atmosferă rurală liniștită. Datorită proximității față de Parcul Național Butrint și plajele din Ksamil, Aliko oferă o alternativă pașnică la agitația turistică de pe coastă, păstrând farmecul unei comunități agricole multiculturale.",
+      en: "Aliko is a significant village in the Saranda region, located near the ancient site of Butrint and the Greek border. The town is well-known for its vibrant Greek minority community, which has preserved its cultural traditions and language for generations. Situated in a fertile coastal plain, Aliko stands as one of Albania's premier citrus-growing hubs, specializing in mandarins and lemons produced for international markets. The village architecture mirrors the traditional style of the region, characterized by well-kept gardens and a serene rural atmosphere. Its location near the Butrint National Park and the beaches of Ksamil makes Aliko a peaceful alternative to the coastal tourist crowds, retaining the authentic charm of a multicultural farming community."
+    },
+    factsAdvanced: {
+      de: ["Zentrum der griechischen Minderheit in der Region Saranda", "Wichtiger Produzent von Zitrusfrüchten für den Export", "Liegt in der Nähe des Butrint Nationalparks (UNESCO)", "Traditionelle Agrargemeinschaft mit Schwerpunkt Obstbau", "Besitzt eine gut erhaltene orthodoxe Kirche", "Strategisch günstig an der Route nach Ksamil gelegen", "Bekannt für seine ruhige, gastfreundliche Atmosphäre"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-lukove-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Lukovë", hu: "Lukovë", ro: "Lukovë", en: "Lukovë" },
+    coordinates: { lat: 40.0083, lng: 19.9167 },
+    description: {
+      de: "Lukovë ist eines der schönsten Dörfer an der albanischen Riviera. Es thront auf einem Hügel über dem Ionischen Meer und ist für seine Terrassengärten bekannt.",
+      hu: "Lukovë az albán riviéra egyik legszebb faluja. Egy dombtetőn trónol a Jón-tenger felett, és teraszos kertjeiről ismert.",
+      ro: "Lukovë este unul dintre cele mai frumoase sate de pe riviera albaneză. Este cocoțat pe un deal deasupra Mării Ionice și este cunoscut pentru grădinile sale terasate.",
+      en: "Lukovë is one of the most beautiful villages on the Albanian Riviera. It is perched on a hill above the Ionian Sea and is known for its terraced gardens.",
+    },
+    facts: {
+      de: ["Berühmt für die Lukovë-Strände", "Zentrum des Oliven- und Zitronenanbaus", "Besitzt eine gut erhaltene alte Kirche", "Panoramablick auf die Insel Korfu"],
+      hu: ["Híres a Lukovë-i strandokról", "Az olajbogyó- és citromtermesztés központja", "Jól megőrzött régi templommal rendelkezik", "Panorámás kilátás Korfu szigetére"],
+      ro: ["Faimos pentru plajele din Lukovë", "Centru pentru cultura măslinilor și lămâilor", "Deține o biserică veche bine conservată", "Vedere panoramică către insula Corfu"],
+      en: ["Famous for Lukovë beaches", "Center of olive and lemon cultivation", "Possesses a well-preserved old church", "Panoramic view of Corfu island"],
+    },
+    imageHint: "Village of Lukovë on a hill overlooking the sea",
+    descriptionAdvanced: {
+      de: "Lukovë ist eines der malerischsten Dörfer an der albanischen Riviera, spektakulär auf einem Hügelplateau über dem Ionischen Meer gelegen. Der Ort ist berühmt für seine terrassierten Gärten, in denen seit Jahrhunderten Zitronen und Oliven angebaut werden und die steil zum türkisfarbenen Wasser abfallen. Lukovë bewahrt ein authentisches, fast zeitloses Flair mit engen Gassen und traditionellen Steinhäusern. Ein besonderes Highlight ist die historische Kirche der Heiligen Maria, die über dem Dorf thront. Unterhalb der Siedlung erstrecken sich unberührte Kieselstrände wie der Shpella-Strand, die über kurvige Wege erreichbar sind. Von Lukovë aus genießt man an klaren Tagen einen atemberaubenden Panoramablick auf die gegenüberliegende griechische Insel Korfu, was den Ort zu einem der magischsten Punkte der südalbanischen Küste macht.",
+      hu: "Lukovë az albán riviéra egyik legfestőibb faluja, amely látványos módon, egy dombtetőn fekszik a Jón-tenger felett. A település híres teraszos kertjeiről, ahol évszázadok óta termesztenek citromot és olajbogyót, és amelyek meredeken szakadnak le a türkizkék víz felé. Lukovë autentikus, szinte időtlen hangulatot áraszt szűk utcáival és hagyományos kőházaival. Különleges látnivalója a történelmi Szűz Mária-templom, amely a falu felett őrködik. A település alatt érintetlen kavicsos strandok húzódnak, mint például a Shpella-strand, amelyek kanyargós utakon érhetők el. Lukovë-ból tiszta időben lenyűgöző panoráma nyílik a szemközti görög Korfu szigetére, így a hely Dél-Albánia egyik legvarázslatosabb pontja a tengerparton.",
+      ro: "Lukovë este unul dintre cele mai pitorești sate de pe Riviera Albaneză, situat spectaculos pe un platou deluros deasupra Mării Ionice. Localitatea este celebră pentru grădinile sale terasate, unde se cultivă de secole lămâi și măslini, și care coboară abrupt spre apele turcoaz. Lukovë păstrează un aer autentic, aproape atemporal, cu ulițe înguste și case tradiționale din piatră. Un punct de atracție deosebit este biserica istorică Sfânta Maria, care domină satul. Sub așezare se întind plaje virgine cu pietriș, precum plaja Shpella, accesibile prin drumuri sinuoase. Din Lukovë, în zilele senine, se poate admira o vedere panoramică uluitoare către insula grecească Corfu, făcând din acest loc unul dintre cele mai magice puncte de pe coasta de sud a Albaniei.",
+      en: "Lukovë is one of the most picturesque villages on the Albanian Riviera, spectacularly perched on a hillside plateau overlooking the Ionian Sea. The village is renowned for its lush terraced gardens, where lemons and olives have been cultivated for centuries, cascading down toward the turquoise waters. Lukovë retains an authentic, nearly timeless feel with its narrow alleys and traditional stone houses. A significant landmark is the historic Church of Saint Mary, which stands watch over the settlement. Below the village lie pristine pebble beaches, such as Shpella Beach, accessible via winding scenic paths. On clear days, Lukovë offers breathtaking panoramic views of the neighboring Greek island of Corfu, making it one of the most enchanting spots along the southern Albanian coast."
+    },
+    factsAdvanced: {
+      de: ["Berühmt für seine antiken Terrassengärten (Zitrus und Oliven)", "Panoramablick auf die Insel Korfu vom Dorfkern aus", "Heimat der historischen St. Marien-Kirche", "Besitzt einen der schönsten Naturstrände (Shpella-Beach)", "Traditionelles Zentrum des Riviera-Handwerks", "Bedeutender Ort für den ökologischen Olivenölbau", "Malerische Lage auf ca. 200 Metern über dem Meeresspiegel"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-frasher-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Frashër", hu: "Frashër", ro: "Frashër", en: "Frashër" },
+    coordinates: { lat: 40.3583, lng: 20.4283 },
+    description: {
+      de: "Frashër ist ein abgelegenes Bergdorf im Süden Albaniens, das als Geburtsort der Brüder Frashëri, der wichtigsten Köpfe der nationalen Wiedergeburt, berühmt ist.",
+      hu: "Frashër egy eldugott hegyi falu Dél-Albániában, amely a nemzeti újjászületés legfontosabb alakjai, a Frashëri fivérek szülőhelyeként híres.",
+      ro: "Frashër este un sat montan izolat din sudul Albaniei, faimos ca loc de naștere al fraților Frashëri, cele mai importante figuri ale renașterii naționale.",
+      en: "Frashër is a remote mountain village in southern Albania, famous as the birthplace of the Frashëri brothers, the most important figures of the National Awakening.",
+    },
+    facts: {
+      de: ["Sitz des Frashëri-Brüder-Museums", "Liegt im Nationalpark Hotova-Fir", "Historisches Zentrum des Bektaschi-Ordens", "Symbol der albanischen Kultur und Bildung"],
+      hu: ["A Frashëri fivérek múzeumának székhelye", "A Hotovai-fenyves Nemzeti Parkban fekszik", "A bektasi rend történelmi központja", "Az albán kultúra és oktatás szimbóluma"],
+      ro: ["Sediul Muzeului Fraților Frashëri", "Situat în Parcul Național Bradul de Hotovă", "Centru istoric al ordinului Bektashi", "Simbol al culturii și educației albaneze"],
+      en: ["Site of the Frashëri Brothers Museum", "Located in the Hotova-Fir National Park", "Historical center of the Bektashi order", "Symbol of Albanian culture and education"],
+    },
+    imageHint: "The Frashëri museum house in the mountains",
+    descriptionAdvanced: {
+      de: "Frashër ist ein Symbol des albanischen Nationalstolzes und liegt isoliert in der majestätischen Bergwelt der Dangëllia-Region. Das Dorf ist der Geburtsort der drei Frashëri-Brüder, der geistigen Väter der albanischen Nationalen Wiedergeburt (Rilindja), deren Wohnhaus heute als bedeutendes Nationalmuseum dient. Frashër war zudem jahrhundertelang ein wichtiges spirituelles Zentrum des Bektaschi-Ordens, dessen Tekke einst Gelehrte aus dem ganzen Balkan anzog. Heute liegt der Ort im Herzen des Hotova-Fir Nationalparks, einem der größten und schönsten Waldgebiete Albaniens, bekannt für seine uralten Tannenbestände. Trotz seiner Abgeschiedenheit bleibt Frashër ein heiliger Ort für die albanische Identität und ein Ziel für Besucher, die Geschichte mit unberührter alpiner Natur verbinden möchten.",
+      hu: "Frashër az albán nemzeti büszkeség szimbóluma, amely elszigetelten fekszik a Dangëllia-régió fenséges hegyei között. A falu a három Frashëri fivér szülőhelye, akik az albán nemzeti újjászületés (Rilindja) szellemi atyjai voltak; szülőházuk ma jelentős nemzeti múzeumként működik. Frashër emellett évszázadokon át a bektasi rend fontos spirituális központja volt, amelynek tekkéje egykor az egész Balkánról vonzotta a tudósokat. Ma a település a Hotovai-fenyves Nemzeti Park szívében fekszik, amely Albánia egyik legnagyobb és legszebb erdősége, híres ősi fenyőállományáról. Elszigeteltsége ellenére Frashër az albán identitás szent helye maradt, és olyan látogatókat vonz, akik a történelmet az érintetlen alpesi természettel szeretnék ötvözni.",
+      ro: "Frashër este un simbol al mândriei naționale albaneze, situat izolat în lumea montană maiestuoasă a regiunii Dangëllia. Satul este locul de naștere al celor trei frați Frashëri, părinții spirituali ai Renașterii Naționale Albaneze (Rilindja), a căror casă memorială servește astăzi drept muzeu național de importanță majoră. Frashër a fost, de asemenea, timp de secole un centru spiritual vital al ordinului Bektashi, tekké-ul său atrăgând odinioară învățați din întreaga Peninsulă Balcanică. Astăzi, localitatea se află în inima Parcului Național Bradul de Hotovă, una dintre cele mai mari și frumoase zone forestiere din Albania, cunoscută pentru exemplarele sale seculare de brad. În ciuda izolării sale, Frashër rămâne un loc sacru pentru identitatea albaneză și o destinație pentru vizitatorii care vor să îmbine istoria cu natura alpină virgină.",
+      en: "Frashër is a potent symbol of Albanian national pride, isolated deep within the majestic mountains of the Dangëllia region. The village is the birthplace of the three Frashëri brothers, the intellectual giants of the Albanian National Awakening (Rilindja); their family home now serves as a highly regarded national museum. For centuries, Frashër was also a preeminent spiritual center for the Bektashi order, with its tekke once attracting scholars from across the Balkans. Today, the village is nestled in the heart of the Hotova-Fir National Park, one of Albania's largest and most pristine forested areas, famous for its ancient stands of Macedonian fir. Despite its remote location, Frashër remains a hallowed site of Albanian identity and a destination for those seeking to blend historical pilgrimage with untouched alpine beauty."
+    },
+    factsAdvanced: {
+      de: ["Geburtsort der Nationalhelden Abdyl, Naim und Sami Frashëri", "Heimat des Frashëri-Brüder Nationalmuseums", "Bedeutendes historisches Zentrum des Bektaschi-Ordens", "Liegt im Hotova-Fir Nationalpark (Bredhi i Hotovës)", "Symbolort der albanischen Aufklärung und Literatur", "Umgeben von uralten Tannen- und Buchenwäldern", "Malerisches Bergdorf auf ca. 1000 Metern Höhe"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-vithkuq-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Vithkuq", hu: "Vithkuq", ro: "Vithkuq", en: "Vithkuq" },
+    coordinates: { lat: 40.525, lng: 20.5833 },
+    description: {
+      de: "Vithkuq ist ein historisches Bergdorf bei Korçë. Im 18. Jahrhundert war es ein bedeutendes wirtschaftliches und religiöses Zentrum mit über 20 Kirchen.",
+      hu: "Vithkuq egy történelmi hegyi falu Korçë közelében. A 18. században jelentős gazdasági és vallási központ volt, több mint 20 templommal.",
+      ro: "Vithkuq este un sat montan istoric de lângă Korçë. În secolul al XVIII-lea, a fost un centru economic și religios semnificativ, cu peste 20 de biserici.",
+      en: "Vithkuq is a historical mountain village near Korçë. In the 18th century, it was a significant economic and religious center with over 20 churches.",
+    },
+    facts: {
+      de: ["Geburtsort des Gelehrten Naum Veqilharxhi", "Bekannt für die Peter-und-Paul-Kirche", "Einst florierendes Handelszentrum", "Berühmt für kristallklares Quellwasser"],
+      hu: ["Naum Veqilharxhi tudós szülőhelye", "A Szent Péter és Pál-templomról ismert", "Egykor virágzó kereskedelmi központ", "Kristálytiszta forrásvizéről híres"],
+      ro: ["Locul de naștere al savantului Naum Veqilharxhi", "Cunoscut pentru biserica Sf. Petru și Pavel", "În trecut, un centru comercial înfloritor", "Faimos pentru apele sale cristaline de izvor"],
+      en: ["Birthplace of scholar Naum Veqilharxhi", "Known for the St. Peter and Paul church", "Once a flourishing trade center", "Famous for its crystal clear spring water"],
+    },
+    imageHint: "Ancient Orthodox church in Vithkuq mountains",
+    descriptionAdvanced: {
+      de: "Vithkuq ist ein faszinierendes historisches Bergdorf unweit von Korçë, das im 18. Jahrhundert als eine der blühendsten Städte des Balkans galt. In seiner Glanzzeit war es ein bedeutendes wirtschaftliches und kulturelles Zentrum mit über 24 prachtvollen orthodoxen Kirchen und einer Akademie. Vithkuq ist zudem als Geburtsort von Naum Veqilharxhi bekannt, dem Verfasser des ersten albanischen Alphabets. Heute bewahrt der Ort die Ruinen seiner einstigen Größe, wobei die Kirchen St. Peter und Paul sowie St. Michael noch immer von der meisterhaften post-byzantinischen Kunst zeugen. Die Lage auf einem Hochplateau bietet kristallklare Quellen und eine gesunde Höhenluft, die Vithkuq zu einem Geheimtipp für Wanderer und Kulturliebhaber macht, die die tiefe christliche Geschichte Südostalbaniens erkunden möchten.",
+      hu: "Vithkuq egy lenyűgöző történelmi hegyi falu Korçë közelében, amely a 18. században a Balkán egyik legvirágzóbb városának számított. Fénykorában jelentős gazdasági és kulturális központ volt, több mint 24 pompás ortodox templommal és saját akadémiával rendelkezett. Vithkuq emellett Naum Veqilharxhi szülőhelyeként is ismert, aki az első albán ábécé megalkotója volt. Ma a település őrzi egykori nagyságának romjait, a Szent Péter és Pál, valamint a Szent Mihály-templomok pedig továbbra is tanúskodnak a mesteri poszt-bizánci művészetről. A magas fennsíkon fekvő hely kristálytiszta forrásokat és egészséges hegyi levegőt kínál, így Vithkuq titkos tipp a túrázók és a kultúra szerelmesei számára, akik Délkelet-Albánia mély keresztény történelmét szeretnék felfedezni.",
+      ro: "Vithkuq este un sat montan istoric fascinant, situat aproape de Korçë, care în secolul al XVIII-lea era considerat unul dintre cele mai înfloritoare orașe din Balcani. În perioada sa de glorie, a fost un centru economic și cultural major, având peste 24 de biserici ortodoxe splendide și o academie proprie. Vithkuq este, de asemenea, cunoscut ca locul de naștere al lui Naum Veqilharxhi, autorul primului alfabet albanez. Astăzi, localitatea păstrează ruinele măreției sale de odinioară, bisericile Sfântul Petru și Pavel și Sfântul Mihail depunând în continuare mărturie despre arta post-bizantină magistrală. Poziția sa pe un platou înalt oferă izvoare cristaline și un aer de munte curat, făcând din Vithkuq o destinație deosebită pentru drumeți și iubitorii de cultură care vor să exploreze istoria creștină profundă a sud-estului Albaniei.",
+      en: "Vithkuq is a fascinating historic mountain village near Korçë that, during the 18th century, was regarded as one of the most flourishing cities in the Balkans. At its zenith, it was a preeminent economic and cultural hub, boasting over 24 magnificent Orthodox churches and its own academy. Vithkuq is also celebrated as the birthplace of Naum Veqilharxhi, the scholar who created the first modern Albanian alphabet. Today, the village preserves the evocative ruins of its former grandeur, with the churches of St. Peter and Paul and St. Michael still showcasing masterful post-Byzantine frescoes. Located on a high plateau, it offers crystal-clear springs and invigorating mountain air, making Vithkuq a hidden gem for hikers and history enthusiasts eager to explore the deep Christian heritage of southeastern Albania."
+    },
+    factsAdvanced: {
+      de: ["Einstiges Wirtschaftszentrum mit 24 Kirchen im 18. Jh.", "Geburtsort des Gelehrten Naum Veqilharxhi (Alphabet-Schöpfer)", "Heimat der monumentalen Peter-und-Paul-Kirche", "Berühmt für sein reines Quellwasser und die gesunde Höhenluft", "Wichtiger Standort für das Erbe der Aromunen (Vlachen)", "Liegt auf einem malerischen Hochplateau bei Korçë", "Zentrum für traditionelle Schafzucht und Molkereiprodukte"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  },
+  {
+    id: "albania-maminas-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Maminas", hu: "Maminas", ro: "Maminas", en: "Maminas" },
+    coordinates: { lat: 41.3833, lng: 19.6167 },
+    description: {
+      de: "Maminas ist eine Stadt zwischen Tirana und Durrës. Sie ist ein wichtiger Industriestandort und logistischer Knotenpunkt an der albanischen Hauptverkehrsachse.",
+      hu: "Maminas egy város Tirana és Durrës között. Fontos ipari és logisztikai központ az albán fő közlekedési útvonal mentén.",
+      ro: "Maminas este un oraș situat între Tirana și Durrës. Este un centru industrial și nod logistic important pe principala axă de transport a Albaniei.",
+      en: "Maminas is a town located between Tirana and Durrës. It is an important industrial location and logistical hub along the main Albanian transport axis.",
+    },
+    facts: {
+      de: ["Liegt direkt an der Autobahn SH2", "Zentrum für Logistik und Transport", "Beherbergt viele Exportunternehmen", "Teil des Wirtschaftskorridors Tirana-Durrës"],
+      hu: ["Közvetlenül az SH2-es autópálya mentén fekszik", "Logisztikai és szállítási központ", "Számos exportvállalatnak ad otthont", "A Tirana-Durrës gazdasági folyosó része"],
+      ro: ["Situat direct pe autostrada SH2", "Centru pentru logistică și transport", "Găzduiește multe companii de export", "Parte a coridorului economic Tirana-Durrës"],
+      en: ["Located directly on the SH2 highway", "Center for logistics and transport", "Houses many export companies", "Part of the Tirana-Durrës economic corridor"],
+    },
+    imageHint: "Factories and warehouses in Maminas along highway",
+    descriptionAdvanced: {
+      de: "Maminas liegt strategisch günstig an der Autobahn zwischen Tirana und Durrës. Die Siedlung ist ein wichtiges lokales Zentrum für Handel und Dienstleistungen in der Region Shijak.",
+      hu: "Maminas települése az ország legforgalmasabb közlekedési folyosóján fekszik. Gazdasága jelentős részben a logisztikára és a környező mezőgazdasági területek kiszolgálására épül.",
+      ro: "Maminas este o localitate situată în districtul Durrës, beneficiind de proximitatea față de portul principal al Albaniei. Zona este cunoscută pentru dezvoltarea rapidă a infrastructurii.",
+      en: "Maminas is a key transit point located halfway between the capital Tirana and the coastal city of Durrës. It serves as a vital hub for local commerce and agricultural distribution.",
+    },
+    factsAdvanced: {
+      de: ["Liegt im Bezirk Durrës", "An der Autobahn SH2 gelegen", "Wichtiges Handelszentrum", "Gehört zur Gemeinde Shijak", "Mediterranes Klima", "20 km von Tirana entfernt"],
+      hu: ["Durrës megyében található", "Tiranától 20 km-re fekszik", "A SH2-es főút mentén terül el", "Síkvidéki domborzat", "Logisztikai központ", "Közel van az Adriai-tengerhez"],
+      ro: ["Situat în județul Durrës", "Populația este predominant agricolă", "Acces facil la autostrada SH2", "Climat mediteranean central", "Centru de servicii rurale", "Altitudine joasă"],
+      en: ["Located in Durrës County", "Strategic position on SH2 highway", "Part of Shijak municipality", "20 km from Tirana", "15 km from Durrës", "Agricultural trade hub"],
+    },
+  },
+  {
+    id: "albania-manez-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Manëz", hu: "Manëz", ro: "Manëz", en: "Manëz" },
+    coordinates: { lat: 41.4367, lng: 19.585 },
+    description: {
+      de: "Manëz ist eine Stadt in der Nähe von Durrës, die für ihre Geschichte im Bergbau und ihre strategische Lage im Hügelland Zentralalbaniens bekannt ist.",
+      hu: "Manëz egy Durrës közelében fekvő város, amely bányászati múltjáról és Közép-Albánia dombvidékén elfoglalt stratégiai helyzetéről ismert.",
+      ro: "Manăz este un oraș situat lângă Durrës, cunoscut pentru istoria sa minieră și locația strategică în zona colinară a Albaniei Centrale.",
+      en: "Manëz is a town near Durrës known for its mining history and strategic location in the hills of Central Albania.",
+    },
+    facts: {
+      de: ["Früher bedeutendes Kohlebergbau-Zentrum", "In der Nähe des künstlichen Sees von Manëz", "Wichtiger lokaler Marktplatz", "Umgeben von Weinbergen und Hügeln"],
+      hu: ["Korábban jelentős szénbányászati központ", "A manëzi mesterséges tó közelében", "Fontos helyi piachely", "Szőlőültetvények és dombok veszik körül"],
+      ro: ["În trecut, centru important de extracție a cărbunelui", "Aproape de lacul artificial Manăz", "Piață locală importantă", "Înconjurat de podgorii și dealuri"],
+      en: ["Formerly significant coal mining center", "Near the artificial lake of Manëz", "Important local marketplace", "Surrounded by vineyards and hills"],
+    },
+    imageHint: "Town of Manëz with lake and hills",
+    descriptionAdvanced: {
+      de: "Manëz ist bekannt für seine hügelige Landschaft und die traditionelle Landwirtschaft. Die Kleinstadt hat sich in den letzten Jahren zu einem Zentrum für Weinbau in Mittelalbanien entwickelt.",
+      hu: "Manëz városa Durrës dombos hátországában helyezkedik el. A környék híres a szőlőtermesztésről és a helyi borászatokról, amelyek vonzzák a gasztroturistákat a közeli nagyvárosokból.",
+      ro: "Manëz este o unitate administrativă situată pe dealurile din centrul Albaniei. Localitatea este renumită pentru lacul de acumulare din apropiere și peisajele sale naturale pitorești.",
+      en: "Manëz is situated in the rolling hills of central Albania, offering a mix of rural charm and growing viticulture. It is a popular weekend destination for residents of Durrës and Tirana.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für Weinbau", "Liegt im Bezirk Durrës", "Hügeliges Gelände", "Stausee in der Nähe", "Traditionelle Olivenhaine", "Ehemalige Bergbaustadt"],
+      hu: ["Durrës megye része", "Jelentős szőlőművelés", "Hegyvidéki tájkép", "Mesterséges tó a közelben", "Mezőgazdasági fókusz", "Helyi piacnapok"],
+      ro: ["Altitudine de aproximativ 200m", "Lac de acumulare local", "Producție de vin renumită", "Districtul Durrës", "Zone de recreere montane", "Populație rurală activă"],
+      en: ["Famous for local vineyards", "Located in Durrës District", "Hilly terrain features", "Close to Manëz Lake", "Traditional olive production", "Regional transit node"],
+    },
+  },
+  {
+    id: "albania-katund-i-ri-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Katund i Ri", hu: "Katund i Ri", ro: "Katund i Ri", en: "Katund i Ri" },
+    coordinates: { lat: 41.3853, lng: 19.5167 },
+    description: {
+      de: "Katund i Ri ist eine rasant wachsende Ortschaft im Hinterland von Durrës. Sie dient als Wohn- und Landwirtschaftszentrum in der Küstenebene.",
+      hu: "Katund i Ri egy gyorsan növekvő település Durrës hátországában. Lakó- és mezőgazdasági központként szolgál a partmenti síkságon.",
+      ro: "Katund i Ri este o localitate cu creștere rapidă din interiorul regiunii Durrës. Servește ca centru rezidențial și agricol în câmpia de coastă.",
+      en: "Katund i Ri is a rapidly growing settlement in the Durrës hinterland. It serves as a residential and agricultural center in the coastal plain.",
+    },
+    facts: {
+      de: ["Wichtiges Zentrum für Gartenbau", "Nahe der Adriaküste gelegen", "Teil des Industriegürtels von Durrës", "Sitz vieler kleinerer Fertigungsbetriebe"],
+      hu: ["Fontos kertészeti központ", "Az Adriai-tenger partjának közelében", "Durrës ipari övezetének része", "Számos kisebb gyártóüzem székhelye"],
+      ro: ["Centru important pentru horticultură", "Situat aproape de coasta Adriaticii", "Parte a centurii industriale din Durrës", "Sediul multor mici unități de producție"],
+      en: ["Important center for horticulture", "Located near the Adriatic coast", "Part of the industrial belt of Durrës", "Site of many small manufacturing units"],
+    },
+    imageHint: "Katund i Ri town houses and gardens",
+    descriptionAdvanced: {
+      de: "Katund i Ri liegt in der fruchtbaren Ebene nahe der Adriaküste. Die Gemeinde ist ein Paradebeispiel für die intensive landwirtschaftliche Nutzung der albanischen Küstenregionen.",
+      hu: "Katund i Ri az Adriai-tenger partvidékéhez közel fekszik. A település az intenzív zöldségtermesztéséről és a modern üvegházas gazdálkodásáról ismert a régióban.",
+      ro: "Katund i Ri este situat în câmpia litorală a Albaniei centrale. Localitatea este un punct important pentru exportul de produse agricole proaspete către piețele europene.",
+      en: "Katund i Ri is positioned in the fertile coastal plains near the Adriatic Sea. It is highly regarded for its intensive greenhouse farming and high-quality vegetable production.",
+    },
+    factsAdvanced: {
+      de: ["Küstennahe Lage", "Intensive Landwirtschaft", "Liegt im Bezirk Durrës", "Südlich der Erzen-Mündung", "Flache Küstenebene", "Moderner Gewächshausbau"],
+      hu: ["Adriai-tenger közelsége", "Zöldségtermesztési központ", "Durrës megye területe", "Síkvidéki elhelyezkedés", "Öntözőrendszerek hálózata", "Exportorientált gazdaság"],
+      ro: ["Lângă țărmul Mării Adriatice", "Câmpie fertilă", "Județul Durrës", "Producție mare de legume", "Climat blând maritim", "Infrastructură agricolă nouă"],
+      en: ["Proximity to Adriatic coast", "Center for vegetable farming", "Located in Durrës County", "Flat alluvial plain", "Large-scale greenhouse area", "Regional supply hub"],
+    },
+  },
+  {
+    id: "albania-xarre-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Xarrë", hu: "Xarrë", ro: "Xarrë", en: "Xarrë" },
+    coordinates: { lat: 39.7167, lng: 20.0167 },
+    description: {
+      de: "Xarrë ist ein bedeutendes landwirtschaftliches Dorf im äußersten Süden Albaniens, bekannt für seine massiven Zitrusplantagen und Pfirsichkulturen.",
+      hu: "Xarrë egy jelentős mezőgazdasági falu Albánia legdélebbi részén, masszív citrusültetvényeiről és őszibarack-kultúráiról ismert.",
+      ro: "Xarrë este un sat agricol important din extremul sud al Albaniei, cunoscut pentru plantațiile sale masive de citrice și culturile de piersici.",
+      en: "Xarrë is a significant agricultural village in the extreme south of Albania, known for its massive citrus plantations and peach orchards.",
+    },
+    facts: {
+      de: ["Zentrum der albanischen Mandarinenproduktion", "Liegt südlich der Butrint-Lagune", "Wichtigster Exporteur von Zitrusfrüchten", "Sitz moderner Kühllager für Obst"],
+      hu: ["Az albán mandarintermelés központja", "A Butrint-lagúnától délre fekszik", "A citrusfélék legfontosabb exportőre", "Modern gyümölcshűtőházak székhelye"],
+      ro: ["Centrul producției de mandarine din Albania", "Situat la sud de laguna Butrint", "Cel mai important exportator de citrice", "Sediul unor depozite frigorifice moderne pentru fructe"],
+      en: ["Center of Albanian mandarin production", "Located south of the Butrint lagoon", "Most important exporter of citrus fruits", "Site of modern cold storage for fruit"],
+    },
+    imageHint: "Mandarin orchards and hills in Xarrë village",
+    descriptionAdvanced: {
+      de: "Xarrë liegt im äußersten Süden Albaniens nahe der griechischen Grenze. Die Region ist berühmt für ihre Zitrusfrüchte und die Nähe zum UNESCO-Weltkulturerbe Butrint.",
+      hu: "Xarrë az ország legdélebbi csücskében található, a görög határ szomszédságában. A terület mikroklímája ideális a narancs és citrom termesztéséhez a Butrinti-tó partján.",
+      ro: "Xarrë este o localitate din extremitatea sudică a Albaniei, aproape de Butrint. Este centrul principal de producție a mandarinelor și portocalelor din întreaga țară.",
+      en: "Xarrë is located in the southernmost part of Albania, bordering the Butrint National Park. The area is renowned for its vast citrus groves and unique Mediterranean wetlands.",
+    },
+    factsAdvanced: {
+      de: ["Südalbanische Grenzregion", "Zentrum der Zitruszucht", "Nahe Butrint gelegen", "Bezirk Vlorë", "Ionisches Meer in der Nähe", "Mildes Winterklima"],
+      hu: ["Vlorë megye déli része", "Mandarintermesztés központja", "Butrint szomszédságában", "Görög határ közelsége", "Mediterrán flóra", "Szaranda várostól délre"],
+      ro: ["Cea mai sudică zonă agricolă", "Renumit pentru mandarine", "Lângă Parcul Butrint", "Districtul Sarandă", "Climat subtropical", "Irigat de lacul Butrint"],
+      en: ["Southernmost agricultural hub", "Major citrus producer", "Near Butrint UNESCO site", "Vlorë County", "Close to Greek border", "Unique wetland ecosystem"],
+    },
+  },
+  {
+    id: "albania-koman-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Koman", hu: "Koman", ro: "Koman", en: "Koman" },
+    coordinates: { lat: 42.1083, lng: 19.825 },
+    description: {
+      de: "Koman ist ein strategisch wichtiges Dorf am Drin-Fluss, berühmt als Ausgangspunkt der Fähre durch die spektakuläre Koman-Schlucht.",
+      hu: "Koman egy stratégiailag fontos falu a Drin-folyó mentén, a látványos Koman-szoroson átkelő komp kiindulópontjaként híres.",
+      ro: "Koman este un sat strategic pe râul Drin, faimos ca punct de plecare pentru feribotul prin spectaculosul defileu Koman.",
+      en: "Koman is a strategically important village on the Drin River, famous as the starting point for the ferry through the spectacular Koman gorge.",
+    },
+    facts: {
+      de: ["Tor zum Koman-Stausee", "Namensgeber der mittelalterlichen Koman-Kultur", "Standort eines großen Wasserkraftwerks", "Wichtiger touristischer Umsteigepunkt"],
+      hu: ["A Komani-tó kapuja", "A középkori Koman-kultúra névadója", "Nagy vízerőmű helyszíne", "Fontos turisztikai átszállóhely"],
+      ro: ["Poarta către lacul de acumulare Koman", "Eponim pentru cultura medievală Koman", "Locația unei mari hidrocentrale", "Punct turistic important de transfer"],
+      en: ["Gateway to the Koman reservoir", "Eponymous for the medieval Koman culture", "Site of a large hydroelectric plant", "Important tourist transfer point"],
+    },
+    imageHint: "Ferry terminal and mountains in Koman village",
+    descriptionAdvanced: {
+      de: "Koman ist berühmt für seinen Stausee und das Wasserkraftwerk am Fluss Drin. Die Fähre von Koman nach Fierza gilt als eine der landschaftlich schönsten Bootsfahrten Europas.",
+      hu: "Koman a Drin folyón kialakított vízerőművéről és a lenyűgöző kanyonjairól ismert. A település a kiindulópontja a fjord-szerű Koman-tavon átvezető híres kompjáratnak.",
+      ro: "Koman este un punct strategic în nordul Albaniei, unde se află un mare baraj hidroenergetic. Defileul săpat de râul Drin oferă unele dintre cele mai spectaculoase peisaje montane.",
+      en: "Koman is renowned for its massive hydroelectric dam on the Drin River. The ferry terminal here provides access to a spectacular canyon lake journey towards the Albanian Alps.",
+    },
+    factsAdvanced: {
+      de: ["Stausee am Drin", "Wasserkraftwerk Koman", "Fährverbindung nach Fierza", "Nordalbanische Alpen", "Bezirk Shkodër", "Baujahr des Damms 1980er"],
+      hu: ["Drin folyó völgye", "Hatalmas vízerőmű", "Kompkikötő Fierza felé", "Shkodër megye", "Kanyonos táj", "Fontos energiaforrás"],
+      ro: ["Baraj hidroenergetic major", "Lac de acumulare adânc", "Punct de plecare feribot", "Munții Albaniei de Nord", "Râul Drin", "Peisaj de tip fiord"],
+      en: ["Major hydroelectric plant", "Gateway to Valbona Valley", "Drin River canyon", "Shkodër County", "Built in the 1980s", "Stunning boat route"],
+    },
+  },
+  {
+    id: "albania-vermosh-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Vermosh", hu: "Vermosh", ro: "Vermosh", en: "Vermosh" },
+    coordinates: { lat: 42.5833, lng: 19.6833 },
+    description: {
+      de: "Vermosh ist das nördlichste Dorf Albaniens, gelegen in einem wunderschönen Alpental an der Grenze zu Montenegro. Es ist bekannt für sein kühles Klima und alpine Wiesen.",
+      hu: "Vermosh Albánia legészakibb faluja, egy gyönyörű alpesi völgyben fekszik a montenegrói határnál. Hűvös éghajlatáról és alpesi rétjeiről ismert.",
+      ro: "Vermosh este cel mai nordic sat al Albaniei, situat într-o frumoasă vale alpină la granița cu Muntenegru. Este cunoscut pentru climatul răcoros și pajiștile alpine.",
+      en: "Vermosh is the northernmost village of Albania, located in a beautiful alpine valley on the border with Montenegro. It is known for its cool climate and alpine meadows.",
+    },
+    facts: {
+      de: ["Nördlichster bewohnter Punkt Albaniens", "Berühmt für traditionelle Holzhäuser", "Zentrum des Bergtourismus in Kelmend", "Im Winter oft von Schnee isoliert"],
+      hu: ["Albánia legészakibb lakott pontja", "Hagyományos faházairól híres", "A Kelmend-vidéki hegyi turizmus központja", "Télen gyakran elszigeteli a hó"],
+      ro: ["Cel mai nordic punct locuit din Albania", "Faimos pentru casele tradiționale din lemn", "Centrul turismului montan din Kelmend", "Adesea izolat de zăpadă în timpul iernii"],
+      en: ["Northernmost inhabited point of Albania", "Famous for traditional wooden houses", "Center of mountain tourism in Kelmend", "Often isolated by snow in winter"],
+    },
+    imageHint: "Alpine village Vermosh with green meadows",
+    descriptionAdvanced: {
+      de: "Vermosh ist das nördlichste Dorf Albaniens und liegt in einem Hochtal der Kelmend-Region. Es ist bekannt für seine alpinen Wiesen, Holzhäuser und das raue Bergklima.",
+      hu: "Vermosh Albánia legészakibb települése, amely a Kelmend-vidék magashegyi völgyében fekszik. A falu az alpesi tájairól, a kristálytiszta patakokról és a túraútvonalairól nevezetes.",
+      ro: "Vermosh este cea mai nordică localitate din Albania, situată într-o vale alpină izolată. Este o destinație populară pentru drumeții montane și ecoturism în Alpii Dinarici.",
+      en: "Vermosh is the northernmost village of Albania, nestled in a high alpine valley of the Kelmend region. It is famous for its distinct mountain architecture and cold winters.",
+    },
+    factsAdvanced: {
+      de: ["Nördlichster Punkt Albaniens", "Region Kelmend", "Höhenlage über 1000m", "Nahe Grenze zu Montenegro", "Alpines Klima", "Bekannt für Forellenzucht"],
+      hu: ["Albánia legészakibb faluja", "1100 méter tengerszint feletti magasság", "Kelmend tájegység", "Montenegrói határnál", "Hegyi legelők", "Téli sportok lehetősége"],
+      ro: ["Cea mai nordică așezare", "Altitudine înaltă", "Munții Prokletije", "Granița cu Muntenegru", "Turism montan", "Case tradiționale din piatră"],
+      en: ["Northernmost Albanian village", "Located in Kelmend region", "Elevation over 1,100 meters", "Borders Montenegro", "Alpine trout fishing", "Heavy snowfall in winter"],
+    },
+  },
+  {
+    id: "albania-borie-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Borje", hu: "Borje", ro: "Borje", en: "Borje" },
+    coordinates: { lat: 41.975, lng: 20.6 },
+    description: {
+      de: "Borje ist ein abgelegenes Goranen-Dorf im Sharr-Gebirge im Nordosten Albaniens. Es bewahrt eine einzigartige slawische Sprache und jahrhundertealte Traditionen.",
+      hu: "Borje egy eldugott goráni falu a Sharr-hegységben, Albánia északkeleti részén. Egyedülálló szláv nyelvet és évszázados hagyományokat őriz.",
+      ro: "Borje este un sat goran izolat din munții Sharr, în nord-estul Albaniei. Păstrează o limbă slavă unică și tradiții vechi de secole.",
+      en: "Borje is a remote Gorani village in the Sharr mountains of northeastern Albania. It preserves a unique Slavic language and centuries-old traditions.",
+    },
+    facts: {
+      de: ["Bewohnt von der Gemeinschaft der Goranen", "Bekannt für bunte Frauentrachten", "Liegt an der Grenze zum Kosovo", "Zentrum für die Zucht von Sharr-Hunden"],
+      hu: ["A goráni közösség lakja", "Színes női népviseletéről ismert", "A koszovói határ mentén fekszik", "A sárhegyi juhászkutyák tenyésztési központja"],
+      ro: ["Locuit de comunitatea goranilor", "Cunoscut pentru costumele populare feminine colorate", "Situat pe granița cu Kosovo", "Centru pentru creșterea câinilor de tip Sharplaninac"],
+      en: ["Inhabited by the Gorani community", "Known for colorful female folk costumes", "Located on the border with Kosovo", "Center for breeding Sharr mountain dogs"],
+    },
+    imageHint: "Remote mountain village Borje with stone houses",
+    descriptionAdvanced: {
+      de: "Borje ist ein abgelegenes Bergdorf im Gora-Distrikt nahe der Grenze zu Nordmazedonien. Die Bewohner bewahren eine einzigartige slawische Sprache und kulturelle Traditionen.",
+      hu: "Borje egy elszigetelt hegyi falu a Sharr-hegység lábánál, az észak-macedón határ közelében. A közösség híres a hagyományos népviseletéről és a goráni kultúra őrzéséről.",
+      ro: "Borje este un sat de munte situat în regiunea Kukës, la granița cu Macedonia de Nord. Localitatea este cunoscută pentru tradițiile sale etnice unice și peisajele montane virgine.",
+      en: "Borje is a remote mountain village in the Kukës region, located near the border with North Macedonia. It is home to the Gorani people, known for their unique linguistic heritage.",
+    },
+    factsAdvanced: {
+      de: ["Gora-Region", "Grenze zu Nordmazedonien", "Einzigartige slawische Sprache", "Bezirk Kukës", "Traditionelle Schafzucht", "Hohe Gebirgslage"],
+      hu: ["Kukës megye hegyvidéke", "Goráni etnikai csoport", "Sharr-hegység vidéke", "Hagyományos építészet", "Elszigetelt elhelyezkedés", "Kulturális fesztiválok"],
+      ro: ["Sat de frontieră", "Regiunea Kukës", "Populație Gorani", "Tradiții pastorale", "Altitudine mare", "Dialect slav local"],
+      en: ["Located in Kukës District", "Borders North Macedonia", "Gorani ethnic community", "Traditional mountain life", "High altitude pastures", "Rich folklore traditions"],
+    },
+  },
+  {
+    id: "albania-arapaj-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Arapaj", hu: "Arapaj", ro: "Arapaj", en: "Arapaj" },
+    coordinates: { lat: 41.3, lng: 19.4833 },
+    description: {
+      de: "Arapaj ist ein historisches Dorf in der Nähe von Durrës, berühmt für die Überreste einer der größten frühchristlichen Basiliken auf dem Balkan.",
+      hu: "Arapaj egy történelmi falu Durrës közelében, amely a Balkán egyik legnagyobb korai keresztény bazilikájának maradványairól híres.",
+      ro: "Arapaj este un sat istoric de lângă Durrës, renumit pentru vestigiile uneia dintre cele mai mari bazilici creștine timpurii din Balcani.",
+      en: "Arapaj is a historical village near Durrës, famous for the remains of one of the largest early Christian basilicas in the Balkans.",
+    },
+    facts: {
+      de: ["Standort der Basilika des Heiligen Michael", "Berühmt für spätantike Bodenmosaike", "Wichtiger archäologischer Fundplatz", "Hügelige Lage mit Blick auf die Adria"],
+      hu: ["Szent Mihály-bazilika helyszíne", "Késő antik padlómozaikjairól híres", "Fontos régészeti lelőhely", "Dombvidéki fekvés kilátással az Adriára"],
+      ro: ["Locația Basilicii Sfântul Mihail", "Faimos pentru mozaicurile de pardoseală antice", "Sait arheologic important", "Amplasare colinară cu vedere la Marea Adriatică"],
+      en: ["Site of the Basilica of Saint Michael", "Famous for late antique floor mosaics", "Important archaeological site", "Hilly location with view of the Adriatic"],
+    },
+    imageHint: "Ancient mosaics and ruins of Arapaj basilica",
+    descriptionAdvanced: {
+      de: "Arapaj ist eine historisch bedeutende Siedlung nahe Durrës. Hier befindet sich eine der größten frühchristlichen Basiliken des Balkans mit einem beeindruckenden Mosaikboden.",
+      hu: "Arapaj Durrës közelében fekvő település, amely régészeti jelentőségéről híres. Itt található egy 6. századi ókeresztény bazilika romja, amelynek mozaikjai világhírűek.",
+      ro: "Arapaj este situat lângă orașul Durrës și găzduiește vestigiile unei bazilici paleocreștine imense. Mozaicurile sale din secolul al VI-lea sunt printre cele mai mari din regiune.",
+      en: "Arapaj is located on the outskirts of Durrës and is home to one of the largest early Christian basilicas in the Balkans, famous for its magnificent 6th-century mosaics.",
+    },
+    factsAdvanced: {
+      de: ["Frühchristliche Basilika", "Mosaik aus dem 6. Jh.", "Bezirk Durrës", "Archäologische Stätte", "Nahe der Adriaküste", "Historisches Monument"],
+      hu: ["6. századi bazilika", "Hatalmas mozaikpadló", "Durrës vonzáskörzete", "Régészeti feltárások", "Bizánci örökség", "Kulturális műemlék"],
+      ro: ["Bazilică paleocreștină", "Mozaicuri bizantine", "Județul Durrës", "Situl arheologic Arapaj", "Patrimoniu cultural", "Aproape de mare"],
+      en: ["6th-century Basilica", "Expansive floor mosaics", "Located near Durrës", "Byzantine architecture", "Significant archaeological site", "Cultural monument status"],
+    },
+  },
+  {
+    id: "albania-kashar-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Kashar", hu: "Kashar", ro: "Kashar", en: "Kashar" },
+    coordinates: { lat: 41.35, lng: 19.7167 },
+    description: {
+      de: "Kashar ist eine Vorstadt von Tirana und ein bedeutendes Industrie- und Logistikzentrum an der Autobahn nach Durrës.",
+      hu: "Kashar Tirana egyik elővárosa, valamint jelentős ipari és logisztikai központ a Durrës felé vezető autópálya mentén.",
+      ro: "Kashar este o suburbie a Tiranei și un centru industrial și logistic important situat pe autostrada către Durrës.",
+      en: "Kashar is a suburb of Tirana and a significant industrial and logistical center along the highway to Durrës.",
+    },
+    facts: {
+      de: ["Zentrum der albanischen Getränkeindustrie", "Standort vieler internationaler Firmen", "Wichtigstes Gewerbegebiet der Hauptstadt", "Liegt an der Nationalstraße SH2"],
+      hu: ["Az albán italipar központja", "Számos nemzetközi cég székhelye", "A főváros legfontosabb ipari övezete", "Az SH2-es főút mentén fekszik"],
+      ro: ["Centrul industriei băuturilor din Albania", "Sediul multor companii internaționale", "Cea mai importantă zonă industrială a capitalei", "Situat pe drumul național SH2"],
+      en: ["Center of the Albanian beverage industry", "Site of many international companies", "Most important industrial zone of the capital", "Located on the SH2 national road"],
+    },
+    imageHint: "Industrial buildings and logistics in Kashar",
+    descriptionAdvanced: {
+      de: "Kashar hat sich von einem Vorort zu einem der wichtigsten Industrie- und Gewerbegebiete am Rande von Tirana entwickelt. Es liegt strategisch an der Hauptverbindung zum Meer.",
+      hu: "Kashar Tirana nyugati kapuja, amely az elmúlt évtizedben az ország egyik legfontosabb ipari és logisztikai központjává vált. Itt összpontosul a fővárosi kereskedelem nagy része.",
+      ro: "Kashar este o zonă în plină expansiune la vest de Tirana. Fiind situat pe coridorul principal spre Durrës, localitatea a devenit un centru logistic esențial pentru economia albaneză.",
+      en: "Kashar is a rapidly developing industrial and commercial hub on the western outskirts of Tirana. It serves as a major gateway connecting the capital with the port city of Durrës.",
+    },
+    factsAdvanced: {
+      de: ["Industriegebiet von Tirana", "Bezirk Tirana", "An der Autobahn SH2", "Starkes Bevölkerungswachstum", "Logistikzentrum", "Westlicher Vorort"],
+      hu: ["Tirana megye része", "Kereskedelmi parkok", "SH2-es autópálya mentén", "Gyors urbanizáció", "Logisztikai bázisok", "A főváros nyugati széle"],
+      ro: ["Centru industrial major", "Lângă autostrada Tirana-Durrës", "Județul Tirana", "Dezvoltare imobiliară rapidă", "Nod logistic", "Zonă comercială"],
+      en: ["Major industrial zone", "Western suburb of Tirana", "Located on SH2 highway", "High economic growth", "Logistics and trade hub", "Tirana County"],
+    },
+  },
+  {
+    id: "albania-balldren-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Balldren", hu: "Balldren", ro: "Balldren", en: "Balldren" },
+    coordinates: { lat: 41.8167, lng: 19.6333 },
+    description: {
+      de: "Balldren ist ein Dorf nördlich von Lezha, das als wichtiger Verkehrsknotenpunkt zwischen der Küste und dem Mirdita-Hochland dient.",
+      hu: "Balldren egy falu Lezha-tól északra, amely fontos közlekedési csomópontként szolgál a tengerpart és a Mirdita-felföld között.",
+      ro: "Balldren este un sat la nord de Lezha, servind ca nod de transport important între coastă și munții Mirdita.",
+      en: "Balldren is a village north of Lezha, serving as an important transport hub between the coast and the Mirdita highlands.",
+    },
+    facts: {
+      de: ["Knotenpunkt der Nationalstraße SH1", "Zentrum für Getreideanbau", "Liegt am Rande der Zadrima-Ebene", "In der Nähe der Stadt Lezha"],
+      hu: ["Az SH1-es főút csomópontja", "Gabonatermesztési központ", "A Zadrima-síkság szélén fekszik", "Lezha városa közelében"],
+      ro: ["Nod rutier pe drumul național SH1", "Centru pentru cultura cerealelor", "Situat la marginea câmpiei Zadrima", "În apropierea orașului Lezha"],
+      en: ["Junction of the SH1 national road", "Center for grain production", "Located on the edge of Zadrima plain", "Near the city of Lezha"],
+    },
+    imageHint: "Road junction and fields in Balldren",
+    descriptionAdvanced: {
+      de: "Balldren liegt in der Nähe von Lezha in einer fruchtbaren Tiefebene. Das Dorf ist bekannt für seine historische Kirche und die Nähe zum Naturschutzgebiet Kune-Vain-Tale.",
+      hu: "Balldren Lezha városa mellett, a Drin folyó síkságán található. A település fontos mezőgazdasági terület, amely közvetlen hozzáféréssel rendelkezik az adriai mocsárvilághoz.",
+      ro: "Balldren este o localitate situată lângă Lezha, într-o zonă de câmpie bogată. Este cunoscută pentru biserica sa veche și pentru proximitatea față de lagunele de coastă ale Adriaticii.",
+      en: "Balldren is situated near Lezha in a fertile plain. It is known for its historic church architecture and its proximity to the ecologically diverse Kune-Vain-Tale lagoon.",
+    },
+    factsAdvanced: {
+      de: ["Bezirk Lezha", "Nahe Kune-Vain-Lagune", "Historische Kirche", "Landwirtschaftliche Ebene", "Drin-Fluss-Region", "Nordalbanien"],
+      hu: ["Lezha megye területe", "Kune-Vain lagúna közelében", "Régi keresztény templom", "Mezőgazdasági közösség", "Síkvidéki táj", "Drin folyó völgye"],
+      ro: ["Județul Lezha", "Aproape de laguna Kune", "Biserică istorică", "Câmpie fertilă", "Nordul Albaniei", "Zona râului Drin"],
+      en: ["Located in Lezha County", "Near Kune-Vain lagoon", "Historic church site", "Fertile farmland", "Drin River proximity", "Northern coastal plain"],
+    },
+  },
+  {
+    id: "albania-shkret-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Shkret", hu: "Shkret", ro: "Shkret", en: "Shkret" },
+    coordinates: { lat: 41.5167, lng: 19.7833 },
+    description: {
+      de: "Shkret ist ein Bergdorf in der Region Kruja, bekannt für seine traditionelle Olivenölproduktion und die weite Aussicht auf die zentrallbanische Küstenebene.",
+      hu: "Shkret egy hegyi falu Kruja régióban, amely hagyományos olívaolaj-termeléséről és a közép-albán partmenti síkságra nyíló kilátásáról ismert.",
+      ro: "Shkret este un sat montan din regiunea Kruja, cunoscut pentru producția tradițională de ulei de măsline și vederea panoramică asupra câmpiei de coastă.",
+      en: "Shkret is a mountain village in the Kruja region known for its traditional olive oil production and wide views of the central Albanian coastal plain.",
+    },
+    facts: {
+      de: ["Berühmt für jahrhundertealte Olivenbäume", "Liegt an den Hängen des Kruja-Berges", "Zentrum des ökologischen Olivenanbaus", "Traditionelle Steinarchitektur"],
+      hu: ["Évszázados olajfáiról híres", "A Kruja-hegy lejtőin fekszik", "Az ökológiai olajbogyó-termesztés központja", "Hagyományos kőépítészet"],
+      ro: ["Faimos pentru măslinii vechi de secole", "Situat pe pantele muntelui Kruja", "Centru al culturii ecologice de măslini", "Arhitectură tradițională din piatră"],
+      en: ["Famous for centuries-old olive trees", "Located on the slopes of Kruja Mountain", "Center of ecological olive farming", "Traditional stone architecture"],
+    },
+    imageHint: "Old olive trees and village houses in Shkret",
+    descriptionAdvanced: {
+      de: "Shkret ist ein kleines Dorf in der Nähe von Kruja, das für seine unberührte Natur und die traditionelle ländliche Lebensweise bekannt ist. Es liegt in den Ausläufern des Skanderbeg-Gebirges.",
+      hu: "Shkret egy festői hegyi falu Kruja közelében. A település a Szkander-bég hegység lábánál fekszik, és kiváló kiindulópont a természetjárók számára az érintetlen erdők felé.",
+      ro: "Shkret este un sat pitoresc situat în apropierea orașului Kruja. Localitatea oferă panorame deosebite asupra munților Skanderbeg și păstrează tradiții rurale autentice.",
+      en: "Shkret is a small village near Kruja, nestled in the foothills of the Skanderbeg Mountains. It is appreciated for its pristine natural environment and authentic rural atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Nähe zu Kruja", "Skanderbeg-Gebirge", "Traditionelle Landwirtschaft", "Bezirk Durrës", "Hügelige Landschaft", "Naturnaher Tourismus"],
+      hu: ["Kruja szomszédságában", "Szkander-bég hegység", "Hegyi túraútvonalak", "Hagyományos életmód", "Durrës megye", "Érintetlen természet"],
+      ro: ["Lângă orașul Kruja", "Munții Skanderbeg", "Peisaj montan", "Tradiții locale", "Județul Durrës", "Ecoturism rural"],
+      en: ["Located near Kruja", "Skanderbeg Mountain range", "Traditional farming", "Durrës County", "Mountainous terrain", "Rural hiking destination"],
+    },
+  },
+  {
+    id: "albania-farke-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Farkë", hu: "Farkë", ro: "Farkë", en: "Farkë" },
+    coordinates: { lat: 41.3083, lng: 19.8667 },
+    description: {
+      de: "Farkë ist ein gehobener Vorort im Südosten von Tirana, der für seinen schönen künstlichen See und moderne Villen bekannt ist.",
+      hu: "Farkë Tirana délkeleti részén fekvő elegáns külváros, amely szép mesterséges taváról és modern villáiról ismert.",
+      ro: "Farkă este o suburbie selectă din sud-estul Tiranei, cunoscută pentru frumosul său lac artificial și vilele moderne.",
+      en: "Farkë is an upscale suburb in the southeast of Tirana, known for its beautiful artificial lake and modern villas.",
+    },
+    facts: {
+      de: ["Zentrum für Freizeit und Erholung", "Standort des Farkë-Sees", "Beliebtes Wohngebiet für Diplomaten", "Bekannt für traditionelle Töpferei"],
+      hu: ["Szabadidős és pihenő központ", "A Farkë-tó helyszíne", "Diplomaták kedvelt lakóhelye", "Hagyományos fazekasságáról ismert"],
+      ro: ["Centru pentru agrement și recreere", "Locația lacului Farkă", "Zonă rezidențială preferată de diplomați", "Cunoscut pentru olăritul tradițional"],
+      en: ["Center for leisure and recreation", "Site of the Farkë Lake", "Popular residential area for diplomats", "Known for traditional pottery"],
+    },
+    imageHint: "Modern villas and lake in Farkë suburb",
+    descriptionAdvanced: {
+      de: "Farkë ist ein wohlhabender Vorort von Tirana, der für seinen künstlichen See bekannt ist. Die Gegend hat sich zu einem bevorzugten Wohngebiet mit vielen Parks und Freizeitmöglichkeiten entwickelt.",
+      hu: "Farkë Tirana egyik legnépszerűbb pihenőövezete, amely a mesterséges taváról híres. A környéken luxus lakóparkok és modern sportlétesítmények épültek a zöldövezetben.",
+      ro: "Farkë este o suburbie rezidențială de lux a Tiranei, faimoasă pentru lacul său artificial. Este o zonă verde preferată pentru activități în aer liber și sporturi nautice ușoare.",
+      en: "Farkë is an upscale residential area on the eastern edge of Tirana, centered around a large artificial lake. It is a premier destination for recreation, jogging, and modern living.",
+    },
+    factsAdvanced: {
+      de: ["Künstlicher See von Farkë", "Bezirk Tirana", "Wohlhabendes Wohngebiet", "Nahe dem Dajti-Berg", "Freizeit- und Erholungspark", "Östlicher Vorort"],
+      hu: ["Farkë-i mesterséges tó", "Tirana megye", "Exkluzív lakónegyed", "Dajti-hegy lábánál", "Szabadidős központ", "Parkosított környezet"],
+      ro: ["Lac artificial mare", "Județul Tirana", "Zonă rezidențială de lux", "Parcuri recreative", "Aproape de muntele Dajti", "Piste de alergare"],
+      en: ["Farkë Artificial Lake", "Tirana County", "Upscale residential zone", "Recreational park areas", "Near Mount Dajti", "Major expansion zone"],
+    },
+  },
+  {
+    id: "albania-vaqarr-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Vaqarr", hu: "Vaqarr", ro: "Vaqarr", en: "Vaqarr" },
+    coordinates: { lat: 41.3, lng: 19.75 },
+    description: {
+      de: "Vaqarr ist eine Industriegemeinde westlich von Tirana am Fluss Erzen. Sie beherbergt wichtige Produktionsstätten und Lagerhäuser der Hauptstadtregion.",
+      hu: "Vaqarr egy ipari közösség Tirana-tól nyugatra, az Erzen-folyó mentén. A fővárosi régió fontos gyártóüzemeinek és raktárainak ad otthont.",
+      ro: "Vaqarr este o comunitate industrială la vest de Tirana, pe râul Erzen. Găzduiește unități de producție și depozite importante ale regiunii capitalei.",
+      en: "Vaqarr is an industrial community west of Tirana on the Erzen River. It houses important production facilities and warehouses of the capital region.",
+    },
+    facts: {
+      de: ["Wichtiger Standort der Baustoffindustrie", "Liegt an der Nationalstraße SH56", "Anrainer des Erzen-Flusses", "Zentrum für lokale Handwerksbetriebe"],
+      hu: ["Az építőanyag-ipar fontos helyszíne", "Az SH56-os főút mentén fekszik", "Az Erzen-folyó partján", "Helyi kézműves vállalkozások központja"],
+      ro: ["Locație importantă a industriei materialelor de construcții", "Situat pe drumul național SH56", "Învecinat cu râul Erzen", "Centru pentru afaceri meșteșugărești locale"],
+      en: ["Important site for building materials industry", "Located on the SH56 national road", "Bordered by the Erzen River", "Center for local craft businesses"],
+    },
+    imageHint: "Industrial zone and river in Vaqarr",
+    descriptionAdvanced: {
+      de: "Vaqarr liegt im Südwesten von Tirana und dient als wichtiges landwirtschaftliches Versorgungszentrum für die Hauptstadt. Die Region ist bekannt für ihre Olivenhaine und kleinen Farmen.",
+      hu: "Vaqarr Tirana délnyugati részén található, és a főváros egyik fő élelmiszer-ellátó körzete. A település dombjait kiterjedt olajfaligetek és gyümölcsösök borítják.",
+      ro: "Vaqarr este situat în partea de sud-vest a capitalei și este un centru agricol vital. Localitatea furnizează produse proaspete piețelor din Tirana și găzduiește mici unități industriale.",
+      en: "Vaqarr is located southwest of Tirana, acting as a key agricultural supply hub for the capital. The area is characterized by its rolling hills, olive groves, and local produce markets.",
+    },
+    factsAdvanced: {
+      de: ["Südwestlich von Tirana", "Olivenölproduktion", "Bezirk Tirana", "Landwirtschaftlicher Fokus", "An der Straße nach Elbasan", "Hügelige Umgebung"],
+      hu: ["Tirana délnyugati kapuja", "Olívabogyó-termesztés", "Tirana megye", "Mezőgazdasági övezet", "Helyi piacok", "Dombvidéki táj"],
+      ro: ["Sud-vest de Tirana", "Producție de măsline", "Județul Tirana", "Centru de aprovizionare", "Pepinieră agricolă", "Relief colinar"],
+      en: ["Southwest of Tirana", "Major olive production", "Tirana County", "Agricultural focus", "Proximity to Erzen river", "Regional supply center"],
+    },
+  },
+  {
+    id: "albania-balldushk-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Baldushk", hu: "Baldushk", ro: "Baldushk", en: "Baldushk" },
+    coordinates: { lat: 41.2167, lng: 19.8667 },
+    description: {
+      de: "Baldushk ist ein ländliches Dorf südlich von Tirana, berühmt für seine Qualitätsprodukte, insbesondere Truthähne und Olivenöl.",
+      hu: "Baldushk egy vidéki falu Tirana-tól délre, amely minőségi termékeiről, különösen a pulykáról és az olívaolajról híres.",
+      ro: "Baldushk este un sat rural la sud de Tirana, faimos pentru produsele sale de calitate, în special curcanii și uleiul de măsline.",
+      en: "Baldushk is a rural village south of Tirana, famous for its quality products, especially turkeys and olive oil.",
+    },
+    facts: {
+      de: ["Bekannt für den Baldushk-Truthahn", "Wichtigster Fleischlieferant der Hauptstadt", "Malerische Hügellandschaft", "Zentrum für Agrotourismus"],
+      hu: ["A baldushki pulykáról ismert", "A főváros legfontosabb hússzállítója", "Festői domvidéki táj", "Agroturisztikai központ"],
+      ro: ["Cunoscut pentru curcanul de Baldushk", "Cel mai important furnizor de carne al capitalei", "Peisaj colinar pitoresc", "Centru pentru agroturism"],
+      en: ["Known for the Baldushk turkey", "Main meat supplier for the capital", "Picturesque hilly landscape", "Center for agrotourism"],
+    },
+    imageHint: "Rural village Baldushk with farm animals",
+    descriptionAdvanced: {
+      de: "Baldushk ist ein ländliches Gebiet südlich von Tirana, das für den Anbau von Bio-Produkten und seine Truthahnzucht berühmt ist. Es ist ein beliebtes Ziel für Agrotourismus.",
+      hu: "Baldushk a fővárostól délre fekvő mezőgazdasági terület, amely Albánia-szerte híres a pulykafarmjairól. A falu az ökoturizmus és a háztáji gazdálkodás egyik mintaképe.",
+      ro: "Baldushk este o zonă rurală la sud de Tirana, renumită pentru agricultura ecologică și creșterea curcanilor. Este o destinație populară pentru turiștii care caută produse bio.",
+      en: "Baldushk is a rural district south of Tirana, widely famous for its organic farming and traditional turkey breeding. It has become a leading center for agrotourism in central Albania.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für Truthahnzucht", "Bio-Landwirtschaft", "Bezirk Tirana", "Agrotourismus-Ziel", "Südlich der Hauptstadt", "Traditionelle Küche"],
+      hu: ["Pulykatenyésztés központja", "Bio-élelmiszer termelés", "Tirana megye", "Agroturisztikai célpont", "Hagyományos falusi élet", "Dél-Tirana vidéke"],
+      ro: ["Renumit pentru curcani", "Agricultură bio", "Județul Tirana", "Destinație agroturistică", "Tradiții culinare", "Zonă colinară sudică"],
+      en: ["Famous for turkey farms", "Organic farming hub", "Tirana County", "Agrotourism destination", "South of Tirana", "Traditional food festivals"],
+    },
+  },
+  {
+    id: "albania-krrabe-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Krrabë", hu: "Krrabë", ro: "Krrabë", en: "Krrabë" },
+    coordinates: { lat: 41.2167, lng: 19.9667 },
+    description: {
+      de: "Krrabë ist eine ehemalige Bergbaustadt im Krrabë-Gebirge zwischen Tirana und Elbasan. Sie ist für ihre Tunnel und den Krrabë-Pass bekannt.",
+      hu: "Krrabë egy egykori bányászváros a Krrabë-hegységben, Tirana és Elbasan között. Alagútjairól és a Krrabë-hágóról ismert.",
+      ro: "Krrabă este un fost oraș minier din munții Krrabă, situat între Tirana și Elbasan. Este cunoscut pentru tunelurile sale și trecătoarea Krrabă.",
+      en: "Krrabë is a former mining town in the Krrabë mountains between Tirana and Elbasan. It is known for its tunnels and the Krrabë Pass.",
+    },
+    facts: {
+      de: ["Früher bedeutendes Kohlezentrum", "Standort des Krrabë-Autobahntunnels", "Höchster Punkt der Route Tirana-Elbasan", "Beliebter Wanderort in den Bergen"],
+      hu: ["Korábban jelentős szénközpont", "A Krrabë-autópálya alagút helyszíne", "A Tirana-Elbasan útvonal legmagasabb pontja", "Kedvelt hegyi túrázóhely"],
+      ro: ["În trecut, centru important de cărbune", "Locația tunelului autostrăzii Krrabă", "Cel mai înalt punct al rutei Tirana-Elbasan", "Loc popular pentru drumeții montane"],
+      en: ["Formerly significant coal center", "Site of the Krrabë highway tunnel", "Highest point of the Tirana-Elbasan route", "Popular mountain hiking spot"],
+    },
+    imageHint: "Mountain pass and highway tunnel in Krrabë",
+    descriptionAdvanced: {
+      de: "Krrabë liegt an der kurvenreichen Passstraße zwischen Tirana und Elbasan. Die Gegend ist bekannt für ihre ehemaligen Kohleminen und die dramatische Berglandschaft Mittelalbaniens.",
+      hu: "Krrabë a Tirana és Elbasan közötti hegyi hágón található. A település korábban fontos szénbányászati központ volt, ma pedig a látványos hegyi panorámáiról ismert.",
+      ro: "Krrabë este situat pe trecătoarea muntoasă dintre Tirana și Elbasan. Localitatea are o istorie minieră bogată și oferă acces la peisaje montane spectaculoase și peșteri locale.",
+      en: "Krrabë is situated on the mountain pass between Tirana and Elbasan. Historically a mining town, it is now known for its rugged terrain, hiking paths, and the Krrabë Tunnel.",
+    },
+    factsAdvanced: {
+      de: ["Ehemalige Kohleminen", "Krrabë-Pass", "Bezirk Tirana", "Gebirgslandschaft", "Tunnelbauprojekt SH3", "Industriegeschichte"],
+      hu: ["Egykori szénbányák", "Hegyi hágó (Krrabë)", "Tirana megye", "Sziklás domborzat", "SH3-as út mentén", "Bányászati örökség"],
+      ro: ["Foste mine de cărbune", "Pasul muntos Krrabë", "Județul Tirana", "Peisaj stâncos", "Tunel rutier major", "Istorie industrială"],
+      en: ["Former coal mining center", "Strategic mountain pass", "Tirana County", "Rugged mountain terrain", "New Krrabë Tunnel", "Industrial heritage site"],
+    },
+  },
+  {
+    id: "albania-peze-cities-v2",
+    type: "village",
+    parent: "AL",
+    name: { de: "Pezë", hu: "Pezë", ro: "Pezë", en: "Pezë" },
+    coordinates: { lat: 41.2167, lng: 19.6833 },
+    description: {
+      de: "Pezë ist ein geschichtsträchtiges Dorf südwestlich von Tirana. Es ist berühmt für die Konferenz von Pezë im Jahr 1942, ein Meilenstein des albanischen Widerstands.",
+      hu: "Pezë egy történelmi falu Tirana-tól délnyugatra. Az 1942-es Pezë-i konferenciáról híres, amely az albán ellenállás mérföldköve volt.",
+      ro: "Peză este un sat istoric situat la sud-vest de Tirana. Este faimos pentru Conferința de la Peză din 1942, un punct de reper al rezistenței albaneze.",
+      en: "Pezë is a village rich in history southwest of Tirana. It is famous for the Pezë Conference in 1942, a milestone of the Albanian resistance.",
+    },
+    facts: {
+      de: ["Standort des Pezë-Widerstandsmuseums", "Zentrum des jährlichen Pezfest-Festivals", "Grüner Park und Ausflugsziel", "Haus des Partisanenhelden Myslym Peza"],
+      hu: ["A Pezë-i ellenállási múzeum helyszíne", "Az éves Pezfest fesztivál központja", "Zöld park és kirándulóhely", "Myslym Peza partizánhős háza"],
+      ro: ["Locația Muzeului Rezistenței din Peză", "Centrul festivalului anual Pezfest", "Parc verde și destinație de excursie", "Casa eroului partizan Myslym Peza"],
+      en: ["Site of the Pezë resistance museum", "Center of the annual Pezfest festival", "Green park and excursion destination", "Home of partisan hero Myslym Peza"],
+    },
+    imageHint: "Historical park and museum in Pezë village",
+    descriptionAdvanced: {
+      de: "Das Dorf Pezë ist historisch bedeutend als Ort der Konferenz von 1942, die den Widerstand einte. Heute dient es als beliebtes Ausflugsziel im Grünen für Bewohner Tiranas.",
+      hu: "Pezë a tiranaiak kedvelt hétvégi pihenőhelye, amely az 1942-es Pezë-i Konferencia helyszíneként vonult be az albán történelembe, ahol az antifasiszta erőket egyesítették.",
+      ro: "Pezë este o destinație rurală situată la vest de capitală, renumită istoric pentru Conferința din 1942 care a pus bazele luptei unite împotriva ocupației italiene.",
+      en: "Historically famous for the 1942 Pezë Conference, this village southwest of Tirana has evolved into a serene recreational area known for its traditional countryside charm.",
+    },
+    factsAdvanced: {
+      de: ["Die Konferenz von Pezë fand am 16. September 1942 statt.", "Der Ort liegt etwa 20 Kilometer südwestlich von Tirana.", "Pezë ist bekannt für seine Gedenkstätte der Gefallenen.", "Das Gebiet wird vom Fluss Erzen geografisch geprägt.", "Es gehört administrativ zur Gemeinde Tirana.", "Die Region umfasst mehrere kleine Dörfer wie Pezë e Madhe."],
+      hu: ["A Pezë-i Konferencia dátuma 1942. szeptember 16.", "A település az Erzen-folyó völgyében helyezkedik el.", "Tiranától közúton nagyjából 20 km távolságra fekszik.", "Itt található az albán nemzeti hősök egyik emlékparkja.", "A terület kedvelt a lovaglás és a szabadtéri túrázás miatt.", "A közigazgatási egység központja Pezë e Madhe falu."],
+      ro: ["Localitatea se află la o altitudine de circa 250 de metri.", "Distanța rutieră până în centrul Tiranei este de 22 km.", "Conferința din 1942 a reunit 10 delegați din diverse tabere.", "Unitatea administrativă cuprinde un număr de 10 sate.", "Economia locală se bazează pe agricultură și agroturism.", "Este traversată de drumul regional care leagă Tirana de Ndroq."],
+      en: ["The historic Pezë Conference took place on Sep 16, 1942.", "It is located approximately 20 km southwest of Tirana city.", "The administrative unit covers an area of roughly 45 km².", "The Martyrs' Cemetery is a key landmark in the village center.", "The Erzen River flows through the eastern part of the area.", "Peza is a popular site for the annual 'Peza N'Fest' festival."],
+    },
+  },
+  {
+    id: "albania-zall-herr-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Zall-Herr", hu: "Zall-Herr", ro: "Zall-Herr", en: "Zall-Herr" },
+    coordinates: { lat: 41.3833, lng: 19.8333 },
+    description: {
+      de: "Zall-Herr ist eine Gemeinde nördlich von Tirana, die für ihre strategische Militärbasis und ihre Lage im hügeligen Vorland des Dajti-Gebirges bekannt ist.",
+      hu: "Zall-Herr egy közösség Tirana-tól északra, amely stratégiai katonai bázisáról és a Dajti-hegység dombos előterében elfoglalt helyzetéről ismert.",
+      ro: "Zall-Herr este o comunitate la nord de Tirana, cunoscută pentru baza sa militară strategică și locația în zona colinară de la poalele munților Dajti.",
+      en: "Zall-Herr is a community north of Tirana known for its strategic military base and location in the hilly foreland of the Dajti mountains.",
+    },
+    facts: {
+      de: ["Sitz des albanischen Kommandotrupps", "Wichtige militärische Trainingseinrichtung", "Hügelige Agrarlandschaft", "Anschluss an die Region Kamëz"],
+      hu: ["Az albán kommandós egység székhelye", "Fontos katonai kiképző központ", "Dombvidéki mezőgazdasági táj", "Összeköttetés Kamëz régiójával"],
+      ro: ["Sediul trupelor de comando albaneze", "Centru important de antrenament militar", "Peisaj agricol colinar", "Conexiune cu regiunea Kamëz"],
+      en: ["Home of the Albanian Commando unit", "Important military training facility", "Hilly agricultural landscape", "Connected to the Kamëz region"],
+    },
+    imageHint: "Military barracks and hills in Zall-Herr",
+    descriptionAdvanced: {
+      de: "Zall-Herr liegt nördlich von Tirana und ist primär als Standort des wichtigsten albanischen Kommando-Regiments und weitläufiger militärischer Übungsgelände bekannt.",
+      hu: "Tirantól északra fekvő dombos terület, amely az albán hadsereg elit kommandós egységének és egyik legnagyobb kiképzőbázisának ad otthont a hegyek lábánál.",
+      ro: "Situată la nord de capitală, Zall-Herr este o zonă strategică ce găzduiește baza principală a regimentului de comando din cadrul Forțelor Armate Albaneze.",
+      en: "Positioned north of Tirana, Zall-Herr is an administrative unit characterized by its rugged terrain and its role as the headquarters for Albania's elite commando unit.",
+    },
+    factsAdvanced: {
+      de: ["Hier ist das albanische Kommando-Regiment stationiert.", "Die Region liegt am Fuße des Kruja-Gebirgszugs.", "Zall-Herr umfasst insgesamt 9 verschiedene Dörfer.", "Der Fluss Tërkuzë durchfließt das Verwaltungsgebiet.", "Die Entfernung zum Stadtzentrum von Tirana beträgt 12 km.", "Es gibt bedeutende Steinbrüche in den umliegenden Hügeln."],
+      hu: ["Az albán szárazföldi erők elit bázisa található itt.", "A település a Tërkuzë-folyó partján helyezkedik el.", "9 kisebb falu tartozik ehhez a közigazgatási egységhez.", "A tengerszint feletti magassága átlagosan 150-300 méter.", "Közúton mindössze 15 percre fekszik a fővárostól.", "A területen jelentős bányászati tevékenység folyik."],
+      ro: ["Găzduiește baza militară a Regimentului de Comando albanez.", "Râul Tërkuzë traversează partea sudică a localității.", "Populația unității administrative depășește 9.000 de locuitori.", "Altitudinea maximă în zonă depășește 500 de metri în est.", "Zall-Herr este compusă dintr-un total de 9 sate componente.", "Se află la mică distanță de parcul național Dajti."],
+      en: ["Home to the main base of the Albanian Commando Regiment.", "The Tërkuzë River flows along the southern border.", "It consists of 9 villages, with Zall-Herr as the center.", "Located roughly 12 kilometers north of central Tirana.", "The area serves as a vital military training ground.", "Significant limestone quarries operate in the vicinity."],
+    },
+  },
+  {
+    id: "albania-berxulle-cities-v2",
+    type: "town",
+    parent: "AL",
+    name: { de: "Bërxullë", hu: "Bërxullë", ro: "Bërxullë", en: "Bërxullë" },
+    coordinates: { lat: 41.38, lng: 19.7 },
+    description: {
+      de: "Bërxullë ist eine strategisch gelegene Gemeinde in der Nähe des Flughafens Tirana. Sie hat sich zu einem bedeutenden Zentrum für Logistik und Industrie entwickelt.",
+      hu: "Bërxullë egy stratégiailag fekvő közösség a Tirana-i repülőtér közelében. Jelentős logisztikai és ipari központtá fejlődött.",
+      ro: "Bărxullă este o comunitate situată strategic în apropierea aeroportului din Tirana. S-a dezvoltat într-un centru logistic și industrial important.",
+      en: "Bërxullë is a strategically located community near Tirana Airport. It has developed into a significant logistical and industrial center.",
+    },
+    facts: {
+      de: ["Direkte Nähe zum Flughafen Rinas", "Knotenpunkt für internationale Speditionen", "Zentrum für Leichtindustrie", "Anschluss an die Autobahn SH2"],
+      hu: ["A Rinasi repülőtér közvetlen közelében", "Nemzetközi szállítmányozási csomópont", "Könnyűipari központ", "Csatlakozás az SH2-es autópályához"],
+      ro: ["Proximitate directă față de aeroportul Rinas", "Nod pentru expediții internaționale", "Centru pentru industria ușoară", "Acces la autostrada SH2"],
+      en: ["Direct proximity to Rinas Airport", "Hub for international freight forwarding", "Center for light industry", "Connected to the SH2 highway"],
+    },
+    imageHint: "Warehouses and logistics near Bërxullë",
+    descriptionAdvanced: {
+      de: "Bërxullë profitiert von seiner strategischen Lage zwischen Tirana und dem internationalen Flughafen Rinas und hat sich zu einem bedeutenden Logistik- und Industriezentrum entwickelt.",
+      hu: "A tiranai repülőtér és az autópálya szomszédságában fekvő település az ország egyik leggyorsabban fejlődő ipari zónája, számos nemzetközi cég raktárközpontja.",
+      ro: "Localizată strategic între Tirana și Aeroportul Rinas, Bërxullë a devenit un nod vital pentru depozitare și logistică datorită accesului rapid la autostradă.",
+      en: "Strategically situated near the Tirana International Airport and the SH2 highway, Bërxullë is a rapidly expanding industrial hub and a critical logistics center for Albania.",
+    },
+    factsAdvanced: {
+      de: ["Der Ort liegt direkt an der Autobahn Tirana-Durrës (SH2).", "Die Entfernung zum Flughafen Rinas beträgt nur 5 Kilometer.", "Hier befinden sich zahlreiche Zoll- und Logistiklager.", "Das Dorf gehört zur Gemeinde Vorë im Bezirk Tirana.", "Die Bevölkerung ist durch industrielle Ansiedlung gewachsen.", "Der Fluss Lana mündet unweit dieser Region in den Ishëm."],
+      hu: ["Közvetlenül a Tirana-Durrës (SH2) autópálya mellett fekszik.", "A tiranai nemzetközi repülőtér mindössze 10 perc autóval.", "A település Vorë önkormányzatához tartozik közigazgatásilag.", "Számos élelmiszeripari és építőipari raktár központja.", "A területen áthalad a Tirana-Durrës vasútvonal is.", "Tengerszint feletti magassága mindössze 35-50 méter."],
+      ro: ["Se află la aproximativ 10 km vest de centrul Tiranei.", "Localitatea este parte integrantă a municipiului Vorë.", "Este un punct cheie pe coridorul industrial Tirana-Durrës.", "Aproape de intersecția dintre autostrada SH2 și drumul Rinas.", "Găzduiește sedii ale multor companii multinaționale.", "Suprafața unității administrative este de circa 12 km²."],
+      en: ["Located adjacent to the SH2 Tirana-Durrës highway corridor.", "Only 5 km distance from Tirana International Airport (TIA).", "Administratively, it is part of the Vorë municipality.", "The area is home to major customs warehouses and factories.", "The Tirana-Durrës railway line passes through the area.", "Population has surged due to the surrounding industrial zones."],
+    },
   }
 ];

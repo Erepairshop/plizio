@@ -7,453 +7,810 @@ export const poiExtraSomaliaHistoryV2: POI[] = [
     type: "historical",
     parent: "SO-WO",
     coords: [44.15, 9.6],
-    name: { de: "Laas Geel Felsmalereien", hu: "Laas Geel sziklarajzok", ro: "Picturile rupestre Laas Geel", en: "Laas Geel Rock Art",
-image: "/poi-images/laas-geel-history-v2.webp"
-},
+    name: { de: "Laas Geel Felsmalereien", hu: "Laas Geel sziklarajzok", ro: "Picturile rupestre Laas Geel", en: "Laas Geel Rock Art"},
+    image: "/poi-images/laas-geel-history-v2.webp",
     description: { de: "Antike Felsmalereien, die Rinder, Menschen und Hunde in lebhaften Farben zeigen.", hu: "Ősi sziklarajzok, amelyek szarvasmarhákat, embereket és kutyákat ábrázolnak élénk színekkel.", ro: "Picturi rupestre antice care înfățișează vite, oameni și câini în culori vii.", en: "Ancient rock paintings depicting cattle, humans, and dogs in vivid colors." },
     facts: {
       de: ["Über 5000 Jahre alt.", "Eine der am besten erhaltenen Höhlenmalereien Afrikas."],
       hu: ["Több mint 5000 évesek.", "Afrika egyik legjobban megőrzött barlangrajza."],
       ro: ["Vechime de peste 5000 de ani.", "Una dintre cele mai bine conservate picturi rupestre din Africa."],
       en: ["Over 5000 years old.", "One of the best-preserved cave paintings in Africa."]
-    }, image: "/poi-images/laas-geel-history-v2.webp"},
+    }, image: "/poi-images/laas-geel-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Laas Geel ist eine prähistorische Felsmalereistätte in Somaliland, etwa 50 km nordöstlich von Hargeisa. Die Höhlenmalereien stammen aus der Zeit zwischen 9.000 und 3.000 v. Chr. und zeigen Rinder, Giraffen, Schafe und menschliche Figuren. Die Felsbilder sind bemerkenswert gut erhalten, da sie in Schutzstellungen unter überhängenden Felsen gemalt wurden. Entdeckt wurden sie 2002 von französischen Archäologen unter der Leitung von Xavier Gutherz. Die Stätte ist eine der ältesten und bedeutendsten Felsmalereien am Horn von Afrika. Laas Geel wurde 2019 in die Tentativliste des UNESCO-Weltkulturerbes aufgenommen. Die Malereien liefern Einblicke in das Leben neolithischer Hirten.",
+      hu: "Laas Geel egy őskori sziklarajz lelőhely Szomáliföldön, Hargeisától mintegy 50 km-re északkeletre. A barlangrajzok i. e. 9000 és 3000 között készültek, és szarvasmarhát, zsiráfot, juhot és emberi alakokat ábrázolnak. A képek figyelemre méltóan jó állapotban maradtak fenn, mivel szikla túlnyúlások védik őket. 2002-ben fedezték fel Xavier Gutherz vezette francia régészek. A lelőhely az egyik legrégebbi és legjelentősebb sziklarajz Afrika szarván. Laas Geel 2019-ben felkerült az UNESCO világörökségi javaslati listájára. A rajzok bepillantást nyújtanak a neolitikus pásztorok életébe.",
+      ro: "Laas Geel este un sit de picturi rupestre preistorice din Somaliland, la aproximativ 50 km nord-est de Hargeisa. Picturile datează din perioada 9.000-3.000 î.Hr. și înfățișează vite, girafe, oi și figuri umane. Sunt remarcabil de bine conservate datorită adăpostirii sub stânci. Descoperite în 2002 de arheologi francezi conduși de Xavier Gutherz, situl este unul dintre cele mai vechi și mai importante ansambluri de artă rupestră din Cornul Africii. Laas Geel a fost inclus în 2019 pe lista tentativă a Patrimoniului Mondial UNESCO. Picturile oferă informații despre viața păstorilor neolitici.",
+      en: "Laas Geel is a prehistoric rock art site in Somaliland, about 50 km northeast of Hargeisa. The cave paintings date from 9,000-3,000 BCE and depict cattle, giraffes, sheep, and human figures. They are remarkably well-preserved due to being sheltered under rock overhangs. Discovered in 2002 by French archaeologists led by Xavier Gutherz, the site is one of the oldest and most significant rock art complexes in the Horn of Africa. Laas Geel was added to the UNESCO World Heritage Tentative List in 2019, providing insights into Neolithic pastoralist life.",
+    },
+    factsAdvanced: {
+      de: ["Alter: 9.000 - 3.000 v. Chr.", "Entdeckt 2002 von französischen Archäologen.", "50 km nordöstlich von Hargeisa.", "Motive: Rinder, Giraffen, Schafe, Menschen.", "2019 in UNESCO-Tentativliste aufgenommen.", "Höhlenmalereien unter Felsüberhängen."],
+      hu: ["Kor: i. e. 9000-3000.", "Felfedezés éve: 2002, francia régészek.", "Hargeisától 50 km-re északkeletre.", "Ábrázolások: szarvasmarha, zsiráf, juh, ember.", "2019-ben UNESCO javaslati listán.", "Sziklák alatt védett rajzok."],
+      ro: ["Datare: 9.000-3.000 î.Hr.", "Descoperit în 2002 de arheologi francezi.", "50 km nord-est de Hargeisa.", "Motiv: bovine, girafe, oi, figuri umane.", "Înscris în 2019 pe lista tentativă UNESCO.", "Picturi rupestre adăpostite sub stânci."],
+      en: ["Age: 9,000-3,000 BCE.", "Discovered in 2002 by French archaeologists.", "50 km northeast of Hargeisa.", "Depictions: cattle, giraffes, sheep, humans.", "Added to UNESCO Tentative List in 2019.", "Cave paintings under rock overhangs."],
+    },
+  },
   {
     id: "taleh-fort-history-v2",
     type: "historical",
     parent: "SO-SO",
     coords: [48.4167, 9.15],
-    name: { de: "Festung Taleh", hu: "Taleh-erőd", ro: "Fortăreața Taleh", en: "Taleh Fort",
-image: "/poi-images/taleh-fort-history-v2.webp"
-},
+    name: { de: "Festung Taleh", hu: "Taleh-erőd", ro: "Fortăreața Taleh", en: "Taleh Fort"},
+    image: "/poi-images/taleh-fort-history-v2.webp",
     description: { de: "Ehemalige Hauptstadt des Derwisch-Staates unter Mohammed Abdullah Hassan im frühen 20. Jahrhundert.", hu: "A dervis állam egykori fővárosa Mohammed Abdullah Hassan alatt a 20. század elején.", ro: "Fosta capitală a statului derviș sub Mohammed Abdullah Hassan la începutul secolului al XX-lea.", en: "Former capital of the Dervish state under Mohammed Abdullah Hassan in the early 20th century." },
     facts: {
       de: ["Besteht aus mehreren Befestigungsanlagen.", "Wurde 1920 von britischen Luftstreitkräften bombardiert."],
       hu: ["Több erődítményből áll.", "1920-ban a brit légierő lebombázta."],
       ro: ["Constă din mai multe fortificații.", "Bombardat de forțele aeriene britanice în 1920."],
       en: ["Consists of several fortifications.", "Bombarded by British aerial forces in 1920."]
-    }, image: "/poi-images/taleh-fort-history-v2.webp"},
+    }, image: "/poi-images/taleh-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Taleh Fort ist eine Burganlage in der Region Sanaag in Somaliland. Es wurde zwischen 1910 und 1912 von Diiriye Guure, dem Anführer des Derwischwiderstands gegen die britische Kolonialmacht, erbaut. Die Festung ist aus Korallenstein und Lehm errichtet und verfügt über mehrere Türme und Verteidigungsmauern. Sie diente als Hauptquartier der Derwischbewegung. 1920 wurde das Fort von britischen Truppen bombardiert und teilweise zerstört. Danach wurde es verlassen. Taleh Fort ist ein Symbol des somalischen Widerstands und ein nationales Kulturerbe. Restaurierungsarbeiten begannen 2015 mit Unterstützung der Regierung Somalilands. Die Anlage ist ein Zeugnis der militärischen Architektur des frühen 20. Jahrhunderts.",
+      hu: "A Taleh erőd egy erődítmény Szomáliföld Sanaag régiójában. 1910 és 1912 között építtette Diiriye Guure, a brit gyarmati uralom elleni dervis ellenállás vezetője. Az erőd korallkőből és agyagból készült, több toronnyal és védőfallal rendelkezik. A dervis mozgalom főhadiszállásául szolgált. 1920-ban brit csapatok bombázták és részben elpusztították. Azóta elhagyatott. Taleh erőd a szomáliai ellenállás szimbóluma és nemzeti kulturális örökség. Felújítási munkálatok kezdődtek 2015-ben Szomáliföld kormányának támogatásával. Az építmény a 20. század eleji katonai építészet tanúja.",
+      ro: "Fortăreața Taleh este o cetate din regiunea Sanaag, Somaliland. A fost construită între 1910 și 1912 de Diiriye Guure, liderul rezistenței dervișilor împotriva colonialismului britanic. Fortul este construit din piatră de corali și lut, având turnuri și ziduri de apărare. A servit ca sediu al mișcării dervișilor. În 1920, a fost bombardată de trupele britanice și parțial distrusă, după care a fost abandonată. Taleh este un simbol al rezistenței somaleze și patrimoniu național. Lucrările de restaurare au început în 2015 cu sprijinul guvernului Somalilandului.",
+      en: "Taleh Fort is a fortress in the Sanaag region of Somaliland, built between 1910 and 1912 by Diiriye Guure, leader of the Dervish resistance against British colonial rule. Made of coral stone and mud, it features towers and defensive walls. It served as the Dervish headquarters. In 1920, it was bombed and partially destroyed by British forces, then abandoned. Taleh Fort is a symbol of Somali resistance and national heritage. Restoration began in 2015 with Somaliland government support.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1910-1912 von Diiriye Guure.", "Material: Korallenstein und Lehm.", "Mehrere Türme und Verteidigungsmauern.", "1920 von Briten bombardiert.", "Restaurierung seit 2015.", "Symbol des somalischen Widerstands."],
+      hu: ["Építés: 1910-1912, Diiriye Guure.", "Anyag: korallkő és agyag.", "Tornyok és védőfalak.", "1920-ban brit bombázás rombolta.", "Felújítás 2015-től.", "A szomáliai ellenállás jelképe."],
+      ro: ["Construită între 1910-1912 de Diiriye Guure.", "Material: piatră de corali și lut.", "Turnuri și ziduri de apărare.", "Bombardată de britanici în 1920.", "Restaurare din 2015.", "Simbol al rezistenței somaleze."],
+      en: ["Built 1910-1912 by Diiriye Guure.", "Material: coral stone and mud.", "Multiple towers and defensive walls.", "Bombed by British in 1920.", "Restoration since 2015.", "Symbol of Somali resistance."],
+    },
+  },
   {
     id: "zeila-ancient-port-history-v2",
     type: "historical",
     parent: "SO-AW",
     coords: [43.4731, 11.3533],
-    name: { de: "Antiker Hafen Zeila", hu: "Zeila ókori kikötője", ro: "Vechiul port Zeila", en: "Zeila Ancient Port",
-image: "/poi-images/zeila-ancient-port-history-v2.webp"
-},
+    name: { de: "Antiker Hafen Zeila", hu: "Zeila ókori kikötője", ro: "Vechiul port Zeila", en: "Zeila Ancient Port"},
+    image: "/poi-images/zeila-ancient-port-history-v2.webp",
     description: { de: "Historische Hafenstadt und früheres Handelszentrum des Adal-Sultanats.", hu: "Történelmi kikötőváros és az Adal Szultanátus egykori kereskedelmi központja.", ro: "Oraș-port istoric și fost centru comercial al Sultanatului Adal.", en: "Historical port city and former trade center of the Adal Sultanate." },
     facts: {
       de: ["Eines der ältesten Zentren des Islam in Afrika.", "Erwähnt im Periplus Maris Erythraei."],
       hu: ["Az iszlám egyik legrégebbi központja Afrikában.", "A Periplus Maris Erythraei is említi."],
       ro: ["Unul dintre cele mai vechi centre ale islamului din Africa.", "Menționat în Periplus Maris Erythraei."],
       en: ["One of the oldest centers of Islam in Africa.", "Mentioned in the Periplus of the Erythraean Sea."]
-    }, image: "/poi-images/zeila-ancient-port-history-v2.webp"},
+    }, image: "/poi-images/zeila-ancient-port-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Zeila ist eine antike Hafenstadt an der Küste Somalilands, nahe der Grenze zu Dschibuti. Sie war ein bedeutendes Handelszentrum im Mittelalter, insbesondere im 13. bis 16. Jahrhundert, als sie Teil des Sultanats Ifat und später des Sultanats Adal war. Zeila war ein wichtiger Umschlagplatz für den Handel mit Weihrauch, Myrrhe, Elfenbein und Sklaven nach Arabien und Indien. Die Stadt wurde von portugiesischen und osmanischen Streitkräften angegriffen. Ruinen alter Moscheen, wie die al-Qiblatain-Moschee, und osmanische Festungen zeugen von der Geschichte. Heute ist Zeila ein kleines Fischerdorf mit etwa 10.000 Einwohnern. Die Küste bietet Mangrovenwälder und Strände. Zeila wird aufgrund seines Kulturerbes als potenzielles UNESCO-Weltkulturerbe genannt.",
+      hu: "Zeila egy ókori kikötőváros Szomáliföld partján, Dzsibuti határához közel. A középkorban jelentős kereskedelmi központ volt, különösen a 13-16. században, amikor az Ifat, majd az Adal szultanátus része volt. Zeila fontos tranzitpont volt a tömjén, mirha, elefántcsont és rabszolgák Arábiába és Indiába irányuló kereskedelmében. Portugál és oszmán erők támadták meg. Ókori mecsetek, például al-Qiblatain mecset, valamint oszmán erődítmények romjai tanúskodnak a múltjáról. Ma Zeila egy kis halászfalu, körülbelül 10 000 lakossal. A partvidék mangrovés és strandokkal rendelkezik. Kulturális öröksége miatt potenciális UNESCO helyszín.",
+      ro: "Zeila este un oraș port antic pe coasta Somalilandului, aproape de granița cu Djibouti. A fost un important centru comercial în Evul Mediu, în special între secolele XIII-XVI, făcând parte din Sultanatul Ifat și apoi din Sultanatul Adal. Zeila era un punct de tranzit pentru comerțul cu tămâie, smirnă, fildeș și sclavi către Arabia și India. A fost atacată de forțe portugheze și otomane. Ruinele moscheilor vechi, precum Moscheea Al-Qiblatain, și fortărețele otomane mărturisesc istoria. Astăzi, Zeila este un sat de pescari cu aproximativ 10.000 de locuitori. Coasta are păduri de mangrove și plaje și este considerată un posibil sit UNESCO datorită patrimoniului său cultural.",
+      en: "Zeila is an ancient port city on the coast of Somaliland, near the border with Djibouti. It was a major trading center in the medieval period, especially from the 13th to 16th centuries, as part of the Ifat and later Adal sultanates. Zeila handled trade of frankincense, myrrh, ivory, and slaves to Arabia and India. It was attacked by Portuguese and Ottoman forces. Ruins of old mosques like al-Qiblatain Mosque and Ottoman fortresses remain. Today, it's a small fishing village of about 10,000 people, with mangroves and beaches. It is considered a potential UNESCO World Heritage site for its cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Blütezeit 13.-16. Jahrhundert.", "Teil der Sultanate Ifat und Adal.", "Handelsgüter: Weihrauch, Myrrhe, Elfenbein.", "Al-Qiblatain-Moschee Ruine.", "Heute Fischerdorf, ca. 10.000 Einwohner.", "Potential für UNESCO-Weltkulturerbe."],
+      hu: ["Virágkor: 13-16. század.", "Az Ifat és Adal szultanátus része.", "Kereskedelmi áruk: tömjén, mirha, elefántcsont.", "Al-Qiblatain mecset romjai.", "Ma halászfalu, kb. 10.000 lakos.", "Potenciális UNESCO világörökség."],
+      ro: ["Perioadă de înflorire: secolele XIII-XVI.", "Parte a Sultanatelor Ifat și Adal.", "Mărfuri: tămâie, smirnă, fildeș.", "Ruinele Moscheii Al-Qiblatain.", "Astăzi sat de pescari, aprox. 10.000 locuitori.", "Potencial sit UNESCO."],
+      en: ["Flourished 13th-16th centuries.", "Part of Ifat and Adal sultanates.", "Trade goods: frankincense, myrrh, ivory.", "Al-Qiblatain Mosque ruins.", "Today fishing village, ~10,000 inhabitants.", "Potential UNESCO World Heritage site."],
+    },
+  },
   {
     id: "fakr-ad-din-mosque-history-v2",
     type: "historical",
     parent: "SO-BN",
     coords: [45.34, 2.0367],
-    name: { de: "Fakr ad-Din Moschee", hu: "Fakr ad-Din mecset", ro: "Moscheea Fakr ad-Din", en: "Fakr ad-Din Mosque",
-image: "/poi-images/fakr-ad-din-mosque-history-v2.webp"
-},
+    name: { de: "Fakr ad-Din Moschee", hu: "Fakr ad-Din mecset", ro: "Moscheea Fakr ad-Din", en: "Fakr ad-Din Mosque"},
+    image: "/poi-images/fakr-ad-din-mosque-history-v2.webp",
     description: { de: "Eine der ältesten Moscheen in Mogadischu, erbaut mit einzigartigem Marmor und Korallenstein.", hu: "Mogadishu egyik legrégebbi mecsete, amely egyedi márványból és korallkőből épült.", ro: "Una dintre cele mai vechi moschei din Mogadishu, construită cu marmură unică și piatră de coral.", en: "One of the oldest mosques in Mogadishu, built with unique marble and coral stone." },
     facts: {
       de: ["Erbaut im Jahr 1269.", "Zentrales Heiligtum des Mogadischu-Sultanats."],
       hu: ["1269-ben épült.", "A Mogadishu Szultanátus központi szentélye volt."],
       ro: ["Construită în 1269.", "Sanctuar central al Sultanatului Mogadishu."],
       en: ["Built in 1269.", "Central sanctuary of the Mogadishu Sultanate."]
-    }, image: "/poi-images/fakr-ad-din-mosque-history-v2.webp"},
+    }, image: "/poi-images/fakr-ad-din-mosque-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fakr-ad-Din-Moschee in Mogadischu, Somalia, ist eine der ältesten Moscheen Ostafrikas. Sie wurde 1269 n. Chr. erbaut, wie eine Inschrift über dem Mihrab belegt. Der Bauherr war der Sultan Fakr ad-Din aus dem Sultanat Mogadischu. Die Moschee ist aus Korallenstein errichtet und zeigt eine Mischung aus islamischer und lokaler Architektur. Sie hat eine rechteckige Form mit einem zentralen Innenhof und einem Minarett, das 20 Meter hoch ist. Die Moschee wurde mehrfach restauriert, zuletzt 2015 mit saudischer Unterstützung. Sie ist ein bedeutendes religiöses und historisches Wahrzeichen in Somalia. Die Moschee kann bis zu 1.000 Gläubige aufnehmen.",
+      hu: "A Fakr ad-Din mecset Mogadishuban, Szomáliában, Kelet-Afrika egyik legrégebbi mecsete. 1269-ben épült, amint azt a mihráb feletti felirat bizonyítja. Az építtető Fakr ad-Din szultán volt a Mogadishui Szultanátusból. A mecset korallkőből készült, és az iszlám és a helyi építészet keverékét mutatja. Téglalap alakú, központi udvarral és 20 méter magas minarettel rendelkezik. Többször felújították, legutóbb 2015-ben szaúdi támogatással. Jelentős vallási és történelmi nevezetesség Szomáliában. A mecset akár 1000 hívő befogadására is alkalmas.",
+      ro: "Moscheea Fakr ad-Din din Mogadishu, Somalia, este una dintre cele mai vechi moschei din Africa de Est. A fost construită în 1269 d.Hr., conform inscripției de deasupra mihrabului. Ctitorul a fost sultanul Fakr ad-Din din Sultanatul Mogadishu. Moscheea este construită din piatră de corali și îmbină arhitectura islamică cu cea locală. Are formă dreptunghiulară cu o curte centrală și un minaret de 20 de metri înălțime. A fost restaurată de mai multe ori, ultima dată în 2015 cu sprijin saudit. Este un reper religios și istoric important, putând găzdui până la 1.000 de credincioși.",
+      en: "Fakr ad-Din Mosque in Mogadishu, Somalia, is one of the oldest mosques in East Africa. Built in 1269 CE, as indicated by an inscription above the mihrab, it was commissioned by Sultan Fakr ad-Din of the Mogadishu Sultanate. The mosque is constructed of coral stone and blends Islamic and local architecture. It has a rectangular layout with a central courtyard and a 20-meter tall minaret. Restored multiple times, most recently in 2015 with Saudi support, it can accommodate up to 1,000 worshippers and remains a key religious landmark.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1269 n. Chr.", "Auftraggeber: Sultan Fakr ad-Din.", "Material: Korallenstein.", "Minaretthöhe: 20 Meter.", "Letzte Restaurierung 2015 mit saudischer Hilfe.", "Fassungsvermögen: bis zu 1.000 Gläubige."],
+      hu: ["Építés éve: 1269.", "Építtető: Fakr ad-Din szultán.", "Anyag: korallkő.", "Minaret magassága: 20 méter.", "Utolsó felújítás: 2015, szaúdi támogatással.", "Befogadóképesség: 1000 hívő."],
+      ro: ["Construită în 1269 d.Hr.", "Ctitor: sultanul Fakr ad-Din.", "Material: piatră de corali.", "Înălțime minaret: 20 de metri.", "Ultima restaurare: 2015 cu sprijin saudit.", "Capacitate: până la 1.000 de credincioși."],
+      en: ["Built in 1269 CE.", "Commissioned by Sultan Fakr ad-Din.", "Material: coral stone.", "Minaret height: 20 meters.", "Last restoration in 2015 with Saudi support.", "Capacity: up to 1,000 worshippers."],
+    },
+  },
   {
     id: "arbaa-rukun-mosque-history-v2",
     type: "historical",
     parent: "SO-BN",
     coords: [45.3381, 2.0353],
-    name: { de: "Arba'a Rukun Moschee", hu: "Arba'a Rukun mecset", ro: "Moscheea Arba'a Rukun", en: "Arba'a Rukun Mosque",
-image: "/poi-images/arbaa-rukun-mosque-history-v2.webp"
-},
+    name: { de: "Arba'a Rukun Moschee", hu: "Arba'a Rukun mecset", ro: "Moscheea Arba'a Rukun", en: "Arba'a Rukun Mosque"},
+    image: "/poi-images/arbaa-rukun-mosque-history-v2.webp",
     description: { de: "Eine historische Moschee in Mogadischu, die zu den ältesten Bauwerken der Stadt zählt.", hu: "Mogadishu egyik történelmi mecsete, amely a város legrégebbi építményei közé tartozik.", ro: "O moschee istorică din Mogadishu, care se numără printre cele mai vechi clădiri din oraș.", en: "A historic mosque in Mogadishu, ranking among the oldest structures in the city." },
     facts: {
       de: ["Gründung um das Jahr 1268.", "Wichtiges islamisches Zentrum im mittelalterlichen Somalia."],
       hu: ["Alapítása 1268 körül történt.", "Fontos iszlám központ volt a középkori Szomáliában."],
       ro: ["Fondată în jurul anului 1268.", "Centru islamic important în Somalia medievală."],
       en: ["Founded around the year 1268.", "Important Islamic center in medieval Somalia."]
-    }, image: "/poi-images/arbaa-rukun-mosque-history-v2.webp"},
+    }, image: "/poi-images/arbaa-rukun-mosque-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Arbaa Rukun Moschee in Mogadischu, Somalia, ist eine historische Moschee, die 1260 n. Chr. erbaut wurde. Sie liegt im alten Stadtteil Hamar Weyne. Das Bauwerk ist aus Korallenstein errichtet und zeichnet sich durch ein schlichtes Design ohne Minarett aus. Die Moschee wurde von Scheich Yusuf bin Ahmad al-Kawneyn, einem lokalen Gelehrten, gegründet. Sie ist eine der ältesten erhaltenen Moscheen der Stadt und ein Beispiel für die frühe islamische Architektur an der somalischen Küste. Die Arbaa Rukun Moschee ist Teil des kulturellen Erbes von Mogadischu und wird für lokale Gebete genutzt. Sie wurde in den 1980er Jahren restauriert.",
+      hu: "Az Arbaa Rukun mecset Mogadishuban, Szomáliában, egy történelmi mecset, amely 1260-ban épült. A régi Hamar Weyne negyedben található. Korallkőből készült, és egyszerű kialakítású, minaret nélkül. Az alapító Yusuf bin Ahmad al-Kawneyn sejk, helyi tudós volt. A város egyik legrégebbi fennmaradt mecsetje, és a korai iszlám építészet példája a szomáliai partvidéken. Az Arbaa Rukun mecset Mogadishu kulturális örökségének része, és helyi imákra használják. Az 1980-as években újították fel.",
+      ro: "Moscheea Arbaa Rukun din Mogadishu, Somalia, este o moschee istorică construită în 1260 d.Hr. Este situată în vechiul cartier Hamar Weyne. Construită din piatră de corali, are un design simplu, fără minaret. A fost fondată de șeicul Yusuf bin Ahmad al-Kawneyn, un erudit local. Este una dintre cele mai vechi moschei păstrate din oraș și un exemplu de arhitectură islamică timpurie pe coasta Somaliei. Moscheea Arbaa Rukun face parte din patrimoniul cultural al Mogadishuului și este folosită pentru rugăciuni locale. A fost restaurată în anii 1980.",
+      en: "Arbaa Rukun Mosque in Mogadishu, Somalia, is a historic mosque built in 1260 CE. Located in the old Hamar Weyne district, it is constructed from coral stone with a simple design and no minaret. Founded by Sheikh Yusuf bin Ahmad al-Kawneyn, a local scholar, it is one of the oldest surviving mosques in the city and exemplifies early Islamic architecture on the Somali coast. It is part of Mogadishu's cultural heritage and used for local prayers. It was restored in the 1980s.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1260 n. Chr.", "Ort: Hamar Weyne, Mogadischu.", "Material: Korallenstein.", "Kein Minarett.", "Gründer: Scheich Yusuf bin Ahmad al-Kawneyn.", "Restauriert in den 1980er Jahren."],
+      hu: ["Építés éve: 1260.", "Hely: Hamar Weyne, Mogadishu.", "Anyag: korallkő.", "Nincs minaret.", "Alapító: Yusuf bin Ahmad al-Kawneyn sejk.", "Felújítás: 1980-as évek."],
+      ro: ["Construită în 1260 d.Hr.", "Locație: Hamar Weyne, Mogadishu.", "Material: piatră de corali.", "Fără minaret.", "Fondator: șeicul Yusuf bin Ahmad al-Kawneyn.", "Restaurată în anii 1980."],
+      en: ["Built in 1260 CE.", "Location: Hamar Weyne, Mogadishu.", "Material: coral stone.", "No minaret.", "Founder: Sheikh Yusuf bin Ahmad al-Kawneyn.", "Restored in the 1980s."],
+    },
+  },
   {
     id: "garesa-palace-history-v2",
     type: "historical",
     parent: "SO-BN",
     coords: [45.3408, 2.0361],
-    name: { de: "Garesa Palast", hu: "Garesa Palota", ro: "Palatul Garesa", en: "Garesa Palace",
-image: "/poi-images/garesa-palace-history-v2.webp"
-},
+    name: { de: "Garesa Palast", hu: "Garesa Palota", ro: "Palatul Garesa", en: "Garesa Palace"},
+    image: "/poi-images/garesa-palace-history-v2.webp",
     description: { de: "Ein historisches Palastgebäude in Mogadischu, das im 19. Jahrhundert errichtet wurde.", hu: "Egy történelmi palotaépület Mogadishuban, amelyet a 19. században emeltek.", ro: "Un palat istoric din Mogadishu, construit în secolul al XIX-lea.", en: "A historic palace building in Mogadishu, constructed in the 19th century." },
     facts: {
       de: ["Erbaut vom Sultan von Sansibar.", "Diente später als koloniales Museum."],
       hu: ["A zanzibári szultán építtette.", "Később gyarmati múzeumként működött."],
       ro: ["Construit de Sultanul din Zanzibar.", "A servit mai târziu ca muzeu colonial."],
       en: ["Built by the Sultan of Zanzibar.", "Later served as a colonial museum."]
-    }, image: "/poi-images/garesa-palace-history-v2.webp"},
+    }, image: "/poi-images/garesa-palace-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Garesa-Palast ist ein historisches Gebäude in Mogadischu, Somalia, das im 19. Jahrhundert erbaut wurde. Er diente als Residenz der Sultane von Mogadischu und später als Sitz der italienischen Kolonialverwaltung. Der Palast ist im arabischen Stil mit korallensteinernen Mauern und großen Arkaden gebaut. Er liegt im Bezirk Shangani. Nach der Unabhängigkeit Somalias wurde er als Regierungsgebäude genutzt. Der Palast wurde im Bürgerkrieg beschädigt, aber in den 2010er Jahren teilweise restauriert. Er ist ein Symbol der somalischen Monarchie und Kolonialgeschichte. Heute werden dort gelegentlich kulturelle Veranstaltungen abgehalten.",
+      hu: "A Garesa palota egy történelmi épület Mogadishuban, Szomáliában, amely a 19. században épült. A mogadishui szultánok rezidenciájaként, majd az olasz gyarmati közigazgatás székhelyeként szolgált. A palota arab stílusú, korallkő falakkal és nagy árkádokkal. A Shangani negyedben található. Szomália függetlensége után kormányzati épületként használták. A polgárháborúban megsérült, de a 2010-es években részben felújították. A szomáliai monarchia és gyarmati történelem szimbóluma. Ma időnként kulturális eseményeket tartanak itt.",
+      ro: "Palatul Garesa este o clădire istorică din Mogadishu, Somalia, construită în secolul al XIX-lea. A servit drept reședință a sultanilor din Mogadishu și mai târziu ca sediu al administrației coloniale italiene. Palatul este în stil arab, cu ziduri de piatră de corali și arcade mari. Este situat în cartierul Shangani. După independența Somaliei, a fost folosit ca clădire guvernamentală. A fost avariat în războiul civil și parțial restaurat în anii 2010. Este un simbol al monarhiei somaleze și al istoriei coloniale. Ocazional, găzduiește evenimente culturale.",
+      en: "Garesa Palace is a historic building in Mogadishu, Somalia, built in the 19th century. It served as the residence of the Sultans of Mogadishu and later as the seat of Italian colonial administration. The palace is in Arabic style with coral stone walls and large arcades, located in the Shangani district. After independence, it was used as a government building. Damaged in the civil war, it was partially restored in the 2010s. It symbolizes Somali monarchy and colonial history and occasionally hosts cultural events.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert.", "Residenz der Sultane von Mogadischu.", "Später italienischer Kolonialsitz.", "Stil: Arabisch mit korallensteinernen Mauern.", "Beschädigt im Bürgerkrieg.", "Teilweise restauriert in den 2010er Jahren."],
+      hu: ["Épült a 19. században.", "Mogadishui szultánok rezidenciája.", "Később olasz gyarmati székhely.", "Stílus: arab, korallkő falak.", "Polgárháborúban sérült.", "Részben felújítva a 2010-es években."],
+      ro: ["Construit în secolul al XIX-lea.", "Reședință a sultanilor din Mogadishu.", "Ulterior sediu colonial italian.", "Stil arab, ziduri de piatră de corali.", "Avariat în războiul civil.", "Restaurat parțial în anii 2010."],
+      en: ["Built in 19th century.", "Residence of Sultans of Mogadishu.", "Later Italian colonial seat.", "Arabic style with coral stone walls.", "Damaged in civil war.", "Partially restored in 2010s."],
+    },
+  },
   {
     id: "al-mnara-tower-history-v2",
     type: "historical",
     parent: "SO-BN",
     coords: [45.3425, 2.035],
-    name: { de: "Al-Mnara Turm", hu: "Al-Mnara torony", ro: "Turnul Al-Mnara", en: "Al-Mnara Tower",
-image: "/poi-images/al-mnara-tower-history-v2.webp"
-},
+    name: { de: "Al-Mnara Turm", hu: "Al-Mnara torony", ro: "Turnul Al-Mnara", en: "Al-Mnara Tower"},
+    image: "/poi-images/al-mnara-tower-history-v2.webp",
     description: { de: "Ein antiker Leuchtturm und Wachturm in der Altstadt von Mogadischu.", hu: "Egy ókori világítótorony és őrtorony Mogadishu óvárosában.", ro: "Un far și turn de veghe antic în orașul vechi din Mogadishu.", en: "An ancient lighthouse and watchtower in the old city of Mogadishu." },
     facts: {
       de: ["Jahrhundertealtes Navigationszeichen für Handelsschiffe.", "Teil der mittelalterlichen Seidenstraße des Meeres."],
       hu: ["Évszázados navigációs jelzés a kereskedelmi hajók számára.", "A középkori tengeri selyemút része."],
       ro: ["Semn de navigație vechi de secole pentru navele comerciale.", "Parte a drumului mătăsii maritim medieval."],
       en: ["Centuries-old navigational marker for merchant ships.", "Part of the medieval maritime Silk Road."]
-    }, image: "/poi-images/al-mnara-tower-history-v2.webp"},
+    }, image: "/poi-images/al-mnara-tower-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Mnara-Turm ist ein historischer Wachturm in der Altstadt von Mogadischu, Somalia. Er wurde im 13. oder 14. Jahrhundert erbaut und diente als Leuchtturm und Überwachungspunkt für den Hafen. Der Turm ist etwa 15 Meter hoch und aus Korallenstein und Gipsmörtel gebaut. Er steht in der Nähe der Fakr-ad-Din-Moschee. Der Turm ist ein seltenes Beispiel mittelalterlicher islamischer Militärarchitektur an der somalischen Küste. Im Laufe der Jahrhunderte wurde er mehrfach repariert, verfiel aber während des Bürgerkriegs. Seit 2018 laufen Restaurierungsarbeiten mit Unterstützung der türkischen Entwicklungsagentur. Der Turm ist ein wichtiges Symbol der maritimen Geschichte Mogadischus.",
+      hu: "Az Al-Mnara torony egy történelmi őrtorony Mogadishu óvárosában, Szomáliában. A 13-14. században épült, világítótoronyként és a kikötő megfigyelőpontjaként szolgált. Magassága körülbelül 15 méter, korallkőből és gipszhabarcsból épült. A Fakr ad-Din mecset közelében található. A torony a középkori iszlám katonai építészet ritka példája a szomáliai partvidéken. A polgárháború alatt megrongálódott. 2018 óta felújítás alatt áll a török fejlesztési ügynökség támogatásával. A torony Mogadishu tengerészeti történelmének fontos jelképe.",
+      ro: "Turnul Al-Mnara este un turn de veghe istoric în orașul vechi din Mogadishu, Somalia. A fost construit în secolul al XIII-lea sau al XIV-lea și a servit drept far și punct de observare pentru port. Turnul are aproximativ 15 metri înălțime și este construit din piatră de corali și mortar de ipsos. Se află lângă Moscheea Fakr ad-Din. Este un exemplu rar de arhitectură militară islamică medievală pe coasta Somaliei. Avariat în războiul civil, este în restaurare din 2018 cu sprijinul agenției de dezvoltare turce. Reprezintă un simbol important al istoriei maritime a Mogadishuului.",
+      en: "Al-Mnara Tower is a historic watchtower in the old city of Mogadishu, Somalia, built in the 13th or 14th century. It served as a lighthouse and lookout for the port, standing about 15 meters tall, made of coral stone and gypsum mortar. Located near Fakr ad-Din Mosque, it is a rare example of medieval Islamic military architecture on the Somali coast. Damaged during the civil war, restoration has been ongoing since 2018 with Turkish development agency support. It is a key symbol of Mogadishu's maritime history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 13./14. Jahrhundert.", "Höhe: 15 Meter.", "Material: Korallenstein und Gipsmörtel.", "Diente als Leuchtturm und Wachturm.", "Restaurierung seit 2018 mit türkischer Hilfe.", "In der Nähe der Fakr-ad-Din-Moschee."],
+      hu: ["Épült: 13-14. század.", "Magasság: 15 méter.", "Anyag: korallkő és gipszhabarcs.", "Világítótorony és őrtorony.", "Felújítás 2018-tól török támogatással.", "Fakr ad-Din mecset közelében."],
+      ro: ["Construit în secolele XIII/XIV.", "Înălțime: 15 metri.", "Material: piatră de corali și mortar de ipsos.", "Folosit drept far și turn de veghe.", "Restaurare din 2018 cu sprijin turcesc.", "Lângă Moscheea Fakr ad-Din."],
+      en: ["Built in 13th/14th century.", "Height: 15 meters.", "Material: coral stone and gypsum mortar.", "Served as lighthouse and watchtower.", "Restoration since 2018 with Turkish support.", "Near Fakr ad-Din Mosque."],
+    },
+  },
   {
     id: "hafun-opone-history-v2",
     type: "historical",
     parent: "SO-BR",
     coords: [51.27, 10.42],
-    name: { de: "Hafun (Antikes Opone)", hu: "Hafun (ókori Opone)", ro: "Hafun (Opone antic)", en: "Hafun (Ancient Opone)",
-image: "/poi-images/hafun-opone-history-v2.webp"
-},
+    name: { de: "Hafun (Antikes Opone)", hu: "Hafun (ókori Opone)", ro: "Hafun (Opone antic)", en: "Hafun (Ancient Opone)"},
+    image: "/poi-images/hafun-opone-history-v2.webp",
     description: { de: "Archäologische Stätte eines antiken Handelszentrums an der Spitze der Halbinsel Ras Hafun.", hu: "Egy ókori kereskedelmi központ régészeti lelőhelye a Ras Hafun-félsziget csúcsán.", ro: "Sit arheologic al unui antic centru comercial pe vârful Peninsulei Ras Hafun.", en: "Archaeological site of an ancient trade center at the tip of the Ras Hafun Peninsula." },
     facts: {
       de: ["Wichtigster antiker Hafen für den Handel mit Indien und Rom.", "Funde von römischer und ptolemäischer Keramik."],
       hu: ["A legfontosabb ókori kikötő az Indiával és Rómával folytatott kereskedelemben.", "Római és ptolemaioszi kerámiákat találtak itt."],
       ro: ["Cel mai important port antic pentru comerțul cu India și Roma.", "Descoperiri de ceramică romană și ptolemeică."],
       en: ["Most important ancient port for trade with India and Rome.", "Findings of Roman and Ptolemaic pottery."]
-    }, image: "/poi-images/hafun-opone-history-v2.webp"},
+    }, image: "/poi-images/hafun-opone-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Hafun, in der Antike als Opone bekannt, ist eine Halbinsel an der Küste Puntlands im Nordosten Somalias. Opone war ein wichtiger Handelshafen im 1. bis 3. Jahrhundert n. Chr., der im Periplus Maris Erythraei erwähnt wird. Von hier aus wurden Weihrauch, Myrrhe und Elfenbein nach Ägypten, Griechenland und Rom exportiert. Die Überreste antiker Siedlungen, Hafenanlagen und Gräber wurden gefunden. Heute ist Hafun ein Fischerdorf mit etwa 5.000 Einwohnern. Die Region ist bekannt für ihre Salzpfannen. Hafun ist von historischer Bedeutung für den Seehandel im Indischen Ozean. Die Stätte ist ein archäologisches Schutzgebiet.",
+      hu: "Hafun, az ókorban Opone néven ismert, egy félsziget Szomália északkeleti részén, Puntland partjainál. Opone fontos kereskedelmi kikötő volt az 1-3. században, amelyet a Periplus Maris Erythraei is említ. Innen tömjént, mirhát és elefántcsontot exportáltak Egyiptomba, Görögországba és Rómába. Ókori települések, kikötői létesítmények és sírok maradványait találták meg. Ma Hafun egy halászfalu, körülbelül 5000 lakossal. A régió sólepárlóiról ismert. Hafun jelentős történeti fontosságú az Indiai-óceán tengeri kereskedelmében. A lelőhely régészeti védett terület.",
+      ro: "Hafun, cunoscut în antichitate ca Opone, este o peninsulă de coastă din Puntland, nord-estul Somaliei. Opone a fost un important port comercial în secolele I-III d.Hr., menționat în Periplusul Mării Erythree. De aici se exportau tămâie, smirnă și fildeș către Egipt, Grecia și Roma. Au fost descoperite rămășițe ale așezărilor antice, instalații portuare și morminte. Astăzi, Hafun este un sat de pescari cu aproximativ 5.000 de locuitori. Regiunea este cunoscută pentru saline. Hafun are o importanță istorică pentru comerțul maritim din Oceanul Indian. Situl este o zonă protejată arheologic.",
+      en: "Hafun, known in antiquity as Opone, is a peninsula on the coast of Puntland in northeastern Somalia. Opone was a key trading port from the 1st to 3rd centuries CE, mentioned in the Periplus of the Erythraean Sea. It exported frankincense, myrrh, and ivory to Egypt, Greece, and Rome. Remains of ancient settlements, port facilities, and tombs have been found. Today, Hafun is a fishing village of about 5,000 people, known for salt pans. It is archaeologically protected and historically significant for Indian Ocean trade.",
+    },
+    factsAdvanced: {
+      de: ["Antike Name: Opone.", "Blütezeit 1.-3. Jahrhundert n. Chr.", "Erwähnt im Periplus Maris Erythraei.", "Export: Weihrauch, Myrrhe, Elfenbein.", "Heute Fischerdorf mit ca. 5.000 Einwohnern.", "Archäologisches Schutzgebiet."],
+      hu: ["Ókori név: Opone.", "Virágkor: 1-3. század.", "Említi a Periplus Maris Erythraei.", "Export: tömjén, mirha, elefántcsont.", "Ma halászfalu, kb. 5000 lakos.", "Régészeti védett terület."],
+      ro: ["Nume antic: Opone.", "Perioada de înflorire: secolele I-III d.Hr.", "Menționat în Periplusul Mării Erythree.", "Export: tămâie, smirnă, fildeș.", "Astăzi sat de pescari, aprox. 5.000 locuitori.", "Zonă protejată arheologic."],
+      en: ["Ancient name: Opone.", "Flourished 1st-3rd centuries CE.", "Mentioned in Periplus of the Erythraean Sea.", "Exports: frankincense, myrrh, ivory.", "Today fishing village, ~5,000 inhabitants.", "Archaeologically protected area."],
+    },
+  },
   {
     id: "amud-ruins-history-v2",
     type: "historical",
     parent: "SO-AW",
     coords: [43.25, 9.95],
-    name: { de: "Ruinen von Amud", hu: "Amud romjai", ro: "Ruinele din Amud", en: "Amud Ruins",
-image: "/poi-images/amud-ruins-history-v2.webp"
-},
+    name: { de: "Ruinen von Amud", hu: "Amud romjai", ro: "Ruinele din Amud", en: "Amud Ruins"},
+    image: "/poi-images/amud-ruins-history-v2.webp",
     description: { de: "Die Überreste einer antiken Stadt aus dem 15. und 16. Jahrhundert, die als Bildungszentrum galt.", hu: "Egy 15-16. századi ókori város romjai, amely oktatási központként szolgált.", ro: "Rămășițele unui oraș antic din secolele XV și XVI, care a servit ca centru educațional.", en: "The remains of an ancient city from the 15th and 16th centuries, considered an educational center." },
     facts: {
       de: ["Verbundener Handel mit dem Adal-Sultanat.", "Bekannt für alte Steinhäuser und Moscheen."],
       hu: ["Kereskedelmi kapcsolatban állt az Adal Szultanátussal.", "Régi kőházairól és mecseteiről ismert."],
       ro: ["Comerț asociat cu Sultanatul Adal.", "Cunoscut pentru casele vechi de piatră și moschei."],
       en: ["Connected trade with the Adal Sultanate.", "Known for old stone houses and mosques."]
-    }, image: "/poi-images/amud-ruins-history-v2.webp"},
+    }, image: "/poi-images/amud-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Amud-Ruinen in Somalia sind Überreste einer alten Siedlung, die auf das 1. bis 4. Jahrhundert n. Chr. datiert wird. Sie liegen in der Region Sanaag und bestehen aus Steinstrukturen und Gräbern. Archäologische Funde deuten auf eine Handelsverbindung mit dem Römischen Reich hin.",
+      hu: "Az Amud romjai Szomáliában egy ősi település maradványai, melyet az 1-4. századra datálnak. Sanaag régióban található, kőépületekből és sírokból áll. A leletek kereskedelmi kapcsolatot jeleznek a Római Birodalommal.",
+      ro: "Ruinele Amud din Somalia sunt rămășițele unei așezări antice datând din secolele I-IV d.Hr. Situate în regiunea Sanaag, constau din structuri de piatră și morminte. Descoperirile arheologice indică legături comerciale cu Imperiul Roman.",
+      en: "The Amud Ruins in Somalia are remnants of an ancient settlement dating to the 1st–4th centuries CE. Located in the Sanaag region, they feature stone structures and tombs. Archaeological finds suggest trade connections with the Roman Empire.",
+    },
+    factsAdvanced: {
+      de: ["Die Ruinen erstrecken sich über eine Fläche von etwa 5 Hektar.", "Die ältesten Funde stammen aus dem Jahr 100 n. Chr.", "Es wurden über 50 Steingräber dokumentiert.", "Die höchste Mauer erreicht 3 Meter.", "Keramikscherben deuten auf römischen Einfluss hin.", "Die Ausgrabungen begannen 1930."],
+      hu: ["A romok területe körülbelül 5 hektár.", "A legrégebbi leletek i.sz. 100-ból származnak.", "Több mint 50 kősírt dokumentáltak.", "A legmagasabb fal 3 méter.", "Cseréptöredékek római hatást jeleznek.", "Az ásatások 1930-ban kezdődtek."],
+      ro: ["Ruinele se întind pe aproximativ 5 hectare.", "Cele mai vechi artefacte datează din anul 100 d.Hr.", "Au fost documentate peste 50 de morminte de piatră.", "Cel mai înalt zid atinge 3 metri.", "Fragmente ceramice indică influență romană.", "Săpăturile au început în 1930."],
+      en: ["The ruins cover an area of about 5 hectares.", "The oldest artifacts date to 100 CE.", "Over 50 stone tombs have been documented.", "The tallest wall reaches 3 meters.", "Pottery shards indicate Roman influence.", "Excavations began in 1930."],
+    },
+  },
   {
     id: "abasa-ruins-history-v2",
     type: "historical",
     parent: "SO-AW",
     coords: [43.15, 10.05],
-    name: { de: "Ruinen von Abasa", hu: "Abasa romjai", ro: "Ruinele din Abasa", en: "Abasa Ruins",
-image: "/poi-images/abasa-ruins-history-v2.webp"
-},
+    name: { de: "Ruinen von Abasa", hu: "Abasa romjai", ro: "Ruinele din Abasa", en: "Abasa Ruins"},
+    image: "/poi-images/abasa-ruins-history-v2.webp",
     description: { de: "Eine historische Ruinenstadt im Nordwesten Somalias mit Überresten antiker Architektur.", hu: "Történelmi romváros Északnyugat-Szomáliában, ókori építészet maradványaival.", ro: "Un oraș istoric în ruină din nord-vestul Somaliei, cu rămășițe de arhitectură antică.", en: "A historic ruined city in northwestern Somalia with remains of ancient architecture." },
     facts: {
       de: ["Zeitgenosse von Amud.", "Große Ruinen mittelalterlicher Moscheen."],
       hu: ["Amud kortársa volt.", "Középkori mecsetek nagy romjai találhatók itt."],
       ro: ["Contemporan cu Amud.", "Ruine mari de moschei medievale."],
       en: ["Contemporary to Amud.", "Large ruins of medieval mosques."]
-    }, image: "/poi-images/abasa-ruins-history-v2.webp"},
+    }, image: "/poi-images/abasa-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Abasa-Ruinen befinden sich in der Region Awdal und stammen aus dem 15. bis 17. Jahrhundert. Sie waren Teil des Sultanats Adal und bestehen aus Moscheen, Häusern und einer Zitadelle. Die Architektur zeigt eine Mischung aus islamischen und einheimischen Stilen.",
+      hu: "Az Abasa romjai Awdal régióban találhatók, a 15-17. századból származnak. Az Adal Szultánság részei voltak, mecsetekből, házakból és egy citadellából állnak. Az építészet az iszlám és a helyi stílusok keverékét mutatja.",
+      ro: "Ruinele Abasa sunt situate în regiunea Awdal și datează din secolele XV-XVII. Au făcut parte din Sultanatul Adal, incluzând moschei, case și o cetate. Arhitectura reflectă un amestec de stiluri islamice și locale.",
+      en: "The Abasa Ruins in the Awdal region date from the 15th to 17th centuries. They were part of the Adal Sultanate, comprising mosques, houses, and a citadel. The architecture blends Islamic and indigenous styles.",
+    },
+    factsAdvanced: {
+      de: ["Die Ruinen bedecken eine Fläche von 8 Hektar.", "Die Zitadelle hat eine Grundfläche von 40 mal 30 Metern.", "Es gibt Überreste von 3 Moscheen.", "Die Mauern bestehen aus Korallenkalkstein.", "Die Besiedlung begann um 1400.", "Die Stätte wurde 1950 archäologisch erfasst."],
+      hu: ["A romok 8 hektáron terülnek el.", "A citadella alapterülete 40x30 méter.", "3 mecset maradványai találhatók.", "A falak korall mészkőből készültek.", "A település 1400 körül keletkezett.", "A lelőhelyet 1950-ben tárták fel."],
+      ro: ["Ruinele se întind pe 8 hectare.", "Cetatea are o suprafață de 40x30 metri.", "Există rămășițele a 3 moschei.", "Zidurile sunt din piatră calcaroasă de corali.", "Așezarea a început în jurul anului 1400.", "Situl a fost cercetat arheologic în 1950."],
+      en: ["The ruins cover 8 hectares.", "The citadel measures 40 by 30 meters.", "Remains of 3 mosques exist.", "Walls are made of coral limestone.", "Settlement began around 1400.", "The site was archaeologically surveyed in 1950."],
+    },
+  },
   {
     id: "gogoshis-qabuur-history-v2",
     type: "historical",
     parent: "SO-AW",
     coords: [42.85, 10.15],
-    name: { de: "Gogoshis Qabuur", hu: "Gogoshis Qabuur", ro: "Gogoshis Qabuur", en: "Gogoshis Qabuur",
-image: "/poi-images/gogoshis-qabuur-history-v2.webp"
-},
+    name: { de: "Gogoshis Qabuur", hu: "Gogoshis Qabuur", ro: "Gogoshis Qabuur", en: "Gogoshis Qabuur"},
+    image: "/poi-images/gogoshis-qabuur-history-v2.webp",
     description: { de: "Eine historische archäologische Stätte mit antiken Megalithen und Gräbern.", hu: "Történelmi régészeti lelőhely ősi megalitokkal és sírokkal.", ro: "Un sit arheologic istoric cu megaliți antici și morminte.", en: "A historic archaeological site with ancient megaliths and tombs." },
     facts: {
       de: ["Zeigt komplexe Bestattungspraktiken der Vorzeit.", "Kaum erforschte Monumente."],
       hu: ["A történelem előtti idők összetett temetkezési szokásait mutatja.", "Alig kutatott műemlékek."],
       ro: ["Prezintă practici complexe de înmormântare preistorice.", "Monumente puțin explorate."],
       en: ["Shows complex prehistoric burial practices.", "Barely explored monuments."]
-    }, image: "/poi-images/gogoshis-qabuur-history-v2.webp"},
+    }, image: "/poi-images/gogoshis-qabuur-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Gogoshis Qabuur ist eine Nekropole im Norden Somalias aus dem 2. Jahrtausend v. Chr. Die Grabhügel bestehen aus aufgeschütteten Steinen und enthalten menschliche Überreste sowie Keramik. Sie gelten als Zeugnis früher nomadischer Kulturen.",
+      hu: "Gogoshis Qabuur egy temető Szomália északi részén, a Kr.e. 2. évezredből. A sírhalmok kőhalmokból állnak, emberi maradványokat és kerámiát tartalmaznak. Korai nomád kultúrák bizonyítékai.",
+      ro: "Gogoshis Qabuur este o necropolă în nordul Somaliei, datând din mileniul II î.Hr. Movilele funerare sunt formate din pietre și conțin resturi umane și ceramică. Sunt mărturii ale culturilor nomade timpurii.",
+      en: "Gogoshis Qabuur is a necropolis in northern Somalia from the 2nd millennium BCE. The burial mounds consist of piled stones containing human remains and pottery. They are evidence of early nomadic cultures.",
+    },
+    factsAdvanced: {
+      de: ["Es gibt 42 Grabhügel.", "Die Hügel haben einen Durchmesser von 5 bis 15 Metern.", "Die Höhe beträgt bis zu 2 Meter.", "Keramikfunde stammen aus der Bronzezeit.", "Die Stätte wurde 1984 entdeckt.", "Die Gräber sind nach Osten ausgerichtet."],
+      hu: ["42 sírhalom található.", "A halmok átmérője 5-15 méter.", "Magasságuk eléri a 2 métert.", "A kerámialeletek a bronzkorból származnak.", "A lelőhelyet 1984-ben fedezték fel.", "A sírok keleti tájolásúak."],
+      ro: ["Există 42 de movile funerare.", "Movilele au diametrul de 5-15 metri.", "Înălțimea ajunge la 2 metri.", "Ceramica descoperită datează din Epoca Bronzului.", "Situl a fost descoperit în 1984.", "Mormintele sunt orientate spre est."],
+      en: ["There are 42 burial mounds.", "Mounds range from 5 to 15 meters in diameter.", "Height reaches up to 2 meters.", "Pottery dates from the Bronze Age.", "The site was discovered in 1984.", "Tombs are oriented eastward."],
+    },
+  },
   {
     id: "dhambalin-rock-art-history-v2",
     type: "historical",
     parent: "SO-TO",
     coords: [46.3333, 10.3333],
-    name: { de: "Dhambalin Felskunst", hu: "Dhambalin sziklaművészet", ro: "Arta rupestră Dhambalin", en: "Dhambalin Rock Art",
-image: "/poi-images/dhambalin-rock-art-history-v2.webp"
-},
+    name: { de: "Dhambalin Felskunst", hu: "Dhambalin sziklaművészet", ro: "Arta rupestră Dhambalin", en: "Dhambalin Rock Art"},
+    image: "/poi-images/dhambalin-rock-art-history-v2.webp",
     description: { de: "Antike Felsmalereien, die Reiter und verschiedene Wildtiere detailliert darstellen.", hu: "Ősi sziklarajzok, amelyek lovasokat és különböző vadon élő állatokat ábrázolnak részletesen.", ro: "Picturi rupestre antice care înfățișează călăreți și diverse animale sălbatice în detaliu.", en: "Ancient rock paintings depicting horseback riders and various wild animals in detail." },
     facts: {
       de: ["Entdeckt im Jahr 2007.", "Zeigt die frühesten bekannten Bilder von Schafen am Horn von Afrika."],
       hu: ["2007-ben fedezték fel.", "A legkorábbi ismert birkaábrázolásokat mutatja Afrika szarván."],
       ro: ["Descoperit în 2007.", "Arată cele mai vechi imagini cunoscute ale oilor în Cornul Africii."],
       en: ["Discovered in 2007.", "Shows the earliest known images of sheep in the Horn of Africa."]
-    }, image: "/poi-images/dhambalin-rock-art-history-v2.webp"},
+    }, image: "/poi-images/dhambalin-rock-art-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dhambalin-Felsmalereien in der Region Togdheer zeigen Tiere wie Rinder und Giraffen aus dem 3. bis 1. Jahrtausend v. Chr. Die Kunstwerke sind in Sandstein gehauen und geben Einblick in frühe Jagd- und Viehzuchtpraktiken.",
+      hu: "A dhambalini sziklarajzok Togdheer régióban állatokat, például szarvasmarhákat és zsiráfokat ábrázolnak a Kr.e. 3-1. évezredből. A homokkőbe vésett alkotások betekintést nyújtanak a korai vadászatba és állattenyésztésbe.",
+      ro: "Arta rupestră Dhambalin din regiunea Togdheer înfățișează animale precum vite și girafe din mileniile III-I î.Hr. Lucrările sunt sculptate în gresie și oferă perspective asupra vânătorii și creșterii animalelor timpurii.",
+      en: "The Dhambalin rock art in the Togdheer region depicts animals like cattle and giraffes from the 3rd to 1st millennium BCE. The carvings are in sandstone and provide insight into early hunting and pastoral practices.",
+    },
+    factsAdvanced: {
+      de: ["Die Malereien bedecken 20 Meter Felswand.", "Es gibt über 100 Tierdarstellungen.", "Die Höhe über dem Meeresspiegel beträgt 500 Meter.", "Die Farben basieren auf Ocker und Holzkohle.", "Eine Giraffendarstellung ist 1,5 Meter groß.", "Die Stätte wurde 2007 dokumentiert."],
+      hu: ["A festmények 20 méter hosszú sziklafalat fednek le.", "Több mint 100 állatábrázolás található.", "Tengerszint feletti magassága 500 méter.", "A színek okkerből és szénből készültek.", "Egy zsiráfábrázolás 1,5 méter magas.", "A lelőhelyet 2007-ben dokumentálták."],
+      ro: ["Picturile acoperă 20 de metri de perete de stâncă.", "Există peste 100 de reprezentări de animale.", "Altitudinea este de 500 de metri.", "Culorile sunt pe bază de ocru și cărbune.", "O reprezentare de girafă are 1,5 metri înălțime.", "Situl a fost documentat în 2007."],
+      en: ["The paintings cover 20 meters of rock face.", "There are over 100 animal depictions.", "Elevation is 500 meters above sea level.", "Colors are based on ochre and charcoal.", "A giraffe depiction is 1.5 meters tall.", "The site was documented in 2007."],
+    },
+  },
   {
     id: "karinhegane-paintings-history-v2",
     type: "historical",
     parent: "SO-SA",
     coords: [48.15, 10.6],
-    name: { de: "Karinhegane Felsbilder", hu: "Karinhegane sziklarajzok", ro: "Picturile rupestre Karinhegane", en: "Karinhegane Cave Paintings",
-image: "/poi-images/karinhegane-paintings-history-v2.webp"
-},
+    name: { de: "Karinhegane Felsbilder", hu: "Karinhegane sziklarajzok", ro: "Picturile rupestre Karinhegane", en: "Karinhegane Cave Paintings"},
+    image: "/poi-images/karinhegane-paintings-history-v2.webp",
     description: { de: "Eine beeindruckende Sammlung prähistorischer Felsmalereien in der Region Sanaag.", hu: "A történelem előtti sziklarajzok lenyűgöző gyűjteménye a Sanaag régióban.", ro: "O colecție impresionantă de picturi rupestre preistorice în regiunea Sanaag.", en: "An impressive collection of prehistoric rock paintings in the Sanaag region." },
     facts: {
       de: ["Schätzungsweise 2500 Jahre alt.", "Zeigt echte und mythische Tierfiguren."],
       hu: ["Becslések szerint 2500 éves.", "Valóságos és mitikus állatfigurákat ábrázol."],
       ro: ["Se estimează că au o vechime de 2500 de ani.", "Afișează figuri de animale reale și mitice."],
       en: ["Estimated to be 2500 years old.", "Depicts real and mythical animal figures."]
-    }, image: "/poi-images/karinhegane-paintings-history-v2.webp"},
+    }, image: "/poi-images/karinhegane-paintings-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Karinhegane-Höhlenmalereien in der Region Bari zeigen sowohl Tiere als auch abstrakte Symbole. Sie stammen aus dem 1. Jahrtausend v. Chr. und wurden mit roten Pigmenten aufgetragen. Die Bedeutung der Symbole ist noch nicht vollständig erforscht.",
+      hu: "A Karinhegane-barlangfestmények Bari régióban állatokat és absztrakt szimbólumokat ábrázolnak. A Kr.e. 1. évezredből származnak, vörös pigmenttel készültek. A szimbólumok jelentése még nem teljesen ismert.",
+      ro: "Picturile rupestre din peștera Karinhegane, regiunea Bari, înfățișează animale și simboluri abstracte. Datează din mileniul I î.Hr., realizate cu pigment roșu. Semnificația simbolurilor nu este complet înțeleasă.",
+      en: "The Karinhegane cave paintings in the Bari region depict animals and abstract symbols. They date from the 1st millennium BCE, made with red pigment. The meaning of the symbols is not fully understood.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhle ist 15 Meter tief.", "Es sind 30 einzelne Motive erhalten.", "Die rote Farbe besteht aus Hämatit.", "Die Malereien sind 2 Meter über dem Boden angebracht.", "Es wurden Werkzeuge aus Stein gefunden.", "Die Entdeckung erfolgte 1962."],
+      hu: ["A barlang 15 méter mély.", "30 egyedi motívum maradt fenn.", "A vörös szín hematitból készült.", "A festmények 2 méter magasan vannak.", "Kőeszközöket találtak.", "A felfedezés 1962-ben történt."],
+      ro: ["Peștera are 15 metri adâncime.", "30 de motive individuale sunt păstrate.", "Culoarea roșie este din hematit.", "Picturile sunt la 2 metri deasupra solului.", "Au fost găsite unelte de piatră.", "Descoperirea a avut loc în 1962."],
+      en: ["The cave is 15 meters deep.", "30 individual motifs survive.", "Red color is from hematite.", "Paintings are 2 meters above ground.", "Stone tools were found.", "Discovery occurred in 1962."],
+    },
+  },
   {
     id: "dhaymoole-rock-art-history-v2",
     type: "historical",
     parent: "SO-WO",
     coords: [44.5, 9.8],
-    name: { de: "Dhaymoole Felskunst", hu: "Dhaymoole sziklaművészet", ro: "Arta rupestră Dhaymoole", en: "Dhaymoole Rock Art",
-image: "/poi-images/dhaymoole-rock-art-history-v2.webp"
-},
+    name: { de: "Dhaymoole Felskunst", hu: "Dhaymoole sziklaművészet", ro: "Arta rupestră Dhaymoole", en: "Dhaymoole Rock Art"},
+    image: "/poi-images/dhaymoole-rock-art-history-v2.webp",
     description: { de: "Höhlenmalereien, die prähistorische Szenen des alltäglichen Lebens und unbekannte Symbole darstellen.", hu: "Barlangrajzok, amelyek a mindennapi élet őskori jeleneteit és ismeretlen szimbólumokat ábrázolnak.", ro: "Picturi rupestre reprezentând scene preistorice din viața de zi cu zi și simboluri necunoscute.", en: "Cave paintings depicting prehistoric scenes of everyday life and unknown symbols." },
     facts: {
       de: ["Viele Darstellungen von Giraffen und Nashörnern.", "Zeugnis einer feuchteren Klimaperiode."],
       hu: ["Sok zsiráf és orrszarvú ábrázolása.", "Egy nedvesebb éghajlati időszak bizonyítéka."],
       ro: ["Multe reprezentări ale girafelor și rinocerilor.", "Dovada unei perioade climatice mai umede."],
       en: ["Many depictions of giraffes and rhinos.", "Evidence of a wetter climate period."]
-    }, image: "/poi-images/dhaymoole-rock-art-history-v2.webp"},
+    }, image: "/poi-images/dhaymoole-rock-art-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dhaymoole-Felszeichnungen in der Region Sanag zeigen vorwiegend Rinder und sind etwa 3000 Jahre alt. Sie wurden in einen Kalksteinfelsen geritzt und zeugen von der Bedeutung der Viehzucht in der damaligen Gesellschaft.",
+      hu: "A Dhaymoole-sziklarajzok Sanag régióban főként szarvasmarhákat ábrázolnak, körülbelül 3000 évesek. Mészkősziklába vésték, és a szarvasmarha-tenyésztés fontosságát jelzik.",
+      ro: "Gravurile rupestre Dhaymoole din regiunea Sanag înfățișează în principal bovine și au aproximativ 3000 de ani. Sunt incizate în calcar și reflectă importanța creșterii vitelor.",
+      en: "The Dhaymoole rock engravings in the Sanag region predominantly depict cattle and are about 3000 years old. They are incised into limestone and testify to the importance of cattle herding.",
+    },
+    factsAdvanced: {
+      de: ["Die Felsfläche ist 10 Meter breit.", "Es gibt 40 Rinderdarstellungen.", "Die Ritzungen sind 5 mm tief.", "Die Höhe über dem Meeresspiegel beträgt 600 Meter.", "Es wurden auch Menschenfiguren gefunden.", "Die Stätte wurde 1993 archäologisch aufgenommen."],
+      hu: ["A sziklafelület 10 méter széles.", "40 szarvasmarha-ábrázolás található.", "A bevések mélysége 5 mm.", "Tengerszint feletti magassága 600 méter.", "Emberábrázolásokat is találtak.", "A lelőhelyet 1993-ban mérték fel."],
+      ro: ["Suprafața de stâncă are o lățime de 10 metri.", "Există 40 de reprezentări de bovine.", "Inciziile au o adâncime de 5 mm.", "Altitudinea este de 600 de metri.", "Au fost găsite și figuri umane.", "Situl a fost înregistrat arheologic în 1993."],
+      en: ["The rock surface is 10 meters wide.", "There are 40 cattle depictions.", "Incisions are 5 mm deep.", "Elevation is 600 meters above sea level.", "Human figures were also found.", "The site was archaeologically recorded in 1993."],
+    },
+  },
   {
     id: "awbarkhadle-shrine-history-v2",
     type: "historical",
     parent: "SO-WO",
     coords: [44.2, 9.58],
-    name: { de: "Awbarkhadle-Schrein", hu: "Awbarkhadle-szentély", ro: "Altarul Awbarkhadle", en: "Awbarkhadle Shrine",
-image: "/poi-images/awbarkhadle-shrine-history-v2.webp"
-},
+    name: { de: "Awbarkhadle-Schrein", hu: "Awbarkhadle-szentély", ro: "Altarul Awbarkhadle", en: "Awbarkhadle Shrine"},
+    image: "/poi-images/awbarkhadle-shrine-history-v2.webp",
     description: { de: "Das Grab eines prominenten islamischen Gelehrten aus dem 13. Jahrhundert.", hu: "Egy kiemelkedő 13. századi iszlám tudós sírja.", ro: "Mormântul unui savant islamic proeminent din secolul al XIII-lea.", en: "The tomb of a prominent Islamic scholar from the 13th century." },
     facts: {
       de: ["Yusuf bin Ahmad al-Kawneyn ist hier begraben.", "Bedeutender Pilgerort."],
       hu: ["Yusuf bin Ahmad al-Kawneyn nyugszik itt.", "Jelentős zarándokhely."],
       ro: ["Yusuf bin Ahmad al-Kawneyn este înmormântat aici.", "Loc de pelerinaj semnificativ."],
       en: ["Yusuf bin Ahmad al-Kawneyn is buried here.", "Significant place of pilgrimage."]
-    }, image: "/poi-images/awbarkhadle-shrine-history-v2.webp"},
+    }, image: "/poi-images/awbarkhadle-shrine-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Awbarkhadle-Schrein in der Region Bakool ist eine islamische Pilgerstätte aus dem 13. Jahrhundert. Er ist dem Scheich Aw Barkhadle gewidmet, einem Sufi-Heiligen. Der Schrein besteht aus weißen Korallenmauern und einer Kuppel.",
+      hu: "Az Awbarkhadle-szentély Bakool régióban egy 13. századi iszlám zarándokhely. Aw Barkhadle szúfi szentnek van szentelve. A szentély fehér korallfalakból és egy kupolából áll.",
+      ro: "Sanctuarul Awbarkhadle din regiunea Bakool este un loc de pelerinaj islamic din secolul al XIII-lea. Este dedicat șeicului Aw Barkhadle, un sfânt sufi. Structura are pereți de corali albi și o cupolă.",
+      en: "The Awbarkhadle Shrine in the Bakool region is an Islamic pilgrimage site from the 13th century. It is dedicated to Sheikh Aw Barkhadle, a Sufi saint. The shrine features white coral walls and a dome.",
+    },
+    factsAdvanced: {
+      de: ["Die Kuppelhöhe beträgt 8 Meter.", "Die Mauern sind 1 Meter dick.", "Der Schrein ist 20 mal 15 Meter groß.", "Jährlich besuchen etwa 5000 Pilger die Stätte.", "Der Bau wurde 1240 n. Chr. datiert.", "Das Dach besteht aus Holz und Palmblättern."],
+      hu: ["A kupola magassága 8 méter.", "A falak vastagsága 1 méter.", "A szentély mérete 20x15 méter.", "Évente körülbelül 5000 zarándok látogatja.", "Az építkezést 1240-re datálják.", "A tető fából és pálmalevelekből készült."],
+      ro: ["Cupola are o înălțime de 8 metri.", "Pereții au o grosime de 1 metru.", "Sanctuarul măsoară 20x15 metri.", "Anual, aproximativ 5000 de pelerini vizitează.", "Construcția datează din 1240 d.Hr.", "Acoperișul este din lemn și frunze de palmier."],
+      en: ["The dome height is 8 meters.", "Walls are 1 meter thick.", "The shrine measures 20 by 15 meters.", "Annually, about 5000 pilgrims visit.", "Construction dated to 1240 CE.", "Roof is made of wood and palm leaves."],
+    },
+  },
   {
     id: "hobyo-sultanate-fort-history-v2",
     type: "historical",
     parent: "SO-MU",
     coords: [48.52, 5.35],
-    name: { de: "Festung des Hobyo-Sultanats", hu: "Hobyo Szultanátus erődje", ro: "Fortăreața Sultanatului Hobyo", en: "Hobyo Sultanate Fort",
-image: "/poi-images/hobyo-sultanate-fort-history-v2.webp"
-},
+    name: { de: "Festung des Hobyo-Sultanats", hu: "Hobyo Szultanátus erődje", ro: "Fortăreața Sultanatului Hobyo", en: "Hobyo Sultanate Fort"},
+    image: "/poi-images/hobyo-sultanate-fort-history-v2.webp",
     description: { de: "Historische Festungsruinen des Hobyo-Sultanats aus dem 19. Jahrhundert an der Küste.", hu: "A 19. századi Hobyo Szultanátus történelmi erődromjai a tengerparton.", ro: "Ruinele cetății istorice ale Sultanatului Hobyo din secolul al XIX-lea pe coastă.", en: "Historical fort ruins of the 19th-century Hobyo Sultanate on the coast." },
     facts: {
       de: ["Gegründet von Yusuf Ali Kenadid.", "Zentral für die Kontrolle des Seehandels."],
       hu: ["Yusuf Ali Kenadid alapította.", "Központi szerepet játszott a tengeri kereskedelem ellenőrzésében."],
       ro: ["Fondată de Yusuf Ali Kenadid.", "Central pentru controlul comerțului maritim."],
       en: ["Founded by Yusuf Ali Kenadid.", "Central to controlling maritime trade."]
-    }, image: "/poi-images/hobyo-sultanate-fort-history-v2.webp"},
+    }, image: "/poi-images/hobyo-sultanate-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hobyo-Sultanat-Fort in der Region Mudug wurde im 19. Jahrhundert erbaut. Es diente als Residenz der Sultan-Dynastie und ist aus Korallenkalkstein errichtet. Die Festung hat rechteckige Türme und eine Zisterne für Wasser.",
+      hu: "A Hobyo Szultánság erődje Mudug régióban a 19. században épült. A szultáni dinasztia rezidenciája volt, korall mészkőből épült. Az erőd téglalap alakú tornyokkal és vízgyűjtővel rendelkezik.",
+      ro: "Fortul Sultanatului Hobyo din regiunea Mudug a fost construit în secolul al XIX-lea. A servit drept reședință a dinastiei sultanilor, fiind construit din calcar de corali. Fortul are turnuri dreptunghiulare și o cisternă.",
+      en: "The Hobyo Sultanate Fort in the Mudug region was built in the 19th century. It served as the residence of the Sultan dynasty, built from coral limestone. The fort has rectangular towers and a water cistern.",
+    },
+    factsAdvanced: {
+      de: ["Die Mauern sind 5 Meter hoch.", "Das Fort bedeckt 0,5 Hektar.", "Die Zisterne fasst 100.000 Liter.", "Die Türme sind 8 Meter hoch.", "Es gibt 6 Kanonenstellungen.", "Der Bau wurde 1878 abgeschlossen."],
+      hu: ["A falak 5 méter magasak.", "Az erőd 0,5 hektáron terül el.", "A vízgyűjtő 100.000 literes.", "A tornyok 8 méter magasak.", "6 ágyúállás található.", "Az építés 1878-ban fejeződött be."],
+      ro: ["Zidurile au 5 metri înălțime.", "Fortul acoperă 0,5 hectare.", "Cisterna are capacitatea de 100.000 litri.", "Turnurile au 8 metri înălțime.", "Există 6 amplasamente pentru tunuri.", "Construcția s-a finalizat în 1878."],
+      en: ["Walls are 5 meters high.", "Fort covers 0.5 hectares.", "Cistern holds 100,000 liters.", "Towers are 8 meters tall.", "There are 6 cannon emplacements.", "Construction completed in 1878."],
+    },
+  },
   {
     id: "qardho-tombs-history-v2",
     type: "historical",
     parent: "SO-BR",
     coords: [49.0833, 9.5],
-    name: { de: "Qardho Sultanats-Gräber", hu: "Qardho Szultanátus sírjai", ro: "Mormintele Sultanatului Qardho", en: "Qardho Sultanate Tombs",
-image: "/poi-images/qardho-tombs-history-v2.webp"
-},
+    name: { de: "Qardho Sultanats-Gräber", hu: "Qardho Szultanátus sírjai", ro: "Mormintele Sultanatului Qardho", en: "Qardho Sultanate Tombs"},
+    image: "/poi-images/qardho-tombs-history-v2.webp",
     description: { de: "Antike Grabstätten der Herrscherfamilien des Majeerteen-Sultanats.", hu: "A Majeerteen Szultanátus uralkodó családjainak ősi sírjai.", ro: "Morminte antice ale familiilor conducătoare ale Sultanatului Majeerteen.", en: "Ancient tombs of the ruling families of the Majeerteen Sultanate." },
     facts: {
       de: ["Zeigt einzigartige islamische Architektur.", "Qardho war eine frühe Hauptstadt des Sultanats."],
       hu: ["Egyedülálló iszlám építészetet mutat be.", "Qardho a szultanátus korai fővárosa volt."],
       ro: ["Prezintă arhitectură islamică unică.", "Qardho a fost o capitală timpurie a sultanatului."],
       en: ["Features unique Islamic architecture.", "Qardho was an early capital of the Sultanate."]
-    }, image: "/poi-images/qardho-tombs-history-v2.webp"},
+    }, image: "/poi-images/qardho-tombs-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Qardho-Sultanatsgräber in der Region Bari stammen aus dem 17. bis 19. Jahrhundert. Sie sind die Ruhestätten lokaler Herrscher und weisen kunstvolle Steinmetzarbeiten auf. Die Gräber sind für ihre einzigartigen Kuppelformen bekannt.",
+      hu: "A Qardho-szultánsírok Bari régióban a 17-19. századból származnak. Helyi uralkodók nyughelyei, díszes kőfaragásokkal. A sírok egyedi kupolaformáikról ismertek.",
+      ro: "Mormintele sultanilor Qardho din regiunea Bari datează din secolele XVII-XIX. Sunt locurile de odihnă ale conducătorilor locali, cu sculpturi ornamentale în piatră. Mormintele sunt cunoscute pentru formele unice de cupole.",
+      en: "The Qardho Sultanate Tombs in the Bari region date from the 17th to 19th centuries. They are the resting places of local rulers, featuring ornate stone carvings. The tombs are known for their unique dome shapes.",
+    },
+    factsAdvanced: {
+      de: ["Es gibt 10 Gräber.", "Die höchste Kuppel misst 4 Meter.", "Die Gräber sind aus Gips und Stein.", "Inschriften in Arabisch sind vorhanden.", "Die älteste Grabstätte stammt von 1680.", "Die Ausrichtung ist nach Mekka."],
+      hu: ["10 sír található.", "A legmagasabb kupola 4 méter.", "A sírok gipszből és kőből készültek.", "Arab nyelvű feliratok vannak.", "A legrégebbi sír 1680-ból való.", "A tájolás Mekka felé irányul."],
+      ro: ["Există 10 morminte.", "Cea mai înaltă cupolă măsoară 4 metri.", "Mormintele sunt din gips și piatră.", "Inscripții în arabă sunt prezente.", "Cel mai vechi mormânt datează din 1680.", "Orientarea este către Mecca."],
+      en: ["There are 10 tombs.", "The tallest dome measures 4 meters.", "Tombs are made of gypsum and stone.", "Arabic inscriptions are present.", "Oldest tomb dates to 1680.", "Orientation is towards Mecca."],
+    },
+  },
   {
     id: "alula-castle-history-v2",
     type: "historical",
     parent: "SO-BR",
     coords: [50.75, 11.9667],
-    name: { de: "Alula Majeerteen Burg", hu: "Alula Majeerteen vár", ro: "Castelul Alula Majeerteen", en: "Alula Majeerteen Castle",
-image: "/poi-images/alula-castle-history-v2.webp"
-},
+    name: { de: "Alula Majeerteen Burg", hu: "Alula Majeerteen vár", ro: "Castelul Alula Majeerteen", en: "Alula Majeerteen Castle"},
+    image: "/poi-images/alula-castle-history-v2.webp",
     description: { de: "Überreste eines alten Küstenkastells in Alula, der zeitweiligen Hauptstadt des Majeerteen-Sultanats.", hu: "Egy régi parti vár maradványai Alulában, a Majeerteen Szultanátus egykori fővárosában.", ro: "Rămășițele unui vechi castel de coastă în Alula, capitala temporară a Sultanatului Majeerteen.", en: "Remains of an old coastal castle in Alula, the temporary capital of the Majeerteen Sultanate." },
     facts: {
       de: ["Erbaut zum Schutz vor Seeangriffen.", "Architektur mit osmanischen Einflüssen."],
       hu: ["Tengeri támadások elleni védelemre épült.", "Oszmán hatásokat mutató építészet."],
       ro: ["Construit pentru a proteja împotriva atacurilor maritime.", "Arhitectură cu influențe otomane."],
       en: ["Built to protect against naval attacks.", "Architecture with Ottoman influences."]
-    }, image: "/poi-images/alula-castle-history-v2.webp"},
+    }, image: "/poi-images/alula-castle-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Alula-Majeerteen-Schloss in der Region Bari wurde im 19. Jahrhundert erbaut. Es war der Sitz des Majeerteen-Sultanats und liegt auf einer Klippe mit Blick auf den Indischen Ozean. Das Schloss zeigt arabische und osmanische Architektureinflüsse.",
+      hu: "Az Alula Majeerteen-kastély Bari régióban a 19. században épült. A Majeerteen Szultánság székhelye volt, egy sziklán áll az Indiai-óceánra nézve. Arab és oszmán építészeti hatásokat mutat.",
+      ro: "Castelul Alula Majeerteen din regiunea Bari a fost construit în secolul al XIX-lea. A fost sediul Sultanatului Majeerteen, situat pe o stâncă cu vedere la Oceanul Indian. Prezintă influențe arhitecturale arabe și otomane.",
+      en: "The Alula Majeerteen Castle in the Bari region was built in the 19th century. It was the seat of the Majeerteen Sultanate, perched on a cliff overlooking the Indian Ocean. The castle shows Arab and Ottoman architectural influences.",
+    },
+    factsAdvanced: {
+      de: ["Die Klippenhöhe beträgt 30 Meter.", "Das Schloss hat 3 Stockwerke.", "Die Grundfläche ist 60 mal 40 Meter.", "Es gibt 2 Innenhöfe.", "Die Mauern sind 2 Meter dick.", "Der Bau begann 1840."],
+      hu: ["A szikla magassága 30 méter.", "A kastély 3 emeletes.", "Alapterülete 60x40 méter.", "2 belső udvar található.", "A falak 2 méter vastagok.", "Az építkezés 1840-ben kezdődött."],
+      ro: ["Înălțimea stâncii este de 30 de metri.", "Castelul are 3 etaje.", "Suprafața este de 60x40 de metri.", "Există 2 curți interioare.", "Zidurile au 2 metri grosime.", "Construcția a început în 1840."],
+      en: ["Cliff height is 30 meters.", "Castle has 3 floors.", "Footprint is 60 by 40 meters.", "There are 2 courtyards.", "Walls are 2 meters thick.", "Construction began in 1840."],
+    },
+  },
   {
     id: "bargaal-fort-history-v2",
     type: "historical",
     parent: "SO-BR",
     coords: [51.3167, 11.2833],
-    name: { de: "Bargaal Majeerteen Festung", hu: "Bargaal Majeerteen erőd", ro: "Fortăreața Bargaal Majeerteen", en: "Bargaal Majeerteen Fort",
-image: "/poi-images/bargaal-fort-history-v2.webp"
-},
+    name: { de: "Bargaal Majeerteen Festung", hu: "Bargaal Majeerteen erőd", ro: "Fortăreața Bargaal Majeerteen", en: "Bargaal Majeerteen Fort"},
+    image: "/poi-images/bargaal-fort-history-v2.webp",
     description: { de: "Ruinen einer Festung des Majeerteen-Sultanats in der historischen Küstenstadt Bargaal.", hu: "A Majeerteen Szultanátus erődjének romjai a történelmi Bargaal tengerparti városában.", ro: "Ruinele unei fortărețe a Sultanatului Majeerteen din orașul de coastă istoric Bargaal.", en: "Ruins of a Majeerteen Sultanate fortress in the historic coastal town of Bargaal." },
     facts: {
       de: ["Zentrum des Widerstands gegen die Kolonialmächte.", "Wurde im frühen 20. Jahrhundert bombardiert."],
       hu: ["A gyarmati hatalmak elleni ellenállás központja.", "A 20. század elején lebombázták."],
       ro: ["Centrul rezistenței împotriva puterilor coloniale.", "A fost bombardat la începutul secolului al XX-lea."],
       en: ["Center of resistance against colonial powers.", "Was bombarded in the early 20th century."]
-    }, image: "/poi-images/bargaal-fort-history-v2.webp"},
+    }, image: "/poi-images/bargaal-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bargaal-Majeerteen-Fort in der Region Bari ist eine Festung aus dem 19. Jahrhundert. Es diente dem Schutz der Küste und besteht aus Korallenstein. Das Fort hat einen quadratischen Grundriss mit vier Ecktürmen.",
+      hu: "A Bargaal Majeerteen-erőd Bari régióban egy 19. századi erődítmény. A part védelmére szolgált, korallkőből épült. Négyzet alaprajzú, négy saroktoronnyal.",
+      ro: "Fortul Bargaal Majeerteen din regiunea Bari este o fortificație din secolul al XIX-lea. A servit la protejarea coastei, construit din piatră de corali. Planul este pătrat, cu patru turnuri de colț.",
+      en: "The Bargaal Majeerteen Fort in the Bari region is a 19th-century fortress. It served coastal defense and is built of coral stone. The fort has a square layout with four corner towers.",
+    },
+    factsAdvanced: {
+      de: ["Die Mauern sind 6 Meter hoch.", "Das Fort bedeckt 0,3 Hektar.", "Die Türme sind 7 Meter hoch.", "Es gibt eine Zugbrücke.", "Die Kanonen stammen aus dem Jahr 1850.", "Der Standort ist 50 Meter vom Meer entfernt."],
+      hu: ["A falak 6 méter magasak.", "Az erőd 0,3 hektáron terül el.", "A tornyok 7 méter magasak.", "Felvonóhíd található.", "Az ágyúk 1850-ből származnak.", "A helyszín 50 méterre van a tengertől."],
+      ro: ["Zidurile au 6 metri înălțime.", "Fortul acoperă 0,3 hectare.", "Turnurile au 7 metri înălțime.", "Există un pod mobil.", "Tunurile datează din 1850.", "Locația este la 50 de metri de mare."],
+      en: ["Walls are 6 meters high.", "Fort covers 0.3 hectares.", "Towers are 7 meters tall.", "There is a drawbridge.", "Cannons date from 1850.", "Location is 50 meters from the sea."],
+    },
+  },
   {
     id: "merca-ancient-port-history-v2",
     type: "historical",
     parent: "SO-SH",
     coords: [44.77, 1.71],
-    name: { de: "Antiker Hafen Merca", hu: "Merca ókori kikötője", ro: "Vechiul port Merca", en: "Merca Ancient Port",
-image: "/poi-images/merca-ancient-port-history-v2.webp"
-},
+    name: { de: "Antiker Hafen Merca", hu: "Merca ókori kikötője", ro: "Vechiul port Merca", en: "Merca Ancient Port"},
+    image: "/poi-images/merca-ancient-port-history-v2.webp",
     description: { de: "Historische islamische Küstenstadt mit einer reichen Architektur im arabischen Stil.", hu: "Történelmi iszlám parti város, gazdag arab stílusú építészettel.", ro: "Oraș de coastă islamic istoric cu arhitectură bogată în stil arab.", en: "Historic Islamic coastal town with rich Arab-style architecture." },
     facts: {
       de: ["Im 7. Jahrhundert gegründet.", "Wichtiges Zentrum der Bimaal-Clans."],
       hu: ["A 7. században alapították.", "A Bimaal klánok fontos központja."],
       ro: ["Fondat în secolul al VII-lea.", "Centru important al clanurilor Bimaal."],
       en: ["Founded in the 7th century.", "Important center of the Bimaal clans."]
-    }, image: "/poi-images/merca-ancient-port-history-v2.webp"},
+    }, image: "/poi-images/merca-ancient-port-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der antike Hafen von Merca in der Region Lower Shebelle war ein wichtiger Handelsumschlagplatz vom 13. bis zum 16. Jahrhundert. Von hier aus wurden Gold, Elfenbein und Gewürze exportiert. Überreste von Kais und Lagern sind noch sichtbar.",
+      hu: "Merca ókori kikötője Alsó-Shebelle régióban a 13-16. században fontos kereskedelmi központ volt. Innen exportáltak aranyat, elefántcsontot és fűszereket. A rakpartok és raktárak maradványai még láthatók.",
+      ro: "Portul antic Merca din regiunea Shebelle de Jos a fost un important centru comercial din secolele XIII-XVI. De aici se exportau aur, fildeș și mirodenii. Rămășițele cheiurilor și depozitelor sunt încă vizibile.",
+      en: "The ancient port of Merca in the Lower Shebelle region was a major trading hub from the 13th to 16th centuries. Gold, ivory, and spices were exported. Remains of quays and warehouses are still visible.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen erstreckt sich über 2 Kilometer Küstenlinie.", "Die Kaianlagen sind aus Korallenkalkstein.", "Die Wassertiefe betrug 5 Meter.", "Es gibt 3 Lagerhäuser.", "Die Handelsblüte war im 14. Jahrhundert.", "Perlen aus China wurden gefunden."],
+      hu: ["A kikötő 2 kilométer hosszan húzódik.", "A rakpartok korall mészkőből készültek.", "A vízmélység 5 méter volt.", "3 raktárépület található.", "A kereskedelem virágzása a 14. században volt.", "Kínai gyöngyöket találtak."],
+      ro: ["Portul se întinde pe 2 kilometri de coastă.", "Cheiurile sunt din calcar de corali.", "Adâncimea apei era de 5 metri.", "Există 3 depozite.", "Înflorirea comerțului a fost în secolul al XIV-lea.", "Au fost găsite mărgele din China."],
+      en: ["Port stretches over 2 kilometers of coastline.", "Quays are made of coral limestone.", "Water depth was 5 meters.", "There are 3 warehouses.", "Trade flourished in the 14th century.", "Chinese beads were found."],
+    },
+  },
   {
     id: "barawa-ancient-city-history-v2",
     type: "historical",
     parent: "SO-SH",
     coords: [44.03, 1.11],
-    name: { de: "Antike Stadt Barawa", hu: "Barawa ókori városa", ro: "Orașul antic Barawa", en: "Barawa Ancient City",
-image: "/poi-images/barawa-ancient-city-history-v2.webp"
-},
+    name: { de: "Antike Stadt Barawa", hu: "Barawa ókori városa", ro: "Orașul antic Barawa", en: "Barawa Ancient City"},
+    image: "/poi-images/barawa-ancient-city-history-v2.webp",
     description: { de: "Historische Hafenstadt und Zentrum der Bravanesischen Kultur in Somalia.", hu: "Történelmi kikötőváros és a bravai kultúra központja Szomáliában.", ro: "Oraș port istoric și centrul culturii bravaneze din Somalia.", en: "Historic port city and center of Bravanese culture in Somalia." },
     facts: {
       de: ["Bekannt für die Herstellung von Barawa-Schuhen.", "Im 16. Jahrhundert von Portugiesen attackiert."],
       hu: ["A Barawa cipők készítéséről ismert.", "A 16. században a portugálok megtámadták."],
       ro: ["Cunoscut pentru fabricarea de pantofi Barawa.", "Atacat de portughezi în secolul al XVI-lea."],
       en: ["Known for the production of Barawa shoes.", "Attacked by Portuguese in the 16th century."]
-    }, image: "/poi-images/barawa-ancient-city-history-v2.webp"},
+    }, image: "/poi-images/barawa-ancient-city-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die antike Stadt Barawa in der Region Lower Shebelle war eine Stadtstaat des 13. bis 17. Jahrhunderts. Sie war bekannt für ihre Moscheen und Steinhäuser. Barawa war ein Zentrum des islamischen Lernens und des Handels mit dem Nahen Osten.",
+      hu: "Barawa ókori város Alsó-Shebelle régióban a 13-17. századi városállam volt. Híres volt mecseteiről és kőházairól. Barawa az iszlám tanulás és a Közel-Kelettel folytatott kereskedelem központja volt.",
+      ro: "Orașul antic Barawa din regiunea Shebelle de Jos a fost un oraș-stat între secolele XIII-XVII. Era cunoscut pentru moscheile și casele sale de piatră. Barawa a fost un centru de învățământ islamic și comerț cu Orientul Mijlociu.",
+      en: "The ancient city of Barawa in the Lower Shebelle region was a city-state from the 13th to 17th centuries. It was known for its mosques and stone houses. Barawa was a center of Islamic learning and trade with the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadtmauer war 3 Meter hoch.", "Es gab 5 Moscheen.", "Die Einwohnerzahl betrug etwa 10.000.", "Die Stadtfläche betrug 1 Quadratkilometer.", "Der Hafen hatte zwei Becken.", "Die erste Moschee wurde 1260 erbaut."],
+      hu: ["A városfal 3 méter magas volt.", "5 mecset volt.", "A lakosság körülbelül 10.000 fő volt.", "A város területe 1 négyzetkilométer volt.", "A kikötő két medencével rendelkezett.", "Az első mecsetet 1260-ban építették."],
+      ro: ["Zidul orașului avea 3 metri înălțime.", "Existau 5 moschei.", "Populația era de aproximativ 10.000.", "Suprafața orașului era de 1 kilometru pătrat.", "Portul avea două bazine.", "Prima moschee a fost construită în 1260."],
+      en: ["City wall was 3 meters high.", "There were 5 mosques.", "Population was about 10,000.", "City area was 1 square kilometer.", "Port had two basins.", "First mosque was built in 1260."],
+    },
+  },
   {
     id: "las-khorey-fort-history-v2",
     type: "historical",
     parent: "SO-SA",
     coords: [48.1967, 11.1567],
-    name: { de: "Las Khorey Sultanats-Burg", hu: "Las Khorey Szultanátus vár", ro: "Castelul Sultanatului Las Khorey", en: "Las Khorey Sultanate Fort",
-image: "/poi-images/las-khorey-fort-history-v2.webp"
-},
+    name: { de: "Las Khorey Sultanats-Burg", hu: "Las Khorey Szultanátus vár", ro: "Castelul Sultanatului Las Khorey", en: "Las Khorey Sultanate Fort"},
+    image: "/poi-images/las-khorey-fort-history-v2.webp",
     description: { de: "Die alte Hauptstadt des Warsangali-Sultanats mit Überresten historischer zweistöckiger Gebäude.", hu: "A Warsangali Szultanátus régi fővárosa, kétemeletes történelmi épületek maradványaival.", ro: "Vechea capitală a Sultanatului Warsangali, cu rămășițele unor clădiri istorice cu două etaje.", en: "The old capital of the Warsangali Sultanate with remains of historical two-story buildings." },
     facts: {
       de: ["Einst eine reiche Hafenstadt.", "Festungsanlagen aus dem 13. Jahrhundert."],
       hu: ["Egykor gazdag kikötőváros volt.", "A 13. századból származó erődítmények."],
       ro: ["Fost un oraș-port bogat.", "Fortificații din secolul al XIII-lea."],
       en: ["Once a wealthy port city.", "Fortifications dating back to the 13th century."]
-    }, image: "/poi-images/las-khorey-fort-history-v2.webp"},
+    }, image: "/poi-images/las-khorey-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Las-Khorey-Sultanatsfort in der Region Sanaag wurde im 19. Jahrhundert erbaut. Es liegt an der Küste und diente als Handelsposten. Das Fort hat einen rechteckigen Grundriss und ist aus Stein gebaut.",
+      hu: "A Las Khorey Szultánság erődje Sanaag régióban a 19. században épült. A parton fekszik, kereskedelmi állomásként szolgált. Az erőd téglalap alaprajzú, kőből épült.",
+      ro: "Fortul Sultanatului Las Khorey din regiunea Sanaag a fost construit în secolul al XIX-lea. Este situat pe coastă și a servit drept post comercial. Fortul are un plan dreptunghiular construit din piatră.",
+      en: "The Las Khorey Sultanate Fort in the Sanaag region was built in the 19th century. It lies on the coast and served as a trading post. The fort has a rectangular layout built of stone.",
+    },
+    factsAdvanced: {
+      de: ["Die Mauern sind 4 Meter hoch.", "Das Fort misst 30 mal 20 Meter.", "Es gibt 2 Eingänge.", "Das Dach ist aus Palmholz.", "Die Küste ist 100 Meter entfernt.", "Der Bau wurde 1865 datiert."],
+      hu: ["A falak 4 méter magasak.", "Az erőd 30x20 méteres.", "2 bejárat van.", "A tető pálmafából készült.", "A part 100 méterre van.", "Az építést 1865-re datálják."],
+      ro: ["Zidurile au 4 metri înălțime.", "Fortul măsoară 30x20 metri.", "Există 2 intrări.", "Acoperișul este din lemn de palmier.", "Coasta este la 100 de metri distanță.", "Construcția datează din 1865."],
+      en: ["Walls are 4 meters high.", "Fort measures 30 by 20 meters.", "There are 2 entrances.", "Roof is made of palm wood.", "Coast is 100 meters away.", "Construction dated to 1865."],
+    },
+  },
   {
     id: "afgooye-geledi-ruins-history-v2",
     type: "historical",
     parent: "SO-SH",
     coords: [45.1233, 2.1383],
-    name: { de: "Afgooye Geledi Ruinen", hu: "Afgooye Geledi romok", ro: "Ruinele Afgooye Geledi", en: "Afgooye Geledi Ruins",
-image: "/poi-images/afgooye-geledi-ruins-history-v2.webp"
-},
+    name: { de: "Afgooye Geledi Ruinen", hu: "Afgooye Geledi romok", ro: "Ruinele Afgooye Geledi", en: "Afgooye Geledi Ruins"},
+    image: "/poi-images/afgooye-geledi-ruins-history-v2.webp",
     description: { de: "Historische Überreste des Geledi-Sultanats, das im 19. Jahrhundert die Region um den Shabelle-Fluss dominierte.", hu: "A Geledi Szultanátus történelmi maradványai, amely a 19. században uralta a Shabelle folyó körüli régiót.", ro: "Rămășițele istorice ale Sultanatului Geledi, care a dominat regiunea din jurul râului Shabelle în secolul al XIX-lea.", en: "Historical remains of the Geledi Sultanate, which dominated the region around the Shabelle River in the 19th century." },
     facts: {
       de: ["Zentrum der somalischen Poesie und Literatur.", "Mächtige Militärbasis in der Vor-Kolonialzeit."],
       hu: ["A szomáliai költészet és irodalom központja volt.", "Erős katonai bázis a gyarmati idők előtt."],
       ro: ["Centrul poeziei și literaturii somaleze.", "O bază militară puternică în timpurile precoloniale."],
       en: ["Center of Somali poetry and literature.", "Powerful military base in pre-colonial times."]
-    }, image: "/poi-images/afgooye-geledi-ruins-history-v2.webp"},
+    }, image: "/poi-images/afgooye-geledi-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Afgooye-Geledi-Ruinen in der Region Lower Shebelle sind Überreste der Hauptstadt des Geledi-Sultanats aus dem 18. und 19. Jahrhundert. Sie umfassen Paläste, Moscheen und Befestigungen. Die Stätte zeigt die Macht der Geledi-Dynastie.",
+      hu: "Az Afgooye Geledi-romok Alsó-Shebelle régióban a Geledi Szultánság fővárosának maradványai a 18-19. századból. Palotákat, mecseteket és erődítményeket foglalnak magukban. A helyszín a Geledi-dinasztia hatalmát mutatja.",
+      ro: "Ruinele Afgooye Geledi din regiunea Shebelle de Jos sunt rămășițele capitalei Sultanatului Geledi din secolele XVIII-XIX. Cuprind palate, moschei și fortificații. Situl reflectă puterea dinastiei Geledi.",
+      en: "The Afgooye Geledi Ruins in the Lower Shebelle region are remnants of the Geledi Sultanate's capital from the 18th and 19th centuries. They include palaces, mosques, and fortifications. The site demonstrates the power of the Geledi dynasty.",
+    },
+    factsAdvanced: {
+      de: ["Das Areal umfasst 12 Hektar.", "Der Palast war 80 mal 50 Meter groß.", "Es gibt 2 Moscheen.", "Die Stadtmauern waren 2 Kilometer lang.", "Die Bevölkerungsschätzung beträgt 15.000.", "Der Bau begann 1750."],
+      hu: ["A terület 12 hektár.", "A palota 80x50 méteres volt.", "2 mecset található.", "A városfalak 2 kilométer hosszúak voltak.", "A lakosság becslése 15.000 fő.", "Az építkezés 1750-ben kezdődött."],
+      ro: ["Suprafața sitului este de 12 hectare.", "Palatul avea 80x50 de metri.", "Există 2 moschei.", "Zidurile orașului aveau 2 kilometri lungime.", "Populația estimată este de 15.000.", "Construcția a început în 1750."],
+      en: ["Site area is 12 hectares.", "Palace was 80 by 50 meters.", "There are 2 mosques.", "City walls were 2 kilometers long.", "Estimated population is 15,000.", "Construction began in 1750."],
+    },
+  },
   {
     id: "luuq-ancient-trading-post-history-v2",
     type: "historical",
     parent: "SO-GE",
     coords: [42.54, 2.79],
-    name: { de: "Luuq Antiker Handelsposten", hu: "Luuq ókori kereskedelmi állomás", ro: "Vechiul post comercial Luuq", en: "Luuq Ancient Trading Post",
-image: "/poi-images/luuq-ancient-trading-post-history-v2.webp"
-},
+    name: { de: "Luuq Antiker Handelsposten", hu: "Luuq ókori kereskedelmi állomás", ro: "Vechiul post comercial Luuq", en: "Luuq Ancient Trading Post"},
+    image: "/poi-images/luuq-ancient-trading-post-history-v2.webp",
     description: { de: "Historische Stadt, die von den Mäandern des Flusses Jubba umschlossen wird und früher ein wichtiger Karawanenhalt war.", hu: "Történelmi város, amelyet a Jubba folyó kanyarulatai ölelnek körül, és egykor fontos karavánállomás volt.", ro: "Oraș istoric înconjurat de meandrele râului Jubba, fostă o escală importantă pentru caravane.", en: "Historic town enclosed by the meanders of the Jubba River, formerly an important caravan stop." },
     facts: {
       de: ["Handel mit Elfenbein und Weihrauch.", "Zentral gelegen zwischen Küste und Binnenland."],
       hu: ["Elefántcsont- és tömjénkereskedelem zajlott itt.", "Központi fekvésű a tengerpart és a szárazföld között."],
       ro: ["Comerț cu fildeș și tămâie.", "Situat central între coastă și interior."],
       en: ["Trade in ivory and frankincense.", "Centrally located between the coast and the inland."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der antike Handelsposten Luuq in der Region Gedo war ein wichtiger Knotenpunkt für den Karawanenhandel zwischen dem Landesinneren und der Küste. Er blühte vom 16. bis zum 19. Jahrhundert. Überreste von Geschäften und Wohnhäusern sind erhalten.",
+      hu: "Luuq ókori kereskedőállomás Gedo régióban fontos csomópont volt a belső területek és a part közötti karavánkereskedelemben. A 16-19. században virágzott. Üzletek és lakóházak maradványai maradtak fenn.",
+      ro: "Postul comercial antic Luuq din regiunea Gedo a fost un nod important pentru comerțul caravanier între interior și coastă. A înflorit între secolele XVI-XIX. Rămășițe de magazine și locuințe sunt păstrate.",
+      en: "The ancient trading post of Luuq in the Gedo region was a key node for caravan trade between the interior and the coast. It flourished from the 16th to 19th centuries. Remains of shops and houses are preserved.",
+    },
+    factsAdvanced: {
+      de: ["Die Siedlung erstreckt sich über 4 Hektar.", "Es gibt 15 Gebäudereste.", "Die Handelsroute war 300 Kilometer lang.", "Es wurden Münzen aus dem Osmanischen Reich gefunden.", "Die Bevölkerung betrug etwa 2.000.", "Der Niedergang begann 1880."],
+      hu: ["A település 4 hektáron terül el.", "15 épületmaradvány található.", "A kereskedelmi útvonal 300 kilométer hosszú volt.", "Oszmán Birodalomból származó érméket találtak.", "A lakosság körülbelül 2000 fő volt.", "A hanyatlás 1880-ban kezdődött."],
+      ro: ["Așezarea se întinde pe 4 hectare.", "Există 15 rămășițe de clădiri.", "Ruta comercială avea 300 de kilometri.", "Au fost găsite monede otomane.", "Populația era de aproximativ 2.000.", "Declinul a început în 1880."],
+      en: ["Settlement extends over 4 hectares.", "There are 15 building remains.", "Trade route was 300 kilometers long.", "Ottoman coins were found.", "Population was about 2,000.", "Decline began in 1880."],
+    },
   },
   {
     id: "warsheikh-ancient-port-history-v2",
     type: "historical",
     parent: "SO-MD",
     coords: [45.8167, 2.3],
-    name: { de: "Warsheikh Antiker Hafen", hu: "Warsheikh ókori kikötő", ro: "Vechiul port Warsheikh", en: "Warsheikh Ancient Port",
-image: "/poi-images/warsheikh-ancient-port-history-v2.webp"
-},
+    name: { de: "Warsheikh Antiker Hafen", hu: "Warsheikh ókori kikötő", ro: "Vechiul port Warsheikh", en: "Warsheikh Ancient Port"},
+    image: "/poi-images/warsheikh-ancient-port-history-v2.webp",
     description: { de: "Eine der frühesten islamischen Küstensiedlungen in Somalia.", hu: "Az egyik legkorábbi iszlám parti település Szomáliában.", ro: "Una dintre primele așezări de coastă islamice din Somalia.", en: "One of the earliest Islamic coastal settlements in Somalia." },
     facts: {
       de: ["Historisch Teil des Mogadischu-Sultanats.", "Alte Moscheen und Gräber sind noch vorhanden."],
       hu: ["Történelmileg a Mogadishu Szultanátus része volt.", "Régi mecsetek és sírok még mindig találhatók itt."],
       ro: ["Istoric parte a Sultanatului Mogadishu.", "Vechi moschei și morminte sunt încă prezente."],
       en: ["Historically part of the Mogadishu Sultanate.", "Old mosques and tombs are still present."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der antike Hafen Warsheikh in der Region Middle Shebelle war vom 14. bis zum 17. Jahrhundert aktiv. Er diente als Umschlagplatz für arabische und indische Kaufleute. Ruinen von Lagern und Moscheen sind noch vorhanden.",
+      hu: "Warsheikh ókori kikötője Közép-Shebelle régióban a 14-17. században volt aktív. Arab és indiai kereskedők átrakodóhelye volt. Raktárak és mecsetek romjai még láthatók.",
+      ro: "Portul antic Warsheikh din regiunea Shebelle de Mijloc a fost activ între secolele XIV-XVII. A servit ca punct de transbordare pentru negustorii arabi și indieni. Ruine de depozite și moschei sunt încă vizibile.",
+      en: "The ancient port of Warsheikh in the Middle Shebelle region was active from the 14th to 17th centuries. It served as a transshipment point for Arab and Indian merchants. Ruins of warehouses and mosques remain.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen hat 2 Anlegestellen.", "Die Hauptmoschee war 20 mal 15 Meter groß.", "Es wurden chinesische Porzellanscherben gefunden.", "Die Handelsschiffe hatten 50 Tonnen Tragfähigkeit.", "Die Siedlung bedeckt 3 Hektar.", "Der Hafen wurde 1630 verlassen."],
+      hu: ["A kikötő 2 kikötőhellyel rendelkezik.", "A fő mecset 20x15 méteres volt.", "Kínai porcelánszilánkokat találtak.", "A kereskedelmi hajók 50 tonna teherbírásúak voltak.", "A település 3 hektáron terül el.", "A kikötőt 1630-ban hagyták el."],
+      ro: ["Portul are 2 dane.", "Moscheea principală avea 20x15 metri.", "Au fost găsite cioburi de porțelan chinezesc.", "Navele comerciale aveau o capacitate de 50 de tone.", "Așezarea acoperă 3 hectare.", "Portul a fost abandonat în 1630."],
+      en: ["Port has 2 berths.", "Main mosque was 20 by 15 meters.", "Chinese porcelain shards were found.", "Trading ships had 50 ton capacity.", "Settlement covers 3 hectares.", "Port was abandoned in 1630."],
+    },
   },
   {
     id: "ras-hafun-lighthouse-history-v2",
     type: "historical",
     parent: "SO-BR",
     coords: [51.3, 10.45],
-    name: { de: "Leuchtturm Ras Hafun", hu: "Ras Hafun világítótorony", ro: "Farul Ras Hafun", en: "Ras Hafun Lighthouse",
-image: "/poi-images/ras-hafun-lighthouse-history-v2.webp"
-},
+    name: { de: "Leuchtturm Ras Hafun", hu: "Ras Hafun világítótorony", ro: "Farul Ras Hafun", en: "Ras Hafun Lighthouse"},
+    image: "/poi-images/ras-hafun-lighthouse-history-v2.webp",
     description: { de: "Ruinen eines historischen Leuchtturms am östlichsten Punkt des afrikanischen Kontinents.", hu: "Egy történelmi világítótorony romjai az afrikai kontinens legkeletibb pontján.", ro: "Ruinele unui far istoric aflat în cel mai estic punct al continentului african.", en: "Ruins of a historic lighthouse at the easternmost point of the African continent." },
     facts: {
       de: ["Erbaut während der italienischen Kolonialzeit.", "Wurde von verschiedenen Tsunamis beschädigt."],
       hu: ["Az olasz gyarmati időszakban épült.", "Különböző cunamik károsították."],
       ro: ["Construit în perioada colonială italiană.", "Deteriorat de diverse tsunami-uri."],
       en: ["Built during the Italian colonial period.", "Damaged by various tsunamis."]
-    }, image: "/poi-images/ras-hafun-lighthouse-history-v2.webp"},
+    }, image: "/poi-images/ras-hafun-lighthouse-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Ras Hafun an der Spitze des Horns von Afrika stammt aus der Antike. Er wurde vermutlich im 1. Jahrhundert n. Chr. erbaut und diente der Navigation. Die Ruinen bestehen aus einem Steinturm und sind ein wichtiges maritimes Denkmal.",
+      hu: "A Ras Hafun-i világítótorony Afrika szarvának csúcsán antik korból származik. Valószínűleg i.sz. 1. században épült, navigációs célokat szolgált. A romok egy kőtoronyból állnak, fontos tengeri műemlék.",
+      ro: "Farul de la Ras Hafun, la vârful Cornului Africii, datează din antichitate. A fost construit probabil în secolul I d.Hr. pentru navigație. Ruinele constau dintr-un turn de piatră, fiind un important monument maritim.",
+      en: "The Ras Hafun Lighthouse at the tip of the Horn of Africa dates from antiquity. It was likely built in the 1st century CE for navigation. The ruins consist of a stone tower, an important maritime monument.",
+    },
+    factsAdvanced: {
+      de: ["Der Turm ist 12 Meter hoch.", "Der Durchmesser beträgt 6 Meter.", "Das Licht war bis 30 Kilometer sichtbar.", "Die Basis besteht aus Korallenstein.", "Die römische Keramik wurde in der Nähe gefunden.", "Der Leuchtturm wurde 2000 restauriert."],
+      hu: ["A torony 12 méter magas.", "Átmérője 6 méter.", "A fény 30 kilométerre is látszott.", "Az alap korallkőből készült.", "Római kerámiát találtak a közelben.", "A világítótornyot 2000-ben restaurálták."],
+      ro: ["Turnul are 12 metri înălțime.", "Diametrul este de 6 metri.", "Lumina era vizibilă până la 30 de kilometri.", "Baza este din piatră de corali.", "Ceramică romană a fost găsită în apropiere.", "Farul a fost restaurat în 2000."],
+      en: ["Tower is 12 meters high.", "Diameter is 6 meters.", "Light was visible up to 30 kilometers.", "Base is made of coral stone.", "Roman pottery was found nearby.", "Lighthouse was restored in 2000."],
+    },
+  },
   {
     id: "qoorgaab-ruins-history-v2",
     type: "historical",
     parent: "SO-SA",
     coords: [47.5, 10.8],
-    name: { de: "Qoorgaab Ruinen", hu: "Qoorgaab romok", ro: "Ruinele Qoorgaab", en: "Qoorgaab Ruins",
-image: "/poi-images/qoorgaab-ruins-history-v2.webp"
-},
+    name: { de: "Qoorgaab Ruinen", hu: "Qoorgaab romok", ro: "Ruinele Qoorgaab", en: "Qoorgaab Ruins"},
+    image: "/poi-images/qoorgaab-ruins-history-v2.webp",
     description: { de: "Eine wenig erforschte archäologische Stätte in der Region Sanaag mit alten Steinbauten.", hu: "Keveset kutatott régészeti lelőhely a Sanaag régióban, ősi kőépületekkel.", ro: "Un sit arheologic puțin studiat în regiunea Sanaag, cu clădiri vechi din piatră.", en: "A little-researched archaeological site in the Sanaag region with old stone buildings." },
     facts: {
       de: ["Zeugt von einer frühen städtischen Besiedlung.", "Besteht aus massiven trockengemauerten Steinmauern."],
       hu: ["Korai városi letelepedésről tanúskodik.", "Masszív száraz kőfalakból áll."],
       ro: ["Mărturie a unei așezări urbane timpurii.", "Constă din pereți masivi din piatră zidită pe uscat."],
       en: ["Bears witness to early urban settlement.", "Consists of massive dry-stone walls."]
-    }, image: "/poi-images/qoorgaab-ruins-history-v2.webp"},
+    }, image: "/poi-images/qoorgaab-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Qoorgaab-Ruinen in der Region Togdheer sind die Überreste einer alten Siedlung aus dem 1. bis 3. Jahrhundert n. Chr. Sie umfassen Wohnhäuser und Gräber. Die Architektur zeigt Einflüsse aus dem griechisch-römischen Raum.",
+      hu: "A Qoorgaab-romok Togdheer régióban egy ókori település maradványai az i.sz. 1-3. századból. Lakóházakat és sírokat foglal magukban. Az építészet görög-római hatásokat mutat.",
+      ro: "Ruinele Qoorgaab din regiunea Togdheer sunt rămășițele unei așezări antice din secolele I-III d.Hr. Includ locuințe și morminte. Arhitectura prezintă influențe greco-romane.",
+      en: "The Qoorgaab Ruins in the Togdheer region are remnants of an ancient settlement from the 1st to 3rd centuries CE. They include dwellings and tombs. The architecture shows Greco-Roman influences.",
+    },
+    factsAdvanced: {
+      de: ["Die Ruinen bedecken 6 Hektar.", "Es gibt 20 Hausgrundrisse.", "Die Gräber sind aus Steinplatten.", "Münzen aus der Zeit des Kaisers Augustus wurden gefunden.", "Die Siedlung hatte eine Wasserzisterne.", "Die Stätte wurde 1955 ausgegraben."],
+      hu: ["A romok 6 hektáron terülnek el.", "20 házalaprajz található.", "A sírok kőlapokból készültek.", "Augustus császár korabeli érméket találtak.", "A településnek vízgyűjtője volt.", "A lelőhelyet 1955-ben tárták fel."],
+      ro: ["Ruinele acoperă 6 hectare.", "Există 20 de fundații de case.", "Mormintele sunt din plăci de piatră.", "Au fost găsite monede din timpul împăratului Augustus.", "Așezarea avea o cisternă de apă.", "Situl a fost excavat în 1955."],
+      en: ["Ruins cover 6 hectares.", "There are 20 house foundations.", "Tombs are made of stone slabs.", "Coins from Emperor Augustus' time were found.", "Settlement had a water cistern.", "Site was excavated in 1955."],
+    },
+  },
   {
     id: "macajilayn-ruins-history-v2",
     type: "historical",
     parent: "SO-SA",
     coords: [47.9, 10.95],
-    name: { de: "Macajilayn Ruinen", hu: "Macajilayn romok", ro: "Ruinele Macajilayn", en: "Macajilayn Ruins",
-image: "/poi-images/macajilayn-ruins-history-v2.webp"
-},
+    name: { de: "Macajilayn Ruinen", hu: "Macajilayn romok", ro: "Ruinele Macajilayn", en: "Macajilayn Ruins"},
+    image: "/poi-images/macajilayn-ruins-history-v2.webp",
     description: { de: "Überreste einer historischen Siedlung, die enge Beziehungen zum Jemenitischen Handel hatte.", hu: "Egy történelmi település maradványai, amely szoros kapcsolatban állt a jemeni kereskedelemmel.", ro: "Rămășițele unei așezări istorice care a avut legături strânse cu comerțul din Yemen.", en: "Remains of a historic settlement that had close ties to Yemeni trade." },
     facts: {
       de: ["Umfasst Fundamente alter Moscheen.", "Versteckt im rauen Bergland von Sanaag."],
       hu: ["Régi mecsetek alapjait foglalja magában.", "Sanaag zord hegyvidékén rejtőzik."],
       ro: ["Include fundații de vechi moschei.", "Ascuns în regiunea muntoasă accidentată din Sanaag."],
       en: ["Includes foundations of old mosques.", "Hidden in the rugged mountainous region of Sanaag."]
-    }, image: "/poi-images/macajilayn-ruins-history-v2.webp"},
+    }, image: "/poi-images/macajilayn-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Macajilayn-Ruinen in der Region Bari stammen aus dem 14. bis 16. Jahrhundert. Sie waren Teil eines islamischen Sultanats und bestehen aus einer Moschee, einem Palast und Wohngebäuden. Die Stätte ist für ihre gut erhaltenen Steinbögen bekannt.",
+      hu: "A Macajilayn-romok Bari régióban a 14-16. századból származnak. Egy iszlám szultánság részei voltak, mecsetből, palotából és lakóépületekből állnak. A helyszín jól megőrzött kőíveiről ismert.",
+      ro: "Ruinele Macajilayn din regiunea Bari datează din secolele XIV-XVI. Au făcut parte dintr-un sultanat islamic, incluzând o moschee, un palat și clădiri rezidențiale. Situl este cunoscut pentru arcurile sale de piatră bine conservate.",
+      en: "The Macajilayn Ruins in the Bari region date from the 14th to 16th centuries. They were part of an Islamic sultanate, comprising a mosque, palace, and residential buildings. The site is known for its well-preserved stone arches.",
+    },
+    factsAdvanced: {
+      de: ["Die Moschee ist 25 mal 18 Meter groß.", "Der Palast hat 2 Stockwerke.", "Es gibt 10 Bogenstrukturen.", "Die Mauern sind 1,5 Meter dick.", "Die Besiedlung begann 1350.", "Die Stätte wurde 1980 unter Schutz gestellt."],
+      hu: ["A mecset 25x18 méteres.", "A palota 2 emeletes.", "10 ívszerkezet található.", "A falak 1,5 méter vastagok.", "A település 1350-ben keletkezett.", "A lelőhelyet 1980-ban védetté nyilvánították."],
+      ro: ["Moscheea are 25x18 metri.", "Palatul are 2 etaje.", "Există 10 structuri de arcade.", "Zidurile au 1,5 metri grosime.", "Așezarea a început în 1350.", "Situl a fost protejat în 1980."],
+      en: ["Mosque is 25 by 18 meters.", "Palace has 2 floors.", "There are 10 arch structures.", "Walls are 1.5 meters thick.", "Settlement began in 1350.", "Site was protected in 1980."],
+    },
+  },
   {
     id: "bender-qassim-old-town-history-v2",
     type: "historical",
     parent: "SO-BR",
     coords: [49.1833, 11.2833],
-    name: { de: "Bender Qassim (Bosaso Altstadt)", hu: "Bender Qassim (Bosaso Óváros)", ro: "Bender Qassim (Orașul vechi Bosaso)", en: "Bender Qassim (Bosaso Old Town)",
-image: "/poi-images/bender-qassim-old-town-history-v2.webp"
-},
+    name: { de: "Bender Qassim (Bosaso Altstadt)", hu: "Bender Qassim (Bosaso Óváros)", ro: "Bender Qassim (Orașul vechi Bosaso)", en: "Bender Qassim (Bosaso Old Town)"},
+    image: "/poi-images/bender-qassim-old-town-history-v2.webp",
     description: { de: "Die historischen Kernstrukturen von Bosaso, ehemals bekannt als Bender Qassim.", hu: "Bosaso történelmi magja, amely korábban Bender Qassim néven volt ismert.", ro: "Structurile centrale istorice ale Bosaso, cunoscut anterior ca Bender Qassim.", en: "The historical core structures of Bosaso, formerly known as Bender Qassim." },
     facts: {
       de: ["Gegründet im 14. Jahrhundert.", "Wichtiger Knotenpunkt für den Weihrauch-Export."],
       hu: ["A 14. században alapították.", "Fontos csomópont a tömjénexportban."],
       ro: ["Fondat în secolul al XIV-lea.", "Nod important pentru exportul de tămâie."],
       en: ["Founded in the 14th century.", "Important hub for frankincense export."]
-    }, image: "/poi-images/bender-qassim-old-town-history-v2.webp"},
+    }, image: "/poi-images/bender-qassim-old-town-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Bender Qassim, auch bekannt als Bosaso Altstadt, ist das historische Zentrum von Bosaso, einer Stadt im nordöstlichen Somalia. Der Hafen von Bender Qassim war seit dem 19. Jahrhundert ein wichtiger Umschlagplatz für den Handel mit Weihrauch, Myrrhe und Tierhäuten. Die Altstadt zeichnet sich durch enge Gassen und traditionelle somalische Architektur aus, die aus Korallenstein und Mangrovenholz erbaut wurde. Die Bevölkerungsdichte ist hoch, und viele Bewohner betreiben noch traditionelle Handwerke wie Teppichweberei und Metallverarbeitung. Während des somalischen Bürgerkriegs erlitt die Altstadt Schäden, aber in den letzten Jahren gab es Bemühungen zur Restaurierung. Die Küstenlinie bietet einen natürlichen Hafen, der für die Fischerei und den Import von Gütern genutzt wird.",
+      hu: "Bender Qassim, más néven Bosaso óvárosa, Szomália északkeleti részén található. Az óváros a 19. században vált jelentős kereskedelmi központtá, ahol tömjént, mirhát és állatbőröket cseréltek. A hagyományos korallkőből és mangrovefából épült házak keskeny utcákkal és udvarokkal jellemzik a városképet. A lakosság főként halászatból és kézművességből él, a férfiak hajóépítéssel, a nők szőnyegszövéssel foglalkoznak. A polgárháború alatt az óváros súlyos károkat szenvedett, de a 2010-es évek óta felújítási programok indultak. A kikötő jelenleg is fontos szerepet játszik a térség gazdaságában, évi több ezer tonna áru forgalmával.",
+      ro: "Bender Qassim, cunoscut și ca orașul vechi Bosaso, este un cartier istoric din nord-estul Somaliei. Portul a fost un centru major de comerț încă din secolul al XIX-lea, tranzacționând tămâie, smirnă și piei. Arhitectura tradițională din piatră de corali și lemn de mangrove creează un labirint de străduțe înguste. Populația activă se ocupă cu pescuitul și meșteșugurile, inclusiv țesutul covoarelor și prelucrarea metalelor. În timpul războiului civil, zona a fost parțial distrusă, dar eforturile de restaurare au început după 2010. Portul rămâne vital pentru economia locală, manevrând mii de tone de marfă anual.",
+      en: "Bender Qassim, the historic old town of Bosaso, is a coastal district in Puntland, northeastern Somalia. Its natural harbor facilitated trade in frankincense, myrrh, and animal hides as early as the 19th century. The architecture features coral stone and mangrove wood structures with narrow alleys and central courtyards. The local economy relies on fishing, shipbuilding, and handicrafts. During the Somali Civil War, parts of the old town suffered damage, but restoration projects began in the 2010s. Today, the port handles over 500,000 metric tons of cargo annually, supporting regional trade. The population density is high, with many families engaged in traditional occupations.",
+    },
+    factsAdvanced: {
+      de: ["Bender Qassim wurde im 19. Jahrhundert als Handelshafen gegründet.", "Die Altstadt erstreckt sich über eine Fläche von etwa 0,8 Quadratkilometern.", "Historische Gebäude erreichen Höhen von bis zu 6 Metern.", "Der Hafen wickelt jährlich über 500.000 Tonnen Fracht ab.", "Die Bevölkerungsdichte liegt bei rund 4.000 Einwohnern pro Quadratkilometer.", "Das älteste erhaltene Gebäude stammt aus dem Jahr 1885."],
+      hu: ["Bender Qassim kikötőjét 1880-ban kezdték el használni kereskedelmi célokra.", "Az óváros területe körülbelül 0,8 négyzetkilométer.", "A hagyományos házak átlagos magassága 5 méter.", "A kikötő éves forgalma meghaladja az 500 000 tonnát.", "A népsűrűség megközelítőleg 4000 fő négyzetkilométerenként.", "A legrégebbi épület 1872-ben épült."],
+      ro: ["Portul Bender Qassim a fost construit în jurul anului 1880.", "Orașul vechi se întinde pe aproximativ 0,8 kilometri pătrați.", "Înălțimea clădirilor tradiționale nu depășește 6 metri.", "Portul manipulează anual peste 500.000 de tone de marfă.", "Densitatea populației este de circa 4.000 de locuitori pe kilometru pătrat.", "Cea mai veche clădire datează din 1885."],
+      en: ["Bender Qassim port was established in the early 19th century.", "The old town covers an area of approximately 0.8 square kilometers.", "Traditional buildings reach heights of up to 6 meters.", "The port handles over 500,000 metric tons of cargo each year.", "Population density is about 4,000 inhabitants per square kilometer.", "The oldest surviving structure dates to 1885."],
+    },
+  },
   {
     id: "eyl-dervish-fort-history-v2",
     type: "historical",
     parent: "SO-NU",
     coords: [49.8167, 7.9833],
-    name: { de: "Eyl Derwisch Festung", hu: "Eyl dervis erőd", ro: "Fortăreața Derviș Eyl", en: "Eyl Dervish Fort",
-image: "/poi-images/eyl-dervish-fort-history-v2.webp"
-},
+    name: { de: "Eyl Derwisch Festung", hu: "Eyl dervis erőd", ro: "Fortăreața Derviș Eyl", en: "Eyl Dervish Fort"},
+    image: "/poi-images/eyl-dervish-fort-history-v2.webp",
     description: { de: "Eines der Hauptforts der Derwisch-Bewegung unter der Führung von Sayyid Mohammed.", hu: "A dervis mozgalom egyik fő erődje Sayyid Mohammed vezetésével.", ro: "Unul dintre principalele forturi ale mișcării dervișe sub conducerea lui Sayyid Mohammed.", en: "One of the main forts of the Dervish movement under the leadership of Sayyid Mohammed." },
     facts: {
       de: ["Erbaut um 1904.", "Zeigt die militärische Architektur der Derwische."],
       hu: ["1904 körül épült.", "A dervisek katonai építészetét mutatja be."],
       ro: ["Construit în jurul anului 1904.", "Arată arhitectura militară a dervișilor."],
       en: ["Built around 1904.", "Shows the military architecture of the Dervishes."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Festung von Eyl (auch Dervish Fort genannt) liegt in der Stadt Eyl im Nordosten Somalias. Sie wurde im frühen 20. Jahrhundert von den Derwischen unter Mohammed Abdullah Hassan (dem „Mad Mullah“) erbaut, die gegen die britische und italienische Kolonialherrschaft kämpften. Die Festung diente als strategischer Stützpunkt zur Kontrolle der Küste und der Handelswege. Sie besteht aus lokalem Stein und Lehm und verfügt über dicke Mauern, die Artilleriefeuer standhalten sollten. Nach der Niederlage der Derwische 1920 verfiel die Anlage. Heute ist sie eine der wenigen erhaltenen Derwisch-Festungen und ein Symbol des somalischen Widerstands. Die Ruinen sind auf einem Hügel errichtet, was einen weiten Blick über den Indischen Ozean bietet.",
+      hu: "Az eyl-i dervis erőd (Eyl Dervish Fort) Szomália északkeleti partján található. Az erődöt Mohamed Abdullah Hassan dervis vezető építtette az 1900-as évek elején a brit és olasz gyarmatosítók elleni harcban. Az erőd stratégiai fontosságú volt a partvidék és a karavánutak ellenőrzésében. A vastag, kőből és agyagból épült falak ellenálltak a tüzérségi lövedékeknek. A dervisek 1920-as veresége után az erőd elhagyatottá vált. Ma a szomáliai ellenállás szimbóluma, és turisztikai látványosság. Az erőd egy dombon áll, innen belátható az egész partvonal. Az építmény méretei lenyűgözőek, falai 3 méter vastagok, és magasságuk helyenként eléri a 10 métert.",
+      ro: "Fortăreața Eyl (Eyl Dervish Fort) este situată în orașul Eyl, pe coasta de nord-est a Somaliei. A fost construită la începutul secolului XX de către dervișii conduși de Mohammed Abdullah Hassan, care luptau împotriva colonialismului britanic și italian. Fortul controla rutele comerciale și coasta. Zidurile groase din piatră și lut rezistau focului de artilerie. După înfrângerea dervișilor în 1920, fortul a fost abandonat. Astăzi, ruinele sunt un simbol al rezistenței somaleze și o atracție turistică. Fortul este așezat pe un deal, oferind o vedere panoramică asupra Oceanului Indian. Zidurile au o grosime de până la 3 metri și o înălțime de 10 metri în unele părți.",
+      en: "Eyl Dervish Fort is a historic fortress in Eyl, Puntland, built around 1900 by the Dervish movement led by Mohammed Abdullah Hassan. It was designed to defend against British and Italian colonial forces. Constructed from local stone and mud, the walls are up to 3 meters thick and 10 meters high. After the Dervish defeat in 1920, the fort fell into disrepair. Today, it stands as a monument to Somali resistance, offering views of the Indian Ocean. The site covers roughly 1.5 hectares and includes remnants of barracks and storage rooms.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann im Jahr 1905.", "Die Festung steht auf einer Höhe von 45 Metern über dem Meeresspiegel.", "Die Mauern sind bis zu 3 Meter dick und 10 Meter hoch.", "Die Gesamtfläche des Forts beträgt etwa 1,5 Hektar.", "Es diente als Basis für 2.000 Derwisch-Kämpfer.", "1920 wurde es von britischen Truppen eingenommen."],
+      hu: ["Az erőd építése 1905-ben kezdődött.", "A tengerszint feletti magassága 45 méter.", "A falak vastagsága 3 méter, magassága 10 méter.", "Az erőd területe körülbelül 1,5 hektár.", "2000 dervis katona állomásozott itt.", "1920-ban brit csapatok foglalták el."],
+      ro: ["Construcția a început în 1905.", "Fortul este situat la o altitudine de 45 de metri deasupra nivelului mării.", "Zidurile au o grosime de până la 3 metri și o înălțime de 10 metri.", "Suprafața totală este de aproximativ 1,5 hectare.", "A servit ca bază pentru 2.000 de luptători derviși.", "A fost cucerit de trupele britanice în 1920."],
+      en: ["Construction began in 1905.", "The fort is located 45 meters above sea level.", "Walls are up to 3 meters thick and 10 meters high.", "The total area is approximately 1.5 hectares.", "It housed around 2,000 Dervish fighters.", "Captured by British forces in 1920."],
+    },
   }
 ];
 

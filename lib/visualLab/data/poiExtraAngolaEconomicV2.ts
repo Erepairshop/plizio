@@ -10,9 +10,8 @@ export const poiExtraAngolaEconomicV2: POI[] = [
       de: "Hafen von Luanda",
       hu: "Luanda kikötője",
       ro: "Portul Luanda",
-      en: "Port of Luanda",
-image: "/poi-images/ao-port-of-luanda-economic-v2.webp"
-},
+      en: "Port of Luanda"},
+    image: "/poi-images/ao-port-of-luanda-economic-v2.webp",
     description: {
       de: "Der größte Hafen Angolas, der den Großteil der Import- und Exportgüter des Landes abwickelt.",
       hu: "Angola legnagyobb kikötője, amely az ország import- és exportáruinak nagy részét kezeli.",
@@ -46,9 +45,8 @@ image: "/poi-images/ao-port-of-luanda-economic-v2.webp"
       de: "Hafen von Lobito",
       hu: "Lobito kikötője",
       ro: "Portul Lobito",
-      en: "Port of Lobito",
-image: "/poi-images/ao-port-of-lobito-economic-v2.webp"
-},
+      en: "Port of Lobito"},
+    image: "/poi-images/ao-port-of-lobito-economic-v2.webp",
     description: {
       de: "Ein bedeutender Tiefwasserhafen, der als Endpunkt der Benguelabahn dient und Zentralafrika mit dem Atlantik verbindet.",
       hu: "Jelentős mélyvízi kikötő, amely a Benguela-vasút végállomásaként köti össze Közép-Afrikát az Atlanti-óceánnal.",
@@ -82,9 +80,8 @@ image: "/poi-images/ao-port-of-lobito-economic-v2.webp"
       de: "Hafen von Namibe",
       hu: "Namibe kikötője",
       ro: "Portul Namibe",
-      en: "Port of Namibe",
-image: "/poi-images/ao-port-of-namibe-economic-v2.webp"
-},
+      en: "Port of Namibe"},
+    image: "/poi-images/ao-port-of-namibe-economic-v2.webp",
     description: {
       de: "Der drittgrößte Hafen des Landes, spezialisiert auf Fischerei, Erzverladung und Versorgung der Südregion.",
       hu: "Az ország harmadik legnagyobb kikötője, halászatra, ércrakodásra és a déli régió ellátására specializálódott.",
@@ -118,9 +115,8 @@ image: "/poi-images/ao-port-of-namibe-economic-v2.webp"
       de: "Hafen von Cabinda",
       hu: "Cabinda kikötője",
       ro: "Portul Cabinda",
-      en: "Port of Cabinda",
-image: "/poi-images/ao-port-of-cabinda-economic-v2.webp"
-},
+      en: "Port of Cabinda"},
+    image: "/poi-images/ao-port-of-cabinda-economic-v2.webp",
     description: {
       de: "Ein wichtiger Küstenhafen in der erdölreichen Exklave Cabinda, der die lokale Wirtschaft unterstützt.",
       hu: "Fontos parti kikötő az olajban gazdag Cabinda exklávéban, amely a helyi gazdaságot támogatja.",
@@ -156,9 +152,8 @@ image: "/poi-images/ao-port-of-cabinda-economic-v2.webp"
       de: "Hafen von Soyo",
       hu: "Soyo kikötője",
       ro: "Portul Soyo",
-      en: "Port of Soyo",
-image: "/poi-images/ao-port-of-soyo-economic-v2.webp"
-},
+      en: "Port of Soyo"},
+    image: "/poi-images/ao-port-of-soyo-economic-v2.webp",
     description: {
       de: "Ein bedeutender Industriehafen an der Kongomündung, der eng mit der Öl- und Gasindustrie verbunden ist.",
       hu: "Jelentős ipari kikötő a Kongó torkolatánál, amely szorosan kapcsolódik az olaj- és gáziparhoz.",
@@ -192,9 +187,8 @@ image: "/poi-images/ao-port-of-soyo-economic-v2.webp"
       de: "Hafen von Porto Amboim",
       hu: "Porto Amboim kikötője",
       ro: "Portul Porto Amboim",
-      en: "Port of Porto Amboim",
-image: "/poi-images/ao-porto-amboim-port-economic-v2.webp"
-},
+      en: "Port of Porto Amboim"},
+    image: "/poi-images/ao-porto-amboim-port-economic-v2.webp",
     description: {
       de: "Ein Hafen, der sich in den letzten Jahren zu einem Zentrum für die Herstellung von Offshore-Ausrüstung entwickelt hat.",
       hu: "Egy kikötő, amely az elmúlt években az offshore berendezések gyártásának központjává vált.",
@@ -230,9 +224,8 @@ image: "/poi-images/ao-porto-amboim-port-economic-v2.webp"
       de: "Hafen von Barra do Dande",
       hu: "Barra do Dande kikötője",
       ro: "Portul Barra do Dande",
-      en: "Port of Barra do Dande",
-image: "/poi-images/ao-barra-do-dande-port-economic-v2.webp"
-},
+      en: "Port of Barra do Dande"},
+    image: "/poi-images/ao-barra-do-dande-port-economic-v2.webp",
     description: {
       de: "Ein im Bau befindlicher Tiefseehafen, der Luanda entlasten und als strategisches Logistikzentrum dienen soll.",
       hu: "Épülő mélytengeri kikötő, amelynek célja Luanda tehermentesítése és stratégiai logisztikai központként való szolgálata.",
@@ -266,9 +259,8 @@ image: "/poi-images/ao-barra-do-dande-port-economic-v2.webp"
       de: "Catoca-Diamantenmine",
       hu: "Catoca gyémántbánya",
       ro: "Mina de diamante Catoca",
-      en: "Catoca Diamond Mine",
-image: "/poi-images/ao-catoca-diamond-mine-economic-v2.webp"
-},
+      en: "Catoca Diamond Mine"},
+    image: "/poi-images/ao-catoca-diamond-mine-economic-v2.webp",
     description: {
       de: "Die viertgrößte Diamantenmine der Welt, die einen Großteil der angolanischen Diamantenproduktion liefert.",
       hu: "A világ negyedik legnagyobb gyémántbányája, amely az angolai gyémánttermelés nagy részét adja.",
@@ -302,9 +294,8 @@ image: "/poi-images/ao-catoca-diamond-mine-economic-v2.webp"
       de: "Angola LNG-Anlage",
       hu: "Angola LNG üzem",
       ro: "Uzina LNG Angola",
-      en: "Angola LNG Plant",
-image: "/poi-images/ao-angola-lng-plant-economic-v2.webp"
-},
+      en: "Angola LNG Plant"},
+    image: "/poi-images/ao-angola-lng-plant-economic-v2.webp",
     description: {
       de: "Eine riesige Verarbeitungsanlage für verflüssigtes Erdgas, die Gas aus Offshore-Ölfeldern nutzt.",
       hu: "Hatalmas cseppfolyósított földgáz-feldolgozó üzem, amely az offshore olajmezők gázát hasznosítja.",
@@ -338,9 +329,8 @@ image: "/poi-images/ao-angola-lng-plant-economic-v2.webp"
       de: "Raffinerie Luanda",
       hu: "Luandai olajfinomító",
       ro: "Rafinăria Luanda",
-      en: "Luanda Refinery",
-image: "/poi-images/ao-luanda-refinery-economic-v2.webp"
-},
+      en: "Luanda Refinery"},
+    image: "/poi-images/ao-luanda-refinery-economic-v2.webp",
     description: {
       de: "Die wichtigste Erdölraffinerie des Landes, die Kraftstoffe für den Inlandsmarkt produziert.",
       hu: "Az ország legfontosabb kőolajfinomítója, amely üzemanyagokat állít elő a hazai piac számára.",
@@ -374,9 +364,8 @@ image: "/poi-images/ao-luanda-refinery-economic-v2.webp"
       de: "Capanda-Talsperre",
       hu: "Capanda-gát",
       ro: "Barajul Capanda",
-      en: "Capanda Dam",
-image: "/poi-images/ao-capanda-dam-economic-v2.webp"
-},
+      en: "Capanda Dam"},
+    image: "/poi-images/ao-capanda-dam-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Wasserkraftwerk am Cuanza-Fluss, das eine Schlüsselrolle in der Stromversorgung Angolas spielt.",
       hu: "Jelentős vízerőmű a Cuanza folyón, amely kulcsszerepet játszik Angola áramellátásában.",
@@ -410,9 +399,8 @@ image: "/poi-images/ao-capanda-dam-economic-v2.webp"
       de: "Laúca-Talsperre",
       hu: "Laúca-gát",
       ro: "Barajul Laúca",
-      en: "Laúca Dam",
-image: "/poi-images/ao-lauca-dam-economic-v2.webp"
-},
+      en: "Laúca Dam"},
+    image: "/poi-images/ao-lauca-dam-economic-v2.webp",
     description: {
       de: "Eines der größten Wasserkraftwerke Afrikas, das zur Energieunabhängigkeit des Landes beiträgt.",
       hu: "Afrika egyik legnagyobb vízerőműve, amely hozzájárul az ország energiafüggetlenségéhez.",
@@ -446,9 +434,8 @@ image: "/poi-images/ao-lauca-dam-economic-v2.webp"
       de: "Cambambe-Talsperre",
       hu: "Cambambe-gát",
       ro: "Barajul Cambambe",
-      en: "Cambambe Dam",
-image: "/poi-images/ao-cambambe-dam-economic-v2.webp"
-},
+      en: "Cambambe Dam"},
+    image: "/poi-images/ao-cambambe-dam-economic-v2.webp",
     description: {
       de: "Ein historisches und kürzlich erweitertes Wasserkraftwerk, das Luanda und den Norden mit Energie versorgt.",
       hu: "Történelmi és nemrégiben kibővített vízerőmű, amely Luandát és az északi régiót látja el energiával.",
@@ -482,9 +469,8 @@ image: "/poi-images/ao-cambambe-dam-economic-v2.webp"
       de: "Gove-Talsperre",
       hu: "Gove-gát",
       ro: "Barajul Gove",
-      en: "Gove Dam",
-image: "/poi-images/ao-gove-dam-economic-v2.webp"
-},
+      en: "Gove Dam"},
+    image: "/poi-images/ao-gove-dam-economic-v2.webp",
     description: {
       de: "Ein wichtiger Damm im zentralen Hochland, der Strom erzeugt und die Bewässerung in der Provinz Huambo unterstützt.",
       hu: "Fontos gát a központi fennsíkon, amely áramot termel és támogatja az öntözést Huambo tartományban.",
@@ -518,9 +504,8 @@ image: "/poi-images/ao-gove-dam-economic-v2.webp"
       de: "Biocom Zuckerfabrik",
       hu: "Biocom cukor- és etanolgyár",
       ro: "Fabrica de zahăr Biocom",
-      en: "Biocom Sugar and Ethanol Plant",
-image: "/poi-images/ao-biocom-plant-economic-v2.webp"
-},
+      en: "Biocom Sugar and Ethanol Plant"},
+    image: "/poi-images/ao-biocom-plant-economic-v2.webp",
     description: {
       de: "Ein massives agro-industrielles Projekt, das Zucker, Ethanol und Biostrom aus Zuckerrohr produziert.",
       hu: "Hatalmas agráripari projekt, amely cukrot, etanolt és bioáramot állít elő cukornádból.",
@@ -554,9 +539,8 @@ image: "/poi-images/ao-biocom-plant-economic-v2.webp"
       de: "Sonderwirtschaftszone Viana",
       hu: "Viana Különleges Gazdasági Övezet",
       ro: "Zona Economică Specială Viana",
-      en: "Viana Special Economic Zone",
-image: "/poi-images/ao-viana-zee-economic-v2.webp"
-},
+      en: "Viana Special Economic Zone"},
+    image: "/poi-images/ao-viana-zee-economic-v2.webp",
     description: {
       de: "Ein weitläufiger Industriepark bei Luanda, der ausländische Investitionen und lokale Produktion fördern soll.",
       hu: "Egy kiterjedt ipari park Luanda mellett, amely a külföldi befektetéseket és a helyi termelést hivatott ösztönözni.",
@@ -590,9 +574,8 @@ image: "/poi-images/ao-viana-zee-economic-v2.webp"
       de: "Industriezentrum Fútila",
       hu: "Fútila ipari park",
       ro: "Polul industrial Fútila",
-      en: "Fútila Industrial Pole",
-image: "/poi-images/ao-futila-industrial-pole-economic-v2.webp"
-},
+      en: "Fútila Industrial Pole"},
+    image: "/poi-images/ao-futila-industrial-pole-economic-v2.webp",
     description: {
       de: "Ein Entwicklungsgebiet in Cabinda, das auf Dienstleistungen für die Ölindustrie und das produzierende Gewerbe abzielt.",
       hu: "Egy fejlesztési terület Cabindában, amely az olajipar és a feldolgozóipar szolgáltatásaira összpontosít.",
@@ -626,9 +609,8 @@ image: "/poi-images/ao-futila-industrial-pole-economic-v2.webp"
       de: "Lulo-Diamantenmine",
       hu: "Lulo gyémántbánya",
       ro: "Mina de diamante Lulo",
-      en: "Lulo Diamond Mine",
-image: "/poi-images/ao-lulo-diamond-mine-economic-v2.webp"
-},
+      en: "Lulo Diamond Mine"},
+    image: "/poi-images/ao-lulo-diamond-mine-economic-v2.webp",
     description: {
       de: "Eine Mine, die für den Fund einiger der größten und wertvollsten Diamanten in der Geschichte Angolas bekannt ist.",
       hu: "Egy bánya, amely arról ismert, hogy Angola történetének legnagyobb és legértékesebb gyémántjait találták itt.",
@@ -662,9 +644,8 @@ image: "/poi-images/ao-lulo-diamond-mine-economic-v2.webp"
       de: "Cuango-Diamantenabbau",
       hu: "Cuango gyémántbánya",
       ro: "Mina de diamante Cuango",
-      en: "Cuango Diamond Operations",
-image: "/poi-images/ao-cuango-diamond-operations-economic-v2.webp"
-},
+      en: "Cuango Diamond Operations"},
+    image: "/poi-images/ao-cuango-diamond-operations-economic-v2.webp",
     description: {
       de: "Ein ausgedehntes Bergbaugebiet im Tal des Cuango-Flusses, das seit Jahrzehnten für seine Diamantenressourcen bekannt ist.",
       hu: "Kiterjedt bányászati terület a Cuango folyó völgyében, amely évtizedek óta ismert gyémántkészleteiről.",
@@ -698,9 +679,8 @@ image: "/poi-images/ao-cuango-diamond-operations-economic-v2.webp"
       de: "Ölterminal Malongo",
       hu: "Malongo olajterminál",
       ro: "Terminalul petrolier Malongo",
-      en: "Malongo Oil Terminal",
-image: "/poi-images/ao-malongo-oil-terminal-economic-v2.webp"
-},
+      en: "Malongo Oil Terminal"},
+    image: "/poi-images/ao-malongo-oil-terminal-economic-v2.webp",
     description: {
       de: "Das wichtigste Terminal für den Export von Rohöl aus der Provinz Cabinda, betrieben von internationalen Ölkonzernen.",
       hu: "A Cabinda tartományból származó kőolaj exportjának legfontosabb terminálja, amelyet nemzetközi olajipari vállalatok üzemeltetnek.",
@@ -734,9 +714,8 @@ image: "/poi-images/ao-malongo-oil-terminal-economic-v2.webp"
       de: "Kwanda-Basis",
       hu: "Kwanda bázis",
       ro: "Baza Kwanda",
-      en: "Kwanda Base",
-image: "/poi-images/ao-kwanda-base-economic-v2.webp"
-},
+      en: "Kwanda Base"},
+    image: "/poi-images/ao-kwanda-base-economic-v2.webp",
     description: {
       de: "Eine spezialisierte Logistik- und Versorgungsbasis in Soyo, die Offshore-Ölplattformen im Norden Angolas unterstützt.",
       hu: "Egy speciális logisztikai és ellátó bázis Soyóban, amely az észak-angolai offshore olajfúró tornyokat támogatja.",
@@ -772,9 +751,8 @@ image: "/poi-images/ao-kwanda-base-economic-v2.webp"
       de: "Eisenerzmine Cassinga",
       hu: "Cassinga vasércbánya",
       ro: "Mina de fier Cassinga",
-      en: "Cassinga Iron Ore Mine",
-image: "/poi-images/ao-cassinga-iron-ore-mine-economic-v2.webp"
-},
+      en: "Cassinga Iron Ore Mine"},
+    image: "/poi-images/ao-cassinga-iron-ore-mine-economic-v2.webp",
     description: {
       de: "Ein historisches Bergbaugebiet im Süden Angolas, das ein enormes Potenzial für die Eisenerzförderung bietet.",
       hu: "Történelmi bányászati terület Dél-Angolában, amely hatalmas potenciállal rendelkezik a vasérctermelés terén.",
@@ -808,9 +786,8 @@ image: "/poi-images/ao-cassinga-iron-ore-mine-economic-v2.webp"
       de: "Cuca-Brauerei",
       hu: "Cuca sörgyár",
       ro: "Fabrica de bere Cuca",
-      en: "Cuca Brewery Luanda",
-image: "/poi-images/ao-cuca-brewery-luanda-economic-v2.webp"
-},
+      en: "Cuca Brewery Luanda"},
+    image: "/poi-images/ao-cuca-brewery-luanda-economic-v2.webp",
     description: {
       de: "Die Produktionsstätte der bekanntesten angolanischen Biermarke, ein Symbol für die lokale Getränkeindustrie.",
       hu: "A legismertebb angolai sörmárka gyártóüzeme, a helyi italipar szimbóluma.",
@@ -844,9 +821,8 @@ image: "/poi-images/ao-cuca-brewery-luanda-economic-v2.webp"
       de: "Textilfabrik Textang II",
       hu: "Textang II textilgyár",
       ro: "Fabrica de textile Textang II",
-      en: "Textang II Textile Factory",
-image: "/poi-images/ao-textang-ii-textile-factory-economic-v2.webp"
-},
+      en: "Textang II Textile Factory"},
+    image: "/poi-images/ao-textang-ii-textile-factory-economic-v2.webp",
     description: {
       de: "Eine rehabilitierte Textilfabrik in Luanda, die dazu beiträgt, die heimische Bekleidungsindustrie wiederzubeleben.",
       hu: "Egy rehabilitált textilgyár Luandában, amely segít a hazai ruhaipar újjáélesztésében.",
@@ -880,9 +856,8 @@ image: "/poi-images/ao-textang-ii-textile-factory-economic-v2.webp"
       de: "Zementwerk Nova Cimangola",
       hu: "Nova Cimangola cementgyár",
       ro: "Fabrica de ciment Nova Cimangola",
-      en: "Nova Cimangola Cement Plant",
-image: "/poi-images/ao-nova-cimangola-cement-plant-economic-v2.webp"
-},
+      en: "Nova Cimangola Cement Plant"},
+    image: "/poi-images/ao-nova-cimangola-cement-plant-economic-v2.webp",
     description: {
       de: "Das größte Zementwerk des Landes in Luanda, entscheidend für die Bau- und Infrastrukturprojekte Angolas.",
       hu: "Az ország legnagyobb cementgyára Luandában, amely döntő fontosságú Angola építési és infrastrukturális projektjei számára.",
@@ -916,9 +891,8 @@ image: "/poi-images/ao-nova-cimangola-cement-plant-economic-v2.webp"
       de: "Zementwerk Secil Lobito",
       hu: "Secil Lobito cementgyár",
       ro: "Fabrica de ciment Secil Lobito",
-      en: "Secil Lobito Cement Plant",
-image: "/poi-images/ao-secil-lobito-cement-plant-economic-v2.webp"
-},
+      en: "Secil Lobito Cement Plant"},
+    image: "/poi-images/ao-secil-lobito-cement-plant-economic-v2.webp",
     description: {
       de: "Eine bedeutende Produktionsstätte für Zement in der Provinz Benguela, die den Süden und das Zentrum des Landes versorgt.",
       hu: "Jelentős cementgyártó üzem Benguela tartományban, amely az ország déli és középső részét látja el.",
@@ -952,9 +926,8 @@ image: "/poi-images/ao-secil-lobito-cement-plant-economic-v2.webp"
       de: "Logistikbasis Sonils",
       hu: "Sonils logisztikai bázis",
       ro: "Baza logistică Sonils",
-      en: "Sonils Logistics Base",
-image: "/poi-images/ao-sonils-logistics-base-economic-v2.webp"
-},
+      en: "Sonils Logistics Base"},
+    image: "/poi-images/ao-sonils-logistics-base-economic-v2.webp",
     description: {
       de: "Ein riesiger Onshore-Support-Terminal in Luanda, der exklusiv für die Öl- und Gasindustrie entwickelt wurde.",
       hu: "Egy hatalmas szárazföldi támogató terminál Luandában, amelyet kizárólag az olaj- és gázipar számára fejlesztettek ki.",
@@ -988,9 +961,8 @@ image: "/poi-images/ao-sonils-logistics-base-economic-v2.webp"
       de: "Industriezentrum Catumbela",
       hu: "Catumbela ipari park",
       ro: "Polul industrial Catumbela",
-      en: "Catumbela Industrial Pole",
-image: "/poi-images/ao-catumbela-industrial-pole-economic-v2.webp"
-},
+      en: "Catumbela Industrial Pole"},
+    image: "/poi-images/ao-catumbela-industrial-pole-economic-v2.webp",
     description: {
       de: "Ein wachsender Wirtschaftspol zwischen Lobito und Benguela, der eine Vielzahl von Herstellungs- und Verarbeitungsbetrieben anzieht.",
       hu: "Egy növekvő gazdasági pólus Lobito és Benguela között, amely számos gyártó- és feldolgozóüzemet vonz.",
@@ -1026,9 +998,8 @@ image: "/poi-images/ao-catumbela-industrial-pole-economic-v2.webp"
       de: "Matala-Talsperre",
       hu: "Matala-gát",
       ro: "Barajul Matala",
-      en: "Matala Dam",
-image: "/poi-images/ao-matala-dam-economic-v2.webp"
-},
+      en: "Matala Dam"},
+    image: "/poi-images/ao-matala-dam-economic-v2.webp",
     description: {
       de: "Ein Damm am Cunene-Fluss, der sowohl Strom für die Provinz Huíla erzeugt als auch Bewässerungsprojekte ermöglicht.",
       hu: "Gát a Cunene folyón, amely áramot termel Huíla tartomány számára, és öntözési projekteket is lehetővé tesz.",
@@ -1062,9 +1033,8 @@ image: "/poi-images/ao-matala-dam-economic-v2.webp"
       de: "Chitotolo-Diamantenmine",
       hu: "Chitotolo gyémántbánya",
       ro: "Mina de diamante Chitotolo",
-      en: "Chitotolo Diamond Mine",
-image: "/poi-images/ao-chitotolo-diamond-mine-economic-v2.webp"
-},
+      en: "Chitotolo Diamond Mine"},
+    image: "/poi-images/ao-chitotolo-diamond-mine-economic-v2.webp",
     description: {
       de: "Ein Diamantenfördergebiet im Nordosten Angolas, das erheblich zu den Exporteinnahmen des Landes beiträgt.",
       hu: "Gyémánttermelő terület Északkelet-Angolában, amely jelentősen hozzájárul az ország exportbevételeihez.",

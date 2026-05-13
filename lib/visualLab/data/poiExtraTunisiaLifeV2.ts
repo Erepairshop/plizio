@@ -7,422 +7,756 @@ export const poiExtraTunisiaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "TN-SU",
     coords: [10.519, 36.126],
-    name: { de: "Friguia Park", hu: "Friguia Park", ro: "Friguia Park", en: "Friguia Park",
-image: "/poi-images/friguia-park-life-v2.webp"
-},
+    name: { de: "Friguia Park", hu: "Friguia Park", ro: "Friguia Park", en: "Friguia Park"},
+    image: "/poi-images/friguia-park-life-v2.webp",
     description: { de: "Ein bedeutender zoologischer Park, der eine Vielzahl afrikanischer Tiere in naturnaher Umgebung beherbergt.", hu: "Jelentős állatkert, amely számos afrikai állatnak ad otthont természetközeli környezetben.", ro: "O grădină zoologică importantă care găzduiește o varietate de animale africane într-un mediu natural.", en: "A major zoological park hosting a variety of African animals in a near-natural environment." },
     facts: {
       de: ["Beheimatet über 400 Tiere", "Fokus auf Naturschutz und Bildung", "Eingebettet in mediterrane Landschaft", "Beliebtes Ziel für Familien"],
       hu: ["Több mint 400 állat otthona", "A természetvédelemre és oktatásra összpontosít", "Mediterrán tájba ágyazva", "Népszerű családi úti cél"],
       ro: ["Găzduiește peste 400 de animale", "Accent pe conservare și educație", "Situat în peisaj mediteranean", "Destinație populară pentru familii"],
       en: ["Home to over 400 animals", "Focus on conservation and education", "Nestled in Mediterranean landscape", "Popular destination for families"]
-    }, image: "/poi-images/friguia-park-life-v2.webp"},
+    }, image: "/poi-images/friguia-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Friguia Park ist ein Tierpark und Freizeitpark in der Nähe von Bouficha, etwa 60 Kilometer südlich von Tunis. Der Park erstreckt sich über 36 Hektar und beherbergt über 500 Tiere aus Afrika und anderen Kontinenten, darunter Löwen, Giraffen, Nashörner, Affen und Vögel. Er wurde 2000 eröffnet und bietet Safarifahrten, Shows und Bildungsprogramme an. Friguia Park ist Teil der Bemühungen um Artenschutz und Umweltbildung in Tunesien. Er ist ein beliebtes Ausflugsziel für Familien.",
+      hu: "A Friguia Park egy állatkert és vidámpark Bouficha közelében, Tunisztól 60 km-re délre. 36 hektáron fekszik, több mint 500 afrikai és más kontinensekről származó állatot mutat be. 2000-ben nyílt meg. Szafari túrák, állatshow-k és oktatási programok várják a látogatókat. A vadvédelem és környezeti nevelés fontos helyszíne Tunéziában.",
+      ro: "Friguia Park este un parc zoologic și de divertisment lângă Bouficha, la 60 km sud de Tunis. Se întinde pe 36 de hectare și găzduiește peste 500 de animale din Africa și alte continente. A fost deschis în 2000. Oferă safari, spectacole cu animale și programe educaționale. Este un centru de conservare a faunei și o destinație populară pentru familii.",
+      en: "Friguia Park is a zoo and amusement park near Bouficha, about 60 kilometers south of Tunis. Spanning 36 hectares, it houses over 500 animals from Africa and beyond, including lions, giraffes, rhinos, monkeys, and birds. Opened in 2000, the park offers safari tours, animal shows, and educational programs. It contributes to wildlife conservation and environmental awareness in Tunisia. It is a popular family destination.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2000 eröffnet.", "Die Fläche beträgt 36 Hektar.", "Es gibt über 500 Tiere aus 80 Arten.", "Der Park beschäftigt 120 Mitarbeiter.", "Die jährliche Besucherzahl liegt bei 300.000.", "Der Eintrittspreis beträgt 15 Dinar für Erwachsene."],
+      hu: ["A park 2000-ben nyílt meg.", "Területe 36 hektár.", "Több mint 500 állat 80 fajból.", "120 alkalmazottat foglalkoztat.", "Évi 300 000 látogatója van.", "A felnőtt belépő 15 dinár."],
+      ro: ["Parcul a fost deschis în 2000.", "Suprafața este de 36 de hectare.", "Găzduiește peste 500 de animale din 80 de specii.", "Angajează 120 de persoane.", "Numărul anual de vizitatori este de 300.000.", "Biletul de intrare pentru adulți este de 15 dinari."],
+      en: ["The park opened in 2000.", "It covers 36 hectares.", "It houses over 500 animals from 80 species.", "It employs 120 staff members.", "Annual visitors number 300,000.", "Adult entry fee is 15 dinars."],
+    },
+  },
   {
     id: "ichkeul-bird-life-v2",
     type: "animal-habitat",
     parent: "TN-BI",
     coords: [9.667, 37.167],
-    name: { de: "Ichkeul Vogelbeobachtung", hu: "Ichkeul madármegfigyelő", ro: "Observator păsări Ichkeul", en: "Ichkeul Birdwatching",
-image: "/poi-images/ichkeul-bird-life-v2.webp"
-},
+    name: { de: "Ichkeul Vogelbeobachtung", hu: "Ichkeul madármegfigyelő", ro: "Observator păsări Ichkeul", en: "Ichkeul Birdwatching"},
+    image: "/poi-images/ichkeul-bird-life-v2.webp",
     description: { de: "Ein wichtiges Feuchtgebiet, das als Zwischenstopp für tausende Zugvögel dient.", hu: "Fontos vizes élőhely, amely több ezer vándormadár pihenőhelyéül szolgál.", ro: "O zonă umedă importantă care servește drept escală pentru mii de păsări migratoare.", en: "An important wetland area serving as a stopover for thousands of migratory birds." },
     facts: {
       de: ["UNESCO-Weltnaturerbe", "Wichtiges Winterquartier", "Vielfältiges Vogelökosystem", "Naturschutzgebiet"],
       hu: ["UNESCO világörökség", "Fontos téli szálláshely", "Változatos madárökoszisztéma", "Természetvédelmi terület"],
       ro: ["Patrimoniu natural UNESCO", "Loc de iernat important", "Ecosistem divers de păsări", "Zonă protejată"],
       en: ["UNESCO World Heritage site", "Important wintering ground", "Diverse bird ecosystem", "Protected nature reserve"]
-    }, image: "/poi-images/ichkeul-bird-life-v2.webp"},
+    }, image: "/poi-images/ichkeul-bird-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ichkeul-Nationalpark ist ein UNESCO-Weltnaturerbe und ein Ramsar-Feuchtgebiet im Norden Tunesiens. Er umfasst den Ichkeul-See und die umliegenden Sümpfe und Süßwasserseen. Der Park ist ein wichtiger Rastplatz für Zugvögel, darunter Flamingos, Enten, Gänse und Watvögel. Jedes Jahr überwintern hier bis zu 300.000 Vögel. Die Region ist auch für ihre reiche Flora bekannt, mit Schilfrohr, Seerosen und Tamarisken. Der Park ist ein Hotspot der Biodiversität und ein Paradies für Vogelbeobachter.",
+      hu: "Az Ichkeul Nemzeti Park egy UNESCO világörökségi terület és Ramsari vizes élőhely Észak-Tunéziában. Magában foglalja az Ichkeul-tavat és a környező mocsarakat. Fontos pihenőhely a vonuló madarak számára, mint a flamingók, kacsák, ludak és gázlómadarak. Évente akár 300 000 madár telel itt. Gazdag növényvilággal rendelkezik: nád, tavirózsa, tamariska. A madármegfigyelők paradicsoma.",
+      ro: "Parcul Național Ichkeul este un sit UNESCO și o zonă umedă Ramsar în nordul Tunisiei. Include lacul Ichkeul și mlaștinile din jur. Este o escală importantă pentru păsările migratoare, cum ar fi flamingo, rațe, gâște și păsări de țărm. Până la 300.000 de păsări iernează aici în fiecare an. Are o floră bogată, cu stuf, nuferi și tamari. Este un paradis pentru observatorii de păsări.",
+      en: "Ichkeul National Park is a UNESCO World Heritage site and a Ramsar wetland in northern Tunisia. It encompasses Lake Ichkeul and surrounding marshes and freshwater lakes. The park is a crucial stopover for migratory birds, including flamingos, ducks, geese, and waders. Up to 300,000 birds winter here annually. The area also features rich flora such as reeds, water lilies, and tamarisk. It is a biodiversity hotspot and a haven for birdwatchers.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1980 zum UNESCO-Weltnaturerbe erklärt.", "Der Ichkeul-See hat eine Fläche von 8.000 Hektar.", "Die maximale Wassertiefe beträgt 3 Meter.", "Über 200 Vogelarten wurden hier registriert.", "Jährlich überwintern 200.000 bis 300.000 Vögel.", "Der Park ist auch Lebensraum für 20 Säugetierarten."],
+      hu: ["A parkot 1980-ban nyilvánították UNESCO-világörökséggé.", "Az Ichkeul-tó területe 8000 hektár.", "A maximális vízmélység 3 méter.", "Több mint 200 madárfajt regisztráltak itt.", "Évente 200-300 000 madár telel itt.", "A parkban 20 emlősfaj is él."],
+      ro: ["Parcul a fost declarat sit UNESCO în 1980.", "Lacul Ichkeul are o suprafață de 8.000 de hectare.", "Adâncimea maximă a apei este de 3 metri.", "Peste 200 de specii de păsări au fost înregistrate.", "Între 200.000 și 300.000 de păsări iernează anual.", "Parcul găzduiește și 20 de specii de mamifere."],
+      en: ["The park was declared a UNESCO World Heritage site in 1980.", "Lake Ichkeul covers an area of 8,000 hectares.", "The maximum water depth is 3 meters.", "Over 200 bird species have been recorded here.", "Between 200,000 and 300,000 birds winter annually.", "The park also hosts 20 mammal species."],
+    },
+  },
   {
     id: "olive-grove-sfax-life-v2",
     type: "agriculture",
     parent: "TN-SF",
     coords: [10.760, 34.730],
-    name: { de: "Olivenhaine bei Sfax", hu: "Olajfaligetek Sfax közelében", ro: "Livezi de măslini lângă Sfax", en: "Olive groves near Sfax",
-image: "/poi-images/olive-grove-sfax-life-v2.webp"
-},
+    name: { de: "Olivenhaine bei Sfax", hu: "Olajfaligetek Sfax közelében", ro: "Livezi de măslini lângă Sfax", en: "Olive groves near Sfax"},
+    image: "/poi-images/olive-grove-sfax-life-v2.webp",
     description: { de: "Eines der größten Olivenanbaugebiete der Region, geprägt durch traditionelle Anbaumethoden.", hu: "A régió egyik legnagyobb olajbogyó-termesztő területe, amelyet hagyományos művelési módok jellemeznek.", ro: "Una dintre cele mai mari zone de cultivare a măslinilor din regiune, caracterizată prin metode de cultivare tradiționale.", en: "One of the largest olive cultivation areas in the region, characterized by traditional farming methods." },
     facts: {
       de: ["Zentral für die lokale Wirtschaft", "Historische Anbaukultur", "Produktion von Qualitätsöl", "Weitläufige Landschaft"],
       hu: ["Központi szerep a helyi gazdaságban", "Történelmi termesztési kultúra", "Minőségi olajtermelés", "Kiterjedt táj"],
       ro: ["Rol central în economia locală", "Cultură agricolă istorică", "Producție de ulei de calitate", "Peisaj extins"],
       en: ["Central to local economy", "Historical farming culture", "Production of quality oil", "Vast landscape"]
-    }, image: "/poi-images/olive-grove-sfax-life-v2.webp"},
+    }, image: "/poi-images/olive-grove-sfax-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Olivenhaine bei Sfax sind eine der größten Olivenanbauregionen Tunesiens. Die Region erstreckt sich über Hunderte von Quadratkilometern und produziert einen bedeutenden Teil des tunesischen Olivenöls. Die Bäume sind teilweise über 100 Jahre alt und werden traditionell bewirtschaftet. Die Ernte findet von Oktober bis Dezember statt. Das Olivenöl aus Sfax ist für seine hohe Qualität bekannt, insbesondere die Sorte Chemlali. Die Haine bieten auch Lebensraum für viele Vogelarten und tragen zur Biodiversität bei. Der Olivenanbau ist ein wichtiger Wirtschaftszweig für die lokale Bevölkerung.",
+      hu: "A szfakszi olajfaligetek Tunézia egyik legnagyobb olíva termesztő régiója. Több száz négyzetkilométeren terülnek el, és a tunéziai olívaolaj jelentős részét adják. A fák némelyike több mint 100 éves. A betakarítás októbertől decemberig tart. A Chemlali fajta olívaolaja kiváló minőségű. A ligetek számos madárfajnak adnak otthont. Az olíva termelés a helyi gazdaság fontos része.",
+      ro: "Pădurile de măslini de lângă Sfax sunt una dintre cele mai mari regiuni de cultivare a măslinelor din Tunisia. Se întind pe sute de kilometri pătrați și produc o parte semnificativă a uleiului de măsline tunisian. Unii copaci au peste 100 de ani. Recoltarea are loc din octombrie până în decembrie. Uleiul de măsline din Sfax, în special soiul Chemlali, este renumit pentru calitatea sa. Pădurile oferă habitat pentru păsări și contribuie la biodiversitate. Cultura măslinelor este vitală pentru economia locală.",
+      en: "The olive groves near Sfax constitute one of the largest olive cultivation areas in Tunisia. Spanning hundreds of square kilometers, they produce a significant portion of Tunisian olive oil. Many trees are over a century old and are traditionally cultivated. Harvesting occurs from October to December. The olive oil from Sfax, especially the Chemlali variety, is renowned for its high quality. The groves also provide habitat for numerous bird species and support biodiversity. Olive farming is a key economic sector for the local population.",
+    },
+    factsAdvanced: {
+      de: ["Die Region Sfax hat über 10 Millionen Olivenbäume.", "Jährlich werden 200.000 Tonnen Oliven geerntet.", "Die Olivenhaine bedecken 300.000 Hektar.", "Etwa 80% des tunesischen Olivenöls wird in der Region Sfax produziert.", "Die ältesten Bäume sind 300 Jahre alt.", "Der Chemlali-Olivenbaum liefert 12 Liter Öl pro Jahr."],
+      hu: ["A szfakszi régióban több mint 10 millió olajfa van.", "Évente 200 000 tonna olívabogyót szüretelnek.", "A ligetek 300 000 hektárt fednek le.", "A tunéziai olívaolaj 80%-a a régióból származik.", "A legidősebb fák 300 évesek.", "A Chemlali fa évente 12 liter olajat ad."],
+      ro: ["Regiunea Sfax are peste 10 milioane de măslini.", "Recolta anuală este de 200.000 de tone de măsline.", "Pădurile acoperă 300.000 de hectare.", "Aproximativ 80% din uleiul de măsline tunisian provine din regiunea Sfax.", "Cei mai bătrâni copaci au 300 de ani.", "Soiul Chemlali produce 12 litri de ulei pe an per copac."],
+      en: ["The Sfax region has over 10 million olive trees.", "Annual harvest is 200,000 tons of olives.", "The groves cover 300,000 hectares.", "About 80% of Tunisian olive oil is produced in this region.", "The oldest trees are 300 years old.", "A Chemlali olive tree yields 12 liters of oil per year."],
+    },
+  },
   {
     id: "palmeraie-tozeur-life-v2",
     type: "agriculture",
     parent: "TN-TO",
     coords: [8.130, 33.920],
-    name: { de: "Tozeur Palmenhain", hu: "Tozeur pálmaliget", ro: "Palmierii din Tozeur", en: "Tozeur Palm Grove",
-image: "/poi-images/palmeraie-tozeur-life-v2.webp"
-},
+    name: { de: "Tozeur Palmenhain", hu: "Tozeur pálmaliget", ro: "Palmierii din Tozeur", en: "Tozeur Palm Grove"},
+    image: "/poi-images/palmeraie-tozeur-life-v2.webp",
     description: { de: "Ein beeindruckendes Oasen-Landwirtschaftssystem mit tausenden Dattelpalmen.", hu: "Lenyűgöző oázis mezőgazdasági rendszer, több ezer datolyapálmával.", ro: "Un sistem agricol oază impresionant cu mii de palmieri de curmale.", en: "An impressive oasis agricultural system with thousands of date palm trees." },
     facts: {
       de: ["Historisches Bewässerungssystem", "Wichtigster Dattelproduzent", "Kulturelles Erbe der Oasen", "Grüne Oase in der Wüste"],
       hu: ["Történelmi öntözőrendszer", "Legfontosabb datolyatermelő", "Oázis kulturális öröksége", "Zöld oázis a sivatagban"],
       ro: ["Sistem istoric de irigații", "Cel mai important producător de curmale", "Moștenire culturală a oazelor", "Oază verde în deșert"],
       en: ["Historical irrigation system", "Key date producer", "Oasis cultural heritage", "Green oasis in the desert"]
-    }, image: "/poi-images/palmeraie-tozeur-life-v2.webp"},
+    }, image: "/poi-images/palmeraie-tozeur-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Palmenoase von Tozeur im Süden Tunesiens erstreckt sich über rund 1000 Hektar und beherbergt über 200.000 Dattelpalmen. Die Bewässerung erfolgt durch ein traditionelles System von unterirdischen Kanälen, den Foggaras, die seit dem Mittelalter genutzt werden. Die Oase liegt in einer ariden Zone mit weniger als 100 mm Jahresniederschlag, profitiert jedoch von artesischen Brunnen. Der Anbau konzentriert sich auf die Deglet-Nour-Dattel, eine hochwertige Sorte. Die landwirtschaftliche Struktur ist in kleine Parzellen unterteilt, die von Familien bewirtschaftet werden und ein Mosaik aus Palmen, Obstbäumen und Gemüse bilden.",
+      hu: "A Tozeur-i pálmaliget Tunézia déli részén, a Szahara szélén található, és mintegy 200 000 datolyapálmából áll. Az öntözés hagyományos, föld alatti csatornarendszerrel (foggara) történik, amely több évszázados múltra tekint vissza. Az oázis egyedülálló mikroklímát teremt, ahol a pálmák árnyékában zöldségeket és gyümölcsfákat termesztenek. A terület fontos a biodiverzitás szempontjából, számos madárfaj és rovar él itt. A datolya betakarítás augusztustól novemberig tart, és a helyi gazdaság meghatározó ágazata.",
+      ro: "Oaza de palmieri Tozeur, situată în sudul Tunisiei, se întinde pe aproximativ 1000 de hectare și conține peste 200.000 de palmieri de curmale. Sistemul de irigații tradițional, bazat pe canale subterane numite foggara, asigură apa necesară în această zonă deșertică cu precipitații anuale sub 100 mm. Cultura dominantă este curmala Deglet Nour, cunoscută pentru calitatea sa superioară. Oaza joacă un rol economic major prin producția de curmale exportate în Europa și prin atragerea turiștilor interesați de peisajul saharic.",
+      en: "The Tozeur palm oasis in southern Tunisia covers about 1000 hectares and contains over 200,000 date palms. It relies on a traditional underground irrigation system called foggara, which channels water from artesian wells. The oasis is located in a hyper-arid region with less than 100 mm annual rainfall. The primary crop is the Deglet Nour date, a premium variety. The oasis also supports a layered agricultural system with fruits, vegetables, and forage crops under the palm canopy. It is a UNESCO Biosphere Reserve candidate.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1000 Hektar", "Anzahl Palmen: über 200.000", "Jahresniederschlag: unter 100 mm", "Bewässerung durch Foggaras seit dem 13. Jahrhundert", "Deglet-Nour-Dattelproduktion: ca. 80 % der Ernte", "Wassertemperatur aus artesischen Brunnen: 25–30 °C"],
+      hu: ["Pálmák száma: 200.000 felett", "Terület: 1000 hektár", "Éves csapadékmennyiség: kevesebb mint 100 mm", "Foggara csatornák hossza akár több km is lehet", "Datolyaszüret időszaka: augusztus-november", "Deglet Nour fajta aránya: 80%"],
+      ro: ["Suprafață: 1000 ha", "Număr de palmieri: peste 200.000", "Precipitații anuale: sub 100 mm", "Sistem foggara: origini în secolul al XIII-lea", "Producție curmale Deglet Nour: până la 80% din recoltă", "Temperatura apei din fântâni arteziene: 25-30 °C"],
+      en: ["Area: 1000 hectares", "Number of date palms: over 200,000", "Annual rainfall: below 100 mm", "Foggara underground canals total length: over 50 km", "Deglet Nour date yield: 80% of total production", "Artesian well depth: 40 to 80 meters"],
+    },
+  },
   {
     id: "kid-park-tunis-life-v2",
     type: "kid-landmark",
     parent: "TN-TU",
     coords: [10.180, 36.800],
-    name: { de: "Tunis Kinderpark", hu: "Tuniszi gyermekpark", ro: "Parc pentru copii Tunis", en: "Tunis Children's Park",
-image: "/poi-images/kid-park-tunis-life-v2.webp"
-},
+    name: { de: "Tunis Kinderpark", hu: "Tuniszi gyermekpark", ro: "Parc pentru copii Tunis", en: "Tunis Children's Park"},
+    image: "/poi-images/kid-park-tunis-life-v2.webp",
     description: { de: "Ein beliebter städtischer Erholungsbereich für Kinder mit Spielplätzen und Grünanlagen.", hu: "Népszerű városi pihenőövezet gyerekeknek, játszóterekkel és zöldfelületekkel.", ro: "O zonă de recreere urbană populară pentru copii cu locuri de joacă și spații verzi.", en: "A popular urban recreation area for kids with playgrounds and green spaces." },
     facts: {
       de: ["Zentrumsnah gelegen", "Sicherer Spielbereich", "Viele Freizeitmöglichkeiten", "Familienfreundlich"],
       hu: ["Központi elhelyezkedés", "Biztonságos játszóterület", "Sok kikapcsolódási lehetőség", "Családbarát"],
       ro: ["Situat central", "Zonă de joacă sigură", "Multe oportunități de relaxare", "Prietenos cu familiile"],
       en: ["Centrally located", "Safe play area", "Many leisure activities", "Family-friendly"]
-    }, image: "/poi-images/kid-park-tunis-life-v2.webp"},
+    }, image: "/poi-images/kid-park-tunis-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kinderpark in Tunis, auch bekannt als Parc du Belvédère, ist ein 110 Hektar großer urbaner Grünraum im Herzen der Hauptstadt. Er wurde 1929 vom französischen Landschaftsarchitekten Joseph Marrast entworfen. Der Park beherbergt verschiedene Spielplätze, einen kleinen Zoo und botanische Gärten. Er ist ein beliebtes Naherholungsziel für Familien. Die Anlage umfasst einen künstlichen See, Alleen mit mediterranen Bäumen und Sportanlagen. Der Park bietet auch einen Panoramablick auf die Stadt Tunis und den Golf von Tunis.",
+      hu: "A tuniszi Gyermekpark (Parc du Belvédère) Tunézia fővárosának legnagyobb közparkja, területe 110 hektár. 1929-ben nyitották meg, tervezője Joseph Marrast francia tájépítész. A parkban játszóterek, mini állatkert és botanikus kert található. Különlegessége a mesterséges tó, valamint a pálmákkal szegélyezett sétányok. A park fontos találkozóhely a helyiek számára, és számos rendezvénynek ad otthont. A dombtetőről kilátás nyílik Tunisz belvárosára.",
+      ro: "Parcul Copiilor din Tunis, cunoscut și sub numele de Parc du Belvédère, este cel mai mare spațiu verde urban din capitala Tunisiei, cu o suprafață de 110 hectare. A fost inaugurat în 1929 și proiectat de arhitectul peisagist francez Joseph Marrast. Parcul include terenuri de joacă, o grădină zoologică mică și grădini botanice. De asemenea, are un lac artificial și oferă vederi panoramice asupra orașului. Este un loc popular pentru familii și evenimente culturale.",
+      en: "The Children's Park (Parc du Belvédère) in Tunis is a 110-hectare urban park opened in 1929. Designed by French landscape architect Joseph Marrast, it features playgrounds, a small zoo, botanical gardens, and a artificial lake. The park sits on a hill, providing panoramic views of Tunis and the Gulf of Tunis. It is a major recreational area for families, with walking paths, sports fields, and seasonal flower displays. The park hosts annual festivals and cultural events.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 110 Hektar", "Eröffnung: 1929", "Architekt: Joseph Marrast", "Anzahl Baumarten: über 100", "Länge der Alleen: ca. 5 km", "Höhe des Belvedere: 80 m über dem Meer"],
+      hu: ["Terület: 110 hektár", "Megnyitás éve: 1929", "Tervező: Joseph Marrast", "Fafajok száma: több mint 100", "Mesterséges tó mérete: 1,5 hektár", "Kilátó magassága: 80 m tengerszint felett"],
+      ro: ["Suprafață: 110 ha", "An deschidere: 1929", "Arhitect: Joseph Marrast", "Număr specii de arbori: peste 100", "Lac artificial: 1,5 ha", "Altitudine parc: 80 m"],
+      en: ["Area: 110 hectares", "Year opened: 1929", "Designer: Joseph Marrast", "Tree species: over 100", "Artificial lake size: 1.5 hectares", "Elevation above sea level: 80 m"],
+    },
+  },
   {
     id: "douz-camel-habitat-life-v2",
     type: "animal-habitat",
     parent: "TN-KE",
     coords: [9.020, 33.470],
-    name: { de: "Kamel-Reservat Douz", hu: "Douz teve-rezervátum", ro: "Rezervația de cămile Douz", en: "Douz Camel Habitat",
-image: "/poi-images/douz-camel-habitat-life-v2.webp"
-},
+    name: { de: "Kamel-Reservat Douz", hu: "Douz teve-rezervátum", ro: "Rezervația de cămile Douz", en: "Douz Camel Habitat"},
+    image: "/poi-images/douz-camel-habitat-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das den traditionellen Lebensraum von Wüstentieren und Kamelen bewahrt.", hu: "Védett terület, amely megőrzi a sivatagi állatok és tevék hagyományos élőhelyét.", ro: "O zonă protejată care conservă habitatul tradițional al animalelor de deșert și al cămilelor.", en: "A protected area preserving the traditional habitat of desert animals and camels." },
     facts: {
       de: ["Traditionelle Tierhaltung", "Wüstenökologie-Erfahrung", "Kulturhistorische Bedeutung", "Einzigartige Flora und Fauna"],
       hu: ["Hagyományos állattartás", "Sivatagi ökológiai élmény", "Kulturális-történelmi jelentőség", "Egyedi flóra és fauna"],
       ro: ["Creșterea tradițională a animalelor", "Experiență de ecologie de deșert", "Semnificație cultural-istorică", "Floră și faună unică"],
       en: ["Traditional animal husbandry", "Desert ecology experience", "Cultural-historical significance", "Unique flora and fauna"]
-    }, image: "/poi-images/douz-camel-habitat-life-v2.webp"},
+    }, image: "/poi-images/douz-camel-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Douz, das Tor zur Sahara, ist bekannt für seine Kamelpopulation und das jährliche Internationale Sahara-Festival. Die Umgebung von Douz dient als Weidegebiet für Tausende von Dromedaren. Die Tiere werden für Milch, Fleisch, Wolle und als Transportmittel genutzt. Die Kamelhaltung ist eng mit der Kultur der Nomadenstämme der Region verbunden. Das Klima ist extrem trocken mit Durchschnittstemperaturen über 30 °C im Sommer. Die Kamele können bis zu zwei Wochen ohne Wasser auskommen.",
+      hu: "Douz Tunézia déli részén, a Szahara kapujaként ismert város. Híres a tevészetéről és a Nemzetközi Szahara Fesztiválról. Több ezer dromedár él a környék legelőin. A tevék fontos szerepet játszanak a helyi nomád kultúrában: tej, hús, gyapjú és közlekedési eszköz. Az éghajlat forró és száraz, nyáron a hőmérséklet gyakran meghaladja a 40 °C-ot. A tevék akár 14 napig is kibírják víz nélkül.",
+      ro: "Douz, cunoscut ca „poarta deșertului”, este un oraș din sudul Tunisiei renumit pentru creșterea cămilelor și Festivalul Internațional al Saharei. În jurul orașului pasc mii de dromaderi, care sunt folosiți pentru lapte, carne, lână și transport. Creșterea cămilelor este strâns legată de tradițiile nomade. Clima este deșertică, cu temperaturi de vară ce depășesc 40 °C. Cămilele pot supraviețui fără apă până la două săptămâni.",
+      en: "Douz, often called the gateway to the Sahara, is a town in southern Tunisia known for its camel herds and the annual International Sahara Festival. Thousands of dromedaries graze on sparse vegetation in the surrounding desert. Camels are central to the local economy and culture, providing milk, meat, wool, and transport. The region experiences extreme aridity with less than 100 mm rainfall annually. Summer temperatures often exceed 40°C. Camels can go without water for up to 14 days.",
+    },
+    factsAdvanced: {
+      de: ["Kamelbestand in der Region: ca. 50.000", "Jahresdurchschnittstemperatur: 23 °C", "Durchschnittliche Lebenserwartung eines Kamels: 40–50 Jahre", "Festival seit 1910", "Milchleistung pro Kamel: 5–10 Liter/Tag", "Geschwindigkeit: bis zu 65 km/h im Galopp"],
+      hu: ["Teveállomány a régióban: kb. 50.000", "Éves csapadék: kevesebb mint 100 mm", "Teve élettartama: 40-50 év", "Fesztivál évente decemberben", "Tejhozam: 5-10 liter/nap", "Sebesség: akár 65 km/h"],
+      ro: ["Populație de cămile: aproximativ 50.000", "Precipitații anuale: sub 100 mm", "Longevitate cămilă: 40-50 ani", "Festivalul Saharei: anual, în decembrie", "Producție lapte: 5-10 litri/zi", "Viteză maximă: 65 km/h"],
+      en: ["Camel population in Douz region: approx. 50,000", "Annual rainfall: less than 100 mm", "Average camel lifespan: 40-50 years", "Sahara Festival held annually since 1910", "Milk yield per camel: 5-10 liters daily", "Top speed: up to 65 km/h"],
+    },
+  },
   {
     id: "gammarth-zoo-life-v2",
     type: "kid-landmark",
     parent: "TN-TU",
     coords: [10.300, 36.900],
-    name: { de: "Gammarth Abenteuerpark", hu: "Gammarth kalandpark", ro: "Parc de aventură Gammarth", en: "Gammarth Adventure Park",
-image: "/poi-images/gammarth-zoo-life-v2.webp"
-},
+    name: { de: "Gammarth Abenteuerpark", hu: "Gammarth kalandpark", ro: "Parc de aventură Gammarth", en: "Gammarth Adventure Park"},
+    image: "/poi-images/gammarth-zoo-life-v2.webp",
     description: { de: "Ein moderner Freizeitpark mit vielen interaktiven Elementen für Kinder und Jugendliche.", hu: "Modern vidámpark sok interaktív elemmel gyerekeknek és fiataloknak.", ro: "Un parc de distracții modern cu multe elemente interactive pentru copii și tineri.", en: "A modern leisure park with many interactive elements for kids and youth." },
     facts: {
       de: ["Interaktive Spielstationen", "Modernes Sicherheitskonzept", "Ganzjährig beliebt", "Nahe der Küste"],
       hu: ["Interaktív játékállomások", "Modern biztonsági koncepció", "Egész évben népszerű", "Közel a parthoz"],
       ro: ["Stații de joc interactive", "Concept modern de siguranță", "Popular tot timpul anului", "Aproape de coastă"],
       en: ["Interactive play stations", "Modern safety concept", "Popular all year round", "Near the coast"]
-    }, image: "/poi-images/gammarth-zoo-life-v2.webp"},
+    }, image: "/poi-images/gammarth-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gammarth Adventure Park ist ein Freizeitpark und Zoo nördlich von Tunis. Er erstreckt sich über eine Fläche von 20 Hektar und beherbergt über 100 Tierarten, darunter Löwen, Giraffen und Affen. Der Park bietet neben der Tierhaltung auch Fahrgeschäfte, einen Streichelzoo und Picknickbereiche. Er wurde 2001 eröffnet und ist ein beliebtes Ausflugsziel für Familien. Der Park liegt in der Nähe des Strandes von Gammarth und ist von mediterraner Macchia umgeben.",
+      hu: "A Gammarth Adventure Park egy szabadidőpark és állatkert Tunisztól északra, 20 hektáros területen. Több mint 100 állatfaj található itt, köztük oroszlánok, zsiráfok és majmok. A park 2001-ben nyílt meg, és játszótereket, vidámparki elemeket is kínál. Népszerű családi program, közel a tengerparthoz. A növényzet mediterrán cserjés.",
+      ro: "Parcul de Aventură Gammarth este un parc de distracții și grădină zoologică situat la nord de Tunis, pe o suprafață de 20 de hectare. Adăpostește peste 100 de specii de animale, inclusiv lei, girafe și maimuțe. Parcul, deschis în 2001, include și o zonă de contact cu animalele, locuri de joacă și zone de picnic. Este o destinație populară pentru familii, aproape de plaja Gammarth.",
+      en: "Gammarth Adventure Park is a theme park and zoo located north of Tunis, covering 20 hectares. It houses over 100 animal species, including lions, giraffes, and monkeys. Opened in 2001, it features amusement rides, a petting zoo, and picnic areas. The park is situated in a coastal area with Mediterranean scrub vegetation. It attracts both local families and tourists, offering educational programs about wildlife.",
+    },
+    factsAdvanced: {
+      de: ["Größe: 20 Hektar", "Eröffnung: 2001", "Anzahl Tierarten: über 100", "Besucher jährlich: ca. 200.000", "Größtes Gehege: 1,5 Hektar für Giraffen", "Eintrittspreis Erwachsene: 15 TND"],
+      hu: ["Terület: 20 ha", "Megnyitás éve: 2001", "Állatfajok száma: több mint 100", "Éves látogatók: kb. 200.000", "Legnagyobb kifutó: 1,5 ha (zsiráfok)", "Belépőjegy felnőtteknek: 15 TND"],
+      ro: ["Suprafață: 20 ha", "An deschidere: 2001", "Specii de animale: peste 100", "Vizitatori anual: aprox. 200.000", "Cel mai mare țarc: 1,5 ha (girafe)", "Preț bilet adult: 15 TND"],
+      en: ["Area: 20 hectares", "Year opened: 2001", "Animal species: over 100", "Annual visitors: approx. 200,000", "Largest enclosure: 1.5 ha for giraffes", "Adult ticket price: 15 Tunisian dinars"],
+    },
+  },
   {
     id: "sidi-bou-said-garden-life-v2",
     type: "kid-landmark",
     parent: "TN-TU",
     coords: [10.340, 36.870],
-    name: { de: "Botanischer Garten Sidi Bou Said", hu: "Sidi Bou Said botanikus kert", ro: "Grădina Botanică Sidi Bou Said", en: "Sidi Bou Said Botanical Garden",
-image: "/poi-images/sidi-bou-said-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Sidi Bou Said", hu: "Sidi Bou Said botanikus kert", ro: "Grădina Botanică Sidi Bou Said", en: "Sidi Bou Said Botanical Garden"},
+    image: "/poi-images/sidi-bou-said-garden-life-v2.webp",
     description: { de: "Ein friedlicher Garten mit einheimischen Pflanzen, der einen pädagogischen Einblick in die Flora bietet.", hu: "Békés kert őshonos növényekkel, amely oktatási betekintést nyújt a flórába.", ro: "O grădină liniștită cu plante native, oferind o perspectivă educativă asupra florei.", en: "A peaceful garden featuring native plants, offering an educational look at the local flora." },
     facts: {
       de: ["Bildungsorientiert", "Ruheoase für Familien", "Einheimische Artenvielfalt", "Wunderschöne Aussicht"],
       hu: ["Oktatás-orientált", "Nyugalomsziget családoknak", "Őshonos biodiverzitás", "Gyönyörű kilátás"],
       ro: ["Orientată spre educație", "Oază de liniște pentru familii", "Biodiversitate nativă", "Vedere superbă"],
       en: ["Educational focus", "Quiet oasis for families", "Native biodiversity", "Beautiful views"]
-    }, image: "/poi-images/sidi-bou-said-garden-life-v2.webp"},
+    }, image: "/poi-images/sidi-bou-said-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Sidi Bou Said liegt auf einer Klippe über dem Golf von Tunis. Er wurde 1900 von Baron d'Erlanger angelegt und beherbergt eine Sammlung mediterraner und exotischer Pflanzen. Der Garten ist bekannt für seine blauen und weißen Gebäude im andalusischen Stil. Er bietet einen atemberaubenden Blick auf das Meer. Die Anlage umfasst Terrassen, Brunnen und schattige Gänge. Die Pflanzensammlung umfasst über 500 Arten, darunter Bougainvillea, Oleander und Palmen.",
+      hu: "A Sidi Bou Said Botanikus Kert Tunisz északi elővárosában, egy dombtetőn található. A kertet 1900-ban Baron d'Erlanger hozta létre. Gyűjteményében több mint 500 növényfaj található, köztük mediterrán és egzotikus fajok. A kert híres a kék-fehér építészeti stílusáról. Teraszos elrendezésű, szökőkutakkal és fedett sétányokkal. Kilátás nyílik a Tuniszi-öbölre.",
+      ro: "Grădina Botanică din Sidi Bou Said este situată pe o stâncă deasupra Golfului Tunis, în orașul cu același nume. A fost creată în 1900 de Baronul d'Erlanger și include peste 500 de specii de plante mediteraneene și exotice. Grădina se remarcă prin arhitectura albastru-albă în stil andaluz, terase, fântâni și alei umbrite. Oferă o priveliște panoramică asupra mării.",
+      en: "The Sidi Bou Said Botanical Garden is perched on a cliff overlooking the Gulf of Tunis. Established in 1900 by Baron d'Erlanger, it features over 500 plant species from the Mediterranean and other regions. The garden is integrated with the town's iconic blue-and-white Andalusian architecture, featuring terraces, fountains, and shaded walkways. It provides panoramic sea views and is a popular spot for artists and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1900", "Pflanzenarten: über 500", "Fläche: 2 Hektar", "Höhe über dem Meer: 120 m", "Besucher jährlich: ca. 100.000", "Anzahl Brunnen: 5"],
+      hu: ["Alapítás éve: 1900", "Növényfajok: 500 felett", "Terület: 2 ha", "Tengerszint feletti magasság: 120 m", "Éves látogatók: kb. 100.000", "Szökőkutak száma: 5"],
+      ro: ["An înființare: 1900", "Specii de plante: peste 500", "Suprafață: 2 ha", "Altitudine: 120 m", "Vizitatori anual: aprox. 100.000", "Număr fântâni: 5"],
+      en: ["Established in 1900", "Plant species: over 500", "Area: 2 hectares", "Elevation above sea level: 120 m", "Annual visitors: approx. 100,000", "Number of fountains: 5"],
+    },
+  },
   {
     id: "bizerte-aquarium-life-v2",
     type: "kid-landmark",
     parent: "TN-BI",
     coords: [9.870, 37.270],
-    name: { de: "Bizerte Aquarium", hu: "Bizertai akvárium", ro: "Acvariul din Bizerte", en: "Bizerte Aquarium",
-image: "/poi-images/bizerte-aquarium-life-v2.webp"
-},
+    name: { de: "Bizerte Aquarium", hu: "Bizertai akvárium", ro: "Acvariul din Bizerte", en: "Bizerte Aquarium"},
+    image: "/poi-images/bizerte-aquarium-life-v2.webp",
     description: { de: "Ein Aquarium, das die reiche maritime Artenvielfalt des Mittelmeers präsentiert.", hu: "Akvárium, amely bemutatja a Földközi-tenger gazdag tengeri élővilágát.", ro: "Un acvariu care prezintă bogata biodiversitate marină a Mării Mediterane.", en: "An aquarium showcasing the rich marine biodiversity of the Mediterranean Sea." },
     facts: {
       de: ["Maritime Bildung", "Interaktive Ausstellungen", "Schutz bedrohter Arten", "Familienausflugsziel"],
       hu: ["Tengeri oktatás", "Interaktív kiállítások", "Veszélyeztetett fajok védelme", "Családi kirándulóhely"],
       ro: ["Educație marină", "Expoziții interactive", "Protecția speciilor amenințate", "Destinație de excursie pentru familii"],
       en: ["Marine education", "Interactive exhibits", "Protection of threatened species", "Family excursion spot"]
-    }, image: "/poi-images/bizerte-aquarium-life-v2.webp"},
+    }, image: "/poi-images/bizerte-aquarium-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bizerte Aquarium, auch bekannt als Aquarium de Bizerte, liegt im Norden Tunesiens am Golf von Tunis. Es wurde 1998 eröffnet und beherbergt eine Vielzahl von Meereslebewesen aus dem Mittelmeer. Die Anlage umfasst 50 Becken mit insgesamt 500.000 Litern Wasser. Zu sehen sind Haie, Rochen, Meeresschildkröten und bunte Fische. Das Aquarium hat auch einen Streichelpool mit Seesternen und eine Ausstellung zur Meeresökologie. Es ist ein wichtiges Bildungs- und Forschungszentrum.",
+      hu: "A Bizerte Akvárium Tunézia északi részén, a tengerparton található. 1998-ban nyílt meg, 50 medencében mutat be mediterrán tengeri élőlényeket. A medencék össztérfogata 500.000 liter. Láthatók cápák, ráják, tengeri teknősök és színes halak. Az intézmény oktatási programokat is kínál, és egy érintő medence is rendelkezésre áll. Fontos szerepet játszik a tengeri biodiverzitás kutatásában.",
+      ro: "Acvariul din Bizerte, situat pe coasta de nord a Tunisiei, a fost deschis în 1998. Are 50 de bazine cu un volum total de 500.000 de litri de apă, care găzduiesc specii marine mediteraneene, inclusiv rechini, raze, țestoase marine și pești tropicali. Acvariul oferă un bazin de atingere și expoziții educative despre ecologia marină. Este un centru important pentru cercetare și conștientizare a conservării.",
+      en: "The Bizerte Aquarium, located in northern Tunisia, opened in 1998. It features 50 tanks holding a total of 500,000 liters of seawater, displaying Mediterranean marine life such as sharks, rays, sea turtles, and colorful fish. The aquarium includes a touch pool, educational exhibits, and a research center. It attracts over 50,000 visitors annually and participates in marine conservation programs.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1998", "Beckenanzahl: 50", "Wasservolumen: 500.000 Liter", "Haifischarten: 5", "Besucher jährlich: 50.000", "Eintrittspreis: 12 TND"],
+      hu: ["Megnyitás: 1998", "Medencék száma: 50", "Víztérfogat: 500.000 liter", "Cápafajok száma: 5", "Éves látogatók: 50.000", "Belépőjegy: 12 TND"],
+      ro: ["An deschidere: 1998", "Număr bazine: 50", "Volum apă: 500.000 litri", "Specii rechini: 5", "Vizitatori anual: 50.000", "Preț bilet: 12 TND"],
+      en: ["Opened in 1998", "Number of tanks: 50", "Water volume: 500,000 liters", "Shark species: 5", "Annual visitors: 50,000", "Ticket price: 12 Tunisian dinars"],
+    },
+  },
   {
     id: "testour-pomegranate-life-v2",
     type: "agriculture",
     parent: "TN-BE",
     coords: [9.430, 36.550],
-    name: { de: "Testour Granatapfelanbau", hu: "Testour gránátalma-termesztés", ro: "Cultivarea rodiilor din Testour", en: "Testour Pomegranate Farming",
-image: "/poi-images/testour-pomegranate-life-v2.webp"
-},
+    name: { de: "Testour Granatapfelanbau", hu: "Testour gránátalma-termesztés", ro: "Cultivarea rodiilor din Testour", en: "Testour Pomegranate Farming"},
+    image: "/poi-images/testour-pomegranate-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Region, die für ihre hochwertigen Granatäpfel berühmt ist.", hu: "Mezőgazdasági régió, amely kiváló minőségű gránátalmáiról híres.", ro: "O regiune agricolă faimoasă pentru rodiile sale de înaltă calitate.", en: "An agricultural region famous for its high-quality pomegranates." },
     facts: {
       de: ["Traditionelle Anbaumethoden", "Regionale Spezialität", "Fest der Granatäpfel", "Wirtschaftlicher Faktor"],
       hu: ["Hagyományos termesztési módok", "Regionális specialitás", "Gránátalma-fesztivál", "Gazdasági tényező"],
       ro: ["Metode tradiționale de cultivare", "Specialitate regională", "Festivalul rodiilor", "Factor economic"],
       en: ["Traditional farming methods", "Regional specialty", "Pomegranate festival", "Economic factor"]
-    }, image: "/poi-images/testour-pomegranate-life-v2.webp"},
+    }, image: "/poi-images/testour-pomegranate-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Testour ist eine Stadt im Norden Tunesiens, bekannt für den Anbau von Granatäpfeln, insbesondere der Sorte 'Testouri'. Die Granatapfelplantagen erstrecken sich über mehrere hundert Hektar im Tal des Medjerda. Die Erntezeit ist von September bis November. Die Früchte sind aufgrund ihres süßen Geschmacks und ihrer Saftigkeit geschätzt. Der Anbau erfolgt traditionell mit ökologischen Methoden. Testour veranstaltet jährlich ein Granatapfelfest.",
+      hu: "Testour egy város Észak-Tunéziában, híres a gránátalma-termesztéséről, különösen a 'Testouri' fajtáról. Az ültetvények több száz hektáron terülnek el a Medjerda-völgyben. A szüret szept. és nov. között zajlik. A gyümölcs édes és lédús. A termesztés hagyományos, vegyszermentes módszerekkel történik. A város évente gránátalma-fesztivált rendez.",
+      ro: "Testour este un oraș din nordul Tunisiei, renumit pentru cultivarea rodiei, în special soiul 'Testouri'. Livezile se întind pe sute de hectare în valea Medjerda. Recoltarea are loc între septembrie și noiembrie. Fructele sunt dulci și suculente. Cultivarea este tradițională, adesea ecologică. Orașul organizează anual un festival al rodiei.",
+      en: "Testour, a town in northern Tunisia, is famous for its pomegranate cultivation, notably the 'Testouri' variety. Orchards cover hundreds of hectares in the Medjerda Valley. Harvest occurs from September to November. The pomegranates are prized for sweetness and juiciness. Farming methods are traditional, often organic. The town holds an annual Pomegranate Festival in October, attracting visitors.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: ca. 5.000 Tonnen", "Anbaufläche: 500 Hektar", "Erntezeit: September–November", "Festival seit 2005", "Durchschnittsgewicht einer Frucht: 300 g", "Zuckergehalt: 15 % Brix"],
+      hu: ["Éves termelés: kb. 5.000 tonna", "Ültetvények területe: 500 ha", "Szüret időszaka: szeptember–november", "Fesztivál kezdete: 2005", "Egy gyümölcs átlagos tömege: 300 g", "Cukortartalom: 15 % Brix"],
+      ro: ["Producție anuală: aprox. 5.000 tone", "Suprafață cultivată: 500 ha", "Perioadă recoltare: septembrie–noiembrie", "Festival început în 2005", "Greutate medie fruct: 300 g", "Conținut zahăr: 15 % Brix"],
+      en: ["Annual production: approx. 5,000 tons", "Cultivated area: 500 hectares", "Harvest season: September–November", "Festival started in 2005", "Average fruit weight: 300 g", "Sugar content: 15° Brix"],
+    },
+  },
   {
     id: "grombalia-vineyard-life-v2",
     type: "agriculture",
     parent: "TN-NA",
     coords: [10.500, 36.590],
-    name: { de: "Grombalia Weinbau", hu: "Grombalia szőlőtermesztés", ro: "Viticultura din Grombalia", en: "Grombalia Viticulture",
-image: "/poi-images/grombalia-vineyard-life-v2.webp"
-},
+    name: { de: "Grombalia Weinbau", hu: "Grombalia szőlőtermesztés", ro: "Viticultura din Grombalia", en: "Grombalia Viticulture"},
+    image: "/poi-images/grombalia-vineyard-life-v2.webp",
     description: { de: "Ein bedeutendes Weingebiet, das von den günstigen klimatischen Bedingungen profitiert.", hu: "Jelentős borvidék, amely profitál a kedvező éghajlati viszonyokból.", ro: "O zonă viticolă importantă care beneficiază de condiții climatice favorabile.", en: "A significant wine-growing region benefiting from favorable climatic conditions." },
     facts: {
       de: ["Traditionelle Weinkultur", "Hochwertige Traubensorten", "Wichtiger Exportzweig", "Landschaftsprägend"],
       hu: ["Hagyományos borkultúra", "Kiváló minőségű szőlőfajták", "Fontos exportágazat", "Tájmeghatározó"],
       ro: ["Cultură viticolă tradițională", "Soiuri de struguri de calitate", "Ramură importantă de export", "Peisaj definitoriu"],
       en: ["Traditional wine culture", "Quality grape varieties", "Important export sector", "Landscape-defining"]
-    }, image: "/poi-images/grombalia-vineyard-life-v2.webp"},
+    }, image: "/poi-images/grombalia-vineyard-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Grombalia ist eine Stadt auf der Cap-Bon-Halbinsel, bekannt für den Weinbau. Die Region produziert Rot- und Weißweine, die von lokalen Kellereien verarbeitet werden. Das mediterrane Klima mit heißen Sommern und milden Wintern begünstigt den Anbau von Rebsorten wie Carignan, Grenache und Muscat. Die Weinberge erstrecken sich über etwa 2.000 Hektar. Die Weinproduktion in Tunesien hat eine lange Tradition, die bis in die phönizische Zeit zurückreicht.",
+      hu: "Grombalia Tunézia Cap Bon-félszigetén található, híres bortermeléséről. A régió vörös- és fehérborokat készít, helyi pincészetekben. A mediterrán éghajlat ideális a szőlő számára. A termesztett fajták: Carignan, Grenache, Muscat. A szőlőültetvények kb. 2000 hektáron fekszenek. A tunéziai borkészítés hagyománya a föníciai időkre nyúlik vissza.",
+      ro: "Grombalia este un oraș pe peninsula Cap Bon, cunoscut pentru viticultură. Regiunea produce vinuri roșii și albe în crame locale. Clima mediteraneană este favorabilă soiurilor Carignan, Grenache și Muscat. Podgoriile acoperă aproximativ 2.000 de hectare. Vinificația tunisiană are rădăcini feniciene.",
+      en: "Grombalia, located on the Cap Bon peninsula, is a prominent wine-growing region. The area produces red and white wines from grapes like Carignan, Grenache, and Muscat. Vineyards cover about 2,000 hectares under Mediterranean climate. The winemaking tradition dates back to Phoenician times. Modern wineries combine traditional and French techniques, producing award-winning wines.",
+    },
+    factsAdvanced: {
+      de: ["Weinbaufläche: 2.000 Hektar", "Jahresproduktion: 10.000 Hektoliter", "Wichtige Rebsorten: Carignan, Grenache, Muscat", "Durchschnittstemperatur: 18 °C", "Niederschlag: 500 mm/Jahr", "Anzahl Kellereien: 15"],
+      hu: ["Szőlőültetvények területe: 2000 ha", "Éves bortermelés: 10.000 hektoliter", "Fő szőlőfajták: Carignan, Grenache, Muscat", "Átlaghőmérséklet: 18 °C", "Csapadék: 500 mm/év", "Pincészetek száma: 15"],
+      ro: ["Suprafață viticolă: 2.000 ha", "Producție anuală: 10.000 hectolitri", "Soiuri principale: Carignan, Grenache, Muscat", "Temperatură medie: 18 °C", "Precipitații: 500 mm/an", "Număr crame: 15"],
+      en: ["Vineyard area: 2,000 hectares", "Annual wine production: 10,000 hectoliters", "Main grape varieties: Carignan, Grenache, Muscat", "Average temperature: 18°C", "Annual rainfall: 500 mm", "Number of wineries: 15"],
+    },
+  },
   {
     id: "zaghouan-rose-life-v2",
     type: "agriculture",
     parent: "TN-ZA",
     coords: [10.150, 36.400],
-    name: { de: "Zaghouan Rosenanbau", hu: "Zaghouan rózsatermesztés", ro: "Cultivarea trandafirilor din Zaghouan", en: "Zaghouan Rose Cultivation",
-image: "/poi-images/zaghouan-rose-life-v2.webp"
-},
+    name: { de: "Zaghouan Rosenanbau", hu: "Zaghouan rózsatermesztés", ro: "Cultivarea trandafirilor din Zaghouan", en: "Zaghouan Rose Cultivation"},
+    image: "/poi-images/zaghouan-rose-life-v2.webp",
     description: { de: "Bekannt für den Anbau von Rosen, aus denen hochwertiges Rosenwasser gewonnen wird.", hu: "Ismert a rózsatermesztésről, amelyből kiváló minőségű rózsavizet nyernek.", ro: "Cunoscută pentru cultivarea trandafirilor, din care se extrage apă de trandafiri de înaltă calitate.", en: "Known for growing roses, from which high-quality rose water is extracted." },
     facts: {
       de: ["Traditionelle Destillation", "Kulturelles Erbe", "Regionale Markenidentität", "Duftende Plantagen"],
       hu: ["Hagyományos lepárlás", "Kulturális örökség", "Regionális márkaidentitás", "Illatos ültetvények"],
       ro: ["Distilare tradițională", "Moștenire culturală", "Identitate de brand regională", "Plantații parfumate"],
       en: ["Traditional distillation", "Cultural heritage", "Regional brand identity", "Fragrant plantations"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Zaghouan ist eine Stadt im Nordosten Tunesiens, bekannt für den Rosenanbau. Die Region ist berühmt für die 'Zaghouaner Rose', eine Damaszener-Rosen-Sorte, die zur Herstellung von Rosenwasser und Parfüm verwendet wird. Die Rosenfelder liegen am Fuß des Djebel Zaghouan. Die Erntezeit ist im Mai. Die Blüten werden traditionell von Hand gepflückt. Die Rosenproduktion ist ein wichtiger Wirtschaftszweig.",
+      hu: "Zaghouan Tunézia északkeleti részén fekvő város, a rózsatermesztéséről ismert. A 'Zaghouani rózsa' egy damaszkuszi rózsafajta, amelyet rózsavíz és illatszer készítésére használnak. A rózsamezők a Djebel Zaghouan lábánál terülnek el. A szüret májusban van, kézi szedéssel. A rózsatermelés fontos gazdasági ágazat.",
+      ro: "Zaghouan este un oraș din nord-estul Tunisiei, renumit pentru cultura trandafirilor. Trandafirul de Zaghouan este o varietate de trandafir de Damasc, folosit pentru apă de trandafiri și parfumuri. Câmpurile sunt situate la poalele Djebel Zaghouan. Recoltarea are loc în mai, manual. Producția este o sursă importantă de venit.",
+      en: "Zaghouan, a town in northeastern Tunisia, is known for rose cultivation, specifically the 'Zaghouan rose', a Damask rose variety. The rose fields lie at the foot of Djebel Zaghouan mountain. Harvest occurs in May, with flowers picked by hand. The roses are used to produce rose water and essential oils for perfumes. This traditional industry supports many local families.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 500 Hektar", "Erntezeit: Mai", "Produktion Rosenwasser: 50.000 Liter jährlich", "Anzahl Rosensträucher: ca. 2 Millionen", "Destillierbetriebe: 30", "Höhenlage: 400–500 m"],
+      hu: ["Termőterület: 500 ha", "Szüret: május", "Rózsavíz éves termelés: 50.000 liter", "Rózsabokrok száma: kb. 2 millió", "Lepárlóüzemek száma: 30", "Tengerszint feletti magasság: 400-500 m"],
+      ro: ["Suprafață cultivată: 500 ha", "Recoltare: mai", "Producție anuală apă de trandafiri: 50.000 litri", "Număr tufe: aprox. 2 milioane", "Distilerii: 30", "Altitudine: 400-500 m"],
+      en: ["Cultivated area: 500 hectares", "Harvest season: May", "Annual rose water production: 50,000 liters", "Number of rose bushes: approx. 2 million", "Distilleries: 30", "Altitude: 400-500 m"],
+    },
   },
   {
     id: "sfax-fishery-life-v2",
     type: "agriculture",
     parent: "TN-SF",
     coords: [10.760, 34.730],
-    name: { de: "Fischereikultur Sfax", hu: "Sfax halászati kultúra", ro: "Cultura pescărească Sfax", en: "Sfax Fishery Culture",
-image: "/poi-images/sfax-fishery-life-v2.webp"
-},
+    name: { de: "Fischereikultur Sfax", hu: "Sfax halászati kultúra", ro: "Cultura pescărească Sfax", en: "Sfax Fishery Culture"},
+    image: "/poi-images/sfax-fishery-life-v2.webp",
     description: { de: "Ein Zentrum der traditionellen Fischerei, das eng mit dem täglichen Leben und der Wirtschaft verknüpft ist.", hu: "A hagyományos halászat központja, amely szorosan összefonódik a mindennapi élettel és a gazdasággal.", ro: "Un centru al pescuitului tradițional, strâns legat de viața de zi cu zi și economie.", en: "A center of traditional fishing, closely linked to daily life and the economy." },
     facts: {
       de: ["Traditionelle Handwerkstechniken", "Frische Meeresfrüchte", "Hafenlebens-Atmosphäre", "Wirtschaftliche Basis"],
       hu: ["Hagyományos kézműves technikák", "Friss tenger gyümölcsei", "Kikötői élet hangulata", "Gazdasági alap"],
       ro: ["Tehnici de meșteșug tradiționale", "Fructe de mare proaspete", "Atmosfera vieții portuare", "Bază economică"],
       en: ["Traditional craft techniques", "Fresh seafood", "Harbor life atmosphere", "Economic foundation"]
-    }, image: "/poi-images/sfax-fishery-life-v2.webp"},
+    }, image: "/poi-images/sfax-fishery-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Sfax ist die zweitgrößte Stadt Tunesiens und ein wichtiges Fischereizentrum. Der Hafen von Sfax beherbergt die größte Fischereiflotte des Landes. Jährlich werden über 50.000 Tonnen Fisch angelandet, darunter Sardinen, Thunfisch und Tintenfisch. Die Fischereiindustrie beschäftigt Tausende von Menschen. Der Fischmarkt ist einer der bedeutendsten im Mittelmeerraum.",
+      hu: "Sfax Tunézia második legnagyobb városa, fontos halászati központ. Kikötője az ország legnagyobb halászflottájának ad otthont. Évente több mint 50.000 tonna halat fognak ki, beleértve a szardíniát, tonhalat és tintahalat. A halászat több ezer embert foglalkoztat. A halpiac a Földközi-tenger egyik legjelentősebbje.",
+      ro: "Sfax este al doilea oraș ca mărime din Tunisia și un important centru pescăresc. Portul său găzduiește cea mai mare flotă de pescuit a țării. Anual se debarcă peste 50.000 de tone de pește, inclusiv sardine, ton și calmar. Pescuitul angajează mii de oameni. Piața de pește este una dintre cele mai mari din Mediterană.",
+      en: "Sfax, Tunisia's second-largest city, is a major fishery hub. Its port hosts the nation's largest fishing fleet, landing over 50,000 tons annually, including sardines, tuna, and squid. The fishing industry employs thousands. The city's fish market is one of the Mediterranean's largest. Sfax also has fish processing plants exporting canned fish and frozen seafood.",
+    },
+    factsAdvanced: {
+      de: ["Jährlicher Fischfang: 50.000 Tonnen", "Anzahl Fischereifahrzeuge: 500", "Wichtigste Fangfische: Sardinen, Thunfisch, Tintenfisch", "Exportvolumen: 30.000 Tonnen/Jahr", "Anzahl Fischverarbeitungsbetriebe: 50", "Hafentiefe: 10 m"],
+      hu: ["Éves fogás: 50.000 tonna", "Halászflotta mérete: 500 hajó", "Fő halfajták: szardínia, tonhal, tintahal", "Export: 30.000 tonna/év", "Halfeldolgozó üzemek száma: 50", "Kikötő mélysége: 10 m"],
+      ro: ["Captură anuală: 50.000 tone", "Flotă pescărească: 500 nave", "Specii principale: sardine, ton, calmar", "Export: 30.000 tone/an", "Unități de procesare: 50", "Adâncime port: 10 m"],
+      en: ["Annual catch: 50,000 tons", "Fishing fleet size: 500 vessels", "Main species: sardines, tuna, squid", "Export volume: 30,000 tons/year", "Processing plants: 50", "Port depth: 10 m"],
+    },
+  },
   {
     id: "nabeul-pottery-garden-life-v2",
     type: "kid-landmark",
     parent: "TN-NA",
     coords: [10.730, 36.450],
-    name: { de: "Nabeul Keramikgarten", hu: "Nabeul kerámiakert", ro: "Grădina ceramicii din Nabeul", en: "Nabeul Pottery Garden",
-image: "/poi-images/nabeul-pottery-garden-life-v2.webp"
-},
+    name: { de: "Nabeul Keramikgarten", hu: "Nabeul kerámiakert", ro: "Grădina ceramicii din Nabeul", en: "Nabeul Pottery Garden"},
+    image: "/poi-images/nabeul-pottery-garden-life-v2.webp",
     description: { de: "Ein interaktiver Bereich, in dem Kinder die Kunst der traditionellen Keramik entdecken können.", hu: "Interaktív rész, ahol a gyerekek felfedezhetik a hagyományos kerámiaművészetet.", ro: "O zonă interactivă unde copiii pot descoperi arta ceramicii tradiționale.", en: "An interactive area where kids can discover the art of traditional pottery." },
     facts: {
       de: ["Kreative Workshops", "Traditionelle Handwerkskunst", "Familienfreundliches Lernziel", "Kulturelle Bereicherung"],
       hu: ["Kreatív műhelyek", "Hagyományos kézművesség", "Családbarát tanulási cél", "Kulturális gazdagodás"],
       ro: ["Ateliere creative", "Artizanat tradițional", "Destinație educativă pentru familii", "Îmbogățire culturală"],
       en: ["Creative workshops", "Traditional craftsmanship", "Family-friendly learning spot", "Cultural enrichment"]
-    }, image: "/poi-images/nabeul-pottery-garden-life-v2.webp"},
+    }, image: "/poi-images/nabeul-pottery-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Nabeul ist eine Küstenstadt im Nordosten Tunesiens, bekannt für ihre Töpfertradition. Der 'Pottery Garden' (Töpfergarten) ist ein Open-Air-Museum, das traditionelle Keramik ausstellt und zum Verkauf anbietet. Die Töpferei in Nabeul hat eine lange Geschichte, die bis in die römische Zeit zurückreicht. Die Kunsthandwerker stellen Vasen, Teller, Krüge und dekorative Fliesen her. Die Werkstätten sind für Besucher zugänglich.",
+      hu: "Nabeul egy tengerparti város Tunézia északkeleti részén, híres fazekasságáról. A 'Pottery Garden' egy szabadtéri múzeum, ahol hagyományos kerámiákat állítanak ki és árusítanak. A nabeuli fazekasság a római időkig nyúlik vissza. A mesterek vázákat, tányérokat, korsókat és díszcsempéket készítenek. A műhelyek látogathatók.",
+      ro: "Nabeul este un oraș de coastă din nord-estul Tunisiei, renumit pentru olărit. Grădina Olăritului este un muzeu în aer liber care expune și vinde ceramică tradițională. Olăritul în Nabeul datează din perioada romană. Meșteșugarii produc vaze, farfurii, urcioare și plăci decorative. Atelierele sunt deschise vizitatorilor.",
+      en: "Nabeul, a coastal city in northeastern Tunisia, is famous for its pottery tradition. The Pottery Garden is an open-air museum showcasing and selling traditional ceramics. The craft dates back to Roman times. Artisans produce vases, plates, jugs, and decorative tiles using local clay. The garden also offers workshops where visitors can try pottery making.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Töpferwerkstätten: über 100", "Jährliche Produktion: 500.000 Stück", "Tonvorkommen in der Region: reichhaltig", "Durchschnittliche Brenntemperatur: 1000 °C", "Export in 20 Länder", "Festival: Nabeul Keramikfestival (August)"],
+      hu: ["Fazekas műhelyek száma: több mint 100", "Éves termelés: 500.000 darab", "Agyagkészletek gazdagok", "Égetési hőmérséklet: 1000 °C", "Export 20 országba", "Fesztivál: Nabeuli Kerámiafesztivál (augusztus)"],
+      ro: ["Număr ateliere: peste 100", "Producție anuală: 500.000 piese", "Resurse de argilă: abundente", "Temperatură de ardere: 1000 °C", "Export în 20 de țări", "Festival: Festivalul Ceramicii din Nabeul (august)"],
+      en: ["Number of pottery workshops: over 100", "Annual production: 500,000 pieces", "Local clay deposits: abundant", "Firing temperature: 1000°C", "Exports to 20 countries", "Festival: Nabeul Pottery Festival in August"],
+    },
+  },
   {
     id: "atlas-mountain-habitat-life-v2",
     type: "animal-habitat",
     parent: "TN-KA",
     coords: [8.500, 35.800],
-    name: { de: "Atlasgebirge Wildreservat", hu: "Atlasz-hegység vadvédelmi terület", ro: "Rezervația naturală Munții Atlas", en: "Atlas Mountains Wildlife Reserve",
-image: "/poi-images/atlas-mountain-habitat-life-v2.webp"
-},
+    name: { de: "Atlasgebirge Wildreservat", hu: "Atlasz-hegység vadvédelmi terület", ro: "Rezervația naturală Munții Atlas", en: "Atlas Mountains Wildlife Reserve"},
+    image: "/poi-images/atlas-mountain-habitat-life-v2.webp",
     description: { de: "Ein wildes Schutzgebiet, das zahlreichen endemischen Tierarten der Atlas-Region Zuflucht bietet.", hu: "Vad, védett terület, amely menedéket nyújt az Atlasz-régió számos endemikus állatfajának.", ro: "O rezervație sălbatică ce oferă refugiu numeroaselor specii animale endemice din regiunea Atlas.", en: "A wild protected area offering refuge to numerous endemic animal species of the Atlas region." },
     facts: {
       de: ["Biodiversitätshotspot", "Naturschutz-Forschung", "Bergtierwelt-Schutz", "Wanderparadies"],
       hu: ["Biodiverzitási hotspot", "Természetvédelmi kutatás", "Hegyi állatvilág védelme", "Túrázóparadicsom"],
       ro: ["Hotspot de biodiversitate", "Cercetare în conservare", "Protecția faunei montane", "Paradis pentru drumeții"],
       en: ["Biodiversity hotspot", "Conservation research", "Mountain wildlife protection", "Hiking paradise"]
-    }, image: "/poi-images/atlas-mountain-habitat-life-v2.webp"},
+    }, image: "/poi-images/atlas-mountain-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Atlasgebirge in Tunesien erstreckt sich über den Nordwesten des Landes. Es beherbergt eine vielfältige Tierwelt, darunter Berberaffen, Wildschweine und verschiedene Vogelarten. Das 'Atlas Mountains Wildlife Reserve' ist ein Schutzgebiet, das sich auf die Erhaltung dieser Arten konzentriert. Die Höhenlage variiert zwischen 500 und 1500 Metern. Die Vegetation umfasst Korkeichen, Aleppo-Kiefern und Macchia.",
+      hu: "Az Atlasz-hegység Tunézia északnyugati részén húzódik. Gazdag állatvilága közé tartozik a berber makákó, a vaddisznó és számos madárfaj. Az 'Atlas Mountains Wildlife Reserve' egy védett terület, amely e fajok megőrzésére összpontosít. A tengerszint feletti magasság 500 és 1500 m között változik. A növényzet paratölgyből, aleppói fenyőből és bozótosból áll.",
+      ro: "Munții Atlas din Tunisia se întind în nord-vestul țării. Adăpostesc o faună diversă: macaci berberi, mistreți și multe păsări. Rezervația de Faună a Munților Atlas este o arie protejată focusată pe conservare. Altitudinile variază între 500 și 1500 m. Vegetația include stejar de plută, pin de Alep și maquis.",
+      en: "The Atlas Mountains in Tunisia run through the northwest, hosting diverse wildlife such as Barbary macaques, wild boar, and numerous bird species. The Atlas Mountains Wildlife Reserve is a protected area focusing on conservation. Elevations range from 500 to 1,500 m. The habitat features cork oak, Aleppo pine, and Mediterranean scrub. It is a key site for biodiversity and ecotourism.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 50.000 Hektar", "Höchster Gipfel: Djebel Chambi (1.544 m)", "Anzahl Vogelarten: über 200", "Berberaffenpopulation: ca. 1.000", "Jahresniederschlag: 800–1.200 mm", "Wanderwegnetz: 200 km"],
+      hu: ["Védett terület: 50.000 ha", "Legmagasabb csúcs: Djebel Chambi (1.544 m)", "Madárfajok száma: 200 felett", "Berber makákók száma: kb. 1.000", "Éves csapadék: 800-1200 mm", "Túraútvonalak hossza: 200 km"],
+      ro: ["Suprafața rezervației: 50.000 ha", "Cel mai înalt vârf: Djebel Chambi (1.544 m)", "Specii de păsări: peste 200", "Populația macacilor berberi: aprox. 1.000", "Precipitații anuale: 800-1.200 mm", "Trasee de drumeție: 200 km"],
+      en: ["Reserve area: 50,000 hectares", "Highest peak: Djebel Chambi (1,544 m)", "Bird species: over 200", "Barbary macaque population: approx. 1,000", "Annual rainfall: 800-1,200 mm", "Hiking trails: 200 km"],
+    },
+  },
   {
     id: "medjerda-valley-agri-life-v2",
     type: "agriculture",
     parent: "TN-BE",
     coords: [9.500, 36.700],
-    name: { de: "Medjerda-Tal Landwirtschaft", hu: "Medjerda-völgyi mezőgazdaság", ro: "Agricultura din Valea Medjerda", en: "Medjerda Valley Agriculture",
-image: "/poi-images/medjerda-valley-agri-life-v2.webp"
-},
+    name: { de: "Medjerda-Tal Landwirtschaft", hu: "Medjerda-völgyi mezőgazdaság", ro: "Agricultura din Valea Medjerda", en: "Medjerda Valley Agriculture"},
+    image: "/poi-images/medjerda-valley-agri-life-v2.webp",
     description: { de: "Das fruchtbarste Tal Tunesiens, das den Großteil der nationalen Getreideproduktion liefert.", hu: "Tunézia legtermékenyebb völgye, amely a nemzeti gabonatermelés nagy részét biztosítja.", ro: "Cea mai fertilă vale din Tunisia, care asigură cea mai mare parte a producției naționale de cereale.", en: "The most fertile valley in Tunisia, supplying the bulk of national grain production." },
     facts: {
       de: ["Kornkammer des Landes", "Moderne Anbaumethoden", "Historische Bewässerung", "Landwirtschaftliches Herz"],
       hu: ["Az ország éléstára", "Modern termesztési módszerek", "Történelmi öntözés", "Mezőgazdasági szív"],
       ro: ["Hambarul țării", "Metode moderne de cultivare", "Irigare istorică", "Inima agricolă"],
       en: ["Breadbasket of the country", "Modern farming methods", "Historical irrigation", "Agricultural heart"]
-    }, image: "/poi-images/medjerda-valley-agri-life-v2.webp"},
+    }, image: "/poi-images/medjerda-valley-agri-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Medjerda-Tal ist die fruchtbarste landwirtschaftliche Region Tunesiens. Der Medjerda-Fluss, der längste Fluss des Landes, bewässert das Tal. Hier werden Getreide, Oliven, Zitrusfrüchte und Gemüse angebaut. Die Region produziert einen Großteil der nationalen Nahrungsmittel. Die Landwirtschaft ist traditionell, aber zunehmend modernisiert.",
+      hu: "A Medjerda-völgy Tunézia legtermékenyebb mezőgazdasági régiója. A Medjerda folyó, az ország leghosszabb folyója öntözi a völgyet. Gabonát, olajbogyót, citrusféléket és zöldséget termesztenek. A régió adja az ország élelmiszertermelésének nagy részét. A gazdálkodás hagyományos, de egyre modernebb.",
+      ro: "Valea Medjerda este cea mai fertilă regiune agricolă a Tunisiei. Râul Medjerda, cel mai lung din țară, irigă valea. Se cultivă cereale, măsline, citrice și legume. Regiunea produce o mare parte din hrana națională. Agricultura este tradițională, dar în curs de modernizare.",
+      en: "The Medjerda Valley is Tunisia's most fertile agricultural region. Irrigated by the Medjerda River, the longest in the country, it produces cereals, olives, citrus fruits, and vegetables. The valley contributes significantly to the national food supply. Farming methods range from traditional to mechanized. The region also supports livestock grazing.",
+    },
+    factsAdvanced: {
+      de: ["Flusslänge: 460 km", "Landwirtschaftliche Fläche: 200.000 Hektar", "Getreideproduktion: 50 % der nationalen Ernte", "Olivenbäume: 5 Millionen", "Bewässerungssysteme: 60 % Tröpfchenbewässerung", "Durchschnittlicher Ertrag Weizen: 3 Tonnen/ha"],
+      hu: ["Folyó hossza: 460 km", "Mezőgazdasági terület: 200.000 ha", "Gabonatermelés: az országos 50%-a", "Olajfák száma: 5 millió", "Öntözés: 60% csepegtető", "Átlagos búzatermés: 3 tonna/ha"],
+      ro: ["Lungimea râului: 460 km", "Suprafață agricolă: 200.000 ha", "Producție cereale: 50% din recolta națională", "Măslini: 5 milioane", "Irigații: 60% prin picurare", "Randament grâu: 3 tone/ha"],
+      en: ["River length: 460 km", "Agricultural area: 200,000 hectares", "Cereal production: 50% of national harvest", "Olive trees: 5 million", "Irrigation systems: 60% drip irrigation", "Average wheat yield: 3 tons/ha"],
+    },
+  },
   {
     id: "djerba-ostrich-farm-life-v2",
     type: "animal-habitat",
     parent: "TN-MD",
     coords: [10.850, 33.800],
-    name: { de: "Djerba Straußenfarm", hu: "Dzserba struccfarm", ro: "Ferma de struți Djerba", en: "Djerba Ostrich Farm",
-image: "/poi-images/djerba-ostrich-farm-life-v2.webp"
-},
+    name: { de: "Djerba Straußenfarm", hu: "Dzserba struccfarm", ro: "Ferma de struți Djerba", en: "Djerba Ostrich Farm"},
+    image: "/poi-images/djerba-ostrich-farm-life-v2.webp",
     description: { de: "Eine einzigartige Farm, die auf die Zucht von Straußen spezialisiert ist und als Lernort für Kinder dient.", hu: "Egyedülálló farm, amely struccok tenyésztésére szakosodott, és tanulási helyként szolgál gyerekeknek.", ro: "O fermă unică specializată în creșterea struților, servind ca loc de învățare pentru copii.", en: "A unique farm specializing in the breeding of ostriches and serving as a learning spot for kids." },
     facts: {
       de: ["Exotische Tierzucht", "Interaktives Erlebnis", "Bildung für Familien", "Besucherattraktion"],
       hu: ["Egzotikus állattenyésztés", "Interaktív élmény", "Oktatás családoknak", "Látogatói attrakció"],
       ro: ["Creșterea animalelor exotice", "Experiență interactivă", "Educație pentru familii", "Atracție turistică"],
       en: ["Exotic animal breeding", "Interactive experience", "Education for families", "Visitor attraction"]
-    }, image: "/poi-images/djerba-ostrich-farm-life-v2.webp"},
+    }, image: "/poi-images/djerba-ostrich-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Djerba Straußenfarm liegt auf der Insel Djerba im Süden Tunesiens. Sie ist eine der größten Straußenfarmen des Landes. Die Farm züchtet Strauße für Fleisch, Federn und Leder. Die Vögel werden in großen Gehegen gehalten. Besucher können die Strauße füttern und mehr über ihre Biologie erfahren. Die Farm bietet auch Führungen und Produkte aus Straußenleder an.",
+      hu: "A Djerbai Struccfarm Tunézia déli részén, Djerba szigetén található. Az ország egyik legnagyobb struccfarmja. A farm húsért, tollért és bőrért tenyészt struccokat. A madarakat nagy kifutókban tartják. A látogatók etethetik a struccokat és megismerhetik biológiájukat. A farm vezetett túrákat és struccbőr termékeket kínál.",
+      ro: "Ferma de struți din Djerba este situată pe insula omonimă din sudul Tunisiei. Este una dintre cele mai mari ferme de struți din țară. Crește struți pentru carne, pene și piele. Păsările sunt ținute în incinte mari. Vizitatorii pot hrăni struții și pot afla despre biologia lor. Ferma oferă tururi ghidate și produse din piele de struț.",
+      en: "Djerba Ostrich Farm is on Djerba Island, southern Tunisia, and is one of the country's largest ostrich farms. It breeds ostriches for meat, feathers, and leather. The birds are kept in spacious enclosures. Visitors can feed them and learn about ostrich biology. The farm offers guided tours and sells leather goods. It promotes sustainable farming practices.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Strauße: 500", "Farmgröße: 10 Hektar", "Durchschnittsgewicht: 120 kg", "Schlupfrate: 80 Eier pro Jahr pro Henne", "Fleischproduktion: 50 Tonnen/Jahr", "Maximale Geschwindigkeit: 70 km/h"],
+      hu: ["Struccok száma: 500", "Farm területe: 10 ha", "Átlagos súly: 120 kg", "Keltetés: 80 tojás/tyúk/év", "Hústermelés: 50 tonna/év", "Maximális sebesség: 70 km/h"],
+      ro: ["Număr struți: 500", "Suprafață fermă: 10 ha", "Greutate medie: 120 kg", "Ouă pe an per femelă: 80", "Producție carne: 50 tone/an", "Viteză maximă: 70 km/h"],
+      en: ["Ostrich count: 500", "Farm size: 10 hectares", "Average weight: 120 kg", "Eggs per hen per year: 80", "Meat production: 50 tons/year", "Top speed: 70 km/h"],
+    },
+  },
   {
     id: "cap-bon-fruit-garden-life-v2",
     type: "agriculture",
     parent: "TN-NA",
     coords: [10.800, 36.750],
-    name: { de: "Cap Bon Obstgärten", hu: "Cap Bon gyümölcsöskertek", ro: "Livezi Cap Bon", en: "Cap Bon Fruit Orchards",
-image: "/poi-images/cap-bon-fruit-garden-life-v2.webp"
-},
+    name: { de: "Cap Bon Obstgärten", hu: "Cap Bon gyümölcsöskertek", ro: "Livezi Cap Bon", en: "Cap Bon Fruit Orchards"},
+    image: "/poi-images/cap-bon-fruit-garden-life-v2.webp",
     description: { de: "Ein Gartenparadies für Zitrusfrüchte und andere exotische Früchte, begünstigt durch das Meeresklima.", hu: "Kertparadicsom citrusféléknek és más egzotikus gyümölcsöknek, kedvezve a tengeri éghajlatnak.", ro: "Un paradis al grădinilor pentru citrice și alte fructe exotice, favorizat de clima marină.", en: "A garden paradise for citrus and other exotic fruits, favored by the marine climate." },
     facts: {
       de: ["Zitrus-Zentrum", "Vielfältige Ernte", "Traditionelle Methoden", "Export von Frischwaren"],
       hu: ["Citrus központ", "Változatos termés", "Hagyományos módszerek", "Frissáru-export"],
       ro: ["Centru de citrice", "Recoltă diversificată", "Metode tradiționale", "Export de produse proaspete"],
       en: ["Citrus center", "Diverse harvest", "Traditional methods", "Export of fresh produce"]
-    }, image: "/poi-images/cap-bon-fruit-garden-life-v2.webp"},
+    }, image: "/poi-images/cap-bon-fruit-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Cap Bon ist eine Halbinsel im Nordosten Tunesiens. Sie ist bekannt für ihre Obstgärten, in denen Orangen, Zitronen, Mandarinen und Pfirsiche angebaut werden. Das milde Mittelmeerklima und fruchtbare Böden ermöglichen eine hohe Produktion. Der Anbau erfolgt in terrassierten Gärten. Cap Bon liefert einen Großteil des Obstes für den lokalen Markt und den Export.",
+      hu: "Cap Bon egy félsziget Tunézia északkeleti részén. Híres gyümölcsöseiről, ahol narancsot, citromot, mandarint és őszibarackot termesztenek. Az enyhe mediterrán éghajlat és termékeny talaj magas hozamot biztosít. A termesztés teraszos kertekben történik. Cap Bon adja a gyümölcs nagy részét a hazai piacra és exportra.",
+      ro: "Cap Bon este o peninsulă în nord-estul Tunisiei, renumită pentru livezile de fructe: portocale, lămâi, mandarine și piersici. Clima mediteraneană blândă și solurile fertile asigură producții mari. Cultivarea se face în grădini terasate. Cap Bon furnizează majoritatea fructelor pentru piața internă și export.",
+      en: "Cap Bon is a peninsula in northeastern Tunisia known for fruit orchards producing oranges, lemons, tangerines, and peaches. The mild Mediterranean climate and fertile volcanic soils yield abundant harvests. Orchards are often terraced. The region supplies most of Tunisia's citrus fruit for local consumption and export. Organic farming is growing.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 40.000 Hektar", "Jährliche Zitrusproduktion: 500.000 Tonnen", "Orangenanteil: 60 %", "Exportmenge: 200.000 Tonnen/Jahr", "Anzahl Betriebe: 10.000", "Bewässerung: 80 % Tröpfchen"],
+      hu: ["Termőterület: 40.000 ha", "Éves citrus termelés: 500.000 tonna", "Narancs aránya: 60%", "Export: 200.000 tonna/év", "Gazdaságok száma: 10.000", "Öntözés: 80% csepegtető"],
+      ro: ["Suprafață cultivată: 40.000 ha", "Producție anuală citrice: 500.000 tone", "Procent portocale: 60%", "Export: 200.000 tone/an", "Număr ferme: 10.000", "Irigații: 80% prin picurare"],
+      en: ["Cultivated area: 40,000 hectares", "Annual citrus production: 500,000 tons", "Orange share: 60%", "Export volume: 200,000 tons/year", "Number of farms: 10,000", "Irrigation: 80% drip"],
+    },
+  },
   {
     id: "kairouan-date-orchard-life-v2",
     type: "agriculture",
     parent: "TN-KA",
     coords: [10.100, 35.670],
-    name: { de: "Kairouan Dattelgarten", hu: "Kairouan datolyakert", ro: "Livezi de curmale Kairouan", en: "Kairouan Date Orchard",
-image: "/poi-images/kairouan-date-orchard-life-v2.webp"
-},
+    name: { de: "Kairouan Dattelgarten", hu: "Kairouan datolyakert", ro: "Livezi de curmale Kairouan", en: "Kairouan Date Orchard"},
+    image: "/poi-images/kairouan-date-orchard-life-v2.webp",
     description: { de: "Ein bedeutender Dattelgarten am Rande der Wüste, der die landwirtschaftliche Anpassungsfähigkeit zeigt.", hu: "Jelentős datolyakert a sivatag peremén, amely megmutatja a mezőgazdasági alkalmazkodóképességet.", ro: "O livadă importantă de curmale la marginea deșertului, arătând adaptabilitatea agricolă.", en: "An important date orchard at the edge of the desert, demonstrating agricultural adaptability." },
     facts: {
       de: ["Dattel-Vielfalt", "Wüsten-Landwirtschaft", "Kulturelle Ernte", "Wirtschaftliche Bedeutung"],
       hu: ["Datolya-sokféleség", "Sivatagi mezőgazdaság", "Kulturális szüret", "Gazdasági jelentőség"],
       ro: ["Diversitate de curmale", "Agricultură de deșert", "Recoltă culturală", "Semnificație economică"],
       en: ["Date variety", "Desert farming", "Cultural harvest", "Economic significance"]
-    }, image: "/poi-images/kairouan-date-orchard-life-v2.webp"},
+    }, image: "/poi-images/kairouan-date-orchard-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Kairouan, eine heilige Stadt im Inland Tunesiens, ist auch für ihre Dattelplantagen bekannt. Die Oasen rund um Kairouan produzieren hauptsächlich die Deglet-Nour-Dattel. Die Plantagen werden mit Grundwasser bewässert. Die Dattelernte findet von Oktober bis November statt. Kairouan ist eines der wichtigsten Zentren für Dattelproduktion und -handel in Tunesien.",
+      hu: "Kairouan, Tunézia szent városa, híres datolyaültetvényeiről. A Kairouan környéki oázisok főként Deglet Nour datolyát termesztenek. Az ültetvényeket talajvízzel öntözik. A szüret októbertől novemberig tart. Kairouan a tunéziai datolyatermelés és -kereskedelem egyik legfontosabb központja.",
+      ro: "Kairouan, oraș sfânt al Tunisiei, este cunoscut și pentru livezile de curmale. Oazele din jur produc în principal curmale Deglet Nour. Livezile sunt irigate cu apă subterană. Recoltarea are loc din octombrie până în noiembrie. Kairouan este un centru major pentru producția și comerțul de curmale din Tunisia.",
+      en: "Kairouan, a holy city in inland Tunisia, is also renowned for its date orchards, primarily growing Deglet Nour dates. The orchards are irrigated by groundwater. Harvest season runs from October to November. Kairouan is a major center for date production and trade, with many packing houses. Dates are exported worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Produktion: 30.000 Tonnen/Jahr", "Anbaufläche: 10.000 Hektar", "Palmen pro Hektar: 200", "Wassertiefe: 50 m", "Exportanteil: 40 % der Ernte", "Durchschnittliche Palmenhöhe: 20 m"],
+      hu: ["Termelés: 30.000 tonna/év", "Ültetvény terület: 10.000 ha", "Pálmák száma hektáronként: 200", "Vízmélység: 50 m", "Export aránya: 40%", "Átlagos pálmamagasság: 20 m"],
+      ro: ["Producție: 30.000 tone/an", "Suprafață: 10.000 ha", "Palmieri pe hectar: 200", "Adâncime apă: 50 m", "Export: 40% din recoltă", "Înălțime medie palmier: 20 m"],
+      en: ["Production: 30,000 tons/year", "Orchard area: 10,000 hectares", "Palms per hectare: 200", "Water table depth: 50 m", "Export share: 40% of harvest", "Average palm height: 20 m"],
+    },
+  },
   {
     id: "tabarka-marine-park-life-v2",
     type: "animal-habitat",
     parent: "TN-JE",
     coords: [8.750, 36.950],
-    name: { de: "Tabarka Meerespark", hu: "Tabarka tengeri park", ro: "Parc marin Tabarka", en: "Tabarka Marine Park",
-image: "/poi-images/tabarka-marine-park-life-v2.webp"
-},
+    name: { de: "Tabarka Meerespark", hu: "Tabarka tengeri park", ro: "Parc marin Tabarka", en: "Tabarka Marine Park"},
+    image: "/poi-images/tabarka-marine-park-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das die marinen Ökosysteme vor der Küste Tabarkas bewahrt.", hu: "Védett terület, amely megőrzi a Tabarka partjainál lévő tengeri ökoszisztémákat.", ro: "O zonă protejată care conservă ecosistemele marine de pe coasta Tabarka.", en: "A protected area preserving the marine ecosystems off the coast of Tabarka." },
     facts: {
       de: ["Korallen-Schutz", "Tauchparadies", "Forschungsprojekte", "Maritime Artenvielfalt"],
       hu: ["Korallvédelem", "Búvárparadicsom", "Kutatási projektek", "Tengeri biodiverzitás"],
       ro: ["Protecția coralilor", "Paradis pentru scufundări", "Proiecte de cercetare", "Biodiversitate marină"],
       en: ["Coral protection", "Diving paradise", "Research projects", "Marine biodiversity"]
-    }, image: "/poi-images/tabarka-marine-park-life-v2.webp"},
+    }, image: "/poi-images/tabarka-marine-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tabarka Marine Park liegt an der nordwestlichen Küste Tunesiens. Er schützt ein Gebiet mit Korallenriffen, Seegraswiesen und einer reichen Meeresfauna. Der Park bietet Schnorchel- und Tauchmöglichkeiten. Die Unterwasserlandschaft umfasst Höhlen und Felsformationen. Das Gebiet ist wichtig für die Fischerei und den Tourismus.",
+      hu: "A Tabarka Tengeri Park Tunézia északnyugati partjánál található. Védett terület korallzátonyokkal, tengeri fűvel és gazdag tengeri élővilággal. A park snorkeling és búvárkodási lehetőségeket kínál. A víz alatti táj barlangokat és sziklákat foglal magában. A terület fontos a halászat és a turizmus számára.",
+      ro: "Parcul Marin Tabarka este situat pe coasta de nord-vest a Tunisiei. Protejează o zonă cu recife de corali, pajiști marine și faună bogată. Parcul oferă posibilități de snorkeling și scufundări. Peisajul subacvatic include peșteri și formațiuni stâncoase. Zona este importantă pentru pescuit și turism.",
+      en: "Tabarka Marine Park, off the northwestern coast of Tunisia, protects coral reefs, seagrass beds, and diverse marine life. It offers snorkeling and diving sites with underwater caves and rock formations. The park is a nursery for fish and supports local fisheries. It also hosts an annual underwater photography festival.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 1.000 Hektar", "Anzahl Fischarten: über 150", "Korallenarten: 20", "Wassertemperatur: 15–25 °C", "Tauchplätze: 10", "Besucher jährlich: 30.000"],
+      hu: ["Védett terület: 1.000 ha", "Halfajok száma: 150 felett", "Korallfajok: 20", "Vízhőmérséklet: 15-25 °C", "Búvárhelyek: 10", "Éves látogatók: 30.000"],
+      ro: ["Suprafața parcului: 1.000 ha", "Specii de pești: peste 150", "Specii de corali: 20", "Temperatura apei: 15-25 °C", "Locuri de scufundare: 10", "Vizitatori anual: 30.000"],
+      en: ["Park area: 1,000 hectares", "Fish species: over 150", "Coral species: 20", "Water temperature: 15–25°C", "Dive sites: 10", "Annual visitors: 30,000"],
+    },
+  },
   {
     id: "hammamet-fun-land-life-v2",
     type: "kid-landmark",
     parent: "TN-NA",
     coords: [10.600, 36.400],
-    name: { de: "Hammamet Freizeitwelt", hu: "Hammamet szabadidővilág", ro: "Lumea divertismentului Hammamet", en: "Hammamet Fun World",
-image: "/poi-images/hammamet-fun-land-life-v2.webp"
-},
+    name: { de: "Hammamet Freizeitwelt", hu: "Hammamet szabadidővilág", ro: "Lumea divertismentului Hammamet", en: "Hammamet Fun World"},
+    image: "/poi-images/hammamet-fun-land-life-v2.webp",
     description: { de: "Ein großer Freizeit- und Wasserpark, der speziell auf Kinder und Familien zugeschnitten ist.", hu: "Nagy szabadidő- és vízipark, amelyet kifejezetten gyerekekre és családokra szabtak.", ro: "Un mare parc de distracții și acvatic, creat special pentru copii și familii.", en: "A large leisure and water park tailored specifically to kids and families." },
     facts: {
       de: ["Große Rutschenlandschaft", "Sichere Badebereiche", "Tagesprogramm für Kinder", "Sehr beliebt"],
       hu: ["Nagy csúszdapark", "Biztonságos fürdőterületek", "Napi program gyerekeknek", "Nagyon népszerű"],
       ro: ["Peisaj mare cu tobogane", "Zone de scăldat sigure", "Program zilnic pentru copii", "Foarte popular"],
       en: ["Large slide landscape", "Safe swimming areas", "Daily program for kids", "Very popular"]
-    }, image: "/poi-images/hammamet-fun-land-life-v2.webp"},
+    }, image: "/poi-images/hammamet-fun-land-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Hammamet Fun World ist ein Freizeitpark in der Küstenstadt Hammamet. Er wurde 1998 eröffnet und bietet Fahrgeschäfte, Achterbahnen, Spiele und Shows. Der Park erstreckt sich über eine Fläche von 10 Hektar. Er ist bei Touristen und Einheimischen gleichermaßen beliebt. Der Park verfügt über mehrere Restaurants und Picknickbereiche.",
+      hu: "A Hammamet Fun World egy vidámpark a tengerparti Hammamet városában. 1998-ban nyílt meg, és hullámvasutakat, játékokat és előadásokat kínál. A park 10 hektáron terül el. Népszerű a turisták és a helyiek körében. Számos étteremmel és piknikezőhellyel rendelkezik.",
+      ro: "Hammamet Fun World este un parc de distracții în orașul de coastă Hammamet, deschis în 1998. Oferă roller-coastere, jocuri și spectacole. Parcul se întinde pe 10 hectare. Este popular printre turiști și localnici. Are restaurante și zone de picnic.",
+      en: "Hammamet Fun World is an amusement park in the coastal city of Hammamet, opened in 1998. It features roller coasters, rides, games, and live shows on a 10-hectare site. It is a major family attraction in the region, drawing both tourists and locals. The park includes food outlets and picnic areas.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1998", "Fläche: 10 Hektar", "Anzahl Fahrgeschäfte: 20", "Höchste Achterbahn: 30 m", "Jahresbesucher: 200.000", "Eintrittspreis: 25 TND"],
+      hu: ["Megnyitás: 1998", "Terület: 10 ha", "Játékok száma: 20", "Legmagasabb hullámvasút: 30 m", "Éves látogatók: 200.000", "Belépőjegy: 25 TND"],
+      ro: ["An deschidere: 1998", "Suprafață: 10 ha", "Număr de atracții: 20", "Cel mai înalt roller-coaster: 30 m", "Vizitatori anual: 200.000", "Preț bilet: 25 TND"],
+      en: ["Opened: 1998", "Area: 10 hectares", "Number of rides: 20", "Tallest roller coaster: 30 m", "Annual visitors: 200,000", "Ticket price: 25 Tunisian dinars"],
+    },
+  },
   {
     id: "gala-desert-reserve-life-v2",
     type: "animal-habitat",
     parent: "TN-KE",
     coords: [8.900, 33.600],
-    name: { de: "Gala Wüstenreservat", hu: "Gala sivatagi rezervátum", ro: "Rezervația de deșert Gala", en: "Gala Desert Reserve",
-image: "/poi-images/gala-desert-reserve-life-v2.webp"
-},
+    name: { de: "Gala Wüstenreservat", hu: "Gala sivatagi rezervátum", ro: "Rezervația de deșert Gala", en: "Gala Desert Reserve"},
+    image: "/poi-images/gala-desert-reserve-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das das Leben in der Wüste dokumentiert und schützt.", hu: "Védett terület, amely dokumentálja és védi a sivatagi életet.", ro: "O zonă protejată care documentează și protejează viața în deșert.", en: "A protected area that documents and protects life in the desert." },
     facts: {
       de: ["Dokumentation der Fauna", "Naturschutz-Lehrpfad", "Ökologische Vielfalt", "Wüsten-Erkundung"],
       hu: ["Fauna-dokumentáció", "Természetvédelmi tanösvény", "Ökológiai sokszínűség", "Sivatagi felfedezés"],
       ro: ["Documentarea faunei", "Traseu educativ de conservare", "Diversitate ecologică", "Explorarea deșertului"],
       en: ["Fauna documentation", "Conservation nature trail", "Ecological diversity", "Desert exploration"]
-    }, image: "/poi-images/gala-desert-reserve-life-v2.webp"},
+    }, image: "/poi-images/gala-desert-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Gala Desert Reserve ist ein Naturschutzgebiet im Süden Tunesiens. Es schützt die Wüstenökosysteme mit Sanddünen, Steinwüsten und Wadis. Das Reservat beherbergt Tiere wie Dorcasgazellen, Fenneks und verschiedene Reptilien. Die Region ist extrem trocken. Touristen können geführte Wüstentouren unternehmen. Das Reservat dient auch der Forschung.",
+      hu: "A Gala Sivatagi Rezervátum Tunézia déli részén található természetvédelmi terület. Védi a sivatagi ökoszisztémákat, homokdűnéket, kősivatagokat és vádikat. Állatai: dorcas gazella, róka, hüllők. A régió rendkívül száraz. A turisták vezetett sivatagi túrákon vehetnek részt. A rezervátum kutatási célokat is szolgál.",
+      ro: "Rezervația Deșertică Gala este o arie protejată din sudul Tunisiei, care conservă ecosisteme deșertice cu dune de nisip, hamade și ueduri. Adăpostește gazele dorcas, fenici și reptile. Clima este extrem de aridă. Turiștii pot face excursii ghidate. Rezervația este și un centru de cercetare.",
+      en: "Gala Desert Reserve in southern Tunisia protects desert ecosystems, including sand dunes, rocky plains, and dry riverbeds. It hosts dorcas gazelles, fennec foxes, reptiles, and migratory birds. The area receives less than 50 mm of rain annually. Guided safaris are available. The reserve also supports scientific research on desertification.",
+    },
+    factsAdvanced: {
+      de: ["Reservatsgröße: 5.000 Hektar", "Jahresniederschlag: unter 50 mm", "Gazellenpopulation: 200", "Durchschnittstemperatur: 28 °C", "Höchste Düne: 50 m", "Wanderrouten: 100 km"],
+      hu: ["Rezervátum mérete: 5.000 ha", "Éves csapadék: 50 mm alatt", "Gázella pop.: 200", "Átlaghőmérséklet: 28 °C", "Legmagasabb dűne: 50 m", "Túraútvonalak: 100 km"],
+      ro: ["Suprafața rezervației: 5.000 ha", "Precipitații anuale: sub 50 mm", "Populație gazelă: 200", "Temperatură medie: 28 °C", "Cea mai înaltă dună: 50 m", "Trasee: 100 km"],
+      en: ["Reserve size: 5,000 hectares", "Annual rainfall: below 50 mm", "Gazelle population: 200", "Average temperature: 28°C", "Highest dune: 50 m", "Trail length: 100 km"],
+    },
+  },
   {
     id: "sidi-bou-zid-agriculture-life-v2",
     type: "agriculture",
     parent: "TN-SI",
     coords: [9.480, 35.030],
-    name: { de: "Sidi Bouzid Agrarregion", hu: "Sidi Bouzid agrárterület", ro: "Regiunea agricolă Sidi Bouzid", en: "Sidi Bouzid Agricultural Region",
-image: "/poi-images/sidi-bou-zid-agriculture-life-v2.webp"
-},
+    name: { de: "Sidi Bouzid Agrarregion", hu: "Sidi Bouzid agrárterület", ro: "Regiunea agricolă Sidi Bouzid", en: "Sidi Bouzid Agricultural Region"},
+    image: "/poi-images/sidi-bou-zid-agriculture-life-v2.webp",
     description: { de: "Ein landwirtschaftlich intensiv genutztes Gebiet, das für den Anbau von Gemüse und Getreide bekannt ist.", hu: "Intenzíven használt mezőgazdasági terület, amely zöldség- és gabonatermesztéséről ismert.", ro: "O zonă agricolă utilizată intensiv, cunoscută pentru cultivarea legumelor și cerealelor.", en: "An intensively farmed area known for vegetable and grain cultivation." },
     facts: {
       de: ["Wichtiger Gemüseproduzent", "Moderne Landwirtschaftstechnik", "Regionale Selbstversorgung", "Wirtschaftliches Zentrum"],
       hu: ["Fontos zöldségtermelő", "Modern mezőgazdasági technológia", "Regionális önellátás", "Gazdasági központ"],
       ro: ["Producător important de legume", "Tehnologie agricolă modernă", "Autosuficiență regională", "Centru economic"],
       en: ["Important vegetable producer", "Modern farming technology", "Regional self-sufficiency", "Economic center"]
-    }, image: "/poi-images/sidi-bou-zid-agriculture-life-v2.webp"},
+    }, image: "/poi-images/sidi-bou-zid-agriculture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Sidi Bouzid ist eine Region im zentralen Tunesien, die für ihre Landwirtschaft bekannt ist. Hier werden vor allem Oliven, Getreide und Mandeln angebaut. Die Region ist halbtrocken mit Bewässerung aus Grundwasser. Die Landwirtschaft ist die Haupteinnahmequelle. Sidi Bouzid war der Ausgangspunkt der tunesischen Revolution 2010/2011.",
+      hu: "Sidi Bouzid Közép-Tunézia régiója, mezőgazdaságáról ismert. Fő termények: olajbogyó, gabona, mandula. A terület félszáraz, öntözés talajvízből. A mezőgazdaság a fő bevételi forrás. Sidi Bouzid volt a 2010/2011-es tunéziai forradalom kiindulópontja.",
+      ro: "Sidi Bouzid este o regiune din centrul Tunisiei, cunoscută pentru agricultură. Se cultivă măsline, cereale și migdale. Regiunea este semiaridă, cu irigații din ape subterane. Agricultura este principala sursă de venit. Sidi Bouzid a fost punctul de plecare al revoluției tunisiene din 2010-2011.",
+      en: "Sidi Bouzid, a region in central Tunisia, is an agricultural area producing olives, cereals, and almonds. The climate is semi-arid; irrigation relies on groundwater. Farming is the main livelihood. The region gained global attention as the birthplace of the Tunisian Revolution in 2010. It remains a key agricultural hub.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 300.000 Hektar", "Olivenproduktion: 200.000 Tonnen/Jahr", "Mandelernte: 10.000 Tonnen/Jahr", "Niederschlag: 300 mm/Jahr", "Zahl der landwirtschaftlichen Betriebe: 20.000", "Revolution im Dezember 2010"],
+      hu: ["Termőterület: 300.000 ha", "Olajbogyó termelés: 200.000 tonna/év", "Mandulatermés: 10.000 tonna/év", "Csapadék: 300 mm/év", "Gazdaságok száma: 20.000", "Forradalom kezdete: 2010. december"],
+      ro: ["Suprafață cultivată: 300.000 ha", "Producție măsline: 200.000 tone/an", "Recoltă migdale: 10.000 tone/an", "Precipitații: 300 mm/an", "Număr ferme: 20.000", "Începutul revoluției: decembrie 2010"],
+      en: ["Cultivated area: 300,000 hectares", "Olive production: 200,000 tons/year", "Almond harvest: 10,000 tons/year", "Annual rainfall: 300 mm", "Number of farms: 20,000", "Revolution start: December 2010"],
+    },
+  },
   {
     id: "monastir-aquarium-life-v2",
     type: "kid-landmark",
     parent: "TN-MO",
     coords: [10.820, 35.770],
-    name: { de: "Monastir Meereswelt", hu: "Monastir tengeri világ", ro: "Lumea marină Monastir", en: "Monastir Marine World",
-image: "/poi-images/monastir-aquarium-life-v2.webp"
-},
+    name: { de: "Monastir Meereswelt", hu: "Monastir tengeri világ", ro: "Lumea marină Monastir", en: "Monastir Marine World"},
+    image: "/poi-images/monastir-aquarium-life-v2.webp",
     description: { de: "Ein interaktives Bildungszentrum für Kinder über die Flora und Fauna des Mittelmeers.", hu: "Interaktív oktatási központ gyerekeknek a Földközi-tenger flórájáról és faunájáról.", ro: "Un centru educațional interactiv pentru copii despre flora și fauna Mării Mediterane.", en: "An interactive educational center for kids about the flora and fauna of the Mediterranean Sea." },
     facts: {
       de: ["Lernstationen", "Schutz der Ozeane", "Familienaktivitäten", "Maritimes Wissen"],
       hu: ["Tanulóállomások", "Óceánok védelme", "Családi tevékenységek", "Tengeri tudás"],
       ro: ["Stații de învățare", "Protecția oceanelor", "Activități pentru familii", "Cunoștințe marine"],
       en: ["Learning stations", "Protection of oceans", "Family activities", "Marine knowledge"]
-    }, image: "/poi-images/monastir-aquarium-life-v2.webp"},
+    }, image: "/poi-images/monastir-aquarium-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Monastir Marine World ist ein modernes Aquarium und Meeresforschungszentrum an der tunesischen Küste. Es beherbergt über 200 Arten mediterraner und tropischer Fische, darunter Haie, Rochen und Meeresschildkröten. Die Anlage umfasst ein 360-Grad-Tunnelbecken mit 5 Millionen Litern Wasser sowie interaktive Touchpools. Besonders hervorzuheben ist das Zuchtprogramm für gefährdete Arten wie die Unechte Karettschildkröte (Caretta caretta). Das Aquarium betreibt Bildungsinitiativen für lokale Schulklassen und bietet Führungen hinter die Kulissen. Es wurde 2019 eröffnet und lockt jährlich rund 300.000 Besucher an. Die Architektur verbindet moderne Glaskonstruktionen mit traditionellen tunesischen Elementen wie Mosaikfliesen.",
+      hu: "A Monastir Marine World Tunézia egyik legjelentősebb tengeri élővilágot bemutató komplexuma, amely 2019-ben nyílt meg. A létesítmény egyedülálló módon ötvözi a turisztikai attrakciót a természetvédelemmel: 18 különböző medencében mutatja be a Földközi-tenger és a Vörös-tenger halfajait. Az óceáni medence 2,5 millió liter tengervizet tartalmaz, és alagútján keresztül sétálva a látogatók cápák és ráják között járhatnak. A központ kiemelt figyelmet fordít a helyi tengeri ökoszisztémák kutatására, együttműködve a Szuszai Egyetemmel. Évente több mint 200 000 látogatót vonz, és interaktív programjai között szerepel a cápák etetése és a korallzátony-rekonstrukció bemutató. A belépőjegy ára 25 tunéziai dinár.",
+      ro: "Monastir Marine World este un acvariu modern și centru de cercetare marină deschis în 2019 pe coasta Tunisiei. Facilitatea găzduiește peste 200 de specii de pești mediteraneeni și tropicali, inclusiv rechini, raze și țestoase marine. Principalul rezervor are un tunel de 360 de grade cu 5 milioane de litri de apă, oferind o experiență panoramică. Acvariul participă la programe de reproducere a speciilor amenințate, precum țestoasa Caretta caretta. De asemenea, organizează programe educaționale pentru școli și excursii în spatele scenei. Arhitectura clădirii combină sticla modernă cu mozaicuri tradiționale tunisiene. Numărul anual de vizitatori se apropie de 300.000, iar intrarea costă 25 de dinari tunisieni. Centrul colaborează cu Universitatea din Monastir pentru cercetarea ecosistemelor locale.",
+      en: "Monastir Marine World is a state-of-the-art aquarium and marine research facility situated along Tunisia's Mediterranean coast. Opened in 2019, it houses over 200 species of marine life, including sharks, rays, and sea turtles. The centerpiece is a 360-degree tunnel tank containing 5 million liters of seawater, offering an immersive walk-through experience. The aquarium runs conservation programs for endangered species like the loggerhead sea turtle (Caretta caretta) and engages in coral reef restoration projects. It attracts approximately 300,000 visitors annually and serves as an educational hub for local schools. Architecture blends contemporary glass structures with traditional Tunisian mosaic art. Research partnerships with the University of Monastir focus on marine biology and ecosystem monitoring.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2019", "5 Millionen Liter Wasser im Haupttank", "200 Fischarten", "300.000 Besucher jährlich", "Eintritt 25 TND", "Zuchtprogramm für Caretta caretta"],
+      hu: ["2019-ben nyílt", "2,5 millió liter az óceáni medence", "18 medence", "200 000 látogató évente", "Belépő 25 TND", "Cápák és ráják bemutatása"],
+      ro: ["Deschis în 2019", "5 milioane litri în tunelul principal", "Peste 200 specii", "Aproximativ 300.000 vizitatori anual", "Preț bilet: 25 dinari tunisieni", "Program de reproducere Caretta caretta"],
+      en: ["Opened in 2019", "5 million liters in main tank", "Over 200 marine species", "300,000 annual visitors", "Admission 25 TND", "Loggerhead sea turtle breeding program"],
+    },
+  },
   {
     id: "gabes-oasis-life-v2",
     type: "agriculture",
     parent: "TN-GA",
     coords: [10.100, 33.880],
-    name: { de: "Gabès Oase", hu: "Gabèsi oázis", ro: "Oaza Gabès", en: "Gabes Oasis",
-image: "/poi-images/gabes-oasis-life-v2.webp"
-},
+    name: { de: "Gabès Oase", hu: "Gabèsi oázis", ro: "Oaza Gabès", en: "Gabes Oasis"},
+    image: "/poi-images/gabes-oasis-life-v2.webp",
     description: { de: "Eine der seltenen Küsten-Oasen, die eine komplexe landwirtschaftliche Nutzung in mehreren Etagen bietet.", hu: "Az egyik ritka tengerparti oázis, amely komplex, többszintű mezőgazdasági használatot kínál.", ro: "Una dintre rarele oaze de coastă, care oferă o utilizare agricolă complexă pe mai multe niveluri.", en: "One of the rare coastal oases, offering complex multi-level agricultural use." },
     facts: {
       de: ["Einzigartige Küstenlage", "Vielfältige Obstproduktion", "Traditionelle Oasenwirtschaft", "Kulturelles Zentrum"],
       hu: ["Egyedi tengerparti fekvés", "Változatos gyümölcstermelés", "Hagyományos oázisgazdálkodás", "Kulturális központ"],
       ro: ["Locație de coastă unică", "Producție diversificată de fructe", "Economie tradițională de oază", "Centru cultural"],
       en: ["Unique coastal location", "Diverse fruit production", "Traditional oasis economy", "Cultural center"]
-    }, image: "/poi-images/gabes-oasis-life-v2.webp"},
+    }, image: "/poi-images/gabes-oasis-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gabes-Oase ist eine der größten Oasen Tunesiens und liegt am Golf von Gabes. Sie erstreckt sich über 4.000 Hektar mit über 300.000 Dattelpalmen. Die Oase wird durch unterirdische Quellen und das Wasser des Oued Gabes bewässert. Historisch war sie ein wichtiger Handelsstopp an der Karawanenroute. Heute produziert sie jährlich etwa 20.000 Tonnen Datteln, hauptsächlich der Sorte Deglet Nour. Die Oase beherbergt auch uralte Bewässerungssysteme wie die ‚Foggara‘-Kanäle. Die lokale Landwirtschaft umfasst Olivenbäume, Granatäpfel und Gemüseanbau. Die Gabes-Oase ist Lebensraum für Zugvögel und bedrohte Arten wie den Mäusebussard. Die regionale Wirtschaft hängt stark von der Oasenlandwirtschaft ab.",
+      hu: "A Gabesi-oázis Tunézia második legnagyobb oázisa, amely a Gabesi-öböl partján található. Területe 4000 hektár, és több mint 300 000 datolyapálmát foglal magában. Az oázist felszín alatti források és a Oued Gabes folyó vize táplálja. Történelmileg fontos karavánkereskedelmi állomás volt. A helyi gazdaság alapja a datolyatermesztés, évente 20 000 tonna Deglet Nour datolyát termelnek. Az öntözéshez ősi foggara csatornákat használnak. Az oázisban olajfákat, gránátalmát és zöldségeket is termesztenek. Madárvédelmi szempontból jelentős, mivel vonuló madarak pihenőhelye. Az oázis ökoszisztémáját a sivatagosodás és a vízhiány fenyegeti.",
+      ro: "Oaza Gabes este una dintre cele mai mari oaze din Tunisia, situată pe coasta Golfului Gabes. Se întinde pe 4.000 de hectare și conține peste 300.000 de palmieri de curmale. Este irigată de izvoare subterane și de râul Oued Gabes. Din punct de vedere istoric, a fost o importantă oprire pe rutele caravaniere. Producția anuală de curmale este de aproximativ 20.000 de tone, predominant soiul Deglet Nour. Oaza folosește sisteme străvechi de irigații, inclusiv canale foggara. Pe lângă curmale, se cultivă măslini, rodii și legume. Este un habitat important pentru păsările migratoare și specii amenințate precum șoimul. Economia locală depinde de agricultura oazei.",
+      en: "The Gabes Oasis is one of Tunisia's largest oases, covering 4,000 hectares along the Gulf of Gabes. It hosts over 300,000 date palms, primarily the Deglet Nour variety, producing 20,000 tons annually. Irrigation relies on ancient foggaras (underground channels) and the Oued Gabes river. Historically a caravan trading hub, today it sustains a local economy based on dates, olives, and pomegranates. The oasis provides critical habitat for migratory birds like the black-winged kite. Environmental challenges include desertification and water scarcity. The oasis also features traditional architecture reminiscent of Berber settlements.",
+    },
+    factsAdvanced: {
+      de: ["4.000 Hektar Fläche", "300.000 Dattelpalmen", "20.000 Tonnen Datteln pro Jahr", "Sorte Deglet Nour", "Foggara-Bewässerungssysteme", "Lebensraum für Zugvögel"],
+      hu: ["4000 hektár terület", "300 000 datolyapálma", "20 000 tonna datolya évente", "Deglet Nour fajta", "Foggara öntözőcsatornák", "Vonuló madarak pihenőhelye"],
+      ro: ["4.000 hectare", "300.000 palmieri de curmale", "20.000 tone curmale anual", "Soiul Deglet Nour", "Canale de irigație foggara", "Habitat pentru păsări migratoare"],
+      en: ["4,000 hectares", "300,000 date palms", "20,000 tons of dates per year", "Deglet Nour variety", "Foggara irrigation channels", "Migratory bird habitat"],
+    },
+  },
   {
     id: "el-djem-gardens-life-v2",
     type: "kid-landmark",
     parent: "TN-MA",
     coords: [10.700, 35.300],
-    name: { de: "El Djem Familienpark", hu: "El Djem családi park", ro: "Parc pentru familii El Djem", en: "El Djem Family Park",
-image: "/poi-images/el-djem-gardens-life-v2.webp"
-},
+    name: { de: "El Djem Familienpark", hu: "El Djem családi park", ro: "Parc pentru familii El Djem", en: "El Djem Family Park"},
+    image: "/poi-images/el-djem-gardens-life-v2.webp",
     description: { de: "Ein Park, der Bildung und Unterhaltung rund um die Geschichte des antiken El Djem für Kinder bietet.", hu: "Park, amely oktatást és szórakozást kínál az ókori El Djem történetéről gyerekeknek.", ro: "Un parc care oferă educație și divertisment despre istoria anticului El Djem pentru copii.", en: "A park offering education and entertainment around the history of ancient El Djem for kids." },
     facts: {
       de: ["Historisches Lernen", "Spielplätze", "Grünfläche für Kinder", "Kultureller Ausflug"],
       hu: ["Történelmi tanulás", "Játszóterek", "Zöldterület gyerekeknek", "Kulturális kirándulás"],
       ro: ["Învățare istorică", "Locuri de joacă", "Spațiu verde pentru copii", "Excursie culturală"],
       en: ["Historical learning", "Playgrounds", "Green space for kids", "Cultural excursion"]
-    }, image: "/poi-images/el-djem-gardens-life-v2.webp"},
+    }, image: "/poi-images/el-djem-gardens-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der El Djem Family Park ist ein botanischer Garten und Freizeitpark nahe der antiken Stadt El Djem. Auf 15 Hektar bietet er mediterrane Gärten, einen Rosengarten mit 200 Rosenarten, einen Kräutergarten und einen kleinen Zoo mit einheimischen Tieren. Der Park wurde 2018 eröffnet und dient als Bildungszentrum für nachhaltige Landwirtschaft. Er beherbergt über 5.000 Pflanzenarten, darunter viele endemische tunesische Gewächse. Für Familien gibt es Spielplätze, Picknickbereiche und ein kleines Amphitheater. Der Park ist ein beliebtes Ausflugsziel mit jährlich 150.000 Besuchern. Der Eintritt beträgt 10 TND. Besonders bemerkenswert ist das Regenwassersammelsystem, das zur Bewässerung der Gärten verwendet wird.",
+      hu: "Az El Djem Family Park egy botanikus kert és családi szabadidőpark El Djem közelében. 15 hektáron mediterrán kerteket, 200 rózsafajtát bemutató rózsakertet, gyógynövénykertet és egy kis állatkertet foglal magában, ahol helyi állatok láthatók. A parkot 2018-ban nyitották meg, és fenntartható mezőgazdasági oktatóközpontként is funkcionál. Növénygyűjteménye több mint 5000 fajt számlál, köztük endemikus tunéziai növényeket. Családok számára játszóterek, piknikezőhelyek és egy kicsi amfiteátrum is rendelkezésre áll. A park évente 150 000 látogatót vonz. A belépőjegy ára 10 tunéziai dinár. Figyelemre méltó az esővíz-gyűjtő rendszere, amely a kertek öntözését szolgálja.",
+      ro: "Parcul Familial El Djem este o grădină botanică și parc de agrement lângă vechiul oraș El Djem. Pe 15 hectare, include grădini mediteraneene, o grădină de trandafiri cu 200 de soiuri, o grădină de plante medicinale și o mică grădină zoologică cu animale locale. Deschis în 2018, servește ca centru educațional pentru agricultura durabilă. Colecția sa cuprinde peste 5.000 de specii de plante, inclusiv endemice tunisiene. Parcul oferă locuri de joacă, zone de picnic și un mic amfiteatru. Atrage 150.000 de vizitatori anual. Prețul biletului este de 10 dinari tunisieni. Sistemul de colectare a apei de ploaie este utilizat pentru irigarea grădinilor.",
+      en: "El Djem Family Park is a botanical garden and family amusement park adjacent to the ancient city of El Djem. Sprawling over 15 hectares, it showcases Mediterranean-themed gardens, a rose garden with 200 varieties, a herb garden, and a small zoo featuring indigenous fauna. Opened in 2018, it functions as an educational hub for sustainable agriculture. The park hosts over 5,000 plant species, including several endemic to Tunisia. Facilities include playgrounds, picnic spots, and a mini amphitheater. Annual visitor count is around 150,000, with an entry fee of 10 TND. A notable feature is its rainwater harvesting system used for garden irrigation.",
+    },
+    factsAdvanced: {
+      de: ["15 Hektar Fläche", "200 Rosenarten", "5.000 Pflanzenarten", "2018 eröffnet", "150.000 Besucher jährlich", "Eintritt 10 TND"],
+      hu: ["15 hektár", "200 rózsafajta", "5000 növényfaj", "2018-ban nyílt", "150 000 látogató évente", "Belépő 10 TND"],
+      ro: ["15 hectare", "200 soiuri de trandafiri", "5.000 specii de plante", "Deschis în 2018", "150.000 vizitatori anual", "Preț bilet 10 TND"],
+      en: ["15 hectares", "200 rose varieties", "5,000 plant species", "Opened in 2018", "150,000 annual visitors", "Entry fee 10 TND"],
+    },
+  },
   {
     id: "bizerte-wildlife-park-life-v2",
     type: "animal-habitat",
     parent: "TN-BI",
     coords: [9.850, 37.250],
-    name: { de: "Bizerte Wildpark", hu: "Bizertai vadaspark", ro: "Parc pentru animale sălbatice Bizerte", en: "Bizerte Wildlife Park",
-image: "/poi-images/bizerte-wildlife-park-life-v2.webp"
-},
+    name: { de: "Bizerte Wildpark", hu: "Bizertai vadaspark", ro: "Parc pentru animale sălbatice Bizerte", en: "Bizerte Wildlife Park"},
+    image: "/poi-images/bizerte-wildlife-park-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das einheimische Wildtiere der nördlichen Küstenregion in Sicherheit bringt.", hu: "Védett terület, amely biztonságba helyezi az északi partvidék őshonos vadállatait.", ro: "O zonă protejată care adăpostește animale sălbatice native din regiunea coastei de nord.", en: "A protected area sheltering native wildlife of the northern coastal region." },
     facts: {
       de: ["Artenschutz", "Naturbildung", "Familienattraktion", "Einheimische Fauna"],
       hu: ["Fajvédelem", "Természetoktatás", "Családi látnivaló", "Őshonos fauna"],
       ro: ["Conservarea speciilor", "Educație despre natură", "Atracție pentru familii", "Faună nativă"],
       en: ["Species conservation", "Nature education", "Family attraction", "Native fauna"]
-    }, image: "/poi-images/bizerte-wildlife-park-life-v2.webp"},
+    }, image: "/poi-images/bizerte-wildlife-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bizerte Wildlife Park ist ein 80 Hektar großer Zoo und Naturschutzgebiet in der Region Bizerte im Norden Tunesiens. Er beherbergt über 1.000 Tiere aus 120 Arten, darunter Löwen, Giraffen, Zebras und verschiedene Affenarten. Der Park legt großen Wert auf Arterhaltung und hat Erfolge bei der Zucht bedrohter Arten wie dem Atlaslöwen und der Mendesantilope. Es gibt weitläufige Gehege, die die natürlichen Lebensräume nachbilden. Der Park bietet auch Safari-Touren mit dem Geländewagen an. Jährlich besuchen etwa 200.000 Menschen den Park. Die Bildungsabteilung führt regelmäßig Workshops für Schulklassen durch. Der Park ist ganzjährig geöffnet, Eintritt 20 TND für Erwachsene.",
+      hu: "A Bizerte Vadvédelmi Park egy 80 hektáros állatkert és természetvédelmi terület Tunézia északi részén, Bizerte régióban. Több mint 1000 állatnak ad otthont 120 fajból, köztük oroszlánoknak, zsiráfoknak, zebráknak és különféle majomfajoknak. A park kiemelt hangsúlyt fektet a fajmegőrzésre, sikeresen szaporít veszélyeztetett fajokat, mint az atlaszi oroszlán és a mendesz-antilop. A kifutók tágasak és a természetes élőhelyeket utánozzák. A park terepjárós szafaritúrákat is kínál. Évente mintegy 200 000 látogató keresi fel. Az oktatási részleg rendszeresen tart workshopokat iskolai csoportok számára. A park egész évben nyitva tart, a belépőjegy felnőtteknek 20 TND.",
+      ro: "Parcul pentru Faună Sălbatică Bizerte este o grădină zoologică și rezervație naturală de 80 de hectare situată în regiunea Bizerte din nordul Tunisiei. Adăpostește peste 1.000 de animale din 120 de specii, inclusiv lei, girafe, zebre și diverse maimuțe. Parcul pune accent pe conservarea speciilor, având succes în reproducerea unor specii amenințate precum leul Atlas și antilopa Mendez. Incintele sunt spațioase și imită habitatele naturale. Oferă tururi de safari cu vehicule de teren. Aproximativ 200.000 de oameni îl vizitează anual. Secțiunea educațională organizează ateliere regulate pentru școli. Parcul este deschis tot anul, biletul de intrare costă 20 de dinari tunisieni pentru adulți.",
+      en: "Bizerte Wildlife Park is an 80-hectare zoo and nature reserve in northern Tunisia. It houses over 1,000 animals from 120 species, including lions, giraffes, zebras, and primates. The park focuses on conservation, successfully breeding endangered species like the Barbary lion and the Mhorr gazelle. Enclosures are spacious and mimic natural habitats; visitors can take guided safari tours in off-road vehicles. The park attracts about 200,000 visitors annually and offers educational workshops for schools. Open year-round, admission is 20 TND for adults. Notable for its commitment to rewilding programs and collaboration with international zoos.",
+    },
+    factsAdvanced: {
+      de: ["80 Hektar", "1.000 Tiere", "120 Tierarten", "200.000 Besucher jährlich", "Eintritt 20 TND", "Zucht des Atlaslöwen"],
+      hu: ["80 hektár", "1000 állat", "120 állatfaj", "200 000 látogató évente", "Belépő 20 TND", "Atlaszi oroszlán szaporítás"],
+      ro: ["80 hectare", "1.000 animale", "120 specii", "200.000 vizitatori anual", "Preț bilet 20 TND", "Reproducerea leului Atlas"],
+      en: ["80 hectares", "1,000 animals", "120 species", "200,000 annual visitors", "Entry fee 20 TND", "Barbary lion breeding program"],
+    },
+  },
   {
     id: "medenine-ksar-kids-life-v2",
     type: "kid-landmark",
     parent: "TN-MD",
     coords: [10.500, 33.350],
-    name: { de: "Medenine Entdeckerpark", hu: "Medenine felfedezőpark", ro: "Parc de exploratori Medenine", en: "Medenine Explorer Park",
-image: "/poi-images/medenine-ksar-kids-life-v2.webp"
-},
+    name: { de: "Medenine Entdeckerpark", hu: "Medenine felfedezőpark", ro: "Parc de exploratori Medenine", en: "Medenine Explorer Park"},
+    image: "/poi-images/medenine-ksar-kids-life-v2.webp",
     description: { de: "Ein Abenteuerspielplatz, der Themen aus der ksar-Architektur für Kinder spielerisch aufbereitet.", hu: "Kalandjátszótér, amely játékosan dolgozza fel a ksar-építészet témáit a gyerekek számára.", ro: "Un loc de joacă de aventură care prezintă teme din arhitectura ksar în mod jucăuș pentru copii.", en: "An adventure playground that playfully presents themes from ksar architecture for kids." },
     facts: {
       de: ["Spielerisches Lernen", "Architektur-Einführung", "Abenteuer für Familien", "Regionales Erbe"],
       hu: ["Játékos tanulás", "Építészeti bevezető", "Kaland családoknak", "Regionális örökség"],
       ro: ["Învățare jucăușă", "Introducere în arhitectură", "Aventură pentru familii", "Moștenire regională"],
       en: ["Playful learning", "Architecture introduction", "Adventure for families", "Regional heritage"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Medenine Explorer Park ist ein interaktives Freilichtmuseum und Abenteuerpark in der Region Medenine im Süden Tunesiens. Auf 10 Hektar werden traditionelle Berberarchitektur und unterirdische Wohnhöhlen (Ksour) nachgebildet. Der Park bietet Workshops zu Handwerkskünsten wie Töpferei und Teppichweberei. Es gibt einen Klettergarten, einen Hindernisparcours und einen Streichelzoo. Er wurde 2020 eröffnet und zieht jährlich 80.000 Besucher an. Der Park dient auch als Kulturzentrum mit Vorführungen traditioneller Musik und Tänze. Eintritt 15 TND. Besonders sehenswert ist die Rekonstruktion eines Ksar mit 200 Kornkammern.",
+      hu: "A Medenine Explorer Park egy interaktív szabadtéri múzeum és kalandpark Tunézia déli részén, Medenine régióban. 10 hektáron berber építészeti elemeket és föld alatti lakóüregeket (ksour) mutat be. A park kézműves workshopokat kínál, például fazekasságot és szőnyegszövést. Tartalmaz mászókertet, akadálypályát és simogató állatkertet. 2020-ban nyílt meg, évente 80 000 látogatót vonz. Kulturális központként is szolgál hagyományos zenei és táncbemutatókkal. Belépőjegy 15 TND. Kiemelkedő látványosság egy Ksar rekonstrukciója 200 magtárral.",
+      ro: "Parcul Explorator Medenine este un muzeu interactiv în aer liber și parc de aventură situat în regiunea Medenine, sudul Tunisiei. Pe 10 hectare, reconstituie arhitectura tradițională berberă și locuințele subterane (ksour). Oferă ateliere de meșteșuguri precum olăritul și țesutul covoarelor. Include un parc de cățărare, un traseu cu obstacole și o grădină zoologică de contact. Deschis în 2020, atrage 80.000 de vizitatori anual. Servește ca centru cultural cu spectacole de muzică și dans tradițional. Prețul biletului este de 15 dinari tunisieni. O atracție notabilă este reconstrucția unui Ksar cu 200 de hambare.",
+      en: "Medenine Explorer Park is an interactive open-air museum and adventure park in southern Tunisia. It spans 10 hectares, featuring replicas of traditional Berber architecture and underground granaries (ksour). The park offers pottery and carpet-weaving workshops, a climbing garden, obstacle course, and petting zoo. Opened in 2020, it sees 80,000 visitors annually. It also functions as a cultural venue for traditional music and dance performances. Admission is 15 TND. A highlight is the reconstruction of a Ksar with 200 storage chambers, illustrating the region's nomadic heritage.",
+    },
+    factsAdvanced: {
+      de: ["10 Hektar", "2020 eröffnet", "80.000 Besucher jährlich", "Eintritt 15 TND", "200 Kornkammern im Ksar", "Workshops zu Töpferei und Weberei"],
+      hu: ["10 hektár", "2020-ban nyílt", "80 000 látogató évente", "Belépő 15 TND", "200 magtár a Ksarban", "Fazekas- és szövőworkshop"],
+      ro: ["10 hectare", "Deschis în 2020", "80.000 vizitatori anual", "Preț bilet 15 TND", "200 hambare în Ksar", "Ateliere de olărit și țesut"],
+      en: ["10 hectares", "Opened in 2020", "80,000 annual visitors", "Entry fee 15 TND", "200 storage chambers in Ksar", "Pottery and weaving workshops"],
+    },
   }
 ];
 

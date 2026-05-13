@@ -195,32 +195,7 @@ export const hondurasCities: POI[] = [
       en: ["No bridges span the river", "Crucial for ecotourism and research", "Threatened by hydroelectric dam projects"]
     },
     length: 500, image: "/poi-images/hn-rio-patuca.webp"},
-  {
-    id: "hn-cusuco",
-    type: "forest",
-    parent: "HN",
-    coords: [-88.2111, 15.4967],
-    name: { de: "Cusuco Nationalpark", hu: "Cusuco Nemzeti Park", ro: "Parcul Național Cusuco", en: "Cusuco National Park" },
-    description: { de: "Ein bekannter Nebelwald mit einer extrem hohen Artenvielfalt und seltenen Farnen.", hu: "Híres köderdő rendkívül magas biodiverzitással és ritka páfrányfajokkal.", ro: "O pădure de ceață renumită pentru biodiversitatea extrem de bogată și speciile rare de ferigi.", en: "A renowned cloud forest with extremely high biodiversity and rare fern species." },
-    descriptionAdvanced: {
-      de: "Der Park beherbergt viele endemische Arten, darunter Amphibien und Insekten, die nirgendwo sonst auf der Welt vorkommen. Er ist ein wichtiges Ziel für internationale wissenschaftliche Expeditionen.",
-      hu: "A park számos endemikus fajnak ad otthont, köztük olyan kétéltűeknek és rovaroknak, amelyek sehol máshol nem találhatók meg a világon. Fontos célpontja a nemzetközi tudományos expedícióknak.",
-      ro: "Parcul găzduiește multe specii endemice, inclusiv amfibieni și insecte care nu se mai găsesc nicăieri în lume. Este o destinație importantă pentru expedițiile științifice internaționale.",
-      en: "The park is home to numerous endemic species, including amphibians and insects found nowhere else on Earth. It is a premier global destination for international scientific research expeditions."
-    },
-    facts: {
-      de: ["Hochland-Nebelwald", "Viele endemische Arten", "Reich an Farnen", "Gefährdete Amphibien"],
-      hu: ["Magasföldi köderdő", "Számos endemikus faj", "Páfrányokban gazdag", "Veszélyeztetett kétéltűek"],
-      ro: ["Pădure de ceață montană", "Multe specii endemice", "Bogat în ferigi", "Amfibieni pe cale de dispariție"],
-      en: ["Highland cloud forest", "Many endemic species", "Rich in tree ferns", "Endangered amphibian habitat"]
-    },
-    factsAdvanced: {
-      de: ["Beinhaltet die Bergkette Merendón", "Über 250 Vogelarten identifiziert", "Wichtiges Wassereinzugsgebiet"],
-      hu: ["A Merendón-hegységet foglalja magában", "Több mint 250 madárfajt azonosítottak", "Fontos vízgyűjtő terület"],
-      ro: ["Include lanțul muntos Merendón", "Peste 250 de specii de păsări identificate", "Bazin de recepție important"],
-      en: ["Encompasses the Merendón mountain range", "Over 250 bird species identified", "Crucial regional watershed"]
-    }, image: "/poi-images/hn-cusuco.webp"},
-  {
+    {
     id: "hn-ticamaya",
     type: "lake",
     parent: "HN",
@@ -428,33 +403,7 @@ export const hondurasLandmarks: POI[] = [
       ro: ["Înălțimea vârfului: 2435 m", "Conține diverse zone de vegetație", "Centru pentru observarea păsărilor"],
       en: ["Summit elevation: 2,435 m", "Features several distinct vegetation zones", "Premier destination for birdwatching"]
     }, image: "/poi-images/hn-picobonito.webp"},
-  {
-    id: "hn-yojoa",
-    type: "lake",
-    parent: "HN",
-    coords: [-87.9833, 14.8667],
-    name: { de: "Yojoa-See", hu: "Yojoa-tó", ro: "Lacul Yojoa", en: "Lake Yojoa" },
-    description: { de: "Der größte natürliche See des Landes, beliebt für Vogelbeobachtungen.", hu: "Az ország legnagyobb természetes tava, kedvelt madármegfigyelő hely.", ro: "Cel mai mare lac natural din țará, popular pentru observarea păsărilor.", en: "The country's largest natural lake, popular for bird watching." },
-    descriptionAdvanced: {
-      de: "Der See entstand in einer Senke zwischen zwei Vulkanfeldern. Er ist ein Paradies für Vogelliebhaber, da hier über 500 Arten gesichtet wurden – das sind mehr als die Hälfte aller Vogelarten in Honduras.",
-      hu: "A tó két vulkáni terület közötti medencében keletkezett. A madárbarátok paradicsoma, hiszen több mint 500 fajt figyeltek meg itt – ez Honduras összes madárfajának több mint fele.",
-      ro: "Lacul s-a format într-o depresiune între două câmpuri vulcanice. Este un paradis pentru iubitorii de păsări, deoarece aici au fost observate peste 500 de specii – adică mai mult de jumătate din toate speciile de păsări din Honduras.",
-      en: "Lake Yojoa sits in a depression formed between two volcanic fields. It is a world-class birding destination, with over 500 species recorded—more than half of all bird species found in Honduras."
-    },
-    facts: {
-      de: ["Fläche: 79 km²", "Größter natürlicher See", "Über 500 Vogelarten", "Liegt auf 637 m Höhe"],
-      hu: ["Terület: 79 km²", "Legnagyobb természetes tó", "Több mint 500 madárfaj", "637 m magasságban fekszik"],
-      ro: ["Suprafață: 79 km²", "Cel mai mare lac natural", "Peste 500 specii de păsări", "Situat la 637 m altitudine"],
-      en: ["Area: 79 km²", "Largest natural lake", "Over 500 bird species", "Elevation: 637 m"]
-    },
-    factsAdvanced: {
-      de: ["Vulkanischen Ursprungs", "Berühmt für gebratenen Fisch", "Umgeben von zwei Nationalparks"],
-      hu: ["Vulkáni eredetű", "Híres a sült halról", "Két nemzeti park veszi körül"],
-      ro: ["De origine vulcanică", "Faimos pentru peștele prăjit", "Înconjurat de două parcuri naționale"],
-      en: ["Volcanic in origin", "Famous for its lakeside fried fish", "Surrounded by two national parks"]
-    },
-    area: 79, image: "/poi-images/hn-yojoa.webp"},
-  {
+    {
     id: "hn-cayoscochinos",
     type: "island",
     parent: "HN",

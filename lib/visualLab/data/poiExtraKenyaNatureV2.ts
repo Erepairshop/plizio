@@ -7,9 +7,8 @@ export const poiExtraKenyaNatureV2: POI[] = [
     type: "lake",
     parent: "KE-30",
     coords: [36.0333, 3.5333],
-    name: { de: "Turkana-See", hu: "Turkana-tÃƒÆ’ÂÂ³", ro: "Lacul Turkana", en: "Lake Turkana",
-image: "/poi-images/lake-turkana-nature-v2.webp"
-},
+    name: { de: "Turkana-See", hu: "Turkana-tÃƒÆ’ÂÂ³", ro: "Lacul Turkana", en: "Lake Turkana"},
+    image: "/poi-images/lake-turkana-nature-v2.webp",
     description: { de: "Der grÃƒÆ’ÂÂ¶ÃƒÆ’Ã…Â¸te permanente WÃƒÆ’ÂÂ¼stensee der Welt.", hu: "A vilÃƒÆ’ÂÂ¡g legnagyobb ÃƒÆ’ÂÂ¡llandÃƒÆ’ÂÂ³ sivatagi tava.", ro: "Cel mai mare lac deÃƒË†ââ€žÂ¢ertic permanent din lume.", en: "The world's largest permanent desert lake." },
     facts: {
       de: ["UNESCO-Welterbe", "Alkalihaltiges Wasser"],
@@ -34,9 +33,8 @@ image: "/poi-images/lake-turkana-nature-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [37.3083, -0.1522],
-    name: { de: "Mount Kenya", hu: "Kenya-hegy", ro: "Muntele Kenya", en: "Mount Kenya",
-image: "/poi-images/mount-kenya-nature-v2.webp"
-},
+    name: { de: "Mount Kenya", hu: "Kenya-hegy", ro: "Muntele Kenya", en: "Mount Kenya"},
+    image: "/poi-images/mount-kenya-nature-v2.webp",
     description: { de: "Der zweithÃƒÆ’ÂÂ¶chste Berg Afrikas.", hu: "Afrika mÃƒÆ’ÂÂ¡sodik legmagasabb hegye.", ro: "Al doilea cel mai ÃƒÆ’ÂÂ®nalt munte din Africa.", en: "The second highest mountain in Africa." },
     facts: {
       de: ["Ehemaliger Vulkan", "Gletscherschwund"],
@@ -61,9 +59,8 @@ image: "/poi-images/mount-kenya-nature-v2.webp"
     type: "lake",
     parent: "KE-43",
     coords: [33.0, -1.0],
-    name: { de: "Viktoriasee", hu: "ViktÃƒÆ’ÂÂ³ria-tÃƒÆ’ÂÂ³", ro: "Lacul Victoria", en: "Lake Victoria",
-image: "/poi-images/lake-victoria-nature-v2.webp"
-},
+    name: { de: "Viktoriasee", hu: "ViktÃƒÆ’ÂÂ³ria-tÃƒÆ’ÂÂ³", ro: "Lacul Victoria", en: "Lake Victoria"},
+    image: "/poi-images/lake-victoria-nature-v2.webp",
     description: { de: "Der grÃƒÆ’ÂÂ¶ÃƒÆ’Ã…Â¸te See Afrikas.", hu: "Afrika legnagyobb tava.", ro: "Cel mai mare lac din Africa.", en: "The largest lake in Africa." },
     facts: {
       de: ["Nil-Quelle", "GrÃƒÆ’ÂÂ¶ÃƒÆ’Ã…Â¸ter tropischer See"],
@@ -88,9 +85,8 @@ image: "/poi-images/lake-victoria-nature-v2.webp"
     type: "forest",
     parent: "KE-31",
     coords: [38.5, -3.0],
-    name: { de: "Tsavo-Waldgebiet", hu: "Tsavo-erdÃƒâ€¦ââ‚¬Ëœ", ro: "PÃƒâ€žÃ†â€™durea Tsavo", en: "Tsavo Forest",
-image: "/poi-images/tsavo-forest-nature-v2.webp"
-},
+    name: { de: "Tsavo-Waldgebiet", hu: "Tsavo-erdÃƒâ€¦ââ‚¬Ëœ", ro: "PÃƒâ€žÃ†â€™durea Tsavo", en: "Tsavo Forest"},
+    image: "/poi-images/tsavo-forest-nature-v2.webp",
     description: { de: "Ein bedeutendes Wald- und Savannengebiet.", hu: "JelentÃƒâ€¦ââ‚¬Ëœs erdÃƒâ€¦ââ‚¬Ëœ- ÃƒÆ’ÂÂ©s szavannaterÃƒÆ’ÂÂ¼let.", ro: "O zonÃƒâ€žÃ†â€™ forestierÃƒâ€žÃ†â€™ ÃƒË†ââ€žÂ¢i de savanÃƒâ€žÃ†â€™ importantÃƒâ€žÃ†â€™.", en: "An important forest and savanna area." },
     facts: {
       de: ["GroÃƒÆ’Ã…Â¸es Wildtierreservat", "Rote Erde"],
@@ -115,9 +111,8 @@ image: "/poi-images/tsavo-forest-nature-v2.webp"
     type: "river",
     parent: "KE-30",
     coords: [39.5, -2.5],
-    name: { de: "Athi-Fluss", hu: "Athi-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Athi", en: "Athi River",
-image: "/poi-images/athiriver-nature-v2.webp"
-},
+    name: { de: "Athi-Fluss", hu: "Athi-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Athi", en: "Athi River"},
+    image: "/poi-images/athiriver-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss in Kenia.", hu: "Kenya jelentÃƒâ€¦ââ‚¬Ëœs folyÃƒÆ’ÂÂ³ja.", ro: "Un rÃƒÆ’ÂÂ¢u important ÃƒÆ’ÂÂ®n Kenya.", en: "A major river in Kenya." },
     facts: {
       de: ["MÃƒÆ’ÂÂ¼ndet in den Indischen Ozean", "Wichtig fÃƒÆ’ÂÂ¼r die Landwirtschaft"],
@@ -142,9 +137,8 @@ image: "/poi-images/athiriver-nature-v2.webp"
     type: "river",
     parent: "KE-26",
     coords: [40.5, -2.5],
-    name: { de: "Tana-Fluss", hu: "Tana-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Tana", en: "Tana River",
-image: "/poi-images/tana-river-nature-v2.webp"
-},
+    name: { de: "Tana-Fluss", hu: "Tana-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Tana", en: "Tana River"},
+    image: "/poi-images/tana-river-nature-v2.webp",
     description: { de: "Der lÃƒÆ’ÂÂ¤ngste Fluss Kenias.", hu: "Kenya leghosszabb folyÃƒÆ’ÂÂ³ja.", ro: "Cel mai lung rÃƒÆ’ÂÂ¢u din Kenya.", en: "The longest river in Kenya." },
     facts: {
       de: ["Wichtig fÃƒÆ’ÂÂ¼r Wasserkraft", "Erstreckt sich ÃƒÆ’ÂÂ¼ber 800 km"],
@@ -169,9 +163,8 @@ image: "/poi-images/tana-river-nature-v2.webp"
     type: "lake",
     parent: "KE-26",
     coords: [36.0833, -0.3667],
-    name: { de: "Nakuru-See", hu: "Nakuru-tÃƒÆ’ÂÂ³", ro: "Lacul Nakuru", en: "Lake Nakuru",
-image: "/poi-images/lake-nakuru-nature-v2.webp"
-},
+    name: { de: "Nakuru-See", hu: "Nakuru-tÃƒÆ’ÂÂ³", ro: "Lacul Nakuru", en: "Lake Nakuru"},
+    image: "/poi-images/lake-nakuru-nature-v2.webp",
     description: { de: "Ein sodahaltiger See, bekannt fÃƒÆ’ÂÂ¼r Flamingos.", hu: "SzÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³, hÃƒÆ’ÂÂ­res a flamingÃƒÆ’ÂÂ³krÃƒÆ’ÂÂ³l.", ro: "Un lac alcalin, cunoscut pentru flamingo.", en: "A soda lake famous for flamingos." },
     facts: {
       de: ["UNESCO-Welterbe", "Alkalische Lebensumwelt"],
@@ -196,9 +189,8 @@ image: "/poi-images/lake-nakuru-nature-v2.webp"
     type: "lake",
     parent: "KE-30",
     coords: [36.1, 0.2333],
-    name: { de: "Bogoria-See", hu: "Bogoria-tÃƒÆ’ÂÂ³", ro: "Lacul Bogoria", en: "Lake Bogoria",
-image: "/poi-images/lake-bogoria-nature-v2.webp"
-},
+    name: { de: "Bogoria-See", hu: "Bogoria-tÃƒÆ’ÂÂ³", ro: "Lacul Bogoria", en: "Lake Bogoria"},
+    image: "/poi-images/lake-bogoria-nature-v2.webp",
     description: { de: "Ein vulkanisch aktiver Sodasee.", hu: "VulkÃƒÆ’ÂÂ¡nilag aktÃƒÆ’ÂÂ­v szÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³.", ro: "Un lac alcalin activ vulcanic.", en: "A volcanically active soda lake." },
     facts: {
       de: ["Geysire", "HeiÃƒÆ’Ã…Â¸e Quellen"],
@@ -223,9 +215,8 @@ image: "/poi-images/lake-bogoria-nature-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [35.45, 1.25],
-    name: { de: "Cherangani-HÃƒÆ’ÂÂ¼gel", hu: "Cherangani-dombsÃƒÆ’ÂÂ¡g", ro: "Dealurile Cherangani", en: "Cherangani Hills",
-image: "/poi-images/cherangani-hills-nature-v2.webp"
-},
+    name: { de: "Cherangani-HÃƒÆ’ÂÂ¼gel", hu: "Cherangani-dombsÃƒÆ’ÂÂ¡g", ro: "Dealurile Cherangani", en: "Cherangani Hills"},
+    image: "/poi-images/cherangani-hills-nature-v2.webp",
     description: { de: "Eine Bergkette im westlichen Kenia.", hu: "Hegyvonulat Nyugat-KenyÃƒÆ’ÂÂ¡ban.", ro: "Un lanÃƒË†ââ‚¬Âº muntos ÃƒÆ’ÂÂ®n vestul Keniei.", en: "A mountain range in western Kenya." },
     facts: {
       de: ["Einzugsgebiet fÃƒÆ’ÂÂ¼r FlÃƒÆ’ÂÂ¼sse", "Hochland"],
@@ -250,9 +241,8 @@ image: "/poi-images/cherangani-hills-nature-v2.webp"
     type: "forest",
     parent: "KE-20",
     coords: [37.0, 0.25],
-    name: { de: "Laikipia-Plateau", hu: "Laikipia-felfÃƒÆ’ÂÂ¶ld", ro: "Platoul Laikipia", en: "Laikipia Plateau",
-image: "/poi-images/laikipia-plateau-nature-v2.webp"
-},
+    name: { de: "Laikipia-Plateau", hu: "Laikipia-felfÃƒÆ’ÂÂ¶ld", ro: "Platoul Laikipia", en: "Laikipia Plateau"},
+    image: "/poi-images/laikipia-plateau-nature-v2.webp",
     description: { de: "Ein bedeutendes Hochlandgebiet.", hu: "Fontos felfÃƒÆ’ÂÂ¶ldi terÃƒÆ’ÂÂ¼let.", ro: "O zonÃƒâ€žÃ†â€™ de podiÃƒË†ââ€žÂ¢ importantÃƒâ€žÃ†â€™.", en: "A significant highland area." },
     facts: {
       de: ["Wildtierkorridor", "Savannenlandschaft"],
@@ -277,9 +267,8 @@ image: "/poi-images/laikipia-plateau-nature-v2.webp"
     type: "lake",
     parent: "KE-26",
     coords: [36.3667, -0.7833],
-    name: { de: "Naivasha-See", hu: "Naivasha-tÃƒÆ’ÂÂ³", ro: "Lacul Naivasha", en: "Lake Naivasha",
-image: "/poi-images/lake-naivasha-nature-v2.webp"
-},
+    name: { de: "Naivasha-See", hu: "Naivasha-tÃƒÆ’ÂÂ³", ro: "Lacul Naivasha", en: "Lake Naivasha"},
+    image: "/poi-images/lake-naivasha-nature-v2.webp",
     description: { de: "Ein SÃƒÆ’ÂÂ¼ÃƒÆ’Ã…Â¸wassersee im Rift Valley.", hu: "ÃƒÆ’ââ‚¬Â°desvÃƒÆ’ÂÂ­zi tÃƒÆ’ÂÂ³ a Rift-vÃƒÆ’ÂÂ¶lgyben.", ro: "Un lac cu apÃƒâ€žÃ†â€™ dulce ÃƒÆ’ÂÂ®n Rift Valley.", en: "A freshwater lake in the Rift Valley." },
     facts: {
       de: ["Vogelparadies", "Hoch gelegen"],
@@ -304,9 +293,8 @@ image: "/poi-images/lake-naivasha-nature-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [36.7, -0.4],
-    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegysÃƒÆ’ÂÂ©g", ro: "MunÃƒË†ââ‚¬Âºii Aberdare", en: "Aberdare Range",
-image: "/poi-images/aberdare-range-nature-v2.webp"
-},
+    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegysÃƒÆ’ÂÂ©g", ro: "MunÃƒË†ââ‚¬Âºii Aberdare", en: "Aberdare Range"},
+    image: "/poi-images/aberdare-range-nature-v2.webp",
     description: { de: "Eine vulkanische Gebirgskette.", hu: "Vulkanikus hegylÃƒÆ’ÂÂ¡nc.", ro: "Un lanÃƒË†ââ‚¬Âº muntos vulcanic.", en: "A volcanic mountain range." },
     facts: {
       de: ["Dichter Regenwald", "KÃƒÆ’ÂÂ¼hles Klima"],
@@ -331,9 +319,8 @@ image: "/poi-images/aberdare-range-nature-v2.webp"
     type: "lake",
     parent: "KE-30",
     coords: [36.2667, -1.8833],
-    name: { de: "Magadi-See", hu: "Magadi-tÃƒÆ’ÂÂ³", ro: "Lacul Magadi", en: "Lake Magadi",
-image: "/poi-images/lake-magadi-nature-v2.webp"
-},
+    name: { de: "Magadi-See", hu: "Magadi-tÃƒÆ’ÂÂ³", ro: "Lacul Magadi", en: "Lake Magadi"},
+    image: "/poi-images/lake-magadi-nature-v2.webp",
     description: { de: "Ein extremer Sodasee.", hu: "ExtrÃƒÆ’ÂÂ©m szÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³.", ro: "Un lac alcalin extrem.", en: "An extreme soda lake." },
     facts: {
       de: ["Trona-Vorkommen", "Sehr salzhaltig"],
@@ -358,9 +345,8 @@ image: "/poi-images/lake-magadi-nature-v2.webp"
     type: "river",
     parent: "KE-33",
     coords: [34.0, -1.5],
-    name: { de: "Mara-Fluss", hu: "Mara-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Mara", en: "Mara River",
-image: "/poi-images/mara-river-nature-v2.webp"
-},
+    name: { de: "Mara-Fluss", hu: "Mara-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Mara", en: "Mara River"},
+    image: "/poi-images/mara-river-nature-v2.webp",
     description: { de: "BerÃƒÆ’ÂÂ¼hmt fÃƒÆ’ÂÂ¼r die Tierwanderung.", hu: "HÃƒÆ’ÂÂ­res az ÃƒÆ’ÂÂ¡llatok vÃƒÆ’ÂÂ¡ndorlÃƒÆ’ÂÂ¡sÃƒÆ’ÂÂ¡rÃƒÆ’ÂÂ³l.", ro: "Faimos pentru migraÃƒË†ââ‚¬Âºia animalelor.", en: "Famous for the animal migration." },
     facts: {
       de: ["ÃƒÆ’Ã…â€œberquert durch Zebras", "Lebensader der Serengeti"],
@@ -385,9 +371,8 @@ image: "/poi-images/mara-river-nature-v2.webp"
     type: "lake",
     parent: "KE-26",
     coords: [36.25, -0.2833],
-    name: { de: "Elementaita-See", hu: "Elementaita-tÃƒÆ’ÂÂ³", ro: "Lacul Elementaita", en: "Lake Elementaita",
-image: "/poi-images/lake-elementaita-nature-v2.webp"
-},
+    name: { de: "Elementaita-See", hu: "Elementaita-tÃƒÆ’ÂÂ³", ro: "Lacul Elementaita", en: "Lake Elementaita"},
+    image: "/poi-images/lake-elementaita-nature-v2.webp",
     description: { de: "Ein sodahaltiger Kratersee.", hu: "SzÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s krÃƒÆ’ÂÂ¡tertÃƒÆ’ÂÂ³.", ro: "Un lac crater alcalin.", en: "A soda crater lake." },
     facts: {
       de: ["UNESCO-Welterbe", "Flamingo-Lebensraum"],
@@ -412,9 +397,8 @@ image: "/poi-images/lake-elementaita-nature-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [34.55, 1.1],
-    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon",
-image: "/poi-images/elgon-mountain-nature-v2.webp"
-},
+    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon"},
+    image: "/poi-images/elgon-mountain-nature-v2.webp",
     description: { de: "Ein riesiger erloschener Schildvulkan.", hu: "Hatalmas kialudt pajzsvulkÃƒÆ’ÂÂ¡n.", ro: "Un vulcan scut uriaÃƒË†ââ€žÂ¢ stins.", en: "A huge extinct shield volcano." },
     facts: {
       de: ["GrÃƒÆ’ÂÂ¶ÃƒÆ’Ã…Â¸te Caldera der Welt", "Grenzberg zu Uganda"],
@@ -439,9 +423,8 @@ image: "/poi-images/elgon-mountain-nature-v2.webp"
     type: "river",
     parent: "KE-43",
     coords: [34.0, 0.0],
-    name: { de: "Yala-Fluss", hu: "Yala-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Yala", en: "Yala River",
-image: "/poi-images/yala-river-nature-v2.webp"
-},
+    name: { de: "Yala-Fluss", hu: "Yala-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Yala", en: "Yala River"},
+    image: "/poi-images/yala-river-nature-v2.webp",
     description: { de: "MÃƒÆ’ÂÂ¼ndet in den Viktoriasee.", hu: "A ViktÃƒÆ’ÂÂ³ria-tÃƒÆ’ÂÂ³ba ÃƒÆ’ÂÂ¶mlik.", ro: "Se varsÃƒâ€žÃ†â€™ ÃƒÆ’ÂÂ®n Lacul Victoria.", en: "Flows into Lake Victoria." },
     facts: {
       de: ["Wichtiges Feuchtgebiet", "Westliches Hochland"],
@@ -466,9 +449,8 @@ image: "/poi-images/yala-river-nature-v2.webp"
     type: "lake",
     parent: "KE-20",
     coords: [36.4, -0.2],
-    name: { de: "Ol-Bolossat-See", hu: "Ol-Bolossat-tÃƒÆ’ÂÂ³", ro: "Lacul Ol-Bolossat", en: "Lake Ol Bolossat",
-image: "/poi-images/lake-ol-bolossat-nature-v2.webp"
-},
+    name: { de: "Ol-Bolossat-See", hu: "Ol-Bolossat-tÃƒÆ’ÂÂ³", ro: "Lacul Ol-Bolossat", en: "Lake Ol Bolossat"},
+    image: "/poi-images/lake-ol-bolossat-nature-v2.webp",
     description: { de: "Der einzige See in der Zentralprovinz.", hu: "Az egyetlen tÃƒÆ’ÂÂ³ a kÃƒÆ’ÂÂ¶zponti tartomÃƒÆ’ÂÂ¡nyban.", ro: "Singurul lac din provincia centralÃƒâ€žÃ†â€™.", en: "The only lake in the Central Province." },
     facts: {
       de: ["Wichtig fÃƒÆ’ÂÂ¼r VÃƒÆ’ÂÂ¶gel", "SÃƒÆ’ÂÂ¼ÃƒÆ’Ã…Â¸wasser"],
@@ -493,9 +475,8 @@ image: "/poi-images/lake-ol-bolossat-nature-v2.webp"
     type: "river",
     parent: "KE-26",
     coords: [34.0, 0.2],
-    name: { de: "Nzoia-Fluss", hu: "Nzoia-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Nzoia", en: "Nzoia River",
-image: "/poi-images/nzoia-river-nature-v2.webp"
-},
+    name: { de: "Nzoia-Fluss", hu: "Nzoia-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Nzoia", en: "Nzoia River"},
+    image: "/poi-images/nzoia-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss im Westen.", hu: "JelentÃƒâ€¦ââ‚¬Ëœs folyÃƒÆ’ÂÂ³ nyugaton.", ro: "Un rÃƒÆ’ÂÂ¢u important ÃƒÆ’ÂÂ®n vest.", en: "A major river in the west." },
     facts: {
       de: ["Landwirtschaftliche Nutzung", "Quellen im Cherangani-Gebirge"],
@@ -520,9 +501,8 @@ image: "/poi-images/nzoia-river-nature-v2.webp"
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.6],
-    name: { de: "Baringo-See", hu: "Baringo-tÃƒÆ’ÂÂ³", ro: "Lacul Baringo", en: "Lake Baringo",
-image: "/poi-images/lake-baringo-nature-v2.webp"
-},
+    name: { de: "Baringo-See", hu: "Baringo-tÃƒÆ’ÂÂ³", ro: "Lacul Baringo", en: "Lake Baringo"},
+    image: "/poi-images/lake-baringo-nature-v2.webp",
     description: { de: "Ein SÃƒÆ’ÂÂ¼ÃƒÆ’Ã…Â¸wassersee im Rift Valley.", hu: "ÃƒÆ’ââ‚¬Â°desvÃƒÆ’ÂÂ­zi tÃƒÆ’ÂÂ³ a Rift-vÃƒÆ’ÂÂ¶lgyben.", ro: "Un lac cu apÃƒâ€žÃ†â€™ dulce ÃƒÆ’ÂÂ®n Rift Valley.", en: "A freshwater lake in the Rift Valley." },
     facts: {
       de: ["Vogelartenvielfalt", "Wichtiges Schutzgebiet"],
@@ -547,9 +527,8 @@ image: "/poi-images/lake-baringo-nature-v2.webp"
     type: "mountain",
     parent: "KE-25",
     coords: [36.9, 2.7],
-    name: { de: "Mount Kulal", hu: "Kulal-hegy", ro: "Muntele Kulal", en: "Mount Kulal",
-image: "/poi-images/mt-kulal-nature-v2.webp"
-},
+    name: { de: "Mount Kulal", hu: "Kulal-hegy", ro: "Muntele Kulal", en: "Mount Kulal"},
+    image: "/poi-images/mt-kulal-nature-v2.webp",
     description: { de: "Ein BiosphÃƒÆ’ÂÂ¤renreservat im Norden.", hu: "BioszfÃƒÆ’ÂÂ©ra-rezervÃƒÆ’ÂÂ¡tum ÃƒÆ’ÂÂ©szakon.", ro: "RezervaÃƒË†ââ‚¬Âºie a biosferei ÃƒÆ’ÂÂ®n nord.", en: "A biosphere reserve in the north." },
     facts: {
       de: ["Ehemaliger Vulkan", "WÃƒÆ’ÂÂ¼stenklima"],
@@ -574,9 +553,8 @@ image: "/poi-images/mt-kulal-nature-v2.webp"
     type: "lake",
     parent: "KE-30",
     coords: [35.8, 0.6],
-    name: { de: "Kamnarok-See", hu: "Kamnarok-tÃƒÆ’ÂÂ³", ro: "Lacul Kamnarok", en: "Lake Kamnarok",
-image: "/poi-images/lake-kamnarok-nature-v2.webp"
-},
+    name: { de: "Kamnarok-See", hu: "Kamnarok-tÃƒÆ’ÂÂ³", ro: "Lacul Kamnarok", en: "Lake Kamnarok"},
+    image: "/poi-images/lake-kamnarok-nature-v2.webp",
     description: { de: "Ein See im Kerio-Tal.", hu: "TÃƒÆ’ÂÂ³ a Kerio-vÃƒÆ’ÂÂ¶lgyben.", ro: "Un lac ÃƒÆ’ÂÂ®n Valea Kerio.", en: "A lake in the Kerio Valley." },
     facts: {
       de: ["Krokodilhabitat", "Saisonaler Wasserstand"],
@@ -601,9 +579,8 @@ image: "/poi-images/lake-kamnarok-nature-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [36.45, -0.9],
-    name: { de: "Mount Longonot", hu: "Longonot-hegy", ro: "Muntele Longonot", en: "Mount Longonot",
-image: "/poi-images/mt-longonot-nature-v2.webp"
-},
+    name: { de: "Mount Longonot", hu: "Longonot-hegy", ro: "Muntele Longonot", en: "Mount Longonot"},
+    image: "/poi-images/mt-longonot-nature-v2.webp",
     description: { de: "Ein Stratovulkan.", hu: "RÃƒÆ’ÂÂ©tegvulkÃƒÆ’ÂÂ¡n.", ro: "Un stratovulcan.", en: "A stratovolcano." },
     facts: {
       de: ["Kraterwanderung", "Tolle Aussicht"],
@@ -628,9 +605,8 @@ image: "/poi-images/mt-longonot-nature-v2.webp"
     type: "river",
     parent: "KE-31",
     coords: [40.0, -3.0],
-    name: { de: "Galana-Fluss", hu: "Galana-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Galana", en: "Galana River",
-image: "/poi-images/galana-river-nature-v2.webp"
-},
+    name: { de: "Galana-Fluss", hu: "Galana-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Galana", en: "Galana River"},
+    image: "/poi-images/galana-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss an der KÃƒÆ’ÂÂ¼ste.", hu: "Fontos folyÃƒÆ’ÂÂ³ a parton.", ro: "Un rÃƒÆ’ÂÂ¢u important pe coastÃƒâ€žÃ†â€™.", en: "A major river on the coast." },
     facts: {
       de: ["Unterlauf des Athi", "Durchquert Tsavo-Nationalpark"],
@@ -655,9 +631,8 @@ image: "/poi-images/galana-river-nature-v2.webp"
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.4],
-    name: { de: "Ol Oropil-See", hu: "Ol Oropil-tÃƒÆ’ÂÂ³", ro: "Lacul Ol Oropil", en: "Lake Ol Oropil",
-image: "/poi-images/lake-ol-oropil-nature-v2.webp"
-},
+    name: { de: "Ol Oropil-See", hu: "Ol Oropil-tÃƒÆ’ÂÂ³", ro: "Lacul Ol Oropil", en: "Lake Ol Oropil"},
+    image: "/poi-images/lake-ol-oropil-nature-v2.webp",
     description: { de: "Kleiner See im Rift Valley.", hu: "Kisebb tÃƒÆ’ÂÂ³ a Rift-vÃƒÆ’ÂÂ¶lgyben.", ro: "Lac mic ÃƒÆ’ÂÂ®n Rift Valley.", en: "Small lake in the Rift Valley." },
     facts: {
       de: ["Sehr abgelegen", "Rift-Region"],
@@ -682,9 +657,8 @@ image: "/poi-images/lake-ol-oropil-nature-v2.webp"
     type: "mountain",
     parent: "KE-25",
     coords: [36.8, 2.1],
-    name: { de: "Mount Nyiru", hu: "Nyiru-hegy", ro: "Muntele Nyiru", en: "Mount Nyiru",
-image: "/poi-images/mt-nyiru-nature-v2.webp"
-},
+    name: { de: "Mount Nyiru", hu: "Nyiru-hegy", ro: "Muntele Nyiru", en: "Mount Nyiru"},
+    image: "/poi-images/mt-nyiru-nature-v2.webp",
     description: { de: "Berg in der nÃƒÆ’ÂÂ¶rdlichen WÃƒÆ’ÂÂ¼ste.", hu: "Hegy az ÃƒÆ’ÂÂ©szaki sivatagban.", ro: "Munte ÃƒÆ’ÂÂ®n deÃƒË†ââ€žÂ¢ertul nordic.", en: "Mountain in the northern desert." },
     facts: {
       de: ["WÃƒÆ’ÂÂ¼steninsel", "Hohe BiodiversitÃƒÆ’ÂÂ¤t"],
@@ -709,9 +683,8 @@ image: "/poi-images/mt-nyiru-nature-v2.webp"
     type: "river",
     parent: "KE-30",
     coords: [35.5, 3.5],
-    name: { de: "Turkwel-Fluss", hu: "Turkwel-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Turkwel", en: "Turkwel River",
-image: "/poi-images/turkwel-river-nature-v2.webp"
-},
+    name: { de: "Turkwel-Fluss", hu: "Turkwel-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Turkwel", en: "Turkwel River"},
+    image: "/poi-images/turkwel-river-nature-v2.webp",
     description: { de: "FlieÃƒÆ’Ã…Â¸t in den Turkana-See.", hu: "A Turkana-tÃƒÆ’ÂÂ³ba ÃƒÆ’ÂÂ¶mlik.", ro: "Se varsÃƒâ€žÃ†â€™ ÃƒÆ’ÂÂ®n Lacul Turkana.", en: "Flows into Lake Turkana." },
     facts: {
       de: ["Dammbau", "Wichtig fÃƒÆ’ÂÂ¼r BewÃƒÆ’ÂÂ¤sserung"],
@@ -736,9 +709,8 @@ image: "/poi-images/turkwel-river-nature-v2.webp"
     type: "lake",
     parent: "KE-30",
     coords: [36.0, 0.5],
-    name: { de: "Ole Nado-See", hu: "Ole Nado-tÃƒÆ’ÂÂ³", ro: "Lacul Ole Nado", en: "Lake Ole Nado",
-image: "/poi-images/lake-ole-nado-nature-v2.webp"
-},
+    name: { de: "Ole Nado-See", hu: "Ole Nado-tÃƒÆ’ÂÂ³", ro: "Lacul Ole Nado", en: "Lake Ole Nado"},
+    image: "/poi-images/lake-ole-nado-nature-v2.webp",
     description: { de: "Kleiner Sodasee.", hu: "Kicsi szÃƒÆ’ÂÂ³dÃƒÆ’ÂÂ¡s tÃƒÆ’ÂÂ³.", ro: "Lac alcalin mic.", en: "Small soda lake." },
     facts: {
       de: ["Rift-Valley-Region", "Saisonal"],
@@ -763,9 +735,8 @@ image: "/poi-images/lake-ole-nado-nature-v2.webp"
     type: "river",
     parent: "KE-30",
     coords: [35.8, 1.5],
-    name: { de: "Kerio-Fluss", hu: "Kerio-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Kerio", en: "Kerio River",
-image: "/poi-images/kerio-river-nature-v2.webp"
-},
+    name: { de: "Kerio-Fluss", hu: "Kerio-folyÃƒÆ’ÂÂ³", ro: "RÃƒÆ’ÂÂ¢ul Kerio", en: "Kerio River"},
+    image: "/poi-images/kerio-river-nature-v2.webp",
     description: { de: "FlieÃƒÆ’Ã…Â¸t durch das Kerio-Tal.", hu: "ÃƒÆ’ÂÂtfolyik a Kerio-vÃƒÆ’ÂÂ¶lgyÃƒÆ’ÂÂ¶n.", ro: "Curge prin Valea Kerio.", en: "Flows through Kerio Valley." },
     facts: {
       de: ["Steile Schluchten", "WÃƒÆ’ÂÂ¼stenregion"],
@@ -790,9 +761,8 @@ image: "/poi-images/kerio-river-nature-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [36.6, -0.4],
-    name: { de: "Mount Satima", hu: "Satima-hegy", ro: "Muntele Satima", en: "Mount Satima",
-image: "/poi-images/mt-satima-nature-v2.webp"
-},
+    name: { de: "Mount Satima", hu: "Satima-hegy", ro: "Muntele Satima", en: "Mount Satima"},
+    image: "/poi-images/mt-satima-nature-v2.webp",
     description: { de: "HÃƒÆ’ÂÂ¶chster Punkt der Aberdare-Range.", hu: "Az Aberdare-hegysÃƒÆ’ÂÂ©g legmagasabb pontja.", ro: "Cel mai ÃƒÆ’ÂÂ®nalt punct din Aberdare Range.", en: "Highest point of the Aberdare Range." },
     facts: {
       de: ["Wanderziel", "Alpine Flora"],

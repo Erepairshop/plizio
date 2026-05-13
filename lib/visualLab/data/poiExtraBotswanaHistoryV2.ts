@@ -11,9 +11,8 @@ export const poiExtraBotswanaHistoryV2: POI[] = [
       de: "Tsodilo-Hügel",
       hu: "Tsodilo-hegyek",
       ro: "Dealurile Tsodilo",
-      en: "Tsodilo Hills",
-image: "/poi-images/tsodilo-hills-history-v2.webp"
-},
+      en: "Tsodilo Hills"},
+    image: "/poi-images/tsodilo-hills-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) tsodilo-hills-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -42,9 +41,8 @@ image: "/poi-images/tsodilo-hills-history-v2.webp"
       de: "Domboshaba-Ruinen",
       hu: "Domboshaba romjai",
       ro: "Ruinele Domboshaba",
-      en: "Domboshaba Ruins",
-image: "/poi-images/domboshaba-ruins-history-v2.webp"
-},
+      en: "Domboshaba Ruins"},
+    image: "/poi-images/domboshaba-ruins-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) domboshaba-ruins-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -73,9 +71,8 @@ image: "/poi-images/domboshaba-ruins-history-v2.webp"
       de: "Toutswemogala-Hügel",
       hu: "Toutswemogala-hegy",
       ro: "Dealul Toutswemogala",
-      en: "Toutswemogala Hill",
-image: "/poi-images/toutswemogala-hill-history-v2.webp"
-},
+      en: "Toutswemogala Hill"},
+    image: "/poi-images/toutswemogala-hill-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) toutswemogala-hill-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -104,9 +101,8 @@ image: "/poi-images/toutswemogala-hill-history-v2.webp"
       de: "Matsieng-Fußabdrücke",
       hu: "Matsieng lábnyomai",
       ro: "Urmele lui Matsieng",
-      en: "Matsieng Footprints",
-image: "/poi-images/matsieng-footprints-history-v2.webp"
-},
+      en: "Matsieng Footprints"},
+    image: "/poi-images/matsieng-footprints-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) matsieng-footprints-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -135,9 +131,8 @@ image: "/poi-images/matsieng-footprints-history-v2.webp"
       de: "Kolobeng-Mission",
       hu: "Kolobeng misszió",
       ro: "Misiunea Kolobeng",
-      en: "Kolobeng Mission",
-image: "/poi-images/kolobeng-mission-history-v2.webp"
-},
+      en: "Kolobeng Mission"},
+    image: "/poi-images/kolobeng-mission-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) kolobeng-mission-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -166,9 +161,8 @@ image: "/poi-images/kolobeng-mission-history-v2.webp"
       de: "Phalatswe (Alt-Palapye)",
       hu: "Régi Palapye (Phalatswe)",
       ro: "Vechiul Palapye (Phalatswe)",
-      en: "Old Palapye (Phalatswe)",
-image: "/poi-images/old-palapye-history-v2.webp"
-},
+      en: "Old Palapye (Phalatswe)"},
+    image: "/poi-images/old-palapye-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) old-palapye-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -197,9 +191,8 @@ image: "/poi-images/old-palapye-history-v2.webp"
       de: "Khama III Memorial Museum",
       hu: "Khama III Emlékmúzeum",
       ro: "Muzeul Memorial Khama III",
-      en: "Khama III Memorial Museum",
-image: "/poi-images/khama-iii-memorial-museum-history-v2.webp"
-},
+      en: "Khama III Memorial Museum"},
+    image: "/poi-images/khama-iii-memorial-museum-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) khama-iii-memorial-museum-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -228,9 +221,8 @@ image: "/poi-images/khama-iii-memorial-museum-history-v2.webp"
       de: "Phuthadikobo-Museum",
       hu: "Phuthadikobo Múzeum",
       ro: "Muzeul Phuthadikobo",
-      en: "Phuthadikobo Museum",
-image: "/poi-images/phuthadikobo-museum-history-v2.webp"
-},
+      en: "Phuthadikobo Museum"},
+    image: "/poi-images/phuthadikobo-museum-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) phuthadikobo-museum-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -259,9 +251,8 @@ image: "/poi-images/phuthadikobo-museum-history-v2.webp"
       de: "Drei-Dikgosi-Monument",
       hu: "Három Törzsfőnök Emlékműve",
       ro: "Monumentul celor Trei Dikgosi",
-      en: "Three Dikgosi Monument",
-image: "/poi-images/three-dikgosi-monument-history-v2.webp"
-},
+      en: "Three Dikgosi Monument"},
+    image: "/poi-images/three-dikgosi-monument-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) three-dikgosi-monument-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -290,9 +281,8 @@ image: "/poi-images/three-dikgosi-monument-history-v2.webp"
       de: "Nationalmuseum von Botswana",
       hu: "Botswana Nemzeti Múzeuma",
       ro: "Muzeul Național al Botswanei",
-      en: "Botswana National Museum",
-image: "/poi-images/botswana-national-museum-history-v2.webp"
-},
+      en: "Botswana National Museum"},
+    image: "/poi-images/botswana-national-museum-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) botswana-national-museum-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -321,9 +311,8 @@ image: "/poi-images/botswana-national-museum-history-v2.webp"
       de: "Kgosi Sechele I Museum",
       hu: "Kgosi Sechele I Múzeum",
       ro: "Muzeul Kgosi Sechele I",
-      en: "Kgosi Sechele I Museum",
-image: "/poi-images/kgosi-sechele-i-museum-history-v2.webp"
-},
+      en: "Kgosi Sechele I Museum"},
+    image: "/poi-images/kgosi-sechele-i-museum-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) kgosi-sechele-i-museum-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -352,9 +341,8 @@ image: "/poi-images/kgosi-sechele-i-museum-history-v2.webp"
       de: "Supa-Ngwao-Museum",
       hu: "Supa Ngwao Múzeum",
       ro: "Muzeul Supa Ngwao",
-      en: "Supa Ngwao Museum",
-image: "/poi-images/supa-ngwao-museum-history-v2.webp"
-},
+      en: "Supa Ngwao Museum"},
+    image: "/poi-images/supa-ngwao-museum-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) supa-ngwao-museum-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -383,9 +371,8 @@ image: "/poi-images/supa-ngwao-museum-history-v2.webp"
       de: "Nhabe-Museum",
       hu: "Nhabe Múzeum",
       ro: "Muzeul Nhabe",
-      en: "Nhabe Museum",
-image: "/poi-images/nhabe-museum-history-v2.webp"
-},
+      en: "Nhabe Museum"},
+    image: "/poi-images/nhabe-museum-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) nhabe-museum-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -414,9 +401,8 @@ image: "/poi-images/nhabe-museum-history-v2.webp"
       de: "Lepokole-Hügel",
       hu: "Lepokole-hegyek",
       ro: "Dealurile Lepokole",
-      en: "Lepokole Hills",
-image: "/poi-images/lepokole-hills-history-v2.webp"
-},
+      en: "Lepokole Hills"},
+    image: "/poi-images/lepokole-hills-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) lepokole-hills-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -445,9 +431,8 @@ image: "/poi-images/lepokole-hills-history-v2.webp"
       de: "Mamuno-Monument",
       hu: "Mamuno Emlékmű",
       ro: "Monumentul Mamuno",
-      en: "Mamuno Monument",
-image: "/poi-images/mamuno-monument-history-v2.webp"
-},
+      en: "Mamuno Monument"},
+    image: "/poi-images/mamuno-monument-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) mamuno-monument-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -476,9 +461,8 @@ image: "/poi-images/mamuno-monument-history-v2.webp"
       de: "Schlachtfeld von Dimawe",
       hu: "Dimawe csatatér",
       ro: "Câmpul de luptă Dimawe",
-      en: "Dimawe Battlefield",
-image: "/poi-images/dimawe-battlefield-history-v2.webp"
-},
+      en: "Dimawe Battlefield"},
+    image: "/poi-images/dimawe-battlefield-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) dimawe-battlefield-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -507,9 +491,8 @@ image: "/poi-images/dimawe-battlefield-history-v2.webp"
       de: "Manyana-Felsmalereien",
       hu: "Manyana sziklarajzai",
       ro: "Picturile rupestre din Manyana",
-      en: "Manyana Rock Paintings",
-image: "/poi-images/manyana-rock-paintings-history-v2.webp"
-},
+      en: "Manyana Rock Paintings"},
+    image: "/poi-images/manyana-rock-paintings-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) manyana-rock-paintings-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -538,9 +521,8 @@ image: "/poi-images/manyana-rock-paintings-history-v2.webp"
       de: "Livingstones Baum",
       hu: "Livingstone fája",
       ro: "Copacul lui Livingstone",
-      en: "Livingstone's Tree",
-image: "/poi-images/livingstones-tree-history-v2.webp"
-},
+      en: "Livingstone's Tree"},
+    image: "/poi-images/livingstones-tree-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) livingstones-tree-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -569,9 +551,8 @@ image: "/poi-images/livingstones-tree-history-v2.webp"
       de: "Historische Stätte Shoshong",
       hu: "Shoshong történelmi helyszíne",
       ro: "Situl istoric Shoshong",
-      en: "Shoshong Historic Site",
-image: "/poi-images/shoshong-historic-site-history-v2.webp"
-},
+      en: "Shoshong Historic Site"},
+    image: "/poi-images/shoshong-historic-site-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) shoshong-historic-site-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -600,9 +581,8 @@ image: "/poi-images/shoshong-historic-site-history-v2.webp"
       de: "Gcwihaba-Höhlen",
       hu: "Gcwihaba-barlangok",
       ro: "Peșterile Gcwihaba",
-      en: "Gcwihaba Caves",
-image: "/poi-images/gcwihaba-caves-history-v2.webp"
-},
+      en: "Gcwihaba Caves"},
+    image: "/poi-images/gcwihaba-caves-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gcwihaba-caves-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -631,9 +611,8 @@ image: "/poi-images/gcwihaba-caves-history-v2.webp"
       de: "Moremi-Schlucht",
       hu: "Moremi-szurdok",
       ro: "Defileul Moremi",
-      en: "Moremi Gorge",
-image: "/poi-images/moremi-gorge-history-v2.webp"
-},
+      en: "Moremi Gorge"},
+    image: "/poi-images/moremi-gorge-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) moremi-gorge-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -662,9 +641,8 @@ image: "/poi-images/moremi-gorge-history-v2.webp"
       de: "Motlhabaneng-Felsmalereien",
       hu: "Motlhabaneng sziklarajzai",
       ro: "Picturile rupestre din Motlhabaneng",
-      en: "Motlhabaneng Rock Paintings",
-image: "/poi-images/motlhabaneng-rock-paintings-history-v2.webp"
-},
+      en: "Motlhabaneng Rock Paintings"},
+    image: "/poi-images/motlhabaneng-rock-paintings-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) motlhabaneng-rock-paintings-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -693,9 +671,8 @@ image: "/poi-images/motlhabaneng-rock-paintings-history-v2.webp"
       de: "Königlicher Friedhof von Serowe",
       hu: "Serowe Királyi Temető",
       ro: "Cimitirul Regal din Serowe",
-      en: "Serowe Royal Cemetery",
-image: "/poi-images/serowe-royal-cemetery-history-v2.webp"
-},
+      en: "Serowe Royal Cemetery"},
+    image: "/poi-images/serowe-royal-cemetery-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) serowe-royal-cemetery-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -724,9 +701,8 @@ image: "/poi-images/serowe-royal-cemetery-history-v2.webp"
       de: "Mochudi Kgotla",
       hu: "Mochudi Kgotla",
       ro: "Kgotla din Mochudi",
-      en: "Mochudi Kgotla",
-image: "/poi-images/mochudi-kgotla-history-v2.webp"
-},
+      en: "Mochudi Kgotla"},
+    image: "/poi-images/mochudi-kgotla-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) mochudi-kgotla-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -755,9 +731,8 @@ image: "/poi-images/mochudi-kgotla-history-v2.webp"
       de: "Ntsweng-Kulturerbestätte",
       hu: "Ntsweng Örökségvédelmi Helyszín",
       ro: "Situl de patrimoniu Ntsweng",
-      en: "Ntsweng Heritage Site",
-image: "/poi-images/ntsweng-heritage-site-history-v2.webp"
-},
+      en: "Ntsweng Heritage Site"},
+    image: "/poi-images/ntsweng-heritage-site-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) ntsweng-heritage-site-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -786,9 +761,8 @@ image: "/poi-images/ntsweng-heritage-site-history-v2.webp"
       de: "Kanye Kgotla",
       hu: "Kanye Kgotla",
       ro: "Kgotla din Kanye",
-      en: "Kanye Kgotla",
-image: "/poi-images/kanye-kgotla-history-v2.webp"
-},
+      en: "Kanye Kgotla"},
+    image: "/poi-images/kanye-kgotla-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) kanye-kgotla-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -817,9 +791,8 @@ image: "/poi-images/kanye-kgotla-history-v2.webp"
       de: "Alte Goldminen von Francistown",
       hu: "Francistown régi aranybányái",
       ro: "Vechile mine de aur din Francistown",
-      en: "Francistown Old Gold Mines",
-image: "/poi-images/francistown-old-gold-mines-history-v2.webp"
-},
+      en: "Francistown Old Gold Mines"},
+    image: "/poi-images/francistown-old-gold-mines-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) francistown-old-gold-mines-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -848,9 +821,8 @@ image: "/poi-images/francistown-old-gold-mines-history-v2.webp"
       de: "Orapa-Diamantenminen-Denkmal",
       hu: "Orapa Gyémántbánya Emlékmű",
       ro: "Monumentul Minei de Diamante Orapa",
-      en: "Orapa Diamond Mine Monument",
-image: "/poi-images/orapa-diamond-mine-monument-history-v2.webp"
-},
+      en: "Orapa Diamond Mine Monument"},
+    image: "/poi-images/orapa-diamond-mine-monument-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) orapa-diamond-mine-monument-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -879,9 +851,8 @@ image: "/poi-images/orapa-diamond-mine-monument-history-v2.webp"
       de: "Baratani-Hügel",
       hu: "Baratani-hegy",
       ro: "Dealul Baratani",
-      en: "Baratani Hill",
-image: "/poi-images/baratani-hill-history-v2.webp"
-},
+      en: "Baratani Hill"},
+    image: "/poi-images/baratani-hill-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) baratani-hill-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -910,9 +881,8 @@ image: "/poi-images/baratani-hill-history-v2.webp"
       de: "Baobab von Kasane",
       hu: "Kasane Baobab fája",
       ro: "Baobabul din Kasane",
-      en: "Kasane Baobab",
-image: "/poi-images/kasane-baobab-history-v2.webp"
-},
+      en: "Kasane Baobab"},
+    image: "/poi-images/kasane-baobab-history-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) kasane-baobab-history-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },

@@ -7,456 +7,810 @@ export const poiExtraSouthafricaEconomicV2: POI[] = [
     type: "port",
     parent: "ZA-KZN",
     coords: [31.028, -29.873],
-    name: { de: "Hafen von Durban", hu: "Durban kikötője", ro: "Portul Durban", en: "Port of Durban",
-image: "/poi-images/port-of-durban-economic-v2.webp"
-},
+    name: { de: "Hafen von Durban", hu: "Durban kikötője", ro: "Portul Durban", en: "Port of Durban"},
+    image: "/poi-images/port-of-durban-economic-v2.webp",
     description: { de: "Der verkehrsreichste Hafen Südafrikas und einer der größten in Afrika, der als wichtiger Knotenpunkt für Container und Stückgut dient.", hu: "Dél-Afrika legforgalmasabb kikötője és Afrika egyik legnagyobbja, amely a konténer- és darabáru-forgalom fő központja.", ro: "Cel mai aglomerat port din Africa de Sud și unul dintre cele mai mari din Africa, servind ca un hub major pentru containere și mărfuri generale.", en: "The busiest port in South Africa and one of the largest in Africa, serving as a major hub for container and general cargo." },
     facts: {
       de: ["Bewältigt über 60 % des südafrikanischen Containerverkehrs.", "Strategisch günstig an der Ostküste gelegen, verbindet es Handelsrouten nach Asien."],
       hu: ["A dél-afrikai konténerforgalom több mint 60%-át bonyolítja le.", "Stratégiailag a keleti parton helyezkedik el, összekötve az ázsiai kereskedelmi útvonalakat."],
       ro: ["Gestionează peste 60% din traficul de containere al Africii de Sud.", "Situat strategic pe coasta de est, conectând rutele comerciale către Asia."],
       en: ["Handles over 60% of South Africa's container traffic.", "Located strategically on the east coast, connecting trade routes to Asia."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Durban (Port of Durban) ist der größte und verkehrsreichste Hafen Afrikas südlich der Sahara. Er liegt an der Ostküste Südafrikas in der Provinz KwaZulu-Natal. Der Naturhafen an der Durban Bay wurde im 19. Jahrhundert ausgebaut und dient heute als wichtigstes Drehkreuz für den Containerumschlag, Stückgut und Flüssiggüter. Der Hafen verfügt über 94 Liegeplätze und eine Gesamtfläche von 18 km². Jährlich werden über 80 Millionen Tonnen Fracht umgeschlagen. Der Hafen ist ein wichtiger Arbeitgeber in der Region und trägt wesentlich zur südafrikanischen Wirtschaft bei. Er ist über ein Eisenbahn- und Autobahnnetz mit dem Hinterland verbunden. Die Erweiterungspläne umfassen die Entwicklung des Maydon Wharf und des Point Precincts.",
+      hu: "A Durbani Kikötő (Port of Durban) Afrika legnagyobb és legforgalmasabb kikötője a Szahara alatt. Dél-Afrika keleti partján, KwaZulu-Natal tartományban található. A Durbani-öböl természetes kikötőjét a 19. században fejlesztették ki, és ma konténerforgalom, ömlesztett áru és folyékony rakomány legfőbb csomópontja. A kikötő 94 horgonyzóhellyel és 18 km² területtel rendelkezik. Évente több mint 80 millió tonna rakományt kezel. A kikötő fontos munkaadó a régióban, és jelentős mértékben hozzájárul a dél-afrikai gazdasághoz. Vasúti és autópálya-hálózat köti össze a hinterlanddal. A tervezett bővítések közé tartozik a Maydon Wharf és a Point Precinct fejlesztése.",
+      ro: "Portul Durban (Port of Durban) este cel mai mare și mai aglomerat port din Africa sub-sahariană. Situat pe coasta de est a Africii de Sud, în provincia KwaZulu-Natal, portul natural din Golful Durban a fost dezvoltat în secolul al XIX-lea. Astăzi este un hub major pentru containere, mărfuri generale și lichide. Portul are 94 de dane și o suprafață totală de 18 km². Manipulează peste 80 de milioane de tone de marfă anual. Portul este un angajator important și contribuie semnificativ la economia sud-africană. Este conectat la hinterland printr-o rețea feroviară și rutieră. Planurile de extindere includ dezvoltarea cheiului Maydon și a zonei Point.",
+      en: "The Port of Durban is Africa's busiest port and the largest in sub-Saharan Africa. Located on the east coast of South Africa in KwaZulu-Natal, it occupies the natural Durban Bay. It handles over 80 million tons of cargo annually, including containers, bulk cargo, and liquid fuels. The port has 94 berths and covers 18 km². It is a critical node in the Southern African logistics chain, connecting to industrial and mining regions via road and rail. The port contributes about 3% to South Africa's GDP and employs over 10,000 people directly. Recent upgrades aim to increase capacity to 100 million tons by 2030.",
+    },
+    factsAdvanced: {
+      de: ["Größter Hafen Afrikas südlich der Sahara", "94 Liegeplätze", "Fläche: 18 km²", "Jährlicher Frachtumschlag: über 80 Millionen Tonnen", "Direkte Beschäftigung: über 10.000 Personen", "Beitrag zum BIP: ca. 3%"],
+      hu: ["Afrika legnagyobb kikötője a Szahara alatt", "94 horgonyzóhely", "Terület: 18 km²", "Éves rakodás: 80 millió tonna felett", "Közvetlen foglalkoztatás: több mint 10 000 fő", "GDP hozzájárulás: kb. 3%"],
+      ro: ["Cel mai mare port din Africa sub-sahariană", "94 de dane", "Suprafață: 18 km²", "Marfă anuală: peste 80 de milioane de tone", "Angajare directă: peste 10.000 de persoane", "Contribuție la PIB: aprox. 3%"],
+      en: ["Largest port in sub-Saharan Africa", "94 berths", "Area: 18 km²", "Annual cargo throughput: over 80 million tons", "Direct employment: over 10,000 people", "GDP contribution: approximately 3%"],
+    },
   },
   {
     id: "port-of-richards-bay-economic-v2",
     type: "port",
     parent: "ZA-KZN",
     coords: [32.028, -28.794],
-    name: { de: "Hafen von Richards Bay", hu: "Richards Bay kikötője", ro: "Portul Richards Bay", en: "Port of Richards Bay",
-image: "/poi-images/port-of-richards-bay-economic-v2.webp"
-},
+    name: { de: "Hafen von Richards Bay", hu: "Richards Bay kikötője", ro: "Portul Richards Bay", en: "Port of Richards Bay"},
+    image: "/poi-images/port-of-richards-bay-economic-v2.webp",
     description: { de: "Ein Tiefseehafen, der vor allem für den Export von Kohle und anderen trockenen Massengütern bekannt ist.", hu: "Mélyvízi kikötő, amely elsősorban a szén és egyéb száraz ömlesztett áruk exportjáról ismert.", ro: "Un port de mare adâncime, cunoscut în primul rând pentru exportul de cărbune și alte mărfuri uscate în vrac.", en: "A deep-water port primarily known for exporting coal and other dry bulk commodities." },
     facts: {
       de: ["Beherbergt das größte Kohleexportterminal der Welt.", "In den 1970er Jahren speziell für den Umschlag von Massengutexporten gebaut."],
       hu: ["Itt található a világ legnagyobb szénexportáló terminálja.", "Kifejezetten ömlesztett export céljára épült az 1970-es években."],
       ro: ["Găzduiește cel mai mare terminal de export de cărbune din lume.", "Construit special în anii 1970 pentru a gestiona exporturile în vrac."],
       en: ["Home to the largest coal export terminal in the world.", "Purpose-built in the 1970s to handle bulk exports."]
-    }, image: "/poi-images/port-of-richards-bay-economic-v2.webp"},
+    }, image: "/poi-images/port-of-richards-bay-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Richards Bay (Port of Richards Bay) ist der zweitgrößte Hafen Südafrikas und ein wichtiger Exporthafen für Kohle und andere Schüttgüter. Er liegt an der Ostküste in der Provinz KwaZulu-Natal und wurde in den 1970er Jahren zur Unterstützung des Kohleexports gebaut. Der Hafen ist auf den Umschlag von Massengütern spezialisiert, insbesondere Kohle aus den Minen in Mpumalanga und Limpopo. Er verfügt über eine jährliche Kapazität von über 90 Millionen Tonnen. Der Hafen beherbergt auch Flüssiggas-Terminals und einen Containerterminal. Richards Bay selbst ist eine Industriestadt mit Aluminiumhütten, Düngemittelwerken und einer Papierfabrik. Der Hafen ist für das südafrikanische Energie- und Rohstoffexportgeschäft von entscheidender Bedeutung.",
+      hu: "A Richards Bay-i Kikötő (Port of Richards Bay) Dél-Afrika második legnagyobb kikötője, és fő szénexport kikötő. Az ország keleti partján, KwaZulu-Natal tartományban található, és az 1970-es években épült a szénexport támogatására. A kikötő az ömlesztett árukra specializálódott, főleg a Mpumalanga és Limpopo tartományokból érkező szénre. Éves kapacitása meghaladja a 90 millió tonnát. A kikötőben LNG-terminálok és konténerterminál is található. Richards Bay városa ipari központ, alumíniumkohókkal, műtrágyagyárakkal és papírgyárral. A kikötő létfontosságú Dél-Afrika energia- és nyersanyagexportja szempontjából.",
+      ro: "Portul Richards Bay (Port of Richards Bay) este al doilea cel mai mare port din Africa de Sud și un port major de export pentru cărbune și alte mărfuri în vrac. Situat pe coasta de est în provincia KwaZulu-Natal, a fost construit în anii 1970 pentru a sprijini exportul de cărbune. Portul este specializat în mărfuri vrac, în special cărbune din minele din Mpumalanga și Limpopo. Are o capacitate anuală de peste 90 de milioane de tone. Portul include, de asemenea, terminale GNL și un terminal de containere. Orașul Richards Bay este un centru industrial, cu topitorii de aluminiu, fabrici de îngrășăminte și o fabrică de hârtie. Portul este esențial pentru exporturile de energie și materii prime ale Africii de Sud.",
+      en: "The Port of Richards Bay is South Africa's second-largest port and a premier coal export facility on the east coast in KwaZulu-Natal. Constructed in the 1970s, it specializes in bulk cargo, handling over 90 million tons annually, predominantly coal from the Mpumalanga and Limpopo coalfields. The port also handles mineral sands, wood chips, and containerized cargo. It features a deep-water channel and a dedicated coal terminal with a capacity of 90 million tons per year. The adjacent town of Richards Bay hosts aluminum smelters, a fertilizer plant, and a paper mill. The port is crucial for South Africa's energy exports and contributes significantly to the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1970er Jahren", "Zweitgrößter Hafen Südafrikas", "Jährliche Kapazität: über 90 Millionen Tonnen", "Spezialisierung auf Kohleexport", "Wassertiefe: bis zu 19 m", "Länge der Kaimauern: 3,5 km"],
+      hu: ["Építés: 1970-es évek", "Dél-Afrika második legnagyobb kikötője", "Éves kapacitás: 90 millió tonna felett", "Speciális szénexport terminál", "Vízmélység: 19 m-ig", "Rakpart hossza: 3,5 km"],
+      ro: ["Construit în anii 1970", "Al doilea port ca mărime din Africa de Sud", "Capacitate anuală: peste 90 de milioane de tone", "Specializat în export de cărbune", "Adâncimea apei: până la 19 m", "Lungimea cheiurilor: 3,5 km"],
+      en: ["Constructed in the 1970s", "Second-largest port in South Africa", "Annual capacity: over 90 million tons", "Specializes in coal exports", "Water depth: up to 19 m", "Quay length: 3.5 km"],
+    },
+  },
   {
     id: "port-of-cape-town-economic-v2",
     type: "port",
     parent: "ZA-WC",
     coords: [18.435, -33.902],
-    name: { de: "Hafen von Kapstadt", hu: "Fokváros kikötője", ro: "Portul Cape Town", en: "Port of Cape Town",
-image: "/poi-images/port-of-cape-town-economic-v2.webp"
-},
+    name: { de: "Hafen von Kapstadt", hu: "Fokváros kikötője", ro: "Portul Cape Town", en: "Port of Cape Town"},
+    image: "/poi-images/port-of-cape-town-economic-v2.webp",
     description: { de: "Ein bedeutender Seehafen an einer der verkehrsreichsten Handelsrouten der Welt, bekannt für den Export von Frischprodukten.", hu: "Jelentős tengeri kikötő a világ egyik legforgalmasabb kereskedelmi útvonalán, amely híres a friss mezőgazdasági termékek exportjáról.", ro: "Un port maritim important situat de-a lungul uneia dintre cele mai aglomerate rute comerciale din lume, renumit pentru exportul de produse proaspete.", en: "A major seaport situated along one of the world's busiest trade routes, renowned for fresh produce export." },
     facts: {
       de: ["Dient als wichtigste Exportanlage für südafrikanisches Obst und Wein.", "Außerdem ein wichtiges Zentrum für Schiffsreparatur und -wartung in der Region."],
       hu: ["Dél-afrikai gyümölcsök és borok elsődleges exportközpontjaként szolgál.", "A régió hajójavítási és -karbantartási központja is egyben."],
       ro: ["Servește ca facilitate principală de export pentru fructele și vinul din Africa de Sud.", "De asemenea, un centru major pentru reparații și întreținere a navelor din regiune."],
       en: ["Serves as the primary export facility for South African fruits and wine.", "Also a major hub for ship repair and maintenance in the region."]
-    }, image: "/poi-images/port-of-cape-town-economic-v2.webp"},
+    }, image: "/poi-images/port-of-cape-town-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Kapstadt (Port of Cape Town) ist ein wichtiger Seehafen an der Südwestküste Südafrikas, am Tafelberg gelegen. Er wurde ab 1652 von der Niederländischen Ostindien-Kompanie als Versorgungsstation für Schiffe auf dem Seeweg nach Indien gegründet. Heute ist der Hafen ein bedeutendes Drehkreuz für den Containerverkehr, Fischerei, Kreuzfahrten und die Ölindustrie. Der Hafen verfügt über 28 Liegeplätze und eine jährliche Umschlagsleistung von etwa 10 Millionen Tonnen. Er dient als Gateway für die Westküste und den Atlantikhandel. Der Hafen beherbergt auch eine Werft und einen Marinestützpunkt. Die malerische Lage macht ihn zu einem beliebten Ziel für Kreuzfahrtschiffe. Der Hafen trägt wesentlich zur Wirtschaft der Stadt Kapstadt bei, insbesondere durch die Fischerei und den Tourismus.",
+      hu: "A Fokvárosi Kikötő (Port of Cape Town) fontos tengeri kikötő Dél-Afrika délnyugati partján, a Tábla-hegy lábánál. 1652-ben alapította a Holland Kelet-indiai Társaság, mint a hajók ellátóállomása az Indiába vezető úton. Ma a kikötő jelentős csomópont konténerforgalom, halászat, körutazások és olajipar számára. A kikötő 28 horgonyzóhellyel és évi kb. 10 millió tonnás rakodási kapacitással rendelkezik. Az Atlanti-óceán kereskedelmének kapuja. A kikötőben hajógyár és haditengerészeti bázis is található. Festői fekvése miatt népszerű a körutazások között. A kikötő jelentősen hozzájárul Fokváros gazdaságához, különösen a halászat és a turizmus révén.",
+      ro: "Portul Cape Town (Port of Cape Town) este un port maritim major pe coasta de sud-vest a Africii de Sud, la poalele Muntelui Table. Fondat în 1652 de Compania Olandeză a Indiilor de Est ca stație de aprovizionare pentru navele pe ruta către India. Astăzi, portul este un hub important pentru containere, pescuit, croaziere și industria petrolieră. Are 28 de dane și un trafic anual de aproximativ 10 milioane de tone. Servește ca poartă pentru comerțul de pe coasta de vest și Atlantic. Portul găzduiește un șantier naval și o bază navală. Locația pitorească îl face popular pentru nave de croazieră. Contribuie semnificativ la economia orașului Cape Town, în special prin pescuit și turism.",
+      en: "The Port of Cape Town is a major seaport on the southwestern coast of South Africa, situated in Table Bay below Table Mountain. Founded in 1652 by the Dutch East India Company, it initially served as a refreshment station for ships trading with the East Indies. Today, the port handles around 10 million tons of cargo annually, including containers, fish, and oil products. It has 28 berths and is a key hub for the fishing industry, ship repair, and cruise tourism. The port also hosts a naval base and is a center for the offshore oil and gas supply industry. Its location along the Cape Sea Route makes it strategically important for international shipping.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1652", "28 Liegeplätze", "Jährlicher Umschlag: ca. 10 Millionen Tonnen", "Wassertiefe: 14 m", "Fläche: 10 km²", "Beschäftigt direkt über 5.000 Menschen"],
+      hu: ["Alapítva: 1652", "28 horgonyzóhely", "Éves forgalom: kb. 10 millió tonna", "Vízmélység: 14 m", "Terület: 10 km²", "Közvetlen foglalkoztatás: több mint 5 000 fő"],
+      ro: ["Fondat în 1652", "28 de dane", "Trafic anual: aproximativ 10 milioane de tone", "Adâncimea apei: 14 m", "Suprafață: 10 km²", "Angajare directă: peste 5.000 de persoane"],
+      en: ["Founded in 1652", "28 berths", "Annual cargo: about 10 million tons", "Water depth: 14 m", "Area: 10 km²", "Direct employment: over 5,000 people"],
+    },
+  },
   {
     id: "port-of-gqeberha-economic-v2",
     type: "port",
     parent: "ZA-EC",
     coords: [25.635, -33.957],
-    name: { de: "Hafen von Gqeberha", hu: "Gqeberha kikötője", ro: "Portul Gqeberha", en: "Port of Gqeberha",
-image: "/poi-images/port-of-gqeberha-economic-v2.webp"
-},
+    name: { de: "Hafen von Gqeberha", hu: "Gqeberha kikötője", ro: "Portul Gqeberha", en: "Port of Gqeberha"},
+    image: "/poi-images/port-of-gqeberha-economic-v2.webp",
     description: { de: "Früher als Hafen von Port Elizabeth bekannt, ist er eine wichtige Anlage für die Automobil-Exportindustrie.", hu: "Korábban Port Elizabeth kikötője néven volt ismert, és az autóipari export kulcsfontosságú létesítménye.", ro: "Cunoscut anterior ca Portul Port Elizabeth, este o facilitate cheie pentru industria exportului de automobile.", en: "Formerly known as the Port of Port Elizabeth, it is a key facility for the automotive export industry." },
     facts: {
       de: ["Wird stark von der lokalen Automobilherstellungsbranche genutzt.", "Verfügt über spezielle Autoterminal-Anlagen."],
       hu: ["Erősen kihasználja a helyi autógyártó szektor.", "Korszerű, dedikált autós terminállal van felszerelve."],
       ro: ["Utilizat intens de sectorul local de producție auto.", "Echipat cu facilități dedicate pentru terminale auto."],
       en: ["Heavily utilized by the local automotive manufacturing sector.", "Equipped with dedicated car terminal facilities."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Gqeberha (ehemals Port Elizabeth) liegt an der Algoa Bay in der Provinz Ostkap. Er ist ein wichtiger Hafen für den Export von Automobilen, landwirtschaftlichen Erzeugnissen und Mangan. Der Hafen wurde 1820 als Teil der britischen Siedlungsstrategie gegründet und dient seitdem als Handelszentrum für die Region. Er verfügt über 14 Liegeplätze und eine jährliche Umschlagskapazität von etwa 10 Millionen Tonnen. Der Hafen beherbergt einen Automobilterminal, der für den Export von Fahrzeugen südafrikanischer Automobilhersteller wie Volkswagen und Ford genutzt wird. Zudem werden landwirtschaftliche Produkte wie Zitrusfrüchte und Wolle exportiert. Der Hafen ist auch ein wichtiger Fischereihafen. Die Stadt Gqeberha selbst ist ein Industriezentrum mit Reifen- und Textilfabriken.",
+      hu: "A Gqeberha (korábban Port Elizabeth) kikötő az Algoa-öbölben található, a Kelet-fok tartományban. Fontos kikötő autók, mezőgazdasági termékek és mangán exportjához. A kikötőt 1820-ban alapították a brit telepítési stratégia részeként, és azóta a régió kereskedelmi központja. 14 horgonyzóhellyel és évi kb. 10 millió tonnás kapacitással rendelkezik. A kikötőben autóterminál található, amelyet dél-afrikai autógyártók, mint a Volkswagen és Ford járműveinek exportjára használnak. Mezőgazdasági termékeket, például citrusféléket és gyapjút is exportálnak. A kikötő halászkikötőként is fontos. Gqeberha városa ipari központ, gumiabroncs- és textilgyárakkal.",
+      ro: "Portul Gqeberha (fost Port Elizabeth) este situat în Golful Algoa, în provincia Eastern Cape. Este un port important pentru exportul de automobile, produse agricole și mangan. Portul a fost fondat în 1820 ca parte a strategiei britanice de colonizare și de atunci a servit ca centru comercial regional. Are 14 dane și o capacitate anuală de aproximativ 10 milioane de tone. Portul găzduiește un terminal auto utilizat pentru exportul de vehicule de la producători sud-africani precum Volkswagen și Ford. De asemenea, exportă citrice și lână. Portul este, de asemenea, un port de pescuit important. Orașul Gqeberha este un centru industrial, cu fabrici de anvelope și textile.",
+      en: "The Port of Gqeberha (formerly Port Elizabeth) lies in Algoa Bay on the Eastern Cape coast. Established in 1820, it serves as a key export hub for automobiles, agricultural produce, and manganese. The port has 14 berths and handles approximately 10 million tons of cargo annually. It features a dedicated automotive terminal that exports vehicles from manufacturers like Volkswagen and Ford, as well as agricultural products such as citrus and wool. The port also supports fishing and offshore oil and gas supply. The city of Gqeberha is an industrial center with tire, textiles, and food processing industries. The port is a major employer in the region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1820", "14 Liegeplätze", "Jährliche Kapazität: ca. 10 Millionen Tonnen", "Automobilexport: über 200.000 Fahrzeuge pro Jahr", "Wassertiefe: 13 m", "Direkte Arbeitsplätze: ca. 3.000"],
+      hu: ["Alapítva: 1820", "14 horgonyzóhely", "Éves kapacitás: kb. 10 millió tonna", "Autóexport: évi 200 000 jármű felett", "Vízmélység: 13 m", "Közvetlen munkahelyek: kb. 3 000"],
+      ro: ["Fondat în 1820", "14 dane", "Capacitate anuală: aproximativ 10 milioane de tone", "Export auto: peste 200.000 de vehicule pe an", "Adâncimea apei: 13 m", "Locuri de muncă directe: circa 3.000"],
+      en: ["Founded in 1820", "14 berths", "Annual capacity: about 10 million tons", "Automobile exports: over 200,000 vehicles per year", "Water depth: 13 m", "Direct employment: about 3,000"],
+    },
   },
   {
     id: "port-of-saldanha-economic-v2",
     type: "port",
     parent: "ZA-WC",
     coords: [17.962, -33.023],
-    name: { de: "Hafen von Saldanha", hu: "Saldanha kikötője", ro: "Portul Saldanha", en: "Port of Saldanha",
-image: "/poi-images/port-of-saldanha-economic-v2.webp"
-},
+    name: { de: "Hafen von Saldanha", hu: "Saldanha kikötője", ro: "Portul Saldanha", en: "Port of Saldanha"},
+    image: "/poi-images/port-of-saldanha-economic-v2.webp",
     description: { de: "Der größte und tiefste natürliche Hafen der südlichen Hemisphäre, spezialisiert auf den Export von Eisenerz.", hu: "A déli félteke legnagyobb és legmélyebb természetes kikötője, amely a vasérc exportjára specializálódott.", ro: "Cel mai mare și mai adânc port natural din emisfera sudică, specializat în exportul de minereu de fier.", en: "The largest and deepest natural port in the Southern Hemisphere, specializing in iron ore export." },
     facts: {
       de: ["Über eine 861 km lange Bahnstrecke mit der Eisenerzmine Sishen verbunden.", "Schlägt jährlich Millionen Tonnen Eisenerz um."],
       hu: ["Egy 861 km hosszú vasútvonallal csatlakozik a sisheni vasércbányához.", "Évente több millió tonna vasércet kezel."],
       ro: ["Conectat la mina de minereu de fier Sishen printr-o linie de cale ferată de 861 km.", "Gestionează anual milioane de tone de minereu de fier."],
       en: ["Connected to the Sishen iron ore mine via an 861 km railway line.", "Handles millions of tonnes of iron ore annually."]
-    }, image: "/poi-images/port-of-saldanha-economic-v2.webp"},
+    }, image: "/poi-images/port-of-saldanha-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Saldanha (Port of Saldanha) ist ein Tiefwasserhafen an der Westküste Südafrikas, in der Provinz Westkap. Er wurde in den 1970er Jahren für den Export von Eisenerz gebaut. Der Hafen ist einer der wenigen natürlichen Tiefwasserhäfen der Welt und kann Schiffe mit einem Tiefgang von bis zu 23 m aufnehmen. Das Hauptprodukt ist Eisenerz aus den Minen in Sishen (Nordkap), das über eine 860 km lange Eisenbahnstrecke nach Saldanha transportiert wird. Der Hafen hat eine Kapazität von über 60 Millionen Tonnen pro Jahr. Zudem werden hier rohe Erdölprodukte für die südafrikanische Industrie importiert. In der Nähe befindet sich eine Stahlfabrik. Saldanha ist auch ein Zentrum der Fischerei und des Tourismus. Die Bucht ist bekannt für Walbeobachtungen.",
+      hu: "A Saldanha-i Kikötő (Port of Saldanha) egy mélyvízi kikötő Dél-Afrika nyugati partján, a Nyugat-fok tartományban. Az 1970-es években épült a vasércexport támogatására. A világ egyik kevés természetes mélyvízi kikötője, amely akár 23 m merülésű hajók fogadására is alkalmas. Fő terméke a Sishen-bányákból (Észak-fok) származó vasérc, amelyet egy 860 km hosszú vasútvonalon szállítanak Saldanhába. A kikötő éves kapacitása meghaladja a 60 millió tonnát. Emellett nyersolajtermékeket importálnak a dél-afrikai ipar számára. A közelben acélgyár található. Saldanha halászati és turisztikai központ is. Az öböl híres a bálnalesről.",
+      ro: "Portul Saldanha (Port of Saldanha) este un port de apă adâncă pe coasta de vest a Africii de Sud, în provincia Western Cape. A fost construit în anii 1970 pentru exportul de minereu de fier. Este unul dintre puținele porturi naturale de apă adâncă din lume, putând primi nave cu un pescaj de până la 23 m. Principalul produs este minereul de fier din minele Sishen (Northern Cape), transportat pe o cale ferată de 860 km. Portul are o capacitate de peste 60 de milioane de tone pe an. De asemenea, importă țiței pentru industria sud-africană. În apropiere se află o fabrică de oțel. Saldanha este, de asemenea, un centru de pescuit și turism. Golful este renumit pentru observarea balenelor.",
+      en: "The Port of Saldanha is a deep-water port on the west coast of South Africa, in the Western Cape. Developed in the 1970s for iron ore exports, it is one of the few natural deep-water harbors globally, with a depth of 23 m. The port primarily exports iron ore from the Sishen mine in the Northern Cape, transported via a dedicated 860 km railway line. It has an annual capacity exceeding 60 million tons. The port also handles crude oil imports for the local oil refinery and supports a steel mill. Additionally, Saldanha is a fishing and tourism center, with the bay known for whale watching. The port is crucial for South Africa's mineral exports and energy security.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1970er Jahren", "Wassertiefe: 23 m", "Eisenbahnstrecke: 860 km von Sishen", "Jährliche Kapazität: über 60 Millionen Tonnen", "Produziert Eisenerz: ca. 50 Millionen Tonnen pro Jahr", "Ölimport: ca. 10 Millionen Tonnen"],
+      hu: ["Építés: 1970-es évek", "Vízmélység: 23 m", "Vasútvonal Sishenből: 860 km", "Éves kapacitás: 60 millió tonna felett", "Vasérc termelés: évi kb. 50 millió tonna", "Olajimport: évi 10 millió tonna"],
+      ro: ["Construit în anii 1970", "Adâncimea apei: 23 m", "Cale ferată de la Sishen: 860 km", "Capacitate anuală: peste 60 de milioane de tone", "Producție de minereu de fier: circa 50 de milioane de tone pe an", "Import de petrol: circa 10 milioane de tone"],
+      en: ["Built in the 1970s", "Water depth: 23 m", "Railway from Sishen: 860 km", "Annual capacity: over 60 million tons", "Iron ore exports: about 50 million tons per year", "Oil imports: about 10 million tons"],
+    },
+  },
   {
     id: "port-of-east-london-economic-v2",
     type: "port",
     parent: "ZA-EC",
     coords: [27.915, -33.027],
-    name: { de: "Hafen von East London", hu: "East London kikötője", ro: "Portul East London", en: "Port of East London",
-image: "/poi-images/port-of-east-london-economic-v2.webp"
-},
+    name: { de: "Hafen von East London", hu: "East London kikötője", ro: "Portul East London", en: "Port of East London"},
+    image: "/poi-images/port-of-east-london-economic-v2.webp",
     description: { de: "Südafrikas einziger verbliebener Flusshafen, der an der Mündung des Buffalo River liegt.", hu: "Dél-Afrika egyetlen megmaradt folyami kikötője, amely a Buffalo folyó torkolatánál található.", ro: "Singurul port fluvial rămas din Africa de Sud, situat la gura râului Buffalo.", en: "South Africa's only remaining river port, situated at the mouth of the Buffalo River." },
     facts: {
       de: ["Dient in erster Linie der lokalen Automobil- und Landwirtschaftsindustrie.", "Verfügt über einen speziellen Getreidesilo-Aufbau."],
       hu: ["Elsősorban a helyi autóipart és mezőgazdaságot szolgálja ki.", "Speciális gabonatároló elevátorral rendelkezik."],
       ro: ["Servește în primul rând industriilor locale auto și agricole.", "Are o structură specializată de siloz de cereale."],
       en: ["Primarily serves the local automotive and agricultural industries.", "Features a specialized grain elevator structure."]
-    }, image: "/poi-images/port-of-east-london-economic-v2.webp"},
+    }, image: "/poi-images/port-of-east-london-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von East London im Ostkap Südafrikas ist der einzige Flusshafen des Landes und ein wichtiger Umschlagplatz für Agrarprodukte, Automobile und Mineralien. Er liegt an der Mündung des Buffalo River und verfügt über einen natürlichen Tiefwasserbereich, der Schiffe mit einem Tiefgang von bis zu 12,2 Metern aufnehmen kann. Der Hafen spielt eine zentrale Rolle für die Exportwirtschaft der Provinz, insbesondere für Zitrusfrüchte, Holz und Mangan. Die Anlage umfasst Stückgut-, Container- und Massengut-Terminals sowie eine Autoverladestation für Fahrzeuge von Mercedes-Benz aus dem nahen Werk. In den letzten Jahren wurden Modernisierungen durchgeführt, um die Effizienz zu steigern und den wachsenden Handelsvolumina gerecht zu werden. Der Hafen beschäftigt direkt und indirekt mehrere tausend Menschen und ist ein strategischer Knotenpunkt für den südafrikanischen Seehandel im Indischen Ozean.",
+      hu: "Az East London-i kikötő Dél-Afrika keleti partján, a Buffalo folyó torkolatánál található. Története a 19. század közepéig nyúlik vissza, amikor a brit gyarmati közigazgatás felismerte stratégiai jelentőségét. A kikötő eredetileg a gyapjú- és gyapotkereskedelem központja volt, később azonban az autóipar és a bányászat vált meghatározóvá. Az 1990-es években jelentős bővítéseken esett át, hogy versenyképes maradjon más dél-afrikai kikötőkkel szemben. A létesítmény magában foglal egy hajójavító szárazdokkot is, amely a régió egyik legnagyobb ilyen jellegű infrastruktúrája. A kikötő története szorosan összefonódik a város fejlődésével, és ma is fontos munkaadó a térségben. Az elmúlt években a kikötőt érintő fejlesztések a fenntarthatóságot és a digitalizációt is szolgálják.",
+      ro: "Portul East London este situat în provincia Eastern Cape, la vărsarea râului Buffalo în Oceanul Indian. Este un port fluvial și maritim, cu o infrastructură modernă care include terminale specializate pentru containere, mărfuri generale, vrac și vehicule. Adâncimea naturală a canalului permite accesul navelor de dimensiuni medii, iar extinderea recentă a facilităților de manipulare a crescut capacitatea anuală la peste 10 milioane de tone. Portul deservește în principal exporturile de citrice, minereu de mangan și cărbune, dar și importurile de echipamente industriale. Un element distinctiv este rampa de încărcare a vehiculelor, care facilitează exportul a mii de automobile anual. De asemenea, portul găzduiește un șantier naval și o zonă economică specială care atrage investiții străine. Conectivitatea rutieră și feroviară este esențială pentru funcționarea sa eficientă.",
+      en: "The Port of East London is one of South Africa's major commercial ports, located on the southeastern coast at the mouth of the Buffalo River. Its natural deep-water channel and sheltered harbor make it a vital hub for the export of agricultural products, particularly citrus fruits from the Eastern Cape, as well as minerals like manganese and iron ore. The port also handles a significant volume of automotive exports from the nearby Mercedes-Benz plant. With seven berths and a total quay length of approximately 1.6 kilometers, it can accommodate vessels up to 50,000 deadweight tonnage. Recent investments have focused on upgrading cargo-handling equipment and improving rail links to the hinterland. The port's container terminal has an annual capacity of around 100,000 TEUs. As a key node in the Southern African logistics network, it supports both regional trade and global shipping routes.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen von East London hat eine jährliche Umschlagkapazität von rund 10 Millionen Tonnen.", "Die Kailänge des Hafens beträgt insgesamt etwa 1,6 Kilometer.", "Schiffe mit einem Tiefgang von bis zu 12,2 Metern können den Hafen anlaufen.", "Der Hafen verfügt über sieben Liegeplätze für verschiedene Frachtarten.", "Das Containerterminal hat eine Kapazität von etwa 100.000 TEU pro Jahr.", "Der Hafen wurde im Jahr 1872 offiziell eröffnet."],
+      hu: ["A kikötő éves konténerforgalma körülbelül 100 000 TEU.", "A hajójavító szárazdokk mérete 240 méter hosszú és 30 méter széles.", "A kikötő területe több mint 200 hektár.", "Az első mólót 1855-ben építették.", "A kikötőben dolgozók száma meghaladja az 1500 főt.", "A kikötő vízmélysége a csatornában 10–12 méter között változik."],
+      ro: ["Portul East London are o capacitate anuală de manipulare de 10 milioane de tone.", "Lungimea totală a cheiurilor este de 1,6 kilometri.", "Adâncimea maximă a bazinului portuar este de 12,2 metri.", "Terminalul de containere are o capacitate de 100.000 TEU pe an.", "Portul dispune de 7 dane de operare.", "Suprafața totală a portului este de 200 de hectare."],
+      en: ["The Port of East London was established in 1872.", "It has a total quay length of 1.6 kilometers.", "The port handles approximately 10 million tons of cargo annually.", "Its container terminal capacity is 100,000 TEUs per year.", "Maximum vessel draft is 12.2 meters.", "The port features 7 operational berths."],
+    },
+  },
   {
     id: "port-of-ngqura-economic-v2",
     type: "port",
     parent: "ZA-EC",
     coords: [25.694, -33.801],
-    name: { de: "Coega-Hafen", hu: "Ngqura kikötője", ro: "Portul Ngqura", en: "Port of Ngqura",
-image: "/poi-images/port-of-ngqura-economic-v2.webp"
-},
+    name: { de: "Coega-Hafen", hu: "Ngqura kikötője", ro: "Portul Ngqura", en: "Port of Ngqura"},
+    image: "/poi-images/port-of-ngqura-economic-v2.webp",
     description: { de: "Ein Tiefseehafen in der Nähe der Coega Industrial Development Zone, der für Schiffe der neuen Generation ausgelegt ist.", hu: "Mélyvízi kikötő a Coega Ipari Fejlesztési Zóna mellett, amelyet az új generációs hajók fogadására terveztek.", ro: "Un port de mare adâncime adiacent Zonei de Dezvoltare Industrială Coega, conceput pentru a gestiona nave de nouă generație.", en: "A deep-water port adjacent to the Coega Industrial Development Zone, designed to handle new generation vessels." },
     facts: {
       de: ["Einer der neuesten Häfen Südafrikas, der 2009 eröffnet wurde.", "Fungiert als wichtiger Umschlagplatz für die afrikanische Region."],
       hu: ["Dél-Afrika egyik legújabb kikötője, amelyet 2009-ben nyitottak meg.", "Az afrikai régió egyik fő átrakodási központjaként működik."],
       ro: ["Unul dintre cele mai noi porturi din Africa de Sud, deschis în 2009.", "Acționează ca un centru major de transbordare pentru regiunea africană."],
       en: ["One of the newest ports in South Africa, opened in 2009.", "Acts as a major transshipment hub for the African region."]
-    }, image: "/poi-images/port-of-ngqura-economic-v2.webp"},
+    }, image: "/poi-images/port-of-ngqura-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Ngqura liegt in der Provinz Ostkap, etwa 20 Kilometer nordöstlich von Port Elizabeth. Er ist der jüngste und modernste Tiefwasserhafen Südafrikas, eröffnet im Jahr 2009. Ngqura wurde als Teil des Coega Industrial Development Zone konzipiert, um das Wirtschaftswachstum der Region zu fördern. Der Hafen hat eine natürliche Wassertiefe von bis zu 17 Metern, was ihn für Großcontainerschiffe zugänglich macht. Er verfügt über ein hochmodernes Containerterminal mit einer Kapazität von über 2 Millionen TEU jährlich sowie Massengut- und Flüssiggut-Terminals. Ngqura spielt eine Schlüsselrolle im Export von Manganerz aus den Minen in der Nordkap-Provinz. Die Anlage ist auch ein wichtiger Umschlagplatz für Automobile und landwirtschaftliche Produkte. Mit seiner strategischen Lage am Indischen Ozean ist Ngqura ein Knotenpunkt für den Handel zwischen Afrika, Asien und dem Nahen Osten.",
+      hu: "A Ngqura kikötő Dél-Afrika egyik legmodernebb tengeri kikötője, amelyet a Coega Ipari Fejlesztési Övezet részeként hoztak létre. A kikötő építése 2002-ben kezdődött, és 2009-ben nyitotta meg kapuit a forgalom előtt. Célja a régió gazdasági diverzifikációjának elősegítése volt, különösen a bányászat és a feldolgozóipar területén. A kikötő természetes mélyvizű medencéje lehetővé teszi a legnagyobb hajók fogadását is. A létesítmény magában foglal egy konténerterminált, valamint ömlesztettáru- és folyadékterminálokat. A kikötő fontos szerepet játszik a mangánérc exportjában, amelyet vasúton szállítanak a bányákból. A Ngqura kikötő a környező ipari parkokkal együtt hozzájárul a térség foglalkoztatásának növekedéséhez. Az elmúlt években a kikötő forgalma folyamatosan nőtt, és ma már a dél-afrikai kikötők egyik legfontosabbika.",
+      ro: "Portul Ngqura este situat în apropierea orașului Gqeberha (fost Port Elizabeth), în cadrul Coega Industrial Development Zone. A fost inaugurat în 2009 și este cel mai adânc port din Africa de Sud, cu o adâncime naturală de până la 17 metri. Terminalul de containere are o capacitate anuală de peste 2 milioane TEU, iar portul dispune de facilități pentru mărfuri vrac, lichide și vehicule. Ngqura este un hub strategic pentru exportul de minereu de mangan din provincia Northern Cape, precum și pentru produse agricole și industriale. Portul beneficiază de conexiuni feroviare și rutiere excelente, fiind legat direct de coridoarele de transport către interior. De asemenea, găzduiește un terminal de gaze naturale lichefiate (GNL) care sprijină sectorul energetic. Investițiile continue în extinderea capacității îl fac un competitor important pentru porturile majore din regiune.",
+      en: "The Port of Ngqura is South Africa's newest deep-water port, strategically located within the Coega Industrial Development Zone in the Eastern Cape. Opened in 2009, it was designed to relieve congestion at other ports and to support industrial growth in the region. The port features a natural water depth of up to 17 meters, enabling it to accommodate the largest container vessels. Its container terminal has an annual capacity of over 2 million TEUs, making it one of the most efficient in Africa. Ngqura also handles bulk commodities such as manganese, iron ore, and coal, as well as liquid bulk and automotive cargo. The port's integrated logistics network includes direct rail links to major mining areas. Its construction cost approximately 10 billion South African rand. As a key component of the Coega IDZ, it has attracted significant foreign direct investment.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen von Ngqura wurde 2009 eröffnet und kostete rund 10 Milliarden Rand.", "Die natürliche Wassertiefe beträgt bis zu 17 Meter.", "Das Containerterminal hat eine Jahreskapazität von über 2 Millionen TEU.", "Der Hafen liegt etwa 20 Kilometer nordöstlich von Gqeberha.", "Er ist Teil der Coega Industrial Development Zone.", "Die Kailänge beträgt insgesamt etwa 2,5 Kilometer."],
+      hu: ["A kikötő építése 2002-ben kezdődött.", "A konténerterminál éves kapacitása 2,2 millió TEU.", "A kikötő területe 1.200 hektár.", "A hajók maximális merülése 17 méter.", "A kikötőben 6 darab daru található a konténerek kezelésére.", "A kikötő éves áruforgalma meghaladja a 30 millió tonnát."],
+      ro: ["Portul Ngqura a costat 10 miliarde de rand sud-africani pentru construcție.", "Adâncimea naturală a portului este de 17 metri.", "Terminalul de containere are o capacitate de 2 milioane TEU pe an.", "Portul se întinde pe o suprafață de 1.200 de hectare.", "Lungimea cheiurilor este de 2,5 kilometri.", "Portul a început operațiunile în anul 2009."],
+      en: ["Port of Ngqura was opened in 2009.", "Natural water depth reaches 17 meters.", "Container terminal capacity is over 2 million TEUs annually.", "The port spans 1,200 hectares.", "Total quay length is 2.5 kilometers.", "Construction cost was approximately ZAR 10 billion."],
+    },
+  },
   {
     id: "mponeng-gold-mine-economic-v2",
     type: "industry",
     parent: "ZA-GT",
     coords: [27.427, -26.436],
-    name: { de: "Mponeng-Goldbergwerk", hu: "Mponeng aranybánya", ro: "Mina de aur Mponeng", en: "Mponeng Gold Mine",
-image: "/poi-images/mponeng-gold-mine-economic-v2.webp"
-},
+    name: { de: "Mponeng-Goldbergwerk", hu: "Mponeng aranybánya", ro: "Mina de aur Mponeng", en: "Mponeng Gold Mine"},
+    image: "/poi-images/mponeng-gold-mine-economic-v2.webp",
     description: { de: "Das tiefste Goldbergwerk der Welt, das mehr als 4 Kilometer unter die Erdoberfläche reicht.", hu: "A világ legmélyebb aranybányája, amely több mint 4 kilométerre nyúlik be a Föld felszíne alá.", ro: "Cea mai adâncă mină de aur din lume, extinzându-se la peste 4 kilometri sub suprafața Pământului.", en: "The deepest gold mine in the world, stretching over 4 kilometers beneath the Earth's surface." },
     facts: {
       de: ["Die Temperaturen am Boden können ohne Kühlung bis zu 60 °C erreichen.", "Bergleute brauchen über eine Stunde, um von der Oberfläche zum Abbauort zu gelangen."],
       hu: ["A mélyben a hőmérséklet hűtés nélkül elérheti a 60°C-ot is.", "A bányászoknak több mint egy órába telik lejutni a felszínről a munkahelyre."],
       ro: ["Temperaturile la fund pot atinge până la 60°C fără răcire.", "Minerilor le ia peste o oră să ajungă de la suprafață la frontul de lucru."],
       en: ["Temperatures at the bottom can reach up to 60°C without cooling.", "It takes miners over an hour to travel from the surface to the working face."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Mponeng-Goldmine in der Provinz Gauteng, Südafrika, ist eine der tiefsten Minen der Welt. Sie erreicht eine Tiefe von über 4 Kilometern unter der Erde. Betrieben von Harmony Gold, fördert die Mine hauptsächlich Golderz, aber auch geringe Mengen an Uran. Die Mine nutzt hochentwickelte Kühlsysteme, um die extremen Temperaturen in der Tiefe zu bewältigen, die oft über 60 Grad Celsius liegen. Mponeng ist bekannt für ihre hohe Produktivität und fördert jährlich etwa 500.000 Unzen Gold. Die Lagerstätte wurde in den 1980er Jahren entdeckt, und der Abbau begann 1986. Die Mine beschäftigt rund 5.000 Arbeiter und ist ein wichtiger Wirtschaftsfaktor in der Region Carletonville. Die Goldgewinnung erfolgt über konventionelle Abbautechniken mit Bohren und Sprengen.",
+      hu: "A Mponeng aranybánya a dél-afrikai Gauteng tartományban található, és a világ egyik legmélyebb bányája. Mélysége meghaladja a 4 kilométert, ami rendkívüli kihívások elé állítja a bányászokat. A bánya üzemeltetője a Harmony Gold, amely a magas hőmérsékletű környezetben fejlett hűtési rendszereket alkalmaz. A bánya évente körülbelül 14 tonna aranyat termel. Az itt kitermelt érc átlagos aranytartalma 10 gramm/tonna, ami kiemelkedően magas. A bánya 1986-ban kezdte meg a termelést, és azóta folyamatosan növeli a kitermelést. A Mponeng fontos szerepet játszik a helyi gazdaságban, mivel több ezer embernek ad munkát. A bánya a mélysége miatt speciális biztonsági intézkedéseket igényel, beleértve a földrengések elleni védelmet is.",
+      ro: "Miniera de aur Mponeng, situată în provincia Gauteng din Africa de Sud, este una dintre cele mai adânci mine din lume, cu o adâncime care depășește 4 kilometri. Exploatată de Harmony Gold, miniera produce anual aproximativ 500.000 de uncii de aur. Temperaturile în subteran pot ajunge la 60°C, necesitând sisteme de răcire avansate pentru a asigura condiții de lucru sigure. Miniera a început producția în 1986 și are o rezervă de aur estimată la peste 20 de milioane de uncii. Accesul la adâncimi extreme se face prin puțuri verticale și galerii. Mponeng este un exemplu de inginerie minieră de vârf, utilizând tehnologii de monitorizare seismică. De asemenea, miniera contribuie semnificativ la economia locală, oferind locuri de muncă pentru aproximativ 5.000 de persoane.",
+      en: "Mponeng Gold Mine, operated by Harmony Gold, is one of the deepest mines in the world, reaching depths of over 4 kilometers below the surface. Located near Carletonville, South Africa, it produces approximately 500,000 ounces of gold annually. The mine is known for its extreme underground temperatures, often exceeding 60°C, which require sophisticated cooling systems. Mponeng began operations in 1986 and has proven reserves of about 20 million ounces of gold. The ore grade averages around 10 grams per ton, making it one of the highest-grade gold mines globally. The mine uses conventional drill-and-blast methods and has a workforce of around 5,000 employees. Its deep-level operations present unique engineering challenges, including rockburst management.",
+    },
+    factsAdvanced: {
+      de: ["Die Mponeng-Mine erreicht eine Tiefe von über 4.000 Metern.", "Sie fördert jährlich etwa 500.000 Unzen Gold.", "Die Durchschnittsgehalt des Golderzes beträgt 10 Gramm pro Tonne.", "Die Mine begann 1986 mit der Produktion.", "Die Temperaturen in der Tiefe können über 60 Grad Celsius steigen.", "Die Mine beschäftigt rund 5.000 Mitarbeiter."],
+      hu: ["A bánya mélysége 4.020 méter.", "Éves aranytermelése körülbelül 14 tonna.", "Az aranytartalom az ércben 10 gramm/tonna.", "A bánya 1986-ban nyílt meg.", "A hűtőrendszer 20.000 kilowatt teljesítményű.", "A bányában 5.000 ember dolgozik."],
+      ro: ["Miniera Mponeng are o adâncime de 4.020 metri.", "Producția anuală de aur este de 500.000 de uncii.", "Conținutul mediu de aur este de 10 grame pe tonă.", "Miniera a început producția în 1986.", "Temperatura în subteran ajunge la 60°C.", "Forța de muncă este de aproximativ 5.000 de angajați."],
+      en: ["Mponeng mine depth is over 4 kilometers (4,020 meters).", "Annual gold production is 500,000 ounces.", "Average ore grade is 10 grams per ton.", "Production started in 1986.", "Underground temperatures exceed 60°C.", "Workforce size is around 5,000."],
+    },
   },
   {
     id: "south-deep-gold-mine-economic-v2",
     type: "industry",
     parent: "ZA-GT",
     coords: [27.689, -26.398],
-    name: { de: "South-Deep-Goldbergwerk", hu: "South Deep aranybánya", ro: "Mina de aur South Deep", en: "South Deep Gold Mine",
-image: "/poi-images/south-deep-gold-mine-economic-v2.webp"
-},
+    name: { de: "South-Deep-Goldbergwerk", hu: "South Deep aranybánya", ro: "Mina de aur South Deep", en: "South Deep Gold Mine"},
+    image: "/poi-images/south-deep-gold-mine-economic-v2.webp",
     description: { de: "Eines der nach Reserven größten Goldbergwerke weltweit, in dem hochmechanisierte Abbautechniken zum Einsatz kommen.", hu: "A világ egyik legnagyobb aranybányája a tartalékok alapján, amely magasan gépesített bányászati technikákat alkalmaz.", ro: "Una dintre cele mai mari mine de aur la nivel global ca rezerve, utilizând tehnici de minerit extrem de mecanizate.", en: "One of the largest gold mines globally by reserves, utilizing highly mechanized mining techniques." },
     facts: {
       de: ["Wird voraussichtlich noch weit über das Jahr 2080 hinaus in Betrieb sein.", "Betrieben von Gold Fields Limited."],
       hu: ["Várhatóan még a 2080-as éven túl is üzemelni fog.", "A Gold Fields Limited üzemelteti."],
       ro: ["Se preconizează că va funcționa mult după anul 2080.", "Operat de Gold Fields Limited."],
       en: ["Expected to operate well past the year 2080.", "Operated by Gold Fields Limited."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die South Deep Goldmine in der Provinz Gauteng, Südafrika, ist eine der größten Goldminen der Welt. Sie liegt in der Nähe von Westonaria und wird von Gold Fields betrieben. Die Mine hat eine Lebensdauer von über 70 Jahren und fördert jährlich etwa 300.000 Unzen Gold. South Deep ist bekannt für ihre mechanisierten Abbaumethoden, die effizienter und sicherer sind als traditionelle Methoden. Die Mine erreicht Tiefen von bis zu 3 Kilometern. Das Erz hat einen durchschnittlichen Goldgehalt von etwa 5,8 Gramm pro Tonne. South Deep verfügt über eine der größten Goldreserven weltweit, mit geschätzten 37 Millionen Unzen. Die Mine beschäftigt rund 4.000 Mitarbeiter und ist ein wichtiger Arbeitgeber in der Region. Die Investitionen in die Mine beliefen sich auf mehrere Milliarden Rand.",
+      hu: "A South Deep aranybánya a dél-afrikai Gauteng tartományban található, és a világ egyik legnagyobb aranybányája. A Gold Fields üzemelteti, és évente mintegy 300.000 uncia aranyat termel. A bánya mélysége eléri a 3 kilométert. A kitermelés mechanizált módszerekkel történik, ami növeli a hatékonyságot és a biztonságot. A bánya aranytartaléka körülbelül 37 millió uncia, ami több évtizedes termelést biztosít. A South Deep a környék egyik legnagyobb foglalkoztatója, mintegy 4.000 munkavállalóval. A beruházások összege meghaladta a 10 milliárd randot. A bánya fontos szerepet játszik a dél-afrikai aranytermelésben, és hozzájárul a gazdasági fejlődéshez.",
+      ro: "Miniera South Deep, situată lângă Westonaria în provincia Gauteng, Africa de Sud, este una dintre cele mai mari mine de aur din lume, operată de Gold Fields. Producția anuală este de aproximativ 300.000 de uncii de aur. Miniera se remarcă prin utilizarea tehnicilor de exploatare mecanizată, care permit o extracție mai eficientă la adâncimi de până la 3 kilometri. Rezervele de aur sunt estimate la 37 de milioane de uncii, asigurând o viață operațională de peste 70 de ani. South Deep are un conținut mediu de aur de 5,8 grame pe tonă. Miniera angajează aproximativ 4.000 de persoane și a beneficiat de investiții de peste 10 miliarde de rand. Aceasta este considerată o mină de clasă mondială datorită tehnologiei și siguranței.",
+      en: "South Deep Gold Mine, operated by Gold Fields, is one of the largest gold mines globally, located near Westonaria, South Africa. It has a production capacity of around 300,000 ounces of gold per year. The mine extends to depths of 3 kilometers and uses mechanized mining methods for enhanced safety and productivity. Proven and probable reserves are estimated at 37 million ounces, providing a mine life exceeding 70 years. The average gold grade is 5.8 grams per ton. South Deep requires significant capital investment, with over ZAR 10 billion spent on development. The mine employs about 4,000 people and supports local communities through various social programs. Its advanced ventilation and cooling systems manage the high underground temperatures.",
+    },
+    factsAdvanced: {
+      de: ["Die South Deep Mine fördert jährlich etwa 300.000 Unzen Gold.", "Die Mine erreicht eine Tiefe von bis zu 3 Kilometern.", "Der durchschnittliche Goldgehalt des Erzes beträgt 5,8 Gramm pro Tonne.", "Die geschätzten Goldreserven liegen bei 37 Millionen Unzen.", "Die Mine hat eine Lebensdauer von über 70 Jahren.", "Die Investitionen beliefen sich auf über 10 Milliarden Rand."],
+      hu: ["A bánya éves aranytermelése 300.000 uncia.", "A mélysége 3.000 méter.", "Az aranytartalom 5,8 gramm/tonna.", "A tartalékok 37 millió unciát tesznek ki.", "A bánya 4.000 embert foglalkoztat.", "A beruházások 10 milliárd randot meghaladtak."],
+      ro: ["Producția anuală a minei South Deep este de 300.000 de uncii.", "Adâncimea minei este de până la 3 kilometri.", "Conținutul mediu de aur este de 5,8 grame pe tonă.", "Rezervele totale sunt de 37 de milioane de uncii.", "Durata de viață a minei depășește 70 de ani.", "Investiția totală a fost de peste 10 miliarde de rand."],
+      en: ["Annual gold production at South Deep is 300,000 ounces.", "The mine reaches a depth of 3 kilometers.", "Average gold grade is 5.8 grams per ton.", "Total gold reserves are 37 million ounces.", "Mine life exceeds 70 years.", "Capital investment exceeded ZAR 10 billion."],
+    },
   },
   {
     id: "cullinan-diamond-mine-economic-v2",
     type: "industry",
     parent: "ZA-GT",
     coords: [28.514, -25.671],
-    name: { de: "Cullinan-Diamantenmine", hu: "Cullinan gyémántbánya", ro: "Mina de diamante Cullinan", en: "Cullinan Diamond Mine",
-image: "/poi-images/cullinan-diamond-mine-economic-v2.webp"
-},
+    name: { de: "Cullinan-Diamantenmine", hu: "Cullinan gyémántbánya", ro: "Mina de diamante Cullinan", en: "Cullinan Diamond Mine"},
+    image: "/poi-images/cullinan-diamond-mine-economic-v2.webp",
     description: { de: "Berühmt für die Förderung des Cullinan-Diamanten, des größten jemals gefundenen Rohdiamanten in Edelsteinqualität.", hu: "Híres arról, hogy itt találták a Cullinan gyémántot, a valaha talált legnagyobb drágakő minőségű nyersgyémántot.", ro: "Faimoasă pentru producerea diamantului Cullinan, cel mai mare diamant brut de calitate prețioasă găsit vreodată.", en: "Famous for producing the Cullinan Diamond, the largest gem-quality rough diamond ever found." },
     facts: {
       de: ["Der Cullinan-Diamant wog bei seiner Entdeckung im Jahr 1905 3.106 Karat.", "Produziert weiterhin erhebliche Mengen seltener blauer Diamanten."],
       hu: ["A Cullinan gyémánt 3106 karátos volt, amikor 1905-ben felfedezték.", "Továbbra is jelentős mennyiségű ritka kék gyémántot bányásznak itt."],
       ro: ["Diamantul Cullinan cântărea 3.106 carate la descoperirea sa în 1905.", "Continuă să producă cantități semnificative de diamante albastre rare."],
       en: ["The Cullinan Diamond weighed 3,106 carats when discovered in 1905.", "Continues to produce significant quantities of rare blue diamonds."]
-    }, image: "/poi-images/cullinan-diamond-mine-economic-v2.webp"},
+    }, image: "/poi-images/cullinan-diamond-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Cullinan-Diamantenmine in der Provinz Gauteng, Südafrika, ist bekannt für die Förderung des größten jemals gefundenen Rohdiamanten, des Cullinan-Diamanten von 1905. Die Mine liegt etwa 30 Kilometer östlich von Pretoria und wird von Petra Diamonds betrieben. Sie produziert jährlich etwa 2 Millionen Karat Diamanten, darunter viele Edelsteine von außergewöhnlicher Größe und Qualität. Die Mine ist eine der wichtigsten Diamantenminen der Welt und verfügt über eine der höchsten Karatausbeuten pro Tonne Erz. Der Abbau erfolgt untertägig in bis zu 700 Metern Tiefe. Die Mine hat eine geschätzte Lebensdauer von mehreren Jahrzehnten. Sie beschäftigt rund 2.000 Mitarbeiter. Cullinan ist auch für die berühmten Diamanten bekannt, die in den britischen Kronjuwelen verwendet werden.",
+      hu: "A Cullinan gyémántbánya Dél-Afrika Gauteng tartományában található, Pretoriától keletre. Híres a Cullinan gyémántról, amely a valaha talált legnagyobb nyers gyémánt volt, 3.106 karátos. A bányát ma a Petra Diamonds üzemelteti, és évente mintegy 2 millió karát gyémántot termel. A bánya mélysége eléri a 700 métert. A Cullinan egyedülálló a magas minőségű, nagy méretű gyémántokról. A kitermelt gyémántok között számos híres példány található, például a Nagy Csillag Afrikából. A bánya körülbelül 2.000 embernek ad munkát. A Cullinan bánya fontos szerepet játszik a dél-afrikai gyémántiparban, és a turisták számára is látogatható.",
+      ro: "Miniera de diamante Cullinan, situată în provincia Gauteng, Africa de Sud, este faimoasă pentru descoperirea celui mai mare diamant brut din istorie, în 1905, cu o greutate de 3.106 carate. Exploatată de Petra Diamonds, miniera produce anual aproximativ 2 milioane de carate de diamante. Adâncimea minei ajunge la 700 de metri, iar extracția se face subteran. Cullinan este renumită pentru diamantele sale de calitate gemă, inclusiv diamantele care acum fac parte din bijuteriile coroanei britanice. Miniera are o capacitate de producție ridicată și o durată de viață estimată la zeci de ani. Angajează în jur de 2.000 de oameni. Cullinan atrage și turiști interesați de istoria mineritului diamantelor.",
+      en: "Cullinan Diamond Mine, located east of Pretoria in Gauteng, is world-famous for producing the largest rough diamond ever found, the 3,106-carat Cullinan Diamond in 1905. Operated by Petra Diamonds, the mine now produces around 2 million carats of diamonds annually. Mining occurs underground at depths of up to 700 meters. The mine is known for its high proportion of large, high-quality gem diamonds. Notable diamonds from Cullinan include the Great Star of Africa, set in the British Crown Jewels. The mine employs approximately 2,000 workers and has a substantial resource base ensuring longevity. Cullinan also offers surface tours to visitors, showcasing its rich history and operating methods.",
+    },
+    factsAdvanced: {
+      de: ["Der Cullinan-Diamant wog 3.106 Karat bei seiner Entdeckung 1905.", "Die Mine fördert jährlich etwa 2 Millionen Karat Diamanten.", "Die Abbauteife beträgt bis zu 700 Meter.", "Die Mine beschäftigt rund 2.000 Mitarbeiter.", "Sie liegt etwa 30 Kilometer östlich von Pretoria.", "Die Mine produziert seit 1903."],
+      hu: ["A Cullinan gyémánt 3.106 karátos volt.", "A bánya éves termelése 2 millió karát.", "A bánya mélysége 700 méter.", "2.000 embert foglalkoztat.", "A bánya 1903-ban nyílt meg.", "A bánya területe 1.200 hektár."],
+      ro: ["Diamantul Cullinan a cântărit 3.106 carate.", "Miniera produce 2 milioane de carate pe an.", "Adâncimea minei este de 700 de metri.", "Numărul de angajați este de 2.000.", "Miniera a fost deschisă în 1903.", "Suprafața minei este de 1.200 de hectare."],
+      en: ["Cullinan diamond weighed 3,106 carats when found in 1905.", "Annual diamond production is approximately 2 million carats.", "Mining depth reaches 700 meters.", "Workforce size is about 2,000.", "The mine opened in 1903.", "Mine area is 1,200 hectares."],
+    },
+  },
   {
     id: "venetia-diamond-mine-economic-v2",
     type: "industry",
     parent: "ZA-LP",
     coords: [29.316, -22.433],
-    name: { de: "Venetia-Diamantenmine", hu: "Venetia gyémántbánya", ro: "Mina de diamante Venetia", en: "Venetia Diamond Mine",
-image: "/poi-images/venetia-diamond-mine-economic-v2.webp"
-},
+    name: { de: "Venetia-Diamantenmine", hu: "Venetia gyémántbánya", ro: "Mina de diamante Venetia", en: "Venetia Diamond Mine"},
+    image: "/poi-images/venetia-diamond-mine-economic-v2.webp",
     description: { de: "Der größte Diamantenproduzent in Südafrika, der sich derzeit vom Tagebau auf den Untertagebau umstellt.", hu: "Dél-Afrika legnagyobb gyémántkitermelője, amely jelenleg a felszíni fejtésről a földalatti bányászatra tér át.", ro: "Cel mai mare producător de diamante din Africa de Sud, aflat în prezent în tranziție de la exploatarea de suprafață la cea subterană.", en: "The largest producer of diamonds in South Africa, currently transitioning from open-pit to underground mining." },
     facts: {
       de: ["Macht über 40 % der jährlichen Diamantenproduktion Südafrikas aus.", "Das Untertageprojekt wird die Lebensdauer der Mine bis 2046 verlängern."],
       hu: ["Dél-Afrika éves gyémánttermelésének több mint 40%-át adja.", "A földalatti projekt 2046-ig meghosszabbítja a bánya élettartamát."],
       ro: ["Reprezintă peste 40% din producția anuală de diamante a Africii de Sud.", "Proiectul subteran va extinde durata de viață a minei până în 2046."],
       en: ["Accounts for over 40% of South Africa's annual diamond production.", "The underground project will extend the mine's life to 2046."]
-    }, image: "/poi-images/venetia-diamond-mine-economic-v2.webp"},
+    }, image: "/poi-images/venetia-diamond-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Venetia-Diamantenmine in der Provinz Limpopo, Südafrika, ist die größte Diamantenmine des Landes. Sie liegt in der Nähe des Flusses Limpopo, nahe der Grenze zu Simbabwe. Betrieben von De Beers, produziert die Mine jährlich etwa 4 Millionen Karat Diamanten. Der Abbau erfolgt im Tagebau und untertägig, wobei die Tagebaugrube eine Tiefe von über 450 Metern erreicht. Venetia ist bekannt für die Produktion von hochwertigen Edeldiamanten und hat eine geschätzte Lebensdauer bis mindestens 2040. Die Mine beschäftigt rund 3.600 Mitarbeiter. Sie ist ein wichtiger Wirtschaftsfaktor in der Region, die sonst landwirtschaftlich geprägt ist. Die Mine wurde 1992 in Betrieb genommen und hat seitdem mehrere Erweiterungen erfahren.",
+      hu: "A Venetia gyémántbánya Dél-Afrika legnagyobb gyémántbányája, a Limpopo tartományban található. A De Beers üzemelteti, és évente körülbelül 4 millió karát gyémántot termel. A bányában külszíni és mélyművelés is folyik, a külszíni fejtés mélysége meghaladja a 450 métert. A bánya 1992-ben kezdte meg a termelést, és várhatóan 2040-ig üzemel. A Venetia a magas minőségű gyémántjairól híres. Körülbelül 3.600 embert foglalkoztat, és jelentős hatással van a helyi gazdaságra. A bánya a Limpopo folyó közelében fekszik, és a terület egyébként mezőgazdasági jellegű.",
+      ro: "Miniera Venetia, situată în provincia Limpopo, Africa de Sud, este cea mai mare mină de diamante din țară, operată de De Beers. Produce anual aproximativ 4 milioane de carate de diamante. Exploatarea se desfășoară atât în carieră deschisă, cât și subteran, cu o adâncime a carierei de peste 450 de metri. Miniera a început producția în 1992 și are o durată de viață estimată până în 2040. Venetia este renumită pentru diamantele de calitate superioară și are o forță de muncă de aproximativ 3.600 de angajați. Este un motor economic important pentru regiunea Limpopo, contribuind la dezvoltarea infrastructurii și a serviciilor locale.",
+      en: "Venetia Diamond Mine, operated by De Beers in Limpopo province, is South Africa's largest diamond mine by output. It produces around 4 million carats of diamonds annually, with mining operations both open-pit and underground. The open-pit reaches a depth of over 450 meters. The mine started production in 1992 and is expected to continue at least until 2040. Venetia is known for its high-quality gem diamonds and employs approximately 3,600 people. It is situated near the Limpopo River and has extensive processing facilities. The mine's expansion projects aim to extend its life and increase production.",
+    },
+    factsAdvanced: {
+      de: ["Die Venetia-Mine fördert jährlich etwa 4 Millionen Karat Diamanten.", "Der Tagebau erreicht eine Tiefe von über 450 Metern.", "Die Mine begann 1992 mit der Produktion.", "Sie beschäftigt rund 3.600 Mitarbeiter.", "Die geschätzte Lebensdauer reicht bis 2040.", "Die Mine liegt nahe der Grenze zu Simbabwe."],
+      hu: ["A bánya éves termelése 4 millió karát.", "A külszíni fejtés mélysége 450 méter.", "A bánya 1992-ben nyílt meg.", "3.600 embert foglalkoztat.", "A bánya becsült élettartama 2040-ig tart.", "A bánya a Limpopo folyó közelében fekszik."],
+      ro: ["Producția anuală a minei Venetia este de 4 milioane de carate.", "Adâncimea carierei este de peste 450 de metri.", "Miniera a început producția în 1992.", "Angajează 3.600 de persoane.", "Durata de viață estimată este până în 2040.", "Miniera este situată în apropierea râului Limpopo."],
+      en: ["Annual diamond production: 4 million carats.", "Open-pit depth: over 450 meters.", "Production started in 1992.", "Workforce: approximately 3,600.", "Expected mine life until 2040.", "Located near the Limpopo River."],
+    },
+  },
   {
     id: "finsch-diamond-mine-economic-v2",
     type: "industry",
     parent: "ZA-NC",
     coords: [23.447, -28.381],
-    name: { de: "Finsch-Diamantenmine", hu: "Finsch gyémántbánya", ro: "Mina de diamante Finsch", en: "Finsch Diamond Mine",
-image: "/poi-images/finsch-diamond-mine-economic-v2.webp"
-},
+    name: { de: "Finsch-Diamantenmine", hu: "Finsch gyémántbánya", ro: "Mina de diamante Finsch", en: "Finsch Diamond Mine"},
+    image: "/poi-images/finsch-diamond-mine-economic-v2.webp",
     description: { de: "Eines der bedeutendsten untertägigen Diamantenbergwerke Südafrikas, bekannt für moderne Blockbau-Abbaumethoden.", hu: "Dél-Afrika egyik legjelentősebb földalatti gyémántbányája, amely modern omlasztásos bányászati technikáiról ismert.", ro: "Una dintre cele mai semnificative mine subterane de diamante din Africa de Sud, cunoscută pentru tehnicile moderne de exploatare în masă.", en: "One of South Africa's most significant underground diamond mines, known for modern block cave mining techniques." },
     facts: {
       de: ["Ursprünglich in den 1960er Jahren als Tagebau entwickelt.", "Nutzt ein automatisiertes Erztransportsystem."],
       hu: ["Eredetileg külszíni bányaként nyitották meg az 1960-as években.", "Automatizált ércszállító rendszert használ."],
       ro: ["Dezvoltată inițial ca mină de suprafață în anii 1960.", "Utilizează un sistem automatizat de transport al minereului."],
       en: ["Originally developed as an open-pit mine in the 1960s.", "Utilizes an automated ore transport system."]
-    }, image: "/poi-images/finsch-diamond-mine-economic-v2.webp"},
+    }, image: "/poi-images/finsch-diamond-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Finsch-Diamantenmine liegt in der Provinz Nordkap, Südafrika, nahe der Stadt Lime Acres. Sie wird von Petra Diamonds betrieben und ist eine der größten Diamantenminen des Landes. Die Mine fördert jährlich etwa 1,5 Millionen Karat Diamanten. Der Abbau erfolgt untertägig, hauptsächlich über einen Schacht. Die Mine erreicht Tiefen von über 800 Metern. Finsch ist bekannt für die Produktion einer hohen Anzahl von farbigen Diamanten, darunter gelbe und braune Steine. Die Mine wurde 1964 in Betrieb genommen und hat seitdem umfangreiche Investitionen erhalten. Sie beschäftigt rund 1.800 Mitarbeiter. Finsch trägt erheblich zur lokalen Wirtschaft bei und ist ein wichtiger Arbeitgeber in der ländlichen Region.",
+      hu: "A Finsch gyémántbánya a dél-afrikai Észak-fok tartományban található, Lime Acres város közelében. A Petra Diamonds üzemelteti, és évente mintegy 1,5 millió karát gyémántot termel. A bánya mélyművelésű, a fő akna mélysége meghaladja a 800 métert. A Finsch híres a színes gyémántokról, különösen a sárga és barna kövekről. A bánya 1964-ben nyílt meg, és azóta folyamatosan fejlesztik. Körülbelül 1.800 embernek ad munkát. A bánya fontos szerepet játszik a régió gazdaságában, ahol kevés más munkalehetőség van.",
+      ro: "Miniera Finsch, situată în provincia Northern Cape, lângă Lime Acres, este una dintre marile mine de diamante din Africa de Sud, operată de Petra Diamonds. Produce anual aproximativ 1,5 milioane de carate de diamante. Exploatarea este subterană, ajungând la adâncimi de peste 800 de metri. Finsch este cunoscută pentru diamantele sale colorate, în special galbene și maro. Miniera a fost deschisă în 1964 și angajează în jur de 1.800 de persoane. Ea contribuie semnificativ la economia locală și la dezvoltarea comunității din jur.",
+      en: "Finsch Diamond Mine, located in the Northern Cape near Lime Acres, is operated by Petra Diamonds. It has an annual production of about 1.5 million carats of diamonds. The mine is underground, reaching depths over 800 meters. Finsch is particularly known for its fancy colored diamonds, including yellow and brown stones. The mine opened in 1964 and employs about 1,800 people. It has undergone several expansions to increase output. The mine is a key economic driver in the sparsely populated Northern Cape region.",
+    },
+    factsAdvanced: {
+      de: ["Die Finsch-Mine produziert jährlich etwa 1,5 Millionen Karat Diamanten.", "Die Abbauteife beträgt über 800 Meter.", "Die Mine wurde 1964 eröffnet.", "Sie beschäftigt rund 1.800 Mitarbeiter.", "Die Mine ist bekannt für farbige Diamanten.", "Sie liegt in der Provinz Nordkap."],
+      hu: ["A bánya éves termelése 1,5 millió karát.", "A mélysége meghaladja a 800 métert.", "A bánya 1964-ben nyílt meg.", "1.800 embert foglalkoztat.", "Főként színes gyémántjairól ismert.", "A bánya Lime Acres közelében található."],
+      ro: ["Producția anuală: 1,5 milioane de carate.", "Adâncimea minei: peste 800 de metri.", "Anul deschiderii: 1964.", "Număr de angajați: 1.800.", "Specializată în diamante colorate.", "Situată în provincia Northern Cape."],
+      en: ["Annual production: 1.5 million carats.", "Mine depth: over 800 meters.", "Opened in 1964.", "Workforce: 1,800.", "Known for colored diamonds.", "Located in Northern Cape province."],
+    },
+  },
   {
     id: "sishen-iron-ore-mine-economic-v2",
     type: "industry",
     parent: "ZA-NC",
     coords: [23.003, -27.733],
-    name: { de: "Sishen-Eisenerzmine", hu: "Sishen vasércbánya", ro: "Mina de minereu de fier Sishen", en: "Sishen Iron Ore Mine",
-image: "/poi-images/sishen-iron-ore-mine-economic-v2.webp"
-},
+    name: { de: "Sishen-Eisenerzmine", hu: "Sishen vasércbánya", ro: "Mina de minereu de fier Sishen", en: "Sishen Iron Ore Mine"},
+    image: "/poi-images/sishen-iron-ore-mine-economic-v2.webp",
     description: { de: "Einer der größten Eisenerz-Tagebaue der Welt, der hochwertiges Eisenerz fördert.", hu: "A világ egyik legnagyobb külszíni vasércbányája, amely kiváló minőségű vasércet termel ki.", ro: "Una dintre cele mai mari mine de minereu de fier de suprafață din lume, producând minereu de fier de înaltă calitate.", en: "One of the largest open-pit iron ore mines in the world, producing high-grade iron ore." },
     facts: {
       de: ["Die Mine erstreckt sich über eine Länge von 14 Kilometern.", "Das Erz wird auf einer massiven, speziell dafür gebauten Bahnstrecke zum Hafen von Saldanha transportiert."],
       hu: ["A bánya több mint 14 kilométer hosszú.", "A kitermelt ércet egy hatalmas, dedikált vasútvonalon szállítják Saldanha kikötőjébe."],
       ro: ["Mina se întinde pe o lungime de peste 14 kilometri.", "Minereul său este transportat în Portul Saldanha pe o linie de cale ferată masivă dedicată."],
       en: ["The mine stretches over 14 kilometers in length.", "Its ore is transported to the Port of Saldanha on a massive dedicated railway line."]
-    }, image: "/poi-images/sishen-iron-ore-mine-economic-v2.webp"},
+    }, image: "/poi-images/sishen-iron-ore-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sishen-Eisenerzmine in der Provinz Nordkap, Südafrika, ist eine der größten Eisenerzminen der Welt. Sie liegt in der Nähe der Stadt Kathu und wird von Kumba Iron Ore (Anglo American) betrieben. Die Mine produziert jährlich etwa 60 Millionen Tonnen Eisenerz. Der Abbau erfolgt im Tagebau, und die Mine erstreckt sich über eine Länge von rund 14 Kilometern. Sishen liefert hochwertiges Eisenerz mit einem Eisengehalt von rund 64%. Das Erz wird über eine spezielle Eisenbahnlinie zum Hafen von Saldanha Bay transportiert. Die Mine beschäftigt etwa 10.000 Mitarbeiter und ist ein wichtiger Wirtschaftsfaktor in der Region. Die Mine wurde 1953 in Betrieb genommen und hat seitdem mehrere Erweiterungen erfahren.",
+      hu: "A Sishen vasércbánya a dél-afrikai Észak-fok tartományban található, Kathu város közelében. A Kumba Iron Ore üzemelteti, és a világ egyik legnagyobb vasércbányája. Évente körülbelül 60 millió tonna vasércet termel. A bánya külszíni művelésű, és hossza eléri a 14 kilométert. A kitermelt érc vas tartalma 64% körüli. A vasércet egy speciális vasútvonalon szállítják a Saldanha-öböl kikötőjébe. A Sishen körülbelül 10.000 embernek ad munkát, és jelentős gazdasági szerepet játszik a régióban. A bánya 1953-ban kezdte meg a termelést.",
+      ro: "Miniera de minereu de fier Sishen, situată în provincia Northern Cape, lângă Kathu, este una dintre cele mai mari mine de fier din lume, operată de Kumba Iron Ore (Anglo American). Produce anual aproximativ 60 de milioane de tone de minereu de fier. Exploatarea este în carieră deschisă, iar miniera se întinde pe o lungime de 14 kilometri. Conținutul de fier al minereului este de aproximativ 64%. Transportul se face pe o cale ferată dedicată către portul Saldanha Bay. Miniera angajează circa 10.000 de persoane și este un pilon economic al regiunii. A început producția în 1953.",
+      en: "Sishen Iron Ore Mine, located in the Northern Cape near Kathu, is one of the world's largest open-pit iron ore mines, operated by Kumba Iron Ore. It produces around 60 million tons of iron ore annually. The mine's pit extends about 14 kilometers in length. The ore has an average iron content of 64%. The product is transported via a dedicated railway line to the port of Saldanha Bay for export. Sishen employs roughly 10,000 workers and commenced operations in 1953. The mine has undergone expansions to maintain high output levels and is a key contributor to South Africa's mineral exports.",
+    },
+    factsAdvanced: {
+      de: ["Die Sishen-Mine produziert jährlich etwa 60 Millionen Tonnen Eisenerz.", "Die Tagebaugrube erstreckt sich über 14 Kilometer Länge.", "Der Eisengehalt des Erzes beträgt rund 64%.", "Die Mine beschäftigt etwa 10.000 Mitarbeiter.", "Sie wurde 1953 in Betrieb genommen.", "Das Erz wird zur Saldanha Bay transportiert."],
+      hu: ["A bánya éves termelése 60 millió tonna.", "A bánya hossza 14 kilométer.", "A vasérctartalom 64%.", "10.000 embert foglalkoztat.", "A bánya 1953-ban nyílt meg.", "A szállítás vasúton történik a Saldanha-öbölbe."],
+      ro: ["Producția anuală: 60 de milioane de tone.", "Lungimea carierei: 14 kilometri.", "Conținut de fier: 64%.", "Angajați: 10.000.", "Anul deschiderii: 1953.", "Transport feroviar către Saldanha Bay."],
+      en: ["Annual production: 60 million tons of iron ore.", "Pit length: 14 kilometers.", "Iron content: 64%.", "Workforce: 10,000.", "Opened: 1953.", "Rail transport to Saldanha Bay port."],
+    },
+  },
   {
     id: "palabora-copper-mine-economic-v2",
     type: "industry",
     parent: "ZA-LP",
     coords: [31.127, -24.001],
-    name: { de: "Palabora-Kupfermine", hu: "Palabora rézbánya", ro: "Mina de cupru Palabora", en: "Palabora Copper Mine",
-image: "/poi-images/palabora-copper-mine-economic-v2.webp"
-},
+    name: { de: "Palabora-Kupfermine", hu: "Palabora rézbánya", ro: "Mina de cupru Palabora", en: "Palabora Copper Mine"},
+    image: "/poi-images/palabora-copper-mine-economic-v2.webp",
     description: { de: "Südafrikas wichtigster Produzent von raffiniertem Kupfer, ursprünglich berühmt für das breiteste von Menschen gemachte Loch Afrikas.", hu: "Dél-Afrika fő finomított réztermelője, amely eredetileg Afrika legszélesebb mesterséges gödréről volt híres.", ro: "Principalul producător de cupru rafinat din Africa de Sud, renumit inițial pentru cea mai largă groapă creată de om din Africa.", en: "South Africa's main producer of refined copper, originally famous for having the widest man-made hole in Africa." },
     facts: {
       de: ["Arbeitet nahe der Grenze zum Kruger-Nationalpark.", "Produziert auch Nebenprodukte wie Magnetit und Vermiculit."],
       hu: ["A Kruger Nemzeti Park határának közelében működik.", "Olyan melléktermékeket is kitermel, mint a magnetit és a vermikulit."],
       ro: ["Operează aproape de granița Parcului Național Kruger.", "Produce, de asemenea, produse secundare precum magnetit și vermiculit."],
       en: ["Operates close to the border of the Kruger National Park.", "Also produces by-products like magnetite and vermiculite."]
-    }, image: "/poi-images/palabora-copper-mine-economic-v2.webp"},
+    }, image: "/poi-images/palabora-copper-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Palabora-Kupfermine in der Provinz Limpopo, Südafrika, nahe der Stadt Phalaborwa, ist eine der größten Kupferminen des Landes. Sie wird von Palabora Mining Company betrieben und produziert jährlich etwa 60.000 Tonnen Kupfer. Die Mine begann als Tagebau, der sich zu einem der größten künstlichen Löcher der Welt entwickelte, mit einer Tiefe von über 800 Metern. Heute wird untertägig abgebaut, da der Tagebau erschöpft ist. Palabora fördert auch Nebenprodukte wie Magnetit, Zirkonium und Nickel. Die Mine beschäftigt etwa 2.000 Mitarbeiter. Sie ist ein wichtiger Arbeitgeber in der Region und hat eine bedeutende Rolle in der lokalen Wirtschaft. Die Mine wurde 1956 in Betrieb genommen.",
+      hu: "A Palabora rézbánya Dél-Afrika Limpopo tartományában található, Phalaborwa város közelében. A Palabora Mining Company üzemelteti, és évente mintegy 60.000 tonna rezet termel. A bánya eredetileg külszíni fejtés volt, amely a világ egyik legnagyobb mesterséges gödrét hozta létre, több mint 800 méter mélyen. Jelenleg mélyművelés folyik. A bánya melléktermékként magnetitet, cirkóniumot és nikkelt is termel. Körülbelül 2.000 embert foglalkoztat. A Palabora 1956-ban nyílt meg, és fontos szerepet játszik a helyi gazdaságban.",
+      ro: "Miniera de cupru Palabora, situată lângă Phalaborwa în provincia Limpopo, Africa de Sud, este una dintre cele mai mari mine de cupru din țară, operată de Palabora Mining Company. Produce anual aproximativ 60.000 de tone de cupru. Exploatarea a început ca o carieră deschisă, care a devenit una dintre cele mai mari gropi artificiale din lume, cu o adâncime de peste 800 de metri. Acum, extragerea se face subteran. Miniera produce și subproduse precum magnetit, zirconiu și nichel. Angajează în jur de 2.000 de persoane. A fost deschisă în 1956.",
+      en: "Palabora Copper Mine, located near Phalaborwa in Limpopo, is one of South Africa's largest copper mines, operated by Palabora Mining Company. It produces about 60,000 tons of copper annually. Initially an open pit, it became one of the world's largest man-made holes, over 800 meters deep. Currently, mining is underground. By-products include magnetite, zirconium, and nickel. The mine employs about 2,000 people. It started operations in 1956 and is a key economic entity in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Palabora-Mine produziert jährlich etwa 60.000 Tonnen Kupfer.", "Der ursprüngliche Tagebau erreichte eine Tiefe von über 800 Metern.", "Die Mine produziert auch Magnetit, Zirkonium und Nickel.", "Sie beschäftigt rund 2.000 Mitarbeiter.", "Die Mine wurde 1956 eröffnet.", "Der heutige Abbau erfolgt untertägig."],
+      hu: ["A bánya éves réztermelése 60.000 tonna.", "A külszíni fejtés mélysége meghaladta a 800 métert.", "Melléktermékek: magnetit, cirkónium, nikkel.", "2.000 embert foglalkoztat.", "A bánya 1956-ban nyílt meg.", "Mára mélyművelésűvé vált."],
+      ro: ["Producția anuală de cupru: 60.000 de tone.", "Adâncimea carierei: peste 800 de metri.", "Subproduse: magnetit, zirconiu, nichel.", "Angajați: 2.000.", "Anul deschiderii: 1956.", "Extracția actuală este subterană."],
+      en: ["Annual copper production: 60,000 tons.", "Former open pit depth: over 800 meters.", "By-products: magnetite, zirconium, nickel.", "Workforce: 2,000.", "Opened: 1956.", "Now underground mining."],
+    },
+  },
   {
     id: "grootegeluk-coal-mine-economic-v2",
     type: "industry",
     parent: "ZA-LP",
     coords: [27.562, -23.666],
-    name: { de: "Grootegeluk-Kohlemine", hu: "Grootegeluk szénbánya", ro: "Mina de cărbune Grootegeluk", en: "Grootegeluk Coal Mine",
-image: "/poi-images/grootegeluk-coal-mine-economic-v2.webp"
-},
+    name: { de: "Grootegeluk-Kohlemine", hu: "Grootegeluk szénbánya", ro: "Mina de cărbune Grootegeluk", en: "Grootegeluk Coal Mine"},
+    image: "/poi-images/grootegeluk-coal-mine-economic-v2.webp",
     description: { de: "Der größte Kohletagebau in Südafrika, der nahegelegene Kraftwerke mit Brennstoff versorgt.", hu: "Dél-Afrika legnagyobb külszíni szénbányája, amely a közeli erőműveket látja el fűtőanyaggal.", ro: "Cea mai mare mină de cărbune de suprafață din Africa de Sud, furnizând combustibil pentru centralele electrice din apropiere.", en: "The largest open-cast coal mine in South Africa, supplying fuel to nearby power stations." },
     facts: {
       de: ["Verfügt über den weltgrößten Kohleaufbereitungskomplex.", "Stellt die primäre Kohleversorgung für die riesigen Kraftwerke Medupi und Matimba sicher."],
       hu: ["Itt található a világ legnagyobb szénelőkészítő komplexuma.", "Elsődlegesen biztosítja a hatalmas Medupi és Matimba erőművek szénellátását."],
       ro: ["Dispune de cel mai mare complex de preparare a cărbunelui din lume.", "Asigură aprovizionarea primară cu cărbune pentru masivele centrale electrice Medupi și Matimba."],
       en: ["Features the world's largest coal beneficiation complex.", "Provides primary coal supply to the massive Medupi and Matimba power stations."]
-    }, image: "/poi-images/grootegeluk-coal-mine-economic-v2.webp"},
+    }, image: "/poi-images/grootegeluk-coal-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Grootegeluk-Kohlenmine in der Provinz Limpopo, Südafrika, nahe der Stadt Lephalale, ist eine der größten Kohleminen des Landes. Sie wird von Exxaro Resources betrieben und produziert jährlich etwa 30 Millionen Tonnen Kohle. Die Mine liefert Kohle an das nahegelegene Kraftwerk Medupi und andere afrikanische Märkte. Der Abbau erfolgt im Tagebau. Die Kohle hat einen hohen Heizwert und einen niedrigen Schwefelgehalt. Grootegeluk beschäftigt rund 2.500 Mitarbeiter. Die Mine wurde 1980 in Betrieb genommen und hat seitdem umfangreiche Erweiterungen erfahren. Sie ist ein wichtiger Bestandteil der südafrikanischen Energieversorgung.",
+      hu: "A Grootegeluk szénbánya a dél-afrikai Limpopo tartományban, Lephalale város közelében található. Az Exxaro Resources üzemelteti, és évente mintegy 30 millió tonna szenet termel. A bánya a közeli Medupi erőművet látja el szénnel, emellett exportra is termel. A bánya külszíni művelésű. A szén magas fűtőértékű és alacsony kéntartalmú. A Grootegeluk körülbelül 2.500 embert foglalkoztat, és 1980-ban nyílt meg. Fontos szerepet játszik Dél-Afrika energiaellátásában.",
+      ro: "Miniera de cărbune Grootegeluk, situată lângă Lephalale în provincia Limpopo, Africa de Sud, este una dintre cele mai mari mine de cărbune din țară, operată de Exxaro Resources. Produce anual aproximativ 30 de milioane de tone de cărbune. Cărbunele este furnizat centralei Medupi și pentru export. Exploatarea este în carieră deschisă. Cărbunele are o putere calorică ridicată și conținut scăzut de sulf. Miniera angajează aproximativ 2.500 de persoane. A fost deschisă în 1980.",
+      en: "Grootegeluk Coal Mine, located near Lephalale in Limpopo, is one of South Africa's largest coal mines, operated by Exxaro Resources. It produces around 30 million tons of coal annually, supplying the Medupi Power Station and export markets. The open-pit mine yields coal with high calorific value and low sulfur. The mine employs about 2,500 people. It began operations in 1980 and has undergone expansions to meet growing demand. Grootegeluk is integral to South Africa's energy infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Die Grootegeluk-Mine produziert jährlich etwa 30 Millionen Tonnen Kohle.", "Sie versorgt das Kraftwerk Medupi mit Kohle.", "Die Kohle hat einen hohen Heizwert und niedrigen Schwefelgehalt.", "Die Mine beschäftigt rund 2.500 Mitarbeiter.", "Sie wurde 1980 in Betrieb genommen.", "Der Abbau erfolgt im Tagebau."],
+      hu: ["A bánya éves termelése 30 millió tonna szén.", "A Medupi erőművet látja el szénnel.", "A szén magas fűtőértékű, alacsony kéntartalmú.", "2.500 embert foglalkoztat.", "A bánya 1980-ban nyílt meg.", "Külszíni fejtésű bánya."],
+      ro: ["Producția anuală: 30 de milioane de tone de cărbune.", "Furnizează cărbune centralei Medupi.", "Cărbune cu putere calorică ridicată și sulf scăzut.", "Angajați: 2.500.", "Anul deschiderii: 1980.", "Exploatare în carieră deschisă."],
+      en: ["Annual production: 30 million tons of coal.", "Supplies Medupi Power Station.", "High calorific value, low sulfur coal.", "Workforce: 2,500.", "Opened: 1980.", "Open-pit mining."],
+    },
+  },
   {
     id: "kusile-power-station-economic-v2",
     type: "industry",
     parent: "ZA-MP",
     coords: [28.924, -25.903],
-    name: { de: "Kusile-Kraftwerk", hu: "Kusile erőmű", ro: "Centrala electrică Kusile", en: "Kusile Power Station",
-image: "/poi-images/kusile-power-station-economic-v2.webp"
-},
+    name: { de: "Kusile-Kraftwerk", hu: "Kusile erőmű", ro: "Centrala electrică Kusile", en: "Kusile Power Station"},
+    image: "/poi-images/kusile-power-station-economic-v2.webp",
     description: { de: "Ein riesiges Kohlekraftwerk, das sich im Bau befindet und eines der größten der Welt werden soll.", hu: "Hatalmas, jelenleg is épülő széntüzelésű erőmű, amelyet a világ egyik legnagyobbnak terveztek.", ro: "O masivă centrală electrică pe cărbune aflată în construcție, proiectată să fie una dintre cele mai mari din lume.", en: "A massive coal-fired power station currently under construction, designed to be one of the largest in the world." },
     facts: {
       de: ["Es ist das erste Kraftwerk in Südafrika, das eine Rauchgasentschwefelungsanlage installiert.", "Wird nach Fertigstellung eine Kapazität von 4.800 Megawatt haben."],
       hu: ["Ez az első erőmű Dél-Afrikában, amely füstgáz-kénmentesítő technológiát alkalmaz.", "Befejezésekor 4800 megawatt kapacitással fog rendelkezni."],
       ro: ["Este prima centrală electrică din Africa de Sud care instalează tehnologie de desulfurare a gazelor de ardere.", "Va avea o capacitate de 4.800 de megawați la finalizare."],
       en: ["It is the first power station in South Africa to install flue-gas desulphurization technology.", "Will have a capacity of 4,800 megawatts upon completion."]
-    }, image: "/poi-images/kusile-power-station-economic-v2.webp"},
+    }, image: "/poi-images/kusile-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kusile-Kraftwerk in der Provinz Mpumalanga, Südafrika, nahe der Stadt eMalahleni, ist eines der größten Kohlekraftwerke der Welt. Es wird von Eskom betrieben und hat eine geplante Leistung von 4.800 Megawatt. Das Kraftwerk besteht aus sechs Blöcken, von denen die letzten 2024 in Betrieb genommen wurden. Kusile verwendet überkritische Dampfkesseltechnologie, um die Effizienz zu steigern und Emissionen zu reduzieren. Es ist Teil des südafrikanischen Stromversorgungssystems und spielt eine Schlüsselrolle bei der Deckung des nationalen Energiebedarfs. Das Kraftwerk beschäftigt rund 1.500 Mitarbeiter. Der Bau begann 2008 und kostete über 100 Milliarden Rand.",
+      hu: "A Kusile erőmű a dél-afrikai Mpumalanga tartományban, eMalahleni közelében található. Az Eskom üzemelteti, és a világ egyik legnagyobb szénerőműve, tervezett kapacitása 4.800 megawatt. Az erőmű hat egységből áll, amelyek közül az utolsó 2024-ben kezdte meg a termelést. A Kusile szuperkritikus technológiát alkalmaz a hatékonyság növelése érdekében. Építése 2008-ban kezdődött, és a költségek meghaladták a 100 milliárd randot. Az erőmű mintegy 1.500 embernek ad munkát, és kulcsfontosságú Dél-Afrika energiaellátásában.",
+      ro: "Centrala electrică Kusile, situată în provincia Mpumalanga, lângă eMalahleni, Africa de Sud, este una dintre cele mai mari centrale pe cărbune din lume, operată de Eskom. Are o capacitate planificată de 4.800 de megawați, distribuită pe șase unități, ultima fiind comisionată în 2024. Utilizează tehnologie cu abur supercritic pentru eficiență sporită. Construcția a început în 2008 și a costat peste 100 de miliarde de rand. Centrala angajează aproximativ 1.500 de persoane și este vitală pentru rețeaua electrică a Africii de Sud.",
+      en: "Kusile Power Station, located near eMalahleni in Mpumalanga, is one of the world's largest coal-fired power plants, operated by Eskom. Its planned capacity is 4,800 MW across six units, with the final unit commissioned in 2024. The plant uses supercritical boiler technology for improved efficiency and reduced emissions. Construction started in 2008 with a cost exceeding ZAR 100 billion. It employs about 1,500 workers. Kusile is a critical component of South Africa's power grid, helping to address energy shortages.",
+    },
+    factsAdvanced: {
+      de: ["Das Kusile-Kraftwerk hat eine geplante Leistung von 4.800 Megawatt.", "Es besteht aus sechs Blöcken.", "Der Bau begann 2008.", "Die Kosten beliefen sich auf über 100 Milliarden Rand.", "Es beschäftigt rund 1.500 Mitarbeiter.", "Der letzte Block wurde 2024 in Betrieb genommen."],
+      hu: ["A Kusile erőmű kapacitása 4.800 megawatt.", "Hat egységből áll.", "Építése 2008-ban kezdődött.", "Költsége meghaladta a 100 milliárd randot.", "1.500 embert foglalkoztat.", "Az utolsó egység 2024-ben indult."],
+      ro: ["Capacitatea planificată: 4.800 MW.", "Șase unități de producție.", "Construcția a început în 2008.", "Cost total: peste 100 miliarde de rand.", "Angajați: 1.500.", "Ultima unitate a intrat în funcțiune în 2024."],
+      en: ["Planned capacity: 4,800 MW.", "Six generating units.", "Construction started: 2008.", "Cost: over ZAR 100 billion.", "Workforce: 1,500.", "Final unit commissioned in 2024."],
+    },
+  },
   {
     id: "medupi-power-station-economic-v2",
     type: "industry",
     parent: "ZA-LP",
     coords: [27.56, -23.704],
-    name: { de: "Medupi-Kraftwerk", hu: "Medupi erőmű", ro: "Centrala electrică Medupi", en: "Medupi Power Station",
-image: "/poi-images/medupi-power-station-economic-v2.webp"
-},
+    name: { de: "Medupi-Kraftwerk", hu: "Medupi erőmű", ro: "Centrala electrică Medupi", en: "Medupi Power Station"},
+    image: "/poi-images/medupi-power-station-economic-v2.webp",
     description: { de: "Ein großes, trockengekühltes Kohlekraftwerk, das einen erheblichen Beitrag zum nationalen Stromnetz leistet.", hu: "Nagy, száraz hűtésű széntüzelésű erőmű, amely jelentősen hozzájárul az országos villamosenergia-hálózathoz.", ro: "O mare centrală electrică pe cărbune cu răcire uscată, contribuind semnificativ la rețeaua națională.", en: "A large dry-cooled coal-fired power station, significantly contributing to the national grid." },
     facts: {
       de: ["Nach installierter Kapazität das viertgrößte Kohlekraftwerk der Welt.", "Nutzt aufgrund von Wasserknappheit in der Region direkte Trockenkühlsysteme."],
       hu: ["A beépített kapacitás alapján a világ negyedik legnagyobb szénerőműve.", "A régió vízhiánya miatt közvetlen szárazhűtési rendszereket alkalmaz."],
       ro: ["A patra cea mai mare centrală pe cărbune din lume după capacitatea instalată.", "Utilizează sisteme de răcire uscată directă din cauza deficitului de apă din regiune."],
       en: ["The fourth-largest coal plant in the world by installed capacity.", "Utilizes direct dry cooling systems due to water scarcity in the region."]
-    }, image: "/poi-images/medupi-power-station-economic-v2.webp"},
+    }, image: "/poi-images/medupi-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Medupi-Kraftwerk in der Provinz Limpopo, Südafrika, nahe Lephalale, ist ein weiteres großes Kohlekraftwerk von Eskom. Es hat eine installierte Leistung von 4.764 Megawatt, verteilt auf sechs Blöcke. Medupi wurde als Trockenkühlkraftwerk konzipiert, um Wasserverbrauch zu reduzieren. Der Bau begann 2007 und wurde 2024 abgeschlossen. Das Kraftwerk nutzt überkritische Dampftechnologie. Es liefert Strom an das nationale Netz und trägt wesentlich zur Stabilisierung der Energieversorgung bei. Medupi beschäftigt rund 1.500 Mitarbeiter. Die Kosten beliefen sich auf über 120 Milliarden Rand.",
+      hu: "A Medupi erőmű a dél-afrikai Limpopo tartományban, Lephalale közelében található. Az Eskom üzemelteti, és 4.764 megawatt kapacitású. Hat egységből áll, és száraz hűtési technológiát alkalmaz a vízfelhasználás csökkentése érdekében. Építése 2007-ben kezdődött, és 2024-ben fejeződött be. A költségek meghaladták a 120 milliárd randot. Az erőmű körülbelül 1.500 embernek ad munkát, és fontos szerepet játszik Dél-Afrika energiaellátásában.",
+      ro: "Centrala Medupi, situată lângă Lephalale în provincia Limpopo, Africa de Sud, este o centrală electrică pe cărbune operată de Eskom, cu o capacitate de 4.764 MW, distribuită pe șase unități. Este proiectată cu răcire uscată pentru a minimiza consumul de apă. Construcția a început în 2007 și s-a finalizat în 2024, cu un cost de peste 120 de miliarde de rand. Centrala angajează aproximativ 1.500 de persoane. Medupi este esențială pentru securitatea energetică a Africii de Sud.",
+      en: "Medupi Power Station, located near Lephalale in Limpopo, is a large coal-fired power plant operated by Eskom. It has an installed capacity of 4,764 MW from six units, using dry-cooling technology to conserve water. Construction began in 2007 and was completed in 2024. The plant cost over ZAR 120 billion and employs around 1,500 workers. Medupi supplies electricity to the national grid, helping to alleviate power shortages in South Africa.",
+    },
+    factsAdvanced: {
+      de: ["Das Medupi-Kraftwerk hat eine installierte Leistung von 4.764 Megawatt.", "Es besteht aus sechs Blöcken.", "Der Bau begann 2007.", "Die Kosten beliefen sich auf über 120 Milliarden Rand.", "Es nutzt Trockenkühltechnologie.", "Der Bau wurde 2024 abgeschlossen."],
+      hu: ["A Medupi erőmű kapacitása 4.764 megawatt.", "Hat egységből áll.", "Építése 2007-ben kezdődött.", "Költsége meghaladta a 120 milliárd randot.", "Száraz hűtési technológiát használ.", "2024-ben fejeződött be."],
+      ro: ["Capacitate: 4.764 MW.", "Șase unități.", "Construcția a început în 2007.", "Cost: peste 120 de miliarde de rand.", "Tehnologie de răcire uscată.", "Finalizată în 2024."],
+      en: ["Capacity: 4,764 MW.", "Six generating units.", "Construction started: 2007.", "Cost: over ZAR 120 billion.", "Dry-cooling technology.", "Completed in 2024."],
+    },
+  },
   {
     id: "kendal-power-station-economic-v2",
     type: "industry",
     parent: "ZA-MP",
     coords: [28.971, -26.091],
-    name: { de: "Kendal-Kraftwerk", hu: "Kendal erőmű", ro: "Centrala electrică Kendal", en: "Kendal Power Station",
-image: "/poi-images/kendal-power-station-economic-v2.webp"
-},
+    name: { de: "Kendal-Kraftwerk", hu: "Kendal erőmű", ro: "Centrala electrică Kendal", en: "Kendal Power Station"},
+    image: "/poi-images/kendal-power-station-economic-v2.webp",
     description: { de: "Eines von Eskoms Grundlast-Kohlekraftwerken und das weltweit größte indirekt trockengekühlte Kraftwerk.", hu: "Az Eskom egyik alaperőműve, és a világ legnagyobb közvetett szárazhűtésű szénerőműve.", ro: "Una dintre centralele electrice de bază pe cărbune ale Eskom și cea mai mare centrală cu răcire uscată indirectă la nivel global.", en: "One of Eskom's base-load coal-fired power stations and the largest indirect dry-cooled power station globally." },
     facts: {
       de: ["Kann 4.116 Megawatt Strom erzeugen.", "Seine massiven Kühltürme sind ein markantes Wahrzeichen in Mpumalanga."],
       hu: ["4116 megawatt villamos energia előállítására képes.", "Hatalmas hűtőtornyai kiemelkedő tájékozódási pontot jelentenek Mpumalangában."],
       ro: ["Poate genera 4.116 megawați de energie electrică.", "Turnurile sale masive de răcire sunt un punct de reper proeminent în Mpumalanga."],
       en: ["Can generate 4,116 megawatts of electricity.", "Its massive cooling towers are a prominent landmark in Mpumalanga."]
-    }, image: "/poi-images/kendal-power-station-economic-v2.webp"},
+    }, image: "/poi-images/kendal-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kendal-Kraftwerk in der Provinz Mpumalanga, Südafrika, nahe eMalahleni, ist ein Kohlekraftwerk von Eskom mit einer Leistung von 4.116 Megawatt. Es besteht aus sechs Blöcken und wurde zwischen 1988 und 1993 in Betrieb genommen. Kendal verwendet Naturzug-Kühltürme und ist für seine Effizienz bekannt. Das Kraftwerk versorgt das nationale Stromnetz und ist ein wichtiger Bestandteil der südafrikanischen Energieinfrastruktur. Es beschäftigt rund 1.000 Mitarbeiter. Kendal war bei seiner Inbetriebnahme das größte Kohlekraftwerk der südlichen Hemisphäre.",
+      hu: "A Kendal erőmű a dél-afrikai Mpumalanga tartományban, eMalahleni közelében található. Az Eskom üzemelteti, kapacitása 4.116 megawatt. Hat egységből áll, amelyeket 1988 és 1993 között helyeztek üzembe. A Kendal természetes huzatú hűtőtornyokat használ. Az erőmű körülbelül 1.000 embert foglalkoztat. Üzembe helyezésekor a déli félteke legnagyobb szénerőműve volt.",
+      ro: "Centrala Kendal, situată lângă eMalahleni în provincia Mpumalanga, Africa de Sud, este o centrală pe cărbune operată de Eskom, cu o capacitate de 4.116 MW, repartizată pe șase unități, puse în funcțiune între 1988 și 1993. Utilizează turnuri de răcire cu tiraj natural. Angajează aproximativ 1.000 de persoane. La inaugurare, a fost cea mai mare centrală pe cărbune din emisfera sudică.",
+      en: "Kendal Power Station, located near eMalahleni in Mpumalanga, is a coal-fired power plant operated by Eskom with a capacity of 4,116 MW. It has six units commissioned between 1988 and 1993. The plant uses natural-draft cooling towers. It employs about 1,000 workers. When built, it was the largest coal-fired power station in the Southern Hemisphere.",
+    },
+    factsAdvanced: {
+      de: ["Das Kendal-Kraftwerk hat eine Leistung von 4.116 Megawatt.", "Es besteht aus sechs Blöcken.", "Die Blöcke wurden zwischen 1988 und 1993 in Betrieb genommen.", "Es verwendet Naturzug-Kühltürme.", "Es beschäftigt rund 1.000 Mitarbeiter.", "Es war das größte Kohlekraftwerk der südlichen Hemisphäre."],
+      hu: ["A Kendal erőmű kapacitása 4.116 megawatt.", "Hat egységből áll.", "Az egységek 1988–1993 között lettek üzembe helyezve.", "Természetes huzatú hűtőtornyokat használ.", "1.000 embert foglalkoztat.", "A déli félteke legnagyobb szénerőműve volt."],
+      ro: ["Capacitate: 4.116 MW.", "Șase unități.", "Unitatele au fost comisionate între 1988 și 1993.", "Turnuri de răcire cu tiraj natural.", "Angajați: 1.000.", "A fost cea mai mare centrală pe cărbune din emisfera sudică."],
+      en: ["Capacity: 4,116 MW.", "Six generating units.", "Units commissioned between 1988 and 1993.", "Natural-draft cooling towers.", "Workforce: 1,000.", "Largest coal plant in Southern Hemisphere at launch."],
+    },
+  },
   {
     id: "sasol-secunda-economic-v2",
     type: "industry",
     parent: "ZA-MP",
     coords: [29.177, -26.544],
-    name: { de: "Sasol-Werk Secunda", hu: "Secunda Sasol-üzem", ro: "Uzina Sasol Secunda", en: "Sasol Secunda Plant",
-image: "/poi-images/sasol-secunda-economic-v2.webp"
-},
+    name: { de: "Sasol-Werk Secunda", hu: "Secunda Sasol-üzem", ro: "Uzina Sasol Secunda", en: "Sasol Secunda Plant"},
+    image: "/poi-images/sasol-secunda-economic-v2.webp",
     description: { de: "Eine riesige Anlage für synthetische Kraftstoffe, die flüssige Kraftstoffe und Chemikalien aus Kohle herstellt.", hu: "Hatalmas szintetikus üzemanyag-előállító üzem, amely szénből folyékony üzemanyagokat és vegyszereket gyárt.", ro: "O masivă fabrică de combustibil sintetic care produce combustibili lichizi și substanțe chimice din cărbune.", en: "A massive synthetic fuel plant producing liquid fuels and chemicals from coal." },
     facts: {
       de: ["Die größte punktuelle Treibhausgasemissionsquelle der Erde.", "Nutzt das ursprünglich in Deutschland entwickelte Fischer-Tropsch-Verfahren."],
       hu: ["A Föld legnagyobb egypontos üvegházhatású gázkibocsátó forrása.", "Az eredetileg Németországban kifejlesztett Fischer-Tropsch eljárást alkalmazza."],
       ro: ["Cea mai mare sursă punctuală de emisii de gaze cu efect de seră de pe Pământ.", "Utilizează procesul Fischer-Tropsch dezvoltat inițial în Germania."],
       en: ["The largest single-point greenhouse gas emission source on Earth.", "Uses the Fischer-Tropsch process developed originally in Germany."]
-    }, image: "/poi-images/sasol-secunda-economic-v2.webp"},
+    }, image: "/poi-images/sasol-secunda-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sasol Secunda Werk in der Provinz Mpumalanga, Südafrika, ist eines der größten Kohle-zu-Flüssigkraftstoff (CTL) -Anlagen der Welt. Es wird von Sasol betrieben und produziert jährlich etwa 150.000 Barrel Treibstoff pro Tag. Das Werk nutzt die Fischer-Tropsch-Technologie zur Umwandlung von Kohle in synthetische Kraftstoffe und Chemikalien. Es ist ein bedeutender Arbeitgeber mit rund 10.000 Mitarbeitern. Das Werk wurde in den 1970er Jahren errichtet und hat seitdem mehrere Erweiterungen erfahren. Sasol Secunda spielt eine entscheidende Rolle in der südafrikanischen Treibstoffversorgung und der chemischen Industrie.",
+      hu: "A Sasol Secunda üzem Dél-Afrika Mpumalanga tartományában található, és a világ egyik legnagyobb szénből folyékony üzemanyagot (CTL) előállító létesítménye. A Sasol üzemelteti, és naponta mintegy 150.000 hordó üzemanyagot termel. Fischer-Tropsch technológiát használ a szén szintetikus üzemanyaggá és vegyi anyagokká alakítására. Körülbelül 10.000 embert foglalkoztat. Az üzemet az 1970-es években építették, és azóta többször bővítették. A Sasol Secunda kulcsszerepet játszik Dél-Afrika üzemanyagellátásában és vegyiparában.",
+      ro: "Instalația Sasol Secunda, situată în provincia Mpumalanga, Africa de Sud, este una dintre cele mai mari facilități de conversie a cărbunelui în combustibili lichizi (CTL) din lume, operată de Sasol. Produce aproximativ 150.000 de barili de combustibil pe zi, utilizând tehnologia Fischer-Tropsch. Angajează în jur de 10.000 de persoane. A fost construită în anii 1970 și a suferit extinderi ulterioare. Sasol Secunda este esențială pentru siguranța energetică și industria chimică a Africii de Sud.",
+      en: "Sasol Secunda plant, located in Mpumalanga, South Africa, is one of the world's largest coal-to-liquids (CTL) facilities, operated by Sasol. It produces approximately 150,000 barrels of fuel per day using Fischer-Tropsch technology. The plant employs about 10,000 people. It was built in the 1970s and has undergone multiple expansions. Sasol Secunda is a major contributor to South Africa's fuel supply and chemical industry.",
+    },
+    factsAdvanced: {
+      de: ["Das Sasol Secunda Werk produziert täglich etwa 150.000 Barrel Treibstoff.", "Es verwendet die Fischer-Tropsch-Technologie.", "Die Anlage beschäftigt rund 10.000 Mitarbeiter.", "Sie wurde in den 1970er Jahren errichtet.", "Die Anlage wandelt Kohle in synthetische Kraftstoffe und Chemikalien um.", "Das Werk liegt in Mpumalanga."],
+      hu: ["A Sasol Secunda napi termelése 150.000 hordó üzemanyag.", "Fischer-Tropsch technológiát alkalmaz.", "10.000 embert foglalkoztat.", "Az 1970-es években épült.", "Szenet alakít szintetikus üzemanyaggá és vegyi anyagokká.", "Mpumalanga tartományban található."],
+      ro: ["Producție zilnică: 150.000 de barili de combustibil.", "Tehnologie Fischer-Tropsch.", "Angajați: 10.000.", "Construit în anii 1970.", "Convertește cărbunele în combustibili sintetici și chimicale.", "Situat în provincia Mpumalanga."],
+      en: ["Daily production: 150,000 barrels of fuel.", "Uses Fischer-Tropsch technology.", "Workforce: 10,000.", "Built in the 1970s.", "Converts coal to synthetic fuels and chemicals.", "Located in Mpumalanga."],
+    },
+  },
   {
     id: "sasol-sasolburg-economic-v2",
     type: "industry",
     parent: "ZA-FS",
     coords: [27.842, -26.837],
-    name: { de: "Sasol-Werk Sasolburg", hu: "Sasolburg petrolkémiai üzem", ro: "Uzina Sasolburg", en: "Sasolburg Petrochemical Plant",
-image: "/poi-images/sasol-sasolburg-economic-v2.webp"
-},
+    name: { de: "Sasol-Werk Sasolburg", hu: "Sasolburg petrolkémiai üzem", ro: "Uzina Sasolburg", en: "Sasolburg Petrochemical Plant"},
+    image: "/poi-images/sasol-sasolburg-economic-v2.webp",
     description: { de: "Die ursprüngliche Sasol-Anlage, die für die Chemie- und Polymerproduktion von Kohle auf Erdgas umgestellt wurde.", hu: "Az eredeti Sasol-létesítmény, amely a szénről földgázra állt át a vegyipari és polimergyártás érdekében.", ro: "Facilitatea originală Sasol, tranzitată de la cărbune la gaze naturale pentru producția chimică și de polimeri.", en: "The original Sasol facility, transitioned from coal to natural gas for chemical and polymer production." },
     facts: {
       de: ["1950 gegründet, um Südafrikas Abhängigkeit von importiertem Öl zu verringern.", "Konzentriert sich heute stark auf hochwertige chemische Produkte."],
       hu: ["1950-ben alapították, hogy csökkentsék Dél-Afrika függőségét az import olajtól.", "Ma már erősen a nagy értékű vegyipari termékekre összpontosít."],
       ro: ["Înființată în 1950 pentru a reduce dependența Africii de Sud de petrolul importat.", "Acum se concentrează puternic pe produse chimice de mare valoare."],
       en: ["Established in 1950 to reduce South Africa's reliance on imported oil.", "Now focuses heavily on high-value chemical products."]
-    }, image: "/poi-images/sasol-sasolburg-economic-v2.webp"},
+    }, image: "/poi-images/sasol-sasolburg-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sasolburg Petrochemical Plant in der Provinz Freistaat, Südafrika, ist eine bedeutende petrochemische Anlage von Sasol. Es produziert eine breite Palette von Chemikalien, darunter Ethylen, Propylen, Ammoniak und Kunststoffe. Die Anlage nutzt Rohstoffe aus der Kohlevergasung und der Erdgasverarbeitung. Sasolburg beschäftigt rund 3.000 Mitarbeiter. Das Werk wurde in den 1950er Jahren errichtet und ist eines der ersten petrochemischen Werke in Südafrika. Es spielt eine Schlüsselrolle in der südafrikanischen chemischen Industrie und exportiert Produkte in viele Länder.",
+      hu: "A Sasolburg petrolkémiai üzem Dél-Afrika Szabadállam tartományában található, és a Sasol egyik fontos létesítménye. Széles körű vegyi anyagokat gyárt, beleértve etilént, propilént, ammóniát és műanyagokat. A nyersanyagokat szénelgázosításból és földgázfeldolgozásból nyeri. Az üzem mintegy 3.000 embert foglalkoztat. Az 1950-es években épült, és Dél-Afrika egyik első petrolkémiai üzeme. Jelentős szerepet játszik a dél-afrikai vegyiparban és exportál termékeket.",
+      ro: "Instalația petrochimică Sasolburg, situată în provincia Free State, Africa de Sud, este o unitate importantă a Sasol, care produce o gamă largă de substanțe chimice, inclusiv etilenă, propilenă, amoniac și materiale plastice. Utilizează materii prime din gazeificarea cărbunelui și prelucrarea gazelor naturale. Angajează aproximativ 3.000 de persoane. A fost construită în anii 1950, fiind una dintre primele instalații petrochimice din Africa de Sud. Este esențială pentru industria chimică sud-africană.",
+      en: "Sasolburg Petrochemical Plant, located in the Free State province, is a major petrochemical facility operated by Sasol. It produces a range of chemicals including ethylene, propylene, ammonia, and plastics, using feedstocks from coal gasification and natural gas processing. The plant employs about 3,000 people. Built in the 1950s, it was one of South Africa's first petrochemical plants. It is a key supplier to domestic and international markets.",
+    },
+    factsAdvanced: {
+      de: ["Das Sasolburg-Werk produziert Ethylen, Propylen, Ammoniak und Kunststoffe.", "Es beschäftigt rund 3.000 Mitarbeiter.", "Das Werk wurde in den 1950er Jahren errichtet.", "Es nutzt Rohstoffe aus Kohlevergasung und Erdgas.", "Es ist eines der ersten petrochemischen Werke Südafrikas.", "Das Werk liegt in der Provinz Freistaat."],
+      hu: ["A Sasolburg üzem etilént, propilént, ammóniát és műanyagokat gyárt.", "3.000 embert foglalkoztat.", "Az 1950-es években épült.", "Szénelgázosításból és földgázból nyert alapanyagokat használ.", "Dél-Afrika egyik első petrolkémiai üzeme.", "A Szabadállam tartományban található."],
+      ro: ["Produce etilenă, propilenă, amoniac și materiale plastice.", "Angajați: 3.000.", "Construit în anii 1950.", "Materii prime din gazeificarea cărbunelui și gaze naturale.", "Una dintre primele instalații petrochimice din Africa de Sud.", "Situat în provincia Free State."],
+      en: ["Produces ethylene, propylene, ammonia, and plastics.", "Workforce: 3,000.", "Built in the 1950s.", "Feedstocks from coal gasification and natural gas.", "One of South Africa's first petrochemical plants.", "Located in the Free State province."],
+    },
+  },
   {
     id: "bmw-rosslyn-plant-economic-v2",
     type: "industry",
     parent: "ZA-GT",
     coords: [28.086, -25.629],
-    name: { de: "BMW-Werk Rosslyn", hu: "BMW rosslyni gyára", ro: "Fabrica BMW Rosslyn", en: "BMW Rosslyn Plant",
-image: "/poi-images/bmw-rosslyn-plant-economic-v2.webp"
-},
+    name: { de: "BMW-Werk Rosslyn", hu: "BMW rosslyni gyára", ro: "Fabrica BMW Rosslyn", en: "BMW Rosslyn Plant"},
+    image: "/poi-images/bmw-rosslyn-plant-economic-v2.webp",
     description: { de: "Die erste BMW-Produktionsstätte außerhalb Deutschlands, die Fahrzeuge für den lokalen und den Exportmarkt produziert.", hu: "Az első Németországon kívül épült BMW autógyár, amely a helyi és az exportpiacokra egyaránt termel.", ro: "Prima unitate de producție BMW construită în afara Germaniei, producând vehicule pentru piețele locale și de export.", en: "The first BMW manufacturing facility built outside of Germany, producing vehicles for local and export markets." },
     facts: {
       de: ["Seit 1968 in Betrieb, hat es über eine Million Fahrzeuge produziert.", "Investiert derzeit stark in die Produktion von Plug-in-Hybrid-Elektrofahrzeugen."],
       hu: ["1968 óta működik, és már több mint egymillió járművet gyártott.", "Jelenleg jelentős összegeket fektet a hálózatról tölthető hibrid elektromos járművek gyártásába."],
       ro: ["Operând din 1968, a produs peste un milion de vehicule.", "În prezent, investește masiv în producția de vehicule electrice hibride plug-in."],
       en: ["Operating since 1968, it has produced over a million vehicles.", "Currently heavily invested in producing plug-in hybrid electric vehicles."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das BMW Werk Rosslyn in der Provinz Gauteng, Südafrika, nahe Pretoria, ist das erste Automobilwerk von BMW außerhalb Deutschlands. Es wurde 1973 eröffnet und produziert den BMW 3er für den lokalen Markt und den Export. Das Werk hat eine jährliche Kapazität von rund 70.000 Fahrzeugen. Es beschäftigt etwa 2.500 Mitarbeiter. Rosslyn ist bekannt für seine flexible Fertigung und hohe Qualitätsstandards. Das Werk exportiert Fahrzeuge in über 40 Länder, darunter nach Europa, Asien und Amerika. Es ist ein wichtiger Arbeitgeber in der Region und trägt zur südafrikanischen Automobilindustrie bei.",
+      hu: "A BMW Rosslyn gyár Dél-Afrika Gauteng tartományában, Pretoria közelében található. Ez a BMW első németországon kívüli autóüzeme. 1973-ban nyitotta meg kapuit, és a BMW 3-as sorozatot gyártja. A gyár éves kapacitása körülbelül 70.000 jármű. 2.500 embert foglalkoztat. A Rosslyn rugalmas gyártásáról és magas minőségi színvonaláról ismert. Az itt készült autókat több mint 40 országba exportálják.",
+      ro: "Fabrica BMW Rosslyn, situată lângă Pretoria în provincia Gauteng, Africa de Sud, este prima uzină BMW în afara Germaniei. Deschisă în 1973, produce BMW Seria 3 pentru piața locală și export. Capacitatea anuală este de aproximativ 70.000 de vehicule. Angajează aproximativ 2.500 de persoane. Fabrica este cunoscută pentru flexibilitatea producției și standardele înalte de calitate. Exportă în peste 40 de țări.",
+      en: "BMW Rosslyn Plant, located near Pretoria in Gauteng, is BMW's first automobile plant outside Germany. Opened in 1973, it produces the BMW 3 Series for local and export markets. The plant has an annual capacity of about 70,000 vehicles and employs around 2,500 people. It is known for flexible manufacturing and high quality standards. Vehicles are exported to over 40 countries, including Europe, Asia, and the Americas.",
+    },
+    factsAdvanced: {
+      de: ["Das BMW Werk Rosslyn wurde 1973 eröffnet.", "Es produziert jährlich etwa 70.000 Fahrzeuge.", "Es beschäftigt rund 2.500 Mitarbeiter.", "Das Werk exportiert in über 40 Länder.", "Es ist das erste BMW-Werk außerhalb Deutschlands.", "Das Werk stellt den BMW 3er her."],
+      hu: ["A BMW Rosslyn gyár 1973-ban nyílt meg.", "Éves termelése 70.000 jármű.", "2.500 embert foglalkoztat.", "Több mint 40 országba exportál.", "Az első BMW gyár Németországon kívül.", "A BMW 3-as sorozatot gyártja."],
+      ro: ["Fabrica BMW Rosslyn a fost deschisă în 1973.", "Producție anuală: 70.000 de vehicule.", "Angajați: 2.500.", "Exportă în peste 40 de țări.", "Prima fabrică BMW în afara Germaniei.", "Produce BMW Seria 3."],
+      en: ["BMW Rosslyn plant opened in 1973.", "Annual production: 70,000 vehicles.", "Workforce: 2,500.", "Exports to over 40 countries.", "First BMW plant outside Germany.", "Produces the BMW 3 Series."],
+    },
   },
   {
     id: "vw-kariega-plant-economic-v2",
     type: "industry",
     parent: "ZA-EC",
     coords: [25.413, -33.784],
-    name: { de: "Volkswagen-Werk Kariega", hu: "Volkswagen kariegai gyára", ro: "Fabrica Volkswagen Kariega", en: "Volkswagen Plant Kariega",
-image: "/poi-images/vw-kariega-plant-economic-v2.webp"
-},
+    name: { de: "Volkswagen-Werk Kariega", hu: "Volkswagen kariegai gyára", ro: "Fabrica Volkswagen Kariega", en: "Volkswagen Plant Kariega"},
+    image: "/poi-images/vw-kariega-plant-economic-v2.webp",
     description: { de: "Das größte Autowerk Afrikas, das das beliebte Polo-Modell für den internationalen Vertrieb produziert.", hu: "Afrika legnagyobb autógyára, amely a népszerű Polo modellt gyártja a nemzetközi piacokra.", ro: "Cea mai mare fabrică de mașini din Africa, producând popularul model Polo pentru distribuție internațională.", en: "The largest car plant in Africa, producing the popular Polo model for international distribution." },
     facts: {
       de: ["Zuvor in Uitenhage (jetzt Kariega) angesiedelt.", "Ein Eckpfeiler der verarbeitenden Wirtschaft im Ostkap."],
       hu: ["Korábban Uitenhage (ma Kariega) néven volt ismert a település.", "A Kelet-Fokföld feldolgozóiparának egyik sarokköve."],
       ro: ["Situată anterior în Uitenhage (acum Kariega).", "O piatră de temelie a economiei de producție din Eastern Cape."],
       en: ["Previously located in Uitenhage (now Kariega).", "A cornerstone of the Eastern Cape's manufacturing economy."]
-    }, image: "/poi-images/vw-kariega-plant-economic-v2.webp"},
+    }, image: "/poi-images/vw-kariega-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Volkswagen Werk Kariega in der Provinz Ostkap, Südafrika, in der Nähe von Gqeberha, ist ein bedeutendes Automobilwerk. Es wurde 1966 eröffnet und produziert den VW Polo für den lokalen Markt und den Export. Das Werk hat eine jährliche Kapazität von rund 150.000 Fahrzeugen. Es beschäftigt etwa 3.500 Mitarbeiter. Kariega ist eines der größten Automobilwerke in Südafrika und ein wichtiger Exporteur. Das Werk ist für seine effiziente Produktion und hohe Qualität bekannt. Es spielt eine Schlüsselrolle in der regionalen Wirtschaft und der südafrikanischen Automobilindustrie.",
+      hu: "A Volkswagen Kariega gyár a dél-afrikai Kelet-fok tartományban, Gqeberha közelében található. 1966-ban nyitotta meg kapuit, és a VW Polo-t gyártja. A gyár éves kapacitása körülbelül 150.000 jármű. 3.500 embert foglalkoztat. A Kariega Dél-Afrika egyik legnagyobb autógyára és fontos exportőr. Hatékony gyártásáról és magas minőségéről ismert.",
+      ro: "Fabrica Volkswagen Kariega, situată lângă Gqeberha în provincia Eastern Cape, Africa de Sud, a fost deschisă în 1966 și produce VW Polo. Capacitatea anuală este de aproximativ 150.000 de vehicule. Angajează circa 3.500 de persoane. Este una dintre cele mai mari fabrici auto din Africa de Sud și un important exportator. Renumită pentru eficiență și calitate.",
+      en: "Volkswagen Kariega Plant, located near Gqeberha in the Eastern Cape, opened in 1966 and produces the VW Polo. The plant has an annual capacity of about 150,000 vehicles and employs around 3,500 people. It is one of the largest automotive plants in South Africa and a major exporter. Known for efficient production and high quality.",
+    },
+    factsAdvanced: {
+      de: ["Das VW Werk Kariega wurde 1966 eröffnet.", "Es produziert jährlich etwa 150.000 Fahrzeuge.", "Es beschäftigt rund 3.500 Mitarbeiter.", "Das Werk stellt den VW Polo her.", "Es ist eines der größten Automobilwerke Südafrikas.", "Das Werk exportiert in viele Länder."],
+      hu: ["A VW Kariega gyár 1966-ban nyílt meg.", "Éves termelése 150.000 jármű.", "3.500 embert foglalkoztat.", "A VW Polo-t gyártja.", "Dél-Afrika egyik legnagyobb autógyára.", "Exportorientált gyár."],
+      ro: ["Fabrica VW Kariega a fost deschisă în 1966.", "Producție anuală: 150.000 de vehicule.", "Angajați: 3.500.", "Produce VW Polo.", "Una dintre cele mai mari fabrici auto din Africa de Sud.", "Exportă în numeroase țări."],
+      en: ["VW Kariega plant opened in 1966.", "Annual production: 150,000 vehicles.", "Workforce: 3,500.", "Produces the VW Polo.", "One of the largest auto plants in South Africa.", "Exports to many countries."],
+    },
+  },
   {
     id: "ford-silverton-plant-economic-v2",
     type: "industry",
     parent: "ZA-GT",
     coords: [28.322, -25.728],
-    name: { de: "Ford-Werk Silverton", hu: "Ford silvertoni gyára", ro: "Fabrica Ford Silverton", en: "Ford Silverton Plant",
-image: "/poi-images/ford-silverton-plant-economic-v2.webp"
-},
+    name: { de: "Ford-Werk Silverton", hu: "Ford silvertoni gyára", ro: "Fabrica Ford Silverton", en: "Ford Silverton Plant"},
+    image: "/poi-images/ford-silverton-plant-economic-v2.webp",
     description: { de: "Ein hochmodernes Automobilmontagewerk, spezialisiert auf die Produktion des Ford Ranger.", hu: "Korszerű autó-összeszerelő üzem, amely a Ford Ranger gyártására specializálódott.", ro: "O fabrică de asamblare auto extrem de avansată, specializată în producția de Ford Ranger.", en: "A highly advanced automotive assembly plant specializing in the production of the Ford Ranger." },
     facts: {
       de: ["Exportiert Pickup-Trucks in über 100 Märkte weltweit.", "Wurde kürzlich einem massiven Modernisierungs- und Erweiterungsprojekt unterzogen."],
       hu: ["Világszerte több mint 100 piacra exportál pickupokat.", "Nemrégiben hatalmas modernizációs és bővítési projekten esett át."],
       ro: ["Exportă camionete către peste 100 de piețe la nivel global.", "A suferit recent un proiect masiv de modernizare și extindere."],
       en: ["Exports pickup trucks to over 100 markets globally.", "Recently underwent a massive modernization and expansion project."]
-    }, image: "/poi-images/ford-silverton-plant-economic-v2.webp"},
+    }, image: "/poi-images/ford-silverton-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ford Silverton Werk in der Provinz Gauteng, Südafrika, nahe Pretoria, ist ein wichtiges Automobilwerk von Ford. Es wurde 1966 eröffnet und produziert den Ford Ranger Pick-up für den lokalen Markt und den Export. Das Werk hat eine jährliche Kapazität von rund 110.000 Fahrzeugen. Es beschäftigt etwa 2.500 Mitarbeiter. Silverton ist bekannt für seine flexible Fertigung und hohe Exportquote. Das Werk exportiert Fahrzeuge in über 100 Länder, darunter nach Europa und Australien. Es ist ein wichtiger Arbeitgeber in der Region und trägt zur südafrikanischen Wirtschaft bei.",
+      hu: "A Ford Silverton gyár Dél-Afrika Gauteng tartományában, Pretoria közelében található. 1966-ban nyitották meg, és a Ford Ranger pick-upot gyártja. A gyár éves kapacitása körülbelül 110.000 jármű. 2.500 embert foglalkoztat. A Silverton rugalmas gyártásáról és magas exportarányáról ismert. Több mint 100 országba exportál.",
+      ro: "Fabrica Ford Silverton, situată lângă Pretoria în provincia Gauteng, Africa de Sud, a fost deschisă în 1966 și produce pickup-ul Ford Ranger. Capacitatea anuală este de aproximativ 110.000 de vehicule. Angajează aproximativ 2.500 de persoane. Fabrica este cunoscută pentru flexibilitate și exporturi extinse în peste 100 de țări.",
+      en: "Ford Silverton Plant, located near Pretoria in Gauteng, opened in 1966 and produces the Ford Ranger pickup. The plant has an annual capacity of about 110,000 vehicles and employs around 2,500 people. Known for flexible manufacturing, it exports to over 100 countries, including Europe and Australia.",
+    },
+    factsAdvanced: {
+      de: ["Das Ford Silverton Werk wurde 1966 eröffnet.", "Es produziert jährlich etwa 110.000 Fahrzeuge.", "Es beschäftigt rund 2.500 Mitarbeiter.", "Das Werk stellt den Ford Ranger her.", "Es exportiert in über 100 Länder.", "Das Werk liegt in Gauteng."],
+      hu: ["A Ford Silverton gyár 1966-ban nyílt meg.", "Éves termelése 110.000 jármű.", "2.500 embert foglalkoztat.", "A Ford Ranger-t gyártja.", "Több mint 100 országba exportál.", "Gauteng tartományban található."],
+      ro: ["Fabrica Ford Silverton a fost deschisă în 1966.", "Producție anuală: 110.000 de vehicule.", "Angajați: 2.500.", "Produce Ford Ranger.", "Exportă în peste 100 de țări.", "Situată în provincia Gauteng."],
+      en: ["Ford Silverton plant opened in 1966.", "Annual production: 110,000 vehicles.", "Workforce: 2,500.", "Produces the Ford Ranger.", "Exports to over 100 countries.", "Located in Gauteng."],
+    },
+  },
   {
     id: "toyota-prospecton-plant-economic-v2",
     type: "industry",
     parent: "ZA-KZN",
     coords: [30.932, -29.988],
-    name: { de: "Toyota-Werk Prospecton", hu: "Toyota prospectoni gyára", ro: "Fabrica Toyota Prospecton", en: "Toyota Prospecton Plant",
-image: "/poi-images/toyota-prospecton-plant-economic-v2.webp"
-},
+    name: { de: "Toyota-Werk Prospecton", hu: "Toyota prospectoni gyára", ro: "Fabrica Toyota Prospecton", en: "Toyota Prospecton Plant"},
+    image: "/poi-images/toyota-prospecton-plant-economic-v2.webp",
     description: { de: "Toyotas riesiges Montagewerk, in dem der Hilux, der Fortuner und andere Modelle für Afrika und Europa hergestellt werden.", hu: "A Toyota hatalmas összeszerelő üzeme, ahol a Hilux, a Fortuner és egyéb modellek készülnek afrikai és európai piacokra.", ro: "Facilitatea masivă de asamblare a Toyota care produce Hilux, Fortuner și alte modele pentru Africa și Europa.", en: "Toyota's massive assembly facility producing the Hilux, Fortuner, and other models for Africa and Europe." },
     facts: {
       de: ["Erlitt während der Überschwemmungen in KwaZulu-Natal 2022 erhebliche Schäden, erholte sich aber vollständig.", "Eines der Automobilwerke mit dem höchsten Produktionsvolumen auf dem Kontinent."],
       hu: ["Jelentős károkat szenvedett a 2022-es KwaZulu-Natal-i árvizek során, de teljesen helyreállították.", "A kontinens egyik legnagyobb volumenű gépjárműgyártó üzeme."],
       ro: ["A suferit daune semnificative în timpul inundațiilor din KwaZulu-Natal din 2022, dar s-a recuperat complet.", "Una dintre fabricile de producție a vehiculelor cu cel mai mare volum de pe continent."],
       en: ["Suffered significant damage during the 2022 KwaZulu-Natal floods but fully recovered.", "One of the highest-volume vehicle manufacturing plants on the continent."]
-    }, image: "/poi-images/toyota-prospecton-plant-economic-v2.webp"},
+    }, image: "/poi-images/toyota-prospecton-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Toyota Prospecton Werk in der Provinz KwaZulu-Natal, Südafrika, nahe Durban, ist ein bedeutendes Automobilwerk von Toyota. Es wurde 1962 eröffnet und produziert den Toyota Hilux und den Corolla für den lokalen Markt und den Export. Das Werk hat eine jährliche Kapazität von rund 200.000 Fahrzeugen. Es beschäftigt etwa 5.000 Mitarbeiter. Prospecton ist das größte Automobilwerk in Südafrika und ein wichtiger Exporteur. Das Werk exportiert in über 50 Länder, darunter nach Afrika und Europa. Es ist ein wichtiger Arbeitgeber in der Provinz KwaZulu-Natal.",
+      hu: "A Toyota Prospecton gyár a dél-afrikai KwaZulu-Natal tartományban, Durban közelében található. 1962-ben nyitották meg, és a Toyota Hilux-ot és Corolla-t gyártja. A gyár éves kapacitása körülbelül 200.000 jármű. 5.000 embert foglalkoztat. A Prospecton Dél-Afrika legnagyobb autógyára és fontos exportőr. Több mint 50 országba exportál.",
+      ro: "Fabrica Toyota Prospecton, situată lângă Durban în provincia KwaZulu-Natal, Africa de Sud, a fost deschisă în 1962 și produce Toyota Hilux și Corolla. Capacitatea anuală este de aproximativ 200.000 de vehicule. Angajează în jur de 5.000 de persoane. Este cea mai mare fabrică auto din Africa de Sud și exportă în peste 50 de țări.",
+      en: "Toyota Prospecton Plant, located near Durban in KwaZulu-Natal, opened in 1962 and produces the Toyota Hilux and Corolla. The plant has an annual capacity of about 200,000 vehicles and employs around 5,000 people. It is the largest automotive plant in South Africa, exporting to over 50 countries across Africa and Europe.",
+    },
+    factsAdvanced: {
+      de: ["Das Toyota Prospecton Werk wurde 1962 eröffnet.", "Es produziert jährlich etwa 200.000 Fahrzeuge.", "Es beschäftigt rund 5.000 Mitarbeiter.", "Das Werk stellt Toyota Hilux und Corolla her.", "Es exportiert in über 50 Länder.", "Es ist das größte Automobilwerk Südafrikas."],
+      hu: ["A Toyota Prospecton gyár 1962-ben nyílt meg.", "Éves termelése 200.000 jármű.", "5.000 embert foglalkoztat.", "Toyota Hilux-ot és Corolla-t gyárt.", "Több mint 50 országba exportál.", "Dél-Afrika legnagyobb autógyára."],
+      ro: ["Fabrica Toyota Prospecton a fost deschisă în 1962.", "Producție anuală: 200.000 de vehicule.", "Angajați: 5.000.", "Produce Toyota Hilux și Corolla.", "Exportă în peste 50 de țări.", "Cea mai mare fabrică auto din Africa de Sud."],
+      en: ["Toyota Prospecton plant opened in 1962.", "Annual production: 200,000 vehicles.", "Workforce: 5,000.", "Produces Toyota Hilux and Corolla.", "Exports to over 50 countries.", "Largest auto plant in South Africa."],
+    },
+  },
   {
     id: "mercedes-east-london-plant-economic-v2",
     type: "industry",
     parent: "ZA-EC",
     coords: [27.892, -33.031],
-    name: { de: "Mercedes-Benz-Werk East London", hu: "Mercedes-Benz East London-i gyára", ro: "Fabrica Mercedes-Benz East London", en: "Mercedes-Benz Plant East London",
-image: "/poi-images/mercedes-east-london-plant-economic-v2.webp"
-},
+    name: { de: "Mercedes-Benz-Werk East London", hu: "Mercedes-Benz East London-i gyára", ro: "Fabrica Mercedes-Benz East London", en: "Mercedes-Benz Plant East London"},
+    image: "/poi-images/mercedes-east-london-plant-economic-v2.webp",
     description: { de: "Ein erstklassiges Automobilwerk, das für die Produktion der Mercedes-Benz C-Klasse verantwortlich ist.", hu: "Kiváló minőségű autógyár, amely a Mercedes-Benz C-osztály gyártásáért felel.", ro: "O fabrică auto de prim rang responsabilă pentru fabricarea Mercedes-Benz Clasa C.", en: "A premier automotive plant responsible for manufacturing the Mercedes-Benz C-Class." },
     facts: {
       de: ["Zählte in Bezug auf die Qualität durchweg zu den weltbesten Mercedes-Benz-Werken.", "Bietet in der Region Ostkap eine beträchtliche Anzahl von Arbeitsplätzen."],
       hu: ["Minőség tekintetében folyamatosan a világ legjobb Mercedes-Benz gyárai között szerepel.", "Jelentős foglalkoztatást biztosít a Kelet-Fokföld régióban."],
       ro: ["S-a clasat în mod constant printre primele fabrici Mercedes-Benz la nivel global pentru calitate.", "Oferă locuri de muncă semnificative în regiunea Eastern Cape."],
       en: ["Has consistently ranked among the top Mercedes-Benz plants globally for quality.", "Provides significant employment in the Eastern Cape region."]
-    }, image: "/poi-images/mercedes-east-london-plant-economic-v2.webp"},
+    }, image: "/poi-images/mercedes-east-london-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mercedes-Benz Werk East London in der Provinz Ostkap, Südafrika, ist ein wichtiges Automobilwerk von Mercedes-Benz. Es wurde 1958 eröffnet und produziert die C-Klasse Limousine für den lokalen Markt und den Export. Das Werk hat eine jährliche Kapazität von rund 50.000 Fahrzeugen. Es beschäftigt etwa 2.000 Mitarbeiter. East London ist bekannt für seine flexible Fertigung und hohe Qualitätsstandards. Das Werk exportiert Fahrzeuge in über 50 Länder, darunter nach Europa, Asien und Amerika. Es ist ein bedeutender Arbeitgeber in der Region und ein wichtiger Bestandteil der südafrikanischen Automobilindustrie.",
+      hu: "A Mercedes-Benz East London gyár a dél-afrikai Kelet-fok tartományban található. 1958-ban nyitották meg, és a C-osztályú szedánt gyártja. A gyár éves kapacitása körülbelül 50.000 jármű. 2.000 embert foglalkoztat. Az East London rugalmas gyártásáról és magas minőségéről ismert. Több mint 50 országba exportál.",
+      ro: "Fabrica Mercedes-Benz East London, situată în provincia Eastern Cape, Africa de Sud, a fost deschisă în 1958 și produce sedanul Clasa C. Capacitatea anuală este de aproximativ 50.000 de vehicule. Angajează aproximativ 2.000 de persoane. Fabrica este cunoscută pentru flexibilitate și calitate, exportând în peste 50 de țări.",
+      en: "Mercedes-Benz East London Plant, located in the Eastern Cape, opened in 1958 and produces the C-Class sedan. The plant has an annual capacity of about 50,000 vehicles and employs around 2,000 people. Known for flexible manufacturing and high quality, it exports to over 50 countries, including Europe, Asia, and the Americas.",
+    },
+    factsAdvanced: {
+      de: ["Das Mercedes-Benz Werk East London wurde 1958 eröffnet.", "Es produziert jährlich etwa 50.000 Fahrzeuge.", "Es beschäftigt rund 2.000 Mitarbeiter.", "Das Werk stellt die C-Klasse her.", "Es exportiert in über 50 Länder.", "Das Werk liegt in der Provinz Ostkap."],
+      hu: ["A Mercedes-Benz East London gyár 1958-ban nyílt meg.", "Éves termelése 50.000 jármű.", "2.000 embert foglalkoztat.", "C-osztályú szedánt gyárt.", "Több mint 50 országba exportál.", "A Kelet-fok tartományban található."],
+      ro: ["Fabrica Mercedes-Benz East London a fost deschisă în 1958.", "Producție anuală: 50.000 de vehicule.", "Angajați: 2.000.", "Produce Clasa C sedan.", "Exportă în peste 50 de țări.", "Situată în provincia Eastern Cape."],
+      en: ["Mercedes-Benz East London plant opened in 1958.", "Annual production: 50,000 vehicles.", "Workforce: 2,000.", "Produces the C-Class sedan.", "Exports to over 50 countries.", "Located in the Eastern Cape province."],
+    },
+  },
   {
     id: "koeberg-nuclear-power-station-economic-v2",
     type: "industry",
     parent: "ZA-WC",
     coords: [18.431, -33.676],
-    name: { de: "Koeberg-Kernkraftwerk", hu: "Koeberg atomerőmű", ro: "Centrala nucleară Koeberg", en: "Koeberg Nuclear Power Station",
-image: "/poi-images/koeberg-nuclear-power-station-economic-v2.webp"
-},
+    name: { de: "Koeberg-Kernkraftwerk", hu: "Koeberg atomerőmű", ro: "Centrala nucleară Koeberg", en: "Koeberg Nuclear Power Station"},
+    image: "/poi-images/koeberg-nuclear-power-station-economic-v2.webp",
     description: { de: "Das einzige kommerzielle Kernkraftwerk in Afrika, das einen Großteil des Stroms für das Westkap liefert.", hu: "Afrika egyetlen kereskedelmi atomerőműve, amely a Nyugat-Fokföld villamosenergia-ellátásának jelentős részét biztosítja.", ro: "Singura centrală nucleară comercială din Africa, furnizând o mare parte din energia electrică pentru Western Cape.", en: "The only commercial nuclear power station in Africa, supplying a large portion of the Western Cape's electricity." },
     facts: {
       de: ["Liegt an der Atlantikküste und nutzt Meerwasser zur Kühlung.", "Verfügt über zwei Druckwasserreaktoren."],
       hu: ["Az Atlanti-óceán partján található, és a tengervizet használja hűtésre.", "Két nyomottvizes reaktorral rendelkezik."],
       ro: ["Situată pe coasta Atlanticului, folosind apa oceanului pentru răcire.", "Dispune de două reactoare cu apă sub presiune."],
       en: ["Located on the Atlantic coast, using ocean water for cooling.", "Features two pressurized water reactors."]
-    }, image: "/poi-images/koeberg-nuclear-power-station-economic-v2.webp"},
+    }, image: "/poi-images/koeberg-nuclear-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Koeberg-Kernkraftwerk ist das einzige Kernkraftwerk in Afrika und liegt etwa 30 km nördlich von Kapstadt in Südafrika. Es besteht aus zwei Druckwasserreaktoren mit einer Gesamtleistung von 1.860 MW. Das Kraftwerk wurde zwischen 1976 und 1984 gebaut und nahm 1984 den kommerziellen Betrieb auf. Es liefert etwa 5 % des südafrikanischen Stroms und ist entscheidend für die Stromversorgung der Westkap-Provinz. Die Anlage steht unter der Verwaltung von Eskom, dem staatlichen Energieversorger. Aufgrund von Wartungsarbeiten und politischen Spannungen kam es immer wieder zu Verzögerungen bei der Lebensdauerverlängerung.",
+      hu: "A Koeberg atomerőmű Afrika egyetlen atomerőműve, Fokvárostól mintegy 30 km-re északra található. Két nyomottvizes reaktora összesen 1.860 MW teljesítményt produkál. Az erőmű építése 1976-ban kezdődött, és 1984-ben kezdte meg kereskedelmi üzemelését. A dél-afrikai villamosenergia mintegy 5%-át biztosítja, és kulcsfontosságú a Nyugat-Fokföld tartomány energiaellátásában. Az erőművet az Eskom, az állami energiaszolgáltató üzemelteti. A karbantartási munkák és politikai feszültségek miatt az üzemidő meghosszabbítása többször késedelmet szenvedett.",
+      ro: "Centrala nucleară Koeberg este singura centrală nucleară din Africa, situată la aproximativ 30 km nord de Cape Town, Africa de Sud. Este formată din două reactoare cu apă presurizată, cu o putere totală de 1.860 MW. Construcția a început în 1976, iar centrala a intrat în exploatare comercială în 1984. Asigură aproximativ 5% din energia electrică a Africii de Sud și este esențială pentru alimentarea provinciei Western Cape. Centrala este operată de Eskom, compania națională de electricitate. Din cauza lucrărilor de întreținere și a tensiunilor politice, prelungirea duratei de viață a suferit întârzieri.",
+      en: "Koeberg Nuclear Power Station is Africa's only nuclear power plant, located about 30 km north of Cape Town, South Africa. It consists of two pressurized water reactors with a combined capacity of 1,860 MW. Construction began in 1976 and commercial operation started in 1984. The plant supplies approximately 5% of South Africa's electricity and is crucial for the Western Cape province's power stability. It is operated by Eskom, the state-owned utility. Due to maintenance and political challenges, life extension projects have faced repeated delays.",
+    },
+    factsAdvanced: {
+      de: ["Leistung: 1.860 MW (2 × 930 MW)", "Baubeginn: 1976", "Kommerzieller Betrieb: 1984", "Eigentümer: Eskom", "Kosten: ca. 2 Mrd. USD (Bau)", "Liefert 5% des südafrikanischen Stroms"],
+      hu: ["Teljesítmény: 1.860 MW (2 × 930 MW)", "Építés kezdete: 1976", "Kereskedelmi üzemelés kezdete: 1984", "Tulajdonos: Eskom", "Építési költség: kb. 2 milliárd USD", "Dél-Afrika áramtermelésének 5%-át adja"],
+      ro: ["Putere: 1.860 MW (2 × 930 MW)", "Început construcție: 1976", "Operare comercială: 1984", "Proprietar: Eskom", "Cost construcție: aprox. 2 miliarde USD", "Furnizează 5% din energia electrică a Africii de Sud"],
+      en: ["Capacity: 1,860 MW (2 × 930 MW)", "Construction start: 1976", "Commercial operation: 1984", "Owner: Eskom", "Construction cost: ~2 billion USD", "Supplies 5% of South Africa's electricity"],
+    },
+  },
   {
     id: "anglo-american-platinum-rustenburg-economic-v2",
     type: "industry",
     parent: "ZA-NW",
     coords: [27.262, -25.669],
-    name: { de: "Anglo-American-Platinmine", hu: "Anglo American platinabánya", ro: "Mina de platină Anglo American", en: "Anglo American Platinum Mine",
-image: "/poi-images/anglo-american-platinum-rustenburg-economic-v2.webp"
-},
+    name: { de: "Anglo-American-Platinmine", hu: "Anglo American platinabánya", ro: "Mina de platină Anglo American", en: "Anglo American Platinum Mine"},
+    image: "/poi-images/anglo-american-platinum-rustenburg-economic-v2.webp",
     description: { de: "Als Teil des Bushveld-Komplexes leistet diese Anlage einen wesentlichen Beitrag zur weltweiten Versorgung mit Platingruppenmetallen.", hu: "A Bushveld-komplexum részeként ez a létesítmény jelentősen hozzájárul a világ platinafém-ellátásához.", ro: "Parte a complexului Bushveld, această facilitate este un contributor major la aprovizionarea mondială cu metale din grupa platinei.", en: "Part of the Bushveld Complex, this facility is a major contributor to the world's platinum group metals supply." },
     facts: {
       de: ["Platin ist für Katalysatoren in der Automobilindustrie unverzichtbar.", "Der Bushveld-Komplex birgt den Großteil der weltweit bekannten Platinreserven."],
       hu: ["A platina létfontosságú az autóiparban használt katalizátorokhoz.", "A Bushveld-komplexum rejti a világ ismert platinatartalékainak nagy részét."],
       ro: ["Platina este vitală pentru convertoarele catalitice din industria auto.", "Complexul Bushveld deține majoritatea rezervelor mondiale cunoscute de platină."],
       en: ["Platinum is vital for catalytic converters in the automotive industry.", "The Bushveld Complex holds the majority of the world's known platinum reserves."]
-    }, image: "/poi-images/anglo-american-platinum-rustenburg-economic-v2.webp"},
+    }, image: "/poi-images/anglo-american-platinum-rustenburg-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Anglo American Platinum Mine in Rustenburg ist eine der größten Platinminen der Welt. Sie liegt im Bushveld-Komplex, der etwa 70 % der weltweiten Platinreserven beherbergt. Das Bergwerk umfasst mehrere Tage- und Untertagebaue und produziert jährlich über 2 Millionen Unzen Platingruppenmetalle (PGM). Es ist ein bedeutender Arbeitgeber in der Region mit über 30.000 Beschäftigten. Die Mine wird von Anglo American Platinum betrieben, einem der führenden Platinproduzenten weltweit. Die Förderung begann in den 1960er Jahren und hat seitdem erheblich zur lokalen Wirtschaft beigetragen.",
+      hu: "Az Anglo American Platinum bánya Rustenburgban a világ egyik legnagyobb platina bányája. A Bushveld-komplexumban található, amely a világ platina készleteinek mintegy 70%-át tartalmazza. A bánya több külszíni és felszín alatti műveletből áll, és évente több mint 2 millió uncia platina csoportba tartozó fémet (PGM) termel. Jelentős munkaadó a régióban, több mint 30.000 alkalmazottal. A bányát az Anglo American Platinum üzemelteti, amely a világ egyik vezető platina termelője. A kitermelés az 1960-as években kezdődött, és azóta jelentősen hozzájárult a helyi gazdasághoz.",
+      ro: "Mina Anglo American Platinum din Rustenburg este una dintre cele mai mari mine de platină din lume. Este situată în Complexul Bushveld, care deține aproximativ 70% din rezervele mondiale de platină. Mina cuprinde mai multe exploatări la suprafață și subterane și produce anual peste 2 milioane de uncii de metale din grupa platinei (PGM). Este un angajator major în regiune, cu peste 30.000 de angajați. Mina este operată de Anglo American Platinum, unul dintre cei mai importanți producători de platină la nivel global. Exploatarea a început în anii 1960 și a contribuit semnificativ la economia locală.",
+      en: "Anglo American Platinum Mine in Rustenburg is one of the world's largest platinum mines. Located in the Bushveld Complex, which holds about 70% of global platinum reserves, the mine includes both open-pit and underground operations. It produces over 2 million ounces of platinum group metals (PGMs) annually. The mine is a major employer in the region with over 30,000 workers. Operated by Anglo American Platinum, it has been in operation since the 1960s, significantly contributing to the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: >2 Mio. Unzen PGM", "Beschäftigte: >30.000", "Lage: Bushveld-Komplex", "Betreiber: Anglo American Platinum", "Beginn der Förderung: 1960er Jahre", "Anteil an globaler Platinproduktion: ~15%"],
+      hu: ["Éves termelés: >2 millió uncia PGM", "Alkalmazottak: >30.000", "Hely: Bushveld-komplexum", "Üzemeltető: Anglo American Platinum", "Kitermelés kezdete: 1960-as évek", "Részesedés a globális platina termelésből: ~15%"],
+      ro: ["Producție anuală: >2 milioane uncii PGM", "Angajați: >30.000", "Locație: Complexul Bushveld", "Operator: Anglo American Platinum", "Început exploatare: anii 1960", "Pondere în producția globală de platină: ~15%"],
+      en: ["Annual production: >2 million oz PGMs", "Employees: >30,000", "Location: Bushveld Complex", "Operator: Anglo American Platinum", "Start of mining: 1960s", "Share of global platinum production: ~15%"],
+    },
+  },
   {
     id: "impala-platinum-mine-economic-v2",
     type: "industry",
     parent: "ZA-NW",
     coords: [27.227, -25.541],
-    name: { de: "Impala-Platinmine", hu: "Impala platinabánya", ro: "Mina de platină Impala", en: "Impala Platinum Mine",
-image: "/poi-images/impala-platinum-mine-economic-v2.webp"
-},
+    name: { de: "Impala-Platinmine", hu: "Impala platinabánya", ro: "Mina de platină Impala", en: "Impala Platinum Mine"},
+    image: "/poi-images/impala-platinum-mine-economic-v2.webp",
     description: { de: "Einer der weltweit führenden Betriebe für Platingruppenmetalle in der Nähe von Rustenburg.", hu: "A világ egyik első számú platinafém-kitermelő üzeme, amely Rustenburg közelében található.", ro: "Una dintre principalele operațiuni de metale din grupa platinei la nivel global, situată lângă Rustenburg.", en: "One of the premier platinum group metals operations globally, situated near Rustenburg." },
     facts: {
       de: ["Verfügt über einen massiven untertägigen Fußabdruck mit mehreren Schachtsystemen.", "Beschäftigt Zehntausende von Arbeitern in der Region."],
       hu: ["Hatalmas földalatti kiterjedéssel és több aknarendszerrel rendelkezik.", "Több tízezer munkavállalót foglalkoztat a régióban."],
       ro: ["Dispune de o amprentă subterană masivă cu mai multe sisteme de puțuri.", "Angajează zeci de mii de muncitori în regiune."],
       en: ["Features a massive underground footprint with multiple shaft systems.", "Employs tens of thousands of workers in the region."]
-    }, image: "/poi-images/impala-platinum-mine-economic-v2.webp"},
+    }, image: "/poi-images/impala-platinum-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Impala Platinum Mine in Rustenburg, Südafrika, ist eine der größten Platinminen der Welt und ein wichtiger Bestandteil des Impala Platinum Holdings-Konzerns. Das Bergwerk liegt im Bushveld-Komplex und fördert hauptsächlich Platin, Palladium, Rhodium und andere Platingruppenmetalle. Es verfügt über mehrere Schächte und eine Verarbeitungsanlage vor Ort. Die Mine produziert jährlich etwa 1,5 Millionen Unzen Platin und beschäftigt rund 25.000 Mitarbeiter. Der Betrieb begann in den 1960er Jahren und hat sich zu einem der profitabelsten Platinproduzenten entwickelt. Das Bergwerk spielt eine zentrale Rolle in der lokalen Wirtschaft.",
+      hu: "Az Impala Platinum bánya Rustenburgban, Dél-Afrikában a világ egyik legnagyobb platina bányája, és az Impala Platinum Holdings csoport fontos része. A bánya a Bushveld-komplexumban található, és főként platinát, palládiumot, ródiumot és más platina csoportba tartozó fémeket termel. Több aknával és egy helyszíni feldolgozó üzemmel rendelkezik. Évente körülbelül 1,5 millió uncia platinát állít elő, és mintegy 25.000 alkalmazottat foglalkoztat. A kitermelés az 1960-as években kezdődött, és azóta az egyik legjövedelmezőbb platina termelővé vált. A bánya központi szerepet játszik a helyi gazdaságban.",
+      ro: "Mina Impala Platinum din Rustenburg, Africa de Sud, este una dintre cele mai mari mine de platină din lume și o componentă cheie a grupului Impala Platinum Holdings. Situată în Complexul Bushveld, mina extrage în principal platină, paladiu, rodiu și alte metale din grupa platinei. Dispune de mai multe puțuri și o instalație de procesare la fața locului. Produce anual aproximativ 1,5 milioane de uncii de platină și angajează în jur de 25.000 de persoane. Exploatarea a început în anii 1960, devenind unul dintre cei mai profitabili producători de platină. Mina joacă un rol central în economia locală.",
+      en: "Impala Platinum Mine in Rustenburg, South Africa, is one of the world's largest platinum mines and a key part of Impala Platinum Holdings. Located in the Bushveld Complex, it primarily extracts platinum, palladium, rhodium, and other PGMs. The mine has multiple shafts and an on-site processing plant. It produces about 1.5 million ounces of platinum annually and employs around 25,000 people. Operations began in the 1960s, and it has become one of the most profitable platinum producers. The mine is central to the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Platinproduktion: ~1,5 Mio. Unzen", "Beschäftigte: ~25.000", "Lage: Bushveld-Komplex", "Eigentümer: Impala Platinum Holdings", "Beginn der Förderung: 1960er Jahre", "Anteil an globaler Platinproduktion: ~12%"],
+      hu: ["Éves platina termelés: ~1,5 millió uncia", "Alkalmazottak: ~25.000", "Hely: Bushveld-komplexum", "Tulajdonos: Impala Platinum Holdings", "Kitermelés kezdete: 1960-as évek", "Részesedés a globális platina termelésből: ~12%"],
+      ro: ["Producție anuală de platină: ~1,5 milioane uncii", "Angajați: ~25.000", "Locație: Complexul Bushveld", "Proprietar: Impala Platinum Holdings", "Început exploatare: anii 1960", "Pondere în producția globală de platină: ~12%"],
+      en: ["Annual platinum production: ~1.5 million oz", "Employees: ~25,000", "Location: Bushveld Complex", "Owner: Impala Platinum Holdings", "Start of mining: 1960s", "Share of global platinum production: ~12%"],
+    },
+  },
   {
     id: "foskor-phalaborwa-economic-v2",
     type: "industry",
     parent: "ZA-LP",
     coords: [31.111, -24.004],
-    name: { de: "Foskor-Phosphatwerk", hu: "Foskor foszfátüzem", ro: "Uzina de fosfați Foskor", en: "Foskor Phosphate Plant",
-image: "/poi-images/foskor-phalaborwa-economic-v2.webp"
-},
+    name: { de: "Foskor-Phosphatwerk", hu: "Foskor foszfátüzem", ro: "Uzina de fosfați Foskor", en: "Foskor Phosphate Plant"},
+    image: "/poi-images/foskor-phalaborwa-economic-v2.webp",
     description: { de: "Ein bedeutender Produzent von Rohphosphat und Phosphorsäure, die für landwirtschaftliche Düngemittel unerlässlich sind.", hu: "A mezőgazdasági műtrágyákhoz nélkülözhetetlen foszfátkőzet és foszforsav egyik fő termelője.", ro: "Un producător major de rocă fosfatică și acid fosforic, esențiale pentru îngrășămintele agricole.", en: "A major producer of phosphate rock and phosphoric acid, essential for agricultural fertilizers." },
     facts: {
       de: ["Exportiert hochwertige Phosphorsäure weltweit.", "Arbeitet mit den benachbarten Kupferbergbaubetrieben zusammen."],
       hu: ["Világszerte exportál kiváló minőségű foszforsavat.", "A szomszédos rézbányászati ​​tevékenységekkel párhuzamosan működik."],
       ro: ["Exportă acid fosforic de înaltă calitate la nivel global.", "Lucrează alături de operațiunile adiacente de exploatare a cuprului."],
       en: ["Exports high-quality phosphoric acid globally.", "Works alongside the adjacent copper mining operations."]
-    }, image: "/poi-images/foskor-phalaborwa-economic-v2.webp"},
+    }, image: "/poi-images/foskor-phalaborwa-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Foskor-Werk in Phalaborwa, Südafrika, ist ein führender Hersteller von Phosphatdünger und Phosphorsäure. Es befindet sich in der Nähe der Palabora-Mine, die Phospaterz liefert. Das Werk wurde 1951 gegründet und produziert jährlich über 2 Millionen Tonnen Phosphatdünger. Es ist einer der größten Arbeitgeber in der Region Limpopo mit rund 3.000 direkten Arbeitsplätzen. Foskor betreibt auch eine Schmelzanlage und einen Hafen in Richards Bay für den Export. Das Unternehmen ist zu 100 % im Besitz des südafrikanischen Staates und spielt eine wichtige Rolle in der landwirtschaftlichen Versorgung des Landes.",
+      hu: "A Foskor üzem Phalaborwában, Dél-Afrikában a foszfát műtrágyák és foszforsav vezető gyártója. A Palabora bánya közelében található, amely foszfátércet szolgáltat. Az üzemet 1951-ben alapították, és évente több mint 2 millió tonna foszfát műtrágyát állít elő. Az egyik legnagyobb munkaadó a Limpopo régióban, mintegy 3.000 közvetlen munkahellyel. A Foskor egy olvasztóüzemet és egy kikötőt is üzemeltet Richards Bayben az export számára. A vállalat teljes egészében a dél-afrikai állam tulajdonában van, és fontos szerepet játszik az ország mezőgazdasági ellátásában.",
+      ro: "Uzina Foskor din Phalaborwa, Africa de Sud, este un producător de top de îngrășăminte fosfatice și acid fosforic. Este situată lângă mina Palabora, care furnizează minereu de fosfat. Uzina a fost fondată în 1951 și produce anual peste 2 milioane de tone de îngrășăminte fosfatice. Este unul dintre cei mai mari angajatori din regiunea Limpopo, cu aproximativ 3.000 de locuri de muncă directe. Foskor operează, de asemenea, o topitorie și un port la Richards Bay pentru export. Compania este deținută integral de statul sud-african și joacă un rol important în aprovizionarea agricolă a țării.",
+      en: "Foskor Phalaborwa plant is a leading producer of phosphate fertilizers and phosphoric acid in South Africa. Located near the Palabora mine, which supplies phosphate ore, the plant was established in 1951. It produces over 2 million tons of phosphate fertilizers annually and employs about 3,000 people directly. Foskor also operates a smelter and a terminal at Richards Bay for exports. The company is wholly owned by the South African government and is crucial for agricultural supply.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: >2 Mio. Tonnen Phosphatdünger", "Gründung: 1951", "Beschäftigte: ~3.000", "Eigentümer: südafrikanischer Staat (100%)", "Lage: Phalaborwa, Limpopo", "Export über Richards Bay"],
+      hu: ["Éves termelés: >2 millió tonna foszfát műtrágya", "Alapítás: 1951", "Alkalmazottak: ~3.000", "Tulajdonos: dél-afrikai állam (100%)", "Hely: Phalaborwa, Limpopo", "Export Richards Bay-n keresztül"],
+      ro: ["Producție anuală: >2 milioane tone îngrășăminte fosfatice", "Fondare: 1951", "Angajați: ~3.000", "Proprietar: statul sud-african (100%)", "Locație: Phalaborwa, Limpopo", "Export prin Richards Bay"],
+      en: ["Annual production: >2 million tons phosphate fertilizers", "Founded: 1951", "Employees: ~3,000", "Owner: South African state (100%)", "Location: Phalaborwa, Limpopo", "Export via Richards Bay"],
+    },
+  },
   {
     id: "modikwa-platinum-mine-economic-v2",
     type: "industry",
     parent: "ZA-LP",
     coords: [30.134, -24.63],
-    name: { de: "Modikwa-Platinmine", hu: "Modikwa platinabánya", ro: "Mina de platină Modikwa", en: "Modikwa Platinum Mine",
-image: "/poi-images/modikwa-platinum-mine-economic-v2.webp"
-},
+    name: { de: "Modikwa-Platinmine", hu: "Modikwa platinabánya", ro: "Mina de platină Modikwa", en: "Modikwa Platinum Mine"},
+    image: "/poi-images/modikwa-platinum-mine-economic-v2.webp",
     description: { de: "Eine unabhängig geführte Platinmine am östlichen Rand des Bushveld-Komplexes.", hu: "Független irányítású platinabánya a Bushveld-komplexum keleti peremén.", ro: "O mină de platină administrată independent pe ramura de est a Complexului Bushveld.", en: "An independently managed platinum mine on the eastern limb of the Bushveld Complex." },
     facts: {
       de: ["Betrieben als Joint Venture zwischen African Rainbow Minerals und Anglo American Platinum.", "Konzentriert sich auf die breit angelegte wirtschaftliche Stärkung der schwarzen Bevölkerung."],
       hu: ["Az African Rainbow Minerals és az Anglo American Platinum közös vállalataként működik.", "A fekete lakosság széles körű gazdasági felemelkedésére összpontosít."],
       ro: ["Operată ca un joint-venture între African Rainbow Minerals și Anglo American Platinum.", "Se concentrează pe capacitarea economică a persoanelor de culoare pe bază largă."],
       en: ["Operated as a joint venture between African Rainbow Minerals and Anglo American Platinum.", "Focuses on broad-based black economic empowerment."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Modikwa Platinum Mine liegt in der Provinz Mpumalanga, Südafrika, nahe der Stadt Burgersfort. Es handelt sich um eine Untertagemine, die Platin, Palladium, Rhodium und andere Platingruppenmetalle fördert. Die Mine ist ein Joint Venture zwischen African Rainbow Minerals und Anglo American Platinum. Die Produktion begann 2002. Die Mine hat eine jährliche Kapazität von etwa 250.000 Unzen Platin und beschäftigt rund 5.000 Mitarbeiter. Das Erz wird im Bushveld-Komplex abgebaut, der für seine reichen PGM-Vorkommen bekannt ist. Die Mine leistet einen wichtigen Beitrag zur lokalen Wirtschaft.",
+      hu: "A Modikwa platina bánya Dél-Afrika Mpumalanga tartományában, Burgersfort város közelében található. Ez egy föld alatti bánya, amely platinát, palládiumot, ródiumot és más platina csoportba tartozó fémeket termel. A bánya az African Rainbow Minerals és az Anglo American Platinum közös vállalkozása. A kitermelés 2002-ben kezdődött. A bánya éves kapacitása körülbelül 250.000 uncia platina, és mintegy 5.000 alkalmazottat foglalkoztat. Az ércet a Bushveld-komplexumban bányászják, amely gazdag PGM lelőhelyeiről ismert. A bánya fontos szerepet játszik a helyi gazdaságban.",
+      ro: "Mina Modikwa Platinum se află în provincia Mpumalanga, Africa de Sud, lângă orașul Burgersfort. Este o mină subterană care extrage platină, paladiu, rodiu și alte metale din grupa platinei. Mina este un joint venture între African Rainbow Minerals și Anglo American Platinum. Producția a început în 2002. Mina are o capacitate anuală de aproximativ 250.000 de uncii de platină și angajează în jur de 5.000 de persoane. Minereul este extras din Complexul Bushveld, cunoscut pentru zăcămintele sale bogate de PGM. Mina contribuie semnificativ la economia locală.",
+      en: "Modikwa Platinum Mine is an underground mine in Mpumalanga, South Africa, near Burgersfort. It produces platinum, palladium, rhodium, and other PGMs. The mine is a joint venture between African Rainbow Minerals and Anglo American Platinum. Production started in 2002. Annual capacity is about 250,000 ounces of platinum, and it employs around 5,000 people. The ore is sourced from the Bushveld Complex, known for its rich PGM deposits. The mine is a key contributor to the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Platinkapazität: ~250.000 Unzen", "Produktionsbeginn: 2002", "Beschäftigte: ~5.000", "Joint Venture: African Rainbow Minerals & Anglo American Platinum", "Lage: Mpumalanga", "Erzvorkommen: Bushveld-Komplex"],
+      hu: ["Éves platina kapacitás: ~250.000 uncia", "Kitermelés kezdete: 2002", "Alkalmazottak: ~5.000", "Közös vállalkozás: African Rainbow Minerals & Anglo American Platinum", "Hely: Mpumalanga", "Érc lelőhely: Bushveld-komplexum"],
+      ro: ["Capacitate anuală platină: ~250.000 uncii", "Început producție: 2002", "Angajați: ~5.000", "Joint venture: African Rainbow Minerals & Anglo American Platinum", "Locație: Mpumalanga", "Zăcământ: Complexul Bushveld"],
+      en: ["Annual platinum capacity: ~250,000 oz", "Start of production: 2002", "Employees: ~5,000", "Joint venture: African Rainbow Minerals & Anglo American Platinum", "Location: Mpumalanga", "Ore deposit: Bushveld Complex"],
+    },
   }
 ];
 

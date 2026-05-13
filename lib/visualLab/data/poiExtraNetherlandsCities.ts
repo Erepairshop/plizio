@@ -59,52 +59,6 @@ export const poiExtraNetherlandsCities: POI[] = [
     // 29 more industry/port/agriculture sites...
 
     // 30 Animal-habitat/Kid-landmark
-    {
-        id: "animal-habitat-burgers-zoo-extra",
-        type: "animal-habitat",
-        parent: "NL-GE",
-        coords: [5.92, 52.00],
-        name: { de: "Burgers' Zoo", hu: "Burgers' Állatkert", ro: "Grădina Zoologică Burgers", en: "Burgers' Zoo" },
-        description: {
-            de: "Ein großer Zoo in Arnheim, der für seine 'Öko-Displays' bekannt ist, in denen Tiere in großen, nachgebildeten natürlichen Lebensräumen leben, wie einem tropischen Regenwald und einer Wüste.",
-            hu: "Nagy állatkert Arnhembem, amely az 'öko-kijelzőiről' ismert, ahol az állatok nagy, szimulált természetes élőhelyeken élnek, mint például egy trópusi esőerdő és egy sivatag.",
-            ro: "O grădină zoologică mare în Arnhem, renumită pentru 'eco-display-urile' sale, unde animalele trăiesc în habitate naturale simulate, mari, cum ar fi o pădure tropicală și un deșert.",
-            en: "A large zoo in Arnhem, famous for its 'eco-displays' where animals live in large, simulated natural habitats, such as a tropical rainforest and a desert."
-        },
-        facts: {
-            de: ["Der Burgers' Bush ist ein riesiger überdachter Regenwald.", "Burgers' Ocean ist eines der größten lebenden Korallenriff-Aquarien Europas.", "Pionier bei der Gestaltung immersiver Lebensräume."],
-            hu: ["A Burgers' Bush egy hatalmas, fedett esőerdő.", "A Burgers' Ocean Európa egyik legnagyobb élő korallzátony-akváriuma.", "Úttörő a magával ragadó élőhelyek kialakításában."],
-            ro: ["Burgers' Bush este o pădure tropicală interioară uriașă.", "Burgers' Ocean este unul dintre cele mai mari acvarii cu recif de corali vii din Europa.", "Pionier în crearea de habitate imersive."],
-            en: ["Burgers' Bush is a giant indoor rainforest.", "Burgers' Ocean is one of the largest living coral reef aquariums in Europe.", "A pioneer in creating immersive habitats."]
-        },
-        descriptionAdvanced: {
-    de: "Burgers' Zoo in Arnhem ist einer der bekanntesten und innovativsten Tierparks in Europa, der für seine gigantischen Öko-Displays berühmt ist. Anstatt Tiere in klassischen Käfigen zu zeigen, hat der Zoo riesige, natürlich nachempfundene Lebensräume geschaffen, in denen Besucher tief in die Umwelt der Tiere eintauchen können. Zu den beeindruckendsten Anlagen gehören der 'Bush' (ein echter tropischer Regenwald), das 'Ocean' (ein gigantisches tropisches Korallenriff-Aquarium) und die 'Desert' (eine amerikanische Felswüste). Diese immersive Art der Tierhaltung bietet Tieren ein natürlicheres Verhalten und den Besuchern ein beeindruckendes Erlebnis, bei dem sie oft direkt zwischen freifliegenden Vögeln oder inmitten eines Dschungels wandern. Biologie K6: In Burgers' Zoo leben viele Tiere in zusammenhängenden Ökosystemen. Was ist ein Ökosystem und warum ist das Gleichgewicht zwischen Pflanzen und Tieren darin so wichtig?",
-    hu: "A Burgers' Zoo egy világhírű és innovatív állatkert Arnhemben (Gelderland tartományban), amely arról ismert, hogy hatalmas, fedett ökoszisztéma-csarnokokat ('öko-kibontakozásokat') hozott létre az állatok számára. Ezekben a csarnokokban (mint a trópusi esőerdő – Bush, a sivatag – Desert, és a tengeri akvárium – Ocean) az állatok nem hagyományos ketrecekben élnek, hanem a látogatók sétálnak át az aprólékosan rekonstruált, természetes élőhelyeken. Az állatkert élen jár az európai fajmegőrzési programokban is. Környezetismeret K5: Milyen előnyei vannak a hagyományos ketreces állatkertekkel szemben az ökoszisztéma-alapú bemutatásnak?",
-    ro: "Burgers' Zoo din Arnhem este unul dintre cele mai faimoase și inovatoare parcuri zoologice din Europa, recunoscut internațional pentru habitatele sale gigantice, cunoscute sub numele de \"eco-display-uri\". În loc să expună animalele în cuști clasice, grădina zoologică a recreat ecosisteme naturale complexe pe suprafețe uriașe, unde vizitatorii pot explora mediul alături de animale. Printre cele mai impresionante atracții se numără \"Bush\" (o veritabilă pădure tropicală acoperită), \"Ocean\" (un uriaș acvariu tropical cu recif de corali) și \"Desert\" (o reproducere a deșertului stâncos nord-american). Acest concept oferă animalelor posibilitatea unui comportament mai natural și vizitatorilor o experiență imersivă remarcabilă. Biologie K6: Animalele din Burgers' Zoo trăiesc în ecosisteme extinse. Ce este un ecosistem și de ce este important echilibrul dintre plante și animale în interiorul său?",
-    en: "Burgers' Zoo in Arnhem is one of the most famous and innovative zoological parks in Europe, internationally renowned for its gigantic 'eco-displays'. Instead of exhibiting animals in classic cages, the zoo has recreated vast, natural-looking habitats where visitors can immerse themselves directly in the animals' environment. The most impressive enclosures include the 'Bush' (a massive indoor tropical rainforest), the 'Ocean' (a giant tropical coral reef aquarium), and the 'Desert' (a replica of the North American rocky desert). This immersive approach allows animals to exhibit more natural behaviors and gives visitors a remarkable experience, often walking among free-flying birds or deep within a jungle. Biology K6: Animals in Burgers' Zoo live in interconnected ecosystems. What is an ecosystem and why is the balance between plants and animals important within it?"
-  },
-        factsAdvanced: {
-    de: [
-      "Der Burgers' Bush ist eine riesige tropische Halle von über 1,5 Hektar, in der Vögel, Echsen und sogar Erdferkel frei herumlaufen.",
-      "Das Burgers' Ocean verfügt über das größte lebende Korallenriff in einem Aquarium außerhalb von Australien.",
-      "Der Zoo wurde 1913 von Johan Burgers gegründet und ist noch immer im Besitz der Familie.",
-      "Anstatt klassischer Gehege war Burgers' Zoo weltweit einer der ersten, der gitterlose Tieranlagen nutzte."
-    ],
-    hu: ["A Burgers' Bush a világ egyik legnagyobb fedett beltéri esőerdeje.", "A Burgers' Ocean egy hatalmas, nyolcmillió literes tengeri akvárium, ahol az élő korallzátonyok növesztésében is világelsők.", "A Burgers' Mangrove a világ legnagyobb fedett mangróve-kupolája, amely belize-i lepkéket és manátuszokat mutat be.", "A parkot Johan Burgers alapította 1913-ban magánbirtokként, majd fázisokban bővítették mai formájára."],
-    ro: [
-      "Burgers' Bush este o hală tropicală uriașă de peste 1,5 hectare, unde păsări, reptile și chiar porci de pământ se mișcă liber printre vizitatori.",
-      "Atracția Burgers' Ocean adăpostește unul dintre cele mai mari recife de corali vii din lume, crescut în afara Australiei.",
-      "Parcul a fost fondat în anul 1913 de Johan Burgers ca o colecție privată și a rămas o afacere de familie până în prezent.",
-      "La momentul inaugurării unor noi habitate, Burgers' Zoo a fost printre primele grădini zoologice la nivel global care a eliminat gratiile."
-    ],
-    en: [
-      "The Burgers' Bush is a giant tropical hall covering over 1.5 hectares, where birds, reptiles, and even aardvarks roam freely among visitors.",
-      "Burgers' Ocean features one of the largest living coral reefs in an aquarium outside of Australia, holding eight million liters of water.",
-      "The park was founded in 1913 by Johan Burgers as a private collection and has remained a family-owned zoo to this day.",
-      "Burgers' Mangrove is the world's largest indoor mangrove dome, specifically designed to showcase the diverse wildlife of Belize, including manatees and butterflies."
-    ]
-  }
-    },
     // 29 more animal/kid sites...
 
     // 30 Nature/Mountain/Lake/River/Forest/Sea

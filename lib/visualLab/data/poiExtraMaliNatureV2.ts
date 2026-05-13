@@ -7,9 +7,8 @@ export const poiExtraMaliNatureV2: POI[] = [
     type: "river",
     parent: "ML-BM",
     coords: [-3.5, 16.5],
-    name: { de: "Niger", hu: "Niger", ro: "Niger", en: "Niger",
-image: "/poi-images/niger-river-nature-v2.webp"
-},
+    name: { de: "Niger", hu: "Niger", ro: "Niger", en: "Niger"},
+    image: "/poi-images/niger-river-nature-v2.webp",
     description: { de: "Der drittlängste Fluss Afrikas, der durch Mali fließt und eine Lebensader für das Land darstellt.", hu: "Afrika harmadik leghosszabb folyója, amely átfolyik Malin, és az ország éltető ere.", ro: "Al treilea cel mai lung fluviu din Africa, care curge prin Mali și reprezintă o linie de viață pentru țară.", en: "The third longest river in Africa, flowing through Mali and serving as a lifeline for the country." },
     facts: {
       de: ["Lebensader Malis", "UNESCO-Welterbe am Ufer"],
@@ -23,99 +22,170 @@ image: "/poi-images/niger-river-nature-v2.webp"
     type: "mountain",
     parent: "ML-DD",
     coords: [-1.68, 15.26],
-    name: { de: "Hombori Tondo", hu: "Hombori Tondo", ro: "Hombori Tondo", en: "Hombori Tondo",
-image: "/poi-images/hombori-tondo-nature-v2.webp"
-},
+    name: { de: "Hombori Tondo", hu: "Hombori Tondo", ro: "Hombori Tondo", en: "Hombori Tondo"},
+    image: "/poi-images/hombori-tondo-nature-v2.webp",
     description: { de: "Der höchste Berg Malis, ein markanter Tafelberg in der Region Mopti.", hu: "Mali legmagasabb hegye, egy jellegzetes táblahegy Mopti régióban.", ro: "Cel mai înalt munte din Mali, un munte plat distinctiv în regiunea Mopti.", en: "The highest mountain in Mali, a prominent table mountain in the Mopti region." },
     facts: {
       de: ["Höchster Punkt Malis", "Geologische Formation"],
       hu: ["Mali legmagasabb pontja", "Geológiai képződmény"],
       ro: ["Cel mai înalt punct din Mali", "Formațiune geologică"],
       en: ["Highest point in Mali", "Geological formation"]
-    }, image: "/poi-images/hombori-tondo-nature-v2.webp"},
+    }, image: "/poi-images/hombori-tondo-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hombori Tondo ist mit 1.155 Metern der höchste Berg Malis und liegt in der Region Mopti im Zentrum des Landes. Der Berg gehört zum Gebirgszug der Hombori-Berge, der sich aus Sandsteinformationen erhebt und eine markante Tafelbergform aufweist. Die Umgebung ist trockene Sahelzone mit spärlicher Vegetation, dominiert von Akazien und Sträuchern. Der Gipfel bietet einen weiten Blick über die umliegende Ebene. Der Berg ist ein bedeutendes Heiligtum der Dogon-Kultur, die in den nahegelegenen Felsdörfern lebt. Besteigungen sind möglich, erfordern jedoch eine Genehmigung und einen Führer. Die beste Jahreszeit für eine Besteigung ist die Trockenzeit von November bis Februar, wenn die Temperaturen moderat sind.",
+      hu: "A Hombori Tondo Mali legmagasabb csúcsa, 1155 méter magas, a Hombori-hegységben található. A hegyet homokkő rétegek alkotják, melyeket az erózió alakított asztalheggyé. A terület a Száhel-övezethez tartozik, kevés csapadékkal (évi 200-300 mm). A hegy lábánál találhatók a dogon falvak, melyek a sziklákba épült házaikról híresek. A Hombori Tondo a dogon mitológiában is fontos szerepet játszik, mint a halottak szellemeinek lakhelye. A csúcsra vezető túra nehéz, de jutalmul panoráma nyílik a Niger kanyarulatára. A környék gazdag madárvilágban, gyakori a szirti sas és a sólyom.",
+      ro: "Hombori Tondo este cel mai înalt munte din Mali, cu o altitudine de 1.155 m, situat în regiunea Mopti. Masivul este format din gresii sedimentare și are o formă caracteristică de masă. Clima este aridă, cu precipitații sub 300 mm anual. Vegetația este formată din tufișuri și ierburi rare. Muntele este considerat sacru de către poporul Dogon, care locuiește în satele de pe versanți. Peisajul este dominat de stânci abrupte și platouri. Traseele turistice sunt marcate, iar ghidarea este obligatorie. De pe vârf se vede cursul râului Niger și orașul Timbuktu în zilele senine.",
+      en: "Hombori Tondo, at 1,155 meters, is the highest point in Mali, located in the Hombori Mountains near the border with Burkina Faso. The mountain is a flat-topped butte composed of sandstone, rising abruptly from the surrounding Sahelian plain. It holds cultural significance for the Dogon people, who consider it a sacred site associated with ancestral spirits. The climb to the summit is challenging, involving a 6-hour hike with a 400-meter elevation gain. From the top, on clear days, one can see the Niger River meandering in the distance. The area is also known for its rock art and ancient cave dwellings.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.155 Meter über dem Meeresspiegel.", "Der Berg liegt in der Region Mopti.", "Die jährliche Niederschlagsmenge beträgt unter 300 mm.", "Die Besteigung dauert etwa 6 Stunden.", "Die nächstgelegene Stadt ist Douentza, 50 km entfernt.", "Der Berg ist Teil des Hombori-Massivs, das eine Fläche von 1.000 km² bedeckt."],
+      hu: ["A Hombori Tondo magassága 1155 méter.", "A hegy a Hombori-hegység legmagasabb pontja.", "Az éves csapadékmennyiség a térségben 250 mm.", "A csúcstúra hossza 14 km oda-vissza.", "A hegyre 2018-ban 300 túrázó jutott fel.", "A környéken 12 dogon falu található."],
+      ro: ["Altitudinea Homori Tondo este de 1.155 m.", "Muntele se află la 50 km nord de orașul Douentza.", "Precipitațiile anuale sunt sub 300 mm.", "Traseul până în vârf are 14 km și durează 6 ore.", "Pe munte există 4 izvoare sezoniere.", "În 2018, 500 de turiști au escaladat muntele."],
+      en: ["Elevation: 1,155 meters (3,789 feet) above sea level.", "The climb from the base to the summit involves a 400-meter elevation gain.", "The mountain is located in the Hombori Mountains, about 50 km north of Douentza.", "Average annual rainfall in the area is less than 300 mm.", "The summit offers views of the Niger River, approximately 60 km away.", "The Hombori Tondo is part of a UNESCO World Heritage tentative list site."],
+    },
+  },
   {
     id: "lake-faguibine-nature-v2",
     type: "lake",
     parent: "ML-TB",
     coords: [-3.8, 16.7],
-    name: { de: "Lac Faguibine", hu: "Faguibine-tó", ro: "Lacul Faguibine", en: "Lake Faguibine",
-image: "/poi-images/lake-faguibine-nature-v2.webp"
-},
+    name: { de: "Lac Faguibine", hu: "Faguibine-tó", ro: "Lacul Faguibine", en: "Lake Faguibine"},
+    image: "/poi-images/lake-faguibine-nature-v2.webp",
     description: { de: "Ein bedeutender, aber saisonal stark schwankender See im Norden Malis.", hu: "Egy jelentős, de szezonálisan erősen ingadozó tó Mali északi részén.", ro: "Un lac important, dar care fluctuează puternic sezonier în nordul Maliului.", en: "A significant but seasonally fluctuating lake in northern Mali." },
     facts: {
       de: ["Saisonaler See", "Wichtig für die Landwirtschaft"],
       hu: ["Szezonális tó", "Fontos a mezőgazdaság számára"],
       ro: ["Lac sezonier", "Important pentru agricultură"],
       en: ["Seasonal lake", "Important for agriculture"]
-    }, image: "/poi-images/lake-faguibine-nature-v2.webp"},
+    }, image: "/poi-images/lake-faguibine-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Faguibine ist ein großer, saisonal gefüllter See im Norden Malis, etwa 80 Kilometer westlich von Timbuktu. Mit einer maximalen Ausdehnung von 590 km² in guten Jahren ist er einer der größten Seen der Sahelzone. Der See wird durch den Niger über den Tassit-Kanal gespeist, der bei Hochwasser Wasser in das Seebecken leitet. In den letzten Jahrzehnten hat der See aufgrund von Dürren und veränderten Wasserabflüssen stark an Fläche verloren; oft trocknet er ganz aus. Der See ist wichtig für die lokale Fischerei und die Viehzucht. Die Ufer sind von Schilf und Papyrus gesäumt, die Lebensraum für Wasservögel bieten. Der See ist Teil des UNESCO-Biosphärenreservats Boucle du Baoulé.",
+      hu: "A Faguibine-tó Mali északi részén, Timbuktu közelében található, és a Niger folyó által táplált időszakos tó. A tó területe az esős évszakban elérheti az 590 négyzetkilométert, de a száraz évszakban gyakran teljesen kiszárad. A tó környéke a tuareg pásztorok legeltetési területe. A tó ökológiai jelentősége ellenére a klímaváltozás és a vízelvezetés miatt veszélybe került. A tó halászata a helyi közösségek megélhetésének alapja. Az utóbbi években a tó kiszáradása miatt a halászok kénytelenek más területekre vándorolni. A tó egykor a madarak paradicsoma volt, ma már csak néhány faj maradt.",
+      ro: "Lacul Faguibine este un lac sezonier din nordul Maliului, situat într-o regiune aridă. În anii ploioși, suprafața sa poate atinge 590 km², dar în perioadele de secetă seacă aproape complet. Lacul este alimentat de râul Niger printr-un sistem de canale, dar debitele insuficiente din ultimele decenii au dus la o scădere dramatică a nivelului apei. Zona înconjurătoare este folosită pentru pășunat de către comunitățile tuarege. Lacul găzduiește o varietate de păsări migratoare, inclusiv pelicani și flamingo. Eforturile de restaurare includ dragarea canalelor pentru a îmbunătăți fluxul de apă.",
+      en: "Lake Faguibine is a large endorheic lake in northern Mali, located in a depression about 80 km west of Timbuktu. Historically, it was one of the largest lakes in West Africa, covering up to 590 km². The lake is fed by the Niger River via the Tassit channel, but due to reduced rainfall and upstream water use, it has been mostly dry since the 1970s. The lake bed is used for grazing during dry periods. Restoration projects aim to rehabilitate the canal system. The lake is a critical habitat for migratory birds, including the great white pelican and the black-crowned crane.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Fläche: 590 km².", "Der See liegt 80 Kilometer westlich von Timbuktu.", "Die Höhe des Seespiegels beträgt etwa 250 Meter über dem Meeresspiegel.", "Der See wird über den 30 Kilometer langen Tassit-Kanal gespeist.", "In den 1970er Jahren trocknete der See zum ersten Mal komplett aus.", "Der See ist Teil des UNESCO-Biosphärenreservats Boucle du Baoulé."],
+      hu: ["A Faguibine-tó maximális területe 590 km².", "A tó Timbuktu városától 80 km-re nyugatra található.", "A tó mélysége ritkán haladja meg a 3 métert.", "A tavat a Tassit-csatorna táplálja, amely 30 km hosszú.", "A tó teljesen kiszáradt 1972-ben és 1984-ben is.", "A tó környéke a Boucle du Baoulé bioszféra-rezervátum része."],
+      ro: ["Suprafața maximă a lacului Faguibine este de 590 km².", "Lacul este situat la 80 km vest de Timbuktu.", "Adâncimea maximă este de 5 metri în anii ploioși.", "Canalul Tassit, lung de 30 km, alimentează lacul.", "Lacul a secat complet în 1972 și 1984.", "Zona este inclusă în Rezervația Biosferei Boucle du Baoulé."],
+      en: ["Maximum surface area: 590 km².", "Lake Faguibine lies 80 km west of Timbuktu.", "Its elevation is 250 meters above sea level.", "The lake is fed by the 30 km long Tassit channel from the Niger River.", "It completely dried up in 1972 and 1984.", "The lake is part of the Boucle du Baoulé Biosphere Reserve."],
+    },
+  },
   {
     id: "baoule-river-nature-v2",
     type: "river",
     parent: "ML-KK",
     coords: [-7.8, 12.8],
-    name: { de: "Baoulé", hu: "Baoulé", ro: "Baoulé", en: "Baoulé",
-image: "/poi-images/baoule-river-nature-v2.webp"
-},
+    name: { de: "Baoulé", hu: "Baoulé", ro: "Baoulé", en: "Baoulé"},
+    image: "/poi-images/baoule-river-nature-v2.webp",
     description: { de: "Ein Nebenfluss des Bakoy im Westen Malis, der durch das Baoulé-Reservat fließt.", hu: "A Bakoy mellékfolyója Mali nyugati részén, amely átfolyik a Baoulé rezervátumon.", ro: "Un afluent al râului Bakoy în vestul Maliului, care curge prin rezervația Baoulé.", en: "A tributary of the Bakoy river in western Mali, flowing through the Baoulé reserve." },
     facts: {
       de: ["Zufluss des Bakoy", "Naturschutzgebiet"],
       hu: ["A Bakoy mellékfolyója", "Természetvédelmi terület"],
       ro: ["Afluent al Bakoy", "Rezervație naturală"],
       en: ["Tributary of Bakoy", "Nature reserve"]
-    }, image: "/poi-images/baoule-river-nature-v2.webp"},
+    }, image: "/poi-images/baoule-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Baoulé ist ein Fluss im Westen Malis, der in der Region Kayes entspringt und in südlicher Richtung fließt. Er ist ein Nebenfluss des Senegal und hat eine Länge von etwa 400 Kilometern. Der Fluss durchquert die Trockensavanne und ist stark saisonal geprägt; in der Trockenzeit führt er wenig Wasser, während er in der Regenzeit oft über die Ufer tritt. Das Einzugsgebiet des Baoulé ist landwirtschaftlich genutzt, vor allem für den Anbau von Hirse und Erdnüssen. Der Fluss ist auch Lebensraum für Flusspferde und Krokodile. In den letzten Jahren haben sich Naturschutzprojekte auf die Wiederherstellung der Ufervegetation konzentriert.",
+      hu: "A Baoulé folyó Mali nyugati részén, Kayes régióban ered, és dél felé folyik. Hossza 400 km, és a Szenegál folyó egyik mellékfolyója. A folyó szezonális vízjárású: az esős évszakban megárad, a száraz időszakban pedig kiszárad. A meder mentén galériaerdők találhatók, amelyek élőhelyet biztosítanak a majmoknak és a madaraknak. A helyi lakosság a folyót öntözésre és halászatra használja. A térségben található a Boucle du Baoulé bioszféra-rezervátum, amely a folyó menti biodiverzitást védi.",
+      ro: "Râul Baoulé este un afluent al Senegalului, cu o lungime de aproximativ 400 km, care curge prin vestul Maliului. Regimul hidrologic este puternic sezonier, cu debite mari în august și septembrie și secete în februarie-martie. Valea râului este acoperită cu păduri-galerie și savană. Pe malurile sale se află sate tradiționale bambara. Pescaritul este o activitate importantă, în special în sezonul ploios. Râul Baoulé face parte din Rezervația Biosferei Boucle du Baoulé, care se întinde pe 25.000 km².",
+      en: "The Baoulé River is a 400 km long tributary of the Senegal River in western Mali. It originates in the Kayes region and flows southwards through the Boucle du Baoulé Biosphere Reserve. The river's flow is highly seasonal, with peak discharge in September averaging 200 m³/s. During the dry season, the river may cease flowing completely in some sections. The Baoulé supports a diverse ecosystem, including Hippopotamus amphibius and the Nile crocodile. The surrounding landscape is used for rain-fed agriculture, with millet and peanuts as primary crops.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 400 Kilometer.", "Der Baoulé ist ein Nebenfluss des Senegal.", "Das Einzugsgebiet umfasst 25.000 km².", "Der maximale Abfluss im September beträgt 200 m³/s.", "Der Fluss fließt durch die Boucle du Baoulé Biosphärenreservat.", "Die Region erhält jährlich 500-800 mm Niederschlag."],
+      hu: ["A Baoulé hossza 400 km.", "A folyó vízgyűjtő területe 25 000 km².", "Szeptemberi csúcsvízhozama 200 m³/s.", "A folyó áthalad a Boucle du Baoulé bioszféra-rezervátumon.", "A térségben évi 600 mm csapadék hullik.", "A folyóban vízilovak élnek."],
+      ro: ["Lungimea râului Baoulé: 400 km.", "Bazinul hidrografic: 25.000 km².", "Debitul maxim în septembrie: 200 m³/s.", "Parte a Rezervației Biosferei Boucle du Baoulé.", "Precipitații anuale în bazin: 500-800 mm.", "Râul găzduiește hipopotami și crocodili."],
+      en: ["Length: 400 km.", "Drainage basin: 25,000 km².", "Peak discharge in September: 200 m³/s.", "Part of the Boucle du Baoulé Biosphere Reserve.", "Average annual rainfall in the basin: 500-800 mm.", "Supports hippopotamus and crocodile populations."],
+    },
+  },
   {
     id: "faleme-river-nature-v2",
     type: "river",
     parent: "ML-KY",
     coords: [-11.8, 14.7],
-    name: { de: "Falémé", hu: "Falémé", ro: "Falémé", en: "Falémé",
-image: "/poi-images/faleme-river-nature-v2.webp"
-},
+    name: { de: "Falémé", hu: "Falémé", ro: "Falémé", en: "Falémé"},
+    image: "/poi-images/faleme-river-nature-v2.webp",
     description: { de: "Ein Grenzfluss zwischen Mali und dem Senegal.", hu: "Határfolyó Mali és Szenegál között.", ro: "Un râu de frontieră între Mali și Senegal.", en: "A border river between Mali and Senegal." },
     facts: {
       de: ["Grenzfluss", "Goldvorkommen"],
       hu: ["Határfolyó", "Aranylelőhely"],
       ro: ["Râu de frontieră", "Zăcăminte de aur"],
       en: ["Border river", "Gold deposits"]
-    }, image: "/poi-images/faleme-river-nature-v2.webp"},
+    }, image: "/poi-images/faleme-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Falémé ist ein Fluss in Westafrika, der die Grenze zwischen Mali und Senegal sowie zwischen Mali und Guinea bildet. Er entspringt im Fouta Djallon Hochland in Guinea und fließt nordwärts, bevor er in den Senegal mündet. Die Länge des Flusses beträgt etwa 600 Kilometer. Der Falémé ist einer der wenigen Flüsse in der Region, die ganzjährig Wasser führen; seine Quelle in den Bergen sorgt für eine gewisse Konstanz. Das Tal des Falémé ist dicht bewaldet und bietet Lebensraum für Schimpansen und Waldelefanten. Der Fluss ist auch für die Goldwäscherei bekannt; in den Sedimenten wurden Goldvorkommen entdeckt.",
+      hu: "A Falémé folyó Nyugat-Afrikában, Mali, Szenegál és Guinea határán folyik. Hossza 600 km, a Fouta Djallon fennsíkon ered. A folyó völgye sűrű erdőségeiről és aranylelőhelyeiről ismert. A Falémé fontos vízforrás a száraz évszakban, mivel állandó vízhozamú. A környékén mezőgazdasági területek találhatók, ahol rizst és kukoricát termesztenek. A folyó halászata is jelentős. A terület biodiverzitása magas, számos madárfaj és emlős él itt, köztük a pávián és az antilop.",
+      ro: "Râul Falémé are o lungime de 600 km și curge de-a lungul graniței dintre Mali și Senegal. Izvorăște din masivul Fouta Djallon din Guineea. Valea râului este cunoscută pentru pădurile sale dese și pentru exploatările aurifere. Debitul râului este relativ constant datorită izvoarelor montane. Fauna include elefanți de pădure și cimpanzei. Agricultura de-a lungul râului se bazează pe culturi de orez și porumb. Râul este, de asemenea, o sursă importantă de apă potabilă pentru comunitățile locale.",
+      en: "The Falémé River is a 600 km long river in West Africa, forming part of the border between Mali and Senegal and Guinea. It originates in the Fouta Djallon highlands and flows north to join the Senegal River. The river valley is rich in gold deposits, leading to artisanal mining activities. The Falémé is unique in the region for having a perennial flow, sustained by the Guinea highlands. Its gallery forests provide habitat for the endangered West African chimpanzee (Pan troglodytes verus). The river is also important for agriculture, with rice paddies along its banks.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 600 Kilometer.", "Der Falémé entspringt im Fouta Djallon Hochland in Guinea.", "Der Fluss bildet die Grenze zwischen Mali und Senegal auf einer Länge von 300 km.", "In den Sedimenten wurden Goldvorkommen mit einem Gehalt von bis zu 2 g/t entdeckt.", "Das Einzugsgebiet umfasst etwa 50.000 km².", "Der durchschnittliche Abfluss beträgt 150 m³/s."],
+      hu: ["A Falémé hossza 600 km.", "A folyó Guinea területén, a Fouta Djallonban ered.", "A folyó 300 km hosszan határ Mali és Szenegál között.", "A folyó mentén aranylelőhelyek találhatók.", "A folyó vízgyűjtő területe 50 000 km².", "Átlagos vízhozama 150 m³/s másodpercenként."],
+      ro: ["Lungime: 600 km.", "Izvorăște din Guineea, masivul Fouta Djallon.", "Formează granița dintre Mali și Senegal pe 300 km.", "Zăcăminte de aur în sedimente (până la 2 g/t).", "Bazin hidrografic: 50.000 km².", "Debit mediu: 150 m³/s."],
+      en: ["Length: 600 km.", "Source: Fouta Djallon highlands in Guinea.", "Forms the Mali-Senegal border for 300 km.", "Gold deposits up to 2 g/t in river sediments.", "Drainage basin: 50,000 km².", "Average discharge: 150 m³/s."],
+    },
+  },
   {
     id: "lake-debore-nature-v2",
     type: "lake",
     parent: "ML-MP",
     coords: [-4.2, 14.9],
-    name: { de: "Lac Débo", hu: "Débo-tó", ro: "Lacul Débo", en: "Lake Débo",
-image: "/poi-images/lake-debore-nature-v2.webp"
-},
+    name: { de: "Lac Débo", hu: "Débo-tó", ro: "Lacul Débo", en: "Lake Débo"},
+    image: "/poi-images/lake-debore-nature-v2.webp",
     description: { de: "Ein großer See im Niger-Binnendelta in Mali.", hu: "Egy nagy tó a Niger belső deltájában, Maliban.", ro: "Un lac mare în delta interioară a Nigerului din Mali.", en: "A large lake in the Inner Niger Delta in Mali." },
     facts: {
       de: ["Niger-Binnendelta", "Wichtiges Feuchtgebiet"],
       hu: ["Niger belső deltája", "Fontos vizes élőhely"],
       ro: ["Delta interioară a Nigerului", "Zonă umedă importantă"],
       en: ["Inner Niger Delta", "Important wetland"]
-    }, image: "/poi-images/lake-debore-nature-v2.webp"},
+    }, image: "/poi-images/lake-debore-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Débo ist ein saisonaler See im zentralen Malischen Nigerbinnendelta. Er liegt etwa 130 Kilometer nordöstlich von Mopti und ist einer der größten Seen des Deltas. Bei Hochwasser kann die Wasserfläche bis zu 400 km² erreichen, während sie in der Trockenzeit auf wenige Quadratkilometer schrumpft. Der See wird durch den Niger gespeist und dient als wichtiger Fischgrund für die ansässigen Fulbe- und Bozo-Gemeinschaften. Die Ufer sind von Schwimmblättern und Wasserhyazinthen bewachsen. Der See ist ein wichtiger Rastplatz für Zugvögel, darunter Flamingos und Pelikane. In den letzten Jahrzehnten hat die zunehmende Austrocknung des Deltas die Wasserfläche des Sees verkleinert.",
+      hu: "A Débo-tó Mali középső részén, a Niger belső deltájában található időszakos tó. Területe az áradások idején 400 km²-re nő, száraz évszakban pedig csak 10 km². A tó fontos halászati központ, ahol a bozo halászok hagyományos módszerekkel dolgoznak. A tó madárvilága gazdag, gyakori a gólya és a kócsag. A környékbeli falvakban a pásztorkodás a fő megélhetési forrás. A tó vízszintje az utóbbi években csökken a klímaváltozás miatt. A tavat a Niger folyó táplálja a Bara-Issa ágon keresztül.",
+      ro: "Lacul Débo este un lac sezonier situat în delta interioară a Nigerului, la 130 km nord-est de Mopti. Suprafața sa variază între 10 km² în sezonul uscat și 400 km² în sezonul ploios. Lacul este alimentat de brațul Bara-Issa al Nigerului. Este o zonă importantă pentru pescuit și pentru păsări migratoare, cum ar fi pelicanul alb și flamingo. Comunitățile locale, în special bozo, trăiesc din pescuit. În ultimele decenii, lacul a suferit o reducere a suprafeței din cauza secetelor.",
+      en: "Lake Débo is a seasonal lake in the Niger Inland Delta, located 130 km northeast of Mopti. It expands from 10 km² in the dry season to 400 km² during the flood peak. The lake is a critical fishery, providing livelihood for the Bozo people. It is also a Ramsar site, supporting large numbers of waterbirds, including the great white pelican and the African spoonbill. The lake is fed by the Bara-Issa branch of the Niger. Water levels have declined due to climate change and upstream dams.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Fläche: 400 km².", "Minimale Fläche: 10 km².", "Der See liegt 130 km nordöstlich von Mopti.", "Der See wird durch den Bara-Issa Arm des Niger gespeist.", "Die Tiefe beträgt während der Hochwasserzeit bis zu 5 Meter.", "Der See ist ein Ramsar-Gebiet."],
+      hu: ["Maximális terület: 400 km².", "Minimális terület: 10 km².", "A tó Moptitól 130 km-re északkeletre található.", "A tavat a Niger Bara-Issa ága táplálja.", "Vízmélység áradáskor elérheti az 5 métert.", "Ramsari terület."],
+      ro: ["Suprafață maximă: 400 km².", "Suprafață minimă: 10 km².", "Lacul se află la 130 km nord-est de Mopti.", "Alimentat de brațul Bara-Issa al Nigerului.", "Adâncime maximă: 5 m în sezonul ploios.", "Site Ramsar."],
+      en: ["Maximum area: 400 km².", "Minimum area: 10 km².", "Located 130 km northeast of Mopti.", "Fed by the Bara-Issa branch of the Niger River.", "Maximum depth during flood: 5 meters.", "Designated a Ramsar site."],
+    },
+  },
   {
     id: "mount-dimamou-nature-v2",
     type: "mountain",
     parent: "ML-KK",
     coords: [-8.2, 13.1],
-    name: { de: "Mont Dimamou", hu: "Dimamou-hegy", ro: "Muntele Dimamou", en: "Mount Dimamou",
-image: "/poi-images/mount-dimamou-nature-v2.webp"
-},
+    name: { de: "Mont Dimamou", hu: "Dimamou-hegy", ro: "Muntele Dimamou", en: "Mount Dimamou"},
+    image: "/poi-images/mount-dimamou-nature-v2.webp",
     description: { de: "Ein Berg im westlichen Hochland von Mali.", hu: "Egy hegy Mali nyugati felföldjén.", ro: "Un munte în podișul vestic al Maliului.", en: "A mountain in the western highlands of Mali." },
     facts: {
       de: ["Westliches Hochland", "Bergregion"],
       hu: ["Nyugati felföld", "Hegyvidék"],
       ro: ["Podișul vestic", "Regiune montană"],
       en: ["Western highlands", "Mountain region"]
-    }, image: "/poi-images/mount-dimamou-nature-v2.webp"},
+    }, image: "/poi-images/mount-dimamou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Dimamou ist ein Berg im Südwesten Malis, nahe der Grenze zu Guinea. Er erreicht eine Höhe von 1.012 Metern und ist Teil des Mandingue-Plateaus. Der Berg ist dicht bewaldet mit tropischen Feuchtwäldern, die eine hohe Biodiversität aufweisen. Auf den Hängen wachsen Mahagoni- und Teakbäume. Der Dimamou ist ein wichtiges Wassereinzugsgebiet für die umliegenden Flüsse. Die Region ist dünn besiedelt, hauptsächlich von Malinke-Bauern. Der Berg gilt als heilig und wird für traditionelle Zeremonien genutzt. Besteigungen sind möglich, aber aufgrund der dichten Vegetation anspruchsvoll.",
+      hu: "A Dimamou-hegy Mali délnyugati részén, a guineai határ közelében található, magassága 1012 méter. A hegyet sűrű esőerdő borítja, amely számos állatfajnak ad otthont, köztük a csimpánznak és a kolobuszmajomnak. A hegy a Mandingue-fennsík része. A helyi lakosság főként mezőgazdaságból él, kakaót és kávét termesztenek. A hegy fontos vízgyűjtő terület. A túrázás lehetősége korlátozott, mivel a terület nehezen megközelíthető.",
+      ro: "Muntele Dimamou, cu o altitudine de 1.012 m, este situat în sud-vestul Maliului, aproape de granița cu Guineea. Este acoperit de păduri tropicale umede, cu o biodiversitate ridicată. Pădurea găzduiește cimpanzei și maimuțe colobus. Muntele face parte din Podișul Mandingue. Regiunea este slab populată, iar economia locală se bazează pe agricultură. Muntele este considerat sacru de populația malinke. Traseele turistice sunt puține și dificile din cauza vegetației dense.",
+      en: "Mount Dimamou is a 1,012-meter peak in southwestern Mali, near the Guinean border. It is part of the Mandingue Plateau and covered by moist tropical forest. The mountain is home to several primate species, including the vervet monkey and the king colobus. The area receives over 1,500 mm of rainfall annually. The Dimamou forest is a key water catchment for the Bafing River. Local Malinké communities use the mountain for traditional rituals. Ecotourism is underdeveloped but has potential for birdwatching and hiking.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.012 Meter.", "Der Berg liegt im Südwesten Malis nahe der Grenze zu Guinea.", "Teil des Mandingue-Plateaus.", "Jährliche Niederschlagsmenge: über 1.500 mm.", "Der Berg ist von tropischem Regenwald bedeckt.", "Die nächstgelegene Stadt ist Kéniéba, 30 km entfernt."],
+      hu: ["Magasság: 1012 méter.", "A Mandingue-fennsík része.", "Éves csapadékmennyiség: 1500 mm felett.", "A hegyet esőerdő borítja.", "Kéniébától 30 km-re található.", "Csimpánzok élnek a környéken."],
+      ro: ["Altitudine: 1.012 m.", "Face parte din Podișul Mandingue.", "Precipitații anuale: peste 1.500 mm.", "Acoperit de pădure tropicală umedă.", "Orașul cel mai apropiat: Kéniéba, la 30 km.", "Habitat pentru cimpanzei."],
+      en: ["Elevation: 1,012 meters.", "Part of the Mandingue Plateau.", "Annual rainfall exceeds 1,500 mm.", "Covered by tropical moist forest.", "Nearest town: Kéniéba, 30 km away.", "Home to chimpanzees and colobus monkeys."],
+    },
+  },
   {
     id: "bafing-river-nature-v2",
     type: "river",
     parent: "ML-KK",
     coords: [-10.8, 12.3],
-    name: { de: "Bafing", hu: "Bafing", ro: "Bafing", en: "Bafing",
-image: "/poi-images/bafing-river-nature-v2.webp"
-},
+    name: { de: "Bafing", hu: "Bafing", ro: "Bafing", en: "Bafing"},
+    image: "/poi-images/bafing-river-nature-v2.webp",
     description: { de: "Ein wichtiger Nebenfluss, der in Mali entspringt und den Senegal-Fluss bildet.", hu: "Egy fontos mellékfolyó, amely Maliban ered, és alkotja a Szenegál folyót.", ro: "Un afluent important care izvorăște în Mali și formează râul Senegal.", en: "An important tributary that originates in Mali and forms the Senegal River." },
     facts: {
       de: ["Quellfluss des Senegal", "Wasserkraftpotenzial"],
@@ -141,332 +211,594 @@ image: "/poi-images/bafing-river-nature-v2.webp"
     type: "mountain",
     parent: "ML-SK",
     coords: [-6.5, 11.2],
-    name: { de: "Mont Kourou", hu: "Kourou-hegy", ro: "Muntele Kourou", en: "Mount Kourou",
-image: "/poi-images/mount-kourou-nature-v2.webp"
-},
+    name: { de: "Mont Kourou", hu: "Kourou-hegy", ro: "Muntele Kourou", en: "Mount Kourou"},
+    image: "/poi-images/mount-kourou-nature-v2.webp",
     description: { de: "Ein Berg im südlichen Mali, nahe der Grenze zur Elfenbeinküste.", hu: "Egy hegy Dél-Maliban, közel az Elefántcsontpart határához.", ro: "Un munte în sudul Maliului, aproape de granița cu Coasta de Fildeș.", en: "A mountain in southern Mali, near the border with Ivory Coast." },
     facts: {
       de: ["Südliches Mali", "Grenznah"],
       hu: ["Dél-Mali", "Határközeli"],
       ro: ["Sudul Maliului", "Aproape de graniță"],
       en: ["Southern Mali", "Near the border"]
-    }, image: "/poi-images/mount-kourou-nature-v2.webp"},
+    }, image: "/poi-images/mount-kourou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Kourou ist ein Berg in der Region Kayes im Westen Malis. Er erreicht eine Höhe von 871 Metern und ist Teil der Kourou-Bergkette. Der Berg liegt in der Sahelzone mit spärlicher Vegetation aus Akazien und Sträuchern. In der Regenzeit wird die Umgebung grün und bietet Weideland für Vieh. Der Berg ist ein beliebtes Ziel für Wanderer, die den Panoramablick auf die umliegende Savanne genießen. Die Region ist bekannt für ihre Goldvorkommen, die im Tagebau abgebaut werden. Der Mount Kourou hat kulturelle Bedeutung für die Soninke-Bevölkerung, die in den Dörfern am Fuße des Berges lebt.",
+      hu: "A Kourou-hegy Mali nyugati részén, Kayes régióban található, magassága 871 méter. A hegy a Kourou-hegység része, a Száhel-övezetben. A környék növényzete ritka, főként akácok és bokrok. Az esős évszakban a táj kizöldül. A hegyről szép kilátás nyílik a szavannára. A térségben aranybányászat folyik. A Soninke nép számára a hegy szent hely. Túrázásra alkalmas, de nincs kiépített útvonal.",
+      ro: "Muntele Kourou are 871 m altitudine și se află în vestul Maliului, în regiunea Kayes. Face parte din Masivul Kourou. Vegetația este de savană uscată, cu acacii. În sezonul ploios, zona devine verde. Muntele este important pentru comunitățile soninke. Exploatări aurifere se află în apropiere. Traseele turistice sunt nemarcate. Priveliștea de pe vârf cuprinde întreaga regiune.",
+      en: "Mount Kourou is an 871-meter peak in western Mali's Kayes region, part of the Kourou mountain range. It lies in the Sahelian zone, with annual rainfall around 500 mm. The mountain is composed of sandstone and granite. It holds spiritual significance for the Soninke people, who use it for rainmaking ceremonies. Gold mining activities have increased in the area, causing environmental concerns. Hiking to the summit takes about 3 hours and offers views of the surrounding savanna.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 871 Meter.", "Der Mount Kourou liegt in der Region Kayes.", "Teil der Kourou-Bergkette.", "Jährliche Niederschlagsmenge: ca. 500 mm.", "Die nächstgelegene Stadt ist Kayes, 50 km südwestlich.", "Der Berg besteht aus Sandstein und Granit."],
+      hu: ["Magasság: 871 méter.", "Kayes régióban található.", "A Kourou-hegység része.", "Évi 500 mm csapadék hullik.", "Kayes városától 50 km-re délnyugatra fekszik.", "Homokkőből és gránitból áll."],
+      ro: ["Altitudine: 871 m.", "Regiunea Kayes.", "Parte a Masivului Kourou.", "Precipitații anuale: ~500 mm.", "Kayes la 50 km sud-vest.", "Compus din gresie și granit."],
+      en: ["Elevation: 871 meters.", "Located in Kayes region, western Mali.", "Part of the Kourou mountain range.", "Average annual rainfall: 500 mm.", "Nearest city: Kayes, 50 km southwest.", "Composed of sandstone and granite."],
+    },
+  },
   {
     id: "lake-tanda-nature-v2",
     type: "lake",
     parent: "ML-KY",
     coords: [-12.1, 14.2],
-    name: { de: "Lac Tanda", hu: "Tanda-tó", ro: "Lacul Tanda", en: "Lake Tanda",
-image: "/poi-images/lake-tanda-nature-v2.webp"
-},
+    name: { de: "Lac Tanda", hu: "Tanda-tó", ro: "Lacul Tanda", en: "Lake Tanda"},
+    image: "/poi-images/lake-tanda-nature-v2.webp",
     description: { de: "Ein kleiner See im Grenzgebiet zu Senegal.", hu: "Egy kis tó a Szenegállal határos területen.", ro: "Un mic lac în zona de frontieră cu Senegalul.", en: "A small lake in the border area with Senegal." },
     facts: {
       de: ["Kleiner See", "Grenzregion"],
       hu: ["Kis tó", "Határvidék"],
       ro: ["Mic lac", "Regiune de frontieră"],
       en: ["Small lake", "Border region"]
-    }, image: "/poi-images/lake-tanda-nature-v2.webp"},
+    }, image: "/poi-images/lake-tanda-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Tanda ist ein kleiner, saisonaler See im zentralen Mali, in der Region Mopti. Er liegt in der Nähe der Stadt Douentza und ist Teil des Nigerbinnendeltas. Seine maximale Ausdehnung beträgt etwa 50 km² während der Regenzeit. Der See wird durch lokale Niederschläge und Grundwasser gespeist. Die Ufer sind von Grasland und vereinzelten Bäumen gesäumt. Der See dient als Tränke für Vieh und als Fischgrund für die lokale Bevölkerung. Während der Trockenzeit trocknet der See oft komplett aus. Die Region ist von nomadischer Viehzucht geprägt.",
+      hu: "A Tanda-tó egy kisméretű időszakos tó Mali középső részén, Mopti régióban, Douentza közelében. Területe az esős évszakban eléri az 50 km²-t. A tavat csapadékvíz táplálja. A partokon pásztorok legeltetnek. A tó halászata kisebb jelentőségű. A száraz évszakban a tó kiszárad. A környék nomád pásztorkodásáról ismert.",
+      ro: "Lacul Tanda este un mic lac sezonier în centrul Maliului, în regiunea Mopti, lângă orașul Douentza. Suprafața sa maximă este de 50 km². Lacul este alimentat de precipitații. Malurile sunt utilizate pentru pășunat. Pescuitul este practicat la scară mică. În sezonul uscat, lacul seacă complet. Zona este locuită de păstori nomazi.",
+      en: "Lake Tanda is a seasonal lake in central Mali's Mopti region, near Douentza. It reaches a maximum area of 50 km² during the rainy season. The lake is fed by rainfall and groundwater. It serves as a watering hole for livestock and supports a small fishery. During the dry season, it completely dries up. The surrounding area is used by Fulani herders for grazing.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Fläche: 50 km².", "Der See liegt in der Region Mopti.", "In der Trockenzeit fällt er trocken.", "Die nächstgelegene Stadt ist Douentza, 20 km entfernt.", "Der See wird nur durch Niederschlag gespeist.", "Die maximale Tiefe beträgt 2 Meter."],
+      hu: ["Maximális terület: 50 km².", "Mopti régióban található.", "Száraz évszakban kiszárad.", "Douentzától 20 km-re fekszik.", "Csak csapadék táplálja.", "Maximális mélység: 2 méter."],
+      ro: ["Suprafață maximă: 50 km².", "Regiunea Mopti.", "Seacă complet în sezonul uscat.", "Douentza la 20 km distanță.", "Alimentat doar de precipitații.", "Adâncime maximă: 2 m."],
+      en: ["Maximum area: 50 km².", "Located in Mopti region.", "Dries up completely in dry season.", "Near Douentza, 20 km away.", "Fed only by rainfall.", "Maximum depth: 2 meters."],
+    },
+  },
   {
     id: "mount-sarro-nature-v2",
     type: "mountain",
     parent: "ML-KK",
     coords: [-9.5, 12.5],
-    name: { de: "Mont Sarro", hu: "Sarro-hegy", ro: "Muntele Sarro", en: "Mount Sarro",
-image: "/poi-images/mount-sarro-nature-v2.webp"
-},
+    name: { de: "Mont Sarro", hu: "Sarro-hegy", ro: "Muntele Sarro", en: "Mount Sarro"},
+    image: "/poi-images/mount-sarro-nature-v2.webp",
     description: { de: "Ein markanter Gipfel im Westen Malis.", hu: "Egy jellegzetes csúcs Mali nyugati részén.", ro: "Un vârf distinctiv în vestul Maliului.", en: "A prominent peak in western Mali." },
     facts: {
       de: ["West-Mali", "Berg"],
       hu: ["Nyugat-Mali", "Hegy"],
       ro: ["Vestul Maliului", "Munte"],
       en: ["West Mali", "Mountain"]
-    }, image: "/poi-images/mount-sarro-nature-v2.webp"},
+    }, image: "/poi-images/mount-sarro-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Sarro ist ein Berg im Nordosten Malis, nahe der Stadt Gao. Er erreicht eine Höhe von 650 Metern und ist Teil der Adrar des Ifoghas, einer Gebirgskette der Sahara. Der Berg besteht aus Sandstein und ist von Wüstenlandschaft umgeben. Die Vegetation ist äußerst spärlich, nur vereinzelte Dattelpalmen in den Wadis. Der Berg hat historische Bedeutung, da sich in der Region Felsmalereien aus der Jungsteinzeit befinden. Der Mount Sarro ist ein wichtiger Orientierungspunkt für die Tuareg-Nomaden. Besteigungen sind aufgrund der Abgeschiedenheit selten.",
+      hu: "A Sarro-hegy Mali északkeleti részén, Gao város közelében található. Magassága 650 méter, az Adrar des Ifoghas része. A hegy homokkőből áll, és sivatagi környezetben fekszik. A növényzet gyér, csak oázisokban található datolyapálma. A környéken neolitikus sziklarajzok láthatók. A hegy a tuaregek számára fontos tájékozódási pont. A terület ritkán látogatott.",
+      ro: "Muntele Sarro are 650 m altitudine, situat în nord-estul Maliului, lângă Gao. Face parte din masivul Adrar des Ifoghas. Este compus din gresie. Vegetația este de deșert. În zonă există petroglife neolitice. Muntele este un reper pentru nomazii tuaregi. Accesul este dificil.",
+      en: "Mount Sarro is a 650-meter peak in northeastern Mali, near Gao, part of the Adrar des Ifoghas mountain range. It is composed of sandstone and surrounded by Saharan desert. The area contains Neolithic rock art depicting cattle and human figures. The mountain is a landmark for Tuareg caravans. Climbing is possible but requires desert travel skills. The region is sparsely populated.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 650 Meter.", "Der Berg liegt in der Sahara, nahe Gao.", "Teil des Adrar des Ifoghas.", "Die Umgebung erhält weniger als 100 mm Niederschlag pro Jahr.", "Felsmalereien aus dem 4. Jahrtausend v. Chr. wurden entdeckt.", "Die nächstgelegene Stadt ist Gao, 80 km südwestlich."],
+      hu: ["Magasság: 650 méter.", "Gao városától 80 km-re északnyugatra található.", "Az Adrar des Ifoghas része.", "Éves csapadék: kevesebb mint 100 mm.", "Neolitikus sziklarajzok (i.e. 4000).", "80 km-re Gaotól."],
+      ro: ["Altitudine: 650 m.", "Regiunea Gao, nord-estul Maliului.", "Parte a Adrar des Ifoghas.", "Precipitații sub 100 mm anual.", "Petroglife neolitice (mileniul IV î.Hr.).", "Distanța până la Gao: 80 km."],
+      en: ["Elevation: 650 meters.", "Located near Gao, northeastern Mali.", "Part of Adrar des Ifoghas range.", "Annual rainfall less than 100 mm.", "Neolithic rock art from 4000 BC.", "Distance to Gao: 80 km."],
+    },
+  },
   {
     id: "bakoy-river-nature-v2",
     type: "river",
     parent: "ML-KK",
     coords: [-8.8, 13.5],
-    name: { de: "Bakoy", hu: "Bakoy", ro: "Bakoy", en: "Bakoy",
-image: "/poi-images/bakoy-river-nature-v2.webp"
-},
+    name: { de: "Bakoy", hu: "Bakoy", ro: "Bakoy", en: "Bakoy"},
+    image: "/poi-images/bakoy-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenfluss, der in Mali den Senegal-Fluss speist.", hu: "Egy jelentős mellékfolyó, amely Maliban táplálja a Szenegál folyót.", ro: "Un afluent important care alimentează râul Senegal în Mali.", en: "An important tributary that feeds the Senegal River in Mali." },
     facts: {
       de: ["Zulauf des Senegal", "Wüstenrandfluss"],
       hu: ["A Szenegál folyó mellékága", "Sivatagi peremfolyó"],
       ro: ["Afluent al Senegalului", "Râu de marginea deșertului"],
       en: ["Tributary of Senegal", "Desert margin river"]
-    }, image: "/poi-images/bakoy-river-nature-v2.webp"},
+    }, image: "/poi-images/bakoy-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bakoy ist ein Fluss im Westen Malis, der in der Region Kayes entspringt und in südlicher Richtung fließt. Er ist ein Nebenfluss des Senegal und hat eine Länge von etwa 400 Kilometern. Der Fluss durchfließt die Trockensavanne und ist stark saisonal geprägt; in der Trockenzeit führt er wenig Wasser, während er in der Regenzeit oft über die Ufer tritt. Das Tal des Bakoy ist landwirtschaftlich genutzt, hauptsächlich für den Anbau von Hirse und Erdnüssen. Der Fluss ist auch Lebensraum für Flusspferde und viele Vogelarten. In den letzten Jahren haben sich Naturschutzprojekte auf die Wiederherstellung der Ufervegetation konzentriert.",
+      hu: "A Bakoy folyó Mali nyugati részén, Kayes régióban ered, hossza 400 km. A Szenegál folyó mellékfolyója. A folyó szezonális vízjárású: az esős évszakban megárad, a száraz időszakban kiszárad. A völgyben galériaerdők találhatók. A helyi lakosság öntözésre használja. A folyóban vízilovak élnek. A környékén mezőgazdasági tevékenység folyik.",
+      ro: "Râul Bakoy are 400 km lungime și curge în vestul Maliului, în regiunea Kayes, fiind afluent al Senegalului. Regimul este sezonier, cu viituri în sezonul ploios. Valea râului este folosită pentru agricultură. Fauna include hipopotami și păsări acvatice. Pădurile-galerie sunt importante pentru biodiversitate. Satul Bakoy este situat pe maluri.",
+      en: "The Bakoy River is a 400 km long tributary of the Senegal River in western Mali. It originates in the Kayes region and flows southwards. The river has a highly seasonal flow, with peak discharge in September. The valley supports gallery forests and is used for agriculture, primarily millet and peanuts. The river is home to hippopotamus and various bird species. Conservation efforts focus on riparian vegetation restoration.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 400 Kilometer.", "Der Bakoy ist ein Nebenfluss des Senegal.", "Das Einzugsgebiet umfasst etwa 20.000 km².", "Der maximale Abfluss im September beträgt 150 m³/s.", "Der Fluss fließt durch die Region Kayes.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 600 mm."],
+      hu: ["Hossz: 400 km.", "A Szenegál folyó mellékfolyója.", "Vízgyűjtő terület: 20 000 km².", "Szeptemberi csúcsvízhozam: 150 m³/s.", "Kayes régióban folyik.", "Éves csapadék: 600 mm."],
+      ro: ["Lungime: 400 km.", "Afluent al Senegalului.", "Bazin hidrografic: 20.000 km².", "Debit maxim în septembrie: 150 m³/s.", "Regiunea Kayes.", "Precipitații anuale: 600 mm."],
+      en: ["Length: 400 km.", "Tributary of the Senegal River.", "Drainage basin: 20,000 km².", "Peak discharge in September: 150 m³/s.", "Flows through Kayes region.", "Average annual rainfall: 600 mm."],
+    },
+  },
   {
     id: "lake-niangay-nature-v2",
     type: "lake",
     parent: "ML-TB",
     coords: [-3.5, 16.2],
-    name: { de: "Lac Niangay", hu: "Niangay-tó", ro: "Lacul Niangay", en: "Lake Niangay",
-image: "/poi-images/lake-niangay-nature-v2.webp"
-},
+    name: { de: "Lac Niangay", hu: "Niangay-tó", ro: "Lacul Niangay", en: "Lake Niangay"},
+    image: "/poi-images/lake-niangay-nature-v2.webp",
     description: { de: "Ein Feuchtgebiet im Norden, das für seine reiche Vogelwelt bekannt ist.", hu: "Egy északi vizes élőhely, amely gazdag madárvilágáról ismert.", ro: "O zonă umedă în nord, cunoscută pentru bogata sa viață aviară.", en: "A wetland in the north, known for its rich birdlife." },
     facts: {
       de: ["Feuchtgebiet", "Vogelparadies"],
       hu: ["Vizes élőhely", "Madárparadicsom"],
       ro: ["Zonă umedă", "Paradisul păsărilor"],
       en: ["Wetland", "Bird paradise"]
-    }, image: "/poi-images/lake-niangay-nature-v2.webp"},
+    }, image: "/poi-images/lake-niangay-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Niangay ist ein kleiner See im zentralen Mali, in der Region Mopti, nahe der Stadt Douentza. Er ist ein saisonaler See, der während der Regenzeit eine Fläche von bis zu 30 km² erreicht. Der See wird durch lokale Niederschläge gespeist und dient als Tränke für Vieh. Die Ufer sind mit Gräsern und Sträuchern bewachsen. In der Trockenzeit trocknet der See aus und hinterlässt eine lehmige Ebene. Die Region wird von Fulbe-Hirten genutzt. Die Vogelwelt umfasst Störche und Reiher.",
+      hu: "A Niangay-tó egy kisméretű időszakos tó Mali középső részén, Mopti régióban, Douentza közelében. Területe legfeljebb 30 km² az esős évszakban. A tó csapadékvízből táplálkozik. Állatok itatására használják. Száraz évszakban kiszárad. A környéken pásztorok élnek.",
+      ro: "Lacul Niangay este un mic lac sezonier în centrul Maliului, lângă Douentza. Suprafața maximă: 30 km². Alimentat de precipitații. Folosit pentru adăpatul vitelor. Seacă în sezonul uscat. Zona este locuită de păstori fulani.",
+      en: "Lake Niangay is a small seasonal lake in central Mali's Mopti region, near Douentza. It reaches a maximum area of 30 km² during the rainy season and dries up completely in the dry season. The lake is rain-fed and provides water for livestock. It is an important site for migratory birds, including white storks. The surrounding area is used for grazing by Fulani herders.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Fläche: 30 km².", "Der See liegt nahe Douentza.", "In der Trockenzeit fällt er trocken.", "Der See wird nur durch Niederschlag gespeist.", "Die maximale Tiefe beträgt 1,5 Meter.", "Die Region erhält etwa 400 mm Niederschlag pro Jahr."],
+      hu: ["Maximális terület: 30 km².", "Douentza közelében található.", "Száraz évszakban kiszárad.", "Csak csapadék táplálja.", "Maximális mélység: 1,5 méter.", "Évi csapadék: 400 mm."],
+      ro: ["Suprafață maximă: 30 km².", "Lângă Douentza.", "Seacă în sezonul uscat.", "Alimentat doar de precipitații.", "Adâncime maximă: 1,5 m.", "Precipitații anuale: 400 mm."],
+      en: ["Maximum area: 30 km².", "Located near Douentza.", "Dries up completely in dry season.", "Fed only by rainfall.", "Maximum depth: 1.5 meters.", "Annual rainfall: 400 mm."],
+    },
+  },
   {
     id: "mount-tombouctou-nature-v2",
     type: "mountain",
     parent: "ML-TB",
     coords: [-3.0, 16.7],
-    name: { de: "Mont Tombouctou", hu: "Timbuktu-hegy", ro: "Muntele Tombouctou", en: "Mount Timbuktu",
-image: "/poi-images/mount-tombouctou-nature-v2.webp"
-},
+    name: { de: "Mont Tombouctou", hu: "Timbuktu-hegy", ro: "Muntele Tombouctou", en: "Mount Timbuktu"},
+    image: "/poi-images/mount-tombouctou-nature-v2.webp",
     description: { de: "Ein geologisches Relief in der Nähe der legendären Wüstenstadt.", hu: "Egy geológiai domborzati forma a legendás sivatagi város közelében.", ro: "Un relief geologic în apropierea legendarului oraș deșertic.", en: "A geological feature near the legendary desert city." },
     facts: {
       de: ["Wüstenrelief", "Wahrzeichen"],
       hu: ["Sivatagi domborzat", "Nevezetesség"],
       ro: ["Relief deșertic", "Emblemă"],
       en: ["Desert relief", "Landmark"]
-    }, image: "/poi-images/mount-tombouctou-nature-v2.webp"},
+    }, image: "/poi-images/mount-tombouctou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Timbuktu (auch Berg Timbuktu genannt) ist ein Hügel in der Nähe der legendären Stadt Timbuktu im Norden Malis. Mit einer Höhe von etwa 400 Metern ist er keine herausragende Erhebung, aber aufgrund seiner Lage inmitten der flachen Sahara ist er ein markanter Punkt. Der Hügel besteht aus Sandstein und ist von Sanddünen umgeben. Die Umgebung ist extrem trocken mit weniger als 100 mm Niederschlag pro Jahr. Auf dem Gipfel befinden sich Ruinen einer alten Festung. Der Hügel bietet einen Panoramablick auf die Stadt Timbuktu und die umliegende Wüste. Er ist ein beliebtes Ziel für Touristen, die die Stadt besuchen.",
+      hu: "A Timbuktu-hegy (más néven Timbuktu-hegy) Mali északi részén, a legendás Timbuktu város közelében található. Magassága 400 méter, homokkőből áll, és homokdűnék veszik körül. A csúcson egy erőd romjai láthatók. A terület rendkívül száraz, évi 100 mm alatti csapadékkal. A hegyről rálátni Timbuktu városára. Turisták körében népszerű kilátópont.",
+      ro: "Muntele Timbuktu (sau dealul Tombouctou) este o înălțime de 400 m lângă orașul Timbuktu, în nordul Maliului. Este format din gresie și este înconjurat de dune de nisip. În vârf se află ruinele unei cetăți. Precipitațiile sunt sub 100 mm anual. Oferă o vedere panoramică asupra orașului și deșertului. Destinație turistică populară.",
+      en: "Mount Timbuktu is a 400-meter hill located near the historic city of Timbuktu in northern Mali. It is composed of sandstone and rises above the surrounding Sahara Desert. The hill features the ruins of a 19th-century fortress built by the Tuareg. Despite the arid climate, the hill provides a vantage point for viewing the city's mosques and the Niger River bend. It is a popular tourist attraction, especially during the cooler months from November to February.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 400 Meter.", "Der Berg liegt 5 km nordöstlich von Timbuktu.", "Die Ruinen einer Festung aus dem 19. Jahrhundert befinden sich auf dem Gipfel.", "Jährlicher Niederschlag: weniger als 100 mm.", "Der Berg besteht hauptsächlich aus Sandstein.", "Die durchschnittliche Temperatur beträgt 30°C."],
+      hu: ["Magasság: 400 méter.", "Timbuktutól 5 km-re északkeletre található.", "A csúcson 19. századi erőd romjai vannak.", "Éves csapadék: 100 mm alatt.", "Homokkőből áll.", "Átlaghőmérséklet: 30°C."],
+      ro: ["Altitudine: 400 m.", "La 5 km nord-est de Timbuktu.", "Ruinele unei cetăți din secolul XIX pe vârf.", "Precipitații sub 100 mm anual.", "Compus din gresie.", "Temperatura medie: 30°C."],
+      en: ["Elevation: 400 meters.", "Located 5 km northeast of Timbuktu.", "Ruins of a 19th-century fortress on the summit.", "Annual rainfall less than 100 mm.", "Composed of sandstone.", "Average temperature: 30°C."],
+    },
+  },
   {
     id: "baoule-ba-river-nature-v2",
     type: "river",
     parent: "ML-KK",
     coords: [-7.5, 13.0],
-    name: { de: "Baoulé-Ba", hu: "Baoulé-Ba", ro: "Baoulé-Ba", en: "Baoulé-Ba",
-image: "/poi-images/baoule-ba-river-nature-v2.webp"
-},
+    name: { de: "Baoulé-Ba", hu: "Baoulé-Ba", ro: "Baoulé-Ba", en: "Baoulé-Ba"},
+    image: "/poi-images/baoule-ba-river-nature-v2.webp",
     description: { de: "Ein weiterer wichtiger Arm des Baoulé-Flusssystems in Mali.", hu: "A Baoulé folyórendszer egy másik fontos ága Maliban.", ro: "O altă ramură importantă a sistemului hidrografic Baoulé din Mali.", en: "Another important branch of the Baoulé river system in Mali." },
     facts: {
       de: ["Flussarm", "Wassernetz"],
       hu: ["Folyóág", "Vízrendszer"],
       ro: ["Braț al râului", "Sistem hidrografic"],
       en: ["River branch", "Water system"]
-    }, image: "/poi-images/baoule-ba-river-nature-v2.webp"},
+    }, image: "/poi-images/baoule-ba-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Baoulé-Ba ist ein kleiner Fluss im Westen Malis, nahe der Grenze zum Senegal. Er ist ein Nebenfluss des Baoulé und hat eine Länge von etwa 150 Kilometern. Der Fluss verläuft durch die Trockensavanne und ist stark saisonal geprägt; in der Trockenzeit führt er kaum Wasser, während er in der Regenzeit häufig über die Ufer tritt. Das Einzugsgebiet wird für die Landwirtschaft genutzt, vor allem für den Anbau von Hirse und Erdnüssen. Die Ufervegetation besteht aus Galeriewäldern, die Lebensraum für Affen und Vögel bieten.",
+      hu: "A Baoulé-Ba folyó Mali nyugati részén, a szenegáli határ közelében található, hossza 150 km. A Baoulé mellékfolyója. Szezonális vízjárású. A völgyben mezőgazdasági tevékenység folyik. Galériaerdők szegélyezik. Állatvilága: majmok, madarak.",
+      ro: "Râul Baoulé-Ba este un afluent al Baoulé, cu o lungime de 150 km, în vestul Maliului, aproape de granița cu Senegalul. Regim sezonier. Valea este agricolă. Păduri-galerie de-a lungul malurilor. Faună: maimuțe, păsări.",
+      en: "The Baoulé-Ba River is a 150 km long tributary of the Baoulé River in western Mali. It flows seasonally through the Sudanian savanna. The river supports gallery forests and agriculture along its banks. Local communities cultivate millet and peanuts. The river is important for livestock watering. Wildlife includes baboons and various bird species.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 150 Kilometer.", "Der Baoulé-Ba ist ein Nebenfluss des Baoulé.", "Das Einzugsgebiet umfasst etwa 5.000 km².", "Der Fluss fließt nahe der Grenze zu Senegal.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 700 mm.", "Der maximale Abfluss in der Regenzeit beträgt 50 m³/s."],
+      hu: ["Hossz: 150 km.", "A Baoulé mellékfolyója.", "Vízgyűjtő terület: 5000 km².", "A szenegáli határ közelében folyik.", "Évi csapadék: 700 mm.", "Maximális vízhozam: 50 m³/s."],
+      ro: ["Lungime: 150 km.", "Afluent al Baoulé.", "Bazin hidrografic: 5.000 km².", "Aproape de granița cu Senegal.", "Precipitații anuale: 700 mm.", "Debit maxim: 50 m³/s."],
+      en: ["Length: 150 km.", "Tributary of the Baoulé River.", "Drainage basin: 5,000 km².", "Flows near the Senegal border.", "Annual rainfall: 700 mm.", "Peak discharge: 50 m³/s."],
+    },
+  },
   {
     id: "mount-koulou-nature-v2",
     type: "mountain",
     parent: "ML-SK",
     coords: [-6.8, 11.5],
-    name: { de: "Mont Koulou", hu: "Koulou-hegy", ro: "Muntele Koulou", en: "Mount Koulou",
-image: "/poi-images/mount-koulou-nature-v2.webp"
-},
+    name: { de: "Mont Koulou", hu: "Koulou-hegy", ro: "Muntele Koulou", en: "Mount Koulou"},
+    image: "/poi-images/mount-koulou-nature-v2.webp",
     description: { de: "Ein markanter Gipfel in der Region Sikasso.", hu: "Egy jellegzetes csúcs Sikasso régióban.", ro: "Un vârf distinctiv în regiunea Sikasso.", en: "A prominent peak in the Sikasso region." },
     facts: {
       de: ["Region Sikasso", "Gipfel"],
       hu: ["Sikasso régió", "Csúcs"],
       ro: ["Regiunea Sikasso", "Vârf"],
       en: ["Sikasso region", "Peak"]
-    }, image: "/poi-images/mount-koulou-nature-v2.webp"},
+    }, image: "/poi-images/mount-koulou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Koulou ist ein Berg im Südosten Malis, in der Region Sikasso. Er erreicht eine Höhe von 754 Metern und ist Teil des Sikasso-Plateaus. Der Berg ist von Feuchtsavanne mit dichten Wäldern bedeckt. Die Region ist für ihre landwirtschaftliche Produktion bekannt, insbesondere für Baumwolle und Mais. Der Mount Koulou ist ein wichtiges Wassereinzugsgebiet. Auf dem Gipfel gibt es Überreste einer alten Siedlung. Der Berg ist bei Wanderern beliebt, die die vielfältige Flora und Fauna erkunden möchten.",
+      hu: "A Koulou-hegy Mali délkeleti részén, Sikasso régióban található, magassága 754 méter. A Sikasso-fennsík része. Nedves szavanna borítja. A térség mezőgazdasági termeléséről ismert (gyapot, kukorica). A hegy vízgyűjtő terület. A csúcson ősi település maradványai. Túrázók kedvelik.",
+      ro: "Muntele Koulou are 754 m altitudine, situat în sud-estul Maliului, în regiunea Sikasso. Face parte din Podișul Sikasso. Acoperit de savană umedă. Regiunea este agricolă (bumbac, porumb). Muntele este un bazin hidrografic. Urme de așezări antice pe vârf. Trasee de drumeție.",
+      en: "Mount Koulou is a 754-meter peak in southeastern Mali, in the Sikasso region, part of the Sikasso Plateau. It is covered by moist savanna and gallery forests. The mountain is an important water catchment area for local streams. Agriculture in the region focuses on cotton and maize. The summit features archaeological remains of a pre-colonial settlement. Hiking is popular due to the rich birdlife.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 754 Meter.", "Der Berg liegt in der Region Sikasso.", "Teil des Sikasso-Plateaus.", "Jährliche Niederschlagsmenge: 1.100 mm.", "Der Berg ist von Feuchtsavanne bedeckt.", "Die nächstgelegene Stadt ist Sikasso, 20 km nördlich."],
+      hu: ["Magasság: 754 méter.", "Sikasso régióban található.", "A Sikasso-fennsík része.", "Évi csapadék: 1100 mm.", "Nedves szavanna borítja.", "Sikasso városától 20 km-re délre."],
+      ro: ["Altitudine: 754 m.", "Regiunea Sikasso.", "Parte a Podișului Sikasso.", "Precipitații anuale: 1.100 mm.", "Acoperit de savană umedă.", "Orașul Sikasso la 20 km nord."],
+      en: ["Elevation: 754 meters.", "Located in Sikasso region.", "Part of the Sikasso Plateau.", "Annual rainfall: 1,100 mm.", "Covered by moist savanna.", "Nearest city: Sikasso, 20 km north."],
+    },
+  },
   {
     id: "lake-tele-nature-v2",
     type: "lake",
     parent: "ML-MP",
     coords: [-4.5, 14.5],
-    name: { de: "Lac Télé", hu: "Télé-tó", ro: "Lacul Télé", en: "Lake Télé",
-image: "/poi-images/lake-tele-nature-v2.webp"
-},
+    name: { de: "Lac Télé", hu: "Télé-tó", ro: "Lacul Télé", en: "Lake Télé"},
+    image: "/poi-images/lake-tele-nature-v2.webp",
     description: { de: "Ein malerischer See in der Nähe der Stadt Mopti.", hu: "Egy festői tó Mopti városának közelében.", ro: "Un lac pitoresc în apropierea orașului Mopti.", en: "A picturesque lake near the city of Mopti." },
     facts: {
       de: ["In der Nähe von Mopti", "Landschaft"],
       hu: ["Mopti közelében", "Tájkép"],
       ro: ["Aproape de Mopti", "Peisaj"],
       en: ["Near Mopti", "Landscape"]
-    }, image: "/poi-images/lake-tele-nature-v2.webp"},
+    }, image: "/poi-images/lake-tele-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Télé ist ein See im zentralen Mali, in der Region Mopti. Er ist ein kleiner, permanenter See, der durch Grundwasser gespeist wird. Die maximale Fläche beträgt etwa 10 km². Der See ist von dichtem Schilf und Papyrus umgeben, die Nistplätze für Wasservögel bieten. In der Trockenzeit schrumpft die Wasserfläche, aber der See trocknet nie vollständig aus. Er wird von den lokalen Gemeinden für die Fischerei genutzt. Die Umgebung ist landwirtschaftlich geprägt, mit Anbau von Reis und Gemüse.",
+      hu: "A Tele-tó egy kisméretű, állandó tó Mali középső részén, Mopti régióban. Területe 10 km². Talajvíz táplálja. Sűrű nádas veszi körül. Vízi madarak fészkelnek itt. Halászatra használják. A környéken rizst és zöldséget termesztenek.",
+      ro: "Lacul Télé este un mic lac permanent în centrul Maliului, în regiunea Mopti. Suprafața: 10 km². Alimentat de ape subterane. Înconjurat de stuf. Pescuit. Agricultură (orez, legume) în zonă.",
+      en: "Lake Télé is a small permanent lake in central Mali's Mopti region. It covers about 10 km² and is fed by groundwater. The lake is surrounded by dense reed beds that host a variety of waterbirds, including herons and kingfishers. It supports a small-scale fishery. The surrounding area is used for rice and vegetable cultivation using irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 10 km².", "Der See ist permanent mit Wasser gefüllt.", "Die maximale Tiefe beträgt 3 Meter.", "Der See wird durch Grundwasser gespeist.", "Die nächstgelegene Stadt ist Mopti, 40 km entfernt.", "Die Ufervegetation besteht aus Schilf und Papyrus."],
+      hu: ["Terület: 10 km².", "Állandó tó.", "Maximális mélység: 3 méter.", "Talajvíz táplálja.", "Mopti városától 40 km-re található.", "Nádas és papirusz szegélyezi."],
+      ro: ["Suprafață: 10 km².", "Lac permanent.", "Adâncime maximă: 3 m.", "Alimentat de ape subterane.", "Mopti la 40 km distanță.", "Vegetație de stuf și papirus."],
+      en: ["Area: 10 km².", "Permanent lake.", "Maximum depth: 3 meters.", "Fed by groundwater.", "Near Mopti, 40 km away.", "Reed and papyrus vegetation."],
+    },
+  },
   {
     id: "bago-river-nature-v2",
     type: "river",
     parent: "ML-SK",
     coords: [-5.5, 12.0],
-    name: { de: "Bago", hu: "Bago", ro: "Bago", en: "Bago",
-image: "/poi-images/bago-river-nature-v2.webp"
-},
+    name: { de: "Bago", hu: "Bago", ro: "Bago", en: "Bago"},
+    image: "/poi-images/bago-river-nature-v2.webp",
     description: { de: "Ein kleinerer Flusslauf im fruchtbaren Süden Malis.", hu: "Egy kisebb folyóvíz Mali termékeny déli részén.", ro: "Un curs de apă mai mic în sudul fertil al Maliului.", en: "A smaller watercourse in the fertile south of Mali." },
     facts: {
       de: ["Fruchtbarer Süden", "Fluss"],
       hu: ["Termékeny Dél", "Folyó"],
       ro: ["Sudul fertil", "Râu"],
       en: ["Fertile south", "River"]
-    }, image: "/poi-images/bago-river-nature-v2.webp"},
+    }, image: "/poi-images/bago-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bago ist ein Fluss im Westen Malis, in der Region Kayes. Er ist ein Nebenfluss des Senegal und hat eine Länge von etwa 200 Kilometern. Der Fluss verläuft durch die Trockensavanne und ist stark saisonal geprägt. In der Regenzeit kann er über die Ufer treten und Überschwemmungen verursachen. Das Tal ist landwirtschaftlich genutzt, vor allem für den Anbau von Hirse und Erdnüssen. Die Ufer sind von Galeriewäldern gesäumt, die Lebensraum für verschiedene Tierarten bieten, darunter Affen und Warzenschweine.",
+      hu: "A Bago folyó Mali nyugati részén, Kayes régióban folyik, hossza 200 km. A Szenegál mellékfolyója. Szezonális vízjárású. Mezőgazdasági területek a völgyben. Galériaerdők. Állatvilág: majmok, varacskos disznók.",
+      ro: "Râul Bago are 200 km lungime, în vestul Maliului, regiunea Kayes. Afluent al Senegalului. Regim sezonier. Agricultură în vale. Păduri-galerie. Faună: maimuțe, porci mistreți.",
+      en: "The Bago River is a 200 km long tributary of the Senegal River in western Mali's Kayes region. It flows through Sudanian savanna and has a highly seasonal regime. The river supports gallery forests and agriculture. Local farmers grow millet and peanuts. Wildlife includes warthogs and green monkeys. The river is also used for fishing during the wet season.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 200 Kilometer.", "Der Bago ist ein Nebenfluss des Senegal.", "Das Einzugsgebiet umfasst etwa 8.000 km².", "Der maximale Abfluss beträgt 80 m³/s.", "Der Fluss fließt durch die Region Kayes.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 650 mm."],
+      hu: ["Hossz: 200 km.", "A Szenegál mellékfolyója.", "Vízgyűjtő terület: 8000 km².", "Maximális vízhozam: 80 m³/s.", "Kayes régióban folyik.", "Éves csapadék: 650 mm."],
+      ro: ["Lungime: 200 km.", "Afluent al Senegalului.", "Bazin hidrografic: 8.000 km².", "Debit maxim: 80 m³/s.", "Regiunea Kayes.", "Precipitații anuale: 650 mm."],
+      en: ["Length: 200 km.", "Tributary of the Senegal River.", "Drainage basin: 8,000 km².", "Peak discharge: 80 m³/s.", "Flows through Kayes region.", "Annual rainfall: 650 mm."],
+    },
+  },
   {
     id: "mount-gourma-nature-v2",
     type: "mountain",
     parent: "ML-GA",
     coords: [0.5, 16.0],
-    name: { de: "Mont Gourma", hu: "Gourma-hegy", ro: "Muntele Gourma", en: "Mount Gourma",
-image: "/poi-images/mount-gourma-nature-v2.webp"
-},
+    name: { de: "Mont Gourma", hu: "Gourma-hegy", ro: "Muntele Gourma", en: "Mount Gourma"},
+    image: "/poi-images/mount-gourma-nature-v2.webp",
     description: { de: "Ein Bergmassiv in der Gourma-Region.", hu: "Egy hegyvonulat a Gourma régióban.", ro: "Un masiv muntos în regiunea Gourma.", en: "A mountain massif in the Gourma region." },
     facts: {
       de: ["Region Gourma", "Bergmassiv"],
       hu: ["Gourma régió", "Hegyvonulat"],
       ro: ["Regiunea Gourma", "Masiv muntos"],
       en: ["Gourma region", "Mountain massif"]
-    }, image: "/poi-images/mount-gourma-nature-v2.webp"},
+    }, image: "/poi-images/mount-gourma-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Gourma ist ein Berg in der Region Mopti im zentralen Mali. Er erreicht eine Höhe von 892 Metern und ist Teil der Gourma-Bergkette. Der Berg liegt in der Sahelzone mit spärlicher Vegetation. Die Umgebung ist von felsigen Hängen und Tälern geprägt. Der Mount Gourma ist ein heiliger Ort für die Dogon-Bevölkerung, die in den umliegenden Dörfern lebt. Der Berg dient als natürliche Festung und war historisch ein Rückzugsort. Besteigungen sind möglich, aber aufgrund der steilen Hänge anspruchsvoll.",
+      hu: "A Gourma-hegy Mali középső részén, Mopti régióban található, magassága 892 méter. A Gourma-hegység része. Száheli öv, ritka növényzet. Sziklás lejtők. A dogonok szent helye. Természetes erőd. Túrázás lehetséges.",
+      ro: "Muntele Gourma are 892 m altitudine, în centrul Maliului, regiunea Mopti. Parte a Masivului Gourma. Zonă saheliană. Stâncării. Loc sacru pentru dogoni. Fortăreață naturală. Trasee dificile.",
+      en: "Mount Gourma is an 892-meter peak in central Mali, part of the Gourma mountain range in Mopti region. It lies in the Sahel zone with rocky terrain and sparse vegetation. The mountain is sacred to the Dogon people, who perform rituals here. It served as a natural fortress during conflicts. Hiking is possible but requires caution due to steep slopes. The area is known for its unique rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 892 Meter.", "Der Berg liegt in der Region Mopti.", "Teil der Gourma-Bergkette.", "Die Umgebung erhält etwa 400 mm Niederschlag pro Jahr.", "Der Berg besteht hauptsächlich aus Sandstein.", "Die nächstgelegene Stadt ist Bandiagara, 30 km südwestlich."],
+      hu: ["Magasság: 892 méter.", "Mopti régióban található.", "A Gourma-hegység része.", "Évi 400 mm csapadék.", "Homokkőből áll.", "Bandiagara városától 30 km-re északkeletre."],
+      ro: ["Altitudine: 892 m.", "Regiunea Mopti.", "Parte a Masivului Gourma.", "Precipitații anuale: 400 mm.", "Compus din gresie.", "Bandiagara la 30 km sud-vest."],
+      en: ["Elevation: 892 meters.", "Located in Mopti region.", "Part of the Gourma mountain range.", "Annual rainfall: 400 mm.", "Composed of sandstone.", "Nearest town: Bandiagara, 30 km southwest."],
+    },
+  },
   {
     id: "lake-korientze-nature-v2",
     type: "lake",
     parent: "ML-MP",
     coords: [-3.8, 15.1],
-    name: { de: "Lac Korientzé", hu: "Korientzé-tó", ro: "Lacul Korientzé", en: "Lake Korientzé",
-image: "/poi-images/lake-korientze-nature-v2.webp"
-},
+    name: { de: "Lac Korientzé", hu: "Korientzé-tó", ro: "Lacul Korientzé", en: "Lake Korientzé"},
+    image: "/poi-images/lake-korientze-nature-v2.webp",
     description: { de: "Ein jahreszeitlich bedingter See in der Zentralregion von Mali.", hu: "Egy évszakfüggő tó Mali középső régiójában.", ro: "Un lac sezonier în regiunea centrală a Maliului.", en: "A seasonal lake in the central region of Mali." },
     facts: {
       de: ["Zentral-Mali", "Saisonal"],
       hu: ["Közép-Mali", "Szezonális"],
       ro: ["Mali central", "Sezonier"],
       en: ["Central Mali", "Seasonal"]
-    }, image: "/poi-images/lake-korientze-nature-v2.webp"},
+    }, image: "/poi-images/lake-korientze-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Korientzé-See ist ein abflussloser See in der Sahelzone Westafrikas, dessen Wasserstand saisonal stark schwankt. Während der Regenzeit von Juni bis September kann die Fläche auf bis zu 450 km² anwachsen, während sie in der Trockenzeit auf etwa 120 km² schrumpft. Der See wird hauptsächlich durch den Fluss Korientzé gespeist, der aus dem Hochland von Guinea kommt. Die Ufer sind von dichten Schilfgürteln und Akazienwäldern gesäumt, die einer Vielzahl von Wasservögeln Lebensraum bieten. Die Fischfauna umfasst vor allem Tilapia- und Welsarten. In der Trockenzeit wird der See zum Zentrum der Viehzucht, da die umliegenden Weideflächen dann grün sind. Die lokale Bevölkerung betreibt traditionelle Fischerei mit Pirogues. Die Wassertrübung ist aufgrund des hohen Sedimenteintrags ganzjährig hoch. Der See ist außerdem ein wichtiger Rastplatz für Zugvögel aus Europa.",
+      hu: "A Korientzé-tó a Száhel-övezetben, Mali délnyugati részén található. A tó kialakulása a tektonikus mozgásokhoz és a folyóvízi üledéklerakódáshoz köthető. A helyi legendák szerint a tó egy hatalmas kígyó otthona, amely a vizek istenének számít. A tó partján élő bambara törzsek évente áldozati szertartásokat tartanak a tó szellemének. A tó vizét gyógyító erővel ruházzák fel, és számos betegség kezelésére használják. A tó körüli erdőkben élő állatok közé tartozik a víziló és a krokodil. A tóban található halfajok közül a legismertebb a nilusi sügér. A tó partján fekvő falvakban a halászat mellett mezőgazdasággal is foglalkoznak. A tó vízszintje az évszakoktól függően változik.",
+      ro: "Lacul Korientzé este situat în sud-vestul Maliului, în zona Sahelului. Geologic, lacul s-a format prin acumularea apei într-o depresiune creată de mișcări tectonice și eroziunea diferențială. Afluentul principal este râul Korientzé, care aduce sedimente bogate în minerale. În jurul lacului se găsesc soluri feruginoase, favorabile agriculturii. Lacul are o adâncime maximă de 8 metri, dar în sezonul secetos poate scădea la 2 metri. Flora acvatică este dominată de papirus și nuferi. Pe maluri cresc copaci de baobab și acacia. Lacul este o sursă importantă de apă pentru irigații, în special pentru culturile de orez și mei. În ultimii ani, nivelul apei a scăzut din cauza schimbărilor climatice și a extragerii excesive.",
+      en: "Lake Korientzé is a shallow, endorheic lake located in the Sahel region of West Africa, primarily within Mali. It plays a crucial economic role for surrounding communities, supporting fisheries that yield approximately 2,000 tons of fish annually. The lake's waters are used for irrigation of staple crops like millet and sorghum during the dry season. Tourism is minimal but growing, with birdwatching attracting a few hundred visitors each year. The lake also serves as a water source for livestock, with an estimated 50,000 cattle and goats watering here during the dry months. However, overfishing and climate change pose threats to its sustainability. Local cooperatives have implemented fish stocking programs to maintain yields. The lake's economic value is estimated at over $2 million per year for the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Seefläche in der Regenzeit: 450 km²", "Minimale Seefläche in der Trockenzeit: 120 km²", "Durchschnittliche Tiefe: 4,5 Meter", "Höhe über dem Meeresspiegel: 280 Meter", "Jährlicher Niederschlag im Einzugsgebiet: 500–700 mm", "Geschätzte Fischproduktion: 2.000 Tonnen pro Jahr"],
+      hu: ["A tó területe: 150-450 km²", "Maximális mélység: 8 méter", "A tó partján élő vízilovak száma: kb. 200", "Éves csapadékmennyiség: 600 mm", "A tó korának becsült értéke: 10 000 év", "Halfajok száma: 34"],
+      ro: ["Suprafața lacului: 120-450 km²", "Adâncimea maximă: 8 m", "Debitul mediu al râului Korientzé: 15 m³/s", "Temperatura medie a apei: 24°C", "pH-ul apei: 7,2", "Concentrația de sedimente: 250 mg/L"],
+      en: ["Annual fish catch: 2,000 tons", "Number of cattle using lake: 50,000", "Economic value of fisheries: $1.2 million per year", "Irrigated area around lake: 5,000 hectares", "Tourist visitors per year: 500", "Bird species recorded: 180"],
+    },
+  },
   {
     id: "mount-bam-nature-v2",
     type: "mountain",
     parent: "ML-BM",
     coords: [-3.2, 16.0],
-    name: { de: "Mont Bam", hu: "Bam-hegy", ro: "Muntele Bam", en: "Mount Bam",
-image: "/poi-images/mount-bam-nature-v2.webp"
-},
+    name: { de: "Mont Bam", hu: "Bam-hegy", ro: "Muntele Bam", en: "Mount Bam"},
+    image: "/poi-images/mount-bam-nature-v2.webp",
     description: { de: "Ein sanftes Hügelrelief in der Region Bam.", hu: "Egy szelíd dombvidék Bam régióban.", ro: "Un relief deluros blând în regiunea Bam.", en: "A gentle hill relief in the Bam region." },
     facts: {
       de: ["Region Bam", "Hügelland"],
       hu: ["Bam régió", "Dombság"],
       ro: ["Regiunea Bam", "Regiune deluroasă"],
       en: ["Bam region", "Hill country"]
-    }, image: "/poi-images/mount-bam-nature-v2.webp"},
+    }, image: "/poi-images/mount-bam-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Bam ist ein erloschener Vulkan in Zentralafrika, der sich etwa 1.200 Meter über die umliegende Savanne erhebt. Seine steilen Hänge sind von dichten Regenwäldern bedeckt, die eine artenreiche Flora und Fauna beherbergen. Der Gipfel ist oft in Wolken gehüllt, was zu einem feuchten Mikroklima führt. Vulkanische Aktivität vor etwa 10 Millionen Jahren formte den Berg, dessen Krater heute einen kleinen Kratersee enthält. Der Berg ist heilig für die lokalen Bantu-Stämme, die dort Zeremonien abhalten. Auf den unteren Hängen wird Landwirtschaft betrieben, vor allem Kaffee und Kakao. Der Mount Bam ist auch ein beliebtes Ziel für Ökotourismus, mit Wanderwegen, die durch den Nebelwald führen.",
+      hu: "A Mount Bam egy kialudt vulkán, amely Kamerunban található. A hegy különleges geológiai képződmény, mivel bazaltos lávából áll. A hegy lábánál fekvő falvakban élő népek a hegyet szent helyként tisztelik, és úgy vélik, hogy a szellemek itt lakoznak. Évente zarándoklatot szerveznek a csúcsra, ahol áldozatokat mutatnak be. A hegy lejtőin kávéültetvények találhatók, amelyek a helyi gazdaság gerincét képezik. A hegyen élő állatok közé tartozik a gorilla és a csimpánz. Az erdős területek otthont adnak számos madárfajnak is. A hegycsúcsról lenyűgöző kilátás nyílik a környező síkságra.",
+      ro: "Muntele Bam este un vulcan stins situat în regiunea Adamawa din Camerun. Altitudinea sa maximă este de 1.200 de metri. Muntele face parte dintr-un lanț vulcanic mai vechi, care a început să se formeze acum 10 milioane de ani. Solurile vulcanice sunt foarte fertile, permițând cultivarea cafelei, cacaoului și a altor culturi tropicale. Pădurile de pe versanți sunt păduri tropicale umede, cu o biodiversitate ridicată. Muntele este o arie protejată, în cadrul căreia trăiesc elefanți, bivoli și antilope. Clima este tropicală, cu precipitații abundente de peste 1.500 mm anual.",
+      en: "Mount Bam is an extinct volcano in Cameroon, part of the Cameroon Volcanic Line. Eroded over millions of years, its current elevation is about 1,200 m. The mountain is a biodiversity hotspot, with over 500 plant species recorded, including several endemic orchids. It also hosts populations of chimpanzees and drills. The crater lake at the summit measures approximately 200 m in diameter. Tourism is developing, with hiking trails established by local communities. The mountain's forests play a crucial role in carbon sequestration, storing an estimated 2 million tons of carbon. Scientific research focuses on its unique volcanic soils and their agricultural potential.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.200 Meter", "Alter: 10 Millionen Jahre", "Durchmesser des Kratersees: 200 Meter", "Jahresniederschlag: über 1.500 mm", "Anzahl der Pflanzenarten: über 500", "Kohlenstoffspeicher: 2 Millionen Tonnen"],
+      hu: ["Magasság: 1200 m", "Kráter tó átmérője: 200 m", "A hegyen élő gorillák száma: kb. 50", "Éves csapadékmennyiség: 1500 mm", "Kávéültetvények területe: 500 hektár", "Zarándokok száma évente: 3000"],
+      ro: ["Altitudine: 1.200 m", "Vârstă: 10 milioane de ani", "Diametrul lacului crater: 200 m", "Suprafața pădurii: 10.000 ha", "Număr de specii de păsări: 200", "Precipitații anuale: 1.500 mm"],
+      en: ["Elevation: 1,200 m", "Orchid species recorded: 50", "Chimpanzee population: 300", "Carbon storage: 2 million tons", "Hiking trails length: 20 km", "Annual tourists: 2,000"],
+    },
+  },
   {
     id: "san-river-nature-v2",
     type: "river",
     parent: "ML-SG",
     coords: [-4.9, 13.3],
-    name: { de: "San", hu: "San", ro: "San", en: "San",
-image: "/poi-images/san-river-nature-v2.webp"
-},
+    name: { de: "San", hu: "San", ro: "San", en: "San"},
+    image: "/poi-images/san-river-nature-v2.webp",
     description: { de: "Ein lokaler Flusslauf in der Region Ségou.", hu: "Egy helyi folyóvíz Ségou régióban.", ro: "Un curs de apă local în regiunea Ségou.", en: "A local watercourse in the Ségou region." },
     facts: {
       de: ["Region Ségou", "Fluss"],
       hu: ["Ségou régió", "Folyó"],
       ro: ["Regiunea Ségou", "Râu"],
       en: ["Ségou region", "River"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der San ist ein 1.100 Kilometer langer Fluss in Südosteuropa, der durch Polen, die Ukraine und die Slowakei fließt. Er entspringt in den Waldkarpaten und mündet in die Weichsel. Der Fluss ist bekannt für seine reiche Auenlandschaft und zahlreichen Altarme. Der San wird häufig für Kanutouren und Rafting genutzt, insbesondere im oberen Lauf. Die Wasserqualität ist gut, da der Fluss durch dünn besiedelte Gebiete fließt. In den Auenwäldern leben Biber, Fischotter und zahlreiche Vogelarten. Der Fluss spielte historisch eine Rolle als Grenzfluss zwischen verschiedenen Reichen. Heute ist er ein wichtiges Naherholungsgebiet für die Anwohner.",
+      hu: "A San folyó Lengyelország és Ukrajna határfolyója, hossza 443 km. A folyó a Kárpátokban ered és a Visztulába ömlik. Nevének eredete a kelta 'san' szóra vezethető vissza, ami 'nagy folyót' jelent. A folyó mentén számos középkori vár és kastély található. A San híres a lazacfélékről, amelyek ívási helyéül szolgál. A folyó alsó szakaszán hajózható is. A környező erdőkben vaddisznók és őzek élnek. A folyó vize tiszta, mivel kevés ipari szennyezés éri. A San partján népszerű a kerékpározás és a túrázás.",
+      ro: "Râul San este un afluent al Vistulei, cu o lungime totală de 443 km, din care 378 km în Polonia. Izvorăște din Munții Carpați, la o altitudine de 900 m. Bazinul hidrografic acoperă 16.861 km². Debitul mediu la vărsare este de 127 m³/s. Râul traversează păduri dese și zone umede, fiind un habitat important pentru castori și vidre. În trecut, Sanul a fost folosit pentru transportul lemnului. Astăzi, este o destinație populară pentru pescuitul sportiv, în special pentru păstrăv și somon. Calitatea apei este monitorizată regulat.",
+      en: "The San River is a major tributary of the Vistula, flowing through southeastern Poland and western Ukraine. Its length is 443 km. The river is famous for its rafting and kayaking opportunities, with rapids reaching Class III in the upper course. The San Valley is a protected area under Natura 2000, harboring rare species such as the European pond turtle and the white-tailed eagle. The river's average width is 40-60 m. It has a significant hydroelectric potential, with several small dams constructed. Historically, the San marked the border between Austria and Russia in the 19th century. Today it supports local tourism and fishing.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 443 km", "Einzugsgebiet: 16.861 km²", "Mittlerer Abfluss: 127 m³/s", "Breite: 40-60 Meter", "Gefälle: 0,5‰", "Wassertemperatur im Sommer: 18–22 °C"],
+      hu: ["Hosszúság: 443 km", "Vízgyűjtő terület: 16 861 km²", "Átlagos vízhozam: 127 m³/s", "A folyó mentén található várak száma: 15", "Halfajok száma: 42", "Éves csapadékmennyiség a vízgyűjtőben: 800 mm"],
+      ro: ["Lungime: 443 km", "Bazin hidrografic: 16.861 km²", "Debit mediu: 127 m³/s", "Altitudine la izvor: 900 m", "Lățime medie: 50 m", "Temperatura apei vara: 19°C"],
+      en: ["Length: 443 km", "Catchment area: 16,861 km²", "Average discharge: 127 m³/s", "Rapids class: III", "Natura 2000 sites along river: 5", "Fish species: 40"],
+    },
   },
   {
     id: "lake-doro-nature-v2",
     type: "lake",
     parent: "ML-DD",
     coords: [-1.2, 14.8],
-    name: { de: "Lac Doro", hu: "Doro-tó", ro: "Lacul Doro", en: "Lake Doro",
-image: "/poi-images/lake-doro-nature-v2.webp"
-},
+    name: { de: "Lac Doro", hu: "Doro-tó", ro: "Lacul Doro", en: "Lake Doro"},
+    image: "/poi-images/lake-doro-nature-v2.webp",
     description: { de: "Ein kleiner See nahe der Dogon-Region.", hu: "Egy kis tó a Dogon régió közelében.", ro: "Un mic lac în apropierea regiunii Dogon.", en: "A small lake near the Dogon region." },
     facts: {
       de: ["Dogon-Region", "See"],
       hu: ["Dogon régió", "Tó"],
       ro: ["Regiunea Dogon", "Lac"],
       en: ["Dogon region", "Lake"]
-    }, image: "/poi-images/lake-doro-nature-v2.webp"},
+    }, image: "/poi-images/lake-doro-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Doro-See ist ein endorheischer Salzsee im Norden Malis, nahe der algerischen Grenze. Er liegt im Zentrum der Sahara und hat eine variable Fläche, die in seltenen Regenjahren bis zu 30 km² erreicht. Der See ist stark salzhaltig mit einem Salzgehalt von über 200 g/l. In der Trockenzeit trocknet er fast vollständig aus, sodass weiße Salzkrusten zurückbleiben. Diese Krusten werden von Nomaden abgebaut und als Viehsalz oder zur Konservierung genutzt. Der See ist ein wichtiger Rastplatz für Zugvögel wie Flamingos. Die Umgebung ist extrem trocken mit weniger als 50 mm Jahresniederschlag. Der Doro-See ist auch ein geologisches Fenster, in dem tertiäre Sedimente zutage treten.",
+      hu: "A Doro-tó egy sós tó Mali északi részén, a Szahara szívében. A tó területe az időjárástól függően változik, maximum 30 km². A víz sótartalma rendkívül magas, eléri a 200 g/l-t. A helyi tuareg nomádok sót bányásznak a kiszáradt tómederből. A sót tevéknek adják, és élelmiszerek tartósítására használják. A tó környékén alig él növényzet, csak néhány sókedvelő növény, mint a sziksófű. A tó fontos pihenőhely a vándormadarak számára, különösen a flamingók kedvelik. A tó geológiai jelentősége abban rejlik, hogy itt felszínre bukkannak a harmadidőszaki rétegek. A tó vize ibolyaszínű a magas sótartalom miatt.",
+      ro: "Lacul Doro este un lac sărat endoreic situat în nordul Maliului, în deșertul Sahara. Suprafața sa variază între 0 și 30 km², în funcție de precipitații. Salinitatea apei depășește 200 g/L, ceea ce îl face unul dintre cele mai sărate lacuri din lume. În perioadele secetoase, lacul se evaporă complet, lăsând în urmă cruste de sare. Exploatarea sării este o activitate economică importantă pentru populația nomadă locală. Lacul este alimentat de apele freatice și de precipitații rare. Temperaturile din zonă pot depăși 50°C vara. Lacul Doro este un habitat important pentru artemia și pentru păsări migratoare.",
+      en: "Lake Doro is a hypersaline lake in the Sahara Desert of northern Mali. It has a maximum surface area of about 30 km². The lake water has a salinity of over 200 g/L, making it one of the saltiest bodies of water on Earth. Salt mining is a traditional industry; Tuareg nomads extract high-quality salt for trade. The lake is ephemeral, often dry for years at a time. When filled, it attracts flamingos and other waterbirds. The area experiences extreme temperatures, with summer highs exceeding 50°C. Annual rainfall is less than 50 mm. The lake's basin contains important geological records of the Quaternary period.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Fläche: 30 km²", "Salzgehalt: über 200 g/l", "Jahresniederschlag: unter 50 mm", "Höchste gemessene Temperatur: 55 °C", "Höhe über dem Meeresspiegel: 280 Meter", "Geschätzte jährliche Salzproduktion: 500 Tonnen"],
+      hu: ["Maximális terület: 30 km²", "Sótartalom: 200 g/l", "Évi csapadék: kevesebb, mint 50 mm", "A tó kiszáradásának gyakorisága: 10 évente", "A sóréteg vastagsága: 1-2 méter", "Flamingók száma a tónál: akár 10 000"],
+      ro: ["Suprafața maximă: 30 km²", "Salinitate: peste 200 g/L", "Precipitații anuale: <50 mm", "Temperatura maximă înregistrată: 55°C", "Adâncime maximă: 1 m", "Producție anuală de sare: 500 de tone"],
+      en: ["Maximum area: 30 km²", "Salinity: >200 g/L", "Annual rainfall: <50 mm", "Highest temperature: 55°C", "Salt crust thickness: 2 m", "Number of flamingos recorded: 15,000"],
+    },
+  },
   {
     id: "mount-dogon-nature-v2",
     type: "mountain",
     parent: "ML-DD",
     coords: [-1.5, 14.5],
-    name: { de: "Mont Dogon", hu: "Dogon-hegy", ro: "Muntele Dogon", en: "Mount Dogon",
-image: "/poi-images/mount-dogon-nature-v2.webp"
-},
+    name: { de: "Mont Dogon", hu: "Dogon-hegy", ro: "Muntele Dogon", en: "Mount Dogon"},
+    image: "/poi-images/mount-dogon-nature-v2.webp",
     description: { de: "Teil des spektakulären Bandiagara-Steilhangs, der das Dogon-Land überragt.", hu: "A látványos Bandiagara-sziklafal része, amely a Dogon-föld fölé magasodik.", ro: "Parte a spectaculosului versant Bandiagara care domină Țara Dogon.", en: "Part of the spectacular Bandiagara Escarpment that overlooks Dogon Country." },
     facts: {
       de: ["Bandiagara-Steilhang", "Weltkulturerbe"],
       hu: ["Bandiagara-sziklafal", "Világörökség"],
       ro: ["Versantul Bandiagara", "Patrimoniu Mondial"],
       en: ["Bandiagara Escarpment", "World Heritage site"]
-    }, image: "/poi-images/mount-dogon-nature-v2.webp"},
+    }, image: "/poi-images/mount-dogon-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Dogon ist ein markanter Berg im zentralen Mali, der sich etwa 800 Meter über die umliegende Ebene erhebt. Er ist Teil des Bandiagara-Felsmassivs, das für seine einzigartigen Trockenmauerarchitekturen bekannt ist. Der Berg wird von den Dogon bewohnt, die in terrassierten Dörfern an den Hängen leben. Die Dogon sind für ihre Astronomie und Mythologie berühmt. Der Berg besteht aus Sandstein und weist zahlreiche Höhlen auf, die als Begräbnisstätten genutzt werden. Die Vegetation ist typisch für die Sahelzone mit Trockenwäldern und Dornbuschsavanne. Der Mount Dogon ist auch ein UNESCO-Weltkulturerbe.",
+      hu: "A Mount Dogon egy sziklahegy Maliban, a Dogon-fennsík része. A hegy déli lejtőjénél találhatók a dogonok jellegzetes agyagházai. A dogon népcsoport a hegyet szent helynek tartja, ahol az ősök szellemei lakoznak. A hegyen számos sziklamenedék található, amelyeket temetkezési célokra használnak. A hegyet körülvevő terület száraz, de a hegy lejtőin források törnek fel, amelyek lehetővé teszik a mezőgazdaságot. A dogonok híresek a csillagászat iránti tudásukról, a hegycsúcsról megfigyeléseket végeztek. A Mount Dogon népszerű túracélpont.",
+      ro: "Muntele Dogon face parte din Podișul Bandiagara din Mali, o zonă clasificată ca patrimoniu UNESCO. Altitudinea sa este de aproximativ 800 m. Muntele este format din gresii și conglomerate. Pe versanți există sate dogone construite în stil tradițional, cu case din chirpici. Dogonii sunt renumiți pentru cultura lor bogată și cunoștințele astronomice. Muntele are o importanță spirituală deosebită, aici găsindu-se altare și locuri de închinare. Economia locală se bazează pe agricultură (mei, ceapă) și turism. Anual, aproximativ 20.000 de turiști vizitează zona.",
+      en: "Mount Dogon is the highest point of the Bandiagara Escarpment in Mali, reaching an elevation of about 800 m. The escarpment stretches for 150 km. The Dogon people have inhabited this area for centuries, building villages on the cliffside. Their unique architecture, including the famous toguna (meeting houses), attracts tourists. The cliff face contains numerous caves used for burial. Mount Dogon receives about 400 mm of rainfall annually. The area is known for its mask dances and festivals. Dogon cosmology includes a detailed knowledge of the Sirius star system. The site was designated a UNESCO World Heritage Site in 1989.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 800 Meter", "Länge des Steilhangs: 150 km", "Jahresniederschlag: 400 mm", "Anzahl der Touristen pro Jahr: 20.000", "UNESCO-Status seit: 1989", "Bevölkerungsdichte: 20 Einwohner pro km²"],
+      hu: ["Magasság: 800 m", "A sziklafal hossza: 150 km", "Éves csapadékmennyiség: 400 mm", "Dogon falvak száma: 200", "A temetkezőbarlangok száma: 700", "Átlagos éves turistaszám: 20 000"],
+      ro: ["Altitudine: 800 m", "Lungimea escarpei: 150 km", "Precipitații anuale: 400 mm", "Număr de sate dogone: 200", "Vizitatori pe an: 20.000", "Anul desemnării UNESCO: 1989"],
+      en: ["Maximum elevation: 800 m", "Escarpment length: 150 km", "Annual rainfall: 400 mm", "Dogon villages: 200", "Caves along cliff: 700", "UNESCO designation year: 1989"],
+    },
+  },
   {
     id: "kourou-river-nature-v2",
     type: "river",
     parent: "ML-SK",
     coords: [-6.2, 11.0],
-    name: { de: "Kourou", hu: "Kourou", ro: "Kourou", en: "Kourou",
-image: "/poi-images/kourou-river-nature-v2.webp"
-},
+    name: { de: "Kourou", hu: "Kourou", ro: "Kourou", en: "Kourou"},
+    image: "/poi-images/kourou-river-nature-v2.webp",
     description: { de: "Ein Fluss im Süden von Mali, der bewässerte Gebiete durchfließt.", hu: "Egy folyó Mali déli részén, amely öntözött területeken halad át.", ro: "Un râu în sudul Maliului care traversează zone irigate.", en: "A river in the south of Mali that flows through irrigated areas." },
     facts: {
       de: ["Süd-Mali", "Bewässerung"],
       hu: ["Dél-Mali", "Öntözés"],
       ro: ["Sudul Maliului", "Irigare"],
       en: ["South Mali", "Irrigation"]
-    }, image: "/poi-images/kourou-river-nature-v2.webp"},
+    }, image: "/poi-images/kourou-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kourou ist ein Fluss in Westafrika, der durch Guinea und die Elfenbeinküste fließt. Er ist etwa 650 km lang und entspringt im Hochland von Guinea. Der Fluss mündet in den Atlantischen Ozean. Der Kourou ist bekannt für seine Wasserfälle, insbesondere die Kourou-Fälle. Der Fluss wird für die Bewässerung von Reisfeldern genutzt. In seinem Einzugsgebiet liegen mehrere Nationalparks. Der Kourou beherbergt eine reiche Fischfauna, darunter den Nilbarsch. Die Ufer sind dicht bewaldet mit tropischen Regenwäldern. Der Fluss ist auch eine wichtige Transportroute für Holz und landwirtschaftliche Produkte.",
+      hu: "A Kourou folyó Elefántcsontpart egyik fontos folyója, hossza 650 km. A folyó a Nimba-hegységben ered. Vízgyűjtő területe 28 000 km². A folyó alsó szakaszán hajózható. A Kourou partján található a híres Tai Nemzeti Park, amely az utolsó maradvány erdők egyike. A folyóban él a törpe víziló, ami veszélyeztetett faj. A folyó vize tiszta, de az aranybányászat szennyezéssel fenyeget. A helyi lakosság halászatból és mezőgazdaságból él. A Kouru folyó mentén kakaó- és kávéültetvények találhatók.",
+      ro: "Râul Kourou are o lungime de 650 km și izvorăște din Munții Nimba din Guineea. Traversează apoi Coasta de Fildeș, vărsându-se în Oceanul Atlantic. Bazinul său hidrografic acoperă 28.000 km². Debitul mediu este de 200 m³/s. Râul formează granița naturală între parcurile naționale Tai și Comoé. Pe malurile sale trăiesc hipopotami pigmei și cimpanzei. Pădurile tropicale de-a lungul râului sunt printre cele mai biodiversate din Africa. Râul este important pentru comunitățile locale, oferind apă și hrană.",
+      en: "The Kourou River is a major waterway in Ivory Coast, flowing 650 km from the Nimba Mountains to the Atlantic. It drains an area of 28,000 km². The river is vital for agriculture, irrigating cocoa and coffee plantations. The Taï National Park, a UNESCO World Heritage Site, lies along its banks. The Kourou supports diverse wildlife, including pygmy hippos and several primate species. Annual floods deposit fertile silt. The river's hydroelectric potential is tapped by a small dam near its mouth. Fishing provides livelihoods for thousands of inhabitants. However, deforestation and mining threaten the ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 650 km", "Einzugsgebiet: 28.000 km²", "Mittlerer Abfluss: 200 m³/s", "Staumauer: 1 kleine Talsperre", "Anzahl der Fischarten: 150", "Anteil des Einzugsgebiets an Schutzgebieten: 30%"],
+      hu: ["Hosszúság: 650 km", "Vízgyűjtő terület: 28 000 km²", "Átlagos vízhozam: 200 m³/s", "Tai Nemzeti Park területe: 5400 km²", "A folyóban élő halfajok száma: 120", "Kávéültetvények száma a part mentén: 500"],
+      ro: ["Lungime: 650 km", "Bazin hidrografic: 28.000 km²", "Debit mediu: 200 m³/s", "Suprafața Parcului Național Tai: 5.400 km²", "Număr de specii de pești: 150", "Aportul de sedimente: 2 milioane de tone/an"],
+      en: ["Length: 650 km", "Basin area: 28,000 km²", "Average flow: 200 m³/s", "Taï National Park area: 5,400 km²", "Fish species: 150", "Rainfall in basin: 1,800 mm/year"],
+    },
+  },
   {
     id: "lake-aougoundou-nature-v2",
     type: "lake",
     parent: "ML-TB",
     coords: [-4.0, 16.5],
-    name: { de: "Lac Aougoundou", hu: "Aougoundou-tó", ro: "Lacul Aougoundou", en: "Lake Aougoundou",
-image: "/poi-images/lake-aougoundou-nature-v2.webp"
-},
+    name: { de: "Lac Aougoundou", hu: "Aougoundou-tó", ro: "Lacul Aougoundou", en: "Lake Aougoundou"},
+    image: "/poi-images/lake-aougoundou-nature-v2.webp",
     description: { de: "Ein saisonales Gewässer in der Nähe von Timbuktu.", hu: "Egy szezonális vízfelület Timbuktu közelében.", ro: "Un bazin acvatic sezonier în apropiere de Timbuktu.", en: "A seasonal body of water near Timbuktu." },
     facts: {
       de: ["Bei Timbuktu", "Saisonal"],
       hu: ["Timbuktu közelében", "Szezonális"],
       ro: ["Lângă Timbuktu", "Sezonier"],
       en: ["Near Timbuktu", "Seasonal"]
-    }, image: "/poi-images/lake-aougoundou-nature-v2.webp"},
+    }, image: "/poi-images/lake-aougoundou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aougoundou-See ist ein See im zentralen Mali, etwa 200 km nordöstlich von Bamako. Er liegt in einer flachen Senke und wird saisonal von mehreren kleinen Flüssen gespeist. Der See ist für seine Vogelvielfalt bekannt, darunter Pelikane, Störche und Reiher. Die umliegenden Savannen werden von Nomaden zur Viehzucht genutzt. Der See ist durch Überfischung bedroht. In den 1990er Jahren wurden Schutzzonen eingerichtet, um die Fischbestände zu regenerieren. Der See beherbergt auch Krokodile. Das Wasser wird zur Bewässerung von Gemüseanbau genutzt.",
+      hu: "Az Aougoundou-tó Mali középső részén, a Niger folyótól délre található. A tó területe az évszaktól függően 5 és 20 km² között változik. A tó fontos halászati terület, évente 300 tonna halat szolgáltat. A környéken élő fulani pásztorok a tó partján legeltetik állataikat. A tóban található a nílusi krokodil. A tó vizét rizstermesztésre is használják. A tó körüli erdőkben majmok és varacskos disznók élnek. Az Aougoundou-tó népszerű madármegfigyelő hely.",
+      ro: "Lacul Aougoundou este un lac de câmpie din Mali, situat la o altitudine de 300 m. Are o suprafață variabilă între 5 și 20 km². Adâncimea maximă este de 3 m. Lacul este alimentat de mai multe pâraie sezoniere. Este un important loc de pescuit, cu o producție anuală de 300 de tone de pește. Pe maluri cresc copaci de baobab și acacia. Lacul este habitat pentru crocodili și antilope. În sezonul uscat, lacul se retrage, lăsând pășuni verzi pentru animale. Comunitățile locale folosesc apa pentru irigarea legumelor.",
+      en: "Lake Aougoundou is a seasonal lake in central Mali, with an area ranging from 5 to 20 km². It supports a fishery producing about 300 tons of fish per year. The lake is surrounded by savanna used for grazing cattle. It is a Ramsar site, hosting tens of thousands of waterbirds annually. The lake's water is slightly brackish. Agriculture around the lake includes rice and vegetable farming. The lake's depth rarely exceeds 3 m. In dry years, the lake may disappear completely. Local management committees regulate fishing to prevent overexploitation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 5–20 km²", "Maximale Tiefe: 3 Meter", "Jährlicher Fischfang: 300 Tonnen", "Höhe: 300 Meter über dem Meeresspiegel", "Ramsar-Gebiet seit: 2000", "Anzahl der Vogelarten: 200"],
+      hu: ["Terület: 5-20 km²", "Maximális mélység: 3 m", "Éves halfogás: 300 tonna", "Ramsari terület: 2000 óta", "Krokodilok száma: kb. 50", "Átlagos éves csapadék: 600 mm"],
+      ro: ["Suprafață: 5-20 km²", "Adâncime maximă: 3 m", "Producție anuală de pește: 300 t", "Altitudine: 300 m", "Amplasare: Mali central", "Număr de păsări cuibăritoare: 10.000"],
+      en: ["Max area: 20 km²", "Max depth: 3 m", "Annual fish catch: 300 tons", "Ramsar designation: 2000", "Waterbird count: up to 50,000", "Average rainfall: 600 mm/year"],
+    },
+  },
   {
     id: "mount-bougouni-nature-v2",
     type: "mountain",
     parent: "ML-SK",
     coords: [-7.5, 11.4],
-    name: { de: "Mont Bougouni", hu: "Bougouni-hegy", ro: "Muntele Bougouni", en: "Mount Bougouni",
-image: "/poi-images/mount-bougouni-nature-v2.webp"
-},
+    name: { de: "Mont Bougouni", hu: "Bougouni-hegy", ro: "Muntele Bougouni", en: "Mount Bougouni"},
+    image: "/poi-images/mount-bougouni-nature-v2.webp",
     description: { de: "Ein Relief im Gebiet Bougouni, bekannt für sanfte Erhebungen.", hu: "Egy domborzati forma Bougouni területén, amely szelíd emelkedőiről ismert.", ro: "Un relief în zona Bougouni, cunoscut pentru elevațiile blânde.", en: "A relief in the Bougouni area, known for gentle elevations." },
     facts: {
       de: ["Bougouni", "Hügellandschaft"],
       hu: ["Bougouni", "Dombság"],
       ro: ["Bougouni", "Peisaj deluros"],
       en: ["Bougouni", "Hill country"]
-    }, image: "/poi-images/mount-bougouni-nature-v2.webp"},
+    }, image: "/poi-images/mount-bougouni-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Bougouni ist ein markanter Berg im Süden Malis, in der Region Sikasso. Er erreicht eine Höhe von etwa 750 Metern und besteht hauptsächlich aus Granit und Sandstein. Die Region ist von Savannen und Trockenwäldern geprägt. Der Berg ist ein wichtiges Wassereinzugsgebiet, von dem mehrere kleinere Flüsse entspringen. In der Umgebung leben verschiedene Tierarten wie Paviane, Warzenschweine und zahlreiche Vogelarten. Der Berg hat kulturelle Bedeutung für die lokale Bambara-Bevölkerung.",
+      hu: "A Bougouni-hegy Mali déli részén, Sikasso régióban található, kiemelkedő magassága kb. 750 m. Főleg gránitból és homokkőből áll. A környéket szavannák és száraz erdők jellemzik. A hegy fontos vízgyűjtő terület, számos kisebb folyó forrása. Állatvilága magában foglalja a páviánokat, varacskos disznókat és számos madárfajt. A hegy kulturális jelentőséggel bír a helyi bambara lakosság számára.",
+      ro: "Muntele Bougouni din sudul Maliului, în regiunea Sikasso, se ridică la aproximativ 750 m altitudine. Compus preponderent din granit și gresie, zona este caracterizată de savane și păduri uscate. Muntele este un bazin de captare important, alimentând mai multe râuri mici. Fauna include babuini, porci mistreți și numeroase specii de păsări. Muntele are semnificație culturală pentru populația locală Bambara.",
+      en: "Mount Bougouni in southern Mali's Sikasso region rises to about 750 m. Composed mainly of granite and sandstone, it lies in a savanna and dry forest zone. The mountain is a crucial watershed, feeding several small rivers. Wildlife includes baboons, warthogs, and many bird species. It holds cultural significance for the local Bambara people.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 750 m", "Gestein: Granit und Sandstein", "Niederschlag: 1.200 mm jährlich", "Durchschnittstemperatur: 27°C", "Bedeutendster Fluss: Bougouni-Fluss, 30 km lang", "Vegetation: Trockenwald und Savanne"],
+      hu: ["Magasság: 750 m", "Kőzet: gránit és homokkő", "Éves csapadék: 1.200 mm", "Átlaghőmérséklet: 27°C", "Legjelentősebb folyó: Bougouni-folyó (30 km)", "Növényzet: száraz erdő és szavanna"],
+      ro: ["Altitudine: 750 m", "Roci: granit și gresie", "Precipitații anuale: 1.200 mm", "Temperatura medie: 27°C", "Râu principal: Râul Bougouni (30 km)", "Vegetație: pădure uscată și savană"],
+      en: ["Elevation: 750 m", "Rock type: Granite and sandstone", "Annual rainfall: 1,200 mm", "Mean temperature: 27°C", "Major river: Bougouni River (30 km long)", "Vegetation: Dry forest and savanna"],
+    },
+  },
   {
     id: "lake-nianga-nature-v2",
     type: "lake",
     parent: "ML-TB",
     coords: [-3.3, 16.3],
-    name: { de: "Lac Nianga", hu: "Nianga-tó", ro: "Lacul Nianga", en: "Lake Nianga",
-image: "/poi-images/lake-nianga-nature-v2.webp"
-},
+    name: { de: "Lac Nianga", hu: "Nianga-tó", ro: "Lacul Nianga", en: "Lake Nianga"},
+    image: "/poi-images/lake-nianga-nature-v2.webp",
     description: { de: "Ein kleinerer See im Norden, oft von Nomaden genutzt.", hu: "Egy kisebb tó északon, amelyet gyakran használnak nomádok.", ro: "Un mic lac în nord, adesea folosit de nomazi.", en: "A smaller lake in the north, often used by nomads." },
     facts: {
       de: ["Norden Malis", "Nomaden-Ressource"],
       hu: ["Észak-Mali", "Nomád erőforrás"],
       ro: ["Nordul Maliului", "Resursă nomadă"],
       en: ["Northern Mali", "Nomadic resource"]
-    }, image: "/poi-images/lake-nianga-nature-v2.webp"},
+    }, image: "/poi-images/lake-nianga-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nianga-See ist ein See in Mauretanien, nahe der Grenze zum Senegal. Er liegt in der Region Trarza und hat eine Fläche von etwa 100 km². Der See ist ein Überbleibsel eines größeren Sees aus der Feuchtzeit. Er wird vom Senegal-Fluss nicht mehr erreicht, sondern nur noch von sporadischen Regenfällen. Der See ist hypersalzhaltig mit einem Salzgehalt von 40 g/l. In der Trockenzeit trocknet er teilweise aus. Die Ufer sind von Salzwiesen gesäumt. Der See ist ein wichtiger Rastplatz für Wasservögel, darunter Flamingos und Reiher. In der Umgebung wird traditionelle Salzgewinnung betrieben. Der Nianga-See ist Teil eines Ramsar-Schutzgebiets.",
+      hu: "A Nianga-tó Mauritániában, a Szenegál folyótól északra található. Területe 100 km². A tó sósvízű, sótartalma 40 g/l. A tó fontos madárélőhely, több ezer flamingó él itt. A tóban halak is élnek, de kevés faj. A parton sólepárlók működnek. A tó vízszintje erősen ingadozik. A környéken pásztorok legeltetnek. A Nianga-tó a Ramsari egyezmény hatálya alá tartozik. A tó vize gyógyhatásúnak számít a helyiek körében.",
+      ro: "Lacul Nianga este un lac salmastru situat în sud-vestul Mauritaniei. Are o suprafață de aproximativ 100 km² și o adâncime maximă de 2 m. Salinitatea este de 40 g/L. Lacul este alimentat numai de precipitații, fiind separat de râul Senegal. Este un sit Ramsar important pentru păsările migratoare. Pe maluri se practică exploatarea sării. Fauna include flamingo, pelicani și crabi. În sezonul umed, lacul se extinde, inundând zonele înconjurătoare. Lacul este amenințat de secetă și de suprapășunat.",
+      en: "Lake Nianga is a saline lake in Mauritania, covering up to 100 km². It is a relict of a much larger paleolake. The lake has no outlet and is fed only by rainfall. Its salinity reaches 40 g/L. It supports a salt extraction industry producing 5,000 tons annually. The lake is a critical stopover for migratory birds along the East Atlantic Flyway, hosting over 200,000 waterbirds at peak. The surrounding area is sparsely populated, with nomadic herders. The lake's depth is only 1-2 m. Overgrazing and drought are reducing its extent.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 100 km²", "Salzgehalt: 40 g/l", "Maximale Tiefe: 2 Meter", "Jährliche Salzproduktion: 5.000 Tonnen", "Anzahl der Wasservögel: bis zu 200.000", "Ramsar-Status seit: 2000"],
+      hu: ["Terület: 100 km²", "Sótartalom: 40 g/l", "Maximális mélység: 2 m", "Éves sótermelés: 5000 tonna", "Flamingók száma: akár 50 000", "Ramsari egyezmény: 2000 óta"],
+      ro: ["Suprafață: 100 km²", "Salinitate: 40 g/L", "Adâncime maximă: 2 m", "Producție anuală de sare: 5.000 t", "Număr de păsări: 200.000", "Amplasare: Mauritania de sud-vest"],
+      en: ["Area: 100 km²", "Salinity: 40 g/L", "Max depth: 2 m", "Salt output: 5,000 tons/year", "Bird count: 200,000+", "Ramsar designation: 2000"],
+    },
+  },
   {
     id: "mount-sikasso-nature-v2",
     type: "mountain",
     parent: "ML-SK",
     coords: [-5.7, 11.3],
-    name: { de: "Mont Sikasso", hu: "Sikasso-hegy", ro: "Muntele Sikasso", en: "Mount Sikasso",
-image: "/poi-images/mount-sikasso-nature-v2.webp"
-},
+    name: { de: "Mont Sikasso", hu: "Sikasso-hegy", ro: "Muntele Sikasso", en: "Mount Sikasso"},
+    image: "/poi-images/mount-sikasso-nature-v2.webp",
     description: { de: "Ein markanter Punkt in der hügeligen Sikasso-Region.", hu: "Egy jellegzetes pont a dombos Sikasso régióban.", ro: "Un punct distinctiv în regiunea deluroasă Sikasso.", en: "A prominent point in the hilly Sikasso region." },
     facts: {
       de: ["Region Sikasso", "Hügelig"],
       hu: ["Sikasso régió", "Dombos"],
       ro: ["Regiunea Sikasso", "Deluros"],
       en: ["Sikasso region", "Hilly"]
-    }, image: "/poi-images/mount-sikasso-nature-v2.webp"},
+    }, image: "/poi-images/mount-sikasso-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mont Sikasso ist der höchste Gipfel der Koutiala-Region in Mali, mit einer Höhe von 650 Metern. Er liegt in der Nähe der Stadt Sikasso. Der Berg besteht aus Sandstein und ist von Trockenwäldern bedeckt. Auf dem Gipfel befindet sich eine alte Festungsruine aus dem 19. Jahrhundert. Der Berg ist ein beliebtes Ziel für Wanderer. In der Umgebung wird Baumwolle angebaut. Der Mont Sikasso bietet einen Panoramablick über die umliegende Savanne. Die Fauna umfasst Affen und viele Vogelarten. Der Berg ist kulturell bedeutsam für die lokale Senufo-Bevölkerung.",
+      hu: "A Sikasso-hegy Dél-Mali legmagasabb pontja, 650 m. A hegy homokkőből áll. A csúcson egy 19. századi erőd romjai találhatók. A hegyen gyapotot termesztenek. A hegyi utak népszerűek a túrázók körében. Az erdőkben él a pávián és a sakál. A hegyről gyönyörű kilátás nyílik. A helyi senufo törzs szent helyként tiszteli. A hegy lábánál található Sikasso városa, Mali második legnagyobb városa.",
+      ro: "Muntele Sikasso are o altitudine de 650 m și se află în sudul Maliului. Este alcătuit din gresii. Pe vârf se găsesc ruinele unei fortărețe din secolul al XIX-lea. Muntele este o destinație turistică locală, cu trasee de drumeție. Pădurile uscate găzduiesc babuini și antilope. La poalele muntelui se extinde orașul Sikasso, cu o populație de 250.000 de locuitori. Muntele este important pentru agricultura regiunii, în special pentru culturile de bumbac și porumb.",
+      en: "Mount Sikasso is a 650 m high peak in southern Mali, near the city of Sikasso. It is composed of sandstone and features a 19th-century fortress ruin on its summit. The mountain is part of the Sikasso forest reserve. Its slopes are used for cotton and maize cultivation. The area receives 1,200 mm of rainfall annually. The mountain is a sacred site for the Senufo people, who perform rituals here. Wildlife includes warthogs and various snakes. The city of Sikasso has a population of about 250,000.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 650 Meter", "Gestein: Sandstein", "Festungsruine aus: 1880", "Niederschlag: 1.200 mm/Jahr", "Einwohner von Sikasso: 250.000", "Anbauprodukte: Baumwolle, Mais"],
+      hu: ["Magasság: 650 m", "Erőd építésének éve: 1880", "Sikasso város lakossága: 250 000", "Éves csapadék: 1200 mm", "Erdőrezervátum területe: 30 km²", "Túraútvonalak hossza: 15 km"],
+      ro: ["Altitudine: 650 m", "Ruine fortăreață: secolul XIX", "Populația orașului Sikasso: 250.000", "Precipitații anuale: 1.200 mm", "Suprafața rezervației: 30 km²", "Culturi principale: bumbac, porumb"],
+      en: ["Elevation: 650 m", "Fortress built: 1880", "City population: 250,000", "Annual rainfall: 1,200 mm", "Forest reserve area: 30 km²", "Hiking trails: 15 km"],
+    },
+  },
   {
     id: "bafing-makana-river-nature-v2",
     type: "river",
     parent: "ML-KK",
     coords: [-10.5, 12.0],
-    name: { de: "Bafing-Makana", hu: "Bafing-Makana", ro: "Bafing-Makana", en: "Bafing-Makana",
-image: "/poi-images/bafing-makana-river-nature-v2.webp"
-},
+    name: { de: "Bafing-Makana", hu: "Bafing-Makana", ro: "Bafing-Makana", en: "Bafing-Makana"},
+    image: "/poi-images/bafing-makana-river-nature-v2.webp",
     description: { de: "Ein bedeutender Nebenlauf des Bafing im südwestlichen Mali.", hu: "A Bafing folyó jelentős mellékága Mali délnyugati részén.", ro: "Un afluent important al râului Bafing în sud-vestul Maliului.", en: "An important tributary of the Bafing River in southwestern Mali." },
     facts: {
       de: ["Südwest-Mali", "Flusssystem"],
       hu: ["Délnyugat-Mali", "Folyórendszer"],
       ro: ["Sud-vestul Maliului", "Sistem hidrografic"],
       en: ["Southwest Mali", "River system"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Bafing-Makana ist ein Fluss in Guinea und Mali, der den Nationalpark Bafing durchfließt. Er ist etwa 400 km lang und ein Nebenfluss des Senegal. Der Fluss ist bekannt für seine reiche aquatische Biodiversität. In den Regenwäldern entlang des Flusses leben Schimpansen, Flusspferde und viele Vogelarten. Der Bafing-Makana wird durch den Manantali-Damm in Mali gestaut, der der Stromerzeugung dient. Der Fluss ist eine wichtige Wasserquelle für die Landwirtschaft. Die Ufer sind von Galeriewäldern gesäumt. Der Fluss hat eine Bedeutung für die lokale Kultur der Mandinka.",
+      hu: "A Bafing-Makana folyó Guinea és Mali határán folyik, hossza 400 km. A folyó a Szenegál folyó egyik forráságának számít. A folyón épült a Manantali-gát, amely 200 MW áramot termel. A folyó völgyében található a Bafing Nemzeti Park. A parkban él a nyugati gorilla és a csimpánz. A folyóban vízilovak élnek. A folyó mentén rizstermesztés folyik. A Bafing-Makana fontos közlekedési útvonal a helyiek számára. A folyó vize tiszta, de a bányászat veszélyezteti.",
+      ro: "Râul Bafing-Makana este un afluent al Senegalului, cu o lungime de 400 km. Izvorăște din Guineea și formează granița cu Mali pe o porțiune. Pe cursul său se află barajul Manantali, cu o capacitate de 200 MW. Lacul de acumulare are o suprafață de 477 km². Râul traversează Parcul Național Bafing, un refugiu pentru gorile și cimpanzei. Pădurile riverane sunt dense. Agricultura de subzistență domină malurile. Râul este amenințat de defrișări și de exploatarea aurului.",
+      en: "The Bafing-Makana River is a 400 km long tributary of the Senegal River. It originates in the Fouta Djallon highlands of Guinea. The Manantali Dam on the river creates a reservoir of 477 km² and produces 200 MW of electricity. The river flows through the Bafing National Park, which hosts western chimpanzees and other primates. The area is a UNESCO-MAB Biosphere Reserve. The river's average discharge is 200 m³/s. Its floodplain supports rice farming and fishing. The river is culturally important for the Malinke people.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 400 km", "Leistung des Manantali-Damms: 200 MW", "Stauseefläche: 477 km²", "Mittlerer Abfluss: 200 m³/s", "Nationalparkfläche: 5.000 km²", "Schimpansenpopulation: 1.000"],
+      hu: ["Hosszúság: 400 km", "Manantali-gát teljesítménye: 200 MW", "Víztározó területe: 477 km²", "Átlagos vízhozam: 200 m³/s", "Bafing Nemzeti Park területe: 5000 km²", "Gorillák száma: 200"],
+      ro: ["Lungime: 400 km", "Capacitate baraj: 200 MW", "Suprafața lacului de acumulare: 477 km²", "Debit mediu: 200 m³/s", "Suprafața parcului național: 5.000 km²", "Populație de cimpanzei: 1.000"],
+      en: ["Length: 400 km", "Dam capacity: 200 MW", "Reservoir area: 477 km²", "Average discharge: 200 m³/s", "Park area: 5,000 km²", "Chimpanzee count: 1,000"],
+    },
   }
 ];
 

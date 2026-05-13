@@ -11,9 +11,8 @@ export const poiExtraPeruLifeV2: POI[] = [
       de: "Parque de las Leyendas",
       hu: "Parque de las Leyendas Állatkert",
       ro: "Parque de las Leyendas",
-      en: "Parque de las Leyendas Zoo",
-image: "/poi-images/parque-de-las-leyendas-life-v2.webp"
-},
+      en: "Parque de las Leyendas Zoo"},
+    image: "/poi-images/parque-de-las-leyendas-life-v2.webp",
     description: {
       de: "Limas wichtigster Zoo und botanischer Garten, der in drei ökologische Zonen Perus unterteilt ist.",
       hu: "Lima legfontosabb állatkertje és botanikus kertje, amely Peru három ökológiai zónáját mutatja be.",
@@ -49,9 +48,8 @@ image: "/poi-images/parque-de-las-leyendas-life-v2.webp"
       de: "Nationalreservat Paracas",
       hu: "Paracas Nemzeti Rezervátum",
       ro: "Rezervația Națională Paracas",
-      en: "Paracas National Reserve",
-image: "/poi-images/paracas-national-reserve-life-v2.webp"
-},
+      en: "Paracas National Reserve"},
+    image: "/poi-images/paracas-national-reserve-life-v2.webp",
     description: {
       de: "Ein geschütztes Wüstengebiet an der Küste, das vielen Meerestieren und Zugvögeln als wichtiger Lebensraum dient.",
       hu: "Egy védett partmenti sivatagi terület, amely számos tengeri állat és vándormadár fontos élőhelye.",
@@ -87,9 +85,8 @@ image: "/poi-images/paracas-national-reserve-life-v2.webp"
       de: "Reservat Salinas und Aguada Blanca",
       hu: "Salinas és Aguada Blanca Rezervátum",
       ro: "Rezervația Salinas și Aguada Blanca",
-      en: "Salinas and Aguada Blanca Reserve",
-image: "/poi-images/salinas-aguada-blanca-life-v2.webp"
-},
+      en: "Salinas and Aguada Blanca Reserve"},
+    image: "/poi-images/salinas-aguada-blanca-life-v2.webp",
     description: {
       de: "Ein hochgelegenes Schutzgebiet, das gegründet wurde, um die Lebensräume von Vikunjas und Flamingos zu schützen.",
       hu: "Egy magasan fekvő természetvédelmi terület, amelyet a vikunyák és flamingók élőhelyének védelmére hoztak létre.",
@@ -125,9 +122,8 @@ image: "/poi-images/salinas-aguada-blanca-life-v2.webp"
       de: "Kartoffelpark von Pisac",
       hu: "Krumplipark Pisacban",
       ro: "Parcul Cartofilor din Pisac",
-      en: "Potato Park of Pisac",
-image: "/poi-images/parque-de-la-papa-life-v2.webp"
-},
+      en: "Potato Park of Pisac"},
+    image: "/poi-images/parque-de-la-papa-life-v2.webp",
     description: {
       de: "Eine von indigenen Gemeinschaften verwaltete landwirtschaftliche Zone, die über tausend einheimische Kartoffelsorten schützt.",
       hu: "Bennszülött közösségek által irányított mezőgazdasági terület, amely több mint ezer őshonos burgonyafajtát őriz.",
@@ -163,9 +159,8 @@ image: "/poi-images/parque-de-la-papa-life-v2.webp"
       de: "Kaffeeplantagen in Chanchamayo",
       hu: "Chanchamayo Kávéültetvények",
       ro: "Plantațiile de Cafea din Chanchamayo",
-      en: "Chanchamayo Coffee Farms",
-image: "/poi-images/chanchamayo-coffee-farms-life-v2.webp"
-},
+      en: "Chanchamayo Coffee Farms"},
+    image: "/poi-images/chanchamayo-coffee-farms-life-v2.webp",
     description: {
       de: "Das Herz der peruanischen Kaffeeproduktion im zentralen Dschungel, wo hochwertige Arabica-Bohnen angebaut werden.",
       hu: "A perui kávétermelés szíve a központi dzsungelben, ahol kiváló minőségű Arabica kávét termesztenek.",
@@ -201,9 +196,8 @@ image: "/poi-images/chanchamayo-coffee-farms-life-v2.webp"
       de: "Mangrovenwälder von Tumbes",
       hu: "Tumbes Mangroveerdők",
       ro: "Mangrovele din Tumbes",
-      en: "Tumbes Mangroves Sanctuary",
-image: "/poi-images/manglares-de-tumbes-life-v2.webp"
-},
+      en: "Tumbes Mangroves Sanctuary"},
+    image: "/poi-images/manglares-de-tumbes-life-v2.webp",
     description: {
       de: "Ein einzigartiges Ökosystem im Norden Perus, in dem sich Süßwasser mit dem Meer mischt und Krokodile beheimatet sind.",
       hu: "Egyedülálló ökoszisztéma Észak-Peruban, ahol az édesvíz keveredik a tengerrel, és krokodiloknak ad otthont.",
@@ -239,9 +233,8 @@ image: "/poi-images/manglares-de-tumbes-life-v2.webp"
       de: "Reservat Allpahuayo Mishana",
       hu: "Allpahuayo Mishana Rezervátum",
       ro: "Rezervația Allpahuayo Mishana",
-      en: "Allpahuayo Mishana Reserve",
-image: "/poi-images/allpahuayo-mishana-life-v2.webp"
-},
+      en: "Allpahuayo Mishana Reserve"},
+    image: "/poi-images/allpahuayo-mishana-life-v2.webp",
     description: {
       de: "Ein Amazonas-Schutzgebiet nahe Iquitos, berühmt für seine weißen Sandwälder und extrem hohe Artenvielfalt.",
       hu: "Egy amazóniai természetvédelmi terület Iquitos közelében, amely híres fehér homokos erdeiről és nagy fajgazdagságáról.",
@@ -277,9 +270,8 @@ image: "/poi-images/allpahuayo-mishana-life-v2.webp"
       de: "Nationalpark Huascarán (Flora & Fauna)",
       hu: "Huascarán Nemzeti Park (Flóra & Fauna)",
       ro: "Parcul Național Huascarán (Floră și Faună)",
-      en: "Huascarán National Park (Flora & Fauna)",
-image: "/poi-images/huascaran-flora-fauna-life-v2.webp"
-},
+      en: "Huascarán National Park (Flora & Fauna)"},
+    image: "/poi-images/huascaran-flora-fauna-life-v2.webp",
     description: {
       de: "Neben den Gletschern schützt dieser Nationalpark Puya-Raimondii-Pflanzen, Brillenbären und Andenkondore.",
       hu: "A gleccserek mellett a nemzeti park Puya raimondii növényeket, pápaszemes medvéket és andoki kondorkeselyűket véd.",
@@ -315,9 +307,8 @@ image: "/poi-images/huascaran-flora-fauna-life-v2.webp"
       de: "Sanktuarium Megantoni",
       hu: "Megantoni Menedékhely",
       ro: "Sanctuarul Megantoni",
-      en: "Megantoni Sanctuary",
-image: "/poi-images/megantoni-sanctuary-life-v2.webp"
-},
+      en: "Megantoni Sanctuary"},
+    image: "/poi-images/megantoni-sanctuary-life-v2.webp",
     description: {
       de: "Eine schwer zugängliche Schutzregion, die eine wichtige Brücke zwischen dem Andenhochland und dem Amazonas-Regenwald bildet.",
       hu: "Egy nehezen megközelíthető védett régió, amely fontos hidat képez az Andok hegyvidéke és az amazonasi esőerdő között.",
@@ -353,9 +344,8 @@ image: "/poi-images/megantoni-sanctuary-life-v2.webp"
       de: "Hacienda San José Landwirtschaft",
       hu: "Hacienda San José Mezőgazdaság",
       ro: "Hacienda San José Agricultură",
-      en: "Hacienda San José Agriculture",
-image: "/poi-images/hacienda-san-jose-agriculture-life-v2.webp"
-},
+      en: "Hacienda San José Agriculture"},
+    image: "/poi-images/hacienda-san-jose-agriculture-life-v2.webp",
     description: {
       de: "Ein historisches landwirtschaftliches Anwesen in Chincha, das für seine Zuckerrohr- und Baumwollproduktion bekannt war.",
       hu: "Történelmi mezőgazdasági birtok Chinchában, amely cukornád- és pamuttermeléséről volt híres.",
@@ -391,9 +381,8 @@ image: "/poi-images/hacienda-san-jose-agriculture-life-v2.webp"
       de: "Zoo Huachipa",
       hu: "Huachipa Állatkert",
       ro: "Grădina Zoologică Huachipa",
-      en: "Huachipa Zoo",
-image: "/poi-images/zooloogico-huachipa-life-v2.webp"
-},
+      en: "Huachipa Zoo"},
+    image: "/poi-images/zooloogico-huachipa-life-v2.webp",
     description: {
       de: "Ein beliebter Tierpark am Rande von Lima, der eine große Sammlung peruanischer und exotischer Tierarten zeigt.",
       hu: "Egy népszerű vadaspark Lima szélén, amely perui és egzotikus állatfajok nagy gyűjteményét mutatja be.",
@@ -429,9 +418,8 @@ image: "/poi-images/zooloogico-huachipa-life-v2.webp"
       de: "Kakaoplantagen in Quillabamba",
       hu: "Quillabamba Kakaóültetvények",
       ro: "Plantațiile de Cacao din Quillabamba",
-      en: "Quillabamba Cacao Farms",
-image: "/poi-images/quillabamba-cacao-farms-life-v2.webp"
-},
+      en: "Quillabamba Cacao Farms"},
+    image: "/poi-images/quillabamba-cacao-farms-life-v2.webp",
     description: {
       de: "Das Zentrum der peruanischen Kakaoproduktion im Tropenwald von Cusco, das für seine feinwürzigen Edelkakaos geschätzt wird.",
       hu: "A perui kakaótermelés központja Cusco trópusi erdejében, amely finom fűszeres prémium kakaójáról ismert.",
@@ -467,9 +455,8 @@ image: "/poi-images/quillabamba-cacao-farms-life-v2.webp"
       de: "Kondorkreuz (Cruz del Cóndor)",
       hu: "Kondorkereszt (Cruz del Cóndor)",
       ro: "Crucea Condorului",
-      en: "Condor Cross (Cruz del Cóndor)",
-image: "/poi-images/cruz-del-condor-life-v2.webp"
-},
+      en: "Condor Cross (Cruz del Cóndor)"},
+    image: "/poi-images/cruz-del-condor-life-v2.webp",
     description: {
       de: "Ein spektakulärer Aussichtspunkt am Rand der Colca-Schlucht, der der beste Ort ist, um Andenkondore fliegen zu sehen.",
       hu: "Látványos kilátó a Colca-kanyon szélén, amely a legjobb hely az andoki kondorkeselyűk megfigyelésére.",
@@ -504,9 +491,8 @@ image: "/poi-images/cruz-del-condor-life-v2.webp"
       de: "Magischer Wasserrundgang",
       hu: "Varázslatos Vízkörút (Parque de las Aguas)",
       ro: "Circuitul Magic al Apei",
-      en: "Magic Water Circuit",
-image: "/poi-images/circuito-magico-del-agua-life-v2.webp"
-},
+      en: "Magic Water Circuit"},
+    image: "/poi-images/circuito-magico-del-agua-life-v2.webp",
     description: {
       de: "Ein weitläufiger Park in Lima mit zahlreichen interaktiven, farbenfrohen Springbrunnen, die besonders nachts Familien anziehen.",
       hu: "Kiterjedt park Limában, számos interaktív, színes szökőkúttal, amelyek különösen éjszaka vonzzák a családokat.",
@@ -542,9 +528,8 @@ image: "/poi-images/circuito-magico-del-agua-life-v2.webp"
       de: "Nationalreservat Matsés",
       hu: "Matsés Nemzeti Rezervátum",
       ro: "Rezervația Națională Matsés",
-      en: "Matsés National Reserve",
-image: "/poi-images/matses-national-reserve-life-v2.webp"
-},
+      en: "Matsés National Reserve"},
+    image: "/poi-images/matses-national-reserve-life-v2.webp",
     description: {
       de: "Ein abgelegenes und unberührtes Amazonas-Schutzgebiet an der Grenze zu Brasilien, in dem seltene Primatenarten leben.",
       hu: "Egy eldugott és érintetlen amazóniai természetvédelmi terület a brazil határon, ahol ritka főemlősfajok élnek.",
@@ -580,9 +565,8 @@ image: "/poi-images/matses-national-reserve-life-v2.webp"
       de: "Bauernhof Porcón",
       hu: "Porcón Farm",
       ro: "Ferma Porcón",
-      en: "Porcón Farm (Granja Porcón)",
-image: "/poi-images/granja-porcon-life-v2.webp"
-},
+      en: "Porcón Farm (Granja Porcón)"},
+    image: "/poi-images/granja-porcon-life-v2.webp",
     description: {
       de: "Ein landwirtschaftliches Projekt und Zoo in den Anden von Cajamarca, das einen Kiefernwald aufforstete und Tiere beherbergt.",
       hu: "Mezőgazdasági projekt és állatkert a Cajamarca-i Andokban, amely fenyőerdőt telepített, és számos állatot tart.",
@@ -617,9 +601,8 @@ image: "/poi-images/granja-porcon-life-v2.webp"
       de: "Weingut Tacama",
       hu: "Tacama Szőlőbirtok",
       ro: "Podgoria Tacama",
-      en: "Tacama Vineyard",
-image: "/poi-images/tacama-vineyard-life-v2.webp"
-},
+      en: "Tacama Vineyard"},
+    image: "/poi-images/tacama-vineyard-life-v2.webp",
     description: {
       de: "Eines der ältesten Weingüter Südamerikas, das Wein und Pisco in der fruchtbaren Ica-Oase produziert.",
       hu: "Dél-Amerika egyik legrégebbi szőlőbirtoka, amely bort és piscot termel a termékeny Ica-oázisban.",
@@ -655,9 +638,8 @@ image: "/poi-images/tacama-vineyard-life-v2.webp"
       de: "Bananenplantagen von Tingo María",
       hu: "Tingo María Banánültetvények",
       ro: "Plantațiile de Banane din Tingo María",
-      en: "Tingo María Banana Farms",
-image: "/poi-images/tingo-maria-banana-farms-life-v2.webp"
-},
+      en: "Tingo María Banana Farms"},
+    image: "/poi-images/tingo-maria-banana-farms-life-v2.webp",
     description: {
       de: "Große tropische Landwirtschaftsflächen, die vom Amazonas-Klima profitieren, um Plátanos und tropische Früchte anzubauen.",
       hu: "Nagy kiterjedésű trópusi mezőgazdasági területek, amelyek az amazóniai klímát kihasználva főzőbanánt és más trópusi gyümölcsöket termesztenek.",
@@ -693,9 +675,8 @@ image: "/poi-images/tingo-maria-banana-farms-life-v2.webp"
       de: "Naturschutzgebiet der Amancay",
       hu: "Amancay Természetvédelmi Terület",
       ro: "Rezervația Amancay",
-      en: "Amancay Sanctuary",
-image: "/poi-images/santuario-de-amancay-life-v2.webp"
-},
+      en: "Amancay Sanctuary"},
+    image: "/poi-images/santuario-de-amancay-life-v2.webp",
     description: {
       de: "Ein Hügelgebiet nahe Pachacámac, das für die gelbe Amancay-Blume bekannt ist, die nur kurz im Winter erblüht.",
       hu: "Pachacámac közeli dombvidék, amely a sárga amancay virágról ismert, amely csak télen nyílik rövid ideig.",
@@ -731,9 +712,8 @@ image: "/poi-images/santuario-de-amancay-life-v2.webp"
       de: "Nationalreservat Lomas de Lachay",
       hu: "Lomas de Lachay Nemzeti Rezervátum",
       ro: "Rezervația Națională Lomas de Lachay",
-      en: "Lomas de Lachay National Reserve",
-image: "/poi-images/lomas-de-lachay-life-v2.webp"
-},
+      en: "Lomas de Lachay National Reserve"},
+    image: "/poi-images/lomas-de-lachay-life-v2.webp",
     description: {
       de: "Eine nebelabhängige Öko-Oase in der Wüste nahe Lima, die in der feuchten Jahreszeit ergrünt und Tiere anzieht.",
       hu: "Egy ködtől függő öko-oázis a Lima melletti sivatagban, amely a nedves évszakban kizöldül és állatokat vonz.",
@@ -769,9 +749,8 @@ image: "/poi-images/lomas-de-lachay-life-v2.webp"
       de: "Historisches Schutzgebiet Bosque de Pómac",
       hu: "Bosque de Pómac Történelmi Védett Terület",
       ro: "Sanctuarul Istoric Bosque de Pómac",
-      en: "Bosque de Pómac Historical Sanctuary",
-image: "/poi-images/bosque-de-pomac-life-v2.webp"
-},
+      en: "Bosque de Pómac Historical Sanctuary"},
+    image: "/poi-images/bosque-de-pomac-life-v2.webp",
     description: {
       de: "Ein dichter Trockenwald an der Nordküste, der nicht nur eine wichtige Flora und Fauna schützt, sondern auch antike Pyramiden.",
       hu: "Sűrű száraz erdő az északi parton, amely nemcsak fontos növény- és állatvilágot, hanem ősi piramisokat is véd.",
@@ -807,9 +786,8 @@ image: "/poi-images/bosque-de-pomac-life-v2.webp"
       de: "Jagdreservat El Angolo",
       hu: "El Angolo Vadászrezervátum",
       ro: "Rezervația de Vânătoare El Angolo",
-      en: "El Angolo Hunting Reserve",
-image: "/poi-images/el-angolo-hunting-reserve-life-v2.webp"
-},
+      en: "El Angolo Hunting Reserve"},
+    image: "/poi-images/el-angolo-hunting-reserve-life-v2.webp",
     description: {
       de: "Ein streng reguliertes Schutzgebiet im trockenen Nordwesten Perus, das der Erhaltung des Weißwedelhirsches dient.",
       hu: "Egy szigorúan szabályozott védett terület Peru száraz északnyugati részén, amely a fehérfarkú szarvas megőrzését szolgálja.",
@@ -845,9 +823,8 @@ image: "/poi-images/el-angolo-hunting-reserve-life-v2.webp"
       de: "Tierrettungszentrum Taricaya",
       hu: "Taricaya Állatmentő Központ",
       ro: "Centrul de Salvare Taricaya",
-      en: "Taricaya Rescue Center",
-image: "/poi-images/taricaya-rescue-center-life-v2.webp"
-},
+      en: "Taricaya Rescue Center"},
+    image: "/poi-images/taricaya-rescue-center-life-v2.webp",
     description: {
       de: "Ein Rehabilitationszentrum im Amazonasgebiet, das illegal gehandelte Tiere aufnimmt und sie auf die Auswilderung vorbereitet.",
       hu: "Egy rehabilitációs központ az Amazonas-medencében, amely illegálisan kereskedett állatokat fogad és készít fel a szabadon engedésre.",
@@ -883,9 +860,8 @@ image: "/poi-images/taricaya-rescue-center-life-v2.webp"
       de: "Höhle der Eulen",
       hu: "Baglyok Barlangja",
       ro: "Peștera Bufnițelor",
-      en: "Cave of the Owls",
-image: "/poi-images/cueva-de-las-lechuzas-life-v2.webp"
-},
+      en: "Cave of the Owls"},
+    image: "/poi-images/cueva-de-las-lechuzas-life-v2.webp",
     description: {
       de: "Eine beeindruckende Karsthöhle im Nationalpark Tingo María, in der eine große Kolonie von Fettschwalmen (Guácharos) lebt.",
       hu: "Lenyűgöző karsztbarlang a Tingo María Nemzeti Parkban, ahol a zsírfecskék (guácharos) nagy kolóniája él.",
@@ -921,9 +897,8 @@ image: "/poi-images/cueva-de-las-lechuzas-life-v2.webp"
       de: "Obstgärten des Mala-Tals",
       hu: "Mala-völgyi Gyümölcsösök",
       ro: "Livezile din Valea Mala",
-      en: "Mala Valley Orchards",
-image: "/poi-images/mala-valley-orchards-life-v2.webp"
-},
+      en: "Mala Valley Orchards"},
+    image: "/poi-images/mala-valley-orchards-life-v2.webp",
     description: {
       de: "Ein fruchtbares Flusstal südlich von Lima, das weithin für seine köstlichen Äpfel und peruanischen Tamales bekannt ist.",
       hu: "Limától délre fekvő termékeny folyóvölgy, amely széles körben ismert finom almájáról és perui tamales-éről.",
@@ -959,9 +934,8 @@ image: "/poi-images/mala-valley-orchards-life-v2.webp"
       de: "Botanischer Garten von Trujillo",
       hu: "Trujillo Botanikus Kert",
       ro: "Grădina Botanică din Trujillo",
-      en: "Trujillo Botanical Garden",
-image: "/poi-images/trujillo-botanical-garden-life-v2.webp"
-},
+      en: "Trujillo Botanical Garden"},
+    image: "/poi-images/trujillo-botanical-garden-life-v2.webp",
     description: {
       de: "Ein ruhiger städtischer Garten im Herzen von Trujillo, der heimische Pflanzen und kleine Tiere wie Pfauen beherbergt.",
       hu: "Nyugodt városi kert Trujillo szívében, amely őshonos növényeknek és kisebb állatoknak, például páváknak ad otthont.",
@@ -996,9 +970,8 @@ image: "/poi-images/trujillo-botanical-garden-life-v2.webp"
       de: "Spargelfarmen von Virú",
       hu: "Virú Spárgafarmok",
       ro: "Fermele de Sparanghel din Virú",
-      en: "Virú Asparagus Farms",
-image: "/poi-images/viru-asparagus-farms-life-v2.webp"
-},
+      en: "Virú Asparagus Farms"},
+    image: "/poi-images/viru-asparagus-farms-life-v2.webp",
     description: {
       de: "Ein hochmodernes Agrargebiet an der Küste, das Peru zu einem der weltweit größten Exporteure von Spargel gemacht hat.",
       hu: "Egy ultramodern tengerparti mezőgazdasági terület, amely Perut a világ egyik legnagyobb spárgaexportőrévé tette.",
@@ -1034,9 +1007,8 @@ image: "/poi-images/viru-asparagus-farms-life-v2.webp"
       de: "Quinoa-Felder in Puno",
       hu: "Puno Quinoaföldek",
       ro: "Câmpurile de Quinoa din Puno",
-      en: "Puno Quinoa Fields",
-image: "/poi-images/puno-quinoa-fields-life-v2.webp"
-},
+      en: "Puno Quinoa Fields"},
+    image: "/poi-images/puno-quinoa-fields-life-v2.webp",
     description: {
       de: "Die windgepeitschten Hochebenen rund um den Titicacasee sind das traditionelle Anbaugebiet des Anden-Superfoods Quinoa.",
       hu: "A Titicaca-tó körüli szeles fennsíkok az andoki szuperélelmiszer, a quinoa hagyományos termesztővidékei.",
@@ -1072,9 +1044,8 @@ image: "/poi-images/puno-quinoa-fields-life-v2.webp"
       de: "Schmetterlingshaus Machupicchu",
       hu: "Machupicchu Lepkeház",
       ro: "Casa Fluturilor din Machupicchu",
-      en: "Machupicchu Butterfly House",
-image: "/poi-images/machupicchu-butterfly-house-life-v2.webp"
-},
+      en: "Machupicchu Butterfly House"},
+    image: "/poi-images/machupicchu-butterfly-house-life-v2.webp",
     description: {
       de: "Ein Bildungszentrum und Schutzgebiet für Schmetterlinge in der Nähe der berühmten Ruinen, das den Lebenszyklus lokaler Arten zeigt.",
       hu: "Lepkék oktatási központja és védett területe a híres romok közelében, amely bemutatja a helyi fajok életciklusát.",
@@ -1110,9 +1081,8 @@ image: "/poi-images/machupicchu-butterfly-house-life-v2.webp"
       de: "Alpaka-Herden am Ausangate",
       hu: "Ausangate Alpakacsordák",
       ro: "Turmele de Alpaca de la Ausangate",
-      en: "Ausangate Alpaca Herds",
-image: "/poi-images/ausangate-alpaca-farms-life-v2.webp"
-},
+      en: "Ausangate Alpaca Herds"},
+    image: "/poi-images/ausangate-alpaca-farms-life-v2.webp",
     description: {
       de: "Die hochgelegenen Weiden rund um den heiligen Berg Ausangate sind das Herzstück der peruanischen Alpaka-Zucht.",
       hu: "A szent hegy, az Ausangate körüli magaslati legelők a perui alpakatenyésztés központja.",

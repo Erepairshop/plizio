@@ -7,9 +7,8 @@ export const poiExtraLibyaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "LY-TB",
     coords: [13.1913, 32.8872],
-    name: { de: "Tripolis", hu: "Tripoli", ro: "Tripoli", en: "Tripoli",
-image: "/poi-images/tripoli-cities-v2.webp"
-},
+    name: { de: "Tripolis", hu: "Tripoli", ro: "Tripoli", en: "Tripoli"},
+    image: "/poi-images/tripoli-cities-v2.webp",
     description: {
       de: "Die größte Stadt und Hauptstadt Libyens, malerisch an der Mittelmeerküste gelegen.",
       hu: "Líbia fővárosa és legnépesebb városa, amely a Földközi-tenger partján fekszik.",
@@ -39,9 +38,8 @@ image: "/poi-images/tripoli-cities-v2.webp"
     type: "city",
     parent: "LY-BA",
     coords: [20.0667, 32.1167],
-    name: { de: "Bengasi", hu: "Bengázi", ro: "Benghazi", en: "Benghazi",
-image: "/poi-images/benghazi-cities-v2.webp"
-},
+    name: { de: "Bengasi", hu: "Bengázi", ro: "Benghazi", en: "Benghazi"},
+    image: "/poi-images/benghazi-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes und das wichtigste Zentrum der ostlibyschen Region Kyrenaika.",
       hu: "Az ország második legnagyobb települése, a keleti Kirenaika régió legfőbb központja.",
@@ -71,9 +69,8 @@ image: "/poi-images/benghazi-cities-v2.webp"
     type: "city",
     parent: "LY-MI",
     coords: [15.0914, 32.3754],
-    name: { de: "Misrata", hu: "Miszráta", ro: "Misrata", en: "Misrata",
-image: "/poi-images/misrata-cities-v2.webp"
-},
+    name: { de: "Misrata", hu: "Miszráta", ro: "Misrata", en: "Misrata"},
+    image: "/poi-images/misrata-cities-v2.webp",
     description: {
       de: "Bedeutende Hafen- und Industriestadt in Tripolitanien, bekannt für ihren wirtschaftlichen Einfluss.",
       hu: "Fontos kikötő- és iparváros Tripolitániában, amely jelentős gazdasági befolyással bír.",
@@ -106,9 +103,8 @@ image: "/poi-images/misrata-cities-v2.webp"
     type: "city",
     parent: "LY-JA",
     coords: [21.7500, 32.7667],
-    name: { de: "Al-Baida", hu: "Al-Bajda", ro: "Al Bayda", en: "Al Bayda",
-image: "/poi-images/bayda-cities-v2.webp"
-},
+    name: { de: "Al-Baida", hu: "Al-Bajda", ro: "Al Bayda", en: "Al Bayda"},
+    image: "/poi-images/bayda-cities-v2.webp",
     description: {
       de: "Eine der wichtigsten Städte im Grünen Gebirge, umgeben von fruchtbarem Ackerland.",
       hu: "A Zöld-hegység egyik legfontosabb városa, amelyet termékeny mezőgazdasági területek vesznek körül.",
@@ -141,9 +137,8 @@ image: "/poi-images/bayda-cities-v2.webp"
     type: "city",
     parent: "LY-ZA",
     coords: [12.7278, 32.7522],
-    name: { de: "Zawia", hu: "Závija", ro: "Zawiya", en: "Zawiya",
-image: "/poi-images/zawiya-cities-v2.webp"
-},
+    name: { de: "Zawia", hu: "Závija", ro: "Zawiya", en: "Zawiya"},
+    image: "/poi-images/zawiya-cities-v2.webp",
     description: {
       de: "Eine bedeutende Stadt westlich der Hauptstadt mit einer stark ausgeprägten Erdölindustrie.",
       hu: "Jelentős város a fővárostól nyugatra, amely fejlett kőolajiparral rendelkezik.",
@@ -176,9 +171,8 @@ image: "/poi-images/zawiya-cities-v2.webp"
     type: "city",
     parent: "LY-MI",
     coords: [14.5667, 32.4667],
-    name: { de: "Zliten", hu: "Zliten", ro: "Zliten", en: "Zliten",
-image: "/poi-images/zliten-cities-v2.webp"
-},
+    name: { de: "Zliten", hu: "Zliten", ro: "Zliten", en: "Zliten"},
+    image: "/poi-images/zliten-cities-v2.webp",
     description: {
       de: "Küstenstadt am Mittelmeer, berühmt für ihre islamischen Bildungszentren und Moscheen.",
       hu: "Tengerparti város, amely híres az iszlám oktatási intézményeiről és mecseteiről.",
@@ -211,9 +205,8 @@ image: "/poi-images/zliten-cities-v2.webp"
     type: "city",
     parent: "LY-SR",
     coords: [16.5877, 31.2089],
-    name: { de: "Sirte", hu: "Szirt", ro: "Sirte", en: "Sirte",
-image: "/poi-images/sirte-cities-v2.webp"
-},
+    name: { de: "Sirte", hu: "Szirt", ro: "Sirte", en: "Sirte"},
+    image: "/poi-images/sirte-cities-v2.webp",
     description: {
       de: "Eine strategisch gelegene Stadt in der Mitte der libyschen Küste, direkt am gleichnamigen Golf.",
       hu: "Stratégiai elhelyezkedésű település a líbiai partvonal közepén, a Szidra-öböl partján.",
@@ -246,9 +239,8 @@ image: "/poi-images/sirte-cities-v2.webp"
     type: "city",
     parent: "LY-BU",
     coords: [23.9764, 32.0836],
-    name: { de: "Tobruk", hu: "Tobruk", ro: "Tobruk", en: "Tobruk",
-image: "/poi-images/tobruk-cities-v2.webp"
-},
+    name: { de: "Tobruk", hu: "Tobruk", ro: "Tobruk", en: "Tobruk"},
+    image: "/poi-images/tobruk-cities-v2.webp",
     description: {
       de: "Wichtige Hafenstadt nahe der ägyptischen Grenze, mit einem tiefen natürlichen Hafen.",
       hu: "Jelentős kikötőváros az egyiptomi határ közelében, amely mély, természetes kikötővel bír.",
@@ -281,9 +273,8 @@ image: "/poi-images/tobruk-cities-v2.webp"
     type: "city",
     parent: "LY-WA",
     coords: [20.2253, 30.7554],
-    name: { de: "Adschdabiya", hu: "Agedábia", ro: "Ajdabiya", en: "Ajdabiya",
-image: "/poi-images/ajdabiya-cities-v2.webp"
-},
+    name: { de: "Adschdabiya", hu: "Agedábia", ro: "Ajdabiya", en: "Ajdabiya"},
+    image: "/poi-images/ajdabiya-cities-v2.webp",
     description: {
       de: "Ein zentraler Knotenpunkt, der die Küstenregion mit dem Wüstenhinterland verbindet.",
       hu: "Központi csomópont, amely összeköti a part menti régiót a sivatagi hátországgal.",
@@ -316,9 +307,8 @@ image: "/poi-images/ajdabiya-cities-v2.webp"
     type: "city",
     parent: "LY-DR",
     coords: [22.6367, 32.7627],
-    name: { de: "Derna", hu: "Derna", ro: "Derna", en: "Derna",
-image: "/poi-images/derna-cities-v2.webp"
-},
+    name: { de: "Derna", hu: "Derna", ro: "Derna", en: "Derna"},
+    image: "/poi-images/derna-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt im Osten, bekannt für ihre grüne Umgebung und Wasserquellen.",
       hu: "Festői szépségű keleti város, amely zöldellő környezetéről és forrásairól híres.",
@@ -351,9 +341,8 @@ image: "/poi-images/derna-cities-v2.webp"
     type: "city",
     parent: "LY-SB",
     coords: [14.4283, 27.0377],
-    name: { de: "Sebha", hu: "Szabha", ro: "Sabha", en: "Sabha",
-image: "/poi-images/sabha-cities-v2.webp"
-},
+    name: { de: "Sebha", hu: "Szabha", ro: "Sabha", en: "Sabha"},
+    image: "/poi-images/sabha-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Fessan und das historische Zentrum im Südwesten des Landes.",
       hu: "Fezzán régió legnagyobb települése és az ország délnyugati részének történelmi központja.",
@@ -386,9 +375,8 @@ image: "/poi-images/sabha-cities-v2.webp"
     type: "city",
     parent: "LY-MB",
     coords: [14.2619, 32.6486],
-    name: { de: "Al-Chums", hu: "Al-Khums", ro: "Khoms", en: "Khoms",
-image: "/poi-images/khoms-cities-v2.webp"
-},
+    name: { de: "Al-Chums", hu: "Al-Khums", ro: "Khoms", en: "Khoms"},
+    image: "/poi-images/khoms-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt östlich von Tripolis, in direkter Nähe zu den Ruinen von Leptis Magna.",
       hu: "Tripolitól keletre fekvő tengerparti város, Leptis Magna romjainak közvetlen közelében.",
@@ -421,9 +409,8 @@ image: "/poi-images/khoms-cities-v2.webp"
     type: "city",
     parent: "LY-MI",
     coords: [13.9942, 31.7581],
-    name: { de: "Bani Walid", hu: "Bani Valíd", ro: "Bani Walid", en: "Bani Walid",
-image: "/poi-images/bani-walid-cities-v2.webp"
-},
+    name: { de: "Bani Walid", hu: "Bani Valíd", ro: "Bani Walid", en: "Bani Walid"},
+    image: "/poi-images/bani-walid-cities-v2.webp",
     description: {
       de: "Zentral gelegen in einem Wüstental, ist sie die Hochburg des Warfalla-Stammes.",
       hu: "Központi fekvésű település egy sivatagi völgyben, a Warfalla törzs fellegvára.",
@@ -456,9 +443,8 @@ image: "/poi-images/bani-walid-cities-v2.webp"
     type: "city",
     parent: "LY-KF",
     coords: [23.2981, 24.2075],
-    name: { de: "Al-Dschauf", hu: "Al-Kufra", ro: "Al Jawf", en: "Al Jawf (Kufra)",
-image: "/poi-images/kufra-cities-v2.webp"
-},
+    name: { de: "Al-Dschauf", hu: "Al-Kufra", ro: "Al Jawf", en: "Al Jawf (Kufra)"},
+    image: "/poi-images/kufra-cities-v2.webp",
     description: {
       de: "Eine der isoliertesten Städte der Welt, gelegen in einer riesigen Wüstenoase.",
       hu: "A világ egyik legelszigeteltebb városa, amely egy hatalmas sivatagi oázisban fekszik.",
@@ -491,9 +477,8 @@ image: "/poi-images/kufra-cities-v2.webp"
     type: "city",
     parent: "LY-MJ",
     coords: [20.8333, 32.5000],
-    name: { de: "Al-Mardsch", hu: "Al-Mardzs", ro: "Marj", en: "Marj",
-image: "/poi-images/marj-cities-v2.webp"
-},
+    name: { de: "Al-Mardsch", hu: "Al-Mardzs", ro: "Marj", en: "Marj"},
+    image: "/poi-images/marj-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt, die auf den Ruinen des antiken Barka erbaut wurde.",
       hu: "Mezőgazdasági jellegű város, amely az ókori Barka romjaira épült.",
@@ -526,9 +511,8 @@ image: "/poi-images/marj-cities-v2.webp"
     type: "city",
     parent: "LY-MB",
     coords: [13.6333, 32.4333],
-    name: { de: "Tarhuna", hu: "Tarhúna", ro: "Tarhuna", en: "Tarhuna",
-image: "/poi-images/tarhuna-cities-v2.webp"
-},
+    name: { de: "Tarhuna", hu: "Tarhúna", ro: "Tarhuna", en: "Tarhuna"},
+    image: "/poi-images/tarhuna-cities-v2.webp",
     description: {
       de: "Eine hochgelegene landwirtschaftliche Stadt, bekannt für ihre großen Olivenhaine.",
       hu: "Magasan fekvő mezőgazdasági város, amely kiterjedt olajfaligeteiről ismert.",
@@ -561,9 +545,8 @@ image: "/poi-images/tarhuna-cities-v2.webp"
     type: "city",
     parent: "LY-NQ",
     coords: [12.0833, 32.9333],
-    name: { de: "Zuwara", hu: "Zuára", ro: "Zuwara", en: "Zuwara",
-image: "/poi-images/zuwara-cities-v2.webp"
-},
+    name: { de: "Zuwara", hu: "Zuára", ro: "Zuwara", en: "Zuwara"},
+    image: "/poi-images/zuwara-cities-v2.webp",
     description: {
       de: "Kleine Hafenstadt im Nordwesten, in der noch traditionell Berberkultur gepflegt wird.",
       hu: "Északnyugati kis kikötőváros, ahol még ma is őrzik a hagyományos berber kultúrát.",
@@ -596,9 +579,8 @@ image: "/poi-images/zuwara-cities-v2.webp"
     type: "city",
     parent: "LY-JG",
     coords: [13.0167, 32.1667],
-    name: { de: "Gharyan", hu: "Garján", ro: "Gharyan", en: "Gharyan",
-image: "/poi-images/gharyan-cities-v2.webp"
-},
+    name: { de: "Gharyan", hu: "Garján", ro: "Gharyan", en: "Gharyan"},
+    image: "/poi-images/gharyan-cities-v2.webp",
     description: {
       de: "Zentrale Bergstadt im Dschabal Nafusa, berühmt für ihre unterirdischen Höhlenwohnungen.",
       hu: "A Nafúsza-hegység központi hegyvidéki városa, híres földalatti barlanglakásairól.",
@@ -631,9 +613,8 @@ image: "/poi-images/gharyan-cities-v2.webp"
     type: "city",
     parent: "LY-ZA",
     coords: [12.4853, 32.7933],
-    name: { de: "Sabratha", hu: "Szabráta", ro: "Sabratha", en: "Sabratha",
-image: "/poi-images/sabratha-cities-v2.webp"
-},
+    name: { de: "Sabratha", hu: "Szabráta", ro: "Sabratha", en: "Sabratha"},
+    image: "/poi-images/sabratha-cities-v2.webp",
     description: {
       de: "Moderne Stadt an der Küste, die direkt neben einem bedeutenden antiken Theater liegt.",
       hu: "Modern tengerparti város, amely egy jelentős ókori színház közvetlen közelében fekszik.",
@@ -666,9 +647,8 @@ image: "/poi-images/sabratha-cities-v2.webp"
     type: "city",
     parent: "LY-NQ",
     coords: [12.0561, 32.7303],
-    name: { de: "Al-Dschamil", hu: "Al-Dzsamíl", ro: "Al Jamil", en: "Al Jamil",
-image: "/poi-images/al-jamil-cities-v2.webp"
-},
+    name: { de: "Al-Dschamil", hu: "Al-Dzsamíl", ro: "Al Jamil", en: "Al Jamil"},
+    image: "/poi-images/al-jamil-cities-v2.webp",
     description: {
       de: "Eine wachsende Stadt im Westen des Landes, nahe der tunesischen Grenze.",
       hu: "Fejlődő város az ország nyugati részén, a tunéziai határ közelében.",
@@ -701,9 +681,8 @@ image: "/poi-images/al-jamil-cities-v2.webp"
     type: "city",
     parent: "LY-ZA",
     coords: [12.5714, 32.7567],
-    name: { de: "Surman", hu: "Szurmán", ro: "Surman", en: "Surman",
-image: "/poi-images/surman-cities-v2.webp"
-},
+    name: { de: "Surman", hu: "Szurmán", ro: "Surman", en: "Surman"},
+    image: "/poi-images/surman-cities-v2.webp",
     description: {
       de: "Eine ruhige Küstengemeinde, die zwischen Zawia und Sabratha eingebettet ist.",
       hu: "Csendes tengerparti közösség, amely Závija és Szabráta között fekszik.",
@@ -736,9 +715,8 @@ image: "/poi-images/surman-cities-v2.webp"
     type: "city",
     parent: "LY-JG",
     coords: [12.5256, 32.0628],
-    name: { de: "Jefren", hu: "Jafrán", ro: "Yefren", en: "Yefren",
-image: "/poi-images/yefren-cities-v2.webp"
-},
+    name: { de: "Jefren", hu: "Jafrán", ro: "Yefren", en: "Yefren"},
+    image: "/poi-images/yefren-cities-v2.webp",
     description: {
       de: "Eine bedeutende Bergstadt, die tief in der Tradition der Berberkultur verwurzelt ist.",
       hu: "Jelentős hegyi város, amely mélyen gyökerezik a berber kulturális hagyományokban.",
@@ -771,9 +749,8 @@ image: "/poi-images/yefren-cities-v2.webp"
     type: "city",
     parent: "LY-NL",
     coords: [10.9806, 31.8681],
-    name: { de: "Nalut", hu: "Nálút", ro: "Nalut", en: "Nalut",
-image: "/poi-images/nalut-cities-v2.webp"
-},
+    name: { de: "Nalut", hu: "Nálút", ro: "Nalut", en: "Nalut"},
+    image: "/poi-images/nalut-cities-v2.webp",
     description: {
       de: "Die westlichste größere Stadt der Bergregion, bekannt für ihren gut erhaltenen alten Speicherbau.",
       hu: "A hegyvidék legnyugatibb nagyobb városa, amely jól megőrzött régi gabonatárolójáról ismert.",
@@ -806,9 +783,8 @@ image: "/poi-images/nalut-cities-v2.webp"
     type: "city",
     parent: "LY-MQ",
     coords: [13.9167, 25.9167],
-    name: { de: "Mursuk", hu: "Murzuk", ro: "Murzuq", en: "Murzuq",
-image: "/poi-images/murzuq-cities-v2.webp"
-},
+    name: { de: "Mursuk", hu: "Murzuk", ro: "Murzuq", en: "Murzuq"},
+    image: "/poi-images/murzuq-cities-v2.webp",
     description: {
       de: "Eine Oasenstadt tief im Südwesten, einst ein Zentrum des Transsaharahandels.",
       hu: "Oázisváros mélyen a délnyugati részen, egykor a transzszaharai kereskedelem központja volt.",
@@ -841,9 +817,8 @@ image: "/poi-images/murzuq-cities-v2.webp"
     type: "city",
     parent: "LY-WD",
     coords: [12.7750, 26.5880],
-    name: { de: "Ubari", hu: "Ubári", ro: "Awbari", en: "Awbari (Ubari)",
-image: "/poi-images/awbari-cities-v2.webp"
-},
+    name: { de: "Ubari", hu: "Ubári", ro: "Awbari", en: "Awbari (Ubari)"},
+    image: "/poi-images/awbari-cities-v2.webp",
     description: {
       de: "Ein wichtiger Knotenpunkt in der Sahara, berühmt für die umliegenden Sanddünen und Seen.",
       hu: "Fontos szaharai csomópont, amely a környező homokdűnékről és tavakról híres.",
@@ -876,9 +851,8 @@ image: "/poi-images/awbari-cities-v2.webp"
     type: "city",
     parent: "LY-GT",
     coords: [10.1803, 24.9644],
-    name: { de: "Ghat", hu: "Gát", ro: "Ghat", en: "Ghat",
-image: "/poi-images/ghat-cities-v2.webp"
-},
+    name: { de: "Ghat", hu: "Gát", ro: "Ghat", en: "Ghat"},
+    image: "/poi-images/ghat-cities-v2.webp",
     description: {
       de: "Grenzstadt zu Algerien im tiefsten Süden, ein kulturelles Zentrum der Tuareg.",
       hu: "Határváros Algéria mellett a legdélebbi ponton, a tuareg kultúra egyik központja.",
@@ -911,9 +885,8 @@ image: "/poi-images/ghat-cities-v2.webp"
     type: "city",
     parent: "LY-NL",
     coords: [9.5000, 30.1333],
-    name: { de: "Ghadames", hu: "Gadamész", ro: "Ghadames", en: "Ghadames",
-image: "/poi-images/ghadames-cities-v2.webp"
-},
+    name: { de: "Ghadames", hu: "Gadamész", ro: "Ghadames", en: "Ghadames"},
+    image: "/poi-images/ghadames-cities-v2.webp",
     description: {
       de: "Die 'Perle der Wüste', eine UNESCO-geschützte Oasenstadt mit einzigartiger Architektur.",
       hu: "A 'sivatag gyöngyeként' is ismert, UNESCO-védelem alatt álló, egyedi építészetű oázisváros.",
@@ -946,9 +919,8 @@ image: "/poi-images/ghadames-cities-v2.webp"
     type: "city",
     parent: "LY-JU",
     coords: [15.9477, 29.1268],
-    name: { de: "Hun", hu: "Hún", ro: "Hun", en: "Hun",
-image: "/poi-images/hun-cities-v2.webp"
-},
+    name: { de: "Hun", hu: "Hún", ro: "Hun", en: "Hun"},
+    image: "/poi-images/hun-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Jufra-Distrikts, umgeben von schwarzen Bergen und Wüste.",
       hu: "A Dzsufra régió központja, amelyet fekete hegyek és a sivatag ölel körbe.",
@@ -981,9 +953,8 @@ image: "/poi-images/hun-cities-v2.webp"
     type: "city",
     parent: "LY-JU",
     coords: [16.1394, 29.1622],
-    name: { de: "Waddan", hu: "Vaddán", ro: "Waddan", en: "Waddan",
-image: "/poi-images/waddan-cities-v2.webp"
-},
+    name: { de: "Waddan", hu: "Vaddán", ro: "Waddan", en: "Waddan"},
+    image: "/poi-images/waddan-cities-v2.webp",
     description: {
       de: "Die älteste Stadt in der Jufra-Oase mit tiefen historischen Wurzeln.",
       hu: "A Dzsufra-oázis legrégebbi városa, amely mély történelmi gyökerekkel rendelkezik.",
@@ -1016,9 +987,8 @@ image: "/poi-images/waddan-cities-v2.webp"
     type: "city",
     parent: "LY-WS",
     coords: [14.2667, 27.5333],
-    name: { de: "Brak", hu: "Brak", ro: "Brak", en: "Brak",
-image: "/poi-images/brak-cities-v2.webp"
-},
+    name: { de: "Brak", hu: "Brak", ro: "Brak", en: "Brak"},
+    image: "/poi-images/brak-cities-v2.webp",
     description: {
       de: "Zentrum des Tals Wadi al-Shatii, geprägt von landwirtschaftlicher Entwicklung.",
       hu: "A Vádi as-Sati völgy központja, amelyet a mezőgazdasági fejlődés jellemez.",
@@ -1051,9 +1021,8 @@ image: "/poi-images/brak-cities-v2.webp"
     type: "city",
     parent: "LY-MQ",
     coords: [14.6467, 24.9272],
-    name: { de: "Al-Qatrun", hu: "Al-Katrún", ro: "Al Qatrun", en: "Al Qatrun",
-image: "/poi-images/al-qatrun-cities-v2.webp"
-},
+    name: { de: "Al-Qatrun", hu: "Al-Katrún", ro: "Al Qatrun", en: "Al Qatrun"},
+    image: "/poi-images/al-qatrun-cities-v2.webp",
     description: {
       de: "Ein kleiner, aber strategisch wichtiger Außenposten auf dem Weg in den Tschad.",
       hu: "Kicsi, de stratégiailag fontos előretolt helyőrség a Csád felé vezető úton.",
@@ -1086,9 +1055,8 @@ image: "/poi-images/al-qatrun-cities-v2.webp"
     type: "city",
     parent: "LY-JG",
     coords: [12.2536, 31.9317],
-    name: { de: "Sintan", hu: "Zintán", ro: "Zintan", en: "Zintan",
-image: "/poi-images/zintan-cities-v2.webp"
-},
+    name: { de: "Sintan", hu: "Zintán", ro: "Zintan", en: "Zintan"},
+    image: "/poi-images/zintan-cities-v2.webp",
     description: {
       de: "Eine Hochburg im Nafusa-Gebirge, die eine einflussreiche Rolle in der jüngeren Geschichte spielte.",
       hu: "A Nafúsza-hegység egyik fellegvára, amely jelentős szerepet játszott a közelmúlt történelmében.",
@@ -1121,9 +1089,8 @@ image: "/poi-images/zintan-cities-v2.webp"
     type: "city",
     parent: "LY-JG",
     coords: [12.9803, 31.4453],
-    name: { de: "Mizda", hu: "Mizda", ro: "Mizdah", en: "Mizda",
-image: "/poi-images/mizda-cities-v2.webp"
-},
+    name: { de: "Mizda", hu: "Mizda", ro: "Mizdah", en: "Mizda"},
+    image: "/poi-images/mizda-cities-v2.webp",
     description: {
       de: "Ein Verbindungspunkt zwischen den Bergen des Nordens und den Weiten des Fessan.",
       hu: "Kapocs az északi hegyvidékek és a Fezzán hatalmas kiterjedésű területei között.",
@@ -1156,9 +1123,8 @@ image: "/poi-images/mizda-cities-v2.webp"
     type: "city",
     parent: "LY-JA",
     coords: [21.8542, 32.8236],
-    name: { de: "Schahat", hu: "Sahat", ro: "Shahhat", en: "Shahhat",
-image: "/poi-images/shahhat-cities-v2.webp"
-},
+    name: { de: "Schahat", hu: "Sahat", ro: "Shahhat", en: "Shahhat"},
+    image: "/poi-images/shahhat-cities-v2.webp",
     description: {
       de: "Moderne Siedlung direkt neben den majestätischen Ruinen der antiken Stadt Kyrene.",
       hu: "Modern település az ókori Küréné fenséges romjai mellett.",
@@ -1191,9 +1157,8 @@ image: "/poi-images/shahhat-cities-v2.webp"
     type: "city",
     parent: "LY-JA",
     coords: [21.9678, 32.8986],
-    name: { de: "Susa", hu: "Szúsza", ro: "Susa", en: "Susa",
-image: "/poi-images/susa-cities-v2.webp"
-},
+    name: { de: "Susa", hu: "Szúsza", ro: "Susa", en: "Susa"},
+    image: "/poi-images/susa-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt im Nordosten, bekannt als das antike Apollonia.",
       hu: "Északkeleti tengerparti város, amelyet az ókorban Apollónia néven ismertek.",
@@ -1226,9 +1191,8 @@ image: "/poi-images/susa-cities-v2.webp"
     type: "city",
     parent: "LY-WA",
     coords: [21.5500, 29.0333],
-    name: { de: "Dschalu", hu: "Dzsálú", ro: "Jalu", en: "Jalu",
-image: "/poi-images/jalu-cities-v2.webp"
-},
+    name: { de: "Dschalu", hu: "Dzsálú", ro: "Jalu", en: "Jalu"},
+    image: "/poi-images/jalu-cities-v2.webp",
     description: {
       de: "Zentrum der bedeutenden Oasengruppe in der libyschen Wüste im Osten.",
       hu: "A keleti líbiai sivatag egyik legjelentősebb oáziscsoportjának központja.",
@@ -1261,9 +1225,8 @@ image: "/poi-images/jalu-cities-v2.webp"
     type: "city",
     parent: "LY-WA",
     coords: [21.2833, 29.1333],
-    name: { de: "Audschila", hu: "Audzsila", ro: "Awjila", en: "Awjila",
-image: "/poi-images/awjila-cities-v2.webp"
-},
+    name: { de: "Audschila", hu: "Audzsila", ro: "Awjila", en: "Awjila"},
+    image: "/poi-images/awjila-cities-v2.webp",
     description: {
       de: "Eine der ältesten Oasensiedlungen in Nordafrika mit außergewöhnlicher Lehmarchitektur.",
       hu: "Észak-Afrika egyik legrégebbi oázistelepülése, kivételes vályogépítészettel.",
@@ -1296,9 +1259,8 @@ image: "/poi-images/awjila-cities-v2.webp"
     type: "city",
     parent: "LY-JU",
     coords: [17.5833, 28.5333],
-    name: { de: "Zillah", hu: "Zella", ro: "Zella", en: "Zella",
-image: "/poi-images/zella-cities-v2.webp"
-},
+    name: { de: "Zillah", hu: "Zella", ro: "Zella", en: "Zella"},
+    image: "/poi-images/zella-cities-v2.webp",
     description: {
       de: "Eine isolierte Oase im Herzen des Sirtica-Beckens.",
       hu: "Elszigetelt oázis a Szirtika-medence szívében.",
@@ -1331,9 +1293,8 @@ image: "/poi-images/zella-cities-v2.webp"
     type: "city",
     parent: "LY-JU",
     coords: [15.7833, 29.0667],
-    name: { de: "Sukna", hu: "Szokna", ro: "Sokna", en: "Sokna",
-image: "/poi-images/sokna-cities-v2.webp"
-},
+    name: { de: "Sukna", hu: "Szokna", ro: "Sokna", en: "Sokna"},
+    image: "/poi-images/sokna-cities-v2.webp",
     description: {
       de: "Ein ruhiges Zentrum im Jufra-Distrikt, reich an Palmen und Traditionen.",
       hu: "Csendes központ a Dzsufra körzetben, amely pálmákban és hagyományokban gazdag.",
@@ -1366,9 +1327,8 @@ image: "/poi-images/sokna-cities-v2.webp"
     type: "city",
     parent: "LY-NL",
     coords: [11.3500, 32.0167],
-    name: { de: "Tiji", hu: "Tidzsi", ro: "Tiji", en: "Tiji",
-image: "/poi-images/tiji-cities-v2.webp"
-},
+    name: { de: "Tiji", hu: "Tidzsi", ro: "Tiji", en: "Tiji"},
+    image: "/poi-images/tiji-cities-v2.webp",
     description: {
       de: "Eine typische kleine Siedlung am Fuße der Nafusa-Berge.",
       hu: "Jellegzetes kis település a Nafúsza-hegység lábánál.",
@@ -1401,9 +1361,8 @@ image: "/poi-images/tiji-cities-v2.webp"
     type: "city",
     parent: "LY-NL",
     coords: [10.5167, 31.9333],
-    name: { de: "Wazin", hu: "Vázin", ro: "Wazin", en: "Wazin",
-image: "/poi-images/wazin-cities-v2.webp"
-},
+    name: { de: "Wazin", hu: "Vázin", ro: "Wazin", en: "Wazin"},
+    image: "/poi-images/wazin-cities-v2.webp",
     description: {
       de: "Der wichtigste Grenzübergang auf dem Landweg zwischen Libyen und Tunesien.",
       hu: "A legfontosabb szárazföldi határátkelőhely Líbia és Tunézia között.",
@@ -1436,9 +1395,8 @@ image: "/poi-images/wazin-cities-v2.webp"
     type: "city",
     parent: "LY-MJ",
     coords: [20.5967, 32.1900],
-    name: { de: "Al-Abjar", hu: "Al-Abjár", ro: "Al Abyar", en: "Al Abyar",
-image: "/poi-images/al-abyar-cities-v2.webp"
-},
+    name: { de: "Al-Abjar", hu: "Al-Abjár", ro: "Al Abyar", en: "Al Abyar"},
+    image: "/poi-images/al-abyar-cities-v2.webp",
     description: {
       de: "Ein landwirtschaftlicher Knotenpunkt östlich von Bengasi im fruchtbaren Hochland.",
       hu: "Mezőgazdasági csomópont Bengázitól keletre a termékeny felvidéken.",
@@ -1471,9 +1429,8 @@ image: "/poi-images/al-abyar-cities-v2.webp"
     type: "city",
     parent: "LY-BA",
     coords: [20.2500, 31.6667],
-    name: { de: "Suluq", hu: "Szulúk", ro: "Suluq", en: "Suluq",
-image: "/poi-images/suluq-cities-v2.webp"
-},
+    name: { de: "Suluq", hu: "Szulúk", ro: "Suluq", en: "Suluq"},
+    image: "/poi-images/suluq-cities-v2.webp",
     description: {
       de: "Eine ländliche Stadt südlich von Bengasi mit großer historischer Bedeutung.",
       hu: "Vidéki város Bengázitól délre, amely nagy történelmi jelentőséggel bír.",
@@ -1506,9 +1463,8 @@ image: "/poi-images/suluq-cities-v2.webp"
     type: "city",
     parent: "LY-BA",
     coords: [20.0053, 31.6739],
-    name: { de: "Qaminis", hu: "Kaminisz", ro: "Qaminis", en: "Qaminis",
-image: "/poi-images/qaminis-cities-v2.webp"
-},
+    name: { de: "Qaminis", hu: "Kaminisz", ro: "Qaminis", en: "Qaminis"},
+    image: "/poi-images/qaminis-cities-v2.webp",
     description: {
       de: "Kleine landwirtschaftliche Siedlung in der Region Bengasi, nahe der Mittelmeerküste.",
       hu: "Kis mezőgazdasági település a Bengázi régióban, a Földközi-tenger partjának közelében.",
@@ -1541,9 +1497,8 @@ image: "/poi-images/qaminis-cities-v2.webp"
     type: "city",
     parent: "LY-MJ",
     coords: [20.5753, 32.5367],
-    name: { de: "Taucheira", hu: "Tukrah", ro: "Tukrah", en: "Tukrah",
-image: "/poi-images/tukrah-cities-v2.webp"
-},
+    name: { de: "Taucheira", hu: "Tukrah", ro: "Tukrah", en: "Tukrah"},
+    image: "/poi-images/tukrah-cities-v2.webp",
     description: {
       de: "Eine antike griechische Küstenstadt, deren Ruinen direkt am modernen Ortskern liegen.",
       hu: "Ókori görög tengerparti város, melynek romjai közvetlenül a modern központ mellett találhatók.",
@@ -1576,9 +1531,8 @@ image: "/poi-images/tukrah-cities-v2.webp"
     type: "city",
     parent: "LY-BA",
     coords: [20.2667, 32.0833],
-    name: { de: "Benina", hu: "Benina", ro: "Benina", en: "Benina",
-image: "/poi-images/benina-cities-v2.webp"
-},
+    name: { de: "Benina", hu: "Benina", ro: "Benina", en: "Benina"},
+    image: "/poi-images/benina-cities-v2.webp",
     description: {
       de: "Ein Vorort von Bengasi, der vor allem als Standort des internationalen Flughafens bekannt ist.",
       hu: "Bengázi elővárosa, amely elsősorban nemzetközi repülőteréről ismert.",
@@ -1611,9 +1565,8 @@ image: "/poi-images/benina-cities-v2.webp"
     type: "city",
     parent: "LY-MJ",
     coords: [20.9833, 32.3167],
-    name: { de: "Dschardas al-Ahrar", hu: "Dzsardasz al-Ahrár", ro: "Jardas al Ahrar", en: "Jardas al Ahrar",
-image: "/poi-images/jardas-al-ahrar-cities-v2.webp"
-},
+    name: { de: "Dschardas al-Ahrar", hu: "Dzsardasz al-Ahrár", ro: "Jardas al Ahrar", en: "Jardas al Ahrar"},
+    image: "/poi-images/jardas-al-ahrar-cities-v2.webp",
     description: {
       de: "Eine kleine ländliche Ortschaft im Bezirk Marj mit Fokus auf Viehzucht.",
       hu: "Kis vidéki település Mardzs körzetben, amelynek fókuszában az állattenyésztés áll.",
@@ -1646,9 +1599,8 @@ image: "/poi-images/jardas-al-ahrar-cities-v2.webp"
     type: "city",
     parent: "LY-JA",
     coords: [21.6500, 32.7333],
-    name: { de: "Massa", hu: "Masza", ro: "Masa", en: "Masa",
-image: "/poi-images/masa-cities-v2.webp"
-},
+    name: { de: "Massa", hu: "Masza", ro: "Masa", en: "Masa"},
+    image: "/poi-images/masa-cities-v2.webp",
     description: {
       de: "Eine ruhige Siedlung im Dschabal al-Achdar, bekannt für grüne Landschaften.",
       hu: "Csendes település a Zöld-hegységben, amely zöldellő tájairól ismert.",
@@ -1681,9 +1633,8 @@ image: "/poi-images/masa-cities-v2.webp"
     type: "city",
     parent: "LY-DR",
     coords: [22.7167, 32.5667],
-    name: { de: "Martuba", hu: "Martuba", ro: "Martuba", en: "Martuba",
-image: "/poi-images/martuba-cities-v2.webp"
-},
+    name: { de: "Martuba", hu: "Martuba", ro: "Martuba", en: "Martuba"},
+    image: "/poi-images/martuba-cities-v2.webp",
     description: {
       de: "Bekannt durch den ehemaligen Militärflugplatz aus dem Zweiten Weltkrieg.",
       hu: "A második világháborús egykori katonai repülőteréről ismert település.",
@@ -1716,9 +1667,8 @@ image: "/poi-images/martuba-cities-v2.webp"
     type: "city",
     parent: "LY-DR",
     coords: [23.0167, 32.4833],
-    name: { de: "Umm ar-Rizam", hu: "Umm al-Rizám", ro: "Umm al Rizam", en: "Umm al Rizam",
-image: "/poi-images/umm-al-rizam-cities-v2.webp"
-},
+    name: { de: "Umm ar-Rizam", hu: "Umm al-Rizám", ro: "Umm al Rizam", en: "Umm al Rizam"},
+    image: "/poi-images/umm-al-rizam-cities-v2.webp",
     description: {
       de: "Ein Dorf im Osten der Kyrenaika, das traditionell vom Handel lebt.",
       hu: "Falu Kirenaika keleti részén, amely hagyományosan kereskedelemből él.",
@@ -1751,9 +1701,8 @@ image: "/poi-images/umm-al-rizam-cities-v2.webp"
     type: "city",
     parent: "LY-BU",
     coords: [24.3167, 31.9167],
-    name: { de: "Kambut", hu: "Kambut", ro: "Kambut", en: "Kambut",
-image: "/poi-images/kambut-cities-v2.webp"
-},
+    name: { de: "Kambut", hu: "Kambut", ro: "Kambut", en: "Kambut"},
+    image: "/poi-images/kambut-cities-v2.webp",
     description: {
       de: "Eine der östlichsten Siedlungen Libyens in der Nähe von Tobruk.",
       hu: "Líbia egyik legkeletibb települése Tobruk közelében.",
@@ -1786,9 +1735,8 @@ image: "/poi-images/kambut-cities-v2.webp"
     type: "city",
     parent: "LY-BU",
     coords: [24.5167, 29.7500],
-    name: { de: "Al-Dschaghbub", hu: "Dzsagbúb", ro: "Jaghbub", en: "Jaghbub",
-image: "/poi-images/jaghbub-cities-v2.webp"
-},
+    name: { de: "Al-Dschaghbub", hu: "Dzsagbúb", ro: "Jaghbub", en: "Jaghbub"},
+    image: "/poi-images/jaghbub-cities-v2.webp",
     description: {
       de: "Eine isolierte Oase im äußersten Osten, nahe der ägyptischen Oase Siwa.",
       hu: "Elszigetelt oázis a legkeletibb részen, az egyiptomi Szíva-oázis közelében.",
@@ -1821,9 +1769,8 @@ image: "/poi-images/jaghbub-cities-v2.webp"
     type: "city",
     parent: "LY-TB",
     coords: [13.1811, 32.6781],
-    name: { de: "Qasr bin Ghaschir", hu: "Kaszr bin Gásir", ro: "Qasr bin Ghashir", en: "Qasr bin Ghashir",
-image: "/poi-images/qasr-bin-ghashir-cities-v2.webp"
-},
+    name: { de: "Qasr bin Ghaschir", hu: "Kaszr bin Gásir", ro: "Qasr bin Ghashir", en: "Qasr bin Ghashir"},
+    image: "/poi-images/qasr-bin-ghashir-cities-v2.webp",
     description: {
       de: "Südlicher Vorort von Tripolis, der durch den internationalen Flughafen dominiert wird.",
       hu: "Tripoli déli elővárosa, amelyet a nemzetközi repülőtér ural.",
@@ -1856,9 +1803,8 @@ image: "/poi-images/qasr-bin-ghashir-cities-v2.webp"
     type: "city",
     parent: "LY-TB",
     coords: [13.3422, 32.8817],
-    name: { de: "Tadschura", hu: "Tadzsúra", ro: "Tajoura", en: "Tajoura",
-image: "/poi-images/tajoura-cities-v2.webp"
-},
+    name: { de: "Tadschura", hu: "Tadzsúra", ro: "Tajoura", en: "Tajoura"},
+    image: "/poi-images/tajoura-cities-v2.webp",
     description: {
       de: "Östlicher Vorort der Hauptstadt, bekannt für sein nukleares Forschungszentrum.",
       hu: "A főváros keleti elővárosa, amely nukleáris kutatóközpontjáról ismert.",
@@ -1891,9 +1837,8 @@ image: "/poi-images/tajoura-cities-v2.webp"
     type: "city",
     parent: "LY-MB",
     coords: [14.0044, 32.5833],
-    name: { de: "Msallata", hu: "Mszalláta", ro: "Msallata", en: "Msallata",
-image: "/poi-images/msallata-cities-v2.webp"
-},
+    name: { de: "Msallata", hu: "Mszalláta", ro: "Msallata", en: "Msallata"},
+    image: "/poi-images/msallata-cities-v2.webp",
     description: {
       de: "Eine Hügelstadt in Tripolitanien, umgeben von zahllosen alten Olivenbäumen.",
       hu: "Dombvidéki város Tripolitániában, amelyet számtalan öreg olajfa vesz körül.",
@@ -1926,9 +1871,8 @@ image: "/poi-images/msallata-cities-v2.webp"
     type: "city",
     parent: "LY-ZA",
     coords: [12.3789, 32.7561],
-    name: { de: "Al-Adscha'ilat", hu: "Al-Adzsajlát", ro: "Al Ajaylat", en: "Al Ajaylat",
-image: "/poi-images/al-ajaylat-cities-v2.webp"
-},
+    name: { de: "Al-Adscha'ilat", hu: "Al-Adzsajlát", ro: "Al Ajaylat", en: "Al Ajaylat"},
+    image: "/poi-images/al-ajaylat-cities-v2.webp",
     description: {
       de: "Landwirtschaftliches Zentrum im Nordwesten, das das Umland mit Gütern versorgt.",
       hu: "Északnyugati mezőgazdasági központ, amely a környéket látja el árukkal.",
@@ -1961,9 +1905,8 @@ image: "/poi-images/al-ajaylat-cities-v2.webp"
     type: "city",
     parent: "LY-DR",
     coords: [22.2833, 32.7500],
-    name: { de: "Al-Quba", hu: "Al-Kuba", ro: "Al Qubbah", en: "Al Qubbah",
-image: "/poi-images/al-qubbah-cities-v2.webp"
-},
+    name: { de: "Al-Quba", hu: "Al-Kuba", ro: "Al Qubbah", en: "Al Qubbah"},
+    image: "/poi-images/al-qubbah-cities-v2.webp",
     description: {
       de: "Die größte Stadt zwischen Derna und Al-Baida in der Kyrenaika.",
       hu: "Derna és Al-Bajda közötti legnagyobb város Kirenaikában.",
@@ -1996,9 +1939,8 @@ image: "/poi-images/al-qubbah-cities-v2.webp"
     type: "city",
     parent: "LY-NL",
     coords: [11.5500, 32.0500],
-    name: { de: "Badr", hu: "Badr", ro: "Badr", en: "Badr",
-image: "/poi-images/badr-cities-v2.webp"
-},
+    name: { de: "Badr", hu: "Badr", ro: "Badr", en: "Badr"},
+    image: "/poi-images/badr-cities-v2.webp",
     description: {
       de: "Ein ruhiges Bergdorf, das von der Viehzucht und Landwirtschaft lebt.",
       hu: "Csendes hegyi falu, amely állattenyésztésből és földművelésből él.",
@@ -2031,9 +1973,8 @@ image: "/poi-images/badr-cities-v2.webp"
     type: "city",
     parent: "LY-BA",
     coords: [19.9167, 31.4167],
-    name: { de: "Al-Makrun", hu: "Al-Makrún", ro: "Al Magrun", en: "Al Magrun",
-image: "/poi-images/al-magrun-cities-v2.webp"
-},
+    name: { de: "Al-Makrun", hu: "Al-Makrún", ro: "Al Magrun", en: "Al Magrun"},
+    image: "/poi-images/al-magrun-cities-v2.webp",
     description: {
       de: "Ein kleiner Küstenort am Golf von Sidra, geprägt von Fischerei.",
       hu: "Kis tengerparti település a Szidra-öbölben, amelyet a halászat határoz meg.",
@@ -2066,9 +2007,8 @@ image: "/poi-images/al-magrun-cities-v2.webp"
     type: "city",
     parent: "LY-JA",
     coords: [21.5667, 32.4833],
-    name: { de: "Qandulah", hu: "Kandula", ro: "Qandulah", en: "Qandulah",
-image: "/poi-images/qandulah-cities-v2.webp"
-},
+    name: { de: "Qandulah", hu: "Kandula", ro: "Qandulah", en: "Qandulah"},
+    image: "/poi-images/qandulah-cities-v2.webp",
     description: {
       de: "Landwirtschaftlich geprägtes Dorf im Hochland des Dschabal al-Achdar.",
       hu: "Mezőgazdasági jellegű falu a Zöld-hegység fennsíkján.",

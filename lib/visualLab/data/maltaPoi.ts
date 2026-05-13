@@ -443,24 +443,6 @@ export const maltaPoi: POI[] = [
       en: ["UNESCO World Heritage site", "Provided crucial info on Neolithic life", "Consists of two temple units"]
     }
   },
-  {
-    id: "poi-mt-ghajn-tuffieha",
-    name: { de: "Għajn Tuffieħa Bay", hu: "Għajn Tuffieħa-öböl", ro: "Golful Għajn Tuffieħa", en: "Għajn Tuffieħa Bay" },
-    type: "landmark",
-    parent: "MT-009",
-    coords: [14.3444, 35.93],
-    description: {
-      de: "Eine unberührte Bucht mit rötlichem Sand.",
-      hu: "Érintetlen öböl vöröses homokkal.",
-      ro: "Un golf virgin cu nisip roșiatic.",
-      en: "An untouched bay with reddish sand and clay cliffs."
-    },
-    facts: {
-      de: ["Erreichbar über 200 Stufen", "Weniger überlaufen als Golden Bay", "Beliebt für Sonnenuntergänge"],
-      hu: ["Több mint 200 lépcsőn érhető el", "Kevésbé zsúfolt, mint a Golden Bay", "Népszerű naplemente-néző hely"],
-      ro: ["Accesibil prin 200 de trepte", "Mai puțin aglomerat decât Golden Bay", "Popular pentru apusuri"],
-      en: ["Accessed via 200 steps", "Less crowded than Golden Bay", "Famous for beautiful sunsets"]
-    }, image: "/poi-images/poi-mt-ghajn-tuffieha.webp"},
 
   // MT-010 Rabat
   {
@@ -894,25 +876,6 @@ export const maltaPoi: POI[] = [
     }, image: "/poi-images/poi-mt-sanap-cliffs.webp"},
 
   // MT-023 Sannat
-  {
-    id: "poi-mt-tacenc",
-    name: { de: "Ta' Ċenċ Klippen", hu: "Ta' Ċenċ-sziklák", ro: "Stâncile Ta' Ċenċ", en: "Ta' Ċenċ Cliffs" },
-    type: "landmark",
-    parent: "MT-023",
-    coords: [14.2528, 36.0183],
-    description: {
-      de: "Die höchsten Klippen auf Gozo.",
-      hu: "Gozo legmagasabb sziklái.",
-      ro: "Cele mai înalte stânci din Gozo.",
-      en: "The highest cliffs on the island of Gozo."
-    },
-    facts: {
-      de: ["Wichtiges Vogelgebiet", "Prähistorische Dolmen in der Nähe", "130 Meter hoch"],
-      hu: ["Fontos madárvédelmi terület", "Prehisztorikus dolmenek a közelben", "130 méter magas"],
-      ro: ["Zonă importantă pentru păsări", "Dolmene preistorice în apropiere", "130 metri înălțime"],
-      en: ["Important Bird Area", "Near prehistoric dolmens", "Rise to 130 meters above sea level"]
-    }
-  },
   {
     id: "poi-mt-mgarr-ix-xini",
     name: { de: "Mġarr ix-Xini", hu: "Mġarr ix-Xini", ro: "Mġarr ix-Xini", en: "Mġarr ix-Xini" },

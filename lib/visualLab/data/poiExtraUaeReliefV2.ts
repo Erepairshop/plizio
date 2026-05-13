@@ -6,304 +6,539 @@ export const poiExtraUaeReliefV2: POI[] = [
     type: "mountain",
     parent: "AE-FU",
     coords: [56.1000, 25.3000],
-    name: { de: "Hadschar-Gebirge", hu: "Hadzsar-hegység", ro: "Munții Hajar", en: "Al Hajar Mountains",
-image: "/poi-images/al-hajar-mountains-relief-v2.webp"
-},
+    name: { de: "Hadschar-Gebirge", hu: "Hadzsar-hegység", ro: "Munții Hajar", en: "Al Hajar Mountains"},
+    image: "/poi-images/al-hajar-mountains-relief-v2.webp",
     description: { de: "Das höchste Gebirge auf der Arabischen Halbinsel, das sich durch die östlichen VAE zieht.", hu: "Az Arab-félsziget legmagasabb hegysége, amely az EAE keleti részén húzódik végig.", ro: "Cel mai înalt lanț muntos din Peninsula Arabică, traversând estul EAU.", en: "The highest mountain range in the Arabian Peninsula, stretching through the eastern UAE." },
     facts: {
       de: ["Höchstes Gebirge in den VAE.", "Besteht hauptsächlich aus Kalkstein.", "Beliebt für Wandern und Klettern.", "Reich an Wadis."],
       hu: ["Az EAE legmagasabb hegysége.", "Főként mészkőből áll.", "Népszerű a túrázók és hegymászók körében.", "Vádikban gazdag terület."],
       ro: ["Cei mai înalți munți din EAU.", "Formați în principal din calcar.", "Populați printre drumeți și alpiniști.", "Bogați în wadi-uri."],
       en: ["Highest mountain range in the UAE.", "Mainly composed of limestone.", "Popular for hiking and rock climbing.", "Rich in wadis."]
-    }, image: "/poi-images/al-hajar-mountains-relief-v2.webp"},
+    }, image: "/poi-images/al-hajar-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Hadschar-Gebirge erstrecken sich über etwa 700 km von der Musandam-Halbinsel bis zum östlichen Teil der Vereinigten Arabischen Emirate. Der höchste Gipfel, der Dschabal Schams, erreicht eine Höhe von 2.999 Metern. Die Berge bestehen hauptsächlich aus ophiolithischem Gestein, das vor etwa 90 Millionen Jahren durch tektonische Aktivitäten an die Oberfläche gelangte. Diese Region ist geprägt von tiefen Wadis und steilen Klippen, die durch Erosion entstanden sind.",
+      hu: "Az al-Hadzsar-hegység az Arab-félsziget északkeleti részén húzódik, és mintegy 500 kilométer hosszan nyúlik el Ománban és az Egyesült Arab Emírségekben. A hegylánc változatos élővilágának otthont adó mikroklimatikus zónákat hoz létre: a magasabb régiókban a hőmérséklet jelentősen alacsonyabb, mint a környező sivatagokban, ami lehetővé teszi a ritka növényfajok, például a vadon élő olajfák fennmaradását. A terület fontos vízgyűjtő terület, ahol a monszunesők táplálják a földalatti vízkészleteket.",
+      ro: "Munții Al Hajar constituie o barieră naturală care separă coasta Golfului Oman de deșertul interior. Din punct de vedere istoric, aceștia au fost o rută comercială importantă, iar în văile lor s-au dezvoltat așezări umane de mii de ani. Cele mai vechi urme de locuire datează din epoca bronzului, cu situri arheologice precum cel de la Bat. De asemenea, regiunea este cunoscută pentru terasele agricole tradiționale, construit pentru a capta apa de ploaie, utilizate de secole de comunitățile locale.",
+      en: "The Al Hajar Mountains are a prominent mountain range in northeastern Oman and the United Arab Emirates, stretching approximately 700 kilometers from the Musandam Peninsula to the eastern UAE. The range is primarily composed of ophiolite, a slice of oceanic crust and upper mantle thrust onto continental crust. It forms a critical watershed, with wadis channeling seasonal rainfall into aquifers. The highest peak, Jebel Shams, reaches 2,999 meters. The mountains are largely uninhabited except for small villages in wadis, and they serve as a biodiversity hotspot with endemic species like the Arabian tahr.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 700 km", "Höchster Gipfel: Dschabal Schams, 2999 m", "Gesteinsart: Ophiolith, Alter ca. 90 Mio. Jahre", "Fläche: ca. 50.000 km²", "Durchschnittliche Niederschlagsmenge: 100-300 mm pro Jahr", "Endemische Arten: Arabischer Tahr (Arabitragus jayakari), Population <2500"],
+      hu: ["Teljes hossz: kb. 500 km", "Legmagasabb pont: Jebel Shams, 2999 m", "Kor: a késő kréta időszakban, kb. 90 millió éve keletkezett", "Legszélesebb pont: kb. 100 km", "Évi csapadék: 100-300 mm (magasabb részeken akár 400 mm)", "Növényfajok száma: több mint 200, ebből 20 endemikus"],
+      ro: ["Lungime: aprox. 700 km", "Altitudine maximă: Jebel Shams, 2999 m", "Suprafață totală: ~50.000 km²", "Roci predominante: ofiolit (crustă oceanică veche de 90 mil. ani)", "Populație umană: <100.000 locuitori în văi", "Situri arheologice: peste 500, datând din Epoca Bronzului"],
+      en: ["Length: approximately 700 km", "Highest peak: Jebel Shams at 2,999 m", "Formed during the Late Cretaceous, about 90 million years ago", "Total area: roughly 50,000 km²", "Annual rainfall: 100-300 mm on average", "Endemic mammal: Arabian tahr (Arabitragus jayakari), estimated population <2,500"],
+    },
+  },
   {
     id: "rub-al-khali-relief-v2",
     type: "desert",
     parent: "AE-AZ",
     coords: [53.0000, 23.0000],
-    name: { de: "Rub al-Chali", hu: "Rub al-Háli", ro: "Rub' al Khali", en: "Rub' al Khali",
-image: "/poi-images/rub-al-khali-relief-v2.webp"
-},
+    name: { de: "Rub al-Chali", hu: "Rub al-Háli", ro: "Rub' al Khali", en: "Rub' al Khali"},
+    image: "/poi-images/rub-al-khali-relief-v2.webp",
     description: { de: "Eine der größten zusammenhängenden Sandwüsten der Welt, die sich über den Süden der VAE erstreckt.", hu: "A világ egyik legnagyobb egybefüggő homoksivataga, amely az EAE déli részén terül el.", ro: "Unul dintre cele mai mari deșerturi de nisip continuu din lume, care se întinde în sudul EAU.", en: "One of the largest contiguous sand deserts in the world, stretching across the southern UAE." },
     facts: {
       de: ["Eine der größten Sandwüsten der Welt.", "Deckt große Teile von Abu Dhabi ab.", "Bekannt für seine massiven roten Dünen.", "Wird als Leeres Viertel bezeichnet."],
       hu: ["A világ egyik legnagyobb homoksivataga.", "Abu-Dzabi nagy részét lefedi.", "Hatalmas vörös dűnéiről ismert.", "Üres Negyednek is nevezik."],
       ro: ["Unul dintre cele mai mari deșerturi de nisip din lume.", "Acoperă mari părți din Abu Dhabi.", "Cunoscut pentru dunele sale roșii masive.", "Este numit Pătrarul Gol."],
       en: ["One of the largest sand deserts in the world.", "Covers large parts of Abu Dhabi.", "Known for its massive red dunes.", "Referred to as the Empty Quarter."]
-    }, image: "/poi-images/rub-al-khali-relief-v2.webp"},
+    }, image: "/poi-images/rub-al-khali-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Rub al-Chali (Leeres Viertel) ist das größte zusammenhängende Sandmeer der Welt und bedeckt etwa 650.000 km² auf der Arabischen Halbinsel. Die Sanddünen erreichen Höhen von bis zu 250 Metern. Das Klima ist extrem trocken mit weniger als 30 mm Jahresniederschlag. Die Region ist nahezu unbewohnt, aber reich an Erdöl- und Erdgasvorkommen. Die Oberfläche besteht aus bis zu 300 m tiefen Sandschichten, die über Grundgestein liegen.",
+      hu: "A Rab-el-Háli, más néven Üres Negyed, a világ legnagyobb összefüggő homoksivataga, mely Szaúd-Arábia, Omán, Jemen és az Egyesült Arab Emírségek területén terül el. Területe körülbelül 650.000 km², ami több mint hatszorosa Magyarországénak. A dűnék magassága helyenként eléri a 250 métert. Bár a terület lakatlan, jelentős földgáz- és olajkészletek találhatók alatta. Az éghajlat szélsőséges: nappali hőmérséklet 50°C fölé is emelkedhet, éjszaka akár 0°C-ra is csökkenhet.",
+      ro: "Deșertul Rub' al Khali este cel mai mare deșert nisipos continuu din lume, întinzându-se pe o suprafață de aproximativ 650.000 km². Este situat în Peninsula Arabică, acoperind părți din Arabia Saudită, Oman, Yemen și Emiratele Arabe Unite. Caracteristica sa principală o constituie dunalele uriașe, cu înălțimi de până la 250 de metri. Precipitațiile anuale sunt sub 30 mm, iar temperaturile ating 50°C vara. Sub nisip se află unele dintre cele mai mari rezerve de petrol din lume.",
+      en: "The Rub' al Khali, or Empty Quarter, is the world's largest continuous sand desert, covering approximately 650,000 km² across Saudi Arabia, Oman, Yemen, and the UAE. Its dunes can reach heights of 250 meters, and the sand depth averages about 300 meters. The desert is virtually uninhabited due to extreme aridity, with annual rainfall less than 30 mm. Despite harsh conditions, it contains significant hydrocarbon reserves, including the Ghawar oil field, the world's largest. The region is also important for paleoclimate studies, with evidence of ancient lakes.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 650.000 km²", "Maximale Dünenhöhe: 250 m", "Jahresniederschlag: <30 mm", "Sandtiefe: bis zu 300 m", "Höchste gemessene Temperatur: 51°C", "Bevölkerungsdichte: <0,1 Einwohner pro km²"],
+      hu: ["Terület: 650.000 km²", "Legmagasabb dűne: 250 m", "Éves csapadék: <30 mm", "Homokmélység: 300 m", "Legmagasabb hőmérséklet: 51°C", "Olajkészletek: a világ olajának kb. 25%-a"],
+      ro: ["Suprafață: 650.000 km²", "Înălțimea maximă a dunelor: 250 m", "Precipitații anuale: <30 mm", "Adâncimea nisipului: până la 300 m", "Temperatură maximă înregistrată: 51°C", "Rezerve de petrol: ~25% din rezervele mondiale"],
+      en: ["Area: 650,000 km²", "Highest dune: 250 m", "Annual rainfall: <30 mm", "Sand depth: up to 300 m", "Max recorded temperature: 51°C", "Contains the Ghawar oil field (largest conventional oil field)"],
+    },
+  },
   {
     id: "wadi-ghalilah-relief-v2",
     type: "valley",
     parent: "AE-RK",
     coords: [56.0833, 25.9167],
-    name: { de: "Wadi Ghalilah", hu: "Vadi Ghalilah", ro: "Wadi Ghalilah", en: "Wadi Ghalilah",
-image: "/poi-images/wadi-ghalilah-relief-v2.webp"
-},
+    name: { de: "Wadi Ghalilah", hu: "Vadi Ghalilah", ro: "Wadi Ghalilah", en: "Wadi Ghalilah"},
+    image: "/poi-images/wadi-ghalilah-relief-v2.webp",
     description: { de: "Ein spektakuläres Tal im Norden, berühmt für seine extrem steilen Felswände und anspruchsvollen Wanderrouten.", hu: "Egy látványos völgy északon, amely rendkívül meredek sziklafalairól és kihívást jelentő túraútvonalairól híres.", ro: "O vale spectaculoasă în nord, faimoasă pentru stâncile sale extrem de abrupte și traseele provocatoare de drumeții.", en: "A spectacular valley in the north, famous for its extremely steep cliffs and challenging hiking routes." },
     facts: {
       de: ["Bekannt für die steile Treppe zum Himmel.", "Eines der anspruchsvollsten Wandergebiete.", "Liegt im Hadschar-Gebirge.", "Führt nach starken Regenfällen Wasser."],
       hu: ["A meredek Mennyek Lépcsőjéről ismert.", "Az egyik legnagyobb kihívást jelentő túraútvonal.", "A Hadzsar-hegységben található.", "Heves esőzések után vízzel telik meg."],
       ro: ["Cunoscut pentru scara abruptă către cer.", "Una dintre cele mai dificile zone de drumeție.", "Situat în Munții Hajar.", "Se umple de apă după ploi abundente."],
       en: ["Known for the steep Stairway to Heaven.", "One of the most challenging hiking areas.", "Located in the Hajar Mountains.", "Flows with water after heavy rain."]
-    }, image: "/poi-images/wadi-ghalilah-relief-v2.webp"},
+    }, image: "/poi-images/wadi-ghalilah-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Ghalilah ist ein tief eingeschnittenes Trockental im Emirat Ra's al-Chaima, Vereinigte Arabische Emirate. Es erstreckt sich etwa 15 km von den Al-Hadschar-Bergen bis zur Küste. Der Wadi ist bekannt für seine steilen Felswände und natürlichen Wasserbecken, die nach Regenfällen entstehen. Die Region ist bei Wanderern und Kletterern beliebt. Die Vegetation umfasst Akazien und Dattelpalmen entlang des Wasserlaufs.",
+      hu: "A Wadi Ghalilah egy mély völgy Ras al-Khaimah emírségben, az Egyesült Arab Emírségekben. Hossza körülbelül 15 kilométer, és a Hadsar-hegységtől a Perzsa-öböl felé tart. A völgyet meredek sziklafalak jellemzik, amelyek néhány helyen 200 méter magasra emelkednek. Az időszakos esőzések után vízmosások és tavacskák alakulnak ki, amelyek vonzzák a túrázókat. A terület geológiailag érdekes, mivel az ofiolit rétegek jól láthatóak a falakon.",
+      ro: "Wadi Ghalilah este o vale uscată situată în emiratul Ras Al Khaimah, Emiratele Arabe Unite. Se întinde pe aproximativ 15 km de la Munții Al Hajar până la coasta Golfului Persic. Pereții săi abrupți sunt alcătuiți din ofiolit și roci sedimentare, iar în timpul inundațiilor rapide, apa se adună în bazine naturale. Zona este populară pentru drumeții și alpinism. De-a lungul văii există câteva așezări mici, care practică agricultura de subzistență.",
+      en: "Wadi Ghalilah is a dry river valley in Ras Al Khaimah, UAE, stretching about 15 km from the Hajar Mountains to the coast. Its steep walls, composed of ophiolite and limestone, rise up to 200 meters. The wadi is known for its natural rock pools that fill after heavy rains, making it a popular hiking and canyoning destination. It also has historical significance, with remnants of ancient irrigation systems (aflaj) still visible. The area supports sparse vegetation including acacia and date palms.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 15 km", "Wandhöhe: bis zu 200 m", "Gestein: Ophiolith und Kalkstein", "Niederschlag: ca. 120 mm pro Jahr", "Temperaturspanne: 10-48°C", "Zahl der Wasserbecken nach Starkregen: bis zu 20"],
+      hu: ["Hossz: 15 km", "Maximális sziklafalmagasság: 200 m", "Geológiai képződmény: ofiolit", "Éves csapadék: 120 mm", "Legmagasabb hőmérséklet: 48°C", "Turisták száma évente: kb. 5000"],
+      ro: ["Lungime: 15 km", "Înălțimea pereților: până la 200 m", "Roci: ofiolit și calcar", "Precipitații anuale: 120 mm", "Temperatura medie: 28°C", "Număr de bazine naturale: ~10 permanente"],
+      en: ["Length: 15 km", "Cliff height: up to 200 m", "Rock type: ophiolite and limestone", "Annual rainfall: 120 mm", "Max summer temperature: 48°C", "Number of natural pools: approximately 10 after heavy rain"],
+    },
+  },
   {
     id: "jebel-mebrah-relief-v2",
     type: "mountain",
     parent: "AE-FU",
     coords: [56.1264, 25.6425],
-    name: { de: "Dschabal Mebrah", hu: "Dzsebel Mebrah", ro: "Jebel Mebrah", en: "Jebel Mebrah",
-image: "/poi-images/jebel-mebrah-relief-v2.webp"
-},
+    name: { de: "Dschabal Mebrah", hu: "Dzsebel Mebrah", ro: "Jebel Mebrah", en: "Jebel Mebrah"},
+    image: "/poi-images/jebel-mebrah-relief-v2.webp",
     description: { de: "Einer der höchsten Berggipfel in den VAE, der einen atemberaubenden Blick auf die umliegende raue Landschaft bietet.", hu: "Az EAE egyik legmagasabb hegycsúcsa, amely lélegzetelállító kilátást nyújt a környező zord tájra.", ro: "Unul dintre cele mai înalte vârfuri muntoase din EAU, oferind o priveliște uluitoare asupra peisajului accidentat din jur.", en: "One of the highest mountain peaks in the UAE, offering breathtaking views of the surrounding rugged landscape." },
     facts: {
       de: ["Einer der höchsten Gipfel der VAE.", "Beliebtes Ziel für erfahrene Kletterer.", "Bietet spektakuläre Aussichten auf die Täler.", "Teil des Hadschar-Gebirges."],
       hu: ["Az EAE egyik legmagasabb csúcsa.", "Népszerű célpont a tapasztalt hegymászók körében.", "Látványos kilátást nyújt a völgyekre.", "A Hadzsar-hegység része."],
       ro: ["Unul dintre cele mai înalte vârfuri din EAU.", "Destinație populară pentru alpiniștii experimentați.", "Oferă vederi spectaculoase asupra văilor.", "Parte a Munților Hajar."],
       en: ["One of the highest peaks in the UAE.", "Popular destination for experienced climbers.", "Offers spectacular views of the valleys.", "Part of the Hajar Mountains."]
-    }, image: "/poi-images/jebel-mebrah-relief-v2.webp"},
+    }, image: "/poi-images/jebel-mebrah-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Jebel Mebrah ist ein markanter Berg im Emirat Fudschaira, Vereinigte Arabische Emirate, mit einer Höhe von etwa 1.000 Metern. Er gehört zum östlichen Teil der Al-Hadschar-Kette. Der Berg ist aus Ophiolithgestein aufgebaut und weist steile, zerklüftete Hänge auf. Die Region ist dünn besiedelt, bietet aber eine einzigartige Flora und Fauna, darunter den Arabischen Leoparden, der hier selten vorkommt.",
+      hu: "A Jebel Mebrah egy hegy Fudzsejra emírségben, az Egyesült Arab Emírségekben, magassága körülbelül 1000 méter. A Hadsar-hegység keleti részén található. A hegy ofiolitból áll, és meredek, sziklás lejtői vannak. A terület fontos élőhely a ritka arab leopárd számára, de a turizmus is növekszik a túrázók körében. A hegy lábánál kis falvak találhatók.",
+      ro: "Jebel Mebrah este un munte în emiratul Fujairah, Emiratele Arabe Unite, cu o altitudine de aproximativ 1.000 de metri. Face parte din lanțul estic al Munților Al Hajar. Este compus predominant din ofiolit și are versanți abrupți. Zona este un habitat pentru leopardul arab, o specie pe cale de dispariție. De asemenea, este populară pentru drumeții și alpinism datorită peisajelor spectaculoase.",
+      en: "Jebel Mebrah is a mountain in Fujairah, UAE, rising to about 1,000 meters. It is part of the eastern Hajar range, composed of ophiolite. The mountain is characterized by steep, rocky slopes and deep ravines. It is one of the few places in the UAE where the critically endangered Arabian leopard (Panthera pardus nimr) has been sighted, though its population is extremely small. The area is also known for its ancient stone villages and terraced agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 1.000 m", "Gestein: Ophiolith", "Endemische Arten: Arabischer Leopard (Panthera pardus nimr)", "Niederschlag: ca. 150 mm pro Jahr", "Entfernung zur Küste: 20 km", "Bevölkerung im Umkreis: <500"],
+      hu: ["Magasság: 1000 m", "Kőzet: ofiolit", "Arab leopárd populáció: <50 egyed", "Éves csapadék: 150 mm", "Távolság a parttól: 20 km", "Falvak száma: 3"],
+      ro: ["Altitudine: 1.000 m", "Rocă: ofiolit", "Specie endemică: leopard arab (Panthera pardus nimr)", "Precipitații: 150 mm/an", "Distanța până la coastă: 20 km", "Sate: ~3"],
+      en: ["Elevation: 1,000 m", "Rock type: ophiolite", "Arabian leopard population: less than 50 individuals", "Annual rainfall: 150 mm", "Distance from coast: 20 km", "Number of nearby villages: 3"],
+    },
+  },
   {
     id: "wadi-asimah-relief-v2",
     type: "valley",
     parent: "AE-RK",
     coords: [56.1368, 25.4055],
-    name: { de: "Wadi Asimah", hu: "Vadi Asimah", ro: "Wadi Asimah", en: "Wadi Asimah",
-image: "/poi-images/wadi-asimah-relief-v2.webp"
-},
+    name: { de: "Wadi Asimah", hu: "Vadi Asimah", ro: "Wadi Asimah", en: "Wadi Asimah"},
+    image: "/poi-images/wadi-asimah-relief-v2.webp",
     description: { de: "Ein üppiges und grünes Wadi, das sich durch seine dichte Vegetation und die Anwesenheit seltener Vogelarten auszeichnet.", hu: "Egy buja és zöld vádi, amely sűrű növényzetével és ritka madárfajok jelenlétével tűnik ki.", ro: "Un wadi luxuriant și verde, care se remarcă prin vegetația sa densă și prezența unor specii rare de păsări.", en: "A lush and green wadi distinguished by its dense vegetation and the presence of rare bird species." },
     facts: {
       de: ["Bietet grüne Oasen und Plantagen.", "Ein verstecktes Juwel für Naturforscher.", "Zieht viele verschiedene Vogelarten an.", "Bekannt für seine malerischen Felsformationen."],
       hu: ["Zöld oázisokat és ültetvényeket rejt.", "A természetbúvárok rejtett gyöngyszeme.", "Sokféle madárfajt vonz magához.", "Festői sziklaképződményeiről ismert."],
       ro: ["Oferă oaze verzi și plantații.", "O bijuterie ascunsă pentru exploratorii naturii.", "Atrage multe specii diferite de păsări.", "Cunoscut pentru formațiunile sale pitorești de stâncă."],
       en: ["Features green oases and plantations.", "A hidden gem for nature explorers.", "Attracts many different bird species.", "Known for its picturesque rock formations."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Wadi Asimah ist ein etwa 12 km langes Trockental im Emirat Ra's al-Chaima, das für seine Felszeichnungen und archäologischen Stätten bekannt ist. Der Wadi schneidet sich durch ophiolithisches Gestein und bietet mehrere natürliche Wasserbecken. In den Felswänden sind Petroglyphen aus der Bronzezeit zu finden. Die Region wird landwirtschaftlich genutzt, vor allem für Dattelpalmen.",
+      hu: "A Wadi Asimah egy kb. 12 kilométer hosszú völgy Ras al-Khaimah emírségben, híres régészeti leleteiről. A völgyben bronzkori sziklafaragványokat találtak, amelyek vadászjeleneteket ábrázolnak. A völgy ofiolitban gazdag, és több természetes vízgyűjtő medence található benne. A helyi gazdák datolyapálmákat termesztenek a wadi mentén, amelyeket hagyományos öntözőrendszerekkel látnak el.",
+      ro: "Wadi Asimah este o vale uscată de aproximativ 12 km în emiratul Ras Al Khaimah, cunoscută pentru arta rupestră preistorică. Pe pereții de ofiolit se găsesc petroglife care datează din epoca bronzului, reprezentând animale și figuri umane. Valea conține de asemenea bazine naturale de apă. Agricultura tradițională se practică în oaze mici, cu sisteme de irigații antice, numite aflaj.",
+      en: "Wadi Asimah is a 12 km long valley in Ras Al Khaimah, UAE, famous for its prehistoric rock art. The wadi's ophiolite walls feature Bronze Age petroglyphs of animals and hunting scenes. It also has natural water pools that fill seasonally. The area is used for small-scale agriculture centered on date palms, relying on ancient aflaj irrigation channels. Archaeological excavations have revealed settlements dating back over 4,000 years.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 12 km", "Petroglyphen: über 100 Motive", "Alter der Felszeichnungen: 4000-3000 Jahre", "Wasserbecken: 5 größere", "Landwirtschaftliche Fläche: ca. 2 km²", "Anzahl der Dattelpalmen: ca. 500"],
+      hu: ["Hossz: 12 km", "Sziklafaragványok kora: bronzkor (kb. 4000 év)", "Motívumok száma: 100+", "Természetes medencék: 5", "Öntözőcsatornák hossza: kb. 5 km", "Datolyapálmák száma: kb. 500"],
+      ro: ["Lungime: 12 km", "Vârstă petroglife: epoca bronzului (4.000-3.000 ani)", "Număr de petroglife: >100", "Bazine naturale: 5", "Suprafață agricolă: 2 km²", "Sisteme de irigații antice: aflaj (canale subterane)"],
+      en: ["Length: 12 km", "Rock art age: Bronze Age (4,000-3,000 years old)", "Number of petroglyphs: over 100", "Natural water pools: 5", "Agricultural area: 2 km²", "Ancient aflaj channels: total length approx. 5 km"],
+    },
   },
   {
     id: "liwa-desert-relief-v2",
     type: "desert",
     parent: "AE-AZ",
     coords: [53.7667, 23.1333],
-    name: { de: "Liwa-Wüste", hu: "Liva-sivatag", ro: "Deșertul Liwa", en: "Liwa Desert",
-image: "/poi-images/liwa-desert-relief-v2.webp"
-},
+    name: { de: "Liwa-Wüste", hu: "Liva-sivatag", ro: "Deșertul Liwa", en: "Liwa Desert"},
+    image: "/poi-images/liwa-desert-relief-v2.webp",
     description: { de: "Eine riesige Wüstenlandschaft, bekannt für die höchsten Sanddünen der Region und historische Oasensiedlungen.", hu: "Hatalmas sivatagi táj, amely a régió legmagasabb homokdűnéiről és történelmi oázistelepüléseiről ismert.", ro: "Un peisaj deșertic imens, cunoscut pentru cele mai înalte dune de nisip din regiune și așezări de oaze istorice.", en: "A vast desert landscape known for the region's highest sand dunes and historical oasis settlements." },
     facts: {
       de: ["Heimat der gewaltigen Moreeb-Düne.", "Berühmt für ausgedehnte Palmenhaine.", "Traditionelles Zentrum der Beduinenkultur.", "Teil des Rub al-Chali."],
       hu: ["A hatalmas Moreeb-dűne otthona.", "Kiterjedt pálmaligeteiről híres.", "A beduin kultúra hagyományos központja.", "A Rub al-Háli sivatag része."],
       ro: ["Casa masivei dune Moreeb.", "Renumit pentru vastele sale plantații de palmieri.", "Centrul tradițional al culturii beduine.", "Parte a deșertului Rub' al Khali."],
       en: ["Home to the massive Moreeb Dune.", "Famous for extensive palm groves.", "Traditional center of Bedouin culture.", "Part of the Rub' al Khali."]
-    }, image: "/poi-images/liwa-desert-relief-v2.webp"},
+    }, image: "/poi-images/liwa-desert-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Liwa-Wüste ist ein Teil der Rub-al-Chali-Wüste im Süden der Vereinigten Arabischen Emirate. Sie erstreckt sich über etwa 100 km entlang der Grenze zu Saudi-Arabien. Die Region ist bekannt für ihre hohen Dünen, die bis zu 100 Meter erreichen, und die Oasenkette Liwa, die aus 50 Dörfern besteht. Das Gebiet ist traditionell das Zentrum des Kamelzuchts und des Dattelanbaus.",
+      hu: "A Liwa-sivatag az Üres Negyed peremén helyezkedik el az Egyesült Arab Emírségek déli részén. Mintegy 100 kilométer hosszan húzódik, és híres a magas, vörös homokdűnéiről, amelyek néhol elérik a 100 méteres magasságot. Az oázisok láncolata, a Liwa-oázis, 50 faluból áll, és fontos datolyatermesztő központ. A sivatag éghajlata rendkívül száraz, a nyári hőmérséklet gyakran meghaladja az 50°C-ot.",
+      ro: "Deșertul Liwa este o extensie a Rub' al Khali în sudul Emiratelor Arabe Unite, întinzându-se pe aproximativ 100 km. Este caracterizat de dune de nisip roșcat care ating 100 de metri înălțime. Oaza Liwa, formată din aproximativ 50 de sate, este cunoscută pentru producția de curmale și creșterea cămilelor. Temperaturile de vară depășesc frecvent 50°C, iar precipitațiile sunt sub 50 mm anual.",
+      en: "The Liwa Desert is a northern extension of the Rub' al Khali in the UAE, stretching about 100 km east-west. It features some of the tallest sand dunes in the world, rising up to 100 meters, with striking red and orange colors due to iron oxide. The Liwa Oasis comprises around 50 settlements and is a major date palm cultivation area. The desert is also known for its camel racing heritage. Despite extreme aridity, the area supports a unique ecosystem adapted to shifting sands.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 100 km", "Maximale Dünenhöhe: 100 m", "Anzahl der Oasendörfer: 50", "Jahresniederschlag: <50 mm", "Höchste Temperatur: 51°C", "Dattelpalmen: ca. 1 Million"],
+      hu: ["Hossz: 100 km", "Legmagasabb dűne: 100 m", "Oázisfalvak száma: 50", "Éves csapadék: <50 mm", "Legmagasabb hőmérséklet: 51°C", "Datolyatermelés éves mennyisége: kb. 50.000 tonna"],
+      ro: ["Lungime: 100 km", "Înălțime maximă a dunelor: 100 m", "Număr sate oază: 50", "Precipitații anuale: <50 mm", "Temperatură maximă: 51°C", "Producție anuală de curmale: 50.000 tone"],
+      en: ["Length: 100 km", "Maximum dune height: 100 m", "Number of oasis villages: 50", "Annual rainfall: <50 mm", "Max summer temperature: 51°C", "Annual date production: approx. 50,000 tons"],
+    },
+  },
   {
     id: "sir-bani-yas-coast-relief-v2",
     type: "coast",
     parent: "AE-AZ",
     coords: [52.6000, 24.3000],
-    name: { de: "Küste von Sir Bani Yas", hu: "Sir Bani Yas partvidéke", ro: "Coasta Sir Bani Yas", en: "Sir Bani Yas Coast",
-image: "/poi-images/sir-bani-yas-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Sir Bani Yas", hu: "Sir Bani Yas partvidéke", ro: "Coasta Sir Bani Yas", en: "Sir Bani Yas Coast"},
+    image: "/poi-images/sir-bani-yas-coast-relief-v2.webp",
     description: { de: "Eine geschützte Küstenlinie mit unberührten Stränden, die ein wichtiger Lebensraum für die maritime Tierwelt ist.", hu: "Érintetlen strandokkal rendelkező védett partvonal, amely fontos élőhelye a tengeri vadvilágnak.", ro: "O linie de coastă protejată cu plaje curate, un habitat important pentru fauna marină.", en: "A protected coastline with pristine beaches that serves as an important habitat for marine wildlife." },
     facts: {
       de: ["Verfügt über unberührte Sandstrände.", "Umgeben von klarem, flachem Wasser.", "Heimat vieler Meeresbewohner wie Dugongs.", "Beliebt für Wassersport und Entspannung."],
       hu: ["Érintetlen homokos strandokkal rendelkezik.", "Tiszta, sekély víz veszi körül.", "Számos tengeri élőlény, köztük dugongok otthona.", "Népszerű a vízisportok és a pihenés szerelmeseinek."],
       ro: ["Are plaje de nisip imaculate.", "Înconjurat de ape limpezi și puțin adânci.", "Casa multor viețuitoare marine, cum ar fi dugongii.", "Popular pentru sporturi nautice și relaxare."],
       en: ["Features pristine sandy beaches.", "Surrounded by clear, shallow waters.", "Home to many marine species like dugongs.", "Popular for water sports and relaxation."]
-    }, image: "/poi-images/sir-bani-yas-coast-relief-v2.webp"},
+    }, image: "/poi-images/sir-bani-yas-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste von Sir Bani Yas liegt vor der Westküste der Vereinigten Arabischen Emirate und ist Teil einer künstlich geschaffenen Insel, die als Naturschutzgebiet dient. Die Insel ist etwa 17,5 km lang und 9 km breit. Ursprünglich als Ölförderstandort genutzt, wurde sie zu einem Schutzgebiet für Wildtiere umgewandelt, darunter Arabische Oryxantilopen und Geparden. Die Küste besteht aus Sandstränden und Mangrovenwäldern.",
+      hu: "Sir Bani Yas szigete az Egyesült Arab Emírségek nyugati partjai előtt fekszik, mintegy 17,5 km hosszú és 9 km széles. Korábban olajkitermelés folyt itt, ma természetvédelmi terület, ahol számos állatfajt, köztük az arab oryxot és a gepárdot telepítettek vissza. A part mentén mangrovemocsarak és homokos strandok váltakoznak. A sziget fontos madárélőhely is.",
+      ro: "Coasta insulei Sir Bani Yas este situată în largul coastei de vest a Emiratelor Arabe Unite. Insula are aproximativ 17,5 km lungime și 9 km lățime. A fost transformată dintr-un sit de extracție petrolieră într-o rezervație naturală, adăpostind specii reintroduse precum oryxul arab și ghepardul. Țărmul include plaje nisipoase și mangrove, oferind habitat pentru păsări migratoare.",
+      en: "Sir Bani Yas Island, off the UAE's western coast, is approximately 17.5 km long and 9 km wide. Originally a petroleum production site, it was transformed into a wildlife reserve in the 1970s. Its coastline features sandy beaches, mangrove forests, and shallow lagoons. The reserve is home to introduced species like the Arabian oryx, sand gazelle, and cheetah. The island also has historical sites, including a Nestorian monastery from the 7th century AD.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 17,5 km", "Breite: 9 km", "Fläche: ca. 87 km²", "Wiederangesiedelte Arten: Arabische Oryxantilope (ca. 400), Geparden (15)", "Mangrovenfläche: 5 km²", "Historisches Kloster: 7. Jahrhundert n. Chr."],
+      hu: ["Hossz: 17,5 km", "Szélesség: 9 km", "Terület: 87 km²", "Arab oryx populáció: 400", "Gepárdok száma: 15", "Mangroveerdők: 5 km²"],
+      ro: ["Lungime: 17,5 km", "Lățime: 9 km", "Suprafață: 87 km²", "Populație de oryx arab: 400", "Gheparzi: 15", "Mangrove: 5 km²"],
+      en: ["Length: 17.5 km", "Width: 9 km", "Area: 87 km²", "Arabian oryx population: approx. 400", "Cheetah population: 15", "Mangrove forest area: 5 km²"],
+    },
+  },
   {
     id: "wadi-al-helo-relief-v2",
     type: "valley",
     parent: "AE-SH",
     coords: [56.2000, 24.9667],
-    name: { de: "Wadi Al Helo", hu: "Vadi Al Helo", ro: "Wadi Al Helo", en: "Wadi Al Helo",
-image: "/poi-images/wadi-al-helo-relief-v2.webp"
-},
+    name: { de: "Wadi Al Helo", hu: "Vadi Al Helo", ro: "Wadi Al Helo", en: "Wadi Al Helo"},
+    image: "/poi-images/wadi-al-helo-relief-v2.webp",
     description: { de: "Das 'Süße Tal' ist ein ganzjährig fruchtbares Gebiet, umgeben von schroffen Bergen und alten islamischen Festungen.", hu: "Az Édes Völgy egy egész évben termékeny terület, amelyet zord hegyek és régi iszlám erődítmények vesznek körül.", ro: "Valea Dulce este o zonă fertilă tot anul, înconjurată de munți stâncoși și vechi fortărețe islamice.", en: "The 'Sweet Valley' is a year-round fertile area surrounded by rugged mountains and old Islamic forts." },
     facts: {
       de: ["Bedeutet auf Arabisch 'Süßes Tal'.", "Bekannt für seine archäologischen Ruinen.", "Hat ganzjährig ein wenig Wasser.", "Ein geschütztes Gebiet für einheimische Flora."],
       hu: ["Arabul Édes Völgyet jelent.", "Régészeti romjairól ismert.", "Egész évben van benne egy kevés víz.", "A helyi növényvilág védett területe."],
       ro: ["Înseamnă 'Valea Dulce' în arabă.", "Cunoscut pentru ruinele sale arheologice.", "Are un flux mic de apă pe tot parcursul anului.", "O zonă protejată pentru flora nativă."],
       en: ["Means 'Sweet Valley' in Arabic.", "Known for its archaeological ruins.", "Has a small flow of water year-round.", "A protected area for native flora."]
-    }, image: "/poi-images/wadi-al-helo-relief-v2.webp"},
+    }, image: "/poi-images/wadi-al-helo-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Al Helo liegt im Emirat Schardscha, etwa 30 km östlich der Stadt. Der Wadi ist bekannt für seine historische Siedlung aus dem 19. Jahrhundert und archäologische Funde aus der Umm-al-Nar-Zeit (2500 v. Chr.). Die Gegend ist von Palmenhainen umgeben und verfügt über ein traditionelles Bewässerungssystem. Die Felswände enthalten Inschriften und Zeichnungen.",
+      hu: "A Wadi Al Helo Sharjah emírségben található, körülbelül 30 km-re keletre a várostól. A völgy híres a 19. századi történelmi településéről és az Umm al-Nar korból származó leleteiről. A wadi mentén datolyapálmákat termesztenek, és ősi öntözőrendszerek maradványai láthatók. A sziklákon faragott feliratok és rajzok találhatók.",
+      ro: "Wadi Al Helo este situat în emiratul Sharjah, la aproximativ 30 km est de oraș. Valea este cunoscută pentru un sat istoric din secolul al XIX-lea și situri arheologice din perioada Umm al-Nar (cca. 2500 î.Hr.). Zona este acoperită de palmieri de curmal și canale de irigații antice. Pe pereții de stâncă se găsesc inscripții și petroglife.",
+      en: "Wadi Al Helo is a valley in Sharjah, UAE, about 30 km east of the city. It features a restored 19th-century mountain village and archaeological remains from the Umm al-Nar period (2500 BCE). The wadi is lined with date palm plantations and a traditional falaj irrigation system. Rock carvings and inscriptions are visible on the cliffs, depicting animals and symbols. It is a popular tourist destination for hiking and cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung zu Schardscha: 30 km", "Historische Siedlung: 19. Jahrhundert", "Archäologische Periode: Umm-al-Nar (2500 v. Chr.)", "Anzahl der Dattelpalmen: ca. 2000", "Länge des Bewässerungssystems: 2 km", "Schutzstatus: UNESCO-Welterbe in Vorbereitung"],
+      hu: ["Távolság Sharjahtól: 30 km", "Történelmi falu: 19. század", "Régészeti leletek: Umm al-Nar kor (i.e. 2500)", "Datolyapálmák száma: 2000", "Öntözőcsatornák hossza: 2 km", "Turisták száma évente: kb. 50.000"],
+      ro: ["Distanță Sharjah: 30 km", "Așezare istorică: secolul XIX", "Sit arheologic: perioada Umm al-Nar (2500 î.Hr.)", "Număr de curmali: 2.000", "Lungime sistem irigații: 2 km", "Vizitatori anual: 50.000"],
+      en: ["Distance from Sharjah: 30 km", "Historical village: 19th century", "Archaeological period: Umm al-Nar (2500 BCE)", "Date palm count: approx. 2,000", "Irrigation channel length: 2 km", "Annual visitors: around 50,000"],
+    },
+  },
   {
     id: "sweihan-desert-relief-v2",
     type: "desert",
     parent: "AE-AZ",
     coords: [55.3333, 24.4667],
-    name: { de: "Sweihan-Wüste", hu: "Sveihan-sivatag", ro: "Deșertul Sweihan", en: "Sweihan Desert",
-image: "/poi-images/sweihan-desert-relief-v2.webp"
-},
+    name: { de: "Sweihan-Wüste", hu: "Sveihan-sivatag", ro: "Deșertul Sweihan", en: "Sweihan Desert"},
+    image: "/poi-images/sweihan-desert-relief-v2.webp",
     description: { de: "Eine malerische Wüste in der Nähe von Al Ain, die als Treffpunkt für Offroad-Enthusiasten und Beduinen gilt.", hu: "Festői sivatag Al Ain közelében, amely a terepjárósok és a beduinok találkozóhelyeként ismert.", ro: "Un deșert pitoresc lângă Al Ain, considerat un punct de întâlnire pentru pasionații de off-road și beduini.", en: "A picturesque desert near Al Ain, considered a meeting point for off-road enthusiasts and Bedouins." },
     facts: {
       de: ["Wird von Einheimischen 'Klein Liwa' genannt.", "Ideal für Wüsten-Offroad-Fahrten.", "Treffpunkt für Falkner und Kamelzüchter.", "Grenzt an die Ausläufer von Al Ain."],
       hu: ["A helyiek Kis Livának is hívják.", "Ideális sivatagi terepjárózáshoz.", "Sólymászok és tevetenyésztők találkozóhelye.", "Al Ain peremvidékével határos."],
       ro: ["Numit 'Micul Liwa' de către localnici.", "Ideal pentru conducere off-road în deșert.", "Punct de întâlnire pentru șoimari și crescători de cămile.", "Se învecinează cu periferia orașului Al Ain."],
       en: ["Called 'Little Liwa' by locals.", "Ideal for desert off-road driving.", "Meeting point for falconers and camel breeders.", "Borders the outskirts of Al Ain."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Sweihan-Wüste liegt im Emirat Abu Dhabi und ist Teil des Rub-al-Chali-Beckens. Sie erstreckt sich über eine Fläche von etwa 5.000 km². Die Landschaft besteht aus ausgedehnten Sanddünen, die Höhen von bis zu 50 Metern erreichen. Das Gebiet ist bekannt für seine Öl- und Gasvorkommen sowie als Lebensraum für Wüstentiere wie den Sandgazelle. Die menschliche Besiedlung ist sehr dünn.",
+      hu: "A Sweihan-sivatag Abu Dhabi emírségben fekszik, az Üres Negyed része. Területe körülbelül 5000 km². A tájat alacsony, 50 méternél nem magasabb homokdűnék jellemzik. Jelentős földgázlelőhelyek találhatók alatta. A terület ritkán lakott, de a homokgazella és más sivatagi állatok élőhelye. A sivatagban több olajmező is működik.",
+      ro: "Deșertul Sweihan este situat în emiratul Abu Dhabi, făcând parte din Bazinul Rub' al Khali. Se întinde pe aproximativ 5.000 km², cu dune de nisip joase, de până la 50 m. Sub suprafață se află importante zăcăminte de gaze naturale. Zona este slab populată, dar adăpostește gazele de nisip și alte specii adaptate deșertului. Mai multe câmpuri petroliere active sunt prezente.",
+      en: "The Sweihan Desert is a region in Abu Dhabi, UAE, covering about 5,000 km² within the Rub' al Khali basin. It is characterized by relatively low sand dunes, typically under 50 meters, and gravel plains. The area is a major site for hydrocarbon extraction, with significant natural gas fields. Despite aridity, it supports wildlife such as the Arabian sand gazelle and various reptiles. Human population is sparse, with only a few settlements and camps.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 5.000 km²", "Maximale Dünenhöhe: 50 m", "Erdgasreserven: ca. 200 Billionen Kubikfuß", "Gazellenpopulation: ca. 500", "Niederschlag: <40 mm pro Jahr", "Temperaturmaximum: 50°C"],
+      hu: ["Terület: 5000 km²", "Dűnemagasság: max. 50 m", "Földgáztartalék: 200 billió köbláb", "Homokgazella populáció: 500", "Éves csapadék: <40 mm", "Legmagasabb hőmérséklet: 50°C"],
+      ro: ["Suprafață: 5.000 km²", "Înălțime dune: max. 50 m", "Rezerve de gaze naturale: 200 trilioane de picioare cubice", "Populație gazelă de nisip: 500", "Precipitații anuale: <40 mm", "Temperatură maximă: 50°C"],
+      en: ["Area: 5,000 km²", "Maximum dune height: 50 m", "Natural gas reserves: 200 trillion cubic feet", "Sand gazelle population: approx. 500", "Annual rainfall: <40 mm", "Max temperature: 50°C"],
+    },
   },
   {
     id: "jebel-dhanna-relief-v2",
     type: "mountain",
     parent: "AE-AZ",
     coords: [52.6167, 24.1833],
-    name: { de: "Dschabal Dhanna", hu: "Dzsebel Dhanna", ro: "Jebel Dhanna", en: "Jebel Dhanna",
-image: "/poi-images/jebel-dhanna-relief-v2.webp"
-},
+    name: { de: "Dschabal Dhanna", hu: "Dzsebel Dhanna", ro: "Jebel Dhanna", en: "Jebel Dhanna"},
+    image: "/poi-images/jebel-dhanna-relief-v2.webp",
     description: { de: "Eine markante Erhebung an der Küste von Abu Dhabi, die historische Bedeutung für Seefahrer und die Ölindustrie hat.", hu: "Feltűnő kiemelkedés Abu-Dzabi partvidékén, amely történelmi jelentőséggel bír a tengerészek és az olajipar számára.", ro: "O altitudine proeminentă pe coasta Abu Dhabi, cu importanță istorică pentru navigatori și industria petrolieră.", en: "A prominent elevation on the coast of Abu Dhabi with historical significance for seafarers and the oil industry." },
     facts: {
       de: ["Ein markanter Hügel an der Westküste.", "Bietet Panoramablick auf den Persischen Golf.", "Wichtiges Zentrum für die lokale Ölindustrie.", "Ausgangspunkt für Fahrten nach Sir Bani Yas."],
       hu: ["Feltűnő domb a nyugati parton.", "Panorámás kilátást nyújt a Perzsa-öbölre.", "A helyi olajipar fontos központja.", "Kiindulópont a Sir Bani Yas szigetre."],
       ro: ["Un deal proeminent pe coasta de vest.", "Oferă vederi panoramice ale Golfului Persic.", "Centru important pentru industria petrolieră locală.", "Punct de plecare către Sir Bani Yas."],
       en: ["A prominent hill on the west coast.", "Offers panoramic views of the Persian Gulf.", "Important hub for the local oil industry.", "Departure point for trips to Sir Bani Yas."]
-    }, image: "/poi-images/jebel-dhanna-relief-v2.webp"},
+    }, image: "/poi-images/jebel-dhanna-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Jebel Dhanna ist eine Küstenstadt und eine Halbinsel im Emirat Abu Dhabi, etwa 240 km westlich von Abu Dhabi Stadt. Sie liegt am Persischen Golf und ist ein wichtiger Ölverladehafen. Die Region umfasst Salzwiesen und Sandstrände. In der Nähe befindet sich das Sir-Bani-Yas-Naturschutzgebiet. Die Stadt hat etwa 5.000 Einwohner.",
+      hu: "Jebel Dhanna egy város és félsziget Abu Dhabi emírségben, kb. 240 km-re nyugatra Abu Dhabi városától. Fontos olajkikötő a Perzsa-öbölben. A környéken sós mocsarak és homokos partok találhatók. A közeli Sir Bani Yas sziget népszerű turisztikai célpont. Lakossága kb. 5000 fő.",
+      ro: "Jebel Dhanna este un oraș și o peninsulă în emiratul Abu Dhabi, situat la aproximativ 240 km vest de orașul Abu Dhabi. Este un port important pentru exportul de petrol. Coasta include plaje nisipoase și zone umede sărate. În apropiere se află insula Sir Bani Yas. Populația este de aproximativ 5.000 de locuitori.",
+      en: "Jebel Dhanna is a coastal town and peninsula in Abu Dhabi, UAE, approximately 240 km west of Abu Dhabi city. It serves as a major oil export terminal, with deep-water berths for tankers. The coastline features sandy beaches, salt flats, and mangrove patches. The town is also a gateway to Sir Bani Yas Island. Its population is around 5,000, and the economy is dominated by the petroleum industry and logistics.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung zu Abu Dhabi: 240 km", "Bevölkerung: ca. 5.000", "Ölverladehafen: Kapazität 1,5 Mio. Barrel/Tag", "Küstenlänge: ca. 10 km", "Mangrovenfläche: 2 km²", "Höhe des Hafens: durchschnittlich 10 m über Meer"],
+      hu: ["Távolság Abu Dhabi-tól: 240 km", "Lakosság: 5000", "Olajterminál kapacitása: napi 1,5 millió hordó", "Partszakasz hossza: 10 km", "Mangrove terület: 2 km²", "Kikötő mélysége: 15 m"],
+      ro: ["Distanță Abu Dhabi: 240 km", "Populație: 5.000", "Capacitate terminal petrolier: 1,5 milioane barili/zi", "Lungime coastă: 10 km", "Suprafață mangrove: 2 km²", "Adâncime port: 15 m"],
+      en: ["Distance from Abu Dhabi: 240 km", "Population: approx. 5,000", "Oil terminal capacity: 1.5 million barrels per day", "Coastline length: 10 km", "Mangrove area: 2 km²", "Port depth: 15 meters"],
+    },
+  },
   {
     id: "wadi-naqab-relief-v2",
     type: "valley",
     parent: "AE-RK",
     coords: [56.0694, 25.7142],
-    name: { de: "Wadi Naqab", hu: "Vadi Nakab", ro: "Wadi Naqab", en: "Wadi Naqab",
-image: "/poi-images/wadi-naqab-relief-v2.webp"
-},
+    name: { de: "Wadi Naqab", hu: "Vadi Nakab", ro: "Wadi Naqab", en: "Wadi Naqab"},
+    image: "/poi-images/wadi-naqab-relief-v2.webp",
     description: { de: "Ein trockenes, schroffes Flusstal, das für seine steilen Klippen und tiefen, versteckten Höhlen bekannt ist.", hu: "Száraz, zord folyóvölgy, amely meredek szikláiról és mély, rejtett barlangjairól ismert.", ro: "O vale de râu uscată, accidentată, cunoscută pentru stâncile abrupte și peșterile adânci ascunse.", en: "A dry, rugged river valley known for its steep cliffs and deep, hidden caves." },
     facts: {
       de: ["Bietet dramatische, steile Schluchten.", "Berühmt für das Fledermaushöhlen-Trekking.", "Nur für sehr erfahrene Wanderer geeignet.", "Stark beeinflusst von Sturzfluten."],
       hu: ["Drámai, meredek kanyonokat kínál.", "Híres a Denevérbarlang túráról.", "Csak nagyon tapasztalt túrázóknak ajánlott.", "Erősen érintik a hirtelen áradások."],
       ro: ["Oferă canioane abrupte dramatice.", "Faimos pentru drumețiile spre Peștera Liliecilor.", "Potrivit doar pentru drumeți foarte experimentați.", "Puternic afectat de inundațiile fulgerătoare."],
       en: ["Offers dramatic, steep canyons.", "Famous for the Bat Cave trek.", "Suitable only for very experienced hikers.", "Heavily affected by flash floods."]
-    }, image: "/poi-images/wadi-naqab-relief-v2.webp"},
+    }, image: "/poi-images/wadi-naqab-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Naqab ist ein tiefes Tal im Emirat Ra's al-Chaima, das sich über 10 km erstreckt und für seine steilen Felswände und natürlichen Pools bekannt ist. Es ist ein beliebtes Ziel für Canyoning und Wandern. Die Geologie zeigt deutliche Ophiolithschichten. In der Umgebung gibt es kleine Siedlungen, die von der Landwirtschaft leben.",
+      hu: "A Wadi Naqab egy mély völgy Ras al-Khaimah emírségben, kb. 10 km hosszú. Híres a meredek sziklafalairól és a természetes medencéiről. Népszerű a kanyonozás és a túrázás szerelmesei körében. A völgy ofiolit rétegeket tár fel. A környéken néhány kis falu található, ahol datolyát és más növényeket termesztenek.",
+      ro: "Wadi Naqab este o vale adâncă în emiratul Ras Al Khaimah, lungă de aproximativ 10 km, renumită pentru pereții abrupți și bazinele naturale de apă. Este un loc popular pentru canyoning și drumeții. Geologia este dominată de ofiolit. În apropiere există câteva sate mici care practică agricultura de subzistență.",
+      en: "Wadi Naqab is a deep canyon in Ras Al Khaimah, UAE, stretching about 10 km. It is characterized by dramatic ophiolite cliffs and seasonal waterfalls that form natural pools. The wadi is a prime location for canyoning adventures, requiring scrambling and swimming. Its ecosystem supports rock hyraxes and various birds. Historic stone terraces for agriculture are visible on the slopes.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 10 km", "Wandhöhe: bis zu 300 m", "Anzahl der Wasserbecken: 4", "Gestein: Ophiolith", "Höchste Wasserfallhöhe: 15 m", "Besucher pro Jahr: ca. 10.000"],
+      hu: ["Hossz: 10 km", "Sziklafal magasság: 300 m", "Medencék száma: 4", "Vízesések: 1 állandó, 3 időszakos", "Legmagasabb vízesés: 15 m", "Éves látogatók: 10.000"],
+      ro: ["Lungime: 10 km", "Înălțime pereți: până la 300 m", "Bazine naturale: 4", "Căderi de apă: 1 permanentă, 3 sezoniere", "Înălțimea celei mai mari căderi: 15 m", "Vizitatori anual: 10.000"],
+      en: ["Length: 10 km", "Cliff height: up to 300 m", "Natural pools: 4", "Waterfalls: 1 permanent, 3 seasonal", "Highest waterfall drop: 15 m", "Annual visitors: around 10,000"],
+    },
+  },
   {
     id: "hatta-mountains-relief-v2",
     type: "mountain",
     parent: "AE-DU",
     coords: [56.1333, 24.8167],
-    name: { de: "Hatta-Berge", hu: "Hatta-hegység", ro: "Munții Hatta", en: "Hatta Mountains",
-image: "/poi-images/hatta-mountains-relief-v2.webp"
-},
+    name: { de: "Hatta-Berge", hu: "Hatta-hegység", ro: "Munții Hatta", en: "Hatta Mountains"},
+    image: "/poi-images/hatta-mountains-relief-v2.webp",
     description: { de: "Ein raues Berggebiet am Rand von Dubai, das natürliche Pools, Stauseen und kühleres Wetter bietet.", hu: "Zord hegyvidéki terület Dubaj szélén, amely természetes medencéket, víztározókat és hűvösebb időjárást kínál.", ro: "O zonă montană accidentată la marginea Dubaiului, oferind piscine naturale, lacuri de acumulare și vreme mai răcoroasă.", en: "A rugged mountain area on the edge of Dubai, offering natural pools, reservoirs, and cooler weather." },
     facts: {
       de: ["Beliebtes Ziel für Mountainbiker.", "Bietet kühlere Temperaturen als die Küste.", "Beherbergt den bekannten Hatta-Stausee.", "Gehört administrativ zu Dubai."],
       hu: ["Népszerű célpont a hegyikerékpárosok körében.", "Hűvösebb időjárást kínál, mint a partvidék.", "Itt található az ismert Hatta-gát.", "Közigazgatásilag Dubajhoz tartozik."],
       ro: ["Destinație populară pentru bicicliștii de munte.", "Oferă temperaturi mai reci decât coasta.", "Găzduiește faimosul baraj Hatta.", "Administrativ, aparține de Dubai."],
       en: ["Popular destination for mountain bikers.", "Offers cooler temperatures than the coast.", "Home to the well-known Hatta Dam.", "Administratively belongs to Dubai."]
-    }, image: "/poi-images/hatta-mountains-relief-v2.webp"},
+    }, image: "/poi-images/hatta-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hatta-Berge liegen im Emirat Dubai, etwa 130 km südöstlich der Stadt. Sie sind Teil der Al-Hadschar-Kette und erreichen Höhen von bis zu 1.500 Metern. Das Gebiet umfasst das Hatta-Dorf, ein historisches Bergdorf mit traditioneller Architektur. Die Berge sind bekannt für ihre schroffen Grate und Wadis. In der Region gibt es Staudämme und Seen, die für den Tourismus erschlossen wurden.",
+      hu: "A Hatta-hegység Dubaitól kb. 130 km-re délkeletre található, a Hadsar-hegység része. A legmagasabb csúcsok 1500 métert is elérnek. A terület híres a tradicionális Hatta faluról, amelyet felújítottak. A hegyekben több víztározó és tó található, amelyek népszerű kirándulóhelyek. A geológiai rétegek ofiolitot és mészkövet mutatnak.",
+      ro: "Munții Hatta sunt situați în emiratul Dubai, la aproximativ 130 km sud-est de oraș. Fac parte din lanțul Al Hajar, cu vârfuri de până la 1.500 m. Zona include satul istoric Hatta, cu case din piatră și un sistem de irigații tradițional. Munții sunt brăzdați de văi adânci și lacuri artificiale. Geologia este compusă din ofiolit și calcar.",
+      en: "The Hatta Mountains are a section of the Hajar range in Dubai, UAE, about 130 km southeast of Dubai city. Peaks here reach up to 1,500 meters. The area is known for the reconstructed Hatta Heritage Village, which showcases traditional mountain life. Man-made dams like Hatta Dam create turquoise reservoirs popular for kayaking. The mountains are crisscrossed by hiking trails, and the region is a biodiversity hotspot for endemic plants.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung zu Dubai: 130 km", "Höchster Gipfel: ca. 1.500 m", "Hatta-Dorf: gegründet im 18. Jahrhundert", "Staudammkapazität: 1,7 Mio. m³", "Seeoberfläche: 0,5 km²", "Wanderwegnetz: 30 km"],
+      hu: ["Távolság Dubaitól: 130 km", "Legmagasabb pont: 1500 m", "Hatta falu alapítva: 18. század", "Hatta-gát kapacitása: 1,7 millió m³", "Tó felszíne: 0,5 km²", "Túraútvonalak hossza: 30 km"],
+      ro: ["Distanță Dubai: 130 km", "Altitudine maximă: 1.500 m", "Satul Hatta fondat: secolul XVIII", "Capacitate baraj Hatta: 1,7 milioane m³", "Suprafață lac: 0,5 km²", "Trasee de drumeție: 30 km"],
+      en: ["Distance from Dubai: 130 km", "Highest peak: approx. 1,500 m", "Hatta Village founded: 18th century", "Hatta Dam capacity: 1.7 million m³", "Lake surface area: 0.5 km²", "Hiking trail network: 30 km"],
+    },
+  },
   {
     id: "al-badayer-desert-relief-v2",
     type: "desert",
     parent: "AE-SH",
     coords: [55.7266, 24.9542],
-    name: { de: "Al Badayer Wüste", hu: "Al Badajer-sivatag", ro: "Deșertul Al Badayer", en: "Al Badayer Desert",
-image: "/poi-images/al-badayer-desert-relief-v2.webp"
-},
+    name: { de: "Al Badayer Wüste", hu: "Al Badajer-sivatag", ro: "Deșertul Al Badayer", en: "Al Badayer Desert"},
+    image: "/poi-images/al-badayer-desert-relief-v2.webp",
     description: { de: "Eine Wüstenregion in Sharjah, die für ihre markanten feuerroten Sanddünen und aufregenden Safari-Erlebnisse geschätzt wird.", hu: "Sharjah sivatagi régiója, amelyet jellegzetes tűzpiros homokdűnéi és izgalmas szafari élményei miatt kedvelnek.", ro: "O regiune deșertică din Sharjah, apreciată pentru dunele sale de nisip roșu aprins și experiențele captivante de safari.", en: "A desert region in Sharjah, appreciated for its striking fire-red sand dunes and exciting safari experiences." },
     facts: {
       de: ["Berühmt für seine riesigen roten Sanddünen.", "Ein Zentrum für Wüstencamping und Offroading.", "Die 'Big Red' Düne ist eine Hauptattraktion.", "Liegt an der Straße zwischen Dubai und Hatta."],
       hu: ["Hatalmas vörös homokdűnéiről híres.", "A sivatagi kempingezés és a terepjárózás központja.", "A Big Red dűne a fő látványosság.", "A Dubajt Hattával összekötő út mentén fekszik."],
       ro: ["Faimos pentru dunele sale uriașe de nisip roșu.", "Un centru pentru camping în deșert și off-road.", "Duna 'Big Red' este atracția principală.", "Situat pe drumul dintre Dubai și Hatta."],
       en: ["Famous for its huge red sand dunes.", "A hub for desert camping and off-roading.", "The 'Big Red' dune is a main attraction.", "Located on the road between Dubai and Hatta."]
-    }, image: "/poi-images/al-badayer-desert-relief-v2.webp"},
+    }, image: "/poi-images/al-badayer-desert-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Badayer-Wüste, auch bekannt als Big Red, liegt im Emirat Schardscha, etwa 40 km östlich der Stadt. Sie ist berühmt für ihre riesigen roten Sanddünen, die bis zu 100 Meter hoch sind. Das Gebiet ist ein beliebtes Ziel für Desert-Safaris und Dünenfahren. In der Nähe gibt es das Badayer Retreat, eine Wüstenlodge. Die Dünen bestehen aus feinem, eisenoxidreichem Sand.",
+      hu: "Az al-Badayer-sivatag, más néven Big Red, Sharjah emírségben található, kb. 40 km-re keletre a várostól. Híres a vörös homokdűnéiről, amelyek elérik a 100 méteres magasságot. A terület népszerű a sivatagi szafarik és a dűnezés szerelmesei körében. Itt található a Badayer Retreat szálloda is. A homok magas vastartalma miatt vörös színű.",
+      ro: "Deșertul Al Badayer, cunoscut și sub numele de Big Red, este situat în emiratul Sharjah, la aproximativ 40 km est de oraș. Este renumit pentru dunalele sale roșii, care ating 100 de metri înălțime. Este o destinație populară pentru safari în deșert și condus pe dune. În apropiere se află stațiunea Badayer Retreat. Nisipul are o culoare roșie datorită oxidului de fier.",
+      en: "Al Badayer Desert, also known as Big Red, is a famous dune area in Sharjah, UAE, about 40 km east of the city. Its dunes are among the highest in the region, reaching 100 meters, and are colored deep red by iron oxide. The area is a hotspot for dune bashing and sandboarding. The Badayer Retreat offers luxury accommodation. It is also a nesting site for the critically endangered hawksbill turtle near the coast.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung zu Schardscha: 40 km", "Maximale Dünenhöhe: 100 m", "Farbe: rot (Eisenoxid)", "Fläche: ca. 30 km²", "Dünenfahrten: 50.000 Besucher pro Jahr", "Nistplätze der Karettschildkröte: 2 Strände"],
+      hu: ["Távolság Sharjahtól: 40 km", "Legmagasabb dűne: 100 m", "Homok színe: vörös (vas-oxid)", "Terület: 30 km²", "Éves látogatók: 50.000", "Teknős fészkelőhelyek: 2"],
+      ro: ["Distanță Sharjah: 40 km", "Înălțime maximă dune: 100 m", "Culoare: roșie (oxid de fier)", "Suprafață: 30 km²", "Vizitatori anual: 50.000", "Plaje cuibărit țestoase: 2"],
+      en: ["Distance from Sharjah: 40 km", "Maximum dune height: 100 m", "Sand color: red (iron oxide)", "Area: 30 km²", "Annual visitors: 50,000", "Hawksbill turtle nesting beaches: 2"],
+    },
+  },
   {
     id: "ruus-al-jibal-relief-v2",
     type: "mountain",
     parent: "AE-RK",
     coords: [56.1167, 25.8667],
-    name: { de: "Ru'us al-Dschibal", hu: "Ru'us al-Dzsibál", ro: "Ru'us al-Jibal", en: "Ru'us al-Jibal",
-image: "/poi-images/ruus-al-jibal-relief-v2.webp"
-},
+    name: { de: "Ru'us al-Dschibal", hu: "Ru'us al-Dzsibál", ro: "Ru'us al-Jibal", en: "Ru'us al-Jibal"},
+    image: "/poi-images/ruus-al-jibal-relief-v2.webp",
     description: { de: "Der nördlichste, steil abfallende Ausläufer des Hadschar-Gebirges, der die Musandam-Halbinsel dominiert.", hu: "A Hadzsar-hegység legészakibb, meredeken lejtő nyúlványa, amely uralja a Muszandam-félszigetet.", ro: "Extensia nordică, abruptă a Munților Hajar, care domină Peninsula Musandam.", en: "The northernmost, steeply sloping extension of the Hajar Mountains dominating the Musandam Peninsula." },
     facts: {
       de: ["Bedeutet 'Köpfe der Berge'.", "Der nördlichste Teil des Hadschar-Gebirges.", "Fällt steil ins Meer der Musandam-Halbinsel ab.", "Zeichnet sich durch schroffe Kalksteingipfel aus."],
       hu: ["A neve azt jelenti: A hegyek feje.", "A Hadzsar-hegység legészakibb része.", "Meredeken zuhan a tengerbe a Muszandam-félszigetnél.", "Zord mészkőcsúcsok jellemzik."],
       ro: ["Înseamnă 'Capetele Munților'.", "Cea mai nordică parte a Munților Hajar.", "Se coboară abrupt în marea Peninsulei Musandam.", "Se caracterizează prin vârfuri de calcar accidentate."],
       en: ["Means 'Heads of the Mountains'.", "The northernmost part of the Hajar Mountains.", "Drops steeply into the sea of the Musandam Peninsula.", "Characterized by rugged limestone peaks."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Ruus al-Dschibal („Gipfel der Berge“) ist die nördlichste Bergkette der Al-Hadschar, die auf der Musandam-Halbinsel liegt. Sie erstreckt sich über etwa 100 km von Oman bis in die Vereinigten Arabischen Emirate. Die Berge bestehen aus Kalkstein und Dolomit und sind durch tiefe Fjorde (Khors) geprägt, die ins Meer einschneiden. Die Region ist bekannt für ihre abgeschiedene Schönheit und ist ein Paradies für Geologen.",
+      hu: "A Ruusz al-Dzsibal („a hegyek csúcsai“) a Hadsar-hegység legészakibb vonulata, a Musandam-félszigeten. Körülbelül 100 km hosszan húzódik Omán és az Egyesült Arab Emírségek területén. A hegyek mészkőből és dolomitból állnak, és mély fjordok (khorok) tagolják a partot. A terület geológiailag rendkívül érdekes, és a delfinek számára is fontos élőhely.",
+      ro: "Ruus al Jibal („Vârfurile munților”) este lanțul muntos cel mai nordic al Munților Al Hajar, situat pe Peninsula Musandam. Se întinde pe aproximativ 100 km, acoperind părți din Oman și Emiratele Arabe Unite. Munții sunt formați din calcar și dolomit, iar coasta este brăzdată de golfuri adânci (khors). Zona este renumită pentru geologia sa carstică și pentru observarea delfinilor.",
+      en: "Ruus al Jibal, meaning 'Heads of the Mountains', is the northernmost range of the Hajar Mountains, occupying the Musandam Peninsula. It extends about 100 km and features dramatic limestone and dolomite cliffs that drop into the sea, forming fjord-like khors. The range is sparsely populated, with only a few villages accessible by boat. It is a biodiversity hotspot, home to the endemic Musandam rock lizard and a prime location for dolphin watching.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 100 km", "Gestein: Kalkstein und Dolomit", "Höchster Gipfel: Dschabal Harim, 2.087 m", "Anzahl der Fjorde: 5 größere", "Delfinarten: 3 (Großer Tümmler, Indopazifischer Delfin)", "Bevölkerungsdichte: <1 Einwohner pro km²"],
+      hu: ["Hossz: 100 km", "Legmagasabb csúcs: Jebel Harim, 2087 m", "Kőzet: mészkő, dolomit", "Fjordok száma: 5", "Delfinfajok: 3", "Laksűrűség: <1 fő/km²"],
+      ro: ["Lungime: 100 km", "Roci: calcar, dolomit", "Altitudine maximă: Jebel Harim, 2.087 m", "Număr golfuri: 5 principale", "Specii delfini: 3", "Densitate populație: <1 locuitor/km²"],
+      en: ["Length: 100 km", "Rock types: limestone and dolomite", "Highest peak: Jebel Harim, 2,087 m", "Number of khors (fjords): 5 major", "Dolphin species: 3 (bottlenose, Indo-Pacific, common)", "Population density: <1 person per km²"],
+    },
   },
   {
     id: "wadi-qor-relief-v2",
     type: "valley",
     parent: "AE-RK",
     coords: [56.1628, 24.9814],
-    name: { de: "Wadi Qor", hu: "Vadi Kor", ro: "Wadi Qor", en: "Wadi Qor",
-image: "/poi-images/wadi-qor-relief-v2.webp"
-},
+    name: { de: "Wadi Qor", hu: "Vadi Kor", ro: "Wadi Qor", en: "Wadi Qor"},
+    image: "/poi-images/wadi-qor-relief-v2.webp",
     description: { de: "Ein historisches Flusstal, das einst eine wichtige Verbindung für Handelskarawanen zwischen den Küsten bildete.", hu: "Egy történelmi folyóvölgy, amely egykor fontos összeköttetést jelentett a partvidékek közötti kereskedelmi karavánok számára.", ro: "O vale istorică de râu care a format odată o legătură importantă pentru caravanele comerciale între coaste.", en: "A historic river valley that once formed an important link for trade caravans between the coasts." },
     facts: {
       de: ["Historisch wichtiger Durchgang im Gebirge.", "Wurde von alten Karawanen genutzt.", "Besitzt verstreute archäologische Stätten.", "Heute eine ruhige Route für Naturliebhaber."],
       hu: ["Történelmileg fontos átjáró a hegységben.", "Ősi karavánok használták a területet.", "Szórványos régészeti lelőhelyekkel rendelkezik.", "Ma a természetkedvelők csendes útvonala."],
       ro: ["Trecere montană importantă din punct de vedere istoric.", "A fost folosită de vechile caravane.", "Are situri arheologice împrăștiate.", "Astăzi, o rută liniștită pentru iubitorii de natură."],
       en: ["Historically important passage in the mountains.", "Was used by ancient caravans.", "Has scattered archaeological sites.", "Today a quiet route for nature lovers."]
-    }, image: "/poi-images/wadi-qor-relief-v2.webp"},
+    }, image: "/poi-images/wadi-qor-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Qor liegt im Emirat Ra's al-Chaima, etwa 50 km nordöstlich der Stadt. Der Wadi ist etwa 8 km lang und für seine landwirtschaftlichen Terrassen und alten Bewässerungssysteme bekannt. Die Gegend ist dicht mit Dattelpalmen bepflanzt. In den Felswänden wurden Gräber aus der Eisenzeit gefunden. Der Wadi ist ein beliebtes Ziel für Naturliebhaber und Fotografen.",
+      hu: "A Wadi Qor Ras al-Khaimah emírségben található, kb. 50 km-re északkeletre a várostól. Hossza körülbelül 8 km, és híres a teraszos mezőgazdaságáról és az ősi öntözőrendszerekről. A völgyben sok datolyapálma található. A sziklákban vaskori sírokat fedeztek fel. Népszerű kirándulóhely.",
+      ro: "Wadi Qor este situat în emiratul Ras Al Khaimah, la aproximativ 50 km nord-est de oraș. Valea are aproximativ 8 km lungime și este cunoscută pentru terasele agricole și sistemele antice de irigații. Zona este plantată cu palmieri de curmal. În pereții de stâncă au fost descoperite morminte din epoca fierului. Este o destinație populară pentru drumeții și fotografie.",
+      en: "Wadi Qor is a valley in Ras Al Khaimah, UAE, about 50 km northeast of the city, stretching 8 km. It is renowned for its ancient agricultural terraces and falaj irrigation systems, still in use. The wadi is lush with date palms and other crops. Archaeological excavations have uncovered Iron Age tombs (1250-300 BCE). It serves as a peaceful retreat for hiking and exploring rural life.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 8 km", "Entfernung zu Ra's al-Chaima: 50 km", "Eisenzeitgräber: 5 Stätten", "Anzahl der Dattelpalmen: ca. 3.000", "Bewässerungssystem: Falaj, Gesamtlänge 3 km", "Höhe der Terrassen: bis zu 200 m ü. M."],
+      hu: ["Hossz: 8 km", "Távolság Ras al-Khaimah-tól: 50 km", "Vaskori sírok: 5 lelőhely", "Datolyapálmák: 3000", "Öntözőcsatorna hossza: 3 km", "Teraszok magassága: 200 m"],
+      ro: ["Lungime: 8 km", "Distanță Ras Al Khaimah: 50 km", "Morminte epoca fierului: 5 situri", "Număr curmali: 3.000", "Lungime sistem irigații: 3 km", "Altitudine terase: până la 200 m"],
+      en: ["Length: 8 km", "Distance from Ras Al Khaimah: 50 km", "Iron Age tomb sites: 5", "Number of date palms: approx. 3,000", "Irrigation channel length: 3 km", "Terrace elevation: up to 200 m above sea level"],
+    },
+  },
   {
     id: "fossil-rock-relief-v2",
     type: "mountain",
     parent: "AE-SH",
     coords: [55.8286, 25.1432],
-    name: { de: "Fossil Rock", hu: "Fosszília-szikla", ro: "Fossil Rock", en: "Fossil Rock",
-image: "/poi-images/fossil-rock-relief-v2.webp"
-},
+    name: { de: "Fossil Rock", hu: "Fosszília-szikla", ro: "Fossil Rock", en: "Fossil Rock"},
+    image: "/poi-images/fossil-rock-relief-v2.webp",
     description: { de: "Ein markanter Kalksteinfelsen inmitten der Wüste, in dem man Abdrücke uralter Meereslebewesen finden kann.", hu: "Jellegzetes mészkőszikla a sivatag közepén, amelyben ősi tengeri élőlények lenyomatai találhatók.", ro: "O stâncă de calcar izbitoare în mijlocul deșertului, unde se pot găsi amprente ale creaturilor marine antice.", en: "A striking limestone rock in the middle of the desert where one can find imprints of ancient marine life." },
     facts: {
       de: ["Bekannt als Jebel Maleihah.", "Enthält Millionen Jahre alte Meeresfossilien.", "Ein Beweis dafür, dass die Wüste einst ein Meer war.", "Ein beliebtes Ziel für Wanderungen bei Sonnenuntergang."],
       hu: ["Más néven Dzsebel Maleihah.", "Több millió éves tengeri fosszíliákat tartalmaz.", "Bizonyíték arra, hogy a sivatag egykor tenger volt.", "Népszerű célpont naplementekor tett túrákhoz."],
       ro: ["Cunoscut sub numele de Jebel Maleihah.", "Conține fosile marine vechi de milioane de ani.", "Dovadă că deșertul a fost odată o mare.", "O destinație populară pentru drumețiile la apus."],
       en: ["Also known as Jebel Maleihah.", "Contains millions of years old marine fossils.", "Proof that the desert was once a sea.", "A popular destination for sunset hikes."]
-    }, image: "/poi-images/fossil-rock-relief-v2.webp"},
+    }, image: "/poi-images/fossil-rock-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Fossil Rock (auch Jebel Maleihah genannt) ist ein markanter Hügel im Emirat Schardscha, etwa 50 km östlich der Stadt. Er ist bekannt für seine reichen Fossilienvorkommen, darunter versteinerte Meereslebewesen aus der Kreidezeit. Der Hügel erhebt sich etwa 50 Meter über die umliegende Ebene. Es ist ein beliebtes Ziel für Fossiliensammler und Geologen.",
+      hu: "A Fossil Rock (más néven Jebel Maleihah) egy feltűnő domb Sharjah emírségben, kb. 50 km-re keletre a várostól. Híres a gazdag ősmaradvány-lelőhelyeiről, főleg krétakori tengeri élőlények fosszíliáiról. A domb kb. 50 méter magas. Népszerű a fosszíliavadászok és geológusok körében.",
+      ro: "Fossil Rock (cunoscut și ca Jebel Maleihah) este un deal proeminent în emiratul Sharjah, la aproximativ 50 km est de oraș. Este renumit pentru depozitele bogate de fosile marine din perioada Cretacic. Dealul se ridică la circa 50 de metri deasupra câmpiei înconjurătoare. Este o destinație populară pentru colecționarii de fosile și geologi.",
+      en: "Fossil Rock, also known as Jebel Maleihah, is a prominent hill in Sharjah, UAE, about 50 km east of the city. It rises 50 meters above the surrounding desert plain. The site is famous for its abundant marine fossils from the Cretaceous period, including ammonites and bivalves. It is a protected area for paleontological research and attracts amateur fossil hunters. The rock layers are a record of ancient seabed environments.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 50 m", "Entfernung zu Schardscha: 50 km", "Geologische Periode: Kreidezeit (vor 145-66 Mio. Jahren)", "Fossilienarten: Ammoniten, Muscheln, Seeigel", "Schutzstatus: Naturreservat", "Besucher pro Jahr: ca. 20.000"],
+      hu: ["Magasság: 50 m", "Távolság Sharjahtól: 50 km", "Földtörténeti kor: kréta", "Fosszíliák: ammoniteszek, kagylók, tengeri sünök", "Védettség: természetvédelmi terület", "Éves látogatók: 20.000"],
+      ro: ["Înălțime: 50 m", "Distanță Sharjah: 50 km", "Perioadă geologică: Cretacic (acum 145-66 mil. ani)", "Fosile: amoniți, bivalve, arici de mare", "Statut de protecție: rezervație naturală", "Vizitatori anual: 20.000"],
+      en: ["Height: 50 m", "Distance from Sharjah: 50 km", "Geological period: Cretaceous (145-66 million years ago)", "Fossil types: ammonites, bivalves, sea urchins", "Protected status: nature reserve", "Annual visitors: approx. 20,000"],
+    },
+  },
   {
     id: "mleiha-desert-relief-v2",
     type: "desert",
     parent: "AE-SH",
     coords: [55.8500, 25.1167],
-    name: { de: "Mleiha-Wüste", hu: "Mleiha-sivatag", ro: "Deșertul Mleiha", en: "Mleiha Desert",
-image: "/poi-images/mleiha-desert-relief-v2.webp"
-},
+    name: { de: "Mleiha-Wüste", hu: "Mleiha-sivatag", ro: "Deșertul Mleiha", en: "Mleiha Desert"},
+    image: "/poi-images/mleiha-desert-relief-v2.webp",
     description: { de: "Eine einzigartige Wüstenregion, die für ihre faszinierenden archäologischen Stätten und beeindruckenden Felsformationen bekannt ist.", hu: "Egyedülálló sivatagi régió, amely lenyűgöző régészeti lelőhelyeiről és sziklaképződményeiről ismert.", ro: "O regiune deșertică unică, cunoscută pentru siturile sale arheologice fascinante și formațiunile de rocă impresionante.", en: "A unique desert region known for its fascinating archaeological sites and impressive rock formations." },
     facts: {
       de: ["Reich an archäologischen Entdeckungen.", "Bietet spektakuläre Sternenbeobachtungen.", "Nahtloser Übergang von Sanddünen zu Bergen.", "Heimat des Mleiha Archaeological Centre."],
       hu: ["Régészeti felfedezésekben gazdag terület.", "Látványos csillagnéző programokat kínál.", "Zökkenőmentes átmenet a homokdűnéktől a hegyekig.", "A Mleiha Régészeti Központ otthona."],
       ro: ["Bogat în descoperiri arheologice.", "Oferă observații stelare spectaculoase.", "Tranziție fluidă de la dune de nisip la munți.", "Găzduiește Centrul Arheologic Mleiha."],
       en: ["Rich in archaeological discoveries.", "Offers spectacular stargazing.", "Seamless transition from sand dunes to mountains.", "Home to the Mleiha Archaeological Centre."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Mleiha-Wüste liegt im Emirat Schardscha, etwa 60 km östlich der Stadt. Sie ist ein Gebiet von großer archäologischer Bedeutung mit Funden aus der Steinzeit, Bronzezeit und Eisenzeit. Die Landschaft besteht aus Sanddünen und felsigen Plateaus. Das Mleiha Archaeological Centre zeigt Artefakte und bietet Einblicke in die frühe Besiedlung. Die Region ist auch für ihre Höhlen bekannt.",
+      hu: "A Mleiha-sivatag Sharjah emírségben található, kb. 60 km-re keletre a várostól. Régészeti szempontból rendkívül fontos terület: kőkori, bronzkori és vaskori leleteket tártak fel. A tájat homokdűnék és sziklás fennsíkok jellemzik. A Mleiha Régészeti Központban kiállítások találhatók. A környéken barlangok is felfedezhetők.",
+      ro: "Deșertul Mleiha este situat în emiratul Sharjah, la aproximativ 60 km est de oraș. Este o zonă de mare importanță arheologică, cu descoperiri din epoca de piatră, bronz și fier. Peisajul este format din dune de nisip și platouri stâncoase. Centrul Arheologic Mleiha expune artefacte. Regiunea este cunoscută și pentru peșterile sale.",
+      en: "The Mleiha Desert is an archaeological treasure trove in Sharjah, UAE, about 60 km east of the city. Human presence here dates back 125,000 years, with discoveries from the Paleolithic, Bronze, and Iron Ages. The landscape includes rolling sand dunes and limestone outcrops. The Mleiha Archaeological Centre is a major attraction. The area also features caves like the Mleiha Cave, a karst formation.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung zu Schardscha: 60 km", "Älteste Funde: 125.000 Jahre alt", "Archäologische Stätten: >50", "Fläche des Schutzgebiets: 120 km²", "Höhlen: 3 bekannte", "Besucher des Zentrums: 100.000 pro Jahr"],
+      hu: ["Távolság Sharjahtól: 60 km", "Legrégebbi lelet: 125.000 éves", "Régészeti lelőhelyek: több mint 50", "Védett terület: 120 km²", "Barlangok: 3 ismert", "Látogatók: 100.000 évente"],
+      ro: ["Distanță Sharjah: 60 km", "Cele mai vechi descoperiri: 125.000 de ani", "Situri arheologice: peste 50", "Suprafață protejată: 120 km²", "Peșteri: 3 cunoscute", "Vizitatori anual: 100.000"],
+      en: ["Distance from Sharjah: 60 km", "Oldest finds: 125,000 years old", "Archaeological sites: over 50", "Protected area: 120 km²", "Known caves: 3", "Annual visitors: 100,000"],
+    },
   },
   {
     id: "khor-fakkan-coast-relief-v2",
     type: "coast",
     parent: "AE-SH",
     coords: [56.3500, 25.3333],
-    name: { de: "Küste von Khor Fakkan", hu: "Khor Fakkan partvidéke", ro: "Coasta Khor Fakkan", en: "Khor Fakkan Coast",
-image: "/poi-images/khor-fakkan-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Khor Fakkan", hu: "Khor Fakkan partvidéke", ro: "Coasta Khor Fakkan", en: "Khor Fakkan Coast"},
+    image: "/poi-images/khor-fakkan-coast-relief-v2.webp",
     description: { de: "Eine malerische, hufeisenförmige Bucht am Golf von Oman, die für ihr klares Wasser und ihre Tauchplätze berühmt ist.", hu: "Festői, patkó alakú öböl az Ománi-öbölnél, amely tiszta vizéről és merülőhelyeiről híres.", ro: "Un golf pitoresc în formă de potcoavă în Golful Oman, renumit pentru apele sale limpezi și siturile de scufundări.", en: "A picturesque, horseshoe-shaped bay on the Gulf of Oman, famous for its clear waters and dive sites." },
     facts: {
       de: ["Einer der schönsten Küstenabschnitte der VAE.", "Bietet Korallenriffe, die ideal zum Tauchen sind.", "Von rauen Bergen im Hintergrund umgeben.", "Liegt an der Ostküste zum Golf von Oman."],
       hu: ["Az EAE egyik legszebb partszakasza.", "Korallzátonyokat kínál, amelyek ideálisak búvárkodáshoz.", "Zord hegyek övezik a háttérben.", "A keleti parton, az Ománi-öbölnél található."],
       ro: ["Una dintre cele mai frumoase coaste din EAU.", "Oferă recife de corali ideale pentru scufundări.", "Înconjurat de munți accidentați în fundal.", "Situat pe coasta de est la Golful Oman."],
       en: ["One of the most beautiful coastlines in the UAE.", "Offers coral reefs ideal for diving.", "Surrounded by rugged mountains in the background.", "Located on the east coast along the Gulf of Oman."]
-    }, image: "/poi-images/khor-fakkan-coast-relief-v2.webp"},
+    }, image: "/poi-images/khor-fakkan-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Khor Fakkan-Küste liegt im Emirat Schardscha an der Ostküste der Vereinigten Arabischen Emirate, direkt am Golf von Oman. Sie erstreckt sich über etwa 15 km und umfasst Sandstrände, Felsküsten und Korallenriffe. Die Stadt Khor Fakkan hat einen wichtigen Containerhafen. Die Küste ist ein beliebtes Ziel für Taucher und Schnorchler.",
+      hu: "Khor Fakkan partja Sharjah emírségben található, az Egyesült Arab Emírségek keleti partján, az Ománi-öböl mentén. A partszakasz kb. 15 km hosszú, és homokos strandokat, sziklás partokat és korallzátonyokat foglal magában. A város kikötője fontos konténerterminál. A tengerpart népszerű a búvárok és sznorkelezők körében.",
+      ro: "Coasta Khor Fakkan este situată în emiratul Sharjah, pe coasta de est a Emiratelor Arabe Unite, de-a lungul Golfului Oman. Se întinde pe aproximativ 15 km, cu plaje nisipoase, faleze stâncoase și recife de corali. Orașul Khor Fakkan găzduiește un port important de containere. Zona este populară pentru scufundări și snorkeling.",
+      en: "The Khor Fakkan coast lies on the east coast of the UAE, in Sharjah, along the Gulf of Oman. It stretches 15 km with sandy beaches, rocky headlands, and fringing coral reefs. The port of Khor Fakkan is one of the region's busiest container transshipment hubs. The coastal waters are rich in marine life, including sea turtles and reef fish. It is a popular destination for water sports and diving.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: 15 km", "Hafenumschlag: 4 Mio. TEU pro Jahr", "Korallenriffe: 5 km²", "Meeresschildkröten: 3 Arten", "Wassertemperatur: 22-32°C", "Strände: 3 öffentliche"],
+      hu: ["Partszakasz hossza: 15 km", "Kikötői forgalom: 4 millió TEU/év", "Korallzátonyok: 5 km²", "Tengeri teknősök: 3 faj", "Vízhőmérséklet: 22-32°C", "Nyilvános strandok: 3"],
+      ro: ["Lungime coastă: 15 km", "Trafic portuar: 4 milioane TEU/an", "Recife de corali: 5 km²", "Țestoase marine: 3 specii", "Temperatură apă: 22-32°C", "Plaje publice: 3"],
+      en: ["Coastline length: 15 km", "Port throughput: 4 million TEU per year", "Coral reef area: 5 km²", "Sea turtle species: 3", "Water temperature: 22-32°C", "Public beaches: 3"],
+    },
+  },
   {
     id: "wadi-al-bih-plateau-relief-v2",
     type: "plateau",
     parent: "AE-RK",
     coords: [56.1000, 25.8167],
-    name: { de: "Wadi Bih-Plateau", hu: "Vadi Bih-fennsík", ro: "Platoul Wadi Bih", en: "Wadi Al Bih Plateau",
-image: "/poi-images/wadi-al-bih-plateau-relief-v2.webp"
-},
+    name: { de: "Wadi Bih-Plateau", hu: "Vadi Bih-fennsík", ro: "Platoul Wadi Bih", en: "Wadi Al Bih Plateau"},
+    image: "/poi-images/wadi-al-bih-plateau-relief-v2.webp",
     description: { de: "Ein weites, unberührtes Hochplateau, das sich tief in die Berge schneidet und ein dramatisches Landschaftsbild bietet.", hu: "Hatalmas, érintetlen magasföld, amely mélyen a hegyekbe vág, és drámai tájképet kínál.", ro: "Un platou înalt vast, neatins, care taie adânc în munți și oferă un peisaj dramatic.", en: "A vast, pristine high plateau cutting deep into the mountains and offering a dramatic landscape." },
     facts: {
       de: ["Wird oft als der Grand Canyon der VAE bezeichnet.", "Erreicht Höhen von über 1000 Metern.", "Beeindruckt mit tiefen Schluchten und Klippen.", "Eine der spektakulärsten Straßen der Region."],
       hu: ["Gyakran az EAE Grand Canyonjának nevezik.", "Több mint 1000 méteres magasságot ér el.", "Mély kanyonokkal és sziklákkal nyűgöz le.", "A régió egyik leglátványosabb útvonala."],
       ro: ["Adesea numit Marele Canion al EAU.", "Atinge înălțimi de peste 1000 de metri.", "Impresionează cu canioane adânci și stânci.", "Unul dintre cele mai spectaculoase drumuri din regiune."],
       en: ["Often referred to as the Grand Canyon of the UAE.", "Reaches heights of over 1000 meters.", "Impresses with deep canyons and cliffs.", "One of the most spectacular roads in the region."]
-    }, image: "/poi-images/wadi-al-bih-plateau-relief-v2.webp"},
+    }, image: "/poi-images/wadi-al-bih-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi-Al-Bih-Plateau liegt im Emirat Ra's al-Chaima und ist ein Kalksteinplateau auf einer Höhe von etwa 800 Metern. Es erstreckt sich über 20 km und ist von tiefen Wadis durchzogen. Die Region ist bekannt für ihre landwirtschaftlichen Dörfer, die traditionelle Terrassenfelder nutzen. Der Wadi Al Bih ist der tiefste Wadi in den VAE.",
+      hu: "A Wadi Al Bih fennsík Ras al-Khaimah emírségben található, egy mészkőfennsík kb. 800 méter magasan. Hossza 20 km, és mély völgyek szabdalják. A terület híres a hagyományos mezőgazdasági teraszairól. A Wadi Al Bih a legmélyebb völgy az Egyesült Arab Emírségekben, mélysége eléri a 300 métert.",
+      ro: "Podisul Wadi Al Bih este situat în emiratul Ras Al Khaimah, un podiș calcaros la aproximativ 800 m altitudine. Se întinde pe 20 km, fiind brăzdat de văi adânci. Zona este cunoscută pentru satele agricole cu terase tradiționale. Wadi Al Bih este cel mai adânc canion din Emiratele Arabe Unite, cu o adâncime de până la 300 de metri.",
+      en: "The Wadi Al Bih Plateau is a limestone plateau in Ras Al Khaimah, UAE, at an elevation of about 800 meters. It extends 20 km and is dissected by deep wadis, including Wadi Al Bih, the deepest canyon in the UAE (300 meters deep). The plateau is home to several mountain villages practicing terrace farming. It is a key area for biodiversity, supporting rare plants like the Arabian primrose.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 800 m", "Länge des Plateaus: 20 km", "Tiefster Wadi: 300 m tief", "Anzahl der Dörfer: 5", "Landwirtschaftliche Fläche: 10 km²", "Pflanzenarten: >100, darunter Arabische Primel"],
+      hu: ["Magasság: 800 m", "Fennsík hossza: 20 km", "Legmélyebb völgy: 300 m", "Falvak száma: 5", "Mezőgazdasági terület: 10 km²", "Növényfajok: több mint 100"],
+      ro: ["Altitudine: 800 m", "Lungime podiș: 20 km", "Adâncime maximă văi: 300 m", "Număr sate: 5", "Suprafață agricolă: 10 km²", "Specii de plante: peste 100"],
+      en: ["Elevation: 800 m", "Plateau length: 20 km", "Deepest wadi depth: 300 m", "Number of villages: 5", "Agricultural area: 10 km²", "Plant species: >100, including Arabian primrose"],
+    },
+  },
   {
     id: "al-dhafra-coast-relief-v2",
     type: "coast",
     parent: "AE-AZ",
     coords: [52.8833, 23.9500],
-    name: { de: "Al Dhafra Küste", hu: "Al Dhafra partvidéke", ro: "Coasta Al Dhafra", en: "Al Dhafra Coast",
-image: "/poi-images/al-dhafra-coast-relief-v2.webp"
-},
+    name: { de: "Al Dhafra Küste", hu: "Al Dhafra partvidéke", ro: "Coasta Al Dhafra", en: "Al Dhafra Coast"},
+    image: "/poi-images/al-dhafra-coast-relief-v2.webp",
     description: { de: "Ein weitläufiger Küstenstreifen im Westen der VAE, der für seine traditionellen Fischerdörfer und ausgedehnten Mangroven bekannt ist.", hu: "Kiterjedt partvonal az EAE nyugati részén, amely hagyományos halászfalvairól és kiterjedt mangroveerdőiről ismert.", ro: "O fâșie de coastă expansivă în vestul EAU, cunoscută pentru satele sale tradiționale de pescari și mangrovelor extinse.", en: "An expansive coastal strip in the west of the UAE, known for its traditional fishing villages and extensive mangroves." },
     facts: {
       de: ["Hunderte Kilometer unberührter Küstenlinie.", "Heimat wichtiger Mangrovenwälder.", "Traditionell ein Zentrum für Perlenfischer.", "Bedeutend für den Schutz der Meeresumwelt."],
       hu: ["Több száz kilométernyi érintetlen partvonal.", "Fontos mangroveerdőknek ad otthont.", "Hagyományosan a gyöngyhalászok központja volt.", "Jelentős a tengeri környezet védelme szempontjából."],
       ro: ["Sute de kilometri de coastă neatinsă.", "Găzduiește păduri importante de mangrove.", "Tradițional, un centru pentru pescarii de perle.", "Semnificativ pentru protecția mediului marin."],
       en: ["Hundreds of kilometers of pristine coastline.", "Home to important mangrove forests.", "Traditionally a center for pearl fishers.", "Significant for the protection of the marine environment."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Al-Dhafra-Küste liegt im Westen des Emirats Abu Dhabi, entlang der südlichen Küste des Persischen Golfs. Sie erstreckt sich über etwa 300 km von der Grenze zu Saudi-Arabien bis zur Stadt Abu Dhabi. Die Küste ist geprägt von Sandstränden, Salzwiesen und Mangrovenwäldern. Sie ist ein wichtiges Brutgebiet für Meeresschildkröten und Vögel.",
+      hu: "Az Al Dhafra partvidék Abu Dhabi emírség nyugati részén található, a Perzsa-öböl déli partja mentén. Körülbelül 300 km hosszan húzódik Szaúd-Arábia határától Abu Dhabi városáig. A partot homokos strandok, sós mocsarak és mangroveerdők jellemzik. Fontos fészkelőhely tengeri teknősök és madarak számára.",
+      ro: "Coasta Al Dhafra este situată în vestul emiratului Abu Dhabi, de-a lungul coastei de sud a Golfului Persic. Se întinde pe aproximativ 300 km, de la granița cu Arabia Saudită până la orașul Abu Dhabi. Coasta include plaje nisipoase, mlaștini sărate și păduri de mangrove. Este o zonă importantă de cuibărit pentru țestoase marine și păsări.",
+      en: "The Al Dhafra Coast runs along the western Abu Dhabi emirate, stretching 300 km from the Saudi border to Abu Dhabi city. This coastline features extensive sandy beaches, sabkhas (salt flats), and mangrove forests. It is a critical nesting area for the critically endangered hawksbill turtle. The region also hosts the Al Dhafra Festival, a camel beauty pageant. Oil infrastructure is prevalent inland.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: ca. 300 km", "Mangrovenfläche: 50 km²", "Nistplätze der Karettschildkröte: 10 Strände", "Vogelarten: >200", "Sabkha-Fläche: 100 km²", "Bevölkerungsdichte: <5 Einwohner pro km²"],
+      hu: ["Partszakasz hossza: 300 km", "Mangroveerdők: 50 km²", "Teknős fészkelőhelyek: 10", "Madárfajok: több mint 200", "Szikes síkságok: 100 km²", "Népsűrűség: <5 fő/km²"],
+      ro: ["Lungime coastă: 300 km", "Suprafață mangrove: 50 km²", "Plaje cuibărit țestoase: 10", "Specii păsări: peste 200", "Suprafață sabkha: 100 km²", "Densitate populație: <5 loc/km²"],
+      en: ["Coastline length: 300 km", "Mangrove area: 50 km²", "Hawksbill turtle nesting beaches: 10", "Bird species: over 200", "Sabkha area: 100 km²", "Population density: <5 per km²"],
+    },
   }
 ];

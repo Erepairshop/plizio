@@ -19,9 +19,8 @@ export const poiExtraBeninLandmarksV2: POI[] = [
       de: "Stadion der Freundschaft",
       hu: "Barátság Stadion",
       ro: "Stadionul Prieteniei",
-      en: "Friendship Stadium",
-image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp"
-},
+      en: "Friendship Stadium"},
+    image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp",
     descriptionAdvanced: {
         en: "The Stade de l'Amitié, or Friendship Stadium, officially known as Stade Général Mathieu Kérékou, is Benin's national stadium located in Cotonou. It is the country's largest sports venue, with a capacity of around 35,000 spectators. Built in 1982 with Chinese assistance, the stadium has since been the home of the Benin national football team, 'The Squirrels'. In addition to football matches, the stadium is an important venue for national celebrations, political rallies, and large-scale concerts. The facility has undergone several renovations over the years to meet international sporting standards and remains a central symbol of Beninese sporting life and national pride.",
         ro: "Stade de l'Amitié, sau Stadionul Prieteniei, cunoscut oficial ca Stade Général Mathieu Kérékou, este stadionul național al Beninului, situat în Cotonou. Este cea mai mare arenă sportivă din țară, cu o capacitate de aproximativ 35.000 de spectatori. Construit în 1982 cu ajutor chinez, stadionul a fost de atunci casa echipei naționale de fotbal a Beninului, 'Veverițele'. Pe lângă meciurile de fotbal, stadionul este un loc important pentru sărbători naționale, mitinguri politice și concerte de anvergură. Complexul a suferit mai multe renovări de-a lungul anilor pentru a îndeplini standardele sportive internaționale și rămâne un simbol central al vieții sportive și al mândriei naționale benineze.",
@@ -61,9 +60,8 @@ image: "/poi-images/stade-amitie-cotonou-landmarks-v2.webp"
       de: "Platz des Roten Sterns",
       hu: "Vörös Csillag tér",
       ro: "Piața Steaua Roșie",
-      en: "Red Star Place",
-image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp"
-},
+      en: "Red Star Place"},
+    image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp",
     descriptionAdvanced: {
         en: "The Place de l'Étoile Rouge, or Red Star Square, is one of Cotonou's most iconic squares and traffic junctions. The square is dominated by a massive socialist-realist style monument that commemorates the era of the People's Revolution of Benin (1974-1990). The monument depicts a man breaking his chains, symbolizing liberation and the power of the people. The square is one of the busiest points in the city, where several main roads meet. Although the political system has changed, the square has remained a defining element of the urban landscape and an important historical document, serving as a popular meeting point for locals and tourists alike.",
         ro: "Piața Stelei Roșii (Place de l'Étoile Rouge) este una dintre cele mai emblematice piețe și noduri de circulație din Cotonou. Piața este dominată de un monument masiv în stil realist-socialist, care comemorează perioada Revoluției Populare din Benin (1974-1990). Monumentul înfățișează un om care își rupe lanțurile, simbolizând eliberarea și puterea poporului. Piața este unul dintre cele mai aglomerate puncte ale orașului, unde se întâlnesc mai multe bulevarde principale. Deși sistemul politic s-a schimbat, piața a rămas un element definitoriu al peisajului urban și un important document istoric, fiind un loc de întâlnire popular atât pentru localnici, cât și pentru turiști.",
@@ -95,9 +93,8 @@ image: "/poi-images/place-etoile-rouge-cotonou-landmarks-v2.webp"
       de: "Alte Brücke von Cotonou",
       hu: "Cotonou-i régi híd",
       ro: "Podul Vechi din Cotonou",
-      en: "Old Bridge of Cotonou",
-image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp"
-},
+      en: "Old Bridge of Cotonou"},
+    image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp",
     description: {
       de: "Die erste Brücke, die die beiden Hälften von Cotonou über die Lagune verband und ein wichtiges Symbol der Stadtentwicklung ist.",
       hu: "Az első híd, amely összekötötte Cotonou két felét a lagúnán keresztül, és a városfejlesztés fontos szimbóluma.",
@@ -135,9 +132,8 @@ image: "/poi-images/ancien-pont-cotonou-landmarks-v2.webp"
       de: "Leuchtturm von Cotonou",
       hu: "Cotonou-i világítótorony",
       ro: "Farul din Cotonou",
-      en: "Cotonou Lighthouse",
-image: "/poi-images/phare-cotonou-landmarks-v2.webp"
-},
+      en: "Cotonou Lighthouse"},
+    image: "/poi-images/phare-cotonou-landmarks-v2.webp",
     descriptionAdvanced: {
         en: "The Cotonou Lighthouse (Phare de Cotonou) is an iconic maritime landmark on the city's Atlantic coast. Built in the early 20th century, it guided the safe navigation of ships to the port of Cotonou, Benin's economic lifeline, for decades. Although modern navigation systems have now taken over its role, the lighthouse remains an important symbol of the city's maritime history and identity. Its slender, white structure is a distinctive point on the coastline and a popular subject for photographers. The tower is a reminder of the inseparable link between the city and the sea.",
         ro: "Farul din Cotonou (Phare de Cotonou) este un reper maritim iconic pe coasta atlantică a orașului. Construit la începutul secolului al XX-lea, a ghidat timp de decenii navigația sigură a navelor către portul Cotonou, artera economică a Beninului. Deși sistemele moderne de navigație i-au preluat acum rolul, farul rămâne un simbol important al istoriei și identității maritime a orașului. Structura sa zveltă și albă este un punct distinctiv pe linia de coastă și un subiect popular pentru fotografi. Turnul amintește de legătura inseparabilă dintre oraș și mare.",
@@ -169,9 +165,8 @@ image: "/poi-images/phare-cotonou-landmarks-v2.webp"
       de: "Platz der Märtyrer",
       hu: "Mártírok tere",
       ro: "Piața Martirilor",
-      en: "Martyrs' Square",
-image: "/poi-images/place-martyrs-cotonou-landmarks-v2.webp"
-},
+      en: "Martyrs' Square"},
+    image: "/poi-images/place-martyrs-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal und Platz in Cotonou, der den Opfern des Söldnerangriffs auf Benin im Jahr 1977 gewidmet ist.",
       hu: "Emlékmű és tér Cotonouban, amelyet az 1977-es Benin elleni zsoldostámadás áldozatainak szenteltek.",
@@ -201,9 +196,8 @@ image: "/poi-images/place-martyrs-cotonou-landmarks-v2.webp"
       de: "Autonomer Hafen von Cotonou",
       hu: "Cotonou-i autonóm kikötő",
       ro: "Portul Autonom Cotonou",
-      en: "Autonomous Port of Cotonou",
-image: "/poi-images/port-autonome-cotonou-landmarks-v2.webp"
-},
+      en: "Autonomous Port of Cotonou"},
+    image: "/poi-images/port-autonome-cotonou-landmarks-v2.webp",
     description: {
       de: "Die wirtschaftliche Lunge Benins und einer der wichtigsten Tiefwasserhäfen in Westafrika für den Transitverkehr.",
       hu: "Benin gazdasági motorja és Nyugat-Afrika egyik legfontosabb mélyvízi kikötője a tranzitforgalom számára.",
@@ -233,9 +227,8 @@ image: "/poi-images/port-autonome-cotonou-landmarks-v2.webp"
       de: "Kathedrale Unserer Lieben Frau von der Barmherzigkeit",
       hu: "Irgalmasság Anyja katedrális",
       ro: "Catedrala Maicii Domnului a Milostivirii",
-      en: "Cathedral of Our Lady of Mercy",
-image: "/poi-images/cathedrale-misericorde-cotonou-landmarks-v2.webp"
-},
+      en: "Cathedral of Our Lady of Mercy"},
+    image: "/poi-images/cathedrale-misericorde-cotonou-landmarks-v2.webp",
     description: {
       de: "Die markante rot-weiß gestreifte Kathedrale von Cotonou ist ein architektonisches Juwel und das Zentrum des katholischen Glaubens in der Stadt.",
       hu: "Cotonou jellegzetes piros-fehér csíkos katedrálisa építészeti gyöngyszem és a katolikus hitélet központja a városban.",
@@ -265,9 +258,8 @@ image: "/poi-images/cathedrale-misericorde-cotonou-landmarks-v2.webp"
       de: "Präsidentenpalast",
       hu: "Elnöki Palota",
       ro: "Palatul Prezidențial",
-      en: "Presidential Palace",
-image: "/poi-images/palais-marina-cotonou-landmarks-v2.webp"
-},
+      en: "Presidential Palace"},
+    image: "/poi-images/palais-marina-cotonou-landmarks-v2.webp",
     description: {
       de: "Offizieller Amtssitz und Residenz des Präsidenten der Republik Benin, bekannt als Palais de la Marina.",
       hu: "A Benini Köztársaság elnökének hivatalos hivatala és rezidenciája, amely Palais de la Marina néven ismert.",
@@ -297,9 +289,8 @@ image: "/poi-images/palais-marina-cotonou-landmarks-v2.webp"
       de: "Kongresspalast von Cotonou",
       hu: "Cotonou-i Kongresszusi Palota",
       ro: "Palatul Congreselor din Cotonou",
-      en: "Congress Palace of Cotonou",
-image: "/poi-images/palais-congres-cotonou-landmarks-v2.webp"
-},
+      en: "Congress Palace of Cotonou"},
+    image: "/poi-images/palais-congres-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein großes Veranstaltungszentrum für internationale Konferenzen, kulturelle Events und politische Versammlungen in Benin.",
       hu: "Nemzetközi konferenciák, kulturális események és politikai gyűlések nagy helyszíne Beninben.",
@@ -329,9 +320,8 @@ image: "/poi-images/palais-congres-cotonou-landmarks-v2.webp"
       de: "Dantokpa-Markt",
       hu: "Dantokpa piac",
       ro: "Piața Dantokpa",
-      en: "Dantokpa Market",
-image: "/poi-images/marche-dantokpa-cotonou-landmarks-v2.webp"
-},
+      en: "Dantokpa Market"},
+    image: "/poi-images/marche-dantokpa-cotonou-landmarks-v2.webp",
     description: {
       de: "Einer der größten Freiluftmärkte Westafrikas, ein pulsierendes Labyrinth aus Waren, Farben und Gerüchen direkt an der Lagune.",
       hu: "Nyugat-Afrika egyik legnagyobb szabadtéri piaca, áruk, színek és illatok lüktető útvesztője közvetlenül a lagúna partján.",
@@ -361,9 +351,8 @@ image: "/poi-images/marche-dantokpa-cotonou-landmarks-v2.webp"
       de: "Nationalversammlung von Benin",
       hu: "Benini Nemzeti Gyűlés",
       ro: "Adunarea Națională a Beninului",
-      en: "National Assembly of Benin",
-image: "/poi-images/assemblee-nationale-porto-novo-landmarks-v2.webp"
-},
+      en: "National Assembly of Benin"},
+    image: "/poi-images/assemblee-nationale-porto-novo-landmarks-v2.webp",
     description: {
       de: "Der Sitz des beninischen Parlaments in Porto-Novo, ein wichtiges Symbol der Demokratie und Gesetzgebung im Land.",
       hu: "A benini parlament székhelye Porto-Novóban, a demokrácia és a törvényhozás fontos szimbóluma az országban.",
@@ -393,9 +382,8 @@ image: "/poi-images/assemblee-nationale-porto-novo-landmarks-v2.webp"
       de: "Charles-de-Gaulle-Brücke",
       hu: "Charles de Gaulle híd",
       ro: "Podul Charles de Gaulle",
-      en: "Charles de Gaulle Bridge",
-image: "/poi-images/pont-charles-de-gaulle-porto-novo-landmarks-v2.webp"
-},
+      en: "Charles de Gaulle Bridge"},
+    image: "/poi-images/pont-charles-de-gaulle-porto-novo-landmarks-v2.webp",
     description: {
       de: "Eine zentrale Brücke in Porto-Novo, die die Lagune überquert und den Verkehr zwischen der Hauptstadt und Cotonou erleichtert.",
       hu: "Központi híd Porto-Novóban, amely átível a lagúnán, megkönnyítve a közlekedést a főváros és Cotonou között.",
@@ -425,9 +413,8 @@ image: "/poi-images/pont-charles-de-gaulle-porto-novo-landmarks-v2.webp"
       de: "Gouverneurspalast",
       hu: "Kormányzói palota",
       ro: "Palatul Guvernatorului",
-      en: "Governor's Palace",
-image: "/poi-images/palais-gouverneur-porto-novo-landmarks-v2.webp"
-},
+      en: "Governor's Palace"},
+    image: "/poi-images/palais-gouverneur-porto-novo-landmarks-v2.webp",
     description: {
       de: "Ein prachtvolles Kolonialgebäude in Porto-Novo, das einst als Sitz der französischen Verwaltung diente.",
       hu: "Pompás gyarmati épület Porto-Novóban, amely egykor a francia közigazgatás székhelyeként szolgált.",
@@ -457,9 +444,8 @@ image: "/poi-images/palais-gouverneur-porto-novo-landmarks-v2.webp"
       de: "Rathaus von Cotonou",
       hu: "Cotonou-i városháza",
       ro: "Primăria din Cotonou",
-      en: "Cotonou City Hall",
-image: "/poi-images/hotel-ville-cotonou-landmarks-v2.webp"
-},
+      en: "Cotonou City Hall"},
+    image: "/poi-images/hotel-ville-cotonou-landmarks-v2.webp",
     description: {
       de: "Der Sitz der Stadtverwaltung von Cotonou, ein zentrales Gebäude für die lokale Politik und Administration.",
       hu: "Cotonou városvezetésének székhelye, a helyi politika és közigazgatás központi épülete.",
@@ -489,9 +475,8 @@ image: "/poi-images/hotel-ville-cotonou-landmarks-v2.webp"
       de: "Universität von Abomey-Calavi",
       hu: "Abomey-Calavi Egyetem",
       ro: "Universitatea din Abomey-Calavi",
-      en: "University of Abomey-Calavi",
-image: "/poi-images/universite-abomey-calavi-landmarks-v2.webp"
-},
+      en: "University of Abomey-Calavi"},
+    image: "/poi-images/universite-abomey-calavi-landmarks-v2.webp",
     description: {
       de: "Der Hauptcampus der größten Universität Benins, ein bedeutendes Zentrum für Bildung und Forschung in Westafrika.",
       hu: "Benin legnagyobb egyetemének fő campusa, az oktatás és kutatás jelentős központja Nyugat-Afrikában.",
@@ -521,9 +506,8 @@ image: "/poi-images/universite-abomey-calavi-landmarks-v2.webp"
       de: "Brücke des 50. Jahrestags",
       hu: "Az 50. évforduló hídja",
       ro: "Podul Cinquantenaire",
-      en: "Fiftieth Anniversary Bridge",
-image: "/poi-images/pont-cinquantenaire-cotonou-landmarks-v2.webp"
-},
+      en: "Fiftieth Anniversary Bridge"},
+    image: "/poi-images/pont-cinquantenaire-cotonou-landmarks-v2.webp",
     description: {
       de: "Eine moderne Brücke in Cotonou, die zum 50. Jahrestag der Unabhängigkeit eingeweiht wurde und den Verkehrsfluss verbessert.",
       hu: "Modern híd Cotonouban, amelyet a függetlenség 50. évfordulóján avattak fel, és javítja a forgalom áramlását.",
@@ -553,9 +537,8 @@ image: "/poi-images/pont-cinquantenaire-cotonou-landmarks-v2.webp"
       de: "Bulgarien-Platz",
       hu: "Bulgária tér",
       ro: "Piața Bulgaria",
-      en: "Bulgaria Square",
-image: "/poi-images/place-bulgarie-cotonou-landmarks-v2.webp"
-},
+      en: "Bulgaria Square"},
+    image: "/poi-images/place-bulgarie-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein markanter Platz in Cotonou, der an die internationale Zusammenarbeit während der sozialistischen Ära erinnert.",
       hu: "Jellegzetes tér Cotonouban, amely a szocialista korszak nemzetközi együttműködésére emlékeztet.",
@@ -585,9 +568,8 @@ image: "/poi-images/place-bulgarie-cotonou-landmarks-v2.webp"
       de: "Lenin-Platz",
       hu: "Lenin tér",
       ro: "Piața Lenin",
-      en: "Lenin Square",
-image: "/poi-images/place-lenine-cotonou-landmarks-v2.webp"
-},
+      en: "Lenin Square"},
+    image: "/poi-images/place-lenine-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein historischer Platz im Viertel Akpakpa, der an die politischen Wurzeln des modernen Benin erinnert.",
       hu: "Történelmi tér az Akpakpa negyedben, amely a modern Benin politikai gyökereire emlékeztet.",
@@ -617,9 +599,8 @@ image: "/poi-images/place-lenine-cotonou-landmarks-v2.webp"
       de: "Großer Markt von Parakou",
       hu: "Parakou-i nagy piac",
       ro: "Marea Piață din Parakou",
-      en: "Grand Marché of Parakou",
-image: "/poi-images/grand-marche-parakou-landmarks-v2.webp"
-},
+      en: "Grand Marché of Parakou"},
+    image: "/poi-images/grand-marche-parakou-landmarks-v2.webp",
     description: {
       de: "Das wirtschaftliche Zentrum Nordbenins, ein riesiger Markt, auf dem Produkte aus der gesamten Region gehandelt werden.",
       hu: "Parakou központi piaca, amely Észak-Benin gazdasági motorja és a régió kereskedelmének legfontosabb központja.",
@@ -649,9 +630,8 @@ image: "/poi-images/grand-marche-parakou-landmarks-v2.webp"
       de: "Bahnhof von Parakou",
       hu: "Parakou-i vasútállomás",
       ro: "Gara din Parakou",
-      en: "Parakou Railway Station",
-image: "/poi-images/gare-parakou-landmarks-v2.webp"
-},
+      en: "Parakou Railway Station"},
+    image: "/poi-images/gare-parakou-landmarks-v2.webp",
     description: {
       de: "Der nördliche Endpunkt der beninischen Eisenbahn, ein historisch und wirtschaftlich wichtiger Ort für den Transport.",
       hu: "A benini vasútvonal északi végállomása, történelmileg és gazdaságilag fontos helyszín a szállítás számára.",
@@ -681,9 +661,8 @@ image: "/poi-images/gare-parakou-landmarks-v2.webp"
       de: "Denkmal des Widerstands",
       hu: "Az ellenállás emlékműve",
       ro: "Monumentul Rezistenței",
-      en: "Resistance Monument",
-image: "/poi-images/monument-resistance-natitingou-landmarks-v2.webp"
-},
+      en: "Resistance Monument"},
+    image: "/poi-images/monument-resistance-natitingou-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Natitingou, das den Helden des lokalen Widerstands gegen die Kolonialisierung gewidmet ist.",
       hu: "Emlékmű Natitingouban, amelyet a gyarmatosítás elleni helyi ellenállás hőseinek szenteltek.",
@@ -713,9 +692,8 @@ image: "/poi-images/monument-resistance-natitingou-landmarks-v2.webp"
       de: "Platz der Versöhnung",
       hu: "Megbékélés tere",
       ro: "Piața Reconcilierii",
-      en: "Reconciliation Place",
-image: "/poi-images/place-reconciliation-ouidah-landmarks-v2.webp"
-},
+      en: "Reconciliation Place"},
+    image: "/poi-images/place-reconciliation-ouidah-landmarks-v2.webp",
     description: {
       de: "Ein spirituell und historisch bedeutsamer Platz in Ouidah, der das Ende des Sklavenhandels und die Heilung der Geschichte markiert.",
       hu: "Spirituálisan és történelmileg jelentős tér Ouidah-ban, amely a rabszolga-kereskedelem végét és a történelem gyógyulását jelzi.",
@@ -745,9 +723,8 @@ image: "/poi-images/place-reconciliation-ouidah-landmarks-v2.webp"
       de: "Denkmal für die 100-Jahr-Feier der Evangelisierung",
       hu: "Az evangelizáció 100. évfordulójának emlékműve",
       ro: "Monumentul Centenarului Evanghelizării",
-      en: "Centenary of Evangelization Monument",
-image: "/poi-images/monument-centenaire-evangelisation-ouidah-landmarks-v2.webp"
-},
+      en: "Centenary of Evangelization Monument"},
+    image: "/poi-images/monument-centenaire-evangelisation-ouidah-landmarks-v2.webp",
     description: {
       de: "Ein Monument in Ouidah, das an die Ankunft der ersten katholischen Missionare in Benin erinnert.",
       hu: "Emlékmű Ouidah-ban, amely az első katolikus misszionáriusok Beninbe érkezésére emlékeztet.",
@@ -777,9 +754,8 @@ image: "/poi-images/monument-centenaire-evangelisation-ouidah-landmarks-v2.webp"
       de: "Kulturzentrum Jean Pliya",
       hu: "Jean Pliya Kulturális Központ",
       ro: "Centrul Cultural Jean Pliya",
-      en: "Jean Pliya Cultural Center",
-image: "/poi-images/centre-culturel-jean-pliya-cotonou-landmarks-v2.webp"
-},
+      en: "Jean Pliya Cultural Center"},
+    image: "/poi-images/centre-culturel-jean-pliya-cotonou-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes kulturelles Zentrum in Cotonou, das Theater, Ausstellungen und Lesungen fördert.",
       hu: "Fontos kulturális központ Cotonouban, amely színházi előadásoknak, kiállításoknak és felolvasásoknak ad otthont.",
@@ -809,9 +785,8 @@ image: "/poi-images/centre-culturel-jean-pliya-cotonou-landmarks-v2.webp"
       de: "Flughafen Cotonou",
       hu: "Cotonou-i repülőtér",
       ro: "Aeroportul din Cotonou",
-      en: "Cotonou Airport",
-image: "/poi-images/aeroport-cadjehoun-cotonou-landmarks-v2.webp"
-},
+      en: "Cotonou Airport"},
+    image: "/poi-images/aeroport-cadjehoun-cotonou-landmarks-v2.webp",
     description: {
       de: "Der Flughafen Cadjehoun ist das wichtigste internationale Tor Benins und verbindet das Land mit dem Rest der Welt.",
       hu: "A Cadjehoun nemzetközi repülőtér Benin legfontosabb légiközlekedési csomópontja, amely összeköti az országot a világgal.",

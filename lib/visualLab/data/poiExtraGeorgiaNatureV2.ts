@@ -6,99 +6,170 @@ export const poiExtraGeorgiaNatureV2: POI[] = [
     type: "mountain",
     parent: "GE-SZ",
     coords: [43.1122, 43.0005],
-    name: { de: "Schchara", hu: "Shkhara", ro: "Șhara", en: "Mount Shkhara",
-image: "/poi-images/shkhara-nature-v2.webp"
-},
+    name: { de: "Schchara", hu: "Shkhara", ro: "Șhara", en: "Mount Shkhara"},
+    image: "/poi-images/shkhara-nature-v2.webp",
     description: { de: "Der Schchara ist mit 5.201 Metern der höchste Berg in Georgien und Teil der zentralen Kaukasus-Hauptkette. Er ist bekannt für seine steilen, vergletscherten Flanken und gilt als eine der anspruchsvollsten alpinistischen Herausforderungen Europas.", hu: "A Shkhara (Skhara) Grúzia legmagasabb hegye, mely 5201 méteres magasságával a Nagy-Kaukázus központi láncához tartozik. Meredek, eljegesedett lejtőiről ismert, és Európa egyik legnagyobb alpinista kihívása.", ro: "Șhara este cel mai înalt munte din Georgia, cu o altitudine de 5.201 metri, situat în lanțul central al Caucazului Mare. Este cunoscut pentru pantele sale abrupte și glaciare, reprezentând o mare provocare pentru alpiniști.", en: "Mount Shkhara is the highest peak in Georgia at 5,201 meters, located in the central part of the Greater Caucasus mountain range. It is known for its steep, glaciated slopes and is considered one of Europe's toughest mountaineering challenges." },
     facts: {
       de: ["Der höchste Punkt Georgiens und der dritthöchste im Kaukasus.", "Erstbesteigung im Jahr 1888 durch ein britisch-schweizerisches Team."],
       hu: ["Grúzia legmagasabb, a Kaukázus harmadik legmagasabb csúcsa.", "Elsőként egy brit-svájci csapat mászta meg 1888-ban."],
       ro: ["Cel mai înalt punct din Georgia și al treilea din Caucaz.", "Prima ascensiune a avut loc în 1888 de către o echipă britanico-elvețiană."],
       en: ["The highest point in Georgia and third highest in the Caucasus.", "First successfully summited in 1888 by a British-Swiss team."]
-    }, image: "/poi-images/shkhara-nature-v2.webp"},
+    }, image: "/poi-images/shkhara-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Schchara ist mit 5.201 Metern der höchste Berg Georgiens und Teil des Kaukasus-Hauptkamms. Er liegt in der Region Swanetien und ist der dritthöchste Gipfel des Kaukasus. Der Berg besteht aus Granit und Schiefer und ist von zahlreichen Gletschern bedeckt. Die Erstbesteigung gelang 1888. Heute ist Schchara ein Ziel für erfahrene Bergsteiger. Das Gebiet ist Teil des UNESCO-Welterbes.",
+      hu: "A Shkhara (5.201 m) Grúzia legmagasabb hegye a Kaukázus főgerincén. Szvanétiában található, és a harmadik legmagasabb a Kaukázusban. A csúcsot először 1888-ban mászták meg. A hegyet gleccserek borítják, és gránitból, palából áll. Az UNESCO világörökség része. A régió népszerű a hegymászók körében, de technikailag nehéz túra.",
+      ro: "Muntele Shkhara, cu 5.201 m, este cel mai înalt vârf din Georgia, situat în Caucazul Mare. Face parte din masivul Bezingi și este al treilea cel mai înalt din Caucaz. A fost escaladat pentru prima dată în 1888. Este acoperit de ghețari și compus din granit și șist. Zona este inclusă în Patrimoniul Mondial UNESCO. Este un traseu dificil, rezervat alpiniștilor experimentați.",
+      en: "Mount Shkhara, at 5,201 m, is the highest peak in Georgia and the third highest in the Caucasus. Located in Svaneti, it is part of the Bezingi massif. The mountain was first climbed in 1888. It features several glaciers, including the Shkhara Glacier covering 10 km². Shkhara is a challenging climb, requiring technical skills. The region is a UNESCO World Heritage site since 1993.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 5.201 m", "Erstbesteigung: 1888", "Gletscherfläche: 10 km²", "Teil des Bezingi-Massivs", "Dritthöchster im Kaukasus", "UNESCO-Welterbe seit 1993"],
+      hu: ["Magasság: 5.201 m", "Első mászás: 1888", "Gleccserek: 10 km²", "Bezingi-masszívum", "Kaukázus 3. legmagasabb", "UNESCO: 1993"],
+      ro: ["Altitudine: 5.201 m", "Prima escaladare: 1888", "Suprafață ghețari: 10 km²", "Masivul Bezingi", "Al treilea vârf caucazian", "UNESCO: 1993"],
+      en: ["Elevation: 5,201 m", "First ascent: 1888", "Glacier area: 10 km²", "Part of Bezingi massif", "Rank in Caucasus: 3rd", "UNESCO World Heritage: 1993"],
+    },
+  },
   {
     id: "kazbek-nature-v2",
     type: "mountain",
     parent: "GE-MM",
     coords: [44.5186, 42.6975],
-    name: { de: "Kasbek", hu: "Kazbek", ro: "Kazbek", en: "Mount Kazbek",
-image: "/poi-images/kazbek-nature-v2.webp"
-},
+    name: { de: "Kasbek", hu: "Kazbek", ro: "Kazbek", en: "Mount Kazbek"},
+    image: "/poi-images/kazbek-nature-v2.webp",
     description: { de: "Der Kasbek ist ein ruhender Stratovulkan und mit über 5.000 Metern einer der markantesten Gipfel des Kaukasus. In der georgischen Mythologie ist er der Berg, an den Prometheus gekettet wurde, weil er den Göttern das Feuer stahl.", hu: "A Kazbek egy alvó rétegvulkán, mely 5000 métert meghaladó magasságával a Kaukázus egyik legmeghatározóbb csúcsa. A grúz mitológia szerint ehhez a hegyhez láncolták Prométheuszt, amiért ellopta a tüzet az istenektől.", ro: "Kazbek este un stratovulcan adormit și, cu o altitudine de peste 5.000 de metri, este unul dintre cele mai proeminente vârfuri din Caucaz. În mitologia georgiană, acesta este muntele de care a fost înlănțuit Prometeu pentru că a furat focul zeilor.", en: "Mount Kazbek is a dormant stratovolcano and, at over 5,000 meters, one of the most prominent peaks in the Caucasus. In Georgian mythology, it is the mountain where Prometheus was chained for stealing fire from the gods." },
     facts: {
       de: ["Erreicht eine Höhe von 5.054 Metern über dem Meeresspiegel.", "Sein georgischer Name 'Mqkinwari' bedeutet Eisberg oder Gletscher."],
       hu: ["Tengerszint feletti magassága 5054 méter.", "Grúz neve ('Mkinvari') jéghegyet vagy gleccsert jelent."],
       ro: ["Atinge o altitudine de 5.054 metri deasupra nivelului mării.", "Numele său georgian 'Mkinvari' înseamnă munte de gheață sau ghețar."],
       en: ["Reaches an elevation of 5,054 meters above sea level.", "Its Georgian name 'Mkinvari' translates to ice mountain or glacier."]
-    }, image: "/poi-images/kazbek-nature-v2.webp"},
+    }, image: "/poi-images/kazbek-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kasbek (5.047 m) ist ein erloschener Vulkan im Kaukasus und einer der höchsten Gipfel Georgiens. Er liegt an der Grenze zu Russland. Der Berg ist von großer mythologischer Bedeutung: In der georgischen Legende wurde Prometheus hier angekettet. Die Erstbesteigung erfolgte 1868. Am Fuße des Berges liegt die Dreifaltigkeitskirche von Gergeti (14. Jahrhundert). Der Kasbek ist ein beliebtes Ziel für Trekking und Bergsteigen.",
+      hu: "A Kazbek (5.047 m) egy kialudt vulkán Grúzia északi részén, az orosz határon. A grúz mitológiában Prométheusz láncolták ide. Először 1868-ban mászták meg. A hegy lábánál található a Gergeti Szentháromság-templom (XIV. század). A Kazbek népszerű túracélpont, de technikailag nem túl nehéz. A gleccserei gyorsan olvadnak a klímaváltozás miatt.",
+      ro: "Muntele Kazbek (5.047 m) este un vulcan stins din Caucaz, situat la granița dintre Georgia și Rusia. Conform mitologiei georgiene, Prometeu a fost înlănțuit aici. Prima ascensiune a avut loc în 1868. La poalele muntelui se află Biserica Sfânta Treime din Gergeti (secolul XIV). Este un traseu popular de trekking, cu dificultate moderată. Ghețarii săi se retrag rapid din cauza încălzirii globale.",
+      en: "Mount Kazbek (5,047 m) is a dormant stratovolcano in the Caucasus, on the Georgia-Russia border. In Georgian mythology, it was the site where Prometheus was chained. First climbed in 1868, it is now a popular trekking destination. The Gergeti Trinity Church, built in the 14th century, sits at 2,170 m elevation. Kazbek's glaciers have retreated 30% in the last century due to climate change.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 5.047 m", "Erstbesteigung: 1868", "Vulkan: erloschen", "Gergeti-Kirche: 14. Jh.", "Gletscherrückgang: 30% seit 1900", "Legende: Prometheus"],
+      hu: ["Magasság: 5.047 m", "Első mászás: 1868", "Kialudt vulkán", "Gergeti templom: 2.170 m", "Gleccserek: 30% olvadás", "Prométheusz mítosz"],
+      ro: ["Altitudine: 5.047 m", "Prima ascensiune: 1868", "Vulcan stins", "Biserica Gergeti: sec. XIV", "Retragere ghețari: 30%", "Mitul lui Prometeu"],
+      en: ["Elevation: 5,047 m", "First ascent: 1868", "Volcano type: dormant stratovolcano", "Gergeti Church elevation: 2,170 m", "Glacier loss: 30% since 1900", "Mythology: Prometheus"],
+    },
+  },
   {
     id: "ushba-nature-v2",
     type: "mountain",
     parent: "GE-SZ",
     coords: [42.6653, 43.1256],
-    name: { de: "Uschba", hu: "Usba", ro: "Ușba", en: "Mount Ushba",
-image: "/poi-images/ushba-nature-v2.webp"
-},
+    name: { de: "Uschba", hu: "Usba", ro: "Ușba", en: "Mount Ushba"},
+    image: "/poi-images/ushba-nature-v2.webp",
     description: { de: "Der Uschba wird oft als das Matterhorn des Kaukasus bezeichnet und zeichnet sich durch seinen markanten Doppelgipfel aus. Er gilt wegen seiner steilen Felswände und instabilen Wetterbedingungen als der schwierigste Berg der Region für Kletterer.", hu: "Az Usbát gyakran a Kaukázus Matterhornjának nevezik, mely kiemelkedő ikercsúcsáról híres. Meredek sziklafalai és instabil időjárása miatt a régió legnehezebben mászható hegyének tartják.", ro: "Ușba este adesea denumit Matterhornul Caucazului și se distinge prin dublul său vârf proeminent. Datorită pereților săi stâncoși abrupți și a vremii instabile, este considerat cel mai dificil munte din regiune pentru alpiniști.", en: "Mount Ushba is often referred to as the Matterhorn of the Caucasus, distinguished by its prominent double summit. Due to its steep rock faces and unstable weather, it is considered the most difficult mountain in the region for climbers." },
     facts: {
       de: ["Der Südgipfel ist mit 4.710 Metern etwas höher als der Nordgipfel.", "Der Name bedeutet in der svanischen Sprache 'Schrecklicher Berg'."],
       hu: ["A 4710 méteres déli csúcs valamivel magasabb az északinál.", "Neve szván nyelven 'Rettenetes hegyet' jelent."],
       ro: ["Vârful sudic, la 4.710 metri, este puțin mai înalt decât cel nordic.", "Numele înseamnă 'Muntele teribil' în limba svană."],
       en: ["The south summit is slightly higher at 4,710 meters than the north summit.", "Its name translates to 'Terrible Mountain' in the Svan language."]
-    }, image: "/poi-images/ushba-nature-v2.webp"},
+    }, image: "/poi-images/ushba-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Uschba (4.710 m) ist ein markanter Doppelgipfel im Kaukasus, bekannt als 'Matterhorn des Kaukasus'. Er liegt in Swanetien und ist für seine technische Schwierigkeit berüchtigt. Der Nordgipfel wurde 1888 erstbestiegen, der Südgipfel 1903. Uschba hat zwei Gipfel: Nord (4.710 m) und Süd (4.690 m). Der Berg besteht aus Granit und ist von Gletschern umgeben. Er gilt als einer der schwierigsten Berge der Welt.",
+      hu: "Az Ushba (4.710 m) a Kaukázus egyik legszebb és legveszélyesebb hegye, a 'Kaukázus Matterhornja'. Szvanétiában található. Két csúcsa van: északi (4.710 m) és déli (4.690 m). Az északit 1888-ban, a délit 1903-ban mászták meg. A hegy gránitból áll, és gleccserek veszik körül. Technikailag nagyon nehéz, tapasztalt hegymászóknak ajánlott. Gyakoriak a lavinák.",
+      ro: "Ushba (4.710 m) este un munte cu două vârfuri în Caucaz, numit 'Matterhornul Caucazului'. Situat în Svaneti, este renumit pentru dificultatea sa. Vârful nordic (4.710 m) a fost escaladat în 1888, cel sudic (4.690 m) în 1903. Este compus din granit și înconjurat de ghețari. Ushba este considerat unul dintre cei mai periculoși munți din lume din cauza avalanșelor și a traseelor expuse.",
+      en: "Mount Ushba (4,710 m) is a twin-peaked mountain in the Caucasus, often called the 'Matterhorn of the Caucasus'. Located in Svaneti, it comprises North Peak (4,710 m) and South Peak (4,690 m). The North Peak was first climbed in 1888, the South in 1903. The mountain is made of granite and surrounded by glaciers. Ushba is known for its extreme technical difficulty and high avalanche risk.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.710 m (Nordgipfel)", "Südgipfel: 4.690 m", "Erstbesteigung Nord: 1888", "Erstbesteigung Süd: 1903", "Granitgestein", "Bekannt als 'Matterhorn des Kaukasus'"],
+      hu: ["Magasság: 4.710 m (észak)", "Déli csúcs: 4.690 m", "Első mászás észak: 1888", "Első mászás dél: 1903", "Gránit", "Kaukázus Matterhornja"],
+      ro: ["Altitudine: 4.710 m (nord)", "Vârf sudic: 4.690 m", "Prima escaladare nord: 1888", "Prima escaladare sud: 1903", "Granit", "Matterhornul Caucazului"],
+      en: ["Height (North Peak): 4,710 m", "South Peak: 4,690 m", "First ascent North: 1888", "First ascent South: 1903", "Rock type: granite", "Nickname: 'Matterhorn of the Caucasus'"],
+    },
+  },
   {
     id: "lake-ritsa-nature-v2",
     type: "lake",
     parent: "GE-AB",
     coords: [40.5333, 43.4833],
-    name: { de: "Riza-See", hu: "Rica-tó", ro: "Lacul Rița", en: "Lake Ritsa",
-image: "/poi-images/lake-ritsa-nature-v2.webp"
-},
+    name: { de: "Riza-See", hu: "Rica-tó", ro: "Lacul Rița", en: "Lake Ritsa"},
+    image: "/poi-images/lake-ritsa-nature-v2.webp",
     description: { de: "Der Riza-See ist ein tiefblauer Bergsee im nordwestlichen Kaukasus, eingebettet in ein tiefes, bewaldetes Tal in Abchasien. Seine Umgebung ist bekannt für subtropische Vegetation, dramatische Schluchten und war einst ein beliebter Rückzugsort sowjetischer Führer.", hu: "A Rica-tó egy mélykék hegyi tó az északnyugati Kaukázusban, egy mély, erdős völgyben fekszik Abháziában. Környéke szubtrópusi növényzetéről és drámai szurdokairól híres, egykor a szovjet vezetők kedvelt pihenőhelye volt.", ro: "Lacul Rița este un lac montan de un albastru profund în nord-vestul Caucazului, amplasat într-o vale adâncă și împădurită din Abhazia. Împrejurimile sale sunt cunoscute pentru vegetația subtropicală, defileurile dramatice și au fost cândva un loc de retragere popular pentru liderii sovietici.", en: "Lake Ritsa is a deep blue mountain lake in the northwestern Caucasus, nestled in a deep, forested valley in Abkhazia. Its surroundings are known for subtropical vegetation, dramatic gorges, and it was once a favored retreat for Soviet leaders." },
     facts: {
       de: ["Der See erreicht eine maximale Tiefe von 116 Metern.", "Josef Stalin ließ an seinem Ufer eine Sommerresidenz (Datscha) erbauen."],
       hu: ["A tó maximális mélysége eléri a 116 métert.", "Sztálin a partján építtetett egy nyári rezidenciát (dácsát)."],
       ro: ["Lacul atinge o adâncime maximă de 116 metri.", "Iosif Stalin a construit o reședință de vară (dacea) pe malul său."],
       en: ["The lake reaches a maximum depth of 116 meters.", "Joseph Stalin had a summer residence (dacha) built on its shores."]
-    }, image: "/poi-images/lake-ritsa-nature-v2.webp"},
+    }, image: "/poi-images/lake-ritsa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ritsa-See liegt in Abchasien auf 950 Metern Höhe und ist von dichten Wäldern umgeben. Er ist 2,5 Kilometer lang und 0,5 Kilometer breit. Die maximale Tiefe beträgt 115 Meter. Der See entstand durch einen Bergsturz im 18. Jahrhundert. Das Wasser hat eine charakteristische blaugrüne Farbe. In der Sowjetzeit war der See ein beliebtes Ausflugsziel und diente als Drehort für Filme.",
+      hu: "A Rica-tó Abháziában, 950 méteres tengerszint feletti magasságban található. Hossza 2,5 km, szélessége 0,5 km, maximális mélysége 115 m. A tó a 18. században földcsuszamlás következtében jött létre. Vize kékeszöld színű. A szovjet időkben népszerű turisztikai célpont volt. A környékén számos túraútvonal található.",
+      ro: "Lacul Ritsa este situat în Abhazia, la o altitudine de 950 m. Are o lungime de 2,5 km, o lățime de 0,5 km și o adâncime maximă de 115 m. S-a format în urma unei alunecări de teren în secolul al XVIII-lea. Apa este de culoare albastru-verzuie. A fost o destinație turistică populară în perioada sovietică. În prezent, este un loc pitoresc, cu păduri dense în jur.",
+      en: "Lake Ritsa is a mountain lake in Abkhazia, Georgia, at 950 m elevation. It measures 2.5 km long, 0.5 km wide, with a maximum depth of 115 m. The lake was formed by a massive landslide in the 18th century. Its water has a distinctive turquoise hue. During the Soviet era, it was a popular resort destination. The lake is surrounded by mixed forests of fir and beech.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 950 m", "Länge: 2,5 km", "Breite: 0,5 km", "Maximale Tiefe: 115 m", "Entstehung: Bergsturz (18. Jh.)", "Farbe: blaugrün"],
+      hu: ["Magasság: 950 m", "Hossz: 2,5 km", "Szélesség: 0,5 km", "Mélység: 115 m", "Keletkezés: 18. század", "Víz színe: kékeszöld"],
+      ro: ["Altitudine: 950 m", "Lungime: 2,5 km", "Lățime: 0,5 km", "Adâncime maximă: 115 m", "Formare: alunecare de teren sec. XVIII", "Culoare apă: albastru-verde"],
+      en: ["Elevation: 950 m", "Length: 2.5 km", "Width: 0.5 km", "Maximum depth: 115 m", "Formation: 18th-century landslide", "Water color: turquoise"],
+    },
+  },
   {
     id: "paravani-lake-nature-v2",
     type: "lake",
     parent: "GE-SJ",
     coords: [43.8219, 41.4464],
-    name: { de: "Parawani-See", hu: "Paravani-tó", ro: "Lacul Paravani", en: "Paravani Lake",
-image: "/poi-images/paravani-lake-nature-v2.webp"
-},
+    name: { de: "Parawani-See", hu: "Paravani-tó", ro: "Lacul Paravani", en: "Paravani Lake"},
+    image: "/poi-images/paravani-lake-nature-v2.webp",
     description: { de: "Der Parawani-See ist der flächenmäßig größte See Georgiens und liegt auf einem vulkanischen Plateau im Süden des Landes. Er ist bekannt für seine raue, baumlose Landschaft, starken Winde und ist im Winter monatelang vollständig zugefroren.", hu: "A Paravani-tó területét tekintve Grúzia legnagyobb tava, amely az ország déli részén, egy vulkanikus fennsíkon található. Zord, fátlan tájáról és erős szeleiről ismert, télen pedig hónapokra teljesen befagy.", ro: "Lacul Paravani este cel mai mare lac din Georgia ca suprafață și se află pe un platou vulcanic în sudul țării. Este cunoscut pentru peisajul său aspru, fără copaci, vânturile puternice și îngheață complet luni de zile în timpul iernii.", en: "Paravani Lake is the largest lake in Georgia by surface area, located on a volcanic plateau in the south of the country. It is known for its harsh, treeless landscape, strong winds, and freezes over completely for months during the winter." },
     facts: {
       de: ["Liegt auf einer Höhe von über 2.073 Metern über dem Meeresspiegel.", "Seine maximale Tiefe beträgt nur etwas mehr als 3 Meter."],
       hu: ["Több mint 2073 méteres tengerszint feletti magasságban fekszik.", "Maximális mélysége csupán valamivel több mint 3 méter."],
       ro: ["Este situat la o altitudine de peste 2.073 de metri deasupra nivelului mării.", "Adâncimea sa maximă este puțin peste 3 metri."],
       en: ["Located at an elevation of over 2,073 meters above sea level.", "Its maximum depth is only slightly over 3 meters."]
-    }, image: "/poi-images/paravani-lake-nature-v2.webp"},
+    }, image: "/poi-images/paravani-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Paravani-See liegt auf der Dschawacheti-Hochebene im Süden Georgiens auf 2.073 Metern Höhe. Er ist der größte See Georgiens mit einer Fläche von 37,5 Quadratkilometern. Die maximale Tiefe beträgt 2,8 Meter. Der See ist vulkanischen Ursprungs und wird von mehreren Flüssen gespeist. Das Wasser ist aufgrund des geringen Salzgehalts sehr klar. Die Region ist bekannt für ihre Vogelwelt, darunter Zugvögel.",
+      hu: "A Paravani-tó Grúzia déli részén, a Dzsavakheti-fennsíkon található, 2.073 méteres magasságban. Területe 37,5 km², maximális mélysége 2,8 m. Az ország legnagyobb tava. Vulkáni eredetű, vizét folyók táplálják. A tó vize rendkívül tiszta, alacsony sótartalmú. Jelentős madárélőhely, különösen a vonuló madarak számára.",
+      ro: "Lacul Paravani este situat în sudul Georgiei, pe Podișul Javakheti, la o altitudine de 2.073 m. Este cel mai mare lac din Georgia, cu o suprafață de 37,5 km² și o adâncime maximă de 2,8 m. Originea sa este vulcanică. Apele sunt foarte limpezi datorită salinității scăzute. Lacul este un habitat important pentru păsări migratoare. În jur se află pășuni și sate.",
+      en: "Lake Paravani is the largest lake in Georgia, located on the Javakheti Plateau at 2,073 m elevation. It covers 37.5 km² with a maximum depth of only 2.8 m. The lake is of volcanic origin, fed by small rivers. Its water is exceptionally clear due to low mineral content. The area is a crucial stopover for migratory birds, hosting species like the common crane. The lake freezes in winter from December to March.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.073 m", "Fläche: 37,5 km²", "Maximale Tiefe: 2,8 m", "Größter See Georgiens", "Vulkanischer Ursprung", "Zufrieren: Dezember–März"],
+      hu: ["Magasság: 2.073 m", "Terület: 37,5 km²", "Mélység: 2,8 m", "Legnagyobb tó Grúziában", "Vulkáni eredet", "Télen befagy: dec.–márc."],
+      ro: ["Altitudine: 2.073 m", "Suprafață: 37,5 km²", "Adâncime maximă: 2,8 m", "Cel mai mare lac din Georgia", "Origine vulcanică", "Îngheață: decembrie–martie"],
+      en: ["Elevation: 2,073 m", "Area: 37.5 km²", "Max depth: 2.8 m", "Largest lake in Georgia", "Volcanic origin", "Freezes: December to March"],
+    },
+  },
   {
     id: "paliastomi-lake-nature-v2",
     type: "lake",
     parent: "GE-SZ",
     coords: [41.7214, 42.1228],
-    name: { de: "Paliastomi-See", hu: "Paliasztomi-tó", ro: "Lacul Paliastomi", en: "Paliastomi Lake",
-image: "/poi-images/paliastomi-lake-nature-v2.webp"
-},
+    name: { de: "Paliastomi-See", hu: "Paliasztomi-tó", ro: "Lacul Paliastomi", en: "Paliastomi Lake"},
+    image: "/poi-images/paliastomi-lake-nature-v2.webp",
     description: { de: "Der Paliastomi-See liegt nahe der Schwarzmeerküste und ist ein bedeutendes Feuchtgebiet im Kolchis-Nationalpark. Dieses Gewässer ist ein Paradies für Vogelbeobachter, da es ein wichtiger Rastplatz für Tausende von Zugvögeln auf der eurasisch-afrikanischen Route ist.", hu: "A Fekete-tenger partjához közel fekvő Paliasztomi-tó a Kolkhida Nemzeti Park egyik legfontosabb vizes élőhelye. A madármegfigyelők paradicsoma, mivel vonuló madarak ezreinek fontos pihenőhelye az eurázsiai-afrikai útvonalon.", ro: "Lacul Paliastomi este situat în apropierea coastei Mării Negre și reprezintă o zonă umedă importantă în Parcul Național Colchis. Acest corp de apă este un paradis pentru ornitologi, fiind un loc de odihnă crucial pentru mii de păsări migratoare pe ruta eurasiatico-africană.", en: "Paliastomi Lake is located near the Black Sea coast and is a significant wetland area within the Kolkheti National Park. This body of water is a paradise for birdwatchers, serving as a crucial resting spot for thousands of migratory birds on the Eurasian-African route." },
     facts: {
       de: ["Ursprünglich ein Süßwassersee, wurde er 1924 mit dem Meer verbunden.", "Das Gebiet gehört zur geschützten Kolchis-Feuchtgebietszone."],
       hu: ["Eredetileg édesvizű tó volt, 1924-ben kapcsolták össze a tengerrel.", "A terület a védett Kolkhidai vizes élőhelyekhez tartozik."],
       ro: ["Inițial un lac cu apă dulce, a fost conectat la mare în 1924.", "Zona aparține zonei protejate a zonelor umede Colchis."],
       en: ["Originally a freshwater lake, it was connected to the sea in 1924.", "The area belongs to the protected Kolkheti wetlands zone."]
-    }, image: "/poi-images/paliastomi-lake-nature-v2.webp"},
+    }, image: "/poi-images/paliastomi-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Paliastomi-See liegt in der Region Mingrelien nahe der Schwarzmeerküste. Er ist ein flacher Lagunensee mit einer durchschnittlichen Tiefe von 2,6 Metern. Die Fläche beträgt 18,2 Quadratkilometer. Der See ist durch einen Kanal mit dem Meer verbunden. Er ist ein wichtiges Feuchtgebiet für Wasservögel. In der Umgebung werden Tee und Zitrusfrüchte angebaut. Der See ist auch für Fischerei bekannt.",
+      hu: "A Paliastomi-tó Mingrélia régióban, a Fekete-tenger közelében fekszik. Sekély lagúna, átlagos mélysége 2,6 m. Területe 18,2 km². Csatorna köti össze a tengerrel. Jelentős vizes élőhely, gazdag madárvilággal. A környéken teát és citrusféléket termesztenek. A halászat is fontos gazdasági tevékenység.",
+      ro: "Lacul Paliastomi este situat în Georgia de vest, lângă Marea Neagră. Este o lagună puțin adâncă, cu o adâncime medie de 2,6 m și o suprafață de 18,2 km². Este conectat la mare printr-un canal. Zona umedă este importantă pentru păsările acvatice. În jur se cultivă ceai și citrice. Lacul este folosit și pentru pescuit comercial.",
+      en: "Lake Paliastomi is a shallow lagoon in western Georgia, near the Black Sea coast. It has an area of 18.2 km² and an average depth of 2.6 m. A canal links it to the sea. The lake is a Ramsar wetland site, supporting diverse waterfowl. Surrounding areas grow tea and citrus. The lake is used for fishing, yielding mullet and carp. It is also a popular spot for birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 18,2 km²", "Durchschnittliche Tiefe: 2,6 m", "Lagunensee", "Kanal zum Meer", "Ramsar-Gebiet", "Fischarten: Meeräsche, Karpfen"],
+      hu: ["Terület: 18,2 km²", "Átlagmélység: 2,6 m", "Lagúna tó", "Csatorna a tengerhez", "Ramsari terület", "Halak: márna, ponty"],
+      ro: ["Suprafața: 18,2 km²", "Adâncime medie: 2,6 m", "Lagună", "Canal către mare", "Sit Ramsar", "Pești: chefal, crap"],
+      en: ["Area: 18.2 km²", "Average depth: 2.6 m", "Type: lagoon", "Connected to sea via canal", "Ramsar site: yes", "Fish species: mullet, carp"],
+    },
+  },
   {
     id: "kura-river-nature-v2",
     type: "river",
     parent: "GE-TB",
     coords: [44.8015, 41.6936],
-    name: { de: "Kura (Mtkvari)", hu: "Kura (Mtkvari)", ro: "Kura (Mtkvari)", en: "Kura River (Mtkvari)",
-image: "/poi-images/kura-river-nature-v2.webp"
-},
+    name: { de: "Kura (Mtkvari)", hu: "Kura (Mtkvari)", ro: "Kura (Mtkvari)", en: "Kura River (Mtkvari)"},
+    image: "/poi-images/kura-river-nature-v2.webp",
     description: { de: "Die Kura ist der längste und wichtigste Fluss im Kaukasus, der in der Türkei entspringt, durch Georgien fließt und schließlich ins Kaspische Meer mündet. Er formt tiefe Schluchten und breite Täler und war historisch die Lebensader für die Entwicklung der georgischen Hauptstadt Tiflis.", hu: "A Kura a Kaukázus leghosszabb és legfontosabb folyója, amely Törökországban ered, átszeli Grúziát, majd a Kaszpi-tengerbe ömlik. Mély szurdokokat és széles völgyeket formál, történelmileg pedig a grúz főváros, Tbiliszi fejlődésének éltető ereje volt.", ro: "Kura este cel mai lung și important râu din Caucaz, izvorând din Turcia, traversând Georgia și vărsându-se în final în Marea Caspică. Formează defileuri adânci și văi largi, fiind istoric linia vitală pentru dezvoltarea capitalei georgiene Tbilisi.", en: "The Kura is the longest and most important river in the Caucasus, originating in Turkey, flowing through Georgia, and finally emptying into the Caspian Sea. It carves deep gorges and broad valleys and has historically been the lifeline for the development of the Georgian capital, Tbilisi." },
     facts: {
       de: ["Der georgische Name 'Mtkvari' bedeutet in etwa 'das langsame Wasser'.", "Der Fluss hat eine Gesamtlänge von 1.515 Kilometern."],
@@ -111,69 +182,116 @@ image: "/poi-images/kura-river-nature-v2.webp"
     type: "river",
     parent: "GE-IM",
     coords: [42.6033, 42.2611],
-    name: { de: "Rioni", hu: "Rioni", ro: "Rioni", en: "Rioni River",
-image: "/poi-images/rioni-river-nature-v2.webp"
-},
+    name: { de: "Rioni", hu: "Rioni", ro: "Rioni", en: "Rioni River"},
+    image: "/poi-images/rioni-river-nature-v2.webp",
     description: { de: "Der Rioni ist der Hauptfluss Westgeorgiens und entspringt an den Gletschern des Großen Kaukasus. In der Antike war er unter dem Namen Phasis bekannt und diente als wichtiger Handelsweg zwischen dem Schwarzen Meer und dem Inland der historischen Region Kolchis.", hu: "A Rioni Nyugat-Grúzia fő folyója, amely a Nagy-Kaukázus gleccsereiből ered. Az ókorban Phaszisz néven volt ismert, és fontos kereskedelmi útvonalként szolgált a Fekete-tenger és a történelmi Kolkhida régió belseje között.", ro: "Rioni este râul principal din vestul Georgiei și izvorăște din ghețarii Caucazului Mare. În antichitate era cunoscut sub numele de Phasis și servea ca o importantă rută comercială între Marea Neagră și interiorul regiunii istorice Colchis.", en: "The Rioni is the main river of western Georgia, originating from the glaciers of the Greater Caucasus. In antiquity, it was known as the Phasis and served as a vital trade route connecting the Black Sea to the interior of the historical region of Colchis." },
     facts: {
       de: ["Die antiken Griechen leiteten von seinem Namen 'Phasis' den Begriff für den Fasan ab.", "Der Rioni ist mit 327 Kilometern der längste vollständig in Georgien verlaufende Fluss."],
       hu: ["Az ókori görögök az ő 'Phaszisz' nevéről nevezték el a fácánt.", "A Rioni a maga 327 kilométerével a leghosszabb, teljes egészében Grúziában folyó folyó."],
       ro: ["Grecii antici au derivat denumirea fazanului de la numele său 'Phasis'.", "Cu 327 de kilometri, Rioni este cel mai lung râu care curge în întregime în Georgia."],
       en: ["The ancient Greeks derived the word for pheasant from its historical name 'Phasis'.", "At 327 kilometers, the Rioni is the longest river flowing entirely within Georgia."]
-    }, image: "/poi-images/rioni-river-nature-v2.webp"},
+    }, image: "/poi-images/rioni-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Rioni, mit 327 km der längste Fluss Westgeorgiens, entspringt im Großen Kaukasus nahe dem Elbrus-Massiv. Sein Oberlauf durchquert enge Schluchten, bevor er die Kolchische Tiefebene erreicht. Die antike Stadt Phasis an seiner Mündung ins Schwarze Meer war ein bedeutender griechischer Handelshafen. Der Fluss spielt eine zentrale Rolle in der Bewässerung der Region Imeretien, insbesondere für Mais- und Teeplantagen. Im 20. Jahrhundert wurden mehrere Wasserkraftwerke errichtet, darunter das Rioni-Kaskaden-System mit einer Gesamtleistung von über 300 MW. Durch Umweltverschmutzung aus Industrie und Landwirtschaft ist die Wasserqualität vielerorts beeinträchtigt.",
+      hu: "A Rioni folyó Grúzia nyugati részének legfontosabb vízi útja, amely az Ókorban a görögök által Phasis néven ismert hajózható folyóként szolgált. A 327 km hosszú folyó forrása a Nagy-Kaukázusban található, majd a Kolkhiszi-alföldön keresztül a Fekete-tengerbe ömlik. A folyó mentén több jelentős város fekszik, köztük Kutaiszi, Grúzia második legnagyobb városa, valamint Poti, egy fontos kikötőváros. A Rioni völgye termékeny mezőgazdasági terület, ahol szőlőt, gyümölcsöket és zöldségeket termesztenek. A szovjet korszakban a folyót intenzíven használták vízenergia-termelésre; ma is több vízerőmű működik rajta.",
+      ro: "Râul Rioni, cu o lungime de 327 km, este cel mai lung râu din vestul Georgiei. Izvorăște din Caucazul Mare, de la altitudini de peste 3000 m, și se varsă în Marea Neagră lângă orașul Poti. Bazinul său acoperă aproximativ 13.400 km². În antichitate, râul era cunoscut sub numele de Phasis și era o rută comercială majoră pentru greci. Astăzi, Rioni este folosit pentru irigații și producere de energie hidroelectrică, cu un potențial exploatat de circa 600 MW. Defrișările din bazinul superior au dus la eroziune accelerată și la creșterea sedimentării în aval.",
+      en: "The Rioni River originates from the glaciers of the Greater Caucasus at an elevation of 2,960 m and flows 327 km to the Black Sea. It is the main river of western Georgia and historically marked the boundary between Colchis and Iberia. The city of Poti, a major Black Sea port, lies at its mouth. The river's basin supports a diverse ecosystem, including wetlands that host migratory birds. Economic activities include hydroelectric power generation, with the Rioni cascade comprising several dams built between 1930 and 1960. However, industrial pollution from the mining sector remains a challenge for water quality.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 327 km", "Quellhöhe: 2.960 m", "Einzugsgebiet: 13.400 km²", "Wasserkraftwerke: 4 Staudämme mit über 300 MW Gesamtleistung", "Antike Name: Phasis", "Mündung: Schwarzes Meer bei Poti, Flussdelta mit 12 km Breite"],
+      hu: ["Hossz: 327 km", "Vízgyűjtő terület: 13.400 km²", "Ókori név: Phasis", "Erőművek: Rioni-kaszkád, 4 vízierőmű", "Legnagyobb város a mentén: Kutaiszi (kb. 150.000 lakos)", "Torkolat: Fekete-tenger, Poti kikötőváros"],
+      ro: ["Lungime: 327 km", "Bazin hidrografic: 13.400 km²", "Altitudine la izvor: 2.960 m", "Cascade hidroelectrice: 4 baraje, putere instalată 300 MW", "Debit mediu: 140 m³/s", "Nume antic: Phasis"],
+      en: ["Length: 327 km", "Basin area: 13,400 km²", "Source elevation: 2,960 m", "Number of major dams: 4, total capacity 300 MW", "Ancient name: Phasis", "Mouth: Black Sea, near Poti, delta width 12 km"],
+    },
+  },
   {
     id: "enguri-river-nature-v2",
     type: "river",
     parent: "GE-SZ",
     coords: [42.0324, 42.7682],
-    name: { de: "Enguri", hu: "Enguri", ro: "Enguri", en: "Enguri River",
-image: "/poi-images/enguri-river-nature-v2.webp"
-},
+    name: { de: "Enguri", hu: "Enguri", ro: "Enguri", en: "Enguri River"},
+    image: "/poi-images/enguri-river-nature-v2.webp",
     description: { de: "Der Enguri ist ein wilder und reißender Fluss, der durch die zerklüfteten Schluchten von Swanetien fließt, bevor er ins Schwarze Meer mündet. Er ist nicht nur für seine atemberaubende Landschaft bekannt, sondern auch für die gewaltige Enguri-Staumauer, ein Meisterwerk der Ingenieurskunst.", hu: "Az Enguri egy vad és sebes folyó, amely Szvanéti zord szurdokain keresztül halad, mielőtt a Fekete-tengerbe ömlene. Nemcsak lélegzetelállító tájáról ismert, hanem a hatalmas Enguri-gátról is, amely a mérnöki tudományok igazi remekműve.", ro: "Enguri este un râu sălbatic și rapid care curge prin defileurile stâncoase din Svaneti înainte de a se vărsa în Marea Neagră. Nu este cunoscut doar pentru peisajul său uluitor, ci și pentru uriașul baraj Enguri, o capodoperă a ingineriei.", en: "The Enguri is a wild and fast-flowing river that runs through the rugged gorges of Svaneti before emptying into the Black Sea. It is renowned not only for its breathtaking scenery but also for the colossal Enguri Dam, a masterpiece of engineering." },
     facts: {
       de: ["Die Enguri-Bogenstaumauer ist mit 271,5 Metern eine der höchsten der Welt.", "Der Fluss bildet streckenweise die Grenze zur abtrünnigen Region Abchasien."],
       hu: ["A 271,5 méter magas Enguri-gát a világ egyik legmagasabb ívgátja.", "A folyó helyenként természetes határt képez a szakadár Abházia felé."],
       ro: ["Barajul în arc Enguri este unul dintre cele mai înalte din lume, având 271,5 metri.", "Pe alocuri, râul formează granița cu regiunea separatistă Abhazia."],
       en: ["The Enguri arch dam is one of the highest in the world at 271.5 meters.", "The river partially forms the boundary with the breakaway region of Abkhazia."]
-    }, image: "/poi-images/enguri-river-nature-v2.webp"},
+    }, image: "/poi-images/enguri-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Enguri ist mit 213 km der zweitlängste Fluss Georgiens und führt das meiste Wasser unter den kaukasischen Flüssen (durchschnittlich 150 m³/s). Er entspringt am Südhang des Schchara-Massivs, dem höchsten Berg Georgiens (5.201 m). Die Enguri-Talsperre, ein 271 m hoher Bogenstaudamm, war bei ihrer Fertigstellung 1980 der höchste der Welt. Der Fluss durchfließt die historische Region Swanetien, deren mittelalterliche Wehrtürme zum UNESCO-Welterbe gehören. Das Wasser wird stark zur Bewässerung in der Kolchischen Tiefebene genutzt, verursacht aber auch jährliche Überschwemmungen. Der Unterlauf markiert die Grenze zur abtrünnigen Region Abchasien.",
+      hu: "Az Enguri folyó Grúzia legbővebb vizű folyója, amely a Kaukázus gleccsereiből táplálkozik. Hossza 213 km, átlagos vízhozama 150 m³/s. A folyón található az Enguri-vízerőmű, amelynek 271 m magas ívduzzasztója a világ egyik legmagasabb ilyen jellegű építménye. A folyó felső szakasza a festői Szvanéti régióban folyik, ahol a középkori védtornyok világörökségi helyszínek. Az Enguri vize elengedhetetlen a mezőgazdasági öntözéshez, de áradásai gyakran okoznak károkat a part menti településeken. A folyó alsó folyása a vitatott hovatartozású Abházia határát képezi.",
+      ro: "Râul Enguri, lung de 213 km, este cel mai voluminos râu din Georgia, cu un debit mediu de 150 m³/s. Izvorăște din ghețarii Muntelui Shkhara (5.201 m), cel mai înalt vârf din Georgia. Barajul Enguri, un arc de beton înalt de 271 m, a fost cel mai înalt din lume la finalizarea sa în 1980. Fluviul traversează regiunea Svaneti, cunoscută pentru turnurile sale medievale de piatră, incluse în patrimoniul UNESCO. Apele sale sunt esențiale pentru irigații în câmpia Colchis, dar inundațiile sunt frecvente în aval. Cursul inferior formează granița cu Abhazia.",
+      en: "The Enguri River rises from the glaciers of Mount Shkhara, Georgia's highest peak at 5,201 m, and flows 213 km to the Black Sea. It is the largest river in Georgia by discharge, averaging 150 m³/s. The Enguri Dam, a 271 m high arch dam completed in 1980, generates most of the country's hydroelectric power, with an installed capacity of 1,320 MW. The river's upper valley in Svaneti is known for its medieval defensive towers, a UNESCO World Heritage site. Downstream, the river forms part of the administrative boundary between Georgia and the breakaway region of Abkhazia.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 213 km", "Mittlere Abflussmenge: 150 m³/s", "Enguri-Staudamm: Höhe 271 m, Baujahr 1980", "Schchara: 5.201 m (höchster Berg Georgiens)", "Installierte Leistung Wasserkraft: 1.320 MW", "UNESCO-Welterbe Swanetien: 25 Türme aus dem 9.-12. Jahrhundert"],
+      hu: ["Hossz: 213 km", "Átlagos vízhozam: 150 m³/s", "Enguri-gát: 271 m magas, 1980-ban készült", "Szvanéti régió: 1500-2000 m tengerszint feletti magasság", "Erőmű kapacitása: 1.320 MW", "Forrás: Shkhara-hegy (5.201 m)"],
+      ro: ["Lungime: 213 km", "Debit mediu: 150 m³/s", "Barajul Enguri: înălțime 271 m, construit în 1980", "Putere instalată: 1.320 MW", "Vârf: Shkhara 5.201 m", "Regiunea Svaneti: sit UNESCO cu turnuri medievale"],
+      en: ["Length: 213 km", "Average discharge: 150 m³/s", "Enguri Dam height: 271 m (1980)", "Installed hydro capacity: 1,320 MW", "Source peak: Mount Shkhara, 5,201 m", "UNESCO site: Svaneti towers (9th-12th centuries)"],
+    },
+  },
   {
     id: "borjomi-kharagauli-national-park-nature-v2",
     type: "national-park",
     parent: "GE-SJ",
     coords: [43.2500, 41.8500],
-    name: { de: "Nationalpark Bordschomi-Charagauli", hu: "Borzsomi-Haragauli Nemzeti Park", ro: "Parcul Național Borjomi-Kharagauli", en: "Borjomi-Kharagauli National Park",
-image: "/poi-images/borjomi-kharagauli-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Bordschomi-Charagauli", hu: "Borzsomi-Haragauli Nemzeti Park", ro: "Parcul Național Borjomi-Kharagauli", en: "Borjomi-Kharagauli National Park"},
+    image: "/poi-images/borjomi-kharagauli-national-park-nature-v2.webp",
     description: { de: "Dieser weitläufige Nationalpark im Kleinen Kaukasus ist eines der größten Schutzgebiete Europas und besticht durch unberührte Nadel- und Laubwälder. Er bietet Lebensraum für eine reiche Vielfalt an Wildtieren und verfügt über ein ausgedehntes Netz an Wanderwegen für Ökotouristen.", hu: "A Kis-Kaukázusban található kiterjedt nemzeti park Európa egyik legnagyobb védett területe, érintetlen tűlevelű- és lombhullató erdeivel hódít. Gazdag vadvilágnak ad otthont, és az ökoturisták számára kiterjedt túraútvonal-hálózattal rendelkezik.", ro: "Acest vast parc național din Caucazul Mic este una dintre cele mai mari zone protejate din Europa și captivează cu pădurile sale virgine de conifere și foioase. Oferă un habitat pentru o bogată diversitate de animale sălbatice și dispune de o rețea extinsă de trasee pentru ecoturiști.", en: "This vast national park in the Lesser Caucasus is one of the largest protected areas in Europe, captivating with its pristine coniferous and deciduous forests. It provides habitat for a rich diversity of wildlife and features an extensive network of trails for ecotourists." },
     facts: {
       de: ["Der Park umfasst mehr als 85.000 Hektar reine Naturfläche.", "Er wurde 1995 mit Unterstützung des WWF als erster Nationalpark im Kaukasus gegründet."],
       hu: ["A park több mint 85 000 hektárnyi tiszta természeti területet foglal magába.", "1995-ben, a WWF támogatásával alapították a Kaukázus első nemzeti parkjaként."],
       ro: ["Parcul acoperă peste 85.000 de hectare de suprafață naturală pură.", "A fost înființat în 1995, cu sprijinul WWF, fiind primul parc național din Caucaz."],
       en: ["The park covers more than 85,000 hectares of pure natural area.", "It was established in 1995 with the support of the WWF as the first national park in the Caucasus."]
-    }, image: "/poi-images/borjomi-kharagauli-national-park-nature-v2.webp"},
+    }, image: "/poi-images/borjomi-kharagauli-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der 1995 gegründete Borjomi-Kharagauli-Nationalpark ist mit 851 km² einer der größten Nationalparks Georgiens und bedeckt Teile der Kleinen Kaukasus-Region. Er schützt einen der letzten unberührten Laubwälder Eurasiens, darunter Buchen- und Eichenbestände. Die Höhenlagen reichen von 800 bis 2.800 m, mit subalpinen und alpinen Wiesen. Der Park ist bekannt für seine heißen Quellen in Borjomi, die kohlensäurehaltiges Mineralwasser liefern. Wanderwege von über 400 km Länge sind markiert, darunter der historische 'Georgische Weg'. Die Artenvielfalt umfasst Braunbären, Wölfe, Luchse und den Kaukasushirsch. Jährlich besuchen etwa 30.000 Touristen den Park.",
+      hu: "A Borjomi-Kharagauli Nemzeti Parkot 1995-ben hozták létre Grúzia középső részén, a Kis-Kaukázus hegyei között. Területe 851 km², ezzel az ország egyik legnagyobb nemzeti parkja. A park változatos ökoszisztémáknak ad otthont: sűrű lombhullató erdők, tűlevelű erdők és magashegyi rétek váltják egymást. Kiemelkedő természeti értéke a Borjomi ásványvízforrás, amelyet palackozva exportálnak. A parkban több mint 400 km jelölt túraút található, valamint számos történelmi emlék, köztük a Romanov család egykori vadászkastélya. A látogatók számát évi 30.000 főre becsülik.",
+      ro: "Parcul Național Borjomi-Kharagauli, înființat în 1995, se întinde pe 851 km² în centrul Georgiei, acoperind păduri temperate din Caucazul Mic. Altitudinile variază între 800 și 2.800 m. Parcul protejează habitate pentru specii rare, cum ar fi capra de munte caucaziană și ursul brun. Izvoarele minerale de la Borjomi sunt renumite pentru conținutul lor de dioxid de carbon. Traseele de drumeție însumează 400 km, iar parcul are 12 adăposturi montane. În 2014, parcul a primit certificarea PAN Parks pentru turism durabil. Accesul principal este prin orașul Borjomi, situat la intrarea sudică.",
+      en: "Established in 1995, Borjomi-Kharagauli National Park spans 851 km² in the Lesser Caucasus mountains of central Georgia. It is one of the largest and most ecologically significant protected areas in the Caucasus, preserving pristine deciduous forests of beech and oak. The park's altitude gradient from 800 to 2,800 m supports diverse flora, including endemic species like the Georgian oak. The area has a long cultural history, with the Romanov family building a hunting lodge in the 19th century. The park's mineral water springs, particularly those in Borjomi town, are a major economic resource, with annual exports worth over $50 million. Over 400 km of hiking trails offer access to remote alpine zones.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1995", "Fläche: 851 km²", "Höhenlage: 800–2.800 m", "Wanderwege: 400 km", "Besucher pro Jahr: ca. 30.000", "Mineralwasserquelle: 3.000 l/min, 8–10 °C"],
+      hu: ["Alapítás: 1995", "Terület: 851 km²", "Tengerszint feletti magasság: 800–2.800 m", "Túrautak hossza: 400+ km", "Éves látogatók: 30.000", "Borjomi ásványvíz hőmérséklete: 8-10 °C"],
+      ro: ["Înființare: 1995", "Suprafață: 851 km²", "Altitudine: 800–2.800 m", "Trasee: 400+ km", "Vizitatori anuali: 30.000", "Debit izvor mineral: 3.000 l/min"],
+      en: ["Established: 1995", "Area: 851 km²", "Elevation range: 800–2,800 m", "Hiking trail length: 400+ km", "Annual visitors: 30,000", "Mineral spring flow: 3,000 L/min"],
+    },
+  },
   {
     id: "tusheti-national-park-nature-v2",
     type: "national-park",
     parent: "GE-KA",
     coords: [45.4833, 42.3667],
-    name: { de: "Nationalpark Tuschetien", hu: "Tuséti Nemzeti Park", ro: "Parcul Național Tușeti", en: "Tusheti National Park",
-image: "/poi-images/tusheti-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Tuschetien", hu: "Tuséti Nemzeti Park", ro: "Parcul Național Tușeti", en: "Tusheti National Park"},
+    image: "/poi-images/tusheti-national-park-nature-v2.webp",
     description: { de: "Versteckt an den nördlichen Hängen des Großen Kaukasus ist der Nationalpark Tuschetien ein Ort von rauer Schönheit und tief verwurzelten alpinen Traditionen. Das abgelegene Schutzgebiet ist nur während der Sommermonate über einen gefährlichen Bergpass erreichbar und schützt seltene Kaukasus-Leoparden.", hu: "A Nagy-Kaukázus északi lejtőin megbúvó Tuséti Nemzeti Park a zord szépség és a mélyen gyökerező alpesi hagyományok helyszíne. Az elzárt védett terület csak a nyári hónapokban érhető el egy veszélyes hegyi hágón keresztül, és ritka kaukázusi leopárdokat is véd.", ro: "Ascuns pe pantele nordice ale Caucazului Mare, Parcul Național Tușeti este un loc de o frumusețe aspră și tradiții alpine adânc înrădăcinate. Zona protejată izolată este accesibilă doar în lunile de vară printr-o trecătoare montană periculoasă și protejează leoparzii rari din Caucaz.", en: "Hidden on the northern slopes of the Greater Caucasus, Tusheti National Park is a place of rugged beauty and deep-rooted alpine traditions. The remote protected area is only accessible during the summer months via a treacherous mountain pass and protects rare Caucasian leopards." },
     facts: {
       de: ["Der Abano-Pass, der Hauptzugang, liegt auf 2.850 Metern Höhe.", "Das Gebiet wurde in die Liste der potenziellen UNESCO-Welterbestätten aufgenommen."],
       hu: ["A fő útvonalat jelentő Abano-hágó 2850 méter magasan fekszik.", "A terület felkerült az UNESCO lehetséges világörökségi helyszíneinek listájára."],
       ro: ["Pasul Abano, principala cale de acces, se află la o altitudine de 2.850 de metri.", "Zona a fost inclusă pe lista potențialelor situri ale Patrimoniului Mondial UNESCO."],
       en: ["The Abano Pass, the main access route, is situated at an elevation of 2,850 meters.", "The area has been added to the tentative list of UNESCO World Heritage sites."]
-    }, image: "/poi-images/tusheti-national-park-nature-v2.webp"},
+    }, image: "/poi-images/tusheti-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tusheti-Nationalpark im Nordosten Georgiens wurde 2005 auf 832 km² eingerichtet und ist Teil des Kaukasus-Biodiversitäts-Hotspots. Die abgelegene Region ist nur über den 2.926 m hohen Abano-Pass erreichbar, der von Juni bis Oktober befahrbar ist. Die Landschaft ist geprägt von tiefen Flusstälern, subalpinen Wäldern und alpinen Matten. Die historischen Wehrtürme und Dörfer der Tuschetier, wie Omalo, sind geschützt. Die traditionelle Lebensweise der Bergbauern mit Viehzucht existiert fort. Wölfe, Luchse und der Kaukasische Steinbock sind heimisch. Der Park hat keine Straßen; Fortbewegung erfolgt zu Fuß oder mit Pferden. Im Winter sind die meisten Dörfer unbewohnt.",
+      hu: "A Tusheti Nemzeti Park Grúzia északkeleti részén, a Nagy-Kaukázusban található, 2005-ben alapították. Területe 832 km², amely magában foglalja a Tusheti régió történelmi falvait és tájait. A parkba csak az Abano-hágón keresztül lehet eljutni, amely 2.926 m magas. A park kiemelkedő jelentőségű a biológiai sokféleség szempontjából: itt él a kaukázusi kőszáli kecske, a hiúz és a barna medve. A hagyományos életmód, a transzhumánc pásztorkodás máig fennmaradt. A látogatók számára sátrazás és lovaglás kínál lehetőséget a felfedezésre. 2020-ban a park az UNESCO Világörökség része lett.",
+      ro: "Parcul Național Tusheti, înființat în 2005, acoperă 832 km² în nord-estul Georgiei, în Marea Caucaz. Zona este izolată, accesibilă doar prin Pasul Abano la 2.926 m, deschis câteva luni pe an. Parcul protejează peisaje alpine, păduri de pin și mesteacăn, și pajiști subalpine. Satul Omalo, cu turnurile sale medievale de piatră, este centrul cultural. Fauna include ursul brun, lupul și șoimul călător. Păstoritul este principala activitate economică. În 2021, parcul a fost inclus în patrimoniul mondial UNESCO ca parte a pădurilor și zonelor umede caucaziene.",
+      en: "Tusheti National Park, established in 2005, covers 832 km² in the Greater Caucasus, bordering Chechnya and Dagestan. It is one of the most remote protected areas in Georgia, accessible only via the Abano Pass (2,926 m) open from June to October. The park is renowned for its medieval Tushetian towers, fortified villages, and ancient terraced fields. The region supports a unique genetic lineage of Eastern Caucasian turs (Capra cylindricornis) and the endangered Caucasian leopard. The park is part of the UNESCO World Heritage site 'Mountain Forests of the Caucasus'. Pastoralism remains the main livelihood, with sheep flocks migrating seasonally.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 2005", "Fläche: 832 km²", "Abano-Pass: 2.926 m", "Höchster Gipfel: Tebulosmta, 4.493 m", "UNESCO-Welterbe: seit 2020 (Teil Kaukasische Bergwälder)", "Traditionelle Dörfer: ca. 40, darunter Omalo (1.880 m)"],
+      hu: ["Alapítás: 2005", "Terület: 832 km²", "Abano-hágó: 2.926 m", "UNESCO-világörökség: 2020 óta", "Legmagasabb pont: Tebulosmta (4.493 m)", "Falvak száma: 40+"],
+      ro: ["Înființare: 2005", "Suprafață: 832 km²", "Pasul Abano: 2.926 m", "UNESCO: 2020 (Pădurile montane din Caucaz)", "Vârf: Tebulosmta 4.493 m", "Număr sate istorice: 40+"],
+      en: ["Established: 2005", "Area: 832 km²", "Abano Pass altitude: 2,926 m", "UNESCO World Heritage: 2020 (Caucasus Mountain Forests)", "Highest peak: Mount Tebulosmta, 4,493 m", "Traditional villages: 40+"],
+    },
+  },
   {
     id: "vashlovani-national-park-nature-v2",
     type: "national-park",
     parent: "GE-KA",
     coords: [46.4667, 41.2000],
-    name: { de: "Nationalpark Waschlowani", hu: "Vaslovani Nemzeti Park", ro: "Parcul Național Vashlovani", en: "Vashlovani National Park",
-image: "/poi-images/vashlovani-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Waschlowani", hu: "Vaslovani Nemzeti Park", ro: "Parcul Național Vashlovani", en: "Vashlovani National Park"},
+    image: "/poi-images/vashlovani-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Waschlowani im äußersten Osten Georgiens bietet eine außergewöhnliche Halbwüstenlandschaft mit bizarren Felsformationen und Schlammvulkanen. Er ist ein starker Kontrast zu den grünen Bergen des restlichen Landes und beherbergt eine Flora und Fauna, die eher an Zentralasien erinnert.", hu: "Grúzia legkeletibb részén a Vaslovani Nemzeti Park különleges félsivatagi tájat kínál, bizarr sziklaalakzatokkal és iszapvulkánokkal. Éles ellentétben áll az ország többi részének zöldellő hegyeivel, növény- és állatvilága pedig inkább Közép-Ázsiát idézi.", ro: "Parcul Național Vashlovani din extremitatea estică a Georgiei oferă un peisaj semi-deșertic extraordinar, cu formațiuni stâncoase bizare și vulcani noroioși. Reprezintă un contrast puternic față de munții verzi din restul țării și găzduiește o floră și o faună care amintesc mai degrabă de Asia Centrală.", en: "Vashlovani National Park in the far east of Georgia offers an extraordinary semi-desert landscape with bizarre rock formations and mud volcanoes. It strongly contrasts with the green mountains of the rest of the country, hosting flora and fauna more reminiscent of Central Asia." },
     facts: {
       de: ["Der Name Waschlowani bedeutet wörtlich 'Apfelgarten'.", "Das Gebiet ist bekannt für seine Vorkommen der seltenen Kaukasusotter."],
@@ -186,115 +304,197 @@ image: "/poi-images/vashlovani-national-park-nature-v2.webp"
     type: "national-park",
     parent: "GE-AJ",
     coords: [41.8667, 41.6833],
-    name: { de: "Nationalpark Mtirala", hu: "Mtirala Nemzeti Park", ro: "Parcul Național Mtirala", en: "Mtirala National Park",
-image: "/poi-images/mtirala-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Mtirala", hu: "Mtirala Nemzeti Park", ro: "Parcul Național Mtirala", en: "Mtirala National Park"},
+    image: "/poi-images/mtirala-national-park-nature-v2.webp",
     description: { de: "Der Nationalpark Mtirala nahe der Schwarzmeerküste ist die feuchteste Region Georgiens und besticht durch dichte, fast undurchdringliche Regenwälder aus Kastanien und Buchen. Die unzähligen Wasserfälle und klaren Bergquellen machen das Gebiet zu einer grünen, nebligen Oase.", hu: "A Fekete-tenger partjához közeli Mtirala Nemzeti Park Grúzia legcsapadékosabb régiója, amely sűrű, szinte áthatolhatatlan gesztenye- és bükkerdeivel nyűgöz le. A számtalan vízesés és a tiszta hegyi források a területet zöld, ködös oázissá varázsolják.", ro: "Parcul Național Mtirala, aflat în apropierea coastei Mării Negre, este cea mai umedă regiune din Georgia și captivează cu pădurile sale dense, aproape impenetrabile, de castani și fagi. Nenumăratele cascade și izvoarele limpezi de munte fac din această zonă o oază verde și cețoasă.", en: "Mtirala National Park near the Black Sea coast is the wettest region in Georgia, captivating visitors with its dense, almost impenetrable rain forests of chestnut and beech trees. Countless waterfalls and clear mountain springs make the area a lush, misty oasis." },
     facts: {
       de: ["Der Name Mtirala bedeutet auf Georgisch 'Die Weinende', bezogen auf den vielen Regen.", "Im Park fallen jährlich bis zu 4.500 Millimeter Niederschlag."],
       hu: ["A Mtirala név grúzul 'Sírót' jelent, ami a rengeteg esőre utal.", "A parkban évente akár 4500 milliméter csapadék is hullhat."],
       ro: ["Numele Mtirala înseamnă 'Cea care plânge' în georgiană, o referire la ploile abundente.", "Parcul primește anual precipitații de până la 4.500 de milimetri."],
       en: ["The name Mtirala means 'The Weeping One' in Georgian, referring to the heavy rainfall.", "The park receives up to 4,500 millimeters of precipitation annually."]
-    }, image: "/poi-images/mtirala-national-park-nature-v2.webp"},
+    }, image: "/poi-images/mtirala-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mtirala-Nationalpark an der Schwarzmeerküste Georgiens wurde 2007 auf 158 km² eingerichtet. Der Name bedeutet 'Weinender Berg' wegen der hohen Niederschläge (bis zu 4.500 mm jährlich) – einer der feuchtesten Orte Europas. Die Landschaft besteht aus subtropischen Regenwäldern mit immergrünen Eichen, Buchsbäumen und Farnen. Der Park ist Lebensraum von Kaukasischen Feuersalamandern und Schopfadlern. In den 1990er Jahren diente das unzugängliche Gebiet als Rückzugsort für gefährdete Arten. Touristen können Wanderungen zu Wasserfällen und alten Adjarischen Dörfern unternehmen. Die nahe Stadt Kobuleti ist ein Badeort. Der Park hat keine Lodges; Übernachtungen nur in Zelten.",
+      hu: "A Mtirala Nemzeti Park Grúzia délnyugati részén, Adzsáriában található, 2007-ben alapították. Területe 158 km², és az ország egyik legcsapadékosabb vidéke, évi 4.500 mm csapadékkal. A parkot sűrű, szubtrópusi erdők borítják, ahol puszpáng, babér és mirtusz nő. A vadvilág része a kaukázusi szalamandra és a holló. A parkban több vízesés található, mint a Mtirala-vízesés, amely 20 m magas. A helyi gazdaságot a teaültetvények és az idegenforgalom adja. A környékbeli falvak, mint Chakvi, híresek a szezonális gyümölcstermesztésről.",
+      ro: "Parcul Național Mtirala, înființat în 2007, se întinde pe 158 km² în Adjara, sud-vestul Georgiei. Este una dintre cele mai umede zone din Europa, cu precipitații anuale de până la 4.500 mm. Pădurile subtropicale de foioase includ specii endemice precum bucșa caucaziană. Parcul adăpostește vulpea și mistrețul. Printre atracții se numără cascada Mtirala și panorama spre Marea Neagră. Tradiția locală de cultivare a ceaiului datează din perioada sovietică. Accesul este permis cu ghid, iar traseele includ poteci care leagă satele adițare de peșteri.",
+      en: "Mtirala National Park, established in 2007, covers 158 km² in the Adjara region, characterized by a humid subtropical climate. The park's name translates to 'the weeping mountain' due to its high rainfall of up to 4,500 mm annually. It protects a Colchic rainforest ecosystem, a relict of the Tertiary period, with flora such as Rhododendron ponticum and boxwood. The park is important for conservation of the Caucasian black grouse. Ecotourism is developing; the park has five marked hiking trails totaling 50 km. The nearby coastal city of Batumi, a major tourist destination, provides easy access.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 2007", "Fläche: 158 km²", "Jahresniederschlag: bis zu 4.500 mm", "Höhenlage: 200–1.500 m", "Wanderwege: 5 Routen, insgesamt 50 km", "Nächste Stadt: Kobuleti (20 km)"],
+      hu: ["Alapítás: 2007", "Terület: 158 km²", "Éves csapadék: 4.500 mm", "Tengerszint feletti magasság: 200-1.500 m", "Túraútvonalak: 5, összesen 50 km", "Vízesés magasság: 20 m"],
+      ro: ["Înființare: 2007", "Suprafață: 158 km²", "Precipitații anuale: 4.500 mm", "Altitudine: 200–1.500 m", "Trasee marcate: 5, 50 km total", "Cascada Mtirala: 20 m înălțime"],
+      en: ["Established: 2007", "Area: 158 km²", "Annual rainfall: up to 4,500 mm", "Elevation range: 200–1,500 m", "Hiking trails: 5 routes, 50 km total", "Distant to Batumi: 30 km"],
+    },
+  },
   {
     id: "lagodekhi-protected-areas-nature-v2",
     type: "national-park",
     parent: "GE-KA",
     coords: [46.2833, 41.8333],
-    name: { de: "Naturschutzgebiet Lagodechi", hu: "Lagodehi Védett Területek", ro: "Rezervația Naturală Lagodekhi", en: "Lagodekhi Protected Areas",
-image: "/poi-images/lagodekhi-protected-areas-nature-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Lagodechi", hu: "Lagodehi Védett Területek", ro: "Rezervația Naturală Lagodekhi", en: "Lagodekhi Protected Areas"},
+    image: "/poi-images/lagodekhi-protected-areas-nature-v2.webp",
     description: { de: "Lagodechi ist das älteste Naturschutzgebiet in Georgien, gelegen an der Ostflanke des Kaukasus. Die Region ist berühmt für ihre unberührten Primärwälder, tiefen Gletschertäler, malerischen Wasserfälle und hochalpinen Seen, die bis an die Grenze zu Dagestan reichen.", hu: "A Lagodehi Grúzia legrégebbi természetvédelmi területe, a Kaukázus keleti oldalán. A régió érintetlen őserdeiről, mély gleccservölgyeiről, festői vízeséseiről és egészen a dagesztáni határig nyúló magashegyi tavairól híres.", ro: "Lagodekhi este cea mai veche rezervație naturală din Georgia, situată pe versantul estic al Caucazului. Regiunea este renumită pentru pădurile sale primare neatinse, văile glaciare adânci, cascadele pitorești și lacurile alpine înalte care se întind până la granița cu Daghestan.", en: "Lagodekhi is the oldest nature reserve in Georgia, located on the eastern flank of the Caucasus. The region is famous for its pristine primary forests, deep glacial valleys, picturesque waterfalls, and high alpine lakes that reach all the way to the border with Dagestan." },
     facts: {
       de: ["Es wurde bereits 1912 vom russischen Botaniker Ludwik Młokosiewicz gegründet.", "Der Schwarzfelsen-See auf 3.000 Metern ist ein beliebtes Wanderziel."],
       hu: ["Már 1912-ben megalapította Ludwik Młokosiewicz orosz botanikus.", "A 3000 méter magasan fekvő Fekete-szikla-tó népszerű túracélpont."],
       ro: ["A fost fondată încă din 1912 de către botanistul rus Ludwik Młokosiewicz.", "Lacul Black Rock, la 3.000 de metri altitudine, este o destinație populară pentru drumeții."],
       en: ["It was founded back in 1912 by the Russian botanist Ludwik Młokosiewicz.", "The Black Rock Lake at an elevation of 3,000 meters is a popular hiking destination."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Lagodekhi-Schutzgebiete im Nordosten Georgiens, 1912 als erstes Naturschutzgebiet des Landes gegründet, umfassen 244 km². Sie liegen an den Südhängen des Großen Kaukasus, nahe der Grenze zu Aserbaidschan. Das Gebiet bewahrt alte Buchen- und Tannenwälder mit Bäumen bis zu 50 m Höhe. Die 'Weinende Schlucht' und der 'Schwarze Felsen' sind geologische Besonderheiten. Die Artenvielfalt umfasst den Kaukasushirsch, den Gämse und den Steinadler. Der Bärensee auf 1.600 m ist ein beliebtes Wanderziel. Seit 1980 ist das Gebiet UNESCO-Biosphärenreservat. Jährlich werden bis zu 10.000 Besucher gezählt.",
+      hu: "A Lagodekhi Védett Területek Grúzia legrégebbi természetvédelmi körzete, amelyet 1912-ben hoztak létre. Területe 244 km², a Nagy-Kaukázus déli lejtőin fekszik. A park híres bükkerdeiről, amelyek között 50 méter magas fák is találhatók. Jellegzetesség a 'Síró-szurdok' és a 'Fekete-szikla' tanúhegy. Állatvilágának kiemelkedő faja a kaukázusi szarvas, a zerge és a szakállas saskeselyű. A Medve-tó (1.600 m tszf.) népszerű kirándulóhely. 1980 óta az UNESCO Ember és Bioszféra programjának része. A bejáratnál látogatóközpont működik.",
+      ro: "Aria Protejată Lagodekhi, înființată în 1912, este cea mai veche rezervație naturală din Georgia, întinzându-se pe 244 km² în Munții Caucaz, la granița cu Azerbaidjan. Pădurile seculare de fag și brad adăpostesc copaci de până la 50 m înălțime. Rezervația este celebră pentru cascade și lacurile alpine, cum ar fi Lacul Ursului. Fauna include cerbul caucazian, capra neagră și vulturul bărbos. A fost desemnată rezervație a biosferei UNESCO în 1980. Traseele sunt bine marcate, iar cabanele oferă cazare. Numărul vizitatorilor este limitat la 200 pe zi.",
+      en: "Lagodekhi Protected Areas, established in 1912, cover 244 km² of eastern Georgian forests on the southern slopes of the Greater Caucasus. It is one of the oldest nature reserves in the former Soviet Union. The reserve is known for its virgin beech forests and Caucasian fir, some over 400 years old. The Black Rock peak (2,400 m) offers panoramic views. The area is a stronghold for the East Caucasian tur and the Caucasian lynx. The reserve is part of the UNESCO Man and Biosphere Programme since 1980. A 50-meter-long canopy walkway allows treetop observation.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1912 (erster Nationalpark Georgiens)", "Fläche: 244 km²", "Höhenlage: 600–2.400 m", "UNESCO-Biosphärenreservat seit 1980", "Größte Bäume: bis 50 m Höhe, 400 Jahre alt", "Tägliches Besucherlimit: 200"],
+      hu: ["Alapítás: 1912", "Terület: 244 km²", "Tengerszint feletti magasság: 600-2.400 m", "UNESCO bioszféra-rezervátum: 1980 óta", "Legöregebb fák: 400 éves bükk", "Napi látogatói limit: 200 fő"],
+      ro: ["Înființare: 1912", "Suprafață: 244 km²", "Altitudine: 600–2.400 m", "Rezervație UNESCO Biosferă: 1980", "Copaci bătrâni: până la 400 de ani", "Vizitatori pe zi: max 200"],
+      en: ["Established: 1912 (first reserve in Georgia)", "Area: 244 km²", "Elevation range: 600–2,400 m", "UNESCO Biosphere Reserve: 1980", "Oldest trees: 400+ years", "Daily visitor limit: 200"],
+    },
   },
   {
     id: "aragvi-river-nature-v2",
     type: "river",
     parent: "GE-MM",
     coords: [44.7000, 41.8333],
-    name: { de: "Aragwi", hu: "Aragvi", ro: "Aragvi", en: "Aragvi River",
-image: "/poi-images/aragvi-river-nature-v2.webp"
-},
+    name: { de: "Aragwi", hu: "Aragvi", ro: "Aragvi", en: "Aragvi River"},
+    image: "/poi-images/aragvi-river-nature-v2.webp",
     description: { de: "Der Aragwi schlängelt sich durch die atemberaubende Landschaft der Region Mzcheta-Mtianeti und formt dabei tiefe Täler. Er entsteht aus dem Zusammenfluss des Weißen und des Schwarzen Aragwi und mündet schließlich bei der alten Hauptstadt Mzcheta in die Kura.", hu: "Az Aragvi a Mcheta-Mtianeti régió lélegzetelállító tájain kanyarog, mély völgyeket formálva. A Fehér és a Fekete Aragvi összefolyásából keletkezik, végül az ősi főváros, Mcheta mellett a Kurába torkollik.", ro: "Aragvi șerpuiește prin peisajul uluitor al regiunii Mtskheta-Mtianeti, formând văi adânci. Se formează prin confluența râurilor Aragvi Alb și Negru și, în cele din urmă, se varsă în Kura lângă vechea capitală Mtskheta.", en: "The Aragvi meanders through the breathtaking landscape of the Mtskheta-Mtianeti region, carving deep valleys along its course. Formed by the confluence of the White and Black Aragvi, it eventually flows into the Kura River near the ancient capital of Mtskheta." },
     facts: {
       de: ["Der Aragwi speist den riesigen Zhinwali-Stausee, der Tiflis mit Trinkwasser versorgt.", "Entlang seines Tals verläuft die historische Georgische Heerstraße."],
       hu: ["Az Aragvi táplálja a hatalmas Zsinvali-víztározót, amely Tbiliszi ivóvizét biztosítja.", "Völgye mentén halad a történelmi Grúz hadiút."],
       ro: ["Aragvi alimentează uriașul lac de acumulare Zhinvali, care furnizează apă potabilă pentru Tbilisi.", "Militara Șosea Georgiană istorică trece de-a lungul văii sale."],
       en: ["The Aragvi feeds the massive Zhinwali Reservoir, which provides drinking water for Tbilisi.", "The historic Georgian Military Highway runs along its valley."]
-    }, image: "/poi-images/aragvi-river-nature-v2.webp"},
+    }, image: "/poi-images/aragvi-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aragvi ist ein 112 km langer Fluss in Zentralgeorgien, der im Großen Kaukasus entspringt und bei Mzcheta in die Kura mündet. Sein Einzugsgebiet umfasst 2.740 km². Der Fluss besteht aus zwei Hauptarmen: Weißer Aragvi (aus dem Gudauri-Gebiet) und Schwarzer Aragvi (aus dem Kobi-Plateau). Die Aragvi-Talsperre, 1980 errichtet, bildet einen 20 km langen Stausee, der Trinkwasser für Tiflis liefert. An den Ufern liegen das mittelalterliche Ananuri-Kloster und das Gudauri-Skigebiet. Der Fluss ist bekannt für seine Forellenpopulation. Im Winter gefriert der Oberlauf. Die Region war Schauplatz der Schlacht am Aragvi 1922.",
+      hu: "Az Aragvi folyó Közép-Grúzia egyik fontos vízfolyása, amely a Nagy-Kaukázusban ered. Hossza 112 km, vízgyűjtő területe 2.740 km². Két fő ága, a Fehér- és a Fekete-Aragvi a Kaukázus gleccsereiből táplálkozik. A folyón lévő víztározó 1980-ban épült, ami Tbiliszi ivóvízellátását biztosítja. Partján található az Ananuri erődkomplexum (17. század), amely népszerű turistacélpont. A folyó felső folyásánál fekszik Gudauri, Grúzia egyik legnagyobb síközpontja (magassága 2.200 m). Az Aragvi völgye fontos mezőgazdasági terület, főleg kukoricát termesztenek.",
+      ro: "Râul Aragvi, lung de 112 km, curge în centrul Georgiei, izvorând din Caucazul Mare și vărsându-se în Kura lângă Mtskheta. Bazinul său acoperă 2.740 km². Râu are vale precipitări abundente; la Gudauri, ninsorile ajung la 2 m anual. Pe râu a fost construită o hidrocentrală cu o capacitate de 10 MW. La confluența cu Marea, Aragvi este traversată de podul regal din secolul I. Malurile sale găzduiesc cetatea Ananuri, care a fost sediul ducilor Aragvi. Regiunea este cunoscută pentru culturile de cartofi și mere.",
+      en: "The Aragvi River, 112 km long, is a major tributary of the Kura River in central Georgia. It drains the Greater Caucasus and flows through the historic province of Mtskheta-Mtianeti. Its main sources, the White Aragvi and Black Aragvi, join near the town of Pasanauri. The river's flow is regulated by the Zhinvali Dam, built in 1980, which creates a reservoir that supplies drinking water to Tbilisi. The Aragvi Valley is a key agricultural area, known for apple orchards and trout fishing. The river also supports hydroelectric power, with an installed capacity of 130 MW. Ananuri Fortress on its banks is a UNESCO-listed monument.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 112 km", "Einzugsgebiet: 2.740 km²", "Zhinvali-Staudamm: Baujahr 1980", "Stausee Länge: 20 km", "Wasserkraft: 130 MW", "Trinkwasser für Tiflis: 50% des Bedarfs"],
+      hu: ["Hossz: 112 km", "Vízgyűjtő: 2.740 km²", "Zhinvali-tározó: 1980", "Víztározó hossza: 20 km", "Öntözés: 30.000 hektár", "Gudauri síközpont: 2.200 m"],
+      ro: ["Lungime: 112 km", "Bazin hidrografic: 2.740 km²", "Baraj Zhinvali: 1980", "Lac de acumulare: 20 km lungime", "Putere hidroelectrică: 130 MW", "Apele asigură 50% din apa potabilă a Tbilisiului"],
+      en: ["Length: 112 km", "Basin area: 2,740 km²", "Zhinvali Dam completed: 1980", "Reservoir length: 20 km", "Hydroelectric capacity: 130 MW", "Provides 50% of Tbilisi's drinking water"],
+    },
+  },
   {
     id: "alazani-river-nature-v2",
     type: "river",
     parent: "GE-KA",
     coords: [46.3333, 41.0167],
-    name: { de: "Alasani", hu: "Alazani", ro: "Alazani", en: "Alazani River",
-image: "/poi-images/alazani-river-nature-v2.webp"
-},
+    name: { de: "Alasani", hu: "Alazani", ro: "Alazani", en: "Alazani River"},
+    image: "/poi-images/alazani-river-nature-v2.webp",
     description: { de: "Der Alasani ist der wichtigste Fluss der ostgeorgischen Weinregion Kachetien. Er fließt durch ein breites, fruchtbares Tal, das im Norden von der mächtigen Kaukasuskette geschützt wird, und schafft so das perfekte Mikroklima für den georgischen Weinbau.", hu: "Az Alazani a kelet-grúziai borvidék, Kaheti legfontosabb folyója. Széles, termékeny völgyön halad keresztül, melyet északról a hatalmas Kaukázus hegylánc véd, így tökéletes mikroklímát teremtve a grúz borászat számára.", ro: "Alazani este cel mai important râu din regiunea viticolă est-georgiană, Kakheti. Curge printr-o vale largă și fertilă, protejată la nord de puternicul lanț caucazian, creând astfel microclimatul perfect pentru viticultura georgiană.", en: "The Alazani is the most important river in the eastern Georgian wine region of Kakheti. It flows through a broad, fertile valley protected to the north by the mighty Caucasus range, thereby creating the perfect microclimate for Georgian viticulture." },
     facts: {
       de: ["Das Alasani-Tal ist das Herzstück der georgischen Weinproduktion.", "Er bildet auf weiten Strecken die natürliche Grenze zu Aserbaidschan."],
       hu: ["Az Alazani-völgy a grúz bortermelés szíve.", "Hosszú szakaszokon természetes határt képez Azerbajdzsánnal."],
       ro: ["Valea Alazani este inima producției de vin din Georgia.", "Acesta formează pe distanțe lungi granița naturală cu Azerbaidjanul."],
       en: ["The Alazani Valley is the heartland of Georgian wine production.", "It forms the natural border with Azerbaijan for long stretches."]
-    }, image: "/poi-images/alazani-river-nature-v2.webp"},
+    }, image: "/poi-images/alazani-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Alazani ist mit 351 km der längste Fluss Georgiens und durchfließt die historische Region Kachetien, das Zentrum des georgischen Weinbaus. Er entspringt im Großen Kaukasus und mündet in die Mingəçevir-Talsperre in Aserbaidschan. Das Einzugsgebiet beträgt 10.800 km². Der Fluss bewässert rund 40.000 Hektar Rebfläche. Die Alazani-Ebene ist bekannt für ihre 1 km breite Schlucht. Der Weinbau hat eine über 6000 Jahre alte Tradition; Rebsorten wie Saperavi werden hier kultiviert. Der Fluss ist stark durch Pestizide aus der Landwirtschaft belastet. An seinen Ufern liegen die Städte Telawi und Kwareli.",
+      hu: "Az Alazani folyó Grúzia leghosszabb folyója, 351 km hosszú, amely a Nagy-Kaukázusban ered és Azerbajdzsánban, a Mingəçevir-víztározóban torkollik. Vízgyűjtő területe 10.800 km². A folyó Kachetia régiójában folyik, amely Grúzia borközpontja. A völgyben teremnek a híres grúz szőlők, mint a Szapheravi. Az Alazani mentén fekvő Telavi a régió fővárosa, 20.000 lakossal. A folyó mentén található Gremi, a 16. századi főváros romjai. Az öntözött terület 40.000 hektár. A vízminőség a mezőgazdasági szennyezés miatt romlott.",
+      ro: "Râul Alazani, cel mai lung din Georgia cu 351 km, izvorăște din Caucazul Mare și curge prin regiunea viticolă Kakheti, vărsându-se în lacul de acumulare Mingəçevir (Azerbaidjan). Bazinul său acoperă 10.800 km². Râul este esențial pentru irigația a peste 40.000 ha de podgorii. Valea Alazani este renumită pentru strugurii Saperavi și Rkatsiteli. Orașul Telavi (19.000 locuitori) este centrul cultural. Podgoriile datează din secolul al VI-lea î.Hr. În 2012, UNESCO a înscris tradiția vinificației kachetiene pe lista patrimoniului imaterial. Poluarea cu nitrați este azi probleme majoră.",
+      en: "The Alazani River, 351 km long, is the longest river entirely within Georgia and the main watercourse of the Kakheti wine region. It originates in the Greater Caucasus at an elevation of 3,200 m and flows into the Mingachevir Reservoir in Azerbaijan. Its basin covers 10,800 km². The river supports extensive agriculture, particularly vineyards that produce famous Georgian wines like Saperavi. The ancient town of Telavi, which dates back to the 9th century, lies on its banks. The Alazani Valley is also known for the historic Akhmeta district. However, water abstraction for irrigation reduces summer flow significantly.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 351 km (längster Fluss Georgiens)", "Einzugsgebiet: 10.800 km²", "Bewässerte Rebfläche: 40.000 ha", "Quellhöhe: 3.200 m", "Telawi: 19.000 Einwohner", "Weinbautradition: 6.000 Jahre"],
+      hu: ["Hossz: 351 km", "Vízgyűjtő: 10.800 km²", "Öntözött szőlőterület: 40.000 ha", "Forrásmagasság: 3.200 m", "Telavi lakossága: 19.000", "Szőlőtermesztés kezdete: Kr.e. 6000"],
+      ro: ["Lungime: 351 km", "Bazin hidrografic: 10.800 km²", "Podgorii irigate: 40.000 ha", "Altitudine izvor: 3.200 m", "Telavi: 19.000 locuitori", "Tradiție vinicolă: 8.000 ani"],
+      en: ["Length: 351 km (longest in Georgia)", "Basin area: 10,800 km²", "Irrigated vineyards: 40,000 ha", "Source elevation: 3,200 m", "Telavi population: 19,000", "Wine tradition: 6,000 years BC"],
+    },
+  },
   {
     id: "tetnuldi-nature-v2",
     type: "mountain",
     parent: "GE-SZ",
     coords: [42.9967, 43.0303],
-    name: { de: "Tetnuldi", hu: "Tetnuldi", ro: "Tetnuldi", en: "Mount Tetnuldi",
-image: "/poi-images/tetnuldi-nature-v2.webp"
-},
+    name: { de: "Tetnuldi", hu: "Tetnuldi", ro: "Tetnuldi", en: "Mount Tetnuldi"},
+    image: "/poi-images/tetnuldi-nature-v2.webp",
     description: { de: "Der Tetnuldi ist ein majestätischer, pyramidenförmiger Gipfel in der Region Swanetien. Mit seinen ewig weißen, von weitem leuchtenden Gletschern gilt er als einer der formschönsten Berge des Kaukasus und ist ein Magnet für Alpinisten und Freeride-Skifahrer.", hu: "A Tetnuldi egy fenséges, piramis alakú csúcs Szvanéti régiójában. Örökfehér, messziről világító gleccsereivel a Kaukázus egyik legformásabb hegyének számít, az alpinisták és a freeride síelők igazi mágnese.", ro: "Tetnuldi este un vârf maiestuos, în formă de piramidă, în regiunea Svaneti. Cu ghețarii săi veșnic albi, vizibili de departe, este considerat unul dintre cei mai frumos conturați munți din Caucaz și este un magnet pentru alpiniști și schiori freeride.", en: "Mount Tetnuldi is a majestic, pyramid-shaped peak in the Svaneti region. With its eternally white glaciers shining from afar, it is considered one of the most beautifully shaped mountains in the Caucasus, drawing alpinists and freeride skiers alike." },
     facts: {
       de: ["Der Berg erreicht eine beeindruckende Höhe von 4.858 Metern.", "An seinen Hängen wurde ein modernes Skigebiet eröffnet."],
       hu: ["A hegy lenyűgöző, 4858 méteres magasságot ér el.", "Lejtőin egy modern síközpont is megnyílt."],
       ro: ["Muntele atinge o altitudine impresionantă de 4.858 de metri.", "Pe versanții săi a fost deschisă o stațiune modernă de schi."],
       en: ["The mountain reaches an impressive elevation of 4,858 meters.", "A modern ski resort has been opened on its slopes."]
-    }, image: "/poi-images/tetnuldi-nature-v2.webp"},
+    }, image: "/poi-images/tetnuldi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Berg Tetnuldi im Kaukasus ist ein markanter Gipfel mit 4858 Metern Höhe, gelegen in der Region Swanetien. Er ist Teil des Kaukasushauptkamms und bekannt für seine imposante Nordwand. Der Gletscher Tetnuldi bedeckt eine Fläche von etwa 9,5 Quadratkilometern. Der Berg ist ein beliebtes Ziel für Bergsteiger, die jedoch gute technische Fähigkeiten benötigen. Die Region um den Tetnuldi ist reich an Flora und Fauna, darunter seltene Arten wie der Kaukasische Steinbock. In der Nähe befinden sich die Bergdörfer Mestia und Ushguli, die zum UNESCO-Welterbe gehören.",
+      hu: "A Tetnuldi (4858 m) a Kaukázus egyik kiemelkedő csúcsa Szvanétiában. A Kaukázus fő vonulatának része, híres impozáns északi faláról. A Tetnuldi-gleccser területe mintegy 9,5 km². A hegyet gyakran hasonlítják az Alpok csúcsaihoz, és népszerű a hegymászók körében. A környék gazdag növény- és állatvilággal rendelkezik, például kaukázusi kőszáli kecskékkel. A közeli Mestia és Ushguli falvak az UNESCO világörökség részei. A csúcsra vezető útvonalak technikailag kihívást jelentenek.",
+      ro: "Muntele Tetnuldi, cu o înălțime de 4858 m, este un vârf proeminent din Caucaz, situat în regiunea Svaneti. Face parte din lanțul principal al Caucazului, cunoscut pentru peretele său nordic impresionant. Ghețarul Tetnuldi are o suprafață de aproximativ 9,5 km². Este o destinație populară pentru alpiniști, dar necesită abilități tehnice avansate. Flora și fauna includ specii rare precum ibexul caucazian. Satele Mestia și Ușguli din apropiere sunt incluse în patrimoniul UNESCO. Traseele oferă vederi spectaculoase.",
+      en: "Mount Tetnuldi is a 4858-meter peak in the Caucasus Mountains, located in Svaneti, Georgia. It is part of the main Caucasus range and is known for its steep north face and large glacier covering about 9.5 square kilometers. The mountain is a popular climbing destination, requiring technical expertise. The region is home to diverse wildlife, including the Caucasian ibex. Nearby villages Mestia and Ushguli are UNESCO World Heritage sites. The Tetnuldi Glacier is retreating due to climate change, and the area is also used for skiing in winter.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4858 Meter.", "Gletscherfläche: 9,5 km².", "Erstbesteigung: 1909 durch eine deutsche Expedition.", "Lage: Swanetien, Georgien.", "Teil des Kaukasushauptkamms.", "Nächstgelegene Stadt: Mestia (etwa 25 km entfernt)."],
+      hu: ["Magasság: 4858 m.", "Gleccser területe: 9,5 km².", "Első megmászás: 1909 (német expedíció).", "Szvanétiában található.", "A Kaukázus fő vonulatának része.", "Legközelebbi város: Mestia (kb. 25 km)."],
+      ro: ["Altitudine: 4858 m.", "Suprafața ghețarului: 9,5 km².", "Prima ascensiune: 1909 (expediție germană).", "Locație: Svaneti, Georgia.", "Parte a lanțului principal al Caucazului.", "Cel mai apropiat oraș: Mestia (la ~25 km)."],
+      en: ["Height: 4858 meters.", "Glacier area: 9.5 square kilometers.", "First ascent: 1909 (German expedition).", "Located in Svaneti, Georgia.", "Part of the main Caucasus range.", "Nearest town: Mestia (approximately 25 km away)."],
+    },
+  },
   {
     id: "kintrishi-nature-v2",
     type: "forest",
     parent: "GE-AJ",
     coords: [41.9833, 41.7333],
-    name: { de: "Naturschutzgebiet Kintrischi", hu: "Kintrisi Szigorú Természetvédelmi Terület", ro: "Rezervația Naturală Kintrishi", en: "Kintrishi Strict Nature Reserve",
-image: "/poi-images/kintrishi-nature-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Kintrischi", hu: "Kintrisi Szigorú Természetvédelmi Terület", ro: "Rezervația Naturală Kintrishi", en: "Kintrishi Strict Nature Reserve"},
+    image: "/poi-images/kintrishi-nature-v2.webp",
     description: { de: "Das Naturschutzgebiet Kintrischi verbirgt sich in einer malerischen Flussschlucht in der Bergregion Adscharien. Das Gebiet ist fast vollständig von dichten, feuchten und verwunschenen Wäldern bedeckt, in denen jahrhundertealte Steinbrücken verborgen liegen.", hu: "A Kintrisi természetvédelmi terület egy festői folyószurdokban bújik meg az adzsariai hegyvidéken. A területet szinte teljesen sűrű, nedves és elvarázsolt erdők borítják, melyek évszázados kőhidakat rejtenek.", ro: "Rezervația naturală Kintrishi este ascunsă într-un defileu pitoresc de râu în regiunea muntoasă Adjara. Zona este aproape complet acoperită de păduri dense, umede și fermecate, în care se ascund poduri de piatră vechi de secole.", en: "The Kintrishi Strict Nature Reserve is hidden away in a picturesque river gorge within the mountainous region of Adjara. The area is almost entirely covered by dense, humid, and enchanted forests that conceal centuries-old stone bridges." },
     facts: {
       de: ["Ein Großteil des Gebiets besteht aus reinen Primärwäldern.", "Das Reservat beherbergt viele endemische Pflanzenarten des Kolchis-Gebiets."],
       hu: ["A terület nagy része érintetlen őserdőkből áll.", "A rezervátum számos kolkhidai endemikus növényfajnak ad otthont."],
       ro: ["O mare parte din zonă constă din păduri primare pure.", "Rezervația adăpostește multe specii de plante endemice ale regiunii Colchis."],
       en: ["A large portion of the area consists of pure primary forests.", "The reserve hosts many endemic plant species of the Kolkheti region."]
-    }, image: "/poi-images/kintrishi-nature-v2.webp"},
+    }, image: "/poi-images/kintrishi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kintrishi-Schutzgebiet liegt in Adscharia, Südwestgeorgien, und schützt einen subtropischen Regenwald an den Hängen des Kleinen Kaukasus. Es wurde 1959 gegründet und erstreckt sich über etwa 100 Quadratkilometer. Die Vegetation ist dicht und umfasst endemische Arten wie die Kaukasische Tanne. Das Reservat ist bekannt für seine Wasserfälle, darunter der Tschachati-Wasserfall. Die Fauna umfasst Braunbären, Luchse und verschiedene Vogelarten. Ein Besucherzentrum bietet Informationen. Wanderwege führen durch unberührte Natur. Das Gebiet ist auch für seine Thermalquellen bekannt.",
+      hu: "A Kintrishi Szigorú Természetvédelmi Terület Adzsariában, Délnyugat-Grúziában található, és szubtrópusi esőerdőt véd a Kis-Kaukázus lejtőin. 1959-ben alapították, területe mintegy 100 km². Növényzete sűrű, endemikus fajokkal, mint a kaukázusi jegenyefenyő. Híres vízeséseiről, köztük a Csakati-vízesésről. Állatvilága barna medvét, hiúzt és számos madárfajt foglal magában. Látogatóközpont és túraútvonalak állnak rendelkezésre. A terület termálvízforrásairól is ismert.",
+      ro: "Rezervația Naturală Kintrishi este situată în Adjaria, sud-vestul Georgiei, protejând o pădure tropicală subtropicală pe versanții Caucazului Mic. Fondată în 1959, se întinde pe aproximativ 100 km². Vegetația densă include specii endemice precum bradul caucazian. Rezervația este cunoscută pentru cascadele sale, inclusiv Cascada Chakati. Fauna include urși bruni, râși și multe păsări. Există un centru de vizitare și trasee de drumeție. Zona este renumită și pentru izvoarele termale.",
+      en: "Kintrishi Strict Nature Reserve is located in Adjara, southwestern Georgia, protecting a subtropical rainforest on the slopes of the Lesser Caucasus. Established in 1959, it covers about 100 square kilometers. The dense vegetation includes endemic species such as the Caucasian fir. The reserve is famous for its waterfalls, including Chakati Falls. Wildlife includes brown bears, lynx, and numerous bird species. A visitor center provides information, and hiking trails allow exploration. The area also has thermal springs. Kintrishi is important for biodiversity conservation and scientific research.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1959.", "Fläche: 100 km².", "Höhenlage: zwischen 400 und 1500 Metern.", "Bekanntester Wasserfall: Chakati-Wasserfall (20 Meter hoch).", "Anzahl der Pflanzenarten: über 800.", "Thermalquellen mit Temperaturen bis zu 50°C."],
+      hu: ["Alapítás: 1959.", "Terület: 100 km².", "Tengerszint felett: 400-1500 m.", "Leghíresebb vízesés: Csakati-vízesés (20 m).", "Növényfajok száma: több mint 800.", "Termálforrások hőmérséklete akár 50°C."],
+      ro: ["Fondată în 1959.", "Suprafață: 100 km².", "Altitudine: între 400 și 1500 m.", "Cascada Chakati: 20 m înălțime.", "Specii de plante: peste 800.", "Izvoare termale cu temperaturi de până la 50°C."],
+      en: ["Established: 1959.", "Area: 100 square kilometers.", "Elevation range: 400 to 1500 meters.", "Chakati Waterfall height: 20 meters.", "Plant species: over 800.", "Thermal springs up to 50°C."],
+    },
+  },
   {
     id: "abudelauri-lakes-nature-v2",
     type: "lake",
     parent: "GE-MM",
     coords: [44.9500, 42.5667],
-    name: { de: "Abudelauri-Seen", hu: "Abudelauri-tavak", ro: "Lacurile Abudelauri", en: "Abudelauri Lakes",
-image: "/poi-images/abudelauri-lakes-nature-v2.webp"
-},
+    name: { de: "Abudelauri-Seen", hu: "Abudelauri-tavak", ro: "Lacurile Abudelauri", en: "Abudelauri Lakes"},
+    image: "/poi-images/abudelauri-lakes-nature-v2.webp",
     description: { de: "Die Abudelauri-Seen sind eine Gruppe spektakulärer hochalpiner Bergseen in Chewsuretien, die sich am Fuße des majestätischen Tschauchi-Massivs befinden. Jeder der drei Seen fasziniert durch eine andere Wasserfarbe – Blau, Grün und strahlendes Weiß – was der Landschaft eine magische Aura verleiht.", hu: "Az Abudelauri-tavak egy látványos magashegyi tócsoport Hevszurétiben, a fenséges Csauhi-masszívum lábánál. A három tó mindegyike más-más vízszínével nyűgöz le – kék, zöld és ragyogó fehér –, ami varázslatos aurát kölcsönöz a tájnak.", ro: "Lacurile Abudelauri sunt un grup de lacuri alpine spectaculoase din Khevsureti, situate la poalele maiestuosului masiv Chaukhi. Fiecare dintre cele trei lacuri fascinează printr-o culoare diferită a apei - albastru, verde și alb strălucitor - conferind peisajului o aură magică.", en: "The Abudelauri Lakes are a group of spectacular high alpine mountain lakes in Khevsureti, situated at the foot of the majestic Chaukhi Massif. Each of the three lakes captivates with a different water color—blue, green, and radiant white—giving the landscape a magical aura." },
     facts: {
       de: ["Der weiße See verdankt seine Farbe feinem Gletscherstaub.", "Die Seen sind von Juni bis September eisfrei und für Wanderer zugänglich."],
       hu: ["A fehér tó a finom gleccserpornak köszönheti színét.", "A tavak júniustól szeptemberig jégmentesek és a túrázók számára látogathatók."],
       ro: ["Lacul alb își datorează culoarea prafului fin de ghețar.", "Lacurile sunt fără gheață și accesibile drumeților din iunie până în septembrie."],
       en: ["The white lake owes its color to fine glacial dust.", "The lakes are ice-free and accessible to hikers from June to September."]
-    }, image: "/poi-images/abudelauri-lakes-nature-v2.webp"},
+    }, image: "/poi-images/abudelauri-lakes-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Abudelauri-Seen sind eine Gruppe von drei Gletscherseen in der Region Chewsuretien, auf einer Höhe von etwa 2800 Metern. Sie sind bekannt für ihre leuchtenden Farben: der Grüne See, der Blaue See und der Weiße See. Die Seen sind durch einen Bach verbunden und von schroffen Berggipfeln umgeben. Der Zugang erfolgt über Wanderwege, die anspruchsvoll sind. Die Gegend ist Teil des Tuscheti-Nationalparks. Die Seen sind ein beliebtes Ziel für Trekking und Fotografie. Die beste Reisezeit ist der Sommer, wenn die Umgebung grün ist.",
+      hu: "Az Abudelauri-tavak három gleccserszépségű tó Chewsuretiben, mintegy 2800 méteres magasságban. Színeik alapján nevezték el őket: Zöld-tó, Kék-tó és Fehér-tó. A tavakat patak köti össze, körülöttük meredek hegycsúcsok. A megközelítés nehéz túrákkal lehetséges. A terület a Tuseti Nemzeti Park része. Kedvelt úti cél a túrázók és fotósok körében. A nyári hónapok a legalkalmasabbak a látogatásra.",
+      ro: "Lacurile Abudelauri sunt un grup de trei lacuri glaciare în regiunea Khevsureti, la o altitudine de aproximativ 2800 m. Sunt cunoscute pentru culorile lor: Lacul Verde, Lacul Albastru și Lacul Alb. Lacurile sunt legate printr-un pârâu și înconjurate de vârfuri stâncoase. Accesul se face pe trasee de drumeție dificile. Zona face parte din Parcul Național Tușeti. Este o destinație populară pentru drumeții și fotografie. Cea mai bună perioadă de vizitare este vara.",
+      en: "The Abudelauri Lakes are three glacial lakes in the Khevsureti region of Georgia, situated at an elevation of approximately 2800 meters. They are named for their distinct colors: Green Lake, Blue Lake, and White Lake. The lakes are interconnected by a stream and surrounded by rugged peaks. Access requires challenging hikes. The area belongs to Tusheti National Park. The lakes are a popular destination for trekkers and photographers. Summer is the best season to visit, when the meadows are in bloom. The lakes are a prime example of glacial landscape formation.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2800 Meter.", "Anzahl der Seen: 3.", "Größe des Grünen Sees: ca. 1,5 Hektar.", "Größe des Blauen Sees: ca. 0,8 Hektar.", "Größe des Weißen Sees: ca. 0,5 Hektar.", "Wassertemperatur im Sommer: selten über 10°C."],
+      hu: ["Magasság: 2800 m.", "Tavak száma: 3.", "Zöld-tó területe: kb. 1,5 ha.", "Kék-tó területe: kb. 0,8 ha.", "Fehér-tó területe: kb. 0,5 ha.", "Nyári vízhőmérséklet: ritkán haladja meg a 10°C-ot."],
+      ro: ["Altitudine: 2800 m.", "Număr de lacuri: 3.", "Suprafața lacului Verde: aproximativ 1,5 ha.", "Suprafața lacului Albastru: aproximativ 0,8 ha.", "Suprafața lacului Alb: aproximativ 0,5 ha.", "Temperatura apei vara: rareori peste 10°C."],
+      en: ["Elevation: 2800 meters.", "Number of lakes: 3.", "Green Lake area: approximately 1.5 hectares.", "Blue Lake area: approximately 0.8 hectares.", "White Lake area: approximately 0.5 hectares.", "Summer water temperature: rarely above 10°C."],
+    },
+  },
   {
     id: "kolkheti-national-park-nature-v2",
     type: "national-park",
     parent: "GE-SZ",
     coords: [41.7667, 42.1500],
-    name: { de: "Kolchis-Nationalpark", hu: "Kolkhida Nemzeti Park", ro: "Parcul Național Colchis", en: "Kolkheti National Park",
-image: "/poi-images/kolkheti-national-park-nature-v2.webp"
-},
+    name: { de: "Kolchis-Nationalpark", hu: "Kolkhida Nemzeti Park", ro: "Parcul Național Colchis", en: "Kolkheti National Park"},
+    image: "/poi-images/kolkheti-national-park-nature-v2.webp",
     description: { de: "Der Kolchis-Nationalpark erstreckt sich entlang der Schwarzmeerküste und bewahrt die einzigartigen Sumpflandschaften und Auwälder des antiken Kolchis. Er ist ein Paradies für Wassertourismus und unverzichtbar für die Biodiversität von Amphibien und Zugvögeln in Georgien.", hu: "A Kolkhida Nemzeti Park a Fekete-tenger partján húzódik, megőrizve az ókori Kolkhida egyedülálló mocsaras tájait és ártéri erdeit. A vízi turizmus paradicsoma, valamint nélkülözhetetlen Grúzia kétéltű- és vándormadár-biodiverzitása szempontjából.", ro: "Parcul Național Colchis se întinde de-a lungul coastei Mării Negre și păstrează peisajele mlăștinoase unice și pădurile inundabile din anticul Colchis. Este un paradis pentru turismul pe apă și este indispensabil pentru biodiversitatea amfibienilor și păsărilor migratoare din Georgia.", en: "Kolkheti National Park stretches along the Black Sea coast, preserving the unique marshlands and floodplain forests of ancient Colchis. It is a paradise for water tourism and indispensable for the biodiversity of amphibians and migratory birds in Georgia." },
     facts: {
       de: ["Große Teile des Parks sind als Ramsar-Feuchtgebiete international anerkannt.", "Die dichten Moorwälder gelten als Relikte aus der Eiszeit."],

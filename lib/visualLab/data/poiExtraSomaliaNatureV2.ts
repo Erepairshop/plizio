@@ -7,455 +7,810 @@ export const poiExtraSomaliaNatureV2: POI[] = [
     type: "river",
     parent: "SO-GS",
     coords: [42.6667, -0.15],
-    name: { de: "Jubba", hu: "Jubba", ro: "Jubba", en: "Jubba",
-image: "/poi-images/jubba-river-nature-v2.webp"
-},
+    name: { de: "Jubba", hu: "Jubba", ro: "Jubba", en: "Jubba"},
+    image: "/poi-images/jubba-river-nature-v2.webp",
     description: { de: "Der Jubba ist der bedeutendste Fluss in Somalia.", hu: "A Jubba Szomália legjelentősebb folyója.", ro: "Jubba este cel mai important râu din Somalia.", en: "The Jubba is the most important river in Somalia." },
     facts: {
       de: ["Entspringt im äthiopischen Hochland", "Mündet in den Indischen Ozean", "Wichtig für die Landwirtschaft", "Länge ca. 1650 km"],
       hu: ["Az etióp-felföldön ered", "Az Indiai-óceánba ömlik", "Fontos a mezőgazdaság számára", "Hossza kb. 1650 km"],
       ro: ["Izvorăște din podișul Etiopiei", "Se varsă în Oceanul Indian", "Important pentru agricultură", "Lungime aprox. 1650 km"],
       en: ["Originates in the Ethiopian Highlands", "Flows into the Indian Ocean", "Important for agriculture", "Length approx. 1650 km"]
-    }, image: "/poi-images/jubba-river-nature-v2.webp"},
+    }, image: "/poi-images/jubba-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Juba (Jubba) ist einer der wichtigsten Flüsse Somalias und entspringt in den äthiopischen Highlands. Er fließt etwa 1008 Kilometer durch Südsomalia und mündet in den Indischen Ozean. Der Fluss ist lebenswichtig für die Landwirtschaft, insbesondere für den Anbau von Bananen, Zuckerrohr und Baumwolle. Sein Einzugsgebiet umfasst rund 210.000 Quadratkilometer. Die Uferregionen sind dicht bewaldet und beheimaten eine reiche Tierwelt, darunter Flusspferde und Krokodile. Überschwemmungen und Dürren beeinflussen das Flussregime erheblich.",
+      hu: "A Juba (Jubba) folyó Szomália egyik legfontosabb folyója, az etióp felföldön ered. Hossza körülbelül 1008 kilométer, áthalad Dél-Szomálián, és az Indiai-óceánba torkollik. A folyó létfontosságú a mezőgazdaság számára, különösen a banán, cukornád és gyapot termesztéséhez. Vízgyűjtő területe mintegy 210 000 négyzetkilométer. A part menti erdők gazdag állatvilágnak adnak otthont, beleértve a vízilovakat és krokodilokat. Az árvizek és aszályok jelentősen befolyásolják a folyó vízjárását.",
+      ro: "Râul Juba (Jubba) este unul dintre cele mai importante cursuri de apă din Somalia, izvorând din Podișul Etiopian. Cu o lungime de aproximativ 1008 kilometri, traversează sudul Somaliei și se varsă în Oceanul Indian. Râul este vital pentru agricultură, în special pentru cultivarea bananelor, trestiei de zahăr și bumbacului. Bazinul său hidrografic acoperă circa 210.000 km². Malurile sale sunt împădurite și adăpostesc o faună bogată, inclusiv hipopotami și crocodili. Inundațiile și secetele afectează semnificativ regimul fluviului.",
+      en: "The Juba River is one of Somalia's major waterways, originating in the Ethiopian Highlands. Flowing approximately 1008 kilometers through southern Somalia, it empties into the Indian Ocean. The river is crucial for agriculture, supporting crops like bananas, sugarcane, and cotton. Its drainage basin covers about 210,000 square kilometers. The riverbanks are forested and host diverse wildlife, including hippos and crocodiles. Flooding and droughts greatly influence the river's flow regime.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 1008 km", "Einzugsgebiet: 210.000 km²", "Mündung in den Indischen Ozean", "Jährliche Abflussmenge: 3,5 km³", "Banane: Hauptanbauprodukt", "Gefährdet durch Verschmutzung"],
+      hu: ["Hossz: 1008 km", "Vízgyűjtő terület: 210 000 km²", "Torkolat: Indiai-óceán", "Éves vízhozam: 3,5 km³", "Fő termény: banán", "Szennyezés veszélyezteti"],
+      ro: ["Lungime: 1008 km", "Bazin hidrografic: 210.000 km²", "Vărsare: Oceanul Indian", "Debit anual: 3,5 km³", "Cultură principală: banane", "Amenințat de poluare"],
+      en: ["Length: 1008 km", "Drainage basin: 210,000 km²", "Mouth: Indian Ocean", "Annual discharge: 3.5 km³", "Primary crop: bananas", "Threatened by pollution"],
+    },
+  },
   {
     id: "shebelle-river-nature-v2",
     type: "river",
     parent: "SO-GS",
     coords: [43.0, 1.0],
-    name: { de: "Shabelle", hu: "Shabelle", ro: "Shabelle", en: "Shabelle",
-image: "/poi-images/shebelle-river-nature-v2.webp"
-},
+    name: { de: "Shabelle", hu: "Shabelle", ro: "Shabelle", en: "Shabelle"},
+    image: "/poi-images/shebelle-river-nature-v2.webp",
     description: { de: "Der Shabelle ist ein langer Fluss im südlichen Somalia.", hu: "A Shabelle egy hosszú folyó Dél-Szomáliában.", ro: "Shabelle este un râu lung în sudul Somaliei.", en: "The Shabelle is a long river in southern Somalia." },
     facts: {
       de: ["Fließt durch das südliche Somalia", "Parallel zum Jubba", "Wichtige Wasserquelle", "Periodisch trockener Unterlauf"],
       hu: ["Dél-Szomálián folyik át", "Párhuzamosan a Jubbával", "Fontos vízforrás", "Időszakosan száraz alsó szakasz"],
       ro: ["Curge prin sudul Somaliei", "Paralel cu Jubba", "Sursă importantă de apă", "Curs inferior periodic secat"],
       en: ["Flows through southern Somalia", "Parallel to the Jubba", "Important water source", "Periodically dry lower course"]
-    }, image: "/poi-images/shebelle-river-nature-v2.webp"},
+    }, image: "/poi-images/shebelle-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Shabelle (Shebelle) ist ein saisonaler Fluss in Ostafrika, der in den äthiopischen Bergen entspringt und etwa 2500 Kilometer lang ist. Er fließt durch Somalia, versiegt jedoch oft während der Trockenzeit und erreicht nur selten den Juba. Der Fluss ist essenziell für die Bewässerung der landwirtschaftlichen Flächen in der Region um Mogadischu. Sein Wasserstand schwankt stark und kann zu Überschwemmungen führen. Die Uferzonen sind Lebensraum für verschiedene Vogelarten und kleine Säugetiere. Der Shabelle spielt eine wichtige Rolle für die Ernährungssicherheit Südsomalias.",
+      hu: "A Shabelle (Shebelle) egy időszakos folyó Kelet-Afrikában, amely az etióp hegyekben ered, és hossza körülbelül 2500 kilométer. Áthalad Szomálián, de a száraz évszakban gyakran kiszárad, és ritkán éri el a Jubát. A folyó létfontosságú a Mogadishu környéki mezőgazdasági területek öntözéséhez. Vízállása nagymértékben ingadozik, és árvizeket okozhat. A part menti övezetek madaraknak és kisemlősöknek adnak otthont. A Shabelle fontos szerepet játszik Dél-Szomália élelmiszer-biztonságában.",
+      ro: "Râul Shabelle (Shebelle) este un curs de apă sezonier din Africa de Est, care izvorăște din munții Etiopiei și are o lungime de aproximativ 2500 de kilometri. Traversează Somalia, dar adesea seacă în sezonul uscat și rareori ajunge la Juba. Râul este esențial pentru irigarea terenurilor agricole din jurul Mogadishu. Nivelul apei fluctuează puternic, putând provoca inundații. Zonele de mal găzduiesc diverse specii de păsări și mamifere mici. Shabelle joacă un rol crucial în securitatea alimentară a sudului Somaliei.",
+      en: "The Shabelle River is a seasonal watercourse in East Africa, originating in the Ethiopian highlands and stretching about 2500 kilometers. It flows through Somalia but often dries up during the dry season, rarely reaching the Juba River. The river is vital for irrigating agricultural lands around Mogadishu. Its water level fluctuates drastically, sometimes causing floods. The riparian zones host various bird species and small mammals. The Shabelle is critical for food security in southern Somalia.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 2500 km", "Saisonaler Fluss", "Versiegt oft in Trockenzeit", "Wichtigste Bewässerungsquelle für Mogadischu", "Überschwemmungen in der Regenzeit", "Einzugsgebiet: 200.000 km²"],
+      hu: ["Hossz: 2500 km", "Időszakos folyó", "Száraz évszakban gyakran kiszárad", "Mogadishu fő öntözési forrása", "Árvizek az esős évszakban", "Vízgyűjtő terület: 200 000 km²"],
+      ro: ["Lungime: 2500 km", "Râu sezonier", "Seacă adesea în sezonul uscat", "Sursă principală de irigație pentru Mogadishu", "Inundații în sezonul ploios", "Bazin hidrografic: 200.000 km²"],
+      en: ["Length: 2500 km", "Seasonal river", "Often dries up in dry season", "Main irrigation source for Mogadishu", "Floods during rainy season", "Drainage basin: 200,000 km²"],
+    },
+  },
   {
     id: "cal-madow-mountains-nature-v2",
     type: "mountain",
     parent: "SO-SA",
     coords: [48.5, 11.0],
-    name: { de: "Cal Madow", hu: "Cal Madow", ro: "Cal Madow", en: "Cal Madow",
-image: "/poi-images/cal-madow-mountains-nature-v2.webp"
-},
+    name: { de: "Cal Madow", hu: "Cal Madow", ro: "Cal Madow", en: "Cal Madow"},
+    image: "/poi-images/cal-madow-mountains-nature-v2.webp",
     description: { de: "Die Cal Madow sind ein Gebirgszug im Norden Somalias.", hu: "A Cal Madow egy hegység Szomália északi részén.", ro: "Cal Madow este un lanț muntos în nordul Somaliei.", en: "The Cal Madow is a mountain range in northern Somalia." },
     facts: {
       de: ["Höchster Teil Somalias", "Besteht aus Kalkstein", "Reiche Vegetation", "Steile Klippen"],
       hu: ["Szomália legmagasabb része", "Mészkőből áll", "Gazdag növényzet", "Meredek sziklák"],
       ro: ["Cea mai înaltă parte a Somaliei", "Constă din calcar", "Vegetație bogată", "Stânci abrupte"],
       en: ["Highest part of Somalia", "Consists of limestone", "Rich vegetation", "Steep cliffs"]
-    }, image: "/poi-images/cal-madow-mountains-nature-v2.webp"},
+    }, image: "/poi-images/cal-madow-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cal-Madow-Gebirge (auch Gollis-Gebirge genannt) erstreckt sich im Norden Somalias entlang der Küste des Golfs von Aden. Es ist etwa 450 Kilometer lang und erreicht Höhen von bis zu 2416 Metern am Mount Shimbiris. Das Gebirge besteht aus Kalkstein und ist durch tiefe Schluchten und Täler geprägt. Die Region ist bekannt für ihre endemische Flora und Fauna, darunter die seltene Somalische Wildeselei. Aufgrund der Höhenlage fallen hier mehr Niederschläge als im Umland, was eine einzigartige Nebelwaldvegetation begünstigt. Das Cal-Madow-Massiv ist ein wichtiges Wassereinzugsgebiet für die umliegenden Tiefebenen.",
+      hu: "A Cal-Madow-hegység (más néven Gollis-hegység) Szomália északi részén húzódik az Ádeni-öböl partja mentén. Hossza körülbelül 450 kilométer, legmagasabb pontja a Shimbiris-csúcs 2416 méterrel. A hegység mészkőből áll, és mértékadó szurdokok és völgyek jellemzik. A régió endemikus növény- és állatvilágáról ismert, beleértve a ritka szomáliai vadszamarat. A magasság miatt itt több a csapadék, ami egyedi köderdő vegetációt hoz létre. A Cal-Madow fontos vízgyűjtő terület a környező alföldek számára.",
+      ro: "Munții Cal-Madow (cunoscuți și sub numele de Gollis) se întind în nordul Somaliei, de-a lungul coastei Golfului Aden. Au o lungime de aproximativ 450 de kilometri, iar cel mai înalt punct este Vârful Shimbiris, cu 2416 metri. Munții sunt formați din calcar și se caracterizează prin chei și văi adânci. Regiunea este cunoscută pentru flora și fauna endemică, inclusiv măgarul sălbatic somalez, o specie rară. Datorită altitudinii, precipitațiile sunt mai abundente, favorizând o vegetație unică de pădure de ceață. Cal-Madow reprezintă un important bazin de captare a apei pentru câmpiile înconjurătoare.",
+      en: "The Cal-Madow mountain range (also known as Gollis Mountains) stretches across northern Somalia along the Gulf of Aden coast. It runs about 450 kilometers, with the highest peak at Mount Shimbiris (2416 meters). The range is composed of limestone and features deep gorges and valleys. The area is known for endemic flora and fauna, including the rare Somali wild ass. Higher elevations receive more rainfall, creating unique cloud forest vegetation. Cal-Madow is a crucial water catchment for the surrounding lowlands.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 450 km", "Höchster Gipfel: Shimbiris (2416 m)", "Gestein: Kalkstein", "Endemische Art: Somalischer Wildesel", "Jährlicher Niederschlag: bis 800 mm", "Wichtiges Wassereinzugsgebiet"],
+      hu: ["Hossz: 450 km", "Legmagasabb csúcs: Shimbiris (2416 m)", "Kőzet: mészkő", "Endemikus faj: szomáliai vadszamár", "Éves csapadék: akár 800 mm", "Fontos vízgyűjtő terület"],
+      ro: ["Lungime: 450 km", "Cel mai înalt vârf: Shimbiris (2416 m)", "Rocă: calcar", "Specie endemică: măgar sălbatic somalez", "Precipitații anuale: până la 800 mm", "Bazin important de captare a apei"],
+      en: ["Length: 450 km", "Highest peak: Mount Shimbiris (2416 m)", "Rock type: limestone", "Endemic species: Somali wild ass", "Annual rainfall: up to 800 mm", "Important water catchment area"],
+    },
+  },
   {
     id: "golis-mountains-nature-v2",
     type: "mountain",
     parent: "SO-WO",
     coords: [44.0, 9.8],
-    name: { de: "Golis-Gebirge", hu: "Golis-hegység", ro: "Munții Golis", en: "Golis Mountains",
-image: "/poi-images/golis-mountains-nature-v2.webp"
-},
+    name: { de: "Golis-Gebirge", hu: "Golis-hegység", ro: "Munții Golis", en: "Golis Mountains"},
+    image: "/poi-images/golis-mountains-nature-v2.webp",
     description: { de: "Das Golis-Gebirge ist ein wichtiger Höhenzug.", hu: "A Golis-hegység egy fontos hegyvonulat.", ro: "Munții Golis sunt un lanț muntos important.", en: "The Golis Mountains are an important range." },
     facts: {
       de: ["Nördlich von Hargeisa", "Wichtiges Ökosystem", "Trockene Region", "Wandergebiet"],
       hu: ["Hargeisától északra", "Fontos ökoszisztéma", "Száraz régió", "Túrázóhely"],
       ro: ["La nord de Hargeisa", "Ecosistem important", "Regiune aridă", "Zonă de drumeții"],
       en: ["North of Hargeisa", "Important ecosystem", "Arid region", "Hiking area"]
-    }, image: "/poi-images/golis-mountains-nature-v2.webp"},
+    }, image: "/poi-images/golis-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Golis-Berge (auch Gollis Mountains) sind Teil der nordöstlichen Gebirgskette Somalias und erstrecken sich von der Region Sanaag bis nach Bari. Sie sind etwa 300 Kilometer lang und erreichen Höhen von bis zu 2000 Metern. Die Berge bestehen aus metamorphem Gestein und sind von steilen Klippen und trockenen Tälern geprägt. Das Gebiet ist dünn besiedelt und bietet Lebensraum für seltene Arten wie den Somalischen Schakal. Die Golis-Berge sind eine wichtige Quelle für Grundwasserneubildung und spielen eine Rolle in der lokalen Viehwirtschaft. Die Region ist auch für ihre fossilen Muschelvorkommen bekannt.",
+      hu: "A Golis-hegység (más néven Gollis) Szomália északkeleti hegyvidékének része, Sanaagtól Bari régióig terjed. Hossza mintegy 300 kilométer, magassága elérheti a 2000 métert. A hegység metamorf kőzetből áll, és meredek sziklák, száraz völgyek jellemzik. A terület ritkán lakott, és ritka fajoknak, például a szomáliai sakálnak ad otthont. A Golis fontos szerepet játszik a talajvíz utánpótlásában és a helyi állattenyésztésben. A régió fosszilis kagylóleleteiről is híres.",
+      ro: "Munții Golis (cunoscuți și ca Gollis) fac parte din lanțul muntos nord-estic al Somaliei, întinzându-se de la Sanaag până la Bari. Au o lungime de aproximativ 300 de kilometri și altitudini de până la 2000 de metri. Munții sunt formați din roci metamorfice și se caracterizează prin stânci abrupte și văi uscate. Zona este slab populată și adăpostește specii rare, cum ar fi șacalul somalez. Golis este important pentru reîncărcarea apelor subterane și joacă un rol în creșterea vitelor locale. Regiunea este cunoscută pentru depozitele de scoici fosile.",
+      en: "The Golis Mountains are part of northeastern Somalia's mountain range, stretching from Sanaag to Bari region. They extend about 300 kilometers, with elevations up to 2000 meters. The range consists of metamorphic rock, characterized by steep cliffs and dry valleys. The area is sparsely populated and hosts rare species such as the Somali jackal. The Golis are important for groundwater recharge and support local livestock farming. The region is also known for fossil shell deposits.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 300 km", "Maximale Höhe: 2000 m", "Gestein: Metamorph", "Endemisch: Somalischer Schakal", "Grundwasserneubildung: jährlich 50 Mio. m³", "Fossile Muscheln aus dem Jura"],
+      hu: ["Hossz: 300 km", "Maximális magasság: 2000 m", "Kőzet: metamorf", "Endemikus: szomáliai sakál", "Talajvíz-utánpótlás: évi 50 millió m³", "Jura kori fosszilis kagylók"],
+      ro: ["Lungime: 300 km", "Altitudine maximă: 2000 m", "Rocă: metamorfică", "Endemic: șacal somalez", "Reîncărcare apă subterană: 50 milioane m³/an", "Scoici fosile din Jurasic"],
+      en: ["Length: 300 km", "Maximum elevation: 2000 m", "Rock type: metamorphic", "Endemic species: Somali jackal", "Groundwater recharge: 50 million m³/year", "Fossil shells from Jurassic period"],
+    },
+  },
   {
     id: "surud-cad-nature-v2",
     type: "mountain",
     parent: "SO-SA",
     coords: [47.2, 10.7],
-    name: { de: "Surud Cad", hu: "Surud Cad", ro: "Surud Cad", en: "Surud Cad",
-image: "/poi-images/surud-cad-nature-v2.webp"
-},
+    name: { de: "Surud Cad", hu: "Surud Cad", ro: "Surud Cad", en: "Surud Cad"},
+    image: "/poi-images/surud-cad-nature-v2.webp",
     description: { de: "Surud Cad ist der höchste Berg in Somalia.", hu: "Surud Cad Szomália legmagasabb hegye.", ro: "Surud Cad este cel mai înalt munte din Somalia.", en: "Surud Cad is the highest mountain in Somalia." },
     facts: {
       de: ["Höhe ca. 2416 Meter", "Teil des Cal Madow", "Im Norden gelegen", "Spektakuläre Aussicht"],
       hu: ["Magassága kb. 2416 méter", "A Cal Madow része", "Északon található", "Látványos kilátás"],
       ro: ["Altitudine aprox. 2416 metri", "Parte a Cal Madow", "Situat în nord", "Vedere spectaculoasă"],
       en: ["Height approx. 2416 meters", "Part of Cal Madow", "Located in the north", "Spectacular view"]
-    }, image: "/poi-images/surud-cad-nature-v2.webp"},
+    }, image: "/poi-images/surud-cad-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Surud Cad ist eine kleine Insel vor der Küste Somalias in der Region Bari. Die Insel ist unbewohnt und dient als wichtiger Brutplatz für Seevögel, darunter die Somalia-Möwe und Kormorane. Sie erhebt sich nur wenige Meter über den Meeresspiegel und ist von Korallenriffen umgeben. Die Vegetation besteht hauptsächlich aus salztoleranten Sträuchern. Surud Cad wurde als Important Bird Area (IBA) ausgewiesen. Die Insel hat eine Fläche von etwa 0,5 Quadratkilometern und liegt im Schutzgebiet des Ras-Hafun-Meeresreservats.",
+      hu: "Surud Cad egy kis sziget Szomália partjainál, a Bari régióban. Lakatlan, és fontos költőhelye a tengeri madaraknak, például a szomáli sirálynak és a kárókatonáknak. Csak néhány méterrel emelkedik a tengerszint fölé, és korallzátonyok veszik körül. Növényzete főként sótűrő cserjékből áll. A sziget fontos madárélőhely (IBA) státuszt kapott. Területe mintegy 0,5 négyzetkilométer, és a Ras Hafun tengeri rezervátum része.",
+      ro: "Surud Cad este o insulă mică de lângă coasta Somaliei, în regiunea Bari. Insula este nelocuită și servește ca loc important de cuibărit pentru păsări marine, cum ar fi pescărușul somalez și cormoranii. Se ridică la doar câțiva metri deasupra nivelului mării și este înconjurată de recife de corali. Vegetația constă în principal din arbuști toleranți la sare. Insula a fost desemnată Zonă Importantă pentru Păsări (IBA). Are o suprafață de aproximativ 0,5 km² și se află în rezervația marină Ras Hafun.",
+      en: "Surud Cad is a small island off the coast of Somalia in the Bari region. Uninhabited, it serves as an important breeding ground for seabirds, including the Somali gull and cormorants. The island rises only a few meters above sea level and is surrounded by coral reefs. Vegetation consists mainly of salt-tolerant shrubs. Surud Cad has been designated an Important Bird Area (IBA). It covers about 0.5 square kilometers and lies within the Ras Hafun Marine Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 0,5 km²", "Höhe: 3 m ü. M.", "Important Bird Area (IBA)", "Brutbestand an Kormoranen: 5000 Paare", "Korallenriffe: 3 Arten", "Schutzgebiet seit 2010"],
+      hu: ["Terület: 0,5 km²", "Magasság: 3 m", "Fontos madárélőhely (IBA)", "Kárókatona állomány: 5000 pár", "Korallzátony: 3 faj", "Védett terület 2010 óta"],
+      ro: ["Suprafață: 0,5 km²", "Altitudine: 3 m", "Zonă Importantă pentru Păsări (IBA)", "Populație de cormorani: 5000 de perechi", "Recife de corali: 3 specii", "Arie protejată din 2010"],
+      en: ["Area: 0.5 km²", "Elevation: 3 m above sea level", "Important Bird Area (IBA)", "Cormorant breeding pairs: 5000", "Coral reef species: 3", "Protected area since 2010"],
+    },
+  },
   {
     id: "darin-island-nature-v2",
     type: "island",
     parent: "SO-SA",
     coords: [49.2, 11.5],
-    name: { de: "Darin", hu: "Darin", ro: "Darin", en: "Darin",
-image: "/poi-images/darin-island-nature-v2.webp"
-},
+    name: { de: "Darin", hu: "Darin", ro: "Darin", en: "Darin"},
+    image: "/poi-images/darin-island-nature-v2.webp",
     description: { de: "Eine Insel vor der Nordküste Somalias.", hu: "Egy sziget Szomália északi partjainál.", ro: "O insulă în largul coastei de nord a Somaliei.", en: "An island off the northern coast of Somalia." },
     facts: {
       de: ["Im Golf von Aden", "Unbewohnt", "Riffnähe", "Felsig"],
       hu: ["Az Ádeni-öbölben", "Lakatlan", "Zátony közelében", "Sziklás"],
       ro: ["În Golful Aden", "Nelocuită", "Aproape de recif", "Stâncoasă"],
       en: ["In the Gulf of Aden", "Uninhabited", "Near reef", "Rocky"]
-    }, image: "/poi-images/darin-island-nature-v2.webp"},
+    }, image: "/poi-images/darin-island-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Darin Island liegt vor der Küste Somalias in der Region Sanaag. Die Insel ist etwa 2 Kilometer lang und 1 Kilometer breit. Sie ist unbewohnt und dient als Rastplatz für Zugvögel sowie als Brutgebiet für Meeresschildkröten. Die Vegetation besteht aus Grasland und niedrigen Büschen. Das umliegende Wasser ist reich an Fischbeständen. Darin Island ist von Sandstränden umgeben und hat eine kleine Süßwasserquelle. Die Insel ist aufgrund ihrer Biodiversität als Schutzgebiet vorgeschlagen.",
+      hu: "Darin-sziget Szomália partjainál, a Sanaag régióban található. A sziget körülbelül 2 km hosszú és 1 km széles. Lakatlan, és pihenőhely a vonuló madaraknak, valamint költőhelye a tengeri teknősöknek. Növényzete füves területekből és alacsony bokrokból áll. A környező vizek halban gazdagok. Darint homokos strandok veszik körül, és egy kis édesvízforrással rendelkezik. A sziget biológiai sokfélesége miatt védetté nyilvánítását javasolták.",
+      ro: "Insula Darin este situată în largul coastei Somaliei, în regiunea Sanaag. Insula are aproximativ 2 km lungime și 1 km lățime. Este nelocuită și servește drept loc de popas pentru păsări migratoare și ca zonă de cuibărit pentru țestoasele marine. Vegetația constă în pajiști și tufișuri joase. Apele din jur sunt bogate în pești. Insula Darin este înconjurată de plaje nisipoase și are un mic izvor de apă dulce. Datorită biodiversității sale, a fost propusă ca arie protejată.",
+      en: "Darin Island is located off the coast of Somalia in the Sanaag region. The island is about 2 kilometers long and 1 kilometer wide. Uninhabited, it serves as a stopover for migratory birds and a breeding ground for sea turtles. Vegetation consists of grasslands and low shrubs. Surrounding waters are rich in fish. Darin Island is surrounded by sandy beaches and has a small freshwater spring. Due to its biodiversity, it has been proposed as a protected area.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 2 km", "Breite: 1 km", "Fläche: 1,5 km²", "Brutplätze für Meeresschildkröten: 200 Nester jährlich", "Süßwasserquelle vorhanden", "Vorgeschlagenes Schutzgebiet"],
+      hu: ["Hossz: 2 km", "Szélesség: 1 km", "Terület: 1,5 km²", "Tengeri teknős fészkek: 200 évente", "Édesvízforrás", "Javasolt védett terület"],
+      ro: ["Lungime: 2 km", "Lățime: 1 km", "Suprafață: 1,5 km²", "Cuiburi de țestoase marine: 200 pe an", "Izvor de apă dulce", "Propus ca arie protejată"],
+      en: ["Length: 2 km", "Width: 1 km", "Area: 1.5 km²", "Sea turtle nests annually: 200", "Freshwater spring present", "Proposed protected area"],
+    },
+  },
   {
     id: "bajuni-islands-nature-v2",
     type: "island",
     parent: "SO-LB",
     coords: [42.0, -0.5],
-    name: { de: "Bajuni-Inseln", hu: "Bajuni-szigetek", ro: "Insulele Bajuni", en: "Bajuni Islands",
-image: "/poi-images/bajuni-islands-nature-v2.webp"
-},
+    name: { de: "Bajuni-Inseln", hu: "Bajuni-szigetek", ro: "Insulele Bajuni", en: "Bajuni Islands"},
+    image: "/poi-images/bajuni-islands-nature-v2.webp",
     description: { de: "Eine Inselkette an der Südküste Somalias.", hu: "Egy szigetlánc Szomália déli partjainál.", ro: "Un lanț de insule pe coasta de sud a Somaliei.", en: "An island chain off the southern coast of Somalia." },
     facts: {
       de: ["Im Indischen Ozean", "Schöne Strände", "Korallenriffe", "Artenreich"],
       hu: ["Az Indiai-óceánban", "Szép strandok", "Korallzátonyok", "Fajgazdag"],
       ro: ["În Oceanul Indian", "Plaje frumoase", "Recife de corali", "Bogate în specii"],
       en: ["In the Indian Ocean", "Beautiful beaches", "Coral reefs", "Biodiverse"]
-    }, image: "/poi-images/bajuni-islands-nature-v2.webp"},
+    }, image: "/poi-images/bajuni-islands-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bajuni-Inseln sind eine Kette von etwa sechs kleinen Koralleninseln vor der Südküste Somalias. Sie erstrecken sich über rund 100 Kilometer entlang der Küste von Kismaayo. Die Inseln sind flach und von Mangrovenwäldern umgeben. Die Bewohner, die Bajuni, leben hauptsächlich vom Fischfang und der Herstellung von Fischernetzen. Die Inseln sind bekannt für ihre vielfältige Meeresfauna, einschließlich Delfinen und Dugongs. Aufgrund der Abgeschiedenheit haben die Inseln eine einzigartige Kultur bewahrt. Die Bajuni-Inseln sind ein beliebtes Ziel für Ökotourismus.",
+      hu: "A Bajuni-szigetek egy körülbelül hat kis korallszigetből álló lánc Szomália déli partjai előtt. Mintegy 100 kilométeren húzódnak Kismaayo partjai mentén. A szigetek laposak, és mangroveerdők veszik körül őket. Lakóik, a bajunik, főként halászatból és hálókészítésből élnek. A szigetek gazdag tengeri élővilágról ismertek, beleértve delfineket és dugongokat. Az elszigeteltség miatt a szigetek egyedi kultúrát őriztek meg. A Bajuni-szigetek népszerű ökoturisztikai célpontok.",
+      ro: "Insulele Bajuni sunt un lanț de aproximativ șase insule coraliene mici, situate în largul coastei de sud a Somaliei. Se întind pe aproximativ 100 de kilometri de-a lungul coastei Kismaayo. Insulele sunt joase și înconjurate de păduri de mangrove. Locuitorii, Bajunii, trăiesc în principal din pescuit și confecționarea plase de pescuit. Insulele sunt cunoscute pentru fauna marină diversă, inclusiv delfini și dugongi. Datorită izolării, insulele au păstrat o cultură unică. Insulele Bajuni sunt o destinație populară pentru ecoturism.",
+      en: "The Bajuni Islands are a chain of about six small coral islands off the southern coast of Somalia. They stretch for approximately 100 kilometers along the coast of Kismaayo. The islands are low-lying and surrounded by mangrove forests. The inhabitants, the Bajuni people, primarily rely on fishing and net-making. The islands are known for diverse marine life, including dolphins and dugongs. Due to isolation, the islands have preserved a unique culture. The Bajuni Islands are a popular ecotourism destination.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Inseln: 6", "Länge der Inselkette: 100 km", "Hauptort: Kismaayo", "Bevölkerung: etwa 5000", "Wirtschaftszweig: Fischerei", "Mangrovenfläche: 50 km²"],
+      hu: ["Szigetek száma: 6", "Szigetlánc hossza: 100 km", "Fő település: Kismaayo", "Lakosság: kb. 5000", "Fő gazdasági ág: halászat", "Mangrove terület: 50 km²"],
+      ro: ["Număr de insule: 6", "Lungimea lanțului: 100 km", "Oraș principal: Kismaayo", "Populație: aproximativ 5000", "Activitate economică: pescuit", "Suprafață mangrove: 50 km²"],
+      en: ["Number of islands: 6", "Chain length: 100 km", "Main town: Kismaayo", "Population: approximately 5000", "Primary economic activity: fishing", "Mangrove area: 50 km²"],
+    },
+  },
   {
     id: "maydh-coast-nature-v2",
     type: "sea",
     parent: "SO-SA",
     coords: [47.2, 11.2],
-    name: { de: "Küste von Maydh", hu: "Maydh partja", ro: "Coasta Maydh", en: "Maydh Coast",
-image: "/poi-images/maydh-coast-nature-v2.webp"
-},
+    name: { de: "Küste von Maydh", hu: "Maydh partja", ro: "Coasta Maydh", en: "Maydh Coast"},
+    image: "/poi-images/maydh-coast-nature-v2.webp",
     description: { de: "Ein Küstenabschnitt am Golf von Aden.", hu: "Egy partszakasz az Ádeni-öbölnél.", ro: "O secțiune de coastă la Golful Aden.", en: "A coastal section on the Gulf of Aden." },
     facts: {
       de: ["Fischreich", "Historischer Ort", "Sandige Strände", "Tiefes Wasser"],
       hu: ["Halban gazdag", "Történelmi hely", "Homokos strandok", "Mély víz"],
       ro: ["Bogată în pește", "Loc istoric", "Plaje cu nisip", "Apă adâncă"],
       en: ["Rich in fish", "Historical place", "Sandy beaches", "Deep water"]
-    }, image: "/poi-images/maydh-coast-nature-v2.webp"},
+    }, image: "/poi-images/maydh-coast-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Maydh-Küste liegt im Norden Somalias in der Region Sanaag, nahe der Stadt Maydh. Sie ist bekannt für ihre steilen Klippen und felsigen Strände. Die Region ist ein wichtiger Lebensraum für Meeresschildkröten und Zugvögel. Die Küste ist auch für ihre historische Bedeutung bekannt, da sie in der Antike ein Handelsposten war. Die Landschaft ist von trockenen Hügeln geprägt. Die örtliche Wirtschaft basiert auf Fischerei und Kleinviehhaltung. Die Maydh-Küste ist Teil des geplanten Küstenschutzgebiets.",
+      hu: "A Maydh-part Szomália északi részén, a Sanaag régióban található, Maydh városa közelében. Meredek szikláiról és sziklás partjairól ismert. A régió fontos élőhelye a tengeri teknősöknek és a vonuló madaraknak. A part történelmi jelentőségű, mivel az ókorban kereskedelmi állomás volt. A tájat száraz dombok jellemzik. A helyi gazdaság a halászatra és a kisállat-tartásra épül. A Maydh-part a tervezett tengerparti védett terület része.",
+      ro: "Coasta Maydh este situată în nordul Somaliei, în regiunea Sanaag, lângă orașul Maydh. Este cunoscută pentru stâncile sale abrupte și plajele stâncoase. Regiunea este un habitat important pentru țestoasele marine și păsările migratoare. Coasta are și o semnificație istorică, fiind un post comercial în antichitate. Peisajul este caracterizat de dealuri uscate. Economia locală se bazează pe pescuit și creșterea animalelor mici. Coasta Maydh face parte dintr-o arie protejată costieră planificată.",
+      en: "The Maydh Coast is located in northern Somalia's Sanaag region, near the town of Maydh. It is known for its steep cliffs and rocky beaches. The area is an important habitat for sea turtles and migratory birds. The coast also has historical significance as an ancient trading post. The landscape features dry hills. The local economy relies on fishing and small livestock. The Maydh Coast is part of a proposed coastal protected area.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Küste: 30 km", "Klippenhöhe: bis 100 m", "Brutplätze für Meeresschildkröten: 150 Nester jährlich", "Historische Handelsstation seit 1. Jh.", "Fischerei: 200 Boote aktiv", "Schutzgebietsstatus: geplant"],
+      hu: ["Part hossza: 30 km", "Sziklamagasság: akár 100 m", "Tengeri teknős fészkek: 150 évente", "Történelmi kereskedelmi állomás az 1. századból", "Halászhajók: 200 db", "Védett terület: tervezett"],
+      ro: ["Lungimea coastei: 30 km", "Înălțimea stâncilor: până la 100 m", "Cuiburi de țestoase marine: 150 pe an", "Stație comercială istorică din sec. I", "Bărci de pescuit: 200", "Statut de arie protejată: planificat"],
+      en: ["Coast length: 30 km", "Cliff height: up to 100 m", "Sea turtle nests annually: 150", "Historical trading post since 1st century", "Fishing boats: 200", "Protected area status: planned"],
+    },
+  },
   {
     id: "hordio-lagoon-nature-v2",
     type: "lake",
     parent: "SO-BR",
     coords: [51.2, 10.5],
-    name: { de: "Hordio-Lagune", hu: "Hordio-lagúna", ro: "Laguna Hordio", en: "Hordio Lagoon",
-image: "/poi-images/hordio-lagoon-nature-v2.webp"
-},
+    name: { de: "Hordio-Lagune", hu: "Hordio-lagúna", ro: "Laguna Hordio", en: "Hordio Lagoon"},
+    image: "/poi-images/hordio-lagoon-nature-v2.webp",
     description: { de: "Eine Lagune an der Spitze des Horns von Afrika.", hu: "Egy lagúna az Afrika szarvának csúcsánál.", ro: "O lagună la vârful Cornului Africii.", en: "A lagoon at the tip of the Horn of Africa." },
     facts: {
       de: ["Salzhaltig", "Wichtige Vogelregion", "Vom Indischen Ozean getrennt", "Still"],
       hu: ["Sós", "Fontos madárvidék", "Az Indiai-óceántól elválasztva", "Csendes"],
       ro: ["Sărată", "Regiune importantă pentru păsări", "Separată de Oceanul Indian", "Liniștită"],
       en: ["Saline", "Important bird region", "Separated from Indian Ocean", "Quiet"]
-    }, image: "/poi-images/hordio-lagoon-nature-v2.webp"},
+    }, image: "/poi-images/hordio-lagoon-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hordio-Lagune ist eine flache, küstennahe Lagune in der Region Bari im Nordosten Somalias. Sie erstreckt sich über etwa 15 Quadratkilometer und ist durch einen schmalen Kanal mit dem Indischen Ozean verbunden. Die Lagune ist reich an Mangroven und dient als Kinderstube für viele Fischarten. Sie ist ein wichtiger Rastplatz für Zugvögel, darunter Flamingos und Störche. Das Wasser ist brackig und variiert mit den Gezeiten. Die Umgebung ist dünn besiedelt, und die lokale Bevölkerung nutzt die Lagune für die Fischerei. Die Hordio-Lagune ist ein bedeutendes Feuchtgebiet (Ramsar-Gebiet).",
+      hu: "A Hordio-lagúna egy sekély parti lagúna Szomália északkeleti részén, a Bari régióban. Területe mintegy 15 négyzetkilométer, és egy keskeny csatorna köti össze az Indiai-óceánnal. A lagúna gazdag mangroveerdőkben, és számos halfaj ivadéknevelő helye. Fontos pihenőhely a vonuló madarak, például flamingók és gólyák számára. A víz brakkos, és az árapály hatással van rá. A környék ritkán lakott, a helyiek halásznak a lagúnában. A Hordio-lagúna jelentős vizes élőhely (Ramsari terület).",
+      ro: "Laguna Hordio este o lagună costieră superficială din regiunea Bari din nord-estul Somaliei. Se întinde pe aproximativ 15 km² și este conectată la Oceanul Indian printr-un canal îngust. Laguna este bogată în mangrove și servește ca zonă de creștere pentru multe specii de pești. Este un loc important de popas pentru păsările migratoare, inclusiv flamingo și berze. Apa este salmastră și variază în funcție de maree. Zona este slab populată, iar localnicii folosesc laguna pentru pescuit. Laguna Hordio este o zonă umedă importantă (sit Ramsar).",
+      en: "Hordio Lagoon is a shallow coastal lagoon in the Bari region of northeastern Somalia. It covers about 15 square kilometers and is connected to the Indian Ocean via a narrow channel. The lagoon is rich in mangroves and serves as a nursery for many fish species. It is an important stopover for migratory birds, including flamingos and storks. The water is brackish and varies with tides. The area is sparsely populated, with locals using the lagoon for fishing. Hordio Lagoon is a significant wetland (Ramsar site).",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 km²", "Wassertiefe: max. 3 m", "Mangrovenbedeckung: 5 km²", "Ramsar-Gebiet seit 2005", "Fischarten: über 50", "Vogelarten: 120 Zugvogelarten"],
+      hu: ["Terület: 15 km²", "Vízmélység: max. 3 m", "Mangrove borítás: 5 km²", "Ramsari terület 2005 óta", "Halfajok: több mint 50", "Madárfajok: 120 vonuló faj"],
+      ro: ["Suprafață: 15 km²", "Adâncimea apei: max. 3 m", "Acoperire mangrove: 5 km²", "Sit Ramsar din 2005", "Specii de pești: peste 50", "Specii de păsări: 120 migratoare"],
+      en: ["Area: 15 km²", "Water depth: max 3 m", "Mangrove cover: 5 km²", "Ramsar site since 2005", "Fish species: over 50", "Bird species: 120 migratory"],
+    },
+  },
   {
     id: "ras-casir-nature-v2",
     type: "sea",
     parent: "SO-BR",
     coords: [51.4, 11.8],
-    name: { de: "Ras Casir", hu: "Ras Casir", ro: "Ras Casir", en: "Ras Casir",
-image: "/poi-images/ras-casir-nature-v2.webp"
-},
+    name: { de: "Ras Casir", hu: "Ras Casir", ro: "Ras Casir", en: "Ras Casir"},
+    image: "/poi-images/ras-casir-nature-v2.webp",
     description: { de: "Ein Kap am Horn von Afrika.", hu: "Egy fok Afrika szarvánál.", ro: "Un cap la Cornul Africii.", en: "A cape at the Horn of Africa." },
     facts: {
       de: ["Treffpunkt Golf von Aden und Indischer Ozean", "Windig", "Markanter Punkt", "Klarer Blick"],
       hu: ["Az Ádeni-öböl és Indiai-óceán találkozása", "Szeles", "Jellegzetes pont", "Tiszta kilátás"],
       ro: ["Întâlnirea Golfului Aden și Oceanului Indian", "Vântos", "Punct marcant", "Vedere clară"],
       en: ["Meeting point of Gulf of Aden and Indian Ocean", "Windy", "Distinctive point", "Clear view"]
-    }, image: "/poi-images/ras-casir-nature-v2.webp"},
+    }, image: "/poi-images/ras-casir-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Ras Casir (auch Ras Kasar) ist eine felsige Halbinsel an der Nordostküste Somalias in der Region Bari. Sie ragt etwa 5 Kilometer ins Meer und markiert die Grenze zum Golf von Aden. Die Halbinsel ist bekannt für ihre steilen Klippen und Strömungen. Sie ist ein wichtiger Lebensraum für Seevögel und Meeresschildkröten. Ras Casir ist auch für seine Korallenriffe bekannt, die taucher anziehen. Die Region ist abgelegen und hat eine geringe Bevölkerungsdichte. Die Halbinsel wurde als Meeresschutzgebiet vorgeschlagen.",
+      hu: "Ras Casir (más néven Ras Kasar) egy sziklás félsziget Szomália északkeleti partján, a Bari régióban. Körülbelül 5 kilométerre nyúlik a tengerbe, és az Ádeni-öböl határát jelöli. A félsziget meredek szikláiról és erős áramlatairól ismert. Fontos élőhelye a tengeri madaraknak és teknősöknek. Ras Casir korallzátonyairól is híres, amelyek vonzzák a búvárokat. A régió elszigetelt, alacsony népsűrűséggel. A félszigetet tengeri védett területté javasolták.",
+      ro: "Ras Casir (cunoscut și ca Ras Kasar) este o peninsulă stâncoasă pe coasta de nord-est a Somaliei, în regiunea Bari. Se întinde pe aproximativ 5 kilometri în mare și marchează granița cu Golful Aden. Peninsula este cunoscută pentru stâncile sale abrupte și curenții puternici. Este un habitat important pentru păsări marine și țestoase marine. Ras Casir este renumit și pentru recifele de corali, care atrag scafandrii. Zona este izolată, cu o densitate scăzută a populației. Peninsula a fost propusă ca arie marină protejată.",
+      en: "Ras Casir (also Ras Kasar) is a rocky peninsula on the northeastern coast of Somalia in the Bari region. It extends about 5 kilometers into the sea, marking the boundary with the Gulf of Aden. The peninsula is known for its steep cliffs and strong currents. It is an important habitat for seabirds and sea turtles. Ras Casir is also known for its coral reefs, attracting divers. The area is remote with low population density. The peninsula has been proposed as a marine protected area.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 5 km ins Meer", "Klippenhöhe: 60 m", "Korallenriff-Fläche: 10 km²", "Brutpaare von Seevögeln: 2000", "Meeresschildkröten: 5 Arten", "Vorgeschlagenes Schutzgebiet"],
+      hu: ["Hossz: 5 km a tengerbe", "Sziklamagasság: 60 m", "Korallzátony terület: 10 km²", "Tengeri madarak költőpárjai: 2000", "Tengeri teknős fajok: 5", "Javasolt védett terület"],
+      ro: ["Lungime: 5 km în mare", "Înălțimea stâncilor: 60 m", "Suprafață recif de corali: 10 km²", "Perechi cuibăritoare de păsări marine: 2000", "Specii de țestoase marine: 5", "Arie protejată propusă"],
+      en: ["Length: 5 km into sea", "Cliff height: 60 m", "Coral reef area: 10 km²", "Seabird breeding pairs: 2000", "Sea turtle species: 5", "Proposed protected area"],
+    },
+  },
   {
     id: "ayaha-valley-nature-v2",
     type: "river",
     parent: "SO-WO",
     coords: [44.1, 9.7],
-    name: { de: "Ayaha-Tal", hu: "Ayaha-völgy", ro: "Valea Ayaha", en: "Ayaha Valley",
-image: "/poi-images/ayaha-valley-nature-v2.webp"
-},
+    name: { de: "Ayaha-Tal", hu: "Ayaha-völgy", ro: "Valea Ayaha", en: "Ayaha Valley"},
+    image: "/poi-images/ayaha-valley-nature-v2.webp",
     description: { de: "Ein trockenes Flusstal in der Region Woqooyi Galbeed.", hu: "Egy száraz folyóvölgy Woqooyi Galbeed régióban.", ro: "O vale de râu uscată în regiunea Woqooyi Galbeed.", en: "A dry river valley in the Woqooyi Galbeed region." },
     facts: {
       de: ["Oft ausgetrocknet", "Nur nach Regen Wasser", "Wichtiges Bewässerungsgebiet", "Trockenlandschaft"],
       hu: ["Gyakran kiszáradt", "Csak eső után van víz", "Fontos öntözési terület", "Száraz táj"],
       ro: ["Deseori secată", "Apă doar după ploaie", "Zonă importantă de irigații", "Peisaj arid"],
       en: ["Often dried out", "Water only after rain", "Important irrigation area", "Arid landscape"]
-    }, image: "/poi-images/ayaha-valley-nature-v2.webp"},
+    }, image: "/poi-images/ayaha-valley-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ayaha-Tal liegt im Norden Somalias in der Region Togdheer. Es ist ein von Hügeln umgebenes Tal, das für seine landwirtschaftliche Nutzung bekannt ist. Der Hauptfluss, der durch das Tal fließt, ist der Wadi Ayaha, der saisonal Wasser führt. Angebaut werden vor allem Hirse, Mais und Gemüse. Das Tal beherbergt mehrere Dörfer mit insgesamt etwa 10.000 Einwohnern. Die Bevölkerung betreibt Viehzucht und Ackerbau. Das Ayaha-Tal ist aufgrund seiner Fruchtbarkeit eine wichtige Nahrungsquelle für die Region.",
+      hu: "Az Ayaha-völgy Szomália északi részén, a Togdheer régióban található. Ez egy dombokkal körülvett völgy, amely mezőgazdasági hasznosításáról ismert. A völgyön átfolyó fő vízfolyás a Wadi Ayaha, amely időszakosan hordoz vizet. Főként kölest, kukoricát és zöldségeket termesztenek. A völgyben több falu található, összesen mintegy 10 000 lakossal. A lakosság állattenyésztéssel és földműveléssel foglalkozik. Az Ayaha-völgy termékenysége miatt fontos élelmiszerforrás a régió számára.",
+      ro: "Valea Ayaha este situată în nordul Somaliei, în regiunea Togdheer. Este o vale înconjurată de dealuri, cunoscută pentru utilizarea sa agricolă. Principalul curs de apă care traversează valea este Wadi Ayaha, care transportă apă sezonier. Se cultivă în principal mei, porumb și legume. Valea găzduiește mai multe sate, cu aproximativ 10.000 de locuitori. Populația se ocupă cu creșterea animalelor și agricultura. Datorită fertilității sale, Valea Ayaha este o sursă importantă de hrană pentru regiune.",
+      en: "Ayaha Valley is located in northern Somalia's Togdheer region. It is a valley surrounded by hills, known for agricultural use. The main watercourse is the Wadi Ayaha, which flows seasonally. Crops include millet, maize, and vegetables. The valley hosts several villages with a total population of about 10,000. The inhabitants practice livestock rearing and farming. Due to its fertility, Ayaha Valley is an important food source for the region.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 10.000", "Hauptanbau: Hirse, Mais", "Bewässerte Fläche: 30 km²", "Viehzucht: 20.000 Ziegen", "Jahresniederschlag: 400 mm", "Flusslänge: 50 km"],
+      hu: ["Lakosság: kb. 10 000", "Fő termények: köles, kukorica", "Öntözött terület: 30 km²", "Állatállomány: 20 000 kecske", "Éves csapadék: 400 mm", "Folyó hossza: 50 km"],
+      ro: ["Populație: aprox. 10.000", "Cultură principală: mei, porumb", "Suprafață irigată: 30 km²", "Creșterea animalelor: 20.000 de capre", "Precipitații anuale: 400 mm", "Lungimea râului: 50 km"],
+      en: ["Population: approx. 10,000", "Main crops: millet, maize", "Irrigated area: 30 km²", "Livestock: 20,000 goats", "Annual rainfall: 400 mm", "River length: 50 km"],
+    },
+  },
   {
     id: "gacan-libaah-nature-v2",
     type: "mountain",
     parent: "SO-WO",
     coords: [44.7, 9.9],
-    name: { de: "Gacan Libaah", hu: "Gacan Libaah", ro: "Gacan Libaah", en: "Gacan Libaah",
-image: "/poi-images/gacan-libaah-nature-v2.webp"
-},
+    name: { de: "Gacan Libaah", hu: "Gacan Libaah", ro: "Gacan Libaah", en: "Gacan Libaah"},
+    image: "/poi-images/gacan-libaah-nature-v2.webp",
     description: { de: "Ein Bergplateau und wichtiges Schutzgebiet.", hu: "Egy hegyfennsík és fontos védett terület.", ro: "Un platou montan și o zonă protejată importantă.", en: "A mountain plateau and important protected area." },
     facts: {
       de: ["Schutzgebiet für Pflanzen", "Bergige Landschaft", "Teil der Golis-Berge", "Einzigartige Flora"],
       hu: ["Védett terület a növényeknek", "Hegyes táj", "A Golis-hegység része", "Egyedülálló növényvilág"],
       ro: ["Zonă protejată pentru plante", "Peisaj muntos", "Parte a munților Golis", "Floră unică"],
       en: ["Protected area for plants", "Mountainous landscape", "Part of Golis Mountains", "Unique flora"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Gacan Libaah ist ein Naturschutzgebiet im Norden Somalias in der Region Sanaag. Es umfasst eine Fläche von etwa 500 Quadratkilometern und besteht aus Savannen- und Buschland. Das Reservat wurde 1992 gegründet, um die lokale Tierwelt zu schützen, darunter Antilopen, Zebras und der Beisa-Oryx. Es ist eines der wenigen Schutzgebiete Somalias und wird von lokalen Gemeinden verwaltet. Das Gebiet leidet unter Überweidung und Dürre. Gacan Libaah ist ein wichtiger Ort für Naturschutzbemühungen.",
+      hu: "Gacan Libaah egy természetvédelmi terület Szomália északi részén, a Sanaag régióban. Területe mintegy 500 négyzetkilométer, szavannák és bozótosok alkotják. A rezervátumot 1992-ben hozták létre a helyi vadon élő állatok, köztük antilopok, zebrák és a beisa-oryx védelmére. Szomália egyik kevés védett területe, amelyet helyi közösségek irányítanak. A területet túllegeltetés és aszály sújtja. Gacan Libaah fontos szerepet játszik a természetvédelmi erőfeszítésekben.",
+      ro: "Gacan Libaah este o rezervație naturală în nordul Somaliei, în regiunea Sanaag. Acoperă o suprafață de aproximativ 500 km² și constă în savane și tufișuri. Rezervația a fost înființată în 1992 pentru a proteja fauna locală, inclusiv antilope, zebre și oryx Beisa. Este una dintre puținele arii protejate din Somalia și este administrată de comunitățile locale. Zona suferă de pășunat excesiv și secetă. Gacan Libaah este un loc important pentru eforturile de conservare.",
+      en: "Gacan Libaah is a nature reserve in northern Somalia's Sanaag region. It covers about 500 square kilometers and consists of savanna and bushland. The reserve was established in 1992 to protect local wildlife, including antelopes, zebras, and the Beisa oryx. It is one of the few protected areas in Somalia and is managed by local communities. The area suffers from overgrazing and drought. Gacan Libaah is important for conservation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 km²", "Gründung: 1992", "Geschützte Arten: Antilopen, Zebras, Beisa-Oryx", "Höhenlage: 800-1200 m", "Bedrohung: Überweidung", "Lokale Verwaltung"],
+      hu: ["Terület: 500 km²", "Alapítás: 1992", "Védett fajok: antilopok, zebrák, beisa-oryx", "Tengerszint feletti magasság: 800-1200 m", "Veszély: túllegeltetés", "Helyi irányítás"],
+      ro: ["Suprafață: 500 km²", "Înființare: 1992", "Specii protejate: antilope, zebre, oryx Beisa", "Altitudine: 800-1200 m", "Amenințare: pășunat excesiv", "Administrare locală"],
+      en: ["Area: 500 km²", "Established: 1992", "Protected species: antelopes, zebras, Beisa oryx", "Elevation: 800-1200 m", "Threat: overgrazing", "Local management"],
+    },
   },
   {
     id: "xaysimo-nature-v2",
     type: "forest",
     parent: "SO-SA",
     coords: [47.5, 10.5],
-    name: { de: "Xaysimo-Wald", hu: "Xaysimo-erdő", ro: "Pădurea Xaysimo", en: "Xaysimo Forest",
-image: "/poi-images/xaysimo-nature-v2.webp"
-},
+    name: { de: "Xaysimo-Wald", hu: "Xaysimo-erdő", ro: "Pădurea Xaysimo", en: "Xaysimo Forest"},
+    image: "/poi-images/xaysimo-nature-v2.webp",
     description: { de: "Ein seltener Wald in Nord-Somalia.", hu: "Egy ritka erdő Észak-Szomáliában.", ro: "O pădure rară în nordul Somaliei.", en: "A rare forest in northern Somalia." },
     facts: {
       de: ["Wacholderwälder", "Sehr trockenes Klima", "Langsam wachsend", "Bedroht"],
       hu: ["Borókaerdők", "Nagyon száraz éghajlat", "Lassan növekszik", "Veszélyeztetett"],
       ro: ["Păduri de ienupăr", "Climat foarte uscat", "Creștere lentă", "Amenințată"],
       en: ["Juniper forests", "Very dry climate", "Slow growing", "Threatened"]
-    }, image: "/poi-images/xaysimo-nature-v2.webp"},
+    }, image: "/poi-images/xaysimo-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Xaysimo-Wald ist ein dichtes Waldgebiet im Norden Somalias in der Region Sanaag. Er liegt auf einer Höhe von etwa 1500 Metern und ist Teil des Cal-Madow-Gebirges. Der Wald besteht hauptsächlich aus Wacholder- und Olivenbäumen. Er ist ein wichtiger Lebensraum für Vögel und kleine Säugetiere. Der Xaysimo-Wald ist für seine hohe Biodiversität bekannt und wird von den Einheimischen als heiliger Hain verehrt. Abholzung und Klimawandel bedrohen jedoch den Waldbestand. Es gibt Bemühungen, den Wald unter Schutz zu stellen.",
+      hu: "A Xaysimo-erdő egy sűrű erdőterület Szomália északi részén, a Sanaag régióban. Körülbelül 1500 méter magasságban fekszik, és a Cal-Madow-hegység része. Az erdő főként boróka- és olajfákból áll. Fontos élőhelye a madaraknak és kisemlősöknek. A Xaysimo-erdő nagy biológiai sokféleségéről ismert, és a helyiek szent ligetként tisztelik. Az erdőirtás és az éghajlatváltozás azonban veszélyezteti az erdőt. Védetté nyilvánítására irányuló erőfeszítések folynak.",
+      ro: "Pădurea Xaysimo este o zonă forestieră densă în nordul Somaliei, în regiunea Sanaag. Se află la o altitudine de aproximativ 1500 de metri și face parte din Munții Cal-Madow. Pădurea constă în principal din ienupi și măslini. Este un habitat important pentru păsări și mamifere mici. Pădurea Xaysimo este cunoscută pentru biodiversitatea sa ridicată și este venerată de localnici ca o pădure sacră. Defrișarea și schimbările climatice amenință însă pădurea. Există eforturi pentru a o proteja.",
+      en: "Xaysimo Forest is a dense woodland area in northern Somalia's Sanaag region. It lies at about 1500 meters elevation and is part of the Cal-Madow Mountains. The forest consists mainly of juniper and olive trees. It is an important habitat for birds and small mammals. Xaysimo Forest is known for its high biodiversity and is revered by locals as a sacred grove. However, deforestation and climate change threaten the forest. Efforts are underway to protect it.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1500 m", "Baumarten: Wacholder, Olive", "Fläche: 30 km²", "Gefährdete Vogelarten: 3", "Heiliger Hain seit Jahrhunderten", "Schutzstatus: geplant"],
+      hu: ["Magasság: 1500 m", "Fafajok: boróka, olajfa", "Terület: 30 km²", "Veszélyeztetett madárfajok: 3", "Szent liget évszázadok óta", "Védettség: tervezett"],
+      ro: ["Altitudine: 1500 m", "Specii de arbori: ienupăr, măslin", "Suprafață: 30 km²", "Specii de păsări amenințate: 3", "Pădure sacră de secole", "Statut de protecție: planificat"],
+      en: ["Elevation: 1500 m", "Tree species: juniper, olive", "Area: 30 km²", "Threatened bird species: 3", "Sacred grove for centuries", "Protection status: planned"],
+    },
+  },
   {
     id: "juba-delta-nature-v2",
     type: "river",
     parent: "SO-GS",
     coords: [42.7, -0.4],
-    name: { de: "Juba-Delta", hu: "Juba-delta", ro: "Delta Juba", en: "Juba Delta",
-image: "/poi-images/juba-delta-nature-v2.webp"
-},
+    name: { de: "Juba-Delta", hu: "Juba-delta", ro: "Delta Juba", en: "Juba Delta"},
+    image: "/poi-images/juba-delta-nature-v2.webp",
     description: { de: "Die Mündung des Jubba-Flusses in den Ozean.", hu: "A Jubba-folyó torkolata az óceánba.", ro: "Vărsarea râului Jubba în ocean.", en: "The mouth of the Jubba river into the ocean." },
     facts: {
       de: ["Mangrovenwälder", "Reiches Vogelvorkommen", "Schlickig", "Gezeitenbeeinflusst"],
       hu: ["Mangroveerdők", "Gazdag madárvilág", "Iszapos", "Árapály által befolyásolt"],
       ro: ["Păduri de mangrove", "Bogată în păsări", "Mâloasă", "Influențată de maree"],
       en: ["Mangrove forests", "Rich birdlife", "Muddy", "Tide-influenced"]
-    }, image: "/poi-images/juba-delta-nature-v2.webp"},
+    }, image: "/poi-images/juba-delta-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Juba-Delta ist das Mündungsgebiet des Juba-Flusses an der Südküste Somalias. Es erstreckt sich über etwa 100 Quadratkilometer und besteht aus einem Netzwerk von Kanälen, Mangroven und Inseln. Das Delta ist ein wichtiges Feuchtgebiet und dient als Brutplatz für Wasservögel und Fische. Es ist auch landwirtschaftlich genutzt, vor allem für den Reisanbau. Das Juba-Delta ist Lebensraum für Krokodile und Flusspferde. Die Region ist dünn besiedelt und von Überschwemmungen betroffen. Das Delta ist von großer ökologischer Bedeutung.",
+      hu: "A Juba-delta a Juba folyó torkolatvidéke Szomália déli partján. Területe mintegy 100 négyzetkilométer, csatornák, mangrovek és szigetek hálózatából áll. A delta fontos vizes élőhely, költőhelye a vízimadaraknak és halaknak. Mezőgazdasági hasznosítás alatt áll, főként rizst termesztenek. A Juba-delta krokodilok és vízilovak élőhelye. A régió ritkán lakott, és árvizek sújtják. A delta ökológiai szempontból jelentős.",
+      ro: "Delta Juba este zona de vărsare a râului Juba pe coasta de sud a Somaliei. Se întinde pe aproximativ 100 km² și constă dintr-o rețea de canale, mangrove și insule. Delta este o zonă umedă importantă, servind ca loc de cuibărit pentru păsări acvatice și pești. Este, de asemenea, utilizată agricol, în principal pentru cultivarea orezului. Delta Juba găzduiește crocodili și hipopotami. Regiunea este slab populată și afectată de inundații. Delta are o importanță ecologică majoră.",
+      en: "The Juba Delta is the mouth area of the Juba River on the southern coast of Somalia. It covers about 100 square kilometers and consists of a network of channels, mangroves, and islands. The delta is an important wetland, serving as a breeding ground for waterbirds and fish. It is also used for agriculture, primarily rice cultivation. The Juba Delta is home to crocodiles and hippos. The region is sparsely populated and affected by floods. The delta is of great ecological importance.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 100 km²", "Reisanbau: 20 km²", "Mangrovenfläche: 30 km²", "Gefährdete Vogelarten: 5", "Krokodilpopulation: 500", "Überschwemmungsrisiko: jährlich"],
+      hu: ["Terület: 100 km²", "Rizstermesztés: 20 km²", "Mangrove terület: 30 km²", "Veszélyeztetett madárfajok: 5", "Krokodil állomány: 500", "Árvízveszély: éves"],
+      ro: ["Suprafață: 100 km²", "Cultură de orez: 20 km²", "Suprafață mangrove: 30 km²", "Specii de păsări amenințate: 5", "Populație de crocodili: 500", "Risc de inundații: anual"],
+      en: ["Area: 100 km²", "Rice cultivation: 20 km²", "Mangrove area: 30 km²", "Threatened bird species: 5", "Crocodile population: 500", "Flood risk: annual"],
+    },
+  },
   {
     id: "shebelle-middle-reach-nature-v2",
     type: "river",
     parent: "SO-GS",
     coords: [44.0, 3.0],
-    name: { de: "Shabelle Mittellauf", hu: "Shabelle középső szakasz", ro: "Shabelle curs mijlociu", en: "Shabelle middle reach",
-image: "/poi-images/shebelle-middle-reach-nature-v2.webp"
-},
+    name: { de: "Shabelle Mittellauf", hu: "Shabelle középső szakasz", ro: "Shabelle curs mijlociu", en: "Shabelle middle reach"},
+    image: "/poi-images/shebelle-middle-reach-nature-v2.webp",
     description: { de: "Der zentrale Abschnitt des Flusses Shabelle.", hu: "A Shabelle folyó középső szakasza.", ro: "Secțiunea centrală a râului Shabelle.", en: "The central section of the Shabelle river." },
     facts: {
       de: ["Wichtig für Siedlungen", "Fruchtbares Umland", "Schwankender Wasserstand", "Staudämme"],
       hu: ["Fontos a településeknek", "Termékeny környék", "Ingadozó vízállás", "Gátak"],
       ro: ["Important pentru așezări", "Împrejurimi fertile", "Nivelul apei fluctuant", "Baraje"],
       en: ["Important for settlements", "Fertile surroundings", "Fluctuating water level", "Dams"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der mittlere Abschnitt des Shabelle-Flusses erstreckt sich zwischen der Stadt Jowhar und der Grenze zu Äthiopien. Diese Region ist landwirtschaftlich intensiv genutzt, mit Bewässerungsfeldbau für Bananen, Zuckerrohr und Gemüse. Der Fluss fließt hier durch flaches Gelände und bildet zahlreiche Mäander. Die Uferzonen sind von Galeriewäldern gesäumt. Die Gegend ist relativ dicht besiedelt, mit Städten wie Jowhar und Balcad. Die Landwirtschaft ist stark vom saisonalen Wasserstand abhängig. Der mittlere Shabelle leidet unter Verschmutzung durch landwirtschaftliche Abflüsse.",
+      hu: "A Shabelle folyó középső szakasza Jowhar városa és az etióp határ között húzódik. Ez a régió intenzív mezőgazdasági hasznosítás alatt áll, öntözött területeken banánt, cukornádot és zöldségeket termesztenek. A folyó sík terepen folyik, és számos kanyart alkot. A partokat galériaerdők szegélyezik. A terület viszonylag sűrűn lakott, olyan városokkal, mint Jowhar és Balcad. A mezőgazdaság erősen függ az évszakos vízszinttől. A középső Shabelle-t a mezőgazdasági lefolyás szennyezi.",
+      ro: "Tronsonul mijlociu al râului Shabelle se întinde între orașul Jowhar și granița cu Etiopia. Această regiune este utilizată intensiv agricol, cu culturi irigate de banane, trestie de zahăr și legume. Râul curge prin teren plat, formând numeroase meandre. Malurile sunt mărginite de păduri galerii. Zona este relativ dens populată, cu orașe precum Jowhar și Balcad. Agricultura depinde puternic de nivelul sezonier al apei. Shabelle-ul mijlociu suferă de poluare cauzată de scurgeri agricole.",
+      en: "The middle reach of the Shabelle River extends between the town of Jowhar and the Ethiopian border. This region is intensively agricultural, with irrigated cultivation of bananas, sugarcane, and vegetables. The river flows through flat terrain, forming many meanders. The banks are lined with gallery forests. The area is relatively densely populated, with towns like Jowhar and Balcad. Agriculture is highly dependent on seasonal water levels. The middle Shabelle suffers from pollution due to agricultural runoff.",
+    },
+    factsAdvanced: {
+      de: ["Länge des mittleren Abschnitts: 150 km", "Jowhar: 100 km von Mogadischu", "Bananenproduktion: 50.000 t jährlich", "Bewässerte Fläche: 200 km²", "Verschmutzung: hohe Nitratwerte", "Galeriewälder: 10 km²"],
+      hu: ["Középső szakasz hossza: 150 km", "Jowhar: 100 km-re Mogadishutól", "Banántermelés: 50 000 t évente", "Öntözött terület: 200 km²", "Szennyezés: magas nitrátszint", "Galériaerdők: 10 km²"],
+      ro: ["Lungimea tronsonului mijlociu: 150 km", "Jowhar: 100 km de Mogadishu", "Producție de banane: 50.000 t anual", "Suprafață irigată: 200 km²", "Poluare: niveluri ridicate de nitrați", "Păduri galerii: 10 km²"],
+      en: ["Middle reach length: 150 km", "Jowhar: 100 km from Mogadishu", "Banana production: 50,000 t annually", "Irrigated area: 200 km²", "Pollution: high nitrate levels", "Gallery forests: 10 km²"],
+    },
   },
   {
     id: "dadaab-bushland-nature-v2",
     type: "forest",
     parent: "SO-GS",
     coords: [42.1, 0.2],
-    name: { de: "Dadaab Buschland", hu: "Dadaab bozótos", ro: "Tufe Dadaab", en: "Dadaab bushland",
-image: "/poi-images/dadaab-bushland-nature-v2.webp"
-},
+    name: { de: "Dadaab Buschland", hu: "Dadaab bozótos", ro: "Tufe Dadaab", en: "Dadaab bushland"},
+    image: "/poi-images/dadaab-bushland-nature-v2.webp",
     description: { de: "Weite Gebiete mit Dornbuschvegetation.", hu: "Hatalmas területek tüskés bozótos növényzettel.", ro: "Zone vaste cu vegetație de tufe spinoase.", en: "Vast areas with thorn bush vegetation." },
     facts: {
       de: ["Trockensavanne", "Dornensträucher", "Sehr heiß", "Karge Böden"],
       hu: ["Száraz szavanna", "Tüskés bokrok", "Nagyon meleg", "Sovány talajok"],
       ro: ["Savana aridă", "Arbuști spinoși", "Foarte cald", "Soluri sărace"],
       en: ["Dry savanna", "Thorn bushes", "Very hot", "Poor soils"]
-    }, image: "/poi-images/dadaab-bushland-nature-v2.webp"},
+    }, image: "/poi-images/dadaab-bushland-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dadaab-Buschland liegt im Osten Somalias nahe der Grenze zu Kenia. Es ist eine trockene Savanne mit Akazienbäumen und Dornbüschen. Die Region ist bekannt für ihre halbnomadische Viehwirtschaft, hauptsächlich Rinder, Ziegen und Kamele. Das Buschland ist Teil des größeren Dadaab-Flüchtlingskomplexes, der in den 1990er Jahren entstand und heute über 200.000 Flüchtlinge beherbergt. Die Umwelt leidet unter der Überweidung und der hohen Bevölkerungsdichte. Trotz der Herausforderungen bleibt das Dadaab-Buschland ein wichtiges Weidegebiet.",
+      hu: "A Dadaab bozótos terület Szomália keleti részén, a kenyai határ közelében található. Száraz szavanna, akácfákkal és tövisbokrokkal. A régió híres félnomád állattenyésztéséről, főként szarvasmarhákról, kecskékről és tevékről. A bozótos a nagyobb Dadaab menekülttábor komplexum része, amely az 1990-es években jött létre, és ma több mint 200 000 menekültet fogad be. A környezetet a túllegeltetés és a magas népsűrűség sújtja. A kihívások ellenére a Dadaab bozótos fontos legelőterület marad.",
+      ro: "Teritoriul cu tufișuri Dadaab este situat în estul Somaliei, aproape de granița cu Kenya. Este o savană uscată cu salcâmi și arbuști spinoși. Regiunea este cunoscută pentru creșterea semi-nomadă a animalelor, în principal vite, capre și cămile. Această zonă face parte din complexul mai mare de tabere de refugiați Dadaab, înființat în anii 1990, care găzduiește în prezent peste 200.000 de refugiați. Mediul suferă din cauza pășunatului excesiv și a densității mari a populației. În ciuda provocărilor, tufișurile Dadaab rămân o zonă importantă de pășunat.",
+      en: "The Dadaab bushland is located in eastern Somalia near the Kenyan border. It is a dry savanna with acacia trees and thorny bushes. The region is known for semi-nomadic livestock keeping, primarily cattle, goats, and camels. The bushland is part of the larger Dadaab refugee complex, established in the 1990s, which now hosts over 200,000 refugees. The environment suffers from overgrazing and high population density. Despite challenges, Dadaab bushland remains an important grazing area.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 km²", "Viehbestand: 100.000 Rinder", "Refugee Camp: seit 1992", "Akazienbäume: 3 Arten", "Jahresniederschlag: 250 mm", "Überweidungsrate: 30%"],
+      hu: ["Terület: 500 km²", "Állatállomány: 100 000 szarvasmarha", "Menekülttábor: 1992 óta", "Akácfák: 3 faj", "Éves csapadék: 250 mm", "Túllegeltetési arány: 30%"],
+      ro: ["Suprafață: 500 km²", "Efective de animale: 100.000 de vite", "Tabără de refugiați: din 1992", "Salcâmi: 3 specii", "Precipitații anuale: 250 mm", "Rata de pășunat excesiv: 30%"],
+      en: ["Area: 500 km²", "Livestock: 100,000 cattle", "Refugee camp: since 1992", "Acacia species: 3", "Annual rainfall: 250 mm", "Overgrazing rate: 30%"],
+    },
+  },
   {
     id: "hobyo-dunes-nature-v2",
     type: "sea",
     parent: "SO-MU",
     coords: [48.5, 5.3],
-    name: { de: "Dünen von Hobyo", hu: "Hobyo dűnéi", ro: "Dunele Hobyo", en: "Hobyo Dunes",
-image: "/poi-images/hobyo-dunes-nature-v2.webp"
-},
+    name: { de: "Dünen von Hobyo", hu: "Hobyo dűnéi", ro: "Dunele Hobyo", en: "Hobyo Dunes"},
+    image: "/poi-images/hobyo-dunes-nature-v2.webp",
     description: { de: "Sanddünen an der Küste Somalias.", hu: "Homokdűnék Szomália partjainál.", ro: "Dune de nisip pe coasta Somaliei.", en: "Sand dunes on the coast of Somalia." },
     facts: {
       de: ["Wanderdünen", "Weißer Sand", "Direkt am Indischen Ozean", "Stark windig"],
       hu: ["Vándordűnék", "Fehér homok", "Közvetlenül az Indiai-óceánnál", "Erősen szeles"],
       ro: ["Dune mișcătoare", "Nisip alb", "Direct la Oceanul Indian", "Foarte vântos"],
       en: ["Moving dunes", "White sand", "Directly at Indian Ocean", "Very windy"]
-    }, image: "/poi-images/hobyo-dunes-nature-v2.webp"},
+    }, image: "/poi-images/hobyo-dunes-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hobyo-Dünen sind ein Sanddünensystem an der zentralen Küste Somalias in der Region Mudug. Sie erstrecken sich über etwa 200 Quadratkilometer und bestehen aus mobilen Dünen, die bis zu 50 Meter hoch werden. Die Dünen entstehen durch Wind und Meeresströmungen. Die Vegetation ist spärlich und besteht aus salztoleranten Gräsern und Sträuchern. Die Region ist dünn besiedelt und dient als Weidegebiet für Kamele. Die Hobyo-Dünen sind ein wichtiges geologisches Merkmal und ziehen Touristen an. Sie sind jedoch durch Erosion bedroht.",
+      hu: "A Hobyo-dűnék homokdűne-rendszert alkotnak Szomália középső partvidékén, a Mudug régióban. Területük mintegy 200 négyzetkilométer, és mozgó dűnékből állnak, amelyek magassága elérheti az 50 métert. A dűnéket a szél és a tengeri áramlatok alakítják. A növényzet gyér, sótűrő fűfélékből és cserjékből áll. A régió ritkán lakott, és tevék legelőjeként szolgál. A Hobyo-dűnék fontos geológiai jellemzők, és turistákat vonzanak. Az erózió azonban veszélyezteti őket.",
+      ro: "Dunele Hobyo sunt un sistem de dune de nisip pe coasta centrală a Somaliei, în regiunea Mudug. Se întind pe aproximativ 200 km² și constau în dune mobile care pot atinge 50 de metri înălțime. Dunele sunt formate de vânt și curenții marini. Vegetația este rară, formată din ierburi și arbuști toleranți la sare. Regiunea este slab populată și servește ca zonă de pășunat pentru cămile. Dunele Hobyo sunt o caracteristică geologică importantă și atrag turiști. Sunt însă amenințate de eroziune.",
+      en: "The Hobyo Dunes are a sand dune system on the central coast of Somalia in the Mudug region. They cover about 200 square kilometers and consist of mobile dunes reaching up to 50 meters in height. The dunes are shaped by wind and ocean currents. Vegetation is sparse, with salt-tolerant grasses and shrubs. The area is sparsely populated and used for camel grazing. The Hobyo Dunes are an important geological feature and attract tourists. However, they are threatened by erosion.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 200 km²", "Dünenhöhe: bis 50 m", "Mobilität der Dünen: 10 m/Jahr", "Kamelbestand: 5000", "Salztolerante Pflanzen: 8 Arten", "Erosionsrate: 2% jährlich"],
+      hu: ["Terület: 200 km²", "Dűnemagasság: akár 50 m", "Dűnémozgás: 10 m/év", "Teveállomány: 5000", "Sótűrő növények: 8 faj", "Eróziós ráta: 2% évente"],
+      ro: ["Suprafață: 200 km²", "Înălțimea dunelor: până la 50 m", "Mobilitatea dunelor: 10 m/an", "Efective de cămile: 5000", "Plante tolerante la sare: 8 specii", "Rata eroziunii: 2% anual"],
+      en: ["Area: 200 km²", "Dune height: up to 50 m", "Dune mobility: 10 m/year", "Camel population: 5000", "Salt-tolerant plants: 8 species", "Erosion rate: 2% annually"],
+    },
+  },
   {
     id: "xarardheere-coast-nature-v2",
     type: "sea",
     parent: "SO-MU",
     coords: [47.8, 4.6],
-    name: { de: "Xarardheere Küste", hu: "Xarardheere partja", ro: "Coasta Xarardheere", en: "Xarardheere Coast",
-image: "/poi-images/xarardheere-coast-nature-v2.webp"
-},
+    name: { de: "Xarardheere Küste", hu: "Xarardheere partja", ro: "Coasta Xarardheere", en: "Xarardheere Coast"},
+    image: "/poi-images/xarardheere-coast-nature-v2.webp",
     description: { de: "Ein Küstenabschnitt in Zentral-Somalia.", hu: "Egy partszakasz Közép-Szomáliában.", ro: "Un sector de coastă în Somalia centrală.", en: "A coastal section in central Somalia." },
     facts: {
       de: ["Sandige Strände", "Fischfangregion", "Offener Ozean", "Heiße Temperaturen"],
       hu: ["Homokos strandok", "Halászati régió", "Nyílt óceán", "Meleg hőmérséklet"],
       ro: ["Plaje cu nisip", "Regiune de pescuit", "Ocean deschis", "Temperaturi calde"],
       en: ["Sandy beaches", "Fishing region", "Open ocean", "Hot temperatures"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Xarardheere-Küste liegt in der Region Mudug im zentralen Somalia. Sie ist bekannt für ihre langen Sandstrände und felsigen Abschnitte. Die Küste ist ein wichtiges Brutgebiet für Meeresschildkröten, vor allem für die Unechte Karettschildkröte. Auch Korallenriffe befinden sich vor der Küste. Die lokale Bevölkerung betreibt Fischerei und kleine Landwirtschaft. Die Region ist abgelegen und wenig erschlossen. Die Xarardheere-Küste hat Potenzial für den Tourismus, aber fehlende Infrastruktur bremst die Entwicklung. Sie ist auch ein wichtiges Gebiet für die Biodiversität.",
+      hu: "A Xarardheere-part a Mudug régióban található Közép-Szomáliában. Hosszú homokos strandjairól és sziklás szakaszairól ismert. A part fontos költőhelye a tengeri teknősöknek, különösen a közönséges levesteknősnek. Korallzátonyok is találhatók a part előtt. A helyi lakosság halászatból és kisüzemi mezőgazdaságból él. A régió elszigetelt és kevéssé fejlett. A Xarardheere-part turisztikai potenciállal rendelkezik, de a hiányzó infrastruktúra gátolja a fejlődést. Biodiverzitás szempontjából is fontos terület.",
+      ro: "Coasta Xarardheere este situată în regiunea Mudug din centrul Somaliei. Este cunoscută pentru plajele sale lungi de nisip și secțiunile stâncoase. Coasta este o zonă importantă de cuibărit pentru țestoasele marine, în special pentru țestoasa caretă. Recife de corali se găsesc și în larg. Populația locală practică pescuitul și agricultura la scară mică. Zona este izolată și puțin dezvoltată. Coasta Xarardheere are potențial turistic, dar lipsa infrastructurii frânează dezvoltarea. Este, de asemenea, o zonă importantă pentru biodiversitate.",
+      en: "The Xarardheere Coast is located in the Mudug region of central Somalia. It is known for its long sandy beaches and rocky sections. The coast is an important nesting site for sea turtles, especially the loggerhead turtle. Coral reefs are also found offshore. The local population engages in fishing and small-scale agriculture. The area is remote and underdeveloped. The Xarardheere Coast has tourism potential, but lack of infrastructure hampers development. It is also a key area for biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: 40 km", "Nistplätze für Meeresschildkröten: 300 pro Jahr", "Korallenriff-Fläche: 15 km²", "Fischerboote: 100", "Jahresdurchschnittstemperatur: 28°C", "Tourismuspotenzial: ungenutzt"],
+      hu: ["Part hossza: 40 km", "Tengeri teknős fészkek: 300 évente", "Korallzátony terület: 15 km²", "Halászhajók: 100", "Évi átlaghőmérséklet: 28°C", "Turisztikai potenciál: kihasználatlan"],
+      ro: ["Lungimea coastei: 40 km", "Cuiburi de țestoase marine: 300 pe an", "Suprafață recif de corali: 15 km²", "Bărci de pescuit: 100", "Temperatura medie anuală: 28°C", "Potențial turistic: neexploatat"],
+      en: ["Coast length: 40 km", "Sea turtle nests annually: 300", "Coral reef area: 15 km²", "Fishing boats: 100", "Average annual temperature: 28°C", "Tourism potential: untapped"],
+    },
   },
   {
     id: "barawa-coast-nature-v2",
     type: "sea",
     parent: "SO-LB",
     coords: [44.0, 1.1],
-    name: { de: "Küste bei Barawa", hu: "Part Barawa mellett", ro: "Coasta lângă Barawa", en: "Coast near Barawa",
-image: "/poi-images/barawa-coast-nature-v2.webp"
-},
+    name: { de: "Küste bei Barawa", hu: "Part Barawa mellett", ro: "Coasta lângă Barawa", en: "Coast near Barawa"},
+    image: "/poi-images/barawa-coast-nature-v2.webp",
     description: { de: "Eine Küstenregion südlich von Mogadischu.", hu: "Egy part menti régió Mogadishutól délre.", ro: "O regiune de coastă la sud de Mogadishu.", en: "A coastal region south of Mogadishu." },
     facts: {
       de: ["Korallenküste", "Klares Wasser", "Viele Buchten", "Wichtig für Schifffahrt"],
       hu: ["Korallpart", "Tiszta víz", "Sok öböl", "Fontos a hajózásnak"],
       ro: ["Coastă de corali", "Apă limpede", "Multe golfuri", "Important pentru navigație"],
       en: ["Coral coast", "Clear water", "Many bays", "Important for shipping"]
-    }, image: "/poi-images/barawa-coast-nature-v2.webp"},
+    }, image: "/poi-images/barawa-coast-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste bei Barawa erstreckt sich über etwa 45 Kilometer entlang des Indischen Ozeans. Geologisch besteht die Küstenlinie aus quartären Sedimenten, die durch Meeresströmungen und saisonale Flutereignisse geformt werden. Die jährliche Niederschlagsmenge beträgt weniger als 250 mm, was zu einer ariden Küstenumgebung führt. Die Gezeiten weisen einen durchschnittlichen Hub von 2,5 Metern auf. Die Küste ist Lebensraum für verschiedene Meeresschildkrötenarten, darunter die Echte Karettschildkröte und die Grüne Meeresschildkröte. Menschliche Aktivitäten konzentrieren sich auf kleine Fischereihäfen, die jährlich etwa 1.500 Tonnen Fisch anlanden. Die Wassertemperatur schwankt zwischen 24 °C und 29 °C. Korallenriffe in Küstennähe bedecken eine Fläche von rund 12 Quadratkilometern und bieten Lebensraum für über 200 Fischarten.",
+      hu: "Barawa partvidéke mintegy 45 kilométer hosszan húzódik az Indiai-óceán mentén. A part menti ökoszisztéma változatos mangroveerdőket és tengerifű-réteket foglal magában, amelyek döntő szerepet játszanak a tengeri élővilág védelmében. A terület fontos madárvonulási útvonal mentén fekszik, évente több ezer vándormadár pihen meg itt. A halászat a helyi lakosság fő megélhetési forrása; a part menti vizekben évente körülbelül 3 000 tonna halat fognak. A partot erózió fenyegeti, amely évente átlagosan 2 méter partvonalvesztést okoz. A turizmus fejlesztése korlátozott, de a természetvédelmi erőfeszítések egyre hangsúlyosabbak, különösen a tengeri teknősök fészkelőhelyeinek védelme érdekében. A víz sótartalma 35-37 ppt között változik.",
+      ro: "Coasta lângă Barawa se întinde pe aproximativ 45 de kilometri de-a lungul Oceanului Indian. Această regiune este caracterizată de plaje nisipoase și stâncoase, cu o biodiversitate marină remarcabilă. Specii precum delfinii (Tursiops truncatus) și rechinii-balena (Rhincodon typus) sunt observate frecvent. Recifele de corali din zonă, deși afectate de încălzirea globală, adăpostesc peste 180 de specii de pești. Coasta este, de asemenea, un loc important de cuibărit pentru țestoasele marine, cu aproximativ 500 de cuiburi pe sezon. Ecosistemele de mangrove, care acoperă aproximativ 8 kilometri pătrați, joacă un rol crucial în filtrarea sedimentelor și protejarea țărmului de eroziune. Temperatura apei variază între 25 °C și 30 °C, iar salinitatea medie este de 36 ppm.",
+      en: "The Barawa coastline stretches roughly 45 kilometers along the Indian Ocean, characterized by sandy beaches and rocky outcrops. This arid coastal zone receives less than 250 mm of rainfall annually, with temperatures averaging 28°C. The area is ecologically significant due to its seagrass meadows and coral reefs, which support diverse marine life including over 200 fish species and several sea turtle species. The intertidal zone experiences a mean tidal range of 2.5 meters, influencing coastal morphology. Local fisheries, primarily artisanal, land approximately 1,500 metric tons of fish per year, targeting species such as tuna and groupers. The coast is also a crucial stopover for migratory birds along the East African flyway. Conservation efforts focus on protecting turtle nesting sites and reducing overfishing.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlinie: ca. 45 km Länge", "Gezeitenhub: durchschnittlich 2,5 m", "Korallenriff-Fläche: etwa 12 km²", "Jährlicher Fischfang: rund 1.500 Tonnen", "Wassertemperatur: 24-29 °C", "Niederschlag: weniger als 250 mm/Jahr"],
+      hu: ["Partvonal hossza: 45 km", "Éves halfogás: kb. 3.000 tonna", "Partvesztés mértéke: évi 2 m", "Víz sótartalma: 35-37 ppt", "Mangroveerdők területe: 8 km²", "Vándormadarak száma: évente több ezer"],
+      ro: ["Lungimea coastei: 45 km", "Suprafața recifelor de corali: 12 km²", "Specii de pești: peste 180", "Cuiburi de țestoase: ~500 pe sezon", "Suprafața mangrovei: 8 km²", "Temperatura apei: 25-30 °C"],
+      en: ["Coastline length: 45 km", "Mean tidal range: 2.5 m", "Coral reef area: 12 km²", "Annual fish catch: 1,500 metric tons", "Average water temperature: 28°C", "Annual rainfall: less than 250 mm"],
+    },
+  },
   {
     id: "ceerigaabo-uplands-nature-v2",
     type: "mountain",
     parent: "SO-SA",
     coords: [47.3, 10.6],
-    name: { de: "Ceerigaabo Hochland", hu: "Ceerigaabo fennsík", ro: "Podișul Ceerigaabo", en: "Ceerigaabo Uplands",
-image: "/poi-images/ceerigaabo-uplands-nature-v2.webp"
-},
+    name: { de: "Ceerigaabo Hochland", hu: "Ceerigaabo fennsík", ro: "Podișul Ceerigaabo", en: "Ceerigaabo Uplands"},
+    image: "/poi-images/ceerigaabo-uplands-nature-v2.webp",
     description: { de: "Ein Hochlandgebiet in der Region Sanaag.", hu: "Egy fennsíki terület Sanaag régióban.", ro: "O zonă de podiș în regiunea Sanaag.", en: "A highland area in the Sanaag region." },
     facts: {
       de: ["Kühleres Klima", "Weideland", "Bergig", "Trockenes Grasland"],
       hu: ["Hűvösebb éghajlat", "Legelő", "Hegyes", "Száraz gyepek"],
       ro: ["Climat mai răcoros", "Pășune", "Muntos", "Pajiști aride"],
       en: ["Cooler climate", "Grazing land", "Mountainous", "Dry grasslands"]
-    }, image: "/poi-images/ceerigaabo-uplands-nature-v2.webp"},
+    }, image: "/poi-images/ceerigaabo-uplands-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ceerigaabo-Hochländer liegen im Norden Somalias und erreichen Höhen von bis zu 2.400 Metern. Diese Gebirgsregion ist geprägt von steilen Hängen und tiefen Schluchten. Die jährliche Niederschlagsmenge liegt zwischen 500 und 700 mm, was eine dichte Vegetation aus Wacholder- und Olivenbäumen ermöglicht. Die Region ist bekannt für ihre endemische Flora, darunter die Somalia-Wacholderart Juniperus procera. Die Böden bestehen aus verwittertem Kalkstein und Basalt. Die Hochländer sind Lebensraum für seltene Vogelarten wie den Somalia-Rotschnabeltoko (Tockus jacksoni). Die menschliche Bevölkerung ist dünn gesiedelt, hauptsächlich nomadische Viehzüchter, die Rinder und Ziegen halten. Die Durchschnittstemperatur beträgt 15 °C, mit kalten Nächten unter 5 °C. Die Region ist auch wichtig für die Wasserversorgung der umliegenden Täler.",
+      hu: "A Ceerigaabo-felföld Szomália északi részén található, átlagos tengerszint feletti magassága 1 800 méter. A területet sűrű boróka- és olajfaerdők borítják, amelyek számos endemikus növény- és állatfajnak adnak otthont. A csapadék éves mennyisége 600 mm körül alakul. A felföld fontos vízgyűjtő terület, ahonnan több kisebb folyó ered. A talajok mészkő-piroklaszttikus eredetűek. A régióban élő néhány ezer ember főként juhtenyésztésből él. A területet érinti a klímaváltozás, az aszályok gyakorisága nő. A Ceerigaabo-felföld a Golis-hegység részét képezi, amely geológiailag fiatal, harmadidőszaki képződmény. A legmagasabb csúcs, a Shimbiris, 2 450 méter magas.",
+      ro: "Podisul Ceerigaabo este situat în nordul Somaliei, cu altitudini cuprinse între 1.500 și 2.400 de metri. Această regiune muntoasă găzduiește păduri de ienupăr și măslin sălbatic, unele dintre ultimele păduri de acest tip din Cornul Africii. Clima este temperată, cu precipitații anuale de 500-700 mm. Solurile sunt predominant calcaroase și bazaltice. Podisul este o importantă sursă de apă pentru râurile sezoniere care alimentează văile din jur. Biodiversitatea include specii endemice de păsări, cum ar fi Tockus jacksoni, și mamifere precum babuinul hamadryas (Papio hamadryas). Populația umană este rară, în principal păstori nomazi. Altitudinea mare determină temperaturi medii de 15 °C, cu înghețuri nocturne frecvente.",
+      en: "The Ceerigaabo Uplands form a high plateau in northern Somalia, reaching elevations of up to 2,400 meters. This mountainous region is characterized by steep slopes and deep valleys, with a Mediterranean-like climate due to altitude. Precipitation ranges from 500 to 700 mm annually, supporting dense juniper and olive forests. The area is a biodiversity hotspot, hosting endemic plant species such as Juniperus procera and rare birds like the Somali bee-eater (Merops revoilii). Soils are derived from limestone and basalt, providing nutrients for agriculture in limited areas. The uplands serve as a crucial water catchment, feeding seasonal rivers that support downstream communities. Human settlement is sparse, consisting mainly of pastoralists who raise livestock. The average temperature is around 15°C, with night frosts common. Conservation efforts aim to protect the remaining forest cover from deforestation.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe: 2.400 m", "Jährlicher Niederschlag: 500-700 mm", "Durchschnittstemperatur: 15 °C", "Juniperus procera: endemische Wacholderart", "Bodenart: verwitterter Kalkstein und Basalt", "Seltene Vogelart: Somalia-Rotschnabeltoko"],
+      hu: ["Átlagos magasság: 1 800 m", "Legmagasabb csúcs: Shimbiris, 2 450 m", "Éves csapadék: 600 mm", "Talajtípus: mészkő-piroklaszttikus", "Lakosság: néhány ezer fő", "Fontos vízgyűjtő terület"],
+      ro: ["Altitudine maximă: 2.400 m", "Precipitații anuale: 500-700 mm", "Temperatura medie: 15°C", "Păduri de ienupăr: ultimele din Cornul Africii", "Specii endemice: Juniperus procera, Tockus jacksoni", "Înghețuri nocturne frecvente"],
+      en: ["Maximum elevation: 2,400 m", "Annual precipitation: 500-700 mm", "Average temperature: 15°C", "Endemic tree species: Juniperus procera", "Soil composition: limestone and basalt", "Important water catchment area"],
+    },
+  },
   {
     id: "kismayo-marine-nature-v2",
     type: "sea",
     parent: "SO-LB",
     coords: [42.5, -0.3],
-    name: { de: "Kismayo Gewässer", hu: "Kismayo vizei", ro: "Apele Kismayo", en: "Kismayo Waters",
-image: "/poi-images/kismayo-marine-nature-v2.webp"
-},
+    name: { de: "Kismayo Gewässer", hu: "Kismayo vizei", ro: "Apele Kismayo", en: "Kismayo Waters"},
+    image: "/poi-images/kismayo-marine-nature-v2.webp",
     description: { de: "Die Küstengewässer vor Kismayo.", hu: "Kismayo parti vizei.", ro: "Apele de coastă în largul Kismayo.", en: "The coastal waters off Kismayo." },
     facts: {
       de: ["Reiche Fischgründe", "Korallenreviere", "Flaches Wasser", "Sehr warm"],
       hu: ["Gazdag halászhelyek", "Korallzátonyok", "Sekély víz", "Nagyon meleg"],
       ro: ["Zone bogate în pește", "Recife de corali", "Apă puțin adâncă", "Foarte caldă"],
       en: ["Rich fishing grounds", "Coral reefs", "Shallow water", "Very warm"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Meeresgewässer vor Kismaayo im Süden Somalias erstrecken sich über eine Fläche von etwa 1.200 Quadratkilometern. Diese Region ist bekannt für ihre artenreichen Korallenriffe, die über 300 Fischarten beherbergen. Die Wassertiefe variiert zwischen 10 und 50 Metern. Die jährliche Niederschlagsmenge beträgt rund 400 mm. Die Meeresströmungen sind stark saisonal geprägt, mit Monsunwinden, die von März bis Mai und von Oktober bis Dezember wehen. Diese Gewässer sind Lebensraum für Meeressäuger wie den Buckelwal (Megaptera novaeangliae) und den Großen Tümmler (Tursiops truncatus). Die Fischerei ist intensiv; jährlich werden etwa 5.000 Tonnen Fisch gefangen. Die Wassertemperatur liegt ganzjährig zwischen 26 °C und 30 °C. Die Salinität beträgt durchschnittlich 35 ppt. Die Riffe sind durch Überfischung und Verschmutzung bedroht.",
+      hu: "Kismaayo tengeri vizei Szomália déli részén, az Indiai-óceánban találhatók. A terület híres gazdag tengeri élővilágáról, különösen a korallzátonyokról, amelyek több mint 300 halfajnak adnak otthont. A vizek átlagos mélysége 30 méter. A monszunok erősen befolyásolják az áramlatokat, a déli monszun június és szeptember között, az északi december és március között érkezik. Itt élnek a tengeri teknősök (pl. a kérgesteknős) és a cápák, például a fehérfoltos cápa. A halászati tevékenység jelentős, évente körülbelül 4 000 tonna halat fognak ki. A víz hőmérséklete 27-30 °C, sótartalma 35-36 ppt. A korallzátonyok degradációja aggodalomra ad okot, a fehérítés gyakori.",
+      ro: "Apele marine din largul Kismaayo se întind pe o suprafață de aproximativ 1.200 km², cu recife de corali care adăpostesc peste 300 de specii de pești. Adâncimea apei variază între 10 și 50 de metri. Apele sunt influențate de musonii sezonieri, care aduc nutrienți și susțin o productivitate ridicată. Aici se întâlnesc specii de mamifere marine, inclusiv delfinii și balenele. Peștii de recif, cum ar fi papagalul de mare (Scaridae) și peștii-clovn (Amphiprioninae), sunt abundenți. Pescuitul artizanal și industrial este important, cu o captură anuală estimată la 5.000 de tone. Temperatura apei se menține între 26-30°C, iar salinitatea este de 35 ppt. Recifele sunt amenințate de încălzirea globală și poluare.",
+      en: "The marine waters off Kismayo in southern Somalia cover an area of about 1,200 square kilometers, featuring extensive coral reef ecosystems. These reefs support over 300 fish species, including commercially important ones like tuna and snapper. Water depths range from 10 to 50 meters, with a mean depth of 30 meters. Seasonal monsoons drive nutrient upwelling, enhancing productivity. Marine mammals such as humpback whales and bottlenose dolphins are frequently sighted. The region is a vital fishing ground, with an annual catch of approximately 5,000 metric tons, sustaining local livelihoods. Sea surface temperatures are warm year-round, averaging 28°C, with salinity around 35 ppt. Conservation challenges include overfishing, coral bleaching due to rising temperatures, and pollution from coastal activities.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1.200 km²", "Fischarten: über 300", "Wassertiefe: 10-50 m", "Jährlicher Fischfang: 5.000 Tonnen", "Wassertemperatur: 26-30 °C", "Salinität: 35 ppt"],
+      hu: ["Terület: 1 200 km²", "Halfajok: több mint 300", "Átlagos mélység: 30 m", "Éves halfogás: 4 000 tonna", "Vízhőmérséklet: 27-30 °C", "Sótartalom: 35-36 ppt"],
+      ro: ["Suprafață: 1.200 km²", "Specii de pești: peste 300", "Adâncime: 10-50 m", "Captură anuală: 5.000 tone", "Temperatura apei: 26-30°C", "Salinitate: 35 ppt"],
+      en: ["Area: 1,200 km²", "Fish species: over 300", "Water depth range: 10-50 m", "Annual fish catch: 5,000 metric tons", "Average sea temperature: 28°C", "Salinity: 35 ppt"],
+    },
   },
   {
     id: "jowhar-floodplain-nature-v2",
     type: "river",
     parent: "SO-MD",
     coords: [45.5, 2.8],
-    name: { de: "Aue bei Jowhar", hu: "Ártér Jowhar közelében", ro: "Luncă lângă Jowhar", en: "Floodplain near Jowhar",
-image: "/poi-images/jowhar-floodplain-nature-v2.webp"
-},
+    name: { de: "Aue bei Jowhar", hu: "Ártér Jowhar közelében", ro: "Luncă lângă Jowhar", en: "Floodplain near Jowhar"},
+    image: "/poi-images/jowhar-floodplain-nature-v2.webp",
     description: { de: "Das Überschwemmungsgebiet des Shabelle-Flusses.", hu: "A Shabelle-folyó ártéri területe.", ro: "Zona inundabilă a râului Shabelle.", en: "The floodplain area of the Shabelle river." },
     facts: {
       de: ["Sehr fruchtbar", "Saisonal überschwemmt", "Landwirtschaftlich genutzt", "Schlick"],
       hu: ["Nagyon termékeny", "Szezonálisan elöntött", "Mezőgazdaságilag hasznosított", "Iszap"],
       ro: ["Foarte fertilă", "Inundată sezonier", "Utilizată agricol", "Mâl"],
       en: ["Very fertile", "Seasonally flooded", "Agriculturally used", "Silt"]
-    }, image: "/poi-images/jowhar-floodplain-nature-v2.webp"},
+    }, image: "/poi-images/jowhar-floodplain-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Überschwemmungsebene bei Jowhar liegt entlang des Flusses Shabelle im Süden Somalias. Sie erstreckt sich über etwa 300 Quadratkilometer und wird regelmäßig von saisonalen Überschwemmungen heimgesucht, die nährstoffreiche Sedimente ablagern. Der jährliche Niederschlag beträgt rund 450 mm. Die Böden sind fruchtbare Alluvialböden, ideal für Landwirtschaft. Hier werden vor allem Mais, Sesam und Bohnen angebaut. Die Feuchtgebiete bieten Lebensraum für Wasservögel wie den Rotschnabel-Madenhacker (Buphagus erythrorhynchus) und verschiedene Reiherarten. Die Region ist dicht besiedelt, mit rund 200.000 Menschen, die von der Landwirtschaft leben. Die Überflutungen treten hauptsächlich während der Regenzeiten von April bis Juni und Oktober bis Dezember auf. Bewässerungssysteme verbessern die Erträge.",
+      hu: "A Jowhar környéki ártér a Shabelle-folyó mentén található, mintegy 300 négyzetkilométeren. A területet évente kétszer öntik el a folyó áradásai, amelyek termékeny üledéket hagynak hátra. Az éves csapadék 450 mm. A talajok alluviális eredetűek, kiváló mezőgazdasági adottságokkal. A főbb növények a kukorica, a szezám és a bab. Az ártér fontos ökológiai terület, számos madárfaj (pl. gémek, kócsagok) él itt. A lakosság mintegy 250 000 fő, akik főként mezőgazdaságból élnek. Az áradások általában március-május és október-december között következnek be. Árvízvédelmi rendszerek és csatornák segítik a termelést.",
+      ro: "Câmpia inundabilă Jowhar se întinde de-a lungul râului Shabelle, acoperind aproximativ 300 km². Inundațiile sezoniere, care au loc de două ori pe an, depun sedimente aluvionare bogate, făcând solul extrem de fertil. Precipitațiile anuale sunt de 450 mm. Culturile principale includ porumb, susan și fasole. Zona este un habitat important pentru păsări acvatice, cum ar fi stârcii și egretele. Populația umană este densă, estimată la 200.000 de locuitori, care practică agricultura de subzistență. Sistemele de irigații, bazate pe canale, extind terenurile agricole. Inundațiile pot fi distructive, dar și esențiale pentru reînnoirea fertilității solului. Schimbările climatice afectează regularitatea inundațiilor.",
+      en: "The Jowhar floodplain is a fertile agricultural region along the Shabelle River in southern Somalia, covering approximately 300 square kilometers. Seasonal floods deposit nutrient-rich alluvial soils, enabling intensive cultivation of crops like maize, sesame, and beans. Annual rainfall averages 450 mm, supplemented by river water for irrigation. The floodplain supports diverse wildlife, including waterbirds such as herons and storks. The area is densely populated, with around 200,000 residents engaged in farming. Flooding typically occurs during the rainy seasons from April to June and October to December, although river regulation has altered natural patterns. Soil fertility is high, but vulnerability to drought and flooding necessitates resilient farming practices. The region also serves as an important grazing ground for livestock during dry periods.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 300 km²", "Jährlicher Niederschlag: 450 mm", "Bevölkerung: ca. 200.000", "Hauptanbauprodukte: Mais, Sesam, Bohnen", "Überschwemmungszeiten: April-Juni, Oktober-Dezember", "Bodentyp: Alluvialboden"],
+      hu: ["Terület: 300 km²", "Éves csapadék: 450 mm", "Lakosság: 250 000 fő", "Fő növények: kukorica, szezám, bab", "Áradások: március-május, október-december", "Talajtípus: alluviális"],
+      ro: ["Suprafață: 300 km²", "Precipitații anuale: 450 mm", "Populație: 200.000 locuitori", "Culturi principale: porumb, susan, fasole", "Perioade de inundații: aprilie-iunie, octombrie-decembrie", "Sol aluvial fertil"],
+      en: ["Area: 300 km²", "Annual rainfall: 450 mm", "Population: approx. 200,000", "Main crops: maize, sesame, beans", "Flood seasons: April-June, October-December", "Soil type: alluvial"],
+    },
+  },
   {
     id: "mudug-savanna-nature-v2",
     type: "forest",
     parent: "SO-MU",
     coords: [47.5, 6.0],
-    name: { de: "Mudug Savanne", hu: "Mudug szavanna", ro: "Savana Mudug", en: "Mudug savanna",
-image: "/poi-images/mudug-savanna-nature-v2.webp"
-},
+    name: { de: "Mudug Savanne", hu: "Mudug szavanna", ro: "Savana Mudug", en: "Mudug savanna"},
+    image: "/poi-images/mudug-savanna-nature-v2.webp",
     description: { de: "Eine weite Savannenlandschaft in Mudug.", hu: "Hatalmas szavannatáj Mudugban.", ro: "Un vast peisaj de savană în Mudug.", en: "A vast savanna landscape in Mudug." },
     facts: {
       de: ["Karge Vegetation", "Weite Flächen", "Nomadengebiet", "Trocken"],
       hu: ["Gyér növényzet", "Hatalmas terek", "Nomádterület", "Száraz"],
       ro: ["Vegetație rară", "Zone vaste", "Zonă nomadă", "Aridă"],
       en: ["Sparse vegetation", "Vast areas", "Nomadic region", "Dry"]
-    }, image: "/poi-images/mudug-savanna-nature-v2.webp"},
+    }, image: "/poi-images/mudug-savanna-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mudug-Savanne im zentralen Somalia erstreckt sich über eine Fläche von etwa 30.000 Quadratkilometern. Es ist eine semi-aride Region mit jährlichen Niederschlägen zwischen 200 und 400 mm. Die Vegetation besteht hauptsächlich aus Akazien und Dornbüschen. Die Landschaft ist flach bis wellig, mit vereinzelten Granitfelsen. Die Savanne ist Lebensraum für Großsäuger wie die Somali-Wildesel (Equus africanus somaliensis) und die Giraffengazelle (Litocranius walleri). Die menschliche Bevölkerung besteht aus nomadischen Viehzüchtern, die Rinder, Kamele und Ziegen halten. Die Bevölkerungsdichte ist mit weniger als 5 Einwohnern pro Quadratkilometer sehr gering. Die Durchschnittstemperatur beträgt 30 °C. Wasserknappheit ist ein großes Problem; die meisten Wasserlöcher trocknen während der Trockenzeit aus.",
+      hu: "A Mudug-szavanna Közép-Szomáliában található, területe körülbelül 30 000 km². Az éghajlat száraz, az éves csapadék 250-400 mm. A növényzetet akácok és tövises bokrok uralják. A terület fontos legelő a nomád pásztorok számára, akik szarvasmarhát, tevét és juhot tartanak. A vadon élő állatok közé tartozik a szomáliai vadszamár és a gerenu. A talajok homokosak és soványak. Az átlaghőmérséklet 30 °C, a nyári hónapokban akár 40 °C is lehet. A vízellátás korlátozott, a felszíni vizek időszakosak. A populáció ritka, kb. 2 fő/km². A szavannát tűzveszély fenyegeti a száraz évszakban.",
+      ro: "Savana Mudug se întinde pe aproximativ 30.000 km² în centrul Somaliei. Clima este semi-aridă, cu precipitații anuale de 200-400 mm. Vegetația constă în principal din salcâmi și arbuști spinoși. Această regiune este utilizată pentru pășunat de către păstorii nomazi, care cresc vite, capre și cămile. Fauna sălbatică include măgarul sălbatic somalez (Equus africanus somaliensis) și antilopa gerenuk (Litocranius walleri). Solurile sunt nisipoase și sărace în nutrienți. Temperatura medie anuală este de 30°C, cu maxime de peste 40°C. Resursele de apă sunt limitate, cu râuri sezoniere rare. Densitatea populației este foarte scăzută, sub 2 locuitori/km². Incendiile de vegetație sunt frecvente în sezonul uscat.",
+      en: "The Mudug savanna covers roughly 30,000 square kilometers in central Somalia, characterized by semi-arid conditions with annual rainfall of 200-400 mm. The vegetation is dominated by Acacia trees and thorny scrub, adapted to drought. This ecosystem supports a variety of wildlife, including the critically endangered Somali wild ass (Equus africanus somaliensis) and the slender-horned gazelle (Gazella leptoceros). The area is primarily used for nomadic pastoralism, with herders raising cattle, camels, and goats. Soils are sandy and infertile. Average temperatures hover around 30°C, with hot spells exceeding 40°C. Water scarcity is acute; surface water is only available during the brief rainy seasons. Population density is extremely low, less than 2 people per km². Overgrazing and deforestation are leading causes of land degradation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 30.000 km²", "Niederschlag: 200-400 mm/Jahr", "Durchschnittstemperatur: 30 °C", "Bevölkerungsdichte: unter 5 Einwohner/km²", "Wildtiere: Somali-Wildesel, Giraffengazelle", "Vegetation: Akazien und Dornbüsche"],
+      hu: ["Terület: 30 000 km²", "Éves csapadék: 250-400 mm", "Átlaghőmérséklet: 30 °C", "Népsűrűség: kb. 2 fő/km²", "Vadon élő állatok: szomáliai vadszamár, gerenu", "Talajtípus: homokos"],
+      ro: ["Suprafață: 30.000 km²", "Precipitații: 200-400 mm/an", "Temperatura medie: 30°C", "Densitatea populației: < 2 loc./km²", "Faună: măgar sălbatic somalez, gerenuk", "Vegetație: salcâmi, arbuști spinoși"],
+      en: ["Area: 30,000 km²", "Annual rainfall: 200-400 mm", "Average temperature: 30°C", "Population density: < 2/km²", "Key wildlife: Somali wild ass, gerenuk", "Dominant vegetation: Acacia woodland"],
+    },
+  },
   {
     id: "cal-madow-forest-nature-v2",
     type: "forest",
     parent: "SO-SA",
     coords: [48.7, 11.1],
-    name: { de: "Cal Madow Wald", hu: "Cal Madow erdő", ro: "Pădurea Cal Madow", en: "Cal Madow forest",
-image: "/poi-images/cal-madow-forest-nature-v2.webp"
-},
+    name: { de: "Cal Madow Wald", hu: "Cal Madow erdő", ro: "Pădurea Cal Madow", en: "Cal Madow forest"},
+    image: "/poi-images/cal-madow-forest-nature-v2.webp",
     description: { de: "Wälder in der Cal Madow Bergregion.", hu: "Erdők a Cal Madow hegyvidéken.", ro: "Păduri în regiunea montană Cal Madow.", en: "Forests in the Cal Madow mountain region." },
     facts: {
       de: ["Immergrün", "Nebelwaldartige Zonen", "Artenreich", "Sehr abgelegen"],
       hu: ["Örökzöld", "Ködös erdőhöz hasonló zónák", "Fajgazdag", "Nagyon távoli"],
       ro: ["Veșnic verde", "Zone asemănătoare pădurilor de ceață", "Bogată în specii", "Foarte izolată"],
       en: ["Evergreen", "Cloud forest-like zones", "Biodiverse", "Very remote"]
-    }, image: "/poi-images/cal-madow-forest-nature-v2.webp"},
+    }, image: "/poi-images/cal-madow-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Cal-Madow-Wald im Nordosten Somalias ist ein seltenes Nebelwald-Ökosystem auf einem Kalksteinplateau. Er bedeckt etwa 50 Quadratkilometer und liegt auf Höhen zwischen 1.200 und 1.800 Metern. Der jährliche Niederschlag beträgt 600-800 mm, dazu kommt regelmäßige Nebelfeuchte. Die Vegetation besteht aus dichten Beständen von Wacholder (Juniperus procera) und Olivenbäumen (Olea europaea subsp. cuspidata). Der Wald beherbergt endemische Vogelarten wie den Somalia-Mausvogel (Colius castanonotus) und seltene Säugetiere wie den Somalischen Zwerggalago (Galago gallarum). Die Temperaturen sind mild, 10-20 °C. Der Wald ist durch Abholzung und Überweidung bedroht. Schutzgebiete wurden eingerichtet, aber Durchsetzung ist schwierig.",
+      hu: "A Cal Madow-erdő Szomália északkeleti részén, egy mészkőfennsíkon található, ritka felhőerdő ökoszisztéma. Területe kb. 50 km², magassága 1 200-1 800 m. Az éves csapadék 600-800 mm, a ködképződés gyakori. A növényzetet boróka (Juniperus procera) és olajfa (Olea europaea) uralja. Endemikus madarak, mint a szomáliai egérmadár (Colius castanonotus), és emlősök, mint a szomáliai törpegalago (Galago gallarum) élnek itt. Az erdőt fakitermelés és legeltetés fenyegeti. Az átlaghőmérséklet 15 °C. Az erdő fontos vízforrás a környező területek számára. Védett területként nyilvántartott, de a gyakorlati védelem hiányos.",
+      ro: "Pădurea Cal Madow este o pădure de ceață rară din nord-estul Somaliei, situată pe un platou calcaros la altitudini de 1.200-1.800 m. Acoperă aproximativ 50 km². Precipitațiile anuale sunt de 600-800 mm, completate de umiditatea din ceață. Vegetația include ienupăr (Juniperus procera) și măslin sălbatic (Olea europaea). Este un habitat critic pentru păsări endemice, cum ar fi pasărea șoarece somaleză (Colius castanonotus) și pentru primate precum galago pitic somalez (Galago gallarum). Temperaturile sunt moderate, cu medii de 15°C. Pădurea este amenințată de defrișări și pășunat excesiv. Eforturile de conservare vizează protejarea acestui ecosistem unic, dar resursele sunt limitate.",
+      en: "The Cal Madow forest is a rare cloud forest ecosystem in northeastern Somalia, located on a limestone plateau at elevations of 1,200 to 1,800 meters. Covering about 50 square kilometers, it receives 600-800 mm of rainfall annually, supplemented by frequent fog. The forest is dominated by African juniper (Juniperus procera) and wild olive trees (Olea europaea subsp. cuspidata). It hosts several endemic bird species, including the Somali mousebird (Colius castanonotus) and the golden-winged grosbeak (Rhynchostruthus socotranus). Mammals include the Somali dwarf galago (Galago gallarum) and the leopard (Panthera pardus). The forest is of great ecological importance, acting as a water tower for surrounding lowlands. Threats include logging, charcoal production, and overgrazing. Conservation measures have been proposed, but implementation remains challenging.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50 km²", "Höhenlage: 1.200-1.800 m", "Niederschlag: 600-800 mm/Jahr", "Charakterbaum: Juniperus procera", "Endemische Vogelart: Somalia-Mausvogel", "Temperaturbereich: 10-20 °C"],
+      hu: ["Terület: 50 km²", "Magasság: 1 200-1 800 m", "Éves csapadék: 600-800 mm", "Uralkodó fajok: boróka, olajfa", "Endemikus madár: szomáliai egérmadár", "Átlaghőmérséklet: 15 °C"],
+      ro: ["Suprafață: 50 km²", "Altitudine: 1.200-1.800 m", "Precipitații: 600-800 mm/an", "Specii dominante: ienupăr, măslin sălbatic", "Pasăre endemică: pasărea șoarece somaleză", "Temperatura medie: 15°C"],
+      en: ["Area: 50 km²", "Elevation range: 1,200-1,800 m", "Annual rainfall: 600-800 mm", "Dominant tree species: Juniperus procera", "Endemic bird: Somali mousebird", "Average temperature: 15°C"],
+    },
+  },
   {
     id: "golis-northern-slope-nature-v2",
     type: "mountain",
     parent: "SO-WO",
     coords: [44.5, 10.0],
-    name: { de: "Nordhang des Golis-Gebirges", hu: "A Golis-hegység északi lejtője", ro: "Versantul nordic al munților Golis", en: "Northern slope of Golis Mountains",
-image: "/poi-images/golis-northern-slope-nature-v2.webp"
-},
+    name: { de: "Nordhang des Golis-Gebirges", hu: "A Golis-hegység északi lejtője", ro: "Versantul nordic al munților Golis", en: "Northern slope of Golis Mountains"},
+    image: "/poi-images/golis-northern-slope-nature-v2.webp",
     description: { de: "Der zum Golf von Aden abfallende Hang.", hu: "Az Ádeni-öböl felé lejtő oldal.", ro: "Versantul care coboară spre Golful Aden.", en: "The slope falling towards the Gulf of Aden." },
     facts: {
       de: ["Steil abfallend", "Gute Aussicht", "Vegetationszonen", "Felsig"],
       hu: ["Meredeken lejtő", "Jó kilátás", "Növényzeti zónák", "Sziklás"],
       ro: ["În pantă abruptă", "Vedere bună", "Zone de vegetație", "Stâncos"],
       en: ["Steeply sloping", "Good view", "Vegetation zones", "Rocky"]
-    }, image: "/poi-images/golis-northern-slope-nature-v2.webp"},
+    }, image: "/poi-images/golis-northern-slope-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nordhang des Golis-Gebirges in Nordost-Somalia fällt steil zum Golf von Aden ab. Die Hänge sind von tiefen Schluchten durchzogen und weisen Höhenunterschiede von bis zu 1.500 Metern auf. Die jährliche Niederschlagsmenge beträgt 300-500 mm, lokal durch Nebel erhöht. Die Vegetation ist von Trockenwald und Macchia geprägt, mit Akazien und Wolfsmilchgewächsen. Der Hang ist Lebensraum für die seltene Somali-Wüstengazelle (Gazella dorcas) und den Klippspringer (Oreotragus oreotragus). Die Böden sind steinig und erosionsanfällig. Die menschliche Nutzung beschränkt sich auf extensive Viehzucht. Die Durchschnittstemperatur liegt bei 25 °C. Die Region ist wichtig für die Biodiversität des Horns von Afrika.",
+      hu: "A Golis-hegység északi lejtője Szomália északkeleti részén, az Ádeni-öböl felé meredeken ereszkedik. A lejtőket mély szurdokok tagolják, a szintkülönbség akár 1 500 m is lehet. Az éves csapadék 300-500 mm. A növényzet száraz erdő és macchia, akácokkal és kutyatejfélékkel. Állatok: szomáliai gazella és sziklazerge. A talaj köves, erózióra hajlamos. A helyi lakosság juhtenyésztéssel foglalkozik. Az átlaghőmérséklet 25 °C. A terület a Sziámi-szarvú orrszarvú egykori élőhelye. Az élőhelyet a túllegeltetés és az erózió fenyegeti.",
+      ro: "Versantul nordic al Munților Golis, situat în nord-estul Somaliei, coboară abrupt spre Golful Aden. Pantele sunt străbătute de chei adânci, cu diferențe de altitudine de până la 1.500 m. Precipitațiile anuale sunt de 300-500 mm. Vegetația constă în păduri uscate și maki, cu salcâmi și euforbii. Fauna include gazela deșertică somaleză (Gazella dorcas) și antilopa săritoare (Oreotragus oreotragus). Solurile sunt pietroase și predispuse la eroziune. Populația umană este rară, practicând pășunatul extensiv. Temperatura medie este de 25°C. Această regiune este importantă pentru conservarea biodiversității Cornului Africii.",
+      en: "The northern slope of the Golis Mountains in northeastern Somalia descends steeply towards the Gulf of Aden, with an elevation difference of up to 1,500 meters. The slopes are dissected by deep ravines and gullies. Annual rainfall ranges from 300 to 500 mm, with occasional fog providing additional moisture. Vegetation is typical of dry montane woodland, with Acacia, Commiphora, and Euphorbia species. The area provides habitat for mammals such as the Somali dorcas gazelle (Gazella dorcas) and the klipspringer (Oreotragus oreotragus). Birdlife includes the Arabian bustard (Ardeotis arabs). Soils are shallow and rocky, prone to erosion. Human activity is limited to small-scale livestock grazing. The slope is a key corridor for wildlife movement between the highlands and the coast.",
+    },
+    factsAdvanced: {
+      de: ["Höhenunterschied: bis zu 1.500 m", "Niederschlag: 300-500 mm/Jahr", "Durchschnittstemperatur: 25 °C", "Charaktertier: Somali-Wüstengazelle", "Vegetationstyp: Trockenwald und Macchia", "Bodenart: steinig, erosionsanfällig"],
+      hu: ["Szintkülönbség: 1 500 m", "Éves csapadék: 300-500 mm", "Átlaghőmérséklet: 25 °C", "Jellegzetes állat: szomáliai gazella", "Növényzet: száraz erdő, macchia", "Talaj: köves"],
+      ro: ["Diferență de altitudine: 1.500 m", "Precipitații: 300-500 mm/an", "Temperatura medie: 25°C", "Faună reprezentativă: gazela somaleză, antilopa săritoare", "Vegetație: pădure uscată, maki", "Sol pietros"],
+      en: ["Elevation gradient: up to 1,500 m", "Annual rainfall: 300-500 mm", "Average temperature: 25°C", "Characteristic mammal: Somali dorcas gazelle", "Vegetation type: dry montane woodland", "Soil type: rocky, erosive"],
+    },
+  },
   {
     id: "karkar-mountains-nature-v2",
     type: "mountain",
     parent: "SO-BR",
     coords: [49.5, 9.0],
-    name: { de: "Karkar-Gebirge", hu: "Karkar-hegység", ro: "Munții Karkar", en: "Karkar Mountains",
-image: "/poi-images/karkar-mountains-nature-v2.webp"
-},
+    name: { de: "Karkar-Gebirge", hu: "Karkar-hegység", ro: "Munții Karkar", en: "Karkar Mountains"},
+    image: "/poi-images/karkar-mountains-nature-v2.webp",
     description: { de: "Ein Gebirgszug im Nordosten Somalias.", hu: "Egy hegyvonulat Szomália északkeleti részén.", ro: "Un lanț muntos în nord-estul Somaliei.", en: "A mountain range in northeastern Somalia." },
     facts: {
       de: ["Trockenes Hochland", "Ausgedehnt", "Karge Landschaft", "Kalksteinplateaus"],
       hu: ["Száraz fennsík", "Kiterjedt", "Kopár táj", "Mészkőfennsíkok"],
       ro: ["Podiș arid", "Extins", "Peisaj kopár", "Platouri calcaroase"],
       en: ["Dry highland", "Extensive", "Barren landscape", "Limestone plateaus"]
-    }, image: "/poi-images/karkar-mountains-nature-v2.webp"},
+    }, image: "/poi-images/karkar-mountains-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Karkar-Berge in Nordzentralsomalia sind ein Gebirgszug mit Höhen bis zu 1.800 Metern. Das Klima ist semi-arid mit 400-600 mm Niederschlag jährlich. Die Vegetation umfasst Wacholderwälder in höheren Lagen und Akaziensavannen in tieferen. Die Berge sind eine wichtige Wasserscheide. Endemische Arten wie der Somalia-Steinschmätzer (Oenanthe phillipsi) kommen hier vor. Die Böden sind flach und steinig. Die Bevölkerung besteht aus Nomaden, die Kamele und Ziegen halten. Die Durchschnittstemperatur beträgt 22 °C. Die Berge sind durch Überweidung und Klimawandel bedroht.",
+      hu: "A Karkar-hegység Közép-Észak-Szomáliában található, legmagasabb pontja 1 800 m. Az éghajlat félszáraz, éves csapadék 400-600 mm. A növényzet felső részeken borókaerdő, alsó részeken akácos szavanna. A hegység fontos vízválasztó. Endemikus madár a szomáliai hantmadár (Oenanthe phillipsi). A talaj sekély, köves. A lakosság nomád pásztor. Átlaghőmérséklet 22 °C. A túllegeltetés és az erózió problémát jelent.",
+      ro: "Munții Karkar din centrul-nordul Somaliei ating altitudini de până la 1.800 m. Clima este semi-aridă, cu precipitații anuale de 400-600 mm. Vegetația include păduri de ienupăr la altitudini mari și savane de salcâm la cote mai joase. Munții reprezintă o importantă linie de cumpănă a apelor. Specii endemice includ păsări precum Oenanthe phillipsi. Solurile sunt superficiale și pietroase. Populația este compusă din păstori nomazi. Temperatura medie este de 22°C. Amenințările includ pășunatul excesiv și schimbările climatice.",
+      en: "The Karkar Mountains in north-central Somalia rise to elevations of up to 1,800 meters, forming a rugged terrain with steep slopes. The climate is semi-arid, with 400-600 mm of rainfall per year. Vegetation changes with altitude: juniper forests occur above 1,400 meters, while lower slopes feature acacia woodland and scrub. The mountains are an important watershed, feeding seasonal streams. Endemic bird species include the Somali wheatear (Oenanthe phillipsi). Soils are shallow and stony. Human activities are limited to nomadic pastoralism, with herds of goats and camels. Average temperature is around 22°C. The ecosystem is vulnerable to overgrazing and drought. Conservation efforts aim to prevent further degradation of these montane habitats.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe: 1.800 m", "Niederschlag: 400-600 mm/Jahr", "Durchschnittstemperatur: 22 °C", "Vegetationszonen: Wacholderwald, Akaziensavanne", "Endemische Vogelart: Somalia-Steinschmätzer", "Wichtige Wasserscheide"],
+      hu: ["Legmagasabb pont: 1 800 m", "Éves csapadék: 400-600 mm", "Átlaghőmérséklet: 22 °C", "Növényzet: boróka, akácos", "Endemikus madár: szomáliai hantmadár", "Vízválasztó szerep"],
+      ro: ["Altitudine maximă: 1.800 m", "Precipitații: 400-600 mm/an", "Temperatura medie: 22°C", "Vegetație: ienupăr, salcâm", "Pasăre endemică: Oenanthe phillipsi", "Cumpănă de ape importantă"],
+      en: ["Maximum elevation: 1,800 m", "Annual rainfall: 400-600 mm", "Average temperature: 22°C", "Vegetation zones: juniper forest, acacia savanna", "Endemic bird: Somali wheatear", "Important watershed"],
+    },
+  },
   {
     id: "ras-xaafuun-nature-v2",
     type: "sea",
     parent: "SO-BR",
     coords: [51.4, 10.4],
-    name: { de: "Ras Xaafuun", hu: "Ras Xaafuun", ro: "Ras Xaafuun", en: "Ras Xaafuun",
-image: "/poi-images/ras-xaafuun-nature-v2.webp"
-},
+    name: { de: "Ras Xaafuun", hu: "Ras Xaafuun", ro: "Ras Xaafuun", en: "Ras Xaafuun"},
+    image: "/poi-images/ras-xaafuun-nature-v2.webp",
     description: { de: "Der östlichste Punkt Afrikas.", hu: "Afrika legkeletibb pontja.", ro: "Cel mai estic punct al Africii.", en: "The easternmost point of Africa." },
     facts: {
       de: ["Windeinfluss", "Felsige Küste", "Starke Meeresströmungen", "Historischer Standort"],
       hu: ["Szélhatás", "Sziklás part", "Erős tengeráramlatok", "Történelmi helyszín"],
       ro: ["Influența vântului", "Coastă stâncoasă", "Curenți marini puternici", "Locație istorică"],
       en: ["Wind influence", "Rocky coast", "Strong marine currents", "Historical location"]
-    }, image: "/poi-images/ras-xaafuun-nature-v2.webp"},
+    }, image: "/poi-images/ras-xaafuun-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Ras Xaafuun ist ein Kap an der Nordostküste Somalias, das sich etwa 40 Kilometer ins Meer erstreckt. Es ist die östlichste Spitze Afrikas. Die Landschaft ist flach und felsig, mit Kalksteinfelsen. Die jährliche Niederschlagsmenge beträgt weniger als 200 mm. Die Vegetation besteht aus spärlichen Sträuchern und Sukkulenten. Das Kap ist ein wichtiger Rastplatz für Zugvögel. Die umliegenden Gewässer sind reich an Meeresleben. Die Bevölkerung ist gering, einige Fischerdörfer. Die Durchschnittstemperatur beträgt 28 °C. Starke Winde und Meeresströmungen prägen die Region.",
+      hu: "Ras Xaafuun egy félsziget Északkelet-Szomália partjainál, Afrika legkeletibbi pontja. Hossza kb. 40 km. A táj sík és sziklás, mészkőből. Az éves csapadék kevesebb, mint 200 mm. A növényzet ritka, pozsgásokkal. A félsziget fontos madárpihenőhely. A vizek gazdagok halakban. A lakosság halászokból áll. Átlaghőmérséklet 28 °C. Erős szelek jellemzik.",
+      ro: "Ras Xaafuun este un cap de pe coasta de nord-est a Somaliei, punctul cel mai estic al Africii. Se întinde pe aproximativ 40 km în mare. Peisajul este plat și stâncos, cu calcar. Precipitațiile anuale sunt sub 200 mm. Vegetația este rară, cu tufișuri și suculente. Este un loc important de odihnă pentru păsările migratoare. Apele sunt bogate în pești. Populația este formată din pescari. Temperatura medie este de 28°C. Vânturile puternice și curenții marini sunt caracteristici.",
+      en: "Ras Xaafuun is a prominent cape on the northeastern coast of Somalia, extending about 40 kilometers into the Indian Ocean. It is the easternmost point of the African mainland. The terrain is low-lying and rocky, composed primarily of limestone. Annual rainfall is below 200 mm, making it an arid environment. Vegetation is sparse, with hardy shrubs and succulents. The cape is a critical stopover site for migratory birds along the East African flyway. The surrounding waters support productive fisheries, with tuna and sardines being common. Human settlement is limited to a few fishing villages. Average temperatures hover around 28°C, and strong monsoon winds shape the coastline. The area is relatively undeveloped, with potential for ecotourism.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 40 km", "Östlichster Punkt Afrikas", "Niederschlag: unter 200 mm/Jahr", "Durchschnittstemperatur: 28 °C", "Geologie: Kalkstein", "Wichtiger Vogelrastplatz"],
+      hu: ["Hossz: 40 km", "Afrika legkeletibb pontja", "Éves csapadék: < 200 mm", "Átlaghőmérséklet: 28 °C", "Kőzet: mészkő", "Madárpihenőhely"],
+      ro: ["Lungime: ~40 km", "Cel mai estic punct al Africii", "Precipitații: < 200 mm/an", "Temperatura medie: 28°C", "Geologie: calcar", "Loc de odihnă pentru păsări migratoare"],
+      en: ["Length: ~40 km", "Easternmost point of Africa", "Annual rainfall: < 200 mm", "Average temperature: 28°C", "Geology: limestone", "Important bird stopover site"],
+    },
+  },
   {
     id: "burao-valley-nature-v2",
     type: "river",
     parent: "SO-TO",
     coords: [45.5, 9.5],
-    name: { de: "Burao-Tal", hu: "Burao-völgy", ro: "Valea Burao", en: "Burao Valley",
-image: "/poi-images/burao-valley-nature-v2.webp"
-},
+    name: { de: "Burao-Tal", hu: "Burao-völgy", ro: "Valea Burao", en: "Burao Valley"},
+    image: "/poi-images/burao-valley-nature-v2.webp",
     description: { de: "Ein trockenes Flusstal in der Region Togdheer.", hu: "Egy száraz folyóvölgy Togdheer régióban.", ro: "O vale de râu uscată în regiunea Togdheer.", en: "A dry river valley in the Togdheer region." },
     facts: {
       de: ["Saisonales Wasser", "Wichtig für Nomaden", "Trockenlandschaft", "Oft staubig"],
       hu: ["Szezonális víz", "Fontos a nomádoknak", "Száraz táj", "Gyakran poros"],
       ro: ["Apă sezonieră", "Important pentru nomazi", "Peisaj arid", "Deseori prăfuit"],
       en: ["Seasonal water", "Important for nomads", "Arid landscape", "Often dusty"]
-    }, image: "/poi-images/burao-valley-nature-v2.webp"},
+    }, image: "/poi-images/burao-valley-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Burao-Tal im Norden Somalias ist ein weites, flaches Tal, das von saisonalen Flüssen durchzogen wird. Es liegt auf etwa 1.000 Metern Höhe. Die jährliche Niederschlagsmenge beträgt 300-500 mm. Die Vegetation besteht aus Akazien und Grasland. Das Tal ist ein wichtiges landwirtschaftliches Gebiet, in dem Sorghum und Mais angebaut werden. Die Bevölkerung beträgt rund 200.000 Menschen. Das Tal ist auch für seine Viehmärkte bekannt. Die Durchschnittstemperatur beträgt 25 °C. Bewässerungssysteme nutzen Grundwasser. Die Region leidet unter Dürren.",
+      hu: "A Burao-völgy Észak-Szomáliában található, széles, lapos völgy időszakos folyókkal. Tengerszint feletti magassága 1 000 m. Az éves csapadék 300-500 mm. Növényzet: akácok és füves területek. Fontos mezőgazdasági terület, ahol cirokot és kukoricát termesztenek. Lakosság kb. 200 000 fő. Híres állatpiacairól. Átlaghőmérséklet 25 °C. Öntözés talajvízből. Aszályok gyakran előfordulnak.",
+      ro: "Valea Burao din nordul Somaliei este o vale largă și plană, străbătută de râuri sezoniere. Se situează la aproximativ 1.000 m altitudine. Precipitațiile anuale sunt de 300-500 mm. Vegetația constă în salcâmi și pajiști. Este o zonă agricolă importantă, unde se cultivă sorg și porumb. Populația este de aproximativ 200.000 de locuitori. Valea este cunoscută pentru piețele de animale. Temperatura medie este de 25°C. Irigațiile utilizează ape subterane. Regiunea se confruntă cu secete frecvente.",
+      en: "The Burao Valley in northern Somalia is a broad, flat valley situated at an elevation of about 1,000 meters. It is drained by seasonal rivers that flow only during rains. Annual rainfall ranges from 300 to 500 mm. The vegetation is a mosaic of acacia woodland and grasslands. The valley is a key agricultural area, producing sorghum and maize for local consumption and trade. It is also a major livestock marketing hub, with large herds of sheep, goats, and camels traded at Burao town. The population is around 200,000, mostly agro-pastoralists. Average temperatures are moderate at 25°C. Irrigation from groundwater supports dry-season farming. Droughts are common, posing risks to food security.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 1.000 m", "Niederschlag: 300-500 mm/Jahr", "Bevölkerung: ca. 200.000", "Hauptanbau: Sorghum, Mais", "Durchschnittstemperatur: 25 °C", "Wichtiger Viehmarkt"],
+      hu: ["Magasság: 1 000 m", "Éves csapadék: 300-500 mm", "Lakosság: 200 000 fő", "Fő termények: cirok, kukorica", "Átlaghőmérséklet: 25 °C", "Állatpiacairól híres"],
+      ro: ["Altitudine: ~1.000 m", "Precipitații: 300-500 mm/an", "Populație: ~200.000 locuitori", "Culturi principale: sorg, porumb", "Temperatura medie: 25°C", "Piețe de animale importante"],
+      en: ["Elevation: ~1,000 m", "Annual rainfall: 300-500 mm", "Population: ~200,000", "Main crops: sorghum, maize", "Average temperature: 25°C", "Major livestock market"],
+    },
+  },
   {
     id: "gardafui-coast-nature-v2",
     type: "sea",
     parent: "SO-BR",
     coords: [51.3, 11.7],
-    name: { de: "Küste von Gardafui", hu: "Gardafui partja", ro: "Coasta Gardafui", en: "Gardafui Coast",
-image: "/poi-images/gardafui-coast-nature-v2.webp"
-},
+    name: { de: "Küste von Gardafui", hu: "Gardafui partja", ro: "Coasta Gardafui", en: "Gardafui Coast"},
+    image: "/poi-images/gardafui-coast-nature-v2.webp",
     description: { de: "Die zerklüftete Küste an der Spitze Somalias.", hu: "A sziklás part Szomália csúcsánál.", ro: "Coasta accidentată la vârful Somaliei.", en: "The rugged coast at the tip of Somalia." },
     facts: {
       de: ["Steilküste", "Tiefes Wasser", "Schiffahrtsroute", "Windig"],
       hu: ["Meredek part", "Mély víz", "Hajózási útvonal", "Szeles"],
       ro: ["Coastă abruptă", "Apă adâncă", "Rută de navigație", "Vântos"],
       en: ["Steep coast", "Deep water", "Shipping route", "Windy"]
-    }, image: "/poi-images/gardafui-coast-nature-v2.webp"},
+    }, image: "/poi-images/gardafui-coast-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gardafui-Küste im Nordosten Somalias erstreckt sich über etwa 100 Kilometer entlang des Golfs von Aden. Sie ist felsig und von Klippen geprägt. Die jährliche Niederschlagsmenge beträgt weniger als 150 mm. Die Vegetation ist extrem spärlich. Die Küste ist Lebensraum für Meeresschildkröten und Seevögel. Die Strömungen sind stark. Die Bevölkerung ist sehr gering. Die Durchschnittstemperatur beträgt 29 °C. Die Region ist bekannt für ihre wilden Kamele. Gezeitenströmungen beeinflussen die Navigation.",
+      hu: "A Gardafui-part Északkelet-Szomáliában, az Ádeni-öböl mentén húzódik kb. 100 km hosszan. Sziklás, meredek partok jellemzik. Az éves csapadék kevesebb, mint 150 mm. A növényzet rendkívül ritka. Tengeri teknősök és tengeri madarak élőhelye. Erős áramlatok. A lakosság nagyon ritka. Átlaghőmérséklet 29 °C. Vad tevék élnek itt. Az árapály befolyásolja a hajózást.",
+      ro: "Coasta Gardafui se întinde pe aproximativ 100 km de-a lungul Golfului Aden, în nord-estul Somaliei. Este stâncoasă, cu faleze. Precipitațiile anuale sunt sub 150 mm. Vegetația este extrem de rară. Este habitat pentru țestoase marine și păsări de mare. Curenții sunt puternici. Populația este foarte mică. Temperatura medie este de 29°C. Cunoscută pentru cămilele sălbatice. Curenții de maree afectează navigația.",
+      en: "The Gardafui Coast in northeastern Somalia stretches for about 100 kilometers along the Gulf of Aden. It is characterized by rugged cliffs and rocky shores. Arid conditions prevail, with annual rainfall below 150 mm. Vegetation is sparse, consisting of drought-tolerant shrubs. The coast is an important breeding ground for sea turtles, including the hawksbill turtle. Seabirds such as the sooty gull nest on the cliffs. Strong coastal currents and upwelling support marine productivity but hinder navigation. Human settlement is minimal, with a few nomadic herders. Average temperatures reach 29°C. The area is remote and largely untouched, with potential for conservation.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: ca. 100 km", "Niederschlag: unter 150 mm/Jahr", "Durchschnittstemperatur: 29 °C", "Lebensraum für Meeresschildkröten", "Starke Meeresströmungen", "Klippenküste"],
+      hu: ["Part hossza: 100 km", "Éves csapadék: < 150 mm", "Átlaghőmérséklet: 29 °C", "Tengeri teknősök élőhelye", "Erős áramlatok", "Sziklás part"],
+      ro: ["Lungimea coastei: ~100 km", "Precipitații: < 150 mm/an", "Temperatura medie: 29°C", "Habitat pentru țestoase marine", "Curenți marini puternici", "Faleze stâncoase"],
+      en: ["Coastline length: ~100 km", "Annual rainfall: < 150 mm", "Average temperature: 29°C", "Sea turtle nesting habitat", "Strong ocean currents", "Rocky cliff coastline"],
+    },
+  },
   {
     id: "ayaha-plains-nature-v2",
     type: "forest",
     parent: "SO-WO",
     coords: [44.2, 9.6],
-    name: { de: "Ayaha Ebenen", hu: "Ayaha síkság", ro: "Câmpiile Ayaha", en: "Ayaha Plains",
-image: "/poi-images/ayaha-plains-nature-v2.webp"
-},
+    name: { de: "Ayaha Ebenen", hu: "Ayaha síkság", ro: "Câmpiile Ayaha", en: "Ayaha Plains"},
+    image: "/poi-images/ayaha-plains-nature-v2.webp",
     description: { de: "Weite Ebenen mit spärlicher Vegetation.", hu: "Hatalmas síkságok gyér növényzettel.", ro: "Câmpii vaste cu vegetație rară.", en: "Vast plains with sparse vegetation." },
     facts: {
       de: ["Trockensteppe", "Nomadenweiden", "Sehr flach", "Sandig"],
       hu: ["Száraz sztyepp", "Nomád legelők", "Nagyon lapos", "Homokos"],
       ro: ["Stepă aridă", "Pășuni nomade", "Foarte plat", "Nisipos"],
       en: ["Dry steppe", "Nomadic pastures", "Very flat", "Sandy"]
-      }
+      },
+    descriptionAdvanced: {
+      de: "Die Ayaha-Ebene im Norden Somalias ist eine ausgedehnte, flache Halbwüste auf etwa 800 Metern Höhe. Sie erstreckt sich über rund 5.000 Quadratkilometer. Die jährliche Niederschlagsmenge beträgt 200-300 mm. Die Vegetation besteht aus Dornbüschen und Gräsern. Die Ebene wird von Nomaden zur Viehzucht genutzt. Wildtiere wie die Somali-Gazelle und Strauße kommen vor. Die Böden sind sandig bis lehmig. Die Durchschnittstemperatur beträgt 27 °C. Wassermangel ist ein ständiges Problem. Gelegentlich treten Überschwemmungen nach Starkregen auf.",
+      hu: "Az Ayaha-síkság Észak-Szomáliában található, kiterjedt, lapos félsivatag 800 m magasságban. Területe kb. 5 000 km². Éves csapadék 200-300 mm. Növényzet tövisbokrok és füvek. Nomád pásztorok használják. Vadon élő állatok: szomáliai gazella, strucc. Talaj homokos-agyagos. Átlaghőmérséklet 27 °C. Vízkorlátozás állandó. Hirtelen áradások előfordulhatnak.",
+      ro: "Câmpia Ayaha din nordul Somaliei este o semi-deșert întinsă, plană, la aproximativ 800 m altitudine. Se întinde pe ~5.000 km². Precipitațiile anuale sunt de 200-300 mm. Vegetația constă în tufișuri spinoase și ierburi. Este utilizată de păstorii nomazi pentru creșterea animalelor. Fauna include gazela somaleză și struțul. Solurile sunt nisipoase-lutoase. Temperatura medie este de 27°C. Lipsa apei este o problemă constantă. Inundațiile bruște pot apărea după ploi torențiale.",
+      en: "The Ayaha Plains in northern Somalia are an expansive semi-desert region at an elevation of around 800 meters, covering approximately 5,000 square kilometers. The climate is arid, with annual rainfall of 200-300 mm. Vegetation is sparse, dominated by thorny shrubs and seasonal grasses. The plains are used for extensive livestock grazing by nomadic pastoralists, primarily camels and goats. Wildlife includes the Soemmerring's gazelle (Gazella soemmerringii) and the Somali ostrich (Struthio molybdophanes). Soils are sandy loam, low in organic matter. Average temperatures are around 27°C, with high diurnal variation. Water sources are scarce, relying on boreholes and seasonal pans. Flash floods occasionally occur during heavy rains, causing erosion but also recharging groundwater.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 5.000 km²", "Höhe: 800 m", "Niederschlag: 200-300 mm/Jahr", "Durchschnittstemperatur: 27 °C", "Bodentyp: sandig-lehmig", "Wildtiere: Somali-Gazelle, Strauß"],
+      hu: ["Terület: 5 000 km²", "Magasság: 800 m", "Éves csapadék: 200-300 mm", "Átlaghőmérséklet: 27 °C", "Talaj: homokos-agyagos", "Vadon élő állatok: szomáliai gazella, strucc"],
+      ro: ["Suprafață: 5.000 km²", "Altitudine: 800 m", "Precipitații: 200-300 mm/an", "Temperatura medie: 27°C", "Sol: nisipos-lutos", "Faună: gazelă somaleză, struț"],
+      en: ["Area: 5,000 km²", "Elevation: 800 m", "Annual rainfall: 200-300 mm", "Average temperature: 27°C", "Soil type: sandy loam", "Key wildlife: Soemmerring's gazelle, Somali ostrich"],
+    },
   }
 ];
 

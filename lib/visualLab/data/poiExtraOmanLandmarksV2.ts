@@ -10,9 +10,8 @@ export const poiExtraOmanLandmarksV2: POI[] = [
       de: "Sultan-Qabus-Großmoschee",
       hu: "Sultan Qaboos nagymecset",
       ro: "Marea Moschee Sultan Qaboos",
-      en: "Sultan Qaboos Grand Mosque",
-image: "/poi-images/sultan-qaboos-grand-mosque-landmarks-v2.webp"
-},
+      en: "Sultan Qaboos Grand Mosque"},
+    image: "/poi-images/sultan-qaboos-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Diese majestätische Moschee in Maskat wurde aus indischem Sandstein erbaut und zeichnet sich durch zeitgenössische islamische Architektur aus. Ihr Hauptgebetssaal wird von einem massiven Kronleuchter aus Swarovski-Kristallen erhellt.",
       hu: "Ez a maszkati fenséges mecset indiai homokkőből épült, és a kortárs iszlám építészet remekműve. Fő imatermét egy hatalmas, Swarovski kristályokból készült csillár világítja meg.",
@@ -59,9 +58,8 @@ image: "/poi-images/sultan-qaboos-grand-mosque-landmarks-v2.webp"
       de: "Royal Opera House Maskat",
       hu: "Maszkati Királyi Operaház",
       ro: "Opera Regală Muscat",
-      en: "Royal Opera House Muscat",
-image: "/poi-images/royal-opera-house-muscat-landmarks-v2.webp"
-},
+      en: "Royal Opera House Muscat"},
+    image: "/poi-images/royal-opera-house-muscat-landmarks-v2.webp",
     description: {
       de: "Als führendes Zentrum für musikalische Künste im Oman vereint dieses Gebäude traditionelle omanische Ästhetik mit modernster Akustik. Es beherbergt Opernaufführungen, Konzerte und kulturelle Veranstaltungen von Weltklasse.",
       hu: "Omán zenei művészetének vezető központjaként ez az épület a hagyományos ománi esztétikát ötvözi a legmodernebb akusztikával. Világszínvonalú operaelőadásoknak és koncerteknek ad otthont.",
@@ -108,9 +106,8 @@ image: "/poi-images/royal-opera-house-muscat-landmarks-v2.webp"
       de: "Bimmah-Sinkhöhle",
       hu: "Bimmah-víznyelő",
       ro: "Dolina Bimmah",
-      en: "Bimmah Sinkhole",
-image: "/poi-images/bimmah-sinkhole-landmarks-v2.webp"
-},
+      en: "Bimmah Sinkhole"},
+    image: "/poi-images/bimmah-sinkhole-landmarks-v2.webp",
     description: {
       de: "Diese natürliche Karsthöhle ist mit türkisfarbenem Wasser gefüllt und liegt in einem Park nahe der Küste. Die Einheimischen glaubten früher, sie sei durch einen Meteoriteneinschlag entstanden.",
       hu: "Ez a türkizkék vízzel teli természetes karsztképződmény egy parkban található a part közelében. A helyiek régen úgy hitték, hogy egy meteorit becsapódása hozta létre.",
@@ -157,9 +154,8 @@ image: "/poi-images/bimmah-sinkhole-landmarks-v2.webp"
       de: "Wadi Shab",
       hu: "Wadi Shab",
       ro: "Wadi Shab",
-      en: "Wadi Shab",
-image: "/poi-images/wadi-shab-landmarks-v2.webp"
-},
+      en: "Wadi Shab"},
+    image: "/poi-images/wadi-shab-landmarks-v2.webp",
     description: {
       de: "Eine spektakuläre Schlucht mit smaragdgrünen Süßwasserpools, Wasserfällen und versteckten Höhlen. Sie zieht Wanderer und Naturliebhaber an, die die zerklüfteten Felsformationen erkunden wollen.",
       hu: "Látványos szurdok, smaragdzöld édesvizű medencékkel, vízesésekkel és rejtett barlangokkal. Különösen népszerű a túrázók és a természet szerelmesei körében.",
@@ -206,9 +202,8 @@ image: "/poi-images/wadi-shab-landmarks-v2.webp"
       de: "Wadi Bani Khalid",
       hu: "Wadi Bani Khalid",
       ro: "Wadi Bani Khalid",
-      en: "Wadi Bani Khalid",
-image: "/poi-images/wadi-bani-khalid-landmarks-v2.webp"
-},
+      en: "Wadi Bani Khalid"},
+    image: "/poi-images/wadi-bani-khalid-landmarks-v2.webp",
     description: {
       de: "Diese Wüstenoase ist das ganze Jahr über mit Wasser gefüllt und wird von Dattelpalmen gesäumt. Ihr tiefblaues Wasser bildet einen starken Kontrast zu den trockenen, rötlichen Felsen der Umgebung.",
       hu: "Ez a sivatagi oázis egész évben tele van vízzel, partjait pálmafák szegélyezik. A mélykék víz éles kontrasztot alkot a környező száraz, vöröses sziklákkal.",
@@ -255,9 +250,8 @@ image: "/poi-images/wadi-bani-khalid-landmarks-v2.webp"
       de: "Al-Alam-Palast",
       hu: "Al Alam Palota",
       ro: "Palatul Al Alam",
-      en: "Al Alam Palace",
-image: "/poi-images/al-alam-palace-landmarks-v2.webp"
-},
+      en: "Al Alam Palace"},
+    image: "/poi-images/al-alam-palace-landmarks-v2.webp",
     description: {
       de: "Der zeremonielle Palast von Sultan Qabus zeichnet sich durch seine blau-goldene Fassade und pilzförmigen Säulen aus. Er liegt im historischen Zentrum von Maskat, flankiert von alten Festungen.",
       hu: "Kábúsz szultán ceremoniális palotája kék-arany homlokzatával és gomba alakú oszlopaival tűnik ki. Maszkat történelmi központjában található, régi erődök ölelésében.",
@@ -304,9 +298,8 @@ image: "/poi-images/al-alam-palace-landmarks-v2.webp"
       de: "Muttrah Souq",
       hu: "Muttrah piac",
       ro: "Bazarul Muttrah",
-      en: "Muttrah Souq",
-image: "/poi-images/muttrah-souq-landmarks-v2.webp"
-},
+      en: "Muttrah Souq"},
+    image: "/poi-images/muttrah-souq-landmarks-v2.webp",
     description: {
       de: "Einer der ältesten Märkte der arabischen Welt, geprägt von verwinkelten Gassen und dem Duft nach Weihrauch und Gewürzen. Hier werden traditionelle omanische Handwerkskunst und Antiquitäten gehandelt.",
       hu: "Az arab világ egyik legrégebbi piaca, melyet kacskaringós sikátorok, valamint a tömjén és a fűszerek illata jellemez. Hagyományos ománi kézműves termékeket és régiségeket árulnak itt.",
@@ -353,9 +346,8 @@ image: "/poi-images/muttrah-souq-landmarks-v2.webp"
       de: "Dschebel Schams",
       hu: "Jebel Shams",
       ro: "Jebel Shams",
-      en: "Jebel Shams",
-image: "/poi-images/jebel-shams-landmarks-v2.webp"
-},
+      en: "Jebel Shams"},
+    image: "/poi-images/jebel-shams-landmarks-v2.webp",
     description: {
       de: "Bekannt als der 'Berg der Sonne', ist dies der höchste Gipfel Omans. Er bietet atemberaubende Ausblicke in das Wadi Ghul, das oft als der Grand Canyon Arabiens bezeichnet wird.",
       hu: "A 'Nap hegyeként' ismert Jebel Shams Omán legmagasabb csúcsa. Lélegzetelállító kilátást nyújt a Wadi Ghulra, amelyet gyakran Arábia Grand Canyonjának neveznek.",
@@ -402,9 +394,8 @@ image: "/poi-images/jebel-shams-landmarks-v2.webp"
       de: "Dschebel Achdar",
       hu: "Jebel Akhdar",
       ro: "Jebel Akhdar",
-      en: "Jebel Akhdar",
-image: "/poi-images/jebel-akhdar-landmarks-v2.webp"
-},
+      en: "Jebel Akhdar"},
+    image: "/poi-images/jebel-akhdar-landmarks-v2.webp",
     description: {
       de: "Der 'Grüne Berg' ist berühmt für seine kühlen Temperaturen und landwirtschaftlichen Terrassen. Hier werden Granatäpfel, Aprikosen und die für die Herstellung von Rosenwasser bekannten Rosen angebaut.",
       hu: "A 'Zöld-hegység' hűvös klímájáról és mezőgazdasági teraszairól híres. Gránátalmát, sárgabarackot, valamint a rózsavíz-készítéshez használt rózsákat termesztenek itt.",
@@ -451,9 +442,8 @@ image: "/poi-images/jebel-akhdar-landmarks-v2.webp"
       de: "Wahiba Sands",
       hu: "Wahiba sivatag",
       ro: "Nisipurile Wahiba",
-      en: "Wahiba Sands",
-image: "/poi-images/wahiba-sands-landmarks-v2.webp"
-},
+      en: "Wahiba Sands"},
+    image: "/poi-images/wahiba-sands-landmarks-v2.webp",
     description: {
       de: "Eine ausgedehnte Wüstenlandschaft mit kupferfarbenen Sanddünen, die sich im Wind ständig verändern. Sie ist die Heimat der Beduinen, die hier seit Jahrhunderten eine traditionelle Lebensweise pflegen.",
       hu: "Kiterjedt sivatagi táj, rézszínű homokdűnékkel, melyek formáját a szél folyamatosan alakítja. A beduinok otthona, akik évszázadok óta őrzik hagyományos életmódjukat.",
@@ -500,9 +490,8 @@ image: "/poi-images/wahiba-sands-landmarks-v2.webp"
       de: "Daymaniyat-Inseln",
       hu: "Daymaniyat-szigetek",
       ro: "Insulele Daymaniyat",
-      en: "Daymaniyat Islands",
-image: "/poi-images/daymaniyat-islands-landmarks-v2.webp"
-},
+      en: "Daymaniyat Islands"},
+    image: "/poi-images/daymaniyat-islands-landmarks-v2.webp",
     description: {
       de: "Ein geschütztes Archipel, das für seine unberührten Korallenriffe und sein kristallklares Wasser bekannt ist. Es ist einer der besten Orte im Oman, um Meeresschildkröten und Walhaie zu beobachten.",
       hu: "Védett szigetcsoport, amely érintetlen korallzátonyairól és kristálytiszta vizéről ismert. Omán egyik legjobb helyszíne a tengeri teknősök és érdescápák megfigyelésére.",
@@ -549,9 +538,8 @@ image: "/poi-images/daymaniyat-islands-landmarks-v2.webp"
       de: "Majlis al Jinn Höhle",
       hu: "Majlis al Jinn barlang",
       ro: "Peștera Majlis al Jinn",
-      en: "Majlis al Jinn Cave",
-image: "/poi-images/majlis-al-jinn-landmarks-v2.webp"
-},
+      en: "Majlis al Jinn Cave"},
+    image: "/poi-images/majlis-al-jinn-landmarks-v2.webp",
     description: {
       de: "Einer der größten unterirdischen Höhlenräume der Welt. Die Höhle hat keine sichtbaren Eingänge vom Boden aus, sondern ist nur über tiefe Schächte im Dach zugänglich.",
       hu: "A világ egyik legnagyobb földalatti barlangterme. A barlangnak nincs a felszínről látható vízszintes bejárata, csak a tetőn lévő mély aknákon keresztül közelíthető meg.",
@@ -598,9 +586,8 @@ image: "/poi-images/majlis-al-jinn-landmarks-v2.webp"
       de: "Nationalmuseum Oman",
       hu: "Ománi Nemzeti Múzeum",
       ro: "Muzeul Național al Omanului",
-      en: "The National Museum of Oman",
-image: "/poi-images/national-museum-oman-landmarks-v2.webp"
-},
+      en: "The National Museum of Oman"},
+    image: "/poi-images/national-museum-oman-landmarks-v2.webp",
     description: {
       de: "Dieses moderne Museum präsentiert die reiche Geschichte und Kultur des Omans von der prähistorischen Zeit bis zur Gegenwart. Es liegt prominent gegenüber dem Al-Alam-Palast in Maskat.",
       hu: "Ez a modern múzeum Omán gazdag történelmét és kultúráját mutatja be az őskortól napjainkig. Közvetlenül az Al Alam Palotával szemben található Maszkatban.",
@@ -647,9 +634,8 @@ image: "/poi-images/national-museum-oman-landmarks-v2.webp"
       de: "Bait Al Zubair Museum",
       hu: "Bait Al Zubair Múzeum",
       ro: "Muzeul Bait Al Zubair",
-      en: "Bait Al Zubair Museum",
-image: "/poi-images/bait-al-zubair-landmarks-v2.webp"
-},
+      en: "Bait Al Zubair Museum"},
+    image: "/poi-images/bait-al-zubair-landmarks-v2.webp",
     description: {
       de: "Ein privat finanziertes Museum, das sich in einem restaurierten traditionellen Haus befindet. Es beherbergt eine umfangreiche Sammlung omanischer Artefakte, darunter Waffen, Schmuck und Trachten.",
       hu: "Egy magánfinanszírozású múzeum, amely egy restaurált hagyományos házban kapott helyet. Hatalmas ománi műtárgygyűjteményt őriz, köztük fegyvereket, ékszereket és népviseleteket.",
@@ -696,9 +682,8 @@ image: "/poi-images/bait-al-zubair-landmarks-v2.webp"
       de: "Wadi Ghul",
       hu: "Wadi Ghul",
       ro: "Wadi Ghul",
-      en: "Wadi Ghul",
-image: "/poi-images/wadi-ghul-landmarks-v2.webp"
-},
+      en: "Wadi Ghul"},
+    image: "/poi-images/wadi-ghul-landmarks-v2.webp",
     description: {
       de: "Diese riesige Schlucht stürzt bis zu tausend Meter in die Tiefe und formt den Grand Canyon Omans. Verlassene Steindörfer klammern sich dramatisch an die steilen Klippenwände.",
       hu: "Ez a hatalmas szurdok akár ezer méter mélyen szakad a mélybe, és Omán Grand Canyonját alkotja. Elhagyatott kőfalvak kapaszkodnak drámaian a meredek sziklafalakba.",
@@ -745,9 +730,8 @@ image: "/poi-images/wadi-ghul-landmarks-v2.webp"
       de: "Al-Hoota-Höhle",
       hu: "Al Hoota-barlang",
       ro: "Peștera Al Hoota",
-      en: "Al Hoota Cave",
-image: "/poi-images/al-hoota-cave-landmarks-v2.webp"
-},
+      en: "Al Hoota Cave"},
+    image: "/poi-images/al-hoota-cave-landmarks-v2.webp",
     description: {
       de: "Ein über zwei Millionen Jahre altes Tropfsteinhöhlensystem, das am Fuß des Dschebel Schams liegt. Es ist bekannt für seine beeindruckenden Stalaktiten und Stalagmiten sowie einen unterirdischen See.",
       hu: "Több mint kétmillió éves cseppkőbarlang-rendszer a Jebel Shams lábánál. Lenyűgöző cseppköveiről és földalatti taváról híres.",
@@ -794,9 +778,8 @@ image: "/poi-images/al-hoota-cave-landmarks-v2.webp"
       de: "Weihrauchland-Museum",
       hu: "Tömjénföld Múzeum",
       ro: "Muzeul Ținutului Tămâiei",
-      en: "Museum of the Frankincense Land",
-image: "/poi-images/frankincense-land-museum-landmarks-v2.webp"
-},
+      en: "Museum of the Frankincense Land"},
+    image: "/poi-images/frankincense-land-museum-landmarks-v2.webp",
     description: {
       de: "Dieses Museum in Salala beleuchtet die Geschichte des Weihrauchhandels und die maritime Tradition Omans. Es befindet sich auf dem Gelände der historischen Stätte Al Baleed.",
       hu: "Ez a szalálai múzeum a tömjénkereskedelem történetét és Omán tengerészeti hagyományait mutatja be. Az Al Baleed történelmi lelőhely területén található.",
@@ -843,9 +826,8 @@ image: "/poi-images/frankincense-land-museum-landmarks-v2.webp"
       de: "Wadi Darbat",
       hu: "Wadi Darbat",
       ro: "Wadi Darbat",
-      en: "Wadi Darbat",
-image: "/poi-images/wadi-darbat-landmarks-v2.webp"
-},
+      en: "Wadi Darbat"},
+    image: "/poi-images/wadi-darbat-landmarks-v2.webp",
     description: {
       de: "Ein üppig grünes Tal in der Dhofar-Region, das sich besonders während des Khareef-Monsuns in ein tropisches Paradies verwandelt. Es bietet saisonale Wasserfälle und weidende Kamele auf saftigen Wiesen.",
       hu: "Buja zöld völgy a Dhofar régióban, amely különösen a khareef monszun idején trópusi paradicsommá változik. Szezonális vízesések és dús réteken legelő tevék jellemzik.",
@@ -892,9 +874,8 @@ image: "/poi-images/wadi-darbat-landmarks-v2.webp"
       de: "Ras al Jinz Schildkrötenreservat",
       hu: "Ras al Jinz Teknősrezervátum",
       ro: "Rezervația de broaște țestoase Ras al Jinz",
-      en: "Ras al Jinz Turtle Reserve",
-image: "/poi-images/ras-al-jinz-turtle-reserve-landmarks-v2.webp"
-},
+      en: "Ras al Jinz Turtle Reserve"},
+    image: "/poi-images/ras-al-jinz-turtle-reserve-landmarks-v2.webp",
     description: {
       de: "Dieser geschützte Strand ist ein weltweiter Hotspot für die vom Aussterben bedrohten Grünen Meeresschildkröten. Tausende dieser Tiere kommen hierher, um ihre Eier im weichen Sand abzulegen.",
       hu: "Ez a védett tengerpart a veszélyeztetett közönséges levesteknősök világszintű központja. Az állatok ezrei jönnek ide, hogy a puha homokba rakják tojásaikat.",
@@ -941,9 +922,8 @@ image: "/poi-images/ras-al-jinz-turtle-reserve-landmarks-v2.webp"
       de: "Mughsail Beach",
       hu: "Mughsail part",
       ro: "Plaja Mughsail",
-      en: "Al Mughsail Beach",
-image: "/poi-images/al-mughsail-beach-landmarks-v2.webp"
-},
+      en: "Al Mughsail Beach"},
+    image: "/poi-images/al-mughsail-beach-landmarks-v2.webp",
     description: {
       de: "Dieser kilometerlange, unberührte Sandstrand nahe Salala ist bekannt für seine dramatischen Klippen und die natürlichen Blowholes. Die Brandung des Ozeans wird mit gewaltigem Druck durch Löcher im Fels nach oben gepresst.",
       hu: "Ez a Szalála közelében fekvő, kilométereken át elnyúló érintetlen homokos part drámai szikláiról és természetes vízköpőiről (blowholes) ismert. Az óceán hullámai óriási nyomással törnek fel a sziklák résein.",

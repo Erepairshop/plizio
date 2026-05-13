@@ -10,9 +10,8 @@ export const poiExtraMongoliaCitiesV2: POI[] = [
       de: "Ulaanbaatar",
       hu: "Ulánbátor",
       ro: "Ulaanbaatar",
-      en: "Ulaanbaatar",
-image: "/poi-images/mn-ulaanbaatar-cities-v2.webp"
-},
+      en: "Ulaanbaatar"},
+    image: "/poi-images/mn-ulaanbaatar-cities-v2.webp",
     description: {
       de: "Ulaanbaatar ist die Kälte-Hauptstadt der Welt, in der fast die Hälfte der mongolischen Bevölkerung lebt. Sie liegt im Tal des Flusses Tuul und vereint sowjetische Architektur mit modernen Wolkenkratzern.",
       hu: "Ulánbátor a világ leghidegebb fővárosa, ahol a mongol lakosság közel fele él. A Tuul folyó völgyében fekszik, és a szovjet építészetet modern felhőkarcolókkal ötvözi.",
@@ -72,9 +71,8 @@ image: "/poi-images/mn-ulaanbaatar-cities-v2.webp"
       de: "Erdenet",
       hu: "Erdenet",
       ro: "Erdenet",
-      en: "Erdenet",
-image: "/poi-images/mn-erdenet-cities-v2.webp"
-},
+      en: "Erdenet"},
+    image: "/poi-images/mn-erdenet-cities-v2.webp",
     description: {
       de: "Erdenet ist die zweitgrößte Stadt der Mongolei und wurde 1974 speziell für den Abbau von Kupfer und Molybdän gegründet. Die riesige Tagebaumine prägt noch heute das Stadtbild.",
       hu: "Erdenet Mongólia második legnagyobb városa, amelyet 1974-ben alapítottak a réz és molibdén bányászatára. A hatalmas külszíni bánya ma is meghatározza a város képét.",
@@ -134,9 +132,8 @@ image: "/poi-images/mn-erdenet-cities-v2.webp"
       de: "Darchan",
       hu: "Darhan",
       ro: "Darkhan",
-      en: "Darkhan",
-image: "/poi-images/mn-darkhan-cities-v2.webp"
-},
+      en: "Darkhan"},
+    image: "/poi-images/mn-darkhan-cities-v2.webp",
     description: {
       de: "Darchan wurde 1961 mit massiver sowjetischer Unterstützung als Industriezentrum im Norden erbaut. Der Name bedeutet 'Schmied', was auf die Bedeutung der Metallindustrie hinweist.",
       hu: "Darhant 1961-ben építették masszív szovjet segítséggel mint északi ipari központot. A neve 'kovácsot' jelent, amely a fémipar jelentőségére utal.",
@@ -196,9 +193,8 @@ image: "/poi-images/mn-darkhan-cities-v2.webp"
       de: "Tschoibalsan",
       hu: "Csojbalszan",
       ro: "Choibalsan",
-      en: "Choibalsan",
-image: "/poi-images/mn-choibalsan-cities-v2.webp"
-},
+      en: "Choibalsan"},
+    image: "/poi-images/mn-choibalsan-cities-v2.webp",
     description: {
       de: "Tschoibalsan ist das wirtschaftliche Zentrum im Osten der Mongolei. Die Stadt war jahrzehntelang ein wichtiger sowjetischer Militärstützpunkt nahe der chinesischen Grenze.",
       hu: "Csojbalszan Kelet-Mongólia gazdasági központja. A város évtizedeken át fontos szovjet katonai bázis volt a kínai határ közelében.",
@@ -258,9 +254,8 @@ image: "/poi-images/mn-choibalsan-cities-v2.webp"
       de: "Mörön",
       hu: "Mörön",
       ro: "Mörön",
-      en: "Mörön",
-image: "/poi-images/mn-moron-cities-v2.webp"
-},
+      en: "Mörön"},
+    image: "/poi-images/mn-moron-cities-v2.webp",
     description: {
       de: "Mörön fungiert als administratives Zentrum der Provinz Chöwsgöl im bergigen Norden. Von hier aus starten die meisten Expeditionen zum berühmten Chöwsgöl-See.",
       hu: "Mörön a hegyvidéki északi Hövszgöl tartomány közigazgatási központjaként működik. Innen indul a legtöbb expedíció a híres Hövszgöl-tóhoz.",
@@ -320,9 +315,8 @@ image: "/poi-images/mn-moron-cities-v2.webp"
       de: "Chowd",
       hu: "Hovd",
       ro: "Khovd",
-      en: "Khovd",
-image: "/poi-images/mn-khovd-cities-v2.webp"
-},
+      en: "Khovd"},
+    image: "/poi-images/mn-khovd-cities-v2.webp",
     description: {
       de: "Chowd ist eine der ältesten Städte der Mongolei mit einer Geschichte, die bis ins 17. Jahrhundert zurückreicht. Sie liegt am Fuße des Altai-Gebirges und ist für ihre multikulturelle Bevölkerung bekannt.",
       hu: "Hovd Mongólia egyik legrégebbi városa, amelynek története a 17. századig nyúlik vissza. Az Altaj-hegység lábánál fekszik, és sokszínű lakosságáról ismert.",
@@ -382,9 +376,8 @@ image: "/poi-images/mn-khovd-cities-v2.webp"
       de: "Ölgii",
       hu: "Ölgij",
       ro: "Ölgii",
-      en: "Ölgii",
-image: "/poi-images/mn-olgii-cities-v2.webp"
-},
+      en: "Ölgii"},
+    image: "/poi-images/mn-olgii-cities-v2.webp",
     description: {
       de: "Ölgii ist das Zentrum der kasachischen Minderheit in der westlichen Mongolei. Die Kultur ist hier vom Islam geprägt, und die Stadt ist weltweit für ihre Tradition der Adlerjagd berühmt.",
       hu: "Ölgij a nyugat-mongóliai kazah kisebbség központja. A kultúrát itt az iszlám határozza meg, és a város világszerte híres a sasos vadászat hagyományáról.",
@@ -444,9 +437,8 @@ image: "/poi-images/mn-olgii-cities-v2.webp"
       de: "Ulaangom",
       hu: "Ulaangom",
       ro: "Ulaangom",
-      en: "Ulaangom",
-image: "/poi-images/mn-ulaangom-cities-v2.webp"
-},
+      en: "Ulaangom"},
+    image: "/poi-images/mn-ulaangom-cities-v2.webp",
     description: {
       de: "Ulaangom liegt nahe der russischen Grenze in einer extrem klimatischen Zone im Uws-Becken. Die Sommer sind sehr heiß, während die Winter zu den kältesten des Landes zählen.",
       hu: "Ulaangom az orosz határ közelében, az Uvsz-medence szélsőséges éghajlatú zónájában található. A nyarak nagyon forrók, míg a telek az ország leghidegebbjei közé tartoznak.",
@@ -506,9 +498,8 @@ image: "/poi-images/mn-ulaangom-cities-v2.webp"
       de: "Arwaicheer",
       hu: "Arvajhér",
       ro: "Arvaikheer",
-      en: "Arvaikheer",
-image: "/poi-images/mn-arvaikheer-cities-v2.webp"
-},
+      en: "Arvaikheer"},
+    image: "/poi-images/mn-arvaikheer-cities-v2.webp",
     description: {
       de: "Arwaicheer liegt zentral in der Mongolei und ist das Tor zur historischen Region des Orchon-Tals. Die Stadt wurde nach einem legendären Rennpferd benannt.",
       hu: "Arvajhér Mongólia középső részén fekszik, és az Orhon-völgy történelmi régiójának kapuja. A várost egy legendás versenylóról nevezték el.",
@@ -568,9 +559,8 @@ image: "/poi-images/mn-arvaikheer-cities-v2.webp"
       de: "Tsetserleg",
       hu: "Cecerleg",
       ro: "Tsetserleg",
-      en: "Tsetserleg",
-image: "/poi-images/mn-tsetserleg-cities-v2.webp"
-},
+      en: "Tsetserleg"},
+    image: "/poi-images/mn-tsetserleg-cities-v2.webp",
     description: {
       de: "Tsetserleg bedeutet übersetzt 'Garten' und gilt als eine der schönsten Provinzstädte der Mongolei. Sie ist von bewaldeten Hügeln umgeben und dient als Ausgangspunkt für Touren zu heißen Quellen.",
       hu: "Cecerleg neve 'kertet' jelent, és Mongólia egyik legszebb tartományi városaként tartják számon. Erdős dombok veszik körül, és bázisként szolgál a hőforrásokhoz vezető túrákhoz.",
@@ -630,9 +620,8 @@ image: "/poi-images/mn-tsetserleg-cities-v2.webp"
       de: "Süchbaatar",
       hu: "Szühebátor",
       ro: "Sükhbaatar",
-      en: "Sükhbaatar",
-image: "/poi-images/mn-sukhbaatar-cities-v2.webp"
-},
+      en: "Sükhbaatar"},
+    image: "/poi-images/mn-sukhbaatar-cities-v2.webp",
     description: {
       de: "Süchbaatar liegt am Zusammenfluss von Orchon und Selenge an der Grenze zu Russland. Die Stadt ist ein wichtiger Grenzübergang und Knotenpunkt der Transmongolischen Eisenbahn.",
       hu: "Szühebátor az Orhon és a Szelenga folyók összefolyásánál, az orosz határnál fekszik. A város fontos határátkelőhely és a transzmongol vasút csomópontja.",
@@ -692,9 +681,8 @@ image: "/poi-images/mn-sukhbaatar-cities-v2.webp"
       de: "Dalandsadgad",
       hu: "Dalanzadgad",
       ro: "Dalanzadgad",
-      en: "Dalanzadgad",
-image: "/poi-images/mn-dalanzadgad-cities-v2.webp"
-},
+      en: "Dalanzadgad"},
+    image: "/poi-images/mn-dalanzadgad-cities-v2.webp",
     description: {
       de: "Dalandsadgad ist das Tor zur Wüste Gobi in der Süd-Mongolei. Von hier starten Exkursionen zu den berühmten singenden Sanddünen von Khongoryn Els und den flammenden Klippen.",
       hu: "Dalanzadgad a Góbi-sivatag kapuja Dél-Mongóliában. Innen indulnak az expedíciók a Khongoryn Els éneklő homokdűnéihez és a lángoló sziklákhoz.",
@@ -754,9 +742,8 @@ image: "/poi-images/mn-dalanzadgad-cities-v2.webp"
       de: "Sainschand",
       hu: "Szajnsand",
       ro: "Sainshand",
-      en: "Sainshand",
-image: "/poi-images/mn-sainshand-cities-v2.webp"
-},
+      en: "Sainshand"},
+    image: "/poi-images/mn-sainshand-cities-v2.webp",
     description: {
       de: "Sainschand ist eine Wüstenstadt an der Transmongolischen Eisenbahnstrecke in die chinesische Innere Mongolei. Die trockene Region ist spirituell bedeutsam und reich an Dinosaurierfossilien.",
       hu: "Szajnsand egy sivatagi város a kínai Belső-Mongóliába vezető transzmongol vasútvonalon. A száraz régió spirituálisan jelentős és gazdag dinoszaurusz kövületekben.",
@@ -816,9 +803,8 @@ image: "/poi-images/mn-sainshand-cities-v2.webp"
       de: "Dsuunmod",
       hu: "Dzúnmod",
       ro: "Züünmod",
-      en: "Züünmod",
-image: "/poi-images/mn-zuunmod-cities-v2.webp"
-},
+      en: "Züünmod"},
+    image: "/poi-images/mn-zuunmod-cities-v2.webp",
     description: {
       de: "Dsuunmod liegt nur 40 Kilometer südlich von Ulaanbaatar, getrennt durch das Bogd Khan Uul Gebirge. Die Stadt bietet einen ruhigeren Kontrast zur Hektik der Hauptstadt.",
       hu: "Dzúnmod mindössze 40 kilométerre délre fekszik Ulánbátortól, a Bogd Kán Uul hegység által elválasztva. A város nyugodtabb kontrasztot kínál a főváros nyüzsgésével szemben.",
@@ -869,9 +855,8 @@ image: "/poi-images/mn-zuunmod-cities-v2.webp"
       de: "Uliastai",
       hu: "Uliasztai",
       ro: "Uliastai",
-      en: "Uliastai",
-image: "/poi-images/mn-uliastai-cities-v2.webp"
-},
+      en: "Uliastai"},
+    image: "/poi-images/mn-uliastai-cities-v2.webp",
     description: {
       de: "Uliastai ist eine der ältesten Siedlungen der Mongolei im Zentrum des Changai-Gebirges. Zur Zeit der Qing-Dynastie war es die wichtigste Garnisonsstadt der Mandschu im Westen.",
       hu: "Uliasztai Mongólia egyik legrégebbi települése a Hangáj-hegység központjában. A Csing-dinasztia idején a mandzsuk legfontosabb helyőrségi városa volt nyugaton.",
@@ -931,9 +916,8 @@ image: "/poi-images/mn-uliastai-cities-v2.webp"
       de: "Altai",
       hu: "Altaj",
       ro: "Altai",
-      en: "Altai",
-image: "/poi-images/mn-altai-cities-v2.webp"
-},
+      en: "Altai"},
+    image: "/poi-images/mn-altai-cities-v2.webp",
     description: {
       de: "Die Stadt Altai liegt hochgelegen in der Provinz Gobi-Altai. Die karge Berglandschaft prägt das Leben der Nomaden, die in dieser extremen Umgebung ihre Herden weiden lassen.",
       hu: "Altaj városa magasan fekszik a Góbi-Altaj tartományban. A kopár hegyvidéki táj meghatározza a nomádok életét, akik ebben a szélsőséges környezetben legeltetik nyájaikat.",
@@ -993,9 +977,8 @@ image: "/poi-images/mn-altai-cities-v2.webp"
       de: "Baruun-Urt",
       hu: "Barún-Urt",
       ro: "Baruun-Urt",
-      en: "Baruun-Urt",
-image: "/poi-images/mn-baruun-urt-cities-v2.webp"
-},
+      en: "Baruun-Urt"},
+    image: "/poi-images/mn-baruun-urt-cities-v2.webp",
     description: {
       de: "Baruun-Urt ist das Zentrum der östlichen Steppenregion Süchbaatar. In den weiten Ebenen um die Stadt weiden riesige Herden von mongolischen Gazellen.",
       hu: "Barún-Urt a keleti sztyeppés Szühebátor régió központja. A város körüli hatalmas síkságokon mongol gazellák hatalmas csordái legelnek.",
@@ -1055,9 +1038,8 @@ image: "/poi-images/mn-baruun-urt-cities-v2.webp"
       de: "Mandalgowi",
       hu: "Mandalgovi",
       ro: "Mandalgovi",
-      en: "Mandalgovi",
-image: "/poi-images/mn-mandalgovi-cities-v2.webp"
-},
+      en: "Mandalgovi"},
+    image: "/poi-images/mn-mandalgovi-cities-v2.webp",
     description: {
       de: "Mandalgowi ist die Hauptstadt der Mittelgobi-Provinz und bildet den Übergang zwischen der Steppe und der eigentlichen Wüste Gobi. Die Gegend ist bekannt für kuriose Felsformationen.",
       hu: "Mandalgovi a Közép-Góbi tartomány fővárosa, és az átmenetet képezi a sztyeppe és a tulajdonképpeni Góbi-sivatag között. A környék furcsa sziklaképződményeiről ismert.",
@@ -1117,9 +1099,8 @@ image: "/poi-images/mn-mandalgovi-cities-v2.webp"
       de: "Bajanchongor",
       hu: "Bajanhongor",
       ro: "Bayankhongor",
-      en: "Bayankhongor",
-image: "/poi-images/mn-bayankhongor-cities-v2.webp"
-},
+      en: "Bayankhongor"},
+    image: "/poi-images/mn-bayankhongor-cities-v2.webp",
     description: {
       de: "Bajanchongor bietet eine extreme landschaftliche Vielfalt, von schneebedeckten Gipfeln im Norden bis zu sandigen Wüsten im Süden. Die Stadt verknüpft diese verschiedenen Ökosysteme.",
       hu: "Bajanhongor rendkívüli táji változatosságot kínál, a hófödte északi csúcsoktól a déli homokos sivatagokig. A város ezeket a különböző ökoszisztémákat kapcsolja össze.",
@@ -1179,9 +1160,8 @@ image: "/poi-images/mn-bayankhongor-cities-v2.webp"
       de: "Bulgan",
       hu: "Bulgan",
       ro: "Bulgan",
-      en: "Bulgan",
-image: "/poi-images/mn-bulgan-cities-v2.webp"
-},
+      en: "Bulgan"},
+    image: "/poi-images/mn-bulgan-cities-v2.webp",
     description: {
       de: "Bulgan ist eine charmante Kleinstadt umgeben von Waldsteppen im Norden der Mongolei. Holzhäuser prägen das Stadtbild anstelle der sonst üblichen Jurtensiedlungen.",
       hu: "Bulgan egy bájos kisváros Észak-Mongólia erdős sztyeppéivel körülvéve. Faházak határozzák meg a városképet az egyébként megszokott jurtatelepülések helyett.",
@@ -1241,9 +1221,8 @@ image: "/poi-images/mn-bulgan-cities-v2.webp"
       de: "Tschoir",
       hu: "Csojr",
       ro: "Choir",
-      en: "Choir",
-image: "/poi-images/mn-choir-cities-v2.webp"
-},
+      en: "Choir"},
+    image: "/poi-images/mn-choir-cities-v2.webp",
     description: {
       de: "Tschoir entstand als bedeutender sowjetischer Militärstützpunkt entlang der Transmongolischen Eisenbahn. Ein massives Denkmal für die sowjetischen Kosmonauten überragt noch heute die Stadt.",
       hu: "Csojr jelentős szovjet katonai bázisként jött létre a transzmongol vasútvonal mentén. A szovjet űrhajósoknak emelt masszív emlékmű ma is a város fölé magasodik.",
@@ -1303,9 +1282,8 @@ image: "/poi-images/mn-choir-cities-v2.webp"
       de: "Öndörchaan",
       hu: "Öndörhán",
       ro: "Öndörkhaan",
-      en: "Öndörkhaan",
-image: "/poi-images/mn-ondorkhaan-cities-v2.webp"
-},
+      en: "Öndörkhaan"},
+    image: "/poi-images/mn-ondorkhaan-cities-v2.webp",
     description: {
       de: "Öndörchaan, offiziell umbenannt in Chinggis City, liegt im östlichen Khentii-Gebirge. Die Region gilt als der Geburtsort von Dschingis Khan und ist ein Ziel für historisch Interessierte.",
       hu: "A hivatalosan Dzsingisz Városnak átnevezett Öndörhán a keleti Hentij-hegységben található. A régió Dzsingisz kán szülőhelyeként ismert, és a történelem iránt érdeklődők célpontja.",
@@ -1365,9 +1343,8 @@ image: "/poi-images/mn-ondorkhaan-cities-v2.webp"
       de: "Dsüüncharaa",
       hu: "Dzúnhara",
       ro: "Züünkharaa",
-      en: "Züünkharaa",
-image: "/poi-images/mn-zuunkharaa-cities-v2.webp"
-},
+      en: "Züünkharaa"},
+    image: "/poi-images/mn-zuunkharaa-cities-v2.webp",
     description: {
       de: "Dsüüncharaa ist eine lebhafte Eisenbahnerstadt im landschaftlich reizvollen Tal des Kharaa-Flusses. Sie verbindet die landwirtschaftlichen Gebiete des Nordens mit Ulaanbaatar.",
       hu: "Dzúnhara egy nyüzsgő vasutasváros a Hara folyó festői völgyében. Az északi mezőgazdasági területeket köti össze Ulánbátorral.",
@@ -1427,9 +1404,8 @@ image: "/poi-images/mn-zuunkharaa-cities-v2.webp"
       de: "Charchorin",
       hu: "Harhorin",
       ro: "Kharkhorin",
-      en: "Kharkhorin",
-image: "/poi-images/mn-kharkhorin-cities-v2.webp"
-},
+      en: "Kharkhorin"},
+    image: "/poi-images/mn-kharkhorin-cities-v2.webp",
     description: {
       de: "Charchorin liegt in der Nähe der Ruinen von Karakorum, der antiken Hauptstadt des Mongolischen Reiches im 13. Jahrhundert. Heute ist es eine landwirtschaftliche Siedlung mit enormer touristischer Bedeutung.",
       hu: "Harhorin Karakorum, a Mongol Birodalom 13. századi ősi fővárosának romjai közelében fekszik. Ma egy mezőgazdasági település, amely óriási turisztikai jelentőséggel bír.",
@@ -1489,9 +1465,8 @@ image: "/poi-images/mn-kharkhorin-cities-v2.webp"
       de: "Bor-Öndör",
       hu: "Bor-Öndör",
       ro: "Bor-Öndör",
-      en: "Bor-Öndör",
-image: "/poi-images/mn-bor-ondor-cities-v2.webp"
-},
+      en: "Bor-Öndör"},
+    image: "/poi-images/mn-bor-ondor-cities-v2.webp",
     description: {
       de: "Bor-Öndör ist eine relativ isolierte Bergbaustadt in der weiten Steppe. Sie verdankt ihre Existenz fast ausschließlich den reichhaltigen Vorkommen an Flussspat in der Umgebung.",
       hu: "Bor-Öndör egy viszonylag elszigetelt bányászváros a tágas sztyeppén. Létezését szinte kizárólag a környék gazdag folypát-lelőhelyeinek köszönheti.",
@@ -1551,9 +1526,8 @@ image: "/poi-images/mn-bor-ondor-cities-v2.webp"
       de: "Scharyn Gol",
       hu: "Sarin Gol",
       ro: "Sharyn Gol",
-      en: "Sharyn Gol",
-image: "/poi-images/mn-sharyn-gol-cities-v2.webp"
-},
+      en: "Sharyn Gol"},
+    image: "/poi-images/mn-sharyn-gol-cities-v2.webp",
     description: {
       de: "Scharyn Gol ist eine klassische sowjetische Kohlebergbaustadt, eingebettet in einem Tal. Ihr Kohletagebau versorgt die Kraftwerke der nördlichen Industrieregionen.",
       hu: "Sarin Gol egy klasszikus szovjet szénbányászváros, amely egy völgyben fekszik. Külszíni szénbányája az északi ipari régiók erőműveit látja el.",
@@ -1613,9 +1587,8 @@ image: "/poi-images/mn-sharyn-gol-cities-v2.webp"
       de: "Nalaich",
       hu: "Nalajh",
       ro: "Nalaikh",
-      en: "Nalaikh",
-image: "/poi-images/mn-nalaikh-cities-v2.webp"
-},
+      en: "Nalaikh"},
+    image: "/poi-images/mn-nalaikh-cities-v2.webp",
     description: {
       de: "Nalaich, ehemals die wichtigste Kohlenmine für Ulaanbaatar, ist heute ein abgelegener Stadtbezirk. Seit dem Einsturz der staatlichen Mine betreiben viele Einheimische gefährlichen illegalen Kleinbergbau.",
       hu: "Nalajh, korábban Ulánbátor legfontosabb szénbányája, ma egy elszigetelt kerület. Az állami bánya összeomlása óta sok helyi lakos folytat veszélyes, illegális kisüzemi bányászatot.",
@@ -1675,9 +1648,8 @@ image: "/poi-images/mn-nalaikh-cities-v2.webp"
       de: "Tosontsengel",
       hu: "Toszoncengel",
       ro: "Tosontsengel",
-      en: "Tosontsengel",
-image: "/poi-images/mn-tosontsengel-cities-v2.webp"
-},
+      en: "Tosontsengel"},
+    image: "/poi-images/mn-tosontsengel-cities-v2.webp",
     description: {
       de: "Tosontsengel gilt als eine der kältesten Siedlungen in der Mongolei. Umgeben von ausgedehnten Lärchenwäldern ist die Holzverarbeitung die Haupteinnahmequelle der lokalen Wirtschaft.",
       hu: "Toszoncengel Mongólia egyik leghidegebb települése. A kiterjedt vörösfenyőerdőkkel körülvett városban a fafeldolgozás a helyi gazdaság fő bevételi forrása.",
@@ -1728,9 +1700,8 @@ image: "/poi-images/mn-tosontsengel-cities-v2.webp"
       de: "Chötöl",
       hu: "Hötöl",
       ro: "Khutul",
-      en: "Khutul",
-image: "/poi-images/mn-khutul-cities-v2.webp"
-},
+      en: "Khutul"},
+    image: "/poi-images/mn-khutul-cities-v2.webp",
     description: {
       de: "Chötöl ist ein wichtiges Zentrum der Baustoffindustrie. Der Rauch der riesigen Zementfabrik, die fast das ganze Land mit Zement versorgt, ist schon von weitem sichtbar.",
       hu: "Hötöl az építőanyag-ipar fontos központja. A hatalmas cementgyár füstje, amely szinte az egész országot ellátja cementtel, már messziről látható.",
@@ -1790,9 +1761,8 @@ image: "/poi-images/mn-khutul-cities-v2.webp"
       de: "Dsamyn-Üüd",
       hu: "Dzamin-Üd",
       ro: "Zamyn-Üüd",
-      en: "Zamyn-Üüd",
-image: "/poi-images/mn-zamyn-uud-cities-v2.webp"
-},
+      en: "Zamyn-Üüd"},
+    image: "/poi-images/mn-zamyn-uud-cities-v2.webp",
     description: {
       de: "Dsamyn-Üüd ist der wichtigste Grenzübergang zwischen der Mongolei und China. Täglich passieren hier Unmengen an Gütern und Menschen, was die Wüstenstadt zu einem hektischen Handelsplatz macht.",
       hu: "Dzamin-Üd a legfontosabb határátkelőhely Mongólia és Kína között. Naponta hatalmas mennyiségű áru és ember halad át itt, ami a sivatagi várost nyüzsgő kereskedelmi csomóponttá teszi.",

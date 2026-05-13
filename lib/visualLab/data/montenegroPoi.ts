@@ -2,196 +2,7 @@ import { type POI } from "./poi";
 
 export const montenegroAllPoi: POI[] = [
   // CITIES
-  {
-    id: "me-podgorica",
-    name: { de: "Podgorica", hu: "Podgorica", ro: "Podgorica", en: "Podgorica" },
-    type: "state-capital",
-    coords: [19.2594, 42.4411],
-    parent: "ME-ALL",
-    description: {
-      de: "Die Hauptstadt und größte Stadt Montenegros.",
-      hu: "Montenegró fővárosa és legnagyobb városa.",
-      ro: "Capitala și cel mai mare oraș al Muntenegrului.",
-      en: "The capital and largest city of Montenegro."
-    }
-  },
-  {
-    id: "me-kotor",
-    name: { de: "Kotor", hu: "Kotor", ro: "Kotor", en: "Kotor" },
-    type: "city",
-    coords: [18.7712, 42.4247],
-    parent: "ME-ALL",
-    description: {
-      de: "Historische Küstenstadt an der Bucht von Kotor, bekannt für ihre Altstadt.",
-      hu: "Történelmi tengerparti város a Kotori-öbölben, híres óvárosáról.",
-      ro: "Oraș de coastă istoric pe Golful Kotor, renumit pentru orașul vechi.",
-      en: "Historic coastal town on the Bay of Kotor, famous for its old town."
-    }
-  },
-  {
-    id: "me-budva",
-    name: { de: "Budva", hu: "Budva", ro: "Budva", en: "Budva" },
-    type: "city",
-    coords: [18.8400, 42.2881],
-    parent: "ME-ALL",
-    description: {
-      de: "Beliebtes Touristenziel mit wunderschönen Stränden und einem historischen Zentrum.",
-      hu: "Népszerű turisztikai célpont gyönyörű strandokkal és történelmi központtal.",
-      ro: "Destinație turistică populară cu plaje frumoase și un centru istoric.",
-      en: "Popular tourist destination with beautiful beaches and a historic center."
-    }
-  },
-  {
-    id: "me-cetinje",
-    name: { de: "Cetinje", hu: "Cetinje", ro: "Cetinje", en: "Cetinje" },
-    type: "city",
-    coords: [18.9144, 42.3931],
-    parent: "ME-ALL",
-    description: {
-      de: "Die alte königliche Hauptstadt Montenegros, reich an Kultur und Geschichte.",
-      hu: "Montenegró régi királyi fővárosa, gazdag kultúrában és történelemben.",
-      ro: "Fosta capitală regală a Muntenegrului, bogată în cultură și istorie.",
-      en: "The old royal capital of Montenegro, rich in culture and history."
-    }
-  },
-  {
-    id: "me-niksic",
-    name: { de: "Nikšić", hu: "Nikšić", ro: "Nikšić", en: "Nikšić" },
-    type: "city",
-    coords: [18.9445, 42.7731],
-    parent: "ME-ALL",
-    description: {
-      de: "Die zweitgrößte Stadt, bekannt für ihre Industrie und das Trebjesa-Bier.",
-      hu: "A második legnagyobb város, iparáról és a Trebjesa sörről ismert.",
-      ro: "Al doilea oraș ca mărime, cunoscut pentru industrie și berea Trebjesa.",
-      en: "The second largest city, known for its industry and Trebjesa beer."
-    }
-  },
-  {
-    id: "me-bar",
-    name: { de: "Bar", hu: "Bar", ro: "Bar", en: "Bar" },
-    type: "city",
-    coords: [19.1000, 42.1000],
-    parent: "ME-ALL",
-    description: {
-      de: "Wichtiger Seehafen Montenegros mit einer nahegelegenen antiken Ruinenstadt.",
-      hu: "Montenegró fontos tengeri kikötője, a közelben egy ősi romvárossal.",
-      ro: "Port maritim important al Muntenegrului, cu un oraș antic în ruină în apropiere.",
-      en: "Major seaport of Montenegro, with a nearby ancient ruined city."
-    }
-  },
-  {
-    id: "me-herceg-novi",
-    name: { de: "Herceg Novi", hu: "Herceg Novi", ro: "Herceg Novi", en: "Herceg Novi" },
-    type: "city",
-    coords: [18.5375, 42.4531],
-    parent: "ME-ALL",
-    description: {
-      de: "Eine Küstenstadt am Eingang der Bucht von Kotor.",
-      hu: "Tengerparti város a Kotori-öböl bejáratánál.",
-      ro: "Un oraș de coastă la intrarea în Golful Kotor.",
-      en: "A coastal town located at the entrance to the Bay of Kotor."
-    }, image: "/poi-images/me-herceg-novi.webp"},
-  {
-    id: "me-tivat",
-    name: { de: "Tivat", hu: "Tivat", ro: "Tivat", en: "Tivat" },
-    type: "city",
-    coords: [18.6961, 42.4364],
-    parent: "ME-ALL",
-    description: {
-      de: "Bekannt für den luxuriösen Yachthafen Porto Montenegro.",
-      hu: "A luxus Porto Montenegro jachtkikötőjéről ismert.",
-      ro: "Cunoscut pentru marina de lux Porto Montenegro.",
-      en: "Known for the luxurious Porto Montenegro marina."
-    }
-  },
-  {
-    id: "me-zabljak",
-    name: { de: "Žabljak", hu: "Žabljak", ro: "Žabljak", en: "Žabljak" },
-    type: "city",
-    coords: [19.1228, 43.1542],
-    parent: "ME-ALL",
-    description: {
-      de: "Zentrum des Bergtourismus im Durmitor-Nationalpark.",
-      hu: "A hegyi turizmus központja a Durmitor Nemzeti Parkban.",
-      ro: "Centrul turismului montan din Parcul Național Durmitor.",
-      en: "Center of mountain tourism in the Durmitor National Park."
-    }
-  },
-  {
-    id: "me-ulcinj",
-    name: { de: "Ulcinj", hu: "Ulcinj", ro: "Ulcinj", en: "Ulcinj" },
-    type: "city",
-    coords: [19.2244, 41.9294],
-    parent: "ME-ALL",
-    description: {
-      de: "Die südlichste Stadt Montenegros, bekannt für lange Sandstrände.",
-      hu: "Montenegró legdélibb városa, hosszú homokos strandjairól ismert.",
-      ro: "Cel mai sudic oraș al Muntenegrului, renumit pentru plajele lungi de nisip.",
-      en: "The southernmost town of Montenegro, known for its long sandy beaches."
-    }, image: "/poi-images/me-ulcinj.webp"},
   // NATURE
-  {
-    id: "me-skadar-lake",
-    name: { de: "Skutarisee", hu: "Szkadari-tó", ro: "Lacul Skadar", en: "Skadar Lake" },
-    type: "lake",
-    coords: [19.2500, 42.2000],
-    parent: "ME-ALL",
-    description: {
-      de: "Der größte See auf der Balkanhalbinsel und ein wichtiger Lebensraum für Vögel.",
-      hu: "A Balkán-félsziget legnagyobb tava, fontos madárélőhely.",
-      ro: "Cel mai mare lac din Peninsula Balcanică și un habitat important pentru păsări.",
-      en: "The largest lake on the Balkan Peninsula and an important bird habitat."
-    }, image: "/poi-images/me-skadar-lake.webp"},
-  {
-    id: "me-durmitor",
-    name: { de: "Durmitor", hu: "Durmitor", ro: "Durmitor", en: "Durmitor" },
-    type: "mountain",
-    coords: [19.0333, 43.1333],
-    parent: "ME-ALL",
-    description: {
-      de: "Ein Massiv und Nationalpark, Heimat des Bobotov Kuk und eiszeitlicher Seen.",
-      hu: "Hegység és nemzeti park, a Bobotov Kuk és gleccsertavak otthona.",
-      ro: "Un masiv și parc național, acasă pentru Bobotov Kuk și lacuri glaciare.",
-      en: "A massif and national park, home to Bobotov Kuk and glacial lakes."
-    }, image: "/poi-images/me-durmitor.webp"},
-  {
-    id: "me-tara-canyon",
-    name: { de: "Tara-Schlucht", hu: "Tara-kanyon", ro: "Canionul Tara", en: "Tara Canyon" },
-    type: "river",
-    coords: [19.0833, 43.2000],
-    parent: "ME-ALL",
-    description: {
-      de: "Einer der tiefsten Canyons in Europa, beliebt für Rafting.",
-      hu: "Európa egyik legmélyebb kanyonja, népszerű vadvízi evezős helyszín.",
-      ro: "Unul dintre cele mai adânci canioane din Europa, popular pentru rafting.",
-      en: "One of the deepest canyons in Europe, popular for white-water rafting."
-    }, image: "/poi-images/me-tara-canyon.webp"},
-  {
-    id: "me-lovcen",
-    name: { de: "Lovćen", hu: "Lovćen", ro: "Lovćen", en: "Lovćen" },
-    type: "mountain",
-    coords: [18.8333, 42.4000],
-    parent: "ME-ALL",
-    description: {
-      de: "Ein Berg und Nationalpark, der Montenegros nationale Identität symbolisiert.",
-      hu: "Hegy és nemzeti park, amely Montenegró nemzeti identitását szimbolizálja.",
-      ro: "Un munte și parc național care simbolizează identitatea națională a Muntenegrului.",
-      en: "A mountain and national park symbolizing Montenegro's national identity."
-    }
-  },
-  {
-    id: "me-biogradska-gora",
-    name: { de: "Biogradska Gora", hu: "Biogradska Gora", ro: "Biogradska Gora", en: "Biogradska Gora" },
-    type: "forest",
-    coords: [19.6000, 42.9000],
-    parent: "ME-ALL",
-    description: {
-      de: "Ein Nationalpark, der einen der letzten drei großen Urwälder Europas beherbergt.",
-      hu: "Nemzeti park, amely Európa három utolsó nagy őserdejének egyikét őrzi.",
-      ro: "Un parc național ce protejează una dintre ultimele trei mari păduri virgine din Europa.",
-      en: "A national park preserving one of the last three large virgin forests in Europe."
-    }, image: "/poi-images/me-biogradska-gora.webp"},
   {
     id: "me-prokletije",
     name: { de: "Prokletije", hu: "Prokletije", ro: "Prokletije", en: "Prokletije" },
@@ -254,55 +65,6 @@ export const montenegroAllPoi: POI[] = [
     }, image: "/poi-images/me-black-lake.webp"},
   // HISTORY / LANDMARKS
   {
-    id: "me-ostrog",
-    name: { de: "Kloster Ostrog", hu: "Ostrog kolostor", ro: "Mănăstirea Ostrog", en: "Ostrog Monastery" },
-    type: "landmark",
-    coords: [19.0300, 42.6750],
-    parent: "ME-ALL",
-    description: {
-      de: "Ein in die Felswand gebautes serbisch-orthodoxes Kloster, ein wichtiger Pilgerort.",
-      hu: "Sziklafalba épült szerb ortodox kolostor, fontos zarándokhely.",
-      ro: "O mănăstire ortodoxă sârbă construită într-o stâncă, un loc de pelerinaj important.",
-      en: "A Serbian Orthodox monastery carved into a cliff face, a major pilgrimage site."
-    }
-  },
-  {
-    id: "me-our-lady-rocks",
-    name: { de: "Maria vom Felsen", hu: "Szirti Madonna", ro: "Maica Domnului de pe Stâncă", en: "Our Lady of the Rocks" },
-    type: "historical",
-    coords: [18.6869, 42.4864],
-    parent: "ME-ALL",
-    description: {
-      de: "Künstliche Insel vor Perast mit einer wunderschönen Kirche und einem Museum.",
-      hu: "Mesterséges sziget Perast partjainál egy gyönyörű templommal és múzeummal.",
-      ro: "Insulă artificială în largul coastelor Perast, cu o frumoasă biserică și un muzeu.",
-      en: "Artificial island off the coast of Perast with a beautiful church and museum."
-    }, image: "/poi-images/me-our-lady-rocks.webp"},
-  {
-    id: "me-njegos-mausoleum",
-    name: { de: "Njegoš-Mausoleum", hu: "Njegoš Mauzóleum", ro: "Mausoleul lui Njegoš", en: "Njegoš Mausoleum" },
-    type: "landmark",
-    coords: [18.8008, 42.3994],
-    parent: "ME-ALL",
-    description: {
-      de: "Das Grabdenkmal für Petar II. Petrović-Njegoš auf dem Berg Lovćen.",
-      hu: "Petar II. Petrović-Njegoš síremléke a Lovćen hegyen.",
-      ro: "Mormântul lui Petar al II-lea Petrović-Njegoș de pe muntele Lovćen.",
-      en: "The burial monument to Petar II Petrović-Njegoš on Mount Lovćen."
-    }, image: "/poi-images/me-njegos-mausoleum.webp"},
-  {
-    id: "me-stari-bar",
-    name: { de: "Stari Bar", hu: "Stari Bar", ro: "Stari Bar", en: "Stari Bar" },
-    type: "historical",
-    coords: [19.1350, 42.0933],
-    parent: "ME-ALL",
-    description: {
-      de: "Ruinenstadt und eine der weltweit größten befestigten archäologischen Stätten.",
-      hu: "Romváros és a világ egyik legnagyobb erődített régészeti lelőhelye.",
-      ro: "Oraș în ruină și unul dintre cele mai mari situri arheologice fortificate din lume.",
-      en: "Ruined town and one of the world's largest fortified archaeological sites."
-    }, image: "/poi-images/me-stari-bar.webp"},
-  {
     id: "me-mamula",
     name: { de: "Mamula", hu: "Mamula", ro: "Mamula", en: "Mamula" },
     type: "historical",
@@ -352,18 +114,6 @@ export const montenegroAllPoi: POI[] = [
     }
   },
   {
-    id: "me-king-nikola-palace",
-    name: { de: "Palast von König Nikola", hu: "Nikola király palotája", ro: "Palatul Regelui Nikola", en: "King Nikola's Palace" },
-    type: "landmark",
-    coords: [18.9236, 42.3867],
-    parent: "ME-ALL",
-    description: {
-      de: "Ehemalige Residenz in Cetinje, die heute das Nationalmuseum beherbergt.",
-      hu: "Egykori rezidencia Cetinjében, amely ma a Nemzeti Múzeumnak ad otthont.",
-      ro: "Fosta reședință din Cetinje, care găzduiește acum Muzeul Național.",
-      en: "Former residence in Cetinje that now houses the National Museum."
-    }, image: "/poi-images/me-king-nikola-palace.webp"},
-  {
     id: "me-moraca-monastery",
     name: { de: "Kloster Morača", hu: "Morača kolostor", ro: "Mănăstirea Morača", en: "Morača Monastery" },
     type: "historical",
@@ -377,25 +127,6 @@ export const montenegroAllPoi: POI[] = [
     }, image: "/poi-images/me-moraca-monastery.webp"},
   // REGIONAL POIS (2 per region)
   // ME-001: Herceg Novi
-  {
-    id: "me-001-city",
-    name: { de: "Herceg Novi", hu: "Herceg Novi", ro: "Herceg Novi", en: "Herceg Novi" },
-    type: "city",
-    coords: [18.5375, 42.4531],
-    parent: "ME-001",
-    description: {
-      de: "Eine Küstenstadt am Eingang der Bucht von Kotor.",
-      hu: "Tengerparti város a Kotori-öböl bejáratánál.",
-      ro: "Un oraș de coastă la intrarea în Golful Kotor.",
-      en: "A coastal town located at the entrance to the Bay of Kotor."
-    },
-    facts: {
-      de: ["Bekannt für seine vielen Treppen.", "Heimat der Festung Forte Mare.", "Berühmt für das Mimosenfestival.", "Tor zur Bucht von Kotor."],
-      hu: ["A 'lépcsők városaként' is ismert.", "Itt található a Forte Mare erőd.", "Híres a Mimóza-fesztiválról.", "A Kotori-öböl bejárata."],
-      ro: ["Cunoscut sub numele de „orașul scărilor”.", "Găzduiește fortăreața Forte Mare.", "Faimos pentru Festivalul Mimozelor.", "Poarta către Golful Kotor."],
-      en: ["Known as the 'city of stairs'.", "Home to the Forte Mare fortress.", "Famous for the Mimosa Festival.", "The gateway to the Bay of Kotor."]
-    }
-  },
   {
     id: "me-001-kanli-kula",
     name: { de: "Kanli Kula", hu: "Kanli Kula", ro: "Kanli Kula", en: "Kanli Kula" },
@@ -606,43 +337,6 @@ export const montenegroAllPoi: POI[] = [
       en: ["Founded by Prince Miroslav.", "Superb Romanesque architecture.", "Significant cultural monument.", "Former episcopal seat."]
     }, image: "/poi-images/me-006-st-peter.webp"},
   // ME-007: Žabljak
-  {
-    id: "me-007-city",
-    name: { de: "Žabljak", hu: "Žabljak", ro: "Žabljak", en: "Žabljak" },
-    type: "city",
-    coords: [19.1228, 43.1542],
-    parent: "ME-007",
-    description: {
-      de: "Die höchstgelegene Stadt auf dem Balkan, im Herzen des Durmitor.",
-      hu: "A Balkán legmagasabban fekvő városa a Durmitor szívében.",
-      ro: "Orașul situat la cea mai mare altitudine din Balcani, în inima Durmitorului.",
-      en: "The highest town in the Balkans, in the heart of Durmitor."
-    },
-    facts: {
-      de: ["Liegt auf 1456 m Höhe.", "Zentrum des Wintersports.", "Tor zum Nationalpark Durmitor.", "Umgeben von 18 Gletscherseen."],
-      hu: ["1456 méter magasan fekszik.", "A téli sportok központja.", "A Durmitor Nemzeti Park kapuja.", "18 gleccsertó veszi körül."],
-      ro: ["Situat la 1456 m altitudine.", "Centru al sporturilor de iarnă.", "Poarta către Parcul Național Durmitor.", "Înconjurat de 18 lacuri glaciare."],
-      en: ["Located at 1456 m altitude.", "Center for winter sports.", "Gateway to Durmitor National Park.", "Surrounded by 18 glacial lakes."]
-    }
-  },
-  {
-    id: "me-007-black-lake",
-    name: { de: "Schwarzer See", hu: "Fekete-tó", ro: "Lacul Negru", en: "Black Lake" },
-    type: "lake",
-    coords: [19.0911, 43.1467],
-    parent: "ME-007",
-    description: {
-      de: "Der bekannteste und größte der 18 Gletscherseen im Durmitor.",
-      hu: "A leghíresebb és legnagyobb a Durmitor 18 gleccsertava közül.",
-      ro: "Cel mai faimos și mai mare dintre cele 18 lacuri glaciare din Durmitor.",
-      en: "The most famous and largest of the 18 glacial lakes in Durmitor."
-    },
-    facts: {
-      de: ["Besteht aus zwei Seen.", "Liegt am Fuße des Medjed.", "Spiegelt die Tannenwälder wider.", "Beliebt für Wanderungen."],
-      hu: ["Két tóból áll.", "A Međed-csúcs lábánál fekszik.", "Vize fenyőerdőket tükröz.", "Népszerű túraútvonal."],
-      ro: ["Format din două lacuri.", "Situat la poalele vârfului Medjed.", "Reflectă pădurile de brazi.", "Popular pentru drumeții."],
-      en: ["Composed of two lakes.", "Located at the foot of Medjed peak.", "Reflects the fir forests.", "Popular for hiking."]
-    }, image: "/poi-images/me-007-black-lake.webp"},
   // ME-008: Plužine
   {
     id: "me-008-city",
@@ -683,25 +377,6 @@ export const montenegroAllPoi: POI[] = [
     }, image: "/poi-images/me-008-piva-monastery.webp"},
   // ME-009: Nikšic
   {
-    id: "me-009-city",
-    name: { de: "Nikšić", hu: "Nikšić", ro: "Nikšić", en: "Nikšić" },
-    type: "city",
-    coords: [18.9445, 42.7731],
-    parent: "ME-009",
-    description: {
-      de: "Ein Industrie- und Bildungszentrum und die zweitgrößte Stadt.",
-      hu: "Ipari és oktatási központ, az ország második legnagyobb városa.",
-      ro: "Un centru industrial și educațional și al doilea oraș ca mărime.",
-      en: "An industrial and educational center and the second largest city."
-    },
-    facts: {
-      de: ["Heimat der Trebjesa-Brauerei.", "Bedeutende römische Wurzeln.", "Sitz der philosophischen Fakultät.", "Bekannt für seine Parks."],
-      hu: ["A Trebjesa sörgyár otthona.", "Jelentős római gyökerek.", "Bölcsészettudományi kar székhelye.", "Parkjairól is ismert."],
-      ro: ["Găzduiește berăria Trebjesa.", "Rădăcini romane importante.", "Sediul facultății de filozofie.", "Cunoscut pentru parcurile sale."],
-      en: ["Home to the Trebjesa brewery.", "Significant Roman roots.", "Seat of the philosophy faculty.", "Known for its parks."]
-    }
-  },
-  {
     id: "me-009-krupac",
     name: { de: "Krupac-See", hu: "Krupac-tó", ro: "Lacul Krupac", en: "Krupac Lake" },
     type: "lake",
@@ -720,25 +395,6 @@ export const montenegroAllPoi: POI[] = [
       en: ["Called the 'Nikšić sea'.", "Host to music festivals.", "Popular for swimming.", "Rich in fish stock."]
     }, image: "/poi-images/me-009-krupac.webp"},
   // ME-010: Kotor
-  {
-    id: "me-010-city",
-    name: { de: "Kotor", hu: "Kotor", ro: "Kotor", en: "Kotor" },
-    type: "city",
-    coords: [18.7712, 42.4247],
-    parent: "ME-010",
-    description: {
-      de: "Eine mittelalterliche Stadt unter UNESCO-Schutz in einer tiefen Bucht.",
-      hu: "UNESCO-védelem alatt álló középkori város egy mély öbölben.",
-      ro: "Un oraș medieval protejat de UNESCO, situat într-un golf adânc.",
-      en: "A UNESCO-protected medieval town situated in a deep bay."
-    },
-    facts: {
-      de: ["UNESCO-Weltkulturerbe.", "Berühmt für venezianische Mauern.", "Kathedrale des Hl. Tryphon.", "Bekannt für seine Katzen."],
-      hu: ["UNESCO Világörökség része.", "Híres velencei falak.", "Szent Tripun-székesegyház.", "Macskáiról is nevezetes."],
-      ro: ["Patrimoniu Mondial UNESCO.", "Faimos pentru zidurile venețiene.", "Catedrala Sfântul Tryphon.", "Cunoscut pentru pisicile sale."],
-      en: ["UNESCO World Heritage site.", "Famous for Venetian walls.", "St. Tryphon's Cathedral.", "Known for its cats."]
-    }
-  },
   {
     id: "me-010-perast",
     name: { de: "Perast", hu: "Perast", ro: "Perast", en: "Perast" },
@@ -797,25 +453,6 @@ export const montenegroAllPoi: POI[] = [
     }, image: "/poi-images/me-011-komovi.webp"},
   // ME-012: Podgorica
   {
-    id: "me-012-city",
-    name: { de: "Podgorica", hu: "Podgorica", ro: "Podgorica", en: "Podgorica" },
-    type: "city",
-    coords: [19.2594, 42.4411],
-    parent: "ME-012",
-    description: {
-      de: "Die moderne Hauptstadt und das administrative Zentrum Montenegros.",
-      hu: "Modern főváros és Montenegró adminisztratív központja.",
-      ro: "Capitala modernă și centrul administrativ al Muntenegrului.",
-      en: "The modern capital and administrative center of Montenegro."
-    },
-    facts: {
-      de: ["Früher Titograd genannt.", "Liegt an fünf Flüssen.", "Hat viele Grünflächen.", "Größte Stadt des Landes."],
-      hu: ["Korábban Titogradnak hívták.", "Öt folyó találkozásánál fekszik.", "Sok zöldfelülettel rendelkezik.", "Az ország legnagyobb városa."],
-      ro: ["Anterior numit Titograd.", "Situat la intersecția a cinci râuri.", "Are multe spații verzi.", "Cel mai mare oraș din țară."],
-      en: ["Formerly called Titograd.", "Located at the confluence of five rivers.", "Has many green spaces.", "Largest city in the country."]
-    }
-  },
-  {
     id: "me-012-millennium",
     name: { de: "Millennium-Brücke", hu: "Milenijum híd", ro: "Podul Mileniului", en: "Millennium Bridge" },
     type: "landmark",
@@ -834,139 +471,9 @@ export const montenegroAllPoi: POI[] = [
       en: ["Opened in 2005.", "173 meters long.", "Impressive pylon structure.", "Connects old and new town."]
     }, image: "/poi-images/me-012-millennium.webp"},
   // ME-013: Bar
-  {
-    id: "me-013-city",
-    name: { de: "Bar", hu: "Bar", ro: "Bar", en: "Bar" },
-    type: "city",
-    coords: [19.1000, 42.1000],
-    parent: "ME-013",
-    description: {
-      de: "Ein moderner Seehafen und ein wichtiges Handelszentrum an der Küste.",
-      hu: "Modern tengeri kikötő és fontos kereskedelmi központ a parton.",
-      ro: "Un port maritim modern și un important centru comercial de pe coastă.",
-      en: "A modern seaport and an important commercial center on the coast."
-    },
-    facts: {
-      de: ["Größter Hafen Montenegros.", "Endpunkt der Bahnstrecke Belgrad-Bar.", "Bekannt für Olivenöl.", "Mischung aus Kulturen."],
-      hu: ["Montenegró legnagyobb kikötője.", "A Belgrád-Bar vasútvonal vége.", "Olívaolajáról híres.", "Kultúrák találkozóhelye."],
-      ro: ["Cel mai mare port din Muntenegru.", "Punctul final al căii ferate Belgrad-Bar.", "Cunoscut pentru uleiul de măsline.", "Un amestec de culturi."],
-      en: ["Montenegro's largest port.", "End of the Belgrade-Bar railway.", "Famous for olive oil.", "A blend of cultures."]
-    }
-  },
-  {
-    id: "me-013-stari-bar",
-    name: { de: "Stari Bar", hu: "Stari Bar", ro: "Stari Bar", en: "Stari Bar" },
-    type: "historical",
-    coords: [19.1350, 42.0933],
-    parent: "ME-013",
-    description: {
-      de: "Ruinenstadt und eine der weltweit größten befestigten archäologischen Stätten.",
-      hu: "Romváros és a világ egyik legnagyobb erődített régészeti lelőhelye.",
-      ro: "Oraș în ruină și unul dintre cele mai mari situri arheologice fortificate din lume.",
-      en: "Ruined town and one of the world's largest fortified archaeological sites."
-    },
-    facts: {
-      de: ["Bewahrt 2500 Jahre Geschichte.", "Bedeutendes Aquädukt.", "Festung mit Meerblick.", "Von Olivenhainen umgeben."],
-      hu: ["2500 év történelmét őrzi.", "Jelentős vízvezeték (akvadukt).", "Erőd tengeri kilátással.", "Olajfaligetek veszik körül."],
-      ro: ["Păstrează 2500 de ani de istorie.", "Apeduct important.", "Fortăreață cu vedere la mare.", "Înconjurat de livezi de măslini."],
-      en: ["Preserves 2500 years of history.", "Significant aqueduct.", "Fortress with sea views.", "Surrounded by olive groves."]
-    }, image: "/poi-images/me-013-stari-bar.webp"},
   // ME-014: Ulcinj
-  {
-    id: "me-014-city",
-    name: { de: "Ulcinj", hu: "Ulcinj", ro: "Ulcinj", en: "Ulcinj" },
-    type: "city",
-    coords: [19.2244, 41.9294],
-    parent: "ME-014",
-    description: {
-      de: "Eine Stadt mit orientalien Flair und endlosen Sandstränden.",
-      hu: "Keleties hangulatú város végtelen homokos strandokkal.",
-      ro: "Un oraș cu o atmosferă orientală și plaje nesfârșite de nisip.",
-      en: "A town with an oriental flair and endless sandy beaches."
-    },
-    facts: {
-      de: ["Einst ein Piratenstützpunkt.", "Älteste Stadt an der Küste.", "Bekannt für die Altstadt.", "Multikulturelle Bevölkerung."],
-      hu: ["Egykor kalózok bázisa volt.", "A legöregebb város a parton.", "Híres az óvárosáról.", "Multikulturális lakosság."],
-      ro: ["Fostă bază de pirați.", "Cel mai vechi oraș de pe coastă.", "Cunoscut pentru orașul vechi.", "Populație multiculturală."],
-      en: ["Once a pirate stronghold.", "Oldest town on the coast.", "Known for its old town.", "Multicultural population."]
-    }
-  },
-  {
-    id: "me-014-ada-bojana",
-    name: { de: "Ada Bojana", hu: "Ada Bojana", ro: "Ada Bojana", en: "Ada Bojana" },
-    type: "island",
-    coords: [19.3486, 41.8617],
-    parent: "ME-014",
-    description: {
-      de: "Flussinsel am südlichen Ende Montenegros, beliebt bei Kitesurfern.",
-      hu: "Folyami sziget Montenegró déli végén, a kiteszörfösök kedvence.",
-      ro: "Insulă fluvială la capătul sudic al Muntenegrului, populară pentru kitesurfing.",
-      en: "River island at the southern end of Montenegro, popular for kitesurfing."
-    },
-    facts: {
-      de: ["Dreieckige Form.", "Berühmt für Fischrestaurants.", "FKK-Resort-Tradition.", "Grenze zu Albanien."],
-      hu: ["Háromszög alakú.", "Híres haléttermeiről.", "Nudista üdülőhelyi hagyomány.", "Albánia határán fekszik."],
-      ro: ["Formă triunghiulară.", "Faimoasă pentru restaurantele de pește.", "Tradiție de stațiune naturistă.", "Granița cu Albania."],
-      en: ["Triangular shape.", "Famous for fish restaurants.", "Nudist resort tradition.", "Border with Albania."]
-    }, image: "/poi-images/me-014-ada-bojana.webp"},
   // ME-015: Budva
-  {
-    id: "me-015-city",
-    name: { de: "Budva", hu: "Budva", ro: "Budva", en: "Budva" },
-    type: "city",
-    coords: [18.8400, 42.2881],
-    parent: "ME-015",
-    description: {
-      de: "Das touristische Zentrum Montenegros mit einer charmanten Altstadt.",
-      hu: "Montenegró turisztikai központja hangulatos óvárossal.",
-      ro: "Centrul turistic al Muntenegrului, cu un oraș vechi fermecător.",
-      en: "The tourist center of Montenegro with a charming old town."
-    },
-    facts: {
-      de: ["Berühmt für das Nachtleben.", "Besitzt eine Zitadelle.", "Wunderschöne Strände.", "Eine der ältesten Siedlungen."],
-      hu: ["Éjszakai életéről híres.", "Citadellával rendelkezik.", "Gyönyörű strandok.", "Az egyik legősibb település."],
-      ro: ["Faimos pentru viața de noapte.", "Deține o citadelă.", "Plaje superbe.", "Una dintre cele mai vechi așezări."],
-      en: ["Famous for nightlife.", "Has a citadel.", "Beautiful beaches.", "One of the oldest settlements."]
-    }
-  },
-  {
-    id: "me-015-sveti-stefan",
-    name: { de: "Sveti Stefan", hu: "Sveti Stefan", ro: "Sveti Stefan", en: "Sveti Stefan" },
-    type: "island",
-    coords: [18.8911, 42.2558],
-    parent: "ME-015",
-    description: {
-      de: "Eine kleine Insel und ein Luxusresort mit Gebäuden aus dem 15. Jahrhundert.",
-      hu: "Kis sziget és luxusüdülőhely 15. századi épületekkel.",
-      ro: "O mică insulă și o stațiune de lux cu clădiri din secolul al XV-lea.",
-      en: "A small islet and luxury resort featuring 15th-century buildings."
-    },
-    facts: {
-      de: ["Einst ein Fischerdorf.", "Durch Isthmus verbunden.", "Exklusivstes Ziel an der Adria.", "Beliebter Ort für Prominente."],
-      hu: ["Egykor halászfalu volt.", "Földnyelv köti össze a parttal.", "Az Adria legexkluzívabb helye.", "Hírességek kedvelt pihenőhelye."],
-      ro: ["Fost sat de pescari.", "Conectată prin istm.", "Cea mai exclusivistă destinație de la Adriatica.", "Loc preferat de celebrități."],
-      en: ["Once a fishing village.", "Connected by an isthmus.", "Most exclusive destination on the Adriatic.", "Favorite spot for celebrities."]
-    }, image: "/poi-images/me-015-sveti-stefan.webp"},
   // ME-016: Tivat
-  {
-    id: "me-016-city",
-    name: { de: "Tivat", hu: "Tivat", ro: "Tivat", en: "Tivat" },
-    type: "city",
-    coords: [18.6961, 42.4364],
-    parent: "ME-016",
-    description: {
-      de: "Eine moderne Stadt in der Bucht von Kotor mit luxuriösem Flair.",
-      hu: "Modern város a Kotori-öbölben luxus hangulattal.",
-      ro: "Un oraș modern în Golful Kotor, cu o atmosferă de lux.",
-      en: "A modern town in the Bay of Kotor with a luxury feel."
-    },
-    facts: {
-      de: ["Heimat von Porto Montenegro.", "Hat einen internationalen Flughafen.", "Einst eine Marinewerft.", "Sehr sonnige Stadt."],
-      hu: ["A Porto Montenegro otthona.", "Nemzetközi repülőtere van.", "Egykor tengerészeti udvar.", "Nagyon napos város."],
-      ro: ["Găzduiește Porto Montenegro.", "Are un aeroport internațional.", "Fost șantier naval militar.", "Un oraș foarte însorit."],
-      en: ["Home to Porto Montenegro.", "Has an international airport.", "Former naval shipyard.", "A very sunny town."]
-    }
-  },
   {
     id: "me-016-porto-montenegro",
     name: { de: "Porto Montenegro", hu: "Porto Montenegro", ro: "Porto Montenegro", en: "Porto Montenegro" },
@@ -1005,44 +512,7 @@ export const montenegroAllPoi: POI[] = [
       en: ["Site of the 1916 battle.", "Located between Tara and Lim.", "Mining tradition.", "Gateway to the Tara Canyon."]
     }
   },
-  {
-    id: "me-017-biogradska-gora",
-    name: { de: "Biogradska Gora", hu: "Biogradska Gora", ro: "Biogradska Gora", en: "Biogradska Gora" },
-    type: "forest",
-    coords: [19.6000, 42.9000],
-    parent: "ME-017",
-    description: {
-      de: "Einer der letzten Urwälder Europas im gleichnamigen Nationalpark.",
-      hu: "Európa egyik utolsó őserdeje az azonos nevű nemzeti parkban.",
-      ro: "Una dintre ultimele păduri virgine din Europa, în parcul național omonim.",
-      en: "One of the last virgin forests in Europe, in the national park of the same name."
-    },
-    facts: {
-      de: ["Sehr reiche Artenvielfalt.", "Wunderschöner Biograd-See.", "Über 500 Jahre alte Bäume.", "Einzigartiges Ökosystem."],
-      hu: ["Nagyon gazdag fajszínvonal.", "Gyönyörű Biográdi-tó.", "Több mint 500 éves fák.", "Egyedülálló ökoszisztéma."],
-      ro: ["Biodiversitate foarte bogată.", "Lacul Biograd este superb.", "Copaci de peste 500 de ani.", "Ecosistem unic."],
-      en: ["Very rich biodiversity.", "Beautiful Biograd Lake.", "Trees over 500 years old.", "Unique ecosystem."]
-    }, image: "/poi-images/me-017-biogradska-gora.webp"},
   // ME-018: Cetinje
-  {
-    id: "me-018-city",
-    name: { de: "Cetinje", hu: "Cetinje", ro: "Cetinje", en: "Cetinje" },
-    type: "city",
-    coords: [18.9144, 42.3931],
-    parent: "ME-018",
-    description: {
-      de: "Die historische und kulturelle Hauptstadt Montenegros.",
-      hu: "Montenegró történelmi és kulturális fővárosa.",
-      ro: "Capitala istorică și culturală a Muntenegrului.",
-      en: "The historic and cultural capital of Montenegro."
-    },
-    facts: {
-      de: ["Sitz des Präsidenten.", "Reich an Museen.", "Gegründet im 15. Jahrhundert.", "Königliche Architektur."],
-      hu: ["Az elnök székhelye.", "Múzeumokban gazdag.", "A 15. században alapították.", "Királyi építészet."],
-      ro: ["Sediul președintelui.", "Bogat în muzee.", "Fondat în secolul al XV-lea.", "Arhitectură regală."],
-      en: ["Seat of the President.", "Rich in museums.", "Founded in the 15th century.", "Royal architecture."]
-    }
-  },
   {
     id: "me-018-lovcen",
     name: { de: "Nationalpark Lovćen", hu: "Lovćen Nemzeti Park", ro: "Parcul Național Lovćen", en: "Lovćen National Park" },
@@ -1157,23 +627,4 @@ export const montenegroAllPoi: POI[] = [
       en: ["Planned to be the capital.", "Known for stonemasonry.", "Located on the Zeta River.", "Agricultural center."]
     }
   },
-  {
-    id: "me-021-ostrog",
-    name: { de: "Kloster Ostrog", hu: "Ostrog kolostor", ro: "Mănăstirea Ostrog", en: "Ostrog Monastery" },
-    type: "landmark",
-    coords: [19.0300, 42.6750],
-    parent: "ME-021",
-    description: {
-      de: "Das meistbesuchte orthodoxe Heiligtum auf dem Balkan.",
-      hu: "A leglátogatottabb ortodox szenthely a Balkánon.",
-      ro: "Cel mai vizitat sanctuar ortodox din Balcani.",
-      en: "The most visited Orthodox sanctuary in the Balkans."
-    },
-    facts: {
-      de: ["In den Fels gehauen.", "Vom Hl. Vasilije gegründet.", "Wunderbare Architektur.", "Pilgerort aller Religionen."],
-      hu: ["Sziklába vájták.", "Szent Vaszilije alapította.", "Csodálatos építészet.", "Minden vallás zarándokhelye."],
-      ro: ["Săpată în stâncă.", "Fondată de Sf. Vasilije.", "Arhitectură miraculoasă.", "Loc de pelerinaj universal."],
-      en: ["Carved into the rock.", "Founded by St. Vasilije.", "Miraculous architecture.", "Pilgrimage site for all."]
-    }
-  }
 ];

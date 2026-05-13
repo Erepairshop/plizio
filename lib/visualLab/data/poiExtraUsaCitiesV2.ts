@@ -7,9 +7,8 @@ export const poiExtraUsaCitiesV2: POI[] = [
     type: "city",
     parent: "US-NY",
     coords: [-74.0060, 40.7128],
-    name: { de: "New York City", hu: "New York", ro: "New York", en: "New York City",
-image: "/poi-images/new-york-city-cities-v2.webp"
-},
+    name: { de: "New York City", hu: "New York", ro: "New York", en: "New York City"},
+    image: "/poi-images/new-york-city-cities-v2.webp",
     description: {
       de: "Die bevölkerungsreichste Stadt der Vereinigten Staaten, ein globales Zentrum für Finanzen, Kultur und Medien.",
       hu: "Az Egyesült Államok legnépesebb városa, a pénzügy, a kultúra és a média globális központja.",
@@ -38,9 +37,8 @@ image: "/poi-images/new-york-city-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-118.2437, 34.0522],
-    name: { de: "Los Angeles", hu: "Los Angeles", ro: "Los Angeles", en: "Los Angeles",
-image: "/poi-images/los-angeles-cities-v2.webp"
-},
+    name: { de: "Los Angeles", hu: "Los Angeles", ro: "Los Angeles", en: "Los Angeles"},
+    image: "/poi-images/los-angeles-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Kalifornien und das Zentrum der amerikanischen Film- und Unterhaltungsindustrie.",
       hu: "Kalifornia legnagyobb városa, az amerikai film- és szórakoztatóipar központja.",
@@ -69,9 +67,8 @@ image: "/poi-images/los-angeles-cities-v2.webp"
     type: "city",
     parent: "US-IL",
     coords: [-87.6298, 41.8781],
-    name: { de: "Chicago", hu: "Chicago", ro: "Chicago", en: "Chicago",
-image: "/poi-images/chicago-cities-v2.webp"
-},
+    name: { de: "Chicago", hu: "Chicago", ro: "Chicago", en: "Chicago"},
+    image: "/poi-images/chicago-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Mittleren Westen, bekannt für ihre kühne Architektur und ihre Wolkenkratzer.",
       hu: "A Közép-Nyugat legnagyobb városa, merész építészetéről és felhőkarcolóiról ismert.",
@@ -100,9 +97,8 @@ image: "/poi-images/chicago-cities-v2.webp"
     type: "city",
     parent: "US-TX",
     coords: [-95.3698, 29.7604],
-    name: { de: "Houston", hu: "Houston", ro: "Houston", en: "Houston",
-image: "/poi-images/houston-cities-v2.webp"
-},
+    name: { de: "Houston", hu: "Houston", ro: "Houston", en: "Houston"},
+    image: "/poi-images/houston-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Texas, ein Zentrum der Öl- und Gasindustrie und der Weltraumforschung.",
       hu: "Texas legnagyobb városa, az olaj- és gázipar, valamint az űrkutatás központja.",
@@ -131,9 +127,8 @@ image: "/poi-images/houston-cities-v2.webp"
     type: "state-capital",
     parent: "US-AZ",
     coords: [-112.0740, 33.4484],
-    name: { de: "Phoenix", hu: "Phoenix", ro: "Phoenix", en: "Phoenix",
-image: "/poi-images/phoenix-cities-v2.webp"
-},
+    name: { de: "Phoenix", hu: "Phoenix", ro: "Phoenix", en: "Phoenix"},
+    image: "/poi-images/phoenix-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und bevölkerungsreichste Stadt von Arizona, bekannt für ihr heißes Wüstenklima.",
       hu: "Arizona fővárosa és legnépesebb városa, forró sivatagi éghajlatáról ismert.",
@@ -162,9 +157,8 @@ image: "/poi-images/phoenix-cities-v2.webp"
     type: "city",
     parent: "US-PA",
     coords: [-75.1652, 39.9526],
-    name: { de: "Philadelphia", hu: "Philadelphia", ro: "Philadelphia", en: "Philadelphia",
-image: "/poi-images/philadelphia-cities-v2.webp"
-},
+    name: { de: "Philadelphia", hu: "Philadelphia", ro: "Philadelphia", en: "Philadelphia"},
+    image: "/poi-images/philadelphia-cities-v2.webp",
     description: {
       de: "Eine historisch bedeutsame Stadt, in der die Unabhängigkeitserklärung und die Verfassung unterzeichnet wurden.",
       hu: "Történelmileg jelentős város, ahol a Függetlenségi Nyilatkozatot és az Alkotmányt aláírták.",
@@ -193,9 +187,8 @@ image: "/poi-images/philadelphia-cities-v2.webp"
     type: "city",
     parent: "US-TX",
     coords: [-98.4936, 29.4241],
-    name: { de: "San Antonio", hu: "San Antonio", ro: "San Antonio", en: "San Antonio",
-image: "/poi-images/san-antonio-cities-v2.webp"
-},
+    name: { de: "San Antonio", hu: "San Antonio", ro: "San Antonio", en: "San Antonio"},
+    image: "/poi-images/san-antonio-cities-v2.webp",
     description: {
       de: "Eine Stadt mit reichem kolonialem Erbe, bekannt für den Alamo und den River Walk.",
       hu: "Gazdag gyarmati örökséggel rendelkező város, az Alamoról és a River Walkról ismert.",
@@ -224,9 +217,8 @@ image: "/poi-images/san-antonio-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-117.1611, 32.7157],
-    name: { de: "San Diego", hu: "San Diego", ro: "San Diego", en: "San Diego",
-image: "/poi-images/san-diego-cities-v2.webp"
-},
+    name: { de: "San Diego", hu: "San Diego", ro: "San Diego", en: "San Diego"},
+    image: "/poi-images/san-diego-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt in Südkalifornien, bekannt für ihre Strände, Parks und das milde Klima.",
       hu: "Part menti város Dél-Kaliforniában, strandjairól, parkjairól és enyhe éghajlatáról ismert.",
@@ -255,9 +247,8 @@ image: "/poi-images/san-diego-cities-v2.webp"
     type: "city",
     parent: "US-TX",
     coords: [-96.7970, 32.7767],
-    name: { de: "Dallas", hu: "Dallas", ro: "Dallas", en: "Dallas",
-image: "/poi-images/dallas-cities-v2.webp"
-},
+    name: { de: "Dallas", hu: "Dallas", ro: "Dallas", en: "Dallas"},
+    image: "/poi-images/dallas-cities-v2.webp",
     description: {
       de: "Ein wichtiges Handels- und Kulturzentrum in Nordtexas.",
       hu: "Észak-Texas fontos kereskedelmi és kulturális központja.",
@@ -286,9 +277,8 @@ image: "/poi-images/dallas-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-121.8863, 37.3382],
-    name: { de: "San José", hu: "San José", ro: "San Jose", en: "San Jose",
-image: "/poi-images/san-jose-cities-v2.webp"
-},
+    name: { de: "San José", hu: "San José", ro: "San Jose", en: "San Jose"},
+    image: "/poi-images/san-jose-cities-v2.webp",
     description: {
       de: "Das wirtschaftliche, kulturelle und politische Zentrum des Silicon Valley.",
       hu: "A Szilícium-völgy gazdasági, kulturális és politikai központja.",
@@ -319,9 +309,8 @@ image: "/poi-images/san-jose-cities-v2.webp"
     type: "state-capital",
     parent: "US-TX",
     coords: [-97.7431, 30.2672],
-    name: { de: "Austin", hu: "Austin", ro: "Austin", en: "Austin",
-image: "/poi-images/austin-cities-v2.webp"
-},
+    name: { de: "Austin", hu: "Austin", ro: "Austin", en: "Austin"},
+    image: "/poi-images/austin-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Texas, bekannt für ihre lebendige Live-Musik-Szene und ihre Technologie-Industrie.",
       hu: "Texas fővárosa, élénk élőzenei színteréről és technológiai iparáról ismert.",
@@ -352,9 +341,8 @@ image: "/poi-images/austin-cities-v2.webp"
     type: "city",
     parent: "US-FL",
     coords: [-81.6557, 30.3322],
-    name: { de: "Jacksonville", hu: "Jacksonville", ro: "Jacksonville", en: "Jacksonville",
-image: "/poi-images/jacksonville-cities-v2.webp"
-},
+    name: { de: "Jacksonville", hu: "Jacksonville", ro: "Jacksonville", en: "Jacksonville"},
+    image: "/poi-images/jacksonville-cities-v2.webp",
     description: {
       de: "Die flächenmäßig größte Stadt in den kontinentalen Vereinigten Staaten, an der Atlantikküste Floridas.",
       hu: "Az kontinentális Egyesült Államok legnagyobb területű városa, Florida atlanti partvidékén.",
@@ -385,9 +373,8 @@ image: "/poi-images/jacksonville-cities-v2.webp"
     type: "city",
     parent: "US-TX",
     coords: [-97.3327, 32.7555],
-    name: { de: "Fort Worth", hu: "Fort Worth", ro: "Fort Worth", en: "Fort Worth",
-image: "/poi-images/fort-worth-cities-v2.webp"
-},
+    name: { de: "Fort Worth", hu: "Fort Worth", ro: "Fort Worth", en: "Fort Worth"},
+    image: "/poi-images/fort-worth-cities-v2.webp",
     description: {
       de: "Eine Stadt in Nordtexas, bekannt für ihr westliches Erbe und ihre boomende Innenstadt.",
       hu: "Észak-texasi város, nyugati örökségéről és virágzó belvárosáról ismert.",
@@ -418,9 +405,8 @@ image: "/poi-images/fort-worth-cities-v2.webp"
     type: "state-capital",
     parent: "US-OH",
     coords: [-82.9988, 39.9612],
-    name: { de: "Columbus", hu: "Columbus", ro: "Columbus", en: "Columbus",
-image: "/poi-images/columbus-cities-v2.webp"
-},
+    name: { de: "Columbus", hu: "Columbus", ro: "Columbus", en: "Columbus"},
+    image: "/poi-images/columbus-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt Ohios, Sitz der Ohio State University.",
       hu: "Ohio fővárosa és legnagyobb városa, az Ohio State University székhelye.",
@@ -451,9 +437,8 @@ image: "/poi-images/columbus-cities-v2.webp"
     type: "city",
     parent: "US-NC",
     coords: [-80.8431, 35.2271],
-    name: { de: "Charlotte", hu: "Charlotte", ro: "Charlotte", en: "Charlotte",
-image: "/poi-images/charlotte-cities-v2.webp"
-},
+    name: { de: "Charlotte", hu: "Charlotte", ro: "Charlotte", en: "Charlotte"},
+    image: "/poi-images/charlotte-cities-v2.webp",
     description: {
       de: "Ein wichtiges Finanzzentrum und die größte Stadt in North Carolina.",
       hu: "Fontos pénzügyi központ és Észak-Karolina legnagyobb városa.",
@@ -484,9 +469,8 @@ image: "/poi-images/charlotte-cities-v2.webp"
     type: "state-capital",
     parent: "US-IN",
     coords: [-86.1581, 39.7684],
-    name: { de: "Indianapolis", hu: "Indianapolis", ro: "Indianapolis", en: "Indianapolis",
-image: "/poi-images/indianapolis-cities-v2.webp"
-},
+    name: { de: "Indianapolis", hu: "Indianapolis", ro: "Indianapolis", en: "Indianapolis"},
+    image: "/poi-images/indianapolis-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Indiana, berühmt für das Autorennen Indianapolis 500.",
       hu: "Indiana fővárosa, híres az Indianapolis 500 autóversenyről.",
@@ -517,9 +501,8 @@ image: "/poi-images/indianapolis-cities-v2.webp"
     type: "city",
     parent: "US-WA",
     coords: [-122.3321, 47.6062],
-    name: { de: "Seattle", hu: "Seattle", ro: "Seattle", en: "Seattle",
-image: "/poi-images/seattle-cities-v2.webp"
-},
+    name: { de: "Seattle", hu: "Seattle", ro: "Seattle", en: "Seattle"},
+    image: "/poi-images/seattle-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt und Technologiezentrum im pazifischen Nordwesten, umgeben von Wasser, Bergen und Wäldern.",
       hu: "Part menti város és technológiai központ a csendes-óceáni északnyugaton, vízzel, hegyekkel és erdőkkel körülvéve.",
@@ -550,9 +533,8 @@ image: "/poi-images/seattle-cities-v2.webp"
     type: "state-capital",
     parent: "US-CO",
     coords: [-104.9903, 39.7392],
-    name: { de: "Denver", hu: "Denver", ro: "Denver", en: "Denver",
-image: "/poi-images/denver-cities-v2.webp"
-},
+    name: { de: "Denver", hu: "Denver", ro: "Denver", en: "Denver"},
+    image: "/poi-images/denver-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Colorado, eine hochgelegene Stadt am Fuße der Rocky Mountains.",
       hu: "Colorado fővárosa, egy magasan fekvő város a Sziklás-hegység lábánál.",
@@ -583,9 +565,8 @@ image: "/poi-images/denver-cities-v2.webp"
     type: "city",
     parent: "US-DC",
     coords: [-77.0369, 38.9072],
-    name: { de: "Washington, D.C.", hu: "Washington D.C.", ro: "Washington, D.C.", en: "Washington, D.C.",
-image: "/poi-images/washington-dc-cities-v2.webp"
-},
+    name: { de: "Washington, D.C.", hu: "Washington D.C.", ro: "Washington, D.C.", en: "Washington, D.C."},
+    image: "/poi-images/washington-dc-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Vereinigten Staaten, Heimat von ikonischen Denkmälern und Bundesgebäuden.",
       hu: "Az Egyesült Államok fővárosa, ikonikus emlékművek és szövetségi épületek otthona.",
@@ -616,9 +597,8 @@ image: "/poi-images/washington-dc-cities-v2.webp"
     type: "state-capital",
     parent: "US-MA",
     coords: [-71.0589, 42.3601],
-    name: { de: "Boston", hu: "Boston", ro: "Boston", en: "Boston",
-image: "/poi-images/boston-cities-v2.webp"
-},
+    name: { de: "Boston", hu: "Boston", ro: "Boston", en: "Boston"},
+    image: "/poi-images/boston-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Massachusetts, eine der ältesten Städte der USA mit einer reichen Geschichte der Amerikanischen Revolution.",
       hu: "Massachusetts fővárosa, az USA egyik legrégebbi városa, gazdag amerikai forradalmi történelemmel.",
@@ -649,9 +629,8 @@ image: "/poi-images/boston-cities-v2.webp"
     type: "city",
     parent: "US-TX",
     coords: [-106.4850, 31.7619],
-    name: { de: "El Paso", hu: "El Paso", ro: "El Paso", en: "El Paso",
-image: "/poi-images/el-paso-cities-v2.webp"
-},
+    name: { de: "El Paso", hu: "El Paso", ro: "El Paso", en: "El Paso"},
+    image: "/poi-images/el-paso-cities-v2.webp",
     description: {
       de: "Eine Stadt im äußersten Westen von Texas an der Grenze zu Mexiko, mit einer starken hispanischen Kultur.",
       hu: "Város Texas legnyugatibb csücskében, a mexikói határon, erős spanyol kultúrával.",
@@ -682,9 +661,8 @@ image: "/poi-images/el-paso-cities-v2.webp"
     type: "city",
     parent: "US-MI",
     coords: [-83.0458, 42.3314],
-    name: { de: "Detroit", hu: "Detroit", ro: "Detroit", en: "Detroit",
-image: "/poi-images/detroit-cities-v2.webp"
-},
+    name: { de: "Detroit", hu: "Detroit", ro: "Detroit", en: "Detroit"},
+    image: "/poi-images/detroit-cities-v2.webp",
     description: {
       de: "Historisch bekannt als das Zentrum der US-Automobilindustrie und Heimat des Motown-Sounds.",
       hu: "Történelmileg az amerikai autóipar központjaként és a Motown hangzás otthonaként ismert.",
@@ -715,9 +693,8 @@ image: "/poi-images/detroit-cities-v2.webp"
     type: "state-capital",
     parent: "US-TN",
     coords: [-86.7816, 36.1627],
-    name: { de: "Nashville", hu: "Nashville", ro: "Nashville", en: "Nashville",
-image: "/poi-images/nashville-cities-v2.webp"
-},
+    name: { de: "Nashville", hu: "Nashville", ro: "Nashville", en: "Nashville"},
+    image: "/poi-images/nashville-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Tennessee und ein Zentrum der Country-Musik-Industrie.",
       hu: "Tennessee fővárosa és a country zeneiparának központja.",
@@ -748,9 +725,8 @@ image: "/poi-images/nashville-cities-v2.webp"
     type: "city",
     parent: "US-OR",
     coords: [-122.6750, 45.5051],
-    name: { de: "Portland (Oregon)", hu: "Portland (Oregon)", ro: "Portland (Oregon)", en: "Portland, OR",
-image: "/poi-images/portland-or-cities-v2.webp"
-},
+    name: { de: "Portland (Oregon)", hu: "Portland (Oregon)", ro: "Portland (Oregon)", en: "Portland, OR"},
+    image: "/poi-images/portland-or-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Oregon, bekannt für ihre umweltfreundliche Kultur, Parks und Kaffeeszene.",
       hu: "Oregon legnagyobb városa, környezetbarát kultúrájáról, parkjairól és kávézóiról ismert.",
@@ -781,9 +757,8 @@ image: "/poi-images/portland-or-cities-v2.webp"
     type: "city",
     parent: "US-TN",
     coords: [-90.0490, 35.1495],
-    name: { de: "Memphis", hu: "Memphis", ro: "Memphis", en: "Memphis",
-image: "/poi-images/memphis-cities-v2.webp"
-},
+    name: { de: "Memphis", hu: "Memphis", ro: "Memphis", en: "Memphis"},
+    image: "/poi-images/memphis-cities-v2.webp",
     description: {
       de: "Eine Stadt am Mississippi, berühmt als Geburtsort des Blues und Rock 'n' Roll.",
       hu: "Város a Mississippi folyó partján, a blues és a rock 'n' roll szülőhelyeként híres.",
@@ -814,9 +789,8 @@ image: "/poi-images/memphis-cities-v2.webp"
     type: "state-capital",
     parent: "US-OK",
     coords: [-97.5164, 35.4676],
-    name: { de: "Oklahoma City", hu: "Oklahoma City", ro: "Oklahoma City", en: "Oklahoma City",
-image: "/poi-images/oklahoma-city-cities-v2.webp"
-},
+    name: { de: "Oklahoma City", hu: "Oklahoma City", ro: "Oklahoma City", en: "Oklahoma City"},
+    image: "/poi-images/oklahoma-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Oklahoma, bekannt für ihre Cowboy-Kultur und die Viehmärkte.",
       hu: "Oklahoma fővárosa, cowboy-kultúrájáról és szarvasmarha-vásárairól ismert.",
@@ -847,9 +821,8 @@ image: "/poi-images/oklahoma-city-cities-v2.webp"
     type: "city",
     parent: "US-NV",
     coords: [-115.1398, 36.1699],
-    name: { de: "Las Vegas", hu: "Las Vegas", ro: "Las Vegas", en: "Las Vegas",
-image: "/poi-images/las-vegas-cities-v2.webp"
-},
+    name: { de: "Las Vegas", hu: "Las Vegas", ro: "Las Vegas", en: "Las Vegas"},
+    image: "/poi-images/las-vegas-cities-v2.webp",
     description: {
       de: "Weltbekannt als Unterhaltungshauptstadt, berühmt für ihre Casinos, Shows und das pulsierende Nachtleben.",
       hu: "Világhírű szórakoztató főváros, híres kaszinóiról, műsorairól és pezsgő éjszakai életéről.",
@@ -880,9 +853,8 @@ image: "/poi-images/las-vegas-cities-v2.webp"
     type: "city",
     parent: "US-KY",
     coords: [-85.7585, 38.2527],
-    name: { de: "Louisville", hu: "Louisville", ro: "Louisville", en: "Louisville",
-image: "/poi-images/louisville-cities-v2.webp"
-},
+    name: { de: "Louisville", hu: "Louisville", ro: "Louisville", en: "Louisville"},
+    image: "/poi-images/louisville-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Kentucky, berühmt für das Kentucky Derby und Bourbon-Brennereien.",
       hu: "Kentucky legnagyobb városa, híres a Kentucky Derbyről és a bourbon lepárlókról.",
@@ -907,9 +879,8 @@ image: "/poi-images/louisville-cities-v2.webp"
     type: "city",
     parent: "US-MD",
     coords: [-76.6122, 39.2904],
-    name: { de: "Baltimore", hu: "Baltimore", ro: "Baltimore", en: "Baltimore",
-image: "/poi-images/baltimore-cities-v2.webp"
-},
+    name: { de: "Baltimore", hu: "Baltimore", ro: "Baltimore", en: "Baltimore"},
+    image: "/poi-images/baltimore-cities-v2.webp",
     description: {
       de: "Eine historische Hafenstadt in Maryland mit einer reichen maritimen Geschichte.",
       hu: "Történelmi kikötőváros Marylandben, gazdag tengerészeti múlttal.",
@@ -934,9 +905,8 @@ image: "/poi-images/baltimore-cities-v2.webp"
     type: "city",
     parent: "US-WI",
     coords: [-87.9065, 43.0389],
-    name: { de: "Milwaukee", hu: "Milwaukee", ro: "Milwaukee", en: "Milwaukee",
-image: "/poi-images/milwaukee-cities-v2.webp"
-},
+    name: { de: "Milwaukee", hu: "Milwaukee", ro: "Milwaukee", en: "Milwaukee"},
+    image: "/poi-images/milwaukee-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Wisconsin am Ufer des Michigansees, bekannt für ihre Brauereien.",
       hu: "Wisconsin legnagyobb városa a Michigan-tó partján, sörfőzdéiről ismert.",
@@ -961,9 +931,8 @@ image: "/poi-images/milwaukee-cities-v2.webp"
     type: "city",
     parent: "US-NM",
     coords: [-106.6504, 35.0844],
-    name: { de: "Albuquerque", hu: "Albuquerque", ro: "Albuquerque", en: "Albuquerque",
-image: "/poi-images/albuquerque-cities-v2.webp"
-},
+    name: { de: "Albuquerque", hu: "Albuquerque", ro: "Albuquerque", en: "Albuquerque"},
+    image: "/poi-images/albuquerque-cities-v2.webp",
     description: {
       de: "Die größte Stadt in New Mexico, bekannt für das International Balloon Fiesta.",
       hu: "Új-Mexikó legnagyobb városa, a Nemzetközi Hőlégballon Fesztiválról ismert.",
@@ -981,9 +950,8 @@ image: "/poi-images/albuquerque-cities-v2.webp"
     type: "city",
     parent: "US-AZ",
     coords: [-110.9747, 32.2226],
-    name: { de: "Tucson", hu: "Tucson", ro: "Tucson", en: "Tucson",
-image: "/poi-images/tucson-cities-v2.webp"
-},
+    name: { de: "Tucson", hu: "Tucson", ro: "Tucson", en: "Tucson"},
+    image: "/poi-images/tucson-cities-v2.webp",
     description: {
       de: "Eine Stadt in Arizona, umgeben von mehreren Gebirgszügen, mit einer Mischung aus indianischen, spanischen und anglo-amerikanischen Kulturen.",
       hu: "Város Arizonában, több hegylánccal körülvéve, indián, spanyol és angol-amerikai kultúrák keverékével.",
@@ -1001,9 +969,8 @@ image: "/poi-images/tucson-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-119.7871, 36.7378],
-    name: { de: "Fresno", hu: "Fresno", ro: "Fresno", en: "Fresno",
-image: "/poi-images/fresno-cities-v2.webp"
-},
+    name: { de: "Fresno", hu: "Fresno", ro: "Fresno", en: "Fresno"},
+    image: "/poi-images/fresno-cities-v2.webp",
     description: {
       de: "Eine große Stadt im San Joaquin Valley in Kalifornien, ein wichtiges landwirtschaftliches Zentrum.",
       hu: "Nagy város a kaliforniai San Joaquin-völgyben, fontos mezőgazdasági központ.",
@@ -1021,9 +988,8 @@ image: "/poi-images/fresno-cities-v2.webp"
     type: "state-capital",
     parent: "US-CA",
     coords: [-121.4944, 38.5816],
-    name: { de: "Sacramento", hu: "Sacramento", ro: "Sacramento", en: "Sacramento",
-image: "/poi-images/sacramento-cities-v2.webp"
-},
+    name: { de: "Sacramento", hu: "Sacramento", ro: "Sacramento", en: "Sacramento"},
+    image: "/poi-images/sacramento-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Kalifornien, bekannt für ihre Rolle im kalifornischen Goldrausch.",
       hu: "Kalifornia fővárosa, a kaliforniai aranylázban betöltött szerepéről ismert.",
@@ -1041,9 +1007,8 @@ image: "/poi-images/sacramento-cities-v2.webp"
     type: "city",
     parent: "US-MO",
     coords: [-94.5786, 39.0997],
-    name: { de: "Kansas City (Missouri)", hu: "Kansas City (Missouri)", ro: "Kansas City (Missouri)", en: "Kansas City, MO",
-image: "/poi-images/kansas-city-mo-cities-v2.webp"
-},
+    name: { de: "Kansas City (Missouri)", hu: "Kansas City (Missouri)", ro: "Kansas City (Missouri)", en: "Kansas City, MO"},
+    image: "/poi-images/kansas-city-mo-cities-v2.webp",
     description: {
       de: "Eine große Stadt in Missouri, berühmt für ihren Jazz, ihre Brunnen und ihre Barbecue-Küche.",
       hu: "Nagy város Missouriban, híres jazz-éről, szökőkútjairól és barbecue konyhájáról.",
@@ -1061,9 +1026,8 @@ image: "/poi-images/kansas-city-mo-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-118.1937, 33.7701],
-    name: { de: "Long Beach", hu: "Long Beach", ro: "Long Beach", en: "Long Beach",
-image: "/poi-images/long-beach-cities-v2.webp"
-},
+    name: { de: "Long Beach", hu: "Long Beach", ro: "Long Beach", en: "Long Beach"},
+    image: "/poi-images/long-beach-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in Südkalifornien, Heimat des Queen Mary Ozeandampfers und des Aquarium of the Pacific.",
       hu: "Kikötőváros Dél-Kaliforniában, a Queen Mary óceánjáró és a Csendes-óceáni Akvárium otthona.",
@@ -1081,9 +1045,8 @@ image: "/poi-images/long-beach-cities-v2.webp"
     type: "city",
     parent: "US-AZ",
     coords: [-111.8315, 33.4152],
-    name: { de: "Mesa", hu: "Mesa", ro: "Mesa", en: "Mesa",
-image: "/poi-images/mesa-cities-v2.webp"
-},
+    name: { de: "Mesa", hu: "Mesa", ro: "Mesa", en: "Mesa"},
+    image: "/poi-images/mesa-cities-v2.webp",
     description: {
       de: "Eine große Vorstadt östlich von Phoenix, eine der am schnellsten wachsenden Städte der USA.",
       hu: "Nagy külváros Phoenix-től keletre, az USA egyik leggyorsabban növekvő városa.",
@@ -1101,9 +1064,8 @@ image: "/poi-images/mesa-cities-v2.webp"
     type: "state-capital",
     parent: "US-GA",
     coords: [-84.3880, 33.7490],
-    name: { de: "Atlanta", hu: "Atlanta", ro: "Atlanta", en: "Atlanta",
-image: "/poi-images/atlanta-cities-v2.webp"
-},
+    name: { de: "Atlanta", hu: "Atlanta", ro: "Atlanta", en: "Atlanta"},
+    image: "/poi-images/atlanta-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Georgia, ein wichtiges Handels- und Verkehrszentrum im Südosten.",
       hu: "Georgia fővárosa, a délkelet fontos kereskedelmi és közlekedési központja.",
@@ -1121,9 +1083,8 @@ image: "/poi-images/atlanta-cities-v2.webp"
     type: "city",
     parent: "US-CO",
     coords: [-104.8214, 38.8339],
-    name: { de: "Colorado Springs", hu: "Colorado Springs", ro: "Colorado Springs", en: "Colorado Springs",
-image: "/poi-images/colorado-springs-cities-v2.webp"
-},
+    name: { de: "Colorado Springs", hu: "Colorado Springs", ro: "Colorado Springs", en: "Colorado Springs"},
+    image: "/poi-images/colorado-springs-cities-v2.webp",
     description: {
       de: "Eine Stadt am Fuße des Pikes Peak in Colorado, bekannt für ihre malerische Lage und militärische Präsenz.",
       hu: "Város a Pikes Peak lábánál Coloradóban, festői fekvéséről és katonai jelenlétéről ismert.",
@@ -1141,9 +1102,8 @@ image: "/poi-images/colorado-springs-cities-v2.webp"
     type: "city",
     parent: "US-VA",
     coords: [-75.9780, 36.8529],
-    name: { de: "Virginia Beach", hu: "Virginia Beach", ro: "Virginia Beach", en: "Virginia Beach",
-image: "/poi-images/virginia-beach-cities-v2.webp"
-},
+    name: { de: "Virginia Beach", hu: "Virginia Beach", ro: "Virginia Beach", en: "Virginia Beach"},
+    image: "/poi-images/virginia-beach-cities-v2.webp",
     description: {
       de: "Eine unabhängige Stadt an der Atlantikküste von Virginia, bekannt für ihre Strände und ihren langen Boardwalk.",
       hu: "Független város Virginia atlanti partvidékén, strandjairól és hosszú sétányáról ismert.",
@@ -1161,9 +1121,8 @@ image: "/poi-images/virginia-beach-cities-v2.webp"
     type: "state-capital",
     parent: "US-NC",
     coords: [-78.6382, 35.7796],
-    name: { de: "Raleigh", hu: "Raleigh", ro: "Raleigh", en: "Raleigh",
-image: "/poi-images/raleigh-cities-v2.webp"
-},
+    name: { de: "Raleigh", hu: "Raleigh", ro: "Raleigh", en: "Raleigh"},
+    image: "/poi-images/raleigh-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von North Carolina, bekannt als die 'Stadt der Eichen' und Teil des Research Triangle Park.",
       hu: "Észak-Karolina fővárosa, a 'tölgyek városaként' ismert és a Research Triangle Park része.",
@@ -1181,9 +1140,8 @@ image: "/poi-images/raleigh-cities-v2.webp"
     type: "city",
     parent: "US-NE",
     coords: [-95.9345, 41.2565],
-    name: { de: "Omaha", hu: "Omaha", ro: "Omaha", en: "Omaha",
-image: "/poi-images/omaha-cities-v2.webp"
-},
+    name: { de: "Omaha", hu: "Omaha", ro: "Omaha", en: "Omaha"},
+    image: "/poi-images/omaha-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Nebraska, bekannt als Heimat von Warren Buffett und mehreren Fortune-500-Unternehmen.",
       hu: "Nebraska legnagyobb városa, Warren Buffett és több Fortune 500 vállalat otthonaként ismert.",
@@ -1201,9 +1159,8 @@ image: "/poi-images/omaha-cities-v2.webp"
     type: "city",
     parent: "US-FL",
     coords: [-80.1918, 25.7617],
-    name: { de: "Miami", hu: "Miami", ro: "Miami", en: "Miami",
-image: "/poi-images/miami-cities-v2.webp"
-},
+    name: { de: "Miami", hu: "Miami", ro: "Miami", en: "Miami"},
+    image: "/poi-images/miami-cities-v2.webp",
     description: {
       de: "Eine Küstenmetropole in Südflorida, bekannt für ihre Strände, ihr Nachtleben und ihre lateinamerikanische Kultur.",
       hu: "Part menti metropolisz Dél-Floridában, strandjairól, éjszakai életéről és latin-amerikai kultúrájáról ismert.",
@@ -1221,9 +1178,8 @@ image: "/poi-images/miami-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-122.2711, 37.8044],
-    name: { de: "Oakland", hu: "Oakland", ro: "Oakland", en: "Oakland",
-image: "/poi-images/oakland-cities-v2.webp"
-},
+    name: { de: "Oakland", hu: "Oakland", ro: "Oakland", en: "Oakland"},
+    image: "/poi-images/oakland-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in der San Francisco Bay Area, bekannt für ihre Vielfalt und ihren geschäftigen Hafen.",
       hu: "Kikötőváros a San Francisco-öböl térségében, sokszínűségéről és forgalmas kikötőjéről ismert.",
@@ -1241,9 +1197,8 @@ image: "/poi-images/oakland-cities-v2.webp"
     type: "city",
     parent: "US-MN",
     coords: [-93.2650, 44.9778],
-    name: { de: "Minneapolis", hu: "Minneapolis", ro: "Minneapolis", en: "Minneapolis",
-image: "/poi-images/minneapolis-cities-v2.webp"
-},
+    name: { de: "Minneapolis", hu: "Minneapolis", ro: "Minneapolis", en: "Minneapolis"},
+    image: "/poi-images/minneapolis-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Minnesota, bekannt für ihre Parks, Seen und ihre blühende Kunstszene.",
       hu: "Minnesota legnagyobb városa, parkjairól, tavairól és virágzó művészeti életéről ismert.",
@@ -1255,15 +1210,27 @@ image: "/poi-images/minneapolis-cities-v2.webp"
       hu: ["Az 'Ikervárosokat' alkotja Saint Paullal", "Chain of Lakes, egy tórendszer", "Walker Művészeti Központ és Minneapolis Szoborkert", "Kiterjedt Skyway rendszer"],
       ro: ["Formează 'Orașele Gemene' cu Saint Paul", "Lanțul de Lacuri, un lanț de lacuri", "Centrul de Artă Walker și Grădina de Sculptură Minneapolis", "Sistem extins de pasarele suspendate (Skyway)"],
       en: ["Forms the 'Twin Cities' with Saint Paul", "Chain of Lakes, a string of lakes", "Walker Art Center and Minneapolis Sculpture Garden", "Extensive skyway system"]
-    }, image: "/poi-images/minneapolis-cities-v2.webp"},
+    }, image: "/poi-images/minneapolis-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Minneapolis, die größte Stadt in Minnesota, liegt am Mississippi River und ist bekannt für ihr ausgedehntes Netz von Seen und Parks. Die Stadt entwickelte sich im 19. Jahrhundert als Zentrum der Holz- und Mühlenindustrie, was ihr den Spitznamen \"Mill City\" einbrachte. Heute ist Minneapolis ein bedeutendes Wirtschafts-, Kultur- und Bildungszentrum des oberen Mittleren Westens. Die Innenstadt wird durch die Skyway-Systeme geprägt, die Fußgängern eine beheizte Verbindung zwischen Gebäuden bieten. Die Stadt beheimatet renommierte Institutionen wie das Walker Art Center und das Minneapolis Institute of Art. Mit einer vielfältigen Bevölkerung und einer lebendigen Musikszene, die Künstler wie Prince hervorbrachte, hat Minneapolis eine einzigartige kulturelle Identität. Die Metropolregion umfasst über 3,6 Millionen Einwohner und ist Sitz mehrerer Fortune-500-Unternehmen, darunter Target und Best Buy.",
+      hu: "Minneapolis, Minnesota legnagyobb városa, a Mississippi folyó partján fekszik, és híres kiterjedt tó- és parkrendszeréről. A város a 19. században a fakitermelés és a malomipar központjaként fejlődött, ami a \"Malomváros\" becenevet eredményezte. Ma Minneapolis a Felső-Közép-Nyugat fontos gazdasági, kulturális és oktatási központja. A belvárost a Skyway rendszer jellemzi, amely fűtött gyalogos átjárókat biztosít az épületek között. A város olyan neves intézményeknek ad otthont, mint a Walker Art Center és a Minneapolis Institute of Art. Változatos lakosságával és pezsgő zenei életével, amely olyan művészeket adott a világnak, mint Prince, Minneapolis egyedülálló kulturális identitással bír. A metropolisz térség lakossága meghaladja a 3,6 millió főt, és számos Fortune-500 vállalat székhelye, köztük a Target és a Best Buy.",
+      ro: "Minneapolis, cel mai mare oraș din Minnesota, este situat pe malul fluviului Mississippi și este cunoscut pentru rețeaua sa extinsă de lacuri și parcuri. Orașul s-a dezvoltat în secolul al XIX-lea ca centru al industriei lemnului și al morăritului, câștigând supranumele de \"Mill City\". Astăzi, Minneapolis este un important centru economic, cultural și educațional din Midwestul superior. Centrul orașului este caracterizat de sistemul Skyway, care oferă pasaje pietonale încălzite între clădiri. Orașul găzduiește instituții renumite precum Walker Art Center și Minneapolis Institute of Art. Cu o populație diversă și o scenă muzicală vibrantă care a produs artiști ca Prince, Minneapolis are o identitate culturală unică. Zona metropolitană numără peste 3,6 milioane de locuitori și este sediul mai multor companii Fortune-500, inclusiv Target și Best Buy.",
+      en: "Minneapolis, the largest city in Minnesota, straddles the Mississippi River and is renowned for its extensive network of lakes and parks. The city grew rapidly in the 19th century as a hub for lumber and flour milling, earning the nickname \"Mill City.\" Today, Minneapolis is a major economic and cultural center in the Upper Midwest, with a skyline dominated by modern skyscrapers and a unique Skyway system connecting downtown buildings. The city is home to world-class museums like the Walker Art Center and the Minneapolis Institute of Art, as well as a thriving theater scene. Minneapolis has a strong economy driven by healthcare, finance, and retail, with headquarters of Target, Best Buy, and U.S. Bancorp. The metro area population exceeds 3.6 million, and the city is known for its high quality of life, bike-friendly infrastructure, and cold winters.",
+    },
+    factsAdvanced: {
+      de: ["Minneapolis hat eine Fläche von 142 km², davon etwa 14 km² Wasserfläche.", "Die Stadt wurde 1867 als Stadt gegründet, nachdem sie 1856 als Dorf eingetragen wurde.", "Die Innenstadt von Minneapolis hat über 18 km an Skyways in der zweiten Etage der Gebäude.", "Die Metropolregion Minneapolis–Saint Paul hat rund 3,64 Millionen Einwohner (2020).", "Der Mississippi River fällt in Minneapolis in den Saint Anthony Falls um 15 Meter ab.", "Prince wurde am 7. Juni 1958 in Minneapolis geboren und ist dort aufgewachsen."],
+      hu: ["Minneapolis területe 142 km², ebből körülbelül 14 km² vízfelület.", "A várost 1867-ben alapították, miután 1856-ban faluként jegyezték be.", "Minneapolis belvárosában több mint 18 km hosszú skywalk (magasföldszinti átjáró) található.", "A Minneapolis–Saint Paul metropolisz térség népessége körülbelül 3,64 millió fő (2020).", "A Mississippi folyó Minneapolisban a Saint Anthony-vízesésnél 15 métert esik.", "Prince 1958. június 7-én született Minneapolisban, és ott is nőtt fel."],
+      ro: ["Minneapolis are o suprafață de 142 km², dintre care aproximativ 14 km² sunt ape.", "Orașul a fost încorporat în 1867, după ce a fost înregistrat ca sat în 1856.", "Centrul orașului Minneapolis are peste 18 km de pasaje Skyway la etajul doi al clădirilor.", "Zona metropolitană Minneapolis–Saint Paul are aproximativ 3,64 milioane de locuitori (2020).", "Râul Mississippi cade în Minneapolis la Saint Anthony Falls cu 15 metri.", "Prince s-a născut pe 7 iunie 1958 în Minneapolis și a crescut acolo."],
+      en: ["Minneapolis covers 58.4 square miles (151.3 km²), with about 6 square miles (15.5 km²) of water.", "The city was incorporated in 1867, originally as a village in 1856.", "Downtown Minneapolis has 11 miles (18 km) of enclosed skyways connecting buildings.", "The Minneapolis–Saint Paul metro area population was 3.64 million in 2020.", "Saint Anthony Falls on the Mississippi drops 50 feet (15 meters) within Minneapolis.", "Prince was born on June 7, 1958, in Minneapolis and grew up there."],
+    },
+  },
   {
     id: "tulsa-cities-v2",
     type: "city",
     parent: "US-OK",
     coords: [-95.9928, 36.1540],
-    name: { de: "Tulsa", hu: "Tulsa", ro: "Tulsa", en: "Tulsa",
-image: "/poi-images/tulsa-cities-v2.webp"
-},
+    name: { de: "Tulsa", hu: "Tulsa", ro: "Tulsa", en: "Tulsa"},
+    image: "/poi-images/tulsa-cities-v2.webp",
     description: {
       de: "Eine Stadt in Oklahoma, einst als 'Ölhauptstadt der Welt' bekannt, mit einer reichen Art-déco-Architektur.",
       hu: "Város Oklahomában, egykor a 'világ olajfővárosaként' ismert, gazdag art deco építészettel.",
@@ -1275,15 +1242,27 @@ image: "/poi-images/tulsa-cities-v2.webp"
       hu: ["Nagy koncentrációban art deco épületek", "Philbrook Művészeti Múzeum", "Gathering Place, egy nagy folyóparti park", "Woody Guthrie Központ"],
       ro: ["Concentrație mare de clădiri Art Deco", "Muzeul de Artă Philbrook", "Gathering Place, un parc mare pe malul râului", "Centrul Woody Guthrie"],
       en: ["Large concentration of Art Deco buildings", "Philbrook Museum of Art", "Gathering Place, a large riverfront park", "Woody Guthrie Center"]
-    }, image: "/poi-images/tulsa-cities-v2.webp"},
+    }, image: "/poi-images/tulsa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tulsa liegt im Nordosten Oklahomas am Arkansas River und ist die zweitgrößte Stadt des Bundesstaates. Bekannt als \"Ölhauptstadt der Welt\" im frühen 20. Jahrhundert, erlebte Tulsa durch den Ölboom einen rasanten Aufschwung, der sich in der Art-Déco-Architektur des Stadtzentrums widerspiegelt. Heute ist die Wirtschaft diversifiziert mit Schwerpunkten in Luftfahrt, Finanzen, Telekommunikation und Technologie. Tulsa beheimatet das Philbrook Museum of Art und das Gilcrease Museum, das eine der größten Sammlungen amerikanischer Kunst und Artefakte besitzt. Die Stadt hat eine reiche Musikgeschichte, insbesondere im Bereich Jazz und Blues. Das Tulsa Race Massacre von 1921, bei dem die wohlhabende afroamerikanische Gemeinde Greenwood zerstört wurde, ist ein bedeutendes historisches Ereignis. Mit über 400.000 Einwohnern und einer wachsenden Bevölkerungsvielfalt ist Tulsa ein kulturelles und wirtschaftliches Zentrum im Mittleren Westen.",
+      hu: "Tulsa Oklahoma északkeleti részén, az Arkansas folyó partján fekszik, és az állam második legnagyobb városa. A \"Világ olajfővárosaként\" ismert város a 20. század elején az olajboom hatására gyors fejlődésen ment keresztül, ami a belváros Art Deco építészetében is tükröződik. Ma a gazdaság diverzifikált, a repülés, pénzügy, távközlés és technológia területeire összpontosítva. Tulsa otthont ad a Philbrook Művészeti Múzeumnak és a Gilcrease Múzeumnak, amely az amerikai művészet és tárgyak egyik legnagyobb gyűjteményével rendelkezik. A város gazdag zenei örökséggel rendelkezik, különösen a jazz és blues terén. Az 1921-es Tulsa faji mészárlás, amikor a virágzó afroamerikai Greenwood közösséget elpusztították, jelentős történelmi esemény. Több mint 400 000 lakosával és növekvő népességdiverzitásával Tulsa kulturális és gazdasági központ a Közép-Nyugaton.",
+      ro: "Tulsa este situat în nord-estul Oklahomei, pe râul Arkansas, și este al doilea cel mai mare oraș din stat. Cunoscut drept \"Capitala mondială a petrolului\" la începutul secolului XX, Tulsa a cunoscut o creștere rapidă datorită boomului petrolier, reflectată în arhitectura Art Deco a centrului orașului. Astăzi, economia este diversificată, cu accent pe aviație, finanțe, telecomunicații și tehnologie. Tulsa găzduiește Muzeul de Artă Philbrook și Muzeul Gilcrease, care deține una dintre cele mai mari colecții de artă și artefacte americane. Orașul are o bogată istorie muzicală, în special în jazz și blues. Masacrul rasial de la Tulsa din 1921, când comunitatea afro-americană înfloritoare Greenwood a fost distrusă, este un eveniment istoric semnificativ. Cu peste 400.000 de locuitori și o diversitate demografică în creștere, Tulsa este un centru cultural și economic în Midwest.",
+      en: "Tulsa, located in northeastern Oklahoma on the Arkansas River, is the second-largest city in the state. Known as the \"Oil Capital of the World\" in the early 20th century, Tulsa experienced a rapid boom that left a legacy of Art Deco architecture in its downtown core. The city's economy has since diversified into aerospace, finance, telecommunications, and technology. Key cultural institutions include the Philbrook Museum of Art, housed in a former Italian Renaissance villa, and the Gilcrease Museum, which holds an extensive collection of American West art. Tulsa is also noted for its music scene, especially jazz and blues, and for the 1921 Tulsa race massacre, one of the worst incidents of racial violence in U.S. history. The city's population is around 411,000, with a metro area of over one million. Tulsa is home to the University of Tulsa and several Fortune 500 companies, including ONEOK and Williams Companies.",
+    },
+    factsAdvanced: {
+      de: ["Tulsa hat eine Fläche von etwa 483 km².", "Die Stadt wurde 1898 als Dorf eingetragen und 1902 zur Stadt erhoben.", "Das Art-Déco-Viertel in der Innenstadt umfasst über 80 Gebäude im Art-Déco-Stil.", "Der Ölboom begann 1901 mit der Entdeckung des Glenn Pool-Ölfeldes.", "Das Gilcrease Museum beherbergt über 350.000 Objekte zur Geschichte des amerikanischen Westens.", "Die Bevölkerungszahl Tulsas betrug 2020 etwa 411.000 Einwohner."],
+      hu: ["Tulsa területe körülbelül 483 km².", "A várost 1898-ban faluként, 1902-ben városként jegyezték be.", "A belvárosi Art Deco negyed több mint 80 épületet foglal magában ebben a stílusban.", "Az olajboom 1901-ben kezdődött a Glenn Pool olajmező felfedezésével.", "A Gilcrease Múzeum több mint 350 000 tárgyat őriz az amerikai Nyugat történetéből.", "Tulsa lakossága 2020-ban körülbelül 411 000 fő volt."],
+      ro: ["Tulsa are o suprafață de aproximativ 483 km².", "Orașul a fost înregistrat ca sat în 1898 și ca oraș în 1902.", "Cartierul Art Deco din centru include peste 80 de clădiri în stil Art Deco.", "Boomul petrolier a început în 1901 cu descoperirea câmpului petrolier Glenn Pool.", "Muzeul Gilcrease deține peste 350.000 de obiecte din istoria Vestului American.", "Populația Tulsa era de aproximativ 411.000 de locuitori în 2020."],
+      en: ["Tulsa covers 186.8 square miles (483.8 km²).", "The city was incorporated as a town in 1898 and as a city in 1902.", "Downtown Tulsa has over 80 buildings in the Art Deco style, one of the largest collections in the U.S.", "The oil boom started in 1901 with the discovery of the Glenn Pool oil field.", "Gilcrease Museum holds more than 350,000 items related to the history of the American West.", "Tulsa's population was 411,401 as of the 2020 census."],
+    },
+  },
   {
     id: "arlington-tx-cities-v2",
     type: "city",
     parent: "US-TX",
     coords: [-97.1081, 32.7357],
-    name: { de: "Arlington (Texas)", hu: "Arlington (Texas)", ro: "Arlington (Texas)", en: "Arlington, TX",
-image: "/poi-images/arlington-tx-cities-v2.webp"
-},
+    name: { de: "Arlington (Texas)", hu: "Arlington (Texas)", ro: "Arlington (Texas)", en: "Arlington, TX"},
+    image: "/poi-images/arlington-tx-cities-v2.webp",
     description: {
       de: "Eine Stadt im Metroplex Dallas-Fort Worth, bekannt für ihre Sportstadien und Vergnügungsparks.",
       hu: "Város a Dallas-Fort Worth Metroplexben, sportstadionjairól és vidámparkjairól ismert.",
@@ -1295,15 +1274,27 @@ image: "/poi-images/arlington-tx-cities-v2.webp"
       hu: ["A Dallas Cowboys otthona (AT&T Stadion)", "A Texas Rangers otthona (Globe Life Field)", "Six Flags Over Texas vidámpark", "Nemzetközi Bowling Múzeum"],
       ro: ["Gazda Dallas Cowboys (Stadionul AT&T)", "Gazda Texas Rangers (Globe Life Field)", "Parcul de distracții Six Flags Over Texas", "Muzeul Internațional de Bowling"],
       en: ["Home of the Dallas Cowboys (AT&T Stadium)", "Home of the Texas Rangers (Globe Life Field)", "Six Flags Over Texas amusement park", "International Bowling Museum"]
-    }, image: "/poi-images/arlington-tx-cities-v2.webp"},
+    }, image: "/poi-images/arlington-tx-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Arlington liegt im Norden von Texas zwischen Dallas und Fort Worth und ist ein wichtiger Vorort und Industriestandort. Bekannt ist die Stadt vor allem als Heimat des AT&T Stadiums, der Spielstätte der Dallas Cowboys, und des Globe Life Parks, der Heimat der Texas Rangers. Arlington beherbergt zudem den beliebten Vergnügungspark Six Flags Over Texas. Die Stadt hat eine starke Wirtschaft mit Schwerpunkten in der Fertigung, im Einzelhandel und im Dienstleistungssektor. Arlington ist Standort der University of Texas at Arlington, einer großen Forschungseinrichtung. In den 1950er Jahren erlebte die Stadt ein rasantes Bevölkerungswachstum und ist heute mit rund 400.000 Einwohnern die drittgrößte Stadt der Metropolregion Dallas-Fort Worth. Die Stadt verfügt über eine vielfältige Bevölkerung und eine Reihe von Parks und Erholungsgebieten, darunter den Lake Arlington.",
+      hu: "Arlington Texas északi részén, Dallas és Fort Worth között helyezkedik el, és fontos elővárosi és ipari központ. A város elsősorban az AT&T Stadionról, a Dallas Cowboys otthonáról, és a Globe Life Parkról, a Texas Rangers otthonáról ismert. Arlingtonban található a népszerű Six Flags Over Texas vidámpark is. A város gazdasága erős, a gyártás, kiskereskedelem és szolgáltatások területére összpontosítva. Arlington ad otthont a Texasi Egyetem Arlingtoni campusának, egy nagy kutatási intézménynek. Az 1950-es években a város gyors népességnövekedést tapasztalt, és ma mintegy 400 000 lakosával a Dallas-Fort Worth metropolisz térség harmadik legnagyobb városa. A város változatos lakossággal és számos parkkal és rekreációs területtel rendelkezik, köztük az Arlingtoni-tóval.",
+      ro: "Arlington este situat în nordul Texasului, între Dallas și Fort Worth, și este o importantă suburbie și centru industrial. Orașul este cunoscut în principal ca gazdă a AT&T Stadium, stadionul echipei Dallas Cowboys, și a Globe Life Park, stadionul Texas Rangers. De asemenea, Arlington găzduiește parcul de distracții Six Flags Over Texas. Economia orașului este puternică, cu accent pe producție, comerț cu amănuntul și servicii. Arlington găzduiește campusul Universității din Texas la Arlington, o mare instituție de cercetare. În anii 1950, orașul a cunoscut o creștere rapidă a populației, iar astăzi, cu aproximativ 400.000 de locuitori, este al treilea cel mai mare oraș din zona metropolitană Dallas-Fort Worth. Orașul are o populație diversă și o serie de parcuri și zone de agrement, inclusiv Lake Arlington.",
+      en: "Arlington, Texas, is centrally located in the Dallas-Fort Worth metroplex, making it a key suburban city with a strong economic base. It is renowned for its major sports venues: AT&T Stadium, home of the Dallas Cowboys, and Globe Life Park, the former and current home of the Texas Rangers. Arlington also hosts the original Six Flags Over Texas theme park, opened in 1961. The city's economy is diversified, with manufacturing, retail, and services, and it is home to the University of Texas at Arlington, which enrolls over 40,000 students. Arlington's population was about 394,000 in 2020, making it the 50th-largest city in the U.S. The city has a vibrant arts scene, including the Arlington Museum of Art and the Theatre Arlington, and numerous parks along the Trinity River.",
+    },
+    factsAdvanced: {
+      de: ["Arlington hat eine Fläche von etwa 258 km².", "Die Stadt wurde 1876 als kleines Dorf gegründet und 1884 zur Stadt erhoben.", "Das AT&T Stadium hat eine Sitzplatzkapazität von 80.000, erweiterbar auf 105.000.", "Six Flags Over Texas öffnete am 5. August 1961 als erster Six-Flags-Park.", "Die University of Texas at Arlington wurde 1895 als Arlington College gegründet.", "Die Bevölkerungszahl Arlingtons lag 2020 bei etwa 394.000 Einwohnern."],
+      hu: ["Arlington területe körülbelül 258 km².", "A várost 1876-ban alapították kis faluként, és 1884-ben kapott városi rangot.", "Az AT&T Stadion befogadóképessége 80 000 fő, bővíthető 105 000 főre.", "A Six Flags Over Texas 1961. augusztus 5-én nyitott meg első Six Flags parkként.", "A Texasi Egyetem Arlingtoni campusát 1895-ben alapították Arlington College néven.", "Arlington lakossága 2020-ban körülbelül 394 000 fő volt."],
+      ro: ["Arlington are o suprafață de aproximativ 258 km².", "Orașul a fost fondat ca un mic sat în 1876 și a fost încorporat ca oraș în 1884.", "Stadionul AT&T are o capacitate de 80.000 de locuri, extensibilă la 105.000.", "Six Flags Over Texas s-a deschis pe 5 august 1961 ca primul parc Six Flags.", "Universitatea din Texas la Arlington a fost fondată în 1895 ca Arlington College.", "Populația Arlington era de aproximativ 394.000 de locuitori în 2020."],
+      en: ["Arlington covers 99.5 square miles (257.7 km²).", "The city was founded in 1876 and incorporated in 1884.", "AT&T Stadium has a seating capacity of 80,000, expandable to 105,000.", "Six Flags Over Texas opened on August 5, 1961, as the first Six Flags park.", "The University of Texas at Arlington was founded in 1895 as Arlington College.", "Arlington's population was 394,266 in the 2020 census."],
+    },
+  },
   {
     id: "new-orleans-cities-v2",
     type: "city",
     parent: "US-LA",
     coords: [-90.0715, 29.9511],
-    name: { de: "New Orleans", hu: "New Orleans", ro: "New Orleans", en: "New Orleans",
-image: "/poi-images/new-orleans-cities-v2.webp"
-},
+    name: { de: "New Orleans", hu: "New Orleans", ro: "New Orleans", en: "New Orleans"},
+    image: "/poi-images/new-orleans-cities-v2.webp",
     description: {
       de: "Eine Stadt in Louisiana am Mississippi, berühmt für ihr Nachtleben, ihre Live-Musik und ihre einzigartige Kultur.",
       hu: "Város Louisianában a Mississippi folyó partján, híres éjszakai életéről, élőzenéjéről és egyedi kultúrájáról.",
@@ -1315,15 +1306,27 @@ image: "/poi-images/new-orleans-cities-v2.webp"
       hu: ["Beceneve 'The Big Easy'", "A jazz szülőhelye", "Francia negyed spanyol és francia építészettel", "Mardi Gras, egy híres karnevál"],
       ro: ["Poreclit 'The Big Easy'", "Locul de naștere al jazz-ului", "Cartierul Francez cu arhitectura sa spaniolă și franceză", "Mardi Gras, un carnaval faimos"],
       en: ["Nicknamed 'The Big Easy'", "Birthplace of jazz", "French Quarter with its Spanish and French architecture", "Mardi Gras, a famous carnival"]
-    }, image: "/poi-images/new-orleans-cities-v2.webp"},
+    }, image: "/poi-images/new-orleans-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "New Orleans im Südosten Louisianas am Mississippi River ist bekannt für seine einzigartige kulturelle Mischung aus französischen, spanischen, afrikanischen und kreolischen Einflüssen. Die Stadt wurde 1718 von den Franzosen gegründet und war ein wichtiger Hafen für den Sklavenhandel und den Zucker- und Baumwollexport. Das French Quarter mit seinen Balkonen und Jazzclubs ist das Herz der Stadt. New Orleans gilt als Geburtsort des Jazz, mit Legenden wie Louis Armstrong. Der Mardi Gras-Karneval ist weltberühmt. Die Stadt leidet unter Überschwemmungsrisiken, da der Großteil unter dem Meeresspiegel liegt; der Hurrikan Katrina 2005 verursachte katastrophale Schäden. Die Wirtschaft stützt sich auf Tourismus, Schifffahrt, Öl- und Gasförderung sowie den Hafen von New Orleans, einen der größten in den USA. Die Küche mit Gerichten wie Gumbo und Jambalaya ist ein wichtiger kultureller Beitrag.",
+      hu: "New Orleans Louisiana délkeleti részén, a Mississippi folyó partján fekszik, és híres egyedülálló kulturális keverékéről, amely francia, spanyol, afrikai és kreol hatásokat olvaszt össze. A várost 1718-ban franciák alapították, és fontos kikötő volt a rabszolga-kereskedelem, valamint a cukor- és gyapotkivitel számára. A French Quarter erkélyeivel és jazzklubjaival a város szíve. New Orleans a jazz szülőhelyének számít, olyan legendákkal, mint Louis Armstrong. A Mardi Gras karnevál világhírű. A város árvízveszélynek van kitéve, mivel nagy része a tengerszint alatt fekszik; a 2005-ös Katrina hurrikán katasztrofális károkat okozott. A gazdaság a turizmusra, hajózásra, olaj- és gázkitermelésre, valamint New Orleans kikötőjére támaszkodik, amely az USA egyik legnagyobbja. Az olyan ételek, mint a gumbo és a jambalaya, fontos kulturális hozzájárulást jelentenek.",
+      ro: "New Orleans, situat în sud-estul Louisianei, pe fluviul Mississippi, este cunoscut pentru amestecul său cultural unic de influențe franceze, spaniole, africane și creole. Orașul a fost fondat de francezi în 1718 și a fost un port important pentru comerțul cu sclavi și exportul de zahăr și bumbac. French Quarter, cu balcoanele și cluburile de jazz, este inima orașului. New Orleans este considerat locul de naștere al jazzului, cu legende precum Louis Armstrong. Carnavalul Mardi Gras este renumit în întreaga lume. Orașul se confruntă cu riscuri de inundații deoarece majoritatea se află sub nivelul mării; uraganul Katrina în 2005 a provocat daune catastrofale. Economia se bazează pe turism, transport maritim, extracția de petrol și gaze, precum și pe portul New Orleans, unul dintre cele mai mari din SUA. Bucătăria, cu preparate precum gumbo și jambalaya, reprezintă o contribuție culturală importantă.",
+      en: "New Orleans, located in southeastern Louisiana near the mouth of the Mississippi River, is famed for its vibrant Creole and Cajun cultures, music, and cuisine. Founded in 1718 by French colonists, the city became a major port for trade and a melting pot of African, French, Spanish, and Native American influences. The French Quarter is the oldest neighborhood, featuring iconic architecture and Bourbon Street's nightlife. New Orleans is the birthplace of jazz, with roots in brass bands and African rhythms. The city is vulnerable to hurricanes; Hurricane Katrina in 2005 devastated the region, leading to massive rebuilding efforts. Economy relies on tourism, energy, shipping, and the Port of New Orleans, one of the busiest in the U.S. Mardi Gras is the city's most famous festival, attracting millions annually. The city's population was about 383,000 in 2020, down from its peak.",
+    },
+    factsAdvanced: {
+      de: ["New Orleans hat eine Fläche von etwa 907 km², davon 438 km² Wasserfläche.", "Die Stadt wurde am 7. Mai 1718 von der Französischen Mississippi-Kompanie gegründet.", "Der French Quarter umfasst 78 Blocks und ist der älteste Stadtteil.", "Der Mardi Gras-Karneval in New Orleans findet seit 1837 statt.", "Der Hurrikan Katrina traf am 29. August 2005 auf die Stadt und forderte über 1.800 Todesopfer.", "Die Bevölkerungszahl von New Orleans betrug 2020 etwa 383.000 Einwohner."],
+      hu: ["New Orleans területe körülbelül 907 km², ebből 438 km² vízfelület.", "A várost 1718. május 7-én alapította a Francia Mississippi Társaság.", "A French Quarter 78 háztömböt foglal magában, és a város legrégebbi negyede.", "A Mardi Gras karnevált 1837 óta rendezik meg New Orleansban.", "A Katrina hurrikán 2005. augusztus 29-én csapott le a városra, több mint 1800 halálos áldozatot követelve.", "New Orleans lakossága 2020-ban körülbelül 383 000 fő volt."],
+      ro: ["New Orleans are o suprafață de aproximativ 907 km², dintre care 438 km² apă.", "Orașul a fost fondat la 7 mai 1718 de Compania Franceză a Mississippi.", "French Quarter cuprinde 78 de blocuri și este cel mai vechi cartier.", "Carnavalul Mardi Gras din New Orleans are loc din 1837.", "Uraganul Katrina a lovit orașul pe 29 august 2005, provocând peste 1.800 de decese.", "Populația New Orleans era de aproximativ 383.000 de locuitori în 2020."],
+      en: ["New Orleans covers 350 square miles (907 km²), with 169 square miles (438 km²) of water.", "The city was founded on May 7, 1718, by the French Mississippi Company.", "The French Quarter contains 78 blocks and is the oldest neighborhood.", "Mardi Gras celebrations in New Orleans date back to 1837.", "Hurricane Katrina hit on August 29, 2005, causing over 1,800 deaths.", "New Orleans's population was 383,997 in the 2020 census."],
+    },
+  },
   {
     id: "wichita-cities-v2",
     type: "city",
     parent: "US-KS",
     coords: [-97.3375, 37.6872],
-    name: { de: "Wichita", hu: "Wichita", ro: "Wichita", en: "Wichita",
-image: "/poi-images/wichita-cities-v2.webp"
-},
+    name: { de: "Wichita", hu: "Wichita", ro: "Wichita", en: "Wichita"},
+    image: "/poi-images/wichita-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Kansas, bekannt als 'Luftfahrthauptstadt der Welt' wegen ihrer Rolle in der Flugzeugproduktion.",
       hu: "Kansas legnagyobb városa, a 'világ repülőgép-fővárosaként' ismert a repülőgépgyártásban betöltött szerepe miatt.",
@@ -1335,15 +1338,27 @@ image: "/poi-images/wichita-cities-v2.webp"
       hu: ["A repülőgépipar központja (Cessna, Beechcraft)", "Kansas Repülési Múzeum", "Old Cowtown Múzeum, egy élő történelmi múzeum", "Keeper of the Plains szobor"],
       ro: ["Centru al industriei aeronautice (Cessna, Beechcraft)", "Muzeul Aviației din Kansas", "Muzeul Old Cowtown, un muzeu de istorie vie", "Statuia Păstrătorului Câmpiilor"],
       en: ["Hub of the aircraft industry (Cessna, Beechcraft)", "Kansas Aviation Museum", "Old Cowtown Museum, a living history museum", "Keeper of the Plains statue"]
-    }, image: "/poi-images/wichita-cities-v2.webp"},
+    }, image: "/poi-images/wichita-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Wichita liegt im Süden von Kansas am Arkansas River und ist die größte Stadt des Bundesstaates. Historisch war Wichita ein Zentrum des Viehhandels und der Eisenbahn, später entwickelte es sich zu einem wichtigen Standort der Luftfahrtindustrie, was ihm den Spitznamen \"Air Capital of the World\" einbrachte. Heute sind Unternehmen wie Spirit AeroSystems und Textron Aviation dort ansässig. Die Stadt beheimatet die Wichita State University und das Exploration Place, ein Wissenschafts- und Entdeckungszentrum. Wichita hat eine reiche kulturelle Szene mit dem Wichita Art Museum und dem Musikfestival Riverfest. Die Wirtschaft ist diversifiziert mit Schwerpunkten in der Fertigung, im Gesundheitswesen und im Einzelhandel. Die Stadt hat rund 390.000 Einwohner und eine lange Geschichte der Einwanderung, die zu einer vielfältigen Bevölkerung beigetragen hat.",
+      hu: "Wichita Kansas déli részén, az Arkansas folyó partján fekszik, és az állam legnagyobb városa. Történelmileg Wichita a szarvasmarha-kereskedelem és a vasút központja volt, később a repülőgépipar fontos központjává fejlődött, ami a \"Világ repülőgép-fővárosa\" becenevet eredményezte. Ma olyan vállalatok székhelye, mint a Spirit AeroSystems és a Textron Aviation. A város ad otthont a Wichita State Universitynek és az Exploration Place-nek, egy tudományos és felfedező központnak. Wichita gazdag kulturális élettel rendelkezik, a Wichita Művészeti Múzeummal és a Riverfest zenei fesztivállal. A gazdaság diverzifikált, a gyártás, egészségügy és kiskereskedelem területére összpontosítva. A városnak körülbelül 390 000 lakosa van és hosszú bevándorlási múltja, ami sokszínű lakossághoz vezetett.",
+      ro: "Wichita este situat în sudul Kansasului, pe râul Arkansas, și este cel mai mare oraș din stat. Istoric, Wichita a fost un centru al comerțului cu vite și al căilor ferate, mai târziu devenind un important hub pentru industria aeronautică, câștigând supranumele de \"Capitala aeriană a lumii\". Astăzi, găzduiește companii precum Spirit AeroSystems și Textron Aviation. Orașul găzduiește Universitatea de Stat Wichita și Exploration Place, un centru de știință și descoperire. Wichita are o scenă culturală bogată, cu Muzeul de Artă Wichita și festivalul de muzică Riverfest. Economia este diversificată, cu accent pe producție, sănătate și comerț cu amănuntul. Orașul are aproximativ 390.000 de locuitori și o lungă istorie a imigrației, contribuind la o populație diversă.",
+      en: "Wichita, the largest city in Kansas, lies along the Arkansas River in the south-central part of the state. Known historically as a cattle town and railroad hub, Wichita became a major center for aircraft manufacturing, earning the nickname \"Air Capital of the World.\" Major aerospace companies like Spirit AeroSystems, Bombardier, and Textron Aviation have operations here. The city is home to Wichita State University, the Wichita Art Museum, and the Sedgwick County Zoo. Wichita's economy also includes healthcare, energy, and technology sectors. The city hosts annual events like the Riverfest music festival and the Wichita International Film Festival. With a population of about 390,000, Wichita has a diverse demographic and a rich cultural heritage, including a strong cowboy and aviation legacy.",
+    },
+    factsAdvanced: {
+      de: ["Wichita hat eine Fläche von etwa 423 km².", "Die Stadt wurde 1871 gegründet und 1872 als Stadt eingetragen.", "Wichita beherbergt den größten Flughafen in Kansas, den Wichita Dwight D. Eisenhower National Airport.", "Die Luftfahrtindustrie in Wichita begann 1917 mit der Gründung der Stearman Aircraft Company.", "Der Arkansas River fließt durch Wichita und ist etwa 2.334 km lang.", "Die Bevölkerungszahl Wichitas betrug 2020 etwa 390.000 Einwohner."],
+      hu: ["Wichita területe körülbelül 423 km².", "A várost 1871-ben alapították és 1872-ben jegyezték be.", "Wichitában található Kansas legnagyobb repülőtere, a Wichita Dwight D. Eisenhower National Airport.", "A repülőgépipar Wichitában 1917-ben kezdődött a Stearman Aircraft Company megalapításával.", "Az Arkansas folyó áthalad Wichitán, hossza körülbelül 2.334 km.", "Wichita lakossága 2020-ban körülbelül 390 000 fő volt."],
+      ro: ["Wichita are o suprafață de aproximativ 423 km².", "Orașul a fost fondat în 1871 și încorporat în 1872.", "Wichita găzduiește cel mai mare aeroport din Kansas, Wichita Dwight D. Eisenhower National Airport.", "Industria aeronautică din Wichita a început în 1917 odată cu înființarea companiei Stearman Aircraft.", "Râul Arkansas curge prin Wichita și are aproximativ 2.334 km lungime.", "Populația Wichita era de aproximativ 390.000 de locuitori în 2020."],
+      en: ["Wichita covers 163.4 square miles (423.2 km²).", "The city was founded in 1871 and incorporated in 1872.", "Wichita Dwight D. Eisenhower National Airport is the largest airport in Kansas.", "Aircraft manufacturing in Wichita began in 1917 with Stearman Aircraft.", "The Arkansas River flowing through Wichita is 1,450 miles (2,334 km) long.", "Wichita's population was 390,566 in the 2020 census."],
+    },
+  },
   {
     id: "cleveland-cities-v2",
     type: "city",
     parent: "US-OH",
     coords: [-81.6944, 41.4993],
-    name: { de: "Cleveland", hu: "Cleveland", ro: "Cleveland", en: "Cleveland",
-image: "/poi-images/cleveland-cities-v2.webp"
-},
+    name: { de: "Cleveland", hu: "Cleveland", ro: "Cleveland", en: "Cleveland"},
+    image: "/poi-images/cleveland-cities-v2.webp",
     description: {
       de: "Eine große Stadt in Ohio am Ufer des Eriesees, Heimat der Rock and Roll Hall of Fame.",
       hu: "Nagy város Ohióban az Erie-tó partján, a Rock and Roll Hírességek Csarnokának otthona.",
@@ -1355,15 +1370,27 @@ image: "/poi-images/cleveland-cities-v2.webp"
       hu: ["Rock and Roll Hírességek Csarnoka", "Clevelandi Művészeti Múzeum", "Playhouse Square, az USA második legnagyobb színházi központja", "Erős ipari örökség"],
       ro: ["Rock and Roll Hall of Fame", "Muzeul de Artă din Cleveland", "Playhouse Square, al doilea cel mai mare centru de teatru din SUA", "Moștenire industrială puternică"],
       en: ["Rock and Roll Hall of Fame", "Cleveland Museum of Art", "Playhouse Square, the second-largest theater district in the U.S.", "Strong industrial heritage"]
-    }, image: "/poi-images/cleveland-cities-v2.webp"},
+    }, image: "/poi-images/cleveland-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cleveland liegt im Nordosten Ohios am Eriesee und ist eine bedeutende Industriestadt. Im späten 19. und frühen 20. Jahrhundert war Cleveland ein Zentrum der Stahlproduktion und des verarbeitenden Gewerbes. Die Stadt beherbergt das weltberühmte Cleveland Museum of Art, die Rock and Roll Hall of Fame und das Playhouse Square, das zweitgrößte Theaterzentrum der USA. Cleveland ist auch die Heimat der Cleveland Clinic, eines der führenden Krankenhäuser weltweit. Die Wirtschaft hat sich diversifiziert, mit Schwerpunkten in der Gesundheitsversorgung, Bildung, Finanzen und Technologie. Der Cuyahoga River fließt durch die Stadt und war berühmt für seine Verschmutzung, was 1969 zu einem Flussbrand führte, der die Umweltbewegung befeuerte. Cleveland hat rund 370.000 Einwohner und eine reiche Sporttradition mit den Cleveland Guardians, Browns und Cavaliers.",
+      hu: "Cleveland Ohio északkeleti részén, az Erie-tó partján fekszik, és jelentős ipari város. A 19. század végén és a 20. század elején Cleveland az acélgyártás és a feldolgozóipar központja volt. A város ad otthont a világhírű Clevelandi Művészeti Múzeumnak, a Rock and Roll Hírességek Csarnokának és a Playhouse Square-nek, az USA második legnagyobb színházi központjának. Cleveland a Clevelandi Klinika otthona is, a világ egyik vezető kórházának. A gazdaság diverzifikálódott, az egészségügyre, oktatásra, pénzügyekre és technológiára összpontosítva. A Cuyahoga folyó áthalad a városon, és híres volt szennyezettségéről; 1969-ben a folyó kigyulladt, ami fellendítette a környezetvédelmi mozgalmat. Clevelandnek körülbelül 370 000 lakosa van, és gazdag sportörökséggel rendelkezik a Cleveland Guardians, Browns és Cavaliers csapatokkal.",
+      ro: "Cleveland este situat în nord-estul Ohio-ului, pe malul lacului Erie, și este un important oraș industrial. La sfârșitul secolului al XIX-lea și începutul secolului XX, Cleveland a fost un centru al producției de oțel și al industriei prelucrătoare. Orașul găzduiește renumitul Muzeu de Artă din Cleveland, Sala Celebrităților Rock and Roll și Playhouse Square, al doilea cel mai mare centru teatral din SUA. Cleveland este, de asemenea, sediul Clinicii Cleveland, unul dintre cele mai importante spitale din lume. Economia s-a diversificat, cu accent pe sănătate, educație, finanțe și tehnologie. Râul Cuyahoga traversează orașul și a fost celebru pentru poluarea sa; în 1969, râul a luat foc, alimentând mișcarea de mediu. Cleveland are aproximativ 370.000 de locuitori și o bogată tradiție sportivă cu echipele Cleveland Guardians, Browns și Cavaliers.",
+      en: "Cleveland, located on the southern shore of Lake Erie in northeastern Ohio, is a historic industrial city that has reinvented itself as a center for healthcare, technology, and culture. Once a major steel-producing hub, Cleveland now hosts the renowned Cleveland Clinic, a world leader in medical research and patient care. The city's cultural attractions include the Cleveland Museum of Art, one of the finest encyclopedic museums in the U.S., and the Rock & Roll Hall of Fame. Playhouse Square is the largest performing arts center outside of New York City. Cleveland is also known for its sports teams: the Guardians (MLB), Browns (NFL), and Cavaliers (NBA). The Cuyahoga River fire in 1969 spurred the Clean Water Act. The population of Cleveland proper was about 373,000 in 2020, with a metro area of over 2 million.",
+    },
+    factsAdvanced: {
+      de: ["Cleveland hat eine Fläche von etwa 214 km².", "Die Stadt wurde 1796 von General Moses Cleaveland gegründet.", "Das Cleveland Museum of Art wurde 1916 eröffnet und beherbergt über 66.000 Kunstwerke.", "Die Rock and Roll Hall of Fame öffnete am 1. September 1995.", "Der Cuyahoga River brannte 1969 zum letzten Mal; insgesamt gab es 13 Brände seit 1868.", "Die Bevölkerungszahl Cleveland betrug 2020 etwa 373.000 Einwohner."],
+      hu: ["Cleveland területe körülbelül 214 km².", "A várost 1796-ban alapította Moses Cleaveland tábornok.", "A Clevelandi Művészeti Múzeum 1916-ban nyílt meg, és több mint 66 000 műalkotást őriz.", "A Rock and Roll Hírességek Csarnoka 1995. szeptember 1-én nyitott meg.", "A Cuyahoga folyó 1969-ben égett utoljára; összesen 13 tűz volt 1868 óta.", "Cleveland lakossága 2020-ban körülbelül 373 000 fő volt."],
+      ro: ["Cleveland are o suprafață de aproximativ 214 km².", "Orașul a fost fondat în 1796 de generalul Moses Cleaveland.", "Muzeul de Artă din Cleveland s-a deschis în 1916 și deține peste 66.000 de opere de artă.", "Sala Celebrităților Rock and Roll s-a deschis pe 1 septembrie 1995.", "Râul Cuyahoga a ars ultima oară în 1969; în total au fost 13 incendii din 1868.", "Populația Cleveland era de aproximativ 373.000 de locuitori în 2020."],
+      en: ["Cleveland covers 82.5 square miles (213.7 km²).", "The city was founded in 1796 by General Moses Cleaveland.", "The Cleveland Museum of Art opened in 1916, holding over 66,000 artworks.", "The Rock & Roll Hall of Fame opened on September 1, 1995.", "The Cuyahoga River caught fire in 1969, the 13th fire since 1868.", "Cleveland's population was 372,624 in the 2020 census."],
+    },
+  },
   {
     id: "tampa-cities-v2",
     type: "city",
     parent: "US-FL",
     coords: [-82.4572, 27.9506],
-    name: { de: "Tampa", hu: "Tampa", ro: "Tampa", en: "Tampa",
-image: "/poi-images/tampa-cities-v2.webp"
-},
+    name: { de: "Tampa", hu: "Tampa", ro: "Tampa", en: "Tampa"},
+    image: "/poi-images/tampa-cities-v2.webp",
     description: {
       de: "Eine Stadt an der Golfküste Floridas, bekannt für ihre Museen und ihr kulturelles Angebot.",
       hu: "Város Florida Golf-partján, múzeumairól és kulturális kínálatáról ismert.",
@@ -1375,15 +1402,27 @@ image: "/poi-images/tampa-cities-v2.webp"
       hu: ["Busch Gardens Tampa Bay, egy afrikai témájú vidámpark", "Floridai Akvárium", "Ybor City, egy történelmi negyed, amelyet szivargyártók alapítottak", "Fontos kikötő"],
       ro: ["Busch Gardens Tampa Bay, un parc de distracții cu tematică africană", "Acvariul din Florida", "Ybor City, un cartier istoric fondat de producătorii de trabucuri", "Port important"],
       en: ["Busch Gardens Tampa Bay, an African-themed amusement park", "The Florida Aquarium", "Ybor City, a historic neighborhood founded by cigar manufacturers", "Major port"]
-    }, image: "/poi-images/tampa-cities-v2.webp"},
+    }, image: "/poi-images/tampa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tampa liegt an der Westküste Floridas an der Tampa Bay und ist ein wichtiges Wirtschafts- und Kulturzentrum. Die Stadt ist bekannt für ihren Hafen, einen der größten in Florida, und die Ybor City, ein historisches von kubanischen und spanischen Einwanderern geprägtes Viertel. Tampa beheimatet den Busch Gardens Vergnügungspark und das Florida Aquarium. Die Wirtschaft wird von Tourismus, Gesundheitswesen, Finanzen und Schifffahrt angetrieben. Die University of South Florida hat ihren Hauptsitz in Tampa. Die Stadt ist auch die Heimat der Tampa Bay Buccaneers (NFL) und der Tampa Bay Lightning (NHL). Das Klima ist subtropisch mit heißen, feuchten Sommern und milden Wintern. Tampa hat rund 400.000 Einwohner und eine schnell wachsende Metropolregion mit über 3 Millionen Einwohnern. Die Stadt war Schauplatz wichtiger Ereignisse wie der Republican National Convention 2012.",
+      hu: "Tampa Florida nyugati partján, a Tampa-öböl partján fekszik, és fontos gazdasági és kulturális központ. A város híres kikötőjéről, amely Florida egyik legnagyobbja, valamint Ybor Cityről, a kubai és spanyol bevándorlók által alapított történelmi negyedről. Tampa ad otthont a Busch Gardens vidámparknak és a Florida Aquariumnak. A gazdaságot a turizmus, egészségügy, pénzügy és hajózás hajtja. A Dél-Floridai Egyetem fő campusa Tampában van. A város a Tampa Bay Buccaneers (NFL) és a Tampa Bay Lightning (NHL) otthona is. Az éghajlat szubtrópusi, forró, párás nyarakkal és enyhe telekkel. Tampának körülbelül 400 000 lakosa van, és gyorsan növekvő metropolisz térsége meghaladja a 3 millió főt. A város fontos események helyszíne volt, mint a 2012-es Republikánus Nemzeti Konvenció.",
+      ro: "Tampa este situat pe coasta de vest a Floridei, pe malul golfului Tampa, și este un important centru economic și cultural. Orașul este cunoscut pentru portul său, unul dintre cele mai mari din Florida, și pentru Ybor City, un cartier istoric fondat de imigranți cubanezi și spanioli. Tampa găzduiește parcul de distracții Busch Gardens și Acvariul din Florida. Economia este condusă de turism, sănătate, finanțe și transport maritim. Universitatea din Florida de Sud are campusul principal în Tampa. Orașul este, de asemenea, casa echipelor Tampa Bay Buccaneers (NFL) și Tampa Bay Lightning (NHL). Clima este subtropicală, cu veri fierbinți și umede și ierni blânde. Tampa are aproximativ 400.000 de locuitori și o zonă metropolitană în creștere rapidă cu peste 3 milioane. Orașul a găzduit evenimente importante, cum ar fi Convenția Națională Republicană din 2012.",
+      en: "Tampa, located on Florida's Gulf Coast, is a major port city and a hub for business, culture, and tourism. The city's history is tied to the cigar industry, with Ybor City founded by Cuban and Spanish immigrants in the 1880s. Tampa's economy is diverse, with strengths in healthcare (including several major hospitals), finance, and technology. The Port of Tampa is one of the busiest in the state, handling cargo and cruise ships. Key attractions include Busch Gardens Tampa Bay, the Tampa Museum of Art, and the historic Tampa Theatre. Tampa is home to the University of South Florida (USF), with over 50,000 students. The city's sports teams include the Tampa Bay Buccaneers and Tampa Bay Lightning. The metro area population exceeded 3.1 million in 2020, making it the second-largest in Florida.",
+    },
+    factsAdvanced: {
+      de: ["Tampa hat eine Fläche von etwa 455 km², davon 136 km² Wasserfläche.", "Die Stadt wurde 1824 als Fort Brooke gegründet und 1855 zur Stadt erhoben.", "Der Hafen von Tampa ist der größte in Florida nach Tonnage.", "Ybor City wurde 1885 von Vicente Martinez Ybor gegründet.", "Busch Gardens Tampa Bay öffnete 1959 als Anheuser-Busch Biergarten.", "Die Bevölkerungszahl Tampas betrug 2020 etwa 400.000 Einwohner."],
+      hu: ["Tampa területe körülbelül 455 km², ebből 136 km² vízfelület.", "A várost 1824-ben Fort Brooke-ként alapították, és 1855-ben kapott városi rangot.", "Tampa kikötője Florida legnagyobbja tonnatartalom alapján.", "Ybor Cityt 1885-ben alapította Vicente Martinez Ybor.", "A Busch Gardens Tampa Bay 1959-ben nyitott meg Anheuser-Busch sörkertként.", "Tampa lakossága 2020-ban körülbelül 400 000 fő volt."],
+      ro: ["Tampa are o suprafață de aproximativ 455 km², dintre care 136 km² apă.", "Orașul a fost fondat în 1824 ca Fort Brooke și încorporat în 1855.", "Portul Tampa este cel mai mare din Florida după tonaj.", "Ybor City a fost fondat în 1885 de Vicente Martinez Ybor.", "Busch Gardens Tampa Bay s-a deschis în 1959 ca grădină de bere Anheuser-Busch.", "Populația Tampa era de aproximativ 400.000 de locuitori în 2020."],
+      en: ["Tampa covers 175.8 square miles (455.3 km²), with 52.5 square miles (136.0 km²) of water.", "The city was founded in 1824 as Fort Brooke and incorporated in 1855.", "Port Tampa is the largest port in Florida by tonnage.", "Ybor City was founded in 1885 by Vicente Martinez Ybor.", "Busch Gardens Tampa Bay opened in 1959 as a brewery garden.", "Tampa's population was 399,847 in the 2020 census."],
+    },
+  },
   {
     id: "honolulu-cities-v2",
     type: "state-capital",
     parent: "US-HI",
     coords: [-157.8583, 21.3069],
-    name: { de: "Honolulu", hu: "Honolulu", ro: "Honolulu", en: "Honolulu",
-image: "/poi-images/honolulu-cities-v2.webp"
-},
+    name: { de: "Honolulu", hu: "Honolulu", ro: "Honolulu", en: "Honolulu"},
+    image: "/poi-images/honolulu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Hawaii, ein wichtiges Tor zu den Vereinigten Staaten und ein beliebtes Touristenziel.",
       hu: "Hawaii fővárosa, fontos kapu az Egyesült Államokba és népszerű turisztikai célpont.",
@@ -1395,15 +1434,27 @@ image: "/poi-images/honolulu-cities-v2.webp"
       hu: ["Waikiki Beach, egy híres strand", "Pearl Harbor, egy történelmi haditengerészeti bázis", "Iolani-palota, az egyetlen hivatalos királyi rezidencia az USA-ban", "Diamond Head, egy vulkáni tufakúp"],
       ro: ["Plaja Waikiki, o plajă faimoasă", "Pearl Harbor, o bază navală istorică", "Palatul Iolani, singura reședință regală oficială din SUA", "Diamond Head, un con vulcanic de tuf"],
       en: ["Waikiki Beach, a famous beach", "Pearl Harbor, a historic naval base", "Iolani Palace, the only official royal residence in the U.S.", "Diamond Head, a volcanic tuff cone"]
-    }, image: "/poi-images/honolulu-cities-v2.webp"},
+    }, image: "/poi-images/honolulu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Honolulu liegt auf der Insel Oʻahu im US-Bundesstaat Hawaii und ist die Hauptstadt und größte Stadt des Archipels. Die Stadt ist bekannt für ihre natürliche Schönheit mit Stränden wie Waikīkī und dem Diamond Head-Krater. Honolulu ist ein wichtiger Knotenpunkt für Tourismus, Schifffahrt und Militär. Der Hafen von Honolulu ist einer der verkehrsreichsten im Pazifik. Die Stadt beheimatet das ʻIolani Palace, die einzige königliche Residenz in den Vereinigten Staaten, und das Bernice Pauahi Bishop Museum. Der Überfall auf Pearl Harbor am 7. Dezember 1941 fand in der Nähe statt. Die Wirtschaft wird stark vom Tourismus angetrieben, aber auch von der US-Militärpräsenz und der Landwirtschaft. Honolulu hat eine vielfältige Bevölkerung mit asiatischen und polynesischen Einflüssen. Die Bevölkerungszahl liegt bei etwa 350.000, die Metropolregion hat über 950.000 Einwohner.",
+      hu: "Honolulu Oʻahu szigetén, Hawaii államban található, és az állam fővárosa és legnagyobb városa. A város híres természeti szépségéről, olyan strandokkal, mint Waikīkī, és a Diamond Head kráterről. Honolulu fontos csomópont a turizmus, hajózás és katonaság számára. A Honolulu kikötő az egyik legforgalmasabb a Csendes-óceánon. A város ad otthont az ʻIolani Palotának, az egyetlen királyi rezidenciának az Egyesült Államokban, és a Bernice Pauahi Bishop Múzeumnak. A Pearl Harbor elleni támadás 1941. december 7-én a közelben történt. A gazdaságot erősen hajtja a turizmus, de az amerikai katonai jelenlét és a mezőgazdaság is. Honolulunak sokszínű lakossága van, ázsiai és polinéz hatásokkal. A lakosság száma körülbelül 350 000, a metropolisz térségé meghaladja a 950 000 főt.",
+      ro: "Honolulu este situat pe insula Oʻahu, în statul Hawaii, și este capitala și cel mai mare oraș al arhipelagului. Orașul este cunoscut pentru frumusețea sa naturală, cu plaje precum Waikīkī și craterul Diamond Head. Honolulu este un hub important pentru turism, transport maritim și militar. Portul Honolulu este unul dintre cele mai aglomerate din Pacific. Orașul găzduiește Palatul ʻIolani, singura reședință regală din Statele Unite, și Muzeul Bernice Pauahi Bishop. Atacul asupra Pearl Harbor din 7 decembrie 1941 a avut loc în apropiere. Economia este condusă puternic de turism, dar și de prezența militară americană și agricultură. Honolulu are o populație diversă, cu influențe asiatice și polineziene. Populația este de aproximativ 350.000, iar zona metropolitană depășește 950.000 de locuitori.",
+      en: "Honolulu, on the island of Oʻahu, is the capital and largest city of Hawaii. It is a global hub for tourism, with iconic landmarks like Waikīkī Beach, Diamond Head, and Pearl Harbor. The city's economy is driven by tourism, military defense, and international trade. Honolulu has a rich history as a royal capital under the Hawaiian Kingdom; the ʻIolani Palace is a testament to that era. The city is also a major port for transpacific shipping. The population is around 350,000, but the metro area (the City and County of Honolulu) includes the entire island of Oʻahu, with over 1 million residents. Honolulu is known for its diverse culture, blending Native Hawaiian, Asian, and Western influences. The city hosts the University of Hawaiʻi at Mānoa and the East-West Center. The climate is tropical, with year-round warm temperatures.",
+    },
+    factsAdvanced: {
+      de: ["Honolulu hat eine Fläche von etwa 177 km².", "Die Stadt wurde 1815 gegründet und 1907 zur Stadt erhoben.", "Der Diamond Head ist ein 232 Meter hoher, erloschener Vulkankrater.", "Der ʻIolani Palace wurde 1882 fertiggestellt und war bis 1893 die Residenz der hawaiianischen Monarchen.", "Pearl Harbor ist etwa 10 km westlich von Honolulu gelegen.", "Die Bevölkerungszahl Honolulus betrug 2020 etwa 350.000 Einwohner."],
+      hu: ["Honolulu területe körülbelül 177 km².", "A várost 1815-ben alapították, és 1907-ben kapott városi rangot.", "A Diamond Head egy 232 méter magas, kialudt vulkáni kráter.", "Az ʻIolani Palota 1882-ben készült el, és 1893-ig a hawaii királyok rezidenciája volt.", "Pearl Harbor körülbelül 10 km-re nyugatra található Honolulutól.", "Honolulu lakossága 2020-ban körülbelül 350 000 fő volt."],
+      ro: ["Honolulu are o suprafață de aproximativ 177 km².", "Orașul a fost fondat în 1815 și încorporat în 1907.", "Diamond Head este un crater vulcanic stins, înalt de 232 de metri.", "Palatul ʻIolani a fost finalizat în 1882 și a fost reședința monarhilor hawaiieni până în 1893.", "Pearl Harbor este situat la aproximativ 10 km vest de Honolulu.", "Populația Honolulu era de aproximativ 350.000 de locuitori în 2020."],
+      en: ["Honolulu covers 68.4 square miles (177.2 km²).", "The city was founded in 1815 and incorporated in 1907.", "Diamond Head is a 762-foot (232 m) tall volcanic tuff cone.", "The ʻIolani Palace was completed in 1882 and was the royal residence until 1893.", "Pearl Harbor is about 6 miles (10 km) west of downtown Honolulu.", "Honolulu's population was 349,597 in the 2020 census."],
+    },
+  },
   {
     id: "anaheim-cities-v2",
     type: "city",
     parent: "US-CA",
     coords: [-117.9143, 33.8366],
-    name: { de: "Anaheim", hu: "Anaheim", ro: "Anaheim", en: "Anaheim",
-image: "/poi-images/anaheim-cities-v2.webp"
-},
+    name: { de: "Anaheim", hu: "Anaheim", ro: "Anaheim", en: "Anaheim"},
+    image: "/poi-images/anaheim-cities-v2.webp",
     description: {
       de: "Eine Stadt in Orange County, Kalifornien, die vor allem für den Disneyland Resort bekannt ist.",
       hu: "Város Orange megyében, Kaliforniában, leginkább a Disneyland Resortról ismert.",
@@ -1415,15 +1466,27 @@ image: "/poi-images/anaheim-cities-v2.webp"
       hu: ["Disneyland Park, az eredeti Disney vidámpark", "Disney California Adventure Park", "Anaheimi Kongresszusi Központ", "Az Anaheim Ducks (NHL) és a Los Angeles Angels (MLB) otthona"],
       ro: ["Disneyland Park, parcul tematic original Disney", "Parcul Disney California Adventure", "Centrul de Convenții Anaheim", "Gazda echipelor Anaheim Ducks (NHL) și Los Angeles Angels (MLB)"],
       en: ["Disneyland Park, the original Disney theme park", "Disney California Adventure Park", "Anaheim Convention Center", "Home to the Anaheim Ducks (NHL) and Los Angeles Angels (MLB)"]
-    }, image: "/poi-images/anaheim-cities-v2.webp"},
+    }, image: "/poi-images/anaheim-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Anaheim liegt im Orange County in Südkalifornien und ist weltweit bekannt als Standort des Disneyland Resort, das 1955 eröffnet wurde. Die Stadt wurde 1857 von deutschen Einwanderern gegründet, die eine Weinbaukolonie anlegten. Heute ist Anaheim ein wichtiges Touristenziel, aber auch ein Zentrum der Unterhaltungsindustrie und des verarbeitenden Gewerbes. Das Honda Center und das Angel Stadium sind wichtige Sportstätten. Die Wirtschaft wird von Tourismus, Freizeitindustrie und Technologie angetrieben. Anaheim hat rund 350.000 Einwohner und eine vielfältige Bevölkerung. Die Stadt beheimatet auch das Anaheim Convention Center, eines der größten an der Westküste. Das Klima ist mediterran mit milden, feuchten Wintern und warmen, trockenen Sommern.",
+      hu: "Anaheim Dél-Kaliforniában, Orange megyében található, és világszerte ismert a Disneyland Resortról, amely 1955-ben nyitott meg. A várost 1857-ben német bevándorlók alapították, akik szőlőültetvényeket létesítettek. Ma Anaheim fontos turisztikai célpont, de a szórakoztatóipar és a feldolgozóipar központja is. A Honda Center és az Angel Stadion fontos sportlétesítmények. A gazdaságot a turizmus, a szabadidős ipar és a technológia hajtja. Anaheimnek körülbelül 350 000 lakosa van, és sokszínű a lakossága. A város ad otthont az Anaheim Kongresszusi Központnak is, amely az egyik legnagyobb a nyugati parton. Az éghajlat mediterrán, enyhe, csapadékos telekkel és meleg, száraz nyarakkal.",
+      ro: "Anaheim este situat în comitatul Orange, în sudul Californiei, și este cunoscut la nivel mondial ca locația Disneyland Resort, deschis în 1955. Orașul a fost fondat în 1857 de imigranți germani care au înființat o colonie viticolă. Astăzi, Anaheim este o destinație turistică importantă, dar și un centru al industriei divertismentului și al producției. Honda Center și Angel Stadium sunt instalații sportive majore. Economia este condusă de turism, industria de agrement și tehnologie. Anaheim are aproximativ 350.000 de locuitori și o populație diversă. Orașul găzduiește, de asemenea, Centrul de Convenții Anaheim, unul dintre cele mai mari de pe Coasta de Vest. Clima este mediteraneană, cu ierni blânde și umede și veri calde și uscate.",
+      en: "Anaheim, located in Orange County, Southern California, is best known as the home of Disneyland, which opened in 1955. The city was founded in 1857 by German immigrants as a wine-growing community. Today, Anaheim is a major tourist destination with attractions like Disneyland, Disney California Adventure, and Downtown Disney. The city also hosts the Anaheim Convention Center, the largest on the West Coast, and is home to the Anaheim Ducks (NHL) at Honda Center and the Los Angeles Angels (MLB) at Angel Stadium. The economy is diverse, including tourism, entertainment, technology, and manufacturing. Anaheim's population was about 346,000 in 2020, with a vibrant multicultural community. The city has a Mediterranean climate and is part of the Greater Los Angeles area.",
+    },
+    factsAdvanced: {
+      de: ["Anaheim hat eine Fläche von etwa 131 km².", "Die Stadt wurde 1857 von 50 deutschen Familien gegründet.", "Das Disneyland Resort öffnete am 17. Juli 1955.", "Das Angel Stadium wurde 1966 eröffnet und hat eine Kapazität von 45.517 Zuschauern.", "Das Anaheim Convention Center hat eine Ausstellungsfläche von über 92.000 m².", "Die Bevölkerungszahl Anaheims betrug 2020 etwa 346.000 Einwohner."],
+      hu: ["Anaheim területe körülbelül 131 km².", "A várost 1857-ben 50 német család alapította.", "A Disneyland Resort 1955. július 17-én nyitott meg.", "Az Angel Stadion 1966-ban nyílt meg, befogadóképessége 45 517 fő.", "Az Anaheim Kongresszusi Központ kiállítóterülete meghaladja a 92 000 m²-t.", "Anaheim lakossága 2020-ban körülbelül 346 000 fő volt."],
+      ro: ["Anaheim are o suprafață de aproximativ 131 km².", "Orașul a fost fondat în 1857 de 50 de familii germane.", "Disneyland Resort s-a deschis pe 17 iulie 1955.", "Angel Stadium s-a deschis în 1966 și are o capacitate de 45.517 locuri.", "Centrul de Convenții Anaheim are o suprafață expozițională de peste 92.000 m².", "Populația Anaheim era de aproximativ 346.000 de locuitori în 2020."],
+      en: ["Anaheim covers 50.5 square miles (130.8 km²).", "The city was founded in 1857 by 50 German families.", "Disneyland Resort opened on July 17, 1955.", "Angel Stadium opened in 1966 with a seating capacity of 45,517.", "Anaheim Convention Center has over 1,000,000 sq ft (92,903 m²) of exhibit space.", "Anaheim's population was 346,597 in the 2020 census."],
+    },
+  },
   {
     id: "orlando-cities-v2",
     type: "city",
     parent: "US-FL",
     coords: [-81.3792, 28.5383],
-    name: { de: "Orlando", hu: "Orlando", ro: "Orlando", en: "Orlando",
-image: "/poi-images/orlando-cities-v2.webp"
-},
+    name: { de: "Orlando", hu: "Orlando", ro: "Orlando", en: "Orlando"},
+    image: "/poi-images/orlando-cities-v2.webp",
     description: {
       de: "Eine Stadt in Zentralflorida, die weltweit für ihre Themenparks wie Walt Disney World und Universal Orlando bekannt ist.",
       hu: "Város Közép-Floridában, világszerte ismert vidámparkjairól, mint a Walt Disney World és a Universal Orlando.",
@@ -1435,15 +1498,27 @@ image: "/poi-images/orlando-cities-v2.webp"
       hu: ["'A világ vidámpark-fővárosa'", "Walt Disney World Resort", "Universal Orlando Resort", "SeaWorld Orlando"],
       ro: ["'Capitala mondială a parcurilor tematice'", "Walt Disney World Resort", "Universal Orlando Resort", "SeaWorld Orlando"],
       en: ["'The Theme Park Capital of the World'", "Walt Disney World Resort", "Universal Orlando Resort", "SeaWorld Orlando"]
-    }, image: "/poi-images/orlando-cities-v2.webp"},
+    }, image: "/poi-images/orlando-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Orlando liegt im Zentrum Floridas und ist weltweit als Touristenziel bekannt, insbesondere durch das Walt Disney World Resort, das 1971 eröffnet wurde, und die Universal Orlando Resort-Komplexe. Die Stadt war ursprünglich ein Zentrum der Zitrusfruchtindustrie, bevor der Tourismus dominierte. Orlando beheimatet auch zahlreiche Konferenzzentren und ist ein wichtiger Standort für die Film- und Fernsehproduktion. Die Wirtschaft wird von Tourismus, Technologie und dem Gesundheitswesen angetrieben. Die University of Central Florida, eine der größten Universitäten der USA, hat ihren Hauptsitz in Orlando. Die Stadt hat rund 300.000 Einwohner, die Metropolregion über 2,5 Millionen. Orlando hat ein subtropisches Klima mit heißen, feuchten Sommern und milden Wintern. Das kulturelle Angebot umfasst das Orlando Museum of Art und das Dr. Phillips Center for the Performing Arts.",
+      hu: "Orlando Florida középső részén fekszik, és világszerte ismert turisztikai célpont, különösen a Walt Disney World Resort (1971-ben nyílt meg) és az Universal Orlando Resort komplexumai révén. A város eredetileg a citrusfélék iparának központja volt, mielőtt a turizmus dominálttá vált. Orlando számos konferencia-központnak ad otthont, és fontos helyszín a film- és televíziós gyártás számára. A gazdaságot a turizmus, a technológia és az egészségügy hajtja. A Közép-Floridai Egyetem, az USA egyik legnagyobb egyeteme, Orlandóban található. A városnak körülbelül 300 000 lakosa van, a metropolisz térségé meghaladja a 2,5 milliót. Orlando éghajlata szubtrópusi, forró, párás nyarakkal és enyhe telekkel. A kulturális kínálat magában foglalja az Orlando Művészeti Múzeumot és a Dr. Phillips Előadóművészeti Központot.",
+      ro: "Orlando este situat în centrul Floridei și este cunoscut la nivel mondial ca destinație turistică, în special datorită Walt Disney World Resort (deschis în 1971) și complexurilor Universal Orlando Resort. Orașul a fost inițial un centru al industriei citricole înainte ca turismul să domine. Orlando găzduiește, de asemenea, numeroase centre de conferințe și este un important centru pentru producția de film și televiziune. Economia este condusă de turism, tehnologie și sănătate. Universitatea din Florida Centrală, una dintre cele mai mari universități din SUA, are sediul în Orlando. Orașul are aproximativ 300.000 de locuitori, iar zona metropolitană depășește 2,5 milioane. Clima este subtropicală, cu veri fierbinți și umede și ierni blânde. Oferta culturală include Muzeul de Artă Orlando și Centrul pentru Artele Spectacolului Dr. Phillips.",
+      en: "Orlando, located in central Florida, is a global tourism powerhouse, home to Walt Disney World, Universal Orlando, SeaWorld, and numerous other attractions. The city's economy was historically based on citrus and agriculture, but today tourism is the primary driver, with over 60 million visitors annually. Orlando is also a major convention venue and a growing hub for technology, simulation and training, and film production. The University of Central Florida (UCF) is one of the largest universities in the U.S. by enrollment, with about 70,000 students. The city proper has a population of around 307,000, while the metro area exceeds 2.5 million. Orlando has a humid subtropical climate with hot summers and mild winters. Notable cultural institutions include the Orlando Museum of Art, the Mennello Museum, and the Dr. Phillips Center.",
+    },
+    factsAdvanced: {
+      de: ["Orlando hat eine Fläche von etwa 308 km².", "Die Stadt wurde 1875 als Dorf gegründet und 1885 zur Stadt erhoben.", "Das Walt Disney World Resort erstreckt sich über etwa 111 km².", "Der Orlando International Airport ist einer der verkehrsreichsten in Florida mit über 50 Millionen Passagieren jährlich.", "Die University of Central Florida wurde 1963 gegründet und hat über 70.000 Studenten.", "Die Bevölkerungszahl Orlandos betrug 2020 etwa 307.000 Einwohner."],
+      hu: ["Orlando területe körülbelül 308 km².", "A várost 1875-ben faluként alapították, és 1885-ben kapott városi rangot.", "A Walt Disney World Resort körülbelül 111 km²-en terül el.", "Az Orlandói Nemzetközi Repülőtér Florida egyik legforgalmasabb repülőtere, évente több mint 50 millió utassal.", "A Közép-Floridai Egyetemet 1963-ban alapították, és több mint 70 000 hallgatója van.", "Orlando lakossága 2020-ban körülbelül 307 000 fő volt."],
+      ro: ["Orlando are o suprafață de aproximativ 308 km².", "Orașul a fost fondat ca sat în 1875 și încorporat în 1885.", "Walt Disney World Resort se întinde pe aproximativ 111 km².", "Aeroportul Internațional Orlando este unul dintre cele mai aglomerate din Florida, cu peste 50 de milioane de pasageri anual.", "Universitatea din Florida Centrală a fost fondată în 1963 și are peste 70.000 de studenți.", "Populația Orlando era de aproximativ 307.000 de locuitori în 2020."],
+      en: ["Orlando covers 118.9 square miles (308.0 km²).", "The city was founded in 1875 and incorporated in 1885.", "Walt Disney World Resort spans approximately 27,000 acres (111 km²).", "Orlando International Airport is one of the busiest in Florida, with over 50 million passengers annually.", "The University of Central Florida was founded in 1963 and enrolls over 70,000 students.", "Orlando's population was 307,573 in the 2020 census."],
+    },
+  },
   {
     id: "pittsburgh-cities-v2",
     type: "city",
     parent: "US-PA",
     coords: [-79.9959, 40.4406],
-    name: { de: "Pittsburgh", hu: "Pittsburgh", ro: "Pittsburgh", en: "Pittsburgh",
-image: "/poi-images/pittsburgh-cities-v2.webp"
-},
+    name: { de: "Pittsburgh", hu: "Pittsburgh", ro: "Pittsburgh", en: "Pittsburgh"},
+    image: "/poi-images/pittsburgh-cities-v2.webp",
     description: {
       de: "Eine Stadt in Pennsylvania, die für ihre Geschichte als Zentrum der Stahlindustrie und ihre zahlreichen Brücken bekannt ist.",
       hu: "Város Pennsylvaniában, az acélipar központjaként és számos hídjáról ismert.",
@@ -1461,9 +1536,8 @@ image: "/poi-images/pittsburgh-cities-v2.webp"
     type: "city",
     parent: "US-MO",
     coords: [-90.1994, 38.6270],
-    name: { de: "St. Louis", hu: "St. Louis", ro: "St. Louis", en: "St. Louis",
-image: "/poi-images/st-louis-cities-v2.webp"
-},
+    name: { de: "St. Louis", hu: "St. Louis", ro: "St. Louis", en: "St. Louis"},
+    image: "/poi-images/st-louis-cities-v2.webp",
     description: {
       de: "Eine große unabhängige Stadt in Missouri am Mississippi, bekannt für den Gateway Arch.",
       hu: "Nagy független város Missouriban a Mississippi folyó partján, a Gateway Archról ismert.",
@@ -1481,9 +1555,8 @@ image: "/poi-images/st-louis-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-117.3755, 33.9806],
-    name: { de: "Riverside", hu: "Riverside", ro: "Riverside", en: "Riverside",
-image: "/poi-images/riverside-cities-v2.webp"
-},
+    name: { de: "Riverside", hu: "Riverside", ro: "Riverside", en: "Riverside"},
+    image: "/poi-images/riverside-cities-v2.webp",
     description: {
       de: "Eine Stadt in Südkalifornien, Geburtsort der kalifornischen Zitrusindustrie.",
       hu: "Város Dél-Kaliforniában, a kaliforniai citrusipar szülőhelye.",
@@ -1501,9 +1574,8 @@ image: "/poi-images/riverside-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-117.8677, 33.7455],
-    name: { de: "Santa Ana", hu: "Santa Ana", ro: "Santa Ana", en: "Santa Ana",
-image: "/poi-images/santa-ana-cities-v2.webp"
-},
+    name: { de: "Santa Ana", hu: "Santa Ana", ro: "Santa Ana", en: "Santa Ana"},
+    image: "/poi-images/santa-ana-cities-v2.webp",
     description: {
       de: "Der Sitz des Orange County in Kalifornien, eine dicht besiedelte Stadt mit einer großen hispanischen Bevölkerung.",
       hu: "Orange megye székhelye Kaliforniában, sűrűn lakott város nagy spanyol ajkú lakossággal.",
@@ -1521,9 +1593,8 @@ image: "/poi-images/santa-ana-cities-v2.webp"
     type: "city",
     parent: "US-OH",
     coords: [-84.5120, 39.1031],
-    name: { de: "Cincinnati", hu: "Cincinnati", ro: "Cincinnati", en: "Cincinnati",
-image: "/poi-images/cincinnati-cities-v2.webp"
-},
+    name: { de: "Cincinnati", hu: "Cincinnati", ro: "Cincinnati", en: "Cincinnati"},
+    image: "/poi-images/cincinnati-cities-v2.webp",
     description: {
       de: "Eine Stadt in Ohio am Ohio River, bekannt für ihre historische Architektur und ihr deutsches Erbe.",
       hu: "Város Ohióban az Ohio folyó partján, történelmi építészetéről és német örökségéről ismert.",
@@ -1541,9 +1612,8 @@ image: "/poi-images/cincinnati-cities-v2.webp"
     type: "city",
     parent: "US-KY",
     coords: [-84.4777, 38.0406],
-    name: { de: "Lexington", hu: "Lexington", ro: "Lexington", en: "Lexington",
-image: "/poi-images/lexington-cities-v2.webp"
-},
+    name: { de: "Lexington", hu: "Lexington", ro: "Lexington", en: "Lexington"},
+    image: "/poi-images/lexington-cities-v2.webp",
     description: {
       de: "Bekannt als die 'Pferdehauptstadt der Welt', umgeben von Bluegrass-Landschaften und Pferdefarmen.",
       hu: "A 'világ ló fővárosaként' ismert, Bluegrass tájakkal és lófarmokkal körülvéve.",
@@ -1561,9 +1631,8 @@ image: "/poi-images/lexington-cities-v2.webp"
     type: "city",
     parent: "US-AK",
     coords: [-149.9003, 61.2181],
-    name: { de: "Anchorage", hu: "Anchorage", ro: "Anchorage", en: "Anchorage",
-image: "/poi-images/anchorage-cities-v2.webp"
-},
+    name: { de: "Anchorage", hu: "Anchorage", ro: "Anchorage", en: "Anchorage"},
+    image: "/poi-images/anchorage-cities-v2.webp",
     description: {
       de: "Die größte Stadt Alaskas, ein Tor zu den nahegelegenen Wildnisgebieten und Bergen.",
       hu: "Alaszka legnagyobb városa, kapu a közeli vadon területekhez és hegyekhez.",
@@ -1581,9 +1650,8 @@ image: "/poi-images/anchorage-cities-v2.webp"
     type: "city",
     parent: "US-CA",
     coords: [-121.2908, 37.9577],
-    name: { de: "Stockton", hu: "Stockton", ro: "Stockton", en: "Stockton",
-image: "/poi-images/stockton-cities-v2.webp"
-},
+    name: { de: "Stockton", hu: "Stockton", ro: "Stockton", en: "Stockton"},
+    image: "/poi-images/stockton-cities-v2.webp",
     description: {
       de: "Eine Stadt im Central Valley von Kalifornien mit einem Binnenhafen am San Joaquin River.",
       hu: "Város Kalifornia Central Valley-jében, egy belvízi kikötővel a San Joaquin folyón.",
@@ -1601,9 +1669,8 @@ image: "/poi-images/stockton-cities-v2.webp"
     type: "city",
     parent: "US-OH",
     coords: [-83.5379, 41.6528],
-    name: { de: "Toledo", hu: "Toledo", ro: "Toledo", en: "Toledo",
-image: "/poi-images/toledo-cities-v2.webp"
-},
+    name: { de: "Toledo", hu: "Toledo", ro: "Toledo", en: "Toledo"},
+    image: "/poi-images/toledo-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in Ohio am westlichen Ende des Eriesees, bekannt für ihre Glasindustrie.",
       hu: "Kikötőváros Ohióban az Erie-tó nyugati végén, üvegiparáról ismert.",
@@ -1621,9 +1688,8 @@ image: "/poi-images/toledo-cities-v2.webp"
     type: "state-capital",
     parent: "US-MN",
     coords: [-93.0900, 44.9537],
-    name: { de: "Saint Paul", hu: "Saint Paul", ro: "Saint Paul", en: "Saint Paul",
-image: "/poi-images/st-paul-cities-v2.webp"
-},
+    name: { de: "Saint Paul", hu: "Saint Paul", ro: "Saint Paul", en: "Saint Paul"},
+    image: "/poi-images/st-paul-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Minnesota, die zusammen mit Minneapolis die 'Twin Cities' bildet.",
       hu: "Minnesota fővárosa, amely Minneapolis-szal együtt alkotja az 'Ikervárosokat'.",
@@ -1641,9 +1707,8 @@ image: "/poi-images/st-paul-cities-v2.webp"
     type: "city",
     parent: "US-NJ",
     coords: [-74.1724, 40.7357],
-    name: { de: "Newark", hu: "Newark", ro: "Newark", en: "Newark",
-image: "/poi-images/newark-cities-v2.webp"
-},
+    name: { de: "Newark", hu: "Newark", ro: "Newark", en: "Newark"},
+    image: "/poi-images/newark-cities-v2.webp",
     description: {
       de: "Die größte Stadt in New Jersey, ein wichtiger Luft-, Schifffahrts- und Eisenbahnknotenpunkt.",
       hu: "New Jersey legnagyobb városa, fontos légi, tengeri és vasúti csomópont.",
@@ -1655,15 +1720,27 @@ image: "/poi-images/newark-cities-v2.webp"
       hu: ["Newark Liberty Nemzetközi Repülőtér", "Port Newark-Elizabeth Tengeri Terminál", "New Jersey Előadóművészeti Központ", "Branch Brook Park az USA legnagyobb cseresznyevirág-gyűjteményével"],
       ro: ["Aeroportul Internațional Newark Liberty", "Terminalul Maritim Port Newark-Elizabeth", "Centrul de Arte Spectacolului din New Jersey", "Parcul Branch Brook cu cea mai mare colecție de cireși înfloriți din SUA"],
       en: ["Newark Liberty International Airport", "Port Newark-Elizabeth Marine Terminal", "New Jersey Performing Arts Center", "Branch Brook Park with the largest collection of cherry blossom trees in the U.S."]
-    }, image: "/poi-images/newark-cities-v2.webp"},
+    }, image: "/poi-images/newark-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Newark, gegründet 1666 von Puritanern, entwickelte sich vom kleinen Handelsposten zur größten Stadt New Jerseys. Die Stadt war ein wichtiger Knotenpunkt für die industrielle Revolution, insbesondere durch die Produktion von Leder, Chemikalien und Elektronik. Heute ist Newark ein Finanz- und Logistikzentrum mit dem drittgrößten Hafen der USA. Die Architektur reicht von viktorianischen Reihenhäusern bis zu modernen Wolkenkratzern wie dem Prudential Center. Die Bevölkerung ist multikulturell, mit starken hispanischen und afroamerikanischen Gemeinschaften. Newark beherbergt die Rutgers University und das New Jersey Performing Arts Center.",
+      hu: "Newark építészeti arculata rendkívül változatos: a 18. századi gyarmati templomoktól kezdve a 20. század eleji ipari épületeken át a kortárs üvegpalotákig számos stílus képviselteti magát. A város jelképe a Gateway Center, egy 22 emeletes irodaház, valamint a 183 méter magas National Newark Building. A történelmi Szent Patrik-székesegyház és a Newark Public Library neogótikus épületei a múltat idézik. A városrendezés során a 21. században nagy hangsúlyt fektettek a belváros revitalizációjára, új parkok és sétálóutcák létesítésével.",
+      ro: "Newark este un centru cultural vibrant, cu o moștenire artistică bogată. Orașul găzduiește Newark Museum of Art, care deține o colecție vastă de artă americană și tibetană, și New Jersey Performing Arts Center, una dintre cele mai mari scene de spectacole din Statele Unite. Comunitatea hispanică, în special cea portoricană și dominicană, influențează puternic viața culturală, cu festivaluri anuale precum Parada și Festivalul Portorican. De asemenea, orașul are o tradiție muzicală importantă, fiind locul de naștere al unor artiști de jazz și hip-hop.",
+      en: "Newark's economic transformation in the 21st century has positioned it as a key logistics and transportation hub. The Port Newark–Elizabeth Marine Terminal is the largest container port on the U.S. East Coast, handling over 3 million TEUs annually. Newark Liberty International Airport, a major gateway for the New York metropolitan area, serves more than 43 million passengers each year. The city is also a center for financial services, with several major banks and insurance companies headquartered there. The presence of Rutgers University and other educational institutions fuels a growing knowledge economy.",
+    },
+    factsAdvanced: {
+      de: ["Newark hat 311.549 Einwohner (2023).", "Die Stadtfläche beträgt 67,6 km².", "Gegründet 1666 von puritanischen Siedlern.", "Der Hafen Newark-Elizabeth ist der drittgrößte Containerhafen der USA.", "Das Prudential Center hat 18.500 Sitzplätze.", "Die höchste Erhebung ist der Weequahic Park mit 50 m."],
+      hu: ["Newark a legnagyobb város New Jersey államban 311.549 lakossal.", "A National Newark Building 183 méter magas.", "A Gateway Center épület 22 emeletes.", "A Szent Patrik-székesegyház 1868-ban épült.", "A város területe 67,6 km².", "A Newark Museum of Art 1909-ben nyílt meg."],
+      ro: ["Newark are o populație de 311.549 locuitori (2023).", "Port Newark-Elizabeth manipulează peste 3 milioane de TEU-uri anual.", "Aeroportul Internațional Newark Liberty deservește 43 de milioane de pasageri pe an.", "Orașul a fost fondat în 1666.", "New Jersey Performing Arts Center are 2.800 de locuri.", "Suprafața orașului este de 67,6 km²."],
+      en: ["Newark has a population of 311,549 as of 2023.", "The city covers 67.6 square kilometers.", "Port Newark–Elizabeth handles over 3 million TEUs annually.", "Newark Liberty International Airport served 43.2 million passengers in 2019.", "Founded in 1666 by Puritan settlers.", "The Prudential Center arena opened in 2007 and seats 18,500."],
+    },
+  },
   {
     id: "henderson-cities-v2",
     type: "city",
     parent: "US-NV",
     coords: [-115.0275, 36.0396],
-    name: { de: "Henderson", hu: "Henderson", ro: "Henderson", en: "Henderson",
-image: "/poi-images/henderson-cities-v2.webp"
-},
+    name: { de: "Henderson", hu: "Henderson", ro: "Henderson", en: "Henderson"},
+    image: "/poi-images/henderson-cities-v2.webp",
     description: {
       de: "Eine Stadt in Nevada, südöstlich von Las Vegas, bekannt für ihre Parks und Wanderwege.",
       hu: "Város Nevadában, Las Vegastól délkeletre, parkjairól és túraútvonalairól ismert.",
@@ -1675,15 +1752,27 @@ image: "/poi-images/henderson-cities-v2.webp"
       hu: ["Nevada második legnagyobb városa", "Csendes alternatívaként tervezték Las Vegashoz képest", "Lake Las Vegas Resort", "Kiterjedt park- és túraútvonal-hálózat"],
       ro: ["Al doilea cel mai mare oraș din Nevada", "Conceput ca o alternativă liniștită la Las Vegas", "Stațiunea Lake Las Vegas", "Rețea extinsă de parcuri și trasee"],
       en: ["Second largest city in Nevada", "Designed as a quiet alternative to Las Vegas", "Lake Las Vegas resort", "Extensive network of parks and trails"]
-    }, image: "/poi-images/henderson-cities-v2.webp"},
+    }, image: "/poi-images/henderson-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Henderson ist die zweitgrößte Stadt Nevadas und ein rasant wachsendes Vorstadtzentrum südöstlich von Las Vegas. Ursprünglich während des Baus des Hoover-Staudamms in den 1930er Jahren als Industriestadt gegründet, hat sich Henderson zu einer wichtigen Wohn- und Geschäftsstadt mit über 330.000 Einwohnern entwickelt. Die Wirtschaft basiert auf Gesundheitswesen, Fertigung und Tourismus. Die Stadt bietet zahlreiche Parks und Golfplätze, darunter den Lake Las Vegas. Das kulturelle Leben umfasst das Henderson Events Plaza und das Clark County Museum. Die niedrige Kriminalitätsrate und gute Schulen machen die Stadt attraktiv für Familien.",
+      hu: "Henderson városias formája a tervezett elővárosi fejlődés példája. A belvárost széles utak, modern bevásárlóközpontok és irodaparkok jellemzik, miközben a lakóövezetek egységes stílusú házakból állnak. A város egyik jellegzetessége a Lake Las Vegas, egy mesterséges tó luxusszállodákkal és golfpályákkal. Az építészet nem emelkedik magasra; a legtöbb épület alacsony, a skyline-t a Casino épületek uralják. A városrendezés nagy hangsúlyt fektet a zöldfelületekre és a gyalogosbarát környezetre.",
+      ro: "Henderson este un oraș cu o puternică identitate culturală, influențată de istoria sa legată de construcția barajului Hoover. Festivalurile locale, cum ar fi Henderson Heritage Festival, celebrează patrimoniul minier și feroviar. Comunitatea este diversă, cu un procent semnificativ de rezidenți hispanici. Orașul găzduiește, de asemenea, numeroase evenimente sportive și centre de artă, inclusiv Henderson Symphony Orchestra. Viața socială se concentrează în jurul parcurilor și centrelor comerciale, iar siguranța publică este ridicată.",
+      en: "Henderson's economy has diversified significantly since its founding. Once dominated by the chemical industry (Pablo Chemicals plant), it now has thriving healthcare (St. Rose Dominican Hospital) and manufacturing sectors. The city's strategic location near Lake Mead and the Hoover Dam supports a growing tourism industry. Henderson's population has more than doubled since 1990, driven by affordable housing and job growth. The city boasts over 50 parks and 8 golf courses. Its government has invested heavily in sustainability, including solar energy projects and water conservation programs.",
+    },
+    factsAdvanced: {
+      de: ["Henderson hat 337.305 Einwohner (2023).", "Die Stadtfläche beträgt 272,6 km².", "Gegründet 1941 während des Baus des Hoover-Damms.", "Die Bevölkerungsdichte beträgt 1.237 Einwohner pro km².", "Der Lake Las Vegas hat eine Fläche von 1,2 km².", "Die durchschnittliche Jahrestemperatur liegt bei 20 °C."],
+      hu: ["Henderson a második legnagyobb város Nevada államban.", "A város 337.305 fős lakosságú (2023).", "A Henderson Symphony Orchestra 1998-ban alakult.", "A város 272,6 km² területen fekszik.", "A Lake Las Vegas mesterséges tó, 1,2 km² vízfelülettel.", "A Henderson Heritage Festival évente több ezer látogatót vonz."],
+      ro: ["Henderson are o populație de 337.305 locuitori (2023).", "Orașul a fost fondat în 1941.", "Suprafața este de 272,6 km².", "St. Rose Dominican Hospital este cel mai mare spital din Henderson.", "Există peste 50 de parcuri publice în oraș.", "Barajul Hoover se află la aproximativ 30 km de Henderson."],
+      en: ["Henderson's population is 337,305 (2023).", "The city covers 272.6 square kilometers.", "Founded in 1941 as a company town for Basic Magnesium.", "Lake Las Vegas is 1.2 square kilometers in area.", "Henderson has 8 golf courses within city limits.", "The city's elevation is 538 meters above sea level."],
+    },
+  },
   {
     id: "plano-cities-v2",
     type: "city",
     parent: "US-TX",
     coords: [-96.6989, 33.0198],
-    name: { de: "Plano", hu: "Plano", ro: "Plano", en: "Plano",
-image: "/poi-images/plano-cities-v2.webp"
-},
+    name: { de: "Plano", hu: "Plano", ro: "Plano", en: "Plano"},
+    image: "/poi-images/plano-cities-v2.webp",
     description: {
       de: "Eine wohlhabende Stadt nördlich von Dallas, Heimat vieler Unternehmenszentralen.",
       hu: "Jómódú város Dallastól északra, számos vállalati központ otthona.",
@@ -1695,15 +1784,27 @@ image: "/poi-images/plano-cities-v2.webp"
       hu: ["A Toyota Motor North America, a Frito-Lay és a J.C. Penney székhelye", "Magas életminőség", "Az USA egyik legbiztonságosabb városának tartják", "Legacy West, egy nagy vegyes felhasználású fejlesztési terület"],
       ro: ["Sediul Toyota Motor North America, Frito-Lay și J.C. Penney", "Calitate ridicată a vieții", "Considerat unul dintre cele mai sigure orașe din SUA", "Legacy West, o dezvoltare mare cu utilizare mixtă"],
       en: ["Headquarters of Toyota Motor North America, Frito-Lay, and J.C. Penney", "High quality of life", "Considered one of the safest cities in the U.S.", "Legacy West, a large mixed-use development"]
-    }, image: "/poi-images/plano-cities-v2.webp"},
+    }, image: "/poi-images/plano-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Plano ist eine wohlhabende Vorstadt nördlich von Dallas, Texas, die für ihre hochwertigen Wohngebiete und Unternehmenszentralen bekannt ist. Die Stadt wurde 1873 als Eisenbahnstation gegründet und erlebte ein explosionsartiges Wachstum nach den 1980er Jahren. Plano ist Sitz vieler Fortune-500-Unternehmen wie J.C. Penney und Toyota North America. Die Bevölkerung ist hochgebildet, mit einem hohen Anteil an asiatischen Einwanderern. Kulturell bietet Plano das ArtCentre und das Heritage Farmstead Museum. Die Architektur ist überwiegend modern, mit vielen Einkaufszentren und Büroparks.",
+      hu: "Plano városszerkezetét a tervezett elővárosi fejlődés jellemzi, széles, fasorokkal szegélyezett utcákkal és számos parkkal. A belváros körüli területeken modern irodaházak és kereskedelmi központok találhatók, míg a lakóövezetekben kertvárosi házak dominálnak. A város egyik kiemelkedő építészeti eleme a Legacy West fejlesztés, amely luxuslakásokat, éttermeket és üzleteket foglal magában. A közlekedési hálózat jól kiépített, a Dallas Area Rapid Transit (DART) vonatokkal könnyen elérhető a belváros.",
+      ro: "Plano are o moștenire culturală bogată, reflectată în muzeele și festivalurile sale. Heritage Farmstead Museum prezintă viața rurală texană de la sfârșitul secolului al XIX-lea. Festivalul anual „Plano International Festival” celebrează diversitatea etnică a orașului. Comunitatea asiatică, în special cea chineză și indiană, joacă un rol important în viața culturală, cu numeroase temple și centre comunitare. De asemenea, orașul are o scenă artistică activă, cu teatre și galerii.",
+      en: "Plano's economy is driven by corporate headquarters and technology. Toyota North America moved its headquarters to Plano in 2017, employing over 4,000 people. The city also hosts major tech firms like Hewlett Packard Enterprise and Ericsson. Plano has one of the lowest unemployment rates in Texas, around 2.5%. The median household income exceeds $90,000, reflecting its affluence. Education is a priority, with highly rated public schools and proximity to Southern Methodist University.",
+    },
+    factsAdvanced: {
+      de: ["Plano hat 285.494 Einwohner (2023).", "Die Stadtfläche beträgt 186,6 km².", "Gegründet 1873 als Eisenbahnstation.", "Der Toyota North America Hauptsitz beschäftigt 4.000 Mitarbeiter.", "Das mediane Haushaltseinkommen beträgt 90.000 USD.", "Plano beherbergt 3 Fortune-500-Unternehmen."],
+      hu: ["Plano az 5. legnagyobb város Texas államban.", "A város 285.494 lakosú (2023).", "A Legacy West fejlesztés 2016-ban nyílt meg.", "A DART vasúti hálózat összeköti Planot Dallas belvárosával.", "A Heritage Farmstead Museum 1891-ben épült tanyán működik.", "A város területe 186,6 km²."],
+      ro: ["Plano are 285.494 de locuitori (2023).", "Orașul a fost fondat în 1873.", "Suprafața este de 186,6 km².", "Toyota North America are sediul în Plano din 2017.", "Festivalul Internațional Plano atrage peste 10.000 de participanți anual.", "Rata șomajului este de 2,5%."],
+      en: ["Plano's population is 285,494 (2023).", "The city covers 186.6 square kilometers.", "Founded in 1873 as a railroad stop.", "Median household income is $90,000 (2019).", "9 Fortune 1000 companies are headquartered in Plano.", "Plano has over 80 parks covering 1,600 hectares."],
+    },
+  },
   {
     id: "irvine-cities-v2",
     type: "city",
     parent: "US-CA",
     coords: [-117.8265, 33.6846],
-    name: { de: "Irvine", hu: "Irvine", ro: "Irvine", en: "Irvine",
-image: "/poi-images/irvine-cities-v2.webp"
-},
+    name: { de: "Irvine", hu: "Irvine", ro: "Irvine", en: "Irvine"},
+    image: "/poi-images/irvine-cities-v2.webp",
     description: {
       de: "Eine geplante Stadt in Orange County, Kalifornien, bekannt für ihre Sicherheit, Schulen und Parks.",
       hu: "Tervezett város Orange megyében, Kaliforniában, biztonságáról, iskoláiról és parkjairól ismert.",
@@ -1715,15 +1816,27 @@ image: "/poi-images/irvine-cities-v2.webp"
       hu: ["Kaliforniai Egyetem, Irvine (UCI)", "Folyamatosan Amerika egyik legbiztonságosabb városaként rangsorolják", "Kiterjedt park- és zöldterület-hálózat", "Technológiai és félvezetőipari vállalatok központja"],
       ro: ["Universitatea din California, Irvine (UCI)", "Clasat constant printre cele mai sigure orașe din America", "Rețea extinsă de parcuri și spații deschise", "Centru pentru companii de tehnologie și semiconductori"],
       en: ["University of California, Irvine (UCI)", "Consistently ranked one of the safest cities in America", "Extensive network of parks and open spaces", "Hub for tech and semiconductor companies"]
-    }, image: "/poi-images/irvine-cities-v2.webp"},
+    }, image: "/poi-images/irvine-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Irvine ist eine geplante Stadt im Orange County, Kalifornien, bekannt für ihren Masterplan, der Wohn-, Geschäfts- und Erholungsgebiete harmonisch vereint. Die Stadt wurde in den 1960er Jahren auf dem Land der Irvine Ranch entwickelt und hat heute über 300.000 Einwohner. Irvine ist ein wichtiges Technologie- und Bildungszentrum mit der University of California, Irvine, und vielen High-Tech-Firmen. Die Architektur ist modern und einheitlich, mit viel Grünflächen und Radwegen. Die Kriminalitätsrate ist extrem niedrig, und die Schulen gehören zu den besten des Bundesstaates.",
+      hu: "Irvine építészeti arculata a gondos tervezés eredménye: a városnegyedeket tematikus stílusban építették, például a spanyol gyarmati revival vagy a mediterrán. A belvárost, a „Irvine Spectrum”-ot üvegfalú irodaházak és bevásárlóközpontok uralják. A lakóövezetekben alacsony épületek és sorházak találhatók, széles utakkal és buja növényzettel. A város számos parkkal, kerékpárúttal és a 160 hektáros Great Parkkal büszkélkedhet, amely egy egykori katonai repülőtér helyén épült.",
+      ro: "Irvine este un centru cultural și educațional vibrant. University of California, Irvine, este una dintre cele mai bune universități publice din SUA, cu peste 35.000 de studenți. Orașul găzduiește Irvine Barclay Theatre și Festivalul de Muzică de Cameră din Orange County. Comunitatea este extrem de diversă, cu procente mari de asiatici (45%) și hispanici. Evenimente precum „Irvine Global Village Festival” celebrează multiculturalismul. De asemenea, orașul are o scenă culinară variată, cu restaurante internaționale.",
+      en: "Irvine was master planned by the Irvine Company beginning in the 1960s. The city's economy is anchored by technology, biomedical research, and higher education. Major employers include Blizzard Entertainment, Broadcom, and Edwards Lifesciences. UC Irvine generates over $5 billion in economic output annually. Irvine has one of the lowest crime rates in the U.S., with a violent crime rate of 0.6 per 1,000 residents. The city's park system includes over 16,000 acres of open space, including the 1,200-acre Great Park.",
+    },
+    factsAdvanced: {
+      de: ["Irvine hat 307.670 Einwohner (2023).", "Die Stadtfläche beträgt 172,5 km².", "Gegründet 1971, aber bereits 1960er geplant.", "Die University of California, Irvine, hat 35.000 Studenten.", "Die Kriminalitätsrate beträgt 0,6 Gewaltverbrechen pro 1.000 Einwohner.", "Die Great Park umfasst 4,9 km²."],
+      hu: ["Irvine lakossága 307.670 fő (2023).", "A város területe 172,5 km².", "A Great Park területe 4,9 km².", "A Irvine Spectrum bevásárlóközpont 1995-ben nyílt meg.", "A városban 16.000 hektár zöldterület található.", "A spanyol gyarmati revival stílus jellemzi a régebbi negyedeket."],
+      ro: ["Irvine are o populație de 307.670 locuitori (2023).", "Suprafața este de 172,5 km².", "UC Irvine are 35.000 de studenți.", "Orașul a fost fondat oficial în 1971.", "Blizzard Entertainment are sediul central în Irvine.", "Rata infracționalității este de 0,6 violențe la 1.000 de locuitori."],
+      en: ["Irvine's population is 307,670 (2023).", "The city covers 172.5 square kilometers.", "Incorporated in 1971, planned since the 1960s.", "UC Irvine has over 35,000 students.", "Irvine has 16,000 acres of parks and open space.", "Violent crime rate is 0.6 per 1,000 residents."],
+    },
+  },
   {
     id: "durham-cities-v2",
     type: "city",
     parent: "US-NC",
     coords: [-78.8986, 35.9940],
-    name: { de: "Durham", hu: "Durham", ro: "Durham", en: "Durham",
-image: "/poi-images/durham-cities-v2.webp"
-},
+    name: { de: "Durham", hu: "Durham", ro: "Durham", en: "Durham"},
+    image: "/poi-images/durham-cities-v2.webp",
     description: {
       de: "Eine Stadt in North Carolina, bekannt für die Duke University und ihre Rolle im Research Triangle Park.",
       hu: "Város Észak-Karolinában, a Duke Egyetemről és a Research Triangle Parkban betöltött szerepéről ismert.",
@@ -1735,15 +1848,27 @@ image: "/poi-images/durham-cities-v2.webp"
       hu: ["Duke Egyetem és híres kápolnája", "A Research Triangle része", "A dohányipar egykori központja", "Durhami Előadóművészeti Központ"],
       ro: ["Universitatea Duke și capela sa faimoasă", "Parte a Triunghiului de Cercetare", "Fost centru al industriei tutunului", "Centrul de Arte Spectacolului Durham"],
       en: ["Duke University and its famous chapel", "Part of the Research Triangle", "Former center of the tobacco industry", "Durham Performing Arts Center"]
-    }, image: "/poi-images/durham-cities-v2.webp"},
+    }, image: "/poi-images/durham-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Durham, North Carolina, ist eine historische Tabak- und Textilstadt, die sich zu einem Zentrum der Biotechnologie und Forschung gewandelt hat. Die Stadt ist Teil des Research Triangle Park, einem der größten Forschungsparks der Welt. Duke University, eine renommierte Universität, befindet sich in Durham. Die Architektur spiegelt die industrielle Vergangenheit wider, mit vielen umgebauten Tabakfabriken, die heute Büros und Kunstgalerien beherbergen. Die Stadt hat eine lebendige Musik- und Food-Szene, die von der vielfältigen Bevölkerung geprägt ist.",
+      hu: "Durham építészeti öröksége a dohányiparhoz kötődik: a történelmi gyárépületeket felújították és új funkcióval ruházták fel. A Brightleaf Square és az American Tobacco Campus példák a sikeres városrehabilitációra. A modern épületek, mint a Durham Performing Arts Center, a belvárosban koncentrálódnak. A lakóövezetek változatosak, a viktoriánus stílusú házaktól a modern apartmanházakig. A város nagy hangsúlyt fektet a fenntarthatóságra, kerékpárutakkal és zöldtetőkkel.",
+      ro: "Durham are o puternică identitate culturală afro-americană. Orașul a fost un centru al mișcării pentru drepturile civile, iar astăzi găzduiește Hayti Heritage Center, care celebrează istoria și cultura afro-americană. Muzica este importantă: de la jazz la indie rock, numeroase cluburi și festivaluri atrag artiști. Durham Bulls, echipa de baseball minoră, este un simbol local. De asemenea, orașul este cunoscut pentru gătitul sudic, cu restaurante premiate.",
+      en: "Durham's economy is driven by research and healthcare. Duke University and Duke University Health System are the largest employers, contributing over $10 billion annually. The Research Triangle Park hosts over 300 companies, including IBM and GlaxoSmithKline. Durham has a high percentage of residents with advanced degrees. The city has been revitalized through projects like the Durham Beltline and the Durham Union Station transit hub. The cost of living remains below the national average, attracting young professionals.",
+    },
+    factsAdvanced: {
+      de: ["Durham hat 283.506 Einwohner (2023).", "Die Stadtfläche beträgt 286,8 km².", "Gegründet 1869 als Eisenbahnstadt.", "Die Duke University hat 16.000 Studierende.", "Der Research Triangle Park erstreckt sich über 27 km².", "Die durchschnittliche Miete beträgt 1.200 USD pro Monat."],
+      hu: ["Durham lakossága 283.506 fő (2023).", "A város területe 286,8 km².", "A Durham Performing Arts Center 2.800 férőhelyes.", "Az American Tobacco Campus 2004-ben nyílt meg.", "A Durham Bulls stadion 10.000 férőhelyes.", "A város 1869-ben kapott városi rangot."],
+      ro: ["Durham are 283.506 locuitori (2023).", "Suprafața este de 286,8 km².", "Duke University are 16.000 de studenți.", "Orașul a fost fondat în 1869.", "Hayti Heritage Center a fost deschis în 1976.", "Research Triangle Park găzduiește peste 300 de companii."],
+      en: ["Durham's population is 283,506 (2023).", "The city covers 286.8 square kilometers.", "Founded in 1869 as a railroad depot.", "Duke University employs over 27,000 people.", "Research Triangle Park spans 7,000 acres.", "Durham has over 60 parks covering 2,000 acres."],
+    },
+  },
   {
     id: "st-petersburg-fl-cities-v2",
     type: "city",
     parent: "US-FL",
     coords: [-82.6403, 27.7676],
-    name: { de: "St. Petersburg (Florida)", hu: "St. Petersburg (Florida)", ro: "St. Petersburg (Florida)", en: "St. Petersburg, FL",
-image: "/poi-images/st-petersburg-fl-cities-v2.webp"
-},
+    name: { de: "St. Petersburg (Florida)", hu: "St. Petersburg (Florida)", ro: "St. Petersburg (Florida)", en: "St. Petersburg, FL"},
+    image: "/poi-images/st-petersburg-fl-cities-v2.webp",
     description: {
       de: "Eine Stadt an der Golfküste Floridas, bekannt für ihr angenehmes Wetter und ihre Kunstszene.",
       hu: "Város Florida Golf-partján, kellemes időjárásáról és művészeti életéről ismert.",
@@ -1755,15 +1880,27 @@ image: "/poi-images/st-petersburg-fl-cities-v2.webp"
       hu: ["Beceneve 'Napfény Városa'", "A legtöbb egymást követő napos nap rekordját tartja", "Salvador Dalí Múzeum", "Fort De Soto Park"],
       ro: ["Poreclit 'Orașul Soarelui'", "Deține recordul pentru cele mai multe zile consecutive cu soare", "Muzeul Salvador Dalí", "Parcul Fort De Soto"],
       en: ["Nicknamed 'Sunshine City'", "Holds the record for most consecutive days of sunshine", "The Salvador Dalí Museum", "Fort De Soto Park"]
-    }, image: "/poi-images/st-petersburg-fl-cities-v2.webp"},
+    }, image: "/poi-images/st-petersburg-fl-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "St. Petersburg, Florida, liegt an der Golfküste und ist bekannt für sein sonniges Klima mit durchschnittlich 361 Sonnentagen pro Jahr. Die Stadt wurde 1888 gegründet und entwickelte sich zu einem Touristenziel mit zahlreichen Stränden und Parks. St. Petersburg beherbergt das Salvador-Dalí-Museum mit der größten Sammlung von Werken des Künstlers außerhalb Spaniens. Die Architektur reicht von historischen viktorianischen Häusern bis zu modernen Hochhäusern. Die Wirtschaft wird vom Tourismus, Gesundheitswesen und Technologie dominiert.",
+      hu: "St. Petersburg építészeti stílusa sokszínű: a belvárosban art deco épületek, például a Snell Arcade, és modern üvegpaloták váltakoznak. A város híres a vízparti promenádjairól, mint a St. Pete Pier, egy 1,3 km hosszú móló, amely 2020-ban újult meg. A lakóövezetekben fényűző villák és mediterrán stílusú házak találhatók. A városrendezés nagy hangsúlyt fektet a gyalogosbarát központ kialakítására, kerékpárutakkal és parkokkal.",
+      ro: "St. Petersburg este un important centru cultural, cu o scenă artistică înfloritoare. Pe lângă Muzeul Dalí, orașul găzduiește Muzeul de Arte Plastice și Teatrul Mahaffey. Festivalurile anuale, cum ar fi Festivalul de Film de la St. Petersburg și Festivalul de Muzică Tampa Bay, atrag vizitatori. Comunitatea LGBTQ+ este activă, iar cartierul Grand Central este cunoscut pentru viața de noapte și galeriile de artă. Orașul promovează sustenabilitatea, cu inițiative de reciclare și energie solară.",
+      en: "St. Petersburg's economy is anchored by tourism, healthcare, and technology. The city is a hub for marine science, with the University of South Florida's St. Petersburg campus and the Florida Fish and Wildlife Research Institute. Major employers include Bayfront Health and Raymond James Financial. The city's population has grown rapidly, with over 260,000 residents. St. Petersburg has a thriving startup scene, particularly in software and clean technology. The cost of living is moderate compared to other Florida coastal cities.",
+    },
+    factsAdvanced: {
+      de: ["St. Petersburg hat 263.255 Einwohner (2023).", "Die Stadtfläche beträgt 356,5 km².", "Gegründet 1888 von John C. Williams.", "Das Salvador-Dalí-Museum beherbergt 96 Gemälde.", "Durchschnittlich 361 Sonnentage pro Jahr.", "Der St. Pete Pier ist 1,3 km lang."],
+      hu: ["St. Petersburg lakossága 263.255 fő (2023).", "A város területe 356,5 km².", "A Snell Arcade épület 1926-ban épült.", "A Mahaffey Theatre 2.000 férőhelyes.", "A város 1888-ban alakult.", "A St. Pete Pier 2020-ban újult meg."],
+      ro: ["St. Petersburg are 263.255 locuitori (2023).", "Suprafața este de 356,5 km².", "Muzeul Dalí a fost deschis în 1982.", "Orașul a fost fondat în 1888.", "Temperatura medie anuală este de 23°C.", "Există peste 130 de parcuri publice."],
+      en: ["St. Petersburg's population is 263,255 (2023).", "The city covers 356.5 square kilometers.", "Founded in 1888 by John C. Williams.", "The Dalí Museum has over 2,000 works.", "The city averages 361 sunny days per year.", "St. Pete Pier was renovated in 2020."],
+    },
+  },
   {
     id: "jersey-city-cities-v2",
     type: "city",
     parent: "US-NJ",
     coords: [-74.0776, 40.7282],
-    name: { de: "Jersey City", hu: "Jersey City", ro: "Jersey City", en: "Jersey City",
-image: "/poi-images/jersey-city-cities-v2.webp"
-},
+    name: { de: "Jersey City", hu: "Jersey City", ro: "Jersey City", en: "Jersey City"},
+    image: "/poi-images/jersey-city-cities-v2.webp",
     description: {
       de: "Eine Stadt in New Jersey gegenüber von Lower Manhattan, bekannt für ihre Skyline-Ansichten und ihre Vielfalt.",
       hu: "Város New Jersey-ben, Alsó-Manhattannel szemben, felhőkarcolóiról és sokszínűségéről ismert.",
@@ -1775,15 +1912,27 @@ image: "/poi-images/jersey-city-cities-v2.webp"
       hu: ["Liberty State Park kilátással a Szabadság-szoborra", "New York-i nagyvárosi terület része", "Pénzügyi negyed, amelyet 'Wall Street West'-nek is neveznek", "Empty Sky, New Jersey 9/11-es emlékműve"],
       ro: ["Parcul Statal Liberty cu vedere la Statuia Libertății", "Parte a zonei metropolitane New York", "District financiar cunoscut sub numele de 'Wall Street West'", "Empty Sky, memorialul 9/11 din New Jersey"],
       en: ["Liberty State Park with views of the Statue of Liberty", "Part of the New York metropolitan area", "Financial district known as 'Wall Street West'", "Empty Sky, New Jersey's 9/11 memorial"]
-    }, image: "/poi-images/jersey-city-cities-v2.webp"},
+    }, image: "/poi-images/jersey-city-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jersey City liegt direkt gegenüber von Manhattan und ist die zweitgrößte Stadt New Jerseys. Sie wurde 1660 von niederländischen Siedlern gegründet und entwickelte sich zu einem wichtigen Hafen- und Eisenbahnknotenpunkt. Heute ist Jersey City ein Finanzzentrum mit beeindruckender Skyline, die von Wolkenkratzern wie dem Goldman Sachs Tower dominiert wird. Die Bevölkerung ist sehr multikulturell, mit großen hispanischen und asiatischen Gemeinschaften. Bekannt ist die Stadt für das Liberty State Park mit Blick auf die Freiheitsstatue.",
+      hu: "Jersey City építészeti arculatát a magas épületek és a történelmi negyedek együttese jellemzi. A belvárosban (Downtown) modern lakó- és irodaházak emelkednek, míg a Hamilton Park és Van Vorst Park környékén viktoriánus sorházak találhatók. A város jelképe a 42 emeletes Goldman Sachs Tower. A közlekedés kiváló: a PATH vonatok gyors összeköttetést biztosítanak Manhattanbe. A városban számos park és vízparti sétaút található.",
+      ro: "Jersey City are o viață culturală bogată, influențată de diversitatea etnică. Orașul găzduiește Muzeul de Artă Contemporană din New Jersey și numeroase festivaluri, cum ar fi Festivalul Filmului de la Jersey City și Festivalul Porto Rican. Comunitatea hispanică este dominantă, iar cartierul Journal Square este centrul cultural. Multitudinea de restaurante internaționale reflectă amestecul cultural. De asemenea, orașul are o scenă muzicală activă, cu concerte în parcuri.",
+      en: "Jersey City's economy has been transformed by the financial services industry. Major banks such as Goldman Sachs and Citigroup have large offices. The city's waterfront development, including the Newport and Exchange Place areas, has attracted luxury residential towers. Jersey City's population has grown by over 20% since 2010, reaching over 280,000. Its proximity to lower Manhattan makes it a popular commuter hub. The city also hosts many tech startups, benefiting from lower rents than New York City.",
+    },
+    factsAdvanced: {
+      de: ["Jersey City hat 281.475 Einwohner (2023).", "Die Stadtfläche beträgt 54,7 km².", "Gegründet 1660 als Nieuw Haarlem.", "Der Goldman Sachs Tower ist 42 Stockwerke hoch.", "Das Liberty State Park ist 486 Hektar groß.", "Die PATH fährt 24 Stunden am Tag."],
+      hu: ["Jersey City lakossága 281.475 fő (2023).", "A város területe 54,7 km².", "A Goldmann Sachs Tower 177 méter magas.", "A Hamilton Park 1854-ben nyílt meg.", "A város 1660-ban kapta meg az alapító okiratát.", "A Newport bevásárlóközpont 1987-ben nyílt meg."],
+      ro: ["Jersey City are 281.475 locuitori (2023).", "Suprafața este de 54,7 km².", "Orașul a fost fondat în 1660.", "Muzeul de Artă Contemporană a fost deschis în 1999.", "PATH transportă un milion de pasageri pe săptămână.", "Există 8 parcuri mari în oraș."],
+      en: ["Jersey City's population is 281,475 (2023).", "The city covers 54.7 square kilometers.", "Founded in 1660 by Dutch settlers.", "Goldman Sachs Tower is 238 meters tall.", "Liberty State Park covers 1,200 acres.", "PATH train system carries over 50 million riders annually."],
+    },
+  },
   {
     id: "chandler-cities-v2",
     type: "city",
     parent: "US-AZ",
     coords: [-111.8412, 33.3062],
-    name: { de: "Chandler", hu: "Chandler", ro: "Chandler", en: "Chandler",
-image: "/poi-images/chandler-cities-v2.webp"
-},
+    name: { de: "Chandler", hu: "Chandler", ro: "Chandler", en: "Chandler"},
+    image: "/poi-images/chandler-cities-v2.webp",
     description: {
       de: "Ein Vorort südöstlich von Phoenix, bekannt für seine Parks und seine wachsende Technologiebranche.",
       hu: "Külváros Phoenix-től délkeletre, parkjairól és növekvő technológiai iparáról ismert.",
@@ -1795,15 +1944,27 @@ image: "/poi-images/chandler-cities-v2.webp"
       hu: ["Éves Struccfesztivál", "A félvezetőgyártás központja", "Veterans Oasis Park", "Történelmi belváros"],
       ro: ["Festivalul anual al struților", "Centru pentru producția de semiconductori", "Parcul Veterans Oasis", "Centru istoric"],
       en: ["Annual Ostrich Festival", "Hub for semiconductor manufacturing", "Veterans Oasis Park", "Historic downtown area"]
-    }, image: "/poi-images/chandler-cities-v2.webp"},
+    }, image: "/poi-images/chandler-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chandler liegt im Südosten von Phoenix, Arizona, und ist eine der am schnellsten wachsenden Städte der USA. Gegründet 1912 als landwirtschaftliche Gemeinde, hat sich Chandler zu einem High-Tech-Zentrum mit Firmen wie Intel und Microchip Technology entwickelt. Die Stadt ist bekannt für ihre geplanten Wohngebiete, Golfplätze und niedrige Kriminalitätsrate. Kulturell bietet Chandler das Chandler Center for the Arts und das Vision Gallery. Das Klima ist heiß und trocken mit über 300 Sonnentagen im Jahr.",
+      hu: "Chandler városszerkezete a széles körúti tömbökön alapul, a belvárosban (Downtown Chandler) történelmi épületek és modern létesítmények keverednek. A város híres a „Ostrich Festival”-ról, amely a strucctenyésztés múltjára utal. A lakóövezetekben spanyol gyarmati stílusú házak és kortárs villák egyaránt megtalálhatók. A város számos parkkal és kerékpárúttal rendelkezik, a legnagyobb a Tumbleweed Park. Chandler tervezi a felszíni tömegközlekedés fejlesztését.",
+      ro: "Chandler are o comunitate multiculturală, cu evenimente care celebrează moștenirea hispanică și nativă americană. Festivalul „Ostrich” este un eveniment unic, care atrage peste 200.000 de vizitatori anual. Orașul găzduiește numeroase galerii de artă și teatre, inclusiv Chandler Center for the Arts. Parcurile sunt puncte de întâlnire importante, cu evenimente comunitare regulate. Comunitatea asiatică este în creștere, aducând diversitate culinară și culturală.",
+      en: "Chandler's economy is dominated by technology and manufacturing. Intel operates a massive semiconductor fabrication plant, employing over 12,000 people. The city has a highly skilled workforce, with over 40% of adults holding a bachelor's degree. Chandler's population has grown from under 100,000 in 1990 to over 280,000 in 2023. The city offers a favorable business climate with low taxes and land availability. Health care is also a major employer, with Banner Chandler Medical Center.",
+    },
+    factsAdvanced: {
+      de: ["Chandler hat 280.711 Einwohner (2023).", "Die Stadtfläche beträgt 168 km².", "Gegründet 1912 als Agrarstadt.", "Intel beschäftigt 12.000 Mitarbeiter in Chandler.", "Das Chandler Center for the Arts hat 1.500 Sitzplätze.", "Die durchschnittliche Höchsttemperatur im Juli beträgt 41 °C."],
+      hu: ["Chandler lakossága 280.711 fő (2023).", "A város területe 168 km².", "A „Ostrich Festival” 1989 óta létezik.", "A Tumbleweed Park területe 1,2 km².", "A város 1912-ben alakult.", "A Vision Gallery 2003-ban nyílt meg."],
+      ro: ["Chandler are 280.711 locuitori (2023).", "Suprafața este de 168 km².", "Orașul a fost fondat în 1912.", "Intel are o fabrică de 1.000 de acri în Chandler.", "Festivalul Ostrich atrage 200.000 de vizitatori anual.", "Exista peste 30 de parcuri în oraș."],
+      en: ["Chandler's population is 280,711 (2023).", "The city covers 168 square kilometers.", "Founded in 1912 by Dr. A.J. Chandler.", "Intel's Chandler campus employs 12,000 workers.", "The city has over 30 parks totaling 1,200 acres.", "Median household income is $80,000 (2019)."],
+    },
+  },
   {
     id: "laredo-cities-v2",
     type: "city",
     parent: "US-TX",
     coords: [-99.5076, 27.5036],
-    name: { de: "Laredo", hu: "Laredo", ro: "Laredo", en: "Laredo",
-image: "/poi-images/laredo-cities-v2.webp"
-},
+    name: { de: "Laredo", hu: "Laredo", ro: "Laredo", en: "Laredo"},
+    image: "/poi-images/laredo-cities-v2.webp",
     description: {
       de: "Eine Stadt am Rio Grande an der Grenze zu Mexiko, der größte Binnenhafen der Vereinigten Staaten.",
       hu: "Város a Rio Grande mentén a mexikói határon, az Egyesült Államok legnagyobb belvízi kikötője.",
@@ -1815,15 +1976,27 @@ image: "/poi-images/laredo-cities-v2.webp"
       hu: ["Fontos kereskedelmi csomópont Mexikóval", "A Rio Grande Köztársaság Múzeuma", "Erős spanyol kultúra", "Éves Washington születésnapi ünnepség"],
       ro: ["Nod important pentru comerțul cu Mexic", "Muzeul Republicii Rio Grande", "Cultură hispanică puternică", "Sărbătoarea anuală a zilei de naștere a lui Washington"],
       en: ["Major hub for trade with Mexico", "Republic of the Rio Grande Museum", "Strong Hispanic culture", "Annual Washington's Birthday Celebration"]
-    }, image: "/poi-images/laredo-cities-v2.webp"},
+    }, image: "/poi-images/laredo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Laredo liegt im Süden von Texas direkt an der Grenze zu Mexiko und ist ein wichtiger Handels- und Transportknotenpunkt. Die Stadt wurde 1755 als spanische Siedlung gegründet und ist heute eine der am schnellsten wachsenden Städte der USA mit über 250.000 Einwohnern. Laredo ist bekannt für seine vier internationalen Brücken, die den Güterverkehr zwischen den USA und Mexiko abwickeln. Die Kultur ist stark mexikanisch geprägt, mit zahlreichen Feierlichkeiten wie der Washington's Birthday Celebration, dem größten Event seiner Art in Texas.",
+      hu: "Laredo építészete az amerikai-mexikói határ közelségét tükrözi: a belvárosban gyarmati és mexikói stílusú épületek találhatók, mint a San Agustín de Laredo-templom. A város híres a River Drive menti történelmi házakról. A határforgalom miatt az infrastruktúra fejlett, számos raktár és logisztikai központ épült. A lakóövezetek vegyesek, a modern házak mellett alacsonyabb színvonalú területek is előfordulnak.",
+      ro: "Laredo are o identitate culturală puternic legată de Mexic. Peste 95% din populație este hispanică, iar limba spaniolă este dominantă. Festivalurile precum „Far West Festival” și „Laredo Art Expo” celebrează moștenirea biculturală. Muzica norteño și grupera sunt populare. Orașul găzduiește, de asemenea, Muzeul de Artă din Laredo și un centru cultural. Gastronomia locală este o fuziune între bucătăria tex-mex și cea mexicană autentică.",
+      en: "Laredo's economy is overwhelmingly based on international trade. The Port of Laredo is the largest inland port in the U.S., handling over $200 billion in trade annually. The city has a low cost of living but a high poverty rate of around 27%. Major employment sectors include transportation, warehousing, and retail. Laredo's population is growing rapidly due to its strategic location, with a 15% increase since 2010. The city's infrastructure is continuously expanding to handle increasing trade volumes.",
+    },
+    factsAdvanced: {
+      de: ["Laredo hat 258.704 Einwohner (2023).", "Die Stadtfläche beträgt 265,1 km².", "Gegründet 1755 von spanischen Kolonisten.", "Der Hafen Laredo wickelt 200 Mrd. USD Handel jährlich ab.", "Es gibt vier internationale Brücken.", "Die Washington's Birthday Celebration zieht 400.000 Besucher an."],
+      hu: ["Laredo lakossága 258.704 fő (2023).", "A város területe 265,1 km².", "A San Agustín de Laredo-templom 1767-ben épült.", "A város 1755-ben kapta a városi jogot.", "A River Drive mentén 10 történelmi ház található.", "A határátkelők közül a legforgalmasabb a World Trade Bridge."],
+      ro: ["Laredo are 258.704 locuitori (2023).", "Suprafața este de 265,1 km².", "Orașul a fost fondat în 1755.", "Portul Laredo este cel mai mare port interior din SUA.", "95% din populație este hispanică.", "Rata sărăciei este de 27%."],
+      en: ["Laredo's population is 258,704 (2023).", "The city covers 265.1 square kilometers.", "Founded in 1755 by Spanish settlers.", "Port of Laredo handles over $200 billion in trade yearly.", "Laredo has four international bridges.", "The Washington's Birthday Celebration began in 1898."],
+    },
+  },
   {
     id: "norfolk-cities-v2",
     type: "city",
     parent: "US-VA",
     coords: [-76.2859, 36.8508],
-    name: { de: "Norfolk", hu: "Norfolk", ro: "Norfolk", en: "Norfolk",
-image: "/poi-images/norfolk-cities-v2.webp"
-},
+    name: { de: "Norfolk", hu: "Norfolk", ro: "Norfolk", en: "Norfolk"},
+    image: "/poi-images/norfolk-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt in Virginia, Heimat der größten Marinebasis der Welt.",
       hu: "Kikötőváros Virginiában, a világ legnagyobb haditengerészeti bázisának otthona.",
@@ -1835,15 +2008,27 @@ image: "/poi-images/norfolk-cities-v2.webp"
       hu: ["Norfolki haditengerészeti állomás", "Chrysler Művészeti Múzeum", "Norfolki Botanikus Kert", "USS Wisconsin, egy csatahajó-múzeum"],
       ro: ["Baza Navală Norfolk", "Muzeul de Artă Chrysler", "Grădina Botanică Norfolk", "USS Wisconsin, un muzeu-navă de luptă"],
       en: ["Naval Station Norfolk", "Chrysler Museum of Art", "Norfolk Botanical Garden", "USS Wisconsin, a battleship museum"]
-    }, image: "/poi-images/norfolk-cities-v2.webp"},
+    }, image: "/poi-images/norfolk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Norfolk, Virginia, ist eine historische Hafenstadt an der Chesapeake Bay und Sitz der größten Marinebasis der Welt, der Naval Station Norfolk. Die Stadt wurde 1682 gegründet und war während des Amerikanischen Unabhängigkeitskriegs und des Bürgerkriegs ein wichtiger Schauplatz. Heute ist Norfolk ein kulturelles Zentrum mit dem Chrysler Museum of Art, dem Virginia Opera und dem Virginia Symphony Orchestra. Die Wirtschaft wird stark von der Marine, dem Schiffsbau und dem Tourismus geprägt.",
+      hu: "Norfolk építészeti arculata változatos: a belvárosban modern irodaházak és a 20. század eleji építmények, mint a neoklasszicista városháza, keverednek. A város híres a Ghent negyedről, ahol viktoriánus stílusú házak és butikok találhatók. A vízparton hajók és a Nauticus Múzeum, valamint a USS Wisconsin csatahajó múzeumhajó látható. A város számos parkot és sétányt tart fenn, köztük a Town Point Parkot, ahol fesztiválokat rendeznek.",
+      ro: "Norfolk are o scenă culturală vibrantă, cu o puternică moștenire maritimă. Chrysler Museum of Art deține peste 30.000 de opere de artă. Orașul găzduiește Festivalul Internațional de Film de la Norfolk și numeroase concerte. Cartierul artistic Harrison Opera House este un centru al artelor. Comunitatea afro-americană are o prezență semnificativă, cu evenimente care celebrează istoria sclaviei și a aboliționismului. De asemenea, scena culinară este diversă, cu fructe de mare proaspete.",
+      en: "Norfolk's economy is dominated by the military and defense sectors. Naval Station Norfolk is the largest naval base in the world, supporting over 100 ships and 50,000 personnel. The port of Norfolk is one of the busiest on the East Coast. The city has a strong technology sector, with cybersecurity and unmanned systems research. Norfolk's population is around 238,000, with a high proportion of active-duty military and veterans. The cost of living is moderate, and the city invests heavily in waterfront redevelopment.",
+    },
+    factsAdvanced: {
+      de: ["Norfolk hat 238.005 Einwohner (2023).", "Die Stadtfläche beträgt 249,4 km².", "Gegründet 1682 als Handelsstation.", "Die Naval Station Norfolk ist der größte Marinestützpunkt der Erde.", "Das Chrysler Museum of Art hat 30.000 Werke.", "Der Hafen bewegte 2019 über 25 Mio. Tonnen Fracht."],
+      hu: ["Norfolk lakossága 238.005 fő (2023).", "A város területe 249,4 km².", "A Ghent negyed 1890-ben épült.", "A USS Wisconsin 1944-ben állt szolgálatba.", "A Nauticus Múzeum 1994-ben nyílt meg.", "A város 1682-ben kapott alapító okiratot."],
+      ro: ["Norfolk are 238.005 locuitori (2023).", "Suprafața este de 249,4 km².", "Orașul a fost fondat în 1682.", "Naval Station Norfolk găzduiește 100 de nave.", "Chrysler Museum a fost fondat în 1933.", "Există peste 25 de parcuri în oraș."],
+      en: ["Norfolk's population is 238,005 (2023).", "The city covers 249.4 square kilometers.", "Founded in 1682 as a trading post.", "Naval Station Norfolk is the world's largest naval base.", "The port handles over 25 million tons of cargo annually.", "Chrysler Museum of Art holds 30,000 artworks."],
+    },
+  },
   {
     id: "reno-cities-v2",
     type: "city",
     parent: "US-NV",
     coords: [-119.8138, 39.5296],
-    name: { de: "Reno", hu: "Reno", ro: "Reno", en: "Reno",
-image: "/poi-images/reno-cities-v2.webp"
-},
+    name: { de: "Reno", hu: "Reno", ro: "Reno", en: "Reno"},
+    image: "/poi-images/reno-cities-v2.webp",
     description: {
       de: "Bekannt als 'Die größte kleine Stadt der Welt', eine Stadt in Nevada mit Casinos und Outdoor-Aktivitäten.",
       hu: "A 'világ legnagyobb kisvárosaként' ismert, nevadai város kaszinókkal és szabadtéri tevékenységekkel.",
@@ -1855,15 +2040,27 @@ image: "/poi-images/reno-cities-v2.webp"
       hu: ["Nemzeti Autómúzeum", "A Tahoe-tó közelében", "A Truckee folyó áthalad a városon", "Éves Great Reno Hőlégballon Verseny"],
       ro: ["Muzeul Național al Automobilului", "Aproape de Lacul Tahoe", "Râul Truckee traversează orașul", "Cursa anuală de baloane Great Reno"],
       en: ["National Automobile Museum", "Near Lake Tahoe", "Truckee River runs through the city", "Annual Great Reno Balloon Race"]
-    }, image: "/poi-images/reno-cities-v2.webp"},
+    }, image: "/poi-images/reno-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Reno, Nevada, liegt am Fuße der Sierra Nevada und ist bekannt für seine Casinos und als „die größte kleine Stadt der Welt“. Die Stadt wurde 1868 als Eisenbahnstadt gegründet und erlebte während des Bergbaubooms ein schnelles Wachstum. Heute ist Reno ein Zentrum für Technologie, Logistik und Tourismus. Die University of Nevada, Reno, befindet sich in der Stadt. Reno hat eine lebendige Kunstszene mit dem Nevada Museum of Art und dem Reno Riverwalk. Das Klima ist trocken mit kalten Wintern und heißen Sommern.",
+      hu: "Reno építészete a régi vadnyugati hangulatot és a modern kaszinók fényűzését ötvözi. A belvárosban a 19. századi épületek, mint a Riverside Hotel, mellett óriási szállodák és kaszinók állnak. A város híres a „Reno Arch” feliratról. A Riverwalk mentén galériák és éttermek találhatók. A város a Tahoe-tó közelsége miatt népszerű a szabadtéri tevékenységek szerelmesei körében. A városrendezés a belváros felújítására összpontosít, új lakó- és irodaházak építésével.",
+      ro: "Reno are o moștenire culturală legată de jocurile de noroc și de Vestul Sălbatic. Orașul găzduiește Festivalul de Film de la Reno și evenimente de rodeo. Comunitatea artistică este activă, cu galerii de artă și teatre. Muzeul de Artă Nevada prezintă artă contemporană. De asemenea, orașul este cunoscut pentru Burning Man, festivalul care are loc în deșertul Black Rock, atrăgând participanți din întreaga lume. Bucătăria locală reflectă influențe mexicane și americane.",
+      en: "Reno's economy has diversified from its gambling roots to include technology and distribution. Companies like Tesla, Panasonic, and Google have established operations in the region, particularly in the Tahoe-Reno Industrial Center. The city's population is over 265,000, with rapid growth in the surrounding areas. Reno's airport, Reno-Tahoe International, serves over 4 million passengers annually. The cost of living is slightly above the national average but lower than much of California. Outdoor recreation, including skiing and hiking, supports a robust tourism industry.",
+    },
+    factsAdvanced: {
+      de: ["Reno hat 265.869 Einwohner (2023).", "Die Stadtfläche beträgt 285,2 km².", "Gegründet 1868 als Eisenbahnstation.", "Die University of Nevada, Reno, hat 21.000 Studenten.", "Der Flughafen Reno-Tahoe International bedient 4 Mio. Passagiere.", "Die durchschnittliche Schneemenge beträgt 60 cm pro Jahr."],
+      hu: ["Reno lakossága 265.869 fő (2023).", "A város területe 285,2 km².", "A Reno Arch 1926-ban épült.", "A város 1868-ban alakult.", "A Nevada Museum of Art 1931-ben nyílt meg.", "A Tahoe-Reno Industrial Center 40 km-re van a várostól."],
+      ro: ["Reno are 265.869 locuitori (2023).", "Suprafața este de 285,2 km².", "Orașul a fost fondat în 1868.", "Reno-Tahoe International Airport deservește 4 milioane de pasageri anual.", "Burning Man atrage peste 70.000 de participanți anual.", "Rata șomajului este de 4,2%."],
+      en: ["Reno's population is 265,869 (2023).", "The city covers 285.2 square kilometers.", "Founded in 1868 as a railroad town.", "University of Nevada, Reno enrolls 21,000 students.", "Reno-Tahoe International Airport serves 4 million passengers yearly.", "The city receives an average of 60 cm of snow annually."],
+    },
+  },
   {
     id: "buffalo-cities-v2",
     type: "city",
     parent: "US-NY",
     coords: [-78.8784, 42.8864],
-    name: { de: "Buffalo", hu: "Buffalo", ro: "Buffalo", en: "Buffalo",
-image: "/poi-images/buffalo-cities-v2.webp"
-},
+    name: { de: "Buffalo", hu: "Buffalo", ro: "Buffalo", en: "Buffalo"},
+    image: "/poi-images/buffalo-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt im Bundesstaat New York am Ostufer des Eriesees, nahe der Niagarafälle.",
       hu: "New York állam második legnagyobb városa az Erie-tó keleti partján, a Niagara-vízesés közelében.",
@@ -1875,15 +2072,27 @@ image: "/poi-images/buffalo-cities-v2.webp"
       hu: ["Híres a Buffalo csirkeszárnyakról", "Ipari örökség", "Albright-Knox Művészeti Galéria", "Havas telek"],
       ro: ["Cunoscut pentru aripioarele Buffalo", "Moștenire industrială", "Galeria de Artă Albright-Knox", "Ierni cu zăpadă abundentă"],
       en: ["Famous for Buffalo wings", "Industrial heritage", "Albright-Knox Art Gallery", "Snowy winters"]
-    }, image: "/poi-images/buffalo-cities-v2.webp"},
+    }, image: "/poi-images/buffalo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Buffalo, New York, liegt am Ostufer des Eriesees und ist bekannt für seine industrielle Vergangenheit als Zentrum der Getreideverarbeitung und Stahlproduktion. Die Stadt wurde 1801 gegründet und war ein wichtiger Knotenpunkt des Eriekanals. Heute durchläuft Buffalo eine Renaissance mit neuen Investitionen in die Innenstadt, Technologie und Gesundheitswesen. Architektonische Höhepunkte sind das Rathaus im Art-Déco-Stil und die Darwin D. Martin House von Frank Lloyd Wright. Buffalo ist auch für seine scharfen Winter bekannt.",
+      hu: "Buffalo építészeti öröksége gazdag és változatos. A városháza (Buffalo City Hall) 32 emeletes, a 4. legmagasabb városháza az Egyesült Államokban. A város híres a Frank Lloyd Wright által tervezett Martin House Complexről, amely hat épületből áll. A történelmi belvárosban neoklasszicista és art deco épületek sorakoznak. A Canalside terület revitalizációja új parkokat és rendezvényhelyszíneket hozott létre. A város sok zöldterülettel rendelkezik, beleértve a Delaware Parkot és a Buffalo Zoo-t.",
+      ro: "Buffalo are o moștenire culturală puternică, cu o scenă artistică înfloritoare. Muzeul de Artă Albright-Knox (acum Buffalo AKG Art Museum) deține o colecție impresionantă de artă modernă. Orașul găzduiește Festivalul de Muzică de la Buffalo și Festivalul Internațional de Film de la Buffalo. Comunitatea este diversă, cu o populație poloneză și italiană semnificativă, ceea ce se reflectă în gastronomie. Mâncarea emblematică este aripioara de pui Buffalo (Buffalo wings), inventată în 1964.",
+      en: "Buffalo's economy is transitioning from heavy industry to healthcare, education, and technology. The Buffalo Niagara Medical Campus employs over 17,000 people, including the Roswell Park Comprehensive Cancer Center. The city's population has stabilized after decades of decline, currently around 276,000. Buffalo benefits from its proximity to Niagara Falls, a major tourist attraction. The cost of living is low, and the city has invested in brownfield redevelopment. The Lake Erie waterfront has been revitalized with parks and attractions.",
+    },
+    factsAdvanced: {
+      de: ["Buffalo hat 276.486 Einwohner (2023).", "Die Stadtfläche beträgt 136 km².", "Gegründet 1801 als Handelsposten.", "Das Rathaus Buffalo City Hall hat 32 Stockwerke.", "Der Buffalo Niagara Medical Campus beschäftigt 17.000 Mitarbeiter.", "Die durchschnittliche jährliche Schneemenge beträgt 240 cm."],
+      hu: ["Buffalo lakossága 276.486 fő (2023).", "A város területe 136 km².", "A Martin House Complex 1905-ben épült.", "A város 1801-ben kapott városi rangot.", "A Buffalo AKG Art Museum 1862-ben nyílt meg.", "A Canalside fejlesztés 2010-ben kezdődött."],
+      ro: ["Buffalo are 276.486 locuitori (2023).", "Suprafața este de 136 km².", "Orașul a fost fondat în 1801.", "Buffalo wings au fost inventate în 1964.", "Roswell Park Comprehensive Cancer Center a fost fondat în 1898.", "Cantitatea medie anuală de zăpadă este de 240 cm."],
+      en: ["Buffalo's population is 276,486 (2023).", "The city covers 136 square kilometers.", "Founded in 1801 by Holland Land Company.", "Buffalo City Hall is 32 stories tall.", "The Buffalo AKG Art Museum has over 6,000 works.", "Buffalo averages 240 cm of snowfall annually."],
+    },
+  },
   {
     id: "fort-wayne-cities-v2",
     type: "city",
     parent: "US-IN",
     coords: [-85.1394, 41.0793],
-    name: { de: "Fort Wayne", hu: "Fort Wayne", ro: "Fort Wayne", en: "Fort Wayne",
-image: "/poi-images/fort-wayne-cities-v2.webp"
-},
+    name: { de: "Fort Wayne", hu: "Fort Wayne", ro: "Fort Wayne", en: "Fort Wayne"},
+    image: "/poi-images/fort-wayne-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt in Indiana mit einer reichen Geschichte und einer wachsenden Wirtschaft.",
       hu: "Indiana második legnagyobb városa, gazdag történelemmel és növekvő gazdasággal.",
@@ -1895,15 +2104,27 @@ image: "/poi-images/fort-wayne-cities-v2.webp"
       hu: ["Johnny Appleseed Park", "Fort Wayne-i Gyermekállatkert", "Három folyó folyik át a városon", "Történelmi gyökerei mint francia kereskedelmi állomás"],
       ro: ["Parcul Johnny Appleseed", "Grădina Zoologică pentru Copii Fort Wayne", "Trei râuri traversează orașul", "Rădăcini istorice ca post comercial francez"],
       en: ["Johnny Appleseed Park", "Fort Wayne Children's Zoo", "Three rivers run through the city", "Historic roots as a French trading post"]
-    }, image: "/poi-images/fort-wayne-cities-v2.webp"},
+    }, image: "/poi-images/fort-wayne-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Wayne liegt im Nordosten Indianas und ist die zweitgrößte Stadt des Bundesstaates. Sie wurde 1794 als militärischer Außenposten gegründet und entwickelte sich zu einem wichtigen Eisenbahn- und Industriezentrum. Heute hat die Stadt eine diversifizierte Wirtschaft mit Schwerpunkten in der Fertigung, Gesundheitswesen und Logistik. Fort Wayne ist bekannt für seine Parkanlagen, darunter der Foellinger-Freiluftpark und der Botanische Garten. Die Stadt verfügt über ein florierendes Kunstviertel mit Theatern und Galerien.",
+      hu: "Fort Wayne építészeti stílusa a történelmi gyarmati épületektől a modern szerkezetekig terjed. A belvárost három folyó (St. Joseph, St. Marys, Maumee) szeli át, ami számos hidat és vízparti sétányt eredményez. A város híres a Wells Street Bridge-ről, egy 19. századi acélhídról. A neogótikus Szent Patrik-székesegyház és a modern Allen County Courthouse épületei kiemelkednek. A lakóövezetekben viktoriánus házak és ranch stílusú épületek egyaránt megtalálhatók.",
+      ro: "Fort Wayne are o moștenire culturală bogată, cu influențe germane și irlandeze. Orașul găzduiește Festivalul German de la Fort Wayne, unul dintre cele mai mari din Midwest, și Festivalul Irish. Muzeul de Artă din Fort Wayne prezintă lucrări regionale și internaționale. Scena muzicală este activă, cu Orchestra Simfonică Fort Wayne și numeroase concerte în parc. De asemenea, orașul este cunoscut pentru grădinile botanice și parcurile sale, precum și pentru planetariul din Muzeul Științei.",
+      en: "Fort Wayne's economy is anchored by manufacturing and healthcare. Major employers include Parkview Health, Lutheran Health Network, and General Motors. The city's population has grown modestly, reaching over 268,000. Fort Wayne has a low cost of living, about 10% below the national average. The city has invested in downtown revitalization, including the Electric Works innovation district. Fort Wayne also serves as a logistics hub, with the Fort Wayne International Airport handling cargo and passenger flights.",
+    },
+    factsAdvanced: {
+      de: ["Fort Wayne hat 268.378 Einwohner (2023).", "Die Stadtfläche beträgt 287,1 km².", "Gegründet 1794 als Fort.", "Der Foellinger-Freiluftpark wurde 1988 eröffnet.", "General Motors beschäftigt 4.000 Mitarbeiter in Fort Wayne.", "Die drei Flüsse der Stadt sind insgesamt 15 km lang."],
+      hu: ["Fort Wayne lakossága 268.378 fő (2023).", "A város területe 287,1 km².", "A Wells Street Bridge 1884-ben épült.", "A város 1794-ben alakult.", "A Fort Wayne Museum of Art 1920-ban nyílt meg.", "Az Electric Works fejlesztés 2022-ben indult."],
+      ro: ["Fort Wayne are 268.378 locuitori (2023).", "Suprafața este de 287,1 km².", "Orașul a fost fondat în 1794.", "Festivalul German atrage peste 200.000 de vizitatori anual.", "General Motors are o fabrică de 1.000 de acri.", "Costul vieții este cu 10% sub media națională."],
+      en: ["Fort Wayne's population is 268,378 (2023).", "The city covers 287.1 square kilometers.", "Founded in 1794 as a military fort.", "Foellinger Outdoor Theatre seats 2,500.", "The city has over 86 parks.", "Fort Wayne International Airport serves 1.2 million passengers annually."],
+    },
+  },
   {
     id: "boise-cities-v2",
     type: "state-capital",
     parent: "US-ID",
     coords: [-116.2023, 43.6150],
-    name: { de: "Boise", hu: "Boise", ro: "Boise", en: "Boise",
-image: "/poi-images/boise-cities-v2.webp"
-},
+    name: { de: "Boise", hu: "Boise", ro: "Boise", en: "Boise"},
+    image: "/poi-images/boise-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Idaho, bekannt für ihre Lebensqualität und den Zugang zu Outdoor-Aktivitäten.",
       hu: "Idaho fővárosa, életminőségéről és a szabadtéri tevékenységekhez való hozzáférésről ismert.",
@@ -1915,15 +2136,27 @@ image: "/poi-images/boise-cities-v2.webp"
       hu: ["Beceneve 'A fák városa'", "Boise River Greenbelt, egy folyóparti park", "Basque Block, amely a baszk örökséget ünnepli", "Idahói Állami Capitolium"],
       ro: ["Poreclit 'Orașul Copacilor'", "Boise River Greenbelt, un parc pe malul râului", "Cartierul Basc, care celebrează moștenirea bască", "Capitoliul Statului Idaho"],
       en: ["Nicknamed the 'City of Trees'", "Boise River Greenbelt, a riverfront park", "Basque Block celebrating Basque heritage", "Idaho State Capitol"]
-    }, image: "/poi-images/boise-cities-v2.webp"},
+    }, image: "/poi-images/boise-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Boise ist die Hauptstadt von Idaho und liegt im Treasure Valley. Die Stadt wurde 1863 als Fort gegründet und entwickelte sich zu einem Zentrum der Holzwirtschaft und Landwirtschaft. Heute ist Boise ein boomendes Technologiezentrum mit Firmen wie Micron Technology und HP Inc. Die Stadt ist bekannt für ihre hohe Lebensqualität, mit vielen Parks, Radwegen und dem Boise River Greenbelt. Die Bevölkerungszahl wächst rasant, mit über 240.000 Einwohnern. Kulturell bietet Boise die Boise Philharmonic und das Idaho Shakespeare Festival.",
+      hu: "Boise építészeti képe a régi vadnyugati múlt és a modern városfejlesztés keveréke. A belvárosban történelmi téglaépületek, mint a Idaho State Capitol (1912), és új üvegpaloták állnak. A város híres a „Boise Depot”-ról, egy 1925-ös spanyol gyarmati stílusú vasútállomásról. A Hyde Park negyed viktoriánus házai hangulatos utcákat alkotnak. A város nagy hangsúlyt fektet a zöldfelületekre, a Boise River mentén hosszú sétányok futnak.",
+      ro: "Boise are o scenă culturală în creștere, cu teatre și muzee. Muzeul de Artă Boise deține o colecție de artă contemporană. Orașul găzduiește Festivalul de Film de la Boise și Festivalul de Muzică Treefort, care atrage artiști independenți. Comunitatea este cunoscută pentru toleranță și diversitate, cu o comunitate LGBTQ+ activă. Gastronomia locală include produse proaspete din Idaho, cum ar fi cartofii și trufele. De asemenea, orașul are numeroase cafenele și bere artizanală.",
+      en: "Boise's economy is powered by technology, healthcare, and government. Micron Technology, one of the world's largest semiconductor companies, is headquartered here, employing over 5,000 people. The city's population has grown by over 25% since 2010, making it one of the fastest-growing in the U.S. Boise offers a strong job market with low unemployment (around 2.5%). The cost of living is moderate, and the city consistently ranks high for quality of life. The Boise Air Terminal (Gowen Field) handles growing air traffic.",
+    },
+    factsAdvanced: {
+      de: ["Boise hat 241.719 Einwohner (2023).", "Die Stadtfläche beträgt 219,3 km².", "Gegründet 1863 als Fort Boise.", "Micron Technology beschäftigt 5.000 Mitarbeiter in Boise.", "Der Boise River Greenbelt ist 37 km lang.", "Das Idaho State Capitol wurde 1912 fertiggestellt."],
+      hu: ["Boise lakossága 241.719 fő (2023).", "A város területe 219,3 km².", "A Boise Depot 1925-ben épült.", "A város 1863-ban alakult.", "A Hyde Park negyed 1900 körül épült.", "A Treefort Festival 2012 óta létezik."],
+      ro: ["Boise are 241.719 locuitori (2023).", "Suprafața este de 219,3 km².", "Orașul a fost fondat în 1863.", "Micron Technology are sediul global în Boise.", "Treefort Festival atrage peste 30.000 de participanți anual.", "Rata șomajului este de 2,5%."],
+      en: ["Boise's population is 241,719 (2023).", "The city covers 219.3 square kilometers.", "Founded in 1863 as a military fort.", "Micron Technology is headquartered in Boise.", "The Boise River Greenbelt spans 37 km.", "Treefort Music Fest draws over 30,000 attendees."],
+    },
+  },
   {
     id: "richmond-va-cities-v2",
     type: "state-capital",
     parent: "US-VA",
     coords: [-77.4360, 37.5407],
-    name: { de: "Richmond (Virginia)", hu: "Richmond (Virginia)", ro: "Richmond (Virginia)", en: "Richmond, VA",
-image: "/poi-images/richmond-va-cities-v2.webp"
-},
+    name: { de: "Richmond (Virginia)", hu: "Richmond (Virginia)", ro: "Richmond (Virginia)", en: "Richmond, VA"},
+    image: "/poi-images/richmond-va-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Virginia, eine Stadt mit einer zentralen Rolle in der Geschichte des Bürgerkriegs.",
       hu: "Virginia fővárosa, a polgárháború történetében központi szerepet játszó város.",
@@ -1935,15 +2168,27 @@ image: "/poi-images/richmond-va-cities-v2.webp"
       hu: ["Az Amerikai Konföderációs Államok egykori fővárosa", "Virginiai Szépművészeti Múzeum", "Monument Avenue", "Edgar Allan Poe Múzeum"],
       ro: ["Fosta capitală a Statelor Confederate ale Americii", "Muzeul de Arte Frumoase din Virginia", "Avenida Monumentelor", "Muzeul Edgar Allan Poe"],
       en: ["Former capital of the Confederate States of America", "Virginia Museum of Fine Arts", "Monument Avenue", "The Edgar Allan Poe Museum"]
-    }, image: "/poi-images/richmond-va-cities-v2.webp"},
+    }, image: "/poi-images/richmond-va-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Richmond, die Hauptstadt von Virginia, liegt am James River und hat eine reiche Geschichte, die von der Kolonialzeit bis zum Amerikanischen Bürgerkrieg reicht. Die Stadt wurde 1737 gegründet und war die Hauptstadt der Konföderierten Staaten. Heute ist Richmond ein wichtiges Wirtschaftszentrum mit Schwerpunkten in Finanzen, Recht und Regierung. Die Architektur ist vielfältig, mit georgianischen, viktorianischen und modernen Gebäuden. Bekannte Kultureinrichtungen sind das Virginia Museum of Fine Arts und die Richmond Symphony.",
+      hu: "Richmond építészete tükrözi a város történelmi rétegeit. A Capitol épülete (1788) Thomas Jefferson neoklasszicista tervei alapján készült. A történelmi Shockoe Bottom negyedben régi raktárépületek találhatók, amelyeket ma loftokká és éttermekké alakítottak át. A város híres a Monument Avenue sugárútról, ahol a polgárháborús szobrok állnak, bár ezeket részben eltávolították. A modern épületek, mint a James River Plaza, a belvárosban koncentrálódnak.",
+      ro: "Richmond are o moștenire culturală profundă, fiind un centru istoric afro-american. Orașul găzduiește Muzeul Black History Museum și Cultural Center of Virginia. Festivalul de Film de la Richmond și Festivalul de Muzică de la Richmond sunt evenimente importante. Comunitatea artistică este vie, cu galerii în cartierul Arts District. Richmond este cunoscut pentru scena culinară, în special pentru mâncarea sudică și băuturile artizanale. Râul James oferă oportunități pentru rafting și pescuit.",
+      en: "Richmond's economy is diverse, with strong sectors in finance, law, and government. The Federal Reserve Bank of Richmond and numerous Fortune 500 companies like Dominion Energy are headquartered here. The city's population is around 230,000, with a growing urban core. Richmond has invested heavily in riverfront development, including the James River Park System, which offers over 600 acres of green space. The cost of living is slightly below the national average. Richmond is also a major hub for higher education, with Virginia Commonwealth University enrolling over 30,000 students.",
+    },
+    factsAdvanced: {
+      de: ["Richmond hat 230.436 Einwohner (2023).", "Die Stadtfläche beträgt 162,1 km².", "Gegründet 1737 von William Byrd II.", "Das Virginia Museum of Fine Arts hat 100.000 Werke.", "Die James River Park System umfasst 243 Hektar.", "Die Virginia Commonwealth University hat 30.000 Studenten."],
+      hu: ["Richmond lakossága 230.436 fő (2023).", "A város területe 162,1 km².", "A Capitol épületét 1788-ban avatták fel.", "A Monument Avenue 1890-ben épült.", "A város 1737-ben kapott városi rangot.", "A Shockoe Bottom történelmi negyed a 19. századból származik."],
+      ro: ["Richmond are 230.436 locuitori (2023).", "Suprafața este de 162,1 km².", "Orașul a fost fondat în 1737.", "Black History Museum a fost deschis în 2016.", "Dominion Energy are sediul central în Richmond.", "Râul James are o cădere de 100 de picioare în oraș."],
+      en: ["Richmond's population is 230,436 (2023).", "The city covers 162.1 square kilometers.", "Founded in 1737 by William Byrd II.", "Virginia Museum of Fine Arts has over 100,000 works.", "James River Park System covers 600 acres.", "Virginia Commonwealth University has 30,000 students."],
+    },
+  },
   {
     id: "des-moines-cities-v2",
     type: "state-capital",
     parent: "US-IA",
     coords: [-93.6212, 41.5908],
-    name: { de: "Des Moines", hu: "Des Moines", ro: "Des Moines", en: "Des Moines",
-image: "/poi-images/des-moines-cities-v2.webp"
-},
+    name: { de: "Des Moines", hu: "Des Moines", ro: "Des Moines", en: "Des Moines"},
+    image: "/poi-images/des-moines-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Iowa, ein wichtiges Zentrum für die Versicherungsbranche und die Landwirtschaft.",
       hu: "Iowa fővárosa, a biztosítási ipar és a mezőgazdaság fontos központja.",
@@ -1955,15 +2200,27 @@ image: "/poi-images/des-moines-cities-v2.webp"
       hu: ["Iowa Állami Vásár, az ország egyik legnagyobb vására", "Iowai Állami Capitolium aranykupolájával", "Des Moines Művészeti Központ", "Fontos az elnöki előválasztások szempontjából"],
       ro: ["Târgul de Stat din Iowa, unul dintre cele mai mari din țară", "Capitoliul Statului Iowa cu domul său auriu", "Centrul de Artă Des Moines", "Important pentru alegerile primare prezidențiale"],
       en: ["Iowa State Fair, one of the largest state fairs in the country", "Iowa State Capitol with its golden dome", "Des Moines Art Center", "Important for presidential caucuses"]
-    }, image: "/poi-images/des-moines-cities-v2.webp"},
+    }, image: "/poi-images/des-moines-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Des Moines ist die Hauptstadt von Iowa und liegt am Zusammenfluss der Flüsse Des Moines und Raccoon. Die Stadt wurde 1843 als Fort gegründet und entwickelte sich zu einem Zentrum der Versicherungswirtschaft und Landwirtschaft. Heute ist Des Moines ein wichtiger Wirtschaftsstandort mit Firmen wie Principal Financial und Wells Fargo. Die Stadt hat eine lebendige Kunstszene mit dem Des Moines Art Center und dem Civic Center. Das jährliche Iowa State Fair ist eine große Attraktion. Die Bevölkerungszahl beträgt etwa 215.000.",
+      hu: "Des Moines építészeti arculatát a széles utak és a modern irodaházak jellemzik, de a belvárosban szecessziós és art deco épületek is találhatók. A város híres a 'Skywalk' rendszerről, egy 6 km hosszú, zárt gyalogoshídról, amely összeköti az épületeket. A Capitol épülete (Iowa State Capitol) aranykupolájával kiemelkedik. A lakóövezetekben historizáló házak és ranch stílusú épületek egyaránt előfordulnak. A város számos parkkal rendelkezik, például a Gray's Lake Parkkal.",
+      ro: "Des Moines are o scenă culturală diversă, cu festivaluri și muzee. Muzeul de Artă din Des Moines deține lucrări de artă modernă și contemporană. Festivalul de Film de la Des Moines și Festivalul de Jazz sunt evenimente anuale importante. Orașul găzduiește, de asemenea, Grădina Botanică Greater Des Moines. Comunitatea este prietenoasă, cu o mulțime de evenimente comunitare. Mâncarea locală include produse agricole din Iowa, cum ar fi porumbul și carnea de vită.",
+      en: "Des Moines' economy is anchored by insurance and financial services. The city is the third-largest insurance hub in the U.S., with over 6,000 insurance-related companies. Principal Financial Group employs over 14,000 people locally. Des Moines has a low unemployment rate (around 3%) and a relatively low cost of living. The city's population has grown steadily, reaching 215,000. Des Moines International Airport serves over 2 million passengers annually. The agricultural sector remains strong, with the World Food Prize headquartered here.",
+    },
+    factsAdvanced: {
+      de: ["Des Moines hat 215.409 Einwohner (2023).", "Die Stadtfläche beträgt 243,3 km².", "Gegründet 1843 als Fort Des Moines.", "Principal Financial Group beschäftigt 14.000 Mitarbeiter.", "Der Skywalk ist 6 km lang.", "Das Iowa State Capitol hat eine goldene Kuppel."],
+      hu: ["Des Moines lakossága 215.409 fő (2023).", "A város területe 243,3 km².", "A Skywalk rendszert 1978-ban nyitották meg.", "A város 1843-ban alakult.", "A Des Moines Art Center 1948-ban nyílt meg.", "A Gray's Lake Park területe 0,5 km²."],
+      ro: ["Des Moines are 215.409 locuitori (2023).", "Suprafața este de 243,3 km².", "Orașul a fost fondat în 1843.", "Principal Financial Group are sediul global în Des Moines.", "Iowa State Fair atrage un milion de vizitatori anual.", "Costul vieții este cu 8% sub media națională."],
+      en: ["Des Moines' population is 215,409 (2023).", "The city covers 243.3 square kilometers.", "Founded in 1843 as Fort Des Moines.", "Principal Financial Group employs 14,000 locals.", "Des Moines has over 60 parks.", "Iowa State Fair draws 1 million visitors annually."],
+    },
+  },
   {
     id: "baton-rouge-cities-v2",
     type: "state-capital",
     parent: "US-LA",
     coords: [-91.1871, 30.4515],
-    name: { de: "Baton Rouge", hu: "Baton Rouge", ro: "Baton Rouge", en: "Baton Rouge",
-image: "/poi-images/baton-rouge-cities-v2.webp"
-},
+    name: { de: "Baton Rouge", hu: "Baton Rouge", ro: "Baton Rouge", en: "Baton Rouge"},
+    image: "/poi-images/baton-rouge-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Louisiana am Mississippi, bekannt für ihre Industrie und ihre Universität.",
       hu: "Louisiana fővárosa a Mississippi folyó partján, iparáról és egyeteméről ismert.",
@@ -1975,15 +2232,27 @@ image: "/poi-images/baton-rouge-cities-v2.webp"
       hu: ["Louisianai Állami Egyetem (LSU)", "Az USA legmagasabb capitolium-épülete", "USS Kidd, egy rombolómúzeum", "Fontos petrolkémiai ipari helyszín"],
       ro: ["Universitatea de Stat din Louisiana (LSU)", "Cea mai înaltă clădire de capitoliu din SUA", "USS Kidd, un muzeu distrugător", "Locație importantă pentru industria petrochimică"],
       en: ["Louisiana State University (LSU)", "Tallest state capitol building in the U.S.", "USS Kidd, a destroyer museum", "Major site for the petrochemical industry"]
-    }, image: "/poi-images/baton-rouge-cities-v2.webp"},
+    }, image: "/poi-images/baton-rouge-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Baton Rouge ist die Hauptstadt von Louisiana und liegt am Mississippi River. Die Stadt wurde 1699 von französischen Entdeckern benannt und entwickelte sich zu einem Zentrum der Erdöl- und Chemieindustrie. Baton Rouge beherbergt die Louisiana State University (LSU) mit über 30.000 Studenten. Die Architektur reicht von französischen Kolonialhäusern bis zu modernen Wolkenkratzern wie dem Louisiana State Capitol, dem höchsten Kapitol der USA. Die Stadt hat eine lebendige Musikszene mit Cajun- und Zydeco-Einflüssen.",
+      hu: "Baton Rouge építészeti jellegzetességei közé tartozik a neoklasszicista Louisiana State Capitol (137 m magas) és a régi spanyol stílusú épületek a belvárosban. A város híres a „Spanish Town” negyedről, amely Louisiana legrégebbi, spanyol alapítású lakónegyede. A Mississippi folyó partján számos történelmi épület található, valamint a modern USS Kidd veterán múzeumhajó. A városrendezés az elmúlt évtizedben a belváros fejlesztésére összpontosított, új lakó- és kereskedelmi projektekkel.",
+      ro: "Baton Rouge are o moștenire culturală bogată, cu influențe franceze, spaniole și africane. Orașul găzduiește Festivalul de Muzică Bayou și Festivalul de Jazz și Patrimoniu de la Baton Rouge. Muzeul de Artă al Universității de Stat din Louisiana prezintă artă contemporană. Comunitatea este diversă, cu o populație afro-americană semnificativă. Mâncarea locală este cunoscută pentru gumbo, jambalaya și fructe de mare. De asemenea, orașul are o scenă de bere artizanală în creștere.",
+      en: "Baton Rouge's economy is dominated by petrochemical manufacturing and government. The Louisiana State Capitol and various state agencies employ thousands. Major plants operated by ExxonMobil, BASF, and Dow Chemical line the Mississippi River. The Port of Baton Rouge is a major deep-water port, handling over 50 million tons of cargo annually. The city's population is around 226,000, with a metropolitan area of over 800,000. LSU and healthcare are significant employers. The cost of living is below the national average.",
+    },
+    factsAdvanced: {
+      de: ["Baton Rouge hat 226.589 Einwohner (2023).", "Die Stadtfläche beträgt 228,4 km².", "Gegründet 1699 von französischen Entdeckern.", "Das Louisiana State Capitol ist 137 m hoch.", "Die Louisiana State University hat 30.000 Studenten.", "Der Hafen Baton Rouge bewegt 50 Mio. Tonnen Fracht pro Jahr."],
+      hu: ["Baton Rouge lakossága 226.589 fő (2023).", "A város területe 228,4 km².", "A Louisiana State Capitol 1932-ben épült.", "A Spanish Town negyed 1805-ben alakult.", "A város 1699-ben kapta a nevét.", "Az USS Kidd 1945-ben állt szolgálatba."],
+      ro: ["Baton Rouge are 226.589 locuitori (2023).", "Suprafața este de 228,4 km².", "Orașul a fost fondat oficial în 1817.", "ExxonMobil are o rafinărie de 5.000 de acri în Baton Rouge.", "Portul Baton Rouge manipulează 50 de milioane de tone anual.", "LSU are peste 30.000 de studenți."],
+      en: ["Baton Rouge's population is 226,589 (2023).", "The city covers 228.4 square kilometers.", "Founded in 1699 as a French settlement.", "Louisiana State Capitol is 137 meters tall.", "Port of Baton Rouge handles 50 million tons annually.", "LSU has over 30,000 students."],
+    },
+  },
   {
     id: "spokane-cities-v2",
     type: "city",
     parent: "US-WA",
     coords: [-117.4260, 47.6588],
-    name: { de: "Spokane", hu: "Spokane", ro: "Spokane", en: "Spokane",
-image: "/poi-images/spokane-cities-v2.webp"
-},
+    name: { de: "Spokane", hu: "Spokane", ro: "Spokane", en: "Spokane"},
+    image: "/poi-images/spokane-cities-v2.webp",
     description: {
       de: "Eine Stadt im Osten Washingtons, bekannt für ihre Wasserfälle im Stadtzentrum und ihre Outdoor-Aktivitäten.",
       hu: "Város Kelet-Washingtonban, a belvárosi vízeséseiről és szabadtéri tevékenységeiről ismert.",
@@ -1995,15 +2264,27 @@ image: "/poi-images/spokane-cities-v2.webp"
       hu: ["Riverfront Park, az 1974-es világkiállítás helyszíne", "Spokane-vízesés", "Centennial Trail kerékpározáshoz és túrázáshoz", "Sok tó és hegy közelében"],
       ro: ["Parcul Riverfront, locul Expoziției Mondiale din 1974", "Cascadele Spokane", "Traseul Centenar pentru ciclism și drumeții", "Aproape de multe lacuri și munți"],
       en: ["Riverfront Park, site of the 1974 World's Fair", "Spokane Falls", "Centennial Trail for biking and hiking", "Near many lakes and mountains"]
-    }, image: "/poi-images/spokane-cities-v2.webp"},
+    }, image: "/poi-images/spokane-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Spokane liegt im Osten des Bundesstaates Washington, nahe der Grenze zu Idaho. Die Stadt wurde 1871 als Eisenbahnknotenpunkt gegründet und entwickelte sich zu einem Zentrum der Holz- und Bergbauindustrie. Heute ist Spokane ein wichtiges Gesundheits- und Dienstleistungszentrum. Bekannt ist die Stadt für die Expo '74, die den Riverfront Park hervorbrachte. Die Architektur umfasst viktorianische Häuser und moderne Gebäude. Spokane bietet eine hohe Lebensqualität mit vielen Outdoor-Aktivitäten in den umliegenden Bergen und Flüssen.",
+      hu: "Spokane építészeti stílusa a vadnyugati múltból és a 20. századi fejlődésből táplálkozik. A belvárosban art deco épületek, mint a Spokane County Courthouse, és modern irodaházak állnak. A város híres a „Spokane Falls”-ról, a városon átfolyó vízesésekről. A Riverfront Park területén a látogatóközpont és a záróhíd (Pavilion) található. A lakóövezetekben a bungalók és a kézműves stílusú házak dominálnak. A város sokat költött a belváros felújítására, új lakó- és kereskedelmi egységekkel.",
+      ro: "Spokane are o scenă culturală activă, cu teatre și muzee. Muzeul de Artă din Spokane prezintă artă contemporană și istorică. Festivalul de Film de la Spokane și Festivalul de Muzică Pig Out atrag vizitatori. Orașul găzduiește, de asemenea, Grădina Botanică Manito. Comunitatea este diversă, cu un procent semnificativ de nativi americani. Mâncarea locală include produse proaspete din agricultura regiunii. Spokane este cunoscut pentru berea artizanală și cafenelele independente.",
+      en: "Spokane's economy is driven by healthcare, manufacturing, and logistics. The city is a major medical hub for the inland Northwest, with Providence Health Care and MultiCare employing thousands. Spokane's population is around 230,000, with a metropolitan area of over 500,000. The cost of living is low compared to other West Coast cities. The Spokane International Airport serves over 2 million passengers annually. The city has become a center for clean technology and aerospace manufacturing, with companies like Triumph Composite Systems.",
+    },
+    factsAdvanced: {
+      de: ["Spokane hat 229.207 Einwohner (2023).", "Die Stadtfläche beträgt 180 km².", "Gegründet 1871 als Eisenbahnstadt.", "Der Riverfront Park entstand für die Expo '74.", "Die Spokane Falls haben eine Fallhöhe von 12 m.", "Der Spokane International Airport bedient 2 Mio. Passagiere."],
+      hu: ["Spokane lakossága 229.207 fő (2023).", "A város területe 180 km².", "A Spokane County Courthouse 1895-ben épült.", "A város 1871-ben alakult.", "A Riverfront Park 1974-ben nyílt meg.", "A Manito Park területe 0,6 km²."],
+      ro: ["Spokane are 229.207 locuitori (2023).", "Suprafața este de 180 km².", "Orașul a fost fondat în 1871.", "Expo '74 a atras 5 milioane de vizitatori.", "Providence Health Care este cel mai mare angajator.", "Rata șomajului este de 4,5%."],
+      en: ["Spokane's population is 229,207 (2023).", "The city covers 180 square kilometers.", "Founded in 1871 as a railroad hub.", "The Riverfront Park was created for Expo '74.", "Spokane Falls drop 12 meters over the city.", "Spokane International Airport serves 2 million passengers annually."],
+    },
+  },
   {
     id: "birmingham-al-cities-v2",
     type: "city",
     parent: "US-AL",
     coords: [-86.8025, 33.5207],
-    name: { de: "Birmingham (Alabama)", hu: "Birmingham (Alabama)", ro: "Birmingham (Alabama)", en: "Birmingham, AL",
-image: "/poi-images/birmingham-al-cities-v2.webp"
-},
+    name: { de: "Birmingham (Alabama)", hu: "Birmingham (Alabama)", ro: "Birmingham (Alabama)", en: "Birmingham, AL"},
+    image: "/poi-images/birmingham-al-cities-v2.webp",
     description: {
       de: "Die größte Stadt in Alabama, eine wichtige Stadt der Bürgerrechtsbewegung.",
       hu: "Alabama legnagyobb városa, a polgárjogi mozgalom fontos városa.",
@@ -2015,15 +2296,27 @@ image: "/poi-images/birmingham-al-cities-v2.webp"
       hu: ["Birminghami Polgárjogi Intézet", "16. utcai baptista templom", "Sloss Furnaces, nemzeti történelmi emlékhely", "Egykor az acélipar központja"],
       ro: ["Institutul pentru Drepturile Civile din Birmingham", "Biserica Baptistă de pe Strada 16", "Furnalurile Sloss, un reper istoric național", "Fost centru al industriei siderurgice"],
       en: ["Birmingham Civil Rights Institute", "16th Street Baptist Church", "Sloss Furnaces, a National Historic Landmark", "Formerly a major steel industry center"]
-    }, image: "/poi-images/birmingham-al-cities-v2.webp"},
+    }, image: "/poi-images/birmingham-al-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Birmingham, Alabama, ist die größte Stadt des Bundesstaates und wurde 1871 als Industriestadt für die Eisen- und Stahlproduktion gegründet. Die Stadt spielte eine zentrale Rolle in der Bürgerrechtsbewegung der 1960er Jahre. Heute hat sich Birmingham zu einem Zentrum für Medizin, Finanzen und Technologie entwickelt. Die University of Alabama at Birmingham (UAB) ist einer der größten Arbeitgeber. Kulturell bietet die Stadt das Birmingham Museum of Art und das Alabama Theatre. Die Architektur umfasst Gebäude im Stil der Neorenaissance und Moderne.",
+      hu: "Birmingham építészeti öröksége az ipari fellendülés idejéből származik. A belvárosban található a neoklasszicista Jefferson County Courthouse és a modern Regions Center (34 emelet). A város híres az „Arlington Antebellum Home & Gardens” történelmi házról, a polgárháború előtti stílusban. A Five Points South negyedben viktoriánus házak és élőzenei helyszínek sorakoznak. A városrendezés a belváros revitalizációjára irányult, új lakó- és szórakozóhelyek kialakításával.",
+      ro: "Birmingham are o moștenire culturală bogată, în special în ceea ce privește drepturile civile. Orașul găzduiește Birmingham Civil Rights Institute și Parcul Memorial Kelly Ingram, unde au avut loc proteste istorice. Festivalul de Film Sidewalk și festivalul de muzică City Stages sunt evenimente anuale. Scena artistică este vibrantă, cu galerii în cartierul Historic Fourth Avenue. Comunitatea afro-americană joacă un rol important în cultura locală. Mâncarea sudică, cum ar fi barbecue și biscuiți, este emblematică.",
+      en: "Birmingham's economy is led by healthcare, banking, and research. UAB is one of the largest employers in Alabama, with over 23,000 employees and a $5 billion annual budget. The city's population is around 200,000, but the metro area exceeds 1.1 million. Birmingham has transitioned from a manufacturing base to a service economy. The cost of living is low, and the city has invested in transit and downtown housing. The Birmingham-Shuttlesworth International Airport serves over 3 million passengers annually.",
+    },
+    factsAdvanced: {
+      de: ["Birmingham hat 200.733 Einwohner (2023).", "Die Stadtfläche beträgt 378 km².", "Gegründet 1871 als Industriestadt.", "Die UAB beschäftigt 23.000 Mitarbeiter.", "Das Regions Center ist 147 m hoch.", "Das Birmingham Civil Rights Institute wurde 1992 eröffnet."],
+      hu: ["Birmingham lakossága 200.733 fő (2023).", "A város területe 378 km².", "A Jefferson County Courthouse 1931-ben épült.", "A város 1871-ben alakult.", "Az Arlington Antebellum Home 1845-ben épült.", "A Five Points South negyed az 1920-as években épült."],
+      ro: ["Birmingham are 200.733 locuitori (2023).", "Suprafața este de 378 km².", "Orașul a fost fondat în 1871.", "Birmingham Civil Rights Institute a fost deschis în 1992.", "UAB are un buget anual de 5 miliarde de dolari.", "Aeroportul deservește 3 milioane de pasageri anual."],
+      en: ["Birmingham's population is 200,733 (2023).", "The city covers 378 square kilometers.", "Founded in 1871 as a steel town.", "UAB has 23,000 employees.", "The Regions Center is 147 meters tall.", "Birmingham Civil Rights Institute opened in 1992."],
+    },
+  },
   {
     id: "rochester-ny-cities-v2",
     type: "city",
     parent: "US-NY",
     coords: [-77.6109, 43.1566],
-    name: { de: "Rochester (New York)", hu: "Rochester (New York)", ro: "Rochester (New York)", en: "Rochester, NY",
-image: "/poi-images/rochester-ny-cities-v2.webp"
-},
+    name: { de: "Rochester (New York)", hu: "Rochester (New York)", ro: "Rochester (New York)", en: "Rochester, NY"},
+    image: "/poi-images/rochester-ny-cities-v2.webp",
     description: {
       de: "Eine Stadt im Westen von New York, bekannt als Geburtsort von Unternehmen wie Kodak und Xerox.",
       hu: "Város Nyugat-New Yorkban, olyan vállalatok szülőhelyeként ismert, mint a Kodak és a Xerox.",
@@ -2035,15 +2328,27 @@ image: "/poi-images/rochester-ny-cities-v2.webp"
       hu: ["George Eastman Múzeum, egy fotográfiai múzeum", "The Strong Nemzeti Játékmúzeum", "Susan B. Anthony Múzeum és Ház", "Az optika és a képalkotás központja"],
       ro: ["Muzeul George Eastman, un muzeu de fotografie", "Muzeul Național al Jocului The Strong", "Muzeul și Casa Susan B. Anthony", "Centru pentru optică și imagistică"],
       en: ["George Eastman Museum, a photography museum", "The Strong National Museum of Play", "Susan B. Anthony Museum & House", "Hub for optics and imaging"]
-    }, image: "/poi-images/rochester-ny-cities-v2.webp"},
+    }, image: "/poi-images/rochester-ny-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rochester, New York, liegt am Ontariosee und ist bekannt für seine Geschichte als Zentrum der Fotografie und Optik. Die Stadt wurde 1803 gegründet und war die Heimat von Kodak, Bausch & Lomb und Xerox. Heute durchläuft Rochester einen wirtschaftlichen Wandel hin zu Gesundheitswesen, Bildung und Technologie. Die University of Rochester, mit der Eastman School of Music, ist eine führende Institution. Kulturell bietet das George Eastman Museum und das Strong National Museum of Play. Der Eriekanal durchzieht die Stadt.",
+      hu: "Rochester építészeti stílusa a 19. századi ipari múltra és a 20. századi modernizmusra épül. A belvárosban található a Kodak Tower (19 emelet) és a neogótikus Third Presbyterian Church. A város híres a High Falls vízesésről a Genesee folyón. A művészeti negyedben, a Neighborhood of the Arts-ban, galériák és stúdiók sorakoznak. A város számos parkkal rendelkezik, köztük a Highland Parkkal, amely híres az orgonavirágokról.",
+      ro: "Rochester are o moștenire culturală legată de industria fotografică. Orașul găzduiește Festivalul Internațional de Film de la Rochester și Festivalul de Jazz Xerox. Muzeul Strong este dedicat jocurilor și jucăriilor. Comunitatea este diversă, cu o populație semnificativă de descendenți italieni și irlandezi. Scena culinară include specialități locale, cum ar fi pizza „white hot” și „garbage plate”. De asemenea, orașul are o puternică tradiție în muzica clasică, datorită Eastman School of Music.",
+      en: "Rochester's economy is reshaped by healthcare and research. The University of Rochester and Rochester Regional Health are major employers, with over 30,000 combined workers. The city's population is around 210,000, declining from its peak but stabilizing. Rochester has a strong focus on optics and photonics, with the Institute of Optics and companies like Harris Corporation. The cost of living is low, and the area benefits from the Great Lakes shipping route. The Rochester Institute of Technology (RIT) is a major technology school nearby.",
+    },
+    factsAdvanced: {
+      de: ["Rochester hat 210.020 Einwohner (2023).", "Die Stadtfläche beträgt 149,5 km².", "Gegründet 1803 als Mühlenstadt.", "Die University of Rochester hat 12.000 Studenten.", "Der Kodak Tower ist 19 Stockwerke hoch.", "Der Eriekanal wurde 1825 eröffnet."],
+      hu: ["Rochester lakossága 210.020 fő (2023).", "A város területe 149,5 km².", "A Kodak Tower 1914-ben épült.", "A város 1803-ban alakult.", "A High Falls vízesés 30 méter magas.", "A Highland Park 1890-ben nyílt meg."],
+      ro: ["Rochester are 210.020 locuitori (2023).", "Suprafața este de 149,5 km².", "Orașul a fost fondat în 1803.", "Eastman Museum a fost deschis în 1949.", "Festivalul de Jazz Xerox atrage 50.000 de vizitatori anual.", "RIT are peste 19.000 de studenți."],
+      en: ["Rochester's population is 210,020 (2023).", "The city covers 149.5 square kilometers.", "Founded in 1803 as a mill town.", "University of Rochester has 12,000 students.", "The Strong National Museum of Play has 6,000 toys.", "Rochester averages 200 cm of snowfall annually."],
+    },
+  },
   {
     id: "aurora-co-cities-v2",
     type: "city",
     parent: "US-CO",
     coords: [-104.8319, 39.7294],
-    name: { de: "Aurora (Colorado)", hu: "Aurora (Colorado)", ro: "Aurora (Colorado)", en: "Aurora, CO",
-image: "/poi-images/aurora-co-cities-v2.webp"
-},
+    name: { de: "Aurora (Colorado)", hu: "Aurora (Colorado)", ro: "Aurora (Colorado)", en: "Aurora, CO"},
+    image: "/poi-images/aurora-co-cities-v2.webp",
     description: {
       de: "Eine große Stadt östlich von Denver, bekannt für ihre militärische Präsenz und ihre Vielfalt.",
       hu: "Nagy város Denvertől keletre, katonai jelenlétéről és sokszínűségéről ismert.",
@@ -2055,15 +2360,27 @@ image: "/poi-images/aurora-co-cities-v2.webp"
       hu: ["Buckley légi bázis", "Anschutz Orvosi Kampusz", "Változatos nemzetközi éttermek", "Aurora-víztározó vízisportokhoz"],
       ro: ["Baza Aeriană Buckley", "Campusul Medical Anschutz", "Restaurante internaționale diverse", "Rezervorul Aurora pentru sporturi nautice"],
       en: ["Buckley Air Force Base", "Anschutz Medical Campus", "Diverse international restaurants", "Aurora Reservoir for water sports"]
-    }, image: "/poi-images/aurora-co-cities-v2.webp"},
+    }, image: "/poi-images/aurora-co-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Aurora ist die drittgrößte Stadt in Colorado, USA, und liegt östlich von Denver. Mit über 400.000 Einwohnern ist sie ein bedeutendes Zentrum für Gesundheitswesen und Luftfahrt. Der Anschutz Medical Campus beherbergt ein führendes Krankenhaus und Forschungseinrichtungen. Die Stadt wurde 1891 gegründet und hat sich von einer kleinen Siedlung zu einer vielseitigen Metropole entwickelt. Aurora ist auch Standort der Buckley Space Force Base, die eine wichtige Rolle in der nationalen Sicherheit spielt.",
+      hu: "Aurora Colorado harmadik legnagyobb városa, Denver keleti szomszédságában. Lakossága meghaladja a 400 000 főt, és az egészségügyi ellátás egyik központja a régióban. Az Anschutz Medical Campus világszínvonalú kórházakat és kutatólaboratóriumokat foglal magában. A város 1891-ben alakult, majd a 20. században gyorsan növekedett a hadiipar és a szolgáltatások fejlődésének köszönhetően. A Buckley Űrerőbázis a légierő fontos telephelye.",
+      ro: "Aurora este al treilea oraș ca mărime din Colorado, situat la est de Denver. Cu peste 400.000 de locuitori, este un centru major pentru asistență medicală și cercetare. Campusul medical Anschutz găzduiește spitale de top și institute de cercetare. Orașul a fost fondat în 1891 și s-a dezvoltat rapid datorită industriilor aerospațială și militară. Baza Forțelor Aeriene Buckley joacă un rol strategic în apărarea națională.",
+      en: "Aurora is the third-largest city in Colorado, located east of Denver. It has a population of over 400,000 and is a major hub for healthcare and aerospace. The Anschutz Medical Campus includes leading hospitals and research centers. Founded in 1891, Aurora grew rapidly in the 20th century. It hosts Buckley Space Force Base, a key installation for space operations.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 386.261 (2020)", "Fläche: 402,6 km²", "Gründung: 1891", "Höhe: 1.655 m", "Buckley Space Force Base: 1942 errichtet", "Anschutz Medical Campus: 2006 eröffnet"],
+      hu: ["Népesség: 386.261 (2020)", "Terület: 402,6 km²", "Alapítás: 1891", "Tengerszint feletti magasság: 1.655 m", "Buckley Űrerőbázis: 1942-ben létesült", "Anschutz Medical Campus: 2006-ban nyílt meg"],
+      ro: ["Populație: 386.261 (2020)", "Suprafață: 402,6 km²", "Fondare: 1891", "Altitudine: 1.655 m", "Baza Aeriană Buckley: înființată în 1942", "Campusul Medical Anschutz: deschis în 2006"],
+      en: ["Population: 386,261 (2020)", "Area: 154.6 sq mi (402.6 km²)", "Founded: 1891", "Elevation: 5,446 ft (1,660 m)", "Buckley Space Force Base: established 1942", "Anschutz Medical Campus: opened 2006"],
+    },
+  },
   {
     id: "little-rock-cities-v2",
     type: "state-capital",
     parent: "US-AR",
     coords: [-92.2896, 34.7465],
-    name: { de: "Little Rock", hu: "Little Rock", ro: "Little Rock", en: "Little Rock",
-image: "/poi-images/little-rock-cities-v2.webp"
-},
+    name: { de: "Little Rock", hu: "Little Rock", ro: "Little Rock", en: "Little Rock"},
+    image: "/poi-images/little-rock-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Arkansas, ein wichtiger Ort in der Geschichte der Aufhebung der Rassentrennung.",
       hu: "Arkansas fővárosa, a deszegregáció történetének fontos helyszíne.",
@@ -2075,15 +2392,27 @@ image: "/poi-images/little-rock-cities-v2.webp"
       hu: ["Little Rock Central High School Nemzeti Történelmi Helyszín", "William J. Clinton Elnöki Könyvtár és Múzeum", "River Market negyed", "Big Dam híd"],
       ro: ["Liceul Central Little Rock, sit istoric național", "Biblioteca și Muzeul Prezidențial William J. Clinton", "Districtul River Market", "Podul Big Dam"],
       en: ["Little Rock Central High School National Historic Site", "William J. Clinton Presidential Library and Museum", "River Market District", "Big Dam Bridge"]
-    }, image: "/poi-images/little-rock-cities-v2.webp"},
+    }, image: "/poi-images/little-rock-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Little Rock ist die Hauptstadt des US-Bundesstaates Arkansas und liegt am Arkansas River. Die Stadt spielte eine zentrale Rolle in der Bürgerrechtsbewegung, insbesondere durch die Little Rock Central High School, wo 1957 neun afroamerikanische Schüler die Rassentrennung herausforderten. Little Rock hat rund 200.000 Einwohner und ist ein Wirtschaftszentrum mit Schwerpunkt auf Regierungsdienstleistungen, Gesundheitswesen und Fertigung. Der Fluss und die Hügellandschaft prägen das Stadtbild.",
+      hu: "Little Rock Arkansas állam fővárosa, az Arkansas folyó partján fekszik. Híres a polgárjogi mozgalomban betöltött szerepéről: 1957-ben a Little Rock Central High School kilenc fekete diákja szembeszállt a faji szegregációval. A város lakossága körülbelül 200 000 fő, gazdaságát a kormányzati szolgáltatások, az egészségügy és a gyártás jellemzi. A folyóparti fekvés és a dombos táj meghatározza a városképet.",
+      ro: "Little Rock este capitala statului Arkansas, situată pe malul râului Arkansas. Orașul a fost un loc central al mișcării pentru drepturile civile, în special prin Little Rock Central High School, unde în 1957 nouă elevi afro-americani au contestat segregarea rasială. Populația este de aproximativ 200.000 de locuitori, iar economia se bazează pe servicii guvernamentale, sănătate și producție. Peisajul este marcat de râu și coline.",
+      en: "Little Rock is the capital of Arkansas, situated on the Arkansas River. It was a focal point of the Civil Rights Movement: in 1957, nine African American students integrated Little Rock Central High School. The city has about 200,000 residents and a diversified economy including government, healthcare, and manufacturing. The river and rolling hills define its geography.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 202.591 (2020)", "Fläche: 314 km²", "Gründung: 1821", "Höhe: 102 m", "Little Rock Central High School: 1927 erbaut", "Arkansas State Capitol: 1915 fertiggestellt"],
+      hu: ["Népesség: 202.591 (2020)", "Terület: 314 km²", "Alapítás: 1821", "Tengerszint feletti magasság: 102 m", "Little Rock Central High School: 1927-ben épült", "Arkansas State Capitol: 1915-ben készült el"],
+      ro: ["Populație: 202.591 (2020)", "Suprafață: 314 km²", "Fondare: 1821", "Altitudine: 102 m", "Liceul Central Little Rock: construit în 1927", "Capitoliul statului Arkansas: finalizat în 1915"],
+      en: ["Population: 202,591 (2020)", "Area: 121.2 sq mi (314 km²)", "Founded: 1821", "Elevation: 335 ft (102 m)", "Little Rock Central High School: built 1927", "Arkansas State Capitol: completed 1915"],
+    },
+  },
   {
     id: "columbia-sc-cities-v2",
     type: "state-capital",
     parent: "US-SC",
     coords: [-81.0348, 34.0007],
-    name: { de: "Columbia (South Carolina)", hu: "Columbia (Dél-Karolina)", ro: "Columbia (Carolina de Sud)", en: "Columbia, SC",
-image: "/poi-images/columbia-sc-cities-v2.webp"
-},
+    name: { de: "Columbia (South Carolina)", hu: "Columbia (Dél-Karolina)", ro: "Columbia (Carolina de Sud)", en: "Columbia, SC"},
+    image: "/poi-images/columbia-sc-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von South Carolina, bekannt für ihre heißen Sommer und ihre Universität.",
       hu: "Dél-Karolina fővárosa, forró nyarairól és egyeteméről ismert.",
@@ -2095,16 +2424,27 @@ image: "/poi-images/columbia-sc-cities-v2.webp"
       hu: ["Dél-Karolinai Egyetem", "Dél-Karolinai Állami Ház", "Riverbanks Állatkert és Kert", "Congaree Nemzeti Park a közelben"],
       ro: ["Universitatea din Carolina de Sud", "Casa de Stat din Carolina de Sud", "Grădina Zoologică și Grădina Riverbanks", "Parcul Național Congaree în apropiere"],
       en: ["University of South Carolina", "South Carolina State House", "Riverbanks Zoo and Garden", "Congaree National Park nearby"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Columbia ist die Hauptstadt von South Carolina und der Verwaltungssitz des Richland County. Die Stadt liegt am Zusammenfluss der Flüsse Saluda und Broad, die den Congaree River bilden. Columbia beherbergt die University of South Carolina, die mit rund 35.000 Studenten eine der größten Hochschulen des Landes ist. Die Wirtschaft basiert auf Bildung, Gesundheitswesen und Technologie. Die Stadt hat etwa 135.000 Einwohner und ist bekannt für ihre grünen Boulevards und historischen Viertel.",
+      hu: "Columbia Dél-Karolina állam fővárosa és Richland megye székhelye. A város a Saluda és a Broad folyók összefolyásánál fekszik, amelyek a Congaree folyót alkotják. Itt található a Dél-Karolinai Egyetem, amely mintegy 35 000 hallgatójával az ország egyik legnagyobb felsőoktatási intézménye. A gazdaságot az oktatás, az egészségügy és a technológia dominálja. Lakossága kb. 135 000 fő, híres fasorairól és történelmi negyedeiről.",
+      ro: "Columbia este capitala statului Carolina de Sud și sediul comitatului Richland. Orașul este situat la confluența râurilor Saluda și Broad, care formează râul Congaree. Găzduiește Universitatea din Carolina de Sud, cu aproximativ 35.000 de studenți, una dintre cele mai mari universități din țară. Economia se bazează pe educație, sănătate și tehnologie. Populația este de aproximativ 135.000 de locuitori, iar orașul este cunoscut pentru bulevardele sale verzi și cartierele istorice.",
+      en: "Columbia is the capital of South Carolina and the seat of Richland County. It lies at the confluence of the Saluda and Broad rivers, forming the Congaree. The University of South Carolina, with about 35,000 students, is a major institution. The economy is driven by education, healthcare, and technology. Columbia has around 135,000 residents and is known for its tree-lined streets and historic districts.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 136.632 (2020)", "Fläche: 347 km²", "Gründung: 1786", "Höhe: 89 m", "University of South Carolina: 1801 gegründet", "Capitol-Gebäude: 1855 fertiggestellt"],
+      hu: ["Népesség: 136.632 (2020)", "Terület: 347 km²", "Alapítás: 1786", "Tengerszint feletti magasság: 89 m", "Dél-Karolinai Egyetem: 1801-ben alapították", "Állami Capitolium: 1855-ben készült el"],
+      ro: ["Populație: 136.632 (2020)", "Suprafață: 347 km²", "Fondare: 1786", "Altitudine: 89 m", "Universitatea din Carolina de Sud: fondată în 1801", "Capitoliul statului: finalizat în 1855"],
+      en: ["Population: 136,632 (2020)", "Area: 134.0 sq mi (347 km²)", "Founded: 1786", "Elevation: 292 ft (89 m)", "University of South Carolina: founded 1801", "State Capitol building: completed 1855"],
+    },
   },
   {
     id: "jackson-ms-cities-v2",
     type: "state-capital",
     parent: "US-MS",
     coords: [-90.1848, 32.2988],
-    name: { de: "Jackson (Mississippi)", hu: "Jackson (Mississippi)", ro: "Jackson (Mississippi)", en: "Jackson, MS",
-image: "/poi-images/jackson-ms-cities-v2.webp"
-},
+    name: { de: "Jackson (Mississippi)", hu: "Jackson (Mississippi)", ro: "Jackson (Mississippi)", en: "Jackson, MS"},
+    image: "/poi-images/jackson-ms-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Mississippi, bekannt als 'Stadt mit Seele' für ihre Rolle in der Blues-, Gospel- und Jazzmusik.",
       hu: "Mississippi fővárosa, a 'lélekkel teli városként' ismert a blues, a gospel és a jazz zenében betöltött szerepe miatt.",
@@ -2116,15 +2456,27 @@ image: "/poi-images/jackson-ms-cities-v2.webp"
       hu: ["Mississippi Polgárjogi Múzeum", "Mississippi Szabadság Ösvény", "Sok híres zenész szülőhelye", "Mississippi Állami Capitolium"],
       ro: ["Muzeul Drepturilor Civile din Mississippi", "Traseul Libertății din Mississippi", "Locul de naștere al multor muzicieni celebri", "Capitoliul Statului Mississippi"],
       en: ["Mississippi Civil Rights Museum", "Mississippi Freedom Trail", "Birthplace of many famous musicians", "Mississippi State Capitol"]
-    }, image: "/poi-images/jackson-ms-cities-v2.webp"},
+    }, image: "/poi-images/jackson-ms-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jackson ist die Hauptstadt des US-Bundesstaates Mississippi und liegt am Pearl River. Die Stadt ist ein kulturelles Zentrum, bekannt für die Blues- und Gospelmusik. Jackson beherbergt das Mississippi State Capitol, den Gouverneurssitz und mehrere Hochschulen, darunter die Jackson State University. Die Wirtschaft ist von Regierungsdienstleistungen, Gesundheitswesen und Produktion geprägt. Jackson hatte 2020 rund 150.000 Einwohner, verzeichnete jedoch in den letzten Jahrzehnten einen Bevölkerungsrückgang.",
+      hu: "Jackson Mississippi állam fővárosa, a Pearl River partján fekszik. A város kulturális központ, híres blues- és gospelzenéjéről. Itt található a Mississippi State Capitol, a kormányzói rezidencia és több felsőoktatási intézmény, mint a Jackson State University. A gazdaságot a kormányzati szolgáltatások, az egészségügy és a gyártás jellemzi. Jackson lakossága 2020-ban kb. 150 000 fő volt, de az elmúlt évtizedekben csökkent.",
+      ro: "Jackson este capitala statului Mississippi, situată pe râul Pearl. Orașul este un centru cultural, renumit pentru muzica blues și gospel. Găzduiește Capitoliul statului Mississippi, reședința guvernatorului și mai multe universități, inclusiv Universitatea Jackson State. Economia se bazează pe servicii guvernamentale, sănătate și producție. Populația era de aproximativ 150.000 în 2020, dar a scăzut în ultimele decenii.",
+      en: "Jackson is the capital of Mississippi, located on the Pearl River. It is a cultural hub for blues and gospel music. The city houses the Mississippi State Capitol, the Governor's Mansion, and universities such as Jackson State University. Its economy is driven by government, healthcare, and manufacturing. Jackson had about 150,000 residents in 2020, though its population has declined in recent decades.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 153.701 (2020)", "Fläche: 293 km²", "Gründung: 1822", "Höhe: 85 m", "Mississippi State Capitol: 1903 fertiggestellt", "Jackson State University: 1877 gegründet"],
+      hu: ["Népesség: 153.701 (2020)", "Terület: 293 km²", "Alapítás: 1822", "Tengerszint feletti magasság: 85 m", "Mississippi State Capitol: 1903-ban készült el", "Jackson State University: 1877-ben alapították"],
+      ro: ["Populație: 153.701 (2020)", "Suprafață: 293 km²", "Fondare: 1822", "Altitudine: 85 m", "Capitoliul statului Mississippi: finalizat în 1903", "Universitatea Jackson State: fondată în 1877"],
+      en: ["Population: 153,701 (2020)", "Area: 113.1 sq mi (293 km²)", "Founded: 1822", "Elevation: 279 ft (85 m)", "Mississippi State Capitol: completed 1903", "Jackson State University: founded 1877"],
+    },
+  },
   {
     id: "providence-cities-v2",
     type: "state-capital",
     parent: "US-RI",
     coords: [-71.4128, 41.8240],
-    name: { de: "Providence", hu: "Providence", ro: "Providence", en: "Providence",
-image: "/poi-images/providence-cities-v2.webp"
-},
+    name: { de: "Providence", hu: "Providence", ro: "Providence", en: "Providence"},
+    image: "/poi-images/providence-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Rhode Island, eine der ältesten Städte der USA mit einer lebendigen Kunstszene.",
       hu: "Rhode Island fővárosa, az USA egyik legrégebbi városa, élénk művészeti élettel.",
@@ -2136,15 +2488,27 @@ image: "/poi-images/providence-cities-v2.webp"
       hu: ["Roger Williams alapította", "Brown Egyetem és Rhode Island School of Design (RISD)", "WaterFire, egy művészeti installáció a folyókon", "Történelmi Benefit Street"],
       ro: ["Fondat de Roger Williams", "Universitatea Brown și Școala de Design din Rhode Island (RISD)", "WaterFire, o instalație de artă pe râuri", "Strada istorică Benefit"],
       en: ["Founded by Roger Williams", "Brown University and Rhode Island School of Design (RISD)", "WaterFire, an art installation on the rivers", "Historic Benefit Street"]
-    }, image: "/poi-images/providence-cities-v2.webp"},
+    }, image: "/poi-images/providence-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Providence ist die Hauptstadt des US-Bundesstaates Rhode Island und liegt an der Narragansett Bay. Die Stadt wurde 1636 von Roger Williams gegründet, einem religiösen Dissidenten, der später die erste Baptistenkirche in Amerika errichtete. Providence ist ein wichtiges Bildungs- und Kulturzentrum mit der Ivy-League-Universität Brown und der Rhode Island School of Design. Die Wirtschaft umfasst Gesundheitswesen, Bildung und Finanzdienstleistungen. Der Hafen war historisch bedeutend für den Handel.",
+      hu: "Providence Rhode Island állam fővárosa, a Narragansett-öböl partján fekszik. A várost 1636-ban alapította Roger Williams, egy vallási disszidens, aki később az első baptista templomot építette Amerikában. Providence fontos oktatási és kulturális központ, itt található a Brown Egyetem (Ivy League) és a Rhode Island-i Design Iskola. Gazdasági ágazatai: egészségügy, oktatás és pénzügyi szolgáltatások. Kikötője történelmileg jelentős volt a kereskedelemben.",
+      ro: "Providence este capitala statului Rhode Island, situată pe golful Narragansett. Orașul a fost fondat în 1636 de Roger Williams, un disident religios care a construit prima biserică baptistă din America. Providence este un centru educațional și cultural important, cu Universitatea Brown (Ivy League) și Școala de Design din Rhode Island. Economia include sănătatea, educația și serviciile financiare. Portul a avut importanță istorică pentru comerț.",
+      en: "Providence is the capital of Rhode Island, located on Narragansett Bay. Founded in 1636 by Roger Williams, a religious dissenter who established the first Baptist church in America, Providence is a major educational and cultural center. It hosts Brown University (Ivy League) and the Rhode Island School of Design. The economy is driven by healthcare, education, and financial services. Its port was historically significant for trade.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 190.934 (2020)", "Fläche: 53,3 km²", "Gründung: 1636", "Höhe: 23 m", "Brown University: 1764 gegründet", "Rhode Island State Capitol: 1904 fertiggestellt"],
+      hu: ["Népesség: 190.934 (2020)", "Terület: 53,3 km²", "Alapítás: 1636", "Tengerszint feletti magasság: 23 m", "Brown Egyetem: 1764-ben alapították", "Rhode Island-i Állami Capitolium: 1904-ben készült el"],
+      ro: ["Populație: 190.934 (2020)", "Suprafață: 53,3 km²", "Fondare: 1636", "Altitudine: 23 m", "Universitatea Brown: fondată în 1764", "Capitoliul statului Rhode Island: finalizat în 1904"],
+      en: ["Population: 190,934 (2020)", "Area: 20.6 sq mi (53.3 km²)", "Founded: 1636", "Elevation: 75 ft (23 m)", "Brown University: founded 1764", "Rhode Island State Capitol: completed 1904"],
+    },
+  },
   {
     id: "hartford-cities-v2",
     type: "state-capital",
     parent: "US-CT",
     coords: [-72.6851, 41.7637],
-    name: { de: "Hartford", hu: "Hartford", ro: "Hartford", en: "Hartford",
-image: "/poi-images/hartford-cities-v2.webp"
-},
+    name: { de: "Hartford", hu: "Hartford", ro: "Hartford", en: "Hartford"},
+    image: "/poi-images/hartford-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Connecticut, bekannt als 'Versicherungshauptstadt der Welt'.",
       hu: "Connecticut fővárosa, a 'világ biztosítási fővárosaként' ismert.",
@@ -2156,15 +2520,27 @@ image: "/poi-images/hartford-cities-v2.webp"
       hu: ["A biztosítási ipar központja", "Mark Twain Ház és Múzeum", "Harriet Beecher Stowe Központ", "Wadsworth Atheneum, az USA legrégebbi nyilvános művészeti múzeuma"],
       ro: ["Centru pentru industria asigurărilor", "Casa și Muzeul Mark Twain", "Centrul Harriet Beecher Stowe", "Wadsworth Atheneum, cel mai vechi muzeu public de artă din SUA"],
       en: ["Hub for the insurance industry", "Mark Twain House & Museum", "Harriet Beecher Stowe Center", "Wadsworth Atheneum, the oldest public art museum in the U.S."]
-    }, image: "/poi-images/hartford-cities-v2.webp"},
+    }, image: "/poi-images/hartford-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hartford ist die Hauptstadt des US-Bundesstaates Connecticut und liegt am Connecticut River. Sie ist bekannt als ‚Versicherungshauptstadt der Welt‘, da dort viele große Versicherungsunternehmen ihren Sitz haben. Die Stadt hat eine reiche Geschichte, die bis ins 17. Jahrhundert zurückreicht, und beherbergt den ältesten öffentlichen Park der USA, den Bushnell Park. Hartford ist auch Sitz des Mark Twain House und des Harriet Beecher Stowe House. Die Wirtschaft wird von Versicherungen, Gesundheitswesen und Bildung dominiert. Die Bevölkerungszahl liegt bei etwa 120.000.",
+      hu: "Hartford Connecticut állam fővárosa, a Connecticut folyó partján fekszik. A világ biztosítási fővárosaként ismert, mert számos nagy biztosítótársaság székhelye található itt. A város gazdag történelemmel rendelkezik a 17. századig visszanyúlóan, és itt található az USA legrégebbi közparkja, a Bushnell Park. Hartford ad otthont a Mark Twain-háznak és a Harriet Beecher Stowe-háznak is. Gazdaságát a biztosítás, az egészségügy és az oktatás dominálja. Lakossága kb. 120 000 fő.",
+      ro: "Hartford este capitala statului Connecticut, situată pe râul Connecticut. Este cunoscută drept „capitala asigurărilor a lumii”, deoarece aici au sediul multe companii mari de asigurări. Orașul are o istorie bogată, datând din secolul al XVII-lea, și găzduiește cel mai vechi parc public din SUA, Bushnell Park. Aici se află și casa lui Mark Twain și a lui Harriet Beecher Stowe. Economia este dominată de asigurări, sănătate și educație. Populația este de aproximativ 120.000.",
+      en: "Hartford is the capital of Connecticut, located on the Connecticut River. Known as the 'Insurance Capital of the World,' it hosts many major insurance companies. The city has a rich history dating to the 17th century and features the oldest public park in the US, Bushnell Park. It is also home to the Mark Twain House and the Harriet Beecher Stowe House. The economy is dominated by insurance, healthcare, and education. Population is about 120,000.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 121.054 (2020)", "Fläche: 46,5 km²", "Gründung: 1635", "Höhe: 18 m", "Bushnell Park: 1854 angelegt", "Mark Twain House: 1874 erbaut"],
+      hu: ["Népesség: 121.054 (2020)", "Terület: 46,5 km²", "Alapítás: 1635", "Tengerszint feletti magasság: 18 m", "Bushnell Park: 1854-ben létesült", "Mark Twain-ház: 1874-ben épült"],
+      ro: ["Populație: 121.054 (2020)", "Suprafață: 46,5 km²", "Fondare: 1635", "Altitudine: 18 m", "Parcul Bushnell: înființat în 1854", "Casa lui Mark Twain: construită în 1874"],
+      en: ["Population: 121,054 (2020)", "Area: 18.0 sq mi (46.5 km²)", "Founded: 1635", "Elevation: 59 ft (18 m)", "Bushnell Park: established 1854", "Mark Twain House: built 1874"],
+    },
+  },
   {
     id: "salt-lake-city-cities-v2",
     type: "state-capital",
     parent: "US-UT",
     coords: [-111.8910, 40.7608],
-    name: { de: "Salt Lake City", hu: "Salt Lake City", ro: "Salt Lake City", en: "Salt Lake City",
-image: "/poi-images/salt-lake-city-cities-v2.webp"
-},
+    name: { de: "Salt Lake City", hu: "Salt Lake City", ro: "Salt Lake City", en: "Salt Lake City"},
+    image: "/poi-images/salt-lake-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Utah, gegründet von Mormonen-Pionieren, nahe dem Großen Salzsee.",
       hu: "Utah fővárosa, mormon telepesek alapították, a Nagy-sóstó közelében.",
@@ -2176,15 +2552,27 @@ image: "/poi-images/salt-lake-city-cities-v2.webp"
       hu: ["Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza központja", "Temple Square", "Kapu Utah öt nemzeti parkjához", "A 2002-es téli olimpia házigazdája"],
       ro: ["Sediul Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă", "Piața Templului", "Poarta de acces către cele cinci parcuri naționale din Utah", "Gazda Jocurilor Olimpice de iarnă din 2002"],
       en: ["Headquarters of The Church of Jesus Christ of Latter-day Saints", "Temple Square", "Gateway to Utah's five national parks", "Host of the 2002 Winter Olympics"]
-    }, image: "/poi-images/salt-lake-city-cities-v2.webp"},
+    }, image: "/poi-images/salt-lake-city-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Salt Lake City ist die Hauptstadt von Utah und liegt im Salt Lake Valley am Großen Salzsee. Die Stadt wurde 1847 von mormonischen Pionieren unter Brigham Young gegründet und ist der weltweite Hauptsitz der Kirche Jesu Christi der Heiligen der Letzten Tage. Salt Lake City ist ein bedeutendes Finanz- und Technologiezentrum mit einem der am schnellsten wachsenden Volkswirtschaften der USA. Die Stadt war Gastgeber der Olympischen Winterspiele 2002. Die Bevölkerungszahl liegt bei etwa 200.000.",
+      hu: "Salt Lake City Utah állam fővárosa, a Nagy-Sóstó melletti Salt Lake Valleyben fekszik. A várost 1847-ben alapították mormon pionírok Brigham Young vezetésével, és itt található Az Utolsó Napok Szentjeinek Jézus Krisztus Egyháza központja. Salt Lake City jelentős pénzügyi és technológiai központ, az USA egyik leggyorsabban növekvő gazdaságával. A város adott otthont a 2002-es téli olimpiának. Lakossága kb. 200 000 fő.",
+      ro: "Salt Lake City este capitala statului Utah, situată în Valea Salt Lake lângă Marele Lac Sărat. Orașul a fost fondat în 1847 de pionierii mormoni conduși de Brigham Young și este sediul mondial al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă. Salt Lake City este un centru financiar și tehnologic major, cu una dintre cele mai rapid creșteri economice din SUA. Orașul a găzduit Jocurile Olimpice de iarnă din 2002. Populația este de aproximativ 200.000.",
+      en: "Salt Lake City is the capital of Utah, located in the Salt Lake Valley near the Great Salt Lake. Founded in 1847 by Mormon pioneers led by Brigham Young, it is the global headquarters of The Church of Jesus Christ of Latter-day Saints. Salt Lake City is a major finance and technology hub, with one of the fastest-growing economies in the US. It hosted the 2002 Winter Olympics. Population is about 200,000.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 199.723 (2020)", "Fläche: 286 km²", "Gründung: 1847", "Höhe: 1.288 m", "Olympische Winterspiele 2002: 12. Februar bis 24. Februar", "Temple Square: 1853 begonnen"],
+      hu: ["Népesség: 199.723 (2020)", "Terület: 286 km²", "Alapítás: 1847", "Tengerszint feletti magasság: 1.288 m", "2002. évi téli olimpia: február 12–24.", "Temple Square: 1853-ban kezdték építeni"],
+      ro: ["Populație: 199.723 (2020)", "Suprafață: 286 km²", "Fondare: 1847", "Altitudine: 1.288 m", "Jocurile Olimpice de iarnă 2002: 12–24 februarie", "Piața Templului: construcție începută în 1853"],
+      en: ["Population: 199,723 (2020)", "Area: 110.4 sq mi (286 km²)", "Founded: 1847", "Elevation: 4,226 ft (1,288 m)", "2002 Winter Olympics: February 12–24", "Temple Square: construction started 1853"],
+    },
+  },
   {
     id: "charleston-sc-cities-v2",
     type: "city",
     parent: "US-SC",
     coords: [-79.9311, 32.7765],
-    name: { de: "Charleston (South Carolina)", hu: "Charleston (Dél-Karolina)", ro: "Charleston (Carolina de Sud)", en: "Charleston, SC",
-image: "/poi-images/charleston-sc-cities-v2.webp"
-},
+    name: { de: "Charleston (South Carolina)", hu: "Charleston (Dél-Karolina)", ro: "Charleston (Carolina de Sud)", en: "Charleston, SC"},
+    image: "/poi-images/charleston-sc-cities-v2.webp",
     description: {
       de: "Eine historische Hafenstadt in South Carolina, bekannt für ihre pastellfarbenen Häuser und Kopfsteinpflasterstraßen.",
       hu: "Történelmi kikötőváros Dél-Karolinában, pasztellszínű házairól és macskaköves utcáiról ismert.",
@@ -2196,16 +2584,27 @@ image: "/poi-images/charleston-sc-cities-v2.webp"
       hu: ["Történelmi negyed", "Fort Sumter, ahol a polgárháború kezdődött", "Rainbow Row", "Vendégszeretetéről és konyhájáról ismert"],
       ro: ["Cartier istoric", "Fort Sumter, unde a început Războiul Civil", "Rainbow Row", "Cunoscut pentru ospitalitatea și bucătăria sa"],
       en: ["Historic district", "Fort Sumter, where the Civil War began", "Rainbow Row", "Known for its hospitality and cuisine"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Charleston ist eine historische Hafenstadt in South Carolina, bekannt für ihre gut erhaltene Architektur und ihre Rolle im Amerikanischen Bürgerkrieg. Die Stadt liegt an einer Halbinsel zwischen den Flüssen Ashley und Cooper. Charleston war ein Zentrum des Sklavenhandels und später ein wichtiger Ort der Bürgerrechtsbewegung. Heute ist sie ein beliebtes Touristenziel mit Kopfsteinpflasterstraßen, Plantagen und Gärten. Die Wirtschaft basiert auf Tourismus, Gesundheitswesen und dem Hafen. Die Bevölkerungszahl liegt bei etwa 150.000.",
+      hu: "Charleston történelmi kikötőváros Dél-Karolinában, híres jól megőrzött építészetéről és az amerikai polgárháborúban játszott szerepéről. A város egy félszigeten fekszik az Ashley és Cooper folyók között. Charleston a rabszolga-kereskedelem központja volt, majd később a polgárjogi mozgalom fontos helyszíne. Ma népszerű turisztikai célpont macskaköves utcákkal, ültetvényekkel és kertekkel. Gazdasága a turizmuson, az egészségügyön és a kikötőn alapul. Lakossága kb. 150 000 fő.",
+      ro: "Charleston este un oraș portuar istoric din Carolina de Sud, cunoscut pentru arhitectura sa bine conservată și rolul său în Războiul Civil American. Orașul este situat pe o peninsulă între râurile Ashley și Cooper. Charleston a fost un centru al comerțului cu sclavi și mai târziu un loc important al mișcării pentru drepturile civile. Astăzi este o destinație turistică populară, cu străzi pietruite, plantații și grădini. Economia se bazează pe turism, sănătate și port. Populația este de aproximativ 150.000.",
+      en: "Charleston is a historic port city in South Carolina, renowned for its well-preserved architecture and role in the American Civil War. Situated on a peninsula between the Ashley and Cooper rivers, it was a center of the slave trade and later a key site in the Civil Rights Movement. Today it is a top tourist destination with cobblestone streets, plantations, and gardens. The economy is driven by tourism, healthcare, and the port. Population about 150,000.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 150.227 (2020)", "Fläche: 135 km²", "Gründung: 1670", "Höhe: 6 m", "Fort Sumter: 1829–1834 erbaut", "Hafen von Charleston: gegründet 1670"],
+      hu: ["Népesség: 150.227 (2020)", "Terület: 135 km²", "Alapítás: 1670", "Tengerszint feletti magasság: 6 m", "Fort Sumter: 1829–1834 között épült", "Charlestoni kikötő: 1670-ben alapították"],
+      ro: ["Populație: 150.227 (2020)", "Suprafață: 135 km²", "Fondare: 1670", "Altitudine: 6 m", "Fort Sumter: construit între 1829 și 1834", "Portul Charleston: fondat în 1670"],
+      en: ["Population: 150,227 (2020)", "Area: 52.1 sq mi (135 km²)", "Founded: 1670", "Elevation: 20 ft (6 m)", "Fort Sumter: built 1829–1834", "Port of Charleston: founded 1670"],
+    },
   },
   {
     id: "savannah-cities-v2",
     type: "city",
     parent: "US-GA",
     coords: [-81.0912, 32.0809],
-    name: { de: "Savannah", hu: "Savannah", ro: "Savannah", en: "Savannah",
-image: "/poi-images/savannah-cities-v2.webp"
-},
+    name: { de: "Savannah", hu: "Savannah", ro: "Savannah", en: "Savannah"},
+    image: "/poi-images/savannah-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt in Georgia, bekannt für ihre historischen Plätze und ihre mit spanischem Moos bewachsenen Eichen.",
       hu: "Part menti város Georgiában, történelmi tereiről és spanyol mohával borított tölgyfáiról ismert.",
@@ -2217,15 +2616,27 @@ image: "/poi-images/savannah-cities-v2.webp"
       hu: ["22 történelmi tér a belvárosban", "Történelmi folyóparti negyed", "Bonaventure temető", "Kísértethistóriák és szellemtúrák"],
       ro: ["22 de piețe istorice în centrul orașului", "Cartier istoric pe malul râului", "Cimitirul Bonaventure", "Povești cu fantome și tururi bântuite"],
       en: ["22 historic squares in its downtown area", "Historic riverfront district", "Bonaventure Cemetery", "Haunted stories and ghost tours"]
-    }, image: "/poi-images/savannah-cities-v2.webp"},
+    }, image: "/poi-images/savannah-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Savannah ist eine Küstenstadt in Georgia, USA, am Savannah River nahe dem Atlantik. Sie wurde 1733 von James Oglethorpe gegründet und ist die älteste Stadt des Bundesstaates. Savannah ist bekannt für ihre historischen Plätze, die im 18. Jahrhundert angelegt wurden, und ihre viktorianische Architektur. Die Stadt spielte eine wichtige Rolle im Amerikanischen Unabhängigkeitskrieg und im Bürgerkrieg. Heute ist sie ein kulturelles Zentrum mit einer blühenden Kunstszene und einem starken Tourismussektor. Der Hafen von Savannah ist einer der verkehrsreichsten Containerhäfen der USA.",
+      hu: "Savannah tengerparti város Georgia államban, a Savannah folyó partján, az Atlanti-óceán közelében. 1733-ban alapította James Oglethorpe, és Georgia legrégebbi városa. Savannah híres a 18. században kialakított történelmi tereiről és viktoriánus építészetéről. A város fontos szerepet játszott az amerikai függetlenségi háborúban és a polgárháborúban. Ma kulturális központ, virágzó művészeti élettel és erős turisztikai ágazattal. Savannah kikötője az USA egyik legforgalmasabb konténerkikötője.",
+      ro: "Savannah este un oraș de coastă în statul Georgia, SUA, situat pe râul Savannah, aproape de Oceanul Atlantic. A fost fondat în 1733 de James Oglethorpe și este cel mai vechi oraș din stat. Savannah este cunoscută pentru piețele sale istorice amenajate în secolul al XVIII-lea și arhitectura victoriană. Orașul a jucat un rol important în Războiul de Independență și în Războiul Civil. Astăzi este un centru cultural cu o scenă artistică înfloritoare și un sector turistic puternic. Portul Savannah este unul dintre cele mai aglomerate porturi de containere din SUA.",
+      en: "Savannah is a coastal city in Georgia, USA, on the Savannah River near the Atlantic Ocean. Founded in 1733 by James Oglethorpe, it is the oldest city in the state. Savannah is known for its historic squares laid out in the 18th century and Victorian architecture. It played a significant role in the American Revolution and Civil War. Today it is a cultural hub with a thriving arts scene and strong tourism. The Port of Savannah is one of the busiest container ports in the US.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 147.780 (2020)", "Fläche: 285 km²", "Gründung: 1733", "Höhe: 15 m", "Hafen von Savannah: 1950 eröffnet", "Savannah Historic District: 1966 National Historic Landmark"],
+      hu: ["Népesség: 147.780 (2020)", "Terület: 285 km²", "Alapítás: 1733", "Tengerszint feletti magasság: 15 m", "Savannahi kikötő: 1950-ben nyílt meg", "Savannah történelmi negyede: 1966 óta nemzeti történelmi nevezetesség"],
+      ro: ["Populație: 147.780 (2020)", "Suprafață: 285 km²", "Fondare: 1733", "Altitudine: 15 m", "Portul Savannah: deschis în 1950", "Districtul istoric Savannah: monument istoric național din 1966"],
+      en: ["Population: 147,780 (2020)", "Area: 110.0 sq mi (285 km²)", "Founded: 1733", "Elevation: 49 ft (15 m)", "Port of Savannah: opened 1950", "Savannah Historic District: designated 1966"],
+    },
+  },
   {
     id: "santa-fe-cities-v2",
     type: "state-capital",
     parent: "US-NM",
     coords: [-105.9378, 35.6870],
-    name: { de: "Santa Fe", hu: "Santa Fe", ro: "Santa Fe", en: "Santa Fe",
-image: "/poi-images/santa-fe-cities-v2.webp"
-},
+    name: { de: "Santa Fe", hu: "Santa Fe", ro: "Santa Fe", en: "Santa Fe"},
+    image: "/poi-images/santa-fe-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von New Mexico, bekannt für ihre Pueblo-Architektur und als kreatives Kunstzentrum.",
       hu: "Új-Mexikó fővárosa, Pueblo-stílusú építészetéről és kreatív művészeti központként ismert.",
@@ -2243,9 +2654,8 @@ image: "/poi-images/santa-fe-cities-v2.webp"
     type: "state-capital",
     parent: "US-AK",
     coords: [-134.4197, 58.3019],
-    name: { de: "Juneau", hu: "Juneau", ro: "Juneau", en: "Juneau",
-image: "/poi-images/juneau-cities-v2.webp"
-},
+    name: { de: "Juneau", hu: "Juneau", ro: "Juneau", en: "Juneau"},
+    image: "/poi-images/juneau-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Alaska, eine der wenigen Hauptstädte, die nicht über Straßen erreichbar ist.",
       hu: "Alaszka fővárosa, egyike azon kevés fővárosoknak, amelyeket nem lehet közúton megközelíteni.",
@@ -2257,15 +2667,27 @@ image: "/poi-images/juneau-cities-v2.webp"
       hu: ["Csak repülővel vagy hajóval érhető el", "Mendenhall-gleccser", "Bálnafigyelő túrák", "Mount Roberts libegő"],
       ro: ["Accesibil doar cu avionul sau cu barca", "Ghețarul Mendenhall", "Tururi de observare a balenelor", "Telecabina Mount Roberts"],
       en: ["Accessible only by plane or boat", "Mendenhall Glacier", "Whale watching tours", "Mount Roberts Tramway"]
-    }, image: "/poi-images/juneau-cities-v2.webp"},
+    }, image: "/poi-images/juneau-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Juneau ist die Hauptstadt des US-Bundesstaates Alaska und liegt im Alaska Panhandle an der Gastineau Passage. Die Stadt ist nur per Flugzeug oder Schiff erreichbar, da keine Straßenverbindung zum Rest von Alaska besteht. Juneau wurde 1880 nach der Entdeckung von Gold gegründet und diente als Bergbauzentrum. Heute basiert die Wirtschaft auf Regierungsdienstleistungen, Tourismus und Fischerei. Juneau hat etwa 32.000 Einwohner und ist eine der abgelegensten Hauptstädte der USA.",
+      hu: "Juneau Alaszka állam fővárosa, a Gastineau-csatorna mellett, a part menti hegyvidéken fekszik. A város csak repülővel vagy hajóval közelíthető meg, mert nincs közúti összeköttetése Alaszka többi részével. Juneau-t 1880-ban alapították arany felfedezése után, és bányászati központként szolgált. Ma a gazdaság a kormányzati szolgáltatásokon, a turizmuson és a halászaton alapul. Lakossága kb. 32 000 fő, és az USA egyik legelzártabb fővárosa.",
+      ro: "Juneau este capitala statului Alaska, situată pe trecătoarea Gastineau, în Alaska Panhandle. Orașul este accesibil doar pe calea aerului sau pe apă, neavând conectivitate rutieră cu restul Alaska. Juneau a fost fondat în 1880 după descoperirea aurului și a fost un centru minier. Astăzi, economia se bazează pe servicii guvernamentale, turism și pescuit. Juneau are aproximativ 32.000 de locuitori și este una dintre cele mai izolate capitale de stat din SUA.",
+      en: "Juneau is the capital of Alaska, located in the Alaska Panhandle on the Gastineau Channel. It is only accessible by air or sea, with no road connections to the rest of Alaska. Founded in 1880 after gold discovery, Juneau served as a mining center. Today its economy relies on government, tourism, and fishing. Juneau has about 32,000 residents and is one of the most remote state capitals in the US.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 32.255 (2020)", "Fläche: 8.430 km²", "Gründung: 1880", "Höhe: 17 m", "Mendenhall-Gletscher: Länge 19 km", "Alaska State Capitol: 1931 fertiggestellt"],
+      hu: ["Népesség: 32.255 (2020)", "Terület: 8.430 km²", "Alapítás: 1880", "Tengerszint feletti magasság: 17 m", "Mendenhall-gleccser: hossza 19 km", "Alaszka Állami Capitolium: 1931-ben készült el"],
+      ro: ["Populație: 32.255 (2020)", "Suprafață: 8.430 km²", "Fondare: 1880", "Altitudine: 17 m", "Ghețarul Mendenhall: lungime 19 km", "Capitoliul statului Alaska: finalizat în 1931"],
+      en: ["Population: 32,255 (2020)", "Area: 3,255 sq mi (8,430 km²)", "Founded: 1880", "Elevation: 56 ft (17 m)", "Mendenhall Glacier: 12 miles (19 km) long", "Alaska State Capitol: completed 1931"],
+    },
+  },
   {
     id: "montgomery-cities-v2",
     type: "state-capital",
     parent: "US-AL",
     coords: [-86.3077, 32.3792],
-    name: { de: "Montgomery", hu: "Montgomery", ro: "Montgomery", en: "Montgomery",
-image: "/poi-images/montgomery-cities-v2.webp"
-},
+    name: { de: "Montgomery", hu: "Montgomery", ro: "Montgomery", en: "Montgomery"},
+    image: "/poi-images/montgomery-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Alabama, eine Schlüsselstadt in der Bürgerrechtsbewegung.",
       hu: "Alabama fővárosa, a polgárjogi mozgalom kulcsfontosságú városa.",
@@ -2277,15 +2699,27 @@ image: "/poi-images/montgomery-cities-v2.webp"
       hu: ["Rosa Parks Múzeum", "Dexter Avenue King Memorial Baptista Templom", "A Konföderáció első fővárosa", "Nemzeti Emlékmű a Békéért és Igazságért"],
       ro: ["Muzeul Rosa Parks", "Biserica Baptistă Memorială Dexter Avenue King", "Prima capitală a Confederației", "Memorialul Național pentru Pace și Justiție"],
       en: ["Rosa Parks Museum", "Dexter Avenue King Memorial Baptist Church", "First capital of the Confederacy", "National Memorial for Peace and Justice"]
-    }, image: "/poi-images/montgomery-cities-v2.webp"},
+    }, image: "/poi-images/montgomery-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Montgomery ist die Hauptstadt des US-Bundesstaates Alabama und liegt am Alabama River. Die Stadt spielte eine zentrale Rolle in der Bürgerrechtsbewegung: 1955 begann hier der Montgomery Bus Boycott unter Führung von Martin Luther King Jr. Montgomery war auch die erste Hauptstadt der Konföderierten Staaten von Amerika. Heute ist die Wirtschaft von Regierungsdienstleistungen, Bildung und Fertigung geprägt. Die Bevölkerungszahl liegt bei etwa 200.000.",
+      hu: "Montgomery Alabama állam fővárosa, az Alabama folyó partján fekszik. A város központi szerepet játszott a polgárjogi mozgalomban: 1955-ben itt indult a Montgomery buszbojkott Martin Luther King Jr. vezetésével. Montgomery volt az Amerikai Konföderációs Államok első fővárosa is. Ma a gazdaságot a kormányzati szolgáltatások, az oktatás és a gyártás jellemzi. Lakossága kb. 200 000 fő.",
+      ro: "Montgomery este capitala statului Alabama, situată pe râul Alabama. Orașul a jucat un rol central în mișcarea pentru drepturile civile: în 1955 a început boicotul autobuzelor din Montgomery, condus de Martin Luther King Jr. Montgomery a fost, de asemenea, prima capitală a Statelor Confederate ale Americii. Astăzi, economia se bazează pe servicii guvernamentale, educație și producție. Populația este de aproximativ 200.000.",
+      en: "Montgomery is the capital of Alabama, located on the Alabama River. It played a pivotal role in the Civil Rights Movement: in 1955, the Montgomery Bus Boycott began here, led by Martin Luther King Jr. Montgomery was also the first capital of the Confederate States of America. Today its economy is driven by government, education, and manufacturing. Population is about 200,000.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 200.603 (2020)", "Fläche: 418 km²", "Gründung: 1819", "Höhe: 73 m", "Alabama State Capitol: 1851 fertiggestellt", "Dexter Avenue King Memorial Baptist Church: 1889 erbaut"],
+      hu: ["Népesség: 200.603 (2020)", "Terület: 418 km²", "Alapítás: 1819", "Tengerszint feletti magasság: 73 m", "Alabama Állami Capitolium: 1851-ben készült el", "Dexter Avenue King Memorial Baptist Church: 1889-ben épült"],
+      ro: ["Populație: 200.603 (2020)", "Suprafață: 418 km²", "Fondare: 1819", "Altitudine: 73 m", "Capitoliul statului Alabama: finalizat în 1851", "Biserica Baptistă Dexter Avenue King Memorial: construită în 1889"],
+      en: ["Population: 200,603 (2020)", "Area: 161.4 sq mi (418 km²)", "Founded: 1819", "Elevation: 240 ft (73 m)", "Alabama State Capitol: completed 1851", "Dexter Avenue King Memorial Baptist Church: built 1889"],
+    },
+  },
   {
     id: "annapolis-cities-v2",
     type: "state-capital",
     parent: "US-MD",
     coords: [-76.4922, 38.9784],
-    name: { de: "Annapolis", hu: "Annapolis", ro: "Annapolis", en: "Annapolis",
-image: "/poi-images/annapolis-cities-v2.webp"
-},
+    name: { de: "Annapolis", hu: "Annapolis", ro: "Annapolis", en: "Annapolis"},
+    image: "/poi-images/annapolis-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Maryland, Heimat der United States Naval Academy.",
       hu: "Maryland fővárosa, az Egyesült Államok Tengerészeti Akadémiájának otthona.",
@@ -2297,15 +2731,27 @@ image: "/poi-images/annapolis-cities-v2.webp"
       hu: ["Egyesült Államok Tengerészeti Akadémiája", "A 18. századi épületek legnagyobb koncentrációja az USA-ban", "Marylandi Állami Ház", "Történelmi kikötő"],
       ro: ["Academia Navală a Statelor Unite", "Cea mai mare concentrație de clădiri din secolul al XVIII-lea din SUA", "Casa de Stat din Maryland", "Port istoric"],
       en: ["United States Naval Academy", "Largest concentration of 18th-century buildings in the U.S.", "Maryland State House", "Historic seaport"]
-    }, image: "/poi-images/annapolis-cities-v2.webp"},
+    }, image: "/poi-images/annapolis-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Annapolis ist die Hauptstadt des US-Bundesstaates Maryland und liegt an der Mündung des Severn River in die Chesapeake Bay. Die Stadt ist Sitz der United States Naval Academy, die 1845 gegründet wurde. Annapolis hat eine der ältesten erhaltenen Kolonialstädte der USA mit vielen Gebäuden aus dem 18. Jahrhundert. Die Wirtschaft wird von Regierungsdienstleistungen, Bildung und Tourismus dominiert. Annapolis hat etwa 40.000 Einwohner und ist bekannt für seine malerische Hafenpromenade.",
+      hu: "Annapolis Maryland állam fővárosa, a Severn folyó torkolatánál, a Chesapeake-öböl partján fekszik. Itt található az Egyesült Államok Haditengerészeti Akadémiája, amelyet 1845-ben alapítottak. Annapolis az USA egyik legrégebbi fennmaradt gyarmati városa, számos 18. századi épülettel. Gazdaságát a kormányzati szolgáltatások, az oktatás és a turizmus uralja. Lakossága kb. 40 000 fő, és festői kikötőjéről ismert.",
+      ro: "Annapolis este capitala statului Maryland, situată la gura râului Severn în golful Chesapeake. Orașul găzduiește Academia Navală a Statelor Unite, fondată în 1845. Annapolis are unul dintre cele mai vechi orașe coloniale păstrate din SUA, cu multe clădiri din secolul al XVIII-lea. Economia este dominată de servicii guvernamentale, educație și turism. Annapolis are aproximativ 40.000 de locuitori și este cunoscut pentru promenada sa pitorească de pe malul apei.",
+      en: "Annapolis is the capital of Maryland, located at the mouth of the Severn River on the Chesapeake Bay. It is home to the United States Naval Academy, founded in 1845. Annapolis features one of the best-preserved colonial cities in the US, with many 18th-century buildings. The economy is dominated by government services, education, and tourism. Annapolis has about 40,000 residents and is known for its scenic waterfront.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 40.812 (2020)", "Fläche: 20,6 km²", "Gründung: 1649", "Höhe: 12 m", "United States Naval Academy: 1845 gegründet", "Maryland State Capitol: 1772–1779 erbaut"],
+      hu: ["Népesség: 40.812 (2020)", "Terület: 20,6 km²", "Alapítás: 1649", "Tengerszint feletti magasság: 12 m", "Egyesült Államok Haditengerészeti Akadémiája: 1845-ben alapították", "Maryland Állami Capitolium: 1772–1779 között épült"],
+      ro: ["Populație: 40.812 (2020)", "Suprafață: 20,6 km²", "Fondare: 1649", "Altitudine: 12 m", "Academia Navală a Statelor Unite: fondată în 1845", "Capitoliul statului Maryland: construit între 1772 și 1779"],
+      en: ["Population: 40,812 (2020)", "Area: 7.95 sq mi (20.6 km²)", "Founded: 1649", "Elevation: 39 ft (12 m)", "United States Naval Academy: founded 1845", "Maryland State Capitol: built 1772–1779"],
+    },
+  },
   {
     id: "albany-ny-cities-v2",
     type: "state-capital",
     parent: "US-NY",
     coords: [-73.7562, 42.6526],
-    name: { de: "Albany (New York)", hu: "Albany (New York)", ro: "Albany (New York)", en: "Albany, NY",
-image: "/poi-images/albany-ny-cities-v2.webp"
-},
+    name: { de: "Albany (New York)", hu: "Albany (New York)", ro: "Albany (New York)", en: "Albany, NY"},
+    image: "/poi-images/albany-ny-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Bundesstaates New York mit einer langen Geschichte, die bis in die niederländische Kolonialzeit zurückreicht.",
       hu: "New York állam fővárosa, hosszú történelme a holland gyarmati időkig nyúlik vissza.",
@@ -2317,15 +2763,27 @@ image: "/poi-images/albany-ny-cities-v2.webp"
       hu: ["Empire State Plaza", "New York Állami Capitolium", "New York Állami Múzeum", "Az eredeti 13 gyarmat egyik legrégebbi, folyamatosan lakott települése"],
       ro: ["Empire State Plaza", "Capitoliul Statului New York", "Muzeul Statului New York", "Una dintre cele mai vechi așezări locuite continuu din cele 13 colonii originale"],
       en: ["Empire State Plaza", "New York State Capitol", "New York State Museum", "One of the oldest surviving settlements of the original 13 colonies"]
-    }, image: "/poi-images/albany-ny-cities-v2.webp"},
+    }, image: "/poi-images/albany-ny-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Albany ist die Hauptstadt des US-Bundesstaates New York und liegt am Westufer des Hudson River. Die Stadt wurde 1614 als niederländische Handelsstation gegründet und ist eine der ältesten Städte der USA. Albany ist ein wichtiges politisches Zentrum mit dem New York State Capitol und der State University of New York. Die Wirtschaft umfasst Regierungsdienstleistungen, Gesundheitswesen und Bildung. Albany hat etwa 100.000 Einwohner und ist Teil der Capital District-Region.",
+      hu: "Albany New York állam fővárosa, a Hudson folyó nyugati partján fekszik. A várost 1614-ben holland kereskedőállomásként alapították, és az USA egyik legrégebbi városa. Albany fontos politikai központ, itt található a New York State Capitol és a State University of New York. Gazdasága magában foglalja a kormányzati szolgáltatásokat, az egészségügyet és az oktatást. Lakossága kb. 100 000 fő, és a Capital District régió része.",
+      ro: "Albany este capitala statului New York, situată pe malul vestic al râului Hudson. Orașul a fost fondat în 1614 ca o stație comercială olandeză și este unul dintre cele mai vechi orașe din SUA. Albany este un centru politic important, găzduind Capitoliul statului New York și Universitatea de Stat din New York. Economia include servicii guvernamentale, sănătate și educație. Albany are aproximativ 100.000 de locuitori și face parte din regiunea Capital District.",
+      en: "Albany is the capital of New York, located on the west bank of the Hudson River. Founded in 1614 as a Dutch trading post, it is one of the oldest cities in the US. Albany is a major political center, home to the New York State Capitol and the State University of New York. Its economy includes government services, healthcare, and education. Albany has about 100,000 residents and is part of the Capital District region.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 99.224 (2020)", "Fläche: 56,5 km²", "Gründung: 1614", "Höhe: 45 m", "New York State Capitol: 1899 fertiggestellt", "SUNY Albany: 1844 gegründet"],
+      hu: ["Népesség: 99.224 (2020)", "Terület: 56,5 km²", "Alapítás: 1614", "Tengerszint feletti magasság: 45 m", "New York State Capitol: 1899-ben készült el", "SUNY Albany: 1844-ben alapították"],
+      ro: ["Populație: 99.224 (2020)", "Suprafață: 56,5 km²", "Fondare: 1614", "Altitudine: 45 m", "Capitoliul statului New York: finalizat în 1899", "SUNY Albany: fondată în 1844"],
+      en: ["Population: 99,224 (2020)", "Area: 21.8 sq mi (56.5 km²)", "Founded: 1614", "Elevation: 148 ft (45 m)", "New York State Capitol: completed 1899", "SUNY Albany: founded 1844"],
+    },
+  },
   {
     id: "harrisburg-cities-v2",
     type: "state-capital",
     parent: "US-PA",
     coords: [-76.8867, 40.2732],
-    name: { de: "Harrisburg", hu: "Harrisburg", ro: "Harrisburg", en: "Harrisburg",
-image: "/poi-images/harrisburg-cities-v2.webp"
-},
+    name: { de: "Harrisburg", hu: "Harrisburg", ro: "Harrisburg", en: "Harrisburg"},
+    image: "/poi-images/harrisburg-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Pennsylvania am Susquehanna River.",
       hu: "Pennsylvania fővárosa a Susquehanna folyó partján.",
@@ -2337,15 +2795,27 @@ image: "/poi-images/harrisburg-cities-v2.webp"
       hu: ["Pennsylvaniai Állami Capitolium", "Nemzeti Polgárháborús Múzeum", "Pennsylvaniai Állami Múzeum", "A Three Mile Island atomerőmű a közelben"],
       ro: ["Capitoliul Statului Pennsylvania", "Muzeul Național al Războiului Civil", "Muzeul de Stat din Pennsylvania", "Centrala nucleară Three Mile Island în apropiere"],
       en: ["Pennsylvania State Capitol", "National Civil War Museum", "State Museum of Pennsylvania", "Three Mile Island Nuclear Generating Station nearby"]
-    }, image: "/poi-images/harrisburg-cities-v2.webp"},
+    }, image: "/poi-images/harrisburg-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Harrisburg ist die Hauptstadt des US-Bundesstaates Pennsylvania und liegt am Ostufer des Susquehanna River. Die Stadt wurde um 1718 gegründet und ist seit 1812 Hauptstadt. Harrisburg beherbergt das Pennsylvania State Capitol, ein architektonisches Meisterwerk. Die Wirtschaft basiert auf Regierungsdienstleistungen, Gesundheitswesen und Logistik. Harrisburg hat etwa 50.000 Einwohner, die Metropolregion ist jedoch wesentlich größer. Die Stadt spielte eine Rolle in der industriellen Revolution und im Bürgerkrieg.",
+      hu: "Harrisburg Pennsylvania állam fővárosa, a Susquehanna folyó keleti partján fekszik. A várost 1718 körül alapították, és 1812 óta főváros. Harrisburgban található a Pennsylvania State Capitol, egy építészeti remekmű. A gazdaság a kormányzati szolgáltatásokon, az egészségügyön és a logisztikán alapul. Harrisburg lakossága kb. 50 000 fő, de a metropolisz régió lényegesen nagyobb. A város szerepet játszott az ipari forradalomban és a polgárháborúban.",
+      ro: "Harrisburg este capitala statului Pennsylvania, situată pe malul estic al râului Susquehanna. Orașul a fost fondat în jurul anului 1718 și este capitală din 1812. Harrisburg găzduiește Capitoliul statului Pennsylvania, o capodoperă arhitecturală. Economia se bazează pe servicii guvernamentale, sănătate și logistică. Harrisburg are aproximativ 50.000 de locuitori, dar zona metropolitană este mult mai mare. Orașul a jucat un rol în revoluția industrială și în Războiul Civil.",
+      en: "Harrisburg is the capital of Pennsylvania, located on the east bank of the Susquehanna River. Founded around 1718, it became the state capital in 1812. Harrisburg is home to the Pennsylvania State Capitol, an architectural masterpiece. The economy is based on government services, healthcare, and logistics. Harrisburg has about 50,000 residents, though the metropolitan area is much larger. The city played a role in the Industrial Revolution and the Civil War.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 50.099 (2020)", "Fläche: 26,3 km²", "Gründung: um 1718", "Höhe: 98 m", "Pennsylvania State Capitol: 1906 fertiggestellt", "National Civil War Museum: 2004 eröffnet"],
+      hu: ["Népesség: 50.099 (2020)", "Terület: 26,3 km²", "Alapítás: 1718 körül", "Tengerszint feletti magasság: 98 m", "Pennsylvania State Capitol: 1906-ban készült el", "Nemzeti Polgárháborús Múzeum: 2004-ben nyílt meg"],
+      ro: ["Populație: 50.099 (2020)", "Suprafață: 26,3 km²", "Fondare: în jurul anului 1718", "Altitudine: 98 m", "Capitoliul statului Pennsylvania: finalizat în 1906", "Muzeul Național al Războiului Civil: deschis în 2004"],
+      en: ["Population: 50,099 (2020)", "Area: 10.1 sq mi (26.3 km²)", "Founded: around 1718", "Elevation: 322 ft (98 m)", "Pennsylvania State Capitol: completed 1906", "National Civil War Museum: opened 2004"],
+    },
+  },
   {
     id: "trenton-cities-v2",
     type: "state-capital",
     parent: "US-NJ",
     coords: [-74.7429, 40.2171],
-    name: { de: "Trenton", hu: "Trenton", ro: "Trenton", en: "Trenton",
-image: "/poi-images/trenton-cities-v2.webp"
-},
+    name: { de: "Trenton", hu: "Trenton", ro: "Trenton", en: "Trenton"},
+    image: "/poi-images/trenton-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von New Jersey, bekannt für die entscheidende Schlacht von Trenton im Unabhängigkeitskrieg.",
       hu: "New Jersey fővárosa, a függetlenségi háború döntő trentoni csatájáról ismert.",
@@ -2357,15 +2827,27 @@ image: "/poi-images/trenton-cities-v2.webp"
       hu: ["'Trenton Makes, The World Takes' híd felirat", "Old Barracks Múzeum", "New Jersey Állami Múzeum", "New Jersey Állami Ház"],
       ro: ["Semnul de pe pod 'Trenton Makes, The World Takes'", "Muzeul Old Barracks", "Muzeul de Stat din New Jersey", "Casa de Stat din New Jersey"],
       en: ["'Trenton Makes, The World Takes' bridge sign", "Old Barracks Museum", "New Jersey State Museum", "New Jersey State House"]
-    }, image: "/poi-images/trenton-cities-v2.webp"},
+    }, image: "/poi-images/trenton-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Trenton ist die Hauptstadt des US-Bundesstaates New Jersey und liegt am Delaware River. Die Stadt wurde 1719 gegründet und ist bekannt für die Schlacht von Trenton im Amerikanischen Unabhängigkeitskrieg, in der George Washington einen entscheidenden Sieg errang. Trenton beherbergt das New Jersey State Capitol und ist ein Zentrum für Keramik- und Stahlproduktion. Die Wirtschaft umfasst Regierungsdienstleistungen, Gesundheitswesen und Bildung. Trenton hat etwa 85.000 Einwohner.",
+      hu: "Trenton New Jersey állam fővárosa, a Delaware folyó partján fekszik. A várost 1719-ben alapították, és híres a trentoni csatáról az amerikai függetlenségi háborúban, ahol George Washington döntő győzelmet aratott. Trentonban található a New Jersey State Capitol, és a város a kerámia- és acélgyártás központja. Gazdasága magában foglalja a kormányzati szolgáltatásokat, az egészségügyet és az oktatást. Lakossága kb. 85 000 fő.",
+      ro: "Trenton este capitala statului New Jersey, situată pe râul Delaware. Orașul a fost fondat în 1719 și este cunoscut pentru Bătălia de la Trenton din Războiul de Independență, în care George Washington a obținut o victorie decisivă. Trenton găzduiește Capitoliul statului New Jersey și este un centru pentru producția de ceramică și oțel. Economia include servicii guvernamentale, sănătate și educație. Trenton are aproximativ 85.000 de locuitori.",
+      en: "Trenton is the capital of New Jersey, located on the Delaware River. Founded in 1719, it is known for the Battle of Trenton during the American Revolutionary War, where George Washington won a decisive victory. Trenton is home to the New Jersey State Capitol and has a history of ceramics and steel production. The economy includes government services, healthcare, and education. Trenton has about 85,000 residents.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 84.913 (2020)", "Fläche: 21,4 km²", "Gründung: 1719", "Höhe: 15 m", "New Jersey State Capitol: 1792 fertiggestellt", "Schlacht von Trenton: 26. Dezember 1776"],
+      hu: ["Népesség: 84.913 (2020)", "Terület: 21,4 km²", "Alapítás: 1719", "Tengerszint feletti magasság: 15 m", "New Jersey State Capitol: 1792-ben készült el", "Trentoni csata: 1776. december 26."],
+      ro: ["Populație: 84.913 (2020)", "Suprafață: 21,4 km²", "Fondare: 1719", "Altitudine: 15 m", "Capitoliul statului New Jersey: finalizat în 1792", "Bătălia de la Trenton: 26 decembrie 1776"],
+      en: ["Population: 84,913 (2020)", "Area: 8.3 sq mi (21.4 km²)", "Founded: 1719", "Elevation: 49 ft (15 m)", "New Jersey State Capitol: completed 1792", "Battle of Trenton: December 26, 1776"],
+    },
+  },
   {
     id: "dover-cities-v2",
     type: "state-capital",
     parent: "US-DE",
     coords: [-75.5244, 39.1582],
-    name: { de: "Dover", hu: "Dover", ro: "Dover", en: "Dover",
-image: "/poi-images/dover-cities-v2.webp"
-},
+    name: { de: "Dover", hu: "Dover", ro: "Dover", en: "Dover"},
+    image: "/poi-images/dover-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Delaware, dem 'ersten Staat', der die US-Verfassung ratifiziert hat.",
       hu: "Delaware fővárosa, az 'első állam', amely ratifikálta az amerikai alkotmányt.",
@@ -2377,15 +2859,27 @@ image: "/poi-images/dover-cities-v2.webp"
       hu: ["Dover International Speedway, egy NASCAR pálya", "Légimozgékonysági Parancsnokság Múzeuma", "First State Örökségi Park", "Delaware-i Állami Capitolium"],
       ro: ["Dover International Speedway, o pistă NASCAR", "Muzeul Comandamentului Mobilității Aeriene", "Parcul Patrimoniului First State", "Capitoliul Statului Delaware"],
       en: ["Dover International Speedway, a NASCAR track", "Air Mobility Command Museum", "First State Heritage Park", "Delaware State Capitol"]
-    }, image: "/poi-images/dover-cities-v2.webp"},
+    }, image: "/poi-images/dover-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dover ist die Hauptstadt des US-Bundesstaates Delaware und liegt am St. Jones River. Die Stadt wurde 1683 gegründet und ist seit 1777 Hauptstadt. Dover ist bekannt für seine Rolle in der Luftfahrtgeschichte, da die Dover Air Force Base eine wichtige Transportbasis ist. Die Wirtschaft wird von Regierungsdienstleistungen, Bildung und Gesundheitswesen dominiert. Dover hat etwa 38.000 Einwohner und ist Sitz des Delaware State Capitol und des Delaware State University.",
+      hu: "Dover Delaware állam fővárosa, a St. Jones folyó partján fekszik. A várost 1683-ban alapították, és 1777 óta főváros. Dover híres a repüléstörténetben betöltött szerepéről, mivel a Dover Air Force Base fontos szállítási bázis. A gazdaságot a kormányzati szolgáltatások, az oktatás és az egészségügy dominálja. Lakossága kb. 38 000 fő, és itt található a Delaware State Capitol és a Delaware State University.",
+      ro: "Dover este capitala statului Delaware, situată pe râul St. Jones. Orașul a fost fondat în 1683 și este capitală din 1777. Dover este cunoscut pentru rolul său în istoria aviației, Baza Aeriană Dover fiind o bază importantă de transport. Economia este dominată de servicii guvernamentale, educație și sănătate. Dover are aproximativ 38.000 de locuitori și găzduiește Capitoliul statului Delaware și Universitatea de Stat din Delaware.",
+      en: "Dover is the capital of Delaware, located on the St. Jones River. Founded in 1683, it became the state capital in 1777. Dover is known for its role in aviation history, with Dover Air Force Base serving as a major airlift hub. The economy is dominated by government services, education, and healthcare. Dover has about 38,000 residents and is home to the Delaware State Capitol and Delaware State University.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 38.079 (2020)", "Fläche: 60,8 km²", "Gründung: 1683", "Höhe: 11 m", "Dover Air Force Base: 1941 errichtet", "Delaware State Capitol: 1792 fertiggestellt"],
+      hu: ["Népesség: 38.079 (2020)", "Terület: 60,8 km²", "Alapítás: 1683", "Tengerszint feletti magasság: 11 m", "Dover Air Force Base: 1941-ben létesült", "Delaware State Capitol: 1792-ben készült el"],
+      ro: ["Populație: 38.079 (2020)", "Suprafață: 60,8 km²", "Fondare: 1683", "Altitudine: 11 m", "Baza Aeriană Dover: înființată în 1941", "Capitoliul statului Delaware: finalizat în 1792"],
+      en: ["Population: 38,079 (2020)", "Area: 23.5 sq mi (60.8 km²)", "Founded: 1683", "Elevation: 36 ft (11 m)", "Dover Air Force Base: established 1941", "Delaware State Capitol: completed 1792"],
+    },
+  },
   {
     id: "augusta-me-cities-v2",
     type: "state-capital",
     parent: "US-ME",
     coords: [-69.7794, 44.3106],
-    name: { de: "Augusta (Maine)", hu: "Augusta (Maine)", ro: "Augusta (Maine)", en: "Augusta, ME",
-image: "/poi-images/augusta-me-cities-v2.webp"
-},
+    name: { de: "Augusta (Maine)", hu: "Augusta (Maine)", ro: "Augusta (Maine)", en: "Augusta, ME"},
+    image: "/poi-images/augusta-me-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Maine am Kennebec River.",
       hu: "Maine fővárosa a Kennebec folyó partján.",
@@ -2397,15 +2891,27 @@ image: "/poi-images/augusta-me-cities-v2.webp"
       hu: ["Maine Állami Múzeum", "Maine Állami Ház", "Old Fort Western, egykori brit gyarmati erőd", "Az USA egyik legkisebb lakosságú fővárosa"],
       ro: ["Muzeul de Stat din Maine", "Casa de Stat din Maine", "Vechiul Fort Western, o fostă fortăreață colonială britanică", "Una dintre cele mai mici capitale de stat din SUA ca populație"],
       en: ["Maine State Museum", "Maine State House", "Old Fort Western, a former British colonial outpost", "One of the smallest U.S. state capitals by population"]
-    }, image: "/poi-images/augusta-me-cities-v2.webp"},
+    }, image: "/poi-images/augusta-me-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Augusta ist die Hauptstadt des US-Bundesstaates Maine und liegt am Kennebec River. Die Stadt wurde 1754 gegründet und ist seit 1832 Hauptstadt. Augusta beherbergt das Maine State Capitol und die University of Maine at Augusta. Die Wirtschaft basiert auf Regierungsdienstleistungen, Gesundheitswesen und Fertigung. Augusta hat etwa 19.000 Einwohner und ist die drittkleinste Hauptstadt der USA. Die Umgebung bietet reichlich Natur und Outdoor-Aktivitäten.",
+      hu: "Augusta Maine állam fővárosa, a Kennebec folyó partján fekszik. A várost 1754-ben alapították, és 1832 óta főváros. Augusta ad otthont a Maine State Capitolnak és a University of Maine at Augusta-nak. A gazdaság a kormányzati szolgáltatásokon, az egészségügyön és a gyártáson alapul. Lakossága kb. 19 000 fő, és az USA harmadik legkisebb fővárosa. A környék bőséges természeti szépséget és szabadtéri tevékenységeket kínál.",
+      ro: "Augusta este capitala statului Maine, situată pe râul Kennebec. Orașul a fost fondat în 1754 și este capitală din 1832. Augusta găzduiește Capitoliul statului Maine și Universitatea din Maine la Augusta. Economia se bazează pe servicii guvernamentale, sănătate și producție. Augusta are aproximativ 19.000 de locuitori și este a treia cea mai mică capitală de stat din SUA. Zona înconjurătoare oferă natură abundentă și activități în aer liber.",
+      en: "Augusta is the capital of Maine, located on the Kennebec River. Founded in 1754, it became the state capital in 1832. Augusta is home to the Maine State Capitol and the University of Maine at Augusta. The economy is based on government services, healthcare, and manufacturing. Augusta has about 19,000 residents, making it the third-smallest state capital in the US. The area offers abundant nature and outdoor activities.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 18.899 (2020)", "Fläche: 143 km²", "Gründung: 1754", "Höhe: 20 m", "Maine State Capitol: 1832 fertiggestellt", "Kennebec River: Länge 240 km"],
+      hu: ["Népesség: 18.899 (2020)", "Terület: 143 km²", "Alapítás: 1754", "Tengerszint feletti magasság: 20 m", "Maine State Capitol: 1832-ben készült el", "Kennebec folyó: hossza 240 km"],
+      ro: ["Populație: 18.899 (2020)", "Suprafață: 143 km²", "Fondare: 1754", "Altitudine: 20 m", "Capitoliul statului Maine: finalizat în 1832", "Râul Kennebec: lungime 240 km"],
+      en: ["Population: 18,899 (2020)", "Area: 55.2 sq mi (143 km²)", "Founded: 1754", "Elevation: 66 ft (20 m)", "Maine State Capitol: completed 1832", "Kennebec River: 150 miles (240 km) long"],
+    },
+  },
   {
     id: "concord-nh-cities-v2",
     type: "state-capital",
     parent: "US-NH",
     coords: [-71.5376, 43.2081],
-    name: { de: "Concord (New Hampshire)", hu: "Concord (New Hampshire)", ro: "Concord (New Hampshire)", en: "Concord, NH",
-image: "/poi-images/concord-nh-cities-v2.webp"
-},
+    name: { de: "Concord (New Hampshire)", hu: "Concord (New Hampshire)", ro: "Concord (New Hampshire)", en: "Concord, NH"},
+    image: "/poi-images/concord-nh-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von New Hampshire, bekannt für ihr Kapitolgebäude mit goldener Kuppel.",
       hu: "New Hampshire fővárosa, aranykupolás capitoliumáról ismert.",
@@ -2417,15 +2923,27 @@ image: "/poi-images/concord-nh-cities-v2.webp"
       hu: ["New Hampshire Állami Ház", "McAuliffe-Shepard Felfedező Központ", "Az USA legnagyobb capitoliuma, ahol a törvényhozás még mindig az eredeti üléstermeiben ülésezik", "Történelmi belváros"],
       ro: ["Casa de Stat din New Hampshire", "Centrul de Descoperiri McAuliffe-Shepard", "Cel mai mare capitoliu de stat din SUA în care legislativul se întrunește încă în camerele sale originale", "Centru istoric"],
       en: ["New Hampshire State House", "McAuliffe-Shepard Discovery Center", "Largest state capitol in the U.S. in which the legislature still meets in its original chambers", "Historic downtown"]
-    }, image: "/poi-images/concord-nh-cities-v2.webp"},
+    }, image: "/poi-images/concord-nh-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Concord ist die Hauptstadt des US-Bundesstaates New Hampshire und liegt am Merrimack River. Die Stadt wurde 1727 gegründet und ist seit 1808 Hauptstadt. Concord beherbergt das New Hampshire State Capitol, das älteste State Capitol der USA, in dem die Legislative noch in ihren ursprünglichen Räumen tagt. Die Wirtschaft basiert auf Regierungsdienstleistungen, Gesundheitswesen und Versicherungen. Concord hat etwa 44.000 Einwohner und ist bekannt für seine historische Architektur.",
+      hu: "Concord New Hampshire állam fővárosa, a Merrimack folyó partján fekszik. A várost 1727-ben alapították, és 1808 óta főváros. Concord ad otthont a New Hampshire State Capitolnak, az USA legrégebbi állami capitoliumának, ahol a törvényhozás még mindig az eredeti termekben ülésezik. A gazdaság a kormányzati szolgáltatásokon, az egészségügyön és a biztosításon alapul. Lakossága kb. 44 000 fő, és híres történelmi építészetéről.",
+      ro: "Concord este capitala statului New Hampshire, situată pe râul Merrimack. Orașul a fost fondat în 1727 și este capitală din 1808. Concord găzduiește Capitoliul statului New Hampshire, cel mai vechi capitoliu de stat din SUA, unde legislatura încă se reunește în sălile originale. Economia se bazează pe servicii guvernamentale, sănătate și asigurări. Concord are aproximativ 44.000 de locuitori și este cunoscut pentru arhitectura sa istorică.",
+      en: "Concord is the capital of New Hampshire, located on the Merrimack River. Founded in 1727, it became the capital in 1808. Concord is home to the New Hampshire State Capitol, the oldest US state capitol in which the legislature still meets in its original chambers. The economy is based on government services, healthcare, and insurance. Concord has about 44,000 residents and is known for its historic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 44.485 (2020)", "Fläche: 174 km²", "Gründung: 1727", "Höhe: 88 m", "New Hampshire State Capitol: 1819 fertiggestellt", "Merrimack River: Länge 190 km"],
+      hu: ["Népesség: 44.485 (2020)", "Terület: 174 km²", "Alapítás: 1727", "Tengerszint feletti magasság: 88 m", "New Hampshire State Capitol: 1819-ben készült el", "Merrimack folyó: hossza 190 km"],
+      ro: ["Populație: 44.485 (2020)", "Suprafață: 174 km²", "Fondare: 1727", "Altitudine: 88 m", "Capitoliul statului New Hampshire: finalizat în 1819", "Râul Merrimack: lungime 190 km"],
+      en: ["Population: 44,485 (2020)", "Area: 67.2 sq mi (174 km²)", "Founded: 1727", "Elevation: 289 ft (88 m)", "New Hampshire State Capitol: completed 1819", "Merrimack River: 118 miles (190 km) long"],
+    },
+  },
   {
     id: "montpelier-cities-v2",
     type: "state-capital",
     parent: "US-VT",
     coords: [-72.5754, 44.2601],
-    name: { de: "Montpelier", hu: "Montpelier", ro: "Montpelier", en: "Montpelier",
-image: "/poi-images/montpelier-cities-v2.webp"
-},
+    name: { de: "Montpelier", hu: "Montpelier", ro: "Montpelier", en: "Montpelier"},
+    image: "/poi-images/montpelier-cities-v2.webp",
     description: {
       de: "Die kleinste Hauptstadt eines Bundesstaates in den USA nach Einwohnerzahl.",
       hu: "Az USA legkisebb lakosságú állami fővárosa.",
@@ -2437,15 +2955,27 @@ image: "/poi-images/montpelier-cities-v2.webp"
       hu: ["Vermonti Állami Ház", "Vermonti Történeti Múzeum", "Nincs McDonald's étterem", "Hegyekkel és erdőkkel körülvéve"],
       ro: ["Casa de Stat din Vermont", "Muzeul de Istorie din Vermont", "Nu are niciun restaurant McDonald's", "Înconjurat de dealuri și păduri"],
       en: ["Vermont State House", "Vermont History Museum", "Does not have a McDonald's restaurant", "Surrounded by hills and forests"]
-    }, image: "/poi-images/montpelier-cities-v2.webp"},
+    }, image: "/poi-images/montpelier-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Montpelier ist die Hauptstadt des US-Bundesstaates Vermont und liegt am Winooski River. Mit nur etwa 8.000 Einwohnern ist sie die kleinste Hauptstadt der USA. Die Stadt wurde 1781 gegründet und ist seit 1805 Hauptstadt. Montpelier beherbergt das Vermont State Capitol, ein Beispiel für griechische Revival-Architektur. Die Wirtschaft basiert auf Regierungsdienstleistungen, Bildung und Versicherungen. Montpelier ist bekannt für seine historische Innenstadt und die umgebende Natur.",
+      hu: "Montpelier Vermont állam fővárosa, a Winooski folyó partján fekszik. Mindössze 8000 lakosával az USA legkisebb fővárosa. A várost 1781-ben alapították, és 1805 óta főváros. Montpelier ad otthont a Vermont State Capitolnak, amely a görög újjászületés építészetének egy példája. A gazdaság a kormányzati szolgáltatásokon, az oktatáson és a biztosításon alapul. Montpelier híres történelmi belvárosáról és a környező természetről.",
+      ro: "Montpelier este capitala statului Vermont, situată pe râul Winooski. Cu doar aproximativ 8.000 de locuitori, este cea mai mică capitală de stat din SUA. Orașul a fost fondat în 1781 și este capitală din 1805. Montpelier găzduiește Capitoliul statului Vermont, un exemplu de arhitectură neogreacă. Economia se bazează pe servicii guvernamentale, educație și asigurări. Montpelier este cunoscut pentru centrul său istoric și natura înconjurătoare.",
+      en: "Montpelier is the capital of Vermont, located on the Winooski River. With only about 8,000 residents, it is the smallest state capital in the US. Founded in 1781, it became the capital in 1805. Montpelier is home to the Vermont State Capitol, an example of Greek Revival architecture. The economy is based on government services, education, and insurance. Montpelier is known for its historic downtown and surrounding nature.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 8.074 (2020)", "Fläche: 26,6 km²", "Gründung: 1781", "Höhe: 162 m", "Vermont State Capitol: 1859 fertiggestellt", "Winooski River: Länge 43 km"],
+      hu: ["Népesség: 8.074 (2020)", "Terület: 26,6 km²", "Alapítás: 1781", "Tengerszint feletti magasság: 162 m", "Vermont State Capitol: 1859-ben készült el", "Winooski folyó: hossza 43 km"],
+      ro: ["Populație: 8.074 (2020)", "Suprafață: 26,6 km²", "Fondare: 1781", "Altitudine: 162 m", "Capitoliul statului Vermont: finalizat în 1859", "Râul Winooski: lungime 43 km"],
+      en: ["Population: 8,074 (2020)", "Area: 10.3 sq mi (26.6 km²)", "Founded: 1781", "Elevation: 531 ft (162 m)", "Vermont State Capitol: completed 1859", "Winooski River: 27 miles (43 km) long"],
+    },
+  },
   {
     id: "helena-cities-v2",
     type: "state-capital",
     parent: "US-MT",
     coords: [-112.0391, 46.5891],
-    name: { de: "Helena", hu: "Helena", ro: "Helena", en: "Helena",
-image: "/poi-images/helena-cities-v2.webp"
-},
+    name: { de: "Helena", hu: "Helena", ro: "Helena", en: "Helena"},
+    image: "/poi-images/helena-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Montana, gegründet nach Goldfunden im 19. Jahrhundert.",
       hu: "Montana fővárosa, a 19. századi aranyleletek után alapították.",
@@ -2457,15 +2987,27 @@ image: "/poi-images/helena-cities-v2.webp"
       hu: ["Montanai Állami Capitolium", "Reeder's Alley, egy történelmi negyed", "Gates of the Mountains, egy folyókanyon", "A kontinentális vízválasztó közelében"],
       ro: ["Capitoliul Statului Montana", "Aleea Reeder, un cartier istoric", "Porțile Munților, un canion fluvial", "Aproape de Diviziunea Continentală"],
       en: ["Montana State Capitol", "Reeder's Alley, a historic district", "Gates of the Mountains, a river canyon", "Near the Continental Divide"]
-    }, image: "/poi-images/helena-cities-v2.webp"},
+    }, image: "/poi-images/helena-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Helena wurde 1864 während des Montana-Goldrauschs gegründet und entwickelte sich schnell zum Handelszentrum. Die Stadt ist bekannt für ihre viktorianische Architektur und das Kapitol von Montana. Heute dient sie als Hauptstadt und Regierungssitz. Die Wirtschaft basiert auf Regierungsdienstleistungen, Gesundheitswesen und Tourismus. Der Missouri River fließt in der Nähe.",
+      hu: "Helena alapítását a montanai aranyláz inspirálta 1864-ben. A városban található a Montana Állami Kapitólium, amely 1902-ben épült. A történelmi belváros számos épülete a 19. századból származik. Helena ma a állam politikai központja, és fontos szerepet játszik a turizmusban is.",
+      ro: "Helena, capitala statului Montana, este situată în Munții Stâncoși la o altitudine de 1.182 m. Orașul a fost fondat în 1864 și este renumit pentru clădirile sale istorice și peisajele montane. Capitoliul statului, construit în stil neoclasic, domină centrul orașului.",
+      en: "Helena, the capital of Montana, was established during the gold rush of 1864. It serves as the state's political hub, housing the Montana State Capitol and various government agencies. The city's economy is diverse, including healthcare, education, and tourism. The nearby Missouri River offers recreational opportunities.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 32.315 (2020)", "Fläche: 42,8 km²", "Gründung: 1864", "Höhe: 1.182 m", "Kapitol erbaut: 1902", "Anzahl historischer Viertel: 1"],
+      hu: ["Népesség: 32.315 (2020)", "Terület: 42,8 km²", "Alapítás: 1864", "Tengerszint feletti magasság: 1.182 m", "Kapitólium építési év: 1902", "Történelmi negyedek száma: 1"],
+      ro: ["Populație: 32.315 (2020)", "Suprafață: 42,8 km²", "Fondat: 1864", "Altitudine: 1.182 m", "Capitoliul construit: 1902", "Număr de cartiere istorice: 1"],
+      en: ["Population: 32,315 (2020)", "Area: 42.8 km²", "Founded: 1864", "Elevation: 1,182 m", "Capitol built: 1902", "Historic districts: 1"],
+    },
+  },
   {
     id: "cheyenne-cities-v2",
     type: "state-capital",
     parent: "US-WY",
     coords: [-104.8202, 41.1399],
-    name: { de: "Cheyenne", hu: "Cheyenne", ro: "Cheyenne", en: "Cheyenne",
-image: "/poi-images/cheyenne-cities-v2.webp"
-},
+    name: { de: "Cheyenne", hu: "Cheyenne", ro: "Cheyenne", en: "Cheyenne"},
+    image: "/poi-images/cheyenne-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Wyoming, bekannt für das Cheyenne Frontier Days, das größte Outdoor-Rodeo der Welt.",
       hu: "Wyoming fővárosa, a Cheyenne Frontier Days-ről, a világ legnagyobb szabadtéri rodeójáról ismert.",
@@ -2495,9 +3037,8 @@ image: "/poi-images/cheyenne-cities-v2.webp"
     type: "state-capital",
     parent: "US-ND",
     coords: [-100.7837, 46.8083],
-    name: { de: "Bismarck", hu: "Bismarck", ro: "Bismarck", en: "Bismarck",
-image: "/poi-images/bismarck-cities-v2.webp"
-},
+    name: { de: "Bismarck", hu: "Bismarck", ro: "Bismarck", en: "Bismarck"},
+    image: "/poi-images/bismarck-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von North Dakota am Missouri River.",
       hu: "Észak-Dakota fővárosa a Missouri folyó partján.",
@@ -2509,15 +3050,27 @@ image: "/poi-images/bismarck-cities-v2.webp"
       hu: ["Észak-Dakotai Állami Capitolium, az állam legmagasabb épülete", "Észak-Dakotai Örökségi Központ és Állami Múzeum", "Lewis & Clark folyami hajó", "Fort Abraham Lincoln Állami Park a közelben"],
       ro: ["Capitoliul Statului Dakota de Nord, cea mai înaltă clădire din stat", "Centrul Patrimoniului și Muzeul de Stat din Dakota de Nord", "Barca fluvială Lewis & Clark", "Parcul Statal Fort Abraham Lincoln în apropiere"],
       en: ["North Dakota State Capitol, the tallest building in the state", "North Dakota Heritage Center & State Museum", "Lewis & Clark Riverboat", "Fort Abraham Lincoln State Park nearby"]
-    }, image: "/poi-images/bismarck-cities-v2.webp"},
+    }, image: "/poi-images/bismarck-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bismarck ist die Hauptstadt von North Dakota, gegründet 1872 im Zuge des Eisenbahnbaus. Sie liegt am Ostufer des Missouri River. Das North Dakota State Capitol ist das höchste Gebäude des Bundesstaates. Die Stadt ist ein Zentrum für Gesundheitswesen und Energiewirtschaft.",
+      hu: "Bismarck Észak-Dakota fővárosa, amelyet 1872-ben alapítottak vasútépítés közben. A Missouri folyó partján fekszik. Az állami kapitólium 1934-ben épült, és a modern építészet egyik példája. A város gazdasága az energiaiparra és az egészségügyre épül.",
+      ro: "Bismarck, capitala statului Dakota de Nord, a fost fondată în 1872. Orașul este situat pe malul râului Missouri și găzduiește Capitoliul Statului, o clădire cu 18 etaje. Economia se bazează pe petrol, gaze și servicii medicale.",
+      en: "Bismarck, the capital of North Dakota, was founded in 1872 as a railroad hub. It lies on the eastern bank of the Missouri River. The state capitol, completed in 1934, is a notable example of skyscraper-style government buildings. The economy is driven by energy, agriculture, and healthcare.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 73.622 (2020)", "Fläche: 80,9 km²", "Gründung: 1872", "Höhe: 514 m", "Kapitolhöhe: 73,5 m", "Anzahl der Etagen im Kapitol: 18"],
+      hu: ["Népesség: 73.622 (2020)", "Terület: 80,9 km²", "Alapítás: 1872", "Tengerszint feletti magasság: 514 m", "Kapitólium magassága: 73,5 m", "Emeletek száma a kapitóliumban: 18"],
+      ro: ["Populație: 73.622 (2020)", "Suprafață: 80,9 km²", "Fondat: 1872", "Altitudine: 514 m", "Înălțimea capitoliului: 73,5 m", "Număr de etaje: 18"],
+      en: ["Population: 73,622 (2020)", "Area: 80.9 km²", "Founded: 1872", "Elevation: 514 m", "Capitol height: 73.5 m", "Capitol floors: 18"],
+    },
+  },
   {
     id: "pierre-cities-v2",
     type: "state-capital",
     parent: "US-SD",
     coords: [-100.3510, 44.3683],
-    name: { de: "Pierre", hu: "Pierre", ro: "Pierre", en: "Pierre",
-image: "/poi-images/pierre-cities-v2.webp"
-},
+    name: { de: "Pierre", hu: "Pierre", ro: "Pierre", en: "Pierre"},
+    image: "/poi-images/pierre-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von South Dakota, eine der kleinsten Hauptstädte der USA.",
       hu: "Dél-Dakota fővárosa, az USA egyik legkisebb fővárosa.",
@@ -2529,15 +3082,27 @@ image: "/poi-images/pierre-cities-v2.webp"
       hu: ["Dél-Dakotai Állami Capitolium", "Dél-Dakotai Felfedező Központ", "A Missouri folyó mentén található", "Alacsony népsűrűség"],
       ro: ["Capitoliul Statului Dakota de Sud", "Centrul de Descoperiri din Dakota de Sud", "Situat pe râul Missouri", "Densitate scăzută a populației"],
       en: ["South Dakota State Capitol", "South Dakota Discovery Center", "Located on the Missouri River", "Low population density"]
-    }, image: "/poi-images/pierre-cities-v2.webp"},
+    }, image: "/poi-images/pierre-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pierre ist die Hauptstadt von South Dakota, gegründet 1880 am Missouri River. Sie ist eine der kleinsten Hauptstädte der USA. Das South Dakota State Capitol wurde 1910 fertiggestellt. Die Wirtschaft wird von Regierung, Landwirtschaft und Tourismus geprägt.",
+      hu: "Pierre Dél-Dakota fővárosa, 1880-ban alapították a Missouri folyó mellett. Az egyik legkisebb főváros az Egyesült Államokban. Az állami kapitólium 1910-ben nyílt meg. A gazdaság a mezőgazdaságra és az idegenforgalomra támaszkodik.",
+      ro: "Pierre, capitala statului Dakota de Sud, a fost fondată în 1880. Este unul dintre cele mai mici orașe capitole din SUA. Capitoliul, construit în stil renascentist, a fost finalizat în 1910. Economia locală se bazează pe administrație, agricultură și turism.",
+      en: "Pierre, the capital of South Dakota, was founded in 1880 along the Missouri River. It is the second smallest state capital by population. The state capitol building, completed in 1910, features a distinctive copper dome. The local economy is centered on government, agriculture, and recreation.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 14.091 (2020)", "Fläche: 33,7 km²", "Gründung: 1880", "Höhe: 442 m", "Kapitol fertiggestellt: 1910", "Kuppeldurchmesser: 20 m"],
+      hu: ["Népesség: 14.091 (2020)", "Terület: 33,7 km²", "Alapítás: 1880", "Tengerszint feletti magasság: 442 m", "Kapitólium befejezése: 1910", "Kupola átmérő: 20 m"],
+      ro: ["Populație: 14.091 (2020)", "Suprafață: 33,7 km²", "Fondat: 1880", "Altitudine: 442 m", "Capitoliul finalizat: 1910", "Diametrul cupolei: 20 m"],
+      en: ["Population: 14,091 (2020)", "Area: 33.7 km²", "Founded: 1880", "Elevation: 442 m", "Capitol completed: 1910", "Dome diameter: 20 m"],
+    },
+  },
   {
     id: "springfield-il-cities-v2",
     type: "state-capital",
     parent: "US-IL",
     coords: [-89.6501, 39.7817],
-    name: { de: "Springfield (Illinois)", hu: "Springfield (Illinois)", ro: "Springfield (Illinois)", en: "Springfield, IL",
-image: "/poi-images/springfield-il-cities-v2.webp"
-},
+    name: { de: "Springfield (Illinois)", hu: "Springfield (Illinois)", ro: "Springfield (Illinois)", en: "Springfield, IL"},
+    image: "/poi-images/springfield-il-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Illinois, bekannt als Heimat von Abraham Lincoln.",
       hu: "Illinois fővárosa, Abraham Lincoln otthonaként ismert.",
@@ -2549,15 +3114,27 @@ image: "/poi-images/springfield-il-cities-v2.webp"
       hu: ["Abraham Lincoln Elnöki Könyvtár és Múzeum", "Lincoln Otthona Nemzeti Történelmi Helyszín", "Lincoln sírja", "Illinois-i Állami Capitolium"],
       ro: ["Biblioteca și Muzeul Prezidențial Abraham Lincoln", "Situl Istoric Național Casa lui Lincoln", "Mormântul lui Lincoln", "Capitoliul Statului Illinois"],
       en: ["Abraham Lincoln Presidential Library and Museum", "Lincoln Home National Historic Site", "Lincoln's Tomb", "Illinois State Capitol"]
-    }, image: "/poi-images/springfield-il-cities-v2.webp"},
+    }, image: "/poi-images/springfield-il-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Springfield ist die Hauptstadt von Illinois, bekannt als Heimat von Abraham Lincoln. Das Illinois State Capitol wurde 1888 fertiggestellt. Die Stadt ist ein politisches und kulturelles Zentrum mit einer starken Wirtschaft in Regierung, Gesundheitswesen und Bildung.",
+      hu: "Springfield Illinois fővárosa, Abraham Lincoln otthonaként ismert. Az állami kapitólium 1888-ban készült el. A város fontos politikai központ, gazdaságát a kormányzat, az egészségügy és az oktatás jellemzi.",
+      ro: "Springfield, capitala statului Illinois, este cunoscută ca locul de baștină al lui Abraham Lincoln. Capitoliul statului, construit în stil neoclasic, a fost finalizat în 1888. Economia orașului se bazează pe administrația publică și servicii.",
+      en: "Springfield, the capital of Illinois, is famous as the home of Abraham Lincoln. The Illinois State Capitol, completed in 1888, features a towering dome. The city's economy is diverse, with government, healthcare, and education as major sectors. Tourism related to Lincoln is significant.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 114.394 (2020)", "Fläche: 171,3 km²", "Kapitol fertiggestellt: 1888", "Kuppelhöhe: 73,2 m", "Lincolns Begräbnisstätte: Oak Ridge Cemetery", "Anzahl der Museen: 10"],
+      hu: ["Népesség: 114.394 (2020)", "Terület: 171,3 km²", "Kapitólium befejezése: 1888", "Kupola magasság: 73,2 m", "Lincoln temetkezési helye: Oak Ridge temető", "Múzeumok száma: 10"],
+      ro: ["Populație: 114.394 (2020)", "Suprafață: 171,3 km²", "Capitoliul finalizat: 1888", "Înălțimea cupolei: 73,2 m", "Locul de înmormântare a lui Lincoln: Cimitirul Oak Ridge", "Număr de muzee: 10"],
+      en: ["Population: 114,394 (2020)", "Area: 171.3 km²", "Capitol completed: 1888", "Dome height: 73.2 m", "Lincoln's burial site: Oak Ridge Cemetery", "Number of museums: 10"],
+    },
+  },
   {
     id: "jefferson-city-cities-v2",
     type: "state-capital",
     parent: "US-MO",
     coords: [-92.1735, 38.5767],
-    name: { de: "Jefferson City", hu: "Jefferson City", ro: "Jefferson City", en: "Jefferson City",
-image: "/poi-images/jefferson-city-cities-v2.webp"
-},
+    name: { de: "Jefferson City", hu: "Jefferson City", ro: "Jefferson City", en: "Jefferson City"},
+    image: "/poi-images/jefferson-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Missouri, benannt nach Thomas Jefferson.",
       hu: "Missouri fővárosa, Thomas Jeffersonról nevezték el.",
@@ -2569,15 +3146,27 @@ image: "/poi-images/jefferson-city-cities-v2.webp"
       hu: ["Missouri Állami Capitolium", "Missouri Állami Fegyház túrák", "A Missouri folyó mentén található", "Fővárosként alapították"],
       ro: ["Capitoliul Statului Missouri", "Tururile Penitenciarului de Stat din Missouri", "Situat pe râul Missouri", "Fondat pentru a servi drept capitală"],
       en: ["Missouri State Capitol", "Missouri State Penitentiary tours", "Located on the Missouri River", "Founded specifically to serve as the state capital"]
-    }, image: "/poi-images/jefferson-city-cities-v2.webp"},
+    }, image: "/poi-images/jefferson-city-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jefferson City ist die Hauptstadt von Missouri, am Missouri River gelegen. Das Missouri State Capitol wurde 1924 nach einem Brand neu erbaut. Die Stadt ist ein wichtiges politisches Zentrum und beherbergt die Lincoln University.",
+      hu: "Jefferson City Missouri fővárosa, a Missouri folyó partján. Az állami kapitólium 1924-ben épült újjá egy tűzvész után. A város politikai központ, és itt található a Lincoln University is.",
+      ro: "Jefferson City, capitala statului Missouri, este situată pe malul râului Missouri. Capitoliul statului, reconstruit în 1924 după un incendiu, domină orașul. Economia locală se bazează pe administrație și educație.",
+      en: "Jefferson City, the capital of Missouri, is located on the Missouri River. The state capitol building, rebuilt in 1924 after a fire, features a large dome. The city hosts the Missouri State Capitol and several governmental agencies. Education and healthcare are key employers.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 43.228 (2020)", "Fläche: 97,3 km²", "Kapitolneubau: 1924", "Höhe: 192 m", "Anzahl der Regierungsgebäude: 15", "Lincoln University gegründet: 1866"],
+      hu: ["Népesség: 43.228 (2020)", "Terület: 97,3 km²", "Kapitólium újjáépítése: 1924", "Tengerszint feletti magasság: 192 m", "Kormányzati épületek száma: 15", "Lincoln University alapítva: 1866"],
+      ro: ["Populație: 43.228 (2020)", "Suprafață: 97,3 km²", "Reconstrucția capitoliului: 1924", "Altitudine: 192 m", "Număr de clădiri guvernamentale: 15", "Universitatea Lincoln fondată: 1866"],
+      en: ["Population: 43,228 (2020)", "Area: 97.3 km²", "Capitol rebuilt: 1924", "Elevation: 192 m", "Government buildings: 15", "Lincoln University founded: 1866"],
+    },
+  },
   {
     id: "frankfort-cities-v2",
     type: "state-capital",
     parent: "US-KY",
     coords: [-84.8734, 38.2009],
-    name: { de: "Frankfort", hu: "Frankfort", ro: "Frankfort", en: "Frankfort",
-image: "/poi-images/frankfort-cities-v2.webp"
-},
+    name: { de: "Frankfort", hu: "Frankfort", ro: "Frankfort", en: "Frankfort"},
+    image: "/poi-images/frankfort-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Kentucky, eine kleine Stadt am Kentucky River.",
       hu: "Kentucky fővárosa, egy kisváros a Kentucky folyó partján.",
@@ -2589,15 +3178,27 @@ image: "/poi-images/frankfort-cities-v2.webp"
       hu: ["Kentuckyi Állami Capitolium", "Daniel Boone sírja", "Liberty Hall Történelmi Helyszín", "A bourbon gyártás központja"],
       ro: ["Capitoliul Statului Kentucky", "Mormântul lui Daniel Boone", "Situl Istoric Liberty Hall", "Centru de producție a bourbonului"],
       en: ["Kentucky State Capitol", "Grave of Daniel Boone", "Liberty Hall Historic Site", "Center of bourbon production"]
-    }, image: "/poi-images/frankfort-cities-v2.webp"},
+    }, image: "/poi-images/frankfort-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Frankfort ist die Hauptstadt von Kentucky, am Kentucky River gelegen. Das Kentucky State Capitol aus dem Jahr 1910 ist ein prächtiges Bauwerk. Die Stadt hat eine reiche Geschichte als Zentrum der Bourbon-Produktion und des Tabakanbaus.",
+      hu: "Frankfort Kentucky fővárosa, a Kentucky folyó partján. Az 1910-ben épült kapitólium a neoklasszicista stílus egyik kiemelkedő példája. A város híres a bourbon whisky gyártásáról és a dohánytermesztésről.",
+      ro: "Frankfort, capitala statului Kentucky, este situată pe râul Kentucky. Capitoliul, construit în 1910, este un exemplu de arhitectură neoclasică. Orașul este cunoscut pentru producția de bourbon și culturile de tutun.",
+      en: "Frankfort, the capital of Kentucky, lies along the Kentucky River. The state capitol, completed in 1910, features a dome adorned with murals. The city is known for its bourbon distilleries and historic sites. Government and manufacturing are key economic drivers.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 28.602 (2020)", "Fläche: 38,9 km²", "Kapitol fertiggestellt: 1910", "Höhe: 155 m", "Anzahl der Brennereien: 7", "Jährliche Bourbonproduktion: 1,2 Mio. Fässer"],
+      hu: ["Népesség: 28.602 (2020)", "Terület: 38,9 km²", "Kapitólium befejezése: 1910", "Tengerszint feletti magasság: 155 m", "Számos szeszfőzde: 7", "Éves bourbon termelés: 1,2 millió hordó"],
+      ro: ["Populație: 28.602 (2020)", "Suprafață: 38,9 km²", "Capitoliul finalizat: 1910", "Altitudine: 155 m", "Număr de distilerii: 7", "Producția anuală de bourbon: 1,2 milioane butoaie"],
+      en: ["Population: 28,602 (2020)", "Area: 38.9 km²", "Capitol completed: 1910", "Elevation: 155 m", "Number of distilleries: 7", "Annual bourbon production: 1.2 million barrels"],
+    },
+  },
   {
     id: "lansing-cities-v2",
     type: "state-capital",
     parent: "US-MI",
     coords: [-84.5555, 42.7325],
-    name: { de: "Lansing", hu: "Lansing", ro: "Lansing", en: "Lansing",
-image: "/poi-images/lansing-cities-v2.webp"
-},
+    name: { de: "Lansing", hu: "Lansing", ro: "Lansing", en: "Lansing"},
+    image: "/poi-images/lansing-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Michigan, bekannt für ihre Rolle in der Automobilindustrie und als Regierungssitz.",
       hu: "Michigan fővárosa, az autóiparban betöltött szerepéről és kormányzati székhelyként ismert.",
@@ -2609,15 +3210,27 @@ image: "/poi-images/lansing-cities-v2.webp"
       hu: ["Michigani Állami Capitolium", "R.E. Olds Közlekedési Múzeum", "Michigani Állami Egyetem a közelben (East Lansing)", "Oktatási és kormányzati központ"],
       ro: ["Capitoliul Statului Michigan", "Muzeul Transporturilor R.E. Olds", "Universitatea de Stat din Michigan în apropiere (East Lansing)", "Centru pentru educație și guvern"],
       en: ["Michigan State Capitol", "R.E. Olds Transportation Museum", "Michigan State University nearby (East Lansing)", "Center for education and government"]
-    }, image: "/poi-images/lansing-cities-v2.webp"},
+    }, image: "/poi-images/lansing-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Lansing ist die Hauptstadt von Michigan, am Zusammenfluss von Grand und Red Cedar River. Das Michigan State Capitol wurde 1879 fertiggestellt. Die Stadt ist ein bedeutendes Zentrum für Automobilindustrie und Regierungswesen.",
+      hu: "Lansing Michigan fővárosa, a Grand és a Red Cedar folyók találkozásánál. Az 1879-ben épült kapitólium a neoklasszicista építészet egyik gyöngyszeme. A város az autóipar és a kormányzati szektor központja.",
+      ro: "Lansing, capitala statului Michigan, este situată la confluența râurilor Grand și Red Cedar. Capitoliul, construit în 1879, este un monument istoric. Orașul este un centru important pentru industria auto și administrația publică.",
+      en: "Lansing, the capital of Michigan, sits at the confluence of the Grand and Red Cedar rivers. The Michigan State Capitol, completed in 1879, is a National Historic Landmark. The economy is bolstered by government, healthcare, and the automotive industry, with General Motors having a major presence.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 112.644 (2020)", "Fläche: 95,1 km²", "Kapitol fertiggestellt: 1879", "Höhe: 260 m", "General Motors Werk: 1", "Anzahl der Hochschulen: 4"],
+      hu: ["Népesség: 112.644 (2020)", "Terület: 95,1 km²", "Kapitólium befejezése: 1879", "Tengerszint feletti magasság: 260 m", "General Motors gyár: 1", "Főiskolák száma: 4"],
+      ro: ["Populație: 112.644 (2020)", "Suprafață: 95,1 km²", "Capitoliul finalizat: 1879", "Altitudine: 260 m", "Fabrica General Motors: 1", "Număr de colegii: 4"],
+      en: ["Population: 112,644 (2020)", "Area: 95.1 km²", "Capitol completed: 1879", "Elevation: 260 m", "General Motors plant: 1", "Number of colleges: 4"],
+    },
+  },
   {
     id: "madison-wi-cities-v2",
     type: "state-capital",
     parent: "US-WI",
     coords: [-89.4012, 43.0731],
-    name: { de: "Madison (Wisconsin)", hu: "Madison (Wisconsin)", ro: "Madison (Wisconsin)", en: "Madison, WI",
-image: "/poi-images/madison-wi-cities-v2.webp"
-},
+    name: { de: "Madison (Wisconsin)", hu: "Madison (Wisconsin)", ro: "Madison (Wisconsin)", en: "Madison, WI"},
+    image: "/poi-images/madison-wi-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Wisconsin, auf einer Landenge zwischen zwei Seen gebaut.",
       hu: "Wisconsin fővárosa, egy földszorosra épült két tó között.",
@@ -2629,15 +3242,27 @@ image: "/poi-images/madison-wi-cities-v2.webp"
       hu: ["Wisconsini Egyetem-Madison", "Wisconsini Állami Capitolium", "Dane megyei termelői piac, az egyik legnagyobb az USA-ban", "Magas életminőség és kerékpárbarát"],
       ro: ["Universitatea din Wisconsin-Madison", "Capitoliul Statului Wisconsin", "Piața Fermierilor din Comitatul Dane, una dintre cele mai mari din SUA", "Calitate ridicată a vieții și prietenoasă cu bicicletele"],
       en: ["University of Wisconsin-Madison", "Wisconsin State Capitol", "Dane County Farmers' Market, one of the largest in the U.S.", "High quality of life and bike-friendly"]
-    }, image: "/poi-images/madison-wi-cities-v2.webp"},
+    }, image: "/poi-images/madison-wi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Madison ist die Hauptstadt von Wisconsin, zwischen den Seen Mendota und Monona gelegen. Das Wisconsin State Capitol wurde 1917 fertiggestellt. Die Stadt ist bekannt für die University of Wisconsin-Madison und ihre progressive Politik.",
+      hu: "Madison Wisconsin fővárosa, a Mendota és a Monona tavak között. Az 1917-ben elkészült kapitólium kupolája a legmagasabb az Egyesült Államokban. A város otthont ad a Wisconsin-Madison Egyetemnek és számos biotechnológiai cégnek.",
+      ro: "Madison, capitala statului Wisconsin, este situată între lacurile Mendota și Monona. Capitoliul, finalizat în 1917, are cea mai înaltă cupolă dintre toate capitoliile statale. Universitatea din Wisconsin-Madison domină economia locală.",
+      en: "Madison, the capital of Wisconsin, is set on an isthmus between Lakes Mendota and Monona. The state capitol, completed in 1917, features the tallest dome of any state capitol. The University of Wisconsin-Madison is a major employer and research institution. The city is known for its vibrant cultural scene.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 269.840 (2020)", "Fläche: 243,5 km²", "Kapitol fertiggestellt: 1917", "Kuppelhöhe: 86,6 m", "Universität gegründet: 1848", "Anzahl der Seen: 4"],
+      hu: ["Népesség: 269.840 (2020)", "Terület: 243,5 km²", "Kapitólium befejezése: 1917", "Kupola magasság: 86,6 m", "Egyetem alapítva: 1848", "Tavak száma: 4"],
+      ro: ["Populație: 269.840 (2020)", "Suprafață: 243,5 km²", "Capitoliul finalizat: 1917", "Înălțimea cupolei: 86,6 m", "Universitatea fondată: 1848", "Număr de lacuri: 4"],
+      en: ["Population: 269,840 (2020)", "Area: 243.5 km²", "Capitol completed: 1917", "Dome height: 86.6 m", "University founded: 1848", "Number of lakes: 4"],
+    },
+  },
   {
     id: "tallahassee-cities-v2",
     type: "state-capital",
     parent: "US-FL",
     coords: [-84.2807, 30.4383],
-    name: { de: "Tallahassee", hu: "Tallahassee", ro: "Tallahassee", en: "Tallahassee",
-image: "/poi-images/tallahassee-cities-v2.webp"
-},
+    name: { de: "Tallahassee", hu: "Tallahassee", ro: "Tallahassee", en: "Tallahassee"},
+    image: "/poi-images/tallahassee-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Florida mit einer hügeligen Landschaft und mit spanischem Moos bewachsenen Eichen.",
       hu: "Florida fővárosa, dombos tájjal és spanyol mohával borított tölgyfákkal.",
@@ -2649,15 +3274,27 @@ image: "/poi-images/tallahassee-cities-v2.webp"
       hu: ["Floridai Állami Egyetem", "Floridai A&M Egyetem", "Mission San Luis de Apalachee", "Canopy Roads, festői, fákkal szegélyezett utak"],
       ro: ["Universitatea de Stat din Florida", "Universitatea Florida A&M", "Misiunea San Luis de Apalachee", "Drumurile Canopy, drumuri pitorești mărginite de copaci"],
       en: ["Florida State University", "Florida A&M University", "Mission San Luis de Apalachee", "Canopy roads, scenic tree-lined streets"]
-    }, image: "/poi-images/tallahassee-cities-v2.webp"},
+    }, image: "/poi-images/tallahassee-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tallahassee ist die Hauptstadt von Florida, im Panhandle gelegen. Das Florida State Capitol besteht aus einem historischen Gebäude von 1845 und einem modernen Turm von 1977. Die Stadt ist ein Zentrum für Bildung und Regierung mit zwei großen Universitäten.",
+      hu: "Tallahassee Florida fővárosa, a Panhandle régióban. Az állami kapitólium egy régi (1845) és egy új (1977) épületből áll. A város otthont ad a Florida State University és a Florida A&M University számára.",
+      ro: "Tallahassee, capitala statului Florida, este situată în regiunea Panhandle. Capitoliul statului combină o clădire istorică din 1845 cu un turn modern din 1977. Orașul este un centru educațional major, găzduind două universități importante.",
+      en: "Tallahassee, the capital of Florida, is located in the Panhandle. The state capitol complex includes the Historic Capitol (1845) and the 22-story New Capitol (1977). The city is a hub for higher education, hosting Florida State University and Florida A&M University. Government and education are top employers.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 196.169 (2020)", "Fläche: 267,8 km²", "Historisches Kapitol: 1845", "Neues Kapitol Höhe: 100 m", "Universitäten: 2", "Durchschnittstemperatur: 20°C"],
+      hu: ["Népesség: 196.169 (2020)", "Terület: 267,8 km²", "Történelmi kapitólium: 1845", "Új kapitólium magassága: 100 m", "Egyetemek száma: 2", "Átlaghőmérséklet: 20°C"],
+      ro: ["Populație: 196.169 (2020)", "Suprafață: 267,8 km²", "Capitoliul istoric: 1845", "Înălțimea noului capitoliu: 100 m", "Număr de universități: 2", "Temperatura medie: 20°C"],
+      en: ["Population: 196,169 (2020)", "Area: 267.8 km²", "Historic capitol built: 1845", "New capitol height: 100 m", "Number of universities: 2", "Average temperature: 20°C"],
+    },
+  },
   {
     id: "charleston-wv-cities-v2",
     type: "state-capital",
     parent: "US-WV",
     coords: [-81.6326, 38.3498],
-    name: { de: "Charleston (West Virginia)", hu: "Charleston (Nyugat-Virginia)", ro: "Charleston (Virginia de Vest)", en: "Charleston, WV",
-image: "/poi-images/charleston-wv-cities-v2.webp"
-},
+    name: { de: "Charleston (West Virginia)", hu: "Charleston (Nyugat-Virginia)", ro: "Charleston (Virginia de Vest)", en: "Charleston, WV"},
+    image: "/poi-images/charleston-wv-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von West Virginia am Zusammenfluss von Elk und Kanawha River.",
       hu: "Nyugat-Virginia fővárosa az Elk és a Kanawha folyók összefolyásánál.",
@@ -2669,15 +3306,27 @@ image: "/poi-images/charleston-wv-cities-v2.webp"
       hu: ["Nyugat-Virginiai Állami Capitolium aranykupolával", "Nyugat-Virginiai Állami Múzeum", "Clay Művészeti és Tudományos Központ", "Történelmi East End"],
       ro: ["Capitoliul Statului Virginia de Vest cu dom auriu", "Muzeul de Stat din Virginia de Vest", "Centrul Clay pentru Arte și Științe", "Cartierul istoric East End"],
       en: ["West Virginia State Capitol with a gold dome", "West Virginia State Museum", "Clay Center for the Arts and Sciences", "Historic East End"]
-    }, image: "/poi-images/charleston-wv-cities-v2.webp"},
+    }, image: "/poi-images/charleston-wv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Charleston ist die Hauptstadt von West Virginia, am Kanawha River gelegen. Das West Virginia State Capitol wurde 1932 fertiggestellt. Die Stadt ist ein Zentrum für Kohleindustrie und chemische Produktion. Der State Capitol Building ist golden überzogen.",
+      hu: "Charleston Nyugat-Virginia fővárosa, a Kanawha folyó partján. Az 1932-ben elkészült állami kapitólium aranyozott kupolájáról híres. A város gazdasága a szénbányászatra és a vegyiparra épül.",
+      ro: "Charleston, capitala statului Virginia de Vest, este situată pe râul Kanawha. Capitoliul, finalizat în 1932, are o cupolă aurită. Orașul este un centru pentru industria cărbunelui și chimică.",
+      en: "Charleston, the capital of West Virginia, lies along the Kanawha River. The state capitol, completed in 1932, features a gold-leafed dome. The city's economy is heavily tied to coal mining and chemical manufacturing. It also serves as a healthcare hub for the region.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 48.864 (2020)", "Fläche: 86,8 km²", "Kapitol fertiggestellt: 1932", "Kuppelhöhe: 79,2 m", "Anzahl der Blattgoldblätter: 150.000", "Kohleförderung: 20 Mio. Tonnen jährlich"],
+      hu: ["Népesség: 48.864 (2020)", "Terület: 86,8 km²", "Kapitólium befejezése: 1932", "Kupola magasság: 79,2 m", "Aranylevelek száma: 150.000", "Széntermelés: 20 millió tonna évente"],
+      ro: ["Populație: 48.864 (2020)", "Suprafață: 86,8 km²", "Capitoliul finalizat: 1932", "Înălțimea cupolei: 79,2 m", "Număr de foiță de aur: 150.000", "Producția de cărbune: 20 milioane tone anual"],
+      en: ["Population: 48,864 (2020)", "Area: 86.8 km²", "Capitol completed: 1932", "Dome height: 79.2 m", "Gold leaf sheets used: 150,000", "Annual coal production: 20 million tons"],
+    },
+  },
   {
     id: "salem-or-cities-v2",
     type: "state-capital",
     parent: "US-OR",
     coords: [-123.0351, 44.9429],
-    name: { de: "Salem (Oregon)", hu: "Salem (Oregon)", ro: "Salem (Oregon)", en: "Salem, OR",
-image: "/poi-images/salem-or-cities-v2.webp"
-},
+    name: { de: "Salem (Oregon)", hu: "Salem (Oregon)", ro: "Salem (Oregon)", en: "Salem, OR"},
+    image: "/poi-images/salem-or-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Oregon im Willamette Valley, umgeben von Weinbergen und Ackerland.",
       hu: "Oregon fővárosa a Willamette-völgyben, szőlőültetvényekkel és termőföldekkel körülvéve.",
@@ -2689,15 +3338,27 @@ image: "/poi-images/salem-or-cities-v2.webp"
       hu: ["Oregoni Állami Capitolium", "Willamette Egyetem", "Enchanted Forest, egy vidámpark", "Az oregoni borvidékek közelében"],
       ro: ["Capitoliul Statului Oregon", "Universitatea Willamette", "Pădurea Fermecată, un parc tematic", "Aproape de regiunile viticole din Oregon"],
       en: ["Oregon State Capitol", "Willamette University", "Enchanted Forest, a theme park", "Near Oregon's wine country"]
-    }, image: "/poi-images/salem-or-cities-v2.webp"},
+    }, image: "/poi-images/salem-or-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Salem ist die Hauptstadt von Oregon, im Willamette Valley gelegen. Das Oregon State Capitol wurde 1938 fertiggestellt und hat eine markante Kuppel. Die Stadt ist ein Zentrum für Landwirtschaft, insbesondere Weinbau, und Regierung.",
+      hu: "Salem Oregon fővárosa, a Willamette-völgyben. Az 1938-ban épült kapitólium egyedülálló, arany csillagot viselő tornyával ismert. A város gazdasága a mezőgazdaságra, különösen a bortermelésre, és a kormányzatra épül.",
+      ro: "Salem, capitala statului Oregon, este situată în Valea Willamette. Capitoliul, finalizat în 1938, este cunoscut pentru acoperișul său aurit. Orașul este un centru agricol, renumit pentru podgorii și vinificație.",
+      en: "Salem, the capital of Oregon, is located in the fertile Willamette Valley. The Oregon State Capitol, completed in 1938, features a distinctive gilded statue on top. The economy is driven by government, healthcare, and agriculture, with a strong wine industry. The city is also home to Willamette University.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 175.535 (2020)", "Fläche: 126,5 km²", "Kapitol fertiggestellt: 1938", "Kuppelfigur: vergoldete Statue", "Willamette University gegründet: 1842", "Weinberge: 200+"],
+      hu: ["Népesség: 175.535 (2020)", "Terület: 126,5 km²", "Kapitólium befejezése: 1938", "Kupola szobor: aranyozott szobor", "Willamette University alapítva: 1842", "Szőlőültetvények: 200+"],
+      ro: ["Populație: 175.535 (2020)", "Suprafață: 126,5 km²", "Capitoliul finalizat: 1938", "Statuia de pe cupolă: statuie aurită", "Universitatea Willamette fondată: 1842", "Podgorii: 200+"],
+      en: ["Population: 175,535 (2020)", "Area: 126.5 km²", "Capitol completed: 1938", "Dome statue: gilded pioneer", "Willamette University founded: 1842", "Vineyards: 200+"],
+    },
+  },
   {
     id: "olympia-cities-v2",
     type: "state-capital",
     parent: "US-WA",
     coords: [-122.9007, 47.0379],
-    name: { de: "Olympia", hu: "Olympia", ro: "Olympia", en: "Olympia",
-image: "/poi-images/olympia-cities-v2.webp"
-},
+    name: { de: "Olympia", hu: "Olympia", ro: "Olympia", en: "Olympia"},
+    image: "/poi-images/olympia-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Washington am südlichen Ende des Puget Sound.",
       hu: "Washington fővárosa a Puget Sound déli végén.",
@@ -2709,15 +3370,27 @@ image: "/poi-images/olympia-cities-v2.webp"
       hu: ["Washingtoni Állami Capitolium", "Nisqually Nemzeti Vadvédelmi Terület a közelben", "Percival Landing Park a vízparton", "Kicsi, de élénk művészeti élet"],
       ro: ["Capitoliul Statului Washington", "Refugiul Național de Faună Sălbatică Nisqually în apropiere", "Parcul Percival Landing pe malul apei", "Scenă artistică mică, dar vibrantă"],
       en: ["Washington State Capitol", "Nisqually National Wildlife Refuge nearby", "Percival Landing Park on the waterfront", "Small but vibrant arts scene"]
-    }, image: "/poi-images/olympia-cities-v2.webp"},
+    }, image: "/poi-images/olympia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Olympia ist die Hauptstadt von Washington, am südlichen Ende des Puget Sound. Das Washington State Capitol wurde 1928 fertiggestellt. Die Stadt ist ein politisches Zentrum mit einer starken Wirtschaft in Regierungsdienstleistungen und Umweltschutz.",
+      hu: "Olympia Washington fővárosa, a Puget Sound déli végén. Az 1928-ban épült kapitólium a római Szent Péter-bazilika ihletésű kupolájáról ismert. A város fontos szerepet játszik a környezetvédelemben.",
+      ro: "Olympia, capitala statului Washington, este situată la capătul sudic al Puget Sound. Capitoliul, finalizat în 1928, are o cupolă inspirată de Bazilica Sf. Petru. Orașul este un centru pentru administrație și protecția mediului.",
+      en: "Olympia, the capital of Washington, sits at the southern tip of Puget Sound. The Washington State Capitol, completed in 1928, features a dome modeled after St. Peter's Basilica. The city's economy is centered on government, healthcare, and environmental services. It is a gateway to the Olympic Peninsula.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 52.555 (2020)", "Fläche: 48,5 km²", "Kapitol fertiggestellt: 1928", "Kuppelhöhe: 87,5 m", "Legislaturperiode: 105 Tage", "Anzahl der State Parks: 5"],
+      hu: ["Népesség: 52.555 (2020)", "Terület: 48,5 km²", "Kapitólium befejezése: 1928", "Kupola magasság: 87,5 m", "Törvényhozási ülésszak: 105 nap", "Állami parkok száma: 5"],
+      ro: ["Populație: 52.555 (2020)", "Suprafață: 48,5 km²", "Capitoliul finalizat: 1928", "Înălțimea cupolei: 87,5 m", "Sesiune legislativă: 105 zile", "Număr de parcuri de stat: 5"],
+      en: ["Population: 52,555 (2020)", "Area: 48.5 km²", "Capitol completed: 1928", "Dome height: 87.5 m", "Legislative session length: 105 days", "Number of state parks: 5"],
+    },
+  },
   {
     id: "carson-city-cities-v2",
     type: "state-capital",
     parent: "US-NV",
     coords: [-119.7674, 39.1638],
-    name: { de: "Carson City", hu: "Carson City", ro: "Carson City", en: "Carson City",
-image: "/poi-images/carson-city-cities-v2.webp"
-},
+    name: { de: "Carson City", hu: "Carson City", ro: "Carson City", en: "Carson City"},
+    image: "/poi-images/carson-city-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Nevada, eine unabhängige Stadt in der Nähe des Lake Tahoe.",
       hu: "Nevada fővárosa, független város a Tahoe-tó közelében.",
@@ -2729,15 +3402,27 @@ image: "/poi-images/carson-city-cities-v2.webp"
       hu: ["Nevadai Állami Capitolium", "Nevadai Állami Vasúti Múzeum", "A történelmi Virginia City közelében", "Kapu a Sierra Nevadához"],
       ro: ["Capitoliul Statului Nevada", "Muzeul Căilor Ferate de Stat din Nevada", "Aproape de orașul istoric Virginia City", "Poarta de acces către Sierra Nevada"],
       en: ["Nevada State Capitol", "Nevada State Railroad Museum", "Near the historic town of Virginia City", "Gateway to the Sierra Nevada"]
-    }, image: "/poi-images/carson-city-cities-v2.webp"},
+    }, image: "/poi-images/carson-city-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Carson City ist die Hauptstadt von Nevada, am Fuß der Sierra Nevada. Das Nevada State Capitol wurde 1871 fertiggestellt. Die Stadt ist bekannt für ihre Geschichte im Silberbergbau und ihre Nähe zum Lake Tahoe.",
+      hu: "Carson City Nevada fővárosa, a Sierra Nevada hegység lábánál. Az 1871-ben épült kapitólium a régi nyugat hangulatát idézi. A város gazdasága a szerencsejátékra és az idegenforgalomra épül.",
+      ro: "Carson City, capitala statului Nevada, este situată la poalele munților Sierra Nevada. Capitoliul, construit în 1871, este o clădire istorică. Orașul este cunoscut pentru exploatările de argint și apropierea de Lacul Tahoe.",
+      en: "Carson City, the capital of Nevada, is nestled at the base of the Sierra Nevada range. The Nevada State Capitol, built in 1871, reflects the state's pioneer heritage. The city's economy is driven by government, tourism, and nearby Lake Tahoe's recreation. It maintains a small-town feel despite being a capital.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 58.639 (2020)", "Fläche: 407,3 km²", "Kapitol fertiggestellt: 1871", "Höhe: 1.463 m", "Entfernung zu Lake Tahoe: 20 km", "Silberproduktion historisch: 100 Mio. $"],
+      hu: ["Népesség: 58.639 (2020)", "Terület: 407,3 km²", "Kapitólium befejezése: 1871", "Tengerszint feletti magasság: 1.463 m", "Távolság a Tahoe-tótól: 20 km", "Történelmi ezüsttermelés: 100 millió $"],
+      ro: ["Populație: 58.639 (2020)", "Suprafață: 407,3 km²", "Capitoliul finalizat: 1871", "Altitudine: 1.463 m", "Distanța până la Lacul Tahoe: 20 km", "Producția istorică de argint: 100 milioane $"],
+      en: ["Population: 58,639 (2020)", "Area: 407.3 km²", "Capitol completed: 1871", "Elevation: 1,463 m", "Distance to Lake Tahoe: 20 km", "Historical silver production: $100 million"],
+    },
+  },
   {
     id: "lincoln-ne-cities-v2",
     type: "state-capital",
     parent: "US-NE",
     coords: [-96.6851, 40.8136],
-    name: { de: "Lincoln (Nebraska)", hu: "Lincoln (Nebraska)", ro: "Lincoln (Nebraska)", en: "Lincoln, NE",
-image: "/poi-images/lincoln-ne-cities-v2.webp"
-},
+    name: { de: "Lincoln (Nebraska)", hu: "Lincoln (Nebraska)", ro: "Lincoln (Nebraska)", en: "Lincoln, NE"},
+    image: "/poi-images/lincoln-ne-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Nebraska und Sitz der University of Nebraska.",
       hu: "Nebraska fővárosa és a Nebraskai Egyetem székhelye.",
@@ -2749,7 +3434,19 @@ image: "/poi-images/lincoln-ne-cities-v2.webp"
       hu: ["Nebraskai Állami Capitolium, egy egyedi felhőkarcoló-torony", "Nebraska-Lincolni Egyetem", "Süllyesztett kertek", "Az Amerikai Sebesség Múzeuma"],
       ro: ["Capitoliul Statului Nebraska, un turn unic de zgârie-nori", "Universitatea din Nebraska-Lincoln", "Grădinile Scufundate", "Muzeul Vitezei Americane"],
       en: ["Nebraska State Capitol, a unique skyscraper tower", "University of Nebraska-Lincoln", "Sunken Gardens", "Museum of American Speed"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Lincoln ist die Hauptstadt von Nebraska, 1867 gegründet. Das Nebraska State Capitol wurde 1932 fertiggestellt und ist ein Wahrzeichen des Art-déco-Stils. Die University of Nebraska-Lincoln prägt die Stadt.",
+      hu: "Lincoln Nebraska fővárosa, 1867-ben alapították. Az 1932-ben elkészült kapitólium amerikai egyedülálló toronnyal rendelkezik. A város otthont ad a Nebraska-Lincoln Egyetemnek, amely a mezőgazdasági kutatásokról ismert.",
+      ro: "Lincoln, capitala statului Nebraska, a fost fondată în 1867. Capitoliul, finalizat în 1932, este un exemplu de arhitectură Art Deco. Universitatea din Nebraska-Lincoln este un centru major de cercetare agricolă.",
+      en: "Lincoln, the capital of Nebraska, was founded in 1867 as the state capital. The Nebraska State Capitol, completed in 1932, is a distinctive skyscraper-style building. The University of Nebraska-Lincoln is a major employer and research institution, especially in agriculture. The city has a diversified economy.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: 291.082 (2020)", "Fläche: 242,6 km²", "Kapitol fertiggestellt: 1932", "Kapitol Höhe: 121,9 m", "Universität gegründet: 1869", "Agrarforschungsausgaben: 300 Mio. $ jährlich"],
+      hu: ["Népesség: 291.082 (2020)", "Terület: 242,6 km²", "Kapitólium befejezése: 1932", "Kapitólium magasság: 121,9 m", "Egyetem alapítva: 1869", "Mezőgazdasági kutatási kiadások: 300 millió $ évente"],
+      ro: ["Populație: 291.082 (2020)", "Suprafață: 242,6 km²", "Capitoliul finalizat: 1932", "Înălțimea capitoliului: 121,9 m", "Universitatea fondată: 1869", "Cheltuieli de cercetare agricolă: 300 milioane $ anual"],
+      en: ["Population: 291,082 (2020)", "Area: 242.6 km²", "Capitol completed: 1932", "Capitol height: 121.9 m", "University founded: 1869", "Agricultural research spending: $300 million annually"],
+    },
   }
 ]
 

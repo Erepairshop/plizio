@@ -12,9 +12,8 @@ export const poiExtraMexicoHistoryV2: POI[] = [
       de: "El Tajín",
       hu: "El Tajín",
       ro: "El Tajín",
-      en: "El Tajín",
-image: "/poi-images/el-tajn-history-v2.webp"
-},
+      en: "El Tajín"},
+    image: "/poi-images/el-tajn-history-v2.webp",
     description: {
       de: "Eine präkolumbische Ruinenstadt in Veracruz, bekannt für ihre einzigartige Pyramide der Nischen.",
       hu: "Egy Kolumbusz előtti romváros Veracruzban, amely a Fülkék Piramisáról ismert.",
@@ -48,9 +47,8 @@ image: "/poi-images/el-tajn-history-v2.webp"
       de: "Monte Albán",
       hu: "Monte Albán",
       ro: "Monte Albán",
-      en: "Monte Albán",
-image: "/poi-images/monte-alban-history-v2.webp"
-},
+      en: "Monte Albán"},
+    image: "/poi-images/monte-alban-history-v2.webp",
     description: {
       de: "Eine große präkolumbische archäologische Stätte in Oaxaca, die Hauptstadt der Zapoteken.",
       hu: "Egy nagy, Kolumbusz előtti régészeti lelőhely Oaxacában, a zapotékok fővárosa.",
@@ -84,9 +82,8 @@ image: "/poi-images/monte-alban-history-v2.webp"
       de: "Uxmal",
       hu: "Uxmal",
       ro: "Uxmal",
-      en: "Uxmal",
-image: "/poi-images/uxmal-history-v2.webp"
-},
+      en: "Uxmal"},
+    image: "/poi-images/uxmal-history-v2.webp",
     description: {
       de: "Eine antike Maya-Stadt aus der klassischen Periode in Yucatán, bekannt für ihren Puuc-Architekturstil.",
       hu: "Ősi maja város a klasszikus korból Yucatánban, a Puuc építészeti stílusáról ismert.",
@@ -120,9 +117,8 @@ image: "/poi-images/uxmal-history-v2.webp"
       de: "Calakmul",
       hu: "Calakmul",
       ro: "Calakmul",
-      en: "Calakmul",
-image: "/poi-images/calakmul-history-v2.webp"
-},
+      en: "Calakmul"},
+    image: "/poi-images/calakmul-history-v2.webp",
     description: {
       de: "Eine der größten und mächtigsten antiken Maya-Städte, tief im Dschungel der Halbinsel Yucatán gelegen.",
       hu: "Az egyik legnagyobb és leghatalmasabb ősi maja város, mélyen a Yucatán-félsziget dzsungelében.",
@@ -156,9 +152,8 @@ image: "/poi-images/calakmul-history-v2.webp"
       de: "Cobá",
       hu: "Cobá",
       ro: "Cobá",
-      en: "Cobá",
-image: "/poi-images/coba-history-v2.webp"
-},
+      en: "Cobá"},
+    image: "/poi-images/coba-history-v2.webp",
     description: {
       de: "Eine antike Maya-Stätte mit einem Netzwerk von erhöhten Straßen (Sacbeob) und der hohen Pyramide Nohoch Mul.",
       hu: "Ősi maja lelőhely emelt utak (sacbeob) hálózatával és a magas Nohoch Mul piramissal.",
@@ -192,9 +187,8 @@ image: "/poi-images/coba-history-v2.webp"
       de: "Mitla",
       hu: "Mitla",
       ro: "Mitla",
-      en: "Mitla",
-image: "/poi-images/mitla-history-v2.webp"
-},
+      en: "Mitla"},
+    image: "/poi-images/mitla-history-v2.webp",
     description: {
       de: "Eine wichtige zapotekische und mixtekische archäologische Stätte, bekannt für ihre komplizierten geometrischen Mosaike.",
       hu: "Fontos zapoték és mixték régészeti lelőhely, amely bonyolult geometriai mozaikjairól ismert.",
@@ -228,9 +222,8 @@ image: "/poi-images/mitla-history-v2.webp"
       de: "Tula",
       hu: "Tula",
       ro: "Tula",
-      en: "Tula",
-image: "/poi-images/tula-history-v2.webp"
-},
+      en: "Tula"},
+    image: "/poi-images/tula-history-v2.webp",
     description: {
       de: "Die Hauptstadt des Toltekenreichs, berühmt für die 'Atlantiden' - große Steinkriegerfiguren.",
       hu: "A tolték birodalom fővárosa, amely az 'atlantisziakról' – hatalmas kő harcos szobrokról – híres.",
@@ -264,9 +257,8 @@ image: "/poi-images/tula-history-v2.webp"
       de: "Bonampak",
       hu: "Bonampak",
       ro: "Bonampak",
-      en: "Bonampak",
-image: "/poi-images/bonampak-history-v2.webp"
-},
+      en: "Bonampak"},
+    image: "/poi-images/bonampak-history-v2.webp",
     description: {
       de: "Eine antike Maya-Stätte, die für ihre bemerkenswert gut erhaltenen Wandmalereien bekannt ist.",
       hu: "Egy ősi maja lelőhely, amely a csodálatosan jó állapotban megmaradt falfestményeiről ismert.",
@@ -300,9 +292,8 @@ image: "/poi-images/bonampak-history-v2.webp"
       de: "Yaxchilán",
       hu: "Yaxchilán",
       ro: "Yaxchilán",
-      en: "Yaxchilán",
-image: "/poi-images/yaxchilan-history-v2.webp"
-},
+      en: "Yaxchilán"},
+    image: "/poi-images/yaxchilan-history-v2.webp",
     description: {
       de: "Eine mächtige Maya-Stadt am Ufer des Usumacinta-Flusses, bekannt für ihre beeindruckenden Steinstürze.",
       hu: "Hatalmas maja város az Usumacinta-folyó partján, amely lenyűgöző kő áthidalásairól ismert.",
@@ -336,9 +327,8 @@ image: "/poi-images/yaxchilan-history-v2.webp"
       de: "Xochicalco",
       hu: "Xochicalco",
       ro: "Xochicalco",
-      en: "Xochicalco",
-image: "/poi-images/xochicalco-history-v2.webp"
-},
+      en: "Xochicalco"},
+    image: "/poi-images/xochicalco-history-v2.webp",
     description: {
       de: "Eine befestigte archäologische Stätte, die nach dem Fall von Teotihuacan an Bedeutung gewann.",
       hu: "Egy erődített régészeti lelőhely, amely Teotihuacan bukása után vált jelentőssé.",
@@ -372,9 +362,8 @@ image: "/poi-images/xochicalco-history-v2.webp"
       de: "Edzná",
       hu: "Edzná",
       ro: "Edzná",
-      en: "Edzná",
-image: "/poi-images/edzna-history-v2.webp"
-},
+      en: "Edzná"},
+    image: "/poi-images/edzna-history-v2.webp",
     description: {
       de: "Eine Maya-Stätte mit einem fortschrittlichen Kanalsystem und einem imposanten Haupttempel, dem Fünfstöckigen Gebäude.",
       hu: "Maja lelőhely fejlett csatornarendszerrel és egy impozáns főtemplommal, az Ötszintes Épülettel.",
@@ -408,9 +397,8 @@ image: "/poi-images/edzna-history-v2.webp"
       de: "Becán",
       hu: "Becán",
       ro: "Becán",
-      en: "Becán",
-image: "/poi-images/becan-history-v2.webp"
-},
+      en: "Becán"},
+    image: "/poi-images/becan-history-v2.webp",
     description: {
       de: "Eine bemerkenswerte Maya-Stätte, die von einem Graben umgeben ist, was auf eine intensive Kriegsführung hindeutet.",
       hu: "Figyelemre méltó maja lelőhely, amelyet vizesárok vesz körül, ami intenzív hadviselésre utal.",
@@ -444,9 +432,8 @@ image: "/poi-images/becan-history-v2.webp"
       de: "Kabah",
       hu: "Kabah",
       ro: "Kabah",
-      en: "Kabah",
-image: "/poi-images/kabah-history-v2.webp"
-},
+      en: "Kabah"},
+    image: "/poi-images/kabah-history-v2.webp",
     description: {
       de: "Eine Maya-Ruinenstätte, die für ihren Palast der Masken berühmt ist, dessen Fassade mit Masken des Regengottes Chaac verziert ist.",
       hu: "Maja romváros, amely a Maszkok Palotájáról híres, homlokzatát a esőisten, Chaac maszkjai díszítik.",
@@ -480,9 +467,8 @@ image: "/poi-images/kabah-history-v2.webp"
       de: "La Venta",
       hu: "La Venta",
       ro: "La Venta",
-      en: "La Venta",
-image: "/poi-images/la-venta-history-v2.webp"
-},
+      en: "La Venta"},
+    image: "/poi-images/la-venta-history-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum der Olmeken-Kultur, bekannt für seine riesigen Kolossalköpfe aus Stein.",
       hu: "Az olmék kultúra fontos központja, amely hatalmas kőből készült kolosszális fejeiről ismert.",
@@ -516,9 +502,8 @@ image: "/poi-images/la-venta-history-v2.webp"
       de: "Cerro de las Mesas",
       hu: "Cerro de las Mesas",
       ro: "Cerro de las Mesas",
-      en: "Cerro de las Mesas",
-image: "/poi-images/cerro-de-las-mesas-history-v2.webp"
-},
+      en: "Cerro de las Mesas"},
+    image: "/poi-images/cerro-de-las-mesas-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte, die für ihre Stelen und die Vermischung von Olmeken- und klassischen Veracruz-Einflüssen bekannt ist.",
       hu: "Régészeti lelőhely, amely sztéléiről és az olmék és a klasszikus Veracruz-hatások keveredéséről ismert.",
@@ -553,9 +538,8 @@ image: "/poi-images/cerro-de-las-mesas-history-v2.webp"
       de: "San Lorenzo Tenochtitlán",
       hu: "San Lorenzo Tenochtitlán",
       ro: "San Lorenzo Tenochtitlán",
-      en: "San Lorenzo Tenochtitlán",
-image: "/poi-images/san-lorenzo-tenochtitlan-history-v2.webp"
-},
+      en: "San Lorenzo Tenochtitlán"},
+    image: "/poi-images/san-lorenzo-tenochtitlan-history-v2.webp",
     description: {
       de: "Das größte Zentrum der frühen Olmeken-Zivilisation, bekannt für seine beeindruckenden Steinskulpturen.",
       hu: "A korai olmék civilizáció legnagyobb központja, amely lenyűgöző kőszobrairól ismert.",
@@ -589,9 +573,8 @@ image: "/poi-images/san-lorenzo-tenochtitlan-history-v2.webp"
       de: "El Rey Ruinen",
       hu: "El Rey romok",
       ro: "Ruinele El Rey",
-      en: "El Rey Ruins",
-image: "/poi-images/el-rey-history-v2.webp"
-},
+      en: "El Rey Ruins"},
+    image: "/poi-images/el-rey-history-v2.webp",
     description: {
       de: "Eine kleine archäologische Stätte der Maya in der Hotelzone von Cancún, die einst ein maritimes Handelszentrum war.",
       hu: "Egy kis maja régészeti lelőhely Cancún szállodai zónájában, amely egykor tengeri kereskedelmi központ volt.",
@@ -626,9 +609,8 @@ image: "/poi-images/el-rey-history-v2.webp"
       de: "Dzibilchaltún",
       hu: "Dzibilchaltún",
       ro: "Dzibilchaltún",
-      en: "Dzibilchaltún",
-image: "/poi-images/dzibilchaltun-history-v2.webp"
-},
+      en: "Dzibilchaltún"},
+    image: "/poi-images/dzibilchaltun-history-v2.webp",
     description: {
       de: "Eine Maya-Stätte in der Nähe von Mérida, bekannt für den Tempel der sieben Puppen und ein Phänomen zur Tagundnachtgleiche.",
       hu: "Egy Mérida melletti maja lelőhely, amely a Hét Baba Templomáról és egy napéjegyenlőségi jelenségről ismert.",
@@ -662,9 +644,8 @@ image: "/poi-images/dzibilchaltun-history-v2.webp"
       de: "Mayapan",
       hu: "Mayapan",
       ro: "Mayapan",
-      en: "Mayapan",
-image: "/poi-images/mayapan-history-v2.webp"
-},
+      en: "Mayapan"},
+    image: "/poi-images/mayapan-history-v2.webp",
     description: {
       de: "Die letzte große Hauptstadt der Maya-Zivilisation in Yucatán, die als 'Mini-Chichén Itzá' gilt.",
       hu: "A maja civilizáció utolsó nagy fővárosa Yucatánban, amelyet 'kis Chichén Itzának' tartanak.",
@@ -698,9 +679,8 @@ image: "/poi-images/mayapan-history-v2.webp"
       de: "Ek' Balam",
       hu: "Ek' Balam",
       ro: "Ek' Balam",
-      en: "Ek' Balam",
-image: "/poi-images/ek-balam-history-v2.webp"
-},
+      en: "Ek' Balam"},
+    image: "/poi-images/ek-balam-history-v2.webp",
     description: {
       de: "Eine Maya-archäologische Stätte mit außergewöhnlich gut erhaltenen Stuckskulpturen und dem Grab von Ukit Kan Lek Tok'.",
       hu: "Maja régészeti lelőhely kivételesen jó állapotban megőrzött stukkószobrokkal és Ukit Kan Lek Tok' sírjával.",
@@ -734,9 +714,8 @@ image: "/poi-images/ek-balam-history-v2.webp"
       de: "Schloss Chapultepec",
       hu: "Chapultepec kastély",
       ro: "Castelul Chapultepec",
-      en: "Chapultepec Castle",
-image: "/poi-images/chapultepec-castle-history-v2.webp"
-},
+      en: "Chapultepec Castle"},
+    image: "/poi-images/chapultepec-castle-history-v2.webp",
     description: {
       de: "Ein historisches Schloss auf einem Hügel in Mexiko-Stadt, das einst als kaiserliche Residenz und Präsidentenpalast diente.",
       hu: "Történelmi kastély egy dombon Mexikóvárosban, amely egykor császári rezidencia és elnöki palota volt.",
@@ -770,9 +749,8 @@ image: "/poi-images/chapultepec-castle-history-v2.webp"
       de: "Palast der Schönen Künste",
       hu: "Szépművészeti Palota",
       ro: "Palatul Artelor Frumoase",
-      en: "Palace of Fine Arts",
-image: "/poi-images/palacio-de-bellas-artes-history-v2.webp"
-},
+      en: "Palace of Fine Arts"},
+    image: "/poi-images/palacio-de-bellas-artes-history-v2.webp",
     description: {
       de: "Ein prächtiges Kulturzentrum in Mexiko-Stadt, bekannt für seine beeindruckende Architektur und die Wandgemälde von Diego Rivera und anderen.",
       hu: "Pompás kulturális központ Mexikóvárosban, amely lenyűgöző építészetéről és Diego Rivera és mások falfestményeiről ismert.",
@@ -806,9 +784,8 @@ image: "/poi-images/palacio-de-bellas-artes-history-v2.webp"
       de: "Hospicio Cabañas",
       hu: "Hospicio Cabañas",
       ro: "Hospicio Cabañas",
-      en: "Hospicio Cabañas",
-image: "/poi-images/hospicio-cabanas-history-v2.webp"
-},
+      en: "Hospicio Cabañas"},
+    image: "/poi-images/hospicio-cabanas-history-v2.webp",
     description: {
       de: "Ein historischer Krankenhauskomplex in Guadalajara, der für die Wandgemälde von José Clemente Orozco berühmt ist.",
       hu: "Történelmi kórházkomplexum Guadalajarában, amely José Clemente Orozco falfestményeiről híres.",
@@ -842,9 +819,8 @@ image: "/poi-images/hospicio-cabanas-history-v2.webp"
       de: "Kathedrale von Zacatecas",
       hu: "Zacatecas-i székesegyház",
       ro: "Catedrala din Zacatecas",
-      en: "Zacatecas Cathedral",
-image: "/poi-images/zacatecas-cathedral-history-v2.webp"
-},
+      en: "Zacatecas Cathedral"},
+    image: "/poi-images/zacatecas-cathedral-history-v2.webp",
     description: {
       de: "Eine prächtige Barockkathedrale im historischen Zentrum von Zacatecas, bekannt für ihre kunstvoll geschnitzte rosa Steinfassade.",
       hu: "Pompás barokk katedrális Zacatecas történelmi központjában, amely a bonyolultan faragott rózsaszín kőhomlokzatáról ismert.",
@@ -878,9 +854,8 @@ image: "/poi-images/zacatecas-cathedral-history-v2.webp"
       de: "Kirche von Dolores Hidalgo",
       hu: "Dolores Hidalgó-i templom",
       ro: "Biserica din Dolores Hidalgo",
-      en: "Church of Dolores Hidalgo",
-image: "/poi-images/grito-de-dolores-history-v2.webp"
-},
+      en: "Church of Dolores Hidalgo"},
+    image: "/poi-images/grito-de-dolores-history-v2.webp",
     description: {
       de: "Die Kirche, von deren Stufen Miguel Hidalgo 1810 den 'Grito de Dolores' ausrief und damit den mexikanischen Unabhängigkeitskrieg begann.",
       hu: "A templom, amelynek lépcsőiről Miguel Hidalgo 1810-ben elindította a 'Grito de Dolores'-t, ezzel megkezdve a mexikói függetlenségi háborút.",
@@ -914,9 +889,8 @@ image: "/poi-images/grito-de-dolores-history-v2.webp"
       de: "Schlachtfeld von El Álamo (Mexiko)",
       hu: "Az Alamói csata helyszíne (Mexikó)",
       ro: "Câmpul de luptă de la Alamo (Mexic)",
-      en: "Alamo Battlefield (Mexico)",
-image: "/poi-images/alamo-battlefield-history-v2.webp"
-},
+      en: "Alamo Battlefield (Mexico)"},
+    image: "/poi-images/alamo-battlefield-history-v2.webp",
     description: {
       de: "Bezieht sich auf die mexikanische Perspektive und die Stätten im Zusammenhang mit der Armee von Santa Anna während des Texas-Feldzugs.",
       hu: "A texasi hadjárat során Santa Anna hadseregével kapcsolatos mexikói nézőpontra és helyszínekre utal.",
@@ -950,9 +924,8 @@ image: "/poi-images/alamo-battlefield-history-v2.webp"
       de: "Fuerte de Loreto",
       hu: "Loreto erőd",
       ro: "Fortul Loreto",
-      en: "Fort Loreto",
-image: "/poi-images/fuerte-de-loreto-history-v2.webp"
-},
+      en: "Fort Loreto"},
+    image: "/poi-images/fuerte-de-loreto-history-v2.webp",
     description: {
       de: "Eine von zwei Festungen in Puebla, die Schauplatz des Sieges der mexikanischen Armee über die Franzosen am 5. Mai 1862 waren.",
       hu: "Egyike a két erődnek Pueblában, amely a mexikói hadsereg franciák feletti 1862. május 5-i győzelmének helyszíne volt.",
@@ -986,9 +959,8 @@ image: "/poi-images/fuerte-de-loreto-history-v2.webp"
       de: "Kloster von Huejotzingo",
       hu: "Huejotzingói kolostor",
       ro: "Mănăstirea din Huejotzingo",
-      en: "Monastery of Huejotzingo",
-image: "/poi-images/convento-de-huejotzingo-history-v2.webp"
-},
+      en: "Monastery of Huejotzingo"},
+    image: "/poi-images/convento-de-huejotzingo-history-v2.webp",
     description: {
       de: "Eines der frühesten Klöster Mexikos aus dem 16. Jahrhundert, Teil des UNESCO-Weltkulturerbes an den Hängen des Popocatépetl.",
       hu: "Mexikó egyik legkorábbi 16. századi kolostora, a Popocatépetl lejtőin található UNESCO Világörökség része.",
@@ -1022,9 +994,8 @@ image: "/poi-images/convento-de-huejotzingo-history-v2.webp"
       de: "Historisches Zentrum von San Miguel de Allende",
       hu: "San Miguel de Allende történelmi központja",
       ro: "Centrul istoric al San Miguel de Allende",
-      en: "Historic Center of San Miguel de Allende",
-image: "/poi-images/san-miguel-de-allende-history-v2.webp"
-},
+      en: "Historic Center of San Miguel de Allende"},
+    image: "/poi-images/san-miguel-de-allende-history-v2.webp",
     description: {
       de: "Eine Kolonialstadt, die für ihre gut erhaltene Barockarchitektur, ihre Kunstszene und ihre Rolle im Unabhängigkeitskrieg bekannt ist.",
       hu: "Egy gyarmati város, amely jól megőrzött barokk építészetéről, művészeti életéről és a függetlenségi háborúban betöltött szerepéről ismert.",
@@ -1058,9 +1029,8 @@ image: "/poi-images/san-miguel-de-allende-history-v2.webp"
       de: "Paquimé, Casas Grandes",
       hu: "Paquimé, Casas Grandes",
       ro: "Paquimé, Casas Grandes",
-      en: "Paquimé, Casas Grandes",
-image: "/poi-images/paquime-casas-grandes-history-v2.webp"
-},
+      en: "Paquimé, Casas Grandes"},
+    image: "/poi-images/paquime-casas-grandes-history-v2.webp",
     description: {
       de: "Eine einzigartige prähispanische archäologische Stätte, bekannt für ihre Lehmarchitektur und die Verbindung zu Kulturen des amerikanischen Südwestens.",
       hu: "Egyedülálló prehispán régészeti lelőhely, amely vályogépítészetéről és az amerikai délnyugat kultúráival való kapcsolatáról ismert.",

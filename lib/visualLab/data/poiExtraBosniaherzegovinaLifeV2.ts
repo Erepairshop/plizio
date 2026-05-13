@@ -5,9 +5,8 @@ export const bosniaherzegovinaLifeV2: POI[] = [
     id: "bosniaherzegovina-kozara-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Nationalpark Kozara", hu: "Kozara Nemzeti Park", ro: "Parcul Național Kozara", en: "Kozara National Park",
-image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"
-},
+    name: { de: "Nationalpark Kozara", hu: "Kozara Nemzeti Park", ro: "Parcul Național Kozara", en: "Kozara National Park"},
+    image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp",
     coords: [16.8925, 45.0117],
     coordinates: { lat: 45.0117, lng: 16.8925 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/bosniaherzegovina-kozara-life-v2.webp"
     id: "bosniaherzegovina-drina-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Nationalpark Drina", hu: "Drina Nemzeti Park", ro: "Parcul Național Drina", en: "Drina National Park",
-image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"
-},
+    name: { de: "Nationalpark Drina", hu: "Drina Nemzeti Park", ro: "Parcul Național Drina", en: "Drina National Park"},
+    image: "/poi-images/bosniaherzegovina-drina-life-v2.webp",
     coords: [19.3458, 43.9875],
     coordinates: { lat: 43.9875, lng: 19.3458 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/bosniaherzegovina-drina-life-v2.webp"
     id: "bosniaherzegovina-bardaca-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Feuchtgebiet Bardača", hu: "Bardača-mocsár", ro: "Zona umedă Bardača", en: "Bardača Wetland",
-image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp"
-},
+    name: { de: "Feuchtgebiet Bardača", hu: "Bardača-mocsár", ro: "Zona umedă Bardača", en: "Bardača Wetland"},
+    image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp",
     coords: [17.4394, 45.1056],
     coordinates: { lat: 45.1056, lng: 17.4394 },
     description: {
@@ -112,9 +109,8 @@ image: "/poi-images/bosniaherzegovina-bardaca-life-v2.webp"
     id: "bosniaherzegovina-sarajevo-zoo-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Zoo Sarajevo", hu: "Szarajevói Állatkert", ro: "Grădina Zoologică Sarajevo", en: "Sarajevo Zoo",
-image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Sarajevo", hu: "Szarajevói Állatkert", ro: "Grădina Zoologică Sarajevo", en: "Sarajevo Zoo"},
+    image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp",
     coords: [18.4161, 43.8742],
     coordinates: { lat: 43.8742, lng: 18.4161 },
     description: {
@@ -148,9 +144,8 @@ image: "/poi-images/bosniaherzegovina-sarajevo-zoo-life-v2.webp"
     id: "bosniaherzegovina-botanical-garden-sarajevo-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Botanischer Garten Sarajevo", hu: "Szarajevói Botanikus Kert", ro: "Grădina Botanică Sarajevo", en: "Botanical Garden of Sarajevo",
-image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Sarajevo", hu: "Szarajevói Botanikus Kert", ro: "Grădina Botanică Sarajevo", en: "Botanical Garden of Sarajevo"},
+    image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp",
     coords: [18.4022, 43.8547],
     coordinates: { lat: 43.8547, lng: 18.4022 },
     description: {
@@ -184,9 +179,8 @@ image: "/poi-images/bosniaherzegovina-botanical-garden-sarajevo-life-v2.webp"
     id: "bosniaherzegovina-vrelo-bosne-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Vrelo Bosne", hu: "Vrelo Bosne", ro: "Vrelo Bosne", en: "Vrelo Bosne",
-image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"
-},
+    name: { de: "Vrelo Bosne", hu: "Vrelo Bosne", ro: "Vrelo Bosne", en: "Vrelo Bosne"},
+    image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp",
     coords: [18.2694, 43.8197],
     coordinates: { lat: 43.8197, lng: 18.2694 },
     description: {
@@ -220,9 +214,8 @@ image: "/poi-images/bosniaherzegovina-vrelo-bosne-life-v2.webp"
     id: "bosniaherzegovina-bijambare-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Bijambare Schutzlandschaft", hu: "Bijambare védett terület", ro: "Peisajul protejat Bijambare", en: "Bijambare Protected Landscape",
-image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"
-},
+    name: { de: "Bijambare Schutzlandschaft", hu: "Bijambare védett terület", ro: "Peisajul protejat Bijambare", en: "Bijambare Protected Landscape"},
+    image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp",
     coords: [18.5028, 44.0931],
     coordinates: { lat: 44.0931, lng: 18.5028 },
     description: {
@@ -256,9 +249,8 @@ image: "/poi-images/bosniaherzegovina-bijambare-life-v2.webp"
     id: "bosniaherzegovina-tajan-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Naturpark Tajan", hu: "Tajan Natúrpark", ro: "Parcul Natural Tajan", en: "Tajan Nature Park",
-image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"
-},
+    name: { de: "Naturpark Tajan", hu: "Tajan Natúrpark", ro: "Parcul Natural Tajan", en: "Tajan Nature Park"},
+    image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp",
     coords: [18.15, 44.3167],
     coordinates: { lat: 44.3167, lng: 18.15 },
     description: {
@@ -292,9 +284,8 @@ image: "/poi-images/bosniaherzegovina-tajan-life-v2.webp"
     id: "bosniaherzegovina-trebevic-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Schutzlandschaft Trebević", hu: "Trebević védett terület", ro: "Peisajul protejat Trebević", en: "Trebević Protected Landscape",
-image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"
-},
+    name: { de: "Schutzlandschaft Trebević", hu: "Trebević védett terület", ro: "Peisajul protejat Trebević", en: "Trebević Protected Landscape"},
+    image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp",
     coords: [18.4414, 43.8322],
     coordinates: { lat: 43.8322, lng: 18.4414 },
     description: {
@@ -328,9 +319,8 @@ image: "/poi-images/bosniaherzegovina-trebevic-life-v2.webp"
     id: "bosniaherzegovina-skakavac-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Skakavac Wasserfall", hu: "Skakavac-vízesés", ro: "Cascada Skakavac", en: "Skakavac Waterfall",
-image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"
-},
+    name: { de: "Skakavac Wasserfall", hu: "Skakavac-vízesés", ro: "Cascada Skakavac", en: "Skakavac Waterfall"},
+    image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp",
     coords: [18.4453, 43.9511],
     coordinates: { lat: 43.9511, lng: 18.4453 },
     description: {
@@ -364,9 +354,8 @@ image: "/poi-images/bosniaherzegovina-skakavac-life-v2.webp"
     id: "bosniaherzegovina-janjske-otoke-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Janjske Otoke", hu: "Janj-szigetek", ro: "Janjske Otoke", en: "Janj Islands",
-image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"
-},
+    name: { de: "Janjske Otoke", hu: "Janj-szigetek", ro: "Janjske Otoke", en: "Janj Islands"},
+    image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp",
     coords: [17.1186, 44.2461],
     coordinates: { lat: 44.2461, lng: 17.1186 },
     description: {
@@ -400,9 +389,8 @@ image: "/poi-images/bosniaherzegovina-janjske-otoke-life-v2.webp"
     id: "bosniaherzegovina-gromizelj-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Sonderreservat Gromiželj", hu: "Gromiželj különleges rezervátum", ro: "Rezervația specială Gromiželj", en: "Gromiželj Special Nature Reserve",
-image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"
-},
+    name: { de: "Sonderreservat Gromiželj", hu: "Gromiželj különleges rezervátum", ro: "Rezervația specială Gromiželj", en: "Gromiželj Special Nature Reserve"},
+    image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp",
     coords: [19.3375, 44.8517],
     coordinates: { lat: 44.8517, lng: 19.3375 },
     description: {
@@ -436,9 +424,8 @@ image: "/poi-images/bosniaherzegovina-gromizelj-life-v2.webp"
     id: "bosniaherzegovina-tisina-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Ornithologisches Reservat Tišina", hu: "Tišina madárrezervátum", ro: "Rezervația ornitologică Tišina", en: "Tišina Ornithological Reserve",
-image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"
-},
+    name: { de: "Ornithologisches Reservat Tišina", hu: "Tišina madárrezervátum", ro: "Rezervația ornitologică Tišina", en: "Tišina Ornithological Reserve"},
+    image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp",
     coords: [18.4833, 45.0417],
     coordinates: { lat: 45.0417, lng: 18.4833 },
     description: {
@@ -472,9 +459,8 @@ image: "/poi-images/bosniaherzegovina-tisina-life-v2.webp"
     id: "bosniaherzegovina-konjuh-life-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Schutzlandschaft Konjuh", hu: "Konjuh védett terület", ro: "Peisajul protejat Konjuh", en: "Konjuh Protected Landscape",
-image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"
-},
+    name: { de: "Schutzlandschaft Konjuh", hu: "Konjuh védett terület", ro: "Peisajul protejat Konjuh", en: "Konjuh Protected Landscape"},
+    image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp",
     coords: [18.55, 44.3167],
     coordinates: { lat: 44.3167, lng: 18.55 },
     description: {
@@ -508,9 +494,8 @@ image: "/poi-images/bosniaherzegovina-konjuh-life-v2.webp"
     id: "bosniaherzegovina-livanjsko-polje-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Livanjsko Polje", hu: "Livnói-mező", ro: "Livanjsko Polje", en: "Livanjsko Polje",
-image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"
-},
+    name: { de: "Livanjsko Polje", hu: "Livnói-mező", ro: "Livanjsko Polje", en: "Livanjsko Polje"},
+    image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp",
     coords: [16.9667, 43.8833],
     coordinates: { lat: 43.8833, lng: 16.9667 },
     description: {
@@ -544,9 +529,8 @@ image: "/poi-images/bosniaherzegovina-livanjsko-polje-life-v2.webp"
     id: "bosniaherzegovina-rakitnica-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Rakitnica-Schlucht", hu: "Rakitnica-szurdok", ro: "Canionul Rakitnica", en: "Rakitnica Canyon",
-image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"
-},
+    name: { de: "Rakitnica-Schlucht", hu: "Rakitnica-szurdok", ro: "Canionul Rakitnica", en: "Rakitnica Canyon"},
+    image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp",
     coords: [18.2325, 43.6453],
     coordinates: { lat: 43.6453, lng: 18.2325 },
     description: {
@@ -580,9 +564,8 @@ image: "/poi-images/bosniaherzegovina-rakitnica-life-v2.webp"
     id: "bosniaherzegovina-zelengora-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Zelengora Gletscherseen", hu: "Zelengora-tavak", ro: "Lacurile glaciare Zelengora", en: "Zelengora Glacial Lakes",
-image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"
-},
+    name: { de: "Zelengora Gletscherseen", hu: "Zelengora-tavak", ro: "Lacurile glaciare Zelengora", en: "Zelengora Glacial Lakes"},
+    image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp",
     coords: [18.5775, 43.3283],
     coordinates: { lat: 43.3283, lng: 18.5775 },
     description: {
@@ -616,9 +599,8 @@ image: "/poi-images/bosniaherzegovina-zelengora-life-v2.webp"
     id: "bosniaherzegovina-prenj-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Prenj Gebirgsmassiv", hu: "Prenj-hegység", ro: "Masivul Prenj", en: "Prenj Mountain Range",
-image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"
-},
+    name: { de: "Prenj Gebirgsmassiv", hu: "Prenj-hegység", ro: "Masivul Prenj", en: "Prenj Mountain Range"},
+    image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp",
     coords: [17.91, 43.535],
     coordinates: { lat: 43.535, lng: 17.91 },
     description: {
@@ -652,9 +634,8 @@ image: "/poi-images/bosniaherzegovina-prenj-life-v2.webp"
     id: "bosniaherzegovina-cvrsnica-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Čvrsnica Berg", hu: "Čvrsnica-hegy", ro: "Muntele Čvrsnica", en: "Čvrsnica Mountain",
-image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"
-},
+    name: { de: "Čvrsnica Berg", hu: "Čvrsnica-hegy", ro: "Muntele Čvrsnica", en: "Čvrsnica Mountain"},
+    image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp",
     coords: [17.5858, 43.6017],
     coordinates: { lat: 43.6017, lng: 17.5858 },
     description: {
@@ -688,9 +669,8 @@ image: "/poi-images/bosniaherzegovina-cvrsnica-life-v2.webp"
     id: "bosniaherzegovina-maglic-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Maglić Gebirge", hu: "Maglić-hegység", ro: "Munții Maglić", en: "Maglić Mountain",
-image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"
-},
+    name: { de: "Maglić Gebirge", hu: "Maglić-hegység", ro: "Munții Maglić", en: "Maglić Mountain"},
+    image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp",
     coords: [18.7364, 43.2803],
     coordinates: { lat: 43.2803, lng: 18.7364 },
     description: {
@@ -724,9 +704,8 @@ image: "/poi-images/bosniaherzegovina-maglic-life-v2.webp"
     id: "bosniaherzegovina-kravica-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Kravica Wasserfälle", hu: "Kravica-vízesés", ro: "Cascada Kravica", en: "Kravica Waterfalls",
-image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"
-},
+    name: { de: "Kravica Wasserfälle", hu: "Kravica-vízesés", ro: "Cascada Kravica", en: "Kravica Waterfalls"},
+    image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp",
     coords: [17.6078, 43.1594],
     coordinates: { lat: 43.1594, lng: 17.6078 },
     description: {
@@ -760,9 +739,8 @@ image: "/poi-images/bosniaherzegovina-kravica-life-v2.webp"
     id: "bosniaherzegovina-prokosko-lake-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Prokoško See", hu: "Prokoško-tó", ro: "Lacul Prokoško", en: "Prokoško Lake",
-image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"
-},
+    name: { de: "Prokoško See", hu: "Prokoško-tó", ro: "Lacul Prokoško", en: "Prokoško Lake"},
+    image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp",
     coords: [17.7553, 43.9608],
     coordinates: { lat: 43.9608, lng: 17.7553 },
     description: {
@@ -796,9 +774,8 @@ image: "/poi-images/bosniaherzegovina-prokosko-lake-life-v2.webp"
     id: "bosniaherzegovina-vjetrenica-life-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Vjetrenica Höhle", hu: "Vjetrenica-barlang", ro: "Peștera Vjetrenica", en: "Vjetrenica Cave",
-image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"
-},
+    name: { de: "Vjetrenica Höhle", hu: "Vjetrenica-barlang", ro: "Peștera Vjetrenica", en: "Vjetrenica Cave"},
+    image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp",
     coords: [17.9844, 42.8442],
     coordinates: { lat: 42.8442, lng: 17.9844 },
     description: {
@@ -832,9 +809,8 @@ image: "/poi-images/bosniaherzegovina-vjetrenica-life-v2.webp"
     id: "bosniaherzegovina-lom-forest-life-v2",
     parent: "BA",
     type: "forest",
-    name: { de: "Urwaldreservat Lom", hu: "Lom őserdő-rezervátum", ro: "Rezervația forestieră Lom", en: "Lom Forest Reserve",
-image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"
-},
+    name: { de: "Urwaldreservat Lom", hu: "Lom őserdő-rezervátum", ro: "Rezervația forestieră Lom", en: "Lom Forest Reserve"},
+    image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp",
     coords: [16.4525, 44.4533],
     coordinates: { lat: 44.4533, lng: 16.4525 },
     description: {
@@ -868,9 +844,8 @@ image: "/poi-images/bosniaherzegovina-lom-forest-life-v2.webp"
     id: "bosniaherzegovina-janj-forest-life-v2",
     parent: "BA",
     type: "forest",
-    name: { de: "Urwaldreservat Janj", hu: "Janj őserdő-rezervátum", ro: "Rezervația forestieră Janj", en: "Janj Forest Reserve",
-image: "/poi-images/bosniaherzegovina-janj-forest-life-v2.webp"
-},
+    name: { de: "Urwaldreservat Janj", hu: "Janj őserdő-rezervátum", ro: "Rezervația forestieră Janj", en: "Janj Forest Reserve"},
+    image: "/poi-images/bosniaherzegovina-janj-forest-life-v2.webp",
     coords: [17.275, 44.1481],
     coordinates: { lat: 44.1481, lng: 17.275 },
     description: {
@@ -897,6 +872,135 @@ image: "/poi-images/bosniaherzegovina-janj-forest-life-v2.webp"
       hu: ["UNESCO: 2021 óta", "Területe: 295 ha", "Helyszín: Šipovo mellett", "Típus: Ősbükkös"],
       ro: ["UNESCO: din 2021", "Suprafață: 295 ha", "Locație: Lângă Šipovo", "Tip: Făget virgin"],
       en: ["UNESCO: since 2021", "Area: 295 ha", "Location: Near Šipovo", "Type: Ancient beech forest"],
+    },
+  }
+,
+  {
+    id: "bosniaherzegovina-stojcevac-life-v2",
+    type: "park",
+    parent: "BA",
+    name: { de: "Stojčevac Park", hu: "Stojčevac Park", ro: "Parcul Stojčevac", en: "Stojčevac Park" },
+    coordinates: { lat: 43.8211, lng: 18.2839 },
+    description: {
+      de: "Das Parkareal Stojčevac liegt am Rande des Naturdenkmals Vrelo Bosne. Das Gebiet umfasst Waldflächen und Spazierwege in der Nähe der Bosna-Quelle.",
+      hu: "A Stojčevac park a Vrelo Bosne természeti emlék szélén található. A terület erdős részeket és sétautakat foglal magában a Bosna-forrás közelében.",
+      ro: "Parcul Stojčevac este situat la marginea monumentului natural Vrelo Bosne. Zona cuprinde suprafețe împădurite și poteci lângă izvoarele râului Bosna.",
+      en: "Stojčevac park is located on the edge of the Vrelo Bosne natural monument. The area includes forested sections and walking paths near the Bosna river springs.",
+    },
+    facts: {
+      de: ["Frühere Sommerresidenz", "Liegt im Ilidža-Tal", "Nahe dem Velika Aleja", "Waldreiche Umgebung"],
+      hu: ["Korábbi nyári rezidencia", "Az Ilidža-völgyben található", "Közel a Velika Aleja-hoz", "Erdős környezet"],
+      ro: ["Fostă reședință de vară", "Situat în valea Ilidža", "Aproape de Velika Aleja", "Mediu împădurit"],
+      en: ["Former summer residence", "Located in Ilidža valley", "Near Velika Aleja", "Forested environment"],
+    },
+    imageHint: "Stojcevac park forest Sarajevo",
+    descriptionAdvanced: {
+      de: "Dieses ehemalige exklusive Erholungsgebiet bei Ilidža war einst der Standort einer Privatresidenz von Tito und ist heute für seine kalten Quellen am Fuße des Igman-Gebirges bekannt.",
+      hu: "Az Ilidža melletti park egykor Tito elnöki rezidenciájának adott otthont, ma népszerű kirándulóhely az Igman-hegy lábánál, tiszta vizű forrásokkal és sűrű, árnyas erdőkkel.",
+      ro: "Situat lângă Ilidža, acest parc a găzduit fosta reședință a lui Tito și este renumit pentru sistemul de tuneluri subterane și izvoarele naturale de la poalele muntelui Igman.",
+      en: "Located near Ilidža, this park served as a private residence for Josip Broz Tito. It is known for its cold water springs and strategic underground bunkers near Mount Igman.",
+    },
+    factsAdvanced: {
+      de: ["Liegt etwa 15 Kilometer südwestlich von Sarajevo", "Ehemals Standort einer streng geheimen Bunkeranlage", "Diente nach 1945 als privates Jagdrevier für Staatsgäste", "Wassertemperatur der Quellen liegt ganzjährig bei 8 Grad"],
+      hu: ["Szarajevótól mintegy 15 kilométerre délnyugatra fekszik", "Egykor szigorúan titkos föld alatti bunkerek helyszíne volt", "1945 után állami vendégek zárt vadászterületeként szolgált", "A források vízhőmérséklete egész évben 8 Celsius-fokos"],
+      ro: ["Situat la aproximativ 15 kilometri sud-vest de Sarajevo", "Fost sit al unui complex de buncăre subterane secrete", "A servit după 1945 drept domeniu de vânătoare oficial", "Temperatura apei izvoarelor este de 8 grade tot anul"],
+      en: ["Located approximately 15 kilometers southwest of Sarajevo", "Former site of a top-secret underground bunker complex", "Served as a private hunting ground for state guests after 1945", "Spring water temperature remains at 8 degrees Celsius year-round"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-stari-gaj-life-v2",
+    type: "wildlife",
+    parent: "BA",
+    name: { de: "Stari Gaj Reservat", hu: "Stari Gaj rezervátum", ro: "Rezervația Stari Gaj", en: "Stari Gaj Reserve" },
+    coordinates: { lat: 44.8215, lng: 17.6533 },
+    description: {
+      de: "Stari Gaj ist ein geschütztes Waldgebiet in der Region um Prnjavor. Es beherbergt verschiedene lokale Baumarten und dient als Habitat für Wildtiere.",
+      hu: "A Stari Gaj egy védett erdőterület a Prnjavor környéki régióban. Különböző helyi fafajoknak ad otthont és vadon élő állatok élőhelyéül szolgál.",
+      ro: "Stari Gaj este o zonă forestieră protejată în regiunea din jurul orașului Prnjavor. Aceasta găzduiește diverse specii locale de arbori și servește drept habitat pentru animale sălbatice.",
+      en: "Stari Gaj is a protected forest area in the region around Prnjavor. It hosts various local tree species and serves as a habitat for wildlife.",
+    },
+    facts: {
+      de: ["Schutzgebiet bei Prnjavor", "Lokaler Waldtyp", "Habitat für Vögel", "Ökologisches Reservat"],
+      hu: ["Védett terület Prnjavor mellett", "Helyi erdőtípus", "Madarak élőhelye", "Ökológiai rezervátum"],
+      ro: ["Arie protejată lângă Prnjavor", "Tip de pădure local", "Habitat pentru păsări", "Rezervație ecologică"],
+      en: ["Protected area near Prnjavor", "Local forest type", "Habitat for birds", "Ecological reserve"],
+    },
+    imageHint: "Dense forest in Bosnia and Herzegovina",
+    descriptionAdvanced: {
+      de: "Das Schutzgebiet Stari Gaj repräsentiert die ursprünglichen Eichenwälder der Region Semberija und dient als wichtiges Ökosystem für zahlreiche lokale Vogel- und Pflanzenarten.",
+      hu: "A Semberija-síkságon található Stari Gaj rezervátum az őshonos tölgyerdők egyik utolsó maradványa, amely kiemelt szerepet játszik a helyi biodiverzitás megőrzésében.",
+      ro: "Rezervația Stari Gaj conservă fragmente din pădurile seculare de stejar specifice câmpiei Semberija, oferind un habitat protejat pentru diverse specii de păsări și plante.",
+      en: "The Stari Gaj Reserve protects the remnants of ancient oak forests in the Semberija region, serving as a vital ecological corridor for local wildlife and migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich in der Nähe der Stadt Bijeljina im Osten", "Schützt seltene Stieleichenbestände der pannonischen Tiefebene", "Heimat für über 40 verschiedene heimische Vogelarten", "Wurde als offizielles botanisches Naturdenkmal eingestuft"],
+      hu: ["Kelet-Boszniában, Bijeljina városa közelében található", "A pannon síkság ritka kocsányos tölgyeseit védi", "Több mint 40 különböző őshonos madárfaj otthona", "Hivatalosan botanikai természeti emlékké nyilvánították"],
+      ro: ["Situat în estul țării, în apropierea orașului Bijeljina", "Protejează arborete rare de stejar pedunculat din Câmpia Panonică", "Găzduiește peste 40 de specii diferite de păsări indigene", "Clasificat oficial ca monument botanic al naturii"],
+      en: ["Located in eastern Bosnia near the city of Bijeljina", "Protects rare pedunculate oak stands of the Pannonian basin", "Home to over 40 different species of native birds", "Officially designated as a botanical monument of nature"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-velika-suma-life-v2",
+    type: "forest",
+    parent: "BA",
+    name: { de: "Velika Šuma Wald", hu: "Velika Šuma erdő", ro: "Pădurea Velika Šuma", en: "Velika Šuma Forest" },
+    coordinates: { lat: 44.7521, lng: 16.7112 },
+    description: {
+      de: "Der Velika Šuma Wald erstreckt sich in den hügeligen Gebieten westlich von Banja Luka. Das Areal ist durch Mischwald und eine vielfältige Flora geprägt.",
+      hu: "A Velika Šuma erdő a Banja Lukától nyugatra fekvő dombvidékeken húzódik. A területet vegyes erdő és változatos növényvilág jellemzi.",
+      ro: "Pădurea Velika Šuma se întinde în zonele deluroase la vest de Banja Luka. Zona este caracterizată de pădure mixtă și o floră diversificată.",
+      en: "Velika Šuma forest extends across the hilly areas west of Banja Luka. The area is characterized by mixed forest and diverse flora.",
+    },
+    facts: {
+      de: ["Westlich von Banja Luka", "Mischwaldgebiet", "Hügelige Topographie", "Wandergebiet"],
+      hu: ["Banja Lukától nyugatra", "Vegyes erdőterület", "Dombos domborzat", "Túrázóhely"],
+      ro: ["La vest de Banja Luka", "Zonă de pădure mixtă", "Topografie deluroasă", "Zonă de drumeții"],
+      en: ["West of Banja Luka", "Mixed forest area", "Hilly topography", "Hiking area"],
+    },
+    imageHint: "Mixed forest landscape in Bosnia",
+    descriptionAdvanced: {
+      de: "Der Velika Šuma-Wald ist ein wichtiger Lebensraum für viele Tier- und Pflanzenarten in Bosnien und Herzegowina. Der Wald ist etwa 10.000 Hektar groß und erstreckt sich über eine Fläche von etwa 20 Kilometern. Der Velika Šuma-Wald ist auch ein beliebtes Ziel für Touristen, die die Natur und die malerische Umgebung genießen möchten. Der Wald ist reich an Wildtieren, darunter Hirsche, Wildschweine und Vögel.",
+      hu: "A Velika Šuma erdő egy fontos élőhelye sok állat- és növényfajnak Bosznia-Hercegovinában. Az erdő körülbelül 10.000 hektár nagyságú és 20 kilométer hosszúságban terül el. A Velika Šuma erdő egy népszerű turisztikai célpont, ahol a látogatók a természetet és a festői környezetet élvezhetik. Az erdő gazdag vadállatokban, köztük szarvasok, vaddisznók és madarak.",
+      ro: "Pădurea Velika Šuma este un habitat important pentru multe specii de animale și plante din Bosnia și Herțegovina. Pădurea are o suprafață de aproximativ 10.000 de hectare și se întinde pe o lungime de aproximativ 20 de kilometri. Pădurea Velika Šuma este și o destinație turistică populară, unde vizitatorii pot admira natura și peisajul pitoresc. Pădurea este bogată în animale sălbatice, printre care cerbi, porci sălbatici și păsări.",
+      en: "The Velika Šuma forest is an important habitat for many animal and plant species in Bosnia and Herzegovina. The forest is approximately 10,000 hectares in size and stretches over a distance of about 20 kilometers. The Velika Šuma forest is also a popular tourist destination, where visitors can enjoy the natural beauty and the picturesque surroundings. The forest is rich in wildlife, including deer, wild boars, and birds.",
+    },
+    factsAdvanced: {
+      de: ["Der Velika Šuma-Wald ist etwa 10.000 Hektar groß", "Der Wald erstreckt sich über eine Fläche von etwa 20 Kilometern", "Der Wald ist reich an Wildtieren", "Der Velika Šuma-Wald ist ein beliebtes Ziel für Touristen", "Die durchschnittliche Jahrestemperatur im Wald beträgt etwa 10 Grad Celsius", "Die jährliche Niederschlagsmenge im Wald beträgt etwa 800 Millimeter"],
+      hu: ["A Velika Šuma erdő körülbelül 10.000 hektár nagyságú", "Az erdő 20 kilométer hosszúságban terül el", "Az erdő gazdag vadállatokban", "A Velika Šuma erdő egy népszerű turisztikai célpont", "A természetes éves átlaghőmérséklet az erdőben körülbelül 10 fok Celsius", "Az éves csapadékmennyiség az erdőben körülbelül 800 milliméter"],
+      ro: ["Pădurea Velika Šuma are o suprafață de aproximativ 10.000 de hectare", "Pădurea se întinde pe o lungime de aproximativ 20 de kilometri", "Pădurea este bogată în animale sălbatice", "Pădurea Velika Šuma este o destinație turistică populară", "Temperatura medie anuală din pădure este de aproximativ 10 grade Celsius", "Cantitatea anuală de precipitații din pădure este de aproximativ 800 de milimetri"],
+      en: ["The Velika Šuma forest is approximately 10,000 hectares in size", "The forest stretches over a distance of about 20 kilometers", "The forest is rich in wildlife", "The Velika Šuma forest is a popular tourist destination", "The average annual temperature in the forest is about 10 degrees Celsius", "The annual precipitation in the forest is about 800 millimeters"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-vran-mountain-park-life-v2",
+    type: "park",
+    parent: "BA",
+    name: { de: "Vran Gebirgspark", hu: "Vran hegyi park", ro: "Parcul montan Vran", en: "Vran Mountain Park" },
+    coordinates: { lat: 43.6653, lng: 17.5342 },
+    description: {
+      de: "Der Vran-Gebirgspark umfasst alpine Zonen zwischen Tomislavgrad und Jablanica. Die Landschaft ist geprägt durch Felsformationen und Hochgebirgsvegetation.",
+      hu: "A Vran hegyi park alpesi zónákat foglal magában Tomislavgrad és Jablanica között. A tájat sziklaképződmények és magashegyi növényzet jellemzi.",
+      ro: "Parcul montan Vran cuprinde zone alpine între Tomislavgrad și Jablanica. Peisajul este marcat de formațiuni stâncoase și vegetație montană înaltă.",
+      en: "The Vran mountain park encompasses alpine zones between Tomislavgrad and Jablanica. The landscape is marked by rock formations and high-altitude vegetation.",
+    },
+    facts: {
+      de: ["Zwischen Tomislavgrad und Jablanica", "Alpine Vegetationszone", "Karstlandschaft", "Hochgebirgsregion"],
+      hu: ["Tomislavgrad és Jablanica között", "Alpesi növényzeti zóna", "Karsztos táj", "Magashegyi régió"],
+      ro: ["Între Tomislavgrad și Jablanica", "Zonă de vegetație alpină", "Peisaj carstic", "Regiune montană înaltă"],
+      en: ["Between Tomislavgrad and Jablanica", "Alpine vegetation zone", "Karst landscape", "High mountain region"],
+    },
+    imageHint: "Vran mountain landscape",
+    descriptionAdvanced: {
+      de: "Der Vran-Berg im Naturpark Blidinje erreicht eine Höhe von 2074 Metern und ist für seine karge Karstlandschaft sowie die Legende der Hirtin Diva Grabovčeva bekannt.",
+      hu: "A Blidinje Natúrpark szívében fekvő, 2074 méter magas Vran-hegy jellegzetes karsztvidék, amely gazdag alpesi flórájáról és a Diva Grabovčeva legendájáról híres terület.",
+      ro: "Muntele Vran, situat în Parcul Natural Blidinje, atinge 2074 de metri și impresionează prin relieful său carstic și flora alpină rară, fiind un simbol al regiunii Herțegovina.",
+      en: "Rising to 2,074 meters within Blidinje Nature Park, Vran Mountain is characterized by its stark karst landscape, diverse alpine ecosystems, and rich local folklore traditions.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel Veliki Vran liegt auf 2074 Metern", "Besteht überwiegend aus Kalkstein und Dolomitgestein", "Beherbergt das Grab der legendären Diva Grabovčeva", "Wichtiger Lebensraum für den Steinadler und die Gämse"],
+      hu: ["Legmagasabb csúcsa, a Veliki Vran 2074 méter magas", "Túlnyomórészt mészkőből és dolomitból épül fel", "Itt található a legendás Diva Grabovčeva sírhelye", "Fontos élőhely a szirti sas és a zerge számára"],
+      ro: ["Cel mai înalt vârf, Veliki Vran, are 2074 de metri", "Compus în principal din calcar și roci dolomitice", "Găzduiește mormântul legendarei Diva Grabovčeva", "Habitat important pentru acvila de munte și capra neagră"],
+      en: ["The highest peak, Veliki Vran, reaches 2,074 meters", "Composed primarily of limestone and dolomite rock", "Home to the tomb of the legendary Diva Grabovčeva", "Vital habitat for the golden eagle and chamois"],
     },
   }
 ];

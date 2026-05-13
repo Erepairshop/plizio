@@ -11,9 +11,8 @@ export const poiExtraBotswanaLandmarksV2: POI[] = [
       de: "Three Dikgosi Monument",
       hu: "Három Dikgosi Emlékmű",
       ro: "Monumentul celor Trei Dikgosi",
-      en: "Three Dikgosi Monument",
-image: "/poi-images/gaborone-three-dikgosi-monument-landmarks-v2.webp"
-},
+      en: "Three Dikgosi Monument"},
+    image: "/poi-images/gaborone-three-dikgosi-monument-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-three-dikgosi-monument-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -42,9 +41,8 @@ image: "/poi-images/gaborone-three-dikgosi-monument-landmarks-v2.webp"
       de: "SADC-Hauptquartier",
       hu: "SADC Központ",
       ro: "Sediul Central SADC",
-      en: "SADC Headquarters",
-image: "/poi-images/gaborone-sadc-headquarters-landmarks-v2.webp"
-},
+      en: "SADC Headquarters"},
+    image: "/poi-images/gaborone-sadc-headquarters-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-sadc-headquarters-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -73,9 +71,8 @@ image: "/poi-images/gaborone-sadc-headquarters-landmarks-v2.webp"
       de: "iTowers",
       hu: "iTowers Tornyok",
       ro: "Turnurile iTowers",
-      en: "iTowers",
-image: "/poi-images/gaborone-itowers-landmarks-v2.webp"
-},
+      en: "iTowers"},
+    image: "/poi-images/gaborone-itowers-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-itowers-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -104,9 +101,8 @@ image: "/poi-images/gaborone-itowers-landmarks-v2.webp"
       de: "Kazungula-Brücke",
       hu: "Kazungula-híd",
       ro: "Podul Kazungula",
-      en: "Kazungula Bridge",
-image: "/poi-images/kazungula-bridge-landmarks-v2.webp"
-},
+      en: "Kazungula Bridge"},
+    image: "/poi-images/kazungula-bridge-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) kazungula-bridge-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -135,9 +131,8 @@ image: "/poi-images/kazungula-bridge-landmarks-v2.webp"
       de: "Obed Itani Chilume Stadion",
       hu: "Obed Itani Chilume Stadion",
       ro: "Stadionul Obed Itani Chilume",
-      en: "Obed Itani Chilume Stadium",
-image: "/poi-images/francistown-obed-itani-chilume-stadium-landmarks-v2.webp"
-},
+      en: "Obed Itani Chilume Stadium"},
+    image: "/poi-images/francistown-obed-itani-chilume-stadium-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) francistown-obed-itani-chilume-stadium-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -166,9 +161,8 @@ image: "/poi-images/francistown-obed-itani-chilume-stadium-landmarks-v2.webp"
       de: "Gebäude der Nationalversammlung",
       hu: "Nemzetgyűlés Épülete",
       ro: "Clădirea Adunării Naționale",
-      en: "National Assembly Building",
-image: "/poi-images/gaborone-national-assembly-landmarks-v2.webp"
-},
+      en: "National Assembly Building"},
+    image: "/poi-images/gaborone-national-assembly-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-national-assembly-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -197,9 +191,8 @@ image: "/poi-images/gaborone-national-assembly-landmarks-v2.webp"
       de: "Botswana Innovation Hub",
       hu: "Botswana Innovációs Központ",
       ro: "Centrul de Inovație Botswana",
-      en: "Botswana Innovation Hub",
-image: "/poi-images/gaborone-innovation-hub-landmarks-v2.webp"
-},
+      en: "Botswana Innovation Hub"},
+    image: "/poi-images/gaborone-innovation-hub-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-innovation-hub-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -228,9 +221,8 @@ image: "/poi-images/gaborone-innovation-hub-landmarks-v2.webp"
       de: "Christ-König-Kathedrale",
       hu: "Krisztus Király Katedrális",
       ro: "Catedrala Hristos Regele",
-      en: "Christ the King Cathedral",
-image: "/poi-images/gaborone-christ-the-king-cathedral-landmarks-v2.webp"
-},
+      en: "Christ the King Cathedral"},
+    image: "/poi-images/gaborone-christ-the-king-cathedral-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-christ-the-king-cathedral-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -259,9 +251,8 @@ image: "/poi-images/gaborone-christ-the-king-cathedral-landmarks-v2.webp"
       de: "Orapa House",
       hu: "Orapa Ház",
       ro: "Casa Orapa",
-      en: "Orapa House",
-image: "/poi-images/gaborone-orapa-house-landmarks-v2.webp"
-},
+      en: "Orapa House"},
+    image: "/poi-images/gaborone-orapa-house-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-orapa-house-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -290,9 +281,8 @@ image: "/poi-images/gaborone-orapa-house-landmarks-v2.webp"
       de: "Gaborone International Convention Centre",
       hu: "Gaborone Nemzetközi Kongresszusi Központ",
       ro: "Centrul Internațional de Convenții Gaborone",
-      en: "Gaborone International Convention Centre",
-image: "/poi-images/gaborone-gicc-landmarks-v2.webp"
-},
+      en: "Gaborone International Convention Centre"},
+    image: "/poi-images/gaborone-gicc-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-gicc-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -321,9 +311,8 @@ image: "/poi-images/gaborone-gicc-landmarks-v2.webp"
       de: "Lobatse High Court",
       hu: "Lobatse Legfelsőbb Bíróság",
       ro: "Înalta Curte Lobatse",
-      en: "Lobatse High Court",
-image: "/poi-images/lobatse-high-court-landmarks-v2.webp"
-},
+      en: "Lobatse High Court"},
+    image: "/poi-images/lobatse-high-court-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) lobatse-high-court-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -352,9 +341,8 @@ image: "/poi-images/lobatse-high-court-landmarks-v2.webp"
       de: "Botswana Nationalmuseum",
       hu: "Botswana Nemzeti Múzeuma",
       ro: "Muzeul Național al Botswanei",
-      en: "Botswana National Museum",
-image: "/poi-images/gaborone-national-museum-landmarks-v2.webp"
-},
+      en: "Botswana National Museum"},
+    image: "/poi-images/gaborone-national-museum-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-national-museum-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -383,9 +371,8 @@ image: "/poi-images/gaborone-national-museum-landmarks-v2.webp"
       de: "Moeng College Gebäude",
       hu: "Moeng College Épülete",
       ro: "Clădirea Colegiului Moeng",
-      en: "Moeng College Building",
-image: "/poi-images/moeng-college-historic-building-landmarks-v2.webp"
-},
+      en: "Moeng College Building"},
+    image: "/poi-images/moeng-college-historic-building-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) moeng-college-historic-building-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -414,9 +401,8 @@ image: "/poi-images/moeng-college-historic-building-landmarks-v2.webp"
       de: "Ruinen der London Missionary Society",
       hu: "A Londoni Missziós Társaság Romjai",
       ro: "Ruinele Societății Misionare din Londra",
-      en: "London Missionary Society Ruins",
-image: "/poi-images/old-palapye-church-ruins-landmarks-v2.webp"
-},
+      en: "London Missionary Society Ruins"},
+    image: "/poi-images/old-palapye-church-ruins-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) old-palapye-church-ruins-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -445,9 +431,8 @@ image: "/poi-images/old-palapye-church-ruins-landmarks-v2.webp"
       de: "Phuthadikobo Museum",
       hu: "Phuthadikobo Múzeum",
       ro: "Muzeul Phuthadikobo",
-      en: "Phuthadikobo Museum",
-image: "/poi-images/mochudi-phuthadikobo-museum-landmarks-v2.webp"
-},
+      en: "Phuthadikobo Museum"},
+    image: "/poi-images/mochudi-phuthadikobo-museum-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) mochudi-phuthadikobo-museum-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -476,9 +461,8 @@ image: "/poi-images/mochudi-phuthadikobo-museum-landmarks-v2.webp"
       de: "Masa Square Centre",
       hu: "Masa Square Központ",
       ro: "Centrul Masa Square",
-      en: "Masa Square Centre",
-image: "/poi-images/gaborone-masa-square-landmarks-v2.webp"
-},
+      en: "Masa Square Centre"},
+    image: "/poi-images/gaborone-masa-square-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-masa-square-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -507,9 +491,8 @@ image: "/poi-images/gaborone-masa-square-landmarks-v2.webp"
       de: "Gaborone Hindu-Tempel",
       hu: "Gaborone Hindu Templom",
       ro: "Templul Hindu din Gaborone",
-      en: "Gaborone Hindu Temple",
-image: "/poi-images/gaborone-hindu-temple-landmarks-v2.webp"
-},
+      en: "Gaborone Hindu Temple"},
+    image: "/poi-images/gaborone-hindu-temple-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-hindu-temple-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -538,9 +521,8 @@ image: "/poi-images/gaborone-hindu-temple-landmarks-v2.webp"
       de: "Supa Ngwao Museum",
       hu: "Supa Ngwao Múzeum",
       ro: "Muzeul Supa Ngwao",
-      en: "Supa Ngwao Museum",
-image: "/poi-images/francistown-supa-ngwao-museum-landmarks-v2.webp"
-},
+      en: "Supa Ngwao Museum"},
+    image: "/poi-images/francistown-supa-ngwao-museum-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) francistown-supa-ngwao-museum-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -569,9 +551,8 @@ image: "/poi-images/francistown-supa-ngwao-museum-landmarks-v2.webp"
       de: "Livingstone Memorial",
       hu: "Livingstone Emlékmű",
       ro: "Monumentul Livingstone",
-      en: "Livingstone Memorial",
-image: "/poi-images/kolobeng-livingstone-memorial-landmarks-v2.webp"
-},
+      en: "Livingstone Memorial"},
+    image: "/poi-images/kolobeng-livingstone-memorial-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) kolobeng-livingstone-memorial-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -600,9 +581,8 @@ image: "/poi-images/kolobeng-livingstone-memorial-landmarks-v2.webp"
       de: "Gaborone-Damm",
       hu: "Gaborone-gát",
       ro: "Barajul Gaborone",
-      en: "Gaborone Dam",
-image: "/poi-images/gaborone-dam-landmarks-v2.webp"
-},
+      en: "Gaborone Dam"},
+    image: "/poi-images/gaborone-dam-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-dam-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -631,9 +611,8 @@ image: "/poi-images/gaborone-dam-landmarks-v2.webp"
       de: "Botswana Craft Gebäude",
       hu: "Botswana Craft Épület",
       ro: "Clădirea Botswana Craft",
-      en: "Botswana Craft Building",
-image: "/poi-images/gaborone-botswana-craft-landmarks-v2.webp"
-},
+      en: "Botswana Craft Building"},
+    image: "/poi-images/gaborone-botswana-craft-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-botswana-craft-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -662,9 +641,8 @@ image: "/poi-images/gaborone-botswana-craft-landmarks-v2.webp"
       de: "Botswana Bureau of Standards",
       hu: "Botswana Szabványügyi Hivatal",
       ro: "Biroul de Standarde Botswana",
-      en: "Botswana Bureau of Standards",
-image: "/poi-images/gaborone-bureau-of-standards-landmarks-v2.webp"
-},
+      en: "Botswana Bureau of Standards"},
+    image: "/poi-images/gaborone-bureau-of-standards-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-bureau-of-standards-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -693,9 +671,8 @@ image: "/poi-images/gaborone-bureau-of-standards-landmarks-v2.webp"
       de: "Serowe Royal Cemetery",
       hu: "Serowe Királyi Temető",
       ro: "Cimitirul Regal din Serowe",
-      en: "Serowe Royal Cemetery",
-image: "/poi-images/serowe-royal-cemetery-landmarks-v2.webp"
-},
+      en: "Serowe Royal Cemetery"},
+    image: "/poi-images/serowe-royal-cemetery-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) serowe-royal-cemetery-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -724,9 +701,8 @@ image: "/poi-images/serowe-royal-cemetery-landmarks-v2.webp"
       de: "Nhabe Museum",
       hu: "Nhabe Múzeum",
       ro: "Muzeul Nhabe",
-      en: "Nhabe Museum",
-image: "/poi-images/maun-nhabe-museum-landmarks-v2.webp"
-},
+      en: "Nhabe Museum"},
+    image: "/poi-images/maun-nhabe-museum-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) maun-nhabe-museum-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -755,9 +731,8 @@ image: "/poi-images/maun-nhabe-museum-landmarks-v2.webp"
       de: "Avani Gaborone Resort",
       hu: "Avani Gaborone Resort",
       ro: "Avani Gaborone Resort",
-      en: "Avani Gaborone Resort",
-image: "/poi-images/gaborone-sun-international-landmarks-v2.webp"
-},
+      en: "Avani Gaborone Resort"},
+    image: "/poi-images/gaborone-sun-international-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-sun-international-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -786,9 +761,8 @@ image: "/poi-images/gaborone-sun-international-landmarks-v2.webp"
       de: "Princess Marina Hospital",
       hu: "Princess Marina Kórház",
       ro: "Spitalul Princess Marina",
-      en: "Princess Marina Hospital",
-image: "/poi-images/gaborone-princess-marina-hospital-landmarks-v2.webp"
-},
+      en: "Princess Marina Hospital"},
+    image: "/poi-images/gaborone-princess-marina-hospital-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-princess-marina-hospital-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -817,9 +791,8 @@ image: "/poi-images/gaborone-princess-marina-hospital-landmarks-v2.webp"
       de: "UB Administration Block",
       hu: "UB Igazgatási Épület",
       ro: "Blocul de Administrare UB",
-      en: "UB Administration Block",
-image: "/poi-images/gaborone-university-admin-block-landmarks-v2.webp"
-},
+      en: "UB Administration Block"},
+    image: "/poi-images/gaborone-university-admin-block-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) gaborone-university-admin-block-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -848,9 +821,8 @@ image: "/poi-images/gaborone-university-admin-block-landmarks-v2.webp"
       de: "Bank of Botswana Hauptsitz",
       hu: "Botswanai Nemzeti Bank Központja",
       ro: "Sediul Băncii din Botswana",
-      en: "Bank of Botswana Headquarters",
-image: "/poi-images/bank-of-botswana-landmarks-v2.webp"
-},
+      en: "Bank of Botswana Headquarters"},
+    image: "/poi-images/bank-of-botswana-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) bank-of-botswana-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -879,9 +851,8 @@ image: "/poi-images/bank-of-botswana-landmarks-v2.webp"
       de: "Francistown Bahnhof",
       hu: "Francistown Vasútállomás",
       ro: "Gara Francistown",
-      en: "Francistown Railway Station",
-image: "/poi-images/francistown-railway-station-landmarks-v2.webp"
-},
+      en: "Francistown Railway Station"},
+    image: "/poi-images/francistown-railway-station-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) francistown-railway-station-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },
@@ -910,9 +881,8 @@ image: "/poi-images/francistown-railway-station-landmarks-v2.webp"
       de: "Sir Seretse Khama Statue",
       hu: "Sir Seretse Khama Szobra",
       ro: "Statuia lui Sir Seretse Khama",
-      en: "Sir Seretse Khama Statue",
-image: "/poi-images/seretse-khama-statue-landmarks-v2.webp"
-},
+      en: "Sir Seretse Khama Statue"},
+    image: "/poi-images/seretse-khama-statue-landmarks-v2.webp",
     descriptionAdvanced: {
       hu: "A(z) seretse-khama-statue-landmarks-v2 Botswana egyedi és lenyűgöző része, amely fontos szerepet játszik a helyi kultúrában és történelemben. A térség földrajzi adottságai és a közösség hagyományai együttesen teszik felejthetetlenné. (Földrajz K7 — Botswana régiói)"
     },

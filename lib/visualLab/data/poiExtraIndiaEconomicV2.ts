@@ -11,9 +11,8 @@ export const poiExtraIndiaEconomicV2: POI[] = [
       de: "Hafen von Mumbai",
       hu: "Mumbai kikötő",
       ro: "Portul Mumbai",
-      en: "Mumbai Port",
-image: "/poi-images/mumbai-port-economic-v2.webp"
-},
+      en: "Mumbai Port"},
+    image: "/poi-images/mumbai-port-economic-v2.webp",
     description: {
       de: "Einer der größten Häfen Indiens, der einen bedeutenden Teil des Seehandels des Landes abwickelt.",
       hu: "India egyik legnagyobb kikötője, amely az ország tengeri kereskedelmének jelentős részét bonyolítja.",
@@ -48,9 +47,8 @@ image: "/poi-images/mumbai-port-economic-v2.webp"
       de: "Bengaluru IT-Hub",
       hu: "Bengaluru IT központ",
       ro: "Centrul IT din Bengaluru",
-      en: "Bengaluru IT Hub",
-image: "/poi-images/bengaluru-it-hub-economic-v2.webp"
-},
+      en: "Bengaluru IT Hub"},
+    image: "/poi-images/bengaluru-it-hub-economic-v2.webp",
     description: {
       de: "Bekannt als das 'Silicon Valley Indiens', ist Bengaluru ein wichtiges Zentrum für die Informationstechnologiebranche.",
       hu: "India 'Szilícium-völgyeként' ismert Bengaluru az információs technológiai ipar egyik fő központja.",
@@ -85,9 +83,8 @@ image: "/poi-images/bengaluru-it-hub-economic-v2.webp"
       de: "Jharia-Kohlenfeld",
       hu: "Jharia szénmező",
       ro: "Bazinul carbonifer Jharia",
-      en: "Jharia Coalfield",
-image: "/poi-images/jharia-coalfield-economic-v2.webp"
-},
+      en: "Jharia Coalfield"},
+    image: "/poi-images/jharia-coalfield-economic-v2.webp",
     description: {
       de: "Eines der größten Kohlenreserven in Indien und ein Hauptlieferant von Kokskohle für die Stahlindustrie.",
       hu: "India egyik legnagyobb széntartaléka és a koksz egyik fő szállítója az acélipar számára.",
@@ -122,9 +119,8 @@ image: "/poi-images/jharia-coalfield-economic-v2.webp"
       de: "Hafen von Mundra",
       hu: "Mundra kikötő",
       ro: "Portul Mundra",
-      en: "Mundra Port",
-image: "/poi-images/mundra-port-economic-v2.webp"
-},
+      en: "Mundra Port"},
+    image: "/poi-images/mundra-port-economic-v2.webp",
     description: {
       de: "Indiens größter privater Hafen und ein wichtiges Tor für den Handel im Norden Indiens.",
       hu: "India legnagyobb magánkikötője és fontos kapu Észak-India kereskedelme számára.",
@@ -159,9 +155,8 @@ image: "/poi-images/mundra-port-economic-v2.webp"
       de: "Reliance Jamnagar Raffinerie",
       hu: "Reliance Jamnagar finomító",
       ro: "Rafinăria Reliance Jamnagar",
-      en: "Reliance Jamnagar Refinery",
-image: "/poi-images/reliance-jamnagar-refinery-economic-v2.webp"
-},
+      en: "Reliance Jamnagar Refinery"},
+    image: "/poi-images/reliance-jamnagar-refinery-economic-v2.webp",
     description: {
       de: "Die größte Ölraffinerie der Welt, ein wichtiger Akteur auf dem globalen Ölmarkt.",
       hu: "A világ legnagyobb olajfinomítója, amely kulcsfontosságú szereplő a globális olajpiacon.",
@@ -196,9 +191,8 @@ image: "/poi-images/reliance-jamnagar-refinery-economic-v2.webp"
       de: "Delhi-NCR Handelszentrum",
       hu: "Delhi-NCR kereskedelmi központ",
       ro: "Centrul comercial Delhi-NCR",
-      en: "Delhi-NCR Trade Hub",
-image: "/poi-images/delhi-ncr-trade-hub-economic-v2.webp"
-},
+      en: "Delhi-NCR Trade Hub"},
+    image: "/poi-images/delhi-ncr-trade-hub-economic-v2.webp",
     description: {
       de: "Die Nationale Hauptstadtregion (NCR) ist ein bedeutendes Handels- und Wirtschaftszentrum in Nordindien.",
       hu: "A Nemzeti Fővárosi Régió (NCR) Észak-India egyik fő kereskedelmi és gazdasági központja.",
@@ -233,9 +227,8 @@ image: "/poi-images/delhi-ncr-trade-hub-economic-v2.webp"
       de: "Hafen von Chennai",
       hu: "Chennai kikötő",
       ro: "Portul Chennai",
-      en: "Chennai Port",
-image: "/poi-images/chennai-port-economic-v2.webp"
-},
+      en: "Chennai Port"},
+    image: "/poi-images/chennai-port-economic-v2.webp",
     description: {
       de: "Einer der ältesten Häfen Indiens und der zweitgrößte Containerhafen des Landes.",
       hu: "India egyik legrégebbi kikötője és az ország második legnagyobb konténerkikötője.",
@@ -270,9 +263,8 @@ image: "/poi-images/chennai-port-economic-v2.webp"
       de: "Kernkraftwerk Kudankulam",
       hu: "Kudankulam atomerőmű",
       ro: "Centrala nucleară de la Kudankulam",
-      en: "Kudankulam Nuclear Power Plant",
-image: "/poi-images/kudankulam-nuclear-power-plant-economic-v2.webp"
-},
+      en: "Kudankulam Nuclear Power Plant"},
+    image: "/poi-images/kudankulam-nuclear-power-plant-economic-v2.webp",
     description: {
       de: "Das leistungsstärkste Kernkraftwerk in Indien und ein wichtiger Beitrag zur Energieversorgung des Landes.",
       hu: "India legnagyobb teljesítményű atomerőműve, amely jelentősen hozzájárul az ország energiaellátásához.",
@@ -307,9 +299,8 @@ image: "/poi-images/kudankulam-nuclear-power-plant-economic-v2.webp"
       de: "Bailadila Eisenerzmine",
       hu: "Bailadila vasércbánya",
       ro: "Mina de minereu de fier Bailadila",
-      en: "Bailadila Iron Ore Mine",
-image: "/poi-images/bailadila-iron-ore-mine-economic-v2.webp"
-},
+      en: "Bailadila Iron Ore Mine"},
+    image: "/poi-images/bailadila-iron-ore-mine-economic-v2.webp",
     description: {
       de: "Bekannt für seine hochwertigen Eisenerzvorkommen, die hauptsächlich nach Japan exportiert werden.",
       hu: "Híres a kiváló minőségű vasérckészleteiről, amelyeket főként Japánba exportálnak.",
@@ -344,9 +335,8 @@ image: "/poi-images/bailadila-iron-ore-mine-economic-v2.webp"
       de: "Ahmedabad Textilindustrie",
       hu: "Ahmedábádi textilipar",
       ro: "Industria textilă din Ahmedabad",
-      en: "Ahmedabad Textile Industry",
-image: "/poi-images/ahmedabad-textile-industry-economic-v2.webp"
-},
+      en: "Ahmedabad Textile Industry"},
+    image: "/poi-images/ahmedabad-textile-industry-economic-v2.webp",
     description: {
       de: "Historisch bekannt als das 'Manchester des Ostens', hat Ahmedabad eine reiche Geschichte in der Textilherstellung.",
       hu: "Történelmileg a 'Kelet Manchestereként' ismert Ahmedábád gazdag textilgyártási múlttal rendelkezik.",
@@ -381,9 +371,8 @@ image: "/poi-images/ahmedabad-textile-industry-economic-v2.webp"
       de: "Hafen von Kolkata",
       hu: "Kalkuttai kikötő",
       ro: "Portul Kolkata",
-      en: "Kolkata Port",
-image: "/poi-images/kolkata-port-economic-v2.webp"
-},
+      en: "Kolkata Port"},
+    image: "/poi-images/kolkata-port-economic-v2.webp",
     description: {
       de: "Indiens einziger großer Flusshafen, der für den Handel mit Südostasien von entscheidender Bedeutung ist.",
       hu: "India egyetlen nagy folyami kikötője, amely létfontosságú a délkelet-ázsiai kereskedelem szempontjából.",
@@ -418,9 +407,8 @@ image: "/poi-images/kolkata-port-economic-v2.webp"
       de: "Pune Automobilzentrum",
       hu: "Pune autóipari központ",
       ro: "Centrul auto din Pune",
-      en: "Pune Automotive Hub",
-image: "/poi-images/pune-automotive-hub-economic-v2.webp"
-},
+      en: "Pune Automotive Hub"},
+    image: "/poi-images/pune-automotive-hub-economic-v2.webp",
     description: {
       de: "Bekannt als das 'Detroit Indiens', ist Pune ein wichtiger Standort für die Automobil- und Fertigungsindustrie.",
       hu: "India 'Detroitjaként' ismert Pune az autó- és feldolgozóipar egyik fő központja.",
@@ -455,9 +443,8 @@ image: "/poi-images/pune-automotive-hub-economic-v2.webp"
       de: "Stahlwerk Vizag",
       hu: "Vizag acélmű",
       ro: "Combinatul siderurgic Vizag",
-      en: "Vizag Steel Plant",
-image: "/poi-images/vizag-steel-plant-economic-v2.webp"
-},
+      en: "Vizag Steel Plant"},
+    image: "/poi-images/vizag-steel-plant-economic-v2.webp",
     description: {
       de: "Ein führendes Stahlwerk in Indien, bekannt für seine hochwertigen Stahlprodukte.",
       hu: "India egyik vezető acélműve, amely kiváló minőségű acéltermékeiről ismert.",
@@ -492,9 +479,8 @@ image: "/poi-images/vizag-steel-plant-economic-v2.webp"
       de: "Surat Diamantenindustrie",
       hu: "Surat gyémántipar",
       ro: "Industria diamantelor din Surat",
-      en: "Surat Diamond Industry",
-image: "/poi-images/surat-diamond-industry-economic-v2.webp"
-},
+      en: "Surat Diamond Industry"},
+    image: "/poi-images/surat-diamond-industry-economic-v2.webp",
     description: {
       de: "Ein globales Zentrum für das Schleifen und Polieren von Diamanten, das einen Großteil der weltweiten Diamanten verarbeitet.",
       hu: "A gyémántcsiszolás és -fényezés globális központja, ahol a világ gyémántjainak nagy részét feldolgozzák.",
@@ -529,9 +515,8 @@ image: "/poi-images/surat-diamond-industry-economic-v2.webp"
       de: "Hafen von Cochin",
       hu: "Koccsi kikötő",
       ro: "Portul Cochin",
-      en: "Cochin Port",
-image: "/poi-images/cochin-port-economic-v2.webp"
-},
+      en: "Cochin Port"},
+    image: "/poi-images/cochin-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen an der Südwestküste Indiens, strategisch günstig an den wichtigsten Seewegen gelegen.",
       hu: "Fontos kikötő India délnyugati partján, stratégiailag a fő tengeri útvonalak mentén helyezkedik el.",
@@ -566,9 +551,8 @@ image: "/poi-images/cochin-port-economic-v2.webp"
       de: "Stahlstadt Bokaro",
       hu: "Bokaro acélváros",
       ro: "Orașul siderurgic Bokaro",
-      en: "Bokaro Steel City",
-image: "/poi-images/bokaro-steel-city-economic-v2.webp"
-},
+      en: "Bokaro Steel City"},
+    image: "/poi-images/bokaro-steel-city-economic-v2.webp",
     description: {
       de: "Eine geplante Stadt, die um das Bokaro-Stahlwerk herum gebaut wurde, eines der größten Stahlwerke Indiens.",
       hu: "Tervezett város, amely a Bokaro Acélmű köré épült, amely India egyik legnagyobb acélműve.",
@@ -603,9 +587,8 @@ image: "/poi-images/bokaro-steel-city-economic-v2.webp"
       de: "Hafen von Paradeep",
       hu: "Paradeep kikötő",
       ro: "Portul Paradeep",
-      en: "Paradeep Port",
-image: "/poi-images/paradeep-port-economic-v2.webp"
-},
+      en: "Paradeep Port"},
+    image: "/poi-images/paradeep-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Seehafen an der Ostküste, der hauptsächlich Eisenerz, Kohle und Rohöl umschlägt.",
       hu: "Fontos tengeri kikötő a keleti parton, amely főként vasércet, szenet és kőolajat kezel.",
@@ -640,9 +623,8 @@ image: "/poi-images/paradeep-port-economic-v2.webp"
       de: "Sasan Ultra Mega Power Project",
       hu: "Sasan Ultra Mega erőmű projekt",
       ro: "Proiectul energetic Sasan Ultra Mega",
-      en: "Sasan Ultra Mega Power Project",
-image: "/poi-images/sasan-ultra-mega-power-project-economic-v2.webp"
-},
+      en: "Sasan Ultra Mega Power Project"},
+    image: "/poi-images/sasan-ultra-mega-power-project-economic-v2.webp",
     description: {
       de: "Eines der größten integrierten Kohleminen- und Kraftwerksprojekte der Welt.",
       hu: "A világ egyik legnagyobb integrált szénbánya- és erőmű-projektje.",
@@ -677,9 +659,8 @@ image: "/poi-images/sasan-ultra-mega-power-project-economic-v2.webp"
       de: "Gurgaon Finanz- und Technologiezentrum",
       hu: "Gurgaon pénzügyi és technológiai központ",
       ro: "Centrul financiar și tehnologic Gurgaon",
-      en: "Gurgaon Financial and Technology Hub",
-image: "/poi-images/gurgaon-financial-and-technology-hub-economic-v2.webp"
-},
+      en: "Gurgaon Financial and Technology Hub"},
+    image: "/poi-images/gurgaon-financial-and-technology-hub-economic-v2.webp",
     description: {
       de: "Ein führendes Finanz- und Industriezentrum mit den Niederlassungen vieler Fortune-500-Unternehmen.",
       hu: "Vezető pénzügyi és ipari központ, ahol számos Fortune 500-as vállalatnak van irodája.",
@@ -714,9 +695,8 @@ image: "/poi-images/gurgaon-financial-and-technology-hub-economic-v2.webp"
       de: "Khetri Kupfermine",
       hu: "Khetri rézbánya",
       ro: "Mina de cupru Khetri",
-      en: "Khetri Copper Mine",
-image: "/poi-images/khetri-copper-mine-economic-v2.webp"
-},
+      en: "Khetri Copper Mine"},
+    image: "/poi-images/khetri-copper-mine-economic-v2.webp",
     description: {
       de: "Bekannt für seine Kupfervorkommen, ist der Khetri-Gürtel seit der Antike ein wichtiges Kupferabbaugebiet.",
       hu: "Rézlelőhelyeiről ismert Khetri öv az ókor óta fontos rézbányászati terület.",

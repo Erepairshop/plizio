@@ -5,9 +5,8 @@ export const luxembourgNatureV2: POI[] = [
     id: "luxembourg-lake-upper-sure-nature-v2",
     parent: "LU",
     type: "lake",
-    name: { de: "Obersauer-Stausee", hu: "Felső-Sûre-tó", ro: "Lacul de pe Sûre Superioară", en: "Lake Upper Sûre",
-image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp"
-},
+    name: { de: "Obersauer-Stausee", hu: "Felső-Sûre-tó", ro: "Lacul de pe Sûre Superioară", en: "Lake Upper Sûre"},
+    image: "/poi-images/luxembourg-lake-upper-sure-nature-v2.webp",
     coordinates: { lat: 49.9014, lng: 5.9125 },
     description: {
       de: "Der größte See Luxemburgs entstand in den 1950er Jahren durch den Bau einer Talsperre. Er dient der Trinkwasserversorgung des Landes und ist ein wichtiges Naherholungsgebiet.",
@@ -39,9 +38,8 @@ imageHint: "Aerial view of Lake Upper Sûre with forested hills",
     id: "luxembourg-sauer-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Sauer", hu: "Sûre", ro: "Râul Sûre", en: "Sauer River",
-image: "/poi-images/luxembourg-sauer-river-nature-v2.webp"
-},
+    name: { de: "Sauer", hu: "Sûre", ro: "Râul Sûre", en: "Sauer River"},
+    image: "/poi-images/luxembourg-sauer-river-nature-v2.webp",
     coordinates: { lat: 49.8117, lng: 6.4214 },
     description: {
       de: "Die Sauer ist ein linker Nebenfluss der Mosel und durchfließt den Norden und Osten Luxemburgs. Sie bildet auf weiten Strecken die natürliche Grenze zu Deutschland.",
@@ -73,9 +71,8 @@ imageHint: "The Sauer River winding through a green valley",
     id: "luxembourg-our-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Our", hu: "Our", ro: "Râul Our", en: "Our River",
-image: "/poi-images/luxembourg-our-river-nature-v2.webp"
-},
+    name: { de: "Our", hu: "Our", ro: "Râul Our", en: "Our River"},
+    image: "/poi-images/luxembourg-our-river-nature-v2.webp",
     coordinates: { lat: 49.9425, lng: 6.2217 },
     description: {
       de: "Dieser Nebenfluss der Sauer entspringt in den Ardennen und prägt die Landschaft im Nordosten des Landes. Die Our ist bekannt für ihr tief eingeschnittenes Tal und malerische Mäander.",
@@ -107,9 +104,8 @@ imageHint: "Our River with rocky banks and forests",
     id: "luxembourg-clerve-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Clerf (Fluss)", hu: "Clerve", ro: "Râul Clerve", en: "Clerve River",
-image: "/poi-images/luxembourg-clerve-river-nature-v2.webp"
-},
+    name: { de: "Clerf (Fluss)", hu: "Clerve", ro: "Râul Clerve", en: "Clerve River"},
+    image: "/poi-images/luxembourg-clerve-river-nature-v2.webp",
     coordinates: { lat: 50.0542, lng: 6.0311 },
     description: {
       de: "Die Clerf ist ein Fluss im Norden Luxemburgs, der durch die Stadt Clervaux fließt. Das Tal ist geprägt von dichten Wäldern und steilen Hängen der Ardennen.",
@@ -141,9 +137,8 @@ imageHint: "River Clerve flowing through Clervaux valley",
     id: "luxembourg-attert-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Attert", hu: "Attert", ro: "Râul Attert", en: "Attert River",
-image: "/poi-images/luxembourg-attert-river-nature-v2.webp"
-},
+    name: { de: "Attert", hu: "Attert", ro: "Râul Attert", en: "Attert River"},
+    image: "/poi-images/luxembourg-attert-river-nature-v2.webp",
     coordinates: { lat: 49.7625, lng: 5.8917 },
     description: {
       de: "Die Attert fließt durch den Westen des Landes und mündet bei Colmar-Berg in die Alzette. Das Attert-Tal ist bekannt für seine sanften Hügel und landwirtschaftliche Nutzung.",
@@ -175,9 +170,8 @@ imageHint: "Attert River in a rural Luxembourg landscape",
     id: "luxembourg-eisch-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Eisch", hu: "Eisch", ro: "Râul Eisch", en: "Eisch River",
-image: "/poi-images/luxembourg-eisch-river-nature-v2.webp"
-},
+    name: { de: "Eisch", hu: "Eisch", ro: "Râul Eisch", en: "Eisch River"},
+    image: "/poi-images/luxembourg-eisch-river-nature-v2.webp",
     coordinates: { lat: 49.6642, lng: 5.9214 },
     description: {
       de: "Die Eisch ist ein Nebenfluss der Alzette und bildet das Zentrum des sogenannten Tals der sieben Schlösser. Die Landschaft ist geprägt von dichten Mischwäldern und historischen Bauten.",
@@ -209,9 +203,8 @@ imageHint: "Eisch River flowing through a wooded valley",
     id: "luxembourg-mamer-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Mamer (Fluss)", hu: "Mamer", ro: "Râul Mamer", en: "Mamer River",
-image: "/poi-images/luxembourg-mamer-river-nature-v2.webp"
-},
+    name: { de: "Mamer (Fluss)", hu: "Mamer", ro: "Râul Mamer", en: "Mamer River"},
+    image: "/poi-images/luxembourg-mamer-river-nature-v2.webp",
     coordinates: { lat: 49.6314, lng: 6.0317 },
     description: {
       de: "Die Mamer entspringt im Gutland und fließt nach Norden, wo sie bei Mersch in die Alzette mündet. Der Flusslauf ist für seine natürliche Dynamik und kleinen Schluchten bekannt.",
@@ -243,9 +236,8 @@ imageHint: "Mamer River surrounded by lush greenery",
     id: "luxembourg-wiltz-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Wiltz (Fluss)", hu: "Wiltz", ro: "Râul Wiltz", en: "Wiltz River",
-image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp"
-},
+    name: { de: "Wiltz (Fluss)", hu: "Wiltz", ro: "Râul Wiltz", en: "Wiltz River"},
+    image: "/poi-images/luxembourg-wiltz-river-nature-v2.webp",
     coordinates: { lat: 49.9625, lng: 5.9317 },
     description: {
       de: "Die Wiltz ist ein Mittelgebirgsfluss in den Öslinger Ardennen. Sie durchfließt tiefe Täler und bildet eine abwechslungsreiche Flusslandschaft mit kleinen Wehren und Felsformationen.",
@@ -277,9 +269,8 @@ imageHint: "Wiltz River in the Oesling region",
     id: "luxembourg-syre-river-nature-v2",
     parent: "LU",
     type: "river",
-    name: { de: "Syr", hu: "Syre", ro: "Râul Syre", en: "Syre River",
-image: "/poi-images/luxembourg-syre-river-nature-v2.webp"
-},
+    name: { de: "Syr", hu: "Syre", ro: "Râul Syre", en: "Syre River"},
+    image: "/poi-images/luxembourg-syre-river-nature-v2.webp",
     coordinates: { lat: 49.6342, lng: 6.2617 },
     description: {
       de: "Die Syr fließt durch den Osten Luxemburgs und mündet bei Mertert in die Mosel. Sie ist bekannt für ihre renaturierten Abschnitte und Feuchtwiesen im Syrdall.",
@@ -311,9 +302,8 @@ imageHint: "Syre River flowing through wetlands",
     id: "luxembourg-kockelscheuer-park-nature-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Kockelscheuer", hu: "Kockelscheuer park", ro: "Parcul Kockelscheuer", en: "Kockelscheuer Park",
-image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp"
-},
+    name: { de: "Kockelscheuer", hu: "Kockelscheuer park", ro: "Parcul Kockelscheuer", en: "Kockelscheuer Park"},
+    image: "/poi-images/luxembourg-kockelscheuer-park-nature-v2.webp",
     coordinates: { lat: 49.5642, lng: 6.1117 },
     description: {
       de: "Kockelscheuer ist ein weitläufiges Naherholungsgebiet im Süden der Stadt Luxemburg. Es umfasst Wälder, Teiche und Sportanlagen und ist bekannt für seine ruhige Atmosphäre.",
@@ -345,9 +335,8 @@ imageHint: "Ponds and paths in Kockelscheuer park",
     id: "luxembourg-remerschen-lakes-nature-v2",
     parent: "LU",
     type: "lake",
-    name: { de: "Baggerweieren Remerschen", hu: "Remerscheni-tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes",
-image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp"
-},
+    name: { de: "Baggerweieren Remerschen", hu: "Remerscheni-tavak", ro: "Lacurile Remerschen", en: "Remerschen Lakes"},
+    image: "/poi-images/luxembourg-remerschen-lakes-nature-v2.webp",
     coordinates: { lat: 49.4917, lng: 6.3625 },
     description: {
       de: "Diese durch Kiesabbau entstandenen Seen bei Remerschen sind heute ein wichtiges Naturschutzgebiet und Freizeitzentrum. Sie bieten Lebensraum für zahlreiche Wasservögel.",
@@ -379,9 +368,8 @@ imageHint: "Remerschen lakes with birdwatching huts",
     id: "luxembourg-echternach-lake-nature-v2",
     parent: "LU",
     type: "lake",
-    name: { de: "Echternacher See", hu: "Echternachi-tó", ro: "Lacul Echternach", en: "Echternach Lake",
-image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp"
-},
+    name: { de: "Echternacher See", hu: "Echternachi-tó", ro: "Lacul Echternach", en: "Echternach Lake"},
+    image: "/poi-images/luxembourg-echternach-lake-nature-v2.webp",
     coordinates: { lat: 49.8042, lng: 6.4017 },
     description: {
       de: "Der Echternacher See ist ein künstlicher See am Rande der ältesten Stadt Luxemburgs. Er wurde in den 1970er Jahren zur Erholung angelegt und ist von einem Park umgeben.",
@@ -413,9 +401,8 @@ imageHint: "Lake Echternach with pedal boats",
     id: "luxembourg-weiswampach-lakes-nature-v2",
     parent: "LU",
     type: "lake",
-    name: { de: "Weiswampacher See", hu: "Weiswampachi-tavak", ro: "Lacurile Weiswampach", en: "Weiswampach Lakes",
-image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp"
-},
+    name: { de: "Weiswampacher See", hu: "Weiswampachi-tavak", ro: "Lacurile Weiswampach", en: "Weiswampach Lakes"},
+    image: "/poi-images/luxembourg-weiswampach-lakes-nature-v2.webp",
     coordinates: { lat: 50.1417, lng: 6.0725 },
     description: {
       de: "Zwei künstlich angelegte Seen im hohen Norden Luxemburgs, die als Freizeit- und Wassersportzentrum dienen. Sie liegen eingebettet in die Hügellandschaft der Ardennen.",
@@ -447,9 +434,8 @@ imageHint: "Aerial view of Weiswampach lakes",
     id: "luxembourg-siwescheleff-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Siweschlëff", hu: "Siweschlëff", ro: "Siweschlëff", en: "Siweschlëff",
-image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp"
-},
+    name: { de: "Siweschlëff", hu: "Siweschlëff", ro: "Siweschlëff", en: "Siweschlëff"},
+    image: "/poi-images/luxembourg-siwescheleff-nature-v2.webp",
     coordinates: { lat: 49.7917, lng: 6.3242 },
     description: {
       de: "Die 'Sieben Schlitze' sind eine imposante Felsformation im Müllerthal, bestehend aus sieben schmalen Felsspalten. Sie bieten spektakuläre Durchgänge für Wanderer.",
@@ -481,9 +467,8 @@ imageHint: "Narrow rock passages of Siweschlëff",
     id: "luxembourg-goldfralay-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Goldfralay", hu: "Goldfralay", ro: "Goldfralay", en: "Goldfralay",
-image: "/poi-images/luxembourg-goldfralay-nature-v2.webp"
-},
+    name: { de: "Goldfralay", hu: "Goldfralay", ro: "Goldfralay", en: "Goldfralay"},
+    image: "/poi-images/luxembourg-goldfralay-nature-v2.webp",
     coordinates: { lat: 49.7942, lng: 6.3317 },
     description: {
       de: "Die Goldfralay ist eine markante Sandsteinfelsformation im Herzen der Luxemburger Schweiz. Der Name bezieht sich auf Legenden über vergrabene Schätze in den Höhlen.",
@@ -515,9 +500,8 @@ imageHint: "Unique sandstone rock formation Goldfralay",
     id: "luxembourg-adlerhorst-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Adlerhorst", hu: "Adlerhorst szikla", ro: "Adlerhorst", en: "Adlerhorst",
-image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp"
-},
+    name: { de: "Adlerhorst", hu: "Adlerhorst szikla", ro: "Adlerhorst", en: "Adlerhorst"},
+    image: "/poi-images/luxembourg-adlerhorst-nature-v2.webp",
     coordinates: { lat: 49.7925, lng: 6.3414 },
     description: {
       de: "Der 'Adlerhorst' ist eine exponierte Felskanzel im Müllerthal, die einen weiten Blick über das Tal der Schwarzen Ernz bietet. Er ist ein Highlight für Kletterer und Wanderer.",
@@ -549,9 +533,8 @@ imageHint: "Rocky viewpoint Adlerhorst overlooking valley",
     id: "luxembourg-eulenburg-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Eulenburg", hu: "Eulenburg", ro: "Eulenburg", en: "Eulenburg",
-image: "/poi-images/luxembourg-eulenburg-nature-v2.webp"
-},
+    name: { de: "Eulenburg", hu: "Eulenburg", ro: "Eulenburg", en: "Eulenburg"},
+    image: "/poi-images/luxembourg-eulenburg-nature-v2.webp",
     coordinates: { lat: 49.7958, lng: 6.3125 },
     description: {
       de: "Die Eulenburg ist ein labyrinthartiger Felskomplex im Müllerthal. Enge Gänge und kleine Höhlen machen diesen Ort zu einem spannenden Ziel für Entdeckungstouren im Wald.",
@@ -583,9 +566,8 @@ imageHint: "Labyrinthine rock corridors of Eulenburg",
     id: "luxembourg-binzeltschleff-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Binzeltschlëff", hu: "Binzeltschlëff", ro: "Binzeltschlëff", en: "Binzeltschlëff",
-image: "/poi-images/luxembourg-binzeltschleff-nature-v2.webp"
-},
+    name: { de: "Binzeltschlëff", hu: "Binzeltschlëff", ro: "Binzeltschlëff", en: "Binzeltschlëff"},
+    image: "/poi-images/luxembourg-binzeltschleff-nature-v2.webp",
     coordinates: { lat: 49.8125, lng: 6.3842 },
     description: {
       de: "Eine enge Felsklamm in der Nähe von Echternach, die durch ihre hohen Sandsteinwände beeindruckt. Der Pfad hindurch ist eines der Highlights der Region Mëllerdall.",
@@ -617,9 +599,8 @@ image: "/poi-images/luxembourg-binzeltschleff-nature-v2.webp"
     id: "luxembourg-champagne-rock-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Champagnerfiels", hu: "Champagnerfiels", ro: "Champagnerfiels", en: "Champagne Rock",
-image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp"
-},
+    name: { de: "Champagnerfiels", hu: "Champagnerfiels", ro: "Champagnerfiels", en: "Champagne Rock"},
+    image: "/poi-images/luxembourg-champagne-rock-nature-v2.webp",
     coordinates: { lat: 49.8158, lng: 6.3525 },
     description: {
       de: "Dieser markante Felsen im Müllerthal erhielt seinen Namen aufgrund seiner Form, die an einen Champagnerkorken erinnert. Er bietet eine weite Aussicht auf das umliegende Waldgebiet.",
@@ -651,9 +632,8 @@ imageHint: "Unique rock formation Champagne Rock",
     id: "luxembourg-heringer-millen-nature-v2",
     parent: "LU",
     type: "landmark",
-    name: { de: "Heringer Millen", hu: "Heringer Millen", ro: "Heringer Millen", en: "Heringer Millen",
-image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp"
-},
+    name: { de: "Heringer Millen", hu: "Heringer Millen", ro: "Heringer Millen", en: "Heringer Millen"},
+    image: "/poi-images/luxembourg-heringer-millen-nature-v2.webp",
     coordinates: { lat: 49.7925, lng: 6.3017 },
     description: {
       de: "Die Heringer Millen ist eine historische Mühle, die heute als Wanderzentrum des Müllerthals dient. Sie liegt an der Mündung mehrerer Bäche und ist von dichter Natur umgeben.",
@@ -685,9 +665,8 @@ imageHint: "Historical mill building in the forest",
     id: "luxembourg-mellerdall-nature-park-nature-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Natur- & Geopark Mëllerdall", hu: "Mëllerdall Natúr- és Geopark", ro: "Parcul Natural și Geoparcul Mëllerdall", en: "Mëllerdall Nature & Geopark",
-image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp"
-},
+    name: { de: "Natur- & Geopark Mëllerdall", hu: "Mëllerdall Natúr- és Geopark", ro: "Parcul Natural și Geoparcul Mëllerdall", en: "Mëllerdall Nature & Geopark"},
+    image: "/poi-images/luxembourg-mellerdall-nature-park-nature-v2.webp",
     coordinates: { lat: 49.8217, lng: 6.3042 },
     description: {
       de: "Dieser UNESCO-Geopark umfasst die Region der Luxemburger Schweiz mit ihren spektakulären Sandsteinfelsen. Er schützt die einzigartige Geologie und Artenvielfalt des Gebiets.",
@@ -719,9 +698,8 @@ imageHint: "Landscape of Mëllerdall Nature Park",
     id: "luxembourg-prenzebierg-nature-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Prënzebierg", hu: "Prënzebierg", ro: "Prënzebierg", en: "Prënzebierg",
-image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp"
-},
+    name: { de: "Prënzebierg", hu: "Prënzebierg", ro: "Prënzebierg", en: "Prënzebierg"},
+    image: "/poi-images/luxembourg-prenzebierg-nature-v2.webp",
     coordinates: { lat: 49.5317, lng: 5.8942 },
     description: {
       de: "Das Naturschutzgebiet Prënzebierg bei Petingen liegt in der ehemaligen Eisenerz-Minenregion. Die Natur hat sich das Gelände zurückerobert und bietet heute eine enorme Artenvielfalt.",
@@ -753,9 +731,8 @@ imageHint: "Red rock walls and greenery in Prënzebierg",
     id: "luxembourg-ellergronn-nature-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Ellergronn", hu: "Ellergronn", ro: "Ellergronn", en: "Ellergronn",
-image: "/poi-images/luxembourg-ellergronn-nature-v2.webp"
-},
+    name: { de: "Ellergronn", hu: "Ellergronn", ro: "Ellergronn", en: "Ellergronn"},
+    image: "/poi-images/luxembourg-ellergronn-nature-v2.webp",
     coordinates: { lat: 49.4742, lng: 5.9725 },
     description: {
       de: "Ellergronn ist ein Naturschutzgebiet südlich von Esch-sur-Alzette. Es ist Teil des UNESCO-Biosphärenreservats 'Minett' und bekannt für seine rekultivierten Tagebaulandschaften.",
@@ -787,9 +764,8 @@ imageHint: "Nature reserve path in Ellergronn",
     id: "luxembourg-telpeschholz-nature-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Telpeschholz", hu: "Telpeschholz", ro: "Telpeschholz", en: "Telpeschholz",
-image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp"
-},
+    name: { de: "Telpeschholz", hu: "Telpeschholz", ro: "Telpeschholz", en: "Telpeschholz"},
+    image: "/poi-images/luxembourg-telpeschholz-nature-v2.webp",
     coordinates: { lat: 49.6917, lng: 6.0742 },
     description: {
       de: "Die Telpeschholz ist eine Heidelandschaft bei Kehlen. Sie stellt eines der wenigen verbliebenen Heidegebiete Luxemburgs dar und beherbergt spezialisierte Pflanzenarten.",
@@ -821,9 +797,8 @@ imageHint: "Heathland landscape in Telpeschholz",
     id: "luxembourg-am-brill-nature-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Am Brill (Bettange)", hu: "Am Brill", ro: "Am Brill", en: "Am Brill",
-image: "/poi-images/luxembourg-am-brill-nature-v2.webp"
-},
+    name: { de: "Am Brill (Bettange)", hu: "Am Brill", ro: "Am Brill", en: "Am Brill"},
+    image: "/poi-images/luxembourg-am-brill-nature-v2.webp",
     coordinates: { lat: 49.5617, lng: 5.9925 },
     description: {
       de: "Das Naturschutzgebiet 'Am Brill' liegt im Mess-Tal. Es ist ein wertvolles Feuchtgebiet mit Schilfflächen und Teichen, das vielen bedrohten Vogelarten als Rastplatz dient.",
@@ -855,9 +830,8 @@ imageHint: "Wetlands and reed beds in Am Brill",
     id: "luxembourg-leiffrachen-nature-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Léiffrächen", hu: "Léiffrächen", ro: "Léiffrächen", en: "Léiffrächen",
-image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp"
-},
+    name: { de: "Léiffrächen", hu: "Léiffrächen", ro: "Léiffrächen", en: "Léiffrächen"},
+    image: "/poi-images/luxembourg-leiffrachen-nature-v2.webp",
     coordinates: { lat: 49.4842, lng: 6.0117 },
     description: {
       de: "Dieses Naturschutzgebiet bei Kayl umfasst ehemalige Tagebauflächen der 'Minett'-Region. Es zeichnet sich durch Trockenrasen und eine hohe Vielfalt an Insekten und Orchideen aus.",
@@ -889,9 +863,8 @@ imageHint: "Dry grasslands and rocky patches in Léiffrächen",
     id: "luxembourg-valley-of-seven-castles-nature-v2",
     parent: "LU",
     type: "valley",
-    name: { de: "Tal der sieben Schlösser", hu: "Hét kastély völgye", ro: "Valea celor Șapte Castele", en: "Valley of the Seven Castles",
-image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp"
-},
+    name: { de: "Tal der sieben Schlösser", hu: "Hét kastély völgye", ro: "Valea celor Șapte Castele", en: "Valley of the Seven Castles"},
+    image: "/poi-images/luxembourg-valley-of-seven-castles-nature-v2.webp",
     coordinates: { lat: 49.6917, lng: 5.9614 },
     description: {
       de: "Das Eischtal im Westen Luxemburgs ist als Tal der sieben Schlösser bekannt. Es bietet eine malerische Kombination aus dichtem Wald, sanften Flusswindungen und historischen Monumenten.",
@@ -923,9 +896,8 @@ imageHint: "Panoramic view of the Eisch valley",
     id: "luxembourg-mamer-valley-nature-v2",
     parent: "LU",
     type: "valley",
-    name: { de: "Mamertal", hu: "Mamer-völgy", ro: "Valea Mamer", en: "Mamer Valley",
-image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
-},
+    name: { de: "Mamertal", hu: "Mamer-völgy", ro: "Valea Mamer", en: "Mamer Valley"},
+    image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp",
     coordinates: { lat: 49.6542, lng: 6.0525 },
     description: {
       de: "Das Tal der Mamer zwischen Mamer und Kopstal ist ein geschütztes Naturgebiet. Es zeichnet sich durch steile Waldhänge, Felsvorsprünge und eine unberührte Flusslandschaft aus.",
@@ -973,6 +945,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Length of 11 kilometers", "Mouth in the Alzette", "Flows through Reckingen", "Southern drainage basin"],
     },
     imageHint: "small river flowing through green meadows in luxembourg",
+    descriptionAdvanced: {
+      de: "Die Mess ist ein kleiner, aber ökologisch wertvoller Wasserlauf im Süden Luxemburgs, der das Gutland durchquert. Als einer der wenigen Flüsse, die direkt in die Alzette münden, spielt sie eine wichtige Rolle im lokalen Wassersystem. Das Tal der Mess ist geprägt von einer sanften Hügellandschaft und weiten landwirtschaftlichen Flächen, die einen Einblick in das traditionelle ländliche Leben des Landes bieten. Entlang des Flusslaufs wurden in den letzten Jahren mehrere Renaturierungsprojekte durchgeführt, um die natürliche Dynamik des Gewässers wiederherzustellen und Lebensräume für bedrohte Tierarten zu schaffen. Für Spaziergänger bietet das flache Gelände ideale Bedingungen für entspannte Ausflüge in die Natur, fernab der städtischen Hektik. Die Mess ist zudem ein wichtiger Indikator für die Wasserqualität in der Region Minett und wird regelmäßig von Umweltschützern überwacht.",
+      hu: "A Mess egy viszonylag rövid, mindössze 11 kilométer hosszú folyó Luxemburg déli részén, amely a Gutland dombos tájain kanyarog keresztül. Bár méreteiben elmarad az ország nagy folyóitól, ökológiai jelentősége kiemelkedő, mivel fontos mellékfolyója az Alzette-nek. A Mess-völgy látképe hűen tükrözi a luxemburgi vidék békéjét: a folyó mentén elterülő dús rétek és gondosan művelt mezőgazdasági területek határozzák meg a környék karakterét. Az elmúlt évtizedben jelentős erőfeszítéseket tettek a folyómeder revitalizációjára, aminek köszönhetően számos őshonos növény- és állatfaj tért vissza a területre. A természetjárók számára a folyó menti ösvények könnyű, élvezetes kikapcsolódást nyújtanak, ahol megfigyelhető a vizes élőhelyek gazdag madárvilága és a vidék csendes harmóniája.",
+      ro: "Râul Mess este un curs de apă modest, dar semnificativ, situat în sudul Luxemburgului, traversând regiunea pitorească Gutland. Cu o lungime de aproximativ 11 kilometri, acest afluent al Alzettei contribuie esențial la biodiversitatea locală a zonei. Valea râului Mess este caracterizată printr-un relief domol, dominat de câmpii fertile și zone agricole care păstrează farmecul rural autentic al țării. În ultimii ani, cursul râului a beneficiat de proiecte ample de renaturare, menite să refacă ecosistemele fragile și să îmbunătățească calitatea apei. Aceste măsuri au transformat malurile râului într-un refugiu ideal pentru diverse specii de păsări și amfibieni. Pentru vizitatori, zona oferă trasee de plimbare relaxante, departe de agitația centrelor urbane, fiind un loc perfect pentru a observa interacțiunea dintre activitatea umană tradițională și regenerarea naturală.",
+      en: "The Mess is a small yet ecologically significant watercourse in southern Luxembourg, flowing through the heart of the Gutland region. Stretching for about 11 kilometers before joining the Alzette, this river plays a crucial role in the local drainage system and supports a variety of wetland habitats. The landscape surrounding the Mess is defined by rolling hills and expansive agricultural fields, offering a glimpse into Luxembourg's rural heritage. Recent environmental initiatives have focused on renaturing sections of the river, restoring its natural bends and improving biodiversity. These efforts have made the Mess valley a popular spot for nature lovers and birdwatchers, who can enjoy the peaceful atmosphere and the sight of rare species returning to the area. The gentle terrain makes it particularly suitable for easy hikes and cycling trips through a quintessential Luxembourgish countryside."
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 11 Kilometer", "Mündung: Alzette bei Bergem", "Einzugsgebiet: ca. 33 km²", "Renaturierungsprojekte seit 2010", "Wichtiges Biotop für den Eisvogel", "Höhenlage: ca. 270 m ü. NN", "Durchfließt die Gemeinde Reckingen", "Teil des Natura 2000 Netzwerks"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-wark-river-nature-v2",
@@ -993,6 +977,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Length of 28 kilometers", "Tributary of the Alzette", "Source near Grevels", "Mouth in Ettelbruck"],
     },
     imageHint: "river wark winding through green valley luxembourg",
+    descriptionAdvanced: {
+      de: "Die Wark ist ein malerischer Fluss im Norden Luxemburgs, der durch die zerklüfteten Landschaften des Öslings fließt. Mit einer Länge von 28 Kilometern bietet sie eine beeindruckende Vielfalt an Flusslandschaften, von tief eingeschnittenen Waldschluchten bis hin zu sanfteren Wiesentälern. Der Fluss entspringt in der Nähe von Grevels und schlängelt sich durch das Herz der luxemburgischen Ardennen, bevor er bei Ettelbrück in die Alzette mündet. Die Wark ist bekannt für ihre unberührte Natur und die Ruhe, die sie ausstrahlt, was sie zu einem Geheimtipp für Wanderer macht, die die Einsamkeit suchen. Entlang ihres Laufs finden sich zahlreiche historische Spuren, wie alte Mühlenruinen, die von der einstigen wirtschaftlichen Bedeutung des Flusses zeugen. Die Wasserqualität der Wark ist hervorragend, was sie zu einem idealen Lebensraum für Bachforellen und andere anspruchsvolle Fischarten macht.",
+      hu: "A Wark folyó Luxemburg északi részének egyik legszebb vízi útja, amely az Ösling régió vadregényes tájain vág keresztül. A 28 kilométer hosszú folyó az Ardennek szívében ered Grevels közelében, és Ettelbrucknál egyesül az Alzette-tel. Útja során a Wark mély erdős szurdokokon és napsütötte völgyeken halad át, változatos élőhelyet biztosítva a helyi élővilág számára. A folyó különösen népszerű a horgászok körében a kristálytiszta vize és a benne élő sebes pisztrángok miatt. A Wark-völgy távol esik a főbb turistaútvonalaktól, így megőrizte érintetlen jellegét és nyugalmát, ami tökéletes célponttá teszi a csendes természetjárás kedvelői számára. A part mentén felfedezhető régi malommaradványok emlékeztetnek a múltbéli vidéki iparra, miközben a folyó ma már elsősorban természetvédelmi és rekreációs szerepet tölt be.",
+      ro: "Râul Wark este o bijuterie naturală a nordului Luxemburgului, traversând peisajele spectaculoase ale regiunii Ösling. Cu o lungime de 28 de kilometri, acest râu își are originea lângă Grevels și șerpuiește prin inima Ardenilor luxemburghezi înainte de a se vărsa în Alzette la Ettelbruck. Cursul său oferă un spectacol vizual variat, trecând de la defilee adânci, mărginite de păduri de foioase, la lunci verzi și liniștite. Wark este apreciat pentru puritatea apelor sale, fiind un habitat excelent pentru păstrăvul de munte și alte specii care necesită un mediu nepoluat. Valea râului este mai puțin explorată de turismul de masă, păstrând o atmosferă de izolare și sălbăticie care atrage drumeții pasionați de natură autentică. De-a lungul râului, ruinele vechilor mori de apă adaugă o notă istorică peisajului, mărturisind modul în care forța apei a fost utilizată de comunitățile locale în trecut.",
+      en: "The Wark river is a scenic waterway in northern Luxembourg, carving its path through the rugged Oesling plateau. Originating near Grevels, it flows for 28 kilometers through the heart of the Luxembourgish Ardennes before joining the Alzette at Ettelbruck. The river's journey takes it through deep, forested gorges and open pastoral valleys, creating a diverse landscape that is a haven for local wildlife. Known for its pristine water quality, the Wark is a favored spot for trout fishing and supports a healthy ecosystem of aquatic plants and insects. The valley remains relatively secluded, offering a peaceful retreat for hikers looking to experience Luxembourg's wilder side. Historic remnants, such as old watermills scattered along its banks, tell the story of the river's past industrial importance. Today, the Wark is celebrated primarily for its natural beauty and its role as a vital ecological corridor in the northern highlands."
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 28 Kilometer", "Quelle: bei Grevels (Grosbous)", "Mündung: Alzette in Ettelbrück", "Region: Ösling (Ardennen)", "Einzugsgebiet: ca. 82 km²", "Wichtiger Lebensraum für die Bachforelle", "Historische Wassermühlen am Ufer", "Durchfließt Welscheid und Feulen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-woltz-river-nature-v2",
@@ -1013,6 +1009,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Upper course of the Clerve", "Flows through Clervaux", "Northern Oesling region", "Habitat for brown trout"],
     },
     imageHint: "river woltz in the northern luxembourg mountains",
+    descriptionAdvanced: {
+      de: "Die Woltz ist ein bedeutender Wasserlauf im hohen Norden Luxemburgs und bildet den Oberlauf des Flusses Clerve. Sie entspringt in der Nähe der belgischen Grenze und fließt durch die raue, aber faszinierende Mittelgebirgslandschaft des Öslings. Die Woltz ist geprägt von einem kühleren Klima und einer Landschaft, die von weiten Hochplateaus und tiefen Tälern dominiert wird. Entlang des Flusses finden sich wertvolle Feuchtwiesen, die seltene Pflanzenarten wie die Arnika beherbergen. Der Flusslauf durchquert unter anderem die Stadt Clervaux, wo er das Stadtbild maßgeblich prägt und an den steilen Schieferfelsen vorbeifließt. Die Woltz ist ein Paradebeispiel für die ökologische Vielfalt der Ardennen und bietet Schutzgebiete für zahlreiche Wasservögel und Amphibien. Für Wanderer bietet das Woltz-Tal spektakuläre Ausblicke und gut markierte Wege, die die geologische Geschichte der Region erlebbar machen.",
+      hu: "A Woltz folyó Luxemburg legészakibb részének meghatározó vízfolyása, amely valójában a Clerve-folyó felső szakaszát alkotja. A belga határ közelében eredő folyó az Ösling-fennsík zordabb, de lenyűgöző középhegységi tájain halad keresztül. A Woltz-völgyre jellemző a hűvösebb mikroklíma, ami kedvez az olyan ritka növényfajoknak, mint a hegyi árnika, amely a folyó menti nedves réteken virágzik. Útja során a folyó érinti Clervaux városát is, ahol a festői palasziklák között kanyarogva meghatározza a város romantikus látképét. A Woltz ökológiai szempontból kiemelkedő jelentőségű, mivel számos vízimadár és kétéltű számára biztosít háborítatlan fészkelő- és élőhelyet. A természet kedvelői számára a völgy jól jelzett túraútvonalakat kínál, amelyek bemutatják az Ardennek geológiai fejlődését és a víz felszínformáló erejét.",
+      ro: "Râul Woltz reprezintă cursul superior al râului Clerve, situat în nordul extrem al Luxemburgului, într-o zonă de o frumusețe sălbatică. Izvorând aproape de granița cu Belgia, Woltz traversează platourile înalte și văile adânci ale regiunii Ösling, oferind un peisaj montan joas tipic Ardenilor. Climatul mai rece al acestei regiuni favorizează o floră specializată, luncile umede ale râului fiind renumite pentru prezența arnicăi montane. Pe măsură ce curge spre sud, Woltz trece prin orașul Clervaux, unde valea sa se îngustează, fiind mărginită de versanți abrupți de ardezie care creează un decor dramatic. Râul este un element cheie în rețeaua hidrografică a nordului țării, susținând diverse ecosisteme acvatice și oferind refugiu multor specii de păsări migratoare. Turiștii pot explora valea Woltz prin numeroase trasee de drumeție care dezvăluie istoria geologică și biodiversitatea bogată a acestei regiuni nordice.",
+      en: "The Woltz is a prominent river in the far north of Luxembourg, effectively serving as the upper reach of the Clerve river. Rising near the Belgian border, it flows through the ruggedly beautiful Oesling highlands, characterized by high plateaus and narrow, winding valleys. The region's cooler climate fosters unique biodiversity, with the river's wet meadows providing a home to rare plants like Arnica montana. As it heads south, the Woltz flows through the town of Clervaux, where it carves its way past steep slate cliffs, adding to the town's picturesque charm. Ecologically, the Woltz is vital for the northern Ardennes, offering essential habitats for various water birds and amphibians within its protected banks. Hikers are drawn to the Woltz valley for its dramatic scenery and well-maintained trails that showcase the powerful geological forces that shaped this highland landscape over millions of years."
+    },
+    factsAdvanced: {
+      de: ["Oberlauf der Clerve (Klerf)", "Quelle: bei Huldange (belgische Grenze)", "Region: Nördliches Ösling", "Vorkommen der Arnika (Arnica montana)", "Durchfließt die Stadt Clervaux", "Geologie: Schiefergestein (Devon)", "Wichtiger Brutplatz für Wasservögel", "Höhenlage: ca. 350-500 m ü. NN"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-gander-river-nature-v2",
@@ -1033,6 +1041,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Length of 22 kilometers", "Border river with France", "Flows through Mondorf-les-Bains", "Mouth in the Moselle"],
     },
     imageHint: "river gander at the border luxembourg france",
+    descriptionAdvanced: {
+      de: "Die Gander, im Französischen auch Altbach genannt, ist ein reizvoller Fluss im Südosten Luxemburgs, der auf weiten Strecken die natürliche Grenze zu Frankreich bildet. Mit einer Länge von 22 Kilometern entspringt sie im Gutland und fließt in südöstlicher Richtung, bevor sie in die Mosel mündet. Besonders bekannt ist der Flussabschnitt, der durch den Kurpark von Bad Mondorf fließt und dort für eine idyllische Atmosphäre sorgt. Das Gandertal ist geprägt von sanften Hügeln, Obstwiesen und Weinbergen, was die Region zu einem beliebten Ausflugsziel für Wanderer und Radfahrer macht. Entlang des Flusses wurden verschiedene Naturschutzmaßnahmen umgesetzt, um die Auenlandschaft zu bewahren und den ökologischen Austausch zwischen Luxemburg und Frankreich zu fördern. Die Gander ist nicht nur eine geografische Grenze, sondern auch ein verbindendes Element in einer grenzüberschreitenden Kulturlandschaft, die Natur und Wellness harmonisch vereint.",
+      hu: "A Gander folyó (franciául Altbach) Luxemburg délkeleti részének egyik legérdekesebb vízfolyása, amely hosszú szakaszon természetes határt képez Luxemburg és Franciaország között. A 22 kilométer hosszú folyó a Gutland régióban ered, és délkeleti irányba tartva végül a Mosel folyóba torkollik. A folyó legismertebb szakasza Mondorf-les-Bains fürdővárosán halad keresztül, ahol a gondozott parkok és kertek között folyva különlegesen békés hangulatot áraszt. A Gander-völgy tájképét szelíd dombok, gyümölcsösök és szőlőültetvények alkotják, ami ideális terep a kerékpáros és gyalogos túrákhoz. A folyó mentén kialakított ártéri biotópok fontos ökológiai folyosóként szolgálnak a két ország között, védelmet nyújtva számos növény- és állatfajnak. A Gander így nemcsak politikai határ, hanem egy közös kulturális és természeti örökség része, amely összeköti a határ két oldalán élő közösségeket.",
+      ro: "Râul Gander, cunoscut și sub numele de Altbach, este un curs de apă pitoresc situat în sud-estul Luxemburgului, servind pe porțiuni lungi ca frontieră naturală cu Franța. Având o lungime de 22 de kilometri, Gander izvorăște în regiunea Gutland și curge spre sud-est până la vărsarea sa în Mosela. Râul este faimos în special pentru segmentul care traversează stațiunea balneară Mondorf-les-Bains, unde contribuie la farmecul relaxant al parcului dendrologic. Valea Gander este caracterizată printr-un relief domol, cu livezi de pomi fructiferi și podgorii care profită de microclimatul blând al regiunii. De-a lungul cursului său, au fost implementate măsuri de conservare a luncilor, asigurând un habitat vital pentru biodiversitatea locală și facilitând migrația speciilor peste frontieră. Gander reprezintă astfel mai mult decât o simplă graniță geografică, fiind o axă ecologică și recreativă importantă care leagă comunitățile de pe ambele maluri într-un peisaj armonios.",
+      en: "The Gander, also known as the Altbach, is a charming river in southeastern Luxembourg that forms much of the natural border between Luxembourg and France. Flowing for 22 kilometers from its source in the Gutland, it runs in a southeasterly direction before joining the Moselle. The river is perhaps best known for passing through the spa town of Mondorf-les-Bains, where it winds through the beautiful thermal park, enhancing the town's tranquil ambiance. The Gander valley is a landscape of gentle slopes, traditional orchards, and lush vineyards, making it a favorite destination for cyclists and hikers. Environmental efforts along its banks have focused on preserving floodplain biotopes and fostering ecological connectivity across the border. Beyond its role as a geographical boundary, the Gander serves as a unifying element in a cross-border cultural landscape that seamlessly blends nature, wellness, and agriculture."
+    },
+    factsAdvanced: {
+      de: ["Länge: 22 Kilometer", "Grenzfluss zu Frankreich (Département Moselle)", "Mündung: Mosel bei Haute-Kontz", "Durchfließt den Kurpark von Mondorf-les-Bains", "Region: Südost-Luxemburg (Gutland)", "Nutzung: Früher zahlreiche Wassermühlen", "Ökologie: Vernetzung grenzüberschreitender Biotope", "Höhenlage der Mündung: ca. 145 m ü. NN"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-blees-river-nature-v2",
@@ -1053,6 +1073,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Length of 20 kilometers", "Tributary of the Sauer", "Source near Bastendorf", "Habitat for kingfishers"],
     },
     imageHint: "small rocky river blees in luxembourg forest",
+    descriptionAdvanced: {
+      de: "Die Blees ist ein kleiner, aber wildromantischer Fluss im Nordosten Luxemburgs und ein linker Nebenfluss der Sauer. Mit einer Länge von etwa 20 Kilometern entspringt sie auf den Höhen des Öslings und stürzt sich durch enge, waldreiche Täler und felsige Schluchten hinab. Der Flusslauf ist geprägt von einer hohen Fließgeschwindigkeit und kristallklarem Wasser, was ihn zu einem Rückzugsort für seltene Tierarten wie den Eisvogel und die Wasseramsel macht. Das Bleestal ist weniger erschlossen als benachbarte Täler, was Wanderern ein authentisches Naturerlebnis in unberührter Wildnis ermöglicht. Entlang des Ufers finden sich beeindruckende Felsformationen aus Schiefer, die typisch für die Geologie der Ardennen sind. Die Blees mündet bei Bleesbrück in die Sauer und ist besonders nach Regenfällen ein imposantes Naturschauspiel, wenn das Wasser über die vielen kleinen Felskaskaden rauscht. Die Region ist zudem ein wichtiges Trinkwassergewinnungsgebiet für die lokale Bevölkerung.",
+      hu: "A Blees egy kis méretű, de rendkívül hangulatos folyó Luxemburg északkeleti részén, a Sauer folyó bal oldali mellékfolyója. A mintegy 20 kilométer hosszú folyó az Ösling-fennsík magaslatain ered, majd sebesen zúdul le az Ardennek szűk, erdős völgyein és sziklás szurdokain keresztül. Kristálytiszta vize és gyors folyása ideális életfeltételeket biztosít olyan ritka madárfajoknak, mint a jégmadár és a vízirigó. A Blees-völgy viszonylag érintetlen maradt, így a természetjárók számára valódi, vadregényes élményt nyújt, távol a tömegturizmustól. A folyó partján gyakran láthatóak a régióra jellemző palasziklák, amelyek látványos formákat öltenek a víz eróziós munkájának köszönhetően. A Blees végül Bleesbrücknél éri el a Sauert. Különösen nagyobb esőzések után nyújt lenyűgöző látványt, amikor a megduzzadt víz hangosan zubog át a mederben található természetes kőgátakon és zúgókon.",
+      ro: "Râul Blees este un curs de apă mic, dar sălbatic și romantic, situat în nord-estul Luxemburgului, fiind un afluent de stânga al râului Sauer. Cu o lungime de aproximativ 20 de kilometri, Blees izvorăște de pe înălțimile regiunii Ösling și coboară rapid prin văi înguste, dens împădurite și defilee stâncoase. Puritatea apei și viteza curentului fac din acest râu un refugiu prețios pentru specii rare precum pespărașul și mierla de apă. Valea Blees este una dintre cele mai puțin alterate zone din Ardeni, oferind drumeților o experiență autentică în mijlocul unei naturi virgine. Formațiunile de ardezie care bordează malurile sunt tipice pentru geologia locală și oferă un contrast vizual spectaculos cu verdele intens al pădurilor. Blees se varsă în Sauer la Bleesbrück, iar după perioadele de ploaie, râul devine un spectacol de forță, apa prăvălindu-se peste numeroasele cascade naturale din albie. Regiunea este, de asemenea, esențială pentru captarea apei potabile locale.",
+      en: "The Blees is a small but wildly romantic river in northeastern Luxembourg, serving as a left tributary of the Sûre. Stretching for about 20 kilometers, it rises on the Oesling heights and plunges down through narrow, heavily forested valleys and rocky gorges. The river's fast flow and crystal-clear water make it a sanctuary for specialized wildlife, including the kingfisher and the white-throated dipper. The Blees valley remains largely underdeveloped, offering hikers an authentic experience of untamed nature and tranquility away from more crowded tourist spots. Along its banks, impressive slate rock formations stand as a testament to the ancient geological history of the Ardennes. The Blees joins the Sûre at Bleesbrück, and especially after heavy rainfall, the river transforms into an impressive natural spectacle as water rushes over small rocky cascades. Beyond its beauty, the region is also an important area for local drinking water extraction, highlighting its vital ecological role."
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 20 Kilometer", "Quelle: bei Hoscheid-Dickt", "Mündung: Sauer bei Bleesbrück", "Region: Nordost-Luxemburg (Ösling)", "Habitat: Eisvogel und Wasseramsel", "Geologie: Ardenner Schiefer", "Bedeutung: Lokale Trinkwassergewinnung", "Charakter: Schnelle Fließgeschwindigkeit mit Kaskaden"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-molberlee-nature-v2",
@@ -1073,6 +1105,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Schist rock formation", "Part of the Eislek Trail", "Viewpoint near Hoscheid", "Unique rock vegetation"],
     },
     imageHint: "rocky ridge molberlee luxembourg landscape",
+    descriptionAdvanced: {
+      de: "Die Molberlee bei Hoscheid ist eine der markantesten geologischen Formationen Luxemburgs und ein echtes Highlight für Wanderer. Es handelt sich um einen schmalen, schroffen Schieferkamm, der steil über dem Tal der Wiltz aufragt. Der Kamm bietet ein fast alpines Gefühl, da der Pfad direkt auf dem Grat verläuft und spektakuläre Tiefblicke zu beiden Seiten ermöglicht. Die Molberlee ist Teil des berühmten Eislek-Trails und bekannt für ihre karge, aber spezialisierte Felsvegetation, die den extremen Bedingungen am Hang trotzt. Geologisch gesehen zeugt der Kamm von der intensiven Faltung und Erosion der Ardennen im Laufe von Millionen von Jahren. Für Naturfotografen bietet die Molberlee besonders im Herbst, wenn die Täler oft im Nebel liegen und nur der Kamm herausragt, atemberaubende Motive. Die Wanderung über den Kamm erfordert Trittsicherheit, wird aber mit einer unvergleichlichen Rundumsicht über das nördliche Luxemburg belohnt.",
+      hu: "A Hoscheid közelében található Molberlee Luxemburg egyik leglátványosabb geológiai képződménye, amely valódi különlegesség a túrázók számára. Ez egy keskeny, meredek palagerinc, amely büszkén emelkedik a Wiltz-völgy fölé. A gerincen végigvezető ösvény szinte alpesi élményt nyújt, hiszen a túrázóknak közvetlenül a sziklaélen kell haladniuk, ahonnan mindkét irányba lenyűgöző mélységek tárulnak fel. A Molberlee a híres Eislek-ösvény egyik fénypontja, és különleges sziklanövényzetéről ismert, amely képes megélni a kitett, szeles környezetben. Földtani szempontból a gerinc az Ardennek évmilliókig tartó gyűrődési és eróziós folyamatainak ékes bizonyítéka. A természetfotósok számára különösen ősszel nyújt felejthetetlen látványt, amikor a völgyekbe gyakran beül a köd, és csak a Molberlee éles gerince emelkedik ki belőle. A túra biztos lépést igényel, de a panoráma minden fáradságért kárpótol.",
+      ro: "Molberlee, situată lângă Hoscheid, este una dintre cele mai spectaculoase formațiuni geologice din Luxemburg și un punct de referință pentru drumeții montane. Această creastă îngustă de ardezie se înalță abrupt deasupra văii râului Wiltz, oferind un peisaj care amintește de crestele alpine. Poteca traversează chiar muchia stâncoasă, oferind perspective amețitoare și vederi panoramice impresionante în ambele direcții. Molberlee face parte din celebrul traseu Eislek Trail și este renumită pentru vegetația sa specializată care crește direct pe stâncă, adaptată condițiilor meteorologice aspre. Din punct de vedere geologic, creasta este o mărturie vie a forțelor de încrețire și eroziune care au modelat Ardenii de-a lungul a milioane de ani. Pentru pasionații de fotografie, locul este magic în timpul toamnei, când valea este adesea acoperită de o mare de ceață din care răsare doar creasta ascuțită. Parcurgerea traseului necesită atenție sporită și încălțăminte adecvată, fiind o experiență de neuitat în inima naturii luxemburgheze.",
+      en: "Molberlee near Hoscheid is one of Luxembourg's most striking geological landmarks and a true highlight for avid hikers. It is a narrow, rugged schist ridge that rises steeply above the Wiltz valley, offering an almost alpine experience. The trail runs directly along the narrow crest, providing spectacular views and a sense of exhilaration as the terrain drops away on both sides. Part of the renowned Eislek Trail, Molberlee is known for its sparse but resilient rock vegetation that thrives in this exposed environment. Geologically, the ridge is a testament to the intense folding and erosion that have shaped the Ardennes over millions of years. For landscape photographers, it offers breathtaking views, especially in autumn when low-lying mists often fill the valleys while the ridge stands clear above them. Hiking across the Molberlee requires a steady foot, but the reward is an unparalleled 360-degree panorama of the northern Luxembourg highlands."
+    },
+    factsAdvanced: {
+      de: ["Geologie: Schieferkamm (Eislek)", "Teil des Eislek-Trails (Etappe 2)", "Lage: Nahe Hoscheid (Kanton Diekirch)", "Vegetation: Flechten, Moose und Felsfarne", "Aussicht: Panoramablick über das Wiltz-Tal", "Wanderung: Rundweg 'Molberlee' (ca. 6 km)", "Besonderheit: Alpiner Charakter auf engem Raum", "Höchster Punkt des Kamms: ca. 450 m ü. NN"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-hockslay-nature-v2",
@@ -1093,6 +1137,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Quartzite rock formation", "Viewpoint near Wiltz", "Surrounded by oak forests", "Geological monument"],
     },
     imageHint: "large rock formation hockslay near wiltz luxembourg",
+    descriptionAdvanced: {
+      de: "Die Hockslay ist eine imposante Felsformation, die majestätisch über der Stadt Wiltz thront und einen der besten Aussichtspunkte in der Region Ösling bietet. Das Gestein besteht hauptsächlich aus hartem Quarzit, der den Kräften der Verwitterung besser widerstanden hat als das umliegende Schiefergestein. Von der Kanzel der Hockslay aus haben Besucher einen weiten Blick über das obere Wiltz-Tal und die dichten Eichenwälder, die für diese Gegend so charakteristisch sind. Die Felswand ist nicht nur ein geologisches Denkmal, sondern auch ein wichtiger Lebensraum für spezialisierte Pflanzenarten und Greifvögel, die in den Nischen der Felsen nisten. Historisch gesehen war die Hockslay oft ein Ort der Inspiration für lokale Künstler und Poeten, die die Erhabenheit der Landschaft besungen haben. Ein gut ausgebauter Wanderweg führt von Wiltz aus hinauf zur Formation, wobei der Aufstieg durch die schattigen Wälder besonders an heißen Sommertagen eine willkommene Abkühlung bietet.",
+      hu: "A Hockslay egy impozáns sziklaképződmény, amely méltóságteljesen magasodik Wiltz városa fölé, és az Ösling régió egyik legszebb kilátópontját kínálja. A szikla anyaga elsősorban kemény kvarcit, amely jobban ellenállt az eróziónak, mint a környező palás kőzetek, így alakulhatott ki ez a kiemelkedő forma. A Hockslay sziklapereméről a látogatók lélegzetelállító kilátást élvezhetnek a felső Wiltz-völgyre és a környékre jellemző sűrű tölgyerdőkre. A sziklafal nemcsak földtani emlékhely, hanem fontos élőhely is a speciális sziklalakó növények és a fal hasadékaiban fészkelő ragadozómadarak számára. Történelmileg a Hockslay gyakran szolgált ihletforrásul a helyi művészek és költők számára, akiket lenyűgözött a táj vadsága és szépsége. Wiltz városából jól kiépített túraútvonal vezet fel a sziklához, az árnyas erdőkön átvezető út pedig különösen a forró nyári napokon nyújt kellemes felüdülést.",
+      ro: "Hockslay este o formațiune stâncoasă impunătoare care domină orașul Wiltz, oferind unul dintre cele mai frumoase puncte de belvedere din regiunea Ösling. Structura sa este formată în principal din cuarțit dur, care a rezistat eroziunii mult mai bine decât straturile de ardezie înconjurătoare, creând acest relief proeminent. De pe platforma naturală a Hockslay, vizitatorii pot admira valea superioară a râului Wiltz și pădurile de stejar vaste, tipice pentru acest peisaj arden. Stânca nu este doar un monument geologic, ci și un ecosistem vital pentru plante rupicole rare și păsări de pradă care își găsesc adăpost în fisurile sale. De-a lungul timpului, Hockslay a fost un loc de inspirație pentru artiștii locali, atrași de măreția și sălbăticia locului. Un traseu de drumeție bine marcat pornește din orașul Wiltz și urcă spre stâncă, oferind o plimbare revigorantă prin pădurea deasă, fiind o destinație populară pentru recreere în aer liber.",
+      en: "Hockslay is an imposing rock formation that stands majestically above the town of Wiltz, providing one of the finest vantage points in the Oesling region. Composed primarily of resilient quartzite, it has withstood weathering better than the surrounding slate, resulting in its prominent stature. From the natural ledge of Hockslay, visitors enjoy sweeping views over the upper Wiltz valley and the dense oak forests that define this rugged landscape. The rock face serves as both a geological monument and a critical habitat for specialized flora and nesting birds of prey that utilize its crags. Historically, Hockslay has been a place of inspiration for local artists and poets moved by the grandeur of the Ardennes scenery. A well-marked hiking trail leads from Wiltz up to the formation, with the ascent through shaded woodlands providing a refreshing escape, especially during the warmer summer months."
+    },
+    factsAdvanced: {
+      de: ["Geologie: Quarzitfelsen", "Lage: Oberhalb von Wiltz", "Aussicht: Oberes Wiltz-Tal", "Vegetation: Charakteristischer Lohhecken-Eichenwald", "Wanderweg: Wiltz Local Trails", "Bedeutung: Geologisches Naturdenkmal", "Fauna: Horstplatz für Greifvögel", "Charakter: Natürliche Felskanzel"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-noumerleeen-nature-v2",
@@ -1113,6 +1169,19 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Luxembourg Sandstone", "Honeycomb weathering", "Rock path near Nommern", "Gorges and labyrinths"],
     },
     imageHint: "sandstone rock formations noumerleeen luxembourg",
+    descriptionAdvanced: {
+      de: "Die Noumerleeën bei Nommern bilden ein faszinierendes Felslabyrinth aus Luxemburger Sandstein, das als einer der geologischen Schätze des Landes gilt. Diese Formationen sind weltberühmt für ihre bizarren Wabenverwitterungen, die dem Stein eine fast schwammartige Struktur verleihen. Enge Spalten, dunkle Höhlen und turmartige Felsen wechseln sich ab und laden zu einer abenteuerlichen Erkundungstour ein. Das Gebiet der Noumerleeën bietet nicht nur spektakuläre Naturformen, sondern war auch schon in der Steinzeit und während der Keltenzeit als Zufluchtsort besiedelt, worauf archäologische Funde hindeuten. Der Wanderweg durch die Felsen gehört zu den schönsten Routen des Mullerthal Trails und führt durch eine Landschaft, die fast wie aus einer anderen Welt wirkt. Farne und Moose bedecken die kühlen, feuchten Felswände und schaffen ein mystisches Ambiente. Für Geologen sind die Noumerleeën ein Lehrbuchbeispiel für die Erosionskraft von Wind und Wasser auf sedimentärem Untergrund.",
+      hu: "A Nommern közelében található Noumerleeën a luxemburgi homokkő egyik leglenyűgözőbb sziklarendszere, amelyet az ország geológiai kincsei között tartanak számon. Ezek a formációk világhírűek különleges méhsejt-mállásukról, amely a szikláknak szinte szivacsszerű szerkezetet kölcsönöz. Szűk hasadékok, sötét barlangok és toronyszerű sziklák váltják egymást, hívogatva a kalandvágyó felfedezőket. A Noumerleeën területe nemcsak látványos természeti formákat kínál, hanem régészeti leletek tanúsága szerint már a kőkorszakban és a kelta időkben is lakott menedékhely volt. A sziklák között vezető túraútvonal a Mullerthal Trail egyik legszebb szakasza, amely egy szinte földönkívüli tájon vezet keresztül. Páfrányok és mohák borítják a hűvös, nedves sziklafalakat, misztikus hangulatot árasztva. A geológusok számára a Noumerleeën a szél és a víz üledékes kőzetre gyakorolt eróziós erejének tankönyvi példája.",
+      ro: "Noumerleeën, situată lângă Nommern, constituie un labirint stâncos fascinant format din gresie luxemburgheză, fiind considerată una dintre comorile geologice ale țării. Aceste formațiuni sunt renumite la nivel mondial pentru eroziunea lor alveolară, care oferă pietrei o structură asemănătoare unui fagure de miere. Pasaje înguste, peșteri întunecate și coloane stâncoase se succed, invitând la o explorare aventuroasă. Zona Noumerleeën nu oferă doar forme naturale spectaculoase, ci are și o importanță istorică deosebită, vestigiile arheologice indicând faptul că a servit ca refugiu încă din epoca pietrei și în perioada celtică. Traseul de drumeție care șerpuiește printre stânci face parte din Mullerthal Trail și traversează un peisaj care pare desprins dintr-o altă lume. Pereții stâncoși răcoroși și umezi sunt tapetați cu mușchi și ferigi, creând o ambianță mistică. Pentru geologi, Noumerleeën reprezintă un exemplu clasic de eroziune eoliană și hidraulică asupra rocilor sedimentare.",
+      en: "Noumerleeën near Nommern is a captivating rock labyrinth made of Luxembourg Sandstone, widely regarded as one of the country's geological gems. These formations are world-famous for their bizarre honeycomb weathering, which gives the rocks an almost sponge-like appearance. Narrow crevices, dark caves, and towering rock pillars create a dramatic landscape that invites adventurous exploration. Beyond its spectacular natural forms, the Noumerleeën area holds historical significance; archaeological finds suggest it served as a refuge as far back as the Stone Age and through Celtic times. The trail through the rocks is considered one of the most beautiful segments of the Mullerthal Trail, leading hikers through an otherworldly environment. Ferns and mosses coat the cool, damp rock faces, creating a mystical atmosphere. For geologists, Noumerleeën is a textbook example of the erosive power of wind and water acting on sedimentary substrates over millennia."
+    },
+    factsAdvanced: {
+      de: ["Geologie: Luxemburger Sandstein", "Phänomen: Wabenverwitterung (Honeycomb weathering)", "Lage: Bei Nommern (Region Müllerthal)", "Wanderweg: Mullerthal Trail (ExtraTour A)", "Besonderheit: Felslabyrinth und Höhlen", "Geschichte: Prähistorische Fundstätten", "Flora: Schattenliebende Farne und Moose", "Schutzstatus: Geologisches Naturdenkmal"],
+      hu: [],
+      ro: [],
+      en: [],
+//       en: []
+    }
   },
   {
     id: "luxembourg-kierchbierg-forest-nature-v2",
@@ -1133,6 +1202,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Urban forest in Luxembourg", "Recreational area", "Beech and oak trees", "Near the EU district"],
     },
     imageHint: "forest path in kirchberg luxembourg city",
+    descriptionAdvanced: {
+      de: "Der Kirchberg-Wald ist eine grüne Oase inmitten der modernen Architektur von Luxemburg-Stadt und bietet einen notwendigen Kontrast zum geschäftigen Europaviertel. Dieser Stadtwald erstreckt sich über die Hänge des Kirchberg-Plateaus und dient als wichtige 'grüne Lunge' für die Bewohner und Angestellten der umliegenden Institutionen. Der Bestand setzt sich hauptsächlich aus alten Buchen und Eichen zusammen, die ein dichtes Blätterdach bilden und im Sommer für angenehme Kühle sorgen. Zahlreiche markierte Wege laden zum Joggen, Wandern oder einfach zum Verweilen ein, wobei man oft vergisst, dass man sich nur wenige hundert Meter von den Hauptquartieren der EU-Institutionen entfernt befindet. Der Wald ist zudem ein wichtiger Korridor für die städtische Fauna, in dem Rehe, Füchse und zahlreiche Vogelarten eine Zuflucht finden. Durch verschiedene Kunstinstallationen und Informationspfade wird der Wald auch kulturell und pädagogisch genutzt, um das Bewusstsein für städtische Natur zu schärfen.",
+      hu: "A Kirchberg-erdő egy valóságos zöld oázis Luxemburg város modern épületei között, amely elengedhetetlen kontrasztot nyújt a nyüzsgő Európa-negyed számára. Ez a városszéli erdő a Kirchberg-fennsík lejtőin terül el, és fontos „zöld tüdőként” szolgál a környező intézmények lakói és dolgozói számára. Az erdő állománya főként idős bükk- és tölgyfákból áll, amelyek sűrű lombkoronája a nyári hónapokban kellemes hűvöst biztosít. Számos kijelölt ösvény csábít kocogásra, sétára vagy pihenésre, miközben az ember könnyen megfeledkezik arról, hogy csupán néhány száz méterre van az EU-intézmények központjaitól. Az erdő emellett fontos folyosót alkot a városi fauna számára, ahol őzek, rókák és számos madárfaj talál menedéket. A területen található különféle művészeti alkotások és információs táblák révén az erdő kulturális és oktatási célokat is szolgál, erősítve a városi természet iránti tudatosságot.",
+      ro: "Pădurea Kirchberg este o oază verde situată chiar în inima arhitecturii moderne din orașul Luxemburg, oferind un contrast necesar cu agitația cartierului european. Această pădure urbană se întinde pe versanții platoului Kirchberg și servește ca un „plămân verde” vital pentru rezidenții și angajații instituțiilor internaționale din apropiere. Compoziția pădurii include în principal fagi și stejari bătrâni, care formează un baldachin dens ce oferă o răcoare plăcută în timpul verii. Numeroase poteci marcate invită la jogging, drumeții sau pur și simplu la relaxare, făcându-te să uiți că te afli la doar câteva sute de metri de sediile instituțiilor UE. Pădurea este, de asemenea, un coridor important pentru fauna urbană, fiind un refugiu pentru căprioare, vulpi și numeroase specii de păsări. Prin diverse instalații artistice și panouri informative, pădurea este utilizată și în scopuri culturale și educaționale, promovând respectul pentru natura din mediul urban.",
+      en: "Kirchberg Forest is a vital green oasis nestled amidst the modern architecture of Luxembourg City, providing a necessary contrast to the bustling European Quarter. This urban woodland stretches across the slopes of the Kirchberg plateau, serving as a 'green lung' for residents and employees of the surrounding international institutions. The forest is primarily composed of mature beech and oak trees, creating a dense canopy that offers a welcome escape from the summer heat. Numerous marked paths invite jogging, walking, or simple relaxation, often making visitors forget they are just hundreds of meters away from the headquarters of major EU institutions. Ecologically, the forest acts as a crucial corridor for urban wildlife, providing a sanctuary for deer, foxes, and a wide variety of bird species. Integrated art installations and educational trails also give the forest a cultural and pedagogical dimension, fostering awareness of the importance of urban nature."
+    },
+    factsAdvanced: {
+      de: ["Typ: Stadtwald / Naherholungsgebiet", "Lage: Plateau Kirchberg, Luxemburg-Stadt", "Baumbestand: Vorwiegend Buchen und Eichen", "Fläche: ca. 45 Hektar", "Fauna: Rehe, Füchse, Spechte", "Infrastruktur: Joggingpfade, Trimmdich-Parcours", "Besonderheit: Waldlehrpfad mit Infotafeln", "Anbindung: Direkt am Europaviertel gelegen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-akelsbech-nature-v2",
@@ -1153,6 +1234,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Nature reserve", "Wet meadow biotope", "Presence of orchids", "Near Bettembourg"],
     },
     imageHint: "wet meadows akelsbech nature reserve luxembourg",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Akelsbech, gelegen in der Gemeinde Roeser, ist ein wertvolles Rückzugsgebiet für die Flora und Fauna der Flussauen im Süden Luxemburgs. Das Gebiet wird durch den Bach Akelsbech und seine angrenzenden Feuchtwiesen geprägt, die in einer intensiv genutzten Agrarlandschaft eine wichtige ökologische Nische bilden. Besonders im Frühjahr verwandelt sich das Schutzgebiet in ein Blütenmeer, in dem verschiedene seltene Orchideenarten und Sumpfdotterblumen zu finden sind. Die Auwälder entlang des Bachlaufs bieten zudem ideale Brutbedingungen für eine Vielzahl von Singvögeln und dienen als Rastplatz für Zugvögel. Die Akelsbech ist Teil eines größeren Biotopverbunds, der die Biodiversität im Gutland sichert und zur natürlichen Hochwasserrückhaltung beiträgt. Für Besucher ist das Gebiet über ruhige Feldwege zugänglich, wobei Informationstafeln die Besonderheiten des Feuchtbiotops und die dort lebenden Arten erläutern. Es ist ein Ort der Stille, der die Bedeutung von kleinen Schutzgebieten für den Erhalt der heimischen Natur verdeutlicht.",
+      hu: "A Roeser községben található Akelsbech természetvédelmi terület Luxemburg déli részének egyik legértékesebb ártéri élőhelye. A területet az Akelsbech-patak és a hozzá kapcsolódó nedves rétek határozzák meg, amelyek fontos ökológiai fülkét képeznek az intenzíven művelt mezőgazdasági tájban. Különösen tavasszal válik a védett terület valóságos virágtengerré, ahol ritka orchideafajok és mocsári gólyahírek is felfedezhetőek. A patak menti ártéri erdők ideális fészkelőhelyet biztosítanak számos énekesmadár számára, a vonulási időszakban pedig fontos pihenőhelyként szolgálnak a vándormadaraknak. Az Akelsbech egy nagyobb biotóphálózat része, amely a Gutland régió biodiverzitását hivatott megőrizni, és egyben hozzájárul a természetes árvízvédelemhez is. A látogatók számára csendes dűlőutakon keresztül érhető el a terület, ahol információs táblák mutatják be a vizes élőhely sajátosságait és az ott élő fajokat. Ez a béke szigete, amely rávilágít a kis védett területek fontosságára a hazai természet megőrzésében.",
+      ro: "Rezervația naturală Akelsbech, situată în comuna Roeser, reprezintă un refugiu prețios pentru flora și fauna specifică luncilor din sudul Luxemburgului. Zona este definită de pârâul Akelsbech și de pajiștile umede adiacente, care formează o nișă ecologică vitală într-un peisaj agricol intens utilizat. În special primăvara, rezervația se transformă într-un covor de flori, unde pot fi admirate specii rare de orhidee și calcea calului. Pădurile riverane oferă condiții ideale de cuibărit pentru o multitudine de păsări cântătoare și servesc ca punct de popas pentru păsările migratoare. Akelsbech face parte dintr-o rețea mai largă de biotopuri care asigură biodiversitatea în regiunea Gutland și contribuie la retenția naturală a apelor în caz de inundații. Pentru vizitatori, accesul se face prin drumuri de câmp liniștite, panourile informative explicând particularitățile acestui biotop umed și speciile care îl populează. Este un loc al liniștii care subliniază importanța micilor arii protejate pentru conservarea patrimoniului natural local.",
+      en: "The Akelsbech nature reserve, located in the municipality of Roeser, is a valuable sanctuary for the flora and fauna of the floodplains in southern Luxembourg. The area is shaped by the Akelsbech stream and its surrounding wet meadows, which create a vital ecological niche within an intensively farmed landscape. In spring, the reserve becomes a sea of blossoms, featuring various rare orchid species and marsh marigolds. The alluvial forests along the stream provide ideal nesting conditions for numerous songbirds and act as a crucial stopover point for migratory birds. Akelsbech is part of a larger biotope network aimed at securing biodiversity in the Gutland region while also contributing to natural flood protection. Accessible via quiet field paths, the area includes informative boards that explain the unique features of the wetland biotope and its resident species. It is a peaceful place that highlights the essential role small protected areas play in conserving local nature."
+    },
+    factsAdvanced: {
+      de: ["Typ: Naturschutzgebiet (Zone protégée)", "Lage: Gemeinde Roeser (Südluxemburg)", "Gewässer: Akelsbech (Nebenfluss der Alzette)", "Lebensraum: Feuchtwiesen und Auwälder", "Flora: Wilde Orchideen, Sumpfdotterblumen", "Schutzstatus: Seit 1994 geschützt", "Fauna: Wichtiger Rastplatz für Zugvögel", "Funktion: Natürlicher Wasserrückhalt"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-pallembierg-nature-v2",
@@ -1173,6 +1266,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Calcareous dry grasslands", "Wild orchids", "View over the Moselle", "Nature reserve"],
     },
     imageHint: "dry grassland with orchids pallembierg luxembourg",
+    descriptionAdvanced: {
+      de: "Der Pällembierg bei Wormeldingen ist ein Juwel der Artenvielfalt und eines der bedeutendsten Naturschutzgebiete im luxemburgischen Moseltal. Das Gebiet zeichnet sich durch seine extrem sonnigen und trockenen Kalksparthänge aus, die eine Flora beherbergen, die man sonst eher im Mittelmeerraum vermuten würde. Besonders bekannt ist der Pällembierg für seine außergewöhnliche Vielfalt an wilden Orchideen, von denen hier im Frühsommer über 15 verschiedene Arten gleichzeitig blühen können. Die Halbtrockenrasen bieten zudem einen idealen Lebensraum für seltene Insekten und Schmetterlinge, die in der intensiv genutzten Weinbauregion sonst kaum noch Rückzugsräume finden. Von den Höhen des Berges hat man einen atemberaubenden Blick auf die Mäander der Mosel und die gegenüberliegenden deutschen Weinberge. Der Pällembierg ist ein Paradebeispiel dafür, wie durch gezielte Pflegemaßnahmen wie Beweidung die Verbuschung verhindert und wertvolle Offenlandbiotope erhalten werden können.",
+      hu: "A Wormeldange közelében fekvő Pällembierg a biológiai sokféleség valóságos ékszere, és Luxemburg Mosel-völgyének egyik legjelentősebb természetvédelmi területe. A területet a rendkívül napos és száraz mészkőlejtők jellemzik, amelyek olyan flórának adnak otthont, amilyet az ember inkább a mediterrán térségben várna. A Pällembierg különösen a vadon élő orchideák rendkívüli választékáról ismert: kora nyáron több mint 15 különböző faj virágzik itt egy időben. A félszáraz gyepek ideális élőhelyet biztosítanak ritka rovarok és pillangók számára is, amelyek az intenzíven művelt borvidéken másutt alig találnak már menedéket. A hegytetőről lélegzetelállító kilátás nyílik a Mosel kanyarulataira és a szemközti német szőlőültetvényekre. A Pällembierg kiváló példája annak, hogyan lehet célzott fenntartási munkákkal, például legeltetéssel megakadályozni a terület elcserjésedését, és megőrizni az értékes nyílt társulásokat.",
+      ro: "Pällembierg, situat lângă Wormeldange, este o bijuterie a biodiversității și una dintre cele mai importante rezervații naturale din valea Moselei luxemburgheze. Zona se remarcă prin versanții săi calcaroși extrem de însoriți și uscați, care adăpostesc o floră pe care cineva s-ar aștepta să o găsească mai degrabă în regiunea mediteraneană. Pällembierg este renumit în special pentru diversitatea excepțională de orhidee sălbatice, peste 15 specii diferite putând fi văzute înflorind simultan aici la începutul verii. Pajiștile semi-uscate oferă, de asemenea, un habitat ideal pentru insecte și fluturi rari, care altfel cu greu ar mai găsi refugiu în această regiune viticolă intens exploatată. De pe înălțimile dealului, se deschide o vedere panoramică spectaculoasă asupra meandrelor Moselei și a podgoriilor germane de pe malul opus. Pällembierg este un exemplu clasic de conservare activă, unde pășunatul controlat previne împădurirea spontană și menține biotopurile deschise atât de prețioase.",
+      en: "The Pällembierg near Wormeldange is a biodiversity gem and one of the most important nature reserves in the Luxembourgish Moselle valley. The area is characterized by its extremely sunny and dry calcareous slopes, which host a flora more typical of the Mediterranean region. Pällembierg is particularly famous for its extraordinary variety of wild orchids, with over 15 different species potentially blooming here simultaneously in early summer. The semi-dry grasslands provide an ideal habitat for rare insects and butterflies that find few other sanctuaries in this intensively cultivated wine-growing region. From the hilltop, visitors are rewarded with breathtaking views of the Moselle's meanders and the German vineyards across the river. Pällembierg serves as a prime example of how targeted management practices, such as grazing, can prevent scrub encroachment and preserve valuable open-land biotopes for future generations."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Wormeldingen (Moseltal)", "Typ: Kalk-Halbtrockenrasen (Orchideenwiese)", "Besonderheit: Mediterranes Mikroklima", "Flora: Über 15 Orchideenarten (z.B. Hummel-Ragwurz)", "Aussicht: Panoramablick auf die Moselmäander", "Fauna: Seltene Schmetterlingsarten (z.B. Segelfalter)", "Schutzstatus: Naturschutzgebiet von nationalem Interesse", "Pflege: Beweidung durch Schafe zur Offenhaltung"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-lallengerbierg-nature-v2",
@@ -1193,6 +1298,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Former open-cast mine", "Land of the Red Rocks", "Dry grassland biotopes", "Nature on industrial site"],
     },
     imageHint: "red soil landscape lallengerbierg luxembourg",
+    descriptionAdvanced: {
+      de: "Der Lallengerbierg bei Esch-sur-Alzette ist ein faszinierendes Beispiel für die Regenerationskraft der Natur auf ehemaligem Industriegelände. Als Teil des 'Landes der Roten Erde' war der Berg über Jahrzehnte Schauplatz intensiven Eisenerz-Tagebaus, der die Landschaft tiefgreifend veränderte. Seit der Einstellung des Bergbaus hat sich das Gelände in ein wertvolles Naturschutzgebiet verwandelt, in dem sich Pionierpflanzen und seltene Tierarten angesiedelt haben. Die roten Felswände und die kargen Plateaus bieten heute einen Lebensraum für wärmeliebende Reptilien und spezialisierte Insekten. Besonders beeindruckend ist der Kontrast zwischen der industriellen Vergangenheit, die noch in Form von alten Förderanlagen und Schienentratten sichtbar ist, und der zurückkehrenden Wildnis. Der Lallengerbierg gehört zum UNESCO-Biosphärenreservat 'Minett' und bietet Wanderern ein einzigartiges Panorama, das von den modernen Hochöfen in Belval bis hin zu den grünen Hügeln Lothringens reicht.",
+      hu: "Az Esch-sur-Alzette melletti Lallengerbierg a természet regenerációs erejének lenyűgöző példája egy korábbi ipari területen. A „Vörös Föld vidékének” részeként a hegy évtizedeken át az intenzív vasérc-külszíni bányászat színhelye volt, ami alapjaiban változtatta meg a tájat. A bányászat beszüntetése óta a terület értékes természetvédelmi területté alakult, ahol pionír növények és ritka állatfajok telepedtek meg. A vörös sziklafalak és a kopár fennsíkok ma melegkedvelő hüllők és speciális rovarok számára nyújtanak élőhelyet. Különösen lenyűgöző a kontraszt az ipari múlt – amely még látható a régi szállítóberendezések és sínpályák formájában – és a visszatérő vadon között. A Lallengerbierg az UNESCO „Minett” bioszféra-rezervátum része, és a túrázók számára egyedülálló panorámát kínál, amely a Belval modern nagyolvasztóitól egészen Lotharingia zöld dombjaiig terjed.",
+      ro: "Lallengerbierg, situat lângă Esch-sur-Alzette, este un exemplu fascinant al puterii de regenerare a naturii pe fostele situri industriale. Făcând parte din „Țara Pământului Roșu”, acest deal a fost timp de decenii scena unei exploatări intense de minereu de fier la suprafață, care a modificat profund peisajul. De la încetarea activității miniere, terenul s-a transformat într-o rezervație naturală prețioasă, unde s-au stabilit plante pionier și specii de animale rare. Pereții de stâncă roșie și platourile aride oferă astăzi un habitat pentru reptile iubitoare de căldură și insecte specializate. Este impresionant contrastul dintre trecutul industrial, încă vizibil prin vechile instalații de transport și terasamente feroviare, și sălbăticia care revine în forță. Lallengerbierg aparține Rezervației Biosferei UNESCO „Minett” și oferă drumeților o panoramă unică, ce se întinde de la furnalele moderne din Belval până la colinele verzi ale Lorenei.",
+      en: "Lallengerbierg near Esch-sur-Alzette is a fascinating example of nature's power to reclaim former industrial sites. As part of the 'Land of the Red Rocks,' the hill was the site of intensive open-cast iron ore mining for decades, which profoundly reshaped the landscape. Since mining ceased, the area has transformed into a valuable nature reserve where pioneer plants and rare wildlife have established themselves. The exposed red rock faces and barren plateaus now provide a habitat for warmth-loving reptiles and specialized insects. What makes Lallengerbierg particularly striking is the visible contrast between its industrial past—seen in old conveyor structures and rail tracks—and the returning wilderness. It is part of the UNESCO 'Minett' Biosphere Reserve and offers hikers a unique panorama stretching from the modern blast furnaces of Belval to the rolling green hills of Lorraine."
+    },
+    factsAdvanced: {
+      de: ["Lage: Zwischen Esch-sur-Alzette und Schifflingen", "Region: Terres Rouges (Land der Roten Erde)", "Besonderheit: Ehemaliges Eisenerz-Tagebaugebiet", "Schutzstatus: Teil des UNESCO-Biosphärenreservats 'Minett'", "Geologie: Minette-Gestein (Oolithisches Eisenerz)", "Flora: Orchideen und Pioniergehölze", "Aussicht: Blick auf Belval und Lothringen", "Wanderweg: Sentier de l'Acier (Stahlweg)"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-strutzbierg-nature-v2",
@@ -1213,6 +1330,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Forested hill", "Nature trail", "Near Bettembourg", "Local flora and fauna"],
     },
     imageHint: "forest path with educational signs in luxembourg",
+    descriptionAdvanced: {
+      de: "Der Strutzbierg bei Bettemburg ist ein wichtiges Naherholungsgebiet und ein ökologisch wertvoller Waldhügel im Süden Luxemburgs. Der Berg ist fast vollständig bewaldet und bietet mit seinen zahlreichen markierten Naturlehrpfaden eine ideale Möglichkeit, die heimische Flora und Fauna kennenzulernen. Die Mischwälder aus Buchen, Eichen und Hainbuchen beherbergen eine Vielzahl von Singvögeln und dienen als Rückzugsort für größeres Wild wie Rehe und Füchse. Besonders für Familien ist der Strutzbierg attraktiv, da die Wege gut ausgebaut und informativ gestaltet sind. Ein Highlight ist der Wald-Erlebnis-Pfad, der spielerisch Wissen über den Waldökosystem vermittelt. Historisch gesehen war der Berg auch ein Ort von strategischer Bedeutung, was sich in einigen Überresten alter Verteidigungsanlagen zeigt. Heute überwiegt jedoch der friedliche Charakter des Waldes, der zu jeder Jahreszeit eine ganz eigene Atmosphäre bietet – von den ersten Frühlingsblumen bis hin zum goldenen Herbstlaub.",
+      hu: "A Bettembourg melletti Strutzbierg fontos pihenőövezet és ökológiailag értékes erdős domb Luxemburg déli részén. A szinte teljesen erdővel borított domb számos jelzett tanösvényével ideális lehetőséget kínál a hazai flóra és fauna megismerésére. A bükkből, tölgyből és gyertyánból álló vegyes erdők számos énekesmadárnak adnak otthont, és menedéket nyújtanak a nagyobb vadaknak, például őzeknek és rókáknak. A Strutzbierg különösen vonzó a családok számára, mivel az ösvények jól kiépítettek és informatívak. Az erdő-élmény-ösvény játékos formában közvetít ismereteket az erdei ökoszisztémáról. Történelmileg a domb stratégiai jelentőséggel is bírt, amiről néhány régi védmű maradványa tanúskodik. Ma azonban az erdő békés jellege dominál, amely minden évszakban sajátos hangulatot áraszt – a tavaszi első virágoktól egészen az őszi aranyló lombokig.",
+      ro: "Strutzbierg, de lângă Bettembourg, este o zonă de recreere importantă și un deal împădurit valoros din punct de vedere ecologic în sudul Luxemburgului. Aproape în întregime acoperit de pădure, dealul oferă oportunități ideale pentru a cunoaște flora și fauna locală prin intermediul numeroaselor sale poteci tematice marcate. Pădurile mixte de fag, stejar și carpen adăpostesc o multitudine de păsări cântătoare și servesc ca refugiu pentru animale mai mari, precum căprioarele și vulpile. Strutzbierg este deosebit de atractiv pentru familii, deoarece traseele sunt bine întreținute și concepute într-un mod informativ. Un punct forte este traseul de descoperire a pădurii, care transmite cunoștințe despre ecosistemul forestier într-un mod ludic. Din punct de vedere istoric, dealul a avut și o importanță strategică, fapt reflectat de unele rămășițe ale vechilor fortificații. Astăzi însă, predomină caracterul pașnic al pădurii, care oferă o atmosferă unică în fiecare anotimp.",
+      en: "Strutzbierg near Bettembourg is a key local recreational area and an ecologically valuable forested hill in southern Luxembourg. Almost entirely covered in woodland, the hill offers an ideal setting for learning about native flora and fauna through its many marked nature trails. The mixed forests of beech, oak, and hornbeam house a wide variety of songbirds and provide a sanctuary for larger wildlife such as deer and foxes. Strutzbierg is particularly popular with families due to its well-maintained and informative paths. A highlight is the forest discovery trail, which teaches visitors about the forest ecosystem through interactive stations. Historically, the hill also held strategic importance, as evidenced by the remains of ancient fortifications found on its slopes. Today, however, the peaceful character of the woods prevails, offering a distinct atmosphere in every season, from the first spring blossoms to the golden leaves of autumn."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Bettemburg (Kanton Esch-sur-Alzette)", "Typ: Bewaldeter Hügel (Naherholungsgebiet)", "Baumbestand: Buchen, Eichen und Hainbuchen", "Attraktion: Wald-Erlebnis-Pfad", "Infrastruktur: Gut markierte Wander- und Lehrpfade", "Fauna: Rehe, Füchse, Spechte", "Besonderheit: Historische Verteidigungsanlagen", "Aussicht: Lokale Ausblicke auf das Bettemburger Umland"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-amberkneppchen-nature-v2",
@@ -1233,6 +1362,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Elevation of 385 meters", "Gutland viewpoint", "Near Junglinster", "Partially forested"],
     },
     imageHint: "rolling hills of gutland from amberkneppchen luxembourg",
+    descriptionAdvanced: {
+      de: "Der Amberkneppchen ist eine markante Erhebung im Gutland, die mit einer Höhe von 385 Metern einen der schönsten Panoramablicke über das östliche Luxemburg bietet. Gelegen in der Nähe von Junglinster, ragt der Hügel aus der sanft gewellten Landschaft hervor und ist weithin sichtbar. Das Plateau des Amberkneppchen ist geprägt von einer Mischung aus offenen Grasflächen und kleinen Waldstücken, was es zu einem idealen Wanderziel macht. Besonders bei klarem Wetter reicht die Sicht von hier aus bis zu den Hügeln des Müllerthals und weit in das Moseltal hinein. Der Name 'Kneppchen' ist eine typisch luxemburgische Bezeichnung für einen markanten runden Hügel. Für die lokale Bevölkerung ist der Amberkneppchen ein beliebter Ort für Picknicks und kurze Ausflüge, um die Weite der Landschaft zu genießen. Die geologische Struktur des Hügels ist Teil der Sandsteinschicht des Gutlandes, was auch die spezifische Vegetation der Region beeinflusst.",
+      hu: "Az Amberkneppchen a Gutland régió egyik jellegzetes kiemelkedése, amely 385 méteres magasságával Kelet-Luxemburg egyik legszebb panorámáját kínálja. A Junglinster közelében fekvő domb messziről is jól láthatóan emelkedik ki a szelíden hullámzó tájból. Az Amberkneppchen fennsíkját nyitott füves területek és kisebb erdőfoltok elegye alkotja, ami ideális kirándulóhellyé teszi. Különösen tiszta időben a kilátás innen egészen a Müllerthal dombjaiig és messze a Mosel-völgybe is elér. A „Kneppchen” név egy tipikus luxemburgi elnevezés a markáns, kerek dombokra. A helyiek körében az Amberkneppchen népszerű hely a piknikezésre és rövid sétákra, ahol élvezhetik a táj tágasságát. A domb geológiai szerkezete a Gutland homokkő-rétegéhez tartozik, ami a régió sajátos növényzetét is meghatározza.",
+      ro: "Amberkneppchen este o proeminență marcantă în regiunea Gutland, oferind de la înălțimea sa de 385 de metri una dintre cele mai frumoase vederi panoramice asupra estului Luxemburgului. Situat lângă Junglinster, dealul se ridică deasupra peisajului vălurit și este vizibil de la mare distanță. Platoul Amberkneppchen este caracterizat printr-un amestec de pajiști deschise și mici zone împădurite, fiind o destinație ideală pentru drumeții scurte. În condiții de vizibilitate bună, panorama se întinde până la colinele Müllerthal și departe, în valea Moselei. Numele „Kneppchen” este un termen tipic luxemburghez pentru un deal rotund și proeminent. Pentru populația locală, Amberkneppchen este un loc preferat pentru picnicuri și excursii de relaxare, oferind ocazia de a admira vastitatea peisajului rural. Structura sa geologică face parte din straturile de gresie ale Gutland-ului, influențând vegetația specifică zonei.",
+      en: "Amberkneppchen is a prominent elevation in the Gutland region, offering one of the finest panoramic views over eastern Luxembourg from its height of 385 meters. Located near Junglinster, the hill rises distinctly above the gently rolling landscape and is visible from afar. The Amberkneppchen plateau features a blend of open grasslands and small woodland patches, making it an ideal destination for leisure walks. On clear days, the view from the summit extends to the hills of Müllerthal and far into the Moselle valley. The name 'Kneppchen' is a typical Luxembourgish term for a rounded, prominent hill. For locals, Amberkneppchen is a popular spot for picnics and brief excursions to enjoy the expansive countryside. The hill's geological structure is part of the Gutland's sandstone layers, which also dictates the specific flora found in the area."
+    },
+    factsAdvanced: {
+      de: ["Höhe: 385 Meter über NN", "Lage: Bei Junglinster (Region Gutland)", "Charakter: Markanter runder Aussichtshügel", "Aussicht: Panoramablick über das östliche Luxemburg", "Geologie: Luxemburger Sandstein (Lias)", "Nutzung: Beliebtes Picknick- und Wanderziel", "Name: 'Kneppchen' bedeutet kleiner Hügel/Kuppe", "Flora: Mischung aus Magerwiesen und Gehölzen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-helperknapp-nature-v2",
@@ -1253,6 +1394,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Pilgrimage site", "Sacred spring (Willibrordus)", "Forested summit", "Elevation of 387 meters"],
     },
     imageHint: "wooded hill helperknapp in luxembourg",
+    descriptionAdvanced: {
+      de: "Der Helperknapp ist ein sagenumwobener Waldhügel bei Boevange, der tief in der Geschichte und Volksfrömmigkeit Luxemburgs verwurzelt ist. Mit einer Höhe von 387 Metern ist er nicht nur ein geografischer Orientierungspunkt, sondern auch ein spiritueller Ort. Am Fuße des Hügels entspringt die Willibrordus-Quelle, der heilende Kräfte nachgesagt werden und die seit Jahrhunderten Ziel von Wallfahrern ist. Eine historische Kapelle auf dem Gipfel unterstreicht die sakrale Bedeutung des Berges. Der Helperknapp ist fast vollständig von dichtem Mischwald bedeckt, der von zahlreichen Wanderwegen durchzogen ist. Diese Wege bieten nicht nur Erholung in der Natur, sondern führen auch an alten archäologischen Spuren vorbei, die bis in die Römerzeit zurückreichen. Einmal im Jahr findet hier der 'Helpermaart' statt, ein traditioneller Markt, der seine Ursprünge im Mittelalter hat und tausende Besucher anlockt. Der Berg ist somit ein Ort, an dem sich Natur, Geschichte und lebendige Tradition auf einzigartige Weise begegnen.",
+      hu: "A Helperknapp egy legendákkal övezett erdős domb Boevange közelében, amely mélyen gyökerezik Luxemburg történelmében és népi vallásosságában. 387 méteres magasságával nemcsak földrajzi tájékozódási pont, hanem spirituális helyszín is. A domb lábánál ered a Willibrordus-forrás, amelynek gyógyító erőt tulajdonítanak, és évszázadok óta zarándokok célpontja. A csúcson található történelmi kápolna tovább hangsúlyozza a domb szakrális jelentőségét. A Helperknappot szinte teljesen sűrű vegyes erdő borítja, amelyet számos túraútvonal hálóz be. Ezek az utak nemcsak természetközeli kikapcsolódást nyújtanak, hanem régi régészeti nyomok mellett is elvezetnek, amelyek egészen a római korig nyúlnak vissza. Évente egyszer itt rendezik meg a „Helpermaart”-ot, egy középkori eredetű hagyományos vásárt, amely látogatók ezreit vonzza. A domb így a természet, a történelem és az élő hagyomány egyedülálló találkozási pontja.",
+      ro: "Helperknapp este un deal împădurit legendar de lângă Boevange, adânc înrădăcinat în istoria și pietatea populară a Luxemburgului. Cu o înălțime de 387 de metri, nu este doar un reper geografic, ci și un loc spiritual. La poalele dealului izvorăște fântâna Willibrordus, despre care se spune că are puteri tămăduitoare și care este de secole o destinație pentru pelerini. O capelă istorică situată pe vârf subliniază semnificația sacră a muntelui. Helperknapp este aproape în întregime acoperit de o pădure mixtă deasă, traversată de numeroase trasee de drumeție. Aceste poteci oferă nu doar relaxare în natură, ci trec și pe lângă vestigii arheologice vechi, care datează din epoca romană. O dată pe an, aici are loc „Helpermaart”, un târg tradițional cu origini în Evul Mediu, care atrage mii de vizitatori. Dealul este astfel un loc unde natura, istoria și tradiția vie se întâlnenesc într-un mod unic.",
+      en: "Helperknapp is a legendary forested hill near Boevange, deeply rooted in Luxembourgish history and folk piety. Standing at 387 meters, it is not only a geographical landmark but also a spiritual site of great significance. At the foot of the hill lies the Willibrordus spring, believed for centuries to possess healing powers and a long-standing destination for pilgrims. A historical chapel atop the summit further emphasizes the hill's sacred status. Helperknapp is almost entirely blanketed by dense mixed woodland, interlaced with numerous hiking trails. These paths offer more than just nature walks; they lead past archaeological remains dating back to Roman times. Once a year, the 'Helpermaart' takes place here—a traditional market with medieval origins that attracts thousands of visitors. The hill is a unique place where nature, history, and living tradition converge harmoniously."
+    },
+    factsAdvanced: {
+      de: ["Höhe: 387 Meter über NN", "Lage: Bei Boevange/Attert (Kanton Mersch)", "Heiligtum: Willibrordus-Kapelle auf dem Gipfel", "Wasserquelle: Heilige Willibrordus-Quelle am Fuß", "Veranstaltung: Jährlicher Helpermaart (traditioneller Markt)", "Archäologie: Spuren römischer und mittelalterlicher Besiedlung", "Natur: Dichter Laubmischwald", "Bedeutung: Spirituelles und historisches Zentrum des Gutlandes"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-titelberg-nature-v2",
@@ -1273,6 +1426,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Celtic oppidum", "50-hectare plateau", "View of the Chiers valley", "Land of the Red Rocks"],
     },
     imageHint: "plateau of titelberg with archaeological remains luxembourg",
+    descriptionAdvanced: {
+      de: "Der Titelberg (Tëtelbierg) bei Petingen ist eine der bedeutendsten archäologischen und natürlichen Stätten im Südwesten Luxemburgs. Das weite Plateau thront über dem Chiers-Tal und war in der Antike ein bedeutendes keltisches Oppidum und später eine römische Siedlung. Heute ist der Berg ein faszinierendes Naturschutzgebiet, in dem sich Geschichte und Natur auf Schritt und Tritt begegnen. Die kargen Böden des Plateaus und die steilen Hänge beherbergen eine spezialisierte Flora, darunter verschiedene Orchideenarten und wärmeliebende Gebüsche. Wanderer können auf den Lehrpfaden die Überreste der antiken Wälle und Ausgrabungsstätten entdecken, während sie gleichzeitig die Ruhe des Waldes genießen. Der Titelberg bietet zudem weite Ausblicke über das Dreiländereck Luxemburg-Belgien-Frankreich. Er ist ein wichtiger Teil des UNESCO-Biosphärenreservats 'Minett' und zeugt von der jahrtausendlangen menschlichen Präsenz in dieser rohstoffreichen Region.",
+      hu: "A Pétange közelében található Titelberg (Tëtelbierg) Délnyugat-Luxemburg egyik legjelentősebb régészeti és természeti helyszíne. A Chiers-völgy fölé magasodó tágas fennsík az ókorban fontos kelta oppidum (erődített város), később pedig római település volt. Ma a hegy egy lenyűgöző természetvédelmi terület, ahol a történelem és a természet minden lépésnél találkozik. A fennsík sovány talaja és a meredek lejtők speciális flórának adnak otthont, beleértve különféle orchideafajokat és melegkedvelő cserjéket. A túrázók tanösvényeken fedezhetik fel az ókori sáncok maradványait és a régészeti ásatási területeket, miközben élvezik az erdő nyugalmát. A Titelberg tágas kilátást nyújt a luxemburgi-belga-francia hármashatárra is. Fontos része az UNESCO „Minett” bioszféra-rezervátumnak, és tanúskodik az évezredes emberi jelenlétről ebben a nyersanyagokban gazdag régióban.",
+      ro: "Titelberg (Tëtelbierg), situat lângă Pétange, este unul dintre cele mai importante situri arheologice și naturale din sud-vestul Luxemburgului. Platoul vast care domină valea Chiers a fost în antichitate un important oppidum celtic și ulterior o așezare romană. Astăzi, dealul este o rezervație naturală fascinantă, unde istoria și natura se întrepătrund la fiecare pas. Solurile aride ale platoului și versanții abrupți găzduiesc o floră specializată, incluzând diverse specii de orhidee și arbuști iubitori de căldură. Vizitatorii pot descoperi pe traseele tematice rămășițele vechilor fortificații și siturile de excavare, bucurându-se în același timp de liniștea pădurii. Titelberg oferă, de asemenea, vederi panoramice largi asupra zonei de frontieră dintre Luxemburg, Belgia și Franța. Face parte integrantă din Rezervația Biosferei UNESCO „Minett” și mărturisește prezența umană milenară în această regiune bogată în resurse.",
+      en: "Titelberg (Tëtelbierg) near Pétange is one of the most significant archaeological and natural sites in southwestern Luxembourg. This expansive plateau overlooking the Chiers valley was a major Celtic oppidum and later a Roman settlement in antiquity. Today, the hill is a fascinating nature reserve where history and nature meet at every turn. The plateau's thin soils and steep slopes host a specialized flora, including various orchid species and thermophilous shrubs. Hikers can follow educational trails to discover the remains of ancient ramparts and excavation sites while enjoying the tranquility of the surrounding woodland. Titelberg also offers wide views across the tri-border area of Luxembourg, Belgium, and France. As an essential part of the UNESCO 'Minett' Biosphere Reserve, it stands as a testament to thousands of years of human activity in this resource-rich region."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Petingen und Rodange", "Bedeutung: Wichtigstes keltisches Oppidum Luxemburgs (Stamm der Treverer)", "Fläche des Plateaus: ca. 50 Hektar", "Schutzstatus: Teil des UNESCO-Biosphärenreservats 'Minett'", "Geologie: Eisenerzhaltiges Gestein (Minette)", "Archäologie: Ausgrabungen keltischer und römischer Siedlungen", "Aussicht: Dreiländereck (LU-BE-FR)", "Natur: Trockenrasen und Kalk-Buchenwälder"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-zolwerknapp-nature-v2",
@@ -1293,6 +1458,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Highest point in Sanem", "422 meters elevation", "Former castle site", "Natural deciduous forest"],
     },
     imageHint: "forested hill zolwerknapp luxembourg",
+    descriptionAdvanced: {
+      de: "Der Zolwerknapp bei Soleuvre ist eine markante geologische Besonderheit und mit 422 Metern eine der höchsten Erhebungen im Süden Luxemburgs. Als sogenannter 'Zeugenberg' ragt er isoliert aus der umliegenden Landschaft heraus und ist weithin sichtbar. Der Gipfelbereich ist bewaldet und bietet ein ruhiges Refugium für Spaziergänger und Wanderer, die dem städtischen Umfeld entfliehen möchten. Von den Rändern des Plateaus hat man eine beeindruckende Aussicht auf das 'Land der Roten Erde' und die industriellen Denkmäler der Region. Der Zolwerknapp ist geologisch eng mit dem benachbarten Gaalgebierg verwandt und besteht aus harten Gesteinsschichten, die der Erosion besser widerstanden haben als das umliegende Gelände. Historisch gesehen war der Berg schon früh besiedelt und beherbergte einst eine mittelalterliche Burg, von der heute jedoch nur noch wenige Spuren vorhanden sind. Die Vegetation ist geprägt von einem Buchen-Mischwald, der im Frühjahr von einem Teppich aus Buschwindröschen bedeckt wird.",
+      hu: "A Soleuvre melletti Zolwerknapp egy jellegzetes geológiai különlegesség, és 422 méteres magasságával Dél-Luxemburg egyik legmagasabb pontja. Úgynevezett „tanúhegyként” elszigetelten emelkedik ki a környező tájból, és már messziről jól látható. A csúcsrégió erdővel borított, és csendes menedéket nyújt a sétálóknak és túrázóknak, akik el akarnak menekülni a városi környezetből. A fennsík széleiről lenyűgöző kilátás nyílik a „Vörös Föld vidékére” és a régió ipari műemlékeire. A Zolwerknapp geológiailag szoros rokonságban áll a szomszédos Gaalgebierggel, és kemény kőzetrétegekből áll, amelyek jobban ellenálltak az eróziónak, mint a környező területek. Történelmileg a hegy már korán lakott volt, és egykor egy középkori várnak is otthont adott, amelynek mára már csak kevés nyoma maradt. Növényzetét a bükkös vegyes erdő határozza meg, amelyet tavasszal bogláros szellőrózsák szőnyege borít.",
+      ro: "Zolwerknapp, de lângă Soleuvre, este o particularitate geologică remarcabilă și, cu o înălțime de 422 de metri, reprezintă una dintre cele mai înalte cote din sudul Luxemburgului. Ca „martor de eroziune”, acesta se ridică izolat deasupra peisajului înconjurător, fiind vizibil de la mare distanță. Zona vârfului este împădurită și oferă un refugiu liniștit pentru plimbări și drumeții, departe de mediul urban aglomerat. De pe marginile platoului se deschide o vedere impresionantă asupra „Țării Pământului Roșu” și a monumentelor industriale din regiune. Zolwerknapp este înrudit geologic cu muntele vecin Gaalgebierg, fiind format din straturi de rocă dură care au rezistat eroziunii mai bine decât terenul din jur. Din punct de vedere istoric, dealul a fost locuit încă din timpuri străvechi și a găzduit cândva un castel medieval, din care astăzi au mai rămas doar puține urme. Vegetația este dominată de o pădure mixtă de fag, care primăvara este acoperită de un covor de anemone de pădure.",
+      en: "Zolwerknapp near Soleuvre is a distinct geological feature and, at 422 meters, one of the highest points in southern Luxembourg. As an isolated 'outlier hill,' it rises prominently above the surrounding landscape and is a well-known regional landmark. The summit area is forested, providing a peaceful retreat for walkers and hikers seeking an escape from the urban environment. From the plateau's edge, visitors are treated to an impressive view of the 'Land of the Red Rocks' and the region's historical industrial sites. Geologically, Zolwerknapp is closely related to the neighboring Gaalgebierg, consisting of harder rock layers that have resisted erosion better than the surrounding terrain. Historically, the hill was inhabited quite early and once featured a medieval castle, though only scant traces remain today. The vegetation is characterized by a beech-mixed forest that becomes carpeted with wood anemones in the spring."
+    },
+    factsAdvanced: {
+      de: ["Höhe: 422 Meter über NN", "Lage: Bei Soleuvre (Gemeinde Sanem)", "Geologie: Zeugenberg (Outlier hill)", "Vegetation: Buchen-Mischwald", "Geschichte: Standort einer ehemaligen mittelalterlichen Burg", "Aussicht: Blick auf Esch, Belval und das Minett-Becken", "Wanderwege: Lokale Rundwanderwege", "Besonderheit: Markante Landmarke im Süden"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-gaalgebierg-belvaux-nature-v2",
@@ -1313,6 +1490,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Forested recreational hill", "Hiking trails", "View of Belval development", "Former ore mining site"],
     },
     imageHint: "forest on a hill overlooking industrial ruins luxembourg",
+    descriptionAdvanced: {
+      de: "Der Gaalgebierg bei Belvaux ist nicht zu verwechseln mit dem gleichnamigen Berg in Esch und stellt eine wichtige grüne Bastion im Herzen des Minett-Gebiets dar. Dieser bewaldete Hügel ist ein integraler Bestandteil der lokalen Identität und dient als wichtiges Naherholungsgebiet für die Bewohner von Sanem und Belvaux. Die dichten Wälder auf dem Gaalgebierg bestehen vorwiegend aus Laubbäumen und bieten zahlreichen heimischen Tierarten einen geschützten Lebensraum. Markierte Wanderpfade führen durch den Wald und bieten immer wieder Durchblicke auf das moderne Stadtviertel Belval und die Überreste der einst mächtigen Eisenindustrie. Das Gebiet ist Teil des UNESCO-Biosphärenreservats 'Minett' und steht für den Wandel der Region von der Schwerindustrie hin zu einem nachhaltigen Lebensraum. Die ruhige Atmosphäre des Waldes macht ihn zu einem beliebten Ziel für Jogger und Naturliebhaber, die Ruhe suchen, ohne die Stadt verlassen zu müssen.",
+      hu: "A Belvaux melletti Gaalgebierg – amely nem tévesztendő össze az azonos nevű eschi heggyel – fontos zöld bástya a Minett-vidék szívében. Ez az erdős domb a helyi identitás szerves része, és fontos pihenőhelyként szolgál Sanem és Belvaux lakói számára. A Gaalgebierg sűrű erdői túlnyomórészt lombhullató fákból állnak, és számos őshonos állatfajnak nyújtanak védett élőhelyet. A jelzett túraútvonalak az erdőn keresztül vezetnek, és újra meg újra rálátást biztosítanak a modern Belval városnegyedre és az egykor hatalmas vasipar maradványaira. A terület az UNESCO „Minett” bioszféra-rezervátum része, és a régió nehéziparból fenntartható élőhelybe való átmenetét szimbolizálja. Az erdő nyugodt légköre népszerű célponttá teszi a kocogók és a természet szerelmesei körében, akik úgy keresik a csendet, hogy nem kell elhagyniuk a várost.",
+      ro: "Gaalgebierg, situat lângă Belvaux, nu trebuie confundat cu muntele cu același nume din Esch, reprezentând un important bastion verde în inima regiunii Minett. Acest deal împădurit este parte integrantă a identității locale și servește ca zonă de recreere esențială pentru locuitorii din Sanem și Belvaux. Pădurile dese de pe Gaalgebierg sunt formate în principal din foioase și oferă un habitat protejat pentru numeroase specii de animale locale. Traseele de drumeție marcate șerpuiesc prin pădure, oferind periodic vederi asupra cartierului modern Belval și asupra vestigiilor fostei industrii siderurgice. Zona face parte din Rezervația Biosferei UNESCO „Minett” și simbolizează transformarea regiunii de la industria grea către un mediu de viață sustenabil. Atmosfera liniștită a pădurii îl face o destinație populară pentru joggeri și iubitorii de natură care caută relaxare fără a fi nevoiți să părăsească mediul urban.",
+      en: "Gaalgebierg near Belvaux, not to be confused with the hill of the same name in Esch, is a vital green bastion in the heart of the Minett region. This forested hill is an integral part of local identity and serves as a key recreational area for the residents of Sanem and Belvaux. The dense woodlands on Gaalgebierg consist primarily of deciduous trees and provide a protected habitat for many native animal species. Marked hiking paths wind through the forest, offering intermittent views of the modern Belval district and the remains of the once-mighty iron industry. The area is part of the UNESCO 'Minett' Biosphere Reserve and represents the region's transition from heavy industry to a sustainable living environment. The forest's peaceful atmosphere makes it a popular destination for joggers and nature lovers seeking tranquility without having to leave the city."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Belvaux (Gemeinde Sanem)", "Name: Gaalgebierg (Galgenberg)", "Typ: Bewaldeter Hügel / Naherholungsgebiet", "Schutzstatus: Teil des UNESCO-Biosphärenreservats 'Minett'", "Waldtyp: Laubmischwald", "Aussicht: Blick auf Belval und die ehemaligen Industriebrachen", "Nutzung: Wandern, Joggen, Mountainbiking", "Bedeutung: Wichtiger Teil des Grüngürtels im Süden"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-reimecherbierg-nature-v2",
@@ -1333,6 +1522,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Viticultural area", "View over the Moselle valley", "Calcareous soil", "Sunny southern exposure"],
     },
     imageHint: "vineyards on a sunny hill reimecherbierg luxembourg",
+    descriptionAdvanced: {
+      de: "Der Reimecherbierg ist eine der prestigeträchtigsten Weinlagen Luxemburgs und gleichzeitig ein wertvolles Naturgebiet oberhalb der Stadt Remich. Die sonnenverwöhnten Steilhänge sind mit erstklassigen Reben bestockt, doch zwischen den Weinbergen finden sich wichtige Rückzugsorte für die Natur. Trockenmauern und kleine Felsvorsprünge aus Muschelkalk bieten seltenen Eidechsen und wärmeliebenden Insekten ein Zuhause. Von der Aussichtsplattform auf dem Plateau hat man einen der besten Ausblicke über das Moseltal, die Stadt Remich und die weiten Rebflächen bis nach Deutschland. Der Reimecherbierg ist ein Beispiel für die harmonische Verbindung von jahrtausendalter Kulturlandschaft und ökologischem Wert. Ein Themenweg informiert Besucher über die Geologie des Bodens und die Besonderheiten des Weinbaus an der Mosel. Besonders im Herbst, wenn sich die Weinreben golden verfärben, ist der Berg ein beliebtes Ziel für Genießer und Naturfreunde.",
+      hu: "A Reimecherbierg Luxemburg egyik legtekintélyesebb szőlőtermő területe, ugyanakkor értékes természeti terület Remich városa felett. A napsütötte, meredek lejtőket első osztályú szőlőtőkék borítják, de a szőlőültetvények között fontos menedékhelyek találhatók a természet számára. A kagylós mészkőből készült szárazon rakott kőfalak és kisebb sziklakiszögellések ritka gyíkoknak és melegkedvelő rovaroknak adnak otthont. A fennsíkon található kilátóból az egyik legjobb kilátás nyílik a Mosel-völgyre, Remich városára és a Németországig nyúló hatalmas szőlőterületekre. A Reimecherbierg példája az évezredes kultúrtáj és az ökológiai érték harmonikus kapcsolatának. Egy tematikus ösvény tájékoztatja a látogatókat a talaj geológiájáról és a moseli borászat sajátosságairól. Különösen ősszel, amikor a szőlőlevelek aranyszínűre változnak, a hegy az ínyencek és a természetbarátok kedvelt célpontja.",
+      ro: "Reimecherbierg este una dintre cele mai prestigioase podgorii din Luxemburg și, în același timp, o zonă naturală valoroasă situată deasupra orașului Remich. Versanții abrupți și însoriți sunt plantați cu viță-de-vie de primă clasă, însă între podgorii se găsesc refugii importante pentru natură. Zidurile de piatră uscată și micile proeminențe stâncoase formate din calcar cochilifer oferă adăpost șopârlelor rare și insectelor iubitoare de căldură. De pe platforma de observație de pe platou, se deschide una dintre cele mai frumoase vederi asupra văii Moselei, a orașului Remich și a întinderilor vaste de viță-de-vie până în Germania. Reimecherbierg este un exemplu de armonie între un peisaj cultural milenar și valoarea ecologică. Un traseu tematic informează vizitatorii despre geologia solului și particularitățile viticulturii de pe Mosela. În special toamna, când vița-de-vie capătă nuanțe aurii, dealul devine o destinație preferată pentru amatorii de gastronomie și iubitorii de natură.",
+      en: "Reimecherbierg is one of Luxembourg's most prestigious wine-growing sites and a valuable natural area overlooking the town of Remich. While its sunny, steep slopes are planted with world-class vines, important natural sanctuaries thrive between the vineyards. Dry-stone walls and small shell limestone outcrops provide a home for rare lizards and thermophilous insects. From the viewing platform on the plateau, visitors can enjoy some of the best vistas of the Moselle valley, the town of Remich, and the vast vineyard expanses reaching into Germany. Reimecherbierg exemplifies the harmonious blend of a thousand-year-old cultural landscape and ecological significance. A thematic trail informs visitors about the local geology and the specifics of Moselle viticulture. Especially in autumn, when the vines turn golden, the hill is a favorite destination for both connoisseurs and nature enthusiasts."
+    },
+    factsAdvanced: {
+      de: ["Lage: Oberhalb von Remich (Moseltal)", "Nutzung: Hochwertiger Weinbau (Crémant und Weißweine)", "Geologie: Muschelkalk (Keuper)", "Ökologie: Lebensraum für Mauereidechsen in Trockenmauern", "Aussicht: Panoramablick über das Moseltal", "Attraktion: Aussichtspunkt 'Reimecherbierg'", "Wanderweg: Weinlehrpfad Remich", "Besonderheit: Eine der steilsten Lagen der luxemburgischen Mosel"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-greiveldange-hills-nature-v2",
@@ -1353,6 +1554,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Hilly Moselle hinterland", "Mixed forest areas", "Steep-slope viticulture", "Hiking region"],
     },
     imageHint: "hilly landscape with forests and vineyards greiveldange luxembourg",
+    descriptionAdvanced: {
+      de: "Die Greiveldanger Hügel im Hinterland der Mosel sind geprägt von einer sanften, fast idyllischen Landschaft, die als Geheimtipp für Wanderer gilt. Abseits der großen Touristenströme bietet dieses Gebiet eine Mischung aus dichten Laubwäldern, weiten Obstwiesen und versteckten Tälern. Das Dorf Greiveldange selbst liegt malerisch eingebettet in diese Hügelkette, die durch ihre geologische Vielfalt besticht. Besonders im Frühjahr, wenn die Kirsch- und Apfelbäume blühen, verwandelt sich die Region in ein weiß-rosa Blütenmeer. Die Wälder der Greiveldanger Hügel sind bekannt für ihren Reichtum an wilden Kräutern und Pilzen, was sie zu einem beliebten Ziel für Sammler macht. Zahlreiche kleine Bäche haben tiefe Kerbtäler in das Gestein gegraben und schaffen ein kühles Mikroklima. Die Ruhe und Abgeschiedenheit dieser Hügellandschaft machen sie zu einem idealen Ort für entschleunigte Naturerlebnisse und ausgedehnte Wanderungen in einer intakten Kulturlandschaft.",
+      hu: "A Mosel hátországában fekvő Greiveldange-dombság szelíd, szinte idilli táj, amely a túrázók körében igazi titkos tippnek számít. A nagy turistatömegektől távol ez a terület sűrű lombhullató erdők, tágas gyümölcsösök és rejtett völgyek elegyét kínálja. Maga Greiveldange falu festői módon ágyazódik be ebbe a dombsorba, amely geológiai sokféleségével nyűgöz le. Különösen tavasszal, amikor a cseresznye- és almafák virágoznak, a régió fehér és rózsaszín virágtengerré változik. A Greiveldange-dombság erdői vadon élő gyógynövényekben és gombákban való gazdagságukról ismertek, ami a gyűjtögetők kedvelt célpontjává teszi őket. Számos apró patak vájt mély völgyeket a kőzetbe, hűvös mikroklímát teremtve. A dombvidék nyugalma és elszigeteltsége ideálissá teszi a területet a lassú természetjáráshoz és a hosszú túrákhoz egy érintetlen kultúrtájban.",
+      ro: "Colinele Greiveldange din hinterlandul Moselei sunt caracterizate de un peisaj blând, aproape idilic, considerat un „secret” pentru cunoscători. Departe de fluxurile mari de turiști, această zonă oferă un amestec de păduri dense de foioase, livezi vaste și văi ascunse. Satul Greiveldange este așezat pitoresc în mijlocul acestui lanț colinar care impresionează prin diversitatea sa geologică. Primăvara, regiunea se transformă într-o mare de flori albe și roz, odată cu înflorirea cireșilor și mărului. Pădurile dealurilor Greiveldange sunt renumite pentru bogăția lor în ierburi sălbatice și ciuperci, fiind o destinație populară pentru culegători. Numeroase pârâuri mici au săpat văi adânci în rocă, creând un microclimat răcoros. Liniștea și izolarea acestui peisaj colinar îl fac un loc ideal pentru experiențe naturale relaxante și drumeții lungi într-un peisaj cultural intact.",
+      en: "The Greiveldange hills in the Moselle hinterland are characterized by a gentle, almost idyllic landscape that is a true insider tip for hikers. Away from the main tourist crowds, this area offers a mix of dense deciduous forests, expansive orchards, and hidden valleys. The village of Greiveldange itself is picturesquely nestled within this chain of hills, which is notable for its geological diversity. In spring, the region transforms into a sea of white and pink blossoms as cherry and apple trees come into bloom. The forests of the Greiveldange hills are well-known for their abundance of wild herbs and mushrooms, making them a popular destination for foragers. Numerous small streams have carved deep notch valleys into the rock, creating a cool microclimate. The peace and seclusion of this hilly landscape make it an ideal place for slow-paced nature experiences and long hikes through an intact cultural landscape."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Greiveldange (Gemeinde Stadtbredimus)", "Charakter: Sanfte Hügellandschaft mit Mischwald und Obstwiesen", "Flora: Reichtum an Wildkräutern und Obstbaumblüte", "Klima: Mildes Mosel-Hinterland-Klima", "Attraktion: Historische Weinarchitektur in Greiveldange", "Wanderwege: 'Greiveldange' Lokale Rundwege", "Geologie: Keuper- und Muschelkalkschichten", "Besonderheit: Sehr ruhige und ursprüngliche Region"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-ehnen-valley-nature-v2",
@@ -1373,6 +1586,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Side valley of the Moselle", "Ehnenbach stream", "Forested slopes", "Idyllic natural setting"],
     },
     imageHint: "small stream valley near ehnen luxembourg",
+    descriptionAdvanced: {
+      de: "Das Ehner Tal bei Ehnen ist ein malerisches Seitental der Mosel, das für seine steilen Weinberge und seine hohe ökologische Wertigkeit bekannt ist. Das Tal wird von kleinen Bächen durchflossen, die im Laufe der Zeit tiefe Einschnitte in den Muschelkalk gegraben haben. Die Kombination aus sonnenexponierten Weinbergshängen und schattigen Talgründen schafft eine Vielzahl von Mikroklimata auf engstem Raum. Besonders wertvoll sind die alten Trockenmauern, die das Tal strukturieren und zahlreichen bedrohten Reptilienarten wie der Mauereidechse und der Schlingnatter einen Lebensraum bieten. Das Dorf Ehnen selbst, mit seinen mittelalterlichen Gassen und dem Weinmuseum, ist harmonisch in diese Landschaft eingebettet. Wanderer können auf den Weinbergswegen die Ruhe des Tals genießen und gleichzeitig viel über die jahrhundertealte Tradition des Weinbaus und die spezifische Geologie der Region erfahren. Das Ehner Tal ist ein Ort der Entschleunigung, der die natürliche Schönheit des luxemburgischen Weinlands perfekt widerspiegelt.",
+      hu: "Az Ehnen melletti Ehner-völgy a Mosel egyik festői mellékvölgye, amely meredek szőlőültetvényeiről és magas ökológiai értékéről ismert. A völgyön apró patakok folynak keresztül, amelyek az idők folyamán mély bevágásokat vájtak a kagylós mészkőbe. A napos szőlőhegyek és az árnyékos völgyfenekek kombinációja számos mikroklímát hoz létre kis területen. Különösen értékesek a völgyet tagoló régi szárazon rakott kőfalak, amelyek számos veszélyeztetett hüllőfajnak, például a fali gyíknak és a rézsiklónak nyújtanak élőhelyet. Maga Ehnen falu középkori utcáival és bormúzeumával harmonikusan illeszkedik ebbe a tájba. A túrázók a szőlőhegyi utakon élvezhetik a völgy nyugalmát, miközben sokat megtudhatnak a borászat évszázados hagyományairól és a régió sajátos geológiájáról. Az Ehner-völgy a lassítás helyszíne, amely tökéletesen tükrözi a luxemburgi borvidék természetes szépségét.",
+      ro: "Valea Ehnen, de lângă localitatea cu același nume, este o vale laterală pitorească a Moselei, renumită pentru podgoriile sale abrupte și valoarea ecologică ridicată. Valea este străbătută de pârâuri mici care, de-a lungul timpului, au săpat adânc în straturile de calcar cochilifer. Combinația dintre versanții însoriți plantați cu viță-de-vie și fundul răcoros al văii creează o multitudine de microclimate într-un spațiu restrâns. Foarte valoroase sunt vechile ziduri de piatră uscată care structurează valea și oferă habitat pentru numeroase specii de reptile periclitate, precum șopârla de zid și șarpele de alun. Satul Ehnen, cu ulițele sale medievale și muzeul vinului, este integrat armonios în acest peisaj. Drumeții se pot bucura de liniștea văii pe cărările dintre vii, învățând în același timp despre tradiția seculară a viticulturii și despre geologia specifică a regiunii. Valea Ehnen este un loc al relaxării care reflectă perfect frumusețea naturală a regiunii viticole luxemburgheze.",
+      en: "The Ehnen valley near the village of Ehnen is a picturesque side valley of the Moselle, renowned for its steep vineyards and high ecological significance. Small streams flow through the valley, having carved deep incisions into the shell limestone over millennia. The interplay between sun-drenched vineyard slopes and shaded valley floors creates a diverse range of microclimates within a compact area. Of particular value are the ancient dry-stone walls that terrace the valley, providing critical habitats for endangered reptiles like the wall lizard and the smooth snake. The village of Ehnen itself, with its medieval lanes and wine museum, is harmoniously embedded in this landscape. Hikers can enjoy the valley's tranquility on vineyard paths while learning about centuries-old winemaking traditions and the region's unique geology. The Ehnen valley is a place of serenity that perfectly showcases the natural beauty of the Luxembourgish wine country."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Ehnen (Gemeinde Wormeldingen)", "Typ: Seitental der Mosel mit Weinbau", "Geologie: Muschelkalk-Formation", "Flora: Halbtrockenrasen und Weinbergsflora", "Fauna: Mauereidechse und Schlingnatter", "Besonderheit: Historische Trockenmauern (Terrassierung)", "Wanderweg: 'Ehnen' Lokale Weinwanderwege", "Attraktion: Rundkirche und Weinmuseum in Ehnen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-machtum-rocks-nature-v2",
@@ -1393,6 +1618,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Limestone formations", "Moselle riverbank location", "Geological exposure", "Rocky slope vegetation"],
     },
     imageHint: "limestone cliffs on the river moselle near machtum luxembourg",
+    descriptionAdvanced: {
+      de: "Die Machtumer Felsen oberhalb der Mosel sind eine der spektakulärsten geologischen Formationen im Osten Luxemburgs. Diese schroffen Kalkfelsen ragen steil aus den Weinbergen empor und bilden einen dramatischen Kontrast zur sanften Flusslandschaft. Die Felsen sind ein Überbleibsel des Urmeeres und beherbergen eine einzigartige Felsvegetation, die sich an die extremen, trockenen Bedingungen angepasst hat. Von den Felsvorsprüngen hat man einen phänomenalen Blick auf die Moselschleife bei Machtum und die gegenüberliegende deutsche Seite. Das Gebiet ist als Naturschutzgebiet ausgewiesen, da es wichtige Brutplätze für seltene Greifvögel wie den Wanderfalken bietet. Ein anspruchsvoller Wanderpfad führt entlang der Felskante und durch die angrenzenden Buchenwälder, wobei die geologischen Schichten des Muschelkalks hautnah erlebt werden können. Die Machtumer Felsen sind nicht nur ein Ziel für Naturliebhaber, sondern auch für Geologen ein bedeutendes Forschungsfeld, um die Entstehung des Moseltals zu verstehen.",
+      hu: "A Mosel feletti Machtumer-sziklák Kelet-Luxemburg egyik leglátványosabb geológiai képződményei. Ezek a meredek mészkősziklák büszkén emelkednek ki a szőlőültetvények közül, drámai kontrasztot alkotva a szelíd folyóparti tájjal. A sziklák az egykori őstenger maradványai, és egyedülálló sziklanövényzetnek adnak otthont, amely alkalmazkodott a szélsőséges, száraz körülményekhez. A sziklaperemekről fenomenális kilátás nyílik a Mosel machtumi kanyarulatára és a szemközti német oldalra. A terület természetvédelmi oltalom alatt áll, mivel fontos fészkelőhelyet biztosít ritka ragadozómadaraknak, például a vándorsólyomnak. Egy technikásabb túraútvonal vezet végig a sziklaélen és a szomszédos bükkösökön keresztül, ahol a kagylós mészkő geológiai rétegei közvetzel közelről tanulmányozhatóak. A Machtumer-sziklák nemcsak a természet szerelmesei számára vonzóak, hanem a geológusoknak is fontos kutatási területet jelentenek a Mosel-völgy kialakulásának megértéséhez.",
+      ro: "Stâncile Machtum, situate deasupra Moselei, reprezintă una dintre cele mai spectaculoase formațiuni geologice din estul Luxemburgului. Aceste stânci calcaroase abrupte se înalță direct din podgorii, creând un contrast dramatic cu peisajul fluvial domol. Stâncile sunt vestigii ale unei mări străvechi și găzduiesc o vegetație rupicolă unică, adaptată condițiilor extreme de uscăciune. De pe pragurile stâncoase se deschide o vedere fenomenală asupra meandrelor Moselei de la Machtum și asupra malului german opus. Zona este declarată rezervație naturală, oferind locuri de cuibărit esențiale pentru păsări de pradă rare, precum șoimul călător. Un traseu de drumeție solicitant trece pe la marginea stâncilor și prin pădurile de fag adiacente, permițând observarea directă a straturilor geologice de calcar cochilifer. Stâncile Machtum nu sunt doar o destinație pentru iubitorii de natură, ci și un domeniu de cercetare important pentru geologi în înțelegerea formării văii Moselei.",
+      en: "The Machtum Rocks overlooking the Moselle are among the most spectacular geological formations in eastern Luxembourg. These rugged limestone cliffs rise steeply above the vineyards, providing a dramatic contrast to the gentle river landscape. The rocks are remnants of an ancient sea and host a unique flora adapted to extreme, dry conditions. From the rocky ledges, visitors can enjoy phenomenal views of the Moselle loop at Machtum and the German side across the river. The area is a designated nature reserve, offering crucial nesting sites for rare birds of prey such as the peregrine falcon. A challenging hiking trail leads along the cliff edge and through the neighboring beech forests, offering an up-close experience of the shell limestone's geological layers. The Machtum Rocks are not only a prime destination for nature lovers but also a significant field of research for geologists studying the formation of the Moselle valley."
+    },
+    factsAdvanced: {
+      de: ["Lage: Oberhalb von Machtum (Gemeinde Grevenmacher)", "Geologie: Steile Muschelkalkfelsen", "Besonderheit: Dramatische Aussicht auf die Moselschleife", "Schutzstatus: Naturschutzgebiet (Zone protégée)", "Fauna: Brutplatz für Wanderfalken", "Flora: Xerotherme Felsvegetation", "Wanderweg: Kulturweg Machtum", "Bedeutung: Eine der markantesten Felswände an der luxemburgischen Mosel"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-wasserbillig-moselle-bend-nature-v2",
@@ -1413,6 +1650,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Sauer/Moselle confluence", "Lowest point of Luxembourg", "Inland navigation hub", "Riverfront promenade"],
     },
     imageHint: "confluence of sauer and moselle at wasserbillig luxembourg",
+    descriptionAdvanced: {
+      de: "Die Moselschleife bei Wasserbillig markiert den tiefsten Punkt Luxemburgs und ist ein Ort von großer geografischer und ökologischer Bedeutung. Hier, am Zusammenfluss von Sauer und Mosel, weitet sich das Tal und bildet eine beeindruckende Flusslandschaft. Das Gebiet ist geprägt von den mächtigen Wasserflächen und den angrenzenden Uferzonen, die wichtige Biotope für Wasservögel und Amphibien darstellen. Die Moselschleife bietet einen weiten Blick auf das Grenzgebiet zu Deutschland und ist ein wichtiger Knotenpunkt für die Binnenschifffahrt. Trotz der intensiven Nutzung als Transportweg finden sich in den Altarmen und Uferbereichen wertvolle Rückzugsräume für die Natur. Besonders im Winter ist die Region ein bedeutendes Rastgebiet für Zugvögel. Für Spaziergänger bieten die flachen Uferwege ideale Bedingungen für entspannte Ausflüge, wobei man das geschäftige Treiben auf dem Wasser beobachten kann. Die Moselschleife bei Wasserbillig symbolisiert die Verbindung der großen Wasserstraßen und die Offenheit Luxemburgs zu seinen Nachbarn.",
+      hu: "A Wasserbillig melletti Mosel-kanyarulat Luxemburg legmélyebb pontját jelöli, és nagy földrajzi, valamint ökológiai jelentőséggel bír. Itt, a Sauer és a Mosel folyók összefolyásánál a völgy kiszélesedik, lenyűgöző folyóparti tájat alkotva. A területet a hatalmas vízfelületek és a hozzájuk kapcsolódó part menti zónák határozzák meg, amelyek fontos biotópokat jelentenek a vízimadarak és kétéltűek számára. A Mosel-kanyarulat tágas kilátást nyújt a német határvidékre, és a belvízi hajózás fontos csomópontja. A szállítási útvonalként való intenzív használat ellenére a holtágakban és a part menti területeken értékes menedékhelyek maradtak a természet számára. Különösen télen a régió a költöző madarak jelentős pihenőhelye. A sétálók számára a lapos part menti utak ideális feltételeket kínálnak a pihentető kirándulásokhoz, miközben megfigyelhetik a vízi forgalmat. A wasserbilligi Mosel-kanyarulat a nagy vízi utak összekapcsolódását és Luxemburg szomszédai felé való nyitottságát szimbolizálja.",
+      ro: "Meandrul Moselei de la Wasserbillig marchează cel mai de jos punct geografic al Luxemburgului și este un loc de o mare importanță geografică și ecologică. Aici, la confluența râurilor Sauer și Mosela, valea se lărgește, formând un peisaj fluvial impresionant. Zona este definită de suprafețele vaste de apă și de zonele riverane adiacente, care reprezintă biotopuri esențiale pentru păsările acvatice și amfibieni. Meandrul oferă o vedere largă asupra zonei de frontieră cu Germania și este un nod important pentru navigația interioară. În ciuda utilizării intense ca cale de transport, în brațele vechi și în zonele de mal se găsesc refugii naturale prețioase. Mai ales în timpul iernii, regiunea este un loc de popas semnificativ pentru păsările migratoare. Pentru plimbări, potecile plate de pe mal oferă condiții ideale, permițând observarea activității intense de pe apă. Meandrul Moselei de la Wasserbillig simbolizează legătura dintre marile căi navigabile și deschiderea Luxemburgului către vecinii săi.",
+      en: "The Moselle bend at Wasserbillig marks the lowest point in Luxembourg and is a site of great geographical and ecological importance. Here, at the confluence of the Sûre and Moselle rivers, the valley widens to form an impressive riverine landscape. The area is characterized by vast expanses of water and adjacent shoreline zones that serve as vital biotopes for water birds and amphibians. The Moselle bend offers sweeping views across the border into Germany and serves as a major hub for inland navigation. Despite its intensive use as a transport route, valuable natural sanctuaries persist within backwaters and along the banks. Especially during the winter months, the region is a significant resting ground for migratory birds. For walkers, the flat riverside paths provide ideal conditions for leisurely excursions while observing the busy water traffic. The Moselle bend at Wasserbillig symbolizes the connection of major waterways and Luxembourg's openness toward its neighbors."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Wasserbillig (Gemeinde Mertert)", "Besonderheit: Tiefster Punkt Luxemburgs (130 m ü. NN)", "Gewässer: Zusammenfluss von Sauer und Mosel", "Bedeutung: Wichtiger Knotenpunkt für die Binnenschifffahrt", "Ökologie: Rastgebiet für Zugvögel im Winter", "Fauna: Graureiher, Kormorane und diverse Entenarten", "Infrastruktur: Flache Uferpromenaden und Radwege", "Aussicht: Blick auf das deutsche Ufer (Igel und Oberbillig)"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-born-sure-valley-nature-v2",
@@ -1433,6 +1682,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Floodplains of the Sûre", "Border river with Germany", "Hiking and cycling paths", "Fish-rich waters"],
     },
     imageHint: "river sure flowing through meadows near born luxembourg",
+    descriptionAdvanced: {
+      de: "Das Sauertal bei Born ist ein Inbegriff für unberührte Flussnatur und sanften Tourismus im Osten Luxemburgs. Der Fluss Sauer hat sich hier ein weites, grünes Tal geschaffen, das von dichten Wäldern und saftigen Wiesen gesäumt wird. Born ist bekannt für seine Quellen und die hohe Wasserqualität der Sauer, die hier besonders ruhig und majestätisch dahinfließt. Die Uferzonen sind reich an Weidengebüschen und bieten zahlreichen Insekten- und Vogelarten einen idealen Lebensraum. Besonders für Paddler und Radfahrer ist das Tal bei Born ein Paradies, da die Wege direkt am Wasser verlaufen und immer wieder spektakuläre Ausblicke auf die Flusswindungen bieten. Die Geologie ist geprägt durch Muschelkalk- und Keuperschichten, die den Boden besonders fruchtbar machen und eine vielfältige Flora begünstigen. Das Sauertal bei Born strahlt eine tiefe Ruhe aus und ist ein perfektes Ziel für alle, die die ursprüngliche Kraft des Wassers und die Stille der Natur suchen.",
+      hu: "A Born melletti Sauer-völgy az érintetlen folyóparti természet és a szelíd turizmus jelképe Kelet-Luxemburgban. A Sauer folyó itt egy tágas, zöld völgyet hozott létre, amelyet sűrű erdők és dús rétek szegélyeznek. Born híres forrásairól és a Sauer kiváló vízminőségéről, amely itt különösen nyugodtan és fenségesen folyik. A part menti zónák gazdagok fűzfa-ligetekben, és ideális élőhelyet biztosítanak számos rovar- és madárfajnak. A völgy különösen a kajakosok és kerékpárosok körében paradicsomi hely, mivel az utak közvetlenül a víz mellett haladnak, és újra meg újra látványos kilátást nyújtanak a folyó kanyarulataira. A geológiát a kagylós mészkő- és keuper-rétegek határozzák meg, amelyek a talajt különösen termékennyé teszik és elősegítik a változatos flóra kialakulását. A Born melletti Sauer-völgy mély nyugalmat áraszt, és tökéletes célpont mindazoknak, akik a víz ősi erejét és a természet csendjét keresik.",
+      ro: "Valea râului Sauer la Born este chintesența naturii fluviale neatinse și a turismului durabil din estul Luxemburgului. Aici, râul Sauer a modelat o vale largă și verde, mărginită de păduri dese și pajiști bogate. Localitatea Born este cunoscută pentru izvoarele sale și pentru calitatea ridicată a apei râului Sauer, care curge aici într-un mod deosebit de liniștit și maiestuos. Zonele de mal sunt bogate în zăvoaie de sălcii, oferind un habitat ideal pentru numeroase specii de insecte și păsări. Valea de la Born este un paradis pentru canotiști și bicicliști, deoarece traseele șerpuiesc chiar pe lângă apă, oferind periodic vederi spectaculoase asupra curbelor râului. Geologia este marcată de straturi de calcar cochilifer și keuper, care fac solul deosebit de fertil și favorizează o floră diversă. Valea Sauer la Born emană o liniște profundă și este o destinație perfectă pentru cei care caută forța originară a apei și liniștea naturii.",
+      en: "The Sûre valley near Born is the epitome of pristine river nature and sustainable tourism in eastern Luxembourg. Here, the Sûre river has carved a wide, verdant valley lined with dense forests and lush meadows. Born is renowned for its springs and the exceptional water quality of the Sûre, which flows calmly and majestically through this stretch. The riparian zones are rich in willow thickets, providing ideal habitats for numerous insect and bird species. For paddlers and cyclists, the valley at Born is a paradise, with paths running directly alongside the water and offering spectacular views of the river's winding course. The local geology, characterized by shell limestone and keuper layers, makes the soil particularly fertile and supports a diverse flora. The Sûre valley at Born exudes profound tranquility and is a perfect destination for those seeking the primal power of water and the silence of nature."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Born (Gemeinde Rosport-Mompach)", "Gewässer: Unterlauf der Sauer (Sûre)", "Bedeutung: Trinkwasserschutzzone und Naherholung", "Flora: Auenvegetation und Halbtrockenrasen an den Hängen", "Infrastruktur: Grenzüberschreitender Radweg und Kanustationen", "Besonderheit: Bekannt für lokale Mineralwasserquellen", "Geologie: Muschelkalk und Keuper-Mergel", "Charakter: Breites, offenes Flusstal"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-rosport-sure-valley-nature-v2",
@@ -1453,6 +1714,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Sûre river bend", "Hydroelectric power plant", "Forest and meadow scenery", "Border alignment"],
     },
     imageHint: "river sure bend in a green valley rosport luxembourg",
+    descriptionAdvanced: {
+      de: "Das Sauertal bei Rosport ist geprägt von einer beeindruckenden Flusslandschaft, in der die Sauer eine markante Schleife zieht. Diese Region ist weltberühmt für ihre Mineralquellen, deren Wasser tief aus den Gesteinsschichten des Sauertals emporsteigt. Die steilen Hänge, die das Tal bei Rosport begrenzen, sind von dichten Buchenwäldern bedeckt, die einen starken Kontrast zu den offenen Wasserflächen bilden. Das Rosporter Sauertal ist ein Hotspot der Biodiversität, da die Kombination aus Wasser, Felsen und Wald vielfältige Nischen schafft. Besonders sehenswert ist die Girsterklaus, eine alte Wallfahrtskirche hoch über dem Tal, von der man einen weiten Blick über die gesamte Region hat. Die Sauer dient hier nicht nur der Erholung, sondern auch der ökologischen Vernetzung zwischen Luxemburg und Deutschland. Für Naturbegeisterte bietet das Tal zahlreiche Entdeckungsmöglichkeiten, von seltenen Farnen in den schattigen Schluchten bis hin zu Wasservögeln, die in den ruhigen Buchten des Flusses nisten.",
+      hu: "A Rosport melletti Sauer-völgyet egy lenyűgöző folyóparti táj jellemzi, ahol a Sauer folyó egy jellegzetes kanyarulatot ír le. Ez a régió világhírű ásványvízforrásairól, amelyek vize mélyen a Sauer-völgy kőzetrétegeiből tör fel. A völgyet Rosportnál határoló meredek lejtőket sűrű bükkerdők borítják, amelyek erős kontrasztot alkotnak a nyílt vízfelületekkel. A rosporti Sauer-völgy a biodiverzitás egyik központja, mivel a víz, a sziklák és az erdők kombinációja változatos élettereket hoz létre. Különösen érdemes meglátogatni a Girsterklaust, egy régi zarándoktemplomot magasan a völgy felett, ahonnan tágas kilátás nyílik az egész régióra. A Sauer itt nemcsak a kikapcsolódást szolgálja, hanem az ökológiai kapcsolatot is biztosítja Luxemburg és Németország között. A természetkedvelők számára a völgy számos felfedeznivalót kínál, az árnyas szurdokok ritka páfrányaitól kezdve a folyó csendes öbleiben fészkelő vízimadarakig.",
+      ro: "Valea râului Sauer la Rosport este marcată de un peisaj fluvial impresionant, unde râul descrie un meandru pronunțat. Această regiune este celebră în întreaga lume pentru izvoarele sale minerale, a căror apă urcă din straturile adânci de rocă ale văii. Versanții abrupți care mărginesc valea la Rosport sunt acoperiți de păduri dese de fag, care creează un contrast puternic cu suprafețele de apă deschise. Valea Sauer la Rosport este un punct fierbinte al biodiversității, deoarece combinația de apă, stânci și pădure creează nișe ecologice diverse. Girsterklaus, o veche biserică de pelerinaj situată sus deasupra văii, este un obiectiv ce merită vizitat pentru vederea panoramică asupra întregii regiuni. Râul Sauer servește aici nu doar pentru recreere, ci și ca o rețea de conexiune ecologică între Luxemburg și Germania. Pentru pasionații de natură, valea oferă numeroase posibilități de descoperire, de la ferigi rare în defileele umbrite până la păsări de apă care cuibăresc în golfurile liniștite ale râului.",
+      en: "The Sûre valley near Rosport is defined by an impressive riverine landscape where the Sûre river performs a distinct and prominent loop. This region is world-famous for its mineral springs, whose water rises from deep within the rock layers of the Sûre valley. The steep slopes bordering the valley at Rosport are covered with dense beech forests, providing a stark contrast to the open water surfaces. The Rosport Sûre valley is a biodiversity hotspot, as the combination of water, rocks, and forest creates a wide variety of ecological niches. A notable landmark is the Girsterklaus, an ancient pilgrimage church perched high above the valley, offering sweeping views of the entire region. Here, the Sûre serves not only for recreation but also as an ecological corridor between Luxembourg and Germany. For nature enthusiasts, the valley offers countless opportunities for discovery, from rare ferns in shaded gorges to water birds nesting in the river's quiet bays."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Rosport (Gemeinde Rosport-Mompach)", "Besonderheit: Standort der Mineralquelle 'Rosport'", "Gewässer: Sauer-Schleife", "Flora: Orchideen und seltene Moose in den Hangwäldern", "Geologie: Buntsandstein und Muschelkalk", "Attraktion: Tudor-Schloss und Girsterklaus-Kapelle", "Wanderweg: 'Rosport' Lokale Wanderwege", "Fauna: Graureiher und Eisvogel als regelmäßige Gäste"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-moersdorf-nature-area-nature-v2",
@@ -1473,6 +1746,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Calcareous grasslands", "Downy oak forest", "Rich insect diversity", "View of the Sûre valley"],
     },
     imageHint: "dry hillside with orchids near moersdorf luxembourg",
+    descriptionAdvanced: {
+      de: "Das Naturgebiet bei Moersdorf im unteren Sauertal ist ein Rückzugsort von außergewöhnlicher Stille und ökologischer Vielfalt. Die Landschaft wird durch die breite Talaue der Sauer und die steil ansteigenden Muschelkalkfelsen geprägt, die das Dorf Moersdorf wie einen schützenden Wall umgeben. Besonders wertvoll sind die Halbtrockenrasen auf den Plateaus oberhalb des Dorfes, die eine Vielzahl seltener Orchideen und wärmeliebender Pflanzen beherbergen. Entlang des Flusses finden sich intakte Auwaldreste, die als wichtige Brut- und Rastplätze für Wasservögel dienen. Wanderer schätzen das Gebiet für seine gut markierten Wege, die spektakuläre Ausblicke auf das Sauertal und die gegenüberliegende deutsche Region bieten. Moersdorf ist zudem bekannt für seinen sanften Tourismus, der die Bewahrung der Natur in den Vordergrund stellt. Die geologische Struktur des Gebiets bietet zudem Einblicke in die erosive Kraft der Sauer, die sich über Jahrtausende tief in die Gesteinsschichten gegraben hat.",
+      hu: "Az alsó Sauer-völgyben, Moersdorf közelében található természetvédelmi terület a rendkívüli nyugalom és az ökológiai sokféleség menedéke. A tájat a Sauer széles ártéri síksága és a meredeken emelkedő kagylós mészkősziklák határozzák meg, amelyek védőfalként veszik körül Moersdorf faluját. Különösen értékesek a falu feletti fennsíkokon található félszáraz gyepek, amelyek számos ritka orchideának és melegkedvelő növénynek adnak otthont. A folyó mentén érintetlen ártéri erdőmaradványok találhatók, amelyek a vízimadarak fontos fészkelő- és pihenőhelyei. A túrázók nagyra értékelik a területet jól jelzett ösvényei miatt, amelyek látványos kilátást nyújtanak a Sauer-völgyre és a szemközti német régióra. Moersdorf a szelíd turizmusáról is ismert, amely a természet megőrzését helyezi előtérbe. A terület geológiai szerkezete betekintést enged a Sauer eróziós erejébe, amely évezredek alatt mélyen bevágta magát a kőzetrétegekbe.",
+      ro: "Zona naturală de lângă Moersdorf, situată în valea inferioară a râului Sauer, este un refugiu de o liniște excepțională și o mare diversitate ecologică. Peisajul este definit de lunca largă a râului Sauer și de stâncile abrupte de calcar cochilifer care înconjoară satul Moersdorf ca un zid protector. Pajiștile semi-uscate de pe platourile de deasupra satului sunt deosebit de valoroase, adăpostind o multitudine de orhidee rare și plante iubitoare de căldură. De-a lungul râului se găsesc resturi intacte de pădure riverană, care servesc ca locuri importante de cuibărit și popas pentru păsările acvatice. Drumeții apreciază zona pentru traseele sale bine marcate, care oferă vederi spectaculoase asupra văii Sauer și a regiunii germane vecine. Moersdorf este, de asemenea, cunoscut pentru turismul său durabil, care pune pe primul loc conservarea naturii. Structura geologică a zonei oferă indicii despre forța erozivă a râului Sauer, care s-a adâncit în straturile de rocă pe parcursul mileniilor.",
+      en: "The nature area near Moersdorf in the lower Sûre valley is a sanctuary of exceptional tranquility and ecological diversity. The landscape is defined by the Sûre's broad floodplain and the steep shell limestone cliffs that surround the village of Moersdorf like a protective wall. Of particular value are the semi-dry grasslands on the plateaus above the village, which host an abundance of rare orchids and thermophilous plants. Along the river, intact remnants of alluvial forest serve as vital nesting and resting sites for water birds. Hikers value the area for its well-marked paths that offer spectacular vistas of the Sûre valley and the neighboring German countryside. Moersdorf is also known for its commitment to sustainable tourism, prioritizing the preservation of its natural heritage. The local geological structure provides insight into the erosive power of the Sûre, which has carved deep into the rock layers over thousands of years."
+    },
+    factsAdvanced: {
+      de: ["Lage: Unteres Sauertal bei Moersdorf", "Region: Osten Luxemburgs (Kanton Echternach)", "Geologie: Muschelkalkfelsen und Alluvialböden", "Flora: Halbtrockenrasen mit Orchideenvielfalt", "Fauna: Wichtiger Korridor für Wasservögel", "Schutzstatus: Teil eines großräumigen Naturschutzgebiets", "Infrastruktur: Anschluss an den Sauertal-Radweg", "Attraktion: Aussichtspunkt 'Moersdorfer Berg'"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-girsterklaus-hill-nature-v2",
@@ -1493,6 +1778,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Viewpoint over the Sûre", "Oldest pilgrimage chapel", "Dolomite rock formations", "Beech-mixed woodland"],
     },
     imageHint: "ancient chapel on a hill with a view over a river valley luxembourg",
+    descriptionAdvanced: {
+      de: "Der Girsterklaus-Hügel ist ein markanter Aussichtspunkt und spiritueller Ort hoch über dem Sauertal. Mit der Girsterklaus, dem ältesten Wallfahrtsort Luxemburgs, auf seinem Gipfel, bietet der Hügel eine einzigartige Verbindung von Sakralbau und Naturlandschaft. Die Hänge des Hügels sind von Trockenrasen und alten Obstbaumwiesen geprägt, die einer Vielzahl seltener Insektenarten einen Lebensraum bieten. Von oben bietet sich ein atemberaubendes Panorama, das weit über die Windungen der Sauer bis in die Eifel hineinreicht. Die Ruhe auf dem Plateau macht den Girsterklaus-Hügel zu einem idealen Ort für Meditation und Besinnung. Zahlreiche Wanderwege führen von Rosport und Dickweiler hinauf zur Kapelle, wobei man durch abwechslungsreiche Wald- und Feldlandschaften wandert. Geologisch gesehen besteht der Hügel aus harten Kalkschichten, die dem Tal seine charakteristische Form geben. Für Naturfotografen ist die Girsterklaus besonders in der Abenddämmerung ein beliebtes Motiv, wenn die Kapelle im weichen Licht über dem Tal thront.",
+      hu: "A Girsterklaus-domb egy jellegzetes kilátópont és spirituális helyszín magasan a Sauer-völgy felett. A dombtetőn található Girsterklaus – Luxemburg legrégebbi zarándokhelye – a szakrális építészet és a természeti táj egyedülálló ötvözetét kínálja. A domb lejtőit száraz gyepek és régi gyümölcsösök határozzák meg, amelyek számos ritka rovarfajnak nyújtanak élőhelyet. Felülről lélegzetelállító panoráma nyílik, amely messze a Sauer kanyarulatai fölött egészen az Eifel-hegységig elér. A fennsík nyugalma a Girsterklaus-dombot a meditáció és az elmélyülés ideális helyszínévé teszi. Számos túraútvonal vezet Rosportból és Dickweilerből a kápolnához, változatos erdei és mezei tájakon keresztül. Geológiailag a domb kemény mészkőrétegekből áll, amelyek a völgy jellegzetes formáját adják. A természetfotósok számára a Girsterklaus különösen alkonyatkor népszerű téma, amikor a kápolna lágy fényben úszva magasodik a völgy fölé.",
+      ro: "Dealul Girsterklaus este un punct de belvedere marcant și un loc spiritual situat sus deasupra văii râului Sauer. Având pe vârf Girsterklaus, cel mai vechi loc de pelerinaj din Luxemburg, dealul oferă o legătură unică între arhitectura sacră și peisajul natural. Versanții dealului sunt caracterizați de pajiști uscate și livezi vechi de pomi fructiferi, care oferă un habitat pentru o multitudine de specii rare de insecte. De sus se deschide o panoramă spectaculoasă care se întinde mult peste meandrele râului Sauer, până în regiunea Eifel. Liniștea de pe platou face din dealul Girsterklaus un loc ideal pentru meditație și reflecție. Numeroase trasee de drumeție urcă din Rosport și Dickweiler către capelă, trecând prin peisaje variate de pădure și câmpie. Din punct de vedere geologic, dealul este format din straturi dure de calcar care dau văii forma sa caracteristică. Pentru fotografii de natură, Girsterklaus este un subiect preferat mai ales la amurg, când capela tronează în lumina caldă deasupra văii.",
+      en: "Girsterklaus Hill is a prominent vantage point and spiritual site perched high above the Sûre valley. Home to the Girsterklaus, Luxembourg's oldest pilgrimage site, the hill offers a unique convergence of sacred architecture and natural scenery. Its slopes are characterized by dry grasslands and ancient orchards, providing a rich habitat for various rare insect species. From the summit, visitors can enjoy a breathtaking panorama extending far across the windings of the Sûre and into the Eifel mountains. The plateau's profound tranquility makes Girsterklaus Hill an ideal location for meditation and contemplation. Numerous hiking trails lead from Rosport and Dickweiler up to the chapel, passing through diverse woodland and agricultural landscapes. Geologically, the hill is composed of hard limestone layers that give the valley its distinctive form. For nature photographers, Girsterklaus is a favored subject, especially at twilight when the chapel stands illuminated over the deepening valley."
+    },
+    factsAdvanced: {
+      de: ["Lage: Bei Rosport-Dickweiler (Osten Luxemburgs)", "Attraktion: Girsterklaus (älteste Wallfahrtskapelle des Landes)", "Höhe: ca. 320 Meter über NN", "Aussicht: Panoramablick auf das Sauertal", "Lebensraum: Alte Streuobstwiesen und Trockenrasen", "Wanderwege: Rosport Local Trails (z.B. R7)", "Bedeutung: Spirituelles und kulturelles Zentrum der Region", "Flora: Schlüsselblumen und diverse Orchideenarten"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-tretterbaach-nature-v2",
@@ -1513,6 +1810,19 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Near-natural stream course", "North Luxembourg (Oesling)", "Trout-inhabited water", "Secluded forest valley"],
     },
     imageHint: "clear stream in a northern luxembourg forest valley",
+    descriptionAdvanced: {
+      de: "Der Tretterbaach ist ein kleiner, aber ökologisch höchst bedeutsamer Bachlauf im hohen Norden Luxemburgs, der das gleichnamige Naturschutzgebiet durchfließt. Das Tal des Tretterbaach ist eines der letzten Rückzugsgebiete für spezialisierte Arten des Öslings, wie das Haselhuhn und die Wildkatze. Der Bach schlängelt sich durch ein Mosaik aus Feuchtwiesen, Erlenbruchwäldern und kargen Hochplateaus. Das Schutzgebiet ist Teil des Natura 2000 Netzwerks und dient dem Erhalt seltener Biotoptypen der Ardennen. Die Dynamik des Baches ist weitgehend ungestört, was zur Bildung wertvoller Kiesbänke und Kolke führt, in denen die Bachforelle laichen kann. Für Besucher bietet das Tal eine fast mystische Stille, die nur durch das Murmeln des Wassers unterbrochen wird. Durch gezielte Naturschutzprojekte wurde die Fichtenmonokultur in den Auen zurückgedrängt, um den heimischen Laubwaldgesellschaften wieder Raum zu geben. Der Tretterbaach ist somit ein Vorzeigeprojekt für die Renaturierung von Mittelgebirgsbächen.",
+      hu: "A Tretterbaach egy kisméretű, de ökológiailag rendkívül jelentős patak Luxemburg legészakibb részén, amely az azonos nevű természetvédelmi területen folyik keresztül. A Tretterbaach-völgy az Ösling régió specializált fajainak – például a császármadárnak és a vadmacskának – egyik utolsó menedékhelye. A patak nedves rétek, égerligetek és kopár fennsíkok mozaikján kanyarog keresztül. A védett terület a Natura 2000 hálózat része, és az Ardennek ritka biotópjainak megőrzését szolgálja. A patak dinamikája nagyrészt zavartalan, ami értékes kavicspadok és mélyedések kialakulásához vezet, ahol a sebes pisztráng ívni tud. A látogatók számára a völgy szinte misztikus csendet kínál, amelyet csak a víz csobogása tör meg. Célzott természetvédelmi projektek révén az ártéri területeken visszaszorították a lucfenyő-monokultúrákat, hogy újra helyet adjanak az őshonos lombhullató erdőtársulásoknak. A Tretterbaach így a középhegységi patakok revitalizációjának egyik mintaprojektje.",
+      ro: "Tretterbaach este un pârâu mic, dar de o importanță ecologică majoră, situat în nordul extrem al Luxemburgului, traversând rezervația naturală cu același nume. Valea Tretterbaach reprezintă unul dintre ultimele refugii pentru specii specializate din regiunea Ösling, cum ar fi ierunca și pisica sălbatică. Pârâul șerpuiește printr-un mozaic de pajiști umede, păduri de arini și platouri înalte aride. Rezervația face parte din rețeaua Natura 2000 și are ca scop conservarea biotopurilor rare din Ardeni. Dinamica pârâului este în mare parte neperturbată, ceea ce duce la formarea de bancuri de pietriș și ochiuri de apă adânci, esențiale pentru reproducerea păstrăvului de munte. Pentru vizitatori, valea oferă o liniște aproape mistică, întreruptă doar de susurul apei. Prin proiecte de conservare bine direcționate, monoculturile de molid din luncă au fost eliminate pentru a face loc din nou pădurilor de foioase native. Tretterbaach este astfel un proiect model pentru renaturarea cursurilor de apă montane.",
+      en: "The Tretterbaach is a small yet ecologically vital stream in the far north of Luxembourg, flowing through the nature reserve of the same name. The Tretterbaach valley is one of the last sanctuaries for specialized Oesling species, such as the hazel grouse and the European wildcat. The stream winds through a mosaic of wet meadows, alder carrs, and sparse high plateaus. This protected area is part of the Natura 2000 network, dedicated to preserving rare Ardennes biotope types. The stream's natural dynamics remain largely undisturbed, resulting in the formation of gravel banks and pools where brown trout can spawn. For visitors, the valley offers an almost mystical silence, broken only by the murmur of flowing water. Targeted conservation projects have pushed back spruce monocultures in the floodplains to give native deciduous forest communities room to thrive. The Tretterbaach stands as a flagship project for the restoration of highland streams."
+    },
+    factsAdvanced: {
+      de: ["Lage: Hohen Norden Luxemburgs (Kanton Clervaux)", "Typ: Naturschutzgebiet (Natura 2000)", "Gewässer: Tretterbaach (Nebenfluss der Wiltz)", "Fauna: Haselhuhn, Wildkatze, Schwarzstorch", "Flora: Feuchtwiesen und Moorstandorte", "Besonderheit: Wildnischarakter und Abgeschiedenheit", "Schutzstatus: Seit 1994 geschützt", "Maßnahmen: Entfernung von Fichten-Anpflanzungen in der Aue"],
+      hu: [],
+      ro: [],
+      en: [],
+//       en: []
+    }
   },
   {
     id: "luxembourg-eltz-river-nature-v2",
@@ -1533,6 +1843,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Tributary of the Attert", "Western Luxembourg", "Natural stream course", "Valley meadows"],
     },
     imageHint: "small stream eltz in a rural luxembourg valley",
+    descriptionAdvanced: {
+      de: "Die Eltz ist ein idyllischer Wasserlauf im Herzen Luxemburgs, der durch seine naturnahen Ufer und die sanfte Hügellandschaft des Gutlands besticht. Der Bach entspringt in den landwirtschaftlich geprägten Gebieten des Zentrums und schlängelt sich durch ein Tal, das von traditionellen Streuobstwiesen und kleinen Waldinseln geprägt ist. Die Eltz spielt eine wichtige Rolle bei der Entwässerung der umliegenden Felder, hat aber gleichzeitig ihren natürlichen Charakter weitgehend bewahrt. Die Ufervegetation aus Erlen und Weiden bietet zahlreichen Singvögeln Schutz und Nahrung. In den ruhigen Abschnitten des Baches kann man oft den Eisvogel beobachten, der hier auf Jagd geht. Die Eltz ist zudem ein wichtiger Korridor für die lokale Fauna, der verschiedene Biotopbausteine miteinander vernetzt. Für Spaziergänger bietet das Eltztal eine entspannte Atmosphäre und einen Einblick in das klassische luxemburgische Agrarland, wo Natur und Mensch seit Jahrhunderten in engem Austausch stehen.",
+      hu: "Az Eltz egy idilli vízfolyás Luxemburg szívében, amely természetközeli partjaival és a Gutland régió szelíden hullámzó dombjaival nyűgöz le. A patak a központi régió mezőgazdasági területein ered, és egy olyan völgyön kanyarog keresztül, amelyet hagyományos gyümölcsösök és kis erdőszigetek jellemeznek. Az Eltz fontos szerepet játszik a környező mezők vízelvezetésében, de közben nagyrészt megőrizte természetes jellegét. A part menti éger- és fűzfák számos énekesmadárnak nyújtanak védelmet és táplálékot. A patak csendesebb szakaszain gyakran megfigyelhető a jégmadár is. Az Eltz emellett fontos ökológiai folyosó a helyi fauna számára, amely összeköti a különböző élőhelyeket. A sétálók számára az Eltz-völgy pihentető légkört és betekintést kínál a klasszikus luxemburgi mezőgazdasági tájba, ahol a természet és az ember évszázadok óta szoros kölcsönhatásban él.",
+      ro: "Eltz este un curs de apă idilic din inima Luxemburgului, care impresionează prin malurile sale naturale și peisajul colinar blând al regiunii Gutland. Pârâul izvorăște în zonele agricole din centru și șerpuiește printr-o vale marcată de livezi tradiționale de pomi fructiferi și mici insule de pădure. Eltz joacă un rol important în drenajul câmpurilor din jur, dar și-a păstrat în același timp caracterul natural. Vegetația de mal, formată din arini și sălcii, oferă adăpost și hrană pentru numeroase păsări cântătoare. În secțiunile liniștite ale pârâului, poate fi observat adesea pespărașul la vânătoare. Eltz este, de asemenea, un coridor important pentru fauna locală, conectând diverse elemente de biotop. Pentru plimbări, valea Eltz oferă o atmosferă relaxantă și o perspectivă asupra peisajului agricol clasic luxemburghez, unde natura și omul se află într-un schimb strâns de secole.",
+      en: "The Eltz is an idyllic stream in the heart of Luxembourg, noted for its natural banks and the gently rolling hills of the Gutland region. Rising in the agricultural lands of central Luxembourg, the stream winds through a valley defined by traditional orchards and small woodland clusters. While playing a key role in draining the surrounding fields, the Eltz has largely preserved its natural character. Its riparian vegetation of alders and willows provides essential shelter and food for numerous songbirds. In the stream's quieter sections, the kingfisher is often seen hunting. The Eltz also serves as a vital corridor for local wildlife, linking various biotope segments across the landscape. For walkers, the Eltz valley offers a relaxed atmosphere and a glimpse into quintessential Luxembourgish farmland, where nature and humanity have coexisted in close exchange for centuries."
+    },
+    factsAdvanced: {
+      de: ["Lage: Zentral-Luxemburg (Gutland)", "Typ: Flachlandbach mit landwirtschaftlichem Umfeld", "Flora: Uferrandstreifen mit Erlen und Weiden", "Fauna: Lebensraum für Eisvogel und Wasseramsel", "Ökologie: Vernetzung lokaler Biotopbausteine", "Nutzung: Teilweise zur Bewässerung und Entwässerung", "Landschaft: Traditionelle Streuobstwiesen", "Charakter: Ruhiger, unaufgeregter Bachlauf"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-mont-st-nicolas-nature-v2",
@@ -1553,6 +1875,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Viewpoint near Vianden", "Overlooking Our valley", "Pumped-storage upper basin", "Forested slopes"],
     },
     imageHint: "scenic view from mont st nicolas over vianden luxembourg",
+    descriptionAdvanced: {
+      de: "Der Mont St-Nicolas oberhalb von Vianden ist nicht nur wegen seines imposanten Pumpspeicherkraftwerks bekannt, sondern auch als ein herausragendes Naturgebiet. Der Berg bietet spektakuläre Ausblicke auf das Ourtal und die mittelalterliche Burg von Vianden. Die Hänge des Mont St-Nicolas sind mit dichten Eichenwäldern bewaldet, die für das Ösling typisch sind und zahlreiche Wanderwege beherbergen. Geologisch gesehen besteht der Berg aus Schiefergestein, das im Inneren riesige Kavernen für die Energieerzeugung beherbergt. Oben auf dem Plateau befindet sich das riesige Oberbecken des Kraftwerks, das wie ein künstlicher See wirkt und von einem Wanderweg umrundet werden kann. Trotz der technischen Nutzung hat sich am Berg eine vielfältige Flora und Fauna erhalten. Besonders im Herbst bietet die Laubfärbung am Mont St-Nicolas ein beeindruckendes Farbschauspiel. Der Berg ist ein Symbol für die Verbindung von moderner Technik und der Bewahrung der natürlichen Landschaftsschönheit der Ardennen.",
+      hu: "A Vianden feletti Mont St-Nicolas nemcsak impozáns szivattyús-tározós erőművéről, hanem kiemelkedő természeti területéről is ismert. A hegyről látványos kilátás nyílik az Our-völgyre és Vianden középkori várára. A Mont St-Nicolas lejtőit az Ösling régióra jellemző sűrű tölgyerdők borítják, amelyeket számos túraútvonal hálóz be. Geológiai szempontból a hegy palából áll, amelynek belsejében hatalmas kavernák találhatók az energiatermelés céljából. A fennsíkon található az erőmű hatalmas felső tározója, amely mesterséges tóként hat, és egy túraútvonalon körbejárható. A technikai hasznosítás ellenére a hegyen változatos flóra és fauna maradt fenn. Különösen ősszel a Mont St-Nicolas lombjainak színesedése lenyűgöző látványt nyújt. A hegy a modern technika és az Ardennek természeti szépségének megőrzése közötti kapcsolat szimbóluma.",
+      ro: "Mont St-Nicolas, situat deasupra orașului Vianden, este cunoscut nu doar pentru centrala sa hidroelectrică cu pompare impunătoare, ci și ca o zonă naturală remarcabilă. Muntele oferă vederi spectaculoase asupra văii râului Our și asupra castelului medieval din Vianden. Versanții muntelui Mont St-Nicolas sunt acoperiți cu păduri dense de stejar, tipice pentru regiunea Ösling, și găzduiesc numeroase trasee de drumeție. Din punct de vedere geologic, muntele este format din ardezie, adăpostind în interior caverne uriașe pentru producerea energiei. Pe platoul superior se află bazinul gigant al centralei, care arată ca un lac artificial și poate fi ocolit pe un traseu de plimbare. În ciuda utilizării tehnice, muntele a păstrat o floră și o faună diversă. Toamna, coloritul frunzelor pe Mont St-Nicolas oferă un spectacol vizual impresionant. Muntele este un simbol al simbiozei dintre tehnologia modernă și conservarea frumuseții naturale a Ardenilor.",
+      en: "Mont St-Nicolas overlooking Vianden is famous not only for its massive pumped-storage power station but also as an outstanding natural area. The mountain offers spectacular views of the Our valley and the medieval castle of Vianden. Its slopes are blanketed with dense oak forests typical of the Oesling region and are crisscrossed with numerous hiking trails. Geologically composed of slate, the mountain contains giant internal caverns used for energy production. Atop the plateau sits the power plant's enormous upper reservoir, which functions as an artificial lake and can be circled via a popular walking path. Despite its industrial utility, the mountain supports a diverse range of flora and fauna. In autumn, the changing foliage on Mont St-Nicolas provides a stunning display of color. The mountain serves as a symbol of the balance between modern technology and the preservation of the Ardennes' natural landscape beauty."
+    },
+    factsAdvanced: {
+      de: ["Lage: Oberhalb von Vianden (Nordoxt-Luxemburg)", "Attraktion: Pumpspeicherkraftwerk Vianden (Oberbecken)", "Aussicht: Panoramablick auf Vianden und das Ourtal", "Geologie: Ösling-Schiefer", "Waldtyp: Niederwald-Eichenwälder (Lohhecken)", "Infrastruktur: Sessellift von Vianden und Wanderwege", "Bedeutung: Eines der größten Pumpspeicherkraftwerke Europas", "Wanderweg: Rundweg um das Oberbecken (ca. 4,5 km)"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-wark-valley-nature-v2",
@@ -1573,6 +1907,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Deep forest valley", "Meandering river course", "Habitat for red deer", "Quiet hiking trails"],
     },
     imageHint: "deep forested valley with a small river luxembourg",
+    descriptionAdvanced: {
+      de: "Das Warktal im Herzen des Öslings ist eines der ursprünglichsten und am wenigsten erschlossenen Flusstäler Luxemburgs. Der Bach Wark hat sich tief in die Schiefergesteinsschichten der Ardennen eingegraben und eine Landschaft von rauer Schönheit geschaffen. Das Tal ist geprägt durch einen ständigen Wechsel von dichten Mischwäldern, steilen Felswänden und schmalen Wiesengründen. Aufgrund seiner Abgeschiedenheit bietet das Warktal einen idealen Lebensraum für scheue Tierarten wie den Schwarzstorch und die Wildkatze. Für Wanderer ist das Tal ein echter Geheimtipp, da die Pfade oft schmal und naturnah sind und ein intensives Erlebnis der Wildnis ermöglichen. Die zahlreichen kleinen Nebenbäche, die in die Wark münden, schaffen zusätzliche feuchte Biotope mit einer spezialisierten Moos- und Farnflora. Das Warktal ist ein Ort, an dem man die Kraft der Erosion und die ungestörte Entwicklung der Natur in einer der einsamsten Regionen des Landes hautnah beobachten kann.",
+      hu: "Az Ösling régió szívében található Wark-völgy Luxemburg egyik legeredetibb és legkevésbé kiépített folyóvölgye. A Wark-patak mélyen bevágta magát az Ardennek palás kőzetrétegeibe, vadregényes tájat hozva létre. A völgyet a sűrű vegyes erdők, a meredek sziklafalak és a keskeny réti szakaszok állandó váltakozása jellemzi. Elszigeteltségének köszönhetően a Wark-völgy ideális élőhelyet biztosít az olyan félénk állatfajok számára, mint a fekete gólya és a vadmacska. A túrázók számára a völgy igazi titkos tipp, mivel az ösvények gyakran keskenyek és természetközeliek, lehetővé téve a vadon intenzív megélését. A Warkba torkolló számos apró mellékpatak további nedves biotópokat hoz létre, speciális moha- és páfrányflórával. A Wark-völgy egy olyan hely, ahol az ország egyik legmagányosabb régiójában közvetlen közelről figyelhető meg az erózió ereje és a természet zavartalan fejlődése.",
+      ro: "Valea Wark, situată în inima regiunii Ösling, este una dintre cele mai originale și mai puțin dezvoltate văi fluviale din Luxemburg. Pârâul Wark s-a adâncit în straturile de ardezie ale Ardenilor, creând un peisaj de o frumusețe sălbatică. Valea este caracterizată de o alternanță constantă între păduri mixte dense, pereți stâncoși abrupți și lunci înguste. Datorită izolării sale, valea Wark oferă un habitat ideal pentru specii de animale retrase, precum barza neagră și pisica sălbatică. Pentru drumeți, valea este o destinație specială, deoarece potecile sunt adesea înguste și naturale, permițând o experiență intensă a sălbăticiei. Numeroasele pârâuri secundare care se varsă în Wark creează biotopuri umede suplimentare cu o floră specializată de mușchi și ferigi. Valea Wark este un loc unde forța eroziunii și dezvoltarea neperturbată a naturii pot fi observate îndeaproape în una dintre cele mai solitare regiuni ale țării.",
+      en: "The Wark valley in the heart of the Oesling is one of Luxembourg's most pristine and least developed river valleys. The Wark stream has carved deeply into the slate layers of the Ardennes, creating a landscape of rugged beauty. The valley features a constant interplay of dense mixed forests, steep rock faces, and narrow meadow floors. Due to its seclusion, the Wark valley provides an ideal sanctuary for shy species such as the black stork and the European wildcat. For hikers, the valley is a hidden gem, as the trails are often narrow and natural, offering an immersive experience of the wilderness. Numerous small tributaries flowing into the Wark create additional wetland biotopes with specialized moss and fern flora. The Wark valley is a place where the power of erosion and the undisturbed development of nature can be observed up close in one of the country's most solitary regions."
+    },
+    factsAdvanced: {
+      de: ["Lage: Zentrale Ardennen (Ösling)", "Charakter: Tief eingeschnittenes Schiefertal", "Fauna: Schwarzstorch, Wildkatze, Eisvogel", "Flora: Schluchtwälder und bachbegleitende Erlenwälder", "Geologie: Devonischer Schiefer", "Nutzung: Extensive Forstwirtschaft und sanfter Tourismus", "Besonderheit: Hoher Grad an Unberührtheit", "Wanderwege: Teilweise weglos oder auf schmalen Pfaden"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-mess-valley-nature-v2",
@@ -1593,6 +1939,19 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Floodplain of the Mess", "South Luxembourg (Gutland)", "Habitat for lapwings", "Open agricultural landscape"],
     },
     imageHint: "broad agricultural valley with a small stream luxembourg",
+    descriptionAdvanced: {
+      de: "Das Messtal im Süden Luxemburgs ist eine bedeutende ökologische Achse in der ansonsten intensiv genutzten Agrarlandschaft des Gutlands. Die Mess schlängelt sich hier durch eine sanfte Hügellandschaft, die von weiten Wiesen und kleinen Waldstücken geprägt ist. Das Tal spielt eine entscheidende Rolle für die lokale Biodiversität, da es als Korridor für wandernde Tierarten zwischen verschiedenen Biotopen dient. In den letzten Jahren wurden umfangreiche Renaturierungsprojekte im Messtal durchgeführt, um den Bach aus seinem künstlichen Bett zu befreien und die natürliche Auenlandschaft wiederherzustellen. Diese Maßnahmen haben dazu geführt, dass sich seltene Vogelarten wie der Neuntöter und verschiedene Libellenarten wieder angesiedelt haben. Für Spaziergänger bietet das Messtal eine entspannte Atmosphäre mit gut ausgebauten Wegen, die oft an historischen Bauernhöfen vorbeiführen. Es ist ein Beispiel für die erfolgreiche Integration von Naturschutz und moderner Landwirtschaft in einer gewachsenen Kulturlandschaft.",
+      hu: "A Luxemburg déli részén található Mess-völgy fontos ökológiai tengely a Gutland régió egyébként intenzíven művelt mezőgazdasági tájában. A Mess-patak itt szelíd dombok között kanyarog, amelyeket tágas rétek és kisebb erdőfoltok jellemeznek. A völgy döntő szerepet játszik a helyi biodiverzitásban, mivel folyosóként szolgál a különböző élőhelyek között vándorló állatfajok számára. Az elmúlt években kiterjedt revitalizációs projekteket hajtottak végre a Mess-völgyben, hogy kiszabadítsák a patakot mesterséges medréből és visszaállítsák a természetes ártéri tájat. Ezek az intézkedések oda vezettek, hogy olyan ritka madárfajok, mint a tövisszúró gébics, valamint különböző szitakötőfajok újra megtelepedtek. A sétálók számára a Mess-völgy pihentető légkört kínál jól kiépített utakkal, amelyek gyakran történelmi farmok mellett vezetnek el. Jó példa ez a természetvédelem és a modern mezőgazdaság sikeres integrációjára egy fejlődő kultúrtájban.",
+      ro: "Valea Mess din sudul Luxemburgului reprezintă o axă ecologică importantă în peisajul agricol altfel intens exploatat al regiunii Gutland. Pârâul Mess șerpuiește aici printr-un relief domol, caracterizat de pajiști întinse și mici pâlcuri de pădure. Valea joacă un rol crucial pentru biodiversitatea locală, servind drept coridor pentru speciile de animale care migrează între diverse biotopuri. În ultimii ani, în valea Mess au fost realizate proiecte ample de renaturare pentru a elibera pârâul din albia sa artificială și pentru a restabili peisajul natural de luncă. Aceste măsuri au dus la recolonizarea zonei de către specii de păsări rare, precum sfrânciocul roșiatic, și diverse specii de libelule. Pentru plimbări, valea Mess oferă o atmosferă relaxantă, cu drumuri bine întreținute care trec adesea pe lângă ferme istorice. Este un exemplu de integrare reușită a protecției naturii și a agriculturii moderne într-un peisaj cultural tradițional.",
+      en: "The Mess valley in southern Luxembourg serves as a vital ecological corridor within the otherwise intensively farmed Gutland region. Here, the Mess stream meanders through a landscape of rolling hills, characterized by broad meadows and small woodland patches. The valley is crucial for local biodiversity, acting as a passage for wildlife moving between different habitats. Extensive renaturation projects have been undertaken in recent years to release the stream from its artificial channel and restore its natural floodplain. These efforts have encouraged the return of rare bird species like the red-backed shrike and various dragonflies. For walkers, the Mess valley offers a relaxed environment with well-maintained paths that frequently pass by historic farmsteads. It stands as an example of the successful integration of nature conservation and modern agriculture within a traditional cultural landscape."
+    },
+    factsAdvanced: {
+      de: ["Lage: Südluxemburg (Gutland)", "Charakter: Sanftes Wiesental mit Agrarprägung", "Ökologie: Wichtiger Biotopverbund-Korridor", "Maßnahmen: Umfangreiche Bach-Renaturierung", "Fauna: Neuntöter, Goldammer, verschiedene Libellen", "Flora: Feuchtwiesen und Uferrandstreifen", "Nutzung: Landwirtschaft und Naherholung", "Besonderheit: Integration von Naturschutzprojekten"],
+      hu: [],
+      ro: [],
+      en: [],
+//       en: []
+    }
   },
   {
     id: "luxembourg-tretterbaach-valley-nature-v2",
@@ -1613,6 +1972,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Pristine Ardennes valley", "Spruce and fir forests", "Kingfisher territory", "Solitude and silence"],
     },
     imageHint: "dense spruce forest in a narrow northern valley luxembourg",
+    descriptionAdvanced: {
+      de: "Das Tretterbaachtal im Norden Luxemburgs gilt als eines der wildesten und unberührtesten Täler des Landes. Fernab jeglicher Siedlungen hat sich hier eine Natur erhalten, die für die Ardennen des 19. Jahrhunderts typisch war. Das Tal ist geprägt durch den namensgebenden Tretterbaach, der durch sumpfige Auen, dichte Fichtenwälder und natürliche Erlenbruchwälder fließt. Das Gebiet ist ein Refugium für den Schwarzstorch, der hier die nötige Ruhe für die Aufzucht seiner Jungen findet. Geologisch ist das Tal durch den harten Ösling-Schiefer geprägt, der an den Hängen oft in Form schroffer Felsen zutage tritt. Die Kühle und Feuchtigkeit des Tals begünstigen eine reiche Moos- und Flechtenflora, die den Felsen und Bäumen ein fast märchenhaftes Aussehen verleiht. Durch den Verzicht auf intensive Forstwirtschaft kann sich im Tretterbaachtal wieder echte Wildnis entwickeln, was es zu einem wertvollen Forschungsobjekt für Ökologen macht.",
+      hu: "Luxemburg északi részén a Tretterbaach-völgy az ország egyik legvadabb és legérintetlenebb völgyének számít. Minden településtől távol itt olyan természet maradt fenn, amely a 19. századi Ardennekre volt jellemző. A völgyet a névadó Tretterbaach-patak határozza meg, amely mocsaras ártereken, sűrű fenyveseken és természetes égerligeteken folyik keresztül. A terület a fekete gólya menedékhelye, amely itt megtalálja a fiókái felneveléséhez szükséges nyugalmat. Geológiailag a völgyet a kemény Ösling-pala jellemzi, amely a lejtőkön gyakran meredek sziklák formájában bukkan elő. A völgy hűvössége és nedvessége kedvez a gazdag moha- és zuzmóflórának, amely szinte mesebeli megjelenést kölcsönöz a szikláknak és fáknak. Az intenzív erdőgazdálkodás mellőzése révén a Tretterbaach-völgyben újra valódi vadon alakulhat ki, ami az ökológusok számára értékes kutatási objektummá teszi a területet.",
+      ro: "Valea Tretterbaach din nordul Luxemburgului este considerată una dintre cele mai sălbatice și mai virgine văi din țară. Departe de orice așezare umană, aici s-a păstrat o natură tipică pentru Ardenii secolului al XIX-lea. Valea este definită de pârâul cu același nume, care curge prin lunci mlăștinoase, păduri dese de molid și zăvoaie naturale de arini. Zona este un refugiu pentru barza neagră, care găsește aici liniștea necesară pentru creșterea puii. Din punct de vedere geologic, valea este marcată de ardezia dură de Ösling, care apare adesea sub formă de stânci abrupte pe versanți. Răcoarea și umiditatea văii favorizează o floră bogată în mușchi și licheni, care oferă stâncilor și copacilor un aspect aproape feeric. Prin renunțarea la silvicultura intensivă, în valea Tretterbaach se poate dezvolta din nou o sălbăticie reală, ceea ce o face un obiect de cercetare valoros pentru ecologiști.",
+      en: "The Tretterbaach valley in northern Luxembourg is regarded as one of the wildest and most pristine valleys in the country. Far from any settlements, nature has been preserved here in a state typical of the 19th-century Ardennes. The valley is shaped by the eponymous Tretterbaach stream, which flows through marshy floodplains, dense spruce forests, and natural alder carrs. The area is a sanctuary for the black stork, which finds the necessary solitude here to raise its young. Geologically, the valley is characterized by hard Oesling slate, which frequently emerges as rugged outcrops on the slopes. The valley's coolness and humidity foster a rich flora of mosses and lichens, giving the rocks and trees an almost fairytale-like appearance. By eschewing intensive forestry, true wilderness is allowed to re-emerge in the Tretterbaach valley, making it a valuable subject for ecological research."
+    },
+    factsAdvanced: {
+      de: ["Lage: Hoher Norden (Ösling)", "Charakter: Wildes, abgeschiedenes Kerbtal", "Ökologie: Rückzugsort für den Schwarzstorch", "Geologie: Ösling-Schiefer-Formationen", "Flora: Moore, Erlenbrüche und seltene Moose", "Fauna: Wildkatze und diverse Amphibien", "Besonderheit: Keine menschlichen Siedlungen im Tal", "Status: Strenges Naturschutzgebiet"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-blees-valley-nature-v2",
@@ -1633,6 +2004,18 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Side valley of the Sûre", "Steep forested slopes", "Kingfisher habitat", "Hiking area in Oesling"],
     },
     imageHint: "forested gorge with a rocky stream blees luxembourg",
+    descriptionAdvanced: {
+      de: "Das Bleestal im Nordosten Luxemburgs ist bekannt für seine wildromantischen Flussabschnitte und seine hohe biologische Diversität. Die Blees fließt hier durch ein tief eingeschnittenes Tal, das von steilen, oft schroffen Schieferfelsen flankiert wird. Die Kombination aus schneller Fließgeschwindigkeit und kühlem Wasser macht den Bach zu einem idealen Lebensraum für die Bachforelle und die Wasseramsel. Das Tal ist weitgehend bewaldet, wobei urwüchsige Laubmischwälder dominieren, die im Herbst ein prächtiges Farbenspiel bieten. Zahlreiche kleine Quellen und Sickerstellen an den Hängen schaffen feuchte Mikrobiotope für seltene Salamanderarten. Für Wanderer bietet das Bleestal eine ruhige Alternative zu den bekannteren Tälern der Region, mit Pfaden, die oft direkt am Wasser verlaufen. Die geologische Struktur des Tals zeugt von der Kraft des Wassers, das sich über Millionen von Jahren seinen Weg durch das harte Gestein der Ardennen gebahnt hat.",
+      hu: "Az északkelet-luxemburgi Blees-völgy vadregényes folyószakaszairól és magas biológiai sokféleségéről ismert. A Blees egy mélyen bevágott völgyön folyik keresztül, amelyet meredek, gyakran éles palasziklák szegélyeznek. A gyors folyás és a hűvös víz kombinációja ideális élőhelyet teremt a sebes pisztráng és a vízirigó számára. A völgy nagyrészt erdős, ahol az őshonos lombhullató vegyes erdők dominálnak, amelyek ősszel pompás színeket öltenek. A lejtőkön található számos apró forrás és szivárgás nedves mikrobiotópokat hoz létre ritka szalamandrafajok számára. A túrázók számára a Blees-völgy csendes alternatívát kínál a régió ismertebb völgyeivel szemben, olyan ösvényekkel, amelyek gyakran közvetlenül a víz mellett haladnak. A völgy geológiai szerkezete a víz erejéről tanúskodik, amely évmilliók alatt vágott utat magának az Ardennek kemény kőzetein keresztül.",
+      ro: "Valea Blees din nord-estul Luxemburgului este cunoscută pentru segmentele sale fluviale sălbatice și romantice și pentru diversitatea sa biologică ridicată. Râul Blees curge aici printr-o vale adâncă, flancată de stânci de ardezie abrupte și adesea ascuțite. Combinația dintre viteza mare a curentului și apa răcoroasă face din acest pârâu un habitat ideal pentru păstrăvul de munte și mierla de apă. Valea este în mare parte împădurită, predominând pădurile mixte de foioase care oferă toamna un spectacol cromatic magnific. Numeroase izvoare mici și zone de infiltrație de pe versanți creează microbiotopuri umede pentru specii rare de salamandre. Pentru drumeți, valea Blees oferă o alternativă liniștită la văile mai cunoscute din regiune, cu poteci care șerpuiesc adesea chiar pe malul apei. Structura geologică a văii mărturisește forța apei care și-a croit drum prin roca dură a Ardenilor de-a lungul a milioane de ani.",
+      en: "The Blees valley in northeastern Luxembourg is renowned for its wildly romantic river sections and high biological diversity. The Blees stream flows here through a deeply incised valley flanked by steep, often jagged slate cliffs. The combination of fast-flowing, cool water makes the stream an ideal habitat for brown trout and the white-throated dipper. The valley is predominantly forested with native deciduous mixed woodlands that put on a stunning display of color in autumn. Numerous small springs and seepage points on the slopes create moist microbiotopes for rare salamander species. For hikers, the Blees valley offers a tranquil alternative to the region's more famous valleys, with paths often running directly alongside the water. The valley's geological structure stands as a testament to the power of water, which has carved its way through the hard rock of the Ardennes over millions of years."
+    },
+    factsAdvanced: {
+      de: ["Lage: Nordost-Luxemburg (Ösling)", "Charakter: Enges, waldreiches Flusstal", "Gewässer: Blees (Nebenfluss der Sauer)", "Fauna: Bachforelle, Wasseramsel, Feuersalamander", "Geologie: Ardenner Schiefer (Unterdevon)", "Vegetation: Laubmischwald mit Eichen und Buchen", "Nutzung: Naturnahe Forstwirtschaft und Wandern", "Besonderheit: Schnelle Fließgewässerdynamik"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-gander-valley-nature-v2",
@@ -1653,6 +2036,19 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["Border landscape", "Spa park surroundings", "Floodplain biotopes", "Gentle hills"],
     },
     imageHint: "gentle green valley with a stream gander luxembourg",
+    descriptionAdvanced: {
+      de: "Das Gandertal im Südosten Luxemburgs ist eine grenzüberschreitende Naturoase, die durch ihre sanfte Topographie und ihre hohe ökologische Vernetzung besticht. Die Gander bildet hier auf weiten Strecken die Grenze zu Frankreich und schafft eine gemeinsame Kultur- und Naturlandschaft. Das Tal ist geprägt von weiten Auenwiesen, die im Frühjahr oft überschwemmt werden und so wichtige Laichplätze für Amphibien bieten. Die angrenzenden Hügel sind oft mit Obstbäumen und Weinreben bewachsen, was dem Tal einen fast mediterranen Charme verleiht. In den letzten Jahren wurden zahlreiche Maßnahmen zur Verbesserung der Wasserqualität und zur Renaturierung der Uferbereiche umgesetzt. Das Gandertal dient als wichtiger Trittstein für wandernde Tierarten zwischen der Mosel und dem Landesinneren. Für Besucher bietet das flache Tal ideale Bedingungen für ausgedehnte Radtouren und Spaziergänge, wobei die Grenze zwischen den beiden Ländern oft nur durch den Flusslauf markiert wird.",
+      hu: "Délkelet-Luxemburgban a Gander-völgy egy határokon átnyúló természeti oázis, amely szelíd domborzatával és magas ökológiai hálózatával nyűgöz le. A Gander folyó itt hosszú szakaszokon képezi a határt Franciaországgal, közös kulturális és természeti tájat hozva létre. A völgyet tágas ártéri rétek jellemzik, amelyeket tavasszal gyakran elönt a víz, fontos ívóhelyet biztosítva a kétéltűeknek. A szomszédos dombokat gyakran gyümölcsfák és szőlőtőkék borítják, ami szinte mediterrán bájt kölcsönöz a völgynek. Az elmúlt években számos intézkedést hajtottak végre a vízminőség javítása és a part menti területek revitalizációja érdekében. A Gander-völgy fontos pihenőhelyként szolgál a Mosel és az ország belseje között vándorló állatfajok számára. A lapos völgy ideális feltételeket kínál a hosszú kerékpártúrákhoz és sétákhoz, ahol a két ország közötti határt gyakran csak a folyómeder jelzi.",
+      ro: "Valea Gander din sud-estul Luxemburgului este o oază naturală transfrontalieră care impresionează prin topografia sa blândă și interconectarea ecologică ridicată. Râul Gander formează aici pe porțiuni lungi granița cu Franța, creând un peisaj cultural și natural comun. Valea este caracterizată de lunci largi, care sunt adesea inundate primăvara, oferind astfel locuri importante de reproducere pentru amfibieni. Dealurile adiacente sunt adesea plantate cu pomi fructiferi și viță-de-vie, ceea ce conferă văii un farmec aproape mediteranean. În ultimii ani au fost implementate numeroase măsuri pentru îmbunătățirea calității apei și pentru renaturarea zonelor de mal. Valea Gander servește ca un punct de legătură important pentru speciile de animale care migrează între Mosela și interiorul țării. Pentru vizitatori, valea plată oferă condiții ideale pentru plimbări lungi și ture cu bicicleta, granița dintre cele două țări fiind adesea marcată doar de cursul râului.",
+      en: "The Gander valley in southeastern Luxembourg is a cross-border natural oasis, notable for its gentle topography and high ecological connectivity. Here, the Gander stream forms the border with France over long stretches, creating a shared cultural and natural landscape. The valley is defined by broad floodplain meadows that often flood in the spring, providing essential spawning grounds for amphibians. Neighboring hills are frequently adorned with orchards and vineyards, giving the valley an almost Mediterranean charm. In recent years, numerous initiatives have been implemented to improve water quality and renature the banks. The Gander valley serves as an important stepping stone for wildlife moving between the Moselle and the interior of the country. For visitors, the flat valley floor provides ideal conditions for extensive cycling trips and walks, where the border between the two countries is often only marked by the flowing water."
+    },
+    factsAdvanced: {
+      de: ["Lage: Südost-Luxemburg (Grenzregion zu Frankreich)", "Charakter: Sanftes Auental mit Agrar- und Weinbauprägung", "Ökologie: Grenzüberschreitender Biotopverbund", "Maßnahmen: Renaturierung der Flussauen", "Flora: Feuchtwiesen und Streuobstbestände", "Fauna: Wichtiger Lebensraum für Amphibien", "Nutzung: Naherholung (Wandern, Radfahren)", "Besonderheit: Grenze zu Frankreich verläuft mittig im Fluss"],
+      hu: [],
+      ro: [],
+      en: [],
+//       en: []
+    }
   },
   {
     id: "luxembourg-woltz-valley-nature-v2",
@@ -1673,5 +2069,17 @@ image: "/poi-images/luxembourg-mamer-valley-nature-v2.webp"
       en: ["High plateau valley", "Harsh Ardennes climate", "Habitat of Arnica montana", "Open landscape"],
     },
     imageHint: "open meadow valley in northern luxembourg highlands",
+    descriptionAdvanced: {
+      de: "Das Woltztal im hohen Norden Luxemburgs ist eine Landschaft von beeindruckender Weite und rauer Ardenner Schönheit. Der Bach Woltz, der den Oberlauf der Clerve bildet, hat hier ein breites Hochtal geschaffen, das von ausgedehnten Feuchtwiesen und kargen Plateaus gesäumt wird. Das Tal ist bekannt für sein kühleres Klima, das eine spezialisierte Flora begünstigt, darunter das seltene Sumpf-Blutauge und die Arnika. Die Woltz schlängelt sich in weiten Bögen durch das Tal, wobei die Uferbereiche wichtige Brutgebiete für Wiesenbrüter und andere bedrohte Vogelarten darstellen. Wanderer schätzen das Woltztal für seine Ruhe und die weiten Sichtachsen, die typisch für das nördliche Ösling sind. Geologisch gesehen ist das Tal durch den harten Tonschiefer des Devons geprägt, der an den Rändern des Plateaus oft schroffe Kanten bildet. Das Woltztal ist ein bedeutender ökologischer Baustein im Naturpark Our und steht für den Erhalt der traditionellen Ardenner Mittelgebirgslandschaft.",
+      hu: "A Luxemburg legészakibb részén található Woltz-völgy lenyűgöző tágasságú és zord ardenneki szépségű táj. A Woltz-patak, amely a Clerve felső szakaszát alkotja, egy tágas fennsíki völgyet hozott létre, amelyet kiterjedt nedves rétek és kopár platók szegélyeznek. A völgy híres hűvösebb éghajlatáról, amely kedvez a speciális flórának, többek között a ritka mocsári pimpónak és a hegyi árnikának. A Woltz széles kanyarulatokkal halad át a völgyön, a part menti területek pedig fontos fészkelőhelyei a réti madaraknak és más veszélyeztetett fajoknak. A túrázók az északi Ösling régióra jellemző nyugalma és tágas kilátásai miatt kedvelik a Woltz-völgyet. Geológiailag a völgyet a devon időszaki kemény agyagpala határozza meg, amely a fennsík szélein gyakran meredek peremeket alkot. A Woltz-völgy az Our Natúrpark fontos ökológiai eleme, és az Ardennek hagyományos középhegységi tájának megőrzését szimbolizálja.",
+      ro: "Valea Woltz, situată în nordul extrem al Luxemburgului, este un peisaj de o vastitate impresionantă și o frumusețe aspră, specifică Ardenilor. Pârâul Woltz, care constituie cursul superior al râului Clerve, a modelat aici o vale largă de altitudine, mărginită de pajiști umede extinse și platouri aride. Valea este cunoscută pentru climatul său mai rece, care favorizează o floră specializată, inclusiv rarele specii de șapte-degete și arnica montană. Woltz șerpuiește în curbe largi prin vale, malurile sale fiind locuri de cuibărit esențiale pentru păsările de pajiște și alte specii periclitate. Drumeții apreciază valea Woltz pentru liniștea sa și pentru perspectivele largi, tipice regiunii Ösling de nord. Din punct de vedere geologic, valea este marcată de ardezia argiloasă dură din perioada devoniană, care formează adesea margini abrupte la extremitățile platoului. Valea Woltz reprezintă un element ecologic major în Parcul Natural Our și simbolizează conservarea peisajului tradițional montan din Ardeni.",
+      en: "The Woltz valley in the far north of Luxembourg is a landscape of impressive expanse and rugged Ardennes beauty. The Woltz stream, forming the upper reach of the Clerve, has created a broad high valley here, lined with extensive wet meadows and sparse plateaus. The valley is known for its cooler climate, which fosters a specialized flora including the rare marsh cinquefoil and Arnica montana. The Woltz meanders in wide loops through the valley floor, with its banks serving as crucial nesting grounds for meadow birds and other threatened avian species. Hikers value the Woltz valley for its tranquility and the sweeping sightlines typical of the northern Oesling region. Geologically, the valley is shaped by hard Devonian clay slate, which often forms rugged edges at the plateau's perimeter. The Woltz valley is a significant ecological component of the Our Nature Park, standing as a testament to the preservation of the traditional Ardennes highland landscape."
+    },
+    factsAdvanced: {
+      de: ["Lage: Hoher Norden (Ösling), Naturpark Our", "Charakter: Breites Hochtal mit Feuchtwiesen", "Gewässer: Woltz (Oberlauf der Clerve)", "Flora: Arnika und Sumpf-Blutauge", "Fauna: Wichtige Brutgebiete für Wiesenbrüter", "Geologie: Devonischer Tonschiefer", "Besonderheit: Kühles Mikroklon im hohen Norden", "Wanderwege: Grenzüberschreitende Touren nach Belgien"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   }
 ];

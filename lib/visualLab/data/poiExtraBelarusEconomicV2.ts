@@ -5,9 +5,8 @@ export const belarusEconomicV2: POI[] = [
     id: "belarus-minsk-tractor-works-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Minsker Traktorenwerk (MTZ)", hu: "Minszki Traktorgyár (MTZ)", ro: "Uzina de Tractoare din Minsk (MTZ)", en: "Minsk Tractor Works (MTZ)",
-image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"
-},
+    name: { de: "Minsker Traktorenwerk (MTZ)", hu: "Minszki Traktorgyár (MTZ)", ro: "Uzina de Tractoare din Minsk (MTZ)", en: "Minsk Tractor Works (MTZ)"},
+    image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp",
     coords: [27.6253, 53.8931],
     coordinates: { lat: 53.8931, lng: 27.6253 },
     description: {
@@ -39,9 +38,8 @@ image: "/poi-images/belarus-minsk-tractor-works-economic-v2.webp"
     id: "belarus-belaz-zhodino-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "BelAZ-Werk Shodsina", hu: "BelAZ-gyár, Zsogyino", ro: "Uzina BelAZ din Jodino", en: "BelAZ Plant Zhodino",
-image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"
-},
+    name: { de: "BelAZ-Werk Shodsina", hu: "BelAZ-gyár, Zsogyino", ro: "Uzina BelAZ din Jodino", en: "BelAZ Plant Zhodino"},
+    image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp",
     coords: [28.312, 54.095],
     coordinates: { lat: 54.095, lng: 28.312 },
     description: {
@@ -73,9 +71,8 @@ image: "/poi-images/belarus-belaz-zhodino-economic-v2.webp"
     id: "belarus-maz-minsk-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Minsker Automobilwerk (MAZ)", hu: "Minszki Autógyár (MAZ)", ro: "Uzina de Automobile din Minsk (MAZ)", en: "Minsk Automobile Plant (MAZ)",
-image: "/poi-images/belarus-maz-minsk-economic-v2.webp"
-},
+    name: { de: "Minsker Automobilwerk (MAZ)", hu: "Minszki Autógyár (MAZ)", ro: "Uzina de Automobile din Minsk (MAZ)", en: "Minsk Automobile Plant (MAZ)"},
+    image: "/poi-images/belarus-maz-minsk-economic-v2.webp",
     coords: [27.6534, 53.8619],
     coordinates: { lat: 53.8619, lng: 27.6534 },
     description: {
@@ -108,9 +105,8 @@ image: "/poi-images/belarus-maz-minsk-economic-v2.webp"
     id: "belarus-belaruskali-soligorsk-economic-v2",
     parent: "BY",
     type: "mine",
-    name: { de: "Belaruskali Salihorsk", hu: "Belaruskali, Szoligorszk", ro: "Belaruskali Soligorsk", en: "Belaruskali Soligorsk",
-image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"
-},
+    name: { de: "Belaruskali Salihorsk", hu: "Belaruskali, Szoligorszk", ro: "Belaruskali Soligorsk", en: "Belaruskali Soligorsk"},
+    image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp",
     coords: [27.5414, 52.7869],
     coordinates: { lat: 52.7869, lng: 27.5414 },
     description: {
@@ -142,9 +138,8 @@ image: "/poi-images/belarus-belaruskali-soligorsk-economic-v2.webp"
     id: "belarus-naftan-oil-refinery-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Naftan Ölraffinerie", hu: "Naftan Olajfinomító", ro: "Rafinăria de Petrol Naftan", en: "Naftan Oil Refinery",
-image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Naftan Ölraffinerie", hu: "Naftan Olajfinomító", ro: "Rafinăria de Petrol Naftan", en: "Naftan Oil Refinery"},
+    image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp",
     coords: [28.52, 55.5312],
     coordinates: { lat: 55.5312, lng: 28.52 },
     description: {
@@ -177,9 +172,8 @@ image: "/poi-images/belarus-naftan-oil-refinery-economic-v2.webp"
     id: "belarus-mozyr-refinery-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Ölraffinerie Mosyr", hu: "Maziri Olajfinomító", ro: "Rafinăria de Petrol Mozîr", en: "Mozyr Oil Refinery",
-image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"
-},
+    name: { de: "Ölraffinerie Mosyr", hu: "Maziri Olajfinomító", ro: "Rafinăria de Petrol Mozîr", en: "Mozyr Oil Refinery"},
+    image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp",
     coords: [29.231, 52.046],
     coordinates: { lat: 52.046, lng: 29.231 },
     description: {
@@ -211,9 +205,8 @@ image: "/poi-images/belarus-mozyr-refinery-economic-v2.webp"
     id: "belarus-grodno-azot-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Grodno Azot", hu: "Grodno Azot", ro: "Grodno Azot", en: "Grodno Azot",
-image: "/poi-images/belarus-grodno-azot-economic-v2.webp"
-},
+    name: { de: "Grodno Azot", hu: "Grodno Azot", ro: "Grodno Azot", en: "Grodno Azot"},
+    image: "/poi-images/belarus-grodno-azot-economic-v2.webp",
     coords: [23.9, 53.67],
     coordinates: { lat: 53.67, lng: 23.9 },
     description: {
@@ -245,9 +238,8 @@ image: "/poi-images/belarus-grodno-azot-economic-v2.webp"
     id: "belarus-bmz-zhlobin-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Belarussisches Stahlwerk (BMZ)", hu: "Fehérorosz Acélmű (BMZ)", ro: "Combinatul Siderurgic Belarus (BMZ)", en: "Byelorussian Steel Works (BMZ)",
-image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"
-},
+    name: { de: "Belarussisches Stahlwerk (BMZ)", hu: "Fehérorosz Acélmű (BMZ)", ro: "Combinatul Siderurgic Belarus (BMZ)", en: "Byelorussian Steel Works (BMZ)"},
+    image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp",
     coords: [30.01, 52.88],
     coordinates: { lat: 52.88, lng: 30.01 },
     description: {
@@ -279,9 +271,8 @@ image: "/poi-images/belarus-bmz-zhlobin-economic-v2.webp"
     id: "belarus-gomselmash-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Gomselmash", hu: "Gomselmash", ro: "Gomselmash", en: "Gomselmash",
-image: "/poi-images/belarus-gomselmash-economic-v2.webp"
-},
+    name: { de: "Gomselmash", hu: "Gomselmash", ro: "Gomselmash", en: "Gomselmash"},
+    image: "/poi-images/belarus-gomselmash-economic-v2.webp",
     coords: [30.95, 52.45],
     coordinates: { lat: 52.45, lng: 30.95 },
     description: {
@@ -313,9 +304,8 @@ image: "/poi-images/belarus-gomselmash-economic-v2.webp"
     id: "belarus-belshina-babruysk-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Belshina Babrujsk", hu: "Belshina, Babrujszk", ro: "Belshina Babruisk", en: "Belshina Babruysk",
-image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"
-},
+    name: { de: "Belshina Babrujsk", hu: "Belshina, Babrujszk", ro: "Belshina Babruisk", en: "Belshina Babruysk"},
+    image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp",
     coords: [29.25, 53.18],
     coordinates: { lat: 53.18, lng: 29.25 },
     description: {
@@ -347,9 +337,8 @@ image: "/poi-images/belarus-belshina-babruysk-economic-v2.webp"
     id: "belarus-mogilevkhimvolokno-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Mogilevkhimvolokno", hu: "Mogilevkhimvolokno", ro: "Mogilevkhimvolokno", en: "Mogilevkhimvolokno",
-image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"
-},
+    name: { de: "Mogilevkhimvolokno", hu: "Mogilevkhimvolokno", ro: "Mogilevkhimvolokno", en: "Mogilevkhimvolokno"},
+    image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp",
     coords: [30.33, 53.85],
     coordinates: { lat: 53.85, lng: 30.33 },
     description: {
@@ -381,9 +370,8 @@ image: "/poi-images/belarus-mogilevkhimvolokno-economic-v2.webp"
     id: "belarus-great-stone-industrial-park-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Industriepark Great Stone", hu: "Great Stone Ipari Park", ro: "Parcul Industrial Great Stone", en: "Great Stone Industrial Park",
-image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"
-},
+    name: { de: "Industriepark Great Stone", hu: "Great Stone Ipari Park", ro: "Parcul Industrial Great Stone", en: "Great Stone Industrial Park"},
+    image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp",
     coords: [28.05, 53.9],
     coordinates: { lat: 53.9, lng: 28.05 },
     description: {
@@ -415,9 +403,8 @@ image: "/poi-images/belarus-great-stone-industrial-park-economic-v2.webp"
     id: "belarus-nuclear-power-plant-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Kernkraftwerk Belarus", hu: "Fehérorosz Atomerőmű", ro: "Centrala Nucleară din Belarus", en: "Belarusian Nuclear Power Plant",
-image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"
-},
+    name: { de: "Kernkraftwerk Belarus", hu: "Fehérorosz Atomerőmű", ro: "Centrala Nucleară din Belarus", en: "Belarusian Nuclear Power Plant"},
+    image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp",
     coords: [26.11, 54.75],
     coordinates: { lat: 54.75, lng: 26.11 },
     description: {
@@ -449,9 +436,8 @@ image: "/poi-images/belarus-nuclear-power-plant-economic-v2.webp"
     id: "belarus-orsha-linen-mill-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Leinenkombinat Orscha", hu: "Orsai Lenkombinát", ro: "Combinatul de In din Orșa", en: "Orsha Linen Mill",
-image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"
-},
+    name: { de: "Leinenkombinat Orscha", hu: "Orsai Lenkombinát", ro: "Combinatul de In din Orșa", en: "Orsha Linen Mill"},
+    image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp",
     coords: [30.43, 54.51],
     coordinates: { lat: 54.51, lng: 30.43 },
     description: {
@@ -483,9 +469,8 @@ image: "/poi-images/belarus-orsha-linen-mill-economic-v2.webp"
     id: "belarus-kommunarka-confectionery-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Süßwarenfabrik Kommunarka", hu: "Kommunarka Édességgyár", ro: "Fabrica de Dulciuri Kommunarka", en: "Kommunarka Confectionery",
-image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"
-},
+    name: { de: "Süßwarenfabrik Kommunarka", hu: "Kommunarka Édességgyár", ro: "Fabrica de Dulciuri Kommunarka", en: "Kommunarka Confectionery"},
+    image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp",
     coords: [27.58, 53.88],
     coordinates: { lat: 53.88, lng: 27.58 },
     description: {
@@ -517,9 +502,8 @@ image: "/poi-images/belarus-kommunarka-confectionery-economic-v2.webp"
     id: "belarus-spartak-confectionery-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Süßwarenfabrik Spartak", hu: "Spartak Édességgyár", ro: "Fabrica de Dulciuri Spartak", en: "Spartak Confectionery",
-image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"
-},
+    name: { de: "Süßwarenfabrik Spartak", hu: "Spartak Édességgyár", ro: "Fabrica de Dulciuri Spartak", en: "Spartak Confectionery"},
+    image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp",
     coords: [30.98, 52.41],
     coordinates: { lat: 52.41, lng: 30.98 },
     description: {
@@ -551,9 +535,8 @@ image: "/poi-images/belarus-spartak-confectionery-economic-v2.webp"
     id: "belarus-lukoml-power-station-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Wärmekraftwerk Lukoml", hu: "Lukomli Hőerőmű", ro: "Centrala Termoelectrică Lukoml", en: "Lukoml Power Station",
-image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"
-},
+    name: { de: "Wärmekraftwerk Lukoml", hu: "Lukomli Hőerőmű", ro: "Centrala Termoelectrică Lukoml", en: "Lukoml Power Station"},
+    image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp",
     coords: [29.13, 54.66],
     coordinates: { lat: 54.66, lng: 29.13 },
     description: {
@@ -585,9 +568,8 @@ image: "/poi-images/belarus-lukoml-power-station-economic-v2.webp"
     id: "belarus-granit-mikashevichi-economic-v2",
     parent: "BY",
     type: "mine",
-    name: { de: "Granit Mikaschewitschi", hu: "Granit, Mikasevicsi", ro: "Granit Mikașevici", en: "Granit Mikashevichi",
-image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"
-},
+    name: { de: "Granit Mikaschewitschi", hu: "Granit, Mikasevicsi", ro: "Granit Mikașevici", en: "Granit Mikashevichi"},
+    image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp",
     coords: [27.46, 52.22],
     coordinates: { lat: 52.22, lng: 27.46 },
     description: {
@@ -619,9 +601,8 @@ image: "/poi-images/belarus-granit-mikashevichi-economic-v2.webp"
     id: "belarus-integral-minsk-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Integral Minsk", hu: "Integral Minszk", ro: "Integral Minsk", en: "Integral Minsk",
-image: "/poi-images/belarus-integral-minsk-economic-v2.webp"
-},
+    name: { de: "Integral Minsk", hu: "Integral Minszk", ro: "Integral Minsk", en: "Integral Minsk"},
+    image: "/poi-images/belarus-integral-minsk-economic-v2.webp",
     coords: [27.51, 53.85],
     coordinates: { lat: 53.85, lng: 27.51 },
     description: {
@@ -653,9 +634,8 @@ image: "/poi-images/belarus-integral-minsk-economic-v2.webp"
     id: "belarus-belgee-factory-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "BelGee-Werk", hu: "BelGee-gyár", ro: "Uzina BelGee", en: "BelGee Plant",
-image: "/poi-images/belarus-belgee-factory-economic-v2.webp"
-},
+    name: { de: "BelGee-Werk", hu: "BelGee-gyár", ro: "Uzina BelGee", en: "BelGee Plant"},
+    image: "/poi-images/belarus-belgee-factory-economic-v2.webp",
     coords: [28.45, 54.18],
     coordinates: { lat: 54.18, lng: 28.45 },
     description: {
@@ -687,9 +667,8 @@ image: "/poi-images/belarus-belgee-factory-economic-v2.webp"
     id: "belarus-borisov-medical-preparations-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Arzneimittelwerk Baryssau", hu: "Bariszavi Gyógyszergyár", ro: "Fabrica de Preparate Medicale Borisov", en: "Borisov Plant of Medical Preparations",
-image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp"
-},
+    name: { de: "Arzneimittelwerk Baryssau", hu: "Bariszavi Gyógyszergyár", ro: "Fabrica de Preparate Medicale Borisov", en: "Borisov Plant of Medical Preparations"},
+    image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp",
     coords: [28.51, 54.21],
     coordinates: { lat: 54.21, lng: 28.51 },
     description: {
@@ -722,9 +701,8 @@ image: "/poi-images/belarus-borisov-medical-preparations-economic-v2.webp"
     id: "belarus-polotsk-steklovolokno-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Polozk-Steklowolokno", hu: "Polock-Sztekolovolokno", ro: "Polotsk-Steklovolokno", en: "Polotsk-Steklovolokno",
-image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"
-},
+    name: { de: "Polozk-Steklowolokno", hu: "Polock-Sztekolovolokno", ro: "Polotsk-Steklovolokno", en: "Polotsk-Steklovolokno"},
+    image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp",
     coords: [28.75, 55.48],
     coordinates: { lat: 55.48, lng: 28.75 },
     description: {
@@ -756,9 +734,8 @@ image: "/poi-images/belarus-polotsk-steklovolokno-economic-v2.webp"
     id: "belarus-milavitsa-minsk-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Milavitsa", hu: "Milavitsa", ro: "Milavitsa", en: "Milavitsa",
-image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp"
-},
+    name: { de: "Milavitsa", hu: "Milavitsa", ro: "Milavitsa", en: "Milavitsa"},
+    image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp",
     coords: [27.54, 53.91],
     coordinates: { lat: 53.91, lng: 27.54 },
     description: {
@@ -791,9 +768,8 @@ image: "/poi-images/belarus-milavitsa-minsk-economic-v2.webp"
     id: "belarus-atlant-minsk-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Atlant Minsk", hu: "Atlant Minszk", ro: "Atlant Minsk", en: "Atlant Minsk",
-image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"
-},
+    name: { de: "Atlant Minsk", hu: "Atlant Minszk", ro: "Atlant Minsk", en: "Atlant Minsk"},
+    image: "/poi-images/belarus-atlant-minsk-economic-v2.webp",
     coords: [27.52, 53.92],
     coordinates: { lat: 53.92, lng: 27.52 },
     description: {
@@ -825,9 +801,8 @@ image: "/poi-images/belarus-atlant-minsk-economic-v2.webp"
     id: "belarus-horizont-minsk-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Horizont Minsk", hu: "Horizont Minszk", ro: "Horizont Minsk", en: "Horizont Minsk",
-image: "/poi-images/belarus-horizont-minsk-economic-v2.webp"
-},
+    name: { de: "Horizont Minsk", hu: "Horizont Minszk", ro: "Horizont Minsk", en: "Horizont Minsk"},
+    image: "/poi-images/belarus-horizont-minsk-economic-v2.webp",
     coords: [27.57, 53.91],
     coordinates: { lat: 53.91, lng: 27.57 },
     description: {
@@ -860,9 +835,8 @@ image: "/poi-images/belarus-horizont-minsk-economic-v2.webp"
     id: "belarus-minsk-motor-plant-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Minsker Motorenwerk (MMZ)", hu: "Minszki Motorgyár (MMZ)", ro: "Uzina de Motoare din Minsk (MMZ)", en: "Minsk Motor Plant (MMZ)",
-image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"
-},
+    name: { de: "Minsker Motorenwerk (MMZ)", hu: "Minszki Motorgyár (MMZ)", ro: "Uzina de Motoare din Minsk (MMZ)", en: "Minsk Motor Plant (MMZ)"},
+    image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp",
     coords: [27.63, 53.9],
     coordinates: { lat: 53.9, lng: 27.63 },
     description: {
@@ -894,9 +868,8 @@ image: "/poi-images/belarus-minsk-motor-plant-economic-v2.webp"
     id: "belarus-lida-paint-plant-economic-v2",
     parent: "BY",
     type: "factory",
-    name: { de: "Lack- und Farbenwerk Lida", hu: "Lidai Festékgyár", ro: "Fabrica de Vopsele Lida", en: "Lida Paint Plant",
-image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"
-},
+    name: { de: "Lack- und Farbenwerk Lida", hu: "Lidai Festékgyár", ro: "Fabrica de Vopsele Lida", en: "Lida Paint Plant"},
+    image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp",
     coords: [25.29, 53.9],
     coordinates: { lat: 53.9, lng: 25.29 },
     description: {
@@ -928,9 +901,8 @@ image: "/poi-images/belarus-lida-paint-plant-economic-v2.webp"
     id: "belarus-berezovskaya-power-station-economic-v2",
     parent: "BY",
     type: "industry",
-    name: { de: "Kraftwerk Berjosowskaja", hu: "Bjerezovszkajai Erőmű", ro: "Centrala Electrică Berezovskaia", en: "Berezovskaya Power Station",
-image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Berjosowskaja", hu: "Bjerezovszkajai Erőmű", ro: "Centrala Electrică Berezovskaia", en: "Berezovskaya Power Station"},
+    image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp",
     coords: [25.0, 52.48],
     coordinates: { lat: 52.48, lng: 25.0 },
     description: {
@@ -962,9 +934,8 @@ image: "/poi-images/belarus-berezovskaya-power-station-economic-v2.webp"
     id: "belarus-brest-economic-zone-economic-v2",
     parent: "BY",
     type: "city",
-    name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone",
-image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Brest", hu: "Breszti Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Brest", en: "Brest Special Economic Zone"},
+    image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp",
     coords: [23.65, 52.13],
     coordinates: { lat: 52.13, lng: 23.65 },
     description: {
@@ -996,9 +967,8 @@ image: "/poi-images/belarus-brest-economic-zone-economic-v2.webp"
     id: "belarus-vitebsk-economic-zone-economic-v2",
     parent: "BY",
     type: "city",
-    name: { de: "Freie Wirtschaftszone Witebsk", hu: "Vityebszki Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Vitebsk", en: "Vitebsk Special Economic Zone",
-image: "/poi-images/belarus-vitebsk-economic-zone-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Witebsk", hu: "Vityebszki Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Vitebsk", en: "Vitebsk Special Economic Zone"},
+    image: "/poi-images/belarus-vitebsk-economic-zone-economic-v2.webp",
     coords: [30.25, 55.18],
     coordinates: { lat: 55.18, lng: 30.25 },
     description: {
@@ -1026,5 +996,70 @@ image: "/poi-images/belarus-vitebsk-economic-zone-economic-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "belarus-dobrush-paper-mill-economic-v2",
+    type: "factory",
+    parent: "BY",
+    name: { de: "Dobrush Papierfabrik", hu: "Dobrusi Papírgyár", ro: "Fabrica de hârtie din Dobruș", en: "Dobrush Paper Mill" },
+    coordinates: { lat: 52.3925, lng: 31.3128 },
+    description: {
+      de: "Die Dobrusch Papierfabrik ist eine der ältesten und bedeutendsten Papierproduktionsstätten in Belarus. Sie produziert eine breite Palette an Papier- und Kartonprodukten für den nationalen und internationalen Markt.",
+      hu: "A dobrusi papírgyár Fehéroroszország egyik legrégebbi és legjelentősebb papírgyártó üzeme. Széles választékban állít elő papír- és kartontermékeket a nemzeti és nemzetközi piacra.",
+      ro: "Fabrica de hârtie din Dobruș este una dintre cele mai vechi și importante unități de producție de hârtie din Belarus. Aceasta produce o gamă largă de produse din hârtie și carton pentru piața internă și internațională.",
+      en: "The Dobrush Paper Mill is one of the oldest and most significant paper production facilities in Belarus. It produces a wide range of paper and cardboard products for the domestic and international markets.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1870", "Produziert Spezialkarton", "Wichtiger regionaler Arbeitgeber", "Export in mehrere Länder"],
+      hu: ["1870-ben alapították", "Speciális kartont gyárt", "Fontos regionális munkáltató", "Számos országba exportál"],
+      ro: ["Fondată în 1870", "Produce carton specializat", "Angajator regional important", "Exportă în mai multe țări"],
+      en: ["Founded in 1870", "Produces specialized cardboard", "Significant regional employer", "Exports to multiple countries"],
+    },
+    imageHint: "industrial paper factory buildings Dobrush",
+    descriptionAdvanced: {
+      de: "Die Fabrik \"Geroj Truda\" in Dobrusch ist ein historisches Juwel der Industrie. Seit 1870 prägt sie die Region und stellt heute hochwertigen Karton für die globale Verpackungswelt her.",
+      hu: "A dobrusi papírgyár 1870-es alapítása óta meghatározó szereplő. Az üzem nemcsak hagyományairól híres, hanem a legmodernebb bevonatos kartonok előállításáról is Európában.",
+      ro: "Fondată în 1870, fabrica de hârtie din Dobruș este un reper industrial. Modernizarea recentă a permis producția de carton multistrat, esențial pentru ambalajele biodegradabile.",
+      en: "The Dobrush Paper Mill has been a leader in Eastern European paper production since 1870. It currently operates high-speed lines producing specialized cardboard for diverse industries.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1870 durch Fürst Paskewitsch", "Erste Industrie-Kraftstation von Belarus (1889)", "Über 1100 spezialisierte Mitarbeiter vor Ort", "Produktionskapazität von 200.000 Tonnen Karton", "Fokussierung auf dreischichtige Kartonagen", "Zertifizierung nach ISO 9001 und 14001"],
+      hu: ["Paszkevics herceg alapította 1870-ben", "1889-ben itt épült az első fehérorosz villanytelep", "Évi 200 ezer tonnás kartonpapír-kapacitás", "Dobrus városának legnagyobb foglalkoztatója", "Több mint 80 különböző papírfajtát állít elő", "Környezetbarát, újrahasznosított alapanyagok"],
+      ro: ["Înființată în 1870 de familia Paskevich", "Prima unitate cu iluminat electric din Belarus (1889)", "Capacitate instalată de 200.000 tone pe an", "Produce carton duplex și triplex de calitate", "Peste 20 de piețe de export în întreaga lume", "Sistem modern de epurare a apelor industriale"],
+      en: ["Founded in 1870 by Prince Paskevich", "Home to the first power plant in Belarus (1889)", "Annual output capacity of 200,000 tons of board", "Major employer with over 1,100 staff members", "Specializes in coated and uncoated cardboard", "Strategic supplier for the European pharma sector"],
+    },
+  },
+  {
+    id: "belarus-beryoza-silica-brick-economic-v2",
+    type: "factory",
+    parent: "BY",
+    name: { de: "Beryosa Silikatziegelwerk", hu: "Berjozai Szilikáttégla-gyár", ro: "Fabrica de cărămidă silico-calcaroasă din Beryoza", en: "Beryoza Silica Brick Plant" },
+    coordinates: { lat: 52.5358, lng: 24.9753 },
+    description: {
+      de: "Das Silikatziegelwerk in Beryosa ist ein bedeutender Industriebetrieb für Baumaterialien in der Region Brest. Die Fabrik ist spezialisiert auf die Herstellung von Silikatsteinen und Blockprodukten für den Bausektor.",
+      hu: "A berjozai szilikáttégla-gyár a breszti régió egyik jelentős építőanyag-ipari üzeme. A gyár szilikáttéglák és blokkok gyártására specializálódott az építőipar számára.",
+      ro: "Fabrica de cărămidă silico-calcaroasă din Beryoza este o unitate industrială importantă pentru materiale de construcție din regiunea Brest. Fabrica este specializată în producția de cărămizi silico-calcaroase și blocuri pentru sectorul construcțiilor.",
+      en: "The Beryoza Silica Brick Plant is a significant industrial facility for construction materials in the Brest region. The factory specializes in the production of silicate bricks and block products for the construction sector.",
+    },
+    facts: {
+      de: ["Produziert Baumaterialien", "Standort in der Region Brest", "Versorgt den nationalen Markt", "Modernisierte Produktionslinien"],
+      hu: ["Építőanyagokat gyárt", "A breszti régióban található", "Ellátja a hazai piacot", "Modernizált gyártósorok"],
+      ro: ["Produce materiale de construcție", "Situată în regiunea Brest", "Aprovizionează piața națională", "Linii de producție modernizate"],
+      en: ["Produces construction materials", "Located in the Brest region", "Supplies the national market", "Modernized production lines"],
+    },
+    imageHint: "industrial brick manufacturing facility Beryoza",
+    descriptionAdvanced: {
+      de: "Das Baustoffkombinat in Bjarosa ist spezialisiert auf die Herstellung von Silikatsteinen. Es verbindet sowjetische Industrietradition mit modernster Technik für den Wohnungsbau.",
+      hu: "A bjarozai üzem a szilikát alapú építőanyagok specialistája. A gyár termékei, különösen a kerámia burkolólapok, a tartósságukról ismertek a regionális építőiparban.",
+      ro: "Combinatul de materiale din Biaroza este un furnizor major de cărămizi silicate. Investițiile constante în tehnologie au transformat fabrica într-un lider al exporturilor regionale.",
+      en: "Established in the late 1960s, the Beryoza plant produces essential silica bricks and tiles. It is one of the largest employers in the Brest region, driving local economic growth.",
+    },
+    factsAdvanced: {
+      de: ["Standort in der weißrussischen Region Brest", "Produktionsbeginn im Jahr 1967", "Spezialisierung auf hochwertige Silikatsteine", "Jährliche Kapazität von 12 Millionen m² Fliesen", "Einsatz modernster italienischer SACMI-Anlagen", "Exportanteil liegt bei über 70 Prozent"],
+      hu: ["A breszti területen, Bjarozában található", "Hivatalos üzembe helyezés 1967-ben történt", "Szilikátfalazóelemek és kerámialapok gyártása", "12 millió négyzetméteres éves burkolólap-kapacitás", "Saját bányákból származó agyag felhasználása", "Nemzetközi minőségbiztosítási tanúsítványok"],
+      ro: ["Localizat în Biaroza, regiunea Brest", "Activitatea de producție a început în 1967", "Lider în fabricarea cărămizilor de silicat", "Produce anual circa 12 milioane m² de plăci", "Echipamente de ultimă generație din Italia", "Certificat conform standardelor de siguranță UE"],
+      en: ["Based in Byaroza within the Brest Region", "Production facility established in 1967", "Major producer of silica-based building bricks", "Tile production exceeds 12 million m² annually", "Utilizes high-precision Italian machinery", "Primary exporter to Russia and neighboring states"],
+    },
   }
 ];

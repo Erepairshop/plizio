@@ -11,9 +11,8 @@ export const poiExtraBahamasReliefV2: POI[] = [
       de: "Kiefernwälder von Great Abaco",
       hu: "Great Abaco fenyőerdői",
       ro: "Pădurile de pini din Great Abaco",
-      en: "Great Abaco Pine Forests",
-image: "/poi-images/great-abaco-pine-forests-relief-v2.webp"
-},
+      en: "Great Abaco Pine Forests"},
+    image: "/poi-images/great-abaco-pine-forests-relief-v2.webp",
     description: {
       de: "Ausgedehnte Bestände der karibischen Kiefer, die einen wichtigen Lebensraum für den gefährdeten Bahama-Papagei bilden.",
       hu: "A karibi fenyő kiterjedt állományai, amelyek fontos élőhelyet biztosítanak a veszélyeztetett Bahama-papagáj számára.",
@@ -48,9 +47,8 @@ image: "/poi-images/great-abaco-pine-forests-relief-v2.webp"
       de: "Mangrovenwälder von Andros",
       hu: "Andros mangroveerdői",
       ro: "Pădurile de mangrove din Andros",
-      en: "Andros Mangrove Forests",
-image: "/poi-images/andros-mangrove-forests-relief-v2.webp"
-},
+      en: "Andros Mangrove Forests"},
+    image: "/poi-images/andros-mangrove-forests-relief-v2.webp",
     description: {
       de: "Das größte Mangroven-Ökosystem der Bahamas, das als wichtige Kinderstube für unzählige Meeresarten dient.",
       hu: "A Bahamák legnagyobb mangrove-ökoszisztémája, amely számtalan tengeri faj számára fontos ivadéknevelő hely.",
@@ -85,9 +83,8 @@ image: "/poi-images/andros-mangrove-forests-relief-v2.webp"
       de: "Hügellandschaft von Eleuthera",
       hu: "Eleuthera dombvidéke",
       ro: "Dealurile din Eleuthera",
-      en: "Eleuthera's Rolling Hills",
-image: "/poi-images/eleuthera-rolling-hills-relief-v2.webp"
-},
+      en: "Eleuthera's Rolling Hills"},
+    image: "/poi-images/eleuthera-rolling-hills-relief-v2.webp",
     description: {
       de: "Eine sanfte Hügellandschaft, die sich über die Länge der Insel erstreckt und atemberaubende Ausblicke auf den Atlantik und die Karibik bietet.",
       hu: "A sziget hosszában elnyúló lankás dombvidék, amely lenyűgöző kilátást nyújt az Atlanti-óceánra és a Karib-tengerre.",
@@ -122,9 +119,8 @@ image: "/poi-images/eleuthera-rolling-hills-relief-v2.webp"
       de: "Zentraler Bergrücken von Cat Island",
       hu: "Cat-sziget központi gerince",
       ro: "Creasta Centrală a Insulei Cat",
-      en: "Cat Island's Central Ridge",
-image: "/poi-images/cat-island-central-ridge-relief-v2.webp"
-},
+      en: "Cat Island's Central Ridge"},
+    image: "/poi-images/cat-island-central-ridge-relief-v2.webp",
     description: {
       de: "Der hügelige Bergrücken, der das Rückgrat von Cat Island bildet und am Mount Alvernia seinen höchsten Punkt erreicht.",
       hu: "A Cat-sziget gerincét alkotó dombos hegyhát, amely a Mount Alvernia hegyen éri el legmagasabb pontját.",
@@ -159,9 +155,8 @@ image: "/poi-images/cat-island-central-ridge-relief-v2.webp"
       de: "Niederwälder von New Providence",
       hu: "New Providence bozótosai",
       ro: "Pădurile de tufăriș din New Providence",
-      en: "New Providence Coppice Forests",
-image: "/poi-images/new-providence-coppice-forests-relief-v2.webp"
-},
+      en: "New Providence Coppice Forests"},
+    image: "/poi-images/new-providence-coppice-forests-relief-v2.webp",
     description: {
       de: "Überreste des trockenen Laubwaldes, der einst New Providence bedeckte und Lebensraum für Vögel und Reptilien bietet.",
       hu: "Az egykor New Providence-t borító száraz lombhullató erdő maradványai, amelyek madaraknak és hüllőknek adnak otthont.",
@@ -196,9 +191,8 @@ image: "/poi-images/new-providence-coppice-forests-relief-v2.webp"
       de: "Karsttopographie der Exuma Cays",
       hu: "Az Exuma Cays karszttopológiája",
       ro: "Topografia carstică din Exuma Cays",
-      en: "Exuma Cays Karst Topography",
-image: "/poi-images/exuma-cays-karst-topography-relief-v2.webp"
-},
+      en: "Exuma Cays Karst Topography"},
+    image: "/poi-images/exuma-cays-karst-topography-relief-v2.webp",
     description: {
       de: "Die Landschaft der Exuma Cays ist von Karst geprägt, mit unzähligen Höhlen, Blue Holes und scharfen Kalksteinformationen.",
       hu: "Az Exuma Cays tájképét a karszt jelenségek határozzák meg, számtalan barlanggal, kék lyukkal és éles mészkő képződménnyel.",
@@ -233,9 +227,8 @@ image: "/poi-images/exuma-cays-karst-topography-relief-v2.webp"
       de: "Atlantikklippen von Long Island",
       hu: "Long Island atlanti sziklái",
       ro: "Stâncile atlantice din Long Island",
-      en: "Long Island's Atlantic Cliffs",
-image: "/poi-images/long-island-atlantic-cliffs-relief-v2.webp"
-},
+      en: "Long Island's Atlantic Cliffs"},
+    image: "/poi-images/long-island-atlantic-cliffs-relief-v2.webp",
     description: {
       de: "Die Ostküste von Long Island ist von dramatischen Klippen geprägt, die steil in den Atlantischen Ozean abfallen.",
       hu: "Long Island keleti partját drámai sziklák jellemzik, amelyek meredeken zuhannak az Atlanti-óceánba.",
@@ -270,9 +263,8 @@ image: "/poi-images/long-island-atlantic-cliffs-relief-v2.webp"
       de: "Binnenseen von San Salvador",
       hu: "San Salvador beltavai",
       ro: "Lacurile interioare din San Salvador",
-      en: "San Salvador's Inland Lakes",
-image: "/poi-images/san-salvador-inland-lakes-relief-v2.webp"
-},
+      en: "San Salvador's Inland Lakes"},
+    image: "/poi-images/san-salvador-inland-lakes-relief-v2.webp",
     description: {
       de: "Das Innere von San Salvador ist von einem Netz aus hyper-salinen Seen und Teichen durchzogen, die ein einzigartiges Ökosystem bilden.",
       hu: "San Salvador belsejét hiperszalin tavak és tavacskák hálózata szövi át, egyedülálló ökoszisztémát alkotva.",
@@ -307,9 +299,8 @@ image: "/poi-images/san-salvador-inland-lakes-relief-v2.webp"
       de: "Kalksteinhügel von Crooked Island",
       hu: "Crooked-sziget mészkődombjai",
       ro: "Dealurile de calcar din Crooked Island",
-      en: "Crooked Island's Limestone Hills",
-image: "/poi-images/crooked-island-limestone-hills-relief-v2.webp"
-},
+      en: "Crooked Island's Limestone Hills"},
+    image: "/poi-images/crooked-island-limestone-hills-relief-v2.webp",
     description: {
       de: "Eine Reihe niedriger Kalksteinhügel, die sich durch Crooked Island ziehen und eine vielfältige Topographie schaffen.",
       hu: "Alacsony mészkődombok sorozata, amely végighúzódik a Crooked-szigeten, változatos domborzatot teremtve.",
@@ -344,9 +335,8 @@ image: "/poi-images/crooked-island-limestone-hills-relief-v2.webp"
       de: "Tiefland der Bucht von Acklins",
       hu: "Az Acklins-öböl alföldje",
       ro: "Câmpiile din Bight of Acklins",
-      en: "Bight of Acklins Lowlands",
-image: "/poi-images/acklins-bight-lowlands-relief-v2.webp"
-},
+      en: "Bight of Acklins Lowlands"},
+    image: "/poi-images/acklins-bight-lowlands-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte, flache Landschaft aus Gezeitenflächen, Mangroven und seichten Gewässern, die von den Crooked-Acklins-Inseln umschlossen wird.",
       hu: "Árapálysíkságokból, mangrove-erdőkből és sekély vizekből álló kiterjedt, sík táj, amelyet a Crooked-Acklins szigetek zárnak körül.",
@@ -381,9 +371,8 @@ image: "/poi-images/acklins-bight-lowlands-relief-v2.webp"
       de: "Riffsystem von Mayaguana",
       hu: "Mayaguana zátonyrendszere",
       ro: "Sistemul de recif din Mayaguana",
-      en: "Mayaguana's Reef System",
-image: "/poi-images/mayaguana-reef-system-relief-v2.webp"
-},
+      en: "Mayaguana's Reef System"},
+    image: "/poi-images/mayaguana-reef-system-relief-v2.webp",
     description: {
       de: "Die Insel Mayaguana ist fast vollständig von einem Korallenriff umgeben, das reich an Meereslebewesen ist.",
       hu: "A Mayaguana-szigetet szinte teljesen korallzátony veszi körül, amely gazdag tengeri élővilágban.",
@@ -418,9 +407,8 @@ image: "/poi-images/mayaguana-reef-system-relief-v2.webp"
       de: "Kiefernheiden von Grand Bahama",
       hu: "Grand Bahama fenyves pusztái",
       ro: "Pădurile de pini din Grand Bahama",
-      en: "Grand Bahama's Pine Barrens",
-image: "/poi-images/grand-bahama-pine-barrens-relief-v2.webp"
-},
+      en: "Grand Bahama's Pine Barrens"},
+    image: "/poi-images/grand-bahama-pine-barrens-relief-v2.webp",
     description: {
       de: "Ausgedehnte Flächen mit karibischem Kiefernwald, die einen Großteil des Landesinneren von Grand Bahama bedecken.",
       hu: "A karibi fenyőerdő hatalmas területei, amelyek Grand Bahama belsejének nagy részét borítják.",
@@ -455,9 +443,8 @@ image: "/poi-images/grand-bahama-pine-barrens-relief-v2.webp"
       de: "Sandflächen der Berry Islands",
       hu: "A Berry-szigetek homokpadjai",
       ro: "Platourile de nisip din Insulele Berry",
-      en: "The Berry Islands' Sand Flats",
-image: "/poi-images/berry-islands-sand-flats-relief-v2.webp"
-},
+      en: "The Berry Islands' Sand Flats"},
+    image: "/poi-images/berry-islands-sand-flats-relief-v2.webp",
     description: {
       de: "Die Berry Islands sind bekannt für ihre riesigen, weißen Sandflächen, die bei Ebbe freigelegt werden und ein Paradies für Angler sind.",
       hu: "A Berry-szigetek híresek hatalmas, fehér homokpadjaikról, amelyek apálykor bukkannak elő, és a horgászok paradicsomát jelentik.",
@@ -492,9 +479,8 @@ image: "/poi-images/berry-islands-sand-flats-relief-v2.webp"
       de: "Mangroven-Kinderstuben von Bimini",
       hu: "Bimini mangrove ivadéknevelői",
       ro: "Pepinierele de mangrove din Bimini",
-      en: "Bimini's Mangrove Nurseries",
-image: "/poi-images/bimini-mangrove-nurseries-relief-v2.webp"
-},
+      en: "Bimini's Mangrove Nurseries"},
+    image: "/poi-images/bimini-mangrove-nurseries-relief-v2.webp",
     description: {
       de: "Die Mangroven rund um Bimini sind eine wichtige Kinderstube für Zitronenhaie und viele andere Meeresarten.",
       hu: "A Bimini körüli mangroveerdők fontos ivadéknevelő helyet jelentenek a citromcápák és sok más tengeri faj számára.",
@@ -529,9 +515,8 @@ image: "/poi-images/bimini-mangrove-nurseries-relief-v2.webp"
       de: "Salinen von Inagua",
       hu: "Inagua sólepárlói",
       ro: "Salinele din Inagua",
-      en: "Inagua's Salt Pans",
-image: "/poi-images/inagua-salt-pans-relief-v2.webp"
-},
+      en: "Inagua's Salt Pans"},
+    image: "/poi-images/inagua-salt-pans-relief-v2.webp",
     description: {
       de: "Ausgedehnte, von Menschenhand geschaffene Salinen, die die Landschaft von Great Inagua dominieren und Flamingos anziehen.",
       hu: "Kiterjedt, ember által létrehozott sólepárlók, amelyek Great Inagua tájképét uralják és flamingókat vonzanak.",
@@ -566,9 +551,8 @@ image: "/poi-images/inagua-salt-pans-relief-v2.webp"
       de: "Hügelkette der Ragged Islands",
       hu: "A Ragged-szigetek vonulata",
       ro: "Lanțul de insule Ragged",
-      en: "Ragged Island Range",
-image: "/poi-images/ragged-island-range-relief-v2.webp"
-},
+      en: "Ragged Island Range"},
+    image: "/poi-images/ragged-island-range-relief-v2.webp",
     description: {
       de: "Eine Kette von kargen, felsigen Inseln und Cays, die sich nach Süden in Richtung Kuba erstrecken.",
       hu: "Kopár, sziklás szigetek és zátonyok láncolata, amely dél felé, Kuba irányába húzódik.",
@@ -603,9 +587,8 @@ image: "/poi-images/ragged-island-range-relief-v2.webp"
       de: "Conception Island Wall",
       hu: "Conception-sziget fala",
       ro: "Zidul Insulei Conception",
-      en: "Conception Island Wall",
-image: "/poi-images/conception-island-wall-relief-v2.webp"
-},
+      en: "Conception Island Wall"},
+    image: "/poi-images/conception-island-wall-relief-v2.webp",
     description: {
       de: "Eine dramatische Unterwasserwand, die an der Küste von Conception Island in die Tiefe stürzt und bei Tauchern sehr beliebt ist.",
       hu: "Drámai víz alatti fal, amely a Conception-sziget partjainál zuhan a mélybe, és a búvárok körében igen népszerű.",
@@ -640,9 +623,8 @@ image: "/poi-images/conception-island-wall-relief-v2.webp"
       de: "Wald von Goulding Cay",
       hu: "Goulding Cay erdeje",
       ro: "Pădurea din Goulding Cay",
-      en: "Goulding Cay Forest",
-image: "/poi-images/goulding-cay-forest-relief-v2.webp"
-},
+      en: "Goulding Cay Forest"},
+    image: "/poi-images/goulding-cay-forest-relief-v2.webp",
     description: {
       de: "Eine kleine Insel vor der Westküste von New Providence mit einem dichten, unberührten Trockenwald.",
       hu: "Kis sziget New Providence nyugati partjainál, sűrű, érintetlen száraz erdővel.",
@@ -677,9 +659,8 @@ image: "/poi-images/goulding-cay-forest-relief-v2.webp"
       de: "Karstebene von Samana Cay",
       hu: "Samana Cay karsztsíksága",
       ro: "Câmpia carstică din Samana Cay",
-      en: "Samana Cay Karst Plain",
-image: "/poi-images/samana-cay-karst-plain-relief-v2.webp"
-},
+      en: "Samana Cay Karst Plain"},
+    image: "/poi-images/samana-cay-karst-plain-relief-v2.webp",
     description: {
       de: "Eine unbewohnte Insel mit einer von Verwitterung und Höhlen durchzogenen Kalkstein-Topographie.",
       hu: "Lakatlan sziget, mállott és barlangokkal teli mészkő domborzattal.",
@@ -714,9 +695,8 @@ image: "/poi-images/samana-cay-karst-plain-relief-v2.webp"
       de: "Westküsten-Flachwassergebiete von Andros",
       hu: "Andros nyugati parti síkságai",
       ro: "Platourile de pe coasta de vest a Androsului",
-      en: "Andros's West Coast Flats",
-image: "/poi-images/andros-west-coast-flats-relief-v2.webp"
-},
+      en: "Andros's West Coast Flats"},
+    image: "/poi-images/andros-west-coast-flats-relief-v2.webp",
     description: {
       de: "Eine riesige, unbewohnte und unberührte Wildnis aus Gezeitenflächen, die als eines der besten Bonefishing-Gebiete der Welt gilt.",
       hu: "Hatalmas, lakatlan és érintetlen árapálysíkság-vadon, amelyet a világ egyik legjobb bonefishing területének tartanak.",
@@ -751,9 +731,8 @@ image: "/poi-images/andros-west-coast-flats-relief-v2.webp"
       de: "Coakley Cay Relief",
       hu: "Coakley Cay domborzata",
       ro: "Relieful din Coakley Cay",
-      en: "Coakley Cay Relief",
-image: "/poi-images/coakley-cay-relief-v2.webp"
-},
+      en: "Coakley Cay Relief"},
+    image: "/poi-images/coakley-cay-relief-v2.webp",
     description: {
       de: "Eine typische kleine Insel in den Gezeitenbächen von Andros, die die komplexe Topographie der Region zeigt.",
       hu: "Tipikus kis sziget az Andros-i árapály-patakokban, amely a régió összetett domborzatát mutatja be.",
@@ -788,9 +767,8 @@ image: "/poi-images/coakley-cay-relief-v2.webp"
       de: "High Cay (Acklins) Relief",
       hu: "High Cay domborzata (Acklins)",
       ro: "Relieful din High Cay (Acklins)",
-      en: "High Cay (Acklins) Relief",
-image: "/poi-images/high-cay-acklins-relief-v2.webp"
-},
+      en: "High Cay (Acklins) Relief"},
+    image: "/poi-images/high-cay-acklins-relief-v2.webp",
     description: {
       de: "Eine kleine, erhöhte Insel vor der Küste von Acklins, die einen Kontrast zur flachen Umgebung bildet.",
       hu: "Kis, megemelt sziget Acklins partjainál, amely kontrasztot alkot a környező sík területtel.",
@@ -825,9 +803,8 @@ image: "/poi-images/high-cay-acklins-relief-v2.webp"
       de: "Wälder der Plana Cays",
       hu: "A Plana Cays erdői",
       ro: "Pădurile din Plana Cays",
-      en: "Plana Cays Forests",
-image: "/poi-images/plana-cays-forest-relief-v2.webp"
-},
+      en: "Plana Cays Forests"},
+    image: "/poi-images/plana-cays-forest-relief-v2.webp",
     description: {
       de: "Zwei unbewohnte Inseln mit einem trockenen Wald, der Lebensraum für die vom Aussterben bedrohte Bahama-Hutia ist.",
       hu: "Két lakatlan sziget száraz erdővel, amely a kihalófélben lévő Bahama-hutia élőhelye.",
@@ -862,9 +839,8 @@ image: "/poi-images/plana-cays-forest-relief-v2.webp"
       de: "Fish Cays (Exuma) Relief",
       hu: "Fish Cays domborzata (Exuma)",
       ro: "Relieful din Fish Cays (Exuma)",
-      en: "Fish Cays (Exuma) Relief",
-image: "/poi-images/fish-cays-exuma-relief-v2.webp"
-},
+      en: "Fish Cays (Exuma) Relief"},
+    image: "/poi-images/fish-cays-exuma-relief-v2.webp",
     description: {
       de: "Eine Gruppe kleiner, niedriger Inseln in den Exumas, die von Sandbänken und Korallenriffen umgeben sind.",
       hu: "Kis, alacsonyan fekvő szigetek csoportja az Exumákon, homokpadokkal és korallzátonyokkal körülvéve.",

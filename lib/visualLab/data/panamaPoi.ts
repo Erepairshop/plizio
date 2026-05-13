@@ -149,33 +149,7 @@ export const panamaCities: POI[] = [
     },
     historyYear: 1848,
     historyPeriod: "Modern", image: "/poi-images/pa-chitre.webp"},
-  { 
-    id: "pa-cerro-fabrega", 
-    type: "mountain", 
-    parent: "PA", 
-    coords: [-82.8833, 9.1167], 
-    name: { de: "Cerro Fábrega", hu: "Cerro Fábrega", ro: "Cerro Fábrega", en: "Cerro Fabrega" }, 
-    description: { de: "Ein bedeutender Gipfel im Gebirgszug Cordillera de Talamanca.", hu: "Jelentős hegycsúcs a Cordillera de Talamanca hegyláncban.", ro: "Un vârf proeminent în lanțul muntos Cordillera de Talamanca.", en: "A significant peak located in the Cordillera de Talamanca mountain range." },
-    descriptionAdvanced: {
-      de: "Der Cerro Fábrega ist der zweithöchste Berg Panamas und liegt in der abgelegenen Provinz Bocas del Toro, nahe der Grenze zu Costa Rica. Der Gipfel ist Teil des La Amistad International Park und beherbergt eine einzigartige Páramo-Vegetation sowie eine unberührte Natur.",
-      hu: "A Cerro Fábrega Panama második legmagasabb hegye, amely a távoli Bocas del Toro tartományban, a Costa Rica-i határ közelében található. A csúcs a La Amistad Nemzetközi Park része, és egyedülálló páramo vegetációnak, valamint érintetlen természetnek ad otthont.",
-      ro: "Cerro Fábrega este al doilea munte ca înălțime din Panama și este situat în provincia izolată Bocas del Toro, lângă granița cu Costa Rica. Vârful face parte din Parcul Internațional La Amistad și găzduiește o vegetație unică de páramo și o natură virgină.",
-      en: "Cerro Fábrega is Panama's second-highest mountain, located in the remote Bocas del Toro province near the Costa Rican border. Part of the La Amistad International Park, the peak features unique páramo vegetation and untouched wilderness."
-    },
-    facts: {
-      de: ["Zweithöchster Berg Panamas.", "Höhe: 3.335 Meter.", "Teil des La Amistad Parks.", "Einzigartige Páramo-Landschaft."],
-      hu: ["Panama második legmagasabb hegye.", "Magassága: 3335 méter.", "A La Amistad Park része.", "Egyedülálló páramo táj."],
-      ro: ["Al doilea munte ca înălțime din Panama.", "Înălțime: 3.335 metri.", "Parte a Parcului La Amistad.", "Peisaj unic de páramo."],
-      en: ["Panama's second-highest mountain.", "Elevation: 3,335 meters.", "Part of the La Amistad Park.", "Unique páramo ecosystem."]
-    },
-    factsAdvanced: {
-      de: ["Der Berg ist einer der wenigen Orte in Panama mit einer alpinen Tundra-Vegetation.", "Er liegt in einer der regenreichsten Regionen des Landes.", "Der Zugang zum Gipfel ist schwierig und erfordert eine mehrtägige Expedition."],
-      hu: ["A hegy egyike azon kevés helyeknek Panamában, ahol alpesi tundra vegetáció található.", "Az ország egyik legcsapadékosabb régiójában fekszik.", "A csúcs megközelítése nehéz, és többnapos expedíciót igényel."],
-      ro: ["Muntele este unul dintre puținele locuri din Panama cu vegetație de tundră alpină.", "Este situat într-una dintre cele mai ploioase regiuni ale țării.", "Accesul la vârf este dificil și necesită o expediție de mai multe zile."],
-      en: ["The mountain is one of the few places in Panama with alpine tundra vegetation.", "It is located in one of the wettest regions of the country.", "Reaching the summit is challenging and requires a multi-day expedition."]
-    },
-    elevation: 3335, image: "/poi-images/pa-cerro-fabrega.webp"},
-  { 
+    { 
     id: "pa-rio-chagres", 
     type: "river", 
     parent: "PA", 
@@ -443,33 +417,7 @@ export const panamaLandmarks: POI[] = [
       en: ["It is said there is one island for every day of the year.", "Coconuts serve as a primary trade commodity for the Guna people.", "The islands are currently threatened by rising sea levels due to climate change."]
     },
     area: 2306, image: "/poi-images/pa-sanblas.webp"},
-  { 
-    id: "pa-volcanbaru", 
-    type: "mountain", 
-    parent: "PA", 
-    coords: [-82.5333, 8.8083], 
-    name: { de: "Volcán Barú", hu: "Barú-vulkán", ro: "Vulcanul Barú", en: "Volcán Barú" }, 
-    description: { de: "Der höchste Berg Panamas; an klaren Tagen sind beide Ozeane sichtbar.", hu: "Panama legmagasabb hegye, ahonnan tiszta napokon mindkét óceán látható.", ro: "Cel mai înalt munte din Panama; în zilele senine se pot vedea ambele oceane.", en: "Panama's highest peak; both oceans are visible on a clear day." },
-    descriptionAdvanced: {
-      de: "Der Volcán Barú ist ein schlafender Vulkan und mit 3.474 Metern der höchste Punkt Panamas. Aufgrund seiner Lage ist es einer der wenigen Orte auf der Welt, von denen aus man an klaren Tagen gleichzeitig den Pazifischen und den Atlantischen Ozean sehen kann.",
-      hu: "A Barú-vulkán egy alvó vulkán, és 3474 méterével Panama legmagasabb pontja. Elhelyezkedése miatt ez a világ azon kevés helyeinek egyike, ahonnan tiszta napokon egyszerre látható a Csendes- és az Atlanti-óceán.",
-      ro: "Vulcanul Barú este un vulcan adormit și, cu 3.474 de metri, reprezintă cel mai înalt punct din Panama. Datorită locației sale, este unul dintre puținele locuri din lume de unde, în zilele senine, se pot vedea simultan Oceanul Pacific și Oceanul Atlantic.",
-      en: "Volcán Barú is a dormant volcano and, at 3,474 meters, the highest point in Panama. Due to its unique location, it is one of the few places on Earth where, on clear days, you can simultaneously view both the Pacific and Atlantic Oceans."
-    },
-    facts: {
-      de: ["Höchster Berg Panamas.", "Höhe: 3.474 Meter.", "Schlafender Vulkan.", "Blick auf zwei Ozeane möglich."],
-      hu: ["Panama legmagasabb hegye.", "Magassága: 3474 méter.", "Alvó vulkán.", "Kilátás nyílik mindkét óceánra."],
-      ro: ["Cel mai înalt munte din Panama.", "Înălțime: 3.474 metri.", "Vulcan adormit.", "Vedere spre două oceane posibilă."],
-      en: ["Panama's highest peak.", "Elevation: 3,474 meters.", "Dormant volcano.", "View of two oceans is possible."]
-    },
-    factsAdvanced: {
-      de: ["Der letzte große Ausbruch fand um das Jahr 1550 statt.", "Der Gipfel beherbergt zahlreiche Sendeanlagen.", "Der Aufstieg dauert je nach Route zwischen 4 und 8 Stunden."],
-      hu: ["Az utolsó nagy kitörés 1550 körül történt.", "A csúcson számos adótorony található.", "A megmászása az útvonaltól függően 4-8 órát vesz igénybe."],
-      ro: ["Ultima erupție majoră a avut loc în jurul anului 1550.", "Vârful găzduiește numeroase antene de transmisie.", "Urcarea durează între 4 și 8 ore, în funcție de rută."],
-      en: ["The last major eruption occurred around the year 1550.", "The summit is home to numerous telecommunication towers.", "The hike to the top takes between 4 and 8 hours depending on the route."]
-    },
-    elevation: 3474, image: "/poi-images/pa-volcanbaru.webp"},
-  { 
+    { 
     id: "pa-boquete", 
     type: "landmark", 
     parent: "PA", 
@@ -600,34 +548,7 @@ export const panamaLandmarks: POI[] = [
     },
     historyYear: 1519,
     historyPeriod: "Colonial", image: "/poi-images/pa-panamaviejo.webp"},
-  { 
-    id: "pa-nat-cathedral", 
-    type: "historical", 
-    parent: "PA", 
-    coords: [-79.5342, 8.9519], 
-    name: { de: "Kathedrale von Panama", hu: "Panamai székesegyház", ro: "Catedrala Metropolitană din Panama", en: "Metropolitan Cathedral of Panama" }, 
-    description: { de: "Die Hauptkirche im Casco Viejo mit beeindruckenden Türmen.", hu: "A Casco Viejo főtemploma, lenyűgöző harangtornyokkal.", ro: "Biserica principală din Casco Viejo, având turnuri impresionante.", en: "The primary church in Casco Viejo, featuring striking bell towers." },
-    descriptionAdvanced: {
-      de: "Die Metropolitan-Kathedrale von Panama-Stadt ist ein herausragendes Beispiel kolonialer Architektur im historischen Viertel Casco Viejo. Der Bau dauerte über 100 Jahre, und die beeindruckende Fassade wird von zwei hohen Glockentürmen flankiert, die mit Perlmutt verziert sind.",
-      hu: "A panamavárosi Metropolitan székesegyház a gyarmati építészet kiemelkedő példája a történelmi Casco Viejo negyedben. Építése több mint 100 évig tartott, és lenyűgöző homlokzatát két magas harangtorony szegélyezi, amelyeket gyöngyház berakások díszítenek.",
-      ro: "Catedrala Metropolitană din Ciudad de Panama este un exemplu remarcabil de arhitectură colonială în cartierul istoric Casco Viejo. Construcția a durat peste 100 de ani, iar fațada impresionantă este flancată de două turnuri clopotniță înalte, decorate cu sidef.",
-      en: "The Metropolitan Cathedral of Panama City is a masterpiece of colonial architecture located in the historic Casco Viejo district. Its construction spanned over a century, and its grand facade is flanked by twin bell towers uniquely inlaid with mother-of-pearl."
-    },
-    facts: {
-      de: ["Bauzeit: 1688 bis 1796.", "Türme mit Perlmutt verziert.", "Herzstück des Casco Viejo.", "Wichtigster religiöser Ort des Landes."],
-      hu: ["Építési ideje: 1688-tól 1796-ig.", "A tornyokat gyöngyház díszíti.", "A Casco Viejo központi eleme.", "Az ország legfontosabb vallási helyszíne."],
-      ro: ["Timp de construcție: 1688 până în 1796.", "Turnuri decorate cu sidef.", "Inima cartierului Casco Viejo.", "Cel mai important loc religios din țară."],
-      en: ["Built between 1688 and 1796.", "Towers inlaid with mother-of-pearl.", "The spiritual heart of Casco Viejo.", "Panama's most significant religious landmark."]
-    },
-    factsAdvanced: {
-      de: ["Die Kathedrale wurde nach dem Brand der ursprünglichen Kathedrale in Panamá Viejo errichtet.", "Sie beherbergt wertvolle religiöse Kunstwerke und Altäre.", "Papst Franziskus weihte die Kathedrale bei seinem Besuch 2019 offiziell ein."],
-      hu: ["A székesegyház a Panamá Viejo-i eredeti katedrális leégése után épült.", "Értékes vallási műalkotásoknak és oltároknak ad otthont.", "Ferenc pápa 2019-es látogatásakor hivatalosan is felszentelte a katedrálist."],
-      ro: ["Catedrala a fost ridicată după incendiul catedralei originale din Panamá Viejo.", "Găzduiește opere de artă religioasă valoroase și altare.", "Papa Francisc a sfințit oficial catedrala în timpul vizitei sale din 2019."],
-      en: ["The cathedral was commissioned after the original in Panama Viejo was destroyed.", "It houses priceless religious art and several ornate altars.", "Pope Francis officially consecrated the cathedral during his 2019 visit."]
-    },
-    historyYear: 1688,
-    historyPeriod: "Colonial", image: "/poi-images/pa-nat-cathedral.webp"},
-  { 
+    { 
     id: "pa-taboga", 
     type: "landmark", 
     parent: "PA", 

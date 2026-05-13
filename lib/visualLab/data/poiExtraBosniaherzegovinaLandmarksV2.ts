@@ -5,9 +5,8 @@ export const bosniaherzegovinaLandmarksV2: POI[] = [
     id: "bosniaherzegovina-sarajevo-city-hall-landmarks-v2",
     parent: "BA",
     type: "palace",
-    name: { de: "Rathaus von Sarajevo", hu: "Szarajevói városháza", ro: "Primăria din Sarajevo", en: "Sarajevo City Hall",
-image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Sarajevo", hu: "Szarajevói városháza", ro: "Primăria din Sarajevo", en: "Sarajevo City Hall"},
+    image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp",
     coords: [18.4332, 43.8592],
     coordinates: { lat: 43.8592, lng: 18.4332 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/bosniaherzegovina-sarajevo-city-hall-landmarks-v2.webp"
     id: "bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Gazi-Husrev-Beg-Moschee", hu: "Gazi Husrev bég mecset", ro: "Moscheea Gazi Husrev-beg", en: "Gazi Husrev-beg Mosque",
-image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp"
-},
+    name: { de: "Gazi-Husrev-Beg-Moschee", hu: "Gazi Husrev bég mecset", ro: "Moscheea Gazi Husrev-beg", en: "Gazi Husrev-beg Mosque"},
+    image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp",
     coords: [18.4289, 43.8598],
     coordinates: { lat: 43.8598, lng: 18.4289 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/bosniaherzegovina-gazi-husrev-beg-mosque-landmarks-v2.webp"
     id: "bosniaherzegovina-yellow-bastion-landmarks-v2",
     parent: "BA",
     type: "tower",
-    name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Bastion",
-image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp"
-},
+    name: { de: "Gelbe Bastion", hu: "Sárga bástya", ro: "Bastionul Galben", en: "Yellow Bastion"},
+    image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp",
     coords: [18.439, 43.8608],
     coordinates: { lat: 43.8608, lng: 18.439 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/bosniaherzegovina-yellow-bastion-landmarks-v2.webp"
     id: "bosniaherzegovina-pocitelj-fortress-landmarks-v2",
     parent: "BA",
     type: "castle",
-    name: { de: "Festung Počitelj", hu: "Počitelj vára", ro: "Cetatea Počitelj", en: "Počitelj Fortress",
-image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Počitelj", hu: "Počitelj vára", ro: "Cetatea Počitelj", en: "Počitelj Fortress"},
+    image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp",
     coords: [17.7294, 43.134],
     coordinates: { lat: 43.134, lng: 17.7294 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/bosniaherzegovina-pocitelj-fortress-landmarks-v2.webp"
     id: "bosniaherzegovina-ferhadija-mosque-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Ferhadija-Moschee", hu: "Ferhadija-mecset", ro: "Moscheea Ferhadija", en: "Ferhadija Mosque",
-image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp"
-},
+    name: { de: "Ferhadija-Moschee", hu: "Ferhadija-mecset", ro: "Moscheea Ferhadija", en: "Ferhadija Mosque"},
+    image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp",
     coords: [17.1869, 44.7672],
     coordinates: { lat: 44.7672, lng: 17.1869 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/bosniaherzegovina-ferhadija-mosque-landmarks-v2.webp"
     id: "bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2",
     parent: "BA",
     type: "cathedral",
-    name: { de: "Herz-Jesu-Kathedrale", hu: "Jézus Szíve-székesegyház", ro: "Catedrala Inima lui Isus", en: "Cathedral of Jesus' Sacred Heart",
-image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2.webp"
-},
+    name: { de: "Herz-Jesu-Kathedrale", hu: "Jézus Szíve-székesegyház", ro: "Catedrala Inima lui Isus", en: "Cathedral of Jesus' Sacred Heart"},
+    image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-v2.webp",
     coords: [18.4258, 43.8594],
     coordinates: { lat: 43.8594, lng: 18.4258 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/bosniaherzegovina-cathedral-of-jesus-sacred-heart-landmarks-
     id: "bosniaherzegovina-old-orthodox-church-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Alte Orthodoxe Kirche", hu: "Régi ortodox templom", ro: "Biserica Ortodoxă Veche", en: "Old Orthodox Church",
-image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp"
-},
+    name: { de: "Alte Orthodoxe Kirche", hu: "Régi ortodox templom", ro: "Biserica Ortodoxă Veche", en: "Old Orthodox Church"},
+    image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp",
     coords: [18.43, 43.8604],
     coordinates: { lat: 43.8604, lng: 18.43 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/bosniaherzegovina-old-orthodox-church-landmarks-v2.webp"
     id: "bosniaherzegovina-sebilj-fountain-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Sebilj-Brunnen", hu: "Sebilj-kút", ro: "Fântâna Sebilj", en: "Sebilj Fountain",
-image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp"
-},
+    name: { de: "Sebilj-Brunnen", hu: "Sebilj-kút", ro: "Fântâna Sebilj", en: "Sebilj Fountain"},
+    image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp",
     coords: [18.4313, 43.8597],
     coordinates: { lat: 43.8597, lng: 18.4313 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/bosniaherzegovina-sebilj-fountain-landmarks-v2.webp"
     id: "bosniaherzegovina-national-museum-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Nationalmuseum von Bosnien und Herzegowina", hu: "Bosznia-Hercegovinai Nemzeti Múzeum", ro: "Muzeul Național al Bosniei și Herțegovinei", en: "National Museum of Bosnia and Herzegovina",
-image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp"
-},
+    name: { de: "Nationalmuseum von Bosnien und Herzegowina", hu: "Bosznia-Hercegovinai Nemzeti Múzeum", ro: "Muzeul Național al Bosniei și Herțegovinei", en: "National Museum of Bosnia and Herzegovina"},
+    image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp",
     coords: [18.4022, 43.855],
     coordinates: { lat: 43.855, lng: 18.4022 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/bosniaherzegovina-national-museum-landmarks-v2.webp"
     id: "bosniaherzegovina-ljubuski-fortress-landmarks-v2",
     parent: "BA",
     type: "castle",
-    name: { de: "Festung Ljubuški", hu: "Ljubuški vára", ro: "Cetatea Ljubuški", en: "Ljubuški Fortress",
-image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Ljubuški", hu: "Ljubuški vára", ro: "Cetatea Ljubuški", en: "Ljubuški Fortress"},
+    image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp",
     coords: [17.5544, 43.2044],
     coordinates: { lat: 43.2044, lng: 17.5544 },
     description: {
@@ -364,9 +354,8 @@ image: "/poi-images/bosniaherzegovina-ljubuski-fortress-landmarks-v2.webp"
     id: "bosniaherzegovina-arslanagic-bridge-landmarks-v2",
     parent: "BA",
     type: "bridge",
-    name: { de: "Arslanagić-Brücke", hu: "Arslanagić-híd", ro: "Podul Arslanagić", en: "Arslanagić Bridge",
-image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp"
-},
+    name: { de: "Arslanagić-Brücke", hu: "Arslanagić-híd", ro: "Podul Arslanagić", en: "Arslanagić Bridge"},
+    image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp",
     coords: [18.3533, 42.7161],
     coordinates: { lat: 42.7161, lng: 18.3533 },
     description: {
@@ -399,9 +388,8 @@ image: "/poi-images/bosniaherzegovina-arslanagic-bridge-landmarks-v2.webp"
     id: "bosniaherzegovina-eternal-flame-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Ewige Flamme", hu: "Örökmécses", ro: "Flacăra Eternă", en: "Eternal Flame",
-image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp"
-},
+    name: { de: "Ewige Flamme", hu: "Örökmécses", ro: "Flacăra Eternă", en: "Eternal Flame"},
+    image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp",
     coords: [18.4219, 43.8589],
     coordinates: { lat: 43.8589, lng: 18.4219 },
     description: {
@@ -435,9 +423,8 @@ image: "/poi-images/bosniaherzegovina-eternal-flame-landmarks-v2.webp"
     id: "bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Museum Sarajevo 1878–1918", hu: "Szarajevó Múzeum 1878–1918", ro: "Muzeul Sarajevo 1878–1918", en: "Museum of Sarajevo 1878–1918",
-image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.webp"
-},
+    name: { de: "Museum Sarajevo 1878–1918", hu: "Szarajevó Múzeum 1878–1918", ro: "Muzeul Sarajevo 1878–1918", en: "Museum of Sarajevo 1878–1918"},
+    image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.webp",
     coords: [18.4288, 43.8576],
     coordinates: { lat: 43.8576, lng: 18.4288 },
     description: {
@@ -472,9 +459,8 @@ image: "/poi-images/bosniaherzegovina-museum-of-sarajevo-1878-1918-landmarks-v2.
     id: "bosniaherzegovina-banski-dvor-landmarks-v2",
     parent: "BA",
     type: "palace",
-    name: { de: "Banski Dvor", hu: "Bánsági palota", ro: "Banski Dvor", en: "Banski Dvor",
-image: "/poi-images/bosniaherzegovina-banski-dvor-landmarks-v2.webp"
-},
+    name: { de: "Banski Dvor", hu: "Bánsági palota", ro: "Banski Dvor", en: "Banski Dvor"},
+    image: "/poi-images/bosniaherzegovina-banski-dvor-landmarks-v2.webp",
     coordinates: { lat: 44.7725, lng: 17.1914 },
     description: {
       de: "Dieser Palast in Banja Luka dient heute als Kulturzentrum und war früher der Sitz der Ban-Verwaltung. Das Gebäude wurde in den 1930er Jahren im neoklassizistischen Stil errichtet.",
@@ -506,9 +492,8 @@ image: "/poi-images/bosniaherzegovina-banski-dvor-landmarks-v2.webp"
     id: "bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2",
     parent: "BA",
     type: "tower",
-    name: { de: "Friedensglockenturm Mostar", hu: "Mostari béke-harangtorony", ro: "Turnul clopotniță al păcii din Mostar", en: "Mostar Peace Bell Tower",
-image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp"
-},
+    name: { de: "Friedensglockenturm Mostar", hu: "Mostari béke-harangtorony", ro: "Turnul clopotniță al păcii din Mostar", en: "Mostar Peace Bell Tower"},
+    image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp",
     coordinates: { lat: 43.3392, lng: 17.8078 },
     description: {
       de: "Dieser Glockenturm gehört zur Franziskanerkirche St. Peter und Paul und ist mit 107 Metern der höchste Turm der Stadt. Er bietet eine weite Aussicht über Mostar.",
@@ -541,9 +526,8 @@ image: "/poi-images/bosniaherzegovina-mostar-peace-bell-tower-landmarks-v2.webp"
     id: "bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2",
     parent: "BA",
     type: "cathedral",
-    name: { de: "Kathedrale des heiligen Bonaventura", hu: "Szent Bonaventura-székesegyház", ro: "Catedrala Sfântul Bonaventura", en: "Cathedral of Saint Bonaventure",
-image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp"
-},
+    name: { de: "Kathedrale des heiligen Bonaventura", hu: "Szent Bonaventura-székesegyház", ro: "Catedrala Sfântul Bonaventura", en: "Cathedral of Saint Bonaventure"},
+    image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp",
     coordinates: { lat: 44.7712, lng: 17.1889 },
     description: {
       de: "Diese römisch-katholische Kathedrale in Banja Luka zeichnet sich durch ihre moderne Architektur aus. Sie wurde nach der Zerstörung des alten Gebäudes durch ein Erdbeben 1969 neu errichtet.",
@@ -576,9 +560,8 @@ image: "/poi-images/bosniaherzegovina-cathedral-st-bonaventure-landmarks-v2.webp
     id: "bosniaherzegovina-hercegovacka-gracanica-landmarks-v2",
     parent: "BA",
     type: "church",
-    name: { de: "Hercegovačka Gračanica", hu: "Hercegovačka Gračanica", ro: "Hercegovačka Gračanica", en: "Hercegovačka Gračanica",
-image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp"
-},
+    name: { de: "Hercegovačka Gračanica", hu: "Hercegovačka Gračanica", ro: "Hercegovačka Gračanica", en: "Hercegovačka Gračanica"},
+    image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp",
     coordinates: { lat: 42.7139, lng: 18.3583 },
     description: {
       de: "Diese serbisch-orthodoxe Kirche liegt auf dem Crkvina-Hügel über Trebinje. Sie ist eine originalgetreue Kopie des Klosters Gračanica im Kosovo und dient als Grabstätte für Jovan Dučić.",
@@ -611,9 +594,8 @@ image: "/poi-images/bosniaherzegovina-hercegovacka-gracanica-landmarks-v2.webp"
     id: "bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Museum für zeitgenössische Kunst der RS", hu: "Szerb Köztársaság Kortárs Művészeti Múzeuma", ro: "Muzeul de Artă Contemporană al RS", en: "Museum of Contemporary Art of RS",
-image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.webp"
-},
+    name: { de: "Museum für zeitgenössische Kunst der RS", hu: "Szerb Köztársaság Kortárs Művészeti Múzeuma", ro: "Muzeul de Artă Contemporană al RS", en: "Museum of Contemporary Art of RS"},
+    image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.webp",
     coordinates: { lat: 44.7731, lng: 17.1897 },
     description: {
       de: "Das Museum in Banja Luka ist im Gebäude des ehemaligen Hauptbahnhofs untergebracht. Es sammelt und präsentiert zeitgenössische Kunstwerke aus Bosnien und Herzegowina sowie international.",
@@ -646,9 +628,8 @@ image: "/poi-images/bosniaherzegovina-museum-contemporary-art-rs-landmarks-v2.we
     id: "bosniaherzegovina-gradacac-tower-landmarks-v2",
     parent: "BA",
     type: "tower",
-    name: { de: "Turm von Gradačac", hu: "Gradačaci torony", ro: "Turnul din Gradačac", en: "Tower of Gradačac",
-image: "/poi-images/bosniaherzegovina-gradacac-tower-landmarks-v2.webp"
-},
+    name: { de: "Turm von Gradačac", hu: "Gradačaci torony", ro: "Turnul din Gradačac", en: "Tower of Gradačac"},
+    image: "/poi-images/bosniaherzegovina-gradacac-tower-landmarks-v2.webp",
     coordinates: { lat: 44.8814, lng: 18.4286 },
     description: {
       de: "Dieser 18 Meter hohe Turm ist das Wahrzeichen der Stadt Gradačac. Er wurde vom lokalen Anführer Husein-kapetan Gradaščević als Teil einer Festungsanlage im 19. Jahrhundert erbaut.",
@@ -680,9 +661,8 @@ image: "/poi-images/bosniaherzegovina-gradacac-tower-landmarks-v2.webp"
     id: "bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Partisanenfriedhof Mostar", hu: "Partizán emléktemető", ro: "Cimitirul Memorial al Partizanilor", en: "Partisan Memorial Cemetery",
-image: "/poi-images/bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2.webp"
-},
+    name: { de: "Partisanenfriedhof Mostar", hu: "Partizán emléktemető", ro: "Cimitirul Memorial al Partizanilor", en: "Partisan Memorial Cemetery"},
+    image: "/poi-images/bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2.webp",
     coordinates: { lat: 43.3444, lng: 17.7983 },
     description: {
       de: "Dieses Denkmal in Mostar wurde zu Ehren der im Zweiten Weltkrieg gefallenen Partisanen errichtet. Die Anlage wurde vom Architekten Bogdan Bogdanović entworfen und erinnert an eine antike Nekropole.",
@@ -714,9 +694,8 @@ image: "/poi-images/bosniaherzegovina-partisan-memorial-cemetery-landmarks-v2.we
     id: "bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2",
     parent: "BA",
     type: "tower",
-    name: { de: "Uhrturm von Sarajevo", hu: "Szarajevói óratorony", ro: "Turnul cu ceas din Sarajevo", en: "Sarajevo Clock Tower",
-image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp"
-},
+    name: { de: "Uhrturm von Sarajevo", hu: "Szarajevói óratorony", ro: "Turnul cu ceas din Sarajevo", en: "Sarajevo Clock Tower"},
+    image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp",
     coordinates: { lat: 43.8594, lng: 18.4289 },
     description: {
       de: "Dieser osmanische Uhrturm befindet sich in der Nähe der Gazi-Husrev-Beg-Moschee in Sarajevo. Er zeigt die Zeit nach dem Mondkalender an, wobei der Tag bei Sonnenuntergang beginnt.",
@@ -749,9 +728,8 @@ image: "/poi-images/bosniaherzegovina-sahat-kula-sarajevo-landmarks-v2.webp"
     id: "bosniaherzegovina-war-child-museum-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Kriegskind-Museum", hu: "Háborús Gyermekkor Múzeuma", ro: "Muzeul Copilăriei în Război", en: "War Child Museum",
-image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp"
-},
+    name: { de: "Kriegskind-Museum", hu: "Háborús Gyermekkor Múzeuma", ro: "Muzeul Copilăriei în Război", en: "War Child Museum"},
+    image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp",
     coordinates: { lat: 43.8614, lng: 18.4278 },
     description: {
       de: "Dieses moderne Museum in Sarajevo erzählt die Geschichten von Kindern, die den Bosnienkrieg erlebt haben. Es zeigt persönliche Gegenstände und Zeugnisse der Überlebenden.",
@@ -784,9 +762,8 @@ image: "/poi-images/bosniaherzegovina-war-child-museum-landmarks-v2.webp"
     id: "bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Kaisermoschee", hu: "Császár-dzsámi", ro: "Moscheea Împăratului", en: "Emperor's Mosque",
-image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp"
-},
+    name: { de: "Kaisermoschee", hu: "Császár-dzsámi", ro: "Moscheea Împăratului", en: "Emperor's Mosque"},
+    image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp",
     coordinates: { lat: 43.8578, lng: 18.43 },
     description: {
       de: "Die Kaisermoschee ist die älteste Moschee in Sarajevo und wurde zu Ehren von Sultan Mehmed II. errichtet. Sie ist ein bedeutendes religiöses Zentrum und Sitz des Großmuftis.",
@@ -819,9 +796,8 @@ image: "/poi-images/bosniaherzegovina-emperors-mosque-sarajevo-landmarks-v2.webp
     id: "bosniaherzegovina-sarajevo-synagogue-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Synagoge von Sarajevo", hu: "Szarajevói zsinagóga", ro: "Sinagoga din Sarajevo", en: "Sarajevo Synagogue",
-image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp"
-},
+    name: { de: "Synagoge von Sarajevo", hu: "Szarajevói zsinagóga", ro: "Sinagoga din Sarajevo", en: "Sarajevo Synagogue"},
+    image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp",
     coordinates: { lat: 43.8569, lng: 18.4253 },
     description: {
       de: "Diese aschkenasische Synagoge in Sarajevo wurde im neomaurischen Stil erbaut. Sie ist die einzige heute noch aktive Synagoge in der Stadt und ein wichtiges Baudenkmal.",
@@ -854,9 +830,8 @@ image: "/poi-images/bosniaherzegovina-sarajevo-synagogue-landmarks-v2.webp"
     id: "bosniaherzegovina-muslibegovic-house-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Muslibegović-Haus", hu: "Muslibegović-ház", ro: "Casa Muslibegović", en: "Muslibegović House",
-image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp"
-},
+    name: { de: "Muslibegović-Haus", hu: "Muslibegović-ház", ro: "Casa Muslibegović", en: "Muslibegović House"},
+    image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp",
     coordinates: { lat: 43.3442, lng: 17.8131 },
     description: {
       de: "Dieses historische Wohnhaus in Mostar ist ein herausragendes Beispiel osmanischer Architektur aus dem 18. Jahrhundert. Es ist heute ein Museum und ein exklusives Hotel.",
@@ -889,9 +864,8 @@ image: "/poi-images/bosniaherzegovina-muslibegovic-house-landmarks-v2.webp"
     id: "bosniaherzegovina-jewish-museum-bih-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Jüdisches Museum", hu: "Bosznia-Hercegovinai Zsidó Múzeum", ro: "Muzeul Evreiesc din BiH", en: "Jewish Museum of Bosnia and Herzegovina",
-image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp"
-},
+    name: { de: "Jüdisches Museum", hu: "Bosznia-Hercegovinai Zsidó Múzeum", ro: "Muzeul Evreiesc din BiH", en: "Jewish Museum of Bosnia and Herzegovina"},
+    image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp",
     coordinates: { lat: 43.8594, lng: 18.4275 },
     description: {
       de: "Das Museum ist in der Alten Synagoge von Sarajevo untergebracht, dem ältesten jüdischen Sakralbau des Landes. Es dokumentiert die 450-jährige Geschichte der Juden in Bosnien.",
@@ -924,9 +898,8 @@ image: "/poi-images/bosniaherzegovina-jewish-museum-bih-landmarks-v2.webp"
     id: "bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2",
     parent: "BA",
     type: "monument",
-    name: { de: "Tvrtko-I.-Denkmal", hu: "I. Tvrtko emlékmű", ro: "Monumentul lui Tvrtko I", en: "Tvrtko I Monument",
-image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp"
-},
+    name: { de: "Tvrtko-I.-Denkmal", hu: "I. Tvrtko emlékmű", ro: "Monumentul lui Tvrtko I", en: "Tvrtko I Monument"},
+    image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp",
     coordinates: { lat: 43.8572, lng: 18.4144 },
     description: {
       de: "Dieses Bronzedenkmal in Sarajevo zeigt König Tvrtko I. Kotromanić, den bedeutendsten Herrscher des mittelalterlichen Bosniens. Er krönte sich 1377 zum ersten bosnischen König.",
@@ -959,9 +932,8 @@ image: "/poi-images/bosniaherzegovina-tvrtko-monument-sarajevo-landmarks-v2.webp
     id: "bosniaherzegovina-svrzos-house-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Svrzo-Haus", hu: "Svrzo-ház", ro: "Casa Svrzo", en: "Svrzo's House",
-image: "/poi-images/bosniaherzegovina-svrzos-house-landmarks-v2.webp"
-},
+    name: { de: "Svrzo-Haus", hu: "Svrzo-ház", ro: "Casa Svrzo", en: "Svrzo's House"},
+    image: "/poi-images/bosniaherzegovina-svrzos-house-landmarks-v2.webp",
     coordinates: { lat: 43.8619, lng: 18.4303 },
     description: {
       de: "Das Svrzo-Haus in Sarajevo ist ein typisches Beispiel für die Wohnkultur einer wohlhabenden muslimischen Familie im 18. und 19. Jahrhundert. Es besteht vollständig aus Holz und Lehm.",
@@ -993,9 +965,8 @@ image: "/poi-images/bosniaherzegovina-svrzos-house-landmarks-v2.webp"
   {id: "bosniaherzegovina-st-james-church-medjugorje-landmarks-v2",
     parent: "BA",
     type: "church",
-    name: { de: "Kirche St. Jakobus", hu: "Szent Jakab-templom", ro: "Biserica Sfântul Iacob", en: "Saint James Church",
-image: "/poi-images/bosniaherzegovina-st-james-church-medjugorje-landmarks-v2.webp"
-},
+    name: { de: "Kirche St. Jakobus", hu: "Szent Jakab-templom", ro: "Biserica Sfântul Iacob", en: "Saint James Church"},
+    image: "/poi-images/bosniaherzegovina-st-james-church-medjugorje-landmarks-v2.webp",
     coordinates: { lat: 43.1906, lng: 17.6769 },
     description: {
       de: "Die zentrale Pfarrkirche von Međugorje und ein bekannter katholischer Wallfahrtsort.",
@@ -1010,13 +981,24 @@ image: "/poi-images/bosniaherzegovina-st-james-church-medjugorje-landmarks-v2.we
       en: ["Međugorje", "Completed in 1969", "Two bell towers", "Pilgrimage center"],
     },
     imageHint: "Saint James Church Medjugorje twin towers facade",
+    descriptionAdvanced: {
+      de: "Die 1969 geweihte Pfarrkirche ist der Mittelpunkt des weltberühmten Wallfahrtsortes Medjugorje. Ihre markante Doppelturmfassade prägt das Ortsbild des bedeutenden Pilgerzentrums.",
+      hu: "Az 1969-ben felszentelt Szent Jakab-templom Medjugorje lelki központja. A két toronnyal rendelkező modern épület 1981 óta zarándokok millióit fogadja a jelenések helyszíneként.",
+      ro: "Biserica Sfântul Iacob, finalizată în 1969, este inima spirituală a localității Medjugorje. Edificiul cu două clopotnițe atrage milioane de pelerini anual începând cu anul 1981.",
+      en: "Completed in 1969, this parish church serves as the focal point for pilgrims visiting Medjugorje. Its iconic twin towers have become a global symbol of the reported Marian apparitions.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr der Kirche: 1969", "Offizieller Beginn der Visionen: 1981", "Anzahl der Glockentürme: 2", "Schutzpatron: Heiliger Jakobus der Ältere"],
+      hu: ["A templom felszentelése: 1969", "A jelenések kezdete: 1981. június 24.", "Harangtornyok száma: 2", "Védőszent: Idősebb Szent Jakab apostol"],
+      ro: ["Anul sfințirii bisericii: 1969", "Debutul aparițiilor mariane: 1981", "Număr de turnuri clopotniță: 2", "Hram: Sfântul Iacob cel Mare"],
+      en: ["Church consecration year: 1969", "Start of reported apparitions: 1981", "Number of bell towers: 2", "Patron saint: St. James the Greater"],
+    },
   },
   {id: "bosniaherzegovina-ali-pasha-mosque-landmarks-v2",
     parent: "BA",
     type: "church",
-    name: { de: "Ali-Pascha-Moschee", hu: "Ali pasa mecset", ro: "Moscheea Ali Pașa", en: "Ali Pasha Mosque",
-image: "/poi-images/bosniaherzegovina-ali-pasha-mosque-landmarks-v2.webp"
-},
+    name: { de: "Ali-Pascha-Moschee", hu: "Ali pasa mecset", ro: "Moscheea Ali Pașa", en: "Ali Pasha Mosque"},
+    image: "/poi-images/bosniaherzegovina-ali-pasha-mosque-landmarks-v2.webp",
     coordinates: { lat: 43.8583, lng: 18.4114 },
     description: {
       de: "Eine klassische osmanische Moschee in Sarajevo, bekannt für ihre harmonischen Proportionen.",
@@ -1031,13 +1013,24 @@ image: "/poi-images/bosniaherzegovina-ali-pasha-mosque-landmarks-v2.webp"
       en: ["Sarajevo", "Classical style", "Built in 1561", "National monument"],
     },
     imageHint: "Ali Pasha Mosque Sarajevo Ottoman architecture garden",
+    descriptionAdvanced: {
+      de: "Die 1561 erbaute Ali-Pascha-Moschee in Sarajevo repräsentiert die klassische osmanische Architektur. Ihre zentrale Kuppel und der historische Friedhof prägen das Stadtbild.",
+      hu: "Az 1561-ben Szarajevóban átadott Ali Pasa mecset a klasszikus oszmán építészet egyik kiemelkedő példája, amelynek udvarán 16. századi magas rangú vezetők síremlékei találhatók.",
+      ro: "Construită în 1561, Moscheea Ali Pașa din Sarajevo reflectă stilul otoman clasic, având o cupolă centrală și un cimitir istoric unde se odihnesc numeroși demnitari ai epocii.",
+      en: "Built in 1561, Sarajevo's Ali Pasha Mosque is a prime example of classical Ottoman design. It features a single dome and an adjacent historic cemetery housing prominent figures.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet in den Jahren 1560 und 1561", "Gestiftet vom Provinzgouverneur Hadim Ali Pascha", "Zentraler Kuppeldurchmesser von etwa 10 Metern", "Ausgewiesen als Nationaldenkmal 2005", "Friedhof mit Gräbern aus dem 16. Jahrhundert", "Schwere Beschädigungen während der Belagerung 1992–1995"],
+      hu: ["Építése 1560 és 1561 között zajlott", "A szarajevói központban, a Koševo patak mellett áll", "Egyetlen, ólomlemezekkel borított kupolája van", "A minaret magassága megközelíti a 30 métert", "2005-ben Bosznia nemzeti műemlékévé nyilvánították", "1560-ban elhunyt Hadim Ali pasa mauzóleuma is itt áll"],
+      ro: ["Finalizată integral între 1560 și 1561", "Finanțată din fondurile guvernatorului otoman local", "Înregistrată ca monument național în anul 2005", "Zidurile moscheii au grosimi ce depășesc un metru", "Curtea găzduiește pietre funerare otomane din 1561", "Minaretul cu o singură galerie a supraviețuit asediului"],
+      en: ["Constructed between the years 1560 and 1561", "Founded by Ottoman governor Hadim Ali Pasha", "Designated a National Monument of Bosnia in 2005", "Extensively repaired in 2004 after war damage", "The classic single-dome layout spans 10 meters wide", "Situated strategically near the city center of Sarajevo"],
+    },
   },
   {id: "bosniaherzegovina-history-museum-bih-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Historisches Museum von Bosnien", hu: "Bosznia-Hercegovina Történeti Múzeuma", ro: "Muzeul de Istorie al Bosniei și Herțegovinei", en: "History Museum of Bosnia and Herzegovina",
-image: "/poi-images/bosniaherzegovina-history-museum-bih-landmarks-v2.webp"
-},
+    name: { de: "Historisches Museum von Bosnien", hu: "Bosznia-Hercegovina Történeti Múzeuma", ro: "Muzeul de Istorie al Bosniei și Herțegovinei", en: "History Museum of Bosnia and Herzegovina"},
+    image: "/poi-images/bosniaherzegovina-history-museum-bih-landmarks-v2.webp",
     coordinates: { lat: 43.8553, lng: 18.4019 },
     description: {
       de: "Ein bedeutendes Museum in Sarajevo, das die Geschichte des Landes von der Antike bis heute zeigt.",
@@ -1052,13 +1045,24 @@ image: "/poi-images/bosniaherzegovina-history-museum-bih-landmarks-v2.webp"
       en: ["Sarajevo", "Founded in 1945", "Siege exhibition", "Modernist architecture"],
     },
     imageHint: "History Museum of Bosnia and Herzegovina Sarajevo building tanks",
+    descriptionAdvanced: {
+      de: "Das 1945 gegründete Historische Museum in Sarajevo bewahrt über 400.000 Artefakte. Sein 1963 errichtetes modernistisches Gebäude dokumentiert die komplexe Landesgeschichte.",
+      hu: "A Szarajevóban működő, 1945-ben alapított Történeti Múzeum 400 000 műtárgyat őriz. Az 1963-as modernista épület kiállításai az ország 20. századi konfliktusait mutatják be.",
+      ro: "Fondat în 1945, Muzeul de Istorie din Sarajevo adăpostește circa 400.000 de artefacte. Clădirea sa modernistă, inaugurată în 1963, prezintă evoluția și conflictele regiunii.",
+      en: "Established in 1945, the History Museum in Sarajevo holds 400,000 items. Housed in a 1963 modernist structure, its collections focus heavily on 20th-century local conflicts.",
+    },
+    factsAdvanced: {
+      de: ["Ursprüngliche Museumsgründung im November 1945", "Heutiges modernistisches Gebäude 1963 eröffnet", "Ausstellungsfläche umfasst rund 3.000 Quadratmeter", "Die Sammlung besteht aus etwa 400.000 Artefakten", "Dauerausstellung zur Belagerung von Sarajevo (1992–1996)", "Entworfen vom Architektentrio Šmidihen, Horvat und Magaš"],
+      hu: ["Az intézményt 1945. november 13-án alapították", "Az épületet 1963-ban egy új modernista terv alapján adták át", "A múzeum gyűjteménye meghaladja a 400 000 darabot", "A kiállítóterek alapterülete 3000 négyzetméter feletti", "A gyűjtemény 300 000 archív fényképet és dokumentumot őriz", "Legfontosabb kiállítása Szarajevó 1425 napos ostromát mutatja be"],
+      ro: ["Instituția muzeală a fost fondată în noiembrie 1945", "Structura actuală modernistă a fost inaugurată în 1963", "Patrimoniul muzeal depășește 400.000 de piese", "Spațiul expozițional acoperă peste 3.000 de metri pătrați", "Fațada clădirii este marcată de treptele mari suspendate", "O colecție vastă detaliază asediul de 1.425 de zile al orașului"],
+      en: ["Officially founded as a national institution in 1945", "Current modernist building completed in 1963", "The vast archive contains roughly 400,000 historical items", "Features an exhibition on the 1,425-day siege of Sarajevo", "Designed by Croatian architects Magaš, Šmidihen, and Horvat", "Over 300,000 photographs document the 20th century conflicts"],
+    },
   },
   {id: "bosniaherzegovina-zavala-monastery-landmarks-v2",
     parent: "BA",
     type: "landmark",
-    name: { de: "Kloster Zavala", hu: "Zavala kolostor", ro: "Mănăstirea Zavala", en: "Zavala Monastery",
-image: "/poi-images/bosniaherzegovina-zavala-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Zavala", hu: "Zavala kolostor", ro: "Mănăstirea Zavala", en: "Zavala Monastery"},
+    image: "/poi-images/bosniaherzegovina-zavala-monastery-landmarks-v2.webp",
     coordinates: { lat: 42.8489, lng: 17.9786 },
     description: {
       de: "Ein altes orthodoxes Kloster, das teilweise in den Felsen über dem Popovo Polje gebaut wurde.",
@@ -1073,13 +1077,24 @@ image: "/poi-images/bosniaherzegovina-zavala-monastery-landmarks-v2.webp"
       en: ["Popovo Polje", "Orthodox", "13th century", "Cave monastery"],
     },
     imageHint: "Zavala Monastery rock church Popovo Polje",
+    descriptionAdvanced: {
+      de: "Das im 16. Jahrhundert erstmals erwähnte orthodoxe Kloster liegt malerisch am Rande des Popovo Polje. Es ist berühmt für seine Höhlenkirche und die Fresken von Georgije Mitrofanović.",
+      hu: "A Popovo-mező szélén fekvő, 1514-ben említett ortodox kolostor különlegessége a sziklafalba épített templom. Belterét Georgije Mitrofanović 1619-ben készült freskói díszítik.",
+      ro: "Mănăstirea Zavala, menționată prima dată în 1514, este un lăcaș ortodox situat la poalele dealului Ostrog. Biserica sa este parțial săpată în stâncă și adăpostește fresce din 1619.",
+      en: "First mentioned in 1514, this Serbian Orthodox monastery is partially built into the cliffside. It is renowned for its 1619 frescoes painted by the master Georgije Mitrofanović.",
+    },
+    factsAdvanced: {
+      de: ["Erste schriftliche Erwähnung: 1514", "Entstehungsjahr der Fresken: 1619", "Künstler: Georgije Mitrofanović", "Lage: Südwestlicher Rand des Popovo Polje"],
+      hu: ["Első írásos említés éve: 1514", "Freskók készítésének éve: 1619", "Alkotóművész: Georgije Mitrofanović", "Elhelyezkedés: A Popovo-mező széle"],
+      ro: ["Prima mențiune documentară: 1514", "Anul pictării frescelor: 1619", "Pictor principal: Georgije Mitrofanović", "Tip: Mănăstire rupestră ortodoxă"],
+      en: ["First written record: 1514", "Frescoes completion year: 1619", "Lead artist: Georgije Mitrofanović", "Location: Edge of Popovo Polje field"],
+    },
   },
   {id: "bosniaherzegovina-zitomislic-monastery-landmarks-v2",
     parent: "BA",
     type: "landmark",
-    name: { de: "Kloster Žitomislić", hu: "Žitomislić kolostor", ro: "Mănăstirea Žitomislić", en: "Žitomislić Monastery",
-image: "/poi-images/bosniaherzegovina-zitomislic-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Žitomislić", hu: "Žitomislić kolostor", ro: "Mănăstirea Žitomislić", en: "Žitomislić Monastery"},
+    image: "/poi-images/bosniaherzegovina-zitomislic-monastery-landmarks-v2.webp",
     coordinates: { lat: 43.195, lng: 17.7778 },
     description: {
       de: "Ein bedeutendes serbisch-orthodoxes Kloster im Neretva-Tal, südlich von Mostar.",
@@ -1094,13 +1109,24 @@ image: "/poi-images/bosniaherzegovina-zitomislic-monastery-landmarks-v2.webp"
       en: ["Neretva valley", "Orthodox", "Founded in 1566", "Winemaking"],
     },
     imageHint: "Zitomislic Monastery Neretva valley Mostar",
+    descriptionAdvanced: {
+      de: "Das 1566 gegründete Kloster Žitomislić nahe Mostar ist ein serbisch-orthodoxes Zentrum. Nach Zerstörungen 1941 und 1992 wurde die Anlage bis 2005 originalgetreu rekonstruiert.",
+      hu: "Az 1566-ban alapított Žitomislić kolostor a szerb ortodoxok fontos hercegovinai központja. Az 1941-ben és 1992-ben megsemmisült épületegyüttest 2005-re állították helyre.",
+      ro: "Mănăstirea ortodoxă sârbă Žitomislić, fondată în 1566 lângă Mostar, a suferit distrugeri masive în 1941 și 1992. Complexul a fost reconstruit integral și resfințit în anul 2005.",
+      en: "Founded in 1566 near Mostar, the Serbian Orthodox Žitomislić Monastery was destroyed twice during the 20th century. A complete reconstruction restored its original form in 2005.",
+    },
+    factsAdvanced: {
+      de: ["Erste schriftliche Erwähnung stammt aus dem Jahr 1566", "Liegt im Neretva-Tal, südlich der Stadt Mostar", "Komplexe Zerstörungen durch die Ustascha im Juni 1941", "Erneute vollständige Sprengung im Jahr 1992", "Offizielle Wiedereinweihung im Mai 2005", "Beherbergte historische Manuskripte aus dem 16. Jahrhundert"],
+      hu: ["Az ortodox kolostor alapítási engedélyét 1566-ban adták ki", "Mostartól 15 kilométerre délre, a Neretva völgyében épült", "A templomot a Szűzanya Angyali Üdvözletének szentelték", "1941 júniusában a szerzeteseket meggyilkolták", "Az 1992-es pusztítás után 2002 és 2005 között újjáépült", "Eredetileg értékes 16-17. századi ikonokat és kéziratokat őrzött"],
+      ro: ["Fondată prin decret otoman la 15 mai 1566", "Situată la aproximativ 15 km sud de orașul Mostar", "Dedicată Bunei Vestiri a Maicii Domnului", "Incendiată și complet distrusă în 1941 și 1992", "Procesul de reconstrucție s-a desfășurat între 2002 și 2005", "Reședința a oferit adăpost unor icoane rare din secolul XVI"],
+      en: ["Construction permitted by an Ottoman decree in 1566", "Located roughly 15 kilometers south of Mostar", "Dedicated specifically to the Annunciation of the Virgin", "Destroyed in 1941 and dynamically rebuilt by 2005", "The library once contained dozens of 16th-century manuscripts", "Supported by the local Miloradović-Hrabren family upon founding"],
+    },
   },
   {id: "bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2",
     parent: "BA",
     type: "church",
-    name: { de: "Karađoz-beg-Moschee", hu: "Karađoz-bég mecset", ro: "Moscheea Karađoz Bey", en: "Karadjoz Bey Mosque",
-image: "/poi-images/bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2.webp"
-},
+    name: { de: "Karađoz-beg-Moschee", hu: "Karađoz-bég mecset", ro: "Moscheea Karađoz Bey", en: "Karadjoz Bey Mosque"},
+    image: "/poi-images/bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2.webp",
     coordinates: { lat: 43.3422, lng: 17.8139 },
     description: {
       de: "Die größte und prächtigste Moschee in der Region Herzegowina, gelegen in Mostar.",
@@ -1115,13 +1141,24 @@ image: "/poi-images/bosniaherzegovina-karadjoz-bey-mosque-landmarks-v2.webp"
       en: ["Mostar", "Built in 1557", "Mimar Sinan", "National monument"],
     },
     imageHint: "Karadjoz Bey Mosque Mostar minaret dome",
+    descriptionAdvanced: {
+      de: "Die 1557 fertiggestellte Moschee gilt als das bedeutendste osmanische Bauwerk in der Herzegowina. Ihr hoher Minarett und die prächtige Kuppel wurden von Mimar Sinan entworfen.",
+      hu: "Az 1557-ben befejezett mecset Hercegovina legjelentősebb oszmán kori vallási építménye. A Mimar Sinan iskolájához kötődő épület rendelkezik a régió legmagasabb minaretjével.",
+      ro: "Construită în 1557 după planurile arhitectului Mimar Sinan, această moschee este cea mai mare din Herțegovina. Minaretul său înalt oferă o panoramă asupra orașului vechi Mostar.",
+      en: "Completed in 1557, this mosque is a masterpiece of Ottoman architecture designed by Mimar Sinan. It features the tallest minaret in the region and a large, lead-covered dome.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1557", "Architekt: Mimar Sinan", "Höhe des Minaretts: ca. 35 Meter", "Ort: Altstadt von Mostar"],
+      hu: ["Építés befejezése: 1557", "Építész: Mimar Sinan", "Minaret magassága: kb. 35 méter", "Helyszín: Mostar óvárosa"],
+      ro: ["Anul construcției: 1557", "Arhitect: Mimar Sinan", "Înălțimea minaretului: 34,5 metri", "Stil: Arhitectură clasică otomană"],
+      en: ["Year of completion: 1557", "Architect: Mimar Sinan", "Minaret height: 34.5 meters", "Location: Old Town of Mostar"],
+    },
   },
   {id: "bosniaherzegovina-banja-luka-city-hall-landmarks-v2",
     parent: "BA",
     type: "palace",
-    name: { de: "Rathaus von Banja Luka", hu: "Banja Luka városháza", ro: "Primăria din Banja Luka", en: "Banja Luka City Hall",
-image: "/poi-images/bosniaherzegovina-banja-luka-city-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Banja Luka", hu: "Banja Luka városháza", ro: "Primăria din Banja Luka", en: "Banja Luka City Hall"},
+    image: "/poi-images/bosniaherzegovina-banja-luka-city-hall-landmarks-v2.webp",
     coordinates: { lat: 44.7722, lng: 17.1925 },
     description: {
       de: "Ein repräsentatives Verwaltungsgebäude im Zentrum von Banja Luka, Sitz der Stadtverwaltung.",
@@ -1136,13 +1173,24 @@ image: "/poi-images/bosniaherzegovina-banja-luka-city-hall-landmarks-v2.webp"
       en: ["Banja Luka", "Eclecticism", "Built in 1931", "Administrative seat"],
     },
     imageHint: "Banja Luka City Hall administration building facade",
+    descriptionAdvanced: {
+      de: "Das 1931 erbaute Rathaus von Banja Luka verbindet neoklassizistische Elemente mit lokaler Tradition. Es dient als Sitz der Stadtverwaltung und Schauplatz offizieller Zeremonien.",
+      hu: "Banja Luka 1931-ben épült városházája a hagyományos építészeti elemeket ötvözi. Az impozáns létesítmény a város adminisztratív központja és hivatalos ceremóniák helyszíne.",
+      ro: "Ridicată în 1931, clădirea Primăriei din Banja Luka este centrul administrației locale. Edificiul găzduiește birouri oficiale și săli pentru evenimente decizionale.",
+      en: "Inaugurated in 1931, Banja Luka City Hall is the administrative core of the city. It houses local government offices and serves as a formal venue for significant civic ceremonies.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau des Verwaltungskomplexes startete im Jahr 1931", "Offizielle Eröffnung erfolgte am 8. November 1932", "Die Fassade besteht aus lokalen Steinmaterialien", "Im Zweiten Weltkrieg durch Bomben stark beschädigt", "Die Grundfläche umfasst mehrere Tausend Quadratmeter", "Zentraler Sitz des Bürgermeisters von Banja Luka"],
+      hu: ["Az építkezés 1931 márciusában kezdődött Banja Lukában", "Az épületet hivatalosan 1932. november 8-án adták át", "A Banski Dvor palotával egy időben, hasonló stílusban épült", "A közigazgatási feladatok mellett kulturális események helyszíne is", "Homlokzatát neoreneszánsz és középkori szerb motívumok díszítik", "Az 1969-es pusztító földrengés során komoly károkat szenvedett"],
+      ro: ["Construcția clădirii administrative a început în anul 1931", "Inaugurarea sa oficială a avut loc la sfârșitul lui 1932", "Arhitectura fațadei prezintă puternice accente neorenascentiste", "Clădirea a suferit daune structurale la cutremurul din 1969", "Include săli vaste de recepție pentru vizite diplomatice", "Găzduiește sediul central al primarului și consiliului local"],
+      en: ["Foundation works for the administration complex began in 1931", "Formally opened to the local public in November 1932", "The exterior facade heavily incorporates local stonework", "Severely damaged by a 6.4 magnitude earthquake in 1969", "Now functions as the primary hub for the city mayor and council", "The large representative halls are used for state ceremonies"],
+    },
   },
   {id: "bosniaherzegovina-art-gallery-bih-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Kunstgalerie von Bosnien", hu: "Bosznia-Hercegovina Művészeti Galériája", ro: "Galeria de Artă a Bosniei și Herțegovinei", en: "Art Gallery of Bosnia and Herzegovina",
-image: "/poi-images/bosniaherzegovina-art-gallery-bih-landmarks-v2.webp"
-},
+    name: { de: "Kunstgalerie von Bosnien", hu: "Bosznia-Hercegovina Művészeti Galériája", ro: "Galeria de Artă a Bosniei și Herțegovinei", en: "Art Gallery of Bosnia and Herzegovina"},
+    image: "/poi-images/bosniaherzegovina-art-gallery-bih-landmarks-v2.webp",
     coordinates: { lat: 43.8586, lng: 18.4239 },
     description: {
       de: "Die wichtigste Kunstinstitution des Landes, die moderne und zeitgenössische bosnische Kunst ausstellt.",
@@ -1157,13 +1205,24 @@ image: "/poi-images/bosniaherzegovina-art-gallery-bih-landmarks-v2.webp"
       en: ["Sarajevo", "Founded in 1946", "6,000 artworks", "Central location"],
     },
     imageHint: "Art Gallery of Bosnia and Herzegovina Sarajevo facade",
+    descriptionAdvanced: {
+      de: "Die 1946 gegründete Nationalgalerie in Sarajevo beherbergt über 6.000 Kunstwerke. Das Gebäude im österreichisch-ungarischen Stil wurde ursprünglich 1912 als Kaufhaus errichtet.",
+      hu: "Az 1946-ban alapított galéria Bosznia-Hercegovina legfontosabb képzőművészeti gyűjteménye. Az 1912-ben emelt épület több mint 6000 alkotásnak ad otthont a szarajevói belvárosban.",
+      ro: "Fondată în 1946, Galeria din Sarajevo deține o colecție de peste 6.000 de piese. Clădirea, construită în 1912, este un exemplu tipic de arhitectură austro-ungară.",
+      en: "Established in 1946, this gallery preserves over 6,000 works of art spanning various periods. The building itself dates back to 1912 and was designed during the Austro-Hungarian era.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr der Galerie: 1946", "Baujahr des Gebäudes: 1912", "Bestand: Über 6.000 Exponate", "Standort: Sarajevo, Zentrum"],
+      hu: ["Galéria alapítási éve: 1946", "Épület építési éve: 1912", "Gyűjtemény mérete: 6000+ műtárgy", "Helyszín: Szarajevó belvárosa"],
+      ro: ["Anul înființării instituției: 1946", "Anul construcției clădirii: 1912", "Mărimea colecției: peste 6.000 piese", "Oraș: Sarajevo"],
+      en: ["Gallery founding year: 1946", "Building construction year: 1912", "Collection size: 6,000+ artworks", "City: Sarajevo"],
+    },
   },
   {id: "bosniaherzegovina-biscevic-house-landmarks-v2",
     parent: "BA",
     type: "museum",
-    name: { de: "Bišćević-Haus", hu: "Bišćević-ház", ro: "Casa Bišćević", en: "Bišćević House",
-image: "/poi-images/bosniaherzegovina-biscevic-house-landmarks-v2.webp"
-},
+    name: { de: "Bišćević-Haus", hu: "Bišćević-ház", ro: "Casa Bišćević", en: "Bišćević House"},
+    image: "/poi-images/bosniaherzegovina-biscevic-house-landmarks-v2.webp",
     coordinates: { lat: 43.3414, lng: 17.8122 },
     description: {
       de: "Eines der besterhaltenen osmanischen Wohnhäuser in Mostar, direkt am Ufer der Neretva gelegen.",
@@ -1178,13 +1237,24 @@ image: "/poi-images/bosniaherzegovina-biscevic-house-landmarks-v2.webp"
       en: ["Mostar", "17th century", "Turkish house", "Neretva bank"],
     },
     imageHint: "Biscevic House Mostar Turkish house Neretva river",
+    descriptionAdvanced: {
+      de: "Das 1635 in Mostar erbaute Bišćević-Haus zeigt osmanische Wohnkultur. Sein markantester Bauteil ist der hölzerne Erker, der auf Säulen über den Fluss Neretva hinausragt.",
+      hu: "Az 1635-ben épült mosztari Bišćević-ház az oszmán lakóépítészet kiemelkedő példája. A Neretva folyó fölé nyúló, oszlopokon nyugvó fa zárt erkélye a korabeli életmódot tükrözi.",
+      ro: "Ridicată în 1635 la Mostar, Casa Bišćević păstrează aerul locuințelor otomane. Un balcon de lemn sprijinit pe piloni înalți iese în afara malului, suspendat deasupra Neretvei.",
+      en: "Constructed in 1635, Mostar's Bišćević House preserves traditional Ottoman domestic layout. It is renowned for its wooden corner room supported by pillars over the Neretva River.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet im Jahr 1635 unter osmanischer Herrschaft", "Das Gebäude liegt an der Bišćevića-Straße in Mostar", "Der auskragende Holzerker wird von zwei 8 Meter hohen Säulen gestützt", "Im Innenraum finden sich traditionelle geschnitzte Holzdecken", "Der von hohen Mauern umgebene Innenhof schützte die Privatsphäre", "Originale Teppiche und Kupferwaren aus dem 17. Jahrhundert erhalten"],
+      hu: ["A lakóház 1635-ben épült az oszmán korszak idején", "A Neretva folyó partján, Mostar keleti részén található", "Zárt faerkélyét két darab, mintegy 8 méter magas kőoszlop tartja", "A faragott famennyezetek a 17. századi mesterségbeli tudást őrzik", "Az épület udvarát magas kőfalak vették körül a magánszféra védelmében", "A szobákat eredeti keleti szőnyegek és réz edények díszítik"],
+      ro: ["Ridicată în anul 1635 pe malul stâng al râului Neretva", "Denumită adesea Bišćevića ćošak pentru colțul său proeminent", "Balconul etajului superior este sprijinit pe doi stâlpi de 8 metri", "Camerele interioare păstrează tavane din lemn bogat sculptate", "Curtea pavată include o fântână tradițională din piatră", "Colecția internă include covoare orientale și ustensile din cupru"],
+      en: ["Constructed in 1635 during the Ottoman administration of Mostar", "Widely known as Bišćevića ćošak due to its projecting corner", "The wooden upper room is supported by twin 8-meter stone pillars", "The interior features authentic carved wooden ceiling panels", "The high walled courtyard ensured complete family privacy", "Now open as a museum displaying 17th-century household artifacts"],
+    },
   },
   {id: "bosniaherzegovina-tavna-monastery-landmarks-v2",
     parent: "BA",
     type: "landmark",
-    name: { de: "Kloster Tavna", hu: "Tavna kolostor", ro: "Mănăstirea Tavna", en: "Tavna Monastery",
-image: "/poi-images/bosniaherzegovina-tavna-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Tavna", hu: "Tavna kolostor", ro: "Mănăstirea Tavna", en: "Tavna Monastery"},
+    image: "/poi-images/bosniaherzegovina-tavna-monastery-landmarks-v2.webp",
     coordinates: { lat: 44.6033, lng: 19.0111 },
     description: {
       de: "Ein historisches orthodoxes Kloster in der Nähe von Bijeljina, bekannt für seine spirituelle Bedeutung.",
@@ -1199,5 +1269,17 @@ image: "/poi-images/bosniaherzegovina-tavna-monastery-landmarks-v2.webp"
       en: ["Bijeljina region", "Orthodox", "Medieval roots", "Beautiful natural setting"],
     },
     imageHint: "Tavna Monastery Bijeljina Orthodox church",
+    descriptionAdvanced: {
+      de: "Im 14. Jahrhundert nahe Bijeljina gegründet, ist das Kloster Tavna ein Erbe der Nemanjić-Dynastie. Die historische Anlage bewahrt wertvolle Fresken und religiöse Manuskripte.",
+      hu: "A Bijeljina melletti Tavna kolostort a 14. században alapították. A Nemanjić-dinasztiához köthető épület a háborús pusztítások ellenére is őriz történelmi freskókat.",
+      ro: "Înființată în secolul XIV lângă Bijeljina, Mănăstirea Tavna aparține dinastiei Nemanjić. Lăcașul reconstruit găzduiește picturi murale vechi și piese ecleziastice importante.",
+      en: "Founded in the 14th century near Bijeljina, Tavna Monastery is linked to the Nemanjić dynasty. The resilient site preserves medieval frescoes despite extensive wartime destruction.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet in der ersten Hälfte des 14. Jahrhunderts", "Zugeschrieben den Söhnen von König Stefan Dragutin", "Befindet sich nahe der Stadt Bijeljina in der Region Semberija", "Die Dreifaltigkeitskirche ist das Zentrum der Klosteranlage", "Während der osmanischen Zeit mehrfach zerstört und verlassen", "Beherbergt heute seltene Fresken aus frühorthodoxer Zeit"],
+      hu: ["A kolostort a 14. század elején alapították a Nemanjić uralkodók", "Bijeljina városától mintegy 18 kilométerre délre fekszik", "A központi épület a Szentháromságnak szentelt kőtemplom", "A második világháború alatt, 1941-ben az usztasák felgyújtották", "Az újjáépítések ellenére több eredeti középkori freskórészlet megmaradt", "A 16. században az ortodox hitélet egyik legfőbb regionális bázisa volt"],
+      ro: ["Înființată în primele decenii ale secolului al XIV-lea", "Atribuită fiilor regelui sârb Stefan Dragutin din familia Nemanjić", "Situată la aproximativ 18 kilometri de orașul Bijeljina", "Biserica principală are hramul Sfintei Treimi", "Distrusă și incendiată de trupele inamice în anul 1941", "Fragmente din picturile murale medievale au supraviețuit până azi"],
+      en: ["Founded in the early 14th century by the Nemanjić dynasty", "Located in the Semberija region, 18 kilometers from Bijeljina", "The central stone church is dedicated to the Holy Trinity", "Repeatedly burned and abandoned during early Ottoman rule", "Severely attacked and torched by Ustaše forces in 1941", "Features surviving medieval fresco fragments within the main apse"],
+    },
   }
 ];

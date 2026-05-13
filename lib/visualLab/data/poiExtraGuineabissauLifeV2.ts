@@ -11,9 +11,8 @@ export const poiExtraGuineabissauLifeV2: POI[] = [
       de: "Salzwasser-Nilpferde-Reservat Orango",
       hu: "Orango sós vízi víziló rezervátum",
       ro: "Rezervația de hipopotami de apă sărată Orango",
-      en: "Orango Saltwater Hippo Sanctuary",
-image: "/poi-images/orango-nilpferde-life-v2.webp"
-},
+      en: "Orango Saltwater Hippo Sanctuary"},
+    image: "/poi-images/orango-nilpferde-life-v2.webp",
     description: {
       de: "Einzigartiges Schutzgebiet auf der Insel Orango, in dem Nilpferde im Brack- und Salzwasser leben.",
       hu: "Egyedülálló védett terület Orango szigetén, ahol a vízilovak brakk- és sós vízben élnek.",
@@ -67,9 +66,8 @@ image: "/poi-images/orango-nilpferde-life-v2.webp"
       de: "Schimpansen-Habitat Cantanhez",
       hu: "Cantanhez csimpánz élőhely",
       ro: "Habitatul de cimpanzei Cantanhez",
-      en: "Cantanhez Chimpanzee Habitat",
-image: "/poi-images/cantanhez-schimpansen-life-v2.webp"
-},
+      en: "Cantanhez Chimpanzee Habitat"},
+    image: "/poi-images/cantanhez-schimpansen-life-v2.webp",
     description: {
       de: "Die letzte Hochburg für wild lebende Schimpansen in Guinea-Bissau, eingebettet in dichten Regenwald.",
       hu: "A vadon élő csimpánzok utolsó bástyája Bissau-Guineában, sűrű esőerdőbe ágyazva.",
@@ -123,9 +121,8 @@ image: "/poi-images/cantanhez-schimpansen-life-v2.webp"
       de: "Nistplatz der Grünen Meeresschildkröten Poilão",
       hu: "Poilão közönséges levesteknős fészkelőhely",
       ro: "Locul de cuibărit al țestoaselor verzi Poilão",
-      en: "Poilão Green Sea Turtle Nesting Site",
-image: "/poi-images/poilao-schildkroeten-life-v2.webp"
-},
+      en: "Poilão Green Sea Turtle Nesting Site"},
+    image: "/poi-images/poilao-schildkroeten-life-v2.webp",
     description: {
       de: "Einer der weltweit wichtigsten Nistplätze für Grüne Meeresschildkröten auf einer heiligen Insel.",
       hu: "A világ egyik legfontosabb közönséges levesteknős fészkelőhelye egy szent szigeten.",
@@ -180,9 +177,8 @@ image: "/poi-images/poilao-schildkroeten-life-v2.webp"
       de: "Meeresvogel-Kolonien João Vieira",
       hu: "João Vieira tengeri madárkolóniák",
       ro: "Coloniile de păsări marine João Vieira",
-      en: "João Vieira Seabird Colonies",
-image: "/poi-images/joao-vieira-voegel-life-v2.webp"
-},
+      en: "João Vieira Seabird Colonies"},
+    image: "/poi-images/joao-vieira-voegel-life-v2.webp",
     description: {
       de: "Wichtige Nist- und Ruheplätze für zahlreiche Seevögel im Nationalpark João Vieira e Poilão.",
       hu: "Fontos fészkelő- és pihenőhely számos tengeri madár számára a João Vieira e Poilão Nemzeti Parkban.",
@@ -237,9 +233,8 @@ image: "/poi-images/joao-vieira-voegel-life-v2.webp"
       de: "Vogelschutzgebiet Cufada-Lagune",
       hu: "Cufada-lagúna madárvédelmi körzet",
       ro: "Sanctuarul de păsări din Laguna Cufada",
-      en: "Cufada Lagoon Bird Sanctuary",
-image: "/poi-images/cufada-voegel-life-v2.webp"
-},
+      en: "Cufada Lagoon Bird Sanctuary"},
+    image: "/poi-images/cufada-voegel-life-v2.webp",
     description: {
       de: "Ein bedeutendes Feuchtgebiet, das Tausenden von Wasservögeln als Lebensraum dient.",
       hu: "Jelentős vizes élőhely, amely vízi madarak ezreinek szolgál lakóhelyül.",
@@ -294,9 +289,8 @@ image: "/poi-images/cufada-voegel-life-v2.webp"
       de: "Seekuh-Reservat Rio Cacheu",
       hu: "Rio Cacheu lamantin rezervátum",
       ro: "Rezervația de lamantini de pe Rio Cacheu",
-      en: "Rio Cacheu Manatee Sanctuary",
-image: "/poi-images/cacheu-seekuh-life-v2.webp"
-},
+      en: "Rio Cacheu Manatee Sanctuary"},
+    image: "/poi-images/cacheu-seekuh-life-v2.webp",
     description: {
       de: "Die Mangrovenwälder des Rio Cacheu bieten einen der letzten sicheren Rückzugsorte für afrikanische Seekühe.",
       hu: "A Rio Cacheu mangroveerdei az afrikai lamantinok egyik utolsó biztonságos menedékét nyújtják.",
@@ -351,9 +345,8 @@ image: "/poi-images/cacheu-seekuh-life-v2.webp"
       de: "Delfin-Gewässer des Bijagós-Archipels",
       hu: "A Bijagós-szigetvilág delfin-vizei",
       ro: "Apele cu delfini din Arhipelagul Bijagós",
-      en: "Dolphins of the Bijagós Archipelago",
-image: "/poi-images/bijagos-delfine-life-v2.webp"
-},
+      en: "Dolphins of the Bijagós Archipelago"},
+    image: "/poi-images/bijagos-delfine-life-v2.webp",
     description: {
       de: "Die flachen Küstengewässer um die Inseln sind bekannt für ihre Populationen von Großen Tümmlern und Kamerun-Delfinen.",
       hu: "A szigetek körüli sekély parti vizek ismertek a palackorrú delfinek és kameruni delfinek populációiról.",
@@ -408,9 +401,8 @@ image: "/poi-images/bijagos-delfine-life-v2.webp"
       de: "Cashew-Plantagen von Bafatá",
       hu: "Bafatá kesudió ültetvények",
       ro: "Plantațiile de caju din Bafatá",
-      en: "Cashew Plantations of Bafatá",
-image: "/poi-images/bafata-cashew-life-v2.webp"
-},
+      en: "Cashew Plantations of Bafatá"},
+    image: "/poi-images/bafata-cashew-life-v2.webp",
     description: {
       de: "Bafatá ist das Zentrum der Cashew-Produktion, des wichtigsten Exportguts von Guinea-Bissau.",
       hu: "Bafatá a kesudió-termelés központja, amely Bissau-Guinea legfontosabb exportterméke.",
@@ -465,9 +457,8 @@ image: "/poi-images/bafata-cashew-life-v2.webp"
       de: "Erdnuss-Farmen der Oio-Region",
       hu: "Oio régió földimogyoró farmjai",
       ro: "Fermele de arahide din regiunea Oio",
-      en: "Oio Region Peanut Farms",
-image: "/poi-images/oio-erdnuss-life-v2.webp"
-},
+      en: "Oio Region Peanut Farms"},
+    image: "/poi-images/oio-erdnuss-life-v2.webp",
     description: {
       de: "Die fruchtbaren Böden von Oio sind bekannt für den Anbau von Erdnüssen, einem traditionellen Grundnahrungsmittel.",
       hu: "Oio termékeny földjei a földimogyoró termesztéséről ismertek, amely hagyományos alapélelmiszer.",
@@ -522,9 +513,8 @@ image: "/poi-images/oio-erdnuss-life-v2.webp"
       de: "Reisterrassen von Tombali",
       hu: "Tombali rizsteraszok",
       ro: "Terasele de orez din Tombali",
-      en: "Tombali Rice Terraces",
-image: "/poi-images/tombali-reis-life-v2.webp"
-},
+      en: "Tombali Rice Terraces"},
+    image: "/poi-images/tombali-reis-life-v2.webp",
     description: {
       de: "Im Süden des Landes prägen kunstvoll angelegte Reisfelder die Küstenlandschaft und Mangrovensümpfe.",
       hu: "Az ország déli részén művészien kialakított rizsföldek jellemzik a part menti tájat és a mangrove mocsarakat.",
@@ -579,9 +569,8 @@ image: "/poi-images/tombali-reis-life-v2.webp"
       de: "Ölpalm-Wälder von Quínara",
       hu: "Quínara olajpálma erdők",
       ro: "Pădurile de palmieri de ulei din Quínara",
-      en: "Quínara Oil Palm Groves",
-image: "/poi-images/quinara-oelpalm-life-v2.webp"
-},
+      en: "Quínara Oil Palm Groves"},
+    image: "/poi-images/quinara-oelpalm-life-v2.webp",
     description: {
       de: "Die Region Quínara ist reich an wild wachsenden und kultivierten Ölpalmen, die für die lokale Wirtschaft entscheidend sind.",
       hu: "Quínara régió gazdag vadon növő és termesztett olajpálmákban, amelyek döntő fontosságúak a helyi gazdaság számára.",
@@ -636,9 +625,8 @@ image: "/poi-images/quinara-oelpalm-life-v2.webp"
       de: "Mango-Haine von Biombo",
       hu: "Biombo mangóligetek",
       ro: "Livezile de mango din Biombo",
-      en: "Biombo Mango Groves",
-image: "/poi-images/biombo-mango-life-v2.webp"
-},
+      en: "Biombo Mango Groves"},
+    image: "/poi-images/biombo-mango-life-v2.webp",
     description: {
       de: "Biombo ist bekannt für seine üppigen Obstgärten, insbesondere für die Produktion von süßen Mangos und Papayas.",
       hu: "Biombo buja gyümölcsöskertjeiről ismert, különösen az édes mangó és papaja termeléséről.",
@@ -693,9 +681,8 @@ image: "/poi-images/biombo-mango-life-v2.webp"
       de: "Insel-Obstplantagen von Bolama",
       hu: "Bolama szigeti gyümölcsültetvények",
       ro: "Plantațiile de fructe de pe insula Bolama",
-      en: "Bolama Island Fruit Orchards",
-image: "/poi-images/bolama-obst-life-v2.webp"
-},
+      en: "Bolama Island Fruit Orchards"},
+    image: "/poi-images/bolama-obst-life-v2.webp",
     description: {
       de: "Die fruchtbare Insel Bolama beherbergt ausgedehnte Plantagen, die während der Kolonialzeit angelegt wurden.",
       hu: "A termékeny Bolama-sziget kiterjedt ültetvényeknek ad otthont, amelyeket a gyarmati korszakban hoztak létre.",
@@ -755,9 +742,8 @@ image: "/poi-images/bolama-obst-life-v2.webp"
       de: "Baumwollfelder von Gabú",
       hu: "Gabú gyapotföldek",
       ro: "Câmpurile de bumbac din Gabú",
-      en: "Gabú Cotton Fields",
-image: "/poi-images/gabu-baumwolle-life-v2.webp"
-},
+      en: "Gabú Cotton Fields"},
+    image: "/poi-images/gabu-baumwolle-life-v2.webp",
     description: {
       de: "Im trockeneren Osten des Landes, um Gabú, ist der Baumwollanbau eine wichtige landwirtschaftliche Tätigkeit.",
       hu: "Az ország szárazabb keleti részén, Gabú környékén a gyapottermesztés fontos mezőgazdasági tevékenység.",
@@ -812,9 +798,8 @@ image: "/poi-images/gabu-baumwolle-life-v2.webp"
       de: "Bambadinca Bewässerungsprojekte",
       hu: "Bambadinca öntözési projektek",
       ro: "Proiectele de irigații din Bambadinca",
-      en: "Bambadinca Irrigation Projects",
-image: "/poi-images/bambadinca-bewaesserung-life-v2.webp"
-},
+      en: "Bambadinca Irrigation Projects"},
+    image: "/poi-images/bambadinca-bewaesserung-life-v2.webp",
     description: {
       de: "Moderne Bewässerungsanlagen am Geba-Fluss ermöglichen den ganzjährigen Anbau von Gemüse und Getreide.",
       hu: "A Geba-folyó menti modern öntözőrendszerek lehetővé teszik a zöldségek és gabonafélék egész éves termesztését.",
@@ -869,9 +854,8 @@ image: "/poi-images/bambadinca-bewaesserung-life-v2.webp"
       de: "Zoologischer Garten von Bissau",
       hu: "Bissaui Állatkert",
       ro: "Grădina Zoologică din Bissau",
-      en: "Bissau Zoological Garden",
-image: "/poi-images/bissau-zoo-life-v2.webp"
-},
+      en: "Bissau Zoological Garden"},
+    image: "/poi-images/bissau-zoo-life-v2.webp",
     description: {
       de: "Ein kleiner städtischer Zoo in der Hauptstadt, der einheimische Tierarten für Bildungszwecke zeigt.",
       hu: "Egy kis városi állatkert a fővárosban, amely oktatási célból mutatja be a hazai állatfajokat.",
@@ -926,9 +910,8 @@ image: "/poi-images/bissau-zoo-life-v2.webp"
       de: "Spielplatz am Praça dos Heróis",
       hu: "Játszótér a Praça dos Heróis-nál",
       ro: "Loc de joacă în Praça dos Heróis",
-      en: "Praça dos Heróis Playground",
-image: "/poi-images/praca-herois-spielplatz-life-v2.webp"
-},
+      en: "Praça dos Heróis Playground"},
+    image: "/poi-images/praca-herois-spielplatz-life-v2.webp",
     description: {
       de: "Ein zentraler Treffpunkt für Familien in Bissau mit Spielgeräten und viel Platz zum Laufen.",
       hu: "Bissau családjainak központi találkozóhelye játékokkal és sok futóhellyel.",
@@ -983,9 +966,8 @@ image: "/poi-images/praca-herois-spielplatz-life-v2.webp"
       de: "Kinderbereich im Kulturzentrum Franco-Bissau-Guinéen",
       hu: "Franco-Bissau-Guinéen Kulturális Központ gyermekrészlege",
       ro: "Zona pentru copii de la Centrul Cultural Franco-Bissau-Guinéen",
-      en: "Children's Area at Franco-Bissau-Guinéen Cultural Center",
-image: "/poi-images/franco-guineen-kinder-life-v2.webp"
-},
+      en: "Children's Area at Franco-Bissau-Guinéen Cultural Center"},
+    image: "/poi-images/franco-guineen-kinder-life-v2.webp",
     description: {
       de: "Ein kultureller Raum in der Hauptstadt, der spezielle Programme, Filme und Workshops für Kinder anbietet.",
       hu: "Kulturális tér a fővárosban, amely speciális programokat, filmeket és workshopokat kínál gyerekeknek.",
@@ -1040,9 +1022,8 @@ image: "/poi-images/franco-guineen-kinder-life-v2.webp"
       de: "Strand-Spielbereich Bubaque",
       hu: "Bubaque strandjátszótér",
       ro: "Zona de joacă de pe plaja Bubaque",
-      en: "Bubaque Beach Play Area",
-image: "/poi-images/bubaque-strand-spiel-life-v2.webp"
-},
+      en: "Bubaque Beach Play Area"},
+    image: "/poi-images/bubaque-strand-spiel-life-v2.webp",
     description: {
       de: "Sichere und flache Strandabschnitte auf der Insel Bubaque, die ideal für Kinder zum Spielen und Schwimmen sind.",
       hu: "Biztonságos és sekély szakaszok Bubaque szigetén, amelyek ideálisak gyerekeknek játékra és úszásra.",
@@ -1097,9 +1078,8 @@ image: "/poi-images/bubaque-strand-spiel-life-v2.webp"
       de: "Kinderbibliothek von Bissau",
       hu: "Bissaui Gyermekkönyvtár",
       ro: "Biblioteca pentru copii din Bissau",
-      en: "Bissau Children's Library",
-image: "/poi-images/biblioteca-infantil-life-v2.webp"
-},
+      en: "Bissau Children's Library"},
+    image: "/poi-images/biblioteca-infantil-life-v2.webp",
     description: {
       de: "Ein engagierter Ort für Kinderliteratur und Bildung in der Hauptstadt Guinea-Bissaus.",
       hu: "A gyermekirodalomnak és oktatásnak szentelt hely Bissau-Guinea fővárosában.",

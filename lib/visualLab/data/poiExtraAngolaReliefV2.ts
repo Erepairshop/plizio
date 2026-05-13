@@ -6,9 +6,8 @@ export const poiExtraAngolaReliefV2: POI[] = [
     type: "relief",
     parent: "AO-BIE",
     coords: [17.5, -12.5],
-    name: { de: "Bié-Hochland", hu: "Bié-felföld", ro: "Podi?ul Bié", en: "Bié Plateau",
-image: "/poi-images/planalto-de-bie-relief-v2.webp"
-},
+    name: { de: "Bié-Hochland", hu: "Bié-felföld", ro: "Podi?ul Bié", en: "Bié Plateau"},
+    image: "/poi-images/planalto-de-bie-relief-v2.webp",
     description: { de: "Großes Hochplateau im Zentrum Angolas.", hu: "Nagy fennsík Angola központjában.", ro: "Mare podi? în centrul Angolei.", en: "Large high plateau in central Angola." },
     facts: {
       de: ["Durchschnittshöhe 1500 Meter.", "Wasserscheide für viele Flüsse."],
@@ -33,9 +32,8 @@ image: "/poi-images/planalto-de-bie-relief-v2.webp"
     type: "mountain",
     parent: "AO-NAM",
     coords: [13.5, -15.2],
-    name: { de: "Serra da Chela", hu: "Serra da Chela", ro: "Serra da Chela", en: "Serra da Chela",
-image: "/poi-images/serra-da-chela-relief-v2.webp"
-},
+    name: { de: "Serra da Chela", hu: "Serra da Chela", ro: "Serra da Chela", en: "Serra da Chela"},
+    image: "/poi-images/serra-da-chela-relief-v2.webp",
     description: { de: "Gebirgskette im Südwesten Angolas.", hu: "Hegyvonulat Délnyugat-Angolában.", ro: "Lan? muntos în sud-vestul Angolei.", en: "Mountain range in southwest Angola." },
     facts: {
       de: ["Steiler Abfall zum Küstentiefland.", "Höchste Erhebung der Kette."],
@@ -60,9 +58,8 @@ image: "/poi-images/serra-da-chela-relief-v2.webp"
     type: "mountain",
     parent: "AO-HUA",
     coords: [15.19, -12.47],
-    name: { de: "Moco", hu: "Moco", ro: "Moco", en: "Moco",
-image: "/poi-images/monte-moco-relief-v2.webp"
-},
+    name: { de: "Moco", hu: "Moco", ro: "Moco", en: "Moco"},
+    image: "/poi-images/monte-moco-relief-v2.webp",
     description: { de: "Höchster Berg Angolas.", hu: "Angola legmagasabb hegye.", ro: "Cel mai înalt munte din Angola.", en: "The highest mountain in Angola." },
     facts: {
       de: ["Liegt in der Provinz Huambo.", "Höhe 2620 Meter."],
@@ -87,9 +84,8 @@ image: "/poi-images/monte-moco-relief-v2.webp"
     type: "relief",
     parent: "AO-HUI",
     coords: [13.2, -15.0],
-    name: { de: "Serra da Leba", hu: "Serra da Leba", ro: "Serra da Leba", en: "Serra da Leba",
-image: "/poi-images/serra-da-leba-relief-v2.webp"
-},
+    name: { de: "Serra da Leba", hu: "Serra da Leba", ro: "Serra da Leba", en: "Serra da Leba"},
+    image: "/poi-images/serra-da-leba-relief-v2.webp",
     description: { de: "Steilstufe zwischen Huíla-Plateau und Küste.", hu: "Merdek lépcso a Huíla-fennsík és a part között.", ro: "Panta abrupta dintre Podi?ul Huíla ?i coasta.", en: "Steep escarpment between Huíla plateau and coast." },
     facts: {
       de: ["Spektakuläre Serpentinenstraße.", "Wichtiger Übergang."],
@@ -114,9 +110,8 @@ image: "/poi-images/serra-da-leba-relief-v2.webp"
     type: "forest",
     parent: "AO-CAB",
     coords: [12.7, -4.5],
-    name: { de: "Kongobecken-Rand", hu: "Kongó-medence széle", ro: "Marginea bazinului Congo", en: "Congo Basin Edge",
-image: "/poi-images/bacia-do-congo-relief-v2.webp"
-},
+    name: { de: "Kongobecken-Rand", hu: "Kongó-medence széle", ro: "Marginea bazinului Congo", en: "Congo Basin Edge"},
+    image: "/poi-images/bacia-do-congo-relief-v2.webp",
     description: { de: "Region am Rande des Kongobeckens.", hu: "Régió a Kongó-medence peremén.", ro: "Regiune la marginea bazinului Congo.", en: "Region at the edge of the Congo Basin." },
     facts: {
       de: ["Sehr feuchtes Klima.", "Dichte tropische Wälder."],
@@ -141,9 +136,8 @@ image: "/poi-images/bacia-do-congo-relief-v2.webp"
     type: "relief",
     parent: "AO-HUI",
     coords: [14.0, -15.0],
-    name: { de: "Huíla-Hochland", hu: "Huíla-felföld", ro: "Podi?ul Huíla", en: "Huíla Plateau",
-image: "/poi-images/planalto-de-huila-relief-v2.webp"
-},
+    name: { de: "Huíla-Hochland", hu: "Huíla-felföld", ro: "Podi?ul Huíla", en: "Huíla Plateau"},
+    image: "/poi-images/planalto-de-huila-relief-v2.webp",
     description: { de: "Hochlandebene im Süden.", hu: "Fennsík a délen.", ro: "Un platou muntos impunător situat în sudul Angolei, cunoscut pentru clima sa temperată și relieful spectaculos.", en: "Plateau in the south." },
     facts: {
       de: ["Günstiges Klima für Landwirtschaft.", "Weites, offenes Land."],
@@ -169,9 +163,8 @@ image: "/poi-images/planalto-de-huila-relief-v2.webp"
     type: "relief",
     parent: "AO-NAM",
     coords: [12.0, -16.0],
-    name: { de: "Namib-Wüste", hu: "Namib-sivatag", ro: "Deșertul Namib", en: "Namib Desert",
-image: "/poi-images/deserto-do-namibe-relief-v2.webp"
-},
+    name: { de: "Namib-Wüste", hu: "Namib-sivatag", ro: "Deșertul Namib", en: "Namib Desert"},
+    image: "/poi-images/deserto-do-namibe-relief-v2.webp",
     description: { de: "Küstenzone der Namib-Wüste.", hu: "A Namib-sivatag part menti övezete.", ro: "Zona de coasta a deșertului Namib.", en: "Coastal zone of the Namib Desert." },
     facts: {
       de: ["Sehr trockenes Gelände.", "Sanddünen an der Küste."],
@@ -196,9 +189,8 @@ image: "/poi-images/deserto-do-namibe-relief-v2.webp"
     type: "relief",
     parent: "AO-BGO",
     coords: [13.2, -9.5],
-    name: { de: "Kwanza-Tal", hu: "Kwanza-völgy", ro: "Valea Kwanza", en: "Kwanza Valley",
-image: "/poi-images/vale-do-kwanza-relief-v2.webp"
-},
+    name: { de: "Kwanza-Tal", hu: "Kwanza-völgy", ro: "Valea Kwanza", en: "Kwanza Valley"},
+    image: "/poi-images/vale-do-kwanza-relief-v2.webp",
     description: { de: "Das zentrale Flusstal.", hu: "A központi folyóvölgy.", ro: "Valea centrala a râului.", en: "The central river valley." },
     facts: {
       de: ["Wichtige Erosionsform.", "Große Tallage."],
@@ -223,9 +215,8 @@ image: "/poi-images/vale-do-kwanza-relief-v2.webp"
     type: "mountain",
     parent: "AO-LNO",
     coords: [19.0, -8.0],
-    name: { de: "Lunda-Berge", hu: "Lunda-hegyek", ro: "Munții Lunda", en: "Lunda Mountains",
-image: "/poi-images/montes-de-lunda-relief-v2.webp"
-},
+    name: { de: "Lunda-Berge", hu: "Lunda-hegyek", ro: "Munții Lunda", en: "Lunda Mountains"},
+    image: "/poi-images/montes-de-lunda-relief-v2.webp",
     description: { de: "Hügellandschaft im Nordosten.", hu: "Dombvidék északkeleten.", ro: "O zonă muntoasă extinsă în estul țării, caracterizată prin platouri înalte și văi adânci.", en: "Hilly landscape in the northeast." },
     facts: {
       de: ["Reich an Mineralien.", "Sanfte Erhebungen."],
@@ -251,9 +242,8 @@ image: "/poi-images/montes-de-lunda-relief-v2.webp"
     type: "relief",
     parent: "AO-BEN",
     coords: [13.0, -12.0],
-    name: { de: "Westlicher Abfall", hu: "Nyugati lejto", ro: "Panta vestica", en: "Western Escarpment",
-image: "/poi-images/escarpamento-ocidental-relief-v2.webp"
-},
+    name: { de: "Westlicher Abfall", hu: "Nyugati lejto", ro: "Panta vestica", en: "Western Escarpment"},
+    image: "/poi-images/escarpamento-ocidental-relief-v2.webp",
     description: { de: "Abfallende Stufe zum Atlantik.", hu: "Atlanti-óceán felé lejto lépcso.", ro: "Trepa coborând spre Atlantic.", en: "Escarpment descending to the Atlantic." },
     facts: {
       de: ["Geologischer Übergang.", "Große Höhenunterschiede."],
@@ -278,9 +268,8 @@ image: "/poi-images/escarpamento-ocidental-relief-v2.webp"
     type: "mountain",
     parent: "AO-HUA",
     coords: [15.5, -12.0],
-    name: { de: "Namba", hu: "Namba", ro: "Namba", en: "Namba",
-image: "/poi-images/monte-namba-relief-v2.webp"
-},
+    name: { de: "Namba", hu: "Namba", ro: "Namba", en: "Namba"},
+    image: "/poi-images/monte-namba-relief-v2.webp",
     description: { de: "Gipfel im zentralen Hochland.", hu: "Csúcs a központi felföldön.", ro: "Vârf în podi?ul central.", en: "Peak in the central highlands." },
     facts: {
       de: ["Teil des Gebirgszugs.", "Stark verwittert."],
@@ -305,9 +294,8 @@ image: "/poi-images/monte-namba-relief-v2.webp"
     type: "relief",
     parent: "AO-CNN",
     coords: [14.0, -16.0],
-    name: { de: "Cunene-Tal", hu: "Cunene-völgy", ro: "Valea Cunene", en: "Cunene Valley",
-image: "/poi-images/vale-do-cunene-relief-v2.webp"
-},
+    name: { de: "Cunene-Tal", hu: "Cunene-völgy", ro: "Valea Cunene", en: "Cunene Valley"},
+    image: "/poi-images/vale-do-cunene-relief-v2.webp",
     description: { de: "Talsenke an der Südgrenze.", hu: "Völgyi mélyedés a déli határon.", ro: "Depresiune de vale la grani?a de sud.", en: "Valley depression on the southern border." },
     facts: {
       de: ["Flusslandschaft.", "Saisonale Überschwemmungen."],
@@ -332,9 +320,8 @@ image: "/poi-images/vale-do-cunene-relief-v2.webp"
     type: "mountain",
     parent: "AO-BEN",
     coords: [13.4, -12.5],
-    name: { de: "Benguela-Höhen", hu: "Benguela-magaslatok", ro: "Înal?imile Benguela", en: "Benguela Highlands",
-image: "/poi-images/monte-benguela-relief-v2.webp"
-},
+    name: { de: "Benguela-Höhen", hu: "Benguela-magaslatok", ro: "Înal?imile Benguela", en: "Benguela Highlands"},
+    image: "/poi-images/monte-benguela-relief-v2.webp",
     description: { de: "Bergiges Hinterland von Benguela.", hu: "Benguela hegyes hátországa.", ro: "Interior muntos al Benguelei.", en: "Mountainous hinterland of Benguela." },
     facts: {
       de: ["Trockenheit prägt das Relief.", "Starke Erosion."],
@@ -360,9 +347,8 @@ image: "/poi-images/monte-benguela-relief-v2.webp"
     type: "relief",
     parent: "AO-MAL",
     coords: [16.0, -9.5],
-    name: { de: "Malanje-Hochland", hu: "Malanje-felföld", ro: "Podi?ul Malanje", en: "Malanje Plateau",
-image: "/poi-images/planalto-de-malanje-relief-v2.webp"
-},
+    name: { de: "Malanje-Hochland", hu: "Malanje-felföld", ro: "Podi?ul Malanje", en: "Malanje Plateau"},
+    image: "/poi-images/planalto-de-malanje-relief-v2.webp",
     description: { de: "Ebene Hochlandschaft.", hu: "Síksági felföld.", ro: "Un platou fertil situat în partea central-nordică, esențial pentru agricultură și climatul regional.", en: "A high plateau region characteristic of the diverse topographical structure of northern Angola." },
     facts: {
       de: ["Günstige landwirtschaftliche Böden.", "Offene Flächen."],
@@ -388,9 +374,8 @@ image: "/poi-images/planalto-de-malanje-relief-v2.webp"
     type: "relief",
     parent: "AO-LSU",
     coords: [19.5, -9.0],
-    name: { de: "Lunda-Steilstufe", hu: "Lunda-lépcso", ro: "Escarpa Lunda", en: "Lunda Escarpment",
-image: "/poi-images/escarpa-de-lunda-relief-v2.webp"
-},
+    name: { de: "Lunda-Steilstufe", hu: "Lunda-lépcso", ro: "Escarpa Lunda", en: "Lunda Escarpment"},
+    image: "/poi-images/escarpa-de-lunda-relief-v2.webp",
     description: { de: "Geländestufe im Nordosten.", hu: "Tereplépcso északkeleten.", ro: "O formațiune de escarpă notabilă care marchează tranziția între regiunile joase și podișurile înalte.", en: "A significant escarpment marking the transition between the central plateau and coastal plains." },
     facts: {
       de: ["Übergang zur Kongo-Senke.", "Steiles Profil."],
@@ -415,9 +400,8 @@ image: "/poi-images/escarpa-de-lunda-relief-v2.webp"
     type: "relief",
     parent: "AO-UIG",
     coords: [15.0, -7.0],
-    name: { de: "Uíge-Hügel", hu: "Uíge-dombok", ro: "Colinele Uíge", en: "Uíge Hills",
-image: "/poi-images/colinas-de-uige-relief-v2.webp"
-},
+    name: { de: "Uíge-Hügel", hu: "Uíge-dombok", ro: "Colinele Uíge", en: "Uíge Hills"},
+    image: "/poi-images/colinas-de-uige-relief-v2.webp",
     description: { de: "Hügellandschaft im Norden.", hu: "Dombvidék északon.", ro: "O zonă deluroasă pitorească situată în nordul țării, caracterizată prin vegetație bogată și relief unduit.", en: "A hilly region contributing to the complex and varied landscape of the Uíge province." },
     facts: {
       de: ["Sehr grün.", "Hohe Niederschläge."],
@@ -442,9 +426,8 @@ image: "/poi-images/colinas-de-uige-relief-v2.webp"
     type: "mountain",
     parent: "AO-HUA",
     coords: [15.8, -12.2],
-    name: { de: "Kaparanga", hu: "Kaparanga", ro: "Kaparanga", en: "Kaparanga",
-image: "/poi-images/monte-kaparanga-relief-v2.webp"
-},
+    name: { de: "Kaparanga", hu: "Kaparanga", ro: "Kaparanga", en: "Kaparanga"},
+    image: "/poi-images/monte-kaparanga-relief-v2.webp",
     description: { de: "Erhebung in Huambo.", hu: "Emelkedo Huambóban.", ro: "Elevație în Huambo.", en: "Elevation in Huambo." },
     facts: {
       de: ["Geologisch alt.", "Granitmassiv."],
@@ -469,9 +452,8 @@ image: "/poi-images/monte-kaparanga-relief-v2.webp"
     type: "relief",
     parent: "AO-NAM",
     coords: [12.5, -15.5],
-    name: { de: "Namibe-Ebene", hu: "Namibe-síkság", ro: "Câmpia Namibe", en: "Namibe Plain",
-image: "/poi-images/planicie-do-namibe-relief-v2.webp"
-},
+    name: { de: "Namibe-Ebene", hu: "Namibe-síkság", ro: "Câmpia Namibe", en: "Namibe Plain"},
+    image: "/poi-images/planicie-do-namibe-relief-v2.webp",
     description: { de: "Küstenebene.", hu: "Parti síkság.", ro: "O câmpie aridă extinsă care se întinde de-a lungul coastei de sud, fiind una dintre cele mai secetoase zone.", en: "A vast, arid coastal plain extending along the desert coastline of the Namibe province." },
     facts: {
       de: ["Trocken.", "Wenig Vegetation."],
@@ -497,9 +479,8 @@ image: "/poi-images/planicie-do-namibe-relief-v2.webp"
     type: "mountain",
     parent: "AO-CUS",
     coords: [14.5, -10.5],
-    name: { de: "Cumbira", hu: "Cumbira", ro: "Cumbira", en: "Cumbira",
-image: "/poi-images/monte-cumbira-relief-v2.webp"
-},
+    name: { de: "Cumbira", hu: "Cumbira", ro: "Cumbira", en: "Cumbira"},
+    image: "/poi-images/monte-cumbira-relief-v2.webp",
     description: { de: "Berg in Cuanza Sul.", hu: "Hegy Cuanza Sulban.", ro: "Munte în Cuanza Sul.", en: "A mountain prominence providing a distinct relief feature in the regional landscape." },
     facts: {
       de: ["Waldbedeckt.", "Steile Flanken."],
@@ -525,9 +506,8 @@ image: "/poi-images/monte-cumbira-relief-v2.webp"
     type: "relief",
     parent: "AO-MOX",
     coords: [22.0, -12.0],
-    name: { de: "Sambesi-Tal", hu: "Zambézi-völgy", ro: "Valea Zambezi", en: "Zambezi Valley",
-image: "/poi-images/vale-do-zambezi-relief-v2.webp"
-},
+    name: { de: "Sambesi-Tal", hu: "Zambézi-völgy", ro: "Valea Zambezi", en: "Zambezi Valley"},
+    image: "/poi-images/vale-do-zambezi-relief-v2.webp",
     description: { de: "Tal des Sambesi-Flusses.", hu: "A Zambézi folyó völgye.", ro: "Un vale importantă a bazinului râului Zambezi, care prezintă un relief specific zonelor de vale tropicală.", en: "Valley of the Zambezi river." },
     facts: {
       de: ["Grenznah.", "Wichtige Lebenszone."],
@@ -553,9 +533,8 @@ image: "/poi-images/vale-do-zambezi-relief-v2.webp"
     type: "mountain",
     parent: "AO-HUI",
     coords: [13.3, -15.1],
-    name: { de: "Tundavala", hu: "Tundavala", ro: "Tundavala", en: "Tundavala",
-image: "/poi-images/monte-tundavala-relief-v2.webp"
-},
+    name: { de: "Tundavala", hu: "Tundavala", ro: "Tundavala", en: "Tundavala"},
+    image: "/poi-images/monte-tundavala-relief-v2.webp",
     description: { de: "Steilabbruch bei Lubango.", hu: "Merdek szakadék Lubango közelében.", ro: "O formațiune muntoasă spectaculoasă, faimoasă pentru prăpăstiile sale adânci și vedere asupra platoului.", en: "A dramatic mountain gap and plateau edge known for its sheer vertical drops." },
     facts: {
       de: ["Spektakulärer Abgrund.", "Sehr hoch."],
@@ -580,9 +559,8 @@ image: "/poi-images/monte-tundavala-relief-v2.webp"
     type: "relief",
     parent: "AO-HUI",
     coords: [13.5, -15.0],
-    name: { de: "Humpata-Hochland", hu: "Humpata-felföld", ro: "Podi?ul Humpata", en: "Humpata Plateau",
-image: "/poi-images/planalto-de-humpata-relief-v2.webp"
-},
+    name: { de: "Humpata-Hochland", hu: "Humpata-felföld", ro: "Podi?ul Humpata", en: "Humpata Plateau"},
+    image: "/poi-images/planalto-de-humpata-relief-v2.webp",
     description: { de: "Kühles Hochland.", hu: "Huvös felföld.", ro: "Un platou înalt cu un microclimat unic, situat în apropierea orașului Lubango, cunoscut pentru biodiversitatea sa.", en: "A cool, high-altitude plateau area famous for its unique mountain climate and scenery." },
     facts: {
       de: ["Günstiges Klima.", "Touristisch bekannt."],
@@ -608,9 +586,8 @@ image: "/poi-images/planalto-de-humpata-relief-v2.webp"
     type: "mountain",
     parent: "AO-MOX",
     coords: [20.0, -12.5],
-    name: { de: "Mochico", hu: "Mochico", ro: "Mochico", en: "Mochico",
-image: "/poi-images/monte-mochico-relief-v2.webp"
-},
+    name: { de: "Mochico", hu: "Mochico", ro: "Mochico", en: "Mochico"},
+    image: "/poi-images/monte-mochico-relief-v2.webp",
     description: { de: "Erhebung im Osten.", hu: "Emelkedo keleten.", ro: "Un munte proeminent care se ridică peste peisajul regiunii, oferind un punct de reper geografic important.", en: "A mountain peak and surrounding highland area defining the local rugged terrain." },
     facts: {
       de: ["Flache Gipfel.", "Savannen-Landschaft."],
@@ -635,9 +612,8 @@ image: "/poi-images/monte-mochico-relief-v2.webp"
     type: "relief",
     parent: "AO-LNO",
     coords: [19.5, -8.5],
-    name: { de: "Lunda-Hochland", hu: "Lunda-felföld", ro: "Podi?ul Lunda", en: "Lunda Plateau",
-image: "/poi-images/planalto-de-lunda-relief-v2.webp"
-},
+    name: { de: "Lunda-Hochland", hu: "Lunda-felföld", ro: "Podi?ul Lunda", en: "Lunda Plateau"},
+    image: "/poi-images/planalto-de-lunda-relief-v2.webp",
     description: { de: "Weite Hochebene.", hu: "Széles fennsík.", ro: "Un podiș vast care ocupă o mare parte din estul Angolei, influențând rețeaua hidrografică regională.", en: "A wide-reaching plateau characterizing much of the elevated interior of eastern Angola." },
     facts: {
       de: ["Diamantenvorkommen.", "Wichtiges Relief."],
@@ -662,9 +638,8 @@ image: "/poi-images/planalto-de-lunda-relief-v2.webp"
     type: "relief",
     parent: "AO-BIE",
     coords: [17.0, -11.5],
-    name: { de: "Oberes Cuanza-Tal", hu: "Felso-Cuanza-völgy", ro: "Valea superioara a Cuanzei", en: "Upper Cuanza Valley",
-image: "/poi-images/vale-do-cuanza-relief-v2.webp"
-},
+    name: { de: "Oberes Cuanza-Tal", hu: "Felso-Cuanza-völgy", ro: "Valea superioara a Cuanzei", en: "Upper Cuanza Valley"},
+    image: "/poi-images/vale-do-cuanza-relief-v2.webp",
     description: { de: "Ursprung des Cuanza.", hu: "A Cuanza eredete.", ro: "O vale fertilă creată de râul Cuanza, fiind inima geografică și economică a multor activități agricole.", en: "A significant river valley shaping the surrounding geography and regional relief." },
     facts: {
       de: ["Hügeliges Gelände.", "Viele Quellen."],

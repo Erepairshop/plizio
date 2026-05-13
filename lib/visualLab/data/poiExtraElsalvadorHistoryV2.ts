@@ -11,9 +11,8 @@ export const poiExtraElsalvadorHistoryV2: POI[] = [
       de: "Hafen von La Unión",
       hu: "La Unión kikötője",
       ro: "Portul La Unión",
-      en: "Port of La Union",
-image: "/poi-images/la-union-port-history-v2.webp"
-},
+      en: "Port of La Union"},
+    image: "/poi-images/la-union-port-history-v2.webp",
     description: {
       de: "Ein historischer Hafen, der im 19. Jahrhundert für den Kaffeeexport von entscheidender Bedeutung war.",
       hu: "Történelmi kikötő, amely a 19. században kulcsfontosságú volt a kávéexport szempontjából.",
@@ -50,9 +49,8 @@ image: "/poi-images/la-union-port-history-v2.webp"
       de: "Ruinen der El Carmen Kirche",
       hu: "Az El Carmen templom romjai",
       ro: "Ruinele Bisericii El Carmen",
-      en: "Ruins of El Carmen Church",
-image: "/poi-images/el-carmen-ruins-history-v2.webp"
-},
+      en: "Ruins of El Carmen Church"},
+    image: "/poi-images/el-carmen-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen einer Kolonialkirche in Santa Ana, die durch ein Erdbeben zerstört wurde.",
       hu: "Egy gyarmati templom romjai Santa Anában, amelyet egy földrengés pusztított el.",
@@ -89,9 +87,8 @@ image: "/poi-images/el-carmen-ruins-history-v2.webp"
       de: "Schlacht von Acajutla",
       hu: "Acajutlai csata",
       ro: "Bătălia de la Acajutla",
-      en: "Battle of Acajutla",
-image: "/poi-images/batalla-de-acajutla-history-v2.webp"
-},
+      en: "Battle of Acajutla"},
+    image: "/poi-images/batalla-de-acajutla-history-v2.webp",
     description: {
       de: "Ort der ersten großen Schlacht zwischen den spanischen Konquistadoren unter Pedro de Alvarado und den Pipil-Völkern im Jahr 1524.",
       hu: "A Pedro de Alvarado vezette spanyol konkvisztádorok és a pipil népek közötti első nagy csata helyszíne 1524-ben.",
@@ -128,9 +125,8 @@ image: "/poi-images/batalla-de-acajutla-history-v2.webp"
       de: "Schlacht feld von San Jacinto",
       hu: "San Jacintó-i csatatér",
       ro: "Câmpul de luptă de la San Jacinto",
-      en: "San Jacinto Battlefield",
-image: "/poi-images/san-jacinto-battlefield-history-v2.webp"
-},
+      en: "San Jacinto Battlefield"},
+    image: "/poi-images/san-jacinto-battlefield-history-v2.webp",
     description: {
       de: "Ort einer wichtigen Schlacht während des salvadorianischen Bürgerkriegs, die die Widerstandsfähigkeit der Armee zeigte.",
       hu: "A salvadori polgárháború egyik fontos csatájának helyszíne, amely megmutatta a hadsereg ellenálló képességét.",
@@ -167,9 +163,8 @@ image: "/poi-images/san-jacinto-battlefield-history-v2.webp"
       de: "Kolonialstadt Suchitoto",
       hu: "Suchitoto gyarmati város",
       ro: "Orașul colonial Suchitoto",
-      en: "Suchitoto Colonial Town",
-image: "/poi-images/suchitoto-colonial-town-history-v2.webp"
-},
+      en: "Suchitoto Colonial Town"},
+    image: "/poi-images/suchitoto-colonial-town-history-v2.webp",
     description: {
       de: "Eine der am besten erhaltenen Kolonialstädte des Landes mit Kopfsteinpflasterstraßen und Adobe-Häusern.",
       hu: "Az ország egyik legjobb állapotban fennmaradt gyarmati városa macskaköves utcákkal és vályogházakkal.",
@@ -206,9 +201,8 @@ image: "/poi-images/suchitoto-colonial-town-history-v2.webp"
       de: "Höhle von Corinto",
       hu: "Corintói barlang",
       ro: "Peștera din Corinto",
-      en: "Corinto Cave",
-image: "/poi-images/corinto-cave-history-v2.webp"
-},
+      en: "Corinto Cave"},
+    image: "/poi-images/corinto-cave-history-v2.webp",
     description: {
       de: "Eine Höhle mit prähistorischen Felsmalereien, die Jagdszenen und menschliche Figuren darstellen.",
       hu: "Egy barlang őskori sziklafestményekkel, amelyek vadászjeleneteket és emberi alakokat ábrázolnak.",
@@ -245,9 +239,8 @@ image: "/poi-images/corinto-cave-history-v2.webp"
       de: "Kriegsmuseum von Perquín",
       hu: "Perquíni Háborús Múzeum",
       ro: "Muzeul Războiului din Perquín",
-      en: "Perquín War Museum",
-image: "/poi-images/perquin-war-museum-history-v2.webp"
-},
+      en: "Perquín War Museum"},
+    image: "/poi-images/perquin-war-museum-history-v2.webp",
     description: {
       de: "Ein Museum, das dem salvadorianischen Bürgerkrieg gewidmet ist und von ehemaligen Guerillakämpfern betrieben wird.",
       hu: "A salvadori polgárháborúnak szentelt múzeum, amelyet egykori gerillaharcosok működtetnek.",
@@ -284,9 +277,8 @@ image: "/poi-images/perquin-war-museum-history-v2.webp"
       de: "Massaker von El Mozote",
       hu: "El Mozote-i mészárlás",
       ro: "Masacrul de la El Mozote",
-      en: "El Mozote Massacre Site",
-image: "/poi-images/el-mozote-massacre-site-history-v2.webp"
-},
+      en: "El Mozote Massacre Site"},
+    image: "/poi-images/el-mozote-massacre-site-history-v2.webp",
     description: {
       de: "Eine Gedenkstätte für eines der berüchtigtsten Massaker des Bürgerkriegs im Jahr 1981.",
       hu: "Az 1981-es polgárháború egyik leghírhedtebb mészárlásának emlékműve.",
@@ -323,9 +315,8 @@ image: "/poi-images/el-mozote-massacre-site-history-v2.webp"
       de: "Kolonialkirche von Panchimalco",
       hu: "Panchimalcói gyarmati templom",
       ro: "Biserica colonială din Panchimalco",
-      en: "Panchimalco Colonial Church",
-image: "/poi-images/panchimalco-colonial-church-history-v2.webp"
-},
+      en: "Panchimalco Colonial Church"},
+    image: "/poi-images/panchimalco-colonial-church-history-v2.webp",
     description: {
       de: "Eine der ältesten Kolonialkirchen El Salvadors mit einer beeindruckenden Barockfassade.",
       hu: "El Salvador egyik legrégebbi gyarmati temploma lenyűgöző barokk homlokzattal.",
@@ -362,9 +353,8 @@ image: "/poi-images/panchimalco-colonial-church-history-v2.webp"
       de: "Historische Acelhuate-Brücke",
       hu: "Történelmi Acelhuate híd",
       ro: "Podul istoric Acelhuate",
-      en: "Historic Acelhuate Bridge",
-image: "/poi-images/acelhuate-bridge-history-v2.webp"
-},
+      en: "Historic Acelhuate Bridge"},
+    image: "/poi-images/acelhuate-bridge-history-v2.webp",
     description: {
       de: "Eine historische Brücke in San Salvador, die ein Symbol für die technische Entwicklung des Landes im frühen 20. Jahrhundert ist.",
       hu: "Egy történelmi híd San Salvadorban, amely az ország 20. század eleji technikai fejlődésének szimbóluma.",
@@ -401,9 +391,8 @@ image: "/poi-images/acelhuate-bridge-history-v2.webp"
       de: "Massaker von 1932 in Izalco",
       hu: "1932-es izalcói mészárlás",
       ro: "Masacrul din Izalco din 1932",
-      en: "1932 Izalco Massacre Site",
-image: "/poi-images/izalco-massacre-1932-history-v2.webp"
-},
+      en: "1932 Izalco Massacre Site"},
+    image: "/poi-images/izalco-massacre-1932-history-v2.webp",
     description: {
       de: "Gedenkstätte für den Bauernaufstand von 1932 und das anschließende Massaker, bekannt als La Matanza.",
       hu: "Az 1932-es parasztfelkelés és az azt követő, La Matanza néven ismert mészárlás emlékműve.",
@@ -440,9 +429,8 @@ image: "/poi-images/izalco-massacre-1932-history-v2.webp"
       de: "Aussichtspunkt Vulkan Conchagua",
       hu: "Conchagua vulkán kilátó",
       ro: "Punct de vedere al vulcanului Conchagua",
-      en: "Conchagua Volcano Viewpoint",
-image: "/poi-images/conchagua-volcano-viewpoint-history-v2.webp"
-},
+      en: "Conchagua Volcano Viewpoint"},
+    image: "/poi-images/conchagua-volcano-viewpoint-history-v2.webp",
     description: {
       de: "Ein historischer Aussichtspunkt, der im Bürgerkrieg eine stratégische Rolle spielte und heute einen Panoramablick auf den Golf von Fonseca bietet.",
       hu: "Történelmi kilátó, amely stratégiai szerepet játszott a polgárháborúban, és ma panorámás kilátást nyújt a Fonseca-öbölre.",
@@ -479,9 +467,8 @@ image: "/poi-images/conchagua-volcano-viewpoint-history-v2.webp"
       de: "Santa Lucía Kirche, Suchitoto",
       hu: "Szent Lúcia-templom, Suchitoto",
       ro: "Biserica Santa Lucía, Suchitoto",
-      en: "Santa Lucía Church, Suchitoto",
-image: "/poi-images/santa-lucia-church-suchitoto-history-v2.webp"
-},
+      en: "Santa Lucía Church, Suchitoto"},
+    image: "/poi-images/santa-lucia-church-suchitoto-history-v2.webp",
     description: {
       de: "Das ikonische weiße Kolonialkirche von Suchitoto, ein Symbol der Stadt.",
       hu: "Suchitoto ikonikus fehér gyarmati temploma, a város szimbóluma.",
@@ -518,9 +505,8 @@ image: "/poi-images/santa-lucia-church-suchitoto-history-v2.webp"
       de: "Wiederbesiedlung von Tenancingo",
       hu: "Tenancingo újratelepítése",
       ro: "Repopularea Tenancingo",
-      en: "Tenancingo Resettlement Site",
-image: "/poi-images/tenancingo-resettlement-history-v2.webp"
-},
+      en: "Tenancingo Resettlement Site"},
+    image: "/poi-images/tenancingo-resettlement-history-v2.webp",
     description: {
       de: "Ein Dorf, das während des Bürgerkriegs bombardiert und verlassen wurde und später als Symbol des Friedens wiederbesiedelt wurde.",
       hu: "Egy falu, amelyet a polgárháború alatt bombáztak és elhagytak, majd a béke szimbólumaként újratelepítettek.",
@@ -557,9 +543,8 @@ image: "/poi-images/tenancingo-resettlement-history-v2.webp"
       de: "Archäologischer Park Tehuacán",
       hu: "Tehuacán Régészeti Park",
       ro: "Parcul Arheologic Tehuacán",
-      en: "Tehuacán Archaeological Park",
-image: "/poi-images/tehuacan-archaeological-park-history-v2.webp"
-},
+      en: "Tehuacán Archaeological Park"},
+    image: "/poi-images/tehuacan-archaeological-park-history-v2.webp",
     description: {
       de: "Eine alte befestigte Stadt aus der postklassischen Zeit, die als zeremonielles Zentrum diente.",
       hu: "Egy régi, erődített város a posztklasszikus korból, amely szertartási központként szolgált.",
@@ -596,9 +581,8 @@ image: "/poi-images/tehuacan-archaeological-park-history-v2.webp"
       de: "Archäologische Stätte Quelepa",
       hu: "Quelepa régészeti lelőhely",
       ro: "Situl Arheologic Quelepa",
-      en: "Quelepa Archaeological Site",
-image: "/poi-images/quelepa-archaeological-site-history-v2.webp"
-},
+      en: "Quelepa Archaeological Site"},
+    image: "/poi-images/quelepa-archaeological-site-history-v2.webp",
     description: {
       de: "Eine wichtige archäologische Stätte im Osten El Salvadors mit einer langen Besiedlungsgeschichte, die bis 500 v. Chr. zurückreicht.",
       hu: "Fontos régészeti lelőhely Kelet-Salvadorban, hosszú településtörténettel, amely i.e. 500-ig nyúlik vissza.",
@@ -635,9 +619,8 @@ image: "/poi-images/quelepa-archaeological-site-history-v2.webp"
       de: "Sumpul-Fluss-Massaker",
       hu: "Sumpul folyói mészárlás",
       ro: "Masacrul de la râul Sumpul",
-      en: "Sumpul River Massacre Site",
-image: "/poi-images/sumpul-river-massacre-history-v2.webp"
-},
+      en: "Sumpul River Massacre Site"},
+    image: "/poi-images/sumpul-river-massacre-history-v2.webp",
     description: {
       de: "Gedenkstätte am Sumpul-Fluss, wo 1980 Hunderte von Zivilisten bei dem Versuch, nach Honduras zu fliehen, getötet wurden.",
       hu: "Emlékmű a Sumpul folyónál, ahol 1980-ban több száz civilt öltek meg, miközben Hondurasba próbáltak menekülni.",
@@ -674,9 +657,8 @@ image: "/poi-images/sumpul-river-massacre-history-v2.webp"
       de: "Kolonialstadt Ataco",
       hu: "Ataco gyarmati város",
       ro: "Orașul colonial Ataco",
-      en: "Ataco Colonial Town",
-image: "/poi-images/ataco-colonial-town-history-v2.webp"
-},
+      en: "Ataco Colonial Town"},
+    image: "/poi-images/ataco-colonial-town-history-v2.webp",
     description: {
       de: "Ein farbenfrohes Dorf an der Ruta de las Flores, bekannt für seine Wandmalereien, Kaffeefarmen und Kunsthandwerk.",
       hu: "Színes falu a Virágok útján, falfestményeiről, kávéfarmjairól és kézművességéről ismert.",
@@ -713,9 +695,8 @@ image: "/poi-images/ataco-colonial-town-history-v2.webp"
       de: "Stadt Apaneca",
       hu: "Apaneca város",
       ro: "Orașul Apaneca",
-      en: "Apaneca Town",
-image: "/poi-images/apaneca-town-history-v2.webp"
-},
+      en: "Apaneca Town"},
+    image: "/poi-images/apaneca-town-history-v2.webp",
     description: {
       de: "Die höchstgelegene Stadt El Salvadors, ein historisches Zentrum des Kaffeeanbaus.",
       hu: "El Salvador legmagasabban fekvő városa, a kávétermesztés történelmi központja.",
@@ -752,9 +733,8 @@ image: "/poi-images/apaneca-town-history-v2.webp"
       de: "Indigene Stadt Nahuizalco",
       hu: "Nahuizalco őslakos város",
       ro: "Orașul indigen Nahuizalco",
-      en: "Nahuizalco Indigenous Town",
-image: "/poi-images/nahuizalco-indigenous-town-history-v2.webp"
-},
+      en: "Nahuizalco Indigenous Town"},
+    image: "/poi-images/nahuizalco-indigenous-town-history-v2.webp",
     description: {
       de: "Eine Stadt mit starkem indigenem Erbe, bekannt für ihre Korbflechterei und den Nachtmarkt.",
       hu: "Erős őslakos örökséggel rendelkező város, amely kosárfonásáról és éjszakai piacáról ismert.",
@@ -791,9 +771,8 @@ image: "/poi-images/nahuizalco-indigenous-town-history-v2.webp"
       de: "Nationalpalast von San Salvador",
       hu: "Nemzeti Palota, San Salvador",
       ro: "Palatul Național din San Salvador",
-      en: "National Palace of San Salvador",
-image: "/poi-images/national-palace-san-salvador-history-v2.webp"
-},
+      en: "National Palace of San Salvador"},
+    image: "/poi-images/national-palace-san-salvador-history-v2.webp",
     description: {
       de: "Ein historisches Gebäude im Zentrum von San Salvador, das einst die drei Staatsgewalten beherbergte.",
       hu: "Történelmi épület San Salvador központjában, amely egykor a három államhatalmi ágnak adott otthont.",
@@ -830,9 +809,8 @@ image: "/poi-images/national-palace-san-salvador-history-v2.webp"
       de: "Nationaltheater von San Salvador",
       hu: "Nemzeti Színház, San Salvador",
       ro: "Teatrul Național din San Salvador",
-      en: "National Theatre of San Salvador",
-image: "/poi-images/national-theatre-san-salvador-history-v2.webp"
-},
+      en: "National Theatre of San Salvador"},
+    image: "/poi-images/national-theatre-san-salvador-history-v2.webp",
     description: {
       de: "Das älteste Theater Mittelamerikas, ein architektonisches Juwel im Stil der französischen Renaissance.",
       hu: "Közép-Amerika legrégebbi színháza, francia reneszánsz stílusú építészeti gyöngyszem.",
@@ -869,9 +847,8 @@ image: "/poi-images/national-theatre-san-salvador-history-v2.webp"
       de: "El Rosario Kirche",
       hu: "El Rosario templom",
       ro: "Biserica El Rosario",
-      en: "El Rosario Church",
-image: "/poi-images/rosario-church-san-salvador-history-v2.webp"
-},
+      en: "El Rosario Church"},
+    image: "/poi-images/rosario-church-san-salvador-history-v2.webp",
     description: {
       de: "Eine moderne Kirche mit einem einzigartigen Design, das wie ein umgekehrter Bogen aussieht und dessen Inneres von Regenbogenlicht durchflutet wird.",
       hu: "Modern templom egyedi, fordított boltívre emlékeztető dizájnnal, amelynek belsejét szivárványszínű fény árasztja el.",
@@ -908,9 +885,8 @@ image: "/poi-images/rosario-church-san-salvador-history-v2.webp"
       de: "Kolonialkirche von Caluco",
       hu: "Calucói gyarmati templom",
       ro: "Biserica colonială din Caluco",
-      en: "Caluco Colonial Church",
-image: "/poi-images/caluco-colonial-church-history-v2.webp"
-},
+      en: "Caluco Colonial Church"},
+    image: "/poi-images/caluco-colonial-church-history-v2.webp",
     description: {
       de: "Die Ruinen einer der frühesten Kolonialkirchen in El Salvador, die dem Heiligen Petrus und Paulus gewidmet ist.",
       hu: "El Salvador egyik legkorábbi gyarmati templomának romjai, amelyet Szent Péternek és Pálnak szenteltek.",
@@ -947,9 +923,8 @@ image: "/poi-images/caluco-colonial-church-history-v2.webp"
       de: "San Sebastián Kirche, San Salvador",
       hu: "Szent Sebestyén-templom, San Salvador",
       ro: "Biserica San Sebastián, San Salvador",
-      en: "San Sebastián Church, San Salvador",
-image: "/poi-images/san-sebastian-church-history-v2.webp"
-},
+      en: "San Sebastián Church, San Salvador"},
+    image: "/poi-images/san-sebastian-church-history-v2.webp",
     description: {
       de: "Eine historische Kirche in San Salvador, die für ihre Metallblech-Architektur bekannt ist, die aus Belgium importiert wurde.",
       hu: "Történelmi templom San Salvadorban, amely Belgiumból importált fémlemez-építészetéről ismert.",
@@ -986,9 +961,8 @@ image: "/poi-images/san-sebastian-church-history-v2.webp"
       de: "Eisenbahnmuseum FENADESAL",
       hu: "FENADESAL Vasúti Múzeum",
       ro: "Muzeul Căilor Ferate FENADESAL",
-      en: "FENADESAL Railway Museum",
-image: "/poi-images/railway-museum-history-v2.webp"
-},
+      en: "FENADESAL Railway Museum"},
+    image: "/poi-images/railway-museum-history-v2.webp",
     description: {
       de: "Ein Museum, das der Geschichte der Eisenbahn in El Salvador gewidmet ist, mit alten Lokomotiven und Waggons.",
       hu: "A salvadori vasút történetének szentelt múzeum, régi mozdonyokkal és vagonokkal.",
@@ -1025,9 +999,8 @@ image: "/poi-images/railway-museum-history-v2.webp"
       de: "Militärhistorisches Museum",
       hu: "Hadtörténeti Múzeum",
       ro: "Muzeul de Istorie Militară",
-      en: "Military History Museum",
-image: "/poi-images/military-history-museum-history-v2.webp"
-},
+      en: "Military History Museum"},
+    image: "/poi-images/military-history-museum-history-v2.webp",
     description: {
       de: "Ein Museum in der ehemaligen El Zapote-Kaserne, das die Militärgeschichte El Salvadors von der Kolonialzeit bis heute darstellt.",
       hu: "Az egykori El Zapote laktanyában található múzeum, amely El Salvador hadtörténetét mutatja be a gyarmati időktől napjainkig.",
@@ -1064,9 +1037,8 @@ image: "/poi-images/military-history-museum-history-v2.webp"
       de: "Plaza Libertad",
       hu: "Szabadság tér",
       ro: "Piața Libertății",
-      en: "Liberty Plaza",
-image: "/poi-images/libertad-plaza-history-v2.webp"
-},
+      en: "Liberty Plaza"},
+    image: "/poi-images/libertad-plaza-history-v2.webp",
     description: {
       de: "Einer der ältesten und historischsten Plätze in San Salvador, umgeben von bedeutenden Gebäuden.",
       hu: "San Salvador egyik legrégebbi és legtörténelmibb tere, amelyet jelentős épületek vesznek körül.",
@@ -1103,9 +1075,8 @@ image: "/poi-images/libertad-plaza-history-v2.webp"
       de: "Plaza Gerardo Barrios",
       hu: "Gerardo Barrios tér",
       ro: "Piața Gerardo Barrios",
-      en: "Gerardo Barrios Plaza",
-image: "/poi-images/gerardo-barrios-plaza-history-v2.webp"
-},
+      en: "Gerardo Barrios Plaza"},
+    image: "/poi-images/gerardo-barrios-plaza-history-v2.webp",
     description: {
       de: "Der zentrale Platz von San Salvador, benannt nach einem ehemaligen Präsidenten und Schauplatz vieler nationaler Veranstaltungen.",
       hu: "San Salvador központi tere, amelyet egy korábbi elnökről neveztek el, és számos nemzeti esemény helyszíne.",
@@ -1142,9 +1113,8 @@ image: "/poi-images/gerardo-barrios-plaza-history-v2.webp"
       de: "Kunsthandwerkerstadt La Palma",
       hu: "La Palma kézműves város",
       ro: "Orașul artizanal La Palma",
-      en: "La Palma Artisan Town",
-image: "/poi-images/la-palma-artisan-town-history-v2.webp"
-},
+      en: "La Palma Artisan Town"},
+    image: "/poi-images/la-palma-artisan-town-history-v2.webp",
     description: {
       de: "Eine Stadt, die für ihren naiven Kunststil bekannt ist, der vom Künstler Frieden und Natur darstellt.",
       hu: "Egy város, amely a Fernando Llort művész által alapított naiv művészeti stílusáról ismert, amely a békét és a természetet ábrázolja.",

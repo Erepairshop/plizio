@@ -5,9 +5,8 @@ export const luxembourgLifeV2: POI[] = [
     id: "luxembourg-haff-reimech-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Haff Réimech Naturschutzgebiet", hu: "Haff Réimech természetvédelmi terület", ro: "Rezervația Naturală Haff Réimech", en: "Haff Réimech Nature Reserve",
-image: "/poi-images/luxembourg-haff-reimech-life-v2.webp"
-},
+    name: { de: "Haff Réimech Naturschutzgebiet", hu: "Haff Réimech természetvédelmi terület", ro: "Rezervația Naturală Haff Réimech", en: "Haff Réimech Nature Reserve"},
+    image: "/poi-images/luxembourg-haff-reimech-life-v2.webp",
     coordinates: { lat: 49.485, lng: 6.358 },
     description: {
       de: "Dieses bedeutende Feuchtgebiet in der Nähe von Remerschen entstand in ehemaligen Kiesgruben. Es ist heute ein wichtiges Refugium für seltene Vogelarten und Amphibien an der Mosel.",
@@ -23,25 +22,24 @@ image: "/poi-images/luxembourg-haff-reimech-life-v2.webp"
     },
 imageHint: "Haff Reimech nature reserve lakes and reed beds",
     descriptionAdvanced: {
-      de: "Dieses bedeutende Feuchtgebiet in ehemaligen Kiesgruben dient als wichtiger Rastplatz für Zugvögel und beherbergt eine außergewöhnliche Vielfalt an Wasserpflanzen.",
-      hu: "Ez a korábbi kavicsbányák helyén kialakult vizes élőhely a költöző madarak fontos pihenőhelye, és rendkívül gazdag vízi növényvilággal rendelkezik a Mosel mentén.",
-      ro: "Această zonă umedă importantă, situată în foste cariere de pietriș, servește ca loc de popas pentru păsările migratoare și găzduiește o diversitate de plante acvatice.",
-      en: "This significant wetland area in former gravel pits serves as a vital stopover for migratory birds and hosts an extraordinary variety of aquatic plants and insects.",
+      de: "Das Naturschutzgebiet Haff Réimech, gelegen im Herzen des luxemburgischen Moseltals bei Remerschen, ist eines der bedeutendsten Feuchtgebiete des Großherzogtums. Entstanden aus ehemaligen Kiesgruben, hat sich das Areal zu einem Mosaik aus über 30 Teichen, Schilfflächen und Feuchtwiesen entwickelt. Es dient als kritischer Rückzugsort für zahlreiche bedrohte Vogelarten und bietet ideale Bedingungen für Zugvögel auf ihrer Reise. Die Biodiversität ist hier außergewöhnlich hoch, wobei seltene Amphibien und Insektenarten in den flachen Gewässerrändern gedeihen. Besucher können die Natur auf einem gut ausgebauten Lehrpfad entdecken, der Einblicke in die komplexen Ökosysteme des Gebiets gewährt. Das angrenzende Biodiversum dient als architektonisch markantes Besucherzentrum und vermittelt Wissen über den Naturschutz und die regionale Flora und Fauna. Haff Réimech verkörpert die erfolgreiche Renaturierung einer Industrielandschaft in ein ökologisches Juwel, das Erholung und Bildung gleichermaßen fördert.",
+      hu: "A luxemburgi Mosel-völgy szívében, Remerschen mellett található Haff Réimech természetvédelmi terület a Nagyhercegség egyik legfontosabb vizes élőhelye. Az egykori kavicsbányák helyén kialakult terület mára több mint 30 tóból, nádasból és nedves rétből álló mozaikká vált. Kritikus menedékhelyként szolgál számos veszélyeztetett madárfaj számára, és ideális feltételeket biztosít a vonuló madaraknak pihenőhelyként. A biodiverzitás itt rendkívül magas; ritka kétéltűek és rovarfajok virágoznak a sekély vízpartokon. A látogatók egy jól kiépített tanösvényen fedezhetik fel a természetet, amely betekintést nyújt a terület összetett ökoszisztémáiba. A szomszédos Biodiversum látogatóközpont építészetileg is kiemelkedő, és tudást közvetít a természetvédelemről, valamint a regionális flóráról és faunáról. A Haff Réimech tökéletes példája annak, hogyan alakulhat át egy ipari táj ökológiai ékkővé, amely egyszerre szolgálja a kikapcsolódást és az oktatást.",
+      ro: "Rezervația naturală Haff Réimech, situată în inima văii Moselle din Luxemburg, lângă Remerschen, este una dintre cele mai importante zone umede din Marele Ducat. Format pe locul fostelor exploatări de pietriș, arealul s-a transformat într-un mozaic de peste 30 de iazuri, stufărișuri și pajiști umede. Acesta servește ca refugiu critic pentru numeroase specii de păsări amenințate și oferă condiții ideale pentru păsările migratoare în timpul călătoriei lor. Biodiversitatea este excepțional de mare aici, specii rare de amfibieni și insecte prosperând în zonele de mal puțin adânci. Vizitatorii pot descoperi natura pe un traseu didactic bine amenajat, care oferă informații despre ecosistemele complexe ale zonei. Centrul pentru vizitatori Biodiversum, aflat în apropiere, este o structură arhitecturală remarcabilă care oferă educație despre conservarea naturii și flora și fauna regională. Haff Réimech întruchipează renaturarea de succes a unui peisaj industrial într-o bijuterie ecologică ce promovează atât recreerea, cât și educația.",
+      en: "The Haff Réimech nature reserve, located in the heart of the Luxembourg Moselle valley near Remerschen, is one of the Grand Duchy's most significant wetlands. Emerging from former gravel pits, the area has evolved into a mosaic of over 30 ponds, reed beds, and wet meadows. It serves as a critical sanctuary for numerous endangered bird species and provides ideal conditions for migratory birds on their journey. Biodiversity is exceptionally high here, with rare amphibians and insect species thriving in the shallow water margins. Visitors can explore nature on a well-developed educational trail that provides insights into the area's complex ecosystems. The adjacent Biodiversum visitor center serves as an architecturally striking hub, imparting knowledge about nature conservation and regional flora and fauna. Haff Réimech embodies the successful restoration of an industrial landscape into an ecological jewel that promotes both recreation and environmental education.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 80 Hektar", "Über 230 Vogelarten beobachtet", "Ehemaliges Baggerweiher-Areal", "Teil des Natura 2000 Netzwerks"],
-      hu: ["Kb. 80 hektáros kiterjedés", "Több mint 230 megfigyelt madárfaj", "Korábbi kavicsbányászati terület", "A Natura 2000 hálózat része"],
-      ro: ["Suprafață de cca. 80 de hectare", "Peste 230 de specii de păsări", "Fostă zonă de extracție a pietrișului", "Parte a rețelei Natura 2000"],
-      en: ["Area of approximately 80 hectares", "Over 230 bird species recorded", "Former gravel extraction site", "Part of the Natura 2000 network"],
+      de: ["Fläche von ca. 80 Hektar", "Ehemalige Kiesgrube (Abbau bis 1970er)", "Über 250 beobachtete Vogelarten", "Teil des Natura 2000-Netzwerks", "Wichtigstes Schilfgebiet des Landes", "Lehrpfad mit 4 km Länge", "Schutzgebiet seit 1998", "Lebensraum für den Laubfrosch"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-haff-reimech-life-v2.webp",
 },  {
     id: "luxembourg-parc-merveilleux-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Parc Merveilleux", hu: "Parc Merveilleux", ro: "Parc Merveilleux", en: "Parc Merveilleux",
-image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp"
-},
+    name: { de: "Parc Merveilleux", hu: "Parc Merveilleux", ro: "Parc Merveilleux", en: "Parc Merveilleux"},
+    image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp",
     coordinates: { lat: 49.508, lng: 6.114 },
     description: {
       de: "Dieser Tier- und Freizeitpark in Bettemburg beherbergt Tiere aus fünf Kontinenten in naturnahen Gehegen. Er ist besonders für seine Märchenstationen und den großen Abenteuerspielplatz bekannt.",
@@ -57,25 +55,24 @@ image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp"
     },
 imageHint: "Parc Merveilleux Bettembourg zoo entrance or animals",
     descriptionAdvanced: {
-      de: "Der in Bettemburg gelegene Park kombiniert Märchenwelten mit einem Tierpark, der sich auf exotische Arten aus fünf Kontinenten und den Erhalt der Biodiversität fokussiert.",
-      hu: "A Bettembourgban található park mesevilágokat ötvöz egy állatkerttel, amely öt kontinens egzotikus fajaira és a biológiai sokféleség megőrzésére összpontosít.",
-      ro: "Situat în Bettembourg, parcul combină lumile basmelor cu o grădină zoologică ce se concentrează pe specii exotice de pe cinci continente și pe conservarea naturii.",
-      en: "Located in Bettembourg, this park combines fairytale worlds with a zoo focused on exotic species from five continents and the conservation of global biodiversity.",
+      de: "Der Parc Merveilleux in Bettemburg ist Luxemburgs beliebtester Freizeit- und Tierpark, der Generationen von Kindern und Familien verzaubert hat. Der Park kombiniert auf einzigartige Weise Tiererlebnisse mit Märchenwelten und weitläufigen Spielbereichen. In den Tiergehegen können Besucher Arten aus fünf Kontinenten entdecken, darunter exotische Vögel, Affen und Reptilien, aber auch einheimische Bauernhoftiere. Ein besonderes Highlight sind die Märchenhäuschen, in denen klassische Geschichten durch bewegliche Figuren und Ton zum Leben erweckt werden. Für Abenteuerlustige gibt es große Spielplätze, einen Minizug und eine Minigolfanlage. Der Park legt großen Wert auf Pädagogik und bietet Einblicke in den Artenschutz und die Naturpflege. Die gepflegten Grünanlagen und schattigen Alleen machen ihn zu einem idealen Ziel für einen Tagesausflug. In den letzten Jahren wurde der Park kontinuierlich modernisiert, um den Standards der Tierhaltung und dem Komfort der Besucher gerecht zu werden, ohne dabei seinen nostalgischen Charme zu verlieren.",
+      hu: "A bettembourgi Parc Merveilleux Luxemburg legnépszerűbb szabadidő- és állatparkja, amely gyermekek és családok generációit bűvölte el. A park egyedülálló módon ötvözi az állatkerti élményeket a mesevilágokkal és a kiterjedt játszóterekkel. Az állatkifutókban a látogatók öt kontinens fajait fedezhetik fel, köztük egzotikus madarakat, majmokat és hüllőket, de őshonos tanyasi állatokat is. Különleges fénypontot jelentenek a mézeskalácsházikók, ahol klasszikus történetek kelnek életre mozgó figurák és hanghatások segítségével. A kalandvágyók számára hatalmas játszótér, kisvasút és minigolf pálya áll rendelkezésre. A park nagy hangsúlyt fektet a pedagógiára, betekintést nyújtva a fajvédelembe és a természetgondozásba. A gondozott zöldfelületek és az árnyas sétányok ideális úticéllá teszik egy egynapos kiránduláshoz. Az elmúlt években a parkot folyamatosan modernizálták, hogy megfeleljen az állattartási előírásoknak és a látogatók kényelmének, miközben megőrizte nosztalgikus báját.",
+      ro: "Parc Merveilleux din Bettembourg este cel mai popular parc de distracții și zoologic din Luxemburg, care a încântat generații de copii și familii. Parcul combină în mod unic experiențele cu animale cu lumi de basm și zone de joacă extinse. În incintele pentru animale, vizitatorii pot descoperi specii de pe cinci continente, inclusiv păsări exotice, maimuțe și reptile, dar și animale de fermă locale. Un punct culminant special sunt căsuțele de basm, unde poveștile clasice prind viață prin figuri mobile și sunet. Pentru cei dornici de aventură, există locuri de joacă mari, un trenuleț și un teren de minigolf. Parcul pune mare accent pe pedagogie, oferind informații despre conservarea speciilor și îngrijirea naturii. Spațiile verzi bine întreținute și aleile umbrite îl fac o destinație ideală pentru o excursie de o zi. În ultimii ani, parcul a fost modernizat continuu pentru a respecta standardele de bunăstare a animalelor și confortul vizitatorilor, fără a-și pierde farmecul nostalgic.",
+      en: "Parc Merveilleux in Bettembourg is Luxembourg's most popular leisure and animal park, having enchanted generations of children and families. The park uniquely combines animal encounters with fairy-tale worlds and extensive play areas. In the animal enclosures, visitors can discover species from five continents, including exotic birds, monkeys, and reptiles, as well as native farm animals. A special highlight is the fairy-tale houses, where classic stories are brought to life through moving figures and sound. For the adventurous, there are large playgrounds, a miniature train, and a mini-golf course. The park places great emphasis on education, providing insights into species conservation and nature care. The well-kept green areas and shaded avenues make it an ideal destination for a day trip. In recent years, the park has been continuously modernized to meet animal husbandry standards and visitor comfort while retaining its nostalgic charm.",
     },
     factsAdvanced: {
-      de: ["Eröffnung im Jahr 1956", "Tiere aus 5 Kontinenten", "Einziger Tierpark im Großherzogtum", "Über 200.000 Besucher jährlich"],
-      hu: ["1956-os megnyitás", "Állatok 5 kontinensről", "A nagyhercegség egyetlen állatkertje", "Évi több mint 200 000 látogató"],
-      ro: ["Deschis în anul 1956", "Animale de pe 5 continente", "Singurul parc zoologic din ducat", "Peste 200.000 de vizitatori anual"],
-      en: ["Opened in 1956", "Animals from 5 continents", "Only animal park in the Grand Duchy", "Over 200,000 annual visitors"],
+      de: ["Eröffnung im Jahr 1956", "Einziger Tierpark in Luxemburg", "Über 200 Tierarten vertreten", "Märchenpark mit animierten Szenen", "Riesiger Abenteuerspielplatz", "Miniatureisenbahn durch den Wald", "Barrierefreie Parkanlage", "Saisonale Öffnung von April bis Oktober"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-parc-merveilleux-life-v2.webp",
 },  {
     id: "luxembourg-escher-deierepark-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Escher Déierepark", hu: "Escher Déierepark vadaspark", ro: "Parcul de Animale Esch", en: "Escher Déierepark",
-image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp"
-},
+    name: { de: "Escher Déierepark", hu: "Escher Déierepark vadaspark", ro: "Parcul de Animale Esch", en: "Escher Déierepark"},
+    image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp",
     coordinates: { lat: 49.495, lng: 5.99 },
     description: {
       de: "Der Tierpark auf dem Galgenberg in Esch beherbergt hauptsächlich europäische Wild- und Haustierrassen. Besucher können hier Rehe, Ziegen und Waschbären in einer weitläufigen Waldumgebung beobachten.",
@@ -91,25 +88,24 @@ image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp"
     },
 imageHint: "Escher Deierepark animals in forest enclosure",
     descriptionAdvanced: {
-      de: "Auf dem Gaalgebierg gelegen bietet dieser Tierpark Einblicke in die regionale Fauna und beherbergt zahlreiche Haus- und Wildtierarten in naturnah gestalteten Gehegen.",
-      hu: "A Gaalgebierg dombon található állatpark betekintést nyújt a régió faunájába, számos házi- és vadon élő állatfajnak ad otthont természetközeli kifutókban.",
-      ro: "Situat pe dealul Gaalgebierg, acest parc oferă o privire asupra faunei regionale, adăpostind numeroase specii domestice și sălbatice în țarcuri naturale.",
-      en: "Located on the Gaalgebierg hill, this animal park offers insights into regional fauna, housing numerous domestic and wild species in near-natural enclosures.",
+      de: "Der Escher Déierepark, gelegen auf dem Galgenberg in Esch-sur-Alzette, ist ein idyllisches Refugium, das die Begegnung zwischen Mensch und Tier in den Mittelpunkt stellt. Auf einer Fläche von etwa zwei Hektar beherbergt der Park rund 150 Tiere, wobei der Schwerpunkt auf einheimischen und domestizierten Arten liegt. Besucher können Rotwild, Ziegen, Schafe und Hasen in einer naturnahen Umgebung beobachten. Besonders beliebt ist der Park bei Familien, da er freien Eintritt bietet und einen Streichelzoo sowie pädagogische Programme umfasst. Die Anlage ist harmonisch in den Stadtwald integriert und bietet zahlreiche Wanderwege, die zu entspannten Spaziergängen einladen. Das Konzept des Parks zielt darauf ab, das Bewusstsein für die lokale Fauna und die Bedeutung landwirtschaftlicher Traditionen zu schärfen. Ein angeschlossenes Café und thematische Spielbereiche runden das Angebot ab. Der Déierepark ist nicht nur ein Ort der Erholung, sondern auch ein wichtiger Bildungsort für Schulen und Kindergärten in der Region.",
+      hu: "Az esch-sur-alzette-i Galgenbergen található Escher Déierepark egy idilli menedékhely, amely az ember és az állat közötti találkozást helyezi a középpontba. A körülbelül két hektáros területen a park mintegy 150 állatnak ad otthont, hangsúlyt fektetve az őshonos és háziasított fajokra. A látogatók természetközeli környezetben figyelhetnek meg gímszarvasokat, kecskéket, juhokat és nyulakat. A park különösen népszerű a családok körében, mivel ingyenes belépést kínál, és állatsimogatót, valamint pedagógiai programokat is tartalmaz. A létesítmény harmonikusan integrálódik a városi erdőbe, és számos túraútvonalat kínál, amelyek pihentető sétákra hívnak. A park koncepciója a helyi fauna és a mezőgazdasági hagyományok fontosságának tudatosítását célozza. Egy kapcsolódó kávézó és tematikus játszóterek teszik teljessé a kínálatot. A Déierepark nemcsak a kikapcsolódás helyszíne, hanem fontos oktatási helyszín is a régió iskolái és óvodái számára.",
+      ro: "Escher Déierepark, situat pe Galgenberg în Esch-sur-Alzette, este un refugiu idilic care pune în centru întâlnirea dintre om și animal. Pe o suprafață de aproximativ două hectare, parcul găzduiește în jur de 150 de animale, cu accent pe speciile native și domesticite. Vizitatorii pot observa cerbi, capre, oi și iepuri într-un mediu natural. Parcul este deosebit de popular printre familii, deoarece oferă intrare gratuită și include o grădină zoologică cu mângâiere și programe pedagogice. Facilitatea este integrată armonios în pădurea orașului și oferă numeroase trasee de drumeție care invită la plimbări relaxante. Conceptul parcului vizează creșterea gradului de conștientizare cu privire la fauna locală și importanța tradițiilor agricole. O cafenea atașată și zone de joacă tematice completează oferta. Déierepark nu este doar un loc de recreere, ci și un loc educațional important pentru școlile și grădinițele din regiune.",
+      en: "The Escher Déierepark, located on the Galgenberg in Esch-sur-Alzette, is an idyllic sanctuary that focuses on the encounter between humans and animals. Covering an area of about two hectares, the park is home to around 150 animals, with an emphasis on native and domesticated species. Visitors can observe red deer, goats, sheep, and rabbits in a near-natural environment. The park is particularly popular with families as it offers free admission and includes a petting zoo and educational programs. The facility is harmoniously integrated into the city forest and offers numerous hiking trails that invite relaxed walks. The park's concept aims to raise awareness of local fauna and the importance of agricultural traditions. An attached café and thematic play areas complete the offering. The Déierepark is not only a place of recreation but also an important educational site for schools and kindergartens in the region.",
     },
     factsAdvanced: {
-      de: ["Fläche von 2 Hektar", "Über 25 verschiedene Tierarten", "Eintritt für Besucher kostenlos", "Pädagogischer Bauernhof integriert"],
-      hu: ["2 hektáros terület", "Több mint 25 különböző állatfaj", "A belépés ingyenes", "Integrált pedagógiai farm"],
-      ro: ["Suprafață de 2 hectare", "Peste 25 de specii de animale", "Intrarea este gratuită", "Fermă pedagogică integrată"],
-      en: ["Area of 2 hectares", "Over 25 different animal species", "Free entry for visitors", "Integrated educational farm"],
+      de: ["Eintritt ist komplett kostenlos", "Lage auf dem 'Galgenberg' Hügel", "Ca. 150 Tiere aus 25 Arten", "Fokus auf Haustierrassen", "Baumhaus-Hotel im Park (Escher Bamhauser)", "Pädagogischer Bauernhof integriert", "Direkter Zugang zum Stadtwald", "Ganzjährig geöffnet"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-escher-deierepark-life-v2.webp",
 },  {
     id: "luxembourg-upper-sure-nature-park-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Naturpark Öewersauer", hu: "Felső-Sûre Natúrpark", ro: "Parcul Natural Haute-Sûre", en: "Upper Sûre Nature Park",
-image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp"
-},
+    name: { de: "Naturpark Öewersauer", hu: "Felső-Sûre Natúrpark", ro: "Parcul Natural Haute-Sûre", en: "Upper Sûre Nature Park"},
+    image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp",
     coordinates: { lat: 49.911, lng: 5.935 },
     description: {
       de: "Dieser Naturpark im Nordwesten Luxemburgs konzentriert sich auf den Schutz der Trinkwasserreserven und die nachhaltige Entwicklung. Das Herzstück ist der große Stausee der Obersauer.",
@@ -125,25 +121,24 @@ image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp"
     },
 imageHint: "Upper Sure Nature Park landscape with lake and hills",
     descriptionAdvanced: {
-      de: "Der Naturpark rund um den größten Stausee des Landes dient sowohl dem Trinkwasserschutz als auch dem Erhalt der typischen Mittelgebirgslandschaft der Ösling-Region.",
-      hu: "Az ország legnagyobb víztározója körüli natúrpark az ivóvíz védelmét és az Ösling-régió jellegzetes középhegységi tájának megőrzését szolgálja.",
-      ro: "Parcul natural din jurul celui mai mare lac de acumulare servește protecției apei potabile și conservării peisajului tipic muntos din regiunea Ösling.",
-      en: "The nature park around the country's largest reservoir serves both drinking water protection and the preservation of the typical Oesling upland landscape.",
+      de: "Der Naturpark Oewersauer, im Nordwesten Luxemburgs gelegen, ist ein Paradies für Naturliebhaber und Wassersportbegeisterte. Das Herzstück des Parks ist der Stausee der Sauer, der nicht nur die Trinkwasserversorgung für einen Großteil des Landes sicherstellt, sondern auch ein bedeutendes Erholungsgebiet darstellt. Die Landschaft ist geprägt von steilen bewaldeten Hängen, tief eingeschnittenen Tälern und weiten Hochplateaus des Öslings. Der Park setzt sich intensiv für nachhaltige Entwicklung, den Schutz der Wasserressourcen und den Erhalt der biologischen Vielfalt ein. Besucher können auf zahlreichen Wanderwegen die unberührte Natur erkunden, während der See im Sommer zum Schwimmen, Segeln und Tauchen einlädt. Das Naturparkzentrum in einer ehemaligen Tuchfabrik in Esch-Sauer informiert über die Geschichte und die ökologische Bedeutung der Region. Innovative Projekte zur Förderung lokaler Produkte und umweltfreundlicher Landwirtschaft machen den Park zu einem Vorbild für den ländlichen Raum in Luxemburg.",
+      hu: "A Luxemburg északnyugati részén található Oewersauer Natúrpark a természetbarátok és a vízi sportok kedvelőinek paradicsoma. A park szíve a Sauer-víztározó, amely nemcsak az ország nagy részének ivóvízellátását biztosítja, hanem jelentős üdülőövezet is. A tájat meredek erdős lejtők, mélyen bevágott völgyek és az Ösling széles fennsíkjai jellemzik. A park intenzíven elkötelezett a fenntartható fejlődés, a vízkészletek védelme és a biológiai sokféleség megőrzése mellett. A látogatók számos túraútvonalon fedezhetik fel az érintetlen természetet, míg a tó nyáron úszásra, vitorlázásra és búvárkodásra hívogat. Az esch-saueri egykori posztógyárban található natúrpark-központ tájékoztat a régió történelméről és ökológiai jelentőségéről. A helyi termékek és a környezetbarát mezőgazdaság népszerűsítését célzó innovatív projektek a parkot a luxemburgi vidéki térségek példaképévé teszik.",
+      ro: "Parcul Natural Oewersauer, situat în nord-vestul Luxemburgului, este un paradis pentru iubitorii de natură și pasionații de sporturi nautice. Inima parcului este lacul de acumulare de pe râul Sauer, care nu numai că asigură aprovizionarea cu apă potabilă pentru o mare parte a țării, dar reprezintă și o zonă de recreere importantă. Peisajul este caracterizat de versanți împăduriți abrupți, văi adânci și platourile înalte ale regiunii Éislek. Parcul este intens angajat în dezvoltarea durabilă, protecția resurselor de apă și conservarea biodiversității. Vizitatorii pot explora natura neatinsă pe numeroase trasee de drumeție, în timp ce lacul invită la înot, navigație și scufundări pe timp de vară. Centrul parcului natural, situat într-o fostă fabrică de textile din Esch-sur-Sûre, oferă informații despre istoria și importanța ecologică a regiunii. Proiectele inovatoare de promovare a produselor locale și a agriculturii ecologice fac din parc un model pentru zonele rurale din Luxemburg.",
+      en: "The Upper Sûre Nature Park, located in northwestern Luxembourg, is a paradise for nature lovers and water sports enthusiasts. The heart of the park is the Sûre reservoir, which not only provides drinking water for much of the country but also serves as a significant recreational area. The landscape is characterized by steep forested slopes, deeply carved valleys, and the vast high plateaus of the Éislek region. The park is intensely committed to sustainable development, the protection of water resources, and the preservation of biological diversity. Visitors can explore the untouched nature on numerous hiking trails, while the lake invites swimming, sailing, and diving in summer. The nature park center, housed in a former cloth factory in Esch-sur-Sûre, provides information about the history and ecological significance of the region. Innovative projects to promote local products and eco-friendly agriculture make the park a model for rural areas in Luxembourg.",
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 1999", "Fläche von 162 km²", "Versorgt 70% der Bevölkerung", "Höchste Staumauer mit 47 Metern"],
-      hu: ["1999-ben alapították", "162 km²-es terület", "A lakosság 70%-át látja el vízzel", "47 méter magas gátfal"],
-      ro: ["Fondat în anul 1999", "Suprafață de 162 km²", "Alimentează 70% din populație", "Baraj înalt de 47 de metri"],
-      en: ["Founded in 1999", "Area of 162 km²", "Supplies 70% of the population", "Dam wall height of 47 meters"],
+      de: ["Gründung des Naturparks 1999", "Stausee-Fläche von 3,8 km²", "Liefert 70% des Trinkwassers von LUX", "Höchste Staumauer Luxemburgs (47m)", "Reich an Eisvögeln und Bibern", "Naturparkzentrum in Esch-Sauer", "Keine Motorboote erlaubt (Umweltschutz)", "Teil des Ösling-Mittelgebirges"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-upper-sure-nature-park-life-v2.webp",
 },  {
     id: "luxembourg-our-nature-park-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Naturpark Our", hu: "Our Natúrpark", ro: "Parcul Natural Our", en: "Our Nature Park",
-image: "/poi-images/luxembourg-our-nature-park-life-v2.webp"
-},
+    name: { de: "Naturpark Our", hu: "Our Natúrpark", ro: "Parcul Natural Our", en: "Our Nature Park"},
+    image: "/poi-images/luxembourg-our-nature-park-life-v2.webp",
     coordinates: { lat: 50.012, lng: 6.088 },
     description: {
       de: "Der Naturpark Our erstreckt sich entlang der Grenze zu Deutschland und Belgien im Ösling. Er zeichnet sich durch tiefe Flusstäler und ausgedehnte Hochplateaus aus.",
@@ -159,25 +154,24 @@ image: "/poi-images/luxembourg-our-nature-park-life-v2.webp"
     },
 imageHint: "Our Nature Park valley scenery and winding river",
     descriptionAdvanced: {
-      de: "Im Nordosten Luxemburgs gelegen schützt dieser Park das Tal der Our und fördert eine nachhaltige Entwicklung durch die Verbindung von Naturschutz und Landwirtschaft.",
-      hu: "Luxemburg északkeleti részén található park az Our folyó völgyét védi, és a természetvédelem és mezőgazdaság ötvözésével támogatja a fenntartható fejlődést.",
-      ro: "Situat în nord-estul Luxemburgului, acest parc protejează valea râului Our și promovează dezvoltarea durabilă prin echilibrul dintre conservare și agricultură.",
-      en: "Located in northeastern Luxembourg, this park protects the Our valley and promotes sustainable development by linking nature conservation with agriculture.",
+      de: "Der Naturpark Our erstreckt sich entlang des Grenzflusses Our im Nordosten Luxemburgs und ist bekannt für seine wildromantische Flusslandschaft und kulturelle Vielfalt. Der Park umfasst weite Teile des Öslings und bietet ein Mosaik aus tiefen Tälern, felsigen Kämmen und landwirtschaftlich genutzten Hochflächen. Ein Schwerpunkt des Parks liegt auf der Erhaltung des kulturellen Erbes und der Förderung einer nachhaltigen Wirtschaft. Die Our ist ein bedeutender Lebensraum für seltene Arten wie die Flussperlmuschel und den Schwarzstorch. Zahlreiche thematische Wanderwege führen durch historische Dörfer und vorbei an beeindruckenden Burgen wie in Vianden oder Clervaux. Das Naturpark-Management arbeitet eng mit lokalen Landwirten zusammen, um Spezialitäten wie Buchweizen und Raps zu fördern. Die Region ist zudem ein Vorreiter im Bereich erneuerbarer Energien, insbesondere durch das Pumpspeicherkraftwerk Vianden. Der Naturpark Our bietet somit eine gelungene Symbiose aus Naturschutz, Tourismus und regionaler Entwicklung.",
+      hu: "Az Our Natúrpark a Luxemburg északkeleti részén, az Our határfolyó mentén húzódik, és vadregényes folyóparti tájáról, valamint kulturális sokszínűségéről ismert. A park az Ösling nagy részét magában foglalja, és mély völgyek, sziklás gerincek és mezőgazdasági fennsíkok mozaikját kínálja. A park egyik hangsúlyos feladata a kulturális örökség megőrzése és a fenntartható gazdaság népszerűsítése. Az Our folyó fontos élőhelye olyan ritka fajoknak, mint a folyami gyöngykagyló és a fekete gólya. Számos tematikus túraútvonal vezet át történelmi falvakon és olyan lenyűgöző várak mellett, mint a viandeni vagy a clervaux-i. A natúrpark vezetése szorosan együttműködik a helyi gazdákkal olyan különlegességek népszerűsítésében, mint a hajdina és a repce. A régió emellett úttörő a megújuló energiák területén, különösen a viandeni szivattyús-tározós erőmű révén. Az Our Natúrpark így a természetvédelem, a turizmus és a regionális fejlesztés sikeres szimbiózisát kínálja.",
+      ro: "Parcul Natural Our se întinde de-a lungul râului de frontieră Our în nord-estul Luxemburgului și este cunoscut pentru peisajul său fluvial sălbatic și romantic și pentru diversitatea culturală. Parcul cuprinde părți vaste ale regiunii Éislek și oferă un mozaic de văi adânci, creste stâncoase și platouri agricole. Un accent al parcului este pus pe conservarea moștenirii culturale și promovarea unei economii durabile. Râul Our este un habitat important pentru specii rare, cum ar fi scoica perlieră de râu și barza neagră. Numeroase trasee tematice de drumeție duc prin sate istorice și pe lângă castele impresionante, cum ar fi cele din Vianden sau Clervaux. Managementul parcului natural lucrează îndeaproape cu fermierii locali pentru a promova specialități precum hrișca și rapița. Regiunea este, de asemenea, un pionier în domeniul energiilor regenerabile, în special prin centrala electrică de acumulare prin pompare din Vianden. Parcul Natural Our oferă astfel o simbioză reușită între conservarea naturii, turism și dezvoltare regională.",
+      en: "The Our Nature Park stretches along the Our border river in northeastern Luxembourg and is known for its wild and romantic river landscape and cultural diversity. The park encompasses vast parts of the Éislek region and offers a mosaic of deep valleys, rocky ridges, and agricultural plateaus. A focus of the park is on preserving cultural heritage and promoting a sustainable economy. The Our river is a significant habitat for rare species such as the freshwater pearl mussel and the black stork. Numerous thematic hiking trails lead through historic villages and past impressive castles such as those in Vianden or Clervaux. The nature park management works closely with local farmers to promote specialties such as buckwheat and rapeseed. The region is also a pioneer in renewable energy, particularly through the Vianden pumped-storage plant. The Our Nature Park thus offers a successful symbiosis of nature conservation, tourism, and regional development.",
     },
     factsAdvanced: {
-      de: ["Gegründet im Jahr 2005", "Fläche von ca. 306 km²", "Grenzt an Deutschland und Belgien", "Heimat der Flussperlmuschel"],
-      hu: ["2005-ben alapították", "Kb. 306 km²-es terület", "Németországgal és Belgiummal határos", "A folyami gyöngykagyló élőhelye"],
-      ro: ["Fondat în anul 2005", "Suprafață de cca. 306 km²", "Se învecinează cu DE și BE", "Habitatul scoicii perliere"],
-      en: ["Founded in 2005", "Area of approx. 306 km²", "Borders Germany and Belgium", "Home to the freshwater pearl mussel"],
+      de: ["Gründung des Naturparks 2005", "Grenzfluss Our als prägendes Element", "Lebensraum der Flussperlmuschel", "Vorkommen des Schwarzstorchs", "Sitz in Hosingen (Naturparkzentrum)", "Bekannt für den Viandener Nussmarkt", "Teil der Ardennen-Landschaft", "Zentrum für Erneuerbare Energien"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-our-nature-park-life-v2.webp",
 },  {
     id: "luxembourg-mellerdall-geopark-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Mëllerdall UNESCO Global Geopark", hu: "Mëllerdall UNESCO Globális Geopark", ro: "Geoparcul Global UNESCO Mëllerdall", en: "Mëllerdall UNESCO Global Geopark",
-image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp"
-},
+    name: { de: "Mëllerdall UNESCO Global Geopark", hu: "Mëllerdall UNESCO Globális Geopark", ro: "Geoparcul Global UNESCO Mëllerdall", en: "Mëllerdall UNESCO Global Geopark"},
+    image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp",
     coordinates: { lat: 49.813, lng: 6.302 },
     description: {
       de: "Dieser Geopark umfasst die Region der Kleinen Luxemburger Schweiz, die für ihre spektakulären Sandsteinfelsformationen bekannt ist. Die Region beherbergt eine einzigartige Flora in ihren feuchten Schluchten.",
@@ -193,25 +187,24 @@ image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp"
     },
 imageHint: "Mëllerdall Geopark sandstone rocks and green forest",
     descriptionAdvanced: {
-      de: "Dieser UNESCO Geopark beeindruckt durch seine markanten Sandsteinformationen und tiefen Schluchten, die Zeugnis einer über 200 Millionen Jahre alten Erdgeschichte sind.",
-      hu: "Ez az UNESCO Geopark lenyűgöző homokkő-alakzataival és mély szurdokaival tűnik ki, amelyek egy több mint 200 millió éves földtörténeti korszak emlékei.",
-      ro: "Acest geoparc UNESCO impresionează prin formațiunile sale de gresie și cheile adânci, mărturii ale unei istorii geologice de peste 200 de milioane de ani.",
-      en: "This UNESCO Global Geopark features striking sandstone formations and deep gorges, bearing witness to a geological history spanning over 200 million years.",
+      de: "Der Natur- & Geopark Mellerdall im Osten Luxemburgs, bekannt als die 'Kleine Luxemburger Schweiz', ist ein geologisches und ökologisches Juwel. Die Region ist geprägt von spektakulären Sandsteinfelsformationen, die über Millionen von Jahren durch Erosion geformt wurden. Tiefe Schluchten, schmale Felsspalten und dichte Wälder schaffen eine mystische Atmosphäre, die Wanderer aus aller Welt anzieht. Der Geopark ist seit 2022 als UNESCO Global Geopark anerkannt, was seine internationale Bedeutung für das geologische Erbe unterstreicht. Neben den beeindruckenden Felsen beherbergt der Park eine Vielzahl seltener Pflanzen- und Tierarten, die in den kühlen, feuchten Schluchten ideale Bedingungen finden. Das Management des Parks setzt sich stark für die Erhaltung der Kulturlandschaft und die Förderung eines nachhaltigen Tourismus ein. Zahlreiche gut markierte Wanderwege, wie der berühmte Mullerthal Trail, führen zu den Highlights der Region, darunter der Schiessentümpel-Wasserfall. Der Mellerdall bietet somit eine perfekte Verbindung aus faszinierender Erdgeschichte und lebendiger Natur.",
+      hu: "A Luxemburg keleti részén található Mellerdall Natúr- és Geopark, amelyet 'Kis-Svájcként' is ismernek, geológiai és ökológiai ékkő. A régiót látványos homokkő sziklaalakzatok jellemzik, amelyeket több millió év alatt formált az erózió. Mély szurdokok, keskeny sziklahasadékok és sűrű erdők teremtenek misztikus hangulatot, amely a világ minden tájáról vonzza a túrázókat. A Geopark 2022 óta az UNESCO Globális Geopark hálózatának tagja, ami aláhúzza nemzetközi jelentőségét a geológiai örökség terén. A lenyűgöző sziklák mellett a park számos ritka növény- és állatfajnak ad otthont, amelyek a hűvös, nedves szurdokokban ideális körülményekre találnak. A park vezetése erőteljesen elkötelezett a kultúrtáj megőrzése és a fenntartható turizmus népszerűsítése mellett. Számos jól jelzett túraútvonal, mint például a híres Mullerthal Trail, vezet a régió látnivalóihoz, köztük a Schiessentümpel-vízeséshez. A Mellerdall így a lenyűgöző földtörténet és a vibráló természet tökéletes kombinációját kínálja.",
+      ro: "Parcul Natural și Geoparcul Mellerdall din estul Luxemburgului, cunoscut sub numele de „Mica Elveție Luxemburgheză”, este o bijuterie geologică și ecologică. Regiunea este caracterizată de formațiuni spectaculoase de gresie, modelate de eroziune de-a lungul a milioane de ani. Defileele adânci, crevasele înguste și pădurile dese creează o atmosferă mistică ce atrage drumeți din întreaga lume. Geoparcul este recunoscut ca UNESCO Global Geopark din 2022, ceea ce subliniază importanța sa internațională pentru patrimoniul geologic. Pe lângă stâncile impresionante, parcul găzduiește o varietate de specii rare de plante și animale care găsesc condiții ideale în defileele răcoroase și umede. Managementul parcului este puternic angajat în conservarea peisajului cultural și promovarea turismului durabil. Numeroase trasee de drumeție bine marcate, cum ar fi celebrul Mullerthal Trail, duc la punctele de atracție ale regiunii, inclusiv cascada Schiessentümpel. Mellerdall oferă astfel o combinație perfectă între istoria fascinantă a pământului și natura vie.",
+      en: "The Mellerdall Nature & Geopark in eastern Luxembourg, known as 'Little Switzerland,' is a geological and ecological jewel. The region is characterized by spectacular sandstone rock formations shaped by erosion over millions of years. Deep gorges, narrow rock crevices, and dense forests create a mystical atmosphere that attracts hikers from all over the world. The Geopark has been recognized as a UNESCO Global Geopark since 2022, underlining its international significance for geological heritage. In addition to the impressive rocks, the park is home to a variety of rare plant and animal species that find ideal conditions in the cool, moist gorges. The park management is strongly committed to preserving the cultural landscape and promoting sustainable tourism. Numerous well-marked hiking trails, such as the famous Mullerthal Trail, lead to the region's highlights, including the Schiessentümpel waterfall. Mellerdall thus offers a perfect combination of fascinating earth history and vibrant nature.",
     },
     factsAdvanced: {
-      de: ["UNESCO-Status seit 2022", "Fläche von 256 km²", "Höchster Punkt bei 414 Metern", "Bekannt als Kleine Luxemburger Schweiz"],
-      hu: ["UNESCO státusz 2022 óta", "256 km²-es terület", "Legmagasabb pontja 414 méter", "Kisméretű Luxemburgi Svájcként ismert"],
-      ro: ["Statut UNESCO din 2022", "Suprafață de 256 km²", "Punct maxim la 414 metri", "Cunoscut ca Mica Elveție Luxemburgheză"],
-      en: ["UNESCO status since 2022", "Area of 256 km²", "Highest point at 414 meters", "Known as Little Luxembourg Switzerland"],
+      de: ["UNESCO Global Geopark seit 2022", "Bekannt als 'Kleine Luxemburger Schweiz'", "Lage im Luxemburger Sandstein", "Zentrum des Mullerthal Trails", "Höchster Punkt ca. 414 Meter", "Spektakuläre Felsspalten (z.B. Wollefsschlucht)", "Reich an Quellen und kleinen Bächen", "Sitz der Parkverwaltung in Echternach"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-mellerdall-geopark-life-v2.webp",
 },  {
     id: "luxembourg-schlammwiss-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Schlammwiss", hu: "Schlammwiss természetvédelmi terület", ro: "Rezervația Naturală Schlammwiss", en: "Schlammwiss Nature Reserve",
-image: "/poi-images/luxembourg-schlammwiss-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Schlammwiss", hu: "Schlammwiss természetvédelmi terület", ro: "Rezervația Naturală Schlammwiss", en: "Schlammwiss Nature Reserve"},
+    image: "/poi-images/luxembourg-schlammwiss-life-v2.webp",
     coordinates: { lat: 49.626, lng: 6.275 },
     description: {
       de: "Das Schlammwiss bei Übersyren ist das größte zusammenhängende Schilfgebiet Luxemburgs. Es dient als wichtiger Trittstein für Zugvögel und beherbergt eine Vogelberingungsstation.",
@@ -227,25 +220,24 @@ image: "/poi-images/luxembourg-schlammwiss-life-v2.webp"
     },
 imageHint: "Schlammwiss nature reserve reed beds and bird station",
     descriptionAdvanced: {
-      de: "Das größte zusammenhängende Schilfgebiet Luxemburgs im Syrtal ist ein Zentrum der wissenschaftlichen Vogelberingung und ein Rückzugsort für bedrohte Sumpfvogelarten.",
-      hu: "A Syrtal-völgyben található legnagyobb összefüggő nádas Luxemburgban a tudományos madárgyűrűzés központja és a veszélyeztetett mocsári madarak menedékhelye.",
-      ro: "Cea mai mare zonă compactă de stuf din Luxemburg, situată în valea Syr, este un centru de inelare a păsărilor și un refugiu pentru specii de mlaștină periclitate.",
-      en: "Luxembourg's largest contiguous reed bed in the Syr valley is a center for scientific bird ringing and a sanctuary for endangered marsh bird species.",
+      de: "Das Naturschutzgebiet Schlammwiss bei Uebersyren ist das größte zusammenhängende Schilfgebiet Luxemburgs und ein Zentrum der ornithologischen Forschung. Gelegen in der Flussaue der Syr, bietet es einen unverzichtbaren Lebensraum für zahlreiche Schilf- und Wasservögel. Die Station Schlammwiss wird von Freiwilligen betreut, die sich der Beringung von Vögeln und der wissenschaftlichen Dokumentation der Bestände widmen. Besucher können das Gebiet auf geführten Touren erkunden und dabei seltene Arten wie den Schilfrohrsänger oder die Rohrdommel entdecken. Die Dynamik des Feuchtgebiets wird durch gezielte Pflegemaßnahmen erhalten, um eine Verbuschung zu verhindern und die Vielfalt der Mikrohabitate zu fördern. Schlammwiss dient auch als wichtiger Trittstein für Zugvögel auf der europäischen Westroute. Neben Vögeln beherbergt das Areal eine beeindruckende Vielfalt an Libellen, Schmetterlingen und spezialisierten Sumpfpflanzen. Die Verbindung aus praktischem Naturschutz und wissenschaftlicher Arbeit macht Schlammwiss zu einem Leuchtturmprojekt der luxemburgischen Ökologie.",
+      hu: "Az Uebersyren melletti Schlammwiss természetvédelmi terület Luxemburg legnagyobb összefüggő nádasa és az ornitológiai kutatások központja. A Syr folyó árterében található terület nélkülözhetetlen élőhelyet biztosít számos nádi és vízi madár számára. A Schlammwiss állomást önkéntesek kezelik, akik madárgyűrűzéssel és az állományok tudományos dokumentálásával foglalkoznak. A látogatók vezetett túrákon fedezhetik fel a területet, és olyan ritka fajokkal találkozhatnak, mint a foltos nádiposzáta vagy a bölömbika. A vizes élőhely dinamikáját célzott gondozási intézkedésekkel tartják fenn, hogy megakadályozzák a benövényesedést és elősegítsék a mikroélőhelyek sokféleségét. A Schlammwiss fontos pihenőhelyként is szolgál a nyugat-európai útvonalon vonuló madarak számára. A madarak mellett a terület a szitakötők, lepkék és speciális mocsári növények lenyűgöző választékának ad otthont. A gyakorlati természetvédelem és a tudományos munka kombinációja a Schlammwisst a luxemburgi ökológia egyik mintaprojektjévé teszi.",
+      ro: "Rezervația naturală Schlammwiss de lângă Uebersyren este cea mai mare zonă compactă de stufăriș din Luxemburg și un centru de cercetare ornitologică. Situată în lunca râului Syr, aceasta oferă un habitat indispensabil pentru numeroase păsări de stuf și apă. Stația Schlammwiss este administrată de voluntari care se dedică inelării păsărilor și documentării științifice a populațiilor. Vizitatorii pot explora zona în cadrul unor tururi ghidate, descoperind specii rare, cum ar fi lăcarul de rogoz sau buhaiul de baltă. Dinamica zonei umede este menținută prin măsuri de îngrijire direcționate, pentru a preveni invazia arbuștilor și pentru a promova diversitatea microhabitatelor. Schlammwiss servește, de asemenea, ca punct de popas important pentru păsările migratoare pe ruta vestică europeană. Pe lângă păsări, arealul găzduiește o varietate impresionantă de libelule, fluturi și plante de mlaștină specializate. Combinația dintre conservarea practică a naturii și munca științifică face din Schlammwiss un proiect-far al ecologiei luxemburgheze.",
+      en: "The Schlammwiss nature reserve near Uebersyren is Luxembourg's largest continuous reed bed and a hub for ornithological research. Located in the Syr river floodplain, it provides an indispensable habitat for numerous reed and water birds. The Schlammwiss station is managed by volunteers dedicated to bird ringing and scientific documentation of populations. Visitors can explore the area on guided tours, discovering rare species such as the Sedge Warbler or the Bittern. The wetland's dynamics are maintained through targeted management measures to prevent scrub encroachment and promote microhabitat diversity. Schlammwiss also serves as an important stepping stone for migratory birds on the European western route. In addition to birds, the area hosts an impressive variety of dragonflies, butterflies, and specialized marsh plants. The combination of practical nature conservation and scientific work makes Schlammwiss a flagship project of Luxembourgish ecology.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 375 Hektar", "Über 100 Brutvogelarten", "Wichtigste Beringungsstation", "Schilfbestand von nationalem Rang"],
-      hu: ["Kb. 375 hektáros terület", "Több mint 100 fészkelő madárfaj", "Legfontosabb gyűrűzőállomás", "Országos jelentőségű nádas"],
-      ro: ["Suprafață de cca. 375 de hectare", "Peste 100 de specii de păsări", "Cea mai importantă stație de inelare", "Stufăriș de importanță națională"],
-      en: ["Area of approx. 375 hectares", "Over 100 breeding bird species", "Primary bird ringing station", "National importance reed beds"],
+      de: ["Größtes Schilfgebiet des Landes", "Lage im Syrtal bei Uebersyren", "Zentrum für Vogelberingung", "Über 100 nachgewiesene Brutvogelarten", "Bedeutender Rastplatz für Zugvögel", "Wissenschaftliche Station vor Ort", "Teil eines Ramsar-Gebiets", "Reich an seltenen Orchideen (z.B. Sumpf-Stendelwurz)"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-schlammwiss-life-v2.webp",
 },  {
     id: "luxembourg-aarnescht-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Aarnescht", hu: "Aarnescht természetvédelmi terület", ro: "Rezervația Naturală Aarnescht", en: "Aarnescht Nature Reserve",
-image: "/poi-images/luxembourg-aarnescht-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Aarnescht", hu: "Aarnescht természetvédelmi terület", ro: "Rezervația Naturală Aarnescht", en: "Aarnescht Nature Reserve"},
+    image: "/poi-images/luxembourg-aarnescht-life-v2.webp",
     coordinates: { lat: 49.658, lng: 6.265 },
     description: {
       de: "Die Aarnescht bei Niederanven ist berühmt für ihre Halbtrockenrasen und den Reichtum an wilden Orchideen. Das Gebiet bietet ein fast mediterranes Mikroklima auf sonnenexponierten Hängen.",
@@ -261,25 +253,24 @@ image: "/poi-images/luxembourg-aarnescht-life-v2.webp"
     },
 imageHint: "Aarnescht nature reserve with wild orchids and sunny slopes",
     descriptionAdvanced: {
-      de: "Die Aarnescht bei Niederanven ist berühmt für ihre Halbtrockenrasen auf Muschelkalk, die eine der bedeutendsten Orchideenpopulationen des Großherzogtums beherbergen.",
-      hu: "A Niederanven melletti Aarnescht híres a mészkőalapkőzetén kialakult félszáraz gyepekről, amelyek a nagyhercegség egyik legjelentősebb orchidea-populációjának adnak otthont.",
-      ro: "Rezervația Aarnescht de lângă Niederanven este celebră pentru pajiștile sale uscate pe calcar, care adăpostesc una dintre cele mai mari populații de orhidee.",
-      en: "Aarnescht near Niederanven is famous for its semi-dry grasslands on shell limestone, hosting one of the most significant orchid populations in the Grand Duchy.",
+      de: "Das Naturschutzgebiet Aarnescht bei Niederanven ist weithin bekannt für seine außergewöhnliche Orchideenvielfalt und seine mediterran anmutende Flora. Die sonnenexponierten Hänge auf Keuper-Boden bieten ideale Bedingungen für Halbtrockenrasen, die zu den artenreichsten Biotopen Mitteleuropas gehören. Über 20 verschiedene Orchideenarten können hier während der Blütezeit im Frühsommer bewundert werden, darunter die Hummel-Ragwurz und das Helm-Knabenkraut. Die Aarnescht wird durch traditionelle Beweidung mit Schafen gepflegt, um die offene Graslandschaft vor Verbuschung zu schützen. Neben der botanischen Pracht ist das Gebiet ein wichtiger Rückzugsort für wärmeliebende Insekten wie Wildbienen und seltene Schmetterlinge. Ein Naturlehrpfad führt durch das Reservat und vermittelt Wissenswertes über die geologischen Besonderheiten und die notwendigen Schutzmaßnahmen. Die Aarnescht gilt als Musterbeispiel für den Schutz xerothermer Standorte in Luxemburg und ist ein beliebtes Ziel für Naturfotografen und Botanik-Begeisterte aus der gesamten Großregion.",
+      hu: "A Niederanven melletti Aarnescht természetvédelmi terület széles körben ismert kivételes orchidea-sokféleségéről és mediterrán jellegű flórájáról. A keuper talajon található, napsütötte lejtők ideális feltételeket biztosítanak a félszáraz gyepek számára, amelyek Közép-Európa fajgazdag biotópjai közé tartoznak. A kora nyári virágzási időszakban több mint 20 különböző orchideafaj csodálható meg itt, köztük a poszméhbangó és a bábakalap. Az Aarneschtet hagyományos juhlegeltetéssel gondozzák, hogy megvédjék a nyitott füves tájat a benövényesedéstől. A botanikai pompán túl a terület fontos menedékhelye a melegkedvelő rovaroknak, például a vadméheknek és a ritka lepkéknek. Egy természetismereti tanösvény vezet végig a rezervátumon, amely ismereteket nyújt a geológiai sajátosságokról és a szükséges védelmi intézkedésekről. Az Aarnescht a luxemburgi xeroterm (száraz-meleg) élőhelyek védelmének mintapéldája, és kedvelt célpontja a természetfotósoknak és a botanika szerelmeseinek az egész régióból.",
+      ro: "Rezervația naturală Aarnescht de lângă Niederanven este cunoscută pentru diversitatea sa excepțională de orhidee și flora cu aspect mediteranean. Versanții expuși la soare pe sol de tip Keuper oferă condiții ideale pentru pajiștile uscate, care se numără printre cele mai bogate în specii biotopuri din Europa Centrală. Peste 20 de specii diferite de orhidee pot fi admirate aici în perioada de înflorire de la începutul verii, inclusiv bumbăkarul și porumbacul. Aarnescht este întreținută prin pășunat tradițional cu oi pentru a proteja peisajul deschis de invazia arbuștilor. Pe lângă splendoarea botanică, zona este un refugiu important pentru insectele iubitoare de căldură, cum ar fi albinele sălbatice și fluturii rari. Un traseu didactic trece prin rezervație și oferă informații despre particularitățile geologice și măsurile de protecție necesare. Aarnescht este considerată un exemplu model pentru protecția siturilor xeroterme din Luxemburg și este o destinație populară pentru fotografii de natură și pasionații de botanică.",
+      en: "The Aarnescht nature reserve near Niederanven is widely known for its exceptional orchid diversity and Mediterranean-like flora. The sun-exposed slopes on Keuper soil provide ideal conditions for semi-dry grasslands, which are among the most species-rich biotopes in Central Europe. Over 20 different orchid species can be admired here during the blooming season in early summer, including the Late Spider-orchid and the Military Orchid. The Aarnescht is maintained through traditional sheep grazing to protect the open grassland from scrub encroachment. Beyond its botanical splendor, the area is an important sanctuary for heat-loving insects such as wild bees and rare butterflies. A nature trail leads through the reserve, imparting knowledge about geological features and necessary conservation measures. Aarnescht is considered a prime example of the protection of xerothermic sites in Luxembourg and is a popular destination for nature photographers and botany enthusiasts from across the Greater Region.",
     },
     factsAdvanced: {
-      de: ["Naturschutzgebiet seit 1988", "Über 20 Orchideenarten", "Fläche von ca. 75 Hektar", "Südliche mikroklimatische Lage"],
-      hu: ["Természetvédelmi terület 1988 óta", "Több mint 20 orchideafaj", "Kb. 75 hektáros terület", "Déli mikroklímájú fekvés"],
-      ro: ["Rezervație naturală din 1988", "Peste 20 de specii de orhidee", "Suprafață de cca. 75 de hectare", "Poziție cu microclimat sudic"],
-      en: ["Nature reserve since 1988", "Over 20 orchid species", "Area of approx. 75 hectares", "Southern microclimatic exposure"],
+      de: ["Berühmt für über 20 Orchideenarten", "Lage auf sonnigen Keuper-Hängen", "Erstes Naturschutzgebiet Luxemburgs (seit 1988)", "Pflege durch Wanderschäferei", "Vorkommen der Hummel-Ragwurz", "Mediterranes Mikroklima", "Lehrpfad mit 4,5 km Länge", "Wichtiges Schutzgebiet für Wildbienen"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-aarnescht-life-v2.webp",
 },  {
     id: "luxembourg-ellergronn-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Ellergronn", hu: "Ellergronn természetvédelmi terület", ro: "Rezervația Naturală Ellergronn", en: "Ellergronn Nature Reserve",
-image: "/poi-images/luxembourg-ellergronn-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Ellergronn", hu: "Ellergronn természetvédelmi terület", ro: "Rezervația Naturală Ellergronn", en: "Ellergronn Nature Reserve"},
+    image: "/poi-images/luxembourg-ellergronn-life-v2.webp",
     coordinates: { lat: 49.475, lng: 5.98 },
     description: {
       de: "Dieses Reservat südlich von Esch-sur-Alzette liegt in einem ehemaligen Tagebaugebiet der Minette-Region. Die Natur hat sich das Gelände zurückerobert und eine hohe Artenvielfalt entwickelt.",
@@ -295,25 +286,24 @@ image: "/poi-images/luxembourg-ellergronn-life-v2.webp"
     },
 imageHint: "Ellergronn nature center and reclaimed mining landscape",
     descriptionAdvanced: {
-      de: "Inmitten der Minett-Region gelegen zeigt dieses Gebiet die eindrucksvolle Rückeroberung ehemaliger Tagebaustätten durch die Natur und dient als Naturschutzzentrum.",
-      hu: "A Minett-régió szívében található terület a természet látványos visszatérését mutatja be a korábbi külszíni bányák helyén, és természetvédelmi központként is szolgál.",
-      ro: "Situată în regiunea Minett, această zonă demonstrează recuperarea impresionantă a fostelor mine de suprafață de către natură și servește drept centru ecologic.",
-      en: "Located in the heart of the Minett region, this area showcases the impressive reclamation of former open-cast mining sites by nature and serves as a conservation center.",
+      de: "Das Naturschutzgebiet Ellergronn bei Esch-sur-Alzette ist ein beeindruckendes Beispiel für die erfolgreiche Renaturierung ehemaliger Erzabbaugebiete im Süden Luxemburgs. Wo früher die 'Minette' im Tagebau und unter Tage gewonnen wurde, hat sich heute eine faszinierende Wildnis mit Weihern, Trockenrasen und dichten Wäldern entwickelt. Das Besucherzentrum Ellergronn bietet umfangreiche Informationen über die Industriegeschichte der Region und die heutige ökologische Bedeutung der rekultivierten Flächen. Besucher können auf thematischen Wanderwegen die Spuren des Bergbaus entdecken, während sie gleichzeitig seltene Amphibien und Orchideen beobachten. Der Park ist Teil des Biosphärenreservats 'Minett UNESCO Biosphere', was seine globale Bedeutung für nachhaltige Entwicklung und Biodiversität unterstreicht. Die Ellergronn dient nicht nur als Naherholungsgebiet für die zweitgrößte Stadt des Landes, sondern auch als wichtiger Bildungsstandort für Umwelt- und Naturschutzthemen. Die Verbindung aus industriellem Erbe und neuer Natur macht Ellergronn zu einem einzigartigen Ort der Kontraste.",
+      hu: "Az Esch-sur-Alzette melletti Ellergronn természetvédelmi terület lenyűgöző példája a korábbi ércbányászati területek sikeres renaturációjának Dél-Luxemburgban. Ahol korábban külszíni és földalatti fejtéssel bányászták a 'Minette-et', ott ma tavakkal, száraz gyepekkel és sűrű erdőkkel teli, lenyűgöző vadon alakult ki. Az Ellergronn látogatóközpont átfogó tájékoztatást nyújt a régió ipari múltjáról és a rekultivált területek mai ökológiai jelentőségéről. A látogatók tematikus túraútvonalakon fedezhetik fel a bányászat nyomait, miközben ritka kétéltűeket és orchideákat figyelhetnek meg. A park a 'Minett UNESCO Bioszféra-rezervátum' része, ami aláhúzza globális jelentőségét a fenntartható fejlődés és a biodiverzitás terén. Az Ellergronn nemcsak az ország második legnagyobb városának pihenőövezete, hanem a környezetvédelmi és természetvédelmi témák fontos oktatási központja is. Az ipari örökség és az új természet kombinációja az Ellergronnt az ellentétek egyedülálló helyszínévé teszi.",
+      ro: "Rezervația naturală Ellergronn de lângă Esch-sur-Alzette este un exemplu impresionant de renaturare reușită a fostelor zone miniere din sudul Luxemburgului. Acolo unde odinioară se extrăgea minereu de fier (Minette) în cariere și subteran, s-a dezvoltat astăzi o sălbăticie fascinantă cu iazuri, pajiști uscate și păduri dese. Centrul pentru vizitatori Ellergronn oferă informații detaliate despre istoria industrială a regiunii și importanța ecologică actuală a zonelor recultivate. Vizitatorii pot descoperi urmele mineritului pe trasee tematice, observând în același timp amfibieni rari și orhidee. Parcul face parte din rezervația biosferei „Minett UNESCO Biosphere”, ceea ce subliniază importanța sa globală pentru dezvoltarea durabilă și biodiversitate. Ellergronn servește nu doar ca zonă de recreere pentru al doilea oraș ca mărime al țării, ci și ca loc educațional important pentru teme de mediu și conservare. Combinația dintre moștenirea industrială și natura nouă face din Ellergronn un loc unic al contrastelor.",
+      en: "The Ellergronn nature reserve near Esch-sur-Alzette is an impressive example of the successful restoration of former iron ore mining areas in southern Luxembourg. Where 'Minette' was once extracted through open-cast and underground mining, a fascinating wilderness with ponds, dry grasslands, and dense forests has developed today. The Ellergronn visitor center provides extensive information about the region's industrial history and the current ecological significance of the reclaimed areas. Visitors can discover the traces of mining on thematic hiking trails while simultaneously observing rare amphibians and orchids. The park is part of the 'Minett UNESCO Biosphere' reserve, underlining its global importance for sustainable development and biodiversity. Ellergronn serves not only as a local recreation area for the country's second-largest city but also as a significant educational site for environmental and nature conservation topics. The combination of industrial heritage and new nature makes Ellergronn a unique place of contrasts.",
     },
     factsAdvanced: {
-      de: ["Teil des UNESCO Biosphärenreservats", "Lehrpfad durch Buchenwälder", "Ehemaliges Eisenerz-Revier", "Zentrum für Naturschutz (CNA)"],
-      hu: ["Az UNESCO Bioszféra-rezervátum része", "Tanösvény bükkerdőkön át", "Egykori vasércbányászati terület", "Természetvédelmi központ (CNA)"],
-      ro: ["Parte a Rezervației Biosferei UNESCO", "Traseu prin păduri de fag", "Fost district de minereu de fier", "Centru de conservare a naturii"],
-      en: ["Part of UNESCO Biosphere Reserve", "Trail through beech forests", "Former iron ore mining district", "Nature conservation center (CNA)"],
+      de: ["Teil der UNESCO Minett Biosphere", "Ehemaliges Eisenerz-Abbaugebiet", "Sitz eines regionalen Naturschutzzentrums", "Rekultivierte Tagebauflächen", "Vorkommen seltener Kreuzkröten", "Industriehistorische Lehrpfade", "Enge Verzahnung von Wald und Feuchtgebieten", "Direkter Anschluss an das Bergbaumuseum"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-ellergronn-life-v2.webp",
 },  {
     id: "luxembourg-sonnebierg-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Sonnebierg", hu: "Sonnebierg természetvédelmi terület", ro: "Rezervația Naturală Sonnebierg", en: "Sonnebierg Nature Reserve",
-image: "/poi-images/luxembourg-sonnebierg-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Sonnebierg", hu: "Sonnebierg természetvédelmi terület", ro: "Rezervația Naturală Sonnebierg", en: "Sonnebierg Nature Reserve"},
+    image: "/poi-images/luxembourg-sonnebierg-life-v2.webp",
     coordinates: { lat: 49.662, lng: 6.138 },
     description: {
       de: "Der Sonnebierg in Walferdingen ist ein geschützter Trockenrasen-Hang mit einer außergewöhnlichen Flora. Aufgrund des kalkhaltigen Bodens wachsen hier seltene Enziane und Orchideen.",
@@ -329,25 +319,24 @@ image: "/poi-images/luxembourg-sonnebierg-life-v2.webp"
     },
 imageHint: "Sonnebierg nature reserve flowers and valley view",
     descriptionAdvanced: {
-      de: "Das Naturschutzgebiet Sonnebierg bei Helmsange schützt wertvolle Trockenrasen und Gebüschformationen auf sonnenexponierten Hängen des Alzettetals.",
-      hu: "A Helmsange melletti Sonnebierg természetvédelmi terület értékes száraz gyepeket és cserjéseket véd az Alzette-völgy napos lejtőin.",
-      ro: "Rezervația naturală Sonnebierg de lângă Helmsange protejează pajiști uscate valoroase și formațiuni de arbuști pe versanții însoriți ai văii Alzette.",
-      en: "The Sonnebierg nature reserve near Helmsange protects valuable dry grasslands and shrub formations on the sun-exposed slopes of the Alzette valley.",
+      de: "Das Naturschutzgebiet Sonnebierg bei Walferdingen ist eine ökologische Perle auf kalkhaltigem Untergrund direkt vor den Toren der Hauptstadt. Bekannt für seine steilen Halbtrockenrasen, beherbergt der Hang eine außergewöhnliche Vielfalt an wärmeliebenden Pflanzen und Tieren. Besonders im Frühjahr und Sommer verwandelt sich der Sonnebierg in ein farbenfrohes Meer aus Orchideen und anderen seltenen Wildblumen. Die offene Landschaft wird durch gezielte Beweidung oder Mahd erhalten, um die Verbuschung zu verhindern und den Lebensraum für spezialisierte Insektenarten zu sichern. Das Reservat bietet zudem einen hervorragenden Ausblick über das Alzette-Tal und verbindet Naturerlebnis mit regionaler Geologie. Durch seine Lage am Rande eines Wohngebiets dient der Sonnebierg als wichtiges Lernfeld für die lokale Bevölkerung über den Wert der Biodiversität. Die Erhaltung dieses kleinteiligen, aber hochgradig wertvollen Biotops ist ein zentrales Anliegen des luxemburgischen Naturschutzes in der urbanisierten Zentrumszone.",
+      hu: "A Walferdingen melletti Sonnebierg természetvédelmi terület egy ökológiai gyöngyszem meszes alapkőzeten, közvetlenül a főváros kapujában. A meredek, félszáraz gyepeiről ismert domboldal a melegkedvelő növények és állatok kivételes sokféleségének ad otthont. Különösen tavasszal és nyáron a Sonnebierg az orchideák és más ritka vadvirágok színes tengerévé változik. A nyitott tájat célzott legeltetéssel vagy kaszálással tartják fenn, hogy megakadályozzák a benövényesedést és biztosítsák a speciális rovarfajok élőhelyét. A rezervátum kiváló kilátást nyújt az Alzette-völgyre, összekapcsolva a természetélményt a regionális geológiával. Lakóövezet szélén való elhelyezkedése miatt a Sonnebierg fontos oktatási területként szolgál a helyi lakosság számára a biodiverzitás értékéről. Ennek a kisméretű, de rendkívül értékes biotópnak a megőrzése a luxemburgi természetvédelem központi feladata az urbanizált központi zónában.",
+      ro: "Rezervația naturală Sonnebierg de lângă Walferdange este o perlă ecologică pe substrat calcaros, situată chiar la porțile capitalei. Cunoscută pentru pajiștile sale uscate abrupte, panta găzduiește o diversitate excepțională de plante și animale iubitoare de căldură. Mai ales primăvara și vara, Sonnebierg se transformă într-o mare colorată de orhidee și alte flori sălbatice rare. Peisajul deschis este menținut prin pășunat sau cosit direcționat pentru a preveni invazia arbuștilor și pentru a asigura habitatul speciilor de insecte specializate. Rezervația oferă, de asemenea, o vedere excelentă asupra văii Alzette și combină experiența naturii cu geologia regională. Datorită locației sale la marginea unei zone rezidențiale, Sonnebierg servește ca un domeniu important de învățare pentru populația locală cu privire la valoarea biodiversității. Conservarea acestui biotop mic, dar extrem de valoros, este o preocupare centrală a conservării naturii luxemburgheze în zona centrală urbanizată.",
+      en: "The Sonnebierg nature reserve near Walferdange is an ecological gem on calcareous soil right at the gates of the capital. Known for its steep semi-dry grasslands, the slope hosts an exceptional variety of heat-loving plants and animals. Especially in spring and summer, Sonnebierg transforms into a colorful sea of orchids and other rare wildflowers. The open landscape is maintained through targeted grazing or mowing to prevent scrub encroachment and secure the habitat for specialized insect species. The reserve also offers an excellent view over the Alzette valley, combining nature experience with regional geology. Due to its location on the edge of a residential area, Sonnebierg serves as an important learning field for the local population about the value of biodiversity. The preservation of this small but highly valuable biotope is a central concern of Luxembourgish nature conservation in the urbanized central zone.",
     },
     factsAdvanced: {
-      de: ["Schutz seit 1973", "Südwestliche Hanglage", "Vorkommen seltener Enzianarten", "Management durch Beweidung"],
-      hu: ["1973 óta védett", "Délnyugati lejtő fekvés", "Ritka tárnicsfajok előfordulása", "Legeltetéssel történő kezelés"],
-      ro: ["Protejat din 1973", "Versant cu expunere sud-vestică", "Prezența speciilor rare de gențiană", "Gestionare prin pășunat"],
-      en: ["Protected since 1973", "South-west slope exposure", "Rare gentian species present", "Managed through grazing"],
+      de: ["Lage auf Muschelkalkfelsen", "Hervorragende Orchideen-Standorte", "Sonnige Südwesthanglage", "Panoramablick auf das Alzette-Tal", "Lebensraum für Zauneidechsen", "Schutz von Trockenrasen-Gesellschaften", "Wichtiges Trittsteinbiotop im Zentrum", "Lehrpfad mit botanischen Highlights"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-sonnebierg-life-v2.webp",
 },  {
     id: "luxembourg-dumontshaff-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Dumontshaff", hu: "Dumontshaff természetvédelmi terület", ro: "Rezervația Naturală Dumontshaff", en: "Dumontshaff Nature Reserve",
-image: "/poi-images/luxembourg-dumontshaff-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Dumontshaff", hu: "Dumontshaff természetvédelmi terület", ro: "Rezervația Naturală Dumontshaff", en: "Dumontshaff Nature Reserve"},
+    image: "/poi-images/luxembourg-dumontshaff-life-v2.webp",
     coordinates: { lat: 49.505, lng: 6.027 },
     description: {
       de: "Das Dumontshaff zwischen Schifflingen und Kayl ist eine renaturierte Auenlandschaft der Alzette. Es dient als wichtiges Brut- und Rastgebiet für Wasservögel und Watvögel.",
@@ -363,25 +352,24 @@ image: "/poi-images/luxembourg-dumontshaff-life-v2.webp"
     },
 imageHint: "Dumontshaff wetlands with storks and river",
     descriptionAdvanced: {
-      de: "Das Schutzgebiet an der Alzette ist ein Vorzeigeprojekt für die Renaturierung von Flussauen und bietet Lebensraum für Weißstörche und seltene Amphibienarten.",
-      hu: "Az Alzette folyó menti védett terület a folyókanyarulatok helyreállításának mintaprojektje, amely fészkelőhelyet biztosít a fehér gólyáknak és kétéltűeknek.",
-      ro: "Această rezervație situată de-a lungul râului Alzette este un proiect model de renaturare a luncii, oferind habitat berzelor albe și unor amfibieni rari.",
-      en: "This reserve along the Alzette River is a flagship project for floodplain restoration, providing vital habitats for white storks and rare amphibian species.",
+      de: "Das Naturschutzgebiet Dumontshaff, gelegen zwischen Schifflingen und Bettemburg, ist ein herausragendes Beispiel für die Renaturierung der Alzette-Aue. Durch großflächige Rückbaumaßnahmen wurden dem Fluss seine natürlichen Überflutungsflächen zurückgegeben, was zur Entstehung einer dynamischen Feuchtgebietslandschaft führte. Heute ist Dumontshaff ein Paradies für Wat- und Wasservögel sowie für seltene Amphibien. Besonders beeindruckend ist die Ansiedlung von Weißstörchen, die hier ideale Brutbedingungen finden. Die weiten Wasserflächen und Schlammfluren bieten zudem einen wichtigen Rastplatz für Zugvögel. Besucher können das Gebiet von Beobachtungshütten aus erkunden, ohne die empfindliche Tierwelt zu stören. Das Projekt zeigt eindrucksvoll, wie durch gezielte Wasserbaumaßnahmen der Hochwasserschutz verbessert und gleichzeitig wertvoller Lebensraum für bedrohte Arten geschaffen werden kann. Dumontshaff gilt als eines der erfolgreichsten Naturschutzprojekte im urbanisierten Süden Luxemburgs.",
+      hu: "A Schifflange és Bettembourg között található Dumontshaff természetvédelmi terület az Alzette-ártér renaturációjának kiemelkedő példája. A nagyszabású átalakítási intézkedések révén a folyó visszakapta természetes ártéri területeit, ami egy dinamikus vizes élőhely kialakulásához vezetett. Ma a Dumontshaff a gázló- és vízimadarak, valamint a ritka kétéltűek paradicsoma. Különösen lenyűgöző a fehér gólyák megtelepedése, amelyek itt ideális fészkelési feltételeket találnak. A széles vízfelületek és iszapos területek emellett fontos pihenőhelyet biztosítanak a vonuló madaraknak. A látogatók megfigyelőkunyhókból fedezhetik fel a területet anélkül, hogy megzavarnák az érzékeny állatvilágot. A projekt szemléletesen mutatja be, hogyan javítható célzott vízépítési intézkedésekkel az árvízvédelem, miközben értékes élőhely jön létre a veszélyeztetett fajok számára. A Dumontshaff Luxemburg urbanizált déli részének egyik legsikeresebb természetvédelmi projektje.",
+      ro: "Rezervația naturală Dumontshaff, situată între Schifflange și Bettembourg, este un exemplu remarcabil de renaturare a luncii râului Alzette. Prin măsuri ample de reconstrucție, râului i-au fost redate zonele naturale de inundare, ceea ce a dus la crearea unui peisaj dinamic de zone umede. Astăzi, Dumontshaff este un paradis pentru păsările de baltă și apă, precum și pentru amfibieni rari. Deosebit de impresionantă este colonizarea berzelor albe, care găsesc aici condiții ideale de cuibărit. Suprafețele vaste de apă și zonele mlăștinoase oferă, de asemenea, un loc de popas important pentru păsările migratoare. Vizitatorii pot explora zona din colibe de observație, fără a deranja fauna sensibilă. Proiectul demonstrează în mod convingător cum, prin măsuri hidrotehnice direcționate, protecția împotriva inundațiilor poate fi îmbunătățită, creând în același timp un habitat valoros pentru speciile amenințate. Dumontshaff este considerat unul dintre cele mai de succes proiecte de conservare din sudul urbanizat al Luxemburgului.",
+      en: "The Dumontshaff nature reserve, located between Schifflange and Bettembourg, is an outstanding example of the restoration of the Alzette floodplain. Through large-scale reconstruction measures, the river's natural flooding areas were returned, leading to the creation of a dynamic wetland landscape. Today, Dumontshaff is a paradise for wading and water birds, as well as rare amphibians. Particularly impressive is the establishment of white storks, which find ideal nesting conditions here. The vast water surfaces and mudflats also provide an important resting place for migratory birds. Visitors can explore the area from observation huts without disturbing the sensitive wildlife. The project impressively demonstrates how targeted hydraulic engineering measures can improve flood protection while simultaneously creating valuable habitat for endangered species. Dumontshaff is considered one of the most successful nature conservation projects in the urbanized south of Luxembourg.",
     },
     factsAdvanced: {
-      de: ["Renaturierung der Alzette", "Beobachtungspunkt für Störche", "Fläche von ca. 120 Hektar", "Wichtiger Hochwasserschutz"],
-      hu: ["Az Alzette folyó rehabilitációja", "Gólyamegfigyelő pont", "Kb. 120 hektáros terület", "Fontos árvízvédelmi szerep"],
-      ro: ["Renaturarea râului Alzette", "Punct de observare a berzelor", "Suprafață de cca. 120 de hectare", "Rol vital în protecția la inundații"],
-      en: ["Restoration of the Alzette River", "Observation point for storks", "Area of approx. 120 hectares", "Important flood protection role"],
+      de: ["Renaturierte Alzette-Aue", "Wichtigstes Brutgebiet für Weißstörche", "Große Wasser- und Schlammflächen", "Hochwasserschutz durch Rückhaltung", "Über 200 nachgewiesene Vogelarten", "Beobachtungshütten für Besucher", "Lage im Ballungsraum Süd", "Schutz von gefährdeten Amphibien"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-dumontshaff-life-v2.webp",
 },  {
     id: "luxembourg-biodiversum-life-v2",
     parent: "LU",
     type: "museum",
-    name: { de: "Biodiversum Remerschen", hu: "Biodiversum Remerschen", ro: "Biodiversum Remerschen", en: "Biodiversum Remerschen",
-image: "/poi-images/luxembourg-biodiversum-life-v2.webp"
-},
+    name: { de: "Biodiversum Remerschen", hu: "Biodiversum Remerschen", ro: "Biodiversum Remerschen", en: "Biodiversum Remerschen"},
+    image: "/poi-images/luxembourg-biodiversum-life-v2.webp",
     coordinates: { lat: 49.489, lng: 6.357 },
     description: {
       de: "Das Biodiversum ist ein futuristisches Naturschutzzentrum auf einer künstlichen Halbinsel in Remerschen. Es bietet interaktive Ausstellungen über die Flora und Fauna der Region Haff Réimech.",
@@ -397,25 +385,24 @@ image: "/poi-images/luxembourg-biodiversum-life-v2.webp"
     },
 imageHint: "Biodiversum Remerschen wooden building on lake",
     descriptionAdvanced: {
-      de: "Dieses moderne Besucherzentrum bei Remerschen besticht durch seine Holzarchitektur und informiert interaktiv über die Ökosysteme des angrenzenden Haff Réimech.",
-      hu: "Ez a Remerschen melletti modern látogatóközpont lenyűgöző faépítészetével tűnik ki, és interaktív módon tájékoztat a szomszédos Haff Réimech ökoszisztémáiról.",
-      ro: "Acest centru modern pentru vizitatori de lângă Remerschen impresionează prin arhitectura sa din lemn și oferă informații despre ecosistemele din Haff Réimech.",
-      en: "This modern visitor center near Remerschen features striking timber architecture and provides interactive insights into the ecosystems of the adjacent Haff Réimech.",
+      de: "Das Biodiversum 'Camille Gira' in Remerschen ist ein architektonisch preisgekröntes Naturschutzzentrum am Rande des Reservats Haff Réimech. Das Gebäude selbst, in Form eines umgedrehten Schiffes aus Holz konstruiert, symbolisiert die enge Verbindung zwischen Mensch und Natur. Es dient als zentrales Informations- und Bildungszentrum, das Besuchern die Bedeutung der biologischen Vielfalt und den Schutz der Feuchtgebiete näherbringt. Die interaktiven Ausstellungen im Inneren behandeln Themen wie die Entstehung der Kiesgruben, die Flora und Fauna der Moselregion sowie globale ökologische Herausforderungen. Das Biodiversum ist zudem Ausgangspunkt für zahlreiche Wanderungen durch das angrenzende Vogelschutzgebiet. Es bietet pädagogische Workshops für Schulklassen und Führungen für Naturinteressierte an. Durch seine moderne Gestaltung und die Einbettung in die malerische Weinbaulandschaft der Mosel ist es ein Magnet für Touristen und Einheimische gleichermaßen. Das Zentrum ist nach dem ehemaligen luxemburgischen Staatssekretär für Umwelt, Camille Gira, benannt, der sich zeitlebens für den Naturschutz einsetzte.",
+      hu: "A remerscheni 'Camille Gira' Biodiversum egy építészetileg díjnyertes természetvédelmi központ a Haff Réimech rezervátum szélén. Maga a fából készült, fordított hajó formájú épület az ember és a természet közötti szoros kapcsolatot szimbolizálja. Központi információs és oktatási központként szolgál, amely megismerteti a látogatókat a biológiai sokféleség jelentőségével és a vizes élőhelyek védelmével. A belső interaktív kiállítások olyan témákkal foglalkoznak, mint a kavicsbányák kialakulása, a Mosel-régió flórája és faunája, valamint a globális ökológiai kihívások. A Biodiversum emellett kiindulópontja a szomszédos madárvédelmi területen áthaladó számos túrának. Pedagógiai workshopokat kínál iskolai osztályoknak és vezetett túrákat a természet iránt érdeklődőknek. Modern kialakításának és a Mosel festői borvidékébe való beágyazottságának köszönhetően a turisták és a helyiek körében egyaránt népszerű. A központ Camille Gira korábbi luxemburgi környezetvédelmi államtitkárról kapta a nevét, aki egész életében a természetvédelemért küzdött.",
+      ro: "Biodiversum „Camille Gira” din Remerschen este un centru de conservare a naturii premiat din punct de vedere arhitectural, situat la marginea rezervației Haff Réimech. Clădirea însăși, construită din lemn sub forma unei nave răsturnate, simbolizează legătura strânsă dintre om și natură. Servește ca centru central de informare și educație, care aduce vizitatorii mai aproape de importanța biodiversității și de protecția zonelor umede. Expozițiile interactive din interior tratează teme precum formarea carierelor de pietriș, flora și fauna regiunii Moselle și provocările ecologice globale. Biodiversum este, de asemenea, punctul de plecare pentru numeroase drumeții prin rezervația de păsări adiacentă. Oferă ateliere pedagogice pentru clasele școlare și tururi ghidate pentru cei interesați de natură. Prin designul său modern și integrarea în peisajul viticol pitoresc al Mosellei, este un magnet atât pentru turiști, cât și pentru localnici. Centrul poartă numele fostului secretar de stat luxemburghez pentru mediu, Camille Gira, care a susținut conservarea naturii de-a lungul vieții.",
+      en: "The Biodiversum 'Camille Gira' in Remerschen is an architecturally award-winning nature conservation center at the edge of the Haff Réimech reserve. The building itself, constructed of wood in the shape of an inverted ship, symbolizes the close connection between humans and nature. It serves as a central information and education hub, bringing visitors closer to the importance of biological diversity and the protection of wetlands. The interactive exhibitions inside cover topics such as the formation of the gravel pits, the flora and fauna of the Moselle region, and global ecological challenges. Biodiversum is also the starting point for numerous hikes through the adjacent bird sanctuary. It offers educational workshops for school classes and guided tours for nature enthusiasts. Through its modern design and integration into the picturesque vineyard landscape of the Moselle, it is a magnet for tourists and locals alike. The center is named after the former Luxembourgish Secretary of State for the Environment, Camille Gira, who championed nature conservation throughout his life.",
     },
     factsAdvanced: {
-      de: ["Eröffnung im Jahr 2016", "Architektur von Valentiny hvp", "Nachhaltige Holzbauweise", "Informationszentrum für Naturschutz"],
-      hu: ["2016-os megnyitás", "Valentiny hvp építésziroda", "Fenntartható faépítési mód", "Természetvédelmi információs központ"],
-      ro: ["Deschis în anul 2016", "Arhitectură de Valentiny hvp", "Construcție durabilă din lemn", "Centru de informare ecologică"],
-      en: ["Opened in 2016", "Architecture by Valentiny hvp", "Sustainable timber construction", "Nature conservation info center"],
+      de: ["Besucherzentrum des Haff Réimech", "Bauwerk in Holzskelettbauweise", "Architekt: Hermann & Valentiny", "Eröffnung im Jahr 2016", "Interaktive Natur-Ausstellung", "Barrierefreier Zugang", "Benannt nach Camille Gira (Umweltpolitiker)", "Zentrum für Umweltbildung"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-biodiversum-life-v2.webp",
 },  {
     id: "luxembourg-arboretum-kirchberg-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Arboretum Kirchberg", hu: "Kirchberg Arborétum", ro: "Arboretumul Kirchberg", en: "Arboretum Kirchberg",
-image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp"
-},
+    name: { de: "Arboretum Kirchberg", hu: "Kirchberg Arborétum", ro: "Arboretumul Kirchberg", en: "Arboretum Kirchberg"},
+    image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp",
     coordinates: { lat: 49.631, lng: 6.172 },
     description: {
       de: "Das Arboretum auf dem Kirchberg-Plateau umfasst drei öffentliche Parks mit einer Sammlung seltener Baum- und Straucharten. Es verbindet urbane Architektur mit botanischer Vielfalt.",
@@ -431,25 +418,24 @@ image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp"
     },
 imageHint: "Arboretum Kirchberg park trees and modern buildings",
     descriptionAdvanced: {
-      de: "Auf dem Kirchberg-Plateau gelegen vereint das Arboretum eine beeindruckende Sammlung heimischer und exotischer Gehölze in drei thematisch gestalteten Parkanlagen.",
-      hu: "A Kirchberg-fennsíkon található arborétum hazai és egzotikus fafajok lenyűgöző gyűjteményét ötvözi három tematikusan kialakított parkban.",
-      ro: "Situat pe platoul Kirchberg, arboretumul reunește o colecție impresionantă de arbori autohtoni și exotici în trei parcuri amenajate tematic.",
-      en: "Located on the Kirchberg plateau, this arboretum combines an impressive collection of native and exotic woody plants across three themed park areas.",
+      de: "Das Arboretum Kirchberg ist eine grüne Oase inmitten des modernen Banken- und Europaviertels der Stadt Luxemburg. Auf einer weitläufigen Fläche beherbergt es eine beeindruckende Sammlung von Bäumen und Sträuchern aus der gesamten gemäßigten Klimazone der nördlichen Hemisphäre. Das Arboretum ist in verschiedene geografische Zonen unterteilt, sodass Besucher auf einem Spaziergang die Gehölzflora Europas, Asiens und Nordamerikas entdecken können. Neben der botanischen Vielfalt dient der Park als wichtiger Erholungsraum für die Angestellten und Bewohner des Kirchberg-Plateaus. Er ist ein lebendiges Museum der Dendrologie, das den Wert der baumreichen Landschaften für das Stadtklima verdeutlicht. Zahlreiche seltene Arten und imposante Solitärbäume machen den Park zu einem ganzjährigen Ziel für Pflanzenliebhaber. Die sorgfältige Beschilderung informiert über Herkunft und Besonderheiten der Gewächse. Durch seine Gestaltung integriert das Arboretum Natur auf ästhetische Weise in die urbane Architektur des Plateaus.",
+      hu: "A Kirchbergi Arborétum egy zöld oázis Luxemburg város modern banki és európai negyedének közepén. Egy kiterjedt területen az északi félteke teljes mérsékelt égövéből származó fák és cserjék lenyűgöző gyűjteményének ad otthont. Az arborétum különböző földrajzi zónákra oszlik, így a látogatók egy séta során felfedezhetik Európa, Ázsia és Észak-Amerika fás flóráját. A botanikai sokféleség mellett a park fontos pihenőhelyként szolgál a Kirchberg-fennsík alkalmazottai és lakói számára. A dendrológia élő múzeuma, amely rávilágít a fákban gazdag tájak értékére a városi klíma szempontjából. Számos ritka faj és impozáns magányos fa teszi a parkot egész évben a növénybarátok kedvelt célpontjává. A gondos táblázás tájékoztat a növények származásáról és sajátosságairól. Kialakításával az arborétum esztétikai módon integrálja a természetet a fennsík városi építészetébe.",
+      ro: "Arboretum Kirchberg este o oază verde în mijlocul cartierului modern de bănci și instituții europene din orașul Luxemburg. Pe o suprafață extinsă, acesta găzduiește o colecție impresionantă de arbori și arbuști din întreaga zonă temperată a emisferei nordice. Arboretumul este împărțit în diferite zone geografice, astfel încât vizitatorii pot descoperi flora lemnoasă din Europa, Asia și America de Nord în timpul unei plimbări. Pe lângă diversitatea botanică, parcul servește ca un spațiu de recreere important pentru angajații și locuitorii platoului Kirchberg. Este un muzeu viu de dendrologie, care ilustrează valoarea peisajelor bogate în arbori pentru climatul urban. Numeroase specii rare și arbori solitari impunători fac din parc o destinație pe tot parcursul anului pentru iubitorii de plante. Semnalizarea atentă oferă informații despre originea și particularitățile plantelor. Prin designul său, arboretumul integrează natura într-un mod estetic în arhitectura urbană a platoului.",
+      en: "The Kirchberg Arboretum is a green oasis in the middle of Luxembourg City's modern banking and European quarter. On an extensive area, it houses an impressive collection of trees and shrubs from across the entire temperate climate zone of the Northern Hemisphere. The arboretum is divided into different geographical zones, allowing visitors to discover the woody flora of Europe, Asia, and North America during a stroll. In addition to its botanical diversity, the park serves as an important recreational space for the employees and residents of the Kirchberg plateau. It is a living museum of dendrology that illustrates the value of tree-rich landscapes for the urban climate. Numerous rare species and imposing specimen trees make the park a year-round destination for plant lovers. Careful labeling provides information about the plants' origins and characteristics. Through its design, the arboretum aesthetically integrates nature into the plateau's urban architecture.",
     },
     factsAdvanced: {
-      de: ["Über 400 Gehölzarten", "Verteilt auf 3 Parkteile", "Fläche von ca. 30 Hektar", "Wissenschaftliche Pflanzensammlung"],
-      hu: ["Több mint 400 fafaj", "3 parkrészre osztva", "Kb. 30 hektáros terület", "Tudományos növénygyűjtemény"],
-      ro: ["Peste 400 de specii de arbori", "Împărțit în 3 secțiuni", "Suprafață de cca. 30 de hectare", "Colecție botanică științifică"],
-      en: ["Over 400 species of trees", "Spread across 3 park sections", "Area of approx. 30 hectares", "Scientific plant collection"],
+      de: ["Sammlung winterharter Gehölze", "Geografische Aufteilung der Sektoren", "Lage im Finanzdistrikt Kirchberg", "Über 500 verschiedene Taxa (Arten)", "Ganzjährig frei zugänglich", "Pädagogischer Wert für Schulen", "Kombination aus Kunst und Natur", "Wichtiger städtischer Sauerstoffspender"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-arboretum-kirchberg-life-v2.webp",
 },  {
     id: "luxembourg-rose-garden-limpertsberg-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Rosengarten Limpertsberg", hu: "Limpertsbergi Rózsakert", ro: "Grădina de Trandafiri Limpertsberg", en: "Rose Garden Limpertsberg",
-image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp"
-},
+    name: { de: "Rosengarten Limpertsberg", hu: "Limpertsbergi Rózsakert", ro: "Grădina de Trandafiri Limpertsberg", en: "Rose Garden Limpertsberg"},
+    image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp",
     coordinates: { lat: 49.619, lng: 6.121 },
     description: {
       de: "Dieser Garten im Stadtteil Limpertsberg erinnert an Luxemburgs Geschichte als Welthauptstadt der Rosenzucht. Er präsentiert zahlreiche historische und moderne Rosensorten.",
@@ -465,25 +451,24 @@ image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp"
     },
 imageHint: "Limpertsberg rose garden flowers and park",
     descriptionAdvanced: {
-      de: "Dieser Garten im Stadtteil Limpertsberg erinnert an die glanzvolle Geschichte Luxemburgs als bedeutender Exporteur von Rosen im späten 19. Jahrhundert.",
-      hu: "Ez a Limpertsberg negyedben található kert Luxemburg mint a 19. század végi jelentős rózsaexportőr dicső múltjára emlékeztet.",
-      ro: "Această grădină din cartierul Limpertsberg amintește de istoria glorioasă a Luxemburgului ca exportator major de trandafiri la sfârșitul secolului al XIX-lea.",
-      en: "This garden in the Limpertsberg district commemorates Luxembourg's glorious history as a major exporter of roses in the late 19th century.",
+      de: "Der Rosengarten im Limpertsberg erinnert an die glanzvolle Zeit Luxemburgs als weltweit bedeutendes Zentrum der Rosenzucht im 19. und frühen 20. Jahrhundert. Gelegen im historischen Villenviertel, bietet der Garten eine Vielfalt an historischen und modernen Rosensorten, die besonders im Juni und Juli ihre volle Pracht entfalten. Der Park ist nicht nur ein botanisches Juwel, sondern auch ein Ort der Erinnerung an die luxemburgischen Rosenzüchter, deren Kreationen einst Höfe in ganz Europa schmückten. Die Anlage ist klassisch gestaltet, mit gepflegten Beeten, Rankhilfen und gemütlichen Sitzgelegenheiten. Besucher können auf einem Themenpfad mehr über die Geschichte der Rosenstadt Luxemburg erfahren. Der Garten dient als Ruhepol in der Stadt und ist ein beliebter Ort für Hochzeitsfotos und entspannte Nachmittage. Die Erhaltung dieser Tradition wird durch engagierte Vereine und die Stadtverwaltung gefördert, um das blühende Erbe des Limpertsbergs lebendig zu halten.",
+      hu: "A Limpertsbergben található rózsakert Luxemburg 19. és 20. század eleji, világszerte jelentős rózsatermesztési központként betöltött dicső korszakára emlékeztet. A történelmi villanegyedben elhelyezkedő kert történelmi és modern rózsafajták sokaságát kínálja, amelyek különösen júniusban és júliusban bontakoznak ki teljes pompájukban. A kert nemcsak botanikai ékkő, hanem a luxemburgi rózsatermesztők emlékhelye is, akiknek alkotásai egykor Európa-szerte díszítették az udvarokat. A létesítmény klasszikus kialakítású, gondozott ágyásokkal, futtatókkal és kényelmes ülőhelyekkel. A látogatók egy tematikus ösvényen többet megtudhatnak Luxemburg, a 'rózsák városa' történetéről. A kert nyugalmat áraszt a városban, és népszerű helyszín esküvői fotókhoz és pihentető délutánokhoz. Ennek a hagyománynak a megőrzését elkötelezett egyesületek és a városvezetés támogatja, hogy életben tartsák Limpertsberg virágzó örökségét.",
+      ro: "Grădina de trandafiri din Limpertsberg amintește de perioada glorioasă a Luxemburgului ca centru important la nivel mondial pentru cultivarea trandafirilor în secolul al XIX-lea și începutul secolului al XX-lea. Situată în cartierul istoric de vile, grădina oferă o varietate de soiuri de trandafiri istorici și moderni, care își dezvăluie întreaga splendoare mai ales în iunie și iulie. Parcul nu este doar o bijuterie botanică, ci și un loc de memorie pentru cultivatorii luxemburghezi de trandafiri, ale căror creații au împodobit odinioară curțile din întreaga Europă. Facilitatea este proiectată clasic, cu straturi bine întreținute, spaliere și locuri de ședere confortabile. Vizitatorii pot afla mai multe despre istoria orașului trandafirilor, Luxemburg, pe un traseu tematic. Grădina servește ca un pol de liniște în oraș și este un loc popular pentru fotografii de nuntă și după-amiezi relaxate. Conservarea acestei tradiții este promovată de asociații dedicate și de administrația orașului, pentru a menține vie moștenirea înfloritoare a Limpertsbergului.",
+      en: "The Rose Garden in Limpertsberg commemorates Luxembourg's glorious era as a globally significant center for rose cultivation in the 19th and early 20th centuries. Located in the historic villa district, the garden offers a variety of historical and modern rose varieties that unfold their full splendor particularly in June and July. The park is not only a botanical gem but also a place of remembrance for the Luxembourgish rose breeders whose creations once adorned courts across Europe. The facility is classically designed, with well-kept beds, trellises, and comfortable seating. Visitors can learn more about the history of Luxembourg as the 'City of Roses' on a thematic trail. The garden serves as a peaceful retreat in the city and is a popular spot for wedding photos and relaxed afternoons. The preservation of this tradition is promoted by dedicated associations and the city administration to keep the blooming heritage of Limpertsberg alive.",
     },
     factsAdvanced: {
-      de: ["UNESCO Kulturerbe-Tradition", "Über 600 Rosenstöcke", "Zentrum der Rosenzüchtung", "Limpertsberg als historisches Viertel"],
-      hu: ["UNESCO szellemi örökség", "Több mint 600 rózsatő", "A rózsatermesztés központja", "Történelmi Limpertsberg negyed"],
-      ro: ["Tradiție patrimoniu UNESCO", "Peste 600 de tufe de trandafiri", "Centru de cultivare a rozelor", "Cartierul istoric Limpertsberg"],
-      en: ["UNESCO Intangible Heritage", "Over 600 rose bushes", "Center of rose breeding history", "Limpertsberg historic district"],
+      de: ["Historisches Rosenzentrum", "Blütezeit Juni und Juli", "Lage im Limpertsberg-Viertel", "Themenpfad 'Circuit des Roses'", "Hommage an alte Züchterfamilien", "Große Vielfalt an Duftrosen", "Eintritt ist frei", "Beliebtes Fotomotiv der Stadt"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-rose-garden-limpertsberg-life-v2.webp",
 },  {
     id: "luxembourg-bambesch-life-v2",
     parent: "LU",
     type: "forest",
-    name: { de: "Bambësch Wald", hu: "Bambësch erdő", ro: "Pădurea Bambësch", en: "Bambësch Forest",
-image: "/poi-images/luxembourg-bambesch-life-v2.webp"
-},
+    name: { de: "Bambësch Wald", hu: "Bambësch erdő", ro: "Pădurea Bambësch", en: "Bambësch Forest"},
+    image: "/poi-images/luxembourg-bambesch-life-v2.webp",
     coordinates: { lat: 49.635, lng: 6.105 },
     description: {
       de: "Der Bambësch ist das größte Waldgebiet der Stadt Luxemburg und ein beliebtes Naherholungsziel. Er bietet ein dichtes Netz an Wanderwegen, Laufstrecken und großen Spielplätzen.",
@@ -499,25 +484,24 @@ image: "/poi-images/luxembourg-bambesch-life-v2.webp"
     },
 imageHint: "Bambesch forest trails and tall beech trees",
     descriptionAdvanced: {
-      de: "Der Bambësch ist das größte Naherholungsgebiet der Hauptstadt und bietet ein weitläufiges Wegenetz durch dichte Buchen- und Eichenwälder am nordwestlichen Stadtrand.",
-      hu: "A Bambësch a főváros legnagyobb pihenőövezete, amely kiterjedt úthálózatot kínál a sűrű bükk- és tölgyerdőkön keresztül a város északnyugati szélén.",
-      ro: "Pădurea Bambësch este cea mai mare zonă de agrement a capitalei, oferind o rețea vastă de poteci prin păduri dese de fag și stejar la marginea orașului.",
-      en: "Bambësch is the capital's largest recreational area, offering an extensive network of trails through dense beech and oak forests on the northwestern outskirts.",
+      de: "Der Bambësch ist das größte Waldgebiet der Stadt Luxemburg und ein unverzichtbares Naherholungsgebiet für die Stadtbevölkerung. Mit seinen weitläufigen Wander-, Lauf- und Radwegen bietet er ideale Bedingungen für sportliche Aktivitäten und entspannte Naturerlebnisse direkt vor der Haustür. Das Herzstück des Waldes ist das Freizeitzentrum mit einem großen Abenteuerspielplatz, Tennisplätzen und Sportfeldern, das besonders bei Familien beliebt ist. Ökologisch wertvoll sind die alten Buchen- und Eichenbestände, die zahlreichen Tierarten Schutz bieten. Der Wald dient zudem als wichtiges Trinkwassereinzugsgebiet und reguliert das Mikroklima der Hauptstadt. Im Bambësch finden regelmäßig geführte Naturwanderungen und forstwirtschaftliche Demonstrationen statt, die den Besuchern die Bedeutung einer nachhaltigen Waldbewirtschaftung vermitteln. Die harmonische Verbindung von aktiver Freizeitgestaltung und ökologischem Schutz macht den Bambësch zu einem sozialen und biologischen Herzstück Luxemburg-Stadts.",
+      hu: "A Bambësch Luxemburg város legnagyobb erdőterülete és a városi lakosság nélkülözhetetlen pihenőövezete. Kiterjedt túra-, futó- és kerékpárútjaival ideális feltételeket biztosít a sporttevékenységekhez és a pihentető természetélményekhez közvetlenül a küszöbön. Az erdő szíve a szabadidőközpont egy nagy kalandjátszótérrel, teniszpályákkal és sportpályákkal, amely különösen népszerű a családok körében. Ökológiai szempontból értékesek az öreg bükk- és tölgyállományok, amelyek számos állatfajnak nyújtanak menedéket. Az erdő emellett fontos ivóvízgyűjtő területként is szolgál, és szabályozza a főváros mikroklímáját. A Bambëschben rendszeresen tartanak vezetett természetjáró túrákat és erdészeti bemutatókat, amelyek megismertetik a látogatókkal a fenntartható erdőgazdálkodás jelentőségét. Az aktív szabadidős tevékenységek és az ökológiai védelem harmonikus kombinációja a Bambëscht Luxemburg város szociális és biológiai központjává teszi.",
+      ro: "Bambësch este cea mai mare zonă forestieră din orașul Luxemburg și o zonă de recreere indispensabilă pentru populația urbană. Cu traseele sale extinse de drumeție, alergare și ciclism, oferă condiții ideale pentru activități sportive și experiențe relaxante în natură chiar la ușa casei. Inima pădurii este centrul de recreere cu un mare loc de joacă de aventură, terenuri de tenis și terenuri de sport, fiind deosebit de popular printre familii. Deosebit de valoroase din punct de vedere ecologic sunt populațiile vechi de fag și stejar, care oferă adăpost multor specii de animale. Pădurea servește, de asemenea, ca o zonă importantă de captare a apei potabile și reglează microclimatul capitalei. În Bambësch au loc în mod regulat drumeții ghidate în natură și demonstrații forestiere care transmit vizitatorilor importanța gestionării durabile a pădurilor. Combinația armonioasă de petrecere a timpului liber activ și protecție ecologică face din Bambësch un nucleu social și biologic al orașului Luxemburg.",
+      en: "The Bambësch is the largest forest area in Luxembourg City and an indispensable local recreation area for the urban population. With its extensive hiking, running, and cycling trails, it offers ideal conditions for sporting activities and relaxed nature experiences right on the doorstep. The heart of the forest is the leisure center with a large adventure playground, tennis courts, and sports fields, which is particularly popular with families. The old beech and oak stands are ecologically valuable, providing shelter for numerous animal species. The forest also serves as an important drinking water catchment area and regulates the capital's microclimate. Regularly guided nature hikes and forestry demonstrations take place in the Bambësch, teaching visitors the importance of sustainable forest management. The harmonious combination of active leisure and ecological protection makes the Bambësch a social and biological centerpiece of Luxembourg City.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 800 Hektar", "Trimm-dich-Pfad vorhanden", "Wichtiges Trinkwasserreservoir", "Nordwestlich von Luxemburg-Stadt"],
-      hu: ["Kb. 800 hektáros terület", "Erdei tornapálya", "Fontos ivóvíz-rezervátum", "Luxemburg város északnyugati része"],
-      ro: ["Suprafață de cca. 800 de hectare", "Pistă de antrenament fizic", "Rezervor vital de apă potabilă", "La nord-vest de orașul Luxemburg"],
-      en: ["Area of approx. 800 hectares", "Fitness trail available", "Vital drinking water reservoir", "Northwest of Luxembourg City"],
+      de: ["Größter Stadtwald Luxemburgs", "Weitläufiges Netz an Joggingpfaden", "Großer Waldspielplatz für Kinder", "Wichtiges Trinkwasserreservoir", "Standort des Tennis Club Arquebusiers", "Ökologische Pufferzone der Stadt", "Reich an Rotwild und Spechten", "Direkte ÖPNV-Anbindung"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-bambesch-life-v2.webp",
 },  {
     id: "luxembourg-grunewald-life-v2",
     parent: "LU",
     type: "forest",
-    name: { de: "Grünewald", hu: "Grünewald", ro: "Pădurea Grünewald", en: "Grünewald Forest",
-image: "/poi-images/luxembourg-grunewald-life-v2.webp"
-},
+    name: { de: "Grünewald", hu: "Grünewald", ro: "Pădurea Grünewald", en: "Grünewald Forest"},
+    image: "/poi-images/luxembourg-grunewald-life-v2.webp",
     coordinates: { lat: 49.655, lng: 6.185 },
     description: {
       de: "Der Grünewald ist das größte zusammenhängende Waldgebiet Luxemburgs und liegt nordöstlich der Hauptstadt. Er ist seit Jahrhunderten im Staatsbesitz und dient als wichtiges Wasserschutzgebiet.",
@@ -533,25 +517,24 @@ image: "/poi-images/luxembourg-grunewald-life-v2.webp"
     },
 imageHint: "Grunewald forest landscape and ancient trees",
     descriptionAdvanced: {
-      de: "Als größter zusammenhängender Wald des Landes speichert der Grünewald im Luxemburger Sandstein gewaltige Trinkwassermengen und beherbergt römische Aquädukte.",
-      hu: "Az ország legnagyobb összefüggő erdőjeként a Grünewald a luxemburgi homokkőben hatalmas mennyiségű ivóvizet tárol, és római kori vízvezetékeknek ad otthont.",
-      ro: "Cea mai mare pădure compactă din țară, Grünewald, stochează cantități mari de apă potabilă în gresia luxemburgheză și găzduiește apeducte romane.",
-      en: "As the largest contiguous forest in the country, the Grünewald stores massive amounts of drinking water in its sandstone and features Roman aqueducts.",
+      de: "Der Gréngewald ist das größte zusammenhängende Waldmassiv Luxemburgs und von enormer ökologischer sowie historischer Bedeutung für das Großherzogtum. Gelegen nordöstlich der Hauptstadt, dient er als grüne Lunge der Metropolregion und als eines der wichtigsten Trinkwassereinzugsgebiete des Landes. Der Wald ist geprägt von majestätischen Buchenbeständen und einem weitläufigen Netz an historischen Wegen, die teilweise bis in die Römerzeit zurückreichen. Ein besonderes archäologisches Highlight sind die 'Raschpëtzer', ein unterirdisches Aquäduktsystem aus römischer Zeit, das die technische Meisterleistung früherer Epochen bezeugt. Der Gréngewald beherbergt eine reiche Fauna, darunter Rotwild, Wildschweine und zahlreiche Greifvögel, die in den ungestörten Kernzonen Rückzugsorte finden. Das Waldgebiet steht unter besonderem Schutz, um die Biodiversität und die Wasserqualität langfristig zu sichern. Für Wanderer und Naturfreunde bietet der Gréngewald endlose Möglichkeiten, die Ruhe und die natürliche Schönheit der luxemburgischen Waldlandschaft zu genießen.",
+      hu: "A Gréngewald Luxemburg legnagyobb összefüggő erdőtömbje, amely hatalmas ökológiai és történelmi jelentőséggel bír a Nagyhercegség számára. A fővárostól északkeletre található erdő a metropolisz zöld tüdejeként és az ország egyik legfontosabb ivóvízgyűjtő területeként szolgál. Az erdőt fenséges bükkösök és történelmi utak kiterjedt hálózata jellemzi, amelyek részben a római korig nyúlnak vissza. Különleges régészeti fénypont a 'Raschpëtzer', egy római kori földalatti akveduktus-rendszer, amely a korábbi korszakok technikai mestermunkájáról tanúskodik. A Gréngewald gazdag faunának ad otthont, köztük gímszarvasoknak, vaddisznóknak és számos ragadozó madárnak, amelyek a zavartalan központi zónákban találnak menedéket. Az erdőterület különleges védelem alatt áll a biodiverzitás és a vízminőség hosszú távú biztosítása érdekében. A túrázók és a természetbarátok számára a Gréngewald végtelen lehetőséget kínál a luxemburgi erdőtáj nyugalmának és természetes szépségének élvezetére.",
+      ro: "Gréngewald este cel mai mare masiv forestier continuu din Luxemburg și are o importanță ecologică și istorică enormă pentru Marele Ducat. Situat la nord-est de capitală, acesta servește ca plămân verde al regiunii metropolitane și ca una dintre cele mai importante zone de captare a apei potabile din țară. Pădurea este caracterizată de populații maiestuoase de fag și de o rețea extinsă de drumuri istorice, care datează parțial din epoca romană. Un punct culminant arheologic deosebit sunt „Raschpëtzer”, un sistem subteran de apeducte din epoca romană, care atestă măiestria tehnică a epocilor timpurii. Gréngewald găzduiește o faună bogată, inclusiv cerbi, mistreți și numeroase păsări de pradă care găsesc refugiu în zonele centrale neperturbate. Zona forestieră se află sub protecție specială pentru a asigura biodiversitatea și calitatea apei pe termen lung. Pentru drumeți și iubitorii de natură, Gréngewald oferă posibilități nesfârșite de a se bucura de liniștea și frumusețea naturală a peisajului forestier luxemburghez.",
+      en: "The Gréngewald is Luxembourg's largest continuous forest massif and is of enormous ecological and historical importance for the Grand Duchy. Located northeast of the capital, it serves as the green lung of the metropolitan region and as one of the country's most important drinking water catchment areas. The forest is characterized by majestic beech stands and an extensive network of historic paths, some of which date back to Roman times. A special archaeological highlight is the 'Raschpëtzer,' an underground aqueduct system from Roman times that testifies to the technical mastery of earlier eras. The Gréngewald is home to a rich fauna, including red deer, wild boar, and numerous birds of prey that find sanctuary in the undisturbed core zones. The forest area is under special protection to ensure long-term biodiversity and water quality. For hikers and nature lovers, the Gréngewald offers endless opportunities to enjoy the peace and natural beauty of the Luxembourgish forest landscape.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 4500 Hektar", "Römische Raschpëtzer-Anlage", "Sandstein-Grundwasserleiter", "Historisches Jagdrevier"],
-      hu: ["Kb. 4500 hektáros terület", "Római kori Raschpëtzer-mű", "Homokkő víztartó réteg", "Történelmi vadászterület"],
-      ro: ["Suprafață de cca. 4500 hectare", "Instalația romană Raschpëtzer", "Acvifer în gresie", "Fost domeniu istoric de vânătoare"],
-      en: ["Area of approx. 4500 hectares", "Roman Raschpëtzer system", "Sandstone aquifer storage", "Historic hunting ground"],
+      de: ["Größtes zusammenhängendes Waldmassiv", "Wichtigstes Trinkwasserreservoir der Stadt", "Römische Aquädukte (Raschpëtzer)", "Dominiert von Buchenwäldern", "Historisch Eigentum der Großherzöge", "Teil des Natura 2000-Netzwerks", "Reich an Quellen und Bächen", "Beliebtes Wandergebiet bei Senningerberg"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-grunewald-life-v2.webp",
 },  {
     id: "luxembourg-petruss-park-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Petruss-Park", hu: "Pétrusse-park", ro: "Parcul Pétrusse", en: "Petruss Park",
-image: "/poi-images/luxembourg-petruss-park-life-v2.webp"
-},
+    name: { de: "Petruss-Park", hu: "Pétrusse-park", ro: "Parcul Pétrusse", en: "Petruss Park"},
+    image: "/poi-images/luxembourg-petruss-park-life-v2.webp",
     coordinates: { lat: 49.605, lng: 6.13 },
     description: {
       de: "Dieser weitläufige Park liegt im tief eingeschnittenen Tal der Petruss, direkt unter den Festungsmauern der Stadt. Er ist bekannt für seine steilen Felswände und die grüne Oase inmitten der Urbanität.",
@@ -567,25 +550,24 @@ image: "/poi-images/luxembourg-petruss-park-life-v2.webp"
     },
     imageHint: "Petruss valley park with cliffs and fortress walls",
     descriptionAdvanced: {
-      de: "Der Petruss-Park erstreckt sich im tiefen Tal unter den Festungsmauern und fasziniert durch seine Felsformationen sowie die Terrassengärten des 19. Jahrhunderts.",
-      hu: "A Petruss-park az erődítményfalak alatti mély völgyben húzódik, és lenyűgöző sziklaalakzataival, valamint 19. századi teraszos kertjeivel bűvöli el a látogatókat.",
-      ro: "Parcul Pétrusse se întinde în valea adâncă de sub zidurile cetății și fascinează prin formațiunile stâncoase și grădinile terasate din secolul al XIX-lea.",
-      en: "The Petruss Park stretches through the deep valley below the fortress walls, featuring striking rock formations and 19th-century terraced gardens.",
+      de: "Das Petrusstal ist eine spektakuläre Schlucht, die die Oberstadt von Luxemburg-Stadt vom Bahnhofsviertel trennt, und beherbergt eine der beeindruckendsten Parkanlagen der Hauptstadt. Der Park erstreckt sich entlang des Flusses Petrusse und ist geprägt von steilen Felswänden, historischen Festungswerken und einer üppigen Vegetation. In den letzten Jahren wurde das Tal im Rahmen eines großangelegten Projekts renaturiert, wobei die Betonmauern des Flussbetts entfernt und durch natürliche Uferzonen ersetzt wurden. Dies hat zur Rückkehr zahlreicher Tier- und Pflanzenarten geführt und die ökologische Qualität des Tals erheblich verbessert. Besucher können auf verschlungenen Wegen unterhalb der monumentalen Adolphe-Brücke spazieren und dabei die einzigartige Symbiose aus Natur und Geschichte erleben. Der Park bietet zudem zahlreiche Freizeitaktivitäten, darunter den größten Skatepark des Landes und großzügige Spielplätze. Die terrassierten Gärten und die Ruhe tief in der Schlucht lassen den Trubel der darüber liegenden Stadt vergessen. Das Petrusstal ist somit ein lebendiges Symbol für die Verbindung von urbaner Dynamik und ökologischem Bewusstsein.",
+      hu: "A Petrusse-völgy egy látványos szurdok, amely Luxemburg város felsővárosát választja el a pályaudvari negyedtől, és a főváros egyik leglenyűgözőbb parkjának ad otthont. A park a Petrusse folyó mentén húzódik, meredek sziklafalak, történelmi erődítmények és dús növényzet jellemzi. Az elmúlt években a völgyet egy nagyszabású projekt keretében renaturálták, melynek során a folyómeder betonfalait eltávolították és természetes partmenti zónákkal helyettesítették. Ez számos állat- és növényfaj visszatéréséhez vezetett, és jelentősen javította a völgy ökológiai minőségét. A látogatók kanyargós utakon sétálhatnak a monumentális Adolphe-híd alatt, miközben átélhetik a természet és a történelem egyedülálló szimbiózisát. A park emellett számos szabadidős tevékenységet kínál, köztük az ország legnagyobb skateparkját és tágas játszótereket. A teraszos kertek és a mélyen a szurdokban lévő nyugalom elfeledtetik a felette lévő város forgatagát. A Petrusse-völgy így az urbanizált dinamizmus és az ökológiai tudatosság összekapcsolódásának élő szimbóluma.",
+      ro: "Valea Pétrusse este un defileu spectaculos care separă orașul de sus de cartierul gării din Luxemburg și găzduiește unul dintre cele mai impresionante parcuri ale capitalei. Parcul se întinde de-a lungul râului Pétrusse și este caracterizat de pereți de stâncă abrupți, fortificații istorice și o vegetație luxuriantă. În ultimii ani, valea a fost renaturată în cadrul unui proiect de anvergură, zidurile de beton ale albiei râului fiind îndepărtate și înlocuite cu zone de mal naturale. Acest lucru a dus la revenirea a numeroase specii de animale și plante și a îmbunătățit considerabil calitatea ecologică a văii. Vizitatorii se pot plimba pe poteci sinuoase sub monumentalul pod Adolphe și pot experimenta simbioza unică dintre natură și istorie. Parcul oferă, de asemenea, numeroase activități de recreere, inclusiv cel mai mare skatepark din țară și locuri de joacă generoase. Grădinile terasate și liniștea din adâncul defileului te fac să uiți de agitația orașului de deasupra. Valea Pétrusse este astfel un simbol viu al legăturii dintre dinamica urbană și conștiința ecologică.",
+      en: "The Petrusse Valley is a spectacular gorge that separates the upper city of Luxembourg City from the station district and is home to one of the capital's most impressive parklands. The park stretches along the Petrusse river and is characterized by steep rock walls, historic fortifications, and lush vegetation. In recent years, the valley has been restored as part of a large-scale project, where the concrete walls of the riverbed were removed and replaced with natural riparian zones. This has led to the return of numerous animal and plant species and has significantly improved the ecological quality of the valley. Visitors can stroll along winding paths beneath the monumental Adolphe Bridge while experiencing the unique symbiosis of nature and history. The park also offers numerous recreational activities, including the country's largest skatepark and spacious playgrounds. The terraced gardens and the peace deep in the gorge make one forget the bustle of the city above. The Petrusse Valley is thus a living symbol of the connection between urban dynamics and ecological awareness.",
     },
     factsAdvanced: {
-      de: ["Gestaltung von Edouard André", "Großer Skatepark integriert", "Lage im ehemaligen Festungsgraben", "Renaturierung des Flusslaufs"],
-      hu: ["Edouard André tervezése", "Beépített nagy skatepark", "Az egykori várárokban található", "A folyómeder rehabilitációja"],
-      ro: ["Proiectat de Edouard André", "Skatepark mare integrat", "Situat în fostul șanț al cetății", "Renaturarea cursului râului"],
-      en: ["Designed by Edouard André", "Integrated large skatepark", "Located in former fortress ditch", "Riverbed restoration project"],
+      de: ["Spektakuläre Schluchtlage", "Historische Festungswerke (UNESCO)", "Großangelegte Renaturierung (2020er)", "Größter Skatepark Luxemburgs", "Unterquerung der Adolphe-Brücke", "Sitz der 'Gëlle Fra' am oberen Rand", "Reich an Farnen und Moosen", "Mikroklima durch tiefe Lage"],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "luxembourg-parc-de-merl-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Parc de Merl", hu: "Merl-park", ro: "Parcul Merl", en: "Parc de Merl",
-image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp"
-},
+    name: { de: "Parc de Merl", hu: "Merl-park", ro: "Parcul Merl", en: "Parc de Merl"},
+    image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp",
     coordinates: { lat: 49.606, lng: 6.112 },
     description: {
       de: "Der Parc de Merl ist eine der beliebtesten Grünanlagen der Hauptstadt, besonders für Familien. Ein großer Teich mit Springbrunnen bildet den Mittelpunkt der gepflegten Anlage.",
@@ -601,25 +583,24 @@ image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp"
     },
 imageHint: "Parc de Merl pond and fountain in Luxembourg City",
     descriptionAdvanced: {
-      de: "Dieser familienfreundliche Park ist für seinen großen Ententeich bekannt und dient als grüne Oase im Zentrum der Hauptstadt mit vielfältigen Spielmöglichkeiten.",
-      hu: "Ez a családbarát park a nagy kacsaúsztatójáról ismert, és a főváros központjában található zöld oázisként szolgál változatos játéklehetőségekkel.",
-      ro: "Acest parc ideal pentru familii este cunoscut pentru iazul său cu rațe și servește drept oază verde în centrul capitalei, cu numeroase locuri de joacă.",
-      en: "This family-friendly park is known for its large duck pond and serves as a green oasis in the capital's center with diverse recreational facilities.",
+      de: "Der Parc de Merl ist einer der beliebtesten und lebhaftesten Stadtparks in Luxemburg-Stadt, gelegen im gleichnamigen Wohnviertel Merl. Das Herzstück des Parks ist ein großer künstlicher See, der von Enten und Schwänen bewohnt wird und dessen Ufer zum Entspannen einladen. Der Park ist besonders bei Familien bekannt für seinen außergewöhnlich großen und gut ausgestatteten Spielplatz sowie das beliebte Trampolin-Areal. Weite Rasenflächen bieten Platz für Picknicks, Yoga und sportliche Aktivitäten unter freiem Himmel. Botanisch gesehen besticht der Park durch seinen alten Baumbestand und die sorgfältig gepflegten Blumenbeete, die zu jeder Jahreszeit Akzente setzen. Ein gemütliches Pavillon-Restaurant direkt am Wasser dient als sozialer Treffpunkt und bietet einen herrlichen Blick über die gesamte Anlage. Der Parc de Merl ist ein Musterbeispiel für einen multifunktionalen Stadtpark, der ökologische Nischen mit intensiver menschlicher Nutzung harmonisch verbindet. Er fungiert als grüne Lunge des Viertels und fördert den sozialen Zusammenhalt in der Hauptstadt.",
+      hu: "A Parc de Merl Luxemburg város egyik legnépszerűbb és legélénkebb városi parkja, amely a hasonló nevű Merl lakónegyedben található. A park szíve egy nagy mesterséges tó, amelyben kacsák és hattyúk laknak, partja pedig pihenésre csábít. A park különösen népszerű a családok körében a rendkívül nagy és jól felszerelt játszóteréről, valamint a kedvelt trambulinpályájáról. A széles gyepfelületek helyet biztosítanak piknikezéshez, jógához és szabadtéri sporttevékenységekhez. Botanikai szempontból a park öreg faállományával és gondosan ápolt virágágyásaival nyűgöz le, amelyek minden évszakban látványosak. Közvetlenül a vízparton egy hangulatos pavilon-étterem szolgál közösségi találkozóhelyként, ahonnan csodálatos kilátás nyílik az egész létesítményre. A Parc de Merl a többfunkciós városi park mintapéldája, amely harmonikusan ötvözi az ökológiai fülkéket az intenzív emberi használattal. A negyed zöld tüdejeként funkcionál, és elősegíti a főváros társadalmi összetartását.",
+      ro: "Parcul Merl este unul dintre cele mai populare și animate parcuri urbane din orașul Luxemburg, situat în cartierul rezidențial cu același nume, Merl. Inima parcului este un lac artificial mare, locuit de rațe și lebede, ale cărui maluri invită la relaxare. Parcul este cunoscut în special de familii pentru locul său de joacă excepțional de mare și bine echipat, precum și pentru zona populară de trambuline. Peluzele largi oferă spațiu pentru picnicuri, yoga și activități sportive în aer liber. Din punct de vedere botanic, parcul impresionează prin arborii săi vechi și straturile de flori atent întreținute, care pun accente în fiecare sezon. Un restaurant-pavilion primitor, situat direct pe apă, servește ca punct de întâlnire socială și oferă o vedere magnifică asupra întregii facilități. Parcul Merl este un exemplu model de parc urban multifuncțional care combină armonios nișele ecologice cu utilizarea umană intensă. Acționează ca un plămân verde al cartierului și promovează coeziunea socială în capitală.",
+      en: "Parc de Merl is one of the most popular and vibrant city parks in Luxembourg City, located in the residential district of the same name, Merl. The heart of the park is a large artificial lake inhabited by ducks and swans, its shores inviting relaxation. The park is particularly well-known among families for its exceptionally large and well-equipped playground and popular trampoline area. Vast lawns provide space for picnics, yoga, and outdoor sporting activities. Botanically, the park impresses with its old trees and carefully maintained flower beds that set highlights in every season. A cozy pavilion restaurant right on the water serves as a social meeting point and offers a magnificent view over the entire facility. Parc de Merl is a prime example of a multifunctional city park that harmoniously combines ecological niches with intensive human use. It functions as the green lung of the district and promotes social cohesion in the capital.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 5 Hektar", "Großer zentraler Teich", "Bekannter Musikpavillon", "Beliebter Treffpunkt für Familien"],
-      hu: ["Kb. 5 hektáros terület", "Nagy központi tó", "Ismert zenepavilon", "Népszerű családi találkozóhely"],
-      ro: ["Suprafață de cca. 5 hectare", "Iaz central de mari dimensiuni", "Pavilion de muzică renumit", "Loc popular pentru familii"],
-      en: ["Area of approx. 5 hectares", "Large central pond", "Well-known music pavilion", "Popular meeting spot for families"],
+      de: ["Zentraler See mit Entenhaus", "Größter Kinderspielplatz der Stadt", "Beliebte Trampolinanlage", "Pavillon-Restaurant am Wasser", "Lage im schicken Merl-Viertel", "Kostenloses öffentliches WLAN", "Alter, schattenspendender Baumbestand", "Veranstaltungsort für Sommerkonzerte"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-parc-de-merl-life-v2.webp",
 },  {
     id: "luxembourg-municipal-park-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Stadtpark Luxemburg", hu: "Luxemburgi Városliget", ro: "Parcul Municipal Luxemburg", en: "Municipal Park Luxembourg",
-image: "/poi-images/luxembourg-municipal-park-life-v2.webp"
-},
+    name: { de: "Stadtpark Luxemburg", hu: "Luxemburgi Városliget", ro: "Parcul Municipal Luxemburg", en: "Municipal Park Luxembourg"},
+    image: "/poi-images/luxembourg-municipal-park-life-v2.webp",
     coordinates: { lat: 49.612, lng: 6.124 },
     description: {
       de: "Der Stadtpark wurde im 19. Jahrhundert auf den ehemaligen Festungsanlagen angelegt. Er ist ein klassischer englischer Landschaftsgarten mit altem Baumbestand und Denkmälern.",
@@ -635,25 +616,24 @@ image: "/poi-images/luxembourg-municipal-park-life-v2.webp"
     },
     imageHint: "Municipal Park Luxembourg City with old trees",
     descriptionAdvanced: {
-      de: "Nach dem Abriss der Festung auf dem Gelände der ehemaligen Außenwerke angelegt, bildet dieser Park einen eleganten Gürtel aus englischen Gärten um die Oberstadt.",
-      hu: "Az erődítmény lebontása után az egykori külső védművek területén kialakított park elegáns angolkert-övezetet alkot a felsőváros körül.",
-      ro: "Creat după demolarea cetății pe locul fostelor fortificații exterioare, acest parc formează o centură elegantă de grădini englezești în jurul orașului.",
-      en: "Created after the fortress's demolition on the site of former outworks, this park forms an elegant belt of English gardens around the Upper City.",
+      de: "Der Stadtpark von Luxemburg (Parc Municipal) ist ein grünes Band, das die historische Oberstadt umrahmt und auf den ehemaligen Glacis-Festungsanlagen angelegt wurde. Entworfen vom berühmten Landschaftsarchitekten Édouard André im späten 19. Jahrhundert, besticht der Park durch seine gelungene Kombination aus englischem Landschaftsgarten und historischen Monumenten. Besucher finden hier weite Sichtachsen, malerische Teiche und eine beeindruckende Sammlung exotischer Bäume, die damals aus aller Welt importiert wurden. Ein besonderes Juwel innerhalb des Parks ist die Villa Vauban, die heute die städtische Kunstgalerie beherbergt und von einem besonders gepflegten Gartenbereich umgeben ist. Der Park dient als wichtiges Bindeglied zwischen den verschiedenen Stadtteilen und bietet zahlreiche Rückzugsorte inmitten des urbanen Lebens. Mit seinen Spielplätzen, Denkmälern und schattigen Alleen ist er zu jeder Jahreszeit ein Anziehungspunkt für Touristen und Einheimische. Die geschickte Nutzung der alten Festungsmauern als terrassierte Ebenen verleiht dem Park eine einzigartige topografische Tiefe.",
+      hu: "Luxemburg városi parkja (Parc Municipal) egy zöld szalag, amely a történelmi felsővárost övezi, és a korábbi Glacis-erődítmények helyén jött létre. A híres tájépítész, Édouard André által a 19. század végén tervezett park az angol tájképi kert és a történelmi műemlékek sikeres kombinációjával nyűgöz le. A látogatók tágas kilátókat, festői tavakat és egzotikus fák lenyűgöző gyűjteményét találják itt, amelyeket annak idején a világ minden tájáról importáltak. A park egyik különleges ékköve a Villa Vauban, amely ma a városi művészeti galériának ad otthont, és egy különösen gondozott kertrész veszi körül. A park fontos összekötő kapocsként szolgál a különböző városrészek között, és számos menedéket kínál a városi élet közepette. Játszótereivel, emlékműveivel és árnyas sétányaival minden évszakban vonzza a turistákat és a helyieket. A régi erődfalak teraszos szintekként való ügyes használata egyedülálló topográfiai mélységet ad a parknak.",
+      ro: "Parcul Municipal din Luxemburg este o bandă verde care încadrează orașul istoric de sus și a fost amenajat pe fostele fortificații Glacis. Proiectat de celebrul arhitect peisagist Édouard André la sfârșitul secolului al XIX-lea, parcul impresionează prin combinația reușită de grădină peisagistică engleză și monumente istorice. Vizitatorii găsesc aici axe vizuale largi, iazuri pitorești și o colecție impresionantă de arbori exotici, importați atunci din întreaga lume. O bijuterie specială în cadrul parcului este Villa Vauban, care găzduiește astăzi galeria municipală de artă și este înconjurată de o zonă de grădină deosebit de bine întreținută. Parcul servește ca o legătură importantă între diferitele cartiere ale orașului și oferă numeroase locuri de retragere în mijlocul vieții urbane. Cu locurile sale de joacă, monumentele și aleile umbrite, este un punct de atracție pentru turiști și localnici în orice anotimp. Utilizarea ingenioasă a vechilor ziduri ale cetății ca niveluri terasate conferă parcului o profunzime topografică unică.",
+      en: "The Municipal Park of Luxembourg is a green ribbon framing the historic upper city, laid out on the former Glacis fortifications. Designed by the famous landscape architect Édouard André in the late 19th century, the park impresses with its successful combination of an English landscape garden and historic monuments. Visitors find wide vistas, picturesque ponds, and an impressive collection of exotic trees imported from around the world at the time. A special gem within the park is the Villa Vauban, which today houses the municipal art gallery and is surrounded by a particularly well-maintained garden area. The park serves as an important link between various city districts and offers numerous retreats in the middle of urban life. With its playgrounds, monuments, and shaded avenues, it is a draw for tourists and locals in every season. The clever use of old fortress walls as terraced levels gives the park a unique topographical depth.",
     },
     factsAdvanced: {
-      de: ["Anlage ab 1871", "Planung durch Edouard André", "Ehemalige Festungsstandorte", "Zentrum für zeitgenössische Kunst"],
-      hu: ["1871-től alakították ki", "Edouard André tervei alapján", "Egykori erődítményhelyszínek", "Kortárs művészeti központ"],
-      ro: ["Amenajat începând cu 1871", "Planificat de Edouard André", "Foste locații ale fortificațiilor", "Centru de artă contemporană"],
-      en: ["Laid out from 1871", "Planned by Edouard André", "Former fortress locations", "Center for contemporary art"],
+      de: ["Entworfen von Édouard André (1870er)", "Lage auf ehemaligen Festungswällen", "Beherbergt die Kunstgalerie Villa Vauban", "Alter Bestand an Mammutbäumen", "Zentraler Piratenschiff-Spielplatz", "Verbindung zwischen Oberstadt und Belair", "Mehrere historische Denkmäler im Park", "Teil des städtischen Grüngürtels"],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "luxembourg-tony-neuman-park-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Parc Tony Neuman", hu: "Tony Neuman park", ro: "Parcul Tony Neuman", en: "Tony Neuman Park",
-image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp"
-},
+    name: { de: "Parc Tony Neuman", hu: "Tony Neuman park", ro: "Parcul Tony Neuman", en: "Tony Neuman Park"},
+    image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp",
     coordinates: { lat: 49.622, lng: 6.115 },
     description: {
       de: "Dieser Park im Stadtteil Limpertsberg beherbergt eine Sammlung bedeutender Skulpturen luxemburgischer Künstler. Er ist bekannt für seine Ruhe und den gepflegten Baumbestand.",
@@ -669,25 +649,24 @@ image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp"
     },
 imageHint: "Tony Neuman Park sculptures and green lawn",
     descriptionAdvanced: {
-      de: "In der Villengegend von Limpertsberg gelegen präsentiert dieser Park eine exquisite Sammlung moderner Skulpturen inmitten eines alten, gepflegten Baumbestandes.",
-      hu: "A Limpertsberg villanegyedében található park modern szobrok válogatott gyűjteményét mutatja be egy régi, gondozott faállomány ölelésében.",
-      ro: "Situat în zona de vile din Limpertsberg, acest parc prezintă o colecție rafinată de sculpturi moderne în mijlocul unor arbori vechi și bine întreținuți.",
-      en: "Located in the Limpertsberg villa district, this park displays an exquisite collection of modern sculptures amidst mature, well-tended trees.",
+      de: "Der Parc Tony Neuman im Stadtteil Limpertsberg ist ein verstecktes Juwel, das Kunst und Gartenkultur auf elegante Weise verbindet. Der Park war einst Teil des privaten Anwesens des luxemburgischen Industriellen Tony Neuman und wurde später der Öffentlichkeit zugänglich gemacht. Er besticht durch seine terrassierte Anlage, die wertvolle Skulpturensammlung namhafter Künstler und eine Vielfalt an botanischen Besonderheiten. Besucher können hier Werke von Bildhauern wie Henry Moore oder Lucien Wercollier inmitten von sorgfältig kuratierten Pflanzungen bewundern. Die ruhige Atmosphäre des Parks macht ihn zu einem idealen Ort für Kontemplation und entspannte Spaziergänge abseits der touristischen Hauptpfade. Besonders im Frühjahr beeindruckt die Blütenpracht der zahlreichen Rhododendren und Azaleen. Der Park spiegelt den bürgerlichen Charme des Limpertsberg-Viertels wider und ist ein Zeugnis privaten Mäzenatentums für das öffentliche Wohl. Die harmonische Einbettung der Kunstwerke in die Landschaft macht jeden Besuch zu einem ästhetischen Erlebnis.",
+      hu: "A Limpertsberg negyedben található Tony Neuman Park egy rejtett ékkő, amely elegáns módon ötvözi a művészetet és a kertkultúrát. A park egykor Tony Neuman luxemburgi iparos magánbirtokának része volt, majd később megnyitották a nagyközönség előtt. Teraszos elrendezésével, neves művészek értékes szoborgyűjteményével és botanikai különlegességek sokaságával nyűgöz le. A látogatók olyan szobrászok alkotásait csodálhatják meg itt, mint Henry Moore vagy Lucien Wercollier, gondosan válogatott ültetvények közepette. A park nyugodt légköre ideális hellyé teszi az elmélkedésre és a pihentető sétákra a főbb turistaútvonalaktól távol. Különösen tavasszal lenyűgöző a számos rododendron és azálea virágpompája. A park Limpertsberg negyed polgári báját tükrözi, és a közjó érdekében végzett magánmecenatúra tanúbizonysága. A műalkotások tájba való harmonikus beágyazása minden látogatást esztétikai élménnyé tesz.",
+      ro: "Parcul Tony Neuman din cartierul Limpertsberg este o bijuterie ascunsă care combină arta și cultura grădinilor într-un mod elegant. Parcul a fost odinioară parte a domeniului privat al industriașului luxemburghez Tony Neuman și a fost ulterior deschis publicului. Impresionează prin amenajarea sa terasată, colecția valoroasă de sculpturi ale unor artiști renumiți și o varietate de particularități botanice. Vizitatorii pot admira aici lucrări ale unor sculptori precum Henry Moore sau Lucien Wercollier în mijlocul unor plantații atent curatoriate. Atmosfera liniștită a parcului îl face un loc ideal pentru contemplare și plimbări relaxante, departe de traseele turistice principale. Mai ales primăvara, splendoarea florilor numeroșilor rododendroni și azalee este impresionantă. Parcul reflectă farmecul burghez al cartierului Limpertsberg și este o mărturie a mecenatului privat pentru binele public. Integrarea armonioasă a operelor de artă în peisaj face din fiecare vizită o experiență estetică.",
+      en: "Tony Neuman Park in the Limpertsberg district is a hidden gem that elegantly combines art and garden culture. The park was once part of the private estate of Luxembourgish industrialist Tony Neuman and was later opened to the public. It impresses with its terraced layout, a valuable collection of sculptures by renowned artists, and a variety of botanical features. Visitors can admire works by sculptors such as Henry Moore or Lucien Wercollier amidst carefully curated plantings. The park's peaceful atmosphere makes it an ideal place for contemplation and relaxed walks off the main tourist paths. Especially in spring, the floral splendor of the numerous rhododendrons and azaleas is impressive. The park reflects the bourgeois charm of the Limpertsberg district and is a testament to private patronage for the public good. The harmonious embedding of the artworks into the landscape makes every visit an aesthetic experience.",
     },
     factsAdvanced: {
-      de: ["Sammlung lokaler Bildhauer", "Ehemaliger Privatgarten", "Lage im Viertel Limpertsberg", "Moderne Kunstausstellung"],
-      hu: ["Helyi szobrászok gyűjteménye", "Egykori magánkert", "A Limpertsberg negyedben található", "Modern művészeti kiállítás"],
-      ro: ["Colecție de sculptori locali", "Fostă grădină privată", "Situat în cartierul Limpertsberg", "Expoziție de artă modernă"],
-      en: ["Collection of local sculptors", "Former private garden", "Located in Limpertsberg district", "Modern art display"],
+      de: ["Ehemaliger Privatgarten von Tony Neuman", "Bedeutende Skulpturensammlung (u.a. Henry Moore)", "Lage im Limpertsberg-Viertel", "Terrassierte Gartenarchitektur", "Prachtvolle Rhododendron-Blüte im Mai", "Ruhige Oase abseits des Zentrums", "Kombination aus Kunst und Botanik", "Freier Eintritt für die Öffentlichkeit"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-tony-neuman-park-life-v2.webp",
 },  {
     id: "luxembourg-am-groussebesch-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Am Groussebësch", hu: "Am Groussebësch természetvédelmi terület", ro: "Rezervația Naturală Am Groussebësch", en: "Am Groussebësch Nature Reserve",
-image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Am Groussebësch", hu: "Am Groussebësch természetvédelmi terület", ro: "Rezervația Naturală Am Groussebësch", en: "Am Groussebësch Nature Reserve"},
+    image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp",
     coordinates: { lat: 49.635, lng: 6.255 },
     description: {
       de: "Dieses Waldreservat bei Niederanven ist geprägt durch alte Buchen- und Eichenbestände. Es schützt seltene Tierarten wie den Schwarzspecht und verschiedene Fledermausarten.",
@@ -703,25 +682,24 @@ image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp"
     },
 imageHint: "Am Groussebesch forest reserve ancient beech trees",
     descriptionAdvanced: {
-      de: "Dieses Waldreservat bei Niederanven ist geprägt durch seinen hohen Anteil an Totholz und dient als wichtiger Rückzugsort für seltene Spechte und Fledermausarten.",
-      hu: "Ez a Niederanven melletti erdőrezervátumot a holtfa magas aránya jellemzi, és fontos menedékhelyként szolgál ritka harkályok és denevérfajok számára.",
-      ro: "Această rezervație forestieră de lângă Niederanven este marcată de o proporție mare de lemn mort, fiind un refugiu pentru ciocănitori și lilieci.",
-      en: "This forest reserve near Niederanven is characterized by its high proportion of deadwood, serving as a vital sanctuary for rare woodpeckers and bat species.",
+      de: "Das Naturschutzgebiet Am Groussebësch bei Schuttrange ist ein wertvoller Rückzugsort für die heimische Flora und Fauna im zentralen Teil Luxemburgs. Das Areal ist geprägt von naturnahen Laubmischwäldern, in denen mächtige Buchen und Eichen dominieren. Ökologisch besonders wertvoll sind die zahlreichen Tümpel und feuchten Senken, die als wichtige Laichgewässer für Amphibien wie den Bergmolch und den Grasfrosch dienen. Durch den hohen Anteil an Totholz bietet der Wald zudem ideale Lebensbedingungen für seltene Käferarten und Höhlenbrüter wie den Schwarzspecht. Besucher können das Gebiet auf ruhigen Waldwegen erkunden und dabei die jahreszeitlichen Veränderungen der Waldgesellschaften beobachten. Die Groussebësch dient auch als natürlicher Wasserspeicher und trägt zur Stabilisierung des lokalen Klimas bei. Das Management des Reservats konzentriert sich auf den Erhalt der natürlichen Waldentwicklung und den Schutz der empfindlichen Feuchtbiotope innerhalb des Waldmassivs.",
+      hu: "A Schuttrange melletti Am Groussebësch természetvédelmi terület a hazai flóra és fauna értékes menedékhelye Luxemburg középső részén. A területet természetközeli lombos elegyes erdők jellemzik, amelyekben hatalmas bükkök és tölgyek dominálnak. Ökológiai szempontból különösen értékesek a számos tócsa és nedves mélyedés, amelyek fontos szaporodóhelyként szolgálnak az olyan kétéltűek számára, mint az alpesi gőte és a gyepi béka. A holtfa magas arányának köszönhetően az erdő ideális életfeltételeket biztosít a ritka bogárfajoknak és az olyan odúlakó madaraknak, mint a fekete harkály. A látogatók csendes erdei utakon fedezhetik fel a területet, és megfigyelhetik az erdei társulások évszakos változásait. A Groussebësch természetes víztározóként is szolgál, és hozzájárul a helyi klíma stabilizálásához. A rezervátum kezelése a természetes erdőfejlődés fenntartására és az erdőtömbön belüli érzékeny vizes élőhelyek védelmére összpontosít.",
+      ro: "Rezervația naturală Am Groussebësch de lângă Schuttrange este un refugiu valoros pentru flora și fauna locală în partea centrală a Luxemburgului. Zona este caracterizată de păduri mixte de foioase aproape naturale, în care domină fagii și stejarii impunători. Deosebit de valoroase din punct de vedere ecologic sunt numeroasele iazuri și depresiuni umede, care servesc ca locuri importante de depunere a icrelor pentru amfibieni precum tritonul de munte și broasca roșie de munte. Datorită proporției mari de lemn mort, pădurea oferă condiții ideale de viață pentru specii rare de gândaci și păsări care cuibăresc în cavități, cum ar fi ciocănitoarea neagră. Vizitatorii pot explora zona pe poteci forestiere liniștite și pot observa schimbările sezoniere ale comunităților forestiere. Groussebësch servește, de asemenea, ca rezervor natural de apă și contribuie la stabilizarea climatului local. Managementul rezervației se concentrează pe conservarea dezvoltării naturale a pădurii și pe protejarea biotopurilor umede sensibile din masivul forestier.",
+      en: "The Am Groussebësch nature reserve near Schuttrange is a valuable sanctuary for native flora and fauna in the central part of Luxembourg. The area is characterized by near-natural deciduous mixed forests dominated by mighty beech and oak trees. Ecologically, the numerous ponds and wet depressions are particularly valuable, serving as important spawning grounds for amphibians such as the Alpine newt and the common frog. Due to the high proportion of deadwood, the forest also provides ideal living conditions for rare beetle species and cavity-nesting birds such as the Black Woodpecker. Visitors can explore the area on quiet forest paths and observe the seasonal changes of the forest communities. The Groussebësch also serves as a natural water reservoir and contributes to stabilizing the local climate. The management of the reserve focuses on preserving natural forest development and protecting the sensitive wetland biotopes within the forest massif.",
     },
     factsAdvanced: {
-      de: ["Naturwaldreservat", "Hoher Anteil an Altbuchen", "Schutz bedrohter Insekten", "Fläche von ca. 30 Hektar"],
-      hu: ["Természetes erdőrezervátum", "Idős bükkfák magas aránya", "Veszélyeztetett rovarok védelme", "Kb. 30 hektáros terület"],
-      ro: ["Rezervație forestieră naturală", "Proporție mare de fagi bătrâni", "Protecția insectelor periclitate", "Suprafață de cca. 30 de hectare"],
-      en: ["Natural forest reserve", "High share of old beech trees", "Protection of threatened insects", "Area of approx. 30 hectares"],
+      de: ["Naturnaher Laubmischwald", "Wichtiges Amphibien-Laichgebiet", "Hoher Anteil an ökologischem Totholz", "Vorkommen des Schwarzspechts", "Lage im Syrtal bei Schuttrange", "Schutz von feuchten Waldsenken", "Ruhezone für das heimische Wild", "Teil eines größeren Biotopverbunds"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-am-groussebesch-life-v2.webp",
 },  {
     id: "luxembourg-canecher-wengertsbierg-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Canecher Wéngertsbierg", hu: "Canecher Wéngertsbierg természetvédelmi terület", ro: "Rezervația Naturală Canecher Wéngertsbierg", en: "Canecher Wéngertsbierg",
-image: "/poi-images/luxembourg-canecher-wengertsbierg-life-v2.webp"
-},
+    name: { de: "Canecher Wéngertsbierg", hu: "Canecher Wéngertsbierg természetvédelmi terület", ro: "Rezervația Naturală Canecher Wéngertsbierg", en: "Canecher Wéngertsbierg"},
+    image: "/poi-images/luxembourg-canecher-wengertsbierg-life-v2.webp",
     coordinates: { lat: 49.612, lng: 6.335 },
     description: {
       de: "Das Gebiet umfasst historische Weinberge mit beeindruckenden Trockenmauern bei Canach. Es ist heute ein wichtiger Lebensraum für Reptilien und wärmeliebende Pflanzenarten.",
@@ -737,25 +715,24 @@ image: "/poi-images/luxembourg-canecher-wengertsbierg-life-v2.webp"
     },
     imageHint: "Canach vineyard stone walls and nature reserve",
     descriptionAdvanced: {
-      de: "Der Wengertsbierg bei Canach ist bekannt für seine wertvollen Trockenrasen und historischen Trockenmauern, die ein einzigartiges Mikroklima für Flora und Fauna schaffen.",
-      hu: "A Canach melletti Wengertsbierg értékes száraz gyepeiről és történelmi szárazon rakott kőfalairól ismert, amelyek egyedülálló mikroklímát teremtenek.",
-      ro: "Dealul Wengertsbierg de lângă Canach este cunoscut pentru pajiștile uscate și zidurile istorice din piatră, care creează un microclimat unic.",
-      en: "The Wengertsbierg near Canach is renowned for its valuable dry grasslands and historic dry stone walls, creating a unique microclimate for flora and fauna.",
+      de: "Der Canecher Wengertsbierg ist ein faszinierendes Naturschutzgebiet, das die Geschichte des Weinbaus mit hochgradigem Artenschutz verbindet. Auf den sonnigen, terrassierten Hängen bei Canach haben sich wertvolle Trockenrasen und Gebüschstrukturen entwickelt, nachdem der Weinbau dort teilweise aufgegeben wurde. Das Gebiet ist bekannt für seine reiche Orchideenflora und die zahlreichen wärmeliebenden Insektenarten, die in den exponierten Lagen ideale Bedingungen finden. Besonders beeindruckend ist das Vorkommen seltener Reptilien wie der Schlingnatter, die in den alten Trockenmauern Unterschlupf findet. Ein Naturlehrpfad führt durch die ehemaligen Weinberge und informiert über die ökologische Bedeutung dieser Kulturlandschaft. Die Erhaltung der Trockenmauern ist eine zentrale Aufgabe, da sie nicht nur kulturhistorisch wertvoll sind, sondern auch als spezialisierte Mikrohabitate dienen. Der Wengertsbierg bietet zudem weite Ausblicke über das malerische Umland und ist ein Beispiel für die erfolgreiche Integration von Kulturerbe in moderne Naturschutzkonzepte.",
+      hu: "A Canecher Wengertsbierg egy lenyűgöző természetvédelmi terület, amely a borászat történelmét ötvözi a magas szintű fajvédelemmel. Canach melletti napsütötte, teraszos lejtőkön értékes száraz gyepek és cserjés szerkezetek alakultak ki, miután a szőlőtermesztést ott részben feladták. A terület gazdag orchideinflórájáról és számos melegkedvelő rovarfajról ismert, amelyek az exponált helyeken ideális feltételeket találnak. Különösen lenyűgöző a ritka hüllők, például a rézsikló előfordulása, amely a régi szárazon rakott kőfalakban talál menedéket. Egy természetismereti tanösvény vezet végig az egykori szőlőültetvényeken, tájékoztatva a látogatókat e kultúrtáj ökológiai jelentőségéről. A szárazon rakott kőfalak megőrzése központi feladat, mivel nemcsak kultúrtörténeti szempontból értékesek, hanem speciális mikroélőhelyként is szolgálnak. A Wengertsbierg emellett tágas kilátást nyújt a festői környékre, és példája a kulturális örökség sikeres integrálásának a modern természetvédelmi koncepciókba.",
+      ro: "Canecher Wengertsbierg este o rezervație naturală fascinantă care combină istoria viticulturii cu protecția speciilor de înalt nivel. Pe versanții însoriți și terasați de lângă Canach s-au dezvoltat pajiști uscate valoroase și structuri de arbuști, după ce viticultura a fost parțial abandonată acolo. Zona este cunoscută pentru flora sa bogată de orhidee și numeroasele specii de insecte iubitoare de căldură care găsesc condiții ideale în locațiile expuse. Deosebit de impresionantă este prezența reptilelor rare, cum ar fi șarpele de alun, care găsește adăpost în vechile ziduri de piatră uscată. Un traseu didactic trece prin fostele podgorii și oferă informații despre importanța ecologică a acestui peisaj cultural. Conservarea zidurilor de piatră uscată este o sarcină centrală, deoarece acestea nu sunt doar valoroase din punct de vedere cultural-istoric, ci servesc și ca microhabitate specializate. Wengertsbierg oferă, de asemenea, vederi largi asupra împrejurimilor pitorești și este un exemplu de integrare reușită a patrimoniului cultural în concepte moderne de conservare.",
+      en: "The Canecher Wengertsbierg is a fascinating nature reserve that combines the history of viticulture with high-level species protection. On the sunny, terraced slopes near Canach, valuable dry grasslands and shrub structures have developed after viticulture was partially abandoned there. The area is known for its rich orchid flora and numerous heat-loving insect species that find ideal conditions in the exposed locations. Particularly impressive is the presence of rare reptiles such as the smooth snake, which finds shelter in the old dry-stone walls. A nature trail leads through the former vineyards and informs visitors about the ecological significance of this cultural landscape. The preservation of the dry-stone walls is a central task, as they are not only culturally and historically valuable but also serve as specialized microhabitats. The Wengertsbierg also offers wide views over the picturesque surrounding area and is an example of the successful integration of cultural heritage into modern nature conservation concepts.",
     },
     factsAdvanced: {
-      de: ["Trockenmauern aus Muschelkalk", "Vorkommen seltener Reptilien", "Ehemalige Weinbergsterrassen", "Orchideen-Reichtum"],
-      hu: ["Mészkő száraz falak", "Ritka hüllők előfordulása", "Egykori szőlőteraszok", "Orchideákban gazdag terület"],
-      ro: ["Ziduri din piatră de calcar", "Prezența reptilelor rare", "Foste terase de viță de vie", "Bogăție de orhidee"],
-      en: ["Dry stone limestone walls", "Presence of rare reptiles", "Former vineyard terraces", "Abundance of orchids"],
+      de: ["Ehemalige Weinbauterrassen", "Wertvolle Trockenmauer-Biotope", "Lebensraum für die Schlingnatter", "Vorkommen seltener Orchideenarten", "Sonnige Südwesthanglage", "Lehrpfad zur Kulturlandschaft", "Schutz wärmeliebender Insekten", "Panoramablick über das Canach-Tal"],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "luxembourg-deiwelskopp-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Deiwelskopp", hu: "Deiwelskopp természetvédelmi terület", ro: "Rezervația Naturală Deiwelskopp", en: "Deiwelskopp Nature Reserve",
-image: "/poi-images/luxembourg-deiwelskopp-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Deiwelskopp", hu: "Deiwelskopp természetvédelmi terület", ro: "Rezervația Naturală Deiwelskopp", en: "Deiwelskopp Nature Reserve"},
+    image: "/poi-images/luxembourg-deiwelskopp-life-v2.webp",
     coordinates: { lat: 49.735, lng: 6.475 },
     description: {
       de: "Der Deiwelskopp bei Moersdorf ist ein steiler Muschelkalkfelsen über dem Sauertal. Er beherbergt wertvolle Kalk-Trockenrasen und eine Vielzahl an seltenen mediterranen Insektenarten.",
@@ -771,25 +748,24 @@ image: "/poi-images/luxembourg-deiwelskopp-life-v2.webp"
     },
     imageHint: "Deiwelskopp limestone cliffs and Sûre valley",
     descriptionAdvanced: {
-      de: "Dieser markante Felsvorsprung an der Untersauer bietet spektakuläre Ausblicke und beherbergt seltene Felsvegetation sowie thermophile Waldgesellschaften.",
-      hu: "Az Alsó-Sauer mentén található jellegzetes sziklakiszögellés látványos kilátást kínál, és ritka sziklalakó növényzetnek, valamint melegkedvelő erdőknek ad otthont.",
-      ro: "Această proeminență stâncoasă de pe cursul inferior al râului Sauer oferă panorame spectaculoase și găzduiește vegetație rară de stâncă.",
-      en: "This striking rocky outcrop along the Lower Sauer offers spectacular views and hosts rare cliff vegetation and thermophilic forest communities.",
+      de: "Die Deiwelskopp bei Moersdorf ist ein imposantes Naturschutzgebiet auf den steilen Muschelkalkfelsen hoch über dem Sauertal. Der Name 'Teufelskopf' deutet bereits auf die schroffe und dramatische Topografie des Geländes hin. Das Reservat beherbergt eine außergewöhnliche Flora und Fauna, die an die extremen Bedingungen der Felsstandorte angepasst ist. Besonders bemerkenswert sind die ausgedehnten Bestände des Buchsbaums, die hier eines ihrer nördlichsten natürlichen Vorkommen in Europa haben. Die Kalk-Magerrasen auf dem Plateau sind im Frühsommer ein buntes Meer aus Orchideen und Enzianen. Für Wanderer bietet die Deiwelskopp spektakuläre Aussichtspunkte auf das gewundene Tal der Sauer und das benachbarte Deutschland. Aufgrund der Sensibilität der Biotope ist das Verlassen der markierten Wege streng untersagt, um die seltenen Pflanzen vor Trittschäden zu schützen. Die Deiwelskopp ist ein Highlight für jeden Naturbegeisterten, der die wilde Schönheit der luxemburgischen Felslandschaften erleben möchte.",
+      hu: "A Moersdorf melletti Deiwelskopp egy impozáns természetvédelmi terület a Sauer-völgy feletti meredek kagylós mészkősziklákon. Az 'Ördögfej' név már utal a terület zord és drámai domborzatára. A rezervátum kivételes flórának és faunának ad otthont, amely alkalmazkodott a sziklás helyek extrém körülményeihez. Különösen figyelemre méltóak a kiterjedt puszpángállományok, amelyek itt találják meg egyik legészakibb természetes előfordulásukat Európában. A fennsíkon található mészkőgyepeken kora nyáron orchideák és enciánok színes tengere látható. A túrázók számára a Deiwelskopp látványos kilátópontokat kínál a Sauer kanyargós völgyére és a szomszédos Németországra. A biotópok érzékenysége miatt a kijelölt utak elhagyása szigorúan tilos, hogy megvédjék a ritka növényeket a taposási károktól. A Deiwelskopp fénypont minden természetbarát számára, aki szeretné átélni a luxemburgi sziklás tájak vad szépségét.",
+      ro: "Deiwelskopp de lângă Moersdorf este o rezervație naturală impunătoare pe stâncile abrupte de calcar fosilifer, situate sus deasupra văii Sauer. Numele „Capul Diavolului” indică deja topografia aspră și dramatică a terenului. Rezervația găzduiește o floră și faună excepționale, adaptate condițiilor extreme ale siturilor stâncoase. Deosebit de remarcabile sunt populațiile extinse de cimișir, care au aici una dintre cele mai nordice ocurențe naturale din Europa. Pajiștile calcaroase de pe platou sunt, la începutul verii, o mare colorată de orhidee și gențiane. Pentru drumeți, Deiwelskopp oferă puncte de observație spectaculoase asupra văii șerpuite a râului Sauer și a Germaniei vecine. Din cauza sensibilității biotopurilor, părăsirea traseelor marcate este strict interzisă pentru a proteja plantele rare. Deiwelskopp este un punct culminant pentru orice pasionat de natură care dorește să experimenteze frumusețea sălbatică a peisajelor stâncoase luxemburgheze.",
+      en: "The Deiwelskopp near Moersdorf is an imposing nature reserve on the steep shell limestone cliffs high above the Sûre valley. The name 'Devil's Head' already hints at the rugged and dramatic topography of the terrain. The reserve hosts an exceptional flora and fauna adapted to the extreme conditions of the rocky sites. Particularly noteworthy are the extensive stands of boxwood, which have one of their northernmost natural occurrences in Europe here. The calcareous grasslands on the plateau are a colorful sea of orchids and gentians in early summer. For hikers, Deiwelskopp offers spectacular viewpoints over the winding Sûre valley and neighboring Germany. Due to the sensitivity of the biotopes, leaving the marked paths is strictly prohibited to protect rare plants from trampling damage. Deiwelskopp is a highlight for any nature enthusiast wishing to experience the wild beauty of Luxembourg's rocky landscapes.",
     },
     factsAdvanced: {
-      de: ["Steile Kalkfelswände", "Blick auf das Sauertal", "Vorkommen der Zippammer", "Wanderweg 'Deiwelskopp'"],
-      hu: ["Meredek mészkősziklák", "Kilátás a Sauer-völgyre", "Bajszos sármány előfordulása", "Deiwelskopp túraútvonal"],
-      ro: ["Versanți calcaroși abrupți", "Vedere spre valea Sauer", "Prezența presurei cu bărbiță", "Traseu de drumeție Deiwelskopp"],
-      en: ["Steep limestone cliffs", "View over the Sauer valley", "Rock bunting occurrence", "Deiwelskopp hiking trail"],
+      de: ["Steile Muschelkalk-Felswände", "Nördliches Vorkommen des Buchsbaums", "Spektakuläre Aussicht auf die Sauer", "Seltene Orchideen- und Enzianarten", "Lage an der Grenze zu Deutschland", "Schutz xerothermer Felsbiotope", "Teil des Wanderwegs 'Sentier de la Basse-Sûre'", "Gefahr durch instabile Felskanten"],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "luxembourg-streissel-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Stréissel", hu: "Stréissel természetvédelmi terület", ro: "Rezervația Naturală Stréissel", en: "Stréissel Nature Reserve",
-image: "/poi-images/luxembourg-streissel-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Stréissel", hu: "Stréissel természetvédelmi terület", ro: "Rezervația Naturală Stréissel", en: "Stréissel Nature Reserve"},
+    image: "/poi-images/luxembourg-streissel-life-v2.webp",
     coordinates: { lat: 49.518, lng: 6.095 },
     description: {
       de: "Das Stréissel bei Bettemburg ist eine renaturierte Zone entlang der Alzette. Es besteht aus Feuchtwiesen und Teichen, die wichtige Trittsteine im regionalen Biotopverbund darstellen.",
@@ -805,25 +781,24 @@ image: "/poi-images/luxembourg-streissel-life-v2.webp"
     },
 imageHint: "Streissel nature reserve ponds and wet meadows",
     descriptionAdvanced: {
-      de: "In der Alzetteaue bei Bettemburg gelegen zeigt dieses Gebiet den Erfolg der Wiedervernässung ehemaliger landwirtschaftlicher Flächen zur Förderung der Biodiversität.",
-      hu: "A Bettembourg melletti Alzette-ártéren található terület a korábbi mezőgazdasági területek újraárasztásának sikerét mutatja be a biológiai sokféleség javítása érdekében.",
-      ro: "Situată în lunca râului Alzette lângă Bettembourg, această zonă demonstrează succesul reconversiei terenurilor agricole în zone umede pentru biodiversitate.",
-      en: "Located in the Alzette floodplain near Bettembourg, this area demonstrates the success of rewetting former agricultural lands to promote biodiversity.",
+      de: "Das Naturschutzgebiet Streissel bei Bettemburg ist eine ökologisch wertvolle Feuchtwiesenlandschaft im Tal der Alzette. Es dient als wichtiger Pufferraum und Lebensraum für zahlreiche spezialisierte Pflanzen- und Tierarten, die auf feuchte Standorte angewiesen sind. Das Areal ist geprägt von Seggenriedern, Hochstaudenfluren und kleinen Wasserläufen, die ein Mosaik aus verschiedenen Mikrohabitaten bilden. Besonders für bodenbrütende Vögel und seltene Insekten wie den Großen Feuerfalter bietet Streissel einen unverzichtbaren Rückzugsort. Das Reservat ist Teil eines größeren Biotopverbunds entlang der Alzette, der durch gezielte Vernetzung die biologische Vielfalt im Süden Luxemburgs stärkt. Besucher können die Randbereiche des Gebiets auf Wanderwegen erkunden, während die Kernzonen zum Schutz der empfindlichen Fauna unberührt bleiben. Die Erhaltung des Wasserhaushalts ist eine zentrale Herausforderung für das Management des Reservats, um die typische Feuchtwiesenflora langfristig zu sichern.",
+      hu: "A Bettembourg melletti Streissel természetvédelmi terület egy ökológiailag értékes nedves réti táj az Alzette völgyében. Fontos pufferzónaként és élőhelyként szolgál számos speciális növény- és állatfaj számára, amelyek a nedves helyekre vannak utalva. A területet sásasok, magaskórós társulások és kis vízfolyások jellemzik, amelyek különböző mikroélőhelyek mozaikját alkotják. Különösen a talajon fészkelő madarak és a ritka rovarok, például a nagy tűzlepke számára nyújt a Streissel nélkülözhetetlen menedéket. A rezervátum az Alzette menti nagyobb biotóphálózat része, amely célzott összekapcsolással erősíti Dél-Luxemburg biológiai sokféleségét. A látogatók túraútvonalakon fedezhetik fel a terület peremrészeit, míg a központi zónák érintetlenek maradnak az érzékeny fauna védelme érdekében. A vízháztartás fenntartása központi kihívás a rezervátum kezelése számára, hogy hosszú távon biztosítsák a tipikus nedves réti flórát.",
+      ro: "Rezervația naturală Streissel de lângă Bettembourg este un peisaj de pajiști umede valoros din punct de vedere ecologic în valea Alzette. Servește ca zonă tampon și habitat important pentru numeroase specii de plante și animale specializate care depind de siturile umede. Zona este caracterizată de mlaștini de rogoz, vegetație de plante înalte și mici cursuri de apă, care formează un mozaic de diferite microhabitate. În special pentru păsările care cuibăresc pe sol și insectele rare, cum ar fi fluturele mare de foc, Streissel oferă un refugiu indispensabil. Rezervația face parte dintr-o rețea de biotopuri mai mare de-a lungul Alzettei, care întărește biodiversitatea din sudul Luxemburgului prin interconectare direcționată. Vizitatorii pot explora zonele periferice pe trasee de drumeție, în timp ce zonele centrale rămân neatinse pentru a proteja fauna sensibilă. Menținerea regimului hidrologic este o provocare centrală pentru managementul rezervației, în vederea asigurării pe termen lung a florei tipice de pajiști umede.",
+      en: "The Streissel nature reserve near Bettembourg is an ecologically valuable wet meadow landscape in the Alzette valley. It serves as an important buffer zone and habitat for numerous specialized plant and animal species dependent on wet sites. The area is characterized by sedge marshes, tall herb communities, and small watercourses, forming a mosaic of different microhabitats. Particularly for ground-nesting birds and rare insects such as the Large Copper butterfly, Streissel provides an indispensable sanctuary. The reserve is part of a larger biotope network along the Alzette, which strengthens biological diversity in southern Luxembourg through targeted connectivity. Visitors can explore the peripheral areas on hiking trails, while the core zones remain untouched to protect the sensitive fauna. Maintaining the water balance is a central challenge for the reserve's management to secure the typical wet meadow flora in the long term.",
     },
     factsAdvanced: {
-      de: ["Areal für Wasserbüffel", "Schutz von Wiesenbrütern", "Renaturierte Feuchtwiesen", "Teil des 'Dumontshaff' Projekts"],
-      hu: ["Vízibivalyok élőhelye", "Réti madarak védelme", "Helyreállított nedves rétek", "A Dumontshaff projekt része"],
-      ro: ["Zonă pentru bivoli de apă", "Protecția păsărilor de pajiște", "Fânețe umede renaturate", "Parte a proiectului Dumontshaff"],
-      en: ["Area for water buffaloes", "Protection of meadow birds", "Restored wet meadows", "Part of the Dumontshaff project"],
+      de: ["Ökologische Feuchtwiesen-Biotope", "Lebensraum für den Großen Feuerfalter", "Wichtiger Teil des Alzette-Korridors", "Vorkommen seltener Seggenarten", "Schutz von Bodenbrütern", "Lage zwischen Bettemburg und Düdelingen", "Natürliche Rückhaltefläche für Wasser", "Regelmäßige Pflegemahd erforderlich"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-streissel-life-v2.webp",
 },  {
     id: "luxembourg-krounebierg-park-life-v2",
     parent: "LU",
     type: "park",
-    name: { de: "Park Krounebierg", hu: "Krounebierg-park", ro: "Parcul Krounebierg", en: "Krounebierg Park",
-image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp"
-},
+    name: { de: "Park Krounebierg", hu: "Krounebierg-park", ro: "Parcul Krounebierg", en: "Krounebierg Park"},
+    image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp",
     coordinates: { lat: 49.755, lng: 6.11 },
     description: {
       de: "Der Krounebierg in Mersch ist ein weitläufiger Erlebnispark mit Wäldern, Teichen und Aussichtspunkten. Er bildet das grüne Zentrum der geografischen Mitte Luxemburgs.",
@@ -839,25 +814,24 @@ image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp"
     },
 imageHint: "Krounebierg park Mersch view and tower",
     descriptionAdvanced: {
-      de: "Der Stadtpark von Mersch auf dem Krounebierg bietet neben weitläufigen Grünflächen einen Aussichtsturm mit weitem Blick über das Tal der sieben Schlösser.",
-      hu: "A Mersch-i Krounebierg városi parkja tágas zöldterületek mellett egy kilátótoronnyal is rendelkezik, ahonnan messzire ellátni a hét kastély völgyére.",
-      ro: "Parcul municipal din Mersch, situat pe dealul Krounebierg, oferă pe lângă spațiile verzi un turn de observație cu vedere spre valea celor șapte castele.",
-      en: "The Mersch municipal park on the Krounebierg offers extensive green spaces and an observation tower with wide views over the Valley of the Seven Castles.",
+      de: "Der Parc Krounebierg in Mersch ist ein vielseitiger Freizeit- und Erholungspark im geografischen Zentrum Luxemburgs. Auf einer Anhöhe gelegen, bietet er nicht nur moderne Sport- und Spieleinrichtungen, sondern auch einen beeindruckenden Panoramablick über die Stadt Mersch und das umliegende Tal. Das Herzstück der Anlage ist das große Wasserschloss-Schwimmbad und der dazugehörige Wellnessbereich, der Besucher aus der ganzen Region anzieht. Für Familien gibt es weitläufige Grünflächen, Spielplätze und eine Minigolfanlage. Ökologisch interessant sind die alten Baumbestände und die sorgfältig angelegten Teiche, die als kleine Biotope fungieren. Ein besonderes Wahrzeichen des Parks ist der monumentale Aussichtsturm, von dessen Spitze man bei gutem Wetter weite Teile des Gutlands überblicken kann. Der Krounebierg dient auch als Ausgangspunkt für Wanderungen in die angrenzenden Wälder und Täler. Die Kombination aus aktiver Freizeitgestaltung, Entspannung und herrlicher Natur macht den Park zu einem zentralen Treffpunkt für alle Altersgruppen.",
+      hu: "A merschi Krounebierg Park egy sokoldalú szabadidő- és pihenőpark Luxemburg földrajzi középpontjában. Egy dombon elhelyezkedve nemcsak modern sport- és játéklehetőségeket kínál, hanem lenyűgöző panorámát is Mersch városára és a környező völgyre. A létesítmény szíve a nagy Wasserschloss-uszoda és a hozzá tartozó wellness-részleg, amely az egész régióból vonzza a látogatókat. A családok számára tágas zöldfelületek, játszóterek és minigolf pálya áll rendelkezésre. Ökológiai szempontból érdekesek az öreg faállományok és a gondosan kialakított tavak, amelyek kis biotópként funkcionálnak. A park különleges jelképe a monumentális kilátótorony, amelynek tetejéről jó időben a Gutland nagy része belátható. A Krounebierg kiindulópontként is szolgál a szomszédos erdőkbe és völgyekbe vezető túrákhoz. Az aktív szabadidős tevékenységek, a kikapcsolódás és a gyönyörű természet kombinációja a parkot minden korosztály központi találkozóhelyévé teszi.",
+      ro: "Parcul Krounebierg din Mersch este un parc versatil de recreere și petrecere a timpului liber în centrul geografic al Luxemburgului. Situat pe o colină, acesta oferă nu doar facilități moderne de sport și joacă, ci și o vedere panoramică impresionantă asupra orașului Mersch și a văii înconjurătoare. Inima facilității este marea piscină Wasserschloss și zona de wellness aferentă, care atrage vizitatori din întreaga regiune. Pentru familii există spații verzi vaste, locuri de joacă și un teren de minigolf. Interesanți din punct de vedere ecologic sunt arborii vechi și iazurile atent amenajate, care funcționează ca mici biotopuri. Un reper deosebit al parcului este turnul monumental de observație, din vârful căruia se pot vedea părți extinse din Gutland pe vreme bună. Krounebierg servește, de asemenea, ca punct de plecare pentru drumeții în pădurile și văile adiacente. Combinația de petrecere a timpului liber activ, relaxare și natură magnifică face din parc un punct central de întâlnire pentru toate vârstele.",
+      en: "Parc Krounebierg in Mersch is a versatile leisure and recreation park in the geographical center of Luxembourg. Situated on a hill, it offers not only modern sports and play facilities but also an impressive panoramic view over the town of Mersch and the surrounding valley. The centerpiece of the facility is the large Wasserschloss swimming pool and its associated wellness area, which attracts visitors from across the region. For families, there are extensive green areas, playgrounds, and a mini-golf course. Ecologically interesting are the old trees and the carefully landscaped ponds that function as small biotopes. A special landmark of the park is the monumental observation tower, from the top of which large parts of the Gutland can be seen on a clear day. Krounebierg also serves as a starting point for hikes into the adjacent forests and valleys. The combination of active leisure, relaxation, and beautiful nature makes the park a central meeting point for all ages.",
     },
     factsAdvanced: {
-      de: ["Aussichtsturm vorhanden", "Nähe zur römischen Villa", "Zentraler Treffpunkt in Mersch", "Großer Spielplatzbereich"],
-      hu: ["Kilátótorony található", "Római villa közelsége", "Mersch központi találkozóhelye", "Nagy játszótér terület"],
-      ro: ["Turn de observație prezent", "Proximitate față de vila romană", "Loc de întâlnire central în Mersch", "Zonă mare de joacă"],
-      en: ["Observation tower present", "Proximity to Roman villa", "Central meeting point in Mersch", "Large playground area"],
+      de: ["Geografisches Zentrum Luxemburgs", "Wasserschloss Schwimm- und Wellnesszentrum", "Monumentaler Aussichtsturm", "Panoramablick über Mersch", "Große Picknick- und Grillplätze", "Jugendherberge direkt am Park", "Teil des nationalen Wanderwegenetzes", "Reich an alten Eichen und Buchen"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-krounebierg-park-life-v2.webp",
 },  {
     id: "luxembourg-manternacher-fiels-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Manternacher Fiels", hu: "Manternacher Fiels természetvédelmi terület", ro: "Rezervația Naturală Manternacher Fiels", en: "Manternacher Fiels Nature Reserve",
-image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Manternacher Fiels", hu: "Manternacher Fiels természetvédelmi terület", ro: "Rezervația Naturală Manternacher Fiels", en: "Manternacher Fiels Nature Reserve"},
+    image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp",
     coordinates: { lat: 49.705, lng: 6.425 },
     description: {
       de: "Dieses Reservat im Syr-Tal schützt einen der wertvollsten Schluchtwälder Luxemburgs. Spektakuläre Felsformationen und eine hohe Luftfeuchtigkeit begünstigen seltene Moose und Farne.",
@@ -873,25 +847,24 @@ image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp"
     },
 imageHint: "Manternacher Fiels forest ravine and rocks",
     descriptionAdvanced: {
-      de: "Die Manternacher Fiels schützt einen beeindruckenden Schluchtwald im tief eingeschnittenen Tal der Syr, der durch seine hohe Feuchtigkeit und Moose besticht.",
-      hu: "A Manternacher Fiels egy lenyűgöző szurdokerdőt véd a Syr folyó mély völgyében, amely magas páratartalmával és moháival tűnik ki.",
-      ro: "Rezervația Manternacher Fiels protejează o pădure de chei impresionantă în valea adâncă a râului Syr, remarcabilă prin umiditatea ridicată și mușchi.",
-      en: "The Manternacher Fiels protects an impressive canyon forest in the deeply cut Syr valley, distinguished by its high humidity and lush mosses.",
+      de: "Das Naturschutzgebiet Manternacher Fiels im Osten Luxemburgs ist bekannt für seine beeindruckenden Schluchtwälder und dramatischen Muschelkalkfelsen. Gelegen im Tal der Syr, bietet das Gebiet eine faszinierende Topografie mit steilen Hängen, tief eingeschnittenen Tälern und weiten Ausblicken. Der Wald ist ökologisch besonders wertvoll, da er naturnahe Laubmischwälder mit einem hohen Anteil an Totholz beherbergt, was ihn zu einem idealen Lebensraum für seltene Pilzarten und höhlenbrütende Vögel macht. Besucher können die 'Fiels' auf dem Leker-Pfad (Sentier de la Pierre) erkunden, der durch spektakuläre Felsformationen und vorbei an historischen Weinbau-Relikten führt. Das Gebiet ist Teil des Natura 2000-Netzwerks und dient als wichtiges Refugium für Wildkatzen und verschiedene Fledermausarten. Die Kombination aus wilder Natur, geologischer Vielfalt und kulturhistorischen Spuren macht die Manternacher Fiels zu einem der spannendsten Wandergebiete des Landes. Das Naturschutzzentrum 'A Wiewesch' in Manternach bietet ergänzende Informationen zur Flora und Fauna der Region.",
+      hu: "A Kelet-Luxemburgban található Manternacher Fiels természetvédelmi terület lenyűgöző szurdokerdőiről és drámai kagylós mészkőszikláiról ismert. A Syr völgyében elhelyezkedő terület lenyűgöző domborzatot kínál meredek lejtőkkel, mélyen bevágott völgyekkel és tágas kilátással. Az erdő ökológiailag különösen értékes, mivel természetközeli lombos elegyes erdőknek ad otthont magas holtfa-aránnyal, ami ideális élőhellyé teszi a ritka gombafajok és az odúlakó madarak számára. A látogatók a 'Leker-ösvényen' (Sentier de la Pierre) fedezhetik fel a sziklákat, amely látványos sziklaalakzatokon és történelmi borászati emlékeken vezet keresztül. A terület a Natura 2000 hálózat része, és fontos menedékhelye a vadmacskáknak és különböző denevérfajoknak. A vad természet, a geológiai sokszínűség és a kultúrtörténeti nyomok kombinációja a Manternacher Fielst az ország egyik legizgalmasabb túraterületévé teszi. A manternachi 'A Wiewesch' természetvédelmi központ további információkat nyújt a régió flórájáról és faunájáról.",
+      ro: "Rezervația naturală Manternacher Fiels din estul Luxemburgului este cunoscută pentru pădurile sale impresionante de râpă și stâncile dramatice de calcar fosilifer. Situată în valea râului Syr, zona oferă o topografie fascinantă cu versanți abrupți, văi adânci și vederi largi. Pădurea este deosebit de valoroasă din punct de vedere ecologic, deoarece găzduiește păduri mixte de foioase aproape naturale cu o proporție mare de lemn mort, ceea ce o face un habitat ideal pentru specii rare de ciuperci și păsări care cuibăresc în cavități. Vizitatorii pot explora „Fiels” pe traseul Leker (Sentier de la Pierre), care trece prin formațiuni stâncoase spectaculoase și pe lângă relicve istorice ale viticulturii. Zona face parte din rețeaua Natura 2000 și servește ca un refugiu important pentru pisicile sălbatice și diverse specii de lilieci. Combinația de natură sălbatică, diversitate geologică și urme cultural-istorice face din Manternacher Fiels una dintre cele mai captivante zone de drumeție din țară. Centrul de conservare a naturii „A Wiewesch” din Manternach oferă informații suplimentare despre flora și fauna regiunii.",
+      en: "The Manternacher Fiels nature reserve in eastern Luxembourg is known for its impressive ravine forests and dramatic shell limestone cliffs. Located in the Syr valley, the area offers a fascinating topography with steep slopes, deeply carved valleys, and wide views. The forest is ecologically particularly valuable as it hosts near-natural deciduous mixed forests with a high proportion of deadwood, making it an ideal habitat for rare fungi species and cavity-nesting birds. Visitors can explore the 'Fiels' on the Leker path (Sentier de la Pierre), which leads through spectacular rock formations and past historical viticulture relics. The area is part of the Natura 2000 network and serves as an important sanctuary for wildcats and various bat species. The combination of wild nature, geological diversity, and cultural-historical traces makes the Manternacher Fiels one of the most exciting hiking areas in the country. The 'A Wiewesch' nature conservation center in Manternach provides additional information on the region's flora and fauna.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 140 Hektar", "Seltener Schluchtwald-Typ", "Zentrum für Naturschutz (A Wiewesch)", "Steile Felsabhänge"],
-      hu: ["Kb. 140 hektáros terület", "Ritka szurdokerdő-típus", "A Wiewesch természetvédelmi központ", "Meredek sziklaoldalak"],
-      ro: ["Suprafață de cca. 140 de hectare", "Tip rar de pădure de chei", "Centrul ecologic A Wiewesch", "Versanți stâncoși abrupți"],
-      en: ["Area of approx. 140 hectares", "Rare canyon forest type", "A Wiewesch nature center", "Steep rocky slopes"],
+      de: ["Spektakuläre Schluchtwald-Biotope", "Lage im Syrtal bei Manternach", "Muschelkalk-Felsformationen", "Heimat der Wildkatze", "Themenpfad 'Sentier de la Pierre'", "Teil des Natura 2000-Netzwerks", "Naturschutzzentrum 'A Wiewesch' vor Ort", "Historische Weinbaurelikte im Wald"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-manternacher-fiels-life-v2.webp",
 },  {
     id: "luxembourg-beetebuerger-besch-life-v2",
     parent: "LU",
     type: "forest",
-    name: { de: "Beetebuerger Bësch", hu: "Bettemburgi erdő", ro: "Pădurea Bettembourg", en: "Beetebuerger Bësch",
-image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp"
-},
+    name: { de: "Beetebuerger Bësch", hu: "Bettemburgi erdő", ro: "Pădurea Bettembourg", en: "Beetebuerger Bësch"},
+    image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp",
     coordinates: { lat: 49.505, lng: 6.085 },
     description: {
       de: "Der Bettemburger Wald ist ein wichtiges Naherholungs- und Naturschutzgebiet im Süden des Landes. Er zeichnet sich durch seine Vielfalt an Waldgesellschaften und gut ausgebaute Wege aus.",
@@ -907,25 +880,24 @@ image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp"
     },
 imageHint: "Beetebuerger Besch forest path and sunbeams",
     descriptionAdvanced: {
-      de: "Dieses ausgedehnte Waldgebiet bei Bettemburg dient als wichtiges Ökosystem für forstwirtschaftliche Forschung und als Erholungsraum für die Bevölkerung.",
-      hu: "Ez a Bettembourg melletti kiterjedt erdőterület fontos ökoszisztémaként szolgál az erdészeti kutatások számára és pihenőhelyként a lakosságnak.",
-      ro: "Această zonă forestieră extinsă de lângă Bettembourg servește ca ecosistem important pentru cercetarea silvică și ca spațiu de recreere pentru populație.",
-      en: "This extensive forest area near Bettembourg serves as a vital ecosystem for forestry research and as a major recreational space for the local population.",
+      de: "Der Beetebuerger Besch ist ein bedeutendes Waldgebiet im Süden Luxemburgs, das eine wichtige Rolle für die Biodiversität und den lokalen Klimaschutz spielt. Der Wald ist geprägt von einer Mischung aus altem Buchen- und Eichenbestand, der zahlreichen Tierarten als Lebensraum dient. Besonders hervorzuheben ist die Funktion des Waldes als 'grüne Lunge' für die umliegenden Siedlungsgebiete Bettemburg und Düdelingen. Zahlreiche Wander- und Joggingwege durchziehen das Massiv und laden zu sportlichen Aktivitäten in der Natur ein. Ein Teil des Waldes ist als Naturschutzgebiet ausgewiesen, um seltene Pflanzenarten und empfindliche Bodenökosysteme zu bewahren. Das Waldmanagement setzt auf eine naturnahe Bewirtschaftung, die die natürliche Verjüngung fördert und ökologische Nischen wie Totholz und Feuchtstellen erhält. Der Beetebuerger Besch ist zudem ein beliebtes Ziel für Umweltbildungsaktivitäten, bei denen Schulen und Kindergärten den Wald als lebendigen Lernort entdecken können. Die gute Erreichbarkeit und die Vielfalt der Waldgesellschaften machen ihn zu einem zentralen Element der regionalen Lebensqualität.",
+      hu: "A Beetebuerger Besch egy jelentős erdőterület Dél-Luxemburgban, amely fontos szerepet játszik a biodiverzitásban és a helyi klímavédelemben. Az erdőt öreg bükk- és tölgyállomány jellemzi, amely számos állatfajnak nyújt élőhelyet. Különösen kiemelendő az erdő 'zöld tüdő' funkciója a környező Bettembourg és Dudelange lakott területei számára. Számos túra- és futóútvonal hálózza be a tömböt, sportolásra csábítva a természetben. Az erdő egy része természetvédelmi területnek van nyilvánítva a ritka növényfajok és az érzékeny talajökoszisztémák megőrzése érdekében. Az erdőgazdálkodás a természetközeli módszerekre épít, amelyek elősegítik a természetes megújulást és megőrzik az olyan ökológiai fülkéket, mint a holtfa és a vizes élőhelyek. A Beetebuerger Besch emellett kedvelt helyszíne a környezeti nevelési tevékenységeknek, ahol az iskolák és óvodák élő tanulóhelyként fedezhetik fel az erdőt. A jó megközelíthetőség és az erdőtársulások sokfélesége a regionális életminőség központi elemévé teszi.",
+      ro: "Beetebuerger Besch este o zonă forestieră importantă din sudul Luxemburgului, care joacă un rol vital în biodiversitate și protecția climei locale. Pădurea este caracterizată printr-un amestec de populații vechi de fag și stejar, care servesc drept habitat pentru numeroase specii de animale. Deosebit de remarcabilă este funcția pădurii ca „plămân verde” pentru zonele rezidențiale învecinate Bettembourg și Dudelange. Numeroase trasee de drumeție și jogging străbat masivul și invită la activități sportive în natură. O parte a pădurii este desemnată ca rezervație naturală pentru a conserva speciile de plante rare și ecosistemele fragile ale solului. Managementul forestier se bazează pe o gestionare aproape naturală, care promovează regenerarea naturală și conservă nișele ecologice precum lemnul mort și zonele umede. Beetebuerger Besch este, de asemenea, o destinație populară pentru activități de educație ecologică, unde școlile și grădinițele pot descoperi pădurea ca un loc de învățare viu. Accesibilitatea bună și diversitatea comunităților forestiere o fac un element central al calității vieții regionale.",
+      en: "The Beetebuerger Besch is a significant forest area in southern Luxembourg that plays a vital role in biodiversity and local climate protection. The forest is characterized by a mix of old beech and oak stands that serve as a habitat for numerous animal species. Of particular note is the forest's function as a 'green lung' for the surrounding residential areas of Bettembourg and Dudelange. Numerous hiking and jogging trails crisscross the massif, inviting sporting activities in nature. A part of the forest is designated as a nature reserve to preserve rare plant species and sensitive soil ecosystems. Forest management relies on near-natural practices that promote natural regeneration and preserve ecological niches such as deadwood and wetlands. The Beetebuerger Besch is also a popular destination for environmental education activities, where schools and kindergartens can discover the forest as a living place of learning. The good accessibility and the diversity of the forest communities make it a central element of regional quality of life.",
     },
     factsAdvanced: {
-      de: ["Naturwald-Kernzone", "Lehrpfade für Schüler", "Teil eines Biotopverbunds", "Vorkommen alter Eichen"],
-      hu: ["Természetes erdő magzóna", "Tanösvények diákoknak", "Biotóphálózat része", "Öreg tölgyfák előfordulása"],
-      ro: ["Zonă centrală de pădure naturală", "Trasee educative pentru elevi", "Parte a unei rețele de biotopuri", "Prezența stejarilor seculari"],
-      en: ["Natural forest core zone", "Educational trails for students", "Part of a biotope network", "Occurrence of ancient oaks"],
+      de: ["Großes Waldmassiv im Süden", "Wichtige Erholungsfunktion für Bettemburg", "Naturnahe Waldbewirtschaftung", "Lebensraum für zahlreiche Singvögel", "Gut ausgebautes Wegenetz", "Teilweise geschützte Kernzonen", "Bedeutender Sauerstoffspender", "Beliebt bei Joggern und Spaziergängern"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-beetebuerger-besch-life-v2.webp",
 },  {
     id: "luxembourg-mirador-steinfort-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzzentrum Mirador", hu: "Mirador természetvédelmi központ", ro: "Centrul de Natură Mirador", en: "Mirador Nature Center",
-image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp"
-},
+    name: { de: "Naturschutzzentrum Mirador", hu: "Mirador természetvédelmi központ", ro: "Centrul de Natură Mirador", en: "Mirador Nature Center"},
+    image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp",
     coordinates: { lat: 49.66, lng: 5.922 },
     description: {
       de: "Das Mirador in Steinfort ist ein regionales Informationszentrum für Naturschutz. Es befindet sich in einem historischen Gebäude einer ehemaligen Eisenhütte und grenzt an den Steinforter Wald.",
@@ -941,25 +913,24 @@ image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp"
     },
 imageHint: "Mirador Steinfort nature center building",
     descriptionAdvanced: {
-      de: "In einer ehemaligen Eisenhütte untergebracht verbindet das Mirador-Zentrum Industriegeschichte mit moderner Umweltpädagogik am Rande des Steinforter Waldes.",
-      hu: "Egy egykori vasgyárban elhelyezett Mirador-központ az ipartörténetet ötvözi a modern környezeti neveléssel a Steinforti-erdő szélén.",
-      ro: "Găzduit într-o fostă uzină siderurgică, centrul Mirador îmbină istoria industrială cu educația ecologică modernă la marginea pădurii Steinfort.",
-      en: "Housed in a former ironworks, the Mirador center combines industrial history with modern environmental education at the edge of the Steinfort forest.",
+      de: "Das Naturschutzzentrum Mirador in Steinfort ist ein modernes Informations- und Erlebniszentrum, das in einer ehemaligen Industriebrache an der Grenze zu Belgien untergebracht ist. Wo früher Eisen verarbeitet wurde, dreht sich heute alles um den Schutz der Umwelt und die nachhaltige Entwicklung. Das Zentrum bietet interaktive Ausstellungen zur regionalen Natur, zu ökologischen Kreisläufen und zur Geschichte der Industriebrache. Ein besonderes Highlight ist der barrierefreie Naturlehrpfad, der durch das angrenzende Steinforter Waldmassiv führt und die Vielfalt der lokalen Flora und Fauna erlebbar macht. Mirador fungiert als Bildungsort für Schulen und als Beratungsstelle für Bürger zu Themen wie Energieeffizienz und Artenschutz im Garten. Die Architektur des Zentrums verbindet historische Backsteingebäude mit modernen Glas- und Holzkonstruktionen, was den Wandel der Region symbolisiert. Regelmäßige Workshops, Ausstellungen und Naturführungen machen den Mirador zu einem lebendigen Treffpunkt für alle, die sich für eine nachhaltige Zukunft einsetzen.",
+      hu: "A steinforti Mirador természetvédelmi központ egy modern információs és élményközpont, amely egy korábbi ipari területen kapott helyet a belga határ mentén. Ahol korábban vasat dolgoztak fel, ott ma minden a környezetvédelemről és a fenntartható fejlődésről szól. A központ interaktív kiállításokat kínál a regionális természetről, az ökológiai körfolyamatokról és az ipari terület történetéről. Különleges fénypont az akadálymentes természetismereti tanösvény, amely a szomszédos steinforti erdőtömbön vezet keresztül, és élvezhetővé teszi a helyi flóra és fauna sokszínűségét. A Mirador oktatási helyszínként szolgál iskolák számára, és tanácsadó központként a polgárok számára olyan témákban, mint az energiahatékonyság és a kerti fajvédelem. A központ építészete a történelmi téglaépületeket modern üveg- és faszerkezetekkel ötvözi, szimbolizálva a régió átalakulását. A rendszeres workshopok, kiállítások és természetjáró túrák a Miradort az élénk találkozóhelyévé teszik mindazoknak, akik elkötelezettek a fenntartható jövő mellett.",
+      ro: "Centrul de conservare a naturii Mirador din Steinfort este un centru modern de informare și experiență, găzduit într-un fost sit industrial la granița cu Belgia. Acolo unde odinioară se prelucra fierul, astăzi totul se învârte în jurul protecției mediului și a dezvoltării durabile. Centrul oferă expoziții interactive despre natura regională, ciclurile ecologice și istoria sitului industrial. Un punct culminant deosebit este traseul didactic accesibil care trece prin masivul forestier Steinfort adiacent și face ca diversitatea florei și faunei locale să poată fi experimentată. Mirador funcționează ca loc educațional pentru școli și ca punct de consiliere pentru cetățeni pe teme precum eficiența energetică și protecția speciilor în grădină. Arhitectura centrului combină clădirile istorice din cărămidă cu construcții moderne din sticlă și lemn, simbolizând transformarea regiunii. Atelierele regulate, expozițiile și tururile ghidate fac din Mirador un punct de întâlnire plin de viață pentru toți cei care se angajează pentru un viitor durabil.",
+      en: "The Mirador nature conservation center in Steinfort is a modern information and experience center housed in a former industrial site on the border with Belgium. Where iron was once processed, today everything revolves around environmental protection and sustainable development. The center offers interactive exhibitions on regional nature, ecological cycles, and the history of the industrial site. A special highlight is the barrier-free nature trail that leads through the adjacent Steinfort forest massif and brings the diversity of local flora and fauna to life. Mirador functions as an educational site for schools and a consultation point for citizens on topics such as energy efficiency and species protection in the garden. The center's architecture combines historic brick buildings with modern glass and wood constructions, symbolizing the region's transformation. Regular workshops, exhibitions, and nature tours make Mirador a vibrant meeting point for everyone committed to a sustainable future.",
     },
     factsAdvanced: {
-      de: ["Ehemaliges Hüttengelände", "Regionales Naturschutzzentrum", "Interaktive Ausstellungen", "Zugang zum Steinforter Wald"],
-      hu: ["Egykori vasgyári terület", "Regionális természetvédelmi központ", "Interaktív kiállítások", "Bejárat a Steinforti-erdőhöz"],
-      ro: ["Fost sit industrial siderurgic", "Centru regional de mediu", "Expoziții interactive", "Acces la pădurea Steinfort"],
-      en: ["Former ironworks site", "Regional nature center", "Interactive exhibitions", "Access to Steinfort forest"],
+      de: ["Naturschutzzentrum in Steinfort", "Ehemalige Industriebrache (Alte Schmelz)", "Interaktive Ausstellungen zur Ökologie", "Barrierefreier Naturlehrpfad", "Lage an der belgischen Grenze", "Fokus auf nachhaltige Entwicklung", "Pädagogische Programme für Schulen", "Architektonischer Mix aus Alt und Neu"],
+      hu: [],
+      ro: [],
+      en: [],
     },
     image: "/poi-images/luxembourg-mirador-steinfort-life-v2.webp",
 },  {
     id: "luxembourg-cornelysmillen-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Cornelysmillen", hu: "Cornelysmillen természetvédelmi terület", ro: "Rezervația Naturală Cornelysmillen", en: "Cornelysmillen Nature Reserve",
-image: "/poi-images/luxembourg-cornelysmillen-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Cornelysmillen", hu: "Cornelysmillen természetvédelmi terület", ro: "Rezervația Naturală Cornelysmillen", en: "Cornelysmillen Nature Reserve"},
+    image: "/poi-images/luxembourg-cornelysmillen-life-v2.webp",
     coordinates: { lat: 50.112, lng: 6.002 },
     description: {
       de: "Dieses Feuchtgebiet im Norden Luxemburgs bei Troisvierges ist ein Paradies für seltene Vögel und Orchideen. Es umfasst Teiche, Sümpfe und unberührte Feuchtwiesen im Tal der Woltz.",
@@ -975,25 +946,24 @@ image: "/poi-images/luxembourg-cornelysmillen-life-v2.webp"
     },
     imageHint: "Cornelysmillen wetlands with birds and wild orchids",
     descriptionAdvanced: {
-      de: "Im hohen Norden Luxemburgs schützt dieses Gebiet wertvolle Feuchtwiesen und Moore, die als Brutplatz für den seltenen Bekassine und andere Watvögel dienen.",
-      hu: "Luxemburg távoli északi részén található terület értékes nedves réteket és lápokat véd, amelyek a ritka sárszalonka és más gázlómadarak költőhelyei.",
-      ro: "În nordul extrem al Luxemburgului, această zonă protejează fânețe umede și mlaștini, servind ca loc de cuibărit pentru becațină și alte păsări.",
-      en: "In the far north of Luxembourg, this area protects valuable wet meadows and bogs that serve as breeding grounds for the rare snipe and other waders.",
+      de: "Das Naturschutzgebiet Cornelysmillen bei Ulflingen (Troisvierges) ist eines der wertvollsten Feuchtgebiete im hohen Norden Luxemburgs. Das Areal, das eine ehemalige Mühle umgibt, wird von der Woltz durchflossen und beherbergt eine außergewöhnliche Vielfalt an seltenen Moorböden und Niedermoor-Vegetation. Ökologisch herausragend ist die Bedeutung des Gebiets als Brutplatz für bedrohte Vogelarten wie den Neuntöter und das Schwarzkehlchen. Durch gezielte Vernässungsmaßnahmen wurde der ursprüngliche Charakter der Talaue wiederhergestellt, was auch seltenen Pflanzen wie dem Fieberklee und verschiedenen Seggenarten zugutekommt. Besucher können das Gebiet auf einem hölzernen Stegpfad erkunden, der trockenen Fußes durch die sensiblen Sumpfbereiche führt. Cornelysmillen ist zudem ein wichtiger Standort für die Forschung zur Moorentwicklung und zum Klimaschutz durch Kohlenstoffspeicherung im Boden. Die Ruhe und die nordische Anmutung der Landschaft machen einen Besuch zu einem besonderen Naturerlebnis im Ösling.",
+      hu: "Az Ulflingen (Troisvierges) melletti Cornelysmillen természetvédelmi terület Luxemburg északi részének egyik legértékesebb vizes élőhelye. Az egykori malmot körülvevő területen a Woltz folyó folyik keresztül, és ritka láptalajok, valamint síkáp-vegetáció rendkívüli sokféleségének ad otthont. Ökológiai szempontból kiemelkedő a terület jelentősége olyan veszélyeztetett madárfajok fészkelőhelyeként, mint a tövisszúró gébics és a cigánycsuk. Célzott árasztási intézkedésekkel helyreállították az ártér eredeti jellegét, ami a ritka növényeknek, például a vidrafűnek és különböző sásfajoknak is kedvez. A látogatók egy fa pallóúton fedezhetik fel a területet, amely száraz lábbal vezet át az érzékeny mocsaras részeken. A Cornelysmillen emellett fontos helyszíne a lápi fejlődéssel és a talajban történő szén-dioxid-tárolás révén megvalósuló klímavédelemmel kapcsolatos kutatásoknak. A táj nyugalma és északi hangulata különleges természetélménnyé teszi a látogatást az Öslingben.",
+      ro: "Rezervația naturală Cornelysmillen de lângă Ulflingen (Troisvierges) este una dintre cele mai valoroase zone umede din nordul extrem al Luxemburgului. Zona, care înconjoară o fostă moară, este traversată de râul Woltz și găzduiește o diversitate excepțională de soluri de turbă rară și vegetație de mlaștină joasă. Din punct de vedere ecologic, importanța zonei ca loc de cuibărit pentru speciile de păsări amenințate, cum ar fi sfrânciocul roșiatic și mărăcinarul negru, este remarcabilă. Prin măsuri direcționate de umezire, caracterul original al luncii a fost restabilit, ceea ce aduce beneficii și plantelor rare, cum ar fi trifoiul de baltă și diverse specii de rogoz. Vizitatorii pot explora zona pe un ponton de lemn, care permite traversarea zonelor mlăștinoase sensibile fără a se uda. Cornelysmillen este, de asemenea, un loc important pentru cercetarea dezvoltării turbăriilor și a protecției climei prin stocarea carbonului în sol. Liniștea și aspectul nordic al peisajului fac din vizită o experiență naturală specială în regiunea Éislek.",
+      en: "The Cornelysmillen nature reserve near Troisvierges is one of the most valuable wetlands in northernmost Luxembourg. The area surrounding a former mill is traversed by the Woltz river and hosts an exceptional diversity of rare peat soils and fen vegetation. Ecologically outstanding is the area's importance as a nesting site for endangered bird species such as the Red-backed Shrike and the European Stonechat. Through targeted rewetting measures, the original character of the floodplain has been restored, benefiting rare plants such as the Bogbean and various sedge species. Visitors can explore the area on a wooden boardwalk that leads through the sensitive marshy areas with dry feet. Cornelysmillen is also an important site for research on bog development and climate protection through carbon storage in the soil. The peace and Nordic feel of the landscape make a visit a special nature experience in the Éislek region.",
     },
     factsAdvanced: {
-      de: ["Fläche von ca. 85 Hektar", "Wichtiger Moorschutz", "Brutplatz der Bekassine", "Lage bei Troisvierges"],
-      hu: ["Kb. 85 hektáros terület", "Fontos lápvédelem", "Sárszalonka fészkelőhelye", "Troisvierges közelében"],
-      ro: ["Suprafață de cca. 85 de hectare", "Protecție vitală a mlaștinilor", "Loc de cuibărit pentru becațină", "Situat lângă Troisvierges"],
-      en: ["Area of approx. 85 hectares", "Vital bog conservation", "Common snipe breeding site", "Located near Troisvierges"],
+      de: ["Wichtigstes Niedermoor im Ösling", "Brutgebiet für Neuntöter", "Hölzerner Stegpfad für Besucher", "Lage im Woltz-Tal", "Vorkommen des seltenen Fieberklees", "Wissenschaftliche Moorforschung", "Teil eines grenzüberschreitenden Projekts", "Historische Mühlenstätte integriert"],
+      hu: [],
+      ro: [],
+      en: [],
     },
   },
   {
     id: "luxembourg-conzefenn-life-v2",
     parent: "LU",
     type: "wildlife",
-    name: { de: "Naturschutzgebiet Conzefenn", hu: "Conzefenn természetvédelmi terület", ro: "Rezervația Naturală Conzefenn", en: "Conzefenn Nature Reserve",
-image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Conzefenn", hu: "Conzefenn természetvédelmi terület", ro: "Rezervația Naturală Conzefenn", en: "Conzefenn Nature Reserve"},
+    image: "/poi-images/luxembourg-conzefenn-life-v2.webp",
     coordinates: { lat: 50.145, lng: 5.985 },
     description: {
       de: "Das Conzefenn ist eines der seltenen Hochmoore Luxemburgs und liegt an der Nordgrenze des Landes. Es beherbergt eine spezialisierte Flora und Fauna, die an saure und nasse Bedingungen angepasst ist.",
@@ -1009,19 +979,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
     },
     imageHint: "Conzefenn peat bog landscape and specialized plants",
     descriptionAdvanced: {
-      de: "Das Conzefenn ist eines der wertvollsten Hochmoore Luxemburgs und beherbergt spezialisierte Pflanzen wie das Wollgras und seltene Torfmoos-Arten.",
-      hu: "A Conzefenn Luxemburg egyik legértékesebb magaslápja, amely olyan speciális növényeknek ad otthont, mint a gyapjúsás és ritka tőzegmohák.",
-      ro: "Conzefenn este una dintre cele mai valoroase mlaștini înalte din Luxemburg, adăpostind plante specializate precum bumbăcarița și specii rare de mușchi.",
-      en: "Conzefenn is one of Luxembourg's most valuable high bogs, home to specialized plant species such as cottongrass and rare sphagnum mosses.",
+      de: "Das Naturschutzgebiet Conzefenn bei Weiswampach ist ein Juwel der Hochplateau-Landschaften im Norden Luxemburgs. Gelegt in einer Mulde des Öslings, schützt dieses Reservat wertvolle Niedermoore und artenreiche Feuchtwiesen. Die ökologische Bedeutung des Gebiets liegt vor allem in seiner Funktion als Rückzugsort für spezialisierte Moor- und Sumpfpflanzen sowie seltene Insektenarten. Durch die extensive Bewirtschaftung und gezielte Schutzmaßnahmen konnte die Vielfalt der Mikrohabitate erhalten werden. Besonders im Frühjahr und Sommer beeindruckt das Gebiet durch seine Blütenpracht, die unter anderem seltene Orchideen und den Teufelsabbiss umfasst. Conzefenn dient zudem als wichtiger Wasserspeicher, der zur Regulierung des Wasserhaushalts in der Region beiträgt. Ein kleiner Lehrpfad ermöglicht es Besuchern, die Besonderheiten dieses empfindlichen Ökosystems kennenzulernen, ohne die Flora und Fauna zu gefährden. Das Gebiet ist ein Beispiel für den erfolgreichen Erhalt von Feuchtbiotopen in einer ansonsten landwirtschaftlich intensiv genutzten Umgebung.",
+      hu: "A Weiswampach melletti Conzefenn természetvédelmi terület Luxemburg északi részének fennsíki tájainak ékköve. Az Ösling egyik mélyedésében elhelyezkedő rezervátum értékes síkápokat és fajgazdag nedves réteket véd. A terület ökológiai jelentősége elsősorban abban rejlik, hogy menedékhelyet nyújt a speciális lápi és mocsári növényeknek, valamint a ritka rovarfajoknak. Az extenzív gazdálkodás és a célzott védelmi intézkedések révén sikerült megőrizni a mikroélőhelyek sokféleségét. Különösen tavasszal és nyáron a terület lenyűgöző virágpompájával, amely többek között ritka orchideákat és az ördögharaptafüvet is magában foglalja. A Conzefenn emellett fontos víztározóként is szolgál, amely hozzájárul a régió vízháztartásának szabályozásához. Egy kis tanösvény lehetővé teszi a látogatók számára, hogy megismerjék ennek az érzékeny ökoszisztémának a sajátosságait anélkül, hogy veszélyeztetnék a flórát és a faunát. A terület példája a vizes élőhelyek sikeres megőrzésének egy egyébként intenzíven művelt mezőgazdasági környezetben.",
+      ro: "Rezervația naturală Conzefenn de lângă Weiswampach este o bijuterie a peisajelor de platou înalt din nordul Luxemburgului. Situată într-o depresiune din regiunea Éislek, această rezervație protejează mlaștini joase valoroase și pajiști umede bogate în specii. Importanța ecologică a zonei constă în special în funcția sa de refugiu pentru plantele specializate de turbărie și mlaștină, precum și pentru speciile rare de insecte. Prin gestionarea extensivă și măsurile de protecție direcționate, diversitatea microhabitatelor a putut fi conservată. Mai ales primăvara și vara, zona impresionează prin splendoarea florilor sale, care include, printre altele, orhidee rare și mușcătura dracului. Conzefenn servește, de asemenea, ca rezervor important de apă, contribuind la reglarea regimului hidrologic din regiune. Un mic traseu didactic permite vizitatorilor să învețe despre particularitățile acestui ecosistem sensibil, fără a pune în pericol flora și fauna. Zona este un exemplu de conservare reușită a biotopurilor umede într-un mediu altfel intens utilizat din punct de vedere agricol.",
+      en: "The Conzefenn nature reserve near Weiswampach is a gem of the high plateau landscapes in northern Luxembourg. Situated in a depression of the Éislek region, this reserve protects valuable fens and species-rich wet meadows. The ecological importance of the area lies primarily in its function as a sanctuary for specialized bog and marsh plants as well as rare insect species. Through extensive management and targeted protection measures, the diversity of microhabitats has been preserved. Especially in spring and summer, the area impresses with its floral splendor, which includes rare orchids and the Devil's-bit Scabious. Conzefenn also serves as an important water reservoir contributing to the regulation of the region's water balance. A small nature trail allows visitors to learn about the characteristics of this sensitive ecosystem without endangering the flora and fauna. The area is an example of successful conservation of wetland biotopes in an otherwise intensively used agricultural environment.",
     },
     factsAdvanced: {
-      de: ["Seltene Torfmoos-Biotope", "Orchideen-Standorte", "Höhenlage im Ösling", "Renaturierungsmaßnahmen"],
-      hu: ["Ritka tőzegmoha-biotópok", "Orchidea-termőhelyek", "Öslingi magaslati fekvés", "Helyreállítási intézkedések"],
-      ro: ["Biotopuri rare de mușchi", "Habitate de orhidee", "Altitudine ridicată în Ösling", "Măsuri de renaturare"],
-      en: ["Rare sphagnum biotope", "Orchid habitats", "High altitude in Oesling", "Restoration measures"],
+      de: ["Wertvolles Niedermoor-Gebiet", "Lage im Hohen Norden (Weiswampach)", "Lebensraum für den Teufelsabbiss", "Wichtiger regionaler Wasserspeicher", "Schutz spezialisierter Insektenarten", "Artenreiche Feuchtwiesen", "Kleiner Lehrpfad vorhanden", "Beispiel für extensive Landwirtschaft"],
+      hu: [],
+      ro: [],
+      en: [],
     },
-  }
-,
+  },
   {
     id: "luxembourg-kuebebierg-life-v2",
     parent: "LU",
@@ -1041,7 +1010,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["24 hectares total area", "Protected since 1994", "On the Kirchberg plateau", "Natura 2000 network"],
     },
     imageHint: "Kuebebierg nature reserve green fields",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Kuebebierg bei Grevenmacher ist ein herausragendes Beispiel für die Schutzwürdigkeit von Trockenrasen auf Muschelkalk. Die steilen, nach Süden ausgerichteten Hänge des Moseltals schaffen hier ein fast mediterranes Mikroklima. Dieses extreme Klima ist die Heimat einer hochspezialisierten Flora und Fauna, darunter zahlreiche seltene Orchideenarten, die im späten Frühling den Hang in ein Farbenmeer verwandeln. Der Kuebebierg ist auch für seine Populationen wärmeliebender Insekten, wie der Gottesanbeterin, und Reptilien, wie der Schlingnatter, bekannt. Um die wertvollen Offenland-Biotope zu erhalten und eine Verbuschung zu verhindern, wird das Gebiet regelmäßig durch Schafherden beweidet, eine traditionelle und effektive Methode der Landschaftspflege.",
+    "hu": "A Grevenmacher melletti Kuebebierg természetvédelmi terület a kagylós mészkőn kialakult száraz gyepek védelmének kiemelkedő példája. A Mosel-völgy meredek, déli fekvésű lejtői itt szinte mediterrán mikroklímát teremtenek. Ez a szélsőséges éghajlat egy magasan specializálódott növény- és állatvilágnak ad otthont, köztük számos ritka orchideafajnak, amelyek késő tavasszal színes tengerré változtatják a lejtőt. A Kuebebierg a melegkedvelő rovarok, például az imádkozó sáska, és a hüllők, mint a rézsikló, populációiról is ismert. Az értékes nyílt élőhelyek megőrzése és a cserjésedés megakadályozása érdekében a területet rendszeresen juhnyájakkal legeltetik, ami a tájkezelés hagyományos és hatékony módszere.",
+    "ro": "Rezervația naturală Kuebebierg de lângă Grevenmacher este un exemplu remarcabil al valorii de conservare a pajiștilor uscate pe calcar cochilifer. Versanții abrupți ai văii Moselle, orientați spre sud, creează aici un microclimat aproape mediteranean. Acest climat extrem găzduiește o floră și o faună extrem de specializate, inclusiv numeroase specii rare de orhidee care transformă versantul într-o mare de culori la sfârșitul primăverii. Kuebebierg este, de asemenea, cunoscut pentru populațiile sale de insecte iubitoare de căldură, cum ar fi călugărița, și de reptile, cum ar fi șarpele neted. Pentru a menține habitatele deschise valoroase și pentru a preveni acoperirea cu arbuști, zona este pășunată în mod regulat de turme de oi, o metodă tradițională și eficientă de gestionare a peisajului.",
+    "en": "The Kuebebierg nature reserve near Grevenmacher is an outstanding example of the conservation value of dry grasslands on shell limestone. The steep, south-facing slopes of the Moselle valley create an almost Mediterranean microclimate here. This extreme climate is home to a highly specialized flora and fauna, including numerous rare orchid species that turn the slope into a sea of color in late spring. The Kuebebierg is also known for its populations of heat-loving insects, such as the praying mantis, and reptiles, such as the smooth snake. To maintain the valuable open habitats and prevent scrub encroachment, the area is regularly grazed by flocks of sheep, a traditional and effective method of landscape management."
+    },
+    factsAdvanced: [
+    "Schützt 24 Hektar Trockenrasen",
+    "Wichtig für Feldlerche und Neuntöter",
+    "Seit 1994 offizielles Schutzgebiet",
+    "Teil des europäischen Natura 2000-Netzwerks",
+    "Ehemalige landwirtschaftliche Flächen",
+    "Nahe dem städtischen Ballungsraum gelegen",
+    "Entwickelt für die Naherholung",
+    "Wanderwege mit Informationstafeln"
+]},
   {
     id: "luxembourg-jardin-botanique-life-v2",
     parent: "LU",
@@ -1061,7 +1046,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["In Limpertsberg district", "Scientific collection", "Free admission", "Educational paths available"],
     },
     imageHint: "botanical garden plants and flowers",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Der Botanische Garten in Luxemburg, ursprünglich als private Sammlung angelegt, ist heute eine kleine, aber feine grüne Oase im Herzen der Stadt. Er präsentiert eine vielfältige Sammlung von Pflanzen aus der ganzen Welt, die in thematischen Bereichen angeordnet sind. Der Schwerpunkt liegt auf der Darstellung der heimischen Flora Luxemburgs, einschließlich seltener und geschützter Arten. Ein Arzneipflanzengarten zeigt die historische Bedeutung von Pflanzen in der Medizin. Der Garten dient nicht nur der Erholung der Öffentlichkeit, sondern auch Bildungs- und Forschungszwecken, indem er das Bewusstsein für die Bedeutung der Pflanzenvielfalt und deren Schutz schärft. Regelmäßige Führungen und Workshops machen den Garten zu einem lebendigen Ort des Lernens und der Naturerfahrung mitten in der urbanen Umgebung.",
+    "hu": "A luxemburgi Botanikus Kert, amelyet eredetileg magángyűjteményként hoztak létre, ma egy kicsi, de finom zöld oázis a város szívében. A világ minden tájáról származó növények változatos gyűjteményét mutatja be, tematikus területeken elrendezve. A hangsúly Luxemburg őshonos flórájának, köztük a ritka és védett fajoknak a bemutatásán van. Egy gyógynövénykert a növények történelmi jelentőségét mutatja be az orvostudományban. A kert nemcsak a nagyközönség pihenését szolgálja, hanem oktatási és kutatási célokat is, felhívva a figyelmet a növényi sokféleség fontosságára és védelmére. A rendszeres vezetett túrák és műhelyek a kertet az tanulás és a természeti élmények élő helyszínévé teszik a városi környezet közepén.",
+    "ro": "Grădina Botanică din Luxemburg, creată inițial ca o colecție privată, este astăzi o oază de verdeață mică, dar rafinată, în inima orașului. Aceasta prezintă o colecție diversă de plante din întreaga lume, aranjate în zone tematice. Accentul este pus pe prezentarea florei native a Luxemburgului, inclusiv a speciilor rare și protejate. O grădină de plante medicinale arată importanța istorică a plantelor în medicină. Grădina nu servește doar pentru recreerea publicului, ci și în scopuri educaționale și de cercetare, prin creșterea gradului de conștientizare a importanței diversității vegetale și a protecției acesteia. Tururile ghidate și atelierele regulate fac din grădină un loc viu de învățare și experiență a naturii în mijlocul mediului urban.",
+    "en": "The Botanical Garden in Luxembourg, originally created as a private collection, is now a small but fine green oasis in the heart of the city. It presents a diverse collection of plants from all over the world, arranged in thematic areas. The focus is on displaying the native flora of Luxembourg, including rare and protected species. A medicinal plant garden shows the historical importance of plants in medicine. The garden serves not only for public recreation but also for educational and research purposes by raising awareness of the importance of plant diversity and its protection. Regular guided tours and workshops make the garden a lively place of learning and nature experience in the middle of the urban environment."
+    },
+    factsAdvanced: [
+    "Standort im Stadtteil Limpertsberg",
+    "Wissenschaftliche Pflanzensammlung",
+    "Hunderte von Pflanzenarten",
+    "Fokus auf Heilpflanzen und Rosen",
+    "Lehrpfade für Besucher",
+    "Kostenloser und öffentlicher Zugang",
+    "Dient der Bildung und Forschung",
+    "Eine grüne Oase in der Stadt"
+]},
   {
     id: "luxembourg-grouf-life-v2",
     parent: "LU",
@@ -1081,7 +1082,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near Schengen municipality", "Limestone beech forest habitat", "Panorama of the Moselle", "Rich in orchid species"],
     },
     imageHint: "Grouf nature reserve forest views",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Grouf bei Schengen ist ein ökologisch wertvolles Areal, das durch seine Vielfalt an Waldgesellschaften und geologischen Formationen besticht. Gelegen an den Hängen des Moseltals, beherbergt das Reservat naturnahe Laubmischwälder, in denen seltene Pflanzenarten und eine reiche Pilzflora gedeihen. Besonders ökologisch wertvoll sind die Kalkbuchenwälder, die einen idealen Lebensraum für verschiedene Orchideenarten bieten. Die topografische Vielfalt mit kleinen Tälern und exponierten Felsen schafft zahlreiche Mikrohabitate für spezialisierte Insekten und Reptilien. Besucher können das Gebiet auf markierten Wanderwegen erkunden, die durch unberührte Waldpartien führen und immer wieder Ausblicke auf die Weinbaulandschaft der Mosel ermöglichen. Der Grouf dient zudem als wichtiges Schutzgebiet für höhlenbrütende Vögel und Fledermäuse. Das Management konzentriert sich auf die Förderung einer natürlichen Waldentwicklung und den Erhalt der biologischen Vielfalt in diesem sensiblen Hangbereich.",
+    "hu": "A Schengen melletti Grouf természetvédelmi terület egy ökológiailag értékes terület, amely erdőtársulásainak és geológiai formációinak sokféleségével nyűgöz le. A Mosel-völgy lejtőin elhelyezkedő rezervátum természetközeli lombos elegyes erdőknek ad otthont, ahol ritka növényfajok és gazdag gombaflóra virágzik. Ökológiai szempontból különösen értékesek a mészbükkösök, amelyek ideális élőhelyet biztosítanak különböző orchideafajok számára. A topográfiai sokféleség a kis völgyekkel és exponált sziklákkal számos mikroélőhelyet teremt a speciális rovarok és hüllők számára. A látogatók jelzett túraútvonalakon fedezhetik fel a területet, amelyek érintetlen erdőrészeken vezetnek keresztül, és újra meg újra kilátást nyújtanak a Mosel borvidékére. A Grouf emellett fontos védett terület az odúlakó madarak és denevérek számára. A kezelés a természetes erdőfejlődés elősegítésére és a biológiai sokféleség megőrzésére összpontosít ezen az érzékeny lejtős területen.",
+    "ro": "Rezervația naturală Grouf de lângă Schengen este o zonă valoroasă din punct de vedere ecologic, care impresionează prin diversitatea comunităților forestiere și a formațiunilor geologice. Situată pe versanții văii Moselle, rezervația găzduiește păduri mixte de foioase aproape naturale, unde prosperă specii rare de plante și o floră bogată de ciuperci. Deosebit de valoroase din punct de vedere ecologic sunt pădurile de fag calcaroase, care oferă un habitat ideal pentru diverse specii de orhidee. Diversitatea topografică cu văi mici și stânci expuse creează numeroase microhabitate pentru insecte și reptile specializate. Vizitatorii pot explora zona pe trasee de drumeție marcate, care trec prin porțiuni de pădure virgină și oferă periodic vederi asupra peisajului viticol al Mosellei. Grouf servește, de asemenea, ca o zonă importantă de protecție pentru păsările care cuibăresc în cavități și pentru lilieci. Managementul se concentrează pe promovarea dezvoltării naturale a pădurii și pe conservarea biodiversității în această zonă sensibilă de pantă.",
+    "en": "The Grouf nature reserve near Schengen is an ecologically valuable area characterized by its diversity of forest communities and geological formations. Located on the slopes of the Moselle valley, the reserve hosts near-natural deciduous mixed forests where rare plant species and a rich fungal flora thrive. Particularly ecologically valuable are the limestone beech forests, which provide an ideal habitat for various orchid species. The topographical diversity with small valleys and exposed rocks creates numerous microhabitats for specialized insects and reptiles. Visitors can explore the area on marked hiking trails leading through untouched forest sections and repeatedly offering views of the Moselle vineyard landscape. The Grouf also serves as an important protected area for cavity-nesting birds and bats. Management focuses on promoting natural forest development and preserving biodiversity in this sensitive slope area."
+    },
+    factsAdvanced: [
+    "Lage nahe Schengen im Moseltal",
+    "Schützt wertvolle Kalkbuchenwälder",
+    "Reich an seltenen Orchideenarten",
+    "Panoramablick auf die Mosel",
+    "Wichtiger Lebensraum für Reptilien",
+    "Teil eines grenzüberschreitenden Biotopverbunds",
+    "Steile Hänge und Felsformationen",
+    "Fördert die Biodiversität der Weinbauregion"
+]},
   {
     id: "luxembourg-kelsbaach-life-v2",
     parent: "LU",
@@ -1101,7 +1118,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Location near Grevenmacher", "Shell limestone formations", "Rare butterfly species", "Kelsbaach hiking trail"],
     },
     imageHint: "Kelsbaach nature reserve rocky cliffs",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Kelsbaach bei Grevenmacher ist eine faszinierende Verbindung aus wilder Natur und historischer Kulturlandschaft. Das Gebiet ist geprägt von einem tief eingeschnittenen Bachtal, steilen Muschelkalkfelsen und wertvollen Trockenrasen. Ein Highlight des Reservats ist der Kelsbaach-Bach, der sich durch den Wald schlängelt und kleine Wasserfälle und Teiche bildet. Ökologisch besonders wertvoll sind die Halbtrockenrasen auf den Plateaus, die eine außergewöhnliche Vielfalt an Orchideen und wärmeliebenden Insekten beherbergen. Besucher können das Gebiet auf thematischen Wanderwegen erkunden, die auch über die Geschichte der ehemaligen Steinbrüche informieren. Die Kelsbaach dient als wichtiges Refugium für seltene Reptilien und Amphibien, die in der Vielfalt der Habitate ideale Bedingungen finden. Das Management des Parks setzt auf eine Kombination aus Beweidung und gezielten Pflegemaßnahmen, um die offene Landschaft vor Verbuschung zu schützen und die Biodiversität zu fördern.",
+    "hu": "A Grevenmacher melletti Kelsbaach természetvédelmi terület a vad természet és a történelmi kultúrtáj lenyűgöző kombinációja. A területet mélyen bevágott patakvölgy, meredek kagylós mészkősziklák és értékes száraz gyepek jellemzik. A rezervátum egyik fénypontja a Kelsbaach-patak, amely az erdőn keresztül kanyarog, kis vízeséseket és tavakat alkotva. Ökológiai szempontból különösen értékesek a fennsíkokon található félszáraz gyepek, amelyek az orchideák és a melegkedvelő rovarok rendkívüli sokféleségének adnak otthont. A látogatók tematikus túraútvonalakon fedezhetik fel a területet, amelyek a korábbi kőbányák történetéről is tájékoztatnak. A Kelsbaach fontos menedékhelye a ritka hüllőknek és kétéltűeknek, amelyek az élőhelyek sokféleségében ideális feltételeket találnak. A park kezelése a legeltetés és a célzott gondozási intézkedések kombinációjára épít, hogy megvédje a nyitott tájat a benövényesedéstől és elősegítse a biodiverzitást.",
+    "ro": "Rezervația naturală Kelsbaach de lângă Grevenmacher este o combinație fascinantă de natură sălbatică și peisaj cultural istoric. Zona este caracterizată de o vale adâncă a pârâului, stânci abrupte de calcar fosilifer și pajiști uscate valoroase. Un punct culminant al rezervației este pârâul Kelsbaach, care șerpuiește prin pădure formând mici cascade și iazuri. Deosebit de valoroase din punct de vedere ecologic sunt pajiștile uscate de pe platouri, care găzduiesc o diversitate excepțională de orhidee și insecte iubitoare de căldură. Vizitatorii pot explora zona pe trasee tematice de drumeție, care oferă informații și despre istoria fostelor cariere de piatră. Kelsbaach servește ca un refugiu important pentru reptile și amfibieni rari, care găsesc condiții ideale în diversitatea habitatelor. Managementul parcului se bazează pe o combinație de pășunat și măsuri de îngrijire direcționate pentru a proteja peisajul deschis de invazia arbuștilor și pentru a promova biodiversitatea.",
+    "en": "The Kelsbaach nature reserve near Grevenmacher is a fascinating combination of wild nature and historic cultural landscape. The area is characterized by a deeply incised stream valley, steep shell limestone cliffs, and valuable dry grasslands. A highlight of the reserve is the Kelsbaach stream, which meanders through the forest forming small waterfalls and ponds. Particularly ecologically valuable are the semi-dry grasslands on the plateaus, which host an exceptional variety of orchids and heat-loving insects. Visitors can explore the area on thematic hiking trails that also provide information about the history of the former quarries. The Kelsbaach serves as an important sanctuary for rare reptiles and amphibians that find ideal conditions in the diversity of habitats. Park management relies on a combination of grazing and targeted maintenance measures to protect the open landscape from scrub encroachment and promote biodiversity."
+    },
+    factsAdvanced: [
+    "In der Nähe von Grevenmacher gelegen",
+    "Geprägt von Muschelkalk-Formationen",
+    "Lebensraum für seltene Schmetterlinge",
+    "Kombination aus Schluchtwald und Trockenrasen",
+    "Hohe botanische Vielfalt",
+    "Teil des Natur- & Geoparks Mëllerdall",
+    "Beliebter Wanderweg 'Kelsbaach'",
+    "Spektakuläre Ausblicke ins Moseltal"
+]},
   {
     id: "luxembourg-pettenberbesch-life-v2",
     parent: "LU",
@@ -1121,7 +1154,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near Pittingen Castle", "Pedunculate oak-hornbeam forest", "Significant amount of deadwood", "Sanctuary for wildcats"],
     },
     imageHint: "Pettenberbesch forest ancient trees",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Pettenberbesch ist ein wertvoller Waldkomplex im Süden Luxemburgs, der sich durch seine naturnahe Struktur und hohe Artenvielfalt auszeichnet. Das Areal beherbergt ausgedehnte Buchen- und Eichenbestände, die einen wichtigen Lebensraum für zahlreiche Waldvögel und Kleinsäuger bieten. Ökologisch besonders wertvoll sind die ungestörten Kernzonen, in denen sich der Wald natürlich entwickeln kann und ein hoher Anteil an Totholz vorhanden ist. Dies fördert spezialisierte Insektenarten und Pilze, die in Wirtschaftswäldern oft fehlen. Besucher können das Gebiet auf markierten Wanderwegen erkunden, die durch abwechslungsreiche Waldpartien führen. Der Pettenberbesch dient zudem als wichtiger Sauerstoffspender und Luftfilter für die umliegenden urbanisierten Regionen. Das Management des Reservats konzentriert sich auf den Erhalt der biologischen Vielfalt und die Förderung einer nachhaltigen Waldökologie, die auch zukünftigen Generationen als Erholungsraum dient.",
+    "hu": "A Pettenberbesch természetvédelmi terület egy értékes erdőkomplexum Dél-Luxemburgban, amely természetközeli szerkezetével és magas fajgazdagságával tűnik ki. A terület kiterjedt bükk- és tölgyállományoknak ad otthont, amelyek fontos élőhelyet biztosítanak számos erdei madár és kisemlős számára. Ökológiailag különösen értékesek a zavartalan központi zónák, ahol az erdő természetes módon fejlődhet, és magas a holtfa aránya. Ez elősegíti a speciális rovarfajok és gombák megtelepedését, amelyek a gazdasági erdőkből gyakran hiányoznak. A látogatók jelzett túraútvonalakon fedezhetik fel a területet, amelyek változatos erdőrészeken vezetnek keresztül. A Pettenberbesch emellett fontos oxigénforrásként és légszűrőként szolgál a környező városiasodott régiók számára. A rezervátum kezelése a biológiai sokféleség megőrzésére és a fenntartható erdőökológia elősegítésére összpontosít, amely a jövő generációi számára is pihenőhelyként szolgál.",
+    "ro": "Rezervația naturală Pettenberbesch este un complex forestier valoros din sudul Luxemburgului, care se distinge prin structura sa aproape naturală și biodiversitatea ridicată. Zona găzduiește populații extinse de fag și stejar, care oferă un habitat important pentru numeroase păsări de pădure și mamifere mici. Deosebit de valoroase din punct de vedere ecologic sunt zonele centrale neperturbate, unde pădurea se poate dezvolta natural și unde există o proporție mare de lemn mort. Acest lucru favorizează speciile de insecte specializate și ciupercile care lipsesc adesea în pădurile comerciale. Vizitatorii pot explora zona pe trasee de drumeție marcate, care trec prin porțiuni de pădure diversificate. Pettenberbesch servește, de asemenea, ca o sursă importantă de oxigen și filtru de aer pentru regiunile urbanizate învecinate. Managementul rezervației se concentrează pe conservarea biodiversității și pe promovarea unei ecologii forestiere durabile, care să servească drept spațiu de recreere și generațiilor viitoare.",
+    "en": "The Pettenberbesch nature reserve is a valuable forest complex in southern Luxembourg characterized by its near-natural structure and high biodiversity. The area hosts extensive beech and oak stands that provide an important habitat for numerous forest birds and small mammals. Particularly ecologically valuable are the undisturbed core zones where the forest can develop naturally and a high proportion of deadwood is present. This promotes specialized insect species and fungi often missing in commercial forests. Visitors can explore the area on marked hiking trails leading through diverse forest sections. The Pettenberbesch also serves as an important oxygen source and air filter for the surrounding urbanized regions. Management of the reserve focuses on preserving biological diversity and promoting sustainable forest ecology that serves as a recreational space for future generations."
+    },
+    factsAdvanced: [
+    "Eines der größten Waldschutzgebiete",
+    "Schützt Eichen- und Hainbuchenwälder",
+    "Hoher Totholzanteil fördert Biodiversität",
+    "Wichtiger Rückzugsort für die Wildkatze",
+    "Nördlich der Stadt Mersch gelegen",
+    "Nahe dem historischen Schloss Pittingen",
+    "Bedeutend für Insekten und Pilze",
+    "Teil des nationalen Biotopverbunds"
+]},
   {
     id: "luxembourg-hierberbesch-life-v2",
     parent: "LU",
@@ -1141,7 +1190,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near the village of Herborn", "Calcareous soil", "Presence of yew trees", "Hiking area in the east"],
     },
     imageHint: "Hierberbesch forest orchids in bloom",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Der Hierberbesch ist ein ökologisch wertvolles Waldgebiet im Osten Luxemburgs, das für seine naturnahen Laubmischwälder bekannt ist. Das Massiv beherbergt bemerkenswerte Bestände an alten Buchen und Eichen, die zahlreichen Tierarten als Lebensraum dienen. Besonders ökologisch wertvoll sind die feuchten Senken und kleinen Bachläufe, die das Gebiet durchziehen und spezialisierten Amphibien wie dem Feuersalamander ideale Bedingungen bieten. Besucher können den Wald auf ruhigen Wanderwegen erkunden und dabei die jahreszeitlichen Aspekte der Waldflora erleben. Der Hierberbesch spielt zudem eine wichtige Rolle für den lokalen Wasserhaushalt und den Erhalt der Bodenqualität in der Region. Das Management des Reservats konzentriert sich auf eine nachhaltige Waldbewirtschaftung, die die natürliche Verjüngung fördert und ökologische Nischen erhält. Die Ruhe und die Abgeschiedenheit des Waldes machen ihn zu einem idealen Ort für Naturbeobachtungen und entspannte Spaziergänge.",
+    "hu": "A Hierberbesch egy ökológiailag értékes erdőterület Kelet-Luxemburgban, amely természetközeli lombos elegyes erdőiről ismert. A tömb figyelemre méltó öreg bükk- és tölgyállományoknak ad otthont, amelyek számos állatfajnak nyújtanak élőhelyet. Ökológiai szempontból különösen értékesek a területet átszelő nedves mélyedések és kis patakok, amelyek ideális feltételeket biztosítanak a speciális kétéltűeknek, például a foltos szalamandrának. A látogatók csendes túraútvonalakon fedezhetik fel az erdőt, és átélhetik az erdei flóra évszakos változásait. A Hierberbesch emellett fontos szerepet játszik a helyi vízháztartásban és a régió talajminőségének megőrzésében. A rezervátum kezelése a fenntartható erdőgazdálkodásra összpontosít, amely elősegíti a természetes megújulást és megőrzi az ökológiai fülkéket. Az erdő nyugalma és elszigeteltsége ideális hellyé teszi a természetmegfigyelésre és a pihentető sétákra.",
+    "ro": "Hierberbesch este o zonă forestieră valoroasă din punct de vedere ecologic din estul Luxemburgului, cunoscută pentru pădurile sale mixte de foioase aproape naturale. Masivul găzduiește populații remarcabile de fagi și stejari vechi, care servesc drept habitat pentru numeroase specii de animale. Deosebit de valoroase din punct de vedere ecologic sunt depresiunile umede și micile cursuri de apă care străbat zona și oferă condiții ideale pentru amfibieni specializați, cum ar fi salamandra de foc. Vizitatorii pot explora pădurea pe trasee de drumeție liniștite și pot experimenta aspectele sezoniere ale florei forestiere. Hierberbesch joacă, de asemenea, un rol important în regimul hidrologic local și în menținerea calității solului în regiune. Managementul rezervației se concentrează pe o gestionare durabilă a pădurilor, care promovează regenerarea naturală și conservă nișele ecologice. Liniștea și izolarea pădurii o fac un loc ideal pentru observarea naturii și plimbări relaxante.",
+    "en": "The Hierberbesch is an ecologically valuable forest area in eastern Luxembourg known for its near-natural deciduous mixed forests. The massif houses remarkable stands of old beech and oak trees that serve as a habitat for numerous animal species. Particularly ecologically valuable are the wet depressions and small stream courses that traverse the area and provide ideal conditions for specialized amphibians such as the fire salamander. Visitors can explore the forest on quiet hiking trails and experience the seasonal aspects of the forest flora. The Hierberbesch also plays an important role in the local water balance and the preservation of soil quality in the region. Management of the reserve focuses on sustainable forest management that promotes natural regeneration and preserves ecological niches. The forest's peace and seclusion make it an ideal place for nature observation and relaxed walks."
+    },
+    factsAdvanced: [
+    "Teil des Müllerthal-Ökosystems",
+    "Kalkreicher Boden begünstigt Orchideen",
+    "Seltenes Vorkommen der Europäischen Eibe",
+    "Warme Hänge mit hoher Artenvielfalt",
+    "Nahe der Ortschaft Herborn",
+    "Beliebtes Wandergebiet im Osten",
+    "Hotspot der lokalen Biodiversität",
+    "Ruhige und naturbelassene Atmosphäre"
+]},
   {
     id: "luxembourg-lensterbierg-life-v2",
     parent: "LU",
@@ -1161,7 +1226,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Junglinster municipality", "Calcareous dry grasslands", "Sunny slope location", "Hiking trails available"],
     },
     imageHint: "Lënsterbierg nature reserve pasqueflowers",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Lensterbierg bei Junglinster ist eine vielfältige Landschaft, die durch ein Mosaik aus Trockenrasen, Hecken und kleinen Waldstücken besticht. Gelegen auf einer Anhöhe, bietet es einen weiten Blick über das Gutland und ist bekannt für seine reiche Orchideenflora. Die Halbtrockenrasen sind das Ergebnis einer jahrhundertelangen extensiven Beweidung, die heute im Rahmen des Naturschutzes fortgeführt wird. Dies verhindert die Verbuschung und sichert den Lebensraum für zahlreiche spezialisierte Insektenarten wie Schmetterlinge und Wildbienen. Besucher können den Lensterbierg auf markierten Wegen erkunden und dabei die botanische Pracht entdecken, die besonders im Frühsommer ihren Höhepunkt erreicht. Das Gebiet dient zudem als wichtiger Trittstein im Biotopverbund und fördert den Austausch zwischen verschiedenen Populationen seltener Arten. Die Kombination aus ökologischem Wert und herrlicher Aussicht macht den Lensterbierg zu einem beliebten Ziel für Naturfreunde in der Region Zentrum.",
+    "hu": "A Junglinster melletti Lensterbierg természetvédelmi terület egy változatos táj, amely száraz gyepek, sövények és kis erdőfoltok mozaikjával nyűgöz le. Egy dombon elhelyezkedve tágas kilátást nyújt a Gutlandra, és gazdag orchideinflórájáról ismert. A félszáraz gyepek évszázados extenzív legeltetés eredményei, amelyet ma a természetvédelem keretében folytatnak. Ez megakadályozza a benövényesedést, és biztosítja számos speciális rovarfaj, például lepkék és vadméhek élőhelyét. A látogatók jelzett utakon fedezhetik fel a Lensterbierget, és felfedezhetik a botanikai pompát, amely különösen kora nyáron éri el csúcspontját. A terület emellett fontos pihenőhelyként szolgál a biotóphálózatban, és elősegíti a ritka fajok különböző populációi közötti cserét. Az ökológiai érték és a gyönyörű kilátás kombinációja a Lensterbierget a természetbarátok kedvelt célpontjává teszi a középső régióban.",
+    "ro": "Rezervația naturală Lensterbierg de lângă Junglinster este un peisaj divers, care impresionează printr-un mozaic de pajiști uscate, garduri vii și mici porțiuni de pădure. Situată pe o colină, aceasta oferă o vedere largă asupra regiunii Gutland și este cunoscută pentru flora sa bogată de orhidee. Pajiștile uscate sunt rezultatul secolelor de pășunat extensiv, care este continuat astăzi în cadrul conservării naturii. Acest lucru previne invazia arbuștilor și asigură habitatul pentru numeroase specii de insecte specializate, cum ar fi fluturii și albinele sălbatice. Vizitatorii pot explora Lensterbierg pe poteci marcate și pot descoperi splendoarea botanică, care atinge apogeul mai ales la începutul verii. Zona servește, de asemenea, ca o verigă importantă în rețeaua de biotopuri și promovează schimbul între diferite populații de specii rare. Combinația de valoare ecologică și vedere magnifică face din Lensterbierg o destinație populară pentru iubitorii de natură din regiunea Centru.",
+    "en": "The Lensterbierg nature reserve near Junglinster is a diverse landscape characterized by a mosaic of dry grasslands, hedges, and small forest patches. Located on a hill, it offers wide views over the Gutland region and is known for its rich orchid flora. The semi-dry grasslands are the result of centuries of extensive grazing, which is continued today as part of nature conservation. This prevents scrub encroachment and secures the habitat for numerous specialized insect species such as butterflies and wild bees. Visitors can explore the Lensterbierg on marked paths and discover the botanical splendor that reaches its peak particularly in early summer. The area also serves as an important stepping stone in the biotope network and promotes exchange between different populations of rare species. The combination of ecological value and beautiful views makes the Lensterbierg a popular destination for nature lovers in the central region."
+    },
+    factsAdvanced: [
+    "Schutz von Kalk-Halbtrockenrasen",
+    "Sonnige Hanglage bei Junglinster",
+    "Vorkommen der Küchenschelle (Pulsatilla)",
+    "Wichtiger Lebensraum für Schmetterlinge",
+    "Erhaltung durch extensive Beweidung",
+    "Teil des Natura 2000-Netzwerks",
+    "Gut ausgebaute Wanderwege",
+    "Hohe floristische Artenvielfalt"
+]},
   {
     id: "luxembourg-obeler-life-v2",
     parent: "LU",
@@ -1181,7 +1262,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located near Abweiler", "Renatured water areas", "Nesting site for duck species", "Important spawning water"],
     },
     imageHint: "Obeler wetland pond and reeds",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Obeler bei Bettemburg ist eine wertvolle Feuchtgebietslandschaft in der Flussaue der Alzette. Es zeichnet sich durch seine Vielfalt an Feuchtwiesen, Röhrichten und kleinen Tümpeln aus, die zahlreichen spezialisierten Tier- und Pflanzenarten als Lebensraum dienen. Das Areal ist ein wichtiger Rückzugsort für bodenbrütende Vögel und seltene Amphibien. Durch gezielte Naturschutzmaßnahmen wird der Wasserhaushalt der Fläche reguliert, um die typische Flora der Aue zu erhalten. Besucher können das Gebiet auf Wanderwegen umrunden und dabei die Dynamik des Feuchtgebiets beobachten. Obeler ist Teil eines größeren Schutzgebietsverbunds entlang der Alzette, der eine zentrale Rolle für den ökologischen Verbund im Süden Luxemburgs spielt. Die Erhaltung dieser offenen, wassergeprägten Landschaft ist ein wichtiger Beitrag zum regionalen Artenschutz und zur ökologischen Aufwertung des Alzette-Tals.",
+    "hu": "A Bettembourg melletti Obeler természetvédelmi terület egy értékes vizes élőhely az Alzette ártéren. Jellemzője a nedves rétek, nádasok és kis tavak sokfélesége, amelyek számos speciális állat- és növényfaj számára szolgálnak élőhelyül. A terület fontos menedékhelye a talajon fészkelő madaraknak és a ritka kétéltűeknek. Célzott természetvédelmi intézkedésekkel szabályozzák a terület vízháztartását az ártér tipikus flórájának megőrzése érdekében. A látogatók túraútvonalakon kerülhetik meg a területet, és megfigyelhetik a vizes élőhely dinamikáját. Az Obeler az Alzette menti nagyobb védett területi hálózat része, amely központi szerepet játszik Dél-Luxemburg ökológiai összekapcsolásában. Ennek a nyitott, víz által meghatározott tájnak a megőrzése fontos hozzájárulás a regionális fajvédelemhez és az Alzette-völgy ökológiai felértékelődéséhez.",
+    "ro": "Rezervația naturală Obeler de lângă Bettembourg este un peisaj valoros de zone umede în lunca râului Alzette. Se caracterizează prin diversitatea de pajiști umede, stufărișuri și mici iazuri care servesc drept habitat pentru numeroase specii specializate de plante și animale. Zona este un refugiu important pentru păsările care cuibăresc pe sol și pentru amfibienii rari. Prin măsuri de conservare direcționate, regimul hidrologic al zonei este reglat pentru a păstra flora tipică a luncii. Vizitatorii pot înconjura zona pe trasee de drumeție și pot observa dinamica zonei umede. Obeler face parte dintr-o rețea mai mare de zone protejate de-a lungul Alzettei, care joacă un rol central în interconectarea ecologică din sudul Luxemburgului. Conservarea acestui peisaj deschis, dominat de apă, reprezintă o contribuție importantă la protecția speciilor regionale și la valorificarea ecologică a văii Alzette.",
+    "en": "The Obeler nature reserve near Bettembourg is a valuable wetland landscape in the Alzette floodplain. It is characterized by its diversity of wet meadows, reed beds, and small ponds that serve as a habitat for numerous specialized animal and plant species. The area is an important sanctuary for ground-nesting birds and rare amphibians. Through targeted conservation measures, the area's water balance is regulated to preserve the typical floodplain flora. Visitors can walk around the area on hiking trails and observe the dynamics of the wetland. Obeler is part of a larger network of protected areas along the Alzette, which plays a central role in the ecological connectivity of southern Luxembourg. Preserving this open, water-dominated landscape is an important contribution to regional species protection and the ecological enhancement of the Alzette valley."
+    },
+    factsAdvanced: [
+    "Renaturiertes Feuchtgebiet bei Bettembourg",
+    "Kette von Teichen und Schilfzonen",
+    "Wichtiges Laichgewässer für Amphibien",
+    "Brut- und Rastplatz für Entenvögel",
+    "Ursprünglich für Fischzucht genutzt",
+    "Beobachtungspunkte für Besucher",
+    "Hohe aquatische Biodiversität",
+    "Teil des regionalen Biotopverbunds"
+]},
   {
     id: "luxembourg-peffeschhaff-life-v2",
     parent: "LU",
@@ -1201,7 +1298,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Roeser municipality", "Versatile cultural landscape", "Nesting opportunities for birds", "Natura 2000 status"],
     },
     imageHint: "Peffeschhaff nature reserve landscape",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Peffeschhaff bei Bettemburg ist eine ökologisch bedeutende Fläche, die durch ihre Vielfalt an Feuchtbiotopen und extensiv genutzten Wiesen besticht. Gelegen im Einzugsgebiet der Alzette, schützt dieses Reservat wertvolle Lebensräume für spezialisierte Insekten, Amphibien und Vögel. Das Areal ist geprägt von einem Mosaik aus feuchten Senken, kleinen Wasserläufen und artenreichen Grasländern. Durch die Fortführung traditioneller Bewirtschaftungsformen wird die Biodiversität gefördert und die Verbuschung verhindert. Peffeschhaff dient zudem als wichtiger Pufferraum in der urbanisierten Landschaft des Südens und trägt zur Vernetzung verschiedener Schutzgebiete bei. Besucher können die Randbereiche auf Wanderwegen erkunden und dabei die jahreszeitlichen Veränderungen der Flora beobachten. Die Erhaltung dieses kleinteiligen, aber wertvollen Biotops ist ein zentrales Anliegen des regionalen Naturschutzes, um die biologische Vielfalt in der Metropolregion zu sichern.",
+    "hu": "A Bettembourg melletti Peffeschhaff természetvédelmi terület egy ökológiailag jelentős terület, amely vizes élőhelyeinek és extenzíven művelt rétjeinek sokféleségével nyűgöz le. Az Alzette vízgyűjtő területén elhelyezkedő rezervátum értékes élőhelyeket véd a speciális rovarok, kétéltűek és madarak számára. A területet nedves mélyedések, kis vízfolyások és fajgazdag gyepek mozaikja jellemzi. A hagyományos gazdálkodási formák folytatásával elősegítik a biodiverzitást és megakadályozzák a benövényesedést. A Peffeschhaff emellett fontos pufferzónaként szolgál a déli városiasodott tájban, és hozzájárul a különböző védett területek összekapcsolásához. A látogatók túraútvonalakon fedezhetik fel a peremterületeket, és megfigyelhetik a flóra évszakos változásait. Ennek a kisméretű, de értékes biotópnak a megőrzése a regionális természetvédelem központi feladata a metropolisz-régió biológiai sokféleségének biztosítása érdekében.",
+    "ro": "Rezervația naturală Peffeschhaff de lângă Bettembourg este o zonă importantă din punct de vedere ecologic, care impresionează prin diversitatea biotopurilor umede și a pajiștilor utilizate extensiv. Situată în bazinul hidrografic al râului Alzette, această rezervație protejează habitate valoroase pentru insecte, amfibieni și păsări specializate. Zona este caracterizată printr-un mozaic de depresiuni umede, mici cursuri de apă și pajiști bogate în specii. Prin continuarea formelor tradiționale de gestionare, biodiversitatea este promovată și invazia arbuștilor este prevenită. Peffeschhaff servește, de asemenea, ca un spațiu tampon important în peisajul urbanizat din sud și contribuie la interconectarea diferitelor zone protejate. Vizitatorii pot explora zonele periferice pe trasee de drumeție și pot observa schimbările sezoniere ale florei. Conservarea acestui biotop mic, dar valoros, este o preocupare centrală a conservării naturii regionale pentru a asigura biodiversitatea în regiunea metropolitană.",
+    "en": "The Peffeschhaff nature reserve near Bettembourg is an ecologically significant area characterized by its diversity of wet biotopes and extensively used meadows. Located in the Alzette catchment area, this reserve protects valuable habitats for specialized insects, amphibians, and birds. The area is characterized by a mosaic of wet depressions, small watercourses, and species-rich grasslands. By continuing traditional management forms, biodiversity is promoted and scrub encroachment is prevented. Peffeschhaff also serves as an important buffer space in the urbanized landscape of the south and contributes to the connectivity of various protected areas. Visitors can explore the peripheral areas on hiking trails and observe the seasonal changes in the flora. Preserving this small but valuable biotope is a central concern of regional nature conservation to secure biological diversity in the metropolitan region."
+    },
+    factsAdvanced: [
+    "In der Gemeinde Roeser gelegen",
+    "Mosaik aus Wiesen, Hecken und Teichen",
+    "Wichtiger Brutplatz für Singvögel",
+    "Teil des Natura 2000-Netzwerks",
+    "Traditionelle Kulturlandschaft",
+    "Reich an alten Obstbaumsorten",
+    "Hohe strukturelle Vielfalt",
+    "Beispiel für extensive Landnutzung"
+]},
   {
     id: "luxembourg-millebierg-life-v2",
     parent: "LU",
@@ -1221,7 +1334,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Location near Steinsel", "Sunny limestone slopes", "Rich orchid flora", "Hiking destination near the city"],
     },
     imageHint: "Millebierg nature reserve flowers",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Millebierg bei Junglinster ist eine beeindruckende Kalkstein-Hügellandschaft, die durch ihre weiten Halbtrockenrasen und Heckenstrukturen besticht. Gelegen auf einem sonnigen Plateau, bietet das Reservat einen idealen Lebensraum für eine außergewöhnliche Vielfalt an Orchideen und wärmeliebenden Pflanzen. Die offene Landschaft ist das Ergebnis jahrhundertelanger landwirtschaftlicher Nutzung, die heute durch gezielte Beweidung mit Schafen fortgeführt wird, um die Verbuschung zu verhindern. Besucher können den Millebierg auf markierten Wegen erkunden und dabei die spektakuläre Aussicht über das Umland von Junglinster genießen. Das Gebiet ist zudem ein wichtiges Schutzgebiet für seltene Insektenarten wie Wildbienen und Schmetterlinge, die in der blütenreichen Flora reichlich Nahrung finden. Die Erhaltung dieser wertvollen Kulturlandschaft ist ein zentrales Anliegen des luxemburgischen Naturschutzes im Gutland.",
+    "hu": "A Junglinster melletti Millebierg természetvédelmi terület egy lenyűgöző mészkő-dombvidék, amely kiterjedt félszáraz gyepeivel és sövényszerkezeteivel nyűgöz le. Egy napsütötte fennsíkon elhelyezkedve a rezervátum ideális élőhelyet biztosít az orchideák és a melegkedvelő növények rendkívüli sokfélesége számára. A nyitott táj évszázados mezőgazdasági használat eredménye, amelyet ma célzott juhlegeltetéssel folytatnak a benövényesedés megakadályozása érdekében. A látogatók jelzett utakon fedezhetik fel a Millebierget, miközben élvezhetik a látványos kilátást Junglinster környékére. A terület emellett fontos védett terület a ritka rovarfajok, például a vadméhek és a lepkék számára, amelyek bőséges táplálékot találnak a virágokban gazdag flórában. Ennek az értékes kultúrtájnak a megőrzése a luxemburgi természetvédelem központi feladata a Gutlandban.",
+    "ro": "Rezervația naturală Millebierg de lângă Junglinster este un peisaj colinar calcaros impresionant, care se distinge prin pajiștile sale uscate vaste și structurile de garduri vii. Situată pe un platou însorit, rezervația oferă un habitat ideal pentru o diversitate excepțională de orhidee și plante iubitoare de căldură. Peisajul deschis este rezultatul secolelor de utilizare agricolă, care este continuată astăzi prin pășunatul direcționat cu oi pentru a preveni invazia arbuștilor. Vizitatorii pot explora Millebierg pe trasee marcate și se pot bucura de vederea spectaculoasă asupra împrejurimilor orașului Junglinster. Zona este, de asemenea, o rezervație importantă pentru speciile rare de insecte, cum ar fi albinele sălbatice și fluturii, care găsesc hrană din abundență în flora bogată în flori. Conservarea acestui peisaj cultural valoros este o preocupare centrală a conservării naturii luxemburgheze în regiunea Gutland.",
+    "en": "The Millebierg nature reserve near Junglinster is an impressive limestone hill landscape characterized by its vast semi-dry grasslands and hedge structures. Located on a sunny plateau, the reserve provides an ideal habitat for an exceptional variety of orchids and heat-loving plants. The open landscape is the result of centuries of agricultural use, which is continued today through targeted sheep grazing to prevent scrub encroachment. Visitors can explore the Millebierg on marked paths while enjoying spectacular views over the surrounding area of Junglinster. The area is also an important sanctuary for rare insect species such as wild bees and butterflies that find abundant food in the flower-rich flora. Preserving this valuable cultural landscape is a central concern of Luxembourgish nature conservation in the Gutland region."
+    },
+    factsAdvanced: [
+    "Nördlich von Steinsel im Alzette-Tal",
+    "Schutz von Kalk-Halbtrockenrasen",
+    "Berühmt für seine reiche Orchideenflora",
+    "Panoramablick über das Alzette-Tal",
+    "Sonnige und trockene Hanglage",
+    "Wichtig für wärmeliebende Insekten",
+    "Beliebtes stadtnahes Wandergebiet",
+    "Teil eines regionalen Schutzgebietsnetzes"
+]},
   {
     id: "luxembourg-millewiesen-life-v2",
     parent: "LU",
@@ -1241,7 +1370,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located in the Mamer valley", "Biotope for marsh plants", "Occurrence of rare orchids", "Part of a water protection area"],
     },
     imageHint: "Millewiesen wet meadows mamer river",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Millewiesen bei Brouch ist eine ökologisch wertvolle Feuchtwiesenlandschaft im Tal der Mamer. Es schützt ein Mosaik aus Seggenriedern, Hochstaudenfluren und kleinen Tümpeln, die zahlreichen spezialisierten Pflanzen- und Tierarten als Lebensraum dienen. Das Areal ist ein wichtiger Rückzugsort für bedrohte Amphibien wie den Nördlichen Kammmolch und verschiedene Froscharten. Durch gezielte Naturschutzmaßnahmen, wie die späte Mahd und den Erhalt der Wasserflächen, wird die Biodiversität gefördert. Besucher können die Millewiesen auf markierten Wanderwegen umrunden und dabei die Dynamik des Feuchtgebiets beobachten, ohne die empfindliche Fauna zu stören. Der Schutz dieser offenen, wassergeprägten Landschaft ist ein wichtiger Beitrag zum regionalen Biotopverbund und zur ökologischen Aufwertung des Mamer-Tals. Die Ruhe und die Naturnähe machen das Gebiet zu einem wertvollen Element des luxemburgischen Naturschutzes im Zentrum des Landes.",
+    "hu": "A Brouch melletti Millewiesen természetvédelmi terület egy ökológiailag értékes nedves réti táj a Mamer völgyében. Sásasok, magaskórós társulások és kis tavak mozaikját védi, amelyek számos speciális növény- és állatfajnak nyújtanak élőhelyet. A terület fontos menedékhelye a veszélyeztetett kétéltűeknek, például az északi tarajos gőtének és különböző békafajoknak. Célzott természetvédelmi intézkedésekkel, mint például a késői kaszálás és a vízfelületek megőrzése, elősegítik a biodiverzitást. A látogatók jelzett túraútvonalakon kerülhetik meg a Millewiesent, és megfigyelhetik a vizes élőhely dinamikáját anélkül, hogy megzavarnák az érzékeny faunát. Ennek a nyitott, víz által meghatározott tájnak a megőrzése fontos hozzájárulás a regionális biotóphálózathoz és a Mamer-völgy ökológiai felértékelődéséhez. A nyugalom és a természetközeliség a területet a luxemburgi természetvédelem értékes elemévé teszi az ország középső részén.",
+    "ro": "Rezervația naturală Millewiesen de lângă Brouch este un peisaj valoros de pajiști umede în valea râului Mamer. Protejează un mozaic de mlaștini de rogoz, vegetație de plante înalte și mici iazuri care servesc drept habitat pentru numeroase specii specializate de plante și animale. Zona este un refugiu important pentru amfibienii amenințați, cum ar fi tritonul cu creastă și diverse specii de broaște. Prin măsuri de conservare direcționate, cum ar fi cositul întârziat și menținerea suprafețelor de apă, biodiversitatea este promovată. Vizitatorii pot înconjura Millewiesen pe trasee de drumeție marcate și pot observa dinamica zonei umede fără a deranja fauna sensibilă. Protejarea acestui peisaj deschis, dominat de apă, reprezintă o contribuție importantă la rețeaua regională de biotopuri și la valorificarea ecologică a văii Mamer. Liniștea și proximitatea față de natură fac din zonă un element valoros al conservării naturii luxemburgheze în centrul țării.",
+    "en": "The Millewiesen nature reserve near Brouch is an ecologically valuable wet meadow landscape in the Mamer valley. It protects a mosaic of sedge marshes, tall herb communities, and small ponds that serve as a habitat for numerous specialized plant and animal species. The area is an important sanctuary for endangered amphibians such as the Great Crested Newt and various frog species. Through targeted conservation measures, such as late mowing and the preservation of water surfaces, biodiversity is promoted. Visitors can walk around the Millewiesen on marked hiking trails and observe the dynamics of the wetland without disturbing the sensitive fauna. Protecting this open, water-dominated landscape is an important contribution to the regional biotope network and the ecological enhancement of the Mamer valley. The peace and naturalness make the area a valuable element of Luxembourgish nature conservation in the center of the country."
+    },
+    factsAdvanced: [
+    "Im Tal des Mamer-Flusses gelegen",
+    "Schutz ökologisch wertvoller Feuchtwiesen",
+    "Vorkommen des Breitblättrigen Knabenkrauts",
+    "Wichtiges Laichgewässer für Amphibien",
+    "Erhaltung durch extensive Landwirtschaft",
+    "Teil eines größeren Wasserschutzgebiets",
+    "Lebensraum für seltene Vögel und Insekten",
+    "Nahe der Ortschaft Brouch"
+]},
   {
     id: "luxembourg-hirschbierg-life-v2",
     parent: "LU",
@@ -1261,7 +1406,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["In the Sauer valley", "Calcareous dry grassland", "Habitat for reptiles", "Beautiful viewpoints"],
     },
     imageHint: "Hirschbierg nature reserve gentians",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Hirschbierg bei Befort (Beaufort) ist ein beeindruckendes Beispiel für die wilde Fels- und Waldlandschaft der Kleinen Luxemburger Schweiz. Gelegen auf einer markanten Anhöhe, beherbergt das Reservat spektakuläre Sandsteinfelsformationen, die von tiefen Spalten und Überhängen geprägt sind. Der umgebende Wald besteht aus naturnahen Buchen- und Eichenbeständen, die zahlreichen Tierarten, darunter Wildkatzen und verschiedenen Spechtarten, als Rückzugsort dienen. Ökologisch besonders wertvoll sind die feuchten Felswände, an denen seltene Moose und Farne gedeihen. Besucher können den Hirschbierg auf anspruchsvollen Wanderwegen erkunden, die durch enge Felsspalten und zu atemberaubenden Aussichtspunkten über das Sauertal führen. Das Gebiet ist Teil des Natur- & Geoparks Mellerdall und verdeutlicht die geologischen Prozesse, die diese Landschaft über Jahrmillionen geformt haben. Die Erhaltung dieser sensiblen Felsökosysteme ist ein zentrales Anliegen des regionalen Naturschutzes.",
+    "hu": "A Befort (Beaufort) melletti Hirschbierg természetvédelmi terület a Kis-Svájc vad sziklás és erdei tájának lenyűgöző példája. Egy jellegzetes magaslaton elhelyezkedve a rezervátum látványos homokkő sziklaalakzatoknak ad otthont, amelyeket mély hasadékok és áthajlások jellemeznek. A környező erdő természetközeli bükk- és tölgyállományokból áll, amelyek számos állatfajnak, köztük vadmacskáknak és különböző harkályfajoknak nyújtanak menedéket. Ökológiai szempontból különösen értékesek a nedves sziklafalak, ahol ritka mohák és páfrányok virágoznak. A látogatók igényes túraútvonalakon fedezhetik fel a Hirschbierget, amelyek szűk sziklahasadékokon keresztül vezetnek a Sauer-völgyre nyíló lélegzetelállító kilátópontokhoz. A terület a Mellerdall Natúr- és Geopark része, és szemlélteti azokat a geológiai folyamatokat, amelyek évmilliók alatt formálták ezt a tájat. Ezen érzékeny szikla-ökoszisztémák megőrzése a regionális természetvédelem központi feladata.",
+    "ro": "Rezervația naturală Hirschbierg de lângă Befort (Beaufort) este un exemplu impresionant al peisajului sălbatic de stânci și păduri din Mica Elveție Luxemburgheză. Situată pe o colină proeminentă, rezervația găzduiește formațiuni spectaculoase de gresie, caracterizate prin crevase adânci și surplombe. Pădurea înconjurătoare este formată din populații aproape naturale de fag și stejar, care servesc drept refugiu pentru numeroase specii de animale, inclusiv pisici sălbatice și diverse specii de ciocănitori. Deosebit de valoroase din punct de vedere ecologic sunt pereții stâncoși umezi, unde prosperă mușchi și ferigi rare. Vizitatorii pot explora Hirschbierg pe trasee de drumeție provocatoare, care trec prin crevase înguste și duc la puncte de observație spectaculoase asupra văii Sauer. Zona face parte din Parcul Natural și Geoparcul Mellerdall și ilustrează procesele geologice care au modelat acest peisaj de-a lungul milioanelor de ani. Conservarea acestor ecosisteme stâncoase sensibile este o preocupare centrală a conservării naturii regionale.",
+    "en": "The Hirschbierg nature reserve near Beaufort is an impressive example of the wild rock and forest landscape of Little Switzerland. Located on a prominent hill, the reserve houses spectacular sandstone rock formations characterized by deep crevices and overhangs. The surrounding forest consists of near-natural beech and oak stands that serve as a sanctuary for numerous animal species, including wildcats and various woodpecker species. Ecologically, the moist rock walls where rare mosses and ferns thrive are particularly valuable. Visitors can explore the Hirschbierg on challenging hiking trails leading through narrow rock crevices and to breathtaking viewpoints over the Sûre valley. The area is part of the Mellerdall Nature & Geopark and illustrates the geological processes that shaped this landscape over millions of years. Preserving these sensitive rock ecosystems is a central concern of regional nature conservation."
+    },
+    factsAdvanced: [
+    "Im unteren Tal der Sauer bei Bettendorf",
+    "Schutz trockener Kalk-Magerrasen",
+    "Bekannt für seltene Enzian-Vorkommen",
+    "Wichtiger Lebensraum für Reptilien",
+    "Sonnige, nach Süden ausgerichtete Hänge",
+    "Hohe Insektenvielfalt",
+    "Schöne Aussichtspunkte ins Sauertal",
+    "Charakteristisch für die Ösling-Region"
+]},
   {
     id: "luxembourg-ourmündung-life-v2",
     parent: "LU",
@@ -1281,7 +1442,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Confluence of Our and Sauer", "Typical alluvial vegetation", "Habitat for the Kingfisher", "Important fish spawning area"],
     },
     imageHint: "Ourmündung river confluence landscape",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Die Ourmündung bei Wallendorf-Pont ist ein ökologisch bedeutender Grenzpunkt, an dem der Fluss Our in die Sauer mündet. Dieses Gebiet ist geprägt von einer dynamischen Flusslandschaft mit Kiesbänken, Auwaldresten und steilen Hängen. Die Mündung bildet einen wichtigen Korridor für wandernde Fischarten und ein wertvolles Habitat für wassergebundene Vögel wie den Eisvogel und die Wasseramsel. Die Our selbst ist bekannt für ihr sauberes Wasser und das Vorkommen der seltenen Flussperlmuschel in ihrem Oberlauf, wobei die Mündung als ökologische Übergangszone fungiert. Besucher können die Zusammenflusszone auf Wanderwegen erkunden, die entlang der Ufer führen und Einblicke in die Flussdynamik gewähren. Das Gebiet markiert auch die Grenze zwischen Luxemburg und Deutschland und ist ein Symbol für die grenzüberschreitende Zusammenarbeit im Naturschutz. Die Erhaltung der natürlichen Uferstrukturen und der Wasserqualität ist entscheidend für den Erhalt der biologischen Vielfalt in diesem Flusssystem.",
+    "hu": "A Wallendorf-Pontnál található Our-torkolat egy ökológiailag jelentős határpont, ahol az Our folyó a Sauerbe ömlik. Ezt a területet dinamikus folyami táj jellemzi kavicspadokkal, ártéri erdőmaradványokkal és meredek lejtőkkel. A torkolat fontos folyosót alkot a vándorló halfajok számára, és értékes élőhelyet az olyan vízhez kötődő madaraknak, mint a jégmadár és a vízirigó. Az Our folyó ismert tiszta vizéről és a ritka folyami gyöngykagyló előfordulásáról a felső szakaszán, miközben a torkolat ökológiai átmeneti zónaként funkcionál. A látogatók a torkolatvidéket a part menti túraútvonalakon fedezhetik fel, amelyek betekintést nyújtanak a folyó dinamikájába. A terület egyben Luxemburg és Németország határát is jelzi, és a határokon átnyúló természetvédelmi együttműködés szimbóluma. A természetes partmenti szerkezetek és a vízminőség megőrzése döntő fontosságú a folyórendszer biológiai sokféleségének fenntartásához.",
+    "ro": "Gura de vărsare a râului Our de lângă Wallendorf-Pont este un punct de frontieră important din punct de vedere ecologic, unde râul Our se varsă în Sauer. Această zonă este caracterizată printr-un peisaj fluvial dinamic, cu bancuri de pietriș, resturi de pădure de luncă și versanți abrupți. Vărsarea formează un coridor important pentru speciile de pești migratori și un habitat valoros pentru păsările dependente de apă, cum ar fi pescărelul albastru și mierla de apă. Râul Our în sine este cunoscut pentru apa sa curată și prezența scoicii perliere rari în cursul său superior, gura de vărsare funcționând ca o zonă de tranziție ecologică. Vizitatorii pot explora zona de confluență pe trasee de drumeție care urmează malurile și oferă perspective asupra dinamicii râului. Zona marchează, de asemenea, granița dintre Luxemburg și Germania și este un simbol al cooperării transfrontaliere în conservarea naturii. Menținerea structurilor naturale ale malurilor și a calității apei este crucială pentru conservarea biodiversității în acest sistem fluvial.",
+    "en": "The Our confluence near Wallendorf-Pont is an ecologically significant border point where the Our river flows into the Sûre. This area is characterized by a dynamic river landscape with gravel bars, floodplain forest remnants, and steep slopes. The confluence forms an important corridor for migratory fish species and a valuable habitat for water-bound birds such as the Kingfisher and the White-throated Dipper. The Our itself is known for its clean water and the occurrence of the rare freshwater pearl mussel in its upper reaches, with the confluence functioning as an ecological transition zone. Visitors can explore the confluence zone on hiking trails leading along the banks and providing insights into river dynamics. The area also marks the border between Luxembourg and Germany and is a symbol of cross-border cooperation in nature conservation. Preserving natural bank structures and water quality is crucial for maintaining biological diversity in this river system."
+    },
+    factsAdvanced: [
+    "Mündungsgebiet der Our in die Sauer",
+    "Bei Wallendorf, an der deutschen Grenze",
+    "Dynamische Auenlandschaft",
+    "Wichtiger Rastplatz für Zugvögel",
+    "Lebensraum für seltene Wasservögel",
+    "Weichholz-Auenwälder und Kiesbänke",
+    "Beobachtungstürme für Besucher",
+    "Grenzüberschreitendes Naturerlebnis"
+]},
   {
     id: "luxembourg-hallerbachtal-life-v2",
     parent: "LU",
@@ -1301,7 +1478,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near Beaufort Castle", "Sandstone rock biotopes", "Fern and moss communities", "Popular hiking area"],
     },
     imageHint: "Hallerbachtal valley stream rocks",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Hallerbachtal bei Befort ist eines der wildesten und romantischsten Täler der Kleinen Luxemburger Schweiz. Der Hallerbaach hat sich hier tief in den Luxemburger Sandstein eingegraben und eine Landschaft aus moosbewachsenen Felsen, kleinen Wasserfällen und tiefen Schluchten geschaffen. Der Wald im Tal ist naturnah und beherbergt seltene Farne und Moose, die in der kühlen, feuchten Atmosphäre ideale Bedingungen finden. Besonders beeindruckend ist die Kombination aus geologischer Dramatik und botanischer Vielfalt. Wanderwege führen entlang des Bachlaufs und über schmale Brücken, wobei die unberührte Natur im Vordergrund steht. Das Hallerbachtal ist ein wichtiger Teil des Natur- & Geoparks Mellerdall und dient als Rückzugsort für spezialisierte Insektenarten und kleine Säugetiere. Die Erhaltung dieses sensiblen Ökosystems ist für den Schutz der charakteristischen Sandsteinlandschaft Luxemburgs von großer Bedeutung.",
+    "hu": "A Befort melletti Hallerbachtal a Kis-Svájc egyik legvadabb és legromantikusabb völgye. A Hallerbaach-patak itt mélyen bevágódott a luxemburgi homokkőbe, mohás sziklákból, kis vízesésekből és mély szurdokokból álló tájat hozva létre. A völgy erdeje természetközeli, ritka páfrányoknak és moháknak ad otthont, amelyek a hűvös, nedves környezetben ideális feltételeket találnak. Különösen lenyűgöző a geológiai dráma és a botanikai sokféleség kombinációja. A túraútvonalak a patak mentén és keskeny hidakon vezetnek keresztül, ahol az érintetlen természet áll a középpontban. A Hallerbachtal a Mellerdall Natúr- és Geopark fontos része, és menedékhelyül szolgál a speciális rovarfajoknak és kisemlősöknek. Ennek az érzékeny ökoszisztémának a megőrzése nagy jelentőséggel bír Luxemburg jellegzetes homokkő tájának védelme szempontjából.",
+    "ro": "Valea Hallerbach de lângă Befort este una dintre cele mai sălbatice și romantice văi din Mica Elveție Luxemburgheză. Hallerbaach s-a săpat adânc în gresia luxemburgheză, creând un peisaj de stânci acoperite cu mușchi, mici cascade și defilee adânci. Pădurea din vale este aproape naturală și găzduiește ferigi și mușchi rari care găsesc condiții ideale în atmosfera răcoroasă și umedă. Combinația dintre dramatismul geologic și diversitatea botanică este deosebit de impresionantă. Traseele de drumeție urmează cursul pârâului și trec peste poduri înguste, natura neatinsă fiind în prim-plan. Valea Hallerbach este o parte importantă a Parcului Natural și Geoparcului Mellerdall și servește ca refugiu pentru speciile de insecte specializate și mamiferele mici. Conservarea acestui ecosistem sensibil este de mare importanță pentru protejarea peisajului caracteristic de gresie al Luxemburgului.",
+    "en": "The Hallerbach Valley near Beaufort is one of the wildest and most romantic valleys in Little Switzerland. The Hallerbaach has carved itself deep into the Luxembourg sandstone here, creating a landscape of moss-covered rocks, small waterfalls, and deep gorges. The forest in the valley is near-natural and home to rare ferns and mosses that find ideal conditions in the cool, moist atmosphere. Particularly impressive is the combination of geological drama and botanical diversity. Hiking trails lead along the stream and over narrow bridges, with untouched nature at the forefront. The Hallerbach Valley is an important part of the Mellerdall Nature & Geopark and serves as a sanctuary for specialized insect species and small mammals. Preserving this sensitive ecosystem is of great importance for the protection of Luxembourg's characteristic sandstone landscape."
+    },
+    factsAdvanced: [
+    "Teil des Natur- & Geoparks Müllerthal",
+    "Wildromantisches Seitental der Schwarzen Ernz",
+    "Typische Luxemburger Sandsteinlandschaft",
+    "Lebensraum des Feuersalamanders",
+    "Moosbedeckte Felsen und enge Schluchten",
+    "Wanderweg entlang des Bachlaufs",
+    "Hohe Luftfeuchtigkeit, reiche Moosflora",
+    "Nahe der Ortschaft Haller gelegen"
+]},
   {
     id: "luxembourg-manzebaach-life-v2",
     parent: "LU",
@@ -1321,7 +1514,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located near Larochette", "Structurally rich deciduous forests", "Numerous seepage springs", "Protection of saproxylic beetles"],
     },
     imageHint: "Manzebaach forest and stream",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Manzebaach bei Befort ist ein wertvoller Rückzugsort innerhalb der Felslandschaften des Müllerthals. Der Manzebaach durchfließt ein enges Tal, das von naturnahen Laubmischwäldern und spektakulären Sandsteinformationen geprägt ist. Ökologisch besonders wertvoll sind die Quellen und Sumpfbereiche im Talgrund, die als wichtige Lebensräume für spezialisierte Insekten und Amphibien dienen. Der Wald ist reich an Totholz und bietet ideale Bedingungen für höhlenbrütende Vögel wie den Hohltaubenspecht. Besucher können das Gebiet auf ruhigen Wanderwegen erkunden, die abseits der großen Touristenströme liegen und ein intensives Naturerlebnis ermöglichen. Die Manzebaach ist Teil des Natura 2000-Netzwerks und trägt zum Schutz der charakteristischen Flora und Fauna der Kleinen Luxemburger Schweiz bei. Die Erhaltung der Wasserqualität und der ungestörten Waldentwicklung steht im Fokus des Reservatsmanagements.",
+    "hu": "A Befort melletti Manzebaach természetvédelmi terület egy értékes menedékhely a Müllerthal sziklás tájain belül. A Manzebaach-patak egy szűk völgyön folyik keresztül, amelyet természetközeli lombos elegyes erdők és látványos homokkő formációk jellemeznek. Ökológiai szempontból különösen értékesek a völgy alján található források és mocsaras területek, amelyek fontos élőhelyül szolgálnak a speciális rovarok és kétéltűek számára. Az erdő holtfában gazdag, és ideális feltételeket biztosít az olyan odúlakó madaraknak, mint a kék galamb. A látogatók csendes túraútvonalakon fedezhetik fel a területet, amelyek távol esnek a nagy turistatömegektől, és intenzív természetélményt tesznek lehetővé. A Manzebaach a Natura 2000 hálózat része, és hozzájárul a Kis-Svájc jellegzetes flórájának és faunájának védelméhez. A rezervátum kezelésének középpontjában a vízminőség megőrzése és a zavartalan erdőfejlődés áll.",
+    "ro": "Rezervația naturală Manzebaach de lângă Befort este un refugiu valoros în cadrul peisajelor stâncoase din Müllerthal. Manzebaach traversează o vale îngustă, caracterizată de păduri mixte de foioase aproape naturale și formațiuni spectaculoase de gresie. Deosebit de valoroase din punct de vedere ecologic sunt izvoarele și zonele mlăștinoase din fundul văii, care servesc drept habitate importante pentru insecte și amfibieni specializați. Pădurea este bogată în lemn mort și oferă condiții ideale pentru păsările care cuibăresc în cavități, cum ar fi porumbelul de scorbură. Vizitatorii pot explora zona pe trasee de drumeție liniștite, situate departe de marile fluxuri turistice, permițând o experiență intensă a naturii. Manzebaach face parte din rețeaua Natura 2000 și contribuie la protejarea florei și faunei caracteristice din Mica Elveție Luxemburgheză. Conservarea calității apei și a dezvoltării neperturbate a pădurii se află în centrul managementului rezervației.",
+    "en": "The Manzebaach nature reserve near Beaufort is a valuable sanctuary within the rocky landscapes of the Müllerthal. The Manzebaach flows through a narrow valley characterized by near-natural deciduous mixed forests and spectacular sandstone formations. Ecologically, the springs and marshy areas at the bottom of the valley are particularly valuable, serving as important habitats for specialized insects and amphibians. The forest is rich in deadwood and provides ideal conditions for cavity-nesting birds such as the Stock Dove. Visitors can explore the area on quiet hiking trails located away from the large tourist crowds, allowing for an intensive nature experience. Manzebaach is part of the Natura 2000 network and contributes to the protection of the characteristic flora and fauna of Little Switzerland. Management focuses on preserving water quality and undisturbed forest development."
+    },
+    factsAdvanced: [
+    "Typisches Bachtal im Gutland",
+    "Bei Leudelingen, südwestlich von Luxemburg-Stadt",
+    "Mosaik aus Bach, Wiesen und Wald",
+    "Lebensraum des Eisvogels",
+    "Vorkommen der Sumpfdotterblume",
+    "Wichtig für Amphibien und Wasserinsekten",
+    "Beispiel für Renaturierungsmaßnahmen",
+    "Geringe landwirtschaftliche Nutzung"
+]},
   {
     id: "luxembourg-osterbour-life-v2",
     parent: "LU",
@@ -1341,7 +1550,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located near Fischbach", "System of fish ponds", "Nesting area for Black Stork", "Rich amphibian population"],
     },
     imageHint: "Osterbour nature reserve ponds",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Quellgebiet Osterbour bei Heffingen ist ein kleines, aber ökologisch hoch bedeutsames Naturschutzgebiet. Es schützt den Ursprung einer Karstquelle, die aus den Kalksteinschichten des Luxemburger Sandsteins entspringt. Das konstant kühle und saubere Wasser schafft einen einzigartigen Lebensraum für spezialisierte Arten, darunter seltene Quellschnecken und andere wirbellose Tiere. Die unmittelbare Umgebung der Quelle ist von einem schattigen Schluchtwald geprägt. Obwohl das Gebiet klein ist, spielt es eine entscheidende Rolle für das Verständnis der hydrologischen Systeme der Region und als Refugium für empfindliche, an Quellwasser gebundene Organismen.",
+    "hu": "A Heffingen melletti Osterbour forrásvidék egy kicsi, de ökológiailag rendkívül jelentős természetvédelmi terület. Egy karsztforrás eredetét védi, amely a luxemburgi homokkő mészkőrétegeiből tör elő. Az állandóan hűvös és tiszta víz egyedülálló élőhelyet teremt a specializálódott fajok, köztük ritka forráscsigák és más gerinctelenek számára. A forrás közvetlen környezetét árnyas szurdokerdő jellemzi. Bár a terület kicsi, döntő szerepet játszik a régió hidrogeológiai rendszereinek megértésében és az érzékeny, forrásvízhez kötődő szervezetek menedékhelyeként.",
+    "ro": "Zona de izvoare Osterbour de lângă Heffingen este o rezervație naturală mică, dar de mare importanță ecologică. Protejează originea unui izvor carstic care izvorăște din stratele de calcar ale gresiei luxemburgheze. Apa constant rece și curată creează un habitat unic pentru specii specializate, inclusiv melci de izvor rari și alte nevertebrate. Împrejurimile imediate ale izvorului sunt caracterizate de o pădure de ravină umbroasă. Deși zona este mică, joacă un rol crucial în înțelegerea sistemelor hidrologice ale regiunii și ca refugiu pentru organismele sensibile, dependente de apa de izvor.",
+    "en": "The Osterbour spring area near Heffingen is a small but ecologically highly significant nature reserve. It protects the origin of a karst spring that emerges from the limestone layers of the Luxembourg Sandstone. The constantly cool and clean water creates a unique habitat for specialized species, including rare spring snails and other invertebrates. The immediate surroundings of the spring are characterized by a shady ravine forest. Although the area is small, it plays a crucial role in understanding the region's hydrological systems and as a refuge for sensitive organisms dependent on spring water."
+    },
+    factsAdvanced: [
+    "Schutz eines Karstquellgebiets",
+    "Bei Heffingen, im Müllerthal",
+    "Konstant kühles und sauberes Wasser",
+    "Lebensraum für seltene Quellschnecken",
+    "Entspringt aus dem Luxemburger Sandstein",
+    "Umgaben von schattigem Schluchtwald",
+    "Wichtig für die hydrologische Forschung",
+    "Kleines, aber hochspezialisiertes Biotop"
+]},
   {
     id: "luxembourg-marscherwald-life-v2",
     parent: "LU",
@@ -1361,7 +1586,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Ernztalgemeinde municipality", "Bunter sandstone rocks", "Presence of Hart's-tongue fern", "Müllerthal hiking area"],
     },
     imageHint: "Marscherwald forest and rock formations",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Der Marscherwald, in der Nähe von Bissen gelegen, ist ein ausgedehntes und altes Waldgebiet, das für seine beeindruckenden Eichenbestände bekannt ist. Viele dieser Bäume sind mehrere hundert Jahre alt und verleihen dem Wald einen urwüchsigen Charakter. Das Gebiet ist reich an Totholz, was es zu einem wichtigen Lebensraum für seltene Käferarten wie den Hirschkäfer und für eine Vielzahl von Pilzen macht. Der Wald ist Teil des Natura 2000-Netzwerks und wird naturnah bewirtschaftet, um seine hohe biologische Vielfalt zu erhalten. Er dient als wichtiges Naherholungsgebiet und bietet zahlreiche Wanderwege.",
+    "hu": "A Bissen melletti Marscherwald egy kiterjedt és idős erdőterület, amely lenyűgöző tölgyállományáról ismert. E fák közül sok több száz éves, ami az erdőnek ősi jelleget kölcsönöz. A terület holtfában gazdag, ami fontos élőhelyévé teszi a ritka bogárfajoknak, például a szarvasbogárnak, és a legkülönfélébb gombáknak. Az erdő a Natura 2000 hálózat része, és természetközeli módon kezelik, hogy megőrizzék magas biológiai sokféleségét. Fontos helyi rekreációs területként szolgál, és számos túraútvonalat kínál.",
+    "ro": "Marscherwald, situată lângă Bissen, este o zonă forestieră extinsă și veche, cunoscută pentru stejarii săi impresionanți. Mulți dintre acești copaci au câteva sute de ani și conferă pădurii un caracter primordial. Zona este bogată în lemn mort, ceea ce o face un habitat important pentru specii rare de gândaci, cum ar fi rădașca, și pentru o varietate de ciuperci. Pădurea face parte din rețeaua Natura 2000 și este gestionată într-un mod apropiat de natură pentru a-și conserva biodiversitatea ridicată. Servește ca o zonă importantă de recreere locală și oferă numeroase trasee de drumeții.",
+    "en": "The Marscherwald, located near Bissen, is an extensive and ancient forest area known for its impressive oak stands. Many of these trees are several hundred years old, giving the forest a primeval character. The area is rich in deadwood, making it an important habitat for rare beetle species such as the stag beetle, and for a variety of fungi. The forest is part of the Natura 2000 network and is managed in a near-natural way to preserve its high biological diversity. It serves as an important local recreation area and offers numerous hiking trails."
+    },
+    factsAdvanced: [
+    "Altes Waldgebiet bei Bissen",
+    "Beeindruckende, jahrhundertealte Eichen",
+    "Reich an Totholz und seltenen Käfern",
+    "Lebensraum des Hirschkäfers",
+    "Teil des Natura 2000-Schutzgebietsnetzes",
+    "Naturnahe Waldbewirtschaftung",
+    "Wichtiges Naherholungsgebiet",
+    "Vielfältige Pilzflora"
+]},
   {
     id: "luxembourg-elteschmuel-life-v2",
     parent: "LU",
@@ -1381,7 +1622,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Nommern municipality", "Extensive grassland use", "Habitat for the Stonechat", "Elteschmuel stream valley"],
     },
     imageHint: "Elteschmuel nature reserve landscape",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Feuchtgebiet Elteschmuel bei Reckingen/Mess ist ein renaturiertes Juwel im Tal des Flusses Mess. Einst landwirtschaftlich genutzt, wurde das Gebiet in ein Mosaik aus Teichen, Schilfgebieten und Feuchtwiesen umgewandelt. Heute ist es ein bedeutender Lebensraum für eine Vielzahl von Wasservögeln, die hier brüten und rasten. Auch für Amphibien und Libellen bietet das Gebiet ideale Bedingungen. Die Renaturierung hat nicht nur die lokale Biodiversität gefördert, sondern auch die Hochwasserschutzfunktion des Tals gestärkt. Ein Beobachtungsturm ermöglicht Besuchern Einblicke in die Vogelwelt, ohne die Tiere zu stören.",
+    "hu": "A Reckange-sur-Mess melletti Elteschmuel vizes élőhely egy renaturált ékkő a Mess folyó völgyében. Az egykor mezőgazdasági hasznosítású területet tavak, nádasok és nedves rétek mozaikjává alakították át. Ma már számos vízimadár fontos élőhelye, amelyek itt költenek és pihennek. A terület a kétéltűek és a szitakötők számára is ideális feltételeket biztosít. A renaturáció nemcsak a helyi biodiverzitást segítette elő, hanem megerősítette a völgy árvízvédelmi funkcióját is. Egy megfigyelőtorony lehetővé teszi a látogatók számára, hogy anélkül nyerjenek betekintést a madárvilágba, hogy az állatokat zavarnák.",
+    "ro": "Zona umedă Elteschmuel de lângă Reckange-sur-Mess este o bijuterie renaturată în valea râului Mess. Odată utilizată agricol, zona a fost transformată într-un mozaic de iazuri, stufărișuri și pajiști umede. Astăzi, este un habitat important pentru o varietate de păsări acvatice care cuibăresc și poposesc aici. Zona oferă, de asemenea, condiții ideale pentru amfibieni și libelule. Renaturarea nu numai că a promovat biodiversitatea locală, dar a și consolidat funcția de protecție împotriva inundațiilor a văii. Un turn de observare permite vizitatorilor să observe avifauna fără a deranja animalele.",
+    "en": "The Elteschmuel wetland near Reckange-sur-Mess is a renatured jewel in the valley of the Mess river. Once used for agriculture, the area has been transformed into a mosaic of ponds, reed beds, and wet meadows. Today, it is an important habitat for a variety of water birds that breed and rest here. The area also provides ideal conditions for amphibians and dragonflies. The renaturation has not only promoted local biodiversity but also strengthened the flood protection function of the valley. An observation tower allows visitors to gain insights into the birdlife without disturbing the animals."
+    },
+    factsAdvanced: [
+    "Renaturiertes Feuchtgebiet im Mess-Tal",
+    "Bei Reckingen/Mess gelegen",
+    "Mosaik aus Teichen und Feuchtwiesen",
+    "Wichtiger Brut- und Rastplatz für Vögel",
+    "Lebensraum für Libellen und Amphibien",
+    "Verbessert den Hochwasserschutz",
+    "Beobachtungsturm für Naturfreunde",
+    "Erfolgreiches Renaturierungsprojekt"
+]},
   {
     id: "luxembourg-gourmangslee-life-v2",
     parent: "LU",
@@ -1401,7 +1658,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Lorentzweiler municipality", "View over the Alzette valley", "Limestone rock habitats", "Significant for birds of prey"],
     },
     imageHint: "Gourmangslee nature reserve cliffs",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Gourmangslay in der Nähe von Hosingen im Ösling schützt ein typisches Hochplateau der Ardennen. Die Landschaft ist geprägt von Feuchtheiden, Borstgrasrasen und kleinen Mooren, die durch eine extensive Beweidung mit Schafen offengehalten werden. Diese Lebensräume sind Heimat für spezialisierte und seltene Arten wie das Gefleckte Knabenkraut und den Lungen-Enzian. Das Gebiet ist auch ein wichtiger Rückzugsort für den Raubwürger, einen seltenen Vogel, der offene Landschaften mit dornigen Sträuchern zur Jagd benötigt. Es ist ein Beispiel für die traditionelle Kulturlandschaft des Öslings.",
+    "hu": "A Hosingen melletti Gourmangslay természetvédelmi terület az Ardennek egy tipikus fennsíkját védi Öslingben. A tájat nedves puszták, szőrfűgyepek és kis lápok jellemzik, amelyeket extenzív juhlegeltetéssel tartanak nyitva. Ezek az élőhelyek specializált és ritka fajoknak adnak otthont, mint például a foltos ujjaskosbor és a kornistárnics. A terület a nagy őrgébics, egy ritka madár fontos menedékhelye is, amelynek a vadászathoz nyílt, tüskés cserjékkel tarkított tájra van szüksége. Az öslingi hagyományos kultúrtáj egyik példája.",
+    "ro": "Rezervația Naturală Gourmangslay, lângă Hosingen, în Ösling, protejează un platou înalt tipic Ardenilor. Peisajul este caracterizat de lande umede, pajiști de părul-porcului și mici turbării, care sunt menținute deschise prin pășunatul extensiv cu oi. Aceste habitate găzduiesc specii specializate și rare, cum ar fi poroinicul pătat și gențiana-albastră. Zona este, de asemenea, un refugiu important pentru sfrânciocul mare, o pasăre rară care are nevoie de peisaje deschise cu arbuști spinoși pentru vânătoare. Este un exemplu de peisaj cultural tradițional din Ösling.",
+    "en": "The Gourmangslay Nature Reserve near Hosingen in the Oesling protects a typical high plateau of the Ardennes. The landscape is characterized by wet heaths, mat-grass swards, and small bogs, which are kept open by extensive grazing with sheep. These habitats are home to specialized and rare species such as the Heath Spotted-orchid and the Marsh Gentian. The area is also an important retreat for the Great Grey Shrike, a rare bird that needs open landscapes with thorny bushes for hunting. It is an example of the traditional cultural landscape of the Oesling."
+    },
+    factsAdvanced: [
+    "Hochplateau im Ösling bei Hosingen",
+    "Schutz von Feuchtheiden und Borstgrasrasen",
+    "Erhaltung durch Schafbeweidung",
+    "Lebensraum des seltenen Raubwürgers",
+    "Vorkommen von Lungen-Enzian",
+    "Typische Landschaft der Ardennen",
+    "Hohe Bedeutung für Insekten",
+    "Beispiel für traditionelle Landnutzung"
+]},
   {
     id: "luxembourg-grousswiss-life-v2",
     parent: "LU",
@@ -1421,7 +1694,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["In the Attert valley", "Large reed areas", "Resting site for wading birds", "Natura 2000 protection"],
     },
     imageHint: "Grousswiss nature reserve reed beds",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Grousswiss bei Bissen ist eines der größten zusammenhängenden Feuchtwiesengebiete Luxemburgs. Es liegt im breiten Tal der Attert und wird regelmäßig überflutet, was die Entwicklung einer einzigartigen Flora und Fauna begünstigt. Die Wiesen sind bekannt für ihre reichen Bestände an Sumpf-Dotterblumen und verschiedenen Orchideenarten. Für die Vogelwelt ist das Gebiet von unschätzbarem Wert; es dient als Brutplatz für den Wiesenpieper und als Nahrungsrevier für den Weißstorch, der in den letzten Jahren wieder in der Region heimisch geworden ist. Die extensive Bewirtschaftung ist entscheidend für den Erhalt dieser wertvollen Landschaft.",
+    "hu": "A Bissen melletti Grousswiss természetvédelmi terület Luxemburg egyik legnagyobb összefüggő nedves rétje. Az Attert széles völgyében fekszik, és rendszeresen elönti a víz, ami elősegíti az egyedülálló növény- és állatvilág kialakulását. A rétek gazdag mocsári gólyahír és különböző orchideafajok állományairól ismertek. A madárvilág számára a terület felbecsülhetetlen értékű; a réti pityer fészkelőhelyeként és a fehér gólya táplálkozóhelyeként szolgál, amely az utóbbi években ismét megtelepedett a régióban. Az extenzív gazdálkodás döntő fontosságú ezen értékes táj megőrzésében.",
+    "ro": "Rezervația Naturală Grousswiss de lângă Bissen este una dintre cele mai mari zone de pajiști umede continue din Luxemburg. Este situată în valea largă a râului Attert și este inundată în mod regulat, ceea ce favorizează dezvoltarea unei flore și faune unice. Pajiștile sunt cunoscute pentru populațiile lor bogate de calcea-popii și diverse specii de orhidee. Pentru avifaună, zona este de o valoare inestimabilă; servește ca loc de cuibărit pentru fâsa de luncă și ca zonă de hrănire pentru barza albă, care s-a restabilit în regiune în ultimii ani. Gestionarea extensivă este crucială pentru conservarea acestui peisaj valoros.",
+    "en": "The Grousswiss Nature Reserve near Bissen is one of the largest contiguous wet meadow areas in Luxembourg. It is located in the wide valley of the Attert river and is regularly flooded, which favors the development of a unique flora and fauna. The meadows are known for their rich populations of marsh marigolds and various orchid species. For the bird world, the area is of inestimable value; it serves as a breeding ground for the meadow pipit and as a feeding ground for the white stork, which has re-established itself in the region in recent years. Extensive management is crucial for the conservation of this valuable landscape."
+    },
+    factsAdvanced: [
+    "Großes Feuchtwiesengebiet im Attert-Tal",
+    "Bei der Ortschaft Bissen gelegen",
+    "Regelmäßige Überschwemmungen",
+    "Brutplatz des Wiesenpiepers",
+    "Nahrungsrevier des Weißstorchs",
+    "Reiche Vorkommen an Sumpf-Dotterblumen",
+    "Erhaltung durch extensive Landwirtschaft",
+    "Wichtig für Amphibien und Insekten"
+]},
   {
     id: "luxembourg-saueruecht-life-v2",
     parent: "LU",
@@ -1441,7 +1730,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near Ettelbruck", "Luzula-beech forests", "Habitat for the wildcat", "Rugged slate rocks"],
     },
     imageHint: "Saueruecht forest slopes sauer river",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Das Naturschutzgebiet Saueruecht bei Erpeldingen an der Sauer schützt eine der größten und ökologisch wertvollsten Feuchtwiesenlandschaften des Landes. Das Gebiet liegt in der Flussaue der Sauer und wird durch extensive Mahd und Beweidung gepflegt, was den Erhalt einer artenreichen Pflanzenwelt ermöglicht. Hier finden sich große Bestände des Sibirischen Schwertlilie, einer in Westeuropa sehr seltenen Pflanze. Die Feuchtwiesen sind zudem ein extrem wichtiger Lebensraum für den Wachtelkönig, einen vom Aussterben bedrohten Wiesenbrüter. Das Gebiet ist ein Vorzeigebeispiel für erfolgreichen Artenschutz durch angepasste Landnutzung.",
+    "hu": "Az Erpeldingen an der Sauer melletti Saueruecht természetvédelmi terület az ország egyik legnagyobb és ökológiailag legértékesebb nedves rétségét védi. A terület a Sauer árterében fekszik, és extenzív kaszálással és legeltetéssel tartják fenn, ami lehetővé teszi a fajokban gazdag növényvilág megőrzését. Itt található a szibériai nőszirom nagy állománya, amely Nyugat-Európában nagyon ritka növény. A nedves rétek rendkívül fontos élőhelyet jelentenek a haris, egy kihalófélben lévő réti madár számára is. A terület a sikeres fajvédelem mintapéldája az adaptált földhasználat révén.",
+    "ro": "Rezervația Naturală Saueruecht de lângă Erpeldange-sur-Sûre protejează una dintre cele mai mari și mai valoroase peisaje de pajiști umede din țară. Zona este situată în lunca inundabilă a râului Sûre și este întreținută prin cosit și pășunat extensiv, ceea ce permite conservarea unei flore bogate în specii. Aici se găsesc populații mari de stânjenel siberian, o plantă foarte rară în Europa de Vest. Pajiștile umede sunt, de asemenea, un habitat extrem de important pentru crestețul cenușiu, o pasăre de luncă pe cale de dispariție. Zona este un exemplu de succes în conservarea speciilor prin utilizarea adaptată a terenurilor.",
+    "en": "The Saueruecht Nature Reserve near Erpeldange-sur-Sûre protects one of the largest and most ecologically valuable wet meadow landscapes in the country. The area is located in the floodplain of the Sûre river and is maintained through extensive mowing and grazing, which allows for the conservation of a species-rich flora. Large populations of the Siberian Iris, a very rare plant in Western Europe, can be found here. The wet meadows are also an extremely important habitat for the Corncrake, an endangered meadow bird. The area is a prime example of successful species conservation through adapted land use."
+    },
+    factsAdvanced: [
+    "Große Feuchtwiesenlandschaft an der Sauer",
+    "Bei Erpeldingen gelegen",
+    "Wichtigstes Vorkommen der Sibirischen Schwertlilie",
+    "Lebensraum des vom Aussterben bedrohten Wachtelkönigs",
+    "Erhaltung durch extensive Landwirtschaft",
+    "Teil eines internationalen Schutzgebiets-Netzwerks",
+    "Hohe Bedeutung für Wiesenbrüter",
+    "Vorzeigeprojekt für den Artenschutz"
+]},
   {
     id: "luxembourg-diekirch-haardt-life-v2",
     parent: "LU",
@@ -1461,7 +1766,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Diekirch's local mountain", "Mixed deciduous forest habitat", "Historic forest use", "Well-developed trail network"],
     },
     imageHint: "Haardt forest views Diekirch",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Die Haardt oberhalb von Diekirch ist ein markanter Hügelzug, der das Sauertal überblickt. Die nach Süden ausgerichteten, sonnigen Hänge sind von trockenen, buschreichen Wiesen und alten Streuobstbeständen geprägt. Dieses Mosaik schafft einen idealen Lebensraum für wärmeliebende Arten. Insbesondere die Zaunammer, ein seltener Vogel des Mittelmeerraums, findet hier eines ihrer nördlichsten Brutgebiete. Die alten, höhlenreichen Obstbäume bieten zudem dem Steinkauz, einer kleinen Eulenart, Nistmöglichkeiten. Das Gebiet ist ein beliebtes Naherholungsziel und bietet spektakuläre Ausblicke über Diekirch und das Sauertal.",
+    "hu": "A Diekirch feletti Haardt egy jellegzetes dombvonulat, amely a Sauer-völgyre néz. A déli fekvésű, napos lejtőket száraz, cserjés rétek és idős gyümölcsösök jellemzik. Ez a mozaik ideális élőhelyet teremt a melegkedvelő fajok számára. Különösen a sordély, egy ritka mediterrán madár, találja meg itt egyik legészakibb költőhelyét. Az idős, üreges gyümölcsfák fészkelőhelyet biztosítanak a kuvik, egy kis bagolyfaj számára is. A terület népszerű helyi rekreációs célpont, és látványos kilátást nyújt Diekirchre és a Sauer-völgyre.",
+    "ro": "Haardt, deasupra orașului Diekirch, este un lanț de dealuri distinctiv care domină valea Sûre. Versanții însoriți, orientați spre sud, sunt caracterizați de pajiști uscate, bogate în arbuști și livezi tradiționale vechi. Acest mozaic creează un habitat ideal pentru speciile iubitoare de căldură. În special, presura de grădină, o pasăre rară din regiunea mediteraneană, găsește aici una dintre cele mai nordice zone de cuibărit. Livezile vechi, cu scorburile lor, oferă, de asemenea, locuri de cuibărit pentru cucuvea, o specie mică de bufniță. Zona este o destinație populară de recreere locală și oferă vederi spectaculoase asupra orașului Diekirch și a văii Sûre.",
+    "en": "The Haardt above Diekirch is a distinctive chain of hills overlooking the Sûre valley. The south-facing, sunny slopes are characterized by dry, shrub-rich meadows and old traditional orchards. This mosaic creates an ideal habitat for warmth-loving species. In particular, the Ortolan Bunting, a rare bird of the Mediterranean region, finds one of its northernmost breeding areas here. The old, cavity-rich fruit trees also provide nesting opportunities for the Little Owl, a small species of owl. The area is a popular local recreation destination and offers spectacular views over Diekirch and the Sûre valley."
+    },
+    factsAdvanced: [
+    "Hügelzug oberhalb von Diekirch",
+    "Sonnige Südhänge mit Trockenrasen",
+    "Nördlichstes Brutgebiet der Zaunammer",
+    "Lebensraum für den Steinkauz",
+    "Alte Streuobstwiesen",
+    "Panoramablick auf das Sauertal",
+    "Wichtig für wärmeliebende Insekten",
+    "Beliebtes Naherholungsgebiet"
+]},
   {
     id: "luxembourg-niklosbierg-life-v2",
     parent: "LU",
@@ -1481,7 +1802,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located near Vianden", "Rocky slope heathland", "Presence of Woodlark", "Panorama of the castle"],
     },
     imageHint: "Niklosbierg nature reserve heathland",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Der Niklosbierg bei Vianden ist ein steiler Schieferhang, der das Our-Tal überragt. Seine extremen Bedingungen – trockene, flachgründige Böden und intensive Sonneneinstrahlung – haben eine hochspezialisierte Felsgrus-Vegetation hervorgebracht. Hier wachsen Pflanzen wie die Karthäuser-Nelke und verschiedene Fetthennen-Arten, die an diese kargen Verhältnisse angepasst sind. Das Gebiet ist auch ein wichtiger Lebensraum für Reptilien, insbesondere für die Mauereidechse, die die warmen Felsen liebt. Von den Felskanzeln des Niklosbierg aus genießt man einen der eindrucksvollsten Blicke auf das mittelalterliche Städtchen Vianden und sein berühmtes Schloss.",
+    "hu": "A Vianden melletti Niklosbierg egy meredek palaoldal, amely az Our-völgy fölé magasodik. Extrém körülményei – száraz, sekély talaj és intenzív napsugárzás – egy magasan specializálódott sziklatörmelék-vegetációt hoztak létre. Olyan növények nőnek itt, mint a kártyás szegfű és a különböző varjúhájfajok, amelyek alkalmazkodtak ezekhez a kopár viszonyokhoz. A terület a hüllők, különösen a fali gyík fontos élőhelye is, amely szereti a meleg sziklákat. A Niklosbierg szikláiról az egyik leglenyűgözőbb kilátás nyílik Vianden középkori városkájára és híres kastélyára.",
+    "ro": "Niklosbierg, lângă Vianden, este un versant abrupt de ardezie care domină valea râului Our. Condițiile sale extreme – soluri uscate, superficiale și insolație intensă – au dat naștere unei vegetații de grohotișuri stâncoase foarte specializate. Aici cresc plante precum garoafa de munte și diverse specii de iarbă-grasă, adaptate la aceste condiții austere. Zona este, de asemenea, un habitat important pentru reptile, în special pentru șopârla de ziduri, care iubește stâncile calde. De pe stâncile de pe Niklosbierg se poate admira una dintre cele mai impresionante priveliști ale orașului medieval Vianden și ale faimosului său castel.",
+    "en": "Niklosbierg near Vianden is a steep slate slope overlooking the Our valley. Its extreme conditions – dry, shallow soils and intense solar radiation – have given rise to a highly specialized rock scree vegetation. Plants such as the Carthusian Pink and various stonecrop species grow here, adapted to these barren conditions. The area is also an important habitat for reptiles, especially the wall lizard, which loves the warm rocks. From the rocky outcrops of Niklosbierg, one can enjoy one of the most impressive views of the medieval town of Vianden and its famous castle."
+    },
+    factsAdvanced: [
+    "Steiler Schieferhang bei Vianden",
+    "Blick auf Schloss und Städtchen Vianden",
+    "Spezialisierte Felsgrus-Vegetation",
+    "Vorkommen der Karthäuser-Nelke",
+    "Wichtiger Lebensraum für die Mauereidechse",
+    "Extreme Trockenheit und Sonneneinstrahlung",
+    "Teil des Naturparks Our",
+    "Einzigartige geologische Bedingungen"
+]},
   {
     id: "luxembourg-stolzembourg-nature-life-v2",
     parent: "LU",
@@ -1501,7 +1838,23 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Our valley", "Near the copper mine", "Heavy metal resistant plants", "Rocky riparian areas"],
     },
     imageHint: "Stolzembourg copper mine area nature",
-  },
+    descriptionAdvanced: {
+    
+    "de": "Die Umgebung von Stolzembourg im Ourtal ist bekannt für ihre historischen Kupferminen, aber auch für ihre wertvollen Naturschätze. Die ehemaligen Bergbauhalden und Stollen bieten heute einzigartige Lebensräume. Auf den schwermetallhaltigen Böden der Halden wächst eine spezialisierte Galmei-Flora, darunter das gelb blühende Galmei-Veilchen. Die alten Stollen dienen Fledermäusen als wichtige und ungestörte Winterquartiere. Die Kombination aus Industriegeschichte und seltener Natur macht das Gebiet einzigartig. Ein Lehrpfad verbindet die historischen Stätten mit den ökologischen Besonderheiten und erzählt die Geschichte des Kupferabbaus und der Natur, die ihn zurückerobert.",
+    "hu": "Stolzembourg környéke az Our-völgyben történelmi rézbányáiról, de értékes természeti kincseiről is ismert. Az egykori bányászati meddőhányók és tárók ma egyedülálló élőhelyeket kínálnak. A meddőhányók nehézfémekben gazdag talaján specializált cinkflóra nő, köztük a sárga virágú cink-ibolya. A régi tárók fontos és zavartalan téli szálláshelyként szolgálnak a denevérek számára. Az ipartörténet és a ritka természet kombinációja egyedülállóvá teszi a területet. Egy tanösvény köti össze a történelmi helyszíneket az ökológiai különlegességekkel, és elmeséli a rézbányászat történetét és a természetét, amely visszahódítja azt.",
+    "ro": "Împrejurimile Stolzembourgului din valea Our sunt cunoscute pentru minele sale istorice de cupru, dar și pentru comorile sale naturale valoroase. Fostele halde miniere și galerii oferă astăzi habitate unice. Pe solurile bogate în metale grele ale haldelor crește o floră calaminară specializată, inclusiv violeta galbenă de zinc. Vechile galerii servesc drept cartiere de iarnă importante și nederanjate pentru lilieci. Combinația dintre istoria industrială și natura rară face ca zona să fie unică. O potecă tematică leagă siturile istorice de particularitățile ecologice și spune povestea exploatării cuprului și a naturii care o recucerește.",
+    "en": "The surroundings of Stolzembourg in the Our valley are known for their historic copper mines, but also for their valuable natural treasures. The former mining dumps and adits now offer unique habitats. A specialized calamine flora, including the yellow-flowering calamine violet, grows on the heavy metal-rich soils of the dumps. The old adits serve as important and undisturbed winter quarters for bats. The combination of industrial history and rare nature makes the area unique. An educational trail connects the historical sites with the ecological specialities and tells the story of copper mining and the nature that is reclaiming it."
+    },
+    factsAdvanced: [
+    "Historisches Kupferbergbaugebiet",
+    "Bei Stolzembourg im Ourtal",
+    "Spezialisierte Galmei-Flora auf Halden",
+    "Wichtiges Fledermaus-Winterquartier",
+    "Vorkommen des Galmei-Veilchens",
+    "Kombination aus Industrie- und Naturerbe",
+    "Lehrpfad zum Bergbau",
+    "Einzigartige geologische Bedingungen"
+]},
   {
     id: "luxembourg-tuebebierg-life-v2",
     parent: "LU",
@@ -1521,6 +1874,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Former ore mining site", "Red Lands (Terres Rouges)", "Pioneer vegetation", "Protection of orchids"],
     },
     imageHint: "Tuebebierg nature reserve red earth orchids",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Tuebebierg bei Kayl ist ein typisches Beispiel für die einzigartige Landschaft der 'Terres Rouges' im Süden Luxemburgs. Auf den Böden ehemaliger Tagebaugebiete hat sich eine faszinierende Pioniervegetation entwickelt. Die kargen, eisenreichen Böden sind ein idealer Standort für seltene Orchideenarten und andere trockenheitsliebende Pflanzen. Das Gebiet dient als wichtiges Refugium für spezialisierte Insekten und Reptilien, die in dieser vom Menschen geschaffenen und von der Natur zurückeroberten Landschaft überleben. Der Tuebebierg ist Teil des UNESCO-Biosphärenreservats 'Minett' und zeigt eindrücklich, wie aus industriellen Wunden wertvolle Naturräume entstehen können. Lehrpfade führen durch das Reservat und erklären die enge Verbindung von Industriegeschichte und Biodiversität.",
+      hu: "A Kayl melletti Tuebebierg természetvédelmi terület a dél-luxemburgi 'Vörös Föld' egyedülálló tájának jellegzetes példája. Az egykori külszíni bányák talaján lenyűgöző pionír növényzet alakult ki. A szegényes, vasban gazdag talajok ideális élőhelyet biztosítanak ritka orchideafajoknak és más szárazságtűrő növényeknek. A terület fontos menedékhelye a specializált rovaroknak és hüllőknek, amelyek ebben az ember által létrehozott és a természet által visszahódított tájban élnek túl. A Tuebebierg az UNESCO 'Minett' bioszféra-rezervátum része, és hatásosan mutatja be, hogyan válhatnak az ipari sebekből értékes természeti területek. Tanösvények vezetnek a rezervátumban, amelyek bemutatják az ipartörténet és a biodiverzitás szoros kapcsolatát.",
+      ro: "Rezervația naturală Tuebebierg de lângă Kayl este un exemplu tipic al peisajului unic din 'Terres Rouges' (Pământurile Roșii) din sudul Luxemburgului. O vegetație pionieră fascinantă s-a dezvoltat pe solurile fostelor exploatări miniere de suprafață. Solurile sărace, bogate în fier, sunt un habitat ideal pentru specii rare de orhidee și alte plante iubitoare de secetă. Zona servește ca un refugiu important pentru insecte și reptile specializate care supraviețuiesc în acest peisaj creat de om și recucerit de natură. Tuebebierg face parte din Rezervația Biosferei UNESCO 'Minett' și demonstrează în mod impresionant cum rănile industriale pot deveni spații naturale valoroase. Potecile tematice traversează rezervația, explicând legătura strânsă dintre istoria industrială și biodiversitate.",
+      en: "The Tuebebierg nature reserve near Kayl is a typical example of the unique landscape of the 'Terres Rouges' (Red Lands) in southern Luxembourg. A fascinating pioneer vegetation has developed on the soils of former open-cast mining sites. The barren, iron-rich soils are an ideal habitat for rare orchid species and other drought-loving plants. The area serves as an important sanctuary for specialized insects and reptiles that survive in this man-made landscape reclaimed by nature. The Tuebebierg is part of the 'Minett' UNESCO Biosphere Reserve and impressively shows how valuable natural spaces can emerge from industrial wounds. Educational trails lead through the reserve, explaining the close connection between industrial history and biodiversity."
+    },
+    factsAdvanced: {
+      de: ["Ehemaliges Tagebaugebiet (Minette)", "Teil der UNESCO Minett Biosphäre", "Charakteristische rote Böden", "Spezialisierte Pionierflora", "Vorkommen seltener Orchideenarten", "Lebensraum für Zauneidechsen", "Industrie- und Naturlehrpfade", "Standort bei Kayl und Rümelingen"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-parc-gaalgebierg-life-v2",
@@ -1541,6 +1906,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["In Esch-sur-Alzette", "Integrated wildlife park", "Large rose collection", "Local recreation area"],
     },
     imageHint: "Gaalgebierg park Esch flowers trees",
+    descriptionAdvanced: {
+      de: "Der Gaalgebierg in Esch-sur-Alzette ist mehr als nur ein Park; er ist die größte und vielfältigste Grünanlage der Stadt und eine zentrale soziale und ökologische Institution. Auf einer Anhöhe gelegen, verbindet er kunstvoll angelegte Rosengärten, weitläufige Spiel- und Sportanlagen sowie naturnahe Waldgebiete. Ein besonderes Highlight ist der integrierte Tierpark 'Escher Déierepark', der vor allem heimische Tierarten zeigt und kostenlos zugänglich ist. Der Park wurde auf rekultiviertem Bergbaugelände angelegt und symbolisiert den Strukturwandel der Region. Mit seinen thematischen Gärten, einem großen Campingplatz und den gut ausgebauten Wegenetzen ist der Gaalgebierg ein entscheidender Faktor für die Lebensqualität in der Minette-Metropole und ein beliebtes Ziel für Erholungssuchende aus der gesamten Region.",
+      hu: "Az Esch-sur-Alzette-i Gaalgebierg több mint egy park; a város legnagyobb és legváltozatosabb zöldterülete, valamint központi társadalmi és ökológiai intézménye. Egy dombon elhelyezkedve művészien kialakított rózsakerteket, tágas játék- és sportlétesítményeket, valamint természetközeli erdőterületeket kapcsol össze. Különlegessége az integrált 'Escher Déierepark' állatkert, amely főként őshonos állatfajokat mutat be és ingyenesen látogatható. A parkot rekultivált bányaterületen hozták létre, és a régió szerkezeti átalakulását szimbolizálja. Tematikus kertjeivel, nagy kempingjével és jól kiépített úthálózatával a Gaalgebierg a Minette-metropolisz életminőségének meghatározó tényezője és a pihenni vágyók kedvelt célpontja az egész régióból.",
+      ro: "Gaalgebierg din Esch-sur-Alzette este mai mult decât un parc; este cel mai mare și mai divers spațiu verde al orașului și o instituție socială și ecologică centrală. Situat pe o colină, acesta combină grădini de trandafiri amenajate artistic, facilități extinse de joacă și sport, precum și zone forestiere naturale. Un punct de atracție special este parcul de animale integrat 'Escher Déierepark', care prezintă în principal specii de animale native și are acces gratuit. Parcul a fost amenajat pe terenuri miniere recultivate și simbolizează transformarea structurală a regiunii. Cu grădinile sale tematice, un camping mare și rețelele de poteci bine dezvoltate, Gaalgebierg este un factor decisiv pentru calitatea vieții în metropola Minette și o destinație populară pentru cei care caută recreere din întreaga regiune.",
+      en: "The Gaalgebierg in Esch-sur-Alzette is more than just a park; it is the city's largest and most diverse green space and a central social and ecological institution. Located on a hill, it artfully combines landscaped rose gardens, extensive play and sports facilities, and near-natural forest areas. A special highlight is the integrated 'Escher Déierepark' animal park, which primarily displays native animal species and is free to enter. The park was created on reclaimed mining land and symbolizes the region's structural transformation. With its thematic gardens, a large campsite, and well-developed path networks, the Gaalgebierg is a crucial factor for the quality of life in the Minette metropolis and a popular destination for recreation seekers from the entire region."
+    },
+    factsAdvanced: {
+      de: ["Größte Parkanlage von Esch-sur-Alzette", "Auf dem Galgenberg gelegen", "Beinhaltet kostenlosen Tierpark", "Großer Rosengarten mit über 100 Sorten", "Angelegt auf rekultiviertem Industriegelände", "Mehrere Spielplätze und Sportanlagen", "Großer Campingplatz integriert", "Zentraler Ort der Naherholung"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-stromberg-life-v2",
@@ -1561,6 +1938,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Triple border location", "Steep limestone cliffs", "Orchid-rich area", "Schengen-Stromberg hiking path"],
     },
     imageHint: "Stromberg nature reserve schengen views",
+    descriptionAdvanced: {
+      de: "Der Stromberg bei Schengen, direkt im Dreiländereck mit Deutschland und Frankreich gelegen, ist ein beeindruckendes Naturschutzgebiet. Er schützt steile Muschelkalkhänge, die von artenreichen Trockenrasen und lichten Wäldern bedeckt sind. Diese sonnenexponierten Hänge bieten einen idealen Lebensraum für eine Vielzahl seltener Orchideen und anderer wärmeliebender Pflanzen. Der Stromberg ist auch für seine reiche Insekten- und Reptilienfauna bekannt. Wanderwege führen zu spektakulären Aussichtspunkten, die einen weiten Blick über das Moseltal und die angrenzenden Länder ermöglichen. Das Gebiet ist ein Symbol für den grenzüberschreitenden Naturschutz und zeigt, wie Kulturlandschaft und Biodiversität Hand in Hand gehen können. Die Pflege durch extensive Beweidung sichert den Erhalt dieser einzigartigen Landschaft.",
+      hu: "A Schengen melletti Stromberg, amely közvetlenül a német-francia-luxemburgi hármashatáron fekszik, egy lenyűgöző természetvédelmi terület. Meredek, kagylós mészkőlejtőket véd, amelyeket fajgazdag száraz gyepek és ritkás erdők borítanak. Ezek a napsütötte lejtők ideális élőhelyet biztosítanak számos ritka orchideának és más melegkedvelő növénynek. A Stromberg gazdag rovar- és hüllőfaunájáról is ismert. A túraútvonalak látványos kilátópontokhoz vezetnek, ahonnan széles kilátás nyílik a Mosel-völgyre és a szomszédos országokra. A terület a határokon átnyúló természetvédelem szimbóluma, és megmutatja, hogyan járhat kéz a kézben a kultúrtáj és a biodiverzitás. Ennek az egyedülálló tájnak a megőrzését extenzív legeltetéssel biztosítják.",
+      ro: "Stromberg de lângă Schengen, situat direct la tripla frontieră cu Germania și Franța, este o rezervație naturală impresionantă. Acesta protejează versanți abrupți de calcar cochilifer, acoperiți cu pajiști uscate bogate în specii și păduri rare. Acești versanți expuși la soare oferă un habitat ideal pentru o varietate de orhidee rare și alte plante iubitoare de căldură. Stromberg este, de asemenea, cunoscut pentru bogata sa faună de insecte și reptile. Traseele de drumeție duc la puncte de belvedere spectaculoase, care oferă vederi ample asupra văii Moselle și a țărilor învecinate. Zona este un simbol al conservării transfrontaliere a naturii și arată cum peisajul cultural și biodiversitatea pot merge mână în mână. Întreținerea prin pășunat extensiv asigură conservarea acestui peisaj unic.",
+      en: "The Stromberg near Schengen, located directly at the tri-border area with Germany and France, is an impressive nature reserve. It protects steep shell limestone slopes covered with species-rich dry grasslands and sparse forests. These sun-exposed slopes provide an ideal habitat for a variety of rare orchids and other thermophilic plants. The Stromberg is also known for its rich insect and reptile fauna. Hiking trails lead to spectacular viewpoints that offer wide views over the Moselle valley and the neighboring countries. The area is a symbol of cross-border nature conservation and shows how cultural landscape and biodiversity can go hand in hand. Maintenance through extensive grazing ensures the preservation of this unique landscape."
+    },
+    factsAdvanced: {
+      de: ["Lage im Dreiländereck (LUX/DE/FR)", "Steile Hänge aus Muschelkalk", "Artenreiche Kalk-Trockenrasen", "Bedeutendes Orchideenvorkommen", "Panoramablick ins Moseltal", "Symbol des grenzenlosen Europas (Schengen)", "Wanderweg 'Schengen ohne Grenzen'", "Pflege durch Schafbeweidung"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-hopelslay-life-v2",
@@ -1581,6 +1970,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near the Moselle river", "Calcareous dry grasslands", "Rare reptile species", "Hiking path through vineyards"],
     },
     imageHint: "Hopelslay nature reserve Remich",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Hopelslay bei Remich ist ein kleines, aber feines Juwel an der Luxemburger Mosel. Es umfasst steile, nach Süden ausgerichtete Hänge, die früher für den Weinbau genutzt wurden. Heute haben sich hier wertvolle Halbtrockenrasen mit einer bemerkenswerten Flora entwickelt. Das Gebiet ist besonders für sein Vorkommen seltener Orchideenarten bekannt, die im Frühsommer in voller Blüte stehen. Die warmen, sonnigen Hänge sind auch ein wichtiger Lebensraum für Reptilien wie die Mauereidechse und für wärmeliebende Insekten. Ein schmaler Pfad führt durch das Reservat und bietet atemberaubende Ausblicke auf die gegenüberliegenden Weinberge und die Moselschleife bei Remich. Hopelslay ist ein perfektes Beispiel dafür, wie aufgegebene Kulturflächen zu Hotspots der Biodiversität werden können.",
+      hu: "A Remich melletti Hopelslay természetvédelmi terület egy kicsi, de finom ékkő a luxemburgi Mosel mentén. Meredek, déli fekvésű lejtőket foglal magában, amelyeket korábban szőlőtermesztésre használtak. Ma értékes félszáraz gyepek alakultak ki itt, figyelemre méltó növényvilággal. A terület különösen ismert a ritka orchideafajok előfordulásáról, amelyek kora nyáron teljes virágzásban pompáznak. A meleg, napsütötte lejtők fontos élőhelyet jelentenek a hüllők, például a fali gyík, valamint a melegkedvelő rovarok számára. Egy keskeny ösvény vezet a rezervátumon keresztül, lélegzetelállító kilátást nyújtva a szemközti szőlőhegyekre és a remichi Mosel-kanyarra. A Hopelslay tökéletes példája annak, hogyan válhatnak a felhagyott kultúrterületek a biodiverzitás gócpontjaivá.",
+      ro: "Rezervația naturală Hopelslay de lângă Remich este o bijuterie mică, dar rafinată, pe malul Moselei luxemburgheze. Aceasta cuprinde versanți abrupți, orientați spre sud, care au fost folosiți anterior pentru viticultură. Astăzi, aici s-au dezvoltat pajiști uscate valoroase, cu o floră remarcabilă. Zona este cunoscută în special pentru prezența speciilor rare de orhidee, care înfloresc din plin la începutul verii. Versanții calzi și însoriti sunt, de asemenea, un habitat important pentru reptile precum șopârla de ziduri și pentru insecte iubitoare de căldură. O potecă îngustă traversează rezervația și oferă vederi uluitoare asupra podgoriilor de vizavi și a buclei Moselei de la Remich. Hopelslay este un exemplu perfect al modului în care terenurile agricole abandonate pot deveni puncte fierbinți ale biodiversității.",
+      en: "The Hopelslay nature reserve near Remich is a small but fine jewel on the Luxembourg Moselle. It comprises steep, south-facing slopes formerly used for viticulture. Today, valuable semi-dry grasslands with remarkable flora have developed here. The area is particularly known for its occurrence of rare orchid species, which are in full bloom in early summer. The warm, sunny slopes are also an important habitat for reptiles like the wall lizard and for thermophilic insects. A narrow path leads through the reserve, offering breathtaking views of the opposite vineyards and the Moselle loop at Remich. Hopelslay is a perfect example of how abandoned agricultural land can become biodiversity hotspots."
+    },
+    factsAdvanced: {
+      de: ["Steilhang an der Mosel bei Remich", "Ehemalige Weinbauterrassen", "Wertvolle Halbtrockenrasen-Biotope", "Reiches Vorkommen an Wildorchideen", "Lebensraum der Mauereidechse", "Blick auf die Moselschleife", "Wärmeliebende Insektenfauna", "Pflege durch Entbuschung und Mahd"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-scheierbierg-life-v2",
@@ -1601,6 +2002,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Schengen municipality", "Calcareous dry grasslands", "Rich in butterflies", "Sunny slope location"],
     },
     imageHint: "Scheierbierg nature reserve flowers",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Scheierbierg in Düdelingen ist ein Paradebeispiel für die ökologische Aufwertung ehemaliger Industriebrachen. Auf dem Gelände eines alten Gips- und Steinbruchs hat sich eine bemerkenswerte Vielfalt an Lebensräumen entwickelt. Die trockenen, sonnigen Hänge beherbergen eine reiche Population an Orchideen und anderen seltenen Pflanzen, die an die kargen Kalksteinböden angepasst sind. Steile Felswände bieten Brutplätze für Vögel wie den Uhu. Das Gebiet ist auch ein wichtiger Lebensraum für Amphibien, die in den temporären Gewässern der ehemaligen Gruben laichen. Als Teil des 'Minett' UNESCO Biosphärenreservats illustriert der Scheierbierg eindrucksvoll die Fähigkeit der Natur, vom Menschen veränderte Landschaften zurückzuerobern und in Oasen der Biodiversität zu verwandeln.",
+      hu: "A düdelingen-i Scheierbierg természetvédelmi terület az egykori ipari pusztaságok ökológiai felértékelődésének ékes példája. Egy régi gipsz- és kőbánya területén a biotópok figyelemre méltó sokfélesége alakult ki. A száraz, napsütötte lejtőkön orchideák és más, a szegényes mészkőtalajhoz alkalmazkodott ritka növények gazdag populációja él. A meredek sziklafalak fészkelőhelyet biztosítanak olyan madaraknak, mint az uhu. A terület fontos élőhelye a kétéltűeknek is, amelyek az egykori bányák időszakos vizeiben ívnak. Az UNESCO 'Minett' bioszféra-rezervátum részeként a Scheierbierg lenyűgözően illusztrálja a természet azon képességét, hogy visszahódítsa az ember által megváltoztatott tájakat és a biológiai sokféleség oázisaivá alakítsa át őket.",
+      ro: "Rezervația naturală Scheierbierg din Dudelange este un exemplu excelent de revalorizare ecologică a fostelor situri industriale abandonate. O diversitate remarcabilă de habitate s-a dezvoltat pe amplasamentul unei vechi cariere de ghips și piatră. Versanții uscați și însoriti găzduiesc o populație bogată de orhidee și alte plante rare adaptate la solurile calcaroase sărace. Pereții stâncoși abrupți oferă locuri de cuibărit pentru păsări precum buha. Zona este, de asemenea, un habitat important pentru amfibieni, care depun icre în apele temporare ale fostelor cariere. Ca parte a Rezervației Biosferei UNESCO 'Minett', Scheierbierg ilustrează în mod impresionant capacitatea naturii de a revendica peisajele modificate de om și de a le transforma în oaze de biodiversitate.",
+      en: "The Scheierbierg nature reserve in Dudelange is a prime example of the ecological enhancement of former industrial brownfield sites. A remarkable diversity of habitats has developed on the site of an old gypsum and stone quarry. The dry, sunny slopes are home to a rich population of orchids and other rare plants adapted to the sparse limestone soils. Steep rock faces provide nesting sites for birds such as the eagle owl. The area is also an important habitat for amphibians, which spawn in the temporary waters of the former pits. As part of the 'Minett' UNESCO Biosphere Reserve, the Scheierbierg impressively illustrates nature's ability to reclaim landscapes altered by humans and transform them into oases of biodiversity."
+    },
+    factsAdvanced: {
+      de: ["Ehemaliger Gips- und Steinbruch", "Standort bei Düdelingen (Dudelange)", "Teil des UNESCO Minett Biosphärenreservats", "Kalk-Halbtrockenrasen mit Orchideen", "Brutplatz des Uhus (Bubo bubo)", "Laichgewässer für Amphibien", "Geologischer Lehrpfad 'Gipswee'", "Rund 30 Hektar großes Schutzgebiet"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-jongenbesch-life-v2",
@@ -1621,6 +2034,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near the Moselle river", "Limestone beech forest aspects", "High proportion of deadwood", "Significant for woodpeckers"],
     },
     imageHint: "Jongenbësch forest ancient oaks",
+    descriptionAdvanced: {
+      de: "Der Jongenbesch bei Leudelingen ist ein klassisches Beispiel für einen artenreichen, alten Eichen-Hainbuchenwald auf Lehmböden. Solche Wälder, die einst weite Teile Luxemburgs bedeckten, sind heute selten geworden. Der Jongenbesch zeichnet sich durch seinen Strukturreichtum aus, mit alten, mächtigen Bäumen, stehendem und liegendem Totholz sowie einer vielfältigen Krautschicht. Im Frühling entfaltet sich ein Teppich aus Frühblühern wie Buschwindröschen und Lerchensporn, bevor das Blätterdach sich schließt. Das reichlich vorhandene Totholz bietet einen unersetzlichen Lebensraum für eine Vielzahl von Insekten, Pilzen und Mikroorganismen, was wiederum Vögeln wie dem Specht zugutekommt. Das Waldreservat dient dem Schutz der natürlichen Waldentwicklung und ist ein wichtiges Forschungs- und Referenzobjekt für eine naturnahe Forstwirtschaft.",
+      hu: "A Leudelange melletti Jongenbesch egy fajgazdag, idős tölgy-gyertyán erdő agyagos talajon, klasszikus példája az ilyen típusú erdőknek. Az ilyen erdők, amelyek egykor Luxemburg nagy részét borították, mára ritkává váltak. A Jongenbesch-t szerkezeti gazdagsága jellemzi, idős, hatalmas fákkal, álló és fekvő holtfával, valamint változatos gyepszinttel. Tavasszal, mielőtt a lombkorona bezárulna, a korai virágzók, mint a berki szellőrózsa és a keltike, szőnyeget alkotnak. A bőséges holtfa pótolhatatlan élőhelyet biztosít számos rovarnak, gombának és mikroorganizmusnak, ami pedig a madaraknak, például a harkálynak kedvez. Az erdőrezervátum a természetes erdőfejlődés védelmét szolgálja, és fontos kutatási és referenciaobjektum a természetközeli erdőgazdálkodás számára.",
+      ro: "Jongenbesch de lângă Leudelange este un exemplu clasic de pădure veche de stejar și carpen, bogată în specii, pe soluri argiloase. Astfel de păduri, care acopereau odată mari părți din Luxemburg, au devenit rare astăzi. Jongenbesch se caracterizează prin bogăția sa structurală, cu arbori bătrâni și impunători, lemn mort în picioare și la sol, precum și un strat ierbos divers. Primăvara, un covor de flori timpurii, cum ar fi anemonele și brebeneii, se desfășoară înainte ca coronamentul să se închidă. Lemnul mort abundent oferă un habitat de neînlocuit pentru o varietate de insecte, ciuperci și microorganisme, ceea ce, la rândul său, aduce beneficii păsărilor precum ciocănitoarea. Rezervația forestieră servește la protejarea dezvoltării naturale a pădurii și este un obiect important de cercetare și referință pentru o silvicultură apropiată de natură.",
+      en: "The Jongenbesch near Leudelange is a classic example of a species-rich, old oak-hornbeam forest on loamy soils. Such forests, which once covered large parts of Luxembourg, have become rare today. The Jongenbesch is characterized by its structural richness, with old, mighty trees, standing and lying deadwood, and a diverse herb layer. In spring, a carpet of early bloomers such as wood anemones and corydalis unfolds before the canopy closes. The abundant deadwood provides an irreplaceable habitat for a variety of insects, fungi, and microorganisms, which in turn benefits birds like the woodpecker. The forest reserve serves to protect natural forest development and is an important research and reference object for near-natural forestry."
+    },
+    factsAdvanced: {
+      de: ["Alter Eichen-Hainbuchenwald", "Standort bei Leudelange", "Typischer Wald des Luxemburger Gutlands", "Reich an Totholzstrukturen", "Teppich aus Frühjahrsblühern", "Lebensraum für Spechte und andere Höhlenbrüter", "Als Waldreservat (Réserve forestière) ausgewiesen", "Wichtiger Trittstein im Biotopverbund"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "luxembourg-brouch-millewiesen-life-v2",
@@ -1641,6 +2066,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Helperknapp municipality", "Wet meadow habitat", "Presence of Great Crested Newt", "Species-rich plant life"],
     },
     imageHint: "Millewiesen meadows Brouch flowers",
+    descriptionAdvanced: {
+      de: "Die Millewiesen bei Brouch im Eischtal sind ein bedeutendes Feuchtgebiet, das durch Renaturierung der Eisch entstand und heute als Rückzugsort für bedrohte Wiesenbrüter dient.",
+      hu: "A Brouch melletti Millewiesen egy fontos vizes élőhely az Eisch völgyében, amely a folyó rehabilitációja után vált a ritka madárfajok és kétéltűek kiemelt fészkelőhelyévé.",
+      ro: "Zonele umede Millewiesen de lângă Brouch reprezintă un ecosistem vital în valea Eisch, restaurat pentru a oferi habitat păsărilor migratoare și plantelor iubitoare de apă.",
+      en: "The Millewiesen near Brouch is a restored wetland in the Eisch valley, providing a vital sanctuary for meadow-nesting birds and maintaining local hydraulic balance.",
+    },
+    factsAdvanced: {
+      de: ["Renaturierung der Eisch", "Schutzgebiet Natura 2000", "Habitat für den Kiebitz", "Fläche von etwa 12 Hektar"],
+      hu: ["Eisch-folyó revitalizációja", "Natura 2000 hálózat része", "Bíbic fészkelőhelye", "12 hektáros kiterjedés"],
+      ro: ["Restaurarea râului Eisch", "Sit protejat Natura 2000", "Habitat pentru nagâț", "Suprafață de circa 12 ha"],
+      en: ["Eisch river restoration", "Natura 2000 network site", "Northern Lapwing habitat", "Area of approx. 12 hectares"],
+    },
   },
   {
     id: "luxembourg-elteschmuel-wetland-life-v2",
@@ -1661,6 +2098,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["White Ernz valley", "Fen structures", "Presence of Marsh Helleborine", "Protection of wet shrubs"],
     },
     imageHint: "Elteschmuel wetland marsh plants",
+    descriptionAdvanced: {
+      de: "Das Feuchtgebiet Elteschmuel bei Bergem ist eine ökologische Oase, die durch die Wiedervernässung ehemaliger landwirtschaftlicher Flächen zum Schutz der Artenvielfalt geschaffen wurde.",
+      hu: "A Bergem közelében fekvő Elteschmuel mocsárvidék egy mesterségesen helyreállított ökológiai folyosó, amely fontos szerepet játszik a helyi vízi élővilág megőrzésében.",
+      ro: "Zona umedă Elteschmuel de lângă Bergem este o oază ecologică creată prin refacerea terenurilor mlăștinoase, fiind un punct critic pentru biodiversitatea regională.",
+      en: "The Elteschmuel wetland near Bergem is a reclaimed natural area that serves as a crucial habitat for amphibians and migratory birds within a fragmented landscape.",
+    },
+    factsAdvanced: {
+      de: ["Wiederherstellung 1990-2000", "Vorkommen des Laubfroschs", "Pufferzone gegen Hochwasser", "Teil der Alzette-Aue"],
+      hu: ["1990 utáni rekonstrukció", "Zöld levelibéka élőhelye", "Árvízvédelmi pufferzóna", "Az Alzette-völgy része"],
+      ro: ["Restaurare după anul 1990", "Prezența broaștei de copac", "Zonă tampon contra inundațiilor", "Situat în lunca râului Alzette"],
+      en: ["Restoration post-1990", "European tree frog habitat", "Flood protection buffer zone", "Part of the Alzette valley"],
+    },
   },
   {
     id: "luxembourg-bissen-grousswiss-life-v2",
@@ -1681,6 +2130,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located in the Attert valley", "Largest reed beds in central LUX", "Presence of Water Rail", "Important resting area"],
     },
     imageHint: "Grousswiss nature reserve bird habitat",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Grousswiss im Attert-Tal schützt eine der letzten großen Feuchtwiesenzonen Luxemburgs. Es ist ein bedeutendes Refugium für bedrohte Wiesenbrüter.",
+      hu: "A Bissen melletti Grousswiss mocsárrétjei Luxemburg egyik legfontosabb vizes élőhelyét alkotják. A terület kulcsfontosságú a nagy póling és más ritka madárfajok számára.",
+      ro: "Rezervația naturală Grousswiss din valea Attert conservă zone umede rare în Luxemburg. Este un habitat vital pentru păsările care cuibăresc în pajiști, precum culicul mare.",
+      en: "The Grousswiss nature reserve in the Attert valley protects critical wetland ecosystems. It serves as a primary nesting site for the endangered Eurasian curlew in the region.",
+    },
+    factsAdvanced: {
+      de: ["Lage im Attert-Tal", "Fläche von ca. 130 Hektar", "Schutz des Großen Brachvogels", "Seit 1990 unter Naturschutz", "Ausgedehnte Feuchtwiesen", "Teil des Natura 2000 Netzwerks"],
+      hu: ["130 hektáros kiterjedés", "Attert folyó völgyében fekszik", "Nagy póling fészkelőhelye", "1990-es védetté nyilvánítás", "Jelentős mocsárréti ökoszisztéma", "Közép-luxemburgi elhelyezkedés"],
+      ro: ["Suprafață de 130 hectare", "Situată în valea râului Attert", "Habitat pentru Numenius arquata", "Protejată legal din anul 1990", "Sistem complex de pajiști umede", "Inclusă în rețeaua Natura 2000"],
+      en: ["Covers roughly 130 hectares", "Located in the Attert river valley", "Key Eurasian curlew nesting area", "Designated protected area in 1990", "Preserves rare wetland habitats", "Part of the national bird reserve"],
+    },
   },
   {
     id: "luxembourg-diekirch-haardt-forest-life-v2",
@@ -1701,6 +2162,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Located near Diekirch", "Limestone beech forest habitat", "Presence of Helleborines", "Historic forest pasture"],
     },
     imageHint: "Haardt forest Diekirch trees",
+    descriptionAdvanced: {
+      de: "Das Haardt-Waldreservat bei Diekirch ist ein 120 Hektar großes Naturschutzgebiet, das 1995 eingerichtet wurde. Es liegt auf einer Höhe von 300-400 Metern und besteht aus einem alten Buchenwald mit Eichen und Hainbuchen. Das Reservat ist bekannt für seine reiche Vogelwelt, darunter Schwarzspecht und Habicht. Es gibt mehrere markierte Wanderwege. Das Gebiet ist Teil des Naturparks Our. Die Haardt ist ein wichtiges Refugium für seltene Pflanzen wie den Gelben Enzian.",
+      hu: "A diekirchi Haardt erdei rezervátum egy 120 hektáros természetvédelmi terület, amelyet 1995-ben hoztak létre. 300-400 méter tengerszint feletti magasságban fekszik, és idős bükkösből áll tölgyekkel és gyertyánokkal. A rezervátum gazdag madárvilágáról ismert, többek között fekete harkály és héja. Több jelölt túraútvonal vezet rajta keresztül. A terület az Our Natúrpark része. A Haardt ritka növények, mint a sárga tárnics fontos menedékhelye.",
+      ro: "Rezervația forestieră Haardt lângă Diekirch este o arie protejată de 120 de hectare, înființată în 1995. Este situată la o altitudine de 300-400 de metri și constă dintr-o pădure bătrână de fag cu stejari și carpeni. Rezervația este cunoscută pentru avifauna bogată, inclusiv ciocănitoarea neagră și uliul păsărar. Există mai multe trasee marcate de drumeție. Zona face parte din Parcul Natural Our. Haardt este un refugiu important pentru specii rare de plante, cum ar fi gențiana galbenă.",
+      en: "The Haardt Forest Reserve near Diekirch is a 120-hectare protected area established in 1995. It is located at an altitude of 300-400 meters and consists of an old beech forest with oaks and hornbeams. The reserve is known for its rich birdlife, including black woodpecker and goshawk. There are several marked hiking trails. The area is part of the Our Nature Park. Haardt is an important refuge for rare plants such as the yellow gentian.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 120 ha", "Eingerichtet 1995", "Höhenlage: 300-400 m", "Baumarten: Buche, Eiche, Hainbuche", "Vogelarten: Schwarzspecht, Habicht", "Teil des Naturparks Our"],
+      hu: ["Terület: 120 ha", "Létrehozva 1995-ben", "Tengerszint feletti magasság: 300-400 m", "Fafajok: bükk, tölgy, gyertyán", "Madárfajok: fekete harkály, héja", "Az Our Natúrpark része"],
+      ro: ["Suprafață: 120 ha", "Înființată în 1995", "Altitudine: 300-400 m", "Specii de arbori: fag, stejar, carpen", "Specii de păsări: ciocănitoare neagră, uliu păsărar", "Parte a Parcului Natural Our"],
+      en: ["Area: 120 ha", "Established 1995", "Altitude: 300-400 m", "Tree species: beech, oak, hornbeam", "Bird species: black woodpecker, goshawk", "Part of Our Nature Park"],
+    },
   },
   {
     id: "luxembourg-erpeldingen-saueruecht-life-v2",
@@ -1721,6 +2194,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Erpeldange-sur-Sûre municipality", "Steep slate slopes", "Presence of Hart's-tongue fern", "Center for natural forest studies"],
     },
     imageHint: "Saueruecht forest Erpeldange slate rocks",
+    descriptionAdvanced: {
+      de: "Das Saueruecht-Waldreservat in Erpeldange ist ein 85 Hektar großes Naturschutzgebiet entlang der Sauer. Es wurde 1998 ausgewiesen, um Auenwälder und Feuchtgebiete zu schützen. Das Reservat beherbergt seltene Tierarten wie den Eisvogel und den Biber. Die Saueruecht ist ein wichtiger Rastplatz für Zugvögel. Es gibt einen Naturlehrpfad und Beobachtungstürme. Das Gebiet ist Teil des Natura-2000-Netzwerks. Die Vegetation umfasst Eschen, Erlen und Weiden.",
+      hu: "Az erpeldange-i Saueruecht erdei rezervátum egy 85 hektáros természetvédelmi terület a Sauer folyó mentén. 1998-ban jelölték ki az ártéri erdők és vizes élőhelyek védelmére. A rezervátum ritka állatfajoknak ad otthont, mint a jégmadár és a hód. A Saueruecht fontos pihenőhely a vonuló madarak számára. Természeti tanösvény és megfigyelő tornyok várják a látogatókat. A terület a Natura 2000 hálózat része. A növényzet kőrisből, égerből és fűzből áll.",
+      ro: "Rezervația forestieră Saueruecht din Erpeldange este o arie protejată de 85 de hectare de-a lungul râului Sauer. A fost desemnată în 1998 pentru a proteja pădurile de luncă și zonele umede. Rezervația găzduiește specii rare de animale, cum ar fi pescărușul albastru și castorul. Saueruecht este un loc important de odihnă pentru păsările migratoare. Există un traseu didactic și turnuri de observație. Zona face parte din rețeaua Natura 2000. Vegetația include frasin, arin și salcie.",
+      en: "The Saueruecht forest reserve in Erpeldange is an 85-hectare protected area along the Sauer River. It was designated in 1998 to protect riparian forests and wetlands. The reserve hosts rare animal species such as the kingfisher and the beaver. Saueruecht is an important stopover for migratory birds. There is a nature trail and observation towers. The area is part of the Natura 2000 network. Vegetation includes ash, alder, and willow.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 85 ha", "Ausgewiesen 1998", "Lage: entlang der Sauer", "Tierarten: Eisvogel, Biber", "Natura-2000-Gebiet", "Vegetation: Esche, Erle, Weide"],
+      hu: ["Terület: 85 ha", "Kijelölve 1998-ban", "Elhelyezkedés: a Sauer mentén", "Állatfajok: jégmadár, hód", "Natura 2000 terület", "Növényzet: kőris, éger, fűz"],
+      ro: ["Suprafață: 85 ha", "Desemnată în 1998", "Amplasare: de-a lungul râului Sauer", "Specii animale: pescăruș albastru, castor", "Sit Natura 2000", "Vegetație: frasin, arin, salcie"],
+      en: ["Area: 85 ha", "Designated 1998", "Location: along the Sauer River", "Animal species: kingfisher, beaver", "Natura 2000 site", "Vegetation: ash, alder, willow"],
+    },
   },
   {
     id: "luxembourg-schengen-stromberg-nature-life-v2",
@@ -1741,6 +2226,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Triple border LUX-DE-FR", "Calcareous dry grassland biotopes", "Presence of rare Ophrys species", "Trail on viticulture and nature"],
     },
     imageHint: "Stromberg nature reserve Schengen flora",
+    descriptionAdvanced: {
+      de: "Der Stromberg bei Schengen bietet steile Kalkfelsen und Buchenwälder. Von hier blickt man weit über das Dreiländereck von Luxemburg, Frankreich und Deutschland in das Moseltal.",
+      hu: "A schengeni Stromberg-hegy a Muschelkalk rétegeire épülő bükkerdőiről és szikláiról nevezetes. A terület a Mosel-völgy egyik legszebb kilátópontja a francia-német határ mentén.",
+      ro: "Rezervația Stromberg de lângă Schengen impresionează prin pădurile de fag și formațiunile calcaroase. Oferă o panoramă spectaculoasă asupra văii Moselei și a graniței triple.",
+      en: "Stromberg towers over Schengen, featuring diverse flora on limestone substrate. Its ridges provide panoramic views of the Moselle river and the borders of three neighboring nations.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Höhe von 314 Metern", "Boden aus Muschelkalk", "Lage am Dreiländereck", "Vorkommen seltener Orchideen", "Gebiet Schengen-Hammelsberg", "Großherzogliche Verordnung 1994"],
+      hu: ["314 méteres tengerszint feletti magasság", "Kagylós mészkő alapkőzet", "Luxemburg-Franciaország-Németország határa", "Ritka orchideafajok élőhelye", "Schengen-Hammelsberg része", "Védett státusz 1994 óta"],
+      ro: ["Altitudine maximă de 314 metri", "Substrat geologic de calcar", "Punct de frontieră triplă (LU-FR-DE)", "Floră bogată în specii de orhidee", "Zona protejată Schengen-Hammelsberg", "Statut de rezervație din 1994"],
+      en: ["Elevation of 314 meters", "Muschelkalk limestone geology", "Triple border point location", "Rich biodiversity of orchids", "Schengen-Hammelsberg area", "Legally established in 1994"],
+    },
   },
   {
     id: "luxembourg-remich-hopelslay-nature-life-v2",
@@ -1761,6 +2258,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near the 'Pearl of the Moselle'", "Shell limestone formations", "Habitat for the smooth snake", "Rich in wild bee species"],
     },
     imageHint: "Hopelslay nature reserve Remich rocks",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Hopelslay bei Remich besticht durch sonnige Halbtrockenrasen und Kalkfelsen, die einen idealen Lebensraum für seltene Orchideenarten an der Mosel bieten.",
+      hu: "A Remich feletti Hopelslay természetvédelmi terület mészkőszikláiról és száraz gyepeiről ismert, ahol számos ritka kosborféle virágzik a Moselle-völgy napsütötte lankáin.",
+      ro: "Rezervația naturală Hopelslay de lângă Remich protejează pajiști calcaroase uscate și stânci abrupte, fiind renumită pentru diversitatea orhideelor sălbatice de pe malul Moselei.",
+      en: "The Hopelslay nature reserve near Remich features sunny limestone grasslands and steep cliffs, hosting a remarkable variety of orchids overlooking the Moselle valley.",
+    },
+    factsAdvanced: {
+      de: ["Über 20 Orchideenarten", "Südexponierte Kalkfelsen", "Trockenrasen-Biotop", "Blick auf das Moseltal"],
+      hu: ["Több mint 20 orchideafaj", "Déli fekvésű mészkősziklák", "Száraz gyepes ökoszisztéma", "Kilátás a Moselle-völgyre"],
+      ro: ["Peste 20 specii de orhidee", "Stânci calcaroase sudice", "Habitat de pajiște uscată", "Vedere spre valea Moselei"],
+      en: ["Over 20 orchid species", "South-facing limestone cliffs", "Dry grassland ecosystem", "View of the Moselle valley"],
+    },
   },
   {
     id: "luxembourg-wellenstein-scheierbierg-nature-life-v2",
@@ -1781,6 +2290,18 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Schengen municipality", "Significant orchid flora", "Sunny limestone slopes", "Protection of wild bees"],
     },
     imageHint: "Scheierbierg nature reserve flowers vineyards",
+    descriptionAdvanced: {
+      de: "Das Schutzgebiet Scheierbierg oberhalb von Wellenstein bewahrt wertvolle Halbtrockenrasen. Die sonnenexponierten Hänge sind berühmt für ihren Reichtum an wilden Orchideenarten.",
+      hu: "A Wellenstein feletti Scheierbierg a száraz gyepek világát őrzi. A déli lejtőkön számos ritka orchideafaj talál menedéket a Mosel-menti szőlőültetvények közvetlen szomszédságában.",
+      ro: "Rezervația Scheierbierg din Wellenstein protejează pajiștile aride și biodiversitatea asociată acestora. Este recunoscută pentru microclimatul cald ce favorizează orhideele sălbatice.",
+      en: "The Scheierbierg reserve near Wellenstein is characterized by dry grasslands on limestone. It is a premier location for spotting wild orchids within a traditional vineyard landscape.",
+    },
+    factsAdvanced: {
+      de: ["Gemeinde Wellenstein", "Fokus auf Halbtrockenrasen", "Kalkhaltiger Verwitterungsboden", "Schutzstatus seit 1994", "Südexponierte Hanglage", "Präsenz der Bocks-Riemenzunge"],
+      hu: ["Wellenstein község területén", "Száraz gyepek ökoszisztémája", "Meszes kőzetmálladék talaj", "Védetté nyilvánítva 1994-ben", "Déli tájolású napos lejtők", "Adriai sallangvirág előfordulása"],
+      ro: ["Situată în comuna Wellenstein", "Protejează pajiști xerofile", "Sol format pe calcar", "Desemnată rezervație în 1994", "Expunere solară sudică", "Prezența speciei Himantoglossum"],
+      en: ["Located in Wellenstein municipality", "Focus on dry grassland conservation", "Calcareous soil composition", "Protected since 1994", "Steep south-facing slopes", "Lizard orchid population site"],
+    },
   },
   {
     id: "luxembourg-bech-kleinmacher-jongenbesch-life-v2",
@@ -1801,5 +2322,17 @@ image: "/poi-images/luxembourg-conzefenn-life-v2.webp"
       en: ["Near Bech-Kleinmacher", "Calcareous forest soil", "Habitat for Middle Spotted Woodpeckers", "Near-natural management"],
     },
     imageHint: "Jongenbësch forest deciduous trees",
+    descriptionAdvanced: {
+      de: "Der Jongenbësch bei Bech-Kleinmacher ist ein 60 Hektar großes Waldgebiet, das als Naturreservat geschützt ist. Es liegt in der Moselregion und ist bekannt für seine artenreiche Flora und Fauna. Der Wald besteht hauptsächlich aus Eichen und Hainbuchen. Im Frühling blühen hier seltene Orchideen. Das Reservat ist ein wichtiger Lebensraum für den Mittelspecht und den Pirol. Es gibt einen Rundwanderweg mit Informationstafeln. Der Jongenbësch ist Teil des Grünen Bands der Mosel.",
+      hu: "A bech-kleinmacheri Jongenbësch egy 60 hektáros erdős terület, amely természetvédelmi rezervátumként védett. A Mosel régióban fekszik, gazdag növény- és állatvilággal. Az erdő főleg tölgyből és gyertyánból áll. Tavasszal ritka orchideák virágoznak itt. A rezervátum fontos élőhely a közép fakopáncs és a sárgarigó számára. Körkörös túraútvonal információs táblákkal. A Jongenbësch a Mosel Zöld Szalagjának része.",
+      ro: "Pădurea Jongenbësch de lângă Bech-Kleinmacher este o zonă forestieră de 60 de hectare protejată ca rezervație naturală. Este situată în regiunea Mosellei și este cunoscută pentru flora și fauna diversă. Pădurea este compusă în principal din stejari și carpeni. Primăvara, aici înfloresc orhidei rare. Rezervația este un habitat important pentru ciocănitoarea mijlocie și grangurul. Există un traseu circular cu panouri informative. Jongenbësch face parte din Centura Verde a Mosellei.",
+      en: "The Jongenbësch near Bech-Kleinmacher is a 60-hectare forest area protected as a nature reserve. It lies in the Moselle region and is known for its diverse flora and fauna. The forest consists mainly of oaks and hornbeams. In spring, rare orchids bloom here. The reserve is an important habitat for the middle spotted woodpecker and the golden oriole. There is a circular hiking trail with information boards. Jongenbësch is part of the Green Belt of the Moselle.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 60 ha", "Schutzstatus: Naturreservat", "Lage: Moselregion", "Baumarten: Eiche, Hainbuche", "Orchideenarten: mehrere seltene", "Vogelarten: Mittelspecht, Pirol"],
+      hu: ["Terület: 60 ha", "Védettség: természetvédelmi rezervátum", "Elhelyezkedés: Mosel régió", "Fafajok: tölgy, gyertyán", "Orchideák: több ritka faj", "Madárfajok: közép fakopáncs, sárgarigó"],
+      ro: ["Suprafață: 60 ha", "Statut: rezervație naturală", "Amplasare: regiunea Mosellei", "Specii de arbori: stejar, carpen", "Orhidei: specii rare multiple", "Specii de păsări: ciocănitoare mijlocie, grangur"],
+      en: ["Area: 60 ha", "Status: nature reserve", "Location: Moselle region", "Tree species: oak, hornbeam", "Orchids: several rare species", "Bird species: middle spotted woodpecker, golden oriole"],
+    },
   }
 ];

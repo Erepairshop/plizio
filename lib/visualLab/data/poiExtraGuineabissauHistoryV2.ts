@@ -11,9 +11,8 @@ export const poiExtraGuineabissauHistoryV2: POI[] = [
       de: "Fortaleza de São José da Amura",
       hu: "Fortaleza de São José da Amura",
       ro: "Fortaleza de São José da Amura",
-      en: "Fortaleza de São José da Amura",
-image: "/poi-images/fortaleza-amura-history-v2.webp"
-},
+      en: "Fortaleza de São José da Amura"},
+    image: "/poi-images/fortaleza-amura-history-v2.webp",
     description: {
       de: "Eine historische Festung im Zentrum von Bissau, die im 17. Jahrhundert von den Portugiesen erbaut wurde. Sie beherbergt das Mausoleum von Amílcar Cabral und ist ein Symbol für den Kampf um die Unabhängigkeit.",
       hu: "Bissau központjában található történelmi erőd, amelyet a portugálok építettek a 17. században. Itt található Amílcar Cabral mauzóleuma, és a függetlenségi harc egyik jelképe.",
@@ -63,9 +62,8 @@ image: "/poi-images/fortaleza-amura-history-v2.webp"
       de: "Pidjiguiti-Mahnmal",
       hu: "Pidjiguiti-emlékmű",
       ro: "Memorialul Pidjiguiti",
-      en: "Pidjiguiti Memorial",
-image: "/poi-images/memorial-pidjiguiti-history-v2.webp"
-},
+      en: "Pidjiguiti Memorial"},
+    image: "/poi-images/memorial-pidjiguiti-history-v2.webp",
     description: {
       de: "Dieses Denkmal erinnert an das Massaker von Pidjiguiti im Jahr 1959, bei dem streikende Hafenarbeiter von der portugiesischen Polizei getötet wurden. Es gilt als Wendepunkt im Kampf für die Freiheit.",
       hu: "Ez az emlékmű az 1959-es pidjiguiti mészárlásra emlékeztet, amikor a sztrájkoló kikötői munkásokat a portugál rendőrség megölte. Ez volt a szabadságharc egyik döntő fordulata.",
@@ -115,9 +113,8 @@ image: "/poi-images/memorial-pidjiguiti-history-v2.webp"
       de: "Denkmal der Nationalhelden",
       hu: "A haza hőseinek emlékműve",
       ro: "Monumentul Eroilor Patriei",
-      en: "Heroes of the Fatherland Monument",
-image: "/poi-images/herois-patria-history-v2.webp"
-},
+      en: "Heroes of the Fatherland Monument"},
+    image: "/poi-images/herois-patria-history-v2.webp",
     description: {
       de: "Ein monumentaler Platz und Denkmal in Bissau, das den Kämpfern gewidmet ist, die ihr Leben für die Unabhängigkeit Guinea-Bissaus gegeben haben. Es ist ein zentraler Ort für nationale Gedenkfeiern.",
       hu: "Monumentális tér és emlékmű Bissauban, amelyet azoknak a harcosoknak szenteltek, akik életüket adták Bissau-Guinea függetlenségéért. Nemzeti megemlékezések központi helyszíne.",
@@ -167,9 +164,8 @@ image: "/poi-images/herois-patria-history-v2.webp"
       de: "Kathedrale von Bissau",
       hu: "Bissaui székesegyház",
       ro: "Catedrala din Bissau",
-      en: "Bissau Cathedral",
-image: "/poi-images/bissau-cathedral-history-v2.webp"
-},
+      en: "Bissau Cathedral"},
+    image: "/poi-images/bissau-cathedral-history-v2.webp",
     description: {
       de: "Die Kathedrale Sé Catedral de Nossa Senhora da Candelária ist ein markantes religiöses Bauwerk in Bissau. Erbaut während der Kolonialzeit, zeigt sie einen neoromanischen Stil mit modernistischen Einflüssen.",
       hu: "A Sé Catedral de Nossa Senhora da Candelária Bissau egyik legjelentősebb vallási épülete. A gyarmati időkben épült, neoromán stílust mutat modernista hatásokkal.",
@@ -219,9 +215,8 @@ image: "/poi-images/bissau-cathedral-history-v2.webp"
       de: "Fort von Cacheu",
       hu: "Cacheu-erőd",
       ro: "Fortul Cacheu",
-      en: "Fort of Cacheu",
-image: "/poi-images/cacheu-fort-history-v2.webp"
-},
+      en: "Fort of Cacheu"},
+    image: "/poi-images/cacheu-fort-history-v2.webp",
     description: {
       de: "Das Fort von Cacheu ist eines der ältesten europäischen Bauwerke in Westafrika. Es wurde im 16. Jahrhundert von den Portugiesen errichtet und diente als wichtiger Stützpunkt für den transatlantischen Sklavenhandel.",
       hu: "A Cacheu-erőd Nyugat-Afrika egyik legrégebbi európai építménye. A 16. században építették a portugálok, és a transzatlanti rabszolga-kereskedelem egyik fontos támaszpontjaként szolgált.",
@@ -271,9 +266,8 @@ image: "/poi-images/cacheu-fort-history-v2.webp"
       de: "Geburtshaus von Amílcar Cabral",
       hu: "Amílcar Cabral szülőháza",
       ro: "Casa natală a lui Amílcar Cabral",
-      en: "Amílcar Cabral Birthplace",
-image: "/poi-images/amilcar-cabral-house-history-v2.webp"
-},
+      en: "Amílcar Cabral Birthplace"},
+    image: "/poi-images/amilcar-cabral-house-history-v2.webp",
     description: {
       de: "In diesem bescheidenen Haus in Bafatá wurde 1924 Amílcar Cabral geboren, der charismatische Führer des Unabhängigkeitskampfes Guinea-Bissaus und Kap Verdes. Es dient heute als Museum für sein Leben.",
       hu: "Ebben a szerény bafatá-i házban született 1924-ben Amílcar Cabral, Bissau-Guinea és a Zöld-foki Köztársaság függetlenségi harcának karizmatikus vezetője. Ma az életét bemutató múzeumként működik.",
@@ -324,9 +318,8 @@ image: "/poi-images/amilcar-cabral-house-history-v2.webp"
       de: "Ruinen des Gouverneurspalastes",
       hu: "A kormányzói palota romjai",
       ro: "Ruinele Palatului Guvernatorului",
-      en: "Governor's Palace Ruins",
-image: "/poi-images/bolama-governor-palace-history-v2.webp"
-},
+      en: "Governor's Palace Ruins"},
+    image: "/poi-images/bolama-governor-palace-history-v2.webp",
     description: {
       de: "Die beeindruckenden Ruinen des ehemaligen portugiesischen Gouverneurspalastes auf der Insel Bolama zeugen von der Zeit, als die Stadt die Hauptstadt der Kolonie war. Die neoklassizistische Architektur ist heute von Natur überwachsen.",
       hu: "A Bolama-szigeten található egykori portugál kormányzói palota lenyűgöző romjai tanúskodnak arról az időről, amikor a város a gyarmat fővárosa volt. A neoklasszicista építészetet mára visszahódította a természet.",
@@ -377,9 +370,8 @@ image: "/poi-images/bolama-governor-palace-history-v2.webp"
       de: "Unabhängigkeitsstätte von Madina do Boé",
       hu: "Madina do Boé függetlenségi emlékhely",
       ro: "Locul independenței din Madina do Boé",
-      en: "Independence Site of Madina do Boé",
-image: "/poi-images/madina-boe-site-history-v2.webp"
-},
+      en: "Independence Site of Madina do Boé"},
+    image: "/poi-images/madina-boe-site-history-v2.webp",
     description: {
       de: "An diesem abgelegenen Ort im Südosten Guinea-Bissaus wurde am 24. September 1973 einseitig die Unabhängigkeit von Portugal ausgerufen. Es ist der Geburtsort des modernen Staates.",
       hu: "Ezen a távoli délkelet-guineai helyszínen kiáltották ki egyoldalúan a Portugáliától való függetlenséget 1973. szeptember 24-én. Ez a modern állam születési helye.",
@@ -435,9 +427,8 @@ image: "/poi-images/madina-boe-site-history-v2.webp"
       de: "Militärmuseum von Guiledje",
       hu: "Guiledje-i hadtörténeti múzeum",
       ro: "Muzeul Militar din Guiledje",
-      en: "Guiledje Military Museum",
-image: "/poi-images/guiledje-military-museum-history-v2.webp"
-},
+      en: "Guiledje Military Museum"},
+    image: "/poi-images/guiledje-military-museum-history-v2.webp",
     description: {
       de: "Guiledje war ein wichtiger strategischer Militärstützpunkt während des Befreiungskrieges. Heute beherbergt es ein Museum, das Kriegsgerät und Dokumente aus dem Kampf gegen die Kolonialmacht zeigt.",
       hu: "Guiledje fontos stratégiai katonai támaszpont volt a felszabadító háború idején. Ma múzeumnak ad otthont, amely a gyarmati hatalom elleni harc haditechnikai eszközeit és dokumentumait mutatja be.",
@@ -488,9 +479,8 @@ image: "/poi-images/guiledje-military-museum-history-v2.webp"
       de: "Historisches Zentrum von Cacheu",
       hu: "Cacheu történelmi központja",
       ro: "Centrul istoric din Cacheu",
-      en: "Historic Center of Cacheu",
-image: "/poi-images/cacheu-historic-center-history-v2.webp"
-},
+      en: "Historic Center of Cacheu"},
+    image: "/poi-images/cacheu-historic-center-history-v2.webp",
     description: {
       de: "Das historische Zentrum von Cacheu umfasst koloniale Verwaltungsgebäude und Kirchen aus der portugiesischen Zeit. Es ist ein Ort von tiefer historischer Bedeutung für das Verständnis des frühen Kontakts zwischen Europa und Afrika.",
       hu: "Cacheu történelmi központja gyarmati közigazgatási épületeket és templomokat foglal magában a portugál korszakból. Mély történelmi jelentőségű hely az Európa és Afrika közötti korai érintkezés megértéséhez.",
@@ -541,9 +531,8 @@ image: "/poi-images/cacheu-historic-center-history-v2.webp"
       de: "Ruinen von Kansalá",
       hu: "Kansalá romjai",
       ro: "Ruinele din Kansalá",
-      en: "Ruins of Kansalá",
-image: "/poi-images/kansala-ruins-history-v2.webp"
-},
+      en: "Ruins of Kansalá"},
+    image: "/poi-images/kansala-ruins-history-v2.webp",
     description: {
       de: "Kansalá war die befestigte Hauptstadt des Kaabu-Reiches, eines mächtigen Mandinka-Staates, der weite Teile der Region beherrschte. Die Stadt wurde 1867 nach einer epischen Belagerung zerstört.",
       hu: "Kansalá a Kaabu Birodalom megerősített fővárosa volt, egy hatalmas mandinka államé, amely a régió nagy részét uralta. A várost 1867-ben rombolták le egy epikus ostrom után.",
@@ -594,9 +583,8 @@ image: "/poi-images/kansala-ruins-history-v2.webp"
       de: "Porto Gole",
       hu: "Porto Gole",
       ro: "Porto Gole",
-      en: "Porto Gole",
-image: "/poi-images/porto-gole-history-v2.webp"
-},
+      en: "Porto Gole"},
+    image: "/poi-images/porto-gole-history-v2.webp",
     description: {
       de: "Ein historischer Flusshafen am Rio Geba, der einst ein wichtiger Umschlagplatz für den Handel mit dem Landesinneren war. Die verbliebenen Strukturen spiegeln die wirtschaftliche Geschichte der Region wider.",
       hu: "Történelmi folyami kikötő a Geba-folyón, amely egykor a belső területekkel való kereskedelem fontos központja volt. A megmaradt építmények a régió gazdaságtörténetét tükrözik.",
@@ -647,9 +635,8 @@ image: "/poi-images/porto-gole-history-v2.webp"
       de: "Alter Hafen von Bissau",
       hu: "Bissaui régi kikötő",
       ro: "Portul Vechi din Bissau",
-      en: "Old Port of Bissau",
-image: "/poi-images/bissau-old-port-history-v2.webp"
-},
+      en: "Old Port of Bissau"},
+    image: "/poi-images/bissau-old-port-history-v2.webp",
     description: {
       de: "Der alte Hafen (Porto de Bissau) ist das historische Tor zur Stadt und zum Land. Er war Zeuge zahlreicher historischer Ereignisse, vom Sklavenhandel bis zur Ankunft der Befreiungskräfte.",
       hu: "A régi kikötő (Porto de Bissau) a város és az ország történelmi kapuja. Számos történelmi esemény tanúja volt, a rabszolga-kereskedelemtől kezdve a felszabadító erők megérkezéséig.",
@@ -700,9 +687,8 @@ image: "/poi-images/bissau-old-port-history-v2.webp"
       de: "Katholische Mission von Mansôa",
       hu: "Mansôa-i katolikus misszió",
       ro: "Misiunea Catolică din Mansôa",
-      en: "Mansôa Catholic Mission",
-image: "/poi-images/mansoa-mission-history-v2.webp"
-},
+      en: "Mansôa Catholic Mission"},
+    image: "/poi-images/mansoa-mission-history-v2.webp",
     description: {
       de: "Die katholische Mission in Mansôa ist eine der ältesten Bildungseinrichtungen der Region. Die Gebäude im Kolonialstil dienten lange Zeit als spirituelles und kulturelles Zentrum für die umliegende Bevölkerung.",
       hu: "A mansôa-i katolikus misszió a régió egyik legrégebbi oktatási intézménye. A gyarmati stílusú épületek hosszú ideig spirituális és kulturális központként szolgáltak a környező lakosság számára.",
@@ -753,9 +739,8 @@ image: "/poi-images/mansoa-mission-history-v2.webp"
       de: "Historische Stätte von Canchungo",
       hu: "Canchungo történelmi helyszíne",
       ro: "Sit istoric Canchungo",
-      en: "Canchungo Historic Site",
-image: "/poi-images/canchungo-historic-site-history-v2.webp"
-},
+      en: "Canchungo Historic Site"},
+    image: "/poi-images/canchungo-historic-site-history-v2.webp",
     description: {
       de: "Canchungo, ehemals Vila Teixeira Pinto, hat eine reiche koloniale Vergangenheit. Die Stadt war Schauplatz wichtiger historischer Verhandlungen und bewahrt einen Teil ihres ursprünglichen städtebaulichen Charakters.",
       hu: "Canchungo, korábbi nevén Vila Teixeira Pinto, gazdag gyarmati múlttal rendelkezik. A város fontos történelmi tárgyalások helyszíne volt, és megőrizte eredeti városépítészeti jellegének egy részét.",
@@ -806,9 +791,8 @@ image: "/poi-images/canchungo-historic-site-history-v2.webp"
       de: "Kolonialviertel von Bafatá",
       hu: "Bafatá gyarmati negyede",
       ro: "Cartierul colonial din Bafatá",
-      en: "Bafatá Colonial Quarter",
-image: "/poi-images/bafata-colonial-quarter-history-v2.webp"
-},
+      en: "Bafatá Colonial Quarter"},
+    image: "/poi-images/bafata-colonial-quarter-history-v2.webp",
     description: {
       de: "Das Kolonialviertel von Bafatá ist bekannt für seine pastellfarbenen Gebäude und Kopfsteinpflasterstraßen. Es bewahrt die Atmosphäre einer portugiesischen Provinzstadt tief im Landesinneren Afrikas.",
       hu: "Bafatá gyarmati negyede pasztellszínű épületeiről és macskaköves utcáiról ismert. Megőrzi egy portugál vidéki város hangulatát Afrika belsejében.",
@@ -859,9 +843,8 @@ image: "/poi-images/bafata-colonial-quarter-history-v2.webp"
       de: "Historische Stadt Farim",
       hu: "Farim történelmi városa",
       ro: "Orașul istoric Farim",
-      en: "Farim Historic Town",
-image: "/poi-images/farim-historic-town-history-v2.webp"
-},
+      en: "Farim Historic Town"},
+    image: "/poi-images/farim-historic-town-history-v2.webp",
     description: {
       de: "Farim wurde im 17. Jahrhundert als portugiesischer Posten gegründet, um den Handel gegen Überfälle zu sichern. Die Stadt am Rio Cacheu hat eine lange Geschichte als Zentrum für Austausch und Verwaltung.",
       hu: "Farimot a 17. században alapították portugál őrhelyként a kereskedelem biztosítására. A Cacheu-folyó partján fekvő város hosszú múltra tekint vissza a cserekereskedelem és a közigazgatás központjaként.",
@@ -912,9 +895,8 @@ image: "/poi-images/farim-historic-town-history-v2.webp"
       de: "Kolonialruinen von Fulacunda",
       hu: "Fulacunda gyarmati romjai",
       ro: "Ruinele coloniale din Fulacunda",
-      en: "Fulacunda Colonial Ruins",
-image: "/poi-images/fulacunda-ruins-history-v2.webp"
-},
+      en: "Fulacunda Colonial Ruins"},
+    image: "/poi-images/fulacunda-ruins-history-v2.webp",
     description: {
       de: "Fulacunda im Süden des Landes beherbergt Überreste kolonialer Infrastruktur, die einst Teil eines Netzwerks von Verwaltungs- und Handelsposten waren. Die Ruinen erzählen von der Geschichte der Durchdringung des Hinterlandes.",
       hu: "Az ország déli részén található Fulacunda gyarmati infrastruktúra maradványait őrzi, amelyek egykor a közigazgatási és kereskedelmi állomások hálózatának részei voltak. A romok a hátország meghódításának történetéről mesélnek.",
@@ -965,9 +947,8 @@ image: "/poi-images/fulacunda-ruins-history-v2.webp"
       de: "Historischer Hafen von Buba",
       hu: "Buba történelmi kikötője",
       ro: "Portul istoric Buba",
-      en: "Buba Historic Port",
-image: "/poi-images/buba-historic-port-history-v2.webp"
-},
+      en: "Buba Historic Port"},
+    image: "/poi-images/buba-historic-port-history-v2.webp",
     description: {
       de: "Buba liegt am Ende des Rio Grande de Buba und war historisch ein strategischer Hafen für den Export von Waren aus dem Südosten. Die verfallenen Kais und Gebäude zeugen von der einstigen maritimen Bedeutung.",
       hu: "Buba a Rio Grande de Buba végén található, és történelmileg stratégiai kikötő volt a délkeleti áruk exportjához. A pusztuló rakpartok és épületek az egykori tengeri jelentőségről tanúskodnak.",
@@ -1018,9 +999,8 @@ image: "/poi-images/buba-historic-port-history-v2.webp"
       de: "Historisches Zentrum von Catió",
       hu: "Catió történelmi központja",
       ro: "Centrul istoric din Catió",
-      en: "Catió Historical Center",
-image: "/poi-images/catio-historical-center-history-v2.webp"
-},
+      en: "Catió Historical Center"},
+    image: "/poi-images/catio-historical-center-history-v2.webp",
     description: {
       de: "Catió im tiefen Süden ist ein Ort mit markanter Kolonialarchitektur, die an die Zeit erinnert, als die Stadt ein Zentrum für die Reisproduktion war. Die historischen Gebäude bilden das Herz der Stadt.",
       hu: "A mélyen délen fekvő Catió jellegzetes gyarmati építészetével arra az időre emlékeztet, amikor a város a rizstermelés központja volt. A történelmi épületek alkotják a város szívét.",

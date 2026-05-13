@@ -623,67 +623,6 @@ export const croatiaAllPoi = [
     image: "/geo-images/croatia/city-rijeka.webp"
   },
   {
-    id: "cult-diocletian",
-    type: "landmark",
-    parent: "hr-country",
-    coords: [16.4402, 43.5081],
-    name: {
-      de: "Diokletianpalast",
-      hu: "Diocletianus-palota",
-      ro: "Palatul lui Dioclețian",
-      en: "Diocletian's Palace"
-    },
-    description: {
-      de: "UNESCO-Komplex aus der Zeit um 305 n. Chr. in Split.",
-      hu: "UNESCO-komplexum Splitben, amely kb. 305-ben épült.",
-      ro: "Complex UNESCO din Split, datat în jurul anului 305 d.Hr.",
-      en: "UNESCO complex in Split dating to around AD 305."
-    },
-    descriptionAdvanced: {
-      de: "Der Diokletianpalast ist kein einzelnes Gebäude, sondern der lebendige Kern der Altstadt von Split. Erbaut im 4. Jahrhundert als Altersruhesitz für den römischen Kaiser Diokletian, ist er eines der am besten erhaltenen Denkmäler römischer Baukunst weltweit. Der Komplex vereinte die Funktion einer Luxusvilla mit der eines römischen Militärlagers. Die vier Tore – das Goldene, das Silberne, das Eiserne und das Bronzene Tor – führten ins Innere. Das Peristyl, der zentrale offene Hof, war der zeremonielle Eingang zu den kaiserlichen Gemächern und ist heute eine beeindruckende Bühne für Veranstaltungen. Die Kathedrale des Heiligen Domnius, ursprünglich das Mausoleum Diokletians, und der Jupitertempel zeugen von der wechselvollen Geschichte. Die unterirdischen Gewölbe (Podrumi) sind ein riesiges, gut erhaltenes System von Hallen, das heute für Ausstellungen genutzt wird.",
-      hu: "A Diocletianus-palota nem egyetlen épület, hanem Split óvárosának élő magja. A 4. században épült Diocletianus római császár nyughelyeként, és a világ egyik legjobb állapotban megmaradt római építészeti emléke. A komplexum egy luxusvilla funkcióját ötvözte egy római katonai táboréval. A négy kapu – az Arany, az Ezüst, a Vas és a Bronz kapu – vezetett a belsejébe. A Peristylium, a központi nyitott udvar, a császári lakosztályok ünnepélyes bejárata volt, ma pedig lenyűgöző színpadként szolgál rendezvények számára. A Szent Domnius-katedrális, eredetileg Diocletianus mauzóleuma, és a Jupiter-templom a változatos történelem tanúi. A földalatti pincék (Podrumi) egy hatalmas, jól megőrzött csarnokrendszer, amelyet ma kiállításokra használnak.",
-      ro: "Palatul lui Dioclețian, situat în inima orașului Split, este unul dintre cele mai impunătoare și mai bine conservate monumente romane din lume. Construit la începutul secolului al IV-lea d.Hr. ca reședință de lux pentru împăratul Dioclețian, palatul combină elemente ale unei vile imperiale cu cele ale unui castru militar. Complexul este înconjurat de ziduri groase și patru porți: de Aur, de Argint, de Fier și de Bronz. Inima palatului este Peristilul, o curte monumentală care servea drept spațiu ceremonial. Aici se află și Catedrala Sf. Domnius, adaptată din fostul mausoleu al împăratului. Subsolurile palatului, sau Podrumi, sunt un vast complex de săli boltite care reflectă planul apartamentelor imperiale de deasupra și sunt astăzi folosite pentru expoziții și evenimente.",
-      en: "Diocletian's Palace is one of the most significant and best-preserved monuments of Roman architecture in the world, built by Emperor Diocletian as his retirement residence in AD 305. Located in the heart of modern-day Split, the palace is unique because it is not a sterile museum but a living, breathing part of the city where people still live and work. The massive complex combines the features of a luxurious imperial villa with those of a fortified Roman military camp (castrum). Its centerpiece is the Peristyle, a ceremonial court surrounded by granite columns, which leads to the Cathedral of St. Domnius, originally the emperor's mausoleum. The palace's underground cellars, or Podrumi, are incredibly well-preserved and provide a glimpse into the original layout of the imperial apartments above. Since 1979, this architectural marvel has been protected as a UNESCO World Heritage site, representing a seamless blend of ancient history and contemporary life."
-    },
-    facts: {
-      de: ["Kaiserlicher Palast", "UNESCO seit 1979"],
-      hu: ["Császári palota", "1979 óta UNESCO"],
-      ro: ["Palat imperial", "UNESCO din 1979"],
-      en: ["Imperial palace", "UNESCO since 1979"]
-    },
-    factsAdvanced: {
-        de: [
-            "Die Mauern des Palastes umschließen eine Fläche von etwa 31.000 Quadratmetern.",
-            "Für den Bau wurden weißer Kalkstein von der Insel Brač und Marmor aus Italien verwendet.",
-            "Zwölf Sphingen wurden aus Ägypten importiert, um den Palast zu schmücken; eine ist noch auf dem Peristyl zu sehen.",
-            "Nach dem Fall des Römischen Reiches suchten Flüchtlinge aus dem nahegelegenen Salona Schutz innerhalb der Palastmauern.",
-            "Heute leben und arbeiten rund 3.000 Menschen innerhalb der Mauern des Palastes.",
-            "Die Vestibül, ein runder Vorraum zu den kaiserlichen Gemächern, ist für seine hervorragende Akustik bekannt.",
-            "Das Bronzene Tor (Porta Aenea) war ursprünglich ein Wasserzugang direkt vom Meer aus.",
-            "Die Hauptstraßen Cardo und Decumanus kreuzen sich im Zentrum des Palastes, typisch für römische Städte."
-        ],
-        hu: [
-            "A palota falai körülbelül 31 000 négyzetméteres területet zárnak be.",
-            "Az építkezéshez a Brač-szigetről származó fehér mészkövet és Olaszországból származó márványt használtak.",
-            "Tizenkét szfinxet importáltak Egyiptomból a palota díszítésére; egy ma is látható a Peristyliumon.",
-            "A Római Birodalom bukása után a közeli Salona menekültjei a palota falain belül kerestek menedéket.",
-            "Ma körülbelül 3000 ember él és dolgozik a palota falain belül.",
-            "A Vestibulum, a császári lakosztályok kerek előcsarnoka, kiváló akusztikájáról ismert.",
-            "A Bronz kapu (Porta Aenea) eredetileg egy tengeri bejárat volt közvetlenül a tenger felől.",
-            "A Cardo és Decumanus főutcák a palota közepén keresztezik egymást, ami a római városokra jellemző."
-        ],
-        ro: ["Complexul palatului se întinde pe o suprafață de peste 30.000 de metri pătrați.", "Pentru construcția sa s-a folosit calcar alb de pe insula Brač și marmură din Grecia și Italia.", "Dioclețian a adus 12 sfincși din Egipt pentru a decora palatul; unul dintre ei, vechi de 3.500 de ani, se află încă la Peristil.", "După prăbușirea Imperiului Roman, cetățenii din apropiata Salona s-au refugiat în interiorul zidurilor palatului, transformându-l într-un oraș.", "Astăzi, peste 3.000 de oameni locuiesc în interiorul zidurilor fostului palat.", "Vestibulul, o sală circulară cu o acustică excelentă, era anticamera apartamentelor imperiale private.", "Poarta de Bronz (Porta Aenea) era poarta de acces direct dinspre mare, permițând împăratului să intre în palat direct de pe navă.", "Subsolurile palatului au servit ca locație de filmare pentru sala tronului lui Daenerys și adăpostul dragonilor din 'Game of Thrones'."],
-        en: [
-            "The palace was built using high-quality white limestone from the island of Brač and marble imported from Italy and Greece.",
-            "Emperor Diocletian imported twelve sphinxes from Egypt to decorate his palace, some of which are over 3,500 years old.",
-            "The Cathedral of St. Domnius is considered the oldest Catholic cathedral in the world that remains in its original structure.",
-            "The palace's basement halls were used as a filming location for Daenerys Targaryen's dragon throne room in Game of Thrones.",
-            "The Four Gates of the palace—Golden, Silver, Iron, and Bronze—were named according to their original military and ceremonial functions."
-        ]
-    },
-    image: "/geo-images/croatia/cult-diocletian.webp"
-  },
-  {
     id: "cult-dubrovnik-walls",
     type: "landmark",
     parent: "hr-country",

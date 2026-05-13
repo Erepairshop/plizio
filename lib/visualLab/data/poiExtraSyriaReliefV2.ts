@@ -6,9 +6,8 @@ export const poiExtraSyriaReliefV2: POI[] = [
     type: "desert",
     parent: "SY-DY",
     coords: [38.5, 33.5],
-    name: { de: "Syrische Wüste", hu: "Szíriai-sivatag", ro: "Deșertul Sirian", en: "Syrian Desert",
-image: "/poi-images/syrian-desert-relief-v2.webp"
-},
+    name: { de: "Syrische Wüste", hu: "Szíriai-sivatag", ro: "Deșertul Sirian", en: "Syrian Desert"},
+    image: "/poi-images/syrian-desert-relief-v2.webp",
     description: { de: "Die Syrische Wüste ist eine weite, trockene Steppenlandschaft, die einen großen Teil der Landesfläche bedeckt und von Beduinen bewohnt wird.", hu: "A Szíriai-sivatag egy kiterjedt, száraz sztyeppevidék, amely az ország területének nagy részét lefedi, és beduinok lakják.", ro: "Deșertul Sirian este un peisaj vast de stepă aridă care acoperă o mare parte din suprafața țării și este locuit de beduini.", en: "The Syrian Desert is a vast, arid steppe landscape that covers a large part of the country's land area and is inhabited by Bedouins." },
     facts: {
       de: ["Deckt etwa 500.000 Quadratkilometer ab", "Erstreckt sich über mehrere Länder", "Traditionelle Heimat der Beduinen"],
@@ -21,9 +20,8 @@ image: "/poi-images/syrian-desert-relief-v2.webp"
     type: "plateau",
     parent: "SY-HA",
     coords: [40.5, 36.5],
-    name: { de: "Al-Dschasira-Ebene", hu: "Dzsazíra-fennsík", ro: "Platoul Al-Jazira", en: "Al-Jazira Plateau",
-image: "/poi-images/al-jazira-plateau-relief-v2.webp"
-},
+    name: { de: "Al-Dschasira-Ebene", hu: "Dzsazíra-fennsík", ro: "Platoul Al-Jazira", en: "Al-Jazira Plateau"},
+    image: "/poi-images/al-jazira-plateau-relief-v2.webp",
     description: { de: "Die Al-Dschasira-Ebene im Nordosten Syriens ist eine wichtige landwirtschaftliche Region, die von den Flüssen Euphrat und Tigris geprägt wird.", hu: "Az északkelet-szíriai Dzsazíra-fennsík egy fontos mezőgazdasági régió, amelyet az Eufrátesz és a Tigris folyók határoznak meg.", ro: "Platoul Al-Jazira din nord-estul Siriei este o importantă regiune agricolă modelată de râurile Eufrat și Tigru.", en: "The Al-Jazira Plateau in northeastern Syria is an important agricultural region shaped by the Euphrates and Tigris rivers." },
     facts: {
       de: ["Gilt als Kornkammer Syriens", "Liegt zwischen Euphrat und Tigris", "Sehr fruchtbare Böden"],
@@ -37,272 +35,485 @@ image: "/poi-images/al-jazira-plateau-relief-v2.webp"
     type: "mountain",
     parent: "SY-HA",
     coords: [40.066667, 36.316667],
-    name: { de: "Dschebel Abd al-Aziz", hu: "Dzsebel Abd al-Aziz", ro: "Jabal Abd al-Aziz", en: "Mount Abd al-Aziz",
-image: "/poi-images/jabal-abd-al-aziz-relief-v2.webp"
-},
+    name: { de: "Dschebel Abd al-Aziz", hu: "Dzsebel Abd al-Aziz", ro: "Jabal Abd al-Aziz", en: "Mount Abd al-Aziz"},
+    image: "/poi-images/jabal-abd-al-aziz-relief-v2.webp",
     description: { de: "Der Dschebel Abd al-Aziz ist ein markanter Gebirgszug in der Al-Hasakah-Region, der als Naturschutzgebiet dient und bedrohte Tierarten schützt.", hu: "A Dzsebel Abd al-Aziz egy kiemelkedő hegylánc az Al-Haszaka régióban, amely természetvédelmi területként működik és veszélyeztetett állatfajokat véd.", ro: "Jabal Abd al-Aziz este un lanț muntos proeminent în regiunea Al-Hasakah, care servește ca rezervație naturală și protejează speciile de animale pe cale de dispariție.", en: "Mount Abd al-Aziz is a prominent mountain range in the Al-Hasakah region, serving as a nature reserve and protecting endangered animal species." },
     facts: {
       de: ["Erreicht Höhen von bis zu 920 Metern", "Ausgewiesenes Naturschutzgebiet", "Wichtiger Lebensraum für Wildtiere"],
       hu: ["Akár 920 méteres magasságot is elér", "Kijelölt természetvédelmi terület", "Fontos élőhely a vadvilág számára"],
       ro: ["Atinge înălțimi de până la 920 de metri", "Rezervație naturală desemnată", "Habitat important pentru fauna sălbatică"],
       en: ["Reaches heights of up to 920 meters", "Designated nature reserve", "Important habitat for wildlife"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Jabal Abd al-Aziz ist ein niedriges Gebirge im Nordosten Syriens, südwestlich von Al-Hasaka. Es erstreckt sich über etwa 100 km in Ost-West-Richtung und erreicht eine Höhe von 920 m. Das Gebirge besteht aus Kalkstein und Mergel. Es ist eine Region der Steppe mit spärlicher Vegetation, hauptsächlich Gräsern und Sträuchern. In der Antike war das Gebirge für seine Steinbrüche bekannt; Gestein wurde für den Bau von Palmyra verwendet. Heute wird in geringem Umfang Viehzucht betrieben. Die jährliche Niederschlagsmenge liegt bei etwa 200 mm. Das Gebirge ist Lebensraum für Wüstenfüchse und Gazellen.",
+      hu: "A Jabal Abd al-Aziz egy alacsony hegység Északkelet-Szíriában, Al-Hasakától délnyugatra. Kelet-nyugati irányban kb. 100 km hosszú, magassága 920 m. Mészkőből és márgából áll. Sztyeppei növényzet jellemzi, főleg füvek és bokrok. Az ókorban kőbányászatáról volt ismert; a követ Palmüra építéséhez használták. Ma kismértékű állattenyésztés folyik. Éves csapadék kb. 200 mm. Élőhelye a sivatagi róka és a gazella.",
+      ro: "Muntele Abd al-Aziz este un masiv jos în nord-estul Siriei, la sud-vest de Al-Hasaka. Se întinde pe aproape 100 km est-vest, atingând 920 m. Format din calcar și marnă. Vegetație stepică: ierburi și arbuști. În antichitate, era cunoscut pentru cariere de piatră pentru Palmira. Astăzi, se practică creșterea animalelor. Precipitații anuale: ~200 mm. Habitat pentru vulpi de deșert și gazele.",
+      en: "Jabal Abd al-Aziz is a low mountain range in northeastern Syria, southwest of Al-Hasaka. It extends about 100 km east-west, reaching 920 m elevation. Composed of limestone and marl, the range features steppe vegetation with grasses and shrubs. In antiquity, its quarries supplied stone for Palmyra. Today, limited livestock grazing occurs. Annual rainfall averages 200 mm. Wildlife includes desert foxes and goitered gazelles.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km", "Maximale Höhe: 920 m", "Besteht aus Kalkstein und Mergel", "Historische Steinbrüche: belieferten Palmyra (3. Jahrhundert n. Chr.)", "Jahresniederschlag: 200 mm", "Lebensraum für Kropfgazelle (Gazella subgutturosa)"],
+      hu: ["Hossz: 100 km", "Maximális magasság: 920 m", "Mészkőből és márgából áll", "Történelmi kőbányák: Palmürába szállítottak (i.sz. 3. század)", "Éves csapadék: 200 mm", "Kropfgazella (Gazella subgutturosa) élőhelye"],
+      ro: ["Lungime: 100 km", "Altitudine maximă: 920 m", "Format din calcar și marnă", "Cariere istorice: aprovizionau Palmira (sec. III)", "Precipitații anuale: 200 mm", "Habitat pentru gazela cu gât (Gazella subgutturosa)"],
+      en: ["Length: 100 km", "Maximum elevation: 920 m", "Composed of limestone and marl", "Historical quarries supplied Palmyra (3rd century AD)", "Annual rainfall: 200 mm", "Habitat for goitered gazelle (Gazella subgutturosa)"],
+    },
   },
   {
     id: "jabal-al-akra-relief-v2",
     type: "mountain",
     parent: "SY-LA",
     coords: [35.966667, 35.95],
-    name: { de: "Dschebel al-Akra", hu: "Dzsebel al-Akra", ro: "Muntele Kel", en: "Mount Casius",
-image: "/poi-images/jabal-al-akra-relief-v2.webp"
-},
+    name: { de: "Dschebel al-Akra", hu: "Dzsebel al-Akra", ro: "Muntele Kel", en: "Mount Casius"},
+    image: "/poi-images/jabal-al-akra-relief-v2.webp",
     description: { de: "Der Dschebel al-Akra, auch bekannt als Berg Casius, ist ein steiler Kalksteinberg nahe der türkischen Grenze, der steil ins Mittelmeer abfällt.", hu: "A Dzsebel al-Akra, más néven Casius-hegy, egy meredek mészkőhegy a török határ közelében, amely meredeken zuhan a Földközi-tengerbe.", ro: "Jabal al-Akra, cunoscut și sub numele de Muntele Casius, este un munte abrupt de calcar, situat lângă granița turcă, care coboară abrupt în Marea Mediterană.", en: "Jabal al-Akra, also known as Mount Casius, is a steep limestone mountain near the Turkish border that drops sharply into the Mediterranean Sea." },
     facts: {
       de: ["Höhe von 1.709 Metern", "In der Antike als heiliger Berg verehrt", "Liegt direkt an der Küste"],
       hu: ["Magassága 1709 méter", "Az ókorban szent hegyként tisztelték", "Közvetlenül a tengerparton fekszik"],
       ro: ["Înălțime de 1.709 metri", "Venerat ca munte sfânt în antichitate", "Situat direct pe coastă"],
       en: ["Elevation of 1,709 meters", "Revered as a sacred mountain in antiquity", "Located directly on the coast"]
-    }, image: "/poi-images/jabal-al-akra-relief-v2.webp"},
+    }, image: "/poi-images/jabal-al-akra-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Akra (auch Berg Casius genannt) ist ein Berg an der syrisch-türkischen Grenze im Nordwesten Syriens. Mit einer Höhe von 1.727 m ist er einer der höchsten Gipfel des syrischen Küstengebirges. Der Berg ist aus Kalkstein und Dolomit aufgebaut. In der Antike war er als Mons Casius bekannt und wurde dem Gott Zeus geweiht. Auf dem Gipfel gibt es eine Radarstation. Die Vegetation umfasst Kiefernwälder in tieferen Lagen und alpine Wiesen oberhalb von 1.500 m. Der Berg ist ein wichtiges Quellgebiet für mehrere Bäche. Die jährliche Niederschlagsmenge beträgt über 1.000 mm.",
+      hu: "A Jabal al-Akra (más néven Casius-hegy) a szíriai-török határon fekszik Északnyugat-Szíriában. 1.727 m magas, a szíriai tengerparti hegység egyik legmagasabb csúcsa. Mészkőből és dolomitból áll. Az ókorban Mons Casius néven ismerték, Zeusznak szentelték. A csúcson radarállomás található. Növényzete fenyőerdők és alpesi rétek. Fontos vízforrás. Éves csapadék 1000 mm felett.",
+      ro: "Muntele al-Akra (Muntele Casius) se află la granița sirio-turcă, în nord-vestul Siriei. Cu 1.727 m, este unul dintre cele mai înalte vârfuri ale munților de coastă. Format din calcar și dolomit. În antichitate, era cunoscut ca Mons Casius și dedicat lui Zeus. Pe vârf se află o stație radar. Vegetația include păduri de pini și pajiști alpine. Este o sursă importantă de apă. Precipitații anuale peste 1.000 mm.",
+      en: "Jabal al-Akra (Mount Casius) is a peak on the Syria-Turkey border in northwestern Syria. At 1,727 m, it is one of the highest in the Syrian coastal range. It consists of limestone and dolomite. Known in antiquity as Mons Casius, it was sacred to Zeus. A radar station sits on the summit. Vegetation includes pine forests at lower elevations and alpine meadows above 1,500 m. The mountain is a key water source for several streams. Annual rainfall exceeds 1,000 mm.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.727 m", "Besteht aus Kalkstein und Dolomit", "Antiker Name: Mons Casius", "Jahresniederschlag: über 1.000 mm", "Gipfel mit Radarstation (Höhe: 1.727 m)", "Quellgebiet für 4 permanente Bäche"],
+      hu: ["Magasság: 1.727 m", "Mészkőből és dolomitból áll", "Ókori név: Mons Casius", "Éves csapadék: 1000 mm felett", "Csúcson radarállomás (magasság: 1.727 m)", "4 állandó patak forrásvidéke"],
+      ro: ["Altitudine: 1.727 m", "Format din calcar și dolomit", "Nume antic: Mons Casius", "Precipitații anuale: peste 1.000 mm", "Stație radar pe vârf (1.727 m)", "Izvorul a 4 pâraie permanente"],
+      en: ["Elevation: 1,727 m", "Composed of limestone and dolomite", "Ancient name: Mons Casius", "Annual rainfall: over 1,000 mm", "Radar station on summit (1,727 m)", "Source of 4 permanent streams"],
+    },
+  },
   {
     id: "al-ghab-plain-relief-v2",
     type: "valley",
     parent: "SY-HM",
     coords: [36.333333, 35.5],
-    name: { de: "Al-Ghab-Ebene", hu: "Al-Gáb-síkság", ro: "Câmpia Al-Ghab", en: "Al-Ghab Plain",
-image: "/poi-images/al-ghab-plain-relief-v2.webp"
-},
+    name: { de: "Al-Ghab-Ebene", hu: "Al-Gáb-síkság", ro: "Câmpia Al-Ghab", en: "Al-Ghab Plain"},
+    image: "/poi-images/al-ghab-plain-relief-v2.webp",
     description: { de: "Die Al-Ghab-Ebene ist ein fruchtbares Grabenbruch-Tal am Fluss Orontes, das in der Mitte des 20. Jahrhunderts entwässert wurde, um Ackerland zu gewinnen.", hu: "Az Al-Gáb-síkság egy termékeny hasadékvölgy az Orontész folyó mentén, amelyet a 20. század közepén csapoltak le termőföld nyerése céljából.", ro: "Câmpia Al-Ghab este o vale de rift fertilă pe râul Orontes, care a fost drenată la mijlocul secolului al XX-lea pentru a crea teren arabil.", en: "The Al-Ghab Plain is a fertile rift valley on the Orontes River that was drained in the mid-20th century to reclaim agricultural land." },
     facts: {
       de: ["Ursprünglich ein großes Sumpfgebiet", "Über 80 Kilometer lang", "Wichtig für die Landwirtschaft"],
       hu: ["Eredetileg egy nagy mocsárvidék volt", "Több mint 80 kilométer hosszú", "Fontos a mezőgazdaság számára"],
       ro: ["Inițial o zonă mare de mlaștină", "Peste 80 de kilometri lungime", "Importantă pentru agricultură"],
       en: ["Originally a large swamp area", "Over 80 kilometers long", "Important for agriculture"]
-    }, image: "/poi-images/al-ghab-plain-relief-v2.webp"},
+    }, image: "/poi-images/al-ghab-plain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Ghab-Ebene ist eine tektonische Senke im Nordwesten Syriens, die sich entlang des Orontes-Flusses erstreckt. Sie ist etwa 80 km lang und 10–15 km breit. Die Ebene liegt durchschnittlich 200 m über dem Meeresspiegel. Sie ist eines der fruchtbarsten landwirtschaftlichen Gebiete Syriens, bekannt für den Anbau von Baumwolle, Weizen, Zuckerrüben und Gemüse. Die Bewässerung erfolgt durch den Orontes und Grundwasser. Vor der Trockenlegung in den 1960er Jahren war die Gegend ein Sumpfgebiet. Der Al-Ghab-Damm reguliert den Wasserstand. Die Region ist dicht besiedelt mit Städten wie Al-Suqaylabiyah.",
+      hu: "Az Al-Ghab-síkság egy tektonikus árok Nyugat-Szíriában, az Orontész folyó mentén. Hossza 80 km, szélessége 10–15 km. Átlagmagassága 200 m. Szíria egyik legtermékenyebb mezőgazdasági területe, gyapotot, búzát, cukorrépát és zöldséget termesztenek. Öntözése az Orontészből és talajvízből történik. Az 1960-as évekbeli lecsapolás előtt mocsaras volt. Az Al-Ghab-gát szabályozza a vízszintet. Sűrűn lakott, itt található Al-Suqaylabiyah.",
+      ro: "Câmpia Al-Ghab este o depresiune tectonică în nord-vestul Siriei, de-a lungul râului Orontes. Are 80 km lungime și 10–15 km lățime. Altitudinea medie este de 200 m. Este una dintre cele mai fertile zone agricole, producând bumbac, grâu, sfeclă de zahăr și legume. Irigația se face din Orontes și ape subterane. Înainte de drenarea din anii 1960, era o zonă mlăștinoasă. Barajul Al-Ghab reglează nivelul apei. Este dens populată, cu orașul Al-Suqaylabiyah.",
+      en: "The Al-Ghab Plain is a tectonic depression in northwestern Syria, along the Orontes River. It is about 80 km long and 10–15 km wide, with an average elevation of 200 m. One of the most fertile agricultural areas, it produces cotton, wheat, sugar beets, and vegetables. Irrigation relies on the Orontes and groundwater. Before drainage in the 1960s, it was a marshland. The Al-Ghab Dam regulates water levels. The plain is densely populated, with towns like Al-Suqaylabiyah.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 80 km", "Breite: 10–15 km", "Höhe: 200 m", "Trockenlegung in den 1960er Jahren", "Bewässerte Fläche: 100.000 Hektar", "Al-Ghab-Damm: gebaut 1968, Länge 2 km"],
+      hu: ["Hossz: 80 km", "Szélesség: 10–15 km", "Magasság: 200 m", "Lecsapolás az 1960-as években", "Öntözött terület: 100.000 hektár", "Al-Ghab-gát: 1968-ban épült, hossza 2 km"],
+      ro: ["Lungime: 80 km", "Lățime: 10–15 km", "Altitudine: 200 m", "Drenare în anii 1960", "Suprafață irigată: 100.000 ha", "Barajul Al-Ghab: construit în 1968, lungime 2 km"],
+      en: ["Length: 80 km", "Width: 10–15 km", "Elevation: 200 m", "Drained in 1960s", "Irrigated area: 100,000 ha", "Al-Ghab Dam: built 1968, length 2 km"],
+    },
+  },
   {
     id: "kurd-dagh-relief-v2",
     type: "mountain",
     parent: "SY-HL",
     coords: [36.75, 36.666667],
-    name: { de: "Kurd Dagh", hu: "Kurd-hegység", ro: "Munții Kurd", en: "Kurd Mountains",
-image: "/poi-images/kurd-dagh-relief-v2.webp"
-},
+    name: { de: "Kurd Dagh", hu: "Kurd-hegység", ro: "Munții Kurd", en: "Kurd Mountains"},
+    image: "/poi-images/kurd-dagh-relief-v2.webp",
     description: { de: "Der Kurd Dagh ist ein bergiges Hochland im Nordwesten Syriens, das durch seine dichten Olivenhaine und reiche kulturelle Geschichte geprägt ist.", hu: "A Kurd-hegység egy hegyvidéki terület Északnyugat-Szíriában, amelyet sűrű olajfaligetek és gazdag kulturális történelem jellemez.", ro: "Munții Kurd sunt un ținut muntos în nord-vestul Siriei, caracterizat prin plantații dense de măslini și o bogată istorie culturală.", en: "Kurd Dagh is a mountainous highland in northwestern Syria, characterized by its dense olive groves and rich cultural history." },
     facts: {
       de: ["Bekannt für den Olivenanbau", "Teil des Taurusgebirges", "Heimat vieler antiker Ruinen"],
       hu: ["Az olajbogyó-termesztésről ismert", "A Torosz-hegység része", "Számos ókori rom otthona"],
       ro: ["Cunoscut pentru cultivarea măslinelor", "Parte a Munților Taurus", "Găzduiește multe ruine antice"],
       en: ["Known for olive cultivation", "Part of the Taurus Mountains", "Home to many ancient ruins"]
-    }, image: "/poi-images/kurd-dagh-relief-v2.webp"},
+    }, image: "/poi-images/kurd-dagh-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kurd-Dagh (auch Kurdisches Gebirge) ist ein Gebirgszug im Nordwesten Syriens, der sich entlang der türkischen Grenze erstreckt. Er ist etwa 100 km lang und erreicht Höhen von bis zu 1.000 m. Das Gebirge besteht aus Kalkstein und Basalt. Es ist eine Region mit Olivenhainen und Weinbergen; die Landwirtschaft ist die Haupteinnahmequelle. Die Bevölkerung ist überwiegend kurdisch. Die jährlichen Niederschläge liegen zwischen 400 und 600 mm. Das Gebirge ist bekannt für seine Quellen und kleinen Flüsse, die in den Orontes fließen. In der Antike war es Teil des Königreichs Mitanni.",
+      hu: "A Kurd-Dagh (más néven Kurd-hegység) egy hegylánc Északnyugat-Szíriában, a török határ mentén. Kb. 100 km hosszú, magassága eléri az 1000 m-t. Mészkőből és bazaltból áll. Olajfaligetek és szőlőültetvények jellemzik; a mezőgazdaság a fő jövedelemforrás. A lakosság többsége kurd. Éves csapadék 400–600 mm. Források és kis folyók táplálják az Orontészt. Az ókorban Mitanni része volt.",
+      ro: "Munții Kurd-Dagh (Munții Kurzi) sunt o culme muntoasă în nord-vestul Siriei, de-a lungul graniței turce. Au aproximativ 100 km lungime și altitudini de până la 1.000 m. Sunt formați din calcar și bazalt. Zona este acoperită de livezi de măslini și vii; agricultura este principala sursă de venit. Populația este preponderent kurdă. Precipitațiile anuale sunt între 400 și 600 mm. Izvoare și râuri mici alimentează Orontesul. În antichitate, făcea parte din regatul Mitanni.",
+      en: "The Kurd Mountains (Kurd-Dagh) are a range in northwestern Syria along the Turkish border. They extend about 100 km and reach elevations up to 1,000 m. The range consists of limestone and basalt. Olive groves and vineyards cover the slopes; agriculture is the main livelihood. The population is predominantly Kurdish. Annual rainfall ranges 400–600 mm. The mountains are a source of springs and small rivers feeding the Orontes. Historically, the area was part of the Mitanni kingdom.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km", "Maximale Höhe: 1.000 m", "Gestein: Kalkstein und Basalt", "Bevölkerung: ca. 70% Kurden", "Jahresniederschlag: 400–600 mm", "Historisch: Teil des Mitanni-Reichs (15. Jahrhundert v. Chr.)"],
+      hu: ["Hossz: 100 km", "Maximális magasság: 1000 m", "Kőzet: mészkő és bazalt", "Lakosság: kb. 70% kurd", "Éves csapadék: 400–600 mm", "Történelem: Mitanni királyság része (i.e. 15. század)"],
+      ro: ["Lungime: 100 km", "Altitudine maximă: 1.000 m", "Roci: calcar și bazalt", "Populație: aprox. 70% kurzi", "Precipitații anuale: 400–600 mm", "Istoric: parte a regatului Mitanni (sec. XV î.Hr.)"],
+      en: ["Length: 100 km", "Maximum elevation: 1,000 m", "Rock types: limestone and basalt", "Population: approx. 70% Kurdish", "Annual rainfall: 400–600 mm", "Historical: part of Mitanni kingdom (15th century BC)"],
+    },
+  },
   {
     id: "jabal-samaan-relief-v2",
     type: "mountain",
     parent: "SY-HL",
     coords: [36.833333, 36.333333],
-    name: { de: "Dschebel Samaan", hu: "Simeon-hegy", ro: "Muntele Simeon", en: "Mount Simeon",
-image: "/poi-images/jabal-samaan-relief-v2.webp"
-},
+    name: { de: "Dschebel Samaan", hu: "Simeon-hegy", ro: "Muntele Simeon", en: "Mount Simeon"},
+    image: "/poi-images/jabal-samaan-relief-v2.webp",
     description: { de: "Der Dschebel Samaan ist ein Kalksteinmassiv, das für die Ruinen des Simeonsklosters und die umliegenden berühmten Toten Städte bekannt ist.", hu: "A Simeon-hegy egy mészkőmasszívum, amely a Szent Simeon-kolostor romjairól és a környező híres Holt városokról ismert.", ro: "Muntele Simeon este un masiv de calcar cunoscut pentru ruinele Mănăstirii Sfântului Simeon și pentru faimoasele Orașe Moarte din jur.", en: "Mount Simeon is a limestone massif known for the ruins of the Church of Saint Simeon Stylites and the surrounding famous Dead Cities." },
     facts: {
       de: ["Höchster Punkt erreicht über 800 Meter", "Heimat byzantinischer Ruinenstätten", "Geologisch von Kalkstein geprägt"],
       hu: ["Legmagasabb pontja meghaladja a 800 métert", "Bizánci romok otthona", "Geológiailag a mészkő dominálja"],
       ro: ["Cel mai înalt punct depășește 800 de metri", "Găzduiește ruine bizantine", "Geologic dominat de calcar"],
       en: ["Highest point reaches over 800 meters", "Home to Byzantine ruins", "Geologically dominated by limestone"]
-    }, image: "/poi-images/jabal-samaan-relief-v2.webp"},
+    }, image: "/poi-images/jabal-samaan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Samaan (auch Berg Simeon) ist ein Berg im nordwestlichen Syrien, ca. 25 km nordwestlich von Aleppo. Er ist bekannt für das Simeonskloster (Qal'at Sim'an), ein bedeutendes byzantinisches Pilgerzentrum aus dem 5. Jahrhundert. Der Berg erreicht eine Höhe von 500 m. Das Kloster wurde um die Säule des Heiligen Simeon Stylites errichtet. Die Umgebung ist karg mit mediterraner Macchie. Der Berg ist ein beliebtes touristisches Ziel. Die Region ist landwirtschaftlich geprägt, mit Oliven- und Pistazienanbau. Der Berg besteht hauptsächlich aus Kalkstein.",
+      hu: "A Jabal Samaan (Simeon-hegy) Északnyugat-Szíriában, Aleppótól 25 km-re északnyugatra található. Híres a Simeon-kolostorról (Qal'at Sim'an), egy 5. századi bizánci zarándokközpontról. Magassága 500 m. A kolostort Szent Simeon Stylites oszlopa köré építették. A környék kopár, mediterrán bozóttal. Népszerű turisztikai célpont. A mezőgazdaságban olajbogyót és pisztáciát termesztenek. A hegy mészkőből áll.",
+      ro: "Muntele Samaan (Muntele Simeon) se află în nord-vestul Siriei, la 25 km nord-vest de Alep. Este renumit pentru Mănăstirea Simeon (Qal'at Sim'an), un centru de pelerinaj bizantin din secolul V. Altitudinea este de 500 m. Mănăstirea a fost construită în jurul coloanei Sfântului Simeon Stilitul. Zona este aridă, cu tufișuri mediteraneene. Destinație turistică populară. Agricultura produce măsline și fistic. Muntele este format din calcar.",
+      en: "Mount Simeon (Jabal Samaan) is located in northwestern Syria, about 25 km northwest of Aleppo. It is famous for the Church of Saint Simeon Stylites (Qal'at Sim'an), a 5th-century Byzantine pilgrimage center. The mountain rises to 500 m. The church was built around the pillar of St. Simeon. The landscape is barren with Mediterranean maquis. It is a popular tourist site. Agriculture in the area focuses on olives and pistachios. The mountain is composed of limestone.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 500 m", "Entfernung von Aleppo: 25 km", "Simeonskloster erbaut 476 n. Chr.", "Säule des Heiligen Simeon: 18 m hoch (ursprünglich)", "Jährliche Besucher: ca. 100.000", "Boden: Kalksteinverwitterung"],
+      hu: ["Magasság: 500 m", "Távolság Aleppótól: 25 km", "Simeon-kolostor épült i.sz. 476-ban", "Szent Simeon oszlopa: 18 m (eredeti)", "Éves látogatók: kb. 100.000", "Talaj: mészkő málladék"],
+      ro: ["Altitudine: 500 m", "Distanța de Alep: 25 km", "Mănăstirea Simeon construită în 476 d.Hr.", "Coloana Sf. Simeon: 18 m înălțime (original)", "Vizitatori anuali: aprox. 100.000", "Sol: alterare calcaroasă"],
+      en: ["Elevation: 500 m", "Distance from Aleppo: 25 km", "Monastery of Simeon built in 476 AD", "St. Simeon's pillar: 18 m high (original)", "Annual visitors: approx. 100,000", "Soil: limestone weathering"],
+    },
+  },
   {
     id: "hauran-plateau-relief-v2",
     type: "plateau",
     parent: "SY-DR",
     coords: [36.166667, 32.75],
-    name: { de: "Hauran-Plateau", hu: "Haurán-fennsík", ro: "Platoul Hauran", en: "Hauran Plateau",
-image: "/poi-images/hauran-plateau-relief-v2.webp"
-},
+    name: { de: "Hauran-Plateau", hu: "Haurán-fennsík", ro: "Platoul Hauran", en: "Hauran Plateau"},
+    image: "/poi-images/hauran-plateau-relief-v2.webp",
     description: { de: "Das Hauran-Plateau im Süden Syriens ist eine vulkanische Hochebene, die für ihre fruchtbare rote Erde und historische Bedeutung bekannt ist.", hu: "A dél-szíriai Haurán-fennsík egy vulkanikus fennsík, amely termékeny vörös talajáról és történelmi jelentőségéről ismert.", ro: "Platoul Hauran din sudul Siriei este un platou vulcanic cunoscut pentru solul său roșu fertil și importanța istorică.", en: "The Hauran Plateau in southern Syria is a volcanic plateau known for its fertile red soil and historical significance." },
     facts: {
       de: ["Vulkanischen Ursprungs", "Ehemalige römische Provinz", "Reich an Basaltgestein"],
       hu: ["Vulkanikus eredetű", "Egykori római provincia", "Bazaltkőzetekben gazdag"],
       ro: ["De origine vulcanică", "Fostă provincie romană", "Bogat în rocă bazaltică"],
       en: ["Of volcanic origin", "Former Roman province", "Rich in basalt rock"]
-    }, image: "/poi-images/hauran-plateau-relief-v2.webp"},
+    }, image: "/poi-images/hauran-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hauran-Plateau liegt im Südwesten Syriens, zwischen Damaskus und der jordanischen Grenze. Es ist ein basaltisches Hochplateau mit einer durchschnittlichen Höhe von 800–1.000 m. Das Plateau ist fruchtbar und bekannt für den Wein- und Getreideanbau. Die Stadt As-Suwayda ist das kulturelle Zentrum der Drusen. Die Region hat zahlreiche römische Ruinen, darunter Bosra mit dem gut erhaltenen römischen Theater. Der Jahresniederschlag beträgt 300–500 mm. Die Böden sind aus Basaltverwitterung tiefgründig. Wirtschaftlich wichtig ist die Landwirtschaft und der Tourismus.",
+      hu: "A Haurán-fennsík Délnyugat-Szíriában található, Damaszkusz és a jordán határ között. Bazaltos fennsík, átlagmagassága 800–1000 m. Termékeny; bor- és gabonatermesztéséről híres. As-Szuvajda a drúzok kulturális központja. Számos római rom található, például Boszra színháza. Éves csapadék 300–500 mm. A talaj mély, bazalt mállásból. Gazdaságilag a mezőgazdaság és a turizmus fontos.",
+      ro: "Podisul Hauran se află în sud-vestul Siriei, între Damasc și granița cu Iordania. Este un podiș bazaltic cu altitudini medii de 800–1.000 m. Fertil, renumit pentru culturi de vin și cereale. As-Suwayda este centrul druzilor. Regiunea are ruine romane, inclusiv teatrul roman din Bosra. Precipitații anuale: 300–500 mm. Solurile sunt adânci, din alterarea bazaltului. Economia se bazează pe agricultură și turism.",
+      en: "The Hauran Plateau is a basaltic upland in southwestern Syria, between Damascus and the Jordanian border. Average elevation is 800–1,000 m. The fertile plateau is known for wine and grain production. As-Suwayda is the cultural hub of the Druze community. The region contains well-preserved Roman ruins, including the theater at Bosra. Annual rainfall ranges 300–500 mm. Soils are deep, derived from weathered basalt. Agriculture and tourism drive the economy.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 800–1.000 m", "Besteht aus Basalt", "Römisches Theater in Bosra: Fassungsvermögen 15.000 Zuschauer", "Jahresniederschlag: 300–500 mm", "Bevölkerungszentrum: As-Suwayda (100.000 Einw.)", "Weinbau seit der Römerzeit (1. Jahrhundert n. Chr.)"],
+      hu: ["Magasság: 800–1000 m", "Bazaltból áll", "Boszra római színháza: 15.000 férőhely", "Éves csapadék: 300–500 mm", "Népességközpont: Asz-Szuvajda (100.000 fő)", "Borkészítés a római kor óta (i.sz. 1. század)"],
+      ro: ["Altitudine: 800–1.000 m", "Format din bazalt", "Teatrul roman din Bosra: capacitate 15.000 de spectatori", "Precipitații anuale: 300–500 mm", "Centru populat: As-Suwayda (100.000 loc.)", "Vinificație din epoca romană (sec. I d.Hr.)"],
+      en: ["Elevation: 800–1,000 m", "Composed of basalt", "Roman theater in Bosra: capacity 15,000 spectators", "Annual rainfall: 300–500 mm", "Population center: As-Suwayda (100,000 inhabitants)", "Wine cultivation since Roman times (1st century AD)"],
+    },
+  },
   {
     id: "al-safa-relief-v2",
     type: "plateau",
     parent: "SY-SU",
     coords: [37.25, 33.083333],
-    name: { de: "Al-Safa", hu: "Al-Szafa", ro: "Al-Safa", en: "Al-Safa",
-image: "/poi-images/al-safa-relief-v2.webp"
-},
+    name: { de: "Al-Safa", hu: "Al-Szafa", ro: "Al-Safa", en: "Al-Safa"},
+    image: "/poi-images/al-safa-relief-v2.webp",
     description: { de: "Al-Safa ist ein zerklüftetes vulkanisches Lavafeld südöstlich von Damaskus, das durch seine schwarze, mondähnliche Landschaft besticht.", hu: "Az Al-Szafa egy zord, vulkanikus lávamező Damaszkusztól délkeletre, amely fekete, holdszerű tájával nyűgöz le.", ro: "Al-Safa este un câmp accidentat de lavă vulcanică, situat la sud-est de Damasc, care impresionează prin peisajul său negru, asemănător lunii.", en: "Al-Safa is a rugged volcanic lava field southeast of Damascus, striking for its black, moon-like landscape." },
     facts: {
       de: ["Gilt als unwegsames Gelände", "Besteht aus erstarrten Lavaströmen", "Wenig Vegetation vorhanden"],
       hu: ["Járhatatlan terepnek számít", "Megszilárdult lávafolyamokból áll", "Kevés növényzet található itt"],
       ro: ["Considerat teren accidentat", "Alcătuit din fluxuri de lavă solidificată", "Vegetație redusă"],
       en: ["Considered rugged terrain", "Consists of solidified lava flows", "Little vegetation present"]
-    }, image: "/poi-images/al-safa-relief-v2.webp"},
+    }, image: "/poi-images/al-safa-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Al-Safa ist ein vulkanisches Feld im Süden Syriens, etwa 90 km südöstlich von Damaskus. Es besteht aus zahlreichen Vulkenkegeln, Lavafeldern und Basaltplateaus. Die Höhe variiert zwischen 600 und 1.000 m. Die letzte Vulkanausbrüche fanden im Holozän statt. Die Landschaft ist karg und trocken, mit spärlicher Vegetation. Das Gebiet wird von Beduinen für die Weidewirtschaft genutzt. Al-Safa ist bekannt für seine Einsamkeit und als geheimnisvoller Ort. Es gibt einige archäologische Stätten aus der römischen und nabatäischen Zeit. Die jährlichen Niederschläge liegen unter 150 mm.",
+      hu: "Al-Safa egy vulkáni mező Dél-Szíriában, Damaszkusztól 90 km-re délkeletre. Vulkáni kúpok, lávamezők és bazaltfennsíkok alkotják. Magassága 600–1000 m. Az utolsó kitörések a holocénben voltak. A táj kopár és száraz. Beduinok legeltetésre használják. Híres magányosságáról és titokzatos voltáról. Római és nabateus régészeti lelőhelyek vannak. Éves csapadék 150 mm alatt.",
+      ro: "Al-Safa este un câmp vulcanic în sudul Siriei, la 90 km sud-est de Damasc. Este format din conuri vulcanice, câmpuri de lavă și podișuri bazaltice. Altitudinea variază între 600 și 1.000 m. Ultimele erupții au avut loc în Holocen. Peisajul este arid și sterp. Folosit de beduini pentru pășunat. Cunoscut pentru izolare și mister. Există situri arheologice romane și nabateene. Precipitații anuale sub 150 mm.",
+      en: "Al-Safa is a volcanic field in southern Syria, about 90 km southeast of Damascus. It consists of volcanic cones, lava flows, and basalt plateaus, with elevations ranging 600–1,000 m. The last eruptions occurred in the Holocene. The landscape is barren and dry, with sparse vegetation. Bedouins use the area for grazing. Al-Safa is known for its isolation and mysterious atmosphere. There are archaeological remains from Roman and Nabataean periods. Annual rainfall is less than 150 mm.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1.500 km²", "Anzahl der Vulkankegel: über 50", "Höchster Kegel: 1.058 m", "Letzte Eruption: vor etwa 10.000 Jahren", "Jahresniederschlag: unter 150 mm", "Archäologische Stätten: nabatäische Inschriften aus dem 2. Jahrhundert n. Chr."],
+      hu: ["Terület: kb. 1500 km²", "Vulkáni kúpok száma: több mint 50", "Legmagasabb kúp: 1058 m", "Utolsó kitörés: kb. 10.000 éve", "Éves csapadék: 150 mm alatt", "Régészeti leletek: nabateus feliratok i.sz. 2. századból"],
+      ro: ["Suprafață: aprox. 1.500 km²", "Număr de conuri vulcanice: peste 50", "Cel mai înalt con: 1.058 m", "Ultima erupție: acum aproximativ 10.000 de ani", "Precipitații anuale: sub 150 mm", "Situri arheologice: inscriptii nabateene din sec. II d.Hr."],
+      en: ["Area: approx. 1,500 km²", "Number of volcanic cones: over 50", "Highest cone: 1,058 m", "Last eruption: about 10,000 years ago", "Annual rainfall: under 150 mm", "Archaeological remnants: Nabataean inscriptions from 2nd century AD"],
+    },
+  },
   {
     id: "al-lajat-relief-v2",
     type: "plateau",
     parent: "SY-SU",
     coords: [36.333333, 32.916667],
-    name: { de: "Al-Ladscha", hu: "Al-Ladzsa", ro: "Al-Lajat", en: "Al-Lajat",
-image: "/poi-images/al-lajat-relief-v2.webp"
-},
+    name: { de: "Al-Ladscha", hu: "Al-Ladzsa", ro: "Al-Lajat", en: "Al-Lajat"},
+    image: "/poi-images/al-lajat-relief-v2.webp",
     description: { de: "Al-Ladscha, auch als Lejah bekannt, ist ein stark zerklüftetes Basaltplateau, das in der Antike als Zufluchtsort für Banditen und Rebellen diente.", hu: "Az Al-Ladzsa egy erősen tagolt bazaltfennsík, amely az ókorban banditák és lázadók menedékhelyéül szolgált.", ro: "Al-Lajat este un platou bazaltic extrem de accidentat care a servit ca refugiu pentru bandiți și rebeli în antichitate.", en: "Al-Lajat, also known as Lejah, is a highly rugged basalt plateau that served as a refuge for bandits and rebels in antiquity." },
     facts: {
       de: ["Schwer zugängliches Gebiet", "Historisch als Trachonitis bekannt", "Geologische Barriere im Süden"],
       hu: ["Nehezen megközelíthető terület", "Történelmileg Trachonitis néven ismert", "Geológiai akadály délen"],
       ro: ["Zonă greu accesibilă", "Cunoscută istoric ca Trachonitis", "Barieră geologică în sud"],
       en: ["Difficult to access area", "Historically known as Trachonitis", "Geological barrier in the south"]
-    }, image: "/poi-images/al-lajat-relief-v2.webp"},
+    }, image: "/poi-images/al-lajat-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Al-Lajat (auch Lajat-Region) ist eine basaltische Lavawüste im Süden Syriens, südlich von Damaskus. Die Region ist etwa 200 km² groß und von rauen, schwarzen Basaltblöcken bedeckt. Die Höhe liegt zwischen 600 und 900 m. Aufgrund des unwegsamen Geländes war die Region historisch ein Rückzugsort für Minderheiten, darunter Christen und Drusen. Es gibt viele versteckte Dörfer mit Höhlen- und Steinbauten. Die Landwirtschaft ist schwierig, aber in Mulden wird Regenfeldbau betrieben. Al-Lajat ist bekannt für seine einzigartige Architektur und abgelegene Kultur. Der Jahresniederschlag beträgt 200–300 mm.",
+      hu: "Al-Lajat (Lajat régió) egy bazaltos lávasivatag Dél-Szíriában, Damaszkusztól délre. Területe kb. 200 km², durva fekete bazalttömbök borítják. Magassága 600–900 m. A járhatatlan terep miatt kisebbségek menedéke volt (keresztények, drúzok). Sok rejtett falu barlang- és kőépítményekkel. A mezőgazdaság nehéz, de a mélyedésekben esőztető gazdálkodást folytatnak. Egyedülálló építészetéről és elszigetelt kultúrájáról híres. Éves csapadék 200–300 mm.",
+      ro: "Al-Lajat (regiunea Lajat) este un deșert de lavă bazaltică în sudul Siriei, la sud de Damasc. Are o suprafață de aproximativ 200 km², acoperită de blocuri aspre de bazalt negru. Altitudinea variază între 600 și 900 m. Datorită terenului accidentat, a fost un refugiu pentru minorități (creștini, druzi). Există sate ascunse cu case de piatră și peșteri. Agricultura este dificilă, dar în depresiuni se face cultură pluvială. Renumit pentru arhitectura sa unică și cultura izolată. Precipitații anuale: 200–300 mm.",
+      en: "Al-Lajat (Lajat region) is a basaltic lava desert in southern Syria, south of Damascus. Covering about 200 km², it is a rugged landscape of black basalt blocks. Elevation ranges 600–900 m. Historically, the inhospitable terrain provided refuge for minorities such as Christians and Druze. Hidden villages feature stone houses and cave dwellings. Agriculture is limited to rain-fed farming in depressions. The region is known for its unique architecture and isolated culture. Annual rainfall is 200–300 mm.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 200 km²", "Höhe: 600–900 m", "Besteht aus schwarzem Basalt", "Bevölkerung: überwiegend Drusen und Christen", "Jahresniederschlag: 200–300 mm", "Architektur: traditionelle Steinhäuser aus Basalt"],
+      hu: ["Terület: kb. 200 km²", "Magasság: 600–900 m", "Fekete bazaltból áll", "Lakosság: főleg drúzok és keresztények", "Éves csapadék: 200–300 mm", "Építészet: hagyományos bazalt kőházak"],
+      ro: ["Suprafață: aprox. 200 km²", "Altitudine: 600–900 m", "Format din bazalt negru", "Populație: preponderent druzi și creștini", "Precipitații anuale: 200–300 mm", "Arhitectură: case tradiționale din piatră bazaltică"],
+      en: ["Area: approx. 200 km²", "Elevation: 600–900 m", "Composed of black basalt", "Population: predominantly Druze and Christians", "Annual rainfall: 200–300 mm", "Architecture: traditional basalt stone houses"],
+    },
+  },
   {
     id: "jabal-abu-rujmayn-relief-v2",
     type: "mountain",
     parent: "SY-HO",
     coords: [38.5, 35.0],
-    name: { de: "Dschebel Abu Rudschmain", hu: "Dzsebel Abu Ruzsmajn", ro: "Jabal Abu Rujmayn", en: "Jabal Abu Rujmayn",
-image: "/poi-images/jabal-abu-rujmayn-relief-v2.webp"
-},
+    name: { de: "Dschebel Abu Rudschmain", hu: "Dzsebel Abu Ruzsmajn", ro: "Jabal Abu Rujmayn", en: "Jabal Abu Rujmayn"},
+    image: "/poi-images/jabal-abu-rujmayn-relief-v2.webp",
     description: { de: "Der Dschebel Abu Rudschmain ist eine langgestreckte Bergkette inmitten der syrischen Wüste, die wichtige archäologische Stätten birgt.", hu: "A Dzsebel Abu Ruzsmajn egy hosszan elnyúló hegylánc a Szíriai-sivatag közepén, amely fontos régészeti lelőhelyeket rejt.", ro: "Jabal Abu Rujmayn este un lanț muntos alungit în mijlocul Deșertului Sirian, care ascunde situri arheologice importante.", en: "Jabal Abu Rujmayn is an elongated mountain range in the middle of the Syrian Desert, harboring important archaeological sites." },
     facts: {
       de: ["Nördlich von Palmyra gelegen", "Wüstengebirge", "Erreicht Höhen um 1.100 Meter"],
       hu: ["Palmyrától északra található", "Sivatagi hegység", "Körülbelül 1100 méteres magasságot ér el"],
       ro: ["Situat la nord de Palmyra", "Munte de deșert", "Atinge înălțimi de aproximativ 1.100 de metri"],
       en: ["Located north of Palmyra", "Desert mountain range", "Reaches heights around 1,100 meters"]
-    }, image: "/poi-images/jabal-abu-rujmayn-relief-v2.webp"},
+    }, image: "/poi-images/jabal-abu-rujmayn-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Abu Rujmayn ist ein Hügel bzw. niedriger Berg im Zentralsyrien, etwa 100 km nordöstlich von Palmyra. Seine Höhe beträgt 950 m. Das Gebiet ist Teil der syrischen Wüstensteppe. Der Berg besteht aus Kreidekalkstein und Sandstein. Die Vegetation ist spärlich mit Wüstensträuchern. In der Nähe gibt es Ölfelder, die zur Wirtschaft beitragen. Historisch war die Region ein Durchgangsort für Karawanen. Der Berg ist nicht prominent, aber lokal bekannt für seine Höhlen und Quellen. Der Jahresniederschlag liegt unter 150 mm. Die Tierwelt umfasst Wüstenfüchse und Eidechsen.",
+      hu: "A Jabal Abu Rujmayn egy domb vagy alacsony hegy Közép-Szíriában, Palmürától 100 km-re északkeletre. Magassága 950 m. A szíriai sivatagi sztyepp része. A hegy krétakori mészkőből és homokkőből áll. Növényzete gyér, sivatagi cserjék. A közelben olajmezők vannak. Történelmileg karavánút mentén feküdt. Barlangjairól és forrásairól ismert. Éves csapadék 150 mm alatt. Állatvilág: sivatagi rókák és gyíkok.",
+      ro: "Muntele Abu Rujmayn este un deal sau munte jos în centrul Siriei, la 100 km nord-est de Palmira. Altitudinea este de 950 m. Face parte din stepa deșertică siriană. Este format din calcar cretacic și gresie. Vegetația este rară, cu arbuști de deșert. În apropiere se află câmpuri petroliere. Istoric, a fost un loc de trecere pentru caravane. Cunoscut pentru peșteri și izvoare. Precipitații anuale sub 150 mm. Fauna include vulpi de deșert și șopârle.",
+      en: "Jabal Abu Rujmayn is a hill/low mountain in central Syria, about 100 km northeast of Palmyra. Its elevation is 950 m. It lies in the Syrian desert steppe. The mountain consists of Cretaceous limestone and sandstone. Vegetation is sparse with desert shrubs. Nearby oil fields contribute to the economy. Historically, it was a caravan route waypoint. It is locally known for caves and springs. Annual rainfall is less than 150 mm. Wildlife includes desert foxes and lizards.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 950 m", "Besteht aus Kreidekalkstein und Sandstein", "Entfernung zu Palmyra: 100 km", "Jahresniederschlag: unter 150 mm", "Ölfelder in der Umgebung: Förderung 10.000 Barrel/Tag", "Bekannt für Höhlen: Länge bis zu 50 m"],
+      hu: ["Magasság: 950 m", "Krétakori mészkőből és homokkőből áll", "Távolság Palmürától: 100 km", "Éves csapadék: 150 mm alatt", "Közelben olajmezők: 10.000 hordó/nap kitermelés", "Barlangok: hosszúságuk elérheti az 50 m-t"],
+      ro: ["Altitudine: 950 m", "Format din calcar cretacic și gresie", "Distanța de Palmira: 100 km", "Precipitații anuale: sub 150 mm", "Câmpuri petroliere în apropiere: producție 10.000 barili/zi", "Peșteri cunoscute: lungime de până la 50 m"],
+      en: ["Elevation: 950 m", "Composed of Cretaceous limestone and sandstone", "Distance from Palmyra: 100 km", "Annual rainfall: under 150 mm", "Nearby oil fields: 10,000 barrels/day output", "Known caves: up to 50 m in length"],
+    },
+  },
   {
     id: "jabal-al-bilas-relief-v2",
     type: "mountain",
     parent: "SY-HM",
     coords: [37.5, 34.916667],
-    name: { de: "Dschebel al-Balaas", hu: "Dzsebel al-Balász", ro: "Jabal al-Bilas", en: "Jabal al-Bilas",
-image: "/poi-images/jabal-al-bilas-relief-v2.webp"
-},
+    name: { de: "Dschebel al-Balaas", hu: "Dzsebel al-Balász", ro: "Jabal al-Bilas", en: "Jabal al-Bilas"},
+    image: "/poi-images/jabal-al-bilas-relief-v2.webp",
     description: { de: "Der Dschebel al-Balaas ist ein trockenes Bergland im zentralen Syrien, das von nomadischen Stämmen für die Weidewirtschaft genutzt wird.", hu: "A Dzsebel al-Balász egy száraz hegyvidék Közép-Szíriában, amelyet a nomád törzsek legeltetésre használnak.", ro: "Jabal al-Bilas este un ținut muntos arid în centrul Siriei, folosit de triburile nomade pentru pășunat.", en: "Jabal al-Bilas is an arid mountainous region in central Syria, used by nomadic tribes for grazing." },
     facts: {
       de: ["Zentral in Syrien gelegen", "Klima ist arid bis semi-arid", "Wichtiges Weideland"],
       hu: ["Szíria központjában található", "Éghajlata száraz vagy félszáraz", "Fontos legelőterület"],
       ro: ["Situat în centrul Siriei", "Clima este aridă până la semi-aridă", "Pășune importantă"],
       en: ["Located centrally in Syria", "Climate is arid to semi-arid", "Important grazing land"]
-    }, image: "/poi-images/jabal-al-bilas-relief-v2.webp"},
+    }, image: "/poi-images/jabal-al-bilas-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Bilas ist ein etwa 1562 Meter hoher Berg im syrischen Küstengebirge. Er besteht hauptsächlich aus jurassischen Kalksteinen, die durch tektonische Hebungen entstanden sind. Die Region ist geprägt von tiefen Schluchten und Karstformen. Der Berg ist Teil des Al-Ansariyah-Gebirges und liegt östlich von Latakia. Seine Nordflanke fällt steil zur Küstenebene ab, während die Südseite allmählich ins Binnenland übergeht. Die Vegetation umfasst mediterrane Macchie mit Eichen und Kiefern. Aufgrund seiner Höhe empfängt der Gipfel im Winter gelegentlich Schneefall.",
+      hu: "A Jabal al-Bilas flórája és ökológiája változatos. A hegy mediterrán éghajlatú, az éves csapadékmennyiség eléri a 800 mm-t. Az alacsonyabb részeken macchia és tölgyesek találhatók, míg magasabban fenyvesek és cédrusok nőnek. A hegy számos endemikus növényfajnak ad otthont. Az állatvilág jellemző képviselői a szirti sas, a vaddisznó és a kövi róka. A hegy északi oldalán források bukkannak elő, melyek a tengerparti oázisokat táplálják. A terület biológiai sokfélesége kiemelkedő, és fontos ökológiai folyosót képez a tenger és a sivatag között.",
+      ro: "Jabal al-Bilas are o importanță arheologică semnificativă, cu urme de așezări din epoca bronzului și perioada romană. Pe versanți s-au descoperit ruine de cetăți și temple romane, probabil legate de cultul lui Baal. Regiunea a fost un punct strategic pe ruta comercială dintre Antiohia și Eufrat. În peșterile calcaroase s-au găsit unelte de piatră și ceramică veche de peste 5000 de ani. Așezările antice indică o populație care se ocupa cu agricultura și creșterea animalelor. Astăzi, unele situri sunt protejate ca monumente istorice naționale.",
+      en: "Jabal al-Bilas is a prominent mountain in the Syrian Coastal Mountain Range, reaching an elevation of 1,562 meters. It is located approximately 30 kilometers east of the Mediterranean Sea near the city of Latakia. The mountain forms a natural barrier influencing local climate, with orographic precipitation on its western slopes. Its geology is predominantly Jurassic limestone with prominent karst features including caves and sinkholes. The surrounding area supports dryland farming of olives and tobacco on terraced slopes. The peak offers panoramic views of the coastal plain and the Al-Ghab depression.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1562 Meter über dem Meeresspiegel", "Geologische Formation: Jurassischer Kalkstein, Mächtigkeit bis 800 Meter", "Fläche des Massivs: ca. 200 Quadratkilometer", "Durchschnittliche Hangneigung: 30° an der Nordflanke", "Niederschlag: bis zu 1200 mm jährlich an den Westhängen", "Vegetationszone: Mediterrane Hartlaubvegetation mit Quercus ilex und Pinus brutia"],
+      hu: ["Éves csapadékmennyiség: 800 mm a magasabb régiókban", "Endemikus növényfajok száma: legalább 12", "Magassági vegetációs övek: 3 (macchia, lombhullató erdő, tűlevelű erdő)", "Vadon élő emlősfajok: 25", "Források száma: 15 állandó forrás", "Védett terület kiterjedése: 50 négyzetkilométer"],
+      ro: ["Vechimea siturilor arheologice: peste 5000 ani (Epoca Bronzului)", "Numărul de cetăți romane descoperite: 7", "Altitudinea ruinei principale: 1200 m", "Suprafața așezării antice: 4 hectare", "Distanța până la Antiohia antică: 60 km", "Numărul de peșteri cu urme de locuire: 3"],
+      en: ["Coordinates: 35°N 36°E", "Distance to Latakia: 30 km east", "Prominence: approximately 1,200 m", "Average annual temperature at summit: 12°C", "Number of endemic plant species: 8", "Length of main ridge: 12 km"],
+    },
+  },
   {
     id: "rouj-valley-relief-v2",
     type: "valley",
     parent: "SY-ID",
     coords: [36.416667, 35.916667],
-    name: { de: "Roudsch-Ebene", hu: "Rúdzs-síkság", ro: "Câmpia Rouj", en: "Rouj Basin",
-image: "/poi-images/rouj-valley-relief-v2.webp"
-},
+    name: { de: "Roudsch-Ebene", hu: "Rúdzs-síkság", ro: "Câmpia Rouj", en: "Rouj Basin"},
+    image: "/poi-images/rouj-valley-relief-v2.webp",
     description: { de: "Die Roudsch-Ebene ist eine fruchtbare geologische Senke in der Provinz Idlib, die intensiv landwirtschaftlich genutzt wird.", hu: "A Rúdzs-síkság egy termékeny geológiai medence Idlib tartományban, amelyet intenzíven mezőgazdasági célokra használnak.", ro: "Câmpia Rouj este o depresiune geologică fertilă în provincia Idlib, care este utilizată intens în scopuri agricole.", en: "The Rouj Basin is a fertile geological depression in the Idlib province that is intensively used for agriculture." },
     facts: {
       de: ["Westlich der Stadt Idlib", "Sehr fruchtbare Böden", "Dicht besiedeltes Agrargebiet"],
       hu: ["Idlib városától nyugatra található", "Nagyon termékeny talaj", "Sűrűn lakott mezőgazdasági terület"],
       ro: ["La vest de orașul Idlib", "Soluri foarte fertile", "Zonă agricolă dens populată"],
       en: ["West of the city of Idlib", "Very fertile soils", "Densely populated agricultural area"]
-    }, image: "/poi-images/rouj-valley-relief-v2.webp"},
+    }, image: "/poi-images/rouj-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rouj-Becken (auch Ruj-Ebene) ist eine fruchtbare Senke im Nordwesten Syriens, etwa 30 Kilometer nordwestlich von Idlib. Es erstreckt sich über eine Fläche von rund 500 Quadratkilometern und wird vom Nahr al-Abyad (Weißer Fluss) entwässert. Die Ebene ist ein wichtiges landwirtschaftliches Zentrum mit Bewässerungsfeldbau, insbesondere für Baumwolle, Weizen und Oliven. Der Boden besteht aus alluvialen Ablagerungen, die durch jahrtausendelange Überschwemmungen entstanden sind. Das Becken ist tektonischen Ursprungs und Teil des Nordanatolischen Grabens. In der Umgebung liegen mehrere archäologische Stätten aus der Eisenzeit.",
+      hu: "A Rouj-medence kiemelkedő vizes élőhely, mocsarakkal és rizsföldekkel. Évente több ezer vonuló madár pihen itt, köztük gólyák, darvak és kacsafélék. A területet 1998-ban Ramsari területté nyilvánították. A medence vízszintje az öntözés miatt erősen ingadozik. A helyi gazdák a mocsarak szélén halásznak, és gyékényt termesztenek. A régió fontos a biológiai sokféleség szempontjából, mivel számos hüllő- és kétéltűfaj él itt. A szomszédos dombokon ősi települések maradványai találhatók.",
+      ro: "Valea Rouj a fost un important centru al Regatului Hittit în mileniul II î.Hr. Săpăturile arheologice au scos la lumină rămășițe de palate și temple hitite. Așezările atestă o civilizație urbană avansată, cu sisteme de irigații și fortificații. În perioada romană, valea a fost integrată în provincia Syria, iar apoi în Bizanț. În Evul Mediu, a fost disputată între cruciați și musulmani. Ruinele castelului de la Arwad se află în apropiere. Astăzi, agricultura de subzistență și creșterea animalelor sunt principalele ocupații.",
+      en: "The Rouj Valley, also known as the Rouj Basin, is a fertile lowland in northwestern Syria, covering about 500 square kilometers. It lies between the Jabal Zawiyah and the Syrian coastal mountains, forming a tectonic depression filled with alluvial soil. The valley is drained by the Orontes River tributaries and supports intensive agriculture, especially cotton and wheat. Its elevation ranges from 200 to 400 meters above sea level. The region has been continuously inhabited since the Neolithic, with major tell sites like Tell Afis. The climate is Mediterranean with hot dry summers and mild wet winters.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 Quadratkilometer", "Höhenlage: 200-400 Meter über dem Meeresspiegel", "Hauptfluss: Nahr al-Abyad, Länge 60 Kilometer", "Landwirtschaftliche Nutzfläche: 80% der Gesamtfläche", "Jährliche Niederschlagsmenge: 500 mm", "Bevölkerung im Einzugsgebiet: ca. 250.000"],
+      hu: ["Ramsari terület kijelölése: 1998", "Vizes élőhely területe: 120 négyzetkilométer", "Migráló madárfajok száma: 200", "Éves csapadék: 400 mm", "Rizstermesztés éves mennyisége: 15.000 tonna", "Halászati termelés: 500 tonna évente"],
+      ro: ["Număr situri arheologice importante: 5", "Vechimea Tell Afis: 8000 ani", "Suprafața palatului hitit: 0,5 ha", "Populația estimată în Epoca Fierului: 10.000", "Distanța până la Marea Mediterană: 40 km", "Anul primelor săpături sistematice: 1986"],
+      en: ["Total area: 500 km²", "Elevation range: 200–400 m", "Main river: Nahr al-Abyad, length 30 km", "Major crops: cotton, wheat, olives", "Average annual temperature: 18°C", "Population density: 500 people per km²"],
+    },
+  },
   {
     id: "qalamoun-mountains-relief-v2",
     type: "mountain",
     parent: "SY-RD",
     coords: [36.666667, 33.916667],
-    name: { de: "Qalamun-Berge", hu: "Kalamún-hegység", ro: "Munții Qalamoun", en: "Qalamoun Mountains",
-image: "/poi-images/qalamoun-mountains-relief-v2.webp"
-},
+    name: { de: "Qalamun-Berge", hu: "Kalamún-hegység", ro: "Munții Qalamoun", en: "Qalamoun Mountains"},
+    image: "/poi-images/qalamoun-mountains-relief-v2.webp",
     description: { de: "Die Qalamun-Berge sind der nordöstliche Ausläufer des Anti-Libanon-Gebirges und eine strategisch wichtige Gebirgsregion in Syrien.", hu: "A Kalamún-hegység az Antilibanon-hegység északkeleti nyúlványa, és stratégiailag fontos hegyvidéki régió Szíriában.", ro: "Munții Qalamoun reprezintă prelungirea nord-estică a lanțului muntos Anti-Liban și o regiune muntoasă de importanță strategică în Siria.", en: "The Qalamoun Mountains are the northeastern extension of the Anti-Lebanon mountain range and a strategically important mountainous region in Syria." },
     facts: {
       de: ["Höchste Erhebung über 2.000 Meter", "Verbindet Damaskus mit Zentralsyrien", "Raue winterliche Bedingungen"],
       hu: ["Legmagasabb pontja meghaladja a 2000 métert", "Damaszkuszt köti össze Közép-Szíriával", "Zord téli körülmények"],
       ro: ["Cea mai înaltă altitudine depășește 2.000 de metri", "Leagă Damascul de centrul Siriei", "Condiții de iarnă aspre"],
       en: ["Highest elevation over 2,000 meters", "Connects Damascus with central Syria", "Harsh winter conditions"]
-    }, image: "/poi-images/qalamoun-mountains-relief-v2.webp"},
+    }, image: "/poi-images/qalamoun-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Qalamun-Gebirge (auch Qalamun-Gebirge) ist ein rund 100 Kilometer langer Gebirgszug in Syrien und Libanon, der sich nordöstlich von Damaskus erstreckt. Der höchste Gipfel ist der Tall al-Khazneh mit etwa 2.500 Metern. Das Gebirge besteht aus kreidezeitlichen Kalksteinen und ist reich an Höhlen und Karstquellen. Es bildet die östliche Grenze des Antilibanon und trennt die Bekaa-Ebene von der syrischen Wüste. Auf den Hängen gedeihen Aleppo-Kiefern und Zypressen. Historisch war die Region durch Klöster wie das Deir Mar Musa bekannt. Das Klima ist semiarid mit Winterniederschlägen.",
+      hu: "A Qalamun-hegység fontos szerepet játszik a térség történelmében: itt húzódott az ókori Selyemút egyik ága. A hegység tavakkal és időszakos patakokkal tarkított. A 20. században a térség a szíriai ellenzék bázisa volt. Az alacsonyabb lejtőkön nomád pásztorok élnek. A vízhiány miatt ciszternák és vízvezetékek maradványai találhatók. A hegyek mészkövéből kitűnő minőségű építőkövet bányásznak. A régióban a természetvédelem kihívásokkal szembesül az illegális fakitermelés miatt.",
+      ro: "Munții Qalamun se remarcă prin peisajele carstice spectaculoase, cu peșteri adânci și pâraie subterane. Cea mai cunoscută peșteră, Jeita, se află în Liban, dar pe partea siriană există numeroase grote puțin explorate. Regiunea este importantă pentru resursele de apă: sursele de apă subterană alimentează Damascul. În perioada bizantină, aici s-au refugiat călugări creștini. O vegetație mediteraneană de tufișuri și stejari domnă la altitudini mijlocii. Turismul de aventură și alpinismul sunt activități emergente.",
+      en: "The Qalamoun Mountains are a mountain range in southwestern Syria, forming the eastern part of the Anti-Lebanon range. They stretch approximately 100 kilometers from the north of Damascus to the Lebanese border. The highest peak is Mount Khazneh at about 2,500 meters. The mountains consist mainly of Cretaceous limestone and are known for their extensive cave systems and deep valleys. The region has a Mediterranean climate with dry summers and precipitation mostly from October to April. Historically, the Qalamoun region was famous for its Christian monasteries and silk trade. Today, the population relies on agriculture, particularly olives and grapes, as well as small-scale mining.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 Kilometer", "Höchster Gipfel: Tall al-Khazneh, 2.500 Meter", "Geologisches Zeitalter: Kreidezeit", "Anzahl bekannter Höhlen: über 200", "Regionale Klöster: 10 mittelalterliche Klöster", "Durchschnittliche Niederschlagsmenge: 600 mm an den Westhängen"],
+      hu: ["Legmagasabb csúcs: 2500 m", "Éves csapadék a keleti lejtőkön: 300 mm", "Nomád pásztorok népessége: kb. 5000", "Kőbányák száma: 40", "Vízvezeték-maradványok: 20 római kori", "Illegális fakitermelés által érintett terület: 10 km²"],
+      ro: ["Lungime totală: 100 km", "Număr peșteri majore: 15", "Altitudinea peșterii celei mai adânci: 800 m", "Debitul izvoarelor karstice: 500 l/s", "Suprafața pădurilor: 300 km²", "Număr turiști pe an: 20.000"],
+      en: ["Length: 100 km", "Highest elevation: 2,500 m", "Width: 20-30 km", "Number of endemic plants: 30", "Average winter temperature: 5°C", "Distance from Damascus: 40 km"],
+    },
+  },
   {
     id: "syrian-coast-relief-v2",
     type: "coast",
     parent: "SY-LA",
     coords: [35.916667, 35.5],
-    name: { de: "Syrische Mittelmeerküste", hu: "Szíriai-tengerpart", ro: "Coasta Siriană", en: "Syrian Coast",
-image: "/poi-images/syrian-coast-relief-v2.webp"
-},
+    name: { de: "Syrische Mittelmeerküste", hu: "Szíriai-tengerpart", ro: "Coasta Siriană", en: "Syrian Coast"},
+    image: "/poi-images/syrian-coast-relief-v2.webp",
     description: { de: "Die syrische Mittelmeerküste ist ein schmaler, fruchtbarer Streifen, der durch ein mildes Klima und reiche Landwirtschaft geprägt ist.", hu: "A szíriai Földközi-tenger partvidéke egy keskeny, termékeny sáv, amelyet enyhe éghajlat és gazdag mezőgazdaság jellemez.", ro: "Coasta mediteraneană siriană este o fâșie îngustă și fertilă, caracterizată de un climat blând și o agricultură bogată.", en: "The Syrian Mediterranean coast is a narrow, fertile strip characterized by a mild climate and rich agriculture." },
     facts: {
       de: ["Etwa 180 Kilometer lang", "Mildes mediterranes Klima", "Zentrum des syrischen Tourismus"],
       hu: ["Körülbelül 180 kilométer hosszú", "Enyhe mediterrán éghajlat", "A szíriai turizmus központja"],
       ro: ["Aproximativ 180 de kilometri lungime", "Climă mediteraneană blândă", "Centrul turismului sirian"],
       en: ["About 180 kilometers long", "Mild Mediterranean climate", "Center of Syrian tourism"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die syrische Küste erstreckt sich über etwa 180 Kilometer entlang des östlichen Mittelmeers von der türkischen Grenze im Norden bis zur libanesischen Grenze im Süden. Sie umfasst die Gouvernements Latakia und Tartus. Die Küstenlinie ist geprägt von Sandstränden, Klippen und Hafenstädten. Die größten Städte sind Latakia (Hauptstadt des Gouvernements) mit rund 700.000 Einwohnern und Tartus mit 200.000. Das Klima ist mediterran mit milden, feuchten Wintern und heißen, trockenen Sommern. Die Landwirtschaft konzentriert sich auf Zitrusfrüchte, Oliven und Tabak. Der Hafen von Latakia ist der wichtigste Seehafen Syriens.",
+      hu: "A szíriai tengerpart gazdasági szempontból kiemelkedő: itt található az ország két legnagyobb kikötője, Latakia és Tartusz. Tartusz a legnagyobb konténerkikötő, forgalma évi 2 millió TEU. A parton számos üdülőhely, szálloda és turisztikai központ épült. A halászat hagyományos ágazat, évi 50.000 tonna halat fognak ki. A part mentén sűrűn lakott települések sorakoznak. A vasútvonal és az autópálya párhuzamosan halad a tengerrel. A közelmúltbeli konfliktusok hatással voltak a turizmusra és a kikötői forgalomra.",
+      ro: "Coasta siriană are o importanță istorică considerabilă: fenicienii au fondat aici colonii precum Arwad (insula) și Tartus (antica Antaradus). Porturile au fost vitale pentru comerțul mediteranean. În epoca cruciatelor, castelul Krak des Chevaliers domina coasta. Mlaștinile de la gura râurilor oferă habitat pentru păsări acvatice. Plajele sunt resurse turistice, dar nu toate sunt dezvoltate. Populația locală este un amestec de suniți, alauiți și creștini. Tradițiile pescărești sunt viețuite în satele de pescari.",
+      en: "The Syrian coast is a narrow strip of land along the Mediterranean Sea, stretching about 180 kilometers. It is bounded by the Al-Ansariyah mountains to the east, which intercept moisture and create a fertile coastal plain. The region has a typical Mediterranean climate with summer temperatures averaging 30°C and winter rainfall of 800 mm. Major cities include Latakia, the main port and fourth-largest city, and Tartus with its deep-water harbor. Coastal ecosystems feature sandy beaches, rocky shores, and wetlands. The area is crucial for Syria's economy through ports, tourism, and agriculture, producing citrus, olives, and vegetables.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Küstenlinie: 180 Kilometer", "Größte Stadt: Latakia, 700.000 Einwohner", "Jährliche Niederschlagsmenge: 800 mm", "Hauptausfuhrhafen: Latakia, Umschlag 10 Mio. Tonnen", "Durchschnittliche Sommertemperatur: 30°C", "Anzahl der Strände: 15 öffentlich zugängliche Strände"],
+      hu: ["Kikötői forgalom Tartuszban: 2 millió TEU évente", "Halászati termelés: 50.000 tonna évente", "Turisták száma a háború előtt: 5 millió évente", "Hotelek szobaszáma: 20.000 a parti sávban", "Vasútvonal hossza a part mentén: 150 km", "Autópálya kapacitás: 50.000 jármű naponta"],
+      ro: ["Vechimea orașului Arwad: peste 4000 ani", "Înălțimea cetății Krak des Chevaliers: 650 m", "Suprafața regiunii de coastă: 2.000 km²", "Populația: 2,5 milioane locuitori", "Lungimea plajelor: 30 km de nisip", "Numărul de colonii feniciene: 3"],
+      en: ["Coastline length: 180 km", "Maximum width of coastal plain: 30 km", "Port of Latakia capacity: 10 million tonnes per year", "Average annual rainfall: 800 mm", "Maximum elevation in coastal mountains: 1,562 m", "Number of major cities: 2 (Latakia and Tartus)"],
+    },
   },
   {
     id: "jabal-al-nabi-yunis-relief-v2",
     type: "mountain",
     parent: "SY-LA",
     coords: [36.216667, 35.583333],
-    name: { de: "Dschebel al-Nabi Yunis", hu: "Dzsebel an-Nabi Júnisz", ro: "Jabal al-Nabi Yunis", en: "Mount Nabi Yunis",
-image: "/poi-images/jabal-al-nabi-yunis-relief-v2.webp"
-},
+    name: { de: "Dschebel al-Nabi Yunis", hu: "Dzsebel an-Nabi Júnisz", ro: "Jabal al-Nabi Yunis", en: "Mount Nabi Yunis"},
+    image: "/poi-images/jabal-al-nabi-yunis-relief-v2.webp",
     description: { de: "Der Dschebel al-Nabi Yunis ist mit über 1.500 Metern der höchste Gipfel der syrischen Küstengebirgskette und bietet weite Ausblicke.", hu: "A több mint 1500 méter magas Dzsebel an-Nabi Júnisz a szíriai partvidéki hegylánc legmagasabb csúcsa, amely széles kilátást nyújt.", ro: "La peste 1.500 de metri, Jabal al-Nabi Yunis este cel mai înalt vârf din lanțul muntos de coastă sirian și oferă vederi panoramice.", en: "At over 1,500 meters, Mount Nabi Yunis is the highest peak of the Syrian coastal mountain range and offers sweeping views." },
     facts: {
       de: ["Höchster Punkt der Ansarija-Berge", "Höhe von 1.562 Metern", "Oft im Winter schneebedeckt"],
       hu: ["Az Ansarija-hegység legmagasabb pontja", "Magassága 1562 méter", "Télen gyakran hó borítja"],
       ro: ["Cel mai înalt punct din Munții Ansariyah", "Înălțime de 1.562 de metri", "Adesea acoperit de zăpadă iarna"],
       en: ["Highest point of the Ansariyah Mountains", "Elevation of 1,562 meters", "Often snow-capped in winter"]
-    }, image: "/poi-images/jabal-al-nabi-yunis-relief-v2.webp"},
+    }, image: "/poi-images/jabal-al-nabi-yunis-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Nabi Yunis (auch Berg des Propheten Jona) ist ein etwa 1.000 Meter hoher Berg im syrischen Küstengebirge, nördlich von Latakia. Er ist nach dem Propheten Jona benannt, dessen Grab sich auf dem Gipfel befinden soll und von Muslimen und Christen gleichermaßen verehrt wird. Der Berg bietet eine Aussicht auf die Küste und die Stadt Latakia. Geologisch besteht er aus Kreidekalkstein und ist von mediterraner Macchie bedeckt. Auf dem Gipfel steht eine Moschee und ein kleiner Schrein. Der Berg ist ein Ziel für Pilger und Wanderer. Die Umgebung ist von Olivenhainen und Tabakfeldern geprägt.",
+      hu: "A Jabal al-Nabi Yunis vízellátása fontos a környező települések számára. A hegy lábánál források törnek elő, melyek öntözőcsatornákon keresztül látják el a mezőgazdasági területeket. A hegyet sűrű erdő borítja, ahol vaddisznók és sakálok élnek. A természetjárók körében népszerű túraútvonalak vezetnek a csúcsra. A közelben található a Saladin-vár, amely a keresztes háborúk idejéből származik. A hegy neve a helyi hagyomány szerint Jónás prófétához kapcsolódik, akit a bibliai történetben egy bálna nyelt el.",
+      ro: "Jabal al-Nabi Yunis este venerat ca un loc sfânt de către musulmani și creștini. Conform tradiției, mormântul profetului Iona se află pe vârf. Pelerinii vizitează sanctuarul pentru a se ruga. Arhitectura mausoleului este tipic islamică, cu o cupolă albă și minaret. În fiecare an, în luna mai, se organizează un festival religios cu rugăciuni și ofrande. Locul este considerat vindecător, în special pentru boli mintale. Comunitățile locale se bucură de ospitalitatea oferită pelerinilor. Regiunea este renumită pentru mierea de munte și uleiul de măsline.",
+      en: "Mount Nabi Yunis, at about 1,000 meters, is a prominent peak in the Syrian Coastal Range, named after the prophet Jonah. It is located approximately 15 kilometers north of Latakia. The summit hosts a white-domed shrine and mosque, drawing pilgrims from diverse faiths. The mountain's limestone bedrock supports a typical Mediterranean maquis vegetation. From the top, one can see the Mediterranean Sea, the city of Latakia, and the surrounding green hills. The area is a popular spot for picnics and light hiking. Nearby villages cultivate olives and tobacco on terraced slopes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.000 Meter über dem Meeresspiegel", "Entfernung zu Latakia: 15 Kilometer nördlich", "Anzahl jährlicher Pilger: ca. 10.000", "Baujahr der Moschee auf dem Gipfel: 12. Jahrhundert", "Vegetationstyp: Mediterrane Macchie", "Mittlere jährliche Temperatur: 16°C"],
+      hu: ["Források száma a hegy lábánál: 8", "Öntözött terület: 200 hektár", "Túraútvonalak hossza: 30 km", "Vaddisznók becsült száma: 200 egyed", "Saladin-vár távolsága: 10 km", "Méztermelés évi mennyisége: 5 tonna"],
+      ro: ["Altitudinea mormântului: 980 m", "Diametrul cupolei: 6 m", "Înălțimea minaretului: 15 m", "Număr de pelerini anual: 5.000", "Vechimea sanctuarului: peste 800 ani", "Suprafața complexului religios: 2 hectare"],
+      en: ["Elevation: 1,000 m", "Prominence: 400 m", "Distance from Latakia: 15 km", "Annual visitors: 15,000", "Age of shrine: at least 800 years", "Coordinates: 35°35'N 35°50'E"],
+    },
+  },
   {
     id: "orontes-valley-relief-v2",
     type: "valley",
     parent: "SY-HM",
     coords: [36.666667, 34.916667],
-    name: { de: "Orontes-Tal", hu: "Orontész-völgy", ro: "Valea Orontes", en: "Orontes Valley",
-image: "/poi-images/orontes-valley-relief-v2.webp"
-},
+    name: { de: "Orontes-Tal", hu: "Orontész-völgy", ro: "Valea Orontes", en: "Orontes Valley"},
+    image: "/poi-images/orontes-valley-relief-v2.webp",
     description: { de: "Das Orontes-Tal durchschneidet den Westen Syriens und bildet seit Jahrtausenden eine wichtige landwirtschaftliche und kulturelle Lebensader.", hu: "Az Orontész-völgy átszeli Nyugat-Szíriát, és évezredek óta fontos mezőgazdasági és kulturális ütőérként szolgál.", ro: "Valea Orontes străbate vestul Siriei și de milenii formează o linie de viață agricolă și culturală esențială.", en: "The Orontes Valley cuts through western Syria and has formed an essential agricultural and cultural lifeline for millennia." },
     facts: {
       de: ["Wichtiges Bewässerungsgebiet", "Reichtum an archäologischen Stätten", "Prägt Städte wie Homs und Hama"],
       hu: ["Fontos öntözési terület", "Régészeti lelőhelyekben gazdag", "Olyan városokat határoz meg, mint Homsz és Hamá"],
       ro: ["Zonă importantă de irigare", "Bogată în situri arheologice", "Definește orașe precum Homs și Hama"],
       en: ["Important irrigation area", "Rich in archaeological sites", "Defines cities like Homs and Hama"]
-    }, image: "/poi-images/orontes-valley-relief-v2.webp"},
+    }, image: "/poi-images/orontes-valley-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Orontes-Tal (arab. Nahr al-Asi) erstreckt sich über rund 571 Kilometer von der Bekaa-Ebene im Libanon bis zur Mündung in die Türkei in der Nähe von Antakya. In Syrien fließt der Orontes durch wichtige Städte wie Homs, Hama und Jisr al-Shughur. Das Tal ist eine fruchtbare landwirtschaftliche Zone mit Baumwoll-, Getreide- und Zitrusanbau. Der Fluss wird intensiv für die Bewässerung genutzt, insbesondere durch die Homs-Staumauer. Die Region hat eine reiche Geschichte, mit archäologischen Stätten wie Qatna und Ebla. Das Tal ist tektonischen Ursprungs und liegt in einer Grabenzone.",
+      hu: "Az Orontész-völgy vízgazdálkodása kiemelkedő: a folyón több vízerőmű és gát található, többek között a Homsz-gát és a Rastan-gát. A völgy lakossága meghaladja az 1 millió főt. A folyó vizét öntözésre és ivóvízként hasznosítják. A halászat is jelentős, évi 2000 tonna halat fognak. A völgyben található a híres Krak des Chevaliers erőd. A terület ipari központ, textil- és élelmiszeripari üzemekkel. Összeköttetésben áll a tengerparttal és a szárazföld belsejével.",
+      ro: "Valea Orontes a fost martoră a unor bătălii istorice, inclusiv Bătălia de la Kadesh (1274 î.Hr.) dintre egipteni și hitiți. Ruinele orașului antic Qatna sunt situate aici, cu palate și temple bine conservate. În perioada cruciatelor, cavalerii au construit cetăți precum Krak des Chevaliers (sec. XII). Valea a fost un coridor strategic între Mediterana și Mesopotamia. Agricultura intensivă a transformat peisajul natural. Astăzi, o parte din zonă este protejată pentru conservarea biodiversității. Populația este predominant arabă sunnită, cu minorități creștine.",
+      en: "The Orontes Valley (Nahr al-Asi) is a major geographical feature of western Syria, running for about 250 kilometers within the country. The river originates in Lebanon and flows north, then west into Turkey. The valley is a tectonic depression filled with fertile alluvial soil, allowing intensive farming of cotton, wheat, and citrus. Major cities along the river include Homs (population 1.5 million) and Hama, famous for its norias (water wheels). The valley has numerous archaeological sites from the Bronze Age to the Crusader period. The climate is Mediterranean with hot summers and mild winters, with annual rainfall around 400 mm.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge des Orontes: 571 Kilometer", "Länge in Syrien: 250 Kilometer", "Höhe der Homs-Talsperre: 40 Meter", "Bewässerte Fläche im Tal: 500 Quadratkilometer", "Wichtigste Städte: Homs (1,5 Mio. Einwohner), Hama (1 Mio.)", "Mittlere Wassertemperatur: 18°C"],
+      hu: ["Vízerőművek száma: 4", "Éves villamosenergia-termelés: 200 GWh", "Rastan-gát tározási kapacitása: 40 millió m³", "Halászati termelés: 2000 tonna évente", "Krak des Chevaliers éves látogatói: 150.000", "Textilipari üzemek száma: 30"],
+      ro: ["Vechimea cetății Krak des Chevaliers: construită 1142–1170", "Suprafața sitului Qatna: 100 ha", "Populația orașului antic Qatna: 15.000", "Lungimea zidurilor cetății: 150 m", "Număr mori de apă tradiționale: 20", "Debitul mediu al râului: 30 m³/s"],
+      en: ["River length in Syria: 250 km", "Largest city: Homs, population 1.5 million", "Number of ancient water wheels (norias): 17 in Hama", "Crusader castle Krak des Chevaliers elevation: 650 m", "Annual rainfall in valley: 400 mm", "Cotton production: 100,000 tonnes per year"],
+    },
+  },
   {
     id: "wadi-barada-relief-v2",
     type: "valley",
     parent: "SY-RD",
     coords: [36.1, 33.616667],
-    name: { de: "Wadi Barada", hu: "Vádi Barada", ro: "Wadi Barada", en: "Wadi Barada",
-image: "/poi-images/wadi-barada-relief-v2.webp"
-},
+    name: { de: "Wadi Barada", hu: "Vádi Barada", ro: "Wadi Barada", en: "Wadi Barada"},
+    image: "/poi-images/wadi-barada-relief-v2.webp",
     description: { de: "Das Wadi Barada ist ein malerisches Gebirgstal, durch das der Fluss Barada fließt, um die Hauptstadt Damaskus mit Wasser zu versorgen.", hu: "A Vádi Barada egy festői hegyi völgy, amelyen a Barada folyó folyik keresztül, hogy ellássa vízzel a fővárost, Damaszkuszt.", ro: "Wadi Barada este o vale montană pitorească prin care curge râul Barada pentru a furniza apă capitalei Damasc.", en: "Wadi Barada is a picturesque mountain valley through which the Barada River flows to supply water to the capital, Damascus." },
     facts: {
       de: ["Wichtigste Wasserquelle für Damaskus", "Liegt im Anti-Libanon-Gebirge", "Von steilen Klippen umgeben"],
       hu: ["Damaszkusz legfontosabb vízforrása", "Az Antilibanon-hegységben található", "Meredek sziklák veszik körül"],
       ro: ["Cea mai importantă sursă de apă pentru Damasc", "Situat în Munții Anti-Liban", "Înconjurat de stânci abrupte"],
       en: ["Most important water source for Damascus", "Located in the Anti-Lebanon Mountains", "Surrounded by steep cliffs"]
-    }, image: "/poi-images/wadi-barada-relief-v2.webp"},
+    }, image: "/poi-images/wadi-barada-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Barada ist ein etwa 20 Kilometer langes Tal nordwestlich von Damaskus, durch das der Fluss Barada fließt. Der Barada ist der Hauptfluss, der die Oase von Damaskus speist. Das Tal ist eng und von steilen Felswänden umgeben. Es ist bekannt für seine historischen Wassermühlen und die antike Römerstraße, die nach Baalbek führte. Die Quellen des Barada liegen im Anti-Libanon-Gebirge. Die Region ist ein beliebtes Naherholungsgebiet mit Restaurants und Freibädern. Der Fluss ist stark reguliert, und sein Wasser wird zur Bewässerung der Ghuta-Ebene genutzt. Das Tal ist von mediterraner Vegetation und landwirtschaftlichen Terrassen geprägt.",
+      hu: "A Barada-völgy fontos ökológiai folyosó, ahol a folyóparti galériaerdők és a száraz hegyoldalak találkoznak. A völgyben található a híres Souq al-Hamidiyyehez közeli természetes forrásvidék. A terület számos madárfaj számára nyújt otthont, köztük a fehér gólyának. A völgyet veszélyezteti a városi terjeszkedés és a vízszennyezés. A helyi közösségek hagyományos öntözési módszereket alkalmaznak, például a fonócsöveket. A Barada vize egyre csökken az éghajlatváltozás miatt. A völgyben számos szabadtéri kávézó és étterem üzemel.",
+      ro: "Valea Barada a fost o rută comercială importantă încă din antichitate, legând Damascul de Marea Mediterană prin Pasul Anti-Liban. Aici se află ruinele unui apeduct roman și a unor băi termale. Numele Barada provine din aramaică și înseamnă „rece”. Valea a fost descrisă de geografii arabi medievali ca fiind luxuriantă. Astăzi, construcțiile ilegale amenință peisajul istoric. Apa râului este folosită pentru alimentarea cu apă potabilă a Damascului. Cu toate acestea, poluarea este o problemă serioasă din cauza deversărilor menajere și industriale.",
+      en: "Wadi Barada is a narrow valley northwest of Damascus, carved by the Barada River for about 20 kilometers. The river originates from springs in the Anti-Lebanon Mountains and provides water to the ancient city's oasis (Ghuta). The valley is steep-sided with picturesque cliffs, terraced gardens, and water mills. Historically, it was part of the Roman road network. Popular for leisure, the valley hosts restaurants and swimming pools along the river. The Barada's flow has diminished in recent decades due to over-extraction and climate change, causing environmental concern. The valley remains a vital water source for Damascus.",
+    },
+    factsAdvanced: {
+      de: ["Länge des Tales: 20 Kilometer", "Flusslänge des Barada: 84 Kilometer", "Anzahl historischer Wassermühlen: 12", "Höhenunterschied vom Ursprung zur Mündung: 800 Meter", "Wasserverbrauch für Damaskus: 40% des Barada-Wassers", "Anzahl der Sommerrestaurants: über 50"],
+      hu: ["Madárfajok száma: 80", "Éves vízhozam: 50 millió m³", "Terület csökkenése az urbanizáció miatt: 10% az elmúlt 20 évben", "Hagyományos öntözőrendszerek hossza: 15 km", "Fonócsövek száma: 200", "Vízszennyezés mértéke: 5 mg/l nitrát"],
+      ro: ["Lungimea apeductului roman: 10 km", "Vechimea băilor termale: secolul I d.Hr.", "Debitul izvoarelor: 10 m³/s", "Altitudinea văii: 700–1400 m", "Număr clădiri istorice: 25", "Populația din vale: 50.000"],
+      en: ["Length: 20 km", "Source elevation: 1,400 m", "River discharge: 10 m³/s", "Number of water mills: 12", "Distance from Damascus: 10 km", "Annual visitors: 200,000"],
+    },
+  },
   {
     id: "jabal-al-shumariyah-relief-v2",
     type: "mountain",
     parent: "SY-HO",
     coords: [37.333333, 34.75],
-    name: { de: "Dschebel al-Schumarija", hu: "Dzsebel as-Sumarijja", ro: "Jabal al-Shumariyah", en: "Jabal al-Shumariyah",
-image: "/poi-images/jabal-al-shumariyah-relief-v2.webp"
-},
+    name: { de: "Dschebel al-Schumarija", hu: "Dzsebel as-Sumarijja", ro: "Jabal al-Shumariyah", en: "Jabal al-Shumariyah"},
+    image: "/poi-images/jabal-al-shumariyah-relief-v2.webp",
     description: { de: "Der Dschebel al-Schumarija ist ein Gebirgszug im Gouvernement Homs, der den Übergang von fruchtbaren Ebenen zur Wüste markiert.", hu: "A Dzsebel as-Sumarijja egy hegylánc Homsz tartományban, amely a termékeny síkságok és a sivatag közötti átmenetet jelöli.", ro: "Jabal al-Shumariyah este un lanț muntos în guvernoratul Homs care marchează tranziția de la câmpiile fertile la deșert.", en: "Jabal al-Shumariyah is a mountain range in the Homs Governorate that marks the transition from fertile plains to the desert." },
     facts: {
       de: ["Östlich von Homs gelegen", "Trockenes Klima", "Dünn besiedelte Region"],
       hu: ["Homsztól keletre található", "Száraz éghajlat", "Ritkán lakott régió"],
       ro: ["Situat la est de Homs", "Climă aridă", "Regiune slab populată"],
       en: ["Located east of Homs", "Arid climate", "Sparsely populated region"]
-    }, image: "/poi-images/jabal-al-shumariyah-relief-v2.webp"},
+    }, image: "/poi-images/jabal-al-shumariyah-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Shumariyah ist ein Berg im syrischen Küstengebirge mit einer Höhe von etwa 1.200 Metern. Er liegt südwestlich von Latakia und ist Teil des Al-Ansariyah-Gebirges. Der Berg ist dicht bewaldet mit Aleppo-Kiefern und Eichen. Auf den unteren Hängen wird Olivenanbau betrieben. Die Region ist relativ dünn besiedelt. Der Gipfel bietet eine weite Aussicht auf die Küste. In der Umgebung gibt es mehrere Dörfer, die von Landwirtschaft und Tourismus leben. Der Berg ist ein beliebtes Ziel für Wanderer und Naturliebhaber. Das Klima ist mediterran mit milden Wintern und warmen Sommern.",
+      hu: "A Jabal al-Shumariyah gazdag növény- és állatvilággal rendelkezik. A hegyonlásokon ritka orchideafajok is előfordulnak. A terület természetvédelmi szempontból jelentős, de hivatalosan nem védett. A hegy lábánál található a Szíriai Tengerparti Természetvédelmi Terület határa. A vaddisznók és a szirti sasok gyakran megfigyelhetők. A helyi gazdák hagyományos módszerekkel termesztik az olajbogyót. A hegyen átvezető ösvényeket nomád pásztorok használják. A turizmus növekedésével egyre több panzió nyílik a környéken.",
+      ro: "Jabal al-Shumariyah este cunoscut pentru peșterile sale de calcar, dintre care unele au fost locuite în paleolitic. Săpăturile arheologice au scos la lumină unelte de piatră și oase de animale. Peștera „Shumariyah” are o lungime de 500 m și conține stalactite și stalagmite. A fost studiată în anii 1960 de arheologi sirieni. Regiunea oferă oportunități pentru speologie. Pădurile de pin oferă lemn de calitate, dar exploatarea forestieră este limitată. Peșterile sunt încă neamenajate pentru turism, dar atrag exploratori.",
+      en: "Jabal al-Shumariyah is a 1,200 m high mountain in the Syrian Coastal Range, located southwest of Latakia. Its slopes are covered with dense Mediterranean forest of pine and oak. The mountain is known for its biodiversity, including endemic plants and birds of prey such as the Bonelli's eagle. The area has a small number of villages practicing traditional agriculture. Limestone caves on the mountain contain prehistoric remains. The climate features mild, wet winters and dry summers. Hiking and birdwatching are popular activities. The mountain is not heavily developed, preserving its natural character.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.200 Meter", "Waldbedeckung: 80% der Fläche", "Anzahl der Vogelarten: 120", "Einwohnerzahl in den umliegenden Dörfern: 5.000", "Durchschnittlicher Olivenertrag: 2.000 Tonnen jährlich", "Anzahl der Wanderwege: 4 markierte Routen"],
+      hu: ["Orchideafajok száma: 5", "Vaddisznópopuláció: 400 egyed", "Természetvédelmi terület távolsága: 5 km", "Pásztorok száma: 300", "Panziók száma: 10", "Éves turistaszám: 5.000"],
+      ro: ["Lungimea peșterii principale: 500 m", "Vechimea uneltelor paleolitice: 30.000 ani", "Numărul de peșteri explorate: 3", "Altitudinea intrării peșterii: 800 m", "Anul primelor cercetări: 1965", "Grosimea stratului de calcar: 200 m"],
+      en: ["Elevation: 1,200 m", "Forest cover: 80%", "Bird species: 120", "Number of villages: 5", "Olive production: 2,000 tonnes/year", "Cave count: 3"],
+    },
+  },
   {
     id: "jabal-al-shaar-relief-v2",
     type: "mountain",
     parent: "SY-HO",
     coords: [37.833333, 35.166667],
-    name: { de: "Dschebel al-Schaar", hu: "Dzsebel as-Saar", ro: "Jabal al-Shaar", en: "Jabal al-Shaar",
-image: "/poi-images/jabal-al-shaar-relief-v2.webp"
-},
+    name: { de: "Dschebel al-Schaar", hu: "Dzsebel as-Saar", ro: "Jabal al-Shaar", en: "Jabal al-Shaar"},
+    image: "/poi-images/jabal-al-shaar-relief-v2.webp",
     description: { de: "Der Dschebel al-Schaar ist eine bergige Region im zentralsyrischen Wüstengebiet, die für ihre Erdgas- und Ölvorkommen bekannt ist.", hu: "A Dzsebel as-Saar egy hegyvidéki terület Közép-Szíria sivatagi régiójában, amely földgáz- és olajlelőhelyeiről ismert.", ro: "Jabal al-Shaar este o regiune muntoasă în zona deșertică din centrul Siriei, cunoscută pentru rezervele sale de gaze naturale și petrol.", en: "Jabal al-Shaar is a mountainous region in the central Syrian desert area, known for its natural gas and oil reserves." },
     facts: {
       de: ["Wichtige Gasfelder", "Strategische Bedeutung", "Raue Wüstenumgebung"],
       hu: ["Fontos gázmezők", "Stratégiai jelentőség", "Zord sivatagi környezet"],
       ro: ["Zăcăminte importante de gaze", "Importanță strategică", "Mediu deșertic aspru"],
       en: ["Important gas fields", "Strategic importance", "Harsh desert environment"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Jabal al-Shaar ist ein etwa 900 Meter hoher Berg in Zentralsyrien, östlich von Homs. Er liegt in der syrischen Wüstensteppe und ist Teil des Palmyra-Gebirges. Der Berg besteht aus Kreidekalkstein und ist stark erodiert. Die Vegetation ist spärlich, mit einzelnen Sträuchern und Gräsern. In der Umgebung gibt es mehrere römische und byzantinische Ruinen, darunter das antike Palmyra. Der Berg hat keine permanente Wasserquelle. Die Region ist dünn besiedelt, hauptsächlich von Beduinen. Das Klima ist arid mit heißen Sommern und kalten Wintern.",
+      hu: "A Jabal al-Shaar fontos régészeti lelőhely: sziklás lejtőin ókori sírkamrák és kőbányák találhatók. A környéken előkerültek a palmürai írásos emlékek. A hegy lábánál karavánutak haladtak. A területet a 20. században katonai célokra használták. Ma a hegy szélenergia-potenciálját vizsgálják. A beduin pásztorok ideiglenes táborai jellemzőek. A talajerózió a kopár lejtőkön intenzív. A hegy neve arabul „sört” jelent, ami bozótosra utal.",
+      ro: "Jabal al-Shaar se remarcă prin peisajul său deșertic și rămășițele caravanseraiurilor. A fost o oprire importantă pe ruta comercială dintre Damasc și Palmira. În secolul al XIII-lea, mongolii au trecut prin această zonă. Oaza din apropiere oferă apă sălbatică. Populația actuală trăiește din creșterea ovinelor și caprinelor, precum și din mici comerțuri. Clima extremă limitează agricultura. Resursele de apă subterană sunt rare. Locul este cunoscut pentru cerul senin și stelele strălucitoare, fiind un potențial centru de astroturism.",
+      en: "Jabal al-Shaar is a low mountain (900 m) in central Syria, part of the Palmyra mountain range. It lies in a desert steppe environment with sparse vegetation. The area has historical significance due to its proximity to Palmyra, an ancient city and UNESCO World Heritage Site. The mountain itself contains rock-cut tombs and quarries used by the Palmyrenes. Water sources are limited to seasonal wadis. The climate is arid, with less than 200 mm annual precipitation. The population is nomadic Bedouin. The region has potential for renewable energy, particularly solar and wind.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 900 Meter", "Jährlicher Niederschlag: unter 200 Millimeter", "Entfernung zu Palmyra: 30 Kilometer", "Anzahl der antiken Gräber: 15", "Durchschnittliche Sommertemperatur: 38°C", "Bevölkerungsdichte: 2 Einwohner pro Quadratkilometer"],
+      hu: ["Antik sírkamrák száma: 8", "Kőbányák száma: 5", "Az ókori feliratok száma: 20", "Szélerőmű potenciál: 500 MW", "Beduin lakosság: 1.000", "Talajeróziós ráta: 10 tonna/ha/év"],
+      ro: ["Numărul de caravanseraiuri: 3", "Distanța până la oază: 10 km", "Populația de ovine: 10.000 capete", "Altitudinea maximă: 900 m", "Nr. nopți senine pe an: 300", "Potencial solar: 5 kWh/m²/zi"],
+      en: ["Elevation: 900 m", "Annual rainfall: less than 200 mm", "Distance to Palmyra: 30 km", "Number of rock-cut tombs: 15", "Average July temperature: 38°C", "Population: approximately 2,000"],
+    },
   }
 ];

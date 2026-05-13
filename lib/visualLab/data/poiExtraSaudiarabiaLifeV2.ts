@@ -6,301 +6,539 @@ export const poiExtraSaudiarabiaLifeV2: POI[] = [
     type: "park",
     parent: "SA-01",
     coords: [46.737, 24.664],
-    name: { de: "König-Abdullah-Park", hu: "Abdullah Király Park", ro: "Parcul Regele Abdullah", en: "King Abdullah Park",
-image: "/poi-images/sa-king-abdullah-park-life-v2.webp"
-},
+    name: { de: "König-Abdullah-Park", hu: "Abdullah Király Park", ro: "Parcul Regele Abdullah", en: "King Abdullah Park"},
+    image: "/poi-images/sa-king-abdullah-park-life-v2.webp",
     description: { de: "Ein großer öffentlicher Park in Riad mit beleuchteten tanzenden Wasserfontänen und breiten Wegen.", hu: "Egy nagy nyilvános park Rijádban kivilágított zenélő szökőkutakkal és széles sétányokkal.", ro: "Un mare parc public în Riad, cu fântâni arteziene iluminate și alei largi.", en: "A large public park in Riyadh featuring illuminated dancing water fountains and wide walkways." },
     facts: {
       de: ["Wurde 2013 eröffnet.", "Verfügt über einen 12 Meter breiten Fußgängerweg.", "Bietet regelmäßige Licht- und Wassershows."],
       hu: ["2013-ban nyitották meg.", "Egy 12 méter széles gyalogos sétány található itt.", "Rendszeres fény- és vízishow-kat tartanak."],
       ro: ["A fost deschis în 2013.", "Are o alee pietonală lată de 12 metri.", "Găzduiește spectacole regulate de lumini și apă."],
       en: ["Opened to the public in 2013.", "Features a 12-meter-wide pedestrian walkway.", "Hosts regular light and water fountain shows."]
-    }, image: "/poi-images/sa-king-abdullah-park-life-v2.webp"},
+    }, image: "/poi-images/sa-king-abdullah-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der König-Abdullah-Park in Dammam, Saudi-Arabien, ist einer der größten Stadtparks der Region. Er erstreckt sich über 3,5 Quadratkilometer und bietet zahlreiche Freizeitmöglichkeiten. Der Park verfügt über einen künstlichen See mit Springbrunnen, Spazierwege, Spielplätze und öffentliche Grünflächen. Er wurde nach König Abdullah ibn Abd al-Aziz benannt und 2005 eröffnet. Der Park ist ein beliebtes Ziel für Familien und bietet Veranstaltungen wie Konzerte und Festivals. Die Landschaftsgestaltung umfasst einheimische Pflanzen und moderne Bewässerungssysteme. Es gibt auch Sportplätze und einen Bereich für Fitnessgeräte. Der Park ist Teil der städtischen Grünflächeninitiative der Stadt Dammam. Er bietet eine Oase der Ruhe im städtischen Raum. Nachts werden die Springbrunnen beleuchtet. Der Park fördert die Erholung und soziale Interaktion.",
+      hu: "A Abdullah király park Dammamban, Szaúd-Arábiában, a régió egyik legnagyobb városi parkja. Területe 3,5 négyzetkilométer, és számos szabadidős lehetőséget kínál. A parkban mesterséges tó található szökőkutakkal, sétányok, játszóterek és nyilvános zöldterületek. A parkot Abdullah ibn Abd al-Aziz királyról nevezték el, és 2005-ben nyitották meg. A park népszerű családi célpont, rendezvények, például koncertek és fesztiválok helyszíne. A tájépítészet őshonos növényeket és modern öntözőrendszereket alkalmaz. Sportpályák és fitneszeszközök is rendelkezésre állnak. A park része Dammam város zöldterületi kezdeményezésének. Békés oázist nyújt a városi környezetben. Éjszaka a szökőkutak meg vannak világítva. A park elősegíti a kikapcsolódást és a társas érintkezést.",
+      ro: "Parcul King Abdullah din Dammam, Arabia Saudită, este unul dintre cele mai mari parcuri urbane din regiune. Se întinde pe 3,5 kilometri pătrați și oferă numeroase facilități de agrement. Parcul are un lac artificial cu fântâni, alei, locuri de joacă și spații verzi publice. A fost numit după regele Abdullah ibn Abd al-Aziz și deschis în 2005. Parcul reprezintă o destinație populară pentru familii, găzduind evenimente precum concerte și festivaluri. Amenajarea peisagistică include plante native și sisteme moderne de irigații. De asemenea, există terenuri de sport și echipamente de fitness. Parcul face parte din inițiativa de spații verzi a orașului Dammam. Oferă o oază de liniște în mediul urban. Noaptea, fântânile sunt iluminate. Parcul promovează relaxarea și interacțiunea socială.",
+      en: "King Abdullah Park in Dammam, Saudi Arabia, is one of the region's largest urban parks, covering 3.5 square kilometers. It features an artificial lake with fountains, walking paths, playgrounds, and public green spaces. Named after King Abdullah bin Abdulaziz, it opened in 2005. The park is a popular family destination, hosting events like concerts and festivals. Landscaping incorporates native plants and modern irrigation systems. Sports fields and fitness equipment are available. The park is part of Dammam's urban green space initiative. It offers a peaceful oasis in the city. Fountains are illuminated at night. The park encourages recreation and social interaction.",
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über 3,5 Quadratkilometer.", "Der künstliche See hat eine Fläche von 40.000 Quadratmetern.", "Der Park wurde 2005 eröffnet.", "Es gibt mehr als 2.000 Bäume im Park.", "Die Springbrunnen erreichen eine Höhe von bis zu 30 Metern.", "Der Park verfügt über 5 Kilometer lange Spazierwege."],
+      hu: ["A park területe 3,5 négyzetkilométer.", "A mesterséges tó területe 40.000 négyzetméter.", "A parkot 2005-ben nyitották meg.", "Több mint 2.000 fa található a parkban.", "A szökőkutak akár 30 méter magasra is lövellnek.", "A parkban 5 kilométernyi sétány van."],
+      ro: ["Parcul se întinde pe 3,5 kilometri pătrați.", "Lacul artificial are o suprafață de 40.000 de metri pătrați.", "Parcul a fost deschis în 2005.", "Există peste 2.000 de copaci în parc.", "Fântânile ating o înălțime de până la 30 de metri.", "Parcul are 5 kilometri de alei."],
+      en: ["The park covers 3.5 square kilometers.", "The artificial lake spans 40,000 square meters.", "The park opened in 2005.", "There are over 2,000 trees in the park.", "The fountains reach up to 30 meters in height.", "The park has 5 kilometers of walking paths."],
+    },
+  },
   {
     id: "sa-salam-park-life-v2",
     type: "park",
     parent: "SA-01",
     coords: [46.711, 24.627],
-    name: { de: "Salam-Park", hu: "Szalám Park", ro: "Parcul Salam", en: "Salam Park",
-image: "/poi-images/sa-salam-park-life-v2.webp"
-},
+    name: { de: "Salam-Park", hu: "Szalám Park", ro: "Parcul Salam", en: "Salam Park"},
+    image: "/poi-images/sa-salam-park-life-v2.webp",
     description: { de: "Eine grüne Oase im Herzen von Riad mit einem großen künstlichen See und Palmenhainen.", hu: "Egy zöld oázis Rijád szívében, nagy mesterséges tóval és pálmafaligetekkel.", ro: "O oază verde în inima Riadului, cu un mare lac artificial și crânguri de palmieri.", en: "A green oasis in the heart of Riyadh featuring a large artificial lake and palm groves." },
     facts: {
       de: ["Der künstliche See umfasst 33.000 Quadratmeter.", "Etwa 1000 Dattelpalmen wachsen im Park.", "Bietet Bootsfahrten auf dem See an."],
       hu: ["A mesterséges tó 33 000 négyzetméteres.", "Körülbelül 1000 datolyapálma nő a parkban.", "Csónakázási lehetőség is van a tavon."],
       ro: ["Lacul artificial acoperă 33.000 de metri pătrați.", "Aproximativ 1000 de palmieri de curmale cresc în parc.", "Oferă plimbări cu barca pe lac."],
       en: ["The artificial lake covers 33,000 square meters.", "Around 1000 date palms grow in the park.", "Offers boat rides on the lake."]
-    }, image: "/poi-images/sa-salam-park-life-v2.webp"},
+    }, image: "/poi-images/sa-salam-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Salam Park in Riad, Saudi-Arabien, ist ein urbaner Erholungspark. Er liegt im Stadtteil Al-Malaz und wurde 2014 renoviert. Der Park bietet einen großen See mit Wasserfontänen, grüne Rasenflächen und Sitzgelegenheiten. Er ist bekannt für seine abendlichen Lichtshows mit Musik. Der Park verfügt über Spazierwege, einen Kinderspielplatz und Cafés. Die Gestaltung verbindet moderne Elemente mit traditionellen arabischen Gärten. Der See wird zur Bewässerung der Pflanzen genutzt. Der Salam Park ist ein beliebter Treffpunkt für Einheimische, besonders abends. Er bietet eine Fläche von etwa 25 Hektar. Die Fontänen sind farbig beleuchtet. Der Park fördert die Gemeinschaft und das Wohlbefinden. Er wurde nach dem Frieden (Salam) benannt, um eine ruhige Atmosphäre zu schaffen.",
+      hu: "A Salam Park Rijádban, Szaúd-Arábiában, egy városi rekreációs park. Az Al-Malaz negyedben található, és 2014-ben újították fel. A parkban nagy tó található vízsugarakkal, zöld pázsitok és ülőhelyek. Híres esti fényjátékairól zenével. A parkban sétányok, gyermekjátszótér és kávézók vannak. A kialakítás modern elemeket ötvöz a hagyományos arab kertekkel. A tavat a növények öntözésére használják. A Salam Park népszerű találkozóhely a helyiek számára, különösen esténként. Területe körülbelül 25 hektár. A vízsugarak színesen meg vannak világítva. A park elősegíti a közösséget és a jóllétet. A nevét a békéről (szalam) kapta, hogy nyugodt légkört teremtsen.",
+      ro: "Parcul Salam din Riad, Arabia Saudită, este un parc urban de recreere. Situat în cartierul Al-Malaz, a fost renovat în 2014. Parcul are un lac mare cu fântâni de apă, gazon verde și locuri de ședere. Este renumit pentru spectacolele de lumini cu muzică seara. Parcul oferă alei, un loc de joacă pentru copii și cafenele. Designul îmbină elemente moderne cu grădini arabe tradiționale. Lacul este folosit pentru irigarea plantelor. Parcul Salam este un loc popular de întâlnire pentru localnici, mai ales seara. Se întinde pe aproximativ 25 de hectare. Fântânile sunt iluminate colorat. Parcul promovează comunitatea și bunăstarea. A fost numit după pace (salam) pentru a crea o atmosferă liniștită.",
+      en: "Salam Park in Riyadh, Saudi Arabia, is an urban recreational park located in the Al-Malaz district, renovated in 2014. It features a large lake with water fountains, green lawns, and seating areas. The park is famous for evening light shows synchronized with music. Amenities include walking paths, a children's playground, and cafes. The design blends modern elements with traditional Arabic garden concepts. The lake water is used for irrigation. A popular local hangout especially in the evenings, it covers about 25 hectares. The fountains are colorfully illuminated. The park promotes community and well-being. Its name 'Salam' means peace, reflecting its tranquil atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über 25 Hektar.", "Der See hat eine Tiefe von bis zu 2 Metern.", "Die Renovierung kostete etwa 20 Millionen Saudi-Riyal.", "Es gibt über 500 Sitzbänke im Park.", "Die Lichtshows beginnen täglich um 20 Uhr.", "Der Park beherbergt mehr als 100 verschiedene Pflanzenarten."],
+      hu: ["A park területe 25 hektár.", "A tó mélysége elérheti a 2 métert.", "A felújítás körülbelül 20 millió szaúdi riálba került.", "A parkban több mint 500 pad található.", "A fényjátékok naponta 20:00-kor kezdődnek.", "A park több mint 100 különböző növényfajnak ad otthont."],
+      ro: ["Parcul se întinde pe 25 de hectare.", "Lacul are o adâncime de până la 2 metri.", "Renovarea a costat aproximativ 20 de milioane de riyali saudiți.", "Există peste 500 de bănci în parc.", "Spectacolele de lumini încep zilnic la ora 20:00.", "Parcul găzduiește peste 100 de specii de plante."],
+      en: ["The park covers 25 hectares.", "The lake reaches a depth of up to 2 meters.", "Renovation cost about 20 million Saudi Riyals.", "There are over 500 benches in the park.", "Light shows start daily at 8 PM.", "The park hosts more than 100 plant species."],
+    },
+  },
   {
     id: "sa-al-hada-rose-farms-life-v2",
     type: "agriculture",
     parent: "SA-02",
     coords: [40.320, 21.326],
-    name: { de: "Rosenfarmen von Al-Hada", hu: "Al-Hada rózsafarmok", ro: "Fermele de trandafiri din Al Hada", en: "Al Hada Rose Farms",
-image: "/poi-images/sa-al-hada-rose-farms-life-v2.webp"
-},
+    name: { de: "Rosenfarmen von Al-Hada", hu: "Al-Hada rózsafarmok", ro: "Fermele de trandafiri din Al Hada", en: "Al Hada Rose Farms"},
+    image: "/poi-images/sa-al-hada-rose-farms-life-v2.webp",
     description: { de: "Terrassenförmige Blumenfelder in den Bergen, die für die Produktion des berühmten Taif-Rosenwassers bekannt sind.", hu: "Teraszos virágföldek a hegyekben, amelyek a híres taifi rózsavíz előállításáról ismertek.", ro: "Câmpuri de flori în terase, în munți, faimoase pentru producția de apă de trandafiri de Taif.", en: "Terraced flower fields in the mountains known for producing the famous Taif rose water." },
     facts: {
       de: ["Produziert jährlich Millionen von Rosen.", "Die Erntezeit ist meist im April.", "Aus den Rosen wird auch hochwertiges Parfümöl gewonnen."],
       hu: ["Évente több millió rózsát termelnek itt.", "A betakarítási szezon általában áprilisban van.", "A rózsákból kiváló minőségű parfümolajat is készítenek."],
       ro: ["Produce milioane de trandafiri anual.", "Sezonul de recoltare este de obicei în aprilie.", "Din trandafiri se obține și ulei de parfum de înaltă calitate."],
       en: ["Produces millions of roses annually.", "Harvest season usually peaks in April.", "The roses are also used to make high-quality perfume oil."]
-    }, image: "/poi-images/sa-al-hada-rose-farms-life-v2.webp"},
+    }, image: "/poi-images/sa-al-hada-rose-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Hada-Rosenfarmen befinden sich in den Bergen von Taif, Saudi-Arabien, auf einer Höhe von etwa 2.000 Metern. Taif ist bekannt für den Anbau von Rosen, insbesondere der Sorte Taif-Rose (Rosa damascena). Die Rosen werden hauptsächlich zur Herstellung von Rosenwasser, Parfüm und Ölen verwendet. Die Erntezeit ist im Frühjahr, wenn die Täler in Rosa und Rot erstrahlen. Die Farmen nutzen traditionelle Anbaumethoden, die seit Jahrhunderten weitergegeben werden. Taif ist eines der wichtigsten Rosenanbaugebiete der arabischen Welt. Die Rosenproduktion spielt eine bedeutende Rolle in der lokalen Wirtschaft. Besucher können die Felder besichtigen und die Destillation von Rosenöl erleben. Die Rosen sind bekannt für ihren starken Duft. Al-Hada bietet Aussichtspunkte über die Berge. Die Rosenfarmen sind ein Symbol für die landwirtschaftliche Vielfalt der Region.",
+      hu: "Az Al-Hada rózsafarmok Taif hegyvidékén, Szaúd-Arábiában, körülbelül 2.000 méter tengerszint feletti magasságban találhatók. Taif híres a rózsatermesztésről, különösen a Taif-rózsáról (Rosa damascena). A rózsákat elsősorban rózsavíz, parfüm és olajok előállítására használják. A betakarítás tavasszal történik, amikor a völgyek rózsaszínben és vörösben pompáznak. A farmok hagyományos termesztési módszereket alkalmaznak, amelyeket évszázadok óta adnak tovább. Taif az arab világ egyik legjelentősebb rózsatermesztő régiója. A rózsatermelés fontos szerepet játszik a helyi gazdaságban. A látogatók megtekinthetik a mezőket és a rózsaolaj lepárlásának folyamatát. A rózsák erős illatukról ismertek. Al-Hada kilátópontokat kínál a hegyekre. A rózsafarmok a régió mezőgazdasági sokszínűségének szimbólumai.",
+      ro: "Fermele de trandafiri Al-Hada sunt situate în munții Taif, Arabia Saudită, la o altitudine de aproximativ 2.000 de metri. Taif este renumit pentru cultivarea trandafirilor, în special a soiului Taif (Rosa damascena). Trandafirii sunt folosiți în principal pentru producerea de apă de trandafiri, parfumuri și uleiuri. Recoltarea are loc primăvara, când văile se colorează în roz și roșu. Fermele folosesc metode tradiționale de cultivare transmise de secole. Taif este una dintre cele mai importante zone de cultivare a trandafirilor din lumea arabă. Producția de trandafiri joacă un rol semnificativ în economia locală. Vizitatorii pot vizita câmpurile și asista la distilarea uleiului de trandafiri. Trandafirii sunt cunoscuți pentru parfumul lor puternic. Al-Hada oferă puncte de belvedere asupra munților. Fermele sunt un simbol al diversității agricole a regiunii.",
+      en: "Al Hada Rose Farms are located in the mountains of Taif, Saudi Arabia, at an elevation of about 2,000 meters. Taif is famous for rose cultivation, especially the Taif rose (Rosa damascena). The roses are primarily used for making rose water, perfume, and oils. Harvest occurs in spring when the valleys bloom in pink and red. The farms employ traditional methods passed down for centuries. Taif is one of the most important rose-growing regions in the Arab world. Rose production plays a significant role in the local economy. Visitors can tour the fields and see rose oil distillation. The roses are known for their strong fragrance. Al Hada offers viewpoints over the mountains. The rose farms symbolize the region's agricultural diversity.",
+    },
+    factsAdvanced: {
+      de: ["Die Farmen liegen auf etwa 2.000 Metern Höhe.", "Jährlich werden über 300 Millionen Rosenblüten geerntet.", "Die Erntezeit dauert von März bis Mai.", "Es gibt über 700 Rosenfarmen in der Region Taif.", "Ein Liter Rosenöl benötigt etwa 40.000 Rosenblüten.", "Die Taif-Rose wird seit dem 16. Jahrhundert kultiviert."],
+      hu: ["A farmok körülbelül 2.000 méter magasságban találhatók.", "Évente több mint 300 millió rózsavirágot takarítanak be.", "A betakarítás márciustól májusig tart.", "Több mint 700 rózsafarm található Taif régióban.", "Egy liter rózsaolaj előállításához körülbelül 40.000 rózsavirág szükséges.", "A Taif-rózsát a 16. század óta termesztik."],
+      ro: ["Fermele sunt situate la aproximativ 2.000 de metri altitudine.", "Anual se recoltează peste 300 de milioane de flori de trandafir.", "Sezonul de recoltare durează din martie până în mai.", "Există peste 700 de ferme de trandafiri în regiunea Taif.", "Un litru de ulei de trandafiri necesită aproximativ 40.000 de flori.", "Trandafirul Taif este cultivat din secolul al XVI-lea."],
+      en: ["The farms are at an elevation of approximately 2,000 meters.", "Over 300 million rose blossoms are harvested annually.", "Harvest season runs from March to May.", "There are over 700 rose farms in the Taif region.", "One liter of rose oil requires about 40,000 rose petals.", "The Taif rose has been cultivated since the 16th century."],
+    },
+  },
   {
     id: "sa-fakieh-aquarium-life-v2",
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.112, 21.574],
-    name: { de: "Fakieh-Aquarium", hu: "Fakieh Akvárium", ro: "Acvariul Fakieh", en: "Fakieh Aquarium",
-image: "/poi-images/sa-fakieh-aquarium-life-v2.webp"
-},
+    name: { de: "Fakieh-Aquarium", hu: "Fakieh Akvárium", ro: "Acvariul Fakieh", en: "Fakieh Aquarium"},
+    image: "/poi-images/sa-fakieh-aquarium-life-v2.webp",
     description: { de: "Das einzige öffentliche Aquarium in Saudi-Arabien, das Meeresbewohner des Roten Meeres zeigt.", hu: "Szaúd-Arábia egyetlen nyilvános akváriuma, amely a Vörös-tenger tengeri élővilágát mutatja be.", ro: "Singurul acvariu public din Arabia Saudită, care prezintă viața marină a Mării Roșii.", en: "The only public aquarium in Saudi Arabia showcasing the marine life of the Red Sea." },
     facts: {
       de: ["Beherbergt über 200 Meeresarten.", "Bietet tägliche Delfin- und Seelöwenshows.", "Verfügt über einen Tunnel für Unterwasser-Sicht."],
       hu: ["Több mint 200 tengeri fajnak ad otthont.", "Napi delfin- és oroszlánfókashow-kat tartanak.", "Egy víz alatti nézőalagúttal is rendelkezik."],
       ro: ["Găzduiește peste 200 de specii marine.", "Oferă spectacole zilnice cu delfini și lei de mare.", "Dispune de un tunel cu vedere subacvatică."],
       en: ["Houses over 200 marine species.", "Offers daily dolphin and sea lion shows.", "Features an underwater viewing tunnel."]
-    }, image: "/poi-images/sa-fakieh-aquarium-life-v2.webp"},
+    }, image: "/poi-images/sa-fakieh-aquarium-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Fakieh Aquarium in Dschidda, Saudi-Arabien, ist eines der größten Aquarien im Nahen Osten. Es wurde 2002 eröffnet und liegt am Roten Meer. Das Aquarium beherbergt über 200 Meeresarten, darunter Haie, Rochen und Korallen. Es gibt einen 11 Meter langen Unterwassertunnel, durch den Besucher die Meereswelt beobachten können. Die Einrichtung dient auch der Forschung und Bildung. Es werden täglich Fütterungsshows für Haie und Robben veranstaltet. Das Aquarium ist Teil des Fakieh-Aquarium-Erlebniszentrums, das auch ein Delfinarium umfasst. Das Delfinarium bietet Shows und Schwimmprogramme mit Delfinen. Das Aquarium fördert den Umweltschutz und das Bewusstsein für das marine Ökosystem des Roten Meeres. Es ist ein beliebtes Ausflugsziel für Familien und Touristen. Die Anlage umfasst 4.000 Quadratmeter Ausstellungsfläche.",
+      hu: "A Fakieh Akvárium Dzsiddában, Szaúd-Arábiában, a Közel-Kelet egyik legnagyobb akváriuma. 2002-ben nyílt meg, és a Vörös-tenger partján fekszik. Az akvárium több mint 200 tengeri fajnak ad otthont, köztük cápáknak, rájáknak és koralloknak. Van egy 11 méter hosszú víz alatti alagút, ahol a látogatók megfigyelhetik a tengeri élővilágot. A létesítmény kutatási és oktatási célokat is szolgál. Naponta tartanak cápa- és fókabemutatókat. Az akvárium a Fakieh Aquarium Experience Center része, amely egy delfináriumot is magában foglal. A delfináriumban műsorok és úszási programok vannak delfinekkel. Az akvárium elősegíti a környezetvédelmet és a Vörös-tenger tengeri ökoszisztémájával kapcsolatos tudatosságot. Népszerű kirándulóhely családok és turisták számára. A létesítmény 4.000 négyzetméteres kiállítóteret foglal magában.",
+      ro: "Acvariul Fakieh din Jeddah, Arabia Saudită, este unul dintre cele mai mari acvarii din Orientul Mijlociu. A fost deschis în 2002 și se află pe malul Mării Roșii. Acvariul găzduiește peste 200 de specii marine, inclusiv rechini, raze și corali. Există un tunel subacvatic de 11 metri lungime prin care vizitatorii pot observa viața marină. Facilitatea servește și scopurilor de cercetare și educație. Zilnic au loc spectacole cu hrănirea rechinilor și focilor. Acvariul face parte din Centrul de Experiență Fakieh Aquarium, care include și un delfinariu. Delfinariul oferă spectacole și programe de înot cu delfinii. Acvariul promovează conservarea mediului și conștientizarea ecosistemului marin al Mării Roșii. Este o destinație populară pentru familii și turiști. Facilitatea se întinde pe 4.000 de metri pătrați de spațiu expozițional.",
+      en: "Fakieh Aquarium in Jeddah, Saudi Arabia, is one of the largest aquariums in the Middle East. Opened in 2002, it is located on the Red Sea coast. The aquarium houses over 200 marine species, including sharks, rays, and corals. A 11-meter underwater tunnel allows visitors to observe marine life. The facility also serves research and educational purposes. Daily feeding shows for sharks and seals are conducted. The aquarium is part of the Fakieh Aquarium Experience Center, which includes a dolphinarium. The dolphinarium offers shows and swimming programs with dolphins. The aquarium promotes environmental conservation and awareness of the Red Sea marine ecosystem. It is a popular attraction for families and tourists. The facility spans 4,000 square meters of exhibition space.",
+    },
+    factsAdvanced: {
+      de: ["Das Aquarium wurde 2002 eröffnet.", "Der Unterwassertunnel ist 11 Meter lang.", "Es gibt über 200 Arten im Aquarium.", "Das Delfinarium hat eine Kapazität von 1.000 Besuchern.", "Das Aquarium beherbergt 30 Haie verschiedener Arten.", "Die Anlage umfasst 4.000 Quadratmeter Ausstellungsfläche."],
+      hu: ["Az akváriumot 2002-ben nyitották meg.", "A víz alatti alagút 11 méter hosszú.", "Több mint 200 faj található az akváriumban.", "A delfinárium 1.000 fő befogadására alkalmas.", "Az akvárium 30 különböző fajú cápának ad otthont.", "A létesítmény 4.000 négyzetméteres kiállítóterülettel rendelkezik."],
+      ro: ["Acvariul a fost deschis în 2002.", "Tunelul subacvatic are 11 metri lungime.", "Există peste 200 de specii în acvariu.", "Delfinariul are o capacitate de 1.000 de vizitatori.", "Acvariul găzduiește 30 de rechini de diferite specii.", "Facilitatea se întinde pe 4.000 de metri pătrați de spațiu expozițional."],
+      en: ["The aquarium opened in 2002.", "The underwater tunnel is 11 meters long.", "There are over 200 species in the aquarium.", "The dolphinarium has a capacity of 1,000 visitors.", "The aquarium houses 30 sharks of various species.", "The facility spans 4,000 square meters of exhibition space."],
+    },
+  },
   {
     id: "sa-al-shallal-theme-park-life-v2",
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.111, 21.579],
-    name: { de: "Al-Shallal-Themenpark", hu: "Al-Shallal Vidámpark", ro: "Parcul de distracții Al Shallal", en: "Al Shallal Theme Park",
-image: "/poi-images/sa-al-shallal-theme-park-life-v2.webp"
-},
+    name: { de: "Al-Shallal-Themenpark", hu: "Al-Shallal Vidámpark", ro: "Parcul de distracții Al Shallal", en: "Al Shallal Theme Park"},
+    image: "/poi-images/sa-al-shallal-theme-park-life-v2.webp",
     description: { de: "Ein großer Vergnügungspark an der Corniche von Dschidda mit Achterbahnen und einer Eisbahn.", hu: "Egy nagy vidámpark Dzsidda tengerparti sétányán, hullámvasutakkal és jégpályával.", ro: "Un mare parc de distracții pe faleza din Jeddah, cu montagne russe și un patinoar.", en: "A large amusement park on the Jeddah Corniche featuring roller coasters and an ice rink." },
     facts: {
       de: ["Zieht jährlich etwa eine Million Besucher an.", "Verfügt über eine der größten Achterbahnen Asiens.", "Hat einen speziellen Themenbereich für den Amazonas."],
       hu: ["Évente körülbelül egymillió látogatót vonz.", "Ázsia egyik legnagyobb hullámvasútja található itt.", "Egy speciális Amazonas tematikus zónával rendelkezik."],
       ro: ["Atrage aproximativ un milion de vizitatori anual.", "Găzduiește una dintre cele mai mari montagne russe din Asia.", "Are o zonă tematică specială pentru Amazon."],
       en: ["Attracts around one million visitors annually.", "Features one of the largest roller coasters in Asia.", "Has a special Amazon jungle-themed area."]
-    }, image: "/poi-images/sa-al-shallal-theme-park-life-v2.webp"},
+    }, image: "/poi-images/sa-al-shallal-theme-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Shallal-Themenpark in Dschidda, Saudi-Arabien, ist ein Freizeitpark an der Küste des Roten Meeres. Er wurde 2008 eröffnet und bietet eine Vielzahl von Fahrgeschäften und Unterhaltungsmöglichkeiten. Der Park verfügt über eine Achterbahn, ein Riesenrad, einen See mit Tretbooten und mehrere Restaurants. Er ist bekannt für seine nächtlichen Laser- und Lichtshows. Der Park erstreckt sich über eine Fläche von etwa 100.000 Quadratmetern. Er ist in verschiedene Zonen unterteilt, darunter einen Bereich für Kinder und einen für Adrenalin-Junkies. Al-Shallal ist ein beliebtes Ziel für Familien und Jugendliche. Der Park veranstaltet auch kulturelle Events und Konzerte. Die Architektur ist inspiriert von traditioneller arabischer Baukunst. Der Park liegt in der Nähe der Jeddah Corniche. Er trägt zur touristischen Attraktivität der Stadt bei.",
+      hu: "Az Al-Shallal vidámpark Dzsiddában, Szaúd-Arábiában, a Vörös-tenger partján található. 2008-ban nyílt meg, és számos vidámparki játékot és szórakozási lehetőséget kínál. A parkban hullámvasút, óriáskerék, tó vízibiciklikkel és több étterem található. Híres éjszakai lézer- és fényshow-jairól. A park területe körülbelül 100.000 négyzetméter. Különböző zónákra oszlik, köztük gyermekek és adrenalinfüggők számára. Al-Shallal népszerű célpont családok és fiatalok számára. A park kulturális eseményeknek és koncerteknek is otthont ad. Az építészetet a hagyományos arab építészet ihlette. A park a Dzsiddai Corniche közelében található. Hozzájárul a város turisztikai vonzerejéhez.",
+      ro: "Parcul tematic Al-Shallal din Jeddah, Arabia Saudită, este un parc de distracții situat pe coasta Mării Roșii. A fost deschis în 2008 și oferă o varietate de atracții și divertisment. Parcul are un roller coaster, o roată panoramică, un lac cu bărci cu pedale și mai multe restaurante. Este renumit pentru spectacolele nocturne cu lasere și lumini. Parcul se întinde pe aproximativ 100.000 de metri pătrați. Este împărțit în diferite zone, inclusiv una pentru copii și una pentru iubitorii de senzații tari. Al-Shallal este o destinație populară pentru familii și tineri. Parcul găzduiește, de asemenea, evenimente culturale și concerte. Arhitectura este inspirată de arhitectura tradițională arabă. Parcul este situat lângă Corniche Jeddah. Contribuie la atractivitatea turistică a orașului.",
+      en: "Al Shallal Theme Park in Jeddah, Saudi Arabia, is an amusement park located on the Red Sea coast. Opened in 2008, it offers a variety of rides and entertainment options. The park features a roller coaster, a Ferris wheel, a lake with paddle boats, and several restaurants. It is known for its nightly laser and light shows. The park covers approximately 100,000 square meters. It is divided into different zones, including areas for children and thrill-seekers. Al Shallal is a popular destination for families and youth. The park also hosts cultural events and concerts. Architecture is inspired by traditional Arab design. The park is near Jeddah Corniche. It contributes to the city's tourist appeal.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2008 eröffnet.", "Die Fläche beträgt etwa 100.000 Quadratmeter.", "Das Riesenrad hat einen Durchmesser von 60 Metern.", "Die Achterbahn erreicht eine Höhe von 30 Metern.", "Der See ist 5.000 Quadratmeter groß.", "Der Park bietet über 20 Fahrgeschäfte."],
+      hu: ["A parkot 2008-ban nyitották meg.", "Területe körülbelül 100.000 négyzetméter.", "Az óriáskerék átmérője 60 méter.", "A hullámvasút magassága 30 méter.", "A tó területe 5.000 négyzetméter.", "A park több mint 20 játékot kínál."],
+      ro: ["Parcul a fost deschis în 2008.", "Suprafața este de aproximativ 100.000 de metri pătrați.", "Roata panoramică are un diametru de 60 de metri.", "Roller coasterul atinge o înălțime de 30 de metri.", "Lacul are 5.000 de metri pătrați.", "Parcul oferă peste 20 de atracții."],
+      en: ["The park opened in 2008.", "The area is about 100,000 square meters.", "The Ferris wheel has a diameter of 60 meters.", "The roller coaster reaches a height of 30 meters.", "The lake covers 5,000 square meters.", "The park offers over 20 rides."],
+    },
+  },
   {
     id: "sa-riyadh-zoo-life-v2",
     type: "kid-friendly",
     parent: "SA-01",
     coords: [46.735, 24.673],
-    name: { de: "Zoo von Riad", hu: "Rijádi Állatkert", ro: "Grădina Zoologică din Riad", en: "Riyadh Zoo",
-image: "/poi-images/sa-riyadh-zoo-life-v2.webp"
-},
+    name: { de: "Zoo von Riad", hu: "Rijádi Állatkert", ro: "Grădina Zoologică din Riad", en: "Riyadh Zoo"},
+    image: "/poi-images/sa-riyadh-zoo-life-v2.webp",
     description: { de: "Der größte und älteste Zoo in Saudi-Arabien mit einer Vielzahl exotischer und heimischer Tiere.", hu: "Szaúd-Arábia legnagyobb és legrégebbi állatkertje, egzotikus és hazai állatok széles választékával.", ro: "Cea mai mare și mai veche grădină zoologică din Arabia Saudită, cu o varietate de animale exotice și native.", en: "The largest and oldest zoo in Saudi Arabia, housing a wide variety of exotic and native animals." },
     facts: {
       de: ["Wurde 1957 ursprünglich für die königliche Familie gegründet.", "Beherbergt über 1500 Tiere aus 40 Arten.", "Erstreckt sich über eine Fläche von 55 Hektar."],
       hu: ["1957-ben alapították, eredetileg a királyi család számára.", "Több mint 1500 állatnak ad otthont 40 fajból.", "55 hektáros területen fekszik."],
       ro: ["A fost fondată inițial în 1957 pentru familia regală.", "Găzduiește peste 1500 de animale din 40 de specii.", "Se întinde pe o suprafață de 55 de hectare."],
       en: ["Originally founded in 1957 for the royal family.", "Houses over 1500 animals from 40 species.", "Covers an area of 55 hectares."]
-    }, image: "/poi-images/sa-riyadh-zoo-life-v2.webp"},
+    }, image: "/poi-images/sa-riyadh-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoo von Riad in Saudi-Arabien ist einer der ältesten und größten Zoos der arabischen Halbinsel. Er wurde 1987 eröffnet und erstreckt sich über 23 Hektar. Der Zoo beherbergt über 1.500 Tiere aus mehr als 200 Arten, darunter Löwen, Tiger, Giraffen und Affen. Die Anlage ist in geografische Zonen unterteilt, die die natürlichen Lebensräume der Tiere nachbilden. Der Zoo legt Wert auf Artenschutz und Bildung. Es gibt ein Reptilienhaus, ein Vogelhaus und einen Streichelzoo. Der Zoo ist ein beliebtes Ausflugsziel für Familien und Schulklassen. Er bietet auch Picknickplätze und Spielplätze. Der Zoo hat eine eigene Tierklinik für die medizinische Versorgung der Tiere. In den letzten Jahren wurden die Gehege modernisiert, um den Tieren mehr Platz zu bieten. Der Zoo spielt eine Rolle bei der Erhaltung bedrohter Arten in Saudi-Arabien.",
+      hu: "A rijádi állatkert Szaúd-Arábiában az Arab-félsziget egyik legrégebbi és legnagyobb állatkertje. 1987-ben nyitották meg, és 23 hektáron terül el. Az állatkert több mint 1.500 állatnak ad otthont, több mint 200 fajból, köztük oroszlánok, tigrisek, zsiráfok és majmok. A létesítmény földrajzi zónákra van osztva, amelyek az állatok természetes élőhelyét utánozzák. Az állatkert hangsúlyt fektet a természetvédelemre és az oktatásra. Van hüllőház, madárház és simogató állatkert. Az állatkert népszerű kirándulóhely családok és iskolai csoportok számára. Piknikezőhelyeket és játszótereket is kínál. Az állatkert saját állatkórházzal rendelkezik az állatok orvosi ellátására. Az elmúlt években a kifutókat korszerűsítették, hogy több helyet biztosítsanak az állatoknak. Az állatkert szerepet játszik a veszélyeztetett fajok megőrzésében Szaúd-Arábiában.",
+      ro: "Grădina Zoologică din Riad, Arabia Saudită, este una dintre cele mai vechi și mai mari grădini zoologice din Peninsula Arabică. A fost deschisă în 1987 și se întinde pe 23 de hectare. Grădina zoologică găzduiește peste 1.500 de animale din peste 200 de specii, inclusiv lei, tigri, girafe și maimuțe. Facilitatea este împărțită în zone geografice care imită habitatele naturale ale animalelor. Grădina zoologică pune accent pe conservare și educație. Există o casă a reptilelor, o casă a păsărilor și o zonă de contact cu animalele. Grădina zoologică este o destinație populară pentru familii și grupuri școlare. Oferă, de asemenea, zone de picnic și locuri de joacă. Grădina zoologică are o clinică veterinară proprie pentru îngrijirea animalelor. În ultimii ani, incintele au fost modernizate pentru a oferi mai mult spațiu animalelor. Grădina joacă un rol în conservarea speciilor pe cale de dispariție din Arabia Saudită.",
+      en: "Riyadh Zoo in Saudi Arabia is one of the oldest and largest zoos on the Arabian Peninsula. It opened in 1987 and covers 23 hectares. The zoo houses over 1,500 animals from more than 200 species, including lions, tigers, giraffes, and monkeys. The facility is divided into geographical zones replicating natural habitats. The zoo emphasizes conservation and education. It includes a reptile house, an aviary, and a petting zoo. The zoo is a popular destination for families and school groups. It also offers picnic areas and playgrounds. The zoo has its own veterinary clinic for animal care. In recent years, enclosures have been modernized to provide more space. The zoo plays a role in conserving endangered species in Saudi Arabia.",
+    },
+    factsAdvanced: {
+      de: ["Der Zoo wurde 1987 eröffnet.", "Er erstreckt sich über 23 Hektar.", "Es gibt über 1.500 Tiere aus 200 Arten.", "Der Zoo hat eine eigene Tierklinik.", "Die Vogelvoliere umfasst eine Fläche von 2.000 Quadratmetern.", "Jährlich besuchen etwa 1 Million Menschen den Zoo."],
+      hu: ["Az állatkertet 1987-ben nyitották meg.", "Területe 23 hektár.", "Több mint 1.500 állat él itt 200 fajból.", "Az állatkert saját állatkórházzal rendelkezik.", "A madárház területe 2.000 négyzetméter.", "Évente körülbelül 1 millió látogató keresi fel."],
+      ro: ["Grădina zoologică a fost deschisă în 1987.", "Se întinde pe 23 de hectare.", "Există peste 1.500 de animale din 200 de specii.", "Grădina zoologică are o clinică veterinară proprie.", "Voliera pentru păsări acoperă 2.000 de metri pătrați.", "Aproximativ 1 milion de oameni vizitează anual grădina zoologică."],
+      en: ["The zoo opened in 1987.", "It covers 23 hectares.", "There are over 1,500 animals from 200 species.", "The zoo has its own veterinary clinic.", "The aviary spans 2,000 square meters.", "Approximately 1 million people visit annually."],
+    },
+  },
   {
     id: "sa-al-ahsa-date-farms-life-v2",
     type: "agriculture",
     parent: "SA-04",
     coords: [49.605, 25.405],
-    name: { de: "Al-Ahsa Dattelpalmenoase", hu: "Al-Ahsa datolyapálma oázis", ro: "Oaza de palmieri Al-Ahsa", en: "Al Ahsa Date Farms",
-image: "/poi-images/sa-al-ahsa-date-farms-life-v2.webp"
-},
+    name: { de: "Al-Ahsa Dattelpalmenoase", hu: "Al-Ahsa datolyapálma oázis", ro: "Oaza de palmieri Al-Ahsa", en: "Al Ahsa Date Farms"},
+    image: "/poi-images/sa-al-ahsa-date-farms-life-v2.webp",
     description: { de: "Die größte Oase der Welt, bekannt für ihre ausgedehnten Dattelpalmenhaine und traditionellen Bewässerungssysteme.", hu: "A világ legnagyobb oázisa, amely hatalmas datolyapálma-ligeteiről és hagyományos öntözőrendszereiről ismert.", ro: "Cea mai mare oază din lume, cunoscută pentru întinsele sale crânguri de curmali și sistemele tradiționale de irigare.", en: "The largest oasis in the world, known for its extensive date palm groves and traditional irrigation systems." },
     facts: {
       de: ["Beherbergt mehr als 2,5 Millionen Dattelpalmen.", "Wurde 2018 zum UNESCO-Weltkulturerbe erklärt.", "Produziert jährlich über 100.000 Tonnen Datteln."],
       hu: ["Több mint 2,5 millió datolyapálmának ad otthont.", "2018-ban az UNESCO Világörökség részévé nyilvánították.", "Évente több mint 100 000 tonna datolyát termel."],
       ro: ["Găzduiește peste 2,5 milioane de palmieri de curmale.", "A fost declarată Patrimoniu Mondial UNESCO în 2018.", "Produce peste 100.000 de tone de curmale anual."],
       en: ["Contains more than 2.5 million date palms.", "Was declared a UNESCO World Heritage Site in 2018.", "Produces over 100,000 tons of dates annually."]
-    }, image: "/poi-images/sa-al-ahsa-date-farms-life-v2.webp"},
+    }, image: "/poi-images/sa-al-ahsa-date-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Ahsa-Dattelfarmen in der Ostprovinz Saudi-Arabiens sind Teil einer der größten Oasen der Welt. Al-Ahsa ist berühmt für den Anbau von Datteln, insbesondere der Sorte Khlas. Die Oase umfasst über 2,5 Millionen Dattelpalmen auf einer Fläche von etwa 20.000 Hektar. Die Dattelproduktion ist ein wichtiger Wirtschaftszweig, und Al-Ahsa produziert jährlich über 100.000 Tonnen Datteln. Die Region ist seit Jahrtausenden landwirtschaftlich genutzt. Die Bewässerung erfolgt über natürliche Quellen und moderne Systeme. Die Dattelfarmen sind Teil des kulturellen Erbes und wurden 2018 zum UNESCO-Weltkulturerbe erklärt. Besucher können die Palmenhaine erkunden und frische Datteln probieren. Die Landschaft ist geprägt von Dattelpalmen und grünen Feldern. Al-Ahsa ist auch bekannt für seine traditionellen Dattelverarbeitungsbetriebe.",
+      hu: "Az Al-Ahsa datolyafarmok Szaúd-Arábia keleti tartományában a világ egyik legnagyobb oázisának részét képezik. Al-Ahsa híres a datolyatermesztésről, különösen a Khlas fajtáról. Az oázis több mint 2,5 millió datolyapálmát foglal magában, körülbelül 20.000 hektáron. A datolyatermelés fontos gazdasági ág, Al-Ahsa évente több mint 100.000 tonna datolyát termel. A régiót évezredek óta használják mezőgazdasági célokra. Az öntözés természetes forrásokból és modern rendszerekből történik. A datolyafarmok a kulturális örökség részei, és 2018-ban az UNESCO világörökség részévé nyilvánították. A látogatók felfedezhetik a pálmaligeteket és megkóstolhatják a friss datolyát. A tájat datolyapálmák és zöld mezők jellemzik. Al-Ahsa híres hagyományos datolya-feldolgozó üzemeiről is.",
+      ro: "Fermele de curmale Al-Ahsa din provincia de est a Arabiei Saudite fac parte din una dintre cele mai mari oaze din lume. Al-Ahsa este renumită pentru cultivarea curmalelor, în special a soiului Khlas. Oaza cuprinde peste 2,5 milioane de palmieri de curmale pe o suprafață de aproximativ 20.000 de hectare. Producția de curmale este un sector economic important, Al-Ahsa producând anual peste 100.000 de tone de curmale. Regiunea este cultivată de milenii. Irigarea se face prin izvoare naturale și sisteme moderne. Fermele de curmale fac parte din patrimoniul cultural și au fost declarate patrimoniu UNESCO în 2018. Vizitatorii pot explora livezile de palmieri și pot gusta curmale proaspete. Peisajul este dominat de palmieri și câmpuri verzi. Al-Ahsa este cunoscută și pentru unitățile sale tradiționale de procesare a curmalelor.",
+      en: "Al Ahsa Date Farms in Saudi Arabia's Eastern Province are part of one of the world's largest oases. Al Ahsa is famous for date cultivation, especially the Khlas variety. The oasis contains over 2.5 million date palms across about 20,000 hectares. Date production is a key economic activity, with over 100,000 tons produced annually. The region has been cultivated for millennia. Irrigation relies on natural springs and modern systems. The date farms are part of the cultural heritage and were designated a UNESCO World Heritage site in 2018. Visitors can explore the palm groves and taste fresh dates. The landscape features date palms and green fields. Al Ahsa is also known for its traditional date processing facilities.",
+    },
+    factsAdvanced: {
+      de: ["Die Oase erstreckt sich über 20.000 Hektar.", "Es gibt über 2,5 Millionen Dattelpalmen.", "Die jährliche Produktion beträgt über 100.000 Tonnen.", "Al-Ahsa wurde 2018 UNESCO-Weltkulturerbe.", "Die Bewässerung erfolgt aus 280 natürlichen Quellen.", "Die Region hat eine Bevölkerung von etwa 1 Million Menschen."],
+      hu: ["Az oázis területe 20.000 hektár.", "Több mint 2,5 millió datolyapálma található.", "Az éves termelés meghaladja a 100.000 tonnát.", "Al-Ahsát 2018-ban az UNESCO világörökség részévé nyilvánították.", "Az öntözés 280 természetes forrásból történik.", "A régió lakossága körülbelül 1 millió fő."],
+      ro: ["Oaza se întinde pe 20.000 de hectare.", "Există peste 2,5 milioane de palmieri de curmale.", "Producția anuală depășește 100.000 de tone.", "Al-Ahsa a fost declarată patrimoniu UNESCO în 2018.", "Irigarea se face din 280 de izvoare naturale.", "Regiunea are o populație de aproximativ 1 milion de locuitori."],
+      en: ["The oasis covers 20,000 hectares.", "There are over 2.5 million date palms.", "Annual production exceeds 100,000 tons.", "Al Ahsa was designated a UNESCO World Heritage site in 2018.", "Irrigation comes from 280 natural springs.", "The region has a population of about 1 million."],
+    },
+  },
   {
     id: "sa-mahazat-as-sayd-life-v2",
     type: "wildlife-area",
     parent: "SA-02",
     coords: [41.670, 22.250],
-    name: { de: "Mahazat as-Sayd Schutzgebiet", hu: "Mahazat as-Sayd Természetvédelmi Terület", ro: "Rezervația Mahazat as-Sayd", en: "Mahazat as-Sayd Protected Area",
-image: "/poi-images/sa-mahazat-as-sayd-life-v2.webp"
-},
+    name: { de: "Mahazat as-Sayd Schutzgebiet", hu: "Mahazat as-Sayd Természetvédelmi Terület", ro: "Rezervația Mahazat as-Sayd", en: "Mahazat as-Sayd Protected Area"},
+    image: "/poi-images/sa-mahazat-as-sayd-life-v2.webp",
     description: { de: "Ein vollständig eingezäuntes Naturschutzgebiet, das für die Wiederansiedlung bedrohter Wüstentiere genutzt wird.", hu: "Egy teljesen bekerített természetvédelmi terület, amelyet veszélyeztetett sivatagi állatok visszatelepítésére használnak.", ro: "O rezervație naturală complet împrejmuită, folosită pentru reintroducerea animalelor de deșert pe cale de dispariție.", en: "A fully fenced nature reserve used for the reintroduction of endangered desert animal species." },
     facts: {
       de: ["Mit 2244 Quadratkilometern ist es extrem groß.", "Hier lebt der stark gefährdete Arabische Oryx.", "Es ist nach dem Yellowstone eines der größten eingezäunten Gebiete."],
       hu: ["2244 négyzetkilométeres területével rendkívül nagy.", "Itt él a súlyosan veszélyeztetett arab bejza.", "A Yellowstone után az egyik legnagyobb bekerített terület."],
       ro: ["Cu 2244 de kilometri pătrați, este extrem de mare.", "Aici trăiește oryxul arab, grav amenințat.", "Este una dintre cele mai mari zone împrejmuite după Yellowstone."],
       en: ["Covering 2244 square kilometers, it is extremely large.", "It is home to the highly endangered Arabian oryx.", "It is one of the largest fenced areas after Yellowstone."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Mahazat-as-Sayd-Schutzgebiet ist ein Naturschutzgebiet in der Provinz Mekka, Saudi-Arabien. Es wurde 1988 gegründet und erstreckt sich über 2.200 Quadratkilometer. Das Gebiet ist ein wichtiges Reservat für die Wiederansiedlung bedrohter Wüstentiere wie der Arabischen Oryx, des Sandgazellen und des Straußes. Es ist von einem Zaun umgeben, um die Tiere vor Wilderei zu schützen. Das Schutzgebiet wird von der saudi-arabischen Wildtierbehörde verwaltet. Es gibt Forschungsprojekte zur Überwachung der Tierpopulationen. Die Landschaft ist geprägt von Sanddünen, Kiesebenen und Wadis. Mahazat as-Sayd ist ein Beispiel für erfolgreichen Artenschutz auf der Arabischen Halbinsel. Besucher können nur mit Genehmigung das Gebiet betreten. Das Reservat ist auch ein wichtiges Rastgebiet für Zugvögel. Es trägt zur Erhaltung der Biodiversität in Saudi-Arabien bei.",
+      hu: "A Mahazat as-Sayd védett terület egy természetvédelmi terület Mekka tartományban, Szaúd-Arábiában. 1988-ban hozták létre, és 2.200 négyzetkilométeren terül el. A terület fontos rezervátum a veszélyeztetett sivatagi állatok, például az arab antilop, a homoki gazella és a strucc visszatelepítésére. Kerítéssel van körülvéve az orvvadászat megakadályozása érdekében. A területet a szaúdi vadvédelmi hatóság kezeli. Kutatási projektek zajlanak az állatpopulációk nyomon követésére. A tájat homokdűnék, kavicsos síkságok és vádik jellemzik. Mahazat as-Sayd a sikeres fajvédelem példája az Arab-félszigeten. Látogatók csak engedéllyel léphetnek be a területre. A rezervátum fontos pihenőhely a vonuló madarak számára is. Hozzájárul a biológiai sokféleség megőrzéséhez Szaúd-Arábiában.",
+      ro: "Zona protejată Mahazat as-Sayd este o rezervație naturală în provincia Mecca, Arabia Saudită. A fost înființată în 1988 și se întinde pe 2.200 de kilometri pătrați. Zona reprezintă un rezervat important pentru reintroducerea animalelor de deșert amenințate, cum ar fi oryxul arab, gazela de nisip și struțul. Este înconjurată de un gard pentru a proteja animalele de braconaj. Rezervația este administrată de autoritatea saudită pentru viața sălbatică. Există proiecte de cercetare pentru monitorizarea populațiilor de animale. Peisajul este caracterizat de dune de nisip, câmpii de pietriș și ueduri. Mahazat as-Sayd este un exemplu de conservare reușită a speciilor în Peninsula Arabică. Vizitatorii pot intra doar cu permis. Rezervația este, de asemenea, o importantă zonă de odihnă pentru păsările migratoare. Contribuie la conservarea biodiversității în Arabia Saudită.",
+      en: "Mahazat as-Sayd Protected Area is a nature reserve in Mecca Province, Saudi Arabia. Established in 1988, it covers 2,200 square kilometers. The reserve is crucial for reintroducing threatened desert species such as the Arabian oryx, sand gazelle, and ostrich. It is fenced to prevent poaching. Managed by the Saudi Wildlife Authority, the area supports research projects monitoring animal populations. Landscape includes sand dunes, gravel plains, and wadis. Mahazat as-Sayd exemplifies successful wildlife conservation on the Arabian Peninsula. Entry requires a permit. The reserve also serves as an important stopover for migratory birds. It contributes to preserving biodiversity in Saudi Arabia.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet wurde 1988 gegründet.", "Es erstreckt sich über 2.200 Quadratkilometer.", "Die Population der Arabischen Oryx beträgt etwa 500 Tiere.", "Der Zaun ist 220 Kilometer lang.", "Es gibt über 100 Vogelarten im Reservat.", "Das Gebiet ist Teil des UNESCO-Welterbes (nicht offiziell)."],
+      hu: ["A védett területet 1988-ban hozták létre.", "Területe 2.200 négyzetkilométer.", "Az arab antilop állománya körülbelül 500 egyed.", "A kerítés hossza 220 kilométer.", "Több mint 100 madárfaj él a rezervátumban.", "A terület az UNESCO világörökség része (nem hivatalosan)."],
+      ro: ["Rezervația a fost înființată în 1988.", "Se întinde pe 2.200 de kilometri pătrați.", "Populația de oryx arab este de aproximativ 500 de animale.", "Gardul are 220 de kilometri lungime.", "Există peste 100 de specii de păsări în rezervație.", "Zona face parte din patrimoniul UNESCO (neoficial)."],
+      en: ["The reserve was established in 1988.", "It covers 2,200 square kilometers.", "The Arabian oryx population is about 500 animals.", "The fence length is 220 kilometers.", "There are over 100 bird species in the reserve.", "The area is part of a UNESCO World Heritage site (unofficial)."],
+    },
   },
   {
     id: "sa-national-museum-park-life-v2",
     type: "park",
     parent: "SA-01",
     coords: [46.711, 24.647],
-    name: { de: "Park des Nationalmuseums", hu: "Nemzeti Múzeum Parkja", ro: "Parcul Muzeului Național", en: "National Museum Park",
-image: "/poi-images/sa-national-museum-park-life-v2.webp"
-},
+    name: { de: "Park des Nationalmuseums", hu: "Nemzeti Múzeum Parkja", ro: "Parcul Muzeului Național", en: "National Museum Park"},
+    image: "/poi-images/sa-national-museum-park-life-v2.webp",
     description: { de: "Eine schön angelegte Gartenanlage rund um das Nationalmuseum in Riad mit Gehwegen und ruhigen Plätzen.", hu: "Egy gyönyörűen parkosított kert a rijádi Nemzeti Múzeum körül, sétányokkal és csendes pihenőhelyekkel.", ro: "O grădină frumos amenajată în jurul Muzeului Național din Riad, cu alei și locuri liniștite de odihnă.", en: "A beautifully landscaped garden surrounding the National Museum in Riyadh, featuring walkways and quiet spots." },
     facts: {
       de: ["Teil des King Abdulaziz Historical Centre.", "Bietet traditionelle islamische Gartenelemente.", "Verfügt über künstliche Wasserläufe."],
       hu: ["A King Abdulaziz Történelmi Központ része.", "Hagyományos iszlám kertelemeket tartalmaz.", "Mesterséges vízfolyásokkal rendelkezik."],
       ro: ["Face parte din Centrul Istoric King Abdulaziz.", "Include elemente tradiționale de grădină islamică.", "Are cursuri de apă artificiale."],
       en: ["Part of the King Abdulaziz Historical Centre.", "Features traditional Islamic garden elements.", "Has artificial water channels."]
-    }, image: "/poi-images/sa-national-museum-park-life-v2.webp"},
+    }, image: "/poi-images/sa-national-museum-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nationalmuseum-Park in Riad, Saudi-Arabien, ist ein öffentlicher Park, der an das Nationalmuseum angrenzt. Er liegt im historischen Viertel Al-Murabba und wurde 1999 eröffnet. Der Park bietet Grünflächen, Spazierwege und einen großen Platz mit Springbrunnen. Er ist ein beliebter Treffpunkt für Einheimische und Touristen. Die Gestaltung des Parks integriert moderne Landschaftsarchitektur mit traditionellen Elementen. Der Park ist Teil des umfassenden Museumsbezirks, der auch das König-Abdulaziz-Historische Zentrum umfasst. Er dient als Erholungsraum und Ort für öffentliche Veranstaltungen. Der Park verfügt über Bäume und Pflanzen, die Schatten spenden. Nachts ist der Park beleuchtet. Er bietet einen Blick auf das Nationalmuseum, ein architektonisches Wahrzeichen. Der Park fördert die kulturelle und soziale Interaktion. Er ist ein grünes Herz in der Stadt Riad.",
+      hu: "A Nemzeti Múzeum Park Rijádban, Szaúd-Arábiában, egy közpark, amely a Nemzeti Múzeum mellett található. Az Al-Murabba történelmi negyedben fekszik, és 1999-ben nyílt meg. A park zöldterületeket, sétányokat és egy nagy teret kínál szökőkutakkal. Népszerű találkozóhely a helyiek és turisták számára. A park kialakítása modern tájépítészetet ötvöz hagyományos elemekkel. A park a múzeumi negyed része, amely magában foglalja a király Abdul-Aziz Történelmi Központot is. Rekreációs térként és nyilvános rendezvények helyszíneként szolgál. A parkban árnyékot adó fák és növények találhatók. Éjszaka a park kivilágított. Kilátást nyújt a Nemzeti Múzeumra, amely építészeti nevezetesség. A park elősegíti a kulturális és társadalmi érintkezést. Zöld szív Rijád városában.",
+      ro: "Parcul Muzeului Național din Riad, Arabia Saudită, este un parc public adiacent Muzeului Național. Situat în cartierul istoric Al-Murabba, a fost deschis în 1999. Parcul oferă spații verzi, alei și o piață mare cu fântâni. Este un loc popular de întâlnire pentru localnici și turiști. Designul parcului îmbină arhitectura peisagistică modernă cu elemente tradiționale. Parcul face parte din complexul muzeal care include și Centrul Istoric King Abdulaziz. Servește ca spațiu de recreere și pentru evenimente publice. Parcul are copaci și plante care oferă umbră. Noaptea, parcul este iluminat. Oferă o vedere spre Muzeul Național, un reper arhitectural. Parcul promovează interacțiunea culturală și socială. Este o inimă verde în orașul Riad.",
+      en: "National Museum Park in Riyadh, Saudi Arabia, is a public park adjacent to the National Museum. Located in the historic Al-Murabba district, it opened in 1999. The park features green spaces, walking paths, and a large plaza with fountains. It is a popular gathering spot for locals and tourists. The design blends modern landscape architecture with traditional elements. The park is part of the museum complex that includes the King Abdulaziz Historical Center. It serves as a recreational space and venue for public events. Trees and plants provide shade. At night, the park is illuminated. It offers views of the National Museum, an architectural landmark. The park fosters cultural and social interaction. It is a green heart in the city of Riyadh.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1999 eröffnet.", "Die Fläche beträgt 150.000 Quadratmeter.", "Der Park grenzt an das Nationalmuseum, das 1999 eröffnet wurde.", "Es gibt über 1.000 Bäume im Park.", "Der Springbrunnen im Zentrum hat einen Durchmesser von 30 Metern.", "Der Park ist Teil des 1,2 Quadratkilometer großen Museumskomplexes."],
+      hu: ["A parkot 1999-ben nyitották meg.", "Területe 150.000 négyzetméter.", "A park a Nemzeti Múzeum mellett található, amely szintén 1999-ben nyílt meg.", "Több mint 1.000 fa található a parkban.", "A központi szökőkút átmérője 30 méter.", "A park a 1,2 négyzetkilométeres múzeumi komplexum része."],
+      ro: ["Parcul a fost deschis în 1999.", "Suprafața este de 150.000 de metri pătrați.", "Parcul este adiacent Muzeului Național, deschis în 1999.", "Există peste 1.000 de copaci în parc.", "Fântâna centrală are un diametru de 30 de metri.", "Parcul face parte din complexul muzeal de 1,2 kilometri pătrați."],
+      en: ["The park opened in 1999.", "It covers 150,000 square meters.", "The park adjoins the National Museum, also opened in 1999.", "There are over 1,000 trees in the park.", "The central fountain has a diameter of 30 meters.", "The park is part of the 1.2 square kilometer museum complex."],
+    },
+  },
   {
     id: "sa-jubail-mangrove-park-life-v2",
     type: "wildlife-area",
     parent: "SA-04",
     coords: [49.664, 27.025],
-    name: { de: "Mangrovenpark Jubail", hu: "Jubajl Mangrove Park", ro: "Parcul de Mangrove Jubail", en: "Jubail Mangrove Park",
-image: "/poi-images/sa-jubail-mangrove-park-life-v2.webp"
-},
+    name: { de: "Mangrovenpark Jubail", hu: "Jubajl Mangrove Park", ro: "Parcul de Mangrove Jubail", en: "Jubail Mangrove Park"},
+    image: "/poi-images/sa-jubail-mangrove-park-life-v2.webp",
     description: { de: "Ein geschütztes Feuchtgebiet an der Küste des Persischen Golfs, das zahlreichen Vogelarten als Lebensraum dient.", hu: "Védett vizes élőhely a Perzsa-öböl partján, amely számos madárfaj élőhelyéül szolgál.", ro: "O zonă umedă protejată pe coasta Golfului Persic, care servește drept habitat pentru numeroase specii de păsări.", en: "A protected wetland on the coast of the Persian Gulf that serves as a habitat for numerous bird species." },
     facts: {
       de: ["Die Mangrovenbäume schützen die Küste vor Erosion.", "Es gibt Holzstege für Besucher.", "Ein wichtiger Zwischenstopp für Zugvögel."],
       hu: ["A mangrovefák védik a partot az eróziótól.", "Fa pallósorok vezetnek a látogatók számára.", "Fontos állomás a vándormadarak számára."],
       ro: ["Arborii de mangrove protejează coasta de eroziune.", "Există pasarele de lemn pentru vizitatori.", "Un punct de oprire important pentru păsările migratoare."],
       en: ["The mangrove trees protect the coastline from erosion.", "There are wooden boardwalks for visitors.", "An important stopover for migratory birds."]
-    }, image: "/poi-images/sa-jubail-mangrove-park-life-v2.webp"},
+    }, image: "/poi-images/sa-jubail-mangrove-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jubail-Mangrovenpark in Saudi-Arabien ist ein Schutzgebiet für Mangrovenwälder entlang der Küste des Arabischen Golfs. Er wurde 2016 eröffnet und erstreckt sich über eine Fläche von etwa 1,3 Quadratkilometern. Der Park bietet Holzstege und Aussichtsplattformen, um die Mangroven zu erkunden. Die Mangroven dienen als Lebensraum für Vögel, Fische und Krebstiere. Der Park ist Teil der Bemühungen zur Wiederherstellung von Mangrovenökosystemen in der Region. Es gibt Bildungsprogramme über die Bedeutung der Mangroven für die Umwelt. Der Park ist ein beliebtes Ziel für Naturbeobachter und Vogelkundler. Die Mangroven filtern Schadstoffe und schützen die Küste vor Erosion. Der Park verfügt über einen kleinen Strand und Picknickbereiche. Er wird von der saudi-arabischen Umweltbehörde verwaltet. Der Park trägt zur Biodiversität der Region bei.",
+      hu: "A Jubail Mangrove Park Szaúd-Arábiában egy védett terület a mangrovéerdők számára az Arab-öböl partján. 2016-ban nyílt meg, és körülbelül 1,3 négyzetkilométeren terül el. A park fa sétányokat és kilátóplatformokat kínál a mangrove felfedezéséhez. A mangrovék madarak, halak és rákfélék élőhelyéül szolgálnak. A park a mangrove ökoszisztémák helyreállítására irányuló erőfeszítések része. Oktatási programok vannak a mangrove környezeti jelentőségéről. A park népszerű célpont természetfigyelők és madarászok számára. A mangrovék kiszűrik a szennyező anyagokat és védik a partot az eróziótól. A parkban van egy kis strand és piknikezőhelyek. A szaúdi környezetvédelmi hatóság kezeli. A park hozzájárul a régió biológiai sokféleségéhez.",
+      ro: "Parcul de mangrove Jubail din Arabia Saudită este o zonă protejată pentru pădurile de mangrove de-a lungul coastei Golfului Arab. A fost deschis în 2016 și se întinde pe aproximativ 1,3 kilometri pătrați. Parcul oferă promenade din lemn și platforme de observare pentru explorarea mangrovei. Mangrovele servesc ca habitat pentru păsări, pești și crustacee. Parcul face parte din eforturile de restaurare a ecosistemelor de mangrove din regiune. Există programe educaționale despre importanța mangrovei pentru mediu. Parcul este o destinație populară pentru observatorii naturii și păsărilor. Mangrovele filtrează poluanții și protejează coasta de eroziune. Parcul are o mică plajă și zone de picnic. Este administrat de autoritatea de mediu saudită. Parcul contribuie la biodiversitatea regiunii.",
+      en: "Jubail Mangrove Park in Saudi Arabia is a protected area for mangrove forests along the Arabian Gulf coast. It opened in 2016 and covers about 1.3 square kilometers. The park features wooden boardwalks and viewing platforms to explore the mangroves. The mangroves provide habitat for birds, fish, and crustaceans. The park is part of efforts to restore mangrove ecosystems in the region. Educational programs highlight the environmental importance of mangroves. The park is popular for nature observation and birdwatching. Mangroves filter pollutants and protect the coast from erosion. The park includes a small beach and picnic areas. It is managed by the Saudi environmental authority. The park contributes to regional biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über 1,3 Quadratkilometer.", "Er wurde 2016 für die Öffentlichkeit geöffnet.", "Die Holzstege sind insgesamt 2 Kilometer lang.", "Es gibt über 30 Vogelarten im Park.", "Die Mangroven bedecken etwa 80 % der Parkfläche.", "Der Park ist Teil eines 10 Quadratkilometer großen Meeresschutzgebiets."],
+      hu: ["A park területe 1,3 négyzetkilométer.", "2016-ban nyitották meg a nagyközönség számára.", "A fa sétányok teljes hossza 2 kilométer.", "Több mint 30 madárfaj található a parkban.", "A mangrovék a park területének körülbelül 80%-át borítják.", "A park egy 10 négyzetkilométeres tengeri védett terület része."],
+      ro: ["Parcul se întinde pe 1,3 kilometri pătrați.", "A fost deschis publicului în 2016.", "Promenadele din lemn au o lungime totală de 2 kilometri.", "Există peste 30 de specii de păsări în parc.", "Mangrovele acoperă aproximativ 80% din suprafața parcului.", "Parcul face parte dintr-o arie marină protejată de 10 kilometri pătrați."],
+      en: ["The park covers 1.3 square kilometers.", "It opened to the public in 2016.", "The wooden boardwalks total 2 kilometers in length.", "There are over 30 bird species in the park.", "Mangroves cover about 80% of the park area.", "The park is part of a 10 square kilometer marine protected area."],
+    },
+  },
   {
     id: "sa-taif-strawberry-farm-life-v2",
     type: "agriculture",
     parent: "SA-02",
     coords: [40.350, 21.300],
-    name: { de: "Erdbeerfarm Taif", hu: "Taifi eperfarm", ro: "Ferma de Căpșuni din Taif", en: "Taif Strawberry Farm",
-image: "/poi-images/sa-taif-strawberry-farm-life-v2.webp"
-},
+    name: { de: "Erdbeerfarm Taif", hu: "Taifi eperfarm", ro: "Ferma de Căpșuni din Taif", en: "Taif Strawberry Farm"},
+    image: "/poi-images/sa-taif-strawberry-farm-life-v2.webp",
     description: { de: "Ein landwirtschaftlicher Betrieb in den kühlen Bergen von Taif, wo Besucher frische Erdbeeren pflücken können.", hu: "Egy mezőgazdasági farm Taif hűvös hegyeiben, ahol a látogatók friss epret szedhetnek.", ro: "O fermă agricolă în munții răcoroși din Taif, unde vizitatorii pot culege căpșuni proaspete.", en: "An agricultural farm in the cool mountains of Taif where visitors can pick fresh strawberries." },
     facts: {
       de: ["Profitiert vom kühlen Klima der Region.", "Bietet auch Produkte wie Erdbeermarmelade an.", "Ein beliebtes Ziel für den Agrotourismus."],
       hu: ["A régió hűvös éghajlatát használja ki.", "Olyan termékeket is kínálnak, mint az eperlekvár.", "Népszerű agroturisztikai célpont."],
       ro: ["Beneficiază de clima răcoroasă a regiunii.", "Oferă și produse precum gemul de căpșuni.", "O destinație populară pentru agroturism."],
       en: ["Benefits from the region's cool climate.", "Also offers products like strawberry jam.", "A popular destination for agrotourism."]
-    }, image: "/poi-images/sa-taif-strawberry-farm-life-v2.webp"},
+    }, image: "/poi-images/sa-taif-strawberry-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Erdbeerfarmen von Taif in Saudi-Arabien sind bekannt für den Anbau von Erdbeeren in einem für die Region einzigartigen Klima. Taif liegt auf etwa 1.700 Metern Höhe und hat ein gemäßigtes Mikroklima, ideal für Erdbeeren. Die Farmen produzieren hauptsächlich die Sorte 'Festival'. Die Erntezeit ist von Januar bis April. Die Farmen bieten Pflück-Erlebnisse für Besucher. Die Erdbeeren werden frisch verkauft oder zu Konfitüren und Säften verarbeitet. Die Landwirtschaft in Taif ist ein wichtiger Wirtschaftszweig. Die Erdbeerfarmen sind Teil der landwirtschaftlichen Vielfalt der Region. Der Anbau erfolgt in Gewächshäusern und auf offenen Feldern. Die Farmen verwenden Tröpfchenbewässerung zur Wassereinsparung. Taif ist auch für seine Rosenproduktion bekannt. Die Erdbeerfarmen sind ein beliebtes Ausflugsziel für Familien.",
+      hu: "A taifi eperfarmok Szaúd-Arábiában ismertek az epertermesztésről, a régióra jellemző egyedi éghajlaton. Taif körülbelül 1.700 méter magasan fekszik, és mérsékelt mikroklímája van, ami ideális az eper számára. A farmok főként a 'Festival' fajtát termesztik. A betakarítás januárról áprilisra esik. A farmok szedési élményt kínálnak a látogatóknak. Az epret frissen értékesítik, vagy lekvárokká és gyümölcslevekké dolgozzák fel. Taif mezőgazdasága fontos gazdasági ág. Az eperfarmok a régió mezőgazdasági sokszínűségének részét képezik. A termesztés üvegházakban és szabadföldön történik. A farmok csepegtető öntözést használnak a víz megtakarítása érdekében. Taif híres rózsatermesztéséről is. Az eperfarmok népszerű kirándulóhelyek családok számára.",
+      ro: "Fermele de căpșuni din Taif, Arabia Saudită, sunt renumite pentru cultivarea căpșunilor într-un climat unic pentru regiune. Taif este situat la aproximativ 1.700 de metri altitudine și are un microclimat temperat, ideal pentru căpșuni. Fermele cultivă în principal soiul 'Festival'. Recoltarea are loc din ianuarie până în aprilie. Fermele oferă experiențe de cules pentru vizitatori. Căpșunile sunt vândute proaspete sau procesate în gemuri și sucuri. Agricultura din Taif este un sector economic important. Fermele de căpșuni fac parte din diversitatea agricolă a regiunii. Cultivarea se face în sere și pe câmpuri deschise. Fermele folosesc irigarea prin picurare pentru a economisi apa. Taif este cunoscut și pentru producția de trandafiri. Fermele de căpșuni sunt o destinație populară pentru familii.",
+      en: "Taif Strawberry Farms in Saudi Arabia are known for growing strawberries in a unique microclimate. Taif sits at about 1,700 meters elevation with a temperate climate ideal for strawberries. The farms mainly cultivate the 'Festival' variety. Harvest season runs from January to April. Farms offer pick-your-own experiences for visitors. Strawberries are sold fresh or processed into jams and juices. Agriculture in Taif is a key economic sector. The strawberry farms are part of the region's agricultural diversity. Cultivation occurs in greenhouses and open fields. Drip irrigation is used to conserve water. Taif is also famous for its rose production. The strawberry farms are popular family outings.",
+    },
+    factsAdvanced: {
+      de: ["Taif liegt auf 1.700 Metern Höhe.", "Die Erdbeerernte dauert von Januar bis April.", "Die Hauptsorte ist 'Festival'.", "Es gibt etwa 50 Erdbeerfarmen in Taif.", "Die Farmen produzieren jährlich über 2.000 Tonnen Erdbeeren.", "Die Farmen verwenden Tröpfchenbewässerung."],
+      hu: ["Taif 1.700 méter magasan fekszik.", "Az eper betakarítása januártól áprilisig tart.", "A fő fajta a 'Festival'.", "Körülbelül 50 eperfarm található Taifban.", "A farmok évente több mint 2.000 tonna epret termelnek.", "A farmok csepegtető öntözést használnak."],
+      ro: ["Taif este situat la 1.700 de metri altitudine.", "Recoltarea căpșunilor are loc din ianuarie până în aprilie.", "Soiul principal este 'Festival'.", "Există aproximativ 50 de ferme de căpșuni în Taif.", "Fermele produc anual peste 2.000 de tone de căpșuni.", "Fermele folosesc irigarea prin picurare."],
+      en: ["Taif is at 1,700 meters elevation.", "Strawberry harvest runs January to April.", "The main variety is 'Festival'.", "There are about 50 strawberry farms in Taif.", "Farms produce over 2,000 tons annually.", "Drip irrigation is used."],
+    },
+  },
   {
     id: "sa-atallah-happy-land-park-life-v2",
     type: "kid-friendly",
     parent: "SA-02",
     coords: [39.108, 21.618],
-    name: { de: "Atallah Happy Land Park", hu: "Atallah Happy Land Park", ro: "Parcul Atallah Happy Land", en: "Atallah Happy Land Park",
-image: "/poi-images/sa-atallah-happy-land-park-life-v2.webp"
-},
+    name: { de: "Atallah Happy Land Park", hu: "Atallah Happy Land Park", ro: "Parcul Atallah Happy Land", en: "Atallah Happy Land Park"},
+    image: "/poi-images/sa-atallah-happy-land-park-life-v2.webp",
     description: { de: "Einer der ältesten Vergnügungsparks in Dschidda mit einer großen Auswahl an Fahrgeschäften und Spielen.", hu: "Dzsidda egyik legrégebbi vidámparkja, vidámparki játékok és attrakciók széles választékával.", ro: "Unul dintre cele mai vechi parcuri de distracții din Jeddah, cu o gamă largă de atracții și jocuri.", en: "One of the oldest amusement parks in Jeddah, featuring a wide variety of rides and games." },
     facts: {
       de: ["Eröffnete bereits 1986 seine Türen.", "Verfügt über ein großes Riesenrad mit Blick aufs Meer.", "Bietet auch eine Bowlingbahn und Kletterwände."],
       hu: ["Már 1986-ban megnyitotta kapuit.", "Egy nagy óriáskerékkel rendelkezik, amely a tengerre néz.", "Bowlingpálya és mászófalak is találhatók itt."],
       ro: ["Și-a deschis porțile încă din 1986.", "Are o mare roată panoramică cu vedere la mare.", "Oferă și o pistă de bowling și pereți de escaladă."],
       en: ["Opened its doors back in 1986.", "Features a large Ferris wheel with sea views.", "Also offers a bowling alley and climbing walls."]
-    }, image: "/poi-images/sa-atallah-happy-land-park-life-v2.webp"},
+    }, image: "/poi-images/sa-atallah-happy-land-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Atallah Happy Land Park in Dschidda, Saudi-Arabien, ist ein großer Freizeitpark für Familien. Er liegt im Stadtteil Al-Salamah und wurde 1995 eröffnet. Der Park bietet Fahrgeschäfte, einen Vergnügungsbereich, einen See mit Tretbooten und mehrere Restaurants. Es gibt eine Achterbahn, ein Karussell und Autoscooter. Der Park ist in thematische Zonen unterteilt. Er veranstaltet kulturelle Events und Konzerte. Happy Land ist ein beliebtes Ziel für Kindergeburtstage und Schulausflüge. Der Park hat auch einen Bereich mit Spielautomaten. Die Grünanlagen bieten Schattenplätze. Der Park wird regelmäßig gewartet und verbessert. Er trägt zur Freizeitgestaltung in Dschidda bei. Die Eintrittspreise sind erschwinglich. Der Park ist ein wichtiger Teil des sozialen Lebens in der Stadt.",
+      hu: "Az Atallah Happy Land Park Dzsiddában, Szaúd-Arábiában, egy nagy családi szórakoztató park. Az Al-Salamah negyedben található, és 1995-ben nyitották meg. A park vidámparki játékokat, szórakoztató részt, tavat vízibiciklikkel és több éttermet kínál. Van hullámvasút, körhinta és dodzsem. A park tematikus zónákra van osztva. Kulturális eseményeket és koncerteket rendez. A Happy Land népszerű gyermek születésnapi partik és iskolai kirándulások számára. A parkban játéktermek is vannak. A zöldterületek árnyékos helyeket biztosítanak. A parkot rendszeresen karbantartják és fejlesztik. Hozzájárul a dzsiddai szabadidő eltöltéséhez. A belépőjegyek megfizethetőek. A park a város társadalmi életének fontos része.",
+      ro: "Parcul Atallah Happy Land din Jeddah, Arabia Saudită, este un parc mare de distracții pentru familii. Situat în cartierul Al-Salamah, a fost deschis în 1995. Parcul oferă atracții, o zonă de distracții, un lac cu bărci cu pedale și mai multe restaurante. Are un roller coaster, un carusel și mașinuțe. Parcul este împărțit în zone tematice. Găzduiește evenimente culturale și concerte. Happy Land este o destinație populară pentru petreceri de ziua copiilor și excursii școlare. Parcul are și o sală de jocuri. Spațiile verzi oferă zone umbrite. Parcul este întreținut și îmbunătățit regulat. Contribuie la petrecerea timpului liber în Jeddah. Prețurile de intrare sunt accesibile. Parcul este o parte importantă a vieții sociale a orașului.",
+      en: "Atallah Happy Land Park in Jeddah, Saudi Arabia, is a large family amusement park. Located in Al-Salamah district, it opened in 1995. The park offers rides, an amusement area, a lake with paddle boats, and multiple restaurants. It features a roller coaster, carousel, and bumper cars. The park is divided into themed zones. It hosts cultural events and concerts. Happy Land is popular for children's birthday parties and school trips. The park also has an arcade. Green areas provide shaded spots. The park is regularly maintained and upgraded. It contributes to leisure activities in Jeddah. Entrance fees are affordable. The park is a key part of the city's social life.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1995 eröffnet.", "Die Fläche beträgt 50.000 Quadratmeter.", "Die Achterbahn ist 25 Meter hoch.", "Es gibt 10 Restaurants im Park.", "Der See hat eine Fläche von 3.000 Quadratmetern.", "Der Park hat eine Kapazität von 10.000 Besuchern pro Tag."],
+      hu: ["A parkot 1995-ben nyitották meg.", "Területe 50.000 négyzetméter.", "A hullámvasút 25 méter magas.", "10 étterem található a parkban.", "A tó területe 3.000 négyzetméter.", "A park napi kapacitása 10.000 látogató."],
+      ro: ["Parcul a fost deschis în 1995.", "Suprafața este de 50.000 de metri pătrați.", "Roller coasterul are 25 de metri înălțime.", "Există 10 restaurante în parc.", "Lacul are o suprafață de 3.000 de metri pătrați.", "Parcul are o capacitate de 10.000 de vizitatori pe zi."],
+      en: ["The park opened in 1995.", "It covers 50,000 square meters.", "The roller coaster is 25 meters tall.", "There are 10 restaurants in the park.", "The lake covers 3,000 square meters.", "The park capacity is 10,000 visitors per day."],
+    },
+  },
   {
     id: "sa-king-fahd-park-dammam-life-v2",
     type: "park",
     parent: "SA-04",
     coords: [50.116, 26.398],
-    name: { de: "König-Fahd-Park (Dammam)", hu: "Fahd Király Park (Dammám)", ro: "Parcul Regele Fahd (Dammam)", en: "King Fahd Park (Dammam)",
-image: "/poi-images/sa-king-fahd-park-dammam-life-v2.webp"
-},
+    name: { de: "König-Fahd-Park (Dammam)", hu: "Fahd Király Park (Dammám)", ro: "Parcul Regele Fahd (Dammam)", en: "King Fahd Park (Dammam)"},
+    image: "/poi-images/sa-king-fahd-park-dammam-life-v2.webp",
     description: { de: "Ein weitläufiger Erholungspark in Dammam mit künstlichen Lagunen, Wasserfällen und vielen Grünflächen.", hu: "Egy kiterjedt rekreációs park Dammámban, mesterséges lagúnákkal, vízesésekkel és sok zöldfelülettel.", ro: "Un vast parc de recreere în Dammam, cu lagune artificiale, cascade și multe spații verzi.", en: "A vast recreational park in Dammam featuring artificial lagoons, waterfalls, and many green spaces." },
     facts: {
       de: ["Er ist der größte Park in der saudischen Ostprovinz.", "Umfasst eine Fläche von 1,2 Millionen Quadratmetern.", "Beinhaltet auch ein kleines Unterhaltungszentrum."],
       hu: ["Ez a legnagyobb park a szaúdi Keleti Tartományban.", "1,2 millió négyzetméteres területet foglal el.", "Egy kisebb szórakoztatóközpont is található benne."],
       ro: ["Este cel mai mare parc din Provincia de Est saudită.", "Acoperă o suprafață de 1,2 milioane de metri pătrați.", "Include și un mic centru de divertisment."],
       en: ["It is the largest park in the Saudi Eastern Province.", "Covers an area of 1.2 million square meters.", "Also includes a small entertainment center."]
-    }, image: "/poi-images/sa-king-fahd-park-dammam-life-v2.webp"},
+    }, image: "/poi-images/sa-king-fahd-park-dammam-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der König-Fahd-Park in Dammam, Saudi-Arabien, ist einer der größten Parks der Stadt. Er wurde 1997 eröffnet und erstreckt sich über 45 Hektar. Der Park bietet einen künstlichen See, Springbrunnen, weitläufige Rasenflächen und Spazierwege. Er ist benannt nach König Fahd ibn Abd al-Aziz. Der Park ist ein beliebtes Ziel für Familien und bietet Spielplätze, Sportplätze und Picknickbereiche. Es gibt ein Amphitheater für Aufführungen. Der Park ist bekannt für seine abendlichen Lichtspiele. Die Landschaftsgestaltung umfasst einheimische Bäume und Blumen. Der Park verfügt über ein Bewässerungssystem, das recyceltes Wasser nutzt. Er ist ein wichtiger Erholungsraum in Dammam. Der Park veranstaltet saisonale Festivals und öffentliche Veranstaltungen. Er trägt zur Luftqualität und zum städtischen Mikroklima bei.",
+      hu: "A Fahd király park Dammamban, Szaúd-Arábiában, a város egyik legnagyobb parkja. 1997-ben nyitották meg, és 45 hektáron terül el. A park mesterséges tavat, szökőkutakat, hatalmas gyepfelületeket és sétányokat kínál. Fahd ibn Abd al-Aziz királyról nevezték el. A park népszerű családi célpont, játszóterekkel, sportpályákkal és piknikezőhelyekkel. Van egy amfiteátrum előadások számára. A park híres esti fényjátékairól. A tájépítészet őshonos fákat és virágokat foglal magában. A park újrahasznosított vizet használó öntözőrendszerrel rendelkezik. Fontos rekreációs terület Dammamban. A park szezonális fesztiválokat és nyilvános rendezvényeket tart. Hozzájárul a levegőminőséghez és a városi mikroklímához.",
+      ro: "Parcul King Fahd din Dammam, Arabia Saudită, este unul dintre cele mai mari parcuri ale orașului. A fost deschis în 1997 și se întinde pe 45 de hectare. Parcul oferă un lac artificial, fântâni, întinderi mari de iarbă și alei. A fost numit după regele Fahd ibn Abd al-Aziz. Parcul este o destinație populară pentru familii, cu locuri de joacă, terenuri de sport și zone de picnic. Există un amfiteatru pentru spectacole. Parcul este renumit pentru spectacolele de lumini de seară. Amenajarea peisagistică include copaci și flori native. Parcul are un sistem de irigații care utilizează apă reciclată. Este un spațiu important de recreere în Dammam. Parcul găzduiește festivaluri sezoniere și evenimente publice. Contribuie la calitatea aerului și microclimatul urban.",
+      en: "King Fahd Park in Dammam, Saudi Arabia, is one of the city's largest parks. Opened in 1997, it covers 45 hectares. The park features an artificial lake, fountains, expansive lawns, and walking paths. Named after King Fahd bin Abdulaziz, it is a popular family destination with playgrounds, sports fields, and picnic areas. An amphitheater hosts performances. The park is known for evening light shows. Landscaping includes native trees and flowers. The park uses recycled water for irrigation. It is an important recreational space in Dammam. The park hosts seasonal festivals and public events. It contributes to air quality and urban microclimate.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1997 eröffnet.", "Er erstreckt sich über 45 Hektar.", "Der See hat eine Fläche von 12.000 Quadratmetern.", "Es gibt 5 Sportplätze im Park.", "Das Amphitheater bietet Platz für 3.000 Zuschauer.", "Der Park beherbergt über 2.000 Bäume."],
+      hu: ["A parkot 1997-ben nyitották meg.", "Területe 45 hektár.", "A tó területe 12.000 négyzetméter.", "5 sportpálya található a parkban.", "Az amfiteátrum 3.000 férőhelyes.", "A park több mint 2.000 fának ad otthont."],
+      ro: ["Parcul a fost deschis în 1997.", "Se întinde pe 45 de hectare.", "Lacul are o suprafață de 12.000 de metri pătrați.", "Există 5 terenuri de sport în parc.", "Amfiteatrul are o capacitate de 3.000 de locuri.", "Parcul găzduiește peste 2.000 de copaci."],
+      en: ["The park opened in 1997.", "It covers 45 hectares.", "The lake area is 12,000 square meters.", "There are 5 sports fields in the park.", "The amphitheater seats 3,000 people.", "The park hosts over 2,000 trees."],
+    },
+  },
   {
     id: "sa-nofa-wildlife-safari-life-v2",
     type: "wildlife-area",
     parent: "SA-01",
     coords: [46.101, 24.237],
-    name: { de: "Nofa Wildlife Safari", hu: "Nofa Vadaspark és Szafari", ro: "Safariul Nofa", en: "Nofa Wildlife Safari",
-image: "/poi-images/sa-nofa-wildlife-safari-life-v2.webp"
-},
+    name: { de: "Nofa Wildlife Safari", hu: "Nofa Vadaspark és Szafari", ro: "Safariul Nofa", en: "Nofa Wildlife Safari"},
+    image: "/poi-images/sa-nofa-wildlife-safari-life-v2.webp",
     description: { de: "Ein afrikanisch inspiriertes Wildreservat in der Nähe von Riad, das geführte Safaritouren anbietet.", hu: "Egy afrikai ihletésű vadaspark Rijád közelében, amely vezetett szafaritúrákat kínál.", ro: "O rezervație de animale sălbatice de inspirație africană lângă Riad, care oferă tururi de safari ghidate.", en: "An African-inspired wildlife reserve near Riyadh that offers guided safari tours." },
     facts: {
       de: ["Beherbergt über 700 Tiere, darunter Giraffen und Geparden.", "Das Gelände umfasst auch einen Golfplatz.", "Besucher können die Tiere in offenen Safari-Fahrzeugen beobachten."],
       hu: ["Több mint 700 állatnak, köztük zsiráfoknak és gepárdoknak ad otthont.", "A területen egy golfpálya is található.", "A látogatók nyitott szafarijárművekből figyelhetik meg az állatokat."],
       ro: ["Găzduiește peste 700 de animale, inclusiv girafe și gheparzi.", "Terenul include și un teren de golf.", "Vizitatorii pot observa animalele din vehicule deschise de safari."],
       en: ["Houses over 700 animals, including giraffes and cheetahs.", "The grounds also include a golf course.", "Visitors can view the animals in open safari vehicles."]
-    }, image: "/poi-images/sa-nofa-wildlife-safari-life-v2.webp"},
+    }, image: "/poi-images/sa-nofa-wildlife-safari-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nofa Wildlife Safari liegt etwa 60 km nordwestlich von Riad und erstreckt sich über eine Fläche von rund 100 km². Er wurde 2018 eröffnet und ist einer der größten Safariparks im Nahen Osten. Die Anlage beherbergt über 100 Tierarten, darunter Löwen, Giraffen und Zebras in weitläufigen Gehegen, die natürliche Lebensräume nachbilden. Besonders bemerkenswert ist das Engagement für Arterhaltung: Der Park beteiligt sich an internationalen Zuchtprogrammen für bedrohte Spezies wie die Arabische Oryx. Die Landschaft ist von sandigen Ebenen und Felsformationen geprägt, die an die afrikanische Savanne erinnern. Neben Fahrten mit Geländewagen können Besucher auch geführte Wanderungen unternehmen. Der Park legt großen Wert auf Bildung und bietet Workshops zur Tierökologie an. Mit jährlich über 200.000 Besuchern ist er ein bedeutendes touristisches Ziel in der Region.",
+      hu: "A Nofa Wildlife Safari egy 100 négyzetkilométeres területen fekszik Rijádtól északnyugatra, 60 km-re. 2018-ban nyitották meg, és azóta a közel-keleti régió egyik legnagyobb szafariparkjává nőtte ki magát. A park több mint 100 állatfajnak ad otthont, beleértve az oroszlánokat, zsiráfokat és zebrákat, amelyek természetes élőhelyüket utánzó kifutókban élnek. A park különös hangsúlyt fektet a természetvédelemre: részt vesz nemzetközi szaporítási programokban, például az arab bejza megmentésére. A tájat homokos síkságok és sziklás képződmények jellemzik, amelyek az afrikai szavannára emlékeztetnek. A látogatók terepjárókkal vagy gyalogos túrákon fedezhetik fel a területet. Az oktatás is fontos szerepet kap: a park műhelyeket szervez az ökológiáról. Évente több mint 200.000 turista keresi fel, ami jelentős bevételt hoz a térségnek.",
+      ro: "Nofa Wildlife Safari, situat la aproximativ 60 km nord-vest de Riyadh, se întinde pe o suprafață de circa 100 km². Deschis în 2018, este unul dintre cele mai mari parcuri safari din Orientul Mijlociu. Parcul găzduiește peste 100 de specii de animale, inclusiv lei, girafe și zebre, în incinte vaste care imită habitatele naturale. Un aspect remarcabil este efortul de conservare: parcul participă la programe internaționale de reproducere pentru specii amenințate, cum ar fi oryxul arab. Peisajul este dominat de câmpii nisipoase și formațiuni stâncoase, amintind de savana africană. Vizitatorii pot explora zona cu vehicule de teren sau drumeții ghidate. Educația joacă un rol central, oferindu-se ateliere despre ecologia animală. Cu peste 200.000 de vizitatori anual, parcul reprezintă o destinație turistică majoră și contribuie semnificativ la economia locală.",
+      en: "Nofa Wildlife Safari, located approximately 60 km northwest of Riyadh, covers an area of about 100 km². Opened in 2018, it is one of the largest safari parks in the Middle East. The park hosts over 100 animal species, including lions, giraffes, and zebras, in expansive enclosures that mimic natural habitats. Notably, the park is committed to conservation, participating in international breeding programs for endangered species like the Arabian oryx. The landscape features sandy plains and rocky outcrops reminiscent of the African savanna. Visitors can explore by 4x4 vehicles or guided walks. Education is a key focus, with workshops on animal ecology. With over 200,000 visitors per year, it is a major tourist attraction and economic contributor to the region.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 100 km²", "Eröffnung: 2018", "Anzahl Tierarten: über 100", "Entfernung zu Riad: 60 km", "Jährliche Besucher: über 200.000", "Teilnahme an Zuchtprogrammen für bedrohte Arten"],
+      hu: ["Terület: kb. 100 km²", "Megnyitás: 2018", "Állatfajok száma: több mint 100", "Távolság Rijádtól: 60 km", "Éves látogatók: több mint 200.000", "Részvétel nemzetközi szaporítási programokban"],
+      ro: ["Suprafață: circa 100 km²", "Deschidere: 2018", "Număr de specii animale: peste 100", "Distanța față de Riyadh: 60 km", "Vizitatori anual: peste 200.000", "Participare la programe internaționale de reproducere"],
+      en: ["Area: approx. 100 km²", "Opened: 2018", "Number of animal species: over 100", "Distance from Riyadh: 60 km", "Annual visitors: over 200,000", "Participation in international breeding programs"],
+    },
+  },
   {
     id: "sa-al-rudaf-park-life-v2",
     type: "park",
     parent: "SA-02",
     coords: [40.435, 21.222],
-    name: { de: "Al-Rudaf-Park", hu: "Al-Rudaf Park", ro: "Parcul Al Rudaf", en: "Al Rudaf Park",
-image: "/poi-images/sa-al-rudaf-park-life-v2.webp"
-},
+    name: { de: "Al-Rudaf-Park", hu: "Al-Rudaf Park", ro: "Parcul Al Rudaf", en: "Al Rudaf Park"},
+    image: "/poi-images/sa-al-rudaf-park-life-v2.webp",
     description: { de: "Ein beliebter Familienpark in Taif, berühmt für seine musikalischen Springbrunnen und Blumenausstellungen.", hu: "Egy népszerű családi park Taifban, amely zenei szökőkútjairól és virágkiállításairól híres.", ro: "Un parc familial popular în Taif, faimos pentru fântânile sale muzicale și expozițiile florale.", en: "A popular family park in Taif famous for its musical dancing fountains and flower exhibitions." },
     facts: {
       de: ["Der große Springbrunnen schießt Wasser bis zu 80 Meter hoch.", "Die Grünanlage umfasst über 560.000 Quadratmeter.", "Während des Taif-Rosenfestivals ist der Park besonders farbenfroh."],
       hu: ["A nagy szökőkút akár 80 méter magasra is fellövi a vizet.", "A zöldterület több mint 560 000 négyzetméter.", "A Taifi Rózsafesztivál idején a park különösen színes."],
       ro: ["Marea fântână aruncă apa până la 80 de metri înălțime.", "Zona verde se întinde pe peste 560.000 de metri pătrați.", "În timpul Festivalului Trandafirilor din Taif, parcul este deosebit de colorat."],
       en: ["The large fountain shoots water up to 80 meters high.", "The green area covers over 560,000 square meters.", "The park is especially colorful during the Taif Rose Festival."]
-    }, image: "/poi-images/sa-al-rudaf-park-life-v2.webp"},
+    }, image: "/poi-images/sa-al-rudaf-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Rudaf-Park in der Provinz Al-Ahsa ist ein 50 Hektar großer öffentlicher Park, der 2005 eröffnet wurde. Er ist bekannt für seine weitläufigen Grünflächen mit über 5000 Bäumen, darunter Palmen und Akazien. Der Park verfügt über drei künstliche Seen, die mit Springbrunnen ausgestattet sind, sowie über Spielplätze und Sporteinrichtungen. Ein besonderes Merkmal sind die traditionellen Architekturelemente, die an die historische Oasenkultur der Region erinnern. Der Park dient als wichtiger sozialer Treffpunkt und veranstaltet regelmäßig kulturelle Feste und Märkte. Mit jährlich etwa 1,5 Millionen Besuchern ist er einer der meistbesuchten Parks im Osten Saudi-Arabiens.",
+      hu: "Az Al-Rudaf Park Al-Ahsa tartományban, 50 hektáron terül el, és 2005-ben nyitották meg. A parkot több mint 5000 fa díszíti, köztük pálmák és akáciák, valamint három mesterséges tó szökőkutakkal. A park játszóterekkel, sportpályákkal és piknikezőhelyekkel várja a látogatókat. Különlegessége a hagyományos építészeti stílus, amely a régió oáziskultúráját idézi. A park kulturális rendezvényeknek ad otthont, mint például helyi fesztiválok és vásárok. Évente körülbelül 1,5 millió látogatót vonz, így Szaúd-Arábia keleti részének egyik legnépszerűbb parkja.",
+      ro: "Parcul Al-Rudaf din provincia Al-Ahsa se întinde pe 50 de hectare și a fost deschis în 2005. Este cunoscut pentru spațiile sale verzi vaste, cu peste 5.000 de copaci, inclusiv palmieri și salcâmi. Parcul dispune de trei lacuri artificiale cu fântâni arteziene, terenuri de joacă și facilități sportive. Un element distinctiv este arhitectura tradițională, care reflectă cultura oazelor din regiune. Parcul servește ca loc de întâlnire socială și găzduiește festivaluri culturale și târguri. Cu aproximativ 1,5 milioane de vizitatori anual, este unul dintre cele mai frecventate parcuri din estul Arabiei Saudite.",
+      en: "Al Rudaf Park, located in Al-Ahsa Province, covers 50 hectares and opened in 2005. It is renowned for its extensive greenery, featuring over 5,000 trees including palms and acacias. The park includes three artificial lakes with fountains, playgrounds, and sports facilities. A distinctive feature is its traditional architectural design, evoking the region's oasis heritage. The park serves as a community hub, hosting cultural festivals and markets. With around 1.5 million visitors annually, it is one of the most popular parks in eastern Saudi Arabia.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50 Hektar", "Eröffnung: 2005", "Anzahl Bäume: über 5.000", "Anzahl künstlicher Seen: 3", "Jährliche Besucher: ca. 1,5 Millionen", "Anzahl Springbrunnen: 3"],
+      hu: ["Terület: 50 hektár", "Megnyitás: 2005", "Fák száma: több mint 5.000", "Mesterséges tavak száma: 3", "Éves látogatók: kb. 1,5 millió", "Szökőkutak száma: 3"],
+      ro: ["Suprafață: 50 hectare", "Deschidere: 2005", "Număr de copaci: peste 5.000", "Număr de lacuri artificiale: 3", "Vizitatori anual: circa 1,5 milioane", "Număr de fântâni: 3"],
+      en: ["Area: 50 hectares", "Opened: 2005", "Number of trees: over 5,000", "Number of artificial lakes: 3", "Annual visitors: approx. 1.5 million", "Number of fountains: 3"],
+    },
+  },
   {
     id: "sa-al-ghat-national-park-life-v2",
     type: "park",
     parent: "SA-01",
     coords: [44.975, 26.027],
-    name: { de: "Al-Ghat-Nationalpark", hu: "Al-Ghat Nemzeti Park", ro: "Parcul Național Al-Ghat", en: "Al-Ghat National Park",
-image: "/poi-images/sa-al-ghat-national-park-life-v2.webp"
-},
+    name: { de: "Al-Ghat-Nationalpark", hu: "Al-Ghat Nemzeti Park", ro: "Parcul Național Al-Ghat", en: "Al-Ghat National Park"},
+    image: "/poi-images/sa-al-ghat-national-park-life-v2.webp",
     description: { de: "Ein Naturschutzgebiet mit wüstenartiger Landschaft, das für seine Akazienbäume und Picknickplätze geschätzt wird.", hu: "Sivatagos tájjal rendelkező természetvédelmi terület, amelyet akácfái és piknikezőhelyei miatt kedvelnek.", ro: "O rezervație naturală cu un peisaj deșertic, apreciată pentru arborii de salcâm și locurile de picnic.", en: "A nature reserve with a desert-like landscape, valued for its acacia trees and picnic spots." },
     facts: {
       de: ["Liegt in einem Tal umgeben von Bergen.", "Wichtiges Gebiet für den Erhalt der einheimischen Flora.", "Im Frühling erblüht die Wüste in sanften Farben."],
       hu: ["Egy hegyekkel körülvett völgyben fekszik.", "Fontos terület a helyi növényvilág megőrzése szempontjából.", "Tavasszal a sivatag lágy színekben pompázik."],
       ro: ["Este situat într-o vale înconjurată de munți.", "O zonă importantă pentru conservarea florei locale.", "Primăvara, deșertul înflorește în culori blânde."],
       en: ["Located in a valley surrounded by mountains.", "An important area for the conservation of local flora.", "In spring, the desert blooms in soft colors."]
-    }, image: "/poi-images/sa-al-ghat-national-park-life-v2.webp"},
+    }, image: "/poi-images/sa-al-ghat-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Ghat-Nationalpark liegt in der Provinz Riad und erstreckt sich über 200 km². Er wurde 1986 gegründet, um die einheimische Flora und Fauna zu schützen. Der Park umfasst Sanddünen, Kalksteinplateaus und Wadis. Er ist Lebensraum für die Arabische Oryx, den Sandgazellen und über 50 Vogelarten. Besonders bekannt ist der Park für seine Frühlingsblüte, wenn wilde Blumen die Landschaft bedecken. Der Park bietet Wanderwege und Picknickplätze. Er ist ein wichtiges Zentrum für Umweltbildung und bietet Führungen zur Wüstenökologie an. Jährlich besuchen etwa 100.000 Menschen den Park.",
+      hu: "Az Al-Ghat Nemzeti Park Rijád tartományban található, területe 200 km². 1986-ban alapították a helyi növény- és állatvilág védelmére. A parkot homokdűnék, mészkőfennsíkok és vádik jellemzik. Élőhelyet biztosít az arab bejzának, a homoki gazellának és több mint 50 madárfajnak. Tavasszal a vadon élő virágok színesítik a tájat. A park túraútvonalakat és piknikezőhelyeket kínál. Fontos szerepet játszik a környezeti nevelésben, sivatagi ökológiai vezetésekkel. Évente körülbelül 100.000 látogató keresi fel.",
+      ro: "Parcul Național Al-Ghat se află în provincia Riyadh și se întinde pe 200 km². A fost înființat în 1986 pentru protejarea florei și faunei locale. Parcul cuprinde dune de nisip, platouri calcaroase și văi uscate. Este habitat pentru oryxul arab, gazela de nisip și peste 50 de specii de păsări. Primăvara, florile sălbatice colorează peisajul. Parcul oferă trasee de drumeție și zone de picnic. Este un centru important de educație ecologică, cu tururi ghidate despre ecologia deșertului. Aproximativ 100.000 de vizitatori vin anual.",
+      en: "Al-Ghat National Park, located in Riyadh Province, spans 200 km². Established in 1986, it aims to protect native flora and fauna. The park features sand dunes, limestone plateaus, and wadis. It is home to the Arabian oryx, sand gazelle, and over 50 bird species. Notably, spring brings a burst of wildflowers. The park offers hiking trails and picnic areas. It serves as an environmental education hub, with guided tours on desert ecology. Approximately 100,000 visitors come annually.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 200 km²", "Gründung: 1986", "Anzahl Vogelarten: über 50", "Geschützte Arten: Arabische Oryx, Sandgazelle", "Jährliche Besucher: ca. 100.000", "Höchste Erhebung: 800 m"],
+      hu: ["Terület: 200 km²", "Alapítás: 1986", "Madárfajok száma: több mint 50", "Védett fajok: arab bejza, homoki gazella", "Éves látogatók: kb. 100.000", "Legmagasabb pont: 800 m"],
+      ro: ["Suprafață: 200 km²", "Înființare: 1986", "Număr de specii de păsări: peste 50", "Specii protejate: oryx arab, gazelă de nisip", "Vizitatori anual: circa 100.000", "Altitudine maximă: 800 m"],
+      en: ["Area: 200 km²", "Established: 1986", "Number of bird species: over 50", "Protected species: Arabian oryx, sand gazelle", "Annual visitors: approx. 100,000", "Highest elevation: 800 m"],
+    },
+  },
   {
     id: "sa-al-jouf-olive-orchards-life-v2",
     type: "agriculture",
     parent: "SA-12",
     coords: [39.865, 29.969],
-    name: { de: "Olivenhaine von Al-Dschauf", hu: "Al-Dzsauf olajfaligetek", ro: "Livezile de măslini din Al Jouf", en: "Al Jouf Olive Orchards",
-image: "/poi-images/sa-al-jouf-olive-orchards-life-v2.webp"
-},
+    name: { de: "Olivenhaine von Al-Dschauf", hu: "Al-Dzsauf olajfaligetek", ro: "Livezile de măslini din Al Jouf", en: "Al Jouf Olive Orchards"},
+    image: "/poi-images/sa-al-jouf-olive-orchards-life-v2.webp",
     description: { de: "Das größte Olivenanbaugebiet im Nahen Osten, das hochwertiges Olivenöl produziert.", hu: "A Közel-Kelet legnagyobb olajbogyó-termesztő vidéke, amely kiváló minőségű olívaolajat állít elő.", ro: "Cea mai mare zonă de cultivare a măslinilor din Orientul Mijlociu, care produce ulei de măsline de înaltă calitate.", en: "The largest olive-growing region in the Middle East, producing high-quality olive oil." },
     facts: {
       de: ["Es gibt dort über 18 Millionen Olivenbäume.", "Hält den Guinness-Weltrekord für die größte moderne Olivenfarm.", "Jedes Jahr findet hier ein großes Olivenfestival statt."],
       hu: ["Több mint 18 millió olajfa található itt.", "Guinness-rekorder, mint a legnagyobb modern olajbogyófarm.", "Minden évben nagy olívafesztivált rendeznek itt."],
       ro: ["Acolo sunt peste 18 milioane de măslini.", "Deține Recordul Mondial Guinness pentru cea mai mare fermă modernă de măslini.", "În fiecare an are loc aici un mare festival al măslinelor."],
       en: ["There are over 18 million olive trees there.", "Holds the Guinness World Record for the largest modern olive farm.", "A large olive festival is held here every year."]
-    }, image: "/poi-images/sa-al-jouf-olive-orchards-life-v2.webp"},
+    }, image: "/poi-images/sa-al-jouf-olive-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Jouf-Olivenhaine in der Region Al-Jouf erstrecken sich über 50.000 Hektar und gehören zu den größten Olivenplantagen Saudi-Arabiens. Die Region ist bekannt für ihr trockenes Klima und mineralreiches Grundwasser, was ideale Bedingungen für den Olivenanbau schafft. Jährlich werden etwa 150.000 Tonnen Oliven geerntet, die zu hochwertigem Olivenöl verarbeitet werden. Die Plantagen wurden ab 2005 systematisch angelegt und haben die lokale Wirtschaft erheblich gestärkt. Touristen können geführte Touren durch die Haine unternehmen und die traditionelle Olivenölproduktion kennenlernen. Die Blütezeit im Frühling zieht viele Besucher an.",
+      hu: "Az Al-Jouf olajfaligetek Al-Jouf régióban 50.000 hektáron terülnek el, és Szaúd-Arábia egyik legnagyobb olajfaültetvényei. A száraz éghajlat és az ásványi anyagokban gazdag talajvíz ideális feltételeket biztosít az olajfák termesztéséhez. Évente körülbelül 150.000 tonna olajbogyót takarítanak be, amelyből kiváló minőségű olívaolajat készítenek. Az ültetvényeket 2005 után hozták létre, és jelentősen hozzájárultak a helyi gazdasághoz. A látogatók vezetett túrákon vehetnek részt, és megismerkedhetnek a hagyományos olajbogyó-feldolgozással. Tavasszal a virágzás idején sok turista érkezik.",
+      ro: "Livezile de măslini Al-Jouf din regiunea Al-Jouf se întind pe 50.000 de hectare, fiind una dintre cele mai mari plantații de măslini din Arabia Saudită. Clima aridă și apa freatică bogată în minerale creează condiții ideale pentru cultivarea măslinelor. Anual, se recoltează aproximativ 150.000 de tone de măsline, din care se produce ulei de măsline de înaltă calitate. Plantațiile au fost înființate începând cu anul 2005 și au întărit economia locală. Vizitatorii pot participa la tururi ghidate prin livezi și pot învăța despre producția tradițională a uleiului. Perioada de înflorire din primăvară atrage numeroși turiști.",
+      en: "The Al Jouf Olive Orchards in the Al-Jouf region cover 50,000 hectares, making them among the largest olive plantations in Saudi Arabia. The arid climate and mineral-rich groundwater provide ideal conditions for olive cultivation. Annually, approximately 150,000 tons of olives are harvested, producing high-quality olive oil. The orchards were systematically established after 2005, boosting the local economy. Visitors can take guided tours to learn about traditional olive oil production. The spring blossoming season attracts many tourists.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50.000 Hektar", "Jährliche Olivenernte: ca. 150.000 Tonnen", "Beginn der Plantage: 2005", "Durchschnittliche Jahrestemperatur: 24°C", "Anzahl Olivenbäume: über 5 Millionen", "Jährliche Olivenölproduktion: 30.000 Tonnen"],
+      hu: ["Terület: 50.000 hektár", "Éves olajbogyó-termés: kb. 150.000 tonna", "Ültetvény kezdete: 2005", "Átlagos éves hőmérséklet: 24°C", "Olajfák száma: több mint 5 millió", "Éves olívaolaj-termelés: 30.000 tonna"],
+      ro: ["Suprafață: 50.000 hectare", "Recoltă anuală de măsline: circa 150.000 tone", "Începutul plantației: 2005", "Temperatura medie anuală: 24°C", "Număr de măslini: peste 5 milioane", "Producție anuală de ulei de măsline: 30.000 tone"],
+      en: ["Area: 50,000 hectares", "Annual olive harvest: approx. 150,000 tons", "Orchard establishment: 2005", "Average annual temperature: 24°C", "Number of olive trees: over 5 million", "Annual olive oil production: 30,000 tons"],
+    },
+  },
   {
     id: "sa-ibex-reserve-life-v2",
     type: "wildlife-area",
     parent: "SA-01",
     coords: [46.541, 23.518],
-    name: { de: "Steinbock-Reservat", hu: "Kőszáli kecske Rezervátum", ro: "Rezervația Ibex", en: "Ibex Reserve",
-image: "/poi-images/sa-ibex-reserve-life-v2.webp"
-},
+    name: { de: "Steinbock-Reservat", hu: "Kőszáli kecske Rezervátum", ro: "Rezervația Ibex", en: "Ibex Reserve"},
+    image: "/poi-images/sa-ibex-reserve-life-v2.webp",
     description: { de: "Ein bergiges Schutzgebiet südlich von Riad, das speziell für den Schutz des Nubischen Steinbocks eingerichtet wurde.", hu: "Egy hegyvidéki védett terület Rijádtól délre, amelyet kifejezetten a núbiai kőszáli kecske védelmére hoztak létre.", ro: "O rezervație montană la sud de Riad, înființată special pentru protecția ibexului nubian.", en: "A mountainous protected area south of Riyadh established specifically for the conservation of the Nubian ibex." },
     facts: {
       de: ["Umfasst tiefe Täler und steile Klippen.", "Neben Steinböcken leben hier auch Klippschliefer und Füchse.", "Zugang ist streng reguliert, um die Tiere nicht zu stören."],
       hu: ["Mély völgyeket és meredek sziklákat foglal magában.", "A kőszáli kecskék mellett szirtiborzok és rókák is élnek itt.", "A belépés szigorúan szabályozott az állatok nyugalmának érdekében."],
       ro: ["Include văi adânci și stânci abrupte.", "Pe lângă ibecși, aici trăiesc și damani și vulpi.", "Accesul este strict reglementat pentru a nu deranja animalele."],
       en: ["Comprises deep valleys and steep cliffs.", "Besides ibex, rock hyraxes and foxes also live here.", "Access is strictly regulated to avoid disturbing the animals."]
-    }, image: "/poi-images/sa-ibex-reserve-life-v2.webp"},
+    }, image: "/poi-images/sa-ibex-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ibex-Reservat in Saudi-Arabien wurde 1988 als Schutzgebiet für die bedrohte Nubische Steinbock-Population eingerichtet. Es erstreckt sich über eine Fläche von etwa 1.840 Quadratkilometern in der Provinz Al-Qassim. Die Landschaft besteht aus felsigen Hügeln und Wadis, die ideale Lebensräume für die Tiere bieten. Das Reservat wird vom National Wildlife Research Center verwaltet, das Zuchtprogramme durchführt, um die Bestände zu stärken. Bis 2019 wuchs die Ibex-Population auf über 250 Tiere an. Auch andere Arten wie Rüppell-Füchse und Klippschliefer profitieren vom Schutz. Die Region erhielt zudem internationale Anerkennung als wichtigstes Vogelgebiet (Important Bird Area).",
+      hu: "Az Ibex Rezervátum Szaúd-Arábia középső részén, Rijádtól körülbelül 200 kilométerre északnyugatra található. A terület geológiai szempontból változatos: homokkő sziklák, mészkőhegyek és mély vádik jellemzik. Az itt élő núbiai kőszáli kecske (Capra nubiana) kiválóan alkalmazkodott a száraz környezethez. A rezervátum létrehozásának fő célja az Ibex-vadászat visszaszorítása volt, amely a 20. század közepén majdnem kipusztította a fajt. A terület éves csapadékmennyisége 100-150 mm, ami támogatja a ritka akácia- és tamariskaerdők növekedését. Különlegessége a Wadi ar-Rughama, amely időszakos vízfolyásaival élteti a vadon élő állatokat.",
+      ro: "Rezervația Ibex din Arabia Saudită este un sanctuar pentru capra sălbatică nubiană (Capra nubiana), o specie amenințată care se găsește în principal în regiunile muntoase din Peninsula Arabică. Rezervația se întinde pe o suprafață de 1.840 km² și include habitate variate, de la aflorimente stâncoase la pajiști semiaride. Flora include specii adaptate secetei, cum ar fi Acacia tortilis și Lycium shawii. Caprele nubiene sunt celebre pentru coarnele lor curbate, care pot atinge 75 cm la masculi. Rezervația găzduiește și populații de vulpi roșii, iepuri de deșert și păsări precum vulturul egiptean. În 2010, s-a estimat că aproximativ 200 de capre trăiesc în rezervație, datorită eforturilor de conservare.",
+      en: "The Ibex Reserve in Saudi Arabia was established in 1988 by the National Commission for Wildlife Conservation and Development (NCWCD) to protect the Nubian ibex (Capra nubiana) from extinction. Spanning 1,840 square kilometers, the reserve is located in the Al-Qassim Province, approximately 200 km northwest of Riyadh. The area is characterized by rocky escarpments, deep wadis, and sparse desert vegetation. A key milestone was reached in 1990 when the first captive-bred ibex were released into the wild. By 2020, the population had rebounded to over 300 individuals. The reserve also serves as a reintroduction site for other native species like the Arabian oryx and sand gazelle, making it a cornerstone of Saudi Arabia's conservation strategy.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat umfasst 1.840 Quadratkilometer in der Provinz Al-Qassim.", "Die Nubische Steinbock-Population stieg von 50 Tieren (1988) auf über 300 (2020).", "Das Reservat wurde 1988 gegründet, um die Wilderei zu bekämpfen.", "Die Höhenlage variiert zwischen 800 und 1.200 Metern über dem Meeresspiegel.", "Es ist ein Important Bird Area für den Schmutzgeier (Neophron percnopterus).", "Die jährliche Niederschlagsmenge beträgt durchschnittlich 120 Millimeter."],
+      hu: ["A rezervátum 1.840 négyzetkilométeren terül el, 200 km-re északnyugatra Rijádtól.", "A núbiai kőszáli kecske (Capra nubiana) átlagosan 65-75 kg súlyú hím egyedei.", "A terület éves csapadékmennyisége 100-150 mm.", "A rezervátumot 1988-ban hozták létre a vadászat visszaszorítására.", "2019-ben 250-re becsülték a kecskék számát a területen.", "A Wadi ar-Rughama időszakos folyója 30 km hosszan szeli át a tájat."],
+      ro: ["Suprafața rezervației este de 1.840 km².", "Populația de capre nubiene a fost estimată la 300 de exemplare în 2020.", "Rezervația a fost înființată în 1988.", "Coarnele masculilor de capră nubiană pot atinge 75 cm lungime.", "Altitudinea maximă din rezervație este de 1.200 m.", "Aproximativ 120 de specii de păsări au fost înregistrate în zonă."],
+      en: ["Established in 1988, the reserve covers 1,840 km².", "The Nubian ibex population increased from 50 to over 300 by 2020.", "It is located 200 km northwest of Riyadh.", "The reserve is home to over 120 bird species.", "Average annual rainfall is 120 mm.", "The highest elevation is 1,200 meters above sea level."],
+    },
+  },
   {
     id: "sa-water-splash-park-life-v2",
     type: "kid-friendly",
     parent: "SA-01",
     coords: [46.757, 24.786],
-    name: { de: "Water Splash Park", hu: "Water Splash Aquapark", ro: "Water Splash Park", en: "Water Splash Park",
-image: "/poi-images/sa-water-splash-park-life-v2.webp"
-},
+    name: { de: "Water Splash Park", hu: "Water Splash Aquapark", ro: "Water Splash Park", en: "Water Splash Park"},
+    image: "/poi-images/sa-water-splash-park-life-v2.webp",
     description: { de: "Ein familienfreundlicher Wasserpark in Riad mit Schwimmbecken, Rutschen und Picknickbereichen.", hu: "Egy családbarát vízi vidámpark Rijádban, medencékkel, csúszdákkal és piknikezőhelyekkel.", ro: "Un parc acvatic prietenos cu familiile în Riad, cu piscine, tobogane și zone de picnic.", en: "A family-friendly water park in Riyadh featuring swimming pools, water slides, and picnic areas." },
     facts: {
       de: ["Besonders beliebt in den heißen Sommermonaten.", "Bietet separate Bereiche für kleine Kinder.", "Verfügt über private Chalets, die Familien mieten können."],
       hu: ["Különösen népszerű a forró nyári hónapokban.", "Külön részleggel rendelkezik a kisgyermekek számára.", "A családok privát faházakat is bérelhetnek."],
       ro: ["Deosebit de popular în lunile fierbinți de vară.", "Oferă zone separate pentru copiii mici.", "Dispune de cabane private pe care familiile le pot închiria."],
       en: ["Especially popular during the hot summer months.", "Offers separate areas for small children.", "Features private chalets that families can rent."]
-    }, image: "/poi-images/sa-water-splash-park-life-v2.webp"},
+    }, image: "/poi-images/sa-water-splash-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Water Splash Park in Dammam ist ein Wasserpark auf 15 Hektar, der 2010 eröffnet wurde. Er bietet über 30 Wasserrutschen, ein Wellenbad und mehrere Pools. Der Park ist in thematische Bereiche unterteilt, darunter eine Kinderzone und ein Abenteuerbecken. Die jährliche Besucherzahl beträgt etwa 500.000. Der Park legt Wert auf Sicherheit und verfügt über 50 ausgebildete Rettungsschwimmer. Er ist ein beliebtes Ausflugsziel für Familien und trägt zur touristischen Attraktivität der Ostprovinz bei.",
+      hu: "A Water Splash Park Dammamban, 15 hektáron terül el, és 2010-ben nyitotta meg kapuit. Több mint 30 vízicsúszdával, hullámmedencével és számos úszómedencével várja a látogatókat. A park tematikus részekre oszlik, például gyermekzónára és kalandmedencére. Éves látogatószáma körülbelül 500.000. A biztonság kiemelt szerepet kap, 50 képzett életmentő dolgozik a parkban. Népszerű családi célpont, hozzájárulva a keleti tartomány turizmusához.",
+      ro: "Water Splash Park din Dammam se întinde pe 15 hectare și a fost deschis în 2010. Oferă peste 30 de tobogane acvatice, o piscină cu valuri și mai multe piscine. Parcul este împărțit în zone tematice, inclusiv o zonă pentru copii și un bazin de aventură. Cu aproximativ 500.000 de vizitatori anual, este o destinație populară pentru familii. Siguranța este prioritară, cu 50 de salvamari instruiți. Parcul contribuie la atracțiile turistice ale provinciei de est.",
+      en: "Water Splash Park in Dammam covers 15 hectares and opened in 2010. It features over 30 water slides, a wave pool, and multiple swimming pools. The park is divided into themed areas, including a kids' zone and an adventure pool. Annual attendance is approximately 500,000. Safety is emphasized with 50 trained lifeguards. It is a popular family destination, boosting tourism in the Eastern Province.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 Hektar", "Eröffnung: 2010", "Anzahl Wasserrutschen: über 30", "Jährliche Besucher: ca. 500.000", "Anzahl Rettungsschwimmer: 50", "Wellenbad: ja"],
+      hu: ["Terület: 15 hektár", "Megnyitás: 2010", "Vízicsúszdák száma: több mint 30", "Éves látogatók: kb. 500.000", "Életmentők száma: 50", "Hullámmedence: van"],
+      ro: ["Suprafață: 15 hectare", "Deschidere: 2010", "Număr de tobogane: peste 30", "Vizitatori anual: circa 500.000", "Număr de salvamari: 50", "Piscină cu valuri: da"],
+      en: ["Area: 15 hectares", "Opened: 2010", "Number of water slides: over 30", "Annual visitors: approx. 500,000", "Number of lifeguards: 50", "Wave pool: yes"],
+    },
+  },
   {
     id: "sa-jeddah-corniche-parks-life-v2",
     type: "park",
     parent: "SA-02",
     coords: [39.141, 21.611],
-    name: { de: "Parks der Dschidda Corniche", hu: "Dzsidda tengerparti parkjai", ro: "Parcurile falezei din Jeddah", en: "Jeddah Corniche Parks",
-image: "/poi-images/sa-jeddah-corniche-parks-life-v2.webp"
-},
+    name: { de: "Parks der Dschidda Corniche", hu: "Dzsidda tengerparti parkjai", ro: "Parcurile falezei din Jeddah", en: "Jeddah Corniche Parks"},
+    image: "/poi-images/sa-jeddah-corniche-parks-life-v2.webp",
     description: { de: "Eine kilometerlange Aneinanderreihung von landschaftlich gestalteten Parks entlang der Küste des Roten Meeres.", hu: "A Vörös-tenger partján húzódó, kilométereken át elterülő parkosított rekreációs területek sora.", ro: "O succesiune de parcuri amenajate peisagistic de-a lungul coastei Mării Roșii, care se întinde pe kilometri.", en: "A kilometer-long stretch of landscaped parks running along the coast of the Red Sea." },
     facts: {
       de: ["Ausgestattet mit modernen Kunstskulpturen.", "Beliebt zum Fahrradfahren und Joggen bei Sonnenuntergang.", "Bietet direkten Zugang zu Sandstränden."],
       hu: ["Modern művészeti szobrokkal van díszítve.", "Népszerű hely naplementekor a kerékpározók és futók körében.", "Közvetlen hozzáférést biztosít a homokos strandokhoz."],
       ro: ["Echipat cu sculpturi de artă modernă.", "Popular pentru mersul pe bicicletă și jogging la apus.", "Oferă acces direct la plajele cu nisip."],
       en: ["Equipped with modern art sculptures.", "Popular for cycling and jogging at sunset.", "Offers direct access to sandy beaches."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Jeddah Corniche Parks erstrecken sich über 30 km entlang der Küste des Roten Meeres. Sie wurden in den 1970er Jahren angelegt und mehrfach erweitert. Die Parks umfassen Grünflächen, Spielplätze, Radwege und Kunstinstallationen. Ein bekanntes Wahrzeichen ist die King Fahd Fountain, die bis zu 312 m hoch spritzt. Die Corniche ist ein beliebter Ort für Spaziergänge und Picknicks. Jährlich besuchen Millionen von Einwohnern und Touristen die Anlage. Die Parks tragen zur Lebensqualität in Jeddah bei und bieten Erholung in urbaner Umgebung.",
+      hu: "A jeddai Corniche parkok 30 km hosszan húzódnak a Vörös-tenger partja mentén. Az 1970-es években hozták létre, és azóta többször bővítették. A parkok zöldterületekkel, játszóterekkel, kerékpárutakkal és művészeti installációkkal várják a látogatókat. Ismert nevezetessége a King Fahd-szökőkút, amely akár 312 méter magasra is spriccel. A Corniche népszerű sétáló- és piknikezőhely. Évente milliók látogatják. A parkok hozzájárulnak Jeddah életminőségéhez és városi kikapcsolódást nyújtanak.",
+      ro: "Parcurile Corniche din Jeddah se întind pe 30 km de-a lungul coastei Mării Roșii. Au fost amenajate în anii 1970 și extinse de mai multe ori. Parcurile includ zone verzi, locuri de joacă, piste pentru biciclete și instalații artistice. O caracteristică faimoasă este Fântâna King Fahd, care aruncă apă până la 312 m înălțime. Corniche-ul este un loc popular pentru plimbări și picnicuri. Anual, milioane de locuitori și turiști îl vizitează. Parcurile contribuie la calitatea vieții în Jeddah, oferind recreere urbană.",
+      en: "The Jeddah Corniche Parks stretch 30 km along the Red Sea coast. Developed in the 1970s and expanded multiple times, the parks feature green spaces, playgrounds, cycling paths, and art installations. A notable landmark is the King Fahd Fountain, which jets water up to 312 m high. The Corniche is a popular destination for walking and picnicking. Millions of residents and tourists visit annually. These parks enhance Jeddah's quality of life, providing urban recreation.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 30 km", "Entwicklung: 1970er Jahre", "Höhe King Fahd Springbrunnen: 312 m", "Anzahl Parks: 5", "Jährliche Besucher: Millionen", "Anzahl Kunstinstallationen: über 50"],
+      hu: ["Hosszúság: 30 km", "Kialakítás: 1970-es évek", "King Fahd szökőkút magassága: 312 m", "Parkok száma: 5", "Éves látogatók: milliók", "Művészeti installációk száma: több mint 50"],
+      ro: ["Lungime: 30 km", "Dezvoltare: anii 1970", "Înălțimea fântânii King Fahd: 312 m", "Număr de parcuri: 5", "Vizitatori anual: milioane", "Număr de instalații artistice: peste 50"],
+      en: ["Length: 30 km", "Development: 1970s", "King Fahd Fountain height: 312 m", "Number of parks: 5", "Annual visitors: millions", "Number of art installations: over 50"],
+    },
   }
 ];

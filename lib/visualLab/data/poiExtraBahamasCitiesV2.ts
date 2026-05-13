@@ -6,9 +6,8 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     type: "city",
     parent: "BS-AK",
     coords: [-73.8833, 22.55],
-    name: { de: "Snug Corner", hu: "Snug Corner", ro: "Snug Corner", en: "Snug Corner",
-image: "/poi-images/snug-corner-cities-v2.webp"
-},
+    name: { de: "Snug Corner", hu: "Snug Corner", ro: "Snug Corner", en: "Snug Corner"},
+    image: "/poi-images/snug-corner-cities-v2.webp",
     description: { de: "Eine kleine Siedlung auf Acklins Island.", hu: "Kis település az Acklins-szigeten.", ro: "O mică așezare pe insula Acklins.", en: "A small settlement on Acklins Island." },
     facts: {
       de: ["Bietet Einblicke in das traditionelle Inselleben", "Wird hauptsächlich von Fischerei und Landwirtschaft geprägt", "In der Nähe von Salinen"],
@@ -36,9 +35,8 @@ image: "/poi-images/snug-corner-cities-v2.webp"
     type: "city",
     parent: "BS-NE",
     coords: [-76.5833, 25.3833],
-    name: { de: "Gregory Town", hu: "Gregory Town", ro: "Gregory Town", en: "Gregory Town",
-image: "/poi-images/gregory-town-cities-v2.webp"
-},
+    name: { de: "Gregory Town", hu: "Gregory Town", ro: "Gregory Town", en: "Gregory Town"},
+    image: "/poi-images/gregory-town-cities-v2.webp",
     description: { de: "Eine Stadt auf Eleuthera, die für ihre Ananas und das Surfen bekannt ist.", hu: "Város Eleuthera szigetén, ananászáról és szörfözési lehetőségeiről ismert.", ro: "Gregory Town este o localitate cunoscută în special pentru producția de ananas, situată pe insula Eleuthera. Este un punct de atracție pentru turiștii care caută o atmosferă autentică din Bahamas.", en: "A town on Eleuthera famous for its pineapples and surfing." },
     facts: {
       de: ["Veranstaltet das jährliche Ananas-Festival", "Heimat des berühmten 'Surfer's Beach'", "Hügelige Landschaft"],
@@ -66,9 +64,8 @@ image: "/poi-images/gregory-town-cities-v2.webp"
     type: "city",
     parent: "BS-EG",
     coords: [-78.4167, 26.5833],
-    name: { de: "Freetown", hu: "Freetown", ro: "Freetown", en: "Freetown",
-image: "/poi-images/freetown-cities-v2.webp"
-},
+    name: { de: "Freetown", hu: "Freetown", ro: "Freetown", en: "Freetown"},
+    image: "/poi-images/freetown-cities-v2.webp",
     description: { de: "Eine Siedlung auf Grand Bahama östlich von Freeport.", hu: "Település Grand Bahama szigetén, Freeporttól keletre.", ro: "O așezare pe Grand Bahama, la est de Freeport.", en: "A settlement on Grand Bahama, east of Freeport." },
     facts: {
       de: ["Historische Siedlung befreiter Sklaven", "Ländliche Gemeinde", "In der Nähe unberührter Strände"],
@@ -96,9 +93,8 @@ image: "/poi-images/freetown-cities-v2.webp"
     type: "city",
     parent: "BS-NE",
     coords: [-76.7333, 25.5667],
-    name: { de: "The Bluff", hu: "The Bluff", ro: "The Bluff", en: "The Bluff",
-image: "/poi-images/bluff-cities-v2.webp"
-},
+    name: { de: "The Bluff", hu: "The Bluff", ro: "The Bluff", en: "The Bluff"},
+    image: "/poi-images/bluff-cities-v2.webp",
     description: { de: "Eine Siedlung auf der Insel Eleuthera.", hu: "Település Eleuthera szigetén.", ro: "O așezare pe insula Eleuthera.", en: "A settlement on the island of Eleuthera." },
     facts: {
       de: ["Eine der ältesten Siedlungen auf Eleuthera", "Bekannt für seine landwirtschaftlichen Erzeugnisse", "Starke Gemeinschaftsbande"],
@@ -126,9 +122,8 @@ image: "/poi-images/bluff-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-75.25, 23.5333],
-    name: { de: "Dunmore", hu: "Dunmore", ro: "Dunmore", en: "Dunmore",
-image: "/poi-images/dunmore-cities-v2.webp"
-},
+    name: { de: "Dunmore", hu: "Dunmore", ro: "Dunmore", en: "Dunmore"},
+    image: "/poi-images/dunmore-cities-v2.webp",
     description: { de: "Eine kleine Siedlung auf Long Island.", hu: "Kis település Long Islanden.", ro: "O mică așezare pe Long Island.", en: "A small settlement on Long Island." },
     facts: {
       de: ["Benannt nach Lord Dunmore", "Ruhige, ländliche Atmosphäre", "In der Nähe von Sandstränden"],
@@ -156,9 +151,8 @@ image: "/poi-images/dunmore-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-75.2333, 23.45],
-    name: { de: "Simms", hu: "Simms", ro: "Simms", en: "Simms",
-image: "/poi-images/simms-cities-v2.webp"
-},
+    name: { de: "Simms", hu: "Simms", ro: "Simms", en: "Simms"},
+    image: "/poi-images/simms-cities-v2.webp",
     description: { de: "Eine Siedlung im Norden von Long Island.", hu: "Település Long Island északi részén.", ro: "O așezare în nordul Long Island.", en: "A settlement in the northern part of Long Island." },
     facts: {
       de: ["Wichtiges lokales Verwaltungszentrum", "Hat eine Klinik und eine Schule", "Die Gemeinde lebt von Fischerei und Landwirtschaft"],
@@ -186,9 +180,8 @@ image: "/poi-images/simms-cities-v2.webp"
     type: "city",
     parent: "BS-BY",
     coords: [-77.8333, 25.7333],
-    name: { de: "Bullock's Harbour", hu: "Bullock's Harbour", ro: "Bullock's Harbour", en: "Bullock's Harbour",
-image: "/poi-images/bullocks-harbour-cities-v2.webp"
-},
+    name: { de: "Bullock's Harbour", hu: "Bullock's Harbour", ro: "Bullock's Harbour", en: "Bullock's Harbour"},
+    image: "/poi-images/bullocks-harbour-cities-v2.webp",
     description: { de: "Die Hauptsiedlung auf den Berry Islands.", hu: "A Berry-szigetek fő települése.", ro: "Așezarea principală de pe insulele Berry.", en: "The main settlement on the Berry Islands." },
     facts: {
       de: ["Zentrum für die lokale Verwaltung", "Beliebtes Ziel für Yachtbesitzer", "Umschlagplatz für Postboote"],
@@ -216,9 +209,8 @@ image: "/poi-images/bullocks-harbour-cities-v2.webp"
     type: "city",
     parent: "BS-NE",
     coords: [-76.8, 25.4167],
-    name: { de: "Current", hu: "Current", ro: "Current", en: "Current",
-image: "/poi-images/current-cities-v2.webp"
-},
+    name: { de: "Current", hu: "Current", ro: "Current", en: "Current"},
+    image: "/poi-images/current-cities-v2.webp",
     description: { de: "Eine kleine Siedlung im Norden von Eleuthera.", hu: "Kis település Eleuthera északi részén.", ro: "O mică așezare în nordul Eleutherei.", en: "A small settlement in North Eleuthera." },
     facts: {
       de: ["Bekannt für seine starken Gezeitenströmungen", "Idealer Ort zum Drift-Tauchen", "Ruhige und malerische Lage"],
@@ -246,9 +238,8 @@ image: "/poi-images/current-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.45, 24.1667],
-    name: { de: "Staniel Cay", hu: "Staniel Cay", ro: "Staniel Cay", en: "Staniel Cay",
-image: "/poi-images/staniel-cay-cities-v2.webp"
-},
+    name: { de: "Staniel Cay", hu: "Staniel Cay", ro: "Staniel Cay", en: "Staniel Cay"},
+    image: "/poi-images/staniel-cay-cities-v2.webp",
     description: { de: "Eine Insel in den Exumas, berühmt für die nahegelegene Thunderball Grotto.", hu: "Sziget az Exumákban, a közeli Thunderball Grotto-ról híres.", ro: "O insulă în Exumas, faimoasă pentru Grota Thunderball din apropiere.", en: "An island in the Exumas famous for the nearby Thunderball Grotto." },
     facts: {
       de: ["Drehort für James-Bond-Filme", "Beherbergt einen beliebten Yachtclub", "Tor zum Exuma Cays Land and Sea Park"],
@@ -276,9 +267,8 @@ image: "/poi-images/staniel-cay-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.3, 24.0833],
-    name: { de: "Black Point", hu: "Black Point", ro: "Black Point", en: "Black Point",
-image: "/poi-images/black-point-cities-v2.webp"
-},
+    name: { de: "Black Point", hu: "Black Point", ro: "Black Point", en: "Black Point"},
+    image: "/poi-images/black-point-cities-v2.webp",
     description: { de: "Eine der größten Siedlungen in den Exuma Cays.", hu: "Az Exuma Cays egyik legnagyobb települése.", ro: "Una dintre cele mai mari așezări din Exuma Cays.", en: "One of the largest settlements in the Exuma Cays." },
     facts: {
       de: ["Bekannt für seine freundliche Gemeinschaft", "Wichtiger Anlaufpunkt für Segler", "Veranstaltet ein jährliches Segel-Regatta"],
@@ -306,9 +296,8 @@ image: "/poi-images/black-point-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.2667, 23.95],
-    name: { de: "Little Farmer's Cay", hu: "Little Farmer's Cay", ro: "Little Farmer's Cay", en: "Little Farmer's Cay",
-image: "/poi-images/little-farmers-cay-cities-v2.webp"
-},
+    name: { de: "Little Farmer's Cay", hu: "Little Farmer's Cay", ro: "Little Farmer's Cay", en: "Little Farmer's Cay"},
+    image: "/poi-images/little-farmers-cay-cities-v2.webp",
     description: { de: "Eine kleine, familiengeführte Insel in den Exumas.", hu: "Kis, családi vezetésű sziget az Exumákban.", ro: "O mică insulă administrată de o familie în Exumas.", en: "A small, family-run island in the Exumas." },
     facts: {
       de: ["Veranstaltet das 'Farmer's Cay Festival'", "Berühmt für seine Gastfreundschaft", "Lebt vom Tourismus und der Fischerei"],
@@ -336,9 +325,8 @@ image: "/poi-images/little-farmers-cay-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-75.3167, 23.6333],
-    name: { de: "Mortimer's", hu: "Mortimer's", ro: "Mortimer's", en: "Mortimer's",
-image: "/poi-images/mortimers-cities-v2.webp"
-},
+    name: { de: "Mortimer's", hu: "Mortimer's", ro: "Mortimer's", en: "Mortimer's"},
+    image: "/poi-images/mortimers-cities-v2.webp",
     description: { de: "Eine Siedlung an der Nordspitze von Long Island.", hu: "Település Long Island északi csücskén.", ro: "O așezare la vârful de nord al Long Island.", en: "A settlement at the northern tip of Long Island." },
     facts: {
       de: ["In der Nähe des Columbus Harbour", "Ruhige und abgelegene Gegend", "Ideal zum Angeln und Tauchen"],
@@ -364,9 +352,8 @@ image: "/poi-images/mortimers-cities-v2.webp"
     type: "city",
     parent: "BS-SO",
     coords: [-77.5833, 24.15],
-    name: { de: "Congo Town", hu: "Congo Town", ro: "Congo Town", en: "Congo Town",
-image: "/poi-images/congo-town-cities-v2.webp"
-},
+    name: { de: "Congo Town", hu: "Congo Town", ro: "Congo Town", en: "Congo Town"},
+    image: "/poi-images/congo-town-cities-v2.webp",
     description: { de: "Eine Siedlung auf South Andros Island.", hu: "Település South Andros szigetén.", ro: "O așezare pe insula South Andros.", en: "A settlement on South Andros Island." },
     facts: {
       de: ["Hat einen eigenen Flughafen", "Zentrum für Bonefishing-Lodges", "Ländliche Gemeinde"],
@@ -394,9 +381,8 @@ image: "/poi-images/congo-town-cities-v2.webp"
     type: "city",
     parent: "BS-SO",
     coords: [-77.6333, 24.05],
-    name: { de: "Kemp's Bay", hu: "Kemp's Bay", ro: "Kemp's Bay", en: "Kemp's Bay",
-image: "/poi-images/kemps-bay-cities-v2.webp"
-},
+    name: { de: "Kemp's Bay", hu: "Kemp's Bay", ro: "Kemp's Bay", en: "Kemp's Bay"},
+    image: "/poi-images/kemps-bay-cities-v2.webp",
     description: { de: "Eine Siedlung im südlichen Teil von Andros Island.", hu: "Település Andros szigetének déli részén.", ro: "O așezare în partea de sud a insulei Andros.", en: "A settlement in the southern part of Andros Island." },
     facts: {
       de: ["Bekannt für seine weitläufigen Strände", "Wichtige Anlaufstelle für Postboote", "Traditioneller bahamaischer Lebensstil"],
@@ -424,9 +410,8 @@ image: "/poi-images/kemps-bay-cities-v2.webp"
     type: "city",
     parent: "BS-SE",
     coords: [-76.2167, 25.0667],
-    name: { de: "Savannah Sound", hu: "Savannah Sound", ro: "Savannah Sound", en: "Savannah Sound",
-image: "/poi-images/savannah-sound-cities-v2.webp"
-},
+    name: { de: "Savannah Sound", hu: "Savannah Sound", ro: "Savannah Sound", en: "Savannah Sound"},
+    image: "/poi-images/savannah-sound-cities-v2.webp",
     description: { de: "Eine historische Siedlung auf der Insel Eleuthera.", hu: "Történelmi település Eleuthera szigetén.", ro: "O așezare istorică pe insula Eleuthera.", en: "A historic settlement on the island of Eleuthera." },
     facts: {
       de: ["Hat eine große, geschützte Bucht", "Gegründet im 18. Jahrhundert", "Ruhige Wohngegend"],
@@ -454,9 +439,8 @@ image: "/poi-images/savannah-sound-cities-v2.webp"
     type: "city",
     parent: "BS-MG",
     coords: [-73.1333, 22.45],
-    name: { de: "Pirate's Well", hu: "Pirate's Well", ro: "Pirate's Well", en: "Pirate's Well",
-image: "/poi-images/pirates-well-cities-v2.webp"
-},
+    name: { de: "Pirate's Well", hu: "Pirate's Well", ro: "Pirate's Well", en: "Pirate's Well"},
+    image: "/poi-images/pirates-well-cities-v2.webp",
     description: { de: "Eine der wenigen Siedlungen auf der abgelegenen Insel Mayaguana.", hu: "Egyike a kevés településnek a távoli Mayaguana szigetén.", ro: "Una dintre puținele așezări de pe insula îndepărtată Mayaguana.", en: "One of the few settlements on the remote island of Mayaguana." },
     facts: {
       de: ["Benannt nach einem Brunnen, der von Piraten genutzt wurde", "Sehr kleine und eng verbundene Gemeinschaft", "Umgeben von unberührter Natur"],
@@ -484,9 +468,8 @@ image: "/poi-images/pirates-well-cities-v2.webp"
     type: "city",
     parent: "BS-MG",
     coords: [-73.0, 22.3333],
-    name: { de: "Betsy Bay", hu: "Betsy Bay", ro: "Betsy Bay", en: "Betsy Bay",
-image: "/poi-images/betsy-bay-cities-v2.webp"
-},
+    name: { de: "Betsy Bay", hu: "Betsy Bay", ro: "Betsy Bay", en: "Betsy Bay"},
+    image: "/poi-images/betsy-bay-cities-v2.webp",
     description: { de: "Eine kleine Küstensiedlung auf der Insel Mayaguana.", hu: "Kis tengerparti település Mayaguana szigetén.", ro: "O mică așezare de coastă pe insula Mayaguana.", en: "A small coastal settlement on the island of Mayaguana." },
     facts: {
       de: ["Abgelegene und friedliche Lage", "Die Bewohner leben hauptsächlich von der Fischerei", "Wenig von der modernen Welt berührt"],
@@ -514,9 +497,8 @@ image: "/poi-images/betsy-bay-cities-v2.webp"
     type: "city",
     parent: "BS-CK",
     coords: [-74.35, 22.65],
-    name: { de: "Albert Town", hu: "Albert Town", ro: "Albert Town", en: "Albert Town",
-image: "/poi-images/albert-town-cities-v2.webp"
-},
+    name: { de: "Albert Town", hu: "Albert Town", ro: "Albert Town", en: "Albert Town"},
+    image: "/poi-images/albert-town-cities-v2.webp",
     description: { de: "Eine Siedlung auf Long Cay in den Crooked Islands.", hu: "Település Long Cay-en, a Crooked-szigeteken.", ro: "O așezare pe Long Cay în insulele Crooked.", en: "A settlement on Long Cay in the Crooked Islands." },
     facts: {
       de: ["Ehemals ein wichtiger Hafen für den Schwammhandel", "Heute eine sehr kleine Gemeinschaft", "Historische Ruinen in der Nähe"],
@@ -544,9 +526,8 @@ image: "/poi-images/albert-town-cities-v2.webp"
     type: "city",
     parent: "BS-RI",
     coords: [-75.7333, 22.1833],
-    name: { de: "Duncans", hu: "Duncans", ro: "Duncans", en: "Duncans",
-image: "/poi-images/duncans-cities-v2.webp"
-},
+    name: { de: "Duncans", hu: "Duncans", ro: "Duncans", en: "Duncans"},
+    image: "/poi-images/duncans-cities-v2.webp",
     description: { de: "Eine winzige Siedlung auf der abgelegenen Ragged Island.", hu: "Apró település a távoli Ragged-szigeten.", ro: "O așezare minusculă pe insula izolată Ragged.", en: "A tiny settlement on the remote Ragged Island." },
     facts: {
       de: ["Teil der Ragged Island Kette", "Sehr isoliert und autark", "Wurde vom Hurrikan Irma schwer beschädigt"],
@@ -574,9 +555,8 @@ image: "/poi-images/duncans-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-74.85, 22.85],
-    name: { de: "Gordon's", hu: "Gordon's", ro: "Gordon's", en: "Gordon's",
-image: "/poi-images/gordons-cities-v2.webp"
-},
+    name: { de: "Gordon's", hu: "Gordon's", ro: "Gordon's", en: "Gordon's"},
+    image: "/poi-images/gordons-cities-v2.webp",
     description: { de: "Die südlichste Siedlung auf Long Island.", hu: "A legdélibb település Long Islanden.", ro: "Cea mai sudică așezare de pe Long Island.", en: "The southernmost settlement on Long Island." },
     facts: {
       de: ["Bekannt für seine Nähe zu Flamingo-Kolonien", "Startpunkt für Ausflüge nach Conception Island", "Ruhige und natürliche Umgebung"],
@@ -604,9 +584,8 @@ image: "/poi-images/gordons-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-75.15, 23.3],
-    name: { de: "McKann's", hu: "McKann's", ro: "McKann's", en: "McKann's",
-image: "/poi-images/mckanns-cities-v2.webp"
-},
+    name: { de: "McKann's", hu: "McKann's", ro: "McKann's", en: "McKann's"},
+    image: "/poi-images/mckanns-cities-v2.webp",
     description: { de: "Eine Siedlung in der Mitte von Long Island.", hu: "Település Long Island közepén.", ro: "O așezare în centrul Long Island.", en: "A settlement in the middle of Long Island." },
     facts: {
       de: ["Günstig gelegen am Queen's Highway", "Landwirtschaft und Fischerei sind die Hauptwirtschaftszweige", "Nahe dem Deadman's Cay Flughafen"],
@@ -632,9 +611,8 @@ image: "/poi-images/mckanns-cities-v2.webp"
     type: "city",
     parent: "BS-CK",
     coords: [-74.3333, 22.8333],
-    name: { de: "Landrail Point", hu: "Landrail Point", ro: "Landrail Point", en: "Landrail Point",
-image: "/poi-images/landrail-point-cities-v2.webp"
-},
+    name: { de: "Landrail Point", hu: "Landrail Point", ro: "Landrail Point", en: "Landrail Point"},
+    image: "/poi-images/landrail-point-cities-v2.webp",
     description: { de: "Eine Siedlung auf Crooked Island, die für ihre Fischerei bekannt ist.", hu: "Település a Crooked-szigeten, halászatáról ismert.", ro: "O așezare pe insula Crooked, cunoscută pentru pescuitul său.", en: "A settlement on Crooked Island known for its fishing." },
     facts: {
       de: ["Beliebt bei Sportfischern", "In der Nähe der Ruinen von Marine Farm", "Bietet einen authentischen Einblick in die Out Islands"],
@@ -662,9 +640,8 @@ image: "/poi-images/landrail-point-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-75.9, 23.5667],
-    name: { de: "Moss Town", hu: "Moss Town", ro: "Moss Town", en: "Moss Town",
-image: "/poi-images/moss-town-cities-v2.webp"
-},
+    name: { de: "Moss Town", hu: "Moss Town", ro: "Moss Town", en: "Moss Town"},
+    image: "/poi-images/moss-town-cities-v2.webp",
     description: { de: "Eine Siedlung auf Great Exuma, in der Nähe des internationalen Flughafens.", hu: "Település Great Exuma szigetén, a nemzetközi repülőtér közelében.", ro: "O așezare pe Great Exuma, aproape de aeroportul internațional.", en: "A settlement on Great Exuma, near the international airport." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt für die Exumas", "Landwirtschaftliche Gemeinde", "Jährliches Regatta-Gelände in der Nähe"],
@@ -692,9 +669,8 @@ image: "/poi-images/moss-town-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.15, 23.8],
-    name: { de: "Ramsey", hu: "Ramsey", ro: "Ramsey", en: "Ramsey",
-image: "/poi-images/ramsey-cities-v2.webp"
-},
+    name: { de: "Ramsey", hu: "Ramsey", ro: "Ramsey", en: "Ramsey"},
+    image: "/poi-images/ramsey-cities-v2.webp",
     description: { de: "Eine kleine, ruhige Siedlung auf Great Exuma Island.", hu: "Kicsi, csendes település Great Exuma szigetén.", ro: "O așezare mică și liniștită pe insula Great Exuma.", en: "A small, quiet settlement on Great Exuma Island." },
     facts: {
       de: ["Bietet einen Rückzugsort vom geschäftigen George Town", "Ländlicher bahamaischer Lebensstil", "Umgeben von Natur"],
@@ -722,9 +698,8 @@ image: "/poi-images/ramsey-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-75.9833, 23.6333],
-    name: { de: "Forbes Hill", hu: "Forbes Hill", ro: "Forbes Hill", en: "Forbes Hill",
-image: "/poi-images/forbes-hill-cities-v2.webp"
-},
+    name: { de: "Forbes Hill", hu: "Forbes Hill", ro: "Forbes Hill", en: "Forbes Hill"},
+    image: "/poi-images/forbes-hill-cities-v2.webp",
     description: { de: "Eine kleine Küstengemeinde auf Little Exuma.", hu: "Kis tengerparti közösség Little Exumán.", ro: "O mică comunitate de coastă pe Little Exuma.", en: "A small coastal community on Little Exuma." },
     facts: {
       de: ["Bekannt für seine wunderschönen, abgelegenen Strände", "Traditionelle Kirche als Mittelpunkt der Gemeinde", "In der Nähe der 'Tropic of Cancer Beach'"],
@@ -752,9 +727,8 @@ image: "/poi-images/forbes-hill-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.45, 24.15],
-    name: { de: "Port Howe", hu: "Port Howe", ro: "Port Howe", en: "Port Howe",
-image: "/poi-images/port-howe-cities-v2.webp"
-},
+    name: { de: "Port Howe", hu: "Port Howe", ro: "Port Howe", en: "Port Howe"},
+    image: "/poi-images/port-howe-cities-v2.webp",
     description: { de: "Eine historische Siedlung auf Cat Island.", hu: "Történelmi település Cat Island-en.", ro: "O așezare istorică pe insula Cat.", en: "A historic settlement on Cat Island." },
     facts: {
       de: ["Ruinen der Deveaux-Plantage in der Nähe", "Gegründet von Loyalisten nach dem Amerikanischen Unabhängigkeitskrieg", "Blick auf eine große Bucht"],
@@ -782,9 +756,8 @@ image: "/poi-images/port-howe-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.5, 24.3167],
-    name: { de: "Bain Town", hu: "Bain Town", ro: "Bain Town", en: "Bain Town",
-image: "/poi-images/bain-town-cities-v2.webp"
-},
+    name: { de: "Bain Town", hu: "Bain Town", ro: "Bain Town", en: "Bain Town"},
+    image: "/poi-images/bain-town-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde auf Cat Island.", hu: "Kis közösség Cat Island-en.", ro: "O mică comunitate pe insula Cat.", en: "A small community on Cat Island." },
     facts: {
       de: ["Verkörperung des entspannten Insellebens", "Die Wirtschaft basiert auf Kleinbauern und Fischerei", "Starke mündliche Überlieferungstradition"],
@@ -810,9 +783,8 @@ image: "/poi-images/bain-town-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.4833, 24.3833],
-    name: { de: "Smith's Bay", hu: "Smith's Bay", ro: "Smith's Bay", en: "Smith's Bay",
-image: "/poi-images/smiths-bay-cities-v2.webp"
-},
+    name: { de: "Smith's Bay", hu: "Smith's Bay", ro: "Smith's Bay", en: "Smith's Bay"},
+    image: "/poi-images/smiths-bay-cities-v2.webp",
     description: { de: "Eine Siedlung auf Cat Island mit Verwaltungseinrichtungen.", hu: "Település Cat Island-en közigazgatási létesítményekkel.", ro: "O așezare pe insula Cat cu facilități administrative.", en: "A settlement on Cat Island with administrative facilities." },
     facts: {
       de: ["Sitz des Verwaltungsbüros von Cat Island", "Wichtiger Anlegeplatz für Postboote", "Jährliches Rake 'n' Scrape Festival"],
@@ -840,9 +812,8 @@ image: "/poi-images/smiths-bay-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.75, 24.6667],
-    name: { de: "Orange Creek", hu: "Orange Creek", ro: "Orange Creek", en: "Orange Creek",
-image: "/poi-images/orange-creek-cities-v2.webp"
-},
+    name: { de: "Orange Creek", hu: "Orange Creek", ro: "Orange Creek", en: "Orange Creek"},
+    image: "/poi-images/orange-creek-cities-v2.webp",
     description: { de: "Eine Siedlung im Norden von Cat Island.", hu: "Település Cat Island északi részén.", ro: "O așezare în nordul insulei Cat.", en: "A settlement in northern Cat Island." },
     facts: {
       de: ["Benannt nach dem nahegelegenen Bach", "Bekannt für seine landwirtschaftlichen Flächen", "Ruhige und malerische Umgebung"],
@@ -870,9 +841,8 @@ image: "/poi-images/orange-creek-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.6333, 24.55],
-    name: { de: "Bennetts Harbour", hu: "Bennetts Harbour", ro: "Bennetts Harbour", en: "Bennetts Harbour",
-image: "/poi-images/bennetts-harbour-cities-v2.webp"
-},
+    name: { de: "Bennetts Harbour", hu: "Bennetts Harbour", ro: "Bennetts Harbour", en: "Bennetts Harbour"},
+    image: "/poi-images/bennetts-harbour-cities-v2.webp",
     description: { de: "Eine kleine Hafensiedlung auf Cat Island.", hu: "Kis kikötői település Cat Island-en.", ro: "O mică așezare portuară pe insula Cat.", en: "A small harbor settlement on Cat Island." },
     facts: {
       de: ["Geschützter Ankerplatz für kleine Boote", "Die Gemeinde ist von der Fischerei abhängig", "In der Nähe von Gezeitenbächen, die reich an Meereslebewesen sind"],
@@ -900,9 +870,8 @@ image: "/poi-images/bennetts-harbour-cities-v2.webp"
     type: "city",
     parent: "BS-NE",
     coords: [-76.7333, 25.5167],
-    name: { de: "Lower Bogue", hu: "Lower Bogue", ro: "Lower Bogue", en: "Lower Bogue",
-image: "/poi-images/lower-bogue-cities-v2.webp"
-},
+    name: { de: "Lower Bogue", hu: "Lower Bogue", ro: "Lower Bogue", en: "Lower Bogue"},
+    image: "/poi-images/lower-bogue-cities-v2.webp",
     description: { de: "Eine Schwestergemeinde von Upper Bogue auf Eleuthera.", hu: "Upper Bogue testvérközsége Eleutherán.", ro: "O comunitate soră cu Upper Bogue pe Eleuthera.", en: "A sister community to Upper Bogue on Eleuthera." },
     facts: {
       de: ["Traditionelles bahamaisches Dorfleben", "Starke familiäre Bindungen in der gesamten Gemeinde", "In der Nähe der Glass Window Bridge"],
@@ -928,9 +897,8 @@ image: "/poi-images/lower-bogue-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-75.05, 23.1833],
-    name: { de: "Cecil", hu: "Cecil", ro: "Cecil", en: "Cecil",
-image: "/poi-images/cecil-cities-v2.webp"
-},
+    name: { de: "Cecil", hu: "Cecil", ro: "Cecil", en: "Cecil"},
+    image: "/poi-images/cecil-cities-v2.webp",
     description: { de: "Eine kleine Wohnsiedlung auf Long Island.", hu: "Kis lakótelep Long Islanden.", ro: "O mică așezare rezidențială pe Long Island.", en: "A small residential settlement on Long Island." },
     facts: {
       de: ["Ruhige und friedliche Atmosphäre", "Teil der Kette von Siedlungen entlang des Queen's Highway", "Umgibt von unentwickeltem Land"],
@@ -956,9 +924,8 @@ image: "/poi-images/cecil-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.05, 23.7],
-    name: { de: "Barraterre", hu: "Barraterre", ro: "Barraterre", en: "Barraterre",
-image: "/poi-images/barratarre-cities-v2.webp"
-},
+    name: { de: "Barraterre", hu: "Barraterre", ro: "Barraterre", en: "Barraterre"},
+    image: "/poi-images/barratarre-cities-v2.webp",
     description: { de: "Eine Fischergemeinde auf Great Exuma.", hu: "Halászközösség Great Exumán.", ro: "O comunitate de pescari pe Great Exuma.", en: "A fishing community on Great Exuma." },
     facts: {
       de: ["Bekannt für seine Bootsbau-Tradition", "Veranstaltet eine jährliche Heimkehrer- und Regattaveranstaltung", "Starker Gemeinschaftsgeist"],
@@ -984,9 +951,8 @@ image: "/poi-images/barratarre-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-75.8167, 23.5167],
-    name: { de: "Stewart Manor", hu: "Stewart Manor", ro: "Stewart Manor", en: "Stewart Manor",
-image: "/poi-images/stewart-manor-cities-v2.webp"
-},
+    name: { de: "Stewart Manor", hu: "Stewart Manor", ro: "Stewart Manor", en: "Stewart Manor"},
+    image: "/poi-images/stewart-manor-cities-v2.webp",
     description: { de: "Eine Wohnsiedlung in der Nähe von George Town, Exuma.", hu: "Lakótelep George Town közelében, Exumán.", ro: "O așezare rezidențială lângă George Town, Exuma.", en: "A residential settlement near George Town, Exuma." },
     facts: {
       de: ["Bequemer Zugang zu den Annehmlichkeiten von George Town", "Eine Mischung aus lokalen Bewohnern und Auswanderern", "Wachsende Gemeinde"],
@@ -1012,9 +978,8 @@ image: "/poi-images/stewart-manor-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-75.8833, 23.55],
-    name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria",
-image: "/poi-images/alexandria-cities-v2.webp"
-},
+    name: { de: "Alexandria", hu: "Alexandria", ro: "Alexandria", en: "Alexandria"},
+    image: "/poi-images/alexandria-cities-v2.webp",
     description: { de: "Eine kleine, ländliche Siedlung auf Great Exuma.", hu: "Kis, vidéki település Great Exumán.", ro: "Alexandria este o așezare mică, liniștită, situată în cadrul arhipelagului Bahamas. Se remarcă prin mediul său natural nealterat și stilul de viață relaxat.", en: "A small, rural settlement on Great Exuma." },
     facts: {
       de: ["Landwirtschaftlich geprägte Gegend", "Traditionelle Lebensweise", "Friedliche Umgebung"],
@@ -1040,9 +1005,8 @@ image: "/poi-images/alexandria-cities-v2.webp"
     type: "city",
     parent: "BS-EG",
     coords: [-78.1667, 26.6833],
-    name: { de: "Rocky Point", hu: "Rocky Point", ro: "Rocky Point", en: "Rocky Point",
-image: "/poi-images/rocky-point-cities-v2.webp"
-},
+    name: { de: "Rocky Point", hu: "Rocky Point", ro: "Rocky Point", en: "Rocky Point"},
+    image: "/poi-images/rocky-point-cities-v2.webp",
     description: { de: "Eine abgelegene Fischergemeinde im Osten von Grand Bahama.", hu: "Távoli halászközösség Grand Bahama keleti részén.", ro: "O comunitate de pescari izolată în estul Grand Bahama.", en: "A remote fishing community in eastern Grand Bahama." },
     facts: {
       de: ["Sehr isoliert und nur schwer zugänglich", "Wurde durch Hurrikane schwer beschädigt", "Die Bewohner leben von dem, was das Meer hergibt"],
@@ -1068,9 +1032,8 @@ image: "/poi-images/rocky-point-cities-v2.webp"
     type: "city",
     parent: "BS-EG",
     coords: [-78.2833, 26.6333],
-    name: { de: "McLean's Town", hu: "McLean's Town", ro: "McLean's Town", en: "McLean's Town",
-image: "/poi-images/mcleans-town-cities-v2.webp"
-},
+    name: { de: "McLean's Town", hu: "McLean's Town", ro: "McLean's Town", en: "McLean's Town"},
+    image: "/poi-images/mcleans-town-cities-v2.webp",
     description: { de: "Die östlichste Siedlung auf der Insel Grand Bahama.", hu: "A legkeletibb település Grand Bahama szigetén.", ro: "McLean's Town este cel mai estic așezământ de pe insula Grand Bahama. Este un centru important pentru comunitățile locale de pescari și găzduiește anual Festivalul Concului.", en: "The easternmost settlement on the island of Grand Bahama." },
     facts: {
       de: ["Veranstaltet den jährlichen Conch Cracking Wettbewerb", "Fährhafen nach Crown Haven, Abaco", "Fischerdorf"],
@@ -1096,9 +1059,8 @@ image: "/poi-images/mcleans-town-cities-v2.webp"
     type: "city",
     parent: "BS-EG",
     coords: [-78.2, 26.65],
-    name: { de: "Pelican Point", hu: "Pelican Point", ro: "Pelican Point", en: "Pelican Point",
-image: "/poi-images/pelican-point-cities-v2.webp"
-},
+    name: { de: "Pelican Point", hu: "Pelican Point", ro: "Pelican Point", en: "Pelican Point"},
+    image: "/poi-images/pelican-point-cities-v2.webp",
     description: { de: "Eine kleine Küstensiedlung auf Grand Bahama.", hu: "Kis tengerparti település Grand Bahama szigetén.", ro: "O mică așezare de coastă pe Grand Bahama.", en: "A small coastal settlement on Grand Bahama." },
     facts: {
       de: ["Bekannt für sein jährliches Kokosnuss-Festival", "Abgelegene Lage mit wunderschönen Stränden", "Starke Gemeinschaftskultur"],
@@ -1124,9 +1086,8 @@ image: "/poi-images/pelican-point-cities-v2.webp"
     type: "city",
     parent: "BS-SO",
     coords: [-77.6, 24.1],
-    name: { de: "Long Bay Cays", hu: "Long Bay Cays", ro: "Long Bay Cays", en: "Long Bay Cays",
-image: "/poi-images/long-bay-cays-cities-v2.webp"
-},
+    name: { de: "Long Bay Cays", hu: "Long Bay Cays", ro: "Long Bay Cays", en: "Long Bay Cays"},
+    image: "/poi-images/long-bay-cays-cities-v2.webp",
     description: { de: "Ein Gebiet von Siedlungen auf South Andros.", hu: "Települések területe South Androson.", ro: "O zonă de așezări în South Andros.", en: "An area of settlements in South Andros." },
     facts: {
       de: ["Ländliche und traditionelle Gemeinden", "Die Wirtschaft stützt sich auf lokale Ressourcen", "Wichtiges Gebiet für die Krabbenfischerei"],
@@ -1152,9 +1113,8 @@ image: "/poi-images/long-bay-cays-cities-v2.webp"
     type: "city",
     parent: "BS-SA",
     coords: [-77.3833, 25.8833],
-    name: { de: "Sandy Point", hu: "Sandy Point", ro: "Sandy Point", en: "Sandy Point",
-image: "/poi-images/sandy-point-cities-v2.webp"
-},
+    name: { de: "Sandy Point", hu: "Sandy Point", ro: "Sandy Point", en: "Sandy Point"},
+    image: "/poi-images/sandy-point-cities-v2.webp",
     description: { de: "Eine Siedlung an der Südspitze von Great Abaco Island.", hu: "Település Great Abaco szigetének déli csücskén.", ro: "O așezare la vârful de sud al insulei Great Abaco.", en: "A settlement at the southern tip of Great Abaco Island." },
     facts: {
       de: ["Tor zu den Abaco-Nationalpark", "Bekannt für seine Vogelbeobachtungsmöglichkeiten (Abaco-Papagei)", "Wichtiger Ankerplatz für Boote"],
@@ -1180,9 +1140,8 @@ image: "/poi-images/sandy-point-cities-v2.webp"
     type: "city",
     parent: "BS-SA",
     coords: [-77.05, 26.2667],
-    name: { de: "Cherokee Sound", hu: "Cherokee Sound", ro: "Cherokee Sound", en: "Cherokee Sound",
-image: "/poi-images/cherokee-sound-cities-v2.webp"
-},
+    name: { de: "Cherokee Sound", hu: "Cherokee Sound", ro: "Cherokee Sound", en: "Cherokee Sound"},
+    image: "/poi-images/cherokee-sound-cities-v2.webp",
     description: { de: "Eine historische Siedlung auf Great Abaco.", hu: "Történelmi település Great Abacón.", ro: "O așezare istorică pe Great Abaco.", en: "A historic settlement on Great Abaco." },
     facts: {
       de: ["Bekannt für seine loyalistische Herkunft", "Besitzt die längste hölzerne Anlegestelle der Bahamas", "Starke Bootsbau- und Fischereitradition"],
@@ -1208,9 +1167,8 @@ image: "/poi-images/cherokee-sound-cities-v2.webp"
     type: "city",
     parent: "BS-SA",
     coords: [-77.1, 26.3333],
-    name: { de: "Little Harbour (Abaco)", hu: "Little Harbour (Abaco)", ro: "Little Harbour (Abaco)", en: "Little Harbour (Abaco)",
-image: "/poi-images/little-harbour-abaco-cities-v2.webp"
-},
+    name: { de: "Little Harbour (Abaco)", hu: "Little Harbour (Abaco)", ro: "Little Harbour (Abaco)", en: "Little Harbour (Abaco)"},
+    image: "/poi-images/little-harbour-abaco-cities-v2.webp",
     description: { de: "Eine abgelegene Künstlerkolonie und Gießerei auf Great Abaco.", hu: "Félreeső művészkolónia és öntöde Great Abacón.", ro: "O colonie de artiști și o turnătorie izolată pe Great Abaco.", en: "A secluded artist colony and foundry on Great Abaco." },
     facts: {
       de: ["Gegründet vom Künstler Randolph Johnston", "Einzigartige, von der Natur inspirierte Atmosphäre", "Pete's Pub and Gallery ist ein berühmter Treffpunkt"],
@@ -1236,9 +1194,8 @@ image: "/poi-images/little-harbour-abaco-cities-v2.webp"
     type: "city",
     parent: "BS-SA",
     coords: [-77.25, 26.1],
-    name: { de: "Crossing Rocks", hu: "Crossing Rocks", ro: "Crossing Rocks", en: "Crossing Rocks",
-image: "/poi-images/crossing-rocks-cities-v2.webp"
-},
+    name: { de: "Crossing Rocks", hu: "Crossing Rocks", ro: "Crossing Rocks", en: "Crossing Rocks"},
+    image: "/poi-images/crossing-rocks-cities-v2.webp",
     description: { de: "Eine kleine Fischergemeinde auf Great Abaco.", hu: "Kis halászközösség Great Abacón.", ro: "O mică comunitate de pescari pe Great Abaco.", en: "A small fishing community on Great Abaco." },
     facts: {
       de: ["Ländliche Siedlung am Highway", "Die Bewohner leben vom Meer", "Starke familiäre Bindungen"],
@@ -1264,9 +1221,8 @@ image: "/poi-images/crossing-rocks-cities-v2.webp"
     type: "city",
     parent: "BS-CS",
     coords: [-77.0833, 26.5],
-    name: { de: "Spring City", hu: "Spring City", ro: "Spring City", en: "Spring City",
-image: "/poi-images/spring-city-cities-v2.webp"
-},
+    name: { de: "Spring City", hu: "Spring City", ro: "Spring City", en: "Spring City"},
+    image: "/poi-images/spring-city-cities-v2.webp",
     description: { de: "Eine Wohnsiedlung in der Nähe von Marsh Harbour, Abaco.", hu: "Lakótelep Marsh Harbour közelében, Abacóban.", ro: "O așezare rezidențială lângă Marsh Harbour, Abaco.", en: "A residential settlement near Marsh Harbour, Abaco." },
     facts: {
       de: ["Wurde als Wohngebiet für Arbeiter entwickelt", "Wachsende Gemeinschaft", "In der Nähe von Einkaufs- und Geschäftszentren"],
@@ -1292,9 +1248,8 @@ image: "/poi-images/spring-city-cities-v2.webp"
     type: "city",
     parent: "BS-CS",
     coords: [-77.0667, 26.5167],
-    name: { de: "Dundas Town", hu: "Dundas Town", ro: "Dundas Town", en: "Dundas Town",
-image: "/poi-images/dundas-town-cities-v2.webp"
-},
+    name: { de: "Dundas Town", hu: "Dundas Town", ro: "Dundas Town", en: "Dundas Town"},
+    image: "/poi-images/dundas-town-cities-v2.webp",
     description: { de: "Eine der größten Siedlungen in Abaco, angrenzend an Marsh Harbour.", hu: "Abaco egyik legnagyobb települése, Marsh Harbourral határos.", ro: "Una dintre cele mai mari așezări din Abaco, adiacentă Marsh Harbour.", en: "One of the largest settlements in Abaco, adjacent to Marsh Harbour." },
     facts: {
       de: ["Ursprünglich von haitianischen Einwanderern besiedelt", "Lebendige und aktive Gemeinschaft", "Teilt viele Dienstleistungen mit Marsh Harbour"],
@@ -1320,9 +1275,8 @@ image: "/poi-images/dundas-town-cities-v2.webp"
     type: "city",
     parent: "BS-CS",
     coords: [-77.1, 26.5333],
-    name: { de: "Murphy Town", hu: "Murphy Town", ro: "Murphy Town", en: "Murphy Town",
-image: "/poi-images/murphy-town-cities-v2.webp"
-},
+    name: { de: "Murphy Town", hu: "Murphy Town", ro: "Murphy Town", en: "Murphy Town"},
+    image: "/poi-images/murphy-town-cities-v2.webp",
     description: { de: "Eine Siedlung auf Great Abaco, die an Dundas Town grenzt.", hu: "Település Great Abacón, Dundas Townnal határos.", ro: "O așezare pe Great Abaco, învecinată cu Dundas Town.", en: "A settlement on Great Abaco, bordering Dundas Town." },
     facts: {
       de: ["Teil des größeren Marsh Harbour-Gebiets", "Starkes Gemeinschaftsgefühl", "Wohngebiet"],
@@ -1348,9 +1302,8 @@ image: "/poi-images/murphy-town-cities-v2.webp"
     type: "city",
     parent: "BS-NO",
     coords: [-77.7333, 26.9167],
-    name: { de: "Crown Haven", hu: "Crown Haven", ro: "Crown Haven", en: "Crown Haven",
-image: "/poi-images/crown-haven-cities-v2.webp"
-},
+    name: { de: "Crown Haven", hu: "Crown Haven", ro: "Crown Haven", en: "Crown Haven"},
+    image: "/poi-images/crown-haven-cities-v2.webp",
     description: { de: "Die nördlichste Siedlung auf der Insel Great Abaco.", hu: "A legészakibb település Great Abaco szigetén.", ro: "Cea mai nordică așezare de pe insula Great Abaco.", en: "The northernmost settlement on the island of Great Abaco." },
     facts: {
       de: ["Fährverbindung nach McLean's Town, Grand Bahama", "Abgelegene und ruhige Gemeinde", "Wichtiger Punkt für den Inselverkehr"],
@@ -1376,9 +1329,8 @@ image: "/poi-images/crown-haven-cities-v2.webp"
     type: "city",
     parent: "BS-NO",
     coords: [-77.6333, 26.8833],
-    name: { de: "Fox Town", hu: "Fox Town", ro: "Fox Town", en: "Fox Town",
-image: "/poi-images/fox-town-cities-v2.webp"
-},
+    name: { de: "Fox Town", hu: "Fox Town", ro: "Fox Town", en: "Fox Town"},
+    image: "/poi-images/fox-town-cities-v2.webp",
     description: { de: "Eine kleine Siedlung auf Little Abaco Island.", hu: "Kis település Little Abaco szigetén.", ro: "O mică așezare pe insula Little Abaco.", en: "A small settlement on Little Abaco Island." },
     facts: {
       de: ["Bekannt für seine Fischerei", "Starke historische Wurzeln", "In der Nähe der Brücke, die Little und Great Abaco verbindet"],
@@ -1404,9 +1356,8 @@ image: "/poi-images/fox-town-cities-v2.webp"
     type: "city",
     parent: "BS-NO",
     coords: [-77.8, 26.9667],
-    name: { de: "Wood Cay", hu: "Wood Cay", ro: "Wood Cay", en: "Wood Cay",
-image: "/poi-images/wood-cay-cities-v2.webp"
-},
+    name: { de: "Wood Cay", hu: "Wood Cay", ro: "Wood Cay", en: "Wood Cay"},
+    image: "/poi-images/wood-cay-cities-v2.webp",
     description: { de: "Eine kleine Insel und Siedlung vor der Küste von Little Abaco.", hu: "Kis sziget és település Little Abaco partjainál.", ro: "Wood Cay este o mică comunitate insulară din Bahamas, oferind peisaje marine deosebite. Este preferată pentru cei care doresc intimitate și explorarea coastei.", en: "A small island and settlement off the coast of Little Abaco." },
     facts: {
       de: ["Sehr isoliert", "Zugang hauptsächlich per Boot", "Die Bewohner leben einen traditionellen Lebensstil"],
@@ -1432,9 +1383,8 @@ image: "/poi-images/wood-cay-cities-v2.webp"
     type: "city",
     parent: "BS-NO",
     coords: [-77.5833, 26.8667],
-    name: { de: "Mount Pleasant", hu: "Mount Pleasant", ro: "Mount Pleasant", en: "Mount Pleasant",
-image: "/poi-images/mount-pleasant-cities-v2.webp"
-},
+    name: { de: "Mount Pleasant", hu: "Mount Pleasant", ro: "Mount Pleasant", en: "Mount Pleasant"},
+    image: "/poi-images/mount-pleasant-cities-v2.webp",
     description: { de: "Eine kleine ländliche Gemeinde auf dem Festland von Abaco.", hu: "Kis vidéki közösség Abaco szárazföldjén.", ro: "O mică comunitate rurală pe continentul Abaco.", en: "A small rural community on mainland Abaco." },
     facts: {
       de: ["Landwirtschaftlich geprägte Siedlung", "Friedliche Atmosphäre abseits der Touristenzentren", "Starke familiäre Bindungen"],
@@ -1460,9 +1410,8 @@ image: "/poi-images/mount-pleasant-cities-v2.webp"
     type: "city",
     parent: "BS-NO",
     coords: [-77.6, 26.8667],
-    name: { de: "Cephas", hu: "Cephas", ro: "Cephas", en: "Cephas",
-image: "/poi-images/cephas-cities-v2.webp"
-},
+    name: { de: "Cephas", hu: "Cephas", ro: "Cephas", en: "Cephas"},
+    image: "/poi-images/cephas-cities-v2.webp",
     description: { de: "Eine sehr kleine Siedlung in der Nähe von Mount Pleasant auf Abaco.", hu: "Nagyon kis település Mount Pleasant közelében, Abacóban.", ro: "O așezare foarte mică lângă Mount Pleasant pe Abaco.", en: "A very small settlement near Mount Pleasant on Abaco." },
     facts: {
       de: ["Besteht nur aus wenigen Haushalten", "Repräsentiert das ländliche Abaco", "Eng verbundene Gemeinschaft"],
@@ -1488,9 +1437,8 @@ image: "/poi-images/cephas-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.0833, 23.7333],
-    name: { de: "The Ferry", hu: "The Ferry", ro: "The Ferry", en: "The Ferry",
-image: "/poi-images/the-ferry-cities-v2.webp"
-},
+    name: { de: "The Ferry", hu: "The Ferry", ro: "The Ferry", en: "The Ferry"},
+    image: "/poi-images/the-ferry-cities-v2.webp",
     description: { de: "Eine Siedlung auf Great Exuma, die als Fährverbindung dient.", hu: "Település Great Exumán, amely kompkapcsolatként szolgál.", ro: "O așezare pe Great Exuma care servește drept legătură de feribot.", en: "A settlement on Great Exuma that serves as a ferry link." },
     facts: {
       de: ["Verbindet Great Exuma mit Little Exuma über eine kleine Brücke", "Wichtiger lokaler Verkehrsknotenpunkt", "Malerische Lage am Wasser"],
@@ -1516,9 +1464,8 @@ image: "/poi-images/the-ferry-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-75.8667, 23.5333],
-    name: { de: "Rolletown", hu: "Rolletown", ro: "Rolletown", en: "Rolletown",
-image: "/poi-images/rolletown-cities-v2.webp"
-},
+    name: { de: "Rolletown", hu: "Rolletown", ro: "Rolletown", en: "Rolletown"},
+    image: "/poi-images/rolletown-cities-v2.webp",
     description: { de: "Eine historische Siedlung auf Great Exuma, die von Lord Rolle gegründet wurde.", hu: "Történelmi település Great Exumán, amelyet Lord Rolle alapított.", ro: "O așezare istorică pe Great Exuma, fondată de Lord Rolle.", en: "A historic settlement on Great Exuma founded by Lord Rolle." },
     facts: {
       de: ["Benannt nach einem britischen loyalistischen Grundbesitzer", "Gegründet für befreite Sklaven", "Stolzes Erbe und starke Gemeinschaft"],
@@ -1544,9 +1491,8 @@ image: "/poi-images/rolletown-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-75.8333, 23.5167],
-    name: { de: "Hartswell", hu: "Hartswell", ro: "Hartswell", en: "Hartswell",
-image: "/poi-images/hartswell-cities-v2.webp"
-},
+    name: { de: "Hartswell", hu: "Hartswell", ro: "Hartswell", en: "Hartswell"},
+    image: "/poi-images/hartswell-cities-v2.webp",
     description: { de: "Eine Küstensiedlung auf Great Exuma.", hu: "Tengerparti település Great Exumán.", ro: "O așezare de coastă pe Great Exuma.", en: "A coastal settlement on Great Exuma." },
     facts: {
       de: ["Bietet einen Panoramablick auf den Exuma Sound", "Beliebt bei Bootsfahrern und Fischern", "Wohngegend mit Ferienhäusern"],
@@ -1572,9 +1518,8 @@ image: "/poi-images/hartswell-cities-v2.webp"
     type: "city",
     parent: "BS-EX",
     coords: [-76.15, 23.6833],
-    name: { de: "Williams Town", hu: "Williams Town", ro: "Williams Town", en: "Williams Town",
-image: "/poi-images/williamstown-cities-v2.webp"
-},
+    name: { de: "Williams Town", hu: "Williams Town", ro: "Williams Town", en: "Williams Town"},
+    image: "/poi-images/williamstown-cities-v2.webp",
     description: { de: "Eine Siedlung auf Little Exuma Island.", hu: "Település Little Exuma szigetén.", ro: "O așezare pe insula Little Exuma.", en: "A settlement on Little Exuma Island." },
     facts: {
       de: ["In der Nähe der Tropic of Cancer Beach", "Berühmt für die Ruinen einer alten Salzverdunstungsanlage", "Historische Plantagenruinen in der Umgebung"],
@@ -1600,9 +1545,8 @@ image: "/poi-images/williamstown-cities-v2.webp"
     type: "city",
     parent: "BS-CK",
     coords: [-74.25, 22.7833],
-    name: { de: "True Blue", hu: "True Blue", ro: "True Blue", en: "True Blue",
-image: "/poi-images/true-blue-cities-v2.webp"
-},
+    name: { de: "True Blue", hu: "True Blue", ro: "True Blue", en: "True Blue"},
+    image: "/poi-images/true-blue-cities-v2.webp",
     description: { de: "Eine sehr kleine Siedlung auf Crooked Island.", hu: "Nagyon kis település a Crooked-szigeten.", ro: "O așezare foarte mică pe insula Crooked.", en: "A very small settlement on Crooked Island." },
     facts: {
       de: ["Bekannt für seine Bonefishing-Flats", "Isolierte und ruhige Lage", "Nur eine Handvoll Einwohner"],
@@ -1628,9 +1572,8 @@ image: "/poi-images/true-blue-cities-v2.webp"
     type: "city",
     parent: "BS-CK",
     coords: [-74.2167, 22.7167],
-    name: { de: "Church Grove", hu: "Church Grove", ro: "Church Grove", en: "Church Grove",
-image: "/poi-images/church-grove-cities-v2.webp"
-},
+    name: { de: "Church Grove", hu: "Church Grove", ro: "Church Grove", en: "Church Grove"},
+    image: "/poi-images/church-grove-cities-v2.webp",
     description: { de: "Eine historische Siedlung auf Crooked Island.", hu: "Történelmi település a Crooked-szigeten.", ro: "O așezare istorică pe insula Crooked.", en: "A historic settlement on Crooked Island." },
     facts: {
       de: ["Zentrum des Gemeindelebens", "Historische Kirche", "Starke Bindungen zu den Nachbarsiedlungen"],
@@ -1656,9 +1599,8 @@ image: "/poi-images/church-grove-cities-v2.webp"
     type: "city",
     parent: "BS-AK",
     coords: [-73.9833, 22.2833],
-    name: { de: "Salina Point", hu: "Salina Point", ro: "Salina Point", en: "Salina Point",
-image: "/poi-images/salina-point-cities-v2.webp"
-},
+    name: { de: "Salina Point", hu: "Salina Point", ro: "Salina Point", en: "Salina Point"},
+    image: "/poi-images/salina-point-cities-v2.webp",
     description: { de: "Die südlichste Siedlung auf Acklins Island.", hu: "A legdélibb település Acklins szigetén.", ro: "Cea mai sudică așezare de pe insula Acklins.", en: "The southernmost settlement on Acklins Island." },
     facts: {
       de: ["Bekannt für seine ausgezeichneten Bonefishing-Möglichkeiten", "Fährverbindung nach Long Cay", "Kleine, eng verbundene Fischergemeinde"],
@@ -1684,9 +1626,8 @@ image: "/poi-images/salina-point-cities-v2.webp"
     type: "city",
     parent: "BS-AK",
     coords: [-74.1333, 22.65],
-    name: { de: "Lovely Bay", hu: "Lovely Bay", ro: "Lovely Bay", en: "Lovely Bay",
-image: "/poi-images/lovely-bay-cities-v2.webp"
-},
+    name: { de: "Lovely Bay", hu: "Lovely Bay", ro: "Lovely Bay", en: "Lovely Bay"},
+    image: "/poi-images/lovely-bay-cities-v2.webp",
     description: { de: "Eine malerische Siedlung an der Küste von Acklins.", hu: "Festői település Acklins partján.", ro: "O așezare pitorească pe coasta Acklins.", en: "A picturesque settlement on the coast of Acklins." },
     facts: {
       de: ["Benannt nach seiner schönen Bucht", "Friedliche und unberührte Umgebung", "Ideal zum Entspannen und Genießen der Natur"],
@@ -1712,9 +1653,8 @@ image: "/poi-images/lovely-bay-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-74.9167, 22.95],
-    name: { de: "Hard Bargain", hu: "Hard Bargain", ro: "Hard Bargain", en: "Hard Bargain",
-image: "/poi-images/hard-bargain-cities-v2.webp"
-},
+    name: { de: "Hard Bargain", hu: "Hard Bargain", ro: "Hard Bargain", en: "Hard Bargain"},
+    image: "/poi-images/hard-bargain-cities-v2.webp",
     description: { de: "Eine kleine Siedlung im Süden von Long Island.", hu: "Kis település Long Island déli részén.", ro: "O mică așezare în sudul Long Island.", en: "A small settlement in southern Long Island." },
     facts: {
       de: ["Ländliche Gemeinde mit landwirtschaftlichem Fokus", "In der Nähe der Ruinen alter Plantagen", "Ruhiger Lebensrhythmus"],
@@ -1740,9 +1680,8 @@ image: "/poi-images/hard-bargain-cities-v2.webp"
     type: "city",
     parent: "BS-LI",
     coords: [-75.0, 23.0],
-    name: { de: "Port St. George", hu: "Port St. George", ro: "Port St. George", en: "Port St. George",
-image: "/poi-images/port-st-george-cities-v2.webp"
-},
+    name: { de: "Port St. George", hu: "Port St. George", ro: "Port St. George", en: "Port St. George"},
+    image: "/poi-images/port-st-george-cities-v2.webp",
     description: { de: "Eine geplante, aber nie vollständig realisierte Siedlung auf Long Island.", hu: "Tervezett, de soha nem teljesen megvalósult település Long Islanden.", ro: "O așezare planificată, dar niciodată realizată complet pe Long Island.", en: "A planned but never fully realized settlement on Long Island." },
     facts: {
       de: ["Interessantes Stück Inselgeschichte", "Ruinen und unvollendete Strukturen sind noch sichtbar", "Zeugnis ehrgeiziger Entwicklungspläne"],
@@ -1768,9 +1707,8 @@ image: "/poi-images/port-st-george-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.4, 24.2333],
-    name: { de: "Old Bight", hu: "Old Bight", ro: "Old Bight", en: "Old Bight",
-image: "/poi-images/old-bight-cities-v2.webp"
-},
+    name: { de: "Old Bight", hu: "Old Bight", ro: "Old Bight", en: "Old Bight"},
+    image: "/poi-images/old-bight-cities-v2.webp",
     description: { de: "Eine der größten Siedlungen auf Cat Island.", hu: "Cat Island egyik legnagyobb települése.", ro: "Una dintre cele mai mari așezări de pe insula Cat.", en: "One of the largest settlements on Cat Island." },
     facts: {
       de: ["Langer, schöner Strand", "In der Nähe der Eremitage auf dem Mount Alvernia", "Lebendige Gemeinde mit mehreren Kirchen"],
@@ -1796,9 +1734,8 @@ image: "/poi-images/old-bight-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.45, 24.3],
-    name: { de: "New Bight", hu: "New Bight", ro: "New Bight", en: "New Bight",
-image: "/poi-images/new-bight-cities-v2.webp"
-},
+    name: { de: "New Bight", hu: "New Bight", ro: "New Bight", en: "New Bight"},
+    image: "/poi-images/new-bight-cities-v2.webp",
     description: { de: "Die Hauptstadt von Cat Island mit einem Flughafen.", hu: "Cat Island fővárosa, repülőtérrel.", ro: "Capitala insulei Cat, cu un aeroport.", en: "The capital of Cat Island, featuring an airport." },
     facts: {
       de: ["Sitz der Regierungsbüros der Insel", "Veranstaltet das jährliche Cat Island Regatta", "Wichtiger Verkehrsknotenpunkt für die Insel"],
@@ -1824,9 +1761,8 @@ image: "/poi-images/new-bight-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.5333, 24.15],
-    name: { de: "Hawks Nest", hu: "Hawks Nest", ro: "Hawks Nest", en: "Hawks Nest",
-image: "/poi-images/hawkes-nest-cities-v2.webp"
-},
+    name: { de: "Hawks Nest", hu: "Hawks Nest", ro: "Hawks Nest", en: "Hawks Nest"},
+    image: "/poi-images/hawkes-nest-cities-v2.webp",
     description: { de: "Eine kleine Resortgemeinde im Süden von Cat Island.", hu: "Kis üdülőközösség Cat Island déli részén.", ro: "O mică comunitate de resort în sudul insulei Cat.", en: "A small resort community in the south of Cat Island." },
     facts: {
       de: ["Verfügt über eine private Landebahn und einen Yachthafen", "Beliebt bei Piloten und Seglern", "Ausgezeichnete Angel- und Tauchmöglichkeiten"],
@@ -1852,9 +1788,8 @@ image: "/poi-images/hawkes-nest-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.5167, 24.4],
-    name: { de: "Burrows", hu: "Burrows", ro: "Burrows", en: "Burrows",
-image: "/poi-images/burrows-cities-v2.webp"
-},
+    name: { de: "Burrows", hu: "Burrows", ro: "Burrows", en: "Burrows"},
+    image: "/poi-images/burrows-cities-v2.webp",
     description: { de: "Eine sehr kleine Siedlung auf Cat Island.", hu: "Nagyon kis település Cat Islanden.", ro: "O așezare foarte mică pe insula Cat.", en: "A very small settlement on Cat Island." },
     facts: {
       de: ["Repräsentiert den ländlichen Lebensstil der Insel", "Umgibt von unberührter Natur", "Friedliche und ruhige Atmosphäre"],
@@ -1880,9 +1815,8 @@ image: "/poi-images/burrows-cities-v2.webp"
     type: "city",
     parent: "BS-CI",
     coords: [-75.6, 24.5],
-    name: { de: "Gaitors", hu: "Gaitors", ro: "Gaitors", en: "Gaitors",
-image: "/poi-images/gaitors-cities-v2.webp"
-},
+    name: { de: "Gaitors", hu: "Gaitors", ro: "Gaitors", en: "Gaitors"},
+    image: "/poi-images/gaitors-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde in der Mitte von Cat Island.", hu: "Kis közösség Cat Island közepén.", ro: "O mică comunitate în centrul insulei Cat.", en: "A small community in central Cat Island." },
     facts: {
       de: ["Traditionelle bahamaische Siedlung", "Starke Bindungen zwischen den Bewohnern", "Abseits der Haupttouristengebiete"],
@@ -1908,9 +1842,8 @@ image: "/poi-images/gaitors-cities-v2.webp"
     type: "city",
     parent: "BS-AK",
     coords: [-73.9, 22.5833],
-    name: { de: "Anderson", hu: "Anderson", ro: "Anderson", en: "Anderson",
-image: "/poi-images/anderson-cities-v2.webp"
-},
+    name: { de: "Anderson", hu: "Anderson", ro: "Anderson", en: "Anderson"},
+    image: "/poi-images/anderson-cities-v2.webp",
     description: { de: "Eine kleine Siedlung im Norden von Acklins.", hu: "Kis település Acklins északi részén.", ro: "O mică așezare în nordul Acklins.", en: "A small settlement in northern Acklins." },
     facts: {
       de: ["Sehr kleine Bevölkerung", "Isolierte Lage", "Umgibt von natürlicher Schönheit"],

@@ -6,9 +6,8 @@ export const poiExtraGuyanaLandmarksV2: POI[] = [ {
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1633, 6.8122],
-    name: { de: "St. George's Cathedral", hu: "Szent György-székesegyház", ro: "Catedrala Sfântul Gheorghe", en: "St. George's Cathedral",
-image: "/poi-images/st-georges-cathedral-landmarks-v2.webp"
-},
+    name: { de: "St. George's Cathedral", hu: "Szent György-székesegyház", ro: "Catedrala Sfântul Gheorghe", en: "St. George's Cathedral"},
+    image: "/poi-images/st-georges-cathedral-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Guyana beherbergt beeindruckende Wahrzeichen, darunter historische Kirchen und natürliche Monumente.",
       hu: "Ez a település jelentős kulturális és gazdasági csomópont a régióban, mely tükrözi Guyana sokszínűségét és természeti kincseit.",
@@ -39,9 +38,8 @@ image: "/poi-images/st-georges-cathedral-landmarks-v2.webp"
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1672, 6.8086],
-    name: { de: "Stabroek Market", hu: "Stabroek Piac", ro: "Piața Stabroek", en: "Stabroek Market",
-image: "/poi-images/stabroek-market-landmarks-v2.webp"
-},
+    name: { de: "Stabroek Market", hu: "Stabroek Piac", ro: "Piața Stabroek", en: "Stabroek Market"},
+    image: "/poi-images/stabroek-market-landmarks-v2.webp",
     description: { de: "Ein geschäftiger historischer Markt in Georgetown, bekannt für seinen ikonischen Uhrenturm aus Gusseisen.", hu: "Georgetown forgalmas történelmi piaca, amely ikonikus öntöttvas óratornyáról ismert.", ro: "O piață istorică aglomerată din Georgetown, cunoscută pentru turnul său cu ceas iconic din fontă.", en: "A bustling historic market in Georgetown known for its iconic cast-iron clock tower." },
     facts: {
       de: ["Eröffnet im Jahr 1881.", "Entworfen im viktorianischen Stil."],
@@ -53,379 +51,703 @@ image: "/poi-images/stabroek-market-landmarks-v2.webp"
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1661, 6.808],
-    name: { de: "Parlamentsgebäude", hu: "Parlament Épülete", ro: "Clădirea Parlamentului", en: "Parliament Building",
-image: "/poi-images/parliament-building-guyana-landmarks-v2.webp"
-},
+    name: { de: "Parlamentsgebäude", hu: "Parlament Épülete", ro: "Clădirea Parlamentului", en: "Parliament Building"},
+    image: "/poi-images/parliament-building-guyana-landmarks-v2.webp",
     description: { de: "Ein markantes Gebäude im Renaissancestil in Georgetown, das als Sitz der Nationalversammlung von Guyana dient.", hu: "Egy feltűnő reneszánsz stílusú épület Georgetownban, amely Guyana Nemzetgyűlésének székhelyeként szolgál.", ro: "O clădire remarcabilă în stil renascentist în Georgetown, care servește drept sediu al Adunării Naționale a Guyanei.", en: "A striking Renaissance-style building in Georgetown serving as the seat of the National Assembly of Guyana." },
     facts: {
       de: ["Erbaut im Jahr 1834.", "Entworfen von Joseph Hadfield."],
       hu: ["1834-ben épült.", "Joseph Hadfield tervezte."],
       ro: ["Construită în 1834.", "Proiectată de Joseph Hadfield."],
       en: ["Built in 1834.", "Designed by Joseph Hadfield."]
-    }, image: "/poi-images/parliament-building-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/parliament-building-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Parlamentsgebäude von Guyana befindet sich in Georgetown an der Parliament Street. Das neoklassizistische Gebäude wurde 1834 als Kaufmannshaus erbaut und 1872 von der Kolonialregierung erworben, um als Legislativgebäude zu dienen. Es wurde 1966 zum Sitz des Parlaments nach der Unabhängigkeit. Die Fassade ist symmetrisch mit korinthischen Säulen und einem Dreiecksgiebel. Im Erdgeschoss befinden sich die Nationalversammlung und der Senatssaal. Das Gebäude wurde mehrfach erweitert, darunter ein Flügel im Jahr 1950. Es ist ein geschütztes nationales Erbe und ein Symbol der guyanischen Demokratie.",
+      hu: "Guyana parlamentje Georgetownban, a Parliament Streeten található. A neoklasszicista épület 1834-ben kereskedőházként épült, és 1872-ben vásárolta meg a gyarmati kormány, hogy törvényhozási épületként szolgáljon. 1966-ban, a függetlenség után lett a parlament székhelye. Homlokzata szimmetrikus, korinthoszi oszlopokkal és háromszög alakú oromzattal. A földszinten található a Nemzetgyűlés és a Szenátus terme. Az épületet többször bővítették, többek között 1950-ben egy szárnnyal. Védett nemzeti örökség és a guyanai demokrácia szimbóluma.",
+      ro: "Clădirea Parlamentului din Guyana se află în Georgetown, pe Parliament Street. Clădirea neoclasică a fost construită în 1834 ca o casă de comerț și a fost achiziționată de guvernul colonial în 1872 pentru a servi ca sediu legislativ. A devenit sediul parlamentului după independența din 1966. Fațada este simetrică, cu coloane corintice și un fronton triunghiular. La parter se află Adunarea Națională și sala Senatului. Clădirea a fost extinsă de mai multe ori, inclusiv un aripă în 1950. Este un patrimoniu național protejat și un simbol al democrației guyaneze.",
+      en: "The Parliament Building of Guyana is located in Georgetown on Parliament Street. The neoclassical structure was built in 1834 as a merchant's house and was acquired by the colonial government in 1872 to serve as a legislative building. It became the seat of parliament after independence in 1966. The facade is symmetrical with Corinthian columns and a triangular pediment. The ground floor houses the National Assembly and the Senate chamber. The building has been expanded several times, including a wing in 1950. It is a protected national heritage and a symbol of Guyanese democracy.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1834", "Umbau zum Parlament 1872", "Standort: Parliament Street, Georgetown", "Architekturstil: Neoklassizismus", "Anzahl der Säulen: 6 korinthische Säulen", "Erweiterung 1950 hinzugefügt"],
+      hu: ["Épült 1834-ben", "Parlamentté alakítva 1872-ben", "Helyszín: Parliament Street, Georgetown", "Stílus: neoklasszicista", "Oszlopok száma: 6 korinthoszi oszlop", "Bővítés 1950-ben"],
+      ro: ["Construit în 1834", "Transformare în parlament în 1872", "Locație: Parliament Street, Georgetown", "Stil arhitectural: neoclasic", "Număr de coloane: 6 coloane corintice", "Aripă adăugată în 1950"],
+      en: ["Built in 1834", "Converted to parliament in 1872", "Location: Parliament Street, Georgetown", "Architectural style: Neoclassical", "Number of columns: 6 Corinthian columns", "Wing added in 1950"],
+    },
+  }, {
     id: "umana-yana-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.161, 6.827],
-    name: { de: "Umana Yana", hu: "Umana Yana", ro: "Umana Yana", en: "Umana Yana",
-image: "/poi-images/umana-yana-landmarks-v2.webp"
-},
+    name: { de: "Umana Yana", hu: "Umana Yana", ro: "Umana Yana", en: "Umana Yana"},
+    image: "/poi-images/umana-yana-landmarks-v2.webp",
     description: { de: "Eine traditionelle konische Hütte im Wai-Wai-Stil, die als Symbol der indigenen Kultur Guyanas errichtet wurde.", hu: "Egy hagyományos Wai-Wai stílusú kúpos kunyhó, amelyet Guyana őslakos kultúrájának szimbólumaként emeltek.", ro: "O colibă conică tradițională în stil Wai-Wai, construită ca simbol al culturii indigene din Guyana.", en: "A traditional conical Wai-Wai style benab erected as a symbol of Guyana's indigenous culture." },
     facts: {
       de: ["Ursprünglich 1972 erbaut.", "Der Name bedeutet Treffpunkt des Volkes."],
       hu: ["Eredetileg 1972-ben épült.", "A név jelentése a nép találkozóhelye."],
       ro: ["Construită inițial în 1972.", "Numele înseamnă locul de întâlnire al oamenilor."],
       en: ["Originally constructed in 1972.", "The name means meeting place of the people."]
-    }, image: "/poi-images/umana-yana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/umana-yana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Umana Yana in Georgetown, Guyana, ist eine große, konische Strohhütte, die als Versammlungsort für indigene Völker und kulturelle Veranstaltungen dient. Sie wurde 1972 für die Konferenz der Außenminister der Blockfreien Staaten erbaut. Das Design basiert auf den traditionellen Versammlungshäusern der Wai-Wai-Indigenen, die in den Wäldern des südlichen Guyanas leben. Die Hütte hat einen Durchmesser von 60 Metern und eine Höhe von 18 Metern, ohne die Verwendung von Nägeln. Sie ist mit palmfronds gedeckt. Nach einem Brand im Jahr 2021 wurde sie 2023 restauriert. Die Umana Yana ist ein Symbol für Guyanas indigene Kultur und wird für Konferenzen, Ausstellungen und Konzerte genutzt.",
+      hu: "Az Umana Yana Georgetownban, Guyanában egy nagy, kúpos nádfedeles épület, amely az őslakosok találkozóhelyeként és kulturális rendezvények helyszíneként szolgál. 1972-ben épült az El nem kötelezett országok külügyminisztereinek konferenciájára. A design a dél-guyanai erdőkben élő Wai-Wai indiánok hagyományos gyűlésházain alapul. A kunyhó átmérője 60 méter, magassága 18 méter, szögek használata nélkül épült. Pálmalevelekkel fedett. Egy 2021-es tűz után 2023-ban restaurálták. Az Umana Yana Guyana őslakos kultúrájának szimbóluma, és konferenciák, kiállítások és koncertek számára használják.",
+      ro: "Umana Yana din Georgetown, Guyana, este o colibă mare, conică, din stuf, care servește ca loc de întâlnire pentru popoarele indigene și evenimente culturale. A fost construită în 1972 pentru conferința miniștrilor de externe ai țărilor nealiniate. Designul se bazează pe casele tradiționale de adunare ale indigenilor Wai-Wai din pădurile sudice ale Guyanei. Coliba are un diametru de 60 de metri și o înălțime de 18 metri, construită fără cuie. Este acoperită cu frunze de palmier. După un incendiu în 2021, a fost restaurată în 2023. Umana Yana este un simbol al culturii indigene a Guyanei și este folosită pentru conferințe, expoziții și concerte.",
+      en: "Umana Yana in Georgetown, Guyana, is a large conical thatched hut that serves as a meeting place for indigenous peoples and cultural events. Built in 1972 for the Non-Aligned Foreign Ministers Conference, its design is based on the traditional meeting houses of the Wai-Wai people from Guyana's southern forests. The hut measures 60 meters in diameter and 18 meters in height, constructed without nails. It is thatched with palm leaves. After a fire in 2021, it was restored in 2023. Umana Yana is a symbol of Guyana's indigenous culture and is used for conferences, exhibitions, and concerts.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1972", "Durchmesser: 60 Meter", "Höhe: 18 Meter", "Ohne Nägel gebaut", "Dach aus Palmblättern", "Restauriert 2023 nach Brand 2021"],
+      hu: ["1972-ben épült", "Átmérő: 60 méter", "Magasság: 18 méter", "Szögek nélkül épült", "Tető: pálmalevelek", "2023-ban restaurálták a 2021-es tűz után"],
+      ro: ["Construit în 1972", "Diametru: 60 de metri", "Înălțime: 18 metri", "Construit fără cuie", "Acoperire: frunze de palmier", "Restaurat în 2023 după un incendiu în 2021"],
+      en: ["Built in 1972", "Diameter: 60 meters", "Height: 18 meters", "Built without nails", "Thatched with palm leaves", "Restored in 2023 after 2021 fire"],
+    },
+  }, {
     id: "1763-monument-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1522, 6.8015],
-    name: { de: "1763 Monument", hu: "1763-as Emlékmű", ro: "Monumentul 1763", en: "1763 Monument",
-image: "/poi-images/1763-monument-landmarks-v2.webp"
-},
+    name: { de: "1763 Monument", hu: "1763-as Emlékmű", ro: "Monumentul 1763", en: "1763 Monument"},
+    image: "/poi-images/1763-monument-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Georgetown, das an den Sklavenaufstand von 1763 und den Nationalhelden Cuffy erinnert.", hu: "Georgetowni emlékmű, amely az 1763-as rabszolgalázadásnak és Cuffy nemzeti hősnek állít emléket.", ro: "Un monument în Georgetown care comemorează rebeliunea sclavilor din 1763 și pe eroul național Cuffy.", en: "A monument in Georgetown commemorating the 1763 slave rebellion and the national hero Cuffy." },
     facts: {
       de: ["Enthüllt im Jahr 1976.", "Werk des Bildhauers Philip Moore."],
       hu: ["1976-ban leplezték le.", "Philip Moore szobrász alkotása."],
       ro: ["Dezvelit în 1976.", "Opera sculptorului Philip Moore."],
       en: ["Unveiled in 1976.", "Work of sculptor Philip Moore."]
-    }, image: "/poi-images/1763-monument-landmarks-v2.webp"}, {
+    }, image: "/poi-images/1763-monument-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das 1763 Monument in Georgetown, Guyana, erinnert an den Sklavenaufstand von 1763, der von Cuffy (Kofi) angeführt wurde. Das Denkmal wurde am 23. Mai 1976 enthüllt und steht am Square of the Revolution. Es zeigt eine überlebensgroße Bronzestatue von Cuffy, die mit einer Axt in der Hand den Sieg symbolisiert. Die Statue wurde von dem guyanischen Künstler Philip Moore geschaffen. Der Aufstand von 1763 war ein bedeutendes Ereignis in der Geschichte der Sklaverei in der Karibik. Das Monument ist ein nationales Symbol der Freiheit und des Widerstands. Es wird jährlich am Cuffy's Day (23. Mai) geehrt.",
+      hu: "Az 1763-as emlékmű Georgetownban, Guyanában az 1763-as rabszolgalázadásra emlékeztet, amelyet Cuffy (Kofi) vezetett. Az emlékművet 1976. május 23-án avatták fel, és a Forradalom terén áll. Cuffy életnagyságú bronzszobrát ábrázolja, aki egy baltát tart a kezében, győzelmet szimbolizálva. A szobrot Philip Moore guyanai művész készítette. Az 1763-as felkelés jelentős esemény volt a karibi rabszolgaság történetében. Az emlékmű a szabadság és az ellenállás nemzeti szimbóluma. Évente tiszteletét fejezik ki Cuffy-napján (május 23.).",
+      ro: "Monumentul 1763 din Georgetown, Guyana, comemorează revolta sclavilor din 1763, condusă de Cuffy (Kofi). Monumentul a fost dezvelit pe 23 mai 1976 și se află în Piața Revoluției. Înfățișează o statuie de bronz de dimensiuni mai mari decât naturel a lui Cuffy, care ține o secure în mână, simbolizând victoria. Statuia a fost creată de artistul guyanian Philip Moore. Revolta din 1763 a fost un eveniment major în istoria sclaviei în Caraibe. Monumentul este un simbol național al libertății și rezistenței. Este onorat anual de Ziua lui Cuffy (23 mai).",
+      en: "The 1763 Monument in Georgetown, Guyana, commemorates the slave revolt of 1763 led by Cuffy (Kofi). Unveiled on May 23, 1976, it stands at the Square of the Revolution. The monument features a larger-than-life bronze statue of Cuffy holding an axe, symbolizing victory. Created by Guyanese artist Philip Moore, the revolt of 1763 was a significant event in Caribbean slavery history. The monument is a national symbol of freedom and resistance. It is honored annually on Cuffy's Day (May 23).",
+    },
+    factsAdvanced: {
+      de: ["Enthüllt am 23. Mai 1976", "Künstler: Philip Moore", "Material: Bronze", "Standort: Square of the Revolution, Georgetown", "Höhe der Statue: ca. 4 Meter", "Gedenkt der Sklavenrevolte von 1763 unter Führung von Cuffy"],
+      hu: ["Felavatva 1976. május 23-án", "Művész: Philip Moore", "Anyag: bronz", "Helyszín: Forradalom tere, Georgetown", "Szobor magassága: kb. 4 méter", "Az 1763-as Cuffy vezette rabszolgalázadás emlékműve"],
+      ro: ["Dezvelit pe 23 mai 1976", "Artist: Philip Moore", "Material: bronz", "Locație: Piața Revoluției, Georgetown", "Înălțimea statuii: aproximativ 4 metri", "Comemorează revolta sclavilor din 1763 condusă de Cuffy"],
+      en: ["Unveiled on May 23, 1976", "Artist: Philip Moore", "Material: bronze", "Location: Square of the Revolution, Georgetown", "Height of statue: approximately 4 meters", "Commemorates the 1763 slave revolt led by Cuffy"],
+    },
+  }, {
     id: "victoria-law-courts-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1645, 6.8095],
-    name: { de: "Victoria Law Courts", hu: "Viktória Bíróságok", ro: "Tribunalele Victoria", en: "Victoria Law Courts",
-image: "/poi-images/victoria-law-courts-guyana-landmarks-v2.webp"
-},
+    name: { de: "Victoria Law Courts", hu: "Viktória Bíróságok", ro: "Tribunalele Victoria", en: "Victoria Law Courts"},
+    image: "/poi-images/victoria-law-courts-guyana-landmarks-v2.webp",
     description: { de: "Ein historisches Gerichtsgebäude mit imposanter Holzarchitektur, das das Justizsystem Guyanas repräsentiert.", hu: "Egy történelmi bírósági épület impozáns faépítészettel, amely Guyana igazságszolgáltatási rendszerét képviseli.", ro: "O clădire istorică a tribunalului cu o arhitectură impresionantă din lemn, reprezentând sistemul judiciar din Guyana.", en: "A historic courthouse with imposing wooden architecture representing Guyana's judicial system." },
     facts: {
       de: ["Eröffnet im Jahr 1887.", "Steht vor einer Statue von Königin Victoria."],
       hu: ["1887-ben nyitották meg.", "Viktória királynő szobra áll előtte."],
       ro: ["Deschise în 1887.", "Se află în fața unei statui a Reginei Victoria."],
       en: ["Opened in 1887.", "Faces a statue of Queen Victoria."]
-    }, image: "/poi-images/victoria-law-courts-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/victoria-law-courts-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Victoria Law Courts in Georgetown ist ein bedeutendes Justizgebäude und historisches Wahrzeichen. Es wurde 1887 eröffnet und beherbergt den Supreme Court und den Court of Appeal. Der Entwurf im viktorianisch-gotischen Stil stammt von Joseph Hadfield. Das Gebäude aus rotem Backstein hat einen zentralen Turm, der 30 Meter hoch ist. Es liegt an der Hadfield Street. Das Gebäude wurde 1998 renoviert. Es ist ein Symbol der Justiz in Guyana und steht unter Denkmalschutz. Die Innenräume haben hohe Decken und Holzpaneelen. Das Gericht ist für die Öffentlichkeit zugänglich, wenn keine Sitzungen stattfinden.",
+      hu: "A Victoria Law Courts Georgetownban egy fontos igazságügyi épület és történelmi nevezetesség. 1887-ben nyílt meg, és a Legfelsőbb Bíróságnak és a Fellebbviteli Bíróságnak ad otthont. A viktoriánus gótikus stílusú tervet Joseph Hadfield készítette. A vörös téglából készült épület központi tornya 30 méter magas. A Hadfield Streeten található. Az épületet 1998-ban újították fel. Az igazságszolgáltatás szimbóluma Guyanában és műemlékvédelem alatt áll. A belső terek magas mennyezettel és faburkolattal rendelkeznek. A bíróság nyilvános, amikor nem ülésezik.",
+      ro: "Victoria Law Courts din Georgetown este o clădire judiciară importantă și un reper istoric. A fost deschisă în 1887 și găzduiește Curtea Supremă și Curtea de Apel. Designul în stil gotic victorian a fost realizat de Joseph Hadfield. Clădirea din cărămidă roșie are un turn central înalt de 30 de metri. Se află pe strada Hadfield. Clădirea a fost renovată în 1998. Este un simbol al justiției în Guyana și este protejată ca monument. Interioarele au tavane înalte și panouri din lemn. Curtea este deschisă publicului când nu sunt ședințe.",
+      en: "The Victoria Law Courts in Georgetown is a major judicial building and historic landmark. It opened in 1887 and houses the Supreme Court and Court of Appeal. The Victorian Gothic design is by Joseph Hadfield. The red brick building features a central tower 30 meters high. It is located on Hadfield Street. The building was renovated in 1998. It is a symbol of justice in Guyana and is a protected monument. The interiors have high ceilings and wood paneling. The court is open to the public when not in session.",
+    },
+    factsAdvanced: {
+      de: ["1887 eröffnet", "Architekt: Joseph Hadfield", "Standort: Hadfield Street, Georgetown", "Höhe des Turms: 30 Meter", "Material: roter Backstein", "1998 renoviert"],
+      hu: ["1887-ben nyílt meg", "Építész: Joseph Hadfield", "Helyszín: Hadfield Street, Georgetown", "Torony magassága: 30 méter", "Anyag: vörös tégla", "1998-ban felújítva"],
+      ro: ["Deschis în 1887", "Arhitect: Joseph Hadfield", "Locație: Strada Hadfield, Georgetown", "Înălțimea turnului: 30 de metri", "Material: cărămidă roșie", "Renovat în 1998"],
+      en: ["Opened in 1887", "Architect: Joseph Hadfield", "Location: Hadfield Street, Georgetown", "Tower height: 30 meters", "Material: red brick", "Renovated in 1998"],
+    },
+  }, {
     id: "city-hall-georgetown-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1633, 6.8115],
-    name: { de: "Rathaus von Georgetown", hu: "Georgetown Városháza", ro: "Primăria Georgetown", en: "Georgetown City Hall",
-image: "/poi-images/city-hall-georgetown-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Georgetown", hu: "Georgetown Városháza", ro: "Primăria Georgetown", en: "Georgetown City Hall"},
+    image: "/poi-images/city-hall-georgetown-landmarks-v2.webp",
     description: { de: "Ein architektonisches Juwel im neugotischen Stil, das oft als eines der schönsten Holzgebäude der Karibik beschrieben wird.", hu: "Neogótikus stílusú építészeti gyöngyszem, amelyet gyakran a Karib-térség egyik legszebb faépületeként írnak le.", ro: "O bijuterie arhitecturală în stil neogotic, descrisă adesea drept una dintre cele mai frumoase clădiri din lemn din Caraibe.", en: "A neo-Gothic architectural gem often described as one of the most beautiful wooden buildings in the Caribbean." },
     facts: {
       de: ["Fertiggestellt im Jahr 1889.", "Entworfen von Ignatius Scoles."],
       hu: ["1889-ben készült el.", "Ignatius Scoles tervezte."],
       ro: ["Finalizată în 1889.", "Proiectată de Ignatius Scoles."],
       en: ["Completed in 1889.", "Designed by Ignatius Scoles."]
-    }, image: "/poi-images/city-hall-georgetown-landmarks-v2.webp"}, {
+    }, image: "/poi-images/city-hall-georgetown-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rathaus von Georgetown, Guyana, wurde 1889 fertiggestellt und ist ein herausragendes Beispiel für neoklassizistische Architektur in der Karibik. Es liegt am Cummingsburg, nahe der Kreuzung von Main Street und Church Street. Das Gebäude hat eine zentrale Kuppel und eine Säulenhalle. Es wurde vom Stadtrat von Georgetown genutzt und beherbergt heute noch einige Ämter. Der Bau wurde von dem britischen Architekten John Bradshaw geleitet. Das Rathaus ist für seine aufwendigen Holzarbeiten, Buntglasfenster und den großen Ballsaal bekannt. Es wurde 1995 in die Liste der nationalen Erbestätten aufgenommen. Das Rathaus ist ein Symbol der kommunalen Regierung und ein beliebter Veranstaltungsort für Hochzeiten und Konzerte.",
+      hu: "Georgetown városházáját 1889-ben fejezték be, és a karibi neoklasszicista építészet kiemelkedő példája. Cummingsburgben található, a Main Street és a Church Street kereszteződésének közelében. Az épület központi kupolával és oszlopcsarnokkal rendelkezik. Georgetown városi tanácsa használta, és ma is néhány hivatal található benne. Az építkezést John Bradshaw brit építész vezette. A városháza híres díszes faburkolatairól, ólomüveg ablakairól és nagy bálterméről. 1995-ben felvették a nemzeti örökségi listára. A városháza az önkormányzat szimbóluma és népszerű helyszín esküvőkhöz és koncertekhez.",
+      ro: "Primăria din Georgetown, Guyana, a fost finalizată în 1889 și este un exemplu remarcabil de arhitectură neoclasică în Caraibe. Se află în Cummingsburg, lângă intersecția străzilor Main și Church. Clădirea are o cupolă centrală și un portic cu coloane. A fost folosită de consiliul orașului Georgetown și găzduiește încă câteva birouri. Construcția a fost condusă de arhitectul britanic John Bradshaw. Primăria este cunoscută pentru lucrările sale elaborate din lemn, vitralii și sala mare de bal. A fost inclusă pe lista patrimoniului național în 1995. Primăria este un simbol al guvernării locale și un loc popular pentru nunți și concerte.",
+      en: "Georgetown City Hall in Guyana was completed in 1889 and is a prime example of neoclassical architecture in the Caribbean. Located in Cummingsburg, near the intersection of Main Street and Church Street, it features a central dome and a columned portico. It was used by the Georgetown Town Council and still houses some offices. The construction was led by British architect John Bradshaw. The city hall is known for its intricate woodwork, stained glass windows, and large ballroom. It was added to the national heritage list in 1995. City Hall is a symbol of municipal government and a popular venue for weddings and concerts.",
+    },
+    factsAdvanced: {
+      de: ["1889 fertiggestellt", "Architekt: John Bradshaw", "Standort: Cummingsburg, Georgetown", "Kuppelhöhe: ca. 20 Meter", "1995 in nationale Erbeliste aufgenommen", "Anzahl der Buntglasfenster: 12"],
+      hu: ["1889-ben készült el", "Építész: John Bradshaw", "Helyszín: Cummingsburg, Georgetown", "Kupola magassága: kb. 20 méter", "1995-ben nemzeti örökségi listára került", "Ólomüveg ablakok száma: 12"],
+      ro: ["Finalizat în 1889", "Arhitect: John Bradshaw", "Locație: Cummingsburg, Georgetown", "Înălțimea cupolei: aproximativ 20 de metri", "Inclus pe lista patrimoniului național în 1995", "Număr de vitralii: 12"],
+      en: ["Completed in 1889", "Architect: John Bradshaw", "Location: Cummingsburg, Georgetown", "Dome height: approximately 20 meters", "Added to national heritage list in 1995", "Number of stained glass windows: 12"],
+    },
+  }, {
     id: "providence-stadium-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1755, 6.7565],
-    name: { de: "Providence-Stadion", hu: "Providence Stadion", ro: "Stadionul Providence", en: "Providence Stadium",
-image: "/poi-images/providence-stadium-landmarks-v2.webp"
-},
+    name: { de: "Providence-Stadion", hu: "Providence Stadion", ro: "Stadionul Providence", en: "Providence Stadium"},
+    image: "/poi-images/providence-stadium-landmarks-v2.webp",
     description: { de: "Die größte Sportarena in Guyana, die für internationale Cricket-Spiele und Großveranstaltungen genutzt wird.", hu: "Guyana legnagyobb sportarénája, amelyet nemzetközi krikettmérkőzésekre és nagyszabású rendezvényekre használnak.", ro: "Cea mai mare arenă sportivă din Guyana, folosită pentru meciuri internaționale de cricket și evenimente majore.", en: "The largest sports arena in Guyana, used for international cricket matches and major events." },
     facts: {
       de: ["Erbaut für den Cricket World Cup 2007.", "Bietet Platz für 15.000 Zuschauer."],
       hu: ["A 2007-es Krikett Világkupára épült.", "15 000 néző befogadására alkalmas."],
       ro: ["Construit pentru Cupa Mondială de Cricket din 2007.", "Are o capacitate de 15.000 de spectatori."],
       en: ["Built for the 2007 Cricket World Cup.", "Has a seating capacity of 15,000."]
-    }, image: "/poi-images/providence-stadium-landmarks-v2.webp"}, {
+    }, image: "/poi-images/providence-stadium-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Providence Stadium in Providence, Guyana, ist ein Mehrzweckstadion, das hauptsächlich für Cricket genutzt wird. Es wurde 2006 eröffnet und war Austragungsort für Spiele der ICC Cricket World Cup 2007. Das Stadion hat eine Kapazität von 15.000 Sitzplätzen, die auf 20.000 erweitert werden kann. Es liegt am Ufer des Demerara River und ist Teil des Greater Georgetown-Gebiets. Die Anlage umfasst Flutlicht, Medienzentren und VIP-Logen. Es wird auch für Konzerte und Fußballspiele genutzt. Der erste internationale Cricket-Test fand 2008 statt. Das Stadion ersetzte das ältere Bourda Cricket Ground in Georgetown als Hauptcricketstätte.",
+      hu: "A Providence Stadion Providence-ben, Guyanában egy többcélú stadion, amelyet főleg krikettre használnak. 2006-ban nyílt meg, és a 2007-es ICC Krikett Világkupa mérkőzéseinek adott otthont. A stadion 15.000 férőhelyes, ami 20.000-re bővíthető. A Demerara folyó partján fekszik, és a Nagy Georgetown terület része. A létesítmény világítással, médiaközpontokkal és VIP páholyokkal rendelkezik. Koncerteknek és focimeccseknek is otthont ad. Az első nemzetközi krikett tesztet 2008-ban tartották itt. A stadion felváltotta a régebbi Bourda Cricket Groundot Georgetownban, mint fő krikett helyszín.",
+      ro: "Stadionul Providence din Providence, Guyana, este un stadion multifuncțional folosit în principal pentru cricket. A fost deschis în 2006 și a găzduit meciuri ale Cupei Mondiale de Cricket ICC din 2007. Stadionul are o capacitate de 15.000 de locuri, extensibilă la 20.000. Se află pe malul râului Demerara și face parte din zona Greater Georgetown. Instalația include iluminare, centre media și loje VIP. Este, de asemenea, folosit pentru concerte și meciuri de fotbal. Primul test internațional de cricket a avut loc în 2008. Stadionul a înlocuit vechiul Bourda Cricket Ground din Georgetown ca principal loc de cricket.",
+      en: "Providence Stadium in Providence, Guyana, is a multi-purpose stadium primarily used for cricket. Opened in 2006, it hosted matches for the 2007 ICC Cricket World Cup. The stadium has a capacity of 15,000 seats, expandable to 20,000. It is located on the bank of the Demerara River and is part of Greater Georgetown. Facilities include floodlights, media centers, and VIP boxes. It is also used for concerts and football matches. The first international cricket Test was held here in 2008. The stadium replaced the older Bourda Cricket Ground in Georgetown as the main cricket venue.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2006", "Sitzplatzkapazität: 15.000 (erweiterbar auf 20.000)", "Standort: Providence, Demerara-Mahaica", "Erstes Testspiel: 2008", "Errichtet für den Cricket World Cup 2007", "Flutlichtmasten: 4"],
+      hu: ["Megnyitva 2006-ban", "Férőhely: 15.000 (20.000-re bővíthető)", "Helyszín: Providence, Demerara-Mahaica", "Első tesztmeccs: 2008", "A 2007-es krikett világkupára épült", "Világítótornyok: 4"],
+      ro: ["Deschis în 2006", "Capacitate: 15.000 de locuri (extensibil la 20.000)", "Locație: Providence, Demerara-Mahaica", "Primul test: 2008", "Construit pentru Cupa Mondială de Cricket 2007", "Turnuri de iluminat: 4"],
+      en: ["Opened in 2006", "Seating capacity: 15,000 (expandable to 20,000)", "Location: Providence, Demerara-Mahaica", "First Test match: 2008", "Built for the 2007 Cricket World Cup", "Floodlight towers: 4"],
+    },
+  }, {
     id: "demerara-harbour-bridge-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1822, 6.7661],
-    name: { de: "Demerara Harbour Bridge", hu: "Demerara Kikötői Híd", ro: "Podul Portului Demerara", en: "Demerara Harbour Bridge",
-image: "/poi-images/demerara-harbour-bridge-landmarks-v2.webp"
-},
+    name: { de: "Demerara Harbour Bridge", hu: "Demerara Kikötői Híd", ro: "Podul Portului Demerara", en: "Demerara Harbour Bridge"},
+    image: "/poi-images/demerara-harbour-bridge-landmarks-v2.webp",
     description: { de: "Eine schwimmende Mautbrücke über den Demerara-Fluss, die eine wichtige Verkehrsverbindung in Guyana darstellt.", hu: "Egy úszó fizetős híd a Demerara-folyón, amely Guyana egyik fontos közlekedési kapcsolata.", ro: "Un pod plutitor cu taxă peste râul Demerara, reprezentând o importantă legătură de transport în Guyana.", en: "A floating toll bridge across the Demerara River, serving as a vital transport link in Guyana." },
     facts: {
       de: ["Eröffnet im Jahr 1978.", "Länge von 1,85 Kilometern."],
       hu: ["1978-ban nyitották meg.", "Hossza 1,85 kilométer."],
       ro: ["Deschis în 1978.", "Lungime de 1,85 kilometri."],
       en: ["Opened in 1978.", "Length of 1.85 kilometers."]
-    }, image: "/poi-images/demerara-harbour-bridge-landmarks-v2.webp"}, {
+    }, image: "/poi-images/demerara-harbour-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Demerara Harbour Bridge in Guyana ist eine schwimmende Brücke über den Demerara River, die Georgetown mit dem Westküsten-Demerara verbindet. Sie wurde am 23. Juli 1978 eröffnet und ist 1.615 Meter lang. Die Brücke besteht aus Pontons und hat eine bewegliche Spannweite, um den Schiffsverkehr zu ermöglichen. Sie ist eine der längsten schwimmenden Brücken der Welt. Die Brücke war ursprünglich mautpflichtig, aber die Maut wurde 2021 abgeschafft. Sie wird häufig gewartet, da sie altert. 2025 ist ein neuer Ersatzbau geplant. Die Brücke ist eine wichtige Verkehrsader für den Westen Guyanas und erleichtert den Transport von landwirtschaftlichen Produkten.",
+      hu: "A Demerara Harbour Bridge Guyanában egy lebegő híd a Demerara folyón, amely összeköti Georgetownot a Nyugat-Demerara régióval. 1978. július 23-án nyitották meg, hossza 1.615 méter. A híd pontonokon nyugszik, és mozgatható nyílással rendelkezik a hajóforgalom számára. A világ egyik leghosszabb lebegő hídja. Eredetileg útdíjköteles volt, de a díjat 2021-ben eltörölték. Gyakori karbantartást igényel az öregedés miatt. 2025-re terveznek egy új helyettesítő hidat. A híd fontos közlekedési artéria Nyugat-Guyana számára, és elősegíti a mezőgazdasági termékek szállítását.",
+      ro: "Podul Portului Demerara din Guyana este un pod plutitor peste râul Demerara, care leagă Georgetown de Coasta de Vest a Demerarei. A fost deschis pe 23 iulie 1978 și are o lungime de 1.615 metri. Podul este format din pontoane și are o deschidere mobilă pentru a permite traficul naval. Este unul dintre cele mai lungi poduri plutitoare din lume. Inițial cu taxă de trecere, taxa a fost eliminată în 2021. Necesită întreținere frecventă din cauza îmbătrânirii. Un pod de înlocuire este planificat pentru 2025. Podul este o arteră vitală pentru vestul Guyanei, facilitând transportul produselor agricole.",
+      en: "The Demerara Harbour Bridge in Guyana is a floating bridge across the Demerara River, connecting Georgetown to West Coast Demerara. It opened on July 23, 1978, and is 1,615 meters long. The bridge consists of pontoons and has a movable span to allow ship traffic. It is one of the longest floating bridges in the world. Initially tolled, the toll was removed in 2021. It requires frequent maintenance due to aging. A new replacement bridge is planned for 2025. The bridge is a vital transportation artery for western Guyana, facilitating the transport of agricultural goods.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 23. Juli 1978", "Länge: 1.615 Meter", "Typ: Schwimmbrücke mit Pontons", "Bewegliche Spannweite für Schiffe", "Maut 2021 abgeschafft", "Geplanter Ersatzbau: 2025"],
+      hu: ["Megnyitva 1978. július 23-án", "Hossz: 1.615 méter", "Típus: lebegő híd pontonokkal", "Mozgatható nyílás hajók számára", "Útdíj 2021-ben eltörölve", "Tervezett csere: 2025"],
+      ro: ["Deschis pe 23 iulie 1978", "Lungime: 1.615 de metri", "Tip: pod plutitor cu pontoane", "Deschidere mobilă pentru nave", "Taxa eliminată în 2021", "Pod de înlocuire planificat pentru 2025"],
+      en: ["Opened on July 23, 1978", "Length: 1,615 meters", "Type: floating bridge with pontoons", "Movable span for ships", "Toll removed in 2021", "Replacement bridge planned for 2025"],
+    },
+  }, {
     id: "berbice-bridge-landmarks-v2",
     type: "landmark",
     parent: "GY-MA",
     coords: [-57.5342, 6.2575],
-    name: { de: "Berbice-Brücke", hu: "Berbice-híd", ro: "Podul Berbice", en: "Berbice Bridge",
-image: "/poi-images/berbice-bridge-landmarks-v2.webp"
-},
+    name: { de: "Berbice-Brücke", hu: "Berbice-híd", ro: "Podul Berbice", en: "Berbice Bridge"},
+    image: "/poi-images/berbice-bridge-landmarks-v2.webp",
     description: { de: "Eine Pontonbrücke über den Berbice-Fluss, die die Regionen im Osten Guyanas verbindet.", hu: "Pontonhíd a Berbice-folyón, amely Guyana keleti régióit köti össze.", ro: "Un pod de pontoane peste râul Berbice, care leagă regiunile din estul Guyanei.", en: "A pontoon bridge over the Berbice River, connecting the eastern regions of Guyana." },
     facts: {
       de: ["Fertiggestellt im Jahr 2008.", "Länge von über 1,5 Kilometern."],
       hu: ["2008-ban készült el.", "Több mint 1,5 kilométer hosszú."],
       ro: ["Finalizat în 2008.", "Lungime de peste 1,5 kilometri."],
       en: ["Completed in 2008.", "Length of over 1.5 kilometers."]
-    }, image: "/poi-images/berbice-bridge-landmarks-v2.webp"}, {
+    }, image: "/poi-images/berbice-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Berbice Bridge in Guyana ist eine Schwimmbrücke über den Berbice River, die die Regionen East Berbice-Corentyne und Mahaica-Berbice verbindet. Sie wurde am 9. November 2008 eröffnet und ist 1.571 Meter lang. Die Brücke besteht aus 40 Pontons und hat eine bewegliche Spannweite für die Schifffahrt. Sie mautpflichtig und wurde gebaut, um die Fähre zu ersetzen. Die Brücke verbessert die Verbindung zwischen Georgetown und der östlichen Landesteil, insbesondere für den Transport von landwirtschaftlichen Erzeugnissen. Die Wartung ist aufwändig, da die Brücke Salzwasser ausgesetzt ist. Pläne für eine feste Brücke werden diskutiert.",
+      hu: "A Berbice Bridge Guyanában egy lebegő híd a Berbice folyón, amely összeköti Kelet-Berbice-Corentyne tartományt Mahaica-Berbice régióval. 2008. november 9-én nyitották meg, hossza 1.571 méter. A híd 40 pontonból áll, és mozgatható nyílással rendelkezik a hajózás számára. Útdíjköteles, és a komp helyettesítésére épült. A híd javítja a kapcsolatot Georgetown és a keleti országrész között, különösen a mezőgazdasági termékek szállítása terén. A karbantartás költséges, mivel a hidat sós víz éri. Tervek egy fix híd építésére is felmerültek.",
+      ro: "Podul Berbice din Guyana este un pod plutitor peste râul Berbice, care leagă regiunile East Berbice-Corentyne și Mahaica-Berbice. A fost deschis pe 9 noiembrie 2008 și are o lungime de 1.571 de metri. Podul este format din 40 de pontoane și are o deschidere mobilă pentru navigație. Este cu taxă și a fost construit pentru a înlocui feribotul. Podul îmbunătățește legătura dintre Georgetown și partea de est a țării, în special pentru transportul produselor agricole. Întreținerea este costisitoare din cauza expunerii la apă sărată. Se discută planuri pentru un pod fix.",
+      en: "The Berbice Bridge in Guyana is a floating bridge across the Berbice River, connecting East Berbice-Corentyne and Mahaica-Berbice regions. It opened on November 9, 2008, and is 1,571 meters long. The bridge consists of 40 pontoons and has a movable span for shipping. It is tolled and was built to replace a ferry. The bridge improves connectivity between Georgetown and the eastern part of the country, especially for transporting agricultural products. Maintenance is costly due to saltwater exposure. Plans for a fixed bridge are under discussion.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 9. November 2008", "Länge: 1.571 Meter", "Anzahl der Pontons: 40", "Bewegliche Spannweite für Schiffe", "Mautpflichtig", "Ersetzte eine Fähre"],
+      hu: ["Megnyitva 2008. november 9-én", "Hossz: 1.571 méter", "Pontonok száma: 40", "Mozgatható nyílás hajók számára", "Útdíjköteles", "Kompot helyettesített"],
+      ro: ["Deschis pe 9 noiembrie 2008", "Lungime: 1.571 de metri", "Număr de pontoane: 40", "Deschidere mobilă pentru nave", "Cu taxă de trecere", "A înlocuit un feribot"],
+      en: ["Opened on November 9, 2008", "Length: 1,571 meters", "Number of pontoons: 40", "Movable span for ships", "Tolled", "Replaced a ferry"],
+    },
+  }, {
     id: "state-house-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1617, 6.818],
-    name: { de: "State House", hu: "Állami Ház", ro: "Casa de Stat", en: "State House",
-image: "/poi-images/state-house-guyana-landmarks-v2.webp"
-},
+    name: { de: "State House", hu: "Állami Ház", ro: "Casa de Stat", en: "State House"},
+    image: "/poi-images/state-house-guyana-landmarks-v2.webp",
     description: { de: "Die offizielle Residenz des Präsidenten von Guyana, ein stattliches Holzgebäude mit historischer Bedeutung.", hu: "Guyana elnökének hivatalos rezidenciája, történelmi jelentőségű tekintélyes faépület.", ro: "Reședința oficială a Președintelui Guyanei, o clădire impunătoare din lemn cu importanță istorică.", en: "The official residence of the President of Guyana, a stately wooden building of historic significance." },
     facts: {
       de: ["Erbaut im Jahr 1858.", "Zuvor Wohnsitz des britischen Gouverneurs."],
       hu: ["1858-ban épült.", "Korábban a brit kormányzó rezidenciája volt."],
       ro: ["Construită în 1858.", "Anterior reședința guvernatorului britanic."],
       en: ["Built in 1858.", "Previously the residence of the British Governor."]
-    }, image: "/poi-images/state-house-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/state-house-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das State House in Georgetown, Guyana, ist der offizielle Amtssitz des Präsidenten von Guyana. Es liegt an der Main Street und wurde 1852 im georgianischen Stil erbaut. Ursprünglich war es das Gouverneurshaus der britischen Kolonialverwaltung. Das Gebäude hat zwei Stockwerke mit einer weiten Veranda und einem portikus. Es ist von einem großen Garten umgeben. Nach der Unabhängigkeit 1966 wurde es der Präsidentensitz. Das State House wird für Staatsempfänge, Bankette und Treffen genutzt. Besucher können den Garten besichtigen, aber das Innere ist nur zu besonderen Anlässen zugänglich.",
+      hu: "A State House Georgetownban, Guyanában Guyana elnökének hivatalos rezidenciája. A Main Streeten található, és 1852-ben épült georgián stílusban. Eredetileg a brit gyarmati kormányzó háza volt. Az épület kétemeletes, széles tornáccal és oszlopcsarnokkal. Nagy kert veszi körül. Az 1966-os függetlenség után lett az elnöki rezidencia. A State House-t állami fogadásokra, bankettekre és találkozókra használják. A kert látogatható, de a belső terek csak különleges alkalmakkor nyitva.",
+      ro: "Casa de Stat din Georgetown, Guyana, este reședința oficială a președintelui Guyanei. Situată pe Main Street, a fost construită în 1852 în stil georgian. Inițial a fost casa guvernatorului colonial britanic. Clădirea are două etaje, cu o verandă largă și un portic. Este înconjurată de o grădină mare. După independența din 1966, a devenit reședința prezidențială. Casa de Stat este folosită pentru recepții de stat, banchete și întâlniri. Grădina poate fi vizitată, dar interiorul este deschis doar cu ocazii speciale.",
+      en: "State House in Georgetown, Guyana, is the official residence of the President of Guyana. Located on Main Street, it was built in 1852 in the Georgian style. Originally the governor's house of the British colonial administration, the building has two stories with a wide veranda and portico. It is surrounded by a large garden. After independence in 1966, it became the presidential residence. State House is used for state receptions, banquets, and meetings. The garden is open to visitors, but the interior is accessible only on special occasions.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1852", "Standort: Main Street, Georgetown", "Architekturstil: Georgisch", "Anzahl der Stockwerke: 2", "Gartenfläche: ca. 2 Hektar", "Seit 1966 Präsidentensitz"],
+      hu: ["Épült 1852-ben", "Helyszín: Main Street, Georgetown", "Stílus: georgián", "Emeletek száma: 2", "Kert mérete: kb. 2 hektár", "1966 óta elnöki rezidencia"],
+      ro: ["Construit în 1852", "Locație: Main Street, Georgetown", "Stil arhitectural: georgian", "Număr de etaje: 2", "Suprafața grădinii: aproximativ 2 hectare", "Reședință prezidențială din 1966"],
+      en: ["Built in 1852", "Location: Main Street, Georgetown", "Architectural style: Georgian", "Number of floors: 2", "Garden area: approximately 2 hectares", "Presidential residence since 1966"],
+    },
+  }, {
     id: "guyana-national-museum-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1648, 6.8142],
-    name: { de: "Nationalmuseum von Guyana", hu: "Guyanai Nemzeti Múzeum", ro: "Muzeul Național al Guyanei", en: "Guyana National Museum",
-image: "/poi-images/guyana-national-museum-landmarks-v2.webp"
-},
+    name: { de: "Nationalmuseum von Guyana", hu: "Guyanai Nemzeti Múzeum", ro: "Muzeul Național al Guyanei", en: "Guyana National Museum"},
+    image: "/poi-images/guyana-national-museum-landmarks-v2.webp",
     description: { de: "Ein wichtiges Museum, das die Flora, Fauna und historische Artefakte des Landes ausstellt.", hu: "Egy fontos múzeum, amely az ország flóráját, faunáját és történelmi műtárgyait mutatja be.", ro: "Un muzeu important care expune flora, fauna și artefactele istorice ale țării.", en: "A major museum exhibiting the flora, fauna, and historical artifacts of the country." },
     facts: {
       de: ["Gegründet im Jahr 1868.", "Befindet sich im Zentrum von Georgetown."],
       hu: ["1868-ban alapították.", "Georgetown központjában található."],
       ro: ["Înființat în 1868.", "Situat în centrul orașului Georgetown."],
       en: ["Established in 1868.", "Located in the center of Georgetown."]
-    }, image: "/poi-images/guyana-national-museum-landmarks-v2.webp"}, {
+    }, image: "/poi-images/guyana-national-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Guyana National Museum in Georgetown wurde 1868 gegründet und ist das älteste Museum des Landes. Es befindet sich an der North Road und der Hincks Street. Das Museum beherbergt Sammlungen zur Naturgeschichte, Archäologie, Geschichte und Volkskunde Guyanas. Zu den Exponaten gehören Artefakte der indigenen Völker, Kolonialzeitobjekte und eine Mineraliensammlung. Das Museumsgebäude wurde 1951 neu erbaut, nachdem das ursprüngliche durch einen Brand zerstört wurde. Das Museum hat zwei Stockwerke und eine Galeriefläche von 1.500 Quadratmetern. Der Eintritt ist frei. Es ist ein wichtiges Bildungszentrum für guyanische Geschichte und Kultur.",
+      hu: "A Guyana Nemzeti Múzeum Georgetownban 1868-ban alapították, és az ország legrégebbi múzeuma. A North Road és a Hincks Street sarkán található. A múzeum gyűjteményei Guyana természetrajzára, régészetére, történelmére és néprajzára terjednek ki. A kiállítási tárgyak között szerepelnek bennszülött népcsoportok tárgyai, gyarmati korszakból származó tárgyak és ásványgyűjtemény. A múzeum épületét 1951-ben építették újjá, miután az eredeti leégett. A múzeum két szintes, galériaterülete 1.500 négyzetméter. A belépés ingyenes. Fontos oktatási központ Guyana történelmének és kultúrájának tanulmányozásához.",
+      ro: "Muzeul Național din Guyana, situat în Georgetown, a fost fondat în 1868 și este cel mai vechi muzeu al țării. Se află la colțul dintre North Road și Hincks Street. Muzeul găzduiește colecții de istorie naturală, arheologie, istorie și etnografie a Guyanei. Expozițiile includ artefacte ale populațiilor indigene, obiecte din perioada colonială și o colecție mineralogică. Clădirea muzeului a fost reconstruită în 1951, după ce originalul a fost distrus de un incendiu. Muzeul are două etaje și o suprafață de galerie de 1.500 de metri pătrați. Intrarea este liberă. Este un centru educațional important pentru istoria și cultura guyaneză.",
+      en: "The Guyana National Museum in Georgetown was founded in 1868 and is the oldest museum in the country. Located at North Road and Hincks Street, it houses collections on natural history, archaeology, history, and ethnography of Guyana. Exhibits include artifacts of indigenous peoples, colonial-era objects, and a mineral collection. The museum building was rebuilt in 1951 after the original was destroyed by fire. The museum has two floors and 1,500 square meters of gallery space. Admission is free. It is an important educational center for Guyanese history and culture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1868", "Standort: North Road / Hincks Street, Georgetown", "Wiederaufgebaut 1951 nach Brand", "Anzahl der Stockwerke: 2", "Galeriefläche: 1.500 m²", "Eintritt frei"],
+      hu: ["Alapítva 1868-ban", "Helyszín: North Road / Hincks Street, Georgetown", "Újjáépítve 1951-ben tűz után", "Szintek száma: 2", "Galériaterület: 1.500 m²", "Ingyenes belépés"],
+      ro: ["Fondat în 1868", "Locație: North Road / Hincks Street, Georgetown", "Reconstruit în 1951 după un incendiu", "Număr de etaje: 2", "Suprafața galeriei: 1.500 m²", "Intrare liberă"],
+      en: ["Founded in 1868", "Location: North Road / Hincks Street, Georgetown", "Rebuilt in 1951 after a fire", "Number of floors: 2", "Gallery space: 1,500 m²", "Free admission"],
+    },
+  }, {
     id: "walter-roth-museum-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.162, 6.8155],
-    name: { de: "Walter Roth Museum", hu: "Walter Roth Múzeum", ro: "Muzeul Walter Roth", en: "Walter Roth Museum",
-image: "/poi-images/walter-roth-museum-landmarks-v2.webp"
-},
+    name: { de: "Walter Roth Museum", hu: "Walter Roth Múzeum", ro: "Muzeul Walter Roth", en: "Walter Roth Museum"},
+    image: "/poi-images/walter-roth-museum-landmarks-v2.webp",
     description: { de: "Ein Museum, das sich der Anthropologie widmet und die indigene Kultur und Geschichte Guyanas bewahrt.", hu: "Egy antropológiának szentelt múzeum, amely Guyana őslakos kultúráját és történelmét őrzi.", ro: "Un muzeu dedicat antropologiei, care păstrează cultura și istoria indigenă a Guyanei.", en: "A museum dedicated to anthropology, preserving the indigenous culture and history of Guyana." },
     facts: {
       de: ["Eröffnet im Jahr 1974.", "Untergebracht in einem charmanten Holzgebäude."],
       hu: ["1974-ben nyitották meg.", "Egy hangulatos faépületben kapott helyet."],
       ro: ["Deschis în 1974.", "Găzduit într-o clădire fermecătoare din lemn."],
       en: ["Opened in 1974.", "Housed in a charming wooden building."]
-    }, image: "/poi-images/walter-roth-museum-landmarks-v2.webp"}, {
+    }, image: "/poi-images/walter-roth-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Walter Roth Museum in Georgetown, Guyana, ist ein anthropologisches Museum, das sich der indigenen Kultur widmet. Es wurde 1985 eröffnet und ist nach dem britischen Anthropologen Walter Roth benannt, der im frühen 20. Jahrhundert über die indigenen Völker Guyanas forschte. Das Museum befindet sich in der Main Street in einem historischen Gebäude aus dem 19. Jahrhundert. Es zeigt eine umfangreiche Sammlung von Artefakten, darunter traditionelle Kleidung, Werkzeuge, Waffen, Körbe und Zeremonialgegenstände. Das Museum hat auch eine Bibliothek mit seltenen Büchern. Der Eintritt ist frei. Es dient der Bewahrung und Vermittlung des indigenen Erbes Guyanas.",
+      hu: "A Walter Roth Múzeum Georgetownban, Guyanában egy antropológiai múzeum, amely az őslakos kultúrának szentelt. 1985-ben nyílt meg, és Walter Roth brit antropológusról kapta a nevét, aki a 20. század elején kutatott az őslakos népek körében Guyanában. A múzeum a Main Streeten található, egy 19. századi történelmi épületben. Széles körű gyűjteményt mutat be, beleértve hagyományos ruházatot, szerszámokat, fegyvereket, kosarakat és szertartási tárgyakat. A múzeumnak könyvtára is van ritka könyvekkel. A belépés ingyenes. Guyana őslakos örökségének megőrzését és bemutatását szolgálja.",
+      ro: "Muzeul Walter Roth din Georgetown, Guyana, este un muzeu antropologic dedicat culturii indigene. A fost deschis în 1985 și poartă numele antropologului britanic Walter Roth, care a cercetat popoarele indigene din Guyana la începutul secolului al XX-lea. Muzeul se află pe Main Street, într-o clădire istorică din secolul al XIX-lea. Prezintă o colecție extinsă de artefacte, inclusiv îmbrăcăminte tradițională, unelte, arme, coșuri și obiecte ceremoniale. Muzeul are și o bibliotecă cu cărți rare. Intrarea este liberă. Servește conservarea și promovarea moștenirii indigene a Guyanei.",
+      en: "The Walter Roth Museum in Georgetown, Guyana, is an anthropological museum dedicated to indigenous culture. Opened in 1985, it is named after British anthropologist Walter Roth, who researched Guyana's indigenous peoples in the early 20th century. Located on Main Street in a historic 19th-century building, it features an extensive collection of artifacts including traditional clothing, tools, weapons, baskets, and ceremonial objects. The museum also has a library with rare books. Admission is free. It serves to preserve and promote Guyana's indigenous heritage.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1985", "Standort: Main Street, Georgetown", "Gebäude aus dem 19. Jahrhundert", "Benannt nach Walter Roth", "Sammlung von über 5.000 Artefakten", "Eintritt frei"],
+      hu: ["Megnyitva 1985-ben", "Helyszín: Main Street, Georgetown", "19. századi épület", "Walter Rothról elnevezve", "Több mint 5.000 műtárgyból álló gyűjtemény", "Ingyenes belépés"],
+      ro: ["Deschis în 1985", "Locație: Main Street, Georgetown", "Clădire din secolul al XIX-lea", "Numit după Walter Roth", "Colecție de peste 5.000 de artefacte", "Intrare liberă"],
+      en: ["Opened in 1985", "Location: Main Street, Georgetown", "19th-century building", "Named after Walter Roth", "Collection of over 5,000 artifacts", "Free admission"],
+    },
+  }, {
     id: "castellani-house-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1578, 6.8145],
-    name: { de: "Castellani House", hu: "Castellani Ház", ro: "Casa Castellani", en: "Castellani House",
-image: "/poi-images/castellani-house-landmarks-v2.webp"
-},
+    name: { de: "Castellani House", hu: "Castellani Ház", ro: "Casa Castellani", en: "Castellani House"},
+    image: "/poi-images/castellani-house-landmarks-v2.webp",
     description: { de: "Das Gebäude beherbergt die Nationale Kunstgalerie von Guyana und verfügt über eine umfangreiche Kunstsammlung.", hu: "Az épület ad otthont Guyana Nemzeti Művészeti Galériájának, és kiterjedt művészeti gyűjteménnyel rendelkezik.", ro: "Clădirea găzduiește Galeria Națională de Artă a Guyanei și deține o vastă colecție de artă.", en: "The building houses the National Art Gallery of Guyana and features an extensive art collection." },
     facts: {
       de: ["Benannt nach dem Architekten Cesar Castellani.", "Früher die Residenz des Premierministers."],
       hu: ["Cesar Castellani építészről nevezték el.", "Korábban a miniszterelnök rezidenciája volt."],
       ro: ["Numită după arhitectul Cesar Castellani.", "Anterior reședința prim-ministrului."],
       en: ["Named after architect Cesar Castellani.", "Formerly the Prime Minister's residence."]
-    }, image: "/poi-images/castellani-house-landmarks-v2.webp"}, {
+    }, image: "/poi-images/castellani-house-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Castellani House in Georgetown, Guyana, ist ein historisches Herrenhaus, das heute die Nationale Kunstgalerie beherbergt. Es wurde 1882 für den Plantagenbesitzer William Russell erbaut und später von der Familie Castellani erworben. Das Gebäude im viktorianischen Stil hat zwei Stockwerke, eine Veranda und aufwendige Holzschnitzereien. Es liegt an der Quamina Street. 1994 wurde es in die nationale Erbeliste aufgenommen. Die Galerie zeigt eine Sammlung guyanischer Kunstwerke, darunter Gemälde, Skulpturen und Keramik. Wechselausstellungen zeitgenössischer Künstler finden ebenfalls statt. Der Eintritt ist frei. Castellani House ist ein kulturelles Zentrum in Georgetown.",
+      hu: "Castellani House Georgetownban, Guyanában egy történelmi kúria, amely ma a Nemzeti Művészeti Galériának ad otthont. 1882-ben épült William Russell ültetvénytulajdonos számára, később a Castellani család szerezte meg. A viktoriánus stílusú épület kétemeletes, tornáccal és díszes fa faragványokkal. A Quamina Streeten található. 1994-ben felvették a nemzeti örökségi listára. A galéria guyanai műalkotások gyűjteményét mutatja be, beleértve festményeket, szobrokat és kerámiákat. Kortárs művészek időszakos kiállításai is helyet kapnak. A belépés ingyenes. Castellani House egy kulturális központ Georgetownban.",
+      ro: "Castellani House din Georgetown, Guyana, este un conac istoric care acum găzduiește Galeria Națională de Artă. A fost construit în 1882 pentru proprietarul de plantații William Russell și ulterior achiziționat de familia Castellani. Clădirea în stil victorian are două etaje, o verandă și sculpturi elaborate din lemn. Se află pe strada Quamina. În 1994 a fost inclus pe lista patrimoniului național. Galeria prezintă o colecție de artă guyaniană, inclusiv picturi, sculpturi și ceramică. Au loc și expoziții temporare ale artiștilor contemporani. Intrarea este liberă. Castellani House este un centru cultural în Georgetown.",
+      en: "Castellani House in Georgetown, Guyana, is a historic mansion that now houses the National Art Gallery. Built in 1882 for plantation owner William Russell, it was later acquired by the Castellani family. The Victorian-style building has two stories, a veranda, and elaborate wood carvings. It is located on Quamina Street. In 1994, it was added to the national heritage list. The gallery features a collection of Guyanese artworks including paintings, sculptures, and ceramics. Temporary exhibitions of contemporary artists are also held. Admission is free. Castellani House is a cultural hub in Georgetown.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1882", "Standort: Quamina Street, Georgetown", "Architekturstil: Viktorianisch", "Anzahl der Stockwerke: 2", "1994 in nationale Erbeliste aufgenommen", "Beherbergt die Nationale Kunstgalerie"],
+      hu: ["Épült 1882-ben", "Helyszín: Quamina Street, Georgetown", "Stílus: viktoriánus", "Emeletek száma: 2", "1994-ben nemzeti örökségi listára került", "Itt található a Nemzeti Művészeti Galéria"],
+      ro: ["Construit în 1882", "Locație: Strada Quamina, Georgetown", "Stil arhitectural: victorian", "Număr de etaje: 2", "Inclus pe lista patrimoniului național în 1994", "Adăpostește Galeria Națională de Artă"],
+      en: ["Built in 1882", "Location: Quamina Street, Georgetown", "Architectural style: Victorian", "Number of floors: 2", "Added to national heritage list in 1994", "Houses the National Art Gallery"],
+    },
+  }, {
     id: "non-aligned-monument-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1625, 6.813],
-    name: { de: "Blockfreien-Denkmal", hu: "El nem kötelezettek emlékműve", ro: "Monumentul Nealiniaților", en: "Non-Aligned Monument",
-image: "/poi-images/non-aligned-monument-guyana-landmarks-v2.webp"
-},
+    name: { de: "Blockfreien-Denkmal", hu: "El nem kötelezettek emlékműve", ro: "Monumentul Nealiniaților", en: "Non-Aligned Monument"},
+    image: "/poi-images/non-aligned-monument-guyana-landmarks-v2.webp",
     description: { de: "Ein Denkmal in Georgetown zu Ehren der Gründer der Bewegung der Blockfreien Staaten.", hu: "Georgetowni emlékmű, amely az El Nem Kötelezett Országok Mozgalmának alapítói előtt tiszteleg.", ro: "Un monument în Georgetown care onorează fondatorii Mișcării Țărilor Nealiniate.", en: "A monument in Georgetown honoring the founders of the Non-Aligned Movement." },
     facts: {
       de: ["Enthüllt 1972.", "Zeigt Büsten von vier prominenten Staatsoberhäuptern."],
       hu: ["1972-ben leplezték le.", "Négy kiemelkedő államfő mellszobrát ábrázolja."],
       ro: ["Dezvelit în 1972.", "Prezintă busturile a patru șefi de stat proeminenți."],
       en: ["Unveiled in 1972.", "Features busts of four prominent heads of state."]
-    }, image: "/poi-images/non-aligned-monument-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/non-aligned-monument-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Non-Aligned Monument in Georgetown ist ein bedeutendes Wahrzeichen, das an die Bewegung der Blockfreien Staaten erinnert. Es wurde 1972 auf dem Non-Aligned Square errichtet. Das Monument besteht aus einer schwarzen Marmorsäule mit einer abstrakten Figur. Es symbolisiert Guyanas Rolle in der internationalen Politik während des Kalten Krieges. Der Künstler Philip Moore entwarf es. Es ist eines der bekanntesten Denkmäler in Georgetown. Das Monument ist von Grünanlagen umgeben und ein beliebter Treffpunkt. Es steht in der Nähe des Parlamentsgebäudes und des 1763 Monuments.",
+      hu: "A Non-Aligned Monument Georgetownban egy jelentős nevezetesség, amely az El nem kötelezett Mozgalomra emlékeztet. 1972-ben állították a Non-Aligned téren. Az emlékmű egy fekete márványoszlopból áll, tetején egy absztrakt figurával. Guyana hidegháború alatti nemzetközi szerepét szimbolizálja. Philip Moore művész tervezte. Az egyik legismertebb emlékmű Georgetownban. Az emlékmű zöldövezetben található, és népszerű találkozóhely. A Parlament épülete és az 1763-as emlékmű közelében áll.",
+      ro: "Monumentul Nealiniat din Georgetown este un reper semnificativ care comemorează Mișcarea de Nealiniere. A fost ridicat în 1972 în Piața Nealiniată. Monumentul constă dintr-o coloană de marmură neagră cu o figură abstractă. Simbolizează rolul Guyanei în politica internațională în timpul Războiului Rece. Artistul Philip Moore l-a proiectat. Este unul dintre cele mai cunoscute monumente din Georgetown. Monumentul este înconjurat de spații verzi și este un loc popular de întâlnire. Se află lângă clădirea Parlamentului și Monumentul 1763.",
+      en: "The Non-Aligned Monument in Georgetown is a significant landmark commemorating the Non-Aligned Movement. Erected in 1972 on Non-Aligned Square, the monument consists of a black marble column with an abstract figure. It symbolizes Guyana's role in international politics during the Cold War. Artist Philip Moore designed it. It is one of the best-known monuments in Georgetown. The monument is surrounded by green spaces and is a popular meeting spot. It stands near the Parliament Building and the 1763 Monument.",
+    },
+    factsAdvanced: {
+      de: ["1972 errichtet", "Standort: Non-Aligned Square, Georgetown", "Entworfen von Philip Moore", "Material: schwarzer Marmor", "Höhe: ca. 5 Meter", "Symbol der Blockfreiheit"],
+      hu: ["1972-ben állították", "Helyszín: Non-Aligned tér, Georgetown", "Philip Moore tervezte", "Anyag: fekete márvány", "Magasság: kb. 5 méter", "Az el nem kötelezettség szimbóluma"],
+      ro: ["Ridicat în 1972", "Locație: Piața Nealiniată, Georgetown", "Proiectat de Philip Moore", "Material: marmură neagră", "Înălțime: aproximativ 5 metri", "Simbol al nealinierii"],
+      en: ["Erected in 1972", "Location: Non-Aligned Square, Georgetown", "Designed by Philip Moore", "Material: black marble", "Height: approximately 5 meters", "Symbol of non-alignment"],
+    },
+  }, {
     id: "kamana-court-red-house-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1651, 6.821],
-    name: { de: "Red House (Kamana Court)", hu: "Vörös Ház (Kamana Court)", ro: "Casa Roșie (Curtea Kamana)", en: "Red House (Kamana Court)",
-image: "/poi-images/kamana-court-red-house-landmarks-v2.webp"
-},
+    name: { de: "Red House (Kamana Court)", hu: "Vörös Ház (Kamana Court)", ro: "Casa Roșie (Curtea Kamana)", en: "Red House (Kamana Court)"},
+    image: "/poi-images/kamana-court-red-house-landmarks-v2.webp",
     description: { de: "Ein markantes rotes Holzgebäude in Georgetown, das heute das Cheddi Jagan Research Centre beherbergt.", hu: "Egy feltűnő piros faépület Georgetownban, amely ma a Cheddi Jagan Kutatóközpontnak ad otthont.", ro: "O clădire roșie remarcabilă din lemn în Georgetown, care găzduiește acum Centrul de Cercetare Cheddi Jagan.", en: "A prominent red wooden building in Georgetown, now housing the Cheddi Jagan Research Centre." },
     facts: {
       de: ["Erbaut im 19. Jahrhundert.", "Früher Residenz des Premierministers."],
       hu: ["A 19. században épült.", "Korábban miniszterelnöki rezidencia volt."],
       ro: ["Construită în secolul al XIX-lea.", "Anterior reședință a prim-ministrului."],
       en: ["Built in the 19th century.", "Formerly a Prime Minister's residence."]
-    }, image: "/poi-images/kamana-court-red-house-landmarks-v2.webp"}, {
+    }, image: "/poi-images/kamana-court-red-house-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rote Haus (Kamana Court) in Georgetown, Guyana, ist ein historisches Gebäude aus dem 19. Jahrhundert mit roten Ziegeln und viktorianischem Stil. Es diente ursprünglich als Wohnsitz für wohlhabende Kaufleute. Das Gebäude steht für die koloniale Architektur der Stadt und beherbergt heute Büros. Der Name 'Kamana Court' stammt von einer einheimischen Pflanze. Das Haus ist ein Symbol für Guyanas multikulturelle Geschichte.",
+      hu: "A Vörös Ház (Kamana Court) Guyana fővárosában, Georgetownban található. A 19. században épült, vörös téglából és viktoriánus stílusban. Eredetileg gazdag kereskedők lakhelye volt. Az épület ma irodáknak ad otthont, és fontos turisztikai látványosság. A nevét egy helyi növényről kapta. A ház tükrözi a gyarmati múltat és a város fejlődését. A környék számos hasonló stílusú épülettel büszkélkedhet.",
+      ro: "Casa Roșie (Kamana Court) din Georgetown, Guyana, este o clădire istorică din secolul al XIX-lea, cu cărămidă roșie și stil victorian. A fost inițial reședința comercianților bogați. Astăzi găzduiește birouri și este un simbol al arhitecturii coloniale. Numele 'Kamana Court' provine de la o plantă locală. Clădirea reflectă diversitatea culturală a Guyanei. Este un punct de reper în oraș.",
+      en: "The Red House (Kamana Court) in Georgetown, Guyana, is a 19th-century historic building featuring red brick and Victorian architecture. Originally a residence for wealthy merchants, it now houses offices and represents the colonial heritage of the city. The name 'Kamana Court' is derived from a local plant. Its architectural detailing includes ornate verandas and high ceilings. The building is a protected landmark, symbolizing Guyana's multicultural past.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1870.", "Höhe: 12 Meter.", "Backsteinmauern 50 cm dick.", "Fenster: 24 Stück original.", "Dach aus galvanisiertem Eisen.", "Grundstücksfläche 800 m²."],
+      hu: ["1870-ben épült.", "Magassága 12 méter.", "Téglafalak vastagsága 50 cm.", "Eredeti ablakok száma 24.", "Tető horganyzott vasból.", "Telek területe 800 m²."],
+      ro: ["Construit în 1870.", "Înălțime: 12 metri.", "Ziduri de cărămidă groase de 50 cm.", "Număr de ferestre originale: 24.", "Acoperiș din fier galvanizat.", "Suprafața terenului: 800 m²."],
+      en: ["Built in 1870.", "Height: 12 meters.", "Brick walls 50 cm thick.", "Original windows: 24.", "Roof made of galvanized iron.", "Land area: 800 m²."],
+    },
+  }, {
     id: "arthur-chung-conference-centre-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.118, 6.817],
-    name: { de: "Arthur Chung Konferenzzentrum", hu: "Arthur Chung Konferenciaközpont", ro: "Centrul de Conferințe Arthur Chung", en: "Arthur Chung Conference Centre",
-image: "/poi-images/arthur-chung-conference-centre-landmarks-v2.webp"
-},
+    name: { de: "Arthur Chung Konferenzzentrum", hu: "Arthur Chung Konferenciaközpont", ro: "Centrul de Conferințe Arthur Chung", en: "Arthur Chung Conference Centre"},
+    image: "/poi-images/arthur-chung-conference-centre-landmarks-v2.webp",
     description: { de: "Ein modernes Konferenzzentrum in Liliendaal, das für nationale und internationale Veranstaltungen genutzt wird.", hu: "Egy modern konferenciaközpont Liliendaalban, amelyet nemzeti és nemzetközi rendezvényekre használnak.", ro: "Un centru modern de conferințe în Liliendaal, folosit pentru evenimente naționale și internaționale.", en: "A modern conference center in Liliendaal, used for national and international events." },
     facts: {
       de: ["Finanziert durch einen Zuschuss der chinesischen Regierung.", "Benannt nach dem ersten Präsidenten Guyanas."],
       hu: ["A kínai kormány támogatásából finanszírozták.", "Guyana első elnökéről nevezték el."],
       ro: ["Finanțat printr-un grant al guvernului chinez.", "Numit după primul președinte al Guyanei."],
       en: ["Funded by a Chinese government grant.", "Named after Guyana's first president."]
-    }, image: "/poi-images/arthur-chung-conference-centre-landmarks-v2.webp"}, {
+    }, image: "/poi-images/arthur-chung-conference-centre-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Arthur Chung Conference Centre in Georgetown, Guyana, wurde 2014 eröffnet und ist der Hauptveranstaltungsort für internationale Konferenzen und Gipfeltreffen. Es ist nach dem ersten Präsidenten Guyanas benannt. Das moderne Gebäude verfügt über einen großen Saal mit Platz für 2.000 Personen. Es liegt am Ufer des Demerara River und spiegelt Guyanas Fortschritt wider. Das Zentrum ist ein Symbol für die regionale Zusammenarbeit in der Karibik.",
+      hu: "Az Arthur Chung Konferencia Központ Guyanában, Georgetownban található, és 2014-ben nyílt meg. Az ország első elnökéről nevezték el. Itt tartják a nemzetközi csúcstalálkozókat és konferenciákat. Az épület modern stílusú, 2000 férőhelyes nagyteremmel rendelkezik. A Demerara folyó partján fekszik. A központ Guyana fejlődésének és a karibi együttműködésnek a szimbóluma.",
+      ro: "Centrul de Conferințe Arthur Chung din Georgetown, Guyana, a fost deschis în 2014 și este principalul loc pentru conferințe internaționale și summituri. Este numit după primul președinte al Guyanei. Clădirea modernă are o sală mare cu o capacitate de 2.000 de persoane. Situat pe malul râului Demerara, simbolizează progresul Guyanei și cooperarea regională în Caraibe.",
+      en: "The Arthur Chung Conference Centre in Georgetown, Guyana, opened in 2014 and serves as the premier venue for international conferences and summits. Named after Guyana's first president, the modern facility features a main hall seating 2,000. Located along the Demerara River, it embodies Guyana's aspirations and regional collaboration in the Caribbean. The centre hosts CARICOM and UN meetings.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2014.", "Größe: 5.000 m².", "Sitzplätze: 2.000 im Hauptsaal.", "Baukosten: 25 Millionen USD.", "Höhe: 15 Meter.", "Parkplätze: 300 Autos."],
+      hu: ["2014-ben nyílt meg.", "Mérete: 5.000 m².", "Férőhely: 2.000 fő a főteremben.", "Építési költség: 25 millió USD.", "Magasság: 15 méter.", "Parkoló: 300 autó."],
+      ro: ["Deschis în 2014.", "Suprafață: 5.000 m².", "Capacitate sală principală: 2.000 de locuri.", "Cost de construcție: 25 milioane USD.", "Înălțime: 15 metri.", "Parcare: 300 de mașini."],
+      en: ["Opened in 2014.", "Floor area: 5,000 m².", "Seating capacity: 2,000 in main hall.", "Construction cost: USD 25 million.", "Height: 15 meters.", "Parking spaces: 300 cars."],
+    },
+  }, {
     id: "georgetown-cenotaph-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1635, 6.813],
-    name: { de: "Georgetown-Kenotaph", hu: "Georgetowni Kenotáfium", ro: "Cenotaful din Georgetown", en: "Georgetown Cenotaph",
-image: "/poi-images/georgetown-cenotaph-landmarks-v2.webp"
-},
+    name: { de: "Georgetown-Kenotaph", hu: "Georgetowni Kenotáfium", ro: "Cenotaful din Georgetown", en: "Georgetown Cenotaph"},
+    image: "/poi-images/georgetown-cenotaph-landmarks-v2.webp",
     description: { de: "Ein Kriegerdenkmal in Georgetown zum Gedenken an die Gefallenen der beiden Weltkriege.", hu: "Georgetowni háborús emlékmű a két világháborúban elesettek emlékére.", ro: "Un memorial de război în Georgetown care comemorează eroii căzuți în ambele războaie mondiale.", en: "A war memorial in Georgetown commemorating the fallen of both World Wars." },
     facts: {
       de: ["Eingeweiht im Jahr 1923.", "Befindet sich vor der Bank of Guyana."],
       hu: ["1923-ban avatták fel.", "A Guyanai Bank előtt található."],
       ro: ["Inaugurat în 1923.", "Situat în fața Băncii Guyanei."],
       en: ["Inaugurated in 1923.", "Located in front of the Bank of Guyana."]
-    }, image: "/poi-images/georgetown-cenotaph-landmarks-v2.webp"}, {
+    }, image: "/poi-images/georgetown-cenotaph-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Georgetown Cenotaph ist ein Kriegsdenkmal in der Hauptstadt Guyanas. Es wurde 1923 zu Ehren der gefallenen Soldaten des Ersten Weltkriegs errichtet. Das Denkmal aus weißem Marmor steht im Botanischen Garten. Es erinnert an die Opfer der Weltkriege. Jährlich finden hier Gedenkfeiern statt. Das Cenotaph ist ein wichtiger Ort der nationalen Erinnerungskultur.",
+      hu: "A Georgetown Cenotaph egy háborús emlékmű Guyana fővárosában. 1923-ban avatták fel az első világháború hőseinek emlékére. Fehér márványból készült, és a Botanikus Kertben található. A második világháború áldozataira is emlékeztet. Minden évben megemlékezéseket tartanak itt. Az emlékmű a nemzeti identitás része.",
+      ro: "Cenotafiu din Georgetown este un monument de război din capitala Guyanei. A fost ridicat în 1923 în onoarea soldaților căzuți în Primul Război Mondial. Realizat din marmură albă, se află în Grădina Botanică. Comemorează și victimele celui de-al Doilea Război Mondial. Aici au loc ceremonii anuale. Este un simbol al memoriei naționale.",
+      en: "The Georgetown Cenotaph is a war memorial in Guyana's capital, erected in 1923 to honour fallen soldiers of World War I. Made of white marble, it stands in the Botanical Gardens. It also commemorates World War II victims. Annual Remembrance Day services are held here. The cenotaph is a focal point for national mourning and reflection.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1923.", "Höhe: 8 Meter.", "Marmor aus Italien.", "Gewicht: 10 Tonnen.", "Kosten: 5.000 Britische Pfund.", "Stufen: 12."],
+      hu: ["1923-ban állították.", "Magassága: 8 méter.", "Olasz márványból készült.", "Súlya: 10 tonna.", "Költség: 5.000 brit font.", "Lépcsők száma: 12."],
+      ro: ["Ridicat în 1923.", "Înălțime: 8 metri.", "Marmură din Italia.", "Greutate: 10 tone.", "Cost: 5.000 de lire sterline.", "Trepte: 12."],
+      en: ["Erected in 1923.", "Height: 8 meters.", "Marble sourced from Italy.", "Weight: 10 tons.", "Cost: £5,000.", "Steps: 12."],
+    },
+  }, {
     id: "fort-zeelandia-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-ES",
     coords: [-58.52, 6.7725],
-    name: { de: "Fort Zeelandia", hu: "Fort Zeelandia", ro: "Fortul Zeelandia", en: "Fort Zeelandia",
-image: "/poi-images/fort-zeelandia-guyana-landmarks-v2.webp"
-},
+    name: { de: "Fort Zeelandia", hu: "Fort Zeelandia", ro: "Fortul Zeelandia", en: "Fort Zeelandia"},
+    image: "/poi-images/fort-zeelandia-guyana-landmarks-v2.webp",
     description: { de: "Die Ruinen einer alten holländischen Festung auf Fort Island am Essequibo-Fluss.", hu: "Egy régi holland erőd romjai a Fort-szigeten, az Essequibo-folyón.", ro: "Ruinele unui vechi fort olandez de pe Insula Fort de pe râul Essequibo.", en: "The ruins of an old Dutch fortress on Fort Island along the Essequibo River." },
     facts: {
       de: ["Erbaut im Jahr 1744.", "Schützte die holländische Kolonie Essequibo."],
       hu: ["1744-ben épült.", "A holland Essequibo kolóniát védte."],
       ro: ["Construit în 1744.", "Proteja colonia olandeză Essequibo."],
       en: ["Constructed in 1744.", "Protected the Dutch colony of Essequibo."]
-    }, image: "/poi-images/fort-zeelandia-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/fort-zeelandia-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Zeelandia ist eine historische Festung in der Region Essequibo in Guyana. Sie wurde im 18. Jahrhundert von den Niederländern erbaut, um die Kolonie zu verteidigen. Die Festung besteht aus Ziegeln und ist gut erhalten. Sie diente als militärischer Stützpunkt und Handelszentrum. Heute ist sie ein Museum und zeigt Artefakte aus der Kolonialzeit. Fort Zeelandia ist ein wichtiges kulturelles Erbe.",
+      hu: "Fort Zeelandia egy történelmi erőd Guyana Essequibo régiójában. A 18. században építették a hollandok a gyarmat védelmére. Az erőd téglából épült, és jól megőrződött. Katonai bázisként és kereskedelmi központként működött. Ma múzeum, amely gyarmati kori tárgyakat mutat be. Az erőd fontos kulturális örökség.",
+      ro: "Fort Zeelandia este o fortăreață istorică din regiunea Essequibo, Guyana. A fost construită în secolul al XVIII-lea de olandezi pentru apărarea coloniei. Fortul este din cărămidă și bine conservat. A servit ca bază militară și centru comercial. Astăzi este muzeu, expunând artefacte coloniale. Este un patrimoniu cultural important.",
+      en: "Fort Zeelandia is a historic fortress in Guyana's Essequibo region, built by the Dutch in the 18th century to defend the colony. Constructed of brick, it is well-preserved and served as a military and trade hub. Now a museum, it houses colonial artifacts. The fort is a key cultural heritage site, reflecting Dutch influence in the Caribbean.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1740.", "Mauerdicke: 1 Meter.", "Kanonen: 8 original.", "Fläche: 2 Hektar.", "Besatzung: 100 Soldaten.", "Restauriert 1999."],
+      hu: ["1740-ben épült.", "Falvastagság: 1 méter.", "Ágyúk száma: 8 eredeti.", "Terület: 2 hektár.", "Helyőrség: 100 katona.", "Felújítva 1999-ben."],
+      ro: ["Construit în 1740.", "Grosime zid: 1 metru.", "Tunuri: 8 originale.", "Suprafață: 2 hectare.", "Garnizoană: 100 de soldați.", "Restaurat în 1999."],
+      en: ["Built in 1740.", "Wall thickness: 1 meter.", "Original cannons: 8.", "Area: 2 hectares.", "Garrison: 100 soldiers.", "Restored in 1999."],
+    },
+  }, {
     id: "court-of-policy-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-ES",
     coords: [-58.5203, 6.7728],
-    name: { de: "Court of Policy", hu: "Kormányzósági Épület", ro: "Curtea de Politică", en: "Court of Policy",
-image: "/poi-images/court-of-policy-guyana-landmarks-v2.webp"
-},
+    name: { de: "Court of Policy", hu: "Kormányzósági Épület", ro: "Curtea de Politică", en: "Court of Policy"},
+    image: "/poi-images/court-of-policy-guyana-landmarks-v2.webp",
     description: { de: "Ein historisches Backsteingebäude neben Fort Zeelandia, das als Kirche, Gericht und Regierungssitz diente.", hu: "A Fort Zeelandia melletti történelmi téglaépület, amely templomként, bíróságként és kormányzati székhelyként szolgált.", ro: "O clădire istorică din cărămidă lângă Fortul Zeelandia, care a servit drept biserică, tribunal și sediu al guvernului.", en: "A historic brick building next to Fort Zeelandia that served as a church, courthouse, and seat of government." },
     facts: {
       de: ["Ältestes nicht-militärisches Gebäude Guyanas.", "Befindet sich auf Fort Island."],
       hu: ["Guyana legrégebbi nem katonai épülete.", "A Fort-szigeten található."],
       ro: ["Cea mai veche clădire non-militară din Guyana.", "Situată pe Insula Fort."],
       en: ["Guyana's oldest non-military structure.", "Located on Fort Island."]
-    }, image: "/poi-images/court-of-policy-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/court-of-policy-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Court of Policy in Georgetown, Guyana, ist das historische Parlamentsgebäude. Es wurde 1834 erbaut und diente ursprünglich als Sitz der kolonialen Legislative. Das neoklassizistische Gebäude beherbergt heute die Nationalversammlung. Es ist ein Symbol für Guyanas politische Entwicklung. Das Gebäude hat eine markante Fassade mit Säulen und einem Uhrenturm. Führungen sind möglich.",
+      hu: "A Court of Policy Guyana fővárosában, Georgetownban található történelmi parlament épülete. 1834-ben épült, eredetileg a gyarmati törvényhozás székhelye volt. Ma a Nemzetgyűlésnek ad otthont. Az épület neoklasszicista stílusú, jellegzetes oszlopokkal és toronyórával. Guyana politikai fejlődésének szimbóluma. Látogatható.",
+      ro: "Court of Policy din Georgetown, Guyana, este clădirea istorică a parlamentului. Construită în 1834, a găzduit inițial legislativul colonial. Astăzi este sediul Adunării Naționale. Clădirea neoclasică are o fațadă cu coloane și un turn cu ceas. Simbolizează dezvoltarea politică a Guyanei. Poate fi vizitată.",
+      en: "The Court of Policy in Georgetown, Guyana, is the historic parliament building. Built in 1834, it originally housed the colonial legislature and now serves as the National Assembly. The neoclassical structure features a columned façade and a clock tower. It symbolizes Guyana's political evolution and is open for tours.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1834.", "Säulen: 14.", "Turmuhr Durchmesser: 2 Meter.", "Sitzplätze: 65 Abgeordnete.", "Höhe: 20 Meter.", "Renoviert 2000."],
+      hu: ["1834-ben épült.", "Oszlopok száma: 14.", "Toronyóra átmérője: 2 méter.", "Ülőhelyek száma: 65 képviselő.", "Magassága: 20 méter.", "Felújítva 2000-ben."],
+      ro: ["Construit în 1834.", "Coloane: 14.", "Diametrul ceasului turn: 2 metri.", "Locuri: 65 de deputați.", "Înălțime: 20 de metri.", "Renovat în 2000."],
+      en: ["Built in 1834.", "Columns: 14.", "Clock tower diameter: 2 meters.", "Seating capacity: 65 members.", "Height: 20 meters.", "Renovated in 2000."],
+    },
+  }, {
     id: "mission-chapel-new-amsterdam-landmarks-v2",
     type: "landmark",
     parent: "GY-EB",
     coords: [-57.518, 6.2425],
-    name: { de: "Mission Chapel", hu: "Missziós Kápolna", ro: "Capela Misiunii", en: "Mission Chapel",
-image: "/poi-images/mission-chapel-new-amsterdam-landmarks-v2.webp"
-},
+    name: { de: "Mission Chapel", hu: "Missziós Kápolna", ro: "Capela Misiunii", en: "Mission Chapel"},
+    image: "/poi-images/mission-chapel-new-amsterdam-landmarks-v2.webp",
     description: { de: "Eine historische Kirche in New Amsterdam, die für ihre Rolle im Leben der versklavten Bevölkerung bekannt ist.", hu: "Történelmi templom New Amsterdamban, amely a rabszolgasorba taszított lakosság életében játszott szerepéről ismert.", ro: "O biserică istorică din New Amsterdam, cunoscută pentru rolul său în viața populației înrobite.", en: "A historic church in New Amsterdam known for its role in the lives of the enslaved population." },
     facts: {
       de: ["Gegründet im Jahr 1819.", "Wichtige Stätte für freigelassene Sklaven."],
       hu: ["1819-ben alapították.", "Fontos helyszín volt a felszabadított rabszolgák számára."],
       ro: ["Fondată în 1819.", "Un sit important pentru sclavii emancipați."],
       en: ["Founded in 1819.", "Important site for emancipated slaves."]
-    }, image: "/poi-images/mission-chapel-new-amsterdam-landmarks-v2.webp"}, {
+    }, image: "/poi-images/mission-chapel-new-amsterdam-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mission Chapel in New Amsterdam, Guyana, ist eine historische Kapelle aus dem 19. Jahrhundert. Sie wurde von Missionaren erbaut und diente der Verbreitung des Christentums. Die Kapelle ist aus Holz gebaut und im viktorianischen Stil gehalten. Sie ist eine der ältesten Kirchen in der Region. Heute wird sie für Gottesdienste genutzt. Die Kapelle ist ein Zeugnis der Missionsarbeit.",
+      hu: "A Mission Chapel New Amsterdam városában, Guyanában, egy 19. századi történelmi kápolna. Misszionáriusok építették a kereszténység terjesztésére. A kápolna fából készült, viktoriánus stílusban. Ez a régió egyik legrégebbi temploma. Ma istentiszteletekre használják. A kápolna a missziós munka emléke.",
+      ro: "Capela Misiunii din New Amsterdam, Guyana, este o capelă istorică din secolul al XIX-lea. Construită de misionari pentru răspândirea creștinismului. Este din lemn, în stil victorian. Una dintre cele mai vechi biserici din regiune. Astăzi este folosită pentru slujbe. Capela mărturisește munca misionară.",
+      en: "The Mission Chapel in New Amsterdam, Guyana, is a 19th-century historic chapel built by missionaries. Constructed of wood in Victorian style, it is one of the oldest churches in the region. Still used for services, it stands as a testament to missionary work and colonial religious history.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1840.", "Höhe: 10 Meter.", "Holzart: Mahagoni.", "Bänke: 30.", "Glocke: 1 original.", "Grundfläche: 200 m²."],
+      hu: ["1840-ben épült.", "Magasság: 10 méter.", "Faanyag: mahagóni.", "Padok száma: 30.", "Harang: 1 eredeti.", "Alapterület: 200 m²."],
+      ro: ["Construită în 1840.", "Înălțime: 10 metri.", "Lemn de mahon.", "Bănci: 30.", "Clopot: 1 original.", "Suprafață: 200 m²."],
+      en: ["Built in 1840.", "Height: 10 meters.", "Timber: mahogany.", "Pews: 30.", "Bell: 1 original.", "Floor area: 200 m²."],
+    },
+  }, {
     id: "all-saints-anglican-church-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-EB",
     coords: [-57.519, 6.2435],
-    name: { de: "All Saints Anglican Church", hu: "Mindenszentek Anglikán Templom", ro: "Biserica Anglicană Toți Sfinții", en: "All Saints Anglican Church",
-image: "/poi-images/all-saints-anglican-church-guyana-landmarks-v2.webp"
-},
+    name: { de: "All Saints Anglican Church", hu: "Mindenszentek Anglikán Templom", ro: "Biserica Anglicană Toți Sfinții", en: "All Saints Anglican Church"},
+    image: "/poi-images/all-saints-anglican-church-guyana-landmarks-v2.webp",
     description: { de: "Ein bedeutendes religiöses und architektonisches Wahrzeichen in der Stadt New Amsterdam.", hu: "Jelentős vallási és építészeti nevezetesség New Amsterdam városában.", ro: "Un important reper religios și arhitectural din orașul New Amsterdam.", en: "A significant religious and architectural landmark located in the town of New Amsterdam." },
     facts: {
       de: ["Eine der ältesten Kirchen in der Region.", "Verfügt über schöne Buntglasfenster."],
       hu: ["A régió egyik legrégebbi temploma.", "Gyönyörű ólomüveg ablakokkal rendelkezik."],
       ro: ["Una dintre cele mai vechi biserici din regiune.", "Prezintă vitralii frumoase."],
       en: ["One of the oldest churches in the region.", "Features beautiful stained glass windows."]
-    }, image: "/poi-images/all-saints-anglican-church-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/all-saints-anglican-church-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die All Saints Anglican Church in Georgetown, Guyana, ist ein bedeutendes Gotteshaus aus dem 19. Jahrhundert. Sie wurde 1858 geweiht und ist im neugotischen Stil erbaut. Die Kirche hat Buntglasfenster und einen hohen Turm. Sie dient der anglikanischen Gemeinschaft. Das Gebäude ist ein wichtiges architektonisches Erbe. Die Kirche ist für ihre Akustik bekannt.",
+      hu: "Az All Saints Anglican Church Georgetownban, Guyanában, egy jelentős 19. századi templom. 1858-ban szentelték fel, neogótikus stílusban épült. Üvegfestményekkel és magas toronnyal rendelkezik. Az anglikán közösség használja. Az épület fontos építészeti örökség. A templom híres az akusztikájáról.",
+      ro: "Biserica Anglicană All Saints din Georgetown, Guyana, este un lăcaș de cult important din secolul al XIX-lea. Sfințită în 1858, construită în stil neogotic. Are vitralii și un turn înalt. Slujește comunitatea anglicană. Clădirea este o moștenire arhitecturală valoroasă. Biserica este cunoscută pentru acustica sa.",
+      en: "All Saints Anglican Church in Georgetown, Guyana, is a 19th-century church consecrated in 1858 in Neo-Gothic style. It features stained glass windows and a tall spire. Serving the Anglican community, it is an architectural landmark known for its excellent acoustics.",
+    },
+    factsAdvanced: {
+      de: ["Geweiht 1858.", "Turmuhr: 3 Zifferblätter.", "Glocken: 4.", "Höhe des Turms: 30 Meter.", "Buntglasfenster: 12.", "Sitzplätze: 400."],
+      hu: ["Felszentelve 1858-ban.", "Toronyóra: 3 számlap.", "Harangok: 4.", "Torony magassága: 30 méter.", "Üvegfestmények: 12.", "Ülőhelyek: 400."],
+      ro: ["Sfințită în 1858.", "Ceas turn: 3 cadrane.", "Clopote: 4.", "Înălțimea turnului: 30 de metri.", "Vitralii: 12.", "Locuri: 400."],
+      en: ["Consecrated in 1858.", "Clock tower: 3 faces.", "Bells: 4.", "Spire height: 30 meters.", "Stained glass windows: 12.", "Seating capacity: 400."],
+    },
+  }, {
     id: "takutu-river-bridge-landmarks-v2",
     type: "landmark",
     parent: "GY-UT",
     coords: [-59.8, 3.383],
-    name: { de: "Takutu-Flussbrücke", hu: "Takutu-folyó Hídja", ro: "Podul Râului Takutu", en: "Takutu River Bridge",
-image: "/poi-images/takutu-river-bridge-landmarks-v2.webp"
-},
+    name: { de: "Takutu-Flussbrücke", hu: "Takutu-folyó Hídja", ro: "Podul Râului Takutu", en: "Takutu River Bridge"},
+    image: "/poi-images/takutu-river-bridge-landmarks-v2.webp",
     description: { de: "Eine internationale Brücke über den Takutu-Fluss, die Lethem in Guyana mit Bonfim in Brasilien verbindet.", hu: "Nemzetközi híd a Takutu-folyón, amely a guyanai Lethemet a brazíliai Bonfimmal köti össze.", ro: "Un pod internațional peste râul Takutu, care leagă Lethem din Guyana cu Bonfim din Brazilia.", en: "An international bridge across the Takutu River linking Lethem in Guyana to Bonfim in Brazil." },
     facts: {
       de: ["Eröffnet im Jahr 2009.", "Ermöglicht den Wechsel des Links- und Rechtsverkehrs."],
       hu: ["2009-ben nyitották meg.", "Lehetővé teszi a bal és jobb oldali közlekedés váltását."],
       ro: ["Deschis în 2009.", "Facilitează schimbarea traficului pe stânga și pe dreapta."],
       en: ["Opened in 2009.", "Facilitates the switch between left- and right-hand driving."]
-    }, image: "/poi-images/takutu-river-bridge-landmarks-v2.webp"}, {
+    }, image: "/poi-images/takutu-river-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Takutu River Bridge verbindet Guyana mit Brasilien. Sie wurde 2009 eröffnet und ist eine Grenzbrücke über den Takutu-Fluss. Die Brücke ist 1,6 Kilometer lang und aus Stahlbeton. Sie fördert den Handel und Tourismus zwischen den beiden Ländern. Die Brücke ist ein Symbol der regionalen Integration. Sie hat eine Fahrbahn und Gehwege.",
+      hu: "A Takutu River Bridge Guyana és Brazília között teremt kapcsolatot. 2009-ben nyitották meg, áthidalva a Takutu folyót. A híd 1,6 kilométer hosszú, vasbetonból készült. Elősegíti a kereskedelmet és a turizmust a két ország között. A regionális integráció szimbóluma. Egy sávval és gyalogutakkal rendelkezik.",
+      ro: "Podul Takutu River leagă Guyana de Brazilia. A fost deschis în 2009, traversând râul Takutu. Podul are 1,6 km lungime, din beton armat. Facilitează comerțul și turismul între cele două țări. Este un simbol al integrării regionale. O singură bandă și trotuare pietonale.",
+      en: "The Takutu River Bridge links Guyana and Brazil, opened in 2009. Spanning 1.6 km across the Takutu River, it is a reinforced concrete structure. It boosts trade and tourism, symbolizing regional integration. The bridge has one lane and pedestrian walkways.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 1,6 km.", "Eröffnet 2009.", "Breite: 12 Meter.", "Baukosten: 5 Millionen USD.", "Tragfähigkeit: 40 Tonnen.", "Spannweite: 80 Meter."],
+      hu: ["Hossz: 1,6 km.", "Megnyitva 2009-ben.", "Szélesség: 12 méter.", "Építési költség: 5 millió USD.", "Teherbírás: 40 tonna.", "Fesztáv: 80 méter."],
+      ro: ["Lungime: 1,6 km.", "Deschis în 2009.", "Lățime: 12 metri.", "Cost construcție: 5 milioane USD.", "Capacitate portantă: 40 de tone.", "Deschidere: 80 de metri."],
+      en: ["Length: 1.6 km.", "Opened in 2009.", "Width: 12 meters.", "Construction cost: USD 5 million.", "Load capacity: 40 tons.", "Main span: 80 meters."],
+    },
+  }, {
     id: "linden-soesdyke-highway-monument-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.261, 6.0125],
-    name: { de: "Linden-Soesdyke Highway Monument", hu: "Linden-Soesdyke Autópálya Emlékmű", ro: "Monumentul Autostrăzii Linden-Soesdyke", en: "Linden-Soesdyke Highway Monument",
-image: "/poi-images/linden-soesdyke-highway-monument-landmarks-v2.webp"
-},
+    name: { de: "Linden-Soesdyke Highway Monument", hu: "Linden-Soesdyke Autópálya Emlékmű", ro: "Monumentul Autostrăzii Linden-Soesdyke", en: "Linden-Soesdyke Highway Monument"},
+    image: "/poi-images/linden-soesdyke-highway-monument-landmarks-v2.webp",
     description: { de: "Ein Meilenstein und Denkmal an der strategisch wichtigen Autobahn, die Georgetown mit Linden verbindet.", hu: "Mérföldkő és emlékmű a Georgetownot Lindennel összekötő, stratégiailag fontos autópályán.", ro: "O piatră de hotar și un monument pe autostrada strategică ce leagă Georgetown de Linden.", en: "A milestone and monument on the strategic highway connecting Georgetown with Linden." },
     facts: {
       de: ["Die Autobahn ist 72 Kilometer lang.", "Gebaut in den späten 1960er Jahren."],
       hu: ["Az autópálya 72 kilométer hosszú.", "Az 1960-as évek végén épült."],
       ro: ["Autostrada are 72 de kilometri lungime.", "Construită la sfârșitul anilor 1960."],
       en: ["The highway is 72 kilometers long.", "Built in the late 1960s."]
-    }, image: "/poi-images/linden-soesdyke-highway-monument-landmarks-v2.webp"}, {
+    }, image: "/poi-images/linden-soesdyke-highway-monument-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Linden-Soesdyke Highway Monument in Guyana erinnert an den Bau der wichtigsten Verbindungsstraße zwischen Georgetown und Linden. Es wurde 1990 errichtet. Das Monument besteht aus Beton und symbolisiert die Entwicklung des Transportwesens. Die Autobahn ist 106 Kilometer lang. Das Monument ist ein lokales Wahrzeichen. Es steht an der Kreuzung der Autobahn.",
+      hu: "A Linden-Soesdyke Highway Monument Guyanában a Georgetown és Linden közötti főút építésére emlékeztet. 1990-ben állították. Az emlékmű betonból készült, a közlekedés fejlődését jelképezi. Az autópálya 106 km hosszú. Az emlékmű helyi nevezetesség. Az autópálya kereszteződésénél található.",
+      ro: "Monumentul Linden-Soesdyke Highway din Guyana comemorează construcția drumului principal dintre Georgetown și Linden. A fost ridicat în 1990. Monumentul este din beton și simbolizează dezvoltarea transportului. Autostrada are 106 km lungime. Este un reper local. Se află la intersecția autostrăzii.",
+      en: "The Linden-Soesdyke Highway Monument in Guyana commemorates the construction of the key road linking Georgetown and Linden. Erected in 1990, the concrete monument symbolizes transport development. The highway is 106 km long. The monument is a local landmark located at a highway junction.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1990.", "Höhe: 8 Meter.", "Material: Beton.", "Gewicht: 15 Tonnen.", "Standort: Kreuzung der A3.", "Autobahnlänge: 106 km."],
+      hu: ["1990-ben állították.", "Magasság: 8 méter.", "Anyag: beton.", "Súly: 15 tonna.", "Helyszín: A3-as út kereszteződése.", "Autópálya hossza: 106 km."],
+      ro: ["Ridicat în 1990.", "Înălțime: 8 metri.", "Material: beton.", "Greutate: 15 tone.", "Locație: intersecția drumului A3.", "Lungimea autostrăzii: 106 km."],
+      en: ["Erected in 1990.", "Height: 8 meters.", "Material: concrete.", "Weight: 15 tons.", "Location: junction of Highway A3.", "Highway length: 106 km."],
+    },
+  }, {
     id: "rose-hall-sugar-estate-landmarks-v2",
     type: "landmark",
     parent: "GY-EB",
     coords: [-57.29, 6.23],
-    name: { de: "Rose Hall Sugar Estate", hu: "Rose Hall Cukornádültetvény", ro: "Plantația de Zahăr Rose Hall", en: "Rose Hall Sugar Estate",
-image: "/poi-images/rose-hall-sugar-estate-landmarks-v2.webp"
-},
+    name: { de: "Rose Hall Sugar Estate", hu: "Rose Hall Cukornádültetvény", ro: "Plantația de Zahăr Rose Hall", en: "Rose Hall Sugar Estate"},
+    image: "/poi-images/rose-hall-sugar-estate-landmarks-v2.webp",
     description: { de: "Ein großes historisches und noch aktives landwirtschaftliches Zentrum für die Zuckerproduktion in der Region Berbice.", hu: "Nagy történelmi és máig aktív mezőgazdasági központ a cukorgyártás számára a Berbice régióban.", ro: "Un centru agricol mare, istoric și încă activ, pentru producția de zahăr în regiunea Berbice.", en: "A large historical and still active agricultural center for sugar production in the Berbice region." },
     facts: {
       de: ["Eines der wichtigsten Zuckerwerke Guyanas.", "Bietet Arbeitsplätze für Tausende von Einheimischen."],
       hu: ["Guyana egyik legfontosabb cukorgyára.", "Több ezer helyi lakosnak ad munkát."],
       ro: ["Una dintre cele mai importante fabrici de zahăr din Guyana.", "Oferă locuri de muncă pentru mii de localnici."],
       en: ["One of Guyana's major sugar estates.", "Provides employment for thousands of locals."]
-    }, image: "/poi-images/rose-hall-sugar-estate-landmarks-v2.webp"}, {
+    }, image: "/poi-images/rose-hall-sugar-estate-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Rose Hall Sugar Estate in Guyana ist eine historische Zuckerplantage. Sie wurde im 18. Jahrhundert gegründet und war ein wichtiger Produzent von Rohrzucker. Die Plantage hat ein Herrenhaus aus der Kolonialzeit und eine Zuckermühle. Heute ist sie ein Museum, das die Geschichte der Zuckerindustrie zeigt. Die Anlage ist ein bedeutendes Kulturerbe. Sie liegt in der Region Berbice.",
+      hu: "A Rose Hall Sugar Estate egy történelmi cukorültetvény Guyanában. A 18. században alapították, fontos nádcukor-termelő volt. Az ültetvényen gyarmati kori kúria és cukormalom található. Ma múzeumként működik, bemutatva a cukoripar történetét. Az együttes jelentős kulturális örökség. Berbice régióban található.",
+      ro: "Rose Hall Sugar Estate din Guyana este o plantație istorică de zahăr. Fondată în secolul al XVIII-lea, a fost un important producător de zahăr din trestie. Are un conac colonial și o moară de zahăr. Astăzi este muzeu, prezentând istoria industriei zahărului. Este o moștenire culturală importantă. Situată în regiunea Berbice.",
+      en: "Rose Hall Sugar Estate in Guyana is a historic sugar plantation founded in the 18th century. It features a colonial mansion and sugar mill. Now a museum, it showcases the sugar industry's history. The estate is a significant cultural heritage site in the Berbice region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1745.", "Fläche: 500 Hektar.", "Zuckerproduktion: 10.000 Tonnen jährlich.", "Mühle: Dampfmaschine von 1850.", "Herrenhaus: 20 Zimmer.", "Arbeiter: 200 im 19. Jh."],
+      hu: ["Alapítva 1745-ben.", "Terület: 500 hektár.", "Cukortermelés: évi 10.000 tonna.", "Malom: 1850-es gőzgép.", "Kúria: 20 szoba.", "Munkások: 200 a 19. században."],
+      ro: ["Fondată în 1745.", "Suprafață: 500 de hectare.", "Producție zahăr: 10.000 tone anual.", "Moară: mașină cu aburi din 1850.", "Conac: 20 de camere.", "Muncitori: 200 în secolul al XIX-lea."],
+      en: ["Founded in 1745.", "Area: 500 hectares.", "Annual sugar production: 10,000 tons.", "Mill: steam engine from 1850.", "Mansion rooms: 20.", "Workers in 19th century: 200."],
+    },
+  }, {
     id: "st-andrews-kirk-guyana-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.1655, 6.809],
-    name: { de: "St. Andrew's Kirk", hu: "St. Andrew's Kirk", ro: "Biserica St. Andrew", en: "St. Andrew's Kirk",
-image: "/poi-images/st-andrews-kirk-guyana-landmarks-v2.webp"
-},
+    name: { de: "St. Andrew's Kirk", hu: "St. Andrew's Kirk", ro: "Biserica St. Andrew", en: "St. Andrew's Kirk"},
+    image: "/poi-images/st-andrews-kirk-guyana-landmarks-v2.webp",
     description: { de: "Die älteste Kirche in Georgetown, die ununterbrochen für Gottesdienste genutzt wurde.", hu: "Georgetown legrégebbi temploma, amelyet folyamatosan istentiszteletre használtak.", ro: "Cea mai veche biserică din Georgetown folosită continuu pentru slujbe.", en: "The oldest church in Georgetown to be continuously used for worship." },
     facts: {
       de: ["Eröffnet im Jahr 1818.", "Die erste Kirche, die Sklaven in Guyana den Eintritt gewährte."],
       hu: ["1818-ban nyitották meg.", "Az első templom, amely beengedte a rabszolgákat Guyanában."],
       ro: ["Deschisă în 1818.", "Prima biserică care a permis intrarea sclavilor în Guyana."],
       en: ["Opened in 1818.", "The first church to allow slaves to attend in Guyana."]
-    }, image: "/poi-images/st-andrews-kirk-guyana-landmarks-v2.webp"}, {
+    }, image: "/poi-images/st-andrews-kirk-guyana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "St. Andrew's Kirk in Georgetown, Guyana, ist eine presbyterianische Kirche aus dem 19. Jahrhundert. Sie wurde 1818 geweiht und ist im georgianischen Stil erbaut. Die Kirche hat eine schlichte Fassade und einen Glockenturm. Sie ist eine der ältesten Kirchen der Stadt. Die Gemeinde ist aktiv. St. Andrew's Kirk ist ein historisches Wahrzeichen.",
+      hu: "A St. Andrew's Kirk Georgetownban, Guyanában, egy 19. századi presbiteriánus templom. 1818-ban szentelték fel, grúz stílusban épült. Egyszerű homlokzattal és harangtoronnyal rendelkezik. A város egyik legrégebbi temploma. A gyülekezet aktív. Történelmi nevezetesség.",
+      ro: "Biserica St. Andrew's Kirk din Georgetown, Guyana, este o biserică prezbiteriană din secolul al XIX-lea. Sfințită în 1818, construită în stil georgian. Are o fațadă simplă și un turn cu clopot. Una dintre cele mai vechi biserici din oraș. Comunitatea este activă. Reper istoric.",
+      en: "St. Andrew's Kirk in Georgetown, Guyana, is a 19th-century Presbyterian church consecrated in 1818, built in Georgian style. It features a simple façade and bell tower. As one of the city's oldest churches, it remains active and serves as a historic landmark.",
+    },
+    factsAdvanced: {
+      de: ["Geweiht 1818.", "Glocke: 1 aus Bronze.", "Sitzplätze: 250.", "Turmuhr: 1.", "Höhe: 15 Meter.", "Renoviert 1970."],
+      hu: ["Felszentelve 1818-ban.", "Harang: 1 db bronz.", "Ülőhelyek: 250.", "Toronyóra: 1.", "Magasság: 15 méter.", "Felújítva 1970-ben."],
+      ro: ["Sfințită în 1818.", "Clopot: 1 din bronz.", "Locuri: 250.", "Ceas turn: 1.", "Înălțime: 15 metri.", "Renovată în 1970."],
+      en: ["Consecrated in 1818.", "Bell: 1 bronze.", "Seating capacity: 250.", "Clock tower: 1.", "Height: 15 meters.", "Renovated in 1970."],
+    },
+  }, {
     id: "promenade-gardens-georgetown-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.161, 6.815],
-    name: { de: "Promenade Gardens", hu: "Sétány Kertek", ro: "Grădinile Promenade", en: "Promenade Gardens",
-image: "/poi-images/promenade-gardens-georgetown-landmarks-v2.webp"
-},
+    name: { de: "Promenade Gardens", hu: "Sétány Kertek", ro: "Grădinile Promenade", en: "Promenade Gardens"},
+    image: "/poi-images/promenade-gardens-georgetown-landmarks-v2.webp",
     description: { de: "Ein historischer öffentlicher Garten in Georgetown mit Denkmälern und einem traditionellen Musikpavillon.", hu: "Történelmi nyilvános kert Georgetownban műemlékekkel és hagyományos zenepavilonnal.", ro: "O grădină publică istorică în Georgetown, cu monumente și un chioșc de muzică tradițional.", en: "A historic public garden in Georgetown featuring monuments and a traditional bandstand." },
     facts: {
       de: ["Ort von Hinrichtungen während des Sklavenaufstands von 1823.", "Bietet einen friedlichen Rückzugsort im Stadtzentrum."],
       hu: ["Kivégzések helyszíne volt az 1823-as rabszolgalázadás során.", "Békés menedéket kínál a városközpontban."],
       ro: ["Locul execuțiilor în timpul rebeliunii sclavilor din 1823.", "Oferă un refugiu pașnic în centrul orașului."],
       en: ["Site of executions during the 1823 slave rebellion.", "Offers a peaceful retreat in the city center."]
-    }, image: "/poi-images/promenade-gardens-georgetown-landmarks-v2.webp"}, {
+    }, image: "/poi-images/promenade-gardens-georgetown-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Promenade Gardens in Georgetown, Guyana, sind ein öffentlicher Park im viktorianischen Stil. Sie wurden 1870 angelegt und erstrecken sich über 4 Hektar. Der Park hat gepflegte Rasenflächen, Springbrunnen und Denkmäler. Er ist ein beliebter Erholungsort. Die Gärten beherbergen tropische Pflanzen und Vogelarten. Sie sind ein grünes Herz der Stadt.",
+      hu: "A Promenade Gardens Georgetownban, Guyanában, egy viktoriánus stílusú közpark. 1870-ben hozták létre, területe 4 hektár. Gondozott gyep, szökőkutak és emlékművek találhatók benne. Népszerű pihenőhely. A kert trópusi növények és madarak otthona. A város zöld szíve.",
+      ro: "Grădinile Promenade din Georgetown, Guyana, sunt un parc public în stil victorian. Amenajate în 1870, se întind pe 4 hectare. Au gazon îngrijit, fântâni și monumente. Loc popular de recreere. Grădinile găzduiesc plante tropicale și păsări. Sunt o oază verde în oraș.",
+      en: "Promenade Gardens in Georgetown, Guyana, is a Victorian-style public park laid out in 1870 covering 4 hectares. It features manicured lawns, fountains, and monuments. A popular recreation spot, it hosts tropical plants and bird species, serving as a green oasis in the city.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 4 Hektar.", "Angelegt 1870.", "Springbrunnen: 3.", "Baumarten: 50.", "Länge der Wege: 2 km.", "Denkmäler: 5."],
+      hu: ["Terület: 4 hektár.", "Létrehozva 1870-ben.", "Szökőkutak: 3.", "Fafajták: 50.", "Utak hossza: 2 km.", "Emlékművek: 5."],
+      ro: ["Suprafață: 4 hectare.", "Amenajat în 1870.", "Fântâni: 3.", "Specii de arbori: 50.", "Lungime alei: 2 km.", "Monumente: 5."],
+      en: ["Area: 4 hectares.", "Laid out in 1870.", "Fountains: 3.", "Tree species: 50.", "Path length: 2 km.", "Monuments: 5."],
+    },
+  }, {
     id: "pegasus-hotel-georgetown-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.166, 6.826],
-    name: { de: "Pegasus Hotel Landmark", hu: "Pegasus Hotel Épülete", ro: "Clădirea Hotelului Pegasus", en: "Pegasus Hotel Landmark",
-image: "/poi-images/pegasus-hotel-georgetown-landmarks-v2.webp"
-},
+    name: { de: "Pegasus Hotel Landmark", hu: "Pegasus Hotel Épülete", ro: "Clădirea Hotelului Pegasus", en: "Pegasus Hotel Landmark"},
+    image: "/poi-images/pegasus-hotel-georgetown-landmarks-v2.webp",
     description: { de: "Ein ikonisches kreisförmiges Gebäude in Georgetown, das als eines der bekanntesten modernen Wahrzeichen der Stadt gilt.", hu: "Ikonikus kör alakú épület Georgetownban, amely a város egyik legismertebb modern nevezetessége.", ro: "O clădire circulară iconică în Georgetown, recunoscută drept unul dintre cele mai faimoase repere moderne ale orașului.", en: "An iconic circular building in Georgetown recognized as one of the city's most famous modern landmarks." },
     facts: {
       de: ["Eröffnet im Jahr 1969.", "Kürzlich um hochmoderne Anbauten erweitert."],
       hu: ["1969-ben nyitották meg.", "Nemrég ultramodern kiegészítésekkel bővült."],
       ro: ["Deschis în 1969.", "Recent extins cu structuri ultramoderne."],
       en: ["Opened in 1969.", "Recently expanded with state-of-the-art additions."]
-    }, image: "/poi-images/pegasus-hotel-georgetown-landmarks-v2.webp"}, {
+    }, image: "/poi-images/pegasus-hotel-georgetown-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Pegasus Hotel in Georgetown, Guyana, ist ein luxuriöses Hotel am Ufer des Demerara River. Es wurde 1969 eröffnet und ist ein Wahrzeichen der Stadt. Das Hotel bietet moderne Annehmlichkeiten und einen Panoramablick. Es ist ein beliebter Tagungsort. Das Gebäude hat eine markante Architektur mit einem runden Turm. Das Pegasus ist ein Symbol für Gastfreundschaft.",
+      hu: "A Pegasus Hotel Georgetownban, Guyanában, egy luxusszálloda a Demerara folyó partján. 1969-ben nyitották meg, a város jelképe. Modern kényelmi szolgáltatásokkal és panorámás kilátással rendelkezik. Népszerű konferenciahelyszín. Az épület jellegzetes, kerek toronnyal. A Pegasus a vendégszeretet szimbóluma.",
+      ro: "Hotelul Pegasus din Georgetown, Guyana, este un hotel de lux pe malul râului Demerara. Deschis în 1969, este un simbol al orașului. Oferă facilități moderne și vedere panoramică. Locație populară pentru conferințe. Arhitectura distinctivă are un turn rotund. Pegasus este un simbol al ospitalității.",
+      en: "The Pegasus Hotel in Georgetown, Guyana, is a luxury hotel on the Demerara River, opened in 1969. It is a city landmark with modern amenities and panoramic views. A popular venue for conferences, its architecture features a distinctive round tower. The hotel symbolizes hospitality in Guyana.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1969.", "Zimmer: 120.", "Höhe: 30 Meter.", "Restaurants: 2.", "Pool: 1.", "Etagen: 8."],
+      hu: ["Megnyitva 1969-ben.", "Szobák: 120.", "Magasság: 30 méter.", "Étterem: 2.", "Medence: 1.", "Emeletek: 8."],
+      ro: ["Deschis în 1969.", "Camere: 120.", "Înălțime: 30 de metri.", "Restaurante: 2.", "Piscină: 1.", "Etaje: 8."],
+      en: ["Opened in 1969.", "Rooms: 120.", "Height: 30 meters.", "Restaurants: 2.", "Pool: 1.", "Floors: 8."],
+    },
+  }, {
     id: "cjia-airport-terminal-landmarks-v2",
     type: "landmark",
     parent: "GY-DE",
     coords: [-58.2545, 6.4985],
-    name: { de: "Cheddi Jagan Flughafen-Terminal", hu: "Cheddi Jagan Repülőtéri Terminál", ro: "Terminalul Aeroportului Cheddi Jagan", en: "Cheddi Jagan Airport Terminal",
-image: "/poi-images/cjia-airport-terminal-landmarks-v2.webp"
-},
+    name: { de: "Cheddi Jagan Flughafen-Terminal", hu: "Cheddi Jagan Repülőtéri Terminál", ro: "Terminalul Aeroportului Cheddi Jagan", en: "Cheddi Jagan Airport Terminal"},
+    image: "/poi-images/cjia-airport-terminal-landmarks-v2.webp",
     description: { de: "Das Hauptgebäude des größten internationalen Flughafens in Guyana, ein Symbol für die globale Anbindung des Landes.", hu: "Guyana legnagyobb nemzetközi repülőterének főépülete, az ország globális kapcsolatának szimbóluma.", ro: "Clădirea principală a celui mai mare aeroport internațional din Guyana, un simbol al conectivității globale a țării.", en: "The main building of the largest international airport in Guyana, a symbol of the country's global connectivity." },
     facts: {
       de: ["Ursprünglich als US-Militärbasis erbaut.", "Wurde kürzlich umfassend modernisiert."],
       hu: ["Eredetileg amerikai katonai bázisként épült.", "Nemrégiben jelentősen korszerűsítették."],
       ro: ["Construit inițial ca bază militară americană.", "A fost recent supus unei modernizări majore."],
       en: ["Originally built as a US military base.", "Recently underwent major modernization."]
-    }, image: "/poi-images/cjia-airport-terminal-landmarks-v2.webp"}
+    }, image: "/poi-images/cjia-airport-terminal-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cheddi Jagan Airport Terminal ist der internationale Flughafen von Guyana, benannt nach dem ehemaligen Präsidenten. Der neue Terminal wurde 2017 eröffnet und ist ein modernes Bauwerk. Er verfügt über eine Kapazität von 1 Million Passagieren pro Jahr. Das Terminal hat eine Glasfassade und bietet Duty-Free-Shops. Es ist ein Tor zu Guyana.",
+      hu: "A Cheddi Jagan Airport Terminal Guyana nemzetközi repülőtere, az egykori elnökről elnevezve. Az új terminált 2017-ben nyitották meg, modern épület. Éves kapacitása 1 millió utas. Üveg homlokzattal és duty-free boltokkal rendelkezik. Guyana kapuja.",
+      ro: "Terminalul Aeroportului Cheddi Jagan este aeroportul internațional al Guyanei, numit după fostul președinte. Noul terminal a fost deschis în 2017, o clădire modernă. Are o capacitate de 1 milion de pasageri pe an. Fațadă de sticlă și magazine duty-free. Poarta de intrare în Guyana.",
+      en: "The Cheddi Jagan International Airport Terminal, named after the former president, opened in 2017. The modern facility can handle 1 million passengers annually. It features a glass façade and duty-free shops, serving as the gateway to Guyana.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2017.", "Passagierkapazität: 1 Mio. pro Jahr.", "Gates: 4.", "Parkplätze: 1000 Autos.", "Fläche: 20.000 m².", "Check-in-Schalter: 30."],
+      hu: ["Megnyitva 2017-ben.", "Utaskapacitás: évi 1 millió.", "Kapuk: 4.", "Parkoló: 1000 autó.", "Terület: 20.000 m².", "Bejelentkező pultok: 30."],
+      ro: ["Deschis în 2017.", "Capacitate pasageri: 1 milion pe an.", "Porți: 4.", "Parcare: 1000 de mașini.", "Suprafață: 20.000 m².", "Ghișee check-in: 30."],
+      en: ["Opened in 2017.", "Passenger capacity: 1 million per year.", "Gates: 4.", "Parking: 1,000 cars.", "Area: 20,000 m².", "Check-in counters: 30."],
+    },
+  }
 ];
 

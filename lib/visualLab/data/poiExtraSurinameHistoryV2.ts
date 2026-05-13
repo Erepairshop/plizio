@@ -11,9 +11,8 @@ export const poiExtraSurinameHistoryV2: POI[] = [
       de: "Fort Zeelandia",
       hu: "Fort Zeelandia",
       ro: "Fortul Zeelandia",
-      en: "Fort Zeelandia",
-image: "/poi-images/sr-fort-zeelandia-history-v2.webp"
-},
+      en: "Fort Zeelandia"},
+    image: "/poi-images/sr-fort-zeelandia-history-v2.webp",
     description: {
       de: "Ein historisches sternförmiges Fort am Ufer des Suriname-Flusses, erbaut im 17. Jahrhundert.",
       hu: "Egy történelmi csillag alakú erőd a Suriname-folyó partján, amelyet a 17. században építettek.",
@@ -47,9 +46,8 @@ image: "/poi-images/sr-fort-zeelandia-history-v2.webp"
       de: "Jodensavanne",
       hu: "Jodensavanne",
       ro: "Jodensavanne",
-      en: "Jodensavanne",
-image: "/poi-images/sr-jodensavanne-history-v2.webp"
-},
+      en: "Jodensavanne"},
+    image: "/poi-images/sr-jodensavanne-history-v2.webp",
     description: {
       de: "Ehemalige landwirtschaftliche Siedlung sephardischer Juden im 17. Jahrhundert am Suriname-Fluss.",
       hu: "Egykori szefárd zsidó mezőgazdasági település a 17. századból a Suriname-folyó mentén.",
@@ -83,9 +81,8 @@ image: "/poi-images/sr-jodensavanne-history-v2.webp"
       de: "Peperpot Plantage",
       hu: "Peperpot Ültetvény",
       ro: "Plantația Peperpot",
-      en: "Peperpot Plantation",
-image: "/poi-images/sr-peperpot-history-v2.webp"
-},
+      en: "Peperpot Plantation"},
+    image: "/poi-images/sr-peperpot-history-v2.webp",
     description: {
       de: "Eine der ältesten Kaffee- und Kakaoplantagen Surinames, heute teilweise ein Naturpark.",
       hu: "Suriname egyik legrégebbi kávé- és kakaóültetvénye, ma részben natúrpark.",
@@ -119,9 +116,8 @@ image: "/poi-images/sr-peperpot-history-v2.webp"
       de: "Frederiksdorp",
       hu: "Frederiksdorp",
       ro: "Frederiksdorp",
-      en: "Frederiksdorp",
-image: "/poi-images/sr-frederiksdorp-history-v2.webp"
-},
+      en: "Frederiksdorp"},
+    image: "/poi-images/sr-frederiksdorp-history-v2.webp",
     description: {
       de: "Eine ehemalige Plantage aus dem 18. Jahrhundert mit restaurierten historischen Gebäuden.",
       hu: "Egykori 18. századi ültetvény helyreállított történelmi épületekkel.",
@@ -155,9 +151,8 @@ image: "/poi-images/sr-frederiksdorp-history-v2.webp"
       de: "Johan Adolf Pengel Monument",
       hu: "Johan Adolf Pengel Emlékmű",
       ro: "Monumentul Johan Adolf Pengel",
-      en: "Johan Adolf Pengel Monument",
-image: "/poi-images/sr-pengel-monument-history-v2.webp"
-},
+      en: "Johan Adolf Pengel Monument"},
+    image: "/poi-images/sr-pengel-monument-history-v2.webp",
     description: {
       de: "Ein Denkmal auf dem Unabhängigkeitsplatz, gewidmet einem der wichtigsten surinamischen Politiker.",
       hu: "Egy emlékmű a Függetlenség terén, Suriname egyik legfontosabb politikusának szentelve.",
@@ -191,9 +186,8 @@ image: "/poi-images/sr-pengel-monument-history-v2.webp"
       de: "Plantage Clevia",
       hu: "Clevia Ültetvény",
       ro: "Plantația Clevia",
-      en: "Clevia Plantation",
-image: "/poi-images/sr-clevia-history-v2.webp"
-},
+      en: "Clevia Plantation"},
+    image: "/poi-images/sr-clevia-history-v2.webp",
     description: {
       de: "Eine historische Plantage nahe Paramaribo, die eine wichtige Rolle in der Kolonialzeit spielte.",
       hu: "Egy történelmi ültetvény Paramaribo közelében, amely fontos szerepet játszott a gyarmati időkben.",
@@ -227,9 +221,8 @@ image: "/poi-images/sr-clevia-history-v2.webp"
       de: "Suzanna's Daal",
       hu: "Suzanna's Daal",
       ro: "Suzanna's Daal",
-      en: "Suzanna's Daal",
-image: "/poi-images/sr-suzannas-daal-history-v2.webp"
-},
+      en: "Suzanna's Daal"},
+    image: "/poi-images/sr-suzannas-daal-history-v2.webp",
     description: {
       de: "Eine alte Zuckerplantage am rechten Ufer des Suriname-Flusses, benannt nach der Frau des Gründers.",
       hu: "Egy régi cukorültetvény a Suriname-folyó jobb partján, az alapító feleségéről elnevezve.",
@@ -263,9 +256,8 @@ image: "/poi-images/sr-suzannas-daal-history-v2.webp"
       de: "Plantage Katwijk",
       hu: "Katwijk Ültetvény",
       ro: "Plantația Katwijk",
-      en: "Katwijk Plantation",
-image: "/poi-images/sr-katwijk-history-v2.webp"
-},
+      en: "Katwijk Plantation"},
+    image: "/poi-images/sr-katwijk-history-v2.webp",
     description: {
       de: "Die einzige Plantage in Suriname, die heute noch Kaffee der Sorte Liberica produziert und verarbeitet.",
       hu: "Az egyetlen ültetvény Suriname-ban, amely ma is termel és feldolgoz Liberica fajtájú kávét.",
@@ -299,9 +291,8 @@ image: "/poi-images/sr-katwijk-history-v2.webp"
       de: "Plantage Waterland",
       hu: "Waterland Ültetvény",
       ro: "Plantația Waterland",
-      en: "Waterland Plantation",
-image: "/poi-images/sr-waterland-history-v2.webp"
-},
+      en: "Waterland Plantation"},
+    image: "/poi-images/sr-waterland-history-v2.webp",
     description: {
       de: "Einst eine florierende Zuckerrohrplantage, heute ein beliebtes historisches Erholungsgebiet am Fluss.",
       hu: "Egykor virágzó cukornádültetvény, ma népszerű történelmi pihenőövezet a folyó mentén.",
@@ -335,9 +326,8 @@ image: "/poi-images/sr-waterland-history-v2.webp"
       de: "Plantage Laarwijk",
       hu: "Laarwijk Ültetvény",
       ro: "Plantația Laarwijk",
-      en: "Laarwijk Plantation",
-image: "/poi-images/sr-laarwijk-history-v2.webp"
-},
+      en: "Laarwijk Plantation"},
+    image: "/poi-images/sr-laarwijk-history-v2.webp",
     description: {
       de: "Eine historische Siedlung, die nur mit dem Boot erreichbar ist, geprägt von landwirtschaftlicher Geschichte.",
       hu: "Egy történelmi település, amely csak hajóval közelíthető meg, és mezőgazdasági múltja határozza meg.",
@@ -371,9 +361,8 @@ image: "/poi-images/sr-laarwijk-history-v2.webp"
       de: "Rust en Werk",
       hu: "Rust en Werk",
       ro: "Rust en Werk",
-      en: "Rust en Werk",
-image: "/poi-images/sr-rust-en-werk-history-v2.webp"
-},
+      en: "Rust en Werk"},
+    image: "/poi-images/sr-rust-en-werk-history-v2.webp",
     description: {
       de: "Eine riesige historische Plantage am Unterlauf des Commewijne-Flusses, heute bekannt für Viehzucht.",
       hu: "Egy hatalmas történelmi ültetvény a Commewijne-folyó alsó folyásánál, ma állattenyésztéséről ismert.",
@@ -407,9 +396,8 @@ image: "/poi-images/sr-rust-en-werk-history-v2.webp"
       de: "Plantage Alliance",
       hu: "Alliance Ültetvény",
       ro: "Plantația Alliance",
-      en: "Alliance Plantation",
-image: "/poi-images/sr-alliance-history-v2.webp"
-},
+      en: "Alliance Plantation"},
+    image: "/poi-images/sr-alliance-history-v2.webp",
     description: {
       de: "Eine historische Zitrusplantage, die einst eines der wichtigsten landwirtschaftlichen Zentren der Region war.",
       hu: "Egy történelmi citrusültetvény, amely egykor a régió egyik legfontosabb mezőgazdasági központja volt.",
@@ -444,9 +432,8 @@ image: "/poi-images/sr-alliance-history-v2.webp"
       de: "Plantage Margaretha",
       hu: "Margaretha Ültetvény",
       ro: "Plantația Margaretha",
-      en: "Margaretha Plantation",
-image: "/poi-images/sr-margaretha-history-v2.webp"
-},
+      en: "Margaretha Plantation"},
+    image: "/poi-images/sr-margaretha-history-v2.webp",
     description: {
       de: "Ehemalige Zucker- und Kaffeeplantage am rechten Ufer des Commewijne-Flusses mit traditionellen Holzhäusern.",
       hu: "Egykori cukor- és kávéültetvény a Commewijne-folyó jobb partján hagyományos faházakkal.",
@@ -480,9 +467,8 @@ image: "/poi-images/sr-margaretha-history-v2.webp"
       de: "Plantage Kroonenburg",
       hu: "Kroonenburg Ültetvény",
       ro: "Plantația Kroonenburg",
-      en: "Kroonenburg Plantation",
-image: "/poi-images/sr-kroonenburg-history-v2.webp"
-},
+      en: "Kroonenburg Plantation"},
+    image: "/poi-images/sr-kroonenburg-history-v2.webp",
     description: {
       de: "Eine historische Zuckerplantage, die später in kleine landwirtschaftliche Parzellen aufgeteilt wurde.",
       hu: "Egy történelmi cukorültetvény, amelyet később kis mezőgazdasági parcellákra osztottak.",
@@ -516,9 +502,8 @@ image: "/poi-images/sr-kroonenburg-history-v2.webp"
       de: "Ma Retraite",
       hu: "Ma Retraite",
       ro: "Ma Retraite",
-      en: "Ma Retraite",
-image: "/poi-images/sr-ma-retraite-history-v2.webp"
-},
+      en: "Ma Retraite"},
+    image: "/poi-images/sr-ma-retraite-history-v2.webp",
     description: {
       de: "Einst eine große Kaffee- und Kakao-Plantage, deren Name heute ein nördlicher Stadtteil von Paramaribo ist.",
       hu: "Egykor nagy kávé- és kakaóültetvény, amelynek neve ma Paramaribo egyik északi kerülete.",
@@ -552,9 +537,8 @@ image: "/poi-images/sr-ma-retraite-history-v2.webp"
       de: "Tourtonne",
       hu: "Tourtonne",
       ro: "Tourtonne",
-      en: "Tourtonne",
-image: "/poi-images/sr-tourtonne-history-v2.webp"
-},
+      en: "Tourtonne"},
+    image: "/poi-images/sr-tourtonne-history-v2.webp",
     description: {
       de: "Ein historisches Plantagengebiet, das in das Stadtgebiet von Paramaribo integriert wurde.",
       hu: "Egy történelmi ültetvényterület, amelyet integráltak Paramaribo városi övezetébe.",
@@ -588,9 +572,8 @@ image: "/poi-images/sr-tourtonne-history-v2.webp"
       de: "Zorg en Hoop",
       hu: "Zorg en Hoop",
       ro: "Zorg en Hoop",
-      en: "Zorg en Hoop",
-image: "/poi-images/sr-zorg-en-hoop-history-v2.webp"
-},
+      en: "Zorg en Hoop"},
+    image: "/poi-images/sr-zorg-en-hoop-history-v2.webp",
     description: {
       de: "Ein historisches Viertel in Paramaribo, das aus einer alten Plantage entstand und den ersten Flugplatz der Stadt beherbergt.",
       hu: "Paramaribo egyik történelmi negyede, amely egy régi ültetvényből nőtt ki, és a város első repülőterének ad otthont.",
@@ -624,9 +607,8 @@ image: "/poi-images/sr-zorg-en-hoop-history-v2.webp"
       de: "Paranam",
       hu: "Paranam",
       ro: "Paranam",
-      en: "Paranam",
-image: "/poi-images/sr-paranam-history-v2.webp"
-},
+      en: "Paranam"},
+    image: "/poi-images/sr-paranam-history-v2.webp",
     description: {
       de: "Eine historische Bergbausiedlung, die durch den Bauxitabbau im 20. Jahrhundert große Bedeutung erlangte.",
       hu: "Egy történelmi bányásztelepülés, amely a 20. századi bauxitbányászat révén nagy jelentőségre tett szert.",
@@ -660,9 +642,8 @@ image: "/poi-images/sr-paranam-history-v2.webp"
       de: "Kamp 52",
       hu: "Kamp 52",
       ro: "Tabăra 52",
-      en: "Camp 52",
-image: "/poi-images/sr-kamp-52-history-v2.webp"
-},
+      en: "Camp 52"},
+    image: "/poi-images/sr-kamp-52-history-v2.webp",
     description: {
       de: "Ein historisches Lager entlang der ehemaligen Lawaspurbahn, das als Zwischenstopp in den Dschungel diente.",
       hu: "Egy történelmi tábor az egykori Lawa vasútvonal mentén, amely közbenső állomásként szolgált a dzsungel felé.",
@@ -696,9 +677,8 @@ image: "/poi-images/sr-kamp-52-history-v2.webp"
       de: "Plantage Hazard",
       hu: "Hazard Ültetvény",
       ro: "Plantația Hazard",
-      en: "Hazard Plantation",
-image: "/poi-images/sr-hazard-history-v2.webp"
-},
+      en: "Hazard Plantation"},
+    image: "/poi-images/sr-hazard-history-v2.webp",
     description: {
       de: "Eine historische Zuckerrohrplantage im Distrikt Nickerie, bekannt für ihre koloniale Vergangenheit.",
       hu: "Egy történelmi cukornádültetvény Nickerie körzetében, amely gyarmati múltjáról ismert.",
@@ -733,9 +713,8 @@ image: "/poi-images/sr-hazard-history-v2.webp"
       de: "Arya Dewaker Tempel",
       hu: "Arya Dewaker Templom",
       ro: "Templul Arya Dewaker",
-      en: "Arya Dewaker Temple",
-image: "/poi-images/sr-arya-dewaker-history-v2.webp"
-},
+      en: "Arya Dewaker Temple"},
+    image: "/poi-images/sr-arya-dewaker-history-v2.webp",
     description: {
       de: "Einer der größten hinduistischen Tempel in Suriname mit einer einzigartigen oktogonalen Architektur.",
       hu: "Suriname egyik legnagyobb hindu temploma, egyedi nyolcszögletű építészettel.",
@@ -769,9 +748,8 @@ image: "/poi-images/sr-arya-dewaker-history-v2.webp"
       de: "Neveh Shalom Synagoge",
       hu: "Neveh Shalom Zsinagóga",
       ro: "Sinagoga Neveh Shalom",
-      en: "Neveh Shalom Synagogue",
-image: "/poi-images/sr-neveh-shalom-history-v2.webp"
-},
+      en: "Neveh Shalom Synagogue"},
+    image: "/poi-images/sr-neveh-shalom-history-v2.webp",
     description: {
       de: "Eine historische Synagoge im Herzen von Paramaribo, berühmt für ihren sandbedeckten Boden.",
       hu: "Egy történelmi zsinagóga Paramaribo szívében, amely híres a homokkal borított padlójáról.",
@@ -805,9 +783,8 @@ image: "/poi-images/sr-neveh-shalom-history-v2.webp"
       de: "Sint-Petrus-en-Pauluskathedraal",
       hu: "Szent Péter és Pál Katedrális",
       ro: "Catedrala Sfinții Petru și Pavel",
-      en: "Saint Peter and Paul Cathedral",
-image: "/poi-images/sr-petrus-paulus-history-v2.webp"
-},
+      en: "Saint Peter and Paul Cathedral"},
+    image: "/poi-images/sr-petrus-paulus-history-v2.webp",
     description: {
       de: "Das größte hölzerne Bauwerk der westlichen Hemisphäre und eine bedeutende historische Kirche.",
       hu: "A nyugati félteke legnagyobb faépülete és egy jelentős történelmi templom.",
@@ -841,9 +818,8 @@ image: "/poi-images/sr-petrus-paulus-history-v2.webp"
       de: "Centrale Markt Paramaribo",
       hu: "Paramaribo Központi Piac",
       ro: "Piața Centrală Paramaribo",
-      en: "Paramaribo Central Market",
-image: "/poi-images/sr-centrale-markt-history-v2.webp"
-},
+      en: "Paramaribo Central Market"},
+    image: "/poi-images/sr-centrale-markt-history-v2.webp",
     description: {
       de: "Ein historischer und lebendiger Marktkomplex am Wasser, der das kulturelle Herz der Stadt bildet.",
       hu: "Egy történelmi és nyüzsgő piaci komplexum a vízparton, amely a város kulturális szíve.",
@@ -877,9 +853,8 @@ image: "/poi-images/sr-centrale-markt-history-v2.webp"
       de: "Lawa Spoorweg Resten",
       hu: "Lawa Vasút Maradványai",
       ro: "Rămășițele Căii Ferate Lawa",
-      en: "Lawa Railway Remains",
-image: "/poi-images/sr-lawa-railway-history-v2.webp"
-},
+      en: "Lawa Railway Remains"},
+    image: "/poi-images/sr-lawa-railway-history-v2.webp",
     description: {
       de: "Die historischen Überreste einer alten Eisenbahnlinie, die während des surinamischen Goldrausches gebaut wurde.",
       hu: "Egy régi vasútvonal történelmi maradványai, amelyet a suriname-i aranyláz idején építettek.",
@@ -913,9 +888,8 @@ image: "/poi-images/sr-lawa-railway-history-v2.webp"
       de: "Fort Sommelsdijk",
       hu: "Sommelsdijk Erőd",
       ro: "Fortul Sommelsdijk",
-      en: "Fort Sommelsdijk",
-image: "/poi-images/sr-fort-sommelsdijk-history-v2.webp"
-},
+      en: "Fort Sommelsdijk"},
+    image: "/poi-images/sr-fort-sommelsdijk-history-v2.webp",
     description: {
       de: "Eine koloniale Festungsanlage am Zusammenfluss zweier wichtiger Flüsse zum Schutz vor feindlichen Angriffen.",
       hu: "Gyarmati erődítmény két fontos folyó összefolyásánál az ellenséges támadások elleni védelem érdekében.",
@@ -949,9 +923,8 @@ image: "/poi-images/sr-fort-sommelsdijk-history-v2.webp"
       de: "Geyersvlijt",
       hu: "Geyersvlijt",
       ro: "Geyersvlijt",
-      en: "Geyersvlijt",
-image: "/poi-images/sr-geyersvlijt-history-v2.webp"
-},
+      en: "Geyersvlijt"},
+    image: "/poi-images/sr-geyersvlijt-history-v2.webp",
     description: {
       de: "Ursprünglich eine Kaffeplantage aus dem 18. Jahrhundert, deren Ländereien heute ein dicht besiedelter Stadtteil sind.",
       hu: "Eredetileg egy 18. századi kávéültetvény, amelynek földjei ma sűrűn lakott városrészt alkotnak.",
@@ -985,9 +958,8 @@ image: "/poi-images/sr-geyersvlijt-history-v2.webp"
       de: "Kofidjompo Monument",
       hu: "Kofidjompo Emlékmű",
       ro: "Monumentul Kofidjompo",
-      en: "Kofidjompo Monument",
-image: "/poi-images/sr-kofidjompo-monument-history-v2.webp"
-},
+      en: "Kofidjompo Monument"},
+    image: "/poi-images/sr-kofidjompo-monument-history-v2.webp",
     description: {
       de: "Ein historisches Denkmal zur Erinnerung an den maroonischen Freiheitskämpfer Kofi, nach dem der Ort ursprünglich benannt war.",
       hu: "Történelmi emlékmű a marun szabadságharcos Kofi emlékére, akiről a helyet eredetileg elnevezték.",
@@ -1021,9 +993,8 @@ image: "/poi-images/sr-kofidjompo-monument-history-v2.webp"
       de: "Presidentieel Paleis",
       hu: "Elnöki Palota",
       ro: "Palatul Prezidențial",
-      en: "Presidential Palace",
-image: "/poi-images/sr-gouvernementsgebouw-history-v2.webp"
-},
+      en: "Presidential Palace"},
+    image: "/poi-images/sr-gouvernementsgebouw-history-v2.webp",
     description: {
       de: "Ein prächtiges kolonialarchitektonisches Gebäude, das heute als Amtssitz des Präsidenten von Suriname dient.",
       hu: "Pompás gyarmati építészeti épület, amely ma Suriname elnökének hivatali székhelyeként szolgál.",

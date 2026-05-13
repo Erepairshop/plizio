@@ -11,9 +11,8 @@ export const poiExtraBahrainCitiesV2: POI[] = [
       de: "Manama",
       hu: "Manáma",
       ro: "Manama",
-      en: "Manama",
-image: "/poi-images/manama-cities-v2.webp"
-},
+      en: "Manama"},
+    image: "/poi-images/manama-cities-v2.webp",
     description: {
       de: "Die Hauptstadt Bahrains ist eine moderne Metropole und das wichtigste Handelszentrum des Landes.",
       hu: "Bahrein fővárosa modern metropolisz, amely az ország legfontosabb kereskedelmi központja.",
@@ -73,9 +72,8 @@ image: "/poi-images/manama-cities-v2.webp"
       de: "Riffa",
       hu: "Riffa",
       ro: "Riffa",
-      en: "Riffa",
-image: "/poi-images/riffa-cities-v2.webp"
-},
+      en: "Riffa"},
+    image: "/poi-images/riffa-cities-v2.webp",
     description: {
       de: "Zweitgrößte Stadt Bahrains, die in einen östlichen und einen westlichen Teil gegliedert ist.",
       hu: "Bahrein második legnagyobb városa, amely egy keleti és egy nyugati részre oszlik.",
@@ -135,9 +133,8 @@ image: "/poi-images/riffa-cities-v2.webp"
       de: "Muharraq",
       hu: "Muharrak",
       ro: "Muharraq",
-      en: "Muharraq",
-image: "/poi-images/muharraq-cities-v2.webp"
-},
+      en: "Muharraq"},
+    image: "/poi-images/muharraq-cities-v2.webp",
     description: {
       de: "Die ehemalige Hauptstadt ist berühmt für ihren historischen Markt und die alte Architektur.",
       hu: "A korábbi főváros híres történelmi piacáról és régi építészetéről.",
@@ -197,9 +194,8 @@ image: "/poi-images/muharraq-cities-v2.webp"
       de: "Hamad Town",
       hu: "Madínat Hamad",
       ro: "Madinat Hamad",
-      en: "Hamad Town",
-image: "/poi-images/hamad-town-cities-v2.webp"
-},
+      en: "Hamad Town"},
+    image: "/poi-images/hamad-town-cities-v2.webp",
     description: {
       de: "Eine in den 1980er Jahren erbaute Planstadt, die nach König Hamad benannt wurde.",
       hu: "Az 1980-as években épült tervezett város, amelyet Hamad királyról neveztek el.",
@@ -259,9 +255,8 @@ image: "/poi-images/hamad-town-cities-v2.webp"
       de: "A'ali",
       hu: "A'ali",
       ro: "A'ali",
-      en: "A'ali",
-image: "/poi-images/a-ali-cities-v2.webp"
-},
+      en: "A'ali"},
+    image: "/poi-images/a-ali-cities-v2.webp",
     description: {
       de: "Bekannt für seine antiken Hügelgräber und traditionelle Töpferei.",
       hu: "Híres ősi halomsírjairól és hagyományos fazekasságáról.",
@@ -321,9 +316,8 @@ image: "/poi-images/a-ali-cities-v2.webp"
       de: "Isa Town",
       hu: "Madínat Ísza",
       ro: "Madinat Isa",
-      en: "Isa Town",
-image: "/poi-images/isa-town-cities-v2.webp"
-},
+      en: "Isa Town"},
+    image: "/poi-images/isa-town-cities-v2.webp",
     description: {
       de: "Berühmt für ihren traditionellen Markt und das Bildungszentrum der Region.",
       hu: "Bahrain egyik jelentős városa, amely oktatási és lakóövezeti központként ismert. A város modern infrastruktúrával rendelkezik, és fontos szerepet tölt be az ország közigazgatásában.",
@@ -378,9 +372,8 @@ image: "/poi-images/isa-town-cities-v2.webp"
       de: "Sitra",
       hu: "Szitra",
       ro: "Sitra",
-      en: "Sitra",
-image: "/poi-images/sitra-cities-v2.webp"
-},
+      en: "Sitra"},
+    image: "/poi-images/sitra-cities-v2.webp",
     description: {
       de: "Eine Inselstadt mit starker industrieller Prägung und vielen Palmenhainen.",
       hu: "Sitra egy ipari sziget Bahrain keleti partján, amely az olajipar és a finomítók központja. A sziget stratégiai elhelyezkedése miatt kulcsfontosságú az ország gazdasága számára.",
@@ -435,9 +428,8 @@ image: "/poi-images/sitra-cities-v2.webp"
       de: "Budaiya",
       hu: "Budaija",
       ro: "Budaiya",
-      en: "Budaiya",
-image: "/poi-images/budaiya-cities-v2.webp"
-},
+      en: "Budaiya"},
+    image: "/poi-images/budaiya-cities-v2.webp",
     description: {
       de: "Küstenstadt, die für ihre fruchtbaren Gärten und den Bauernmarkt bekannt ist.",
       hu: "Tengerparti város, amely termékeny kertjeiről és termelői piacáról ismert.",
@@ -497,9 +489,8 @@ image: "/poi-images/budaiya-cities-v2.webp"
       de: "Jidhafs",
       hu: "Dzsidhafsz",
       ro: "Jidhafs",
-      en: "Jidhafs",
-image: "/poi-images/jidhafs-cities-v2.webp"
-},
+      en: "Jidhafs"},
+    image: "/poi-images/jidhafs-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in der Nähe von Manama, bekannt für ihren alten Markt.",
       hu: "Manáma közeli történelmi város, amely régi piacáról híres.",
@@ -559,9 +550,8 @@ image: "/poi-images/jidhafs-cities-v2.webp"
       de: "Al Malkiya",
       hu: "Al-Malkija",
       ro: "Al Malkiya",
-      en: "Al Malkiya",
-image: "/poi-images/al-malkiya-cities-v2.webp"
-},
+      en: "Al Malkiya"},
+    image: "/poi-images/al-malkiya-cities-v2.webp",
     description: {
       de: "Eines der größten Dörfer an der Westküste Bahrains mit einem aktiven Fischerhafen.",
       hu: "Bahrein nyugati partjának egyik legnagyobb falva aktív halászkikötővel.",
@@ -621,9 +611,8 @@ image: "/poi-images/al-malkiya-cities-v2.webp"
       de: "Al Hidd",
       hu: "Al-Hidd",
       ro: "Al Hidd",
-      en: "Al Hidd",
-image: "/poi-images/al-hidd-cities-v2.webp"
-},
+      en: "Al Hidd"},
+    image: "/poi-images/al-hidd-cities-v2.webp",
     description: {
       de: "Eine Stadt auf einer Sandbank am südöstlichen Ende der Insel Muharraq.",
       hu: "Város egy homokpadon Muharrak szigetének délkeleti végén.",
@@ -683,9 +672,8 @@ image: "/poi-images/al-hidd-cities-v2.webp"
       de: "Diraz",
       hu: "Diráz",
       ro: "Diraz",
-      en: "Diraz",
-image: "/poi-images/diraz-cities-v2.webp"
-},
+      en: "Diraz"},
+    image: "/poi-images/diraz-cities-v2.webp",
     description: {
       de: "Diraz ist ein Dorf an der Nordküste Bahrains, das für seine antiken Ausgrabungsstätten bekannt ist. Es liegt in der Nähe des Barbar-Tempels.",
       hu: "Régészeti lelőhelyeiről ismert, beleértve a híres Diráz-templomot.",
@@ -741,9 +729,8 @@ image: "/poi-images/diraz-cities-v2.webp"
       de: "Sanabis",
       hu: "Szananbisz",
       ro: "Sanabis",
-      en: "Sanabis",
-image: "/poi-images/sanabis-cities-v2.webp"
-},
+      en: "Sanabis"},
+    image: "/poi-images/sanabis-cities-v2.webp",
     description: {
       de: "Traditionell ein Fischerdorf, das sich heute in Manamas städtische Struktur integriert hat.",
       hu: "Manama közelében található, sűrűn lakott település, amely fejlett kereskedelmi környezettel rendelkezik. A városban számos irodaház és modern lakókomplexum épült az elmúlt években.",
@@ -798,9 +785,8 @@ image: "/poi-images/sanabis-cities-v2.webp"
       de: "Tubli",
       hu: "Tubli",
       ro: "Tubli",
-      en: "Tubli",
-image: "/poi-images/tubli-cities-v2.webp"
-},
+      en: "Tubli"},
+    image: "/poi-images/tubli-cities-v2.webp",
     description: {
       de: "Tubli ist eine Siedlung, die vor allem für ihre Bucht und die dortigen Mangrovenwälder bekannt ist. Sie liegt strategisch günstig zwischen Manama und Sitra.",
       hu: "Tubli városa a híres Tubli-öböl mellett terül el, amely gazdag élővilágáról és mangroveerdeiről ismert. A terület lakóépületekkel és könnyűipari létesítményekkel jellemezhető.",
@@ -850,9 +836,8 @@ image: "/poi-images/tubli-cities-v2.webp"
       de: "Saar",
       hu: "Szaár",
       ro: "Saar",
-      en: "Saar",
-image: "/poi-images/saar-cities-v2.webp"
-},
+      en: "Saar"},
+    image: "/poi-images/saar-cities-v2.webp",
     description: {
       de: "Ein gehobenes Viertel mit archäologischen Überresten aus der Dilmun-Zeit.",
       hu: "Előkelő negyed, ahol a Dilmun korszakból származó régészeti maradványok találhatók.",
@@ -912,9 +897,8 @@ image: "/poi-images/saar-cities-v2.webp"
       de: "Al Dair",
       hu: "Al-Dajr",
       ro: "Al Dair",
-      en: "Al Dair",
-image: "/poi-images/al-dair-cities-v2.webp"
-},
+      en: "Al Dair"},
+    image: "/poi-images/al-dair-cities-v2.webp",
     description: {
       de: "Ein Dorf im Norden der Insel Muharraq, das traditionell von der Landwirtschaft lebte.",
       hu: "Egy falu Muharrak szigetének északi részén, amely hagyományosan mezőgazdaságból élt.",
@@ -974,9 +958,8 @@ image: "/poi-images/al-dair-cities-v2.webp"
       de: "Busaiteen",
       hu: "Buszaitin",
       ro: "Busaiteen",
-      en: "Busaiteen",
-image: "/poi-images/busaiteen-cities-v2.webp"
-},
+      en: "Busaiteen"},
+    image: "/poi-images/busaiteen-cities-v2.webp",
     description: {
       de: "Busaiteen ist ein Wohngebiet in Muharraq, das direkt am Meer liegt. Es zeichnet sich durch seine moderne Infrastruktur und Küstenpromenaden aus.",
       hu: "Muharraq szigetén elhelyezkedő tengerparti város, amely csendes lakókörnyezetéről ismert. A város fejlesztései során nagy hangsúlyt fektettek a tengerparti sétányokra.",
@@ -1027,9 +1010,8 @@ image: "/poi-images/busaiteen-cities-v2.webp"
       de: "Samaheej",
       hu: "Szamahídzs",
       ro: "Samaheej",
-      en: "Samaheej",
-image: "/poi-images/samaheej-cities-v2.webp"
-},
+      en: "Samaheej"},
+    image: "/poi-images/samaheej-cities-v2.webp",
     description: {
       de: "Ein historisches Dorf, das in antiken christlichen Texten als Bistum erwähnt wird.",
       hu: "Történelmi falu, amelyet az ősi keresztény szövegek püspökségként említenek.",
@@ -1090,9 +1072,8 @@ image: "/poi-images/samaheej-cities-v2.webp"
       de: "Zallaq",
       hu: "Zallák",
       ro: "Zallaq",
-      en: "Zallaq",
-image: "/poi-images/zallaq-cities-v2.webp"
-},
+      en: "Zallaq"},
+    image: "/poi-images/zallaq-cities-v2.webp",
     description: {
       de: "Berühmt für seine sauberen Strände und die nahe gelegene Universität von Bahrain.",
       hu: "Híres tiszta strandjairól és a közeli Bahreini Egyetemről.",
@@ -1152,9 +1133,8 @@ image: "/poi-images/zallaq-cities-v2.webp"
       de: "Awali",
       hu: "Avali",
       ro: "Awali",
-      en: "Awali",
-image: "/poi-images/awali-cities-v2.webp"
-},
+      en: "Awali"},
+    image: "/poi-images/awali-cities-v2.webp",
     description: {
       de: "Eine kleine Siedlung im Zentrum des Landes, die für die Mitarbeiter der Ölgesellschaft gebaut wurde.",
       hu: "Kis település az ország központjában, amelyet az olajtársaság alkalmazottainak építettek.",
@@ -1214,9 +1194,8 @@ image: "/poi-images/awali-cities-v2.webp"
       de: "Askar",
       hu: "Aszkar",
       ro: "Askar",
-      en: "Askar",
-image: "/poi-images/askar-cities-v2.webp"
-},
+      en: "Askar"},
+    image: "/poi-images/askar-cities-v2.webp",
     description: {
       de: "Ein Fischerdorf an der Ostküste Bahrains, das eine zunehmende industrielle Bedeutung hat.",
       hu: "Egy hagyományos halásztelepülés a fősziget délkeleti részén, amely megőrizte nyugodt jellegét a modern fejlődés mellett is. A település szorosan kötődik a tengeri hagyományokhoz.",
@@ -1271,9 +1250,8 @@ image: "/poi-images/askar-cities-v2.webp"
       de: "Jaww",
       hu: "Dzsau",
       ro: "Jaww",
-      en: "Jaww",
-image: "/poi-images/jaww-cities-v2.webp"
-},
+      en: "Jaww"},
+    image: "/poi-images/jaww-cities-v2.webp",
     description: {
       de: "Bekannt für seine raue Küstenlinie und die Lage im südlichen Teil der Insel.",
       hu: "Híres zord partvonaláról és a sziget déli részén található fekvéséről.",
@@ -1334,9 +1312,8 @@ image: "/poi-images/jaww-cities-v2.webp"
       de: "Barbar",
       hu: "Barbar",
       ro: "Barbar",
-      en: "Barbar",
-image: "/poi-images/barbar-cities-v2.webp"
-},
+      en: "Barbar"},
+    image: "/poi-images/barbar-cities-v2.webp",
     description: {
       de: "Barbar ist ein Dorf im Norden Bahrains, das vor allem wegen der dortigen Ausgrabungen des Barbar-Tempels international bekannt ist. Es hat eine tiefe historische Verwurzelung.",
       hu: "Itt található az ősi Barbar-templom, a régió egyik legfontosabb ásatási helyszíne.",
@@ -1391,9 +1368,8 @@ image: "/poi-images/barbar-cities-v2.webp"
       de: "Bani Jamra",
       hu: "Báni Dzsamra",
       ro: "Bani Jamra",
-      en: "Bani Jamra",
-image: "/poi-images/bani-jamra-cities-v2.webp"
-},
+      en: "Bani Jamra"},
+    image: "/poi-images/bani-jamra-cities-v2.webp",
     description: {
       de: "Berühmt für sein traditionelles Webhandwerk und die dörfliche Gemeinschaft.",
       hu: "A település történelmileg híres hagyományos szövőiparáról, ahol a helyi kézművesek generációkon át őrizték a technikát. Napjainkban csendes lakóövezetként funkcionál.",
@@ -1448,9 +1424,8 @@ image: "/poi-images/bani-jamra-cities-v2.webp"
       de: "Karrana",
       hu: "Karrana",
       ro: "Karrana",
-      en: "Karrana",
-image: "/poi-images/karrana-cities-v2.webp"
-},
+      en: "Karrana"},
+    image: "/poi-images/karrana-cities-v2.webp",
     description: {
       de: "Karrana ist eine landwirtschaftlich geprägte Siedlung im Norden Bahrains. Das Gebiet ist für seine traditionellen Farmen und Palmenhaine bekannt.",
       hu: "Bahrain északi részén található mezőgazdasági és lakóterület, amely zöldövezeteiről ismert. A környező kertek és pálmaligetek jellemzik a tájat.",
@@ -1500,9 +1475,8 @@ image: "/poi-images/karrana-cities-v2.webp"
       de: "Salmabad",
       hu: "Szalmabád",
       ro: "Salmabad",
-      en: "Salmabad",
-image: "/poi-images/salmabad-cities-v2.webp"
-},
+      en: "Salmabad"},
+    image: "/poi-images/salmabad-cities-v2.webp",
     description: {
       de: "Salmabad ist ein bedeutendes Industrie- und Gewerbegebiet in Bahrain. Es dient als wichtiger Knotenpunkt für lokales Handwerk und mittelständische Unternehmen.",
       hu: "Központi elhelyezkedésű város, amely az ipari és raktárlogisztikai központok kedvelt helyszíne Bahrainben. Számos kis- és középvállalkozás telephelye található itt.",
@@ -1552,9 +1526,8 @@ image: "/poi-images/salmabad-cities-v2.webp"
       de: "Karbabad",
       hu: "Karbabád",
       ro: "Karbabad",
-      en: "Karbabad",
-image: "/poi-images/karbabad-cities-v2.webp"
-},
+      en: "Karbabad"},
+    image: "/poi-images/karbabad-cities-v2.webp",
     description: {
       de: "Ein Küstendorf, das für die alte Handwerkskunst der Korbwarenherstellung bekannt ist.",
       hu: "Tengerparti település, amely közel fekszik a Seef kereskedelmi negyedhez és a tengerparti üdülőhelyekhez. A város a modern életmód és a tradicionális környezet ötvözete.",
@@ -1609,9 +1582,8 @@ image: "/poi-images/karbabad-cities-v2.webp"
       de: "Nabih Saleh",
       hu: "Nabih Száleh",
       ro: "Nabih Saleh",
-      en: "Nabih Saleh",
-image: "/poi-images/nabih-saleh-cities-v2.webp"
-},
+      en: "Nabih Saleh"},
+    image: "/poi-images/nabih-saleh-cities-v2.webp",
     description: {
       de: "Eine Insel in der Tubli-Bucht, benannt nach einem muslimischen Gelehrten.",
       hu: "Egy sziget a Tubli-öbölben, amelyet egy muszlim tudósról neveztek el.",
@@ -1671,9 +1643,8 @@ image: "/poi-images/nabih-saleh-cities-v2.webp"
       de: "Arad",
       hu: "Arád",
       ro: "Arad",
-      en: "Arad",
-image: "/poi-images/arad-cities-v2.webp"
-},
+      en: "Arad"},
+    image: "/poi-images/arad-cities-v2.webp",
     description: {
       de: "Arad ist eine Stadt auf der Insel Muharraq, die für ihre historische Festung und ihre Küstenlage bekannt ist. Sie dient als wichtiger Wohnstandort.",
       hu: "Muharraq szigetén elhelyezkedő település, amely kiváló elhelyezkedése miatt közkedvelt a lakók körében. A város több parkkal és közösségi térrel rendelkezik.",
@@ -1723,9 +1694,8 @@ image: "/poi-images/arad-cities-v2.webp"
       de: "Galali",
       hu: "Galali",
       ro: "Galali",
-      en: "Galali",
-image: "/poi-images/galali-cities-v2.webp"
-},
+      en: "Galali"},
+    image: "/poi-images/galali-cities-v2.webp",
     description: {
       de: "Eines der ältesten Dörfer in Bahrain, das an Landgewinnungsprojekte grenzt.",
       hu: "Bahrein egyik legrégebbi falva, amely földnyerési projektekkel határos.",

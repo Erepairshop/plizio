@@ -441,41 +441,6 @@ export const franceCities: POI[] = [
     image: "/geo-images/france/reims.webp"
   },
   {
-    id: "fr-chateau-chenonceau",
-    type: "landmark",
-    parent: "FR-CVL",
-    coords: [1.0703, 47.3249],
-    name: { de: "Schloss Chenonceau", hu: "Chenonceau-i kastély", ro: "Castelul Chenonceau", en: "Château de Chenonceau" },
-    image: "/geo-images/france/chateau-chenonceau.webp",
-    description: {"de":"Reims, eine Stadt in der Region Grand Est, ist eng mit der französischen Königsgeschichte und dem Champagner verbunden. Jahrhundertelang war sie der Ort, an dem die französischen Monarchen gekrönt wurden, was der Stadt den Namen 'Stadt der Krönungen' einbrachte. Die majestätische Kathedrale von Reims ist ein architektonisches Juwel der Hochgotik und ein UNESCO-Weltkulturerbe. Unter der Stadt erstrecken sich kilometerlange Kreidekeller, in denen die berühmtesten Champagnerhäuser der Welt ihre edlen Tropfen lagern. Die Stadt verbindet historische Erhabenheit mit lebendiger Kultur.","hu":"Reims, a Grand Est régióban található város, szorosan kötődik a francia királyi történelemhez és a pezsgőhöz. Évszázadokon át a francia uralkodók megkoronázásának helyszíne volt, ami a 'Koronázások városa' nevet hozta a városnak. A fenséges reimsi katedrális az érett gótika építészeti ékköve, és az UNESCO világörökség része. A város alatt kilométer hosszú krétapincék húzódnak, ahol a világ leghíresebb pezsgőházai tárolják nemes italaikat. A város a történelmi fenséget az élő kultúrával ötvözi.","ro":"Reims, un oraș din regiunea Grand Est, este strâns legat de istoria regalității franceze și de șampanie. Timp de secole, a fost locul unde erau încoronați monarhii francezi, ceea ce i-a adus numele de „Orașul Încoronărilor”. Majestuoasa Catedrală din Reims este o bijuterie arhitecturală a goticului înalt și un sit al Patrimoniului Mondial UNESCO. Sub oraș se întind kilometri de pivnițe de cretă în care cele mai faimoase case de șampanie din lume își depozitează vinurile prețioase. Orașul combină măreția istorică cu cultura vibrantă.","en":"Reims, a city in the Grand Est region, is closely linked to French royal history and Champagne. For centuries, it was the place where French monarchs were crowned, earning the city the title 'City of Coronations'. The majestic Reims Cathedral is an architectural jewel of High Gothic and a UNESCO World Heritage site. Beneath the city stretch kilometers of chalk cellars where the world's most famous Champagne houses store their precious wines. The city combines historical grandeur with vibrant culture."},
-    facts: {
-      de: ["Erbaut im 16. Jahrhundert auf den Fundamenten einer alten Mühle.", "Die Galerie über dem Cher ist 60 Meter lang.", "Besitzt wunderschöne Gärten von Diana von Poitiers und Katharina von Medici.", "Diente im Ersten Weltkrieg als Lazarett.", "War während des Zweiten Weltkriegs ein Fluchtweg über die Demarkationslinie.", "Beherbergt eine bedeutende Sammlung alter Meistergemälde.", "Das Schloss ist seit 1840 als Monument historique klassifiziert."],
-      hu: ["A 16. században épült egy régi malom alapjaira.", "A Cher folyó feletti galéria 60 méter hosszú.", "Diane de Poitiers és Medici Katalin gyönyörű kertjei veszik körül.", "Az első világháború alatt katonai kórházként működött.", "A második világháborúban menekülési útvonalként szolgált a demarkációs vonalon.", "Jelentős régi mesterek festménygyűjteményének ad otthont.", "1840 óta szerepel a történelmi műemlékek listáján."],
-      ro: ["Construit în secolul al XVI-lea pe fundațiile unei vechi mori.", "Galeria de peste râul Cher are o lungime de 60 de metri.", "Dispune de grădini superbe create de Diana de Poitiers și Caterina de Medici.", "A servit ca spital militar în timpul Primului Război Mondial.", "În Al Doilea Război Mondial a fost o cale de evadare peste linia de demarcație.", "Găzduiește o colecție importantă de picturi ale vechilor maeștri.", "Este clasificat ca monument istoric din anul 1840."],
-      en: ["Built in the 16th century on the foundations of an old mill.", "The gallery over the Cher river is 60 meters long.", "Features beautiful gardens designed by Diane de Poitiers and Catherine de' Medici.", "Served as a military hospital during World War I.", "Was an escape route across the demarcation line during World War II.", "Houses a significant collection of Old Master paintings.", "Classified as a Monument Historique since 1840."]
-    },
-  },
-  {
-    id: "fr-chateau-chambord",
-    type: "landmark",
-    parent: "FR-CVL",
-    coords: [1.5172, 47.6161],
-    name: { de: "Schloss Chambord", hu: "Chambord-i kastély", ro: "Castelul Chambord", en: "Château de Chambord" },
-    image: "/geo-images/france/chateau-chambord.webp",
-    description: {
-      de: "Schloss Chambord ist das größte und prächtigste Schloss im Loiretal. Es wurde im Auftrag von König Franz I. als Jagdschloss erbaut und gilt als Meisterwerk der französischen Renaissance. Die Architektur zeigt deutliche Einflüsse von Leonardo da Vinci, insbesondere bei der berühmten Doppelwendeltreppe. Das Schloss liegt in einem riesigen, von einer Mauer umschlossenen Park.",
-      hu: "A Chambord-i kastély a Loire-völgy legnagyobb és legimpozánsabb kastélya. I. Ferenc király építtette vadászkastélynak, és a francia reneszánsz építészet remekműveként tartják számon. Az épület tervezésében Leonardo da Vinci hatása is érezhető, különösen a híres kettős csigalépcsőnél. A kastélyt egy hatalmas, fallal körülvett park övezi, amely Európa legnagyobb zárt erdőrezervátuma.",
-      ro: "Castelul Chambord este cel mai mare și mai grandios castel din Valea Loarei. A fost construit la ordinul regelui Francisc I ca pavilion de vânătoare și este considerat o capodoperă a Renașterii franceze. Arhitectura sa prezintă influențe clare ale lui Leonardo da Vinci, în special la celebra scară cu dublă elice. Castelul este situat într-un parc imens, înconjurat de cel mai lung zid din Franța.",
-      en: "Château de Chambord is the largest and most magnificent castle in the Loire Valley. Built for King Francis I as a hunting lodge, it is a masterpiece of the French Renaissance. The architecture shows strong influences from Leonardo da Vinci, most notably in the famous double-helix staircase. The castle is set within a vast walled park, the largest enclosed forest in Europe."
-    },
-    facts: {
-      de: ["Baubeginn war im Jahr 1519 unter Franz I.", "Verfügt über 440 Zimmer und 365 Schornsteine.", "Die Doppelwendeltreppe erlaubt es zwei Personen, sich zu sehen, ohne sich zu begegnen.", "Der Park ist so groß wie die Stadt Paris.", "Das Schloss wurde nie vollständig fertiggestellt.", "Leonardo da Vinci verbrachte seine letzten Jahre in der Nähe und beeinflusste das Design.", "Es gehört seit 1981 zum UNESCO-Weltkulturerbe."],
-      hu: ["Az építkezés 1519-ben kezdődött I. Ferenc uralkodása alatt.", "440 szobával és 365 kéménnyel rendelkezik.", "A kettős csigalépcsőn két ember úgy haladhat el, hogy látják egymást, de nem találkoznak.", "A kastélypark területe akkora, mint Párizs városa.", "A kastélyt soha nem fejezték be teljesen.", "Leonardo da Vinci a közelben töltötte utolsó éveit és hatással volt a tervekre.", "1981 óta az UNESCO Világörökség része."],
-      ro: ["Construcția a început în 1519 sub domnia lui Francisc I.", "Are 440 de camere și 365 de șeminee.", "Scara cu dublă elice permite ca două persoane să se vadă fără să se întâlnească.", "Parcul este la fel de mare ca orașul Paris.", "Castelul nu a fost niciodată finalizat complet.", "Leonardo da Vinci a locuit în apropiere și a influențat designul.", "Face parte din Patrimoniul Mondial UNESCO din 1981."],
-      en: ["Construction began in 1519 under Francis I.", "Features 440 rooms and 365 chimneys.", "The double-helix staircase allows two people to ascend and descend without meeting.", "The park is as large as the city of Paris.", "The castle was never fully completed.", "Leonardo da Vinci spent his last years nearby and influenced the design.", "Inscribed as a UNESCO World Heritage site in 1981."]
-    },
-  },
-  {
     id: "fr-chateau-fontainebleau",
     type: "historical",
     parent: "FR-IDF",
@@ -493,66 +458,6 @@ export const franceCities: POI[] = [
       hu: ["Napóleon Bonaparte 'a királyok igazi otthonának' nevezte.", "Itt található Franciaország egyetlen épségben maradt trónterme.", "A híres patkó alakú lépcső a 17. században épült.", "A kastélynak több mint 1500 szobája van.", "Egy 25 000 hektáros erdő veszi körül.", "Napóleon itt írta alá lemondását 1814-ben.", "1981 óta az UNESCO Világörökség része."],
       ro: ["Napoleon Bonaparte l-a numit 'adevărata casă a regilor'.", "Găzduiește singura sală a tronului păstrată intactă din Franța.", "Celebra scară în formă de potcoavă a fost construită în secolul al XVII-lea.", "Palatul are peste 1500 de camere.", "Este înconjurat de o pădure de 25.000 de hectare.", "Aici a semnat Napoleon actul de abdicare în 1814.", "Este inclus în Patrimoniul Mondial UNESCO din 1981."],
       en: ["Napoleon Bonaparte called it 'the true home of kings'.", "Houses the only throne room in France to have retained its original furniture.", "The famous horseshoe-shaped staircase was built in the 17th century.", "The palace contains over 1,500 rooms.", "Surrounded by a 25,000-hectare forest.", "Napoleon signed his abdication here in 1814.", "Designated a UNESCO World Heritage site in 1981."]
-    },
-  },
-  {
-    id: "fr-pont-du-gard",
-    type: "historical",
-    parent: "FR-OCC",
-    coords: [4.5352, 43.9475],
-    name: { de: "Pont du Gard", hu: "Pont du Gard", ro: "Pont du Gard", en: "Pont du Gard" },
-    image: "/geo-images/france/pont-du-gard.webp",
-    description: {
-      de: "Der Pont du Gard ist ein beeindruckendes römisches Aquädukt im Süden Frankreichs. Es wurde im 1. Jahrhundert n. Chr. erbaut, um Wasser über den Fluss Gardon nach Nîmes zu leiten. Das Bauwerk ist eines der am besten erhaltenen römischen Aquädukte der Welt. Es besteht aus drei Etagen von Bögen und ist ein Meisterwerk antiker Ingenieurskunst.",
-      hu: "A Pont du Gard egy lenyűgöző római kori vízvezeték Dél-Franciaországban. Az 1. században épült, hogy vizet szállítson a Gardon folyón keresztül Nîmes városába. Ez az egyik legjobb állapotban fennmaradt római vízvezeték a világon. Három szintnyi boltívből áll, és az ókori mérnöki tudomány kiemelkedő alkotása.",
-      ro: "Pont du Gard este un apeduct roman impresionant situat în sudul Franței. A fost construit în secolul I d.Hr. pentru a transporta apă peste râul Gardon către orașul Nîmes. Structura este unul dintre cele mai bine conservate apeducte romane din lume. Este format din trei niveluri de arcade și reprezintă o capodoperă a ingineriei antice.",
-      en: "Pont du Gard is an impressive Roman aqueduct bridge in southern France. Built in the 1st century AD, it was part of a system that carried water across the Gardon River to Nîmes. It is one of the best-preserved Roman aqueducts in the world. Consisting of three tiers of arches, it is a masterpiece of ancient engineering."
-    },
-    facts: {
-      de: ["Das Aquädukt ist fast 50 Meter hoch.", "Es wurde ohne Mörtel aus tonnenschweren Steinblöcken gebaut.", "Das Gefälle des gesamten Aquädukts beträgt nur 12 Meter auf 50 Kilometern.", "Täglich flossen etwa 20.000 Kubikmeter Wasser hindurch.", "Im Mittelalter diente es als Brücke für den Straßenverkehr.", "Es ist auf der 5-Euro-Banknote abgebildet.", "UNESCO-Weltkulturerbe seit 1985."],
-      hu: ["A vízvezeték majdnem 50 méter magas.", "Habarcs nélkül, több tonnás kőtömbökből építették.", "A teljes vezeték lejtése mindössze 12 méter 50 kilométeren.", "Naponta körülbelül 20 000 köbméter víz folyt át rajta.", "A középkorban közúti hídként is használták.", "Szerepel az 5 eurós bankjegyen.", "1985 óta az UNESCO Világörökség része."],
-      ro: ["Apeductul are o înălțime de aproape 50 de metri.", "A fost construit fără mortar, din blocuri de piatră de câteva tone.", "Panta întregului apeduct este de doar 12 metri pe o distanță de 50 km.", "Zilnic transporta aproximativ 20.000 de metri cubi de apă.", "În Evul Mediu a fost folosit ca pod rutier.", "Este reprezentat pe bancnota de 5 euro.", "Patrimoniu Mondial UNESCO din 1985."],
-      en: ["The aqueduct stands nearly 50 meters high.", "Built without mortar using stone blocks weighing several tons.", "The gradient of the entire aqueduct is only 12 meters over 50 kilometers.", "It carried about 20,000 cubic meters of water daily.", "Used as a road bridge during the Middle Ages.", "Depicted on the 5-euro banknote.", "UNESCO World Heritage site since 1985."]
-    },
-  },
-  {
-    id: "fr-carnac",
-    type: "historical",
-    parent: "FR-BRE",
-    coords: [-3.0783, 47.5794],
-    name: { de: "Menhire von Carnac", hu: "Carnaci kősorok", ro: "Aliniamentele de la Carnac", en: "Carnac stones" },
-    image: "/geo-images/france/carnac.webp",
-    description: {
-      de: "Die Menhire von Carnac in der Bretagne sind eine der weltweit bedeutendsten Megalith-Anlagen. Über 3000 prähistorische Steine sind hier in langen Reihen, Kreisen und Dolmen angeordnet. Sie stammen aus der Jungsteinzeit, etwa zwischen 4500 und 3300 v. Chr. Der Zweck dieser gewaltigen Anlage ist bis heute ein archäologisches Rätsel.",
-      hu: "A bretagne-i Carnaci kősorok a világ egyik legjelentősebb megalitikus lelőhelye. Több mint 3000 prehisztorikus kő található itt hosszú sorokba, körökbe és dolmenekbe rendezve. Az újkőkorszakból származnak, körülbelül i. e. 4500 és 3300 között állították fel őket. E hatalmas építmény pontos célja a mai napig régészeti rejtély.",
-      ro: "Aliniamentele de la Carnac din Bretania reprezintă unul dintre cele mai importante situri megalitice din lume. Peste 3000 de pietre preistorice sunt dispuse aici în rânduri lungi, cercuri și dolmene. Datând din perioada neolitică, între 4500 și 3300 î.Hr., scopul acestei vaste structuri rămâne până astăzi un mister arheologic.",
-      en: "The Carnac stones in Brittany are one of the world's most significant megalithic sites. More than 3,000 prehistoric stones are arranged in long alignments, circles, and dolmens. They date back to the Neolithic period, roughly between 4500 and 3300 BC. The exact purpose of this vast complex remains an archaeological mystery to this day."
-    },
-    facts: {
-      de: ["Die Anlage erstreckt sich über eine Länge von etwa 4 Kilometern.", "Es gibt drei Hauptgruppen von Steinreihen: Ménec, Kermario und Kerlescan.", "Einige Menhire sind über 4 Meter hoch.", "Der Legende nach sind die Steine eine versteinerte römische Legion.", "Wissenschaftler vermuten astronomische oder religiöse Funktionen.", "Die Steine bestehen aus lokalem Granit.", "Die Anlage ist für Besucher zum Schutz der Vegetation teilweise eingezäunt."],
-      hu: ["A lelőhely körülbelül 4 kilométer hosszan terül el.", "Három fő kősor-csoport létezik: Ménec, Kermario és Kerlescan.", "Némelyik menhir magassága meghaladja a 4 métert.", "A legenda szerint a kövek egy kővé vált római légiót alkotnak.", "A tudósok csillagászati vagy vallási funkciót feltételeznek.", "A kövek helyi gránitból készültek.", "A területet a növényzet védelme érdekében részben bekerítették."],
-      ro: ["Situl se întinde pe o lungime de aproximativ 4 kilometri.", "Există trei grupuri principale de aliniamente: Ménec, Kermario și Kerlescan.", "Unele menhire au o înălțime de peste 4 metri.", "Conform legendei, pietrele sunt o legiune romană pietrificată.", "Oamenii de știință suspectează funcții astronomice sau religioase.", "Pietrele sunt cioplite din granit local.", "Situl este parțial împrejmuit pentru a proteja vegetația."],
-      en: ["The site stretches over a length of about 4 kilometers.", "There are three main groups of alignments: Ménec, Kermario, and Kerlescan.", "Some menhirs stand over 4 meters tall.", "According to legend, the stones are a petrified Roman legion.", "Scientists suggest astronomical or religious functions for the site.", "The stones are made of local granite.", "The area is partially fenced to protect the vegetation from erosion."]
-    },
-  },
-  {
-    id: "fr-arenas-nimes",
-    type: "historical",
-    parent: "FR-OCC",
-    coords: [4.3600, 43.8344],
-    name: { de: "Amphitheater von Nîmes", hu: "Nîmes-i amfiteátrum", ro: "Amfiteatrul din Nîmes", en: "Arena of Nîmes" },
-    image: "/geo-images/france/arenas-nimes.webp",
-    description: {
-      de: "Das Amphitheater von Nîmes ist eines der am besten erhaltenen römischen Arenen der Welt. Es wurde um 70 n. Chr. erbaut und bot Platz für über 20.000 Zuschauer. Die Architektur ist dem Kolosseum in Rom nachempfunden, aber in kleinerem Maßstab. Heute wird die Arena für Konzerte, Stierkämpfe und historische Reenactments genutzt.",
-      hu: "A Nîmes-i amfiteátrum a világ egyik legjobb állapotban fennmaradt római kori arénája. I. sz. 70 körül épült, és több mint 20 000 néző befogadására volt alkalmas. Építészeti megoldásai a római Colosseumot idézik, kisebb léptékben. Napjainkban az aréna koncerteknek, bikaviadaloknak és történelmi játékoknak ad otthont.",
-      ro: "Amfiteatrul din Nîmes este una dintre cele mai bine conservate arene romane din lume. A fost construit în jurul anului 70 d.Hr. și avea o capacitate de peste 20.000 de spectatori. Arhitectura sa este inspirată de Colosseumul din Roma, dar la o scară mai mică. Astăzi, arena este folosită pentru concerte, coride și reconstituiri istorice.",
-      en: "The Arena of Nîmes is one of the best-preserved Roman amphitheaters in the world. Built around 70 AD, it could hold over 20,000 spectators. Its architecture is modeled after the Colosseum in Rome, but on a smaller scale. Today, the arena is used for concerts, bullfights, and historical reenactments."
-    },
-    facts: {
-      de: ["Die Arena hat eine elliptische Form von 133 mal 101 Metern.", "Die Fassade besteht aus zwei Etagen mit jeweils 60 Bögen.", "Im Mittelalter wurde die Arena zu einer befestigten Siedlung umgebaut.", "Es gab ein ausgeklügeltes System von Gängen und Treppen für die Zuschauer.", "Die Arena verfügte über ein Velum zum Schutz vor der Sonne.", "Seit 1840 ist sie als Monument historique geschützt.", "Jedes Jahr finden hier die 'Großen Römischen Spiele' statt."],
-      hu: ["Az aréna elliptikus alakú, 133-szor 101 méteres.", "A homlokzat két szintből áll, szintenként 60 boltívvel.", "A középkorban az arénát erődített településsé alakították át.", "Bonyolult folyosó- és lépcsőrendszer segítette a nézők mozgását.", "Az aréna rendelkezett napellenzővel (velum) a nézők védelmére.", "1840 óta védett történelmi műemlék.", "Minden évben itt rendezik meg a 'Nagy Római Játékokat'."],
-      ro: ["Arena are o formă eliptică de 133 pe 101 metri.", "Fațada este compusă din două niveluri, fiecare cu 60 de arcade.", "În Evul Mediu, arena a fost transformată într-o așezare fortificată.", "Exista un sistem ingenios de galerii și scări pentru spectatori.", "Arena dispunea de un velum pentru protecție solară.", "Este protejată ca monument istoric din 1840.", "Anual găzduiește 'Marile Jocuri Romane'."],
-      en: ["The arena has an elliptical shape measuring 133 by 101 meters.", "The facade consists of two levels, each with 60 arches.", "In the Middle Ages, the arena was transformed into a fortified village.", "It featured a sophisticated system of corridors and stairs for spectators.", "The arena had a velum to provide shade for the audience.", "Protected as a Monument Historique since 1840.", "Hosts the 'Great Roman Games' every year."]
     },
   },
   {
@@ -593,26 +498,6 @@ export const franceCities: POI[] = [
       hu: ["A kárpit körülbelül 50 centiméter magas és 68 méter hosszú.", "Valószínűleg Angliában készült röviddel 1066 után.", "626 személyt, 202 lovat és 505 egyéb állatot ábrázol.", "A hímzés nyolcféle színű gyapjúfonallal készült.", "A Bayeux-i Kárpit Múzeumban látható.", "2007 óta az UNESCO Világemlékezet listáján szerepel.", "A kárpiton a Halley-üstökös ábrázolása is látható."],
       ro: ["Tapițeria are aproximativ 50 cm înălțime și 68 m lungime.", "A fost probabil realizată în Anglia la scurt timp după 1066.", "Sunt reprezentate 626 de persoane, 202 cai și 505 alte animale.", "Broderia este realizată din lână în opt culori diferite.", "Este expusă la Muzeul Tapițeriei din Bayeux.", "Face parte din registrul UNESCO 'Memoria Lumii' din 2007.", "Tapițeria include și o reprezentare a cometei Halley."],
       en: ["The tapestry is about 50 centimeters high and 68 meters long.", "It was likely commissioned by Bishop Odo and made in England.", "It features 626 people, 202 horses, and 505 other animals.", "The embroidery uses wool yarn in eight distinct colors.", "It is displayed at the Musée de la Tapisserie de Bayeux.", "Inscribed in UNESCO's Memory of the World Register in 2007.", "It contains one of the earliest known depictions of Halley's Comet."]
-    },
-  },
-  {
-    id: "fr-omaha-beach",
-    type: "historical",
-    parent: "FR-NOR",
-    coords: [-0.9833, 49.3767],
-    name: { de: "Omaha Beach", hu: "Omaha-part", ro: "Plaja Omaha", en: "Omaha Beach" },
-    image: "/geo-images/france/omaha-beach.webp",
-    description: {
-      de: "Omaha Beach ist einer der fünf Landungsabschnitte der Alliierten in der Normandie am D-Day, dem 6. Juni 1944. Hier fanden die verlustreichsten Kämpfe der gesamten Operation Overlord statt. Die US-Truppen stießen auf heftigen Widerstand der deutschen Verteidiger. Heute ist der Strand ein Ort des Gedenkens und beherbergt den beeindruckenden amerikanischen Soldatenfriedhof von Colleville-sur-Mer.",
-      hu: "Az Omaha-part egyike annak az öt partszakasznak, ahol a szövetséges erők partra szálltak Normandiában 1944. június 6-án, a D-napon. Itt zajlottak az Overlord hadművelet legvéresebb harcai. Az amerikai csapatok heves ellenállásba ütköztek a német védők részéről. Ma a tengerpart az emlékezés helyszíne, itt található a Colleville-sur-Mer-i amerikai katonai temető is.",
-      ro: "Plaja Omaha este unul dintre cele cinci sectoare de debarcare ale aliaților în Normandia în Ziua Z, 6 iunie 1944. Aici au avut loc cele mai sângeroase lupte din întreaga Operațiune Overlord. Trupele americane au întâmpinat o rezistență acerbă din partea apărătorilor germani. Astăzi, plaja este un loc de comemorare și găzduiește impresionantul cimitir american din Colleville-sur-Mer.",
-      en: "Omaha Beach was one of the five landing sectors for the Allied invasion of Normandy on D-Day, June 6, 1944. It was the site of the heaviest casualties during Operation Overlord. American troops faced fierce resistance from German defenders on the bluffs above the beach. Today, it is a place of solemn remembrance and home to the Normandy American Cemetery."
-    },
-    facts: {
-      de: ["Die Landung begann um 6:30 Uhr morgens.", "Omaha Beach ist etwa 8 Kilometer lang.", "Die Alliierten erlitten hier am ersten Tag über 2.000 Verluste.", "Der Strand war durch steile Klippen und starke Befestigungen schwer einzunehmen.", "Der Film 'Der Soldat James Ryan' zeigt eine realistische Darstellung der Landung.", "Der amerikanische Friedhof umfasst fast 9.400 Gräber.", "Zahlreiche Denkmäler und Museen entlang der Küste erinnern an die Ereignisse."],
-      hu: ["A partraszállás reggel 6:30-kor kezdődött.", "Az Omaha-part körülbelül 8 kilométer hosszú.", "A szövetségesek több mint 2000 embert vesztettek itt az első napon.", "A meredek sziklák és az erős erődítmények miatt nehéz volt bevenni.", "A 'Ryan közlegény megmentése' című film élethűen mutatja be a partraszállást.", "Az amerikai temetőben közel 9400 katona nyugszik.", "Számos emlékmű és múzeum őrzi az események emlékét a parton."],
-      ro: ["Debarcarea a început la ora 6:30 dimineața.", "Plaja Omaha are o lungime de aproximativ 8 kilometri.", "Aliații au suferit peste 2.000 de pierderi aici în prima zi.", "Plaja a fost greu de cucerit din cauza falezelor abrupte și a fortificațiilor.", "Filmul 'Salvați soldatul Ryan' oferă o reprezentare realistă a debarcării.", "Cimitirul american cuprinde aproape 9.400 de morminte.", "Numeroase monumente și muzee de-a lungul coastei comemorează evenimentele."],
-      en: ["The landings began at 6:30 AM.", "The beach sector is approximately 8 kilometers long.", "Allied forces suffered over 2,000 casualties here on the first day.", "The terrain was difficult due to steep bluffs and strong German defenses.", "The film 'Saving Private Ryan' depicts the landing on Omaha Beach.", "The American Cemetery overlooks the beach and contains nearly 9,400 graves.", "Numerous monuments and museums along the coast honor the fallen."]
     },
   },
   {
@@ -693,26 +578,6 @@ export const franceCities: POI[] = [
       hu: ["2012-ben alapították, ez az első park, amely szárazföldi, tengeri és városközeli területeket is magában foglal.", "A legmagasabb szikla, a Cap Canaille 394 méter magas.", "Sok öböl csak gyalogosan vagy hajóval közelíthető meg.", "A park több mint 140 védett állat- és növényfajnak ad otthont.", "Nyáron a tűzveszély miatt gyakran korlátozzák a belépést.", "A víz alatti Cosquer-barlang prehisztorikus barlangrajzokat rejt.", "Népszerű túracélpont látványos tengeri panorámával."],
       ro: ["Fondat în 2012, este primul parc național care include zone terestre, marine și periurbane.", "Cea mai înaltă faleză, Cap Canaille, are 394 de metri înălțime.", "Multe golfuri sunt accesibile doar pe jos sau cu barca.", "Parcul găzduiește peste 140 de specii protejate de animale și plante.", "Accesul este adesea restricționat vara din cauza riscului de incendii.", "Peștera submarină Cosquer conține picturi preistorice.", "Destinație populară pentru drumeții cu vederi spectaculoase."],
       en: ["Established in 2012, it's the first national park to include land, sea, and peri-urban areas.", "The highest cliff, Cap Canaille, rises 394 meters above the sea.", "Many inlets are only accessible by foot or by boat.", "The park is home to over 140 protected animal and plant species.", "Access is often restricted in summer due to forest fire risks.", "The underwater Cosquer Cave contains prehistoric paintings.", "A popular destination for hiking with breathtaking coastal views."]
-    },
-  },
-  {
-    id: "fr-camargue",
-    type: "landmark",
-    parent: "FR-PAC",
-    coords: [4.5583, 43.5389],
-    name: { de: "Camargue", hu: "Camargue", ro: "Camargue", en: "Camargue" },
-    image: "/geo-images/france/camargue.webp",
-    description: {
-      de: "Die Camargue ist ein riesiges Feuchtgebiet im Rhone-Delta in Südfrankreich. Sie ist weltberühmt für ihre wilden weißen Pferde, schwarzen Stiere und rosa Flamingos. Die Landschaft ist geprägt von Salzwiesen, Lagunen und Reisfeldern. Die Camargue ist ein wichtiges Naturschutzgebiet und ein einzigartiger Lebensraum für zahlreiche Vogelarten.",
-      hu: "A Camargue egy hatalmas mocsaras vidék a Rhone-deltában, Dél-Franciaországban. Világszerte híres vadon élő fehér lovairól, fekete bikáiról és rózsaszín flamingóiról. A tájat sós mocsarak, lagúnák és rizsföldek jellemzik. A Camargue fontos természetvédelmi terület és egyedülálló élőhely számos madárfaj számára.",
-      ro: "Camargue este o zonă umedă vastă situată în delta Ronului, în sudul Franței. Este faimoasă în întreaga lume pentru caii săi albi sălbatici, taurii negri și flamingo roz. Peisajul este marcat de mlaștini sărate, lagune și câmpuri de orez. Camargue este o rezervație naturală importantă și un habitat unic pentru numeroase specii de păsări.",
-      en: "The Camargue is a vast wetland located in the Rhone Delta in southern France. It is world-famous for its wild white horses, black bulls, and pink flamingos. The landscape is characterized by salt marshes, lagoons, and rice paddies. The Camargue is a major nature reserve and a unique habitat for numerous bird species."
-    },
-    facts: {
-      de: ["Die Camargue-Pferde gelten als eine der ältesten Pferderassen der Welt.", "Es ist das einzige Brutgebiet für rosa Flamingos in Frankreich.", "Die Region ist bekannt für die Gewinnung von Meersalz (Fleur de Sel).", "Saintes-Maries-de-la-Mer ist das kulturelle Zentrum der Region.", "Die Camargue-Stiere werden für unblutige Stierspiele gezüchtet.", "Reisanbau ist ein wichtiger Wirtschaftszweig in der Camargue.", "Das Gebiet umfasst über 140.000 Hektar."],
-      hu: ["A camargue-i ló a világ egyik legősibb lófajtájának számít.", "Ez az egyetlen hely Franciaországban, ahol a rózsaszín flamingók fészkelnek.", "A régió híres a tengeri só (Fleur de Sel) lepárlásáról.", "Saintes-Maries-de-la-Mer a vidék kulturális központja.", "A camargue-i bikákat vér nélküli bikajátékokhoz tenyésztik.", "A rizstermesztés fontos gazdasági ágazat a területen.", "A vidék több mint 140 000 hektáron terül el."],
-      ro: ["Caii de Camargue sunt considerați una dintre cele mai vechi rase din lume.", "Este singurul loc de cuibărit pentru flamingo roz din Franța.", "Regiunea este cunoscută pentru producția de sare marină (Fleur de Sel).", "Saintes-Maries-de-la-Mer este centrul cultural al regiunii.", "Taurii de Camargue sunt crescuți pentru jocuri cu tauri fără vărsare de sânge.", "Cultivarea orezului este o ramură economică importantă în zonă.", "Teritoriul cuprinde peste 140.000 de hectare."],
-      en: ["Camargue horses are considered one of the oldest breeds in the world.", "It is the only nesting ground for pink flamingos in France.", "The region is famous for its sea salt production (Fleur de Sel).", "Saintes-Maries-de-la-Mer is the cultural heart of the region.", "Camargue bulls are bred for non-lethal bullfighting games.", "Rice cultivation is a significant part of the local economy.", "The area covers over 140,000 hectares."]
     },
   },
   {
@@ -856,26 +721,6 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-avignon",
-    type: "city",
-    parent: "FR-PAC",
-    coords: [4.8058, 43.9493],
-    name: { de: "Avignon", hu: "Avignon", ro: "Avignon", en: "Avignon" },
-    image: "/geo-images/france/avignon.webp",
-    description: {
-      de: "Avignon in der Provence ist bekannt als die 'Stadt der Päpste'. Im 14. Jahrhundert war sie die Residenz der Päpste und damit das Zentrum der christlichen Welt. Der gewaltige Papstpalast und die berühmte Brücke Pont Saint-Bénézet prägen das Stadtbild. Die gut erhaltene Altstadt ist von einer mächtigen Stadtmauer umgeben und beherbergt heute ein weltberühmtes Theaterfestival.",
-      hu: "A provence-i Avignon a 'pápák városaként' ismert. A 14. században a pápák székhelye volt, így a keresztény világ központjává vált. A hatalmas Pápai Palota és a híres Pont Saint-Bénézet híd határozzák meg a városképet. A jó állapotban fennmaradt óvárost hatalmas városfal veszi körül, és ma egy világhírű színházi fesztiválnak ad otthont.",
-      ro: "Avignon din Provence este cunoscut sub numele de 'Orașul Papilor'. În secolul al XIV-lea, a fost reședința papilor și, prin urmare, centrul lumii creștine. Imensul Palat al Papilor și celebrul pod Pont Saint-Bénézet domină peisajul urban. Orașul vechi bine conservat este înconjurat de ziduri medievale puternice și găzduiește astăzi un festival de teatru de renume mondial.",
-      en: "Avignon in Provence is famously known as the 'City of Popes'. In the 14th century, it served as the residence of the Popes, making it the center of the Christian world. The massive Palais des Papes and the iconic Pont Saint-Bénézet bridge are the city's most famous landmarks. Its well-preserved historic center is enclosed by medieval walls and hosts a world-renowned theater festival every summer."
-    },
-    facts: {
-      de: ["Der Papstpalast ist das größte gotische Gebäude des Mittelalters.", "Die Brücke von Avignon ist durch das Volkslied 'Sur le pont d'Avignon' weltbekannt.", "Die Stadtmauer ist über 4 Kilometer lang und besitzt 39 Türme.", "Avignon war von 1309 bis 1377 Papstsitz.", "Das Festival d'Avignon ist eines der bedeutendsten Theaterfestivals der Welt.", "Die Altstadt gehört seit 1995 zum UNESCO-Weltkulturerbe.", "Die Stadt liegt am Ufer der Rhone."],
-      hu: ["A Pápai Palota a középkor legnagyobb gótikus épülete.", "Az avignoni híd a 'Sur le pont d'Avignon' című népdal révén vált világhírűvé.", "A városfal több mint 4 kilométer hosszú és 39 toronnyal rendelkezik.", "Avignon 1309 és 1377 között volt pápai székhely.", "Az Avignoni Fesztivál a világ egyik legjelentősebb színházi eseménye.", "Az óváros 1995 óta az UNESCO Világörökség része.", "A város a Rhone folyó partján fekszik."],
-      ro: ["Palatul Papilor este cea mai mare construcție gotică din Evul Mediu.", "Podul din Avignon este celebru datorită cântecului popular 'Sur le pont d'Avignon'.", "Zidurile orașului au peste 4 km lungime și 39 de turnuri.", "Avignon a fost sediul papal între 1309 și 1377.", "Festivalul de la Avignon este unul dintre cele mai importante festivaluri de teatru din lume.", "Centrul istoric este inclus în Patrimoniul Mondial UNESCO din 1995.", "Orașul este situat pe malul fluviului Ron."],
-      en: ["The Palais des Papes is the largest Gothic palace in the world.", "The Pont d'Avignon is famous worldwide due to the song 'Sur le pont d'Avignon'.", "The city walls stretch for over 4 kilometers and feature 39 towers.", "Avignon was the seat of the Papacy from 1309 to 1377.", "The Festival d'Avignon is one of the world's greatest performing arts events.", "The historic center was designated a UNESCO World Heritage site in 1995.", "The city is located on the banks of the Rhône River."]
-    },
-  },
-  {
     id: "fr-annecy",
     type: "city",
     parent: "FR-ARA",
@@ -896,46 +741,6 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-dijon",
-    type: "city",
-    parent: "FR-BFC",
-    coords: [5.0415, 47.3220],
-    name: { de: "Dijon", hu: "Dijon", ro: "Dijon", en: "Dijon" },
-    image: "/geo-images/france/dijon.webp",
-    description: {
-      de: "Dijon, die Hauptstadt Burgunds, ist eine Stadt mit reichem architektonischem Erbe und großer gastronomischer Tradition. Einst war sie der glanzvolle Sitz der Herzöge von Burgund, deren Palast heute das Rathaus und ein bedeutendes Kunstmuseum beherbergt. Die Altstadt besticht durch ihre Fachwerkhäuser und prächtigen Stadtpaläste. Weltweit bekannt ist Dijon vor allem für seinen Senf.",
-      hu: "Dijon, Burgundia fővárosa, gazdag építészeti örökséggel és jelentős gasztronómiai hagyományokkal rendelkező város. Egykor a burgundi hercegek fényűző székhelye volt, palotájukban ma a városháza és egy neves művészeti múzeum működik. Az óváros fagerendás házaival és pompás palotáival nyűgözi le a látogatókat. Dijon világszerte leginkább a mustárjáról ismert.",
-      ro: "Dijon, capitala Burgundiei, este un oraș cu un bogat patrimoniu arhitectural și o mare tradiție gastronomică. A fost odinioară sediul strălucitor al ducilor de Burgundia, al căror palat găzduiește astăzi primăria și un important muzeu de artă. Orașul vechi impresionează prin casele sale cu bârne de lemn și palatele somptuoase. Dijon este cunoscut în întreaga lume în special pentru muștarul său.",
-      en: "Dijon, the capital of Burgundy, is a city with a rich architectural heritage and a great gastronomic tradition. It was once the powerful seat of the Dukes of Burgundy, whose palace now houses the city hall and a major fine arts museum. The historic center is filled with half-timbered houses and grand townhouses. Globally, Dijon is most famous for its namesake mustard."
-    },
-    facts: {
-      de: ["Der Palast der Herzöge von Burgund ist das Wahrzeichen der Stadt.", "Dijon besitzt eine der ältesten Kunstsammlungen Frankreichs.", "Die Eule an der Kirche Notre-Dame gilt als Glücksbringer.", "Der 'Parcours de la Chouette' führt Touristen zu den wichtigsten Sehenswürdigkeiten.", "Dijon ist ein Tor zu den berühmten Weingebieten der Côte d'Or.", "Die Stadt war ein wichtiger Knotenpunkt an der historischen Seidenstraße.", "Der Kir (Aperitif aus Weißwein und Cassis) wurde hier erfunden."],
-      hu: ["A burgundi hercegek palotája a város jelképe.", "Dijon rendelkezik Franciaország egyik legrégebbi művészeti gyűjteményével.", "A Notre-Dame templom falán található bagoly szerencsehozónak számít.", "A 'Bagoly-útvonal' vezeti végig a turistákat a főbb látnivalókon.", "Dijon a kapu a Côte d'Or híres borvidékeihez.", "A város fontos csomópont volt a történelmi selyemúton.", "A Kir koktélt (fehérbor és feketeribizli-likőr) itt találták fel."],
-      ro: ["Palatul Ducilor de Burgundia este simbolul orașului.", "Dijon deține una dintre cele mai vechi colecții de artă din Franța.", "Bufnița de pe biserica Notre-Dame este considerată un talisman norocos.", "Traseul 'Parcours de la Chouette' ghidează turiștii către principalele atracții.", "Dijon este poarta de intrare către faimoasele podgorii din Côte d'Or.", "Orașul a fost un nod important pe drumul istoric al mătăsii.", "Aperitivul Kir (vin alb și lichior de coacăze) a fost inventat aici."],
-      en: ["The Palace of the Dukes of Burgundy is the city's centerpiece.", "Dijon's Museum of Fine Arts is one of the oldest in France.", "A small stone owl on Notre-Dame Church is said to bring good luck.", "The 'Owl's Trail' (Parcours de la Chouette) marks a walking tour of the city.", "Dijon is the gateway to the world-famous Côte d'Or wine region.", "The city was a major hub on the historical trade routes between north and south.", "The Kir aperitif was created here by Canon Félix Kir."]
-    },
-  },
-  {
-    id: "fr-aix-en-provence",
-    type: "city",
-    parent: "FR-PAC",
-    coords: [5.4474, 43.5297],
-    name: { de: "Aix-en-Provence", hu: "Aix-en-Provence", ro: "Aix-en-Provence", en: "Aix-en-Provence" },
-    image: "/geo-images/france/aix-en-provence.webp",
-    description: {
-      de: "Aix-en-Provence ist eine elegante Universitätsstadt in der Provence, bekannt für ihre zahlreichen Brunnen und prächtigen Alleen. Die Stadt war die Heimat des Malers Paul Cézanne, dessen Atelier man heute besichtigen kann. Der Cours Mirabeau, eine von Platanen gesäumte Prachtstraße, bildet das Herz der Stadt. Aix besticht durch sein mediterranes Flair und seine reiche Kunst- und Kulturgeschichte.",
-      hu: "Aix-en-Provence egy elegáns egyetemi város Provence-ban, amely számos szökőkútjáról és pompás sugárútjairól ismert. A város Paul Cézanne festőművész szülőhelye volt, akinek műterme ma is látogatható. A Cours Mirabeau, a platánfákkal szegélyezett díszes sugárút alkotja a város szívét. Aix mediterrán hangulatával, valamint gazdag művészeti és kulturális múltjával bűvöli el a látogatókat.",
-      ro: "Aix-en-Provence este un oraș universitar elegant din Provence, cunoscut pentru numeroasele sale fântâni și bulevarde superbe. Orașul a fost casa pictorului Paul Cézanne, al cărui atelier poate fi vizitat și astăzi. Cours Mirabeau, un bulevard magnific mărginit de platani, reprezintă inima orașului. Aix impresionează prin farmecul său mediteranean și istoria sa bogată în artă și cultură.",
-      en: "Aix-en-Provence is an elegant university city in Provence, famous for its numerous fountains and grand boulevards. It was the birthplace and home of the painter Paul Cézanne, and his studio is now a popular museum. The Cours Mirabeau, a beautiful avenue lined with plane trees, is the heart of the city. Aix is known for its refined Mediterranean atmosphere and rich cultural heritage."
-    },
-    facts: {
-      de: ["Aix wird oft als die 'Stadt der tausend Brunnen' bezeichnet.", "Die Stadt wurde von den Römern wegen ihrer Thermalquellen gegründet.", "Paul Cézanne malte oft den nahegelegenen Berg Montagne Sainte-Victoire.", "Die Kathedrale Saint-Sauveur vereint verschiedene Baustile vom 5. bis 18. Jahrhundert.", "Calissons (Mandelgebäck) sind eine berühmte Spezialität der Stadt.", "Aix beherbergt eine der ältesten Universitäten Frankreichs.", "Die Stadt ist bekannt für ihre zahlreichen Kunstgalerien und Museen."],
-      hu: ["Aix-et gyakran az 'ezer szökőkút városának' nevezik.", "A várost a rómaiak alapították termálforrásai miatt.", "Paul Cézanne gyakran festette meg a közeli Montagne Sainte-Victoire hegyet.", "A Saint-Sauveur-székesegyház különböző stílusokat ötvöz az 5. és 18. század között.", "A Calisson (mandulás édesség) a város híres specialitása.", "Aix ad otthont Franciaország egyik legrégebbi egyetemének.", "A város számos művészeti galériájáról és múzeumáról ismert."],
-      ro: ["Aix este adesea numit 'Orașul celor o mie de fântâni'.", "Orașul a fost fondat de romani datorită izvoarelor sale termale.", "Paul Cézanne a pictat adesea muntele din apropiere, Montagne Sainte-Victoire.", "Catedrala Saint-Sauveur îmbină stiluri arhitecturale din secolele V-XVIII.", "Calissons (dulciuri cu migdale) sunt o specialitate celebră a orașului.", "Aix găzduiește una dintre cele mai vechi universități din Franța.", "Orașul este renumit pentru numeroasele sale galerii de artă și muzee."],
-      en: ["Aix is often called the 'City of a Thousand Fountains'.", "The city was founded by the Romans because of its thermal springs.", "Paul Cézanne frequently painted the nearby Montagne Sainte-Victoire.", "The Saint-Sauveur Cathedral features architectural styles from the 5th to the 18th century.", "Calissons, a traditional almond-based candy, are a local specialty.", "Aix is home to one of the oldest universities in France, founded in 1409.", "The city is a major center for law and arts in southern France."]
-    },
-  },
-  {
     id: "fr-bordeaux",
     type: "city",
     parent: "FR-NAQ",
@@ -953,26 +758,6 @@ export const franceCities: POI[] = [
       hu: ["Párizs után Bordeaux-ban van a legtöbb műemléki védettségű épület Franciaországban.", "A bordeaux-i borvidék a világ legnagyobb összefüggő szőlőtermő területe.", "A Place de la Bourse a klasszikus építészet remekműve.", "A Cité du Vin egy ultramodern borkultúra-múzeum.", "A városban található Európa egyik leghosszabb sétálóutcája (Rue Sainte-Catherine).", "A világháborúk alatt Bordeaux ideiglenesen a francia kormány székhelye volt.", "A város területének majdnem fele az UNESCO Világörökség része."],
       ro: ["Bordeaux are cele mai multe clădiri protejate din Franța, după Paris.", "Regiunea Bordeaux este cea mai mare zonă viticolă din lume.", "Place de la Bourse este o capodoperă a arhitecturii clasice.", "Cité du Vin este un muzeu ultramodern dedicat culturii vinului.", "Orașul are una dintre cele mai lungi străzi pietonale din Europa (Rue Sainte-Catherine).", "Bordeaux a fost sediul temporar al guvernului francez în timpul războaielor mondiale.", "Aproape jumătate din suprafața orașului este inclusă în Patrimoniul UNESCO."],
       en: ["Bordeaux has the highest number of preserved historical buildings in France after Paris.", "The surrounding region is the largest fine wine-producing area in the world.", "The Place de la Bourse is a masterpiece of 18th-century French architecture.", "The Cité du Vin is a high-tech museum dedicated to the history of wine.", "The Rue Sainte-Catherine is one of the longest pedestrian shopping streets in Europe.", "Bordeaux served as the temporary capital of France during several wars.", "Nearly half of the city's area is designated as a UNESCO World Heritage site."]
-    },
-  },
-  {
-    id: "fr-rouen",
-    type: "city",
-    parent: "FR-NOR",
-    coords: [1.0997, 49.4431],
-    name: { de: "Rouen", hu: "Rouen", ro: "Rouen", en: "Rouen" },
-    image: "/geo-images/france/rouen.webp",
-    description: {
-      de: "Rouen, die historische Hauptstadt der Normandie, ist eine Stadt voller Geschichte und Kunst. Sie ist bekannt für ihre prächtige gotische Kathedrale, die Claude Monet in einer berühmten Bilderserie verewigte. Die Altstadt mit ihren zahlreichen Fachwerkhäusern und kopfsteingepflasterten Gassen wirkt wie ein Freilichtmuseum. Rouen ist auch der Ort, an dem Johanna von Orléans im Jahr 1431 hingerichtet wurde.",
-      hu: "Rouen, Normandia történelmi fővárosa, a történelem és a művészet városa. Híres pompás gótikus katedrálisáról, amelyet Claude Monet örökített meg egy híres festménysorozatban. Az óváros számos fagerendás házával és macskaköves utcáival egy szabadtéri múzeumra emlékeztet. Rouen az a hely is, ahol 1431-ben kivégezték Jeanne d'Arcot, az orléans-i szüzet.",
-      ro: "Rouen, capitala istorică a Normandiei, este un oraș plin de istorie și artă. Este renumit pentru catedrala sa gotică magnifică, imortalizată de Claude Monet într-o serie celebră de picturi. Orașul vechi, cu numeroasele sale case cu bârne de lemn și străzi pavate, arată ca un muzeu în aer liber. Rouen este și locul unde Ioana d'Arc a fost executată în anul 1431.",
-      en: "Rouen, the historic capital of Normandy, is a city steeped in history and art. It is famous for its magnificent Gothic cathedral, which Claude Monet immortalized in a series of paintings. The old town, with its numerous half-timbered houses and cobblestone streets, feels like an open-air museum. Rouen is also the site where Joan of Arc was executed in 1431."
-    },
-    facts: {
-      de: ["Die Kathedrale von Rouen war zeitweise das höchste Gebäude der Welt.", "Der 'Gros-Horloge' ist eine astronomische Uhr aus dem 14. Jahrhundert.", "Die Stadt wird oft als 'Stadt der hundert Kirchtürme' bezeichnet.", "Johanna von Orléans wurde auf dem Alten Marktplatz verbrannt.", "Rouen ist ein bedeutender Binnenhafen an der Seine.", "Das Musée des Beaux-Arts beherbergt eine wichtige Impressionisten-Sammlung.", "Die Stadt wurde im Zweiten Weltkrieg schwer beschädigt und wiederaufgebaut."],
-      hu: ["A roueni katedrális egy időben a világ legmagasabb épülete volt.", "A 'Gros-Horloge' egy 14. századi csillagászati óra.", "A várost gyakran a 'száz torony városának' nevezik.", "Jeanne d'Arcot a Régi Piactéren égették meg.", "Rouen jelentős folyami kikötő a Szajna partján.", "A Szépművészeti Múzeum jelentős impresszionista gyűjteménnyel rendelkezik.", "A várost a második világháborúban súlyos károk érték, de újjáépítették."],
-      ro: ["Catedrala din Rouen a fost pentru o perioadă cea mai înaltă clădire din lume.", " 'Gros-Horloge' este un ceas astronomic din secolul al XIV-lea.", "Orașul este adesea numit 'Orașul celor o sută de clopotnițe'.", "Ioana d'Arc a fost arsă pe rug în Piața Veche a orașului.", "Rouen este un port fluvial important pe Sena.", "Muzeul de Arte Frumoase găzduiește o colecție importantă de impresioniști.", "Orașul a fost grav avariat în Al Doilea Război Mondial și ulterior reconstruit."],
-      en: ["Rouen Cathedral was the tallest building in the world from 1876 to 1880.", "The 'Gros-Horloge' is a famous 14th-century astronomical clock.", "The city is often called the 'City of a Hundred Spires'.", "Joan of Arc was burned at the stake in the city's Old Market Square.", "Rouen is a major inland port on the Seine River.", "The Museum of Fine Arts houses one of France's most important collections.", "The city's historic center was carefully restored after World War II."]
     },
   },
   {
@@ -1016,26 +801,6 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "fr-montpellier",
-    type: "city",
-    parent: "FR-OCC",
-    coords: [3.8767, 43.6108],
-    name: { de: "Montpellier", hu: "Montpellier", ro: "Montpellier", en: "Montpellier" },
-    image: "/geo-images/france/montpellier.webp",
-    description: {
-      de: "Montpellier im Süden Frankreichs ist eine dynamische Universitätsstadt, die historische Eleganz mit moderner Architektur verbindet. Die mittelalterliche Altstadt, 'L'Écusson' genannt, besticht durch ihre engen Gassen und prächtigen Stadtpaläste. Die Place de la Comédie ist der lebendige Mittelpunkt der Stadt. Montpellier beherbergt eine der ältesten noch aktiven medizinischen Fakultäten der Welt.",
-      hu: "A dél-franciaországi Montpellier egy dinamikus egyetemi város, amely ötvözi a történelmi eleganciát a modern építészettel. A középkori óváros, az 'L'Écusson', szűk utcáival és pompás palotáival varázsolja el a látogatókat. A Place de la Comédie a város lüktető központja. Montpellier-ben található a világ egyik legrégebbi, ma is működő orvosi egyeteme.",
-      ro: "Montpellier, situat în sudul Franței, este un oraș universitar dinamic care îmbină eleganța istorică cu arhitectura modernă. Centrul vechi medieval, numit 'L'Écusson', impresionează prin străduțele sale înguste și palatele superbe. Place de la Comédie este inima vibrantă a orașului. Montpellier găzduiește una dintre cele mai vechi facultăți de medicină încă active din lume.",
-      en: "Montpellier in southern France is a dynamic university city that blends historic elegance with cutting-edge modern architecture. Its medieval center, known as 'L'Écusson', is a maze of narrow streets and grand townhouses. The Place de la Comédie is the city's bustling main square. Montpellier is home to one of the world's oldest medical schools still in operation today."
-    },
-    facts: {
-      de: ["Die Universität Montpellier wurde im Jahr 1289 gegründet.", "Die Stadt besitzt den ältesten botanischen Garten Frankreichs (Jardin des Plantes).", "Das Viertel Antigone wurde vom Architekten Ricardo Bofill im neoklassizistischen Stil entworfen.", "Montpellier liegt nur wenige Kilometer vom Mittelmeer entfernt.", "Die Stadt ist bekannt für ihr modernes Straßenbahnnetz, gestaltet von Christian Lacroix.", "Das Musée Fabre ist eines der bedeutendsten Kunstmuseen Frankreichs.", "Die Stadt hat eine der größten Fußgängerzonen Europas."],
-      hu: ["A Montpellier-i Egyetemet 1289-ben alapították.", "Itt található Franciaország legrégebbi botanikus kertje (Jardin des Plantes).", "Az Antigone negyedet Ricardo Bofill építész tervezte neoklasszicista stílusban.", "Montpellier mindössze néhány kilométerre fekszik a Földközi-tengertől.", "A város híres a Christian Lacroix által tervezett modern villamoshálózatáról.", "A Musée Fabre Franciaország egyik legjelentősebb művészeti múzeuma.", "A város rendelkezik Európa egyik legnagyobb sétálóövezetével."],
-      ro: ["Universitatea din Montpellier a fost fondată în anul 1289.", "Orașul deține cea mai veche grădină botanică din Franța (Jardin des Plantes).", "Cartierul Antigone a fost proiectat de arhitectul Ricardo Bofill în stil neoclasic.", "Montpellier se află la doar câțiva kilometri de Marea Mediterană.", "Orașul este cunoscut pentru rețeaua sa modernă de tramvaie, decorată de Christian Lacroix.", "Muzeul Fabre este unul dintre cele mai importante muzee de artă din Franța.", "Orașul are una dintre cele mai mari zone pietonale din Europa."],
-      en: ["The University of Montpellier was officially founded in 1289.", "It is home to the Jardin des Plantes, the oldest botanical garden in France.", "The Antigone district was designed by architect Ricardo Bofill in a neo-classical style.", "Montpellier is located just a few kilometers from the Mediterranean coast.", "The city's tram system features colorful designs by fashion icon Christian Lacroix.", "The Musée Fabre is one of the most important art museums in France.", "The city boasts one of the largest pedestrianized areas in Europe."]
-    },
-  },
-  {
     id: "chateau-versailles",
     type: "landmark",
     parent: "FR-IDF",
@@ -1053,46 +818,6 @@ export const franceCities: POI[] = [
       hu: ["A Tükörterem a kastély legismertebb helyisége.", "Az együttes 1979 óta az UNESCO világörökség része."],
       ro: ["Sala Oglinzilor este cea mai cunoscută încăpere a palatului.", "Ansamblul face parte din Patrimoniul Mondial UNESCO din 1979."],
       en: ["The Hall of Mirrors is the palace's best-known room.", "The estate has been a UNESCO World Heritage site since 1979."]
-    },
-  },
-  {
-    id: "chateau-chenonceau",
-    type: "historical",
-    parent: "FR-CVL",
-    coords: [1.0708, 47.3245],
-    name: { de: "Schloss Chenonceau", hu: "Chenonceau-i kastely", ro: "Castelul Chenonceau", en: "Chateau de Chenonceau" },
-    image: "/geo-images/france/chateau-chenonceau.webp",
-    description: {
-      de: "Das Schloss Chenonceau überspannt elegant den Fluss Cher und gehört zu den beliebtesten Loire-Schlössern. Die Mischung aus Brücke, Wasser und Renaissance-Architektur macht es unverwechselbar.",
-      hu: "A Chenonceau-i kastely elegánsan ível át a Cher folyó fölött, és a Loire-menti kastélyok egyik legkedveltebbike. A híd, a víz és a reneszánsz építészet keveréke összetéveszthetetlenné teszi.",
-      ro: "Castelul Chenonceau trece elegant peste râul Cher și este unul dintre cele mai iubite castele de pe Valea Loarei. Combinația dintre pod, apă și arhitectura renascentistă îl face inconfundabil.",
-      en: "Chateau de Chenonceau spans the Cher River in an elegant way and is one of the most beloved Loire castles. The mix of bridge, water, and Renaissance architecture makes it unmistakable."
-    },
-    facts: {
-      de: ["Der Bau wurde über den Fluss Cher errichtet.", "Chenonceau ist eines der bekanntesten Loire-Schlösser."],
-      hu: ["Az épület a Cher folyó fölé épült.", "Chenonceau a Loire-menti kastélyok egyik legismertebb példája."],
-      ro: ["Construcția a fost ridicată peste râul Cher.", "Chenonceau este unul dintre cele mai cunoscute castele de pe Loara."],
-      en: ["The structure was built across the Cher River.", "Chenonceau is one of the best-known Loire castles."]
-    },
-  },
-  {
-    id: "chateau-fontainebleau",
-    type: "historical",
-    parent: "FR-IDF",
-    coords: [2.7005, 48.4021],
-    name: { de: "Schloss Fontainebleau", hu: "Fontainebleau-i kastely", ro: "Castelul Fontainebleau", en: "Chateau de Fontainebleau" },
-    image: "/geo-images/france/chateau-fontainebleau.webp",
-    description: {
-      de: "Das Schloss Fontainebleau war über Jahrhunderte eine königliche und kaiserliche Residenz. Es verbindet mittelalterliche, Renaissance- und klassizistische Architektur in einem einzigen großen Ensemble.",
-      hu: "A Fontainebleau-i kastely évszázadokon át királyi és császári rezidenciaként szolgált. Egyetlen nagy együttesként ötvözi a középkori, reneszánsz és klasszicista építészetet.",
-      ro: "Castelul Fontainebleau a fost timp de secole o reședință regală și imperială. Îmbină arhitectura medievală, renascentistă și clasicistă într-un singur ansamblu amplu.",
-      en: "Chateau de Fontainebleau served for centuries as a royal and imperial residence. It blends medieval, Renaissance, and neoclassical architecture into one large complex."
-    },
-    facts: {
-      de: ["Napoleon I. nutzte das Schloss als Residenz.", "Die Anlage gehört zum UNESCO-Welterbe."],
-      hu: ["I. Napóleon is használta a kastélyt rezidenciaként.", "Az együttes az UNESCO világörökség része."],
-      ro: ["Napoleon I a folosit castelul ca reședință.", "Ansamblul face parte din patrimoniul UNESCO."],
-      en: ["Napoleon I used the palace as a residence.", "The estate is part of the UNESCO World Heritage."]
     },
   },
   {
@@ -1116,66 +841,6 @@ export const franceCities: POI[] = [
     },
   },
   {
-    id: "chateau-chambord",
-    type: "landmark",
-    parent: "FR-CVL",
-    coords: [1.5172, 47.6160],
-    name: { de: "Schloss Chambord", hu: "Chambord-i kastely", ro: "Castelul Chambord", en: "Chateau de Chambord" },
-    image: "/geo-images/france/chateau-chambord.webp",
-    description: {
-      de: "Das Schloss Chambord ist das größte und bekannteste Schloss im Loiretal. Seine Renaissance-Architektur und das markante Dach machen es zu einem der ikonischsten Bauwerke Frankreichs.",
-      hu: "A Chambord-i kastely a Loire-völgy legnagyobb és legismertebb kastélya. Reneszánsz építészete és jellegzetes tetőszerkezete Franciaország egyik legikonikusabb épületévé teszi.",
-      ro: "Castelul Chambord este cel mai mare și cel mai cunoscut castel din Valea Loarei. Arhitectura renascentistă și acoperișul său distinctiv îl fac una dintre cele mai iconice clădiri ale Franței.",
-      en: "Chateau de Chambord is the largest and best-known castle in the Loire Valley. Its Renaissance architecture and distinctive roof make it one of France's most iconic buildings."
-    },
-    facts: {
-      de: ["Das Schloss steht seit 1981 auf der UNESCO-Liste.", "Die doppelläufige Wendeltreppe ist sein berühmtestes Detail."],
-      hu: ["A kastély 1981 óta szerepel az UNESCO listáján.", "A híres kettős csigalépcső a legismertebb részlete."],
-      ro: ["Castelul se află pe lista UNESCO din 1981.", "Scara dublă în spirală este cel mai celebru detaliu al său."],
-      en: ["The castle has been on the UNESCO list since 1981.", "Its double-helix staircase is its most famous feature."]
-    },
-  },
-  {
-    id: "chateau-vincennes",
-    type: "historical",
-    parent: "FR-IDF",
-    coords: [2.4380, 48.8430],
-    name: { de: "Schloss Vincennes", hu: "Vincennes-i kastely", ro: "Castelul Vincennes", en: "Chateau de Vincennes" },
-    image: "/geo-images/france/chateau-vincennes.webp",
-    description: {
-      de: "Das Schloss Vincennes ist eine mächtige mittelalterliche Festung am Rand von Paris. Der hohe Donjon und die gotische Kapelle machen die Anlage besonders markant.",
-      hu: "A Vincennes-i kastely egy hatalmas középkori erőd Párizs szélén. A magas donjon és a gótikus kápolna különösen jellegzetessé teszi az együttest.",
-      ro: "Castelul Vincennes este o fortăreață medievală impunătoare la marginea Parisului. Donjonul înalt și capela gotică îi dau un aspect foarte distinct.",
-      en: "Chateau de Vincennes is a powerful medieval fortress on the edge of Paris. Its tall keep and Gothic chapel make the complex especially distinctive."
-    },
-    facts: {
-      de: ["Der Donjon zählt zu den höchsten seiner Art in Europa.", "Die Anlage diente auch als königliche Residenz."],
-      hu: ["A donjon Európa egyik legmagasabb ilyen tornya.", "Az épület királyi rezidenciaként is szolgált."],
-      ro: ["Donjonul este unul dintre cele mai înalte din Europa.", "Ansamblul a servit și ca reședință regală."],
-      en: ["The keep is among the tallest of its kind in Europe.", "The site also served as a royal residence."]
-    },
-  },
-  {
-    id: "lavender-fields-provence",
-    type: "landmark",
-    parent: "FR-PAC",
-    coords: [5.6000, 44.0500],
-    name: { de: "Lavendelfelder der Provence", hu: "Provence-i levendulamezok", ro: "Campuri de lavanda in Provence", en: "Lavender Fields of Provence" },
-    image: "/geo-images/france/lavender-fields-provence.webp",
-    description: {
-      de: "Die Lavendelfelder der Provence sind ein typisches Sommerbild Südfrankreichs. Zwischen Juni und August färben sie ganze Hänge violett und prägen das Landschaftsbild der Region.",
-      hu: "A Provence-i levendulamezők Dél-Franciaország jellegzetes nyári látványát adják. Június és augusztus között egész domboldalakat festenek lilára.",
-      ro: "Câmpurile de lavandă din Provence sunt o imagine de vară tipică sudului Franței. Între iunie și august colorează în mov întreaga zonă colinară.",
-      en: "The lavender fields of Provence are a classic summer image of southern France. Between June and August they turn entire hillsides purple."
-    },
-    facts: {
-      de: ["Die Blütezeit liegt meist im Hochsommer.", "Lavendel ist wichtig für Parfüm und ätherische Öle."],
-      hu: ["A virágzás legtöbbször a nyár közepére esik.", "A levendula fontos a parfüm- és illóolajgyártásban."],
-      ro: ["Perioada de înflorire este de obicei în mijlocul verii.", "Lavanda este importantă pentru parfumuri și uleiuri esențiale."],
-      en: ["Peak bloom is usually in midsummer.", "Lavender is important for perfume and essential oils."]
-    },
-  },
-  {
     id: "calanques-de-cassis",
     type: "landmark",
     parent: "FR-PAC",
@@ -1193,86 +858,6 @@ export const franceCities: POI[] = [
       hu: ["A Calanques Nemzeti Park peremén találhatók.", "Sok öböl csak hajóval vagy gyalog közelíthető meg."],
       ro: ["Se află la marginea Parcului Național Calanques.", "Multe golfuri pot fi atinse doar cu barca sau pe jos."],
       en: ["They sit at the edge of the Calanques National Park.", "Many inlets are accessible only by boat or on foot."]
-    },
-  },
-  {
-    id: "gorges-du-verdon",
-    type: "landmark",
-    parent: "FR-PAC",
-    coords: [6.3560, 43.7560],
-    name: { de: "Verdonschlucht", hu: "Verdon-szoros", ro: "Cheile Verdonului", en: "Gorges du Verdon" },
-    image: "/geo-images/france/gorges-du-verdon.webp",
-    description: {
-      de: "Die Verdonschlucht ist ein tiefer Canyon in der Provence und oft als Grand Canyon Europas bekannt. Das helltürkise Wasser und die Kalksteinwände machen die Landschaft spektakulär.",
-      hu: "A Verdon-szoros egy mély kanyon Provence-ban, amelyet gyakran Európa Grand Canyonjaként emlegetnek. A világos türkiz víz és a mészkőfalak látványos tájat alkotnak.",
-      ro: "Cheile Verdonului sunt un canion adânc din Provence, adesea numit Marele Canion al Europei. Apa turcoaz deschis și pereții de calcar creează un peisaj spectaculos.",
-      en: "The Gorges du Verdon is a deep canyon in Provence, often called the Grand Canyon of Europe. Its pale turquoise water and limestone walls create a spectacular landscape."
-    },
-    facts: {
-      de: ["Die Schlucht ist rund 25 Kilometer lang.", "Sie ist ein beliebtes Ziel für Wandern und Kajakfahren."],
-      hu: ["A szurdok nagyjából 25 kilométer hosszú.", "Népszerű célpont túrázásra és kajakozásra."],
-      ro: ["Cheile au aproximativ 25 de kilometri lungime.", "Sunt o destinație populară pentru drumeții și caiac."],
-      en: ["The gorge is about 25 kilometers long.", "It is a popular destination for hiking and kayaking."]
-    },
-  },
-  {
-    id: "lake-annecy",
-    type: "landmark",
-    parent: "FR-ARA",
-    coords: [6.1250, 45.9000],
-    name: { de: "Annecy-See", hu: "Annecy-tó", ro: "Lacul Annecy", en: "Lake Annecy" },
-    image: "/geo-images/france/lake-annecy.webp",
-    description: {
-      de: "Der Annecy-See liegt zwischen Bergen in den Alpen und ist für sein klares Wasser bekannt. Er gehört zu den schönsten Seen Frankreichs und ist ein beliebtes Ziel für Sommerurlaub und Wassersport.",
-      hu: "Az Annecy-tó az Alpok hegyei között fekszik, és tiszta vizéről ismert. Franciaország egyik legszebb tava, nyáron és vízi sportokhoz is kedvelt célpont.",
-      ro: "Lacul Annecy se află între munți, în Alpi, și este cunoscut pentru apa sa limpede. Este unul dintre cele mai frumoase lacuri din Franța și o destinație populară de vară.",
-      en: "Lake Annecy sits among the Alps and is known for its clear water. It is one of France's most beautiful lakes and a popular summer and watersports destination."
-    },
-    facts: {
-      de: ["Der See zählt zu den saubersten in Europa.", "Am Ufer liegt die Stadt Annecy, das 'Venedig der Alpen'."],
-      hu: ["A tó Európa legtisztábbjai közé tartozik.", "Partján fekszik Annecy, az 'Alpok Velencéje'."],
-      ro: ["Lacul este printre cele mai curate din Europa.", "Pe mal se află Annecy, 'Veneția Alpilor'."],
-      en: ["The lake is among the cleanest in Europe.", "The city of Annecy, the 'Venice of the Alps', lies on its shore."]
-    },
-  },
-  {
-    id: "camargue",
-    type: "landmark",
-    parent: "FR-PAC",
-    coords: [4.4300, 43.5400],
-    name: { de: "Camargue", hu: "Camargue", ro: "Camargue", en: "Camargue" },
-    image: "/geo-images/france/camargue.webp",
-    description: {
-      de: "Die Camargue ist ein weites Feuchtgebiet im Rhonedelta in Südfrankreich. Weiße Pferde, schwarze Stiere und Flamingos prägen das Bild dieser besonderen Naturlandschaft.",
-      hu: "A Camargue egy hatalmas vizes élőhely a Rhône-deltában, Dél-Franciaországban. Fehér lovak, fekete bikák és flamingók adják e különleges táj arculatát.",
-      ro: "Camargue este o vastă zonă umedă din delta Ronului, în sudul Franței. Caii albi, taurii negri și flamingii dau identitatea acestui peisaj special.",
-      en: "Camargue is a vast wetland in the Rhône delta in southern France. White horses, black bulls, and flamingos define this distinctive natural landscape."
-    },
-    facts: {
-      de: ["Die Region ist ein bedeutendes Vogelparadies.", "Salzgewinnung ist hier traditionell wichtig."],
-      hu: ["A vidék fontos madárparadicsom.", "A sótermelés itt hagyományosan jelentős."],
-      ro: ["Regiunea este un paradis important pentru păsări.", "Producția de sare are aici o tradiție puternică."],
-      en: ["The region is a major bird paradise.", "Salt production has long been important here."]
-    },
-  },
-  {
-    id: "corsica-gr20",
-    type: "mountain",
-    parent: "FR-COR",
-    coords: [9.0000, 42.0000],
-    name: { de: "GR20 auf Korsika", hu: "Korzika GR20", ro: "GR20 din Corsica", en: "Corsica GR20" },
-    image: "/geo-images/france/corsica-gr20.webp",
-    description: {
-      de: "Der GR20 ist der berühmteste Fernwanderweg Korsikas und einer der anspruchsvollsten in Europa. Er führt durch ein wildes Hochgebirge und bietet starke Kontraste zwischen Fels, Wald und Meer.",
-      hu: "A GR20 Korzika leghíresebb hosszú távú túraútvonala és Európa egyik legnehezebb túrája. Vad magashegyi tájon vezet át, erős kontrasztot mutatva szikla, erdő és tenger között.",
-      ro: "GR20 este cel mai faimos traseu de lungă distanță din Corsica și unul dintre cele mai dificile din Europa. Traversează munți sălbatici și oferă contraste puternice între stâncă, pădure și mare.",
-      en: "The GR20 is Corsica's most famous long-distance trail and one of the hardest in Europe. It crosses wild high mountains and offers strong contrasts between rock, forest, and sea."
-    },
-    facts: {
-      de: ["Die Route wird meist in 16 Etappen begangen.", "Der Weg ist für sehr erfahrene Wanderer gedacht."],
-      hu: ["Az útvonalat általában 16 szakaszra bontják.", "A túra kifejezetten tapasztalt túrázóknak való."],
-      ro: ["Traseul este parcurs de obicei în 16 etape.", "Este destinat în special drumeților foarte experimentați."],
-      en: ["The route is usually split into 16 stages.", "It is intended for very experienced hikers."]
     },
   },
   {

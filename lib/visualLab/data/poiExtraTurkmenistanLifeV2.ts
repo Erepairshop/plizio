@@ -6,302 +6,539 @@ export const poiExtraTurkmenistanLifeV2: POI[] = [
     type: "park",
     parent: "TM-S",
     coords: [58.3585, 37.9366],
-    name: { de: "Botanischer Garten Aschgabat", hu: "Aşgabati Botanikus Kert", ro: "Grădina Botanică din Așgabat", en: "Ashgabat Botanical Garden",
-image: "/poi-images/tm-ashgabat-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Aschgabat", hu: "Aşgabati Botanikus Kert", ro: "Grădina Botanică din Așgabat", en: "Ashgabat Botanical Garden"},
+    image: "/poi-images/tm-ashgabat-botanical-garden-life-v2.webp",
     description: { de: "Der älteste botanische Garten in Turkmenistan mit einer reichen Sammlung an Wüstenpflanzen.", hu: "Türkmenisztán legrégebbi botanikus kertje, gazdag sivatagi növénygyűjteménnyel.", ro: "Cea mai veche grădină botanică din Turkmenistan cu o bogată colecție de plante de deșert.", en: "The oldest botanical garden in Turkmenistan with a rich collection of desert plants." },
     facts: {
       de: ["Gegründet im Jahr 1929.", "Beherbergt über 500 Pflanzenarten."],
       hu: ["1929-ben alapították.", "Több mint 500 növényfajnak ad otthont."],
       ro: ["Fondată în anul 1929.", "Găzduiește peste 500 de specii de plante."],
       en: ["Founded in the year 1929.", "Home to over 500 plant species."]
-    }, image: "/poi-images/tm-ashgabat-botanical-garden-life-v2.webp"},
+    }, image: "/poi-images/tm-ashgabat-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Aschgabat wurde 1929 gegründet und erstreckt sich über eine Fläche von etwa 18 Hektar. Er dient der Erhaltung und Erforschung der Flora Turkmenistans, insbesondere von Wüstenpflanzen. Der Garten beherbergt über 1.500 Pflanzenarten, darunter seltene endemische Arten. Es gibt Gewächshäuser, in denen tropische Pflanzen kultiviert werden. Der Garten ist auch ein beliebtes Erholungsgebiet für die Bewohner der Stadt. Er liegt im Norden von Aschgabat und wird vom Institut für Botanik des Landes verwaltet.",
+      hu: "Az asgabati Botanikus Kertet 1929-ben alapították, területe 18 hektár. Fő célja a türkmén flóra, különösen a sivatagi növények megőrzése és kutatása. A kertben több mint 1 500 növényfaj található, köztük ritka endemikus fajok. Üvegházakban trópusi növényeket is gondoznak. A kert népszerű pihenőhely a helyiek körében. Asgabat északi részén található, az ország Botanikai Intézete működteti.",
+      ro: "Grădina Botanică din Așgabat a fost fondată în 1929 și se întinde pe 18 hectare. Scopul său este conservarea și studiul florei turkmene, în special a plantelor de deșert. Adăpostește peste 1.500 de specii de plante, inclusiv endemice rare. Există sere pentru plante tropicale. Este un loc de recreere popular. Grădina este administrată de Institutul de Botanică al Turkmenistanului.",
+      en: "The Ashgabat Botanical Garden, founded in 1929, covers 18 hectares. It focuses on preserving Turkmenistan's flora, especially desert-adapted species. The garden contains over 1,500 plant species, including rare endemics. Greenhouses house tropical plants. It serves as both a research facility and a public park. Located in northern Ashgabat, it is managed by the National Institute of Botany.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1929", "Fläche: 18 Hektar", "Anzahl der Pflanzenarten: über 1.500", "Anzahl der endemischen Arten: etwa 50", "Gewächshausfläche: 1.500 Quadratmeter", "Jährliche Besucherzahl: rund 50.000"],
+      hu: ["Alapítás éve: 1929", "Terület: 18 hektár", "Növényfajok száma: több mint 1 500", "Endemikus fajok: 50", "Üvegház területe: 1 500 négyzetméter", "Éves látogatottság: 50 000"],
+      ro: ["An fondare: 1929", "Suprafață: 18 hectare", "Specii de plante: peste 1.500", "Specii endemice: aproximativ 50", "Suprafața serelor: 1.500 m²", "Vizitatori anual: 50.000"],
+      en: ["Founded: 1929", "Area: 18 hectares", "Plant species: over 1,500", "Endemic species: about 50", "Greenhouse area: 1,500 m²", "Annual visitors: 50,000"],
+    },
+  },
   {
     id: "tm-ashgabat-zoo-life-v2",
     type: "kid-friendly",
     parent: "TM-S",
     coords: [58.3312, 37.9893],
-    name: { de: "Nationaler Zoo von Turkmenistan", hu: "Türkmenisztáni Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Turkmenistan", en: "National Zoo of Turkmenistan",
-image: "/poi-images/tm-ashgabat-zoo-life-v2.webp"
-},
+    name: { de: "Nationaler Zoo von Turkmenistan", hu: "Türkmenisztáni Nemzeti Állatkert", ro: "Grădina Zoologică Națională din Turkmenistan", en: "National Zoo of Turkmenistan"},
+    image: "/poi-images/tm-ashgabat-zoo-life-v2.webp",
     description: { de: "Ein moderner Tierpark in Aschgabat, der viele lokale und exotische Tierarten schützt.", hu: "Modern állatkert Aşgabatban, amely számos helyi és egzotikus fajt véd.", ro: "O grădină zoologică modernă în Așgabat, care protejează multe specii locale și exotice.", en: "A modern zoo in Ashgabat protecting many local and exotic animal species." },
     facts: {
       de: ["Der Zoo umfasst eine Fläche von 40 Hektar.", "Er wurde im Jahr 2010 eröffnet."],
       hu: ["Az állatkert 40 hektáron terül el.", "2010-ben nyitotta meg kapuit."],
       ro: ["Grădina zoologică acoperă o suprafață de 40 de hectare.", "A fost deschisă în anul 2010."],
       en: ["The zoo covers an area of 40 hectares.", "It was opened in the year 2010."]
-    }, image: "/poi-images/tm-ashgabat-zoo-life-v2.webp"},
+    }, image: "/poi-images/tm-ashgabat-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nationalzoo von Turkmenistan wurde 2010 eröffnet und liegt am Rande von Aschgabat. Er erstreckt sich über eine Fläche von 40 Hektar und beherbergt mehr als 400 Tierarten aus aller Welt. Besonders hervorzuheben sind die seltenen asiatischen Wildesel und die turkmenischen Kropfgazellen. Der Zoo ist in verschiedene Themenbereiche unterteilt, darunter eine afrikanische Savanne und eine asiatische Steppe. Es gibt auch ein Aquarium mit einheimischen und exotischen Fischen. Der Zoo wurde nach internationalen Standards gestaltet und legt Wert auf artgerechte Haltung.",
+      hu: "Türkmenisztán Nemzeti Állatkertje 2010-ben nyílt meg Asgabat külvárosában. Területe 40 hektár, több mint 400 állatfaj otthona. Különleges állatai a turkmén kropgazella és az ázsiai vadszamár. Az állatkert tematikus részekre oszlik, mint afrikai szavanna és ázsiai sztyeppe. Akváriuma helyi és trópusi halakat mutat be. Nemzetközi szabványok szerint épült, nagy hangsúlyt fektet az állatjólétre.",
+      ro: "Grădina Zoologică Națională din Turkmenistan a fost deschisă în 2010 la periferia Așgabatului. Se întinde pe 40 de hectare și adăpostește peste 400 de specii de animale. Remarcabile sunt onagrul asiatic și gazela gușă neagre turkmenă. Parcul are secțiuni tematice: savană africană, stepă asiatică. Include și un acvariu. Amenajat conform standardelor internaționale, pune accent pe bunăstarea animalelor.",
+      en: "Turkmenistan's National Zoo opened in 2010 on the outskirts of Ashgabat. It covers 40 hectares and houses over 400 animal species. Highlights include the Asian wild ass and Turkmen goitered gazelle. The zoo features themed zones: African savanna, Asian steppe, and a tropical house. An aquarium displays native and exotic fish. Designed to international standards, it emphasizes conservation and animal welfare.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2010", "Fläche: 40 Hektar", "Tierarten: über 400", "Anzahl der Tiere: rund 5.000", "Afrikanische Savanne: 5 Hektar", "Aquarium mit 100 Fischarten"],
+      hu: ["Megnyitás: 2010", "Terület: 40 hektár", "Állatfajok: több mint 400", "Állatok száma: 5 000", "Afrikai szavanna: 5 hektár", "Akvárium: 100 halfaj"],
+      ro: ["Deschis în 2010", "Suprafață: 40 de hectare", "Specii de animale: peste 400", "Număr de animale: 5.000", "Savana africană: 5 hectare", "Acvariu: 100 de specii de pești"],
+      en: ["Opened in 2010", "Area: 40 hectares", "Animal species: over 400", "Number of animals: 5,000", "African savanna zone: 5 hectares", "Aquarium with 100 fish species"],
+    },
+  },
   {
     id: "tm-akhal-teke-stud-farm-life-v2",
     type: "agriculture",
     parent: "TM-A",
     coords: [58.2678, 37.9545],
-    name: { de: "Achal-Tekkiner-Gestüt", hu: "Akhal-teke Ménesbirtok", ro: "Herghelia Akhal-Teke", en: "Akhal-Teke Stud Farm",
-image: "/poi-images/tm-akhal-teke-stud-farm-life-v2.webp"
-},
+    name: { de: "Achal-Tekkiner-Gestüt", hu: "Akhal-teke Ménesbirtok", ro: "Herghelia Akhal-Teke", en: "Akhal-Teke Stud Farm"},
+    image: "/poi-images/tm-akhal-teke-stud-farm-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Einrichtung zur Zucht der berühmten turkmenischen Achal-Tekkiner-Pferde.", hu: "Mezőgazdasági létesítmény a híres türkmén akhal-teke lovak tenyésztésére.", ro: "O fermă agricolă pentru creșterea faimoșilor cai turkmeni Akhal-Teke.", en: "An agricultural facility for breeding the famous Turkmen Akhal-Teke horses." },
     facts: {
       de: ["Diese Pferderasse ist für ihre Ausdauer bekannt.", "Die Pferde haben oft ein metallisch glänzendes Fell."],
       hu: ["Ez a lófajta a kitartásáról híres.", "A lovak szőre gyakran fémesen csillogó."],
       ro: ["Această rasă de cai este cunoscută pentru rezistența sa.", "Caii au adesea o blană cu luciu metalic."],
       en: ["This horse breed is known for its endurance.", "The horses often have a metallic shining coat."]
-    }, image: "/poi-images/tm-akhal-teke-stud-farm-life-v2.webp"},
+    }, image: "/poi-images/tm-akhal-teke-stud-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Akhal-Teke-Gestüte in der Nähe von Aschgabat züchten die berühmten turkmenischen Pferde, die für ihre Ausdauer und ihr glänzendes Fell bekannt sind. Die Rasse ist über 3.000 Jahre alt und gilt als eine der ältesten Pferderassen der Welt. Die Gestüte bieten Führungen an, bei denen Besucher die Pferde in ihren Boxen und auf den Weiden sehen können. Der Akhal-Teke wird auch als „Goldpferd“ bezeichnet. Die Pferde werden für Rennen und Reitturniere trainiert. Die Gestüte sind ein wichtiger Teil der turkmenischen Kultur.",
+      hu: "Az Akhal-Teke ménesek Asgabat közelében tenyésztik a híres türkmén lovakat, amelyek kitartásukról és csillogó szőrükről ismertek. A fajta több mint 3 000 éves, a világ egyik legrégebbről. A ménesekben vezetett túrák keretében megtekinthetők a lovak. Az Akhal-Teke „aranylónak” is nevezik. A lovakat versenyekre és lovas bemutatókra képzik. A ménesek a türkmén kultúra fontos részét képezik.",
+      ro: "Herasamentele Akhal-Teke din apropierea Așgabatului cresc renumiții cai turkmeni, cunoscuți pentru rezistență și blană strălucitoare. Rasa are peste 3.000 de ani. Vizitatorii pot vedea caii în boxe și pe pășuni. Akhal-Teke este numit și „cal de aur”. Caii sunt dresați pentru curse și spectacole ecvestre. Herasamentele sunt un simbol al culturii turkmene.",
+      en: "Akhal-Teke stud farms near Ashgabat breed the legendary Turkmen horses, known for their endurance and metallic sheen. The breed is over 3,000 years old, one of the world's oldest. Farms offer tours to see the horses in stables and pastures. The Akhal-Teke is called the 'golden horse'. Used for racing and shows, these horses are a national pride.",
+    },
+    factsAdvanced: {
+      de: ["Rassealter: über 3.000 Jahre", "Widerristhöhe: 150-160 cm", "Geschwindigkeitsrekord: 2:41,8 Minuten für 1,5 Meilen", "Anzahl der Pferde in Turkmenistan: etwa 10.000", "Besondere Eigenschaft: metallischer Glanz des Fells", "Nationales Symbol auf dem Wappen Turkmenistans abgebildet"],
+      hu: ["Fajta kora: több mint 3 000 év", "Marmagasság: 150-160 cm", "Sebességrekord: 1,5 mérföld 2:41,8 alatt", "Lovak száma Türkmenisztánban: 10 000", "Ször jellegzetessége: fémes csillogás", "A türkmén címeren is szerepel"],
+      ro: ["Vechimea rasei: peste 3.000 de ani", "Înălțimea la greabăn: 150-160 cm", "Record de viteză: 2:41,8 minute la 1,5 mile", "Număr de cai în Turkmenistan: aproximativ 10.000", "Blană cu luciu metalic", "Reprezentat pe stema Turkmenistanului"],
+      en: ["Breed age: over 3,000 years", "Height at withers: 150-160 cm", "Speed record: 2:41.8 minutes for 1.5 miles", "Number in Turkmenistan: about 10,000", "Noted for metallic sheen of coat", "Featured on Turkmenistan's coat of arms"],
+    },
+  },
   {
     id: "tm-gokdere-gorge-life-v2",
     type: "wildlife-area",
     parent: "TM-A",
     coords: [58.1147, 37.8931],
-    name: { de: "Gökdere-Schlucht", hu: "Gökdere-szurdok", ro: "Cheile Gökdere", en: "Gökdere Gorge",
-image: "/poi-images/tm-gokdere-gorge-life-v2.webp"
-},
+    name: { de: "Gökdere-Schlucht", hu: "Gökdere-szurdok", ro: "Cheile Gökdere", en: "Gökdere Gorge"},
+    image: "/poi-images/tm-gokdere-gorge-life-v2.webp",
     description: { de: "Ein malerisches Naturgebiet in der Nähe von Aschgabat, das reich an einheimischer Flora und Fauna ist.", hu: "Festői természeti terület Aşgabat közelében, amely gazdag a helyi növény- és állatvilágban.", ro: "O zonă naturală pitorească lângă Așgabat, bogată în floră și faună nativă.", en: "A picturesque natural area near Ashgabat, rich in native flora and fauna." },
     facts: {
       de: ["Ein beliebtes Ziel für Wanderer.", "Es gibt hier viele traditionelle turkmenische Kinderferienlager."],
       hu: ["Népszerű célpont a túrázók körében.", "Számos hagyományos türkmén gyermektábor található itt."],
       ro: ["O destinație populară pentru drumeții.", "Aici se află multe tabere tradiționale turkmene pentru copii."],
       en: ["A popular destination for hikers.", "Many traditional Turkmen children summer camps are located here."]
-    }, image: "/poi-images/tm-gokdere-gorge-life-v2.webp"},
+    }, image: "/poi-images/tm-gokdere-gorge-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gökdere-Schlucht liegt im Kopet-Dag-Gebirge, etwa 30 Kilometer südlich von Aschgabat. Sie ist ein beliebtes Ausflugsziel für Wanderer und Naturliebhaber. Die Schlucht ist bis zu 300 Meter tief und erstreckt sich über mehrere Kilometer. Die Vegetation besteht aus Wacholderbäumen, wilden Granatäpfeln und Pistazien. In den Felsen nisten Greifvögel wie der Bartgeier. Der Fluss Gökdere fließt durch die Schlucht und bildet kleine Wasserfälle. Die Gegend ist bekannt für ihre reiche Vogelwelt.",
+      hu: "A Gökdere-szurdok a Kopet-dag hegységben található, Asgabattól 30 km-re délre. Népszerű túraútvonal. A szurdok mélysége eléri a 300 métert, hossza több kilométer. Növényzete boróka, vadgránátalma és pisztácia. Szikláin ragadozómadarak, például szakállas keselyű fészkel. A Gökdere folyó vízeséseket alkot. Gazdag madárvilág jellemzi.",
+      ro: "Cheile Gökdere din munții Kopet Dag, la 30 km sud de Așgabat, sunt o destinație populară pentru drumeții. Cheile au până la 300 m adâncime și se întind pe câțiva kilometri. Vegetația include ienupăr, rodii sălbatice și fistic. Păsări de pradă precum vulturul bărbos cuibăresc pe stânci. Râul Gökdere formează cascade mici. Zona este cunoscută pentru biodiversitatea aviară.",
+      en: "Gökdere Gorge in the Kopet Dag Mountains, 30 km south of Ashgabat, is a hiking destination. The gorge reaches 300 m depth and extends several kilometers. Vegetation includes juniper, wild pomegranate, and pistachio. Birds of prey like the bearded vulture nest on cliffs. The Gökdere River creates small waterfalls. It is a hotspot for birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe der Schlucht: bis zu 300 Meter", "Länge: etwa 5 Kilometer", "Höchster Wasserfall: 15 Meter", "Entfernung von Aschgabat: 30 Kilometer", "Anzahl der Vogelarten: über 100", "Höchster Gipfel in der Nähe: 2.500 Meter"],
+      hu: ["Szurdok mélysége: 300 méter", "Hossza: 5 km", "Legmagasabb vízesés: 15 méter", "Távolság Asgabattól: 30 km", "Madárfajok száma: több mint 100", "Legközelebbi csúcs: 2 500 m"],
+      ro: ["Adâncime: până la 300 de metri", "Lungime: aproximativ 5 km", "Cea mai mare cascadă: 15 m", "Distanța față de Așgabat: 30 km", "Specii de păsări: peste 100", "Cel mai apropiat vârf: 2.500 m"],
+      en: ["Gorge depth: up to 300 meters", "Length: about 5 km", "Highest waterfall: 15 meters", "Distance from Ashgabat: 30 km", "Bird species: over 100", "Nearby peak height: 2,500 m"],
+    },
+  },
   {
     id: "tm-ashgabat-park-10-years-life-v2",
     type: "park",
     parent: "TM-S",
     coords: [58.3751, 37.9000],
-    name: { de: "Park der 10 Jahre Unabhängigkeit", hu: "A Függetlenség 10 Éve Park", ro: "Parcul a 10 Ani de Independență", en: "10 Years of Independence Park",
-image: "/poi-images/tm-ashgabat-park-10-years-life-v2.webp"
-},
+    name: { de: "Park der 10 Jahre Unabhängigkeit", hu: "A Függetlenség 10 Éve Park", ro: "Parcul a 10 Ani de Independență", en: "10 Years of Independence Park"},
+    image: "/poi-images/tm-ashgabat-park-10-years-life-v2.webp",
     description: { de: "Ein weitläufiger Park in Aschgabat mit Springbrunnen und zahlreichen Denkmälern.", hu: "Kiterjedt park Aşgabatban, szökőkutakkal és számos emlékművel.", ro: "Un parc vast în Așgabat, cu fântâni și numeroase monumente.", en: "An expansive park in Ashgabat featuring fountains and numerous monuments." },
     facts: {
       de: ["Er ist einer der größten Parks der Hauptstadt.", "Der Park ist für seine gepflegten Grünflächen bekannt."],
       hu: ["Ez a főváros egyik legnagyobb parkja.", "A park a gondozott zöldterületeiről híres."],
       ro: ["Este unul dintre cele mai mari parcuri din capitală.", "Parcul este cunoscut pentru spațiile sale verzi îngrijite."],
       en: ["It is one of the largest parks in the capital.", "The park is known for its well-maintained green spaces."]
-    }, image: "/poi-images/tm-ashgabat-park-10-years-life-v2.webp"},
+    }, image: "/poi-images/tm-ashgabat-park-10-years-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der „10 Jahre Unabhängigkeit“-Park in Aschgabat wurde 2001 eröffnet und erinnert an das erste Jahrzehnt der turkmenischen Unabhängigkeit. Er erstreckt sich über 14 Hektar und bietet Grünflächen, Springbrunnen und Spazierwege. Im Park befinden sich das Denkmal der Verfassung und eine große Uhr. Der Park ist ein beliebter Treffpunkt für Familien und Jugendliche. Abends wird die Parkanlage mit farbigem Licht illuminiert. Es gibt auch ein kleines Amphitheater für Veranstaltungen.",
+      hu: "A „Függetlenség 10 éve” park Asgabatban 2001-ben nyílt meg, a függetlenség első évtizedének emlékére. Területe 14 hektár, zöldterületekkel, szökőkutakkal és sétányokkal. Itt található az Alkotmány emlékműve és egy nagy óra. A park népszerű családi és fiatalok körében. Esténként színes világítás díszíti. Kis amfiteátruma rendezvényeknek ad otthont.",
+      ro: "Parcul „10 Ani de Independență” din Așgabat a fost deschis în 2001, comemorând primul deceniu de independență. Se întinde pe 14 hectare, cu spații verzi, fântâni și alei. Aici se află Monumentul Constituției și un ceas mare. Parcul este popular pentru familii și tineri. Noaptea este iluminat colorat. Un mic amfiteatru găzduiește evenimente.",
+      en: "The 10 Years of Independence Park in Ashgabat opened in 2001, celebrating Turkmenistan's first decade of independence. It covers 14 hectares, featuring lawns, fountains, and walkways. Landmarks include the Constitution Monument and a large clock. It's a popular family spot. Evenings see colorful lighting. A small amphitheater hosts events.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2001", "Fläche: 14 Hektar", "Höhe des Verfassungsdenkmals: 27 Meter", "Durchmesser der Parkuhr: 5 Meter", "Anzahl der Springbrunnen: 12", "Amphitheater-Kapazität: 500 Sitzplätze"],
+      hu: ["Megnyitás: 2001", "Terület: 14 hektár", "Alkotmány emlékmű magassága: 27 méter", "Óra átmérője: 5 méter", "Szökőkutak száma: 12", "Amfiteátrum férőhelye: 500"],
+      ro: ["Deschis în 2001", "Suprafață: 14 hectare", "Înălțime Monument Constituție: 27 m", "Diametrul ceasului: 5 m", "Număr fântâni: 12", "Capacitate amfiteatru: 500 de locuri"],
+      en: ["Opened in 2001", "Area: 14 hectares", "Constitution Monument height: 27 m", "Clock diameter: 5 m", "Number of fountains: 12", "Amphitheater capacity: 500 seats"],
+    },
+  },
   {
     id: "tm-mary-cotton-fields-life-v2",
     type: "agriculture",
     parent: "TM-M",
     coords: [61.8330, 37.6001],
-    name: { de: "Baumwollfelder von Mary", hu: "Mary Pamutmezők", ro: "Câmpurile de Bumbac din Mary", en: "Mary Cotton Fields",
-image: "/poi-images/tm-mary-cotton-fields-life-v2.webp"
-},
+    name: { de: "Baumwollfelder von Mary", hu: "Mary Pamutmezők", ro: "Câmpurile de Bumbac din Mary", en: "Mary Cotton Fields"},
+    image: "/poi-images/tm-mary-cotton-fields-life-v2.webp",
     description: { de: "Ausgedehnte landwirtschaftliche Flächen in der Region Mary, die für die Baumwollproduktion entscheidend sind.", hu: "Kiterjedt mezőgazdasági területek Mary régióban, amelyek kulcsfontosságúak a pamuttermelésben.", ro: "Terenuri agricole extinse în regiunea Mary, cruciale pentru producția de bumbac.", en: "Extensive agricultural lands in the Mary region crucial for cotton production." },
     facts: {
       de: ["Baumwolle ist eines der wichtigsten Exportgüter Turkmenistans.", "Die Ernte findet traditionell im Herbst statt."],
       hu: ["A pamut Türkmenisztán egyik legfontosabb exportcikke.", "A betakarítás hagyományosan ősszel történik."],
       ro: ["Bumbacul este unul dintre cele mai importante exporturi ale Turkmenistanului.", "Recoltarea are loc tradițional toamna."],
       en: ["Cotton is one of Turkmenistan most important exports.", "Harvesting traditionally takes place in the autumn."]
-    }, image: "/poi-images/tm-mary-cotton-fields-life-v2.webp"},
+    }, image: "/poi-images/tm-mary-cotton-fields-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Baumwollfelder in der Region Mary sind ein zentraler Bestandteil der turkmenischen Landwirtschaft. Turkmenistan ist einer der größten Baumwollproduzenten Zentralasiens. Die Felder erstrecken sich über Tausende von Hektar in der Mary-Oase, die durch den Murgab-Fluss bewässert wird. Die Baumwollernte findet im Herbst statt, oft unter Einsatz von Saisonarbeitern. Die Produktion wird größtenteils exportiert. Die Felder sind von Kanälen durchzogen, die das Wasser aus dem Fluss leiten.",
+      hu: "A Mary régió gyapotföldjei Türkmenisztán mezőgazdaságának alapját képezik. Az ország Közép-Ázsia egyik legnagyobb gyapottermelője. A mezők a Mary-oázisban, a Murgab folyó öntözésével több ezer hektáron terülnek el. A betakarítás ősszel történik, idénymunkásokkal. A termés nagy része exportra kerül. A földeket csatornahálózat öntözi.",
+      ro: "Câmpurile de bumbac din regiunea Mary sunt esențiale pentru agricultura Turkmenistanului, unul dintre cei mai mari producători de bumbac din Asia Centrală. Câmpurile se întind pe mii de hectare în oaza Mary, irigate de râul Murgab. Recoltarea are loc toamna, cu muncitori sezonieri. Majoritatea producției este exportată. Canalele de irigație aduc apă de la râu.",
+      en: "Cotton fields in the Mary region form the backbone of Turkmenistan's agriculture, a top Central Asian cotton producer. Fields span thousands of hectares in the Mary oasis, irrigated by the Murghab River. Harvest occurs in autumn, employing seasonal workers. Most yield is exported. A network of canals provides irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Baumwollproduktion: rund 300.000 Tonnen", "Anbaufläche in der Region Mary: über 100.000 Hektar", "Bewässerungskanäle: insgesamt 1.200 Kilometer", "Erntezeit: September bis November", "Wichtigste Sorte: Gossypium hirsutum", "Exportanteil: etwa 90 Prozent der Produktion"],
+      hu: ["Éves gyapottermelés: 300 000 tonna", "Termőterület Mary régióban: 100 000 hektár", "Öntözőcsatornák hossza: 1 200 km", "Betakarítás: szeptember-november", "Fő fajta: Gossypium hirsutum", "Export aránya: 90%"],
+      ro: ["Producție anuală de bumbac: 300.000 de tone", "Suprafață cultivată în Mary: peste 100.000 ha", "Canale de irigație: 1.200 km", "Recoltare: septembrie-noiembrie", "Soi principal: Gossypium hirsutum", "Export: 90% din producție"],
+      en: ["Annual cotton production: 300,000 tonnes", "Cultivated area in Mary: over 100,000 ha", "Irrigation canals: 1,200 km", "Harvest: September to November", "Main variety: Gossypium hirsutum", "Export share: 90% of production"],
+    },
+  },
   {
     id: "tm-amudarya-wetlands-life-v2",
     type: "wildlife-area",
     parent: "TM-L",
     coords: [63.5667, 39.1167],
-    name: { de: "Amudarja-Feuchtgebiete", hu: "Amu-darja Vizesélőhelyek", ro: "Zonele Umede Amu Daria", en: "Amu Darya Wetlands",
-image: "/poi-images/tm-amudarya-wetlands-life-v2.webp"
-},
+    name: { de: "Amudarja-Feuchtgebiete", hu: "Amu-darja Vizesélőhelyek", ro: "Zonele Umede Amu Daria", en: "Amu Darya Wetlands"},
+    image: "/poi-images/tm-amudarya-wetlands-life-v2.webp",
     description: { de: "Wichtige Lebensräume für Wasservögel und Fische entlang des großen Flusses in Ostturkmenistan.", hu: "Fontos élőhelyek a vízimadarak és halak számára a kelet-türkmén nagy folyó mentén.", ro: "Habitate importante pentru păsările de apă și pești de-a lungul marelui râu din estul Turkmenistanului.", en: "Important habitats for waterfowl and fish along the major river in eastern Turkmenistan." },
     facts: {
       de: ["Diese Gebiete sind essentiell für Zugvögel.", "Der Fluss prägt die gesamte Ökologie der Region."],
       hu: ["Ezek a területek létfontosságúak a vándormadarak számára.", "A folyó határozza meg a régió teljes ökológiáját."],
       ro: ["Aceste zone sunt esențiale pentru păsările migratoare.", "Râul definește întreaga ecologie a regiunii."],
       en: ["These areas are essential for migratory birds.", "The river defines the entire ecology of the region."]
-    }, image: "/poi-images/tm-amudarya-wetlands-life-v2.webp"},
+    }, image: "/poi-images/tm-amudarya-wetlands-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Amudarja-Feuchtgebiete erstrecken sich entlang des Unterlaufs des Flusses Amudarja im Osten Turkmenistans. Sie sind ein wichtiger Rastplatz für Zugvögel auf der zentralasiatisch-indischen Zugroute. Die Feuchtgebiete umfassen Sümpfe, Schilfgürtel und flache Seen. Hier leben zahlreiche Vogelarten wie Flamingos, Pelikane und Enten. Die Region ist auch für Fischerei bekannt. Der Wasserstand variiert saisonal stark. Die Feuchtgebiete sind teilweise als Ramsar-Gebiet geschützt.",
+      hu: "Az Amudarja vizes élőhelyek Türkmenisztán keleti részén, a folyó alsó szakaszán terülnek el. Fontos pihenőhely a közép-ázsiai-indiai madárvonulási útvonalon. Mocsarak, nádasok és sekély tavak alkotják. Flamingók, pelikánok és kacsák élnek itt. A terület halászati szempontból is jelentős. A vízszint évszakosan változik. Részben Ramsari terület.",
+      ro: "Zonele umede ale Amudariei se întind de-a lungul cursului inferior al râului în estul Turkmenistanului. Sunt un loc important de popas pentru păsările migratoare pe ruta Asia Centrală-India. Cuprind mlaștini, stufărișuri și lacuri puțin adânci. Găzduiesc flamingo, pelicani și rațe. Zona este folosită și pentru pescuit. Nivelul apei variază sezonier. Parțial protejată ca sit Ramsar.",
+      en: "The Amu Darya wetlands along the lower river in eastern Turkmenistan are a key stopover for migratory birds on the Central Asian-Indian flyway. They consist of marshes, reed beds, and shallow lakes. Species include flamingo, pelican, and ducks. Fishing is also practiced. Water levels fluctuate seasonally. The area is partly a Ramsar site.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Feuchtgebiete: etwa 1.200 Quadratkilometer", "Länge entlang des Flusses: 150 Kilometer", "Anzahl der Vogelarten: über 250", "Bedeutendste Zugvogelart: der Krauskopfpelikan (Pelecanus crispus)", "Ramsar-Gebiet seit 2009", "Durchschnittliche Wassertiefe: 1-3 Meter"],
+      hu: ["Vizes élőhelyek területe: 1 200 km²", "Hossza a folyó mentén: 150 km", "Madárfajok száma: több mint 250", "Legfontosabb vonuló faj: borzas pelikán", "Ramsari terület 2009 óta", "Átlagos vízmélység: 1-3 méter"],
+      ro: ["Suprafața zonelor umede: 1.200 km²", "Lungimea de-a lungul râului: 150 km", "Specii de păsări: peste 250", "Specie emblematică: pelicanul creț (Pelecanus crispus)", "Sit Ramsar din 2009", "Adâncime medie a apei: 1-3 m"],
+      en: ["Wetlands area: about 1,200 km²", "Length along river: 150 km", "Bird species: over 250", "Key migratory species: Dalmatian pelican (Pelecanus crispus)", "Ramsar site since 2009", "Average water depth: 1-3 m"],
+    },
+  },
   {
     id: "tm-ertegi-dunyasi-life-v2",
     type: "kid-friendly",
     parent: "TM-S",
     coords: [58.3844, 37.9388],
-    name: { de: "Märchenwelt-Freizeitpark", hu: "Mesevilág Vidámpark", ro: "Parcul de Distracții Lumea Basmelor", en: "World of Fairy Tales Amusement Park",
-image: "/poi-images/tm-ertegi-dunyasi-life-v2.webp"
-},
+    name: { de: "Märchenwelt-Freizeitpark", hu: "Mesevilág Vidámpark", ro: "Parcul de Distracții Lumea Basmelor", en: "World of Fairy Tales Amusement Park"},
+    image: "/poi-images/tm-ertegi-dunyasi-life-v2.webp",
     description: { de: "Ein Themenpark für Kinder in Aschgabat mit turkmenischen Märchenfiguren und modernen Fahrgeschäften.", hu: "Vidámpark gyermekeknek Aşgabatban, türkmén mesefigurákkal és modern játékokkal.", ro: "Un parc tematic pentru copii în Așgabat cu personaje din basme turkmene și atracții moderne.", en: "A theme park for children in Ashgabat featuring Turkmen fairy tale characters and modern rides." },
     facts: {
       de: ["Er wurde als turkmenisches Disneyland konzipiert.", "Der Park bietet über 50 verschiedene Attraktionen."],
       hu: ["A parkot a türkmén Disneylandként tervezték.", "A park több mint 50 különböző attrakciót kínál."],
       ro: ["A fost conceput ca un Disneyland turkmen.", "Parcul oferă peste 50 de atracții diferite."],
       en: ["It was designed as a Turkmen Disneyland.", "The park offers over 50 different attractions."]
-    }, image: "/poi-images/tm-ertegi-dunyasi-life-v2.webp"},
+    }, image: "/poi-images/tm-ertegi-dunyasi-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vergnügungspark „Welt der Märchen“ in Aschgabat wurde 2006 eröffnet und ist der größte Freizeitpark Turkmenistans. Er bietet über 30 Fahrgeschäfte, darunter eine Achterbahn, ein Riesenrad und Karussells. Der Park ist märchenhaft gestaltet, mit bunten Gebäuden und Skulpturen von Märchenfiguren. Es gibt auch Restaurants und Spielplätze. Der Park ist besonders bei Familien mit Kindern beliebt. Er liegt im Süden der Stadt und hat täglich geöffnet.",
+      hu: "A „Mesék világa” vidámpark Asgabatban 2006-ban nyílt meg, Türkmenisztán legnagyobb szórakoztató parkja. Több mint 30 attrakcióval rendelkezik, köztük hullámvasúttal, óriáskerékkel és körhintákkal. A park mesebeli kialakítású, színes épületekkel és mesehősöket ábrázoló szobrokkal. Éttermek és játszóterek is találhatók. Népszerű a családok körében. A város déli részén található.",
+      ro: "Parcul de distracții „Lumea Poveștilor” (Ertegi Dünyasi) din Așgabat a fost deschis în 2006. Este cel mai mare parc de distracții din Turkmenistan, cu peste 30 de atracții, inclusiv un roller coaster, o roată panoramică și carusele. Decorul este feeric, cu clădiri colorate și statui ale personajelor din povești. Include restaurante și locuri de joacă. Popular printre familii. Situat în sudul orașului.",
+      en: "The World of Fairy Tales amusement park in Ashgabat opened in 2006. It is Turkmenistan's largest amusement park, featuring over 30 rides, including a roller coaster, Ferris wheel, and carousels. The park has a fairy-tale theme with colorful buildings and character statues. It offers restaurants and playgrounds. Popular with families. Located in the southern part of the city.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2006", "Fläche: 12 Hektar", "Anzahl der Fahrgeschäfte: 32", "Höhe des Riesenrads: 35 Meter", "Länge der Achterbahn: 500 Meter", "Jährliche Besucherzahl: über 200.000"],
+      hu: ["Megnyitás: 2006", "Terület: 12 hektár", "Attrakciók száma: 32", "Óriáskerék magassága: 35 méter", "Hullámvasút hossza: 500 méter", "Éves látogatottság: 200 000"],
+      ro: ["Deschis în 2006", "Suprafață: 12 hectare", "Număr de atracții: 32", "Înălțimea roții panoramice: 35 m", "Lungimea roller coaster-ului: 500 m", "Vizitatori anual: peste 200.000"],
+      en: ["Opened in 2006", "Area: 12 hectares", "Number of rides: 32", "Ferris wheel height: 35 m", "Roller coaster length: 500 m", "Annual visitors: over 200,000"],
+    },
+  },
   {
     id: "tm-kopetdag-flora-sanctuary-life-v2",
     type: "wildlife-area",
     parent: "TM-A",
     coords: [57.7333, 38.0167],
-    name: { de: "Pflanzenreservat Kopet-Dag", hu: "Kopet-dag Növényrezervátum", ro: "Sanctuarul de Floră Kopet-Dag", en: "Kopet Dag Flora Sanctuary",
-image: "/poi-images/tm-kopetdag-flora-sanctuary-life-v2.webp"
-},
+    name: { de: "Pflanzenreservat Kopet-Dag", hu: "Kopet-dag Növényrezervátum", ro: "Sanctuarul de Floră Kopet-Dag", en: "Kopet Dag Flora Sanctuary"},
+    image: "/poi-images/tm-kopetdag-flora-sanctuary-life-v2.webp",
     description: { de: "Ein spezielles Schutzgebiet zur Erhaltung der seltenen Bergflora im Kopet-Dag-Gebirge.", hu: "Különleges védett terület a Kopet-dag hegység ritka hegyvidéki növényvilágának megőrzésére.", ro: "O zonă specială de conservare pentru menținerea florei montane rare din Munții Kopet-Dag.", en: "A special conservation area for preserving the rare mountain flora of the Kopet Dag range." },
     facts: {
       de: ["Hier wachsen zahlreiche endemische Pflanzenarten.", "Das Gebiet ist für seine wilde Tulpenblüte bekannt."],
       hu: ["Számos endemikus növényfaj él itt.", "A terület a vadon nyíló tulipánjairól ismert."],
       ro: ["Aici cresc numeroase specii de plante endemice.", "Zona este cunoscută pentru înflorirea lalelelor sălbatice."],
       en: ["Numerous endemic plant species grow here.", "The area is known for its wild tulip blooming."]
-    }, image: "/poi-images/tm-kopetdag-flora-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/tm-kopetdag-flora-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kopet-Dag-Flora-Schutzgebiet wurde 1976 eingerichtet und umfasst eine Fläche von 50.000 Hektar im Kopet-Dag-Gebirge. Es dient dem Schutz der endemischen Pflanzen der Region, darunter der Kopet-Dag-Wacholder und verschiedene Tulpenarten. Das Schutzgebiet beherbergt über 1.000 Pflanzenarten, von denen viele selten sind. Die bewaldeten Berghänge sind Lebensraum für Wildschweine und Leoparden. Das Gebiet ist auch für seine archäologischen Stätten bekannt.",
+      hu: "A Kopet-dag Flóra-rezervátumot 1976-ban hozták létre, területe 50 000 hektár a Kopet-dag hegységben. Célja a régió endemikus növényeinek védelme, mint a kopet-dagi boróka és különböző tulipánfajok. Több mint 1 000 növényfaj él itt, sok ritka. Az erdős lejtőkön vaddisznók és leopárdok élnek. A terület régészeti lelőhelyei is jelentősek.",
+      ro: "Sanctuarul Flora Kopet Dag a fost înființat în 1976 pe 50.000 de hectare în munții Kopet Dag. Protejează plante endemice, precum ienupărul de Kopet Dag și diverse specii de lalele. Adăpostește peste 1.000 de specii de plante, multe rare. Pădurile de pe versanți adăpostesc mistreți și leoparzi. Zona are și situri arheologice.",
+      en: "The Kopet Dag Flora Sanctuary, established in 1976, covers 50,000 hectares in the Kopet Dag mountains. It protects endemic plants like Kopet Dag juniper and several tulip species. It hosts over 1,000 plant species, many rare. Forested slopes shelter wild boar and leopard. The area also contains archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1976", "Fläche: 50.000 Hektar", "Anzahl der Pflanzenarten: über 1.000", "Endemische Arten: etwa 100", "Höchster Punkt im Schutzgebiet: 2.800 Meter", "Geschützte Tierarten: 30"],
+      hu: ["Alapítás éve: 1976", "Terület: 50 000 hektár", "Növényfajok: több mint 1 000", "Endemikus fajok: 100", "Legmagasabb pont: 2 800 méter", "Védett állatfajok: 30"],
+      ro: ["An înființare: 1976", "Suprafață: 50.000 de hectare", "Specii de plante: peste 1.000", "Specii endemice: aproximativ 100", "Cel mai înalt punct: 2.800 m", "Specii animale protejate: 30"],
+      en: ["Established: 1976", "Area: 50,000 hectares", "Plant species: over 1,000", "Endemic species: about 100", "Highest point: 2,800 m", "Protected animal species: 30"],
+    },
+  },
   {
     id: "tm-karakum-camel-breeding-life-v2",
     type: "agriculture",
     parent: "TM-A",
     coords: [59.2000, 38.4500],
-    name: { de: "Karakum-Kamelzuchtzentrum", hu: "Karakum Tevetenyésztő Központ", ro: "Centrul de Creștere a Cămilelor Karakum", en: "Karakum Camel Breeding Center",
-image: "/poi-images/tm-karakum-camel-breeding-life-v2.webp"
-},
+    name: { de: "Karakum-Kamelzuchtzentrum", hu: "Karakum Tevetenyésztő Központ", ro: "Centrul de Creștere a Cămilelor Karakum", en: "Karakum Camel Breeding Center"},
+    image: "/poi-images/tm-karakum-camel-breeding-life-v2.webp",
     description: { de: "Ein traditionelles Zentrum zur Zucht von Dromedaren, die für die Wüstenbewohner lebenswichtig sind.", hu: "Hagyományos dromedártenyésztő központ, amely létfontosságú a sivatag lakói számára.", ro: "Un centru tradițional de creștere a dromaderilor, esențiali pentru locuitorii deșertului.", en: "A traditional center for breeding dromedaries, vital for the desert inhabitants." },
     facts: {
       de: ["Aus Kamelmilch wird das traditionelle Getränk Chal hergestellt.", "Kamele sind optimal an die extreme Wüstenhitze angepasst."],
       hu: ["A teve tejéből készül a hagyományos chal nevű ital.", "A tevék optimálisan alkalmazkodtak a sivatagi hőséghez."],
       ro: ["Din laptele de cămilă se face băutura tradițională chal.", "Cămilele sunt adaptate optim la căldura extremă a deșertului."],
       en: ["Camel milk is used to make the traditional drink chal.", "Camels are optimally adapted to the extreme desert heat."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kamelzuchtzentrum in der Karakum-Wüste widmet sich der Zucht des einhöckrigen Kamels (Dromedar), das in Turkmenistan traditionell genutzt wird. Das Zentrum liegt etwa 70 Kilometer nördlich von Aschgabat. Die Kamele werden für Milch, Fleisch und als Transportmittel in der Wüste gezüchtet. Die Einrichtung verfügt über moderne Ställe und Weideflächen. Besucher können an Führungen teilnehmen und die Kamele füttern. Die Rasse ist an das trockene Klima angepasst. Das Zentrum bietet auch Kamelmilchprodukte an.",
+      hu: "A Karakum teve-tenyésztő központ a sivatagban, Asgabattól 70 km-re északra, az egypúpú teve (dromedár) tenyésztésére specializálódott. A tevéket tej, hús és szállítás céljából tartják. A központ modern istállókkal és legelőkkel rendelkezik. Látogatók vezetett túrákon vehetnek részt és etethetik az állatokat. A fajta alkalmazkodott a száraz éghajlathoz. Tejtermékeket is árusítanak.",
+      ro: "Centrul de creștere a cămilelor din Karakum, la 70 km nord de Așgabat, este dedicat dromaderului (cămilă cu o singură cocoașă). Cămilele sunt crescute pentru lapte, carne și transport. Centrul are grajduri moderne și pășuni. Vizitatorii pot face tururi ghidate și hrăni animalele. Rasa este adaptată climatului arid. Se oferă produse din lapte de cămilă.",
+      en: "The Karakum Camel Breeding Center, 70 km north of Ashgabat, focuses on breeding dromedary camels. Camels are raised for milk, meat, and desert transport. The facility has modern barns and pastures. Guided tours allow visitors to feed the camels. The breed is adapted to arid conditions. Camel milk products are available.",
+    },
+    factsAdvanced: {
+      de: ["Entfernung von Aschgabat: 70 Kilometer", "Anzahl der Kamele: rund 1.000", "Jährliche Milchproduktion: 500.000 Liter", "Durchschnittliche Lebenserwartung: 40 Jahre", "Gewicht eines erwachsenen Kamels: 400-600 kg", "Geschwindigkeit: bis zu 65 km/h"],
+      hu: ["Távolság Asgabattól: 70 km", "Teveállomány: 1 000", "Éves tejtermelés: 500 000 liter", "Átlagos élettartam: 40 év", "Felnőtt teve súlya: 400-600 kg", "Sebesség: 65 km/h"],
+      ro: ["Distanța de Așgabat: 70 km", "Număr de cămile: 1.000", "Producție anuală de lapte: 500.000 de litri", "Durata medie de viață: 40 de ani", "Greutate adult: 400-600 kg", "Viteză maximă: 65 km/h"],
+      en: ["Distance from Ashgabat: 70 km", "Number of camels: about 1,000", "Annual milk production: 500,000 liters", "Average lifespan: 40 years", "Adult weight: 400-600 kg", "Top speed: 65 km/h"],
+    },
   },
   {
     id: "tm-balkanabat-central-park-life-v2",
     type: "park",
     parent: "TM-B",
     coords: [54.3667, 39.5167],
-    name: { de: "Zentralpark Balkanabat", hu: "Balkanabat Központi Park", ro: "Parcul Central Balkanabat", en: "Balkanabat Central Park",
-image: "/poi-images/tm-balkanabat-central-park-life-v2.webp"
-},
+    name: { de: "Zentralpark Balkanabat", hu: "Balkanabat Központi Park", ro: "Parcul Central Balkanabat", en: "Balkanabat Central Park"},
+    image: "/poi-images/tm-balkanabat-central-park-life-v2.webp",
     description: { de: "Eine grüne Oase in der Wüstenstadt Balkanabat, die Erholung für die lokale Bevölkerung bietet.", hu: "Zöld oázis a sivatagi Balkanabat városában, amely pihenést nyújt a helyi lakosságnak.", ro: "O oază verde în orașul deșertic Balkanabat, oferind recreere pentru populația locală.", en: "A green oasis in the desert city of Balkanabat, offering recreation for the local population." },
     facts: {
       de: ["Der Park wird durch spezielle Bewässerungssysteme grün gehalten.", "Er ist ein beliebter Treffpunkt am Abend."],
       hu: ["A parkot speciális öntözőrendszerek tartják zölden.", "Esténként népszerű találkozóhely."],
       ro: ["Parcul este menținut verde prin sisteme speciale de irigații.", "Este un loc de întâlnire popular seara."],
       en: ["The park is kept green by special irrigation systems.", "It is a popular meeting place in the evening."]
-    }, image: "/poi-images/tm-balkanabat-central-park-life-v2.webp"},
+    }, image: "/poi-images/tm-balkanabat-central-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zentralpark von Balkanabat ist eine der wichtigsten Grünanlagen der Stadt und dient als Erholungsgebiet für Einwohner und Besucher. Er wurde in den 1970er Jahren angelegt und umfasst etwa 12 Hektar. Der Park bietet Wanderwege, Brunnen und gepflegte Rasenflächen. Ein zentraler Teich mit Wasserspiel wird von Bäumen gesäumt. In den Sommermonaten finden hier kulturelle Veranstaltungen statt. Die Flora umfasst hauptsächlich einheimische Arten wie Pappeln und Platanen, aber auch importierte Zierpflanzen. Der Park ist ein beliebter Ort für Familien und Spaziergänger. Die Parkverwaltung pflegt die Anlagen ganzjährig. Trotz der trockenen Klimabedingungen wird die Bewässerung durch ein unterirdisches System sichergestellt. Der Zentralpark spiegelt die städtebauliche Entwicklung von Balkanabat wider, das in der Sowjetzeit als zentraler Ort der Region aufgebaut wurde. Die Wege sind mit Steinplatten ausgelegt und bieten Sitzgelegenheiten. Ein kleiner Spielplatz für Kinder ergänzt das Angebot. Der Park ist tagsüber geöffnet und kostenfrei zugänglich.",
+      hu: "Balkanabat központi parkja a város legrégebbi és legnagyobb zöldterülete, amelyet 1972-ben nyitottak meg a lakosság számára. Területe 12 hektár, melyen sétányok, szökőkutak és pihenőhelyek találhatók. A park központi eleme egy mesterséges tó, amelyet nyáron vízi játékok egészítenek ki. A növényzet változatos: a helyi fafajok mellett díszcserjék és virágágyások is megtalálhatók. A park a szovjet korszak várostervezésének jellegzetes példája, ahol a közösségi terek kiemelt szerepet kaptak. A parkot rendszeresen karbantartják, és számos rendezvénynek ad otthont, például koncerteknek és népi ünnepségeknek. A gyermekek számára játszótér is épült. A park bejárata ingyenes, és a helyiek kedvelt találkozóhelye. A száraz éghajlat ellenére a növényzetet öntözőrendszer segítségével tartják fenn. A park hosszú sétányai árnyékot nyújtanak a forró nyári napokon. A közeli lakónegyedekből könnyen megközelíthető.",
+      ro: "Parcul Central din Balkanabat este o oază de verdeață în orașul situat în vestul Turkmenistanului. Înființat în anii 1970, parcul se întinde pe o suprafață de aproximativ 12 hectare. Designul său reflectă stilul sovietic de amenajare peisagistică, cu alei largi, fântâni arteziene și bănci. Un iaz artificial cu o fântână este punctul central. Parcul este populat cu specii de arbori precum plopi, platani și sălcii, adaptate climei aride. Sistemul de irigație subteran asigură supraviețuirea vegetației. Parcul găzduiește evenimente culturale și concerte în aer liber. Este un loc de relaxare pentru familii, oferind un loc de joacă pentru copii. În ciuda căldurii, parcul rămâne răcoros datorită umbrei oferite de copaci și a apei. Intrarea este liberă. Parcul este bine întreținut de autoritățile locale, fiind un simbol al spațiilor verzi urbane din Balkanabat.",
+      en: "Balkanabat Central Park is the principal green space in the capital of Balkan Province, Turkmenistan. Established in the 1970s, the park covers 12 hectares and features shaded walkways, fountains, and a central pond with water jets. The park’s design reflects Soviet-era urban planning, emphasizing communal recreation areas. Vegetation includes poplars, sycamores, and ornamental shrubs, sustained by an automated irrigation system. The park hosts seasonal cultural festivals and concerts, serving as a social hub. A children’s playground adds family-friendly appeal. Despite the arid climate, the park remains lush and well-maintained. It offers free entry and is open daily, attracting both locals and tourists seeking respite from the heat. The park’s location in the city center makes it easily accessible.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 12 Hektar", "Eröffnet: 1972", "Anzahl der Bäume: über 2.000", "Länge der Wege: 3,5 km", "Wassertiefe des Teichs: 1,5 m", "Jährliche Besucher: ca. 100.000"],
+      hu: ["Terület: 12 hektár", "Megnyitás éve: 1972", "Fák száma: több mint 2000", "Sétányok hossza: 3,5 km", "Tó mélysége: 1,5 m", "Éves látogatók száma: kb. 100 000"],
+      ro: ["Suprafață: 12 hectare", "Anul deschiderii: 1972", "Număr de copaci: peste 2.000", "Lungimea aleilor: 3,5 km", "Adâncimea iazului: 1,5 m", "Vizitatori anuali: aprox. 100.000"],
+      en: ["Area: 12 hectares", "Opened in 1972", "Number of trees: over 2,000", "Path length: 3.5 km", "Pond depth: 1.5 m", "Annual visitors: approx. 100,000"],
+    },
+  },
   {
     id: "tm-khojapil-dinosaur-plateau-life-v2",
     type: "kid-friendly",
     parent: "TM-L",
     coords: [66.3833, 37.9333],
-    name: { de: "Dinosaurier-Hochebene Khojapil", hu: "Khojapil Dinoszaurusz-fennsík", ro: "Platoul Dinozaurilor Khojapil", en: "Khojapil Dinosaur Plateau",
-image: "/poi-images/tm-khojapil-dinosaur-plateau-life-v2.webp"
-},
+    name: { de: "Dinosaurier-Hochebene Khojapil", hu: "Khojapil Dinoszaurusz-fennsík", ro: "Platoul Dinozaurilor Khojapil", en: "Khojapil Dinosaur Plateau"},
+    image: "/poi-images/tm-khojapil-dinosaur-plateau-life-v2.webp",
     description: { de: "Ein faszinierender Ort für Familien, an dem versteinerte Dinosaurier-Fußabdrücke im Gestein erhalten sind.", hu: "Lenyűgöző hely a családok számára, ahol megkövesedett dinoszaurusz-lábnyomok maradtak fenn a sziklákban.", ro: "Un loc fascinant pentru familii, unde se păstrează urme pietrificate de dinozauri în stâncă.", en: "A fascinating place for families where fossilized dinosaur footprints are preserved in the rock." },
     facts: {
       de: ["Es gibt hier über 2500 versteinerte Fußabdrücke.", "Die Spuren stammen aus dem Jurazeitalter."],
       hu: ["Több mint 2500 megkövesedett lábnyom található itt.", "A nyomok a jura időszakból származnak."],
       ro: ["Aici există peste 2500 de urme pietrificate.", "Urmele datează din perioada Jurasic."],
       en: ["There are over 2500 fossilized footprints here.", "The tracks date back to the Jurassic period."]
-    }, image: "/poi-images/tm-khojapil-dinosaur-plateau-life-v2.webp"},
+    }, image: "/poi-images/tm-khojapil-dinosaur-plateau-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Khojapil-Dinosaurier-Plateau liegt im westlichen Turkmenistan, etwa 30 km nordöstlich von Balkanabat. Es ist eine paläontologische Stätte mit über 1.000 fossilen Dinosaurier-Fußabdrücken aus der Jurazeit (vor etwa 150 Millionen Jahren). Die Abdrücke sind in Kalkstein erhalten und gehören zu verschiedenen Arten, darunter Theropoden und Sauropoden. Das Plateau erstreckt sich über mehrere Hektar und wurde in den 1980er Jahren entdeckt. Es ist ein wichtiger Fundort für die Erforschung der Dinosaurierfauna Zentralasiens. Die Spuren sind oft gut sichtbar, aber durch Erosion gefährdet. Der Zugang ist beschränkt, um die Funde zu schützen. Die Umgebung ist eine trockene Hügellandschaft mit spärlicher Vegetation. Wissenschaftler schätzen, dass die Spuren von mehr als 20 verschiedenen Individuen stammen. Seit 2016 steht das Gebiet unter Schutz. Führungen werden von lokalen Museen organisiert.",
+      hu: "A Khojapil Dinoszaurusz-plató Türkmenisztán nyugati részén található, mintegy 30 km-re északkeletre Balkanabattól. Ez egy őslénytani lelőhely, ahol több mint 1000 fosszilis dinoszaurusz lábnyomot találtak a jura korból (kb. 150 millió éves). A nyomok mészkőben őrződtek meg, és különböző fajokhoz tartoznak, például theropodákhoz és szauropodákhoz. A plató több hektáron terül el, és az 1980-as években fedezték fel. Közép-Ázsia dinoszaurusz faunájának kutatásában fontos lelőhely. A nyomok jól láthatók, de az erózió veszélyezteti őket. A terület védett, a belépés korlátozott. A táj száraz, dombos, kevés növényzettel. A tudósok becslése szerint a nyomok több mint 20 egyedtől származnak. 2016 óta védett terület. Túrákat a helyi múzeumok szerveznek.",
+      ro: "Podisul Dinozaurilor Khojapil este situat în vestul Turkmenistanului, la aproximativ 30 km nord-est de Balkanabat. Este un sit paleontologic care conține peste 1.000 de amprente fosile de dinozaur din perioada Jurasică (acum aproximativ 150 de milioane de ani). Urmele sunt păstrate în calcar și aparțin diverselor specii, inclusiv teropode și sauropode. Podișul se întinde pe câteva hectare și a fost descoperit în anii 1980. Este un sit important pentru studiul faunei de dinozauri din Asia Centrală. Urmele sunt adesea vizibile, dar amenințate de eroziune. Accesul este limitat pentru protecție. Peisajul înconjurător este arid, cu dealuri și vegetație săracă. Cercetătorii estimează că amprentele provin de la peste 20 de indivizi. Zona este protejată din 2016. Tururile sunt organizate de muzeele locale.",
+      en: "The Khojapil Dinosaur Plateau, located 30 km northeast of Balkanabat, Turkmenistan, is a significant paleontological site featuring over 1,000 dinosaur footprints from the Jurassic period, approximately 150 million years old. Preserved in limestone, the tracks belong to theropods, sauropods, and other species. Discovered in the 1980s, the plateau spans several hectares and offers insights into Central Asian dinosaur biodiversity. The prints are visible but vulnerable to erosion. The site has been protected since 2016, with restricted access. The surrounding landscape is arid and hilly. Researchers estimate the tracks represent at least 20 individuals. Guided tours are available through local museums, emphasizing scientific education.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Fußabdrücke: über 1.000", "Alter: ca. 150 Millionen Jahre", "Entdeckt: 1986", "Fläche: ca. 5 Hektar", "Höhe des Plateaus: 200 m über dem Meeresspiegel", "Schutzstatus seit: 2016"],
+      hu: ["Lábnyomok száma: több mint 1000", "Kor: kb. 150 millió év", "Felfedezés éve: 1986", "Terület: kb. 5 hektár", "Tengerszint feletti magasság: 200 m", "Védetté nyilvánítás: 2016"],
+      ro: ["Numărul de amprente: peste 1.000", "Vârstă: aprox. 150 milioane de ani", "Descoperit în: 1986", "Suprafață: aprox. 5 hectare", "Altitudine: 200 m deasupra nivelului mării", "Protejat din: 2016"],
+      en: ["Number of footprints: over 1,000", "Age: approx. 150 million years", "Discovered in: 1986", "Area: approx. 5 hectares", "Elevation: 200 m above sea level", "Protected since: 2016"],
+    },
+  },
   {
     id: "tm-agricultural-university-fields-life-v2",
     type: "agriculture",
     parent: "TM-S",
     coords: [58.3833, 37.9333],
-    name: { de: "Felder der Landwirtschaftsuniversität", hu: "A Mezőgazdasági Egyetem Földjei", ro: "Terenurile Universității Agricole", en: "Agricultural University Fields",
-image: "/poi-images/tm-agricultural-university-fields-life-v2.webp"
-},
+    name: { de: "Felder der Landwirtschaftsuniversität", hu: "A Mezőgazdasági Egyetem Földjei", ro: "Terenurile Universității Agricole", en: "Agricultural University Fields"},
+    image: "/poi-images/tm-agricultural-university-fields-life-v2.webp",
     description: { de: "Versuchsfelder in Aschgabat, auf denen neue Anbaumethoden für das Wüstenklima entwickelt werden.", hu: "Kísérleti földek Aşgabatban, ahol új termesztési módszereket fejlesztenek a sivatagi éghajlathoz.", ro: "Terenuri experimentale în Așgabat unde se dezvoltă noi metode de cultivare pentru clima deșertului.", en: "Experimental fields in Ashgabat where new cultivation methods for the desert climate are developed." },
     facts: {
       de: ["Fokus auf wassersparende Bewässerungstechnologien.", "Studierende testen hier dürreresistente Weizensorten."],
       hu: ["A fókusz a víztakarékos öntözési technológiákon van.", "A diákok szárazságtűrő búzafajtákat tesztelnek itt."],
       ro: ["Accentul este pus pe tehnologiile de irigare care economisesc apa.", "Studenții testează aici soiuri de grâu rezistente la secetă."],
       en: ["Focus is on water-saving irrigation technologies.", "Students test drought-resistant wheat varieties here."]
-    }, image: "/poi-images/tm-agricultural-university-fields-life-v2.webp"},
+    }, image: "/poi-images/tm-agricultural-university-fields-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Versuchsfelder der Landwirtschaftlichen Universität in Ashgabat dienen der Forschung und Lehre im Bereich Agrarwissenschaften. Sie erstrecken sich über 50 Hektar und werden für den Anbau von Baumwolle, Weizen, Gemüse und Obst genutzt. Die Felder sind mit modernen Bewässerungssystemen ausgestattet, darunter Tröpfchenbewässerung. Studenten führen hier Experimente zur Bodenverbesserung und Schädlingsbekämpfung durch. Die Universität wurde 1930 gegründet und ist die führende agrarwissenschaftliche Einrichtung des Landes. Die Felder produzieren jährlich mehrere Tonnen Ernte, die teilweise in der Universitätskantine verwendet werden. Sortenversuche tragen zur Entwicklung trockenheitsresistenter Pflanzen bei. Das Gebiet liegt im Vorort von Ashgabat nahe dem Kopet-Dag-Gebirge. Die Forschungsergebnisse fließen in die landwirtschaftliche Praxis Turkmenistans ein.",
+      hu: "Az Ashgabati Mezőgazdasági Egyetem kísérleti területei a mezőgazdasági kutatás és oktatás színterei. Az 50 hektáros területen gyapotot, búzát, zöldségeket és gyümölcsöket termesztenek. A földek korszerű öntözőrendszerekkel, köztük csepegtető öntözéssel felszereltek. A diákok talajjavítási és növényvédelmi kísérleteket végeznek. Az egyetemet 1930-ban alapították, az ország vezető agrártudományi intézménye. A területek évente több tonna termést adnak, amelyet részben az egyetemi menzán hasznosítanak. A fajtakísérletek hozzájárulnak a szárazságtűrő növények fejlesztéséhez. A terület Ashgabat külvárosában, a Kopet-Dag hegység közelében található. A kutatási eredmények beépülnek Türkmenisztán mezőgazdasági gyakorlatába.",
+      ro: "Câmpurile experimentale ale Universității Agricole din Așgabat sunt utilizate pentru cercetare și predare în domeniul științelor agricole. Acoperind 50 de hectare, aici se cultivă bumbac, grâu, legume și fructe. Câmpurile sunt echipate cu sisteme moderne de irigație, inclusiv irigație prin picurare. Studenții efectuează experimente privind îmbunătățirea solului și controlul dăunătorilor. Universitatea, fondată în 1930, este principala instituție de științe agricole din țară. Câmpurile produc anual câteva tone de recolte, folosite parțial în cantina universității. Testele de soiuri contribuie la dezvoltarea plantelor rezistente la secetă. Zona este situată la periferia Așgabatului, lângă Munții Kopet-Dag. Rezultatele cercetării sunt integrate în practica agricolă a Turkmenistanului.",
+      en: "The Agricultural University Fields in Ashgabat are experimental farmlands used for research and education in agronomy. Spanning 50 hectares, the fields grow cotton, wheat, vegetables, and fruits, utilizing modern drip irrigation systems. Students conduct soil improvement and pest control experiments. The university, founded in 1930, is Turkmenistan's premier agricultural institution. The fields yield several tons of produce annually, partly consumed in the campus cafeteria. Variety trials help develop drought-resistant crops. Located near the Kopet Dag mountains, the site contributes to national agricultural advancements.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50 Hektar", "Gründungsjahr der Universität: 1930", "Jährliche Baumwollproduktion: ca. 20 Tonnen", "Anzahl der Versuchsparzellen: 120", "Länge der Bewässerungsrohre: 15 km", "Durchschnittliche Niederschlagsmenge: 250 mm/Jahr"],
+      hu: ["Terület: 50 hektár", "Egyetem alapításának éve: 1930", "Éves gyapottermelés: kb. 20 tonna", "Kísérleti parcellák száma: 120", "Öntözőcsövek hossza: 15 km", "Átlagos csapadékmennyiség: 250 mm/év"],
+      ro: ["Suprafață: 50 de hectare", "Anul fondării universității: 1930", "Producția anuală de bumbac: aprox. 20 de tone", "Număr de parcele experimentale: 120", "Lungimea conductelor de irigație: 15 km", "Precipitații medii anuale: 250 mm"],
+      en: ["Area: 50 hectares", "University founded: 1930", "Annual cotton production: approx. 20 tons", "Number of experimental plots: 120", "Irrigation pipe length: 15 km", "Average annual rainfall: 250 mm"],
+    },
+  },
   {
     id: "tm-awaza-aqua-park-life-v2",
     type: "kid-friendly",
     parent: "TM-B",
     coords: [52.9667, 40.0333],
-    name: { de: "Awaza-Wasserpark", hu: "Awaza Aquapark", ro: "Parcul Acvatic Awaza", en: "Awaza Aqua Park",
-image: "/poi-images/tm-awaza-aqua-park-life-v2.webp"
-},
+    name: { de: "Awaza-Wasserpark", hu: "Awaza Aquapark", ro: "Parcul Acvatic Awaza", en: "Awaza Aqua Park"},
+    image: "/poi-images/tm-awaza-aqua-park-life-v2.webp",
     description: { de: "Ein großer Wasserpark an der kaspischen Küste, der bei Kindern und Touristen sehr beliebt ist.", hu: "Nagy vízipark a Kaszpi-tenger partján, amely nagyon népszerű a gyerekek és a turisták körében.", ro: "Un mare parc acvatic pe coasta Mării Caspice, foarte popular printre copii și turiști.", en: "A large water park on the Caspian coast that is very popular with children and tourists." },
     facts: {
       de: ["Der Park bietet zahlreiche Rutschen und Schwimmbecken.", "Er ist Teil des riesigen Awaza-Tourismusprojekts."],
       hu: ["A park számos csúszdát és medencét kínál.", "A hatalmas Awaza turisztikai projekt része."],
       ro: ["Parcul oferă numeroase tobogane și piscine.", "Face parte din uriașul proiect turistic Awaza."],
       en: ["The park offers numerous slides and swimming pools.", "It is part of the massive Awaza tourism project."]
-    }, image: "/poi-images/tm-awaza-aqua-park-life-v2.webp"},
+    }, image: "/poi-images/tm-awaza-aqua-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Awaza Aqua Park befindet sich im Touristenzentrum Awaza an der Küste des Kaspischen Meeres. Er wurde 2015 eröffnet und erstreckt sich über 6 Hektar. Der Park bietet zahlreiche Wasserrutschen, Wellenbäder und Kinderbecken. Das Wasser wird aus dem Kaspischen Meer entnommen und gefiltert. Es gibt auch Lagunen mit Salzwasser. Der Park ist ganzjährig geöffnet, aber die Hauptsaison ist von Mai bis September. Die Kapazität beträgt bis zu 5.000 Besucher pro Tag. Neben den Wasserattraktionen gibt es Restaurants und Liegewiesen. Der Park ist Teil der Bemühungen, den Tourismus in Turkmenistan zu fördern. Die Eintrittspreise sind moderat. Die Anlage wird regelmäßig gewartet. Awaza selbst wurde ab 2007 als moderne Ferienregion ausgebaut.",
+      hu: "Az Awaza Aqua Park a Kaszpi-tenger partján, az azonos nevű turisztikai központban található. 2015-ben nyitották meg, területe 6 hektár. A park számos csúszdával, hullámmedencével és gyermekmedencével rendelkezik. A vizet a Kaszpi-tengerből nyerik és szűrik. Sós vizű lagúnák is vannak. Egész évben nyitva, de főszezon májustól szeptemberig tart. Kapacitása napi 5000 látogató. Az aquapark mellett éttermek és napozóterületek várják a vendégeket. A park része Türkmenisztán turizmusfejlesztési törekvéseinek. A belépőjegyek ára mérsékelt. A létesítményt rendszeresen karbantartják. Awaza 2007 óta épült ki modern üdülőrégióvá.",
+      ro: "Parcul Acvatic Awaza este situat în stațiunea turistică Awaza, pe coasta Mării Caspice. Deschis în 2015, se întinde pe 6 hectare. Parcul oferă tobogane acvatice, piscine cu valuri și bazine pentru copii. Apa provine din Marea Caspică și este filtrată. Există și lagune cu apă sărată. Este deschis tot anul, sezonul principal fiind mai-septembrie. Capacitatea este de până la 5.000 de vizitatori pe zi. Pe lângă atracții, sunt restaurante și zone de relaxare. Parcul face parte din eforturile de promovare a turismului în Turkmenistan. Prețurile biletelor sunt moderate. Stațiunea Awaza a fost dezvoltată începând din 2007.",
+      en: "Awaza Aqua Park, located in the Awaza tourist zone on the Caspian Sea coast, opened in 2015 and covers 6 hectares. It features waterslides, wave pools, and children's pools using filtered Caspian seawater. The park operates year-round, with peak season from May to September. Capacity is 5,000 visitors daily. Additional amenities include restaurants and sunbathing areas. The park supports Turkmenistan's tourism development strategy. Entry fees are affordable. Awaza was developed as a modern resort area starting in 2007.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 2015", "Fläche: 6 Hektar", "Anzahl der Rutschen: 15", "Wassertemperatur: durchschnittlich 28°C", "Maximale Besucherzahl pro Tag: 5.000", "Länge der größten Rutsche: 200 m"],
+      hu: ["Megnyitás: 2015", "Terület: 6 hektár", "Csúszdák száma: 15", "Víz hőmérséklete: átlagosan 28°C", "Maximális napi látogatószám: 5000", "Leghosszabb csúszda: 200 m"],
+      ro: ["Deschis în: 2015", "Suprafață: 6 hectare", "Număr de tobogane: 15", "Temperatura apei: medie 28°C", "Capacitate maximă zilnică: 5.000", "Lungimea celui mai lung tobogan: 200 m"],
+      en: ["Opened: 2015", "Area: 6 hectares", "Number of slides: 15", "Water temperature: average 28°C", "Maximum daily visitors: 5,000", "Longest slide: 200 m"],
+    },
+  },
   {
     id: "tm-karakum-flora-reserve-life-v2",
     type: "wildlife-area",
     parent: "TM-D",
     coords: [59.5000, 39.5000],
-    name: { de: "Karakum-Flora-Reservat", hu: "Karakum Növényvédelmi Terület", ro: "Rezervația de Floră din Karakum", en: "Karakum Flora Reserve",
-image: "/poi-images/tm-karakum-flora-reserve-life-v2.webp"
-},
+    name: { de: "Karakum-Flora-Reservat", hu: "Karakum Növényvédelmi Terület", ro: "Rezervația de Floră din Karakum", en: "Karakum Flora Reserve"},
+    image: "/poi-images/tm-karakum-flora-reserve-life-v2.webp",
     description: { de: "Ein geschützter Wüstenbereich, der die einzigartige, extrem trockenheitsresistente Flora bewahrt.", hu: "Védett sivatagi terület, amely megőrzi az egyedülálló, rendkívül szárazságtűrő növényvilágot.", ro: "O zonă de deșert protejată care conservă flora unică, extrem de rezistentă la secetă.", en: "A protected desert area preserving the unique, extremely drought-resistant flora." },
     facts: {
       de: ["Saxaul-Bäume sind eine Schlüsselart in dieser Region.", "Die Pflanzenwurzeln reichen bis zu 20 Meter tief."],
       hu: ["A szakszaul fák kulcsfontosságú fajok ebben a régióban.", "A növények gyökerei akár 20 méter mélyre is nyúlnak."],
       ro: ["Arborii Saxaul sunt o specie cheie în această regiune.", "Rădăcinile plantelor ajung până la 20 de metri adâncime."],
       en: ["Saxaul trees are a key species in this region.", "Plant roots reach up to 20 meters deep."]
-    }, image: "/poi-images/tm-karakum-flora-reserve-life-v2.webp"},
+    }, image: "/poi-images/tm-karakum-flora-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Karakum-Flora-Reservat liegt in der zentralen Karakum-Wüste Turkmenistans und dient dem Schutz der typischen Wüstenvegetation. Es wurde 1995 eingerichtet und umfasst 1.000 Quadratkilometer. Die Hauptvegetation besteht aus Saxaulbäumen, Wüstensträuchern und Gräsern. Das Reservat beherbergt auch seltene Pflanzenarten wie die Karakum-Tulpe. Die jährliche Niederschlagsmenge beträgt weniger als 100 mm. Die Forschung konzentriert sich auf die Anpassung von Pflanzen an Trockenheit. Das Gebiet ist Lebensraum für Kamele und Nagetiere. Die Verwaltung überwacht den Schutz vor Überweidung und illegaler Holznutzung. Besucher benötigen eine Genehmigung. Das Reservat trägt zur Erhaltung der Biodiversität der Wüste bei.",
+      hu: "A Karakum Flóra Rezervátum Türkmenisztán középső Karakum-sivatagában található, és a sivatagi növényzet védelmét szolgálja. 1995-ben hozták létre, területe 1000 négyzetkilométer. A fő növényzet szaxaul fákból, sivatagi cserjékből és füvekből áll. Ritka fajok is élnek itt, mint a Karakum-tulipán. Az éves csapadék kevesebb mint 100 mm. A kutatás a növények szárazságtűrésére összpontosít. A terület tevék és rágcsálók élőhelye. A kezelés megakadályozza a túllegeltetést és az illegális fakitermelést. A látogatáshoz engedély szükséges. A rezervátum hozzájárul a sivatagi biodiverzitás megőrzéséhez.",
+      ro: "Rezervația de Floră Karakum este situată în deșertul central Karakum din Turkmenistan, creată pentru protejarea vegetației deșertice. Înființată în 1995, acoperă 1.000 km². Vegetația principală include arbori de saxaul, arbuști deșertici și ierburi. Adăpostește specii rare precum lalea Karakum. Precipitațiile anuale sunt sub 100 mm. Cercetarea se concentrează pe adaptarea plantelor la secetă. Zona este habitat pentru cămile și rozătoare. Administrația protejează împotriva pășunatului excesiv și a tăierilor ilegale. Vizitatorii au nevoie de permis. Rezervația contribuie la conservarea biodiversității deșertice.",
+      en: "The Karakum Flora Reserve, established in 1995 in the central Karakum Desert of Turkmenistan, protects desert vegetation across 1,000 km². Dominant flora includes saxaul trees, desert shrubs, and grasses, along with rare species like the Karakum tulip. Annual rainfall is below 100 mm. Research focuses on plant drought adaptation. The reserve is home to camels and rodents. Management prevents overgrazing and illegal logging. Visitors require permits. The reserve helps conserve desert biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1995", "Fläche: 1.000 km²", "Jährlicher Niederschlag: unter 100 mm", "Höchster Punkt: 150 m über NN", "Anzahl der Pflanzenarten: über 200", "Saxaulbäume: bis zu 5 m hoch"],
+      hu: ["Alapítás éve: 1995", "Terület: 1000 km²", "Éves csapadék: kevesebb mint 100 mm", "Legmagasabb pont: 150 m tengerszint felett", "Növényfajok száma: több mint 200", "Szaxaul fák magassága: akár 5 m"],
+      ro: ["Anul înființării: 1995", "Suprafață: 1.000 km²", "Precipitații anuale: sub 100 mm", "Altitudine maximă: 150 m", "Număr de specii de plante: peste 200", "Arborii de saxaul: până la 5 m înălțime"],
+      en: ["Established: 1995", "Area: 1,000 km²", "Annual rainfall: below 100 mm", "Highest point: 150 m above sea level", "Number of plant species: over 200", "Saxaul trees: up to 5 m tall"],
+    },
+  },
   {
     id: "tm-ruhyyet-park-life-v2",
     type: "park",
     parent: "TM-S",
     coords: [58.3833, 37.9167],
-    name: { de: "Ruhyyet-Park", hu: "Ruhyyet Park", ro: "Parcul Ruhyyet", en: "Ruhyyet Park",
-image: "/poi-images/tm-ruhyyet-park-life-v2.webp"
-},
+    name: { de: "Ruhyyet-Park", hu: "Ruhyyet Park", ro: "Parcul Ruhyyet", en: "Ruhyyet Park"},
+    image: "/poi-images/tm-ruhyyet-park-life-v2.webp",
     description: { de: "Ein eleganter Stadtpark nahe dem Präsidentenpalast, bekannt für seine Marmorarchitektur und Ruhe.", hu: "Elegáns városi park az Elnöki Palota közelében, amely márványépítészetéről és nyugalmáról ismert.", ro: "Un parc urban elegant lângă Palatul Prezidențial, cunoscut pentru arhitectura sa din marmură și liniște.", en: "An elegant city park near the Presidential Palace, known for its marble architecture and tranquility." },
     facts: {
       de: ["Der Park ist mit weißen Marmorwegen gepflastert.", "Er bietet einen perfekten Blick auf das Stadtzentrum."],
       hu: ["A parkot fehér márványutak kövezik.", "Tökéletes kilátást nyújt a városközpontra."],
       ro: ["Parcul este pavat cu alei din marmură albă.", "Oferă o vedere perfectă asupra centrului orașului."],
       en: ["The park is paved with white marble paths.", "It offers a perfect view of the city center."]
-    }, image: "/poi-images/tm-ruhyyet-park-life-v2.webp"},
+    }, image: "/poi-images/tm-ruhyyet-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ruhyyet-Park in Ashgabat ist ein moderner Vergnügungspark, der 2015 eröffnet wurde. Er umfasst 20 Hektar und bietet Fahrgeschäfte, ein Riesenrad und einen künstlichen See. Der Park ist nach dem turkmenischen Wort für „Geist“ benannt. Das Riesenrad ist eines der höchsten in Zentralasien mit 95 Metern Höhe. Der Park hat auch eine Achterbahn, ein Karussell und Spielbereiche für Kinder. Das Gelände ist weitläufig mit vielen Grünflächen und Skulpturen. Der Park wird nachts beleuchtet. Er ist ein beliebtes Ausflugsziel für Familien. Die Eintrittspreise variieren je nach Attraktion. Der Park liegt im Zentrum der Stadt, nahe dem Neutralitätsbogen. Jährlich besuchen Hunderttausende den Park.",
+      hu: "Az ashgabati Ruhyyet Park egy modern vidámpark, amelyet 2015-ben nyitottak meg. Területe 20 hektár, ahol körhinták, óriáskerék és mesterséges tó található. A park neve türkménül „szellemet” jelent. Az óriáskerék 95 méter magas, Közép-Ázsia egyik legmagasabbja. A parkban hullámvasút, körhinta és gyermekjátszóterek is vannak. A terület zöldövezetekkel és szobrokkal díszített. Este kivilágítják. A park családi kedvenc. A belépőjegyek ára változó. A városközpontban, a Semlegesség Emlékműve közelében található. Évente több százezer ember látogatja.",
+      ro: "Parcul Ruhyyet din Așgabat este un parc modern de distracții, deschis în 2015. Se întinde pe 20 de hectare și include atracții, o roată panoramică și un lac artificial. Numele parcului înseamnă „spirit” în turkmenă. Roata are 95 m înălțime, una dintre cele mai înalte din Asia Centrală. Parcul mai are un roller-coaster, carusel și zone de joacă pentru copii. Peisajul include spații verzi și sculpturi. Parcul este iluminat noaptea. Este popular pentru familii. Prețurile biletelor variază. Situat în centrul orașului, lângă Arcul Neutralității. Sute de mii de vizitatori anual.",
+      en: "Ruhyyet Park in Ashgabat is a modern amusement park opened in 2015, spanning 20 hectares. It features rides, a Ferris wheel, and an artificial lake. The Ferris wheel is 95 m tall, among Central Asia's highest. The park includes a roller coaster, carousel, and children's play areas. It is landscaped with greenery and sculptures. The park is illuminated at night. It is a popular family destination. Entry fees vary by ride. Located near the Neutrality Arch in the city center, it attracts hundreds of thousands of visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 2015", "Fläche: 20 Hektar", "Höhe des Riesenrads: 95 m", "Anzahl der Fahrgeschäfte: 25", "Länge der Achterbahn: 800 m", "Jährliche Besucher: ca. 500.000"],
+      hu: ["Megnyitás: 2015", "Terület: 20 hektár", "Óriáskerék magassága: 95 m", "Attrakciók száma: 25", "Hullámvasút hossza: 800 m", "Éves látogatók száma: kb. 500 000"],
+      ro: ["Deschis în: 2015", "Suprafață: 20 hectare", "Înălțimea roții panoramice: 95 m", "Număr de atracții: 25", "Lungimea roller-coasterului: 800 m", "Vizitatori anuali: aprox. 500.000"],
+      en: ["Opened: 2015", "Area: 20 hectares", "Ferris wheel height: 95 m", "Number of rides: 25", "Roller coaster length: 800 m", "Annual visitors: approx. 500,000"],
+    },
+  },
   {
     id: "tm-dashoguz-melon-farms-life-v2",
     type: "agriculture",
     parent: "TM-D",
     coords: [59.9667, 41.8333],
-    name: { de: "Melonenfarmen von Daşoguz", hu: "Daşoguz Dinnyeföldjei", ro: "Fermele de Pepeni din Dașoguz", en: "Dashoguz Melon Farms",
-image: "/poi-images/tm-dashoguz-melon-farms-life-v2.webp"
-},
+    name: { de: "Melonenfarmen von Daşoguz", hu: "Daşoguz Dinnyeföldjei", ro: "Fermele de Pepeni din Dașoguz", en: "Dashoguz Melon Farms"},
+    image: "/poi-images/tm-dashoguz-melon-farms-life-v2.webp",
     description: { de: "Traditionelle landwirtschaftliche Gebiete, in denen die berühmten, süßen turkmenischen Melonen angebaut werden.", hu: "Hagyományos mezőgazdasági területek, ahol a híres, édes türkmén dinnyét termesztik.", ro: "Zone agricole tradiționale unde sunt cultivați faimoșii și dulcii pepeni turkmeni.", en: "Traditional agricultural areas where the famous sweet Turkmen melons are grown." },
     facts: {
       de: ["Turkmenistan feiert jedes Jahr einen nationalen Melonentag.", "Diese Melonen sind für ihr extrem süßes Aroma bekannt."],
       hu: ["Türkmenisztán minden évben megünnepli a nemzeti dinnyenapot.", "Ezek a dinnyék rendkívül édes aromájukról ismertek."],
       ro: ["Turkmenistanul sărbătorește în fiecare an Ziua Națională a Pepenelui.", "Acești pepeni sunt cunoscuți pentru aroma lor extrem de dulce."],
       en: ["Turkmenistan celebrates a national Melon Day every year.", "These melons are known for their extremely sweet aroma."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Dashoguz-Melonenfarmen liegen in der nördlichen Region Turkmenistans, bekannt für den Anbau der berühmten turkmenischen Melonen. Aufgrund des kontinentalen Klimas mit heißen Sommern und Bewässerung aus dem Amudarja gedeihen die Früchte besonders süß. Die Farmen erstrecken sich über Tausende Hektar. Die Melonensaison beginnt im Juli und endet im September. Die häufigste Sorte ist die „Gulabi“-Melone, die für ihr Aroma geschätzt wird. Die Ernte wird teilweise exportiert, hauptsächlich nach Russland. Die Bauern verwenden traditionelle Anbaumethoden kombiniert mit moderner Bewässerung. Die Region ist für ihre Melonenproduktion bekannt, die einen wichtigen Wirtschaftsfaktor darstellt.",
+      hu: "A dashoguzi dinnyefarmok Türkmenisztán északi részén találhatók, ahol a híres türkmén dinnyéket termesztik. A kontinentális éghajlat, a forró nyarak és az Amudarja folyó öntözése édes gyümölcsöket eredményez. A farmok több ezer hektáron terülnek el. A dinnyeszezon júliustól szeptemberig tart. A leggyakoribb fajta a „Gulabi” dinnye, amely illatáról híres. A termést részben exportálják, főleg Oroszországba. A gazdák hagyományos és modern öntözési módszereket alkalmaznak. A régió híres dinnyetermesztéséről, amely fontos gazdasági ágazat.",
+      ro: "Fermele de pepeni din Dashoguz sunt situate în nordul Turkmenistanului, renumite pentru cultivarea celebrilor pepeni turkmeni. Clima continentală, verile fierbinți și irigația din râul Amudarya produc fructe foarte dulci. Fermele se întind pe mii de hectare. Sezonul pepenilor durează din iulie până în septembrie. Soiul principal este pepenele „Gulabi”, apreciat pentru aromă. Recolta este parțial exportată, în principal în Rusia. Fermierii folosesc metode tradiționale combinate cu irigații moderne. Regiunea este cunoscută pentru producția de pepeni, un sector economic important.",
+      en: "Dashoguz Melon Farms in northern Turkmenistan are renowned for cultivating the country's famous sweet melons. The continental climate, hot summers, and irrigation from the Amu Darya River yield highly sweet fruit. Farms cover thousands of hectares. The melon season runs from July to September. The main variety is the fragrant 'Gulabi' melon. Harvests are partly exported, mainly to Russia. Farmers combine traditional methods with modern irrigation. Melon production is a key economic activity in the region.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: ca. 10.000 Hektar", "Jährliche Produktion: über 50.000 Tonnen", "Wichtigste Sorte: Gulabi", "Bewässerungsmenge: 5.000 m³/ha", "Exportanteil: 30% der Ernte", "Saisonlänge: 90 Tage"],
+      hu: ["Termőterület: kb. 10.000 hektár", "Éves termelés: több mint 50.000 tonna", "Legfontosabb fajta: Gulabi", "Öntözési mennyiség: 5000 m³/ha", "Export aránya: 30%", "Szezon hossza: 90 nap"],
+      ro: ["Suprafață cultivată: aprox. 10.000 ha", "Producție anuală: peste 50.000 tone", "Soi principal: Gulabi", "Volum de irigație: 5.000 m³/ha", "Export: 30% din recoltă", "Durata sezonului: 90 de zile"],
+      en: ["Cultivated area: approx. 10,000 ha", "Annual production: over 50,000 tons", "Main variety: Gulabi", "Irrigation volume: 5,000 m³/ha", "Export share: 30% of harvest", "Season length: 90 days"],
+    },
   },
   {
     id: "tm-turkmenbashi-seaside-park-life-v2",
     type: "park",
     parent: "TM-B",
     coords: [52.9667, 40.0167],
-    name: { de: "Küstenpark Türkmenbaşy", hu: "Türkmenbaşy Tengerparti Park", ro: "Parcul Litoral Türkmenbașî", en: "Turkmenbashi Seaside Park",
-image: "/poi-images/tm-turkmenbashi-seaside-park-life-v2.webp"
-},
+    name: { de: "Küstenpark Türkmenbaşy", hu: "Türkmenbaşy Tengerparti Park", ro: "Parcul Litoral Türkmenbașî", en: "Turkmenbashi Seaside Park"},
+    image: "/poi-images/tm-turkmenbashi-seaside-park-life-v2.webp",
     description: { de: "Ein landschaftlich reizvoller Park entlang der Küste, der Spaziergänge mit Meerblick ermöglicht.", hu: "Festői szépségű park a part mentén, amely tengerre néző sétákat kínál.", ro: "Un parc pitoresc de-a lungul coastei, care permite plimbări cu vedere la mare.", en: "A scenic park along the coast that allows for walks with sea views." },
     facts: {
       de: ["Die Meeresbrise macht ihn zu einem angenehmen Rückzugsort.", "Von hier aus kann man schöne Sonnenuntergänge beobachten."],
       hu: ["A tengeri szellő kellemes menedékké teszi.", "Innen gyönyörű naplementéket lehet megfigyelni."],
       ro: ["Briza mării îl face un loc de refugiu plăcut.", "De aici se pot observa apusuri frumoase."],
       en: ["The sea breeze makes it a pleasant retreat.", "Beautiful sunsets can be observed from here."]
-    }, image: "/poi-images/tm-turkmenbashi-seaside-park-life-v2.webp"},
+    }, image: "/poi-images/tm-turkmenbashi-seaside-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Turkmenbashi-Seaside-Park ist eine Uferpromenade in der Hafenstadt Turkmenbashi am Kaspischen Meer. Der Park erstreckt sich über 15 Hektar entlang der Küste und wurde 2013 renoviert. Er bietet gepflasterte Wege, Palmen, Brunnen und Aussichtspunkte. Es gibt auch ein Restaurant und eine Strandzone. Der Park ist ein beliebter Ort für Spaziergänge und Erholung. Von hier aus hat man einen schönen Blick auf den Hafen. Die durchschnittliche Temperatur im Sommer beträgt 30°C. Der Park ist Teil der städtischen Infrastrukturverbesserung. Er wird nachts beleuchtet und ist sicher. Die Promenade ist barrierefrei. Der Eintritt ist frei.",
+      hu: "A Turkmenbashi Tengerparti Park a Kaszpi-tenger partján fekvő kikötővárosban, Turkmenbashiban található. A park 15 hektáron húzódik a part mentén, 2013-ban újították fel. Kövezett sétányok, pálmafák, szökőkutak és kilátópontok várják a látogatókat. Van étterem és strand is. A park népszerű sétahely. Innen szép kilátás nyílik a kikötőre. Nyáron az átlaghőmérséklet 30°C. A park a városi infrastruktúra javításának része. Este kivilágítják. Akadálymentesített. A belépés ingyenes.",
+      ro: "Parcul de pe malul mării din Turkmenbashi este o promenadă în orașul-port de la Marea Caspică. Parcul se întinde pe 15 hectare de-a lungul coastei, renovat în 2013. Are alei pavate, palmieri, fântâni și puncte de belvedere. Include un restaurant și o zonă de plajă. Este popular pentru plimbări și relaxare. Oferă vedere la port. Temperatura medie de vară este de 30°C. Parcul face parte din îmbunătățirea infrastructurii urbane. Iluminat nocturn. Accesibil pentru persoane cu handicap. Intrarea liberă.",
+      en: "Turkmenbashi Seaside Park is a coastal promenade in the port city of Turkmenbashi on the Caspian Sea. Spanning 15 hectares along the coast, it was renovated in 2013. Features include paved paths, palm trees, fountains, and viewpoints. A restaurant and beach area are available. The park is popular for walks and relaxation, offering views of the harbor. Summer average temperature is 30°C. It is part of urban infrastructure improvements. Night lighting ensures safety. Wheelchair accessible. Free entry.",
+    },
+    factsAdvanced: {
+      de: ["Renoviert: 2013", "Fläche: 15 Hektar", "Länge der Promenade: 2 km", "Anzahl der Brunnen: 8", "Wassertemperatur im Sommer: 25°C", "Jährliche Besucher: ca. 200.000"],
+      hu: ["Felújítás éve: 2013", "Terület: 15 hektár", "Sétány hossza: 2 km", "Szökőkutak száma: 8", "Nyári vízhőmérséklet: 25°C", "Éves látogatók száma: kb. 200 000"],
+      ro: ["Renovat în: 2013", "Suprafață: 15 hectare", "Lungimea promenadei: 2 km", "Număr de fântâni: 8", "Temperatura apei vara: 25°C", "Vizitatori anuali: aprox. 200.000"],
+      en: ["Renovated: 2013", "Area: 15 hectares", "Promenade length: 2 km", "Number of fountains: 8", "Summer water temperature: 25°C", "Annual visitors: approx. 200,000"],
+    },
+  },
   {
     id: "tm-caspian-seal-habitat-life-v2",
     type: "wildlife-area",
     parent: "TM-B",
     coords: [53.0000, 39.8000],
-    name: { de: "Lebensraum der Kaspischen Robben", hu: "Kaszpi Fóka Élőhelye", ro: "Habitatul Focii Caspice", en: "Caspian Seal Habitat",
-image: "/poi-images/tm-caspian-seal-habitat-life-v2.webp"
-},
+    name: { de: "Lebensraum der Kaspischen Robben", hu: "Kaszpi Fóka Élőhelye", ro: "Habitatul Focii Caspice", en: "Caspian Seal Habitat"},
+    image: "/poi-images/tm-caspian-seal-habitat-life-v2.webp",
     description: { de: "Ein Küstenschutzgebiet im Kaspischen Meer, das für das Überleben der bedrohten Kaspischen Robbe wichtig ist.", hu: "Parti védett terület a Kaszpi-tengeren, amely fontos a veszélyeztetett kaszpi fóka túlélése szempontjából.", ro: "O zonă de coastă protejată în Marea Caspică, importantă pentru supraviețuirea focii caspice pe cale de dispariție.", en: "A coastal protected area in the Caspian Sea important for the survival of the endangered Caspian seal." },
     facts: {
       de: ["Die Kaspische Robbe ist die einzige marine Säugetierart im Kaspischen Meer.", "Ihre Population wird streng überwacht."],
       hu: ["A kaszpi fóka a Kaszpi-tenger egyetlen tengeri emlősfaja.", "Állományukat szigorúan ellenőrzik."],
       ro: ["Foca caspică este singura specie de mamifer marin din Marea Caspică.", "Populația lor este strict monitorizată."],
       en: ["The Caspian seal is the only marine mammal species in the Caspian Sea.", "Their population is strictly monitored."]
-    }, image: "/poi-images/tm-caspian-seal-habitat-life-v2.webp"},
+    }, image: "/poi-images/tm-caspian-seal-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kaspische Seehund-Habitat befindet sich entlang der Küste Turkmenistans, insbesondere auf der Insel Ogurja Ada. Die Kaspische Robbe (Pusa caspica) ist die einzige Meeressäugetierart im Kaspischen Meer. Die Population wird auf etwa 100.000 Tiere geschätzt, aber durch Überjagung und Umweltverschmutzung ist sie gefährdet. Turkmenistan hat Schutzmaßnahmen ergriffen, darunter ein Jagdverbot seit 2000. Die Robben nutzen die Inseln zur Fortpflanzung. Die Bestände werden von Wissenschaftlern überwacht. Das Habitat ist Teil des Hazar-Naturschutzgebiets. Die Wassertiefe in den Kolonien beträgt etwa 5-10 m. Die Robben ernähren sich von Fischen wie Heringen und Grundeln. Der Klimawandel bedroht die Eisbedeckung, die für die Geburt der Jungen wichtig ist.",
+      hu: "A Kaszpi-tengeri fóka élőhelye Türkmenisztán partjai mentén, különösen Ogurja Ada szigetén található. A Kaszpi-tengeri fóka (Pusa caspica) a Kaszpi-tenger egyetlen tengeri emlőse. Az állományt kb. 100 000 egyedre becsülik, de a túlvadászat és a szennyezés miatt veszélyeztetett. Türkmenisztán 2000 óta vadászati tilalmat rendelt el. A fókák a szigeteken szaporodnak. Az állományt tudósok figyelik. Az élőhely a Hazar Természetvédelmi Terület része. A telepeknél a vízmélység 5-10 m. A fókák halakkal, például heringgel és gébfélékkel táplálkoznak. A klímaváltozás veszélyezteti a jégtakarót, amely a kölykök születéséhez szükséges.",
+      ro: "Habitatul focii casnice se află de-a lungul coastei Turkmenistanului, în special pe insula Ogurja Ada. Foca casnică (Pusa caspica) este singurul mamifer marin endemic al Mării Caspice. Populația este estimată la aproximativ 100.000 de indivizi, dar este amenințată de vânătoare excesivă și poluare. Turkmenistanul a interzis vânătoarea din 2000. Focile folosesc insulele pentru reproducere. Efectivele sunt monitorizate de cercetători. Habitatul face parte din Rezervația Naturală Hazar. Adâncimea apei în colonii este de 5-10 m. Focile se hrănesc cu pești precum hering și gobidi. Schimbările climatice amenință gheața necesară nașterii puilor.",
+      en: "The Caspian Seal habitat along Turkmenistan's coast, notably on Ogurja Ada Island, supports the only marine mammal in the Caspian Sea: Pusa caspica. The population is estimated at 100,000, but the species is endangered due to overhunting and pollution. Turkmenistan banned seal hunting in 2000. Seals breed on islands and are monitored by scientists. The habitat is part of the Hazar Nature Reserve. Water depth near colonies is 5-10 m. Seals feed on herring and gobies. Climate change threatens the ice cover essential for pupping.",
+    },
+    factsAdvanced: {
+      de: ["Geschätzte Population: 100.000 Tiere", "Jagdverbot seit: 2000", "Größe von Ogurja Ada: 45 km²", "Durchschnittliche Tiefe auf den Kolonien: 5-10 m", "Schutzgebietsfläche: 260.000 Hektar", "Wurfzeit: Januar bis Februar"],
+      hu: ["Becsült állomány: 100 000 egyed", "Vadászati tilalom: 2000 óta", "Ogurja Ada területe: 45 km²", "Átlagos vízmélység a telepeken: 5-10 m", "Védett terület nagysága: 260 000 hektár", "Ellési időszak: január-február"],
+      ro: ["Populație estimată: 100.000 de indivizi", "Interdicție vânătoare din: 2000", "Suprafața insulei Ogurja Ada: 45 km²", "Adâncimea medie a apei în colonii: 5-10 m", "Suprafața rezervației: 260.000 ha", "Perioada de fătare: ianuarie-februarie"],
+      en: ["Estimated population: 100,000", "Hunting ban since: 2000", "Ogurja Ada island area: 45 km²", "Average water depth at colonies: 5-10 m", "Reserve area: 260,000 ha", "Puppping season: January to February"],
+    },
+  },
   {
     id: "tm-ashgabat-cable-car-park-life-v2",
     type: "kid-friendly",
     parent: "TM-S",
     coords: [58.3333, 37.8833],
-    name: { de: "Seilbahnpark Aschgabat", hu: "Aşgabati Felvonó Park", ro: "Parcul Telecabinei din Așgabat", en: "Ashgabat Cable Car Park",
-image: "/poi-images/tm-ashgabat-cable-car-park-life-v2.webp"
-},
+    name: { de: "Seilbahnpark Aschgabat", hu: "Aşgabati Felvonó Park", ro: "Parcul Telecabinei din Așgabat", en: "Ashgabat Cable Car Park"},
+    image: "/poi-images/tm-ashgabat-cable-car-park-life-v2.webp",
     description: { de: "Ein Freizeitgebiet am Fuße des Kopet-Dag-Gebirges, ideal für Familienausflüge mit einer Seilbahn.", hu: "Szabadidős terület a Kopet-dag hegység lábánál, ideális családi kirándulásokhoz egy kötélpályával.", ro: "O zonă de recreere la poalele Munților Kopet-Dag, ideală pentru ieșirile în familie cu telecabina.", en: "A recreation area at the foothills of the Kopet Dag mountains, ideal for family outings with a cable car." },
     facts: {
       de: ["Die Seilbahn bietet einen atemberaubenden Blick auf die Hauptstadt.", "Am Zielort gibt es viele Picknickplätze."],
       hu: ["A kötélpálya lélegzetelállító kilátást nyújt a fővárosra.", "A végállomáson számos piknikezőhely található."],
       ro: ["Telecabina oferă o vedere uluitoare asupra capitalei.", "La destinație există multe locuri pentru picnic."],
       en: ["The cable car offers a breathtaking view of the capital.", "There are many picnic spots at the destination."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Ashgabat-Seilbahnpark liegt am Fuße des Kopet-Dag-Gebirges und bietet eine Gondelbahn auf den Berg. Die Seilbahn wurde 2010 eröffnet und ist 1,5 km lang. Die Talstation befindet sich im Süden der Stadt. Die Bergstation liegt auf 1.200 Metern Höhe und bietet einen Panoramablick über Ashgabat. Die Fahrt dauert etwa 10 Minuten. Die Gondeln fassen bis zu 6 Personen. Der Park umfasst auch einen Vergnügungsbereich mit Spielplätzen und Picknickplätzen. Die Anlage ist ganzjährig in Betrieb. Die Höhendifferenz beträgt 400 Meter. Der Park ist ein beliebtes Ausflugsziel für Einheimische. Die Preise sind moderat. Die Seilbahn ist bei Touristen beliebt, um die Stadt von oben zu sehen.",
+      hu: "Az ashgabati Siklóvasút Park a Kopet-Dag hegység lábánál található, ahonnan gondola visz fel a hegyre. A siklót 2010-ben nyitották meg, hossza 1,5 km. Az alsó állomás a város déli részén van. A felső állomás 1200 méter magasan van, panorámás kilátással Ashgabat városára. Az út körülbelül 10 percig tart. A gondolák legfeljebb 6 főt szállítanak. A parkban játszótér és piknikhelyek is vannak. Egész évben üzemel. A szintkülönbség 400 m. A park népszerű kirándulóhely. Az árak mérsékeltek. A sikló vonzza a turistákat, akik a várost felülről szeretnék látni.",
+      ro: "Parcul cu telecabină din Așgabat este situat la poalele Munților Kopet-Dag, oferind o telecabină spre munte. Telecabina a fost deschisă în 2010, având o lungime de 1,5 km. Stația de bază se află în sudul orașului. Stația superioară este la 1.200 m altitudine, oferind o vedere panoramică asupra Așgabatului. Călătoria durează aproximativ 10 minute. Cabinele pot transporta până la 6 persoane. Parcul include și zone de joacă și picnic. Este deschis tot anul. Diferența de altitudine este de 400 m. Este o destinație populară pentru localnici. Prețurile sunt moderate. Telecabina atrage turiști dornici să vadă orașul de sus.",
+      en: "Ashgabat Cable Car Park, at the foot of the Kopet Dag mountains, features a gondola lift to the mountain. Opened in 2010, the cable car is 1.5 km long. The base station is in south Ashgabat, and the top station at 1,200 m elevation offers panoramic views of the city. The ride takes about 10 minutes. Cabins hold up to 6 passengers. The park also has playgrounds and picnic areas. It operates year-round. The vertical rise is 400 m. It is a popular local attraction with moderate prices, attracting tourists for aerial views of Ashgabat.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 2010", "Länge der Seilbahn: 1,5 km", "Höhenunterschied: 400 m", "Höhe der Bergstation: 1.200 m", "Fahrzeit: 10 Minuten", "Kapazität pro Gondel: 6 Personen"],
+      hu: ["Megnyitás: 2010", "Sikló hossza: 1,5 km", "Szintkülönbség: 400 m", "Felső állomás magassága: 1200 m", "Menetidő: 10 perc", "Gondolánkénti kapacitás: 6 fő"],
+      ro: ["Deschis în: 2010", "Lungimea telecabinei: 1,5 km", "Diferență de altitudine: 400 m", "Altitudinea stației superioare: 1.200 m", "Durata călătoriei: 10 minute", "Capacitate per cabină: 6 persoane"],
+      en: ["Opened: 2010", "Cable car length: 1.5 km", "Vertical rise: 400 m", "Top station elevation: 1,200 m", "Ride duration: 10 minutes", "Capacity per gondola: 6 persons"],
+    },
   }
 ];

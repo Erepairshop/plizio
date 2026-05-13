@@ -15,14 +15,11 @@ export const poiExtraEquatorialguineaNatureV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A Pico Basile (korábban Santa Isabel-hegy) Egyenlítői-Gínea legmagasabb pontja, egy 3011 méter magas kialudt pajzsvulkán Bioko szigetén. A hegy uralja a sziget északi látképét, és Malabo városa a lábainál terül el. A Pico Basile Nemzeti Park részeként a hegy rendkívüli vertikális biodiverzitással rendelkezik: a trópusi esőerdőktől a köderdőkön át egészen az alpesi gyepekig minden zóna megtalálható. Tetején számos távközlési antenna és egy Szűz Mária-szobor található, ahonnan tiszta időben látható a nigériai partvidék és a kameruni Mount Cameroon vulkán is. A hegycsúcsra vezető aszfaltozott út az ország egyik leglátványosabb panorámaútja, amely érinti a felhőket.", ro: "Pico Basile este cel mai înalt munte din Guineea Ecuatorială, ridicându-se maiestuos la 3.011 metri pe insula Bioko. Acest vulcan masiv tip scut domină orizontul capitalei Malabo și oferă o secțiune transversală uimitoare a ecosistemelor africane, de la păduri tropicale de joasă altitudine la pajiști montane rare la vârf. Summitul este adesea învăluit în nori, dar în zilele senine oferă vederi spectaculoase până la Muntele Camerun, peste ocean. Pico Basile este un punct fierbinte de biodiversitate, adăpostind specii endemice de plante și animale, inclusiv primate rare și păsări de munte. Importanța sa ecologică este dublată de semnificația culturală pentru poporul Bubi, care consideră muntele sacru. Parcul Național Pico Basile protejează acest peisaj vulcanic unic pentru generațiile viitoare. Ecologie K8, Geografie K7.",
       de: "Der Pico Basile, ehemals als Pico de Santa Isabel bekannt, ist mit einer beeindruckenden Höhe von 3.011 Metern der höchste Gipfel Äquatorialguineas und ein dominantes Merkmal der Vulkaninsel Bioko. Der massive Schichtvulkan bietet nicht nur spektakuläre Panoramablicke über die Insel und den Golf von Guinea, sondern beherbergt auch eine vielfältige Flora und Fauna, die in den verschiedenen Höhenstufen von tropischen Wäldern bis zu alpinen Zonen reicht. Der Berg ist ein zentrales geografisches Element der Insel und dient als wichtiges Ökosystem für viele endemische Arten, darunter seltene Primaten, die in den geschützten Waldgebieten an seinen Hängen heimisch sind. Geografie K7, Biologie K8.",
-      en: "Pico Basile, formerly known as Pico de Santa Isabel, is the highest mountain in Equatorial Guinea, reaching an impressive altitude of 3,011 meters. As the tallest peak on Bioko Island and a dominant feature of its volcanic landscape, this massive shield volcano offers spectacular panoramic views across the island and the Gulf of Guinea. The mountain's slopes are home to a diverse range of ecological zones, transitioning from lush tropical rainforests at the base to specialized alpine vegetation near the summit. Pico Basile is a critical habitat for many endemic species, including rare primates that find refuge in its protected cloud forests. Its geological prominence and biological richness make it a site of immense national and scientific importance. Curriculum: Geography K7, Biology K8.",
-image: "/poi-images/pico-basile-nature-v2.webp"
-},
+      en: "Pico Basile, formerly known as Pico de Santa Isabel, is the highest mountain in Equatorial Guinea, reaching an impressive altitude of 3,011 meters. As the tallest peak on Bioko Island and a dominant feature of its volcanic landscape, this massive shield volcano offers spectacular panoramic views across the island and the Gulf of Guinea. The mountain's slopes are home to a diverse range of ecological zones, transitioning from lush tropical rainforests at the base to specialized alpine vegetation near the summit. Pico Basile is a critical habitat for many endemic species, including rare primates that find refuge in its protected cloud forests. Its geological prominence and biological richness make it a site of immense national and scientific importance. Curriculum: Geography K7, Biology K8."},
     factsAdvanced: { hu: ["A Pico Basile 3011 méteres magasságával az ország legmagasabb csúcsa.", "Egy kialudt pajzsvulkán, amely Bioko-sziget északi felét alkotja.", "A nemzeti park több mint 30 ezer hektáron terül el.", "Tetejéről látható Afrika szárazföldi partvidéke és a Mount Cameroon.", "Egyedülálló növényfajoknak és ritka főemlősöknek ad otthont.", "Az aszfaltozott út egészen a csúcsig vezet, áthaladva a felhőzónán."], ro: ["Cel mai înalt vârf al țării, atingând 3.011 metri.", "Vulcan activ de tip scut cu soluri extrem de fertile.", "Adăpostește numeroase specii de păsări și plante endemice.", "Parte integrantă a Parcului Național Pico Basile.", "Oferă o panoramă uimitoare asupra Golfului Guineei.", "Locație strategică pentru turnurile de comunicații naționale.", "Sursă vitală de apă dulce pentru regiunea Malabo."],
       de: ["Mit 3.011 Metern der höchste Berg des Landes.", "Teil des vulkanischen 'Cameroon Volcanic Line' Systems.", "Die Hänge sind in verschiedene ökologische Zonen unterteilt.", "Wichtiger Lebensraum für seltene Affenarten.", "Der Vulkan ist geologisch aktiv, aber zurzeit in einer Ruhephase.", "Bietet bei klarem Wetter einen Blick bis zur Küste Kameruns."],
-      en: ["The highest peak in Equatorial Guinea at 3,011 meters.", "Part of the volcanic 'Cameroon Volcanic Line' system.", "Features distinct ecological zones from sea level to summit.", "Critical habitat for rare primates and endemic bird species.", "The volcano is geologically active but currently dormant.", "Offers views as far as the coast of Cameroon on clear days.", "Surrounded by the Pico Basile National Park for conservation."]
-    }
-  },
+      en: ["The highest peak in Equatorial Guinea at 3,011 meters.", "Part of the volcanic 'Cameroon Volcanic Line' system.", "Features distinct ecological zones from sea level to summit.", "Critical habitat for rare primates and endemic bird species.", "The volcano is geologically active but currently dormant.", "Offers views as far as the coast of Cameroon on clear days.", "Surrounded by the Pico Basile National Park for conservation."] } },
+    image: "/poi-images/pico-basile-nature-v2.webp",
     description: {
       de: "Der höchste Berg Äquatorialguineas, ein massiver Vulkan auf der Insel Bioko mit Blick auf Malabo.",
       hu: "Egyenlítői-Guinea legmagasabb hegye, egy masszív tűzhányó Bioko szigetén, amely Malabóra néz.",
@@ -121,14 +118,11 @@ image: "/poi-images/monte-alen-forest-nature-v2.webp"
     ,
     descriptionAdvanced: { hu: "A Rio Benito (más néven Wele-folyó) Egyenlítői-Gínea szárazföldi részének leghosszabb és legfontosabb folyója. A folyó az ország keleti határától folyik nyugat felé, végül az Atlanti-óceánba ömlik Mbini városánál. A Rio Benito nemcsak a szárazföld vízrajzi tengelye, hanem meghatározó gazdasági forrás is: vizét öntözésre, halászatra és áramtermelésre is használják. Partjait sűrű trópusi erdők és mangrove-mocsarak szegélyezik, amelyek gazdag élővilágnak adnak otthont. A folyó torkolata felett átívelő hatalmas Mbini-híd az ország egyik legmodernebb építménye, amely összeköti a part menti régiót. A Rio Benito méltóságteljes folyása az ország erejét és folyamatosságát szimbolizálja.", ro: "Râul Benito, cunoscut și sub numele de Mbini, este cea mai lungă și semnificativă cale navigabilă din Guineea Ecuatorială continentală. Izvorând din Gabon, râul șerpuiește prin inima regiunii Río Muni, tăind păduri tropicale adânci înainte de a se vărsa spectaculos în Oceanul Atlantic la Mbini. Estuarul său larg este o zonă de o frumusețe naturală remarcabilă, unde apele dulci se întâlnesc cu cele sărate, creând habitate bogate pentru mangrove și diverse specii de pești. Râul a servit istoric ca arteră principală de transport și comerț, conectând interiorul țării cu coasta. Astăzi, Benito rămâne vital pentru pescuitul local, agricultură și potențialul său hidroenergetic, fiind un simbol al puterii naturii continentale. Geografie K6, Economie K7.",
       de: "Der Benito-Fluss, auch als Mbini bekannt, stellt die wichtigste hydrologische Ader im kontinentalen Äquatorialguinea dar und durchfließt die Region Río Muni auf einer Strecke von etwa 338 Kilometern von Osten nach Westen. Der Fluss spielt eine zentrale Rolle für die lokale Wirtschaft, indem er als Transportweg für den Holzhandel dient, und bildet ein lebenswichtiges ökologisches Rückgrat für den tropischen Regenwald. Die Uferregionen des Benito-Flusses sind geprägt von einer reichen Artenvielfalt und bieten zahlreichen Tierarten, darunter Krokodile und verschiedene Wasservögel, ein Zuhause. Der Fluss ist eng mit dem täglichen Leben und den Handelsrouten der ansässigen Bevölkerung verbunden. Geografie K6, Wirtschaft K7.",
-      en: "The Benito River, also known as the Mbini, is the most important hydrological artery in mainland Equatorial Guinea, flowing through the Rio Muni region for approximately 338 kilometers from east to west. The river plays a central role in the local economy, historically serving as a major transportation route for the timber industry and as a vital source of fish for the coastal populations. It forms the ecological backbone of the mainland's tropical rainforests, supporting a rich biodiversity along its banks and within its waters. The estuary where it meets the Atlantic Ocean at the town of Mbini is a dynamic zone of brackish water and sandbars, providing essential habitats for marine and riverine species. Curriculum: Geography K6, Economics K7.",
-image: "/poi-images/rio-benito-nature-v2.webp"
-},
+      en: "The Benito River, also known as the Mbini, is the most important hydrological artery in mainland Equatorial Guinea, flowing through the Rio Muni region for approximately 338 kilometers from east to west. The river plays a central role in the local economy, historically serving as a major transportation route for the timber industry and as a vital source of fish for the coastal populations. It forms the ecological backbone of the mainland's tropical rainforests, supporting a rich biodiversity along its banks and within its waters. The estuary where it meets the Atlantic Ocean at the town of Mbini is a dynamic zone of brackish water and sandbars, providing essential habitats for marine and riverine species. Curriculum: Geography K6, Economics K7."},
     factsAdvanced: { hu: ["Egyenlítői-Gínea leghosszabb folyója (kb. 338 km).", "A szárazföldi rész fő vízforrása és közlekedési folyosója.", "Két nagy vízerőmű (Djibloho és Sendje) is épült a medrében.", "Torkolatánál található Mbini városa és az ország egyik leghosszabb hídja.", "Gazdag tengeri és édesvízi halállománnyal rendelkezik.", "Fontos szerepet tölt be a helyi legendákban és a Fang kultúrában."], ro: ["Cel mai lung râu care traversează teritoriul continental.", "Sursă primară de apă și pește pentru comunitățile locale.", "Formează un estuar spectaculos la gura de vărsare din Mbini.", "Artera istorică de transport pentru lemn și mărfuri.", "Susține ecosisteme vaste de mangrove de-a lungul coastei.", "Cunoscut pentru curentul său puternic și debitul constant.", "Cumpănă de ape majoră pentru regiunea centrală Río Muni."],
       de: ["Längster Fluss des Festlandes (ca. 338 km).", "Zentraler Transportweg für die Holzindustrie.", "Die Flussmündung ist eine dynamische ökologische Zone.", "Lebensraum für Krokodile und eine reiche Fischwelt.", "Die Brücke bei Mbini ist ein markantes Bauwerk über den Fluss."],
-      en: ["The longest river on the mainland at approximately 338 km.", "Central transport route for the regional timber industry.", "Discharges into the Atlantic Ocean at the town of Mbini.", "The estuary is a highly productive and dynamic ecological zone.", "Habitat for crocodiles, hippos, and a diverse range of fish.", "The Mbini Bridge is a major engineering landmark over the river.", "Crucial for the livelihoods of thousands of people in Rio Muni."]
-    }
-  },
+      en: ["The longest river on the mainland at approximately 338 km.", "Central transport route for the regional timber industry.", "Discharges into the Atlantic Ocean at the town of Mbini.", "The estuary is a highly productive and dynamic ecological zone.", "Habitat for crocodiles, hippos, and a diverse range of fish.", "The Mbini Bridge is a major engineering landmark over the river.", "Crucial for the livelihoods of thousands of people in Rio Muni."] } },
+    image: "/poi-images/rio-benito-nature-v2.webp",
     description: {
       de: "Der längste Fluss im kontinentalen Teil von Äquatorialguinea, der das Land von Osten nach Westen durchquert.",
       hu: "Egyenlítői-Guinea kontinentális részének leghosszabb folyója, amely keletről nyugatra szeli át az országot.",
@@ -174,14 +168,11 @@ image: "/poi-images/rio-benito-nature-v2.webp"
     ,
     descriptionAdvanced: { hu: "Corisco-szigete (spanyolul Isla de Corisco) egy varázslatos fehér homokos sziget a Gabonnal közös határ közelében, a Rio Muni-öbölben. A sziget neve portugálul 'villámlást' jelent, utalva a trópusi viharokra, amelyek a tengerészeket fogadták. Corisco híres kristálytiszta vizéről, azúr kék öbleiről és békés hangulatáról, amely éles ellentétben áll a szárazföld nyüzsgésével. Történelmileg a Benga nép otthona, és fontos kereskedelmi pont volt a gyarmati időkben. A szigeten nemrég modern repülőtér épült, de a turizmus még mindig gyerekcipőben jár, megőrizve a hely érintetlenségét. Corisco a nyugalom szigete, ahol a pálmafák és az óceán morajlása az úr.", ro: "Insula Corisco, situată în partea de sud a apelor teritoriale ale Guineei Ecuatoriale, este un paradis de nisip alb și ape turcoaz. Cunoscută sub numele de 'Insula Iubirii', Corisco se remarcă prin relieful său relativ plat și plajele sale idilice care sunt printre cele mai frumoase din Golful Guineei. Natura insulei este caracterizată de o vegetație de coastă adaptată solurilor nisipoase și de recife de corali vibrante care înconjoară țărmurile sale. Istoria sa bogată, legată de poporul Benga, este împletită cu mediul marin care asigură subzistența locuitorilor. Corisco oferă un refugiu liniștit și o oportunitate unică de a experimenta natura insulară nealterată, fiind un sit prioritar pentru conservarea ecosistemelor de plajă și a speciilor marine. Geografie K6, Științe Sociale K7.",
       de: "Die Insel Corisco liegt im Golf von Guinea, nur einen Steinwurf vor der Küste von Río Muni, und besticht durch ihre unberührte natürliche Schönheit mit blendend weißen Sandstränden und kristallklarem, türkisfarbenem Wasser. Der Name Corisco, was auf Portugiesisch 'Blitz' bedeutet, zeugt von der langen, bewegten Geschichte der Insel als einstiger bedeutender Handelsposten im Südatlantik. Heute ist die Insel eine Oase der Ruhe, die für ihren sanften Tourismus und ihre ökologische Bedeutung bekannt ist. Die Küstengewässer rund um Corisco sind ein bedeutender Lebensraum für Meeresschildkröten und bieten eine reiche marine Flora und Fauna, die Schutz und Erhalt verdient. Geografie K5, Meereskunde K7.",
-      en: "Corisco Island is a stunning tropical island located in the Gulf of Guinea, just off the coast of Rio Muni. It is renowned for its breathtaking natural beauty, featuring dazzling white-sand beaches and crystal-clear, turquoise waters that rival any in the Atlantic. The name Corisco, which means 'lightning' in Portuguese, reflects the island's long and storied history as an important trading post and maritime center. Today, the island is a sanctuary of peace and a focus for sustainable tourism development. The coastal waters around Corisco are vital nesting grounds for sea turtles and support a rich marine flora and fauna, making the island a priority for marine conservation efforts. Curriculum: Geography K5, Marine Science K7.",
-image: "/poi-images/corisco-island-nature-v2.webp"
-},
+      en: "Corisco Island is a stunning tropical island located in the Gulf of Guinea, just off the coast of Rio Muni. It is renowned for its breathtaking natural beauty, featuring dazzling white-sand beaches and crystal-clear, turquoise waters that rival any in the Atlantic. The name Corisco, which means 'lightning' in Portuguese, reflects the island's long and storied history as an important trading post and maritime center. Today, the island is a sanctuary of peace and a focus for sustainable tourism development. The coastal waters around Corisco are vital nesting grounds for sea turtles and support a rich marine flora and fauna, making the island a priority for marine conservation efforts. Curriculum: Geography K5, Marine Science K7."},
     factsAdvanced: { hu: ["14 km² területű sziget a Rio Muni-torkolat közelében.", "Híres vakítóan fehér homokos strandjairól és türkizkék vizéről.", "A sziget lakói a Benga népcsoporthoz tartoznak, saját nyelvvel.", "2011-ben adták át a sziget modern nemzetközi repülőterét.", "Környezete gazdag tengeri teknősökben és ritka madárfajokban.", "Történelmi missziók és régi temetők maradványai is megtalálhatóak rajta."], ro: ["Faimoasă pentru plajele sale cu nisip alb și fin.", "Înconjurată de ape limpezi și recife de corali bogate.", "Relief predominant plat, ideal pentru explorarea pe jos.", "Locație istorică importantă pentru cultura poporului Benga.", "Situată strategic în golful Corisco, lângă granița cu Gabon.", "Sanctuar pentru biodiversitatea marină și țestoasele călătoare.", "Destinație emergentă pentru ecoturismul durabil în regiune."],
       de: ["Insel mit ca. 14 Quadratkilometern Fläche.", "Historisch ein wichtiges Zentrum für den Handel.", "Besitzt einige der schönsten weißen Sandstrände der Region.", "Die Gewässer sind für ihre hohe Transparenz bekannt.", "Wichtige Nistplätze für Meeresschildkröten.", "Die Insel ist ein Symbol für die koloniale Vergangenheit der Region."],
-      en: ["A tropical island covering about 14 square kilometers.", "Historically a major center for regional maritime trade.", "Features some of the most beautiful white-sand beaches in Africa.", "Surrounding waters are known for exceptional clarity and purity.", "Critical nesting site for several species of sea turtles.", "Located 29 kilometers off the mainland coast of Rio Muni.", "A symbol of the region's diverse colonial and maritime past."]
-    }
-  },
+      en: ["A tropical island covering about 14 square kilometers.", "Historically a major center for regional maritime trade.", "Features some of the most beautiful white-sand beaches in Africa.", "Surrounding waters are known for exceptional clarity and purity.", "Critical nesting site for several species of sea turtles.", "Located 29 kilometers off the mainland coast of Rio Muni.", "A symbol of the region's diverse colonial and maritime past."] } },
+    image: "/poi-images/corisco-island-nature-v2.webp",
     description: {
       de: "Eine paradiesische Insel im Golf von Guinea, bekannt für ihre weißen Sandstrände und türkisfarbenes Wasser.",
       hu: "Paradicsomi sziget a Guineai-öbölben, amely fehér homokos strandjairól és türkizkék vizéről ismert.",
@@ -227,14 +218,11 @@ image: "/poi-images/corisco-island-nature-v2.webp"
     ,
     descriptionAdvanced: { hu: "Annobón szigete Egyenlítői-Gínea legtávolabbi és legizoláltabb területe, az Egyenlítőtől délre fekvő vulkanikus gyöngyszem az Atlanti-óceánban. A sziget egyetlen hatalmas vulkáni hegyből áll, amely meredeken emelkedik ki a mélyvízből. Legmagasabb pontja a Pico Quioveo, kráterében pedig a gyönyörű Lago A Pot (Szent Antal-tó) található. Annobón különlegessége az egyedi kreol kultúrája és nyelve, valamint a bálnák közelsége. A sziget tájait sűrű erdők, meredek sziklák és apró fekete homokos öblök jellemzik. Elszigeteltsége miatt Annobónon az idő megállt, és a természet az úr: a szigetet körülvevő vizek az egyik legtisztábbak és leggazdagabbak az egész Atlanti-óceánban.", ro: "Insula Annobón este cea mai îndepărtată provincie a Guineei Ecuatoriale, o bijuterie vulcanică izolată în Atlanticul de Sud. Caracterizată prin munți abrupți de bazalt și un lac de crater mistic în centrul său, insula oferă un peisaj de o sălbăticie dramatică. Izolarea sa extremă a permis evoluția unor specii unice de păsări și plante care nu se găsesc nicăieri altundeva pe pământ. Apele înconjurătoare sunt extrem de bogate în viață marină, fiind o zonă critică pentru trecerea balenelor cu cocoașă și a delfinilor. Cultura locală, cu influențe portugheze și africane, este strâns legată de mare și de resursele limitate ale insulei. Annobón reprezintă una dintre ultimele frontiere ale naturii virgine din Africa, fiind un laborator viu pentru biologia insulară. Geografie K7, Biologie K8.",
       de: "Annobón ist die isolierteste und südlichste Provinz Äquatorialguineas, eine kleine Vulkaninsel mitten im Südatlantik, die aufgrund ihrer weiten Entfernung zum Hauptgebiet eine ganz eigene Geschichte und Kultur entwickelt hat. Die Landschaft der Insel ist durch ihre zerklüftete vulkanische Struktur geprägt, in deren Zentrum sich ein idyllischer Kratersee befindet. Diese Isolation hat zur Entstehung endemischer Arten geführt, wie dem charakteristischen Annobón-Brillenvogel, und zur Bewahrung einer einzigartigen lokalen Identität beigetragen. Die Inselbewohner pflegen eine starke Verbindung zu ihrem Erbe, das sowohl afrikanische als auch europäische Einflüsse, insbesondere aus der Zeit der portugiesischen Präsenz, widerspiegelt. Geografie K7, Geschichte K8.",
-      en: "Annobón is the most isolated and southernmost province of Equatorial Guinea, a small volcanic island situated in the South Atlantic Ocean. Due to its great distance from the mainland, the island has developed a unique history, culture, and ecology. The landscape is dominated by rugged volcanic peaks and a beautiful crater lake at its center, known as Lago a Pot. This geographic isolation has led to the evolution of several endemic species, such as the Annobón white-eye bird. The islanders maintain a distinct identity, including the use of the Fa d'Ambu language, which reflects a blend of Portuguese and African influences. Annobón represents an extraordinary example of isolated island evolution and cultural resilience. Curriculum: Geography K7, History K8.",
-image: "/poi-images/annobon-island-nature-v2.webp"
-},
+      en: "Annobón is the most isolated and southernmost province of Equatorial Guinea, a small volcanic island situated in the South Atlantic Ocean. Due to its great distance from the mainland, the island has developed a unique history, culture, and ecology. The landscape is dominated by rugged volcanic peaks and a beautiful crater lake at its center, known as Lago a Pot. This geographic isolation has led to the evolution of several endemic species, such as the Annobón white-eye bird. The islanders maintain a distinct identity, including the use of the Fa d'Ambu language, which reflects a blend of Portuguese and African influences. Annobón represents an extraordinary example of isolated island evolution and cultural resilience. Curriculum: Geography K7, History K8."},
     factsAdvanced: { hu: ["17 km²-es vulkanikus sziget, 670 km-re a fővárostól, Malabótól.", "Saját, portugál alapú kreol nyelvet (Fa d'Ambu) beszélnek itt.", "Közepén egy kialudt krátertó, a Lago A Pot található.", "Egyenlítői-Gínea egyetlen déli féltekén fekvő tartománya.", "A sziget partjainál rendszeresen láthatóak hosszúszárnyú bálnák.", "A vulkanikus kőzetek miatt a partok többsége meredek és sziklás."], ro: ["Cea mai izolată insulă vulcanică din Guineea Ecuatorială.", "Găzduiește un lac spectaculos în interiorul unui crater stins.", "Cunoscută pentru speciile sale endemice de păsări și floră.", "Ape înconjurătoare bogate în balene și viață marină pelagică.", "Relief accidentat cu vârfuri de bazalt și pante abrupte.", "Locație unică pentru studiul evoluției speciilor insulare.", "Reprezintă extremitatea sudică a Liniei Vulcanice Camerun."],
       de: ["Einzige Provinz des Landes auf der Südhalbkugel.", "Die Insel ist vulkanischen Ursprungs (entstanden vor Millionen Jahren).", "Besitzt einen malerischen Kratersee im Zentrum.", "Heimat der seltenen Annobón-Brillenvögel.", "Die lokale Kultur ist stark durch isolierte Entwicklung geprägt.", "Amtssprache beinhaltet auch den Dialekt 'Fa d'Ambu'."],
-      en: ["The only province of the country located south of the Equator.", "The island was formed by volcanic activity millions of years ago.", "Features a picturesque freshwater crater lake in its interior.", "Home to the rare and endemic Annobón white-eye bird.", "Local culture and language are shaped by centuries of isolation.", "Official languages include Spanish and the local Fa d'Ambu.", "Discovered by Portuguese explorers on New Year's Day, 1471."]
-    }
-  },
+      en: ["The only province of the country located south of the Equator.", "The island was formed by volcanic activity millions of years ago.", "Features a picturesque freshwater crater lake in its interior.", "Home to the rare and endemic Annobón white-eye bird.", "Local culture and language are shaped by centuries of isolation.", "Official languages include Spanish and the local Fa d'Ambu.", "Discovered by Portuguese explorers on New Year's Day, 1471."] } },
+    image: "/poi-images/annobon-island-nature-v2.webp",
     description: {
       de: "Eine abgelegene Vulkaninsel südlich des Äquators, die einzige Provinz des Landes auf der Südhalbkugel.",
       hu: "Egy távoli vulkáni sziget az Egyenlítőtől délre, az ország egyetlen tartománya a déli féltekén.",
@@ -280,14 +268,11 @@ image: "/poi-images/annobon-island-nature-v2.webp"
     ,
     descriptionAdvanced: { hu: "Bioko szigete (korábban Fernando Po) Egyenlítői-Gínea szívverése, ahol a főváros, Malabo is található. A vulkanikus eredetű sziget a Guineai-öbölben fekszik, és lenyűgöző hegyvonulatai, köztük a 3011 méteres Pico Basile, uralják a tájat. Bioko a világ egyik legcsapadékosabb és legzöldebb helye, ahol a trópusi esőerdők szinte minden négyzetmétert beborítanak. A sziget déli része, a Luba-kráter és környéke szinte teljesen érintetlen vadon, ahol ritka főemlősök és tengeri teknősök élnek. Gazdag vulkanikus talaja tette lehetővé a híres kakaóültetvények virágzását a múltban. Bioko a természet és a modernitás különleges elegye, ahol a felhőkarcolók és az őserdők egymás mellett léteznek.", ro: "Insula Bioko este o minune geologică și ecologică situată în largul coastei Africii de Vest, formată dintr-un lanț de trei vulcani stinși impresionanți. Cel mai mare, Pico Basile, domină peisajul cu înălțimea sa impunătoare, în timp ce craterele din sud adăpostesc lacuri de munte cristaline și păduri de ceață verzi. Natura pe Bioko este de o bogăție copleșitoare, variind de la plajele cu nisip negru vulcanic din nord la pădurile virgine de pe Platoul Moka. Insula este celebră la nivel mondial pentru populațiile sale de primate, inclusiv sfredelul (drilling) și numeroase specii de colobus, care prosperă în zonele protejate. Fiind separată de continent după ultima eră glaciară, Bioko a devenit un rezervor de biodiversitate unică, oferind un contrast uimitor între peisajele vulcanice aspre și viața tropicală vibrantă. Geografie K7, Biologie K8.",
       de: "Bioko ist die größte Insel Äquatorialguineas und liegt strategisch im Golf von Guinea, unweit der kamerunischen Küste. Ihre Landschaft ist tiefgreifend durch den Vulkanismus geformt, mit dem imposanten Pico Basile als zentralem Gipfel, der das Bild der Insel prägt. Aufgrund des fruchtbaren vulkanischen Bodens und des feuchtheißen Klimas ist die Insel historisch als Zentrum für den Anbau hochwertiger Exportgüter wie Kakao bekannt. Bioko vereint heute das politische Zentrum des Landes in Malabo mit einer beeindruckenden natürlichen Vielfalt, die von dichten Regenwäldern bis hin zu abgelegenen Stränden reicht. Die Insel ist ein wichtiger Pfeiler der nationalen Wirtschaft und des ökologischen Erbes. Geografie K7, Wirtschaft K8.",
-      en: "Bioko is the largest island of Equatorial Guinea and is strategically located in the Bight of Biafra, near the coast of Cameroon. The island's geography is profoundly shaped by its volcanic origins, with the massive Pico Basile forming its central and highest point. Thanks to its nutrient-rich volcanic soil and humid tropical climate, Bioko has historically been a world-renowned center for the production of high-quality cocoa. Today, the island hosts the nation's capital, Malabo, and serves as the political and economic heart of the country. Bioko offers an incredible range of natural landscapes, from dense montane forests and crater lakes to pristine coastal beaches, making it a vital pillar of the nation's natural heritage. Curriculum: Geography K7, Economics K8.",
-image: "/poi-images/bioko-island-nature-v2.webp"
-},
+      en: "Bioko is the largest island of Equatorial Guinea and is strategically located in the Bight of Biafra, near the coast of Cameroon. The island's geography is profoundly shaped by its volcanic origins, with the massive Pico Basile forming its central and highest point. Thanks to its nutrient-rich volcanic soil and humid tropical climate, Bioko has historically been a world-renowned center for the production of high-quality cocoa. Today, the island hosts the nation's capital, Malabo, and serves as the political and economic heart of the country. Bioko offers an incredible range of natural landscapes, from dense montane forests and crater lakes to pristine coastal beaches, making it a vital pillar of the nation's natural heritage. Curriculum: Geography K7, Economics K8."},
     factsAdvanced: { hu: ["2017 km² területű sziget, az ország politikai és gazdasági központja.", "Három kialudt vulkán alkotja a sziget domborzatát.", "Itt található Afrika egyik legmagasabb tengerparti vulkánja, a Pico Basile.", "A déli partvidék (Ureca) a világ egyik legcsapadékosabb területe.", "Híres az endemikus cerkófmajom-fajairól és teknős-fészkelőhelyeiről.", "A szárazföldtől (Rio Muni) 160 km-re, Kamerun partjaitól 40 km-re fekszik."], ro: ["Insulă de origine vulcanică cu soluri extrem de roditoare.", "Găzduiește trei vulcani majori, inclusiv masivul Pico Basile.", "Faimoasă pentru populațiile rare și diverse de primate.", "Prezintă o gamă largă de habitate, de la coastă la munte.", "Sursă esențială de apă dulce prin numeroasele sale râuri.", "Plajele din sud sunt locuri majore de cuibărit pentru țestoase.", "Centru administrativ și natural al Guineei Ecuatoriale."],
       de: ["Größte Insel Äquatorialguineas (ca. 2.017 km²).", "Ehemals unter dem Namen Fernando Pó bekannt.", "Zentrum der nationalen Kakaoproduktion.", "Die Insel hat eine sehr fruchtbare vulkanische Erde.", "Bietet eine immense ökologische Vielfalt auf engem Raum.", "Sitz der Hauptstadt Malabo."],
-      en: ["The largest island of Equatorial Guinea at 2,017 km².", "Formerly known by the colonial name Fernando Pó.", "Central hub for the country's historic cocoa production.", "Features extremely fertile volcanic soils for agriculture.", "Located just 32 kilometers off the mainland coast of Cameroon.", "Seat of the national capital city, Malabo, in the north.", "Home to diverse ecosystems including cloud forests and calderas."]
-    }
-  },
+      en: ["The largest island of Equatorial Guinea at 2,017 km².", "Formerly known by the colonial name Fernando Pó.", "Central hub for the country's historic cocoa production.", "Features extremely fertile volcanic soils for agriculture.", "Located just 32 kilometers off the mainland coast of Cameroon.", "Seat of the national capital city, Malabo, in the north.", "Home to diverse ecosystems including cloud forests and calderas."] } },
+    image: "/poi-images/bioko-island-nature-v2.webp",
     description: {
       de: "Die größte Insel Äquatorialguineas, auf der sich die Hauptstadt Malabo befindet, geprägt von vulkanischer Geographie.",
       hu: "Egyenlítői-Guinea legnagyobb szigete, ahol a főváros, Malabo található, vulkáni domborzat jellemzi.",
@@ -329,9 +314,8 @@ image: "/poi-images/bioko-island-nature-v2.webp"
       de: "Lago de Biao",
       hu: "Biao-tó",
       ro: "Lago de Biao",
-      en: "Lago de Biao",
-image: "/poi-images/lago-de-biao-nature-v2.webp"
-},
+      en: "Lago de Biao"},
+    image: "/poi-images/lago-de-biao-nature-v2.webp",
     description: {
       de: "Ein malerischer Kratersee im südlichen Teil der Insel Bioko, umgeben von üppiger tropischer Vegetation.",
       hu: "Gyakran felhőkbe burkolózó, festői kráterto Bioko szigetének déli részén, dús trópusi növényzettel körülvéve.",
@@ -386,9 +370,8 @@ image: "/poi-images/lago-de-biao-nature-v2.webp"
       de: "Gran Caldera de Luba",
       hu: "Luba nagy kalderája",
       ro: "Gran Caldera de Luba",
-      en: "Gran Caldera de Luba",
-image: "/poi-images/gran-caldera-luba-nature-v2.webp"
-},
+      en: "Gran Caldera de Luba"},
+    image: "/poi-images/gran-caldera-luba-nature-v2.webp",
     description: {
       de: "Ein massiver vulkanischer Einsturzkrater im Süden von Bioko, der eines der unberührtesten Waldgebiete Afrikas beherbergt.",
       hu: "Masszív vulkáni beszakadási kráter Bioko déli részén, amely Afrika egyik legérintetlenebb erdőterületének ad otthont.",
@@ -443,9 +426,8 @@ image: "/poi-images/gran-caldera-luba-nature-v2.webp"
       de: "Muni-Fluss",
       hu: "Muni-folyó",
       ro: "Râul Muni",
-      en: "Muni River",
-image: "/poi-images/rio-muni-nature-v2.webp"
-},
+      en: "Muni River"},
+    image: "/poi-images/rio-muni-nature-v2.webp",
     description: {
       de: "Ein breites Ästuar im Südwesten Äquatorialguineas, das dem kontinentalen Teil des Landes seinen Namen gibt.",
       hu: "Széles tölcsértorkolat Egyenlítői-Guinea délnyugati részén, amely az ország kontinentális részének nevét adja.",
@@ -500,9 +482,8 @@ image: "/poi-images/rio-muni-nature-v2.webp"
       de: "Ntem-Fluss",
       hu: "Ntem-folyó",
       ro: "Râul Ntem",
-      en: "Ntem River",
-image: "/poi-images/rio-ntem-nature-v2.webp"
-},
+      en: "Ntem River"},
+    image: "/poi-images/rio-ntem-nature-v2.webp",
     description: {
       de: "Ein bedeutender Fluss im Norden des Landes, der als natürliche Grenze zwischen Kamerun und Äquatorialguinea fungiert.",
       hu: "Jelentős folyó az ország északi részén, amely természetes határként szolgál Kamerun és Egyenlítői-Guinea között.",
@@ -557,9 +538,8 @@ image: "/poi-images/rio-ntem-nature-v2.webp"
       de: "Elobey Grande",
       hu: "Elobey Grande",
       ro: "Elobey Grande",
-      en: "Elobey Grande",
-image: "/poi-images/elobey-grande-nature-v2.webp"
-},
+      en: "Elobey Grande"},
+    image: "/poi-images/elobey-grande-nature-v2.webp",
     description: {
       de: "Eine kleine, fast unbewohnte Insel an der Mündung des Muni-Flusses, die für ihre natürliche Schönheit bekannt ist.",
       hu: "Kicsi, szinte lakatlan sziget a Muni-folyó torkolatánál, amely természeti szépségéről ismert.",
@@ -614,9 +594,8 @@ image: "/poi-images/elobey-grande-nature-v2.webp"
       de: "Elobey Chico",
       hu: "Elobey Chico",
       ro: "Elobey Chico",
-      en: "Elobey Chico",
-image: "/poi-images/elobey-chico-nature-v2.webp"
-},
+      en: "Elobey Chico"},
+    image: "/poi-images/elobey-chico-nature-v2.webp",
     description: {
       de: "Die kleinere der beiden Elobey-Inseln, heute unbewohnt und von Ruinen der Kolonialzeit geprägt.",
       hu: "A két Elobey-sziget közül a kisebbik, ma lakatlan, és a gyarmati kor romjai jellemzik.",
@@ -671,9 +650,8 @@ image: "/poi-images/elobey-chico-nature-v2.webp"
       de: "Altos de Nsork Nationalpark",
       hu: "Altos de Nsork Nemzeti Park",
       ro: "Parcul Național Altos de Nsork",
-      en: "Altos de Nsork National Park",
-image: "/poi-images/altos-de-nsork-nature-v2.webp"
-},
+      en: "Altos de Nsork National Park"},
+    image: "/poi-images/altos-de-nsork-nature-v2.webp",
     description: {
       de: "Ein abgelegener Nationalpark im Südosten des Landes, bekannt für seine hügelige Landschaft und unberührten Regenwälder.",
       hu: "Távoli nemzeti park az ország délkeleti részén, amely dombos tájáról és érintetlen esőerdőiről ismert.",
@@ -728,9 +706,8 @@ image: "/poi-images/altos-de-nsork-nature-v2.webp"
       de: "Wele-Fluss",
       hu: "Wele-folyó",
       ro: "Râul Wele",
-      en: "Wele River",
-image: "/poi-images/rio-wele-nature-v2.webp"
-},
+      en: "Wele River"},
+    image: "/poi-images/rio-wele-nature-v2.webp",
     description: {
       de: "Ein bedeutender Nebenfluss des Benito-Flusses, der weite Teile des östlichen Äquatorialguinea entwässert.",
       hu: "A Benito-folyó jelentős mellékfolyója, amely Egyenlítői-Guinea keleti részének jelentős területeit csapolja le.",
@@ -785,9 +762,8 @@ image: "/poi-images/rio-wele-nature-v2.webp"
       de: "Wasserfälle von Moca",
       hu: "Moca-vízesések",
       ro: "Cascadele de la Moca",
-      en: "Cascades of Moca",
-image: "/poi-images/cascadas-de-moca-nature-v2.webp"
-},
+      en: "Cascades of Moca"},
+    image: "/poi-images/cascadas-de-moca-nature-v2.webp",
     description: {
       de: "Spektakuläre Wasserfälle im Moca-Tal auf Bioko, die über vulkanisches Gestein in die Tiefe stürzen.",
       hu: "Látványos vízesések a Bioko-szigeti Moca-völgyben, amelyek vulkáni kőzeteken zúdulnak a mélybe.",
@@ -842,9 +818,8 @@ image: "/poi-images/cascadas-de-moca-nature-v2.webp"
       de: "Arenas Blancas",
       hu: "Arenas Blancas",
       ro: "Arenas Blancas",
-      en: "Arenas Blancas",
-image: "/poi-images/arenas-blancas-nature-v2.webp"
-},
+      en: "Arenas Blancas"},
+    image: "/poi-images/arenas-blancas-nature-v2.webp",
     description: {
       de: "Ein wunderschöner Strandabschnitt in der Nähe von Luba, bekannt für seinen extrem feinen, weißen Sand.",
       hu: "Gyönyörű tengerparti szakasz Luba közelében, amely rendkívül finom, fehér homokjáról ismert.",
@@ -899,9 +874,8 @@ image: "/poi-images/arenas-blancas-nature-v2.webp"
       de: "Monte Mitra",
       hu: "Mitra-hegy",
       ro: "Monte Mitra",
-      en: "Monte Mitra",
-image: "/poi-images/monte-mitra-nature-v2.webp"
-},
+      en: "Monte Mitra"},
+    image: "/poi-images/monte-mitra-nature-v2.webp",
     description: {
       de: "Ein markanter Berg im kontinentalen Äquatorialguinea, der das umliegende Regenwaldbecken überragt.",
       hu: "Jellegzetes hegy Egyenlítői-Guinea kontinentális részén, amely a környező esőerdő-medence fölé magasodik.",
@@ -956,9 +930,8 @@ image: "/poi-images/monte-mitra-nature-v2.webp"
       de: "Golf von Guinea",
       hu: "Guineai-öböl",
       ro: "Golful Guineei",
-      en: "Gulf of Guinea",
-image: "/poi-images/golfo-de-guinea-nature-v2.webp"
-},
+      en: "Gulf of Guinea"},
+    image: "/poi-images/golfo-de-guinea-nature-v2.webp",
     description: {
       de: "Der Teil des Atlantischen Ozeans, der die Küsten Äquatorialguineas und seiner Inseln umspült.",
       hu: "Az Atlanti-óceán azon része, amely Egyenlítői-Guinea partjait és szigeteit mossa.",
@@ -1013,9 +986,8 @@ image: "/poi-images/golfo-de-guinea-nature-v2.webp"
       de: "Rio Campo",
       hu: "Rio Campo",
       ro: "Rio Campo",
-      en: "Rio Campo",
-image: "/poi-images/rio-campo-nature-v2.webp"
-},
+      en: "Rio Campo"},
+    image: "/poi-images/rio-campo-nature-v2.webp",
     description: {
       de: "Ein Grenzfluss im Norden, der in einem weiten Ästuar in den Atlantik mündet und für seine Fischvorkommen bekannt ist.",
       hu: "Északi határfolyó, amely széles tölcsértorkolattal ömlik az Atlanti-óceánba, és halállományáról ismert.",
@@ -1070,9 +1042,8 @@ image: "/poi-images/rio-campo-nature-v2.webp"
       de: "Malabo-Ästuar",
       hu: "Malabo-torkolat",
       ro: "Estuarul Malabo",
-      en: "Malabo Estuary",
-image: "/poi-images/estuario-de-malabo-nature-v2.webp"
-},
+      en: "Malabo Estuary"},
+    image: "/poi-images/estuario-de-malabo-nature-v2.webp",
     description: {
       de: "Der natürliche Meeresarm vor der Hauptstadt Malabo, der als wichtiger Hafen und ökologische Zone dient.",
       hu: "A főváros, Malabo előtti természetes tengeröböl, amely fontos kikötőként és ökológiai zónaként szolgál.",
@@ -1127,9 +1098,8 @@ image: "/poi-images/estuario-de-malabo-nature-v2.webp"
       de: "Monte Temelón",
       hu: "Temelón-hegy",
       ro: "Monte Temelón",
-      en: "Monte Temelón",
-image: "/poi-images/monte-temelon-nature-v2.webp"
-},
+      en: "Monte Temelón"},
+    image: "/poi-images/monte-temelon-nature-v2.webp",
     description: {
       de: "Ein markanter Gipfel in der Provinz Centro Sur, Teil eines wichtigen ökologischen Korridors.",
       hu: "Jellegzetes csúcs Centro Sur tartományban, egy fontos ökológiai folyosó része.",
@@ -1184,9 +1154,8 @@ image: "/poi-images/monte-temelon-nature-v2.webp"
       de: "Ureca-Wald",
       hu: "Ureca-erdő",
       ro: "Pădurea Ureca",
-      en: "Ureca Forest",
-image: "/poi-images/bosque-de-ureca-nature-v2.webp"
-},
+      en: "Ureca Forest"},
+    image: "/poi-images/bosque-de-ureca-nature-v2.webp",
     description: {
       de: "Einer der regenreichsten Orte der Welt, ein dichter Dschungel an der Südküste von Bioko.",
       hu: "A világ egyik legcsapadékosabb helye, sűrű dzsungel Bioko déli partvidékén.",
@@ -1241,9 +1210,8 @@ image: "/poi-images/bosque-de-ureca-nature-v2.webp"
       de: "Kié-Fluss",
       hu: "Kié-folyó",
       ro: "Râul Kié",
-      en: "Kié River",
-image: "/poi-images/rio-kie-nature-v2.webp"
-},
+      en: "Kié River"},
+    image: "/poi-images/rio-kie-nature-v2.webp",
     description: {
       de: "Ein Fluss im nordöstlichen Dreiländereck, der durch Gabun, Kamerun und Äquatorialguinea fließt.",
       hu: "Folyó az északkeleti hármashatárnál, amely Gabonon, Kamerunon és Egyenlítői-Guineán folyik keresztül.",
@@ -1298,9 +1266,8 @@ image: "/poi-images/rio-kie-nature-v2.webp"
       de: "Lañen-Fluss",
       hu: "Lañen-folyó",
       ro: "Râul Lañen",
-      en: "Lañen River",
-image: "/poi-images/rio-lanen-nature-v2.webp"
-},
+      en: "Lañen River"},
+    image: "/poi-images/rio-lanen-nature-v2.webp",
     description: {
       de: "Ein idyllischer Flusslauf im Herzen des Monte Alén Nationalparks, bekannt für seine klaren Stromschnellen.",
       hu: "Idilli folyóág a Monte Alén Nemzeti Park szívében, amely tiszta zúgóiról ismert.",
@@ -1355,9 +1322,8 @@ image: "/poi-images/rio-lanen-nature-v2.webp"
       de: "Mbini-Ästuar",
       hu: "Mbini-torkolat",
       ro: "Estuarul Mbini",
-      en: "Mbini Estuary",
-image: "/poi-images/estuario-de-mbini-nature-v2.webp"
-},
+      en: "Mbini Estuary"},
+    image: "/poi-images/estuario-de-mbini-nature-v2.webp",
     description: {
       de: "Der Mündungsbereich des Benito-Flusses in den Atlantik, eine dynamische Zone mit Brackwasser und Sandbänken.",
       hu: "A Benito-folyó atlanti-óceáni torkolatvidéke, sós vizű és homokpadokkal teli dinamikus zóna.",

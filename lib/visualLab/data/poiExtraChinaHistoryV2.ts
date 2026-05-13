@@ -11,9 +11,8 @@ export const poiExtraChinaHistoryV2: POI[] = [
       de: "Ming-Gräber",
       hu: "Ming-sírok",
       ro: "Mormintele Ming",
-      en: "Ming Tombs",
-image: "/poi-images/ming-tombs-history-v2.webp"
-},
+      en: "Ming Tombs"},
+    image: "/poi-images/ming-tombs-history-v2.webp",
     description: {
       de: "Eine Sammlung von Mausoleen, die von den Kaisern der Ming-Dynastie erbaut wurden. Dreizehn der sechzehn Ming-Kaiser sind hier begraben.",
       hu: "A Ming-dinasztia császárai által épített mauzóleumok gyűjteménye. Tizenhárom a tizenhat Ming császárból itt van eltemetve.",
@@ -48,9 +47,8 @@ image: "/poi-images/ming-tombs-history-v2.webp"
       de: "Terrakotta-Armee",
       hu: "Agyaghadsereg",
       ro: "Armata de teracotă",
-      en: "Terracotta Army",
-image: "/poi-images/terracotta-army-history-v2.webp"
-},
+      en: "Terracotta Army"},
+    image: "/poi-images/terracotta-army-history-v2.webp",
     description: {
       de: "Eine Sammlung von Terrakotta-Skulpturen, die die Armeen von Qin Shi Huang, dem ersten Kaiser von China, darstellen.",
       hu: "Az agyagból készült szobrok gyűjteménye, amelyek Csin Si Huang, az első kínai császár hadseregét ábrázolják.",
@@ -85,9 +83,8 @@ image: "/poi-images/terracotta-army-history-v2.webp"
       de: "Großer Buddha von Leshan",
       hu: "Leshani óriás Buddha",
       ro: "Marele Buddha din Leshan",
-      en: "Leshan Giant Buddha",
-image: "/poi-images/leshan-giant-buddha-history-v2.webp"
-},
+      en: "Leshan Giant Buddha"},
+    image: "/poi-images/leshan-giant-buddha-history-v2.webp",
     description: {
       de: "Eine 71 Meter hohe Steinstatue, die während der Tang-Dynastie in eine Felswand gehauen wurde.",
       hu: "Egy 71 méter magas kőszobor, amelyet a Tang-dinasztia idején faragtak egy sziklafalba.",
@@ -122,9 +119,8 @@ image: "/poi-images/leshan-giant-buddha-history-v2.webp"
       de: "Yungang-Grotten",
       hu: "Jünkang-barlangok",
       ro: "Grotele Yungang",
-      en: "Yungang Grottoes",
-image: "/poi-images/yungang-grottoes-history-v2.webp"
-},
+      en: "Yungang Grottoes"},
+    image: "/poi-images/yungang-grottoes-history-v2.webp",
     description: {
       de: "Antike chinesische buddhistische Tempelgrotten in der Nähe der Stadt Datong in der Provinz Shanxi.",
       hu: "Ősi kínai buddhista templombarlangok Tatung városának közelében, Sanhszi tartományban.",
@@ -159,9 +155,8 @@ image: "/poi-images/yungang-grottoes-history-v2.webp"
       de: "Mogao-Grotten",
       hu: "Mokao-barlangok",
       ro: "Grotele Mogao",
-      en: "Mogao Caves",
-image: "/poi-images/mogao-caves-history-v2.webp"
-},
+      en: "Mogao Caves"},
+    image: "/poi-images/mogao-caves-history-v2.webp",
     description: {
       de: "Ein Oasensystem buddhistischer Höhlentempel in Dunhuang, Provinz Gansu.",
       hu: "Buddhista barlangtemplomok oázisrendszere Tunhuangban, Kanszu tartományban.",
@@ -196,9 +191,8 @@ image: "/poi-images/mogao-caves-history-v2.webp"
       de: "Schlacht von Chibi",
       hu: "Vörös sziklák csatája",
       ro: "Bătălia de la Stâncile Roșii",
-      en: "Battle of Red Cliffs",
-image: "/poi-images/battle-of-red-cliffs-site-history-v2.webp"
-},
+      en: "Battle of Red Cliffs"},
+    image: "/poi-images/battle-of-red-cliffs-site-history-v2.webp",
     description: {
       de: "Der Ort einer entscheidenden Seeschlacht am Ende der Han-Dynastie, die den Grundstein für die Zeit der Drei Reiche legte.",
       hu: "Egy döntő tengeri csata helyszíne a Han-dinasztia végén, amely megalapozta a Három királyság korszakát.",
@@ -233,9 +227,8 @@ image: "/poi-images/battle-of-red-cliffs-site-history-v2.webp"
       de: "Ruinen des Alten Sommerpalastes",
       hu: "Régi Nyári Palota romjai",
       ro: "Ruinele Vechiului Palat de Vară",
-      en: "Old Summer Palace Ruins",
-image: "/poi-images/old-summer-palace-ruins-history-v2.webp"
-},
+      en: "Old Summer Palace Ruins"},
+    image: "/poi-images/old-summer-palace-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen eines riesigen Komplexes von Palästen und Gärten, der von den Kaisern der Qing-Dynastie erbaut wurde. Im Jahr 1860 zerstört.",
       hu: "A Csing-dinasztia császárai által épített hatalmas palota- és kertkomplexum romjai. 1860-ban lerombolták.",
@@ -270,9 +263,8 @@ image: "/poi-images/old-summer-palace-ruins-history-v2.webp"
       de: "Zhoukoudian",
       hu: "Csoukoutien",
       ro: "Situl Zhoukoudian",
-      en: "Zhoukoudian Site",
-image: "/poi-images/zhoukoudian-site-history-v2.webp"
-},
+      en: "Zhoukoudian Site"},
+    image: "/poi-images/zhoukoudian-site-history-v2.webp",
     description: {
       de: "Eine Höhlensystem-Stätte, die viele Entdeckungen von Homo erectus-Exemplaren, genannt Peking-Mensch, erbrachte.",
       hu: "Egy barlangrendszer, amely a Pekingi Embernek nevezett Homo erectus példányok számos felfedezését hozta.",
@@ -307,9 +299,8 @@ image: "/poi-images/zhoukoudian-site-history-v2.webp"
       de: "Drachenpavillon Kaifeng",
       hu: "Kajfengi Sárkány Pavilon",
       ro: "Pavilionul Dragonului din Kaifeng",
-      en: "Kaifeng Dragon Pavilion",
-image: "/poi-images/kaifeng-dragon-pavilion-history-v2.webp"
-},
+      en: "Kaifeng Dragon Pavilion"},
+    image: "/poi-images/kaifeng-dragon-pavilion-history-v2.webp",
     description: {
       de: "Ein Park, der an der Stelle der Kaiserpaläste mehrerer Dynastien errichtet wurde, als Kaifeng die Hauptstadt Chinas war.",
       hu: "Egy park, amelyet több dinasztia császári palotáinak helyén építettek, amikor Kajfeng volt Kína fővárosa.",
@@ -344,9 +335,8 @@ image: "/poi-images/kaifeng-dragon-pavilion-history-v2.webp"
       de: "Luding-Brücke",
       hu: "Luting híd",
       ro: "Podul Luding",
-      en: "Luding Bridge",
-image: "/poi-images/luding-bridge-history-v2.webp"
-},
+      en: "Luding Bridge"},
+    image: "/poi-images/luding-bridge-history-v2.webp",
     description: {
       de: "Eine Hängebrücke über den Dadu-Fluss, berühmt als Ort einer heroischen Schlacht während des Langen Marsches der Roten Armee.",
       hu: "Egy függőhíd a Tatu-folyón, amely a Vörös Hadsereg Hosszú Menetelése során vívott hősies csata helyszíneként híres.",
@@ -381,9 +371,8 @@ image: "/poi-images/luding-bridge-history-v2.webp"
       de: "Sanxingdui-Ruinen",
       hu: "Szanxingdui romok",
       ro: "Ruinele Sanxingdui",
-      en: "Sanxingdui Ruins",
-image: "/poi-images/sanxingdui-ruins-history-v2.webp"
-},
+      en: "Sanxingdui Ruins"},
+    image: "/poi-images/sanxingdui-ruins-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte einer bisher unbekannten bronzezeitlichen Kultur. Die Artefakte sind völlig anders als andere aus China.",
       hu: "Egy eddig ismeretlen bronzkori kultúra régészeti lelőhelye. A leletek teljesen eltérnek a Kínából származó többi lelettől.",
@@ -418,9 +407,8 @@ image: "/poi-images/sanxingdui-ruins-history-v2.webp"
       de: "Marco-Polo-Brücke",
       hu: "Marco Polo híd",
       ro: "Podul Marco Polo",
-      en: "Marco Polo Bridge",
-image: "/poi-images/marco-polo-bridge-history-v2.webp"
-},
+      en: "Marco Polo Bridge"},
+    image: "/poi-images/marco-polo-bridge-history-v2.webp",
     description: {
       de: "Eine Steinbrücke westlich von Peking, berühmt für die kunstvollen Löwenstatuen, die die Balustraden säumen, und den Zwischenfall von 1937, der den Zweiten Japanisch-Chinesischen Krieg auslöste.",
       hu: "Egy kőhíd Pekingtől nyugatra, amely a korlátokat szegélyező díszes oroszlánszobrokról és az 1937-es incidensről híres, amely a második kínai-japán háborút váltotta ki.",
@@ -455,9 +443,8 @@ image: "/poi-images/marco-polo-bridge-history-v2.webp"
       de: "Dorf Hongcun",
       hu: "Hungcun falu",
       ro: "Satul Hongcun",
-      en: "Hongcun Village",
-image: "/poi-images/hongcun-village-history-v2.webp"
-},
+      en: "Hongcun Village"},
+    image: "/poi-images/hongcun-village-history-v2.webp",
     description: {
       de: "Ein altes Dorf in der Provinz Anhui mit Architektur und Schnitzereien, die bis in die Ming- und Qing-Dynastien zurückreichen.",
       hu: "Egy ősi falu Anhui tartományban, amelynek építészete és faragványai a Ming- és Csing-dinasztiáig nyúlnak vissza.",
@@ -492,9 +479,8 @@ image: "/poi-images/hongcun-village-history-v2.webp"
       de: "Der Bund, Shanghai",
       hu: "A Bund, Sanghaj",
       ro: "Bund, Shanghai",
-      en: "The Bund, Shanghai",
-image: "/poi-images/shanghai-bund-history-v2.webp"
-},
+      en: "The Bund, Shanghai"},
+    image: "/poi-images/shanghai-bund-history-v2.webp",
     description: {
       de: "Ein historisches Hafenviertel im Zentrum von Shanghai. Das Gebiet enthält Dutzende von historischen Gebäuden entlang des Huangpu-Flusses.",
       hu: "Egy történelmi vízparti terület Sanghaj központjában. A terület több tucat történelmi épületet tartalmaz a Huangpu folyó mentén.",
@@ -529,9 +515,8 @@ image: "/poi-images/shanghai-bund-history-v2.webp"
       de: "Ruinen von Gaochang",
       hu: "Kaocsang romjai",
       ro: "Ruinele din Gaochang",
-      en: "Ruins of Gaochang",
-image: "/poi-images/ruins-of-gaochang-history-v2.webp"
-},
+      en: "Ruins of Gaochang"},
+    image: "/poi-images/ruins-of-gaochang-history-v2.webp",
     description: {
       de: "Die Ruinen einer alten Oasenstadt am Rande der Taklamakan-Wüste in Xinjiang. Ein wichtiger Halt an der Seidenstraße.",
       hu: "Egy ősi oázisváros romjai a Takla-makán sivatag szélén, Hszincsiangban. Fontos megálló a Selyemúton.",
@@ -566,9 +551,8 @@ image: "/poi-images/ruins-of-gaochang-history-v2.webp"
       de: "Gedenkhalle für das Massaker von Nanjing",
       hu: "Nankingi mészárlás emlékműve",
       ro: "Memorialul Masacrului din Nanjing",
-      en: "Nanjing Massacre Memorial Hall",
-image: "/poi-images/nanjing-massacre-memorial-history-v2.webp"
-},
+      en: "Nanjing Massacre Memorial Hall"},
+    image: "/poi-images/nanjing-massacre-memorial-history-v2.webp",
     description: {
       de: "Eine Gedenkstätte in Nanjing, die an die Opfer des Massakers von 1937 erinnert. Der Ort verbindet Museum, Erinnerung und historische Dokumentation.",
       hu: "Emlékmű, amely az 1937-es nankingi mészárlásban a Japán Császári Hadsereg által meggyilkoltakra emlékezik.",
@@ -603,9 +587,8 @@ image: "/poi-images/nanjing-massacre-memorial-history-v2.webp"
       de: "Antike Stadt Pingyao",
       hu: "Pingjao ősi városa",
       ro: "Orașul antic Pingyao",
-      en: "Pingyao Ancient City",
-image: "/poi-images/pingyao-ancient-city-history-v2.webp"
-},
+      en: "Pingyao Ancient City"},
+    image: "/poi-images/pingyao-ancient-city-history-v2.webp",
     description: {
       de: "Eine außergewöhnlich gut erhaltene ummauerte Stadt der Han-Chinesen, die einen Einblick in das Leben während der Ming- und Qing-Dynastien bietet.",
       hu: "Egy rendkívül jól megőrzött, fallal körülvett han kínai város, amely bepillantást enged a Ming- és Csing-dinasztiák alatti életbe.",
@@ -640,9 +623,8 @@ image: "/poi-images/pingyao-ancient-city-history-v2.webp"
       de: "Ruinen von Jiaohe",
       hu: "Csiaoho romjai",
       ro: "Ruinele din Jiaohe",
-      en: "Ruins of Jiaohe",
-image: "/poi-images/ruins-of-jiaohe-history-v2.webp"
-},
+      en: "Ruins of Jiaohe"},
+    image: "/poi-images/ruins-of-jiaohe-history-v2.webp",
     description: {
       de: "Die Ruinen einer alten Stadt, die auf einem Felsplateau in einem Flusstal in der Nähe von Turpan, Xinjiang, erbaut wurde.",
       hu: "Egy ősi város romjai, amelyet egy folyóvölgyben lévő sziklaplatóra építettek Turpan közelében, Hszincsiangban.",
@@ -677,9 +659,8 @@ image: "/poi-images/ruins-of-jiaohe-history-v2.webp"
       de: "Klöster im Wudang-Gebirge",
       hu: "Vutang-hegység kolostorai",
       ro: "Mănăstirile din Munții Wudang",
-      en: "Wudang Mountains Monasteries",
-image: "/poi-images/wudang-monasteries-history-v2.webp"
-},
+      en: "Wudang Mountains Monasteries"},
+    image: "/poi-images/wudang-monasteries-history-v2.webp",
     description: {
       de: "Ein Komplex aus taoistischen Tempeln und Klöstern, die als Geburtsort des Tai Chi gelten.",
       hu: "Taoista templomok és kolostorok komplexuma, amelyet a Tai Chi szülőhelyének tartanak.",
@@ -714,9 +695,8 @@ image: "/poi-images/wudang-monasteries-history-v2.webp"
       de: "Dazu-Felsinschriften",
       hu: "Tacu sziklafaragványok",
       ro: "Sculpturile rupestre de la Dazu",
-      en: "Dazu Rock Carvings",
-image: "/poi-images/dazu-rock-carvings-history-v2.webp"
-},
+      en: "Dazu Rock Carvings"},
+    image: "/poi-images/dazu-rock-carvings-history-v2.webp",
     description: {
       de: "Eine Reihe religiöser Skulpturen und Schnitzereien aus dem 7. Jahrhundert, die den Buddhismus, Konfuzianismus und Taoismus darstellen.",
       hu: "A 7. századból származó vallási szobrok és faragványok sorozata, amelyek a buddhizmust, a konfucianizmust és a taoizmust ábrázolják.",

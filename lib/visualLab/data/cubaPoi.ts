@@ -395,39 +395,7 @@ export const cubaCities: POI[] = [
 ];
 
 export const cubaLandmarks: POI[] = [
-  {
-    id: "cu-morro",
-    type: "landmark",
-    parent: "CU",
-    coords: [-82.3581, 23.1506],
-    name: { de: "El Morro", hu: "El Morro erőd", ro: "Castelul El Morro", en: "Morro Castle" },
-    description: {
-      de: "Historische Festung, die die Bucht von Havanna bewacht.",
-      hu: "Történelmi erődítmény, amely a havannai öblöt őrzi.",
-      ro: "Fortăreață istorică care păzește golful Havana.",
-      en: "Historic fortress guarding the Bay of Havana."
-    },
-    descriptionAdvanced: {
-      de: "Das Castillo de los Tres Reyes del Morro wurde Ende des 16. Jahrhunderts erbaut, um Havanna vor Piraten und fremden Mächten zu schützen. Die Festung thront majestätisch auf einem Felsen am Eingang der Bucht und ist ein markantes Wahrzeichen der Stadt.",
-      hu: "A Castillo de los Tres Reyes del Morro a 16. század végén épült, hogy megvédje Havannát a kalózoktól és az idegen hatalmaktól. Az erőd fenségesen magasodik az öböl bejáratánál egy sziklán, és a város egyik legjellegzetesebb jelképe.",
-      ro: "Castillo de los Tres Reyes del Morro a fost construit la sfârșitul secolului al XVI-lea pentru a proteja Havana de pirați și puteri străine. Fortăreața tronează maiestuos pe o stâncă la intrarea în golf și este un simbol marcant al orașului.",
-      en: "The Castillo de los Tres Reyes del Morro was built in the late 16th century to defend Havana against pirates and foreign invaders. Perched on a high rock at the entrance to the bay, it remains one of the city's most iconic landmarks."
-    },
-    facts: {
-      de: ["Bauzeit: 1589–1630", "Entworfen vom italienischen Ingenieur Battista Antonelli", "Besitzt einen markanten Leuchtturm", "Allabendliche Kanonenschuss-Zeremonie (Cañonazo)"],
-      hu: ["1589 és 1630 között épült", "Battista Antonelli olasz mérnök tervezte", "Jellegzetes világítótoronnyal rendelkezik", "Minden este ágyúlövés-szertartást (Cañonazo) tartanak"],
-      ro: ["Construit între 1589 și 1630", "Proiectat de inginerul italian Battista Antonelli", "Deține un far iconic", "Ceremonia zilnică de tragere cu tunul (Cañonazo)"],
-      en: ["Built between 1589 and 1630", "Designed by Italian engineer Battista Antonelli", "Features a prominent lighthouse added later", "Hosts the nightly 'Cañonazo' cannon-firing ceremony"]
-    },
-    factsAdvanced: {
-      de: ["Der ursprüngliche Leuchtturm wurde 1845 durch den heutigen ersetzt", "Die Festung fiel 1762 nach einer 44-tägigen Belagerung an die Briten", "Sie beherbergt heute ein Museum zur Schifffahrtsgeschichte"],
-      hu: ["Az eredeti világítótornyot 1845-ben cserélték le a maira", "Az erőd 1762-ben, egy 44 napos ostrom után brit kézre került", "Ma a tengerhajózás történetét bemutató múzeumnak ad otthont"],
-      ro: ["Farul original a fost înlocuit cu cel actual în 1845", "Fortăreața a căzut în mâinile britanicilor în 1762, după un asediu de 44 de zile", "Găzduiește astăzi un muzeu de istorie maritimă"],
-      en: ["The original lighthouse was replaced by the current structure in 1845", "The fortress fell to the British in 1762 after a 44-day siege", "It now houses a museum dedicated to maritime history"]
-    },
-    historyYear: 1589,
-    elevation: 20, image: "/poi-images/cu-morro.webp"},
-  {
+    {
     id: "cu-hemingway",
     type: "historical",
     parent: "CU",

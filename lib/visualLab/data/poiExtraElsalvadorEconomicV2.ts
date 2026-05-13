@@ -7,9 +7,8 @@ export const poiExtraElsalvadorEconomicV2: POI[] = [
     type: "port",
     parent: "SV-AH",
     coords: [-89.83, 13.59],
-    name: { de: "Hafen Acajutla", hu: "Acajutla kikötő", ro: "Portul Acajutla", en: "Port of Acajutla",
-image: "/poi-images/acajutla-port-economic-v2.webp"
-},
+    name: { de: "Hafen Acajutla", hu: "Acajutla kikötő", ro: "Portul Acajutla", en: "Port of Acajutla"},
+    image: "/poi-images/acajutla-port-economic-v2.webp",
     description: { de: "Der wichtigste Hafen El Salvadors für den internationalen Handel.", hu: "El Salvador legfontosabb kikötője a nemzetközi kereskedelem számára.", ro: "Cel mai important port din El Salvador pentru comerțul internațional.", en: "The most important port in El Salvador for international trade." },
     
     facts: {
@@ -37,9 +36,8 @@ image: "/poi-images/acajutla-port-economic-v2.webp"
     type: "port",
     parent: "SV-LU",
     coords: [-87.82, 13.33],
-    name: { de: "Hafen La Unión", hu: "La Unión kikötő", ro: "Portul La Unión", en: "Port of La Union",
-image: "/poi-images/la-union-port-economic-v2.webp"
-},
+    name: { de: "Hafen La Unión", hu: "La Unión kikötő", ro: "Portul La Unión", en: "Port of La Union"},
+    image: "/poi-images/la-union-port-economic-v2.webp",
     description: { de: "Ein bedeutender moderner Tiefseehafen am Golf von Fonseca.", hu: "Jelentős modern mélyvízi kikötő a Fonseca-öbölben.", ro: "Un port de mare adâncime modern și important în Golful Fonseca.", en: "A major modern deep-water port on the Gulf of Fonseca." },
     
     facts: {
@@ -67,9 +65,8 @@ image: "/poi-images/la-union-port-economic-v2.webp"
     type: "industry",
     parent: "SV-SA",
     coords: [-89.56, 14.00],
-    name: { de: "Industriegebiet Santa Ana", hu: "Santa Ana ipari övezet", ro: "Zona industrială Santa Ana", en: "Santa Ana Industrial Zone",
-image: "/poi-images/santa-ana-industry-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Santa Ana", hu: "Santa Ana ipari övezet", ro: "Zona industrială Santa Ana", en: "Santa Ana Industrial Zone"},
+    image: "/poi-images/santa-ana-industry-economic-v2.webp",
     description: { de: "Ein bedeutender Knotenpunkt für Textil- und Lebensmittelproduktion.", hu: "Fontos központ a textil- és élelmiszeripar számára.", ro: "Un centru important pentru industria textilă și alimentară.", en: "A major hub for textile and food production." },
     
     facts: {
@@ -97,9 +94,8 @@ image: "/poi-images/santa-ana-industry-economic-v2.webp"
     type: "industry",
     parent: "SV-SM",
     coords: [-88.18, 13.48],
-    name: { de: "Agrarindustriezentrum San Miguel", hu: "San Miguel agrár-ipari központ", ro: "Centru agroindustrial San Miguel", en: "San Miguel Agro-Industrial Center",
-image: "/poi-images/san-miguel-agroindustry-economic-v2.webp"
-},
+    name: { de: "Agrarindustriezentrum San Miguel", hu: "San Miguel agrár-ipari központ", ro: "Centru agroindustrial San Miguel", en: "San Miguel Agro-Industrial Center"},
+    image: "/poi-images/san-miguel-agroindustry-economic-v2.webp",
     description: { de: "Zentrum für die Verarbeitung landwirtschaftlicher Produkte im Osten.", hu: "Mezőgazdasági termékfeldolgozó központ keleten.", ro: "Centru pentru procesarea produselor agricole în est.", en: "Center for agricultural product processing in the east." },
     
     facts: {
@@ -127,9 +123,8 @@ image: "/poi-images/san-miguel-agroindustry-economic-v2.webp"
     type: "industry",
     parent: "SV-CU",
     coords: [-88.94, 13.72],
-    name: { de: "Industriezentrum Cojutepeque", hu: "Cojutepeque ipari központ", ro: "Centrul industrial Cojutepeque", en: "Cojutepeque Industrial Center",
-image: "/poi-images/cojutepeque-industrial-economic-v2.webp"
-},
+    name: { de: "Industriezentrum Cojutepeque", hu: "Cojutepeque ipari központ", ro: "Centrul industrial Cojutepeque", en: "Cojutepeque Industrial Center"},
+    image: "/poi-images/cojutepeque-industrial-economic-v2.webp",
     description: { de: "Zentrum für die Herstellung von Textilien und lokalen Gütern.", hu: "Textil- és egyéb helyi áruk gyártásának központja.", ro: "Centru pentru producția de textile și bunuri locale.", en: "Center for the manufacturing of textiles and local goods." },
     
     facts: {
@@ -157,9 +152,8 @@ image: "/poi-images/cojutepeque-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-US",
     coords: [-88.44, 13.35],
-    name: { de: "Verarbeitungszentrum Usulután", hu: "Usulutáni feldolgozó központ", ro: "Centrul de procesare Usulután", en: "Usulutan Processing Center",
-image: "/poi-images/usulutan-processing-economic-v2.webp"
-},
+    name: { de: "Verarbeitungszentrum Usulután", hu: "Usulutáni feldolgozó központ", ro: "Centrul de procesare Usulután", en: "Usulutan Processing Center"},
+    image: "/poi-images/usulutan-processing-economic-v2.webp",
     description: { de: "Wichtiger Standort für die Verarbeitung landwirtschaftlicher Exportgüter.", hu: "Fontos helyszín a mezőgazdasági exporttermékek feldolgozásához.", ro: "Locație importantă pentru procesarea produselor agricole de export.", en: "Important site for processing agricultural export goods." },
     
     facts: {
@@ -187,9 +181,8 @@ image: "/poi-images/usulutan-processing-economic-v2.webp"
     type: "industry",
     parent: "SV-CH",
     coords: [-88.93, 14.03],
-    name: { de: "Textilwerk Chalatenango", hu: "Chalatenango textilgyár", ro: "Fabrica textilă Chalatenango", en: "Chalatenango Textile Factory",
-image: "/poi-images/chalatenango-textile-economic-v2.webp"
-},
+    name: { de: "Textilwerk Chalatenango", hu: "Chalatenango textilgyár", ro: "Fabrica textilă Chalatenango", en: "Chalatenango Textile Factory"},
+    image: "/poi-images/chalatenango-textile-economic-v2.webp",
     description: { de: "Produktionsstätte für Textilien im Norden.", hu: "Chalatenango megye híres kézműves textiliparáról, ahol hagyományos motívumokkal díszített táskákat és ruhaneműket készítenek.", ro: "Unitate de producție textilă în nord.", en: "Textile production facility in the north." },
     
     facts: {
@@ -217,9 +210,8 @@ image: "/poi-images/chalatenango-textile-economic-v2.webp"
     type: "industry",
     parent: "SV-PA",
     coords: [-88.87, 13.51],
-    name: { de: "Agrarindustrie Zacatecoluca", hu: "Zacatecoluca agrár-ipar", ro: "Agroindustrie Zacatecoluca", en: "Zacatecoluca Agro-Industry",
-image: "/poi-images/zacatecoluca-agri-economic-v2.webp"
-},
+    name: { de: "Agrarindustrie Zacatecoluca", hu: "Zacatecoluca agrár-ipar", ro: "Agroindustrie Zacatecoluca", en: "Zacatecoluca Agro-Industry"},
+    image: "/poi-images/zacatecoluca-agri-economic-v2.webp",
     description: { de: "Industrielle Verarbeitung landwirtschaftlicher Erzeugnisse.", hu: "Mezőgazdasági termékek ipari feldolgozása.", ro: "Procesarea industrială a produselor agricole.", en: "Industrial processing of agricultural products." },
     
     facts: {
@@ -247,9 +239,8 @@ image: "/poi-images/zacatecoluca-agri-economic-v2.webp"
     type: "industry",
     parent: "SV-SV",
     coords: [-88.78, 13.64],
-    name: { de: "Industrie San Vicente", hu: "San Vicente ipar", ro: "Industrie San Vicente", en: "San Vicente Industry",
-image: "/poi-images/san-vicente-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie San Vicente", hu: "San Vicente ipar", ro: "Industrie San Vicente", en: "San Vicente Industry"},
+    image: "/poi-images/san-vicente-industrial-economic-v2.webp",
     description: { de: "Zentrum für handwerkliche und industrielle Produktion.", hu: "San Vicente megye gazdasági motorja a cukoripar és a textilgyártás, ahol az ország egyik legnagyobb cukorgyára is működik.", ro: "Centru pentru producție artizanală și industrială.", en: "Center for artisanal and industrial production." },
     
     facts: {
@@ -277,9 +268,8 @@ image: "/poi-images/san-vicente-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-AH",
     coords: [-89.84, 13.92],
-    name: { de: "Geothermie-Kraftwerk Ahuachapán", hu: "Ahuachapáni geotermikus erőmű", ro: "Centrala geotermală Ahuachapán", en: "Ahuachapan Geothermal Plant",
-image: "/poi-images/ahuachapan-energy-economic-v2.webp"
-},
+    name: { de: "Geothermie-Kraftwerk Ahuachapán", hu: "Ahuachapáni geotermikus erőmű", ro: "Centrala geotermală Ahuachapán", en: "Ahuachapan Geothermal Plant"},
+    image: "/poi-images/ahuachapan-energy-economic-v2.webp",
     description: { de: "Ein bedeutendes Kraftwerk zur Erzeugung erneuerbarer Energie.", hu: "Fontos erőmű megújuló energia előállítására.", ro: "O centrală electrică importantă pentru producția de energie regenerabilă.", en: "A significant power plant for renewable energy production." },
     
     facts: {
@@ -307,9 +297,8 @@ image: "/poi-images/ahuachapan-energy-economic-v2.webp"
     type: "industry",
     parent: "SV-PA",
     coords: [-88.85, 13.52],
-    name: { de: "Industriegebiet La Paz", hu: "La Paz ipari övezet", ro: "Zona industrială La Paz", en: "La Paz Industrial Zone",
-image: "/poi-images/la-paz-industrial-economic-v2.webp"
-},
+    name: { de: "Industriegebiet La Paz", hu: "La Paz ipari övezet", ro: "Zona industrială La Paz", en: "La Paz Industrial Zone"},
+    image: "/poi-images/la-paz-industrial-economic-v2.webp",
     description: { de: "Großes Areal für industrielle Fertigung nahe dem Flughafen.", hu: "Nagy terület ipari gyártásra a repülőtér közelében.", ro: "Zonă mare pentru producție industrială lângă aeroport.", en: "Large area for industrial manufacturing near the airport." },
     
     facts: {
@@ -337,9 +326,8 @@ image: "/poi-images/la-paz-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-AH",
     coords: [-89.73, 13.72],
-    name: { de: "Fabrikkomplex Sonzacate", hu: "Sonzacate gyárkomplexum", ro: "Complexul de fabrici Sonzacate", en: "Sonzacate Factory Complex",
-image: "/poi-images/sonzacate-factory-economic-v2.webp"
-},
+    name: { de: "Fabrikkomplex Sonzacate", hu: "Sonzacate gyárkomplexum", ro: "Complexul de fabrici Sonzacate", en: "Sonzacate Factory Complex"},
+    image: "/poi-images/sonzacate-factory-economic-v2.webp",
     description: { de: "Industrielle Stätte für Konsumgüterproduktion.", hu: "Ipari létesítmény fogyasztási cikkek gyártására.", ro: "Facilitate industrială pentru producția de bunuri de consum.", en: "Industrial site for consumer goods production." },
     
     facts: {
@@ -367,9 +355,8 @@ image: "/poi-images/sonzacate-factory-economic-v2.webp"
     type: "industry",
     parent: "SV-LI",
     coords: [-89.28, 13.67],
-    name: { de: "Dienstleistungszentrum Santa Tecla", hu: "Santa Tecla szolgáltatóközpont", ro: "Centrul de servicii Santa Tecla", en: "Santa Tecla Service Center",
-image: "/poi-images/santa-tecla-service-economic-v2.webp"
-},
+    name: { de: "Dienstleistungszentrum Santa Tecla", hu: "Santa Tecla szolgáltatóközpont", ro: "Centrul de servicii Santa Tecla", en: "Santa Tecla Service Center"},
+    image: "/poi-images/santa-tecla-service-economic-v2.webp",
     description: { de: "Ein modernes Industrie- und Dienstleistungsareal.", hu: "Modern ipari és szolgáltatói terület.", ro: "O zonă modernă de industrie și servicii.", en: "A modern industrial and service area." },
     
     facts: {
@@ -397,9 +384,8 @@ image: "/poi-images/santa-tecla-service-economic-v2.webp"
     type: "industry",
     parent: "SV-LI",
     coords: [-89.26, 13.75],
-    name: { de: "Industrie Quezaltepeque", hu: "Quezaltepeque ipar", ro: "Industrie Quezaltepeque", en: "Quezaltepeque Industry",
-image: "/poi-images/quezaltepeque-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Quezaltepeque", hu: "Quezaltepeque ipar", ro: "Industrie Quezaltepeque", en: "Quezaltepeque Industry"},
+    image: "/poi-images/quezaltepeque-industrial-economic-v2.webp",
     description: { de: "Standort für industrielle Fertigung im Nordwesten.", hu: "Quezaltepeque fontos ipari központ, ahol az élelmiszergyártás és az építőanyag-ipar dominál a vulkáni kőzetek közelsége miatt.", ro: "Locație pentru producție industrială în nord-vest.", en: "Location for industrial manufacturing in the northwest." },
     
     facts: {
@@ -427,9 +413,8 @@ image: "/poi-images/quezaltepeque-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.17, 13.76],
-    name: { de: "Industrie Apopa", hu: "Apopa ipar", ro: "Industrie Apopa", en: "Apopa Industry",
-image: "/poi-images/apopa-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Apopa", hu: "Apopa ipar", ro: "Industrie Apopa", en: "Apopa Industry"},
+    image: "/poi-images/apopa-industrial-economic-v2.webp",
     description: { de: "Ein großes industrielles Zentrum nördlich von San Salvador.", hu: "Nagy ipari központ San Salvadortól északra.", ro: "Un mare centru industrial la nord de San Salvador.", en: "A large industrial center north of San Salvador." },
     
     facts: {
@@ -456,9 +441,8 @@ image: "/poi-images/apopa-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.15, 13.68],
-    name: { de: "Industrie Soyapango", hu: "Soyapango ipar", ro: "Industrie Soyapango", en: "Soyapango Industry",
-image: "/poi-images/soyapango-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Soyapango", hu: "Soyapango ipar", ro: "Industrie Soyapango", en: "Soyapango Industry"},
+    image: "/poi-images/soyapango-industrial-economic-v2.webp",
     description: { de: "Ein dicht besiedeltes Gebiet mit bedeutender industrieller Fertigung.", hu: "Sűrűn lakott terület jelentős ipari gyártással.", ro: "O zonă dens populată cu producție industrială semnificativă.", en: "A densely populated area with significant industrial manufacturing." },
     
     facts: {
@@ -486,9 +470,8 @@ image: "/poi-images/soyapango-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.20, 13.78],
-    name: { de: "Industrie Nejapa", hu: "Nejapa ipar", ro: "Industrie Nejapa", en: "Nejapa Industry",
-image: "/poi-images/nechapa-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Nejapa", hu: "Nejapa ipar", ro: "Industrie Nejapa", en: "Nejapa Industry"},
+    image: "/poi-images/nechapa-industrial-economic-v2.webp",
     description: { de: "Standort wichtiger industrieller Anlagen und Lager.", hu: "Fontos ipari üzemek és raktárak helyszíne.", ro: "Locația unor facilități și depozite industriale importante.", en: "Location of important industrial facilities and warehouses." },
     
     facts: {
@@ -516,9 +499,8 @@ image: "/poi-images/nechapa-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.12, 13.68],
-    name: { de: "Industrie Ilopango", hu: "Ilopango ipar", ro: "Industrie Ilopango", en: "Ilopango Industry",
-image: "/poi-images/ilopango-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Ilopango", hu: "Ilopango ipar", ro: "Industrie Ilopango", en: "Ilopango Industry"},
+    image: "/poi-images/ilopango-industrial-economic-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für industrielle Produktion.", hu: "Jelentős terület ipari termelésre.", ro: "O zonă semnificativă pentru producția industrială.", en: "A significant area for industrial production." },
     
     facts: {
@@ -545,9 +527,8 @@ image: "/poi-images/ilopango-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.18, 13.66],
-    name: { de: "Industrie San Marcos", hu: "San Marcos ipar", ro: "Industrie San Marcos", en: "San Marcos Industry",
-image: "/poi-images/san-marcos-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie San Marcos", hu: "San Marcos ipar", ro: "Industrie San Marcos", en: "San Marcos Industry"},
+    image: "/poi-images/san-marcos-industrial-economic-v2.webp",
     description: { de: "Industrielle Fertigungsbetriebe in der Metropolregion.", hu: "San Salvador déli peremén fekvő ipari zóna, amely számos könnyűipari gyárnak és raktárbázisnak ad otthont.", ro: "Unități de producție industrială în regiunea metropolitană.", en: "Industrial manufacturing units in the metropolitan region." },
     
     facts: {
@@ -575,9 +556,8 @@ image: "/poi-images/san-marcos-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.22, 13.72],
-    name: { de: "Industrie Mejicanos", hu: "Mejicanos ipar", ro: "Industrie Mejicanos", en: "Mejicanos Industry",
-image: "/poi-images/mejicanos-industry-economic-v2.webp"
-},
+    name: { de: "Industrie Mejicanos", hu: "Mejicanos ipar", ro: "Industrie Mejicanos", en: "Mejicanos Industry"},
+    image: "/poi-images/mejicanos-industry-economic-v2.webp",
     description: { de: "Handwerkliche und kleine industrielle Produktion.", hu: "Mejicanos gazdasága az élelmiszeriparra és a kiskereskedelemre épül, különösen híres a helyi gasztronómiai termékek előállításáról.", ro: "Producție artizanală și industrială mică.", en: "Artisanal and small-scale industrial production." },
     
     facts: {
@@ -604,9 +584,8 @@ image: "/poi-images/mejicanos-industry-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.16, 13.70],
-    name: { de: "Industrie Delgado", hu: "Delgado ipar", ro: "Industrie Delgado", en: "Delgado Industry",
-image: "/poi-images/delgado-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Delgado", hu: "Delgado ipar", ro: "Industrie Delgado", en: "Delgado Industry"},
+    image: "/poi-images/delgado-industrial-economic-v2.webp",
     description: { de: "Industrieller Standort am Rande der Hauptstadt.", hu: "Ciudad Delgado ipari területei fontos szerepet játszanak a fővárosi agglomeráció áruellátásában és a gyártási folyamatokban.", ro: "Locație industrială la marginea capitalei.", en: "Industrial site on the edge of the capital." },
     
     facts: {
@@ -634,9 +613,8 @@ image: "/poi-images/delgado-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.20, 13.73],
-    name: { de: "Industrie Cuscatancingo", hu: "Cuscatancingo ipar", ro: "Industrie Cuscatancingo", en: "Cuscatancingo Industry",
-image: "/poi-images/cuscatancingo-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Cuscatancingo", hu: "Cuscatancingo ipar", ro: "Industrie Cuscatancingo", en: "Cuscatancingo Industry"},
+    image: "/poi-images/cuscatancingo-industrial-economic-v2.webp",
     description: { de: "Standort für lokale Fertigung.", hu: "Cuscatancingo ipara elsősorban kis- és középvállalkozásokból áll, amelyek a helyi fogyasztásra szánt cikkeket állítanak elő.", ro: "Locație pentru producție locală.", en: "Location for local manufacturing." },
     
     facts: {
@@ -664,9 +642,8 @@ image: "/poi-images/cuscatancingo-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-SS",
     coords: [-89.14, 13.78],
-    name: { de: "Industrie Tonacatepeque", hu: "Tonacatepeque ipar", ro: "Industrie Tonacatepeque", en: "Tonacatepeque Industry",
-image: "/poi-images/tonacatepeque-industrial-economic-v2.webp"
-},
+    name: { de: "Industrie Tonacatepeque", hu: "Tonacatepeque ipar", ro: "Industrie Tonacatepeque", en: "Tonacatepeque Industry"},
+    image: "/poi-images/tonacatepeque-industrial-economic-v2.webp",
     description: { de: "Industrielle Betriebe für lokale Produkte.", hu: "Tonacatepeque gyorsan fejlődő terület, ahol az új ipari parkok modern gyártási környezetet biztosítanak a nemzetközi cégeknek.", ro: "Unități industriale pentru produse locale.", en: "Industrial operations for local products." },
     
     facts: {
@@ -694,9 +671,8 @@ image: "/poi-images/tonacatepeque-industrial-economic-v2.webp"
     type: "industry",
     parent: "SV-PA",
     coords: [-88.94, 13.48],
-    name: { de: "Industrie Santiago Nonualco", hu: "Santiago Nonualco ipar", ro: "Industrie Santiago Nonualco", en: "Santiago Nonualco Industry",
-image: "/poi-images/santiago-nonualco-industry-economic-v2.webp"
-},
+    name: { de: "Industrie Santiago Nonualco", hu: "Santiago Nonualco ipar", ro: "Industrie Santiago Nonualco", en: "Santiago Nonualco Industry"},
+    image: "/poi-images/santiago-nonualco-industry-economic-v2.webp",
     description: { de: "Verarbeitung regionaler Agrargüter.", hu: "Santiago Nonualco gazdasága a mezőgazdasági termékek feldolgozására, különösen a cukornádra és a gabonára összpontosít.", ro: "Procesarea produselor agricole regionale.", en: "Processing of regional agricultural goods." },
     
     facts: {
@@ -724,9 +700,8 @@ image: "/poi-images/santiago-nonualco-industry-economic-v2.webp"
     type: "industry",
     parent: "SV-PA",
     coords: [-88.95, 13.51],
-    name: { de: "Industrie San Pedro Nonualco", hu: "San Pedro Nonualco ipar", ro: "Industrie San Pedro Nonualco", en: "San Pedro Nonualco Industry",
-image: "/poi-images/san-pedro-nonualco-industry-economic-v2.webp"
-},
+    name: { de: "Industrie San Pedro Nonualco", hu: "San Pedro Nonualco ipar", ro: "Industrie San Pedro Nonualco", en: "San Pedro Nonualco Industry"},
+    image: "/poi-images/san-pedro-nonualco-industry-economic-v2.webp",
     description: { de: "Standort industrieller Verarbeitung.", hu: "San Pedro Nonualco a gyümölcstermesztés és az arra épülő feldolgozóipar egyik regionális központja La Paz megyében.", ro: "Locația procesării industriale.", en: "Location of industrial processing." },
     
     facts: {
@@ -754,9 +729,8 @@ image: "/poi-images/san-pedro-nonualco-industry-economic-v2.webp"
     type: "port",
     parent: "SV-LI",
     coords: [-89.38, 13.49],
-    name: { de: "Kleinhafen El Tunco", hu: "El Tunco kiskikötő", ro: "Portul mic El Tunco", en: "El Tunco Small Port",
-image: "/poi-images/el-trunco-maritime-economic-v2.webp"
-},
+    name: { de: "Kleinhafen El Tunco", hu: "El Tunco kiskikötő", ro: "Portul mic El Tunco", en: "El Tunco Small Port"},
+    image: "/poi-images/el-trunco-maritime-economic-v2.webp",
     description: { de: "Kleiner Hafen für Fischerei und lokalen Tourismus.", hu: "El Tunco (tévesen El Trunco) El Salvador szörfturizmusának központja, amely jelentős devizabevételt generál a tengerparti régióban.", ro: "Mic port pentru pescuit și turism local.", en: "Small port for fishing and local tourism." },
     
     facts: {
@@ -784,9 +758,8 @@ image: "/poi-images/el-trunco-maritime-economic-v2.webp"
     type: "port",
     parent: "SV-US",
     coords: [-88.58, 13.25],
-    name: { de: "Hafen Jiquilisco", hu: "Jiquilisco kikötő", ro: "Portul Jiquilisco", en: "Port of Jiquilisco",
-image: "/poi-images/jiquilisco-port-economic-v2.webp"
-},
+    name: { de: "Hafen Jiquilisco", hu: "Jiquilisco kikötő", ro: "Portul Jiquilisco", en: "Port of Jiquilisco"},
+    image: "/poi-images/jiquilisco-port-economic-v2.webp",
     description: { de: "Wichtiger Hafen in der Bahía de Jiquilisco.", hu: "A Jiquilisco-öböl kikötői a halászatra és az ökoturizmusra épülnek, kihasználva a bioszféra rezervátum adottságait.", ro: "Port important în Golful Jiquilisco.", en: "Important port in the Bay of Jiquilisco." },
     
     facts: {
@@ -814,9 +787,8 @@ image: "/poi-images/jiquilisco-port-economic-v2.webp"
     type: "port",
     parent: "SV-SO",
     coords: [-89.78, 13.65],
-    name: { de: "Hafen Metalio", hu: "Metalio kikötő", ro: "Portul Metalio", en: "Port of Metalio",
-image: "/poi-images/metalio-port-economic-v2.webp"
-},
+    name: { de: "Hafen Metalio", hu: "Metalio kikötő", ro: "Portul Metalio", en: "Port of Metalio"},
+    image: "/poi-images/metalio-port-economic-v2.webp",
     description: { de: "Küstenhafen für die lokale Fischerei.", hu: "Metalio part menti gazdasága a kisüzemi halászatra és a helyi tengerparti turizmusra támaszkodik Sonsonate megyében.", ro: "Port de coastă pentru pescuitul local.", en: "Coastal port for local fishing." },
     
     facts: {
@@ -844,9 +816,8 @@ image: "/poi-images/metalio-port-economic-v2.webp"
     type: "port",
     parent: "SV-AH",
     coords: [-89.92, 13.78],
-    name: { de: "Hafen Barra de Santiago", hu: "Barra de Santiago kikötő", ro: "Portul Barra de Santiago", en: "Port of Barra de Santiago",
-image: "/poi-images/barras-santiago-port-economic-v2.webp"
-},
+    name: { de: "Hafen Barra de Santiago", hu: "Barra de Santiago kikötő", ro: "Portul Barra de Santiago", en: "Port of Barra de Santiago"},
+    image: "/poi-images/barras-santiago-port-economic-v2.webp",
     description: { de: "Natürlicher Hafen und Fischereizentrum.", hu: "Barra de Santiago kikötője az ország egyik legszebb torkolatvidékén fekszik, ahol a halászat mellett a természetközeli turizmus virágzik.", ro: "Port natural și centru de pescuit.", en: "Natural port and fishing center." },
     
     facts: {

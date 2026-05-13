@@ -11,9 +11,8 @@ export const poiExtraMoroccoEconomicV2: POI[] = [
       de: "Hafen Tanger Med",
       hu: "Tanger Med Kikötő",
       ro: "Portul Tanger Med",
-      en: "Tanger Med Port",
-image: "/poi-images/ma-tanger-med-port-economic-v2.webp"
-},
+      en: "Tanger Med Port"},
+    image: "/poi-images/ma-tanger-med-port-economic-v2.webp",
     description: {
       de: "Einer der größten und verkehrsreichsten Häfen in Afrika und dem Mittelmeerraum.",
       hu: "Afrika és a Földközi-tenger térségének egyik legnagyobb és legforgalmasabb kikötője.",
@@ -48,9 +47,8 @@ image: "/poi-images/ma-tanger-med-port-economic-v2.webp"
       de: "Hafen von Casablanca",
       hu: "Casablanca Kikötője",
       ro: "Portul Casablanca",
-      en: "Port of Casablanca",
-image: "/poi-images/ma-casablanca-port-economic-v2.webp"
-},
+      en: "Port of Casablanca"},
+    image: "/poi-images/ma-casablanca-port-economic-v2.webp",
     descriptionAdvanced: {
       hu: "Casablanca kikötője nemcsak Marokkó, hanem egész Afrika egyik legnagyobb és legforgalmasabb kikötője. Stratégiai elhelyezkedése az Atlanti-óceán partján, Európa és Afrika metszéspontjában, kulcsfontosságúvá teszi a nemzetközi kereskedelemben. A kikötő a 20. század elején, a francia protektorátus alatt indult gyors fejlődésnek, és mára egy hatalmas komplexummá nőtte ki magát. Több terminállal rendelkezik, amelyek konténereket, ömlesztett árut, autókat és foszfátot kezelnek. A kikötő a marokkói import és export oroszlánrészét bonyolítja le, és létfontosságú a helyi ipar számára. A kikötőhöz kapcsolódó ipari és logisztikai zónák további gazdasági lendületet adnak a régiónak. A folyamatos bővítések és modernizációk, mint például az új konténerterminálok építése, biztosítják, hogy a casablancai kikötő a jövőben is megőrizze vezető szerepét a régióban. Gazdaságföldrajz K11 - Globális logisztikai csomópontok.",
       de: "Hafen von Casablanca ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Der historisch wichtigste und größte künstliche Hafen in Marokko, ein Zentrum für Handel. Zentrum des marokkanischen Seehandels. Große Containerterminals. Dieser Standort spielt eine Rolle in der Wirtschaft Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -87,9 +85,8 @@ image: "/poi-images/ma-casablanca-port-economic-v2.webp"
       de: "Hafen Jorf Lasfar",
       hu: "Jorf Lasfar Kikötő",
       ro: "Portul Jorf Lasfar",
-      en: "Jorf Lasfar Port",
-image: "/poi-images/ma-jorf-lasfar-port-economic-v2.webp"
-},
+      en: "Jorf Lasfar Port"},
+    image: "/poi-images/ma-jorf-lasfar-port-economic-v2.webp",
     description: {
       de: "Ein bedeutender Industriehafen, spezialisiert auf den Export von Phosphaten und Düngemitteln.",
       hu: "Jelentős ipari kikötő, amely foszfátok és műtrágyák exportjára specializálódott.",
@@ -124,9 +121,8 @@ image: "/poi-images/ma-jorf-lasfar-port-economic-v2.webp"
       de: "Hafen von Safi",
       hu: "Safi Kikötője",
       ro: "Portul Safi",
-      en: "Port of Safi",
-image: "/poi-images/ma-safi-port-economic-v2.webp"
-},
+      en: "Port of Safi"},
+    image: "/poi-images/ma-safi-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen für die Fischerei und den Export von Mineralien und chemischen Produkten.",
       hu: "Fontos kikötő a halászat, valamint ásványok és vegyi termékek exportja számára.",
@@ -161,9 +157,8 @@ image: "/poi-images/ma-safi-port-economic-v2.webp"
       de: "Hafen von Agadir",
       hu: "Agadir Kikötője",
       ro: "Portul Agadir",
-      en: "Port of Agadir",
-image: "/poi-images/ma-agadir-port-economic-v2.webp"
-},
+      en: "Port of Agadir"},
+    image: "/poi-images/ma-agadir-port-economic-v2.webp",
     descriptionAdvanced: {
       hu: "Agadir kikötője Marokkó egyik legfontosabb halászati központja. Az ország déli részének kapujaként stratégiai jelentőséggel bír, és gazdaságilag kulcsfontosságú szerepet tölt be a régióban. A kikötő modern infrastruktúrával rendelkezik, amely magában foglalja a halászkikötőt, a kereskedelmi kikötőt és egy újabb hajógyárat is. A halászat a helyi gazdaság motorja, a kikötőben naponta hatalmas mennyiségű szardíniát, tintahalat és más tengeri herkentyűket raknak partra. A halászat mellett a kikötő fontos szerepet játszik a citrusfélék, a primőr zöldségek és az ásványkincsek exportjában is. Az elmúlt évek fejlesztései, mint például a konténerterminál bővítése, tovább erősítik Agadir pozícióját a nemzetközi tengeri kereskedelemben. Gazdaságföldrajz K9 – Kikötők és világgazdaság.",
       ro: "Portul Agadir este unul dintre cele mai importante porturi polivalente din Maroc și un motor economic pentru întreaga regiune de sud. Este compus din trei sectoare principale: portul comercial, portul de pescuit și portul de agrement (Marina). Portul de pescuit este renumit la nivel mondial, fiind cel mai mare port de sardine din lume și un centru major pentru pescuitul de coastă și de adâncime. Portul comercial gestionează exporturi de citrice, legume și minereuri, precum și importuri de mărfuri generale. Dezvoltarea sa continuă, inclusiv extinderea terminalelor de containere, consolidează poziția Agadirului ca un hub logistic cheie pe coasta Atlanticului. Economie K8 – infrastructură portuară și comerț maritim.",
@@ -201,9 +196,8 @@ image: "/poi-images/ma-agadir-port-economic-v2.webp"
       de: "Hafen Nador",
       hu: "Nador Kikötője",
       ro: "Portul Nador",
-      en: "Port of Nador",
-image: "/poi-images/ma-nador-port-economic-v2.webp"
-},
+      en: "Port of Nador"},
+    image: "/poi-images/ma-nador-port-economic-v2.webp",
     description: {
       de: "Ein Handelshafen am Mittelmeer, der die Wirtschaftsregion L'Oriental bedient.",
       hu: "Földközi-tengeri kereskedelmi kikötő, amely a L'Oriental gazdasági régiót szolgálja ki.",
@@ -238,9 +232,8 @@ image: "/poi-images/ma-nador-port-economic-v2.webp"
       de: "Hafen von Laayoune",
       hu: "Laayoune Kikötője",
       ro: "Portul Laâyoune",
-      en: "Port of Laayoune",
-image: "/poi-images/ma-laayoune-port-economic-v2.webp"
-},
+      en: "Port of Laayoune"},
+    image: "/poi-images/ma-laayoune-port-economic-v2.webp",
     description: {
       de: "Ein wichtiger Hafen für den Export von Phosphat aus der Mine in Bou Craa und für die Fischerei.",
       hu: "Fontos kikötő a Bou Craa-i bányából származó foszfát exportálására és halászatra.",
@@ -275,9 +268,8 @@ image: "/poi-images/ma-laayoune-port-economic-v2.webp"
       de: "Hafen von Dakhla",
       hu: "Dakhla Kikötője",
       ro: "Portul Dakhla",
-      en: "Port of Dakhla",
-image: "/poi-images/ma-dakhla-port-economic-v2.webp"
-},
+      en: "Port of Dakhla"},
+    image: "/poi-images/ma-dakhla-port-economic-v2.webp",
     description: {
       de: "Bedeutend für die Fischereiindustrie und zunehmend im Fokus für den Überseehandel.",
       hu: "Jelentős a halászati ipar számára, és egyre inkább a tengerentúli kereskedelem fókuszába kerül.",
@@ -312,9 +304,8 @@ image: "/poi-images/ma-dakhla-port-economic-v2.webp"
       de: "OCP Khouribga Phosphatmine",
       hu: "OCP Khouribga Foszfátbánya",
       ro: "Mina de fosfat OCP Khouribga",
-      en: "OCP Khouribga Phosphate Mine",
-image: "/poi-images/ma-ocp-khouribga-economic-v2.webp"
-},
+      en: "OCP Khouribga Phosphate Mine"},
+    image: "/poi-images/ma-ocp-khouribga-economic-v2.webp",
     description: {
       de: "Die weltweit größte Produktionsstätte für Phosphatgestein, zentral für Marokkos Wirtschaft.",
       hu: "A világ legnagyobb foszfátkő-kitermelő helye, központi szerepet játszik Marokkó gazdaságában.",
@@ -349,9 +340,8 @@ image: "/poi-images/ma-ocp-khouribga-economic-v2.webp"
       de: "OCP Benguerir Mine",
       hu: "OCP Benguerir Bánya",
       ro: "Mina OCP Benguerir",
-      en: "OCP Benguerir Mine",
-image: "/poi-images/ma-ocp-benguerir-economic-v2.webp"
-},
+      en: "OCP Benguerir Mine"},
+    image: "/poi-images/ma-ocp-benguerir-economic-v2.webp",
     description: {
       de: "Ein wichtiges Phosphat-Bergwerkszentrum mit direktem Anschluss an industrielle Verarbeitungsanlagen.",
       hu: "Fontos foszfátbányászati központ, amely közvetlen kapcsolatban áll az ipari feldolgozó üzemekkel.",
@@ -386,9 +376,8 @@ image: "/poi-images/ma-ocp-benguerir-economic-v2.webp"
       de: "OCP Jorf Lasfar Industriekomplex",
       hu: "OCP Jorf Lasfar Ipari Komplexum",
       ro: "Complexul Industrial OCP Jorf Lasfar",
-      en: "OCP Jorf Lasfar Industrial Complex",
-image: "/poi-images/ma-ocp-jorf-lasfar-economic-v2.webp"
-},
+      en: "OCP Jorf Lasfar Industrial Complex"},
+    image: "/poi-images/ma-ocp-jorf-lasfar-economic-v2.webp",
     description: {
       de: "Der weltweit größte Hub zur Herstellung von Phosphatdüngemitteln und Phosphorsäure.",
       hu: "A világ legnagyobb központja a foszfátműtrágyák és a foszforsav gyártására.",
@@ -423,9 +412,8 @@ image: "/poi-images/ma-ocp-jorf-lasfar-economic-v2.webp"
       de: "Renault-Nissan Werk Tanger",
       hu: "Renault-Nissan Tangeri Gyár",
       ro: "Uzina Renault-Nissan Tanger",
-      en: "Renault-Nissan Tangier Plant",
-image: "/poi-images/ma-renault-tangier-economic-v2.webp"
-},
+      en: "Renault-Nissan Tangier Plant"},
+    image: "/poi-images/ma-renault-tangier-economic-v2.webp",
     description: {
       de: "Eines der größten Automobilwerke in Afrika, das Millionen Fahrzeuge für den Export produziert.",
       hu: "Afrika egyik legnagyobb autógyára, amely több millió járművet állít elő exportra.",
@@ -460,9 +448,8 @@ image: "/poi-images/ma-renault-tangier-economic-v2.webp"
       de: "Stellantis Werk Kenitra",
       hu: "Stellantis Kenitra Gyár",
       ro: "Uzina Stellantis Kenitra",
-      en: "Stellantis Kenitra Plant",
-image: "/poi-images/ma-stellantis-kenitra-economic-v2.webp"
-},
+      en: "Stellantis Kenitra Plant"},
+    image: "/poi-images/ma-stellantis-kenitra-economic-v2.webp",
     description: {
       de: "Eine hochmoderne Automobilproduktionsstätte, die Verbrennungs- und Elektrofahrzeuge baut.",
       hu: "Korszerű autógyártó üzem, amely belső égésű és elektromos járműveket egyaránt gyárt.",
@@ -497,9 +484,8 @@ image: "/poi-images/ma-stellantis-kenitra-economic-v2.webp"
       de: "SOMACA Automobilwerk",
       hu: "SOMACA Autógyár",
       ro: "Uzina Auto SOMACA",
-      en: "SOMACA Automotive Plant",
-image: "/poi-images/ma-somaca-casablanca-economic-v2.webp"
-},
+      en: "SOMACA Automotive Plant"},
+    image: "/poi-images/ma-somaca-casablanca-economic-v2.webp",
     description: {
       de: "Die älteste Automobilfabrik in Marokko, die seit langem Modelle für Renault und Dacia montiert.",
       hu: "A legrégebbi marokkói autógyár, amely régóta szerel össze Renault és Dacia modelleket.",
@@ -534,9 +520,8 @@ image: "/poi-images/ma-somaca-casablanca-economic-v2.webp"
       de: "Midparc Casablanca Freihandelszone",
       hu: "Midparc Casablanca Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Midparc Casablanca",
-      en: "Midparc Casablanca Free Zone",
-image: "/poi-images/ma-midparc-casablanca-economic-v2.webp"
-},
+      en: "Midparc Casablanca Free Zone"},
+    image: "/poi-images/ma-midparc-casablanca-economic-v2.webp",
     description: {
       de: "Ein Industriezentrum mit Schwerpunkt auf Luft- und Raumfahrt sowie Elektronik, nahe dem Flughafen.",
       hu: "A repülőtérhez közeli ipari központ, amely a repülőgépiparra és az elektronikára összpontosít.",
@@ -571,9 +556,8 @@ image: "/poi-images/ma-midparc-casablanca-economic-v2.webp"
       de: "Tangier Automotive City",
       hu: "Tangier Automotive City",
       ro: "Tangier Automotive City",
-      en: "Tangier Automotive City",
-image: "/poi-images/ma-tangier-automotive-city-economic-v2.webp"
-},
+      en: "Tangier Automotive City"},
+    image: "/poi-images/ma-tangier-automotive-city-economic-v2.webp",
     description: {
       de: "Eine Freihandelszone, die sich der Ansiedlung von Zulieferern der Automobilindustrie widmet.",
       hu: "Szabadkereskedelmi övezet, amely az autóipari beszállítók letelepedésére szolgál.",
@@ -608,9 +592,8 @@ image: "/poi-images/ma-tangier-automotive-city-economic-v2.webp"
       de: "Atlantic Free Zone Kenitra",
       hu: "Atlantic Free Zone Kenitra",
       ro: "Zona Liberă Atlantică Kenitra",
-      en: "Atlantic Free Zone Kenitra",
-image: "/poi-images/ma-atlantic-free-zone-kenitra-economic-v2.webp"
-},
+      en: "Atlantic Free Zone Kenitra"},
+    image: "/poi-images/ma-atlantic-free-zone-kenitra-economic-v2.webp",
     descriptionAdvanced: {
       hu: "Az Atlantic Free Zone (AFZ) Kenitrában egy hatalmas ipari és logisztikai park, amely a marokkói autóipar egyik zászlóshajója. A 2012-ben megnyitott szabadkereskedelmi zóna stratégiai helyen, a Tanger-Med kikötő és a főbb marokkói városok között helyezkedik el. Az AFZ elsősorban az autóipari beszállítókat és a kapcsolódó szolgáltatásokat célozza meg. A zóna legnagyobb befektetője a Stellantis (korábban PSA Peugeot-Citroën) csoport, amely itt egy nagy összeszerelő üzemet működtet. Az üzem és a körülötte lévő beszállítói hálózat több ezer munkahelyet teremtett, és jelentősen hozzájárul Marokkó exportjához. Az AFZ modern infrastruktúrával, adókedvezményekkel és egyszerűsített adminisztrációval vonzza a külföldi befektetőket, ezzel erősítve Marokkó pozícióját mint az afrikai autógyártás központja. Gazdaság K11 – Globális értékláncok és szabadkereskedelmi zónák.",
       ro: "Atlantic Free Zone din Kenitra este una dintre cele mai mari zone economice libere din Africa, specializată în industria auto. Inaugurată în 2012, această platformă industrială joacă un rol crucial în strategia Marocului de a deveni un hub auto global. Principalul investitor este grupul Stellantis (fost PSA Peugeot-Citroën), care a deschis aici o fabrică majoră de automobile și motoare. Zona liberă a atras numeroși furnizori de componente auto, creând un ecosistem industrial integrat și generând mii de locuri de muncă. Beneficiind de o locație strategică, aproape de portul Tanger Med și de o infrastructură modernă (autostradă și cale ferată de mare viteză), zona facilitează exporturile către Europa și restul lumii. Economie K8 – zone economice speciale și globalizare.",
@@ -648,9 +631,8 @@ image: "/poi-images/ma-atlantic-free-zone-kenitra-economic-v2.webp"
       de: "Agropolis Meknes",
       hu: "Agropolis Meknes",
       ro: "Agropolis Meknes",
-      en: "Agropolis Meknes",
-image: "/poi-images/ma-agropolis-meknes-economic-v2.webp"
-},
+      en: "Agropolis Meknes"},
+    image: "/poi-images/ma-agropolis-meknes-economic-v2.webp",
     descriptionAdvanced: {
       hu: "Az Agropolis Meknes egy modern agrár-ipari pólus, amely a mezőgazdasági termékek feldolgozására és a szektor innovációjának előmozdítására jött létre. Ez a stratégiai projekt a marokkói kormány 'Zöld Marokkó Tervének' része, amelynek célja a mezőgazdaság modernizálása és versenyképességének növelése. Az Agropolis egy hatalmas területen fekszik Meknes közelében, amely Marokkó egyik legtermékenyebb mezőgazdasági régiója. A park logisztikai, ipari és kutatás-fejlesztési zónákra oszlik. Olyan vállalatokat vonz, amelyek olívaolaj-gyártással, gyümölcs- és zöldségfeldolgozással, valamint gabonafélékkel foglalkoznak. Az Agropolis célja, hogy egy teljes ökoszisztémát hozzon létre a termeléstől a feldolgozáson át a forgalmazásig, ezzel növelve a hozzáadott értéket és új munkahelyeket teremtve. Gazdaságtan K11 – Ipari parkok és regionális fejlesztés.",
       ro: "Agropolis Meknès este un parc industrial integrat, dedicat industriei agro-alimentare, situat în apropierea orașului Meknès, inima agricolă a Marocului. Dezvoltat ca parte a strategiei naționale 'Plan Maroc Vert', acest cluster economic vizează modernizarea sectorului agro-industrial și creșterea valorii adăugate a produselor agricole. Parcul oferă infrastructură modernă, inclusiv loturi industriale, spații logistice, un centru de cercetare și dezvoltare ('qualipole') și servicii de sprijin pentru companii. Atragând investiții naționale și internaționale, Agropolis contribuie la crearea de locuri de muncă și la dezvoltarea economică a regiunii Fès-Meknès, consolidându-i statutul de lider în producția alimentară. Economie K8 – clustere industriale și dezvoltare regională.",
@@ -688,9 +670,8 @@ image: "/poi-images/ma-agropolis-meknes-economic-v2.webp"
       de: "Haliopolis Agadir",
       hu: "Haliopolis Agadir",
       ro: "Haliopolis Agadir",
-      en: "Haliopolis Agadir",
-image: "/poi-images/ma-haliopolis-agadir-economic-v2.webp"
-},
+      en: "Haliopolis Agadir"},
+    image: "/poi-images/ma-haliopolis-agadir-economic-v2.webp",
     description: {
       de: "Eine Industriezone, die ausschließlich der Verarbeitung und Verpackung von Meeresfrüchten gewidmet ist.",
       hu: "Kizárólag a tenger gyümölcsei feldolgozására és csomagolására szentelt ipari övezet.",
@@ -725,9 +706,8 @@ image: "/poi-images/ma-haliopolis-agadir-economic-v2.webp"
       de: "Kraftwerk Safi",
       hu: "Safi Erőmű",
       ro: "Centrala Electrică Safi",
-      en: "Safi Power Plant",
-image: "/poi-images/ma-safi-energy-hub-economic-v2.webp"
-},
+      en: "Safi Power Plant"},
+    image: "/poi-images/ma-safi-energy-hub-economic-v2.webp",
     description: {
       de: "Ein modernes, hocheffizientes Wärmekraftwerk, das einen erheblichen Teil des marokkanischen Strombedarfs deckt.",
       hu: "Egy modern, nagy hatásfokú hőerőmű, amely a marokkói villamosenergia-igény jelentős részét fedezi.",
@@ -762,9 +742,8 @@ image: "/poi-images/ma-safi-energy-hub-economic-v2.webp"
       de: "Windpark Tarfaya",
       hu: "Tarfaya Szélerőműpark",
       ro: "Parcul Eolian Tarfaya",
-      en: "Tarfaya Wind Farm",
-image: "/poi-images/ma-tarfaya-wind-farm-economic-v2.webp"
-},
+      en: "Tarfaya Wind Farm"},
+    image: "/poi-images/ma-tarfaya-wind-farm-economic-v2.webp",
     description: {
       de: "Einer der größten Windparks Afrikas, der saubere Energie für das marokkanische Stromnetz liefert.",
       hu: "Afrika egyik legnagyobb szélerőműparkja, amely tiszta energiát szolgáltat a marokkói elektromos hálózatnak.",
@@ -799,9 +778,8 @@ image: "/poi-images/ma-tarfaya-wind-farm-economic-v2.webp"
       de: "Noor Ouarzazate Solarkomplex",
       hu: "Noor Ouarzazate Napenergia Komplexum",
       ro: "Complexul Solar Noor Ouarzazate",
-      en: "Noor Ouarzazate Solar Complex",
-image: "/poi-images/ma-noor-ouarzazate-economic-v2.webp"
-},
+      en: "Noor Ouarzazate Solar Complex"},
+    image: "/poi-images/ma-noor-ouarzazate-economic-v2.webp",
     description: {
       de: "Das größte konzentrierte Solarkraftwerk der Welt, ein Meilenstein für erneuerbare Energien in Marokko.",
       hu: "A világ legnagyobb koncentrált naperőműve, mérföldkő a megújuló energia terén Marokkóban.",
@@ -836,9 +814,8 @@ image: "/poi-images/ma-noor-ouarzazate-economic-v2.webp"
       de: "Jbel Aouam Mine",
       hu: "Jbel Aouam Bánya",
       ro: "Mina Jbel Aouam",
-      en: "Jbel Aouam Mine",
-image: "/poi-images/ma-jbel-aouam-mine-economic-v2.webp"
-},
+      en: "Jbel Aouam Mine"},
+    image: "/poi-images/ma-jbel-aouam-mine-economic-v2.webp",
     description: {
       de: "Eine polymetallische Mine in Zentralmarokko, die Blei, Zink und Silber fördert.",
       hu: "Polimetallikus bánya Közép-Marokkóban, amely ólmot, cinket és ezüstöt termel ki.",
@@ -873,9 +850,8 @@ image: "/poi-images/ma-jbel-aouam-mine-economic-v2.webp"
       de: "Imiter Silbermine",
       hu: "Imiter Ezüstbánya",
       ro: "Mina de Argint Imiter",
-      en: "Imiter Silver Mine",
-image: "/poi-images/ma-imiter-silver-mine-economic-v2.webp"
-},
+      en: "Imiter Silver Mine"},
+    image: "/poi-images/ma-imiter-silver-mine-economic-v2.webp",
     description: {
       de: "Eine der größten und reinsten Silberminen der Welt, betrieben in der Region Drâa-Tafilalet.",
       hu: "A világ egyik legnagyobb és legtisztább ezüstbányája, a Drâa-Tafilalet régióban.",
@@ -910,9 +886,8 @@ image: "/poi-images/ma-imiter-silver-mine-economic-v2.webp"
       de: "Bou Azzer Kobaltmine",
       hu: "Bou Azzer Kobaltbánya",
       ro: "Mina de Cobalt Bou Azzer",
-      en: "Bou Azzer Cobalt Mine",
-image: "/poi-images/ma-bou-azzer-cobalt-mine-economic-v2.webp"
-},
+      en: "Bou Azzer Cobalt Mine"},
+    image: "/poi-images/ma-bou-azzer-cobalt-mine-economic-v2.webp",
     descriptionAdvanced: {
       hu: "A Bou Azzer kobaltbánya Marokkó középső részén, az Anti-Atlasz-hegységben található, és a világ egyik legfontosabb kobalt- és arzénlelőhelye. A bánya egyedülálló geológiai környezetben fekszik, ahol a kobalt-arzén ércek magas koncentrációban fordulnak elő. A bányát a Managem csoport üzemelteti, amely Marokkó egyik vezető bányászati vállalata. A kitermelt ércet helyben dolgozzák fel, hogy kobalt-koncentrátumot állítsanak elő, amelyet azután a guemassai hidrometallurgiai üzembe szállítanak további finomításra. A kobalt kulcsfontosságú alapanyaga a modern technológiáknak, különösen az elektromos autók akkumulátorainak és a szuperötvözeteknek. A Bou Azzer bánya így stratégiai fontossággal bír mind Marokkó, mind a globális high-tech ipar számára. Földrajz K11 - Ásványkincsek és a világgazdaság.",
       de: "Bou Azzer Kobaltmine ist ein bemerkenswertes Element der marokkanischen Geografie und Kultur. Eine seltene Primär-Kobaltmine, die für die globale Produktion von Batterien von entscheidender Bedeutung ist. Eine der wenigen Minen mit Kobalt als Hauptprodukt. Wichtig für E-Mobilität. Dieser Standort spielt eine Rolle in der Wirtschaft Marokkos. Wie viele bedeutende Orte in Marokko vereint dieser Ort regionale Eigenheiten und übergreifende Bedeutung. Damit trägt dieser Ort zum vielseitigen Profil Marokkos bei.",
@@ -949,9 +924,8 @@ image: "/poi-images/ma-bou-azzer-cobalt-mine-economic-v2.webp"
       de: "OCP Safi Industriekomplex",
       hu: "OCP Safi Ipari Komplexum",
       ro: "Complexul Industrial OCP Safi",
-      en: "OCP Safi Industrial Complex",
-image: "/poi-images/ma-ocp-safi-complex-economic-v2.webp"
-},
+      en: "OCP Safi Industrial Complex"},
+    image: "/poi-images/ma-ocp-safi-complex-economic-v2.webp",
     description: {
       de: "Ein riesiger chemischer Komplex für die Verarbeitung von Phosphat zu Säuren und Düngemitteln.",
       hu: "Hatalmas vegyipari komplexum a foszfát savakká és műtrágyákká történő feldolgozására.",
@@ -986,9 +960,8 @@ image: "/poi-images/ma-ocp-safi-complex-economic-v2.webp"
       de: "LafargeHolcim Zementwerk Settat",
       hu: "LafargeHolcim Settat Cementgyár",
       ro: "Fabrica de Ciment LafargeHolcim Settat",
-      en: "LafargeHolcim Settat Cement Plant",
-image: "/poi-images/ma-lafargeholcim-settat-economic-v2.webp"
-},
+      en: "LafargeHolcim Settat Cement Plant"},
+    image: "/poi-images/ma-lafargeholcim-settat-economic-v2.webp",
     description: {
       de: "Eine der modernsten Zementfabriken in Afrika, die den Bauboom in der Region Casablanca unterstützt.",
       hu: "Afrika egyik legmodernebb cementgyára, amely a casablancai régió építőipari boomját támogatja.",
@@ -1023,9 +996,8 @@ image: "/poi-images/ma-lafargeholcim-settat-economic-v2.webp"
       de: "SAMIR Erdölraffinerie",
       hu: "SAMIR Olajfinomító",
       ro: "Rafinăria de Petrol SAMIR",
-      en: "SAMIR Oil Refinery",
-image: "/poi-images/ma-mohammedia-refinery-economic-v2.webp"
-},
+      en: "SAMIR Oil Refinery"},
+    image: "/poi-images/ma-mohammedia-refinery-economic-v2.webp",
     description: {
       de: "Marokkos einzige Raffinerieanlage in Mohammedia, historisch entscheidend für die Energieversorgung.",
       hu: "Marokkó egyetlen finomítója Mohammediában, amely történelmileg kulcsfontosságú az energiaellátásban.",
@@ -1060,9 +1032,8 @@ image: "/poi-images/ma-mohammedia-refinery-economic-v2.webp"
       de: "Maroc Phosphore Chemiewerk",
       hu: "Maroc Phosphore Vegyiművek",
       ro: "Uzina Chimică Maroc Phosphore",
-      en: "Maroc Phosphore Chemical Plant",
-image: "/poi-images/ma-maroc-phosphore-safi-economic-v2.webp"
-},
+      en: "Maroc Phosphore Chemical Plant"},
+    image: "/poi-images/ma-maroc-phosphore-safi-economic-v2.webp",
     description: {
       de: "Teil des umfassenden Safi-Komplexes zur Umwandlung von Phosphat in hochwertige Dünger.",
       hu: "Az átfogó szafi-komplexum része, amely a foszfátot kiváló minőségű műtrágyákká alakítja.",
@@ -1097,9 +1068,8 @@ image: "/poi-images/ma-maroc-phosphore-safi-economic-v2.webp"
       de: "Nador West Med Hafenprojekt",
       hu: "Nador West Med Kikötőprojekt",
       ro: "Proiectul Portuar Nador West Med",
-      en: "Nador West Med Port Project",
-image: "/poi-images/ma-nador-west-med-economic-v2.webp"
-},
+      en: "Nador West Med Port Project"},
+    image: "/poi-images/ma-nador-west-med-economic-v2.webp",
     description: {
       de: "Ein neuer industrieller Hafenkomplex in Entwicklung, der das Wirtschaftswachstum in Nordmarokko fördern soll.",
       hu: "Egy fejlesztés alatt álló új ipari kikötőkomplexum Észak-Marokkó gazdasági növekedésének fellendítésére.",

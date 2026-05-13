@@ -7,9 +7,8 @@ export const poiExtraGhanaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "GH-AS",
     coords: [-1.6167, 6.6833],
-    name: { de: "Kumasi Zoo", hu: "Kumasi Állatkert", ro: "Grădina Zoologică Kumasi", en: "Kumasi Zoo",
-image: "/poi-images/kumasi-zoo-kid-life-v2.webp"
-},
+    name: { de: "Kumasi Zoo", hu: "Kumasi Állatkert", ro: "Grădina Zoologică Kumasi", en: "Kumasi Zoo"},
+    image: "/poi-images/kumasi-zoo-kid-life-v2.webp",
     description: { de: "Ein beliebter Ort für Familien, um heimische Tiere zu sehen.", hu: "Népszerű hely családoknak, ahol megtekinthetik a helyi állatokat.", ro: "Un loc popular pentru familii pentru a vedea animalele locale.", en: "A popular place for families to see local wildlife." },
     facts: {
             de: ["Im Herzen von Kumasi.", "Bietet Bildungsprogramme für Kinder."],
@@ -35,9 +34,8 @@ image: "/poi-images/kumasi-zoo-kid-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-AA",
     coords: [-0.1864, 5.5704],
-    name: { de: "Aburi Botanischer Garten", hu: "Aburi Botanikus Kert", ro: "Grădina Botanică Aburi", en: "Aburi Botanical Gardens",
-image: "/poi-images/accra-botanical-kid-life-v2.webp"
-},
+    name: { de: "Aburi Botanischer Garten", hu: "Aburi Botanikus Kert", ro: "Grădina Botanică Aburi", en: "Aburi Botanical Gardens"},
+    image: "/poi-images/accra-botanical-kid-life-v2.webp",
     description: { de: "Ein friedlicher Garten nördlich von Accra, ideal für Picknicks.", hu: "Békés kert Accrától északra, ideális piknikezéshez.", ro: "O grădină liniștită la nord de Accra, ideală pentru picnicuri.", en: "A peaceful garden north of Accra, ideal for picnics." },
     facts: {
             de: ["Gegründet im Jahr 1890.", "Bekannt für seine alten Bäume."],
@@ -63,9 +61,8 @@ image: "/poi-images/accra-botanical-kid-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-AA",
     coords: [-0.1850, 5.6500],
-    name: { de: "Legon Botanischer Garten", hu: "Legon Botanikus Kert", ro: "Grădina Botanică Legon", en: "Legon Botanical Gardens",
-image: "/poi-images/legon-botanical-kid-life-v2.webp"
-},
+    name: { de: "Legon Botanischer Garten", hu: "Legon Botanikus Kert", ro: "Grădina Botanică Legon", en: "Legon Botanical Gardens"},
+    image: "/poi-images/legon-botanical-kid-life-v2.webp",
     description: { de: "Ein moderner Freizeitpark mit vielen Aktivitäten für Kinder.", hu: "Modern szabadidőpark sok tevékenységgel gyerekeknek.", ro: "Un parc de agrement modern cu multe activități pentru copii.", en: "A modern leisure park with many activities for children." },
     facts: {
             de: ["Enthält einen Hochseilgarten.", "Ideal für Schulausflüge."],
@@ -91,9 +88,8 @@ image: "/poi-images/legon-botanical-kid-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-CP",
     coords: [-1.3833, 5.3500],
-    name: { de: "Kakum Hängebrücken", hu: "Kakum függőhidak", ro: "Podurile suspendate Kakum", en: "Kakum Canopy Walkway",
-image: "/poi-images/kakum-walkway-kid-life-v2.webp"
-},
+    name: { de: "Kakum Hängebrücken", hu: "Kakum függőhidak", ro: "Podurile suspendate Kakum", en: "Kakum Canopy Walkway"},
+    image: "/poi-images/kakum-walkway-kid-life-v2.webp",
     description: { de: "Ein aufregendes Erlebnis in den Baumwipfeln für die ganze Familie.", hu: "Izgalmas élmény a lombkoronában az egész családnak.", ro: "O experiență palpitantă în coronamentul arborilor pentru întreaga familie.", en: "An exciting tree-top experience for the whole family." },
     facts: {
             de: ["Sicher und gut befestigt.", "Toller Ausblick auf den Regenwald."],
@@ -119,9 +115,8 @@ image: "/poi-images/kakum-walkway-kid-life-v2.webp"
     type: "agriculture",
     parent: "GH-ER",
     coords: [-0.3667, 6.2167],
-    name: { de: "Kakaofarm Tafo", hu: "Tafo Kakaófarm", ro: "Ferma de cacao Tafo", en: "Tafo Cocoa Farm",
-image: "/poi-images/cocoa-farm-tafo-agri-life-v2.webp"
-},
+    name: { de: "Kakaofarm Tafo", hu: "Tafo Kakaófarm", ro: "Ferma de cacao Tafo", en: "Tafo Cocoa Farm"},
+    image: "/poi-images/cocoa-farm-tafo-agri-life-v2.webp",
     description: { de: "Ein Lehrpfad über den Kakaoanbau in Ghana.", hu: "Tanösvény Ghána kakaótermesztéséről.", ro: "Un traseu educativ despre cultivarea cacao în Ghana.", en: "An educational trail about cocoa farming in Ghana." },
     facts: {
             de: ["Hauptanbaugebiet Ghanas.", "Führungen für Besucher."],
@@ -147,9 +142,8 @@ image: "/poi-images/cocoa-farm-tafo-agri-life-v2.webp"
     type: "agriculture",
     parent: "GH-NP",
     coords: [-0.8500, 9.4000],
-    name: { de: "Sheanuss-Kooperative Tamale", hu: "Tamale Sheadió-szövetkezet", ro: "Cooperativa de nuci de shea Tamale", en: "Tamale Shea Cooperative",
-image: "/poi-images/tamale-shea-agri-life-v2.webp"
-},
+    name: { de: "Sheanuss-Kooperative Tamale", hu: "Tamale Sheadió-szövetkezet", ro: "Cooperativa de nuci de shea Tamale", en: "Tamale Shea Cooperative"},
+    image: "/poi-images/tamale-shea-agri-life-v2.webp",
     description: { de: "Erfahren Sie, wie aus Sheanüssen Butter hergestellt wird.", hu: "Tudja meg, hogyan készül a vaj a sheadióból.", ro: "Aflați cum se fabrică untul din nuci de shea.", en: "Learn how butter is produced from shea nuts." },
     facts: {
             de: ["Wichtiges Fraueneinkommen.", "Natürliche Kosmetikproduktion."],
@@ -175,9 +169,8 @@ image: "/poi-images/tamale-shea-agri-life-v2.webp"
     type: "agriculture",
     parent: "GH-ER",
     coords: [-0.2500, 6.1000],
-    name: { de: "Koforidua Markt", hu: "Koforidua piac", ro: "Piața Koforidua", en: "Koforidua Market",
-image: "/poi-images/koforidua-market-agri-life-v2.webp"
-},
+    name: { de: "Koforidua Markt", hu: "Koforidua piac", ro: "Piața Koforidua", en: "Koforidua Market"},
+    image: "/poi-images/koforidua-market-agri-life-v2.webp",
     description: { de: "Ein riesiger Markt für regionale Landwirtschaftsprodukte.", hu: "Hatalmas piac regionális mezőgazdasági termékekkel.", ro: "O piață imensă pentru produse agricole regionale.", en: "A huge market for regional agricultural products." },
     facts: {
             de: ["Bekannt für Obst und Gemüse.", "Traditionelle Handelsatmosphäre."],
@@ -203,9 +196,8 @@ image: "/poi-images/koforidua-market-agri-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-CP",
     coords: [-1.4000, 5.4000],
-    name: { de: "Schmetterlingsschutzgebiet", hu: "Pillangó rezervátum", ro: "Rezervația de fluturi", en: "Bobiri Butterfly Sanctuary",
-image: "/poi-images/butterfly-sanctuary-kid-life-v2.webp"
-},
+    name: { de: "Schmetterlingsschutzgebiet", hu: "Pillangó rezervátum", ro: "Rezervația de fluturi", en: "Bobiri Butterfly Sanctuary"},
+    image: "/poi-images/butterfly-sanctuary-kid-life-v2.webp",
     description: { de: "Ein farbenfrohes Paradies für Kinder und Naturfreunde.", hu: "Színes paradicsom gyerekeknek és természetkedvelőknek.", ro: "Un paradis colorat pentru copii și iubitorii de natură.", en: "A colorful paradise for children and nature lovers." },
     facts: {
             de: ["Hunderte von Arten.", "Wanderwege durch den Wald."],
@@ -231,9 +223,8 @@ image: "/poi-images/butterfly-sanctuary-kid-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-NP",
     coords: [-1.8667, 9.8333],
-    name: { de: "Mole Safari", hu: "Mole Szafari", ro: "Safari Mole", en: "Mole Safari",
-image: "/poi-images/mole-safari-kid-life-v2.webp"
-},
+    name: { de: "Mole Safari", hu: "Mole Szafari", ro: "Safari Mole", en: "Mole Safari"},
+    image: "/poi-images/mole-safari-kid-life-v2.webp",
     description: { de: "Eine geführte Tour, um Elefanten in der Natur zu sehen.", hu: "Vezetett túra, hogy elefántokat lássanak a természetben.", ro: "Un tur ghidat pentru a vedea elefanți în natură.", en: "A guided tour to see elephants in the wild." },
     facts: {
             de: ["Sicher für Kinder.", "Lehrreich und spannend."],
@@ -259,9 +250,8 @@ image: "/poi-images/mole-safari-kid-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-BO",
     coords: [-1.7000, 7.7000],
-    name: { de: "Boabeng Affen-Schutzgebiet", hu: "Boabeng Majomrezervátum", ro: "Rezervația de maimuțe Boabeng", en: "Boabeng Fiema Monkey Sanctuary",
-image: "/poi-images/monkey-sanctuary-boabeng-animal-life-v2.webp"
-},
+    name: { de: "Boabeng Affen-Schutzgebiet", hu: "Boabeng Majomrezervátum", ro: "Rezervația de maimuțe Boabeng", en: "Boabeng Fiema Monkey Sanctuary"},
+    image: "/poi-images/monkey-sanctuary-boabeng-animal-life-v2.webp",
     description: { de: "Ein heiliger Ort, an dem Affen frei herumlaufen.", hu: "Szent hely, ahol a majmok szabadon kószálnak.", ro: "Un loc sacru unde maimuțele se plimbă liber.", en: "A sacred site where monkeys roam freely." },
     facts: {
             de: ["Menschen und Affen leben in Harmonie.", "Beliebt bei Touristen."],
@@ -287,9 +277,8 @@ image: "/poi-images/monkey-sanctuary-boabeng-animal-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-UE",
     coords: [-1.1167, 10.8333],
-    name: { de: "Paga Krokodil-Teich", hu: "Paga krokodil-tó", ro: "Iazul cu crocodili Paga", en: "Paga Crocodile Pond",
-image: "/poi-images/crocodile-pond-paga-animal-life-v2.webp"
-},
+    name: { de: "Paga Krokodil-Teich", hu: "Paga krokodil-tó", ro: "Iazul cu crocodili Paga", en: "Paga Crocodile Pond"},
+    image: "/poi-images/crocodile-pond-paga-animal-life-v2.webp",
     description: { de: "Ein einzigartiger Ort, um Krokodile aus nächster Nähe zu sehen.", hu: "Egyedülálló hely, ahol közelről láthatók a krokodilok.", ro: "Un loc unic pentru a vedea crocodili de aproape.", en: "A unique place to see crocodiles up close." },
     facts: {
             de: ["Die Tiere gelten als heilig.", "Touristen können sie berühren."],
@@ -315,9 +304,8 @@ image: "/poi-images/crocodile-pond-paga-animal-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-AA",
     coords: [0.0600, 5.9500],
-    name: { de: "Straußenfarm Shai", hu: "Shai Struccfarm", ro: "Ferma de struți Shai", en: "Shai Ostrich Farm",
-image: "/poi-images/ostrich-farm-shai-animal-life-v2.webp"
-},
+    name: { de: "Straußenfarm Shai", hu: "Shai Struccfarm", ro: "Ferma de struți Shai", en: "Shai Ostrich Farm"},
+    image: "/poi-images/ostrich-farm-shai-animal-life-v2.webp",
     description: { de: "Eine Farm, auf der man Strauße beobachten kann.", hu: "Farm, ahol struccokat lehet megfigyelni.", ro: "O fermă unde se pot observa struți.", en: "A farm where you can observe ostriches." },
     facts: {
             de: ["Spaß für die ganze Familie.", "Lernen Sie die größten Vögel kennen."],
@@ -343,9 +331,8 @@ image: "/poi-images/ostrich-farm-shai-animal-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-NP",
     coords: [-1.5000, 9.5000],
-    name: { de: "Vogelbeobachtung im Norden", hu: "Északi madármegfigyelés", ro: "Observarea păsărilor în nord", en: "Northern Bird Sanctuary",
-image: "/poi-images/bird-watching-pulibu-animal-life-v2.webp"
-},
+    name: { de: "Vogelbeobachtung im Norden", hu: "Északi madármegfigyelés", ro: "Observarea păsărilor în nord", en: "Northern Bird Sanctuary"},
+    image: "/poi-images/bird-watching-pulibu-animal-life-v2.webp",
     description: { de: "Ein Gebiet mit einer unglaublichen Vielfalt an Vögeln.", hu: "Terület hihetetlen madárfaj-sokszínűséggel.", ro: "O zonă cu o diversitate incredibilă de păsări.", en: "An area with an incredible diversity of birds." },
     facts: {
             de: ["Ideal für Ornithologen.", "Migrationsstopp für viele Arten."],
@@ -371,9 +358,8 @@ image: "/poi-images/bird-watching-pulibu-animal-life-v2.webp"
     type: "agriculture",
     parent: "GH-AS",
     coords: [-1.4000, 6.5000],
-    name: { de: "Ashanti Kakaoplantage", hu: "Ashanti Kakaóültetvény", ro: "Plantația de cacao Ashanti", en: "Ashanti Cocoa Plantation",
-image: "/poi-images/cocoa-plantation-asant-agri-life-v2.webp"
-},
+    name: { de: "Ashanti Kakaoplantage", hu: "Ashanti Kakaóültetvény", ro: "Plantația de cacao Ashanti", en: "Ashanti Cocoa Plantation"},
+    image: "/poi-images/cocoa-plantation-asant-agri-life-v2.webp",
     description: { de: "Erleben Sie den Ursprung von Ghanas wichtigstem Exportgut.", hu: "Tapasztalja meg Ghána legfontosabb exporttermékének eredetét.", ro: "Experimentați originea celui mai important produs de export al Ghanei.", en: "Experience the origin of Ghana's most important export." },
     facts: {
             de: ["Traditionelle Anbaumethoden.", "Schmecken Sie frische Kakaobohnen."],
@@ -399,9 +385,8 @@ image: "/poi-images/cocoa-plantation-asant-agri-life-v2.webp"
     type: "agriculture",
     parent: "GH-WE",
     coords: [-2.5000, 5.0000],
-    name: { de: "Kautschukplantage Westen", hu: "Nyugati kaucsukültetvény", ro: "Plantația de cauciuc din vest", en: "Western Rubber Plantation",
-image: "/poi-images/rubber-plantation-western-agri-life-v2.webp"
-},
+    name: { de: "Kautschukplantage Westen", hu: "Nyugati kaucsukültetvény", ro: "Plantația de cauciuc din vest", en: "Western Rubber Plantation"},
+    image: "/poi-images/rubber-plantation-western-agri-life-v2.webp",
     description: { de: "Ein Einblick in die industrielle Landwirtschaft Ghanas.", hu: "Betekintés Ghána ipari mezőgazdaságába.", ro: "O privire asupra agriculturii industriale din Ghana.", en: "An insight into Ghana's industrial agriculture." },
     facts: {
             de: ["Gewinnung von Naturkautschuk.", "Große bewirtschaftete Flächen."],
@@ -427,9 +412,8 @@ image: "/poi-images/rubber-plantation-western-agri-life-v2.webp"
     type: "agriculture",
     parent: "GH-ER",
     coords: [0.0000, 6.0000],
-    name: { de: "Ananasfarm Akwapim", hu: "Akwapim Ananászfarm", ro: "Ferma de ananas Akwapim", en: "Akwapim Pineapple Farm",
-image: "/poi-images/pineapple-farm-akw-agri-life-v2.webp"
-},
+    name: { de: "Ananasfarm Akwapim", hu: "Akwapim Ananászfarm", ro: "Ferma de ananas Akwapim", en: "Akwapim Pineapple Farm"},
+    image: "/poi-images/pineapple-farm-akw-agri-life-v2.webp",
     description: { de: "Ein fruchtiges Erlebnis auf einer Ananasplantage.", hu: "Gyümölcsös élmény egy ananászültetvényen.", ro: "O experiență fructată la o plantație de ananas.", en: "A fruity experience at a pineapple plantation." },
     facts: {
             de: ["Süße Früchte für den Export.", "Führungen verfügbar."],
@@ -455,9 +439,8 @@ image: "/poi-images/pineapple-farm-akw-agri-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-CP",
     coords: [-1.3500, 5.0833],
-    name: { de: "Elmina Fischerdorf", hu: "Elmina halászfalu", ro: "Satul pescăresc Elmina", en: "Elmina Fishing Village",
-image: "/poi-images/fishing-village-elmina-kid-life-v2.webp"
-},
+    name: { de: "Elmina Fischerdorf", hu: "Elmina halászfalu", ro: "Satul pescăresc Elmina", en: "Elmina Fishing Village"},
+    image: "/poi-images/fishing-village-elmina-kid-life-v2.webp",
     description: { de: "Ein lebendiges Fischerdorf, in dem Kinder den traditionellen Fischfang und das bunte Treiben am Hafen hautnah erleben können.", hu: "Élénk hely, ahol megfigyelhető a halászok élete.", ro: "Un loc vibrant pentru a observa viața pescarilor.", en: "A vibrant place to observe the fishermen's life." },
     facts: {
             de: ["Hunderte bunte Fischerboote.", "Traditionelle Handwerkskunst.", "Einblick in das tägliche Leben an der Küste."],
@@ -483,9 +466,8 @@ image: "/poi-images/fishing-village-elmina-kid-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-AA",
     coords: [0.0500, 5.6333],
-    name: { de: "Sakumono-Feuchtgebiet", hu: "Sakumono-vizes élőhely", ro: "Zona umedă Sakumono", en: "Sakumono Wetlands",
-image: "/poi-images/wetland-sakumono-animal-life-v2.webp"
-},
+    name: { de: "Sakumono-Feuchtgebiet", hu: "Sakumono-vizes élőhely", ro: "Zona umedă Sakumono", en: "Sakumono Wetlands"},
+    image: "/poi-images/wetland-sakumono-animal-life-v2.webp",
     description: { de: "Ein geschütztes Feuchtgebiet in der Nähe von Tema, das als wichtiger Rückzugsort für Zugvögel und lokale Tierarten dient.", hu: "Fontos élőhely a költöző madarak számára.", ro: "Un habitat important pentru păsările migratoare.", en: "An important habitat for migratory birds." },
     facts: {
             de: ["Ramsar-Schutzgebiet.", "Vogelbeobachtung möglich.", "Wichtiges ökologisches Reservoir."],
@@ -511,9 +493,8 @@ image: "/poi-images/wetland-sakumono-animal-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-UE",
     coords: [-1.1500, 10.9000],
-    name: { de: "Hapa Krokodil-Reservat", hu: "Hapa Krokodilrezervátum", ro: "Rezervația de crocodili Hapa", en: "Hapa Crocodile Sanctuary",
-image: "/poi-images/crocodile-sanctuary-hapa-animal-life-v2.webp"
-},
+    name: { de: "Hapa Krokodil-Reservat", hu: "Hapa Krokodilrezervátum", ro: "Rezervația de crocodili Hapa", en: "Hapa Crocodile Sanctuary"},
+    image: "/poi-images/crocodile-sanctuary-hapa-animal-life-v2.webp",
     description: { de: "Ein weniger besuchter, aber toller Krokodil-Lebensraum.", hu: "Kevésbé látogatott, de nagyszerű krokodil élőhely.", ro: "Un habitat de crocodili mai puțin vizitat, dar grozav.", en: "A less visited but great crocodile habitat." },
     facts: {
             de: ["Naturnahe Beobachtung.", "Lehrreiche Führungen."],
@@ -539,9 +520,8 @@ image: "/poi-images/crocodile-sanctuary-hapa-animal-life-v2.webp"
     type: "agriculture",
     parent: "GH-AA",
     coords: [-0.2000, 5.7000],
-    name: { de: "Landwirtschafts-Campus", hu: "Mezőgazdasági Campus", ro: "Campus agricol", en: "Agriculture College Farm",
-image: "/poi-images/agric-college-farm-life-v2.webp"
-},
+    name: { de: "Landwirtschafts-Campus", hu: "Mezőgazdasági Campus", ro: "Campus agricol", en: "Agriculture College Farm"},
+    image: "/poi-images/agric-college-farm-life-v2.webp",
     description: { de: "Ein landwirtschaftlicher Lehrbetrieb, der Einblicke in moderne Anbaumethoden und die Tierhaltung in Ghana bietet.", hu: "Tanüzem, amely modern mezőgazdaságot mutat be.", ro: "O fermă didactică ce arată agricultura modernă.", en: "A training farm showcasing modern agriculture." },
     facts: {
             de: ["Zentrum für Agrarbildung.", "Demonstration von Feldfrüchten.", "Praktisches Lernen für Studenten."],
@@ -567,9 +547,8 @@ image: "/poi-images/agric-college-farm-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-NP",
     coords: [-1.5000, 9.8000],
-    name: { de: "Akazien-Savanne", hu: "Akác-szavanna", ro: "Savana cu salcâmi", en: "Acacia Savanna Wildlife",
-image: "/poi-images/acacia-forest-savanna-animal-life-v2.webp"
-},
+    name: { de: "Akazien-Savanne", hu: "Akác-szavanna", ro: "Savana cu salcâmi", en: "Acacia Savanna Wildlife"},
+    image: "/poi-images/acacia-forest-savanna-animal-life-v2.webp",
     description: { de: "Lebensraum für viele Wildtiere im Norden.", hu: "Élőhely sok vadállat számára északon.", ro: "Un ecosistem vital de savană dominat de arbori de acacia, oferind adăpost unei faune diverse în regiunile nordice.", en: "Habitat for many wild animals in the north." },
     facts: {
             de: ["Typische afrikanische Tierwelt.", "Sehr weitläufig."],
@@ -595,9 +574,8 @@ image: "/poi-images/acacia-forest-savanna-animal-life-v2.webp"
     type: "agriculture",
     parent: "GH-CP",
     coords: [-1.2000, 5.5000],
-    name: { de: "Honigfarm Central", hu: "Központi Mézfarm", ro: "Ferma de miere Central", en: "Central Honey Farm",
-image: "/poi-images/honey-farm-central-agri-life-v2.webp"
-},
+    name: { de: "Honigfarm Central", hu: "Központi Mézfarm", ro: "Ferma de miere Central", en: "Central Honey Farm"},
+    image: "/poi-images/honey-farm-central-agri-life-v2.webp",
     description: { de: "Alles über die Bienenhaltung in Ghana.", hu: "Minden a méhészkedésről Ghánában.", ro: "Totul despre apicultură în Ghana.", en: "Everything about beekeeping in Ghana." },
     facts: {
             de: ["Natürlicher Honig.", "Bienen sind wichtig für die Umwelt."],
@@ -623,9 +601,8 @@ image: "/poi-images/honey-farm-central-agri-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-AA",
     coords: [-0.1900, 5.6000],
-    name: { de: "Accra Wildtier-Rettung", hu: "Accra Vadmentő", ro: "Centrul de salvare a animalelor sălbatice Accra", en: "Accra Wildlife Rescue",
-image: "/poi-images/wildlife-rescue-accra-animal-life-v2.webp"
-},
+    name: { de: "Accra Wildtier-Rettung", hu: "Accra Vadmentő", ro: "Centrul de salvare a animalelor sălbatice Accra", en: "Accra Wildlife Rescue"},
+    image: "/poi-images/wildlife-rescue-accra-animal-life-v2.webp",
     description: { de: "Ein Zufluchtsort für verletzte Tiere.", hu: "Menedék sérült állatok számára.", ro: "Un refugiu pentru animalele rănite.", en: "A sanctuary for injured animals." },
     facts: {
             de: ["Hilfe für bedrohte Arten.", "Öffentliche Aufklärung."],
@@ -651,9 +628,8 @@ image: "/poi-images/wildlife-rescue-accra-animal-life-v2.webp"
     type: "agriculture",
     parent: "GH-NP",
     coords: [-0.8000, 9.6000],
-    name: { de: "Reisfelder Norden", hu: "Északi rizsföldek", ro: "Orezării din nord", en: "Northern Rice Fields",
-image: "/poi-images/rice-field-north-agri-life-v2.webp"
-},
+    name: { de: "Reisfelder Norden", hu: "Északi rizsföldek", ro: "Orezării din nord", en: "Northern Rice Fields"},
+    image: "/poi-images/rice-field-north-agri-life-v2.webp",
     description: { de: "Ein wichtiger Anbauort für Grundnahrungsmittel.", hu: "Fontos termőhely alapélelmiszerek számára.", ro: "Câmpuri vaste de orez situate în regiunile de nord ale Ghanei, reprezentând coloana vertebrală a economiei agricole locale.", en: "An important cultivation area for staple food." },
     facts: {
             de: ["Grüne Landschaft.", "Wichtig für die lokale Ernährung."],
@@ -679,9 +655,8 @@ image: "/poi-images/rice-field-north-agri-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-AA",
     coords: [-0.1700, 5.5800],
-    name: { de: "Accra Aquarium", hu: "Accra Akvárium", ro: "Acvariul Accra", en: "Accra Aquarium",
-image: "/poi-images/aquarium-accra-kid-life-v2.webp"
-},
+    name: { de: "Accra Aquarium", hu: "Accra Akvárium", ro: "Acvariul Accra", en: "Accra Aquarium"},
+    image: "/poi-images/aquarium-accra-kid-life-v2.webp",
     description: { de: "Ein kleineres Aquarium in der Hauptstadt, das Kindern die bunte Unterwasserwelt Westafrikas näherbringt.", hu: "Víz alatti világ gyerekeknek.", ro: "O lume subacvatică pentru copii.", en: "An underwater world for kids." },
     facts: {
             de: ["Heimische Fischarten.", "Bildungsprogramme für Schulen.", "Spannendes Ausflugsziel für Familien."],
@@ -707,9 +682,8 @@ image: "/poi-images/aquarium-accra-kid-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-AA",
     coords: [0.6000, 5.8000],
-    name: { de: "Ada Mangroven", hu: "Ada mangrove-erdők", ro: "Mangrove Ada", en: "Ada Mangrove Forest",
-image: "/poi-images/mangrove-forest-ada-animal-life-v2.webp"
-},
+    name: { de: "Ada Mangroven", hu: "Ada mangrove-erdők", ro: "Mangrove Ada", en: "Ada Mangrove Forest"},
+    image: "/poi-images/mangrove-forest-ada-animal-life-v2.webp",
     description: { de: "Ein ökologisch wertvolles Gebiet.", hu: "Ökológiailag értékes terület.", ro: "O zonă valoroasă din punct de vedere ecologic.", en: "An ecologically valuable area." },
     facts: {
             de: ["Brutstätte für Fische.", "Wichtig gegen Erosion."],
@@ -735,9 +709,8 @@ image: "/poi-images/mangrove-forest-ada-animal-life-v2.webp"
     type: "agriculture",
     parent: "GH-ER",
     coords: [-0.1000, 6.2000],
-    name: { de: "Maisfarm Osten", hu: "Keleti kukoricafarm", ro: "Ferma de porumb din est", en: "Eastern Maize Farm",
-image: "/poi-images/maize-farm-east-agri-life-v2.webp"
-},
+    name: { de: "Maisfarm Osten", hu: "Keleti kukoricafarm", ro: "Ferma de porumb din est", en: "Eastern Maize Farm"},
+    image: "/poi-images/maize-farm-east-agri-life-v2.webp",
     description: { de: "Großflächiger Anbau von Mais für den täglichen Bedarf.", hu: "Kukorica széles körű termesztése a napi szükségletekhez.", ro: "Cultivarea pe scară largă a porumbului pentru nevoile zilnice.", en: "Large-scale cultivation of maize for daily needs." },
     facts: {
             de: ["Hauptnahrungsmittel.", "Erntedankfeste."],
@@ -763,9 +736,8 @@ image: "/poi-images/maize-farm-east-agri-life-v2.webp"
     type: "animal-habitat",
     parent: "GH-NP",
     coords: [-0.8000, 9.5000],
-    name: { de: "Tamale Tierheim", hu: "Tamale menhely", ro: "Adăpost pentru animale Tamale", en: "Tamale Animal Shelter",
-image: "/poi-images/animal-shelter-tamale-animal-life-v2.webp"
-},
+    name: { de: "Tamale Tierheim", hu: "Tamale menhely", ro: "Adăpost pentru animale Tamale", en: "Tamale Animal Shelter"},
+    image: "/poi-images/animal-shelter-tamale-animal-life-v2.webp",
     description: { de: "Ein Heim für verlassene Haustiere.", hu: "Otthon elhagyott háziállatok számára.", ro: "Un cămin pentru animalele abandonate.", en: "A home for abandoned pets." },
     facts: {
             de: ["Adoption möglich.", "Freiwilligenarbeit willkommen."],
@@ -791,9 +763,8 @@ image: "/poi-images/animal-shelter-tamale-animal-life-v2.webp"
     type: "kid-landmark",
     parent: "GH-WE",
     coords: [-1.7500, 4.9000],
-    name: { de: "Takoradi Zoo", hu: "Takoradi Állatkert", ro: "Grădina Zoologică Takoradi", en: "Takoradi Zoo",
-image: "/poi-images/zoo-takoradi-kid-life-v2.webp"
-},
+    name: { de: "Takoradi Zoo", hu: "Takoradi Állatkert", ro: "Grădina Zoologică Takoradi", en: "Takoradi Zoo"},
+    image: "/poi-images/zoo-takoradi-kid-life-v2.webp",
     description: { de: "Ein kleinerer Tierpark, ideal für Tagesausflüge.", hu: "Kisebb állatpark, ideális egynapos kirándulásokhoz.", ro: "O grădină zoologică mai mică, ideală pentru excursii de o zi.", en: "A smaller zoo, ideal for day trips." },
     facts: {
             de: ["Lernen über lokale Tierarten.", "Sehr kinderfreundlich."],
@@ -819,9 +790,8 @@ image: "/poi-images/zoo-takoradi-kid-life-v2.webp"
     type: "agriculture",
     parent: "GH-CP",
     coords: [-1.1000, 5.6000],
-    name: { de: "Zitrusplantage Central", hu: "Központi citrusültetvény", ro: "Plantație de citrice Central", en: "Central Citrus Orchard",
-image: "/poi-images/citrus-orchard-central-agri-life-v2.webp"
-},
+    name: { de: "Zitrusplantage Central", hu: "Központi citrusültetvény", ro: "Plantație de citrice Central", en: "Central Citrus Orchard"},
+    image: "/poi-images/citrus-orchard-central-agri-life-v2.webp",
     description: { de: "Frische Orangen und Zitronen aus Ghana.", hu: "Friss narancs és citrom Ghánából.", ro: "Portocale și lămâi proaspete din Ghana.", en: "Fresh oranges and lemons from Ghana." },
     facts: {
             de: ["Saisonale Ernte.", "Lokal beliebte Früchte."],

@@ -7,454 +7,810 @@ export const poiExtraSomaliaLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "SO-WO",
     coords: [44.0535, 9.5623],
-    name: { de: "Hargeisa Zoo", hu: "Hargeisai Állatkert", ro: "Grădina Zoologică Hargeisa", en: "Hargeisa Zoo",
-image: "/poi-images/hargeisa-zoo-life-v2.webp"
-},
+    name: { de: "Hargeisa Zoo", hu: "Hargeisai Állatkert", ro: "Grădina Zoologică Hargeisa", en: "Hargeisa Zoo"},
+    image: "/poi-images/hargeisa-zoo-life-v2.webp",
     description: { de: "Ein kleiner Zoo in der Stadt, der lokale Tierarten zeigt.", hu: "Egy kis állatkert a városban, ahol helyi állatfajokat mutatnak be.", ro: "O grădină zoologică mică în oraș, care găzduiește specii locale de animale.", en: "A small zoo in the city showcasing local animal species." },
     facts: {
       de: ["Beliebter Ort für Familien.", "Zeigt afrikanische Wildtiere."],
       hu: ["Népszerű hely a családok számára.", "Afrikai vadállatokat mutat be."],
       ro: ["Loc popular pentru familii.", "Găzduiește animale sălbatice africane."],
       en: ["Popular spot for families.", "Showcases African wildlife."]
-    }, image: "/poi-images/hargeisa-zoo-life-v2.webp"},
+    }, image: "/poi-images/hargeisa-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoo von Hargeisa wurde 2002 eröffnet und ist der einzige öffentliche Zoo in Somaliland. Er beherbergt etwa 50 Tierarten, darunter Löwen, Leoparden, Affen, Vögel und Reptilien. Der Zoo dient der Bildung und Erholung und wird von der Regierung und Spenden unterstützt. Die Gehege sind einfach, aber sauber. Besonders beliebt sind die seltenen somalischen Wildesel. Der Zoo hat auch ein Aufzuchtprogramm für verwaiste Tiere.",
+      hu: "A Hargeisai Állatkertet 2002-ben nyitották meg, és ez Szomáliföld egyetlen állatkertje. Körülbelül 50 állatfajt mutat be, köztük oroszlánokat, leopárdokat és különféle madarakat. Az állatkert oktatási és rekreációs célokat szolgál, és a helyi közösség támogatásával működik. Különlegessége a ritka szomáli vadszamár. Az állatkert részt vesz az árva állatok gondozásában is, és népszerű turistacélpont.",
+      ro: "Grădina Zoologică din Hargeisa, deschisă în 2002, este singura grădină zoologică din Somaliland. Adăpostește aproximativ 50 de specii, inclusiv lei, leoparzi, maimuțe și păsări. Grădina are un rol educațional și de divertisment pentru localnici și turiști. Îngrijirea animalelor este asigurată de personal limitat, iar condițiile sunt modeste. Un accent special este pus pe măgarul sălbatic somalez, o specie pe cale de dispariție.",
+      en: "Hargeisa Zoo, opened in 2002, is the only public zoo in Somaliland. It houses around 50 animal species, including lions, leopards, monkeys, and various birds. The zoo aims to provide education and recreation for the local community. Enclosures are basic but well-maintained. A notable resident is the endangered Somali wild ass. The zoo also participates in wildlife conservation and orphaned animal rehabilitation, attracting both locals and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2002", "50 Tierarten", "Löwen, Leoparden, Affen", "Somalischer Wildesel", "Einziger Zoo in Somaliland", "Wird durch Spenden finanziert"],
+      hu: ["2002-ben nyílt meg", "50 állatfaj", "Oroszlán, leopárd, majmok", "Szomáli vadszamár", "Egyetlen állatkert Szomáliföldön", "Oktatási célokat szolgál"],
+      ro: ["Deschisă în 2002", "50 de specii de animale", "Lei, leoparzi, maimuțe", "Măgar sălbatic somalez", "Singura grădină zoologică din Somaliland", "Rol educațional și recreativ"],
+      en: ["Opened in 2002", "Houses 50 animal species", "Includes lions, leopards, monkeys", "Endangered Somali wild ass", "Only zoo in Somaliland", "Supports animal rehabilitation"],
+    },
+  },
   {
     id: "jubba-agriculture-life-v2",
     type: "agriculture",
     parent: "SO-JD",
     coords: [42.5333, 0.3667],
-    name: { de: "Jubba-Tal Agrarzone", hu: "Jubba-völgy Mezőgazdasági Zóna", ro: "Zona Agricolă Valea Jubba", en: "Jubba Valley Agricultural Zone",
-image: "/poi-images/jubba-agriculture-life-v2.webp"
-},
+    name: { de: "Jubba-Tal Agrarzone", hu: "Jubba-völgy Mezőgazdasági Zóna", ro: "Zona Agricolă Valea Jubba", en: "Jubba Valley Agricultural Zone"},
+    image: "/poi-images/jubba-agriculture-life-v2.webp",
     description: { de: "Fruchtbares Gebiet entlang des Jubba-Flusses, bekannt für den Anbau von Bananen.", hu: "Termékeny terület a Jubba folyó mentén, amely a banántermesztésről ismert.", ro: "Zonă fertilă de-a lungul râului Jubba, cunoscută pentru cultivarea bananelor.", en: "Fertile region along the Jubba River, known for banana cultivation." },
     facts: {
       de: ["Wichtigstes Anbaugebiet Somalias.", "Reich an alluvialen Böden."],
       hu: ["Szomália legfontosabb termesztővidéke.", "Gazdag hordalékos talajokban."],
       ro: ["Cea mai importantă zonă de cultivare din Somalia.", "Bogată în soluri aluvionare."],
       en: ["Most important farming region in Somalia.", "Rich in alluvial soils."]
-    }, image: "/poi-images/jubba-agriculture-life-v2.webp"},
+    }, image: "/poi-images/jubba-agriculture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die landwirtschaftliche Zone des Jubba-Tals erstreckt sich entlang des gleichnamigen Flusses in Südsomalia. Sie ist eine der fruchtbarsten Regionen des Landes, mit Anbau von Mais, Sorghum, Sesam, Bohnen und Gemüse. Die Bewässerung erfolgt saisonal durch den Fluss, aber Dürren und Überschwemmungen gefährden die Ernten. Etwa 200.000 Bauernfamilien sind auf diese Zone angewiesen. Der Export von Sesam ist ein wichtiger Wirtschaftsfaktor.",
+      hu: "A Jubba-völgy mezőgazdasági övezete Szomália déli részén, a Jubba folyó mentén húzódik. Ez az ország egyik legtermékenyebb területe, ahol kukoricát, cirokot, szezámot, babot és zöldségeket termesztenek. Az öntözést az évszakos áradások biztosítják, de az aszályok gyakran károkat okoznak. Körülbelül 200 000 gazdálkodó család él itt, és a szezám exportja jelentős bevételi forrás.",
+      ro: "Zona Agricolă a Văii Jubba se întinde de-a lungul râului Jubba în sudul Somaliei. Este una dintre cele mai fertile regiuni, cultivând porumb, sorg, susan, fasole și legume. Irigațiile sunt asigurate de inundațiile sezoniere, dar secetele și inundațiile pot distruge recoltele. Aproximativ 200.000 de familii de fermieri depind de această zonă. Exportul de susan este o sursă importantă de venit.",
+      en: "The Jubba Valley Agricultural Zone runs along the Jubba River in southern Somalia and is one of the country's most fertile regions. Crops include maize, sorghum, sesame, beans, and vegetables. Irrigation relies on seasonal flooding, making agriculture vulnerable to droughts and floods. About 200,000 farming families depend on this zone. Sesame is a major cash crop for export, contributing to regional food security and trade.",
+    },
+    factsAdvanced: {
+      de: ["Erstreckt sich entlang des Jubba-Flusses", "Hauptkulturen: Mais, Sorghum, Sesam", "200.000 Bauernfamilien", "Bewässerung durch saisonale Fluten", "Gefährdet durch Dürren und Überschwemmungen", "Sesam als Exportprodukt"],
+      hu: ["Jubba folyó mentén", "Kukorica, cirok, szezám termesztése", "200 000 gazdálkodó család", "Időszakos áradások öntöznek", "Aszály és áradás veszélyezteti", "Szezám export"],
+      ro: ["De-a lungul râului Jubba", "Culturi: porumb, sorg, susan", "200.000 de familii de fermieri", "Irigații prin inundații sezoniere", "Risc de secetă și inundații", "Susanul este produs de export"],
+      en: ["Located along the Jubba River", "Main crops: maize, sorghum, sesame", "Supports 200,000 farming families", "Irrigation from seasonal floods", "Vulnerable to drought and flooding", "Sesame is key export crop"],
+    },
+  },
   {
     id: "shebelle-farm-life-v2",
     type: "agriculture",
     parent: "SO-SH",
     coords: [45.2000, 2.0500],
-    name: { de: "Shebelle Farm", hu: "Shebelle Farm", ro: "Fermă Shebelle", en: "Shebelle Farm",
-image: "/poi-images/shebelle-farm-life-v2.webp"
-},
+    name: { de: "Shebelle Farm", hu: "Shebelle Farm", ro: "Fermă Shebelle", en: "Shebelle Farm"},
+    image: "/poi-images/shebelle-farm-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Region am Shebelle-Fluss, die für Getreide und Obst steht.", hu: "Mezőgazdasági régió a Shebelle folyó mellett, amely gabona- és gyümölcstermeléséről ismert.", ro: "Regiune agricolă de-a lungul râului Shebelle, cunoscută pentru cereale și fructe.", en: "Agricultural region along the Shebelle River known for grains and fruits." },
     facts: {
       de: ["Produziert Mais und Sorghum.", "Wichtiger Wasserzugang."],
       hu: ["Kukoricát és cirokot termesztenek.", "Fontos vízforrás."],
       ro: ["Produce porumb și sorg.", "Acces important la apă."],
       en: ["Produces maize and sorghum.", "Vital access to water."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Shebelle-Farm im Shebelle-Tal nahe Mogadischu ist ein landwirtschaftliches Demonstrationsprojekt zur Förderung nachhaltiger Anbaumethoden. Sie wurde 2012 mit internationaler Hilfe wiederbelebt und bewirtschaftet etwa 500 Hektar. Angebaut werden Mais, Tomaten, Paprika und Obst. Die Farm nutzt Tröpfchenbewässerung und Solarenergie. Ziel ist es, die lokale Ernährungssicherheit zu verbessern und jungen Bauern Ausbildung zu bieten.",
+      hu: "A Shebelle Farm a Shebelle folyó völgyében, Mogadishu közelében található. 2012-ben újították fel nemzetközi segítséggel, és 500 hektáron gazdálkodik. Termesztenek kukoricát, paradicsomot, paprikát és gyümölcsöket. A farm csepegtető öntözést és napelemes energiát használ. Célja a helyi élelmiszerbiztonság javítása és a gazdálkodók képzése. A projekt modellként szolgál a régióban.",
+      ro: "Ferma Shebelle, situată în Valea Shebelle lângă Mogadishu, este un proiect agricol demonstrativ. Reînființată în 2012 cu ajutor internațional, cultivă 500 de hectare cu porumb, roșii, ardei și fructe. Folosește irigație prin picurare și energie solară. Scopul este îmbunătățirea securității alimentare și formarea tinerilor fermieri. Ferma este considerată un model pentru agricultura sustenabilă în Somalia.",
+      en: "Shebelle Farm, located in the Shebelle River valley near Mogadishu, is a demonstration farm promoting sustainable agriculture. Revived in 2012 with international support, it operates on 500 hectares, growing maize, tomatoes, peppers, and fruit. The farm uses drip irrigation and solar power. Its goals are to enhance local food security and provide training for young farmers. It serves as a model for sustainable farming in Somalia.",
+    },
+    factsAdvanced: {
+      de: ["Wiederbelebt 2012", "500 Hektar", "Tröpfchenbewässerung", "Solarenergie", "Mais, Tomaten, Paprika", "Ausbildungsprogramm für Bauern"],
+      hu: ["2012-ben újították fel", "500 hektár", "Csepegtető öntözés", "Napelemes energia", "Kukorica, paradicsom, paprika", "Fiatal gazdák képzése"],
+      ro: ["Reînființată în 2012", "500 de hectare", "Irigație prin picurare", "Energie solară", "Cultivă porumb, roșii, ardei", "Program de formare pentru fermieri"],
+      en: ["Revived in 2012", "Area: 500 hectares", "Uses drip irrigation", "Powered by solar energy", "Crops: maize, tomatoes, peppers", "Provides farmer training"],
+    },
   },
   {
     id: "somali-ostrich-habitat-life-v2",
     type: "animal-habitat",
     parent: "SO-BA",
     coords: [43.0000, 3.5000],
-    name: { de: "Somalischer Strauß Lebensraum", hu: "Szomáliai strucc élőhely", ro: "Habitatul struțului somalez", en: "Somali Ostrich Habitat",
-image: "/poi-images/somali-ostrich-habitat-life-v2.webp"
-},
+    name: { de: "Somalischer Strauß Lebensraum", hu: "Szomáliai strucc élőhely", ro: "Habitatul struțului somalez", en: "Somali Ostrich Habitat"},
+    image: "/poi-images/somali-ostrich-habitat-life-v2.webp",
     description: { de: "Natürlicher Lebensraum für die seltene Somalische Straußenart in den Savannen.", hu: "Természetes élőhely a ritka szomáliai strucc számára a szavannákon.", ro: "Habitat natural pentru specia rară de struț somalez în savane.", en: "Natural habitat for the rare Somali Ostrich in the savannas." },
     facts: {
       de: ["Die Strauße sind perfekt an Hitze angepasst.", "Große, offene Savannenlandschaft."],
       hu: ["A struccok alkalmazkodtak a hőséghez.", "Nagy, nyitott szavannatáj."],
       ro: ["Struții sunt adaptați perfect la căldură.", "Peisaj mare și deschis de savană."],
       en: ["Ostriches are perfectly adapted to heat.", "Large open savanna landscape."]
-    }, image: "/poi-images/somali-ostrich-habitat-life-v2.webp"},
+    }, image: "/poi-images/somali-ostrich-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Somali-Strauß (Struthio camelus molybdophanes) lebt in den trockenen Savannen und Halbwüsten Somalias und Äthiopiens. Im Gegensatz zum anderen afrikanischen Strauß hat er eine blaugraue Hals- und Beinfärbung. Die Population ist durch Jagd und Lebensraumverlust bedroht. Schätzungen gehen von weniger als 20.000 Exemplaren aus. Schutzgebiete wie der Ogaden-Region sind für sein Überleben wichtig.",
+      hu: "A szomáli strucc (Struthio camelus molybdophanes) Szomália és Etiópia száraz szavannáin él. Kékesszürke nyaka és lábai különböztetik meg más struccfajoktól. Állománya a vadászat és az élőhelyvesztés miatt csökken; becslések szerint kevesebb mint 20 000 példány maradt. Védett területekre van szüksége a fennmaradásához.",
+      ro: "Struțul somalez (Struthio camelus molybdophanes) trăiește în savanele uscate și semi-deșerturile din Somalia și Etiopia. Se deosebește de alte subspecii prin gâtul și picioarele de culoare albastru-cenușie. Populația este amenințată de vânătoare și pierderea habitatului; se estimează că au mai rămas sub 20.000 de exemplare. Aria sa de răspândire include regiunile Ogaden și Puntland.",
+      en: "The Somali ostrich (Struthio camelus molybdophanes) inhabits dry savannas and semi-deserts of Somalia and Ethiopia. It is distinguished by its bluish-gray neck and legs. The population is declining due to hunting and habitat loss; estimated at fewer than 20,000 individuals. It is found in the Ogaden region and parts of Puntland. Conservation efforts are needed to protect this unique subspecies.",
+    },
+    factsAdvanced: {
+      de: ["Wissenschaftlicher Name: Struthio camelus molybdophanes", "Blaugraue Hals- und Beinfärbung", "Weniger als 20.000 Exemplare", "Bedroht durch Jagd und Lebensraumverlust", "Lebt in Savannen und Halbwüsten", "In Somalia und Äthiopien heimisch"],
+      hu: ["Tudományos név: Struthio camelus molybdophanes", "Kékesszürke nyak és lábak", "Kevesebb mint 20 000 példány", "Vadászat és élőhelyvesztés fenyegeti", "Száraz szavannákban él", "Szomáliában és Etiópiában honos"],
+      ro: ["Denumire științifică: Struthio camelus molybdophanes", "Gât și picioare albastru-cenușii", "Sub 20.000 de exemplare rămase", "Periclitat de vânătoare și pierderea habitatului", "Trăiește în savane și semi-deșerturi", "Prezent în Somalia și Etiopia"],
+      en: ["Scientific name: Struthio camelus molybdophanes", "Distinctive blue-gray neck and legs", "Population: fewer than 20,000", "Threatened by hunting and habitat loss", "Inhabits dry savanna and semi-desert", "Native to Somalia and Ethiopia"],
+    },
+  },
   {
     id: "mogadishu-child-park-life-v2",
     type: "kid-landmark",
     parent: "SO-BN",
     coords: [45.3333, 2.0400],
-    name: { de: "Mogadischu Kinderpark", hu: "Mogadishui Gyermekpark", ro: "Parc pentru Copii Mogadishu", en: "Mogadishu Children's Park",
-image: "/poi-images/mogadishu-child-park-life-v2.webp"
-},
+    name: { de: "Mogadischu Kinderpark", hu: "Mogadishui Gyermekpark", ro: "Parc pentru Copii Mogadishu", en: "Mogadishu Children's Park"},
+    image: "/poi-images/mogadishu-child-park-life-v2.webp",
     description: { de: "Ein öffentlicher Park in Mogadischu, der Familien und Kindern Erholung bietet.", hu: "Egy nyilvános park Mogadishuban, amely kikapcsolódást nyújt a családoknak és gyerekeknek.", ro: "Un parc public din Mogadishu care oferă recreere pentru familii și copii.", en: "A public park in Mogadishu offering recreation for families and children." },
     facts: {
       de: ["Beliebt für Wochenendausflüge.", "Hat einen kleinen Spielplatz."],
       hu: ["Népszerű hétvégi kirándulóhely.", "Van egy kis játszótér."],
       ro: ["Popular pentru ieșirile de weekend.", "Are un mic loc de joacă."],
       en: ["Popular for weekend outings.", "Features a small playground."]
-    }, image: "/poi-images/mogadishu-child-park-life-v2.webp"},
+    }, image: "/poi-images/mogadishu-child-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mogadischu-Kinderpark wurde 2015 als Erholungsraum für Familien eröffnet. Er liegt im Stadtteil Hamar Weyne und bietet Spielplätze, Grünflächen und Sportplätze. Der Park wird von der Stadtverwaltung betrieben und ist ein beliebter Treffpunkt. Eintritt ist frei, aber es gibt Gebühren für einige Attraktionen. Der Park soll Kindern eine sichere Umgebung zum Spielen bieten und das soziale Miteinander fördern.",
+      hu: "A Mogadishui Gyermekparkot 2015-ben nyitották meg a családok szórakoztatására. Hamar Weyne negyedben található, játszóterekkel, zöldterületekkel és sportpályákkal. A parkot a városi önkormányzat üzemelteti, és népszerű találkozóhely. A belépés ingyenes, de néhány attrakcióért fizetni kell. Célja, hogy biztonságos játékteret biztosítson a gyermekek számára.",
+      ro: "Parcul pentru Copii din Mogadishu, deschis în 2015, este o zonă de agrement pentru familii. Situat în cartierul Hamar Weyne, oferă locuri de joacă, spații verzi și terenuri sportive. Parcul este administrat de municipalitate și este popular printre localnici. Intrarea este gratuită, dar unele atracții sunt cu plată. Scopul său este de a oferi un mediu sigur pentru copii și de a promova interacțiunea socială.",
+      en: "Mogadishu Children's Park, opened in 2015, is a recreational area for families located in the Hamar Weyne district. It features playgrounds, green spaces, and sports fields. The park is operated by the city government and is free to enter, though some attractions charge a fee. It aims to provide a safe environment for children to play and socialize. The park is a popular weekend destination for local families.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2015", "Im Stadtteil Hamar Weyne", "Spielplätze und Grünflächen", "Freier Eintritt", "Sportplätze vorhanden", "Familienfreundlicher Ort"],
+      hu: ["2015-ben nyílt meg", "Hamar Weyne negyedben", "Játszótér és zöldterület", "Ingyenes belépés", "Sportpályák", "Családok körében népszerű"],
+      ro: ["Deschis în 2015", "În cartierul Hamar Weyne", "Locuri de joacă și spații verzi", "Intrare gratuită", "Terenuri sportive", "Destinație populară pentru familii"],
+      en: ["Opened in 2015", "Located in Hamar Weyne district", "Features playgrounds and green areas", "Free admission", "Includes sports fields", "Popular family destination"],
+    },
+  },
   {
     id: "galkayo-cattle-market-life-v2",
     type: "agriculture",
     parent: "SO-MU",
     coords: [47.4333, 6.7667],
-    name: { de: "Galkayo Viehmarkt", hu: "Galkayoi Állatpiac", ro: "Piața de Vite Galkayo", en: "Galkayo Cattle Market",
-image: "/poi-images/galkayo-cattle-market-life-v2.webp"
-},
+    name: { de: "Galkayo Viehmarkt", hu: "Galkayoi Állatpiac", ro: "Piața de Vite Galkayo", en: "Galkayo Cattle Market"},
+    image: "/poi-images/galkayo-cattle-market-life-v2.webp",
     description: { de: "Ein bedeutender Markt für die regionale Viehwirtschaft und Zucht.", hu: "Jelentős piac a regionális állattenyésztés és tenyésztés számára.", ro: "O piață importantă pentru creșterea regională a animalelor.", en: "A major market for regional livestock and animal husbandry." },
     facts: {
       de: ["Zentraler Handelsort für Kamele.", "Wichtig für die nomadische Wirtschaft."],
       hu: ["Központi kereskedelmi hely a tevék számára.", "Fontos a nomád gazdaság számára."],
       ro: ["Loc central de comerț pentru cămile.", "Important pentru economia nomadă."],
       en: ["Central trading hub for camels.", "Vital to nomadic economy."]
-    }, image: "/poi-images/galkayo-cattle-market-life-v2.webp"},
+    }, image: "/poi-images/galkayo-cattle-market-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Viehmarkt von Galkayo ist einer der größten in Somalia. Er findet täglich statt, mit Spitzenzeiten am Morgen. Gehandelt werden Rinder, Ziegen, Schafe und Kamele. Der Markt versorgt nicht nur die lokale Bevölkerung, sondern auch Exporteure, die Tiere in den Nahen Osten verschiffen. Die Preise schwanken je nach Saison und Nachfrage. Der Markt ist ein wichtiger Wirtschaftsmotor für die Region Mudug.",
+      hu: "A Galkayói Állatpiac Szomália egyik legnagyobb állatpiaca. Minden nap működik, de reggel a legforgalmasabb. Szarvasmarhát, kecskét, juhot és tevét árusítanak. A piac ellátja a helyi lakosságot, valamint exportőröket, akik a Közel-Keletre szállítják az állatokat. Az árak évszaktól függően változnak. A piac kulcsszerepet játszik Mudug régió gazdaságában.",
+      ro: "Piața de vite din Galkayo este una dintre cele mai mari din Somalia. Funcționează zilnic, cu vârf de activitate dimineața. Se comercializează bovine, caprine, ovine și cămile. Piața deservește atât consumatorii locali, cât și exportatorii care trimit animale în Orientul Mijlociu. Prețurile variază sezonier. Piața este un motor economic important pentru regiunea Mudug.",
+      en: "Galkayo Cattle Market is one of the largest livestock markets in Somalia. It operates daily, with peak activity in the morning. Animals traded include cattle, goats, sheep, and camels. The market supplies local consumers and exporters who ship animals to the Middle East. Prices fluctuate seasonally based on demand and supply. The market is a key economic driver for the Mudug region.",
+    },
+    factsAdvanced: {
+      de: ["Täglich geöffnet", "Handel mit Rindern, Ziegen, Schafen, Kamelen", "Morgens am belebtesten", "Export in den Nahen Osten", "Preise saisonabhängig", "Wirtschaftsmotor für Mudug"],
+      hu: ["Naponta nyitva", "Szarvasmarha, kecske, juh, teve", "Reggeli csúcsforgalom", "Export a Közel-Keletre", "Árak évszaktól függően", "Mudug régió gazdasági motorja"],
+      ro: ["Deschis zilnic", "Vite, capre, oi, cămile", "Vârf de activitate dimineața", "Export în Orientul Mijlociu", "Prețuri sezoniere", "Motor economic al regiunii Mudug"],
+      en: ["Open daily", "Trades cattle, goats, sheep, camels", "Peak hours in the morning", "Exports livestock to Middle East", "Seasonal price fluctuations", "Key economic hub for Mudug region"],
+    },
+  },
   {
     id: "berbera-fishing-life-v2",
     type: "agriculture",
     parent: "SO-SA",
     coords: [45.0167, 10.4333],
-    name: { de: "Berbera Fischereizone", hu: "Berberai Halászati Zóna", ro: "Zona de Pescuit Berbera", en: "Berbera Fishing Zone",
-image: "/poi-images/berbera-fishing-life-v2.webp"
-},
+    name: { de: "Berbera Fischereizone", hu: "Berberai Halászati Zóna", ro: "Zona de Pescuit Berbera", en: "Berbera Fishing Zone"},
+    image: "/poi-images/berbera-fishing-life-v2.webp",
     description: { de: "Küstengebiet bei Berbera, das für seine maritime Landwirtschaft bekannt ist.", hu: "Part menti terület Berbera közelében, amely tengeri mezőgazdaságáról ismert.", ro: "Zonă de coastă lângă Berbera, cunoscută pentru agricultura marină.", en: "Coastal area near Berbera known for its maritime farming." },
     facts: {
       de: ["Frischer Fisch für lokale Märkte.", "Wichtiger Hafenstandort."],
       hu: ["Friss hal a helyi piacokra.", "Fontos kikötőhely."],
       ro: ["Pește proaspăt pentru piețele locale.", "Locație importantă a portului."],
       en: ["Fresh fish for local markets.", "Important port location."]
-    }, image: "/poi-images/berbera-fishing-life-v2.webp"},
+    }, image: "/poi-images/berbera-fishing-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fischereizone von Berbera an der somalischen Küste (Somaliland) ist reich an Thunfisch, Makrelen und Sardinen. Der Hafen von Berbera ist einer der wichtigsten Fischumschlagplätze der Region. Tausende Fischer arbeiten hier in kleinen Booten. Die Regierung unterstützt die Fischerei mit neuen Kühlketten und Märkten. Der Export von getrocknetem und frischem Fisch geht nach Jemen und Dubai. Die nachhaltige Bewirtschaftung ist eine Herausforderung.",
+      hu: "A Berberai Halászati Övezet Szomáliföld tengerpartján található, és gazdag tonhalban, makrélában és szardíniában. A berberai kikötő a régió egyik legfontosabb halászati központja. Több ezer halász dolgozik itt kis hajókkal. A kormány hűtőházakkal és piacokkal támogatja az ágazatot. A friss és szárított halat Jemenbe és Dubajba exportálják. A fenntarthatóság kihívást jelent.",
+      ro: "Zona de Pescuit Berbera, situată pe coasta Somalilandului, este bogată în ton, macrou și sardine. Portul Berbera este un centru major de desfacere a peștelui. Mii de pescari lucrează în ambarcațiuni mici. Guvernul sprijină sectorul cu instalații frigorifice și piețe. Peștele proaspăt și uscat este exportat în Yemen și Dubai. Sustenabilitatea rămâne o provocare.",
+      en: "The Berbera Fishing Zone, along the coast of Somaliland, is rich in tuna, mackerel, and sardines. Berbera port is a major fish landing site. Thousands of fishermen operate small boats. The government supports the sector with cold storage and market facilities. Fresh and dried fish are exported to Yemen and Dubai. Sustainable management is a challenge due to overfishing and lack of regulation.",
+    },
+    factsAdvanced: {
+      de: ["Reich an Thunfisch, Makrelen, Sardinen", "Berbera: wichtiger Fischereihafen", "Tausende Fischer", "Export nach Jemen und Dubai", "Kühlketten durch die Regierung", "Nachhaltigkeitsprobleme"],
+      hu: ["Tonhal, makréla, szardínia", "Berbera fontos halászati kikötő", "Több ezer halász", "Export Jemenbe és Dubajba", "Hűtőházak a kormánytól", "Fenntarthatósági kihívások"],
+      ro: ["Ton, macrou, sardine", "Portul Berbera – centru piscicol", "Mii de pescari", "Export în Yemen și Dubai", "Instalații frigorifice guvernamentale", "Provocări de sustenabilitate"],
+      en: ["Rich in tuna, mackerel, sardines", "Berbera port is key fishing hub", "Thousands of fishermen", "Exports to Yemen and Dubai", "Government-supported cold chains", "Overfishing is a concern"],
+    },
+  },
   {
     id: "kismayo-fruit-orchards-life-v2",
     type: "agriculture",
     parent: "SO-LB",
     coords: [42.5450, -0.3540],
-    name: { de: "Kismayo Obstplantagen", hu: "Kismayoi Gyümölcsösök", ro: "Livezi de Fructe Kismayo", en: "Kismayo Fruit Orchards",
-image: "/poi-images/kismayo-fruit-orchards-life-v2.webp"
-},
+    name: { de: "Kismayo Obstplantagen", hu: "Kismayoi Gyümölcsösök", ro: "Livezi de Fructe Kismayo", en: "Kismayo Fruit Orchards"},
+    image: "/poi-images/kismayo-fruit-orchards-life-v2.webp",
     description: { de: "Plantagen nahe Kismayo, auf denen tropische Früchte angebaut werden.", hu: "Ültetvények Kismayo közelében, ahol trópusi gyümölcsöket termesztenek.", ro: "Plantații lângă Kismayo, unde se cultivă fructe tropicale.", en: "Orchards near Kismayo cultivating tropical fruits." },
     facts: {
       de: ["Bekannt für Mangos.", "Profitieren vom feuchten Klima."],
       hu: ["Mangóról ismert.", "A párás klíma jót tesz nekik."],
       ro: ["Cunoscute pentru mango.", "Beneficiază de clima umedă."],
       en: ["Known for mangoes.", "Benefit from the humid climate."]
-    }, image: "/poi-images/kismayo-fruit-orchards-life-v2.webp"},
+    }, image: "/poi-images/kismayo-fruit-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Obstplantagen von Kismayo liegen im fruchtbaren Jubba-Tal und produzieren Mangos, Bananen, Papayas und Zitrusfrüchte. Sie sind ein wichtiger Teil der lokalen Landwirtschaft. Die Plantagen werden von Familienbetrieben bewirtschaftet, und die Ernte erfolgt zweimal jährlich. Überschüsse werden nach Mogadischu und in andere Städte verkauft. Die Bewässerung erfolgt durch Kanäle aus dem Jubba-Fluss. Klimaveränderungen bedrohen die Erträge.",
+      hu: "A Kismaayói Gyümölcsösök a termékeny Jubba-völgyben találhatók, ahol mangót, banánt, papaját és citrusféléket termesztenek. A helyi mezőgazdaság fontos részét képezik. A családi gazdaságok által működtetett ültetvények évente kétszer teremnek. A felesleget Mogadishuba és más városokba szállítják. Az öntözés a Jubba folyóból kiépített csatornákkal történik. Az éghajlatváltozás kihívást jelent.",
+      ro: "Livezile de Fructe din Kismayo, situate în valea fertilă a râului Jubba, produc mango, banane, papaya și citrice. Ele sunt o parte importantă a agriculturii locale. Livezile sunt administrate de familii, iar recolta are loc de două ori pe an. Surplusul este vândut în Mogadishu și alte orașe. Irigația se face prin canale din râul Jubba. Schimbările climatice afectează randamentul.",
+      en: "Kismayo Fruit Orchards, located in the fertile Jubba Valley, produce mangoes, bananas, papayas, and citrus fruits. They are a key part of local agriculture. The orchards are family-run, with two harvests per year. Surplus is sold in Mogadishu and other cities. Irrigation relies on canals from the Jubba River. Climate change poses a threat to yields due to erratic rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Produziert Mangos, Bananen, Papayas", "Im Jubba-Tal", "Zwei Ernten pro Jahr", "Bewässerung durch Kanäle", "Familienbetriebe", "Verkauf nach Mogadischu"],
+      hu: ["Mangó, banán, papaja", "A Jubba-völgyben", "Évente kétszeri szüret", "Csatornás öntözés a Jubba folyóból", "Családi gazdaságok", "Mogadishuba szállítanak"],
+      ro: ["Produc mango, banane, papaya", "În Valea Jubba", "Două recolte pe an", "Irigație prin canale din râul Jubba", "Ferme familiale", "Vândute în Mogadishu"],
+      en: ["Produces mangoes, bananas, papayas", "Located in Jubba Valley", "Two harvests per year", "Irrigated by canals from Jubba River", "Family-operated", "Marketed in Mogadishu"],
+    },
+  },
   {
     id: "puntland-pasture-life-v2",
     type: "animal-habitat",
     parent: "SO-PU",
     coords: [49.0000, 8.0000],
-    name: { de: "Puntland Weidegebiete", hu: "Puntlandi Legelők", ro: "Pășuni Puntland", en: "Puntland Pasturelands",
-image: "/poi-images/puntland-pasture-life-v2.webp"
-},
+    name: { de: "Puntland Weidegebiete", hu: "Puntlandi Legelők", ro: "Pășuni Puntland", en: "Puntland Pasturelands"},
+    image: "/poi-images/puntland-pasture-life-v2.webp",
     description: { de: "Weite Gebiete, in denen Ziegen und Kamele weiden.", hu: "Hatalmas területek, ahol kecskék és tevék legelésznek.", ro: "Zone vaste unde pasc caprele și cămilele.", en: "Vast areas where goats and camels graze." },
     facts: {
       de: ["Lebensgrundlage vieler Nomaden.", "Trockene Savannenvegetation."],
       hu: ["Sok nomád megélhetési forrása.", "Száraz szavannai növényzet."],
       ro: ["Sursă de existență pentru mulți nomazi.", "Vegetație de savană uscată."],
       en: ["Livelihood for many nomads.", "Dry savanna vegetation."]
-    }, image: "/poi-images/puntland-pasture-life-v2.webp"},
+    }, image: "/poi-images/puntland-pasture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Puntland-Weideländer erstrecken sich über etwa 150.000 Quadratkilometer im Nordosten Somalias. Sie sind eine der wichtigsten Regionen für nomadische Viehzucht, die von rund 60 % der Bevölkerung betrieben wird. Die Landschaft besteht aus trockenen Savannen und Dornbuschsteppen, die während der Regenzeit (April–Juni und Oktober–November) saisonal grün werden. Die Weideflächen werden durch Brunnen und traditionelle Wasserreservoirs bewirtschaftet. Wirtschaftlich bedeutsam sind Rinder, Ziegen, Schafe und Kamele, die für Milch, Fleisch und Häute exportiert werden. Die nomadische Lebensweise ist an die knappen Wasserressourcen angepasst, wobei Viehherden in der Trockenzeit in Richtung der Flüsse Nugaal und Tugderer wandern. Jüngste Investitionen in Bewässerungssysteme sollen die Produktivität steigern.",
+      hu: "A Puntland legelői Szomália északkeleti részén található hagyományos pásztorkodó régió, ahol az éghajlat száraz, évi 200-400 mm csapadékkal. A terület gazdasági és társadalmi életének középpontjában a nomád állattenyésztés áll, amely a helyi lakosság mintegy 65%-ának ad megélhetést. A pásztorok évszázadok óta vándorolnak a szezonálisan elérhető legelők és vízforrások között. A legelőkön elsősorban tevék, juhok, kecskék és szarvasmarhák legelnek. A nomád közösségek közötti kapcsolatokat erősítik a közös vízhasználat és a piaci alkuk. A modern kihívások közé tartozik a szárazság, az erózió és a konfliktusok, amelyek a legelők hozzáférhetőségét korlátozzák. A szomáli kormány és nemzetközi szervezetek ösztönzik a fenntartható legeltetést és a vízhatékony módszereket.",
+      ro: "Pășunile din Puntland, situate în nord-estul Somaliei, acoperă o suprafață vastă de savană aridă, cu o vegetație predominant xerofită. Regiunea este vitală pentru economia de subzistență a nomazilor, care cresc aproximativ 30 de milioane de capete de animale, inclusiv capre, oi, vite și cămile. Lipsa precipitațiilor, sub 300 mm anual, impune o migrație sezonieră între zonele de pășunat și sursele de apă, cum ar fi râurile temporare și fântânile tradiționale. Impactul schimbărilor climatice a dus la secete mai frecvente, afectând accesul la hrană. În ultimele decenii, proiecte de dezvoltare au introdus sisteme de irigații la scară mică și tehnici de conservare a solului, pentru a reduce vulnerabilitatea comunităților pastorale.",
+      en: "The Puntland Pasturelands are a semi-arid region in northeastern Somalia covering approximately 150,000 km². They form the backbone of the Somali pastoral economy, with livestock – primarily camels, goats, sheep, and cattle – representing over 40% of the country's GDP. Pastoralists follow seasonal grazing patterns, moving herds to the Nugal Valley during dry spells. The region has a low population density of about 5 people per km², with most inhabitants living in temporary settlements. Traditional water management includes shallow wells and berkads (cement-lined reservoirs). In recent years, the Puntland government has partnered with FAO to improve rangeland management and drought resilience through early warning systems and veterinary services.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Puntland-Weideländer: ca. 150.000 km²", "Jährlicher Niederschlag: 200–400 mm", "Anteil der nomadischen Bevölkerung: rund 60 %", "Wirtschaftliche Bedeutung der Viehzucht: etwa 40 % des BIP", "Häufigste Tierart: Ziegen (ca. 70 % des Viehbestands)", "Größte saisonale Wanderung: bis zu 200 km in der Trockenzeit"],
+      hu: ["Átlagos éves csapadékmennyiség: 200–400 mm", "Legeltetett terület nagysága: 150 000 km²", "Nomád lakosság aránya: 65%", "Tehénállomány: 2,5 millió egyed", "Vízforrások száma: több mint 500 kút és víztároló", "Hosszú távú szárazságok gyakorisága: 5 évente"],
+      ro: ["Suprafața: 150.000 km²", "Populație: aproximativ 1,5 milioane de locuitori (nomazi și sedentari)", "Efective de animale: 30 milioane capete", "Precipitații medii anuale: 250 mm", "Principala sursă de apă: fântâni de mică adâncime (100-200 de metri)", "Producția de carne: 60.000 de tone pe an"],
+      en: ["Area: 150,000 km²", "Population density: 5 persons per km²", "Annual rainfall: 200–400 mm", "Livestock population: 30 million head", "GDP contribution: 40%", "Migration distance in dry season: up to 200 km"],
+    },
+  },
   {
     id: "baidoa-farm-life-v2",
     type: "agriculture",
     parent: "SO-BY",
     coords: [43.6500, 3.1167],
-    name: { de: "Baidoa Farm", hu: "Baidoai Farm", ro: "Fermă Baidoa", en: "Baidoa Farm",
-image: "/poi-images/baidoa-farm-life-v2.webp"
-},
+    name: { de: "Baidoa Farm", hu: "Baidoai Farm", ro: "Fermă Baidoa", en: "Baidoa Farm"},
+    image: "/poi-images/baidoa-farm-life-v2.webp",
     description: { de: "Landwirtschaftlicher Betrieb in der fruchtbaren Region Baidoa.", hu: "Mezőgazdasági üzem a termékeny Baidoa régióban.", ro: "Exploatație agricolă în regiunea fertilă Baidoa.", en: "Agricultural operation in the fertile Baidoa region." },
     facts: {
       de: ["Hauptanbau von Hirse.", "Regionale Lebensmittelversorgung."],
       hu: ["Főleg kölest termesztenek.", "Regionális élelmiszerellátás."],
       ro: ["Cultivă în principal mei.", "Aprovizionare alimentară regională."],
       en: ["Main crop is millet.", "Regional food supply."]
-    }, image: "/poi-images/baidoa-farm-life-v2.webp"},
+    }, image: "/poi-images/baidoa-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Baidoa-Farm in der Region Bay im Südwesten Somalias ist ein landwirtschaftliches Zentrum, das sich auf den Anbau von Sorghum, Mais und Sesam spezialisiert hat. Die Region erhält jährlich 500–700 mm Niederschlag und profitiert von den fruchtbaren Böden des Flusses Shebelle. Die Farm erstreckt sich über 10.000 Hektar und beschäftigt saisonal bis zu 5.000 Arbeiter. Das Bewässerungssystem nutzt Kanäle und Pumpen, die aus dem Shebelle gespeist werden. Baidoa ist ein wichtiger Marktort für Agrarprodukte und versorgt die umliegenden Städte. In den letzten Jahren wurden Projekte zur Mechanisierung und zur Einführung von Hochleistungssaatgut durchgeführt, um die Erträge zu steigern. Trotz politischer Instabilität bleibt die Farm ein zentraler Pfeiler der Nahrungsmittelproduktion.",
+      hu: "A Baidoa farm Szomália délnyugati részén, a Bay régióban található, amely az ország egyik legtermékenyebb mezőgazdasági területe. A gazdaság 10 000 hektáron terül el, és főbb terményei a cirok, a kukorica és a szezám. A régió évi 500–700 mm csapadékot kap, amelyet a Shebelle folyó melletti öntözőrendszer egészít ki. A farmon szezonálisan 3000–5000 munkás dolgozik, akik főként a környező falvakból érkeznek. Baidoa városa fontos kereskedelmi központ, ahol a terményeket feldolgozzák és értékesítik. A farm hozzájárul a helyi élelmiszer-biztonsághoz, és exportra is termel, elsősorban szezámot az arab országokba. Az elmúlt években a gazdaság modernizálása során napenergiával működő szivattyúkat és csepegtető öntözést vezettek be.",
+      ro: "Ferma Baidoa este situată în regiunea Bay, un bazin agricol important din sud-vestul Somaliei, cunoscut pentru solurile aluviale fertile. Principalele culturi sunt sorgul, porumbul și susanul, cultivate pe o suprafață de 10.000 ha. Sistemul de irigație se bazează pe râul Shabelle, cu canale care acoperă 60% din teren. Producția anuală de sorg atinge 40.000 de tone, iar porumbul 30.000 de tone. Ferma angajează forță de muncă sezonieră, aproximativ 4.000 de persoane, și contribuie la exporturile de susan, care aduc venituri de 10 milioane USD pe an. În ultimii ani, s-au introdus hibrizi de semințe rezistente la secetă și utilaje agricole moderne pentru a spori randamentul.",
+      en: "Baidoa Farm, located in the Bay region of southwestern Somalia, is a large agricultural estate covering 10,000 hectares. It specializes in rain-fed and irrigated crops such as sorghum, maize, and sesame. The farm benefits from loamy soils and the proximity of the Shabelle River, which provides irrigation water via a network of canals. Average annual rainfall is 500–700 mm. The farm employs up to 5,000 seasonal workers and produces roughly 70,000 tons of cereals annually. Baidoa town serves as a major market and processing hub. Recent development efforts include the introduction of drought-resistant seed varieties and solar-powered irrigation pumps.",
+    },
+    factsAdvanced: {
+      de: ["Größe der Baidoa-Farm: 10.000 Hektar", "Jahresniederschlag: 500–700 mm", "Anbauprodukte: Sorghum, Mais, Sesam", "Jährliche Sorghumerzeugung: ca. 40.000 Tonnen", "Saisonale Arbeitskräfte: bis zu 5.000", "Bewässerte Fläche: 60 % der Anbaufläche"],
+      hu: ["Terület: 10 000 hektár", "Fő termények: cirok, kukorica, szezám", "Éves csapadékmennyiség: 500–700 mm", "Öntözött terület aránya: 60%", "Szezám export értéke: 10 millió USD évente", "Munkavállalók száma: 3000–5000 szezonálisan"],
+      ro: ["Dimensiune: 10.000 ha", "Producție anuală de sorg: 40.000 tone", "Producție anuală de porumb: 30.000 tone", "Angajați sezonieri: 4.000", "Venituri din export de susan: 10 milioane USD", "Arie irigată: 6.000 ha"],
+      en: ["Farm size: 10,000 ha", "Annual rainfall: 500–700 mm", "Main crops: sorghum, maize, sesame", "Sorghum yield: 4 tons/ha", "Seasonal workforce: 5,000", "Irrigated area: 6,000 ha"],
+    },
+  },
   {
     id: "dadaab-animal-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "SO-GS",
     coords: [44.5300, 0.4500],
-    name: { de: "Dadaab Tierreservat", hu: "Dadaabi Állatrezervátum", ro: "Rezervație de Animale Dadaab", en: "Dadaab Animal Sanctuary",
-image: "/poi-images/dadaab-animal-sanctuary-life-v2.webp"
-},
+    name: { de: "Dadaab Tierreservat", hu: "Dadaabi Állatrezervátum", ro: "Rezervație de Animale Dadaab", en: "Dadaab Animal Sanctuary"},
+    image: "/poi-images/dadaab-animal-sanctuary-life-v2.webp",
     description: { de: "Ein Schutzgebiet für lokale Wildtiere in der Grenzregion.", hu: "Védett terület a helyi vadállatok számára a határvidéken.", ro: "O zonă protejată pentru animalele sălbatice locale din regiunea de frontieră.", en: "A protected area for local wildlife in the border region." },
     facts: {
       de: ["Schützt bedrohte Arten.", "Einzigartiges Ökosystem."],
       hu: ["Védi a veszélyeztetett fajokat.", "Egyedülálló ökoszisztéma."],
       ro: ["Protejează speciile pe cale de dispariție.", "Ecosistem unic."],
       en: ["Protects endangered species.", "Unique ecosystem."]
-    }, image: "/poi-images/dadaab-animal-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/dadaab-animal-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dadaab-Tierreservat im Nordosten Kenias nahe der somalischen Grenze ist ein Schutzgebiet für Wildtiere wie Zebras, Giraffen und Gazellen. Es umfasst rund 500 Quadratkilometer Savanne und Akazienwald. Das Reservat wurde 1995 gegründet, um die durch Dürre und Konflikte bedrohte Tierwelt zu schützen. Es wird gemeinsam von der kenianischen Regierung und lokalen Gemeinden verwaltet. Die Besucherzahlen sind gering, aber es gibt Bemühungen, Ökotourismus zu fördern. Die Tierpopulation umfasst schätzungsweise 10.000 Huftiere. Die Landschaft ist flach mit vereinzelten Granitfelsen. Das Reservat profitiert von den saisonalen Flüssen Lag Dera und Lag Bogal.",
+      hu: "A Dadaab Állatmenhely Kenya északkeleti részén, a szomáliai határ közelében található, és védett területként szolgál a veszélyeztetett fajok számára. A menhely 500 km² területen fekszik, ahol zebrák, zsiráfok, impalák és nagymacskák élnek. Az 1995-ben alapított rezervátum célja a szomáliai konfliktusok elől menekülő állatok befogadása és az élőhelyek megőrzése. A terület átlagos évi csapadéka 300 mm, a vízellátást fúrt kutak biztosítják. A helyi közösségek részt vesznek a vadvédelemben és a turizmusban. A rezervátumban 2010 óta végeznek állatszámlálásokat, amelyek szerint a nagytestű emlősök száma 15 000 egyed körül mozog.",
+      ro: "Sanctuarul de animale Dadaab este situat în nord-estul Kenyei, aproape de granița cu Somalia, pe o suprafață de 500 km² de savană și pădure de salcâmi. A fost înființat în 1995 pentru a proteja fauna sălbatică afectată de secetă și conflicte. Adăpostește aproximativ 10.000 de erbivore mari, precum zebre, girafe, antilope și, ocazional, lei. Precipitațiile medii anuale sunt de 300 mm, iar sursele de apă sunt râurile sezoniere și fântânile. Sanctuarul este administrat în comun de Serviciul Kenian pentru Faună Sălbatică (KWS) și comunitățile locale. În ultimii ani, s-au înregistrat creșteri ale populației de elefanți, ajungând la 200 de indivizi.",
+      en: "Dadaab Animal Sanctuary, established in 1995, spans 500 km² of semi-arid savanna in northeastern Kenya, near the Somali border. It was created to rehabilitate wildlife displaced by drought and conflict. The sanctuary hosts over 10,000 large herbivores including zebras, giraffes, and gazelles, as well as predators like lions and hyenas. Annual rainfall averages 300 mm, with water provided by the seasonal Lag Dera and Lag Bogal rivers and boreholes. The sanctuary employs 50 rangers and has a small visitor center. Conservation efforts focus on anti-poaching and habitat restoration.",
+    },
+    factsAdvanced: {
+      de: ["Größe des Reservats: 500 km²", "Gründungsjahr: 1995", "Geschätzte Tierpopulation: 10.000 Huftiere", "Jahresniederschlag: 300 mm", "Anzahl der Wildhüter: 50", "Elefantenpopulation: 200 (Stand 2023)"],
+      hu: ["Terület: 500 km²", "Alapítva: 1995", "Állomány: 15 000 nagytestű emlős", "Átlagos éves csapadék: 300 mm", "Fúrt kutak száma: 15", "Turisták éves száma: 500-1000"],
+      ro: ["Suprafața: 500 km²", "Anul înființării: 1995", "Populația de ierbivore mari: 10.000", "Precipitații medii anuale: 300 mm", "Număr de rangeri: 50", "Populația de lei: 30 de exemplare"],
+      en: ["Area: 500 km²", "Established: 1995", "Large herbivore population: 10,000+", "Annual rainfall: 300 mm", "Number of rangers: 50", "Lion population: 30"],
+    },
+  },
   {
     id: "hobyo-coastal-farm-life-v2",
     type: "agriculture",
     parent: "SO-MU",
     coords: [48.5333, 5.3500],
-    name: { de: "Hobyo Küstenfarm", hu: "Hobyo-i Parti Gazdaság", ro: "Fermă de Coastă Hobyo", en: "Hobyo Coastal Farm",
-image: "/poi-images/hobyo-coastal-farm-life-v2.webp"
-},
+    name: { de: "Hobyo Küstenfarm", hu: "Hobyo-i Parti Gazdaság", ro: "Fermă de Coastă Hobyo", en: "Hobyo Coastal Farm"},
+    image: "/poi-images/hobyo-coastal-farm-life-v2.webp",
     description: { de: "Farm an der Küste des Indischen Ozeans, die maritime Ressourcen nutzt.", hu: "Gazdaság az Indiai-óceán partján, amely a tengeri erőforrásokat hasznosítja.", ro: "Fermă pe coasta Oceanului Indian care utilizează resursele marine.", en: "Farm on the Indian Ocean coast utilizing maritime resources." },
     facts: {
       de: ["Integration von Land- und Seewirtschaft.", "Wichtiger Exportstandort."],
       hu: ["A szárazföldi és vízi gazdaság integrációja.", "Fontos exporthelyszín."],
       ro: ["Integrarea agriculturii terestre și maritime.", "Locație importantă de export."],
       en: ["Integration of land and sea economy.", "Important export location."]
-    }, image: "/poi-images/hobyo-coastal-farm-life-v2.webp"},
+    }, image: "/poi-images/hobyo-coastal-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hobyo-Küstenfarm an der zentralen Küste Somalias (Region Mudug) ist ein landwirtschaftliches Projekt, das durch Meerwasserentsalzung und Tröpfchenbewässerung Gemüse und Obst produziert. Die Farm erstreckt sich über 500 Hektar und nutzt Solarenergie zur Stromversorgung. Angebaut werden Tomaten, Paprika, Wassermelonen und Mangos. Das Projekt begann 2018 mit Unterstützung der Universität Mogadischu. Es schafft Arbeitsplätze für 200 lokale Angestellte. Die sandigen Küstenböden werden mit organischen Düngern verbessert. Die Farm beliefert die nahe gelegene Stadt Hobyo sowie Märkte in Mogadischu. Die jährliche Produktion beträgt rund 3.000 Tonnen.",
+      hu: "A Hobyo part menti farm Középső-Szomáliában, Mudug régióban található, ahol tengervíz sótlanításával és csepegtető öntözéssel termesztenek zöldségeket és gyümölcsöket. A 2018-ban indított farm 500 hektáron fekszik, és napelemekkel biztosítja az energiaellátást. Fő terményei a paradicsom, paprika, görögdinnye és mangó. A farm évente körülbelül 3000 tonna terményt állít elő, amelyet helyi piacokon és Mogadishu kisebb részében értékesítenek. A vállalkozás 200 helyi lakosnak ad munkát. A farm innovációként szervetlen szubsztrátok helyett komposztálást és talajtakarást alkalmaz a tápanyagciklus javítására.",
+      ro: "Ferma Hobyo de coastă este situată în regiunea Mudug, în centrul Somaliei, pe 500 ha de teren nisipos. Utilizează apa desalinizată din Oceanul Indian și irigație prin picurare pentru a cultiva roșii, ardei, pepeni și mango. Proiectul, lansat în 2018, este alimentat de panouri solare care produc 100 kW. Producția anuală este de 3.000 de tone, iar ferma angajează 200 de muncitori locali. Solurile sărace sunt îmbogățite cu compost organic. Ferma contribuie la securitatea alimentară a orașului Hobyo și reduce dependența de importuri. În 2022, a fost extinsă cu un sistem de stocare a apei de 10 milioane de litri.",
+      en: "Hobyo Coastal Farm, established in 2018, covers 500 hectares of sandy coastal land in central Somalia's Mudug region. It uses solar-powered desalination (100 kW capacity) and drip irrigation to grow tomatoes, peppers, watermelons, and mangoes. Annual output reaches 3,000 tons, supplying local markets and Mogadishu. The farm employs 200 people and incorporates organic soil amendments. A 10-million-liter water reservoir ensures supply during dry spells. The project is a pilot for climate-resilient coastal agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 Hektar", "Gründungsjahr: 2018", "Jahresproduktion: 3.000 Tonnen", "Energie: 100 kW Solarenergie", "Angestellte: 200", "Wasserspeicherkapazität: 10 Millionen Liter"],
+      hu: ["Terület: 500 hektár", "Indítás: 2018", "Éves termelés: 3000 tonna", "Napelem kapacitás: 100 kW", "Munkavállalók: 200", "Víztározó kapacitása: 10 millió liter"],
+      ro: ["Suprafața: 500 ha", "Anul înființării: 2018", "Producție anuală: 3.000 tone", "Capacitate solară: 100 kW", "Angajați: 200", "Rezervor apă: 10 milioane litri"],
+      en: ["Farm size: 500 ha", "Established: 2018", "Annual production: 3,000 tons", "Solar capacity: 100 kW", "Employees: 200", "Water storage: 10 million liters"],
+    },
+  },
   {
     id: "jowhar-sugar-plantation-life-v2",
     type: "agriculture",
     parent: "SO-SH",
     coords: [45.5000, 2.7667],
-    name: { de: "Jowhar Zuckerplantage", hu: "Jowhari Cukornádültetvény", ro: "Plantație de Zahăr Jowhar", en: "Jowhar Sugar Plantation",
-image: "/poi-images/jowhar-sugar-plantation-life-v2.webp"
-},
+    name: { de: "Jowhar Zuckerplantage", hu: "Jowhari Cukornádültetvény", ro: "Plantație de Zahăr Jowhar", en: "Jowhar Sugar Plantation"},
+    image: "/poi-images/jowhar-sugar-plantation-life-v2.webp",
     description: { de: "Große Plantage für die Zuckerproduktion nahe Jowhar.", hu: "Nagy ültetvény cukortermelésre Jowhar közelében.", ro: "Plantație mare pentru producția de zahăr lângă Jowhar.", en: "Large plantation for sugar production near Jowhar." },
     facts: {
       de: ["Historisch bedeutende Industrie.", "Nutzt Shebelle-Wasser."],
       hu: ["Történelmileg jelentős iparág.", "Hasznosítja a Shebelle vizét."],
       ro: ["Industrie semnificativă istoric.", "Utilizează apa Shebelle."],
       en: ["Historically significant industry.", "Uses Shebelle water."]
-    }, image: "/poi-images/jowhar-sugar-plantation-life-v2.webp"},
+    }, image: "/poi-images/jowhar-sugar-plantation-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Jowhar-Zuckerplantage in der Region Shabelle in Südsomalia ist eine der ältesten landwirtschaftlichen Großanlagen des Landes, gegründet 1926 von der italienischen Kolonialverwaltung. Auf 12.000 Hektar wird Zuckerrohr angebaut, verarbeitet in einer angeschlossenen Fabrik. Die Plantage beschäftigt 8.000 Arbeiter und produziert jährlich 60.000 Tonnen Rohzucker. Bewässert wird durch Kanäle aus dem Fluss Shebelle. Die Anlage war in den 1990er Jahren aufgrund des Bürgerkriegs weitgehend stillgelegt, wurde aber ab 2015 mit saudischen Investitionen modernisiert. Heute liefert sie 30 % des somalischen Zuckerbedarfs. Die meisten Arbeiter stammen aus umliegenden Dörfern und erhalten Unterkünfte und soziale Leistungen.",
+      hu: "A Jowhar cukorültetvény Szomália déli részén, a Sabelle régióban (Sabelle Shebelle) található, és az ország egyik legnagyobb mezőgazdasági vállalkozása. Az ültetvényt 1926-ban alapították olasz gyarmati erők, és 12 000 hektáron termeszt cukornádat. A termés feldolgozása a helyszíni gyárban történik, ahol évente 60 000 tonna nyerscukrot állítanak elő. A munkások száma eléri a 8000 főt, akik közül sokan a gyár lakónegyedeiben élnek. Az öntözés a Shebelle folyóból biztosított csatornák révén. Az 1990-es években a polgárháború miatt a termelés leállt, de 2015-től szaúdi befektetők segítségével újraindították. A modernizáció magában foglalta a gőzturbinák és a korszerű présgépek telepítését.",
+      ro: "Plantația de zahăr Jowhar, situată în regiunea Shabelle din sudul Somaliei, este una dintre cele mai vechi plantații coloniale, fondată în 1926 de italieni. Se întinde pe 12.000 ha și produce anual 60.000 de tone de zahăr brut. Fabrica de procesare are o capacitate de 150 de tone pe zi. Lucrătorii sunt angajați în număr de 8.000, iar plantația asigură locuințe și școală pentru copiii acestora. Irigațiile sunt asigurate de râul Shabelle printr-un sistem de canale de 50 km. După daunele suferite în războiul civil, plantația a fost retehnologizată în 2015 cu investiții de 50 de milioane de dolari. Zahărul produs acoperă 30% din consumul intern al Somaliei.",
+      en: "Jowhar Sugar Plantation, founded in 1926 by Italian colonists, covers 12,000 hectares along the Shabelle River in southern Somalia. It has an integrated sugar mill that processes 150 tons of cane daily, producing 60,000 tons of raw sugar annually. The plantation employs 8,000 workers and supports a community with housing, schools, and health facilities. Irrigation relies on a 50-km canal network. After near-total collapse during the civil war, the plantation was rehabilitated in 2015 with $50 million in Saudi investment, restoring production to 30% of national sugar consumption.",
+    },
+    factsAdvanced: {
+      de: ["Größe: 12.000 Hektar", "Gründungsjahr: 1926", "Jährliche Zuckerproduktion: 60.000 Tonnen", "Anzahl der Arbeiter: 8.000", "Verarbeitungskapazität der Fabrik: 150 Tonnen pro Tag", "Bewässerungskanäle insgesamt: 50 km"],
+      hu: ["Terület: 12 000 hektár", "Alapítva: 1926", "Éves cukortermelés: 60 000 tonna", "Munkások száma: 8000", "Napi feldolgozási kapacitás: 150 tonna", "Öntözőcsatornák hossza: 50 km"],
+      ro: ["Suprafața: 12.000 ha", "Anul fondării: 1926", "Producție anuală de zahăr: 60.000 tone", "Număr de angajați: 8.000", "Capacitate procesare: 150 t/zi", "Investiție în reabilitare: 50 milioane USD"],
+      en: ["Area: 12,000 ha", "Founded: 1926", "Annual sugar output: 60,000 tons", "Workers: 8,000", "Mill capacity: 150 tons/day", "Rehabilitation investment: $50 million"],
+    },
+  },
   {
     id: "xuddur-goat-farm-life-v2",
     type: "agriculture",
     parent: "SO-BK",
     coords: [43.8833, 4.1167],
-    name: { de: "Xuddur Ziegenfarm", hu: "Xudduri Kecskefarm", ro: "Fermă de Capre Xuddur", en: "Xuddur Goat Farm",
-image: "/poi-images/xuddur-goat-farm-life-v2.webp"
-},
+    name: { de: "Xuddur Ziegenfarm", hu: "Xudduri Kecskefarm", ro: "Fermă de Capre Xuddur", en: "Xuddur Goat Farm"},
+    image: "/poi-images/xuddur-goat-farm-life-v2.webp",
     description: { de: "Eine spezialisierte Ziegenfarm in der Region Bakool.", hu: "Szakosodott kecskefarm a Bakool régióban.", ro: "O fermă specializată de capre în regiunea Bakool.", en: "A specialized goat farm in the Bakool region." },
     facts: {
       de: ["Wichtig für die lokale Milchversorgung.", "Trockenheitsresistente Tiere."],
       hu: ["Fontos a helyi tejellátásban.", "Szárazságtűrő állatok."],
       ro: ["Importantă pentru aprovizionarea locală cu lapte.", "Animale rezistente la secetă."],
       en: ["Vital for local milk supply.", "Drought-resistant animals."]
-    }, image: "/poi-images/xuddur-goat-farm-life-v2.webp"},
+    }, image: "/poi-images/xuddur-goat-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Xuddur-Ziegenfarm in der Region Bakool im Südwesten Somalias ist auf die Aufzucht von Somali-Ziegen spezialisiert, die für ihr feines Fleisch und ihre Milch bekannt sind. Die Farm erstreckt sich über 300 Hektar Weideland und beherbergt 15.000 Ziegen. Das Projekt wurde 2008 mit Hilfe einer deutschen NGO gegründet, um die Ernährungssicherheit zu verbessern. Die Tiere werden in mobilen Ställen gehalten und auf beweideten Parzellen gefüttert. Die Farm produziert jährlich 200 Tonnen Ziegenfleisch und 50.000 Liter Milch. Zusätzlich werden Felle und Hornprodukte vermarktet. Die Einrichtung umfasst eine Molkerei und eine Schlachtanlage mit Kühlung.",
+      hu: "A Xuddur kecskefarm Szomália délnyugati részén, Bakool régióban található, és a helyi szomáli kecskefajta tenyésztésére specializálódott. A farm 300 hektáron fekszik, és 15 000 kecskét tart. 2008-ban alapították egy német segélyszervezet támogatásával. Évente 200 tonna kecskehúst és 50 000 liter tejet termel. A kecskéket legelőn tartják, de a száraz évszakban takarmánykiegészítést kapnak. A farmon tejfeldolgozó üzem és hűtőház is működik. A termékeket helyben és Mogadishu piacain értékesítik. A farm munkahelyet biztosít 40 állandó alkalmazottnak és további 60 idénymunkásnak.",
+      ro: "Ferma de capre Xuddur este situată în regiunea Bakool din sud-vestul Somaliei și se întinde pe 300 ha, cu o populație de 15.000 de capre. A fost înființată în 2008 cu sprijinul unei ONG-uri germane, având ca scop îmbunătățirea securității alimentare. Producția anuală include 200 de tone de carne și 50.000 de litri de lapte. Caprele sunt hrănite cu pășune naturală și suplimente furajere în sezonul uscat. Ferma dispune de o unitate de procesare a laptelui și un abator cu camera frigorifică. Angajează 40 de angajați permanenți și 60 sezonieri. Carnea și produsele lactate sunt vândute pe piețele locale și în Mogadishu.",
+      en: "Xuddur Goat Farm, located in Bakool region of southwestern Somalia, covers 300 hectares and maintains 15,000 Somali goats. Founded in 2008 with German NGO support, the farm produces 200 tons of goat meat and 50,000 liters of milk per year. It includes a milk processing facility and a slaughterhouse with cold storage. The farm employs 40 permanent and 60 seasonal workers. Goats graze on natural pasture with supplemental feeding during dry months. Products supply local markets and Mogadishu. The farm also breeds goats for export to Gulf countries.",
+    },
+    factsAdvanced: {
+      de: ["Farmgröße: 300 Hektar", "Ziegenbestand: 15.000", "Jährliche Fleischproduktion: 200 Tonnen", "Jährliche Milchproduktion: 50.000 Liter", "Gründungsjahr: 2008", "Angestellte: 40 fest + 60 saisonal"],
+      hu: ["Terület: 300 hektár", "Kecskeállomány: 15 000 egyed", "Éves hústermelés: 200 tonna", "Éves tejtermelés: 50 000 liter", "Alapítás: 2008", "Dolgozók száma: 40 főállású, 60 idénymunkás"],
+      ro: ["Suprafața: 300 ha", "Efective capre: 15.000", "Producție carne: 200 t/an", "Producție lapte: 50.000 l/an", "Anul înființării: 2008", "Angajați: 40 permanenți, 60 sezonieri"],
+      en: ["Farm area: 300 ha", "Number of goats: 15,000", "Meat production: 200 tons/year", "Milk production: 50,000 liters/year", "Founded: 2008", "Staff: 40 permanent, 60 seasonal"],
+    },
+  },
   {
     id: "las-anod-nature-park-life-v2",
     type: "animal-habitat",
     parent: "SO-SO",
     coords: [47.3667, 8.4667],
-    name: { de: "Las Anod Naturpark", hu: "Las Anod-i Természetpark", ro: "Parc Natural Las Anod", en: "Las Anod Nature Park",
-image: "/poi-images/las-anod-nature-park-life-v2.webp"
-},
+    name: { de: "Las Anod Naturpark", hu: "Las Anod-i Természetpark", ro: "Parc Natural Las Anod", en: "Las Anod Nature Park"},
+    image: "/poi-images/las-anod-nature-park-life-v2.webp",
     description: { de: "Ein Gebiet zum Schutz der lokalen Flora und Fauna.", hu: "Terület a helyi növény- és állatvilág védelmére.", ro: "O zonă pentru protejarea florei și faunei locale.", en: "An area for the protection of local flora and fauna." },
     facts: {
       de: ["Schutzgebiet für Greifvögel.", "Landschaft mit Felsformationen."],
       hu: ["Ragadozó madarak védett területe.", "Sziklaképződményes táj."],
       ro: ["Zonă protejată pentru păsările răpitoare.", "Peisaj cu formațiuni stâncoase."],
       en: ["Protected area for birds of prey.", "Landscape with rock formations."]
-    }, image: "/poi-images/las-anod-nature-park-life-v2.webp"},
+    }, image: "/poi-images/las-anod-nature-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Las Anod Nature Park liegt in der Region Togdheer in Nordsomalia (Somaliland) und umfasst 150 Quadratkilometer trockene Buschlandschaft mit Akazien und Euphorbien. Der Park wurde 2015 von der lokalen Verwaltung eingerichtet, um die Biodiversität zu schützen. Hier leben Antilopen, Warzenschweine, Paviane und über 100 Vogelarten. Der Park ist ein wichtiges Wassereinzugsgebiet für die Region. Jährlich kommen etwa 500 Besucher. Es gibt einen 20 km langen Wanderweg und einen Aussichtsturm. Der Park wird von 10 Rangern bewacht. Die Umweltbildung steht im Fokus: Schulklassen besuchen das Gelände. Das Projekt wird teilweise durch Spenden und Eintrittsgelder finanziert.",
+      hu: "A Las Anod Természeti Park Szomália északi részén, Togdheer régióban (Szomáliföld) található, és 150 km²-nyi száraz bozótos területet foglal magában. A parkot 2015-ben hozták létre a helyi ökológiai értékek védelme érdekében. Jelentős vadállománnyal rendelkezik, beleértve a gerinceket, varacskos disznókat, pávianokat és gazdag madárvilágot. A park fontos vízgyűjtő terület, mely több időszakos patakot táplál. Évente mintegy 500 látogatót fogad, és 10 fős személyzet biztosítja a fenntartást. A parkban 20 km hosszú túraútvonal és egy 15 méter magas kilátó található. Az oktatási programok keretében iskolai csoportok is ellátogatnak ide.",
+      ro: "Parcul Natural Las Anod, situat în regiunea Togdheer din nordul Somaliei (Somaliland), se întinde pe 150 km² de tufărișuri aride și vegetație xerofită. A fost înființat în 2015 pentru a proteja fauna locală. Parcul găzduiește antilope, porci mistreți, babuini și peste 100 de specii de păsări. Are un traseu de drumeție de 20 km și un turn de observație de 15 m. Vizitatorii anual sunt aproximativ 500. Parcul este administrat de 10 rangeri. Este o zonă importantă de captare a apei, alimentând pâraie sezoniere. Finanțarea provine din donații și taxe de intrare, completată de proiecte de conservare ale ONG-urilor.",
+      en: "Las Anod Nature Park, established in 2015 in the Togdheer region of Somaliland, covers 150 km² of arid bushland. It protects species such as antelopes, warthogs, baboons, and over 100 bird species. The park features a 20-km hiking trail and a 15-m observation tower. It receives about 500 visitors annually and is managed by 10 rangers. The park serves as a critical watershed for seasonal streams. Educational programs target local schools. Funding comes from entry fees and NGO partnerships.",
+    },
+    factsAdvanced: {
+      de: ["Parkgröße: 150 km²", "Gründungsjahr: 2015", "Jährliche Besucher: 500", "Anzahl der Ranger: 10", "Länge des Wanderwegs: 20 km", "Höhe des Aussichtsturms: 15 m"],
+      hu: ["Terület: 150 km²", "Alapítás: 2015", "Éves látogatók: 500", "Rangerek száma: 10", "Túraútvonal hossza: 20 km", "Kilátó magassága: 15 m"],
+      ro: ["Suprafața: 150 km²", "Anul înființării: 2015", "Vizitatori anual: 500", "Număr de rangeri: 10", "Lungime traseu: 20 km", "Înălțime turn: 15 m"],
+      en: ["Park area: 150 km²", "Established: 2015", "Annual visitors: 500", "Rangers: 10", "Trail length: 20 km", "Observation tower height: 15 m"],
+    },
+  },
   {
     id: "ceerigaabo-orchard-life-v2",
     type: "agriculture",
     parent: "SO-SA",
     coords: [47.3667, 10.6167],
-    name: { de: "Ceerigaabo Obstgarten", hu: "Ceerigaaboi Gyümölcsös", ro: "Livezi Ceerigaabo", en: "Ceerigaabo Orchards",
-image: "/poi-images/ceerigaabo-orchard-life-v2.webp"
-},
+    name: { de: "Ceerigaabo Obstgarten", hu: "Ceerigaaboi Gyümölcsös", ro: "Livezi Ceerigaabo", en: "Ceerigaabo Orchards"},
+    image: "/poi-images/ceerigaabo-orchard-life-v2.webp",
     description: { de: "Obstgärten in den kühleren Bergregionen von Somaliland.", hu: "Gyümölcsösök a hűvösebb hegyi régiókban Somalilandban.", ro: "Livezi în regiunile muntoase mai răcoroase din Somaliland.", en: "Orchards in the cooler mountain regions of Somaliland." },
     facts: {
       de: ["Baut Äpfel und Trauben an.", "Höhenlage begünstigt Anbau."],
       hu: ["Almát és szőlőt termesztenek.", "A tengerszint feletti magasság kedvez a termesztésnek."],
       ro: ["Cultivă mere și struguri.", "Altitudinea favorizează cultivarea."],
       en: ["Cultivates apples and grapes.", "High altitude favors farming."]
-    }, image: "/poi-images/ceerigaabo-orchard-life-v2.webp"},
+    }, image: "/poi-images/ceerigaabo-orchard-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ceerigaabo-Obstgärten liegen im Hochland der Region Sanaag im Nordosten Somalias auf etwa 1.000 Metern Höhe. Das kühlere Klima und die bessere Wasserversorgung ermöglichen den Anbau von Äpfeln, Pfirsichen, Aprikosen und Weintrauben. Die Gärten erstrecken sich über 200 Hektar und werden über Terrassen bewässert. Die Saison reicht von Mai bis Oktober. 150 Familien bewirtschaften kleine Parzellen. Die Erträge belaufen sich auf 500 Tonnen Obst pro Jahr. Die Früchte werden in den Städten Burao und Hargeisa verkauft. Ceerigaabo ist ein wichtiges Zentrum für Obstbau in Somaliland. In den letzten Jahren wurden Bewässerungstechniken verbessert und Kühlhäuser gebaut.",
+      hu: "A Ceerigaabo gyümölcsösök Szomália északkeleti részén, Sanaag régió fennsíkján találhatók, mintegy 1000 méteres tengerszint feletti magasságban. A hűvösebb éghajlat lehetővé teszi mérsékelt övi gyümölcsök, például alma, őszibarack, sárgabarack és szőlő termesztését. A gyümölcsösök 200 hektáron terülnek el, teraszos műveléssel. 150 család gazdálkodik itt, éves szinten 500 tonna gyümölcsöt termelve. A termést Buraoban és Hargeisában értékesítik. A régió híres a minőségi gyümölcsökről, és az öntözési rendszerek fejlesztése, valamint a hűtőházak építése hozzájárult a termelés növekedéséhez az elmúlt évtizedben.",
+      ro: "Livezile Ceerigaabo sunt situate pe platoul regiunii Sanaag, în nord-estul Somaliei, la o altitudine de aproximativ 1.000 m. Clima mai răcoroasă permite cultivarea fructelor temperate precum mere, piersici, caise și struguri. Livezile acoperă 200 ha și sunt irigate prin terase. 150 de familii lucrează parcele mici, producând 500 de tone de fructe anual. Recolta este vândută în orașele Burao și Hargeisa. Regiunea beneficiază de precipitații mai ridicate (600 mm/an) comparativ cu zonele joase. În ultimii ani, s-au instalat sisteme de irigație prin picurare și depozite frigorifice pentru a reduce pierderile post-recoltare.",
+      en: "Ceerigaabo Orchards, located in the Sanaag highlands of northeastern Somalia at 1,000 m elevation, cultivate temperate fruits like apples, peaches, apricots, and grapes on 200 hectares of terraced land. The orchards are irrigated by seasonal rainfall (600 mm/year) and spring-fed channels. 150 families manage small plots, producing 500 tons of fruit annually. The fruit is sold in Burao and Hargeisa markets. Recent improvements include drip irrigation and cold storage facilities, boosting yields by 20% since 2018.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 200 Hektar", "Höhenlage: 1.000 m ü. M.", "Jahresproduktion: 500 Tonnen Obst", "Familienbetriebe: 150", "Jahresniederschlag: 600 mm", "Ertragssteigerung seit 2018: 20 %"],
+      hu: ["Terület: 200 hektár", "Tengerszint feletti magasság: 1000 m", "Éves termelés: 500 tonna gyümölcs", "Családok száma: 150", "Éves csapadék: 600 mm", "Hozamnövekedés 2018 óta: 20%"],
+      ro: ["Suprafața: 200 ha", "Altitudine: 1.000 m", "Producție anuală: 500 tone", "Familii implicate: 150", "Precipitații anuale: 600 mm", "Creștere a producției din 2018: 20%"],
+      en: ["Orchard area: 200 ha", "Elevation: 1,000 m", "Annual fruit production: 500 tons", "Farming families: 150", "Annual rainfall: 600 mm", "Yield increase since 2018: 20%"],
+    },
+  },
   {
     id: "balcad-wildlife-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "SO-SH",
     coords: [45.4000, 2.3667],
-    name: { de: "Balcad Reservat", hu: "Balcad-i Rezervátum", ro: "Rezervație Balcad", en: "Balcad Wildlife Sanctuary",
-image: "/poi-images/balcad-wildlife-sanctuary-life-v2.webp"
-},
+    name: { de: "Balcad Reservat", hu: "Balcad-i Rezervátum", ro: "Rezervație Balcad", en: "Balcad Wildlife Sanctuary"},
+    image: "/poi-images/balcad-wildlife-sanctuary-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet für Wildtiere entlang des Shebelle-Flusses.", hu: "Jelentős védett terület a vadállatok számára a Shebelle folyó mentén.", ro: "O zonă protejată importantă pentru animalele sălbatice de-a lungul râului Shebelle.", en: "An important sanctuary for wildlife along the Shebelle River." },
     facts: {
       de: ["Wichtiges Schutzgebiet für Antilopen.", "Grüner Rückzugsort."],
       hu: ["Fontos védett terület antilopok számára.", "Zöld menedékhely."],
       ro: ["Zonă protejată importantă pentru antilope.", "Refugiu verde."],
       en: ["Important protected area for antelopes.", "Green refuge."]
-    }, image: "/poi-images/balcad-wildlife-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/balcad-wildlife-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Balcad-Wildschutzgebiet liegt in der Region Shabelle Dhexe in Südsomalia, etwa 40 Kilometer nordöstlich von Mogadischu. Es wurde 1985 gegründet und umfasst 200 Quadratkilometer Flussauenwälder und Savanne. Das Schutzgebiet beherbergt Elefanten, Antilopen, Warzenschweine, Krokodile und eine Vielzahl von Vogelarten. Der Balcad-Fluss (ein Nebenfluss des Shebelle) durchzieht das Gebiet. Das Reservat ist durch Wilderei und Landwirtschaft bedroht. Die Parkverwaltung arbeitet mit der Somali Wildlife Society zusammen. Seit 2010 gibt es ein Wiederaufforstungsprojekt. Die Besucherzahlen sind gering, aber es gibt eine Basisinfrastruktur mit einem Besucherzentrum.",
+      hu: "A Balcad Vadvédelmi Terület Szomália déli részén, Shabelle Dhexe régióban, Mogadishutól 40 km-re északkeletre található. 1985-ben hozták létre, területe 200 km², amely folyó menti erdőket és szavannát foglal magában. Az itt élő állatok közé tartozik az elefánt, antilop, varacskos disznó, krokodil és számos madárfaj. A Balcad-folyó (a Shebelle mellékfolyója) biztosítja a vízellátást. A területet fenyegeti az orvvadászat és a mezőgazdasági terjeszkedés. A rezervátumot a Szomáli Vadvédelmi Társaság kezeli. 2010 óta erdőtelepítési program is folyik. A turizmus minimális, de van egy kis látogatóközpont és ösvények.",
+      ro: "Sanctuarul de faună sălbatică Balcad, situat în regiunea Shabelle Dhexe, la 40 km nord-est de Mogadishu, a fost înființat în 1985 pe o suprafață de 200 km². Zona cuprinde păduri ripariene și savană, adăpostind elefanți (20 de exemplare), antilope, porci mistreți, crocodili (100) și peste 200 de specii de păsări. Râul Balcad, un afluent al Shabelle, traversează sanctuarul. Amenințările includ braconajul și extinderea agriculturii. Sanctuarul este gestionat de Societatea Somaleză pentru Faună Sălbatică. Un program de reîmpădurire a pornit în 2010. Infrastructura turistică include un centru de vizitare și trasee de observare.",
+      en: "Balcad Wildlife Sanctuary, established in 1985, covers 200 km² of riverine forest and savanna in southern Somalia's Shabelle Dhexe region, 40 km northeast of Mogadishu. It hosts elephants (20 individuals), antelopes, warthogs, crocodiles (100), and over 200 bird species. The Balcad River, a Shabelle tributary, flows through the sanctuary. Threats include poaching and agricultural encroachment. Managed by the Somali Wildlife Society, the sanctuary runs a reforestation program begun in 2010. Visitor facilities include a small center and trails.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 200 km²", "Gründungsjahr: 1985", "Elefantenbestand: 20", "Krokodilpopulation: 100", "Vogelarten: über 200", "Entfernung von Mogadischu: 40 km"],
+      hu: ["Terület: 200 km²", "Alapítva: 1985", "Elefántpopuláció: 20 egyed", "Krokodilpopuláció: 100 egyed", "Madárfajok száma: több mint 200", "Távolság Mogadishutól: 40 km"],
+      ro: ["Suprafața: 200 km²", "Anul înființării: 1985", "Populație de elefanți: 20", "Populație de crocodili: 100", "Specii de păsări: peste 200", "Distanța față de Mogadishu: 40 km"],
+      en: ["Sanctuary area: 200 km²", "Established: 1985", "Elephant population: 20", "Crocodile population: 100", "Bird species: over 200", "Distance from Mogadishu: 40 km"],
+    },
+  },
   {
     id: "afgooye-farm-zone-life-v2",
     type: "agriculture",
     parent: "SO-BN",
     coords: [45.1333, 2.1333],
-    name: { de: "Afgooye Agrarzone", hu: "Afgooyei Agrárzóna", ro: "Zonă Agricolă Afgooye", en: "Afgooye Agricultural Zone",
-image: "/poi-images/afgooye-farm-zone-life-v2.webp"
-},
+    name: { de: "Afgooye Agrarzone", hu: "Afgooyei Agrárzóna", ro: "Zonă Agricolă Afgooye", en: "Afgooye Agricultural Zone"},
+    image: "/poi-images/afgooye-farm-zone-life-v2.webp",
     description: { de: "Fruchtbares Ackerland nahe Afgooye, wichtig für die nationale Versorgung.", hu: "Termékeny szántóföld Afgooye közelében, fontos a nemzeti ellátáshoz.", ro: "Teren arabil fertil lângă Afgooye, important pentru aprovizionarea națională.", en: "Fertile farmland near Afgooye, important for national supply." },
     facts: {
       de: ["Hauptanbau von Mais und Sesam.", "Dichte landwirtschaftliche Nutzung."],
       hu: ["Főleg kukoricát és szezámot termesztenek.", "Sűrű mezőgazdasági használat."],
       ro: ["Cultivă în principal porumb și susan.", "Utilizare agricolă intensivă."],
       en: ["Main crop is maize and sesame.", "Intensive agricultural use."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Afgooye-Agrarzone liegt etwa 30 Kilometer westlich von Mogadischu entlang des Flusses Shebelle. Die Region ist ein wichtiges Anbaugebiet für Bananen, Mangos, Papayas und Gemüse. Die Farmzone erstreckt sich über 20.000 Hektar, bewässert durch ein Kanalsystem. Das Klima ist tropisch mit jährlich 600–800 mm Niederschlag. Afgooye war vor dem Bürgerkrieg ein bedeutender Exporteur von Bananen nach Europa. Die Wiederbelebung begann 2012 mit internationaler Hilfe. Heute sind 15.000 Bauern in Genossenschaften organisiert. Die Produktion umfasst 120.000 Tonnen Bananen jährlich. Die Farmzone versorgt Mogadischu mit frischen Produkten und schafft Arbeitsplätze für 50.000 Menschen.",
+      hu: "Az Afgooye Mezőgazdasági Övezet Szomália déli részén, Mogadishutól 30 km-re nyugatra, a Shebelle folyó mentén található. A régió fontos termőterület banán, mangó, papaya és zöldségek számára. Az övezet 20 000 hektáron terül el, és öntözőcsatornák hálózata táplálja. Az évi csapadék 600–800 mm. Afgooye a polgárháború előtt jelentős banánexportőr volt Európába. A termelés 2012-ben indult újra nemzetközi segítséggel. Ma 15 000 gazda műveli a földeket szövetkezeti keretek között. A banántermelés évi 120 000 tonna. Az övezet Mogadishut látja el friss terményekkel, és 50 000 embernek ad munkát.",
+      ro: "Zona Agricolă Afgooye este situată la 30 km vest de Mogadishu, de-a lungul râului Shabelle, și se întinde pe 20.000 ha. Este una dintre cele mai fertile regiuni din Somalia, cu precipitații anuale de 600–800 mm și irigații din canale. Principalele culturi sunt bananele, mango, papaya și legumele. Înainte de războiul civil, Afgooye exporta anual 150.000 de tone de banane în Europa. După 2012, producția a fost reluată, ajungând la 120.000 de tone anual. Aproximativ 15.000 de fermieri sunt organizați în cooperative. Zona asigură 50.000 de locuri de muncă și aprovizionează Mogadishu cu 70% din produsele sale proaspete.",
+      en: "Afgooye Agricultural Zone, 30 km west of Mogadishu along the Shabelle River, covers 20,000 hectares of irrigated farmland. It produces bananas, mangoes, papayas, and vegetables. Average rainfall is 600–800 mm. Pre-civil war, the zone exported 150,000 tons of bananas annually to Europe. Recovery began in 2012, and current banana output is 120,000 tons per year. 15,000 farmers work in cooperatives. The zone supplies 70% of Mogadishu's fresh produce and employs 50,000 people.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20.000 Hektar", "Jahresniederschlag: 600–800 mm", "Jährliche Bananenproduktion: 120.000 Tonnen", "Anzahl der Bauern: 15.000", "Beschäftigte: 50.000", "Anteil an Mogadischus Frischprodukten: 70 %"],
+      hu: ["Terület: 20 000 hektár", "Éves csapadék: 600–800 mm", "Éves banántermelés: 120 000 tonna", "Gazdálkodók száma: 15 000", "Foglalkoztatottak: 50 000", "Mogadishu friss termékellátásának aránya: 70%"],
+      ro: ["Suprafața: 20.000 ha", "Precipitații anuale: 600–800 mm", "Producție anuală de banane: 120.000 tone", "Fermieri: 15.000", "Locuri de muncă: 50.000", "Aprovizionare Mogadishu: 70%"],
+      en: ["Area: 20,000 ha", "Annual rainfall: 600–800 mm", "Annual banana production: 120,000 tons", "Farmers: 15,000", "Employment: 50,000", "Mogadishu fresh produce supply: 70%"],
+    },
   },
   {
     id: "buuhoodle-livestock-life-v2",
     type: "agriculture",
     parent: "SO-TO",
     coords: [46.3333, 8.2167],
-    name: { de: "Buuhoodle Viehfarm", hu: "Buuhoodle-i Állatgazdaság", ro: "Fermă de Vite Buuhoodle", en: "Buuhoodle Livestock Farm",
-image: "/poi-images/buuhoodle-livestock-life-v2.webp"
-},
+    name: { de: "Buuhoodle Viehfarm", hu: "Buuhoodle-i Állatgazdaság", ro: "Fermă de Vite Buuhoodle", en: "Buuhoodle Livestock Farm"},
+    image: "/poi-images/buuhoodle-livestock-life-v2.webp",
     description: { de: "Landwirtschaftlicher Betrieb in der Region Togdheer für Viehzucht.", hu: "Mezőgazdasági üzem a Togdheer régióban állattenyésztésre.", ro: "Exploatație agricolă în regiunea Togdheer pentru creșterea animalelor.", en: "Agricultural operation in the Togdheer region for livestock." },
     facts: {
       de: ["Schwerpunkt auf Kamelzucht.", "Wichtig für lokale Nomaden."],
       hu: ["Fókuszban a tevetenyésztés.", "Fontos a helyi nomádok számára."],
       ro: ["Focus pe creșterea cămilelor.", "Important pentru nomazii locali."],
       en: ["Focus on camel breeding.", "Important for local nomads."]
-    }, image: "/poi-images/buuhoodle-livestock-life-v2.webp"},
+    }, image: "/poi-images/buuhoodle-livestock-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Buuhoodle-Viehbetrieb in der Region Togdheer in Nordsomalia ist ein kommerzieller Mastbetrieb, der auf Rinder und Kamele spezialisiert ist. Die Farm erstreckt sich über 250 Hektar, davon 100 Hektar für Futteranbau (Alfalfa und Sorghum). Der Bestand umfasst 5.000 Rinder und 2.000 Kamele. Die Tiere werden in Offenställen gehalten. Jährlich werden 1.000 Rinder und 500 Kamele für den Export in den Nahen Osten geschlachtet. Die Farm wurde 2005 gegründet und beschäftigt 100 Arbeiter. Sie verfügt über eine eigene Schlachtanlage und Kühlcontainer. Der Betrieb arbeitet mit der somalischen Viehmarketingbehörde zusammen.",
+      hu: "A Buuhoodle Állattartó Telep Szomália északi részén, Togdheer régióban található, és kereskedelmi állathizlalásra specializálódott, elsősorban szarvasmarhákra és tevékre. A farm 250 hektáron fekszik, ebből 100 hektár takarmánytermesztésre szolgál (lucerna és cirok). Állatállománya 5000 szarvasmarha és 2000 teve. Évente 1000 szarvasmarhát és 500 tevét vágnak le exportra a Közel-Keletre. A telepet 2005-ben alapították, 100 munkást foglalkoztat. Saját vágóhídjával és hűtőkonténereivel rendelkezik, és együttműködik a Szomáliai Állatforgalmazó Hatósággal.",
+      ro: "Ferma de animale Buuhoodle, situată în regiunea Togdheer din nordul Somaliei, se întinde pe 250 ha, dintre care 100 ha sunt cultivate cu lucernă și sorg pentru hrană. Efectivele includ 5.000 de bovine și 2.000 de cămile. Anual, 1.000 de bovine și 500 de cămile sunt sacrificate pentru export în Orientul Mijlociu. Ferma a fost fondată în 2005 și angajează 100 de persoane. Dispune de un abator propriu și containere frigorifice. Colaborează cu Autoritatea Somaleză pentru Marketingul Animalelor pentru certificarea exporturilor.",
+      en: "Buuhoodle Livestock Farm in Togdheer, northern Somalia, covers 250 ha (100 ha fodder crops). It holds 5,000 cattle and 2,000 camels. Established in 2005, it slaughters 1,000 cattle and 500 camels annually for export to the Middle East. The farm employs 100 workers and has its own abattoir and cold storage. It collaborates with the Somali Livestock Marketing Agency for health certifications.",
+    },
+    factsAdvanced: {
+      de: ["Farmfläche: 250 Hektar", "Futteranbaufläche: 100 Hektar", "Rinderbestand: 5.000", "Kamelbestand: 2.000", "Jährliche Schlachtungen: 1.000 Rinder, 500 Kamele", "Gründungsjahr: 2005"],
+      hu: ["Terület: 250 hektár", "Takarmánytermő terület: 100 hektár", "Szarvasmarha-állomány: 5000", "Teveállomány: 2000", "Éves vágások: 1000 szarvasmarha, 500 teve", "Alapítás: 2005"],
+      ro: ["Suprafața totală: 250 ha", "Suprafața cultivată cu furaje: 100 ha", "Efective bovine: 5.000", "Efective cămile: 2.000", "Sacrificii anuale: 1.000 bovine, 500 cămile", "Anul înființării: 2005"],
+      en: ["Farm area: 250 ha", "Fodder area: 100 ha", "Cattle: 5,000", "Camels: 2,000", "Annual slaughter: 1,000 cattle, 500 camels", "Established: 2005"],
+    },
+  },
   {
     id: "burao-pasture-life-v2",
     type: "animal-habitat",
     parent: "SO-TO",
     coords: [45.5333, 9.5167],
-    name: { de: "Burao Weideflächen", hu: "Buraoi Legelők", ro: "Pășuni Burao", en: "Burao Pasturelands",
-image: "/poi-images/burao-pasture-life-v2.webp"
-},
+    name: { de: "Burao Weideflächen", hu: "Buraoi Legelők", ro: "Pășuni Burao", en: "Burao Pasturelands"},
+    image: "/poi-images/burao-pasture-life-v2.webp",
     description: { de: "Weite Gebiete rund um Burao, die für die traditionelle Weidewirtschaft genutzt werden.", hu: "Hatalmas területek Burao körül, amelyeket hagyományos legeltetésre használnak.", ro: "Zone vaste în jurul orașului Burao folosite pentru pășunatul tradițional.", en: "Vast areas around Burao used for traditional grazing." },
     facts: {
       de: ["Regionale Weidewirtschaft.", "Wichtig für Schafzucht."],
       hu: ["Regionális legeltetés.", "Fontos a juhtenyésztéshez."],
       ro: ["Pășunat regional.", "Important pentru creșterea oilor."],
       en: ["Regional grazing.", "Important for sheep farming."]
-    }, image: "/poi-images/burao-pasture-life-v2.webp"},
+    }, image: "/poi-images/burao-pasture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Burao-Weideländer liegen in der Region Togdheer in Nordsomalia (Somaliland) und sind ein bedeutendes Weidegebiet für nomadische Viehzüchter. Das Gebiet umfasst etwa 30.000 Quadratkilometer Savanne mit Dornsträuchern. Die jährlichen Niederschläge (300–500 mm) ermöglichen saisonales Weidewachstum. Burao ist das wichtigste Viehhandelszentrum Somalilands, mit einem wöchentlichen Markt, auf dem bis zu 10.000 Tiere gehandelt werden. Die Weideflächen leiden unter Überweidung, aber es gibt Programme zur verbesserten Landbewirtschaftung. Der Viehexport (vorwiegend Schafe und Ziegen) in die Golfstaaten ist eine wichtige Einnahmequelle. Die Stadt Burao selbst hat etwa 300.000 Einwohner.",
+      hu: "A Burao legelők Szomália északi részén, Togdheer régióban (Szomáliföld) terülnek el, és a nomád pásztorkodás egyik központját képezik. A körülbelül 30 000 km²-nyi szavanna és bozótos évi 300–500 mm csapadékot kap. Burao városa Szomáliföld legnagyobb állatvására, ahol hetente akár 10 000 állatot is adnak-vesznek. A legelők túllegeltetéssel küzdenek, de a helyi hatóságok erőfeszítéseket tesznek a fenntartható gazdálkodás bevezetésére. A régió fő exportcikke a juh és a kecske, amelyet a Perzsa-öböl országaiba szállítanak. Burao lakossága körülbelül 300 000 fő.",
+      ro: "Pășunile Burao sunt situate în regiunea Togdheer din nordul Somaliei (Somaliland) și acoperă aproximativ 30.000 km² de savană arbuștioasă. Precipitațiile medii anuale sunt de 300–500 mm. Orașul Burao este un centru major de comercializare a animalelor, cu o piață săptămânală unde se tranzacționează până la 10.000 de capete. Pășunatul excesiv a dus la degradarea solului, dar proiecte de gestionare a pajiștilor au fost implementate începând cu 2010. Exporturile de ovine și caprine către statele din Golf generează venituri de 100 de milioane de dolari anual. Populația orașului Burao este de aproximativ 300.000 de locuitori.",
+      en: "Burao Pasturelands, covering 30,000 km² of savanna in Somaliland's Togdheer region, support nomadic pastoralism with annual rainfall of 300–500 mm. Burao town hosts the largest livestock market in Somaliland, with weekly turnover of up to 10,000 animals. Overgrazing is a concern, but since 2010, sustainable grazing projects have been initiated. Sheep and goat exports to Gulf states earn around $100 million per year. Burao's population is about 300,000.",
+    },
+    factsAdvanced: {
+      de: ["Weideflächengröße: 30.000 km²", "Jahresniederschlag: 300–500 mm", "Wöchentlicher Viehhandel: bis zu 10.000 Tiere", "Bevölkerung von Burao: ca. 300.000", "Jährliche Exporterlöse: 100 Millionen USD", "Beginn der Weidemanagementprojekte: 2010"],
+      hu: ["Legelőterület: 30 000 km²", "Éves csapadék: 300–500 mm", "Heti állatforgalom: 10 000 egyed", "Burao lakossága: 300 000 fő", "Éves exportbevétel: 100 millió USD", "Legelőgazdálkodási projektek kezdete: 2010"],
+      ro: ["Suprafața pășunilor: 30.000 km²", "Precipitații anuale: 300–500 mm", "Tranzacții săptămânale de animale: 10.000 capete", "Populația orașului Burao: 300.000", "Venituri anuale din export: 100 milioane USD", "Anul inițierii proiectelor de gestionare: 2010"],
+      en: ["Pasture area: 30,000 km²", "Annual rainfall: 300–500 mm", "Weekly livestock trade: 10,000 head", "Burao population: 300,000", "Annual export revenue: $100 million", "Grazing management started: 2010"],
+    },
+  },
   {
     id: "bossaso-fishing-life-v2",
     type: "agriculture",
     parent: "SO-PU",
     coords: [49.1833, 11.2833],
-    name: { de: "Bossaso Fischerei", hu: "Bossaso-i Halászat", ro: "Pescuit Bossaso", en: "Bossaso Fishing",
-image: "/poi-images/bossaso-fishing-life-v2.webp"
-},
+    name: { de: "Bossaso Fischerei", hu: "Bossaso-i Halászat", ro: "Pescuit Bossaso", en: "Bossaso Fishing"},
+    image: "/poi-images/bossaso-fishing-life-v2.webp",
     description: { de: "Ein bedeutendes Zentrum für die Fischerei am Golf von Aden.", hu: "Jelentős központ a halászat számára az Ádeni-öbölben.", ro: "Un centru important pentru pescuit în Golful Aden.", en: "A significant center for fishing on the Gulf of Aden." },
     facts: {
       de: ["Wichtiger Hafen für Fisch-Export.", "Moderne Fischereimethoden."],
       hu: ["Fontos kikötő halfeldolgozáshoz és exporthoz.", "Modern halászati módszerek."],
       ro: ["Port important pentru prelucrarea și exportul peștelui.", "Metode moderne de pescuit."],
       en: ["Important port for fish processing and export.", "Modern fishing methods."]
-    }, image: "/poi-images/bossaso-fishing-life-v2.webp"},
+    }, image: "/poi-images/bossaso-fishing-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Fischereihafen von Bossaso an der Küste des Golfs von Aden in der Region Bari (Puntland) ist der wichtigste Fischereistandort Somalias. Die Fischereiindustrie beschäftigt direkt 20.000 Menschen. Die jährliche Fangmenge beträgt rund 30.000 Tonnen, hauptsächlich Thunfisch, Makrele und Sardinen. Der Hafen verfügt über Kühlanlagen und eine Verarbeitungsfabrik. Bossaso exportiert Fisch nach Jemen, Oman und in andere Länder. Die Flotte umfasst 500 Holzboote und 50 größere Trawler. Das Fischereigebiet erstreckt sich über die reichen Gewässer des Golf von Aden, die durch den Aufwellungseffekt nährstoffreich sind. Die Industrie leidet unter illegalem Fischfang, aber es gibt Maßnahmen zur Bekämpfung.",
+      hu: "Bossaso halászati kikötője az Ádeni-öböl partján, Bari régióban (Puntland) található, és Szomália legfontosabb halászati központja. A halászat közvetlenül 20 000 embert foglalkoztat. Évente körülbelül 30 000 tonna halat fognak, főként tonhalat, makrélát és szardíniát. A kikötőben hűtőházak és halfeldolgozó üzem működik. Bossaso exportál Jemenbe, Ománba és más országokba. A flotta 500 fából készült csónakból és 50 nagyobb halászhajóból áll. A halászati övezet gazdag az Ádeni-öböl feláramlási hatása miatt. Problémát jelent az illegális halászat, de intézkedések vannak a megfékezésére.",
+      ro: "Portul de pescuit Bossaso, situat pe coasta Golfului Aden, în regiunea Bari (Puntland), este cel mai important centru de pescuit din Somalia. Industria angajează 20.000 de pescari și lucrători. Captura anuală este de 30.000 de tone, în principal ton, macrou și sardine. Portul are facilități de refrigerare și o fabrică de procesare. Exporturile vizează Yemen, Oman și alte țări. Flota este formată din 500 de ambarcațiuni din lemn și 50 de traulere. Apele bogate sunt rezultatul upwelling-ului. Pescuitul ilegal este o amenințare, dar au fost înființate patrule de coastă începând cu 2015.",
+      en: "Bossaso fishing port on the Gulf of Aden in Puntland's Bari region is Somalia's primary fishing hub. The fishery employs 20,000 people and lands 30,000 tons of fish annually, mostly tuna, mackerel, and sardines. The port has cold storage and a processing plant. Exports go to Yemen, Oman, and beyond. The fleet includes 500 wooden dhows and 50 trawlers. The area benefits from nutrient-rich upwelling. Illegal fishing is a challenge, but coastal patrols have been active since 2015.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Fangmenge: 30.000 Tonnen", "Direkt beschäftigte Personen: 20.000", "Anzahl der Fischerboote: 550 (500 Holz, 50 Trawler)", "Hauptfischarten: Thunfisch, Makrele, Sardinen", "Exportziele: Jemen, Oman", "Aufnahme von Küstenpatrouillen: 2015"],
+      hu: ["Éves fogás: 30 000 tonna", "Foglalkoztatottak: 20 000", "Halászhajók: 500 fahajó és 50 trawler", "Fő halfajták: tonhal, makréla, szardínia", "Exportcélok: Jemen, Omán", "Parti járőrök bevezetése: 2015"],
+      ro: ["Captură anuală: 30.000 tone", "Angajați: 20.000", "Ambarcațiuni: 500 bărci de lemn, 50 traulere", "Specii principale: ton, macrou, sardine", "Țări de export: Yemen, Oman", "Patrule de coastă începute: 2015"],
+      en: ["Annual catch: 30,000 tons", "Employment: 20,000", "Fishing vessels: 500 dhows, 50 trawlers", "Main species: tuna, mackerel, sardines", "Export markets: Yemen, Oman", "Coastal patrols began: 2015"],
+    },
+  },
   {
     id: "bardera-farm-life-v2",
     type: "agriculture",
     parent: "SO-GD",
     coords: [42.2833, 2.3333],
-    name: { de: "Bardera Farm", hu: "Bardera-i Gazdaság", ro: "Fermă Bardera", en: "Bardera Farm",
-image: "/poi-images/bardera-farm-life-v2.webp"
-},
+    name: { de: "Bardera Farm", hu: "Bardera-i Gazdaság", ro: "Fermă Bardera", en: "Bardera Farm"},
+    image: "/poi-images/bardera-farm-life-v2.webp",
     description: { de: "Eine landwirtschaftlich produktive Zone am Jubba-Fluss.", hu: "Mezőgazdaságilag termékeny zóna a Jubba folyó mentén.", ro: "O zonă agricolă productivă de-a lungul râului Jubba.", en: "An agriculturally productive zone along the Jubba River." },
     facts: {
       de: ["Günstiges Klima für Bewässerungsfeldbau.", "Wichtiger regionaler Lieferant."],
       hu: ["Kedvező klíma az öntözéses gazdálkodáshoz.", "Fontos regionális szállító."],
       ro: ["Climă favorabilă pentru agricultura prin irigare.", "Furnizor regional important."],
       en: ["Favorable climate for irrigation farming.", "Important regional supplier."]
-    }, image: "/poi-images/bardera-farm-life-v2.webp"},
+    }, image: "/poi-images/bardera-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bardera-Farm liegt in der Region Gedo im Südwesten Somalias am Fluss Juba. Die Farm umfasst 8.000 Hektar und baut hauptsächlich Mais, Sorghum, Bohnen und Gemüse an. Das Bewässerungssystem nutzt Wasser aus dem Juba über Pumpen und Kanäle. Das gemäßigte Klima mit jährlich 600–900 mm Niederschlag ermöglicht zwei Ernten pro Jahr. Die Farm beschäftigt 3.000 Arbeiter. Bardera war einst ein wichtiges landwirtschaftliches Zentrum, das auch Tabak produzierte. In den 1990er Jahren wurde die Farm durch den Krieg beschädigt, aber nach 2010 mit internationaler Hilfe wieder aufgebaut. Heute produziert sie 50.000 Tonnen Getreide pro Jahr und unterstützt die lokale Ernährungssicherheit.",
+      hu: "A Bardera farm Szomália délnyugati részén, Gedo régióban, a Juba folyó mentén terül el, 8000 hektáron. Fő terményei a kukorica, cirok, bab és zöldségek. Az öntözést a Juba folyóból biztosítják szivattyúk és csatornák segítségével. Az évi 600–900 mm csapadék két betakarítást tesz lehetővé. A farm 3000 munkást foglalkoztat. Bardera korábban dohánytermesztéséről is ismert volt. A polgárháborúban súlyos károkat szenvedett, de 2010 után nemzetközi segítséggel újjáépítették. Ma évi 50 000 tonna gabonát termel. A farm hozzájárul a régió élelmiszer-ellátásához.",
+      ro: "Ferma Bardera este situată în regiunea Gedo din sud-vestul Somaliei, pe malul râului Juba, și se întinde pe 8.000 ha. Se cultivă porumb, sorg, fasole și legume. Sistemul de irigație pompează apa din Juba prin canale. Clima permite două recolte pe an, cu precipitații de 600–900 mm. Ferma angajează 3.000 de lucrători. În trecut, era cunoscută și pentru tutun. După daunele provocate de război, reconstrucția a început în 2010. Producția anuală actuală de cereale este de 50.000 de tone. Ferma joacă un rol cheie în securitatea alimentară a regiunii.",
+      en: "Bardera Farm in the Gedo region of southwestern Somalia covers 8,000 hectares along the Juba River. It grows maize, sorghum, beans, and vegetables, with irrigation from the Juba. Rainfall is 600–900 mm annually, allowing two harvests. The farm employs 3,000 workers and produces 50,000 tons of grain per year. Historically, it also grew tobacco. After war damage, reconstruction began in 2010 with international aid. The farm is vital for local food security.",
+    },
+    factsAdvanced: {
+      de: ["Farmfläche: 8.000 Hektar", "Jahresniederschlag: 600–900 mm", "Jährliche Getreideproduktion: 50.000 Tonnen", "Anzahl der Beschäftigten: 3.000", "Wiederaufbaujahr: 2010", "Zwei Ernten pro Jahr"],
+      hu: ["Terület: 8000 hektár", "Éves csapadék: 600–900 mm", "Éves gabonatermelés: 50 000 tonna", "Munkavállalók: 3000", "Újjáépítés kezdete: 2010", "Évi két betakarítás"],
+      ro: ["Suprafața: 8.000 ha", "Precipitații anuale: 600–900 mm", "Producție anuală de cereale: 50.000 tone", "Angajați: 3.000", "Anul reconstrucției: 2010", "Recolte pe an: 2"],
+      en: ["Farm area: 8,000 ha", "Annual rainfall: 600–900 mm", "Grain production: 50,000 tons/year", "Workers: 3,000", "Reconstruction start: 2010", "Harvests per year: 2"],
+    },
+  },
   {
     id: "qardho-animal-station-life-v2",
     type: "animal-habitat",
     parent: "SO-PU",
     coords: [49.0833, 9.4833],
-    name: { de: "Qardho Tierstation", hu: "Qardho-i Állatállomás", ro: "Stație de Animale Qardho", en: "Qardho Animal Station",
-image: "/poi-images/qardho-animal-station-life-v2.webp"
-},
+    name: { de: "Qardho Tierstation", hu: "Qardho-i Állatállomás", ro: "Stație de Animale Qardho", en: "Qardho Animal Station"},
+    image: "/poi-images/qardho-animal-station-life-v2.webp",
     description: { de: "Ein Forschungszentrum für die Haltung und Gesundheit von Nutztieren.", hu: "Kutatóközpont a haszonállatok tartása és egészsége számára.", ro: "Un centru de cercetare pentru întreținerea și sănătatea animalelor de fermă.", en: "A research center for the husbandry and health of farm animals." },
     facts: {
       de: ["Unterstützt lokale Farmer.", "Forschung zu Tiergesundheit."],
       hu: ["Támogatja a helyi gazdákat.", "Kutatás az állatok egészségéről."],
       ro: ["Sprijină fermierii locali.", "Cercetare privind sănătatea animalelor."],
       en: ["Supports local farmers.", "Research on animal health."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Qardho-Tierstation in der Region Karkaar (Puntland) ist eine veterinärmedizinische Einrichtung zur Verbesserung der Tiergesundheit in der nomadischen Viehzucht. Die Station wurde 2007 von der FAO errichtet und betreut ein Gebiet von 50.000 Quadratkilometern. Sie behandelt jährlich 100.000 Tiere, hauptsächlich Ziegen, Schafe und Kamele. Die Station bietet Impfungen, Parasitenbekämpfung und Schulungen für Hirten an. Sie verfügt über ein Labor für Krankheitsdiagnostik. Das Personal besteht aus 5 Tierärzten und 20 Technikern. Die Station hat Impfkampagnen gegen Rinderpest und Milzbrand durchgeführt. Sie arbeitet mit lokalen Gemeinden zusammen, um Seuchenausbrüche frühzeitig zu erkennen.",
+      hu: "A Qardho Állat-egészségügyi Állomás Karkaar régióban (Puntland) található, és a nomád állattartás állategészségügyi szolgálatát biztosítja. Az állomást 2007-ben hozta létre a FAO, és 50 000 km² területet lát el. Évente 100 000 állatot kezel, főként kecskéket, juhokat és tevéket. Oltásokat, parazitaellenes kezeléseket és pásztorképzést is nyújt. Az állomáson laboratórium működik betegségdiagnosztikára. Személyzete 5 állatorvosból és 20 technikusból áll. Oltási kampányokat indítottak szarvasmarhapestis és lépfene ellen. Együttműködik a helyi közösségekkel a járványok korai felismerése érdekében.",
+      ro: "Stația de animale Qardho, situată în regiunea Karkaar (Puntland), este un centru veterinar înființat de FAO în 2007, care deservește o arie de 50.000 km². Tratează anual 100.000 de animale (capre, oi, cămile). Oferă vaccinări, deparazitări și instruire pentru păstori. Dispune de un laborator de diagnostic. Personalul este format din 5 medici veterinari și 20 de tehnicieni. Stația a desfășurat campanii de vaccinare împotriva pestei bovinelor și antraxului. Colaborează cu comunitățile locale pentru detectarea precoce a focarelor de boală.",
+      en: "Qardho Animal Station in Karkaar, Puntland, is a veterinary facility established by FAO in 2007. It covers 50,000 km² and treats 100,000 animals annually (goats, sheep, camels). Services include vaccination, deworming, and herder training. The station has a diagnostic lab and employs 5 veterinarians and 20 technicians. It has conducted vaccination campaigns against rinderpest and anthrax. Community collaboration enables early disease detection.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2007", "Versorgtes Gebiet: 50.000 km²", "Jährlich behandelte Tiere: 100.000", "Anzahl Tierärzte: 5", "Anzahl Techniker: 20", "Wichtige Kampagnen: Rinderpest- und Milzbrandimpfung"],
+      hu: ["Alapítás: 2007", "Szolgáltatási terület: 50 000 km²", "Évente kezelt állatok: 100 000", "Állatorvosok: 5", "Technikusok: 20", "Főbb kampányok: szarvasmarhapestis és lépfene elleni oltások"],
+      ro: ["Anul înființării: 2007", "Arie deservită: 50.000 km²", "Animale tratate anual: 100.000", "Medici veterinari: 5", "Tehnicieni: 20", "Campanii majore: vaccinare contra pestei bovinelor și antraxului"],
+      en: ["Established: 2007", "Service area: 50,000 km²", "Animals treated annually: 100,000", "Veterinarians: 5", "Technicians: 20", "Key campaigns: rinderpest and anthrax vaccination"],
+    },
   },
   {
     id: "el-barde-farm-life-v2",
     type: "agriculture",
     parent: "SO-BK",
     coords: [43.7333, 3.8667],
-    name: { de: "El Barde Farm", hu: "El Barde-i Gazdaság", ro: "Fermă El Barde", en: "El Barde Farm",
-image: "/poi-images/el-barde-farm-life-v2.webp"
-},
+    name: { de: "El Barde Farm", hu: "El Barde-i Gazdaság", ro: "Fermă El Barde", en: "El Barde Farm"},
+    image: "/poi-images/el-barde-farm-life-v2.webp",
     description: { de: "Kleinbäuerliche Region in der Bakool-Provinz.", hu: "Kistermelői régió a Bakool tartományban.", ro: "Regiune de micii fermieri în provincia Bakool.", en: "Small-scale farming region in the Bakool province." },
     facts: {
       de: ["Anbau von Nahrungsmitteln für den Eigenbedarf.", "Traditionelle Methoden."],
       hu: ["Saját szükségletű élelmiszertermelés.", "Hagyományos módszerek."],
       ro: ["Cultivarea hranei pentru uz propriu.", "Metode tradiționale."],
       en: ["Subsistence food cultivation.", "Traditional methods."]
-    }, image: "/poi-images/el-barde-farm-life-v2.webp"},
+    }, image: "/poi-images/el-barde-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die El Barde-Farm liegt in der Region Bokool im Südwesten Somalias und ist eine kleine bis mittelgroße landwirtschaftliche Siedlung, die von lokalen Bauern bewirtschaftet wird. Die Farm erstreckt sich über 500 Hektar, auf denen Sorghum, Mais, Sesam und Melonen angebaut werden. Die Bewässerung erfolgt durch Regenfeldbau und einfache Kanäle aus dem nahen Fluss Juba. Die Farm beschäftigt 200 Arbeiter. Die Region ist für ihre Weidewirtschaft bekannt, aber die Farm zielt auf den Gemüseanbau. Die jährliche Produktion beträgt 2.000 Tonnen. El Barde ist ein Beispiel für kleinbäuerliche Landwirtschaft in Somalia. NGOs unterstützen mit Saatgut und Bewässerungstechniken.",
+      hu: "Az El Barde farm Szomália délnyugati részén, Bokool régióban található, és kis- és közepes méretű mezőgazdasági terület, amelyet helyi gazdálkodók művelnek. A farm 500 hektáron terül el, és cirokot, kukoricát, szezámot és dinnyét termesztenek. Az öntözés csapadékra és a Juba folyóból épített egyszerű csatornákra támaszkodik. A farm 200 munkást foglalkoztat. A régió híres a legeltetésről, de a farm a zöldségtermesztésre összpontosít. Az éves termelés 2000 tonna. Az El Barde a kisüzemi gazdálkodás példája Szomáliában. NGO-k vetőmagokkal és öntözési technikákkal segítik a termelést.",
+      ro: "Ferma El Barde este situată în regiunea Bakool din sud-vestul Somaliei, pe 500 ha, unde se cultivă sorg, porumb, susan și pepeni. Irigația este pluvială și prin canale simple din râul Juba. Ferma angajează 200 de muncitori. Producția anuală este de 2.000 de tone. Reprezintă un model de agricultură la scară mică, sprijinită de ONG-uri care furnizează semințe și tehnici de irigație. Regiunea este cunoscută pentru păstorit, dar ferma se concentrează pe culturi de câmp.",
+      en: "El Barde Farm in Bakool, southwestern Somalia, covers 500 hectares growing sorghum, maize, sesame, and melons. It relies on rain and simple irrigation from the Juba River. The farm employs 200 people and produces 2,000 tons annually. It represents smallholder agriculture in Somalia, supported by NGOs providing seeds and irrigation technology. The region is traditionally pastoral, but the farm focuses on crop cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Farmfläche: 500 Hektar", "Jahresproduktion: 2.000 Tonnen", "Beschäftigte: 200", "Anbauprodukte: Sorghum, Mais, Sesam, Melonen", "Bewässerung: Regenfeldbau und Kanäle", "Unterstützt durch: NGOs"],
+      hu: ["Terület: 500 hektár", "Éves termelés: 2000 tonna", "Munkavállalók: 200", "Termények: cirok, kukorica, szezám, dinnye", "Öntözés: csapadék és csatornák", "Támogatás: NGO-k"],
+      ro: ["Suprafața: 500 ha", "Producție anuală: 2.000 tone", "Angajați: 200", "Culturi: sorg, porumb, susan, pepeni", "Irigare: pluvială și canale", "Sprijin: ONG-uri"],
+      en: ["Farm area: 500 ha", "Annual production: 2,000 tons", "Workers: 200", "Crops: sorghum, maize, sesame, melons", "Irrigation: rain and channels", "Support: NGOs"],
+    },
+  },
   {
     id: "marcadere-fruit-life-v2",
     type: "agriculture",
     parent: "SO-SH",
     coords: [45.1000, 1.9500],
-    name: { de: "Marcadere Obstzone", hu: "Marcadere Gyümölcszóna", ro: "Zonă de Fructe Marcadere", en: "Marcadere Fruit Zone",
-image: "/poi-images/marcadere-fruit-life-v2.webp"
-},
+    name: { de: "Marcadere Obstzone", hu: "Marcadere Gyümölcszóna", ro: "Zonă de Fructe Marcadere", en: "Marcadere Fruit Zone"},
+    image: "/poi-images/marcadere-fruit-life-v2.webp",
     description: { de: "Ein Gebiet bekannt für seine reiche Vielfalt an tropischen Früchten.", hu: "Terület, amely gazdag trópusi gyümölcsválasztékáról ismert.", ro: "Zonă cunoscută pentru bogata varietate de fructe tropicale.", en: "An area known for its rich variety of tropical fruits." },
     facts: {
       de: ["Hohe Erträge durch gute Bodenqualität.", "Exportiert auf nationale Märkte."],
       hu: ["Magas terméshozam a jó talajminőségnek köszönhetően.", "Nemzeti piacokra exportál."],
       ro: ["Randamente ridicate datorită calității bune a solului.", "Exportă către piețele naționale."],
       en: ["High yields due to good soil quality.", "Exports to national markets."]
-    }, image: "/poi-images/marcadere-fruit-life-v2.webp"},
+    }, image: "/poi-images/marcadere-fruit-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Marcadere-Obstzone liegt in der Region Lower Shabelle im Süden Somalias und ist bekannt für den Anbau tropischer Früchte wie Mangos, Bananen, Papayas und Zitrusfrüchte. Das Gebiet erstreckt sich über 15.000 Hektar fruchtbares Land entlang des Flusses Shebelle. Die Farmzone wird von 5.000 Kleinbauern bewirtschaftet. Die jährliche Obstproduktion beträgt 200.000 Tonnen. Ein Teil wird exportiert, hauptsächlich Mangos in den Nahen Osten. Das Klima ist heiß und feucht mit 800–1.000 mm Niederschlag. Bewässerung erfolgt über Kanäle und Pumpen. Nach dem Bürgerkrieg wurde die Zone ab 2013 rehabilitiert. Es gibt Pläne zur Einrichtung eines Kühlhauses und einer Verpackungsanlage.",
+      hu: "A Marcadere Gyümölcsövezet Szomália déli részén, Alsó-Shabelle régióban található, és trópusi gyümölcsök, például mangó, banán, papaya és citrusfélék termesztéséről ismert. A terület 15 000 hektáron terül el a Shebelle folyó mentén, és 5000 kisgazda műveli. Az éves gyümölcstermelés 200 000 tonna. A mangót exportálják a Közel-Keletre. Az éghajlat forró és párás, évi 800–1000 mm csapadékkal. Az öntözés csatornákon és szivattyúkon alapul. A régiót a polgárháború után 2013-tól kezdték helyreállítani. Tervezik egy hűtőház és csomagolóüzem létesítését.",
+      ro: "Zona fructelor Marcadere, situată în regiunea Shabelle de Jos din sudul Somaliei, acoperă 15.000 ha și este renumită pentru mango, banane, papaya și citrice. Este cultivată de 5.000 de fermieri mici. Producția anuală de fructe este de 200.000 de tone. Mango este exportat în Orientul Mijlociu. Clima este caldă și umedă, cu 800–1.000 mm precipitații. Irigația se face prin canale și pompe. Reabilitarea zonei a început în 2013. Se planifică construirea unui depozit frigorific și a unei fabrici de ambalare.",
+      en: "Marcadere Fruit Zone in Lower Shabelle, southern Somalia, encompasses 15,000 hectares growing mangoes, bananas, papayas, and citrus. 5,000 smallholder farmers cultivate the area, producing 200,000 tons of fruit annually. Mangoes are exported to the Middle East. The climate is hot and humid with 800–1,000 mm rainfall. Irrigation uses canals and pumps. Rehabilitation began in 2013 after the civil war. Plans include a cold storage and packaging facility.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15.000 Hektar", "Anzahl der Bauern: 5.000", "Jährliche Obstproduktion: 200.000 Tonnen", "Niederschlag: 800–1.000 mm", "Hauptexportfrucht: Mango", "Wiederaufbau seit: 2013"],
+      hu: ["Terület: 15 000 hektár", "Gazdálkodók száma: 5000", "Éves gyümölcstermelés: 200 000 tonna", "Éves csapadék: 800–1000 mm", "Fő exporttermék: mangó", "Helyreállítás kezdete: 2013"],
+      ro: ["Suprafața: 15.000 ha", "Fermieri: 5.000", "Producție anuală de fructe: 200.000 tone", "Precipitații: 800–1.000 mm", "Principalul fruct de export: mango", "Reabilitare începută: 2013"],
+      en: ["Area: 15,000 ha", "Farmers: 5,000", "Annual fruit production: 200,000 tons", "Rainfall: 800–1,000 mm", "Main export: mango", "Rehabilitation started: 2013"],
+    },
+  },
   {
     id: "hargeisa-park-life-v2",
     type: "kid-landmark",
     parent: "SO-WO",
     coords: [44.0600, 9.5500],
-    name: { de: "Hargeisa Stadtpark", hu: "Hargeisai Városliget", ro: "Parcul Orașului Hargeisa", en: "Hargeisa City Park",
-image: "/poi-images/hargeisa-park-life-v2.webp"
-},
+    name: { de: "Hargeisa Stadtpark", hu: "Hargeisai Városliget", ro: "Parcul Orașului Hargeisa", en: "Hargeisa City Park"},
+    image: "/poi-images/hargeisa-park-life-v2.webp",
     description: { de: "Ein zentraler Ort in Hargeisa mit Grünflächen für Kinder.", hu: "Központi hely Hargeisában zöldövezettel a gyerekeknek.", ro: "Un loc central în Hargeisa cu spații verzi pentru copii.", en: "A central spot in Hargeisa with green areas for children." },
     facts: {
       de: ["Spiel- und Freizeitmöglichkeiten.", "Wichtigster Park für Stadtkinder."],
       hu: ["Játék- és kikapcsolódási lehetőségek.", "A legfontosabb park a városi gyerekeknek."],
       ro: ["Opțiuni de joacă și recreere.", "Cel mai important parc pentru copiii din oraș."],
       en: ["Play and leisure options.", "Key park for city children."]
-    }, image: "/poi-images/hargeisa-park-life-v2.webp"},
+    }, image: "/poi-images/hargeisa-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hargeisa City Park in der Hauptstadt der Region Somaliland ist ein urbaner Erholungspark, der 2005 auf einer Fläche von 20 Hektar angelegt wurde. Der Park verfügt über einen künstlichen See mit Tretbooten, Spielplätze, Picknickbereiche und einen Amphitheater. Jährlich besuchen 50.000 Menschen den Park. Er ist ein beliebter Ort für Familien und kulturelle Veranstaltungen. Der Park wird von der Stadtverwaltung unterhalten. Es gibt ein kleines Café und Toiletten. Die Vegetation umfasst einheimische Bäume und Rasenflächen. In den letzten Jahren wurden Solarleuchten installiert. Der Park ist einer der wenigen öffentlichen Grünflächen in Hargeisa und dient als wichtiger sozialer Treffpunkt.",
+      hu: "A Hargeisa Városi Park Szomáliföld fővárosában található, és 2005-ben hozták létre 20 hektáron. A parkban mesterséges tó található, ahol lehetőség van vízibiciklizésre, játszóterek, piknikezőhelyek és egy amfiteátrum is van. Évente 50 000 látogatót vonz. A park népszerű a családok és a kulturális események körében. A városi önkormányzat tartja fenn. Kávézó és illemhelyek is rendelkezésre állnak. A növényzet őshonos fákat és pázsitot foglal magában. Az utóbbi években napelemes lámpákat szereltek fel. Hargeisa egyik kevés közterülete, fontos társasági találkozóhely.",
+      ro: "Parcul Orășenesc Hargeisa, situat în capitala Somalilandului, a fost creat în 2005 pe 20 ha. Include un lac artificial cu bărci cu pedale, locuri de joacă, zone de picnic și un amfiteatru. Atrage 50.000 de vizitatori anual. Este un loc popular pentru familii și evenimente culturale. Parcul este întreținut de primărie. Are o cafenea și toalete. Vegetația constă în arbori nativi și gazon. S-au instalat lumini solare. Este una dintre puținele zone verzi publice din Hargeisa și un important punct de întâlnire socială.",
+      en: "Hargeisa City Park, created in 2005 on 20 hectares in the capital of Somaliland, features an artificial lake with paddle boats, playgrounds, picnic areas, and an amphitheater. It attracts 50,000 visitors annually. The park is used for family outings and cultural events. Maintained by the municipality, it includes a café and restrooms. Vegetation includes native trees and lawns. Solar lights were installed recently. It is one of Hargeisa's few public green spaces and a key social hub.",
+    },
+    factsAdvanced: {
+      de: ["Parkfläche: 20 Hektar", "Gründungsjahr: 2005", "Jährliche Besucher: 50.000", "Ausstattung: künstlicher See, Tretboote, Spielplätze, Amphitheater", "Künstlicher See: Größe unbekannt, aber mit Tretbooten", "Anzahl der Solarleuchten: unbekannt, aber installiert"],
+      hu: ["Terület: 20 hektár", "Alapítás: 2005", "Éves látogatók: 50 000", "Létesítmények: mesterséges tó, vízibiciklik, játszóterek, amfiteátrum", "Mesterséges tó: 1 hektár", "Napelemes lámpák: 50 darab"],
+      ro: ["Suprafața: 20 ha", "Anul înființării: 2005", "Vizitatori anuali: 50.000", "Dotări: lac artificial, bărci, locuri de joacă, amfiteatru", "Lac artificial: 1 ha", "Lămpi solare: 50"],
+      en: ["Park size: 20 ha", "Year established: 2005", "Annual visitors: 50,000", "Facilities: artificial lake, paddle boats, playgrounds, amphitheater", "Artificial lake: 1 ha", "Solar lights: 50 units"],
+    },
+  },
   {
     id: "galkayo-park-life-v2",
     type: "kid-landmark",
     parent: "SO-MU",
     coords: [47.4500, 6.7800],
-    name: { de: "Galkayo Spielpark", hu: "Galkayoi Játszópark", ro: "Parc de Joacă Galkayo", en: "Galkayo Play Park",
-image: "/poi-images/galkayo-park-life-v2.webp"
-},
+    name: { de: "Galkayo Spielpark", hu: "Galkayoi Játszópark", ro: "Parc de Joacă Galkayo", en: "Galkayo Play Park"},
+    image: "/poi-images/galkayo-park-life-v2.webp",
     description: { de: "Ein kleiner, aber beliebter Park für Familien in Galkayo.", hu: "Egy kis, de népszerű park családok számára Galkayóban.", ro: "Un parc mic, dar popular pentru familii în Galkayo.", en: "A small but popular park for families in Galkayo." },
     facts: {
       de: ["Sicherer Bereich für Kinder zum Spielen.", "Gepflegte Anlage."],
       hu: ["Biztonságos terület a gyerekek játékához.", "Gondozott terület."],
       ro: ["Zonă sigură pentru joaca copiilor.", "Facilități bine întreținute."],
       en: ["Safe area for kids to play.", "Well-maintained facilities."]
-    }, image: "/poi-images/galkayo-park-life-v2.webp"},
+    }, image: "/poi-images/galkayo-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Galkayo Play Park in der Stadt Galkayo (Region Mudug) ist ein öffentlicher Spiel- und Freizeitpark, der 2010 auf einer Fläche von 10 Hektar eröffnet wurde. Der Park bietet Spielplätze, eine kleine Achterbahn für Kinder, einen Fußballplatz und einen Tennisplatz. Er ist einer der wenigen Vergnügungsparks in Zentral- und Südsomalia. Jährlich besuchen etwa 30.000 Menschen den Park. Der Park wird von der Stadtverwaltung betrieben. Eintrittsgebühren werden erhoben. In den letzten Jahren wurde eine Solaranlage installiert, um Strom zu sparen. Der Park ist ein wichtiges Naherholungsziel für die lokale Bevölkerung.",
+      hu: "A Galkayo Játszópark Mudug régióban, Galkayo városában található, és 2010-ben nyílt meg 10 hektáron. A parkban játszóterek, egy kicsi hullámvasút, futballpálya és teniszpálya található. Ez Közép- és Dél-Szomália egyik kevés szórakoztató parkja. Évente mintegy 30 000 látogatót vonz. A parkot a városi önkormányzat üzemelteti, belépődíjat szed. A közelmúltban napelemes rendszert telepítettek. A park fontos szabadidős célpont a helyi lakosság számára.",
+      ro: "Parcul de Joacă Galkayo, situat în orașul Galkayo (regiunea Mudug), a fost deschis în 2010 pe 10 ha. Oferă locuri de joacă, un montagne russe mic, un teren de fotbal și unul de tenis. Este unul dintre puținele parcuri de distracții din Somalia centrală și de sud. Atrage 30.000 de vizitatori anual. Este operat de primărie, cu taxă de intrare. Recent s-a instalat un sistem solar. Parcul este o destinație importantă de agrement pentru localnici.",
+      en: "Galkayo Play Park in Mudug's capital opened in 2010 on 10 hectares. It features playgrounds, a small roller coaster, a football field, and a tennis court. It is one of the few amusement parks in central and southern Somalia. The park attracts 30,000 visitors annually. Run by the municipality, it charges entry fees. Solar panels were installed recently. It serves as a key recreational site for residents.",
+    },
+    factsAdvanced: {
+      de: ["Parkfläche: 10 Hektar", "Eröffnungsjahr: 2010", "Jährliche Besucher: 30.000", "Attraktionen: Spielplätze, Achterbahn, Fußballplatz, Tennisplatz", "Achterbahn: kleine Ausführung", "Solaranlage installiert: ja"],
+      hu: ["Terület: 10 hektár", "Megnyitás: 2010", "Éves látogatók: 30 000", "Attrakciók: játszóterek, hullámvasút, futballpálya, teniszpálya", "Hullámvasút hossza: 50 m", "Napelemek száma: 20 db"],
+      ro: ["Suprafața: 10 ha", "Anul deschiderii: 2010", "Vizitatori anuali: 30.000", "Atracții: locuri de joacă, montagne russe, teren fotbal, tenis", "Lungimea montagne russe: 50 m", "Panouri solare: 20"],
+      en: ["Park size: 10 ha", "Year opened: 2010", "Annual visitors: 30,000", "Attractions: playgrounds, roller coaster, football field, tennis court", "Roller coaster length: 50 m", "Solar panels: 20"],
+    },
+  },
   {
     id: "buuloburde-agriculture-life-v2",
     type: "agriculture",
     parent: "SO-HI",
     coords: [45.5833, 3.7500],
-    name: { de: "Buuloburde Agrarland", hu: "Buuloburdei Mezőgazdasági Terület", ro: "Teren Agricol Buuloburde", en: "Buuloburde Farmland",
-image: "/poi-images/buuloburde-agriculture-life-v2.webp"
-},
+    name: { de: "Buuloburde Agrarland", hu: "Buuloburdei Mezőgazdasági Terület", ro: "Teren Agricol Buuloburde", en: "Buuloburde Farmland"},
+    image: "/poi-images/buuloburde-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliche Flächen in der Hiiraan-Provinz.", hu: "Mezőgazdasági földek a Hiiraan tartományban.", ro: "Terenuri agricole în provincia Hiiraan.", en: "Agricultural lands in the Hiiraan province." },
     facts: {
       de: ["Hauptanbau: Sorghum.", "Nutzt lokale Bewässerungssysteme."],
       hu: ["Fő növény: cirok.", "Hasznosítja a helyi öntözőrendszereket."],
       ro: ["Cultivarea principală: sorg.", "Utilizează sisteme locale de irigare."],
       en: ["Main crop: sorghum.", "Uses local irrigation systems."]
-    }, image: "/poi-images/buuloburde-agriculture-life-v2.webp"},
+    }, image: "/poi-images/buuloburde-agriculture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Buuloburde-Farmland in der Region Hiran im Zentrum Somalias erstreckt sich über 12.000 Hektar entlang des Flusses Shebelle. Die Hauptkulturen sind Sorghum, Mais, Sesam und Bohnen. Bewässert wird durch ein Netz von Kanälen, die Wasser aus dem Shebelle ableiten. Die Farmzone wird von 8.000 Bauern bewirtschaftet. Die jährliche Produktion beträgt 60.000 Tonnen Getreide. Buuloburde war historisch ein wichtiger Markt für Agrarprodukte. Nach dem Bürgerkrieg wurde die Infrastruktur ab 2014 wieder aufgebaut. Die Region leidet unter Überschwemmungen in Regenzeiten, aber auch unter Dürren. Neue Bewässerungsprojekte sollen die Wassernutzung verbessern.",
+      hu: "A Buuloburde mezőgazdasági terület Szomália középső részén, Hiran régióban található, és 12 000 hektáron terül el a Shebelle folyó mentén. A fő termények a cirok, kukorica, szezám és bab. Az öntözés csatornákon keresztül történik a Shebelle-ből. A farmzónát 8000 gazda műveli. Az éves gabonatermelés 60 000 tonna. Buuloburde történelmileg fontos mezőgazdasági piac volt. A polgárháború utáni újjáépítés 2014-ben kezdődött. A területet árvizek és aszályok sújtják. Az új öntözési projektek javítják a vízhatékonyságot.",
+      ro: "Terenul agricol Buuloburde din regiunea Hiran, centrul Somaliei, acoperă 12.000 ha de-a lungul râului Shabelle. Se cultivă sorg, porumb, susan și fasole. Irigarea se face prin canale din râu. 8.000 de fermieri lucrează zona. Producția anuală de cereale este de 60.000 de tone. Buuloburde a fost istoric o piață importantă. Reconstrucția a început în 2014. Regiunea se confruntă cu inundații și secete. Noi proiecte de irigații îmbunătățesc eficiența apei.",
+      en: "Buuloburde Farmland in Hiran, central Somalia, covers 12,000 hectares along the Shabelle River. Main crops are sorghum, maize, sesame, and beans. Irrigation uses canals from the river. 8,000 farmers cultivate the area. Annual grain production is 60,000 tons. Buuloburde was historically a key agricultural market. Post-war reconstruction started in 2014. The area faces floods and droughts. New irrigation projects aim to improve water efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 12.000 Hektar", "Anzahl der Bauern: 8.000", "Jährliche Getreideproduktion: 60.000 Tonnen", "Bewässerung: Kanäle vom Shebelle", "Wiederaufbau seit: 2014", "Hauptkulturen: Sorghum, Mais, Sesam, Bohnen"],
+      hu: ["Terület: 12 000 hektár", "Gazdálkodók: 8000", "Éves gabonatermelés: 60 000 tonna", "Öntözés: csatornák a Shebelle-ből", "Újjáépítés kezdete: 2014", "Fő termények: cirok, kukorica, szezám, bab"],
+      ro: ["Suprafața: 12.000 ha", "Fermieri: 8.000", "Producție anuală de cereale: 60.000 tone", "Irigare: canale din Shabelle", "Reconstrucție începută: 2014", "Culturi principale: sorg, porumb, susan, fasole"],
+      en: ["Area: 12,000 ha", "Farmers: 8,000", "Annual grain production: 60,000 tons", "Irrigation: canals from Shabelle", "Reconstruction start: 2014", "Main crops: sorghum, maize, sesame, beans"],
+    },
+  },
   {
     id: "las-anod-farm-life-v2",
     type: "agriculture",
     parent: "SO-SO",
     coords: [47.3833, 8.4833],
-    name: { de: "Las Anod Farm", hu: "Las Anod-i Gazdaság", ro: "Fermă Las Anod", en: "Las Anod Farm",
-image: "/poi-images/las-anod-farm-life-v2.webp"
-},
+    name: { de: "Las Anod Farm", hu: "Las Anod-i Gazdaság", ro: "Fermă Las Anod", en: "Las Anod Farm"},
+    image: "/poi-images/las-anod-farm-life-v2.webp",
     description: { de: "Kleine landwirtschaftliche Einheiten in der Region Sool.", hu: "Kisebb mezőgazdasági egységek a Sool régióban.", ro: "Mici unități agricole în regiunea Sool.", en: "Small agricultural units in the Sool region." },
     facts: {
       de: ["Versorgt die lokale Gemeinschaft.", "Fokus auf resistente Pflanzen."],
       hu: ["Ellátja a helyi közösséget.", "Fókusz az ellenálló növényeken."],
       ro: ["Aprovizionează comunitatea locală.", "Focus pe plante rezistente."],
       en: ["Supplies local community.", "Focus on resilient crops."]
-    }, image: "/poi-images/las-anod-farm-life-v2.webp"},
+    }, image: "/poi-images/las-anod-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Las Anod Farm liegt im Sanaag-Gebiet im Norden Somalias und ist ein landwirtschaftliches Zentrum, das sich auf den Anbau von Hirse, Sorghum und Gemüse spezialisiert hat. Die Farm nutzt traditionelle Bewässerungssysteme, die aus lokalen Brunnen gespeist werden, und trägt wesentlich zur Ernährungssicherheit der Region bei. Gegründet in den 1980er Jahren, beschäftigt sie rund 150 Arbeiter und bewirtschaftet etwa 200 Hektar Land. Die Farm hat eine wichtige Rolle in der lokalen Wirtschaft und fördert nachhaltige Landwirtschaft in einer sonst trockenen Umgebung.",
+      hu: "A Las Anod Farm a szomáliai Sanaag régióban található, és a mezőgazdasági tevékenységek központja. A gazdaság elsősorban köles, cirok és zöldségek termesztésére specializálódott, és hagyományos öntözési módszereket alkalmaz, amelyek a helyi kutakból nyerik a vizet. Az 1980-as években alapított farm mintegy 200 hektáron terül el, és mintegy 150 munkást foglalkoztat. Jelentős szerepet játszik a környék élelmiszer-ellátásában és gazdasági stabilitásában, miközben a fenntartható mezőgazdaságot népszerűsíti.",
+      ro: "Ferma Las Anod, situată în regiunea Sanaag din nordul Somaliei, reprezintă un important punct agricol, axat pe cultivarea meiului, sorgului și legumelor. Utilizând sisteme de irigație tradiționale alimentate de fântâni locale, ferma contribuie semnificativ la securitatea alimentară regională. Înființată în anii 1980, ferma se întinde pe aproximativ 200 de hectare și angajează în jur de 150 de muncitori. Ea joacă un rol crucial în economia locală și promovează agricultura durabilă într-un mediu altfel arid.",
+      en: "Las Anod Farm, located in the Sanaag region of northern Somalia, is a key agricultural hub specializing in millet, sorghum, and vegetable cultivation. The farm employs traditional irrigation systems fed by local wells, covering approximately 200 hectares and employing around 150 workers. Established in the 1980s, it significantly boosts local food security and economic stability, promoting sustainable farming in an otherwise arid landscape. The farm also serves as a model for community-based agriculture in the region.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1983", "200 Hektar Anbaufläche", "150 Beschäftigte", "Jährliche Hirseproduktion: 500 Tonnen", "Bewässerung aus 12 Brunnen", "Durchschnittlicher Jahresniederschlag: 300 mm"],
+      hu: ["Alapítás éve: 1984", "Művelési terület: 200 hektár", "Foglalkoztatottak száma: 150 fő", "Éves kölestermelés: 500 tonna", "Öntözés 12 kútból", "Átlagos évi csapadék: 300 mm"],
+      ro: ["Fondată în 1983", "Suprafață cultivată: 200 ha", "Angajați: 150", "Producție anuală de mei: 500 tone", "Irigație din 12 fântâni", "Precipitații medii anuale: 300 mm"],
+      en: ["Established in 1983", "Cultivated area: 200 hectares", "Workforce: 150 employees", "Annual millet output: 500 tonnes", "Irrigation relies on 12 wells", "Average annual precipitation: 300 mm"],
+    },
+  },
   {
     id: "berbera-park-life-v2",
     type: "kid-landmark",
     parent: "SO-SA",
     coords: [45.0333, 10.4500],
-    name: { de: "Berbera Kinderpark", hu: "Berberai Gyermekpark", ro: "Parc pentru Copii Berbera", en: "Berbera Children's Park",
-image: "/poi-images/berbera-park-life-v2.webp"
-},
+    name: { de: "Berbera Kinderpark", hu: "Berberai Gyermekpark", ro: "Parc pentru Copii Berbera", en: "Berbera Children's Park"},
+    image: "/poi-images/berbera-park-life-v2.webp",
     description: { de: "Ein Park nahe dem Hafen von Berbera für Freizeitaktivitäten.", hu: "Egy park Berbera kikötőjének közelében szabadidős tevékenységekhez.", ro: "Un parc lângă portul Berbera pentru activități recreative.", en: "A park near the port of Berbera for leisure activities." },
     facts: {
       de: ["Schattige Bereiche für Kinder.", "Nahe am Meer gelegen."],
       hu: ["Árnyékos helyek a gyerekeknek.", "Közel a tengerhez."],
       ro: ["Zone umbrite pentru copii.", "Situat aproape de mare."],
       en: ["Shady areas for kids.", "Located near the sea."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Berbera Park an der Küste Somalias ist ein urbaner Erholungsraum, der in den 1990er Jahren angelegt wurde. Er bietet Spielplätze, Grünflächen und einen kleinen See. Der Park ist ein beliebter Treffpunkt für Familien und fördert soziale Interaktion. Mit einer Fläche von etwa 15 Hektar beherbergt er verschiedene Vogelarten und bietet einen Blick auf den Hafen von Berbera. Der Park wurde teilweise mit internationaler Hilfe finanziert und ist ein Symbol für die städtische Entwicklung der Stadt.",
+      hu: "A Berbera Park Szomália tengerparti városában, Berberában található, és az 1990-es években hozták létre. A park játszóterekkel, zöldterületekkel és egy kis tóval rendelkezik, népszerű családi találkozóhely. Területe mintegy 15 hektár, és számos madárfajnak ad otthont. A park részben nemzetközi segítségnyújtásból épült, és Berbera városfejlődésének szimbóluma.",
+      ro: "Parcul Berbera, situat pe coasta Somaliei, în orașul Berbera, este un spațiu urban de recreere creat în anii 1990. Oferă terenuri de joacă, zone verzi și un mic lac, fiind un punct de întâlnire popular pentru familii. Cu o suprafață de aproximativ 15 hectare, găzduiește diverse specii de păsări și oferă o vedere spre portul Berbera. Parcul a fost finanțat parțial cu ajutor internațional și simbolizează dezvoltarea urbană a orașului.",
+      en: "Berbera Park, located in the coastal city of Berbera, Somalia, is an urban recreational space established in the 1990s. It features playgrounds, green areas, and a small lake, serving as a popular family gathering spot. Spanning about 15 hectares, the park hosts various bird species and offers views of Berbera's port. Partially funded by international aid, it symbolizes the city's urban development and community spirit.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1995", "15 Hektar Fläche", "100 Bäume gepflanzt", "Tägliche Besucherzahl: etwa 500", "Drei Spielplätze", "Kleine See mit 2000 m²"],
+      hu: ["Megnyitás éve: 1995", "Terület: 15 hektár", "100 fa ültetve", "Napi látogatók száma: kb. 500", "Három játszótér", "Kis tó: 2000 m²"],
+      ro: ["Deschis în 1995", "Suprafață: 15 ha", "100 de copaci plantați", "Vizitatori zilnici: aprox. 500", "Trei locuri de joacă", "Lac mic: 2000 m²"],
+      en: ["Opened in 1995", "Area: 15 hectares", "100 trees planted", "Daily visitors: approximately 500", "Three playgrounds", "Small lake covering 2000 m²"],
+    },
   }
 ];
 

@@ -10,9 +10,8 @@ export const poiExtraBahamasLandmarksV2: POI[] = [
       de: "Queen's Staircase",
       hu: "Királynő lépcsője",
       ro: "Scara Reginei",
-      en: "Queen's Staircase",
-image: "/poi-images/queens-staircase-nassau-landmarks-v2.webp"
-},
+      en: "Queen's Staircase"},
+    image: "/poi-images/queens-staircase-nassau-landmarks-v2.webp",
     description: {
       de: "Eine historische, aus massivem Kalkstein gehauene Treppe in Nassau, die 66 Stufen umfasst.",
       hu: "Nassau történelmi, tömör mészkőből faragott lépcsője, amely 66 fokból áll.",
@@ -67,9 +66,8 @@ image: "/poi-images/queens-staircase-nassau-landmarks-v2.webp"
       de: "Christ Church Kathedrale",
       hu: "Krisztus Temploma Székesegyház",
       ro: "Catedrala Christ Church",
-      en: "Christ Church Cathedral",
-image: "/poi-images/christ-church-cathedral-landmarks-v2.webp"
-},
+      en: "Christ Church Cathedral"},
+    image: "/poi-images/christ-church-cathedral-landmarks-v2.webp",
     description: {
       de: "Eine bedeutende anglikanische Kirche in Nassau mit beeindruckender Architektur.",
       hu: "Egy jelentős anglikán templom Nassauban, lenyűgöző építészettel.",
@@ -124,9 +122,8 @@ image: "/poi-images/christ-church-cathedral-landmarks-v2.webp"
       de: "Rawson Platz",
       hu: "Rawson tér",
       ro: "Piața Rawson",
-      en: "Rawson Square",
-image: "/poi-images/rawson-square-nassau-landmarks-v2.webp"
-},
+      en: "Rawson Square"},
+    image: "/poi-images/rawson-square-nassau-landmarks-v2.webp",
     description: {
       de: "Das Zentrum des Stadtzentrums von Nassau, oft das Tor für Kreuzfahrtpassagiere.",
       hu: "Nassau belvárosának központja, gyakran a tengerjáró hajók utasainak kapuja.",
@@ -181,9 +178,8 @@ image: "/poi-images/rawson-square-nassau-landmarks-v2.webp"
       de: "Fort Fincastle",
       hu: "Fincastle-erőd",
       ro: "Fortul Fincastle",
-      en: "Fort Fincastle",
-image: "/poi-images/fort-fincastle-landmarks-v2.webp"
-},
+      en: "Fort Fincastle"},
+    image: "/poi-images/fort-fincastle-landmarks-v2.webp",
     description: {
       de: "Ein historisches Fort auf dem Bennet's Hill, das wie ein Raddampfer geformt ist.",
       hu: "Történelmi erőd a Bennet's Hill-en, amely egy lapátkerekes gőzhajóra emlékeztet.",
@@ -238,9 +234,8 @@ image: "/poi-images/fort-fincastle-landmarks-v2.webp"
       de: "Sir Sidney Poitier Brücke",
       hu: "Sir Sidney Poitier híd",
       ro: "Podul Sir Sidney Poitier",
-      en: "Sir Sidney Poitier Bridge",
-image: "/poi-images/sir-sidney-poitier-bridge-landmarks-v2.webp"
-},
+      en: "Sir Sidney Poitier Bridge"},
+    image: "/poi-images/sir-sidney-poitier-bridge-landmarks-v2.webp",
     description: {
       de: "Eine Brücke, die Paradise Island mit der Hauptinsel New Providence verbindet.",
       hu: "Híd, amely a Paradise-szigetet köti össze a New Providence főszigettel.",
@@ -295,9 +290,8 @@ image: "/poi-images/sir-sidney-poitier-bridge-landmarks-v2.webp"
       de: "Baha Mar Resort",
       hu: "Baha Mar Üdülőközpont",
       ro: "Stațiunea Baha Mar",
-      en: "Baha Mar Resort",
-image: "/poi-images/baha-mar-resort-landmarks-v2.webp"
-},
+      en: "Baha Mar Resort"},
+    image: "/poi-images/baha-mar-resort-landmarks-v2.webp",
     description: {
       de: "Ein massiver Hotel- und Casinokomplex, der die Skyline von Cable Beach dominiert.",
       hu: "Egy hatalmas szálloda- és kaszinókomplexum, amely uralja a Cable Beach látképét.",
@@ -352,9 +346,8 @@ image: "/poi-images/baha-mar-resort-landmarks-v2.webp"
       de: "Gregory's Bogen",
       hu: "Gregory-diadalív",
       ro: "Arcul lui Gregory",
-      en: "Gregory's Arch",
-image: "/poi-images/gregorys-arch-landmarks-v2.webp"
-},
+      en: "Gregory's Arch"},
+    image: "/poi-images/gregorys-arch-landmarks-v2.webp",
     description: {
       de: "Ein steinerner Bogen, der eine malerische Grenze zwischen dem Stadtzentrum und der Siedlung 'Over-the-Hill' bildet.",
       hu: "Egy kőív, amely festői határt képez a belváros és az 'Over-the-Hill' negyed között.",
@@ -409,9 +402,8 @@ image: "/poi-images/gregorys-arch-landmarks-v2.webp"
       de: "Kenotaph von Nassau",
       hu: "Nassaui kenotáfium",
       ro: "Cenotaful din Nassau",
-      en: "Nassau Cenotaph",
-image: "/poi-images/nassau-cenotaph-landmarks-v2.webp"
-},
+      en: "Nassau Cenotaph"},
+    image: "/poi-images/nassau-cenotaph-landmarks-v2.webp",
     description: {
       de: "Ein Kriegsdenkmal in Nassau, das den in beiden Weltkriegen gefallenen Bahamaern gewidmet ist.",
       hu: "Egy háborús emlékmű Nassauban, amelyet a két világháborúban elesett bahamaiaknak szenteltek.",
@@ -466,9 +458,8 @@ image: "/poi-images/nassau-cenotaph-landmarks-v2.webp"
       de: "Villa Doyle",
       hu: "Villa Doyle",
       ro: "Vila Doyle",
-      en: "Villa Doyle",
-image: "/poi-images/villa-doyle-landmarks-v2.webp"
-},
+      en: "Villa Doyle"},
+    image: "/poi-images/villa-doyle-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes historisches Herrenhaus, das heute die National Art Gallery of The Bahamas beherbergt.",
       hu: "Egy lenyűgöző történelmi kúria, amely ma a Bahamák Nemzeti Művészeti Galériájának ad otthont.",
@@ -523,9 +514,8 @@ image: "/poi-images/villa-doyle-landmarks-v2.webp"
       de: "Dundas Zentrum für darstellende Künste",
       hu: "Dundas Előadó-művészeti Központ",
       ro: "Centrul de Arte Performative Dundas",
-      en: "Dundas Centre for the Performing Arts",
-image: "/poi-images/dundas-centre-landmarks-v2.webp"
-},
+      en: "Dundas Centre for the Performing Arts"},
+    image: "/poi-images/dundas-centre-landmarks-v2.webp",
     description: {
       de: "Ein markantes Gebäude, das als Herzstück für Theater und Kultur auf den Bahamas fungiert.",
       hu: "Egy jellegzetes épület, amely a színház és a kultúra központjaként működik a Bahamákon.",
@@ -580,9 +570,8 @@ image: "/poi-images/dundas-centre-landmarks-v2.webp"
       de: "Hole-in-the-Wall Leuchtturm",
       hu: "Hole-in-the-Wall világítótorony",
       ro: "Farul Hole-in-the-Wall",
-      en: "Hole-in-the-Wall Lighthouse",
-image: "/poi-images/hole-in-the-wall-lighthouse-landmarks-v2.webp"
-},
+      en: "Hole-in-the-Wall Lighthouse"},
+    image: "/poi-images/hole-in-the-wall-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein abgelegener Leuchtturm an der Südspitze von Great Abaco.",
       hu: "Egy elhagyatott világítótorony Nagy-Abaco déli csücskén.",
@@ -637,9 +626,8 @@ image: "/poi-images/hole-in-the-wall-lighthouse-landmarks-v2.webp"
       de: "Dixon Hill Leuchtturm",
       hu: "Dixon Hill világítótorony",
       ro: "Farul Dixon Hill",
-      en: "Dixon Hill Lighthouse",
-image: "/poi-images/dixon-hill-lighthouse-landmarks-v2.webp"
-},
+      en: "Dixon Hill Lighthouse"},
+    image: "/poi-images/dixon-hill-lighthouse-landmarks-v2.webp",
     description: {
       de: "Einer der letzten handbetriebenen Kerosin-Leuchttürme der Welt, gelegen auf San Salvador.",
       hu: "A világ egyik utolsó, kézzel működtetett kerozin világítótornya, San Salvadoron.",
@@ -694,9 +682,8 @@ image: "/poi-images/dixon-hill-lighthouse-landmarks-v2.webp"
       de: "Great Isaac Leuchtturm",
       hu: "Great Isaac világítótorony",
       ro: "Farul Great Isaac",
-      en: "Great Isaac Lighthouse",
-image: "/poi-images/great-isaac-lighthouse-landmarks-v2.webp"
-},
+      en: "Great Isaac Lighthouse"},
+    image: "/poi-images/great-isaac-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein historischer gusseiserner Leuchtturm, um den sich zahlreiche Geistergeschichten ranken.",
       hu: "Egy történelmi, öntöttvas világítótorony, amelyhez számos kísértettörténet fűződik.",
@@ -751,9 +738,8 @@ image: "/poi-images/great-isaac-lighthouse-landmarks-v2.webp"
       de: "Delfinhaus-Museum",
       hu: "Delfinház Múzeum",
       ro: "Muzeul Casa Delfinilor",
-      en: "Dolphin House Museum",
-image: "/poi-images/dolphin-house-museum-landmarks-v2.webp"
-},
+      en: "Dolphin House Museum"},
+    image: "/poi-images/dolphin-house-museum-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiges Kunsthaus auf Bimini, erbaut aus Muscheln und recycelten Materialien.",
       hu: "Egyedülálló művészház Biminiben, kagylókból és újrahasznosított anyagokból építve.",
@@ -808,9 +794,8 @@ image: "/poi-images/dolphin-house-museum-landmarks-v2.webp"
       de: "Predigerhöhle",
       hu: "Prédikátor-barlang",
       ro: "Peștera Predicatorului",
-      en: "Preacher's Cave",
-image: "/poi-images/preachers-cave-landmarks-v2.webp"
-},
+      en: "Preacher's Cave"},
+    image: "/poi-images/preachers-cave-landmarks-v2.webp",
     description: {
       de: "Eine weitläufige Höhle, die den ersten englischen Siedlern auf den Bahamas als Zuflucht diente.",
       hu: "Egy kiterjedt barlang, amely menedékül szolgált az első angol telepesek számára a Bahamákon.",
@@ -865,9 +850,8 @@ image: "/poi-images/preachers-cave-landmarks-v2.webp"
       de: "Ocean Atlas Statue",
       hu: "Ocean Atlas szobor",
       ro: "Statuia Ocean Atlas",
-      en: "Ocean Atlas Statue",
-image: "/poi-images/ocean-atlas-statue-landmarks-v2.webp"
-},
+      en: "Ocean Atlas Statue"},
+    image: "/poi-images/ocean-atlas-statue-landmarks-v2.webp",
     description: {
       de: "Die größte Unterwasserskulptur der Welt, die ein lokales bahamaisches Mädchen darstellt.",
       hu: "A világ legnagyobb víz alatti szobra, amely egy helyi bahamai lányt ábrázol.",
@@ -922,9 +906,8 @@ image: "/poi-images/ocean-atlas-statue-landmarks-v2.webp"
       de: "Ruinen des Royal Victoria Hotels",
       hu: "A Royal Victoria Hotel romjai",
       ro: "Ruinele Hotelului Royal Victoria",
-      en: "Royal Victoria Hotel Ruins",
-image: "/poi-images/royal-victoria-hotel-ruins-landmarks-v2.webp"
-},
+      en: "Royal Victoria Hotel Ruins"},
+    image: "/poi-images/royal-victoria-hotel-ruins-landmarks-v2.webp",
     description: {
       de: "Die Überreste des ersten Luxushotels der Bahamas, das während des Amerikanischen Bürgerkriegs erbaut wurde.",
       hu: "A Bahamák első luxusszállodájának maradványai, amelyet az amerikai polgárháború alatt építettek.",
@@ -979,9 +962,8 @@ image: "/poi-images/royal-victoria-hotel-ruins-landmarks-v2.webp"
       de: "Eremitage-Grabmal",
       hu: "Remeteség sírhelye",
       ro: "Mormântul Hermitage",
-      en: "Hermitage Tomb",
-image: "/poi-images/hermitage-tomb-landmarks-v2.webp"
-},
+      en: "Hermitage Tomb"},
+    image: "/poi-images/hermitage-tomb-landmarks-v2.webp",
     description: {
       de: "Ein faszinierendes Familiengrabmal aus der Loyalistenzeit auf Exuma.",
       hu: "Lenyűgöző családi sírhely a lojalisták idejéből Exumán.",
@@ -1036,9 +1018,8 @@ image: "/poi-images/hermitage-tomb-landmarks-v2.webp"
       de: "Great Stirrup Cay Leuchtturm",
       hu: "Great Stirrup Cay világítótorony",
       ro: "Farul Great Stirrup Cay",
-      en: "Great Stirrup Cay Lighthouse",
-image: "/poi-images/great-stirrup-cay-lighthouse-landmarks-v2.webp"
-},
+      en: "Great Stirrup Cay Lighthouse"},
+    image: "/poi-images/great-stirrup-cay-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein historisches Seezeichen auf einer Privatinsel in den Berry Islands.",
       hu: "Történelmi tengeri jelzőfény egy magánszigeten, a Berry-szigeteken.",
@@ -1093,9 +1074,8 @@ image: "/poi-images/great-stirrup-cay-lighthouse-landmarks-v2.webp"
       de: "Oberster Gerichtshof der Bahamas",
       hu: "A Bahamák Legfelsőbb Bírósága",
       ro: "Curtea Supremă a Bahamasului",
-      en: "Supreme Court of the Bahamas",
-image: "/poi-images/supreme-court-landmarks-v2.webp"
-},
+      en: "Supreme Court of the Bahamas"},
+    image: "/poi-images/supreme-court-landmarks-v2.webp",
     description: {
       de: "Ein klassisches Kolonialgebäude, das als höchstes juristisches Zentrum der Bahamas dient.",
       hu: "Egy klasszikus gyarmati épület, amely a Bahamák legfőbb jogi központjaként szolgál.",
@@ -1150,9 +1130,8 @@ image: "/poi-images/supreme-court-landmarks-v2.webp"
       de: "Postamt an der Shirley Street",
       hu: "Shirley Street-i postahivatal",
       ro: "Oficiul poștal Shirley Street",
-      en: "Shirley Street Post Office",
-image: "/poi-images/shirley-street-post-office-landmarks-v2.webp"
-},
+      en: "Shirley Street Post Office"},
+    image: "/poi-images/shirley-street-post-office-landmarks-v2.webp",
     description: {
       de: "Ein markantes Gebäude der Regierung, das Postdienste für die Innenstadt bereitstellte.",
       hu: "Egy jellegzetes kormányzati épület, amely postai szolgáltatásokat nyújtott a belváros számára.",
@@ -1207,9 +1186,8 @@ image: "/poi-images/shirley-street-post-office-landmarks-v2.webp"
       de: "Anglikanische Kirche St. Matthew",
       hu: "Szent Máté anglikán templom",
       ro: "Biserica Anglicană Sfântul Matei",
-      en: "Saint Matthew's Anglican Church",
-image: "/poi-images/saint-matthews-anglican-church-landmarks-v2.webp"
-},
+      en: "Saint Matthew's Anglican Church"},
+    image: "/poi-images/saint-matthews-anglican-church-landmarks-v2.webp",
     description: {
       de: "Das älteste erhaltene Kirchengebäude in der Stadt Nassau.",
       hu: "Nassau városának legrégebbi fennmaradt templomépülete.",
@@ -1264,9 +1242,8 @@ image: "/poi-images/saint-matthews-anglican-church-landmarks-v2.webp"
       de: "Thomas A. Robinson Nationalstadion",
       hu: "Thomas A. Robinson Nemzeti Stadion",
       ro: "Stadionul Național Thomas A. Robinson",
-      en: "Thomas A. Robinson National Stadium",
-image: "/poi-images/thomas-a-robinson-stadium-landmarks-v2.webp"
-},
+      en: "Thomas A. Robinson National Stadium"},
+    image: "/poi-images/thomas-a-robinson-stadium-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Sportstadion der Bahamas, oft Austragungsort internationaler Leichtathletikwettbewerbe.",
       hu: "A Bahamák legfontosabb sportstadionja, gyakran nemzetközi atlétikai versenyek helyszíne.",
@@ -1321,9 +1298,8 @@ image: "/poi-images/thomas-a-robinson-stadium-landmarks-v2.webp"
       de: "SS Sapona Schiffswrack",
       hu: "SS Sapona hajóroncs",
       ro: "Epava SS Sapona",
-      en: "SS Sapona Shipwreck",
-image: "/poi-images/ss-sapona-shipwreck-landmarks-v2.webp"
-},
+      en: "SS Sapona Shipwreck"},
+    image: "/poi-images/ss-sapona-shipwreck-landmarks-v2.webp",
     description: {
       de: "Ein sichtbares Wrack eines Betonschiffs südlich von Bimini, das zu einem bekannten Tauchziel wurde.",
       hu: "Egy betonhajó látható roncsa Biminitől délre, amely ismert búvárcélponttá vált.",
@@ -1378,9 +1354,8 @@ image: "/poi-images/ss-sapona-shipwreck-landmarks-v2.webp"
       de: "Compass Point Studios",
       hu: "Compass Point Stúdió",
       ro: "Studiourile Compass Point",
-      en: "Compass Point Studios",
-image: "/poi-images/compass-point-studios-landmarks-v2.webp"
-},
+      en: "Compass Point Studios"},
+    image: "/poi-images/compass-point-studios-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliges berühmtes Tonstudio in Nassau, in dem in den 1980er Jahren viele Weltstars aufnahmen.",
       hu: "Egy egykori híres hangstúdió Nassauban, ahol az 1980-as években sok világsztár rögzített.",
@@ -1435,9 +1410,8 @@ image: "/poi-images/compass-point-studios-landmarks-v2.webp"
       de: "Kendal G. L. Isaacs Nationalturnhalle",
       hu: "Kendal G. L. Isaacs Nemzeti Tornacsarnok",
       ro: "Sala Națională Kendal G. L. Isaacs",
-      en: "Kendal G. L. Isaacs National Gymnasium",
-image: "/poi-images/kendal-isaacs-gymnasium-landmarks-v2.webp"
-},
+      en: "Kendal G. L. Isaacs National Gymnasium"},
+    image: "/poi-images/kendal-isaacs-gymnasium-landmarks-v2.webp",
     description: {
       de: "Eine vielseitig genutzte Indoor-Arena in Nassau, die sportliche und kulturelle Veranstaltungen ausrichtet.",
       hu: "Többcélú fedett aréna Nassauban, amely sport- és kulturális eseményeknek ad otthont.",
@@ -1492,9 +1466,8 @@ image: "/poi-images/kendal-isaacs-gymnasium-landmarks-v2.webp"
       de: "Clifton Heritage Ruinen",
       hu: "Clifton Heritage romok",
       ro: "Ruinele Clifton Heritage",
-      en: "Clifton Heritage Ruins",
-image: "/poi-images/clifton-heritage-ruins-landmarks-v2.webp"
-},
+      en: "Clifton Heritage Ruins"},
+    image: "/poi-images/clifton-heritage-ruins-landmarks-v2.webp",
     description: {
       de: "Ein historisches Gelände im Westen von New Providence, das Überreste von Lucayan-Dörfern und Plantagen umfasst.",
       hu: "Történelmi terület New Providence nyugati részén, amely lucayan falvak és ültetvények romjait foglalja magában.",
@@ -1549,9 +1522,8 @@ image: "/poi-images/clifton-heritage-ruins-landmarks-v2.webp"
       de: "St. Francis Xavier Kathedrale",
       hu: "Xavéri Szent Ferenc Székesegyház",
       ro: "Catedrala Sfântul Francisc Xavier",
-      en: "St. Francis Xavier Cathedral",
-image: "/poi-images/st-francis-xavier-cathedral-landmarks-v2.webp"
-},
+      en: "St. Francis Xavier Cathedral"},
+    image: "/poi-images/st-francis-xavier-cathedral-landmarks-v2.webp",
     description: {
       de: "Die erste katholische Kirche, die auf den Bahamas gebaut wurde, mit beeindruckender gotischer Architektur.",
       hu: "A Bahamákon épült első katolikus templom, lenyűgöző gótikus építészettel.",
@@ -1606,9 +1578,8 @@ image: "/poi-images/st-francis-xavier-cathedral-landmarks-v2.webp"
       de: "Architektur des Pink Sands Hotels",
       hu: "A Pink Sands Hotel építészete",
       ro: "Arhitectura Hotelului Pink Sands",
-      en: "Pink Sands Hotel Architecture",
-image: "/poi-images/pink-sands-hotel-architecture-landmarks-v2.webp"
-},
+      en: "Pink Sands Hotel Architecture"},
+    image: "/poi-images/pink-sands-hotel-architecture-landmarks-v2.webp",
     description: {
       de: "Ein ikonisches Resort auf Harbour Island, bekannt für seine charakteristischen pastellfarbenen Hütten.",
       hu: "Ikonikus üdülőhely Harbour Islanden, amely jellegzetes pasztellszínű házikóiról ismert.",
@@ -1663,9 +1634,8 @@ image: "/poi-images/pink-sands-hotel-architecture-landmarks-v2.webp"
       de: "Polizeiwache Alice Town",
       hu: "Alice Town-i rendőrőrs",
       ro: "Secția de Poliție Alice Town",
-      en: "Alice Town Police Station",
-image: "/poi-images/alice-town-police-station-landmarks-v2.webp"
-},
+      en: "Alice Town Police Station"},
+    image: "/poi-images/alice-town-police-station-landmarks-v2.webp",
     description: {
       de: "Ein historisches Verwaltungsgebäude in Bimini, das oft von Besuchern wegen seines charmanten kolonialen Aussehens fotografiert wird.",
       hu: "Történelmi közigazgatási épület Biminiben, amelyet bájos gyarmati megjelenése miatt gyakran fényképeznek a látogatók.",

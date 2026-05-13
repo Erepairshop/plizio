@@ -7,9 +7,8 @@ export const poiExtraSomaliaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "SO-BN",
     coords: [45.3182, 2.0469],
-    name: { de: "Mogadischu", hu: "Mogadishu", ro: "Mogadishu", en: "Mogadishu",
-image: "/poi-images/mogadishu-cities-v2.webp"
-},
+    name: { de: "Mogadischu", hu: "Mogadishu", ro: "Mogadishu", en: "Mogadishu"},
+    image: "/poi-images/mogadishu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt am Indischen Ozean ist das politische und wirtschaftliche Zentrum des Landes mit einem bedeutenden Seehafen.",
       hu: "Az Indiai-óceán partján fekvő főváros az ország politikai és gazdasági központja, egy fontos tengeri kikötővel.",
@@ -38,9 +37,8 @@ image: "/poi-images/mogadishu-cities-v2.webp"
     type: "city",
     parent: "SO-WO",
     coords: [44.0626, 9.5598],
-    name: { de: "Hargeisa", hu: "Hargeysa", ro: "Hargeisa", en: "Hargeisa",
-image: "/poi-images/hargeisa-cities-v2.webp"
-},
+    name: { de: "Hargeisa", hu: "Hargeysa", ro: "Hargeisa", en: "Hargeisa"},
+    image: "/poi-images/hargeisa-cities-v2.webp",
     description: {
       de: "Eine geschäftige Metropole im Norden, die als Verwaltungssitz der Region Woqooyi Galbeed dient und für ihre lebhaften Märkte bekannt ist.",
       hu: "Egy nyüzsgő északi metropolisz, amely a Woqooyi Galbeed régió közigazgatási székhelyeként szolgál, és nyüzsgő piacairól ismert.",
@@ -51,15 +49,27 @@ image: "/poi-images/hargeisa-cities-v2.webp"
       hu: ["Északi közigazgatási központ", "A Naasa Hablood dombról ismert", "Jelentős állatpiac"],
       ro: ["Sediul administrativ din nord", "Cunoscut pentru dealul Naasa Hablood", "Piață importantă de animale"],
       en: ["Northern administrative seat", "Known for Naasa Hablood hill", "Major livestock market"]
-    }, image: "/poi-images/hargeisa-cities-v2.webp"},
+    }, image: "/poi-images/hargeisa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hargeisa ist die Hauptstadt von Somaliland, einer de facto unabhängigen Region im Norden Somalias. Die Stadt liegt in einem Tal im Hochland von Ogo und hat etwa 1,5 Millionen Einwohner. Hargeisa war historisch ein Zentrum des Karawanenhandels und wurde im 19. Jahrhundert gegründet. Während des somalischen Bürgerkriegs wurde die Stadt 1988 schwer bombardiert. Seitdem wurde sie wieder aufgebaut und erlebt ein starkes Bevölkerungswachstum. Die Wirtschaft basiert auf Dienstleistungen, Bauwesen und Überweisungen aus der Diaspora. Sehenswürdigkeiten sind der Zentralmarkt, das Wachsend-Hügel-Gebiet und die Friedensstatue. Hargeisa hat einen internationalen Flughafen und ist Sitz der Regierung von Somaliland.",
+      hu: "Hargeisa Szomáliföld fővárosa, egy de facto független régió Szomália északi részén. A város az Ogo-fennsík egyik völgyében fekszik, lakossága körülbelül 1,5 millió fő. Történelmileg karavánkereskedelmi központ volt, a 19. században alapították. A szomáliai polgárháború alatt, 1988-ban súlyos bombázások érték. Azóta újjáépítették, és erős népességnövekedést tapasztal. Gazdasága a szolgáltatásokon, az építőiparon és a diaszpórából érkező átutalásokon alapul. Nevezetességei a központi piac, a Wachsend-hegyi terület és a Béke szobor. Hargeisában nemzetközi repülőtér működik, és itt van Szomáliföld kormányának székhelye.",
+      ro: "Hargeisa este capitala Somalilandului, o regiune de facto independentă din nordul Somaliei. Orașul este situat într-o vale a Podișului Ogo, cu aproximativ 1,5 milioane de locuitori. A fost un centru istoric al comerțului caravanier, fondat în secolul al XIX-lea. În timpul războiului civil somalez, în 1988, a fost puternic bombardat. De atunci a fost reconstruit și se confruntă cu o creștere rapidă a populației. Economia se bazează pe servicii, construcții și remitențe din diasporă. Atracțiile includ piața centrală, zona Dealul Wachsend și Statuia Păcii. Hargeisa are un aeroport internațional și este sediul guvernului Somalilandului.",
+      en: "Hargeisa is the capital of Somaliland, a de facto independent region in northern Somalia. Located in the Ogo Highlands valley, it has a population of about 1.5 million. Historically a caravan trade hub, it was founded in the 19th century. Heavily bombed during the Somali civil war in 1988, it has since been rebuilt and is experiencing rapid urbanization. The economy relies on services, construction, and diaspora remittances. Landmarks include the Central Market, the Peace Statue, and the Wachsend Hill area. Hargeisa hosts an international airport and is the seat of the Somaliland government.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 1,5 Millionen (2023)", "Höhe: 1.334 Meter über dem Meer", "Gegründet: 19. Jahrhundert (ca. 1850)", "Bombardierung: 1988 während des Bürgerkriegs", "Internationaler Flughafen: Hargeisa Egal International Airport", "Fläche: 78 km²"],
+      hu: ["Lakosság: kb. 1,5 millió (2023)", "Tengerszint feletti magasság: 1334 méter", "Alapítás: 19. század (kb. 1850)", "Bombázás: 1988 a polgárháború során", "Nemzetközi repülőtér: Hargeisa Egal nemzetközi repülőtér", "Terület: 78 km²"],
+      ro: ["Populație: aproximativ 1,5 milioane (2023)", "Altitudine: 1.334 metri deasupra mării", "Fondat: secolul al XIX-lea (cca. 1850)", "Bombardat: 1988 în timpul războiului civil", "Aeroport internațional: Aeroportul Internațional Hargeisa Egal", "Suprafață: 78 km²"],
+      en: ["Population: approx. 1.5 million (2023)", "Elevation: 1,334 meters above sea level", "Founded: 19th century (ca. 1850)", "Bombed: 1988 during civil war", "International airport: Hargeisa Egal International Airport", "Area: 78 km²"],
+    },
+  },
   {
     id: "burao-cities-v2",
     type: "city",
     parent: "SO-TO",
     coords: [45.5663, 9.5221],
-    name: { de: "Burao", hu: "Burao", ro: "Burao", en: "Burao",
-image: "/poi-images/burao-cities-v2.webp"
-},
+    name: { de: "Burao", hu: "Burao", ro: "Burao", en: "Burao"},
+    image: "/poi-images/burao-cities-v2.webp",
     description: {
       de: "Diese wichtige Handelsstadt liegt in der Region Togdheer und verbindet verschiedene nomadische Gemeinschaften der Umgebung.",
       hu: "Ez a fontos kereskedőváros a Togdheer régióban található, és összeköti a környező nomád közösségeket.",
@@ -70,15 +80,27 @@ image: "/poi-images/burao-cities-v2.webp"
       hu: ["A második legnagyobb északi város", "Togdheer régió központja", "Fontos közlekedési csomópont"],
       ro: ["Al doilea cel mai mare oraș din nord", "Centrul regiunii Togdheer", "Nod important de transport"],
       en: ["Second largest northern city", "Center of Togdheer region", "Crucial transport hub"]
-    }, image: "/poi-images/burao-cities-v2.webp"},
+    }, image: "/poi-images/burao-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Burao (auch Bur'o) ist eine Stadt in der Region Togdheer in Somaliland, Somalia. Sie ist die zweitgrößte Stadt Somalilands mit etwa 500.000 Einwohnern. Burao liegt auf einer Hochebene in der Nähe des Nugaal-Tals. Historisch war es ein wichtiger Viehhandelsplatz, insbesondere für Kamele. Die Stadt wurde im Bürgerkrieg stark zerstört, aber nach 1991 wieder aufgebaut. Heute ist Burao ein wirtschaftliches Zentrum für den Norden Somalilands, mit einem großen Viehmarkt und einem Flughafen. Die Bevölkerung besteht hauptsächlich aus Nomaden, die sich teilweise niedergelassen haben. Die Stadt hat ein halbtrockenes Klima mit heißen Sommern milden Wintern. Bildungseinrichtungen wie die Universität von Burao entstehen.",
+      hu: "Burao (más néven Bur'o) egy város Szomáliföldön, a Togdheer régióban, Szomáliában. Ez Szomáliföld második legnagyobb városa, kb. 500 000 lakossal. Burao egy fennsíkon fekszik a Nugaal-völgy közelében. Történelmileg fontos állatkereskedelmi központ volt, különösen a tevéké. A polgárháborúban súlyosan károsodott, de 1991 után újjáépítették. Ma Burao Szomáliföld északi részének gazdasági központja, nagy állatpiaccal és repülőtérrel. Lakossága nagyrészt letelepedett nomádokból áll. A város felszáraz éghajlatú, forró nyarakkal és enyhe telekkel. Oktatási intézmények, mint a Buraoi Egyetem, fejlődnek.",
+      ro: "Burao (numit și Bur'o) este un oraș din regiunea Togdheer a Somalilandului, Somalia. Este al doilea oraș ca mărime din Somaliland, cu aproximativ 500.000 de locuitori. Burao este situat pe un platou lângă Valea Nugaal. Istoric, a fost un centru important de comerț cu animale, în special cu camile. Orașul a fost grav avariat în războiul civil, dar reconstruit după 1991. Astăzi, Burao este un centru economic pentru nordul Somalilandului, cu o piață mare de vite și un aeroport. Populația este formată în principal din nomazi stabiliți. Clima este semi-aridă, cu veri fierbinți și ierni blânde. Instituțiile de învățământ, cum ar fi Universitatea Burao, sunt în curs de dezvoltare.",
+      en: "Burao (also Bur'o) is a city in the Togdheer region of Somaliland, Somalia. It is the second-largest city in Somaliland with about 500,000 inhabitants. Located on a plateau near the Nugaal Valley, it was historically a major livestock trading center, especially for camels. The city was heavily damaged during the civil war but rebuilt after 1991. Today, Burao is an economic hub for northern Somaliland, featuring a large livestock market and an airport. The population is predominantly settled nomads. It has a semi-arid climate with hot summers and mild winters. Educational institutions like Burao University are emerging.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 500.000 (2023)", "Höhe: 1.037 Meter über dem Meer", "Viehmarkt: größter in Somaliland", "Wiederaufbau: ab 1991", "Flughafen: Burao Airport (IATA: BUO)", "Durchschnittstemperatur: 25°C"],
+      hu: ["Lakosság: kb. 500 000 (2023)", "Tengerszint feletti magasság: 1037 méter", "Állatpiac: a legnagyobb Szomáliföldön", "Újjáépítés: 1991-től", "Repülőtér: Burao repülőtér (IATA: BUO)", "Átlaghőmérséklet: 25°C"],
+      ro: ["Populație: aprox. 500.000 (2023)", "Altitudine: 1.037 metri deasupra mării", "Piața de vite: cea mai mare din Somaliland", "Reconstrucție: din 1991", "Aeroport: Aeroportul Burao (IATA: BUO)", "Temperatura medie: 25°C"],
+      en: ["Population: approx. 500,000 (2023)", "Elevation: 1,037 meters above sea level", "Livestock market: largest in Somaliland", "Rebuilt: from 1991", "Airport: Burao Airport (IATA: BUO)", "Average temperature: 25°C"],
+    },
+  },
   {
     id: "bossaso-cities-v2",
     type: "city",
     parent: "SO-BR",
     coords: [49.1816, 11.2842],
-    name: { de: "Bossaso", hu: "Boosaaso", ro: "Boosaaso", en: "Boosaaso",
-image: "/poi-images/bossaso-cities-v2.webp"
-},
+    name: { de: "Bossaso", hu: "Boosaaso", ro: "Boosaaso", en: "Boosaaso"},
+    image: "/poi-images/bossaso-cities-v2.webp",
     description: {
       de: "Eine schnell wachsende Hafenstadt am Golf von Aden, die als kommerzielles Zentrum für den nordöstlichen Teil des Landes fungiert.",
       hu: "Gyorsan növekvő kikötőváros az Ádeni-öbölben, amely az ország északkeleti részének kereskedelmi központjaként működik.",
@@ -89,15 +111,27 @@ image: "/poi-images/bossaso-cities-v2.webp"
       hu: ["Jelentős északi tengeri kikötő", "Bari régió fővárosa", "Fontos exportközpont"],
       ro: ["Port maritim important în nord", "Capitala regiunii Bari", "Centru important de export"],
       en: ["Major northern seaport", "Capital of Bari region", "Important export center"]
-    }, image: "/poi-images/bossaso-cities-v2.webp"},
+    }, image: "/poi-images/bossaso-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Boosaaso (auch Bossaso) ist eine Hafenstadt im Nordosten Somalias in der Region Bari, de facto Teil von Puntland. Mit etwa 700.000 Einwohnern ist sie die wichtigste Hafenstadt Puntlands und ein Zentrum des Seehandels. Der Hafen von Boosaaso ist einer der verkehrsreichsten in Somalia, über den Vieh, Weihrauch und Importgüter umgeschlagen werden. Die Stadt liegt am Golf von Aden und hat ein trockenes Klima. Boosaaso erlebte in den 2000er Jahren einen Bauboom, getrieben durch Handel und Überweisungen. Sehenswürdigkeiten sind der Hafen, die Strände und der zentrale Markt. Die Universität Boosaaso wurde 2009 gegründet. Die Stadt war Ziel mehrerer Piratenangriffe, was zu Sicherheitsvorkehrungen führte.",
+      hu: "Boosaaso (más néven Bossaso) egy kikötőváros Szomália északkeleti részén, a Bari régióban, de facto Puntland része. Körülbelül 700 000 lakosával Puntland legfontosabb kikötővárosa és a tengeri kereskedelem központja. Boosaaso kikötője az egyik legforgalmasabb Szomáliában, ahol élőállatot, tömjént és importárut rakodnak. A város az Ádeni-öböl partján fekszik, száraz éghajlatú. A 2000-es években építési fellendülést élt át a kereskedelem és az átutalások miatt. Látnivalói a kikötő, a strandok és a központi piac. A Boosaasói Egyetemet 2009-ben alapították. A várost több kalóztámadás érte, ami biztonsági intézkedésekhez vezetett.",
+      ro: "Boosaaso (numit și Bossaso) este un oraș portuar în nord-estul Somaliei, în regiunea Bari, parte de facto a Puntlandului. Cu aproximativ 700.000 de locuitori, este cel mai important port al Puntlandului și un centru al comerțului maritim. Portul Boosaaso este unul dintre cele mai aglomerate din Somalia, manipulant vite, tămâie și mărfuri importate. Orașul este situat pe Golful Aden și are un climat arid. A cunoscut un boom al construcțiilor în anii 2000, datorită comerțului și remitențelor. Atracțiile includ portul, plajele și piața centrală. Universitatea Boosaaso a fost fondată în 2009. Orașul a fost ținta mai multor atacuri piraților, ceea ce a dus la măsuri de securitate.",
+      en: "Boosaaso (also Bossaso) is a port city in northeastern Somalia's Bari region, de facto part of Puntland. With about 700,000 residents, it is Puntland's main port and a hub for maritime trade. The Port of Boosaaso is among the busiest in Somalia, handling livestock, frankincense, and imports. Located on the Gulf of Aden, it has an arid climate. The city experienced a construction boom in the 2000s driven by trade and remittances. Landmarks include the port, beaches, and central market. Boosaaso University was founded in 2009. The city has faced pirate attacks, leading to enhanced security measures.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 700.000 (2023)", "Hafenumschlag: 1 Million Tonnen pro Jahr", "Gegründet: 19. Jahrhundert als Fischerdorf", "Universität gegründet: 2009", "Lage: Golf von Aden", "Durchschnittsniederschlag: 120 mm/Jahr"],
+      hu: ["Lakosság: kb. 700 000 (2023)", "Kikötői forgalom: 1 millió tonna évente", "Alapítás: 19. század halászfalu", "Egyetem alapítva: 2009", "Elhelyezkedés: Ádeni-öböl", "Átlagos csapadék: 120 mm/év"],
+      ro: ["Populație: aprox. 700.000 (2023)", "Manipulare portuară: 1 milion tone/an", "Fondat: secolul al XIX-lea ca sat de pescari", "Universitate fondată: 2009", "Locație: Golful Aden", "Precipitații medii: 120 mm/an"],
+      en: ["Population: approx. 700,000 (2023)", "Port throughput: 1 million tons per year", "Founded: 19th century as fishing village", "University founded: 2009", "Location: Gulf of Aden", "Average rainfall: 120 mm/year"],
+    },
+  },
   {
     id: "beledweyne-cities-v2",
     type: "city",
     parent: "SO-HI",
     coords: [45.2036, 4.7358],
-    name: { de: "Beledweyne", hu: "Beledweyne", ro: "Beledweyne", en: "Beledweyne",
-image: "/poi-images/beledweyne-cities-v2.webp"
-},
+    name: { de: "Beledweyne", hu: "Beledweyne", ro: "Beledweyne", en: "Beledweyne"},
+    image: "/poi-images/beledweyne-cities-v2.webp",
     description: {
       de: "Die Stadt wird durch den Fluss Shabelle in zwei Teile geteilt und bildet ein strategisches Zentrum im zentralen Somalia.",
       hu: "A várost a Shabelle folyó osztja két részre, és stratégiai központot alkot Közép-Szomáliában.",
@@ -108,15 +142,27 @@ image: "/poi-images/beledweyne-cities-v2.webp"
       hu: ["A Shabelle folyó mentén fekszik", "Hiiraan régió fővárosa", "Mezőgazdasági központ"],
       ro: ["Situat pe râul Shabelle", "Capitala regiunii Hiiraan", "Centru agricol"],
       en: ["Located on the Shabelle River", "Capital of Hiiraan region", "Agricultural center"]
-    }, image: "/poi-images/beledweyne-cities-v2.webp"},
+    }, image: "/poi-images/beledweyne-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Beledweyne (auch Belet Weyne) ist eine Stadt im Süden Somalias, die Hauptstadt der Region Hiran. Sie liegt am Fluss Shebelle und hat etwa 400.000 Einwohner. Die Stadt ist in zwei Teile geteilt: Beledweyne an der Westseite des Flusses und die kleinere Siedlung Beledweyne Ost. Die Landwirtschaft ist der wichtigste Wirtschaftszweig, mit Anbau von Mais, Sorghum und Gemüse. Beledweyne war Schauplatz von Kämpfen während des somalischen Bürgerkriegs und zwischen der somalischen Regierung und Al-Shabaab. Der Fluss Shebelle liefert Wasser für Bewässerung, verursacht aber auch Überschwemmungen. Die Stadt hat einen kleinen Flughafen. Beledweyne ist ethnisch gemischt, hauptsächlich Somali.",
+      hu: "Beledweyne (más néven Belet Weyne) egy város Dél-Szomáliában, a Hiran régió fővárosa. A Shebelle folyó partján fekszik, lakossága kb. 400 000 fő. A város két részre oszlik: a folyó nyugati oldalán fekvő Beledweyne és a kisebb Beledweyne Kelet. A mezőgazdaság a legfontosabb gazdasági ág, kukorica, cirok és zöldségek termesztésével. Beledweyne harcok színhelye volt a szomáliai polgárháborúban és a szomáliai kormány és az Al-Shabaab között. A Shebelle folyó öntözővizet biztosít, de árvizeket is okoz. A városnak kis repülőtere van. Beledweyne etnikailag vegyes, főleg szomáliai.",
+      ro: "Beledweyne (numit și Belet Weyne) este un oraș din sudul Somaliei, capitala regiunii Hiran. Este situat pe râul Shebelle și are aproximativ 400.000 de locuitori. Orașul este împărțit în două părți: Beledweyne de Vest și așezarea mai mică Beledweyne de Est. Agricultura este principala activitate economică, cu culturi de porumb, sorg și legume. Beledweyne a fost scena luptelor în timpul războiului civil somalez și între guvernul somalez și Al-Shabaab. Râul Shebelle furnizează apă pentru irigații, dar provoacă și inundații. Orașul are un mic aeroport. Beledweyne este divers din punct de vedere etnic, predominant somalez.",
+      en: "Beledweyne (also Belet Weyne) is a city in southern Somalia, capital of the Hiran region. It lies on the Shebelle River and has about 400,000 inhabitants. The city splits into two parts: Beledweyne West and the smaller Beledweyne East. Agriculture is the main economic activity, growing maize, sorghum, and vegetables. Beledweyne has seen fighting during the Somali civil war and between the Somali government and Al-Shabaab. The Shebelle River provides irrigation but also causes flooding. The city has a small airport. Beledweyne is ethnically mixed, predominantly Somali.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 400.000 (2023)", "Höhe: 182 Meter über dem Meer", "Fluss Shebelle: Länge 2.514 km", "Landwirtschaft: Hauptanbau Mais (Ernte 20.000 t/Jahr)", "Flughafen: Beledweyne Airport (IATA: BLW)", "Überschwemmung 2020: 80% der Stadt überflutet"],
+      hu: ["Lakosság: kb. 400 000 (2023)", "Tengerszint feletti magasság: 182 méter", "Shebelle folyó: hossza 2514 km", "Mezőgazdaság: fő termény kukorica (20 000 t/év)", "Repülőtér: Beledweyne Airport (IATA: BLW)", "Árvíz 2020: a város 80%-a elöntött"],
+      ro: ["Populație: aprox. 400.000 (2023)", "Altitudine: 182 metri deasupra mării", "Râul Shebelle: lungime 2.514 km", "Agricultură: cultura principală porumb (20.000 t/an)", "Aeroport: Aeroportul Beledweyne (IATA: BLW)", "Inundație 2020: 80% din oraș inundat"],
+      en: ["Population: approx. 400,000 (2023)", "Elevation: 182 meters above sea level", "Shebelle River: length 2,514 km", "Agriculture: main crop maize (20,000 t/year)", "Airport: Beledweyne Airport (IATA: BLW)", "Flood 2020: 80% of city inundated"],
+    },
+  },
   {
     id: "baidoa-cities-v2",
     type: "city",
     parent: "SO-BY",
     coords: [43.6498, 3.1138],
-    name: { de: "Baidoa", hu: "Baidoa", ro: "Baidoa", en: "Baidoa",
-image: "/poi-images/baidoa-cities-v2.webp"
-},
+    name: { de: "Baidoa", hu: "Baidoa", ro: "Baidoa", en: "Baidoa"},
+    image: "/poi-images/baidoa-cities-v2.webp",
     description: {
       de: "Baidoa ist für seine Agrarproduktion bekannt und dient als wichtiges wirtschaftliches Herzstück der Region Bay.",
       hu: "Baidoa mezőgazdasági termeléséről ismert, és a Bay régió fontos gazdasági központja.",
@@ -127,15 +173,27 @@ image: "/poi-images/baidoa-cities-v2.webp"
       hu: ["A Bay régió központja", "Cirok termesztéséről ismert", "Történelmi csomópont város"],
       ro: ["Centrul regiunii Bay", "Cunoscut pentru cultivarea sorgului", "Oraș nod istoric"],
       en: ["Center of the Bay region", "Known for sorghum cultivation", "Historical hub city"]
-    }, image: "/poi-images/baidoa-cities-v2.webp"},
+    }, image: "/poi-images/baidoa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Baidoa (auch Baydhabo) ist eine Stadt im Süden Somalias, Hauptstadt der Region Bay. Sie liegt etwa 240 Kilometer nordwestlich von Mogadischu und hat etwa 800.000 Einwohner. Baidoa war von 2005 bis 2009 Sitz der Übergangsregierung Somalias. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Sorghum und Bohnen. Baidoa wurde im Bürgerkrieg schwer zerstört, aber durch Hilfe und Rückkehrer wieder aufgebaut. Die Bevölkerung besteht hauptsächlich aus dem Clan der Rahanweyn. Baidoa hat einen Flughafen und mehrere Universitäten, darunter die Universität von Süd-Somalia. Die Stadt leidet unter Dürren und Überschwemmungen.",
+      hu: "Baidoa (más néven Baydhabo) egy város Dél-Szomáliában, a Bay régió fővárosa. Mogadishutól kb. 240 km-re északnyugatra fekszik, lakossága kb. 800 000 fő. Baidoa 2005 és 2009 között Szomália átmeneti kormányának székhelye volt. A város mezőgazdasági központ, híres a cirok- és babtermesztésről. Baidoa a polgárháborúban súlyosan megsemmisült, de segélyek és visszatérők révén újjáépült. A lakosság főként a Rahanweyn klánhoz tartozik. Baidoának repülőtere és több egyeteme van, köztük a Dél-Szomáliai Egyetem. A város aszályoktól és árvizektől szenved.",
+      ro: "Baidoa (numit și Baydhabo) este un oraș din sudul Somaliei, capitala regiunii Bay. Se află la aproximativ 240 km nord-vest de Mogadishu și are aproximativ 800.000 de locuitori. Baidoa a fost sediul guvernului de tranziție al Somaliei între 2005 și 2009. Orașul este un centru agricol, cunoscut pentru cultivarea sorgului și a fasolei. Baidoa a fost grav distrus în războiul civil, dar reconstruit cu ajutor și prin întoarcerea refugiaților. Populația aparține în principal clanului Rahanweyn. Baidoa are un aeroport și mai multe universități, inclusiv Universitatea din Sudul Somaliei. Orașul suferă de secete și inundații.",
+      en: "Baidoa (also Baydhabo) is a city in southern Somalia, capital of the Bay region. Located about 240 km northwest of Mogadishu, it has about 800,000 residents. Baidoa hosted the Somali Transitional Government from 2005 to 2009. It is an agricultural center, known for sorghum and bean cultivation. The city was heavily damaged in the civil war but rebuilt through aid and returnees. The population is predominantly from the Rahanweyn clan. Baidoa has an airport and several universities, including the University of Southern Somalia. The city faces droughts and floods.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 800.000 (2023)", "Entfernung zu Mogadischu: 240 km", "Höhe: 430 Meter über dem Meer", "Übergangsregierung: 2005–2009", "Universität von Süd-Somalia gegründet: 2008", "Jährliche Niederschlagsmenge: 550 mm"],
+      hu: ["Lakosság: kb. 800 000 (2023)", "Távolság Mogadishutól: 240 km", "Tengerszint feletti magasság: 430 méter", "Átmeneti kormány: 2005–2009", "Dél-Szomáliai Egyetem alapítva: 2008", "Éves csapadék: 550 mm"],
+      ro: ["Populație: aprox. 800.000 (2023)", "Distanță până la Mogadishu: 240 km", "Altitudine: 430 metri deasupra mării", "Guvern de tranziție: 2005–2009", "Universitatea din Sudul Somaliei fondată: 2008", "Precipitații anuale: 550 mm"],
+      en: ["Population: approx. 800,000 (2023)", "Distance to Mogadishu: 240 km", "Elevation: 430 meters above sea level", "Transitional government: 2005-2009", "University of Southern Somalia founded: 2008", "Annual rainfall: 550 mm"],
+    },
+  },
   {
     id: "galkayo-cities-v2",
     type: "city",
     parent: "SO-MU",
     coords: [47.3260, 6.7697],
-    name: { de: "Galkayo", hu: "Galkayo", ro: "Galkayo", en: "Galkayo",
-image: "/poi-images/galkayo-cities-v2.webp"
-},
+    name: { de: "Galkayo", hu: "Galkayo", ro: "Galkayo", en: "Galkayo"},
+    image: "/poi-images/galkayo-cities-v2.webp",
     description: {
       de: "Eine zentral gelegene Wüstenstadt, die historisch eine Grenze zwischen verschiedenen administrativen Zonen bildet.",
       hu: "Egy központi fekvésű sivatagi város, amely történelmileg határt képez a különböző közigazgatási övezetek között.",
@@ -146,15 +204,27 @@ image: "/poi-images/galkayo-cities-v2.webp"
       hu: ["Mudug régió fővárosa", "Kétvárosos szerkezet", "Fontos kereskedelmi központ"],
       ro: ["Capitala regiunii Mudug", "Structură de oraș dual", "Centru comercial important"],
       en: ["Capital of Mudug region", "Dual-city structure", "Important trade center"]
-    }, image: "/poi-images/galkayo-cities-v2.webp"},
+    }, image: "/poi-images/galkayo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Galkayo (auch Gaalkacyo) ist eine Stadt im zentralen Somalia, die de facto zwischen Puntland und Galmudug aufgeteilt ist. Sie liegt etwa 300 Kilometer nordöstlich von Mogadischu und hat etwa 600.000 Einwohner. Die Stadt ist in zwei Teile geteilt: der Norden wird von Puntland kontrolliert, der Süden von Galmudug. Galkayo ist ein wichtiger Knotenpunkt für den Handel zwischen Süden und Norden. Der Viehmarkt ist einer der größten in Somalia. Die Stadt hat einen Flughafen und eine Universität. Galkayo leidet unter Spannungen zwischen den beiden Verwaltungen, aber es gibt Kooperation im Handel. Die Bevölkerung gehört hauptsächlich zum Clan der Darod.",
+      hu: "Galkayo (más néven Gaalkacyo) egy város Közép-Szomáliában, amely de facto Puntland és Galmudug között van felosztva. Mogadishutól kb. 300 km-re északkeletre fekszik, lakossága kb. 600 000 fő. A város két részre oszlik: az északi részt Puntland, a délit Galmudug irányítja. Galkayo fontos csomópont a déli és északi kereskedelem között. Az állatpiac az egyik legnagyobb Szomáliában. A város repülőtérrel és egyetemmel rendelkezik. Galkayo a két adminisztráció közötti feszültségektől szenved, de a kereskedelem terén együttműködés van. A lakosság főleg a Darod klánhoz tartozik.",
+      ro: "Galkayo (numit și Gaalkacyo) este un oraș din centrul Somaliei, divizat de facto între Puntland și Galmudug. Este situat la aproximativ 300 km nord-est de Mogadishu și are aproximativ 600.000 de locuitori. Orașul este împărțit în două părți: nordul controlat de Puntland, sudul de Galmudug. Galkayo este un nod important pentru comerțul dintre sud și nord. Piața de vite este una dintre cele mai mari din Somalia. Orașul are un aeroport și o universitate. Galkayo suferă de tensiuni între cele două administrații, dar există cooperare comercială. Populația aparține în principal clanului Darod.",
+      en: "Galkayo (also Gaalkacyo) is a city in central Somalia, de facto split between Puntland and Galmudug. About 300 km northeast of Mogadishu, it has about 600,000 residents. The city is divided: the north controlled by Puntland, the south by Galmudug. Galkayo is a key hub for trade between south and north. Its livestock market is among the largest in Somalia. The city has an airport and a university. Galkayo experiences tensions between the two administrations but trade cooperation exists. The population is predominantly from the Darod clan.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 600.000 (2023)", "Teilung: Puntland (Norden) und Galmudug (Süden) seit 1998", "Viehmarkt: 50.000 Tiere pro Monat", "Flughafen: Galkayo Airport (IATA: GLK)", "Universität: Galkayo University gegründet 2010", "Höhe: 208 Meter über dem Meer"],
+      hu: ["Lakosság: kb. 600 000 (2023)", "Felosztás: Puntland (észak) és Galmudug (dél) 1998 óta", "Állatpiac: havi 50 000 állat", "Repülőtér: Galkayo Airport (IATA: GLK)", "Egyetem: Galkayo University alapítva 2010", "Tengerszint feletti magasság: 208 méter"],
+      ro: ["Populație: aprox. 600.000 (2023)", "Divizare: Puntland (nord) și Galmudug (sud) din 1998", "Piața de vite: 50.000 de animale pe lună", "Aeroport: Aeroportul Galkayo (IATA: GLK)", "Universitate: Universitatea Galkayo fondată în 2010", "Altitudine: 208 metri deasupra mării"],
+      en: ["Population: approx. 600,000 (2023)", "Division: Puntland (north) and Galmudug (south) since 1998", "Livestock market: 50,000 animals per month", "Airport: Galkayo Airport (IATA: GLK)", "University: Galkayo University founded 2010", "Elevation: 208 meters above sea level"],
+    },
+  },
   {
     id: "kismayo-cities-v2",
     type: "city",
     parent: "SO-JH",
     coords: [42.5461, -0.3582],
-    name: { de: "Kismayo", hu: "Kismaayo", ro: "Kismayo", en: "Kismayo",
-image: "/poi-images/kismayo-cities-v2.webp"
-},
+    name: { de: "Kismayo", hu: "Kismaayo", ro: "Kismayo", en: "Kismayo"},
+    image: "/poi-images/kismayo-cities-v2.webp",
     description: {
       de: "Die südliche Hafenstadt nahe der Mündung des Flusses Jubba ist reich an landwirtschaftlichen und maritimen Ressourcen.",
       hu: "A déli kikötőváros, amely a Jubba folyó torkolatának közelében található, gazdag mezőgazdasági és tengeri erőforrásokban.",
@@ -165,15 +235,27 @@ image: "/poi-images/kismayo-cities-v2.webp"
       hu: ["Az ország harmadik legnagyobb városa", "Fontos exportkikötő", "A Jubba régió központja"],
       ro: ["Al treilea cel mai mare oraș al țării", "Port important de export", "Centrul regiunii Jubba"],
       en: ["Third largest city in the country", "Major export port", "Center of Jubba region"]
-    }, image: "/poi-images/kismayo-cities-v2.webp"},
+    }, image: "/poi-images/kismayo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kismayo (auch Kismaayo) ist eine Hafenstadt im Süden Somalias, Hauptstadt der Region Lower Juba. Sie liegt an der Mündung des Flusses Juba in den Indischen Ozean und hat etwa 500.000 Einwohner. Kismayo ist der wichtigste Hafen im Süden Somalias nach Mogadischu und ein Zentrum für den Export von Bananen, Vieh und Holzkohle. Die Stadt war stark von Konflikten betroffen, darunter die Schlacht um Kismayo 2008 und Kämpfe zwischen Al-Shabaab und der somalischen Armee. Der Hafen wurde modernisiert. Kismayo hat einen internationalen Flughafen und mehrere Hotels. Die Bevölkerung besteht hauptsächlich aus den Clans der Darod und Dir.",
+      hu: "Kismayo (más néven Kismaayo) egy kikötőváros Dél-Szomáliában, az Alsó-Juba régió fővárosa. A Juba folyó torkolatánál fekszik az Indiai-óceánnál, lakossága kb. 500 000 fő. Kismayo a második legfontosabb kikötő Szomália déli részén Mogadishu után, és központja a banán, élőállat és faszén exportjának. A várost súlyosan érintették a konfliktusok, köztük a 2008-as kismayoi csata és az Al-Shabaab és a szomáliai hadsereg közötti harcok. A kikötőt modernizálták. Kismayo nemzetközi repülőtérrel és több szállodával rendelkezik. A lakosság főleg a Darod és Dir klánokból áll.",
+      ro: "Kismayo (numit și Kismaayo) este un oraș portuar din sudul Somaliei, capitala regiunii Juba de Jos. Este situat la vărsarea râului Juba în Oceanul Indian și are aproximativ 500.000 de locuitori. Kismayo este cel mai important port din sudul Somaliei după Mogadishu și un centru pentru exportul de banane, vite și cărbune. Orașul a fost puternic afectat de conflicte, inclusiv bătălia de la Kismayo din 2008 și luptele dintre Al-Shabaab și armata somaleză. Portul a fost modernizat. Kismayo are un aeroport internațional și mai multe hoteluri. Populația aparține în principal clanurilor Darod și Dir.",
+      en: "Kismayo (also Kismaayo) is a port city in southern Somalia, capital of the Lower Juba region. Located at the mouth of the Juba River on the Indian Ocean, it has about 500,000 inhabitants. Kismayo is the most important port in southern Somalia after Mogadishu, exporting bananas, livestock, and charcoal. The city has been heavily affected by conflict, including the 2008 Battle of Kismayo and clashes between Al-Shabaab and Somali forces. The port has been modernized. Kismayo has an international airport and several hotels. The population is predominantly from the Darod and Dir clans.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 500.000 (2023)", "Hafen: Tiefgang 12 Meter, 3 Liegeplätze", "Schlacht von Kismayo: 2008", "Flughafen: Kismayo Airport (IATA: KMU)", "Juba River: Länge 1.658 km", "Exporte: Bananen (10.000 t/Jahr), Vieh"],
+      hu: ["Lakosság: kb. 500 000 (2023)", "Kikötő: merülés 12 méter, 3 kikötőhely", "Kismayoi csata: 2008", "Repülőtér: Kismayo Airport (IATA: KMU)", "Juba folyó: hossza 1658 km", "Export: banán (10 000 t/év), élőállat"],
+      ro: ["Populație: aprox. 500.000 (2023)", "Port: pescaj 12 metri, 3 dane", "Bătălia de la Kismayo: 2008", "Aeroport: Aeroportul Kismayo (IATA: KMU)", "Râul Juba: lungime 1.658 km", "Exporturi: banane (10.000 t/an), vite"],
+      en: ["Population: approx. 500,000 (2023)", "Port: draft 12 meters, 3 berths", "Battle of Kismayo: 2008", "Airport: Kismayo Airport (IATA: KMU)", "Juba River: length 1,658 km", "Exports: bananas (10,000 t/year), livestock"],
+    },
+  },
   {
     id: "jowhar-cities-v2",
     type: "city",
     parent: "SO-SD",
     coords: [45.5005, 2.7798],
-    name: { de: "Jowhar", hu: "Jowhar", ro: "Jowhar", en: "Jowhar",
-image: "/poi-images/jowhar-cities-v2.webp"
-},
+    name: { de: "Jowhar", hu: "Jowhar", ro: "Jowhar", en: "Jowhar"},
+    image: "/poi-images/jowhar-cities-v2.webp",
     description: {
       de: "Eingebettet in ein fruchtbares landwirtschaftliches Gebiet, ist die Stadt historisch für ihre große Zuckerfabrik bekannt.",
       hu: "A termékeny mezőgazdasági területen fekvő város történelmileg a nagy cukorgyáráról ismert.",
@@ -184,15 +266,27 @@ image: "/poi-images/jowhar-cities-v2.webp"
       hu: ["Shabeellaha Dhexe közigazgatási székhelye", "Történelmi cukortermelés", "Termékeny termőföld"],
       ro: ["Sediul administrativ al Shabeellaha Dhexe", "Producție istorică de zahăr", "Teren agricol fertil"],
       en: ["Administrative seat of Shabeellaha Dhexe", "Historical sugar production", "Fertile farmland"]
-    }, image: "/poi-images/jowhar-cities-v2.webp"},
+    }, image: "/poi-images/jowhar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jowhar (auch Jawhar oder Johar) ist eine Stadt im Süden Somalias, Hauptstadt der Region Middle Shabelle. Sie liegt am Fluss Shebelle, etwa 90 Kilometer nördlich von Mogadischu. Jowhar hat etwa 300.000 Einwohner. Die Stadt ist ein wichtiges landwirtschaftliches Zentrum, bekannt für Obstplantagen (insbesondere Zitrusfrüchte) und Zuckerrohranbau. In Jowhar befindet sich die landwirtschaftliche Forschungsstation der Universität Mogadischu. Die Stadt war während des Bürgerkriegs Schauplatz von Kämpfen und wurde von Al-Shabaab kontrolliert, bis sie 2012 von der somalischen Armee zurückerobert wurde. Jowhar hat einen Flughafen und eine Brücke über den Shebelle. Die Bevölkerung ist gemischt, hauptsächlich Somali.",
+      hu: "Jowhar (más néven Jawhar vagy Johar) egy város Dél-Szomáliában, a Középső-Shabelle régió fővárosa. A Shebelle folyó partján fekszik, Mogadishutól kb. 90 km-re északra. Jowhar lakossága kb. 300 000 fő. A város fontos mezőgazdasági központ, híres gyümölcsösökről (különösen citrusfélék) és cukornádtermesztésről. Itt található a Mogadishui Egyetem mezőgazdasági kutatóállomása. A polgárháború alatt harcok színhelye volt, és Al-Shabaab irányítása alatt állt, amíg 2012-ben vissza nem foglalta a szomáliai hadsereg. Jowhar repülőtérrel és egy híddal rendelkezik a Shebelle felett. A lakosság vegyes, főként szomáliai.",
+      ro: "Jowhar (numit și Jawhar sau Johar) este un oraș din sudul Somaliei, capitala regiunii Shabelle de Mijloc. Este situat pe râul Shebelle, la aproximativ 90 km nord de Mogadishu. Jowhar are aproximativ 300.000 de locuitori. Orașul este un centru agricol important, cunoscut pentru livezile de fructe (în special citrice) și cultura de trestie de zahăr. Aici se află stația de cercetare agricolă a Universității din Mogadishu. În timpul războiului civil, a fost scenă de lupte și controlat de Al-Shabaab, până când a fost recucerit de armata somaleză în 2012. Jowhar are un aeroport și un pod peste Shebelle. Populația este mixtă, predominant somaleză.",
+      en: "Jowhar (also Jawhar or Johar) is a city in southern Somalia, capital of the Middle Shabelle region. Located on the Shebelle River about 90 km north of Mogadishu, it has about 300,000 inhabitants. Jowhar is an important agricultural center, known for fruit orchards (especially citrus) and sugarcane cultivation. It hosts the agricultural research station of Mogadishu University. During the civil war, it saw fighting and was controlled by Al-Shabaab until recaptured by Somali forces in 2012. Jowhar has an airport and a bridge over the Shebelle. The population is mixed, predominantly Somali.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 300.000 (2023)", "Entfernung zu Mogadischu: 90 km", "Höhe: 107 Meter über dem Meer", "Zuckerrohrproduktion: 50.000 t/Jahr", "Flughafen: Jowhar Airport (IATA: JHR)", "Brücke über Shebelle: Länge 150 Meter"],
+      hu: ["Lakosság: kb. 300 000 (2023)", "Távolság Mogadishutól: 90 km", "Tengerszint feletti magasság: 107 méter", "Cukornádtermelés: 50 000 t/év", "Repülőtér: Jowhar Airport (IATA: JHR)", "Híd a Shebelle felett: hossza 150 méter"],
+      ro: ["Populație: aprox. 300.000 (2023)", "Distanță până la Mogadishu: 90 km", "Altitudine: 107 metri deasupra mării", "Producție de trestie de zahăr: 50.000 t/an", "Aeroport: Aeroportul Jowhar (IATA: JHR)", "Pod peste Shebelle: lungime 150 metri"],
+      en: ["Population: approx. 300,000 (2023)", "Distance to Mogadishu: 90 km", "Elevation: 107 meters above sea level", "Sugarcane production: 50,000 t/year", "Airport: Jowhar Airport (IATA: JHR)", "Bridge over Shebelle: length 150 meters"],
+    },
+  },
   {
     id: "garowe-cities-v2",
     type: "city",
     parent: "SO-NU",
     coords: [48.4845, 8.4054],
-    name: { de: "Garowe", hu: "Garoowe", ro: "Garowe", en: "Garowe",
-image: "/poi-images/garowe-cities-v2.webp"
-},
+    name: { de: "Garowe", hu: "Garoowe", ro: "Garowe", en: "Garowe"},
+    image: "/poi-images/garowe-cities-v2.webp",
     description: {
       de: "Als zentrales Verwaltungszentrum im Osten Somalias erlebt diese Stadt seit Jahren ein rasantes städtebauliches Wachstum.",
       hu: "Kelet-Szomália központi közigazgatási központjaként ez a város évek óta gyors városfejlődésen megy keresztül.",
@@ -203,15 +297,27 @@ image: "/poi-images/garowe-cities-v2.webp"
       hu: ["Nugaal régió fővárosa", "Erősen növekvő infrastruktúra", "Számos helyi intézmény székhelye"],
       ro: ["Capitala regiunii Nugaal", "Infrastructură în creștere rapidă", "Sediul multor instituții locale"],
       en: ["Capital of Nugaal region", "Rapidly growing infrastructure", "Seat of many local institutions"]
-    }, image: "/poi-images/garowe-cities-v2.webp"},
+    }, image: "/poi-images/garowe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Garowe (auch Garoowe) ist die Hauptstadt des de facto autonomen Staates Puntland in Somalia. Sie liegt im zentralen Norden Somalias und hat etwa 200.000 Einwohner. Garowe ist der Regierungssitz Puntlands mit Ministerien, Parlament und Präsidentenpalast. Die Stadt ist ein wichtiges Bildungszentrum mit der Puntland State University und mehreren Schulen. Garowe liegt in einer trockenen Region, aber die Wirtschaft wird durch öffentliche Verwaltung und Dienstleistungen angetrieben. Die Stadt hat einen Flughafen und ist durch eine asphaltierte Straße mit Bosaso und Galkayo verbunden. Garowe ist bekannt für seine Stabilität im Vergleich zu anderen somalischen Städten.",
+      hu: "Garowe (más néven Garoowe) a de facto autonóm Puntland állam fővárosa Szomáliában. Közép-Észak-Szomáliában fekszik, lakossága kb. 200 000 fő. Garowe Puntland kormányzati székhelye, minisztériumokkal, parlamenttel és elnöki palotával. A város fontos oktatási központ a Puntland State University és több iskola révén. Garowe száraz régióban fekszik, de gazdaságát a közigazgatás és a szolgáltatások hajtják. A város repülőtérrel rendelkezik, és aszfaltozott út köti össze Bosasóval és Galkayóval. Garowe stabilitásáról ismert a szomáliai városokhoz képest.",
+      ro: "Garowe (numit și Garoowe) este capitala statului de facto autonom Puntland, în Somalia. Este situat în centrul-nordul Somaliei și are aproximativ 200.000 de locuitori. Garowe este sediul guvernului Puntland, cu ministere, parlament și palat prezidențial. Orașul este un important centru educațional, găzduind Universitatea de Stat Puntland și mai multe școli. Garowe este situat într-o regiune aridă, dar economia este condusă de administrația publică și servicii. Orașul are un aeroport și este conectat prin șosea asfaltată cu Bosaso și Galkayo. Garowe este cunoscut pentru stabilitatea sa în comparație cu alte orașe somaleze.",
+      en: "Garowe (also Garoowe) is the capital of the de facto autonomous state of Puntland in Somalia. Located in central-northern Somalia, it has about 200,000 inhabitants. Garowe houses the Puntland government, including ministries, parliament, and the presidential palace. The city is an important educational center, hosting Puntland State University and several schools. Garowe lies in an arid region, but the economy is driven by public administration and services. The city has an airport and is connected by paved road to Bosaso and Galkayo. Garowe is known for its stability relative to other Somali cities.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 200.000 (2023)", "Hauptstadt Puntlands seit 1998", "Höhe: 465 Meter über dem Meer", "Puntland State University: gegründet 2004", "Flughafen: Garowe Airport (IATA: GGR)", "Asphaltstraße: 250 km nach Bosaso"],
+      hu: ["Lakosság: kb. 200 000 (2023)", "Puntland fővárosa 1998 óta", "Tengerszint feletti magasság: 465 méter", "Puntland State University: alapítva 2004", "Repülőtér: Garowe Airport (IATA: GGR)", "Aszfaltút: 250 km Bosasóba"],
+      ro: ["Populație: aprox. 200.000 (2023)", "Capitala Puntland din 1998", "Altitudine: 465 metri deasupra mării", "Universitatea de Stat Puntland: fondată 2004", "Aeroport: Aeroportul Garowe (IATA: GGR)", "Șosea asfaltată: 250 km până la Bosaso"],
+      en: ["Population: approx. 200,000 (2023)", "Capital of Puntland since 1998", "Elevation: 465 meters above sea level", "Puntland State University: founded 2004", "Airport: Garowe Airport (IATA: GGR)", "Paved road: 250 km to Bosaso"],
+    },
+  },
   {
     id: "borama-cities-v2",
     type: "city",
     parent: "SO-AW",
     coords: [43.1843, 9.9326],
-    name: { de: "Borama", hu: "Borama", ro: "Borama", en: "Borama",
-image: "/poi-images/borama-cities-v2.webp"
-},
+    name: { de: "Borama", hu: "Borama", ro: "Borama", en: "Borama"},
+    image: "/poi-images/borama-cities-v2.webp",
     description: {
       de: "Die gebirgige Stadt in Grenznähe ist berühmt für ihre akademischen Einrichtungen und ein kühleres Klima.",
       hu: "A határ menti hegyvidéki város híres egyetemeiről és hűvösebb éghajlatáról.",
@@ -222,15 +328,27 @@ image: "/poi-images/borama-cities-v2.webp"
       hu: ["Az Awdal régió központja", "Az Amoud Egyetemről ismert", "Kellemes hegyvidéki éghajlat"],
       ro: ["Centrul regiunii Awdal", "Cunoscut pentru Universitatea Amoud", "Climat montan plăcut"],
       en: ["Center of the Awdal region", "Known for Amoud University", "Pleasant highland climate"]
-    }, image: "/poi-images/borama-cities-v2.webp"},
+    }, image: "/poi-images/borama-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Borama (auch Boorama) ist eine Stadt in der Region Awdal in Somaliland, Somalia. Sie liegt nahe der Grenze zu Äthiopien und hat etwa 400.000 Einwohner. Borama ist bekannt als Bildungsstadt, mit der Amoud University (gegründet 1997), einer der ältesten Universitäten Somalias. Die Wirtschaft basiert auf Landwirtschaft, Viehzucht und Handel. Die Stadt liegt in einem fruchtbaren Tal und erhält ausreichend Regen für den Anbau von Sorghum und Gemüse. Borama hat einen Flughafen und ist ein Knotenpunkt für den Handel mit Äthiopien. Die Bevölkerung besteht hauptsächlich aus dem Clan der Gadabuursi. Die Stadt hat eine bemerkenswerte ethnische Harmonie.",
+      hu: "Borama (más néven Boorama) egy város Szomáliföldön, az Awdal régióban, Szomália. Etiópia határához közel fekszik, lakossága kb. 400 000 fő. Borama iskolavárosként ismert, az Amoud Egyetemmel (1997-ben alapították), ami Szomália egyik legrégebbi egyeteme. A gazdaság a mezőgazdaságon, állattenyésztésen és kereskedelem alapul. A város termékeny völgyben fekszik, elegendő csapadékot kap a cirok és zöldség termesztéséhez. Borama repülőtérrel rendelkezik, és csomópont az Etiópiával folytatott kereskedelemben. A lakosság főként a Gadabuursi klánhoz tartozik. A város figyelemre méltó etnikai harmóniáról ismert.",
+      ro: "Borama (numit și Boorama) este un oraș din regiunea Awdal a Somalilandului, Somalia. Este situat aproape de granița cu Etiopia și are aproximativ 400.000 de locuitori. Borama este cunoscut ca un oraș al educației, găzduind Universitatea Amoud (fondată în 1997), una dintre cele mai vechi universități din Somalia. Economia se bazează pe agricultură, creșterea animalelor și comerț. Orașul este situat într-o vale fertilă, primind suficientă ploaie pentru cultivarea sorgului și a legumelor. Borama are un aeroport și este un nod comercial cu Etiopia. Populația aparține în principal clanului Gadabuursi. Orașul este remarcabil pentru armonia etnică.",
+      en: "Borama (also Boorama) is a city in the Awdal region of Somaliland, Somalia. Near the Ethiopian border, it has about 400,000 inhabitants. Borama is known as an education town, with Amoud University (founded 1997), one of Somalia's oldest universities. The economy relies on agriculture, livestock, and trade. Located in a fertile valley, it receives adequate rainfall for sorghum and vegetables. Borama has an airport and is a trading hub with Ethiopia. The population is predominantly from the Gadabuursi clan. The city is noted for its ethnic harmony.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 400.000 (2023)", "Amoud University: gegründet 1997", "Höhe: 1.470 Meter über dem Meer", "Landwirtschaft: Hauptanbau Sorghum (15.000 t/Jahr)", "Flughafen: Borama Airport (IATA: BXX)", "Entfernung zur äthiopischen Grenze: 10 km"],
+      hu: ["Lakosság: kb. 400 000 (2023)", "Amoud Egyetem: alapítva 1997", "Tengerszint feletti magasság: 1470 méter", "Mezőgazdaság: fő termény cirok (15 000 t/év)", "Repülőtér: Borama Airport (IATA: BXX)", "Távolság az etióp határtól: 10 km"],
+      ro: ["Populație: aprox. 400.000 (2023)", "Universitatea Amoud: fondată 1997", "Altitudine: 1.470 metri deasupra mării", "Agricultură: cultura principală sorg (15.000 t/an)", "Aeroport: Aeroportul Borama (IATA: BXX)", "Distanța până la granița cu Etiopia: 10 km"],
+      en: ["Population: approx. 400,000 (2023)", "Amoud University: founded 1997", "Elevation: 1,470 meters above sea level", "Agriculture: main crop sorghum (15,000 t/year)", "Airport: Borama Airport (IATA: BXX)", "Distance to Ethiopian border: 10 km"],
+    },
+  },
   {
     id: "erigavo-cities-v2",
     type: "city",
     parent: "SO-SA",
     coords: [47.3697, 10.6158],
-    name: { de: "Ceerigaabo", hu: "Erigavo", ro: "Erigavo", en: "Erigavo",
-image: "/poi-images/erigavo-cities-v2.webp"
-},
+    name: { de: "Ceerigaabo", hu: "Erigavo", ro: "Erigavo", en: "Erigavo"},
+    image: "/poi-images/erigavo-cities-v2.webp",
     description: {
       de: "Eine hochgelegene Stadt im Sanaag-Gebiet, die von dichten Wäldern und markanten Bergen umgeben ist.",
       hu: "A Sanaag régió magasan fekvő városa, amelyet sűrű erdők és jellegzetes hegyek vesznek körül.",
@@ -241,15 +359,27 @@ image: "/poi-images/erigavo-cities-v2.webp"
       hu: ["Sanaag közigazgatási fővárosa", "A Surud Cad hegy közelében", "Borókaerdők veszik körül"],
       ro: ["Capitala administrativă a Sanaag", "Aproape de muntele Surud Cad", "Înconjurat de păduri de ienupăr"],
       en: ["Administrative capital of Sanaag", "Close to Mount Surud Cad", "Surrounded by juniper forests"]
-    }, image: "/poi-images/erigavo-cities-v2.webp"},
+    }, image: "/poi-images/erigavo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Erigavo (auch Ceerigaabo) ist eine Stadt im Norden Somalias, Hauptstadt der Region Sanaag, die de facto von Somaliland kontrolliert wird. Sie liegt im Golis-Gebirge auf etwa 1.700 Metern Höhe und hat etwa 150.000 Einwohner. Erigavo ist bekannt für seine gemäßigten Temperaturen und die Laas Geel-Höhlenmalereien, die zu den ältesten in Afrika gehören. Die Wirtschaft basiert auf Viehzucht und Handel. Die Stadt hat einen Flughafen. Erigavo war Schauplatz von Konflikten zwischen Somaliland und Puntland. Die Bevölkerung gehört verschiedenen Clans an, darunter die Warsangeli. Die Stadt ist ein Ausgangspunkt für Ausflüge in die umliegenden Berge.",
+      hu: "Erigavo (más néven Ceerigaabo) egy város Észak-Szomáliában, a Sanaag régió fővárosa, amelyet de facto Szomáliföld irányít. A Golis-hegységben fekszik, kb. 1700 méter magasan, lakossága kb. 150 000 fő. Erigavo enyhe hőmérsékletéről és a Laas Geel-barlangfestményekről ismert, amelyek Afrika legrégebbi közé tartoznak. A gazdaság az állattenyésztésen és kereskedelem alapul. A város repülőtérrel rendelkezik. Erigavo a Szomáliföld és Puntland közötti konfliktusok színhelye volt. A lakosság különböző klánokhoz tartozik, köztük a Warsangelihez. A város kiindulópont a környező hegyekbe tett kirándulásokhoz.",
+      ro: "Erigavo (numit și Ceerigaabo) este un oraș din nordul Somaliei, capitala regiunii Sanaag, controlată de facto de Somaliland. Situat în Munții Golis, la aproximativ 1.700 de metri altitudine, are aproximativ 150.000 de locuitori. Erigavo este cunoscut pentru temperaturile sale moderate și pentru picturile rupestre de la Laas Geel, unele dintre cele mai vechi din Africa. Economia se bazează pe creșterea animalelor și comerț. Orașul are un aeroport. Erigavo a fost scena conflictelor dintre Somaliland și Puntland. Populația aparține mai multor clanuri, inclusiv Warsangeli. Orașul este un punct de plecare pentru excursii în munții din jur.",
+      en: "Erigavo (also Ceerigaabo) is a city in northern Somalia, capital of the Sanaag region, de facto controlled by Somaliland. Situated in the Golis Mountains at about 1,700 meters elevation, it has about 150,000 inhabitants. Erigavo is known for its mild climate and the Laas Geel cave paintings, among the oldest in Africa. The economy is based on livestock and trade. The city has an airport. Erigavo has seen conflicts between Somaliland and Puntland. The population includes various clans, such as the Warsangeli. The city is a base for mountain excursions.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 150.000 (2023)", "Höhe: 1.700 Meter über dem Meer", "Laas Geel: Entdeckung 2002, Alter 5.000 Jahre", "Flughafen: Erigavo Airport (IATA: ERA)", "Durchschnittstemperatur: 20°C", "Kontrolle: de facto Somaliland seit 1991"],
+      hu: ["Lakosság: kb. 150 000 (2023)", "Tengerszint feletti magasság: 1700 méter", "Laas Geel: felfedezés 2002, kor 5000 év", "Repülőtér: Erigavo Airport (IATA: ERA)", "Átlaghőmérséklet: 20°C", "Ellenőrzés: de facto Szomáliföld 1991 óta"],
+      ro: ["Populație: aprox. 150.000 (2023)", "Altitudine: 1.700 metri deasupra mării", "Laas Geel: descoperire în 2002, vechime 5.000 de ani", "Aeroport: Aeroportul Erigavo (IATA: ERA)", "Temperatura medie: 20°C", "Control de facto: Somaliland din 1991"],
+      en: ["Population: approx. 150,000 (2023)", "Elevation: 1,700 meters above sea level", "Laas Geel: discovered 2002, age 5,000 years", "Airport: Erigavo Airport (IATA: ERA)", "Average temperature: 20°C", "De facto control: Somaliland since 1991"],
+    },
+  },
   {
     id: "las-anod-cities-v2",
     type: "city",
     parent: "SO-SO",
     coords: [47.3587, 8.4751],
-    name: { de: "Las Anod", hu: "Las Anod", ro: "Las Anod", en: "Las Anod",
-image: "/poi-images/las-anod-cities-v2.webp"
-},
+    name: { de: "Las Anod", hu: "Las Anod", ro: "Las Anod", en: "Las Anod"},
+    image: "/poi-images/las-anod-cities-v2.webp",
     description: {
       de: "Die historisch bedeutsame Stadt in der Sool-Region dient als Verkehrsknotenpunkt für nomadische Hirten.",
       hu: "A történelmileg jelentős város a Sool régióban a nomád pásztorok közlekedési csomópontjaként szolgál.",
@@ -260,15 +390,27 @@ image: "/poi-images/las-anod-cities-v2.webp"
       hu: ["A Sool régió fővárosa", "Történelmi erődök a közelben", "A nomád kereskedelem központja"],
       ro: ["Capitala regiunii Sool", "Cetăți istorice în apropiere", "Centru pentru comerțul nomad"],
       en: ["Capital of the Sool region", "Historical forts nearby", "Center for nomadic trade"]
-    }, image: "/poi-images/las-anod-cities-v2.webp"},
+    }, image: "/poi-images/las-anod-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Las Anod (auch Laascaanood) ist eine Stadt im Norden Somalias, Hauptstadt der Region Sool, die zwischen Somaliland und Puntland umstritten ist. Sie hat etwa 200.000 Einwohner. Las Anod war historisch ein Zentrum der Derwisch-Bewegung unter Mohammed Abdullah Hassan. Die Stadt liegt in einer trockenen Region, die Viehzucht ist der wichtigste Wirtschaftszweig. Las Anod wurde 2007 von Somaliland erobert, aber 2023 kam es zu heftigen Kämpfen, als lokale Kräfte die Unabhängigkeit von Somaliland erklärten. Die Stadt hat einen Flughafen und liegt an einer wichtigen Handelsroute. Die Bevölkerung gehört hauptsächlich zum Clan der Dhulbahante.",
+      hu: "Las Anod (más néven Laascaanood) egy város Észak-Szomáliában, a Sool régió fővárosa, amely Szomáliföld és Puntland között vitatott. Lakossága kb. 200 000 fő. Las Anod történelmileg a dervis mozgalom központja volt Mohammed Abdullah Hassan alatt. A város száraz régióban fekszik, az állattenyésztés a legfontosabb gazdasági ág. Las Anodot 2007-ben elfoglalta Szomáliföld, de 2023-ban heves harcok törtek ki, amikor helyi erők kikiáltották a függetlenséget Szomáliföldtől. A város repülőtérrel rendelkezik, és fontos kereskedelmi útvonalon fekszik. A lakosság főleg a Dhulbahante klánhoz tartozik.",
+      ro: "Las Anod (numit și Laascaanood) este un oraș din nordul Somaliei, capitala regiunii Sool, disputat între Somaliland și Puntland. Are aproximativ 200.000 de locuitori. Las Anod a fost istoric un centru al mișcării dervișilor sub Mohammed Abdullah Hassan. Orașul este situat într-o regiune aridă, creșterea animalelor fiind principala activitate economică. Las Anod a fost cucerit de Somaliland în 2007, dar în 2023 au izbucnit lupte grele când forțele locale au declarat independența față de Somaliland. Orașul are un aeroport și se află pe o rută comercială importantă. Populația aparține în principal clanului Dhulbahante.",
+      en: "Las Anod (also Laascaanood) is a city in northern Somalia, capital of the disputed Sool region between Somaliland and Puntland. It has about 200,000 inhabitants. Historically a center of the Dervish movement under Mohammed Abdullah Hassan, Las Anod lies in an arid area where livestock is key. The city was captured by Somaliland in 2007, but in 2023 fierce fighting erupted as local forces declared independence from Somaliland. Las Anod has an airport and sits on a major trade route. The population is predominantly from the Dhulbahante clan.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 200.000 (2023)", "Konflikt: 2007 von Somaliland erobert", "Höhe: 680 Meter über dem Meer", "Derwisch-Bewegung: Sitz von 1899 bis 1920", "Flughafen: Las Anod Airport (IATA: LAS)", "Kämpfe 2023: über 200 Tote"],
+      hu: ["Lakosság: kb. 200 000 (2023)", "Konfliktus: 2007-ben Szomáliföld elfoglalta", "Tengerszint feletti magasság: 680 méter", "Dervis mozgalom: székhely 1899–1920", "Repülőtér: Las Anod Airport (IATA: LAS)", "Harcok 2023: több mint 200 halott"],
+      ro: ["Populație: aprox. 200.000 (2023)", "Conflict: cucerit de Somaliland în 2007", "Altitudine: 680 metri deasupra mării", "Mișcarea dervișilor: sediu 1899-1920", "Aeroport: Aeroportul Las Anod (IATA: LAS)", "Luptele din 2023: peste 200 de morți"],
+      en: ["Population: approx. 200,000 (2023)", "Conflict: captured by Somaliland in 2007", "Elevation: 680 meters above sea level", "Dervish movement: headquarters 1899-1920", "Airport: Las Anod Airport (IATA: LAS)", "2023 clashes: over 200 deaths"],
+    },
+  },
   {
     id: "qardho-cities-v2",
     type: "city",
     parent: "SO-BR",
     coords: [49.0886, 9.5054],
-    name: { de: "Qardho", hu: "Qardho", ro: "Qardho", en: "Qardho",
-image: "/poi-images/qardho-cities-v2.webp"
-},
+    name: { de: "Qardho", hu: "Qardho", ro: "Qardho", en: "Qardho"},
+    image: "/poi-images/qardho-cities-v2.webp",
     description: {
       de: "Qardho ist eine traditionsreiche Siedlung im Nordosten und war einst Sitz bedeutender traditioneller Herrscher.",
       hu: "Qardho egy hagyományokban gazdag északkeleti település, amely egykor jelentős hagyományos uralkodók székhelye volt.",
@@ -279,15 +421,27 @@ image: "/poi-images/qardho-cities-v2.webp"
       hu: ["Fontos város a Bari régióban", "Régi kereskedelmi útvonal", "Gazdag kulturális örökség"],
       ro: ["Oraș important în regiunea Bari", "Veche rută comercială", "Bogată moștenire culturală"],
       en: ["Important city in Bari region", "Old trade route", "Rich cultural heritage"]
-    }, image: "/poi-images/qardho-cities-v2.webp"},
+    }, image: "/poi-images/qardho-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Qardho (auch Gardo) ist eine Stadt im Nordosten Somalias, in der Region Karkaar, de facto Teil von Puntland. Sie hat etwa 150.000 Einwohner. Qardho liegt auf einem Plateau und ist bekannt für seine Höhlenmalereien und Felsformationen. Die Wirtschaft basiert auf Viehzucht und etwas Landwirtschaft. Die Stadt hat einen Flughafen. Qardho ist ein lokales Handelszentrum. Die Bevölkerung gehört hauptsächlich zum Clan der Darod (Unterclan Majeerteen). Die Stadt war von Dürren betroffen, aber durch Wasserprojekte verbessert. Qardho hat eine wachsende Anzahl von Bildungseinrichtungen.",
+      hu: "Qardho (más néven Gardo) egy város Északkelet-Szomáliában, a Karkaar régióban, de facto Puntland része. Lakossága kb. 150 000 fő. Qardho egy fennsíkon fekszik, és híres barlangfestményeiről és sziklaformációiról. A gazdaság az állattenyésztésen és némi mezőgazdaságon alapul. A város repülőtérrel rendelkezik. Qardho helyi kereskedelmi központ. A lakosság főleg a Darod klánhoz (Majeerteen alklán) tartozik. A várost aszályok sújtották, de vízprojektek javítottak a helyzeten. Qardhoban növekszik az oktatási intézmények száma.",
+      ro: "Qardho (numit și Gardo) este un oraș din nord-estul Somaliei, în regiunea Karkaar, parte de facto a Puntlandului. Are aproximativ 150.000 de locuitori. Qardho este situat pe un platou și este cunoscut pentru picturile rupestre și formațiunile stâncoase. Economia se bazează pe creșterea animalelor și agricultură limitată. Orașul are un aeroport. Qardho este un centru comercial local. Populația aparține în principal clanului Darod (subclan Majeerteen). Orașul a fost afectat de secete, dar proiectele de apă au îmbunătățit situația. Qardho are un număr tot mai mare de instituții de învățământ.",
+      en: "Qardho (also Gardo) is a city in northeastern Somalia, in the Karkaar region, de facto part of Puntland. It has about 150,000 residents. Qardho lies on a plateau and is known for cave paintings and rock formations. The economy is based on livestock and some agriculture. The city has an airport. Qardho is a local trade center. The population is predominantly from the Darod clan (Majeerteen subclan). The city has been affected by droughts but water projects have helped. Qardho has a growing number of educational institutions.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 150.000 (2023)", "Höhe: 1.000 Meter über dem Meer", "Höhlenmalereien: Alter 3.000 Jahre", "Flughafen: Qardho Airport (IATA: GDO)", "Viehbestand: 500.000 Schafe und Ziegen", "Wasserprojekt: Bohrung 2010, Tiefe 120 Meter"],
+      hu: ["Lakosság: kb. 150 000 (2023)", "Tengerszint feletti magasság: 1000 méter", "Barlangfestmények: kor 3000 év", "Repülőtér: Qardho Airport (IATA: GDO)", "Állatállomány: 500 000 juh és kecske", "Vízprojekt: fúrás 2010, mélység 120 méter"],
+      ro: ["Populație: aprox. 150.000 (2023)", "Altitudine: 1.000 metri deasupra mării", "Picturi rupestre: vechime 3.000 de ani", "Aeroport: Aeroportul Qardho (IATA: GDO)", "Efective de animale: 500.000 de oi și capre", "Proiect de apă: foraj 2010, adâncime 120 de metri"],
+      en: ["Population: approx. 150,000 (2023)", "Elevation: 1,000 meters above sea level", "Cave paintings: age 3,000 years", "Airport: Qardho Airport (IATA: GDO)", "Livestock: 500,000 sheep and goats", "Water project: drilled 2010, depth 120 meters"],
+    },
+  },
   {
     id: "marka-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [44.7717, 1.7144],
-    name: { de: "Marka", hu: "Merca", ro: "Marka", en: "Marka",
-image: "/poi-images/marka-cities-v2.webp"
-},
+    name: { de: "Marka", hu: "Merca", ro: "Marka", en: "Marka"},
+    image: "/poi-images/marka-cities-v2.webp",
     description: {
       de: "Die Küstenstadt Marka zeichnet sich durch weiße Sandstrände und historische Korallensteingebäude aus.",
       hu: "A tengerparti Marka város fehér homokos strandokkal és történelmi korallkő épületekkel büszkélkedhet.",
@@ -298,15 +452,27 @@ image: "/poi-images/marka-cities-v2.webp"
       hu: ["Shabeellaha Hoose fővárosa", "Régi arab építészet", "Jelentős halászkikötő"],
       ro: ["Capitala Shabeellaha Hoose", "Arhitectură veche arabă", "Port de pescuit important"],
       en: ["Capital of Shabeellaha Hoose", "Old Arab architecture", "Major fishing port"]
-    }, image: "/poi-images/marka-cities-v2.webp"},
+    }, image: "/poi-images/marka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Marka (auch Merca) ist eine Hafenstadt im Süden Somalias, in der Region Lower Shebelle. Sie liegt etwa 70 Kilometer südwestlich von Mogadischu und hat etwa 400.000 Einwohner. Marka ist eine der ältesten Städte Somalias mit einer Geschichte als Handelshafen. Die Stadt wurde im 7. Jahrhundert von arabischen Siedlern gegründet. Die Wirtschaft basiert auf Fischerei, Landwirtschaft und Hafenaktivitäten. Marka war unter Kontrolle von Al-Shabaab, wurde aber 2014 von der somalischen Armee zurückerobert. Die Stadt hat einen Hafen und einen kleinen Flughafen. Die Bevölkerung ist ethnisch gemischt, mit somalischen Bantu-Gruppen.",
+      hu: "Marka (más néven Merca) egy kikötőváros Dél-Szomáliában, az Alsó-Shabelle régióban. Mogadishutól kb. 70 km-re délnyugatra fekszik, lakossága kb. 400 000 fő. Marka Szomália egyik legrégebbi városa, kereskedelmi kikötőként történelemmel. A várost a 7. században alapították arab telepesek. A gazdaság a halászaton, mezőgazdaságon és kikötői tevékenységeken alapul. Marka Al-Shabaab ellenőrzése alatt állt, de 2014-ben a szomáliai hadsereg visszafoglalta. A városnak kikötője és kis repülőtere van. A lakosság etnikailag vegyes, beleértve a szomáliai bantu csoportokat.",
+      ro: "Marka (numit și Merca) este un oraș portuar din sudul Somaliei, în regiunea Shabelle de Jos. Situat la aproximativ 70 km sud-vest de Mogadishu, are aproximativ 400.000 de locuitori. Marka este unul dintre cele mai vechi orașe din Somalia, cu o istorie ca port comercial. Orașul a fost fondat în secolul al VII-lea de coloniști arabi. Economia se bazează pe pescuit, agricultură și activități portuare. Marka a fost sub controlul Al-Shabaab, dar a fost recucerit de armata somaleză în 2014. Orașul are un port și un aeroport mic. Populația este mixtă etnic, incluzând grupuri bantu somaleze.",
+      en: "Marka (also Merca) is a port city in southern Somalia's Lower Shebelle region, about 70 km southwest of Mogadishu. With about 400,000 residents, it is one of Somalia's oldest cities, founded in the 7th century by Arab settlers as a trading port. The economy relies on fishing, agriculture, and port activities. Marka was under Al-Shabaab control until recaptured by Somali forces in 2014. The city has a port and a small airport. The population is ethnically mixed, including Somali Bantu groups.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 400.000 (2023)", "Gründung: 7. Jahrhundert", "Hafen: Tiefgang 8 Meter", "Entfernung zu Mogadischu: 70 km", "Befreiung von Al-Shabaab: 2014", "Fischerei: 10.000 Tonnen Fisch/Jahr"],
+      hu: ["Lakosság: kb. 400 000 (2023)", "Alapítás: 7. század", "Kikötő: merülés 8 méter", "Távolság Mogadishutól: 70 km", "Felszabadítás Al-Shabaab alól: 2014", "Halászat: 10 000 tonna hal/év"],
+      ro: ["Populație: aprox. 400.000 (2023)", "Fondare: secolul al VII-lea", "Port: pescaj 8 metri", "Distanță până la Mogadishu: 70 km", "Eliberare de sub Al-Shabaab: 2014", "Pescuit: 10.000 de tone de pește/an"],
+      en: ["Population: approx. 400,000 (2023)", "Founded: 7th century", "Port: draft 8 meters", "Distance to Mogadishu: 70 km", "Liberated from Al-Shabaab: 2014", "Fisheries: 10,000 tons of fish/year"],
+    },
+  },
   {
     id: "afgooye-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [45.1235, 2.1352],
-    name: { de: "Afgooye", hu: "Afgooye", ro: "Afgooye", en: "Afgooye",
-image: "/poi-images/afgooye-cities-v2.webp"
-},
+    name: { de: "Afgooye", hu: "Afgooye", ro: "Afgooye", en: "Afgooye"},
+    image: "/poi-images/afgooye-cities-v2.webp",
     description: {
       de: "Nur eine kurze Fahrt von der Hauptstadt entfernt, ist dieser Ort für seine dichten Obstplantagen und den Fluss Shabelle bekannt.",
       hu: "Csak egy rövid autóútra a fővárostól, ez a hely sűrű gyümölcsösökről és a Shabelle folyóról ismert.",
@@ -317,15 +483,27 @@ image: "/poi-images/afgooye-cities-v2.webp"
       hu: ["Fontos mezőgazdasági központ", "Történelmi Geledi Szultanátus", "Mogadishu közelében"],
       ro: ["Important centru agricol", "Sultanatul istoric Geledi", "Aproape de Mogadishu"],
       en: ["Important agricultural center", "Historical Geledi Sultanate", "Near Mogadishu"]
-    }, image: "/poi-images/afgooye-cities-v2.webp"},
+    }, image: "/poi-images/afgooye-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Afgooye (auch Afgoye) ist eine Stadt im Süden Somalias, in der Region Lower Shebelle. Sie liegt etwa 30 Kilometer westlich von Mogadischu am Fluss Shebelle und hat etwa 250.000 Einwohner. Afgooye ist ein wichtiger landwirtschaftlicher Markt, bekannt für den Anbau von Bananen, Mais und Gemüse. Die Stadt hatte eine große Bevölkerung von Binnenvertriebenen während des Bürgerkriegs. Afgooye war mehrfach von Al-Shabaab kontrolliert, aber 2012 von der somalischen Armee und AMISOM zurückerobert. Die Stadt hat eine Brücke über den Shebelle und einen Flughafen (Mogadischu International Airport liegt nahe).",
+      hu: "Afgooye (más néven Afgoye) egy város Dél-Szomáliában, az Alsó-Shabelle régióban. Mogadishutól kb. 30 km-re nyugatra fekszik a Shebelle folyó partján, lakossága kb. 250 000 fő. Afgooye fontos mezőgazdasági piac, híres banán-, kukorica- és zöldségtermesztésről. A polgárháború alatt nagyszámú belső menekültet fogadott. Afgooye többször volt Al-Shabaab ellenőrzése alatt, de 2012-ben a szomáliai hadsereg és az AMISOM visszafoglalta. A városnak hídja van a Shebelle felett, és közel van a mogadishui nemzetközi repülőtér.",
+      ro: "Afgooye (numit și Afgoye) este un oraș din sudul Somaliei, în regiunea Shabelle de Jos. Situat la aproximativ 30 km vest de Mogadishu, pe râul Shebelle, are aproximativ 250.000 de locuitori. Afgooye este o piață agricolă importantă, cunoscută pentru cultivarea bananelor, porumbului și legumelor. Orașul a avut o populație mare de persoane strămutate intern în timpul războiului civil. Afgooye a fost controlat de Al-Shabaab de mai multe ori, dar recucerit de armata somaleză și AMISOM în 2012. Orașul are un pod peste Shebelle și este aproape de Aeroportul Internațional Mogadishu.",
+      en: "Afgooye (also Afgoye) is a city in southern Somalia's Lower Shebelle region, about 30 km west of Mogadishu on the Shebelle River. With about 250,000 residents, it is a key agricultural market, known for bananas, maize, and vegetables. The city hosted many internally displaced people during the civil war. Afgooye was under Al-Shabaab control multiple times, recaptured by Somali forces and AMISOM in 2012. The city has a bridge over the Shebelle and is near Mogadishu International Airport.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 250.000 (2023)", "Entfernung zu Mogadischu: 30 km", "Landwirtschaft: Bananenproduktion 20.000 t/Jahr", "Brücke über Shebelle: Länge 100 Meter", "Rückeroberung von Al-Shabaab: 2012", "Höhe: 75 Meter über dem Meer"],
+      hu: ["Lakosság: kb. 250 000 (2023)", "Távolság Mogadishutól: 30 km", "Mezőgazdaság: banántermelés 20 000 t/év", "Híd a Shebelle felett: hossza 100 méter", "Visszafoglalás Al-Shabaabtól: 2012", "Tengerszint feletti magasság: 75 méter"],
+      ro: ["Populație: aprox. 250.000 (2023)", "Distanță până la Mogadishu: 30 km", "Agricultură: producție banane 20.000 t/an", "Pod peste Shebelle: lungime 100 de metri", "Recucerire de la Al-Shabaab: 2012", "Altitudine: 75 de metri deasupra mării"],
+      en: ["Population: approx. 250,000 (2023)", "Distance to Mogadishu: 30 km", "Agriculture: banana production 20,000 t/year", "Bridge over Shebelle: length 100 meters", "Recaptured from Al-Shabaab: 2012", "Elevation: 75 meters above sea level"],
+    },
+  },
   {
     id: "xuddur-cities-v2",
     type: "city",
     parent: "SO-BK",
     coords: [43.8894, 4.1213],
-    name: { de: "Xuddur", hu: "Xuddur", ro: "Xuddur", en: "Hudur",
-image: "/poi-images/xuddur-cities-v2.webp"
-},
+    name: { de: "Xuddur", hu: "Xuddur", ro: "Xuddur", en: "Hudur"},
+    image: "/poi-images/xuddur-cities-v2.webp",
     description: {
       de: "Die Verwaltungshauptstadt der Region Bakool ist ein entscheidender Markt für den lokalen Viehhandel im Binnenland.",
       hu: "A Bakool régió közigazgatási fővárosa a helyi szárazföldi állatkereskedelem meghatározó piaca.",
@@ -336,15 +514,27 @@ image: "/poi-images/xuddur-cities-v2.webp"
       hu: ["Bakool közigazgatási központja", "Fontos állatpiac", "Száraz éghajlat"],
       ro: ["Centrul administrativ al Bakool", "Piață importantă de animale", "Climat uscat"],
       en: ["Administrative center of Bakool", "Important livestock market", "Arid climate"]
-    }, image: "/poi-images/xuddur-cities-v2.webp"},
+    }, image: "/poi-images/xuddur-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hudur (auch Xuddur) ist eine Stadt im Süden Somalias, Hauptstadt der Region Bakool. Sie liegt etwa 350 Kilometer westlich von Mogadischu und hat etwa 100.000 Einwohner. Hudur ist ein wichtiges landwirtschaftliches Zentrum in der fruchtbaren Region nahe der äthiopischen Grenze. Anbau von Sorghum, Mais, Sesam und Bohnen. Die Stadt war während des Bürgerkriegs umkämpft und wurde 2014 von Al-Shabaab kontrolliert, aber 2015 von der somalischen Armee zurückerobert. Hudur hat einen Flughafen und ist ein Knotenpunkt für den Handel mit Äthiopien. Die Bevölkerung besteht hauptsächlich aus dem Clan der Rahanweyn.",
+      hu: "Hudur (más néven Xuddur) egy város Dél-Szomáliában, a Bakool régió fővárosa. Mogadishutól kb. 350 km-re nyugatra fekszik, lakossága kb. 100 000 fő. Hudur fontos mezőgazdasági központ a termékeny régióban, Etiópia határához közel. Cirok, kukorica, szezám és bab termesztése. A város a polgárháborúban heves harcok színhelye volt, 2014-ben Al-Shabaab ellenőrizte, de 2015-ben a szomáliai hadsereg visszafoglalta. Hudur repülőtérrel rendelkezik, és fontos csomópont az Etiópiával folytatott kereskedelemben. A lakosság főleg a Rahanweyn klánhoz tartozik.",
+      ro: "Hudur (numit și Xuddur) este un oraș din sudul Somaliei, capitala regiunii Bakool. Situat la aproximativ 350 km vest de Mogadishu, are aproximativ 100.000 de locuitori. Hudur este un centru agricol important într-o regiune fertilă aproape de granița cu Etiopia. Cultivă sorg, porumb, susan și fasole. Orașul a fost puternic disputat în războiul civil, controlat de Al-Shabaab în 2014, dar recucerit de armata somaleză în 2015. Hudur are un aeroport și este un nod comercial cu Etiopia. Populația aparține în principal clanului Rahanweyn.",
+      en: "Hudur (also Xuddur) is a city in southern Somalia, capital of the Bakool region. About 350 km west of Mogadishu, it has about 100,000 inhabitants. Hudur is an important agricultural center in a fertile area near the Ethiopian border, growing sorghum, maize, sesame, and beans. The city was contested during the civil war, held by Al-Shabaab in 2014, recaptured by Somali forces in 2015. Hudur has an airport and is a trade hub with Ethiopia. The population is predominantly from the Rahanweyn clan.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 100.000 (2023)", "Entfernung zu Mogadischu: 350 km", "Höhe: 200 Meter über dem Meer", "Landwirtschaft: Sorghumproduktion 10.000 t/Jahr", "Flughafen: Xuddur Airport (IATA: XUD)", "Al-Shabaab Rückzug: 2015"],
+      hu: ["Lakosság: kb. 100 000 (2023)", "Távolság Mogadishutól: 350 km", "Tengerszint feletti magasság: 200 méter", "Mezőgazdaság: ciroktermelés 10 000 t/év", "Repülőtér: Xuddur Airport (IATA: XUD)", "Al-Shabaab kivonulás: 2015"],
+      ro: ["Populație: aprox. 100.000 (2023)", "Distanță până la Mogadishu: 350 km", "Altitudine: 200 de metri deasupra mării", "Agricultură: producție sorg 10.000 t/an", "Aeroport: Aeroportul Xuddur (IATA: XUD)", "Retragerea Al-Shabaab: 2015"],
+      en: ["Population: approx. 100,000 (2023)", "Distance to Mogadishu: 350 km", "Elevation: 200 meters above sea level", "Agriculture: sorghum production 10,000 t/year", "Airport: Xuddur Airport (IATA: XUD)", "Al-Shabaab withdrawal: 2015"],
+    },
+  },
   {
     id: "garbahaarey-cities-v2",
     type: "city",
     parent: "SO-GE",
     coords: [42.2227, 3.3275],
-    name: { de: "Garbahaarey", hu: "Garbahaarey", ro: "Garbahaarey", en: "Garbahaarey",
-image: "/poi-images/garbahaarey-cities-v2.webp"
-},
+    name: { de: "Garbahaarey", hu: "Garbahaarey", ro: "Garbahaarey", en: "Garbahaarey"},
+    image: "/poi-images/garbahaarey-cities-v2.webp",
     description: {
       de: "Umgeben von schroffen Hügeln dient diese Siedlung als administratives und kommerzielles Herz der Region Gedo.",
       hu: "Zord dombokkal körülvéve ez a település Gedo régió közigazgatási és kereskedelmi központjaként szolgál.",
@@ -355,15 +545,27 @@ image: "/poi-images/garbahaarey-cities-v2.webp"
       hu: ["Gedo régió fővárosa", "Dombvidéki táj jellemzi", "Összeköti Délnyugat-Szomáliát"],
       ro: ["Capitala regiunii Gedo", "Caracterizat de un peisaj deluros", "Conectează sud-vestul Somaliei"],
       en: ["Capital of the Gedo region", "Characterized by hilly landscape", "Connects southwestern Somalia"]
-    }, image: "/poi-images/garbahaarey-cities-v2.webp"},
+    }, image: "/poi-images/garbahaarey-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Garbahaarey ist die Hauptstadt der Region Gedo in Somalia. Die Stadt liegt im Südwesten des Landes, nahe der Grenze zu Äthiopien. Sie hat etwa 100.000 Einwohner und ist ein wichtiger Handelsplatz für landwirtschaftliche Produkte wie Sorghum, Mais und Vieh. Die Stadt wurde im 19. Jahrhundert gegründet und ist nach dem lokalen Begriff für den Jubb-Fluss benannt. Garbahaarey hat einen Flughafen und ist über unbefestigte Straßen mit anderen Städten verbunden. Die Region ist semi-arid und leidet unter periodischen Dürren. Seit den 1990er Jahren ist die Stadt von Konflikten zwischen verschiedenen Clans betroffen. Dennoch hat sie eine reiche kulturelle Tradition mit Poesie und Musik. Die Stadt ist auch ein Zentrum für islamische Bildung mit mehreren Moscheen und Koranschulen.",
+      hu: "Garbahaarey Szomália Gedo régiójának fővárosa. Az ország délnyugati részén fekszik, Etiópia határához közel. Lakosainak száma körülbelül 100 000 fő, és fontos kereskedelmi központ mezőgazdasági termékek, például cirok, kukorica és állatállomány számára. A várost a 19. században alapították, és a Jubb folyó helyi elnevezéséről kapta a nevét. Garbahaarey rendelkezik repülőtérrel, és földutakkal kapcsolódik más városokhoz. A régió félszáraz, és időszakos aszályok sújtják. Az 1990-es évek óta a várost különböző klánok közötti konfliktusok érintik. Ennek ellenére gazdag kulturális hagyományokkal rendelkezik, költészettel és zenével. A város az iszlám oktatás központja is, számos mecsettel és Korán-iskolával.",
+      ro: "Garbahaarey este capitala regiunii Gedo din Somalia. Orașul este situat în sud-vestul țării, aproape de granița cu Etiopia. Are aproximativ 100.000 de locuitori și este un important centru comercial pentru produse agricole precum sorg, porumb și vite. Orașul a fost fondat în secolul al XIX-lea și poartă numele local al râului Juba. Garbahaarey are un aeroport și este conectat prin drumuri de pământ cu alte orașe. Regiunea este semiaridă și suferă de secete periodice. Începând cu anii 1990, orașul a fost afectat de conflicte între diferite clanuri. Cu toate acestea, are o bogată tradiție culturală, cu poezie și muzică. Orașul este, de asemenea, un centru pentru educația islamică, cu mai multe moschei și școli coranice.",
+      en: "Garbahaarey is the capital of the Gedo region in Somalia. Located in the southwestern part of the country near the Ethiopian border, it has a population of about 100,000 and serves as a major trading hub for agricultural products such as sorghum, maize, and livestock. Founded in the 19th century, its name derives from the local term for the Juba River. The town has an airport and is connected via unpaved roads to other cities. The region is semi-arid and suffers from periodic droughts. Since the 1990s, the town has been affected by clan-based conflicts. Nevertheless, it possesses a rich cultural tradition of poetry and music. Garbahaarey is also a center for Islamic education, with several mosques and Quranic schools.",
+    },
+    factsAdvanced: {
+      de: ["Hauptstadt der Region Gedo mit etwa 100.000 Einwohnern.", "Gegründet im 19. Jahrhundert.", "Höhe: etwa 200 Meter über dem Meeresspiegel.", "Flughafen Garbahaarey (ICAO: HCMS) hat eine 2.000 Meter lange Startbahn.", "Durchschnittliche Jahrestemperatur: 28°C.", "Die Stadt liegt etwa 50 km von der äthiopischen Grenze entfernt."],
+      hu: ["A Gedo régió fővárosa, kb. 100 000 lakossal.", "A 19. században alapították.", "Tengerszint feletti magasság: kb. 200 méter.", "A Garbahaarey repülőtér (ICAO: HCMS) 2000 méteres kifutópályával rendelkezik.", "Átlagos éves hőmérséklet: 28°C.", "A város kb. 50 km-re van az etióp határtól."],
+      ro: ["Capitala regiunii Gedo, cu aproximativ 100.000 de locuitori.", "Fondat în secolul al XIX-lea.", "Altitudine: aproximativ 200 de metri deasupra nivelului mării.", "Aeroportul Garbahaarey (ICAO: HCMS) are o pistă de 2.000 de metri.", "Temperatura medie anuală: 28°C.", "Orașul se află la aproximativ 50 km de granița cu Etiopia."],
+      en: ["Capital of Gedo region with about 100,000 inhabitants.", "Founded in the 19th century.", "Elevation: about 200 meters above sea level.", "Garbahaarey Airport (ICAO: HCMS) has a 2,000-meter runway.", "Average annual temperature: 28°C.", "The town lies about 50 km from the Ethiopian border."],
+    },
+  },
   {
     id: "buaale-cities-v2",
     type: "city",
     parent: "SO-JD",
     coords: [42.5802, 1.0827],
-    name: { de: "Buale", hu: "Bu'aale", ro: "Bu'aale", en: "Bu'aale",
-image: "/poi-images/buaale-cities-v2.webp"
-},
+    name: { de: "Buale", hu: "Bu'aale", ro: "Bu'aale", en: "Bu'aale"},
+    image: "/poi-images/buaale-cities-v2.webp",
     description: {
       de: "Buale liegt am Fluss Jubba und profitiert stark von den fruchtbaren Böden, die eine ertragreiche Landwirtschaft ermöglichen.",
       hu: "Buale a Jubba folyó partján fekszik, és nagymértékben profitál a termékeny talajból, amely bőséges mezőgazdaságot tesz lehetővé.",
@@ -374,15 +576,27 @@ image: "/poi-images/buaale-cities-v2.webp"
       hu: ["Jubbada Dhexe fővárosa", "Gazdag folyóparti mezőgazdaság", "Stratégiai folyami átkelő"],
       ro: ["Capitala Jubbada Dhexe", "Agricultură bogată pe râu", "Pasaj strategic fluvial"],
       en: ["Capital of Jubbada Dhexe", "Rich riverside agriculture", "Strategic river crossing"]
-    }, image: "/poi-images/buaale-cities-v2.webp"},
+    }, image: "/poi-images/buaale-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bu'aale ist eine Stadt im Süden Somalias, gelegen im Juba-Tal in der Region Middle Juba. Die Stadt dient als Verwaltungssitz des Distrikts Bu'aale. Historisch war Bu'aale ein wichtiger Knotenpunkt für den Handel zwischen dem Landesinneren und der Küste, insbesondere für landwirtschaftliche Produkte wie Sorghum und Mais. Die Region ist geprägt von saisonalen Überschwemmungen des Juba-Flusses, die die landwirtschaftliche Produktion beeinflussen. Bu'aale hat eine junge Bevölkerung, wobei ein Großteil der Einwohner von Subsistenzlandwirtschaft lebt. Die Stadt hat in den letzten Jahrzehnten Phasen der Unsicherheit erlebt, bedingt durch den somalischen Bürgerkrieg. Dennoch bleibt Bu'aale ein wichtiges Zentrum für die umliegenden ländlichen Gebiete, mit einem kleinen Markt und grundlegenden Dienstleistungen.",
+      hu: "Bu'aale város Szomália déli részén, a Juba folyó völgyében, a Középső-Juba régióban található. A város a Bu'aale körzet közigazgatási központja. Történelme során Bu'aale fontos kereskedelmi csomópont volt a belső területek és a partvidék között, különösen a mezőgazdasági termékek, mint a cirok és kukorica tekintetében. A régió gazdaságát a Juba folyó szezonális áradásai határozzák meg, amelyek termékeny iszapot hagynak hátra, lehetővé téve a gazdálkodást. A város lakossága fiatal, és sokan megélhetési gazdálkodásból élnek. Bu'aale-t a szomáliai polgárháború alatt ismétlődő konfliktusok sújtották, ami hátráltatta a fejlődést. A városban alapvető egészségügyi és oktatási létesítmények találhatók, de a szolgáltatások színvonala alacsony. A közeli folyó halászatot is lehetővé tesz, ami kiegészíti a helyi étrendet.",
+      ro: "Bu'aale este un oraș situat în sudul Somaliei, în valea râului Juba, în regiunea Middle Juba. Orașul este capitala districtului Bu'aale. Din punct de vedere istoric, Bu'aale a fost un nod comercial important între interiorul țării și coastă, în special pentru produse agricole precum sorgul și porumbul. Regiunea se caracterizează prin inundații sezoniere ale râului Juba, care depun nămol fertil și susțin agricultura. Populația orașului este în mare parte tânără, iar majoritatea locuitorilor se bazează pe agricultura de subzistență. Bu'aale a suferit de pe urma conflictelor din timpul războiului civil somalez, ceea ce a dus la o dezvoltare economică limitată. Cu toate acestea, orașul rămâne un centru mic dar vital pentru satele din jur, oferind o piață și servicii de bază. Pescuitul în râul Juba completează economia locală.",
+      en: "Bu'aale is a town in southern Somalia, located in the Juba Valley within the Middle Juba region. It serves as the administrative capital of Bu'aale District. Historically, Bu'aale was a key trade hub between the interior and the coast, facilitating the exchange of agricultural goods like sorghum and maize. The region's economy is heavily dependent on the seasonal flooding of the Juba River, which deposits fertile silt. The town has a young population, with most residents engaged in subsistence farming. Due to the Somali civil war, Bu'aale has faced periods of instability and limited infrastructure development. Nonetheless, it remains an important local center, hosting a market, primary schools, and a health clinic. The river also supports fishing, providing an additional food source.",
+    },
+    factsAdvanced: {
+      de: ["Bu'aale liegt etwa 340 Kilometer südwestlich von Mogadischu.", "Die Stadt hat eine geschätzte Bevölkerung von 25.000 bis 30.000 Einwohnern.", "Der Juba-Fluss fließt etwa 5 Kilometer östlich der Stadt.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt rund 500 mm.", "Bu'aale wurde während der Kolonialzeit als Verwaltungsposten der italienischen Kolonie Somalia gegründet.", "Die Stadt verfügt über keine asphaltierten Straßen; die Hauptverkehrswege sind Schotterpisten."],
+      hu: ["Bu'aale Körülbelül 340 km-re délnyugatra található Mogadishutól.", "A város lakosságát 25 000 és 30 000 fő közé becsülik.", "A Juba folyó mintegy 5 km-re keletre folyik a várostól.", "Az éves csapadékmennyiség átlagosan 500 mm körül van.", "Bu'aale-t az olasz gyarmati időkben alapították közigazgatási állomásként.", "A városban nincs aszfaltozott út; a fő közlekedési útvonalak földutak."],
+      ro: ["Bu'aale se află la aproximativ 340 km sud-vest de Mogadishu.", "Populația orașului este estimată între 25.000 și 30.000 de locuitori.", "Râul Juba curge la aproximativ 5 km est de oraș.", "Precipitațiile medii anuale sunt de aproximativ 500 mm.", "Bu'aale a fost înființată în perioada colonială ca post administrativ al Somaliei italiene.", "Orașul nu are drumuri asfaltate; principalele rute sunt drumuri de piatră."],
+      en: ["Bu'aale is approximately 340 km southwest of Mogadishu.", "The town's population is estimated between 25,000 and 30,000.", "The Juba River flows about 5 km east of the town.", "Average annual rainfall is around 500 mm.", "Bu'aale was established during the colonial era as an administrative post of Italian Somalia.", "The town lacks paved roads; main routes are gravel tracks."],
+    },
+  },
   {
     id: "dhusamareb-cities-v2",
     type: "city",
     parent: "SO-GA",
     coords: [46.3867, 5.5350],
-    name: { de: "Dhusamareb", hu: "Dhuusamareeb", ro: "Dhusamareb", en: "Dhusamareb",
-image: "/poi-images/dhusamareb-cities-v2.webp"
-},
+    name: { de: "Dhusamareb", hu: "Dhuusamareeb", ro: "Dhusamareb", en: "Dhusamareb"},
+    image: "/poi-images/dhusamareb-cities-v2.webp",
     description: {
       de: "Als zentrale Stadt in Galmudug ist dieser Ort ein Knotenpunkt für politische Treffen und den interregionalen Handel.",
       hu: "Galmudug központi városaként ez a hely politikai találkozók és a régiók közötti kereskedelem csomópontja.",
@@ -393,15 +607,27 @@ image: "/poi-images/dhusamareb-cities-v2.webp"
       hu: ["Galguduud régió közigazgatási székhelye", "Politikailag fontos hely", "Közép-Szomália központja"],
       ro: ["Sediul administrativ al regiunii Galguduud", "Loc politic important", "Centru în Somalia centrală"],
       en: ["Administrative seat of Galguduud region", "Politically important location", "Center in central Somalia"]
-    }, image: "/poi-images/dhusamareb-cities-v2.webp"},
+    }, image: "/poi-images/dhusamareb-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dhusamareb ist die Hauptstadt der Region Galmudug in Zentral-Somalia. Die Stadt liegt strategisch an der wichtigsten Nord-Süd-Verbindung, die Mogadischu mit dem Norden verbindet. Dhusamareb hat sich in den letzten Jahren zu einem wichtigen politischen und wirtschaftlichen Zentrum entwickelt, da hier der Sitz der Regionalregierung von Galmudug ist. Die Bevölkerung besteht hauptsächlich aus nomadischen Hirten, die Viehzucht betreiben, insbesondere Kamele, Ziegen und Schafe. Die Stadt hat einen belebten Markt, auf dem Vieh und landwirtschaftliche Produkte gehandelt werden. Dhusamareb profitiert von einer relativ stabilen Sicherheitslage im Vergleich zu anderen Teilen Somalias, was Investitionen angezogen hat. Bildungseinrichtungen wie die Galmudug University tragen zur Entwicklung bei.",
+      hu: "Dhusamareb Szomália középső részén, Galmudug régió fővárosa. A város stratégiai elhelyezkedése miatt fontos csomópont a Mogadishut északkal összekötő főútvonal mentén. Az elmúlt években Dhusamareb jelentős politikai és gazdasági központtá fejlődött, itt található a Galmudug regionális kormány székhelye. A lakosság többsége nomád pásztorkodó, akik tevét, kecskét és juhot tartanak. A városban élénk piac működik, ahol állatokat és mezőgazdasági termékeket adnak-vesznek. Dhusamareb viszonylag stabil biztonsági helyzete vonzóvá tette a befektetők számára. Az oktatási intézmények, mint a Galmudug Egyetem, hozzájárulnak a régió fejlődéséhez.",
+      ro: "Dhusamareb este capitala regiunii Galmudug din centrul Somaliei. Orașul este situat strategic de-a lungul principalei rute nord-sud care leagă Mogadishu de nord. În ultimii ani, Dhusamareb a devenit un important centru politic și economic, găzduind sediul guvernului regional Galmudug. Populația este formată în principal din păstori nomazi care cresc cămile, capre și oi. Orașul are o piață aglomerată unde se comercializează animale și produse agricole. Dhusamareb beneficiază de o situație de securitate relativ stabilă, atrăgând investiții. Instituțiile de învățământ, cum ar fi Universitatea Galmudug, contribuie la dezvoltarea regiunii.",
+      en: "Dhusamareb is the capital of the Galmudug region in central Somalia. It is strategically located along the main north-south highway connecting Mogadishu to the northern cities. Over recent years, Dhusamareb has grown into a significant political and economic hub, hosting the Galmudug regional government. The population is largely composed of nomadic pastoralists who raise livestock such as camels, goats, and sheep. The town features a bustling livestock market and serves as a trading center for agricultural goods. Dhusamareb has experienced relative stability compared to other Somali regions, attracting investment and development. Educational institutions like Galmudug University have been established, fostering local capacity building.",
+    },
+    factsAdvanced: {
+      de: ["Die Einwohnerzahl von Dhusamareb wird auf etwa 125.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 500 Metern über dem Meeresspiegel.", "Die Galmudug University wurde 2010 gegründet.", "Dhusamareb ist etwa 570 Kilometer nördlich von Mogadischu gelegen.", "Der lokale Markt verarbeitet schätzungsweise 10.000 Tiere pro Monat.", "Die Region Galmudug hat eine Fläche von rund 78.000 Quadratkilometern."],
+      hu: ["Dhusamareb lakosságát körülbelül 125 000 főre becsülik.", "A város körülbelül 500 méterrel fekszik a tengerszint felett.", "A Galmudug Egyetemet 2010-ben alapították.", "Dhusamareb körülbelül 570 km-re északra található Mogadishutól.", "A helyi piacon becslések szerint havonta 10 000 állatot adnak el.", "Galmudug régió területe körülbelül 78 000 négyzetkilométer."],
+      ro: ["Populația Dhusamareb este estimată la aproximativ 125.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 500 de metri deasupra nivelului mării.", "Universitatea Galmudug a fost fondată în 2010.", "Dhusamareb se află la aproximativ 570 km nord de Mogadishu.", "Piața locală procesează aproximativ 10.000 de animale pe lună.", "Regiunea Galmudug are o suprafață de aproximativ 78.000 de kilometri pătrați."],
+      en: ["Dhusamareb's population is estimated at around 125,000.", "The town lies at an elevation of approximately 500 meters above sea level.", "Galmudug University was founded in 2010.", "Dhusamareb is located about 570 km north of Mogadishu.", "The local market handles an estimated 10,000 livestock per month.", "The Galmudug region covers an area of roughly 78,000 square kilometers."],
+    },
+  },
   {
     id: "barawe-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [44.0298, 1.1118],
-    name: { de: "Barawa", hu: "Baraawe", ro: "Barawe", en: "Barawe",
-image: "/poi-images/barawe-cities-v2.webp"
-},
+    name: { de: "Barawa", hu: "Baraawe", ro: "Barawe", en: "Barawe"},
+    image: "/poi-images/barawe-cities-v2.webp",
     description: {
       de: "Die alte Küstenstadt hat eine reiche Geschichte und eine einzigartige Architektur, die arabische und afrikanische Elemente verbindet.",
       hu: "A régi tengerparti város gazdag történelemmel és egyedi építészettel rendelkezik, amely ötvözi az arab és az afrikai elemeket.",
@@ -412,15 +638,27 @@ image: "/poi-images/barawe-cities-v2.webp"
       hu: ["Régi kikötőváros", "Történelmi szuahéli-arab hatások", "Délnyugat-Szomália korábbi fővárosa"],
       ro: ["Oraș port vechi", "Influențe istorice swahili-arabe", "Fosta capitală a sud-vestului Somaliei"],
       en: ["Ancient port city", "Historic Swahili-Arab influences", "Former capital of South West Somalia"]
-    }, image: "/poi-images/barawe-cities-v2.webp"},
+    }, image: "/poi-images/barawe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Barawe (auch bekannt als Brava) ist eine Küstenstadt im Süden Somalias, gelegen in der Region Lower Shabelle. Die Stadt war im 19. Jahrhundert ein bedeutendes Zentrum des Handels und der islamischen Gelehrsamkeit, bekannt für ihre weißen Korallensteinhäuser und engen Gassen. Barawe war ein wichtiger Hafen für den Export von landwirtschaftlichen Produkten aus dem Hinterland, insbesondere Bananen, die auf Plantagen entlang des Shabelle-Flusses angebaut wurden. Die lokale Architektur zeigt eine Mischung aus arabischen, persischen und afrikanischen Einflüssen. Die Bevölkerung besteht hauptsächlich aus verschiedenen Somali-Clans. In den letzten Jahrzehnten war die Stadt Schauplatz von Konflikten, hat aber ihren kulturellen Charakter bewahrt.",
+      hu: "Barawe (más néven Brava) egy tengerparti város Szomália déli részén, az Alsó-Shabelle régióban. A város a 19. században a kereskedelem és az iszlám tudományosság fontos központja volt, híres fehér korallkő házaival és szűk utcáival. Barawe fontos kikötő volt a belső területek mezőgazdasági termékeinek, különösen a banánnak az exportjában, amelyet a Shabelle folyó menti ültetvényeken termesztettek. A helyi építészet arab, perzsa és afrikai hatások keverékét mutatja. A lakosság főként szomáli klánokból áll. Az elmúlt évtizedekben a város konfliktusok színtere volt, de megőrizte kulturális jellegét.",
+      ro: "Barawe (cunoscut și ca Brava) este un oraș de coastă din sudul Somaliei, în regiunea Lower Shabelle. În secolul al XIX-lea, orașul a fost un important centru comercial și de învățământ islamic, renumit pentru casele sale din piatră de corali și străzile înguste. Barawe a fost un port important pentru exportul de produse agricole din interior, în special banane cultivate pe plantațiile de-a lungul râului Shabelle. Arhitectura locală reflectă influențe arabe, persane și africane. Populația este compusă în principal din clanuri somaleze. În ultimele decenii, orașul a fost afectat de conflicte, dar și-a păstrat caracterul cultural distinct.",
+      en: "Barawe (also known as Brava) is a coastal town in southern Somalia, located in the Lower Shabelle region. It was a historic center of trade and Islamic scholarship in the 19th century, known for its white coral-stone houses and narrow alleys. Barawe served as a key port for exporting agricultural produce from the hinterland, especially bananas grown on plantations along the Shabelle River. The local architecture shows a fusion of Arab, Persian, and African styles. The population is predominantly Somali, with various clan affiliations. Despite conflicts in recent decades, Barawe has retained its unique cultural heritage and traditional character.",
+    },
+    factsAdvanced: {
+      de: ["Barawe liegt etwa 180 Kilometer südwestlich von Mogadischu entlang der Küste.", "Die Stadt hat schätzungsweise 35.000 bis 40.000 Einwohner.", "Barawe verfügt über einen Naturhafen, der kleine Schiffe aufnehmen kann.", "Die historische Altstadt umfasst über 100 Korallensteinhäuser.", "Die durchschnittliche Jahrestemperatur beträgt etwa 27°C.", "Der Bananenexport aus Barawe erreichte in den 1980er Jahren ein Volumen von über 50.000 Tonnen pro Jahr."],
+      hu: ["Barawe körülbelül 180 km-re délnyugatra található Mogadishutól a part mentén.", "A város lakosságát 35 000 és 40 000 fő közé becsülik.", "Barawe természetes kikötővel rendelkezik, amely alkalmas kis hajók fogadására.", "A történelmi óvárosban több mint 100 korallkő ház található.", "Az éves átlaghőmérséklet körülbelül 27°C.", "A Barawe-ból származó banánexport az 1980-as években meghaladta az évi 50 000 tonnát."],
+      ro: ["Barawe este situat la aproximativ 180 km sud-vest de Mogadishu, de-a lungul coastei.", "Orașul are o populație estimată între 35.000 și 40.000 de locuitori.", "Barawe dispune de un port natural care poate găzdui nave mici.", "Orașul vechi istoric cuprinde peste 100 de case din piatră de corali.", "Temperatura medie anuală este de aproximativ 27°C.", "Exportul de banane din Barawe a atins un volum de peste 50.000 de tone pe an în anii 1980."],
+      en: ["Barawe is located about 180 km southwest of Mogadishu along the coast.", "The town has an estimated population of 35,000 to 40,000.", "Barawe has a natural harbor that can accommodate small vessels.", "The historic old town contains over 100 coral-stone houses.", "Average annual temperature is around 27°C.", "Banana exports from Barawe reached over 50,000 tons per year in the 1980s."],
+    },
+  },
   {
     id: "luuq-cities-v2",
     type: "city",
     parent: "SO-GE",
     coords: [42.5446, 2.8020],
-    name: { de: "Luuq", hu: "Luuq", ro: "Luuq", en: "Luuq",
-image: "/poi-images/luuq-cities-v2.webp"
-},
+    name: { de: "Luuq", hu: "Luuq", ro: "Luuq", en: "Luuq"},
+    image: "/poi-images/luuq-cities-v2.webp",
     description: {
       de: "Die Stadt ist geografisch einzigartig, da sie fast vollständig vom mäandrierenden Fluss Jubba umschlossen wird.",
       hu: "A város földrajzilag egyedülálló, mivel szinte teljesen körülveszi a kanyargós Jubba folyó.",
@@ -431,15 +669,27 @@ image: "/poi-images/luuq-cities-v2.webp"
       hu: ["Egy folyókanyarban fekszik", "Jelentős agrárövezet", "Történelmi kereskedőváros"],
       ro: ["Situat într-o buclă a râului", "Zonă agricolă semnificativă", "Oraș comercial istoric"],
       en: ["Located in a river loop", "Significant agricultural zone", "Historic trading town"]
-    }, image: "/poi-images/luuq-cities-v2.webp"},
+    }, image: "/poi-images/luuq-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Luuq ist eine Stadt im Südwesten Somalias, nahe der Grenze zu Äthiopien, gelegen in der Region Gedo. Die Stadt liegt am Fluss Juba und ist ein wichtiger Handels- und Grenzübergangspunkt. Luuq hat eine multiethnische Bevölkerung, darunter Somali und verschiedene Bantu-Gruppen. Die Wirtschaft basiert auf Landwirtschaft, insbesondere dem Anbau von Mais, Sorghum und Bohnen, sowie auf Viehzucht. Aufgrund seiner Lage war Luuq historisch ein Umschlagplatz für Waren zwischen dem somalischen Hinterland und Äthiopien. Die Stadt hat mehrere Bildungseinrichtungen, darunter eine Lehrerbildungsanstalt. In den letzten Jahren war Luuq von Konflikten betroffen, bleibt aber ein regionales Zentrum.",
+      hu: "Luuq város Szomália délnyugati részén, az etiópiai határ közelében, a Gedo régióban található. A város a Juba folyó partján fekszik, és fontos kereskedelmi és határátkelőhely. Luuq lakossága multietnikus, szomáliak és különböző bantu csoportok alkotják. A gazdaság a mezőgazdaságra épül, főként kukorica, cirok és bab termesztésére, valamint állattenyésztésre. Fekvésének köszönhetően Luuq történelmileg árucsomópont volt a szomáli belső területek és Etiópia között. A városban több oktatási intézmény található, köztük egy tanárképző iskola. Az elmúlt években Luuq-ot konfliktusok sújtották, de regionális központ maradt.",
+      ro: "Luuq este un oraș din sud-vestul Somaliei, aproape de granița cu Etiopia, în regiunea Gedo. Orașul este situat pe râul Juba și este un important punct comercial și de trecere a frontierei. Luuq are o populație multietnică, incluzând somalezi și diverse grupuri bantu. Economia se bazează pe agricultură, în special cultivarea porumbului, sorgului și fasolei, precum și pe creșterea animalelor. Datorită locației sale, Luuq a fost istoric un nod de tranzit pentru mărfuri între interiorul Somaliei și Etiopia. Orașul are mai multe instituții de învățământ, inclusiv o școală de formare a profesorilor. În ultimii ani, Luuq a fost afectat de conflicte, dar rămâne un centru regional.",
+      en: "Luuq is a town in southwestern Somalia, near the border with Ethiopia, in the Gedo region. It lies on the Juba River and is a key trading and border crossing point. Luuq has a multi-ethnic population, including Somalis and various Bantu groups. The economy is based on agriculture, primarily maize, sorghum, and beans, as well as livestock. Due to its location, Luuq has historically been a transit hub for goods between the Somali interior and Ethiopia. The town hosts several educational institutions, including a teacher training college. Despite experiencing conflict in recent years, Luuq remains an important regional center.",
+    },
+    factsAdvanced: {
+      de: ["Luuq liegt etwa 400 Kilometer westlich von Mogadischu.", "Die Bevölkerung wird auf 40.000 bis 50.000 Einwohner geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 150 Metern über dem Meeresspiegel.", "Der Juba-Fluss ist in der Trockenzeit nur etwa 50 Meter breit, während der Regenzeit jedoch stark anschwillt.", "Luuq verfügt über einen Grenzmarkt, der zweimal wöchentlich stattfindet.", "Die durchschnittliche Niederschlagsmenge beträgt etwa 600 mm pro Jahr."],
+      hu: ["Luuq körülbelül 400 km-re nyugatra található Mogadishutól.", "A lakosság számát 40 000 és 50 000 fő közé becsülik.", "A város körülbelül 150 méterrel van a tengerszint felett.", "A Juba folyó a száraz évszakban csak körülbelül 50 méter széles, de az esős évszakban erősen megárad.", "Luuq-ban hetente kétszer tartanak határ menti piacot.", "Az éves csapadékmennyiség körülbelül 600 mm."],
+      ro: ["Luuq este situat la aproximativ 400 km vest de Mogadishu.", "Populația este estimată la 40.000-50.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 150 de metri deasupra nivelului mării.", "Râul Juba are doar aproximativ 50 de metri lățime în sezonul uscat, dar se umflă puternic în sezonul ploios.", "Luuq are o piață de frontieră care are loc de două ori pe săptămână.", "Precipitațiile medii anuale sunt de aproximativ 600 mm."],
+      en: ["Luuq is located approximately 400 km west of Mogadishu.", "The population is estimated at 40,000 to 50,000.", "The town lies at an elevation of about 150 meters above sea level.", "The Juba River is only about 50 meters wide in the dry season but swells significantly in the rainy season.", "Luuq has a border market that operates twice weekly.", "Average annual rainfall is around 600 mm."],
+    },
+  },
   {
     id: "berbera-cities-v2",
     type: "city",
     parent: "SO-WO",
     coords: [45.0143, 10.4396],
-    name: { de: "Berbera", hu: "Berbera", ro: "Berbera", en: "Berbera",
-image: "/poi-images/berbera-cities-v2.webp"
-},
+    name: { de: "Berbera", hu: "Berbera", ro: "Berbera", en: "Berbera"},
+    image: "/poi-images/berbera-cities-v2.webp",
     description: {
       de: "Ein historischer und moderner Tiefseehafen, der als wichtiges Tor für den internationalen Handel am Golf von Aden dient.",
       hu: "Egy történelmi és modern mélytengeri kikötő, amely az Ádeni-öböl nemzetközi kereskedelmének fontos kapujaként szolgál.",
@@ -450,15 +700,27 @@ image: "/poi-images/berbera-cities-v2.webp"
       hu: ["Jelentős mélytengeri kikötő", "Történelmi kereskedelmi központ", "Fontos az exportkereskedelem számára"],
       ro: ["Port maritim adânc important", "Centru comercial istoric", "Important pentru comerțul de export"],
       en: ["Major deep-sea port", "Historic trading center", "Important for export trade"]
-    }, image: "/poi-images/berbera-cities-v2.webp"},
+    }, image: "/poi-images/berbera-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Berbera ist eine Hafenstadt an der Küste des Golfs von Aden im Norden Somalias (Somaliland). Sie hat eine lange Geschichte als Handelshafen, die bis in die Antike zurückreicht. Berbera war im 19. Jahrhundert ein wichtiger Hafen für den Export von Kaffee, Gummi arabicum und Häuten aus dem äthiopischen Hochland. Der moderne Hafen wurde in den 1960er Jahren ausgebaut und ist heute einer der wichtigsten Seehäfen Somalias. Die Stadt ist auch ein touristisches Ziel mit Stränden und Korallenriffen. Berbera hat eine gemischte Bevölkerung aus Issa- und Gadabuursi-Clans. Die Wirtschaft ist stark vom Hafen und der Fischerei abhängig. In den letzten Jahren wurden Pläne zur Entwicklung einer Freihandelszone vorangetrieben.",
+      hu: "Berbera kikötőváros az Ádeni-öböl partján, Szomália (Szomáliföld) északi részén. Hosszú kereskedelmi múltra tekint vissza, amely az ókorig nyúlik vissza. Berbera a 19. században fontos kikötő volt a kávé, a gumiarábikum és a bőrök exportjához az etióp felföldről. A modern kikötőt az 1960-as években bővítették, és ma Szomália egyik legfontosabb tengeri kikötője. A város turisztikai célpont is, strandokkal és korallzátonyokkal. Berbera lakossága vegyes, Issa és Gadabuursi klánokból áll. A gazdaság nagymértékben függ a kikötőtől és a halászattól. Az elmúlt években szabadkereskedelmi övezet létrehozására irányuló terveket szorgalmaztak.",
+      ro: "Berbera este un oraș portuar pe coasta Golfului Aden, în nordul Somaliei (Somaliland). Are o istorie îndelungată ca port comercial, care datează din antichitate. În secolul al XIX-lea, Berbera a fost un port important pentru exportul de cafea, gumă arabică și piei din Etiopia. Portul modern a fost extins în anii 1960 și astăzi este unul dintre cele mai importante porturi maritime ale Somaliei. Orașul este, de asemenea, o destinație turistică cu plaje și recife de corali. Populația este mixtă, formată din clanurile Issa și Gadabuursi. Economia depinde puternic de port și de pescuit. În ultimii ani, au fost promovate planuri pentru dezvoltarea unei zone de liber schimb.",
+      en: "Berbera is a port city on the Gulf of Aden coast in northern Somalia (Somaliland). It has a long history as a trading port, dating back to antiquity. In the 19th century, Berbera was a major harbor for exporting coffee, gum arabic, and hides from the Ethiopian highlands. The modern port was expanded in the 1960s and is now one of Somalia's most important seaports. The city also serves as a tourist destination with beaches and coral reefs. Berbera's population is mixed, including Issa and Gadabuursi clans. The economy is heavily reliant on the port and fishing. Recent years have seen plans for a free trade zone development.",
+    },
+    factsAdvanced: {
+      de: ["Berbera hat etwa 250.000 Einwohner.", "Der Hafen von Berbera wurde 1969 für den Tiefseeverkehr ausgebaut.", "Die Stadt liegt etwa 150 Kilometer südlich von Aden (Jemen) über den Golf.", "Die maximale Tiefe des Hafens beträgt 12 Meter.", "Die jährliche Niederschlagsmenge beträgt weniger als 100 mm.", "Berbera war im 19. Jahrhundert einer der größten Häfen am Horn von Afrika."],
+      hu: ["Berbera lakossága körülbelül 250 000 fő.", "A berberai kikötőt 1969-ben építették ki a mélytengeri hajózás számára.", "A város körülbelül 150 km-re délre található Ádentől (Jemen) az öböl túloldalán.", "A kikötő maximális mélysége 12 méter.", "Az éves csapadékmennyiség kevesebb mint 100 mm.", "Berbera a 19. században Afrika szarvának egyik legnagyobb kikötője volt."],
+      ro: ["Berbera are aproximativ 250.000 de locuitori.", "Portul Berbera a fost extins pentru traficul maritim de adâncime în 1969.", "Orașul se află la aproximativ 150 km sud de Aden (Yemen) peste golf.", "Adâncimea maximă a portului este de 12 metri.", "Precipitațiile anuale sunt sub 100 mm.", "Berbera a fost unul dintre cele mai mari porturi din Cornul Africii în secolul al XIX-lea."],
+      en: ["Berbera has a population of approximately 250,000.", "The port of Berbera was expanded for deep-sea traffic in 1969.", "The city lies about 150 km south of Aden (Yemen) across the gulf.", "The maximum depth of the harbor is 12 meters.", "Annual rainfall is less than 100 mm.", "Berbera was one of the largest ports in the Horn of Africa in the 19th century."],
+    },
+  },
   {
     id: "jilib-cities-v2",
     type: "city",
     parent: "SO-JD",
     coords: [42.7753, 0.4883],
-    name: { de: "Jilib", hu: "Jilib", ro: "Jilib", en: "Jilib",
-image: "/poi-images/jilib-cities-v2.webp"
-},
+    name: { de: "Jilib", hu: "Jilib", ro: "Jilib", en: "Jilib"},
+    image: "/poi-images/jilib-cities-v2.webp",
     description: {
       de: "In der Mitte des fruchtbaren Jubba-Tals gelegen, ist Jilib ein landwirtschaftliches Kraftzentrum mit reicher Ernte.",
       hu: "A termékeny Jubba-völgy közepén fekvő Jilib egy mezőgazdasági erőmű, gazdag terméssel.",
@@ -469,15 +731,27 @@ image: "/poi-images/jilib-cities-v2.webp"
       hu: ["Nagyon termékeny termőföld", "Fontos útkereszteződés", "A Jubba folyó közelében"],
       ro: ["Teren agricol foarte fertil", "Intersecție rutieră importantă", "Aproape de râul Jubba"],
       en: ["Very fertile farmland", "Important road junction", "Near the Jubba River"]
-    }, image: "/poi-images/jilib-cities-v2.webp"},
+    }, image: "/poi-images/jilib-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jilib ist eine Stadt im Süden Somalias in der Region Middle Juba. Sie liegt am Fluss Juba und ist ein landwirtschaftliches Zentrum. Die Stadt ist bekannt für den Anbau von Bananen, Mais und Sesam, die auf den fruchtbaren Böden der Flussebene gedeihen. Jilib hat eine gemischte Bevölkerung aus verschiedenen Somali-Clans und Bantu-Gruppen. Historisch war die Stadt ein wichtiger Markt für die Region. Während des Bürgerkriegs war Jilib Schauplatz von Kämpfen, aber in den letzten Jahren hat sich die Lage stabilisiert. Die Stadt verfügt über Grundschulen und eine Gesundheitsstation. Die Wirtschaft ist stark von der Landwirtschaft und lokalen Märkten abhängig.",
+      hu: "Jilib város Szomália déli részén, a Középső-Juba régióban. A Juba folyó partján fekszik, és mezőgazdasági központ. A város híres banán, kukorica és szezám termesztéséről, amelyek a folyó termékeny síkságán teremnek. Jilib lakossága vegyes, különböző szomáli klánokból és bantu csoportokból áll. Történelmileg a város fontos piac volt a régióban. A polgárháború alatt Jilib harcok színtere volt, de az elmúlt években a helyzet stabilizálódott. A városban általános iskolák és egészségügyi állomás található. A gazdaság erősen függ a mezőgazdaságtól és a helyi piactól.",
+      ro: "Jilib este un oraș din sudul Somaliei, în regiunea Middle Juba. Este situat pe râul Juba și este un centru agricol. Orașul este cunoscut pentru cultivarea bananelor, porumbului și susanului, care prosperă pe solurile fertile ale luncii râului. Jilib are o populație mixtă, formată din diferite clanuri somaleze și grupuri bantu. Din punct de vedere istoric, orașul a fost o piață importantă pentru regiune. În timpul războiului civil, Jilib a fost scena unor lupte, dar în ultimii ani situația s-a stabilizat. Orașul are școli primare și un post de sănătate. Economia depinde în mare măsură de agricultură și de piețele locale.",
+      en: "Jilib is a town in southern Somalia, located in the Middle Juba region. It lies on the Juba River and serves as an agricultural hub. The town is known for growing bananas, maize, and sesame, thriving on the fertile soils of the floodplain. Jilib has a mixed population comprising various Somali clans and Bantu groups. Historically, it was an important market town for the region. During the civil war, Jilib experienced fighting, but security has improved in recent years. The town has primary schools and a health post. The economy is heavily dependent on agriculture and local trade.",
+    },
+    factsAdvanced: {
+      de: ["Jilib liegt etwa 330 Kilometer südwestlich von Mogadischu.", "Die Einwohnerzahl wird auf 25.000 bis 30.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 30 Metern über dem Meeresspiegel.", "Der Juba-Fluss verbreitert sich in der Regenzeit auf bis zu 500 Meter.", "Jilib verfügt über einen wöchentlichen Markt, der Händler aus der gesamten Region anzieht.", "Die durchschnittliche jährliche Temperatur beträgt etwa 28°C."],
+      hu: ["Jilib körülbelül 330 km-re délnyugatra található Mogadishutól.", "A lakosság számát 25 000 és 30 000 fő közé becsülik.", "A város körülbelül 30 méterrel van a tengerszint felett.", "A Juba folyó az esős évszakban akár 500 méter szélesre is duzzadhat.", "Jilibben heti piacot tartanak, amely a régió minden részéről vonz kereskedőket.", "Az éves átlaghőmérséklet körülbelül 28°C."],
+      ro: ["Jilib se află la aproximativ 330 km sud-vest de Mogadishu.", "Populația este estimată la 25.000-30.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 30 de metri deasupra nivelului mării.", "Râul Juba se lărgește până la 500 de metri în sezonul ploios.", "Jilib are o piață săptămânală care atrage comercianți din întreaga regiune.", "Temperatura medie anuală este de aproximativ 28°C."],
+      en: ["Jilib is approximately 330 km southwest of Mogadishu.", "The population is estimated at 25,000 to 30,000.", "The town lies at an elevation of about 30 meters above sea level.", "The Juba River widens up to 500 meters during the rainy season.", "Jilib has a weekly market that attracts traders from across the region.", "Average annual temperature is around 28°C."],
+    },
+  },
   {
     id: "bulo-burti-cities-v2",
     type: "city",
     parent: "SO-HI",
     coords: [45.5678, 3.8569],
-    name: { de: "Buuloburde", hu: "Bulo Burti", ro: "Bulo Burti", en: "Bulo Burti",
-image: "/poi-images/bulo-burti-cities-v2.webp"
-},
+    name: { de: "Buuloburde", hu: "Bulo Burti", ro: "Bulo Burti", en: "Bulo Burti"},
+    image: "/poi-images/bulo-burti-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt der Hiiraan-Region ist eine wichtige Garnisons- und Handelsstadt am Ufer des Shabelle.",
       hu: "A Hiiraan régió második legnagyobb városa fontos helyőrségi és kereskedőváros a Shabelle partján.",
@@ -488,15 +762,27 @@ image: "/poi-images/bulo-burti-cities-v2.webp"
       hu: ["Hiiraan második legnagyobb városa", "Stratégiai folyóparti fekvés", "Fontos belső piac"],
       ro: ["Al doilea oraș ca mărime din Hiiraan", "Locație strategică pe râu", "Piață internă importantă"],
       en: ["Second largest city in Hiiraan", "Strategic river location", "Important inland market"]
-    }, image: "/poi-images/bulo-burti-cities-v2.webp"},
+    }, image: "/poi-images/bulo-burti-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bulo Burti (auch bekannt als Buulobarde) ist eine Stadt in Zentral-Somalia, gelegen in der Region Hiran. Sie liegt am Fluss Shebelle und ist ein wichtiges landwirtschaftliches Zentrum. Die Stadt ist bekannt für den Anbau von Obst und Gemüse, insbesondere Wassermelonen und Papaya, die auf den bewässerten Feldern entlang des Flusses angebaut werden. Bulo Burti hat eine gemischte Bevölkerung aus Hawiye- und anderen Somali-Clans. Historisch war die Stadt ein wichtiger Zwischenstopp für Karawanen, die zwischen der Küste und dem Landesinneren unterwegs waren. Während des Bürgerkriegs wurde die Stadt schwer beschädigt, aber in den letzten Jahren hat sie sich allmählich erholt. Die Stadt verfügt über eine kleine Universitätsniederlassung.",
+      hu: "Bulo Burti (más néven Buulobarde) város Közép-Szomáliában, a Hiran régióban. A Shebelle folyó partján fekszik, és fontos mezőgazdasági központ. A város híres gyümölcs- és zöldségtermesztéséről, különösen görögdinnye és papaya termesztéséről, amelyeket a folyó menti öntözött földeken termesztenek. Bulo Burti lakossága vegyes, Hawiye és más szomáli klánokból áll. Történelmileg a város fontos állomás volt a part és a belső területek között közlekedő karavánok számára. A polgárháború alatt a város súlyosan megrongálódott, de az utóbbi években fokozatosan újjáépült. A városban egy kis egyetemi campus található.",
+      ro: "Bulo Burti (cunoscut și ca Buulobarde) este un oraș din centrul Somaliei, în regiunea Hiran. Este situat pe râul Shebelle și este un important centru agricol. Orașul este cunoscut pentru cultivarea fructelor și legumelor, în special pepeni verzi și papaya, cultivate pe câmpurile irigate de-a lungul râului. Bulo Burti are o populație mixtă, formată din clanurile Hawiye și alte clanuri somaleze. Din punct de vedere istoric, orașul a fost o oprire importantă pentru caravanele care călătoreau între coastă și interior. În timpul războiului civil, orașul a fost grav avariat, dar în ultimii ani s-a recuperat treptat. Orașul are un mic campus universitar.",
+      en: "Bulo Burti (also known as Buulobarde) is a town in central Somalia, located in the Hiran region. It lies on the Shebelle River and is a major agricultural center. The town is known for growing fruits and vegetables, especially watermelons and papayas, cultivated on irrigated fields along the river. Bulo Burti has a mixed population of Hawiye and other Somali clans. Historically, it was an important stop for caravans traveling between the coast and the interior. The town was heavily damaged during the civil war but has been gradually recovering, with reconstruction ongoing. It hosts a small university campus.",
+    },
+    factsAdvanced: {
+      de: ["Bulo Burti liegt etwa 250 Kilometer nördlich von Mogadischu.", "Die Einwohnerzahl wird auf rund 35.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 100 Metern über dem Meeresspiegel.", "Der Shebelle-Fluss ist während der Trockenzeit manchmal ausgetrocknet.", "Bulo Burti verfügt über ein Krankenhaus und mehrere Grundschulen.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt etwa 400 mm."],
+      hu: ["Bulo Burti körülbelül 250 km-re északra található Mogadishutól.", "A lakosság számát körülbelül 35 000 főre becsülik.", "A város körülbelül 100 méterrel van a tengerszint felett.", "A Shebelle folyó a száraz évszakban néha kiszárad.", "Bulo Burti-ban kórház és több általános iskola található.", "Az éves csapadékmennyiség körülbelül 400 mm."],
+      ro: ["Bulo Burti se află la aproximativ 250 km nord de Mogadishu.", "Populația este estimată la aproximativ 35.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 100 de metri deasupra nivelului mării.", "Râul Shebelle se usucă uneori în sezonul uscat.", "Bulo Burti are un spital și mai multe școli primare.", "Precipitațiile medii anuale sunt de aproximativ 400 mm."],
+      en: ["Bulo Burti is approximately 250 km north of Mogadishu.", "The population is estimated at around 35,000.", "The town lies at an elevation of about 100 meters above sea level.", "The Shebelle River sometimes dries up during the dry season.", "Bulo Burti has a hospital and several primary schools.", "Average annual rainfall is around 400 mm."],
+    },
+  },
   {
     id: "wajid-cities-v2",
     type: "city",
     parent: "SO-BK",
     coords: [43.2483, 3.8093],
-    name: { de: "Waajid", hu: "Wajid", ro: "Wajid", en: "Wajid",
-image: "/poi-images/wajid-cities-v2.webp"
-},
+    name: { de: "Waajid", hu: "Wajid", ro: "Wajid", en: "Wajid"},
+    image: "/poi-images/wajid-cities-v2.webp",
     description: {
       de: "Waajid dient als bedeutender Knotenpunkt für den Warentransport zwischen der Küste und dem äthiopischen Hochland.",
       hu: "Waajid fontos csomópontként szolgál a part és az etióp-felföld közötti áruszállításban.",
@@ -507,16 +793,27 @@ image: "/poi-images/wajid-cities-v2.webp"
       hu: ["Fontos tranzitváros", "Jelentős város Bakoolban", "Mezőgazdasági és állatkereskedelem"],
       ro: ["Oraș de tranzit important", "Oraș semnificativ în Bakool", "Comerț agricol și cu animale"],
       en: ["Important transit town", "Significant city in Bakool", "Agricultural and livestock trade"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Wajid ist eine Stadt im Südwesten Somalias, gelegen in der Region Bakool. Sie liegt nahe der Grenze zu Äthiopien und hat eine strategische Bedeutung als Grenzhandelszentrum. Die Bevölkerung besteht hauptsächlich aus den Rahanweyn-Clans, die historisch Ackerbau betreiben. Wajid war bekannt für den Anbau von Sesam, Erdnüssen und Bohnen. Die Stadt hat einen Flugplatz, der während der Trockenzeit genutzt wird. In den letzten Jahrzehnten war Wajid von Dürren und Konflikten betroffen, was zu Vertreibungen führte. Internationale Hilfsorganisationen sind in der Region aktiv. Die Stadt verfügt über einen Markt und einige Gesundheitsdienste.",
+      hu: "Wajid város Szomália délnyugati részén, a Bakool régióban. Az etiópiai határ közelében található, és stratégiai jelentőségű határ menti kereskedelmi központ. A lakosság főként a Rahanweyn klánokból áll, akik történelmileg mezőgazdasággal foglalkoztak. Wajid híres volt szezám, földimogyoró és bab termesztéséről. A városban repülőtér található, amelyet a száraz évszakban használnak. Az elmúlt évtizedekben Wajidot aszályok és konfliktusok sújtották, amelyek lakosság elvándorláshoz vezettek. Nemzetközi segélyszervezetek aktívak a régióban. A városban piac és néhány egészségügyi szolgáltatás található.",
+      ro: "Wajid este un oraș din sud-vestul Somaliei, în regiunea Bakool. Este situat aproape de granița cu Etiopia și are importanță strategică ca centru comercial de frontieră. Populația este formată în principal din clanurile Rahanweyn, care practică agricultura. Wajid era cunoscut pentru cultivarea susanului, arahidelor și fasolei. Orașul are un aerodrom folosit în sezonul uscat. În ultimele decenii, Wajid a fost afectat de secete și conflicte, ducând la strămutări. Organizațiile umanitare internaționale sunt active în regiune. Orașul are o piață și câteva servicii de sănătate.",
+      en: "Wajid is a town in southwestern Somalia, located in the Bakool region. It lies near the Ethiopian border and serves as a strategic cross-border trading hub. The population is predominantly from the Rahanweyn clans, historically engaged in agriculture. Wajid was known for growing sesame, peanuts, and beans. The town has an airstrip that is operational during the dry season. In recent decades, Wajid has suffered from droughts and conflicts, leading to displacement. International aid organizations are active in the area. The town features a market and limited health services.",
+    },
+    factsAdvanced: {
+      de: ["Wajid liegt etwa 360 Kilometer nordwestlich von Mogadischu.", "Die Einwohnerzahl wird auf 20.000 bis 25.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 300 Metern über dem Meeresspiegel.", "Wajid hat eine Landebahn von 1.200 Metern Länge.", "Die Region Bakool hat eine Fläche von etwa 26.000 Quadratkilometern.", "Durchschnittlich fallen 300 mm Niederschlag pro Jahr."],
+      hu: ["Wajid körülbelül 360 km-re északnyugatra található Mogadishutól.", "A lakosság számát 20 000 és 25 000 fő közé becsülik.", "A város körülbelül 300 méterrel van a tengerszint felett.", "Wajidban egy 1200 méter hosszú kifutópálya található.", "Bakool régió területe körülbelül 26 000 négyzetkilométer.", "Az éves csapadékmennyiség átlagosan 300 mm."],
+      ro: ["Wajid se află la aproximativ 360 km nord-vest de Mogadishu.", "Populația este estimată la 20.000-25.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 300 de metri deasupra nivelului mării.", "Wajid are o pistă de 1.200 de metri lungime.", "Regiunea Bakool are o suprafață de aproximativ 26.000 de kilometri pătrați.", "Precipitațiile medii anuale sunt de 300 mm."],
+      en: ["Wajid is approximately 360 km northwest of Mogadishu.", "The population is estimated at 20,000 to 25,000.", "The town lies at an elevation of about 300 meters above sea level.", "Wajid has a 1,200-meter long airstrip.", "The Bakool region covers an area of about 26,000 square kilometers.", "Average annual rainfall is 300 mm."],
+    },
   },
   {
     id: "qoryoley-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [44.5292, 1.7878],
-    name: { de: "Qoryooley", hu: "Qoryooley", ro: "Qoryooley", en: "Qoryoley",
-image: "/poi-images/qoryoley-cities-v2.webp"
-},
+    name: { de: "Qoryooley", hu: "Qoryooley", ro: "Qoryooley", en: "Qoryoley"},
+    image: "/poi-images/qoryoley-cities-v2.webp",
     description: {
       de: "Die fruchtbaren Böden rund um diese Stadt ermöglichen den Anbau einer Vielzahl von Nutzpflanzen und Bananen.",
       hu: "A város körüli termékeny talajok sokféle növény és banán termesztését teszik lehetővé.",
@@ -527,15 +824,27 @@ image: "/poi-images/qoryoley-cities-v2.webp"
       hu: ["A banántermelés központja", "A Shabelle folyó mentén fekszik", "Intenzív mezőgazdaság"],
       ro: ["Centrul producției de banane", "Situat pe râul Shabelle", "Agricultură intensivă"],
       en: ["Center of banana production", "Located on the Shabelle River", "Intensive agriculture"]
-    }, image: "/poi-images/qoryoley-cities-v2.webp"},
+    }, image: "/poi-images/qoryoley-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Qoryoley ist eine Stadt in der Region Lower Shabelle im Süden Somalias. Sie liegt am Fluss Shebelle und ist ein wichtiges landwirtschaftliches Zentrum. Die Stadt ist bekannt für den Anbau von Zuckerrohr, Bananen und Gemüse. Qoryoley hat eine Bevölkerung aus verschiedenen Somali-Clans, darunter die Hawiye. In der Vergangenheit war die Stadt ein wichtiger Markt für die Region. Während des Bürgerkriegs wurde Qoryoley stark beschädigt, aber in den letzten Jahren hat sich die Sicherheitslage verbessert. Die Stadt verfügt über Grundschulen, eine Gesundheitsklinik und einen Markt. Die Wirtschaft ist von der Landwirtschaft und der lokalen Fischerei im Fluss geprägt.",
+      hu: "Qoryoley város az Alsó-Shabelle régióban, Szomália déli részén. A Shebelle folyó partján fekszik, és fontos mezőgazdasági központ. A város híres cukornád, banán és zöldség termesztéséről. Qoryoley lakossága különböző szomáli klánokból, köztük a Hawiye-ból áll. A múltban a város fontos piac volt a régióban. A polgárháború alatt Qoryoley súlyosan megrongálódott, de az utóbbi években a biztonsági helyzet javult. A városban általános iskolák, egészségügyi rendelő és piac található. A gazdaságot a mezőgazdaság és a folyami halászat határozza meg.",
+      ro: "Qoryoley este un oraș din regiunea Lower Shabelle, în sudul Somaliei. Este situat pe râul Shebelle și este un important centru agricol. Orașul este cunoscut pentru cultivarea trestiei de zahăr, bananelor și legumelor. Qoryoley are o populație formată din diferite clanuri somaleze, inclusiv Hawiye. În trecut, orașul a fost o piață importantă pentru regiune. În timpul războiului civil, Qoryoley a fost grav avariat, dar în ultimii ani situația de securitate s-a îmbunătățit. Orașul are școli primare, un dispensar și o piață. Economia se bazează pe agricultură și pe pescuitul în râu.",
+      en: "Qoryoley is a town in the Lower Shabelle region of southern Somalia. It lies on the Shebelle River and is an important agricultural center. The town is known for cultivating sugarcane, bananas, and vegetables. Qoryoley's population is composed of various Somali clans, including Hawiye. Historically, it was a key market town for the region. During the civil war, Qoryoley suffered extensive damage, but security has improved in recent years. The town has primary schools, a health clinic, and a market. The economy is based on agriculture and river fishing.",
+    },
+    factsAdvanced: {
+      de: ["Qoryoley liegt etwa 140 Kilometer südwestlich von Mogadischu.", "Die Einwohnerzahl wird auf 40.000 bis 45.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 50 Metern über dem Meeresspiegel.", "Qoryoley hat eine Zuckerrohrplantage, die etwa 500 Hektar umfasst.", "Der Shebelle-Fluss ist die Hauptwasserquelle für die Bewässerung.", "Die durchschnittliche Jahrestemperatur beträgt 27°C."],
+      hu: ["Qoryoley körülbelül 140 km-re délnyugatra található Mogadishutól.", "A lakosság számát 40 000 és 45 000 fő közé becsülik.", "A város körülbelül 50 méterrel van a tengerszint felett.", "Qoryoleyban egy körülbelül 500 hektáros cukornádültetvény található.", "A Shebelle folyó a fő vízforrás az öntözéshez.", "Az éves átlaghőmérséklet 27°C."],
+      ro: ["Qoryoley se află la aproximativ 140 km sud-vest de Mogadishu.", "Populația este estimată la 40.000-45.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 50 de metri deasupra nivelului mării.", "Qoryoley are o plantație de trestie de zahăr de aproximativ 500 de hectare.", "Râul Shebelle este principala sursă de apă pentru irigații.", "Temperatura medie anuală este de 27°C."],
+      en: ["Qoryoley is approximately 140 km southwest of Mogadishu.", "The population is estimated at 40,000 to 45,000.", "The town lies at an elevation of about 50 meters above sea level.", "Qoryoley has a sugarcane plantation covering about 500 hectares.", "The Shebelle River is the main water source for irrigation.", "Average annual temperature is 27°C."],
+    },
+  },
   {
     id: "balcad-cities-v2",
     type: "city",
     parent: "SO-SD",
     coords: [45.3941, 2.3616],
-    name: { de: "Balcad", hu: "Balcad", ro: "Balcad", en: "Balcad",
-image: "/poi-images/balcad-cities-v2.webp"
-},
+    name: { de: "Balcad", hu: "Balcad", ro: "Balcad", en: "Balcad"},
+    image: "/poi-images/balcad-cities-v2.webp",
     description: {
       de: "Diese wachsende Stadt nahe Mogadischu ist für ihr landwirtschaftliches Potenzial und eine historische Textilfabrik bekannt.",
       hu: "Ez a Mogadishuhoz közeli növekvő város mezőgazdasági lehetőségeiről és egy történelmi textilgyáráról ismert.",
@@ -546,16 +855,27 @@ image: "/poi-images/balcad-cities-v2.webp"
       hu: ["Történelmi textilipar", "Mezőgazdaság a Shabelle folyón", "Stratégiai közelség a fővároshoz"],
       ro: ["Industria textilă istorică", "Agricultura pe râul Shabelle", "Apropiere strategică de capitală"],
       en: ["Historic textile industry", "Agriculture on the Shabelle", "Strategic proximity to the capital"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Balcad (auch Bal'ad) ist eine Stadt in der Region Middle Shabelle in Zentral-Somalia. Sie liegt am Fluss Shebelle, nördlich von Mogadischu. Balcad ist ein landwirtschaftliches Zentrum, das für den Anbau von Getreide, Obst und Gemüse bekannt ist. Die Stadt hat eine Bevölkerung aus verschiedenen Somali-Clans, darunter die Hawiye. Balcad war historisch ein wichtiger Ort für die Bewässerungslandwirtschaft entlang des Flusses. Während des Bürgerkriegs wurde die Stadt beschädigt, aber in den letzten Jahren hat sie sich erholt. Die Stadt verfügt über eine Polizeistation, Schulen und einen Markt. Balcad ist auch für seine traditionellen Töpfereien bekannt.",
+      hu: "Balcad (más néven Bal'ad) város a Középső-Shabelle régióban, Közép-Szomáliában. A Shebelle folyó partján fekszik, Mogadishutól északra. Balcad mezőgazdasági központ, amely gabona, gyümölcs és zöldség termesztéséről ismert. A város lakossága különböző szomáli klánokból, köztük a Hawiye-ból áll. Balcad történelmileg fontos hely volt a folyó menti öntözéses mezőgazdaság számára. A polgárháború alatt a város megrongálódott, de az utóbbi években újjáépült. A városban rendőrállomás, iskolák és piac található. Balcad híres hagyományos fazekasságáról is.",
+      ro: "Balcad (cunoscut și ca Bal'ad) este un oraș din regiunea Middle Shabelle, în centrul Somaliei. Este situat pe râul Shebelle, la nord de Mogadishu. Balcad este un centru agricol cunoscut pentru cultivarea cerealelor, fructelor și legumelor. Orașul are o populație formată din diferite clanuri somaleze, inclusiv Hawiye. Balcad a fost istoric un loc important pentru agricultura irigată de-a lungul râului. În timpul războiului civil, orașul a fost avariat, dar s-a recuperat în ultimii ani. Orașul are o secție de poliție, școli și o piață. Balcad este cunoscut și pentru olăritul tradițional.",
+      en: "Balcad (also Bal'ad) is a town in the Middle Shabelle region of central Somalia. It lies on the Shebelle River, north of Mogadishu. Balcad is an agricultural center known for growing cereals, fruits, and vegetables. The town's population is made up of various Somali clans, including Hawiye. Balcad was historically important for irrigated agriculture along the river. During the civil war, the town suffered damage but has recovered in recent years. It has a police station, schools, and a market. Balcad is also known for traditional pottery.",
+    },
+    factsAdvanced: {
+      de: ["Balcad liegt etwa 35 Kilometer nördlich von Mogadischu.", "Die Einwohnerzahl wird auf 50.000 bis 60.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 60 Metern über dem Meeresspiegel.", "Balcad hat eine Töpferei-Tradition, die mehrere Jahrhunderte alt ist.", "Der Shebelle-Fluss ist die wichtigste Wasserquelle für die Bewässerung der Felder.", "Im Umland werden auf rund 10.000 Hektar landwirtschaftliche Produkte angebaut."],
+      hu: ["Balcad körülbelül 35 km-re északra található Mogadishutól.", "A lakosság számát 50 000 és 60 000 fő közé becsülik.", "A város körülbelül 60 méterrel van a tengerszint felett.", "Balcad fazekassági hagyománya több évszázados múltra tekint vissza.", "A Shebelle folyó a fő vízforrás a földek öntözéséhez.", "A környező területeken körülbelül 10 000 hektáron termesztenek mezőgazdasági termékeket."],
+      ro: ["Balcad se află la aproximativ 35 km nord de Mogadishu.", "Populația este estimată la 50.000-60.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 60 de metri deasupra nivelului mării.", "Balcad are o tradiție olărită veche de câteva secole.", "Râul Shebelle este principala sursă de apă pentru irigarea câmpurilor.", "În împrejurimi, aproximativ 10.000 de hectare sunt cultivate cu produse agricole."],
+      en: ["Balcad is approximately 35 km north of Mogadishu.", "The population is estimated at 50,000 to 60,000.", "The town lies at an elevation of about 60 meters above sea level.", "Balcad has a pottery tradition several centuries old.", "The Shebelle River is the main water source for field irrigation.", "Around 10,000 hectares in the surrounding area are cultivated."],
+    },
   },
   {
     id: "eyl-cities-v2",
     type: "city",
     parent: "SO-NU",
     coords: [49.8152, 7.9803],
-    name: { de: "Eyl", hu: "Eyl", ro: "Eyl", en: "Eyl",
-image: "/poi-images/eyl-cities-v2.webp"
-},
+    name: { de: "Eyl", hu: "Eyl", ro: "Eyl", en: "Eyl"},
+    image: "/poi-images/eyl-cities-v2.webp",
     description: {
       de: "Eine historische Küstenstadt am Indischen Ozean, die für alte steinerne Festungsanlagen des Derwisch-Staates berühmt ist.",
       hu: "Egy történelmi tengerparti város az Indiai-óceánon, amely a Dervis állam ősi kőerődjeiről híres.",
@@ -566,15 +886,27 @@ image: "/poi-images/eyl-cities-v2.webp"
       hu: ["Történelmi Dervis erődök", "Fontos tengerparti város", "Halászati központ"],
       ro: ["Fortificații istorice derviș", "Oraș de coastă important", "Centru de pescuit"],
       en: ["Historic Dervish forts", "Important coastal town", "Fishing center"]
-    }, image: "/poi-images/eyl-cities-v2.webp"},
+    }, image: "/poi-images/eyl-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Eyl ist eine Küstenstadt im Nordosten Somalias, in der Region Nugal, nahe der Grenze zu Puntland. Sie liegt an der Küste des Indischen Ozeans und ist bekannt für ihre Fischerei und ihre Rolle als Piratenhochburg in den 2000er Jahren. Eyl hat eine Bevölkerung, die hauptsächlich aus den Darod-Clans besteht. Die Stadt hat einen natürlichen Hafen, der traditionell für den Handel mit Weihrauch und Myrrhe genutzt wurde. In den letzten Jahren hat die pirateriebekämpfung die Sicherheit verbessert. Eyl verfügt über eine Grundschule und eine Gesundheitsstation. Die Wirtschaft hängt von der Fischerei, der Viehzucht und etwas Landwirtschaft ab.",
+      hu: "Eyl egy tengerparti város Szomália északkeleti részén, a Nugal régióban, Puntland határához közel. Az Indiai-óceán partján fekszik, és híres halászatáról, valamint arról, hogy a 2000-es években kalózok fellegvára volt. Eyl lakossága főként a Darod klánokból áll. A város természetes kikötővel rendelkezik, amelyet hagyományosan tömjén és mirha kereskedelmére használtak. Az utóbbi években a kalózkodás elleni intézkedések javították a biztonságot. Eyl-ben általános iskola és egészségügyi állomás található. A gazdaság a halászattól, az állattenyésztéstől és némi mezőgazdaságtól függ.",
+      ro: "Eyl este un oraș de coastă din nord-estul Somaliei, în regiunea Nugal, aproape de granița cu Puntland. Este situat pe coasta Oceanului Indian și este cunoscut pentru pescuit și pentru rolul său de bază a piraților în anii 2000. Eyl are o populație formată în principal din clanurile Darod. Orașul are un port natural, folosit în mod tradițional pentru comerțul cu tămâie și smirnă. În ultimii ani, măsurile anti-piraterie au îmbunătățit securitatea. Eyl are o școală primară și un post de sănătate. Economia depinde de pescuit, creșterea animalelor și puțină agricultură.",
+      en: "Eyl is a coastal town in northeastern Somalia, in the Nugal region near the border with Puntland. It lies on the Indian Ocean coast and is known for its fishing and its notoriety as a pirate stronghold in the 2000s. Eyl's population is predominantly from the Darod clans. The town has a natural harbor, historically used for trading frankincense and myrrh. In recent years, anti-piracy efforts have improved security. Eyl has a primary school and a health post. The economy relies on fishing, livestock, and some agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Eyl liegt etwa 600 Kilometer nordöstlich von Mogadischu.", "Die Einwohnerzahl wird auf 15.000 bis 20.000 geschätzt.", "Der natürliche Hafen hat eine durchschnittliche Tiefe von 5 Metern.", "Eyl war im Jahr 2008 einer der aktivsten Piratenstützpunkte mit über 30 gekaperten Schiffen.", "Die Stadt hat eine jährliche Niederschlagsmenge von etwa 200 mm.", "Die Fischereiflotte von Eyl besteht aus etwa 100 kleinen Booten."],
+      hu: ["Eyl körülbelül 600 km-re északkeletre található Mogadishutól.", "A lakosság számát 15 000 és 20 000 fő közé becsülik.", "A természetes kikötő átlagos mélysége 5 méter.", "Eyl 2008-ban az egyik legaktívabb kalóz támaszpont volt, több mint 30 eltérített hajóval.", "A város éves csapadékmennyisége körülbelül 200 mm.", "Eyl halászflottája körülbelül 100 kis hajóból áll."],
+      ro: ["Eyl se află la aproximativ 600 km nord-est de Mogadishu.", "Populația este estimată la 15.000-20.000 de locuitori.", "Portul natural are o adâncime medie de 5 metri.", "Eyl a fost în 2008 unul dintre cele mai active baze de pirați, cu peste 30 de nave capturate.", "Orașul are o precipitație anuală de aproximativ 200 mm.", "Flota de pescuit a Eyl-ului este formată din aproximativ 100 de bărci mici."],
+      en: ["Eyl is approximately 600 km northeast of Mogadishu.", "The population is estimated at 15,000 to 20,000.", "The natural harbor has an average depth of 5 meters.", "Eyl was one of the most active pirate bases in 2008, with over 30 ships hijacked.", "The town receives about 200 mm of rainfall annually.", "Eyl's fishing fleet consists of about 100 small boats."],
+    },
+  },
   {
     id: "el-afweyn-cities-v2",
     type: "city",
     parent: "SO-SA",
     coords: [46.2238, 9.9272],
-    name: { de: "Ceel Afweyn", hu: "Ceel Afweyn", ro: "Ceel Afweyn", en: "El Afweyn",
-image: "/poi-images/el-afweyn-cities-v2.webp"
-},
+    name: { de: "Ceel Afweyn", hu: "Ceel Afweyn", ro: "Ceel Afweyn", en: "El Afweyn"},
+    image: "/poi-images/el-afweyn-cities-v2.webp",
     description: {
       de: "Diese landeinwärts gelegene Siedlung in Sanaag ist ein Zentrum für den Handel mit Weihrauch und Myrrhe.",
       hu: "Ez a Sanaag belsejében fekvő település a tömjén és a mirha kereskedelmének központja.",
@@ -585,15 +917,27 @@ image: "/poi-images/el-afweyn-cities-v2.webp"
       hu: ["Tömjéntermelés", "Fontos vidéki közösség", "Legelő a környéken"],
       ro: ["Producție de tămâie", "Comunitate rurală importantă", "Pășune în împrejurimi"],
       en: ["Frankincense production", "Important rural community", "Grazing land in the surroundings"]
-    }, image: "/poi-images/el-afweyn-cities-v2.webp"},
+    }, image: "/poi-images/el-afweyn-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Afweyn ist eine Stadt im Norden Somalias (Somaliland) in der Region Sanaag. Sie liegt in einem trockenen Hochlandgebiet und ist ein Zentrum für nomadische Viehzucht. Die Bevölkerung besteht hauptsächlich aus den Warsangeli- und Dhulbahante-Clans. El Afweyn hat einen Markt, der für den Handel mit Vieh und Milchprodukten bekannt ist. Die Stadt verfügt über eine Grundschule und eine Gesundheitsklinik. In der Umgebung gibt es einige Brunnen, die für die Wasserversorgung wichtig sind. El Afweyn war in den letzten Jahren von Dürren betroffen, die die Lebensgrundlage der Hirten beeinträchtigt haben.",
+      hu: "El Afweyn város Észak-Szomáliában (Szomáliföld) a Sanaag régióban. Száraz felföldi területen fekszik, és a nomád állattenyésztés központja. A lakosság főként a Warsangeli és Dhulbahante klánokból áll. El Afweynban piac található, amely az állat- és tejtermék-kereskedelemről ismert. A városban általános iskola és egészségügyi rendelő működik. A környéken néhány kút található, amelyek fontosak a vízellátás szempontjából. Az elmúlt években El Afweynt aszályok sújtották, amelyek hatással voltak a pásztorok megélhetésére.",
+      ro: "El Afweyn este un oraș din nordul Somaliei (Somaliland) în regiunea Sanaag. Este situat într-o zonă de podiș uscat și este un centru pentru creșterea animalelor nomade. Populația este formată în principal din clanurile Warsangeli și Dhulbahante. El Afweyn are o piață cunoscută pentru comerțul cu animale și produse lactate. Orașul are o școală primară și un dispensar. În zonă există câteva fântâni importante pentru alimentarea cu apă. În ultimii ani, El Afweyn a fost afectat de secete care au afectat traiul păstorilor.",
+      en: "El Afweyn is a town in northern Somalia (Somaliland) in the Sanaag region. It lies in a dry highland area and serves as a center for nomadic livestock herding. The population is predominantly from the Warsangeli and Dhulbahante clans. El Afweyn has a market known for trading livestock and dairy products. The town has a primary school and a health clinic. Several wells in the vicinity provide water. In recent years, El Afweyn has been hit by droughts affecting pastoral livelihoods.",
+    },
+    factsAdvanced: {
+      de: ["El Afweyn liegt etwa 200 Kilometer südlich von Berbera.", "Die Einwohnerzahl wird auf 10.000 bis 15.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 1.000 Metern über dem Meeresspiegel.", "Die durchschnittliche Niederschlagsmenge beträgt weniger als 200 mm pro Jahr.", "El Afweyn hat eine der wenigen Grundschulen in der Region Sanaag.", "Der lokale Viehmarkt verarbeitet wöchentlich etwa 500 Tiere."],
+      hu: ["El Afweyn körülbelül 200 km-re délre található Berberától.", "A lakosság számát 10 000 és 15 000 fő közé becsülik.", "A város körülbelül 1000 méterrel van a tengerszint felett.", "Az éves csapadékmennyiség kevesebb mint 200 mm.", "El Afweyn rendelkezik a Sanaag régió egyik kevés általános iskolájával.", "A helyi állatpiacon hetente körülbelül 500 állatot adnak el."],
+      ro: ["El Afweyn se află la aproximativ 200 km sud de Berbera.", "Populația este estimată la 10.000-15.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 1.000 de metri deasupra nivelului mării.", "Precipitațiile medii anuale sunt sub 200 mm.", "El Afweyn are una dintre puținele școli primare din regiunea Sanaag.", "Piața locală de animale procesează aproximativ 500 de animale pe săptămână."],
+      en: ["El Afweyn is approximately 200 km south of Berbera.", "The population is estimated at 10,000 to 15,000.", "The town lies at an elevation of about 1,000 meters above sea level.", "Average annual rainfall is less than 200 mm.", "El Afweyn has one of the few primary schools in the Sanaag region.", "The local livestock market handles about 500 animals weekly."],
+    },
+  },
   {
     id: "taleh-cities-v2",
     type: "city",
     parent: "SO-SO",
     coords: [48.4206, 9.1517],
-    name: { de: "Taleex", hu: "Taleex", ro: "Taleex", en: "Taleh",
-image: "/poi-images/taleh-cities-v2.webp"
-},
+    name: { de: "Taleex", hu: "Taleex", ro: "Taleex", en: "Taleh"},
+    image: "/poi-images/taleh-cities-v2.webp",
     description: {
       de: "Die alte Hauptstadt des Derwisch-Reiches besticht durch ihre massiven Ruinen, die eine reiche anti-koloniale Geschichte erzählen.",
       hu: "A Dervis Birodalom egykori fővárosa masszív romjaival nyűgöz le, amelyek gazdag gyarmatosítás-ellenes történelemről mesélnek.",
@@ -604,15 +948,27 @@ image: "/poi-images/taleh-cities-v2.webp"
       hu: ["A dervisek egykori fővárosa", "Hatalmas történelmi erődök", "A szomáliai ellenállás szimbóluma"],
       ro: ["Fosta capitală a dervișilor", "Fortărețe istorice masive", "Simbolul rezistenței somaleze"],
       en: ["Former capital of the Dervishes", "Massive historic fortresses", "Symbol of Somali resistance"]
-    }, image: "/poi-images/taleh-cities-v2.webp"},
+    }, image: "/poi-images/taleh-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Taleh (auch Taleex) ist eine Stadt im Nordosten Somalias, in der Region Sanaag (de facto Teil von Puntland). Sie ist bekannt für ihre historische Bedeutung als Hauptstadt des Derwischstaates von Mohammed Abdullah Hassan (1856–1920). Taleh beherbergt die Überreste mehrerer Festungen und Paläste aus dieser Zeit. Die Stadt liegt in einer trockenen Landschaft und wird hauptsächlich von nomadischen Viehzüchtern bewohnt. Taleh hat eine kleine Bevölkerung und ist nur schwer zugänglich. Die historischen Bauwerke sind teilweise verfallen, aber von archäologischem Interesse.",
+      hu: "Taleh (más néven Taleex) város Szomália északkeleti részén, a Sanaag régióban (ténylegesen Puntland része). Híres történelmi jelentőségéről, mivel Mohammed Abdullah Hassan (1856–1920) dervisállamának fővárosa volt. Taleh számos erőd és palota maradványait őrzi ebből az időszakból. A város száraz tájon fekszik, és főként nomád pásztorok lakják. Taleh kis lakossággal rendelkezik, és nehezen megközelíthető. A történelmi építmények részben romosak, de régészeti érdekességet képviselnek.",
+      ro: "Taleh (cunoscut și ca Taleex) este un oraș din nord-estul Somaliei, în regiunea Sanaag (de facto parte a Puntland). Este cunoscut pentru importanța sa istorică ca capitală a statului derviș al lui Mohammed Abdullah Hassan (1856–1920). Taleh adăpostește rămășițele mai multor fortărețe și palate din acea perioadă. Orașul este situat într-un peisaj uscat și este locuit în principal de păstori nomazi. Taleh are o populație mică și este greu accesibil. Clădirile istorice sunt parțial ruinate, dar de interes arheologic.",
+      en: "Taleh (also Taleex) is a town in northeastern Somalia, in the Sanaag region (de facto part of Puntland). It is known for its historical significance as the capital of the Dervish state led by Mohammed Abdullah Hassan (1856–1920). Taleh contains the remains of several forts and palaces from that period. The town lies in an arid landscape and is primarily inhabited by nomadic pastoralists. Taleh has a small population and is difficult to access. The historical structures are partly ruined but of archaeological interest.",
+    },
+    factsAdvanced: {
+      de: ["Taleh liegt etwa 300 Kilometer östlich von Burao.", "Die Einwohnerzahl wird auf 5.000 bis 8.000 geschätzt.", "Die Derwischfestung aus dem frühen 20. Jahrhundert besteht aus sieben Gebäuden.", "Die Stadt liegt auf einer Höhe von etwa 700 Metern über dem Meeresspiegel.", "Die jährliche Niederschlagsmenge beträgt etwa 150 mm.", "Taleh war bis 1920 die Hauptstadt des Derwischstaates."],
+      hu: ["Taleh körülbelül 300 km-re keletre található Buraotól.", "A lakosság számát 5 000 és 8 000 fő közé becsülik.", "A 20. század eleji dervis erőd hét épületből áll.", "A város körülbelül 700 méterrel van a tengerszint felett.", "Az éves csapadékmennyiség körülbelül 150 mm.", "Taleh 1920-ig a dervis állam fővárosa volt."],
+      ro: ["Taleh se află la aproximativ 300 km est de Burao.", "Populația este estimată la 5.000-8.000 de locuitori.", "Fortăreața dervișă de la începutul secolului XX este formată din șapte clădiri.", "Orașul se află la o altitudine de aproximativ 700 de metri deasupra nivelului mării.", "Precipitațiile anuale sunt de aproximativ 150 mm.", "Taleh a fost capitala statului derviș până în 1920."],
+      en: ["Taleh is approximately 300 km east of Burao.", "The population is estimated at 5,000 to 8,000.", "The early 20th-century Dervish fort comprises seven buildings.", "The town lies at an elevation of about 700 meters above sea level.", "Annual rainfall is about 150 mm.", "Taleh was the capital of the Dervish state until 1920."],
+    },
+  },
   {
     id: "oodweyne-cities-v2",
     type: "city",
     parent: "SO-TO",
     coords: [45.0601, 9.4069],
-    name: { de: "Odweyne", hu: "Odweyne", ro: "Odweyne", en: "Oodweyne",
-image: "/poi-images/oodweyne-cities-v2.webp"
-},
+    name: { de: "Odweyne", hu: "Odweyne", ro: "Odweyne", en: "Oodweyne"},
+    image: "/poi-images/oodweyne-cities-v2.webp",
     description: {
       de: "Eine friedliche Stadt zwischen Burao und Hargeisa, die als wichtiger Stopp für Reisende in der Region dient.",
       hu: "Békés város Burao és Hargeisa között, amely fontos megállóhely a régióba utazók számára.",
@@ -623,15 +979,27 @@ image: "/poi-images/oodweyne-cities-v2.webp"
       hu: ["Fontos tranzitváros", "Mezőgazdasági és állattenyésztési terület", "Odweyne körzet központja"],
       ro: ["Oraș de tranzit important", "Zonă agricolă și zootehnică", "Centru în districtul Odweyne"],
       en: ["Important transit town", "Agricultural and pastoral area", "Center in the Odweyne district"]
-    }, image: "/poi-images/oodweyne-cities-v2.webp"},
+    }, image: "/poi-images/oodweyne-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Oodweyne ist eine Stadt im Norden Somalias (Somaliland) in der Region Togdheer. Sie liegt auf einem Hochplateau und ist ein wichtiger Knotenpunkt für nomadische Viehzüchter. Die Bevölkerung besteht hauptsächlich aus den Isaaq-Clans. Oodweyne hat einen Markt, der für den Handel mit Vieh und landwirtschaftlichen Produkten bekannt ist. Die Stadt verfügt über eine Grundschule, eine weiterführende Schule und eine Gesundheitsklinik. In der Umgebung gibt es mehrere Brunnen, die die Wasserversorgung sicherstellen. Oodweyne war in der Vergangenheit von Dürren betroffen, aber die Region hat sich in den letzten Jahren etwas erholt.",
+      hu: "Oodweyne város Észak-Szomáliában (Szomáliföld) a Togdheer régióban. Fennsíkon fekszik, és fontos csomópont a nomád pásztorok számára. A lakosság főként az Isaaq klánokból áll. Oodweyneban piac található, amely az állat- és mezőgazdasági termékek kereskedelméről ismert. A városban általános iskola, középiskola és egészségügyi rendelő működik. A környéken több kút található, amelyek biztosítják a vízellátást. Oodweyne-t korábban aszályok sújtották, de a régió az elmúlt években némileg fellendült.",
+      ro: "Oodweyne este un oraș din nordul Somaliei (Somaliland) în regiunea Togdheer. Este situat pe un platou înalt și este un nod important pentru păstorii nomazi. Populația este formată în principal din clanurile Isaaq. Oodweyne are o piață cunoscută pentru comerțul cu animale și produse agricole. Orașul are o școală primară, o școală secundară și un dispensar. În zonă există mai multe fântâni care asigură alimentarea cu apă. Oodweyne a fost afectat de secete în trecut, dar regiunea s-a recuperat oarecum în ultimii ani.",
+      en: "Oodweyne is a town in northern Somalia (Somaliland) in the Togdheer region. It lies on a high plateau and is a key hub for nomadic pastoralists. The population is predominantly from the Isaaq clans. Oodweyne has a market known for trading livestock and agricultural products. The town has a primary school, a secondary school, and a health clinic. Several wells in the surrounding area ensure water supply. Oodweyne has experienced droughts in the past, but the region has somewhat recovered in recent years.",
+    },
+    factsAdvanced: {
+      de: ["Oodweyne liegt etwa 80 Kilometer südlich von Burao.", "Die Einwohnerzahl wird auf 15.000 bis 20.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 1.200 Metern über dem Meeresspiegel.", "Die durchschnittliche Niederschlagsmenge beträgt rund 300 mm pro Jahr.", "Oodweyne hat eine weiterführende Schule, die 1995 gegründet wurde.", "Der lokale Viehmarkt verarbeitet etwa 1.000 Tiere pro Woche."],
+      hu: ["Oodweyne körülbelül 80 km-re délre található Buraotól.", "A lakosság számát 15 000 és 20 000 fő közé becsülik.", "A város körülbelül 1200 méterrel van a tengerszint felett.", "Az éves csapadékmennyiség körülbelül 300 mm.", "Oodweyneban 1995-ben alapított középiskola található.", "A helyi állatpiacon hetente körülbelül 1000 állatot adnak el."],
+      ro: ["Oodweyne se află la aproximativ 80 km sud de Burao.", "Populația este estimată la 15.000-20.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 1.200 de metri deasupra nivelului mării.", "Precipitațiile medii anuale sunt de aproximativ 300 mm.", "Oodweyne are o școală secundară fondată în 1995.", "Piața locală de animale procesează aproximativ 1.000 de animale pe săptămână."],
+      en: ["Oodweyne is approximately 80 km south of Burao.", "The population is estimated at 15,000 to 20,000.", "The town lies at an elevation of about 1,200 meters above sea level.", "Average annual rainfall is around 300 mm.", "Oodweyne has a secondary school founded in 1995.", "The local livestock market handles about 1,000 animals per week."],
+    },
+  },
   {
     id: "lughaya-cities-v2",
     type: "city",
     parent: "SO-AW",
     coords: [43.9538, 10.6865],
-    name: { de: "Lughaya", hu: "Lughaya", ro: "Lughaya", en: "Lughaya",
-image: "/poi-images/lughaya-cities-v2.webp"
-},
+    name: { de: "Lughaya", hu: "Lughaya", ro: "Lughaya", en: "Lughaya"},
+    image: "/poi-images/lughaya-cities-v2.webp",
     description: {
       de: "Dieses ruhige Küstendorf am Golf von Aden lebt hauptsächlich von handwerklicher Fischerei und kleinem Handel.",
       hu: "Ez a csendes tengerparti falu az Ádeni-öbölben főként kézműves halászatból és kiskereskedelemből él.",
@@ -642,16 +1010,27 @@ image: "/poi-images/lughaya-cities-v2.webp"
       hu: ["Tengerparti város Awdalban", "A hagyományos halászatról ismert", "Homokos tengerpart"],
       ro: ["Oraș de coastă în Awdal", "Cunoscut pentru pescuitul tradițional", "Coastă nisipoasă"],
       en: ["Coastal town in Awdal", "Known for traditional fishing", "Sandy coastline"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Lughaya ist eine Küstenstadt im Nordwesten Somalias (Somaliland) in der Region Awdal. Sie liegt nahe der Grenze zu Dschibuti am Golf von Aden. Lughaya ist ein traditionelles Fischerdorf und ein kleiner Hafen für den lokalen Handel. Die Bevölkerung besteht hauptsächlich aus den Issa-Clans. Die Stadt hat eine Grundschule und eine Gesundheitsstation. Die Wirtschaft basiert auf Fischerei, etwas Landwirtschaft und Viehzucht. In den letzten Jahren wurde der Hafen renoviert, um den Bootsverkehr zu verbessern. Lughaya ist auch bekannt für seine Mangrovenwälder entlang der Küste.",
+      hu: "Lughaya tengerparti város Szomália északnyugati részén (Szomáliföld) az Awdal régióban. Dzsibuti határához közel, az Ádeni-öböl partján fekszik. Lughaya hagyományos halászfalu és kis kikötő a helyi kereskedelem számára. A lakosság főként az Issa klánokból áll. A városban általános iskola és egészségügyi állomás található. A gazdaság a halászaton, némi mezőgazdaságon és állattenyésztésen alapul. Az elmúlt években a kikötőt felújították a hajóforgalom javítása érdekében. Lughaya híres a part menti mangrove erdőiről is.",
+      ro: "Lughaya este un oraș de coastă din nord-vestul Somaliei (Somaliland) în regiunea Awdal. Este situat aproape de granița cu Djibouti, pe coasta Golfului Aden. Lughaya este un sat de pescari tradițional și un mic port pentru comerțul local. Populația este formată în principal din clanurile Issa. Orașul are o școală primară și un post de sănătate. Economia se bazează pe pescuit, puțină agricultură și creșterea animalelor. În ultimii ani, portul a fost renovat pentru a îmbunătăți traficul de bărci. Lughaya este cunoscut și pentru pădurile de mangrove de-a lungul coastei.",
+      en: "Lughaya is a coastal town in northwestern Somalia (Somaliland) in the Awdal region. It lies near the border with Djibouti on the Gulf of Aden. Lughaya is a traditional fishing village and a small port for local trade. The population is predominantly from the Issa clans. The town has a primary school and a health post. The economy is based on fishing, some agriculture, and livestock. In recent years, the port has been renovated to improve boat traffic. Lughaya is also known for its mangrove forests along the coast.",
+    },
+    factsAdvanced: {
+      de: ["Lughaya liegt etwa 20 Kilometer südwestlich von Zeila.", "Die Einwohnerzahl wird auf 5.000 bis 8.000 geschätzt.", "Der Hafen hat eine Kailänge von etwa 50 Metern.", "Die Stadt liegt auf einer Höhe von etwa 5 Metern über dem Meeresspiegel.", "Die Mangrovenwälder erstrecken sich über rund 2 Kilometer Küstenlinie.", "Die jährliche Niederschlagsmenge beträgt etwa 100 mm."],
+      hu: ["Lughaya körülbelül 20 km-re délnyugatra található Zeilától.", "A lakosság számát 5 000 és 8 000 fő közé becsülik.", "A kikötő rakpartja körülbelül 50 méter hosszú.", "A város körülbelül 5 méterrel van a tengerszint felett.", "A mangrove erdők körülbelül 2 km hosszan nyúlnak el a part mentén.", "Az éves csapadékmennyiség körülbelül 100 mm."],
+      ro: ["Lughaya se află la aproximativ 20 km sud-vest de Zeila.", "Populația este estimată la 5.000-8.000 de locuitori.", "Portul are o cheu de aproximativ 50 de metri lungime.", "Orașul se află la o altitudine de aproximativ 5 metri deasupra nivelului mării.", "Pădurile de mangrove se întind pe aproximativ 2 km de coastă.", "Precipitațiile anuale sunt de aproximativ 100 mm."],
+      en: ["Lughaya is approximately 20 km southwest of Zeila.", "The population is estimated at 5,000 to 8,000.", "The port has a quay length of about 50 meters.", "The town lies at an elevation of about 5 meters above sea level.", "The mangrove forests stretch for about 2 km along the coast.", "Annual rainfall is around 100 mm."],
+    },
   },
   {
     id: "zeila-cities-v2",
     type: "city",
     parent: "SO-AW",
     coords: [43.4736, 11.3533],
-    name: { de: "Zeila", hu: "Zeila", ro: "Zeila", en: "Zeila",
-image: "/poi-images/zeila-cities-v2.webp"
-},
+    name: { de: "Zeila", hu: "Zeila", ro: "Zeila", en: "Zeila"},
+    image: "/poi-images/zeila-cities-v2.webp",
     description: {
       de: "Einst eines der wichtigsten Zentren am Horn von Afrika, ist diese antike Hafenstadt heute reich an verstreuten Ruinen.",
       hu: "Egykor Afrika szarvának egyik legfontosabb központja, ez az ókori kikötőváros ma gazdag szétszórt romokban.",
@@ -662,15 +1041,27 @@ image: "/poi-images/zeila-cities-v2.webp"
       hu: ["Történelmi Ifat Szultanátus", "Afrika egyik legrégebbi mecsete", "Jelentős ókori kikötőváros"],
       ro: ["Sultanatul istoric Ifat", "Una dintre cele mai vechi moschei din Africa", "Oraș port antic important"],
       en: ["Historic Sultanate of Ifat", "One of the oldest mosques in Africa", "Significant ancient port city"]
-    }, image: "/poi-images/zeila-cities-v2.webp"},
+    }, image: "/poi-images/zeila-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Zeila (auch Saylac) ist eine historische Hafenstadt im Nordwesten Somalias (Somaliland) in der Region Awdal, nahe der Grenze zu Dschibuti. Sie war im Mittelalter ein bedeutendes Handelszentrum des Adal-Sultanats und ein wichtiger Ausfuhrhafen für Sklaven, Elfenbein und Gewürze. Zeila ist bekannt für seine Korallenriff-Architektur und die Überreste alter Moscheen. Die heutige Bevölkerung besteht hauptsächlich aus Issa-Clans. Die Stadt leidet unter Vernachlässigung, hat aber einen kleinen Hafen und Fischerei. Die Wirtschaft ist schwach, aber der Tourismus könnte aufgrund der historischen Stätten Potenzial haben.",
+      hu: "Zeila (más néven Saylac) történelmi kikötőváros Szomália északnyugati részén (Szomáliföld) az Awdal régióban, Dzsibuti határához közel. A középkorban az Adal Szultánság jelentős kereskedelmi központja volt, és fontos kikötő a rabszolgák, elefántcsont és fűszerek kiviteléhez. Zeila híres korallzátony-építészetéről és régi mecsetek maradványairól. A jelenlegi lakosság főként Issa klánokból áll. A város elhanyagolt, de kis kikötővel és halászattal rendelkezik. A gazdaság gyenge, de a turizmusban rejlő lehetőségek a történelmi helyszínek miatt adottak.",
+      ro: "Zeila (cunoscut și ca Saylac) este un oraș portuar istoric din nord-vestul Somaliei (Somaliland) în regiunea Awdal, aproape de granița cu Djibouti. În Evul Mediu, a fost un important centru comercial al Sultanatului Adal și un port major pentru exportul de sclavi, fildeș și mirodenii. Zeila este cunoscută pentru arhitectura sa din corali și rămășițele vechilor moschei. Populația actuală este formată în principal din clanurile Issa. Orașul suferă de neglijare, dar are un port mic și pescuit. Economia este slabă, dar turismul are potențial datorită siturilor istorice.",
+      en: "Zeila (also Saylac) is a historic port town in northwestern Somalia (Somaliland) in the Awdal region, near the border with Djibouti. It was a major trading center during the medieval Adal Sultanate and a key port for exporting slaves, ivory, and spices. Zeila is known for its coral architecture and the remains of ancient mosques. The current population is predominantly Issa clans. The town suffers from neglect but has a small port and fishing industry. The economy is weak, but tourism potential exists due to historical sites.",
+    },
+    factsAdvanced: {
+      de: ["Zeila liegt etwa 60 Kilometer südwestlich von Dschibuti-Stadt über die Grenze.", "Die Einwohnerzahl wird auf 10.000 bis 15.000 geschätzt.", "Die Altstadt enthält Ruinen von Moscheen aus dem 13. Jahrhundert.", "Zeila war im 16. Jahrhundert ein wichtiger Hafen des Adal-Sultanats.", "Die Küste besteht hauptsächlich aus Korallenriffen und Sandstränden.", "Die jährliche Niederschlagsmenge beträgt weniger als 150 mm."],
+      hu: ["Zeila körülbelül 60 km-re délnyugatra található Dzsibuti városától a határon túl.", "A lakosság számát 10 000 és 15 000 fő közé becsülik.", "Az óváros 13. századi mecsetek romjait tartalmazza.", "Zeila a 16. században az Adal Szultánság fontos kikötője volt.", "A part főként korallzátonyokból és homokos strandokból áll.", "Az éves csapadékmennyiség kevesebb mint 150 mm."],
+      ro: ["Zeila se află la aproximativ 60 km sud-vest de Djibouti City, dincolo de graniță.", "Populația este estimată la 10.000-15.000 de locuitori.", "Orașul vechi conține ruine de moschei din secolul al XIII-lea.", "Zeila a fost un port important al Sultanatului Adal în secolul al XVI-lea.", "Coasta este formată în principal din recife de corali și plaje cu nisip.", "Precipitațiile anuale sunt sub 150 mm."],
+      en: ["Zeila is approximately 60 km southwest of Djibouti City across the border.", "The population is estimated at 10,000 to 15,000.", "The old town contains ruins of 13th-century mosques.", "Zeila was an important port of the Adal Sultanate in the 16th century.", "The coast is mainly coral reefs and sandy beaches.", "Annual rainfall is less than 150 mm."],
+    },
+  },
   {
     id: "gabiley-cities-v2",
     type: "city",
     parent: "SO-WO",
     coords: [43.6267, 9.6994],
-    name: { de: "Gabiley", hu: "Gabiley", ro: "Gabiley", en: "Gabiley",
-image: "/poi-images/gabiley-cities-v2.webp"
-},
+    name: { de: "Gabiley", hu: "Gabiley", ro: "Gabiley", en: "Gabiley"},
+    image: "/poi-images/gabiley-cities-v2.webp",
     description: {
       de: "Gabiley wird oft als die Kornkammer der nördlichen Gebiete bezeichnet und zeichnet sich durch üppige grüne Felder aus.",
       hu: "Gabiley-t gyakran az északi területek magtárának nevezik, és buja zöld mezők jellemzik.",
@@ -681,15 +1072,27 @@ image: "/poi-images/gabiley-cities-v2.webp"
       hu: ["Mezőgazdasági központ északon", "Jelentős búzatermelés", "Sűrűn lakott régió"],
       ro: ["Centrul agricol din nord", "Producție semnificativă de grâu", "Regiune dens populată"],
       en: ["Agricultural center in the north", "Significant wheat production", "Densely populated region"]
-    }, image: "/poi-images/gabiley-cities-v2.webp"},
+    }, image: "/poi-images/gabiley-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gabiley (auch Gabile) ist eine Stadt im Nordwesten Somalias (Somaliland) in der Region Woqooyi Galbeed. Sie liegt auf einem fruchtbaren Hochplateau und ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Gemüse, Obst und Getreide. Gabiley hat eine gemischte Bevölkerung aus Isaaq- und anderen Clans. Die Stadt verfügt über einen Markt, Schulen und eine Gesundheitsklinik. Die Region ist relativ wohlhabend und produziert einen Großteil der landwirtschaftlichen Erzeugnisse für Somaliland. Gabiley ist auch ein wichtiger Verkehrsknotenpunkt an der Straße von Hargeisa nach Borama.",
+      hu: "Gabiley (más néven Gabile) város Északnyugat-Szomáliában (Szomáliföld) a Woqooyi Galbeed régióban. Termékeny fennsíkon fekszik, és mezőgazdasági központ, híres zöldség, gyümölcs és gabona termesztéséről. Gabiley lakossága vegyes, Isaaq és más klánokból áll. A városban piac, iskolák és egészségügyi rendelő található. A régió viszonylag gazdag, és Szomáliföld mezőgazdasági termékeinek nagy részét termeli. Gabiley fontos közlekedési csomópont is a Hargeisa-Borama útvonalon.",
+      ro: "Gabiley (cunoscut și ca Gabile) este un oraș din nord-vestul Somaliei (Somaliland) în regiunea Woqooyi Galbeed. Este situat pe un platou fertil și este un centru agricol, cunoscut pentru cultivarea legumelor, fructelor și cerealelor. Gabiley are o populație mixtă, din clanurile Isaaq și altele. Orașul are o piață, școli și un dispensar. Regiunea este relativ bogată și produce o mare parte din produsele agricole ale Somalilandului. Gabiley este, de asemenea, un nod important pe drumul Hargeisa-Borama.",
+      en: "Gabiley (also Gabile) is a town in northwestern Somalia (Somaliland) in the Woqooyi Galbeed region. It lies on a fertile plateau and is an agricultural center, known for growing vegetables, fruits, and grains. Gabiley has a mixed population of Isaaq and other clans. The town features a market, schools, and a health clinic. The region is relatively prosperous and produces a large share of Somaliland's agricultural output. Gabiley is also a key transport hub on the road from Hargeisa to Borama.",
+    },
+    factsAdvanced: {
+      de: ["Gabiley liegt etwa 50 Kilometer westlich von Hargeisa.", "Die Einwohnerzahl wird auf 40.000 bis 50.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 1.000 Metern über dem Meeresspiegel.", "Gabiley produziert jährlich etwa 20.000 Tonnen Gemüse.", "Die Region erhält durchschnittlich 500 mm Niederschlag pro Jahr.", "Die Stadt hat eine der größten weiterführenden Schulen in der Region."],
+      hu: ["Gabiley körülbelül 50 km-re nyugatra található Hargeisától.", "A lakosság számát 40 000 és 50 000 fő közé becsülik.", "A város körülbelül 1000 méterrel van a tengerszint felett.", "Gabiley évente körülbelül 20 000 tonna zöldséget termel.", "A régió átlagosan 500 mm csapadékot kap évente.", "A városban található a régió egyik legnagyobb középiskolája."],
+      ro: ["Gabiley se află la aproximativ 50 km vest de Hargeisa.", "Populația este estimată la 40.000-50.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 1.000 de metri deasupra nivelului mării.", "Gabiley produce aproximativ 20.000 de tone de legume anual.", "Regiunea primește în medie 500 mm de precipitații pe an.", "Orașul are una dintre cele mai mari școli secundare din regiune."],
+      en: ["Gabiley is approximately 50 km west of Hargeisa.", "The population is estimated at 40,000 to 50,000.", "The town lies at an elevation of about 1,000 meters above sea level.", "Gabiley produces about 20,000 tons of vegetables annually.", "The region receives an average of 500 mm of rainfall per year.", "The town has one of the largest secondary schools in the region."],
+    },
+  },
   {
     id: "baki-cities-v2",
     type: "city",
     parent: "SO-AW",
     coords: [43.3764, 9.8821],
-    name: { de: "Baki", hu: "Baki", ro: "Baki", en: "Baki",
-image: "/poi-images/baki-cities-v2.webp"
-},
+    name: { de: "Baki", hu: "Baki", ro: "Baki", en: "Baki"},
+    image: "/poi-images/baki-cities-v2.webp",
     description: {
       de: "Inmitten von malerischen Tälern gelegen, ist Baki ein ruhiges landwirtschaftliches Gebiet mit kleinen Farmgemeinschaften.",
       hu: "A festői völgyek között fekvő Baki egy csendes mezőgazdasági terület kis tanyasi közösségekkel.",
@@ -700,15 +1103,27 @@ image: "/poi-images/baki-cities-v2.webp"
       hu: ["Csendes vidéki közösség", "Hegyvidéki terep", "A hagyományos mezőgazdaságra összpontosít"],
       ro: ["Comunitate rurală liniștită", "Teren muntos", "Concentrează pe agricultura tradițională"],
       en: ["Quiet rural community", "Mountainous terrain", "Focus on traditional farming"]
-    }, image: "/poi-images/baki-cities-v2.webp"},
+    }, image: "/poi-images/baki-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Baki ist eine Stadt im Nordwesten Somalias (Somaliland) in der Region Awdal. Sie liegt in einem Tal des Golis-Gebirges und ist ein landwirtschaftliches Zentrum, das für den Anbau von Früchten wie Papaya, Mango und Bananen bekannt ist. Die Bevölkerung besteht hauptsächlich aus den Gadabuursi-Clans. Baki hat einen Markt und eine Gesundheitsklinik. Die Stadt ist auch bekannt für ihre traditionellen Häuser aus Stein und Lehm. In der Umgebung gibt es mehrere Wasserquellen, die die Landwirtschaft unterstützen. Baki hat in den letzten Jahren eine gewisse Entwicklung erfahren, bleibt aber ländlich geprägt.",
+      hu: "Baki város Északnyugat-Szomáliában (Szomáliföld) az Awdal régióban. A Golis-hegység völgyében fekszik, és mezőgazdasági központ, amely híres gyümölcstermesztéséről, mint a papaya, mangó és banán. A lakosság főként a Gadabuursi klánokból áll. Baki piaccal és egészségügyi rendelővel rendelkezik. A város híres hagyományos kőből és agyagból épült házaidról. A környéken több vízforrás található, amelyek támogatják a mezőgazdaságot. Baki az utóbbi években némi fejlődésen ment keresztül, de továbbra is vidéki jellegű.",
+      ro: "Baki este un oraș din nord-vestul Somaliei (Somaliland) în regiunea Awdal. Este situat într-o vale a Munților Golis și este un centru agricol cunoscut pentru cultivarea fructelor precum papaya, mango și banane. Populația este formată în principal din clanurile Gadabuursi. Baki are o piață și un dispensar. Orașul este cunoscut pentru casele tradiționale din piatră și lut. În zonă există mai multe surse de apă care susțin agricultura. Baki a cunoscut o anumită dezvoltare în ultimii ani, dar rămâne rural.",
+      en: "Baki is a town in northwestern Somalia (Somaliland) in the Awdal region. It lies in a valley of the Golis Mountains and is an agricultural center known for growing fruits such as papaya, mango, and bananas. The population is predominantly from the Gadabuursi clans. Baki has a market and a health clinic. The town is known for its traditional stone and mud houses. Several water sources in the area support agriculture. Baki has seen some development in recent years but remains rural.",
+    },
+    factsAdvanced: {
+      de: ["Baki liegt etwa 120 Kilometer westlich von Hargeisa.", "Die Einwohnerzahl wird auf 20.000 bis 25.000 geschätzt.", "Die Stadt liegt auf einer Höhe von etwa 700 Metern über dem Meeresspiegel.", "Baki produziert jährlich etwa 5.000 Tonnen Mangos.", "Die durchschnittliche Jahrestemperatur beträgt rund 25°C.", "Das Golis-Gebirge erreicht in der Nähe Höhen von bis zu 1.500 Metern."],
+      hu: ["Baki körülbelül 120 km-re nyugatra található Hargeisától.", "A lakosság számát 20 000 és 25 000 fő közé becsülik.", "A város körülbelül 700 méterrel van a tengerszint felett.", "Baki évente körülbelül 5000 tonna mangót termel.", "Az éves átlaghőmérséklet körülbelül 25°C.", "A Golis-hegység a közelben eléri az 1500 méteres magasságot."],
+      ro: ["Baki se află la aproximativ 120 km vest de Hargeisa.", "Populația este estimată la 20.000-25.000 de locuitori.", "Orașul se află la o altitudine de aproximativ 700 de metri deasupra nivelului mării.", "Baki produce aproximativ 5.000 de tone de mango anual.", "Temperatura medie anuală este de aproximativ 25°C.", "Munții Golis ating înălțimi de până la 1.500 de metri în apropiere."],
+      en: ["Baki is approximately 120 km west of Hargeisa.", "The population is estimated at 20,000 to 25,000.", "The town lies at an elevation of about 700 meters above sea level.", "Baki produces about 5,000 tons of mangoes annually.", "Average annual temperature is around 25°C.", "The Golis Mountains reach heights of up to 1,500 meters nearby."],
+    },
+  },
   {
     id: "badhan-cities-v2",
     type: "city",
     parent: "SO-SA",
     coords: [48.3377, 10.7161],
-    name: { de: "Badhan", hu: "Badhan", ro: "Badhan", en: "Badhan",
-image: "/poi-images/badhan-cities-v2.webp"
-},
+    name: { de: "Badhan", hu: "Badhan", ro: "Badhan", en: "Badhan"},
+    image: "/poi-images/badhan-cities-v2.webp",
     description: {
       de: "Die stark expandierende Stadt Badhan spielt eine immer wichtigere Rolle in der Politik und Bildung der Sanaag-Region.",
       hu: "Badhan gyorsan terjeszkedő városa egyre fontosabb szerepet játszik a Sanaag régió politikájában és oktatásában.",
@@ -719,15 +1134,27 @@ image: "/poi-images/badhan-cities-v2.webp"
       hu: ["Növekvő városi település", "A régió oktatási központja", "A Cal Madow hegység közelében"],
       ro: ["Așezare urbană în creștere", "Centrul educațional al regiunii", "Aproape de Munții Cal Madow"],
       en: ["Growing urban settlement", "Educational center of the region", "Close to the Cal Madow Mountains"]
-    }, image: "/poi-images/badhan-cities-v2.webp"},
+    }, image: "/poi-images/badhan-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Badhan ist eine Stadt in der autonomen Region Puntland im Nordosten Somalias. Sie liegt im Sanaag-Gebiet, etwa 150 km südlich des Golfs von Aden. Die Stadt hat etwa 80.000 Einwohner und ist ein wichtiges Zentrum für den Handel mit Vieh, insbesondere Kamelen, Schafen und Ziegen. Badhan wurde im 20. Jahrhundert gegründet und hat sich dank seiner Lage entlang von Handelsrouten entwickelt. Die Stadt verfügt über eine Grundversorgung mit Schulen und Gesundheitseinrichtungen. Das Klima ist heiß und trocken, mit einer kurzen Regenzeit. In der Umgebung wird nomadische Viehzucht betrieben. Badhan ist auch ein politisches Zentrum, da es in der Vergangenheit Schauplatz von Konflikten zwischen Puntland und Somaliland war. Die Stadt hat einen kleinen Flugplatz und ist über unbefestigte Straßen erreichbar.",
+      hu: "Badhan egy város Szomália északkeleti részén, a Puntland autonóm régióban. A Sanaag területen fekszik, kb. 150 km-re délre az Ádeni-öböltől. Lakosainak száma körülbelül 80 000 fő, és fontos központja az állatkereskedelemnek, különösen tevék, juhok és kecskék számára. Badhan a 20. században alapították, és a kereskedelmi utak mentén fejlődött. A város alapvető oktatási és egészségügyi szolgáltatásokkal rendelkezik. Az éghajlat forró és száraz, rövid esős évszakkal. A környéken nomád állattenyésztés folyik. Badhan politikai központ is, mivel a múltban Puntland és Szomáliföld közötti konfliktusok színhelye volt. A városnak van egy kis repülőtere, és földutakon közelíthető meg.",
+      ro: "Badhan este un oraș în regiunea autonomă Puntland, în nord-estul Somaliei. Este situat în zona Sanaag, la aproximativ 150 km sud de Golful Aden. Orașul are aproximativ 80.000 de locuitori și este un important centru pentru comerțul cu animale, în special cămile, oi și capre. Badhan a fost fondat în secolul al XX-lea și s-a dezvoltat datorită poziției sale de-a lungul rutelor comerciale. Orașul dispune de servicii de bază, cum ar fi școli și unități medicale. Clima este caldă și uscată, cu un sezon scurt de ploi. În zonă se practică creșterea nomadă a animalelor. Badhan este, de asemenea, un centru politic, fiind în trecut scena conflictelor dintre Puntland și Somaliland. Orașul are un mic aerodrom și este accesibil pe drumuri de pământ.",
+      en: "Badhan is a town in the autonomous Puntland region in northeastern Somalia. Located in the Sanaag area, about 150 km south of the Gulf of Aden, it has a population of around 80,000 and is a key hub for livestock trade, especially camels, sheep, and goats. Founded in the 20th century, Badhan developed due to its position along trade routes. The town has basic educational and health facilities. The climate is hot and dry, with a short rainy season. Nomadic pastoralism is practiced in the surroundings. Badhan is also a political center, having been a site of conflict between Puntland and Somaliland in the past. The town has a small airstrip and is accessible via unpaved roads.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: etwa 80.000 Einwohner.", "Höhe: etwa 400 Meter über dem Meeresspiegel.", "Entfernung zum Golf von Aden: etwa 150 km.", "Durchschnittliche Jahrestemperatur: 27°C.", "Die Stadt hat einen Flugplatz mit einer 1.500 Meter langen Startbahn.", "Badhan liegt in der Sanaag-Region, die sowohl von Puntland als auch Somaliland beansprucht wird."],
+      hu: ["Lakosság: kb. 80 000 fő.", "Tengerszint feletti magasság: kb. 400 méter.", "Távolság az Ádeni-öböltől: kb. 150 km.", "Átlagos éves hőmérséklet: 27°C.", "A városnak van egy repülőtere 1500 méteres kifutópályával.", "Badhan a Sanaag régióban fekszik, amelyet Puntland és Szomáliföld is követel."],
+      ro: ["Populație: aproximativ 80.000 de locuitori.", "Altitudine: aproximativ 400 de metri deasupra nivelului mării.", "Distanța până la Golful Aden: aproximativ 150 km.", "Temperatura medie anuală: 27°C.", "Orașul are un aerodrom cu o pistă de 1.500 de metri.", "Badhan este situat în regiunea Sanaag, revendicată atât de Puntland, cât și de Somaliland."],
+      en: ["Population: about 80,000 inhabitants.", "Elevation: about 400 meters above sea level.", "Distance to the Gulf of Aden: about 150 km.", "Average annual temperature: 27°C.", "The town has an airstrip with a 1,500-meter runway.", "Badhan is located in the Sanaag region, claimed by both Puntland and Somaliland."],
+    },
+  },
   {
     id: "las-khorey-cities-v2",
     type: "city",
     parent: "SO-SA",
     coords: [48.1966, 11.1557],
-    name: { de: "Las Khorey", hu: "Las Khorey", ro: "Las Khorey", en: "Las Khorey",
-image: "/poi-images/las-khorey-cities-v2.webp"
-},
+    name: { de: "Las Khorey", hu: "Las Khorey", ro: "Las Khorey", en: "Las Khorey"},
+    image: "/poi-images/las-khorey-cities-v2.webp",
     description: {
       de: "Bekannt für seine antiken Seehandelstraditionen und eine etablierte Thunfischfabrik direkt an der sonnigen Küste.",
       hu: "Ókori tengeri kereskedelmi hagyományairól és egy jól bevált tonhalgyárról ismert, közvetlenül a napfényes tengerparton.",
@@ -744,9 +1171,8 @@ image: "/poi-images/las-khorey-cities-v2.webp"
     type: "city",
     parent: "SO-SA",
     coords: [48.8166, 10.3541],
-    name: { de: "Dhahar", hu: "Dhahar", ro: "Dhahar", en: "Dhahar",
-image: "/poi-images/dhahar-cities-v2.webp"
-},
+    name: { de: "Dhahar", hu: "Dhahar", ro: "Dhahar", en: "Dhahar"},
+    image: "/poi-images/dhahar-cities-v2.webp",
     description: {
       de: "Als Bindeglied zwischen den hohen Bergen und den weiten Steppen ist Dhahar ein bedeutender Rastplatz für Viehhirten.",
       hu: "A magas hegyek és a hatalmas sztyeppék összekötő kapocsként Dhahar fontos pihenőhelye a pásztoroknak.",
@@ -757,15 +1183,27 @@ image: "/poi-images/dhahar-cities-v2.webp"
       hu: ["Település a hegyek szélén", "Kereskedelmi központ a nomádok számára", "Növekvő infrastruktúra-fejlesztés"],
       ro: ["Așezare la marginea munților", "Centru comercial pentru nomazi", "Dezvoltarea crescândă a infrastructurii"],
       en: ["Settlement on the edge of the mountains", "Trade center for nomads", "Increasing infrastructure development"]
-    }, image: "/poi-images/dhahar-cities-v2.webp"},
+    }, image: "/poi-images/dhahar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dhahar ist eine Stadt in der Region Sanaag im Nordosten Somalias. Sie liegt auf einem Hochplateau in etwa 900 Metern Höhe und ist ein wichtiger Knotenpunkt für nomadische Viehzüchter, die hier Wasserstellen und Weidegründe nutzen. Die Wirtschaft basiert hauptsächlich auf der Viehhaltung, insbesondere Kamelen und Ziegen, sowie auf begrenztem Regenfeldbau. Die Stadt verfügt über eine Grundschule und eine Klinik, die von lokalen NGOs betrieben werden. Historisch war Dhahar Teil des Warsangali-Sultanats und hat eine bedeutende kulturelle Tradition der Dichtkunst und des Gesangs. Die Bevölkerungszahl schwankt saisonal bedingt durch nomadische Wanderbewegungen.",
+      hu: "Dhahar egy város Szomália északkeleti részén, a Sanaag régióban. A település a 20. század elején alakult ki, amikor a vidéki lakosság állandóbb településeket kezdett létrehozni. Ma Dhahar fontos piaci központ, ahol a nomád pásztorok állataikat és tejtermékeiket cserélik el más árukra. A városban található egy kis mecset és egy helyi bíróság, amely hagyományos szokásjog alapján dönt vitás ügyekben. Dhahar környékén gyakoriak a szárazságok, ami miatt a víztárolás és a mélyfúrású kutak kiemelt jelentőségűek. A lakosság nagy része a szomáli etnikumhoz tartozik, és a helyi nyelvjárás a Mákhiri szomáli változata.",
+      ro: "Dhahar este un oraș în regiunea Sanaag din nord-estul Somaliei. În ciuda dimensiunii sale modeste, Dhahar joacă un rol strategic ca nod de transport între coasta Golfului Aden și interiorul arid. Drumul principal care leagă Las Anod de coastă trece prin Dhahar, facilitând comerțul cu sare și piei de animale. Clima este semi-aridă, cu precipitații anuale sub 200 mm, ceea ce limitează agricultura la culturi rezistente la secetă, cum ar fi sorgul. În ultimii ani, au fost făcute eforturi pentru a îmbunătăți accesul la apă potabilă prin forarea de puțuri. Populația este estimată la aproximativ 2.500 de locuitori, majoritatea păstori nomazi.",
+      en: "Dhahar is a town in the Sanaag region of Somalia, situated on a high plateau at an elevation of around 900 meters. It serves as a key administrative and trading center for the surrounding pastoralist communities. The town's economy relies heavily on livestock, with camel and goat herding being predominant. Dhahar has a small market where local produce such as ghee, meat, and hides are traded. The area has a history of clan conflicts over water and grazing rights, leading to intermittent insecurity. Despite these challenges, Dhahar has a vibrant oral tradition, with local poets reciting gabays (epic poems) at community gatherings. The nearest hospital is in Las Anod, about 100 kilometers away.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 900 Meter über dem Meeresspiegel", "Geschätzte Bevölkerung: etwa 2.500 Einwohner (Stand 2020)", "Niederschlag: weniger als 200 mm pro Jahr", "Anzahl der Grundschulen: 1", "Entfernung nach Las Anod: ca. 100 km", "Historisches Sultanat: Warsangali"],
+      hu: ["Terület: körülbelül 15 négyzetkilométer", "Éves átlaghőmérséklet: 28 °C", "Szomáli fazont használó mecsetek száma: 1", "Távolság a Golfo di Aden partjától: 200 km", "Kutak száma a városban: 3", "Legnagyobb állatállomány: kecske (kb. 8.000 egyed)"],
+      ro: ["Altitudine: ~900 m", "Populație estimată: 2.500", "Precipitații anuale: <200 mm", "Școli primare: 1", "Distanța până la Las Anod: ~100 km", "Sultanatul istoric: Warsangali"],
+      en: ["Elevation: approximately 900 meters above sea level", "Estimated population: around 2,500 (2020)", "Annual rainfall: less than 200 mm", "Number of primary schools: 1", "Distance to Las Anod: about 100 km", "Historical sultanate: Warsangali"],
+    },
+  },
   {
     id: "iskushuban-cities-v2",
     type: "city",
     parent: "SO-BR",
     coords: [50.2285, 10.2858],
-    name: { de: "Iskushuban", hu: "Iskushuban", ro: "Iskushuban", en: "Iskushuban",
-image: "/poi-images/iskushuban-cities-v2.webp"
-},
+    name: { de: "Iskushuban", hu: "Iskushuban", ro: "Iskushuban", en: "Iskushuban"},
+    image: "/poi-images/iskushuban-cities-v2.webp",
     description: {
       de: "Diese Wüstenstadt bietet eine erstaunliche Oase mit ganzjährigen Wasserfällen, die viele Reisende anzieht.",
       hu: "Ez a sivatagi város lenyűgöző oázist kínál egész évben működő vízesésekkel, amely sok utazót vonz.",
@@ -776,15 +1214,27 @@ image: "/poi-images/iskushuban-cities-v2.webp"
       hu: ["Híres a helyi vízesésekről", "Oázis a Bari régióban", "Hagyományos datolyapálma ligetek"],
       ro: ["Renumit pentru cascadele locale", "Oază în regiunea Bari", "Crânguri tradiționale de curmali"],
       en: ["Famous for local waterfalls", "Oasis in the Bari region", "Traditional date palm groves"]
-    }, image: "/poi-images/iskushuban-cities-v2.webp"},
+    }, image: "/poi-images/iskushuban-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Iskushuban liegt im Nordosten Somalias in der Region Bari, nahe der Grenze zu Puntland. Die Stadt ist bekannt für ihre natürlichen Wasserfälle, die als Iskushuban-Fälle bezeichnet werden und ein seltenes geologisches Phänomen in der ansonsten trockenen Region darstellen. Die Fälle entstehen durch den Fluss Nogal, der über Kalksteinfelsen stürzt und eine Oase mit üppiger Vegetation bildet. Iskushuban dient als Marktort für die umliegenden Dörfer, in dem vor allem Datteln und Vieh gehandelt werden. Die Bevölkerung besteht hauptsächlich aus Angehörigen der Majerteen-Unterclan der Darod. Aufgrund der Abgeschiedenheit verfügt die Stadt nur über eine minimale Infrastruktur, darunter eine Moschee und eine Grundschule.",
+      hu: "Iskushuban egy város Szomália északkeleti részén, a Bari régióban. A település híres a Nugaal folyó által táplált vízeséseiről, amelyek a száraz évszakban is vizet biztosítanak. A város története szorosan kapcsolódik a nomád pásztorkodáshoz, de a 20. század közepén állandó településsé vált, amikor a helyi klánok mecsetet és piacot építettek. Iskushuban környékén gyakoriak a fosszilis tengeri élőlények maradványai, ami arra utal, hogy a terület egykor tenger alatt volt. A város gazdasága a mezőgazdaságon és az állattenyésztésen alapul, de a vízesések turisztikai potenciált is kínálnak. A lakosság becslések szerint 3.000 fő körüli.",
+      ro: "Iskushuban este un oraș în regiunea Bari din Somalia, cunoscut pentru cascadele spectaculoase formate de râul Nugaal. Cascada are o cădere de aproximativ 15 metri și creează un microclimat umed, permițând cultivarea palmierilor de curmale. Orașul este un centru local pentru comerțul cu fructe și animale. Din punct de vedere geologic, zona prezintă formațiuni de calcar cu fosile marine. Iskushuban a fost istoric un punct de popas pentru caravanele care transportau tămâie și smirnă din interior spre coastă. Populația actuală este de aproximativ 3.500 de locuitori, în principal din clanul Majerteen.",
+      en: "Iskushuban is a town in the Bari region of northeastern Somalia, best known for its perennial waterfalls along the Nugaal River. The falls create a lush oasis that supports date palm cultivation and provides water for livestock and farming. The town serves as a local market hub, with trade in dates, livestock, and frankincense. Geologically, the area features limestone cliffs with marine fossils, indicating a submerged past. Iskushuban has a small primary school and a health post, but lacks paved roads. The nearest major town is Qardho, about 80 kilometers to the east.",
+    },
+    factsAdvanced: {
+      de: ["Höhe der Wasserfälle: ca. 15 Meter", "Jährliche Niederschlagsmenge: ca. 300 mm", "Geschätzte Bevölkerung: 3.500", "Anzahl der Dattelpalmen: etwa 2.000", "Entfernung nach Qardho: 80 km", "Fluss: Nugaal"],
+      hu: ["Vízesés magassága: 15 méter", "Átlaghőmérséklet: 26 °C", "Becsült lakosság: 3.000", "Datolyapálmák száma: 2.000", "Távolság Qardhotól: 80 km", "Fosszilis lelőhelyek: tengeri élőlények"],
+      ro: ["Înălțimea cascadei: 15 m", "Populație estimată: 3.500", "Precipitații anuale: 300 mm", "Număr de palmieri de curmale: ~2.000", "Distanța până la Qardho: 80 km", "Râul Nugaal"],
+      en: ["Waterfall height: approximately 15 meters", "Estimated population: 3,500", "Annual rainfall: ~300 mm", "Number of date palms: around 2,000", "Distance to Qardho: 80 km", "River: Nugaal"],
+    },
+  },
   {
     id: "qandala-cities-v2",
     type: "city",
     parent: "SO-BR",
     coords: [49.8732, 11.4719],
-    name: { de: "Qandala", hu: "Qandala", ro: "Qandala", en: "Qandala",
-image: "/poi-images/qandala-cities-v2.webp"
-},
+    name: { de: "Qandala", hu: "Qandala", ro: "Qandala", en: "Qandala"},
+    image: "/poi-images/qandala-cities-v2.webp",
     description: {
       de: "Inmitten rauer Klippen gelegen, blickt Qandala auf eine lange Geschichte im antiken Seehandel und Perlenfischen zurück.",
       hu: "A zord sziklák között fekvő Qandala hosszú történelemre tekint vissza az ókori tengeri kereskedelemben és a gyöngyhalászatban.",
@@ -795,15 +1245,27 @@ image: "/poi-images/qandala-cities-v2.webp"
       hu: ["Történelmi exportkikötő a tömjén számára", "Sziklás partvidék", "Régi kereskedelmi hálózat"],
       ro: ["Port istoric de export pentru tămâie", "Coasta stâncoasă", "Rețea veche de comerț"],
       en: ["Historic export port for frankincense", "Cliff-dominated coast", "Old trade network"]
-    }, image: "/poi-images/qandala-cities-v2.webp"},
+    }, image: "/poi-images/qandala-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Qandala ist eine Küstenstadt in der Region Bari im Nordosten Somalias, direkt am Golf von Aden gelegen. Die Stadt hat einen natürlichen Tiefwasserhafen und war historisch ein wichtiger Umschlagplatz für Weihrauch, Myrrhe und Tierhäute. Während der Kolonialzeit wurde Qandala von den Briten als Außenposten genutzt. Heute leben die meisten Einwohner vom Fischfang und dem Transportwesen. Die Stadt verfügt über eine Grundschule, eine Polizeistation und eine Moschee aus dem 19. Jahrhundert. Qandala ist auch für seine Korallenriffe bekannt, die eine reiche marine Biodiversität beherbergen. Die Bevölkerungszahl wird auf 5.000 geschätzt.",
+      hu: "Qandala egy tengerparti város Szomália északkeleti részén, a Bari régióban, a Golf of Aden partján. A település kikötője már a középkorban is fontos szerepet játszott a tömjénkereskedelemben. A 20. században Qandala halászati központtá fejlődött, és ma is a régió egyik fő halászati kikötője. A város gazdasága a halászat mellett a kisüzemi mezőgazdaságra, például a datolyatermesztésre épül. Qandala környékén számos történelmi rom található, amelyek a régi iszlám kereskedelmi településekre utalnak. A lakosság vegyes összetételű, de domináns a Majerteen klán. A városban van egy kis kórház és egy középfokú iskola.",
+      ro: "Qandala este un oraș portuar în regiunea Bari din Somalia, pe coasta Golfului Aden. Portul natural adăpostește o flotă de pescuit care capturează ton și homari. Orașul a fost un important centru de export pentru tămâie în epoca precolonială. Clădirile vechi includ o moschee din piatră de corali construită în anii 1800. Qandala se confruntă cu eroziunea costieră din cauza creșterii nivelului mării. Populația este estimată la 5.000 de locuitori. Recent, au fost descoperite zăcăminte de petrol offshore în apropiere, ceea ce ar putea transforma economia locală.",
+      en: "Qandala is a coastal town in the Bari region of northeastern Somalia, situated on the Gulf of Aden. It has a natural deep-water port that historically facilitated trade in frankincense, myrrh, and animal skins. The town's economy is currently based on fishing, with a fleet of small boats targeting tuna and lobster. Qandala has a coral stone mosque from the 19th century and a small hospital. The surrounding waters host diverse coral reefs. Oil exploration has been conducted offshore, but no commercial extraction has yet begun. Population is around 5,000.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 5.000", "Tiefe des Hafens: natürlicher Tiefwasserhafen", "Entfernung nach Bosaso: 100 km", "Anzahl der Moscheen: 3", "Hauptfischart: Thunfisch", "Historische Handelsware: Weihrauch"],
+      hu: ["Lakosság: 5.000", "Kikötő mélysége: természetes mélyvízi", "Távolság Bosasótól: 100 km", "Mecsetek száma: 3", "Fő halfaj: tonhal", "Történelmi áru: tömjén"],
+      ro: ["Populație: 5.000", "Adâncimea portului: natural de adâncime", "Distanța până la Bosaso: 100 km", "Număr de moschei: 3", "Pește principal: ton", "Marfă istorică: tămâie"],
+      en: ["Population: approximately 5,000", "Port type: natural deep-water", "Distance to Bosaso: 100 km", "Number of mosques: 3", "Main fish species: tuna", "Historical trade good: frankincense"],
+    },
+  },
   {
     id: "alula-cities-v2",
     type: "city",
     parent: "SO-BR",
     coords: [50.7583, 11.9666],
-    name: { de: "Caluula", hu: "Caluula", ro: "Caluula", en: "Alula",
-image: "/poi-images/alula-cities-v2.webp"
-},
+    name: { de: "Caluula", hu: "Caluula", ro: "Caluula", en: "Alula"},
+    image: "/poi-images/alula-cities-v2.webp",
     description: {
       de: "Alula, gelegen am Kap Guardafui, markiert den nordöstlichsten Punkt Afrikas und bietet einen spektakulären Meerblick.",
       hu: "A Guardafui-foknál található Alula Afrika legészakkeletibb pontját jelöli, és látványos kilátást nyújt a tengerre.",
@@ -814,15 +1276,27 @@ image: "/poi-images/alula-cities-v2.webp"
       hu: ["A Guardafui-fok közelében", "Hagyományos kalózellenes történelem", "Jelentős halászat"],
       ro: ["Aproape de Capul Guardafui", "Istoria tradițională a apărării piraților", "Pescuit important"],
       en: ["Near Cape Guardafui", "Traditional pirate defense history", "Important fishing"]
-    }, image: "/poi-images/alula-cities-v2.webp"},
+    }, image: "/poi-images/alula-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Alula ist eine kleine Hafenstadt an der Nordküste Somalias in der Region Bari, östlich von Qandala gelegen. Die Stadt liegt auf einer felsigen Halbinsel und ist bekannt für ihre gut erhaltene osmanische Festung aus dem 16. Jahrhundert, die den Hafen überblickt. Alula war einst ein wichtiger Zwischenstopp für Schiffe, die entlang der somalischen Küste fuhren. Heute ist die Wirtschaft von der Fischerei und dem kleinen Handel geprägt. Die Stadt hat eine Grundschule und eine Gesundheitsstation. Aufgrund ihrer strategischen Lage war Alula während der Konflikte in Somalia mehrmals Schauplatz von Kämpfen. Die Bevölkerung beträgt etwa 2.000 Menschen.",
+      hu: "Alula egy kis halászváros Szomália északi partján, a Bari régióban. A település híres az Oszmán Birodalom által épített erődről, amely ma is a város központjában áll. Alula a tömjénút egyik fontos kikötője volt a középkorban. A város gazdasága ma is a halászatra és a tengeri kereskedelemre épül. A közelmúltban a kalózkodás elleni erőfeszítések miatt nemzetközi hadihajók is használták a kikötőt. Alula környékén számos barlang található, amelyekben őskori sziklarajzok maradtak fenn. A lakosság becslések szerint 2.000 fő.",
+      ro: "Alula este un oraș portuar în regiunea Bari din Somalia, pe o peninsulă stâncoasă. Fortăreața otomană din secolul al XVI-lea este principala atracție istorică. Orașul a fost un centru de export de tămâie și smirnă. Astăzi, pescuitul este principala ocupație, iar portul este folosit de vase mici. Alula are o populație de aproximativ 2.000 de locuitori. Infrastructura este slab dezvoltată, cu drumuri de pământ și electricitate limitată. Aproape de oraș se găsesc peșteri cu picturi rupestre preistorice.",
+      en: "Alula is a small coastal town in the Bari region of Somalia, situated on a rocky peninsula. It is known for its well-preserved Ottoman fortress built in the 16th century. Historically, Alula served as a key port for the frankincense trade. Today, the economy relies on fishing and small-scale trade. The town has a primary school and a health clinic. Nearby caves contain prehistoric rock art. The population is around 2,000. Because of its strategic location, Alula has been a site of naval activity during anti-piracy operations.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 2.000", "Bau der Festung: 16. Jahrhundert", "Entfernung nach Qandala: 30 km", "Anzahl der Höhlen mit Felszeichnungen: 5", "Hauptfisch: Sardinen", "Reich: Osmanisches Reich"],
+      hu: ["Lakosság: 2.000", "Erődítmény építése: 16. század", "Távolság Qandalától: 30 km", "Barlangok száma: 5", "Fő halfaj: szardínia", "Történelmi birodalom: Oszmán"],
+      ro: ["Populație: 2.000", "Construcția fortăreței: secolul al XVI-lea", "Distanța până la Qandala: 30 km", "Număr de peșteri cu picturi: 5", "Pește principal: sardine", "Imperiul Otoman"],
+      en: ["Population: around 2,000", "Fortress built: 16th century", "Distance to Qandala: 30 km", "Number of caves with rock art: 5", "Main fish: sardines", "Historical empire: Ottoman"],
+    },
+  },
   {
     id: "bandar-beyla-cities-v2",
     type: "city",
     parent: "SO-BR",
     coords: [50.8123, 9.4939],
-    name: { de: "Banderbeyla", hu: "Banderbeyla", ro: "Banderbeyla", en: "Bandar Beyla",
-image: "/poi-images/bandar-beyla-cities-v2.webp"
-},
+    name: { de: "Banderbeyla", hu: "Banderbeyla", ro: "Banderbeyla", en: "Bandar Beyla"},
+    image: "/poi-images/bandar-beyla-cities-v2.webp",
     description: {
       de: "Diese malerische Fischerstadt wurde stark vom Tsunami 2004 getroffen, hat sich aber inzwischen beeindruckend erholt.",
       hu: "Ezt a festői halászvárost súlyosan érintette a 2004-es szökőár, de azóta lenyűgözően felépült.",
@@ -833,15 +1307,27 @@ image: "/poi-images/bandar-beyla-cities-v2.webp"
       hu: ["Történelmi kalóz múlt", "Újjáépítés a szökőár után", "Látványos homokos strandok"],
       ro: ["Trecut istoric al piraților", "Reconstrucția post-tsunami", "Plaje spectaculoase cu nisip"],
       en: ["Historic pirate past", "Post-tsunami reconstruction", "Spectacular sandy beaches"]
-    }, image: "/poi-images/bandar-beyla-cities-v2.webp"},
+    }, image: "/poi-images/bandar-beyla-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bandar Beyla ist ein Küstenort in der Region Bari im Nordosten Somalias, östlich von Bosaso gelegen. Die Stadt liegt an einer geschützten Bucht und ist bekannt für ihre weißen Sandstrände und traditionellen Dhau-Boote, die hier gebaut werden. Die Wirtschaft basiert auf Fischerei, Hummer- und Thunfischfang. Bandar Beyla hat eine kleine Werft, in der Holzboote handgefertigt werden. Die Stadt verfügt über eine Grundschule und eine Moschee. Historisch war Bandar Beyla ein wichtiger Knotenpunkt für den Handel mit dem Jemen. Die Bevölkerungszahl wird auf 1.500 geschätzt. In der Umgebung gibt es Mangrovenwälder, die als Laichgründe für Fische dienen.",
+      hu: "Bandar Beyla egy kis partvidéki falu Szomáliában, a Bari régióban. A település híres a hagyományos dhow hajóiról, amelyeket a helyi hajóépítők készítenek. A gazdaság a halászatra és a homárkereskedelemre épül. Bandar Beyla környékén mangrovemocsarak találhatók, amelyek fontos ökológiai szerepet töltenek be. A településen nincs kórház, csak egy kisebb egészségügyi központ. A lakosság becslések szerint 1.500 fő. A közelben található a Gardafui-csatorna, amely hajózási útvonal. A falu egyre népszerűbb a búvárkodók körében.",
+      ro: "Bandar Beyla este un sat de pescari în regiunea Bari din Somalia, situat pe o golfuleț protejat. Plajele cu nisip alb și apele limpezi atrag turiști, dar infrastructura turistică este aproape inexistentă. Localnicii construiesc bărci tradiționale dhow din lemn. Economia se bazează pe pescuitul homarilor și al tonului. Aproape de Bandar Beyla se află o pădure de mangrove, habitat pentru păsări migratoare. Populația este de aproximativ 1.500 de locuitori. Satul are o școală primară și o moschee.",
+      en: "Bandar Beyla is a coastal settlement in the Bari region of Somalia, located east of Bosaso. Known for its white sandy beaches and traditional dhow boat building, the village relies on fishing, lobster, and tuna. The village has a small health post and a primary school. Mangrove forests near the coast provide nursery grounds for fish. Bandar Beyla is also a departure point for boats crossing the Gulf of Aden to Yemen. Population is around 1,500. Tourism is minimal but the area offers diving opportunities.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 1.500", "Anzahl der traditionellen Dhau-Werften: 2", "Entfernung nach Bosaso: 50 km", "Hauptfisch: Hummer", "Fläche der Mangrovenwälder: ca. 10 km²", "Bootstyp: Dhau"],
+      hu: ["Lakosság: 1.500", "Hagyományos hajóépítő műhelyek száma: 2", "Távolság Bosasótól: 50 km", "Fő halfaj: homár", "Mangrove terület: 10 km²", "Hajótípus: dhow"],
+      ro: ["Populație: 1.500", "Număr de șantiere navale tradiționale: 2", "Distanța până la Bosaso: 50 km", "Pește principal: homar", "Suprafața pădurii de mangrove: ~10 km²", "Tip de barcă: dhow"],
+      en: ["Population: approximately 1,500", "Traditional dhow boatyards: 2", "Distance to Bosaso: 50 km", "Main catch: lobster", "Mangrove forest area: ~10 km²", "Boat type: dhow"],
+    },
+  },
   {
     id: "jariban-cities-v2",
     type: "city",
     parent: "SO-MU",
     coords: [48.6186, 7.2144],
-    name: { de: "Jariiban", hu: "Jariiban", ro: "Jariiban", en: "Jariban",
-image: "/poi-images/jariban-cities-v2.webp"
-},
+    name: { de: "Jariiban", hu: "Jariiban", ro: "Jariiban", en: "Jariban"},
+    image: "/poi-images/jariban-cities-v2.webp",
     description: {
       de: "Jariiban ist eine abgelegene Gemeinde, deren Wirtschaft überwiegend von Schafen, Ziegen und Kamelzucht abhängt.",
       hu: "Jariiban egy távoli közösség, amelynek gazdasága túlnyomórészt a juhok, kecskék és tevék tenyésztésétől függ.",
@@ -852,16 +1338,27 @@ image: "/poi-images/jariban-cities-v2.webp"
       hu: ["Az állattenyésztés központja", "Törzsi központ Mudugban", "Kiterjedt környező terület"],
       ro: ["Centrul de creștere a animalelor", "Centrul tribal din Mudug", "Zonă înconjurătoare extinsă"],
       en: ["Center of livestock breeding", "Tribal center in Mudug", "Extensive surrounding area"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Jariban ist eine Stadt in der Region Mudug im zentralen Somalia, etwa 300 Kilometer nordöstlich von Mogadischu gelegen. Die Stadt liegt in einer semi-ariden Ebene und ist ein wichtiger Marktort für die nomadischen Viehzüchter der Umgebung. Die Wirtschaft wird dominiert vom Handel mit Kamelen, Ziegen und Schafen. Jariban verfügt über eine Grundschule, eine Moschee und eine kleine Klinik. Die Wasserversorgung erfolgt über Tiefbrunnen und Zisternen. Historisch war Jariban ein Zwischenstopp auf der Handelsroute zwischen Mogadischu und dem Norden. Die Bevölkerungszahl schwankt saisonal zwischen 5.000 und 8.000 Menschen.",
+      hu: "Jariban egy város Szomália középső részén, a Mudug régióban. A település a nomád pásztorok fontos piaci központja, ahol állatokat, bőröket és tejtermékeket cserélnek. Jariban az 1970-es években kezdett fejlődni, amikor az állami beruházások révén utakat és kutakat építettek. A városban található egy középiskola és egy rendőrőrs. A környéken gyakoriak a szárazságok, amelyek éhínséghez vezethetnek. Jariban a helyi klánok találkozási pontja, ahol a szokásjog szerinti vitarendezés folyik. A lakosság becslések szerint 6.000 fő.",
+      ro: "Jariban este un oraș în regiunea Mudug din Somalia centrală, situat pe un platou arid. Este un centru comercial pentru păstorii nomazi, care vând animale și produse lactate. Orașul are o școală primară, o moschee și o piață săptămânală. Aprovizionarea cu apă se face prin puțuri de adâncime. Populația este estimată la 6.000 de locuitori. Jariban a fost afectat de secetă și conflicte inter-clanice. În apropiere s-au descoperit zăcăminte de uraniu, dar exploatarea nu a început.",
+      en: "Jariban is a town in the Mudug region of central Somalia, serving as a livestock trading hub for nomadic pastoralists. The town has a primary school, a mosque, and a health center. Water is sourced from deep wells. The population fluctuates with seasonal migrations but is estimated at 6,000. The economy is based on camel, goat, and sheep trade. Jariban has faced drought and clan conflicts. Uranium deposits have been reported in the vicinity, but no mining has occurred. The town is connected by unpaved roads to Galkayo and Mogadishu.",
+    },
+    factsAdvanced: {
+      de: ["Geschätzte Bevölkerung: 6.000", "Entfernung nach Galkayo: 150 km", "Anzahl der Tiefbrunnen: 4", "Hauptvieh: Kamele", "Durchschnittstemperatur: 30 °C", "Handelsroute: Mogadischu - Norden"],
+      hu: ["Becsült lakosság: 6.000", "Távolság Galkayotól: 150 km", "Mélyfúrású kutak száma: 4", "Fő állatfaj: teve", "Átlaghőmérséklet: 30 °C", "Uránium lelőhely: igen"],
+      ro: ["Populație estimată: 6.000", "Distanța până la Galkayo: 150 km", "Număr de puțuri adânci: 4", "Animal principal: cămilă", "Temperatura medie: 30 °C", "Zăcăminte de uraniu: raportate"],
+      en: ["Estimated population: 6,000", "Distance to Galkayo: 150 km", "Number of deep wells: 4", "Primary livestock: camel", "Average temperature: 30 °C", "Uranium deposits: reported"],
+    },
   },
   {
     id: "hobyo-cities-v2",
     type: "city",
     parent: "SO-MU",
     coords: [48.5255, 5.3505],
-    name: { de: "Hobyo", hu: "Hobyo", ro: "Hobyo", en: "Hobyo",
-image: "/poi-images/hobyo-cities-v2.webp"
-},
+    name: { de: "Hobyo", hu: "Hobyo", ro: "Hobyo", en: "Hobyo"},
+    image: "/poi-images/hobyo-cities-v2.webp",
     description: {
       de: "Einst die Hauptstadt des Sultanats Hobyo, zeugen alte Lehmhäuser am weißen Strand von der glorreichen Vergangenheit.",
       hu: "Egykor a Hobyo Szultanátus fővárosa volt, a fehér strandon álló régi vályogházak a dicsőséges múltról tanúskodnak.",
@@ -872,15 +1369,27 @@ image: "/poi-images/hobyo-cities-v2.webp"
       hu: ["A korábbi Hobyo Szultanátus", "A kikötő tervezett bővítése", "Történelmi romok"],
       ro: ["Fostul Sultanat Hobyo", "Extinderea planificată a portului", "Ruine istorice"],
       en: ["Former Sultanate of Hobyo", "Planned expansion of the port", "Historical ruins"]
-    }, image: "/poi-images/hobyo-cities-v2.webp"},
+    }, image: "/poi-images/hobyo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hobyo ist eine Küstenstadt in der Region Galguduud im zentralen Somalia, am Indischen Ozean gelegen. Die Stadt war historisch ein wichtiger Hafen für den Handel mit Oman und Indien. Im 19. Jahrhundert war Hobyo die Hauptstadt des unabhängigen Sultanats Hobyo, das von Yusuf Ali Kenadid gegründet wurde. Heute ist die Wirtschaft von Fischerei und Kleinhandel geprägt. Hobyo hat eine Moschee aus Korallenstein, eine Grundschule und einen Markt. In den letzten Jahren wurde Hobyo durch Piraterie bekannt. Die Bevölkerungszahl wird auf 15.000 geschätzt. Die Stadt leidet unter unregelmäßiger Wasserversorgung.",
+      hu: "Hobyo egy kikötőváros Szomália középső részén, a Galguduud régióban. A település a 19. században a Hobyo Szultánság fővárosa volt, amely független királyságként működött. Hobyo kikötője fontos szerepet játszott a kereskedelemben, különösen a tömjén és az elefántcsont exportjában. Ma a város gazdasága a halászatra és a kisüzemi kereskedelemre épül. Hobyo közelében homokdűnék találhatók, amelyek turisztikai vonzerőt jelentenek. A városban van egy kórház és egy középiskola. A lakosság becslések szerint 15.000 fő.",
+      ro: "Hobyo este un oraș portuar în regiunea Galguduud din Somalia centrală, pe coasta Oceanului Indian. A fost capitala Sultanatului Hobyo în secolul al XIX-lea. Portul natural a fost folosit pentru comerțul cu tămâie și fildeș. Astăzi, economia se bazează pe pescuit și comerț. Hobyo are o moschee veche de coral, o școală primară și o piață. Orașul a fost asociat cu pirateria maritimă în anii 2000. Populația este estimată la 15.000 de locuitori. Aprovizionarea cu apă este o problemă majoră.",
+      en: "Hobyo is a coastal town in the Galguduud region of central Somalia, on the Indian Ocean. It was the capital of the Sultanate of Hobyo, founded in the 19th century by Yusuf Ali Kenadid. The port historically traded frankincense and ivory. Today, fishing and small-scale commerce drive the economy. Hobyo has a coral stone mosque, a primary school, and a market. The town gained notoriety for piracy in the 2000s. Population is about 15,000. Water supply remains a challenge, with residents relying on shallow wells.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 15.000", "Hauptstadt des Sultanats Hobyo: 1878-1926", "Küstenlänge: Indischer Ozean", "Entfernung nach Mogadischu: 350 km", "Anzahl der Moscheen: 4", "Gründer des Sultanats: Yusuf Ali Kenadid"],
+      hu: ["Lakosság: 15.000", "Szultánság fővárosa: 1896-1926", "Távolság Mogadishutól: 350 km", "Mecsetek száma: 4", "Korallkőből épült mecset: 1", "Halászhajók száma: kb. 50"],
+      ro: ["Populație: 15.000", "Capitala Sultanatului Hobyo: 1878-1926", "Distanța până la Mogadishu: 350 km", "Număr de moschei: 4", "Moschee de coral: 1", "Număr de bărci de pescuit: ~50"],
+      en: ["Population: approximately 15,000", "Capital of Sultanate of Hobyo: 1878-1926", "Distance to Mogadishu: 350 km", "Number of mosques: 4", "Coral stone mosque: 1", "Founder of sultanate: Yusuf Ali Kenadid"],
+    },
+  },
   {
     id: "harardhere-cities-v2",
     type: "city",
     parent: "SO-MU",
     coords: [47.8596, 4.5936],
-    name: { de: "Xarardheere", hu: "Harardhere", ro: "Harardhere", en: "Harardhere",
-image: "/poi-images/harardhere-cities-v2.webp"
-},
+    name: { de: "Xarardheere", hu: "Harardhere", ro: "Harardhere", en: "Harardhere"},
+    image: "/poi-images/harardhere-cities-v2.webp",
     description: {
       de: "Dieses ruhige Fischerdorf gewann im 21. Jahrhundert internationale Aufmerksamkeit, als es zu einem Zentrum der Piraterie wurde.",
       hu: "Ez a csendes halászfalu a 21. században nemzetközi figyelmet kapott, amikor a kalózkodás központjává vált.",
@@ -891,16 +1400,27 @@ image: "/poi-images/harardhere-cities-v2.webp"
       hu: ["Egykori kalóz hotspot", "Fókuszáljon a halászathoz való visszatérésre", "Hosszú homokos strandok"],
       ro: ["Fost hotspot al piraților", "Concentrați-vă pe întoarcerea la pescuit", "Plaje lungi cu nisip"],
       en: ["Former pirate hotspot", "Focus on return to fishing", "Long sandy beaches"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Harardhere ist eine Küstenstadt in der Region Mudug im zentralen Somalia, am Indischen Ozean. Die Stadt war ursprünglich ein kleines Fischerdorf, bevor sie in den 1990er Jahren zu einem Zentrum der somalischen Piraterie wurde. Nach internationalen Gegenmaßnahmen hat die Piraterie abgenommen, und die Wirtschaft konzentriert sich wieder auf Fischerei und lokalen Handel. Harardhere hat eine Moschee, eine Grundschule und eine Klinik. Die Stadt ist von Dünen umgeben und hat einen Strand mit potenziellem Tourismuswert. Die Bevölkerungszahl wird auf 5.000 geschätzt. Die Wasserversorgung ist prekär, abhängig von Brunnen.",
+      hu: "Harardhere egy tengerparti város Szomália középső részén, a Mudug régióban. A település a 2000-es években vált hírhedtté a kalózkodás miatt, amikor a helyi halászok eltérített hajókat foglyul ejtettek. A kalózkodás visszaszorulásával a város gazdasága a halászatra és a kisüzemi kereskedelemre épül. Harardhere környékén gyakoriak a tengeri teknősök, amelyek a parton rakják le tojásaikat. A városban van egy mecset és egy általános iskola. A lakosság becslések szerint 5.000 fő. A közeli dűnék népszerűek a kempingezők körében.",
+      ro: "Harardhere este un oraș de coastă în regiunea Mudug din Somalia centrală. Cunoscut ca un fost bastion al piraților somalezi, astăzi economia sa revine la pescuit și comerț. Orașul are o plajă nisipoasă, o moschee și o școală primară. Țestoasele marine cuibăresc pe plajele din apropiere. Populația este de aproximativ 5.000 de locuitori. Infrastructura este slabă, cu drumuri de pământ și electricitate limitată. Aprovizionarea cu apă se face din fântâni săpate manual.",
+      en: "Harardhere is a coastal town in the Mudug region of central Somalia. It gained notoriety as a hub for piracy in the early 2000s, but anti-piracy efforts have reduced activity. The economy now relies on fishing and small trade. The town has a mosque, a primary school, and a health clinic. Sea turtles nest on nearby beaches. Population is around 5,000. Water is sourced from hand-dug wells. The surrounding sand dunes offer potential for ecotourism.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 5.000", "Piraterie-Hochphase: 2005-2012", "Entfernung nach Hobyo: 50 km", "Anzahl der Moscheen: 2", "Hauptfisch: Thunfisch", "Brunnenanzahl: ca. 10"],
+      hu: ["Lakosság: 5.000", "Kalózkodás csúcspontja: 2005-2012", "Távolság Hobyo-tól: 50 km", "Mecsetek száma: 2", "Tengeri teknősök fészkelőhelyei: évente", "Kézzel ásott kutak: 10"],
+      ro: ["Populație: 5.000", "Perioada de vârf a pirateriei: 2005-2012", "Distanța până la Hobyo: 50 km", "Număr de moschei: 2", "Țestoase marine: cuibăresc anual", "Fântâni săpate manual: ~10"],
+      en: ["Population: approximately 5,000", "Piracy peak: 2005-2012", "Distance to Hobyo: 50 km", "Number of mosques: 2", "Sea turtle nesting: annual", "Hand-dug wells: about 10"],
+    },
   },
   {
     id: "abudwak-cities-v2",
     type: "city",
     parent: "SO-GA",
     coords: [46.3015, 6.2407],
-    name: { de: "Abudwak", hu: "Caabudwaaq", ro: "Abudwak", en: "Abudwak",
-image: "/poi-images/abudwak-cities-v2.webp"
-},
+    name: { de: "Abudwak", hu: "Caabudwaaq", ro: "Abudwak", en: "Abudwak"},
+    image: "/poi-images/abudwak-cities-v2.webp",
     description: {
       de: "Ein zentraler Verkehrsknotenpunkt an der Grenze zu Äthiopien, der für florierende Schwarzmärkte und grenzüberschreitenden Handel bekannt ist.",
       hu: "Központi közlekedési csomópont az etióp határon, amely virágzó feketepiacairól és határokon átnyúló kereskedelméről ismert.",
@@ -911,15 +1431,27 @@ image: "/poi-images/abudwak-cities-v2.webp"
       hu: ["Fontos határváros", "Élénk, határokon átnyúló kereskedelem", "Sűrű úthálózat"],
       ro: ["Oraș de frontieră important", "Comerț transfrontalier plin de viață", "Sistem rutier dens"],
       en: ["Important border town", "Lively cross-border trade", "Dense road system"]
-    }, image: "/poi-images/abudwak-cities-v2.webp"},
+    }, image: "/poi-images/abudwak-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Abudwak ist eine Stadt in der Region Galguduud im zentralen Somalia, etwa 400 Kilometer nordöstlich von Mogadischu. Die Stadt liegt am Fluss Shebelle, der Bewässerungslandwirtschaft ermöglicht. Angebaut werden Mais, Sesam und Gemüse. Abudwak ist ein wichtiger Markt für Vieh und landwirtschaftliche Produkte. Die Stadt hat eine Grundschule, eine weiterführende Schule und ein Krankenhaus. Die Bevölkerung besteht hauptsächlich aus den Clans Hawiye und Dir. Abudwak war in den 1990er Jahren Schauplatz schwerer Kämpfe zwischen rivalisierenden Milizen. Die Bevölkerungszahl wird auf 20.000 geschätzt.",
+      hu: "Abudwak egy város Szomália középső részén, a Galguduud régióban. A település a Shebelle folyó partján fekszik, ami öntözéses mezőgazdaságot tesz lehetővé. Fő termények a kukorica, a szezám és a zöldségek. Abudwak fontos piaci központ a környékbeli állattartók számára. A városban van kórház és középfokú oktatási intézmény. A múltban etnikai és klánközi konfliktusok sújtották. A lakosság becslések szerint 20.000 fő. A közelben találhatóak a Gedo régió határátkelői Etiópia felé.",
+      ro: "Abudwak este un oraș în regiunea Galguduud din Somalia centrală, situat pe râul Shebelle. Agricultura de irigație produce porumb, susan și legume. Orașul este un centru comercial pentru animale și produse agricole. Are un spital, școli primare și o școală secundară. Populația este de aproximativ 20.000 de locuitori. Abudwak a fost afectat de conflicte clanice în anii 1990. Apropierea de granița etiopiană facilitează comerțul transfrontalier.",
+      en: "Abudwak is a town in the Galguduud region of central Somalia, located on the Shebelle River. Irrigation supports farming of maize, sesame, and vegetables. The town is a major market for livestock and agricultural produce. It has a hospital, a secondary school, and several primary schools. The population is around 20,000. Abudwak experienced heavy clan fighting in the 1990s. Its proximity to the Ethiopian border promotes cross-border trade.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 20.000", "Fluss: Shebelle", "Entfernung nach Mogadischu: 400 km", "Anzahl der Schulen: 4", "Hauptfrucht: Mais", "Krankenhaus: 1"],
+      hu: ["Lakosság: 20.000", "Folyó: Shebelle", "Távolság Mogadishutól: 400 km", "Iskolák száma: 4", "Fő termény: kukorica", "Kórház: 1"],
+      ro: ["Populație: 20.000", "Râu: Shebelle", "Distanța până la Mogadishu: 400 km", "Număr de școli: 4", "Cultura principală: porumb", "Spital: 1"],
+      en: ["Population: approximately 20,000", "River: Shebelle", "Distance to Mogadishu: 400 km", "Number of schools: 4", "Primary crop: maize", "Hospital: 1"],
+    },
+  },
   {
     id: "el-bur-cities-v2",
     type: "city",
     parent: "SO-GA",
     coords: [46.6196, 4.6713],
-    name: { de: "Ceelbuur", hu: "El Buur", ro: "El Buur", en: "El Bur",
-image: "/poi-images/el-bur-cities-v2.webp"
-},
+    name: { de: "Ceelbuur", hu: "El Buur", ro: "El Buur", en: "El Bur"},
+    image: "/poi-images/el-bur-cities-v2.webp",
     description: {
       de: "Die historischen Kalksteingruben um die Stadt machten sie zu einem wichtigen Zentrum für den Abbau und Handel von Baumaterial.",
       hu: "A város körüli történelmi mészkőbányák fontos központtá tették az építőanyagok bányászatában és kereskedelmében.",
@@ -930,15 +1462,27 @@ image: "/poi-images/el-bur-cities-v2.webp"
       hu: ["A mészkőbányászat központja", "Régi szárazföldi város", "Közép-Galguduud régió"],
       ro: ["Centrul extracției de calcar", "Oraș vechi din interior", "Regiunea Galguduud centrală"],
       en: ["Center of limestone extraction", "Old inland city", "Central Galguduud region"]
-    }, image: "/poi-images/el-bur-cities-v2.webp"},
+    }, image: "/poi-images/el-bur-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Bur ist eine Stadt in der Region Galguduud im zentralen Somalia. Sie liegt auf einem felsigen Hügel und war historisch eine Festung der Hawiye-Clans. El Bur war während des somalischen Bürgerkriegs ein strategisch wichtiger Ort und wurde mehrfach von verschiedenen Milizen eingenommen. Die Wirtschaft basiert auf Viehzucht und kleinem Handel. Die Stadt verfügt über eine Moschee, eine Grundschule und eine Klinik. Die Wasserversorgung erfolgt durch Zisternen und Brunnen. Die Bevölkerung wird auf 10.000 geschätzt. El Bur hat einen traditionellen Markt, der wöchentlich abgehalten wird.",
+      hu: "El Bur egy város Szomália középső részén, a Galguduud régióban. A település stratégiai magaslaton fekszik, ezért a polgárháború alatt erődítményként szolgált. El Bur a Hawiye klánok egyik központja. A gazdaság az állattenyésztésre és a helyi kereskedelemre épül. A városban van mecset, iskola és egészségügyi központ. A vízellátás esővízgyűjtőkből és kutakból történik. A lakosság becslések szerint 10.000 fő. A környéken gyakoriak a szárazságok.",
+      ro: "El Bur este un oraș în regiunea Galguduud din Somalia centrală, situat pe un deal stâncos. A fost o fortăreață în timpul războiului civil. Economia se bazează pe creșterea animalelor și comerț. Orașul are o moschee, o școală primară și o clinică. Apa este colectată din precipitații și din fântâni. Populația este estimată la 10.000 de locuitori. Piața săptămânală atrage comercianți din satele învecinate.",
+      en: "El Bur is a town in the Galguduud region of central Somalia, perched on a rocky hill. It served as a strategic fortress during the civil war. The economy relies on livestock herding and local trade. The town has a mosque, a primary school, and a health clinic. Water is collected from rainfall and wells. Population is around 10,000. A weekly market brings traders from surrounding villages. Droughts are frequent, affecting water availability.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 10.000", "Höhe des Hügels: ca. 50 m über Umgebung", "Entfernung nach Mogadischu: 350 km", "Anzahl der Moscheen: 2", "Markttag: wöchentlich", "Konflikte: 1990er Jahre"],
+      hu: ["Lakosság: 10.000", "Domb magassága: 50 méter", "Távolság Mogadishutól: 350 km", "Mecsetek száma: 2", "Piac nap: hetente", "Vízgyűjtő tartályok: igen"],
+      ro: ["Populație: 10.000", "Înălțimea dealului: ~50 m", "Distanța până la Mogadishu: 350 km", "Număr de moschei: 2", "Piață: săptămânală", "Rezervoare de apă pluvială: da"],
+      en: ["Population: approximately 10,000", "Hill elevation: ~50 m above surroundings", "Distance to Mogadishu: 350 km", "Number of mosques: 2", "Market day: weekly", "Rainwater collection: primary water source"],
+    },
+  },
   {
     id: "el-dher-cities-v2",
     type: "city",
     parent: "SO-GA",
     coords: [47.5309, 3.7915],
-    name: { de: "Ceeldheer", hu: "El Dher", ro: "El Dher", en: "El Dher",
-image: "/poi-images/el-dher-cities-v2.webp"
-},
+    name: { de: "Ceeldheer", hu: "El Dher", ro: "El Dher", en: "El Dher"},
+    image: "/poi-images/el-dher-cities-v2.webp",
     description: {
       de: "Diese friedliche Siedlung hat sich durch intensive Aufforstungsprojekte einen Namen als grünes Wunder inmitten der Savanne gemacht.",
       hu: "Ez a békés település az intenzív erdőtelepítési projektek révén zöld csodaként szerzett nevet magának a szavanna közepén.",
@@ -949,15 +1493,27 @@ image: "/poi-images/el-dher-cities-v2.webp"
       hu: ["Az erdősítésről ismert", "Csendes mezőgazdasági terület", "A pásztorok központja"],
       ro: ["Cunoscut pentru împăduriri", "Zonă agricolă liniștită", "Centru pentru păstori"],
       en: ["Known for afforestation", "Quiet agricultural area", "Center for herders"]
-    }, image: "/poi-images/el-dher-cities-v2.webp"},
+    }, image: "/poi-images/el-dher-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Dher ist eine Stadt in der Region Galguduud im zentralen Somalia, etwa 60 Kilometer südlich von Abudwak gelegen. Sie liegt in einer trockenen Savannenlandschaft. Die Wirtschaft basiert hauptsächlich auf der Viehzucht, insbesondere Kamelen und Ziegen. El Dher verfügt über eine Grundschule, eine Moschee und einen kleinen Markt. Die Stadt ist bekannt für ihre traditionellen Heilpraktiken, die von lokalen Stammesältesten durchgeführt werden. Die Bevölkerung wird auf 3.000 geschätzt. Die Wasserversorgung ist prekär und erfolgt durch Brunnen.",
+      hu: "El Dher egy kisváros Szomália középső részén, a Galguduud régióban. A település a nomád pásztorkodás egyik központja. El Dher híres a hagyományos gyógyítóiról, akik gyógynövényeket használnak. A városban van egy mecset és egy általános iskola. A gazdaság az állatkereskedelemre épül. A lakosság becslések szerint 3.000 fő. A környéken gyakoriak az aszályok, amelyek súlyosan érintik a megélhetést.",
+      ro: "El Dher este un oraș mic în regiunea Galguduud din Somalia centrală. Economia se bazează pe creșterea animalelor și comerțul local. Orașul are o moschee, o școală primară și o piață. Este cunoscut pentru vindecătorii tradiționali care folosesc plante medicinale. Populația este de aproximativ 3.000 de locuitori. Aprovizionarea cu apă este o problemă, dependența de fântâni. Secetele frecvente afectează agricultura.",
+      en: "El Dher is a small town in the Galguduud region of central Somalia. Its economy is based on livestock herding and local trade. The town has a mosque, a primary school, and a market. It is known for traditional healers using medicinal plants. Population is around 3,000. Water supply relies on wells. Frequent droughts impact livelihoods. The town serves as a rest stop for pastoralists moving between grazing areas.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 3.000", "Entfernung nach Abudwak: 60 km", "Anzahl der Brunnen: 3", "Hauptvieh: Kamel", "Traditionelle Heiler: aktiv", "Markt: täglich"],
+      hu: ["Lakosság: 3.000", "Távolság Abudwak-tól: 60 km", "Kutak száma: 3", "Fő állat: teve", "Gyógynövényes gyógyítók: 5", "Piac: napi"],
+      ro: ["Populație: 3.000", "Distanța până la Abudwak: 60 km", "Număr de fântâni: 3", "Animal principal: cămilă", "Vindecători tradiționali: 5", "Piață: zilnică"],
+      en: ["Population: approximately 3,000", "Distance to Abudwak: 60 km", "Number of wells: 3", "Primary livestock: camel", "Traditional healers: active", "Market: daily"],
+    },
+  },
   {
     id: "mahaday-cities-v2",
     type: "city",
     parent: "SO-SD",
     coords: [45.5251, 2.9723],
-    name: { de: "Mahaday", hu: "Mahadaay", ro: "Mahaday", en: "Mahaday",
-image: "/poi-images/mahaday-cities-v2.webp"
-},
+    name: { de: "Mahaday", hu: "Mahadaay", ro: "Mahaday", en: "Mahaday"},
+    image: "/poi-images/mahaday-cities-v2.webp",
     description: {
       de: "Geprägt durch den nahegelegenen Shabelle-Fluss ist diese Gemeinde für ihren intensiven Obst- und Gemüseanbau berühmt.",
       hu: "A közeli Shabelle folyó által fémjelzett község intenzív gyümölcs- és zöldségtermesztéséről híres.",
@@ -968,16 +1524,27 @@ image: "/poi-images/mahaday-cities-v2.webp"
       hu: ["Fekvése a Shabelle folyónál", "Nagy gyümölcsösök", "Egykori fegyvergyár"],
       ro: ["Locație pe râul Shabelle", "Livezi mari", "Fosta fabrică de arme"],
       en: ["Location on the Shabelle River", "Large orchards", "Former weapons factory"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Mahaday (auch Mahadaay) ist eine Stadt in der Region Middle Shabelle im Süden Somalias, am Fluss Shebelle gelegen. Die Stadt ist ein landwirtschaftliches Zentrum, in dem Zuckerrohr, Bananen und Gemüse angebaut werden. Mahaday hat eine Zuckerfabrik, die während der somalischen Staatszeit gebaut wurde, aber heute nur eingeschränkt arbeitet. Die Stadt verfügt über eine Grundschule, eine Moschee und einen Markt. Die Bevölkerung besteht hauptsächlich aus dem Hawiye-Clan. Die Bevölkerungszahl wird auf 15.000 geschätzt. Überschwemmungen während der Regenzeit sind häufig.",
+      hu: "Mahaday egy város Szomália déli részén, a Középső Shabelle régióban. A település a Shebelle folyó partján fekszik, ami öntözéses mezőgazdaságot tesz lehetővé. Fő termék a cukornád és a banán. A városban található egy cukorgyár, amely a szocialista korszakban épült. Mahaday fontos piaci központ a környékbeli farmerek számára. A lakosság becslések szerint 15.000 fő. A várost gyakran sújtják árvizek a folyó áradásakor.",
+      ro: "Mahaday este un oraș în regiunea Shabelle de Mijloc din sudul Somaliei, pe râul Shebelle. Agricultura produce trestie de zahăr, banane și legume. Orașul are o fabrică de zahăr construită în perioada socialistă, acum funcționând parțial. Populația este de aproximativ 15.000 de locuitori. Inundațiile sezoniere sunt comune. Mahaday are o școală primară, o moschee și o piață. Economia locală se bazează pe agricultură și comerț.",
+      en: "Mahaday is a town in the Middle Shabelle region of southern Somalia, located on the Shebelle River. It is an agricultural hub producing sugarcane, bananas, and vegetables. The town has a sugar factory built during the socialist era, now operating at reduced capacity. Population is around 15,000. Seasonal flooding from the river is common. Mahaday has a primary school, a mosque, and a market. The local economy relies on farming and trade.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 15.000", "Fluss: Shebelle", "Zuckerfabrik: Baujahr 1970er", "Hauptfrucht: Zuckerrohr", "Entfernung nach Mogadischu: 70 km", "Überschwemmungsrisiko: saisonal"],
+      hu: ["Lakosság: 15.000", "Folyó: Shebelle", "Cukorgyár építése: 1970-es évek", "Fő termény: cukornád", "Távolság Mogadishutól: 70 km", "Árvízi kockázat: szezonális"],
+      ro: ["Populație: 15.000", "Râu: Shebelle", "Fabrică de zahăr: construită în anii 1970", "Cultura principală: trestie de zahăr", "Distanța până la Mogadishu: 70 km", "Risc de inundații: sezonier"],
+      en: ["Population: approximately 15,000", "River: Shebelle", "Sugar factory: built in 1970s", "Primary crop: sugarcane", "Distance to Mogadishu: 70 km", "Flood risk: seasonal"],
+    },
   },
   {
     id: "adale-cities-v2",
     type: "city",
     parent: "SO-SD",
     coords: [46.3218, 2.7538],
-    name: { de: "Adale", hu: "Cadale", ro: "Adale", en: "Adale",
-image: "/poi-images/adale-cities-v2.webp"
-},
+    name: { de: "Adale", hu: "Cadale", ro: "Adale", en: "Adale"},
+    image: "/poi-images/adale-cities-v2.webp",
     description: {
       de: "Das historische Fischerdorf hat unberührte, goldene Strände, die als einige der schönsten an der zentralen Küste gelten.",
       hu: "A történelmi halászfaluban érintetlen aranyhomokos strandok találhatók, amelyeket a központi partvidék legszebbjeinek tartanak.",
@@ -988,15 +1555,27 @@ image: "/poi-images/adale-cities-v2.webp"
       hu: ["Történelmi tengeri kereskedelmi város", "Gyönyörű strandok", "Hagyományos hajóépítés"],
       ro: ["Oraș comercial maritim istoric", "Plaje frumoase", "Construcție tradițională de bărci"],
       en: ["Historic maritime trading town", "Beautiful beaches", "Traditional boat building"]
-    }, image: "/poi-images/adale-cities-v2.webp"},
+    }, image: "/poi-images/adale-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Adale (auch Adaleh) ist eine Küstenstadt in der Region Middle Shabelle im Süden Somalias, am Indischen Ozean. Die Stadt ist ein Fischerdorf und ein wichtiger Umschlagplatz für Fisch und Meeresfrüchte. Adale hat einen natürlichen Hafen, der von Dhau-Booten genutzt wird. Die Stadt verfügt über eine Moschee, eine Grundschule und eine Klinik. Die Wirtschaft wird von Fischerei und Kleinhandel dominiert. Die Bevölkerung wird auf 5.000 geschätzt. Adale war in der Vergangenheit von Piraterie betroffen, aber heute ist es relativ ruhig.",
+      hu: "Adale egy tengerparti város Szomália déli részén, a Középső Shabelle régióban. A település híres halászati hagyományairól. A kikötőben kis halászhajók állomásoznak. Adale gazdasága a halászatra és a tengeri kereskedelemre épül. A városban van mecset, iskola és egészségügyi központ. A lakosság becslések szerint 5.000 fő. A közelben lévő korallzátonyok gazdag tengeri élővilágnak adnak otthont. A turizmus fejletlen.",
+      ro: "Adale este un oraș de coastă în regiunea Shabelle de Mijloc din sudul Somaliei. Portul natural găzduiește o flotă de pescuit. Peștele și fructele de mare sunt principalele produse. Orașul are o moschee, o școală primară și o clinică. Populația este de aproximativ 5.000 de locuitori. Recifele de corali din apropiere sunt habitat pentru pești tropicali. Turismul este minim. Adale a fost uneori vizat de pirați, dar situația s-a îmbunătățit.",
+      en: "Adale is a coastal town in the Middle Shabelle region of southern Somalia, on the Indian Ocean. It is a fishing village with a natural port used by dhows. The economy relies on fishing and small trade. The town has a mosque, a primary school, and a health clinic. Population is around 5,000. Nearby coral reefs host diverse marine life. Tourism is underdeveloped. Adale has experienced occasional piracy, but security has improved.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 5.000", "Entfernung nach Mogadischu: 100 km", "Anzahl der Moscheen: 2", "Hauptfisch: Thunfisch", "Hafen: natürlich", "Korallenriffe: vorhanden"],
+      hu: ["Lakosság: 5.000", "Távolság Mogadishutól: 100 km", "Mecsetek száma: 2", "Fő halfaj: tonhal", "Kikötő: természetes", "Korallzátonyok: jelen"],
+      ro: ["Populație: 5.000", "Distanța până la Mogadishu: 100 km", "Număr de moschei: 2", "Pește principal: ton", "Port: natural", "Recife de corali: prezente"],
+      en: ["Population: approximately 5,000", "Distance to Mogadishu: 100 km", "Number of mosques: 2", "Main fish: tuna", "Port: natural", "Coral reefs: present"],
+    },
+  },
   {
     id: "wanlaweyn-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [44.8931, 2.6179],
-    name: { de: "Wanlaweyn", hu: "Wanlaweyn", ro: "Wanlaweyn", en: "Wanlaweyn",
-image: "/poi-images/wanlaweyn-cities-v2.webp"
-},
+    name: { de: "Wanlaweyn", hu: "Wanlaweyn", ro: "Wanlaweyn", en: "Wanlaweyn"},
+    image: "/poi-images/wanlaweyn-cities-v2.webp",
     description: {
       de: "Der Verkehrsknotenpunkt Wanlaweyn verbindet die südlichen landwirtschaftlichen Provinzen mit den großen Märkten in Mogadischu.",
       hu: "A Wanlaweyn közlekedési csomópont összeköti a déli mezőgazdasági tartományokat a nagy mogadishui piacokkal.",
@@ -1007,15 +1586,27 @@ image: "/poi-images/wanlaweyn-cities-v2.webp"
       hu: ["Fontos összekötő út", "Gabonakereskedelmi központ", "A Baledogle repülőtér közelében"],
       ro: ["Drum de legătură important", "Centrul comerțului cu cereale", "Aproape de aerodromul Baledogle"],
       en: ["Important connecting road", "Center for grain trade", "Near the Baledogle airfield"]
-    }, image: "/poi-images/wanlaweyn-cities-v2.webp"},
+    }, image: "/poi-images/wanlaweyn-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Wanlaweyn ist eine Stadt in der Region Lower Shabelle im Süden Somalias, etwa 90 Kilometer nordwestlich von Mogadischu. Sie liegt an der Hauptstraße, die Mogadischu mit Baidoa verbindet. Die Stadt ist ein landwirtschaftliches Zentrum, das Mais, Sesam und Bohnen produziert. Wanlaweyn hat eine Grundschule, eine weiterführende Schule und ein Krankenhaus. Die Bevölkerung wird auf 30.000 geschätzt. Während des Bürgerkriegs war Wanlaweyn Schauplatz heftiger Kämpfe und wechselte mehrfach den Besitzer. Die lokale Wirtschaft leidet unter Unsicherheit.",
+      hu: "Wanlaweyn egy város Szomália déli részén, az Alsó-Shabelle régióban. A település fontos mezőgazdasági központ, ahol kukoricát, szezámot és babot termesztenek. Wanlaweyn a Mogadishu-Baidoa útvonal mentén fekszik. A városban van kórház és középiskola. A lakosság becslések szerint 30.000 fő. A polgárháború alatt a város többször gazdát cserélt. A gazdaságot a bizonytalanság sújtja. A közelben találhatóak az etióp határ menti legelők.",
+      ro: "Wanlaweyn este un oraș în regiunea Shabelle de Jos din sudul Somaliei, la 90 km nord-vest de Mogadishu. Este un centru agricol care produce porumb, susan și fasole. Orașul are un spital, școli primare și o școală secundară. Populația este de aproximativ 30.000 de locuitori. În timpul războiului civil, Wanlaweyn a fost disputat între facțiuni. Economia este afectată de insecuritate. Drumul principal către Baidoa traversează orașul.",
+      en: "Wanlaweyn is a town in the Lower Shabelle region of southern Somalia, 90 km northwest of Mogadishu. It is an agricultural hub producing maize, sesame, and beans. The town has a hospital, secondary school, and several primary schools. Population is around 30,000. During the civil war, Wanlaweyn changed hands multiple times. The main road connecting Mogadishu to Baidoa runs through the town, facilitating trade. Insecurity remains a challenge for economic recovery.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 30.000", "Entfernung nach Mogadischu: 90 km", "Hauptfrucht: Mais", "Krankenhaus: 1", "Schulen: 3", "Straße: Mogadischu-Baidoa"],
+      hu: ["Lakosság: 30.000", "Távolság Mogadishutól: 90 km", "Fő termény: kukorica", "Kórház: 1", "Iskolák száma: 3", "Út: Mogadishu-Baidoa"],
+      ro: ["Populație: 30.000", "Distanța până la Mogadishu: 90 km", "Cultura principală: porumb", "Spital: 1", "Număr de școli: 3", "Drum: Mogadishu-Baidoa"],
+      en: ["Population: approximately 30,000", "Distance to Mogadishu: 90 km", "Primary crop: maize", "Hospital: 1", "Number of schools: 3", "Road: Mogadishu-Baidoa highway"],
+    },
+  },
   {
     id: "kurtunwarey-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [44.3016, 1.4883],
-    name: { de: "Kurtunwarey", hu: "Kurtunwarey", ro: "Kurtunwarey", en: "Kurtunwarey",
-image: "/poi-images/kurtunwarey-cities-v2.webp"
-},
+    name: { de: "Kurtunwarey", hu: "Kurtunwarey", ro: "Kurtunwarey", en: "Kurtunwarey"},
+    image: "/poi-images/kurtunwarey-cities-v2.webp",
     description: {
       de: "Dank gezielter Bewässerungsprojekte hat sich diese Siedlung zu einem kleinen, aber robusten Zentrum der Nahrungsmittelproduktion entwickelt.",
       hu: "A célzott öntözési projekteknek köszönhetően ez a település az élelmiszertermelés kicsi, de robusztus központjává fejlődött.",
@@ -1026,15 +1617,27 @@ image: "/poi-images/kurtunwarey-cities-v2.webp"
       hu: ["Áttelepítési központ", "Öntözéses mezőgazdaság", "Termékeny környezet"],
       ro: ["Centrul de relocare", "Agricultură irigată", "Împrejurimi fertile"],
       en: ["Center for resettlement", "Irrigated agriculture", "Fertile surroundings"]
-    }, image: "/poi-images/kurtunwarey-cities-v2.webp"},
+    }, image: "/poi-images/kurtunwarey-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kurtunwarey (auch Kurtun Warrey) ist eine Stadt in der Region Lower Shabelle im Süden Somalias. Sie liegt in einer flachen, landwirtschaftlich genutzten Ebene. Die Wirtschaft basiert auf Regenfeldbau, insbesondere Mais und Sorghum. Kurtunwarey hat eine Grundschule, eine Moschee und einen Markt. Die Bevölkerung besteht hauptsächlich aus dem Hawiye-Clan. Die Bevölkerungszahl wird auf 8.000 geschätzt. Die Stadt leidet unter periodischen Dürren und Überschwemmungen, die die Ernten beeinträchtigen. Die Sicherheitslage ist instabil, mit sporadischen Konflikten zwischen Milizen.",
+      hu: "Kurtunwarey egy város Szomália déli részén, az Alsó-Shabelle régióban. A település mezőgazdasági központ, ahol kukoricát és cirokot termesztenek. Kurtunwareyban van mecset, iskola és piac. A lakosság becslések szerint 8.000 fő. A gazdaságot a szárazság és az árvizek egyaránt sújtják. A város a Hawiye klánok által lakott területen fekszik. A biztonsági helyzet bizonytalan, időnként milíciák közötti összecsapások történnek.",
+      ro: "Kurtunwarey este un oraș în regiunea Shabelle de Jos din sudul Somaliei. Agricultura de ploaie produce porumb și sorg. Orașul are o moschee, o școală primară și o piață. Populația este de aproximativ 8.000 de locuitori. Secetele și inundațiile afectează recoltele. Climatul este semi-arid. Conflictul inter-clanic este ocazional. Infrastructura este slabă, cu drumuri de pământ.",
+      en: "Kurtunwarey is a town in the Lower Shabelle region of southern Somalia. Rain-fed agriculture produces maize and sorghum. The town has a mosque, a primary school, and a market. Population is around 8,000. Droughts and floods impact harvests. The climate is semi-arid. Inter-clan conflict occurs sporadically. Infrastructure is poor, with unpaved roads. Security remains volatile due to militia activity.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 8.000", "Entfernung nach Mogadischu: 120 km", "Hauptfrucht: Sorghum", "Anzahl der Moscheen: 1", "Schulen: 1", "Klima: semi-arid"],
+      hu: ["Lakosság: 8.000", "Távolság Mogadishutól: 120 km", "Fő termény: cirok", "Mecsetek száma: 1", "Iskolák száma: 1", "Éghajlat: félszáraz"],
+      ro: ["Populație: 8.000", "Distanța până la Mogadishu: 120 km", "Cultura principală: sorg", "Număr de moschei: 1", "Școli: 1", "Climă: semi-aridă"],
+      en: ["Population: approximately 8,000", "Distance to Mogadishu: 120 km", "Primary crop: sorghum", "Number of mosques: 1", "Schools: 1", "Climate: semi-arid"],
+    },
+  },
   {
     id: "sablale-cities-v2",
     type: "city",
     parent: "SO-SH",
     coords: [44.0253, 1.0101],
-    name: { de: "Sablaale", hu: "Sablaale", ro: "Sablaale", en: "Sablale",
-image: "/poi-images/sablale-cities-v2.webp"
-},
+    name: { de: "Sablaale", hu: "Sablaale", ro: "Sablaale", en: "Sablale"},
+    image: "/poi-images/sablale-cities-v2.webp",
     description: {
       de: "Ursprünglich als Umsiedlungslager für Nomaden gegründet, bietet die Stadt heute eine stabile agrarische Existenzgrundlage für viele Einwohner.",
       hu: "Eredetileg a nomádok áttelepítési táboraként alapították, ma a város sok lakos számára stabil mezőgazdasági megélhetést biztosít.",
@@ -1045,15 +1648,27 @@ image: "/poi-images/sablale-cities-v2.webp"
       hu: ["Történelmi aszály miatt áttelepült terület", "Földművelés és állattenyésztés", "Folyamatosan növekvő közösség"],
       ro: ["Zona istorică de relocare din cauza secetei", "Agricultură și creșterea animalelor", "Comunitate în continuă creștere"],
       en: ["Historic drought resettlement area", "Agriculture and livestock", "Steadily growing community"]
-    }, image: "/poi-images/sablale-cities-v2.webp"},
+    }, image: "/poi-images/sablale-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sablale (auch Sablale) ist eine Stadt in der Region Lower Shabelle im Süden Somalias, etwa 130 Kilometer südwestlich von Mogadischu. Die Stadt liegt in der Nähe des Flusses Shebelle und ist bekannt für ihre Bananenplantagen, die in der Vergangenheit ein wichtiges Exportprodukt waren. Sablale hat eine Moschee, eine Grundschule und eine Klinik. Während des Bürgerkriegs wurde die Stadt schwer beschädigt, aber in den letzten Jahren gab es Wiederaufbaubemühungen. Die Bevölkerung wird auf 10.000 geschätzt. Die Landwirtschaft ist der Haupterwerbszweig, aber die Bewässerungsinfrastruktur ist veraltet.",
+      hu: "Sablale egy város Szomália déli részén, az Alsó-Shabelle régióban. A település a Shebelle folyó közelében fekszik, és híres banánültetvényeiről. A banán exportja a szocialista időkben volt jelentős. A városban van mecset, iskola és egészségügyi központ. A polgárháborúban súlyos károkat szenvedett, de újjáépítés folyik. A lakosság becslések szerint 10.000 fő. A gazdaság a mezőgazdaságra épül, elsősorban banán és zöldségek termesztésére.",
+      ro: "Sablale este un oraș în regiunea Shabelle de Jos din sudul Somaliei, aproape de râul Shebelle. Cunoscut pentru plantațiile de banane, care au fost un produs de export major. Orașul are o moschee, o școală primară și o clinică. În timpul războiului civil, a fost grav avariat. Recuperarea este lentă. Populația este de aproximativ 10.000 de locuitori. Agricultura, în special bananele și legumele, este principala ocupație. Sistemele de irigații sunt vechi și necesită reparații.",
+      en: "Sablale is a town in the Lower Shabelle region of southern Somalia, near the Shebelle River. It is known for its banana plantations, which were a major export in the past. The town has a mosque, a primary school, and a clinic. Damaged during the civil war, recovery is ongoing. Population is around 10,000. Agriculture, mainly bananas and vegetables, drives the economy. Irrigation systems are outdated. The nearby river provides water for farming.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 10.000", "Entfernung nach Mogadischu: 130 km", "Hauptfrucht: Banane", "Fluss: Shebelle", "Anzahl der Moscheen: 2", "Klinik: 1"],
+      hu: ["Lakosság: 10.000", "Távolság Mogadishutól: 130 km", "Fő termény: banán", "Folyó: Shebelle", "Mecsetek száma: 2", "Egészségügyi központ: 1"],
+      ro: ["Populație: 10.000", "Distanța până la Mogadishu: 130 km", "Cultura principală: banane", "Râu: Shebelle", "Număr de moschei: 2", "Clinică: 1"],
+      en: ["Population: approximately 10,000", "Distance to Mogadishu: 130 km", "Primary crop: banana", "River: Shebelle", "Number of mosques: 2", "Health clinic: 1"],
+    },
+  },
   {
     id: "dinsoor-cities-v2",
     type: "city",
     parent: "SO-BY",
     coords: [42.9772, 2.4085],
-    name: { de: "Diinsoor", hu: "Dinsor", ro: "Dinsor", en: "Dinsoor",
-image: "/poi-images/dinsoor-cities-v2.webp"
-},
+    name: { de: "Diinsoor", hu: "Dinsor", ro: "Dinsor", en: "Dinsoor"},
+    image: "/poi-images/dinsoor-cities-v2.webp",
     description: {
       de: "Umgeben von weiten Sorghum-Feldern spielt Dinsoor eine Schlüsselrolle bei der Nahrungsmittelsicherung im Süden des Landes.",
       hu: "A hatalmas cirokmezőkkel körülvett Dinsoor kulcsszerepet játszik az ország déli részének élelmezésbiztonságában.",
@@ -1064,15 +1679,27 @@ image: "/poi-images/dinsoor-cities-v2.webp"
       hu: ["Jelentős ciroktermelés", "Fontos belső piac", "Elhelyezkedés a Bay régióban"],
       ro: ["Producție semnificativă de sorg", "Piață internă importantă", "Locație în regiunea Bay"],
       en: ["Significant sorghum production", "Important inland market", "Location in the Bay region"]
-    }, image: "/poi-images/dinsoor-cities-v2.webp"},
+    }, image: "/poi-images/dinsoor-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dinsoor (auch Dinsor) ist eine Stadt in der Region Bay im Süden Somalias, etwa 200 Kilometer westlich von Mogadischu. Sie liegt auf einem Plateau und ist ein wichtiges landwirtschaftliches Zentrum für Mais, Sorghum und Sesam. Dinsoor hat eine Grundschule, eine weiterführende Schule und ein Krankenhaus. Die Stadt war während des Bürgerkriegs umkämpft zwischen verschiedenen Clans und der Übergangsregierung. Die Bevölkerung wird auf 30.000 geschätzt. Die Stadt hat einen regelmäßigen Markt, der Vieh und landwirtschaftliche Produkte umschlägt.",
+      hu: "Dinsoor egy város Szomália déli részén, a Bay régióban. A település a termékeny fennsíkon fekszik, ahol kukoricát, cirokot és szezámot termesztenek. Dinsoor fontos piaci központ. A városban van kórház és középiskola. A polgárháború alatt súlyos harcok folytak itt. A lakosság becslések szerint 30.000 fő. A város a Rahanweyn klánok által lakott területen található. A gazdaságot a mezőgazdaság és az állatkereskedelem jellemzi.",
+      ro: "Dinsoor este un oraș în regiunea Bay din sudul Somaliei, pe un platou fertil. Agricultura produce porumb, sorg și susan. Orașul are un spital, școli primare și o școală secundară. Populația este estimată la 30.000 de locuitori. A fost scena luptelor intense în timpul războiului civil. Este un centru comercial pentru animale și produse agricole. Clima este semi-aridă. Orașul este deservit de drumuri de pământ.",
+      en: "Dinsoor is a town in the Bay region of southern Somalia, situated on a fertile plateau. Agriculture produces maize, sorghum, and sesame. The town has a hospital, secondary school, and primary schools. Population is around 30,000. It was heavily contested during the civil war. Dinsoor is a trading center for livestock and farm produce. The climate is semi-arid. Access is via unpaved roads. The local economy depends on rain-fed agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 30.000", "Entfernung nach Mogadischu: 200 km", "Hauptfrucht: Mais", "Krankenhaus: 1", "Schulen: 3", "Höhenlage: Plateau"],
+      hu: ["Lakosság: 30.000", "Távolság Mogadishutól: 200 km", "Fő termény: kukorica", "Kórház: 1", "Iskolák száma: 3", "Tengerszint feletti magasság: fennsík"],
+      ro: ["Populație: 30.000", "Distanța până la Mogadishu: 200 km", "Cultura principală: porumb", "Spital: 1", "Număr de școli: 3", "Altitudine: platou"],
+      en: ["Population: approximately 30,000", "Distance to Mogadishu: 200 km", "Primary crop: maize", "Hospital: 1", "Number of schools: 3", "Elevation: plateau"],
+    },
+  },
   {
     id: "qansahdhere-cities-v2",
     type: "city",
     parent: "SO-BY",
     coords: [43.1678, 2.8711],
-    name: { de: "Qansaxdheere", hu: "Qansahdhere", ro: "Qansahdhere", en: "Qansahdhere",
-image: "/poi-images/qansahdhere-cities-v2.webp"
-},
+    name: { de: "Qansaxdheere", hu: "Qansahdhere", ro: "Qansahdhere", en: "Qansahdhere"},
+    image: "/poi-images/qansahdhere-cities-v2.webp",
     description: {
       de: "Dieses Handelszentrum verbindet mehrere Nomadenpfade und bietet den lokalen Bauernmärkten eine wichtige Plattform.",
       hu: "Ez a kereskedelmi központ több nomád utat is összeköt, és fontos platformot biztosít a helyi termelői piacok számára.",
@@ -1083,15 +1710,27 @@ image: "/poi-images/qansahdhere-cities-v2.webp"
       hu: ["Qansahdhere kerület központja", "Jelentős állatkereskedelem", "Hagyományos mezőgazdaság"],
       ro: ["Centrul districtului Qansahdhere", "Comerț semnificativ de animale", "Agricultură tradițională"],
       en: ["Center in the Qansahdhere district", "Significant livestock trade", "Traditional agriculture"]
-    }, image: "/poi-images/qansahdhere-cities-v2.webp"},
+    }, image: "/poi-images/qansahdhere-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Qansahdhere (auch Qansax Dheere) ist eine Stadt in der Region Bay im Süden Somalias, etwa 50 Kilometer südwestlich von Baidoa. Die Stadt liegt in einer hügeligen Landschaft und ist ein Zentrum für die Viehzucht, insbesondere Rinder. Qansahdhere hat eine Grundschule, eine Moschee und einen Markt. Die Bevölkerung besteht hauptsächlich aus dem Rahanweyn-Clan. Die Bevölkerungszahl wird auf 12.000 geschätzt. Die Region leidet unter Dürre und Konflikten um Wasser- und Weiderechte. Die Stadt ist durch eine unbefestigte Straße mit Baidoa verbunden.",
+      hu: "Qansahdhere egy város Szomália déli részén, a Bay régióban. A település a dombos vidéken fekszik, és a szarvasmarha-tenyésztés központja. Qansahdhereban van mecset, iskola és piac. A lakosság becslések szerint 12.000 fő. A régiót aszályok és vízjogok miatti konfliktusok sújtják. A város a Rahanweyn klánhoz tartozik. A közúti kapcsolat Baidoával rossz minőségű.",
+      ro: "Qansahdhere este un oraș în regiunea Bay din sudul Somaliei, într-o zonă deluroasă. Creșterea bovinelor este principala activitate economică. Orașul are o moschee, o școală primară și o piață. Populația este de aproximativ 12.000 de locuitori. Seceta și conflictele pentru apă și pășuni sunt frecvente. Drumul către Baidoa este nepavat. Clima este semi-aridă.",
+      en: "Qansahdhere is a town in the Bay region of southern Somalia, in a hilly area. Cattle herding is the main economic activity. The town has a mosque, a primary school, and a market. Population is around 12,000. Drought and conflicts over water and grazing are common. The road to Baidoa is unpaved. The climate is semi-arid. The Rahanweyn clan is predominant. Livestock trade with Baidoa drives the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 12.000", "Entfernung nach Baidoa: 50 km", "Hauptvieh: Rinder", "Anzahl der Moscheen: 2", "Schulen: 1", "Landschaft: hügelig"],
+      hu: ["Lakosság: 12.000", "Távolság Baidoától: 50 km", "Fő állatfaj: szarvasmarha", "Mecsetek száma: 2", "Iskolák száma: 1", "Táj: dombos"],
+      ro: ["Populație: 12.000", "Distanța până la Baidoa: 50 km", "Animal principal: bovine", "Număr de moschei: 2", "Școli: 1", "Peisaj: deluros"],
+      en: ["Population: approximately 12,000", "Distance to Baidoa: 50 km", "Primary livestock: cattle", "Number of mosques: 2", "Schools: 1", "Landscape: hilly"],
+    },
+  },
   {
     id: "burhakaba-cities-v2",
     type: "city",
     parent: "SO-BY",
     coords: [44.0792, 2.7967],
-    name: { de: "Buurhakaba", hu: "Burhakaba", ro: "Burhakaba", en: "Burhakaba",
-image: "/poi-images/burhakaba-cities-v2.webp"
-},
+    name: { de: "Buurhakaba", hu: "Burhakaba", ro: "Burhakaba", en: "Burhakaba"},
+    image: "/poi-images/burhakaba-cities-v2.webp",
     description: {
       de: "Ein isolierter Granitberg überragt die Stadt und dient seit Jahrhunderten als natürliches Wahrzeichen und Orientierungspunkt.",
       hu: "Egy elszigetelt gránithegy tornyosul a város fölé, és évszázadok óta természetes tájékozódási pontként szolgál.",
@@ -1102,15 +1741,27 @@ image: "/poi-images/burhakaba-cities-v2.webp"
       hu: ["A hatalmas hegyről kapta a nevét", "A Baidoa felé vezető úton", "Gazdag gránitkészlet"],
       ro: ["Numit după muntele masiv", "Pe ruta către Baidoa", "Resurse bogate de granit"],
       en: ["Named after the massive mountain", "On the route to Baidoa", "Rich granite deposits"]
-    }, image: "/poi-images/burhakaba-cities-v2.webp"},
+    }, image: "/poi-images/burhakaba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Burhakaba (auch Bur Hakaba) ist eine Stadt in der Region Bay im Süden Somalias, etwa 120 Kilometer südwestlich von Mogadischu. Sie liegt auf einem Hügel und ist bekannt für ihre strategische Lage während des Bürgerkriegs. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht. Burhakaba hat eine Grundschule, eine Moschee und einen Markt. Die Bevölkerung wird auf 20.000 geschätzt. Die Stadt hat eine gemischte Bevölkerungsstruktur aus Hawiye und Rahanweyn. Die Sicherheitslage war in der Vergangenheit instabil.",
+      hu: "Burhakaba egy város Szomália déli részén, a Bay régióban. A település egy dombon fekszik, és stratégiai fontosságú volt a polgárháborúban. A gazdaság a mezőgazdaságon és az állattenyésztésen alapul. Burhakabában van mecset, iskola és piac. A lakosság becslések szerint 20.000 fő. A városban vegyes klánösszetétel található. A biztonsági helyzet javult az utóbbi években, de továbbra is kihívásokkal teli.",
+      ro: "Burhakaba este un oraș în regiunea Bay din sudul Somaliei, situat pe un deal. A avut importanță strategică în războiul civil. Economia se bazează pe agricultură și creșterea animalelor. Orașul are o moschee, o școală primară și o piață. Populația este de aproximativ 20.000 de locuitori. Compoziția etnică este mixtă: Hawiye și Rahanweyn. Securitatea s-a îmbunătățit, dar rămâne fragilă.",
+      en: "Burhakaba is a town in the Bay region of southern Somalia, situated on a hill. It was strategically important during the civil war. The economy is based on agriculture and livestock. The town has a mosque, a primary school, and a market. Population is around 20,000. The clan composition is mixed: Hawiye and Rahanweyn. Security has improved but remains fragile. The surrounding area is used for rain-fed farming.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 20.000", "Entfernung nach Mogadischu: 120 km", "Hügellage: ja", "Anzahl der Moscheen: 3", "Schulen: 2", "Hauptfrucht: Mais"],
+      hu: ["Lakosság: 20.000", "Távolság Mogadishutól: 120 km", "Dombos elhelyezkedés: igen", "Mecsetek száma: 3", "Iskolák száma: 2", "Fő termény: kukorica"],
+      ro: ["Populație: 20.000", "Distanța până la Mogadishu: 120 km", "Amplasare pe deal: da", "Număr de moschei: 3", "Școli: 2", "Cultura principală: porumb"],
+      en: ["Population: approximately 20,000", "Distance to Mogadishu: 120 km", "Hilltop location: yes", "Number of mosques: 3", "Schools: 2", "Primary crop: maize"],
+    },
+  },
   {
     id: "tiyeglow-cities-v2",
     type: "city",
     parent: "SO-BK",
     coords: [44.4988, 4.0326],
-    name: { de: "Tiyeglow", hu: "Tiyeglow", ro: "Tiyeglow", en: "Tiyeglow",
-image: "/poi-images/tiyeglow-cities-v2.webp"
-},
+    name: { de: "Tiyeglow", hu: "Tiyeglow", ro: "Tiyeglow", en: "Tiyeglow"},
+    image: "/poi-images/tiyeglow-cities-v2.webp",
     description: {
       de: "Nahe der äthiopischen Grenze gelegen, hat sich diese Siedlung zu einem unersetzlichen Zwischenstopp für Fernreisende entwickelt.",
       hu: "Az etióp határ közelében található település a távolsági utazók pótolhatatlan megállóhelyévé vált.",
@@ -1121,16 +1772,27 @@ image: "/poi-images/tiyeglow-cities-v2.webp"
       hu: ["Határváros élénk kereskedelemmel", "A helyi tanácsok székhelye", "Száraz szavannai éghajlat"],
       ro: ["Oraș de frontieră cu comerț activ", "Sediul consiliilor locale", "Climat uscat de savană"],
       en: ["Border town with active trade", "Seat of local councils", "Dry savanna climate"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Tiyeglow (auch Tiyeeglow) ist eine Stadt in der Region Bakool im Süden Somalias, nahe der Grenze zu Äthiopien. Die Stadt liegt in einer trockenen Savanne und ist ein Zentrum für die Viehzucht, insbesondere Kamele und Ziegen. Tiyeglow hat eine Grundschule, eine Moschee und eine Klinik. Die Bevölkerung wird auf 8.000 geschätzt. Die Region leidet unter Dürre und Ernährungsunsicherheit. Der grenzüberschreitende Handel mit Äthiopien ist wichtig für die lokale Wirtschaft. Die Sicherheitslage ist aufgrund der Präsenz von Milizen angespannt.",
+      hu: "Tiyeglow egy város Szomália déli részén, a Bakool régióban, az etióp határ közelében. A település a nomád pásztorkodás központja. Tiyeglowban van mecset, iskola és egészségügyi központ. A lakosság becslések szerint 8.000 fő. A régiót aszályok sújtják, és élelmiszerhiány jellemzi. A határon átnyúló kereskedelem fontos. A biztonsági helyzet bizonytalan a milíciák jelenléte miatt.",
+      ro: "Tiyeglow este un oraș în regiunea Bakool din sudul Somaliei, aproape de granița cu Etiopia. Creșterea animalelor, în special cămile și capre, este principala ocupație. Orașul are o moschee, o școală primară și o clinică. Populația este de aproximativ 8.000 de locuitori. Seceta și insecuritatea alimentară sunt probleme majore. Comerțul transfrontalier cu Etiopia este vital. Prezența milițiilor face ca securitatea să fie fragilă.",
+      en: "Tiyeglow is a town in the Bakool region of southern Somalia, near the Ethiopian border. Livestock herding of camels and goats is the main activity. The town has a mosque, a primary school, and a health clinic. Population is around 8,000. Drought and food insecurity are major challenges. Cross-border trade with Ethiopia is vital for the economy. Security is fragile due to militia presence. The area is arid with sparse vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 8.000", "Entfernung zur äthiopischen Grenze: 20 km", "Hauptvieh: Kamel", "Anzahl der Moscheen: 1", "Klinik: 1", "Klima: arid"],
+      hu: ["Lakosság: 8.000", "Távolság az etióp határtól: 20 km", "Fő állatfaj: teve", "Mecsetek száma: 1", "Egészségügyi központ: 1", "Éghajlat: száraz"],
+      ro: ["Populație: 8.000", "Distanța până la granița cu Etiopia: 20 km", "Animal principal: cămilă", "Număr de moschei: 1", "Clinică: 1", "Climă: aridă"],
+      en: ["Population: approximately 8,000", "Distance to Ethiopian border: 20 km", "Primary livestock: camel", "Number of mosques: 1", "Health clinic: 1", "Climate: arid"],
+    },
   },
   {
     id: "el-barde-cities-v2",
     type: "city",
     parent: "SO-BK",
     coords: [43.2384, 4.6854],
-    name: { de: "Ceelbarde", hu: "El Barde", ro: "El Barde", en: "El Barde",
-image: "/poi-images/el-barde-cities-v2.webp"
-},
+    name: { de: "Ceelbarde", hu: "El Barde", ro: "El Barde", en: "El Barde"},
+    image: "/poi-images/el-barde-cities-v2.webp",
     description: {
       de: "Trotz der semi-ariden Bedingungen ist El Barde stolz auf seine tiefen Brunnen, die Mensch und Tier mit wertvollem Wasser versorgen.",
       hu: "A félszáraz körülmények ellenére El Barde büszke mély kútjaira, amelyek értékes vízzel látják el az embereket és az állatokat.",
@@ -1141,15 +1803,27 @@ image: "/poi-images/el-barde-cities-v2.webp"
       hu: ["A mély kútjairól ismert", "Fontos legelőterület", "Az Ogaden régió közelében"],
       ro: ["Cunoscut pentru puțurile adânci", "Zonă importantă de pășunat", "Aproape de regiunea Ogaden"],
       en: ["Known for deep wells", "Important grazing area", "Close to the Ogaden region"]
-    }, image: "/poi-images/el-barde-cities-v2.webp"},
+    }, image: "/poi-images/el-barde-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Barde ist eine Stadt in der Region Bakool im Südwesten Somalias, nahe der Grenze zu Äthiopien. Die Siedlung liegt auf einer Höhe von etwa 320 Metern über dem Meeresspiegel und dient als lokales Handelszentrum für die umliegenden ländlichen Gebiete. Wirtschaftlich geprägt ist die Region vor allem durch Viehzucht und kleinbäuerliche Landwirtschaft, insbesondere den Anbau von Sorghum und Mais. Aufgrund der Nähe zur Grenze hat El Barde historisch eine Rolle als Umschlagplatz für Waren zwischen Somalia und Äthiopien gespielt. Die Bevölkerungszahl wird auf rund 10.000 geschätzt, wobei die Mehrheit dem Somali-Clan der Rahanweyn angehört. Die Infrastruktur ist begrenzt; es gibt eine Grundschule, eine Gesundheitsstation und einen Markt. Der Ort war in der Vergangenheit von Dürren und Konflikten betroffen, was zu temporären Flüchtlingsbewegungen führte. Nennenswerte Bauwerke oder Denkmäler sind nicht vorhanden.",
+      hu: "El Barde város Szomália délnyugati részén, Bakool régióban található, közel az etióp határhoz. A település a régió egyik fontos helyi piacközpontja, ahol elsősorban állatokat és mezőgazdasági termékeket kereskednek. A város lakossága becslések szerint 10 000 fő körül mozog, akik többségében a Rahanweyn klánhoz tartoznak. A térség gazdaságát a legeltetéses állattenyésztés és a kisparaszti gazdálkodás jellemzi, fő termények a cirok és a kukorica. El Barde történelme során többször volt határ menti konfliktusok színtere, ami befolyásolta a fejlődését. Az infrastruktúra fejletlen, nincs kiépített villamoshálózat, és az ivóvízellátás is korlátozott. Az iskolai és egészségügyi szolgáltatások minimálisak. A városban nincsenek ipari létesítmények, a megélhetés szinte kizárólag a mezőgazdaságtól függ.",
+      ro: "El Barde este un oraș din regiunea Bakool, sud-vestul Somaliei, aproape de granița cu Etiopia. Așezat la aproximativ 320 de metri altitudine, localitatea funcționează ca un centru comercial local pentru zonele rurale înconjurătoare. Economia se bazează pe creșterea animalelor și agricultura de subzistență, cu culturi precum sorgul și porumbul. Populația estimată este de circa 10.000 de locuitori, majoritatea aparținând clanului somalez Rahanweyn. Din punct de vedere istoric, El Barde a fost un punct de tranzit pentru bunuri între Somalia și Etiopia. Infrastructura este limitată: există o școală primară, o clinică și o piață. Orașul a suferit din cauza secetelor repetate și a conflictelor armate, ceea ce a dus la deplasări temporare de populație. Nu există clădiri istorice sau monumente notabile. Accesul rutier este dificil, mai ales în sezonul ploios.",
+      en: "El Barde is a town in the Bakool region of southwestern Somalia, near the Ethiopian border. Situated at an elevation of approximately 320 meters, it serves as a local trade center for livestock and agricultural products such as sorghum and maize. The population is estimated at around 10,000, predominantly from the Rahanweyn clan. Historically, El Barde has been a transit point for cross-border trade with Ethiopia, but its development has been hindered by recurrent droughts and conflicts. The town has basic infrastructure: a primary school, a health post, and a market. There is no electricity grid or piped water system; residents rely on wells and generators. Livestock herding and subsistence farming are the main economic activities. The lack of industry and limited access to education and healthcare present significant challenges. El Barde's remote location and harsh climate contribute to its low profile on the national stage.",
+    },
+    factsAdvanced: {
+      de: ["El Barde liegt auf einer Höhe von 320 Metern über dem Meeresspiegel.", "Die geschätzte Einwohnerzahl beträgt etwa 10.000.", "Der Ort befindet sich in der Region Bakool, die eine Fläche von rund 26.000 km² umfasst.", "Die durchschnittliche jährliche Niederschlagsmenge in der Region beträgt weniger als 300 mm.", "Die nächstgelegene größere Stadt ist Baidoa, etwa 150 km östlich.", "Die Region Bakool ist in sechs Distrikte unterteilt, darunter El Barde."],
+      hu: ["El Barde város Szomália délnyugati részén, Bakool régióban található.", "A település az etióp határtól körülbelül 30 km-re fekszik.", "A lakosság túlnyomó többsége a Rahanweyn klánhoz tartozik.", "A városban nincs kiépített villamosenergia-hálózat.", "A legközelebbi kórház Baidoában található, 150 km-re.", "A régióban a cirok az egyik legfontosabb élelmiszernövény."],
+      ro: ["El Barde este situat la 320 m altitudine.", "Populația estimată este de 10.000 de locuitori.", "Orașul se află la 30 km de granița cu Etiopia.", "Regiunea Bakool are o suprafață de 26.000 km².", "Precipitațiile anuale medii sunt sub 300 mm.", "Cea mai apropiată stație de autobuz este în Baidoa, la 150 km."],
+      en: ["El Barde is located at an elevation of 320 meters above sea level.", "The town has an estimated population of 10,000.", "It lies approximately 30 km from the Ethiopian border.", "The Bakool region covers an area of about 26,000 km².", "Average annual rainfall is less than 300 mm.", "The nearest major city is Baidoa, 150 km to the east."],
+    },
+  },
   {
     id: "dolow-cities-v2",
     type: "city",
     parent: "SO-GE",
     coords: [42.0683, 4.1681],
-    name: { de: "Dolow", hu: "Dolow", ro: "Dolow", en: "Dolow",
-image: "/poi-images/dolow-cities-v2.webp"
-},
+    name: { de: "Dolow", hu: "Dolow", ro: "Dolow", en: "Dolow"},
+    image: "/poi-images/dolow-cities-v2.webp",
     description: {
       de: "Dolow markiert genau den Punkt, an dem die Flüsse Dawa und Ganale Dorya zusammenfließen, um den Jubba-Fluss zu bilden.",
       hu: "Dolow pontosan azt a pontot jelöli, ahol a Dawa és Ganale Dorya folyók összefolynak és létrehozzák a Jubba folyót.",
@@ -1160,7 +1834,19 @@ image: "/poi-images/dolow-cities-v2.webp"
       hu: ["Határváros Etiópiával", "A Jubba folyó eredete", "Élénk határkereskedelem"],
       ro: ["Oraș de graniță cu Etiopia", "Originea râului Jubba", "Comerț activ la frontieră"],
       en: ["Border town with Ethiopia", "Origin of the Jubba River", "Lively border trade"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Dolow ist eine Stadt in der Region Gedo im Südwesten Somalias, unmittelbar an der Grenze zu Äthiopien am Fluss Juba gelegen. Die Stadt ist ein wichtiger Grenzübergang und Handelsplatz, insbesondere für Vieh und landwirtschaftliche Produkte. Dolow hat eine geschätzte Bevölkerung von etwa 15.000 Menschen, die mehrheitlich dem Somali-Clan der Marehan angehören. Die Wirtschaft basiert auf Landwirtschaft entlang des Juba, wo Mais, Sesam und Bohnen angebaut werden, sowie auf Viehzucht und grenzüberschreitendem Handel. Aufgrund der strategischen Lage war Dolow in der Vergangenheit Schauplatz von Konflikten und Flüchtlingsbewegungen; in der Umgebung befinden sich Flüchtlingslager. Die Infrastruktur ist einfach: Es gibt eine Gesundheitsstation, mehrere Schulen und einen Markt. Der Fluss Juba liefert Wasser für Bewässerung und den täglichen Bedarf. Nennenswerte historische Bauwerke gibt es nicht.",
+      hu: "Dolow város Szomália Gedo régiójában, a Juba folyó partján, közvetlenül az etióp határ mellett fekszik. Jelentős határátkelőhely és kereskedelmi központ, ahol főként állatokat, mezőgazdasági termékeket és fogyasztási cikkeket forgalmaznak. A város lakossága körülbelül 15 000 fő, akik többségében a Marehan klánhoz tartoznak. A gazdaság a Juba folyó menti öntözéses mezőgazdaságra épül: kukorica, szezám és bab termesztése folyik. Emellett az állattenyésztés és a határon átnyúló kereskedelem is fontos. Dolow a szomáliai konfliktusok során számos menekültet fogadott, és ma is vannak a közelben menekülttáborok. Az infrastruktúra fejletlen; bár van néhány iskola és egészségügyi létesítmény, a közszolgáltatások korlátozottak. A városban nincs ipar, a megélhetés a mezőgazdaságtól és a kereskedelemtől függ.",
+      ro: "Dolow este un oraș în regiunea Gedo din sud-vestul Somaliei, situat pe malul râului Juba, la granița cu Etiopia. Este un important punct de trecere a frontierei și centru comercial, în special pentru animale și produse agricole. Populația estimată este de aproximativ 15.000 de locuitori, predominant din clanul Marehan. Economia se bazează pe agricultura irigată de-a lungul râului Juba, cu culturi de porumb, susan și fasole, precum și pe creșterea animalelor și comerțul transfrontalier. Dolow a fost afectat de conflicte și a găzduit tabere de refugiați. Infrastructura include o clinică, câteva școli și o piață. Râul Juba este vital pentru irigații și apă potabilă. Nu există monumente istorice notabile. Accesul rutier este dificil, mai ales în sezonul ploios.",
+      en: "Dolow is a town in the Gedo region of southwestern Somalia, situated on the Juba River right at the Ethiopian border. It serves as a major border crossing and trade hub, handling livestock, agricultural produce, and consumer goods. The population is estimated at 15,000, mostly from the Marehan clan. The economy relies on irrigated farming along the Juba (maize, sesame, beans), livestock herding, and cross-border commerce. Dolow has been a focal point for humanitarian aid due to recurring droughts and conflicts; refugee camps are located nearby. Infrastructure is basic: there are a few schools, a health clinic, and a market. The town lacks electricity grid and piped water; generators and river water are used. No significant historical or architectural landmarks exist. Dolow's strategic location makes it a key transit point, but development is hindered by insecurity and limited resources.",
+    },
+    factsAdvanced: {
+      de: ["Dolow liegt am Fluss Juba in der Region Gedo.", "Die geschätzte Einwohnerzahl beträgt 15.000.", "Der Ort ist ein wichtiger Grenzübergang nach Äthiopien.", "Die Region Gedo hat eine Fläche von etwa 60.000 km².", "Die durchschnittliche Jahrestemperatur liegt bei 28 °C.", "Der Juba River ist etwa 1.650 km lang."],
+      hu: ["Dolow a Juba folyó partján fekszik, 180 m tengerszint feletti magasságban.", "A város az etióp határtól mindössze 1 km-re található.", "A lakosság mintegy 80%-a a Marehan klánhoz tartozik.", "A Juba folyó vízhozama a száraz évszakban jelentősen csökken.", "Dolowban évente átlagosan 400 mm csapadék hullik.", "A legközelebbi repülőtér Barderában van, 100 km-re."],
+      ro: ["Dolow este situat pe râul Juba, la 180 m altitudine.", "Populația orașului este de aproximativ 15.000 de locuitori.", "Se află la doar 1 km de granița etiopiană.", "Suprafața regiunii Gedo este de circa 60.000 km².", "Temperatura medie anuală este de 28 °C.", "Râul Juba are o lungime totală de 1.650 km."],
+      en: ["Dolow is located on the Juba River at an elevation of 180 meters.", "The town has an estimated population of 15,000.", "It lies less than 1 km from the Ethiopian border.", "The Gedo region covers an area of approximately 60,000 km².", "Average annual temperature is 28 °C.", "The Juba River is 1,650 km long."],
+    },
   }
 ];
 

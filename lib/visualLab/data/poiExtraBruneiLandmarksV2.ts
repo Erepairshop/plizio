@@ -6,9 +6,8 @@ export const poiExtraBruneiLandmarksV2: POI[] = [
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9388, 4.8856],
-    name: { de: "Taman Mahkota Jubli Emas", hu: "Taman Mahkota Jubli Emas", ro: "Taman Mahkota Jubli Emas", en: "Taman Mahkota Jubli Emas",
-image: "/poi-images/taman-mahkota-jubli-emas-landmarks-v2.webp"
-},
+    name: { de: "Taman Mahkota Jubli Emas", hu: "Taman Mahkota Jubli Emas", ro: "Taman Mahkota Jubli Emas", en: "Taman Mahkota Jubli Emas"},
+    image: "/poi-images/taman-mahkota-jubli-emas-landmarks-v2.webp",
     description: {
       de: "Ein wunderschöner Uferpark in der Hauptstadt, der zum goldenen Thronjubiläum des Sultans eröffnet wurde.",
       hu: "A főváros gyönyörű vízparti parkja, amelyet a szultán aranyjubileumára nyitottak meg.",
@@ -38,9 +37,8 @@ image: "/poi-images/taman-mahkota-jubli-emas-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9422, 4.8988],
-    name: { de: "Tasek Lama Erholungspark", hu: "Tasek Lama Szabadidőpark", ro: "Parcul de Recreere Tasek Lama", en: "Tasek Lama Recreational Park",
-image: "/poi-images/tasek-lama-recreational-park-landmarks-v2.webp"
-},
+    name: { de: "Tasek Lama Erholungspark", hu: "Tasek Lama Szabadidőpark", ro: "Parcul de Recreere Tasek Lama", en: "Tasek Lama Recreational Park"},
+    image: "/poi-images/tasek-lama-recreational-park-landmarks-v2.webp",
     description: {
       de: "Eine grüne Oase mitten in Bandar Seri Begawan mit einem malerischen Wasserfall und beliebten Wanderwegen.",
       hu: "Zöld oázis Bandar Seri Begawan szívében, festői vízeséssel és népszerű túraútvonalakkal.",
@@ -70,9 +68,8 @@ image: "/poi-images/tasek-lama-recreational-park-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [115.0186, 4.8964],
-    name: { de: "Sultan Haji Omar Ali Saifuddien Brücke", hu: "Sultan Haji Omar Ali Saifuddien Híd", ro: "Podul Sultan Haji Omar Ali Saifuddien", en: "Sultan Haji Omar Ali Saifuddien Bridge",
-image: "/poi-images/sultan-haji-omar-ali-saifuddien-bridge-landmarks-v2.webp"
-},
+    name: { de: "Sultan Haji Omar Ali Saifuddien Brücke", hu: "Sultan Haji Omar Ali Saifuddien Híd", ro: "Podul Sultan Haji Omar Ali Saifuddien", en: "Sultan Haji Omar Ali Saifuddien Bridge"},
+    image: "/poi-images/sultan-haji-omar-ali-saifuddien-bridge-landmarks-v2.webp",
     description: {
       de: "Eine monumentale Überseebrücke, die den Temburong-Distrikt direkt mit dem Rest von Brunei verbindet.",
       hu: "Egy monumentális tengeri híd, amely a Temburong körzetet közvetlenül összeköti Brunei többi részével.",
@@ -102,9 +99,8 @@ image: "/poi-images/sultan-haji-omar-ali-saifuddien-bridge-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9458, 4.8778],
-    name: { de: "Raja Isteri Pengiran Anak Hajah Saleha Brücke", hu: "Raja Isteri Pengiran Anak Hajah Saleha Híd", ro: "Podul Raja Isteri Pengiran Anak Hajah Saleha", en: "Raja Isteri Pengiran Anak Hajah Saleha Bridge",
-image: "/poi-images/raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2.webp"
-},
+    name: { de: "Raja Isteri Pengiran Anak Hajah Saleha Brücke", hu: "Raja Isteri Pengiran Anak Hajah Saleha Híd", ro: "Podul Raja Isteri Pengiran Anak Hajah Saleha", en: "Raja Isteri Pengiran Anak Hajah Saleha Bridge"},
+    image: "/poi-images/raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2.webp",
     description: {
       de: "Eine markante Schrägseilbrücke über den Brunei-Fluss, deren Pylon mit einer islamischen Kuppel gekrönt ist.",
       hu: "Látványos ferdekábeles híd a Brunei-folyó felett, melynek pilonját iszlám kupola díszíti.",
@@ -134,9 +130,8 @@ image: "/poi-images/raja-isteri-pengiran-anak-hajah-saleha-bridge-landmarks-v2.w
     type: "landmark",
     parent: "BN-BM",
     coords: [114.8361, 4.9389],
-    name: { de: "Jerudong Park", hu: "Jerudong Park", ro: "Parcul Jerudong", en: "Jerudong Park",
-image: "/poi-images/jerudong-park-landmarks-v2.webp"
-},
+    name: { de: "Jerudong Park", hu: "Jerudong Park", ro: "Parcul Jerudong", en: "Jerudong Park"},
+    image: "/poi-images/jerudong-park-landmarks-v2.webp",
     description: {
       de: "Der größte und teuerste Vergnügungspark in Südostasien, der in den 1990er Jahren für die Öffentlichkeit gebaut wurde.",
       hu: "Délkelet-Ázsia legnagyobb és legdrágább vidámparkja, amelyet az 1990-es években építettek a nagyközönség számára.",
@@ -166,9 +161,8 @@ image: "/poi-images/jerudong-park-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.8298, 4.9667],
-    name: { de: "The Empire Brunei", hu: "The Empire Brunei", ro: "The Empire Brunei", en: "The Empire Brunei",
-image: "/poi-images/the-empire-brunei-landmarks-v2.webp"
-},
+    name: { de: "The Empire Brunei", hu: "The Empire Brunei", ro: "The Empire Brunei", en: "The Empire Brunei"},
+    image: "/poi-images/the-empire-brunei-landmarks-v2.webp",
     description: {
       de: "Ein luxuriöses und palastartiges Hotelresort in Jerudong, das für seine Opulenz und den von Jack Nicklaus entworfenen Golfplatz berühmt ist.",
       hu: "Luxus és palotaszerű szállodakomplexum Jerudongban, amely fényűzéséről és a Jack Nicklaus által tervezett golfpályáról híres.",
@@ -198,9 +192,8 @@ image: "/poi-images/the-empire-brunei-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9351, 4.9221],
-    name: { de: "Ash-Shaliheen Moschee", hu: "Ash-Shaliheen Mecset", ro: "Moscheea Ash-Shaliheen", en: "Ash-Shaliheen Mosque",
-image: "/poi-images/ash-shaliheen-mosque-landmarks-v2.webp"
-},
+    name: { de: "Ash-Shaliheen Moschee", hu: "Ash-Shaliheen Mecset", ro: "Moscheea Ash-Shaliheen", en: "Ash-Shaliheen Mosque"},
+    image: "/poi-images/ash-shaliheen-mosque-landmarks-v2.webp",
     description: {
       de: "Eine wunderschöne Moschee im marokkanischen Stil, die vom ägyptischen Architekten Abdel-Wahed El-Wakil entworfen wurde.",
       hu: "Gyönyörű marokkói stílusú mecset, amelyet az egyiptomi Abdel-Wahed El-Wakil építész tervezett.",
@@ -230,9 +223,8 @@ image: "/poi-images/ash-shaliheen-mosque-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9397, 4.8872],
-    name: { de: "Yayasan Sultan Haji Hassanal Bolkiah Komplex", hu: "Yayasan Sultan Haji Hassanal Bolkiah Komplexum", ro: "Complexul Yayasan Sultan Haji Hassanal Bolkiah", en: "Yayasan Sultan Haji Hassanal Bolkiah Complex",
-image: "/poi-images/yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2.webp"
-},
+    name: { de: "Yayasan Sultan Haji Hassanal Bolkiah Komplex", hu: "Yayasan Sultan Haji Hassanal Bolkiah Komplexum", ro: "Complexul Yayasan Sultan Haji Hassanal Bolkiah", en: "Yayasan Sultan Haji Hassanal Bolkiah Complex"},
+    image: "/poi-images/yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2.webp",
     description: {
       de: "Ein markantes Einkaufszentrum in der Hauptstadt mit traditioneller malaiischer Architektur, das direkt auf die Hauptmoschee ausgerichtet ist.",
       hu: "A főváros látványos, hagyományos maláj építészetű bevásárlóközpontja, amely egyenesen a fő mecsetre néz.",
@@ -262,9 +254,8 @@ image: "/poi-images/yayasan-sultan-haji-hassanal-bolkiah-complex-landmarks-v2.we
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9103, 4.8781],
-    name: { de: "Taman Persiaran Damuan", hu: "Taman Persiaran Damuan", ro: "Taman Persiaran Damuan", en: "Taman Persiaran Damuan",
-image: "/poi-images/taman-persiaran-damuan-landmarks-v2.webp"
-},
+    name: { de: "Taman Persiaran Damuan", hu: "Taman Persiaran Damuan", ro: "Taman Persiaran Damuan", en: "Taman Persiaran Damuan"},
+    image: "/poi-images/taman-persiaran-damuan-landmarks-v2.webp",
     description: {
       de: "Ein beliebter Park entlang des Flusses, der Skulpturen aus verschiedenen ASEAN-Ländern beherbergt und einen Blick auf den Sultanspalast bietet.",
       hu: "Népszerű folyóparti park, amely különböző ASEAN-országokból származó szobrokat mutat be, és kilátást nyújt a szultáni palotára.",
@@ -294,9 +285,8 @@ image: "/poi-images/taman-persiaran-damuan-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9443, 4.8841],
-    name: { de: "Kultur- und Tourismusgalerie Kampong Ayer", hu: "Kampong Ayer Kulturális és Turisztikai Galéria", ro: "Galeria de Cultură și Turism Kampong Ayer", en: "Kampong Ayer Cultural and Tourism Gallery",
-image: "/poi-images/kampong-ayer-cultural-and-tourism-gallery-landmarks-v2.webp"
-},
+    name: { de: "Kultur- und Tourismusgalerie Kampong Ayer", hu: "Kampong Ayer Kulturális és Turisztikai Galéria", ro: "Galeria de Cultură și Turism Kampong Ayer", en: "Kampong Ayer Cultural and Tourism Gallery"},
+    image: "/poi-images/kampong-ayer-cultural-and-tourism-gallery-landmarks-v2.webp",
     description: {
       de: "Ein Informationszentrum auf dem Wasser, das die reiche Geschichte, Architektur und das Handwerk des historischen Wasserdorfes veranschaulicht.",
       hu: "Vízen úszó információs központ, amely a történelmi vízifalu gazdag történelmét, építészetét és kézművességét mutatja be.",
@@ -326,9 +316,8 @@ image: "/poi-images/kampong-ayer-cultural-and-tourism-gallery-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9365, 4.9192],
-    name: { de: "Bangunan Dewan Majlis", hu: "Bangunan Dewan Majlis", ro: "Bangunan Dewan Majlis", en: "Bangunan Dewan Majlis",
-image: "/poi-images/bangunan-dewan-majlis-landmarks-v2.webp"
-},
+    name: { de: "Bangunan Dewan Majlis", hu: "Bangunan Dewan Majlis", ro: "Bangunan Dewan Majlis", en: "Bangunan Dewan Majlis"},
+    image: "/poi-images/bangunan-dewan-majlis-landmarks-v2.webp",
     description: {
       de: "Das moderne Gebäude des Legislativrates von Brunei, das staatliche Pracht mit zeitgenössischem islamischem Design verbindet.",
       hu: "Brunei törvényhozó testületének modern épülete, amely az állami pompát a kortárs iszlám dizájnnal ötvözi.",
@@ -359,9 +348,8 @@ image: "/poi-images/bangunan-dewan-majlis-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9449, 4.9281],
-    name: { de: "Hassanal Bolkiah Nationalstadion", hu: "Hassanal Bolkiah Nemzeti Stadion", ro: "Stadionul Național Hassanal Bolkiah", en: "Hassanal Bolkiah National Stadium",
-image: "/poi-images/hassanal-bolkiah-national-stadium-landmarks-v2.webp"
-},
+    name: { de: "Hassanal Bolkiah Nationalstadion", hu: "Hassanal Bolkiah Nemzeti Stadion", ro: "Stadionul Național Hassanal Bolkiah", en: "Hassanal Bolkiah National Stadium"},
+    image: "/poi-images/hassanal-bolkiah-national-stadium-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Mehrzweckstadion des Landes, in dem große Sportereignisse und nationale Feierlichkeiten stattfinden.",
       hu: "Az ország fő többfunkciós stadionja, ahol jelentős sporteseményeket és nemzeti ünnepségeket rendeznek.",
@@ -391,9 +379,8 @@ image: "/poi-images/hassanal-bolkiah-national-stadium-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-TU",
     coords: [114.6738, 4.5878],
-    name: { de: "Tasek Merimbun", hu: "Tasek Merimbun", ro: "Tasek Merimbun", en: "Tasek Merimbun",
-image: "/poi-images/tasek-merimbun-landmarks-v2.webp"
-},
+    name: { de: "Tasek Merimbun", hu: "Tasek Merimbun", ro: "Tasek Merimbun", en: "Tasek Merimbun"},
+    image: "/poi-images/tasek-merimbun-landmarks-v2.webp",
     description: {
       de: "Der größte natürliche See in Brunei, der als ASEAN-Kulturerbe anerkannt ist und von dunklem Wasser und üppigen Wäldern geprägt wird.",
       hu: "A Tasek Merimbun Brunei legnagyobb természetes tava a Tutong körzetben. S alakú vizét sötétre színező, tőzeges vízfolyások táplálják.",
@@ -423,9 +410,8 @@ image: "/poi-images/tasek-merimbun-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-TE",
     coords: [115.1554, 4.5492],
-    name: { de: "Ulu Temburong Baumkronenweg", hu: "Ulu Temburong Lombkoronasétány", ro: "Podul Suspendat Ulu Temburong", en: "Ulu Temburong Canopy Walkway",
-image: "/poi-images/ulu-temburong-canopy-walkway-landmarks-v2.webp"
-},
+    name: { de: "Ulu Temburong Baumkronenweg", hu: "Ulu Temburong Lombkoronasétány", ro: "Podul Suspendat Ulu Temburong", en: "Ulu Temburong Canopy Walkway"},
+    image: "/poi-images/ulu-temburong-canopy-walkway-landmarks-v2.webp",
     description: {
       de: "Ein atemberaubendes Metallgerüst tief im unberührten Regenwald, das spektakuläre Ausblicke über die Baumkronen des Nationalparks bietet.",
       hu: "Lélegzetelállító fémszerkezet mélyen az érintetlen esőerdőben, amely lenyűgöző kilátást nyújt a nemzeti park lombkoronáira.",
@@ -455,9 +441,8 @@ image: "/poi-images/ulu-temburong-canopy-walkway-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-TU",
     coords: [114.6369, 4.8093],
-    name: { de: "Pantai Seri Kenangan", hu: "Pantai Seri Kenangan", ro: "Pantai Seri Kenangan", en: "Pantai Seri Kenangan",
-image: "/poi-images/pantai-seri-kenangan-landmarks-v2.webp"
-},
+    name: { de: "Pantai Seri Kenangan", hu: "Pantai Seri Kenangan", ro: "Pantai Seri Kenangan", en: "Pantai Seri Kenangan"},
+    image: "/poi-images/pantai-seri-kenangan-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiger Strand im Distrikt Tutong, an dem ein schmaler Sandstreifen das Südchinesische Meer vom ruhigen Tutong-Fluss trennt.",
       hu: "Egyedülálló strand a Tutong körzetben, ahol egy keskeny homoksáv választja el a Dél-kínai-tengert a csendes Tutong-folyótól.",
@@ -487,9 +472,8 @@ image: "/poi-images/pantai-seri-kenangan-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.8516, 4.9649],
-    name: { de: "Bukit Shahbandar Walderholungspark", hu: "Bukit Shahbandar Erdei Szabadidőpark", ro: "Parcul Forestier de Recreere Bukit Shahbandar", en: "Bukit Shahbandar Forest Recreation Park",
-image: "/poi-images/bukit-shahbandar-forest-recreation-park-landmarks-v2.webp"
-},
+    name: { de: "Bukit Shahbandar Walderholungspark", hu: "Bukit Shahbandar Erdei Szabadidőpark", ro: "Parcul Forestier de Recreere Bukit Shahbandar", en: "Bukit Shahbandar Forest Recreation Park"},
+    image: "/poi-images/bukit-shahbandar-forest-recreation-park-landmarks-v2.webp",
     description: {
       de: "Ein ausgedehnter Waldpark in der Nähe von Jerudong, der für seine anspruchsvollen, gut markierten Wanderwege über mehrere Hügel bekannt ist.",
       hu: "Kiterjedt erdei park Jerudong közelében, amely kihívást jelentő, jól jelzett, több dombon átívelő túraútvonalairól ismert.",
@@ -519,9 +503,8 @@ image: "/poi-images/bukit-shahbandar-forest-recreation-park-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9427, 4.8885],
-    name: { de: "Brunei Energy Hub Dermaga Diraja", hu: "Brunei Energy Hub Dermaga Diraja", ro: "Brunei Energy Hub Dermaga Diraja", en: "Brunei Energy Hub Dermaga Diraja",
-image: "/poi-images/brunei-energy-hub-dermaga-diraja-landmarks-v2.webp"
-},
+    name: { de: "Brunei Energy Hub Dermaga Diraja", hu: "Brunei Energy Hub Dermaga Diraja", ro: "Brunei Energy Hub Dermaga Diraja", en: "Brunei Energy Hub Dermaga Diraja"},
+    image: "/poi-images/brunei-energy-hub-dermaga-diraja-landmarks-v2.webp",
     description: {
       de: "Das ehemalige Zoll- und Akzisegebäude der Hauptstadt, das heute eine interaktive Ausstellung über die reiche Geschichte der Öl- und Gasindustrie Bruneis beherbergt.",
       hu: "A főváros egykori vám- és jövedéki épülete, amely ma Brunei olaj- és gáziparának gazdag történetét bemutató interaktív kiállításnak ad otthont.",
@@ -551,9 +534,8 @@ image: "/poi-images/brunei-energy-hub-dermaga-diraja-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.9416, 4.8911],
-    name: { de: "Lapau", hu: "Lapau", ro: "Lapau", en: "Lapau",
-image: "/poi-images/lapau-landmarks-v2.webp"
-},
+    name: { de: "Lapau", hu: "Lapau", ro: "Lapau", en: "Lapau"},
+    image: "/poi-images/lapau-landmarks-v2.webp",
     description: {
       de: "Die prächtige königliche Zeremonienhalle im Herzen der Hauptstadt, in der traditionell königliche Krönungen und offizielle Zeremonien stattfinden.",
       hu: "A csodálatos királyi ceremóniaterem a főváros szívében, ahol hagyományosan a királyi koronázásokat és a hivatalos szertartásokat tartják.",
@@ -583,9 +565,8 @@ image: "/poi-images/lapau-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-BM",
     coords: [114.8851, 4.9542],
-    name: { de: "Agrotechnologiepark Tungku", hu: "Tungku Agrotechnológiai Park", ro: "Parcul Agrotehnologic Tungku", en: "Agroteknologi Park Tungku",
-image: "/poi-images/agroteknologi-park-tungku-landmarks-v2.webp"
-},
+    name: { de: "Agrotechnologiepark Tungku", hu: "Tungku Agrotechnológiai Park", ro: "Parcul Agrotehnologic Tungku", en: "Agroteknologi Park Tungku"},
+    image: "/poi-images/agroteknologi-park-tungku-landmarks-v2.webp",
     description: {
       de: "Ein weitläufiger Park, der der landwirtschaftlichen Forschung gewidmet ist und wunderschöne Blumen-, Gewächshaus- und Kräutergärten bietet.",
       hu: "A mezőgazdasági kutatásnak szentelt kiterjedt park, amely gyönyörű virág-, üvegház- és gyógynövénykerteket kínál.",
@@ -615,9 +596,8 @@ image: "/poi-images/agroteknologi-park-tungku-landmarks-v2.webp"
     type: "landmark",
     parent: "BN-TU",
     coords: [114.6611, 4.7933],
-    name: { de: "Sungai Basong Erholungspark", hu: "Sungai Basong Szabadidőpark", ro: "Parcul de Recreere Sungai Basong", en: "Sungai Basong Recreation Park",
-image: "/poi-images/sungai-basong-recreation-park-landmarks-v2.webp"
-},
+    name: { de: "Sungai Basong Erholungspark", hu: "Sungai Basong Szabadidőpark", ro: "Parcul de Recreere Sungai Basong", en: "Sungai Basong Recreation Park"},
+    image: "/poi-images/sungai-basong-recreation-park-landmarks-v2.webp",
     description: {
       de: "Ein friedlicher Naturpark im Distrikt Tutong mit Seen, malerischen Wegen und einer Nachbildung eines traditionellen indigenen Langhauses.",
       hu: "Békés természeti park a Tutong körzetben tavakkal, festői ösvényekkel és egy hagyományos bennszülött hosszúház másolatával.",

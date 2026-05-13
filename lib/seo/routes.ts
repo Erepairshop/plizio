@@ -264,13 +264,16 @@ export function getPoiAlternates(poi: POI) {
 export function hasIndexableContent(poi: POI): boolean {
   const desc = poi.description as Record<string, string> | undefined;
   const facts = poi.facts as Record<string, string[]> | undefined;
-  if (!desc || !facts) return false;
+  const descAdv = (poi as { descriptionAdvanced?: Record<string, string> }).descriptionAdvanced;
+  const factsAdv = (poi as { factsAdvanced?: Record<string, string[]> }).factsAdvanced;
   const langs = ["de", "hu", "ro", "en"] as const;
   let hasDesc = false;
   let hasFacts = false;
   for (const l of langs) {
-    if ((desc[l]?.length ?? 0) >= 200) hasDesc = true;
-    if ((facts[l]?.length ?? 0) >= 2) hasFacts = true;
+    // Indexable if EITHER base description >= 200 chars OR descriptionAdvanced >= 200 chars
+    if ((desc?.[l]?.length ?? 0) >= 200 || (descAdv?.[l]?.length ?? 0) >= 200) hasDesc = true;
+    // Indexable if EITHER base facts >= 2 items OR factsAdvanced >= 2 items
+    if ((facts?.[l]?.length ?? 0) >= 2 || (factsAdv?.[l]?.length ?? 0) >= 2) hasFacts = true;
   }
   return hasDesc && hasFacts;
 }
@@ -281,7 +284,7 @@ export function getVisualLabHref(poi: POI) {
 }
 
 export function osmHref(poi: POI) {
-  return `https://www.openstreetmap.org/?mlat=${poi.coords[1]}&mlon=${poi.coords[0]}#map=9/${poi.coords[1]}/${poi.coords[0]}`;
+  return `https://www.openstreetmap.org/?mlat=${poi.coords![1]}&mlon=${poi.coords![0]}#map=9/${poi.coords![1]}/${poi.coords![0]}`;
 }
 
 export function getPoisForState(stateId: string) {

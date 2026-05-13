@@ -11,9 +11,8 @@ export const poiExtraMauritiusEconomicV2: POI[] = [
       de: "Hafen von Port Louis",
       hu: "Port Louis kikötője",
       ro: "Portul Port Louis",
-      en: "Port Louis Harbor",
-image: "/poi-images/port-louis-harbor-economic-v2.webp"
-},
+      en: "Port Louis Harbor"},
+    image: "/poi-images/port-louis-harbor-economic-v2.webp",
     description: {
       de: "Der strategisch günstig gelegene Hafen ist das wichtigste Tor für den Außenhandel von Mauritius und ein bedeutendes maritimes Drehkreuz im Indischen Ozean.",
       hu: "A stratégiailag kedvező fekvésű kikötő Mauritius külkereskedelmének legfontosabb kapuja és az Indiai-óceán jelentős tengeri központja.",
@@ -48,9 +47,8 @@ image: "/poi-images/port-louis-harbor-economic-v2.webp"
       de: "Mauritius Freeport",
       hu: "Mauritius-i Szabadkikötő",
       ro: "Zona Liberă Mauritius",
-      en: "Mauritius Freeport",
-image: "/poi-images/mauritius-freeport-economic-v2.webp"
-},
+      en: "Mauritius Freeport"},
+    image: "/poi-images/mauritius-freeport-economic-v2.webp",
     description: {
       de: "Ein hochmodernes Logistikzentrum in Port Louis, das als steuerfreie Drehscheibe für die Lagerung und den Wiederexport von Waren nach Afrika und Asien dient.",
       hu: "Egy ultramodern logisztikai központ Port Louisban, amely adómentes csomópontként szolgál az áruk tárolására és Afrika, valamint Ázsia felé történő újraexportálására.",
@@ -85,9 +83,8 @@ image: "/poi-images/mauritius-freeport-economic-v2.webp"
       de: "Ebène Cybercity",
       hu: "Ebène Cybercity",
       ro: "Ebène Cybercity",
-      en: "Ebène Cybercity",
-image: "/poi-images/ebene-cybercity-economic-v2.webp"
-},
+      en: "Ebène Cybercity"},
+    image: "/poi-images/ebene-cybercity-economic-v2.webp",
     description: {
       de: "Dieses moderne Geschäftsviertel ist das Zentrum für Technologie und Finanzen auf Mauritius und beherbergt zahlreiche internationale Unternehmen.",
       hu: "Ez a modern üzleti negyed Mauritius technológiai és pénzügyi központja, amely számos nemzetközi vállalatnak ad otthont.",
@@ -122,9 +119,8 @@ image: "/poi-images/ebene-cybercity-economic-v2.webp"
       de: "Industriezone Mer Rouge",
       hu: "Mer Rouge ipari zóna",
       ro: "Zona Industrială Mer Rouge",
-      en: "Mer Rouge Industrial Zone",
-image: "/poi-images/mer-rouge-industrial-zone-economic-v2.webp"
-},
+      en: "Mer Rouge Industrial Zone"},
+    image: "/poi-images/mer-rouge-industrial-zone-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Industriegebiet im Hafengebiet von Port Louis, das auf verarbeitende Industrie und Logistik spezialisiert ist.",
       hu: "Jelentős ipari terület Port Louis kikötői övezetében, amely a feldolgozóiparra és a logisztikára szakosodott.",
@@ -159,9 +155,8 @@ image: "/poi-images/mer-rouge-industrial-zone-economic-v2.webp"
       de: "Gewerbegebiet Coromandel",
       hu: "Coromandel ipari terület",
       ro: "Zona Industrială Coromandel",
-      en: "Coromandel Industrial Estate",
-image: "/poi-images/coromandel-industrial-estate-economic-v2.webp"
-},
+      en: "Coromandel Industrial Estate"},
+    image: "/poi-images/coromandel-industrial-estate-economic-v2.webp",
     description: {
       de: "Eines der ältesten und größten Industriegebiete der Insel, das eine Vielzahl von Fertigungsbetrieben beherbergt.",
       hu: "A sziget egyik legrégebbi és legnagyobb ipari területe, amely számos gyártóüzemnek ad otthont.",
@@ -196,9 +191,8 @@ image: "/poi-images/coromandel-industrial-estate-economic-v2.webp"
       de: "Zuckerfabrik Médine",
       hu: "Médine cukorgyár",
       ro: "Fabrica de Zahăr Médine",
-      en: "Médine Sugar Mill",
-image: "/poi-images/medine-sugar-mill-economic-v2.webp"
-},
+      en: "Médine Sugar Mill"},
+    image: "/poi-images/medine-sugar-mill-economic-v2.webp",
     description: {
       de: "Ein historischer Pfeiler der mauritischen Zuckerindustrie an der Westküste, der sich heute zu einem diversifizierten Agrarkonzern entwickelt hat.",
       hu: "A mauritiusi cukoripar történelmi pillére a nyugati parton, amely mára diverzifikált mezőgazdasági csoporttá fejlődött.",
@@ -233,9 +227,8 @@ image: "/poi-images/medine-sugar-mill-economic-v2.webp"
       de: "Omnicane Zuckerraffinerie",
       hu: "Omnicane cukorfinomító",
       ro: "Rafinăria de Zahăr Omnicane",
-      en: "Omnicane Sugar Refinery",
-image: "/poi-images/omnicane-sugar-refinery-economic-v2.webp"
-},
+      en: "Omnicane Sugar Refinery"},
+    image: "/poi-images/omnicane-sugar-refinery-economic-v2.webp",
     description: {
       de: "Diese moderne Anlage in La Baraque ist eine der effizientesten Zuckerraffinerien der Region und produziert auch Bioethanol.",
       hu: "Ez a La Baraque-ban található modern létesítmény a régió egyik leghatékonyabb cukorfinomítója, amely bioetanolt is gyárt.",
@@ -270,9 +263,8 @@ image: "/poi-images/omnicane-sugar-refinery-economic-v2.webp"
       de: "Alteo Zuckerfabrik",
       hu: "Alteo cukorgyár",
       ro: "Fabrica de Zahăr Alteo",
-      en: "Alteo Sugar Mill",
-image: "/poi-images/alteo-sugar-mill-economic-v2.webp"
-},
+      en: "Alteo Sugar Mill"},
+    image: "/poi-images/alteo-sugar-mill-economic-v2.webp",
     description: {
       de: "Die größte Zuckerfabrik der Insel befindet sich im Osten und ist ein bedeutender Produzent von Spezialzuckern für den Export.",
       hu: "A sziget legnagyobb cukorgyára keleten található, és a különleges cukrok jelentős exportőre.",
@@ -307,9 +299,8 @@ image: "/poi-images/alteo-sugar-mill-economic-v2.webp"
       de: "Terra Mauricia Zuckerfabrik",
       hu: "Terra Mauricia cukorgyár",
       ro: "Fabrica de Zahăr Terra Mauricia",
-      en: "Terra Mauricia Sugar Mill",
-image: "/poi-images/terra-mauricia-mill-economic-v2.webp"
-},
+      en: "Terra Mauricia Sugar Mill"},
+    image: "/poi-images/terra-mauricia-mill-economic-v2.webp",
     description: {
       de: "Eine traditionsreiche Fabrik im Norden, die Belle Vue betreibt und maßgeblich zur industriellen Entwicklung der Region beigetragen hat.",
       hu: "Egy hagyományokban gazdag gyár északon, amely a Belle Vue-t üzemelteti, és jelentősen hozzájárult a régió ipari fejlődéséhez.",
@@ -344,9 +335,8 @@ image: "/poi-images/terra-mauricia-mill-economic-v2.webp"
       de: "Hafen Port Mathurin",
       hu: "Port Mathurin kikötője",
       ro: "Portul Port Mathurin",
-      en: "Port Mathurin Harbor",
-image: "/poi-images/port-mathurin-economic-v2.webp"
-},
+      en: "Port Mathurin Harbor"},
+    image: "/poi-images/port-mathurin-economic-v2.webp",
     description: {
       de: "Der Haupthafen der Insel Rodrigues stellt die lebenswichtige Verbindung für die Versorgung und den Handel der Insel dar.",
       hu: "Rodrigues szigetének fő kikötője, amely a sziget ellátásának és kereskedelmének létfontosságú összeköttetését biztosítja.",
@@ -381,9 +371,8 @@ image: "/poi-images/port-mathurin-economic-v2.webp"
       de: "Industriegebiet Plaisance",
       hu: "Plaisance ipari terület",
       ro: "Zona Industrială Plaisance",
-      en: "Plaisance Industrial Estate",
-image: "/poi-images/plaisance-industrial-estate-economic-v2.webp"
-},
+      en: "Plaisance Industrial Estate"},
+    image: "/poi-images/plaisance-industrial-estate-economic-v2.webp",
     description: {
       de: "In unmittelbarer Nähe zum internationalen Flughafen gelegen, beherbergt dieses Gebiet Unternehmen, die auf schnellen Export angewiesen sind.",
       hu: "A nemzetközi repülőtér közvetlen közelében található terület olyan vállalatoknak ad otthont, amelyek a gyors exportra támaszkodnak.",
@@ -418,9 +407,8 @@ image: "/poi-images/plaisance-industrial-estate-economic-v2.webp"
       de: "Industriezone Riche Terre",
       hu: "Riche Terre ipari zóna",
       ro: "Zona Industrială Riche Terre",
-      en: "Riche Terre Industrial Zone",
-image: "/poi-images/riche-terre-industrial-zone-economic-v2.webp"
-},
+      en: "Riche Terre Industrial Zone"},
+    image: "/poi-images/riche-terre-industrial-zone-economic-v2.webp",
     description: {
       de: "Ein weitläufiges Gewerbegebiet nördlich von Port Louis, das moderne Lagerflächen und Produktionsstätten bietet.",
       hu: "Egy kiterjedt ipari terület Port Louistól északra, amely modern raktárhelyiségeket és gyártóüzemeket kínál.",
@@ -455,9 +443,8 @@ image: "/poi-images/riche-terre-industrial-zone-economic-v2.webp"
       de: "Phoenix Beverages Fabrik",
       hu: "Phoenix Beverages gyár",
       ro: "Fabrica Phoenix Beverages",
-      en: "Phoenix Beverages Factory",
-image: "/poi-images/phoenix-beverages-factory-economic-v2.webp"
-},
+      en: "Phoenix Beverages Factory"},
+    image: "/poi-images/phoenix-beverages-factory-economic-v2.webp",
     description: {
       de: "Die größte Brauerei und Getränkefabrik des Landes, bekannt für die Produktion des berühmten Phoenix-Bieres.",
       hu: "Az ország legnagyobb sörfőzdéje és üdítőital-gyára, amely a híres Phoenix sör gyártásáról ismert.",
@@ -492,9 +479,8 @@ image: "/poi-images/phoenix-beverages-factory-economic-v2.webp"
       de: "Ölterminal Fort William",
       hu: "Fort William olajterminál",
       ro: "Terminalul Petrolier Fort William",
-      en: "Fort William Oil Terminal",
-image: "/poi-images/fort-william-oil-terminal-economic-v2.webp"
-},
+      en: "Fort William Oil Terminal"},
+    image: "/poi-images/fort-william-oil-terminal-economic-v2.webp",
     description: {
       de: "Das zentrale Terminal für die Lagerung und den Umschlag von Erdölprodukten, die für die Energieversorgung der Insel unerlässlich sind.",
       hu: "A kőolajtermékek tárolásának és rakodásának központi terminálja, amely elengedhetetlen a sziget energiaellátásához.",
@@ -529,9 +515,8 @@ image: "/poi-images/fort-william-oil-terminal-economic-v2.webp"
       de: "Beau Plan Business Park",
       hu: "Beau Plan Business Park",
       ro: "Beau Plan Business Park",
-      en: "Beau Plan Business Park",
-image: "/poi-images/beau-plan-business-park-economic-v2.webp"
-},
+      en: "Beau Plan Business Park"},
+    image: "/poi-images/beau-plan-business-park-economic-v2.webp",
     description: {
       de: "Ein moderner Gewerbepark, der auf dem Gelände einer ehemaligen Zuckerfabrik entstanden ist und Dienstleistungen sowie Leichtindustrie vereint.",
       hu: "Egy modern üzleti park, amely egy korábbi cukorgyár területén jött létre, és szolgáltatásokat, valamint könnyűipart egyesít.",
@@ -566,9 +551,8 @@ image: "/poi-images/beau-plan-business-park-economic-v2.webp"
       de: "Industriezone Triolet",
       hu: "Triolet ipari zóna",
       ro: "Zona Industrială Triolet",
-      en: "Triolet Industrial Zone",
-image: "/poi-images/triolet-industrial-zone-economic-v2.webp"
-},
+      en: "Triolet Industrial Zone"},
+    image: "/poi-images/triolet-industrial-zone-economic-v2.webp",
     description: {
       de: "Ein wachsendes Industriegebiet im Norden, das vor allem lokale Handwerks- und Fertigungsbetriebe unterstützt.",
       hu: "Egy növekvő ipari terület északon, amely elsősorban a helyi kézműves és gyártó üzemeket támogatja.",
@@ -603,9 +587,8 @@ image: "/poi-images/triolet-industrial-zone-economic-v2.webp"
       de: "Gewerbegebiet Baie du Tombeau",
       hu: "Baie du Tombeau ipari terület",
       ro: "Zona Industrială Baie du Tombeau",
-      en: "Baie du Tombeau Industrial Zone",
-image: "/poi-images/baie-du-tombeau-industry-v2.webp"
-},
+      en: "Baie du Tombeau Industrial Zone"},
+    image: "/poi-images/baie-du-tombeau-industry-v2.webp",
     description: {
       de: "Ein Küstenindustriegebiet, das auf Fischverarbeitung und maritime Dienstleistungen spezialisiert ist.",
       hu: "Egy tengerparti ipari terület, amely halfeldolgozásra és tengeri szolgáltatásokra szakosodott.",
@@ -640,9 +623,8 @@ image: "/poi-images/baie-du-tombeau-industry-v2.webp"
       de: "Constance Zuckerplantage",
       hu: "Constance cukornád-ültetvény",
       ro: "Domeniul de Zahăr Constance",
-      en: "Constance Sugar Estate",
-image: "/poi-images/constance-sugar-estate-economic-v2.webp"
-},
+      en: "Constance Sugar Estate"},
+    image: "/poi-images/constance-sugar-estate-economic-v2.webp",
     description: {
       de: "Einer der führenden Produzenten im Osten der Insel, der Landwirtschaft mit modernster industrieller Verarbeitung verbindet.",
       hu: "A sziget keleti részének egyik vezető termelője, amely a mezőgazdaságot a legkorszerűbb ipari feldolgozással ötvözi.",
@@ -677,9 +659,8 @@ image: "/poi-images/constance-sugar-estate-economic-v2.webp"
       de: "Savannah Zuckerfabrik",
       hu: "Savannah cukorgyár",
       ro: "Fabrica de Zahăr Savannah",
-      en: "Savannah Sugar Estate",
-image: "/poi-images/savannah-sugar-estate-economic-v2.webp"
-},
+      en: "Savannah Sugar Estate"},
+    image: "/poi-images/savannah-sugar-estate-economic-v2.webp",
     description: {
       de: "Im Süden gelegen, ist diese Fabrik ein Schlüsselakteur in der regionalen Wirtschaft und in der nachhaltigen Energieerzeugung.",
       hu: "A délen található gyár a regionális gazdaság és a fenntartható energiatermelés kulcsszereplője.",
@@ -714,9 +695,8 @@ image: "/poi-images/savannah-sugar-estate-economic-v2.webp"
       de: "Gewerbegebiet Goodlands",
       hu: "Goodlands ipari terület",
       ro: "Zona Industrială Goodlands",
-      en: "Goodlands Industrial Estate",
-image: "/poi-images/goodlands-industrial-estate-economic-v2.webp"
-},
+      en: "Goodlands Industrial Estate"},
+    image: "/poi-images/goodlands-industrial-estate-economic-v2.webp",
     description: {
       de: "Ein dynamisches Industriezentrum im Nordosten, das vor allem in der Textilherstellung und im lokalen Handel stark ist.",
       hu: "Egy dinamikus ipari központ az északkeleti részen, amely különösen erős a textilgyártásban és a helyi kereskedelemben.",

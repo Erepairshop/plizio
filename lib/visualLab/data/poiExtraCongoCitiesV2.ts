@@ -17,16 +17,10 @@ export const poiExtraCongoCitiesV2: POI[] = [
       de: "Brazzaville, die lebendige Hauptstadt der Republik Kongo, erstreckt sich am nördlichen Ufer des mächtigen Kongo-Flusses. Die Stadt wurde 1880 durch den Entdecker Pierre Savorgnan de Brazza gegründet und ist heute das pulsierende politische, wirtschaftliche und kulturelle Herz des Landes. Besonders bemerkenswert ist die direkte geografische Nähe zu Kinshasa, der Hauptstadt der Demokratischen Republik Kongo, wodurch Brazzaville Teil einer der größten grenzüberschreitenden Metropolregionen Afrikas ist. Erdkunde K7 — Flussmetropolen und grenzüberschreitende Städte.",
       hu: "Brazzaville, a Kongói Köztársaság fővárosa, a Kongó folyó jobb partján fekszik, szemben a Kongói Demokratikus Köztársaság fővárosával, Kinshasával. A város történelme a 19. század végére nyúlik vissza, amikor Pierre Savorgnan de Brazza francia felfedező alapította meg a települést 1880-ban. Ma Brazzaville politikai és kulturális központ, ahol a modern építészet, mint például a Nabemba-torony, keveredik a gyarmati örökséggel, mint a Sainte-Anne bazilika. A város stratégiai helyzete a folyó mellett kulcsfontosságú a közép-afrikai kereskedelemben. Földrajz K7 — városfejlődés és folyami közlekedés.",
       ro: "Brazzaville, capitala Republicii Congo, este situată strategic pe malul drept al fluviului Congo. Fondat în 1880 de exploratorul francez Pierre Savorgnan de Brazza, orașul servește drept inima politică și culturală a țării. O caracteristică unică este proximitatea sa față de Kinshasa, formând împreună una dintre cele mai mari aglomerări urbane din Africa. Arhitectura sa îmbină elemente coloniale cu structuri moderne, precum Turnul Nabemba, o clădire emblematică de 106 metri înălțime. Geografie K7 — Urbanizare și sisteme fluviale.",
-      en: "Brazzaville, the vibrant capital city, lies on the northern bank of the Congo River directly opposite Kinshasa. Founded in 1880 by Pierre Savorgnan de Brazza, it served as the capital of Free France during World War II. Today, it is the political and cultural heart of the Republic of the Congo, characterized by its mix of modern skyline and French colonial architecture. Geography K7 — riverine cities and historical development.",
-image: "/poi-images/cg-brazzaville-cities-v2.webp"
-},
+      en: "Brazzaville, the vibrant capital city, lies on the northern bank of the Congo River directly opposite Kinshasa. Founded in 1880 by Pierre Savorgnan de Brazza, it served as the capital of Free France during World War II. Today, it is the political and cultural heart of the Republic of the Congo, characterized by its mix of modern skyline and French colonial architecture. Geography K7 — riverine cities and historical development."},
     factsAdvanced: {
-      en: ["Founded in 1880 as a French station.", "Served as the capital of Free France 1940–1943.", "Situated at an altitude of 317 meters.", "Located 474 km from the Atlantic Ocean.", "The city's name honors its founder.", "Home to the iconic Basilica of St. Anne."]
-    },
-    
-    
-    
-  },
+      en: ["Founded in 1880 as a French station.", "Served as the capital of Free France 1940–1943.", "Situated at an altitude of 317 meters.", "Located 474 km from the Atlantic Ocean.", "The city's name honors its founder.", "Home to the iconic Basilica of St. Anne."] } },
+    image: "/poi-images/cg-brazzaville-cities-v2.webp",
     description: {
       de: "Brazzaville ist die Hauptstadt der Republik Kongo am Nordufer des Kongo-Flusses. Die Stadt liegt direkt gegenüber von Kinshasa und ist das politische Zentrum des Landes.",
       hu: "Brazzaville a Kongói Köztársaság fővárosa és legnagyobb városa, a Kongó-folyó északi partján.",
@@ -54,16 +48,10 @@ image: "/poi-images/cg-brazzaville-cities-v2.webp"
       de: "Als wirtschaftliches Powerhouse der Republik Kongo ist Pointe-Noire die unangefochtene Hauptstadt der nationalen Ölindustrie. Gelegen an der Atlantikküste, fungiert die Stadt als das entscheidende logistische Tor zum Welthandel und besitzt mit dem Hafen von Pointe-Noire einen der wichtigsten Tiefseehäfen in ganz Zentralafrika. Die Stadt wurde 1922 als Endpunkt der prestigeträchtigen Kongo-Ozean-Bahn gegründet, die Brazzaville mit dem Atlantik verbindet und die wirtschaftliche Entwicklung des Landes maßgeblich prägte. Erdkunde K8 — globale Handelswege und Küstenstädte.",
       hu: "Pointe-Noire a Kongói Köztársaság fő gazdasági központja és legfontosabb kikötővárosa az Atlanti-óceán partján. A város nevét a közeli sötét sziklákról kapta, amelyeket a portugál hajósok fedeztek fel a 15. században. A 20. század elején a Pointe-Noire és Brazzaville közötti vasútvonal kiépítése tette a várost a régió logisztikai csomópontjává, különösen az olajipar számára. Ma a város vibráló kereskedelmi élettel és jelentős ipari létesítményekkel rendelkezik. Földrajz K8 — tengeri kikötők és ipari központok.",
       ro: "Pointe-Noire este principalul centru economic și portuar al Republicii Congo, situat la țărmul Oceanului Atlantic. Orașul a devenit un nod vital în industria petrolieră regională, transformându-se rapid într-un motor de dezvoltare pentru întreaga țară. Portul său profund este esențial pentru exporturile de petrol și resurse forestiere, facilitând comerțul internațional. Istoria sa modernă este profund legată de dezvoltarea infrastructurii feroviare CFCO, care conectează acest hub maritim cu interiorul țării. Geografie K8 — Economie portuară și dezvoltare industrială.",
-      en: "Pointe-Noire is the economic capital and primary port city of the Republic of the Congo, located on the Atlantic coast. Historically a small fishing village, it grew rapidly after the construction of the Congo-Ocean Railway in the early 20th century. It is the center of the country's oil industry and serves as a major logistical hub for Central Africa. Economics K8 — trade and coastal infrastructure development.",
-image: "/poi-images/cg-pointe-noire-cities-v2.webp"
-},
+      en: "Pointe-Noire is the economic capital and primary port city of the Republic of the Congo, located on the Atlantic coast. Historically a small fishing village, it grew rapidly after the construction of the Congo-Ocean Railway in the early 20th century. It is the center of the country's oil industry and serves as a major logistical hub for Central Africa. Economics K8 — trade and coastal infrastructure development."},
     factsAdvanced: {
-      en: ["Major port since the 1920s.", "Center of Congolese oil exploration.", "Connected to Brazzaville by the CFCO railway.", "Population exceeds 700,000 residents.", "Known for its deep-water harbor.", "Primary economic engine of the nation."]
-    },
-    
-    
-    
-  },
+      en: ["Major port since the 1920s.", "Center of Congolese oil exploration.", "Connected to Brazzaville by the CFCO railway.", "Population exceeds 700,000 residents.", "Known for its deep-water harbor.", "Primary economic engine of the nation."] } },
+    image: "/poi-images/cg-pointe-noire-cities-v2.webp",
     description: {
       de: "Pointe-Noire ist die wichtigste Hafenstadt des Landes am Atlantik. Die Stadt verbindet den Seehandel mit der Ölwirtschaft und ist das große Wirtschaftszentrum an der Küste.",
       hu: "Pointe-Noire az ország gazdasági központja és a legfontosabb tengeri kikötő az Atlanti-óceán partján.",
@@ -91,16 +79,10 @@ image: "/poi-images/cg-pointe-noire-cities-v2.webp"
       de: "Dolisie, historisch als Loubomo bekannt, fungiert als unverzichtbarer Knotenpunkt für den Transit- und Güterverkehr im Südwesten des Kongos. Gelegen in der fruchtbaren Niari-Region, ist die Stadt entscheidend durch die Verbindung der Kongo-Ozean-Bahn geprägt, die hier eine zentrale Rolle spielt. Als drittgrößte Stadt des Landes fungiert Dolisie als wichtigstes Handelsdrehkreuz zwischen den landwirtschaftlichen Anbaugebieten im Landesinneren und dem vitalen Atlantikhafen Pointe-Noire. Erdkunde K6 — Eisenbahnnetzwerke und wirtschaftliche Transitpunkte.",
       hu: "Dolisie, korábbi nevén Loubomo, a Kongói Köztársaság harmadik legnagyobb városa és fontos közlekedési csomópont a Niari-völgyben. A város a Pointe-Noire és Brazzaville közötti vasútvonal mentén fekszik, ami miatt már a gyarmati időkben is stratégiai jelentőséggel bírt. A mezőgazdasági régió központjaként Dolisie a környező vidék terményeinek feldolgozásában és kereskedelmében játszik kulcsszerepet. A város klímája és termékeny talaja kedvező a trópusi mezőgazdaságnak. Földrajz K6 — közlekedési csomópontok és mezőgazdaság.",
       ro: "Dolisie, cunoscut anterior sub numele de Loubomo, este un oraș important situat în sud-vestul Republicii Congo, fiind un nod feroviar cheie în traseul CFCO. Orașul joacă un rol vital în transportul de mărfuri între portul Pointe-Noire și Brazzaville. Înconjurat de o zonă agricolă bogată, Dolisie servește ca centru comercial pentru produsele agricole din regiunea Niari. Istoria orașului a fost marcată de rolul său strategic în logistica feroviară colonială și post-colonială, facilitând schimburile comerciale regionale. Geografie K6 — Noduri de transport și infrastructură.",
-      en: "Dolisie, also known as Loubomo, is the third-largest city in the Republic of the Congo, positioned along the Congo-Ocean Railway. It historically served as a critical rail junction and timber processing hub. Its economy is deeply intertwined with the transit trade between the Atlantic port and the interior highlands. Geography K6 — trade centers and railway networks.",
-image: "/poi-images/cg-dolisie-cities-v2.webp"
-},
+      en: "Dolisie, also known as Loubomo, is the third-largest city in the Republic of the Congo, positioned along the Congo-Ocean Railway. It historically served as a critical rail junction and timber processing hub. Its economy is deeply intertwined with the transit trade between the Atlantic port and the interior highlands. Geography K6 — trade centers and railway networks."},
     factsAdvanced: {
-      en: ["Named after a French administrator.", "Third largest city by population.", "Key junction on the CFCO railway.", "Located in the Niari Valley.", "Important center for the timber trade.", "Known for its mild climate due to elevation."]
-    },
-    
-    
-    
-  },
+      en: ["Named after a French administrator.", "Third largest city by population.", "Key junction on the CFCO railway.", "Located in the Niari Valley.", "Important center for the timber trade.", "Known for its mild climate due to elevation."] } },
+    image: "/poi-images/cg-dolisie-cities-v2.webp",
     description: {
       de: "Dolisie liegt im Südwesten der Republik Kongo und ist der wichtigste Ort im Departement Niari. Als Knoten an der Bahnlinie zwischen Brazzaville und Pointe-Noire verbindet die Stadt das Hinterland mit der Küste.",
       hu: "Dolisie, korábbi nevén Loubomo, az ország harmadik legnagyobb városa és fontos vasúti csomópont.",
@@ -128,16 +110,10 @@ image: "/poi-images/cg-dolisie-cities-v2.webp"
       de: "Nkayi stellt das industrielle Herz der Bouenza-Region dar und ist landesweit bekannt als Zentrum der Zuckerproduktion. In einer fruchtbaren Tiefebene gelegen, profitieren die umliegenden landwirtschaftlichen Betriebe von der hohen Bodenqualität, was Nkayi zu einem der bedeutendsten Agrarstandorte des Landes macht. Die Stadt ist durch die Eisenbahnlinie direkt in das nationale Logistiknetz eingebunden, wodurch die produzierten Güter effizient in den Export oder in die Hauptstadtregion transportiert werden können. Erdkunde K5 — Agrarwirtschaft und industrielle Zentren.",
       hu: "Nkayi a Kongói Köztársaság egyik meghatározó mezőgazdasági és ipari városa, amely különösen a cukortermeléséről ismert. A város a Niari-völgyben helyezkedik el, ahol a kiterjedt cukornádültetvények és a helyi cukorgyár a gazdaság gerincét alkotják. A gyár nemcsak munkát biztosít a környéken élőknek, de jelentős mértékben hozzájárul az ország cukorexportjához is. Nkayi környezete, a völgy gazdag termőföldjeivel, ideális feltételeket kínál az ipari méretű mezőgazdasági termeléshez. Földrajz K7 — mezőgazdasági iparágak.",
       ro: "Nkayi este un oraș din sudul Republicii Congo, renumit pentru industria sa zaharoasă și rolul său de centru agricol în regiunea Niari. Orașul găzduiește una dintre cele mai importante rafinării de zahăr din țară, susținând economia locală și exporturile. Istoria sa industrială a atras o populație diversă, formând un mediu urban activ în mijlocul peisajelor rurale. Dezvoltarea sa este strâns legată de exploatarea terenurilor fertile din valea fluviului Niari. Economie K6 — Agricultură industrială.",
-      en: "Nkayi is a significant industrial town located in the fertile Bouenza region, well-known for its sugar industry. It serves as an agricultural center, processing vast amounts of sugarcane grown in the surrounding plains. The town's development has been heavily influenced by the sugar refinery established during the colonial era. Sachkunde K5 — agriculture and industrial processing.",
-image: "/poi-images/cg-nkayi-cities-v2.webp"
-},
+      en: "Nkayi is a significant industrial town located in the fertile Bouenza region, well-known for its sugar industry. It serves as an agricultural center, processing vast amounts of sugarcane grown in the surrounding plains. The town's development has been heavily influenced by the sugar refinery established during the colonial era. Sachkunde K5 — agriculture and industrial processing."},
     factsAdvanced: {
-      en: ["Known as the 'sugar town'.", "Home to the SARIS-Congo refinery.", "Located in the productive Bouenza region.", "Crucial node for regional agricultural transport.", "Surrounded by vast sugarcane plantations.", "Important hub for local manufacturing."]
-    },
-    
-    
-    
-  },
+      en: ["Known as the 'sugar town'.", "Home to the SARIS-Congo refinery.", "Located in the productive Bouenza region.", "Crucial node for regional agricultural transport.", "Surrounded by vast sugarcane plantations.", "Important hub for local manufacturing."] } },
+    image: "/poi-images/cg-nkayi-cities-v2.webp",
     description: {
       de: "Nkayi ist eine bedeutende Industriestadt in der Bouenza-Region, bekannt für ihre Zuckerproduktion.",
       hu: "Nkayi jelentős ipari város a Bouenza régióban, amely cukortermeléséről ismert.",
@@ -166,16 +142,10 @@ image: "/poi-images/cg-nkayi-cities-v2.webp"
       de: "Impfondo ist die abgelegene Hauptstadt der Likouala-Region und liegt weit im Nordosten des Landes an den Ufern des Oubangui-Flusses. Aufgrund ihrer tiefen Lage in einer der größten zusammenhängenden Regenwaldregionen Afrikas ist Impfondo geografisch stark isoliert und fast ausschließlich über Wasserwege oder per Flugzeug erreichbar. Die Stadt dient als lebenswichtiges administratives Zentrum für die indigene Bevölkerung und die im Wald lebenden Gemeinden, wobei der Fluss Oubangui die einzige zuverlässige Verbindung zur Außenwelt darstellt. Sachkunde K4 — Leben im Regenwald und isolierte Siedlungen.",
       hu: "Impfondo a Kongói Köztársaság északkeleti részén, az északi tartományban, a Ubangi folyó partján elhelyezkedő fontos regionális központ. A város az Likouala tartomány székhelye, amely a Kongó folyó és mellékfolyóinak kiterjedt vizes élőhelyeit és trópusi erdőit öleli fel. Impfondo a folyami közlekedés révén összeköttetésben áll a szomszédos országokkal, és a környék fakitermelésének valamint a halászatnak a központja. A távoli terület kulturális és biológiai sokfélesége jelentős. Földrajz K6 — vizes élőhelyek és folyami régiók.",
       ro: "Impfondo, situat în nord-estul Republicii Congo, este capitala departamentului Likouala și un port fluvial esențial pe râul Ubangi. Regiunea este caracterizată de o biodiversitate vastă, fiind acoperită în mare parte de păduri tropicale virgine. Orașul funcționează ca un punct de distribuție pentru mărfurile care traversează bazinul fluviului Congo. Istoria locală reflectă viața pe cursul râurilor, unde comerțul și transportul fluvial sunt principalele mijloace de subzistență pentru comunități. Geografie K7 — Ecosisteme fluviale și viață rurală.",
-      en: "Impfondo is a remote, northern town located on the banks of the Oubangui River in the Likouala department. It serves as the primary logistical base for the surrounding vast swampland and remote rainforest regions. Life in Impfondo is dictated by the river and the seasons, which significantly influence trade and transport in this isolated area. Geography K8 — extreme regions and survival environments.",
-image: "/poi-images/cg-impfondo-cities-v2.webp"
-},
+      en: "Impfondo is a remote, northern town located on the banks of the Oubangui River in the Likouala department. It serves as the primary logistical base for the surrounding vast swampland and remote rainforest regions. Life in Impfondo is dictated by the river and the seasons, which significantly influence trade and transport in this isolated area. Geography K8 — extreme regions and survival environments."},
     factsAdvanced: {
-      en: ["Capital of the Likouala department.", "Located in the far northeast.", "Vital port for regional supply.", "Surrounded by extensive wetlands.", "Dependent on Oubangui river transport.", "Remote hub for logging and trade."]
-    },
-    
-    
-    
-  },
+      en: ["Capital of the Likouala department.", "Located in the far northeast.", "Vital port for regional supply.", "Surrounded by extensive wetlands.", "Dependent on Oubangui river transport.", "Remote hub for logging and trade."] } },
+    image: "/poi-images/cg-impfondo-cities-v2.webp",
     description: {
       de: "Impfondo liegt weit im Nordosten des Landes am Ubangi. Die Stadt ist die Hauptstadt der Likouala und prägt den Alltag in einer von Flüssen und Wäldern bestimmten Region.",
       hu: "Impfondo a Likouala megye sz?khelye az orsz?g ?szakkeleti r?sz?n, az Ubangi foly? partj?n. A v?ros folyami k?zleked?sre ?s region?lis k?zigazgat?sra ?p?l.",
@@ -204,16 +174,10 @@ image: "/poi-images/cg-impfondo-cities-v2.webp"
       de: "Ouésso, als vitales Handelszentrum an den Ufern des Sangha-Flusses gelegen, bildet das wirtschaftliche Rückgrat der nördlichen Sangha-Region. Die Stadt ist ein entscheidender Hub für die Holzindustrie, welche die lokale Wirtschaft maßgeblich bestimmt, und dient zudem als wichtiges Tor zur Grenze nach Kamerun. Durch die geografische Lage mitten im dichten tropischen Regenwald und die Anbindung an die Flussschifffahrt nach Brazzaville ist Ouésso sowohl für den regionalen Güteraustausch als auch für die Erschließung der abgelegenen nördlichen Gebiete von strategischer Bedeutung. Erdkunde K7 — Handelszentren im Regenwald.",
       hu: "Ouesso a Sangha tartomány székhelye, amely az észak-kongói erdőségek kereskedelmi és közigazgatási központja. A város a Sangha folyó partján helyezkedik el, amely fontos vízi útvonal a fűrészáru és egyéb trópusi termékek szállításához. Ouesso dinamikusan fejlődik a helyi fakitermelő ipar és a környező erdők gazdag biodiverzitásának köszönhetően. Földrajz K8 — trópusi erdőgazdálkodás.",
       ro: "Ouesso este situat în nordul Republicii Congo, pe malul râului Sangha, și servește drept centru administrativ și comercial pentru regiunea forestieră. Orașul este esențial pentru industria cherestelei, având un port fluvial care facilitează transportul masiv de lemn către centrele de export. Ouesso este un punct de plecare pentru explorarea parcurilor naționale și a rezervelor naturale din nordul țării. Istoria sa a fost modelată de exploatarea resurselor naturale forestiere și a comerțului fluvial istoric. Economie K7 — Resurse forestiere și sustenabilitate.",
-      en: "Ouesso is a crucial inland port and the administrative center of the Sangha department in northern Congo. Positioned on the Sangha River, it functions as a gateway to the dense rainforests of the north and a key hub for the logging industry. Its remote location makes river transport the primary connection to the rest of the country. Geography K7 — northern territories and river transport.",
-image: "/poi-images/cg-ouesso-cities-v2.webp"
-},
+      en: "Ouesso is a crucial inland port and the administrative center of the Sangha department in northern Congo. Positioned on the Sangha River, it functions as a gateway to the dense rainforests of the north and a key hub for the logging industry. Its remote location makes river transport the primary connection to the rest of the country. Geography K7 — northern territories and river transport."},
     factsAdvanced: {
-      en: ["Administrative hub of Sangha department.", "Strategic port on the Sangha River.", "Main base for regional forestry operations.", "Isolated from the capital by dense forest.", "Population represents various ethnic groups.", "Key transit point for northern trade."]
-    },
-    
-    
-    
-  },
+      en: ["Administrative hub of Sangha department.", "Strategic port on the Sangha River.", "Main base for regional forestry operations.", "Isolated from the capital by dense forest.", "Population represents various ethnic groups.", "Key transit point for northern trade."] } },
+    image: "/poi-images/cg-ouesso-cities-v2.webp",
     description: {
       de: "Ouésso ist eine Marktstadt im Norden des Kongo am Sangha-Fluss und das Zentrum der Sangha-Region.",
       hu: "Ouésso mezőváros Kongó északi részén, a Sangha-folyó partján, a Sangha régió központja.",
@@ -241,16 +205,10 @@ image: "/poi-images/cg-ouesso-cities-v2.webp"
       de: "Madingou fungiert als administratives Zentrum der Bouenza-Region und ist tief in die landwirtschaftliche Struktur des Kongos eingebettet. Die Region um die Stadt herum ist berühmt für ihre fruchtbaren Böden, die eine intensive landwirtschaftliche Nutzung für den Eigenbedarf sowie den regionalen Handel ermöglichen. Als Sitz der Verwaltung koordiniert Madingou maßgeblich die wirtschaftliche Entwicklung der umliegenden Agrargemeinschaften, wobei der Markt der Stadt ein zentraler Anlaufpunkt für die Versorgung der ländlichen Bevölkerung und die Verteilung von lokalen Agrarprodukten darstellt. Sachkunde K5 — Agrarzentren und Verwaltung.",
       hu: "Madingou a Bouenza tartomány székhelye, amely mezőgazdasági jelentőségéről ismert a Niari-völgyben. A környéken kiterjedt földművelés folyik, különösen a manióka és más trópusi élelmiszernövények termesztése a jellemző. A város fontos piaci központ, ahová a környék gazdálkodói hozzák el terményeiket értékesítésre. Földrajz K6 — regionális mezőgazdaság.",
       ro: "Madingou este un oraș administrativ situat în regiunea Bouenza, cunoscut pentru rolul său de centru agricol și comercial. Regiunea înconjurătoare este fertilă, oferind condiții optime pentru cultivarea maniocului, o resursă alimentară de bază în Republica Congo. Orașul servește ca punct de legătură pentru comunitățile rurale din regiunea Bouenza. Istoria sa este legată de activitățile agricole tradiționale și de integrarea în rețeaua administrativă națională. Geografie K5 — Agricultură de subzistență și comerț local.",
-      en: "Madingou is a tranquil yet important regional center in the Bouenza department, known for its focus on smallholder agriculture. It serves as a collection point for produce from the surrounding hills, particularly cassava and maize. The town maintains a strong link to traditional rural life while facilitating trade with urban centers. Sachkunde K5 — local food production systems.",
-image: "/poi-images/cg-madingou-cities-v2.webp"
-},
+      en: "Madingou is a tranquil yet important regional center in the Bouenza department, known for its focus on smallholder agriculture. It serves as a collection point for produce from the surrounding hills, particularly cassava and maize. The town maintains a strong link to traditional rural life while facilitating trade with urban centers. Sachkunde K5 — local food production systems."},
     factsAdvanced: {
-      en: ["Administrative center in Bouenza.", "Focus on cassava production.", "Supports rural smallholder farmers.", "Connects to larger trade networks.", "Market hub for regional produce.", "Known for its agricultural community."]
-    },
-    
-    
-    
-  },
+      en: ["Administrative center in Bouenza.", "Focus on cassava production.", "Supports rural smallholder farmers.", "Connects to larger trade networks.", "Market hub for regional produce.", "Known for its agricultural community."] } },
+    image: "/poi-images/cg-madingou-cities-v2.webp",
     description: {
       de: "Madingou ist eine Stadt im grünen Süden der Republik Kongo und Verwaltungssitz von Bouenza. Der Ort liegt an einer wichtigen Verkehrsachse zwischen den südlichen Landesteilen.",
       hu: "Madingou a Bouenza megy?ben fekv? v?ros, amely a k?rnyez? mez?gazdas?gi t?rs?g egyik k?zpontja. A d?l-kong?i bels? utak ?s kereskedelem fontos ?llom?sa.",
@@ -278,16 +236,10 @@ image: "/poi-images/cg-madingou-cities-v2.webp"
       de: "Owando, historisch unter dem Namen Fort-Rousset bekannt, liegt zentral im Norden der Republik Kongo und dient als administratives Zentrum der Cuvette-Region. Die Stadt ist strategisch am Ufer des Kouyou-Flusses positioniert, was sie seit jeher zu einem wichtigen Knotenpunkt für den Handel und die lokale Logistik macht. Durch die Funktion als regionales Verwaltungszentrum ist Owando heute entscheidend für die Koordination der ökonomischen und infrastrukturellen Aktivitäten in der Cuvette-Region, die eine wichtige Rolle bei der landwirtschaftlichen Erschließung des nördlichen Kongos spielt. Geschichte K8 — koloniale Ursprünge und regionale Entwicklung.",
       hu: "Owando a Cuvette tartomány központja, amely fontos folyami átkelőhely és kereskedelmi csomópont Észak-Kongóban. A város a Kouyou folyó mentén épült, és kereskedelmi kapcsolatai kiterjednek a folyó mentén található más településekre is. Owando stratégiai helyzete lehetővé teszi a régió különböző terményeinek és áruinak hatékony mozgatását. Földrajz K7 — regionális közlekedés.",
       ro: "Owando este un oraș situat în centrul Republicii Congo, pe malul râului Kouyou, servind ca capitală a departamentului Cuvette. Orașul este un nod comercial important pentru regiunea centrală, facilitând schimburile între nordul și sudul țării. Infrastructura sa administrativă și comercială susține viața comunităților care trăiesc în jurul bazinelor hidrografice. Istoria orașului evidențiază rolul său în integrarea administrativă a regiunilor centrale. Geografie K6 — Centre administrative și rețele comerciale.",
-      en: "Owando, formerly known as Fort-Rousset, is a key administrative and commercial town in the Cuvette region of central Congo. It sits on the Kouyou River and serves as a vital transition point between the northern and southern parts of the country. The town plays a significant role in local cattle ranching and river-based commerce. Geography K6 — central infrastructure and regional connections.",
-image: "/poi-images/cg-owando-cities-v2.webp"
-},
+      en: "Owando, formerly known as Fort-Rousset, is a key administrative and commercial town in the Cuvette region of central Congo. It sits on the Kouyou River and serves as a vital transition point between the northern and southern parts of the country. The town plays a significant role in local cattle ranching and river-based commerce. Geography K6 — central infrastructure and regional connections."},
     factsAdvanced: {
-      en: ["Renamed from Fort-Rousset.", "Capital of the Cuvette department.", "Strategically located in central Congo.", "Known for regional cattle markets.", "Hub for river-based northern trade.", "Important center for local administration."]
-    },
-    
-    
-    
-  },
+      en: ["Renamed from Fort-Rousset.", "Capital of the Cuvette department.", "Strategically located in central Congo.", "Known for regional cattle markets.", "Hub for river-based northern trade.", "Important center for local administration."] } },
+    image: "/poi-images/cg-owando-cities-v2.webp",
     description: {
       de: "Owando, früher Fort-Rousset, ist die Hauptstadt der Cuvette-Region im zentralen Norden des Landes.",
       hu: "Owando, korábbi nevén Fort-Rousset, a Cuvette régió fővárosa az ország északi-középső részén.",
@@ -315,15 +267,10 @@ image: "/poi-images/cg-owando-cities-v2.webp"
     descriptionAdvanced: {
       de: "Sibiti ist die Hauptstadt der Lékoumou-Region und zeichnet sich durch ihre Lage in einem malerischen, hügeligen Waldgelände aus, das sich deutlich von den tiefer gelegenen Tieflandregionen unterscheidet. Die Stadt ist aufgrund ihrer klimatisch günstigeren Bedingungen und der fruchtbaren Hügellandschaft ein Zentrum für landwirtschaftliche Aktivitäten, die sowohl den lokalen Markt als auch den Handel mit angrenzenden Gebieten unterstützen. Als administratives Zentrum übernimmt Sibiti eine zentrale Rolle in der Steuerung regionaler Ressourcen, wobei die Stadt auch als Ausgangspunkt für die Erforschung der vielfältigen Naturgebiete der Lékoumou-Region fungiert. Erdkunde K6 — Hochlandklima und regionale Nutzung.",
       hu: "Sibiti a Lékoumou tartomány székhelye, amely egy dombos, erdős vidéken fekszik. A város jelentősége a környék mezőgazdasági és fakitermelési tevékenységeiben rejlik, mivel a terület gazdag természeti erőforrásokban. Sibiti kulturálisan és földrajzilag a kongói belvidék egyik jellegzetes kisvárosa. Földrajz K6 — közép-kongói régiók.",
-      ro: "Sibiti este situat în departamentul Lékoumou, fiind un centru montan care oferă acces către peisaje naturale spectaculoase. Orașul este un nod local pentru comerțul cu produse forestiere și agricole, reflectând economia montană a regiunii. Înconjurat de relief variat, Sibiti joacă un rol important în dezvoltarea economică a zonei muntoase din sudul Republicii Congo. Istoria locală este legată de exploatarea sustenabilă a resurselor și de viața comunităților rurale din zonă. Geografie K6 — Relief montan și economie locală.",
-image: "/poi-images/cg-sibiti-cities-v2.webp"
-},
+      ro: "Sibiti este situat în departamentul Lékoumou, fiind un centru montan care oferă acces către peisaje naturale spectaculoase. Orașul este un nod local pentru comerțul cu produse forestiere și agricole, reflectând economia montană a regiunii. Înconjurat de relief variat, Sibiti joacă un rol important în dezvoltarea economică a zonei muntoase din sudul Republicii Congo. Istoria locală este legată de exploatarea sustenabilă a resurselor și de viața comunităților rurale din zonă. Geografie K6 — Relief montan și economie locală."},
     factsAdvanced: {
-      ro: ["Centru administrativ în departamentul Lékoumou", "Situat în zonă cu relief montan", "Hub local pentru produse forestiere", "Acces către peisaje naturale variate", "Economie bazată pe resurse locale", "Rol vital pentru comunitățile din regiunea muntoasă", "Importanță în dezvoltarea economică regională"]
-    },
-    
-    
-  },
+      ro: ["Centru administrativ în departamentul Lékoumou", "Situat în zonă cu relief montan", "Hub local pentru produse forestiere", "Acces către peisaje naturale variate", "Economie bazată pe resurse locale", "Rol vital pentru comunitățile din regiunea muntoasă", "Importanță în dezvoltarea economică regională"] } },
+    image: "/poi-images/cg-sibiti-cities-v2.webp",
     description: {
       de: "Sibiti ist die Hauptstadt der Lékoumou-Region und liegt in einer malerischen, hügeligen Waldlandschaft.",
       hu: "Sibiti a Lékoumou régió fővárosa, amely egy festői, dombos erdei tájon fekszik.",
@@ -350,15 +297,10 @@ image: "/poi-images/cg-sibiti-cities-v2.webp"
     descriptionAdvanced: {
       de: "Gamboma liegt strategisch in der Plateaux-Region an der wichtigen Nationalstraße 2, welche die Verbindung in den Norden des Landes herstellt. Als bedeutendes Handelszentrum dient die Stadt als Umschlagplatz für die landwirtschaftlichen Produkte des Plateaux-Gebiets, die von hier aus sowohl in die Hauptstadtregion als auch in die weiter nördlich gelegenen Provinzen vertrieben werden. Die Bedeutung Gambomas resultiert primär aus dieser Rolle als zentrales Bindeglied im landesweiten Transport- und Handelsnetz, wodurch sie die ökonomische Versorgung und den Austausch der Region entscheidend vorantreibt. Erdkunde K7 — Handelswege und nationale Infrastruktur.",
       hu: "Gamboma a Plateaux tartomány fontos városa, amely a kereskedelmi útvonalak metszéspontjában fekszik. A város környezete a Batéké-fennsíkhoz kapcsolódik, ahol a mezőgazdaság mellett a kereskedelem dominál. Gamboma a térség egyik központi elosztóhelye az áruk és termények számára. Földrajz K7 — kereskedelmi útvonalak.",
-      ro: "Gamboma este un oraș situat în regiunea Plateaux, un centru comercial esențial pentru comunitățile rurale din jurul platourilor înalte. Orașul este cunoscut pentru schimburile comerciale cu produse agricole și pentru rolul său de punct de oprire pe principalele rute rutiere care traversează țara. Istoria orașului a fost modelată de poziția sa strategică pe drumurile care leagă capitala de regiunile nordice. Geografie K6 — Rute comerciale și viață pe platouri.",
-image: "/poi-images/cg-gamboma-cities-v2.webp"
-},
+      ro: "Gamboma este un oraș situat în regiunea Plateaux, un centru comercial esențial pentru comunitățile rurale din jurul platourilor înalte. Orașul este cunoscut pentru schimburile comerciale cu produse agricole și pentru rolul său de punct de oprire pe principalele rute rutiere care traversează țara. Istoria orașului a fost modelată de poziția sa strategică pe drumurile care leagă capitala de regiunile nordice. Geografie K6 — Rute comerciale și viață pe platouri."},
     factsAdvanced: {
-      ro: ["Hub comercial în regiunea Plateaux", "Punct strategic pe rutele rutiere naționale", "Centru pentru schimbul de produse agricole", "Deservește comunitățile de pe platourile înalte", "Importanță logistică pentru tranzitul rutier", "Economie susținută de comerțul rutier", "Populație implicată în servicii și agricultură"]
-    },
-    
-    
-  },
+      ro: ["Hub comercial în regiunea Plateaux", "Punct strategic pe rutele rutiere naționale", "Centru pentru schimbul de produse agricole", "Deservește comunitățile de pe platourile înalte", "Importanță logistică pentru tranzitul rutier", "Economie susținută de comerțul rutier", "Populație implicată în servicii și agricultură"] } },
+    image: "/poi-images/cg-gamboma-cities-v2.webp",
     description: {
       de: "Gamboma liegt in den Plateaux im zentralen Kongo und dient als regionaler Markt- und Verwaltungsort. Die Stadt verbindet die Savannen des Inlandes mit den Verkehrswegen nach Brazzaville.",
       hu: "Gamboma a Plateaux r?gi? egyik fontos v?rosa K?z?p-Kong?ban. A telep?l?s a t?rs?g k?z?ti kapcsolataiban ?s ell?t?s?ban j?tszik szerepet.",
@@ -385,15 +327,10 @@ image: "/poi-images/cg-gamboma-cities-v2.webp"
     descriptionAdvanced: {
       de: "Mossendjo, gelegen in der Niari-Region des Kongos, ist historisch eng mit der Entwicklung der Forstwirtschaft verbunden, die über Jahrzehnte den wirtschaftlichen Puls der Stadt bestimmte. Eingebettet in eine hügelige, waldreiche Landschaft im Südwesten, hat Mossendjo eine bewegte Geschichte als ehemaliges Minenzentrum und bedeutender Standort für die Holzverarbeitung. Heute dient die Stadt als regionales Handelszentrum für die umliegenden Wald- und Agrargemeinschaften, wobei sie ihre koloniale Erbschaft und die Bedeutung für die Erschließung der natürlichen Ressourcen der Region bewahrt hat. Geschichte K8 — koloniale Wirtschaft und Walderschließung.",
       hu: "Mossendjo a Niari tartomány egyik városa, amely fontos helyi kereskedelmi központ a környék mezőgazdasági termelői számára. A város környéke a dombosabb tájak és az erdők határán helyezkedik el, ami változatos természeti környezetet biztosít. A kereskedelem mellett a helyi kézművesség is jelen van a város mindennapjaiban. Földrajz K6 — vidékfejlesztés.",
-      ro: "Mossendjo este un oraș situat în regiunea Niari, fiind un centru istoric și comercial în sud-vestul țării. Înconjurat de un relief variat, orașul joacă un rol important în dezvoltarea locală și în gestionarea resurselor agricole. Istoria sa reflectă tranziția de la activitățile coloniale la cele de dezvoltare modernă, menținându-și relevanța ca punct de legătură pentru comunitățile montane și rurale din regiune. Geografie K5 — Dezvoltare rurală și istorie locală.",
-image: "/poi-images/cg-mossendjo-cities-v2.webp"
-},
+      ro: "Mossendjo este un oraș situat în regiunea Niari, fiind un centru istoric și comercial în sud-vestul țării. Înconjurat de un relief variat, orașul joacă un rol important în dezvoltarea locală și în gestionarea resurselor agricole. Istoria sa reflectă tranziția de la activitățile coloniale la cele de dezvoltare modernă, menținându-și relevanța ca punct de legătură pentru comunitățile montane și rurale din regiune. Geografie K5 — Dezvoltare rurală și istorie locală."},
     factsAdvanced: {
-      ro: ["Oraș istoric în regiunea Niari", "Centru comercial pentru comunitățile montane", "Rol în gestionarea resurselor agricole locale", "Poziție strategică în sud-vestul țării", "Istorie marcată de evoluția administrativă", "Economie bazată pe agricultură și servicii", "Punct de legătură între zonele rurale"]
-    },
-    
-    
-  },
+      ro: ["Oraș istoric în regiunea Niari", "Centru comercial pentru comunitățile montane", "Rol în gestionarea resurselor agricole locale", "Poziție strategică în sud-vestul țării", "Istorie marcată de evoluția administrativă", "Economie bazată pe agricultură și servicii", "Punct de legătură între zonele rurale"] } },
+    image: "/poi-images/cg-mossendjo-cities-v2.webp",
     description: {
       de: "Mossendjo ist eine Stadt in der Niari-Region, die historisch eng mit der Forstwirtschaft verbunden ist.",
       hu: "Mossendjo a Niari régió egyik városa, amely történelmileg szorosan kapcsolódik az erdőgazdálkodáshoz.",
@@ -421,15 +358,10 @@ image: "/poi-images/cg-mossendjo-cities-v2.webp"
     descriptionAdvanced: {
       de: "Kinkala fungiert als administratives Zentrum der Pool-Region und ist geografisch günstig unweit der Landeshauptstadt Brazzaville positioniert. Diese strategische Nähe zur politischen und wirtschaftlichen Metropole des Landes hat Kinkala zu einem wichtigen logistischen und administrativen Bindeglied gemacht. Die Stadt spielt eine entscheidende Rolle bei der Koordination der landwirtschaftlichen Aktivitäten im Umland von Brazzaville, wobei sie als zentraler Umschlagplatz für frische Agrarerzeugnisse dient, die für die wachsende urbane Bevölkerung der Hauptstadt bestimmt sind. Erdkunde K7 — urbane Nähe und regionale Versorgungslogistik.",
       hu: "Kinkala a Pool tartomány székhelye, amely Brazzaville közvetlen közelében helyezkedik el, így fontos szerepet játszik a főváros és a vidéki területek összekapcsolásában. A város és környéke a mezőgazdasági termelés fontos helyszíne, ellátva a közeli főváros piacait friss élelmiszerekkel. A település történelmileg is jelentős szerepet töltött be a régió igazgatásában. Földrajz K7 — városi vonzáskörzetek.",
-      en: "Kinkala serves as the capital of the Pool department, located in the mountainous south near Brazzaville. It has historically been an important educational and administrative center, though it has faced significant challenges due to regional conflicts. Today, it remains a resilient hub for the surrounding rural populations. History K8 — post-colonial resilience and administrative centers.",
-image: "/poi-images/cg-kinkala-cities-v2.webp"
-},
+      en: "Kinkala serves as the capital of the Pool department, located in the mountainous south near Brazzaville. It has historically been an important educational and administrative center, though it has faced significant challenges due to regional conflicts. Today, it remains a resilient hub for the surrounding rural populations. History K8 — post-colonial resilience and administrative centers."},
     factsAdvanced: {
-      en: ["Capital of the Pool department.", "Located near the national capital.", "Historical focus on local education.", "Key administrative center for the south.", "Resilient community in the Pool area.", "Gateway to southern highland regions."]
-    },
-    
-    
-  },
+      en: ["Capital of the Pool department.", "Located near the national capital.", "Historical focus on local education.", "Key administrative center for the south.", "Resilient community in the Pool area.", "Gateway to southern highland regions."] } },
+    image: "/poi-images/cg-kinkala-cities-v2.webp",
     description: {
       de: "Kinkala ist das Verwaltungszentrum der Pool-Region, unweit der Hauptstadt Brazzaville gelegen.",
       hu: "Kinkala a Pool régió közigazgatási központja, nem messze a fővárostól, Brazzaville-től.",
@@ -456,14 +388,10 @@ image: "/poi-images/cg-kinkala-cities-v2.webp"
     ,
     descriptionAdvanced: {
       de: "Makoua ist eine faszinierende Stadt in der Cuvette-Region, deren geografische Lage fast exakt auf dem Äquator ein einzigartiges Merkmal darstellt. Die Stadt dient als lokales Handelszentrum am Likouala-Fluss und profitiert von einer lebendigen Marktkultur, die den Austausch zwischen den verschiedenen Gemeinschaften im zentralen Norden fördert. Aufgrund der äquatorialen Lage ist Makoua klimatisch durch ganzjährig hohe Temperaturen und intensive Niederschläge geprägt, was die lokale Flora und die damit verbundenen landwirtschaftlichen Aktivitäten in einem besonderen Maße bestimmt. Erdkunde K5 — geografische Besonderheiten und Äquatornähe.",
-      hu: "Makoua a Cuvette tartományban fekvő település, amely az Egyenlítő mentén elhelyezkedő erdőségek egyik kapuja. A város környéke kiemelt természeti értékeiről ismert, ahol a trópusi növény- és állatvilág megfigyelése különösen érdekes lehet. A fakitermelés mellett a fenntartható turizmus is egyre nagyobb teret nyer a környéken. Földrajz K8 — ökológiai központok.",
-image: "/poi-images/cg-makoua-cities-v2.webp"
-},
+      hu: "Makoua a Cuvette tartományban fekvő település, amely az Egyenlítő mentén elhelyezkedő erdőségek egyik kapuja. A város környéke kiemelt természeti értékeiről ismert, ahol a trópusi növény- és állatvilág megfigyelése különösen érdekes lehet. A fakitermelés mellett a fenntartható turizmus is egyre nagyobb teret nyer a környéken. Földrajz K8 — ökológiai központok."},
     factsAdvanced: {
-      hu: ["Makoua a Cuvette tartományban található.", "Az Egyenlítő közelében fekszik.", "Kapu a trópusi erdőségekhez.", "Kiemelt természeti értékekkel bír.", "Fontos központ a fakitermelésben.", "Növekvő szerep a fenntartható turizmusban."]
-    },
-    
-  },
+      hu: ["Makoua a Cuvette tartományban található.", "Az Egyenlítő közelében fekszik.", "Kapu a trópusi erdőségekhez.", "Kiemelt természeti értékekkel bír.", "Fontos központ a fakitermelésben.", "Növekvő szerep a fenntartható turizmusban."] } },
+    image: "/poi-images/cg-makoua-cities-v2.webp",
     description: {
       de: "Makoua ist eine Stadt im nördlichen Binnenland der Republik Kongo. Sie liegt in einer waldreichen Region der Cuvette und ist ein wichtiger Ort für die umliegenden Gemeinden.",
       hu: "Makoua a Cuvette megye ?szaki r?sz?n tal?lhat? v?ros, amely a k?rnyez? erd?s ?s mez?gazdas?gi ter?leteket szolg?lja ki. Helyi k?zigazgat?si ?s kereskedelmi szerepe van.",
@@ -489,14 +417,10 @@ image: "/poi-images/cg-makoua-cities-v2.webp"
     ,
     descriptionAdvanced: {
       de: "Djambala, die Hauptstadt der Plateaux-Region, thront auf einer beeindruckenden Hochebene und bietet durch seine Höhenlage von 800 Metern ein merklich kühleres und angenehmeres Klima als die umliegenden Tieflandgebiete. Diese klimatische Besonderheit hat Djambala zu einem Zentrum für spezialisierte landwirtschaftliche Anbauformen gemacht, insbesondere für die Produktion von Kartoffeln, die in der Region eine hohe Bedeutung haben. Als Sitz der regionalen Verwaltung koordiniert Djambala alle ökonomischen und infrastrukturellen Entwicklungen der Hochebene, was die Stadt zu einem essentiellen Ankerpunkt für die Versorgungssicherheit dieser Region macht. Erdkunde K6 — Höhenlage und spezialisierte Landwirtschaft.",
-      hu: "Djambala a Plateaux tartomány székhelye, amely a Batéké-fennsík egyik központi városa. A környező vidékre a szavannás táj és a ritkábban lakott területek jellemzőek, ahol az állattenyésztés és a mezőgazdaság jelenti a fő megélhetési forrást. A város a régió közigazgatási és kereskedelmi központjaként funkcionál. Földrajz K7 — szavannás régiók.",
-image: "/poi-images/cg-djambala-cities-v2.webp"
-},
+      hu: "Djambala a Plateaux tartomány székhelye, amely a Batéké-fennsík egyik központi városa. A környező vidékre a szavannás táj és a ritkábban lakott területek jellemzőek, ahol az állattenyésztés és a mezőgazdaság jelenti a fő megélhetési forrást. A város a régió közigazgatási és kereskedelmi központjaként funkcionál. Földrajz K7 — szavannás régiók."},
     factsAdvanced: {
-      hu: ["Djambala a Plateaux tartomány székhelye.", "A Batéké-fennsík egyik központja.", "Szavannás környezet jellemzi.", "Az állattenyésztés a fő megélhetés.", "Közigazgatási és kereskedelmi csomópont.", "A térség központi települése."]
-    },
-    
-  },
+      hu: ["Djambala a Plateaux tartomány székhelye.", "A Batéké-fennsík egyik központja.", "Szavannás környezet jellemzi.", "Az állattenyésztés a fő megélhetés.", "Közigazgatási és kereskedelmi csomópont.", "A térség központi települése."] } },
+    image: "/poi-images/cg-djambala-cities-v2.webp",
     description: {
       de: "Djambala ist die Hauptstadt der Plateaux im Zentrum des Landes. Die Stadt liegt in einer Hochebene und ist ein wichtiger Verwaltungsstandort der Region.",
       hu: "Djambala a Plateaux megye k?zigazgat?si k?zpontja. A v?ros a fenns?kvid?k egyik legfontosabb telep?l?se, ?s a t?rs?g szolg?ltat? k?zpontjak?nt m?k?dik.",
@@ -522,14 +446,10 @@ image: "/poi-images/cg-djambala-cities-v2.webp"
     ,
     descriptionAdvanced: {
       de: "Ewo ist das administrative Herz der Cuvette-Ouest-Region und liegt tief verborgen im Zentrum des kongolesischen tropischen Regenwaldes. Die geografische Abgeschiedenheit prägt das gesamte Leben in und um Ewo, wo die Anbindung an die moderne Infrastruktur eine ständige Herausforderung für die regionale Entwicklung darstellt. Dennoch ist Ewo als administrativer Mittelpunkt von entscheidender Bedeutung für die Koordination der lokalen Gemeinschaften und der nachhaltigen Waldnutzung, die hier eine zentrale Rolle für die ökonomische Basis der Menschen spielt. Sachkunde K4 — Leben im tropischen Regenwald und isolierte Standorte.",
-      hu: "Ewo a Cuvette-Ouest tartomány székhelye, amely az ország távolabbi, északi vidékein fekszik. A város környékét sűrű trópusi erdők és érintetlen természeti környezet jellemzi. Ewo a környékbeli közösségek számára fontos kereskedelmi és közigazgatási központ a távolabbi régiókban. Földrajz K6 — távoli régiók fejlődése.",
-image: "/poi-images/cg-ewo-cities-v2.webp"
-},
+      hu: "Ewo a Cuvette-Ouest tartomány székhelye, amely az ország távolabbi, északi vidékein fekszik. A város környékét sűrű trópusi erdők és érintetlen természeti környezet jellemzi. Ewo a környékbeli közösségek számára fontos kereskedelmi és közigazgatási központ a távolabbi régiókban. Földrajz K6 — távoli régiók fejlődése."},
     factsAdvanced: {
-      hu: ["Ewo a Cuvette-Ouest tartomány székhelye.", "Távoli, északi régióban található.", "Sűrű trópusi erdők övezik.", "Fontos kereskedelmi központ a régióban.", "Közigazgatási központja a térségnek.", "Érintetlen természeti környezettel bír."]
-    },
-    
-  },
+      hu: ["Ewo a Cuvette-Ouest tartomány székhelye.", "Távoli, északi régióban található.", "Sűrű trópusi erdők övezik.", "Fontos kereskedelmi központ a régióban.", "Közigazgatási központja a térségnek.", "Érintetlen természeti környezettel bír."] } },
+    image: "/poi-images/cg-ewo-cities-v2.webp",
     description: {
       de: "Ewo ist die Hauptstadt des Departements Cuvette-Ouest. Die kleine Stadt liegt im Nordwesten des Landes und bildet das Zentrum einer dünn besiedelten Region.",
       hu: "Ewo a Cuvette-Ouest régió fővárosa, a trópusi esőerdő szívében fekszik.",
@@ -554,13 +474,10 @@ image: "/poi-images/cg-ewo-cities-v2.webp"
       en: "Oyo"
     ,
     descriptionAdvanced: {
-      hu: "Oyo a Cuvette tartományban található jelentős város, amely stratégiai szerepet tölt be az észak-kongói régió életében. A város modern infrastruktúrával és kényelmi szolgáltatásokkal rendelkezik, ami népszerű központtá teszi mind a helyiek, mind a látogatók számára. A környező folyóvízi környezet és a természet közelsége miatt a turizmus és a kereskedelem egyaránt fontos a város fejlődésében. Földrajz K8 — városi infrastruktúra.",
-image: "/poi-images/cg-oyo-cities-v2.webp"
-},
+      hu: "Oyo a Cuvette tartományban található jelentős város, amely stratégiai szerepet tölt be az észak-kongói régió életében. A város modern infrastruktúrával és kényelmi szolgáltatásokkal rendelkezik, ami népszerű központtá teszi mind a helyiek, mind a látogatók számára. A környező folyóvízi környezet és a természet közelsége miatt a turizmus és a kereskedelem egyaránt fontos a város fejlődésében. Földrajz K8 — városi infrastruktúra."},
     factsAdvanced: {
-      hu: ["Oyo a Cuvette tartomány jelentős városa.", "Stratégiai szerepet tölt be Észak-Kongóban.", "Modern infrastruktúrával rendelkezik.", "Fontos központja a regionális kereskedelemnek.", "Természeti környezete kedvező a turizmusnak.", "A régió fejlődő települései közé tartozik."]
-    }
-  },
+      hu: ["Oyo a Cuvette tartomány jelentős városa.", "Stratégiai szerepet tölt be Észak-Kongóban.", "Modern infrastruktúrával rendelkezik.", "Fontos központja a regionális kereskedelemnek.", "Természeti környezete kedvező a turizmusnak.", "A régió fejlődő települései közé tartozik."] } },
+    image: "/poi-images/cg-oyo-cities-v2.webp",
     description: {
       de: "Oyo ist eine strategisch wichtige Stadt am Alima-Fluss, bekannt als Geburtsort des Präsidenten Denis Sassou-Nguesso.",
       hu: "Oyo egy stratégiailag fontos város az Alima-folyó partján, Denis Sassou-Nguesso elnök szülőhelyeként ismert.",
@@ -585,13 +502,10 @@ image: "/poi-images/cg-oyo-cities-v2.webp"
       en: "Boundji"
     ,
     descriptionAdvanced: {
-      hu: "Boundji a Cuvette tartomány egy városa, amely a környező erdős és szavannás tájak kereszteződésében fekszik. A település fontos megállóhely a régióban zajló kereskedelmi útvonalakon, ahol a helyi termékek forgalmazása kiemelt jelentőséggel bír. Boundji a környékbeli mezőgazdasági közösségek számára fontos kereskedelmi és ellátási csomópont. Földrajz K6 — közlekedési megállók.",
-image: "/poi-images/cg-boundji-cities-v2.webp"
-},
+      hu: "Boundji a Cuvette tartomány egy városa, amely a környező erdős és szavannás tájak kereszteződésében fekszik. A település fontos megállóhely a régióban zajló kereskedelmi útvonalakon, ahol a helyi termékek forgalmazása kiemelt jelentőséggel bír. Boundji a környékbeli mezőgazdasági közösségek számára fontos kereskedelmi és ellátási csomópont. Földrajz K6 — közlekedési megállók."},
     factsAdvanced: {
-      hu: ["Boundji a Cuvette tartomány települése.", "Erdős és szavannás tájakon fekszik.", "Kereskedelmi útvonalak fontos megállója.", "A helyi termékek elosztóközpontja.", "Mezőgazdasági közösségek ellátási pontja.", "A térség kereskedelmi csomópontja."]
-    }
-  },
+      hu: ["Boundji a Cuvette tartomány települése.", "Erdős és szavannás tájakon fekszik.", "Kereskedelmi útvonalak fontos megállója.", "A helyi termékek elosztóközpontja.", "Mezőgazdasági közösségek ellátási pontja.", "A térség kereskedelmi csomópontja."] } },
+    image: "/poi-images/cg-boundji-cities-v2.webp",
     description: {
       de: "Boundji liegt in der Cuvette im nördlichen Kongo und ist ein regionaler Ort zwischen Wald und Savanne. Der Ort versorgt die Umgebung mit Handel und öffentlichen Diensten.",
       hu: "Boundji egy történelmi város a Cuvette régióban, amely kulturális jelentőségéről ismert.",
@@ -616,13 +530,10 @@ image: "/poi-images/cg-boundji-cities-v2.webp"
       en: "Loutété"
     ,
     descriptionAdvanced: {
-      hu: "Loutété a Bouenza tartomány városa, amely különösen az ipari tevékenységeiről, köztük a cementgyártásról ismert. A város fontos ipari központ a régióban, amely munkalehetőséget biztosít a környéken élők számára. Infrastruktúrája és elhelyezkedése elősegíti a gazdasági aktivitást a Niari-völgy térségében. Földrajz K8 — nehézipari központok.",
-image: "/poi-images/cg-loutete-cities-v2.webp"
-},
+      hu: "Loutété a Bouenza tartomány városa, amely különösen az ipari tevékenységeiről, köztük a cementgyártásról ismert. A város fontos ipari központ a régióban, amely munkalehetőséget biztosít a környéken élők számára. Infrastruktúrája és elhelyezkedése elősegíti a gazdasági aktivitást a Niari-völgy térségében. Földrajz K8 — nehézipari központok."},
     factsAdvanced: {
-      hu: ["Loutété a Bouenza tartomány városa.", "Ismert a cementgyártásáról.", "Fontos ipari központ a régióban.", "Munkát biztosít a helyi lakosoknak.", "Jelentős gazdasági aktivitással rendelkezik.", "A Niari-völgy ipari csomópontja."]
-    }
-  },
+      hu: ["Loutété a Bouenza tartomány városa.", "Ismert a cementgyártásáról.", "Fontos ipari központ a régióban.", "Munkát biztosít a helyi lakosoknak.", "Jelentős gazdasági aktivitással rendelkezik.", "A Niari-völgy ipari csomópontja."] } },
+    image: "/poi-images/cg-loutete-cities-v2.webp",
     description: {
       de: "Loutété ist ein bedeutendes Industriezentrum in der Bouenza-Region, vor allem für seine Zementproduktion bekannt.",
       hu: "Loutété jelentős ipari központ a Bouenza régióban, elsősorban cementgyártásáról ismert.",
@@ -647,13 +558,10 @@ image: "/poi-images/cg-loutete-cities-v2.webp"
       en: "Mindouli"
     ,
     descriptionAdvanced: {
-      hu: "Mindouli a Pool tartomány egy városa, amely történelmileg a bányászatáról és a környező vidék gazdag természeti kincseiről ismert. A város a régió bányászati örökségének egyik fontos állomása, ahol a múltbéli tevékenységek nyomai ma is meghatározzák a település karakterét. Mindouli környezete változatos domborzatú, erdőkkel és rétekkel. Földrajz K6 — bányászati történelem.",
-image: "/poi-images/cg-mindouli-cities-v2.webp"
-},
+      hu: "Mindouli a Pool tartomány egy városa, amely történelmileg a bányászatáról és a környező vidék gazdag természeti kincseiről ismert. A város a régió bányászati örökségének egyik fontos állomása, ahol a múltbéli tevékenységek nyomai ma is meghatározzák a település karakterét. Mindouli környezete változatos domborzatú, erdőkkel és rétekkel. Földrajz K6 — bányászati történelem."},
     factsAdvanced: {
-      hu: ["Mindouli a Pool tartomány városa.", "Történelmileg bányászati központ.", "Gazdag természeti kincsekkel rendelkezik.", "Bányászati örökség határozza meg a karakterét.", "Változatos domborzatú környezet jellemzi.", "Erdők és rétek alkotják a tájat."]
-    }
-  },
+      hu: ["Mindouli a Pool tartomány városa.", "Történelmileg bányászati központ.", "Gazdag természeti kincsekkel rendelkezik.", "Bányászati örökség határozza meg a karakterét.", "Változatos domborzatú környezet jellemzi.", "Erdők és rétek alkotják a tájat."] } },
+    image: "/poi-images/cg-mindouli-cities-v2.webp",
     description: {
       de: "Mindouli liegt im Departement Pool südlich von Brazzaville. Der Ort ist mit dem Verkehrsnetz der Hauptstadt verbunden und gehört zu den älteren Siedlungen im Umland.",
       hu: "Mindouli a Pool megye d?lnyugati r?sz?n fekv? telep?l?s, amely a Brazzaville ?s a d?li ?tvonalak ment?n fekszik. K?zleked?si ?s mez?gazdas?gi jelent?s?ge van.",
@@ -679,14 +587,10 @@ image: "/poi-images/cg-mindouli-cities-v2.webp"
     ,
     descriptionAdvanced: {
       hu: "Mossaka a Cuvette tartomány egy fontos folyami kikötővárosa, amely a Kongó folyó partján fekszik. A település a folyami kereskedelem kulcsfontosságú csomópontja, ahol a hajózás és a halászat határozza meg az emberek mindennapjait. A város környezete a folyó által táplált mocsaras területekkel és gazdag vízi élővilággal jellemzett. Földrajz K7 — vízi kereskedelem.",
-      en: "Mossaka is a unique and bustling river town situated at the confluence of the Congo and Sangha rivers. It is famous for being a major center for smoked fish trade, which is transported downriver to larger cities. The town's architecture and social life are intensely shaped by its riverine setting and constant commercial traffic. Sachkunde K4 — water as a resource and local trade.",
-image: "/poi-images/cg-mossaka-cities-v2.webp"
-},
+      en: "Mossaka is a unique and bustling river town situated at the confluence of the Congo and Sangha rivers. It is famous for being a major center for smoked fish trade, which is transported downriver to larger cities. The town's architecture and social life are intensely shaped by its riverine setting and constant commercial traffic. Sachkunde K4 — water as a resource and local trade."},
     factsAdvanced: {
-      en: ["Located at major river confluence.", "Primary center for the smoked fish trade.", "Vital transit point for river shipping.", "Daily life centers on the riverbank.", "Trade flows down to Brazzaville.", "Unique settlement pattern on water."]
-    },
-    
-  },
+      en: ["Located at major river confluence.", "Primary center for the smoked fish trade.", "Vital transit point for river shipping.", "Daily life centers on the riverbank.", "Trade flows down to Brazzaville.", "Unique settlement pattern on water."] } },
+    image: "/poi-images/cg-mossaka-cities-v2.webp",
     description: {
       de: "Mossaka ist eine Flussstadt an den Wasserwegen der Cuvette im Norden des Landes. Der Ort ist vor allem durch Fischerei und den Verkehr auf dem Wasser geprägt.",
       hu: "Mossaka fontos kikötőváros a Kongó és a Sangha összefolyásánál, halászatáról ismert.",
@@ -711,13 +615,10 @@ image: "/poi-images/cg-mossaka-cities-v2.webp"
       en: "Etoumbi"
     ,
     descriptionAdvanced: {
-      hu: "Etoumbi egy elszigetelt, erdős környezetben fekvő település a Cuvette-Ouest tartományban. A város híres a vadászati és gyűjtögető hagyományairól, amelyek mélyen beépültek a helyi közösség mindennapi életébe. A környék sűrű trópusi erdői gazdag élővilágot rejtenek, ami különlegessé teszi ezt a távoli kongói vidéket. Földrajz K8 — hagyományos életmód.",
-image: "/poi-images/cg-etoumbi-cities-v2.webp"
-},
+      hu: "Etoumbi egy elszigetelt, erdős környezetben fekvő település a Cuvette-Ouest tartományban. A város híres a vadászati és gyűjtögető hagyományairól, amelyek mélyen beépültek a helyi közösség mindennapi életébe. A környék sűrű trópusi erdői gazdag élővilágot rejtenek, ami különlegessé teszi ezt a távoli kongói vidéket. Földrajz K8 — hagyományos életmód."},
     factsAdvanced: {
-      hu: ["Etoumbi elszigetelt erdős területen fekszik.", "Híres a vadászati és gyűjtögető hagyományairól.", "A helyi közösség életét a hagyományok határozzák meg.", "Sűrű trópusi erdők övezik.", "Gazdag élővilággal rendelkező régió.", "Távoli kongói település a Cuvette-Ouest régióban."]
-    }
-  },
+      hu: ["Etoumbi elszigetelt erdős területen fekszik.", "Híres a vadászati és gyűjtögető hagyományairól.", "A helyi közösség életét a hagyományok határozzák meg.", "Sűrű trópusi erdők övezik.", "Gazdag élővilággal rendelkező régió.", "Távoli kongói település a Cuvette-Ouest régióban."] } },
+    image: "/poi-images/cg-etoumbi-cities-v2.webp",
     description: {
       de: "Etoumbi liegt in Cuvette-Ouest im Nordwesten der Republik Kongo. Die Stadt ist von dichtem Wald geprägt und dient als Ausgangspunkt für die umliegenden Dörfer.",
       hu: "Etoumbi a Cuvette-Ouest t?rs?g egyik v?rosa, a s?r? erd?s?gek k?zel?ben. A telep?l?s a k?rnyez? k?z?ss?gek ell?t?s?ban ?s a helyi igazgat?sban fontos.",
@@ -743,13 +644,10 @@ image: "/poi-images/cg-etoumbi-cities-v2.webp"
       en: "Sembe"
     ,
     descriptionAdvanced: {
-      hu: "Sembé a Sangha tartomány egy városa, amely az északi erdőségek és a fakitermelő területek közelében helyezkedik el. A település a környékbeli fakitermelők és mezőgazdászok számára nyújt kereskedelmi és ellátási szolgáltatásokat. A város környezete a kongói északi régiókra jellemző, dús növényzettel és vizes élőhelyekkel. Földrajz K6 — északi erdőgazdálkodás.",
-image: "/poi-images/cg-sembe-cities-v2.webp"
-},
+      hu: "Sembé a Sangha tartomány egy városa, amely az északi erdőségek és a fakitermelő területek közelében helyezkedik el. A település a környékbeli fakitermelők és mezőgazdászok számára nyújt kereskedelmi és ellátási szolgáltatásokat. A város környezete a kongói északi régiókra jellemző, dús növényzettel és vizes élőhelyekkel. Földrajz K6 — északi erdőgazdálkodás."},
     factsAdvanced: {
-      hu: ["Sembé a Sangha tartomány városa.", "Északi erdőségek és fakitermelő területek közelében fekszik.", "Fontos kereskedelmi és ellátási központ.", "A környékbeli fakitermelők központja.", "Dús növényzettel és vizes élőhelyekkel rendelkező régió.", "Észak-Kongó egyik jelentősebb települése."]
-    }
-  },
+      hu: ["Sembé a Sangha tartomány városa.", "Északi erdőségek és fakitermelő területek közelében fekszik.", "Fontos kereskedelmi és ellátási központ.", "A környékbeli fakitermelők központja.", "Dús növényzettel és vizes élőhelyekkel rendelkező régió.", "Észak-Kongó egyik jelentősebb települése."] } },
+    image: "/poi-images/cg-sembe-cities-v2.webp",
     description: {
       de: "Sembé liegt im Norden der Sangha nahe den Grenzen zu den Nachbarländern. Die Stadt ist ein kleiner Verwaltungsort in einer abgelegenen Waldzone.",
       hu: "Semb? ?szak-Kong? egyik hat?rk?zeli telep?l?se, a Sangha t?rs?gben. A v?ros a k?rnyez? erd?s vid?kre ?s a hat?rmenti kapcsolatokra ?p?l.",
@@ -775,13 +673,10 @@ image: "/poi-images/cg-sembe-cities-v2.webp"
       en: "Kellé"
     ,
     descriptionAdvanced: {
-      hu: "Kellé a Cuvette-Ouest tartomány egyik városa, amely a környező erdős területeken való gazdálkodás központja. A város környékének természeti környezete érintetlen és gazdag biodiverzitású, ami jelentős lehetőséget rejt a fenntartható gazdálkodás számára. Kellé a távolabbi közösségek számára is ellátási pontként szolgál. Földrajz K6 — fenntartható gazdálkodás.",
-image: "/poi-images/cg-kelle-cities-v2.webp"
-},
+      hu: "Kellé a Cuvette-Ouest tartomány egyik városa, amely a környező erdős területeken való gazdálkodás központja. A város környékének természeti környezete érintetlen és gazdag biodiverzitású, ami jelentős lehetőséget rejt a fenntartható gazdálkodás számára. Kellé a távolabbi közösségek számára is ellátási pontként szolgál. Földrajz K6 — fenntartható gazdálkodás."},
     factsAdvanced: {
-      hu: ["Kellé a Cuvette-Ouest tartomány városa.", "Erdős területek gazdálkodási központja.", "Érintetlen természeti környezettel bír.", "Gazdag biodiverzitás jellemzi a környéket.", "Fontos ellátási pont a távolabbi közösségeknek.", "Fenntartható gazdálkodási lehetőségekkel rendelkező régió."]
-    }
-  },
+      hu: ["Kellé a Cuvette-Ouest tartomány városa.", "Erdős területek gazdálkodási központja.", "Érintetlen természeti környezettel bír.", "Gazdag biodiverzitás jellemzi a környéket.", "Fontos ellátási pont a távolabbi közösségeknek.", "Fenntartható gazdálkodási lehetőségekkel rendelkező régió."] } },
+    image: "/poi-images/cg-kelle-cities-v2.webp",
     description: {
       de: "Kellé ist eine abgelegene Siedlung in der Cuvette-Ouest-Region, bekannt für ihre unberührte Natur.",
       hu: "Kellé egy távoli település a Cuvette-Ouest régióban, érintetlen természetéről ismert.",
@@ -806,13 +701,10 @@ image: "/poi-images/cg-kelle-cities-v2.webp"
       en: "Mouyondzi"
     ,
     descriptionAdvanced: {
-      hu: "Mouyondzi a Bouenza tartomány dombos tájain fekvő város, amely mezőgazdasági tevékenységeiről és a helyi piacairól híres. A város környékén a földművelés hagyományos módszerei dominálnak, a lakosság nagy része a környező termőföldeken dolgozik. Mouyondzi fontos összekötő pont a régió kisebb települései között. Földrajz K6 — közép-kongói mezőgazdaság.",
-image: "/poi-images/cg-mouyondzi-cities-v2.webp"
-},
+      hu: "Mouyondzi a Bouenza tartomány dombos tájain fekvő város, amely mezőgazdasági tevékenységeiről és a helyi piacairól híres. A város környékén a földművelés hagyományos módszerei dominálnak, a lakosság nagy része a környező termőföldeken dolgozik. Mouyondzi fontos összekötő pont a régió kisebb települései között. Földrajz K6 — közép-kongói mezőgazdaság."},
     factsAdvanced: {
-      hu: ["Mouyondzi a Bouenza tartomány dombos vidékén fekszik.", "Híres mezőgazdasági tevékenységeiről.", "Helyi piaca fontos regionális kereskedelmi helyszín.", "Hagyományos földművelési módszerek dominálnak.", "A lakosság főleg mezőgazdasággal foglalkozik.", "Összekötő pont a régió kisebb települései között."]
-    }
-  },
+      hu: ["Mouyondzi a Bouenza tartomány dombos vidékén fekszik.", "Híres mezőgazdasági tevékenységeiről.", "Helyi piaca fontos regionális kereskedelmi helyszín.", "Hagyományos földművelési módszerek dominálnak.", "A lakosság főleg mezőgazdasággal foglalkozik.", "Összekötő pont a régió kisebb települései között."] } },
+    image: "/poi-images/cg-mouyondzi-cities-v2.webp",
     description: {
       de: "Mouyondzi liegt im Departement Bouenza im Südwesten des Landes. Die Stadt ist von Landwirtschaft und regionalem Handel geprägt.",
       hu: "Mouyondzi a Bouenza megy?ben fekv? v?ros, amely a mez?gazdas?gi termel?ter?letek kiszolg?l?s?ban szerepet j?tszik. Helyi kereskedelmi k?zpontk?nt is m?k?dik.",
@@ -838,13 +730,10 @@ image: "/poi-images/cg-mouyondzi-cities-v2.webp"
       en: "Kindamba"
     ,
     descriptionAdvanced: {
-      hu: "Kindamba a Pool tartomány egy városa, amely a régió dombos, erdős részén fekszik. A település környéke történelmileg mezőgazdasági központ, ahol a helyi közösségek az erdők és a termőföldek erőforrásait hasznosítják. Kindamba a térség egyik jellegzetes kisvárosa, amely az itt élő közösségek kereskedelmi életét szolgálja. Földrajz K6 — vidéki közösségek.",
-image: "/poi-images/cg-kindamba-cities-v2.webp"
-},
+      hu: "Kindamba a Pool tartomány egy városa, amely a régió dombos, erdős részén fekszik. A település környéke történelmileg mezőgazdasági központ, ahol a helyi közösségek az erdők és a termőföldek erőforrásait hasznosítják. Kindamba a térség egyik jellegzetes kisvárosa, amely az itt élő közösségek kereskedelmi életét szolgálja. Földrajz K6 — vidéki közösségek."},
     factsAdvanced: {
-      hu: ["Kindamba a Pool tartomány városa.", "Dombos, erdős területen fekszik.", "Történelmileg mezőgazdasági központ.", "A helyi közösségek az erdők erőforrásait használják.", "Kereskedelmi életet szolgáló kisváros.", "A Pool tartomány jellegzetes települése."]
-    }
-  },
+      hu: ["Kindamba a Pool tartomány városa.", "Dombos, erdős területen fekszik.", "Történelmileg mezőgazdasági központ.", "A helyi közösségek az erdők erőforrásait használják.", "Kereskedelmi életet szolgáló kisváros.", "A Pool tartomány jellegzetes települése."] } },
+    image: "/poi-images/cg-kindamba-cities-v2.webp",
     description: {
       de: "Kindamba ist eine historische Missionsstadt in der Pool-Region, bekannt für ihre koloniale Architektur.",
       hu: "Kindamba a Pool megy?ben fekv? telep?l?s, amely a vid?ki bels? t?rs?ghez kapcsol?dik. A k?rnyez? falvak sz?m?ra fontos igazgat?si pont.",
@@ -870,13 +759,10 @@ image: "/poi-images/cg-kindamba-cities-v2.webp"
       en: "Boko"
     ,
     descriptionAdvanced: {
-      hu: "Boko a Pool tartomány egy városa, amely Brazzaville közelében található, fontos szerepet játszva a főváros ellátásában. A környék a mezőgazdasági termeléséről és a helyi gazdák piacairól ismert, amelyek a fővárosi lakosság szükségleteit fedezik. A város a régió vidékiesebb részén fekszik, megőrizve hagyományos életformáját. Földrajz K6 — ellátási láncok.",
-image: "/poi-images/cg-boko-cities-v2.webp"
-},
+      hu: "Boko a Pool tartomány egy városa, amely Brazzaville közelében található, fontos szerepet játszva a főváros ellátásában. A környék a mezőgazdasági termeléséről és a helyi gazdák piacairól ismert, amelyek a fővárosi lakosság szükségleteit fedezik. A város a régió vidékiesebb részén fekszik, megőrizve hagyományos életformáját. Földrajz K6 — ellátási láncok."},
     factsAdvanced: {
-      hu: ["Boko a Pool tartomány városa.", "Fontos szerepet játszik a főváros ellátásában.", "Brazzaville közvetlen közelében fekszik.", "A mezőgazdasági termelés központja.", "Hagyományos életformát őrző település.", "A helyi gazdák piacai kiemelt jelentőségűek."]
-    }
-  },
+      hu: ["Boko a Pool tartomány városa.", "Fontos szerepet játszik a főváros ellátásában.", "Brazzaville közvetlen közelében fekszik.", "A mezőgazdasági termelés központja.", "Hagyományos életformát őrző település.", "A helyi gazdák piacai kiemelt jelentőségűek."] } },
+    image: "/poi-images/cg-boko-cities-v2.webp",
     description: {
       de: "Boko liegt südlich von Brazzaville im Departement Pool. Der Ort ist Teil des landwirtschaftlichen Umlands der Hauptstadt.",
       hu: "Boko a Pool megye egyik kisebb v?rosa Brazzaville k?zel?ben. A f?v?ros k?rny?ki telep?l?sk?nt k?z?ti ?s helyi gazdas?gi kapcsolatokkal rendelkezik.",
@@ -901,13 +787,10 @@ image: "/poi-images/cg-boko-cities-v2.webp"
       en: "Louingui"
     ,
     descriptionAdvanced: {
-      hu: "Louingui a Pool tartomány egy kisebb városa, amely a régió dombos tájain terül el. A környék lakossága főként mezőgazdasággal és kisebb léptékű állattenyésztéssel foglalkozik, kihasználva a termékeny földeket. A település a környékbeli közösségek számára kereskedelmi központként szolgál. Földrajz K6 — közép-kongói vidék.",
-image: "/poi-images/cg-louingui-cities-v2.webp"
-},
+      hu: "Louingui a Pool tartomány egy kisebb városa, amely a régió dombos tájain terül el. A környék lakossága főként mezőgazdasággal és kisebb léptékű állattenyésztéssel foglalkozik, kihasználva a termékeny földeket. A település a környékbeli közösségek számára kereskedelmi központként szolgál. Földrajz K6 — közép-kongói vidék."},
     factsAdvanced: {
-      hu: ["Louingui a Pool tartomány városa.", "Dombos tájon fekszik.", "Fő tevékenység a mezőgazdaság.", "Kis léptékű állattenyésztés jellemzi.", "Termékeny földekkel rendelkezik.", "A környék közösségeinek kereskedelmi csomópontja."]
-    }
-  },
+      hu: ["Louingui a Pool tartomány városa.", "Dombos tájon fekszik.", "Fő tevékenység a mezőgazdaság.", "Kis léptékű állattenyésztés jellemzi.", "Termékeny földekkel rendelkezik.", "A környék közösségeinek kereskedelmi csomópontja."] } },
+    image: "/poi-images/cg-louingui-cities-v2.webp",
     description: {
       de: "Louingui ist eine kleine Stadt im Pool und liegt in der Nähe von Brazzaville. Sie gehört zum weiten Umland der Hauptstadt und hat vor allem lokale Bedeutung.",
       hu: "Louingui a Pool megy?ben tal?lhat?, Brazzaville d?li t?rs?g?hez kapcsol?d? telep?l?s. A helyi k?zleked?sben ?s a falusi ell?t?sban van szerepe.",
@@ -933,13 +816,10 @@ image: "/poi-images/cg-louingui-cities-v2.webp"
       en: "Loudima"
     ,
     descriptionAdvanced: {
-      hu: "Loudima a Bouenza tartomány egyik fontos városa, amely a Niari-völgy közlekedési vonalain fekszik. A település kereskedelmi és mezőgazdasági szempontból is jelentős, mivel a környék terményeinek elosztásában és szállításában játszik kulcsszerepet. A város környezete tipikus kongói alföldi-dombos táj. Földrajz K6 — regionális logisztika.",
-image: "/poi-images/cg-loudima-cities-v2.webp"
-},
+      hu: "Loudima a Bouenza tartomány egyik fontos városa, amely a Niari-völgy közlekedési vonalain fekszik. A település kereskedelmi és mezőgazdasági szempontból is jelentős, mivel a környék terményeinek elosztásában és szállításában játszik kulcsszerepet. A város környezete tipikus kongói alföldi-dombos táj. Földrajz K6 — regionális logisztika."},
     factsAdvanced: {
-      hu: ["Loudima a Bouenza tartomány városa.", "A Niari-völgy közlekedési vonalain fekszik.", "Kereskedelmi és mezőgazdasági központ.", "Fontos szerepet játszik a termények elosztásában.", "Közlekedési csomópont a régióban.", "Tipikus kongói táj jellemzi."]
-    }
-  },
+      hu: ["Loudima a Bouenza tartomány városa.", "A Niari-völgy közlekedési vonalain fekszik.", "Kereskedelmi és mezőgazdasági központ.", "Fontos szerepet játszik a termények elosztásában.", "Közlekedési csomópont a régióban.", "Tipikus kongói táj jellemzi."] } },
+    image: "/poi-images/cg-loudima-cities-v2.webp",
     description: {
       de: "Loudima liegt im Departement Bouenza an einer wichtigen Verkehrsachse des Südens. Die Stadt ist ein regionaler Stützpunkt zwischen den größeren Orten im Süden.",
       hu: "Loudima a Bouenza régió egyik városa, stratégiai helyen a Kongó-Óceán vasút mentén.",
@@ -965,13 +845,10 @@ image: "/poi-images/cg-loudima-cities-v2.webp"
       en: "Zanaga"
     ,
     descriptionAdvanced: {
-      hu: "Zanaga a Lékoumou tartomány egy városa, amely jelentős bányászati potenciáljáról ismert, különösen a vasérc tekintetében. A város környéke hatalmas természeti erőforrásokat rejt, amelyek hosszú távon a régió gazdasági fejlődését alapozhatják meg. A település fejlődése szorosan összefügg a bányászati projektekkel. Földrajz K8 — ásványi erőforrások.",
-image: "/poi-images/cg-zanaga-cities-v2.webp"
-},
+      hu: "Zanaga a Lékoumou tartomány egy városa, amely jelentős bányászati potenciáljáról ismert, különösen a vasérc tekintetében. A város környéke hatalmas természeti erőforrásokat rejt, amelyek hosszú távon a régió gazdasági fejlődését alapozhatják meg. A település fejlődése szorosan összefügg a bányászati projektekkel. Földrajz K8 — ásványi erőforrások."},
     factsAdvanced: {
-      hu: ["Zanaga a Lékoumou tartomány városa.", "Jelentős vasérclelőhelyekkel rendelkezik.", "Bányászati potenciáljáról ismert régió.", "A jövőbeli gazdasági fejlődés alapja a bányászat.", "Hatalmas természeti erőforrásokat rejt a környék.", "A bányászati projektek alakítják a település életét."]
-    }
-  },
+      hu: ["Zanaga a Lékoumou tartomány városa.", "Jelentős vasérclelőhelyekkel rendelkezik.", "Bányászati potenciáljáról ismert régió.", "A jövőbeli gazdasági fejlődés alapja a bányászat.", "Hatalmas természeti erőforrásokat rejt a környék.", "A bányászati projektek alakítják a település életét."] } },
+    image: "/poi-images/cg-zanaga-cities-v2.webp",
     description: {
       de: "Zanaga ist eine Stadt in der Lékoumou-Region, bekannt für ihre riesigen Eisenerzvorkommen.",
       hu: "Zanaga a L?koumou megye d?li r?sz?n fekv? v?ros, az erd?s bels? ter?letek egyik k?zpontja. A t?rs?ghez a b?ny?szati ?rdekl?d?s ?s az erd?gazd?lkod?s is kapcsol?dik.",
@@ -997,13 +874,10 @@ image: "/poi-images/cg-zanaga-cities-v2.webp"
       en: "Souanké"
     ,
     descriptionAdvanced: {
-      hu: "Souanké a Sangha tartomány északnyugati részén fekvő kisváros, amely a közeli határok kereskedelmi forgalmának központja. A város a sűrű erdők ölelésében helyezkedik el, ahol a hagyományos gazdálkodás és az erdőgazdálkodás határozza meg a mindennapi életet. Souanké fontos pont az északi kereskedelmi útvonalakon. Földrajz K6 — határok menti kereskedelem.",
-image: "/poi-images/cg-souanke-cities-v2.webp"
-},
+      hu: "Souanké a Sangha tartomány északnyugati részén fekvő kisváros, amely a közeli határok kereskedelmi forgalmának központja. A város a sűrű erdők ölelésében helyezkedik el, ahol a hagyományos gazdálkodás és az erdőgazdálkodás határozza meg a mindennapi életet. Souanké fontos pont az északi kereskedelmi útvonalakon. Földrajz K6 — határok menti kereskedelem."},
     factsAdvanced: {
-      hu: ["Souanké a Sangha tartomány északnyugati városa.", "Fontos pont az északi kereskedelmi útvonalakon.", "Határmenti kereskedelmi központ.", "Sűrű erdők övezik a települést.", "A gazdálkodás a mindennapi élet alapja.", "Az erdőgazdálkodás a fő tevékenység."]
-    }
-  },
+      hu: ["Souanké a Sangha tartomány északnyugati városa.", "Fontos pont az északi kereskedelmi útvonalakon.", "Határmenti kereskedelmi központ.", "Sűrű erdők övezik a települést.", "A gazdálkodás a mindennapi élet alapja.", "Az erdőgazdálkodás a fő tevékenység."] } },
+    image: "/poi-images/cg-souanke-cities-v2.webp",
     description: {
       de: "Souanké liegt weit im Norden der Sangha nahe der Grenze zu Kamerun. Die Stadt ist ein abgelegener Handelsort in einer Region aus Wald und Savanne.",
       hu: "Souank? a Sangha megye ?szaki r?sz?n, a hat?rvid?ken fekv? v?ros. A k?rnyez? erd?s t?rs?gek ?s a faipari tev?kenys?gek miatt ismert.",
@@ -1029,13 +903,10 @@ image: "/poi-images/cg-souanke-cities-v2.webp"
       en: "Okoyo"
     ,
     descriptionAdvanced: {
-      hu: "Okoyo a Cuvette-Ouest tartomány egy városa, amely a környező erdőségeket jellemző faipari és mezőgazdasági tevékenységek központja. A település a régió egyik fontos elosztópontja a helyi áruk és termények számára. A környék domborzata és természeti környezete érintetlen, ami elősegíti a környezettudatos gazdálkodási lehetőségeket. Földrajz K6 — vidékfejlesztés.",
-image: "/poi-images/cg-okoyo-cities-v2.webp"
-},
+      hu: "Okoyo a Cuvette-Ouest tartomány egy városa, amely a környező erdőségeket jellemző faipari és mezőgazdasági tevékenységek központja. A település a régió egyik fontos elosztópontja a helyi áruk és termények számára. A környék domborzata és természeti környezete érintetlen, ami elősegíti a környezettudatos gazdálkodási lehetőségeket. Földrajz K6 — vidékfejlesztés."},
     factsAdvanced: {
-      hu: ["Okoyo a Cuvette-Ouest tartomány városa.", "A régió faipari központja.", "Fontos elosztópont helyi áruk számára.", "Érintetlen természeti környezettel bír.", "Gazdag faipari erőforrásokkal rendelkezik.", "Környezettudatos gazdálkodás lehetőségei adottak."]
-    }
-  },
+      hu: ["Okoyo a Cuvette-Ouest tartomány városa.", "A régió faipari központja.", "Fontos elosztópont helyi áruk számára.", "Érintetlen természeti környezettel bír.", "Gazdag faipari erőforrásokkal rendelkezik.", "Környezettudatos gazdálkodás lehetőségei adottak."] } },
+    image: "/poi-images/cg-okoyo-cities-v2.webp",
     description: {
       de: "Okoyo liegt in der Cuvette im zentralen Norden des Landes. Der Ort ist ein kleiner regionaler Mittelpunkt zwischen Flussläufen und Waldgebieten.",
       hu: "Okoyo a Cuvette r?gi? egyik telep?l?se az ?szak-k?z?p-kong?i bels? ter?leteken. A v?ros a helyi k?zigazgat?s ?s az ell?t?s egyik pontja.",
@@ -1061,13 +932,10 @@ image: "/poi-images/cg-okoyo-cities-v2.webp"
       en: "Mpouya"
     ,
     descriptionAdvanced: {
-      hu: "Mpouya a Plateaux tartomány egy települése, amely a Kongó folyó mentén fekszik, stratégiai pontot biztosítva a folyami közlekedésben. A városka a folyami kereskedelem egyik fontos állomása, ahol az áruk és utasok mozgatása alapvető fontosságú. A környező tájra a folyó menti növényzet és a termékeny földek jellemzőek. Földrajz K6 — folyami kereskedelem.",
-image: "/poi-images/cg-mpouya-cities-v2.webp"
-},
+      hu: "Mpouya a Plateaux tartomány egy települése, amely a Kongó folyó mentén fekszik, stratégiai pontot biztosítva a folyami közlekedésben. A városka a folyami kereskedelem egyik fontos állomása, ahol az áruk és utasok mozgatása alapvető fontosságú. A környező tájra a folyó menti növényzet és a termékeny földek jellemzőek. Földrajz K6 — folyami kereskedelem."},
     factsAdvanced: {
-      hu: ["Mpouya a Plateaux tartomány települése.", "A Kongó folyó mentén fekszik.", "Stratégiai pont a folyami közlekedésben.", "Fontos állomása a folyami kereskedelemnek.", "Folyami kereskedelmi csomópont.", "A környező földek kiválóan termékenyek."]
-    }
-  },
+      hu: ["Mpouya a Plateaux tartomány települése.", "A Kongó folyó mentén fekszik.", "Stratégiai pont a folyami közlekedésben.", "Fontos állomása a folyami kereskedelemnek.", "Folyami kereskedelmi csomópont.", "A környező földek kiválóan termékenyek."] } },
+    image: "/poi-images/cg-mpouya-cities-v2.webp",
     description: {
       de: "Mpouya liegt am Kongo-Fluss im Departement Plateaux. Die Stadt nutzt ihre Lage am Wasser als wichtigen Punkt für Verkehr und Versorgung.",
       hu: "Mpouya a Kong? foly? menti telep?l?sek egyike a Plateaux t?rs?gben. A v?zi k?zleked?s ?s a part menti ?let hat?rozza meg.",
@@ -1092,13 +960,10 @@ image: "/poi-images/cg-mpouya-cities-v2.webp"
       en: "Ngo"
     ,
     descriptionAdvanced: {
-      hu: "Ngo a Plateaux tartomány egy kisvárosa, amely a régió kereskedelmi útvonalainak központjában helyezkedik el. A település a környék mezőgazdasági és állattenyésztési közösségei számára biztosít kereskedelmi csatornákat. Ngo környékének domborzata a Plateaux régió jellegzetességeit hordozza, tágas, szavannás vidékekkel. Földrajz K6 — mezőgazdasági kereskedelem.",
-image: "/poi-images/cg-ngo-cities-v2.webp"
-},
+      hu: "Ngo a Plateaux tartomány egy kisvárosa, amely a régió kereskedelmi útvonalainak központjában helyezkedik el. A település a környék mezőgazdasági és állattenyésztési közösségei számára biztosít kereskedelmi csatornákat. Ngo környékének domborzata a Plateaux régió jellegzetességeit hordozza, tágas, szavannás vidékekkel. Földrajz K6 — mezőgazdasági kereskedelem."},
     factsAdvanced: {
-      hu: ["Ngo a Plateaux tartomány kisvárosa.", "Kereskedelmi útvonalak kereszteződésében fekszik.", "Fontos mezőgazdasági kereskedelmi csomópont.", "Állattenyésztési közösségek központja.", "Jellegzetes szavannás táj jellemzi.", "A régió központi települése."]
-    }
-  },
+      hu: ["Ngo a Plateaux tartomány kisvárosa.", "Kereskedelmi útvonalak kereszteződésében fekszik.", "Fontos mezőgazdasági kereskedelmi csomópont.", "Állattenyésztési közösségek központja.", "Jellegzetes szavannás táj jellemzi.", "A régió központi települése."] } },
+    image: "/poi-images/cg-ngo-cities-v2.webp",
     description: {
       de: "Ngo ist eine Stadt in den Plateaux im Zentrum der Republik Kongo. Der Ort liegt an einer der wichtigsten Routen zwischen Brazzaville und dem Binnenland.",
       hu: "Ngo a Plateaux megy?ben fekv? v?ros, amely fontos ?llom?s a k?z?p-kong?i sz?razf?ldi ?tvonalakon. A k?rny?k?n mez?gazdas?gi ?s kereskedelmi tev?kenys?g is folyik.",
@@ -1124,13 +989,10 @@ image: "/poi-images/cg-ngo-cities-v2.webp"
       en: "Abala"
     ,
     descriptionAdvanced: {
-      hu: "Abala a Plateaux tartomány egyik városa, amely a környező mezőgazdasági és állattenyésztési övezetek központja. A város a régió egyik fontos kereskedelmi állomása, ahol a helyi termékeket értékesítik és továbbítják a nagyobb központok felé. Abala környéke a tágas szavannás tájairól ismert, amelyek kedvezőek az állattartás számára. Földrajz K6 — állattenyésztési központok.",
-image: "/poi-images/cg-abala-cities-v2.webp"
-},
+      hu: "Abala a Plateaux tartomány egyik városa, amely a környező mezőgazdasági és állattenyésztési övezetek központja. A város a régió egyik fontos kereskedelmi állomása, ahol a helyi termékeket értékesítik és továbbítják a nagyobb központok felé. Abala környéke a tágas szavannás tájairól ismert, amelyek kedvezőek az állattartás számára. Földrajz K6 — állattenyésztési központok."},
     factsAdvanced: {
-      hu: ["Abala a Plateaux tartomány városa.", "Fontos állattenyésztési központ.", "Kereskedelmi állomás a régióban.", "Helyi termékek értékesítési központja.", "Tágas szavannás táj jellemzi.", "Kedvező feltételek az állattartáshoz."]
-    }
-  },
+      hu: ["Abala a Plateaux tartomány városa.", "Fontos állattenyésztési központ.", "Kereskedelmi állomás a régióban.", "Helyi termékek értékesítési központja.", "Tágas szavannás táj jellemzi.", "Kedvező feltételek az állattartáshoz."] } },
+    image: "/poi-images/cg-abala-cities-v2.webp",
     description: {
       de: "Abala liegt in den Plateaux und gehört zu den kleineren Orten im zentralen Inland. Die Stadt ist von Savannenlandschaft und lokalen Feldern umgeben.",
       hu: "Abala a Cuvette t?rs?g egyik kisebb v?rosa, amely a k?z?p-?szaki telep?l?sh?l?zat r?sze. A helyi k?z?ss?gek sz?m?ra alapvet? szolg?ltat?si pont.",
@@ -1155,13 +1017,10 @@ image: "/poi-images/cg-abala-cities-v2.webp"
       en: "Allembé"
     ,
     descriptionAdvanced: {
-      hu: "Allembé a Plateaux tartomány egy kisebb települése, amely a környékbeli mezőgazdasági és kereskedelmi tevékenységek központjában helyezkedik el. A falu és környezete a Plateaux régió hagyományos gazdálkodási szokásait őrzi, ahol a növénytermesztés dominál. Allembé a térség közösségei közötti kapcsolatot biztosítja. Földrajz K6 — hagyományos gazdálkodás.",
-image: "/poi-images/cg-allembe-cities-v2.webp"
-},
+      hu: "Allembé a Plateaux tartomány egy kisebb települése, amely a környékbeli mezőgazdasági és kereskedelmi tevékenységek központjában helyezkedik el. A falu és környezete a Plateaux régió hagyományos gazdálkodási szokásait őrzi, ahol a növénytermesztés dominál. Allembé a térség közösségei közötti kapcsolatot biztosítja. Földrajz K6 — hagyományos gazdálkodás."},
     factsAdvanced: {
-      hu: ["Allembé a Plateaux tartomány kis települése.", "Fontos kereskedelmi központ a környéken.", "A hagyományos gazdálkodási szokásokat őrzi.", "A növénytermesztés dominál a régióban.", "Kapcsolatot biztosít a helyi közösségek között.", "Jellemző a Plateaux régió életmódja."]
-    }
-  },
+      hu: ["Allembé a Plateaux tartomány kis települése.", "Fontos kereskedelmi központ a környéken.", "A hagyományos gazdálkodási szokásokat őrzi.", "A növénytermesztés dominál a régióban.", "Kapcsolatot biztosít a helyi közösségek között.", "Jellemző a Plateaux régió életmódja."] } },
+    image: "/poi-images/cg-allembe-cities-v2.webp",
     description: {
       de: "Allembé liegt im Departement Plateaux und ist ein ruhiger Ort im zentralen Inland. Die Umgebung ist dünn besiedelt und von offener Landschaft geprägt.",
       hu: "Allembe a fenns?kvid?khez kapcsol?d? kisebb kong?i telep?l?s. A k?rnyez? falvakhoz k?t?d? helyi kereskedelem ?s igazgat?s jellemzi.",
@@ -1186,13 +1045,10 @@ image: "/poi-images/cg-allembe-cities-v2.webp"
       en: "Dongou"
     ,
     descriptionAdvanced: {
-      hu: "Dongou a Likouala tartomány egy fontos városa, amely a Kongó folyó menti vizes élőhelyek kereskedelmi központja. A település a környék halászatának és a folyami kereskedelemnek az egyik csomópontja, amely alapvető fontosságú a régió lakossága számára. A környező tájra a buja vegetáció és a folyóhálózatok dominanciája jellemző. Földrajz K6 — folyami ökológia.",
-image: "/poi-images/cg-dongou-cities-v2.webp"
-},
+      hu: "Dongou a Likouala tartomány egy fontos városa, amely a Kongó folyó menti vizes élőhelyek kereskedelmi központja. A település a környék halászatának és a folyami kereskedelemnek az egyik csomópontja, amely alapvető fontosságú a régió lakossága számára. A környező tájra a buja vegetáció és a folyóhálózatok dominanciája jellemző. Földrajz K6 — folyami ökológia."},
     factsAdvanced: {
-      hu: ["Dongou a Likouala tartomány városa.", "Fontos központja a halászatnak.", "A folyami kereskedelem csomópontja.", "Alapvető jelentőségű a helyi lakosság számára.", "Buja növényzet és gazdag folyóhálózatok jellemzik.", "A Kongó folyó menti életforma központja."]
-    }
-  },
+      hu: ["Dongou a Likouala tartomány városa.", "Fontos központja a halászatnak.", "A folyami kereskedelem csomópontja.", "Alapvető jelentőségű a helyi lakosság számára.", "Buja növényzet és gazdag folyóhálózatok jellemzik.", "A Kongó folyó menti életforma központja."] } },
+    image: "/poi-images/cg-dongou-cities-v2.webp",
     description: {
       de: "Dongou liegt im Nordosten der Republik Kongo am Ubangi. Die Stadt ist ein wichtiger Flusspunkt in der Likouala und nahe an der Grenze zur Zentralafrikanischen Republik.",
       hu: "Dongou a Likouala megy?ben, az ?szaki foly?vid?ken tal?lhat? v?ros. A folyami k?zleked?s ?s a hat?rk?zeli fekv?s miatt fontos.",
@@ -1217,13 +1073,10 @@ image: "/poi-images/cg-dongou-cities-v2.webp"
       en: "Epéna"
     ,
     descriptionAdvanced: {
-      hu: "Epena a Likouala tartomány egy városa, amely a környező trópusi erdőségek és folyami hálózatok találkozásánál fekszik. A település a helyi erdőgazdálkodási és halászati közösségek számára biztosít kereskedelmi csatornákat. Epena környéke természeti szépségéről és érintetlen élővilágáról ismert, amely vonzza a kutatókat. Földrajz K6 — trópusi ökológia.",
-image: "/poi-images/cg-epena-cities-v2.webp"
-},
+      hu: "Epena a Likouala tartomány egy városa, amely a környező trópusi erdőségek és folyami hálózatok találkozásánál fekszik. A település a helyi erdőgazdálkodási és halászati közösségek számára biztosít kereskedelmi csatornákat. Epena környéke természeti szépségéről és érintetlen élővilágáról ismert, amely vonzza a kutatókat. Földrajz K6 — trópusi ökológia."},
     factsAdvanced: {
-      hu: ["Epena a Likouala tartomány városa.", "Erdők és folyók találkozásánál fekszik.", "Kereskedelmi központ a közösségek számára.", "Fontos az erdőgazdálkodás és halászat számára.", "Természeti szépsége és élővilága kiemelt.", "Kutatások számára is jelentős helyszín."]
-    }
-  },
+      hu: ["Epena a Likouala tartomány városa.", "Erdők és folyók találkozásánál fekszik.", "Kereskedelmi központ a közösségek számára.", "Fontos az erdőgazdálkodás és halászat számára.", "Természeti szépsége és élővilága kiemelt.", "Kutatások számára is jelentős helyszín."] } },
+    image: "/poi-images/cg-epena-cities-v2.webp",
     description: {
       de: "Épéna liegt in der Likouala im nördlichen Regenwaldgebiet. Der Ort ist vor allem als lokales Zentrum in einer wasserreichen Region bekannt.",
       hu: "Epena a Likouala t?rs?g egyik ismert telep?l?se, mocsaras ?s erd?s k?rnyezetben. A helyi k?z?ss?gek sz?m?ra kereskedelmi ?s k?zigazgat?si pont.",
@@ -1248,13 +1101,10 @@ image: "/poi-images/cg-epena-cities-v2.webp"
       en: "Betou"
     ,
     descriptionAdvanced: {
-      hu: "Bétou a Likouala tartomány északi részén, a határ mentén fekvő jelentős település. A város a kereskedelemben és a határon átnyúló folyami áruszállításban játszik kulcsszerepet, összekötve a régiót a szomszédos országokkal. A környező tájat hatalmas erdőségek és gazdag vizes élőhelyek jellemzik. Földrajz K7 — határok menti logisztika.",
-image: "/poi-images/cg-betou-cities-v2.webp"
-},
+      hu: "Bétou a Likouala tartomány északi részén, a határ mentén fekvő jelentős település. A város a kereskedelemben és a határon átnyúló folyami áruszállításban játszik kulcsszerepet, összekötve a régiót a szomszédos országokkal. A környező tájat hatalmas erdőségek és gazdag vizes élőhelyek jellemzik. Földrajz K7 — határok menti logisztika."},
     factsAdvanced: {
-      hu: ["Bétou a Likouala tartomány északi városa.", "Határ menti település.", "Kulcsszerepet tölt be a folyami áruszállításban.", "Fontos kereskedelmi kapu a régióban.", "Hatalmas erdőségek és vizes élőhelyek övezik.", "Összekötő pont a szomszédos országokkal."]
-    }
-  },
+      hu: ["Bétou a Likouala tartomány északi városa.", "Határ menti település.", "Kulcsszerepet tölt be a folyami áruszállításban.", "Fontos kereskedelmi kapu a régióban.", "Hatalmas erdőségek és vizes élőhelyek övezik.", "Összekötő pont a szomszédos országokkal."] } },
+    image: "/poi-images/cg-betou-cities-v2.webp",
     description: {
       de: "Betou liegt im äußersten Nordosten der Republik Kongo. Die Stadt verbindet die Grenzregion mit den Handels- und Verkehrswegen der Likouala.",
       hu: "Betou a keleti Likouala egyik hat?rmenti v?rosa. A t?rs?g foly?kkal, erd?kkel ?s hat?rforgalommal jellemezhet?.",
@@ -1279,13 +1129,10 @@ image: "/poi-images/cg-betou-cities-v2.webp"
       en: "Liranga"
     ,
     descriptionAdvanced: {
-      hu: "Liranga a Likouala tartomány egy városa, amely a Kongó folyó mentén épült, fontos folyami kikötőként szolgálva a régióban. A település a folyami közlekedésben és a helyi áruk kereskedelmében betöltött szerepe révén a környék gazdasági életének egyik központja. A víz közelsége és a folyami táj alapvetően határozza meg a város jellegét. Földrajz K6 — folyami élet.",
-image: "/poi-images/cg-liranga-cities-v2.webp"
-},
+      hu: "Liranga a Likouala tartomány egy városa, amely a Kongó folyó mentén épült, fontos folyami kikötőként szolgálva a régióban. A település a folyami közlekedésben és a helyi áruk kereskedelmében betöltött szerepe révén a környék gazdasági életének egyik központja. A víz közelsége és a folyami táj alapvetően határozza meg a város jellegét. Földrajz K6 — folyami élet."},
     factsAdvanced: {
-      hu: ["Liranga a Likouala tartomány városa.", "Fontos folyami kikötő a régióban.", "Folyami közlekedési csomópont.", "Kereskedelmi központ a környéken.", "A folyami élet határozza meg a karakterét.", "A Kongó folyó menti gazdasági központ."]
-    }
-  },
+      hu: ["Liranga a Likouala tartomány városa.", "Fontos folyami kikötő a régióban.", "Folyami közlekedési csomópont.", "Kereskedelmi központ a környéken.", "A folyami élet határozza meg a karakterét.", "A Kongó folyó menti gazdasági központ."] } },
+    image: "/poi-images/cg-liranga-cities-v2.webp",
     description: {
       de: "Liranga liegt an den großen Flussläufen im Nordosten des Landes. Der Ort ist eng mit dem Wasserverkehr und dem Leben am Fluss verbunden.",
       hu: "Liranga a Kong? foly? ment?n fekv? folyami telep?l?s az ?szaki orsz?gr?szben. A folyami sz?ll?t?s ?s a helyi hal?szat meghat?roz?.",
@@ -1310,13 +1157,10 @@ image: "/poi-images/cg-liranga-cities-v2.webp"
       en: "Lukolela"
     ,
     descriptionAdvanced: {
-      hu: "Lukoléla egy kisváros a Kongó folyó partján, amely történelmileg fontos szerepet játszott a folyami hajózásban és a kereskedelemben. A település ma a környékbeli mezőgazdasági termelőket és a halászokat látja el kereskedelmi lehetőségekkel. A folyó menti táj és a természetes környezet nyugodt, jellegzetes kongói életformát biztosít. Földrajz K6 — folyami történelem.",
-image: "/poi-images/cg-lukolela-cities-v2.webp"
-},
+      hu: "Lukoléla egy kisváros a Kongó folyó partján, amely történelmileg fontos szerepet játszott a folyami hajózásban és a kereskedelemben. A település ma a környékbeli mezőgazdasági termelőket és a halászokat látja el kereskedelmi lehetőségekkel. A folyó menti táj és a természetes környezet nyugodt, jellegzetes kongói életformát biztosít. Földrajz K6 — folyami történelem."},
     factsAdvanced: {
-      hu: ["Lukoléla a Kongó folyó partján fekszik.", "Történelmileg jelentős folyami kereskedelmi állomás.", "Mezőgazdasági és halászati kereskedelmi központ.", "Nyugodt, jellegzetes folyó menti életforma jellemzi.", "Természetes környezete kiemelkedő.", "A helyi gazdaság alapját a folyó biztosítja."]
-    }
-  },
+      hu: ["Lukoléla a Kongó folyó partján fekszik.", "Történelmileg jelentős folyami kereskedelmi állomás.", "Mezőgazdasági és halászati kereskedelmi központ.", "Nyugodt, jellegzetes folyó menti életforma jellemzi.", "Természetes környezete kiemelkedő.", "A helyi gazdaság alapját a folyó biztosítja."] } },
+    image: "/poi-images/cg-lukolela-cities-v2.webp",
     description: {
       de: "Lukolela ist eine historische Stadt am Kongo-Fluss, die als Grenzstation dient.",
       hu: "Lukolela a foly? menti telep?l?sh?l?zat r?sze a Kong? ?szaki szakasz?n. A v?zi k?zleked?s ?s a part menti ?let itt k?l?n?sen fontos.",
@@ -1341,13 +1185,10 @@ image: "/poi-images/cg-lukolela-cities-v2.webp"
       en: "Tchikapika"
     ,
     descriptionAdvanced: {
-      hu: "Tchikapika a Cuvette tartomány egy városa, amely a környékbeli mezőgazdasági és folyami kereskedelem központja. A település a folyó által táplált régió gazdasági vérkeringésében fontos állomás, ahol a helyi termelők értékesítik áruikat. Tchikapika környékének természeti tája és vízi élővilága tipikus a folyómenti övezetekre. Földrajz K6 — folyami ökonómia.",
-image: "/poi-images/cg-tchikapika-cities-v2.webp"
-},
+      hu: "Tchikapika a Cuvette tartomány egy városa, amely a környékbeli mezőgazdasági és folyami kereskedelem központja. A település a folyó által táplált régió gazdasági vérkeringésében fontos állomás, ahol a helyi termelők értékesítik áruikat. Tchikapika környékének természeti tája és vízi élővilága tipikus a folyómenti övezetekre. Földrajz K6 — folyami ökonómia."},
     factsAdvanced: {
-      hu: ["Tchikapika a Cuvette tartomány városa.", "Fontos központ a mezőgazdasági kereskedelemben.", "A helyi termelők értékesítési pontja.", "A folyó menti gazdaság egyik állomása.", "Tipikus folyómenti táj jellemzi.", "Gazdag vízi élővilágú környezet."]
-    }
-  },
+      hu: ["Tchikapika a Cuvette tartomány városa.", "Fontos központ a mezőgazdasági kereskedelemben.", "A helyi termelők értékesítési pontja.", "A folyó menti gazdaság egyik állomása.", "Tipikus folyómenti táj jellemzi.", "Gazdag vízi élővilágú környezet."] } },
+    image: "/poi-images/cg-tchikapika-cities-v2.webp",
     description: {
       de: "Tchikapika liegt in der Cuvette an einem der Binnenflüsse des Landes. Die Siedlung ist klein, aber für die Umgebung ein wichtiger Bezugspunkt.",
       hu: "Tchikapika a Kong? foly? menti ?szaki telep?l?sek egyike. A t?rs?gben a folyami k?zleked?s ?s a hal?szat adja a mindennapok alapj?t.",
@@ -1373,13 +1214,10 @@ image: "/poi-images/cg-tchikapika-cities-v2.webp"
       en: "Ngoko"
     ,
     descriptionAdvanced: {
-      hu: "Ngoko egy kisebb település a régióban, amely a környékbeli erdőgazdálkodás és kisüzemi mezőgazdaság központjában fekszik. A falu fontos szerepet tölt be a helyi közösség életében, biztosítva a kereskedelmi és közösségi csatornákat a környező települések között. Ngoko tája erdőkkel és rétekkel tagolt, jellegzetes kongói vidéki környezet. Földrajz K6 — vidéki közösségek.",
-image: "/poi-images/cg-ngoko-cities-v2.webp"
-},
+      hu: "Ngoko egy kisebb település a régióban, amely a környékbeli erdőgazdálkodás és kisüzemi mezőgazdaság központjában fekszik. A falu fontos szerepet tölt be a helyi közösség életében, biztosítva a kereskedelmi és közösségi csatornákat a környező települések között. Ngoko tája erdőkkel és rétekkel tagolt, jellegzetes kongói vidéki környezet. Földrajz K6 — vidéki közösségek."},
     factsAdvanced: {
-      hu: ["Ngoko fontos kisüzemi központ.", "Az erdőgazdálkodás egyik állomása.", "Kereskedelmi csomópont a környező településeknek.", "Fontos közösségi szerepet tölt be.", "Erdőkkel és rétekkel tagolt táj.", "Tipikus kongói vidéki környezet."]
-    }
-  },
+      hu: ["Ngoko fontos kisüzemi központ.", "Az erdőgazdálkodás egyik állomása.", "Kereskedelmi csomópont a környező településeknek.", "Fontos közösségi szerepet tölt be.", "Erdőkkel és rétekkel tagolt táj.", "Tipikus kongói vidéki környezet."] } },
+    image: "/poi-images/cg-ngoko-cities-v2.webp",
     description: {
       de: "Ngoko liegt in der Cuvette und gehört zu den kleineren Orten des zentralen Nordens. Die Umgebung ist von Wald, Flussarmen und ländlichen Wegen geprägt.",
       hu: "Ngoko a k?z?p-?szaki orsz?gr?sz egyik kisebb telep?l?se. A k?rnyez? erd?s ?s foly?k?zeli t?jhoz alkalmazkod? helyi ?let jellemzi.",
@@ -1404,13 +1242,10 @@ image: "/poi-images/cg-ngoko-cities-v2.webp"
       en: "Kayes"
     ,
     descriptionAdvanced: {
-      hu: "Kayes a Niari-völgy egy városa, amely mezőgazdasági és kereskedelmi szempontból is jelentős a környékbeli közösségek számára. A település a környékbeli termények elosztásában és szállításában vállal szerepet, alapvető fontosságú központként szolgálva. Kayes környezete változatos domborzatú, a régióra jellemző dús növényzettel. Földrajz K6 — vidékfejlesztés.",
-image: "/poi-images/cg-kayes-cities-v2.webp"
-},
+      hu: "Kayes a Niari-völgy egy városa, amely mezőgazdasági és kereskedelmi szempontból is jelentős a környékbeli közösségek számára. A település a környékbeli termények elosztásában és szállításában vállal szerepet, alapvető fontosságú központként szolgálva. Kayes környezete változatos domborzatú, a régióra jellemző dús növényzettel. Földrajz K6 — vidékfejlesztés."},
     factsAdvanced: {
-      hu: ["Kayes a Niari-völgy fontos városa.", "Mezőgazdasági és kereskedelmi csomópont.", "Fontos szerep a termények elosztásában.", "Alapvető központ a régióban.", "Változatos domborzat jellemzi.", "Dús növényzettel rendelkező környezet."]
-    }
-  },
+      hu: ["Kayes a Niari-völgy fontos városa.", "Mezőgazdasági és kereskedelmi csomópont.", "Fontos szerep a termények elosztásában.", "Alapvető központ a régióban.", "Változatos domborzat jellemzi.", "Dús növényzettel rendelkező környezet."] } },
+    image: "/poi-images/cg-kayes-cities-v2.webp",
     description: {
       de: "Kayes ist eine wachsende Siedlung in der Bouenza-Region, Teil der landwirtschaftlichen Kernzone.",
       hu: "Kayes egy növekvő település a Bouenza régióban, a mezőgazdasági magzóna része.",
@@ -1435,13 +1270,10 @@ image: "/poi-images/cg-kayes-cities-v2.webp"
       en: "Kingoué"
     ,
     descriptionAdvanced: {
-      hu: "Kingoué a Pool tartomány egy városa, amely dombos, erdős tájakon fekszik, és fontos szerepet játszik a környékbeli gazdálkodó közösségek életében. A városka a mezőgazdasági termelés és a helyi kereskedelem központja, ahol a gazdák termékeiket értékesíthetik. Kingoué környezete tipikus kongói vidéki táj, dús növényzettel. Földrajz K6 — helyi piacok.",
-image: "/poi-images/cg-kingoue-cities-v2.webp"
-},
+      hu: "Kingoué a Pool tartomány egy városa, amely dombos, erdős tájakon fekszik, és fontos szerepet játszik a környékbeli gazdálkodó közösségek életében. A városka a mezőgazdasági termelés és a helyi kereskedelem központja, ahol a gazdák termékeiket értékesíthetik. Kingoué környezete tipikus kongói vidéki táj, dús növényzettel. Földrajz K6 — helyi piacok."},
     factsAdvanced: {
-      hu: ["Kingoué a Pool tartomány városa.", "Dombos, erdős területen fekszik.", "Fontos mezőgazdasági központ.", "Helyi kereskedelem és piacok központja.", "A gazdák itt értékesítik termékeiket.", "Tipikus kongói vidéki táj jellemzi."]
-    }
-  },
+      hu: ["Kingoué a Pool tartomány városa.", "Dombos, erdős területen fekszik.", "Fontos mezőgazdasági központ.", "Helyi kereskedelem és piacok központja.", "A gazdák itt értékesítik termékeiket.", "Tipikus kongói vidéki táj jellemzi."] } },
+    image: "/poi-images/cg-kingoue-cities-v2.webp",
     description: {
       de: "Kingoué liegt im Süden der Republik Kongo im Departement Bouenza. Der Ort ist Teil einer ländlichen Region mit Landwirtschaft und Straßenzugang.",
       hu: "Kingou? a d?li bels? t?rs?g egyik v?rosa, vid?ki k?rnyezetben. A helyi mez?gazdas?g ?s k?zleked?s kapcsolja a r?gi?hoz.",
@@ -1466,13 +1298,10 @@ image: "/poi-images/cg-kingoue-cities-v2.webp"
       en: "Mabombo"
     ,
     descriptionAdvanced: {
-      hu: "Mabombo a Bouenza tartomány egy települése, amely a környező mezőgazdasági övezetek és kereskedelmi útvonalak központjában fekszik. A városka a környékbeli gazdálkodó közösségek kereskedelmi és ellátási csomópontja, ahol a termények cseréje zajlik. Mabombo tájára a dombos, erdős környezet és a mezőgazdasági területek váltakozása jellemző. Földrajz K6 — közép-kongói vidék.",
-image: "/poi-images/cg-mabombo-cities-v2.webp"
-},
+      hu: "Mabombo a Bouenza tartomány egy települése, amely a környező mezőgazdasági övezetek és kereskedelmi útvonalak központjában fekszik. A városka a környékbeli gazdálkodó közösségek kereskedelmi és ellátási csomópontja, ahol a termények cseréje zajlik. Mabombo tájára a dombos, erdős környezet és a mezőgazdasági területek váltakozása jellemző. Földrajz K6 — közép-kongói vidék."},
     factsAdvanced: {
-      hu: ["Mabombo a Bouenza tartomány települése.", "Kereskedelmi útvonalak központjában fekszik.", "Fontos ellátási csomópont a gazdáknak.", "A termények kereskedelmi cseréjének helyszíne.", "Dombos, erdős táj jellemzi.", "Mezőgazdasági területek váltakoznak a környéken."]
-    }
-  },
+      hu: ["Mabombo a Bouenza tartomány települése.", "Kereskedelmi útvonalak központjában fekszik.", "Fontos ellátási csomópont a gazdáknak.", "A termények kereskedelmi cseréjének helyszíne.", "Dombos, erdős táj jellemzi.", "Mezőgazdasági területek váltakoznak a környéken."] } },
+    image: "/poi-images/cg-mabombo-cities-v2.webp",
     description: {
       de: "Mabombo liegt ebenfalls im Departement Bouenza. Die Stadt ist ein kleiner lokaler Mittelpunkt im südlichen Inland.",
       hu: "Mabombo a d?li bels? ter?letek egyik kisebb v?rosa. A telep?l?s a k?rnyez? falusi t?rs?ghez kapcsol?d? ell?t?si pont.",
@@ -1498,13 +1327,10 @@ image: "/poi-images/cg-mabombo-cities-v2.webp"
       en: "Londela-Kayes"
     ,
     descriptionAdvanced: {
-      hu: "Londela-Kayes a Niari-völgyben fekvő település, amely a környező erdők és mezőgazdasági területek kereskedelmi központja. A falu fontos szerepet tölt be a környékbeli gazdák terményeinek elosztásában és a helyi kereskedelmi csatornák fenntartásában. Londela-Kayes táját a dombos, erdős környezet és a mezőgazdasági területek váltakozása jellemzi. Földrajz K6 — közép-kongói vidék.",
-image: "/poi-images/cg-londela-kayes-cities-v2.webp"
-},
+      hu: "Londela-Kayes a Niari-völgyben fekvő település, amely a környező erdők és mezőgazdasági területek kereskedelmi központja. A falu fontos szerepet tölt be a környékbeli gazdák terményeinek elosztásában és a helyi kereskedelmi csatornák fenntartásában. Londela-Kayes táját a dombos, erdős környezet és a mezőgazdasági területek váltakozása jellemzi. Földrajz K6 — közép-kongói vidék."},
     factsAdvanced: {
-      hu: ["Londela-Kayes a Niari-völgy települése.", "Kereskedelmi központ a környéken.", "Fontos szerepet tölt be a termények elosztásában.", "Helyi kereskedelmi csatornák központja.", "Dombos, erdős táj jellemzi.", "Mezőgazdasági területek váltakoznak a környéken."]
-    }
-  },
+      hu: ["Londela-Kayes a Niari-völgy települése.", "Kereskedelmi központ a környéken.", "Fontos szerepet tölt be a termények elosztásában.", "Helyi kereskedelmi csatornák központja.", "Dombos, erdős táj jellemzi.", "Mezőgazdasági területek váltakoznak a környéken."] } },
+    image: "/poi-images/cg-londela-kayes-cities-v2.webp",
     description: {
       de: "Londela-Kayes liegt im Departement Niari im Südwesten des Landes. Die Stadt ist Teil der Region zwischen Küste und Binnenland.",
       hu: "Londela-Kayes egy vidéki központ a Niari régióban, mezőgazdasági kereskedelméről ismert.",
@@ -1530,13 +1356,10 @@ image: "/poi-images/cg-londela-kayes-cities-v2.webp"
       en: "Kimongo"
     ,
     descriptionAdvanced: {
-      hu: "Kimongo a Niari tartomány egyik városa, amely a déli, határ menti régiók gazdasági életének fontos csomópontja. A település a környékbeli mezőgazdasági közösségek számára biztosít kereskedelmi csatornákat, ahol a termények cseréje zajlik. Kimongo tájára a dombos, erdős környezet jellemző, ami kedvező az erdőgazdálkodás számára. Földrajz K6 — határok menti kereskedelem.",
-image: "/poi-images/cg-kimongo-cities-v2.webp"
-},
+      hu: "Kimongo a Niari tartomány egyik városa, amely a déli, határ menti régiók gazdasági életének fontos csomópontja. A település a környékbeli mezőgazdasági közösségek számára biztosít kereskedelmi csatornákat, ahol a termények cseréje zajlik. Kimongo tájára a dombos, erdős környezet jellemző, ami kedvező az erdőgazdálkodás számára. Földrajz K6 — határok menti kereskedelem."},
     factsAdvanced: {
-      hu: ["Kimongo a Niari tartomány városa.", "Fontos csomópont a déli régiókban.", "Határ menti gazdasági központ.", "Mezőgazdasági közösségek kereskedelmi központja.", "Dombos, erdős táj jellemzi.", "Kedvező környezet az erdőgazdálkodás számára."]
-    }
-  },
+      hu: ["Kimongo a Niari tartomány városa.", "Fontos csomópont a déli régiókban.", "Határ menti gazdasági központ.", "Mezőgazdasági közösségek kereskedelmi központja.", "Dombos, erdős táj jellemzi.", "Kedvező környezet az erdőgazdálkodás számára."] } },
+    image: "/poi-images/cg-kimongo-cities-v2.webp",
     description: {
       de: "Kimongo liegt im Departement Niari und gehört zu den Orten des südwestlichen Inlandes. Die Umgebung ist dünn besiedelt und ländlich geprägt.",
       hu: "Kimongo a Kong? d?lnyugati r?sz?n fekv? v?ros, amely a k?rnyez? vid?ki t?rs?get szolg?lja ki. Helyi kereskedelmi ?s igazgat?si szerepe van.",
@@ -1561,13 +1384,10 @@ image: "/poi-images/cg-kimongo-cities-v2.webp"
       en: "Mayoko"
     ,
     descriptionAdvanced: {
-      hu: "Mayoko a Niari tartomány egy városa, amely jelentős bányászati potenciáljáról ismert, különösen a vasérc tekintetében. A város környéke hatalmas természeti erőforrásokat rejt, amelyek hosszú távon a régió gazdasági fejlődését alapozhatják meg. A település fejlődése szorosan összefügg a bányászati projektekkel. Földrajz K8 — ásványi erőforrások.",
-image: "/poi-images/cg-mayoko-cities-v2.webp"
-},
+      hu: "Mayoko a Niari tartomány egy városa, amely jelentős bányászati potenciáljáról ismert, különösen a vasérc tekintetében. A város környéke hatalmas természeti erőforrásokat rejt, amelyek hosszú távon a régió gazdasági fejlődését alapozhatják meg. A település fejlődése szorosan összefügg a bányászati projektekkel. Földrajz K8 — ásványi erőforrások."},
     factsAdvanced: {
-      hu: ["Mayoko a Niari tartomány városa.", "Jelentős vasérclelőhelyekkel rendelkezik.", "Bányászati potenciáljáról ismert régió.", "A jövőbeli gazdasági fejlődés alapja a bányászat.", "Hatalmas természeti erőforrásokat rejt a környék.", "A bányászati projektek alakítják a település életét."]
-    }
-  },
+      hu: ["Mayoko a Niari tartomány városa.", "Jelentős vasérclelőhelyekkel rendelkezik.", "Bányászati potenciáljáról ismert régió.", "A jövőbeli gazdasági fejlődés alapja a bányászat.", "Hatalmas természeti erőforrásokat rejt a környék.", "A bányászati projektek alakítják a település életét."] } },
+    image: "/poi-images/cg-mayoko-cities-v2.webp",
     description: {
       de: "Mayoko ist eine Stadt im Departement Niari im Südwesten des Landes. Der Ort dient als lokaler Stützpunkt im inlandigen Teil der Region.",
       hu: "Mayoko a d?lnyugati Kong? egyik ismert bels? telep?l?se. A k?rny?k?t erd?s dombvid?k ?s b?ny?szati ?rdekl?d?s is jellemzi.",
@@ -1592,13 +1412,10 @@ image: "/poi-images/cg-mayoko-cities-v2.webp"
       en: "Banda"
     ,
     descriptionAdvanced: {
-      hu: "Banda a Niari tartomány egy települése, amely a környező erdős területek és mezőgazdasági övezetek határán fekszik. A falu fontos szerepet tölt be a helyi kereskedelemben, biztosítva a csatornákat a környező települések számára. Banda tájára a változatos domborzat és a sűrű növényzet jellemző, ami a Niari régió sajátossága. Földrajz K6 — vidéki közösségek.",
-image: "/poi-images/cg-banda-cities-v2.webp"
-},
+      hu: "Banda a Niari tartomány egy települése, amely a környező erdős területek és mezőgazdasági övezetek határán fekszik. A falu fontos szerepet tölt be a helyi kereskedelemben, biztosítva a csatornákat a környező települések számára. Banda tájára a változatos domborzat és a sűrű növényzet jellemző, ami a Niari régió sajátossága. Földrajz K6 — vidéki közösségek."},
     factsAdvanced: {
-      hu: ["Banda a Niari tartomány települése.", "Fontos szerep a helyi kereskedelemben.", "Kereskedelmi csatornák a környező településeknek.", "Változatos domborzatú táj.", "Sűrű növényzettel rendelkező régió.", "Tipikus Niari régióbeli falu."]
-    }
-  },
+      hu: ["Banda a Niari tartomány települése.", "Fontos szerep a helyi kereskedelemben.", "Kereskedelmi csatornák a környező településeknek.", "Változatos domborzatú táj.", "Sűrű növényzettel rendelkező régió.", "Tipikus Niari régióbeli falu."] } },
+    image: "/poi-images/cg-banda-cities-v2.webp",
     description: {
       de: "Banda liegt im Departement Niari im Süden der Republik Kongo. Die Stadt ist ein kleiner Ort im landwirtschaftlich geprägten Inland.",
       hu: "Banda egy kisebb kong?i telep?l?s az orsz?g bels? r?sz?ben. A k?rnyez? k?z?ss?gek sz?m?ra alapvet? helyi szerepet t?lt be.",
@@ -1623,13 +1440,10 @@ image: "/poi-images/cg-banda-cities-v2.webp"
       en: "Divénié"
     ,
     descriptionAdvanced: {
-      hu: "Divénié a Niari tartomány egyik városa, amely a környező erdők és mezőgazdasági területek elosztási központja. A település a kereskedelmi útvonalak mentén fekszik, segítve a régió áruforgalmát. A környező tájra a dombos domborzat és a dús vegetáció jellemző, ami kedvező az erdőgazdálkodás számára. Földrajz K6 — logisztika.",
-image: "/poi-images/cg-divenie-cities-v2.webp"
-},
+      hu: "Divénié a Niari tartomány egyik városa, amely a környező erdők és mezőgazdasági területek elosztási központja. A település a kereskedelmi útvonalak mentén fekszik, segítve a régió áruforgalmát. A környező tájra a dombos domborzat és a dús vegetáció jellemző, ami kedvező az erdőgazdálkodás számára. Földrajz K6 — logisztika."},
     factsAdvanced: {
-      hu: ["Divénié a Niari tartomány városa.", "Központja az elosztásnak és kereskedelemnek.", "Kereskedelmi útvonalak mentén fekszik.", "Segíti a régió áruforgalmát.", "Dombos domborzat és dús vegetáció jellemzi.", "Kedvező környezet az erdőgazdálkodás számára."]
-    }
-  },
+      hu: ["Divénié a Niari tartomány városa.", "Központja az elosztásnak és kereskedelemnek.", "Kereskedelmi útvonalak mentén fekszik.", "Segíti a régió áruforgalmát.", "Dombos domborzat és dús vegetáció jellemzi.", "Kedvező környezet az erdőgazdálkodás számára."] } },
+    image: "/poi-images/cg-divenie-cities-v2.webp",
     description: {
       de: "Divénié liegt im Departement Niari nahe dem westlichen Rand des Südens. Der Ort ist von Waldgebieten und Straßenverbindungen zu den Nachbarorten geprägt.",
       hu: "Divenie a t?voli ?szaki t?rs?g egyik kisv?rosa, erd?s k?rnyezetben. A helyi ?letet a k?zeli foly?vid?k ?s a vid?ki kapcsolatok hat?rozz?k meg.",

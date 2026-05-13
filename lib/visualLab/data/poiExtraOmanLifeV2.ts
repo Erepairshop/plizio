@@ -10,9 +10,8 @@ export const poiExtraOmanLifeV2: POI[] = [
       de: "Ad Dimaniyat Inseln",
       hu: "Ad Dimaniyat-szigetek Természetvédelmi Terület",
       ro: "Rezervația Naturală Insulele Ad Dimaniyat",
-      en: "Ad Dimaniyat Islands Nature Reserve",
-image: "/poi-images/ad-dimaniyat-islands-life-v2.webp"
-},
+      en: "Ad Dimaniyat Islands Nature Reserve"},
+    image: "/poi-images/ad-dimaniyat-islands-life-v2.webp",
     description: {
       de: "Die Ad-Dimaniyat-Inseln sind ein Archipel aus neun Inseln, umgeben von unberührten Korallenriffen, und bieten einen wichtigen Nistplatz für Echte Karettschildkröten und verschiedene Seevögel.",
       hu: "Az Ad Dimaniyat-szigetek kilenc szigetből álló szigetcsoport, melyet érintetlen korallzátonyok öveznek. Fontos fészkelőhelye a cserepesteknősöknek és számos tengeri madárnak.",
@@ -47,9 +46,8 @@ image: "/poi-images/ad-dimaniyat-islands-life-v2.webp"
       de: "Schildkrötenreservat Ras al-Dschinz",
       hu: "Ras al-Jinz Teknősvédelmi Terület",
       ro: "Rezervația de Țestoase Ras Al Jinz",
-      en: "Ras Al Jinz Turtle Reserve",
-image: "/poi-images/ras-al-jinz-turtle-reserve-life-v2.webp"
-},
+      en: "Ras Al Jinz Turtle Reserve"},
+    image: "/poi-images/ras-al-jinz-turtle-reserve-life-v2.webp",
     description: {
       de: "Ras al-Dschinz ist ein bedeutender Nistplatz für die vom Aussterben bedrohte Grüne Meeresschildkröte, wo jährlich Tausende Weibchen zurückkehren, um an den Stränden ihre Eier abzulegen.",
       hu: "Ras al-Jinz egy kiemelkedő fészkelőhely a veszélyeztetett zöld teknős számára, ahol évente több ezer nőstény tér vissza a homokos partokra tojást rakni.",
@@ -84,9 +82,8 @@ image: "/poi-images/ras-al-jinz-turtle-reserve-life-v2.webp"
       de: "Wildtierreservat Al Wusta",
       hu: "Al Wusta Vadvédelmi Terület",
       ro: "Rezervația Naturală Al Wusta",
-      en: "Al Wusta Wildlife Reserve",
-image: "/poi-images/al-wusta-wildlife-reserve-life-v2.webp"
-},
+      en: "Al Wusta Wildlife Reserve"},
+    image: "/poi-images/al-wusta-wildlife-reserve-life-v2.webp",
     description: {
       de: "Dieses riesige Reservat wurde ursprünglich zum Schutz der Arabischen Oryxantilope gegründet und ist ein Zufluchtsort für wüstenangepasste Wildtiere wie Gazellen und Sandkatzen.",
       hu: "Az eredetileg az arab bejza védelmére létrehozott hatalmas rezervátum a sivatagi vadvilág, köztük gázellák, kőszáli kecskék és homoki macskák menedéke.",
@@ -121,9 +118,8 @@ image: "/poi-images/al-wusta-wildlife-reserve-life-v2.webp"
       de: "Feuchtgebiete von Al Ansab",
       hu: "Al Ansab Vizesélőhelyek",
       ro: "Zonele Umede Al Ansab",
-      en: "Al Ansab Wetlands",
-image: "/poi-images/al-ansab-wetlands-life-v2.webp"
-},
+      en: "Al Ansab Wetlands"},
+    image: "/poi-images/al-ansab-wetlands-life-v2.webp",
     description: {
       de: "Ein künstliches Ökosystem in Maskat, das aufbereitetes Abwasser nutzt, um einen üppigen Lebensraum zu schaffen, der fast dreihundert Vogelarten anzieht.",
       hu: "Mesterséges ökoszisztéma Maszkatban, amely tisztított szennyvizet használ dús élőhely kialakítására, közel háromszáz vándormadár- és állandó madárfajt vonzva.",
@@ -158,9 +154,8 @@ image: "/poi-images/al-ansab-wetlands-life-v2.webp"
       de: "Qurum Naturpark",
       hu: "Qurum Természeti Park",
       ro: "Parcul Natural Qurum",
-      en: "Qurum Natural Park",
-image: "/poi-images/qurum-natural-park-life-v2.webp"
-},
+      en: "Qurum Natural Park"},
+    image: "/poi-images/qurum-natural-park-life-v2.webp",
     description: {
       de: "Der größte öffentliche Park in Maskat mit weitläufigen Rasenflächen, einem großen künstlichen See zum Bootfahren und einem schattigen Rosengarten, der als grüne Lunge der Stadt dient.",
       hu: "Maszkat legnagyobb közparkja hatalmas pázsitokkal, egy nagy mesterséges csónakázótóval és egy árnyas rózsakerttel, amely a város zöld tüdejeként szolgál.",
@@ -195,9 +190,8 @@ image: "/poi-images/qurum-natural-park-life-v2.webp"
       de: "Al Naseem Park",
       hu: "Al Naseem Park",
       ro: "Parcul Al Naseem",
-      en: "Al Naseem Park",
-image: "/poi-images/al-naseem-park-life-v2.webp"
-},
+      en: "Al Naseem Park"},
+    image: "/poi-images/al-naseem-park-life-v2.webp",
     description: {
       de: "Dieser weitläufige Park bei Seeb wurde 1985 eröffnet und ist einer der ältesten des Landes, der durch eine vielfältige Flora, einen japanischen Garten und Spielplätze besticht.",
       hu: "Az 1985-ben megnyitott kiterjedt park Seeb közelében az ország egyik legrégebbi parkja, változatos növényvilággal, egy japánkerttel és játszóterekkel büszkélkedhet.",
@@ -232,9 +226,8 @@ image: "/poi-images/al-naseem-park-life-v2.webp"
       de: "Riyam Park",
       hu: "Riyam Park",
       ro: "Parcul Riyam",
-      en: "Riyam Park",
-image: "/poi-images/riyam-park-life-v2.webp"
-},
+      en: "Riyam Park"},
+    image: "/poi-images/riyam-park-life-v2.webp",
     description: {
       de: "Dieser Park liegt an einem Hang zwischen Muttrah und Alt-Maskat und ist leicht an seinem riesigen weißen Weihrauchbrenner-Monument zu erkennen, das den Hafen überblickt.",
       hu: "A Muttrah és Ó-Maszkat közötti domboldalon található park könnyen felismerhető a kikötőre néző, hatalmas, fehér tömjénfüstölő emlékművéről.",
@@ -269,9 +262,8 @@ image: "/poi-images/riyam-park-life-v2.webp"
       de: "Kalbuh Park",
       hu: "Kalbuh Park",
       ro: "Parcul Kalbuh",
-      en: "Kalbuh Park",
-image: "/poi-images/kalbuh-park-life-v2.webp"
-},
+      en: "Kalbuh Park"},
+    image: "/poi-images/kalbuh-park-life-v2.webp",
     description: {
       de: "Ein Küstenpark, der sich entlang der Meeresfront zwischen Muttrah und Maskat erstreckt und einen malerischen Spazierweg, grasbewachsene Ruheplätze und einen schönen Meerblick bietet.",
       hu: "Egy tengerparti park, amely a Muttrah és Maszkat közötti partvonal mentén húzódik, festői sétányt, füves pihenőhelyeket és gyönyörű óceáni kilátást kínálva.",
@@ -306,9 +298,8 @@ image: "/poi-images/kalbuh-park-life-v2.webp"
       de: "Al Amerat Park",
       hu: "Al Amerat Park",
       ro: "Parcul Al Amerat",
-      en: "Al Amerat Park",
-image: "/poi-images/al-amerat-park-life-v2.webp"
-},
+      en: "Al Amerat Park"},
+    image: "/poi-images/al-amerat-park-life-v2.webp",
     description: {
       de: "Ein großer Park im Bezirk Al Amerat, der weithin als Hauptaustragungsort des jährlichen Maskat-Festivals bekannt ist und kulturelle Ausstellungen und Unterhaltung bietet.",
       hu: "Egy jelentős park az Al Amerat kerületben, amely széles körben ismert az éves Maszkat Fesztivál fő helyszíneként, ahol kulturális kiállítások és szórakoztató műsorok várják a látogatókat.",
@@ -343,9 +334,8 @@ image: "/poi-images/al-amerat-park-life-v2.webp"
       de: "Quelle Ayn Sahalnawt",
       hu: "Ayn Sahalnawt Forrás",
       ro: "Izvorul Ayn Sahalnawt",
-      en: "Ayn Sahalnawt Spring",
-image: "/poi-images/ayn-sahalnawt-life-v2.webp"
-},
+      en: "Ayn Sahalnawt Spring"},
+    image: "/poi-images/ayn-sahalnawt-life-v2.webp",
     description: {
       de: "Ein ruhiger natürlicher Quellenpark, umgeben von zerklüfteten Kalksteinbergen, wo eine ganzjährige Wasserquelle eine grüne Oase in der ansonsten trockenen Dhofar-Landschaft bildet.",
       hu: "Egy csendes természetes forráspark csipkézett mészkőhegyekkel körülvéve, ahol a folyamatos vizű forrás egy zöldellő oázist hoz létre a száraz Dhofar régióban.",
@@ -380,9 +370,8 @@ image: "/poi-images/ayn-sahalnawt-life-v2.webp"
       de: "Bananenplantagen von Salala",
       hu: "Salalah Banánültetvényei",
       ro: "Plantațiile de Banane din Salalah",
-      en: "Salalah Banana Plantations",
-image: "/poi-images/salalah-banana-plantations-life-v2.webp"
-},
+      en: "Salalah Banana Plantations"},
+    image: "/poi-images/salalah-banana-plantations-life-v2.webp",
     description: {
       de: "Das tropische Klima von Salala ermöglicht weitläufige Plantagen, auf denen zahlreiche Bananen-, Papaya- und Kokosnusssorten mithilfe traditioneller Faladsch-Bewässerungssysteme angebaut werden.",
       hu: "Salalah trópusi klímája kiterjedt ültetvényeket tesz lehetővé, ahol a hagyományos falaj öntözőrendszerek segítségével számos banán-, papaja- és kókuszdiófajtát termesztenek.",
@@ -417,9 +406,8 @@ image: "/poi-images/salalah-banana-plantations-life-v2.webp"
       de: "Weihrauchreservat Wadi Dawkah",
       hu: "Wadi Dawkah Tömjénrezervátum",
       ro: "Rezervația de Tămâie Wadi Dawkah",
-      en: "Wadi Dawkah Frankincense Reserve",
-image: "/poi-images/wadi-dawkah-frankincense-reserve-life-v2.webp"
-},
+      en: "Wadi Dawkah Frankincense Reserve"},
+    image: "/poi-images/wadi-dawkah-frankincense-reserve-life-v2.webp",
     description: {
       de: "Eine UNESCO-Weltkulturerbestätte in einem großen, steinigen Tal, in dem Tausende natürlich wachsende Boswellia-sacra-Bäume stehen, die Quelle des wertvollen omanischen Weihrauchs.",
       hu: "Az UNESCO Világörökség része ez a nagy, köves völgy, amelyben több ezer természetesen növekvő tömjénfa (Boswellia sacra) található, az értékes ománi tömjén forrása.",
@@ -454,9 +442,8 @@ image: "/poi-images/wadi-dawkah-frankincense-reserve-life-v2.webp"
       de: "Rosenterrassen von Saiq",
       hu: "Saiq Rózsatetők",
       ro: "Terasele de Trandafiri Saiq",
-      en: "Saiq Rose Terraces",
-image: "/poi-images/saiq-rose-terraces-life-v2.webp"
-},
+      en: "Saiq Rose Terraces"},
+    image: "/poi-images/saiq-rose-terraces-life-v2.webp",
     description: {
       de: "Hoch im Dschebel-Achdar-Gebirge sind diese alten landwirtschaftlichen Terrassen mit Damaszener-Rosen bepflanzt, die jedes Frühjahr für die Herstellung von duftendem omanischen Rosenwasser geerntet werden.",
       hu: "A Jabal Akhdar hegység magaslataiban ezek az ősi mezőgazdasági teraszok damaszkuszi rózsával vannak beültetve, amelyeket minden tavasszal betakarítanak illatos ománi rózsavíz készítéséhez.",
@@ -491,9 +478,8 @@ image: "/poi-images/saiq-rose-terraces-life-v2.webp"
       de: "Dattelplantagen von Nakhal",
       hu: "Nakhal Datolyaültetvényei",
       ro: "Plantațiile de Curmali din Nakhal",
-      en: "Nakhal Date Palm Plantations",
-image: "/poi-images/nakhal-date-palm-plantations-life-v2.webp"
-},
+      en: "Nakhal Date Palm Plantations"},
+    image: "/poi-images/nakhal-date-palm-plantations-life-v2.webp",
     description: {
       de: "Diese riesige Oase, die das berühmte Fort Nakhal umgibt, ist ein dichtes Meer von Dattelpalmen, das von den heißen Mineralquellen der nahen Al-Thowarah-Quelle gespeist wird.",
       hu: "A híres Nakhal erődöt körülvevő hatalmas oázis a datolyapálmák sűrű tengere, amelyet a közeli Al Thowarah forrás meleg ásványvize táplál.",
@@ -528,9 +514,8 @@ image: "/poi-images/nakhal-date-palm-plantations-life-v2.webp"
       de: "Plantagen von Birkat Al Mouz",
       hu: "Birkat Al Mouz Ültetvényei",
       ro: "Plantațiile din Birkat Al Mouz",
-      en: "Birkat Al Mouz Plantations",
-image: "/poi-images/birkat-al-mouz-plantations-life-v2.webp"
-},
+      en: "Birkat Al Mouz Plantations"},
+    image: "/poi-images/birkat-al-mouz-plantations-life-v2.webp",
     description: {
       de: "Ein malerisches Bauerndorf am Fuße des Dschebel Achdar, berühmt für seine üppigen Bananen- und Dattelplantagen, die durch einen alten, funktionierenden Faladsch-Wasserkanal geteilt werden.",
       hu: "Egy festői mezőgazdasági falu a Jabal Akhdar lábánál, amely buja banán- és datolyaültetvényeiről híres, amelyeket egy ősi, máig működő falaj vízcsatorna szel ketté.",
@@ -565,9 +550,8 @@ image: "/poi-images/birkat-al-mouz-plantations-life-v2.webp"
       de: "Al Numan Zoo",
       hu: "Al Numan Állatkert",
       ro: "Grădina Zoologică Al Numan",
-      en: "Al Numan Zoo",
-image: "/poi-images/al-numan-zoo-life-v2.webp"
-},
+      en: "Al Numan Zoo"},
+    image: "/poi-images/al-numan-zoo-life-v2.webp",
     description: {
       de: "Ein kleiner privater Zoo in Barka, der Kindern die Möglichkeit bietet, eine Vielzahl von exotischen Tieren und einheimischen omanischen Wildtieren aus der Nähe zu betrachten.",
       hu: "Egy kis magántulajdonban lévő állatkert Barkában, amely lehetőséget nyújt a gyermekek számára, hogy különféle egzotikus állatokat és őshonos ománi vadvilágot testközelből láthassanak.",
@@ -602,9 +586,8 @@ image: "/poi-images/al-numan-zoo-life-v2.webp"
       de: "Oman Aquarium",
       hu: "Omán Akvárium",
       ro: "Acvariul Oman",
-      en: "Oman Aquarium",
-image: "/poi-images/oman-aquarium-life-v2.webp"
-},
+      en: "Oman Aquarium"},
+    image: "/poi-images/oman-aquarium-life-v2.webp",
     description: {
       de: "Das größte Aquarium des Landes befindet sich in der Mall of Muscat und zeigt das Meeresleben der omanischen Gewässer, darunter Haie, Rochen und eine Wadi-Ausstellung.",
       hu: "A Mall of Muscat bevásárlóközpontban található ez az ország legnagyobb akváriuma, amely bemutatja az ománi vizek tengeri élővilágát, köztük cápákat, rájákat és egy wadi kiállítást is.",
@@ -639,9 +622,8 @@ image: "/poi-images/oman-aquarium-life-v2.webp"
       de: "Vergnügungspark Marah Land",
       hu: "Marah Land Vidámpark",
       ro: "Parcul de Distracții Marah Land",
-      en: "Marah Land Theme Park",
-image: "/poi-images/marah-land-life-v2.webp"
-},
+      en: "Marah Land Theme Park"},
+    image: "/poi-images/marah-land-life-v2.webp",
     description: {
       de: "Ein weitläufiger Vergnügungspark im Herzen von Maskat, der eine Vielzahl aufregender Fahrgeschäfte, ein großes Riesenrad und familienfreundliche Unterhaltungsbereiche bietet.",
       hu: "Egy kiterjedt vidámpark Maszkat szívében, amely számos izgalmas vidámparki játékot, egy nagy óriáskereket és családbarát szórakoztató zónákat kínál.",
@@ -676,9 +658,8 @@ image: "/poi-images/marah-land-life-v2.webp"
       de: "Snow Oman",
       hu: "Snow Oman",
       ro: "Snow Oman",
-      en: "Snow Oman",
-image: "/poi-images/snow-oman-life-v2.webp"
-},
+      en: "Snow Oman"},
+    image: "/poi-images/snow-oman-life-v2.webp",
     description: {
       de: "Omans erster Indoor-Schneepark in der Mall of Oman bietet Pinguinbegegnungen, Eislaufen und Schneefahrgeschäfte in einer Umgebung unter dem Gefrierpunkt.",
       hu: "Omán első fedett hóparkja, amely a Mall of Oman bevásárlóközpontban található, és pingvintalálkozókat, korcsolyázást és havas játékokat kínál fagypont alatti környezetben.",
@@ -713,9 +694,8 @@ image: "/poi-images/snow-oman-life-v2.webp"
       de: "Hawana Aqua Park",
       hu: "Hawana Aqua Park",
       ro: "Parcul Acvatic Hawana",
-      en: "Hawana Aqua Park",
-image: "/poi-images/hawana-aqua-park-life-v2.webp"
-},
+      en: "Hawana Aqua Park"},
+    image: "/poi-images/hawana-aqua-park-life-v2.webp",
     description: {
       de: "Dieser Weltklasse-Wasserpark in Salala bietet zahlreiche Rutschen, Wellenbäder und Strömungskanäle und sorgt für eine erfrischende Abkühlung während der heißen Küstensommer.",
       hu: "Salalahban található ez a világszínvonalú vízi park, amely számos csúszdával, hullámmedencével és lusta folyóval kínál frissítő kikapcsolódást a forró tengerparti nyarakon.",

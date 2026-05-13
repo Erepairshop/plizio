@@ -6,9 +6,8 @@ export const poiExtraTaiwanLifeV2: POI[] = [
     type: "kid-friendly",
     parent: "TW-TPE",
     coords: [121.5833, 24.9983],
-    name: { de: "Zoologischer Garten Taipeh", hu: "Tajpeji Állatkert", ro: "Grădina Zoologică din Taipei", en: "Taipei Zoo",
-image: "/poi-images/taipei-zoo-life-v2.webp"
-},
+    name: { de: "Zoologischer Garten Taipeh", hu: "Tajpeji Állatkert", ro: "Grădina Zoologică din Taipei", en: "Taipei Zoo"},
+    image: "/poi-images/taipei-zoo-life-v2.webp",
     description: { de: "Der größte Zoo in Asien, bekannt für seine Großen Pandas.", hu: "Ázsia egyik legnagyobb állatkertje, amely híres az óriáspandáiról.", ro: "Una dintre cele mai mari grădini zoologice din Asia, renumită pentru urșii panda uriași.", en: "One of the largest zoos in Asia, well-known for its giant pandas." },
     facts: {
       de: ["Gegründet im Jahr 1914.", "Beherbergt über 400 Tierarten."],
@@ -22,129 +21,224 @@ image: "/poi-images/taipei-zoo-life-v2.webp"
     type: "agriculture",
     parent: "TW-NAN",
     coords: [121.1561, 24.0583],
-    name: { de: "Qingjing-Farm", hu: "Csingcsing Farm", ro: "Ferma Qingjing", en: "Qingjing Farm",
-image: "/poi-images/qingjing-farm-life-v2.webp"
-},
+    name: { de: "Qingjing-Farm", hu: "Csingcsing Farm", ro: "Ferma Qingjing", en: "Qingjing Farm"},
+    image: "/poi-images/qingjing-farm-life-v2.webp",
     description: { de: "Eine malerische Farm in den Bergen, berühmt für ihre Schafherden und grünen Weiden.", hu: "Festői hegyi farm, amely híres birkanyájairól és zöldellő legelőiről.", ro: "O fermă montană pitorească, faimoasă pentru turmele de oi și pășunile verzi.", en: "A scenic mountain farm famous for its sheep herds and lush green pastures." },
     facts: {
       de: ["Liegt auf über 1.700 Metern Höhe.", "Wird oft als \"kleine Schweiz\" Taiwans bezeichnet."],
       hu: ["Több mint 1700 méteres magasságban fekszik.", "Gyakran Tajvan \"kis Svájcának\" is nevezik."],
       ro: ["Situată la o altitudine de peste 1.700 de metri.", "Adesea numită \"Mica Elveție\" a Taiwanului."],
       en: ["Located at an altitude of over 1,700 meters.", "Often referred to as the \"Little Switzerland\" of Taiwan."]
-    }, image: "/poi-images/qingjing-farm-life-v2.webp"},
+    }, image: "/poi-images/qingjing-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Qingjing-Farm liegt auf einer Höhe von etwa 1750 Metern im Landkreis Nantou, Taiwan. Ursprünglich 1961 von Veteranen der chinesischen Bürgerkriegsarmee gegründet, entwickelte sie sich zu einem touristischen Hotspot. Die Farm ist bekannt für ihre grünen Hügel, Schafzucht und die europäisch anmutende Architektur. Sie erstreckt sich über 760 Hektar und bietet einen Panoramablick auf die umliegenden Berge. Die Durchschnittstemperatur beträgt 15 °C, was sie zu einem beliebten Ziel für Ausflüge macht. Besucher können die Schafschervorführungen erleben und lokale Milchprodukte probieren. Die Region ist zudem für ihre Teegärten und die Saisonblüte wie Kirschblüten im Frühling bekannt.",
+      hu: "A Qingjing Farm Nantou megyében, Tajvanon található, körülbelül 1750 méteres tengerszint feletti magasságban. A farmot 1961-ben alapították kínai polgárháborús veteránok, és azóta népszerű turisztikai célponttá vált. A terület híres zöld dombjairól, juhtenyésztéséről és európai stílusú építészetéről. A farm 760 hektáron terül el, és lenyűgöző kilátást nyújt a környező hegyekre. Az átlaghőmérséklet 15 °C, ami ideálissá teszi a kirándulásokat. A látogatók megtekinthetik a juhnyírási bemutatókat és megkóstolhatják a helyi tejtermékeket. A régió teakerteiről és szezonális virágzásáról is ismert, például a tavaszi cseresznyevirágzásról.",
+      ro: "Qingjing Farm este situată la o altitudine de aproximativ 1750 de metri în județul Nantou, Taiwan. Fondată inițial în 1961 de veterani ai războiului civil chinez, s-a transformat într-o atracție turistică majoră. Ferma este renumită pentru dealurile sale verzi, creșterea oilor și arhitectura de inspirație europeană. Se întinde pe 760 de hectare și oferă o panoramă asupra munților din jur. Temperatura medie este de 15 °C, ceea ce o face o destinație populară pentru excursii. Vizitatorii pot asista la demonstrații de tuns oi și pot gusta produse lactate locale. Regiunea este cunoscută și pentru grădinile de ceai și înflorirea sezonieră, cum ar fi florile de cireș primăvara.",
+      en: "Qingjing Farm in Nantou County, Taiwan, sits at an elevation of approximately 1,750 meters. Established in 1961 by veterans of the Chinese Civil War, it has evolved into a scenic tourist attraction. The farm features rolling green hills, sheep farming, and European-style architecture. Covering 760 hectares, it offers panoramic views of the Central Mountain Range. The average temperature is 15°C, making it a refreshing escape from lowland heat. Visitors enjoy sheep shearing shows, local dairy products, and seasonal flower blossoms like cherry blossoms in spring. The area also produces high-mountain tea.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1750 m", "Fläche: 760 Hektar", "Gründung: 1961", "Durchschnittstemperatur: 15 °C", "Jährliche Besucherzahl: über 1,5 Millionen", "Teeproduktion: 20 Tonnen jährlich"],
+      hu: ["Tengerszint feletti magasság: 1750 m", "Terület: 760 hektár", "Alapítás éve: 1961", "Átlaghőmérséklet: 15 °C", "Éves látogatószám: több mint 1,5 millió", "Tea termelés: évi 20 tonna"],
+      ro: ["Altitudine: 1750 m", "Suprafață: 760 hectare", "Fondată: 1961", "Temperatura medie: 15 °C", "Vizitatori anual: peste 1,5 milioane", "Producție de ceai: 20 tone pe an"],
+      en: ["Elevation: 1,750 m", "Area: 760 hectares", "Founded: 1961", "Average temperature: 15°C", "Annual visitors: over 1.5 million", "Tea production: 20 tons per year"],
+    },
+  },
   {
     id: "guandu-nature-park-life-v2",
     type: "wildlife-area",
     parent: "TW-TPE",
     coords: [121.4705, 25.1186],
-    name: { de: "Guandu-Naturpark", hu: "Kuantu Természetvédelmi Park", ro: "Parcul Natural Guandu", en: "Guandu Nature Park",
-image: "/poi-images/guandu-nature-park-life-v2.webp"
-},
+    name: { de: "Guandu-Naturpark", hu: "Kuantu Természetvédelmi Park", ro: "Parcul Natural Guandu", en: "Guandu Nature Park"},
+    image: "/poi-images/guandu-nature-park-life-v2.webp",
     description: { de: "Ein wichtiges Feuchtgebiet in Taipeh, das als Rastplatz für viele Zugvögel dient.", hu: "Fontos vizes élőhely Tajpejben, amely számos költöző madár pihenőhelyéül szolgál.", ro: "O zonă umedă importantă din Taipei, care servește drept loc de odihnă pentru multe păsări migratoare.", en: "An important wetland in Taipei that serves as a resting place for many migratory birds." },
     facts: {
       de: ["Umfasst eine Fläche von 57 Hektar.", "Beliebter Ort zur Vogelbeobachtung im Herbst und Winter."],
       hu: ["Területe 57 hektár.", "Népszerű madármegfigyelő hely ősszel és télen."],
       ro: ["Se întinde pe o suprafață de 57 de hectare.", "Loc popular pentru observarea păsărilor toamna și iarna."],
       en: ["Covers an area of 57 hectares.", "Popular spot for bird watching in autumn and winter."]
-    }, image: "/poi-images/guandu-nature-park-life-v2.webp"},
+    }, image: "/poi-images/guandu-nature-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Guandu-Naturpark liegt an der Mündung des Tamsui-Flusses in Taipeh, Taiwan. Er wurde 1996 eröffnet und umfasst 57 Hektar Feuchtgebiet, das als wichtiger Rastplatz für Zugvögel dient. Über 200 Vogelarten wurden hier gesichtet, darunter der gefährdete Schwarzzügelibis. Der Park bietet Beobachtungshütten, Lehrpfade und ein Besucherzentrum mit Ausstellungen zur Ökologie. Er ist Teil des Tamsui Mangroven-Naturschutzgebiets, das die größten Mangrovenwälder Nordtaiwans beherbergt. Jährlich besuchen etwa 500.000 Menschen den Park, um Vögel zu beobachten oder die Gezeitenzone zu erkunden.",
+      hu: "A Guandu Nature Park a Tamsui folyó torkolatánál található Tajpejben, Tajvanon. 1996-ban nyitották meg, és 57 hektárnyi vizes élőhelyet foglal magában, amely fontos pihenőhely a vonuló madarak számára. Több mint 200 madárfajt észleltek itt, köztük a veszélyeztetett fekete arcú kanalasgém. A park megfigyelőkunyhókat, tanösvényeket és egy látogatóközpontot kínál ökológiai kiállításokkal. A park a Tamsui Mangrove Természetvédelmi Terület része, amely Észak-Tajvan legnagyobb mangroveerdőit foglalja magában. Évente mintegy 500 000 ember keresi fel a parkot madármegfigyelés vagy az árapályzóna felfedezése céljából.",
+      ro: "Parcul Natural Guandu este situat la vărsarea râului Tamsui în Taipei, Taiwan. A fost deschis în 1996 și acoperă 57 de hectare de zonă umedă, care servește ca punct de oprire important pentru păsările migratoare. Peste 200 de specii de păsări au fost observate aici, inclusiv ibisul cu față neagră, o specie pe cale de dispariție. Parcul oferă observatoare, trasee educaționale și un centru de vizitare cu expoziții ecologice. Face parte din Rezervația Naturală de Mangrove Tamsui, care adăpostește cele mai mari păduri de mangrove din nordul Taiwanului. Anual, aproximativ 500.000 de persoane vizitează parcul pentru observarea păsărilor sau explorarea zonei de maree.",
+      en: "Guandu Nature Park, at the mouth of the Tamsui River in Taipei, Taiwan, opened in 1996. It covers 57 hectares of wetland, a critical stopover for migratory birds. Over 200 bird species have been recorded, including the endangered black-faced spoonbill. The park features bird hides, boardwalks, and a visitor center with ecological exhibits. It is part of the Tamsui Mangrove Nature Reserve, which contains the largest mangrove forests in northern Taiwan. Approximately 500,000 people visit annually for birdwatching and intertidal exploration.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 57 Hektar", "Eröffnung: 1996", "Vogelarten: über 200", "Jährliche Besucher: 500.000", "Mangrovenfläche: 30 Hektar", "Gezeitenhub: bis zu 2 Meter"],
+      hu: ["Terület: 57 hektár", "Megnyitás: 1996", "Madárfajok száma: több mint 200", "Éves látogatók száma: 500 000", "Mangrove terület: 30 hektár", "Árapály magasság: akár 2 méter"],
+      ro: ["Suprafață: 57 hectare", "Deschis: 1996", "Specii de păsări: peste 200", "Vizitatori anual: 500.000", "Suprafață mangrove: 30 hectare", "Amplitudinea mareei: până la 2 metri"],
+      en: ["Area: 57 hectares", "Opened: 1996", "Bird species: over 200", "Annual visitors: 500,000", "Mangrove area: 30 hectares", "Tidal range: up to 2 meters"],
+    },
+  },
   {
     id: "flying-cow-ranch-life-v2",
     type: "agriculture",
     parent: "TW-MIA",
     coords: [120.7397, 24.4338],
-    name: { de: "Flying-Cow-Ranch", hu: "Repülő Tehén Farm", ro: "Ferma Flying Cow", en: "Flying Cow Ranch",
-image: "/poi-images/flying-cow-ranch-life-v2.webp"
-},
+    name: { de: "Flying-Cow-Ranch", hu: "Repülő Tehén Farm", ro: "Ferma Flying Cow", en: "Flying Cow Ranch"},
+    image: "/poi-images/flying-cow-ranch-life-v2.webp",
     description: { de: "Ein beliebter Freizeitbauernhof in Miaoli, der interaktive Erlebnisse mit Milchkühen und anderen Tieren bietet.", hu: "Népszerű szabadidős gazdaság Miaoliban, amely interaktív élményeket kínál tehenekkel és más állatokkal.", ro: "O fermă de agrement populară din Miaoli, care oferă experiențe interactive cu vaci de lapte și alte animale.", en: "A popular recreational farm in Miaoli offering interactive experiences with dairy cows and other animals." },
     facts: {
       de: ["Bietet Aktivitäten wie Kuhmelken an.", "Umfasst ausgedehnte Wiesen und Wälder."],
       hu: ["Olyan programokat kínál, mint a tehénfejés.", "Kiterjedt réteket és erdőket foglal magában."],
       ro: ["Oferă activități precum mulsul vacilor.", "Include pajiști și păduri întinse."],
       en: ["Offers activities such as cow milking.", "Features extensive meadows and forests."]
-    }, image: "/poi-images/flying-cow-ranch-life-v2.webp"},
+    }, image: "/poi-images/flying-cow-ranch-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Flying Cow Ranch liegt im Landkreis Miaoli, Taiwan, auf einer Höhe von 300 bis 500 Metern. Sie wurde 1975 als Milchviehbetrieb gegründet und entwickelte sich zu einem Freizeitbauernhof mit Schwerpunkt auf Bildung. Die Farm erstreckt sich über 120 Hektar und beherbergt über 200 Kühe. Besucher können Melkvorführungen, Kuhfütterungen und Käsereibesuche erleben. Die Durchschnittstemperatur liegt bei 22 °C. Die Ranch produziert jährlich etwa 500 Tonnen Milch. Auch Aktivitäten wie Reiten und Grillen werden angeboten.",
+      hu: "A Flying Cow Ranch Miaoli megyében, Tajvanon található, 300-500 méteres tengerszint feletti magasságban. 1975-ben alapították tejgazdaságként, és oktatási fókuszú szabadidős tanyává fejlődött. A farm 120 hektáron terül el, és több mint 200 tehenet tart. A látogatók részesei lehetnek fejési bemutatóknak, tehénetetésnek és sajtüzem-látogatásoknak. Az átlaghőmérséklet 22 °C. A ranch évente körülbelül 500 tonna tejet termel. Emellett lovaglás és grillezési lehetőségek is elérhetők.",
+      ro: "Flying Cow Ranch este situată în județul Miaoli, Taiwan, la o altitudine între 300 și 500 de metri. A fost fondată în 1975 ca o fermă de lapte și s-a transformat într-o fermă de agrement cu accent educațional. Ferma se întinde pe 120 de hectare și găzduiește peste 200 de vaci. Vizitatorii pot asista la demonstrații de muls, hrănirea vacilor și vizite la fabrica de brânză. Temperatura medie este de 22 °C. Ferma produce anual aproximativ 500 de tone de lapte. Sunt disponibile și activități precum călăria și grătarul.",
+      en: "Flying Cow Ranch in Miaoli County, Taiwan, sits at 300–500 meters elevation. Founded in 1975 as a dairy farm, it evolved into an educational leisure farm. Covering 120 hectares, it houses over 200 cows. Visitors enjoy milking demonstrations, cow feeding, and cheese factory tours. Average temperature is 22°C. The ranch produces about 500 tons of milk annually. Horseback riding and barbecue facilities are also available.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 300–500 m", "Fläche: 120 Hektar", "Gründung: 1975", "Kuhbestand: über 200", "Milchproduktion: 500 Tonnen jährlich", "Durchschnittstemperatur: 22 °C"],
+      hu: ["Magasság: 300–500 m", "Terület: 120 hektár", "Alapítás: 1975", "Tehénállomány: több mint 200", "Tejtermelés: évi 500 tonna", "Átlaghőmérséklet: 22 °C"],
+      ro: ["Altitudine: 300–500 m", "Suprafață: 120 hectare", "Fondată: 1975", "Număr de vaci: peste 200", "Producție de lapte: 500 tone pe an", "Temperatura medie: 22 °C"],
+      en: ["Elevation: 300–500 m", "Area: 120 hectares", "Founded: 1975", "Cattle: over 200 cows", "Milk production: 500 tons annually", "Average temperature: 22°C"],
+    },
+  },
   {
     id: "xitou-nature-education-area-life-v2",
     type: "park",
     parent: "TW-NAN",
     coords: [120.7961, 23.6683],
-    name: { de: "Xitou-Naturerholungsgebiet", hu: "Hszitou Természetoktatási Terület", ro: "Aria de Educație Naturală Xitou", en: "Xitou Nature Education Area",
-image: "/poi-images/xitou-nature-education-area-life-v2.webp"
-},
+    name: { de: "Xitou-Naturerholungsgebiet", hu: "Hszitou Természetoktatási Terület", ro: "Aria de Educație Naturală Xitou", en: "Xitou Nature Education Area"},
+    image: "/poi-images/xitou-nature-education-area-life-v2.webp",
     description: { de: "Ein dichter Bambuswald und Forschungsgebiet, das eine kühle und ruhige Atmosphäre bietet.", hu: "Sűrű bambuszerdő és kutatóterület, amely hűvös és nyugodt légkört biztosít.", ro: "O pădure densă de bambus și o zonă de cercetare care oferă o atmosferă răcoroasă și liniștită.", en: "A dense bamboo forest and research area offering a cool and tranquil atmosphere." },
     facts: {
       de: ["Wird von der National Taiwan University verwaltet.", "Bekannt für den beeindruckenden Sky Walk in den Baumkronen."],
       hu: ["A Tajvani Nemzeti Egyetem kezeli.", "Híres a lenyűgöző lombkorona-sétányáról."],
       ro: ["Este administrată de Universitatea Națională din Taiwan.", "Renumită pentru pasarela spectaculoasă printre coroanele copacilor."],
       en: ["Managed by the National Taiwan University.", "Known for the impressive canopy sky walk."]
-    }, image: "/poi-images/xitou-nature-education-area-life-v2.webp"},
+    }, image: "/poi-images/xitou-nature-education-area-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Xitou Nature Education Area liegt im Landkreis Nantou, Taiwan, auf einer Höhe von 1150 Metern. Es ist Teil des Xitou-Waldes, der für seine alten Japanischen Zypressen bekannt ist. Das Gebiet wurde 1970 für die Öffentlichkeit geöffnet und umfasst 2200 Hektar. Es bietet Wanderwege, Hängebrücken und einen Wasserturm mit Aussichtsplattform. Die Luftfeuchtigkeit ist hoch, und die jährliche Niederschlagsmenge beträgt 2500 mm. Es ist ein Zentrum für Umweltbildung mit Workshops zu Ökologie und Botanik.",
+      hu: "A Xitou Nature Education Area Nantou megyében, Tajvanon található, 1150 méteres tengerszint feletti magasságban. A Xitou-erdő része, amely híres régi japánciprusairól. A területet 1970-ben nyitották meg a nyilvánosság számára, és 2200 hektárt ölel fel. Túraútvonalakat, függőhidakat és egy kilátóval ellátott víztornyot kínál. A páratartalom magas, az éves csapadékmennyiség 2500 mm. Környezeti oktatási központ, ökológiai és botanikai műhelyekkel.",
+      ro: "Zona de Educație Naturală Xitou este situată în județul Nantou, Taiwan, la o altitudine de 1150 de metri. Face parte din pădurea Xitou, renumită pentru chiparoșii japonezi bătrâni. Zona a fost deschisă publicului în 1970 și acoperă 2200 de hectare. Oferă trasee de drumeție, poduri suspendate și un turn de apă cu platformă de observație. Umiditatea este ridicată, iar precipitațiile anuale sunt de 2500 mm. Este un centru de educație ecologică cu ateliere de ecologie și botanică.",
+      en: "Xitou Nature Education Area in Nantou County, Taiwan, sits at 1,150 meters elevation. Part of the Xitou forest known for ancient Japanese cedar trees, it opened to the public in 1970. Spanning 2,200 hectares, it features hiking trails, suspension bridges, and a water tower observation deck. Humidity is high, with annual rainfall of 2,500 mm. It serves as an environmental education center, hosting ecology and botany workshops.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1150 m", "Fläche: 2200 Hektar", "Öffnungsjahr: 1970", "Jährlicher Niederschlag: 2500 mm", "Luftfeuchtigkeit: 85 % Durchschnitt", "Baumalter: bis zu 2000 Jahre"],
+      hu: ["Magasság: 1150 m", "Terület: 2200 hektár", "Megnyitás éve: 1970", "Éves csapadék: 2500 mm", "Átlagos páratartalom: 85%", "Fák kora: akár 2000 év"],
+      ro: ["Altitudine: 1150 m", "Suprafață: 2200 hectare", "Deschis: 1970", "Precipitații anuale: 2500 mm", "Umiditate medie: 85%", "Vârsta copacilor: până la 2000 de ani"],
+      en: ["Elevation: 1,150 m", "Area: 2,200 hectares", "Opened: 1970", "Annual rainfall: 2,500 mm", "Average humidity: 85%", "Tree age: up to 2,000 years"],
+    },
+  },
   {
     id: "daan-forest-park-life-v2",
     type: "park",
     parent: "TW-TPE",
     coords: [121.5350, 25.0305],
-    name: { de: "Daan-Waldpark", hu: "Taan Erdei Park", ro: "Parcul Forestier Daan", en: "Daan Forest Park",
-image: "/poi-images/daan-forest-park-life-v2.webp"
-},
+    name: { de: "Daan-Waldpark", hu: "Taan Erdei Park", ro: "Parcul Forestier Daan", en: "Daan Forest Park"},
+    image: "/poi-images/daan-forest-park-life-v2.webp",
     description: { de: "Eine große grüne Oase im Herzen von Taipeh, die den Stadtbewohnern Erholung bietet.", hu: "Hatalmas zöld oázis Tajpej szívében, amely kikapcsolódást nyújt a városlakóknak.", ro: "O mare oază verde în inima orașului Taipei, oferind relaxare locuitorilor orașului.", en: "A large green oasis in the heart of Taipei providing recreation for city dwellers." },
     facts: {
       de: ["Eröffnet im Jahr 1994.", "Wird oft als die grüne Lunge von Taipeh bezeichnet."],
       hu: ["1994-ben nyitották meg.", "Gyakran Tajpej zöld tüdejének is nevezik."],
       ro: ["Deschis în anul 1994.", "Adesea numit plămânul verde al orașului Taipei."],
       en: ["Opened in 1994.", "Often referred to as the green lung of Taipei."]
-    }, image: "/poi-images/daan-forest-park-life-v2.webp"},
+    }, image: "/poi-images/daan-forest-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Daan-Waldpark im Zentrum von Taipeh, Taiwan, wurde 1994 eröffnet und ist einer der größten Stadtparks der Stadt. Er umfasst 26 Hektar und bietet einen künstlichen See, einen Pavillon und breite Wege. Der Park beherbergt über 10.000 Bäume und bietet Lebensraum für Vögel wie Eisvögel. Er wird für Sport, Konzerte und Festivals genutzt. Die Durchschnittstemperatur im Sommer beträgt 30 °C. Der Park täglich von etwa 50.000 Menschen besucht.",
+      hu: "A Daan Forest Park Tajpej központjában, Tajvanon, 1994-ben nyílt meg, és a város egyik legnagyobb városi parkja. 26 hektáron terül el, és mesterséges tavat, pavilont és széles sétányokat kínál. A park több mint 10 000 fának ad otthont, és madarak, például jégmadarak élőhelye. Sportrendezvényekre, koncertekre és fesztiválokra használják. Nyáron az átlaghőmérséklet 30 °C. Naponta körülbelül 50 000 ember látogatja.",
+      ro: "Parcul Forestier Daan, situat în centrul orașului Taipei, Taiwan, a fost deschis în 1994 și este unul dintre cele mai mari parcuri urbane ale orașului. Se întinde pe 26 de hectare și oferă un lac artificial, un foișor și alei largi. Parcul adăpostește peste 10.000 de copaci și oferă habitat pentru păsări precum pescărușul. Este folosit pentru sport, concerte și festivaluri. Temperatura medie de vară este de 30 °C. Aproximativ 50.000 de persoane îl vizitează zilnic.",
+      en: "Daan Forest Park in central Taipei, Taiwan, opened in 1994 and is one of the city's largest urban parks. Covering 26 hectares, it features an artificial lake, a pavilion, and wide pathways. The park contains over 10,000 trees and provides habitat for birds like kingfishers. It hosts sports, concerts, and festivals. Summer average temperature is 30°C. Approximately 50,000 people visit daily.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 26 Hektar", "Eröffnung: 1994", "Bäume: über 10.000", "Tägliche Besucher: 50.000", "See: 0,5 Hektar", "Baumarten: über 100"],
+      hu: ["Terület: 26 hektár", "Megnyitás: 1994", "Fák száma: több mint 10 000", "Napi látogatók: 50 000", "Tó: 0,5 hektár", "Fafajok: több mint 100"],
+      ro: ["Suprafață: 26 hectare", "Deschis: 1994", "Copaci: peste 10.000", "Vizitatori zilnici: 50.000", "Lac: 0,5 hectare", "Specii de arbori: peste 100"],
+      en: ["Area: 26 hectares", "Opened: 1994", "Trees: over 10,000", "Daily visitors: 50,000", "Lake: 0.5 hectares", "Tree species: over 100"],
+    },
+  },
   {
     id: "aogu-wetland-life-v2",
     type: "wildlife-area",
     parent: "TW-CYQ",
     coords: [120.1386, 23.5152],
-    name: { de: "Aogu-Feuchtgebiet-Waldpark", hu: "Aoku Vizes Élőhely Erdei Park", ro: "Parcul Forestier și Zona Umedă Aogu", en: "Aogu Wetland Forest Park",
-image: "/poi-images/aogu-wetland-life-v2.webp"
-},
+    name: { de: "Aogu-Feuchtgebiet-Waldpark", hu: "Aoku Vizes Élőhely Erdei Park", ro: "Parcul Forestier și Zona Umedă Aogu", en: "Aogu Wetland Forest Park"},
+    image: "/poi-images/aogu-wetland-life-v2.webp",
     description: { de: "Ein renaturiertes Feuchtgebiet an der Küste, das eine große Vielfalt an Vögeln und maritimem Leben beherbergt.", hu: "Helyreállított partvidéki vizes élőhely, amely madarak és tengeri élőlények nagy változatosságának ad otthont.", ro: "O zonă umedă de coastă restaurată, care găzduiește o mare varietate de păsări și viață marină.", en: "A restored coastal wetland hosting a great variety of birds and marine life." },
     facts: {
       de: ["Ehemaliges Poldergebiet.", "Eines der größten Feuchtgebiete in Taiwan."],
       hu: ["Korábban polder terület volt.", "Tajvan egyik legnagyobb vizes élőhelye."],
       ro: ["Fostă zonă de polder.", "Una dintre cele mai mari zone umede din Taiwan."],
       en: ["Formerly a polder area.", "One of the largest wetlands in Taiwan."]
-    }, image: "/poi-images/aogu-wetland-life-v2.webp"},
+    }, image: "/poi-images/aogu-wetland-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Aogu-Feuchtgebiet liegt im Landkreis Chiayi, Taiwan, und erstreckt sich über 1000 Hektar. Es war einst eine Saline, die 1986 stillgelegt wurde, und entwickelte sich zu einem Feuchtgebiet von internationaler Bedeutung. Es ist ein wichtiger Rastplatz für Zugvögel, darunter der Schwarzschnabelstorch. Über 200 Vogelarten wurden dokumentiert. Das Gebiet wird von der Taiwan Forestry Bureau verwaltet und bietet Ökotourismus-Aktivitäten wie Vogelbeobachtung und Radfahren. Die jährliche Niederschlagsmenge beträgt 1800 mm.",
+      hu: "Az Aogu-vizes élőhely Chiayi megyében, Tajvanon található, és 1000 hektáron terül el. Egykor sólepárló volt, amelyet 1986-ban hagytak fel, és nemzetközi jelentőségű vizes élőhellyé fejlődött. Fontos pihenőhely a vonuló madarak, például a fekete gólya számára. Több mint 200 madárfajt dokumentáltak. A területet a Taiwan Forestry Bureau kezeli, és ökoturisztikai tevékenységeket kínál, mint a madármegfigyelés és a kerékpározás. Az éves csapadékmennyiség 1800 mm.",
+      ro: "Zona umedă Aogu este situată în județul Chiayi, Taiwan, și se întinde pe 1000 de hectare. A fost cândva o salină, dezafectată în 1986, și a devenit o zonă umedă de importanță internațională. Este un important punct de oprire pentru păsările migratoare, inclusiv barza neagră. Peste 200 de specii de păsări au fost documentate. Zona este administrată de Biroul Forestier din Taiwan și oferă activități de ecoturism, cum ar fi observarea păsărilor și ciclismul. Precipitațiile anuale sunt de 1800 mm.",
+      en: "Aogu Wetland in Chiayi County, Taiwan, spans 1,000 hectares. Formerly a salt pan abandoned in 1986, it became an internationally important wetland. It is a key stopover for migratory birds, including the black stork. Over 200 bird species have been recorded. Managed by the Taiwan Forestry Bureau, it offers ecotourism like birdwatching and cycling. Annual rainfall is 1,800 mm.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1000 Hektar", "Stilllegung der Saline: 1986", "Vogelarten: über 200", "Jährlicher Niederschlag: 1800 mm", "Höhe: 0–5 m", "Gezeitenbereich: 1 m"],
+      hu: ["Terület: 1000 hektár", "Sólepárló felszámolása: 1986", "Madárfajok: több mint 200", "Éves csapadék: 1800 mm", "Magasság: 0–5 m", "Árapály tartomány: 1 m"],
+      ro: ["Suprafață: 1000 hectare", "Salina dezafectată în: 1986", "Specii de păsări: peste 200", "Precipitații anuale: 1800 mm", "Altitudine: 0–5 m", "Amplitudinea mareei: 1 m"],
+      en: ["Area: 1,000 hectares", "Salt pan decommissioned: 1986", "Bird species: over 200", "Annual rainfall: 1,800 mm", "Elevation: 0–5 m", "Tidal range: 1 m"],
+    },
+  },
   {
     id: "fushoushan-farm-life-v2",
     type: "agriculture",
     parent: "TW-TXG",
     coords: [121.2450, 24.2405],
-    name: { de: "Fushoushan-Farm", hu: "Fusousan Farm", ro: "Ferma Fushoushan", en: "Fushoushan Farm",
-image: "/poi-images/fushoushan-farm-life-v2.webp"
-},
+    name: { de: "Fushoushan-Farm", hu: "Fusousan Farm", ro: "Ferma Fushoushan", en: "Fushoushan Farm"},
+    image: "/poi-images/fushoushan-farm-life-v2.webp",
     description: { de: "Eine hochgelegene Farm, die für ihre Obstplantagen, Teefelder und atemberaubenden Bergkulissen bekannt ist.", hu: "Magasan fekvő gazdaság, amely gyümölcsöseiről, teaföldjeiről és lélegzetelállító hegyi tájairól ismert.", ro: "O fermă la mare altitudine, cunoscută pentru livezile, câmpurile de ceai și peisajele montane uluitoare.", en: "A high-altitude farm known for its orchards, tea fields, and breathtaking mountain scenery." },
     facts: {
       de: ["Liegt zwischen 2.100 und 2.614 Metern über dem Meeresspiegel.", "Berühmt für Äpfel, Pfirsiche und Oolong-Tee."],
       hu: ["A tengerszint felett 2100 és 2614 méter között fekszik.", "Híres almáiról, őszibarackjairól és oolong teájáról."],
       ro: ["Situată între 2.100 și 2.614 metri deasupra nivelului mării.", "Renumită pentru mere, piersici și ceaiul Oolong."],
       en: ["Located between 2,100 and 2,614 meters above sea level.", "Famous for apples, peaches, and Oolong tea."]
-    }, image: "/poi-images/fushoushan-farm-life-v2.webp"},
+    }, image: "/poi-images/fushoushan-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fushoushan-Farm liegt im Landkreis Taichung, Taiwan, auf einer Höhe von 2100 bis 2600 Metern. Sie wurde 1960 von Veteranen gegründet, um landwirtschaftliche Entwicklung in Bergregionen zu fördern. Die Farm umfasst 800 Hektar und produziert Berggemüse, Obst und Tee. Das Klima ist kühl mit einer Durchschnittstemperatur von 12 °C. Bekannt ist sie für ihre Apfelplantagen und die Zypressenwälder. Besucher wandern entlang des Zypressenwegs und genießen die Aussicht auf die Schneeberge. Die Farm beherbergt auch ein kleines Museum zur Geschichte der Veteranen.",
+      hu: "A Fushoushan Farm Taichung megyében, Tajvanon található, 2100 és 2600 méter közötti magasságban. 1960-ban alapították veteránok, hogy elősegítsék a mezőgazdasági fejlődést a hegyvidéki régiókban. A farm 800 hektáron terül el, és hegyi zöldségeket, gyümölcsöket és teát termel. Az éghajlat hűvös, az átlaghőmérséklet 12 °C. Híres almaültetvényeiről és cipruserdeiről. A látogatók a ciprusösvényen túrázhatnak, és gyönyörködhetnek a havas hegyek kilátásában. A farmon egy kis múzeum is található a veteránok történetéről.",
+      ro: "Ferma Fushoushan este situată în județul Taichung, Taiwan, la o altitudine între 2100 și 2600 de metri. A fost fondată în 1960 de veterani pentru a promova dezvoltarea agricolă în regiunile montane. Ferma se întinde pe 800 de hectare și produce legume montane, fructe și ceai. Clima este răcoroasă, cu o temperatură medie de 12 °C. Este renumită pentru livezile sale de mere și pădurile de chiparoși. Vizitatorii fac drumeții pe Poteca Chiparoșilor și se bucură de priveliștea Munților Zăpezii. Ferma adăpostește și un mic muzeu despre istoria veteranilor.",
+      en: "Fushoushan Farm in Taichung County, Taiwan, sits at 2,100–2,600 meters elevation. Founded in 1960 by veterans to promote mountain agriculture, it spans 800 hectares. It produces highland vegetables, fruits, and tea. The climate is cool, averaging 12°C. Famous for its apple orchards and cypress forests, visitors hike the Cypress Trail and enjoy views of Snow Mountain. The farm also houses a small museum on veteran history.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 2100–2600 m", "Fläche: 800 Hektar", "Gründung: 1960", "Durchschnittstemperatur: 12 °C", "Apfelproduktion: 50 Tonnen jährlich", "Teeproduktion: 10 Tonnen jährlich"],
+      hu: ["Magasság: 2100–2600 m", "Terület: 800 hektár", "Alapítás: 1960", "Átlaghőmérséklet: 12 °C", "Alma termelés: évi 50 tonna", "Tea termelés: évi 10 tonna"],
+      ro: ["Altitudine: 2100–2600 m", "Suprafață: 800 hectare", "Fondată: 1960", "Temperatura medie: 12 °C", "Producție de mere: 50 tone pe an", "Producție de ceai: 10 tone pe an"],
+      en: ["Elevation: 2,100–2,600 m", "Area: 800 hectares", "Founded: 1960", "Average temperature: 12°C", "Apple production: 50 tons annually", "Tea production: 10 tons annually"],
+    },
+  },
   {
     id: "wuling-farm-life-v2",
     type: "agriculture",
     parent: "TW-TXG",
     coords: [121.3116, 24.3647],
-    name: { de: "Wuling-Farm", hu: "Vuling Farm", ro: "Ferma Wuling", en: "Wuling Farm",
-image: "/poi-images/wuling-farm-life-v2.webp"
-},
+    name: { de: "Wuling-Farm", hu: "Vuling Farm", ro: "Ferma Wuling", en: "Wuling Farm"},
+    image: "/poi-images/wuling-farm-life-v2.webp",
     description: { de: "Ein malerisches Tal, das das ganze Jahr über Blumenpracht bietet, besonders beliebt während der Kirschblütensaison.", hu: "Festői völgy, amely egész évben virágpompát kínál, különösen a cseresznyevirágzás idején népszerű.", ro: "O vale pitorească care oferă o abundență de flori tot timpul anului, deosebit de populară în sezonul înfloririi cireșilor.", en: "A scenic valley offering floral beauty year-round, especially popular during the cherry blossom season." },
     facts: {
       de: ["Einst gegründet, um Veteranen nach dem Krieg Landwirtschaft zu ermöglichen.", "Wichtiger Lebensraum für den endemischen Formosa-Lachs."],
       hu: ["Eredetileg azért alapították, hogy mezőgazdasági munkát biztosítsanak a veteránoknak.", "Az endemikus formosai lazac fontos élőhelye."],
       ro: ["Fondată inițial pentru a oferi activități agricole veteranilor.", "Habitat important pentru somonul endemic de Formosa."],
       en: ["Originally established to provide agriculture work for veterans.", "Important habitat for the endemic Formosan landlocked salmon."]
-    }, image: "/poi-images/wuling-farm-life-v2.webp"},
+    }, image: "/poi-images/wuling-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wuling-Farm liegt im Landkreis Taichung, Taiwan, auf einer Höhe von 1750 bis 2100 Metern. Sie wurde 1963 von Veteranen gegründet und ist bekannt für ihre Pfirsichplantagen und Blumenfelder. Die Farm umfasst 1000 Hektar und produziert jährlich 200 Tonnen Pfirsiche. Das Klima ist gemäßigt mit einer Durchschnittstemperatur von 15 °C. Im Frühling blühen Kirschbäume, die Tausende von Besuchern anziehen. Die Farm ist Teil des Shei-Pa-Nationalparks und bietet Wanderwege wie den Taoshan-Wasserfall. Sie beherbergt auch eine Forellenzucht.",
+      hu: "A Wuling Farm Taichung megyében, Tajvanon található, 1750 és 2100 méter közötti magasságban. 1963-ban alapították veteránok, és híres őszibarackültetvényeiről és virágos mezőiről. A farm 1000 hektáron terül el, és évente 200 tonna őszibarackot termel. Az éghajlat mérsékelt, az átlaghőmérséklet 15 °C. Tavasszal cseresznyefák virágoznak, amelyek több ezer látogatót vonzanak. A farm a Shei-Pa Nemzeti Park része, és túraútvonalakat kínál, mint a Taoshan-vízesés. Itt található egy pisztrángtenyészet is.",
+      ro: "Ferma Wuling este situată în județul Taichung, Taiwan, la o altitudine între 1750 și 2100 de metri. A fost fondată în 1963 de veterani și este renumită pentru livezile de piersici și câmpurile de flori. Ferma se întinde pe 1000 de hectare și produce anual 200 de tone de piersici. Clima este temperată, cu o temperatură medie de 15 °C. Primăvara, cireșii înfloresc, atrăgând mii de vizitatori. Ferma face parte din Parcul Național Shei-Pa și oferă trasee de drumeție, cum ar fi Cascadele Taoshan. De asemenea, găzduiește o fermă de păstrăvi.",
+      en: "Wuling Farm in Taichung County, Taiwan, sits at 1,750–2,100 meters elevation. Founded in 1963 by veterans, it is famous for its peach orchards and flower fields. The farm covers 1,000 hectares and produces 200 tons of peaches annually. The climate is mild, averaging 15°C. In spring, cherry blossoms draw thousands of visitors. It is part of Shei-Pa National Park and offers trails like Taoshan Waterfall. It also operates a trout farm.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1750–2100 m", "Fläche: 1000 Hektar", "Gründung: 1963", "Pfirsichproduktion: 200 Tonnen jährlich", "Durchschnittstemperatur: 15 °C", "Forellenzucht: 50.000 Fische jährlich"],
+      hu: ["Magasság: 1750–2100 m", "Terület: 1000 hektár", "Alapítás: 1963", "Őszibarack termelés: évi 200 tonna", "Átlaghőmérséklet: 15 °C", "Pisztrángtenyészet: évi 50 000 hal"],
+      ro: ["Altitudine: 1750–2100 m", "Suprafață: 1000 hectare", "Fondată: 1963", "Producție de piersici: 200 tone pe an", "Temperatura medie: 15 °C", "Fermă de păstrăvi: 50.000 de pești pe an"],
+      en: ["Elevation: 1,750–2,100 m", "Area: 1,000 hectares", "Founded: 1963", "Peach production: 200 tons annually", "Average temperature: 15°C", "Trout farm: 50,000 fish annually"],
+    },
+  },
   {
     id: "lihpao-land-life-v2",
     type: "kid-friendly",
     parent: "TW-TXG",
     coords: [120.6972, 24.3236],
-    name: { de: "Lihpao-Land", hu: "Lihpao Land", ro: "Lihpao Land", en: "Lihpao Land",
-image: "/poi-images/lihpao-land-life-v2.webp"
-},
+    name: { de: "Lihpao-Land", hu: "Lihpao Land", ro: "Lihpao Land", en: "Lihpao Land"},
+    image: "/poi-images/lihpao-land-life-v2.webp",
     description: { de: "Ein großer Vergnügungs- und Wasserpark, der Spaß und Attraktionen für die ganze Familie bietet.", hu: "Hatalmas vidámpark és aquapark, amely szórakozást és látványosságokat kínál az egész családnak.", ro: "Un mare parc de distracții și acvatic, care oferă atracții și distracție pentru întreaga familie.", en: "A large amusement and water park offering fun and attractions for the whole family." },
     facts: {
       de: ["Verfügt über die einzige Achterbahn Taiwans mit abgebrochener Strecke.", "Beinhaltet auch ein großes Einkaufszentrum und ein Riesenrad."],
@@ -157,9 +251,8 @@ image: "/poi-images/lihpao-land-life-v2.webp"
     type: "kid-friendly",
     parent: "TW-HUA",
     coords: [121.6033, 23.9019],
-    name: { de: "Farglory-Meerespark", hu: "Farglory Óceán Park", ro: "Parcul Oceanic Farglory", en: "Farglory Ocean Park",
-image: "/poi-images/farglory-ocean-park-life-v2.webp"
-},
+    name: { de: "Farglory-Meerespark", hu: "Farglory Óceán Park", ro: "Parcul Oceanic Farglory", en: "Farglory Ocean Park"},
+    image: "/poi-images/farglory-ocean-park-life-v2.webp",
     description: { de: "Ein Themenpark direkt am Pazifik, der sich auf Meeresleben, Shows und Fahrgeschäfte konzentriert.", hu: "Közvetlenül a Csendes-óceán partján fekvő vidámpark, amely a tengeri élővilágra, műsorokra és vidámparki játékokra összpontosít.", ro: "Un parc tematic situat direct pe coasta Oceanului Pacific, axat pe viața marină, spectacole și atracții.", en: "A theme park right on the Pacific coast, focusing on marine life, shows, and amusement rides." },
     facts: {
       de: ["Taiwans erster Freizeitpark mit Meeres-Thematik.", "Bietet Shows mit Delfinen und Seelöwen an."],
@@ -172,9 +265,8 @@ image: "/poi-images/farglory-ocean-park-life-v2.webp"
     type: "kid-friendly",
     parent: "TW-HSQ",
     coords: [121.1816, 24.8252],
-    name: { de: "Leofoo-Village-Freizeitpark", hu: "Leofoo Village Vidámpark", ro: "Parcul Tematic Leofoo Village", en: "Leofoo Village Theme Park",
-image: "/poi-images/leofoo-village-life-v2.webp"
-},
+    name: { de: "Leofoo-Village-Freizeitpark", hu: "Leofoo Village Vidámpark", ro: "Parcul Tematic Leofoo Village", en: "Leofoo Village Theme Park"},
+    image: "/poi-images/leofoo-village-life-v2.webp",
     description: { de: "Ein großer Freizeitpark, der einen Safaripark mit zahlreichen aufregenden Fahrgeschäften kombiniert.", hu: "Hatalmas vidámpark, amely egy szafariparkot kombinál számos izgalmas játékkal.", ro: "Un mare parc de distracții care combină un parc safari cu numeroase atracții palpitante.", en: "A large theme park combining a safari park with numerous thrilling rides." },
     facts: {
       de: ["Der Park ist in vier verschiedene Themenbereiche unterteilt.", "Besitzt eine große freilaufende Tierpopulation."],
@@ -187,84 +279,143 @@ image: "/poi-images/leofoo-village-life-v2.webp"
     type: "agriculture",
     parent: "TW-TTT",
     coords: [121.0963, 22.8647],
-    name: { de: "Chulu-Ranch", hu: "Csulu Farm", ro: "Ferma Chulu", en: "Chulu Ranch",
-image: "/poi-images/chulu-ranch-life-v2.webp"
-},
+    name: { de: "Chulu-Ranch", hu: "Csulu Farm", ro: "Ferma Chulu", en: "Chulu Ranch"},
+    image: "/poi-images/chulu-ranch-life-v2.webp",
     description: { de: "Eine weitläufige Molkereifarm in Taitung, berühmt für ihre frische Milch und grünen Hügel.", hu: "Kiterjedt tejgazdaság Taitungban, amely friss tejéről és zöldellő dombjairól híres.", ro: "O întinsă fermă de lactate din Taitung, renumită pentru laptele proaspăt și dealurile verzi.", en: "A sprawling dairy farm in Taitung, famous for its fresh milk and green hills." },
     facts: {
       de: ["Die größte Molkereifarm in Taiwan.", "Bietet Besuchern die Möglichkeit, mit Kühen und Pferden zu interagieren."],
       hu: ["A legnagyobb tejgazdaság Tajvanon.", "Lehetőséget kínál a látogatóknak, hogy tehenekkel és lovakkal interakcióba lépjenek."],
       ro: ["Cea mai mare fermă de lactate din Taiwan.", "Oferă vizitatorilor posibilitatea de a interacționa cu vaci și cai."],
       en: ["The largest dairy farm in Taiwan.", "Offers visitors the chance to interact with cows and horses."]
-    }, image: "/poi-images/chulu-ranch-life-v2.webp"},
+    }, image: "/poi-images/chulu-ranch-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Chulu Ranch liegt im Landkreis Hualien, Taiwan, auf einer Höhe von 300 Metern. Sie wurde 1992 gegründet und ist eine Milchfarm mit 300 Kühen. Die Ranch umfasst 150 Hektar und produziert jährlich 1000 Tonnen Milch. Besucher können Melken, Reiten und Wandern erleben. Die Durchschnittstemperatur beträgt 23 °C. Die Ranch bietet auch Unterkünfte in Form von Blockhütten. Ein Restaurant serviert Milchprodukte. Die umliegende Landschaft bietet Ausblicke auf das Küstengebirge.",
+      hu: "A Chulu Ranch Hualien megyében, Tajvanon található, 300 méteres tengerszint feletti magasságban. 1992-ben alapították, és 300 tehenet tartó tejgazdaság. A ranch 150 hektáron terül el, és évente 1000 tonna tejet termel. A látogatók fejést, lovaglást és túrázást élvezhetnek. Az átlaghőmérséklet 23 °C. A ranch faházakban kínál szállást. Egy étterem tejtermékeket szolgál fel. A környező táj a part menti hegyekre nyújt kilátást.",
+      ro: "Ferma Chulu este situată în județul Hualien, Taiwan, la o altitudine de 300 de metri. A fost fondată în 1992 și este o fermă de lapte cu 300 de vaci. Ferma se întinde pe 150 de hectare și produce anual 1000 de tone de lapte. Vizitatorii se pot bucura de muls, călărie și drumeții. Temperatura medie este de 23 °C. Ferma oferă cazare în cabane din lemn. Un restaurant servește produse lactate. Peisajul din jur oferă vederi către munții de coastă.",
+      en: "Chulu Ranch in Hualien County, Taiwan, sits at 300 meters elevation. Founded in 1992, it is a dairy farm with 300 cows. The ranch covers 150 hectares and produces 1,000 tons of milk annually. Visitors enjoy milking, horseback riding, and hiking. Average temperature is 23°C. The ranch offers lodging in log cabins. A restaurant serves dairy products. The surrounding landscape provides views of the Coastal Mountain Range.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 300 m", "Fläche: 150 Hektar", "Gründung: 1992", "Kuhbestand: 300", "Milchproduktion: 1000 Tonnen jährlich", "Durchschnittstemperatur: 23 °C"],
+      hu: ["Magasság: 300 m", "Terület: 150 hektár", "Alapítás: 1992", "Tehénállomány: 300", "Tejtermelés: évi 1000 tonna", "Átlaghőmérséklet: 23 °C"],
+      ro: ["Altitudine: 300 m", "Suprafață: 150 hectare", "Fondată: 1992", "Număr de vaci: 300", "Producție de lapte: 1000 tone pe an", "Temperatura medie: 23 °C"],
+      en: ["Elevation: 300 m", "Area: 150 hectares", "Founded: 1992", "Cows: 300", "Milk production: 1,000 tons annually", "Average temperature: 23°C"],
+    },
+  },
   {
     id: "ruisui-ranch-life-v2",
     type: "agriculture",
     parent: "TW-HUA",
     coords: [121.3438, 23.4730],
-    name: { de: "Ruisui-Ranch", hu: "Zsujszuj Farm", ro: "Ferma Ruisui", en: "Ruisui Ranch",
-image: "/poi-images/ruisui-ranch-life-v2.webp"
-},
+    name: { de: "Ruisui-Ranch", hu: "Zsujszuj Farm", ro: "Ferma Ruisui", en: "Ruisui Ranch"},
+    image: "/poi-images/ruisui-ranch-life-v2.webp",
     description: { de: "Eine bekannte Farm im Hualien-Tal, beliebt für ihre frischen Milchprodukte und idyllische Landschaft.", hu: "Jól ismert farm a Hualien-völgyben, amely népszerű friss tejtermékeiről és idilli tájáról.", ro: "O fermă bine-cunoscută în Valea Hualien, populară pentru produsele lactate proaspete și peisajul idilic.", en: "A well-known farm in the Hualien Valley, popular for its fresh dairy products and idyllic scenery." },
     facts: {
       de: ["Berühmt für ihren Nougat aus frischer Kuhmilch.", "Ein beliebter Zwischenstopp für Reisende an der Ostküste."],
       hu: ["Híres a friss tehéntejből készült nugátjáról.", "Népszerű megálló a keleti partvidéken utazók számára."],
       ro: ["Renumită pentru nuga sa preparată din lapte proaspăt de vacă.", "O oprire populară pentru călătorii de pe coasta de est."],
       en: ["Famous for its nougat made from fresh cow's milk.", "A popular rest stop for travelers on the East Coast."]
-    }, image: "/poi-images/ruisui-ranch-life-v2.webp"},
+    }, image: "/poi-images/ruisui-ranch-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruisui Ranch im Landkreis Hualien, Taiwan, liegt auf einer Höhe von 200 Metern. Sie wurde 1990 eröffnet und ist bekannt für ihre Milch- und Eierproduktion. Die Ranch umfasst 200 Hektar und hält 500 Kühe. Jährlich werden 1500 Tonnen Milch produziert. Besucher können Kuhfütterungen und Melkvorgänge beobachten. Es gibt auch einen Streichelzoo und einen Bauernmarkt. Die Durchschnittstemperatur beträgt 24 °C. Die Ranch ist von grünen Hügeln und Flüssen umgeben.",
+      hu: "A Ruisui Ranch Hualien megyében, Tajvanon található, 200 méteres tengerszint feletti magasságban. 1990-ben nyílt meg, és tej- és tojástermeléséről ismert. A ranch 200 hektáron terül el, és 500 tehenet tart. Évente 1500 tonna tejet termelnek. A látogatók megfigyelhetik a tehénetetést és a fejést. Van egy simogató állatkert és egy gazdapiac is. Az átlaghőmérséklet 24 °C. A ranchot zöld dombok és folyók veszik körül.",
+      ro: "Ferma Ruisui din județul Hualien, Taiwan, este situată la o altitudine de 200 de metri. A fost deschisă în 1990 și este cunoscută pentru producția de lapte și ouă. Ferma se întinde pe 200 de hectare și găzduiește 500 de vaci. Se produc 1.500 de tone de lapte anual. Vizitatorii pot urmări hrănirea vacilor și mulsul. Există și o grădină zoologică de contact și o piață fermieră. Temperatura medie este de 24 °C. Ferma este înconjurată de dealuri verzi și râuri.",
+      en: "Ruisui Ranch in Hualien County, Taiwan, sits at 200 meters elevation. Opened in 1990, it is known for dairy and egg production. The ranch covers 200 hectares and holds 500 cows. It produces 1,500 tons of milk annually. Visitors can watch cow feeding and milking. There is also a petting zoo and a farmer's market. Average temperature is 24°C. The ranch is surrounded by green hills and rivers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 200 m", "Fläche: 200 Hektar", "Eröffnung: 1990", "Kuhbestand: 500", "Milchproduktion: 1500 Tonnen jährlich", "Durchschnittstemperatur: 24 °C"],
+      hu: ["Magasság: 200 m", "Terület: 200 hektár", "Megnyitás: 1990", "Tehénállomány: 500", "Tejtermelés: évi 1500 tonna", "Átlaghőmérséklet: 24 °C"],
+      ro: ["Altitudine: 200 m", "Suprafață: 200 hectare", "Deschis: 1990", "Număr de vaci: 500", "Producție de lapte: 1500 tone pe an", "Temperatura medie: 24 °C"],
+      en: ["Elevation: 200 m", "Area: 200 hectares", "Opened: 1990", "Cows: 500", "Milk production: 1,500 tons annually", "Average temperature: 24°C"],
+    },
+  },
   {
     id: "sihcao-green-tunnel-life-v2",
     type: "wildlife-area",
     parent: "TW-TNN",
     coords: [120.1352, 23.0188],
-    name: { de: "Grüner Tunnel von Sihcao", hu: "Szihcao Zöld Alagút", ro: "Tunelul Verde Sihcao", en: "Sihcao Green Tunnel",
-image: "/poi-images/sihcao-green-tunnel-life-v2.webp"
-},
+    name: { de: "Grüner Tunnel von Sihcao", hu: "Szihcao Zöld Alagút", ro: "Tunelul Verde Sihcao", en: "Sihcao Green Tunnel"},
+    image: "/poi-images/sihcao-green-tunnel-life-v2.webp",
     description: { de: "Eine malerische Mangroven-Wasserstraße, auf der man Bootsfahrten durch ein dichtes grünes Blätterdach machen kann.", hu: "Festői mangrove-csatorna, ahol csónaktúrákat tehetünk egy sűrű zöld lombkorona alatt.", ro: "Un canal pitoresc de mangrove, unde se pot face plimbări cu barca sub un coronament verde dens.", en: "A picturesque mangrove waterway where visitors can take boat rides under a dense green canopy." },
     facts: {
       de: ["Wird oft als der \"Mini-Amazonas\" von Taiwan bezeichnet.", "Beherbergt viele Krabben und seltene Vogelarten."],
       hu: ["Gyakran Tajvan \"mini-Amazonasának\" is hívják.", "Számos rákfajnak és ritka madárnak ad otthont."],
       ro: ["Adesea numit \"mini-Amazonul\" Taiwanului.", "Găzduiește mulți crabi și specii rare de păsări."],
       en: ["Often referred to as the \"mini-Amazon\" of Taiwan.", "Home to many crabs and rare bird species."]
-    }, image: "/poi-images/sihcao-green-tunnel-life-v2.webp"},
+    }, image: "/poi-images/sihcao-green-tunnel-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sihcao Green Tunnel in Tainan, Taiwan, ist ein 15 Kilometer langer Rad- und Fußweg durch Mangrovenwälder. Er wurde 2012 eröffnet und verläuft entlang des Sihcao-Binnenmeers. Der Tunnel wird von alten Mangrovenbäumen überspannt und bietet ein dichtes Blätterdach. Über 40 Vogelarten, darunter Reiher, leben hier. Die beste Besuchszeit ist bei Flut. Der Weg ist flach und für alle Altersgruppen geeignet. Jährlich besuchen etwa 500.000 Menschen den Tunnel. Die Länge des Hauptabschnitts beträgt 1,5 Kilometer.",
+      hu: "A Sihcao Green Tunnel Tainanban, Tajvanon, egy 15 kilométer hosszú kerékpár- és gyalogút, amely mangroveerdőkön halad keresztül. 2012-ben nyílt meg, és a Sihcao-beltenger mentén halad. Az alagutat öreg mangrovefák borítják, sűrű lombkoronát alkotva. Több mint 40 madárfaj, köztük gémek élnek itt. A legjobb látogatási idő dagálykor van. Az út sík, minden korosztály számára alkalmas. Évente körülbelül 500 000 ember keresi fel. A fő szakasz hossza 1,5 kilométer.",
+      ro: "Tunelul Verde Sihcao din Tainan, Taiwan, este o potecă pentru biciclete și pietoni de 15 kilometri care traversează păduri de mangrove. A fost deschis în 2012 și se întinde de-a lungul Mării Interioare Sihcao. Tunelul este acoperit de copaci bătrâni de mangrove, formând un baldachin dens. Peste 40 de specii de păsări, inclusiv stârci, trăiesc aici. Cel mai bun moment pentru vizită este la maree înaltă. Poteca este plată, potrivită pentru toate vârstele. Aproximativ 500.000 de persoane vizitează anual tunelul. Lungimea secțiunii principale este de 1,5 kilometri.",
+      en: "The Sihcao Green Tunnel in Tainan, Taiwan, is a 15-kilometer cycling and walking path through mangrove forests. Opened in 2012, it runs along the Sihcao Inland Sea. The tunnel is canopied by old mangrove trees, creating a dense leaf cover. Over 40 bird species, including herons, reside here. Best visited at high tide. The path is flat and suitable for all ages. Approximately 500,000 people visit annually. The main section length is 1.5 kilometers.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 15 km", "Eröffnung: 2012", "Vogelarten: über 40", "Länge Hauptabschnitt: 1,5 km", "Jährliche Besucher: 500.000", "Höhe der Mangroven: bis zu 10 m"],
+      hu: ["Hossz: 15 km", "Megnyitás: 2012", "Madárfajok: több mint 40", "Fő szakasz hossza: 1,5 km", "Éves látogatók: 500 000", "Mangrovefák magassága: akár 10 m"],
+      ro: ["Lungime: 15 km", "Deschis: 2012", "Specii de păsări: peste 40", "Lungimea secțiunii principale: 1,5 km", "Vizitatori anuali: 500.000", "Înălțimea mangrovei: până la 10 m"],
+      en: ["Length: 15 km", "Opened: 2012", "Bird species: over 40", "Main section length: 1.5 km", "Annual visitors: 500,000", "Mangrove height: up to 10 m"],
+    },
+  },
   {
     id: "shoushan-zoo-life-v2",
     type: "kid-friendly",
     parent: "TW-KHH",
     coords: [120.2741, 22.6391],
-    name: { de: "Shoushan-Zoo", hu: "Sousan Állatkert", ro: "Grădina Zoologică Shoushan", en: "Shoushan Zoo",
-image: "/poi-images/shoushan-zoo-life-v2.webp"
-},
+    name: { de: "Shoushan-Zoo", hu: "Sousan Állatkert", ro: "Grădina Zoologică Shoushan", en: "Shoushan Zoo"},
+    image: "/poi-images/shoushan-zoo-life-v2.webp",
     description: { de: "Ein städtischer Zoo in Kaohsiung am Hang des Shoushan-Berges, der asiatische und afrikanische Tiere beherbergt.", hu: "Városi állatkert Kaohsziungban, a Sousan-hegy oldalában, amely ázsiai és afrikai állatokat mutat be.", ro: "O grădină zoologică urbană în Kaohsiung, pe versantul muntelui Shoushan, care găzduiește animale asiatice și africane.", en: "An urban zoo in Kaohsiung on the hillside of Mount Shoushan, featuring Asian and African animals." },
     facts: {
       de: ["Gegründet im Jahr 1978.", "Bekannt für die vielen wilden Makaken in der Umgebung."],
       hu: ["1978-ban alapították.", "Közismert a környéken élő számos vad makákóról."],
       ro: ["Fondată în anul 1978.", "Cunoscută pentru numeroșii macaci sălbatici din împrejurimi."],
       en: ["Founded in 1978.", "Well-known for the many wild macaques in the surrounding area."]
-    }, image: "/poi-images/shoushan-zoo-life-v2.webp"},
+    }, image: "/poi-images/shoushan-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Shoushan Zoo in Kaohsiung, Taiwan, wurde 1978 eröffnet und umfasst 15 Hektar. Der Zoo beherbergt über 200 Tiere aus 100 Arten. Bekannte Bewohner sind Elefanten, Löwen und einheimische Formosa-Schwarzbären. Der Zoo hat ein Naturschutzzentrum für bedrohte Arten. Die jährliche Besucherzahl beträgt rund 800.000. Der Eintritt ist günstig. Der Zoo liegt am Fuße des Shoushan, eines Korallenhügels. Die Durchschnittstemperatur in Kaohsiung beträgt 25 °C.",
+      hu: "A Shoushou Állatkert Kaohsiungban, Tajvanon, 1978-ban nyílt meg, és 15 hektáron terül el. Az állatkert több mint 200 állatot tart 100 fajból. Ismert lakói az elefántok, oroszlánok és a honos Formosa-feketemedvék. Az állatkert egy természetvédelmi központot működtet veszélyeztetett fajok számára. Az éves látogatók száma körülbelül 800 000. A belépő olcsó. Az állatkert a Shoushan, egy koralldomb lábánál fekszik. Kaohsiung átlaghőmérséklete 25 °C.",
+      ro: "Grădina Zoologică Shoushan din Kaohsiung, Taiwan, a fost deschisă în 1978 și se întinde pe 15 hectare. Adăpostește peste 200 de animale din 100 de specii. Rezidenți cunoscuți includ elefanți, lei și urși negri formosani nativi. Grădina zoologică are un centru de conservare pentru specii amenințate. Numărul anual de vizitatori este de aproximativ 800.000. Biletul de intrare este ieftin. Grădina zoologică este situată la poalele Shoushan, un deal de corali. Temperatura medie în Kaohsiung este de 25 °C.",
+      en: "Shoushan Zoo in Kaohsiung, Taiwan, opened in 1978 and covers 15 hectares. The zoo houses over 200 animals from 100 species. Notable residents include elephants, lions, and native Formosan black bears. It has a conservation center for endangered species. Annual attendance is around 800,000. Admission is inexpensive. The zoo sits at the foot of Shoushan, a coral hill. Kaohsiung's average temperature is 25°C.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 Hektar", "Eröffnung: 1978", "Tiere: über 200", "Arten: 100", "Jährliche Besucher: 800.000", "Durchschnittstemperatur: 25 °C"],
+      hu: ["Terület: 15 hektár", "Megnyitás: 1978", "Állatok száma: több mint 200", "Fajok száma: 100", "Éves látogatók: 800 000", "Átlaghőmérséklet: 25 °C"],
+      ro: ["Suprafață: 15 hectare", "Deschis: 1978", "Animale: peste 200", "Specii: 100", "Vizitatori anuali: 800.000", "Temperatura medie: 25 °C"],
+      en: ["Area: 15 hectares", "Opened: 1978", "Animals: over 200", "Species: 100", "Annual visitors: 800,000", "Average temperature: 25°C"],
+    },
+  },
   {
     id: "weiwuying-park-life-v2",
     type: "park",
     parent: "TW-KHH",
     coords: [120.3427, 22.6236],
-    name: { de: "Weiwuying-Metropolpark", hu: "Vejvujing Fővárosi Park", ro: "Parcul Metropolitan Weiwuying", en: "Weiwuying Metropolitan Park",
-image: "/poi-images/weiwuying-park-life-v2.webp"
-},
+    name: { de: "Weiwuying-Metropolpark", hu: "Vejvujing Fővárosi Park", ro: "Parcul Metropolitan Weiwuying", en: "Weiwuying Metropolitan Park"},
+    image: "/poi-images/weiwuying-park-life-v2.webp",
     description: { de: "Ein riesiger Park in Kaohsiung auf einem ehemaligen Militärgelände, ideal für Spaziergänge und Naturbeobachtungen.", hu: "Hatalmas park Kaohsziungban egy egykori katonai területen, amely ideális sétákhoz és természetmegfigyeléshez.", ro: "Un parc uriaș în Kaohsiung pe un fost teren militar, ideal pentru plimbări și observarea naturii.", en: "A massive park in Kaohsiung on a former military base, ideal for walks and nature observation." },
     facts: {
       de: ["Einer der größten Parks in Südtaiwan.", "Beinhaltet Feuchtgebiete und reichlich Grünflächen."],
       hu: ["Dél-Tajvan egyik legnagyobb parkja.", "Vizes élőhelyeket és bőséges zöldfelületeket foglal magában."],
       ro: ["Unul dintre cele mai mari parcuri din sudul Taiwanului.", "Include zone umede și spații verzi abundente."],
       en: ["One of the largest parks in southern Taiwan.", "Includes wetlands and abundant green spaces."]
-    }, image: "/poi-images/weiwuying-park-life-v2.webp"},
+    }, image: "/poi-images/weiwuying-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Weiwuying Metropolitan Park in Kaohsiung, Taiwan, wurde 2014 eröffnet und umfasst 47 Hektar. Er beherbergt das National Kaohsiung Center for the Arts (Weiwuying), eines der größten Opernhäuser der Welt. Der Park verfügt über einen See, Spazierwege und Gärten. Die Grünfläche beträgt 30 Hektar. Jährlich finden über 1000 Veranstaltungen statt. Der Park empfängt etwa 5 Millionen Besucher pro Jahr. Die Durchschnittstemperatur beträgt 26 °C. Ein Teil des Parks ist ein ehemaliger Militärstützpunkt.",
+      hu: "A Weiwuying Metropolitan Park Kaohsiungban, Tajvanon, 2014-ben nyílt meg, és 47 hektáron terül el. Itt található a Nemzeti Kaohsiung Művészeti Központ (Weiwuying), a világ egyik legnagyobb operaháza. A park tóval, sétányokkal és kertekkel rendelkezik. A zöldterület 30 hektár. Évente több mint 1000 eseményt rendeznek. A park évente körülbelül 5 millió látogatót fogad. Az átlaghőmérséklet 26 °C. A park egy része egykori katonai bázis.",
+      ro: "Parcul Metropolitan Weiwuying din Kaohsiung, Taiwan, a fost deschis în 2014 și se întinde pe 47 de hectare. Acesta găzduiește Centrul Național de Arte din Kaohsiung (Weiwuying), una dintre cele mai mari opere din lume. Parcul are un lac, alei și grădini. Spațiul verde este de 30 de hectare. Peste 1.000 de evenimente au loc anual. Parcul primește aproximativ 5 milioane de vizitatori pe an. Temperatura medie este de 26 °C. O parte a parcului a fost o bază militară.",
+      en: "Weiwuying Metropolitan Park in Kaohsiung, Taiwan, opened in 2014 and covers 47 hectares. It houses the National Kaohsiung Center for the Arts (Weiwuying), one of the world's largest opera houses. The park features a lake, promenades, and gardens. Green space is 30 hectares. Over 1,000 events are held annually. The park receives about 5 million visitors per year. Average temperature is 26°C. Part of the park was a former military base.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 47 Hektar", "Eröffnung: 2014", "Grünfläche: 30 Hektar", "Jährliche Veranstaltungen: über 1.000", "Jährliche Besucher: 5 Millionen", "See: 2 Hektar"],
+      hu: ["Terület: 47 hektár", "Megnyitás: 2014", "Zöldterület: 30 hektár", "Éves események: több mint 1000", "Éves látogatók: 5 millió", "Tó: 2 hektár"],
+      ro: ["Suprafață: 47 hectare", "Deschis: 2014", "Spațiu verde: 30 hectare", "Evenimente anuale: peste 1.000", "Vizitatori anuali: 5 milioane", "Lac: 2 hectare"],
+      en: ["Area: 47 hectares", "Opened: 2014", "Green space: 30 hectares", "Annual events: over 1,000", "Annual visitors: 5 million", "Lake: 2 hectares"],
+    },
+  },
   {
     id: "eda-theme-park-life-v2",
     type: "kid-friendly",
     parent: "TW-KHH",
     coords: [120.4108, 22.7302],
-    name: { de: "E-DA-Themenpark", hu: "E-DA Vidámpark", ro: "Parcul Tematic E-DA", en: "E-DA Theme Park",
-image: "/poi-images/eda-theme-park-life-v2.webp"
-},
+    name: { de: "E-DA-Themenpark", hu: "E-DA Vidámpark", ro: "Parcul Tematic E-DA", en: "E-DA Theme Park"},
+    image: "/poi-images/eda-theme-park-life-v2.webp",
     description: { de: "Ein griechisch inspirierter Freizeitpark in Kaohsiung mit zahlreichen Fahrgeschäften und Unterhaltungsmöglichkeiten.", hu: "Görög ihletésű vidámpark Kaohsziungban, számos játékkal és szórakozási lehetőséggel.", ro: "Un parc tematic de inspirație greacă în Kaohsiung, cu numeroase atracții și opțiuni de divertisment.", en: "A Greek-inspired theme park in Kaohsiung with numerous rides and entertainment options." },
     facts: {
       de: ["Der Park ist im Stil der Ägäis gestaltet.", "Bietet ein riesiges Riesenrad mit Blick auf die Stadt."],
@@ -277,30 +428,53 @@ image: "/poi-images/eda-theme-park-life-v2.webp"
     type: "wildlife-area",
     parent: "TW-HSQ",
     coords: [121.0669, 24.7005],
-    name: { de: "Ökologische Farm Green World", hu: "Zöld Világ Ökológiai Farm", ro: "Ferma Ecologică Lumea Verde", en: "Green World Ecological Farm",
-image: "/poi-images/green-world-farm-life-v2.webp"
-},
+    name: { de: "Ökologische Farm Green World", hu: "Zöld Világ Ökológiai Farm", ro: "Ferma Ecologică Lumea Verde", en: "Green World Ecological Farm"},
+    image: "/poi-images/green-world-farm-life-v2.webp",
     description: { de: "Ein interaktiver Naturpark, der Flora und Fauna aus aller Welt in sechs Themenbereichen präsentiert.", hu: "Interaktív természeti park, amely a világ minden tájáról származó növény- és állatvilágot mutat be hat tematikus részlegen.", ro: "Un parc natural interactiv care prezintă flora și fauna din întreaga lume în șase zone tematice.", en: "An interactive nature park presenting flora and fauna from around the world across six themed areas." },
     facts: {
       de: ["Umfasst eine Fläche von 70 Hektar.", "Besonders bekannt für sein Alpaka-Gehege."],
       hu: ["Területe 70 hektár.", "Különösen híres alpaka karámjáról."],
       ro: ["Se întinde pe o suprafață de 70 de hectare.", "Deosebit de cunoscut pentru țarcul său de alpaca."],
       en: ["Covers an area of 70 hectares.", "Especially well-known for its alpaca enclosure."]
-    }, image: "/poi-images/green-world-farm-life-v2.webp"},
+    }, image: "/poi-images/green-world-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Green World Ecological Farm in Miaoli, Taiwan, wurde 2004 eröffnet und umfasst 70 Hektar. Sie ist ein Zentrum für Umweltbildung und nachhaltige Landwirtschaft. Die Farm hat Themenbereiche wie Schmetterlingsgarten, Bienenhaus und tropische Pflanzen. Über 500 Pflanzenarten sind vorhanden. Die Farm beherbergt auch Tiere wie Alpakas und Pfauen. Jährlich besuchen etwa 600.000 Menschen die Farm. Sie betreibt ein Bildungsprogramm für Schulklassen. Die Durchschnittstemperatur beträgt 22 °C.",
+      hu: "A Green World Ecological Farm Miaoliban, Tajvanon, 2004-ben nyílt meg, és 70 hektáron terül el. Környezeti oktatási és fenntartható mezőgazdasági központ. A farm tematikus területekkel rendelkezik, mint pillangókert, méhészet és trópusi növények. Több mint 500 növényfaj található. A farm állatokat is tart, például alpakákat és pávákat. Évente körülbelül 600 000 ember látogatja. Iskolai csoportok számára oktatási programot működtet. Az átlaghőmérséklet 22 °C.",
+      ro: "Ferma Ecologică Green World din Miaoli, Taiwan, a fost deschisă în 2004 și se întinde pe 70 de hectare. Este un centru de educație ecologică și agricultură durabilă. Ferma are zone tematice precum grădina de fluturi, stupină și plante tropicale. Peste 500 de specii de plante sunt prezente. Ferma adăpostește și animale precum alpaca și păuni. Aproximativ 600.000 de persoane vizitează anual ferma. Ea derulează un program educațional pentru școli. Temperatura medie este de 22 °C.",
+      en: "Green World Ecological Farm in Miaoli, Taiwan, opened in 2004 and covers 70 hectares. It is a center for environmental education and sustainable agriculture. The farm features themed areas like butterfly garden, apiary, and tropical plants. Over 500 plant species are present. The farm also houses animals like alpacas and peacocks. Approximately 600,000 people visit annually. It runs an educational program for school groups. Average temperature is 22°C.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 70 Hektar", "Eröffnung: 2004", "Pflanzenarten: über 500", "Jährliche Besucher: 600.000", "Schmetterlingsarten: über 30", "Durchschnittstemperatur: 22 °C"],
+      hu: ["Terület: 70 hektár", "Megnyitás: 2004", "Növényfajok: több mint 500", "Éves látogatók: 600 000", "Pillangófajok: több mint 30", "Átlaghőmérséklet: 22 °C"],
+      ro: ["Suprafață: 70 hectare", "Deschis: 2004", "Specii de plante: peste 500", "Vizitatori anuali: 600.000", "Specii de fluturi: peste 30", "Temperatura medie: 22 °C"],
+      en: ["Area: 70 hectares", "Opened: 2004", "Plant species: over 500", "Annual visitors: 600,000", "Butterfly species: over 30", "Average temperature: 22°C"],
+    },
+  },
   {
     id: "taichung-metropolitan-park-life-v2",
     type: "park",
     parent: "TW-TXG",
     coords: [120.5975, 24.2188],
-    name: { de: "Taichung-Metropolpark", hu: "Tajcsung Fővárosi Park", ro: "Parcul Metropolitan Taichung", en: "Taichung Metropolitan Park",
-image: "/poi-images/taichung-metropolitan-park-life-v2.webp"
-},
+    name: { de: "Taichung-Metropolpark", hu: "Tajcsung Fővárosi Park", ro: "Parcul Metropolitan Taichung", en: "Taichung Metropolitan Park"},
+    image: "/poi-images/taichung-metropolitan-park-life-v2.webp",
     description: { de: "Ein großer Naturpark auf dem Dadu-Plateau, der eine weite Aussicht auf die Stadt und die Küste bietet.", hu: "Hatalmas természeti park a Tatu-fennsíkon, amely széles kilátást nyújt a városra és a partvidékre.", ro: "Un mare parc natural pe platoul Dadu, care oferă o vedere largă asupra orașului și a coastei.", en: "A large nature park on the Dadu Plateau offering expansive views of the city and the coastline." },
     facts: {
       de: ["Wurde im Jahr 2000 für die Öffentlichkeit zugänglich gemacht.", "Beliebt bei Drachenfliegern und Radfahrern."],
       hu: ["2000-ben nyitották meg a nagyközönség számára.", "Népszerű a sárkányeregetők és a kerékpárosok körében."],
       ro: ["A fost deschis publicului în anul 2000.", "Popular printre zburătorii de zmeie și bicicliști."],
       en: ["Opened to the public in 2000.", "Popular among kite flyers and cyclists."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Taichung Metropolitan Park in Taichung, Taiwan, wurde 1996 eröffnet und umfasst 80 Hektar. Der Park bietet große Rasenflächen, einen See und einen Pavillon. Er beherbergt den Taichung-Pavillon, der für Ausstellungen genutzt wird. Der Park hat einen Baumwipfelpfad von 1,5 Kilometern Länge. Jährlich besuchen etwa 2 Millionen Menschen den Park. Die Höhenlage beträgt 50 Meter. Im Park finden Konzerte und Festivals statt. Die Durchschnittstemperatur beträgt 23 °C.",
+      hu: "A Taichung Metropolitan Park Taichungban, Tajvanon, 1996-ban nyílt meg, és 80 hektáron terül el. A park nagy füves területekkel, tóval és pavilonnal rendelkezik. Itt található a Taichung Pavilon, amely kiállításoknak ad otthont. A parkban egy 1,5 kilométer hosszú lombkoronasétány található. Évente körülbelül 2 millió ember látogatja. A tengerszint feletti magasság 50 méter. A parkban koncerteket és fesztiválokat rendeznek. Az átlaghőmérséklet 23 °C.",
+      ro: "Parcul Metropolitan Taichung din Taichung, Taiwan, a fost deschis în 1996 și se întinde pe 80 de hectare. Parcul are peluze mari, un lac și un foișor. Adăpostește Pavilionul Taichung, folosit pentru expoziții. Parcul are o potecă de coroane de copaci de 1,5 kilometri. Aproximativ 2 milioane de oameni vizitează anual parcul. Altitudinea este de 50 de metri. Parcul găzduiește concerte și festivaluri. Temperatura medie este de 23 °C.",
+      en: "Taichung Metropolitan Park in Taichung, Taiwan, opened in 1996 and covers 80 hectares. The park features large lawns, a lake, and a pavilion. It houses the Taichung Pavilion used for exhibitions. The park has a canopy walkway of 1.5 kilometers. Approximately 2 million people visit annually. Elevation is 50 meters. The park hosts concerts and festivals. Average temperature is 23°C.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 80 Hektar", "Eröffnung: 1996", "Höhe: 50 m", "Länge Baumwipfelpfad: 1,5 km", "Jährliche Besucher: 2 Millionen", "See: 3 Hektar"],
+      hu: ["Terület: 80 hektár", "Megnyitás: 1996", "Magasság: 50 m", "Lombkoronasétány hossza: 1,5 km", "Éves látogatók: 2 millió", "Tó: 3 hektár"],
+      ro: ["Suprafață: 80 hectare", "Deschis: 1996", "Altitudine: 50 m", "Lungime potecă coroane: 1,5 km", "Vizitatori anuali: 2 milioane", "Lac: 3 hectare"],
+      en: ["Area: 80 hectares", "Opened: 1996", "Elevation: 50 m", "Canopy walkway length: 1.5 km", "Annual visitors: 2 million", "Lake: 3 hectares"],
+    },
   }
 ];

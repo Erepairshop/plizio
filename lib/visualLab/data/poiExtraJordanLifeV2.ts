@@ -6,303 +6,539 @@ export const poiExtraJordanLifeV2: POI[] = [
     type: "park",
     parent: "JO-BA",
     coords: [35.834, 32.185],
-    name: { de: "Königlicher Botanischer Garten", hu: "Királyi Botanikus Kert", ro: "Grădina Botanică Regală", en: "Royal Botanic Garden",
-image: "/poi-images/royal-botanic-garden-jordan-life-v2.webp"
-},
+    name: { de: "Königlicher Botanischer Garten", hu: "Királyi Botanikus Kert", ro: "Grădina Botanică Regală", en: "Royal Botanic Garden"},
+    image: "/poi-images/royal-botanic-garden-jordan-life-v2.webp",
     description: { de: "Der Königliche Botanische Garten Jordaniens schützt die einheimische Flora und bietet atemberaubende Ausblicke auf den König-Talal-Stausee. Er dient der Umweltbildung und dem Naturschutz.", hu: "Jordánia Királyi Botanikus Kertje a helyi flóra védelmére jött létre, és lenyűgöző kilátást nyújt a Talal Király-gátra. Kiemelten foglalkozik a környezeti neveléssel és a természetvédelemmel.", ro: "Grădina Botanică Regală a Iordaniei protejează flora autohtonă și oferă vederi uluitoare asupra barajului King Talal. Aceasta servește drept centru pentru educația ecologică și conservarea naturii.", en: "The Royal Botanic Garden of Jordan protects native flora while offering stunning views of the King Talal Dam. It serves as a vital hub for environmental education and nature conservation." },
     facts: {
       de: ["Überblickt den König-Talal-Stausee.", "Fokus auf den Erhalt der einheimischen Flora.", "Im Jahr 2005 gegründet.", "Schützt über 600 Pflanzenarten."],
       hu: ["A Talal Király-gátra néz.", "Célja a helyi növényvilág megőrzése.", "2005-ben alapították.", "Több mint 600 növényfajt véd."],
       ro: ["Oferă o vedere asupra barajului King Talal.", "Se concentrează pe conservarea florei native.", "A fost fondată în anul 2005.", "Protejează peste 600 de specii de plante."],
       en: ["Overlooks the King Talal Dam.", "Focuses on native flora conservation.", "Founded in 2005.", "Protects over 600 plant species."]
-    }, image: "/poi-images/royal-botanic-garden-jordan-life-v2.webp"},
+    }, image: "/poi-images/royal-botanic-garden-jordan-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Königliche Botanische Garten Jordaniens liegt in der Nähe von Amman, in der Region Tall al-Ma'daba. Er erstreckt sich über 1.200 Hektar und zeigt einheimische Pflanzenarten, die in verschiedenen Lebensräumen wachsen. Der Garten dient der Erhaltung der biologischen Vielfalt, der Forschung und der Umweltbildung. Er beherbergt das Nationale Herbarium und eine Datenbank mit über 800 Pflanzenarten. Zu den Attraktionen gehören ein Seen-System, Wanderwege und ein Baumwipfelpfad. Der Garten ist Teil eines größeren Naturschutzprojekts. Er wurde 2013 offiziell eröffnet. Der Garten bietet auch Kurse zur nachhaltigen Landwirtschaft. Jährlich besuchen etwa 100.000 Menschen den Garten.",
+      hu: "A Jordán Királyi Botanikus Kert Amman közelében, Tall al-Ma'daba régióban található. Területe 1200 hektár, ahol őshonos növényfajok élnek. A kert célja a biodiverzitás megőrzése, kutatás és környezeti nevelés. Itt található a Nemzeti Herbárium, amely több mint 800 növényfajt tartalmaz. Látványosságok: tavak, sétányok, fa koronajárda. A kert 2013-ban nyílt meg. Része egy nagyobb természetvédelmi projektnek. Fenntartható mezőgazdasági tanfolyamokat is kínál. Évente mintegy 100 000 látogatót fogad.",
+      ro: "Grădina Botanică Regală a Iordaniei este situată lângă Amman, în regiunea Tall al-Ma'daba. Se întinde pe 1.200 de hectare și prezintă specii de plante native. Grădina are ca scop conservarea biodiversității, cercetarea și educația ecologică. Găzduiește Herbarul Național cu peste 800 de specii. Atracțiile includ un sistem de lacuri, trasee și o pasarelă printre copaci. Grădina a fost deschisă oficial în 2013. Face parte dintr-un proiect mai mare de conservare. Oferă cursuri de agricultură durabilă. Atrage aproximativ 100.000 de vizitatori anual.",
+      en: "The Royal Botanic Garden of Jordan, located near Amman in the Tall al-Ma'daba area, spans 1,200 hectares and showcases the country's native flora through various habitats. It serves as a center for biodiversity conservation, research, and environmental education. The garden houses the National Herbarium with over 800 plant species and includes a lake system, hiking trails, and a canopy walkway. Opened in 2013, it is part of a larger conservation initiative to restore degraded landscapes. The garden also offers courses on sustainable agriculture and beekeeping. It attracts around 100,000 visitors annually and is a key venue for eco-tourism in Jordan.",
+    },
+    factsAdvanced: {
+      de: ["Der Garten erstreckt sich über 1.200 Hektar.", "Das Nationale Herbarium enthält über 800 Pflanzenarten.", "Der Garten wurde 2013 eröffnet.", "Er beherbergt ein Seen-System.", "Ein Baumwipfelpfad führt durch die Baumkronen.", "Jährlich besuchen etwa 100.000 Menschen den Garten."],
+      hu: ["A kert területe 1200 hektár.", "A Nemzeti Herbárium több mint 800 növényfajt tartalmaz.", "A kert 2013-ban nyílt meg.", "Tórendszerrel rendelkezik.", "Fa koronajárda található.", "Évente 100 000 látogatót fogad."],
+      ro: ["Grădina se întinde pe 1.200 de hectare.", "Herbarul Național are peste 800 de specii.", "Grădina a fost deschisă în 2013.", "Include un sistem de lacuri.", "Există o pasarelă printre copaci.", "Atrage 100.000 de vizitatori anual."],
+      en: ["The garden covers 1,200 hectares.", "The National Herbarium holds more than 800 plant species.", "It opened to the public in 2013.", "The garden features a network of lakes.", "A canopy walkway offers views from above.", "Approximately 100,000 visitors come each year."],
+    },
+  },
   {
     id: "amman-national-park-life-v2",
     type: "park",
     parent: "JO-AM",
     coords: [35.918, 31.848],
-    name: { de: "Amman Nationalpark", hu: "Ammán Nemzeti Park", ro: "Parcul Național Amman", en: "Amman National Park",
-image: "/poi-images/amman-national-park-life-v2.webp"
-},
+    name: { de: "Amman Nationalpark", hu: "Ammán Nemzeti Park", ro: "Parcul Național Amman", en: "Amman National Park"},
+    image: "/poi-images/amman-national-park-life-v2.webp",
     description: { de: "Dieser weitläufige Park im Süden von Amman ist ein beliebtes Ziel für Picknicks und Familienausflüge. Seine dichten Pinienwälder bieten eine erfrischende grüne Flucht vor der Hitze der Stadt.", hu: "Ez a hatalmas park Ammán déli részén a családok és a piknikezők egyik legkedveltebb célpontja. Sűrű fenyőerdői frissítő, zöld menedéket nyújtanak a városi hőség elől.", ro: "Acest parc întins din sudul Ammanului este o destinație populară pentru picnicuri și ieșiri în familie. Pădurile sale dense de pini oferă o evadare verde și răcoroasă din căldura orașului.", en: "This expansive park in southern Amman is a popular destination for picnics and family outings. Its dense pine forests provide a refreshing green escape from the city heat." },
     facts: {
       de: ["Beliebter Picknickplatz für Einheimische.", "Verfügt über dichte Pinienwälder.", "Bietet Spielplätze und Grillplätze.", "Eine grüne Oase nahe der Hauptstadt."],
       hu: ["Népszerű piknikezőhely a helyiek körében.", "Sűrű fenyőerdők borítják.", "Játszóterekkel és grillezőkkel felszerelt.", "Zöld oázis a főváros közelében."],
       ro: ["Loc popular de picnic pentru localnici.", "Dispune de păduri dense de pini.", "Include locuri de joacă și zone pentru grătar.", "O oază verde aproape de capitală."],
       en: ["Popular picnic spot for locals.", "Features dense pine forests.", "Includes playgrounds and barbecue areas.", "A green escape near the capital."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Amman Nationalpark, auch bekannt als 'Museum der Natur', ist ein Naturschutzgebiet und Park im Osten von Amman. Er erstreckt sich über 1.800 Hektar und umfasst mediterrane Wälder, Klippen und historische Stätten. Der Park wurde 1983 gegründet. Er dient der Erholung und dem Schutz der lokalen Flora und Fauna. Es gibt Wanderwege, Picknickplätze und Aussichtspunkte. Im Park leben Wildschweine, Schakale, Füchse und über 100 Vogelarten. Archäologische Stätten aus der römischen und byzantinischen Zeit sind ebenfalls vorhanden. Der Park ist ein wichtiger grüner Lungenflügel für die Hauptstadt. Besucher können Zelte aufstellen und übernachten. Der Eintritt ist kostenpflichtig.",
+      hu: "Az Amman Nemzeti Park, más néven 'Természeti Múzeum', Amman keleti részén található. Területe 1800 hektár, mediterrán erdőkkel, sziklákkal és történelmi helyszínekkel. A parkot 1983-ban hozták létre. Célja a pihenés, a helyi növény- és állatvilág védelme. Sétányok, piknikhelyek, kilátópontok várják a látogatókat. Az állatok közé tartozik a vaddisznó, sakál, róka és több mint 100 madárfaj. Római és bizánci régészeti lelőhelyek is találhatók. A park a főváros zöld tüdeje. Lehetőség van sátrazásra és éjszakázásra. Belépődíjas.",
+      ro: "Parcul Național Amman, cunoscut și sub numele de 'Muzeul Naturii', este situat în estul Ammanului. Se întinde pe 1.800 de hectare și include păduri mediteraneene, stânci și situri istorice. Parcul a fost înființat în 1983. Scopul său este recreerea și protecția florei și faunei locale. Există trasee, zone de picnic și puncte de belvedere. Fauna include mistreți, șacali, vulpi și peste 100 de specii de păsări. Situri arheologice romane și bizantine sunt prezente. Parcul este un plămân verde al capitalei. Se poate campa peste noapte. Intrarea este contra cost.",
+      en: "Amman National Park, also known as the 'Museum of Nature', is a protected area located in the eastern part of Amman, Jordan. Covering 1,800 hectares, the park features Mediterranean woodlands, sandstone cliffs, and several historical sites. Established in 1983, it serves as a recreational area and a sanctuary for wildlife, including wild boars, jackals, foxes, and over 100 bird species. The park offers hiking trails, picnic areas, and viewpoints. Among its archaeological attractions are Roman and Byzantine ruins. It is a vital green space for the city. Camping is permitted with reservations. The park is open year-round and has an admission fee.",
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über 1.800 Hektar.", "Er wurde 1983 gegründet.", "Im Park leben über 100 Vogelarten.", "Es gibt römische und byzantinische Ruinen.", "Picknickplätze sind vorhanden.", "Camping ist mit Reservierung erlaubt."],
+      hu: ["A park területe 1800 hektár.", "1983-ban alapították.", "Több mint 100 madárfaj él itt.", "Római és bizánci romok találhatók.", "Piknikhelyek vannak.", "Sátrazás előzetes foglalással lehetséges."],
+      ro: ["Parcul se întinde pe 1.800 de hectare.", "A fost înființat în 1983.", "Peste 100 de specii de păsări trăiesc aici.", "Există ruine romane și bizantine.", "Sunt zone de picnic.", "Se poate campa cu rezervare."],
+      en: ["The park covers 1,800 hectares.", "It was established in 1983.", "Over 100 bird species inhabit the park.", "Roman and Byzantine ruins are located within.", "Picnic areas are available.", "Camping is allowed with a reservation."],
+    },
   },
   {
     id: "al-hussein-public-parks-life-v2",
     type: "park",
     parent: "JO-AM",
     coords: [35.828, 31.986],
-    name: { de: "Al-Hussein-Parks", hu: "Al-Huszajn Parkok", ro: "Parcurile Publice Al Hussein", en: "Al Hussein Public Parks",
-image: "/poi-images/al-hussein-public-parks-life-v2.webp"
-},
+    name: { de: "Al-Hussein-Parks", hu: "Al-Huszajn Parkok", ro: "Parcurile Publice Al Hussein", en: "Al Hussein Public Parks"},
+    image: "/poi-images/al-hussein-public-parks-life-v2.webp",
     description: { de: "Einer der größten öffentlichen Parks in Amman, der wunderschön angelegte Gärten und bedeutende kulturelle Einrichtungen beherbergt. Es ist ein zentraler Treffpunkt für Erholung und Familienaktivitäten.", hu: "Ammán egyik legnagyobb közparkja, amely gyönyörűen parkosított kertekkel és fontos kulturális intézményekkel büszkélkedhet. A pihenés és a családi programok központi helyszíne.", ro: "Unul dintre cele mai mari parcuri publice din Amman, găzduind grădini frumos amenajate și instituții culturale importante. Este un centru esențial pentru recreere și activități de familie.", en: "One of Amman's largest public parks, boasting beautifully landscaped gardens and major cultural institutions. It is a central hub for recreation and family activities." },
     facts: {
       de: ["Einer der größten Parks in Amman.", "Beherbergt das Kindermuseum.", "Verfügt über weitläufige Gärten.", "Bietet umfangreiche Sportanlagen."],
       hu: ["Ammán egyik legnagyobb parkja.", "Itt található a Gyerekmúzeum.", "Hatalmas kertekkel rendelkezik.", "Kiterjedt sportlétesítményeket kínál."],
       ro: ["Unul dintre cele mai mari parcuri din Amman.", "Găzduiește Muzeul Copiilor.", "Dispune de grădini extinse.", "Oferă numeroase facilități sportive."],
       en: ["One of Amman's largest parks.", "Houses the Children's Museum.", "Features extensive gardens.", "Offers numerous sports facilities."]
-    }, image: "/poi-images/al-hussein-public-parks-life-v2.webp"},
+    }, image: "/poi-images/al-hussein-public-parks-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Hussein-Parkanlage in Amman ist eine der größten öffentlichen Grünflächen der Stadt. Sie wurde in den 1990er Jahren angelegt und erstreckt sich über etwa 80 Hektar. Der Park verfügt über Seen, Spazierwege, Spielplätze und Sporteinrichtungen. Benannt ist er nach König Hussein I. Er ist ein beliebtes Naherholungsgebiet für Familien. Jährlich finden hier Kulturfestivals und Konzerte statt. Der Park beherbergt auch das Amman Olympic Museum. Die Parkverwaltung fördert Umweltbildung. Es gibt eine Vielzahl von Bäumen und Sträuchern. Der Eintritt ist frei.",
+      hu: "Az Ammani Al-Husszein Közparkok a város legnagyobb zöldterületei közé tartoznak. Az 1990-es években hozták létre, területük 80 hektár. Tavak, sétányok, játszóterek, sportlétesítmények találhatók benne. Népszerű családi rekreációs hely. Kulturális fesztiválok és koncertek helyszíne. Itt található az Ammani Olimpiai Múzeum. A park környezeti neveléssel is foglalkozik. Számos fa- és cserjefaj él itt. A belépés ingyenes.",
+      ro: "Parcurile Publice Al-Hussein din Amman sunt printre cele mai mari spații verzi ale orașului. Au fost create în anii 1990 și se întind pe aproximativ 80 de hectare. Parcul include lacuri, alei, locuri de joacă și facilități sportive. Este o destinație populară pentru familii. Aici au loc festivaluri culturale și concerte. Parcul găzduiește și Muzeul Olimpic din Amman. Administrația promovează educația ecologică. Există o varietate de copaci și arbuști. Intrarea este liberă.",
+      en: "Al Hussein Public Parks in Amman are among the city's largest green spaces, spanning approximately 80 hectares. Established in the 1990s, the parks feature artificial lakes, walking paths, playgrounds, and sports facilities. Named after King Hussein I, they serve as a major recreational area for families and host cultural festivals and concerts throughout the year. The park is also home to the Amman Olympic Museum. Environmental education programs are conducted on-site. The parks are planted with a variety of native and exotic trees. Admission is free.",
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über 80 Hektar.", "Er wurde in den 1990er Jahren angelegt.", "Es gibt künstliche Seen.", "Der Amman Olympic Museum ist im Park.", "Kulturfestivals finden hier statt.", "Der Eintritt ist frei."],
+      hu: ["A park 80 hektár területű.", "Az 1990-es években hozták létre.", "Mesterséges tavak találhatók.", "Az Ammani Olimpiai Múzeum a parkban van.", "Kulturális fesztiválok itt zajlanak.", "A belépés ingyenes."],
+      ro: ["Parcul se întinde pe 80 de hectare.", "A fost creat în anii 1990.", "Există lacuri artificiale.", "Muzeul Olimpic din Amman este în parc.", "Au loc festivaluri culturale.", "Intrarea este liberă."],
+      en: ["The parks cover 80 hectares.", "They were developed in the 1990s.", "Artificial lakes are a key feature.", "The Amman Olympic Museum is located within.", "Cultural festivals are held annually.", "Admission is free of charge."],
+    },
+  },
   {
     id: "jordan-valley-citrus-farms-life-v2",
     type: "agriculture",
     parent: "JO-BA",
     coords: [35.590, 32.062],
-    name: { de: "Zitrusfarmen im Jordantal", hu: "Jordán-völgyi citrusfarmok", ro: "Ferme de citrice din Valea Iordanului", en: "Jordan Valley Citrus Farms",
-image: "/poi-images/jordan-valley-citrus-farms-life-v2.webp"
-},
+    name: { de: "Zitrusfarmen im Jordantal", hu: "Jordán-völgyi citrusfarmok", ro: "Ferme de citrice din Valea Iordanului", en: "Jordan Valley Citrus Farms"},
+    image: "/poi-images/jordan-valley-citrus-farms-life-v2.webp",
     description: { de: "Das Jordantal ist das landwirtschaftliche Herzstück des Landes, wo Zitrusfrüchte hervorragend gedeihen. Das einzigartige Mikroklima unterhalb des Meeresspiegels wirkt wie ein natürliches Gewächshaus.", hu: "A Jordán-völgy az ország mezőgazdasági központja, ahol a citrusfélék kiválóan teremnek. A tengerszint alatti egyedülálló mikroklíma természetes üvegházként működik.", ro: "Valea Iordanului este inima agricolă a țării, unde citricele prosperă excelent. Microclimatul unic sub nivelul mării acționează ca o seră naturală.", en: "The Jordan Valley is the country's agricultural heartland where citrus fruits thrive exceptionally well. The unique microclimate below sea level acts as a natural greenhouse." },
     facts: {
       de: ["Das Jordantal ist das Agrarzentrum Jordaniens.", "Zitronen und Orangen gedeihen hier prächtig.", "Das Gebiet liegt unter dem Meeresspiegel.", "Bewässerung durch den König-Abdullah-Kanal."],
       hu: ["A Jordán-völgy az ország agrármagja.", "A citrom és a narancs kiválóan terem itt.", "A terület a tengerszint alatt fekszik.", "Öntözése az Abdullah Király-csatornából történik."],
       ro: ["Valea Iordanului este centrul agricol al Iordaniei.", "Lămâile și portocalele cresc excelent aici.", "Zona este situată sub nivelul mării.", "Irigarea se face prin Canalul Regele Abdullah."],
       en: ["The Jordan Valley is Jordan's agricultural core.", "Lemons and oranges thrive here.", "The area is located below sea level.", "Irrigated by the King Abdullah Canal."]
-    }, image: "/poi-images/jordan-valley-citrus-farms-life-v2.webp"},
+    }, image: "/poi-images/jordan-valley-citrus-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zitrusfarmen im Jordantal erstrecken sich über eine fruchtbare Region, die für ihre landwirtschaftliche Produktion bekannt ist. Das Tal liegt unter dem Meeresspiegel und hat ein subtropisches Klima. Angebaut werden Zitronen, Orangen, Grapefruits und Mandarinen. Die Bewässerung erfolgt durch den Jordan und unterirdische Quellen. Die Farmen sind oft Familienbetriebe. Der Anbau begann in den 1950er Jahren. Die Erntezeit ist von November bis Mai. Die Region ist auch bekannt für den Anbau von Bananen und Gemüse. Touristen können die Farmen besichtigen und frische Produkte kaufen. Die Landwirtschaft ist ein wichtiger Wirtschaftszweig.",
+      hu: "A Jordán-völgyi citrusfarmok a termékeny régióban terülnek el, amely mezőgazdaságáról híres. A völgy a tengerszint alatt fekszik, szubtrópusi éghajlattal. Citromot, narancsot, grapefruitot és mandarint termesztenek. Az öntözés a Jordánból és talajvízből történik. A farmok családi vállalkozások. A termesztés az 1950-es években kezdődött. A betakarítás novembertől májusig tart. Banánt és zöldségeket is termesztenek. A turisták látogathatják a farmokat és vásárolhatnak friss termékeket. A mezőgazdaság fontos gazdasági ág.",
+      ro: "Fermele de citrice din Valea Iordanului se întind pe o regiune fertilă, cunoscută pentru producția agricolă. Valea se află sub nivelul mării și are un climat subtropical. Se cultivă lămâi, portocali, grepfrut și mandarine. Irigarea se face din râul Iordan și izvoare subterane. Fermele sunt adesea afaceri de familie. Cultivarea a început în anii 1950. Recoltarea are loc din noiembrie până în mai. Regiunea produce și banane și legume. Turiștii pot vizita fermele și cumpăra produse proaspete. Agricultura este un sector economic important.",
+      en: "The citrus farms in the Jordan Valley are located in a fertile region known for its agricultural output. The valley lies below sea level and enjoys a subtropical climate. Main crops include lemons, oranges, grapefruits, and mandarins. Irrigation relies on the Jordan River and groundwater sources. Most farms are family-owned and have been operating since the 1950s. Harvest season runs from November to May. The region also produces bananas and vegetables. Visitors can tour the farms and purchase fresh produce. Agriculture is a key economic driver in the valley, supporting local communities.",
+    },
+    factsAdvanced: {
+      de: ["Das Jordantal liegt unter dem Meeresspiegel.", "Die Hauptanbauprodukte sind Zitrusfrüchte.", "Die Bewässerung erfolgt mit Wasser aus dem Jordan.", "Der Anbau begann in den 1950er Jahren.", "Die Erntezeit dauert von November bis Mai.", "Auch Bananen und Gemüse werden angebaut."],
+      hu: ["A Jordán-völgy a tengerszint alatt van.", "Fő termény a citrus.", "Az öntözés a Jordán vizével történik.", "A termesztés az 1950-es években kezdődött.", "A betakarítás novembertől májusig tart.", "Banánt és zöldséget is termesztenek."],
+      ro: ["Valea Iordanului este sub nivelul mării.", "Principala cultură sunt citricele.", "Irigarea se face cu apă din Iordan.", "Cultivarea a început în anii 1950.", "Recoltarea are loc din noiembrie până în mai.", "Se cultivă și banane și legume."],
+      en: ["The Jordan Valley is below sea level, with parts at 400 meters below.", "Citrus fruits are the primary crop grown.", "Irrigation uses water from the Jordan River.", "Commercial farming began in the 1950s.", "Harvest season spans November to May.", "Bananas and vegetables are also cultivated."],
+    },
+  },
   {
     id: "aqaba-bird-observatory-life-v2",
     type: "wildlife-area",
     parent: "JO-AQ",
     coords: [34.991, 29.566],
-    name: { de: "Vogelwarte Akaba", hu: "Akabai Madárfigyelő", ro: "Observatorul de Păsări din Aqaba", en: "Aqaba Bird Observatory",
-image: "/poi-images/aqaba-bird-observatory-life-v2.webp"
-},
+    name: { de: "Vogelwarte Akaba", hu: "Akabai Madárfigyelő", ro: "Observatorul de Păsări din Aqaba", en: "Aqaba Bird Observatory"},
+    image: "/poi-images/aqaba-bird-observatory-life-v2.webp",
     description: { de: "Ein wichtiger Rastplatz für Zugvögel auf ihrer Reise zwischen Europa und Afrika. Die künstlichen Feuchtgebiete ziehen jedes Jahr Hunderte von Vogelarten in die Küstenstadt Akaba.", hu: "Fontos pihenőhely az Európa és Afrika között vándorló madarak számára. A mesterséges vizesélőhelyek minden évben madárfajok százait vonzzák az akabai partokra.", ro: "Un loc important de popas pentru păsările migratoare în călătoria lor între Europa și Africa. Zonele umede artificiale atrag sute de specii de păsări în orașul de coastă Aqaba în fiecare an.", en: "A vital stopover for migratory birds on their journey between Europe and Africa. The artificial wetlands attract hundreds of bird species to the coastal city of Aqaba each year." },
     facts: {
       de: ["Wichtiger Rastplatz für Zugvögel.", "Zieht jährlich über 300 Vogelarten an.", "Nutzt aufbereitetes Abwasser für Feuchtgebiete.", "Besonders aktiv im Frühling und Herbst."],
       hu: ["Kritikus megállóhely a költöző madaraknak.", "Évente több mint 300 madárfajt vonz.", "Tisztított szennyvizet használ a vizesélőhelyekhez.", "Különösen tavasszal és ősszel aktív."],
       ro: ["Popas crucial pentru păsările migratoare.", "Atrage peste 300 de specii de păsări anual.", "Folosește apă uzată tratată pentru zonele umede.", "Deosebit de activ primăvara și toamna."],
       en: ["Crucial stopover for migratory birds.", "Attracts over 300 bird species annually.", "Uses treated wastewater for wetlands.", "Especially active during spring and autumn."]
-    }, image: "/poi-images/aqaba-bird-observatory-life-v2.webp"},
+    }, image: "/poi-images/aqaba-bird-observatory-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Aqaba Bird Observatory befindet sich an der Nordspitze des Golfs von Aqaba und ist ein wichtiger Rastplatz für Zugvögel. Es wurde 2004 gegründet und erstreckt sich über 18 Hektar mit Lagunen und Feuchtgebieten. Hier wurden über 300 Vogelarten beobachtet, darunter Störche, Reiher und Greifvögel. Das Observatorium bietet Beobachtungstürme, Verstecke und Bildungsprogramme. Es spielt eine Rolle im Schutz der Biodiversität. Der Eintritt ist kostenpflichtig. Es ist ein beliebtes Ziel für Vogelbeobachter. Die beste Beobachtungszeit ist im Frühjahr und Herbst.",
+      hu: "Az Aqabai Madármegfigyelő Állomás az Akabai-öböl északi csücskénél található, fontos pihenőhely a vonuló madarak számára. 2004-ben alapították, területe 18 hektár, lagúnákkal és vizes élőhelyekkel. Több mint 300 madárfajt figyeltek itt meg, köztük gólyákat, gémeket és ragadozó madarakat. Az obszervatórium tornyokkal, leshelyekkel és oktatási programokkal rendelkezik. Szerepet játszik a biodiverzitás védelmében. Belépődíjas. Népszerű a madarászok körében. A legjobb megfigyelési idő tavasz és ősz.",
+      ro: "Observatorul de păsări din Aqaba este situat la capătul nordic al Golfului Aqaba, fiind un loc important de popas pentru păsările migratoare. A fost înființat în 2004 și se întinde pe 18 hectare, cu lagune și zone umede. Peste 300 de specii de păsări au fost observate aici, inclusiv berze, stârci și păsări de pradă. Observatorul are turnuri de observație, ascunzători și programe educaționale. Joacă un rol în conservarea biodiversității. Intrarea este contra cost. Este o destinație populară pentru pasionații de observare a păsărilor. Cele mai bune perioade sunt primăvara și toamna.",
+      en: "The Aqaba Bird Observatory, located at the northern tip of the Gulf of Aqaba, is a critical stopover site for migratory birds. Established in 2004, it covers 18 hectares of lagoons and wetlands. Over 300 bird species have been recorded, including storks, herons, and raptors. The facility offers observation towers, hides, and educational programs. It contributes to conservation and research. The entrance fee supports operations. It is a premier birdwatching destination in Jordan. Peak migration seasons are spring and autumn.",
+    },
+    factsAdvanced: {
+      de: ["Das Observatorium wurde 2004 gegründet.", "Es erstreckt sich über 18 Hektar.", "Über 300 Vogelarten wurden beobachtet.", "Es gibt Lagunen und Feuchtgebiete.", "Beobachtungstürme stehen zur Verfügung.", "Die beste Beobachtungszeit ist Frühling und Herbst."],
+      hu: ["Az állomást 2004-ben alapították.", "Területe 18 hektár.", "Több mint 300 madárfajt figyeltek meg.", "Lagúnák és vizes élőhelyek vannak.", "Megfigyelőtornyok állnak rendelkezésre.", "A legjobb megfigyelési idő tavasz és ősz."],
+      ro: ["Observatorul a fost înființat în 2004.", "Se întinde pe 18 hectare.", "Peste 300 de specii de păsări au fost observate.", "Există lagune și zone umede.", "Turnuri de observație sunt disponibile.", "Cele mai bune perioade sunt primăvara și toamna."],
+      en: ["The observatory was founded in 2004.", "It covers an area of 18 hectares.", "More than 300 bird species have been recorded.", "Lagoons and wetlands are key habitats.", "Observation towers are available for visitors.", "Peak migration occurs in spring and autumn."],
+    },
+  },
   {
     id: "childrens-museum-jordan-life-v2",
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.826, 31.984],
-    name: { de: "Kindermuseum Jordanien", hu: "Jordániai Gyerekmúzeum", ro: "Muzeul Copiilor Iordania", en: "Children's Museum Jordan",
-image: "/poi-images/childrens-museum-jordan-life-v2.webp"
-},
+    name: { de: "Kindermuseum Jordanien", hu: "Jordániai Gyerekmúzeum", ro: "Muzeul Copiilor Iordania", en: "Children's Museum Jordan"},
+    image: "/poi-images/childrens-museum-jordan-life-v2.webp",
     description: { de: "Ein interaktives Museum, das Kindern auf spielerische Weise Wissenschaft, Technologie und Kunst näherbringt. Es wurde von Königin Rania gegründet und ist ein Leuchtturm der Bildung.", hu: "Interaktív múzeum, amely játékos formában ismerteti meg a gyerekekkel a tudományt, a technológiát és a művészetet. A Ránija királyné által alapított intézmény az oktatás fontos központja.", ro: "Un muzeu interactiv care introduce copiii în știință, tehnologie și artă într-un mod ludic. Fondată de Regina Rania, instituția este un far al educației.", en: "An interactive museum that introduces children to science, technology, and art in a playful manner. Founded by Queen Rania, the institution is a beacon of education." },
     facts: {
       de: ["Im Jahr 2007 von Königin Rania eröffnet.", "Bietet über 150 interaktive Ausstellungen.", "Fördert das Lernen durch Spielen.", "Befindet sich in den Al-Hussein-Parks."],
       hu: ["2007-ben nyitotta meg Ránija királyné.", "Több mint 150 interaktív kiállítást kínál.", "A játékon keresztüli tanulást ösztönzi.", "Az Al-Huszajn Parkok területén található."],
       ro: ["Deschis în 2007 de Regina Rania.", "Oferă peste 150 de expoziții interactive.", "Promovează învățarea prin joc.", "Situat în Parcurile Publice Al Hussein."],
       en: ["Opened in 2007 by Queen Rania.", "Offers over 150 interactive exhibits.", "Promotes learning through play.", "Located within Al Hussein Public Parks."]
-    }, image: "/poi-images/childrens-museum-jordan-life-v2.webp"},
+    }, image: "/poi-images/childrens-museum-jordan-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kindermuseum Jordanien in Amman ist ein interaktives Museum für Kinder im Alter von 1 bis 12 Jahren. Es wurde 2007 eröffnet und erstreckt sich über 8.000 Quadratmeter. Das Museum bietet über 150 interaktive Exponate zu Wissenschaft, Technologie, Kunst und Kultur. Es gibt einen Außenbereich mit Spielplatz und Garten. Das Museum fördert spielerisches Lernen. Es werden Workshops und Veranstaltungen angeboten. Der Eintritt ist kostenpflichtig. Das Museum ist behindertengerecht gestaltet. Es ist Teil der König-Hussein-Stiftung. Jährlich besuchen über 200.000 Menschen das Museum.",
+      hu: "A Jordán Gyermekmúzeum Ammanban interaktív múzeum 1-12 éves gyermekek számára. 2007-ben nyílt meg, területe 8000 négyzetméter. Több mint 150 interaktív kiállítást kínál a tudomány, technológia, művészet és kultúra területén. Kültéri játszótér és kert is van. A múzeum a játékos tanulást népszerűsíti. Műhelyeket és rendezvényeket tartanak. Belépődíjas. Akadálymentesített. A Husszein Király Alapítvány része. Évente több mint 200 000 látogatót fogad.",
+      ro: "Muzeul Copiilor din Iordania, situat în Amman, este un muzeu interactiv pentru copii de la 1 la 12 ani. A fost deschis în 2007 și se întinde pe 8.000 de metri pătrați. Oferă peste 150 de exponate interactive legate de știință, tehnologie, artă și cultură. Există o zonă exterioară cu loc de joacă și grădină. Muzeul promovează învățarea prin joacă. Organizează ateliere și evenimente. Intrarea este contra cost. Este accesibil persoanelor cu dizabilități. Face parte din Fundația Regelui Hussein. Atrage peste 200.000 de vizitatori anual.",
+      en: "The Children's Museum Jordan, located in Amman, is an interactive museum designed for children aged 1 to 12 years. Opened in 2007, it spans 8,000 square meters and features over 150 hands-on exhibits covering science, technology, art, and culture. The museum includes an outdoor playground and garden. It emphasizes learning through play and offers workshops and special events. Admission fees apply. The facility is fully accessible. It is part of the King Hussein Foundation. The museum attracts more than 200,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 2007 eröffnet.", "Es erstreckt sich über 8.000 Quadratmeter.", "Über 150 interaktive Exponate sind ausgestellt.", "Es gibt einen Außenbereich mit Spielplatz.", "Das Museum ist Teil der König-Hussein-Stiftung.", "Jährlich besuchen über 200.000 Menschen das Museum."],
+      hu: ["A múzeum 2007-ben nyílt meg.", "Területe 8000 négyzetméter.", "Több mint 150 interaktív kiállítás van.", "Kültéri játszótér is található.", "A Husszein Király Alapítvány része.", "Évente több mint 200 000 látogatót fogad."],
+      ro: ["Muzeul a fost deschis în 2007.", "Se întinde pe 8.000 de metri pătrați.", "Peste 150 de exponate interactive.", "Există un loc de joacă în aer liber.", "Face parte din Fundația Regelui Hussein.", "Atrage peste 200.000 de vizitatori anual."],
+      en: ["The museum opened in 2007.", "It covers 8,000 square meters.", "Over 150 interactive exhibits are available.", "An outdoor playground is included.", "It is part of the King Hussein Foundation.", "The museum receives over 200,000 visitors each year."],
+    },
+  },
   {
     id: "ghamadan-park-life-v2",
     type: "park",
     parent: "JO-AM",
     coords: [35.911, 31.861],
-    name: { de: "Ghamadan-Park", hu: "Ghamadán Park", ro: "Parcul Ghamadan", en: "Ghamadan Park",
-image: "/poi-images/ghamadan-park-life-v2.webp"
-},
+    name: { de: "Ghamadan-Park", hu: "Ghamadán Park", ro: "Parcul Ghamadan", en: "Ghamadan Park"},
+    image: "/poi-images/ghamadan-park-life-v2.webp",
     description: { de: "Auch bekannt als Wald des Königreichs Bahrain, bietet dieser Park ausgedehnte Waldgebiete nahe Amman. Er ist ein perfekter Ort für familiäre Ausflüge, Reitsport und Picknicks in der Natur.", hu: "A Bahreini Királyság Erdejeként is ismert park hatalmas erdős területeket kínál Ammán közelében. Tökéletes helyszín családi kirándulásokhoz, lovagláshoz és természetbeli piknikekhez.", ro: "Cunoscut și sub numele de Pădurea Regatului Bahrain, acest parc oferă zone împădurite extinse lângă Amman. Este locul perfect pentru excursii de familie, echitație și picnicuri în natură.", en: "Also known as the King of Bahrain Kingdom Forest, this park offers extensive wooded areas near Amman. It is a perfect spot for family outings, equestrian activities, and nature picnics." },
     facts: {
       de: ["Umfasst ein weitläufiges Waldgebiet.", "Bietet kleine Tiergehege und Reitmöglichkeiten.", "Gewidmet dem Umweltschutz.", "Ein beliebter Wochenendausflug in Amman."],
       hu: ["Kiterjedt erdős területtel rendelkezik.", "Kisebb állatkert és lovarda is működik itt.", "A környezetvédelemnek szentelték.", "Népszerű hétvégi kirándulóhely Ammánban."],
       ro: ["Include o zonă extinsă împădurită.", "Dispune de o mică grădină zoologică și facilități ecvestre.", "Dedicat conservării mediului.", "O evadare populară de weekend în Amman."],
       en: ["Includes an expansive forested area.", "Features a small zoo and equestrian facilities.", "Dedicated to environmental preservation.", "A popular weekend getaway in Amman."]
-    }, image: "/poi-images/ghamadan-park-life-v2.webp"},
+    }, image: "/poi-images/ghamadan-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ghamadan Park liegt im Stadtteil Abdali in Amman und ist ein kleiner, aber beliebter Park. Er wurde in den 2000er Jahren angelegt und bietet Grünflächen, Bänke und einen Spielplatz. Der Park ist nach dem Ghamadan-Baum benannt. Er dient als Erholungsort für die umliegende Bevölkerung. Es gibt einen Springbrunnen. Der Park ist gut gepflegt. In der Umgebung gibt es Cafés und Restaurants. Der Eintritt ist frei. Er ist ein Beispiel für städtische Begrünungsprojekte in Amman.",
+      hu: "A Ghamadan Park Amman Abdali negyedében található, egy kicsi, de népszerű park. A 2000-es években hozták létre, zöldterületekkel, padokkal és játszótérrel. A park a ghamadan fáról kapta a nevét. Pihenőhely a helyiek számára. Van egy szökőkút. A park jól karbantartott. Környékén kávézók és éttermek találhatók. A belépés ingyenes. Példa az ammani városi zöldítési projektekre.",
+      ro: "Parcul Ghamadan este situat în cartierul Abdali din Amman, fiind un parc mic, dar popular. A fost amenajat în anii 2000 și oferă spații verzi, bănci și un loc de joacă. Parcul poartă numele arborelui ghamadan. Servește ca loc de agrement pentru locuitorii din zonă. Există o fântână arteziană. Parcul este bine întreținut. În apropiere sunt cafenele și restaurante. Intrarea este liberă. Este un exemplu de proiecte de înverzire urbană în Amman.",
+      en: "Ghamadan Park, located in the Abdali district of Amman, is a small but popular urban park. Established in the 2000s, it features green spaces, benches, and a children's playground. The park is named after the Ghamadan tree. It provides a quiet retreat for residents and includes a fountain. The park is well-maintained and surrounded by cafes and restaurants. Admission is free. It exemplifies urban greening efforts in the city.",
+    },
+    factsAdvanced: {
+      de: ["Der Park liegt im Stadtteil Abdali.", "Er wurde in den 2000er Jahren angelegt.", "Es gibt einen Spielplatz.", "Ein Springbrunnen ist vorhanden.", "Der Park ist nach einem Baum benannt.", "Der Eintritt ist frei."],
+      hu: ["A park az Abdali negyedben található.", "A 2000-es években hozták létre.", "Játszótér van.", "Szökőkút található.", "A park egy fáról kapta a nevét.", "A belépés ingyenes."],
+      ro: ["Parcul este în cartierul Abdali.", "A fost amenajat în anii 2000.", "Există un loc de joacă.", "O fântână arteziană este prezentă.", "Parcul poartă numele unui arbore.", "Intrarea este liberă."],
+      en: ["The park is in the Abdali district.", "It was created in the 2000s.", "A children's playground is available.", "A fountain is located in the park.", "It is named after the Ghamadan tree.", "Admission is free."],
+    },
+  },
   {
     id: "ajloun-olive-groves-life-v2",
     type: "agriculture",
     parent: "JO-AJ",
     coords: [35.751, 32.332],
-    name: { de: "Olivenhaine von Adschlun", hu: "Adzslúni olajfaligetek", ro: "Livezile de măslini din Ajloun", en: "Olive Groves of Ajloun",
-image: "/poi-images/ajloun-olive-groves-life-v2.webp"
-},
+    name: { de: "Olivenhaine von Adschlun", hu: "Adzslúni olajfaligetek", ro: "Livezile de măslini din Ajloun", en: "Olive Groves of Ajloun"},
+    image: "/poi-images/ajloun-olive-groves-life-v2.webp",
     description: { de: "Die hügelige Landschaft von Adschlun ist berühmt für ihre alten Olivenbäume und die Produktion von hochwertigem Olivenöl. Die traditionelle Landwirtschaft prägt hier seit Jahrhunderten die lokale Kultur.", hu: "Adzslún dombvidéke híres ősi olajfáiról és a kiváló minőségű olívaolaj termeléséről. A hagyományos mezőgazdaság évszázadok óta meghatározza az itteni helyi kultúrát.", ro: "Peisajul deluros din Ajloun este faimos pentru măslinii săi antici și pentru producția de ulei de măsline de înaltă calitate. Agricultura tradițională a modelat cultura locală de secole.", en: "The hilly landscape of Ajloun is famous for its ancient olive trees and the production of high-quality olive oil. Traditional farming has shaped the local culture here for centuries." },
     facts: {
       de: ["Adschlun ist berühmt für hochwertiges Olivenöl.", "Einige Olivenbäume sind Jahrhunderte alt.", "Traditionelle Anbaumethoden sind weit verbreitet.", "Die Erntezeit ist ein großes kulturelles Ereignis."],
       hu: ["Adzslún a kiváló olívaolajáról ismert.", "Néhány olajfa több száz éves.", "A hagyományos gazdálkodás még mindig elterjedt.", "A betakarítás fontos kulturális esemény."],
       ro: ["Ajloun este faimos pentru uleiul de măsline.", "Unii măslini au o vechime de secole.", "Metodele agricole tradiționale sunt încă folosite.", "Sezonul recoltei este un eveniment cultural major."],
       en: ["Ajloun is famous for high-quality olive oil.", "Some olive trees are centuries old.", "Traditional farming methods are widely used.", "The harvest season is a major cultural event."]
-    }, image: "/poi-images/ajloun-olive-groves-life-v2.webp"},
+    }, image: "/poi-images/ajloun-olive-groves-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Olivenhaine von Ajloun liegen im Nordwesten Jordaniens, in einer bergigen Region mit mediterranem Klima. Die Olivenbäume sind teilweise Jahrhunderte alt. Die Region ist bekannt für die Produktion von hochwertigem Olivenöl. Die Ernte findet im Herbst statt. Die Haine sind oft terrassiert. Es gibt viele kleine Familienbetriebe. Touristen können an Führungen und Verkostungen teilnehmen. Die Olivenölproduktion ist ein wichtiger Wirtschaftszweig. Die Landschaft ist malerisch mit Wäldern und Schluchten.",
+      hu: "Ajloun olajfaligetei Jordánia északnyugati részén, hegyvidéki mediterrán éghajlatú területen találhatók. Az olajfák között százéves példányok is vannak. A régió híres a kiváló minőségű olívaolajáról. A szüret ősszel zajlik. A ligetek teraszosak. Sok kis családi gazdaság működik. A turisták vezetett túrákon és kóstolókon vehetnek részt. Az olívaolaj-termelés fontos gazdasági ág. A táj erdőkkel és szurdokokkal festői.",
+      ro: "Livezile de măslini din Ajloun sunt situate în nord-vestul Iordaniei, într-o regiune muntoasă cu climat mediteranean. Unii măslini au sute de ani. Regiunea este cunoscută pentru uleiul de măsline de înaltă calitate. Recoltarea are loc toamna. Livezile sunt adesea în terase. Există multe mici afaceri familiale. Turiștii pot participa la tururi și degustări. Producția de ulei de măsline este un sector economic important. Peisajul este pitoresc, cu păduri și chei.",
+      en: "The olive groves of Ajloun are located in northwestern Jordan, a mountainous region with a Mediterranean climate. Some olive trees are centuries old. The area is renowned for producing high-quality extra virgin olive oil. Harvest takes place in autumn. The groves are often terraced on hillsides. Many are family-run farms. Visitors can take guided tours and taste oils. Olive oil production is a key economic activity. The landscape features forests and valleys.",
+    },
+    factsAdvanced: {
+      de: ["Ajloun liegt im Nordwesten Jordaniens.", "Einige Olivenbäume sind über 100 Jahre alt.", "Die Erntezeit ist im Herbst.", "Viele Haine sind terrassiert.", "Die Region produziert hochwertiges Olivenöl.", "Führungen und Verkostungen werden angeboten."],
+      hu: ["Ajloun Északnyugat-Jordániában van.", "Egyes olajfák több mint 100 évesek.", "A szüret ősszel van.", "Sok liget teraszos kialakítású.", "A régió kiváló minőségű olívaolajat termel.", "Vezetett túrák és kóstolók elérhetők."],
+      ro: ["Ajloun este în nord-vestul Iordaniei.", "Unii măslini au peste 100 de ani.", "Recoltarea are loc toamna.", "Multe livezi sunt în terase.", "Regiunea produce ulei de măsline de calitate.", "Sunt oferite tururi și degustări."],
+      en: ["Ajloun is located in northwest Jordan.", "Some olive trees are over 100 years old.", "Harvest season is in autumn.", "Many groves are terraced.", "The region produces high-quality olive oil.", "Tours and tastings are available."],
+    },
+  },
   {
     id: "al-mawa-wildlife-life-v2",
     type: "wildlife-area",
     parent: "JO-JA",
     coords: [35.850, 32.316],
-    name: { de: "Al-Ma'wa Wildtierschutzgebiet", hu: "Al-Ma'wa Vadrezervátum", ro: "Sanctuarul de animale Al-Ma'wa", en: "Al-Ma'wa for Nature and Wildlife",
-image: "/poi-images/al-mawa-wildlife-life-v2.webp"
-},
+    name: { de: "Al-Ma'wa Wildtierschutzgebiet", hu: "Al-Ma'wa Vadrezervátum", ro: "Sanctuarul de animale Al-Ma'wa", en: "Al-Ma'wa for Nature and Wildlife"},
+    image: "/poi-images/al-mawa-wildlife-life-v2.webp",
     description: { de: "Dieses Schutzgebiet in den Wäldern von Jerash bietet geretteten exotischen Tieren, wie Löwen und Bären aus Konfliktgebieten, ein sicheres und natürliches Zuhause.", hu: "Ez a Dzseras erdeiben található rezervátum biztonságos és természetes otthont nyújt a konfliktusövezetekből kimentett egzotikus állatoknak, például oroszlánoknak és medvéknek.", ro: "Acest sanctuar din pădurile din Jerash oferă o casă sigură și naturală animalelor exotice salvate, cum ar fi lei și urși din zone de conflict.", en: "This sanctuary in the forests of Jerash provides a safe and natural home for rescued exotic animals, such as lions and bears from conflict zones." },
     facts: {
       de: ["Erstes Wildtierrettungszentrum der Region.", "Bietet exotischen Tieren ein sicheres Zuhause.", "Gegründet von der Princess Alia Foundation.", "Beherbergt Tiere aus Konfliktzonen."],
       hu: ["A régió első vadvédelmi mentőközpontja.", "Biztonságos otthont ad az egzotikus állatoknak.", "A Princess Alia Foundation alapította.", "Konfliktusövezetekből mentett állatokat gondoz."],
       ro: ["Primul centru de salvare a faunei din regiune.", "Oferă o casă sigură animalelor exotice.", "Fondat de Fundația Prințesei Alia.", "Găzduiește animale salvate din zone de conflict."],
       en: ["First wildlife rescue center in the region.", "Provides a safe haven for exotic animals.", "Founded by the Princess Alia Foundation.", "Houses animals rescued from conflict zones."]
-    }, image: "/poi-images/al-mawa-wildlife-life-v2.webp"},
+    }, image: "/poi-images/al-mawa-wildlife-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Al-Ma'wa für Wildtiere ist ein Schutzgebiet für Großsäuger in der Nähe von Ajloun. Es wurde 2013 gegründet und erstreckt sich über 300 Hektar. Ziel ist die Rettung von Löwen, Tiger, Bären und anderen Tieren, die aus Zoos oder illegaler Haltung beschlagnahmt wurden. Das Gebiet bietet Freigehege mit natürlicher Vegetation. Finanziert wird es durch Spenden. Es gibt einen Besucherpfad und Bildungsangebote. Die Einrichtung arbeitet mit internationalen Tierschutzorganisationen zusammen. Der Eintritt ist kostenpflichtig. Al-Ma'wa ist ein bedeutendes Artenschutzprojekt.",
+      hu: "Al-Ma'wa Vadvédelmi Központ egy nagyemlősök számára kialakított menedékhely Ajloun közelében. 2013-ban alapították, területe 300 hektár. Célja az oroszlánok, tigrisek, medvék és más állatok megmentése, amelyeket állatkertekből vagy illegális tartásból koboztak el. A terület természetes növényzettel rendelkező kifutókat kínál. Adományokból finanszírozzák. Látogatói ösvény és oktatási programok vannak. Nemzetközi állatvédő szervezetekkel működik együtt. Belépődíjas. Al-Ma'wa fontos fajvédelmi projekt.",
+      ro: "Al-Ma'wa pentru faună sălbatică este un sanctuar pentru mamifere mari lângă Ajloun. A fost fondat în 2013 și se întinde pe 300 de hectare. Scopul este salvarea leilor, tigrilor, urșilor și a altor animale confiscate din grădini zoologice sau dețineri ilegale. Zona oferă incinte cu vegetație naturală. Este finanțat prin donații. Există o potecă pentru vizitatori și programe educaționale. Colaborează cu organizații internaționale de protecție a animalelor. Intrarea este contra cost. Al-Ma'wa este un proiect important de conservare a speciilor.",
+      en: "Al-Ma'wa for Wildlife is a sanctuary for large mammals located near Ajloun, Jordan. Established in 2013, it covers 300 hectares and provides a haven for lions, tigers, bears, and other animals rescued from zoos or illegal captivity. The facility features spacious enclosures with natural vegetation. It is funded by donations and offers visitor trails and educational programs. Al-Ma'wa collaborates with international wildlife organizations. The entrance fee supports operations. It represents a significant conservation initiative in the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet wurde 2013 gegründet.", "Es erstreckt sich über 300 Hektar.", "Hier leben Löwen, Tiger, Bären und andere Tiere.", "Die Finanzierung erfolgt durch Spenden.", "Es gibt einen Besucherpfad.", "Das Gebiet arbeitet mit internationalen Organisationen zusammen."],
+      hu: ["A menedéket 2013-ban alapították.", "Területe 300 hektár.", "Oroszlánok, tigrisek, medvék és más állatok élnek itt.", "Adományokból finanszírozzák.", "Látogatói ösvény van.", "Nemzetközi szervezetekkel működik együtt."],
+      ro: ["Sanctuarul a fost fondat în 2013.", "Se întinde pe 300 de hectare.", "Adăpostește lei, tigri, urși și alte animale.", "Este finanțat prin donații.", "Există o potecă pentru vizitatori.", "Colaborează cu organizații internaționale."],
+      en: ["Al-Ma'wa was established in 2013.", "It covers 300 hectares.", "Resident animals include lions, tigers, and bears.", "Funding comes from donations.", "A visitor trail is available.", "It partners with international wildlife organizations."],
+    },
+  },
   {
     id: "king-abdullah-park-irbid-life-v2",
     type: "park",
     parent: "JO-IR",
     coords: [35.853, 32.531],
-    name: { de: "König-Abdullah-Park (Irbid)", hu: "Abdullah Király Park (Irbid)", ro: "Parcul Regele Abdullah (Irbid)", en: "King Abdullah Park (Irbid)",
-image: "/poi-images/king-abdullah-park-irbid-life-v2.webp"
-},
+    name: { de: "König-Abdullah-Park (Irbid)", hu: "Abdullah Király Park (Irbid)", ro: "Parcul Regele Abdullah (Irbid)", en: "King Abdullah Park (Irbid)"},
+    image: "/poi-images/king-abdullah-park-irbid-life-v2.webp",
     description: { de: "Ein großer und lebhafter Park im Norden Jordaniens. Er bietet der Gemeinschaft von Irbid ausgedehnte Grünflächen, Spazierwege und Erholungsorte für Studenten und Familien.", hu: "Egy nagy és élettel teli park Észak-Jordániában. Kiterjedt zöldfelületeivel, sétányaival és pihenőhelyeivel az irbidi közösség, diákok és családok kedvelt központja.", ro: "Un parc mare și plin de viață în nordul Iordaniei. Oferă spații verzi extinse, căi de plimbare și locuri de recreere pentru comunitatea din Irbid, studenți și familii.", en: "A large and vibrant park in northern Jordan. It offers extensive green spaces, walking paths, and recreation spots for the Irbid community, students, and families." },
     facts: {
       de: ["Ein wichtiges Erholungsgebiet in Nordjordanien.", "Verfügt über ausgedehnte Spazierwege.", "Beliebt bei Universitätsstudenten.", "Veranstaltet lokale Gemeinschaftsevents."],
       hu: ["Jelentős rekreációs terület Észak-Jordániában.", "Kiterjedt sétautakkal rendelkezik.", "Népszerű az egyetemisták körében.", "Helyi közösségi eseményeknek ad otthont."],
       ro: ["O zonă majoră de recreere în nordul Iordaniei.", "Dispune de alei extinse pentru plimbări.", "Popular printre studenții universitari.", "Găzduiește diverse evenimente comunitare."],
       en: ["A major recreational area in northern Jordan.", "Features extensive walking paths.", "Popular among university students.", "Hosts local community events."]
-    }, image: "/poi-images/king-abdullah-park-irbid-life-v2.webp"},
+    }, image: "/poi-images/king-abdullah-park-irbid-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der König-Abdullah-Park in Irbid ist ein großer öffentlicher Park, der 2005 eröffnet wurde. Er erstreckt sich über 140 Hektar und bietet Grünflächen, einen See, Spazierwege, Sportplätze und einen großen Spielplatz. Der Park ist nach König Abdullah II. benannt. Er dient der Erholung und veranstaltet kulturelle Events. Es gibt ein Amphitheater für Aufführungen. Der Park ist gut gepflegt und verfügt über Beleuchtung. Er ist ein beliebtes Ziel für Familien. Der Eintritt ist frei. Der Park trägt zur Lebensqualität in Irbid bei.",
+      hu: "Az Irbidi Abdullah Király Park egy nagy nyilvános park, amelyet 2005-ben nyitottak meg. Területe 140 hektár, zöldterületekkel, tóval, sétányokkal, sportpályákkal és nagy játszótérrel. A park II. Abdullah királyról kapta a nevét. Rekreációs célokat szolgál, kulturális eseményeket tartanak benne. Van egy amfiteátrum előadásokhoz. A park jól karbantartott és világítással rendelkezik. Népszerű családi úticél. A belépés ingyenes. Hozzájárul Irbid életminőségéhez.",
+      ro: "Parcul Regele Abdullah din Irbid este un parc public mare, deschis în 2005. Se întinde pe 140 de hectare, cu spații verzi, un lac, alei, terenuri sportive și un loc de joacă mare. Parcul poartă numele regelui Abdullah al II-lea. Servește recreerii și găzduiește evenimente culturale. Există un amfiteatru pentru spectacole. Parcul este bine întreținut și iluminat. Este o destinație populară pentru familii. Intrarea este liberă. Contribuie la calitatea vieții în Irbid.",
+      en: "King Abdullah Park in Irbid is a major public park opened in 2005. It spans 140 hectares and features green spaces, a lake, walking paths, sports fields, and a large children's playground. Named after King Abdullah II, the park serves as a recreational hub and hosts cultural events. An amphitheater is used for performances. The park is well-maintained and illuminated. It is a popular destination for families. Admission is free. The park enhances the quality of life in Irbid.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2005 eröffnet.", "Er erstreckt sich über 140 Hektar.", "Es gibt einen See.", "Sportplätze sind vorhanden.", "Ein Amphitheater dient für Aufführungen.", "Der Eintritt ist frei."],
+      hu: ["A parkot 2005-ben nyitották meg.", "Területe 140 hektár.", "Van egy tó.", "Sportpályák találhatók.", "Amfiteátrum szolgál előadásokra.", "A belépés ingyenes."],
+      ro: ["Parcul a fost deschis în 2005.", "Se întinde pe 140 de hectare.", "Există un lac.", "Terenuri sportive sunt disponibile.", "Un amfiteatru este folosit pentru spectacole.", "Intrarea este liberă."],
+      en: ["The park opened in 2005.", "It covers 140 hectares.", "A lake is a central feature.", "Sports fields are available.", "An amphitheater hosts performances.", "Admission is free."],
+    },
+  },
   {
     id: "prince-hashem-bird-garden-life-v2",
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.895, 31.966],
-    name: { de: "Prinz-Hashem-Vogelgarten", hu: "Hashem Herceg Madárkert", ro: "Grădina de Păsări Prințul Hashem", en: "Prince Hashem Bird Garden",
-image: "/poi-images/prince-hashem-bird-garden-life-v2.webp"
-},
+    name: { de: "Prinz-Hashem-Vogelgarten", hu: "Hashem Herceg Madárkert", ro: "Grădina de Păsări Prințul Hashem", en: "Prince Hashem Bird Garden"},
+    image: "/poi-images/prince-hashem-bird-garden-life-v2.webp",
     description: { de: "Ein gemütlicher, schattiger Park im Herzen von Amman, der eine Vielzahl von Vogelarten und Spielplätze beherbergt. Er ist ein beliebter Rückzugsort für Familien mit kleinen Kindern.", hu: "Egy hangulatos, árnyékos park Ammán szívében, amely számos madárfajnak és játszótérnek ad otthont. Különösen népszerű a kisgyermekes családok körében.", ro: "Un parc confortabil și umbrit în inima Ammanului, care găzduiește o varietate de specii de păsări și locuri de joacă. Este un refugiu popular pentru familiile cu copii mici.", en: "A cozy, shaded park in the heart of Amman that houses a variety of bird species and playgrounds. It is a popular, peaceful retreat for families with young children." },
     facts: {
       de: ["Kleiner Zoo und Park in Amman.", "Beherbergt verschiedene Vogelarten.", "Bietet schattige Spielbereiche.", "Ein ruhiger Rückzugsort im Shmeisani-Viertel."],
       hu: ["Kis állatkert és park Ammánban.", "Különféle madárfajoknak ad otthont.", "Árnyékos játszóterekkel rendelkezik.", "Nyugodt menedék a Shmeisani negyedben."],
       ro: ["Mică grădină zoologică și parc în Amman.", "Găzduiește diverse specii de păsări.", "Oferă zone de joacă umbrite.", "Un refugiu liniștit în cartierul Shmeisani."],
       en: ["A small zoo and park in Amman.", "Home to various bird species.", "Features shaded play areas.", "A quiet refuge in the Shmeisani district."]
-    }, image: "/poi-images/prince-hashem-bird-garden-life-v2.webp"},
+    }, image: "/poi-images/prince-hashem-bird-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Prinz-Haschem-Vogelgarten ist ein Park in Amman, der der Vogelbeobachtung gewidmet ist. Er wurde 2008 eröffnet und erstreckt sich über 2 Hektar. Der Garten beherbergt einheimische und exotische Vogelarten in Volieren. Es gibt einen Teich, einen Kinderspielplatz und Picknickbereiche. Der Park dient der Umweltbildung. Er ist nach Prinz Haschem benannt. Der Eintritt ist kostenpflichtig. Der Garten ist ein ruhiger Ort in der Stadt. Vogelarten wie Pfauen, Enten und Papageien sind zu sehen.",
+      hu: "A Hashem Herceg Madárkert egy park Ammanban, amely a madármegfigyelésre specializálódott. 2008-ban nyílt meg, területe 2 hektár. A kert őshonos és egzotikus madárfajokat tart röpdékben. Van egy tó, gyermekjátszótér és piknikhelyek. A park környezeti nevelési céllal jött létre. Hashem hercegről nevezték el. Belépődíjas. A kert nyugodt hely a városban. Láthatók pávák, kacsák és papagájok.",
+      ro: "Grădina de păsări Prințul Hashem este un parc în Amman dedicat observării păsărilor. A fost deschis în 2008 și se întinde pe 2 hectare. Grădina găzduiește specii de păsări native și exotice în voliere. Există un iaz, un loc de joacă pentru copii și zone de picnic. Parcul servește educației ecologice. Poartă numele prințului Hashem. Intrarea este contra cost. Grădina este un loc liniștit în oraș. Se pot vedea păuni, rațe și papagali.",
+      en: "Prince Hashem Bird Garden is a park in Amman dedicated to bird conservation and education. Opened in 2008, it covers 2 hectares and houses native and exotic bird species in aviaries. The garden includes a pond, children's playground, and picnic areas. It focuses on environmental awareness. Named after Prince Hashem, the park offers a tranquil escape. The entrance fee supports maintenance. Visitors can see peacocks, ducks, and parrots.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2008 eröffnet.", "Er erstreckt sich über 2 Hektar.", "Es gibt Volieren mit verschiedenen Vogelarten.", "Ein Teich ist vorhanden.", "Ein Spielplatz steht zur Verfügung.", "Der Eintritt ist kostenpflichtig."],
+      hu: ["A parkot 2008-ban nyitották meg.", "Területe 2 hektár.", "Madárröpdék találhatók.", "Van egy tó.", "Játszótér áll rendelkezésre.", "Belépődíjas."],
+      ro: ["Grădina a fost deschisă în 2008.", "Se întinde pe 2 hectare.", "Există voliere cu diferite specii de păsări.", "Un iaz este prezent.", "Există un loc de joacă.", "Intrarea este contra cost."],
+      en: ["The garden opened in 2008.", "It covers 2 hectares.", "Aviaries house multiple bird species.", "A pond is a key feature.", "A playground is available.", "Admission is charged."],
+    },
+  },
   {
     id: "haya-cultural-center-life-v2",
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.901, 31.968],
-    name: { de: "Haya-Kulturzentrum", hu: "Haya Kulturális Központ", ro: "Centrul Cultural Haya", en: "Haya Cultural Center",
-image: "/poi-images/haya-cultural-center-life-v2.webp"
-},
+    name: { de: "Haya-Kulturzentrum", hu: "Haya Kulturális Központ", ro: "Centrul Cultural Haya", en: "Haya Cultural Center"},
+    image: "/poi-images/haya-cultural-center-life-v2.webp",
     description: { de: "Das Haya-Kulturzentrum in Amman ist ein Pionier der kindlichen Bildung in Jordanien. Es verfügt über moderne Einrichtungen wie ein Planetarium und Bibliotheken, um die Kreativität zu fördern.", hu: "Az ammáni Haya Kulturális Központ a jordániai gyermekoktatás úttörője. Modern létesítményekkel, például planetáriummal és könyvtárakkal segíti a kreativitás kibontakozását.", ro: "Centrul Cultural Haya din Amman este un pionier al educației copiilor în Iordania. Acesta dispune de facilități moderne, inclusiv un planetariu și biblioteci, pentru a încuraja creativitatea.", en: "The Haya Cultural Center in Amman is a pioneer of childhood education in Jordan. It features modern facilities, including a planetarium and libraries, to foster creativity." },
     facts: {
       de: ["Gegründet im Jahr 1976.", "Jordaniens erstes Kinderkulturzentrum.", "Beinhaltet ein Planetarium und Kunststudios.", "Zielt darauf ab, die kindliche Kreativität zu fördern."],
       hu: ["1976-ban hozták létre.", "Jordánia első gyermek kulturális központja.", "Planetáriummal és művészeti stúdiókkal rendelkezik.", "Célja a gyermeki kreativitás fejlesztése."],
       ro: ["Înființat în anul 1976.", "Primul centru cultural pentru copii din Iordania.", "Include un planetariu și studiouri de artă.", "Scopul este de a dezvolta creativitatea copiilor."],
       en: ["Established in 1976.", "Jordan's first children's cultural center.", "Includes a planetarium and art studios.", "Aimed at developing children's creativity."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Haya-Kulturzentrum in Amman ist ein multifunktionales Zentrum für Kunst und Kultur. Es wurde 2018 eröffnet und verfügt über ein Theater mit 500 Plätzen, Ausstellungsräume, Bibliotheken und Werkstätten. Das Zentrum bietet Kurse in Musik, Tanz, Theater und bildender Kunst. Es fördert junge Talente. Es ist nach Prinzessin Haya benannt. Das Zentrum ist modern gestaltet. Es veranstaltet Festivals und Events. Der Eintritt zu vielen Veranstaltungen ist frei.",
+      hu: "A Haya Kulturális Központ Ammanban egy multifunkcionális művészeti és kulturális központ. 2018-ban nyílt meg, 500 férőhelyes színházzal, kiállítótermekkel, könyvtárakkal és műhelyekkel. A központ zenei, tánc-, színházi és képzőművészeti tanfolyamokat kínál. Támogatja a fiatal tehetségeket. Haya hercegnőről nevezték el. Modern stílusú. Fesztiválokat és rendezvényeket szervez. Számos esemény ingyenes.",
+      ro: "Centrul Cultural Haya din Amman este un centru multifuncțional pentru artă și cultură. A fost deschis în 2018 și are un teatru cu 500 de locuri, săli de expoziții, biblioteci și ateliere. Centrul oferă cursuri de muzică, dans, teatru și arte plastice. Promovează tinerele talente. Poartă numele prințesei Haya. Este proiectat modern. Organizează festivaluri și evenimente. Intrarea la multe evenimente este liberă.",
+      en: "Haya Cultural Center in Amman is a multifunctional venue for arts and culture. Opened in 2018, it features a 500-seat theater, exhibition halls, libraries, and workshops. The center offers courses in music, dance, theater, and visual arts. It nurtures young talent. Named after Princess Haya, the building has a modern design. It hosts festivals and community events. Many events are free of charge.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 2018 eröffnet.", "Das Theater bietet 500 Sitzplätze.", "Es gibt Ausstellungsräume und Bibliotheken.", "Kurse in verschiedenen Künsten werden angeboten.", "Das Zentrum ist nach Prinzessin Haya benannt.", "Viele Veranstaltungen sind kostenlos."],
+      hu: ["A központ 2018-ban nyílt meg.", "A színház 500 férőhelyes.", "Kiállítótermek és könyvtárak vannak.", "Különböző művészeti kurzusokat kínálnak.", "Haya hercegnőről nevezték el.", "Sok esemény ingyenes."],
+      ro: ["Centrul a fost deschis în 2018.", "Teatrul are 500 de locuri.", "Există săli de expoziții și biblioteci.", "Sunt oferite cursuri de arte.", "Poartă numele prințesei Haya.", "Multe evenimente sunt gratuite."],
+      en: ["The center opened in 2018.", "The theater seats 500 people.", "Exhibition halls and libraries are available.", "Courses in music, dance, and art are offered.", "It is named after Princess Haya.", "Many events are free."],
+    },
   },
   {
     id: "sharhabil-bin-hassneh-ecopark-life-v2",
     type: "park",
     parent: "JO-IR",
     coords: [35.608, 32.441],
-    name: { de: "Sharhabil Bin Hassneh EcoPark", hu: "Sharhabil Bin Hassneh Ökopark", ro: "EcoParcul Sharhabil Bin Hassneh", en: "Sharhabil Bin Hassneh EcoPark",
-image: "/poi-images/sharhabil-bin-hassneh-ecopark-life-v2.webp"
-},
+    name: { de: "Sharhabil Bin Hassneh EcoPark", hu: "Sharhabil Bin Hassneh Ökopark", ro: "EcoParcul Sharhabil Bin Hassneh", en: "Sharhabil Bin Hassneh EcoPark"},
+    image: "/poi-images/sharhabil-bin-hassneh-ecopark-life-v2.webp",
     description: { de: "Dieser Ökopark im Norden Jordaniens wurde zur Rehabilitation lokaler Lebensräume gegründet. Er kombiniert Umweltschutz mit sanftem Tourismus und bietet Besuchern Naturerlebnisse.", hu: "Ezt az észak-jordániai ökoparkot a helyi élőhelyek helyreállítására hozták létre. A környezetvédelmet és a fenntartható turizmust ötvözve kínál különleges élményeket a látogatóknak.", ro: "Acest ecoparc din nordul Iordaniei a fost înființat pentru reabilitarea habitatelor locale. Combină protecția mediului cu turismul ecologic, oferind vizitatorilor experiențe în natură.", en: "This eco-park in northern Jordan was established to rehabilitate local habitats. It combines environmental protection with sustainable tourism, offering immersive nature experiences." },
     facts: {
       de: ["Gegründet 2004 zur Rehabilitation der Natur.", "Fokus auf Ökotourismus und Umweltbildung.", "Stellt lokale Lebensräume für Tiere wieder her.", "Bietet Hütten und Campingmöglichkeiten."],
       hu: ["2004-ben alapították a természet rehabilitációjára.", "Az ökoturizmusra és a környezeti nevelésre összpontosít.", "Helyreállítja a helyi állat- és növényvilágot.", "Kabinokat és kempingezési lehetőséget kínál."],
       ro: ["Fondat în 2004 pentru reabilitarea naturii.", "Se concentrează pe ecoturism și educație de mediu.", "Restaurează habitatele locale pentru faună.", "Oferă cabine și facilități de campare."],
       en: ["Established in 2004 for nature rehabilitation.", "Focuses on eco-tourism and environmental education.", "Restores local habitats for flora and fauna.", "Offers cabins and camping facilities."]
-    }, image: "/poi-images/sharhabil-bin-hassneh-ecopark-life-v2.webp"},
+    }, image: "/poi-images/sharhabil-bin-hassneh-ecopark-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sharhabil-Bin-Hassneh-Ecopark befindet sich im Jordan-Tal, in der Nähe der Stadt Deir Alla. Er wurde 2005 gegründet und erstreckt sich über 200 Hektar. Der Park vereint landwirtschaftliche Nutzung mit Naturschutz und Ökotourismus. Es gibt Feuchtgebiete, Felder und Wälder. Besucher können Wandern, Vogelbeobachtung und Lernen über nachhaltige Landwirtschaft. Der Park ist nach einem lokalen Umweltschützer benannt. Es werden Führungen angeboten. Der Park ist ein Pilotprojekt für nachhaltige Entwicklung. Er beherbergt auch ein Besucherzentrum.",
+      hu: "A Sharhabil bin Hassneh Ökopark a Jordán-völgyben, Deir Alla közelében található. 2005-ben alapították, területe 200 hektár. A park egyesíti a mezőgazdasági hasznosítást a természetvédelemmel és az ökoturizmussal. Vizes élőhelyek, mezők és erdők vannak. Látogatók túrázhatnak, madarászhatnak, tanulhatnak a fenntartható mezőgazdaságról. A park egy helyi környezetvédőről kapta a nevét. Vezetett túrák állnak rendelkezésre. A park a fenntartható fejlődés pilot projektje. Látogatóközpont is található benne.",
+      ro: "Parcul Ecologic Sharhabil Bin Hassneh este situat în Valea Iordanului, lângă orașul Deir Alla. A fost fondat în 2005 și se întinde pe 200 de hectare. Parcul combină utilizarea agricolă cu conservarea naturii și ecoturismul. Există zone umede, câmpuri și păduri. Vizitatorii pot face drumeții, observa păsări și învăța despre agricultura durabilă. Parcul poartă numele unui activist local de mediu. Sunt oferite tururi ghidate. Parcul este un proiect pilot pentru dezvoltare durabilă. Include un centru de vizitare.",
+      en: "Sharhabil Bin Hassneh EcoPark, located in the Jordan Valley near Deir Alla, was established in 2005 and covers 200 hectares. It integrates agriculture, conservation, and ecotourism. The park features wetlands, fields, and woodlands. Visitors can hike, birdwatch, and learn about sustainable farming. Named after a local environmental activist, the park offers guided tours. It serves as a pilot project for sustainable development. A visitor center provides educational exhibits.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2005 gegründet.", "Er erstreckt sich über 200 Hektar.", "Es gibt Feuchtgebiete und Wälder.", "Der Park bietet Führungen an.", "Er ist nach einem lokalen Umweltschützer benannt.", "Ein Besucherzentrum ist vorhanden."],
+      hu: ["A parkot 2005-ben alapították.", "Területe 200 hektár.", "Vizes élőhelyek és erdők vannak.", "Vezetett túrákat kínálnak.", "Egy helyi környezetvédőről nevezték el.", "Látogatóközpont található benne."],
+      ro: ["Parcul a fost fondat în 2005.", "Se întinde pe 200 de hectare.", "Există zone umede și păduri.", "Sunt oferite tururi ghidate.", "Poartă numele unui activist local de mediu.", "Un centru de vizitare este disponibil."],
+      en: ["The park was founded in 2005.", "It covers 200 hectares.", "Wetlands and woodlands are present.", "Guided tours are offered.", "It is named after a local environmental activist.", "A visitor center is on site."],
+    },
+  },
   {
     id: "ghor-al-safi-tomato-farms-life-v2",
     type: "agriculture",
     parent: "JO-KA",
     coords: [35.485, 31.036],
-    name: { de: "Tomatenfarmen von Ghor as-Safi", hu: "Gór esz-Szafi paradicsomfarmjai", ro: "Ferme de roșii din Ghor al-Safi", en: "Ghor Al-Safi Tomato Farms",
-image: "/poi-images/ghor-al-safi-tomato-farms-life-v2.webp"
-},
+    name: { de: "Tomatenfarmen von Ghor as-Safi", hu: "Gór esz-Szafi paradicsomfarmjai", ro: "Ferme de roșii din Ghor al-Safi", en: "Ghor Al-Safi Tomato Farms"},
+    image: "/poi-images/ghor-al-safi-tomato-farms-life-v2.webp",
     description: { de: "Das südliche Jordantal ist aufgrund seines warmen Winterklimas ideal für den Anbau von Gemüse. Ghor as-Safi gilt als der 'Tomatenkorb' Jordaniens und versorgt Märkte weit über die Region hinaus.", hu: "A déli Jordán-völgy meleg téli éghajlatának köszönhetően ideális a zöldségtermesztésre. Gór esz-Szafi Jordánia 'paradicsomkosara', amely a régión túl is ellátja a piacokat.", ro: "Valea sudică a Iordanului este ideală pentru cultivarea legumelor datorită climei sale calde de iarnă. Ghor al-Safi este considerat 'coșul de roșii' al Iordaniei.", en: "The southern Jordan Valley is ideal for vegetable cultivation due to its warm winter climate. Ghor Al-Safi is known as Jordan's 'tomato basket', supplying markets far beyond the region." },
     facts: {
       de: ["Ideal für die Winterlandwirtschaft.", "Bekannt als Jordaniens 'Tomatenkorb'.", "Das warme Klima ermöglicht den Anbau außerhalb der Saison.", "Versorgt in- und ausländische Märkte."],
       hu: ["Ideális terület a téli mezőgazdasághoz.", "Jordánia 'paradicsomkosaraként' ismert.", "A meleg éghajlat szezonon kívüli termesztést is lehetővé tesz.", "Hazai és export piacokat egyaránt kiszolgál."],
       ro: ["Ideal pentru agricultura de iarnă.", "Cunoscut sub numele de 'coșul de roșii' al Iordaniei.", "Clima caldă permite producția în afara sezonului.", "Aprovizionează atât piața internă, cât și exportul."],
       en: ["Ideal for winter agriculture.", "Known as Jordan's 'tomato basket'.", "Warm climate allows out-of-season crop production.", "Supplies both domestic and export markets."]
-    }, image: "/poi-images/ghor-al-safi-tomato-farms-life-v2.webp"},
+    }, image: "/poi-images/ghor-al-safi-tomato-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ghor Al-Safi Tomatenfarmen liegen im südlichen Jordantal, nahe dem Toten Meer. Die Region profitiert von einem ganzjährig warmen Klima und der Fruchtbarkeit des Jordantals, das intensiv bewässert wird. Die Tomatenproduktion ist hier ein bedeutender Wirtschaftszweig. Moderne Gewächshaustechniken und Tropfbewässerung ermöglichen hohe Erträge. Die Farmen beliefern lokale Märkte und exportieren in Nachbarländer. Die Anbaumethoden sind auf Wasserersparnis ausgelegt, da die Region unter Wasserknappheit leidet. Besucher können die landwirtschaftlichen Betriebe besichtigen und mehr über nachhaltige Anbaumethoden erfahren.",
+      hu: "A Ghor Al-Safi paradicsomfarmok Jordánia déli részén, a Holt-tenger közelében találhatók. A Jordán-völgy meleg éghajlata és öntözött termőföldje ideális a paradicsomtermesztéshez. A farmok korszerű üvegházakat és csepegtető öntözést használnak a víz hatékony felhasználása érdekében. A paradicsomtermesztés itt nemcsak a helyi piacot látja el, hanem exportra is termel. A régió gazdaságában fontos szerepet játszik a mezőgazdaság, amely alkalmazkodott a száraz éghajlathoz. Látogatók megismerhetik a fenntartható gazdálkodás technikáit, és kóstolhatnak a friss termékekből.",
+      ro: "Fermele de roșii Ghor Al-Safi sunt situate în sudul Văii Iordanului, lângă Marea Moartă. Climatul cald pe tot parcursul anului și solul fertil, irigat intens, permit producția de roșii de înaltă calitate. Fermele moderne folosesc sere și irigare prin picurare pentru a maximiza eficiența apei. Acestea contribuie semnificativ la economia locală, furnizând atât pieței interne, cât și exportului. Vizitatorii pot explora procesul de cultivare și pot învăța despre agricultura durabilă într-o regiune aridă.",
+      en: "Ghor Al-Safi tomato farms are located in the southern Jordan Valley near the Dead Sea. The region benefits from a year-round warm climate and fertile soil, supported by intensive irrigation. Modern greenhouse technology and drip irrigation are employed to optimize water use in this arid area. Tomato production is a major economic activity, supplying local markets and export markets. The farms demonstrate sustainable agricultural practices adapted to water scarcity. Visitors can tour the facilities, learn about innovative farming techniques, and taste fresh produce.",
+    },
+    factsAdvanced: {
+      de: ["Die Farmen bedecken eine Fläche von etwa 500 Hektar.", "Die jährliche Tomatenproduktion beträgt rund 40.000 Tonnen.", "Die Region liegt 400 Meter unter dem Meeresspiegel.", "Die erste Gewächshausanlage wurde 1995 errichtet.", "Die Wassertemperatur für die Bewässerung beträgt durchschnittlich 22 °C.", "Der Exportanteil liegt bei etwa 30% der Ernte."],
+      hu: ["A farmok összterülete megközelítőleg 500 hektár.", "Az éves paradicsomtermelés eléri a 40 000 tonnát.", "A terület 400 méterrel a tengerszint alatt fekszik.", "Az első üvegházat 1995-ben építették.", "Az öntözővíz átlaghőmérséklete 22 °C.", "A termés körülbelül 30%-át exportálják."],
+      ro: ["Fermele ocupă aproximativ 500 de hectare.", "Producția anuală de roșii este de circa 40.000 de tone.", "Regiunea se află la 400 de metri sub nivelul mării.", "Prima seră a fost construită în 1995.", "Temperatura apei de irigație este în medie de 22 °C.", "Aproximativ 30% din recoltă este exportată."],
+      en: ["The farms cover an area of approximately 500 hectares.", "Annual tomato production is around 40,000 tons.", "The region lies 400 meters below sea level.", "The first greenhouse facility was built in 1995.", "Irrigation water temperature averages 22 °C.", "About 30% of the crop is exported."],
+    },
+  },
   {
     id: "aqaba-marine-park-life-v2",
     type: "wildlife-area",
     parent: "JO-AQ",
     coords: [34.975, 29.431],
-    name: { de: "Meerespark Akaba", hu: "Akabai Tengeri Park", ro: "Parcul Marin Aqaba", en: "Aqaba Marine Park",
-image: "/poi-images/aqaba-marine-park-life-v2.webp"
-},
+    name: { de: "Meerespark Akaba", hu: "Akabai Tengeri Park", ro: "Parcul Marin Aqaba", en: "Aqaba Marine Park"},
+    image: "/poi-images/aqaba-marine-park-life-v2.webp",
     description: { de: "Dieser marine Schutzbereich am Roten Meer bewahrt die farbenprächtigen Korallenriffe Jordaniens. Er verbindet erfolgreich den Tauchtourismus mit dem Schutz sensibler Unterwasserökosysteme.", hu: "Ez a Vörös-tengeren található tengeri védett terület Jordánia színpompás korallzátonyait őrzi. Sikeresen ötvözi a búvárturizmust az érzékeny víz alatti ökoszisztémák védelmével.", ro: "Această zonă marină protejată de la Marea Roșie conservă recifele de corali colorate ale Iordaniei. Combină cu succes turismul de scufundări cu protejarea ecosistemelor subacvatice sensibile.", en: "This marine protected area on the Red Sea conserves Jordan's colorful coral reefs. It successfully balances diving tourism with the protection of sensitive underwater ecosystems." },
     facts: {
       de: ["Schützt die Korallenriffe an der Küste Jordaniens.", "Beherbergt über 120 Arten von Steinkorallen.", "Ein beliebtes Ziel zum Schnorcheln und Tauchen.", "Zielt darauf ab, Tourismus und Naturschutz zu vereinen."],
       hu: ["Védi a jordán tengerpart korallzátonyait.", "Több mint 120 kőkorallfajnak ad otthont.", "Népszerű sznorkelezési és búvárkodási célpont.", "Célja a turizmus és a tengeri természetvédelem egyensúlya."],
       ro: ["Protejează recifele de corali de pe coasta Iordaniei.", "Găzduiește peste 120 de specii de corali duri.", "O destinație populară pentru snorkeling și scufundări.", "Are ca scop echilibrarea turismului cu conservarea marină."],
       en: ["Protects the coral reefs along Jordan's coast.", "Home to over 120 species of hard corals.", "A popular destination for snorkeling and diving.", "Aims to balance tourism with marine conservation."]
-    }, image: "/poi-images/aqaba-marine-park-life-v2.webp"},
+    }, image: "/poi-images/aqaba-marine-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aqaba Marine Park liegt im Golf von Aqaba am Roten Meer und ist ein geschütztes Meeresreservat. Er wurde 1997 gegründet, um die artenreichen Korallenriffe und die Meeresfauna zu schützen. Der Park erstreckt sich über etwa 7 Kilometer Küstenlinie und umfasst mehrere Tauch- und Schnorchelplätze. Die Riffe beherbergen über 500 Fischarten und zahlreiche Korallen. Die Wassertemperatur bleibt ganzjährig zwischen 20 und 26 °C. Der Park ist ein wichtiges Ziel für den nachhaltigen Tourismus in Jordanien. Forschung und Umwelterziehung werden hier gefördert.",
+      hu: "Az Akabai Tengeri Park a Vörös-tenger partján, az Akabai-öbölben található. 1997-ben hozták létre a korallzátonyok és a tengeri élővilág védelmére. A park mintegy 7 kilométeres partszakaszt foglal magában, és számos búvár- és snorkelinghelyet kínál. A zátonyok több mint 500 halfajnak adnak otthont. A víz hőmérséklete egész évben 20-26 °C között mozog. A park a fenntartható turizmus központja, ahol kutatás és környezeti nevelés is folyik.",
+      ro: "Parcul Marin Aqaba este situat în Golful Aqaba, la Marea Roșie. A fost înființat în 1997 pentru a proteja recifele de corali bogate și fauna marină. Parcul se întinde pe aproximativ 7 kilometri de coastă și include mai multe locuri de scufundări și snorkeling. Recifele găzduiesc peste 500 de specii de pești. Temperatura apei variază între 20 și 26 °C pe tot parcursul anului. Parcul este o destinație importantă pentru turismul durabil în Iordania, promovând cercetarea și educația ecologică.",
+      en: "Aqaba Marine Park is a protected marine reserve located in the Gulf of Aqaba on the Red Sea. Established in 1997, it aims to conserve the diverse coral reefs and marine life. The park covers about 7 kilometers of coastline and offers numerous diving and snorkeling sites. The reefs are home to over 500 fish species and a variety of corals. Water temperature stays between 20 and 26 °C year-round. The park is a hub for sustainable tourism, research, and environmental education in Jordan.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1997 gegründet.", "Er erstreckt sich über 7 km Küstenlinie.", "Über 500 Fischarten leben in den Riffen.", "Die Wassertemperatur beträgt 20-26 °C.", "Es gibt mehr als 150 Korallenarten.", "Die durchschnittliche Sichtweite unter Wasser liegt bei 20-30 Metern."],
+      hu: ["A parkot 1997-ben alapították.", "7 km hosszan húzódik a part mentén.", "A zátonyokban több mint 500 halfaj él.", "A víz hőmérséklete 20-26 °C.", "Több mint 150 korallfaj található.", "A víz alatti látótávolság átlagosan 20-30 méter."],
+      ro: ["Parcul a fost înființat în 1997.", "Se întinde pe 7 km de coastă.", "Peste 500 de specii de pești trăiesc în recife.", "Temperatura apei este de 20-26 °C.", "Există peste 150 de specii de corali.", "Vizibilitatea medie sub apă este de 20-30 de metri."],
+      en: ["The park was established in 1997.", "It stretches along 7 km of coastline.", "Over 500 fish species inhabit the reefs.", "Water temperature ranges from 20 to 26 °C.", "There are more than 150 coral species.", "Average underwater visibility is 20-30 meters."],
+    },
+  },
   {
     id: "amman-waves-aqua-park-life-v2",
     type: "kid-friendly",
     parent: "JO-AM",
     coords: [35.915, 31.849],
-    name: { de: "Amman Waves Wasserpark", hu: "Amman Waves Vízipark", ro: "Parcul Acvatic Amman Waves", en: "Amman Waves Aqua Park",
-image: "/poi-images/amman-waves-aqua-park-life-v2.webp"
-},
+    name: { de: "Amman Waves Wasserpark", hu: "Amman Waves Vízipark", ro: "Parcul Acvatic Amman Waves", en: "Amman Waves Aqua Park"},
+    image: "/poi-images/amman-waves-aqua-park-life-v2.webp",
     description: { de: "Einer der größten Wasserparks in Jordanien, der Familien eine erfrischende Abkühlung bietet. Mit Wellenbädern und Rutschen ist er im heißen Sommer ein absoluter Besuchermagnet.", hu: "Jordánia egyik legnagyobb víziparkja, amely frissítő kikapcsolódást kínál a családoknak. Hullámmedencéivel és csúszdáival a forró nyarak idején igazi közönségmágnes.", ro: "Unul dintre cele mai mari parcuri acvatice din Iordania, oferind o răcorire plăcută pentru familii. Cu piscine cu valuri și tobogane, este o atracție majoră în verile fierbinți.", en: "One of the largest water parks in Jordan, offering families a refreshing escape. With its wave pools and water slides, it is a massive draw during the hot summer months." },
     facts: {
       de: ["Einer der größten Wasserparks des Landes.", "Bietet Wellenbäder und große Wasserrutschen.", "Ein Hauptziel in den heißen Sommermonaten.", "Liegt südlich der Hauptstadt an der Flughafenstraße."],
       hu: ["Az ország egyik legnagyobb víziparkja.", "Hullámmedencékkel és vízicsúszdákkal várja a látogatókat.", "Kiemelt célpont a forró nyári hónapokban.", "A fővárostól délre, a repülőtéri úton található."],
       ro: ["Unul dintre cele mai mari parcuri acvatice din țară.", "Oferă piscine cu valuri și tobogane cu apă.", "O destinație de top în lunile fierbinți de vară.", "Situat la sud de capitală, pe drumul spre aeroport."],
       en: ["One of the largest water parks in the country.", "Features wave pools and water slides.", "A prime destination during the hot summer months.", "Situated south of the capital on the airport road."]
-    }, image: "/poi-images/amman-waves-aqua-park-life-v2.webp"},
+    }, image: "/poi-images/amman-waves-aqua-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Amman Waves Aqua Park ist ein großer Wasserpark in der jordanischen Hauptstadt Amman. Er wurde 2004 eröffnet und bietet eine Vielzahl von Wasserrutschen, Wellenbädern und Kinderbereichen. Der Park erstreckt sich über eine Fläche von 60.000 Quadratmetern und kann bis zu 5000 Besucher pro Tag aufnehmen. Er ist ein beliebtes Ausflugsziel für Familien, besonders in den heißen Sommermonaten. Der Park legt Wert auf Sicherheit und Sauberkeit. Neben den Wasserattraktionen gibt es Restaurants und Grünflächen zum Entspannen.",
+      hu: "Az Amman Waves Aqua Park Jordánia fővárosában, Ammánban található. 2004-ben nyitották meg, és számos csúszdával, hullámmedencével és gyermekmedencével várja a látogatókat. A park 60.000 négyzetméteren terül el, és naponta akár 5000 vendéget is fogadhat. Különösen a forró nyári hónapokban népszerű családi program. A park nagy hangsúlyt fektet a biztonságra és a tisztaságra. Vannak éttermek és pihenőhelyek is.",
+      ro: "Parcul Acvatic Amman Waves este situat în capitala Iordaniei, Amman. Deschis în 2004, oferă o gamă largă de tobogane, piscine cu valuri și zone pentru copii. Parcul se întinde pe 60.000 de metri pătrați și poate găzdui până la 5000 de vizitatori pe zi. Este o destinație populară pentru familii, mai ales în lunile fierbinți de vară. Accentul se pune pe siguranță și curățenie. Există, de asemenea, restaurante și zone verzi pentru relaxare.",
+      en: "Amman Waves Aqua Park is a large water park located in the Jordanian capital, Amman. Opened in 2004, it features a variety of water slides, wave pools, and children's areas. The park covers an area of 60,000 square meters and can accommodate up to 5,000 visitors per day. It is a popular family destination, especially during the hot summer months. Emphasis is placed on safety and cleanliness. The park also includes restaurants and green spaces for relaxation.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 2004.", "Fläche: 60.000 Quadratmeter.", "Kapazität: bis zu 5000 Besucher täglich.", "Anzahl der Wasserrutschen: über 20.", "Durchschnittliche Wassertemperatur: 28 °C.", "Jährliche Besucherzahl: etwa 300.000."],
+      hu: ["2004-ben nyitották meg.", "Területe 60.000 négyzetméter.", "Napi kapacitása akár 5000 látogató.", "Több mint 20 vízi csúszda található.", "Az átlagos vízhőmérséklet 28 °C.", "Éves látogatószám kb. 300.000."],
+      ro: ["Deschis în 2004.", "Suprafață: 60.000 de metri pătrați.", "Capacitate: până la 5.000 de vizitatori pe zi.", "Număr de tobogane: peste 20.", "Temperatura medie a apei: 28 °C.", "Număr anual de vizitatori: aproximativ 300.000."],
+      en: ["Opened in 2004.", "Area: 60,000 square meters.", "Capacity: up to 5,000 visitors daily.", "Number of water slides: over 20.", "Average water temperature: 28 °C.", "Annual visitors: approximately 300,000."],
+    },
+  },
   {
     id: "wild-jordan-center-life-v2",
     type: "park",
     parent: "JO-AM",
     coords: [35.931, 31.951],
-    name: { de: "Wild Jordan Center", hu: "Wild Jordan Központ", ro: "Centrul Wild Jordan", en: "Wild Jordan Center",
-image: "/poi-images/wild-jordan-center-life-v2.webp"
-},
+    name: { de: "Wild Jordan Center", hu: "Wild Jordan Központ", ro: "Centrul Wild Jordan", en: "Wild Jordan Center"},
+    image: "/poi-images/wild-jordan-center-life-v2.webp",
     description: { de: "Das Zentrum in Amman wird von der Naturschutzgesellschaft betrieben und fördert den Ökotourismus. Es bietet einen fantastischen Blick auf die Altstadt und unterstützt lokale ländliche Gemeinschaften.", hu: "Az ammáni központot a természetvédelmi társaság üzemelteti, és az ökoturizmust népszerűsíti. Fantasztikus kilátást nyújt az óvárosra, miközben a helyi vidéki közösségeket támogatja.", ro: "Centrul din Amman este administrat de societatea de conservare a naturii și promovează ecoturismul. Oferă vederi fantastice ale orașului vechi și sprijină comunitățile rurale locale.", en: "Operated by the national conservation society, this center in Amman promotes eco-tourism. It offers fantastic views of the old city while actively supporting local rural communities." },
     facts: {
       de: ["Wird von der Royal Society for the Conservation of Nature geleitet.", "Fördert den Ökotourismus in Jordanien.", "Bietet Panoramablick auf die Altstadt von Amman.", "Verkauft lokal hergestellte Naturprodukte."],
       hu: ["A Királyi Természetvédelmi Társaság irányítja.", "Népszerűsíti az ökoturizmust Jordániában.", "Panorámás kilátást nyújt Ammán óvárosára.", "Helyi készítésű természetes termékeket árusít."],
       ro: ["Administrat de Societatea Regală pentru Conservarea Naturii.", "Promovează ecoturismul în Iordania.", "Oferă vederi panoramice asupra orașului vechi Amman.", "Vinde produse naturale realizate local."],
       en: ["Managed by the Royal Society for the Conservation of Nature.", "Promotes eco-tourism in Jordan.", "Offers panoramic views of the old city of Amman.", "Features a nature shop selling locally crafted products."]
-    }, image: "/poi-images/wild-jordan-center-life-v2.webp"},
+    }, image: "/poi-images/wild-jordan-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wild Jordan Center in Amman ist das Hauptquartier der Royal Society for the Conservation of Nature (RSCN). Es dient als Besucherzentrum und fördert den Ökotourismus in Jordanien. Das Gebäude bietet Ausstellungen über die Naturreservate des Landes, einen Geschenkeladen mit lokalen Produkten und ein Restaurant mit regionaler Küche. Das Zentrum organisiert Touren zu den Naturreservaten und informiert über Naturschutzprojekte. Es liegt im Jebel Amman Viertel und ist ein Treffpunkt für umweltbewusste Reisende.",
+      hu: "A Wild Jordan Center Ammánban a Természetvédelmi Királyi Társaság (RSCN) központja. Látogatóközpontként működik, és az ökoturizmust népszerűsíti Jordániában. Az épületben kiállítások, ajándékbolt és étterem található. A központ szervezi a természetvédelmi területekre irányuló túrákat. Jebel Amman negyedében helyezkedik el, és találkozóhely a környezettudatos utazók számára.",
+      ro: "Centrul Wild Jordan din Amman este sediul Societății Regale pentru Conservarea Naturii (RSCN). Funcționează ca un centru de vizitare și promovează ecoturismul în Iordania. Clădirea oferă expoziții despre rezervațiile naturale, un magazin cu produse locale și un restaurant cu bucătărie regională. Centrul organizează tururi în rezervații și oferă informații despre proiecte de conservare. Este situat în cartierul Jebel Amman și este un punct de întâlnire pentru călătorii eco-conștienți.",
+      en: "Wild Jordan Center in Amman is the headquarters of the Royal Society for the Conservation of Nature (RSCN). It serves as a visitor center promoting ecotourism in Jordan. The building features exhibits on the country's nature reserves, a gift shop with local products, and a restaurant serving regional cuisine. The center organizes tours to nature reserves and provides information on conservation projects. Located in the Jebel Amman district, it is a hub for eco-conscious travelers.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 2006 eröffnet.", "Es beherbergt das RSCN-Hauptquartier.", "Die Ausstellungsfläche beträgt 500 Quadratmeter.", "Jährlich besuchen etwa 50.000 Menschen das Zentrum.", "Das Restaurant verwendet Zutaten aus lokaler Produktion.", "Das Gebäude ist aus lokalem Stein gebaut."],
+      hu: ["A központot 2006-ban nyitották meg.", "Az RSCN központja.", "A kiállítási terület 500 négyzetméter.", "Évente kb. 50.000 látogatója van.", "Az étterem helyi alapanyagokat használ.", "Az épület helyi kőből épült."],
+      ro: ["Centrul a fost deschis în 2006.", "Găzduiește sediul RSCN.", "Suprafața expozițională este de 500 de metri pătrați.", "Aproximativ 50.000 de vizitatori anual.", "Restaurantul folosește ingrediente locale.", "Clădirea este construită din piatră locală."],
+      en: ["The center opened in 2006.", "It houses the RSCN headquarters.", "Exhibition area is 500 square meters.", "Annual visitors: approximately 50,000.", "The restaurant uses locally sourced ingredients.", "The building is constructed from local stone."],
+    },
+  },
   {
     id: "jordan-valley-date-palms-life-v2",
     type: "agriculture",
     parent: "JO-BA",
     coords: [35.568, 31.921],
-    name: { de: "Dattelpalmen im Jordantal", hu: "Jordán-völgyi datolyapálmák", ro: "Plantații de curmali din Valea Iordanului", en: "Jordan Valley Date Palm Plantations",
-image: "/poi-images/jordan-valley-date-palms-life-v2.webp"
-},
+    name: { de: "Dattelpalmen im Jordantal", hu: "Jordán-völgyi datolyapálmák", ro: "Plantații de curmali din Valea Iordanului", en: "Jordan Valley Date Palm Plantations"},
+    image: "/poi-images/jordan-valley-date-palms-life-v2.webp",
     description: { de: "Jordanien ist weltweit für seine erstklassigen Medjool-Datteln bekannt. Die Dattelpalmenplantagen prägen die Landschaft des Jordantals und stellen einen boomenden landwirtschaftlichen Sektor dar.", hu: "Jordánia világszerte ismert prémium minőségű Medjool datolyáiról. A datolyapálma-ültetvények meghatározzák a Jordán-völgy arculatát, és fellendülő mezőgazdasági ágazatot képviselnek.", ro: "Iordania este cunoscută la nivel mondial pentru curmalele sale Medjool de primă clasă. Plantațiile de curmali domină peisajul Văii Iordanului, reprezentând un sector agricol în plină expansiune.", en: "Jordan is globally renowned for its premium Medjool dates. Date palm plantations characterize the landscape of the Jordan Valley, representing a booming agricultural sector." },
     facts: {
       de: ["Jordanien ist berühmt für seine Premium-Medjool-Datteln.", "Das Klima im Jordantal ist ideal für den Dattelanbau.", "Die Dattelzucht wurde in den letzten Jahren stark ausgeweitet.", "Die Ernte findet im Spätsommer und Herbst statt."],
       hu: ["Jordánia híres a prémium Medjool datolyájáról.", "A Jordán-völgy éghajlata tökéletes a datolyatermesztéshez.", "A datolyatermesztés az elmúlt években jelentősen bővült.", "A betakarítás késő nyáron és ősszel történik."],
       ro: ["Iordania este renumită pentru curmalele premium Medjool.", "Clima Văii Iordanului este perfectă pentru cultivarea curmalelor.", "Cultivarea curmalelor a cunoscut o expansiune semnificativă.", "Recoltarea are loc la sfârșitul verii și toamna."],
       en: ["Jordan is renowned for its premium Medjool dates.", "The Jordan Valley's climate is perfect for date cultivation.", "Date farming has expanded significantly in recent years.", "Harvesting takes place in late summer and autumn."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Dattelpalmenplantagen im Jordantal erstrecken sich entlang des Jordanufers und profitieren vom fruchtbaren Boden und dem warmen Klima. Die Region ist einer der wichtigsten Dattelproduzenten der Welt, insbesondere der Sorte Medjool. Die Plantagen werden mit Tropfbewässerung bewässert, um Wasser zu sparen. Die Erntezeit liegt zwischen August und Oktober. Datteln werden sowohl frisch als auch getrocknet vermarktet und exportiert. Die Plantagen bieten Führungen und Verkostungen an. Die Dattelproduktion trägt wesentlich zur Wirtschaft des Jordantals bei.",
+      hu: "A Jordán-völgy datolyapálma-ültetvényei a folyó mentén húzódnak, kihasználva a termékeny talajt és a meleg éghajlatot. A régió a világ egyik legfontosabb datolyatermelője, különösen a Medjool fajtából. Csepegtető öntözést alkalmaznak a víz hatékony felhasználása érdekében. A szüret augusztustól októberig tart. A datolyákat frissen és szárítva is értékesítik. Az ültetvények túrákat és kóstolókat kínálnak. A datolyatermelés fontos gazdasági ágazat.",
+      ro: "Plantațiile de palmieri de curmale din Valea Iordanului se întind de-a lungul râului, beneficiind de sol fertil și climă caldă. Regiunea este unul dintre cei mai importanți producători de curmale din lume, în special soiul Medjool. Irigarea prin picurare este utilizată pentru economisirea apei. Recoltarea are loc între august și octombrie. Curmalele sunt comercializate proaspete și uscate. Plantațiile oferă tururi și degustări. Producția de curmale contribuie semnificativ la economia văii.",
+      en: "The date palm plantations in the Jordan Valley stretch along the Jordan River, benefiting from fertile soil and warm climate. The region is a major global producer of dates, especially the Medjool variety. Drip irrigation is used to conserve water. Harvest season runs from August to October. Dates are marketed fresh and dried, for local consumption and export. Plantations offer tours and tastings. Date production is a key economic sector in the valley.",
+    },
+    factsAdvanced: {
+      de: ["Die Anbaufläche beträgt über 10.000 Hektar.", "Jährlich werden rund 150.000 Tonnen Datteln produziert.", "Die Medjool-Dattel macht 70% der Produktion aus.", "Die Plantagen nutzen Tropfbewässerung mit einer Effizienz von 95%.", "Die durchschnittliche Baumhöhe beträgt 15 Meter.", "Die Dattelsaison dauert von August bis Oktober."],
+      hu: ["A termőterület meghaladja a 10.000 hektárt.", "Az éves datolyatermelés kb. 150.000 tonna.", "A Medjool fajta a termelés 70%-át teszi ki.", "A csepegtető öntözés hatékonysága 95%.", "A pálmák átlagos magassága 15 méter.", "A datolyaszezon augusztustól októberig tart."],
+      ro: ["Suprafața cultivată depășește 10.000 de hectare.", "Producția anuală de curmale este de aproximativ 150.000 de tone.", "Soiul Medjool reprezintă 70% din producție.", "Irigarea prin picurare are o eficiență de 95%.", "Înălțimea medie a pomilor este de 15 metri.", "Sezonul curmalelor durează din august până în octombrie."],
+      en: ["Cultivated area exceeds 10,000 hectares.", "Annual date production is about 150,000 tons.", "Medjool dates account for 70% of production.", "Drip irrigation efficiency reaches 95%.", "Average palm height is 15 meters.", "Date season runs from August to October."],
+    },
   },
   {
     id: "al-azraq-desert-agriculture-life-v2",
     type: "agriculture",
     parent: "JO-AZ",
     coords: [36.828, 31.879],
-    name: { de: "Wüstenlandwirtschaft in Azraq", hu: "Sivatagi mezőgazdaság Azrakban", ro: "Agricultura de deșert din Azraq", en: "Azraq Desert Agriculture",
-image: "/poi-images/al-azraq-desert-agriculture-life-v2.webp"
-},
+    name: { de: "Wüstenlandwirtschaft in Azraq", hu: "Sivatagi mezőgazdaság Azrakban", ro: "Agricultura de deșert din Azraq", en: "Azraq Desert Agriculture"},
+    image: "/poi-images/al-azraq-desert-agriculture-life-v2.webp",
     description: { de: "In der östlichen Wüste gelegen, nutzt dieses Gebiet unterirdische Aquifere, um die trockene Landschaft in grüne Anbauflächen für Oliven und Granatäpfel zu verwandeln.", hu: "A keleti sivatagban található terület földalatti víztartó rétegeket használ, hogy a száraz tájat zöld termőföldekké alakítsa, ahol olajbogyót és gránátalmát termesztenek.", ro: "Situată în deșertul estic, această zonă utilizează acvifere subterane pentru a transforma peisajul arid în terenuri agricole verzi pentru măsline și rodii.", en: "Located in the eastern desert, this area utilizes underground aquifers to transform the arid landscape into green farmlands producing olives and pomegranates." },
     facts: {
       de: ["Nutzt unterirdische Grundwasserleiter zur Bewässerung.", "Produziert Pflanzen wie Oliven und Granatäpfel in der Wüste.", "Steht vor Herausforderungen bei der nachhaltigen Wassernutzung.", "Verwandelt trockene Landschaften in landwirtschaftliche Zonen."],
       hu: ["Földalatti víztartó rétegeket használ öntözésre.", "Olyan növényeket termeszt a sivatagban, mint az olajbogyó.", "Kihívásokkal néz szembe a fenntartható vízhasználat terén.", "A száraz tájakat termékeny mezőgazdasági zónákká alakítja."],
       ro: ["Utilizează acvifere subterane pentru irigare.", "Produce culturi precum măsline și rodii în deșert.", "Se confruntă cu provocări privind utilizarea durabilă a apei.", "Transformă peisajele aride în zone agricole productive."],
       en: ["Utilizes underground aquifers for irrigation.", "Produces crops like olives and pomegranates in the desert.", "Faces challenges regarding sustainable water use.", "Transforms arid landscapes into productive agricultural zones."]
-    }, image: "/poi-images/al-azraq-desert-agriculture-life-v2.webp"},
+    }, image: "/poi-images/al-azraq-desert-agriculture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wüstenlandwirtschaft in Al-Azraq ist ein Beispiel für innovative Bewässerungsmethoden in der jordanischen Wüste. Das Gebiet liegt in der Nähe des Azraq-Feuchtgebiets und nutzt unterirdische Wasservorkommen. Es werden vor allem Gemüse wie Tomaten, Gurken und Paprika angebaut, oft in Gewächshäusern. Die Landwirtschaft hier ist wassereffizient und nutzt Tropfbewässerung. Trotz der extremen Trockenheit ermöglichen moderne Techniken ganzjährigen Anbau. Die Produkte versorgen lokale Märkte und tragen zur Ernährungssicherheit bei.",
+      hu: "Az Azraq-sivatagi mezőgazdaság példa az innovatív öntözési módszerekre a jordán sivatagban. A terület az Azraq-vizes élőhely közelében fekszik, és talajvízkészleteket használ. Elsősorban zöldségeket termesztenek, mint paradicsom, uborka és paprika, gyakran üvegházakban. A gazdálkodás víztakarékos, csepegtető öntözéssel. Az extrém szárazság ellenére a modern technikák lehetővé teszik az egész éves termesztést. A termékek a helyi piacokat látják el.",
+      ro: "Agricultura deșertică din Al-Azraq este un exemplu de metode inovatoare de irigație în deșertul iordanian. Zona se află lângă zonele umede Azraq și folosește resurse de apă subterană. Se cultivă în principal legume precum roșii, castraveți și ardei, adesea în sere. Agricultura este eficientă din punct de vedere al apei, utilizând irigarea prin picurare. În ciuda secetei extreme, tehnicile moderne permit cultivarea pe tot parcursul anului. Produsele aprovizionează piețele locale.",
+      en: "Desert agriculture in Al-Azraq exemplifies innovative irrigation methods in the Jordanian desert. The area is near the Azraq wetland and utilizes groundwater resources. It primarily grows vegetables such as tomatoes, cucumbers, and peppers, often in greenhouses. Farming is water-efficient, using drip irrigation. Despite extreme aridity, modern techniques enable year-round cultivation. The produce supplies local markets and contributes to food security.",
+    },
+    factsAdvanced: {
+      de: ["Die landwirtschaftliche Fläche beträgt etwa 2.000 Hektar.", "Der Wasserverbrauch liegt bei 4.000 Kubikmeter pro Hektar und Jahr.", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die Niederschlagsmenge beträgt weniger als 100 mm pro Jahr.", "Es gibt über 200 Gewächshäuser in der Region.", "Die Produktion erreicht 30.000 Tonnen Gemüse pro Jahr."],
+      hu: ["A mezőgazdasági terület kb. 2.000 hektár.", "A vízfogyasztás 4.000 köbméter hektáronként évente.", "Az átlagos éves hőmérséklet 25 °C.", "Az éves csapadék kevesebb mint 100 mm.", "Több mint 200 üvegház található a régióban.", "Az éves zöldségtermelés eléri a 30.000 tonnát."],
+      ro: ["Suprafața agricolă este de aproximativ 2.000 de hectare.", "Consumul de apă este de 4.000 de metri cubi pe hectar pe an.", "Temperatura medie anuală este de 25 °C.", "Precipitațiile anuale sunt sub 100 mm.", "Există peste 200 de sere în regiune.", "Producția anuală de legume atinge 30.000 de tone."],
+      en: ["Agricultural area is about 2,000 hectares.", "Water consumption is 4,000 cubic meters per hectare annually.", "Average annual temperature is 25 °C.", "Annual rainfall is less than 100 mm.", "There are over 200 greenhouses in the region.", "Annual vegetable production reaches 30,000 tons."],
+    },
+  },
   {
     id: "wadi-bin-hammad-nature-life-v2",
     type: "wildlife-area",
     parent: "JO-KA",
     coords: [35.748, 31.246],
-    name: { de: "Naturgebiet Wadi Bin Hammad", hu: "Vádi Bin Hammad természeti terület", ro: "Zona naturală Wadi Bin Hammad", en: "Wadi Bin Hammad Nature Area",
-image: "/poi-images/wadi-bin-hammad-nature-life-v2.webp"
-},
+    name: { de: "Naturgebiet Wadi Bin Hammad", hu: "Vádi Bin Hammad természeti terület", ro: "Zona naturală Wadi Bin Hammad", en: "Wadi Bin Hammad Nature Area"},
+    image: "/poi-images/wadi-bin-hammad-nature-life-v2.webp",
     description: { de: "Diese versteckte Schlucht zeichnet sich durch heiße Quellen und hängende Gärten aus. Die üppige Vegetation und die Wasserfälle schaffen ein einzigartiges Mikroklima in der Wüstenregion.", hu: "Ezt a rejtett szurdokot hőforrások és függőkertek jellemzik. A buja növényzet és a vízesések egyedülálló mikroklímát hoznak létre a sivatagi környezetben.", ro: "Acest defileu ascuns este caracterizat de izvoare termale și grădini suspendate. Vegetația luxuriantă și cascadele creează un microclimat unic în mediul deșertic.", en: "This hidden gorge is characterized by hot springs and hanging gardens. The lush vegetation and waterfalls create a unique microclimate in the desert environment." },
     facts: {
       de: ["Bekannt für seine natürlichen heißen Quellen.", "Verfügt über üppige hängende Gärten und Wasserfälle.", "Bietet ein einzigartiges und feuchtes Mikroklima.", "Ein beliebter, aber abgelegener Ort zum Wandern."],
       hu: ["Természetes hőforrásairól ismert.", "Buja függőkertekkel és vízesésekkel büszkélkedhet.", "Egyedülálló és párás mikroklímát kínál.", "Népszerű, de eldugott túrázóhely."],
       ro: ["Cunoscută pentru izvoarele sale termale naturale.", "Dispune de grădini suspendate luxuriante și cascade.", "Oferă un microclimat unic și umed.", "Un loc popular, dar izolat, pentru drumeții."],
       en: ["Known for its natural hot springs.", "Features lush hanging gardens and waterfalls.", "Offers a unique and humid microclimate.", "A popular yet secluded spot for hiking."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Wadi Bin Hammad ist ein atemberaubendes Naturschutzgebiet in der Region Tafila im Süden Jordaniens. Es ist bekannt für seine tiefen Schluchten, Wasserfälle und natürlichen Pools. Der Fluss Wadi Bin Hammad fließt das ganze Jahr über und ermöglicht Wanderungen durch üppige Vegetation. Das Gebiet ist ein Paradies für Vogelbeobachter und Naturliebhaber. Die Umgebung ist geprägt von Kalksteinfelsen und Höhlen. Besucher können geführte Touren unternehmen, um die versteckten Wasserfälle zu entdecken. Das Schutzgebiet wurde 2005 ausgewiesen.",
+      hu: "A Wadi Bin Hammad lenyűgöző természetvédelmi terület Jordánia déli részén, Tafila közelében. Méretes szurdokairól, vízeséseiről és természetes medencéiről ismert. A Wadi Bin Hammad folyó egész évben folyik, buja növényzetet táplálva. A terület madármegfigyelők és természetkedvelők paradicsoma. Mészkősziklák és barlangok jellemzik. A látogatók vezetett túrákon fedezhetik fel a rejtett vízeséseket. A területet 2005-ben nyilvánították védetté.",
+      ro: "Wadi Bin Hammad este o arie naturală protejată spectaculoasă în regiunea Tafila din sudul Iordaniei. Este cunoscută pentru cheile adânci, cascadele și piscinele naturale. Râul Wadi Bin Hammad curge tot anul, susținând o vegetație luxuriantă. Zona este un paradis pentru observatorii de păsări și iubitorii de natură. Peisajul este dominat de stânci calcaroase și peșteri. Vizitatorii pot face drumeții ghidate pentru a descoperi cascadele ascunse. A fost declarată arie protejată în 2005.",
+      en: "Wadi Bin Hammad is a stunning nature reserve in the Tafila region of southern Jordan. It is known for its deep canyons, waterfalls, and natural pools. The Wadi Bin Hammad river flows year-round, supporting lush vegetation. The area is a paradise for birdwatchers and nature lovers. The landscape features limestone cliffs and caves. Visitors can take guided hikes to discover hidden waterfalls. It was designated a protected area in 2005.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet umfasst 15 Quadratkilometer.", "Die höchste Wasserfallhöhe beträgt 20 Meter.", "Die Wanderwege erstrecken sich über 8 Kilometer.", "Es gibt über 100 Vogelarten im Gebiet.", "Die Durchschnittstemperatur liegt bei 22 °C.", "Der Fluss fließt mit einer Geschwindigkeit von 0,5 m/s."],
+      hu: ["A védett terület 15 négyzetkilométer.", "A legmagasabb vízesés 20 méteres.", "A túraútvonalak hossza 8 kilométer.", "Több mint 100 madárfaj él itt.", "Az átlaghőmérséklet 22 °C.", "A folyó sebessége 0,5 m/s."],
+      ro: ["Aria protejată acoperă 15 kilometri pătrați.", "Înălțimea maximă a cascadei este de 20 de metri.", "Traseele de drumeție se întind pe 8 kilometri.", "Există peste 100 de specii de păsări în zonă.", "Temperatura medie este de 22 °C.", "Râul curge cu o viteză de 0,5 m/s."],
+      en: ["The protected area covers 15 square kilometers.", "The highest waterfall drops 20 meters.", "Hiking trails extend over 8 kilometers.", "Over 100 bird species inhabit the area.", "Average temperature is 22 °C.", "The river flows at a speed of 0.5 m/s."],
+    },
   }
 ];

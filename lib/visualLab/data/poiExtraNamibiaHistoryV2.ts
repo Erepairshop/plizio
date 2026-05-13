@@ -11,9 +11,8 @@ export const poiExtraNamibiaHistoryV2: POI[] = [
       de: "Kolmanskuppe",
       hu: "Kolmanskop Szellemváros",
       ro: "Orașul Fantomă Kolmanskop",
-      en: "Kolmanskop Ghost Town",
-image: "/poi-images/kolmanskuppe-history-v2.webp"
-},
+      en: "Kolmanskop Ghost Town"},
+    image: "/poi-images/kolmanskuppe-history-v2.webp",
     descriptionAdvanced: {
       de: "Kolmanskuppe ist wohl die berühmteste Geisterstadt Afrikas und liegt mitten im Sand der Namib-Wüste, nur wenige Kilometer von Lüderitz entfernt. Die Geschichte des Ortes begann 1908, als der Bahnarbeiter Zacharias Lewala beim Sandschaufeln glitzernde Diamanten fand und sie seinem Vorgesetzten August Stauch zeigte. Dies löste einen beispiellosen Diamantenrausch aus, und innerhalb weniger Jahre entstand aus dem Nichts eine extrem reiche deutsche Siedlung. Die Bewohner leisteten sich in der Wüste absoluten Luxus: ein Krankenhaus mit dem ersten Röntgengerät im südlichen Afrika, eine Eisfabrik, ein Kasino und eine Kegelbahn. Nach dem Ersten Weltkrieg verlor die Siedlung an Bedeutung und wurde 1956 endgültig dem Wüstensand überlassen, der sich heute pittoresk durch Türen und Fenster in die prunkvollen Villen drängt. Geschichte K7 — Der Diamantenrausch und verlassene Städte.",
       hu: "A Kolmanskuppe (Kolmanskop) a világ egyik leghíresebb és legfotogénebb szellemvárosa a Namíb-sivatag mélyén, Lüderitztől alig tíz kilométerre. A települést 1908-ban alapították, amikor a közeli vasútépítés során gyémántokat találtak a felszíni homokban. A hirtelen jött gazdagság hihetetlen luxust eredményezett: a kíméletlen sivatag közepén a város elegáns bajor stílusú villákkal, bálteremmel, tekepályával, sőt a déli félteke első röntgengépével felszerelt kórházzal büszkélkedhetett. Ahogy az első világháború után a leggazdagabb gyémántmezők kimerültek, a lakosok fokozatosan elhagyták, és 1956-ra teljesen elnéptelenedett. Ma a dűnék vándorló homokja nyeli el a szobákat, drámai és kísérteties látványt nyújtva a turistáknak. Történelem K8 — gyémántláz és elhagyott városok",
@@ -50,9 +49,8 @@ image: "/poi-images/kolmanskuppe-history-v2.webp"
       de: "Twyfelfontein",
       hu: "Twyfelfontein",
       ro: "Twyfelfontein",
-      en: "Twyfelfontein",
-image: "/poi-images/twyfelfontein-history-v2.webp"
-},
+      en: "Twyfelfontein"},
+    image: "/poi-images/twyfelfontein-history-v2.webp",
     descriptionAdvanced: {
       de: "Twyfelfontein, tief im trockenen und felsigen Damaraland gelegen, ist eine der spektakulärsten archäologischen Stätten des afrikanischen Kontinents. Das Tal, das von den lokalen Damara ursprünglich '/Ui-//aes' (hüpfendes Wasserloch) genannt wurde, beherbergt mit über 2.500 identifizierten Felsgravuren (Petroglyphen) eine der größten Konzentrationen steinzeitlicher Kunst in Afrika. Diese prähistorischen Kunstwerke, die von Jäger-Sammler-Gemeinschaften in den rostroten Sandstein geritzt wurden, sind zum Teil über 2.000 Jahre alt. Sie zeigen detaillierte Darstellungen von Nashörnern, Elefanten, Giraffen und menschlichen Fußspuren und dienten wahrscheinlich schamanistischen Ritualen und der Kartierung von Wasserquellen in dieser unerbittlichen Wüstenlandschaft. Geschichte K6 — Prähistorische Kunst und Schamanismus.",
       hu: "Twyfelfontein (khoekhoe nevén: /Ui-//aes, azaz 'Ugráló Vízlyuk') egy hatalmas kiterjedésű, vöröses homokkő-völgy Damaraland területén, amely Namíbia egyik legfontosabb kulturális kincse. Ezen a kietlen vidéken több mint 2 500, a sziklába vésett (petroglifa) ősi ábrázolás található, amelyeket a vadászó-gyűjtögető san (busman) közösségek sámánjai készítettek az elmúlt 2 000 – 6 000 év során. A sziklarajzok orrszarvúkat, elefántokat, zsiráfokat, struccokat és emberi alakokat ábrázolnak; feltehetően rituális transzállapotban, az esőcsináló ceremóniák során készültek. A páratlanul gazdag gyűjtemény miatt a terület 2007-ben az ország első UNESCO Világörökségi helyszíne lett. Történelem K7 — afrikai őstörténet és sziklaművészet",
@@ -89,9 +87,8 @@ image: "/poi-images/twyfelfontein-history-v2.webp"
       de: "Christuskirche",
       hu: "Krisztus-templom (Windhoek)",
       ro: "Biserica lui Hristos (Windhoek)",
-      en: "Christ Church (Windhoek)",
-image: "/poi-images/christuskirche-history-v2.webp"
-},
+      en: "Christ Church (Windhoek)"},
+    image: "/poi-images/christuskirche-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Christuskirche ist das unbestrittene Wahrzeichen von Windhoek und dominiert mit ihrer markanten Architektur auf einem Hügel im Zentrum der Hauptstadt. Entworfen von dem Regierungsbaumeister Gottlieb Redecker, wurde die lutherische Kirche im Jahr 1910 nach dem Ende des Herero- und Nama-Aufstands als Friedenskirche ('Friedenskirche') eingeweiht. Architektonisch ist sie eine ungewöhnliche, aber harmonische Mischung aus neoromanischen und Jugendstilelementen, erbaut aus lokalem gelben Sandstein. Bemerkenswert sind die bunten Bleiglasfenster im Altarraum, die vom deutschen Kaiser Wilhelm II. gestiftet wurden, sowie die aus Deutschland importierten Glocken. Sie ist ein monumentales Zeugnis der deutschen Kolonialarchitektur. Architektur K8 — Kolonialbauten und Friedensdenkmäler.",
       hu: "A windhoeki Krisztus-templom (Christuskirche) az ország legikonikusabb és legtöbbet fényképezett történelmi épülete, amely a főváros szívében, egy dombtetőn áll. A lutheránus templomot 1910-ben, a herero és nama háborúk lezárulta után szentelték fel a \"béke templomaként\". Az épület stílusa különleges keveréke a neoromán és az Art Nouveau (Jugendstil) építészetnek. A falakhoz a helyi Avis-hegységből származó kvarchomokkövet használtak, az építőanyagok és díszítőelemek nagy része – köztük a harangok, az orgona és az eredeti ólomüveg ablakok, amelyeket II. Vilmos császár adományozott – azonban egyenesen Németországból érkezett hajón. Történelem K8 — gyarmati építészet és szimbolizmus",
@@ -128,9 +125,8 @@ image: "/poi-images/christuskirche-history-v2.webp"
       de: "Alte Feste",
       hu: "Alte Feste Erőd",
       ro: "Fortăreața Alte Feste",
-      en: "Alte Feste Fortress",
-image: "/poi-images/alte-feste-history-v2.webp"
-},
+      en: "Alte Feste Fortress"},
+    image: "/poi-images/alte-feste-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Alte Feste in Windhoek ist das älteste erhaltene Gebäude der Hauptstadt und das historische Epizentrum der deutschen Kolonialisierung in Zentralnamibia. Sie wurde 1890 auf Befehl von Hauptmann Curt von François von der Schutztruppe als Militärfestung erbaut, um den Frieden zwischen den zerstrittenen Herero- und Nama-Völkern in der Region zu erzwingen und die neu gegründete Siedlung Windhoek abzusichern. Der Bau markiert faktisch die offizielle Gründung des heutigen Windhoek. Nach ihrer militärischen Nutzung diente sie unter anderem als Schule und Hostel. Das Gebäude mit seinen dicken weißen Mauern fungiert als historisches Museum, wenngleich derzeit größere Renovierungsarbeiten stattfinden. Geschichte K8 — Festungsbau und Kolonialverwaltung.",
       hu: "Az Alte Feste (Öreg Erőd) Windhoek legrégebbi máig álló épülete, amely a város modernkori történelmének kezdetét jelzi. Curt von François őrnagy, a német gyarmati erők (Schutztruppe) parancsnoka építtette 1890-ben, mint a német hatalom központját és egy biztonságos bázist, amely éket vert a viszálykodó nama és herero törzsek közé. Katonai bástyája vastag falakkal és tágas belső udvarral rendelkezik. A 20. század során az épület funkciója többször változott: volt katonai bázis, dél-afrikai iskolai kollégium, végül az 1960-as évektől múzeummá (National Museum of Namibia) alakították át. Udvarán sokáig állt az ikonikus Lovas Emlékmű (Reiterdenkmal), amit a 2010-es években áthelyeztek. Történelem K8 — gyarmati erődítmények Afrikában",
@@ -167,9 +163,8 @@ image: "/poi-images/alte-feste-history-v2.webp"
       de: "Heldenacker",
       hu: "Hősök Tere",
       ro: "Acrele Eroilor",
-      en: "Heroes' Acre",
-image: "/poi-images/heldenacker-history-v2.webp"
-},
+      en: "Heroes' Acre"},
+    image: "/poi-images/heldenacker-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Heldenacker (Heroes' Acre) ist ein gewaltiges nationales Kriegsdenkmal, das imposant an den Hängen der Auas-Berge, etwa zehn Kilometer südlich des Stadtzentrums von Windhoek, thront. Das Monument wurde 2002 vom ersten namibischen Präsidenten, Sam Nujoma, eingeweiht und dient als offizielle Gedenk- und Begräbnisstätte für die namibischen Freiheitskämpfer und Helden des langen Unabhängigkeitskampfes gegen die südafrikanische Besatzung. Die architektonische Gestaltung ist stark an die Ästhetik nordkoreanischer Monumente angelehnt und wurde von der nordkoreanischen Baufirma Mansudae Overseas Projects durchgeführt. Eine markante Bronzestatue eines namibischen Freiheitskämpfers mit einer Kalaschnikow überragt das weitläufige Gelände. Gesellschaft K7 — Unabhängigkeitsdenkmäler und Nationalstolz.",
       hu: "A Hősök Tere (Heroes' Acre) egy grandiózus, észak-koreai építőipari cégek által tervezett és épített nemzeti emlékmű Windhoek déli határában, az Auas-hegység oldalában. A 2002-ben Sam Nujoma elnök által felavatott gigantikus komplexum célja, hogy örök emléket állítson a namíbiai függetlenségi háború mártírjainak és az ország hőseinek. A szimmetrikus, obeliszkkel, öröklánggal és egy hatalmas ismeretlen katonát ábrázoló bronzszoborral díszített építményhez hosszú lépcsősor vezet fel. Bár építészeti stílusa (szocialista realizmus) vitákat váltott ki, az emlékmű a független Namíbia nemzeti büszkeségének egyik legfőbb zarándokhelye. Történelem K8 — nemzeti emlékezet és emlékművek",
@@ -206,9 +201,8 @@ image: "/poi-images/heldenacker-history-v2.webp"
       de: "Haifischinsel",
       hu: "Cápa-sziget",
       ro: "Insula Rechinului",
-      en: "Shark Island",
-image: "/poi-images/haifischinsel-history-v2.webp"
-},
+      en: "Shark Island"},
+    image: "/poi-images/haifischinsel-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Haifischinsel ist eine karge Felsenhalbinsel in der Lüderitzbucht und der Ort eines der dunkelsten und tragischsten Kapitel der namibischen Geschichte. Zwischen 1905 und 1907 richtete die deutsche Kolonialmacht auf der ungeschützten Insel ein Konzentrationslager für Nama- und Herero-Kriegsgefangene ein. Die Gefangenen waren extremen Wetterbedingungen ausgesetzt: eiskalte Winde, Feuchtigkeit und schlechte sanitäre Verhältnisse führten zu massenhaftem Sterben durch Skorbut, Typhus und Lungenentzündung. Historikern zufolge kamen auf der kleinen Insel bis zu 3.000 Menschen ums Leben. Heute wird die Halbinsel profan als Campingplatz genutzt, doch mehrere Gedenksteine mahnen und erinnern an das furchtbare Leid der indigenen Völker an diesem Ort. Geschichte K8 — Konzentrationslager und Völkermord.",
       hu: "A Cápa-sziget (Shark Island, a helyiek nyelvén Haifischinsel) Lüderitz öblében található; régen valódi sziget volt, ma már egy mesterséges gáton keresztül összeköttetésben áll a szárazfölddel. Festői, tengerparti szépsége mögött Namíbia történelmének egyik legsötétebb fejezete húzódik: az 1904–1908 közötti herero és nama felkelés idején a német gyarmatosítók itt működtették az egyik leghírhedtebb koncentrációs tábort (Cápa-szigeti haláltábor). A kíméletlen szél, az éhezés és a betegségek miatt a hadifoglyok többsége (több ezer ember) életét vesztette a szigeten. Ma népszerű kempingezőhely, ahol csupán néhány szerény emléktábla emlékeztet a sötét múltra. Történelem K8 — a namíbiai népirtás helyszínei",
@@ -245,9 +239,8 @@ image: "/poi-images/haifischinsel-history-v2.webp"
       de: "Felsenkirche",
       hu: "Sziklatemplom (Lüderitz)",
       ro: "Biserica de Stâncă (Lüderitz)",
-      en: "Felsenkirche",
-image: "/poi-images/felsenkirche-history-v2.webp"
-},
+      en: "Felsenkirche"},
+    image: "/poi-images/felsenkirche-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Felsenkirche ist eine malerische evangelisch-lutherische Kirche in der windigen Küstenstadt Lüderitz. Ihren Namen ('Kirche auf dem Felsen') verdankt sie der Tatsache, dass sie massiv in das harte Gestein des Diamantenberges, hoch über der Stadt und dem Ozean, hineingebaut wurde. Finanziert wurde das prachtvolle Bauwerk maßgeblich von den reichen Diamantenbaronen, die im Zuge des Kolmanskuppe-Diamantenrausches enormen Wohlstand erlangt hatten. Im Jahr 1912 eingeweiht, ist sie ein Musterbeispiel für den vertikal ausgerichteten englischen Gotik-Stil, der mit typischen deutschen Elementen kombiniert wurde. Ein besonderes Highlight ist das Altarfenster, das eine Spende von Kaiser Wilhelm II. war. Architektur K7 — Gotische Sakralbauten am Meer.",
       hu: "A Sziklatemplom (Felsenkirche) Lüderitz egyik legikonikusabb épülete, amely a Gyémánt-hegy (Diamantberg) gránitsziklájára épült 1912-ben. Az épület angol gótikus (Perpendicular) stílusjegyekkel büszkélkedhet, amely eltér az akkori német gyarmati trendektől. A templomot javarészt a közeli kolmanskopi gyémántmezők bevételeiből finanszírozták az evangélikus lutheránus német telepesek. Meredek elhelyezkedése miatt lenyűgöző panorámát nyújt a városra és az Atlanti-óceánra. A templom különlegessége a gyönyörű ólomüveg ablak (amelyet szintén a német császár, II. Vilmos adományozott) és a kiváló akusztika. Történelem K7 — vallási építészet a gyarmatokon",
@@ -284,9 +277,8 @@ image: "/poi-images/felsenkirche-history-v2.webp"
       de: "Schloss Duwisib",
       hu: "Duwisib Kastély",
       ro: "Castelul Duwisib",
-      en: "Duwisib Castle",
-image: "/poi-images/schloss-duwisib-history-v2.webp"
-},
+      en: "Duwisib Castle"},
+    image: "/poi-images/schloss-duwisib-history-v2.webp",
     descriptionAdvanced: {
       de: "Schloss Duwisib ist ein bizarres und faszinierendes Relikt der Kolonialgeschichte, das völlig unerwartet wie eine Fata Morgana aus der extrem kargen Halbwüstenlandschaft südwestlich von Maltahöhe aufragt. Die festungsartige Burg wurde 1909 von dem sächsischen Artillerie-Offizier Freiherr Hansheinrich von Wolf und seiner wohlhabenden amerikanischen Ehefrau Jayta Humphreys in Auftrag gegeben. Inspiriert von mittelalterlichen Burgen in Europa, importierten sie sämtliche Baumaterialien, von Schmiedeeisen bis hin zu kunstvollen Möbeln, über den Hafen Lüderitz und ließen diese per Ochsenkarren wochenlang in die Wüste transportieren. Das Märchenschloss sollte das Zentrum eines riesigen Gestüts werden, bevor der Erste Weltkrieg die Träume des Barons abrupt beendete, da er an der Westfront in Frankreich fiel. Architektur K8 — Adelsschlösser in Afrika.",
       hu: "A Duwisib Kastély egy szürreális látványt nyújtó, vörös kőből épült erődítmény a Namíb-sivatag peremén, Maltahöhe városától nem messze. Ezt a német lovagvárakat idéző épületet 1909-ben építtette Hansheinrich von Wolf báró – a német Schutztruppe egykori tisztje – és amerikai felesége, Jayta Humphreys. A kastély berendezéséhez szükséges építőanyagokat, bútorokat és műtárgyakat hajón hozatták Németországból Lüderitzbe, ahonnan ökrösszekerekkel vontatták a sivatagon keresztül a helyszínre. A báró tragikus módon 1916-ban az I. világháború európai hadszínterén életét vesztette, és felesége soha nem tért vissza a kastélyba, amely ma állami múzeumként látogatható. Történelem K8 — európai arisztokrácia Afrikában",
@@ -323,9 +315,8 @@ image: "/poi-images/schloss-duwisib-history-v2.webp"
       de: "Weiße Dame vom Brandberg",
       hu: "A Fehér Hölgy (Sziklarajz)",
       ro: "Doamna Albă (Pictură Rupestră)",
-      en: "White Lady of Brandberg",
-image: "/poi-images/weisse-dame-history-v2.webp"
-},
+      en: "White Lady of Brandberg"},
+    image: "/poi-images/weisse-dame-history-v2.webp",
     descriptionAdvanced: {
       de: "Die 'Weiße Dame' (White Lady) ist die berühmteste, wenn auch umstrittenste prähistorische Felsmalerei in Namibia. Sie befindet sich in einer überhängenden Felsgrotte in der Maack-Höhle, eingebettet im Tsisab-Schluchtmassiv des gigantischen Brandberges. Entdeckt wurde das faszinierende Gemälde 1918 vom deutschen Landmesser Reinhard Maack. Den Namen 'Weiße Dame' prägte der französische Prähistoriker Henri Breuil, der fälschlicherweise glaubte, in der weißen Gestalt eine Person mediterranen Ursprungs zu erkennen. Die moderne Archäologie ist sich heute jedoch sicher, dass das 2.000 Jahre alte Gemälde einen Medizinmann (Schamanen) des San-Volkes darstellt, dessen Körper im Rahmen eines Heilungsrituals mit weißem Lehm bemalt war. Kunstgeschichte K7 — Schamanische Rituale und prähistorische Irrtümer.",
       hu: "A Fehér Hölgy (White Lady) Namíbia legismertebb és legtöbbet vitatott ősi sziklafestménye a Brandberg-hegy (Tűzhegy) mélyén, a Maack-barlangban található. A festményt 1918-ban fedezte fel Reinhard Maack német felfedező. Az alak nevét Henri Breuil abbé, egy híres francia régész adta évtizedekkel később, aki úgy vélte, hogy a központi figura európai vagy mediterrán vonásokkal (görög vagy krétai) rendelkezik, ami vad elméleteket szült a korai kapcsolatokról. A modern régészek és antropológusok azonban egyetértenek abban, hogy a kép körülbelül 2000 éves, és valójában nem egy hölgyet, hanem egy san (busman) férfit (sámánt) ábrázol, akit testfestés vagy fehér hamu borít, egy rituális gyógyító tánc (trance dance) közben. Történelem K8 — régészeti tévhitek és sziklaművészet",
@@ -362,9 +353,8 @@ image: "/poi-images/weisse-dame-history-v2.webp"
       de: "Hoba-Meteorit",
       hu: "Hoba-meteorit",
       ro: "Meteoritul Hoba",
-      en: "Hoba Meteorite",
-image: "/poi-images/hoba-meteorit-history-v2.webp"
-},
+      en: "Hoba Meteorite"},
+    image: "/poi-images/hoba-meteorit-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Hoba-Meteorit liegt unauffällig auf einer Farm westlich von Grootfontein und ist ein natürliches Phänomen von globaler Bedeutung. Er ist nicht nur der größte bekannte Meteorit, der jemals auf der Erde gefunden wurde, sondern gleichzeitig das massivste natürliche Stück Eisen auf der Oberfläche unseres Planeten. Der Hoba-Meteorit ist ein Ataxit, der aus über 80% Eisen und bemerkenswerten 16% Nickel besteht. Vor etwa 80.000 Jahren auf die Erde gestürzt, hinterließ er merkwürdigerweise keinen Krater, was Wissenschaftler bis heute vor Rätsel stellt; eine Theorie besagt, dass er aufgrund seiner flachen Form ähnlich wie ein flacher Stein auf einer Wasseroberfläche durch die Erdatmosphäre gebremst wurde. Entdeckt wurde er 1920 zufällig von einem Farmer, der beim Pflügen auf das harte Metall stieß. Physik K7 — Extraterrestrisches Gestein und Atmosphärenbremsung.",
       hu: "A Grootfontein mellett található Hoba-meteorit a maga nagyjából 60 tonnás becsült tömegével a Földön valaha felfedezett legnagyobb egyben maradt meteorit, egyúttal a legnagyobb ismert természetes vastömb bolygónkon. A csillagászati ritkaság körülbelül 80 000 évvel ezelőtt csapódott a térségbe, de szokatlanul lapos alakja miatt (olyan, mint egy pattogó kavics a vizen) feltehetően alacsony szögben ért földet, így nem hagyott maga után hatalmas krátert. A meteoritot 1920-ban egy farmer fedezte fel véletlenül szántás közben, amikor az ekéje megakadt a fémes kőzetben. Összetétele mintegy 82% vas, 16% nikkel, nyomokban kobaltot is tartalmaz. Csillagászat K8 — űrbéli eredetű objektumok a Földön",
@@ -401,9 +391,8 @@ image: "/poi-images/hoba-meteorit-history-v2.webp"
       de: "Franketurm",
       hu: "Franke-torony",
       ro: "Turnul Franke",
-      en: "Franke Tower",
-image: "/poi-images/franketurm-history-v2.webp"
-},
+      en: "Franke Tower"},
+    image: "/poi-images/franketurm-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Franketurm ist ein historisches Verteidigungs- und Gedenkbauwerk in der malerischen Stadt Omaruru. Der wuchtige Wehrturm wurde 1908 von der deutschen Gemeinschaft errichtet und erinnert an Hauptmann Victor Franke. Franke führte Anfang 1904, während des grausamen Herero-Aufstands, eine Truppe an, die in Gewaltmärschen von Süden kam, um die belagerte deutsche Garnison in Omaruru nach heftigen Kämpfen zu entsetzen. Der Turm, entworfen in Form eines zinnenbewehrten runden Festungsturms, wurde aus lokalem Stein erbaut und diente viele Jahre lang als starkes Symbol der deutschen kolonialen Militärüberlegenheit in Südwestafrika. Heute kann man ihn besteigen und einen weiten Blick über die Stadt und den Omaruru-Fluss genießen. Geschichte K8 — Denkmäler des Hererokrieges.",
       hu: "A Franke-torony (Franketurm) Omaruru városának legismertebb történelmi nevezetessége, amelyet 1908-ban emeltek a helyi német közösség finanszírozásában. A torony Victor Franke százados (későbbi parancsnok) dicsőségére épült, aki 1904 februárjában maroknyi csapata (a 2. Feldkompanie) élén felmentette az Omaruruban rekedt és herero harcosok által hetekig ostromlott német helyőrséget. Az erődítmény-jellegű, masszív kőtorony egykor fontos stratégiai megfigyelőpont volt az Omaruru folyó felett. Ma emlékműként és kilátóként funkcionál; a csúcsára vezető meredek falépcsők megmászása után kiváló kilátás nyílik az Erongo-hegység felé. Történelem K8 — a herero-német háborúk",
@@ -440,9 +429,8 @@ image: "/poi-images/franketurm-history-v2.webp"
       de: "Fort Namutoni",
       hu: "Namutoni Erőd",
       ro: "Fortul Namutoni",
-      en: "Fort Namutoni",
-image: "/poi-images/fort-namutoni-history-v2.webp"
-},
+      en: "Fort Namutoni"},
+    image: "/poi-images/fort-namutoni-history-v2.webp",
     descriptionAdvanced: {
       de: "Fort Namutoni im Osten des heutigen Etosha-Nationalparks ist ein strahlend weißes Kolonialfort, das aufgrund seiner Bauweise oft wie eine Filmkulisse aus der nordafrikanischen Fremdenlegion wirkt. Ursprünglich 1896 als einfache Grenzstation zur Bekämpfung der Rinderpest errichtet, wurde die Lehmbefestigung beim legendären Angriff durch hunderte Owambo-Krieger unter der Führung von Chief Nehale lya Mpingana im Jahr 1904 vollständig zerstört. Das Fort wurde daraufhin 1906 als weitaus massivere, viereckige Festung mit quadratischen Wehrtürmen in seiner heutigen Form wieder aufgebaut. Nach dem Ende der deutschen Kolonialzeit diente es als Polizeistation und wurde schließlich in eines der beliebtesten Touristencamps des Etosha-Nationalparks umgewandelt. Geschichte K7 — Koloniale Grenzfestungen.",
       hu: "A Namutoni Erőd a hatalmas Etosha Nemzeti Park keleti oldalának legfőbb turisztikai központja, amely eredetileg egy korai német gyarmati katonai helyőrség volt. A hófehér, bástyás, 'Beau Geste' stílusú építményt a 19. század végén emelték, elsősorban a rinderpest (marhavész) terjedésének megakadályozására és az északi owambo királyságok fegyverkereskedelmének ellenőrzésére. Leghíresebb ütközete 1904-ben zajlott, amikor 500 owambo harcos (Nehale király vezetésével) megtámadta a mindössze 7 fős német helyőrséget, akik az éjszaka leple alatt kénytelenek voltak elmenekülni. Az újjáépített erőd ma a nemzeti park egyik elegáns szafari tábora, kilátótornyaival és hangulatos belső udvarával. Történelem K7 — katonai erődökből turisztikai központok",
@@ -479,9 +467,8 @@ image: "/poi-images/fort-namutoni-history-v2.webp"
       de: "Leuchtturm Swakopmund",
       hu: "Swakopmundi Világítótorony",
       ro: "Farul din Swakopmund",
-      en: "Swakopmund Lighthouse",
-image: "/poi-images/leuchtturm-swakopmund-history-v2.webp"
-},
+      en: "Swakopmund Lighthouse"},
+    image: "/poi-images/leuchtturm-swakopmund-history-v2.webp",
     descriptionAdvanced: {
       de: "Der historische Leuchtturm in Swakopmund ist eines der bekanntesten Seezeichen an der Skelettküste und ein Symbol für die maritime Geschichte der Stadt. Er wurde 1902 in Betrieb genommen, um Schiffe sicher durch die oft extrem dichten Nebelbänke des kalten Benguelastroms in den künstlichen Hafen der deutschen Kolonie zu leiten. Ursprünglich war der Turm nur 11 Meter hoch, wurde aber bereits 1910 um weitere 10 Meter auf seine heutige Höhe von 21 Metern aufgestockt, da er durch wachsende Gebäude im Stadtzentrum verdeckt wurde. Heute überragt der rot-weiß gestreifte Leuchtturm stolz die Mole und beherbergt im angrenzenden alten Leuchtturmwärterhaus ein gemütliches Restaurant. Architektur K7 — Maritime Navigation und Küstenbauwerke.",
       hu: "A Swakopmundi Világítótorony Namíbia atlanti partvidékének egyik legikonikusabb tengerészeti műemléke. Az eredetileg 11 méter magas tornyot 1902-ben adta át a német gyarmati adminisztráció, majd a megnövekedett kikötői forgalom és a tengeri köd miatt 1910-ben további 10 méterrel megmagasították. A jellegzetes, piros-fehér sávosra festett építmény nemcsak a tengerészek számára volt létfontosságú iránymutató az alattomos Skeleton Coast közelsége miatt, hanem ma a város fő turisztikai szimbóluma is. Tövében történelmi épületek, valamint egy hangulatos kézműves piac és éttermek kaptak helyet. Történelem K7 — tengerészeti navigáció és gyarmati kikötők",
@@ -518,9 +505,8 @@ image: "/poi-images/leuchtturm-swakopmund-history-v2.webp"
       de: "Hohenzollernhaus",
       hu: "Hohenzollern-ház",
       ro: "Clădirea Hohenzollern",
-      en: "Hohenzollern Building",
-image: "/poi-images/hohenzollernhaus-history-v2.webp"
-},
+      en: "Hohenzollern Building"},
+    image: "/poi-images/hohenzollernhaus-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Hohenzollernhaus in Swakopmund ist ein prachtvolles Relikt der wilhelminischen Zeit und eines der markantesten Gebäude der Stadt. Es wurde 1906 ursprünglich als Luxushotel mit 38 Zimmern erbaut, um dem wachsenden Bedarf an Unterkünften während des Baubooms in Deutsch-Südwestafrika gerecht zu werden. Die Architektur ist verspielt und reich verziert, gekrönt von einer Atlas-Skulptur, die auf dem Dachfirst die Weltkugel trägt. Nach einer Zwangsversteigerung in den 1920er Jahren wurde das opulente Gebäude als Verwaltungssitz und später in ein Apartmenthaus umgewandelt. Das Haus ist ein steingewordenes Zeugnis des unglaublichen architektonischen Aufwands, der in dieser Wüstenstadt betrieben wurde. Architektur K8 — Wilhelminischer Prunk in Afrika.",
       hu: "A Hohenzollern-ház Swakopmund egyik leglenyűgözőbb és leginkább díszített történelmi épülete. 1906-ban emelték elegáns hotelként és kaszinóként, stílusában a dél-németországi és osztrák neobarokk elemek keverednek. Az épület tetejét a görög mitológiából ismert Atlasz szobra díszíti, amint a földgolyót tartja a vállán. Noha rövid ideig működött luxusszállóként, az első világháború és az azt követő gazdasági változások miatt funkciója megváltozott; később városi adminisztrációs épületként, napjainkban pedig exkluzív magánlakásokként funkcionál. Építészeti jelentősége miatt a namíbiai nemzeti örökség kiemelt védelmét élvezi. Történelem K8 — gyarmati luxusépítészet",
@@ -557,9 +543,8 @@ image: "/poi-images/hohenzollernhaus-history-v2.webp"
       de: "Woermannhaus",
       hu: "Woermann-ház",
       ro: "Casa Woermann",
-      en: "Woermannhaus",
-image: "/poi-images/woermannhaus-history-v2.webp"
-},
+      en: "Woermannhaus"},
+    image: "/poi-images/woermannhaus-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Woermannhaus ist das vielleicht eindrucksvollste koloniale Bauwerk in Swakopmund. Es wurde 1905 von dem renommierten Architekten Friedrich Höft für die mächtige Woermann-Linie, eine deutsche Schifffahrts- und Handelsgesellschaft, als deren Hauptsitz in Südwestafrika erbaut. Der imposante Komplex besteht aus einem großzügigen Innenhof, reichverzierten Holzveranden und dem markanten, 25 Meter hohen Damara-Turm. Dieser Wachturm diente nicht primär der Zierde, sondern wurde von den Angestellten genutzt, um ankommende Handelsschiffe der Woermann-Linie auf dem Ozean zu sichten, bevor sie den Hafen erreichten. Heute beherbergt das hervorragend restaurierte Gebäude eine städtische Bibliothek und eine Kunstgalerie. Architektur K8 — Handelshäuser und Kolonialarchitektur.",
       hu: "A Woermann-ház a Damara-toronnyal Swakopmund egyik leghíresebb és legnagyobb hatású történelmi kereskedelmi épülete. 1905-ben a Woermann-Linie – a kor legbefolyásosabb német hajózási és kereskedelmi vállalata – építtette főhadiszállásaként. Az épület favázas (Fachwerk) stílusa és dús fafaragásai egy hamisítatlan észak-német kereskedőházat idéznek a sivatag peremén. A hozzá tartozó magas Damara-torony (Damaraturm) kettős célt szolgált: innen figyelték a nyílt óceánon közeledő teherszállító hajókat, és a szárazföld felé közeledő ökrösszekér-karavánokat a sivatagban. Ma galériának és könyvtárnak ad otthont. Történelem K8 — tengeri kereskedelmi monopóliumok",
@@ -596,9 +581,8 @@ image: "/poi-images/woermannhaus-history-v2.webp"
       de: "Eduard Bohlen Schiffswrack",
       hu: "Eduard Bohlen Hajóroncs",
       ro: "Epava Eduard Bohlen",
-      en: "Eduard Bohlen Shipwreck",
-image: "/poi-images/eduard-bohlen-history-v2.webp"
-},
+      en: "Eduard Bohlen Shipwreck"},
+    image: "/poi-images/eduard-bohlen-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Wrack der Eduard Bohlen ist eines der surrealsten und berühmtesten Bilder der namibischen Skelettküste. Dieses über 90 Meter lange deutsche Fracht- und Passagierschiff der Woermann-Linie strandete am 5. September 1909 im dichten Nebel auf der Reise von Swakopmund zur Tafelbucht. Das Unglaubliche an der Eduard Bohlen ist, dass sie heute scheinbar fast 500 Meter tief im Landesinneren, mitten in der Namib-Wüste, im Sand liegt. Dieser Effekt entstand dadurch, dass die Küstenlinie durch massive Sandablagerungen des Benguelastroms im Laufe des letzten Jahrhunderts stetig in den Ozean hineinwuchs und das Meer sich förmlich vom Wrack zurückzog. Geografie K7 — Küstendynamik und maritime Tragödien.",
       hu: "Az Eduard Bohlen hajóroncs a Skeleton Coast (Csontvázpart) egyik leghíresebb és legszürreálisabb látványossága, amely Concepción-öböl közelében fekszik. A 95 méter hosszú, több mint 2 200 tonnás német gőzhajó 1909 szeptemberében futott zátonyra a sűrű parti ködben. Ami a roncsot egyedülállóvá teszi a világon, hogy a partvonal folyamatos változása (a sivatag terjeszkedése az óceán rovására) miatt a hajó mára csaknem fél kilométerre a tengerparttól, mélyen a homokdűnék között rekedt. Ez a hatalmas, rozsdásodó vastömeg a végtelen homoktengerben drámai vizuális emlékeztető a természet megállíthatatlan erejére. Földrajz K8 — partvonal-változások és sivatagosodás",
@@ -635,9 +619,8 @@ image: "/poi-images/eduard-bohlen-history-v2.webp"
       de: "Bogenfels Diamantensiedlung",
       hu: "Bogenfels Gyémánttelep",
       ro: "Așezarea de Diamante Bogenfels",
-      en: "Bogenfels Diamond Settlement",
-image: "/poi-images/bogenfels-diamantensiedlung-history-v2.webp"
-},
+      en: "Bogenfels Diamond Settlement"},
+    image: "/poi-images/bogenfels-diamantensiedlung-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Geisterstadt Bogenfels im unwirtlichen südlichen Sperrgebiet ist ein stummes Monument des Diamantenfiebers in den 1910er Jahren. In unmittelbarer Nähe des spektakulären Felsbogens 'Bogenfels' entstand aus dem Nichts eine prosperierende Siedlung, nachdem hier reiche Diamantenfelder entdeckt worden waren. Die Siedlung umfasste auf ihrem Höhepunkt hunderte Arbeiter, eine massive Meerwasserentsalzungsanlage, eine Schmalspureisenbahn und eine hochmoderne Diamantenwäscherei, deren rostige Siebe und Generatoren noch heute im salzigen Wüstenwind verwittern. Mit der Erschöpfung der oberflächlichen Diamanten und dem Ausbruch von Kriegen verfiel die Stadt und ist heute ein faszinierendes Freilichtmuseum des Verfalls. Geschichte K8 — Industrieller Aufstieg und Fall.",
       hu: "A Bogenfels Gyémánttelep egy egykor virágzó, ma elhagyatott ipari komplexum a Namíb-sivatag lezárt gyémántövezetében (Sperrgebiet), Lüderitztől délre. A települést 1909 körül hozták létre, miután ezen a barátságtalan, viharos partszakaszon óriási mennyiségű alluviális gyémántot fedeztek fel. A telep nem lakóváros volt (mint Kolmanskop), hanem egy masszív, német gépekkel felszerelt mosó- és válogatóüzem, amely tengervízzel mosta át a gyémánttartalmú sivatagi homokot. Amikor az 1920-as évek végén a gazdagabb, déli lelőhelyeket (Oranjemund) megnyitották, az üzemet elhagyták. Ma a korabeli ipari forradalom sivatagban hagyott mementójaként rozsdásodik. Történelem K8 — korai ipari bányászat Afrikában",
@@ -674,9 +657,8 @@ image: "/poi-images/bogenfels-diamantensiedlung-history-v2.webp"
       de: "Pomona Geisterstadt",
       hu: "Pomona Szellemváros",
       ro: "Orașul Fantomă Pomona",
-      en: "Pomona Ghost Town",
-image: "/poi-images/pomona-geisterstadt-history-v2.webp"
-},
+      en: "Pomona Ghost Town"},
+    image: "/poi-images/pomona-geisterstadt-history-v2.webp",
     descriptionAdvanced: {
       de: "Pomona war einst eine der reichsten Diamantensiedlungen der Welt, gelegen in einer der windigsten und unwirtlichsten Gegenden der Namib-Wüste südlich von Lüderitz. In den Jahren nach 1912 lagen die Diamanten hier buchstäblich wie Kieselsteine auf dem Boden; das legendäre 'Idatal' bei Pomona war so ergiebig, dass Diamanten oft nachts im Mondschein gesammelt werden konnten. In den Spitzenzeiten war die Produktion in Pomona größer als die aller anderen Minen in Südwestafrika zusammen. Der permanente, peitschende Sandsturm zwang die Erbauer jedoch dazu, die Türen vieler Häuser an der windabgewandten Seite zu platzieren. Heute sind die prachtvolle Mine und das verlassene Dorf langsam vom Wüstensand verschlungen worden. Geschichte K7 — Ressourcenreichtum unter Extrembedingungen.",
       hu: "Pomona a Sperrgebiet lezárt sivatagi övezetének legelhagyatottabb és legszürreálisabb szellemvárosa, mely a hírhedt 'Pomona gyémántbányászati zóna' (Ida völgye) központja volt. Az 1910-es évek elején az itteni gyémántkészletek olyan hihetetlenül gazdagok voltak, hogy a munkások a telihold fényénél is puszta kézzel szedegették a drágaköveket a homokból. A terület azonban Földünk egyik legszelesebb pontja; a kíméletlen sivatagi viharok miatt a munkakörülmények embertelenek voltak. Az 1930-as évekre a terület kimerült, Pomona elnéptelenedett, ma pedig a vándorló homokdűnék lassan, de biztosan temetik maguk alá a német stílusú iskola, orvosi rendelő és bányászházak romjait. Történelem K8 — a gyémántláz emberi ára",
@@ -713,9 +695,8 @@ image: "/poi-images/pomona-geisterstadt-history-v2.webp"
       de: "Diaz-Spitze",
       hu: "Diaz-fok",
       ro: "Punctul Diaz",
-      en: "Diaz Point",
-image: "/poi-images/diaz-spitze-history-v2.webp"
-},
+      en: "Diaz Point"},
+    image: "/poi-images/diaz-spitze-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Diaz-Spitze, eine felsige Landzunge südlich von Lüderitz, ist ein Ort von immense historischer Bedeutung für den afrikanischen Kontinent. Im Jahr 1488 landete hier der berühmte portugiesische Entdecker Bartolomeu Dias während seiner epischen Reise zur Erkundung des Seewegs nach Indien. Um die portugiesische Herrschaft und den Erfolg der Expedition zu markieren, errichtete er auf der windgepeitschten Spitze ein steinernes Kreuz (ein sogenanntes Padrão). Das Originalkreuz, das im Laufe der Jahrhunderte stark verwitterte, wurde in den 1950er Jahren nach Südafrika gebracht, und heute steht am selben Ort eine originalgetreue Replik, die von Touristen besucht wird, während Wellen donnernd gegen die Klippen krachen. Geschichte K7 — Europäische Entdecker im 15. Jahrhundert.",
       hu: "A Diaz-fok (Diaz Point) egy meredek, sziklás félsziget Lüderitz közelében, amely kulcsfontosságú történelmi mérföldkő az európaiak afrikai felfedezőútjaiban. 1488. július 25-én a portugál felfedező, Bartolomeu Dias – aki az első európaiként kerülte meg a Jóreménység-fokát – visszaútján kikötött ezen a zord, szélfútta helyen, és a kereszténység nevében egy mészkőből faragott padraõt (kőkeresztet) állított fel. Az eredeti kereszt darabjai a 19. században múzeumokba (többek között Lisszabonba és Fokvárosba) kerültek, de egy pontos másolat ma is áll a fok legmagasabb pontján, dacolva a viharos atlanti hullámokkal és a hideg Benguela-áramlattal. Történelem K7 — portugál tengeri felfedezések",
@@ -752,9 +733,8 @@ image: "/poi-images/diaz-spitze-history-v2.webp"
       de: "Nakambale-Museum",
       hu: "Nakambale Múzeum",
       ro: "Muzeul Nakambale",
-      en: "Nakambale Museum",
-image: "/poi-images/nakambale-museum-history-v2.webp"
-},
+      en: "Nakambale Museum"},
+    image: "/poi-images/nakambale-museum-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Nakambale-Museum in Olukonda, unweit von Ondangwa, ist ein lebendiges Denkmal für die lange finnische Missionsgeschichte im Norden Namibias. Das Museum ist im alten Missionshaus der Olukonda-Mission untergebracht, das 1889 von dem finnischen Pionier-Missionar Martti Rautanen erbaut wurde. Rautanen, der von den lokalen Owambo respektvoll 'Nakambale' genannt wurde (eine Anspielung auf seinen Hut, der wie ein Korb aussah), übersetzte als Erster die Bibel in die Oshindonga-Sprache. Das Gelände umfasst nicht nur das historische Ziegelgebäude, sondern auch die 1893 erbaute erste Kirche im Owamboland sowie Nachbauten traditioneller Ndonga-Gehöfte. Geschichte K6 — Missionare und kultureller Austausch.",
       hu: "A Nakambale Múzeum Ondangwa közelében, az északi Omusati régióban található, és az owambo kultúra, valamint a finn misszionáriusok közös történelmének legfontosabb őrzője. Az 1889-ben alapított Olukonda missziós állomás területén működő múzeum nevét Martti Rautanen finn misszionáriusról kapta, akit a helyiek Nakambalénak (a kalaposnak) hívtak, jellegzetes fejfedője miatt. Rautanen kulcsszerepet játszott a helyi nyelv (ndonga) írásbeliségének megteremtésében és az első bibliafordításokban. A múzeum területén áll az eredeti 19. századi missziós templom, valamint egy hagyományos owambo királyi udvartartás (kraal) pontos másolata. Történelem K8 — skandináv misszionáriusok Afrikában",
@@ -791,9 +771,8 @@ image: "/poi-images/nakambale-museum-history-v2.webp"
       de: "Ombalantu-Baobab-Baum",
       hu: "Ombalantu Baobab-fa",
       ro: "Arborele Baobab Ombalantu",
-      en: "Ombalantu Baobab Tree",
-image: "/poi-images/ombalantu-baobab-history-v2.webp"
-},
+      en: "Ombalantu Baobab Tree"},
+    image: "/poi-images/ombalantu-baobab-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Ombalantu Baobab-Baum im Zentrum der nordnamibischen Stadt Outapi ist kein gewöhnlicher Baum, sondern ein monumentales Stück lebendiger Geschichte. Dieser gewaltige afrikanische Affenbrotbaum mit einem extrem dicken, fast vollständig hohlen Stamm hat in den letzten Jahrhunderten unzählige Rollen gespielt. Vor der Kolonialzeit diente sein hohles Inneres den Einheimischen als perfektes Versteck vor marodierenden Viehdieben. Während der südafrikanischen Besatzungszeit im Befreiungskrieg wurde der Baum kurioserweise als provisorisches Postamt und sogar als kleine christliche Kapelle genutzt. Heute können Besucher durch einen Einschnitt in den Stamm des 800 Jahre alten Baumes treten und ein einzigartiges, winziges Museum besichtigen. Biologie K6 — Historische Nutzung gigantischer Pflanzen.",
       hu: "Az Ombalantu Baobab-fa (majomkenyérfa) Outapi városában nem csupán Namíbia egyik legidősebb fája, hanem egy élő történelmi és kulturális emlékmű. Becslések szerint több mint 800 éves, gigantikus törzsének kerülete meghaladja a 28 métert. Az évszázadok során a fát belülről kivájták; a 19. században az Ombalantu nép menedékhelyként használta a törzsi háborúk (főleg fosztogató csapatok) elől. Később, a dél-afrikai fennhatóság idején postahivatalként, majd egy kávézóként, pa az 1940-es évektől katolikus missziós kápolnaként (mely mintegy 35 ember befogadására alkalmas) funkcionált. Ma kiemelkedő nemzeti örökség, az ellenálló képesség szimbóluma. Biológia K8 — baobab fák anatómiája és kulturális szerepe",
@@ -830,9 +809,8 @@ image: "/poi-images/ombalantu-baobab-history-v2.webp"
       de: "Turnhalle Windhoek",
       hu: "Windhoeki Turnhalle",
       ro: "Turnhalle Windhoek",
-      en: "Turnhalle Windhoek",
-image: "/poi-images/turnhalle-windhoek-history-v2.webp"
-},
+      en: "Turnhalle Windhoek"},
+    image: "/poi-images/turnhalle-windhoek-history-v2.webp",
     descriptionAdvanced: {
       de: "Das historische Turnhalle-Gebäude in Windhoek ist weit mehr als nur eine ehemalige Sporthalle. Erbaut 1909 als Übungshalle für den Windhoeker Turnverein, steht das Gebäude heute im Mittelpunkt der politischen Geschichte Namibias. Weltweite Bekanntheit erlangte die Turnhalle in den Jahren 1975 bis 1977, als hier die umstrittene 'Turnhallen-Konferenz' stattfand. In dieser Konferenz versuchte die südafrikanische Apartheidsregierung, eine interne Lösung für die Unabhängigkeit Namibias zu finden, indem sie eine Verfassung ausarbeitete, die stark auf ethnischen Linien basierte, jedoch von der Befreiungsbewegung SWAPO und der UN abgelehnt wurde. Heute beherbergt das renovierte Gebäude das SADC-Tribunal. Geschichte K8 — Der Weg zur namibischen Unabhängigkeit.",
       hu: "A windhoeki Turnhalle egy meghatározó jelentőségű történelmi épület, amelyet 1909-ben a németországi tornamozgalmak (Turnvereine) helyi központjaként építettek, de politikai szerepe tette híressé. Az épület adott otthont a hírhedt 1975–1977-es Turnhalle Alkotmányozó Konferenciának, ahol Dél-Afrika és a namíbiai (akkor Délnyugat-Afrika) etnikai csoportok képviselői próbáltak egy függetlenségi tervet kidolgozni a SWAPO függetlenségi mozgalom kizárásával. Noha az itteni tervezet nem kapott nemzetközi elismerést, az épület a namíbiai politikai útkeresés szimbóluma maradt. 2003-tól egy évtizedig itt ülésezett a SADC (Dél-Afrikai Fejlesztési Közösség) Bírósága is. Történelem K8 — dél-afrikai apartheid és namíbiai függetlenség",
@@ -869,9 +847,8 @@ image: "/poi-images/turnhalle-windhoek-history-v2.webp"
       de: "Schwerinsburg",
       hu: "Schwerinsburg",
       ro: "Castelul Schwerinsburg",
-      en: "Schwerinsburg",
-image: "/poi-images/schwerinsburg-history-v2.webp"
-},
+      en: "Schwerinsburg"},
+    image: "/poi-images/schwerinsburg-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Schwerinsburg ist das größte und markanteste der drei berühmten Burgen von Windhoek, die das Stadtbild auf einem zentralen Hügel dominieren. Die Geschichte der Festung begann 1890, als Curt von François hier den sogenannten 'Sperlingslust'-Turm aus rohen Feldsteinen als Ausguck errichten ließ. 1913 erwarb der renommierte deutsche Architekt Willi Sander den Turm und baute ihn im Auftrag des Grafen Bogislav von Schwerin in ein prächtiges, romantisierendes Schloss mit Zinnen und massiven Türmen um. Heute ist die prächtige Schwerinsburg im Privatbesitz und fungiert als offizielle Residenz des italienischen Botschafters in Namibia, was ihr elitäres Erbe weiterführt. Architektur K7 — Adelsbauten in kolonialen Zentren.",
       hu: "A Schwerinsburg (Schwerin-vár) a három ikonikus windhoeki kastély (Sanderburg, Heinitzburg, Schwerinsburg) közül a legnagyobb, amely lenyűgöző kilátással uralja a várost egy hegytetőről. Eredetileg Curt von François német őrnagy építtette a tornyát 1890-ben katonai megfigyelőpontként (Sperlingslust néven). 1913-ban Wilhelm Sander, a korszak leghíresebb namíbiai építésze vásárolta meg, és ő alakította át a ma is látható romantikus, német lovagvárakat idéző kastéllyá Hans von Schwerin-Löwitz gróf számára. Különös története ellenére ma a kastély nem látogatható a nagyközönség számára, mivel jelenleg az Olasz Köztársaság namíbiai nagykövetének hivatalos rezidenciájaként működik. Történelem K7 — diplomáciai rezidenciák építészete",
@@ -908,9 +885,8 @@ image: "/poi-images/schwerinsburg-history-v2.webp"
       de: "Heinitzburg",
       hu: "Heinitzburg",
       ro: "Castelul Heinitzburg",
-      en: "Heinitzburg",
-image: "/poi-images/heinitzburg-history-v2.webp"
-},
+      en: "Heinitzburg"},
+    image: "/poi-images/heinitzburg-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Heinitzburg ist eine der drei pittoresken Windhoeker Burgen, die stolz auf dem Luxury Hill der Hauptstadt thronen. Sie wurde 1914 von dem in Südwestafrika berühmten Architekten Willi Sander für den wohlhabenden Grafen von Schwerin entworfen, der das Gebäude nach seiner Verlobten, Margarethe von Heinitz, benannte. Die romantische, mittelalterlich anmutende Burg zeichnet sich durch dicke Steinmauern, Zinnen und Ziertürme aus. Im Laufe der Jahrzehnte wechselte das Schloss mehrfach den Besitzer, bevor es 1996 von einer namibischen Familie in ein luxuriöses Relais & Châteaux Boutique-Hotel umgewandelt wurde. Heute ist es berühmt für seine exzellente Gastronomie und den ungestörten Blick über die Stadt. Architektur K7 — Romantische Burgen in der afrikanischen Savanne.",
       hu: "A Heinitzburg a windhoeki hegyvidék második kastélya, amelyet szintén a termékeny építész, Wilhelm Sander tervezett 1914-ben. Az épületet a Schwerinsburg tulajdonosa, von Schwerin gróf rendelte meg egy romantikus gesztusként: várandós feleségének, Margarethe von Heinitznek ajánlotta fel ajándékképpen (innen a név is). Bár az épület magán hordozza a német lovagvárak stílusjegyeit, kialakítása elegánsabb és polgáribb a szomszédos erődöknél. Az 1990-es évek végén egy namíbiai család vásárolta meg a történelmi műemléket, és az ország egyik legexkluzívabb luxusszállodájává (Hotel Heinitzburg) alakította át, ahonnan páratlan naplemente nézhető a Khomas-felföld felett. Történelem K8 — gyarmati örökség turisztikai hasznosítása",
@@ -947,9 +923,8 @@ image: "/poi-images/heinitzburg-history-v2.webp"
       de: "Tintenpalast",
       hu: "Tintapalota (Tintenpalast)",
       ro: "Palatul Cernelii (Tintenpalast)",
-      en: "Tintenpalast",
-image: "/poi-images/tintenpalast-history-v2.webp"
-},
+      en: "Tintenpalast"},
+    image: "/poi-images/tintenpalast-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Tintenpalast ist das ikonische Herz der politischen Macht Namibias und liegt eingebettet in die wunderschönen Parlamentsgärten von Windhoek. Das Gebäude wurde 1913 nach Entwürfen von Gottlieb Redecker als Verwaltungszentrum der deutschen Kolonialregierung erbaut. Der Name 'Tintenpalast' (Tinten-Palast) ist ein historischer Spitzname, den die Bewohner der Stadt spöttisch vergaben, in Anspielung auf den angeblich enormen Tintenverbrauch der damaligen pedantischen Bürokraten. Heute ist das imposante Gebäude, das aus lokal behauenen Steinen ohne großen Prunk erbaut wurde, Sitz des namibischen Zweikammerparlaments (der Nationalversammlung und des Nationalrats). Geschichte K8 — Von der Kolonialverwaltung zum Parlament.",
       hu: "A Tintenpalast (Tintapalota) Namíbia politikai szíve, a windhoeki kormányzati és parlamenti negyed központja. A fenséges, teraszos kertekkel körülvett épületet 1913-ban adták át, mint a Német Délnyugat-Afrika gyarmati adminisztrációjának főhadiszállását. A gúnyos \"Tintapalota\" nevet a helyi lakosok adták az épületnek a gyarmati bürokraták (a 'tintanyalók') hatalmas papírmunkájára és tintafogyasztására utalva. Stílusát a helyi klimatikus viszonyokhoz igazították: árkádos teraszai hűtik a belső tereket, és lenyűgöző kilátást biztosítanak a parlament parkjára. Ma a független Namíbia Nemzetgyűlése (National Assembly) és a Nemzeti Tanács (National Council) ülésezik itt. Történelem K8 — kormányzati épületek és parlamentarizmus",
@@ -986,9 +961,8 @@ image: "/poi-images/tintenpalast-history-v2.webp"
       de: "Goerke-Haus",
       hu: "Goerke-ház",
       ro: "Casa Goerke",
-      en: "Goerke House",
-image: "/poi-images/goerke-haus-history-v2.webp"
-},
+      en: "Goerke House"},
+    image: "/poi-images/goerke-haus-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Goerke-Haus in Lüderitz ist eines der prächtigsten Zeugnisse des rasanten Reichtums während des Diamantenbooms in Südwestafrika. Das beeindruckende Anwesen auf dem Diamantenberg wurde 1910 für den Leutnant und späteren Diamanten-Inspektor Hans Goerke erbaut. Das Gebäude ist ein architektonisches Meisterwerk im Jugendstil, das trotz der extrem isolierten Wüstenlage luxuriös mit importierten Holzschnitzereien, Buntglasfenstern und Fliesen ausgestattet wurde. Besonders auffällig sind die asymmetrische Form, die Giebel und das große Sonnenuhren-Fassadenbild. Heute, im Besitz eines namibischen Bergbauunternehmens, ist die restaurierte Villa ein exklusives Museum und zeugt vom verschwenderischen Lebensstil der frühen Diamantenbarone. Architektur K8 — Jugendstil-Villen in der Wüste.",
       hu: "A Goerke-ház Lüderitz egyik legkiválóbb állapotban megőrzött történelmi villája, amely a Gyémánt-hegy (Diamantberg) sziklás oldalában áll, a Sziklatemplom közvetlen szomszédságában. Az épületet 1910-ben emelték a helyi gyémántbányászat egyik vezető alakja, Hans Goerke hadnagy és felügyelő (Inspector) számára. A fényűző villa stílusa ötvözi a bajor Art Nouveau (szecessziós) jegyeket a zord sivatagi környezethez igazodó praktikummal. A hatalmas ablakok a napfény maximalizálását és a pazar óceáni panorámát szolgálták. A Namdeb vállalat a 20. század végén az eredeti tervek alapján pompásan restaurálta, és a nagyközönség számára múzeumként megnyitotta. Történelem K7 — gyémántbárók villái és szecesszió",
@@ -1025,9 +999,8 @@ image: "/poi-images/goerke-haus-history-v2.webp"
       de: "Marine-Denkmal",
       hu: "Tengerészeti Emlékmű",
       ro: "Monumentul Marinei",
-      en: "Marine Memorial",
-image: "/poi-images/marine-denkmal-history-v2.webp"
-},
+      en: "Marine Memorial"},
+    image: "/poi-images/marine-denkmal-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Marine-Denkmal, das am Rande des Zentrums von Swakopmund nahe der alten Mole steht, ist ein bedeutendes, wenn auch heute in Teilen umstrittenes historisches Monument. Es wurde 1908 vom Bildhauer Albert Moritz Wolff entworfen, um die Gefallenen der Ersten und Zweiten Abteilung des deutschen Marine-Expeditionskorps zu ehren. Diese Truppen wurden 1904 nach Südwestafrika verlegt, um die Kolonialmacht während des Herero-Aufstands massiv militärisch zu unterstützen. Das bronzene Standbild, das einen auf den Ozean blickenden Marinesoldaten zeigt, ist ein eindrucksvolles Beispiel kolonialer Heldenverehrung und steht heute sinnbildlich für die intensive und brutale Epoche des Deutsch-Herero-Krieges. Geschichte K8 — Denkmäler als Spiegel politischer Macht.",
       hu: "A Tengerészeti Emlékmű (Marine Denkmal) Swakopmund belvárosának egyik kiemelkedő történelmi szobra, a nyári rezidencia közelében. Az 1908-ban felállított, bronzból öntött műalkotás egy tengerészgyalogost ábrázol, aki harcra készen áll egyik kezében puskával, miközben sebesült társát támogatja. Az emlékmű a német Első Tengerészeti Expedíciós Hadtest (1. Marine-Expeditionskorps) katonáinak állít emléket, akik az 1904-es herero háború idején estek el a gyarmati küzdelmekben. Bár a szobor művészi kivitelezése lenyűgöző (Berlinben öntötték), jelenléte a modern, független Namíbiában ellentmondásos, mivel a gyarmati elnyomás és a népirtás időszakára emlékeztet. Történelem K8 — gyarmati emlékművek és dekolonizáció",
@@ -1064,9 +1037,8 @@ image: "/poi-images/marine-denkmal-history-v2.webp"
       de: "Apollo-11-Höhle",
       hu: "Apollo 11 Barlang",
       ro: "Peștera Apollo 11",
-      en: "Apollo 11 Cave",
-image: "/poi-images/apollo-11-hoehle-history-v2.webp"
-},
+      en: "Apollo 11 Cave"},
+    image: "/poi-images/apollo-11-hoehle-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Apollo-11-Höhle im rauen Süden Namibias (ǁKharas Region) verbirgt einen der bedeutendsten archäologischen Schätze der Menschheitsgeschichte. Die Höhle, die sich in den Bergen des Huns-Gebirges in der Nähe des Oranje-Flusses befindet, wurde 1969 von dem deutschen Archäologen Wolfgang Wendt entdeckt. Während seiner Ausgrabungen hörte Wendt im Radio von der erfolgreichen Mondlandung der Apollo 11 und benannte die Höhle spontan nach dieser Mission. Sensationell waren die Funde von bemalten Steinplatten, deren Alter auf unglaubliche 27.500 Jahre datiert wurde. Diese fragilen Platten, die tierartige Wesen in rotem Ocker und Kohle darstellen, gehören zu den ältesten mobilen Kunstwerken, die jemals auf dem afrikanischen Kontinent gefunden wurden. Anthropologie K8 — Die früheste Kunst der Menschheit.",
       hu: "Az Apollo 11 barlang a Karas régióban, a dél-namíbiai Nu-Nabes-hegység elszigetelt, sziklás kanyonjaiban található, és Afrika egyik legfontosabb régészeti lelőhelye. A barlang nem a benne lévő falfestmények, hanem az ásatások során előkerült hordozható, festett kőtáblácskák (sziklaművészeti fragmentumok) miatt világhírű. Wolfgang Wendt német régész az 1969-es ásatásai során fedezte fel ezeket a leleteket, pont akkor, amikor az Apollo 11 űrhajó sikeresen visszatért a Holdról – innen kapta a barlang is a nevét. A radiokarbonos kormeghatározás bebizonyította, hogy ezek a faszénnel és okkerrel festett, állatokat formázó kövek körülbelül 25 000–27 000 évesek, így az afrikai kontinens legrégebbi ismert művészeti alkotásai közé tartoznak. Történelem K8 — paleolitikum és korai emberi művészet",
@@ -1103,9 +1075,8 @@ image: "/poi-images/apollo-11-hoehle-history-v2.webp"
       de: "Altes Amtsgericht",
       hu: "Régi Járásbíróság (Swakopmund)",
       ro: "Fosta Judecătorie (Swakopmund)",
-      en: "Altes Amtsgericht",
-image: "/poi-images/altes-amtsgericht-history-v2.webp"
-},
+      en: "Altes Amtsgericht"},
+    image: "/poi-images/altes-amtsgericht-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Alte Amtsgericht in Swakopmund ist ein prachtvolles Beispiel deutscher Verwaltungsarchitektur der Jahrhundertwende. Das imposante Gebäude wurde 1908 nach den Plänen von Otto Ertl erbaut, der eine stilistische Mischung aus Neorenaissance und afrikanischen Elementen schuf. Ursprünglich war es nicht als Gericht konzipiert, sondern sollte als privates Schulheim dienen, bevor es aufgrund von Finanzierungsproblemen vom Staat übernommen und zum Bezirksgericht umgewandelt wurde. Mit seinen markanten rot-gelben Giebeln und kunstvollen Stuckarbeiten ist das Gebäude heute ein äußerst begehrtes Fotomotiv und beherbergt Verwaltungsbüros der Stadt Swakopmund. Architektur K7 — Repräsentative Bauten der Kolonialbehörden.",
       hu: "A Régi Járásbíróság (Altes Amtsgericht) épülete Swakopmund belvárosának egyik gyöngyszeme, amely monumentális, neobarokk homlokzatával hívja fel magára a figyelmet. Otto Ertl kormányzati építész tervei alapján készült 1908-ban, és kezdetben magániskolaként funkcionált. Ahogy a város adminisztratív jelentősége megnőtt, az állam megvásárolta, és hivatalos járásbírósággá (Amtsgericht) alakította. A masszív téglaépületet gazdagon díszített oromzat és ívelt ablakok teszik egyedivé, amelyek hűen tükrözik a császári Németország délnyugat-afrikai reprezentációs törekvéseit. Jelenleg kormányzati hivatalok és önkormányzati irodák működnek benne. Történelem K8 — gyarmati igazságszolgáltatás építészete",
@@ -1142,9 +1113,8 @@ image: "/poi-images/altes-amtsgericht-history-v2.webp"
       de: "Rheinische Missionskirche",
       hu: "Rajnai Missziós Templom",
       ro: "Biserica Misiunii Renane",
-      en: "Rhenish Mission Church",
-image: "/poi-images/rheinische-missionskirche-history-v2.webp"
-},
+      en: "Rhenish Mission Church"},
+    image: "/poi-images/rheinische-missionskirche-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Rheinische Missionskirche in Keetmanshoop ist eine historische Bastion der Christianisierung im unbarmherzigen Süden Namibias. Erbaut 1895 aus behauenen Natursteinen der Region, ist sie ein beeindruckendes Beispiel für das handwerkliche Geschick der frühen Missionare der Rheinischen Missionsgesellschaft und der einheimischen Gemeinde. Die Kirche mit ihren hohen Buntglasfenstern und dem soliden Glockenturm überstand nicht nur extreme Dürren, sondern auch die turbulenten Zeiten der Nama-Aufstände. Heute wird sie nicht mehr als Gotteshaus genutzt, sondern wurde sorgfältig restauriert und fungiert als faszinierendes kleines Museum, das die Geschichte der Region und der Mission eindrucksvoll dokumentiert. Geschichte K7 — Kirchenbau und Kulturgeschichte.",
       hu: "A Rajnai Missziós Templom (Rhenish Mission Church) Walvis Bay legrégebbi máig fennmaradt történelmi épülete, amely a hatalmas, zord kikötőváros szívében, a kikötői övezet közelében bújik meg. A fából épült templom szerkezetét 1880-ban egyenesen a németországi Hamburgban (mások szerint Norvégiában) gyártották előre, majd hajón, darabokban (flat-pack) szállították le Afrikába, ahol a misszionáriusok építették össze. A vaskos fagerendákból álló, ólomüveges apró templom több mint egy évszázada dacol a pusztító tengeri köddel és a homokviharokkal. Nemcsak a kereszténység korai terjedésének, hanem a 19. századi előregyártott faház-építészetnek is páratlan mementója. Történelem K7 — missziók és előregyártott építészet a 19. században",

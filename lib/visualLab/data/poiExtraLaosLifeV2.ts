@@ -10,9 +10,8 @@ export const poiExtraLaosLifeV2: POI[] = [
       de: "Nam Et-Phou Louey Nationalpark",
       hu: "Nam Et-Phou Louey Nemzeti Park",
       ro: "Parcul Național Nam Et-Phou Louey",
-      en: "Nam Et-Phou Louey National Park",
-image: "/poi-images/nam-et-phou-louey-life-v2.webp"
-},
+      en: "Nam Et-Phou Louey National Park"},
+    image: "/poi-images/nam-et-phou-louey-life-v2.webp",
     description: {
       de: "Eines der wichtigsten Naturschutzgebiete in Laos, bekannt für seine Nachtsafaris und den Schutz von Tigern und Leoparden.",
       hu: "Laosz egyik legfontosabb természetvédelmi területe, amely éjszakai szafarikról és a tigrisek, valamint párducok védelméről ismert.",
@@ -47,9 +46,8 @@ image: "/poi-images/nam-et-phou-louey-life-v2.webp"
       de: "Bolaven-Kaffeeplantagen",
       hu: "Bolaven Kávéültetvények",
       ro: "Plantațiile de Cafea Bolaven",
-      en: "Bolaven Coffee Estates",
-image: "/poi-images/bolaven-coffee-estates-life-v2.webp"
-},
+      en: "Bolaven Coffee Estates"},
+    image: "/poi-images/bolaven-coffee-estates-life-v2.webp",
     description: {
       de: "Eine ausgedehnte landwirtschaftliche Region auf fruchtbarem vulkanischem Boden, die für die Produktion von hochwertigem laotischem Kaffee berühmt ist.",
       hu: "Kiterjedt mezőgazdasági régió termékeny vulkáni talajon, amely a kiváló minőségű laoszi kávé termesztéséről híres.",
@@ -84,9 +82,8 @@ image: "/poi-images/bolaven-coffee-estates-life-v2.webp"
       de: "Kuang Si Bärenrettungszentrum",
       hu: "Kuang Si Medvemenhely",
       ro: "Centrul de Salvare a Urșilor Kuang Si",
-      en: "Kuang Si Bear Rescue Centre",
-image: "/poi-images/kuang-si-bear-rescue-life-v2.webp"
-},
+      en: "Kuang Si Bear Rescue Centre"},
+    image: "/poi-images/kuang-si-bear-rescue-life-v2.webp",
     description: {
       de: "Ein Rettungszentrum nahe den Kuang-Si-Wasserfällen, das geretteten Kragenbären ein sicheres und natürliches Zuhause bietet.",
       hu: "A Kuang Si vízesés közelében található menhely, amely biztonságos és természetes otthont nyújt a megmentett örvös medvéknek.",
@@ -121,9 +118,8 @@ image: "/poi-images/kuang-si-bear-rescue-life-v2.webp"
       de: "Laos Büffelfarm",
       hu: "Laoszi Bivalyfarm",
       ro: "Ferma de Bivoli din Laos",
-      en: "Laos Buffalo Dairy",
-image: "/poi-images/laos-buffalo-dairy-life-v2.webp"
-},
+      en: "Laos Buffalo Dairy"},
+    image: "/poi-images/laos-buffalo-dairy-life-v2.webp",
     description: {
       de: "Eine sozial verantwortliche Farm, die Käse, Eiscreme und Joghurt aus der Milch lokaler Wasserbüffel herstellt.",
       hu: "Társadalmilag felelős farm, amely sajtot, jégkrémet és joghurtot készít a helyi vízibivalyok tejéből.",
@@ -158,9 +154,8 @@ image: "/poi-images/laos-buffalo-dairy-life-v2.webp"
       de: "Pha Tad Ke Botanischer Garten",
       hu: "Pha Tad Ke Botanikus Kert",
       ro: "Grădina Botanică Pha Tad Ke",
-      en: "Pha Tad Ke Botanical Garden",
-image: "/poi-images/pha-tad-ke-botanical-life-v2.webp"
-},
+      en: "Pha Tad Ke Botanical Garden"},
+    image: "/poi-images/pha-tad-ke-botanical-life-v2.webp",
     description: {
       de: "Der erste botanische Garten in Laos, der sich der Erhaltung der reichen Flora und dem ökologischen Lernen widmet.",
       hu: "Laosz első botanikus kertje, amely a gazdag növényvilág megőrzésének és az ökológiai oktatásnak szenteli magát.",
@@ -195,9 +190,8 @@ image: "/poi-images/pha-tad-ke-botanical-life-v2.webp"
       de: "Bokeo Naturreservat",
       hu: "Bokeo Természetvédelmi Terület",
       ro: "Rezervația Naturală Bokeo",
-      en: "Bokeo Nature Reserve",
-image: "/poi-images/bokeo-nature-reserve-life-v2.webp"
-},
+      en: "Bokeo Nature Reserve"},
+    image: "/poi-images/bokeo-nature-reserve-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet, das berühmt für seine seltenen Schopfgibbons und die einzigartigen Baumhäuser für Besucher ist.",
       hu: "Védett terület, amely ritka bóbitás gibbonjairól és a látogatóknak szánt egyedi lombházairól híres.",
@@ -232,9 +226,8 @@ image: "/poi-images/bokeo-nature-reserve-life-v2.webp"
       de: "Luang Prabang Schmetterlingspark",
       hu: "Luang Prabang Pillangópark",
       ro: "Parcul de Fluturi Luang Prabang",
-      en: "Luang Prabang Butterfly Park",
-image: "/poi-images/luang-prabang-butterfly-park-life-v2.webp"
-},
+      en: "Luang Prabang Butterfly Park"},
+    image: "/poi-images/luang-prabang-butterfly-park-life-v2.webp",
     description: {
       de: "Ein wunderschön angelegter tropischer Garten, in dem Hunderte von farbenfrohen laotischen Schmetterlingen frei fliegen.",
       hu: "Gyönyörűen parkosított trópusi kert, ahol több száz színes laoszi pillangó repked szabadon.",
@@ -269,9 +262,8 @@ image: "/poi-images/luang-prabang-butterfly-park-life-v2.webp"
       de: "Phou Khao Khouay Nationalpark",
       hu: "Phou Khao Khouay Nemzeti Park",
       ro: "Parcul Național Phou Khao Khouay",
-      en: "Phou Khao Khouay National Park",
-image: "/poi-images/phou-khao-khouay-park-life-v2.webp"
-},
+      en: "Phou Khao Khouay National Park"},
+    image: "/poi-images/phou-khao-khouay-park-life-v2.webp",
     description: {
       de: "Ein Nationalpark in der Nähe der Hauptstadt, der dichte Wälder, wilde Orchideen und malerische Wasserfälle bietet.",
       hu: "A főváros közelében fekvő nemzeti park, amely sűrű erdőket, vad orchideákat és festői vízeséseket kínál.",
@@ -306,9 +298,8 @@ image: "/poi-images/phou-khao-khouay-park-life-v2.webp"
       de: "Xe Pian Naturschutzgebiet",
       hu: "Xe Pian Természetvédelmi Terület",
       ro: "Aria Protejată Xe Pian",
-      en: "Xe Pian National Protected Area",
-image: "/poi-images/xe-pian-protected-area-life-v2.webp"
-},
+      en: "Xe Pian National Protected Area"},
+    image: "/poi-images/xe-pian-protected-area-life-v2.webp",
     description: {
       de: "Ein weitreichendes Schutzgebiet mit Feuchtgebieten und Wäldern, das eine immense Vielfalt an Vogelarten beherbergt.",
       hu: "Kiterjedt védett terület vizes élőhelyekkel és erdőkkel, amely hatalmas madárfaj-változatosságnak ad otthont.",
@@ -343,9 +334,8 @@ image: "/poi-images/xe-pian-protected-area-life-v2.webp"
       de: "Vang Vieng Bio-Bauernhof",
       hu: "Vang Vieng Biofarm",
       ro: "Ferma Organică Vang Vieng",
-      en: "Vang Vieng Organic Farm",
-image: "/poi-images/vang-vieng-organic-farm-life-v2.webp"
-},
+      en: "Vang Vieng Organic Farm"},
+    image: "/poi-images/vang-vieng-organic-farm-life-v2.webp",
     description: {
       de: "Ein ökologischer Bauernhof am Flussufer, der sich auf den Anbau von Maulbeeren und die Produktion von Ziegenkäse spezialisiert hat.",
       hu: "Folyóparti ökológiai farm, amely eperfa termesztésére és kecskesajt készítésére szakosodott.",
@@ -380,9 +370,8 @@ image: "/poi-images/vang-vieng-organic-farm-life-v2.webp"
       de: "Elefantendorf Schutzgebiet",
       hu: "Elefántfalu Menedék",
       ro: "Sanctuarul Satul Elefanților",
-      en: "Elephant Village Sanctuary",
-image: "/poi-images/elephant-village-sanctuary-life-v2.webp"
-},
+      en: "Elephant Village Sanctuary"},
+    image: "/poi-images/elephant-village-sanctuary-life-v2.webp",
     description: {
       de: "Ein friedliches Refugium, das ehemalige Arbeitselefanten rehabilitiert und ihnen ein Leben am Ufer des Nam Khan Flusses ermöglicht.",
       hu: "Békés menedékhely, amely egykori munkaselefántokat rehabilitál, és életet biztosít számukra a Nam Khan folyó partján.",
@@ -417,9 +406,8 @@ image: "/poi-images/elephant-village-sanctuary-life-v2.webp"
       de: "Dong Amphan Naturschutzgebiet",
       hu: "Dong Amphan Természetvédelmi Terület",
       ro: "Rezervația Naturală Dong Amphan",
-      en: "Dong Amphan National Biodiversity Area",
-image: "/poi-images/dong-amphan-biodiversity-life-v2.webp"
-},
+      en: "Dong Amphan National Biodiversity Area"},
+    image: "/poi-images/dong-amphan-biodiversity-life-v2.webp",
     description: {
       de: "Ein abgelegenes und dicht bewaldetes Naturschutzgebiet, in dem seltene Raubtiere und unberührte Kraterseen zu finden sind.",
       hu: "Távoli és sűrűn erdősült természetvédelmi terület, ahol ritka ragadozók és érintetlen krátertavak találhatók.",
@@ -454,9 +442,8 @@ image: "/poi-images/dong-amphan-biodiversity-life-v2.webp"
       de: "Paksong Teeplantagen",
       hu: "Paksong Teaültetvények",
       ro: "Plantațiile de Ceai Paksong",
-      en: "Paksong Tea Plantations",
-image: "/poi-images/paksong-tea-plantations-life-v2.webp"
-},
+      en: "Paksong Tea Plantations"},
+    image: "/poi-images/paksong-tea-plantations-life-v2.webp",
     description: {
       de: "Ausgedehnte Teeplantagen im kühlen Klima des Bolaven-Plateaus, wo einige der besten Teesorten Südostasiens wachsen.",
       hu: "Kiterjedt teaültetvények a Bolaven-fennsík hűvös éghajlatán, ahol Délkelet-Ázsia legjobb teái teremnek.",
@@ -491,9 +478,8 @@ image: "/poi-images/paksong-tea-plantations-life-v2.webp"
       de: "Hin Nam No Naturreservat",
       hu: "Hin Nam No Természetvédelmi Terület",
       ro: "Rezervația Hin Nam No",
-      en: "Hin Nam No National Protected Area",
-image: "/poi-images/hin-nam-no-reserve-life-v2.webp"
-},
+      en: "Hin Nam No National Protected Area"},
+    image: "/poi-images/hin-nam-no-reserve-life-v2.webp",
     description: {
       de: "Ein spektakuläres Karst-Naturschutzgebiet, das an Vietnam grenzt und eine einzigartige Flora in seinen Kalksteinformationen verbirgt.",
       hu: "Látványos karszt természetvédelmi terület, amely Vietnammal határos, és egyedülálló növényvilágot rejt mészkőképződményeiben.",
@@ -528,9 +514,8 @@ image: "/poi-images/hin-nam-no-reserve-life-v2.webp"
       de: "Vientiane Orchideenfarm",
       hu: "Vientiane Orchideafarm",
       ro: "Ferma de Orhidee Vientiane",
-      en: "Vientiane Orchid Farm",
-image: "/poi-images/vientiane-orchid-farm-life-v2.webp"
-},
+      en: "Vientiane Orchid Farm"},
+    image: "/poi-images/vientiane-orchid-farm-life-v2.webp",
     description: {
       de: "Eine spezialisierte Gärtnerei in der Hauptstadt, die sich der Zucht und Erhaltung hunderter laotischer Orchideenarten widmet.",
       hu: "A fővárosban található specializált kertészet, amely több száz laoszi orchideafaj nemesítésének és megőrzésének szenteli magát.",
@@ -565,9 +550,8 @@ image: "/poi-images/vientiane-orchid-farm-life-v2.webp"
       de: "Nam Ha Naturschutzgebiet",
       hu: "Nam Ha Természetvédelmi Terület",
       ro: "Aria Protejată Nam Ha",
-      en: "Nam Ha National Protected Area",
-image: "/poi-images/nam-ha-protected-area-life-v2.webp"
-},
+      en: "Nam Ha National Protected Area"},
+    image: "/poi-images/nam-ha-protected-area-life-v2.webp",
     description: {
       de: "Ein weitläufiges Schutzgebiet, das berühmt für sein preisgekröntes Ökotourismus-Projekt und Trekking-Möglichkeiten im Dschungel ist.",
       hu: "Kiterjedt védett terület, amely díjnyertes ökoturisztikai projektjéről és dzsungeltúrázási lehetőségeiről híres.",
@@ -602,9 +586,8 @@ image: "/poi-images/nam-ha-protected-area-life-v2.webp"
       de: "Suan Mon Bio-Farm",
       hu: "Suan Mon Ökofarm",
       ro: "Ferma Ecologică Suan Mon",
-      en: "Suan Mon Organic Farm",
-image: "/poi-images/suan-mon-farm-life-v2.webp"
-},
+      en: "Suan Mon Organic Farm"},
+    image: "/poi-images/suan-mon-farm-life-v2.webp",
     description: {
       de: "Ein interaktiver Bio-Bauernhof, der Familien und Kindern die traditionelle laotische Landwirtschaft und nachhaltige Praktiken näherbringt.",
       hu: "Interaktív biofarm, amely megismerteti a családokkal és a gyerekekkel a hagyományos laoszi mezőgazdaságot és a fenntartható gyakorlatokat.",
@@ -639,9 +622,8 @@ image: "/poi-images/suan-mon-farm-life-v2.webp"
       de: "Mekong Uferpark",
       hu: "Mekong Parti Park",
       ro: "Parcul de pe Malul Mekongului",
-      en: "Mekong Riverside Park",
-image: "/poi-images/mekong-riverside-park-life-v2.webp"
-},
+      en: "Mekong Riverside Park"},
+    image: "/poi-images/mekong-riverside-park-life-v2.webp",
     description: {
       de: "Ein beliebter Park entlang des Flusses in Vientiane, wo Einheimische sich abends zum Sport, Spielen und Entspannen treffen.",
       hu: "Népszerű park a folyó mentén Vientiane-ban, ahol a helyiek esténként sportolni, játszani és pihenni gyűlnek össze.",
@@ -676,9 +658,8 @@ image: "/poi-images/mekong-riverside-park-life-v2.webp"
       de: "Dong Hua Sao Naturschutzgebiet",
       hu: "Dong Hua Sao Természetvédelmi Terület",
       ro: "Rezervația Dong Hua Sao",
-      en: "Dong Hua Sao National Protected Area",
-image: "/poi-images/dong-hua-sao-reserve-life-v2.webp"
-},
+      en: "Dong Hua Sao National Protected Area"},
+    image: "/poi-images/dong-hua-sao-reserve-life-v2.webp",
     description: {
       de: "Ein Naturschutzgebiet im Süden, in dem steile Klippen und tiefe Wälder den Lebensraum für wilde asiatische Elefanten und Nashornvögel bilden.",
       hu: "Természetvédelmi terület délen, ahol a meredek sziklák és mély erdők élőhelyet biztosítanak a vadon élő ázsiai elefántoknak és szarvascsőrű madaraknak.",
@@ -713,9 +694,8 @@ image: "/poi-images/dong-hua-sao-reserve-life-v2.webp"
       de: "Laotische Maulbeerfarm",
       hu: "Laoszi Eperfa Farm",
       ro: "Ferma de Duzi din Laos",
-      en: "Lao Mulberry Silk Farm",
-image: "/poi-images/lao-textile-mulberry-farm-life-v2.webp"
-},
+      en: "Lao Mulberry Silk Farm"},
+    image: "/poi-images/lao-textile-mulberry-farm-life-v2.webp",
     description: {
       de: "Eine landwirtschaftliche Einrichtung, die sich auf den Anbau von Maulbeerbäumen für die Aufzucht von Seidenraupen konzentriert.",
       hu: "Mezőgazdasági létesítmény, amely az eperfák termesztésére összpontosít a selyemhernyók tenyésztése céljából.",

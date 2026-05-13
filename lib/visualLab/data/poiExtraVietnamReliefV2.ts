@@ -11,9 +11,8 @@ export const poiExtraVietnamReliefV2: POI[] = [
       de: "Langbiang-Berg",
       hu: "Langbiang-hegy",
       ro: "Muntele Langbiang",
-      en: "Langbiang Mountain",
-image: "/poi-images/langbiang-mountain-relief-v2.webp"
-},
+      en: "Langbiang Mountain"},
+    image: "/poi-images/langbiang-mountain-relief-v2.webp",
     description: {
       de: "Ein markanter Berg in der Nähe von Đà Lạt, der aus zwei Gipfeln besteht und eine wichtige Rolle in der Kultur der lokalen Koho-Ethnie spielt.",
       hu: "Egy jellegzetes hegy Đà Lạt közelében, amely két csúcsból áll, és fontos szerepet játszik a helyi Koho etnikum kultúrájában.",
@@ -48,9 +47,8 @@ image: "/poi-images/langbiang-mountain-relief-v2.webp"
       de: "Mộc-Châu-Hochebene",
       hu: "Mộc Châu-fennsík",
       ro: "Platoul Mộc Châu",
-      en: "Mộc Châu Plateau",
-image: "/poi-images/moc-chau-plateau-relief-v2.webp"
-},
+      en: "Mộc Châu Plateau"},
+    image: "/poi-images/moc-chau-plateau-relief-v2.webp",
     description: {
       de: "Ein weites und fruchtbares Plateau in der Provinz Sơn La, bekannt für seine riesigen Teeplantagen, Milchfarmen und blühenden Obstgärten.",
       hu: "Egy tágas és termékeny fennsík Sơn La tartományban, amely hatalmas teaültetvényeiről, tejgazdaságairól és virágzó gyümölcsöseiről ismert.",
@@ -85,9 +83,8 @@ image: "/poi-images/moc-chau-plateau-relief-v2.webp"
       de: "Reisterrassen von Mù Căng Chải",
       hu: "Mù Căng Chải rizsteraszai",
       ro: "Terasele de orez Mù Căng Chải",
-      en: "Mù Căng Chải Rice Terraces",
-image: "/poi-images/mu-cang-chai-terraces-valley-v2.webp"
-},
+      en: "Mù Căng Chải Rice Terraces"},
+    image: "/poi-images/mu-cang-chai-terraces-valley-v2.webp",
     description: {
       de: "Ein atemberaubendes Tal in der Provinz Yên Bái, berühmt für seine Reisterrassen, die sich wie goldene oder grüne Wellen über die Hänge ziehen.",
       hu: "Egy lélegzetelállító völgy Yên Bái tartományban, híres rizsteraszairól, amelyek arany vagy zöld hullámokként húzódnak a lejtőkön.",
@@ -122,9 +119,8 @@ image: "/poi-images/mu-cang-chai-terraces-valley-v2.webp"
       de: "Annamitengebirge",
       hu: "Annamite-hegység",
       ro: "Munții Annamite",
-      en: "Annamite Range",
-image: "/poi-images/an-namite-range-mountain-v2.webp"
-},
+      en: "Annamite Range"},
+    image: "/poi-images/an-namite-range-mountain-v2.webp",
     description: {
       de: "Eine große Gebirgskette, die sich entlang der Grenze zwischen Vietnam und Laos erstreckt und eine wichtige biogeografische Trennlinie darstellt.",
       hu: "Egy nagy hegylánc, amely Vietnám és Laosz határa mentén húzódik, és fontos biogeográfiai elválasztóvonalat képez.",
@@ -159,9 +155,8 @@ image: "/poi-images/an-namite-range-mountain-v2.webp"
       de: "Đà-Lạt-Hochebene",
       hu: "Đà Lạt-fennsík",
       ro: "Platoul Đà Lạt",
-      en: "Đà Lạt Plateau",
-image: "/poi-images/da-lat-plateau-relief-v2.webp"
-},
+      en: "Đà Lạt Plateau"},
+    image: "/poi-images/da-lat-plateau-relief-v2.webp",
     description: {
       de: "Eine Hochebene im zentralen Hochland, auf der die Stadt Đà Lạt liegt, bekannt als 'Stadt des ewigen Frühlings' wegen ihres kühlen Klimas.",
       hu: "Egy fennsík a központi felföldön, amelyen Đà Lạt városa fekszik, és amelyet hűvös éghajlata miatt az \"örök tavasz városának\" neveznek.",
@@ -196,9 +191,8 @@ image: "/poi-images/da-lat-plateau-relief-v2.webp"
       de: "My-Khe-Strand",
       hu: "My Khe-part",
       ro: "Plaja My Khe",
-      en: "My Khe Beach",
-image: "/poi-images/my-khe-beach-coast-v2.webp"
-},
+      en: "My Khe Beach"},
+    image: "/poi-images/my-khe-beach-coast-v2.webp",
     description: {
       de: "Ein langer, breiter Sandstrand in Da Nang, der von amerikanischen Truppen während des Vietnamkriegs als Erholungsort genutzt wurde und heute ein beliebtes Touristenziel ist.",
       hu: "Egy hosszú, széles homokos strand Da Nangban, amelyet az amerikai csapatok pihenőhelyként használtak a vietnámi háború alatt, és ma népszerű turisztikai célpont.",
@@ -233,9 +227,8 @@ image: "/poi-images/my-khe-beach-coast-v2.webp"
       de: "Pu-Chi-Leng-Berg",
       hu: "Pu Chi Leng-hegy",
       ro: "Muntele Pu Chi Leng",
-      en: "Pu Chi Leng Mountain",
-image: "/poi-images/pu-chi-leng-mountain-relief-v2.webp"
-},
+      en: "Pu Chi Leng Mountain"},
+    image: "/poi-images/pu-chi-leng-mountain-relief-v2.webp",
     description: {
       de: "Ein hoher Gipfel im Hoàng-Liên-Sơn-Gebirge, der als einer der schwierigsten und lohnendsten Treks in Vietnam gilt.",
       hu: "Egy magas csúcs a Hoàng Liên Sơn-hegységben, amelyet Vietnám egyik legnehezebb és legkifizetődőbb túrájának tartanak.",
@@ -270,9 +263,8 @@ image: "/poi-images/pu-chi-leng-mountain-relief-v2.webp"
       de: "Mai-Châu-Tal",
       hu: "Mai Châu-völgy",
       ro: "Valea Mai Châu",
-      en: "Mai Châu Valley",
-image: "/poi-images/mai-chau-valley-relief-v2.webp"
-},
+      en: "Mai Châu Valley"},
+    image: "/poi-images/mai-chau-valley-relief-v2.webp",
     description: {
       de: "Ein idyllisches Tal, das von Bergen umgeben ist und für seine Reisfelder, traditionellen Stelzenhäuser und die Kultur der weißen Thai-Ethnie bekannt ist.",
       hu: "Egy idilli völgy, amelyet hegyek vesznek körül, és amely rizsföldjeiről, hagyományos cölöpházairól és a fehér thai etnikum kultúrájáról ismert.",
@@ -307,9 +299,8 @@ image: "/poi-images/mai-chau-valley-relief-v2.webp"
       de: "Bạch-Đằng-Flussmündung",
       hu: "Bạch Đằng-folyótorkolat",
       ro: "Gura râului Bạch Đằng",
-      en: "Bạch Đằng River Mouth",
-image: "/poi-images/bach-dang-river-mouth-coast-v2.webp"
-},
+      en: "Bạch Đằng River Mouth"},
+    image: "/poi-images/bach-dang-river-mouth-coast-v2.webp",
     description: {
       de: "Eine historisch bedeutsame Mündung, an der drei entscheidende Schlachten in der vietnamesischen Geschichte stattfanden, bei denen Holzpfähle zur Zerstörung feindlicher Flotten eingesetzt wurden.",
       hu: "Egy történelmileg jelentős torkolat, ahol a vietnámi történelem három döntő csatája zajlott, amelyek során facölöpöket használtak az ellenséges flották elpusztítására.",
@@ -344,9 +335,8 @@ image: "/poi-images/bach-dang-river-mouth-coast-v2.webp"
       de: "Tà-Xùa-Berg",
       hu: "Tà Xùa-hegy",
       ro: "Muntele Tà Xùa",
-      en: "Tà Xùa Mountain",
-image: "/poi-images/ta-xua-mountain-relief-v2.webp"
-},
+      en: "Tà Xùa Mountain"},
+    image: "/poi-images/ta-xua-mountain-relief-v2.webp",
     description: {
       de: "Ein Gebirge an der Grenze der Provinzen Sơn La und Yên Bái, berühmt für das Phänomen des 'Wolkenmeeres', das die Täler füllt.",
       hu: "Egy hegység Sơn La és Yên Bái tartományok határán, amely a völgyeket betöltő \"felhőtenger\" jelenségéről híres.",
@@ -381,9 +371,8 @@ image: "/poi-images/ta-xua-mountain-relief-v2.webp"
       de: "Dünen von Mũi Né",
       hu: "Mũi Né homokdűnéi",
       ro: "Dunele de nisip din Mũi Né",
-      en: "Mũi Né Sand Dunes",
-image: "/poi-images/mu-ne-dunes-coast-v2.webp"
-},
+      en: "Mũi Né Sand Dunes"},
+    image: "/poi-images/mu-ne-dunes-coast-v2.webp",
     description: {
       de: "Ein einzigartiger Küstenabschnitt, der für seine ausgedehnten roten und weißen Sanddünen bekannt ist, die eine wüstenähnliche Landschaft schaffen.",
       hu: "Egy egyedülálló tengerparti szakasz, amely kiterjedt vörös és fehér homokdűnéiről ismert, amelyek sivatagszerű tájat hoznak létre.",
@@ -418,9 +407,8 @@ image: "/poi-images/mu-ne-dunes-coast-v2.webp"
       de: "Vân-Phong-Bucht",
       hu: "Vân Phong-öböl",
       ro: "Golful Vân Phong",
-      en: "Vân Phong Bay",
-image: "/poi-images/van-phong-bay-coast-v2.webp"
-},
+      en: "Vân Phong Bay"},
+    image: "/poi-images/van-phong-bay-coast-v2.webp",
     description: {
       de: "Eine große und tiefe Bucht in der Provinz Khánh Hòa, die für ihre unberührte Schönheit, langen Sandstrände und ihr Potenzial als Tiefseehafen bekannt ist.",
       hu: "Egy nagy és mély öböl Khánh Hòa tartományban, amely érintetlen szépségéről, hosszú homokos strandjairól és mélytengeri kikötőként való potenciáljáról ismert.",
@@ -455,9 +443,8 @@ image: "/poi-images/van-phong-bay-coast-v2.webp"
       de: "Hòn-Khô-Insel",
       hu: "Hòn Khô-sziget",
       ro: "Insula Hòn Khô",
-      en: "Hòn Khô Island",
-image: "/poi-images/hon-kho-island-coast-v2.webp"
-},
+      en: "Hòn Khô Island"},
+    image: "/poi-images/hon-kho-island-coast-v2.webp",
     description: {
       de: "Eine kleine Insel in der Nähe von Quy Nhơn, die für ihre Felsenküste, Korallenriffe und einen bei Ebbe erscheinenden Unterwasserweg bekannt ist.",
       hu: "Egy kis sziget Quy Nhơn közelében, amely sziklás partjáról, korallzátonyairól és egy apálykor megjelenő víz alatti ösvényről ismert.",
@@ -492,9 +479,8 @@ image: "/poi-images/hon-kho-island-coast-v2.webp"
       de: "Cô-Tô-Insel",
       hu: "Cô Tô-sziget",
       ro: "Insula Cô Tô",
-      en: "Cô Tô Island",
-image: "/poi-images/co-to-island-coast-v2.webp"
-},
+      en: "Cô Tô Island"},
+    image: "/poi-images/co-to-island-coast-v2.webp",
     description: {
       de: "Ein Archipel in der Provinz Quảng Ninh, der für seine unberührten Strände, felsigen Klippen und klaren blauen Gewässer bekannt ist.",
       hu: "Egy szigetcsoport Quảng Ninh tartományban, amely érintetlen strandjairól, sziklás szirtjeiről és tiszta kék vizéről ismert.",
@@ -529,9 +515,8 @@ image: "/poi-images/co-to-island-coast-v2.webp"
       de: "Küste von Phú Yên",
       hu: "Phú Yên partvidéke",
       ro: "Coasta Phú Yên",
-      en: "Phú Yên Coastline",
-image: "/poi-images/phu-yen-coastline-relief-v2.webp"
-},
+      en: "Phú Yên Coastline"},
+    image: "/poi-images/phu-yen-coastline-relief-v2.webp",
     description: {
       de: "Eine malerische und vielfältige Küstenlinie mit einzigartigen geologischen Formationen wie Gành Đá Đĩa, langen Sandstränden und ruhigen Buchten.",
       hu: "Egy festői és változatos partvonal egyedülálló geológiai képződményekkel, mint például a Gành Đá Đĩa, hosszú homokos strandokkal és csendes öblökkel.",
@@ -566,9 +551,8 @@ image: "/poi-images/phu-yen-coastline-relief-v2.webp"
       de: "Küste von Ninh Thuận",
       hu: "Ninh Thuận partvidéke",
       ro: "Coasta Ninh Thuận",
-      en: "Ninh Thuận Coastline",
-image: "/poi-images/ninh-thuan-coastline-desert-v2.webp"
-},
+      en: "Ninh Thuận Coastline"},
+    image: "/poi-images/ninh-thuan-coastline-desert-v2.webp",
     description: {
       de: "Vietnams trockenste Küstenregion, die eine einzigartige Landschaft aus Sanddünen, felsigen Kaps und Weinbergen aufweist und an eine Halbwüste erinnert.",
       hu: "Vietnám legszárazabb tengerparti régiója, amely egyedülálló tájat kínál homokdűnékkel, sziklás fokokkal és szőlőültetvényekkel, félsivatagra emlékeztetve.",
@@ -603,9 +587,8 @@ image: "/poi-images/ninh-thuan-coastline-desert-v2.webp"
       de: "Küste von Quảng Bình",
       hu: "Quảng Bình partvidéke",
       ro: "Coasta Quảng Bình",
-      en: "Quảng Bình Coast",
-image: "/poi-images/quang-binh-coast-v2.webp"
-},
+      en: "Quảng Bình Coast"},
+    image: "/poi-images/quang-binh-coast-v2.webp",
     description: {
       de: "Eine lange Küstenlinie mit wunderschönen, unberührten Sandstränden und Fischerdörfern, die als Tor zum Nationalpark Phong Nha-Kẻ Bàng dient.",
       hu: "Egy hosszú partvonal gyönyörű, érintetlen homokos strandokkal és halászfalvakkal, amely kapuként szolgál a Phong Nha-Kẻ Bàng Nemzeti Parkhoz.",
@@ -640,9 +623,8 @@ image: "/poi-images/quang-binh-coast-v2.webp"
       de: "Ngang-Pass",
       hu: "Ngang-hágó",
       ro: "Pasul Ngang",
-      en: "Ngang Pass",
-image: "/poi-images/deo-ngang-pass-mountain-v2.webp"
-},
+      en: "Ngang Pass"},
+    image: "/poi-images/deo-ngang-pass-mountain-v2.webp",
     description: {
       de: "Ein historischer Gebirgspass, der die Provinzen Hà Tĩnh und Quảng Bình trennt und in der vietnamesischen Literatur und Geschichte oft erwähnt wird.",
       hu: "Egy történelmi hegyi hágó, amely elválasztja Hà Tĩnh és Quảng Bình tartományokat, és gyakran szerepel a vietnámi irodalomban és történelemben.",
@@ -677,9 +659,8 @@ image: "/poi-images/deo-ngang-pass-mountain-v2.webp"
       de: "Bà-Nà-Hügel",
       hu: "Bà Nà-hegyek",
       ro: "Dealurile Bà Nà",
-      en: "Bà Nà Hills",
-image: "/poi-images/ba-na-hills-mountain-v2.webp"
-},
+      en: "Bà Nà Hills"},
+    image: "/poi-images/ba-na-hills-mountain-v2.webp",
     description: {
       de: "Ein Bergresort westlich von Da Nang, das als französische Kolonialstation gegründet wurde und heute für seine Seilbahnen, sein nachgebautes französisches Dorf und die Goldene Brücke bekannt ist.",
       hu: "Egy hegyi üdülőhely Da Nangtól nyugatra, amelyet francia gyarmati állomásként alapítottak, és ma felvonóiról, újraépített francia falujáról és az Arany hídról ismert.",
@@ -714,9 +695,8 @@ image: "/poi-images/ba-na-hills-mountain-v2.webp"
       de: "Mường-Hoa-Tal",
       hu: "Mường Hoa-völgy",
       ro: "Valea Mường Hoa",
-      en: "Mường Hoa Valley",
-image: "/poi-images/muong-hoa-valley-relief-v2.webp"
-},
+      en: "Mường Hoa Valley"},
+    image: "/poi-images/muong-hoa-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal in der Nähe von Sa Pa, bekannt für seine Reisterrassen, den gewundenen Mường-Hoa-Fluss und alte Felsgravuren.",
       hu: "Egy festői völgy Sa Pa közelében, amely rizsteraszairól, a kanyargó Mường Hoa folyóról és ősi sziklavésetekről ismert.",

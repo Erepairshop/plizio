@@ -15,14 +15,11 @@ export const poiExtraEquatorialguineaLandmarksV2: POI[] = [
     ,
     descriptionAdvanced: { hu: "A Malabói Nemzeti Stadion (Estadio Nacional de Malabo) Egyenlítői-Gínea legfontosabb sportlétesítménye, amely a főváros modern negyedében található. A 2007-ben átadott, majd a 2012-es és 2015-ös Afrikai Nemzetek Kupájára (AFCON) felújított stadion 15 250 néző befogadására alkalmas. Modern, fedett lelátói és kiváló minőségű gyepszőnyege a nemzetközi standardoknak is megfelel. A stadion nemcsak a nemzeti labdarúgó-válogatott otthona, hanem számos kulturális esemény és állami ünnepség helyszíne is. Az építmény körül profi atlétikai pálya és edzőpályák találhatók, segítve az ország sportéletének fejlődését. A stadion Malabo modernizációjának egyik büszke jelképe.", ro: "Stadionul Național din Malabo este o facilitate sportivă de elită din Guineea Ecuatorială și un simbol al eforturilor națiunii de a găzdui evenimente internaționale majore. Inaugurat în anul 2007, cu o capacitate de aproximativ 15.250 de spectatori, acesta a câștigat o importanță globală ca loc principal de desfășurare a Cupei Africii pe Națiuni în 2012. Complexul modern dispune de un gazon de fotbal de înaltă calitate, o pistă de atletism profesională și facilități avansate pentru sportivi și presă. Fiind terenul propriu al echipei naționale de fotbal, cunoscută sub numele de 'Nzalang Nacional', stadionul reprezintă un punct central pentru mândria națională și cultura sportivă. Dezvoltarea sa reflectă angajamentul guvernului față de modernizarea infrastructurii atletice a țării, fiind un motor pentru evenimentele comunitare din capitală.",
       de: "Das Nationalstadion von Malabo ist eine zentrale Sportstätte Äquatorialguineas und ein Symbol für die Bemühungen des Landes, internationale Großereignisse auszurichten. Mit einer Kapazität von etwa 15.250 Zuschauern wurde es 2007 eröffnet und erlangte durch die Austragung des Afrika-Cups 2012 weltweite Aufmerksamkeit. Die moderne Anlage bietet neben einem hochwertigen Fußballfeld auch eine Leichtathletikbahn und dient als Heimspielstätte der äquatorialguineischen Nationalmannschaft, bekannt als 'Nzalang Nacional'. Als eines der wichtigsten sportlichen Zentren des Landes spielt das Stadion eine bedeutende Rolle im gesellschaftlichen Leben Malabos und ist Ausdruck einer modernen Sportinfrastruktur. Sport K6, Architektur K8.",
-      en: "The Malabo National Stadium is a premier sports facility in Equatorial Guinea and a symbol of the nation's efforts to host major international events. Opened in 2007 with a capacity of approximately 15,250 spectators, it gained global prominence as a key venue for the 2012 Africa Cup of Nations. The modern complex features a high-quality grass football pitch, a professional athletics track, and advanced facilities for athletes and media. As the home ground for the national football team, known as 'Nzalang Nacional', the stadium is a focal point for national pride and sports culture. Its development reflects the government's commitment to modernizing the country's athletic infrastructure. Curriculum: Sports K6, Architecture K8.",
-image: "/poi-images/malabo-national-stadium-landmarks-v2.webp"
-},
+      en: "The Malabo National Stadium is a premier sports facility in Equatorial Guinea and a symbol of the nation's efforts to host major international events. Opened in 2007 with a capacity of approximately 15,250 spectators, it gained global prominence as a key venue for the 2012 Africa Cup of Nations. The modern complex features a high-quality grass football pitch, a professional athletics track, and advanced facilities for athletes and media. As the home ground for the national football team, known as 'Nzalang Nacional', the stadium is a focal point for national pride and sports culture. Its development reflects the government's commitment to modernizing the country's athletic infrastructure. Curriculum: Sports K6, Architecture K8."},
     factsAdvanced: { hu: ["15 250 férőhelyes, többfunkciós sportlétesítmény Malabóban.", "Két Afrikai Nemzetek Kupája (2012, 2015) helyszíne volt.", "Modern atlétikai pályával és VIP páholyokkal felszerelt.", "Az Egyenlítői-gíneai labdarúgó-válogatott elsődleges otthona.", "A stadion éjszakai kivilágítása meghatározó a városképben.", "A sportkomplexumhoz teniszpályák és uszoda is tartozik."], ro: ["Inaugurat oficial în 2007 pentru evenimente naționale.", "A servit ca loc principal de desfășurare a Cupei Africii 2012.", "Terenul oficial al echipei naționale de fotbal Nzalang Nacional.", "Dotat cu o pistă de atletism la standarde profesionale.", "Punct central pentru sport și evenimente comunitare în Malabo.", "Proiectat să respecte standardele internaționale FIFA și CAF.", "Reprezintă modernizarea infrastructurii sportive din Insula Bioko."],
       de: ["Kapazität von rund 15.250 Plätzen.", "Eröffnet im Jahr 2007 für nationale und internationale Events.", "Hauptspielort für internationale Fußballbegegnungen.", "Besitzt eine voll ausgestattete Leichtathletikanlage.", "Heimstätte der Nationalmannschaft 'Nzalang Nacional'."],
-      en: ["Features a seating capacity of approximately 15,250.", "Opened in 2007 for both national and international events.", "Home ground for the national football team, 'Nzalang Nacional'.", "Equipped with a professional-grade athletics track.", "A central hub for sports and community events in the capital.", "Designed to meet international FIFA and CAF standards."]
-    }
-  },
+      en: ["Features a seating capacity of approximately 15,250.", "Opened in 2007 for both national and international events.", "Home ground for the national football team, 'Nzalang Nacional'.", "Equipped with a professional-grade athletics track.", "A central hub for sports and community events in the capital.", "Designed to meet international FIFA and CAF standards."] } },
+    image: "/poi-images/malabo-national-stadium-landmarks-v2.webp",
     description: {
       de: "Ein modernes Mehrzweckstadion in Malabo, das als Heimspielstätte der Fußballnationalmannschaft dient.",
       hu: "Modern többfunkciós stadion Malabóban, amely a nemzeti labdarúgó-válogatott hazai pályája.",
@@ -48,14 +45,11 @@ image: "/poi-images/malabo-national-stadium-landmarks-v2.webp"
     ,
     descriptionAdvanced: { hu: "A Batái Stadion (Estadio de Bata) az ország legnagyobb stadionja, amely a szárazföldi régió központjában található. A létesítmény eredetileg kisebbnek épült, de a 2012-es Afrikai Nemzetek Kupájára 35 700 férőhelyesre bővítették, modern tetőszerkezettel ellátva. Itt rendezték meg a 2012-es AFCON nyitómérkőzését és a 2015-ös torna döntőjét is, ami sporttörténeti jelentőséget ad a helyszínnek. A stadion impozáns méreteivel és modern technikai felszereltségével a régió egyik legjobb arénája. Bata városának ez a legfontosabb közösségi tere, ahol a sport mellett nagykoncerteket és nemzeti fesztiválokat is rendeznek, összefogva a szárazföldi lakosságot.", ro: "Stadionul din Bata este cea mai mare arenă sportivă din Guineea Ecuatorială și un punct de reper al dezvoltării regiunii continentale. În urma unei modernizări extinse pentru rolul său de gazdă principală a Cupei Africii pe Națiuni din 2015, stadionul are acum o capacitate de peste 35.000 de spectatori. Acesta servește ca un loc iconic nu doar pentru meciuri de fotbal de nivel înalt, ci și pentru sărbători naționale semnificative și evenimente de stat în orașul Bata. Arhitectura și scara sa impresionantă demonstrează ambiția națiunii de a se stabili ca un jucător major în sportul african. Stadionul este un element cheie al peisajului urban și un centru pentru activitatea socială și atletică în provincia Litoral, fiind echipat cu infrastructură modernă de iluminat și media.",
       de: "Das Stadion von Bata ist die größte Sportarena Äquatorialguineas und ein Wahrzeichen der sportlichen Ambitionen der Festlandregion. Nach umfangreichen Modernisierungen, die unter anderem für die Rolle als einer der Hauptaustragungsorte des Afrika-Cups 2015 erfolgten, bietet das Stadion Platz für über 35.000 Zuschauer. Es ist nicht nur ein Ort für sportliche Höchstleistungen, sondern dient auch als symbolträchtige Arena für große nationale Feierlichkeiten und staatliche Events in Bata. Die Arena zeigt deutlich das Bestreben des Landes, sich als Akteur im afrikanischen Sport zu etablieren und die Infrastruktur auf dem Festland massiv auszubauen. Sport K7, Geografie K8.",
-      en: "The Bata Stadium is the largest sports arena in Equatorial Guinea and a landmark of the continental region's development. Following extensive modernization for its role as a primary host for the 2015 Africa Cup of Nations, the stadium now accommodates over 35,000 spectators. It serves as an iconic venue not only for high-level football matches but also for significant national celebrations and state events in the city of Bata. The stadium's impressive architecture and scale demonstrate the nation's ambition to establish itself as a major player in African sports. It is a key element of the urban landscape and a center for social and athletic activity in the Litoral Province. Curriculum: Sports K7, Geography K8.",
-image: "/poi-images/bata-stadium-landmarks-v2.webp"
-},
+      en: "The Bata Stadium is the largest sports arena in Equatorial Guinea and a landmark of the continental region's development. Following extensive modernization for its role as a primary host for the 2015 Africa Cup of Nations, the stadium now accommodates over 35,000 spectators. It serves as an iconic venue not only for high-level football matches but also for significant national celebrations and state events in the city of Bata. The stadium's impressive architecture and scale demonstrate the nation's ambition to establish itself as a major player in African sports. It is a key element of the urban landscape and a center for social and athletic activity in the Litoral Province. Curriculum: Sports K7, Geography K8."},
     factsAdvanced: { hu: ["Az ország legnagyobb stadionja, 35 700 néző befogadására alkalmas.", "Teljesen fedett nézőtérrel és modern média-központtal rendelkezik.", "A stadion Bata városának egyik leglátványosabb építészeti alkotása.", "A gyepszőnyeg alatt modern öntöző- és vízelvezető rendszer működik.", "Számos nemzetközi barátságos mérkőzés házigazdája volt."], ro: ["Cel mai mare stadion din țară, cu peste 35.000 de locuri.", "Gazdă principală pentru Cupa Africii pe Națiuni în 2015.", "Dispune de facilități moderne conform standardelor internaționale.", "Punct de reper semnificativ pentru dezvoltarea urbană a orașului Bata.", "Utilizat pentru parade naționale, concerte și evenimente de stat.", "Simbolizează creșterea culturii sportive pe continent.", "Echipat cu sisteme avansate de iluminat și infrastructură media.", "Locația centrală pentru sport în provincia Litoral."],
       de: ["Größte Sportarena des Landes mit über 35.000 Plätzen.", "Hauptaustragungsort des Afrika-Cups 2015 in Äquatorialguinea.", "Wichtiges Wahrzeichen für die Entwicklung von Bata.", "Modernste Ausstattung für internationale Turniere.", "Symbol für den wachsenden Stellenwert des Sports in der Region.", "Zentrum großer nationaler Veranstaltungen."],
-      en: ["The largest stadium in the country with over 35,000 seats.", "Features modern facilities for international tournament standards.", "Significant landmark for the rapid urban development of Bata.", "Used for national parades, concerts, and major state events.", "Symbolizes the growth of sports culture on the mainland.", "Equipped with advanced lighting and media infrastructure."]
-    }
-  },
+      en: ["The largest stadium in the country with over 35,000 seats.", "Features modern facilities for international tournament standards.", "Significant landmark for the rapid urban development of Bata.", "Used for national parades, concerts, and major state events.", "Symbolizes the growth of sports culture on the mainland.", "Equipped with advanced lighting and media infrastructure."] } },
+    image: "/poi-images/bata-stadium-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion Äquatorialguineas, gelegen in der Hafenstadt Bata auf dem Festland.",
       hu: "Egyenlítői-Guinea legnagyobb stadionja, amely a szárazföldi Bata kikötővárosában található.",
@@ -77,9 +71,8 @@ image: "/poi-images/bata-stadium-landmarks-v2.webp"
       de: "Volkspalast von Malabo",
       hu: "Malabói néppalota",
       ro: "Palatul Poporului din Malabo",
-      en: "People's Palace of Malabo",
-image: "/poi-images/palacio-del-pueblo-malabo-landmarks-v2.webp"
-},
+      en: "People's Palace of Malabo"},
+    image: "/poi-images/palacio-del-pueblo-malabo-landmarks-v2.webp",
     description: {
       de: "Ein prächtiges Regierungsgebäude im Zentrum von Malabo, das für offizielle staatliche Anlässe genutzt wird.",
       hu: "Pompás kormányzati épület Malabo központjában, amelyet hivatalos állami eseményekre használnak.",
@@ -113,9 +106,8 @@ image: "/poi-images/palacio-del-pueblo-malabo-landmarks-v2.webp"
       de: "Mbini-Brücke",
       hu: "Mbini-híd",
       ro: "Podul Mbini",
-      en: "Mbini Bridge",
-image: "/poi-images/mbini-bridge-landmarks-v2.webp"
-},
+      en: "Mbini Bridge"},
+    image: "/poi-images/mbini-bridge-landmarks-v2.webp",
     description: {
       de: "Eine der längsten Brücken Afrikas, die den Benito-Fluss überspannt und Bata mit dem Süden verbindet.",
       hu: "Afrika egyik leghosszabb hídja, amely a Benito-folyón ível át, összekötve Batát a déli területekkel.",
@@ -215,9 +207,8 @@ image: "/poi-images/grand-hotel-djibloho-landmarks-v2.webp"
       de: "Kathedrale von Bata",
       hu: "Bata székesegyház",
       ro: "Catedrala din Bata",
-      en: "Cathedral of Bata",
-image: "/poi-images/cathedral-of-bata-landmarks-v2.webp"
-},
+      en: "Cathedral of Bata"},
+    image: "/poi-images/cathedral-of-bata-landmarks-v2.webp",
     description: {
       de: "Die zentrale katholische Kathedrale von Bata, bekannt für ihre charakteristische rote Fassade.",
       hu: "Bata központi katolikus székesegyháza, amely jellegzetes vörös homlokzatáról ismert.",
@@ -255,14 +246,11 @@ image: "/poi-images/cathedral-of-bata-landmarks-v2.webp"
     ,
     descriptionAdvanced: { hu: "A 7M Mártírok Emlékműve Batában a 2021. március 7-én történt tragikus robbanássorozat áldozatainak állít emléket. A Nkoa-Ntoma katonai bázison bekövetkezett baleset az ország történetének egyik legsúlyosabb tragédiája volt, amelyben több mint százan vesztették életüket és ezrek sérültek meg. Az emlékmű a nemzeti gyász, a szolidaritás és az újjáépítés szimbólumává vált. A modern kialakítású emlékhely nevekkel és szimbolikus motívumokkal tiszteleg az elhunytak előtt, emlékeztetve a látogatókat a közösségi összefogás erejére a bajban. Az emlékmű körüli park csendes helyet biztosít a megemlékezésre és az áldozatok előtti tiszteletadásra Bata városában.", ro: "Monumentul Martirilor de la 7 Martie din Bata a fost ridicat în memoria victimelor tragicei explozii de la cazarma Nkoantoma din 2021. Acest monument solemn servește drept loc de reculegere națională și omagiu adus celor care și-au pierdut viața în cel mai grav accident industrial din istoria țării. Designul său arhitectural transmite un mesaj de reziliență, unitate și speranță pentru viitor, fiind un punct central pentru ceremoniile anuale de comemorare. Situat într-o zonă accesibilă a orașului Bata, monumentul a devenit rapid un simbol al solidarității poporului din Guineea Ecuatorială în fața adversității. Este un loc care invită la reflecție asupra importanței securității naționale și a sprijinului reciproc în momente de criză.",
       de: "Das Denkmal der Märtyrer vom 7. März in Bata ist ein Mahnmal, das tief in das kollektive Gedächtnis des Landes eingegangen ist. Es erinnert an die Opfer der verheerenden Explosionen vom 7. März 2021 im Militärlager Nkoantoma, einer Tragödie, die die Stadt Bata tief erschütterte. Das Monument ist nicht nur ein Ort des Gedenkens und der nationalen Reflexion, sondern auch ein architektonisches Zeichen der Solidarität und der Stärke der Bewohner von Bata. Sein modernes Design und die hohe symbolische Bedeutung machen es zu einem zentralen Punkt für Gedenkfeiern und zum Nachdenken über die Fragilität und den Zusammenhalt in Krisenzeiten. Geschichte K8, Soziologie K7.",
-      en: "The 7M Martyrs Monument in Bata is a somber and powerful memorial dedicated to the victims of the devastating explosions that occurred at the Nkoantoma military base on March 7, 2021. This tragic event deeply impacted the city and the entire nation, and the monument serves as a place of collective remembrance and national reflection. Its modern, minimalist design is intended to evoke a sense of solemnity and solidarity with the families of the victims. The monument has become a central point for annual memorial services, reminding citizens of the fragility of life and the strength of the community in times of crisis. It stands as a symbol of national healing and resilience. Curriculum: History K8, Sociology K7.",
-image: "/poi-images/martyrs-7m-monument-landmarks-v2.webp"
-},
+      en: "The 7M Martyrs Monument in Bata is a somber and powerful memorial dedicated to the victims of the devastating explosions that occurred at the Nkoantoma military base on March 7, 2021. This tragic event deeply impacted the city and the entire nation, and the monument serves as a place of collective remembrance and national reflection. Its modern, minimalist design is intended to evoke a sense of solemnity and solidarity with the families of the victims. The monument has become a central point for annual memorial services, reminding citizens of the fragility of life and the strength of the community in times of crisis. It stands as a symbol of national healing and resilience. Curriculum: History K8, Sociology K7."},
     factsAdvanced: { hu: ["A 2021. március 7-i batái robbanások áldozatainak emlékhelye.", "Bata városában, a tragédia közelében épült fel.", "A nemzeti egység és az újjáépítési akarat szimbóluma.", "Az emlékművön szerepelnek az azonosított áldozatok nevei.", "Évente tartanak itt állami megemlékezéseket a tragédia napján.", "Környezete meditációra és csendes pihenésre alkalmas parkosított terület."], ro: ["Comemorează victimele exploziilor de la Bata din 7 martie 2021.", "Situat în orașul Bata, principalul centru economic al continentului.", "Loc oficial pentru depunerea de coroane și ceremonii de stat.", "Arhitectura sa simbolizează unitatea națională și renașterea.", "Finanțat prin contribuții guvernamentale și donații de solidaritate.", "Punct de reper esențial pentru istoria recentă a țării.", "Zonă amenajată pentru vizitatori și momente de liniște.", "Reflectă recunoștința națiunii față de echipele de intervenție."],
       de: ["Gedenkstätte für die Opfer der Explosionen vom 7. März 2021.", "Wichtiger Ort für das nationale Gedenken und die Trauerarbeit.", "Modernes, minimalistisches Design mit großer Wirkung.", "Ein Symbol für den Zusammenhalt der Menschen in Bata.", "Wird regelmäßig für offizielle Gedenkveranstaltungen genutzt.", "Steht für die Bewältigung nationaler Traumata."],
-      en: ["Memorializes the victims of the March 7, 2021 base explosions.", "A vital site for national mourning and collective memory.", "Features a modern design with high symbolic and emotional value.", "A symbol of the resilience and unity of the people of Bata.", "Host to official annual memorial ceremonies and vigils.", "Reflects the nation's efforts to honor and support survivors.", "Located near the site of the historical tragedy in Rio Muni."]
-    }
-  },
+      en: ["Memorializes the victims of the March 7, 2021 base explosions.", "A vital site for national mourning and collective memory.", "Features a modern design with high symbolic and emotional value.", "A symbol of the resilience and unity of the people of Bata.", "Host to official annual memorial ceremonies and vigils.", "Reflects the nation's efforts to honor and support survivors.", "Located near the site of the historical tragedy in Rio Muni."] } },
+    image: "/poi-images/martyrs-7m-monument-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Bata, das den Opfern der verheerenden Explosionen in der Kaserne von Nkoantoma gedenkt.",
       hu: "Emlékmű Batában, amely a nkoantomai laktanyában történt pusztító robbanások áldozatainak állít emléket.",
@@ -284,9 +272,8 @@ image: "/poi-images/martyrs-7m-monument-landmarks-v2.webp"
       de: "UNGE-Campus Malabo",
       hu: "UNGE Campus Malabo",
       ro: "Campusul UNGE Malabo",
-      en: "UNGE Campus Malabo",
-image: "/poi-images/unge-campus-malabo-landmarks-v2.webp"
-},
+      en: "UNGE Campus Malabo"},
+    image: "/poi-images/unge-campus-malabo-landmarks-v2.webp",
     description: {
       de: "Der Hauptcampus der Nationaluniversität von Äquatorialguinea in der Hauptstadt Malabo.",
       hu: "Az Egyenlítői-Guineai Nemzeti Egyetem fő kampusza a fővárosban, Malabóban.",
@@ -352,9 +339,8 @@ image: "/poi-images/gepetrol-headquarters-landmarks-v2.webp"
       de: "Ngolo-Konferenzzentrum",
       hu: "Ngolo konferenciaközpont",
       ro: "Centrul de Conferințe Ngolo",
-      en: "Ngolo Conference Center",
-image: "/poi-images/ngolo-conference-center-landmarks-v2.webp"
-},
+      en: "Ngolo Conference Center"},
+    image: "/poi-images/ngolo-conference-center-landmarks-v2.webp",
     description: {
       de: "Ein bedeutendes Veranstaltungszentrum in Bata, das für regionale Konferenzen und kulturelle Events genutzt wird.",
       hu: "Jelentős rendezvényközpont Batában, amelyet regionális konferenciákra és kulturális eseményekre használnak.",
@@ -387,9 +373,8 @@ image: "/poi-images/ngolo-conference-center-landmarks-v2.webp"
       de: "Fernsehturm Pico Basile",
       hu: "Pico Basile tévétorony",
       ro: "Turnul TV Pico Basile",
-      en: "Pico Basile Tower",
-image: "/poi-images/pico-basile-tower-landmarks-v2.webp"
-},
+      en: "Pico Basile Tower"},
+    image: "/poi-images/pico-basile-tower-landmarks-v2.webp",
     description: {
       de: "Die markante Sendeanlage auf dem Gipfel des Pico Basile, der höchste Punkt der Insel Bioko.",
       hu: "Jellegzetes adótorony a Pico Basile csúcsán, Bioko szigetének legmagasabb pontján.",
@@ -422,9 +407,8 @@ image: "/poi-images/pico-basile-tower-landmarks-v2.webp"
       de: "Spanisches Kulturzentrum Malabo",
       hu: "Malabói spanyol kulturális központ",
       ro: "Centrul Cultural al Spaniei din Malabo",
-      en: "Spanish Cultural Center in Malabo",
-image: "/poi-images/ccem-malabo-landmarks-v2.webp"
-},
+      en: "Spanish Cultural Center in Malabo"},
+    image: "/poi-images/ccem-malabo-landmarks-v2.webp",
     description: {
       de: "Ein lebendiger Ort der Kultur und Bildung im historischen Viertel von Malabo.",
       hu: "A kultúra és az oktatás élénk központja Malabo történelmi negyedében.",
@@ -457,9 +441,8 @@ image: "/poi-images/ccem-malabo-landmarks-v2.webp"
       de: "CEEAC-Gebäude Malabo",
       hu: "CEEAC épület Malabo",
       ro: "Clădirea CEEAC Malabo",
-      en: "CEEAC Building Malabo",
-image: "/poi-images/ceeac-building-malabo-landmarks-v2.webp"
-},
+      en: "CEEAC Building Malabo"},
+    image: "/poi-images/ceeac-building-malabo-landmarks-v2.webp",
     description: {
       de: "Das repräsentative Gebäude der Zentralafrikanischen Wirtschaftsgemeinschaft in Malabo II.",
       hu: "A Közép-afrikai Államok Gazdasági Közösségének reprezentatív épülete Malabo II-ben.",
@@ -493,9 +476,8 @@ image: "/poi-images/ceeac-building-malabo-landmarks-v2.webp"
       de: "Marimba-Denkmal von Bata",
       hu: "Bata marimba-emlékmű",
       ro: "Monumentul Marimba din Bata",
-      en: "Marimba Monument of Bata",
-image: "/poi-images/marimba-monument-bata-landmarks-v2.webp"
-},
+      en: "Marimba Monument of Bata"},
+    image: "/poi-images/marimba-monument-bata-landmarks-v2.webp",
     description: {
       de: "Ein künstlerisches Monument in Bata, das dem traditionellen Musikinstrument Marimba gewidmet ist.",
       hu: "Művészi emlékmű Batában, amelyet a hagyományos marimba hangszernek szenteltek.",
@@ -528,9 +510,8 @@ image: "/poi-images/marimba-monument-bata-landmarks-v2.webp"
       de: "Hafen von Luba (Erweiterung)",
       hu: "Lubai kikötő (bővítés)",
       ro: "Portul Luba (extindere)",
-      en: "Luba Port (Expansion)",
-image: "/poi-images/luba-port-expansion-landmarks-v2.webp"
-},
+      en: "Luba Port (Expansion)"},
+    image: "/poi-images/luba-port-expansion-landmarks-v2.webp",
     description: {
       de: "Die modernen Hafenanlagen von Luba, ein strategisches Logistikzentrum für die Öl- und Gasindustrie.",
       hu: "Luba modern kikötői létesítményei, az olaj- és gázipar stratégiai logisztikai központja.",
@@ -565,9 +546,8 @@ image: "/poi-images/luba-port-expansion-landmarks-v2.webp"
       de: "Flughafen Annobón (Terminal)",
       hu: "Annobón repülőtér (terminál)",
       ro: "Aeroportul Annobón (terminal)",
-      en: "Annobón Airport (Terminal)",
-image: "/poi-images/annobon-airport-terminal-landmarks-v2.webp"
-},
+      en: "Annobón Airport (Terminal)"},
+    image: "/poi-images/annobon-airport-terminal-landmarks-v2.webp",
     description: {
       de: "Das moderne Terminalgebäude des Flughafens auf der abgelegenen Insel Annobón.",
       hu: "A távoli Annobón szigetén található repülőtér modern terminálépülete.",
@@ -602,9 +582,8 @@ image: "/poi-images/annobon-airport-terminal-landmarks-v2.webp"
       de: "Ministerium für Bergbau",
       hu: "Bányászati Minisztérium",
       ro: "Ministerul Minelor",
-      en: "Ministry of Mines",
-image: "/poi-images/ministry-of-mines-malabo-landmarks-v2.webp"
-},
+      en: "Ministry of Mines"},
+    image: "/poi-images/ministry-of-mines-malabo-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes Regierungsgebäude in Malabo II, das den Bergbau- und Energiesektor verwaltet.",
       hu: "Lenyűgöző kormányzati épület Malabo II-ben, amely a bányászati és energiaágazatot irányítja.",
@@ -639,9 +618,8 @@ image: "/poi-images/ministry-of-mines-malabo-landmarks-v2.webp"
       de: "Frauenplatz von Bata",
       hu: "Bata női tér",
       ro: "Piața Femeii din Bata",
-      en: "Plaza de la Mujer (Bata)",
-image: "/poi-images/plaza-de-la-mujer-bata-landmarks-v2.webp"
-},
+      en: "Plaza de la Mujer (Bata)"},
+    image: "/poi-images/plaza-de-la-mujer-bata-landmarks-v2.webp",
     description: {
       de: "Ein bedeutender öffentlicher Platz in Bata, der der Rolle der Frauen in der Gesellschaft gewidmet ist.",
       hu: "Jelentős közösségi tér Batában, amelyet a nők társadalomban betöltött szerepének szenteltek.",
@@ -676,9 +654,8 @@ image: "/poi-images/plaza-de-la-mujer-bata-landmarks-v2.webp"
       de: "Neues Rathaus von Bata",
       hu: "Bata új városháza",
       ro: "Noua Primărie din Bata",
-      en: "New Bata City Hall",
-image: "/poi-images/bata-city-hall-new-landmarks-v2.webp"
-},
+      en: "New Bata City Hall"},
+    image: "/poi-images/bata-city-hall-new-landmarks-v2.webp",
     description: {
       de: "Das moderne Verwaltungsgebäude der Stadt Bata, ein Symbol für urbane Erneuerung.",
       hu: "Bata városának modern közigazgatási épülete, a városi megújulás szimbóluma.",
@@ -713,9 +690,8 @@ image: "/poi-images/bata-city-hall-new-landmarks-v2.webp"
       de: "Freundschaftsbrücke (Djibloho)",
       hu: "Barátság híd (Djibloho)",
       ro: "Podul Prieteniei (Djibloho)",
-      en: "Friendship Bridge (Djibloho)",
-image: "/poi-images/friendship-bridge-djibloho-landmarks-v2.webp"
-},
+      en: "Friendship Bridge (Djibloho)"},
+    image: "/poi-images/friendship-bridge-djibloho-landmarks-v2.webp",
     description: {
       de: "Eine elegante neue Brücke in Ciudad de la Paz, die über den Wele-Fluss führt.",
       hu: "Elegáns új híd Ciudad de la Paz-ban, amely a Wele-folyón ível át.",
@@ -750,9 +726,8 @@ image: "/poi-images/friendship-bridge-djibloho-landmarks-v2.webp"
       de: "Allgemeines Krankenhaus Malabo",
       hu: "Malabói Általános Kórház",
       ro: "Spitalul General Malabo",
-      en: "Malabo General Hospital",
-image: "/poi-images/malabo-general-hospital-landmarks-v2.webp"
-},
+      en: "Malabo General Hospital"},
+    image: "/poi-images/malabo-general-hospital-landmarks-v2.webp",
     description: {
       de: "Das größte und modernste medizinische Versorgungszentrum der Insel Bioko.",
       hu: "Bioko szigetének legnagyobb és legmodernebb orvosi ellátó központja.",
@@ -787,9 +762,8 @@ image: "/poi-images/malabo-general-hospital-landmarks-v2.webp"
       de: "BEAC-Gebäude Malabo",
       hu: "BEAC épület Malabo",
       ro: "Clădirea BEAC Malabo",
-      en: "BEAC Building Malabo",
-image: "/poi-images/beac-building-malabo-landmarks-v2.webp"
-},
+      en: "BEAC Building Malabo"},
+    image: "/poi-images/beac-building-malabo-landmarks-v2.webp",
     description: {
       de: "Der repräsentative Sitz der Zentralafrikanischen Zentralbank in der Hauptstadt Malabo.",
       hu: "A Közép-afrikai Államok Bankjának reprezentatív székhelye a fővárosban, Malabóban.",
@@ -824,9 +798,8 @@ image: "/poi-images/beac-building-malabo-landmarks-v2.webp"
       de: "Einkaufszentrum Malabo",
       hu: "Malabo Mall",
       ro: "Malabo Mall",
-      en: "Malabo Mall",
-image: "/poi-images/malabo-mall-landmarks-v2.webp"
-},
+      en: "Malabo Mall"},
+    image: "/poi-images/malabo-mall-landmarks-v2.webp",
     description: {
       de: "Das größte moderne Einkaufs- und Freizeitzentrum in Äquatorialguinea.",
       hu: "Egyenlítői-Guinea legnagyobb modern bevásárló- és szórakoztató központja.",
@@ -861,9 +834,8 @@ image: "/poi-images/malabo-mall-landmarks-v2.webp"
       de: "San-Fernando-Kirche Malabo",
       hu: "Szent Ferdinánd-templom Malabo",
       ro: "Biserica San Fernando Malabo",
-      en: "San Fernando Church Malabo",
-image: "/poi-images/iglesia-san-fernando-malabo-landmarks-v2.webp"
-},
+      en: "San Fernando Church Malabo"},
+    image: "/poi-images/iglesia-san-fernando-malabo-landmarks-v2.webp",
     description: {
       de: "Eine historische Kirche in Malabo, bekannt für ihre Gemeinschaft und religiöse Bedeutung.",
       hu: "Történelmi templom Malabóban, amely közösségéről és vallási jelentőségéről ismert.",

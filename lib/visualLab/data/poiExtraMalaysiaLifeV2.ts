@@ -11,9 +11,8 @@ export const poiExtraMalaysiaLifeV2: POI[] = [
       de: "Taman Negara Nationalpark",
       hu: "Taman Negara Nemzeti Park",
       ro: "Parcul Național Taman Negara",
-      en: "Taman Negara National Park",
-image: "/poi-images/taman-negara-nationalpark-life-v2.webp"
-},
+      en: "Taman Negara National Park"},
+    image: "/poi-images/taman-negara-nationalpark-life-v2.webp",
     description: {
       de: "Einer der ältesten tropischen Regenwälder der Welt, Heimat seltener Tiere wie dem malaiischen Tiger und asiatischen Elefanten.",
       hu: "A világ egyik legrégebbi trópusi esőerdeje, olyan ritka állatok otthona, mint a maláj tigris és az ázsiai elefánt.",
@@ -48,9 +47,8 @@ image: "/poi-images/taman-negara-nationalpark-life-v2.webp"
       de: "Bako-Nationalpark",
       hu: "Bako Nemzeti Park",
       ro: "Parcul Național Bako",
-      en: "Bako National Park",
-image: "/poi-images/bako-nationalpark-life-v2.webp"
-},
+      en: "Bako National Park"},
+    image: "/poi-images/bako-nationalpark-life-v2.webp",
     description: {
       de: "Sarawaks ältester Nationalpark, bekannt für seine vielfältigen Ökosysteme und die Möglichkeit, Nasenaffen in freier Wildbahn zu sehen.",
       hu: "Sarawak legrégebbi nemzeti parkja, amely változatos ökoszisztémáiról és a borneói nagyorrú majmok vadonban való megfigyelésének lehetőségéről ismert.",
@@ -85,9 +83,8 @@ image: "/poi-images/bako-nationalpark-life-v2.webp"
       de: "Cameron Highlands Teeplantagen",
       hu: "Cameron-felföld teaültetvényei",
       ro: "Plantațiile de ceai din Cameron Highlands",
-      en: "Cameron Highlands Tea Plantations",
-image: "/poi-images/cameron-highlands-teeplantagen-life-v2.webp"
-},
+      en: "Cameron Highlands Tea Plantations"},
+    image: "/poi-images/cameron-highlands-teeplantagen-life-v2.webp",
     description: {
       de: "Ausgedehnte Teeplantagen, die die Hügel der Cameron Highlands bedecken und eine malerische Landschaft sowie hochwertigen malaysischen Tee bieten.",
       hu: "Hatalmas teaültetvények borítják a Cameron-felföld dombjait, festői tájat és kiváló minőségű maláj teát kínálva.",
@@ -122,9 +119,8 @@ image: "/poi-images/cameron-highlands-teeplantagen-life-v2.webp"
       de: "Legoland Malaysia",
       hu: "Legoland Malajzia",
       ro: "Legoland Malaezia",
-      en: "Legoland Malaysia",
-image: "/poi-images/legoland-malaysia-life-v2.webp"
-},
+      en: "Legoland Malaysia"},
+    image: "/poi-images/legoland-malaysia-life-v2.webp",
     description: {
       de: "Ein Themenpark und Wasserpark, der ganz im Zeichen der bunten Lego-Steine steht. Ideal für Familien mit Kindern.",
       hu: "Egy vidámpark és vízi park, amely a színes Lego kockák köré épül. Ideális családok számára.",
@@ -159,9 +155,8 @@ image: "/poi-images/legoland-malaysia-life-v2.webp"
       de: "Semenggoh Wildlife Centre",
       hu: "Semenggoh Vadvédelmi Központ",
       ro: "Centrul pentru animale sălbatice Semenggoh",
-      en: "Semenggoh Wildlife Centre",
-image: "/poi-images/semenggoh-wildlife-centre-life-v2.webp"
-},
+      en: "Semenggoh Wildlife Centre"},
+    image: "/poi-images/semenggoh-wildlife-centre-life-v2.webp",
     description: {
       de: "Ein Rehabilitationszentrum für Orang-Utans, in dem Besucher semi-wilde Orang-Utans während der Fütterungszeiten beobachten können.",
       hu: "Orangután-rehabilitációs központ, ahol a látogatók a félig vadon élő orangutánokat etetési időben figyelhetik meg.",
@@ -196,9 +191,8 @@ image: "/poi-images/semenggoh-wildlife-centre-life-v2.webp"
       de: "Perdana Botanischer Garten",
       hu: "Perdana Botanikus Kert",
       ro: "Grădinile Botanice Perdana",
-      en: "Perdana Botanical Gardens",
-image: "/poi-images/perdana-botanical-gardens-life-v2.webp"
-},
+      en: "Perdana Botanical Gardens"},
+    image: "/poi-images/perdana-botanical-gardens-life-v2.webp",
     description: {
       de: "Eine grüne Oase im Herzen von Kuala Lumpur, die einen Orchideengarten, einen Hibiskusgarten und einen Hirschpark umfasst.",
       hu: "Zöld oázis Kuala Lumpur szívében, orchidea- és hibiszkuszkerttel, valamint szarvasparkkal.",
@@ -233,9 +227,8 @@ image: "/poi-images/perdana-botanical-gardens-life-v2.webp"
       de: "Kinabalu-Park",
       hu: "Kinabalu Park",
       ro: "Parcul Kinabalu",
-      en: "Kinabalu Park",
-image: "/poi-images/kinabalu-park-life-v2.webp"
-},
+      en: "Kinabalu Park"},
+    image: "/poi-images/kinabalu-park-life-v2.webp",
     description: {
       de: "Malaysias erstes UNESCO-Weltnaturerbe, das eine immense biologische Vielfalt von Pflanzen aus dem Himalaya, China und Australien beherbergt.",
       hu: "Malajzia első UNESCO Világörökségi helyszíne, amely a Himalájából, Kínából és Ausztráliából származó növények hatalmas biológiai sokféleségének ad otthont.",
@@ -270,9 +263,8 @@ image: "/poi-images/kinabalu-park-life-v2.webp"
       de: "Sunway Lagoon Themenpark",
       hu: "Sunway Lagoon Vidámpark",
       ro: "Parcul tematic Sunway Lagoon",
-      en: "Sunway Lagoon Theme Park",
-image: "/poi-images/sunway-lagoon-theme-park-life-v2.webp"
-},
+      en: "Sunway Lagoon Theme Park"},
+    image: "/poi-images/sunway-lagoon-theme-park-life-v2.webp",
     description: {
       de: "Ein riesiger Vergnügungspark mit über 90 Attraktionen, verteilt auf sechs verschiedene Themenbereiche, einschließlich eines Wasserparks und eines Wildparks.",
       hu: "Hatalmas vidámpark több mint 90 attrakcióval, hat különböző témaparkra osztva, beleértve egy vízi parkot és egy vadasparkot is.",
@@ -307,9 +299,8 @@ image: "/poi-images/sunway-lagoon-theme-park-life-v2.webp"
       de: "Reisfelder von Kedah",
       hu: "Kedah rizsföldjei",
       ro: "Câmpurile de orez din Kedah",
-      en: "Paddy Fields of Kedah",
-image: "/poi-images/paddy-felder-von-kedah-life-v2.webp"
-},
+      en: "Paddy Fields of Kedah"},
+    image: "/poi-images/paddy-felder-von-kedah-life-v2.webp",
     description: {
       de: "Bekannt als die 'Reisschüssel Malaysias', ist Kedah eine landwirtschaftliche Region mit weiten, grünen Reisfeldern, die die Landschaft prägen.",
       hu: "Malajzia 'rizstáljaként' ismert Kedah egy mezőgazdasági régió, ahol a tájat hatalmas, zöld rizsföldek jellemzik.",
@@ -344,9 +335,8 @@ image: "/poi-images/paddy-felder-von-kedah-life-v2.webp"
       de: "Kuala Gandah Elefanten-Waisenhaus",
       hu: "Kuala Gandah Elefánt Árvaház",
       ro: "Orfelinatul de elefanți Kuala Gandah",
-      en: "Kuala Gandah Elephant Orphanage",
-image: "/poi-images/kuala-gandah-elefanten-waisenhaus-life-v2.webp"
-},
+      en: "Kuala Gandah Elephant Orphanage"},
+    image: "/poi-images/kuala-gandah-elefanten-waisenhaus-life-v2.webp",
     description: {
       de: "Ein Schutz- und Umsiedlungszentrum für asiatische Elefanten, die ihren Lebensraum verloren haben. Besucher können mehr über die Dickhäuter erfahren.",
       hu: "Egy menedék- és áttelepítési központ az élőhelyüket elvesztett ázsiai elefántok számára. A látogatók többet megtudhatnak ezekről a vastagbőrűekről.",
@@ -381,9 +371,8 @@ image: "/poi-images/kuala-gandah-elefanten-waisenhaus-life-v2.webp"
       de: "Desaru Coast Adventure Waterpark",
       hu: "Desaru Coast Kaland Vízipark",
       ro: "Parcul acvatic de aventură Desaru Coast",
-      en: "Desaru Coast Adventure Waterpark",
-image: "/poi-images/desaru-coast-adventure-waterpark-life-v2.webp"
-},
+      en: "Desaru Coast Adventure Waterpark"},
+    image: "/poi-images/desaru-coast-adventure-waterpark-life-v2.webp",
     description: {
       de: "Einer der größten Wasserparks der Welt mit einer Mischung aus traditionellen und modernen Fahrgeschäften, darunter die erste Wasser-Achterbahn der Region.",
       hu: "A világ egyik legnagyobb vízi parkja, hagyományos és modern attrakciók keverékével, beleértve a régió első vízi hullámvasútját.",
@@ -418,9 +407,8 @@ image: "/poi-images/desaru-coast-adventure-waterpark-life-v2.webp"
       de: "Gunung-Mulu-Nationalpark",
       hu: "Gunung Mulu Nemzeti Park",
       ro: "Parcul Național Gunung Mulu",
-      en: "Gunung Mulu National Park",
-image: "/poi-images/gunung-mulu-nationalpark-life-v2.webp"
-},
+      en: "Gunung Mulu National Park"},
+    image: "/poi-images/gunung-mulu-nationalpark-life-v2.webp",
     description: {
       de: "Ein UNESCO-Weltnaturerbe, berühmt für seine Karstlandschaften, riesigen Höhlen und Millionen von Fledermäusen, die abends ausschwärmen.",
       hu: "UNESCO Világörökségi helyszín, amely karsztvidékéről, hatalmas barlangjairól és esténként kirajzó több millió denevéréről híres.",
@@ -455,9 +443,8 @@ image: "/poi-images/gunung-mulu-nationalpark-life-v2.webp"
       de: "KLCC Park",
       hu: "KLCC Park",
       ro: "Parcul KLCC",
-      en: "KLCC Park",
-image: "/poi-images/klcc-park-life-v2.webp"
-},
+      en: "KLCC Park"},
+    image: "/poi-images/klcc-park-life-v2.webp",
     description: {
       de: "Ein Stadtpark unterhalb der Petronas Towers mit einem großen Kinderspielplatz, einem Planschbecken und einer abendlichen Springbrunnenshow.",
       hu: "Városi park a Petronas-ikertornyok alatt, nagy játszótérrel, pancsolómedencével és esti szökőkút-bemutatóval.",
@@ -492,9 +479,8 @@ image: "/poi-images/klcc-park-life-v2.webp"
       de: "Entopia by Penang Butterfly Farm",
       hu: "Entopia by Penang Pillangófarm",
       ro: "Entopia by Penang Butterfly Farm",
-      en: "Entopia by Penang Butterfly Farm",
-image: "/poi-images/entopia-by-penang-butterfly-farm-life-v2.webp"
-},
+      en: "Entopia by Penang Butterfly Farm"},
+    image: "/poi-images/entopia-by-penang-butterfly-farm-life-v2.webp",
     description: {
       de: "Ein riesiges Schmetterlings- und Insektenschutzgebiet mit einem riesigen verglasten Bereich, in dem Tausende von Schmetterlingen frei fliegen.",
       hu: "Hatalmas pillangó- és rovarrezervátum, egy óriási üvegezett területtel, ahol több ezer pillangó repül szabadon.",
@@ -529,9 +515,8 @@ image: "/poi-images/entopia-by-penang-butterfly-farm-life-v2.webp"
       de: "Penang-Nationalpark",
       hu: "Penang Nemzeti Park",
       ro: "Parcul Național Penang",
-      en: "Penang National Park",
-image: "/poi-images/penang-nationalpark-life-v2.webp"
-},
+      en: "Penang National Park"},
+    image: "/poi-images/penang-nationalpark-life-v2.webp",
     description: {
       de: "Der kleinste Nationalpark Malaysias, der eine reiche Vielfalt an Lebensräumen von Dschungel bis zu unberührten Stränden bietet.",
       hu: "Malajzia legkisebb nemzeti parkja, amely a dzsungeltől az érintetlen strandokig sokféle élőhelyet kínál.",
@@ -566,9 +551,8 @@ image: "/poi-images/penang-nationalpark-life-v2.webp"
       de: "FELDA Sahabat Palmölplantage",
       hu: "FELDA Sahabat pálmaolaj-ültetvény",
       ro: "Plantația de ulei de palmier FELDA Sahabat",
-      en: "FELDA Sahabat Palm Oil Plantation",
-image: "/poi-images/felda-sahabat-palmoelplantage-life-v2.webp"
-},
+      en: "FELDA Sahabat Palm Oil Plantation"},
+    image: "/poi-images/felda-sahabat-palmoelplantage-life-v2.webp",
     description: {
       de: "Eine der größten Palmölplantagen-Siedlungen der Welt, die die Bedeutung der Palmölindustrie für die malaysische Wirtschaft veranschaulicht.",
       hu: "A világ egyik legnagyobb pálmaolaj-ültetvény települése, amely bemutatja a pálmaolaj-ipar jelentőségét Malajzia gazdaságában.",
@@ -603,9 +587,8 @@ image: "/poi-images/felda-sahabat-palmoelplantage-life-v2.webp"
       de: "Kuala Lumpur Vogelpark",
       hu: "Kuala Lumpur Madárpark",
       ro: "Parcul de Păsări Kuala Lumpur",
-      en: "Kuala Lumpur Bird Park",
-image: "/poi-images/kuala-lumpur-vogelpark-life-v2.webp"
-},
+      en: "Kuala Lumpur Bird Park"},
+    image: "/poi-images/kuala-lumpur-vogelpark-life-v2.webp",
     description: {
       de: "Einer der größten überdachten Vogelparks der Welt, in dem über 3.000 Vögel in einer riesigen Freiflugvoliere leben.",
       hu: "A világ egyik legnagyobb fedett madárparkja, ahol több mint 3000 madár él egy hatalmas, szabadon repülhető madárházban.",
@@ -640,9 +623,8 @@ image: "/poi-images/kuala-lumpur-vogelpark-life-v2.webp"
       de: "Farm in the City",
       hu: "Farm a városban",
       ro: "Ferma din oraș",
-      en: "Farm in the City",
-image: "/poi-images/farm-in-the-city-life-v2.webp"
-},
+      en: "Farm in the City"},
+    image: "/poi-images/farm-in-the-city-life-v2.webp",
     description: {
       de: "Ein Streichelzoo im Dorfstil, in dem Besucher mit über 100 Arten von Tieren interagieren können, darunter auch exotische Arten.",
       hu: "Falusi stílusú állatsimogató, ahol a látogatók több mint 100 állatfajjal, köztük egzotikus fajokkal is kapcsolatba léphetnek.",
@@ -677,9 +659,8 @@ image: "/poi-images/farm-in-the-city-life-v2.webp"
       de: "Royal Belum State Park",
       hu: "Royal Belum Állami Park",
       ro: "Parcul Statal Royal Belum",
-      en: "Royal Belum State Park",
-image: "/poi-images/royal-belum-state-park-life-v2.webp"
-},
+      en: "Royal Belum State Park"},
+    image: "/poi-images/royal-belum-state-park-life-v2.webp",
     description: {
       de: "Ein riesiger Park mit unberührtem Regenwald, älter als der Amazonas, Heimat aller 10 Nashornvogelarten Malaysias und der seltenen Rafflesia-Blume.",
       hu: "Hatalmas park érintetlen esőerdővel, amely idősebb az Amazonas-medencénél, és otthona Malajzia mind a 10 szarvcsőrű madárfajának és a ritka Rafflesia virágnak.",
@@ -714,9 +695,8 @@ image: "/poi-images/royal-belum-state-park-life-v2.webp"
       de: "Durian-Plantagen in Raub",
       hu: "Durian ültetvények Raubban",
       ro: "Plantațiile de durian din Raub",
-      en: "Durian Plantations in Raub",
-image: "/poi-images/durian-plantagen-in-raub-life-v2.webp"
-},
+      en: "Durian Plantations in Raub"},
+    image: "/poi-images/durian-plantagen-in-raub-life-v2.webp",
     description: {
       de: "Die Region Raub in Pahang ist berühmt für ihre Durian-Plantagen, insbesondere für die hochwertige Sorte Musang King, die als 'König der Früchte' bekannt ist.",
       hu: "A Pahang állambeli Raub régió híres a durianültetvényeiről, különösen a kiváló minőségű Musang King fajtáról, amelyet a 'gyümölcsök királyaként' ismernek.",
@@ -751,9 +731,8 @@ image: "/poi-images/durian-plantagen-in-raub-life-v2.webp"
       de: "Aquaria KLCC",
       hu: "Aquaria KLCC",
       ro: "Aquaria KLCC",
-      en: "Aquaria KLCC",
-image: "/poi-images/aquaria-klcc-life-v2.webp"
-},
+      en: "Aquaria KLCC"},
+    image: "/poi-images/aquaria-klcc-life-v2.webp",
     description: {
       de: "Ein hochmodernes Aquarium unter dem Kuala Lumpur Convention Centre, das Tausende von Wasser- und Landtieren beherbergt.",
       hu: "Csúcstechnológiás akvárium a Kuala Lumpur-i Kongresszusi Központ alatt, amely több ezer vízi és szárazföldi állatnak ad otthont.",
@@ -788,9 +767,8 @@ image: "/poi-images/aquaria-klcc-life-v2.webp"
       de: "Zoo Negara Malaysia",
       hu: "Zoo Negara Malajzia",
       ro: "Grădina Zoologică Națională din Malaezia",
-      en: "Zoo Negara Malaysia",
-image: "/poi-images/zoo-negara-malaysia-life-v2.webp"
-},
+      en: "Zoo Negara Malaysia"},
+    image: "/poi-images/zoo-negara-malaysia-life-v2.webp",
     description: {
       de: "Der Nationalzoo von Malaysia mit über 5000 Exemplaren von Hunderten verschiedener Arten. Ein Highlight ist das Riesenpanda-Schutzzentrum.",
       hu: "Malajzia Nemzeti Állatkertje, több mint 5000 egyeddel, több száz különböző fajból. Kiemelkedő látványossága az Óriáspanda Védelmi Központ.",
@@ -825,9 +803,8 @@ image: "/poi-images/zoo-negara-malaysia-life-v2.webp"
       de: "Lost World of Tambun",
       hu: "Lost World of Tambun",
       ro: "Lost World of Tambun",
-      en: "Lost World of Tambun",
-image: "/poi-images/lost-world-of-tambun-life-v2.webp"
-},
+      en: "Lost World of Tambun"},
+    image: "/poi-images/lost-world-of-tambun-life-v2.webp",
     description: {
       de: "Ein Themenpark und Hotel in Ipoh, umgeben von üppigen tropischen Dschungeln und natürlichen heißen Quellen.",
       hu: "Vidámpark és szálloda Ipohban, buja trópusi dzsungellel és természetes hőforrásokkal körülvéve.",
@@ -862,9 +839,8 @@ image: "/poi-images/lost-world-of-tambun-life-v2.webp"
       de: "Meerespark Pulau Payar",
       hu: "Pulau Payar Tengeri Park",
       ro: "Parcul Marin Pulau Payar",
-      en: "Pulau Payar Marine Park",
-image: "/poi-images/pulau-payar-marine-park-life-v2.webp"
-},
+      en: "Pulau Payar Marine Park"},
+    image: "/poi-images/pulau-payar-marine-park-life-v2.webp",
     description: {
       de: "Ein beliebter Ort zum Schnorcheln und Tauchen in der Nähe von Langkawi, bekannt für sein klares Wasser und die reiche Unterwasserwelt.",
       hu: "Népszerű sznorkelezési és búvárkodási hely Langkawi közelében, amely tiszta vizéről és gazdag tengeri élővilágáról ismert.",
@@ -899,9 +875,8 @@ image: "/poi-images/pulau-payar-marine-park-life-v2.webp"
       de: "Matang Wildlife Centre",
       hu: "Matang Vadvédelmi Központ",
       ro: "Centrul pentru animale sălbatice Matang",
-      en: "Matang Wildlife Centre",
-image: "/poi-images/matang-wildlife-centre-life-v2.webp"
-},
+      en: "Matang Wildlife Centre"},
+    image: "/poi-images/matang-wildlife-centre-life-v2.webp",
     description: {
       de: "Ein Rehabilitationszentrum für gerettete Wildtiere in Sarawak, das sich in einem großen Regenwaldgebiet befindet.",
       hu: "Egy megmentett vadállatok rehabilitációs központja Sarawakban, egy nagy esőerdő területén.",
@@ -936,9 +911,8 @@ image: "/poi-images/matang-wildlife-centre-life-v2.webp"
       de: "Rainforest Discovery Centre, Sepilok",
       hu: "Esőerdő Felfedező Központ, Sepilok",
       ro: "Centrul de Descoperire a Pădurii Tropicale, Sepilok",
-      en: "Rainforest Discovery Centre, Sepilok",
-image: "/poi-images/rainforest-discovery-centre-sepilok-life-v2.webp"
-},
+      en: "Rainforest Discovery Centre, Sepilok"},
+    image: "/poi-images/rainforest-discovery-centre-sepilok-life-v2.webp",
     description: {
       de: "Ein Umweltbildungszentrum in Sabah, das für sein beeindruckendes Baumkronen-Wegesystem und seine Möglichkeiten zur Vogelbeobachtung bekannt ist.",
       hu: "Környezetvédelmi oktatóközpont Sabahban, amely lenyűgöző lombkorona-ösvényrendszeréről és madármegfigyelési lehetőségeiről ismert.",
@@ -973,9 +947,8 @@ image: "/poi-images/rainforest-discovery-centre-sepilok-life-v2.webp"
       de: "Tunku Abdul Rahman Nationalpark",
       hu: "Tunku Abdul Rahman Nemzeti Park",
       ro: "Parcul Național Tunku Abdul Rahman",
-      en: "Tunku Abdul Rahman National Park",
-image: "/poi-images/tunku-abdul-rahman-national-park-life-v2.webp"
-},
+      en: "Tunku Abdul Rahman National Park"},
+    image: "/poi-images/tunku-abdul-rahman-national-park-life-v2.webp",
     description: {
       de: "Ein Meerespark aus fünf Inseln vor der Küste von Kota Kinabalu, der beliebte Strände und Tauchplätze bietet.",
       hu: "Öt szigetből álló tengeri park Kota Kinabalu partjainál, amely népszerű strandokat és búvárhelyeket kínál.",
@@ -1010,9 +983,8 @@ image: "/poi-images/tunku-abdul-rahman-national-park-life-v2.webp"
       de: "UK Agro Farm, Johor",
       hu: "UK Agro Farm, Johor",
       ro: "Ferma Agricolă UK, Johor",
-      en: "UK Agro Farm, Johor",
-image: "/poi-images/uk-agro-farm-johor-life-v2.webp"
-},
+      en: "UK Agro Farm, Johor"},
+    image: "/poi-images/uk-agro-farm-johor-life-v2.webp",
     description: {
       de: "Malaysias größte Ziegen- und Schaffarm, die Agrotourismus-Erlebnisse mit einem Fokus auf nachhaltige Landwirtschaft bietet.",
       hu: "Malajzia legnagyobb kecske- és juhfarmja, amely agroturisztikai élményeket kínál a fenntartható gazdálkodásra összpontosítva.",
@@ -1047,9 +1019,8 @@ image: "/poi-images/uk-agro-farm-johor-life-v2.webp"
       de: "Borneo Sun Bear Conservation Centre",
       hu: "Borneói Malájmedve Védelmi Központ",
       ro: "Centrul de Conservare a Ursului Soare din Borneo",
-      en: "Borneo Sun Bear Conservation Centre",
-image: "/poi-images/borneo-sun-bear-conservation-centre-life-v2.webp"
-},
+      en: "Borneo Sun Bear Conservation Centre"},
+    image: "/poi-images/borneo-sun-bear-conservation-centre-life-v2.webp",
     description: {
       de: "Ein Zentrum in Sepilok, Sabah, das sich dem Schutz und der Rehabilitation des Malaienbären, der kleinsten Bärenart der Welt, widmet.",
       hu: "Egy központ Sepilokban, Sabahban, amely a maláj medve, a világ legkisebb medvefajának védelmével és rehabilitációjával foglalkozik.",
@@ -1084,9 +1055,8 @@ image: "/poi-images/borneo-sun-bear-conservation-centre-life-v2.webp"
       de: "Labuk Bay Nasenaffen-Schutzgebiet",
       hu: "Labuk-öböl Borneói Nagyorrúmajom Menedékhely",
       ro: "Sanctuarul de maimuțe Proboscis din Golful Labuk",
-      en: "Labuk Bay Proboscis Monkey Sanctuary",
-image: "/poi-images/labuk-bay-proboscis-monkey-sanctuary-life-v2.webp"
-},
+      en: "Labuk Bay Proboscis Monkey Sanctuary"},
+    image: "/poi-images/labuk-bay-proboscis-monkey-sanctuary-life-v2.webp",
     description: {
       de: "Ein privat geführtes Schutzgebiet in Sabah, das Besuchern die einzigartige Möglichkeit bietet, Nasenaffen in ihrer natürlichen Mangrovenumgebung zu beobachten.",
       hu: "Egy magánkézben lévő menedékhely Sabahban, amely egyedülálló lehetőséget kínál a látogatóknak a borneói nagyorrú majmok megfigyelésére természetes mangrove környezetükben.",
@@ -1121,9 +1091,8 @@ image: "/poi-images/labuk-bay-proboscis-monkey-sanctuary-life-v2.webp"
       de: "KidZania Kuala Lumpur",
       hu: "KidZania Kuala Lumpur",
       ro: "KidZania Kuala Lumpur",
-      en: "KidZania Kuala Lumpur",
-image: "/poi-images/kidzania-kuala-lumpur-life-v2.webp"
-},
+      en: "KidZania Kuala Lumpur"},
+    image: "/poi-images/kidzania-kuala-lumpur-life-v2.webp",
     description: {
       de: "Ein interaktiver Indoor-Themenpark, der Kindern die Möglichkeit gibt, in einer kinderfreundlichen Stadt verschiedene Berufe auszuprobieren.",
       hu: "Interaktív fedett vidámpark, amely lehetőséget ad a gyerekeknek, hogy különböző szakmákat próbáljanak ki egy gyerekbarát városban.",
@@ -1158,9 +1127,8 @@ image: "/poi-images/kidzania-kuala-lumpur-life-v2.webp"
       de: "Skytrex Adventure",
       hu: "Skytrex Kalandpark",
       ro: "Aventura Skytrex",
-      en: "Skytrex Adventure",
-image: "/poi-images/skytrex-adventure-life-v2.webp"
-},
+      en: "Skytrex Adventure"},
+    image: "/poi-images/skytrex-adventure-life-v2.webp",
     description: {
       de: "Ein Hochseilgarten in den Baumwipfeln, der verschiedene Herausforderungen wie Ziplines, Hängebrücken und andere Hindernisse bietet.",
       hu: "Lombkorona-kalandpálya, amely különféle kihívásokat kínál, mint például zipline-okat, függőhidakat és egyéb akadályokat.",
@@ -1195,9 +1163,8 @@ image: "/poi-images/skytrex-adventure-life-v2.webp"
       de: "Tropischer Gewürzgarten Penang",
       hu: "Penangi Trópusi Fűszerkert",
       ro: "Grădina Tropicală de Condimente Penang",
-      en: "Penang Tropical Spice Garden",
-image: "/poi-images/penang-tropical-spice-garden-life-v2.webp"
-},
+      en: "Penang Tropical Spice Garden"},
+    image: "/poi-images/penang-tropical-spice-garden-life-v2.webp",
     description: {
       de: "Ein landschaftlich gestalteter Garten in Penang, der über 500 Arten exotischer Flora und Fauna, insbesondere Gewürze, aus der ganzen Welt zeigt.",
       hu: "Egy parkosított kert Penangban, amely több mint 500 fajta egzotikus növény- és állatvilágot, különösen fűszereket mutat be a világ minden tájáról.",
@@ -1232,9 +1199,8 @@ image: "/poi-images/penang-tropical-spice-garden-life-v2.webp"
       de: "FRIM (Forstforschungsinstitut Malaysia)",
       hu: "FRIM (Malajziai Erdészeti Kutatóintézet)",
       ro: "FRIM (Institutul de Cercetare Forestieră din Malaezia)",
-      en: "FRIM (Forest Research Institute Malaysia)",
-image: "/poi-images/frim-forest-research-institute-malaysia-life-v2.webp"
-},
+      en: "FRIM (Forest Research Institute Malaysia)"},
+    image: "/poi-images/frim-forest-research-institute-malaysia-life-v2.webp",
     description: {
       de: "Eine führende Institution für tropische Forstforschung, die auch als beliebter Erholungswald in der Nähe von Kuala Lumpur dient.",
       hu: "A trópusi erdészeti kutatás vezető intézménye, amely Kuala Lumpur közelében népszerű rekreációs erdőként is szolgál.",
@@ -1269,9 +1235,8 @@ image: "/poi-images/frim-forest-research-institute-malaysia-life-v2.webp"
       de: "KL Forest Eco Park",
       hu: "KL Forest Eco Park",
       ro: "Parcul Ecologic Forestier KL",
-      en: "KL Forest Eco Park",
-image: "/poi-images/kl-forest-eco-park-life-v2.webp"
-},
+      en: "KL Forest Eco Park"},
+    image: "/poi-images/kl-forest-eco-park-life-v2.webp",
     description: {
       de: "Eines der ältesten permanenten Waldreservate Malaysias, mitten im Herzen von Kuala Lumpur.",
       hu: "Malajzia egyik legrégebbi állandó erdőrezervátuma, Kuala Lumpur szívében.",
@@ -1306,9 +1271,8 @@ image: "/poi-images/kl-forest-eco-park-life-v2.webp"
       de: "Zoo von Johor",
       hu: "Johori Állatkert",
       ro: "Grădina Zoologică Johor",
-      en: "Johor Zoo",
-image: "/poi-images/johor-zoo-life-v2.webp"
-},
+      en: "Johor Zoo"},
+    image: "/poi-images/johor-zoo-life-v2.webp",
     description: {
       de: "Einer der ältesten Zoos in Malaysia, gelegen im Herzen von Johor Bahru.",
       hu: "Malajzia egyik legrégebbi állatkertje, Johor Bahru szívében.",
@@ -1343,9 +1307,8 @@ image: "/poi-images/johor-zoo-life-v2.webp"
       de: "Desaru Obstfarm",
       hu: "Desaru Gyümölcsfarm",
       ro: "Ferma de Fructe Desaru",
-      en: "Desaru Fruit Farm",
-image: "/poi-images/desaru-fruit-farm-life-v2.webp"
-},
+      en: "Desaru Fruit Farm"},
+    image: "/poi-images/desaru-fruit-farm-life-v2.webp",
     description: {
       de: "Eine große tropische Obstfarm in Johor, die Besuchern die Möglichkeit bietet, eine Vielzahl von malaysischen Früchten zu probieren und kennenzulernen.",
       hu: "Nagy trópusi gyümölcsfarm Johorban, amely lehetőséget kínál a látogatóknak, hogy megkóstoljanak és megismerjenek különféle malajziai gyümölcsöket.",

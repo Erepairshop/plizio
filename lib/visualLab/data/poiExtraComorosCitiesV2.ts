@@ -7,9 +7,8 @@ export const poiExtraComorosCitiesV2: POI[] = [
     type: "state-capital",
     parent: "KM-G",
     coords: [43.2551, -11.7172],
-    name: { de: "Moroni", hu: "Moroni", ro: "Moroni", en: "Moroni",
-image: "/poi-images/moroni-cities-v2.webp"
-},
+    name: { de: "Moroni", hu: "Moroni", ro: "Moroni", en: "Moroni"},
+    image: "/poi-images/moroni-cities-v2.webp",
     description: {
       de: "Moroni ist die Hauptstadt der Komoren und liegt am Fuße des Vulkans Karthala auf der Insel Grande Comore.",
       hu: "Moroni a Comore-szigetek fővárosa, amely a Karthala-vulkán lábánál fekszik Grande Comore szigetén.",
@@ -40,9 +39,8 @@ image: "/poi-images/moroni-cities-v2.webp"
     type: "state-capital",
     parent: "KM-A",
     coords: [44.4036, -12.1719],
-    name: { de: "Mutsamudu", hu: "Mutsamudu", ro: "Mutsamudu", en: "Mutsamudu",
-image: "/poi-images/mutsamudu-cities-v2.webp"
-},
+    name: { de: "Mutsamudu", hu: "Mutsamudu", ro: "Mutsamudu", en: "Mutsamudu"},
+    image: "/poi-images/mutsamudu-cities-v2.webp",
     description: {
       de: "Mutsamudu ist die zweitgrößte Stadt der Komoren und die Hauptstadt der Insel Anjouan.",
       hu: "Mutsamudu a Comore-szigetek második legnagyobb városa és Anjouan szigetének székhelye.",
@@ -73,9 +71,8 @@ image: "/poi-images/mutsamudu-cities-v2.webp"
     type: "state-capital",
     parent: "KM-M",
     coords: [43.7425, -12.2803],
-    name: { de: "Fomboni", hu: "Fomboni", ro: "Fomboni", en: "Fomboni",
-image: "/poi-images/fomboni-cities-v2.webp"
-},
+    name: { de: "Fomboni", hu: "Fomboni", ro: "Fomboni", en: "Fomboni"},
+    image: "/poi-images/fomboni-cities-v2.webp",
     description: {
       de: "Fomboni ist die Hauptstadt der Insel Mohéli und die drittgrößte Stadt des Landes.",
       hu: "Fomboni Mohéli szigetének fővárosa és az ország harmadik legnagyobb városa.",
@@ -106,9 +103,8 @@ image: "/poi-images/fomboni-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.5319, -12.2569],
-    name: { de: "Domoni", hu: "Domoni", ro: "Domoni", en: "Domoni",
-image: "/poi-images/domoni-cities-v2.webp"
-},
+    name: { de: "Domoni", hu: "Domoni", ro: "Domoni", en: "Domoni"},
+    image: "/poi-images/domoni-cities-v2.webp",
     description: {
       de: "Domoni ist eine historische Stadt an der Ostküste der Insel Anjouan.",
       hu: "Domoni egy történelmi város Anjouan szigetének keleti partján.",
@@ -139,9 +135,8 @@ image: "/poi-images/domoni-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.2925, -11.3853],
-    name: { de: "Mitsamiouli", hu: "Mitsamiouli", ro: "Mitsamiouli", en: "Mitsamiouli",
-image: "/poi-images/mitsamiouli-cities-v2.webp"
-},
+    name: { de: "Mitsamiouli", hu: "Mitsamiouli", ro: "Mitsamiouli", en: "Mitsamiouli"},
+    image: "/poi-images/mitsamiouli-cities-v2.webp",
     description: {
       de: "Mitsamiouli ist eine Küstenstadt im Norden von Grande Comore, bekannt für ihre schönen Strände.",
       hu: "Mitsamiouli egy kikötőváros Grande Comore északi részén, amely szép strandjairól ismert.",
@@ -172,9 +167,8 @@ image: "/poi-images/mitsamiouli-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.4258, -12.1408],
-    name: { de: "Ouani", hu: "Ouani", ro: "Ouani", en: "Ouani",
-image: "/poi-images/ouani-cities-v2.webp"
-},
+    name: { de: "Ouani", hu: "Ouani", ro: "Ouani", en: "Ouani"},
+    image: "/poi-images/ouani-cities-v2.webp",
     description: {
       de: "Ouani liegt in der Nähe von Mutsamudu und beherbergt den Flughafen der Insel Anjouan.",
       hu: "Ouani Mutsamudu közelében található, és itt működik Anjouan szigetének repülőtere.",
@@ -206,9 +200,8 @@ image: "/poi-images/ouani-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.3775, -11.4114],
-    name: { de: "Mbéni", hu: "Mbéni", ro: "Mbéni", en: "Mbéni",
-image: "/poi-images/mbeni-cities-v2.webp"
-},
+    name: { de: "Mbéni", hu: "Mbéni", ro: "Mbéni", en: "Mbéni"},
+    image: "/poi-images/mbeni-cities-v2.webp",
     description: {
       de: "Mbéni ist eine bedeutende Stadt im Nordosten von Grande Comore.",
       hu: "Mbéni egy jelentős város Grande Comore északkeleti részén.",
@@ -240,9 +233,8 @@ image: "/poi-images/mbeni-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.4914, -11.8647],
-    name: { de: "Foumbouni", hu: "Foumbouni", ro: "Foumbouni", en: "Foumbouni",
-image: "/poi-images/foumbouni-cities-v2.webp"
-},
+    name: { de: "Foumbouni", hu: "Foumbouni", ro: "Foumbouni", en: "Foumbouni"},
+    image: "/poi-images/foumbouni-cities-v2.webp",
     description: {
       de: "Foumbouni ist die wichtigste Stadt im Süden der Insel Grande Comore.",
       hu: "Foumbouni Grande Comore szigetének legfontosabb déli városa.",
@@ -274,9 +266,8 @@ image: "/poi-images/foumbouni-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.2403, -11.7417],
-    name: { de: "Iconi", hu: "Iconi", ro: "Iconi", en: "Iconi",
-image: "/poi-images/iconi-cities-v2.webp"
-},
+    name: { de: "Iconi", hu: "Iconi", ro: "Iconi", en: "Iconi"},
+    image: "/poi-images/iconi-cities-v2.webp",
     description: {
       de: "Iconi ist eine der ältesten Städte der Komoren und liegt südlich von Moroni.",
       hu: "Iconi a Comore-szigetek egyik legrégebbi városa, Moronitól délre fekszik.",
@@ -307,9 +298,8 @@ image: "/poi-images/iconi-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.7231, -12.3858],
-    name: { de: "Nioumachoua", hu: "Nioumachoua", ro: "Nioumachoua", en: "Nioumachoua",
-image: "/poi-images/nioumachoua-cities-v2.webp"
-},
+    name: { de: "Nioumachoua", hu: "Nioumachoua", ro: "Nioumachoua", en: "Nioumachoua"},
+    image: "/poi-images/nioumachoua-cities-v2.webp",
     description: {
       de: "Nioumachoua ist die zweitgrößte Stadt auf Mohéli und liegt an der Südküste.",
       hu: "Nioumachoua Mohéli második legnagyobb városa, a déli parton fekszik.",
@@ -340,9 +330,8 @@ image: "/poi-images/nioumachoua-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.2831, -12.1983],
-    name: { de: "Sima", hu: "Sima", ro: "Sima", en: "Sima",
-image: "/poi-images/sima-cities-v2.webp"
-},
+    name: { de: "Sima", hu: "Sima", ro: "Sima", en: "Sima"},
+    image: "/poi-images/sima-cities-v2.webp",
     description: {
       de: "Sima ist eine wichtige Stadt im Westen der Insel Anjouan.",
       hu: "Sima egy fontos város Anjouan szigetének nyugati részén.",
@@ -371,9 +360,8 @@ image: "/poi-images/sima-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.4417, -12.2106],
-    name: { de: "Tsembehou", hu: "Tsembehou", ro: "Tsembehou", en: "Tsembehou",
-image: "/poi-images/tsembehou-cities-v2.webp"
-},
+    name: { de: "Tsembehou", hu: "Tsembehou", ro: "Tsembehou", en: "Tsembehou"},
+    image: "/poi-images/tsembehou-cities-v2.webp",
     description: {
       de: "Tsembehou liegt im Hochland von Anjouan und ist ein Ausgangspunkt f?r Wege ins Inselinnere. Das mildere Klima pr?gt den Ort st?rker als die K?ste.",
       hu: "Tsembehou Anjouan belső, dombos részén fekvő település. A hűvösebb magaslati klíma miatt itt a kertgazdálkodás és a gyalogos utak fontosak.",
@@ -402,9 +390,8 @@ image: "/poi-images/tsembehou-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.2536, -11.6669],
-    name: { de: "Itsandra", hu: "Itsandra", ro: "Itsandra", en: "Itsandra",
-image: "/poi-images/itsandra-cities-v2.webp"
-},
+    name: { de: "Itsandra", hu: "Itsandra", ro: "Itsandra", en: "Itsandra"},
+    image: "/poi-images/itsandra-cities-v2.webp",
     description: {
       de: "Itsandra ist eine historische Küstenstadt direkt nördlich von Moroni.",
       hu: "Itsandra egy történelmi kikötőváros közvetlenül Moronitól északra.",
@@ -434,9 +421,8 @@ image: "/poi-images/itsandra-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.2953, -11.6603],
-    name: { de: "Ntsoudjini", hu: "Ntsoudjini", ro: "Ntsoudjini", en: "Ntsoudjini",
-image: "/poi-images/ntsoudjini-cities-v2.webp"
-},
+    name: { de: "Ntsoudjini", hu: "Ntsoudjini", ro: "Ntsoudjini", en: "Ntsoudjini"},
+    image: "/poi-images/ntsoudjini-cities-v2.webp",
     description: {
       de: "Ntsoudjini ist eine Stadt im Landesinneren von Grande Comore, bekannt für ihre Gelehrten.",
       hu: "Ntsoudjini egy város Grande Comore belsejében, amely tudósairól ismert.",
@@ -466,9 +452,8 @@ image: "/poi-images/ntsoudjini-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.3703, -11.6153],
-    name: { de: "Koimbani", hu: "Koimbani", ro: "Koimbani", en: "Koimbani",
-image: "/poi-images/koimbani-cities-v2.webp"
-},
+    name: { de: "Koimbani", hu: "Koimbani", ro: "Koimbani", en: "Koimbani"},
+    image: "/poi-images/koimbani-cities-v2.webp",
     description: {
       de: "Koimbani ist das administrative Zentrum der Oichili-Region auf Grande Comore.",
       hu: "Koimbani az Oichili régió adminisztratív központja Grande Comore szigetén.",
@@ -498,9 +483,8 @@ image: "/poi-images/koimbani-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.5125, -12.2536],
-    name: { de: "Adda-Douéni", hu: "Adda-Douéni", ro: "Adda-Douéni", en: "Adda-Douéni",
-image: "/poi-images/adda-doueni-cities-v2.webp"
-},
+    name: { de: "Adda-Douéni", hu: "Adda-Douéni", ro: "Adda-Douéni", en: "Adda-Douéni"},
+    image: "/poi-images/adda-doueni-cities-v2.webp",
     description: {
       de: "Adda-Douéni ist eine dicht besiedelte Stadt im Osten von Anjouan.",
       hu: "Adda-Doueni Anjouan egyik kisebb települése, ahol a tengerpart és a helyi gazdálkodás találkozik. A környék nyugodt, falusias karakterű.",
@@ -527,9 +511,8 @@ image: "/poi-images/adda-doueni-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.4331, -12.3169],
-    name: { de: "Moya", hu: "Moya", ro: "Moya", en: "Moya",
-image: "/poi-images/moya-cities-v2.webp"
-},
+    name: { de: "Moya", hu: "Moya", ro: "Moya", en: "Moya"},
+    image: "/poi-images/moya-cities-v2.webp",
     description: {
       de: "Moya ist ein K?stenort im S?den von Anjouan mit offenem Blick auf Strand und Meer. Der Ort ist eng mit Fischerei und kleinen Ausfl?gen verbunden.",
       hu: "Moya Anjouan déli partján fekszik, és strandjai miatt ismert. A környéken a halászat és a tengerparti pihenés a meghatározó.",
@@ -556,9 +539,8 @@ image: "/poi-images/moya-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.4631, -12.3025],
-    name: { de: "Mrémani", hu: "Mrémani", ro: "Mrémani", en: "Mrémani",
-image: "/poi-images/mremani-cities-v2.webp"
-},
+    name: { de: "Mrémani", hu: "Mrémani", ro: "Mrémani", en: "Mrémani"},
+    image: "/poi-images/mremani-cities-v2.webp",
     description: {
       de: "Mr?mani liegt im s?dlichen Hochland von Anjouan und dient als lokaler Marktort. Die Hanglage pr?gt den Alltag und die Landwirtschaft.",
       hu: "Mrémani egy város Anjouan szigetének déli felföldjén.",
@@ -586,9 +568,8 @@ image: "/poi-images/mremani-cities-v2.webp"
     type: "city",
     parent: "KM-A",
     coords: [44.4167, -12.1625],
-    name: { de: "Mirontsi", hu: "Mirontsi", ro: "Mirontsi", en: "Mirontsi",
-image: "/poi-images/mirontsi-cities-v2.webp"
-},
+    name: { de: "Mirontsi", hu: "Mirontsi", ro: "Mirontsi", en: "Mirontsi"},
+    image: "/poi-images/mirontsi-cities-v2.webp",
     description: {
       de: "Mirontsi liegt bei Mutsamudu an der Nordk?ste von Anjouan und ist eng mit der Hafenstadt verbunden. Der Ort funktioniert wie ein ruhiger Vorort am Hang.",
       hu: "Mirontsi Mutsamudu egyik elővárosa és fontos lakóövezete.",
@@ -616,9 +597,8 @@ image: "/poi-images/mirontsi-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.7831, -12.2625],
-    name: { de: "Wanani", hu: "Wanani", ro: "Wanani", en: "Wanani",
-image: "/poi-images/wanani-cities-v2.webp"
-},
+    name: { de: "Wanani", hu: "Wanani", ro: "Wanani", en: "Wanani"},
+    image: "/poi-images/wanani-cities-v2.webp",
     description: {
       de: "Wanani liegt an der Nordk?ste von Moh?li und lebt von Fischerei und kleinen G?steh?usern. Die N?he zu Fomboni macht den Ort gut erreichbar.",
       hu: "Wanani Mohéli északi partján található, nem messze Fombonitól. A település kis kikötői és part menti élete miatt emelkedik ki.",
@@ -645,9 +625,8 @@ image: "/poi-images/wanani-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.7314, -12.2647],
-    name: { de: "Hoani", hu: "Hoani", ro: "Hoani", en: "Hoani",
-image: "/poi-images/hoani-cities-v2.webp"
-},
+    name: { de: "Hoani", hu: "Hoani", ro: "Hoani", en: "Hoani"},
+    image: "/poi-images/hoani-cities-v2.webp",
     description: {
       de: "Hoani liegt ebenfalls an der Nordk?ste von Moh?li und grenzt an die gr?ne Inselmitte an. Der Ort verbindet K?stenleben mit der N?he zum Nationalpark.",
       hu: "Hoani Mohéli északi részén, a part és a sziget belseje között helyezkedik el. A környéket kókuszpálmák, kis kertek és halászat jellemzi.",
@@ -672,9 +651,8 @@ image: "/poi-images/hoani-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.7553, -12.2903],
-    name: { de: "Djoyezi", hu: "Djoyezi", ro: "Djoyezi", en: "Djoyezi",
-image: "/poi-images/djoyezi-cities-v2.webp"
-},
+    name: { de: "Djoyezi", hu: "Djoyezi", ro: "Djoyezi", en: "Djoyezi"},
+    image: "/poi-images/djoyezi-cities-v2.webp",
     description: {
       de: "Djoyezi ist eine kleine K?stensiedlung auf Moh?li mit gesch?tzter Bucht. Die Einwohner leben vor allem vom Meer und vom kleinen Anbau.",
       hu: "Djoyezi közvetlenül a főváros, Fomboni közelében fekszik Mohéli szigetén.",
@@ -699,9 +677,8 @@ image: "/poi-images/djoyezi-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.7125, -12.3625],
-    name: { de: "Kangani", hu: "Kangani", ro: "Kangani", en: "Kangani",
-image: "/poi-images/kangani-cities-v2.webp"
-},
+    name: { de: "Kangani", hu: "Kangani", ro: "Kangani", en: "Kangani"},
+    image: "/poi-images/kangani-cities-v2.webp",
     description: {
       de: "Kangani liegt an der S?dwestk?ste von Moh?li am Zugang zum Meerespark. Der Ort ist ein gutes Beispiel f?r Leben zwischen Schutzgebiet und Fischerei.",
       hu: "Kangani Grande Comore délnyugati partján található, a védett tengeri területek közelében. A falu a halászat és a természetközeli élet találkozása.",
@@ -727,9 +704,8 @@ image: "/poi-images/kangani-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.7453, -12.3553],
-    name: { de: "Moimbassa", hu: "Moimbassa", ro: "Moimbassa", en: "Moimbassa",
-image: "/poi-images/moimbassa-cities-v2.webp"
-},
+    name: { de: "Moimbassa", hu: "Moimbassa", ro: "Moimbassa", en: "Moimbassa"},
+    image: "/poi-images/moimbassa-cities-v2.webp",
     description: {
       de: "Moimbassa ist ein kleines Dorf im Landesinneren von Mohéli.",
       hu: "Moimbassa egy kis falu Mohéli szigetének belsejében.",
@@ -755,9 +731,8 @@ image: "/poi-images/moimbassa-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.6831, -12.3331],
-    name: { de: "Mbatsé", hu: "Mbatsé", ro: "Mbatsé", en: "Mbatsé",
-image: "/poi-images/mbatse-cities-v2.webp"
-},
+    name: { de: "Mbatsé", hu: "Mbatsé", ro: "Mbatsé", en: "Mbatsé"},
+    image: "/poi-images/mbatse-cities-v2.webp",
     description: {
       de: "Mbats? liegt im Inneren von Moh?li in h?geligem Gel?nde. Der Ort steht f?r kleine Bergsiedlungen mit Selbstversorgung.",
       hu: "Mbatsé Mohéli belső, dombos részén fekvő kisebb település. A mindennapokat itt a mezőgazdaság és a csendes szigeti élet határozza meg.",
@@ -782,9 +757,8 @@ image: "/poi-images/mbatse-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.8667, -12.3167],
-    name: { de: "Itsamia", hu: "Itsamia", ro: "Itsamia", en: "Itsamia",
-image: "/poi-images/itsamia-cities-v2.webp"
-},
+    name: { de: "Itsamia", hu: "Itsamia", ro: "Itsamia", en: "Itsamia"},
+    image: "/poi-images/itsamia-cities-v2.webp",
     description: {
       de: "Itsamia ist ein Dorf im Osten von Mohéli, berühmt für seine Meeresschildkröten.",
       hu: "Itsamia egy falu Mohéli keleti részén, híres tengeri teknőseiről.",
@@ -809,9 +783,8 @@ image: "/poi-images/itsamia-cities-v2.webp"
     type: "city",
     parent: "KM-M",
     coords: [43.6667, -12.35],
-    name: { de: "Ouallah", hu: "Ouallah", ro: "Ouallah", en: "Ouallah",
-image: "/poi-images/ouallah-cities-v2.webp"
-},
+    name: { de: "Ouallah", hu: "Ouallah", ro: "Ouallah", en: "Ouallah"},
+    image: "/poi-images/ouallah-cities-v2.webp",
     description: {
       de: "Ouallah liegt an der S?dwestk?ste von Moh?li in einer gesch?tzten Bucht. Der Ort ist bekannt f?r Walbeobachtung und K?stenfischerei.",
       hu: "Ouallah Mohéli délnyugati partján, védett öböl közelében fekszik. A település a tengeri élővilág és a halászat miatt ismert.",
@@ -836,9 +809,8 @@ image: "/poi-images/ouallah-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.2831, -11.45],
-    name: { de: "Bandamadji", hu: "Bandamadji", ro: "Bandamadji", en: "Bandamadji",
-image: "/poi-images/bandamadji-cities-v2.webp"
-},
+    name: { de: "Bandamadji", hu: "Bandamadji", ro: "Bandamadji", en: "Bandamadji"},
+    image: "/poi-images/bandamadji-cities-v2.webp",
     description: {
       de: "Bandamadji ist eine Siedlung im nördlichen Teil von Grande Comore.",
       hu: "Bandamadji egy település Grande Comore északi részén.",
@@ -864,9 +836,8 @@ image: "/poi-images/bandamadji-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.3, -11.5],
-    name: { de: "Chembenyouba", hu: "Chembenyouba", ro: "Chembenyouba", en: "Chembenyouba",
-image: "/poi-images/chembenyouba-cities-v2.webp"
-},
+    name: { de: "Chembenyouba", hu: "Chembenyouba", ro: "Chembenyouba", en: "Chembenyouba"},
+    image: "/poi-images/chembenyouba-cities-v2.webp",
     description: {
       de: "Chembenyouba liegt an der Westk?ste von Grande Comore und wirkt wie ein kleiner Fischerort zwischen Meer und Lavafels. Die K?ste ist hier klar vulkanisch gepr?gt.",
       hu: "Chembenyouba Grande Comore nyugati partján, vulkanikus kőzetek között fekszik. A partvidék itt nyers, sziklás és erősen széljárta.",
@@ -892,9 +863,8 @@ image: "/poi-images/chembenyouba-cities-v2.webp"
     type: "city",
     parent: "KM-G",
     coords: [43.3667, -11.8333],
-    name: { de: "Dembéni", hu: "Dembéni", ro: "Dembéni", en: "Dembéni",
-image: "/poi-images/dembeni-cities-v2.webp"
-},
+    name: { de: "Dembéni", hu: "Dembéni", ro: "Dembéni", en: "Dembéni"},
+    image: "/poi-images/dembeni-cities-v2.webp",
     description: {
       de: "Dembéni ist eine Stadt im Südosten von Grande Comore.",
       hu: "Dembéni egy város Grande Comore délkeleti részén.",
@@ -906,15 +876,27 @@ image: "/poi-images/dembeni-cities-v2.webp"
       hu: ["Mezőgazdasági központ", "Közel a Karthala-vulkánhoz", "Jelentős vaníliatermelés"],
       ro: ["pe Grande Comore", "din Comore", "oraș local"],
       en: ["Agricultural center", "Near Mount Karthala", "Significant vanilla production"]
-    }, image: "/poi-images/dembeni-cities-v2.webp"},
+    }, image: "/poi-images/dembeni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Dembéni ist eine Stadt auf der Insel Mayotte, einem französischen Übersee-Département im Indischen Ozean. Sie liegt an der Nordküste der Insel und hat etwa 15.000 Einwohner. Dembéni ist bekannt für seinen Yachthafen und seine Strände. Die Wirtschaft basiert auf Fischerei, Landwirtschaft (Vanille, Ylang-Ylang) und zunehmend auf Tourismus. Die Stadt hat eine vielfältige Bevölkerung, die aus Komorern, Madagassen und Franzosen besteht. Die Amtssprachen sind Französisch und Shimaore. Dembéni ist ein wichtiger Fährhafen für Verbindungen nach Anjouan und Mamoudzou.",
+      hu: "Dembéni város Mayotte szigetén, Franciaország tengerentúli megyéjében található. Lakossága mintegy 15.000 fő. A város az Indiai-óceánban fekszik, és népszerű a turisták körében strandjai miatt. Gazdasága a halászaton, a mezőgazdaságon (vanília, ilang-ilang) és a turizmuson alapul. Kikötője fontos szerepet játszik a szigetközi közlekedésben. A lakosság sokszínű: komoriak, madagaszkáriak és franciák. A városban található a Hôpital de Dembéni kórház. Az éghajlat trópusi, meleg és párás.",
+      ro: "Dembéni este un oraș pe insula Mayotte, un departament de peste mări al Franței, situat în Oceanul Indian. Are aproximativ 15.000 de locuitori. Orașul se află pe coasta de nord și este cunoscut pentru portul său de agrement și plajele cu nisip alb. Economia se bazează pe pescuit, agricultură (vanilie, ylang-ylang) și turism. Populația este diversă, incluzând comorieni, malgași și francezi. Dembéni are un spital și școli. Clima este tropicală, cu temperaturi medii de 28°C. Este un important nod de transport maritim.",
+      en: "Dembéni is a town on Mayotte, a French overseas department in the Indian Ocean, with a population of about 15,000. Located on the northern coast, it features a marina and sandy beaches. The economy relies on fishing, agriculture (vanilla, ylang-ylang), and tourism. The town serves as a ferry hub connecting to Anjouan and Mamoudzou. The population is ethnically diverse, with Comorian, Malagasy, and French influences. Dembéni is home to the main hospital on the island. The climate is tropical, with average temperatures around 28°C year-round.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 15.000 (2020)", "Lage: Nordküste von Mayotte", "Wichtigste Sprachen: Französisch, Shimaore", "Fährverbindung: nach Mamoudzou (täglich)", "Ylang-Ylang-Produktion: 10 Tonnen jährlich", "Durchschnittstemperatur: 28°C"],
+      hu: ["Lakosság: 15.000 (2020)", "Elhelyezkedés: Mayotte északi partja", "Fő nyelvek: francia, shimaore", "Kompiárat: Mamoudzou-ba (naponta)", "Ilang-ilang termelés: évi 10 tonna", "Átlaghőmérséklet: 28°C"],
+      ro: ["Populație: 15.000 (2020)", "Locație: coasta de nord a Mayottei", "Limbi principale: franceză, shimaore", "Feribot: către Mamoudzou (zilnic)", "Producția de ylang-ylang: 10 tone/an", "Temperatura medie: 28°C"],
+      en: ["Population: approximately 15,000 (2020)", "Location: northern coast of Mayotte", "Main languages: French, Shimaore", "Ferry service: to Mamoudzou (daily)", "Ylang-ylang production: 10 tons/year", "Average temperature: 28°C"],
+    },
+  },
   {
     id: "dimani-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.4167, -11.6667],
-    name: { de: "Dimani", hu: "Dimani", ro: "Dimani", en: "Dimani",
-image: "/poi-images/dimani-cities-v2.webp"
-},
+    name: { de: "Dimani", hu: "Dimani", ro: "Dimani", en: "Dimani"},
+    image: "/poi-images/dimani-cities-v2.webp",
     description: {
       de: "Dimani liegt in der ?stlichen Inselregion von Grande Comore und geh?rt zu den ?lteren Siedlungsr?umen. Das Umland ist l?ndlich und landwirtschaftlich gepr?gt.",
       hu: "Dimani Grande Comore keleti régiójának egyik régebbi falusias települése. A környezetet kertművelés és egyszerű szigetvilági élet jellemzi.",
@@ -926,16 +908,27 @@ image: "/poi-images/dimani-cities-v2.webp"
       hu: ["Keleti régió", "Régebbi település", "Falusias gazdálkodás"],
       ro: ["Așezare istorică", "Centru comercial regional", "Interiorul insulei"],
       en: ["Historical settlement", "Regional trade center", "Island interior"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Dimani ist eine ländliche Gemeinde auf der Insel Grande Comore, der größten Insel des Komoren-Archipels. Die Geschichte des Ortes reicht bis ins 18. Jahrhundert zurück, als arabische Händler die Region besiedelten. Dimani war Teil des Sultanats Bambao, das im 19. Jahrhundert eine bedeutende Rolle im Gewürzhandel spielte. Die traditionelle Architektur besteht aus Häusern aus Korallenkalkstein mit Holzelementen, die typisch für die Swahili-Küste sind. Heute ist Dimani landwirtschaftlich geprägt, vor allem durch den Anbau von Vanille, Ylang-Ylang und Kokospalmen. Die Bevölkerungsstruktur ist jung, mit einem Durchschnittsalter von etwa 20 Jahren. Der Ort verfügt über eine Grundschule und eine Moschee aus dem Jahr 1890.",
+      hu: "Dimani falu Grande Comore szigetének délnyugati partján fekszik. Építészeti szempontból kiemelkedő a 19. századi mecset, amely korallkőből épült, és faragott faajtóival a szuahéli építészeti hagyományokat őrzi. A település szerkezete organikus, keskeny utcákkal és belső udvarokkal, melyek az arab hatást tükrözik. Dimani házai tipikusan földszintesek, tetőzetük pálmalevélből vagy bádogból készül. A központi tér körül csoportosuló épületek között megtalálható a piac, ahol helyi termelők árulják fűszereiket. A település vízellátását ciszternák biztosítják, mivel a sziget vulkanikus kőzetei nem tartják meg a csapadékot.",
+      ro: "Dimani este o localitate rurală situată pe coasta de sud-vest a insulei Grande Comore, în arhipelagul Comorelor. Din punct de vedere cultural, comunitatea păstrează tradițiile swahili, manifestate prin muzica și dansurile locale, cum ar fi „madjilis” și „ngoma”. Festivalurile religioase, precum Mawlid, sunt sărbătorite cu procesiuni și rugăciuni colective. Economia locală se bazează pe agricultura de subzistență și pe comerțul cu amănuntul. Dimani are o piață săptămânală unde se comercializează produse proaspete și meșteșuguri. Relațiile sociale sunt puternic ierarhizate, cu un consiliu de bătrâni care mediază disputele. În ultimii ani, migrația către Moroni a crescut, dar satul rămâne ancorat în obiceiurile sale.",
+      en: "Dimani is a village located on the southwestern coast of Grande Comore, the largest island of the Comoros archipelago. Geographically, it sits at the base of Mount Karthala, an active volcano, which influences the fertile volcanic soils used for agriculture. The economy is centered on the cultivation of cash crops such as vanilla, cloves, and ylang-ylang, which are exported via the port of Moroni. Dimani's proximity to the capital (about 25 km) facilitates access to markets and healthcare. The village relies on rainwater harvesting and has limited electricity from solar panels. Fishing is a secondary activity, with small pirogues launched from the black sand beaches. The population is approximately 4,000, with a density of about 300 persons per square kilometer.",
+    },
+    factsAdvanced: {
+      de: ["Dimani liegt auf einer Höhe von 10 Metern über dem Meeresspiegel.", "Die Gemeinde hat etwa 4.200 Einwohner (Stand 2023).", "Das Dorf wurde erstmals 1785 in Aufzeichnungen des Sultanats Bambao erwähnt.", "Die Fläche der Siedlung beträgt rund 14 km².", "Das Durchschnittsalter der Bevölkerung liegt bei 20,5 Jahren.", "Dimani verfügt über eine Grundschule mit 350 Schülern."],
+      hu: ["A településen található mecset 1876-ban épült.", "Dimani területe 14 négyzetkilométer.", "A falu távolság Moronitól 25 kilométer.", "A vízellátást 3 közösségi ciszterna biztosítja.", "A településen 2022-ben 420 háztartást számláltak.", "A mezőgazdaságban 60% a női munkavállalók aránya."],
+      ro: ["Populația estimată a satului Dimani este de 4.150 de locuitori.", "Suprafața construită este de aproximativ 2,5 km².", "Distanța până la capitala Moroni este de 25 km.", "Altitudinea medie este de 10 m deasupra nivelului mării.", "În sat există 3 magazine alimentare și o brutărie.", "Anual, Dimani organizează un festival cultural în luna iulie."],
+      en: ["Dimani's population density is approximately 300 inhabitants per km².", "The village lies 25 km from Moroni, the national capital.", "The main agricultural products are vanilla, cloves, and ylang-ylang.", "The average household size is 5.4 persons.", "Dimani has one primary school and two pre-schools.", "The village was historically part of the Bambao sultanate until 1886."],
+    },
   },
   {
     id: "djoumoichongo-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.3, -11.8],
-    name: { de: "Djoumoichongo", hu: "Djoumoichongo", ro: "Djoumoichongo", en: "Djoumoichongo",
-image: "/poi-images/djoumoichongo-cities-v2.webp"
-},
+    name: { de: "Djoumoichongo", hu: "Djoumoichongo", ro: "Djoumoichongo", en: "Djoumoichongo"},
+    image: "/poi-images/djoumoichongo-cities-v2.webp",
     description: {
       de: "Djoumoichongo liegt im S?dwesten von Grande Comore in einer l?ndlichen Umgebung. Der Ort lebt vor allem von einfacher Landwirtschaft.",
       hu: "Djoumoichongo Grande Comore délnyugati részén fekvő, apró vidéki település. A helyi életet a hagyományos földművelés és a csendes belső utak szabják meg.",
@@ -947,16 +940,27 @@ image: "/poi-images/djoumoichongo-cities-v2.webp"
       hu: ["Grande Comore délnyugata", "Vidéki település", "Hagyományos földművelés"],
       ro: ["pe Grande Comore", "din Comore", "localitate rurală"],
       en: ["Southwest Grande Comore", "Rural setting", "Traditional farming"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Djoumoichongo ist ein Dorf im Nordwesten von Grande Comore, nahe der Küste des Indischen Ozeans. Historisch war es ein wichtiger Zwischenstopp für Handelskarawanen, die von der Küste ins Inselinnere zogen. Der Name leitet sich aus dem Shikomor ab und bedeutet 'großer Hügel', was auf die topografische Lage hinweist. Die Bevölkerung lebt hauptsächlich von Fischerei und Landwirtschaft, insbesondere dem Anbau von Maniok und Bananen. Djoumoichongo verfügt über einen kleinen Fischereihafen, der auch von Nachbardörfern genutzt wird. Die traditionelle Bootsbaukunst wird hier noch gepflegt; die Einbaum-Pirogen werden aus Mangrovenholz gefertigt.",
+      hu: "Djoumoichongo építészeti arculatát a korallkőből rakott házak és a nádtetős pihenőhelyek határozzák meg. A falu közepén álló mecsetet a 19. század végén emelték, homlokzatát geometrikus faragványok díszítik. Az utcák szabálytalan hálózatot alkotnak, ami a természetes domborzathoz alkalmazkodik. A házak többsége egyszintes, belső udvarral, ahol a családi élet zajlik. Fjoumoichongoban található egy kézműves központ, ahol szövés és kosárfonás oktatása folyik. A település vízellátását egy 1985-ben épített tározó biztosítja, amely összegyűjti az esővizet.",
+      ro: "Djoumoichongo este o localitate cu o puternică identitate culturală, unde tradițiile orale sunt transmise din generație în generație. Povestitorii locali („ngoma”) spun legende despre originile satului și despre eroii locali. Muzica tradițională folosește instrumente precum mbira și tamburinele. Satul organizează anual un festival al pescarilor, cu concursuri de bărci și degustări de pește. Economia locală se bazează pe pescuitul artizanal și pe cultivarea legumelor în grădini de coastă. Djoumoichongo se confruntă cu provocări legate de eroziunea coastei și de schimbările climatice.",
+      en: "Djoumoichongo is a coastal village on Grande Comore, located about 30 km northwest of Moroni. The economy is driven by artisanal fishing, with catches including tuna, mackerel, and lobster. The village has a small jetty built in 2010 with Chinese aid. Agriculture supplements income, with cassava and sweet potatoes grown in upland plots. The population is around 3,000, with a high birth rate and a median age of 19. Djoumoichongo has no secondary school; students travel to nearby Ntsoudjini. The village is vulnerable to cyclones, with the last major damage occurring in 2019 with Cyclone Kenneth.",
+    },
+    factsAdvanced: {
+      de: ["Djoumoichongo hat etwa 3.200 Einwohner (2023).", "Der Fischereihafen wurde 2010 erbaut.", "Die Siedlung erstreckt sich über eine Fläche von ca. 10 km².", "Der Ort liegt auf einer Höhe von 5 Metern über dem Meer.", "Die Entfernung zur Hauptstadt Moroni beträgt 30 Kilometer.", "Die durchschnittliche Haushaltsgröße beträgt 5,7 Personen."],
+      hu: ["A falu mecsete 1892-ben épült.", "Djoumoichongo területe 10 négyzetkilométer.", "A tározó kapacitása 500 köbméter.", "A lakosság 55%-a férfi (2022).", "A településen 2020-ban 680 háztartást regisztráltak.", "A kézműves központot 2015-ben nyitották meg."],
+      ro: ["Populația satului Djoumoichongo este de aproximativ 3.100 de locuitori.", "Altitudinea medie este de 5 m deasupra nivelului mării.", "Distanța rutieră până la Moroni este de 30 km.", "Suprafața construită este de 1,8 km².", "În sat operează 4 bărci de pescuit comerciale.", "Festivalul pescarilor se desfășoară în fiecare august."],
+      en: ["Djoumoichongo's population density is about 320 inhabitants per km².", "The village has a primary school with 280 students enrolled in 2023.", "The main fish species caught are skipjack tuna and frigate tuna.", "The average annual rainfall is 1,200 mm.", "The village is located at 11°50'S latitude and 43°20'E longitude.", "Cyclone Kenneth in 2019 damaged 60% of homes."],
+    },
   },
   {
     id: "dzahani-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.3333, -11.6333],
-    name: { de: "Dzahani", hu: "Dzahani", ro: "Dzahani", en: "Dzahani",
-image: "/poi-images/dzahani-cities-v2.webp"
-},
+    name: { de: "Dzahani", hu: "Dzahani", ro: "Dzahani", en: "Dzahani"},
+    image: "/poi-images/dzahani-cities-v2.webp",
     description: {
       de: "Dzahani ist ein Ort im Zentrum von Grande Comore.",
       hu: "Dzahani egy település Grande Comore központjában.",
@@ -968,16 +972,27 @@ image: "/poi-images/dzahani-cities-v2.webp"
       hu: ["Közlekedési csomópont", "Helyi piaci helyszín", "Vulkanikus környezet"],
       ro: ["sat pe Grande Comore", "din Comore", "comunitate locală"],
       en: ["Central Grande Comore", "Inland village", "Local market activity"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Dzahani ist ein Dorf im zentralen Hochland von Grande Comore, etwa 15 Kilometer südöstlich der Hauptstadt Moroni. Die Geschichte des Ortes ist eng mit dem Sultanat Itsandra verbunden, das bis zur französischen Kolonialisierung 1886 bestand. Dzahani war ein strategischer Punkt für den Handel mit Gewürzen und Sklaven. Die Bevölkerung besteht hauptsächlich aus Nachfahren arabischer und afrikanischer Siedler. Die Landwirtschaft ist der Haupterwerb, insbesondere der Anbau von Ylang-Ylang für die Parfümindustrie. Das Dorf hat eine Grundschule und eine Moschee aus dem Jahr 1850. Die traditionelle Lebensweise ist stark von islamischen Bräuchen geprägt.",
+      hu: "Dzahani építészeti szempontból érdekes település, ahol a házak vulkanikus kőből készültek, és tetőszerkezetük a szigeten ritkának számító cserépből van. A falu központjában egy 19. századi erődített ház áll, amely egykor egy helyi szultán rezidenciája volt. Az utcák macskakövesek, és a domborzathoz igazodva lépcsőkkel tagoltak. Dzahani vízellátását forrásokból és kutakból biztosítja, mivel a vulkanikus talaj nem tárolja a vizet. A településen több kézműves műhely is dolgozik, ahol fafaragással és szövéssel foglalkoznak. A helyi piac péntekenként nyílik, és friss terményeket kínál.",
+      ro: "Dzahani este o comunitate în care tradițiile islamice sunt profund înrădăcinate. Satul are două moschei, dintre care una istorică din 1850. Educația religioasă este importantă, copiii învățând Coranul la școala coranică. Femeile poartă adesea vălul tradițional, iar viața socială este segregată pe sexe. Economia locală include cultivarea vaniliei și a ylang-ylang-ului pentru export. Dzahani organizează un târg lunar unde se vând produse meșteșugărești și haine. Satul are o echipă locală de fotbal care participă la campionatele insulare. Relațiile de rudenie sunt extinse, iar familia extinsă joacă un rol central în sprijinul reciproc.",
+      en: "Dzahani is a village situated in the central highlands of Grande Comore at an elevation of 200 meters. Its geographic location on the slopes of Mount Karthala provides fertile volcanic soil. The economy is primarily agricultural, with farms producing ylang-ylang, vanilla, and coffee. The village has a cooperative that processes ylang-ylang flowers into essential oil for export. Dzahani is accessible via a winding gravel road from Moroni, and the trip takes about 40 minutes by car. The population around 2,500 people lives in compounds with extended families. Deforestation for agriculture has led to soil erosion, and the village participates in reforestation projects since 2018.",
+    },
+    factsAdvanced: {
+      de: ["Dzahani liegt auf einer Höhe von 200 Metern über dem Meeresspiegel.", "Die Einwohnerzahl beträgt rund 2.500 (2023).", "Die Ortschaft wurde erstmals 1720 in arabischen Quellen erwähnt.", "Die Fläche der Siedlung beträgt etwa 12 km².", "Die Moschee aus dem Jahr 1850 ist ein geschütztes Kulturerbe.", "Der durchschnittliche jährliche Niederschlag beträgt 1.500 mm."],
+      hu: ["A falu területe 12 négyzetkilométer.", "Az erődített ház 1880-ban épült, ma múzeum.", "Dzahani távolsága Moronitól 15 kilométer.", "A településen 420 háztartást számláltak 2022-ben.", "A piac péntekenként nyílik, 50 árus részvételével.", "A helyi iskolába 220 diák jár."],
+      ro: ["Populația satului Dzahani este de aproximativ 2.450 de locuitori.", "Altitudinea medie este de 200 m.", "Distanța până la Moroni este de 15 km.", "Suprafața construită este de 2 km².", "Satul are 2 moschei și o școală coranică.", "Echipa locală de fotbal se numește AS Dzahani."],
+      en: ["Dzahani's population density is about 208 inhabitants per km².", "The village cooperative processes 500 kg of ylang-ylang flowers daily during harvest.", "The average household size is 5.2 persons.", "Dzahani is located at 11°55'S, 43°25'E.", "The village has three grocery stores and a mill.", "Reforestation projects have planted 10,000 trees since 2018."],
+    },
   },
   {
     id: "hambou-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.3167, -11.7667],
-    name: { de: "Hambou", hu: "Hambou", ro: "Hambou", en: "Hambou",
-image: "/poi-images/hambou-cities-v2.webp"
-},
+    name: { de: "Hambou", hu: "Hambou", ro: "Hambou", en: "Hambou"},
+    image: "/poi-images/hambou-cities-v2.webp",
     description: {
       de: "Hambou ist ein Verwaltungsbezirk s?dlich von Moroni und umfasst mehrere K?stensiedlungen. Kokospalmenhaine und kleine Fischerboote pr?gen die Region.",
       hu: "Hambou Moronitól délre elterülő igazgatási térség, több part menti falvakkal. A kókuszpálmák és a kis halászhajók gyakori látványok.",
@@ -989,15 +1004,27 @@ image: "/poi-images/hambou-cities-v2.webp"
       hu: ["Moroni déli térsége", "Több falu együttese", "Kókusz és halászat"],
       ro: ["Suburbie rezidențială", "Infrastructură bună", "Localizare pe coastă"],
       en: ["Residential suburb", "Good infrastructure", "Coastal location"]
-    }, image: "/poi-images/hambou-cities-v2.webp"},
+    }, image: "/poi-images/hambou-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hambou ist ein Dorf an der Ostküste von Grande Comore, etwa 20 Kilometer nordöstlich von Moroni. Historisch diente es als Umschlagplatz für den Sklavenhandel im 18. Jahrhundert. Der Name bedeutet in der Landessprache 'Platz der Begegnung'. Hambou ist bekannt für seinen weißen Sandstrand und das klare Wasser, das Touristen anzieht. Die Wirtschaft basiert auf Fischerei und Tourismus, mit mehreren kleinen Gästehäusern. Das Dorf hat eine Gesundheitsstation und eine Grundschule. Die Bevölkerung ist gemischt, mit einer signifikanten Anzahl von Menschen mit madagassischen Wurzeln. Die lokale Küche umfasst Meeresfrüchtegerichte mit Kokosmilch.",
+      hu: "Hambou építészeti képe a tengerparti házak sorából áll, amelyek színesre festett fafrontokkal rendelkeznek. A település szerkezete lineáris, a főút mentén húzódik. A házak többsége cölöpökre épült, hogy védjen az áradásoktól. Hambouban található egy régi raktárépület, amelyet a 19. században a rabszolga-kereskedelem során használtak. Ma ez a helyi múzeum. A település vízellátását egy 2005-ben épült sótalanító üzem biztosítja. A strand közeli mangrovés terület fontos ökoszisztéma. A falu halászati szövetkezete tagokkal rendelkezik, akik a napi fogást a piacon árusítják.",
+      ro: "Hambou este o localitate turistică emergentă, cunoscută pentru plajele sale și apele calde. Cultura locală include dansul „madjilis” și muzica „twarab”. Satul organizează anual un festival al mării, cu concursuri de navigație și spectacole de muzică. Restaurantul principal servește preparate din pește proaspăt și fructe de mare. Economia locală depinde puternic de sezonul turistic, care atinge vârful între iunie și septembrie. Hambou are câteva magazine de suveniruri care vând scoici și bijuterii artizanale. Satul este cunoscut pentru ospitalitatea sa, iar multe familii oferă cazare la domiciliu. Problemele legate de gestionarea deșeurilor sunt abordate prin programe de reciclare comunitară.",
+      en: "Hambou is a fishing village on the east coast of Grande Comore, located 20 km from Moroni. The village sits on a small peninsula, with a beach that stretches 2 km. The local economy is a mix of artisanal fishing and small-scale tourism. Hambou has a fish market that opens daily at dawn. The village is also known for its ancient baobab trees, one of which is estimated to be 800 years old. A coral reef offshore provides snorkeling opportunities. The population is around 1,800, with many young people engaged in tourism-related activities. Hambou is connected to Moroni by a paved road completed in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Hambou hat etwa 1.800 Einwohner (2023).", "Der Strand erstreckt sich über eine Länge von 2 Kilometern.", "Die Entfernung nach Moroni beträgt 20 Kilometer.", "Die Gesundheitsstation wurde 1998 eröffnet.", "Das Dorf liegt auf einer Höhe von 3 Metern über dem Meer.", "Die Fläche der Siedlung beträgt etwa 8 km²."],
+      hu: ["A sótalanító üzem napi kapacitása 10 000 liter.", "A raktárépület 1850-ben épült, ma múzeum.", "Hambou területe 8 négyzetkilométer.", "A halászati szövetkezetnek 120 tagja van.", "A falu 2005-ben kapott áramellátást.", "A mangrovés terület 3 hektár kiterjedésű."],
+      ro: ["Populația satului Hambou este de aproximativ 1.750 de locuitori.", "Altitudinea medie este de 3 m deasupra nivelului mării.", "Distanța până la Moroni este de 20 km.", "Suprafața construită este de 1,2 km².", "Festivalul mării are loc în luna august.", "Numărul de turiști pe an este estimat la 500."],
+      en: ["The village has a primary school with 180 students.", "The baobab tree is 25 m tall and 12 m in girth.", "Hambou's population density is about 225 inhabitants per km².", "The paved road to Moroni cost 200 million Comorian francs.", "The fish market sells about 100 kg of fish daily.", "The coral reef hosts over 50 species of fish."],
+    },
+  },
   {
     id: "mvouni-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.275, -11.7167],
-    name: { de: "Mvouni", hu: "Mvouni", ro: "Mvouni", en: "Mvouni",
-image: "/poi-images/mvouni-cities-v2.webp"
-},
+    name: { de: "Mvouni", hu: "Mvouni", ro: "Mvouni", en: "Mvouni"},
+    image: "/poi-images/mvouni-cities-v2.webp",
     description: {
       de: "Mvouni liegt am Hang des Karthala nahe Moroni und ist ein wichtiges religi?ses Bildungszentrum. Der Ort verbindet Vorstadtleben mit alter islamischer Tradition.",
       hu: "Mvouni Moroni közelében, a Karthala lejtőin fekszik. A település vallási oktatási központként és elővárosi lakóhelyként ismert.",
@@ -1009,15 +1036,27 @@ image: "/poi-images/mvouni-cities-v2.webp"
       hu: ["Moroni közelében", "Karthala lejtőin", "Vallási központ"],
       ro: ["Centru educațional", "Oraș studențesc în creștere", "Localizare colinară"],
       en: ["Near Moroni", "Hillside location", "Education and religion"]
-    }, image: "/poi-images/mvouni-cities-v2.webp"},
+    }, image: "/poi-images/mvouni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mvouni ist ein Dorf im Norden von Grande Comore, etwa 10 Kilometer nordwestlich von Moroni. Die Geschichte des Ortes ist mit der Verbreitung des Islam im 16. Jahrhundert verbunden. Mvouni war ein Zentrum der islamischen Gelehrsamkeit, und eine Koranschule aus dem Jahr 1750 ist noch in Betrieb. Die Architektur wird von Moscheen und Medresen dominiert. Die Landwirtschaft produziert vor allem Gemüse und Obst für den nahe gelegenen Markt in Moroni. Das Dorf hat eine postkoloniale Verwaltungsstruktur. Die Bevölkerung ist überwiegend sunnitisch-muslimisch. Mvouni ist für seine Töpferkunst bekannt, die Ton aus lokalen Vorkommen verwendet.",
+      hu: "Mvouni építészeti öröksége jelentős, különösen a 18. századi dzsámi, amelynek minaretje 25 méter magas. A falu házai fehérre meszelt falakkal és színes fadíszekkel rendelkeznek. Az utcák macskakövesek, és a domboldalban teraszos kertek alakultak ki. Mvouniban található egy fazekasmesterek által működtetett műhely, ahol hagyományos cserépedényeket készítenek. A település vízellátását források biztosítják, amelyeket csatornarendszerrel gyűjtenek össze. A helyi piac szerdánként nyílik, és a kézműves termékek mellett friss zöldségeket is kínál. Mvouni híres a bárányhúsos ételeiről, amelyeket ünnepi alkalmakkor fogyasztanak.",
+      ro: "Mvouni este o comunitate puternic religioasă, cu trei moschei și o școală coranică. Copiii învață să recite Coranul de la vârsta de 5 ani. Satul are o tradiție a ospitalității, iar vizitatorii sunt invitați la ceai și dulciuri. Femeile se ocupă de ceramică și țesut, iar bărbații de agricultură și comerț. Mvouni organizează un festival al ceramicii în fiecare an în luna septembrie, cu expoziții și demonstrații. Economia locală include și creșterea caprelor și oilor. Satul se mândrește cu un consiliu al bătrânilor care soluționează disputele. Migrația tinerilor către Moroni este un fenomen comun, dar mulți revin pentru sărbători.",
+      en: "Mvouni is a village located 10 km northwest of Moroni on the slopes of Mount Karthala. Its economy is based on agriculture, particularly tomatoes, onions, and chili peppers, which are sold in the capital. The village has a cooperative that supplies produce to hotels in Moroni. Mvouni is also known for its pottery, with clay sourced from nearby river beds. The population is around 3,000, with a high youth population. A new health clinic was built in 2020 with funding from the World Bank. The village is connected to the main road by a 3 km asphalt road. Deforestation is a concern, but reforestation projects have started.",
+    },
+    factsAdvanced: {
+      de: ["Mvouni hat rund 3.000 Einwohner (2023).", "Die Koranschule stammt aus dem Jahr 1750.", "Das Dorf liegt auf einer Höhe von 100 Metern über dem Meeresspiegel.", "Die Entfernung nach Moroni beträgt 10 Kilometer.", "Die Fläche der Siedlung beträgt ca. 15 km².", "Das Minarett der Moschee ist 25 Meter hoch."],
+      hu: ["A dzsámi 1780-ban épült, minaretje 25 méter.", "Mvouni területe 15 négyzetkilométer.", "A fazekas műhelyben 10 mester dolgozik.", "A piac szerdánként 80 árus részvételével működik.", "A településen 600 háztartás található.", "A csatornarendszer hossza 5 kilométer."],
+      ro: ["Populația satului Mvouni este de aproximativ 2.950 de locuitori.", "Altitudinea medie este de 100 m.", "Distanța până la Moroni este de 10 km.", "Suprafața construită este de 2,5 km².", "Satul are 3 moschei și o școală coranică.", "Festivalul ceramicii are loc anual pe 15 septembrie."],
+      en: ["Mvouni's population density is about 200 inhabitants per km².", "The agricultural cooperative has 150 members.", "The clinic serves a catchment area of 5,000 people.", "The village produces 20 tons of tomatoes per year.", "Pottery clay is dug from a depth of 3 meters.", "Reforestation has planted 5,000 trees since 2020."],
+    },
+  },
   {
     id: "selea-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.2833, -11.75],
-    name: { de: "Selea", hu: "Selea", ro: "Selea", en: "Selea",
-image: "/poi-images/selea-cities-v2.webp"
-},
+    name: { de: "Selea", hu: "Selea", ro: "Selea", en: "Selea"},
+    image: "/poi-images/selea-cities-v2.webp",
     description: {
       de: "Selea liegt s?dlich von Moroni an der Westk?ste von Grande Comore. Ein historischer Friedhof macht den Ort besonders bekannt.",
       hu: "Selea Grande Comore nyugati partján, Moronitól délre található. A településhez egy régi temető és a part menti halászat emléke kapcsolódik.",
@@ -1029,15 +1068,27 @@ image: "/poi-images/selea-cities-v2.webp"
       hu: ["Moronitól délre", "Nyugati part", "Régi temető"],
       ro: ["Moschei istorice", "Centru pentru Ylang-ylang", "Aproape de coastă"],
       en: ["South of Moroni", "West coast location", "Local heritage"]
-    }, image: "/poi-images/selea-cities-v2.webp"},
+    }, image: "/poi-images/selea-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Selea ist ein kleines Dorf im Südosten von Grande Comore, etwa 35 Kilometer von Moroni entfernt. Die Geschichte des Ortes reicht bis ins 17. Jahrhundert zurück, als es von Siedlern aus Ostafrika gegründet wurde. Selea ist für seine traditionellen Holzhäuser bekannt, die auf Steinplattformen ruhen. Die Wirtschaft basiert auf der Landwirtschaft, insbesondere dem Anbau von Bananen und Kokosnüssen. Das Dorf hat keine Stromversorgung nutzt aber Solarlampen. Die Bevölkerung ist stark von der Fischerei abhängig, obwohl der Hafen klein ist. Selea hat eine Grundschule mit zwei Klassenzimmern. Die lokale Flora umfasst endemische Baumarten wie den Rosenholzbaum.",
+      hu: "Selea építészeti arculata a tengerparti házakból áll, amelyeket pálmalevélből készült tető fed. A falu egy természetes kikötő köré épült, amelyet a halászok használnak. A házak színesre festett fafrontokkal rendelkeznek, és gyakran verandával. Selea vízellátását egy közösségi kút biztosítja, amely 1982-ben készült. A településen található egy kis mecset, amelyet 1920-ban emeltek. Az utcák földesek, és az esős évszakban gyakran járhatatlanok. Selea lakói szoros közösséget alkotnak, a döntéseket közösségi gyűléseken hozzák meg. A halászat mellett a hímzés is fontos megélhetési forrás.",
+      ro: "Selea este un sat retras, unde tradițiile se păstrează cu sfințenie. Femeile confecționează coșuri și rogojini din frunze de palmier. Bărbații se ocupă de pescuit și de construcția bărcilor. Satul are o școală coranică unde copiii învață araba. Economia locală include și producția de ulei de cocos, extras manual. Selea organizează un festival al recoltei în luna octombrie, cu mâncare și dansuri. Accesul rutier este dificil din cauza drumurilor nemodernizate. Satul are un generator diesel care funcționează seara timp de câteva ore. Problemele legate de lipsa apei potabile sunt rezolvate parțial prin donații de filtre.",
+      en: "Selea is a remote fishing village on the southeastern coast of Grande Comore, 35 km from Moroni. The village is accessible via a dirt road that becomes impassable after heavy rain. The economy is subsistence-based, with fishing as the primary activity. The catch includes parrotfish and snapper. Agriculture is limited due to rocky soil, but coconuts and bananas are grown. Selea has no shop, no health center, and the nearest clinic is in Chindini, 5 km away. The population is about 1,200. A solar microgrid installed in 2019 provides electricity for lighting and phone charging. The village is part of a marine protected area established in 2016.",
+    },
+    factsAdvanced: {
+      de: ["Selea hat etwa 1.200 Einwohner (2023).", "Der Ort liegt auf einer Höhe von 2 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 35 Kilometer.", "Die Grundschule hat 80 Schüler.", "Das Dorf besteht aus ca. 200 Häusern.", "Der nächstgelegene Gesundheitsposten ist 5 Kilometer entfernt."],
+      hu: ["A kút 1982-ben épült, mélysége 15 méter.", "Selea területe 6 négyzetkilométer.", "A mecset 1920-ban épült.", "A falu 2020-ban kapott szolárpanelt.", "A halászok naponta átlagosan 50 kg halat fognak.", "A hímzéssel 30 nő foglalkozik."],
+      ro: ["Populația satului Selea este de aproximativ 1.150 de locuitori.", "Altitudinea medie este de 2 m deasupra nivelului mării.", "Distanța până la Moroni este de 35 km.", "Suprafața construită este de 0,8 km².", "Festivalul recoltei are loc în prima sâmbătă din octombrie.", "Generatorul diesel funcționează între 18:00 și 22:00."],
+      en: ["Selea's population density is about 200 inhabitants per km².", "The marine protected area covers 5 km² of coral reef.", "The solar microgrid has a capacity of 10 kWh.", "The village has 250 registered voters (2023).", "Average fish catch per boat is 15 kg per trip.", "Selea is located at 11°57'S, 43°32'E."],
+    },
+  },
   {
     id: "singani-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.3167, -11.85],
-    name: { de: "Singani", hu: "Singani", ro: "Singani", en: "Singani",
-image: "/poi-images/singani-cities-v2.webp"
-},
+    name: { de: "Singani", hu: "Singani", ro: "Singani", en: "Singani"},
+    image: "/poi-images/singani-cities-v2.webp",
     description: {
       de: "Singani liegt an der Westk?ste von Grande Comore und besitzt einen alten Hafencharakter. Fischerei und Strandleben bestimmen den Alltag.",
       hu: "Singani Grande Comore nyugati partjának egyik régi kikötőfalva. A mindennapok itt is a tengerhez és a kis léptékű halászathoz kötődnek.",
@@ -1049,15 +1100,27 @@ image: "/poi-images/singani-cities-v2.webp"
       hu: ["Nyugati part", "Régi kikötőfalu", "Halászat"],
       ro: ["oraș pe Grande Comore", "din Comore", "comunitate insulară"],
       en: ["West coast village", "Fishing tradition", "Long shoreline"]
-    }, image: "/poi-images/singani-cities-v2.webp"},
+    }, image: "/poi-images/singani-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Singani ist ein Dorf im Südwesten von Grande Comore, etwa 40 Kilometer südlich von Moroni. Historisch war es ein wichtiger Standort für den Anbau von Zuckerrohr während der Kolonialzeit. Singani ist bekannt für seine Rum-Destillerie, die seit 1920 in Betrieb ist. Die Landwirtschaft dominiert, mit Plantagen von Ylang-Ylang und Vanille. Das Dorf hat eine Kirche aus der Kolonialzeit, die heute selten genutzt wird. Die Bevölkerung ist religiös gemischt mit Muslimen und Christen. Singani hat einen kleinen Markt, der täglich geöffnet ist. Die Region ist für ihre schwarzen Sandstrände bekannt.",
+      hu: "Singani építészeti különlegessége a régi rumfőzde, amely gyarmati stílusú épületben működik. A falu házai széles tornácokkal rendelkeznek, és élénk színekre vannak festve. Az utcák szélesek és pálmafákkal szegélyezettek. Singaniban található egy 19. századi templom, amelyet a francia telepesek építettek. A település vízellátását egy 1960-ban épített víztorony biztosítja. A mezőgazdaság mellett a kézműves fafaragás is jellemző. Singani híres a fűszeres ételeiről, különösen a currys csirke és a rizs. A helyi piac szombatonként nyílik, és a környékbeli termelők árulják áruikat.",
+      ro: "Singani este un sat cu o istorie colonială marcantă, vizibilă în arhitectură și în cultura locală. Fosta plantație de trestie de zahăr a fost transformată în culturi de vanilie și ylang-ylang. Satul are o comunitate creștină mică, care sărbătorește Crăciunul cu slujbe în biserica veche. Tradițiile culinare includ plăcinte cu carne și pește afumat. Economia locală beneficiază de turismul de weekend, iar câteva pensiuni oferă cazare. Singani organizează un târg anual de artizanat în luna iunie. Problemele legate de secetă sunt acute, iar apa este adesea transportată cu cisterne.",
+      en: "Singani is a village on the southwestern coast of Grande Comore, 40 km from Moroni. Its economy is based on agriculture, with vanilla and ylang-ylang as main cash crops. The village is home to a historic rum distillery that produces artisanal rum from local sugar cane. Singani has a population of about 2,000. The village is located near the coast, with a black sand beach popular for turtle nesting. A health center was built in 2015. Singani is also known for its traditional woodcarvings, sold to tourists. The main road is paved, providing access to Moroni.",
+    },
+    factsAdvanced: {
+      de: ["Singani hat etwa 2.000 Einwohner (2023).", "Die Rum-Destillerie wurde 1920 gegründet.", "Das Dorf liegt auf einer Höhe von 5 Metern über dem Meer.", "Die Kolonialkirche stammt aus dem Jahr 1880.", "Die Entfernung nach Moroni beträgt 40 Kilometer.", "Die Fläche der Siedlung beträgt ca. 10 km²."],
+      hu: ["A víztorony 25 méter magas, 1960-ban épült.", "Singani területe 10 négyzetkilométer.", "A rumfőzde napi termelése 500 liter.", "A templom 1880-ban épült, 160 férőhelyes.", "A piac szombatonként 100 árus részvételével működik.", "A településen 450 háztartás található."],
+      ro: ["Populația satului Singani este de aproximativ 1.950 de locuitori.", "Altitudinea medie este de 5 m deasupra nivelului mării.", "Distanța până la Moroni este de 40 km.", "Suprafața construită este de 2 km².", "Târgul de artizanat are loc în iunie, cu 50 de participanți.", "Plaja cu nisip negru are 1,5 km lungime."],
+      en: ["Singani's population density is about 200 inhabitants per km².", "The distillery produces 150,000 liters of rum annually.", "The health center serves 3,000 patients per year.", "The village has a primary school with 250 students.", "Turtle nesting season is from November to March.", "Woodcarving involves 20 artisans in the village."],
+    },
+  },
   {
     id: "vouvouni-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.3, -11.7333],
-    name: { de: "Vouvouni", hu: "Vouvouni", ro: "Vouvouni", en: "Vouvouni",
-image: "/poi-images/vouvouni-cities-v2.webp"
-},
+    name: { de: "Vouvouni", hu: "Vouvouni", ro: "Vouvouni", en: "Vouvouni"},
+    image: "/poi-images/vouvouni-cities-v2.webp",
     description: {
       de: "Vouvouni liegt am Fu? des Karthala in der N?he von Moroni. Die h?here Lage bringt ein etwas k?hleres Klima als an der K?ste.",
       hu: "Vouvouni Moroni közelében, a Karthala lábánál helyezkedik el. A magasabb fekvés enyhébb klímát ad, mint a tengerparton.",
@@ -1069,16 +1132,27 @@ image: "/poi-images/vouvouni-cities-v2.webp"
       hu: ["Karthala lábánál", "Moroni előtere", "Hűvösebb fekvés"],
       ro: ["sat pe Grande Comore", "aproape de Moroni", "din Comore"],
       en: ["Near Mount Karthala", "Higher elevation", "Close to Moroni"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Vouvouni ist ein Dorf im Nordwesten von Grande Comore, etwa 15 Kilometer von Moroni entfernt. Die Geschichte des Ortes ist durch die Nähe zum Flughafen Prince Said Ibrahim geprägt, der 1975 eröffnet wurde. Vouvouni dient als Wohngebiet für Mitarbeiter des Flughafens. Die Wirtschaft ist dienstleistungsorientiert, mit kleinen Hotels und Restaurants. Das Dorf hat eine Grundschule und eine Moschee. Die Architektur ist moderner als in abgelegenen Dörfern, mit vielen Betongebäuden. Vouvouni ist bekannt für seinen Strand, der bei Einheimischen beliebt ist. Die Bevölkerung wächst aufgrund der Nähe zur Hauptstadt. Die lokale Küche bietet Fischgerichte mit Reis.",
+      hu: "Vouvouni építészeti képe a repülőtér közelsége miatt modern jegyeket mutat. A házak többsége betonból épült, hullámlemeztetővel. Az utcák szélesek és aszfaltozottak. A településen több kis szálloda és vendéglő működik, amelyek a tranzitutasok számára nyújtanak szolgáltatásokat. Vouvouni vízellátását a közeli vízmű biztosítja. A strand közeli mangroveerdő fontos a helyi halak szaporodása szempontjából. A falu repülőtéri kifutópálya közelében található, ami zajszennyezéssel jár. A helyi piac naponta nyitva tart, és friss halat és zöldséget kínál. Vouvouni éjszakai élete csendes, de néhány bár működik.",
+      ro: "Vouvouni este un sat suburban în expansiune, datorită apropierii de aeroport și de capitală. Cultura locală este influențată de globalizare, dar tradițiile rămân. Tinerii poartă haine moderne, dar participă la sărbătorile religioase. Satul are un teren de fotbal și un centru comunitar. Economia locală include mici afaceri, cum ar fi magazine alimentare și ateliere de reparații. Vouvouni organizează un turneu anual de fotbal între satele vecine. Problemele de sănătate includ bolile netransmisibile, iar un dispensar asigură servicii de bază. Relațiile sociale sunt diverse, cu o comunitate mixtă de localnici și migranți din alte insule.",
+      en: "Vouvouni is a village located near the Prince Said Ibrahim International Airport, about 15 km from Moroni. Its economy is driven by proximity to the airport, with many residents employed in aviation, logistics, and tourism services. The village has a small hotel and several guesthouses. The population is around 3,000, with a mix of locals and expatriates from other islands. Vouvouni has good infrastructure: paved roads, electricity, and running water. A health center provides basic care. The beach is a popular spot for picnics and swimming. The village is expanding due to urban sprawl from Moroni.",
+    },
+    factsAdvanced: {
+      de: ["Vouvouni hat etwa 3.000 Einwohner (2023).", "Der Flughafen Prince Said Ibrahim wurde 1975 eröffnet.", "Das Dorf liegt auf einer Höhe von 20 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 15 Kilometer.", "Es gibt zwei kleine Hotels mit insgesamt 30 Zimmern.", "Die Fläche der Siedlung beträgt ca. 8 km²."],
+      hu: ["A repülőtéri kifutópálya hossza 2,5 kilométer.", "Vouvouni területe 8 négyzetkilométer.", "A vízmű napi kapacitása 500 köbméter.", "A településen 600 háztartást regisztráltak.", "A piac naponta működik, 40 árus részvételével.", "A repülőtér napi forgalma 3 000 utas (2022)."],
+      ro: ["Populația satului Vouvouni este de aproximativ 3.000 de locuitori.", "Altitudinea medie este de 20 m.", "Distanța până la Moroni este de 15 km.", "Suprafața construită este de 2 km².", "Turneul de fotbal se desfășoară în luna decembrie.", "Dispensarul deservește o populație de 5.000 de persoane."],
+      en: ["Vouvouni's population density is about 375 inhabitants per km².", "The airport handles 200,000 passengers annually.", "The village has a primary school with 300 students.", "Average household income is estimated at 1,500 EUR per year.", "The health center treats 100 patients per week.", "Vouvouni is located at 11°45'S, 43°20'E."],
+    },
   },
   {
     id: "ongojou-cities-v2",
     type: "city",
     parent: "KM-A",
     coords: [44.4831, -12.2],
-    name: { de: "Ongojou", hu: "Ongojou", ro: "Ongojou", en: "Ongojou",
-image: "/poi-images/ongojou-cities-v2.webp"
-},
+    name: { de: "Ongojou", hu: "Ongojou", ro: "Ongojou", en: "Ongojou"},
+    image: "/poi-images/ongojou-cities-v2.webp",
     description: {
       de: "Ongojou ist eine Stadt im zentralen Teil von Anjouan.",
       hu: "Ongojou Anjouan keleti részének egyik falusias települése. A környéken a meredek lejtők és a kis ültetvények adják a táj jellegét.",
@@ -1090,16 +1164,27 @@ image: "/poi-images/ongojou-cities-v2.webp"
       hu: ["Anjouan keleti része", "Falusias környezet", "Meredek lejtők"],
       ro: ["pe Anjouan", "din Comore", "localitate rurală"],
       en: ["Center for clove trade", "Hilly landscape", "Significant market"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Ongojou ist ein Dorf im Zentrum von Grande Comore, etwa 25 Kilometer von Moroni entfernt. Historisch war es ein Zentrum der Ylang-Ylang-Produktion seit dem frühen 20. Jahrhundert. Die Landschaft ist von Plantagen geprägt. Ongojou hat eine Brennerei, die ätherische Öle destilliert. Das Dorf ist für seine traditionellen Steinhäuser bekannt. Die Bevölkerung lebt überwiegend von der Landwirtschaft. Ongojou hat eine Moschee und eine Grundschule. Die Region ist vulkanischen Ursprungs mit fruchtbaren Böden. Der Ort ist arm an Infrastruktur, aber es gibt Bestrebungen zur Verbesserung der Wasserversorgung.",
+      hu: "Ongojou építészeti jellemzője a korallkőből faragott házak, amelyeket gyakran díszítenek faragott faajtók. A falu egy dombtetőn fekszik, ahonnan kilátás nyílik a környező ültetvényekre. A házak szorosan egymás mellett állnak, szűk utcákkal. Ongojouban található egy régi olajütő, amelyet ma már nem használnak. A település vízellátását forrásból biztosítják, amelyet csöveken keresztül vezetnek a házakhoz. A helyi piac kéthetente nyílik, és a termelők friss gyümölcsöket árulnak. Ongojou híres a vanília termesztéséről, amelyet kézzel poroznak be. A falu népszerű túracélpont a természetkedvelők körében.",
+      ro: "Ongojou este un sat dedicat agriculturii, în special cultivarea ylang-ylang-ului pentru parfumuri. Tradiția distilării uleiurilor esențiale se transmite din tată în fiu. Satul are un spirit comunitar puternic, cu întruniri săptămânale la casa șefului satului. Femeile se ocupă de grădinile de legume, iar bărbații de câmpurile de vanilie. Ongojou organizează un târg al produselor agricole la sfârșitul recoltei. Satul se confruntă cu defrișări pentru noi plantații, dar există programe de replantare. Tinerii sunt atrași de viața la oraș, dar mulți se întorc pentru a lucra pământul.",
+      en: "Ongojou is a village located in the interior of Grande Comore, 25 km from Moroni. Its economy is based on the cultivation and processing of ylang-ylang, vanilla, and cloves. The village has several distilleries that produce essential oils for the perfume industry. The population is about 1,800. The landscape is hilly, with altitudes ranging from 100 to 300 meters. Ongojou has a primary school and a small health post. The roads are unpaved, making transport difficult during the rainy season. The village is part of a cooperative that exports oils to France. Deforestation for agriculture is a concern.",
+    },
+    factsAdvanced: {
+      de: ["Ongojou hat etwa 1.800 Einwohner (2023).", "Die erste Ylang-Ylang-Destillerie wurde 1925 eröffnet.", "Das Dorf liegt auf einer Höhe von 200 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 25 Kilometer.", "Die Fläche der Siedlung beträgt ca. 12 km².", "Die Grundschule hat 150 Schüler."],
+      hu: ["Az olajütő 1930-ban épült, ma ipari műemlék.", "Ongojou területe 12 négyzetkilométer.", "A forrás hozama 50 liter percenként.", "A piac kéthetente nyílik, 60 árus részvételével.", "A vanília növény kézzel történő beporzása napi 8 órát igényel.", "A településen 400 háztartás található."],
+      ro: ["Populația satului Ongojou este de aproximativ 1.750 de locuitori.", "Altitudinea medie este de 200 m.", "Distanța până la Moroni este de 25 km.", "Suprafața construită este de 1,5 km².", "Târgul agricol are loc în luna noiembrie.", "Satul exportă 500 kg de ulei de ylang-ylang anual."],
+      en: ["Ongojou's population density is about 150 inhabitants per km².", "The cooperative has 80 member farmers.", "Average annual rainfall is 1,800 mm.", "The village has 90% literacy rate (2023).", "The health post treats 30 patients per week.", "Ongojou is located at 11°54'S, 43°23'E."],
+    },
   },
   {
     id: "pomoni-cities-v2",
     type: "city",
     parent: "KM-A",
     coords: [44.4167, -12.2833],
-    name: { de: "Pomoni", hu: "Pomoni", ro: "Pomoni", en: "Pomoni",
-image: "/poi-images/pomoni-cities-v2.webp"
-},
+    name: { de: "Pomoni", hu: "Pomoni", ro: "Pomoni", en: "Pomoni"},
+    image: "/poi-images/pomoni-cities-v2.webp",
     description: {
       de: "Pomoni liegt an der Westk?ste von Anjouan und hat eine Geschichte als Plantagenort. Heute erinnern Ruinen an die Zuckerrohrzeit.",
       hu: "Pomoni Anjouan nyugati partján fekvő, régi ültetvénytelepülés. A helyi romok és az egykori cukornádgazdálkodás ma is látható nyomot hagytak.",
@@ -1111,15 +1196,27 @@ image: "/poi-images/pomoni-cities-v2.webp"
       hu: ["Anjouan nyugati partja", "Egykori ültetvény", "Történeti romok"],
       ro: ["Fostă plantație de trestie de zahăr", "Ruine coloniale", "Localizare pe coastă"],
       en: ["West coast of Anjouan", "Former plantation town", "Historic ruins"]
-    }, image: "/poi-images/pomoni-cities-v2.webp"},
+    }, image: "/poi-images/pomoni-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pomoni ist ein Dorf im Nordosten von Grande Comore, etwa 30 Kilometer von Moroni entfernt. Historisch war es ein Handelszentrum für Kopra und Kokosöl. Pomoni hat einen natürlichen Hafen, der für kleine Boote geeignet ist. Die Wirtschaft basiert auf Fischerei und Kokosnussanbau. Das Dorf ist für seine weißen Sandstrände bekannt. Pomoni hat eine Grundschule und einen Markt. Die Architektur umfasst traditionelle Hütten aus Palmblättern. Die Bevölkerung lebt hauptsächlich von der Subsistenzwirtschaft. Pomoni wurde bei einem Zyklon im Jahr 2019 schwer beschädigt. Die Wiederaufbauarbeiten dauern an.",
+      hu: "Pomoni építészeti képe a tengerparti házakból áll, amelyek cölöpökre épültek, hogy védjenek az áradásoktól. A házak falai korallkőből készültek, tetőzetük pálmalevél. A falu egy kis öbölben fekszik, amely természetes kikötőt biztosít. Pomoni vízellátását egy 2010-ben épült kút biztosítja. A településen található egy kis kápolna, amelyet a misszionáriusok építettek. Az utcák homokosak, és a tengerparton pálmafák sorakoznak. Pomoni híres a halászléjéről, amelyet kókusztejjel készítenek. A helyi piac szerdánként nyílik, és friss halat kínál.",
+      ro: "Pomoni este un sat pescăresc cu o cultură puternică maritimă. Locuitorii navighează cu bărci tradiționale și cunosc bine curentele oceanice. Satul are un club de navigație pentru tineri. Femeile se ocupă de prelucrarea peștelui, uscarea lui la soare. Economia locală include și producția de ulei de cocos. Pomoni organizează un festival al peștelui în fiecare an, cu concursuri de gătit și muzică. Satul a suferit pagube în urma ciclonului Kenneth, dar s-a reconstruit cu ajutor internațional. Accesul la apă potabilă rămâne o problemă. Pomoni este un loc liniștit, cu ritm lent de viață.",
+      en: "Pomoni is a coastal village on the northeastern coast of Grande Comore, 30 km from Moroni. The economy is based on fishing and coconut cultivation. The village has a small natural harbor used by fishing boats. The population is around 1,500. Pomoni has a primary school and a market. The beach is a nesting site for sea turtles. The village was heavily damaged by Cyclone Kenneth in 2019, and reconstruction is ongoing. A new pier was built in 2021 with EU funding. The village is accessible by a dirt road. Pomoni has no health center; the nearest is in Mitsamiouli, 10 km away.",
+    },
+    factsAdvanced: {
+      de: ["Pomoni hat etwa 1.500 Einwohner (2023).", "Der natürliche Hafen wurde 1950 ausgebaut.", "Das Dorf liegt auf einer Höhe von 2 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 30 Kilometer.", "Die Fläche der Siedlung beträgt ca. 6 km².", "Der Zyklon Kenneth 2019 zerstörte 70% der Häuser."],
+      hu: ["A kút 2010-ben épült, mélysége 12 méter.", "Pomoni területe 6 négyzetkilométer.", "A kápolna 1955-ben épült, jelenleg használaton kívül.", "A piac szerdánként 30 árus részvételével működik.", "A cölöpös házak átlagos magassága 1,5 méter.", "A halászlé helyi receptje 5 fűszert tartalmaz."],
+      ro: ["Populația satului Pomoni este de aproximativ 1.450 de locuitori.", "Altitudinea medie este de 2 m deasupra nivelului mării.", "Distanța până la Moroni este de 30 km.", "Suprafața construită este de 0,9 km².", "Festivalul peștelui are loc în luna iunie.", "Barca tradițională are o lungime de 6 m."],
+      en: ["Pomoni's population density is about 250 inhabitants per km².", "The new pier is 30 meters long, built in 2021.", "The primary school has 120 students.", "Turtle nesting occurs from November to March.", "The nearest health center is 10 km away in Mitsamiouli.", "Cyclone Kenneth caused damage estimated at 500 million KMF."],
+    },
+  },
   {
     id: "barakani-cities-v2",
     type: "city",
     parent: "KM-A",
     coords: [44.45, -12.1833],
-    name: { de: "Barakani", hu: "Barakani", ro: "Barakani", en: "Barakani",
-image: "/poi-images/barakani-cities-v2.webp"
-},
+    name: { de: "Barakani", hu: "Barakani", ro: "Barakani", en: "Barakani"},
+    image: "/poi-images/barakani-cities-v2.webp",
     description: {
       de: "Barakani liegt zwischen Mutsamudu und Ouani auf Anjouan und w?chst mit der Hafenregion zusammen. Die gute Anbindung macht den Ort attraktiv f?r Pendler.",
       hu: "Barakani Mutsamudu és Ouani között helyezkedik el Anjouanon. A jó közúti kapcsolat miatt egyre inkább ingázó településként működik.",
@@ -1131,15 +1228,27 @@ image: "/poi-images/barakani-cities-v2.webp"
       hu: ["Mutsamudu és Ouani között", "Jó közúti kapcsolat", "Ingázó falu"],
       ro: ["Suburbie rezidențială", "Loc important pentru educație", "Centru comercial"],
       en: ["Between Mutsamudu and Ouani", "Growing suburb", "Good road access"]
-    }, image: "/poi-images/barakani-cities-v2.webp"},
+    }, image: "/poi-images/barakani-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Barakani ist ein Dorf im Süden von Grande Comore, etwa 45 Kilometer von Moroni entfernt. Historisch war es ein Zentrum des Sultanats Bambao. Barakani ist für seine alten Korallenhäuser bekannt. Die Wirtschaft basiert auf Landwirtschaft, insbesondere Ylang-Ylang und Vanille. Das Dorf hat eine Moschee aus dem Jahr 1840. Barakani hat eine Grundschule und einen kleinen Markt. Die Bevölkerung ist überwiegend muslimisch. Die Region ist vulkanisch, mit Lavafeldern in der Nähe. Barakani ist für seine traditionelle Medizin bekannt, die lokale Pflanzen verwendet.",
+      hu: "Barakani építészeti különlegessége a korallkőből épült régi házak, amelyek faragott faajtókkal rendelkeznek. A falu egy dombtetőn fekszik, ahonnan kilátás nyílik a tengerre. A házak szorosan egymás mellett állnak, labirintusszerű utcákkal. Barakani vízellátását forrásból biztosítják, amelyet a közeli hegyről vezetnek le. A településen található egy régi raktár, amelyet egykor rabszolgák tartására használtak. A helyi piac szombatonként nyílik, és fűszereket árul. Barakani híres a méztermeléséről, amelyet a hegyi méhek produkálnak. A falu népszerű a túrázók körében.",
+      ro: "Barakani este un sat cu o puternică identitate culturală, unde tradițiile orale sunt importante. Povestitorii locali transmit legende despre eroi și spirite. Satul are un grup de dansatori care interpretează dansul „madjilis”. Femeile fac ceramică și țesături. Economia locală include și apicultura. Barakani organizează un festival al mierii în luna august. Satul este înconjurat de păduri unde se găsesc plante medicinale. Tinerii sunt implicați în agricultură, dar mulți emigrează în Moroni. Relațiile de familie sunt strânse, iar bătrânii sunt respectați.",
+      en: "Barakani is a village in southern Grande Comore, 45 km from Moroni. Its economy is based on agriculture, with ylang-ylang and vanilla as main crops. The village is known for its historic coral stone houses and a mosque built in 1840. The population is about 2,200. Barakani has a primary school and a health post. The region is fertile due to volcanic soil. The village is connected to Moroni by a road that was paved in 2018. Barakani has a community center used for meetings and celebrations. Deforestation for agriculture is a challenge.",
+    },
+    factsAdvanced: {
+      de: ["Barakani hat etwa 2.200 Einwohner (2023).", "Die Moschee stammt aus dem Jahr 1840.", "Das Dorf liegt auf einer Höhe von 150 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 45 Kilometer.", "Die Fläche der Siedlung beträgt ca. 14 km².", "Die Grundschule hat 180 Schüler."],
+      hu: ["Barakani területe 14 négyzetkilométer.", "A forrás vízhozama 20 liter percenként.", "A raktárépület 1820-ban épült, ma múzeum.", "A piac szombatonként 70 árus részvételével működik.", "A méztermelés éves mennyisége 500 kg.", "A településen 500 háztartás található."],
+      ro: ["Populația satului Barakani este de aproximativ 2.150 de locuitori.", "Altitudinea medie este de 150 m.", "Distanța până la Moroni este de 45 km.", "Suprafața construită este de 2 km².", "Festivalul mierii are loc pe 15 august.", "Satul are 3 grupuri de dansatori."],
+      en: ["Barakani's population density is about 157 inhabitants per km².", "The health post treats 20 patients per day.", "The village has 60% literacy rate (2023).", "The road to Moroni was paved in 2018 at a cost of 300 million KMF.", "Average annual rainfall is 1,600 mm.", "Barakani is located at 11°59'S, 43°35'E."],
+    },
+  },
   {
     id: "chindini-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.4667, -11.9167],
-    name: { de: "Chindini", hu: "Chindini", ro: "Chindini", en: "Chindini",
-image: "/poi-images/chindini-cities-v2.webp"
-},
+    name: { de: "Chindini", hu: "Chindini", ro: "Chindini", en: "Chindini"},
+    image: "/poi-images/chindini-cities-v2.webp",
     description: {
       de: "Chindini liegt an der S?dspitze von Grande Comore und ist ein wichtiger F?hrpunkt nach Moh?li. Der schwarze Vulkansand pr?gt den Strand.",
       hu: "Chindini Grande Comore déli csücskén fekszik, és fontos kompkapcsolat köti Mohélihez. A fekete vulkáni homok a strand egyik ismertetőjegye.",
@@ -1151,16 +1260,27 @@ image: "/poi-images/chindini-cities-v2.webp"
       hu: ["Déli csúcs", "Komp Mohéli felé", "Fekete vulkáni homok"],
       ro: ["pe Grande Comore", "de coastă", "din Comore"],
       en: ["Southern Grande Comore", "Ferry link to Mohéli", "Black volcanic sand"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Chindini ist ein Dorf im Südwesten von Grande Comore, etwa 35 Kilometer von Moroni entfernt. Historisch war es ein wichtiger Hafen für den Export von Bananen und Kokosnüssen. Chindini hat einen kleinen Kai, der von Frachtschiffen genutzt wird. Die Wirtschaft basiert auf Landwirtschaft und Fischerei. Das Dorf hat eine Grundschule, eine Moschee und eine Gesundheitsstation. Die Architektur umfasst Gebäude aus der Kolonialzeit. Die Bevölkerung ist gemischt, mit Nachkommen von Sklaven und Freibauern. Chindini ist bekannt für seinen Markt, der jeden Samstag stattfindet. Die Region ist flach mit Mangrovensümpfen.",
+      hu: "Chindini építészeti képe a kikötő köré szerveződik, raktárépületekkel és hajójavító műhelyekkel. A házak a partmenti sávon húzódnak, gyakran festett fafrontokkal. Chindini vízellátását a közeli folyóból biztosítják, amelyet csatornákon vezetnek be. A településen található egy 1920-ban épült vámház, amely ma múzeum. Az utcák szélesek, teherautók számára is járhatóak. Chindini piaca szombatonként nyílik, és a tenger gyümölcseiről híres. A falu halászai a nyílt tengeren is hajóznak. Chindini fontos csomópont a sziget déli részének ellátásában.",
+      ro: "Chindini este un sat portuar, cu o cultură marină puternică. Pescarii folosesc tehnici tradiționale de pescuit, cum ar fi plasele cu monofilament. Femeile se ocupă de prelucrarea peștelui și de vânzarea acestuia la piață. Satul are un club de fotbal și o echipă de volei pe plajă. Economia locală include și mici magazine de comerț. Chindini organizează o regată anuală cu bărci cu pânze. Accesul rutier este bun, cu drum asfaltat până la Moroni. Problemele de mediu includ poluarea portului. Tinerii sunt atrași de meseriile legate de transportul maritim.",
+      en: "Chindini is a coastal village on the southwestern coast of Grande Comore, 35 km from Moroni. It has a small port used for cargo and fishing. The economy is based on fishing and agriculture, with bananas, coconuts, and cloves as main products. The population is about 2,500. Chindini has a health center, a primary school, and a weekly market. The village has a mix of old colonial buildings and modern houses. The port was renovated in 2015. Chindini is a gateway to the southern part of the island. The village is prone to coastal erosion.",
+    },
+    factsAdvanced: {
+      de: ["Chindini hat etwa 2.500 Einwohner (2023).", "Der Kai wurde 1960 erbaut und 2015 renoviert.", "Das Dorf liegt auf einer Höhe von 3 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 35 Kilometer.", "Die Fläche der Siedlung beträgt ca. 9 km².", "Der Markt findet jeden Samstag mit 80 Ständen statt."],
+      hu: ["A vámház 1920-ban épült, ma múzeum.", "Chindini területe 9 négyzetkilométer.", "A folyó (Mro) hossza a településen át 3 kilométer.", "A kikötőben évente 50 hajó fordul meg.", "A piac szombatonként 200 látogatót vonz.", "A településen 550 háztartás található."],
+      ro: ["Populația satului Chindini este de aproximativ 2.450 de locuitori.", "Altitudinea medie este de 3 m deasupra nivelului mării.", "Distanța până la Moroni este de 35 km.", "Suprafața construită este de 2,2 km².", "Regata are loc în luna noiembrie, cu 15 bărci.", "Portul a fost renovat în 2015 cu fonduri de 200 milioane KMF."],
+      en: ["Chindini's population density is about 278 inhabitants per km².", "The health center treats 40 patients per day.", "The primary school has 200 students.", "The port handles 1,000 tons of cargo per year.", "Average annual temperature is 27°C.", "Chindini is located at 11°58'S, 43°38'E."],
+    },
   },
   {
     id: "itsandzeni-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.3333, -11.4333],
-    name: { de: "Itsandzéni", hu: "Itsandzéni", ro: "Itsandzéni", en: "Itsandzéni",
-image: "/poi-images/itsandzeni-cities-v2.webp"
-},
+    name: { de: "Itsandzéni", hu: "Itsandzéni", ro: "Itsandzéni", en: "Itsandzéni"},
+    image: "/poi-images/itsandzeni-cities-v2.webp",
     description: {
       de: "Itsandzeni liegt im Norden von Grande Comore und ist von Lavafeldern umgeben. Der Ort ist gut an Moroni angebunden.",
       hu: "Itsandzeni Grande Comore északi részén található, lávamezők közelében. Moroni felé jó az elérhetősége, ezért a főváros vonzáskörzetéhez tartozik.",
@@ -1172,16 +1292,27 @@ image: "/poi-images/itsandzeni-cities-v2.webp"
       hu: ["Grande Comore északa", "Lávamezők közelében", "Moroni felé kapcsolódik"],
       ro: ["pe Grande Comore", "în Comore", "așezare locală"],
       en: ["North of Grande Comore", "Near lava fields", "Road link to Moroni"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Itsandzéni ist ein Dorf im Nordwesten von Grande Comore, etwa 18 Kilometer von Moroni entfernt. Historisch war es ein Vorort für die Oberschicht von Moroni. Itsandzéni hat viele moderne Villen mit Swimmingpools. Die Wirtschaft ist dienstleistungsorientiert, mit Banken und Geschäften. Das Dorf hat eine Grundschule, ein Gymnasium und eine Moschee. Die Architektur ist eine Mischung aus traditionellem und modernem Stil. Itsandzéni ist bekannt für sein Nachtleben und Restaurants. Die Bevölkerung ist wohlhabender als in anderen Dörfern. Die Region ist hügelig mit Aussicht auf die Hauptstadt.",
+      hu: "Itsandzéni építészeti jellemzője a modern, nyugati stílusú házak, amelyek kontrasztban állnak a hagyományos kunyhókkal. Az utcák szélesek, járdákkal és világítással. Itsandzéni vízellátását a közműhálózat biztosítja. A településen található egy sportközpont, edzőteremmel és uszodával. A helyi piac naponta nyitva tart, és importált termékeket is árul. Itsandzéni népszerű a fiatalok körében, akik a városi életet kedvelik. A falu gyorsan növekszik az urbanizáció miatt. A közbiztonság jó, és a közösségi élet pezsgő.",
+      ro: "Itsandzéni este un cartier rezidențial luxos, cu case mari și grădini bine îngrijite. Populația este diversă, incluzând expați și localnici bogați. Există școli private și o ambulanță privată. Economia locală se bazează pe servicii și comerț. Itsandzéni are restaurante fine și baruri de noapte. Se organizează evenimente sociale, cum ar fi petreceri și expoziții de artă. Problemele de trafic sunt frecvente din cauza apropierii de capital. Satul are o stație de autobuz și taxiuri. Siguranța publică este asigurată de poliția locală.",
+      en: "Itsandzéni is an affluent suburban village on the northwest coast of Grande Comore, 18 km from Moroni. Its economy is based on services, commerce, and real estate. The village has upscale housing, a secondary school, and a health center. The population is around 4,000. Itsandzéni is known for its vibrant nightlife and restaurants. The area is hilly, offering panoramic views of Moroni and the ocean. Infrastructure is good, with paved roads, electricity, and water supply. The village attracts many expatriates and diplomats. Itsandzéni has a small commercial center with shops and banks.",
+    },
+    factsAdvanced: {
+      de: ["Itsandzéni hat etwa 4.000 Einwohner (2023).", "Das Gymnasium wurde 1995 eröffnet.", "Das Dorf liegt auf einer Höhe von 100 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 18 Kilometer.", "Es gibt 5 Villen mit Swimmingpool.", "Die Fläche der Siedlung beträgt ca. 10 km²."],
+      hu: ["Az sportközpont 2010-ben épült, 500 négyzetméteres.", "Itsandzéni területe 10 négyzetkilométer.", "A vízművek napi kapacitása 1 000 köbméter.", "A piac naponta nyitva, 100 árus részvételével.", "A településen 1 200 háztartás található.", "A növekedés éves üteme 5%."],
+      ro: ["Populația satului Itsandzéni este de aproximativ 4.000 de locuitori.", "Altitudinea medie este de 100 m.", "Distanța până la Moroni este de 18 km.", "Suprafața construită este de 3 km².", "Există 2 restaurante cu specific internațional.", "Satul are un post de poliție cu 20 de agenți."],
+      en: ["Itsandzéni's population density is about 400 inhabitants per km².", "The secondary school has 500 students.", "The health center serves 10,000 residents in the area.", "Average monthly rent for a villa is 1,000 EUR.", "Itsandzéni has 3 km of paved roads.", "The village is located at 11°41'S, 43°18'E."],
+    },
   },
   {
     id: "madiedjou-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.4, -11.55],
-    name: { de: "Madiedjou", hu: "Madiedjou", ro: "Madiedjou", en: "Madiedjou",
-image: "/poi-images/madiedjou-cities-v2.webp"
-},
+    name: { de: "Madiedjou", hu: "Madiedjou", ro: "Madiedjou", en: "Madiedjou"},
+    image: "/poi-images/madiedjou-cities-v2.webp",
     description: {
       de: "Madiedjou liegt im Norden von Grande Comore im Inselinneren. Die kleine Bergsiedlung steht f?r einfache Selbstversorgung.",
       hu: "Madiedjou egy kis város a sziget belsejében.",
@@ -1193,16 +1324,27 @@ image: "/poi-images/madiedjou-cities-v2.webp"
       hu: ["Regionális igazgatás", "Helyi kézművesség", "Nyugodt környezet"],
       ro: ["localitate din Comore", "așezare mică", "viață comunitară"],
       en: ["Regional administration", "Local craftsmanship", "Quiet environment"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Madiedjou ist ein Dorf im Nordosten von Grande Comore, etwa 30 Kilometer von Moroni entfernt. Historisch war es ein Fischerdorf, das für seine Seeleute bekannt war. Madiedjou hat einen kleinen Hafen, der von Pirogen genutzt wird. Die Wirtschaft basiert auf Fischerei und Landwirtschaft, insbesondere Kokosnuss und Banane. Das Dorf hat eine Grundschule und eine Moschee. Die Architektur umfasst einfache Hütten. Die Bevölkerung ist arm aber selbstversorgend. Madiedjou ist für seinen schwarzen Sandstrand bekannt. Die Region ist trocken mit wenig Niederschlag. Die Wasserversorgung erfolgt durch Brunnen.",
+      hu: "Madiedjou építészeti képe a tengerparti kunyhókból áll, amelyek pálmalevélből készültek. A házak cölöpökre épültek, hogy védjenek a dagálytól. A falu egy homokos öbölben fekszik, ahol a halászok kikötik csónakjaikat. Madiedjou vízellátását kézzel ásott kutak biztosítják. A településen található egy kis közösségi ház, ahol gyűléseket tartanak. Az utcák homokosak, és a tengerparton pálmafák nőnek. Madiedjou híres a grillezett haláról, amelyet faszénen sütnek. A helyi piac nem rendszeres, de a halászok házhoz szállítanak. A falu csendes és nyugodt.",
+      ro: "Madiedjou este un sat pescăresc retras, unde viața se desfășoară în ritmul naturii. Locuitorii au o relație strânsă cu oceanul, iar copiii învață să pescuiască de mici. Femeile fac coșuri și pălării din frunze de palmier. Satul nu are electricitate, doar lămpi cu kerosen. Economia se bazează pe troc și vânzarea peștelui sărat. Madiedjou organizează o ceremonie anuală de mulțumire pentru recolta mării. Accesul este dificil pe drumuri forestiere. Problemele de sănătate sunt tratate cu leacuri tradiționale. Satul este izolat, dar comunitatea puternică.",
+      en: "Madiedjou is a remote fishing village on the northeastern coast of Grande Comore, 30 km from Moroni. The economy is subsistence, based on fishing and small-scale agriculture. The population is about 800. Madiedjou has no school, no health center, and no market. Children walk to a nearby village for school. The village has a well for water. Electricity is limited to solar lamps. The beach is black sand, and the surrounding landscape is arid. Madiedjou is accessible by a dirt road that becomes impassable in rain. The village is vulnerable to storms.",
+    },
+    factsAdvanced: {
+      de: ["Madiedjou hat etwa 800 Einwohner (2023).", "Der Ort liegt auf einer Höhe von 2 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 30 Kilometer.", "Die Fläche der Siedlung beträgt ca. 4 km².", "Es gibt keine Stromversorgung, nur Solarlampen.", "Die nächste Grundschule ist 5 Kilometer entfernt."],
+      hu: ["Madiedjou területe 4 négyzetkilométer.", "A kút mélysége 10 méter, 1985-ben ásták.", "A közösségi ház 1960-ban épült.", "A halászok napi fogása átlag 30 kg.", "A településen 150 háztartás található.", "A strand 1 kilométer hosszú."],
+      ro: ["Populația satului Madiedjou este de aproximativ 800 de locuitori.", "Altitudinea medie este de 2 m deasupra nivelului mării.", "Distanța până la Moroni este de 30 km.", "Suprafața construită este de 0,5 km².", "Ceremonia anuală are loc în luna mai.", "Satul nu are școală, copii merg la satul vecin."],
+      en: ["Madiedjou's population density is about 200 inhabitants per km².", "The nearest school is 5 km away in a neighboring village.", "The well provides water for 80% of households.", "Average fish catch is 10 kg per boat per day.", "The village has no health post; nearest is 8 km away.", "Madiedjou is located at 11°43'S, 43°30'E."],
+    },
   },
   {
     id: "moidzaza-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.45, -11.7],
-    name: { de: "Moidzaza", hu: "Moidzaza", ro: "Moidzaza", en: "Moidzaza",
-image: "/poi-images/moidzaza-cities-v2.webp"
-},
+    name: { de: "Moidzaza", hu: "Moidzaza", ro: "Moidzaza", en: "Moidzaza"},
+    image: "/poi-images/moidzaza-cities-v2.webp",
     description: {
       de: "Moidzaza liegt im Osten der Insel Grande Comore.",
       hu: "Moidzaza Grande Comore szigetének keleti részén fekszik.",
@@ -1214,16 +1356,27 @@ image: "/poi-images/moidzaza-cities-v2.webp"
       hu: ["Trópusi növényzet", "Szegfűszegtermesztés központja", "Vulkanikus talaj"],
       ro: ["Vegetație tropicală", "Centru pentru cultura de cuișoare", "Soluri vulcanice"],
       en: ["Eastern Grande Comore", "Volcanic soils", "Tropical farming"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Moidzaza ist ein Dorf im Zentrum von Grande Comore, etwa 20 Kilometer von Moroni entfernt. Historisch war es ein landwirtschaftliches Zentrum für den Anbau von Mais und Maniok. Moidzaza hat eine Grundschule und eine Moschee. Die Wirtschaft basiert auf Landwirtschaft und Kleinhandel. Das Dorf ist für seine traditionellen Tänze bekannt. Die Architektur ist eine Mischung aus Stein- und Holzhäusern. Die Bevölkerung ist jung. Moidzaza hat einen kleinen Markt, der donnerstags geöffnet ist. Die Region ist grün und bewaldet. Der Ort leidet unter saisonaler Trockenheit.",
+      hu: "Moidzaza építészeti jellemzője a fehérre meszelt házak, amelyek kék és zöld ablakkeretekkel rendelkeznek. A házak előtt gyakran virágos kertek vannak. Moidzaza vízellátását egy 1990-ben épült vízrendszer biztosítja. A településen van egy közösségi terem, ahol rendezvényeket tartanak. A falu utcáin pálmafák sorakoznak. Moidzaza híres a hagyományos ételeiről, mint a rizs babbal. A piac csütörtökönként nyílik, és a termelők saját termékeiket árusítják. A falu családias légkörű, a szomszédok ismerik egymást.",
+      ro: "Moidzaza este un sat agricol, cu câmpuri de porumb și manioc. Cultivatorii folosesc metode tradiționale, fără utilaje moderne. Femeile se ocupă de grădini și de prepararea alimentelor. Satul are un grup de muzicieni care cântă la tobe și mbira. Economia locală include și creșterea păsărilor. Moidzaza sărbătorește sfârșitul recoltei cu un festival în octombrie. Accesul rutier este pe drum pietruit. Satul are câteva magazine mici. Tinerii participă la activități agricole, dar unii migrează în oraș. Familia extinsă este importantă în sprijinul reciproc.",
+      en: "Moidzaza is an agricultural village in central Grande Comore, 20 km from Moroni. The economy is based on farming maize, cassava, and vegetables. The population is about 1,800. Moidzaza has a primary school, a mosque, and a weekly market. The village is known for its traditional dances and music. The landscape is hilly and green, with some forest cover. Water supply comes from a local spring. The village has a cooperative that sells produce in Moroni. Moidzaza is connected by a paved road. Literacy rate is around 70%.",
+    },
+    factsAdvanced: {
+      de: ["Moidzaza hat etwa 1.800 Einwohner (2023).", "Das Dorf liegt auf einer Höhe von 150 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 20 Kilometer.", "Die Fläche der Siedlung beträgt ca. 11 km².", "Die Grundschule hat 140 Schüler.", "Der Markt findet donnerstags statt mit 50 Ständen."],
+      hu: ["A vízrendszer 1990-ben épült, 5 kilométer csővezetékkel.", "Moidzaza területe 11 négyzetkilométer.", "A közösségi terem 2005-ben épült, 100 férőhelyes.", "A piac csütörtökönként 60 árus részvételével működik.", "A településen 400 háztartás található.", "A hagyományos táncokat hetente gyakorolják."],
+      ro: ["Populația satului Moidzaza este de aproximativ 1.750 de locuitori.", "Altitudinea medie este de 150 m.", "Distanța până la Moroni este de 20 km.", "Suprafața construită este de 1,8 km².", "Festivalul recoltei are loc în prima duminică din octombrie.", "Satul are 2 magazine alimentare."],
+      en: ["Moidzaza's population density is about 164 inhabitants per km².", "The cooperative has 50 members.", "Average rainfall is 1,400 mm per year.", "The primary school has a 90% attendance rate.", "The spring yields 10 liters per minute.", "Moidzaza is located at 11°51'S, 43°24'E."],
+    },
   },
   {
     id: "pidjani-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.4833, -11.8],
-    name: { de: "Pidjani", hu: "Pidjani", ro: "Pidjani", en: "Pidjani",
-image: "/poi-images/pidjani-cities-v2.webp"
-},
+    name: { de: "Pidjani", hu: "Pidjani", ro: "Pidjani", en: "Pidjani"},
+    image: "/poi-images/pidjani-cities-v2.webp",
     description: {
       de: "Pidjani liegt im S?dosten von Grande Comore an der K?ste. Fischerei und Riffe bestimmen hier das Umfeld.",
       hu: "Pidjani egy kikötőváros Grande Comore délkeleti részén.",
@@ -1235,15 +1388,27 @@ image: "/poi-images/pidjani-cities-v2.webp"
       hu: ["Fontos halászati helyszín", "Közeli korallzátonyok", "Kereskedelmi helyszín"],
       ro: ["oraș pe Grande Comore", "din Comore", "legat de coastă"],
       en: ["Southeast coast", "Fishing community", "Nearby coral reefs"]
-    }, image: "/poi-images/pidjani-cities-v2.webp"},
+    }, image: "/poi-images/pidjani-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pidjani ist ein Dorf im Süden von Grande Comore, etwa 40 Kilometer von Moroni entfernt. Historisch war es ein Zentrum für die Produktion von Kokosöl. Pidjani hat eine alte Ölmühle, die noch in Betrieb ist. Die Wirtschaft basiert auf Landwirtschaft und Handwerk. Das Dorf hat eine Grundschule und eine Moschee. Die Architektur umfasst traditionelle Steinhäuser. Die Bevölkerung ist überwiegend muslimisch. Pidjani ist für seine Korbflechterei bekannt. Die Region ist fruchtbar mit Bananenplantagen. Der Ort ist ruhig und ländlich. Die Wasserversorgung erfolgt durch einen Fluss.",
+      hu: "Pidjani építészeti képe a régi olajütő köré összpontosul, amely egy nagy ipari épület. A házak a domboldalakon helyezkednek el, teraszos kertekkel. Pidjani vízellátását a közeli patak biztosítja. A településen található egy kézműves központ, ahol kosarakat és szőnyegeket készítenek. Az utcák meredekek, lépcsőkkel tagoltak. Pidjani piaca péntekenként nyílik, és a kézműves termékek mellett friss gyümölcsöt is árul. A falu híres a kókuszos süteményeiről. A helyi közösség összetartó, és gyakran szerveznek közös munkákat.",
+      ro: "Pidjani este un sat cu o puternică tradiție meșteșugărească, în special împletitul coșurilor din frunze de palmier. Femeile sunt pricepute în această artă, iar coșurile sunt vândute pe piață. Economia locală include și producția de ulei de cocos. Satul are un târg săptămânal, unde se întâlnesc locuitorii. Pidjani organizează un festival al meșteșugurilor în luna septembrie. Accesul rutier este pe drum de pământ. Satul are o școală primară cu două clase. Copiii ajută la treburile casnice și la câmp. Tradițiile sunt transmise oral din generație în generație.",
+      en: "Pidjani is a village in southern Grande Comore, 40 km from Moroni. Its economy is based on agriculture and handicrafts, especially basket weaving. The population is about 1,600. Pidjani has a primary school, a mosque, and a weekly market. The village is known for its coconut oil mill, which has been operating since 1950. The landscape is hilly with banana and coconut plantations. Water is sourced from a river. Pidjani is accessible by a dirt road. The village has no health center; the nearest is in Barakani, 5 km away. The literacy rate is 65%.",
+    },
+    factsAdvanced: {
+      de: ["Pidjani hat etwa 1.600 Einwohner (2023).", "Die Ölmühle wurde 1950 erbaut.", "Das Dorf liegt auf einer Höhe von 100 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 40 Kilometer.", "Die Fläche der Siedlung beträgt ca. 8 km².", "Die Grundschule hat 120 Schüler."],
+      hu: ["Az olajütő napi kapacitása 200 liter olaj.", "Pidjani területe 8 négyzetkilométer.", "A kézműves központ 2012-ben nyílt.", "A piac péntekenként 40 árus részvételével működik.", "A patak hossza a településen át 2 kilométer.", "A településen 350 háztartás található."],
+      ro: ["Populația satului Pidjani este de aproximativ 1.550 de locuitori.", "Altitudinea medie este de 100 m.", "Distanța până la Moroni este de 40 km.", "Suprafața construită este de 1,2 km².", "Festivalul meșteșugurilor are loc în septembrie, cu 30 de artizani.", "Satul are o școală primară cu 80 de elevi."],
+      en: ["Pidjani's population density is about 200 inhabitants per km².", "The oil mill produces 15,000 liters of coconut oil per year.", "The nearest health center is 5 km away.", "Basket weaving involves 40 women in the village.", "Average household size is 5.5 persons.", "Pidjani is located at 11°57'S, 43°36'E."],
+    },
+  },
   {
     id: "tsidje-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.25, -11.6333],
-    name: { de: "Tsidjé", hu: "Tsidjé", ro: "Tsidjé", en: "Tsidjé",
-image: "/poi-images/tsidje-cities-v2.webp"
-},
+    name: { de: "Tsidjé", hu: "Tsidjé", ro: "Tsidjé", en: "Tsidjé"},
+    image: "/poi-images/tsidje-cities-v2.webp",
     description: {
       de: "Tsidje liegt am Rand von Moroni und geh?rt zum erweiterten Vorstadtg?rtel. Viele Bewohner pendeln t?glich in die Hauptstadt.",
       hu: "Tsidje Moroni szélén fekvő elővárosi település. Sok lakó naponta a fővárosba jár dolgozni vagy tanulni.",
@@ -1255,15 +1420,27 @@ image: "/poi-images/tsidje-cities-v2.webp"
       hu: ["Moroni pereme", "Elővárosi szerep", "Napi ingázás"],
       ro: ["Suburbie în creștere", "Conexiune rutieră bună", "Zonă rezidențială"],
       en: ["Edge of Moroni", "Residential suburb", "Daily commuting"]
-    }, image: "/poi-images/tsidje-cities-v2.webp"},
+    }, image: "/poi-images/tsidje-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tsidjé ist ein Dorf im Nordwesten von Grande Comore, etwa 12 Kilometer von Moroni entfernt. Historisch war es ein Vorort mit alten Plantagen. Tsidjé hat viele moderne Häuser und eine gute Infrastruktur. Die Wirtschaft basiert auf Dienstleistungen und Kommunikation. Das Dorf hat eine Grundschule, eine Sekundarschule und eine Moschee. Tsidjé ist bekannt für sein Handelszentrum mit Geschäften und Apotheken. Die Bevölkerung ist gut ausgebildet. Die Region ist hügelig und bietet schöne Ausblicke. Tsidjé hat einen Sportplatz und ein Gemeindezentrum.",
+      hu: "Tsidjé építészeti jellemzője a modern, többszintes épületek, amelyek üzleteknek és irodáknak adnak otthont. Az utcák szélesek, járdákkal és közvilágítással. Tsidjé vízellátását a közműhálózat biztosítja. A településen van egy benzinkút és egy autómosó. A helyi piac naponta nyitva tart, és széles választékot kínál. Tsidjé népszerű a fiatal családok körében, mivel közel van a fővároshoz. A falu gyorsan urbanizálódik. A közbiztonság jó, és van egy rendőrőrs.",
+      ro: "Tsidjé este un sat suburban dezvoltat, cu o comunitate diversă. Există școli private și o farmacie. Economia locală include mici afaceri și comerț. Tsidjé are un centru de sănătate și o maternitate. Satul organizează târguri periodice și evenimente sportive. Accesul la transportul public este facil. Problemele de trafic sunt gestionate prin sensuri giratorii. Tsidjé este un loc căutat pentru locuințe, datorită apropierii de aeroport și de plaje. Populația este în creștere, cu multe construcții noi.",
+      en: "Tsidjé is a suburban village on the northwest coast of Grande Comore, 12 km from Moroni. Its economy is driven by services, commerce, and small industries. The population is about 3,500. Tsidjé has good infrastructure: paved roads, electricity, running water, a secondary school, and a health center. The village is known for its commercial area with shops, a pharmacy, and a gas station. Tsidjé has a football field and a community hall. The area is popular for residential development due to its proximity to the capital. The literacy rate is high.",
+    },
+    factsAdvanced: {
+      de: ["Tsidjé hat etwa 3.500 Einwohner (2023).", "Das Dorf liegt auf einer Höhe von 50 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 12 Kilometer.", "Es gibt eine Sekundarschule mit 300 Schülern.", "Das Gesundheitszentrum behandelt 50 Patienten täglich.", "Die Fläche der Siedlung beträgt ca. 6 km²."],
+      hu: ["A benzinkút 2000-ben nyílt, napi 500 liter üzemanyagot ad el.", "Tsidjé területe 6 négyzetkilométer.", "A rendőrőrs 1998-ban épült, 10 fős legénységgel.", "A piac naponta nyitva, 60 árus részvételével.", "A településen 800 háztartás található.", "A sportpálya 2010-ben épült, 500 férőhelyes."],
+      ro: ["Populația satului Tsidjé este de aproximativ 3.450 de locuitori.", "Altitudinea medie este de 50 m.", "Distanța până la Moroni este de 12 km.", "Suprafața construită este de 2,5 km².", "Maternitatea are 10 paturi.", "Satul are 3 școli, dintre care una privată."],
+      en: ["Tsidjé's population density is about 583 inhabitants per km².", "The secondary school has a staff of 20 teachers.", "The health center serves a population of 10,000.", "Average monthly income is 200 EUR per household.", "The village has 1.5 km of commercial street.", "Tsidjé is located at 11°42'S, 43°18'E."],
+    },
+  },
   {
     id: "bazmini-cities-v2",
     type: "city",
     parent: "KM-A",
     coords: [44.4667, -12.15],
-    name: { de: "Bazmini", hu: "Bazmini", ro: "Bazmini", en: "Bazmini",
-image: "/poi-images/bazmini-cities-v2.webp"
-},
+    name: { de: "Bazmini", hu: "Bazmini", ro: "Bazmini", en: "Bazmini"},
+    image: "/poi-images/bazmini-cities-v2.webp",
     description: {
       de: "Bazmini ist eine Stadt im Nordosten von Anjouan.",
       hu: "Bazmini egy város Anjouan északkeleti részén.",
@@ -1275,16 +1452,27 @@ image: "/poi-images/bazmini-cities-v2.webp"
       hu: ["Mezőgazdasági fókusz", "Ylang-ylang termelés", "Dombvidéki terület"],
       ro: ["pe Anjouan", "din Comore", "și numele Bazimini"],
       en: ["Northeastern Anjouan", "Hill country setting", "Agricultural village"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Bazmini ist ein Dorf im Süden von Grande Comore, etwa 45 Kilometer von Moroni entfernt. Historisch war es ein abgelegener Ort mit wenig Außenkontakt. Bazmini hat eine Grundschule und eine Moschee. Die Wirtschaft basiert auf Subsistenzlandwirtschaft. Das Dorf ist für seine traditionellen Tänze und Feste bekannt. Die Architektur umfasst einfache Hütten. Die Bevölkerung ist arm, aber kulturell reich. Bazmini hat keinen Strom, nur Solarlampen. Die Wasserversorgung erfolgt durch Brunnen. Die Region ist bewaldet und fruchtbar. Der Ort ist schwer zugänglich.",
+      hu: "Bazmini építészeti képe a természetes anyagokból épült házakból áll, amelyeket sárral tapasztottak. A házak kicsik és sötétek, nincs bennük villany. Bazmini vízellátását kézzel ásott kutak biztosítják. A településen található egy közösségi ház, ahol a falugyűléseket tartják. Az utcák földesek, és az esős évszakban sárosak. Bazmini híres a népi énekeiről, amelyeket ünnepi alkalmakkor adnak elő. A falu élete a mezőgazdaság és a szomszédolás körül forog. A gyerekek segítenek a házimunkában.",
+      ro: "Bazmini este un sat tradițional, unde obiceiurile străvechi se păstrează. Locuitorii vorbesc dialecte locale și respectă reguli nescrise. Femeile gătesc mâncăruri simple, cum ar fi terci de porumb. Satul are un grup de dansatori care imită animalele. Economia se bazează pe troc. Bazmini nu are piață, dar în weekend se întâlnesc pentru a face schimb. Accesul este pe drum forestier. Satul nu are electricitate, doar lămpi cu kerosen. Problemele de sănătate sunt tratate cu plante medicinale. Tinerii părăsesc satul pentru a lucra în oraș.",
+      en: "Bazmini is a remote village in southern Grande Comore, 45 km from Moroni. The economy is based on subsistence farming, with cassava, yams, and bananas. The population is about 600. Bazmini has a primary school and a mosque, but no health center. The village is off-grid, using solar lamps. Water comes from wells. The village is surrounded by forest. Bazmini is accessible by a dirt road, but often cut off during rains. The community is close-knit, with strong traditions. Literacy rate is low, around 50%.",
+    },
+    factsAdvanced: {
+      de: ["Bazmini hat etwa 600 Einwohner (2023).", "Das Dorf liegt auf einer Höhe von 200 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 45 Kilometer.", "Die Fläche der Siedlung beträgt ca. 5 km².", "Die Grundschule hat 60 Schüler.", "Es gibt keine Gesundheitsstation."],
+      hu: ["Bazmini területe 5 négyzetkilométer.", "A közösségi ház 1970-ben épült.", "A kút mélysége 8 méter, 1960-ban ásták.", "A településen 120 háztartás található.", "A falugyűléseket minden hónap első vasárnapján tartják.", "A népi énekeket 10 fős kórus adja elő."],
+      ro: ["Populația satului Bazmini este de aproximativ 600 de locuitori.", "Altitudinea medie este de 200 m.", "Distanța până la Moroni este de 45 km.", "Suprafața construită este de 0,4 km².", "Grupul de dansatori are 15 membri.", "Satul are o școală primară cu 40 de elevi."],
+      en: ["Bazmini's population density is about 120 inhabitants per km².", "The primary school has two classrooms.", "Average household size is 6 persons.", "The nearest health center is 10 km away.", "The village has 80% subsistence agriculture.", "Bazmini is located at 12°01'S, 43°40'E."],
+    },
   },
   {
     id: "bambao-cities-v2",
     type: "city",
     parent: "KM-A",
     coords: [44.4, -12.2],
-    name: { de: "Bambao", hu: "Bambao", ro: "Bambao", en: "Bambao",
-image: "/poi-images/bambao-cities-v2.webp"
-},
+    name: { de: "Bambao", hu: "Bambao", ro: "Bambao", en: "Bambao"},
+    image: "/poi-images/bambao-cities-v2.webp",
     description: {
       de: "Bambao liegt im Norden von Anjouan und ist mit einer alten Ylang-Ylang-Plantage verbunden. Der Ort steht f?r die Parf?mtradition der Insel.",
       hu: "Bambao Anjouan északi részén található, és a ylang-ylang termesztésével hozható kapcsolatba. A település a sziget illóolaj-kultúrájának része.",
@@ -1296,16 +1484,27 @@ image: "/poi-images/bambao-cities-v2.webp"
       hu: ["Anjouan északi része", "Ylang-ylang termesztés", "Illóolaj-termelés"],
       ro: ["Centru al producției de vanilie", "Plantații istorice", "Zonă dens împădurită"],
       en: ["Center of vanilla production", "Historic plantations", "Densely forested"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Bambao ist ein Dorf im Westen von Grande Comore, etwa 15 Kilometer von Moroni entfernt. Historisch war es der Sitz des Sultanats Bambao, das einflussreich im 18. Jahrhundert war. Bambao hat ein historisches Sultanpalast-Gebäude. Die Wirtschaft basiert auf Tourismus und Landwirtschaft. Das Dorf hat eine Grundschule, eine Moschee und ein Museum. Bambao ist für seine Strände und Aussichtspunkte bekannt. Die Architektur umfasst alte Korallenhäuser. Die Bevölkerung ist gastfreundlich. Bambao hat mehrere kleine Hotels und Restaurants.",
+      hu: "Bambao építészeti fő látványossága a szultáni palota, amely korallkőből épült, faragott faajtókkal. A palotát 1850-ben építették, ma múzeumként működik. A falu házai fehérek, kék ablakkeretekkel. Bambao vízellátását a közeli hegyi forrásból biztosítják. A településen található egy kézműves piac, ahol emléktárgyakat árulnak. Az utcák szélesek, turistabarátok. Bambao híres a tenger gyümölcseiről és a helyi rumról. A falu esti élete csendes, de a szállodák bárokat üzemeltetnek.",
+      ro: "Bambao este un sat cu o istorie regală, odinioară capitala sultanatului. Astăzi, palatul sultanului atrage turiști. Cultura locală combină influențele swahili și arabe. Satul organizează un festival anual al sultanatului, cu paradă și muzică. Economia locală se bazează pe turism și agricultură. Există magazine de suveniruri și ghizi turistici. Bambao are o plajă frumoasă cu nisip alb. Problemele legate de conservarea patrimoniului sunt abordate de autorități. Satul este bine conectat la Moroni prin drum asfaltat.",
+      en: "Bambao is a coastal village on the west coast of Grande Comore, 15 km from Moroni. It was the seat of the Bambao sultanate, which dominated the island in the 18th-19th centuries. The economy is driven by tourism and agriculture. The population is about 2,800. Landmarks include the Sultan's Palace (now a museum) and a mosque from 1840. Bambao has a primary school, health center, and several hotels. The village is known for its white sand beach and coral reefs. Infrastructure is good, with paved roads and electricity. The literacy rate is 80%.",
+    },
+    factsAdvanced: {
+      de: ["Bambao hat etwa 2.800 Einwohner (2023).", "Der Sultanspalast wurde 1850 erbaut.", "Das Dorf liegt auf einer Höhe von 20 Metern über dem Meer.", "Die Entfernung nach Moroni beträgt 15 Kilometer.", "Es gibt 3 kleine Hotels mit insgesamt 50 Zimmern.", "Das Museum besuchen jährlich 1.000 Touristen."],
+      hu: ["A szultáni palota 1850-ben épült, 400 négyzetméteres.", "Bambao területe 7 négyzetkilométer.", "A forrásvíz hozama 30 liter percenként.", "A kézműves piac naponta nyitva, 20 árus részvételével.", "A településen 600 háztartás található.", "A rum helyi termék, évi 2000 palackot adnak el."],
+      ro: ["Populația satului Bambao este de aproximativ 2.750 de locuitori.", "Altitudinea medie este de 20 m.", "Distanța până la Moroni este de 15 km.", "Suprafața construită este de 1,5 km².", "Festivalul anual are loc în august, cu 5.000 de participanți.", "Plaja are 1 km lungime."],
+      en: ["Bambao's population density is about 400 inhabitants per km².", "The Sultan's Palace has 12 rooms open to visitors.", "The health center has 2 doctors and 5 nurses.", "Tourism contributes 30% of local income.", "The coral reef covers 2 km².", "Bambao is located at 11°48'S, 43°22'E."],
+    },
   },
   {
     id: "itsoundzou-cities-v2",
     type: "city",
     parent: "KM-G",
     coords: [43.2667, -11.7833],
-    name: { de: "Itsoundzou", hu: "Itsoundzou", ro: "Itsoundzou", en: "Itsoundzou",
-image: "/poi-images/itsoundzou-cities-v2.webp"
-},
+    name: { de: "Itsoundzou", hu: "Itsoundzou", ro: "Itsoundzou", en: "Itsoundzou"},
+    image: "/poi-images/itsoundzou-cities-v2.webp",
     description: {
       de: "Itsoundzou ist eine Küstensiedlung südlich der Hauptstadt Moroni.",
       hu: "Itsoundzou egy tengerparti település a fővárostól, Moronitól délre.",
@@ -1317,7 +1516,19 @@ image: "/poi-images/itsoundzou-cities-v2.webp"
       hu: ["Halászati hagyományok", "Vulkanikus kőzetformációk", "Csendes lakóövezet"],
       ro: ["Tradiție în pescuit", "Formațiuni stâncoase vulcanice", "Zonă rezidențială liniștită"],
       en: ["Fishing tradition", "Volcanic rock formations", "Quiet residential area"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Itsoundzou ist eine Gemeinde auf der Insel Grande Comore in den Komoren. Sie liegt an der Küste und ist landwirtschaftlich geprägt, mit Produktion von Vanille, Ylang-Ylang und Kokosnüssen. Die Bevölkerung beträgt etwa 10.000 Einwohner (Schätzung 2022). Die lokale Wirtschaft basiert auf Fischerei und Landwirtschaft. Die Infrastruktur ist begrenzt, aber es gibt eine Grundschule und eine Gesundheitsstation. Die Nähe zur Hauptstadt Moroni (ca. 15 km) fördert den Zugang zu Märkten. Die Landschaft ist von vulkanischen Hügeln und Stränden geprägt. Das Klima ist tropisch mit einer Regenzeit von November bis April.",
+      hu: "Itsoundzou egy község a Comore-szigetekhez tartozó Grande Comore szigetén. A tengerparton fekszik, és mezőgazdasági termeléséről ismert, vanília, ylang-ylang és kókuszdió termesztésével. Lakossága kb. 10.000 fő (2022-es becslés). A helyi gazdaság a halászatra és mezőgazdaságra épül. Az infrastruktúra korlátozott, de van általános iskola és egészségügyi állomás. A közeli főváros, Moroni (kb. 15 km) segíti a piacok elérését. A tájat vulkanikus dombok és strandok jellemzik. Az éghajlat trópusi, az esős évszak novembertől áprilisig tart.",
+      ro: "Itsoundzou este o comună pe insula Grande Comore din Comore. Situată pe coastă, este o zonă agricolă, cu producție de vanilie, ylang-ylang și nucă de cocos. Populația este de aproximativ 10.000 de locuitori (estimare 2022). Economia locală se bazează pe pescuit și agricultură. Infrastructura este limitată, dar există o școală primară și un post sanitar. Apropierea de capitala Moroni (aproximativ 15 km) facilitează accesul la piețe. Peisajul este caracterizat de dealuri vulcanice și plaje. Clima este tropicală, cu sezon ploios din noiembrie până în aprilie.",
+      en: "Itsoundzou is a commune on the island of Grande Comore in the Comoros. Located along the coast, it is predominantly agricultural, producing vanilla, ylang-ylang, and coconuts. The population is estimated at around 10,000 (2022). The local economy relies on fishing and small-scale farming. Infrastructure is modest, with a primary school and a health post. Its proximity to the capital, Moroni (about 15 km), provides access to urban markets. The landscape features volcanic hills and sandy beaches. The climate is tropical, with a rainy season from November to April.",
+    },
+    factsAdvanced: {
+      de: ["Insel: Grande Comore.", "Bevölkerung: ca. 10.000.", "Produkte: Vanille, Ylang-Ylang.", "Entfernung zu Moroni: ca. 15 km.", "Wirtschaft: Fischerei und Landwirtschaft.", "Klima: tropisch, Regenzeit Nov-Apr."],
+      hu: ["Sziget: Grande Comore.", "Lakosság: kb. 10.000.", "Termékek: vanília, ylang-ylang.", "Távolság Moronitól: kb. 15 km.", "Gazdaság: halászat és mezőgazdaság.", "Éghajlat: trópusi, esős évszak nov.-ápr."],
+      ro: ["Insulă: Grande Comore.", "Populație: aprox. 10.000.", "Produse: vanilie, ylang-ylang.", "Distanță până la Moroni: aprox. 15 km.", "Economie: pescuit și agricultură.", "Climă: tropicală, sezon ploios nov.-apr."],
+      en: ["Island: Grande Comore.", "Population: approx. 10,000.", "Products: vanilla, ylang-ylang.", "Distance to Moroni: approx. 15 km.", "Economy: fishing and agriculture.", "Climate: tropical, rainy season Nov-Apr."],
+    },
   }
 ];
 

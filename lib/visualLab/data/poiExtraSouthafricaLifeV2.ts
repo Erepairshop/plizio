@@ -7,174 +7,305 @@ export const poiExtraSouthafricaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "ZA-LP",
     coords: [31.47, -24.00],
-    name: { de: "Kruger-Nationalpark", hu: "Kruger Nemzeti Park", ro: "Parcul Național Kruger", en: "Kruger National Park",
-image: "/poi-images/kruger-national-park-life-v2.webp"
-},
+    name: { de: "Kruger-Nationalpark", hu: "Kruger Nemzeti Park", ro: "Parcul Național Kruger", en: "Kruger National Park"},
+    image: "/poi-images/kruger-national-park-life-v2.webp",
     description: { de: "Eines der größten Wildschutzgebiete Afrikas, bekannt für die 'Big Five'.", hu: "Afrika egyik legnagyobb vadvédelmi területe, a 'Nagy Ötös' otthona.", ro: "Una dintre cele mai mari rezervații naturale din Africa, celebră pentru 'Big Five'.", en: "One of Africa's largest game reserves, famous for the 'Big Five'." },
     facts: {
       de: ["Heimat der Big Five.", "Größter Park Südafrikas.", "Über 2 Millionen Hektar.", "Gegründet 1898."],
       hu: ["A Nagy Ötös otthona.", "Dél-Afrika legnagyobb parkja.", "Több mint 2 millió hektár.", "1898-ban alapították."],
       ro: ["Casa 'Big Five'.", "Cel mai mare parc din Africa de Sud.", "Peste 2 milioane de hectare.", "Fondat în 1898."],
       en: ["Home to the Big Five.", "South Africa's largest park.", "Over 2 million hectares.", "Founded in 1898."]
-    }, image: "/poi-images/kruger-national-park-life-v2.webp"},
+    }, image: "/poi-images/kruger-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kruger-Nationalpark ist eines der größten Wildschutzgebiete Afrikas und erstreckt sich über fast 20.000 Quadratkilometer im Nordosten Südafrikas. Er wurde 1898 als Wildreservat gegründet und 1926 zum Nationalpark erklärt. Der Park beherbergt eine außergewöhnliche Artenvielfalt, darunter die Big Five (Löwe, Leopard, Elefant, Nashorn, Büffel). Die Landschaft reicht von Savanne bis zu Flusswäldern. Besucher können Pirschfahrten unternehmen und geführte Wanderungen buchen. Der Park hat zahlreiche Restcamps und private Lodges. Er ist ein Vorreiter im nachhaltigen Tourismus und Naturschutz.",
+      hu: "A Kruger Nemzeti Park Afrika egyik legnagyobb vadvédelmi területe, csaknem 20.000 négyzetkilométeren terül el Dél-Afrika északkeleti részén. 1898-ban vadrezervátumként alapították, 1926-ban nyilvánították nemzeti parkká. A park rendkívüli biodiverzitással büszkélkedhet, beleértve a Big Five-ot (oroszlán, leopárd, elefánt, orrszarvú, bivaly). A táj szavannától a folyami erdőkig változik. A látogatók szafarikat tehetnek és vezetett túrákat vehetnek igénybe. Számos tábor és magán lodge várja a vendégeket. A park úttörő a fenntartható turizmus és természetvédelem terén.",
+      ro: "Parcul Național Kruger este una dintre cele mai mari rezervații de animale sălbatice din Africa, întinzându-se pe aproape 20.000 de kilometri pătrați în nord-estul Africii de Sud. A fost înființat ca rezervație de vânătoare în 1898 și declarat parc național în 1926. Parcul găzduiește o biodiversitate remarcabilă, inclusiv cei cinci mari (leu, leopard, elefant, rinocer, bivol). Peisajul variază de la savană la păduri riverane. Vizitatorii pot face safari și drumeții ghidate. Parcul are numeroase tabere și cabane private. Este un pionier al turismului durabil și al conservării naturii.",
+      en: "Kruger National Park is one of Africa's largest game reserves, covering nearly 20,000 square kilometers in northeastern South Africa. It was established as a game reserve in 1898 and declared a national park in 1926. The park hosts exceptional biodiversity, including the Big Five (lion, leopard, elephant, rhinoceros, buffalo). Landscapes range from savannah to riverine forests. Visitors can enjoy game drives and guided walks. There are numerous rest camps and private lodges. The park is a pioneer in sustainable tourism and conservation.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1898 als Wildreservat", "Nationalpark seit: 1926", "Fläche: 19.485 km²", "Säugetierarten: über 140", "Vogelarten: über 500", "Besucher pro Jahr: ca. 1,5 Millionen"],
+      hu: ["Alapítás: 1898 vadrezervátumként", "Nemzeti park: 1926 óta", "Terület: 19.485 km²", "Emlősfajok: több mint 140", "Madárfajok: több mint 500", "Éves látogatók: kb. 1,5 millió"],
+      ro: ["Înființare: 1898 ca rezervație de vânătoare", "Parc național: din 1926", "Suprafață: 19.485 km²", "Specii de mamifere: peste 140", "Specii de păsări: peste 500", "Vizitatori pe an: aproximativ 1,5 milioane"],
+      en: ["Established: 1898 as a game reserve", "National park since: 1926", "Area: 19,485 km²", "Mammal species: over 140", "Bird species: over 500", "Annual visitors: approx. 1.5 million"],
+    },
+  },
   {
     id: "addo-elephant-park-life-v2",
     type: "animal-habitat",
     parent: "ZA-EC",
     coords: [25.75, -33.45],
-    name: { de: "Addo-Elefanten-Nationalpark", hu: "Addo Elefánt Nemzeti Park", ro: "Parcul Național Elefanților Addo", en: "Addo Elephant National Park",
-image: "/poi-images/addo-elephant-park-life-v2.webp"
-},
+    name: { de: "Addo-Elefanten-Nationalpark", hu: "Addo Elefánt Nemzeti Park", ro: "Parcul Național Elefanților Addo", en: "Addo Elephant National Park"},
+    image: "/poi-images/addo-elephant-park-life-v2.webp",
     description: { de: "Schutzgebiet, berühmt für seine riesigen Elefantenherden.", hu: "Hatalmas elefántcsordáiról híres természetvédelmi terület.", ro: "Rezervație celebră pentru cirezile sale uriașe de elefanți.", en: "Reserve famous for its massive elephant herds." },
     facts: {
       de: ["Über 600 Elefanten.", "Liegt bei Port Elizabeth.", "Gegründet 1931.", "Drittebene Schutzraum."],
       hu: ["Több mint 600 elefánt.", "Port Elizabeth közelében.", "1931-ben alapították.", "Háromszintű védelem."],
       ro: ["Peste 600 de elefanți.", "Lângă Port Elizabeth.", "Fondat în 1931.", "Protecție pe trei niveluri."],
       en: ["Over 600 elephants.", "Near Port Elizabeth.", "Founded in 1931.", "Three-tiered conservation."]
-    }, image: "/poi-images/addo-elephant-park-life-v2.webp"},
+    }, image: "/poi-images/addo-elephant-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Addo-Elefanten-Nationalpark liegt in der Provinz Ostkap und wurde 1931 gegründet, um die letzten 11 Elefanten der Region zu schützen. Heute beherbergt der Park über 600 Elefanten sowie andere Wildtiere wie Büffel, Löwen und Nashörner. Der Park erstreckt sich über 1.640 Quadratkilometer und umfasst verschiedene Lebensräume, darunter den Sundays River Valley. Besonders bekannt ist die dichte Elefantenpopulation. Besucher können die Tiere aus nächster Nähe beobachten. Der Park hat auch eine Meeresschutzzone, die zu den artenreichsten der Welt zählt.",
+      hu: "Az Addo Elefánt Nemzeti Park a Kelet-Fokföld tartományban található, 1931-ben alapították, hogy megvédjék a régió utolsó 11 elefántját. Ma a park több mint 600 elefántnak ad otthont, valamint egyéb vadak, mint bivaly, oroszlán és orrszarvú. A park területe 1.640 négyzetkilométer, változatos élőhelyekkel, beleértve a Sundays River völgyét. Különösen híres a sűrű elefántpopulációjáról. A látogatók közelről megfigyelhetik az állatokat. A parkhoz tengeri védett övezet is tartozik, amely a világ egyik legváltozatosabb élővilágú területe.",
+      ro: "Parcul Național Addo Elephant se află în provincia Eastern Cape, înființat în 1931 pentru a proteja ultimii 11 elefanți din regiune. Astăzi, parcul găzduiește peste 600 de elefanți, precum și alte animale sălbatice, inclusiv bivoli, lei și rinoceri. Parcul se întinde pe 1.640 de kilometri pătrați, cu diverse habitate, inclusiv valea râului Sundays. Este renumit pentru populația densă de elefanți. Vizitatorii pot observa animalele de aproape. Parcul include și o zonă marină protejată, una dintre cele mai bogate în biodiversitate din lume.",
+      en: "Addo Elephant National Park is located in the Eastern Cape province, founded in 1931 to protect the last 11 elephants in the area. Today, the park is home to over 600 elephants, as well as other wildlife including buffalo, lion, and rhinoceros. The park covers 1,640 square kilometers and features diverse habitats, including the Sundays River Valley. It is especially known for its dense elephant population. Visitors can observe animals up close. The park also includes a marine protected area, one of the most biodiverse in the world.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1931", "Anfangsbestand: 11 Elefanten", "Heutige Elefantenpopulation: über 600", "Fläche: 1.640 km²", "Andere Großwildarten: Löwen, Büffel, Nashörner", "Meeresschutzzone: 1.200 km²"],
+      hu: ["Alapítás: 1931", "Kezdeti állomány: 11 elefánt", "Jelenlegi elefántpopuláció: több mint 600", "Terület: 1.640 km²", "Egyéb nagyvadfajok: oroszlán, bivaly, orrszarvú", "Tengeri védett övezet: 1.200 km²"],
+      ro: ["Înființare: 1931", "Efectiv inițial: 11 elefanți", "Populație actuală de elefanți: peste 600", "Suprafață: 1.640 km²", "Alte animale mari: lei, bivoli, rinoceri", "Zonă marină protejată: 1.200 km²"],
+      en: ["Founded: 1931", "Initial herd: 11 elephants", "Current elephant population: over 600", "Area: 1,640 km²", "Other large wildlife: lions, buffalo, rhinos", "Marine protected area: 1,200 km²"],
+    },
+  },
   {
     id: "table-mountain-kids-life-v2",
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.40, -33.96],
-    name: { de: "Tafelberg-Seilbahn", hu: "Tábla-hegyi libegő", ro: "Telecabina Table Mountain", en: "Table Mountain Aerial Cableway",
-image: "/poi-images/table-mountain-kids-life-v2.webp"
-},
+    name: { de: "Tafelberg-Seilbahn", hu: "Tábla-hegyi libegő", ro: "Telecabina Table Mountain", en: "Table Mountain Aerial Cableway"},
+    image: "/poi-images/table-mountain-kids-life-v2.webp",
     description: { de: "Die Seilbahn bringt Familien sicher auf den Gipfel des berühmten Tafelbergs.", hu: "A libegő biztonságosan felviszi a családokat a híres Tábla-hegy csúcsára.", ro: "Telecabina duce familiile în siguranță pe vârful celebrei Table Mountain.", en: "The cableway safely takes families to the top of the famous Table Mountain." },
     facts: {
       de: ["Drehbare Kabinen.", "Spektakulärer Blick auf Kapstadt.", "Seit 1929 aktiv.", "Beliebt bei Kindern."],
       hu: ["Forgó kabinok.", "Látványos kilátás Fokvárosra.", "1929 óta üzemel.", "Népszerű a gyerekek körében."],
       ro: ["Cabine rotative.", "Vedere spectaculoasă asupra Cape Town.", "Activ din 1929.", "Popular printre copii."],
       en: ["Rotating cabins.", "Spectacular views of Cape Town.", "Operating since 1929.", "Popular with kids."]
-    }, image: "/poi-images/table-mountain-kids-life-v2.webp"},
+    }, image: "/poi-images/table-mountain-kids-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tafelberg-Seilbahn bringt Besucher auf den Gipfel des Tafelbergs, eines der Wahrzeichen Kapstadts. Die erste Seilbahn wurde 1929 eröffnet und 1997 modernisiert. Die Kabinen drehen sich während der Fahrt um 360 Grad, sodass die Passagiere eine Rundumsicht genießen. Die Fahrt dauert etwa 4 bis 5 Minuten. Der Gipfel liegt auf 1.086 Metern Höhe und bietet einen spektakulären Blick auf die Stadt und die Küste. Oben angekommen, können Wanderungen auf verschiedenen Wegen unternommen werden. Die Seilbahn ist bei Kindern besonders beliebt und eine der Hauptattraktionen der Stadt.",
+      hu: "A Table Mountain Aerial Cableway a Fokváros egyik jelképének számító Tafelberg csúcsára viszi a látogatókat. Az első drótkötélpályát 1929-ben nyitották meg, 1997-ben korszerűsítették. A kabinok 360 fokban forognak az út során, így a vendégek panorámában gyönyörködhetnek. Az út körülbelül 4-5 percig tart. A csúcs 1.086 méter magasan fekszik, lenyűgöző látványt nyújtva a városra és a partvidékre. A tetején különböző túraútvonalak várják a kirándulókat. A gyermekes családok körében kifejezetten népszerű.",
+      ro: "Telecabina Table Mountain duce vizitatorii pe vârful Table Mountain, una dintre emblemele orașului Cape Town. Prima telecabină a fost deschisă în 1929 și modernizată în 1997. Cabinele se rotesc la 360 de grade în timpul călătoriei, oferind o vedere panoramică. Călătoria durează aproximativ 4-5 minute. Vârful se află la 1.086 de metri altitudine, oferind o priveliște spectaculoasă asupra orașului și coastei. Sus, vizitatorii pot face drumeții pe diverse trasee. Telecabina este deosebit de populară în rândul familiilor cu copii.",
+      en: "The Table Mountain Aerial Cableway takes visitors to the summit of Table Mountain, one of Cape Town's iconic landmarks. The first cableway opened in 1929 and was modernized in 1997. The cabins rotate 360 degrees during the ride, giving passengers panoramic views. The journey takes about 4 to 5 minutes. The summit is 1,086 meters high, offering spectacular views of the city and coastline. Once at the top, various hiking trails can be explored. The cableway is especially popular with kids and is a major attraction.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung erste Seilbahn: 1929", "Modernisierung: 1997", "Fahrzeit: 4-5 Minuten", "Kabinenkapazität: 65 Passagiere", "Höhe Gipfel: 1.086 m", "Länge der Seilbahn: 1.200 m"],
+      hu: ["Első drótkötélpálya: 1929", "Korszerűsítés: 1997", "Útidő: 4-5 perc", "Fülkekapacitás: 65 fő", "Csúcsmagasság: 1.086 m", "Kötélpálya hossza: 1.200 m"],
+      ro: ["Deschidere prima telecabină: 1929", "Modernizare: 1997", "Durată călătorie: 4-5 minute", "Capacitate cabină: 65 de pasageri", "Altitudine vârf: 1.086 m", "Lungime telecabină: 1.200 m"],
+      en: ["First cableway opened: 1929", "Modernization: 1997", "Travel time: 4-5 minutes", "Cabin capacity: 65 passengers", "Summit elevation: 1,086 m", "Cableway length: 1,200 m"],
+    },
+  },
   {
     id: "stellenbosch-winelands-life-v2",
     type: "agriculture",
     parent: "ZA-WC",
     coords: [18.86, -33.93],
-    name: { de: "Stellenbosch Weingebiete", hu: "Stellenbosch borvidékek", ro: "Regiunile viticole Stellenbosch", en: "Stellenbosch Wine Regions",
-image: "/poi-images/stellenbosch-winelands-life-v2.webp"
-},
+    name: { de: "Stellenbosch Weingebiete", hu: "Stellenbosch borvidékek", ro: "Regiunile viticole Stellenbosch", en: "Stellenbosch Wine Regions"},
+    image: "/poi-images/stellenbosch-winelands-life-v2.webp",
     description: { de: "Eine der wichtigsten landwirtschaftlichen Zonen für Weinbau in Südafrika.", hu: "Dél-Afrika egyik legfontosabb mezőgazdasági bortermelő régiója.", ro: "Una dintre cele mai importante zone agricole pentru viticultură din Africa de Sud.", en: "One of the most important agricultural zones for wine production in South Africa." },
     facts: {
       de: ["Historische Weingüter.", "Eichenalleen.", "Weinkultur seit 1679.", "Touristische Familienziele."],
       hu: ["Történelmi borászatok.", "Tölgyfa-sétányok.", "Borkultúra 1679 óta.", "Turisztikai célpontok családoknak."],
       ro: ["Crame istorice.", "Aleile cu stejari.", "Cultură viticolă din 1679.", "Destinații turistice pentru familii."],
       en: ["Historic wineries.", "Oak-lined streets.", "Wine culture since 1679.", "Tourist destinations for families."]
-    }, image: "/poi-images/stellenbosch-winelands-life-v2.webp"},
+    }, image: "/poi-images/stellenbosch-winelands-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Weinregion Stellenbosch liegt etwa 50 Kilometer östlich von Kapstadt und ist eines der bedeutendsten Weinanbaugebiete Südafrikas. Die Region wurde im 17. Jahrhundert von niederländischen Siedlern gegründet und produziert hochwertige Weine, insbesondere Cabernet Sauvignon und Chardonnay. Zahlreiche Weingüter bieten Verkostungen und Führungen an. Die malerischen Landschaften mit Bergen und Weinbergen ziehen Touristen an. Stellenbosch selbst ist eine historische Universitätsstadt mit gut erhaltener Architektur. Die Weinroute umfasst mehr als 200 Weingüter.",
+      hu: "A Stellenbosch borvidék Fokvárostól körülbelül 50 kilométerre keletre fekszik, Dél-Afrika egyik legjelentősebb bortermelő területe. A régiót a 17. században holland telepesek alapították, és kiváló minőségű borokat termel, különösen Cabernet Sauvignont és Chardonnay-t. Számos borászat kínál borkóstolókat és túrákat. A festői táj hegyekkel és szőlőültetvényekkel vonzza a turistákat. Stellenbosch történelmi egyetemi város, jól megőrzött építészettel. A borút több mint 200 borászatot foglal magában.",
+      ro: "Regiunea viticolă Stellenbosch este situată la aproximativ 50 de kilometri est de Cape Town, fiind una dintre cele mai importante zone viticole din Africa de Sud. Regiunea a fost fondată de coloniști olandezi în secolul al XVII-lea și produce vinuri de calitate, în special Cabernet Sauvignon și Chardonnay. Numeroase crame oferă degustări și tururi. Peisajele pitorești cu munți și podgorii atrag turiști. Stellenbosch este un oraș universitar istoric, cu arhitectură bine conservată. Traseul vinului include peste 200 de crame.",
+      en: "The Stellenbosch wine region is located about 50 kilometers east of Cape Town and is one of South Africa's most important wine-producing areas. The region was founded by Dutch settlers in the 17th century and produces high-quality wines, especially Cabernet Sauvignon and Chardonnay. Numerous wineries offer tastings and tours. The picturesque landscapes with mountains and vineyards attract tourists. Stellenbosch is a historic university town with well-preserved architecture. The wine route includes more than 200 wineries.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1679 durch niederländische Siedler", "Entfernung von Kapstadt: 50 km", "Anzahl der Weingüter: über 200", "Hauptrebsorten: Cabernet Sauvignon, Chardonnay", "Höhenlage: 100-300 m über dem Meeresspiegel", "Jährliche Weinproduktion: ca. 300.000 Hektoliter"],
+      hu: ["Alapítás: 1679 holland telepesek által", "Távolság Fokvárostól: 50 km", "Borászatok száma: több mint 200", "Főbb szőlőfajták: Cabernet Sauvignon, Chardonnay", "Tengerszint feletti magasság: 100-300 m", "Éves bortermelés: kb. 300.000 hektoliter"],
+      ro: ["Fondare: 1679 de coloniști olandezi", "Distanță de Cape Town: 50 km", "Număr de crame: peste 200", "Soiuri principale: Cabernet Sauvignon, Chardonnay", "Altitudine: 100-300 m deasupra mării", "Producție anuală de vin: aprox. 300.000 hectolitri"],
+      en: ["Founded: 1679 by Dutch settlers", "Distance from Cape Town: 50 km", "Number of wineries: over 200", "Main grape varieties: Cabernet Sauvignon, Chardonnay", "Altitude: 100-300 m above sea level", "Annual wine production: approx. 300,000 hectoliters"],
+    },
+  },
   {
     id: "sodwana-bay-life-v2",
     type: "animal-habitat",
     parent: "ZA-KZN",
     coords: [32.68, -27.53],
-    name: { de: "Sodwana Bay Marine", hu: "Sodwana Bay Tengeri Park", ro: "Rezervația Marină Sodwana Bay", en: "Sodwana Bay Marine Reserve",
-image: "/poi-images/sodwana-bay-life-v2.webp"
-},
+    name: { de: "Sodwana Bay Marine", hu: "Sodwana Bay Tengeri Park", ro: "Rezervația Marină Sodwana Bay", en: "Sodwana Bay Marine Reserve"},
+    image: "/poi-images/sodwana-bay-life-v2.webp",
     description: { de: "Paradies für Taucher mit einzigartiger Unterwasserwelt.", hu: "Búvárparadicsom egyedülálló vízalatti világgal.", ro: "Paradis pentru scafandri cu o lume subacvatică unică.", en: "Diver's paradise with a unique underwater world." },
     facts: {
       de: ["Korallenriffe.", "Schildkröten-Nistplatz.", "Wärmere Gewässer.", "Familien-Schnorcheln."],
       hu: ["Korallzátonyok.", "Teknősök fészkelőhelye.", "Melegebb vizek.", "Családi sznorkelezés."],
       ro: ["Recife de corali.", "Loc de cuibărit pentru țestoase.", "Ape mai calde.", "Snorkeling pentru familii."],
       en: ["Coral reefs.", "Turtle nesting site.", "Warmer waters.", "Family snorkeling."]
-    }, image: "/poi-images/sodwana-bay-life-v2.webp"},
+    }, image: "/poi-images/sodwana-bay-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sodwana Bay ist Teil des iSimangaliso-Wetland-Parks, einem UNESCO-Weltnaturerbe an der Küste von KwaZulu-Natal. Sie ist bekannt für ihre außergewöhnliche Unterwasserwelt und gilt als eines der besten Tauchziele der Welt. Das Meeresschutzgebiet beherbergt über 1.200 Fischarten und zahlreiche Korallenriffe. Die Bucht ist auch ein wichtiger Brutplatz für Meeresschildkröten. Beliebte Aktivitäten sind Tauchen, Schnorcheln und Sportfischen. Die Wassertemperaturen liegen das ganze Jahr über zwischen 22 und 28 Grad Celsius. Die Strände sind unberührt und von Sanddünen gesäumt.",
+      hu: "A Sodwana-öböl az iSimangaliso vizes élőhelyek park része, amely az UNESCO Világörökség része a KwaZulu-Natal-i tengerparton. Híres rendkívüli víz alatti világáról, és világszerte az egyik legjobb búvárhelynek számít. A tengeri védett terület több mint 1.200 halfajnak és számos korallzátonynak ad otthont. Az öböl fontos tengeri teknősök számára is, amelyek itt rakják le tojásaikat. Népszerű tevékenységek a búvárkodás, snorkeling és sporthorgászat. A víz hőmérséklete egész évben 22-28 °C között van. A strandok érintetlenek és homokdűnék szegélyezik.",
+      ro: "Golful Sodwana face parte din Parcul Zonei Umede iSimangaliso, un sit al Patrimoniului Mondial UNESCO pe coasta KwaZulu-Natal. Este renumit pentru viața marină excepțională și considerat una dintre cele mai bune destinații de scufundări din lume. Rezervația marină găzduiește peste 1.200 de specii de pești și numeroase recife de corali. Golful este, de asemenea, un loc important de cuibărit pentru țestoasele marine. Activități populare includ scufundări, snorkeling și pescuit sportiv. Temperatura apei variază între 22 și 28 grade Celsius pe tot parcursul anului. Plajele sunt nealterate, mărginite de dune de nisip.",
+      en: "Sodwana Bay is part of the iSimangaliso Wetland Park, a UNESCO World Heritage Site on the coast of KwaZulu-Natal. It is renowned for its exceptional marine life and considered one of the world's best diving destinations. The marine reserve hosts over 1,200 fish species and numerous coral reefs. The bay is also an important nesting site for sea turtles. Popular activities include diving, snorkeling, and sport fishing. Water temperatures range between 22 and 28 degrees Celsius year-round. The beaches are pristine and lined with sand dunes.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltnaturerbe seit 1999", "Fischarten: über 1.200", "Korallenriffe: über 50", "Wassertemperatur: 22-28°C", "Tiefe Tauchgänge: bis zu 30 Meter", "Brutplatz für Lederschildkröten"],
+      hu: ["UNESCO Világörökség: 1999 óta", "Halfajok száma: több mint 1.200", "Korallzátonyok: több mint 50", "Víz hőmérséklete: 22-28°C", "Merülési mélység: akár 30 méter", "Teknősök fészkelőhelye: bőrhátú teknős"],
+      ro: ["Patrimoniu UNESCO: din 1999", "Specii de pești: peste 1.200", "Recife de corali: peste 50", "Temperatura apei: 22-28°C", "Adâncime scufundări: până la 30 de metri", "Loc de cuibărit pentru țestoasele marine"],
+      en: ["UNESCO World Heritage since 1999", "Fish species: over 1,200", "Coral reefs: over 50", "Water temperature: 22-28°C", "Diving depth: up to 30 meters", "Nesting site for leatherback turtles"],
+    },
+  },
   {
     id: "mountain-zebra-national-park-life-v2",
     type: "animal-habitat",
     parent: "ZA-EC",
     coords: [25.43, -32.25],
-    name: { de: "Bergzebra-Nationalpark", hu: "Hegyi Zebra Nemzeti Park", ro: "Parcul Național al Zebrelor de Munte", en: "Mountain Zebra National Park",
-image: "/poi-images/mountain-zebra-national-park-life-v2.webp"
-},
+    name: { de: "Bergzebra-Nationalpark", hu: "Hegyi Zebra Nemzeti Park", ro: "Parcul Național al Zebrelor de Munte", en: "Mountain Zebra National Park"},
+    image: "/poi-images/mountain-zebra-national-park-life-v2.webp",
     description: { de: "Schutzraum für das seltene südafrikanische Bergzebra.", hu: "Védett terület a ritka dél-afrikai hegyi zebra számára.", ro: "Rezervație pentru rara zebră de munte sud-africană.", en: "Conservation area for the rare South African mountain zebra." },
     facts: {
       de: ["Bergige Landschaft.", "Gepard-Beobachtungen.", "Wandern mit Kindern.", "Gegründet 1937."],
       hu: ["Hegyvidéki táj.", "Gepárd-megfigyelések.", "Túrázás gyerekekkel.", "1937-ben alapították."],
       ro: ["Peisaj montan.", "Observarea ghepardilor.", "Drumeții cu copiii.", "Fondat în 1937."],
       en: ["Mountainous landscape.", "Cheetah sightings.", "Hiking with children.", "Founded in 1937."]
-    }, image: "/poi-images/mountain-zebra-national-park-life-v2.webp"},
+    }, image: "/poi-images/mountain-zebra-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mountain-Zebra-Nationalpark liegt in der Provinz Ostkap und wurde 1937 gegründet, um die gefährdeten Bergzebras zu schützen. Die ursprüngliche Population von nur sechs Tieren ist heute auf über 700 angewachsen. Der Park erstreckt sich über 284 Quadratkilometer und umfasst Bergland mit Fynbos-Vegetation. Neben Bergzebras leben hier auch Elenantilopen, Springböcke und viele Vogelarten. Besucher können Pirschfahrten unternehmen und Wanderungen durch die einzigartige Landschaft genießen. Der Park ist ein Erfolgsbeispiel für den Artenschutz in Südafrika.",
+      hu: "A Mountain Zebra Nemzeti Park a Kelet-Fokföld tartományban található, 1937-ben alapították a veszélyeztetett hegyi zebrák védelmére. Az eredeti, mindössze hat egyedből álló populáció mára több mint 700-ra nőtt. A park területe 284 négyzetkilométer, hegyvidéki tájjal és fynbos növényzettel. A hegyi zebrák mellett él itt jávorantilop, springbok és számos madárfaj. A látogatók szafarikat tehetnek és túrázhatnak a különleges tájban. A park a dél-afrikai természetvédelem sikertörténete.",
+      ro: "Parcul Național Mountain Zebra se află în provincia Eastern Cape, fondat în 1937 pentru a proteja zebrele de munte, o specie pe cale de dispariție. Populația inițială de doar șase animale a crescut astăzi la peste 700. Parcul se întinde pe 284 de kilometri pătrați, cu peisaje montane și vegetație de fynbos. Pe lângă zebrele de munte, aici trăiesc antilope elan, springboki și multe specii de păsări. Vizitatorii pot face safariuri și drumeții peisagistice. Parcul este un exemplu de succes al conservării speciilor în Africa de Sud.",
+      en: "Mountain Zebra National Park is located in the Eastern Cape province, established in 1937 to protect the endangered mountain zebra. The original population of only six animals has now grown to over 700. The park covers 284 square kilometers and features mountainous terrain with fynbos vegetation. Besides mountain zebras, it hosts eland antelope, springbok, and many bird species. Visitors can enjoy game drives and hikes through the unique landscape. The park is a conservation success story in South Africa.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1937", "Ursprüngliche Zebrapopulation: 6 Tiere", "Heutige Zebrapopulation: über 700", "Fläche: 284 km²", "Höchster Punkt: 2.060 m (Mount Zebra)", "Vegetation: Fynbos"],
+      hu: ["Alapítás: 1937", "Eredeti zebrapopuláció: 6 állat", "Jelenlegi zebrapopuláció: több mint 700", "Terület: 284 km²", "Legmagasabb pont: 2.060 m (Mount Zebra)", "Növényzet: fynbos"],
+      ro: ["Fondare: 1937", "Populație inițială de zebre: 6 animale", "Populație actuală de zebre: peste 700", "Suprafață: 284 km²", "Cel mai înalt punct: 2.060 m (Mount Zebra)", "Vegetație: fynbos"],
+      en: ["Founded: 1937", "Initial zebra population: 6 animals", "Current zebra population: over 700", "Area: 284 km²", "Highest point: 2,060 m (Mount Zebra)", "Vegetation: fynbos"],
+    },
+  },
   {
     id: "gold-reef-city-life-v2",
     type: "kid-landmark",
     parent: "ZA-GP",
     coords: [28.01, -26.23],
-    name: { de: "Gold Reef City", hu: "Gold Reef City vidámpark", ro: "Parcul de distracții Gold Reef City", en: "Gold Reef City Amusement Park",
-image: "/poi-images/gold-reef-city-life-v2.webp"
-},
+    name: { de: "Gold Reef City", hu: "Gold Reef City vidámpark", ro: "Parcul de distracții Gold Reef City", en: "Gold Reef City Amusement Park"},
+    image: "/poi-images/gold-reef-city-life-v2.webp",
     description: { de: "Vergnügungspark, der das Leben in Johannesburg während des Goldrausches nachstellt.", hu: "Vidámpark, amely az aranyláz idején zajló johannesburgi életet mutatja be.", ro: "Parc de distracții care recreează viața din Johannesburg în timpul goanei după aur.", en: "Amusement park recreating life in Johannesburg during the gold rush." },
     facts: {
       de: ["Untergrund-Minentour.", "Achterbahnen.", "Goldwaschen für Kinder.", "Nahe Johannesburg."],
       hu: ["Föld alatti bányatúra.", "Hullámvasutak.", "Aranyásás gyerekeknek.", "Johannesburg közelében."],
       ro: ["Tur în mină subterană.", "Montagne-russe.", "Căutarea aurului pentru copii.", "Lângă Johannesburg."],
       en: ["Underground mine tour.", "Rollercoasters.", "Gold panning for kids.", "Near Johannesburg."]
-    }, image: "/poi-images/gold-reef-city-life-v2.webp"},
+    }, image: "/poi-images/gold-reef-city-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Gold Reef City ist ein Vergnügungspark und ein Casino in Johannesburg, Südafrika, das auf dem Gelände einer stillgelegten Goldmine errichtet wurde. Der Park wurde 1988 eröffnet und bietet eine Kombination aus Fahrgeschäften, historischen Ausstellungen und Unterhaltung. Die Hauptattraktion ist eine simulierte Goldmine, die den Bergbau während des Goldrauschs des 19. Jahrhunderts nachbildet. Besucher können eine unterirdische Fahrt durch die Mine unternehmen und Goldwaschen erleben. Der Park enthält auch ein Museum, das der Geschichte des Goldabbaus gewidmet ist. Neben Achterbahnen und anderen Fahrgeschäften gibt es Themenbereiche wie die Old West Street. Gold Reef City ist auch für seine kulturellen Shows und Restaurants bekannt. Der Park liegt auf dem Crown Reef, einem Teil des Witwatersrand-Riffs.",
+      hu: "A Gold Reef City egy vidámpark és kaszinó Johannesburgban, Dél-Afrikában, amely egy bezárt aranybánya területén épült. A parkot 1988-ban nyitották meg, és a szórakoztató berendezések, történelmi kiállítások és szórakozás kombinációját kínálja. A fő attrakció egy szimulált aranybánya, amely a 19. századi aranyláz bányászatát mutatja be. A látogatók föld alatti utat tehetnek a bányában, és aranymosást is kipróbálhatnak. A parkban múzeum is található, amely az aranybányászat történetének szentelt. A hullámvasutak és egyéb játékok mellett tematikus területek, mint például a régi nyugati utca is várják a látogatókat. A Gold Reef City híres kulturális műsorairól és éttermeiről is. A park a Crown Reef-en található, amely a Witwatersrand-érchegység része.",
+      ro: "Gold Reef City este un parc de distracții și cazinou în Johannesburg, Africa de Sud, construit pe amplasamentul unei mine de aur închise. Parcul a fost deschis în 1988 și oferă o combinație de atracții, expoziții istorice și divertisment. Atracția principală este o mină de aur simulată care reconstituie mineritul din goana după aur a secolului al XIX-lea. Vizitatorii pot face o călătorie subterană prin mină și pot experimenta spălarea aurului. Parcul include, de asemenea, un muzeu dedicat istoriei mineritului de aur. Pe lângă montagne russe și alte jocuri, există zone tematice precum Old West Street. Gold Reef City este cunoscut și pentru spectacolele sale culturale și restaurante. Parcul se află pe Crown Reef, o parte a crestului Witwatersrand.",
+      en: "Gold Reef City is a theme park and casino in Johannesburg, South Africa, built on the site of the Crown Mines, a former gold mine. Opened in 1988, the park offers rides, historical exhibits, and entertainment. Its central feature is a simulated gold mine ride that takes visitors underground to experience the conditions of the 19th-century gold rush. The park also has a museum detailing the history of gold mining in the region. Rides include roller coasters, a log flume, and a ferris wheel. Theming is based on the Gold Rush era, with a replica mining town. Gold Reef City also houses a hotel, theater, and conference facilities. It is located about 8 km south of Johannesburg city center. The park is a popular tourist destination for families.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1988", "Fläche: 30 Hektar", "Achterbahnen: 3", "Tiefe der simulierten Mine: 30 m", "Anzahl der Besucher jährlich: über 1 Million", "Größe des Casinos: 1.500 m²"],
+      hu: ["Megnyitva: 1988", "Terület: 30 hektár", "Hullámvasutak: 3", "Szimulált bánya mélysége: 30 m", "Éves látogatók: több mint 1 millió", "Kaszinó mérete: 1 500 m²"],
+      ro: ["Deschis în 1988", "Suprafață: 30 de hectare", "Montagne russe: 3", "Adâncimea minei simulate: 30 m", "Vizitatori anual: peste 1 milion", "Dimensiunea cazinoului: 1.500 m²"],
+      en: ["Opened in 1988", "Area: 30 hectares", "Roller coasters: 3", "Simulated mine depth: 30 m", "Annual visitors: over 1 million", "Casino size: 1,500 m²"],
+    },
+  },
   {
     id: "kirstenbosch-botanical-life-v2",
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.43, -33.99],
-    name: { de: "Kirstenbosch Botanischer Garten", hu: "Kirstenbosch Botanikus Kert", ro: "Grădina Botanică Kirstenbosch", en: "Kirstenbosch Botanical Gardens",
-image: "/poi-images/kirstenbosch-botanical-life-v2.webp"
-},
+    name: { de: "Kirstenbosch Botanischer Garten", hu: "Kirstenbosch Botanikus Kert", ro: "Grădina Botanică Kirstenbosch", en: "Kirstenbosch Botanical Gardens"},
+    image: "/poi-images/kirstenbosch-botanical-life-v2.webp",
     description: { de: "Wunderschöner Garten am Osthang des Tafelbergs, ideal für Familien.", hu: "Gyönyörű kert a Tábla-hegy keleti lejtőjén, ideális családoknak.", ro: "Grădină frumoasă pe versantul estic al Table Mountain, ideală pentru familii.", en: "Beautiful garden on the eastern slopes of Table Mountain, perfect for families." },
     facts: {
       de: ["Canopy-Walkway.", "Picknickplätze.", "Einheimische Flora.", "Konzerte im Sommer."],
       hu: ["Lombkorona-sétány.", "Piknikező helyek.", "Őshonos növényvilág.", "Nyári koncertek."],
       ro: ["Alee la nivelul coronamentului.", "Zone de picnic.", "Floră nativă.", "Concerte de vară."],
       en: ["Canopy walkway.", "Picnic spots.", "Indigenous flora.", "Summer concerts."]
-    }, image: "/poi-images/kirstenbosch-botanical-life-v2.webp"},
+    }, image: "/poi-images/kirstenbosch-botanical-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kirstenbosch National Botanical Garden liegt am Fuß des Tafelbergs in Kapstadt. Er wurde 1913 gegründet und ist einer der schönsten botanischen Gärten der Welt. Der Garten konzentriert sich auf die einheimische Flora Südafrikas, insbesondere Fynbos. Zu den Höhepunkten gehören der Duftgarten für Blinde, der Baumkronenpfad und das botanische Forschungszentrum. Die Anlage erstreckt sich über 36 Hektar und beherbergt über 7.000 Pflanzenarten. Jährlich finden hier Konzerte und Ausstellungen statt. Der Garten ist ein wichtiger Ort für Bildung und Erholung.",
+      hu: "A Kirstenbosch Nemzeti Botanikus Kert a Tafelberg lábánál fekszik Fokvárosban. 1913-ban alapították, és a világ egyik legszebb botanikus kertje. A kert a dél-afrikai őshonos flórára, különösen a fynbosra összpontosít. Kiemelkedő látnivalók a Vakok Illatkertje, a lombkorona-ösvény és a botanikai kutatóközpont. A terület 36 hektárt ölel fel, és több mint 7.000 növényfajnak ad otthont. Rendszeresen koncerteket és kiállításokat tartanak itt. A kert fontos oktatási és rekreációs helyszín.",
+      ro: "Grădina Botanică Națională Kirstenbosch se află la poalele Table Mountain, în Cape Town. A fost fondată în 1913 și este una dintre cele mai frumoase grădini botanice din lume. Grădina se concentrează pe flora nativă a Africii de Sud, în special fynbos. Printre punctele de atracție se numără Grădina Parfumată pentru Nevăzători, Poteca Coronamentului și Centrul de Cercetare Botanică. Suprafața se întinde pe 36 de hectare și găzduiește peste 7.000 de specii de plante. Anual au loc concerte și expoziții. Grădina este un loc important pentru educație și recreere.",
+      en: "Kirstenbosch National Botanical Garden lies at the foot of Table Mountain in Cape Town. It was established in 1913 and is one of the world's most beautiful botanical gardens. The garden focuses on South Africa's native flora, especially fynbos. Highlights include the Fragrance Garden for the Blind, the Canopy Walkway, and the botanical research center. The garden covers 36 hectares and houses over 7,000 plant species. Concerts and exhibitions are held here annually. It is an important site for education and recreation.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1913", "Fläche: 36 Hektar", "Pflanzenarten: über 7.000", "Höhenlage: 150-200 m ü. M.", "Jährliche Besucher: ca. 750.000", "UNESCO-Weltkulturerbe: seit 1998 (Teil des Tafelbergs)"],
+      hu: ["Alapítás: 1913", "Terület: 36 hektár", "Növényfajok: több mint 7.000", "Tengerszint feletti magasság: 150-200 m", "Éves látogatók: kb. 750.000", "UNESCO Világörökség: 1998 óta (Tafelberg része)"],
+      ro: ["Fondare: 1913", "Suprafață: 36 de hectare", "Specii de plante: peste 7.000", "Altitudine: 150-200 m deasupra mării", "Vizitatori anuali: aprox. 750.000", "Patrimoniu UNESCO: din 1998 (parte a Table Mountain)"],
+      en: ["Founded: 1913", "Area: 36 hectares", "Plant species: over 7,000", "Elevation: 150-200 m above sea level", "Annual visitors: approx. 750,000", "UNESCO World Heritage: since 1998 (part of Table Mountain)"],
+    },
+  },
   {
     id: "ukutula-lion-life-v2",
     type: "animal-habitat",
     parent: "ZA-NW",
     coords: [27.75, -25.39],
-    name: { de: "Ukutula Löwenpark", hu: "Ukutula Oroszlánpark", ro: "Parcul de lei Ukutula", en: "Ukutula Lion Park",
-image: "/poi-images/ukutula-lion-life-v2.webp"
-},
+    name: { de: "Ukutula Löwenpark", hu: "Ukutula Oroszlánpark", ro: "Parcul de lei Ukutula", en: "Ukutula Lion Park"},
+    image: "/poi-images/ukutula-lion-life-v2.webp",
     description: { de: "Ein Zentrum für Naturschutz und Bildung mit Löwen.", hu: "Természetvédelmi és oktatási központ oroszlánokkal.", ro: "Centru de conservare și educație cu lei.", en: "A center for conservation and education with lions." },
     facts: {
       de: ["Löwen-Beobachtung.", "Bildungsprogramme.", "Wissenschaftliche Forschung.", "Familienfreundlich."],
       hu: ["Oroszlán-megfigyelés.", "Oktatási programok.", "Tudományos kutatás.", "Családbarát."],
       ro: ["Observarea leilor.", "Programe educaționale.", "Cercetare științifică.", "Potrivit pentru familii."],
       en: ["Lion observation.", "Educational programs.", "Scientific research.", "Family-friendly."]
-    }, image: "/poi-images/ukutula-lion-life-v2.webp"},
+    }, image: "/poi-images/ukutula-lion-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Ukutula Lion Park ist ein Löwenschutzgebiet in der Provinz Nordwest, etwa 90 Kilometer nördlich von Johannesburg. Der Park bietet Besuchern die Möglichkeit, Löwen aus nächster Nähe zu erleben, darunter die gefährdete weiße Löwenrasse. Zu den Aktivitäten gehören Fütterungen, Spaziergänge mit Löwenjungen und geführte Touren. Der Park engagiert sich in der Zucht und dem Schutz von Löwen und anderen Wildtieren. Es gibt auch Unterkünfte wie Chalets und eine Lodge. Ukutula ist ein beliebtes Ziel für Ökotourismus und Tierbeobachtung.",
+      hu: "Az Ukutula Lion Park egy oroszlánvédelmi terület az Északnyugati tartományban, Johannesburgtól mintegy 90 kilométerre északra. A park lehetőséget nyújt a látogatóknak, hogy közelről tapasztalják meg az oroszlánokat, beleértve a veszélyeztetett fehér oroszlánfajt is. Tevékenységek közé tartozik az etetés, séták oroszlánkölykökkel és vezetett túrák. A park részt vesz az oroszlánok és más vadon élő állatok tenyésztésében és védelmében. Szállások is elérhetők, mint faházak és egy lodge. Az Ukutula népszerű célpont az ökoturizmus és állatmegfigyelés számára.",
+      ro: "Parcul Ukutula Lion este o rezervație de lei în provincia North West, la aproximativ 90 de kilometri nord de Johannesburg. Parcul oferă vizitatorilor ocazia de a vedea lei de aproape, inclusiv rasa rară de leu alb. Activitățile includ hrăniri, plimbări cu pui de leu și tururi ghidate. Parcul este implicat în creșterea și protecția leilor și a altor animale sălbatice. Există, de asemenea, cazări, cum ar fi căsuțe și o cabană. Ukutula este o destinație populară pentru ecoturism și observarea faunei.",
+      en: "Ukutula Lion Park is a lion conservation area in the North West province, about 90 kilometers north of Johannesburg. The park offers visitors the chance to experience lions up close, including the endangered white lion breed. Activities include feedings, walks with lion cubs, and guided tours. The park is involved in breeding and conservation of lions and other wildlife. Accommodations such as chalets and a lodge are available. Ukutula is a popular destination for ecotourism and wildlife viewing.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 2005", "Entfernung von Johannesburg: 90 km", "Löwenbestand: etwa 80 Tiere", "Weiße Löwen: besondere Zucht", "Unterkünfte: 15 Chalets", "Aktivitäten: Fütterungen, Spaziergänge"],
+      hu: ["Alapítás: 2005", "Távolság Johannesburgtól: 90 km", "Oroszlánok száma: kb. 80 állat", "Fehér oroszlánok: speciális tenyésztés", "Szállások: 15 faház", "Tevékenységek: etetés, séta kölykökkel"],
+      ro: ["Fondare: 2005", "Distanță de Johannesburg: 90 km", "Număr de lei: aprox. 80 de animale", "Leii albi: reproducere specială", "Cazări: 15 căsuțe", "Activități: hrăniri, plimbări cu pui"],
+      en: ["Founded: 2005", "Distance from Johannesburg: 90 km", "Lion population: about 80 animals", "White lions: special breeding program", "Accommodations: 15 chalets", "Activities: feedings, cub walks"],
+    },
+  },
   {
     id: "karoo-national-park-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [22.48, -32.35],
-    name: { de: "Karoo-Nationalpark", hu: "Karoo Nemzeti Park", ro: "Parcul Național Karoo", en: "Karoo National Park",
-image: "/poi-images/karoo-national-park-life-v2.webp"
-},
+    name: { de: "Karoo-Nationalpark", hu: "Karoo Nemzeti Park", ro: "Parcul Național Karoo", en: "Karoo National Park"},
+    image: "/poi-images/karoo-national-park-life-v2.webp",
     description: { de: "Wüstenartige Landschaft mit faszinierender Tierwelt in der Karoo-Region.", hu: "Sivatagi táj lenyűgöző vadvilággal a Karoo régióban.", ro: "Peisaj deșertic cu o faună fascinantă în regiunea Karoo.", en: "Desert-like landscape with fascinating wildlife in the Karoo region." },
     facts: {
       de: ["Fossiliensuche.", "Sternenhimmel.", "Wüsten-Schmuckschildkröten.", "Familien-Safaris."],
       hu: ["Követ-vadászat.", "Csillagos égbolt.", "Sivatagi ékszerteknősök.", "Családi szafarik."],
       ro: ["Căutarea fosilelor.", "Cerul înstelat.", "Țestoase de deșert.", "Safari pentru familii."],
       en: ["Fossil hunting.", "Starry skies.", "Desert tortoises.", "Family safaris."]
-    }, image: "/poi-images/karoo-national-park-life-v2.webp"},
+    }, image: "/poi-images/karoo-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Karoo-Nationalpark liegt in der Provinz Nordkap und wurde 1979 gegründet. Er schützt eine halbtrockene Karoo-Landschaft mit vielfältigen Kakteen- und Straucharten. Der Park beherbergt Springböcke, Giraffen, Bergzebras und viele Vogelarten. Die Landschaft ist geprägt von Tafelbergen und weiten Ebenen. Besucher können Pirschfahrten unternehmen und die Stille der Karoo genießen. Der Park hat einen bekannten Fossilienbestand, der auf die Jurazeit zurückgeht. Ein Besucherzentrum informiert über die Geologie und Tierwelt.",
+      hu: "A Karoo Nemzeti Park az Északi-fokföld tartományban található, 1979-ben alapították. Félszáraz Karoo tájat véd, változatos kaktusz- és bokorfajokkal. A parkban élnek springbokok, zsiráfok, hegyi zebrák és számos madárfaj. A tájat asztalhegyek és széles síkságok jellemzik. A látogatók szafarikat tehetnek és élvezhetik a Karoo csendjét. A park híres fosszília-lelőhelyeiről, amelyek a jura korból származnak. A látogatóközpont tájékoztat a geológiáról és az állatvilágról.",
+      ro: "Parcul Național Karoo este situat în provincia Northern Cape, înființat în 1979. Protejează un peisaj semiarid de Karoo, cu diverse specii de cactuși și arbuști. Parcul găzduiește springboki, girafe, zebre de munte și multe specii de păsări. Peisajul este caracterizat de munți cu vârfuri plate și câmpii întinse. Vizitatorii pot face safari și se pot bucura de liniștea Karoo-ului. Parcul are un reputat patrimoniu fosilifer, datând din perioada Jurasică. Centrul de vizitare oferă informații despre geologie și faună sălbatică.",
+      en: "Karoo National Park is located in the Northern Cape province and was established in 1979. It protects a semi-arid Karoo landscape with diverse succulents and shrubs. The park is home to springbok, giraffe, mountain zebra, and many bird species. The landscape is characterized by flat-topped mountains and wide plains. Visitors can enjoy game drives and the tranquility of the Karoo. The park has a famous fossil record, dating back to the Jurassic period. A visitor center provides information on geology and wildlife.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1979", "Fläche: 766 km²", "Höchster Punkt: 1.480 m (Spitskop)", "Fossilien: Jurazeit", "Vogelarten: über 100", "Vegetation: Sukkulenten-Karoo"],
+      hu: ["Alapítás: 1979", "Terület: 766 km²", "Legmagasabb pont: 1.480 m (Spitskop)", "Fosszíliák: jura korszak", "Madárfajok: több mint 100", "Növényzet: pozsgás Karoo"],
+      ro: ["Fondare: 1979", "Suprafață: 766 km²", "Cel mai înalt punct: 1.480 m (Spitskop)", "Fosile: perioada Jurasică", "Specii de păsări: peste 100", "Vegetație: Karoo suculentă"],
+      en: ["Founded: 1979", "Area: 766 km²", "Highest point: 1,480 m (Spitskop)", "Fossils: Jurassic period", "Bird species: over 100", "Vegetation: Succulent Karoo"],
+    },
+  },
   {
     id: "u-shaka-marine-life-v2",
     type: "kid-landmark",
     parent: "ZA-KZN",
     coords: [31.05, -29.87],
-    name: { de: "uShaka Marine World", hu: "uShaka Marine World élménypark", ro: "Parcul acvatic uShaka Marine World", en: "uShaka Marine World",
-image: "/poi-images/u-shaka-marine-life-v2.webp"
-},
+    name: { de: "uShaka Marine World", hu: "uShaka Marine World élménypark", ro: "Parcul acvatic uShaka Marine World", en: "uShaka Marine World"},
+    image: "/poi-images/u-shaka-marine-life-v2.webp",
     description: { de: "Großes Aquarium und Wasserpark in Durban.", hu: "Nagy akvárium és vízipark Durbanban.", ro: "Mare acvariu și parc acvatic în Durban.", en: "Large aquarium and water park in Durban." },
     facts: {
       de: ["Delfinshow.", "Wasserrutschen.", "Hai-Becken.", "Durbaner Wahrzeichen."],
       hu: ["Delfinshow.", "Vízicsúszdák.", "Cápamedence.", "Durbani nevezetesség."],
       ro: ["Spectacol cu delfini.", "Tobogane cu apă.", "Bazinetul cu rechini.", "Reper în Durban."],
       en: ["Dolphin show.", "Water slides.", "Shark tank.", "Durban landmark."]
-    }, image: "/poi-images/u-shaka-marine-life-v2.webp"},
+    }, image: "/poi-images/u-shaka-marine-life-v2.webp",
+    descriptionAdvanced: {
+      de: "uShaka Marine World ist ein Meerespark in Durban, der 2004 eröffnet wurde. Er besteht aus einem Aquarium, einem Vergnügungspark und einem Wasserpark. Das Aquarium beherbergt über 10.000 Meerestiere und hat eines der größten Haifischbecken der Welt. Der Park bietet Delfin- und Robben-Shows sowie interaktive Erlebnisse wie Haifischtauchen. Der Wasserpark verfügt über mehrere Rutschen und Wellenbäder. uShaka Marine World ist ein beliebtes Ausflugsziel für Familien und bietet auch gastronomische Einrichtungen. Der Park liegt am Strand von Durban.",
+      hu: "Az uShaka Marine World egy tengeri park Durbanban, amelyet 2004-ben nyitottak meg. Akváriumból, vidámparkból és víziparkból áll. Az akvárium több mint 10.000 tengeri állatnak ad otthont, és a világ egyik legnagyobb cápa-medencéjével rendelkezik. A park delfin- és fókashow-kat, valamint interaktív élményeket kínál, mint a cápabúvárkodás. A vízipark számos csúszdával és hullámmal várja a vendégeket. Az uShaka Marine World népszerű családi célpont, éttermekkel. A park Durban strandján található.",
+      ro: "uShaka Marine World este un parc marin din Durban, deschis în 2004. Este compus dintr-un acvariu, un parc de distracții și un parc acvatic. Acvariul găzduiește peste 10.000 de animale marine și are unul dintre cele mai mari bazine cu rechini din lume. Parcul oferă spectacole cu delfini și foci, precum și experiențe interactive, cum ar fi scufundări cu rechini. Parcul acvatic are mai multe tobogane și piscine cu valuri. uShaka Marine World este o destinație populară de familie, având și restaurante. Este situat pe plaja din Durban.",
+      en: "uShaka Marine World is a marine park in Durban, opened in 2004. It comprises an aquarium, amusement park, and water park. The aquarium hosts over 10,000 marine animals and has one of the largest shark tanks in the world. The park offers dolphin and seal shows, as well as interactive experiences like shark diving. The water park features multiple slides and wave pools. uShaka Marine World is a popular family destination and includes dining facilities. The park is located on Durban's beachfront.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2004", "Aquariumvolumen: 17,5 Millionen Liter", "Tierarten: über 1.000", "Größtes Haifischbecken: 1,5 Millionen Liter", "Wasserparkfläche: 15.000 m²", "Besucher pro Jahr: ca. 1,2 Millionen"],
+      hu: ["Megnyitás: 2004", "Akvárium térfogata: 17,5 millió liter", "Állatfajok: több mint 1.000", "Legnagyobb cápa-medence: 1,5 millió liter", "Vízipark területe: 15.000 m²", "Éves látogatók: kb. 1,2 millió"],
+      ro: ["Deschidere: 2004", "Volum acvariu: 17,5 milioane de litri", "Specii marine: peste 1.000", "Cel mai mare bazin cu rechini: 1,5 milioane de litri", "Suprafață parc acvatic: 15.000 m²", "Vizitatori pe an: aprox. 1,2 milioane"],
+      en: ["Opened: 2004", "Aquarium volume: 17.5 million liters", "Marine species: over 1,000", "Largest shark tank: 1.5 million liters", "Water park area: 15,000 m²", "Annual visitors: approx. 1.2 million"],
+    },
+  },
   {
     id: "augurabies-falls-life-v2",
     type: "kid-landmark",
     parent: "ZA-NC",
     coords: [20.34, -28.59],
-    name: { de: "Augrabies-Fälle", hu: "Augrabies-vízesés", ro: "Cascada Augrabies", en: "Augrabies Falls",
-image: "/poi-images/augurabies-falls-life-v2.webp"
-},
+    name: { de: "Augrabies-Fälle", hu: "Augrabies-vízesés", ro: "Cascada Augrabies", en: "Augrabies Falls"},
+    image: "/poi-images/augurabies-falls-life-v2.webp",
     description: { de: "Spektakulärer Wasserfall am Oranje-Fluss, ideal für Natur-Beobachtungen.", hu: "Látványos vízesés az Oranje folyón, ideális természetmegfigyelésre.", ro: "Cascadă spectaculoasă pe râul Orange, ideală pentru observarea naturii.", en: "Spectacular waterfall on the Orange River, great for nature viewing." },
     facts: {
       de: ["Tiefe Schlucht.", "Wanderwege.", "Wildtiere.", "Familien-Picknick."],
@@ -187,259 +318,459 @@ image: "/poi-images/augurabies-falls-life-v2.webp"
     type: "agriculture",
     parent: "ZA-GP",
     coords: [28.10, -26.05],
-    name: { de: "Biltong-Farm-Besuch", hu: "Biltong farm látogatás", ro: "Vizită la ferme de biltong", en: "Biltong Farm Visit",
-image: "/poi-images/biltong-farms-agriculture-life-v2.webp"
-},
+    name: { de: "Biltong-Farm-Besuch", hu: "Biltong farm látogatás", ro: "Vizită la ferme de biltong", en: "Biltong Farm Visit"},
+    image: "/poi-images/biltong-farms-agriculture-life-v2.webp",
     description: { de: "Lerne, wie das traditionelle südafrikanische Trockenfleisch hergestellt wird.", hu: "Ismerd meg, hogyan készül a hagyományos dél-afrikai szárított hús.", ro: "Învață cum se prepară carnea uscată tradițională sud-africană.", en: "Learn how the traditional South African dried meat is made." },
     facts: {
       de: ["Lokale Delikatesse.", "Landwirtschaftlicher Prozess.", "Traditionell seit Jahrhunderten.", "Lehrreich für Kinder."],
       hu: ["Helyi különlegesség.", "Mezőgazdasági folyamat.", "Tradicionális évszázadok óta.", "Tanulságos gyerekeknek."],
       ro: ["Delicatesă locală.", "Proces agricol.", "Tradiție seculară.", "Educativ pentru copii."],
       en: ["Local delicacy.", "Agricultural process.", "Traditional for centuries.", "Educational for kids."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Biltong-Farmen in Südafrika bieten Besuchern die Möglichkeit, die traditionelle Herstellung von Biltong, einem getrockneten Fleischprodukt, zu erleben. Biltong wird aus Rind-, Wild- oder Straußenfleisch hergestellt und mit Gewürzen wie Koriander und Pfeffer haltbar gemacht. Die Farmen liegen oft in ländlichen Gebieten und bieten Führungen durch die Produktion an. Besucher können die Reifungsprozesse sehen und verschiedene Sorten probieren. Der Biltongkonsum ist in Südafrika weit verbreitet. Einige Betriebe haben Hofläden und bieten auch andere landwirtschaftliche Produkte an. Biltong ist reich an Eiweiß und wird als Snack geschätzt.",
+      hu: "Dél-Afrikában a biltong farmok lehetőséget nyújtanak a látogatóknak, hogy megismerjék a biltong, egy szárított húskészítmény hagyományos előállítását. A biltong marha-, vadból vagy strucchúsból készül, fűszerekkel, például korianderrel és borssal tartósítva. A farmok gyakran vidéki területeken találhatók, és bemutatókat tartanak a termelésről. A látogatók láthatják az érlelési folyamatot, és megkóstolhatják a különböző változatokat. A biltong fogyasztása széles körben elterjedt Dél-Afrikában. Egyes gazdaságokban farmbolt is működik, ahol más termékeket is árulnak. A biltong gazdag fehérjében, és közkedvelt rágcsálnivaló.",
+      ro: "Fermele de biltong din Africa de Sud oferă vizitatorilor ocazia de a experimenta producția tradițională de biltong, un produs din carne uscată. Biltong-ul este făcut din carne de vită, vânat sau struț, conservat cu condimente precum coriandru și piper. Fermele sunt adesea situate în zone rurale și oferă tururi ale procesului de producție. Vizitatorii pot vedea procesul de maturare și pot gusta diferite sortimente. Consumul de biltong este răspândit în Africa de Sud. Unele ferme au magazine și oferă și alte produse agricole. Biltong-ul este bogat în proteine și apreciat ca gustare.",
+      en: "Biltong farms in South Africa offer visitors the chance to experience the traditional production of biltong, a dried meat product. Biltong is made from beef, game, or ostrich meat, preserved with spices like coriander and pepper. The farms are often in rural areas and provide tours of the production process. Visitors can see the curing process and sample various types. Biltong consumption is widespread in South Africa. Some farms have farm shops and offer other agricultural products. Biltong is high in protein and valued as a snack.",
+    },
+    factsAdvanced: {
+      de: ["Fleischquellen: Rind, Wild, Strauß", "Gewürze: Koriander, schwarzer Pfeffer, Salz", "Reifezeit: 3-7 Tage", "Eiweißgehalt: bis zu 60%", "Haltbarkeit: mehrere Monate bei Raumtemperatur", "Beliebtheit: über 200 g pro Person jährlich"],
+      hu: ["Húsforrások: marha, vad, strucc", "Fűszerek: koriander, fekete bors, só", "Érlelési idő: 3-7 nap", "Fehérjetartalom: akár 60%", "Eltarthatóság: több hónap szobahőmérsékleten", "Népszerűség: fejenként évi 200 g felett"],
+      ro: ["Surse de carne: vită, vânat, struț", "Condimente: coriandru, piper negru, sare", "Perioadă de maturare: 3-7 zile", "Conținut de proteine: până la 60%", "Durată de păstrare: câteva luni la temperatura camerei", "Popularitate: peste 200 g per persoană pe an"],
+      en: ["Meat sources: beef, game, ostrich", "Spices: coriander, black pepper, salt", "Curing time: 3-7 days", "Protein content: up to 60%", "Shelf life: several months at room temperature", "Popularity: over 200 g per person annually"],
+    },
   },
   {
     id: "crocodile-bridge-life-v2",
     type: "animal-habitat",
     parent: "ZA-MP",
     coords: [31.89, -25.35],
-    name: { de: "Crocodile Bridge Gate", hu: "Crocodile Bridge Kapu", ro: "Poarta Crocodile Bridge", en: "Crocodile Bridge Gate",
-image: "/poi-images/crocodile-bridge-life-v2.webp"
-},
+    name: { de: "Crocodile Bridge Gate", hu: "Crocodile Bridge Kapu", ro: "Poarta Crocodile Bridge", en: "Crocodile Bridge Gate"},
+    image: "/poi-images/crocodile-bridge-life-v2.webp",
     description: { de: "Bekannter Eingang zum Kruger-Park, oft gute Tiermöglichkeiten.", hu: "Ismert bejárat a Kruger-parkba, gyakran jó állatmegfigyelési lehetőségekkel.", ro: "Intrare cunoscută în Parcul Kruger, adesea cu bune oportunități de observare a animalelor.", en: "Well-known entrance to Kruger Park, often good game viewing opportunities." },
     facts: {
       de: ["Flussbeobachtung.", "Löwen-Gebiet.", "Familien-Safari-Einstieg.", "Natur pur."],
       hu: ["Folyómegfigyelés.", "Oroszlán-terület.", "Családi szafari-belépő.", "Tiszta természet."],
       ro: ["Observarea râului.", "Teritoriul leilor.", "Intrare pentru safari în familie.", "Natură pură."],
       en: ["River watching.", "Lion territory.", "Family safari gateway.", "Nature in its purest form."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Crocodile Bridge Gate ist ein Eingang zum Kruger-Nationalpark im Osten, nahe der Grenze zu Mosambik. Es liegt am Crocodile River und bietet Zugang zu den südlichen Regionen des Parks. Das Tor wurde nach der nahe gelegenen Brücke über den Crocodile River benannt. In der Umgebung gibt es Wildtiere wie Elefanten, Büffel und Raubkatzen. Besucher können hier Pirschfahrten starten. Es ist einer der am wenigsten frequentierten Eingänge und daher für Reisende geeignet, die Menschenmassen vermeiden möchten. In der Nähe gibt es das Crocodile Bridge Rest Camp mit Übernachtungsmöglichkeiten.",
+      hu: "A Crocodile Bridge Gate a Kruger Nemzeti Park egyik bejárata keleten, a mozambiki határ közelében. A Crocodile folyó mellett fekszik, és a park déli részeibe biztosít hozzáférést. A kaput a közeli hídról nevezték el, amely a Crocodile folyón ível át. A környéken vadállatok, például elefántok, bivalyok és ragadozók élnek. A látogatók innen indulhatnak szafarira. Ez az egyik legkevésbé forgalmas bejárat, így ideális azok számára, akik kerülni szeretnék a tömeget. A közelben található a Crocodile Bridge Rest Camp szálláslehetőségekkel.",
+      ro: "Poarta Crocodile Bridge este o intrare în Parcul Național Kruger, în est, aproape de granița cu Mozambic. Este situată pe râul Crocodile și oferă acces în regiunile sudice ale parcului. Poarta a fost numită după podul din apropiere peste râul Crocodile. Zona găzduiește animale sălbatice precum elefanți, bivoli și prădători. Vizitatorii pot începe safariuri de aici. Este una dintre cele mai puțin aglomerate intrări, potrivită pentru cei care evită mulțimile. În apropiere se află tabăra Crocodile Bridge Rest Camp, cu opțiuni de cazare.",
+      en: "Crocodile Bridge Gate is an entrance to Kruger National Park in the east, near the border with Mozambique. It lies on the Crocodile River and provides access to the southern regions of the park. The gate is named after the nearby bridge over the Crocodile River. The area is home to wildlife such as elephants, buffalo, and predators. Visitors can start game drives from here. It is one of the least busy gates, suitable for those avoiding crowds. Nearby is the Crocodile Bridge Rest Camp with accommodation.",
+    },
+    factsAdvanced: {
+      de: ["Lage: Ostgrenze des Kruger-Nationalparks", "Nächstgelegene Stadt: Komatipoort (10 km)", "Fluss: Crocodile River", "Entfernung zum Hauptlager: 0 km (Rest Camp am Tor)", "Stellplätze: etwa 40", "Öffnungszeiten: 6:00-18:00 Uhr (sommers)"],
+      hu: ["Elhelyezkedés: Kruger Nemzeti Park keleti határa", "Legközelebbi város: Komatipoort (10 km)", "Folyó: Crocodile", "Távolság a fő tábortól: 0 km (tábor a kapunál)", "Férőhelyek: kb. 40", "Nyitvatartás: 6:00-18:00 (nyáron)"],
+      ro: ["Amplasare: granița de est a Parcului Kruger", "Cel mai apropiat oraș: Komatipoort (10 km)", "Râul: Crocodile", "Distanță la tabăra principală: 0 km (tabără la poartă)", "Locuri de campare: aprox. 40", "Ore de funcționare: 6:00-18:00 (vara)"],
+      en: ["Location: eastern boundary of Kruger National Park", "Nearest town: Komatipoort (10 km)", "River: Crocodile River", "Distance to main camp: 0 km (rest camp at gate)", "Camping sites: about 40", "Operating hours: 6:00-18:00 (summer)"],
+    },
   },
   {
     id: "pioneer-museum-kids-life-v2",
     type: "kid-landmark",
     parent: "ZA-GP",
     coords: [28.25, -25.74],
-    name: { de: "Pioneer Museum Pretoria", hu: "Pretoriai Pionír Múzeum", ro: "Muzeul Pionierilor din Pretoria", en: "Pioneer Museum Pretoria",
-image: "/poi-images/pioneer-museum-kids-life-v2.webp"
-},
+    name: { de: "Pioneer Museum Pretoria", hu: "Pretoriai Pionír Múzeum", ro: "Muzeul Pionierilor din Pretoria", en: "Pioneer Museum Pretoria"},
+    image: "/poi-images/pioneer-museum-kids-life-v2.webp",
     description: { de: "Freilichtmuseum, das das Leben der frühen Siedler zeigt.", hu: "Szabadtéri múzeum, amely bemutatja a korai telepesek életét.", ro: "Muzeu în aer liber care arată viața primilor coloniști.", en: "Open-air museum showcasing the life of the early settlers." },
     facts: {
       de: ["Traditionelle Häuser.", "Backofen-Vorführungen.", "Geschichte zum Anfassen.", "Ideal für Schulklassen."],
       hu: ["Hagyományos házak.", "Kemence-bemutatók.", "Történelem kézzel foghatóan.", "Ideális iskolai osztályoknak."],
       ro: ["Case tradiționale.", "Demonstrații cu cuptor.", "Istorie interactivă.", "Ideal pentru clase școlare."],
       en: ["Traditional houses.", "Baking oven demos.", "Hands-on history.", "Ideal for school groups."]
-    }, image: "/poi-images/pioneer-museum-kids-life-v2.webp"},
+    }, image: "/poi-images/pioneer-museum-kids-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Pioneer Museum in Pretoria ist ein Freilichtmuseum, das das Leben der frühen burischen Siedler im 19. Jahrhundert zeigt. Es liegt im Stadtteil Silverton und wurde 1975 eröffnet. Das Museum besteht aus einem originalgetreu restaurierten Bauernhaus und Nebengebäuden. Besucher können historische Werkzeuge, Möbel und Haushaltsgegenstände sehen. Es werden regelmäßig Vorführungen wie Brotbacken und Schmiedearbeiten gezeigt. Das Museum bietet einen Einblick in die Pionierzeit Südafrikas und ist bei Schulklassen sehr beliebt.",
+      hu: "A Pioneer Museum Pretoriában egy szabadtéri múzeum, amely bemutatja a korai búr telepesek életét a 19. században. Silverton városrészében található, 1975-ben nyitották meg. A múzeum egy hitelesen felújított tanyaházból és melléképületekből áll. A látogatók történelmi szerszámokat, bútorokat és háztartási eszközöket tekinthetnek meg. Rendszeresen tartanak bemutatókat, például kenyérsütést és kovácsmunkát. A múzeum bepillantást nyújt Dél-Afrika úttörő korszakába, és népszerű az iskolai csoportok körében.",
+      ro: "Muzeul Pioneer din Pretoria este un muzeu în aer liber care ilustrează viața primilor coloniști buri în secolul al XIX-lea. Este situat în cartierul Silverton și a fost deschis în 1975. Muzeul constă dintr-o casă de fermă restaurată autentic și anexe. Vizitatorii pot vedea unelte istorice, mobilier și obiecte casnice. Sunt organizate regulat demonstrații, cum ar fi coacerea pâinii și fierăria. Muzeul oferă o privire asupra perioadei pionierilor din Africa de Sud și este popular în rândul grupurilor școlare.",
+      en: "Pioneer Museum in Pretoria is an open-air museum depicting the life of early Boer settlers in the 19th century. It is located in the Silverton suburb and opened in 1975. The museum consists of a faithfully restored farmhouse and outbuildings. Visitors can see historical tools, furniture, and household items. Regular demonstrations such as bread baking and blacksmithing are held. The museum offers insight into South Africa's pioneer era and is popular with school groups.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1975", "Standort: Silverton, Pretoria", "Gebäude: originales Bauernhaus von 1840", "Fläche: 4 Hektar", "Exponate: über 1.000", "Jährliche Besucher: ca. 30.000"],
+      hu: ["Megnyitás: 1975", "Helyszín: Silverton, Pretoria", "Épület: 1840-es eredeti tanyaház", "Terület: 4 hektár", "Kiállítások: több mint 1.000", "Éves látogatók: kb. 30.000"],
+      ro: ["Deschidere: 1975", "Locație: Silverton, Pretoria", "Clădire: casă de fermă originală din 1840", "Suprafață: 4 hectare", "Exponate: peste 1.000", "Vizitatori anuali: aprox. 30.000"],
+      en: ["Opened: 1975", "Location: Silverton, Pretoria", "Building: original farmhouse from 1840", "Area: 4 hectares", "Exhibits: over 1,000", "Annual visitors: approx. 30,000"],
+    },
+  },
   {
     id: "cape-point-nature-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [18.49, -34.35],
-    name: { de: "Cape Point Naturreservat", hu: "Félsziget Természetvédelmi Terület", ro: "Rezervația Naturală Cape Point", en: "Cape Point Nature Reserve",
-image: "/poi-images/cape-point-nature-life-v2.webp"
-},
+    name: { de: "Cape Point Naturreservat", hu: "Félsziget Természetvédelmi Terület", ro: "Rezervația Naturală Cape Point", en: "Cape Point Nature Reserve"},
+    image: "/poi-images/cape-point-nature-life-v2.webp",
     description: { de: "Spektakuläres Naturschutzgebiet an der Spitze der Kap-Halbinsel.", hu: "Látványos természetvédelmi terület a Fok-félsziget csúcsán.", ro: "Rezervație naturală spectaculoasă la vârful Peninsulei Cape.", en: "Spectacular nature reserve at the tip of the Cape Peninsula." },
     facts: {
       de: ["Pinguin-Beobachtung.", "Wanderwege.", "Klippenblicke.", "Historischer Leuchtturm."],
       hu: ["Pingvin-megfigyelés.", "Túraútvonalak.", "Sziklás kilátók.", "Történelmi világítótorony."],
       ro: ["Observarea pinguinilor.", "Poteci de drumeție.", "Vederi de pe stânci.", "Far istoric."],
       en: ["Penguin watching.", "Hiking trails.", "Cliff views.", "Historic lighthouse."]
-    }, image: "/poi-images/cape-point-nature-life-v2.webp"},
+    }, image: "/poi-images/cape-point-nature-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cape Point Nature Reserve ist Teil des Tafelberg-Nationalparks und liegt auf der Kap-Halbinsel. Es umfasst die südlichste Spitze der Halbinsel, einschließlich des berühmten Kap der Guten Hoffnung. Das Reservat beherbergt eine einzigartige Flora und Fauna, darunter Fynbos, Paviane und Strauße. Wanderwege führen zu abgelegenen Stränden und Aussichtspunkten. Der Leuchtturm von Cape Point bietet einen weiten Blick über den Atlantik. Das Gebiet ist auch für seine historische Bedeutung als Seefahrtsroute bekannt. Jährlich besuchen Hunderttausende Touristen die spektakuläre Landschaft.",
+      hu: "A Cape Point Természetvédelmi Terület a Tafelberg Nemzeti Park része, a Fok-félszigeten található. Magában foglalja a félsziget legdélebbi csücskét, beleértve a híres Jóreménység-fokát. A rezervátum egyedülálló növény- és állatvilággal büszkélkedhet, mint fynbos, páviánok és struccok. Túraútvonalak vezetnek elszigetelt strandokhoz és kilátópontokhoz. A Cape Point világítótoronyból tág kilátás nyílik az Atlanti-óceánra. A terület történelmi jelentőséggel is bír a tengeri kereskedelmi útvonalak miatt. Évente százezrek keresik fel a lenyűgöző tájat.",
+      ro: "Rezervația Naturală Cape Point face parte din Parcul Național Table Mountain, situată pe Peninsula Cape. Include extremitatea sudică a peninsulei, inclusiv faimosul Cap al Bunei Speranțe. Rezervația adăpostește o floră și faună unică, inclusiv fynbos, babuini și struți. Traseele de drumeție duc la plaje izolate și puncte de belvedere. Farul Cape Point oferă o vedere largă asupra Oceanului Atlantic. Zona este cunoscută și pentru importanța sa istorică ca rută maritimă. Sute de mii de turiști vizitează peisajul spectaculos anual.",
+      en: "Cape Point Nature Reserve is part of Table Mountain National Park, located on the Cape Peninsula. It encompasses the southern tip of the peninsula, including the famous Cape of Good Hope. The reserve hosts unique flora and fauna, including fynbos, baboons, and ostriches. Hiking trails lead to secluded beaches and viewpoints. The Cape Point lighthouse provides expansive views over the Atlantic Ocean. The area is also historically significant as a maritime route. Hundreds of thousands of tourists visit the spectacular landscape annually.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Tafelberg-Nationalparks", "Fläche: 7.750 Hektar", "Höchster Punkt: 260 m (Cape Point)", "Wanderwege: über 20 km", "Vogelarten: über 250", "Besucher pro Jahr: ca. 800.000"],
+      hu: ["Része a Tafelberg Nemzeti Parknak", "Terület: 7.750 hektár", "Legmagasabb pont: 260 m (Cape Point)", "Túrautak: több mint 20 km", "Madárfajok: több mint 250", "Éves látogatók: kb. 800.000"],
+      ro: ["Parte a Parcului Național Table Mountain", "Suprafață: 7.750 de hectare", "Cel mai înalt punct: 260 m (Cape Point)", "Trasee de drumeție: peste 20 km", "Specii de păsări: peste 250", "Vizitatori pe an: aprox. 800.000"],
+      en: ["Part of Table Mountain National Park", "Area: 7,750 hectares", "Highest point: 260 m (Cape Point)", "Hiking trails: over 20 km", "Bird species: over 250", "Annual visitors: approx. 800,000"],
+    },
+  },
   {
     id: "boulders-beach-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [18.45, -34.19],
-    name: { de: "Boulders Beach Pinguine", hu: "Boulders Beach pingvinek", ro: "Pinguinii de pe Boulders Beach", en: "Boulders Beach Penguins",
-image: "/poi-images/boulders-beach-life-v2.webp"
-},
+    name: { de: "Boulders Beach Pinguine", hu: "Boulders Beach pingvinek", ro: "Pinguinii de pe Boulders Beach", en: "Boulders Beach Penguins"},
+    image: "/poi-images/boulders-beach-life-v2.webp",
     description: { de: "Berühmter Strand mit einer Kolonie von Afrikanischen Pinguinen.", hu: "Híres strand afrikai pingvin-kolóniával.", ro: "Plajă faimoasă cu o colonie de pinguini africani.", en: "Famous beach with a colony of African penguins." },
     facts: {
       de: ["Pinguine hautnah.", "Sicheres Schwimmen.", "Familien-Favorit.", "Naturschutzgebiet."],
       hu: ["Pingvinek közelről.", "Biztonságos úszás.", "Családi kedvenc.", "Természetvédelmi terület."],
       ro: ["Pinguini de aproape.", "Înot în siguranță.", "Preferat de familii.", "Rezervație naturală."],
       en: ["Penguins up close.", "Safe swimming.", "Family favorite.", "Protected area."]
-    }, image: "/poi-images/boulders-beach-life-v2.webp"},
+    }, image: "/poi-images/boulders-beach-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Boulders Beach liegt im Simon's Town Gebiet nahe Kapstadt und ist bekannt für seine Kolonie afrikanischer Pinguine (Spheniscus demersus). Die Bucht besteht aus mehreren kleinen Sandbuchten, die durch Granitfelsen getrennt sind. Die Pinguine siedelten sich hier erstmals 1982 an und die Population wuchs auf über 2.000 Individuen an. Der Strand ist Teil des Table Mountain National Park und bietet Besuchern die Möglichkeit, die Pinguine aus nächster Nähe zu beobachten. Die Bucht ist auch ein wichtiger Brutplatz, und die Zahl der Pinguine ist in den letzten Jahren aufgrund von Nahrungsmangel und Umweltveränderungen zurückgegangen.",
+      hu: "A Boulders Beach a Dél-afrikai Köztársaságban, Fokváros közelében található, és híres afrikai pingvin kolóniájáról. A partot több kis öböl alkotja, melyeket gránitsziklák választanak el egymástól. A pingvinek először 1982-ben telepedtek itt meg, és számuk idővel meghaladta a 2000 egyedet. A partszakasz a Table Mountain Nemzeti Park része, és védett terület. A látogatók közvetlen közelről figyelhetik meg a madarakat, miközben azok a homokos parton sétálnak vagy a tengerben úsznak. Az öböl fontos fészkelőhely, azonban az utóbbi években a pingvinpopuláció csökkenést mutat a táplálékhiány és a klímaváltozás miatt.",
+      ro: "Plaja Boulders, situată în Simon's Town, lângă Cape Town, este celebră pentru colonia sa de pinguini africani (Spheniscus demersus). Plaja este formată din mai multe golfuri mici, separate de bolovani de granit. Pinguinii s-au stabilit aici pentru prima dată în 1982, iar populația a crescut la peste 2.000 de indivizi. Zona face parte din Parcul Național Table Mountain și este protejată. Vizitatorii pot observa pinguinii de aproape în timp ce aceștia se plimbă pe nisip sau înoată în apă. Golful este un important loc de cuibărit, dar populația a scăzut în ultimii ani din cauza lipsei de hrană și a schimbărilor climatice.",
+      en: "Boulders Beach, located in Simon's Town near Cape Town, is renowned for its colony of African penguins (Spheniscus demersus). The beach consists of several small sandy coves separated by granite boulders. The penguins first colonized the area in 1982, and the population grew to over 2,000 individuals. The site is part of the Table Mountain National Park and is a protected area. Visitors can observe the penguins up close as they waddle on the sand and swim in the clear waters. The cove is a crucial breeding ground, but numbers have declined recently due to food scarcity and environmental changes.",
+    },
+    factsAdvanced: {
+      de: ["Boulders Beach beherbergt etwa 2.000 afrikanische Pinguine.", "Die Pinguinkolonie besteht seit 1982.", "Die Wassertemperatur liegt zwischen 14 und 20 °C.", "Der Strand ist Teil des Table Mountain National Park (gegründet 1998).", "Die Granitfelsen sind über 500 Millionen Jahre alt.", "Die Pinguine legen jährlich 1-2 Eier pro Brutpaar."],
+      hu: ["A Boulders Beach 2.000 afrikai pingvinnek ad otthont.", "A pingvinek először 1982-ben telepedtek itt meg.", "A partszakasz hossza körülbelül 300 méter.", "A víz hőmérséklete 14-20 °C között változik.", "A Table Mountain Nemzeti Parkot 1998-ban hozták létre.", "A pingvinek átlagos élettartama a vadonban 15-20 év."],
+      ro: ["Colonia de pinguini africani de la Boulders Beach numără aproximativ 2.000 de exemplare.", "Primii pinguini s-au stabilit aici în 1982.", "Plaja are aproximativ 300 de metri lungime.", "Temperatura apei variază între 14 și 20 °C.", "Parcul Național Table Mountain, din care face parte plaja, a fost înființat în 1998.", "Pinguinii africani depun de obicei două ouă pe sezon."],
+      en: ["Boulders Beach hosts around 2,000 African penguins.", "The colony was first established in 1982.", "The beach is approximately 300 meters in length.", "Water temperature ranges from 14 to 20 °C.", "The site is within the Table Mountain National Park, established in 1998.", "African penguins typically lay two eggs per breeding season."],
+    },
+  },
   {
     id: "addison-farms-agriculture-life-v2",
     type: "agriculture",
     parent: "ZA-EC",
     coords: [26.05, -33.60],
-    name: { de: "Zitrus-Farm Addo", hu: "Addo citrus farm", ro: "Fermă de citrice Addo", en: "Addo Citrus Farm",
-image: "/poi-images/addison-farms-agriculture-life-v2.webp"
-},
+    name: { de: "Zitrus-Farm Addo", hu: "Addo citrus farm", ro: "Fermă de citrice Addo", en: "Addo Citrus Farm"},
+    image: "/poi-images/addison-farms-agriculture-life-v2.webp",
     description: { de: "Entdecke den Anbau von Zitrusfrüchten in der Addo-Region.", hu: "Fedezd fel a citrusfélék termesztését az Addo régióban.", ro: "Descoperă cultivarea citricelor în regiunea Addo.", en: "Discover the cultivation of citrus fruits in the Addo region." },
     facts: {
       de: ["Zitronen und Orangen.", "Ernte-Erlebnisse.", "Landwirtschaftliches Wissen.", "Frische Früchte."],
       hu: ["Citrom és narancs.", "Betakarítási élmények.", "Mezőgazdasági ismeretek.", "Friss gyümölcsök."],
       ro: ["Lămâi și portocale.", "Experiențe de recoltare.", "Cunoștințe agricole.", "Fructe proaspete."],
       en: ["Lemons and oranges.", "Harvest experiences.", "Agricultural knowledge.", "Fresh fruits."]
-    }, image: "/poi-images/addison-farms-agriculture-life-v2.webp"},
+    }, image: "/poi-images/addison-farms-agriculture-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Addo Citrus Farm liegt im Herzen der Eastern Cape Region Südafrikas, nahe dem Addo Elephant National Park. Die Farm ist spezialisiert auf den Anbau von Zitrusfrüchten, insbesondere Orangen, Grapefruits und Zitronen. Das mediterrane Klima mit heißen Sommern und milden Wintern sowie die fruchtbaren Böden bieten ideale Bedingungen. Die Farm bewirtschaftet über 100 Hektar Land und nutzt moderne Bewässerungstechniken. Ein Teil der Ernte wird lokal verkauft, der Großteil wird exportiert, vor allem nach Europa und Asien. Die Farm engagiert sich auch in nachhaltiger Landwirtschaft und bietet Führungen an.",
+      hu: "Az Addo Citrus Farm a dél-afrikai Eastern Cape régióban, az Addo Elefánt Nemzeti Park közelében található. A farm citrusfélék, különösen narancs, grapefruit és citrom termesztésére szakosodott. A mediterrán éghajlat forró nyarakkal és enyhe telekkel, valamint a termékeny talaj ideális feltételeket biztosít. A farm több mint 100 hektáron gazdálkodik, és modern öntözési technikákat alkalmaz. A termés egy részét helyben értékesítik, de a nagy része exportra kerül, főként Európába és Ázsiába. A farm elkötelezett a fenntartható mezőgazdaság mellett, és vezetett túrákat is kínál.",
+      ro: "Ferma de citrice Addo este situată în regiunea Eastern Cape din Africa de Sud, lângă Parcul Național Addo Elephant. Ferma este specializată în cultivarea citricelor, în special portocale, grepfrut și lămâi. Clima mediteraneană cu veri fierbinți și ierni blânde, precum și solurile fertile oferă condiții ideale. Ferma administrează peste 100 de hectare și folosește tehnici moderne de irigare. O parte din recoltă este vândută local, dar cea mai mare parte este exportată, în principal în Europa și Asia. Ferma este, de asemenea, angajată în agricultura durabilă și oferă tururi ghidate.",
+      en: "Addo Citrus Farm is located in the Eastern Cape region of South Africa, near the Addo Elephant National Park. The farm specializes in citrus cultivation, particularly oranges, grapefruits, and lemons. The Mediterranean climate with hot summers and mild winters, combined with fertile soil, provides ideal growing conditions. The farm manages over 100 hectares and uses modern irrigation techniques. Part of the harvest is sold locally, but the majority is exported, mainly to Europe and Asia. The farm is also committed to sustainable agriculture and offers guided tours.",
+    },
+    factsAdvanced: {
+      de: ["Die Farm bewirtschaftet über 100 Hektar Land.", "Die jährliche Produktion beträgt etwa 5.000 Tonnen Zitrusfrüchte.", "Die Orangenbäume tragen nach 3-4 Jahren erste Früchte.", "Die Farm nutzt Tropfbewässerungssysteme zur Wassereinsparung.", "Der Exportanteil liegt bei über 80% der Ernte.", "Die Farm beschäftigt saisonal bis zu 50 Arbeiter."],
+      hu: ["A farm több mint 100 hektáron gazdálkodik.", "Az éves termés körülbelül 5.000 tonna citrusféle.", "A narancsfák 3-4 év után kezdenek gyümölcsöt hozni.", "A farm csepegtető öntözést használ a víztakarékosság érdekében.", "A termés több mint 80%-a exportra kerül.", "A farm szezonálisan akár 50 munkást is foglalkoztat."],
+      ro: ["Ferma administrează peste 100 de hectare.", "Producția anuală este de aproximativ 5.000 de tone de citrice.", "Portocalii încep să rodească după 3-4 ani.", "Ferma folosește irigare prin picurare pentru economisirea apei.", "Peste 80% din recoltă este exportată.", "Ferma angajează sezonier până la 50 de muncitori."],
+      en: ["The farm manages over 100 hectares of land.", "Annual production is around 5,000 tons of citrus.", "Orange trees bear fruit after 3-4 years.", "The farm uses drip irrigation to conserve water.", "Over 80% of the harvest is exported.", "The farm employs up to 50 seasonal workers."],
+    },
+  },
   {
     id: "kalahari-wildlife-life-v2",
     type: "animal-habitat",
     parent: "ZA-NC",
     coords: [21.50, -26.00],
-    name: { de: "Kalahari Nationalpark", hu: "Kalahari Nemzeti Park", ro: "Parcul Național Kalahari", en: "Kalahari National Park",
-image: "/poi-images/kalahari-wildlife-life-v2.webp"
-},
+    name: { de: "Kalahari Nationalpark", hu: "Kalahari Nemzeti Park", ro: "Parcul Național Kalahari", en: "Kalahari National Park"},
+    image: "/poi-images/kalahari-wildlife-life-v2.webp",
     description: { de: "Weite rote Sanddünen und Heimat für Wüstentiere.", hu: "Hatalmas vörös homokdűnék és sivatagi állatok otthona.", ro: "Dune imense de nisip roșu și casă pentru animalele de deșert.", en: "Vast red sand dunes and home to desert animals." },
     facts: {
       de: ["Rote Dünen.", "Springböcke.", "Sternenbeobachtung.", "Abenteuerliche Safaris."],
       hu: ["Vörös dűnék.", "Springbokok.", "Csillagvizsgálat.", "Kalandos szafarik."],
       ro: ["Dune roșii.", "Springbok.", "Observarea stelelor.", "Safari aventuroase."],
       en: ["Red dunes.", "Springbok.", "Stargazing.", "Adventurous safaris."]
-    }, image: "/poi-images/kalahari-wildlife-life-v2.webp"},
+    }, image: "/poi-images/kalahari-wildlife-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kalahari-Gemsbok-Nationalpark liegt in der Kalahari-Wüste, die sich über Südafrika und Botswana erstreckt. Der Park ist bekannt für seine artenreiche Tierwelt, darunter Gemsböcke, Löwen, Geparden und zahlreiche Vogelarten. Die Landschaft besteht aus roten Sanddünen, trockenen Flussbetten und Graslandschaften. Der Park wurde 1931 gegründet und umfasst eine Fläche von etwa 9.590 km². Das Klima ist extrem trocken, mit weniger als 200 mm Niederschlag pro Jahr. Die Tierwelt hat sich an die harschen Bedingungen angepasst, wie der Gemsbock, der lange ohne Wasser auskommen kann.",
+      hu: "A Kalahari Gemsbok Nemzeti Park a Kalahari-sivatagban található, amely Dél-Afrika és Botswana területén fekszik. A park híres gazdag állatvilágáról, beleértve a gemszbokot, oroszlánt, gepárdot és számos madárfajt. A táj vörös homokdűnékből, száraz folyómedrekből és füves területekből áll. A parkot 1931-ben alapították, területe körülbelül 9.590 km². Az éghajlat rendkívül száraz, évi kevesebb mint 200 mm csapadékkal. Az állatok alkalmazkodtak a zord körülményekhez; a gemszbok például hosszú ideig kibírja víz nélkül.",
+      ro: "Parcul Național Kalahari Gemsbok este situat în deșertul Kalahari, care se întinde în Africa de Sud și Botswana. Parcul este cunoscut pentru fauna sa diversă, incluzând antilope (gemsbok), lei, gheparzi și numeroase specii de păsări. Peisajul constă din dune de nisip roșu, albii uscate ale râurilor și pajiști. Parcul a fost înființat în 1931 și are o suprafață de aproximativ 9.590 km². Clima este extrem de uscată, cu mai puțin de 200 mm precipitații pe an. Animalele s-au adaptat condițiilor dure; de exemplu, gemsbokul poate rezista mult timp fără apă.",
+      en: "The Kalahari Gemsbok National Park is located in the Kalahari Desert, spanning South Africa and Botswana. The park is known for its diverse wildlife, including gemsbok, lions, cheetahs, and numerous bird species. The landscape features red sand dunes, dry riverbeds, and grasslands. Established in 1931, the park covers an area of approximately 9,590 km². The climate is extremely arid, with less than 200 mm of rainfall per year. Wildlife has adapted to the harsh conditions; for instance, the gemsbok can survive long periods without water.",
+    },
+    factsAdvanced: {
+      de: ["Der Park erstreckt sich über 9.590 km².", "Der durchschnittliche Jahresniederschlag beträgt weniger als 200 mm.", "Die Höhe liegt zwischen 900 und 1.200 Metern über dem Meeresspiegel.", "Der Gemsbock kann bis zu 800 Meter lange Wanderungen unternehmen.", "Der Park beherbergt über 200 Vogelarten.", "Die Sanddünen erreichen Höhen von bis zu 100 Metern."],
+      hu: ["A park területe 9.590 km².", "Az éves csapadékmennyiség kevesebb mint 200 mm.", "A tengerszint feletti magasság 900 és 1.200 méter között van.", "A gemszbok akár 800 méteres vándorlásokat is képes megtenni.", "A parkban több mint 200 madárfaj él.", "A homokdűnék magassága elérheti a 100 métert is."],
+      ro: ["Parcul se întinde pe 9.590 km².", "Precipitațiile anuale medii sunt sub 200 mm.", "Altitudinea variază între 900 și 1.200 de metri deasupra nivelului mării.", "Gemsbokul poate parcurge până la 800 de metri în căutare de hrană.", "Parcul găzduiește peste 200 de specii de păsări.", "Dunele de nisip ating înălțimi de până la 100 de metri."],
+      en: ["The park covers 9,590 km².", "Average annual rainfall is less than 200 mm.", "Elevation ranges between 900 and 1,200 meters above sea level.", "Gemsbok can travel up to 800 meters daily for food.", "The park hosts over 200 bird species.", "Sand dunes can reach heights of up to 100 meters."],
+    },
+  },
   {
     id: "cango-wildlife-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [22.25, -33.40],
-    name: { de: "Cango Wildlife Ranch", hu: "Cango Vadvédelmi Ranch", ro: "Ferma Cango Wildlife", en: "Cango Wildlife Ranch",
-image: "/poi-images/cango-wildlife-life-v2.webp"
-},
+    name: { de: "Cango Wildlife Ranch", hu: "Cango Vadvédelmi Ranch", ro: "Ferma Cango Wildlife", en: "Cango Wildlife Ranch"},
+    image: "/poi-images/cango-wildlife-life-v2.webp",
     description: { de: "Schutz- und Aufzuchtstation für gefährdete Tiere.", hu: "Védelmi és tenyésztőállomás veszélyeztetett állatok számára.", ro: "Stație de conservare și creștere pentru animale amenințate.", en: "Conservation and breeding station for endangered animals." },
     facts: {
       de: ["Gefährdete Arten.", "Interaktive Touren.", "Bildungsfokus.", "Nahe Oudtshoorn."],
       hu: ["Veszélyeztetett fajok.", "Interaktív túrák.", "Oktatási fókusz.", "Oudtshoorn közelében."],
       ro: ["Specii amenințate.", "Tururi interactive.", "Focus educațional.", "Lângă Oudtshoorn."],
       en: ["Endangered species.", "Interactive tours.", "Educational focus.", "Near Oudtshoorn."]
-    }, image: "/poi-images/cango-wildlife-life-v2.webp"},
+    }, image: "/poi-images/cango-wildlife-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Cango Wildlife Ranch liegt in der Nähe von Oudtshoorn in der Provinz Westkap. Sie ist bekannt für ihre Zucht- und Schutzprogramme für gefährdete Tierarten, darunter Geparden, Löwen und Nashörner. Die Ranch bietet auch interaktive Erlebnisse wie Geparden-Streicheln an, unter strengen Sicherheitsvorkehrungen. Die Einrichtung erstreckt sich über 10 Hektar und wurde 1977 gegründet. Ein Schwerpunkt liegt auf der Aufklärung der Besucher über Artenschutz. Die Ranch beherbergt über 100 Tiere aus verschiedenen Kontinenten, darunter auch Krokodile und Schlangen.",
+      hu: "A Cango Wildlife Ranch Oudtshoorn közelében, a Nyugat-Fokföld tartományban található. Híres a veszélyeztetett állatfajok – köztük gepárdok, oroszlánok és orrszarvúk – tenyésztési és védelmi programjairól. A ranch interaktív élményeket is kínál, például gepárd simogatást, szigorú biztonsági intézkedések mellett. A létesítmény 10 hektáron terül el, és 1977-ben alapították. A látogatók oktatása a természetvédelemről kiemelt fontosságú. A ranch több mint 100 állatnak ad otthont különböző kontinensekről, köztük krokodiloknak és kígyóknak.",
+      ro: "Cango Wildlife Ranch este situată lângă Oudtshoorn, în provincia Western Cape. Este cunoscută pentru programele sale de reproducere și protecție a speciilor pe cale de dispariție, inclusiv gheparzi, lei și rinoceri. Ferma oferă, de asemenea, experiențe interactive, cum ar fi mângâiatul gheparzilor, sub măsuri stricte de siguranță. Facilitatea se întinde pe 10 hectare și a fost fondată în 1977. Accentul se pune pe educația vizitatorilor cu privire la conservare. Ferma găzduiește peste 100 de animale de pe diferite continente, inclusiv crocodili și șerpi.",
+      en: "Cango Wildlife Ranch is located near Oudtshoorn in the Western Cape province. It is renowned for its breeding and conservation programs for endangered species, including cheetahs, lions, and rhinos. The ranch also offers interactive experiences such as cheetah petting, under strict safety measures. The facility spans 10 hectares and was founded in 1977. A key focus is educating visitors about wildlife conservation. The ranch houses over 100 animals from various continents, including crocodiles and snakes.",
+    },
+    factsAdvanced: {
+      de: ["Die Ranch wurde 1977 gegründet.", "Die Fläche beträgt 10 Hektar.", "Über 100 Tiere leben auf der Ranch.", "Das Geparden-Streicheln wird unter Aufsicht durchgeführt.", "Die Ranch beherbergt 5 der 9 Löwenunterarten.", "Jährlich besuchen etwa 100.000 Touristen die Ranch."],
+      hu: ["A ranchot 1977-ben alapították.", "Területe 10 hektár.", "Több mint 100 állat él itt.", "A gepárd simogatás felügyelet mellett zajlik.", "A ranch 5 oroszlán alfajnak ad otthont.", "Évente körülbelül 100.000 turista látogatja meg."],
+      ro: ["Ferma a fost fondată în 1977.", "Suprafața este de 10 hectare.", "Peste 100 de animale trăiesc la fermă.", "Mângâiatul gheparzilor se face sub supraveghere.", "Ferma găzduiește 5 dintre cele 9 subspecii de lei.", "Aproximativ 100.000 de turiști vizitează anual."],
+      en: ["The ranch was founded in 1977.", "It covers an area of 10 hectares.", "Over 100 animals reside at the ranch.", "Cheetah petting is conducted under supervision.", "The ranch houses 5 of the 9 lion subspecies.", "Approximately 100,000 tourists visit annually."],
+    },
+  },
   {
     id: "sugar-cane-fields-agriculture-life-v2",
     type: "agriculture",
     parent: "ZA-KZN",
     coords: [31.30, -29.50],
-    name: { de: "Zuckerrohr-Plantagen KZN", hu: "KZN cukornád-ültetvények", ro: "Plantații de trestie de zahăr KZN", en: "Sugar Cane Plantations KZN",
-image: "/poi-images/sugar-cane-fields-agriculture-life-v2.webp"
-},
+    name: { de: "Zuckerrohr-Plantagen KZN", hu: "KZN cukornád-ültetvények", ro: "Plantații de trestie de zahăr KZN", en: "Sugar Cane Plantations KZN"},
+    image: "/poi-images/sugar-cane-fields-agriculture-life-v2.webp",
     description: { de: "Riesige Felder für die Zuckerrohrproduktion in KwaZulu-Natal.", hu: "Hatalmas mezők a cukornádtermeléshez KwaZulu-Natalban.", ro: "Câmpuri imense pentru producția de trestie de zahăr în KwaZulu-Natal.", en: "Vast fields for sugar cane production in KwaZulu-Natal." },
     facts: {
       de: ["Wichtiger Wirtschaftszweig.", "Grüne Landschaft.", "Traditionelle Landwirtschaft.", "Wissenswertes für Schüler."],
       hu: ["Fontos gazdasági ágazat.", "Zöld táj.", "Hagyományos mezőgazdaság.", "Hasznos ismeretek diákoknak."],
       ro: ["Ramură economică importantă.", "Peisaj verde.", "Agricultură tradițională.", "Informații utile pentru elevi."],
       en: ["Important economic sector.", "Green landscape.", "Traditional agriculture.", "Useful facts for students."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Zuckerrohrplantagen in KwaZulu-Natal (KZN) erstrecken sich entlang der Küste und im Hinterland. Zuckerrohr ist eine der wichtigsten landwirtschaftlichen Nutzpflanzen Südafrikas. Die Region profitiert von subtropischem Klima mit hohen Niederschlägen und warmen Temperaturen. Die Plantagen bewirtschaften Tausende Hektar, und die Ernte erfolgt hauptsächlich zwischen April und Dezember. Der Zucker wird in lokalen Raffinerien verarbeitet und exportiert. Die Plantagen bieten Arbeitsplätze für viele Landarbeiter, aber die Branche steht vor Herausforderungen wie Wasserknappheit und schwankenden Weltmarktpreisen.",
+      hu: "A kwaZulu-natáli (KZN) cukornádültetvények a partvidék mentén és a belső területeken húzódnak. A cukornád Dél-Afrika egyik legfontosabb mezőgazdasági növénye. A régió szubtrópusi éghajlatának köszönhetően magas csapadékmennyiség és meleg hőmérséklet jellemzi. Az ültetvények több ezer hektáron gazdálkodnak, és a betakarítás áprilistól decemberig tart. A cukrot helyi finomítókban dolgozzák fel és exportálják. Az ültetvények sok mezőgazdasági munkást foglalkoztatnak, de az ágazat kihívásokkal néz szembe, mint a vízhiány és az ingadozó világpiaci árak.",
+      ro: "Plantațiile de trestie de zahăr din KwaZulu-Natal (KZN) se întind de-a lungul coastei și în interior. Trestia de zahăr este una dintre cele mai importante culturi agricole din Africa de Sud. Regiunea beneficiază de un climat subtropical, cu precipitații ridicate și temperaturi calde. Plantațiile acoperă mii de hectare, iar recoltarea are loc în principal între aprilie și decembrie. Zahărul este procesat în rafinăriile locale și exportat. Plantațiile oferă locuri de muncă pentru mulți muncitori agricoli, dar industria se confruntă cu provocări precum deficitul de apă și prețurile fluctuante pe piața mondială.",
+      en: "Sugar cane plantations in KwaZulu-Natal (KZN) stretch along the coast and into the hinterland. Sugar cane is one of South Africa's most important agricultural crops. The region benefits from a subtropical climate with high rainfall and warm temperatures. Plantations cover thousands of hectares, with harvesting mainly from April to December. The sugar is processed in local refineries and exported. The plantations provide employment for many farm workers, but the industry faces challenges such as water scarcity and fluctuating global prices.",
+    },
+    factsAdvanced: {
+      de: ["Die Zuckerrohrplantagen in KZN bedecken über 300.000 Hektar.", "Der durchschnittliche Ertrag beträgt 60 Tonnen pro Hektar.", "Die Erntezeit dauert 8-9 Monate.", "Zuckerrohr benötigt 1.500-2.000 mm Niederschlag jährlich.", "Die Region produziert jährlich etwa 2 Millionen Tonnen Zucker.", "Etwa 60% des südafrikanischen Zuckers stammt aus KZN."],
+      hu: ["A KZN-i cukornádültetvények több mint 300.000 hektárt fednek le.", "Az átlagos hozam 60 tonna hektáronként.", "A betakarítási időszak 8-9 hónapig tart.", "A cukornád évente 1.500-2.000 mm csapadékot igényel.", "A régió évente körülbelül 2 millió tonna cukrot termel.", "A dél-afrikai cukor mintegy 60%-a KZN-ből származik."],
+      ro: ["Plantațiile de trestie de zahăr din KZN acoperă peste 300.000 de hectare.", "Randamentul mediu este de 60 de tone pe hectar.", "Perioada de recoltare durează 8-9 luni.", "Trestia de zahăr necesită 1.500-2.000 mm precipitații anual.", "Regiunea produce anual aproximativ 2 milioane de tone de zahăr.", "Aproximativ 60% din zahărul sud-african provine din KZN."],
+      en: ["Sugar cane plantations in KZN cover over 300,000 hectares.", "Average yield is 60 tons per hectare.", "Harvest season lasts 8-9 months.", "Sugar cane requires 1,500-2,000 mm rainfall annually.", "The region produces about 2 million tons of sugar per year.", "About 60% of South African sugar originates from KZN."],
+    },
   },
   {
     id: "eagle-encounters-life-v2",
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.77, -33.91],
-    name: { de: "Eagle Encounters", hu: "Sas-találkozók (Eagle Encounters)", ro: "Eagle Encounters", en: "Eagle Encounters",
-image: "/poi-images/eagle-encounters-life-v2.webp"
-},
+    name: { de: "Eagle Encounters", hu: "Sas-találkozók (Eagle Encounters)", ro: "Eagle Encounters", en: "Eagle Encounters"},
+    image: "/poi-images/eagle-encounters-life-v2.webp",
     description: { de: "Greifvogel-Schutzprojekt, bei dem Kinder Vögel hautnah erleben können.", hu: "Ragadozómadár-védelmi projekt, ahol a gyerekek közelről ismerhetik meg a madarakat.", ro: "Proiect de conservare a păsărilor răpitoare, unde copiii pot vedea păsările de aproape.", en: "Bird of prey conservation project where children can see birds up close." },
     facts: {
       de: ["Flugvorführungen.", "Greifvögel.", "Bildung pur.", "Interaktiv."],
       hu: ["Repülési bemutatók.", "Ragadozómadarak.", "Oktatás.", "Interaktív."],
       ro: ["Demonstrații de zbor.", "Păsări răpitoare.", "Educație pură.", "Interactiv."],
       en: ["Flight demonstrations.", "Birds of prey.", "Pure education.", "Interactive."]
-    }, image: "/poi-images/eagle-encounters-life-v2.webp"},
+    }, image: "/poi-images/eagle-encounters-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Eagle Encounters ist ein Greifvogelzentrum in Kapstadt, Südafrika, das sich der Rettung, Rehabilitation und Bildung widmet. Die Einrichtung beherbergt über 50 Vögel, darunter Adler, Falken, Eulen und Geier. Besucher können an Flugvorführungen teilnehmen und mehr über die Bedeutung dieser Vögel für das Ökosystem erfahren. Das Zentrum wurde 2003 gegründet und liegt im vogelreichen Gebiet der Kap-Halbinsel. Es arbeitet eng mit anderen Naturschutzorganisationen zusammen, um verletzte Greifvögel zu versorgen und wieder auszuwildern.",
+      hu: "Az Eagle Encounters egy ragadozómadár-központ Fokvárosban, Dél-Afrikában, amely a mentésre, rehabilitációra és oktatásra specializálódott. A létesítmény több mint 50 madarat gondoz, köztük sasokat, sólymokat, baglyokat és keselyűket. A látogatók repülési bemutatókon vehetnek részt, és többet megtudhatnak e madarak ökoszisztémában betöltött szerepéről. A központot 2003-ban alapították, és a madárvilágban gazdag Fok-félszigeten található. Szorosan együttműködik más természetvédelmi szervezetekkel a sérült ragadozómadarak ellátása és visszavadítása érdekében.",
+      ro: "Eagle Encounters este un centru de păsări de pradă din Cape Town, Africa de Sud, dedicat salvării, reabilitării și educației. Facilitatea găzduiește peste 50 de păsări, inclusiv vulturi, șoimi, bufnițe și vulturi negri. Vizitatorii pot participa la demonstrații de zbor și pot afla mai multe despre importanța acestor păsări pentru ecosistem. Centrul a fost fondat în 2003 și este situat în zona bogată în păsări a Peninsulei Cap. Colaborează strâns cu alte organizații de conservare pentru a îngriji păsările rănite și a le reintroduce în sălbăticie.",
+      en: "Eagle Encounters is a raptor center in Cape Town, South Africa, dedicated to rescue, rehabilitation, and education. The facility houses over 50 birds, including eagles, falcons, owls, and vultures. Visitors can attend flight demonstrations and learn about the importance of these birds in the ecosystem. The center was founded in 2003 and is located in the bird-rich Cape Peninsula area. It works closely with other conservation organizations to care for injured raptors and release them back into the wild.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum beherbergt über 50 Greifvögel.", "Es wurde 2003 gegründet.", "Jährlich werden etwa 100 Vögel rehabilitiert.", "Die Flugvorführungen dauern etwa 30 Minuten.", "Die Einrichtung liegt auf der Kap-Halbinsel.", "Die erfolgreiche Auswilderungsrate liegt bei über 60%."],
+      hu: ["A központ több mint 50 ragadozómadarat gondoz.", "2003-ban alapították.", "Évente körülbelül 100 madarat rehabilitálnak.", "A repülési bemutatók körülbelül 30 percig tartanak.", "A létesítmény a Fok-félszigeten található.", "A sikeres visszavadítási arány meghaladja a 60%-ot."],
+      ro: ["Centrul găzduiește peste 50 de păsări de pradă.", "A fost fondat în 2003.", "Aproximativ 100 de păsări sunt reabilitate anual.", "Demonstrațiile de zbor durează aproximativ 30 de minute.", "Facilitatea este situată pe Peninsula Cap.", "Rata de succes a reintroducerii în sălbăticie este de peste 60%."],
+      en: ["The center houses over 50 raptors.", "It was founded in 2003.", "Approximately 100 birds are rehabilitated annually.", "Flight demonstrations last about 30 minutes.", "The facility is located on the Cape Peninsula.", "The successful release rate is over 60%."],
+    },
+  },
   {
     id: "monkey-land-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [23.47, -33.95],
-    name: { de: "Monkeyland Primatenpark", hu: "Monkeyland Majompark", ro: "Parcul de maimuțe Monkeyland", en: "Monkeyland Primate Sanctuary",
-image: "/poi-images/monkey-land-life-v2.webp"
-},
+    name: { de: "Monkeyland Primatenpark", hu: "Monkeyland Majompark", ro: "Parcul de maimuțe Monkeyland", en: "Monkeyland Primate Sanctuary"},
+    image: "/poi-images/monkey-land-life-v2.webp",
     description: { de: "Freilauf-Schutzgebiet für Primaten, wo Tiere natürlich leben können.", hu: "Szabadon élő védett terület főemlősök számára.", ro: "Rezervație pentru primate, unde animalele pot trăi natural.", en: "Free-roaming sanctuary for primates where animals can live naturally." },
     facts: {
       de: ["Verschiedene Primatenarten.", "Wanderungen.", "Naturschutz.", "Familienhit."],
       hu: ["Különböző főemlősfajok.", "Túrák.", "Természetvédelem.", "Családi sláger."],
       ro: ["Diferite specii de primate.", "Drumeții.", "Conservare.", "Hit pentru familie."],
       en: ["Various primate species.", "Hikes.", "Conservation.", "Family hit."]
-    }, image: "/poi-images/monkey-land-life-v2.webp"},
+    }, image: "/poi-images/monkey-land-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Monkeyland Primate Sanctuary ist ein Schutzgebiet für Primaten in der Nähe von Plettenberg Bay, Südafrika. Es wurde 1998 gegründet und bietet über 20 Arten von Affen und Halbaffen ein Zuhause, die aus verschiedenen Situationen gerettet wurden. Das Heiligtum erstreckt sich über 10 Hektar Wald und bietet den Tieren eine natürliche Umgebung. Besucher können auf geführten Touren die Affen in ihrem Lebensraum beobachten. Monkeyland legt großen Wert auf Bildung und Artenschutz und arbeitet mit anderen Einrichtungen zusammen, um das Bewusstsein für die Bedrohung von Primaten zu schärfen.",
+      hu: "A Monkeyland Primate Sanctuary egy főemlős-menedék Plettenberg-öböl közelében, Dél-Afrikában. 1998-ban alapították, és több mint 20 majomfajnak és félmajomnak ad otthont, amelyek különböző helyekről mentettek. A menedék 10 hektáros erdőben terül el, természetes környezetet biztosítva az állatoknak. A látogatók vezetett túrákon figyelhetik meg a majmokat élőhelyükön. A Monkeyland nagy hangsúlyt fektet az oktatásra és a természetvédelemre, és más intézményekkel együttműködve növeli a főemlősöket fenyegető veszélyek tudatosságát.",
+      ro: "Monkeyland Primate Sanctuary este un sanctuar pentru primate lângă Plettenberg Bay, Africa de Sud. A fost fondat în 1998 și găzduiește peste 20 de specii de maimuțe și lemuri, salvate din diverse situații. Sanctuarul se întinde pe 10 hectare de pădure, oferind un mediu natural animalelor. Vizitatorii pot observa maimuțele în habitatul lor în timpul tururilor ghidate. Monkeyland pune accent pe educație și conservare, colaborând cu alte facilități pentru a crește conștientizarea amenințărilor la adresa primatelor.",
+      en: "Monkeyland Primate Sanctuary is a primate sanctuary near Plettenberg Bay, South Africa. It was founded in 1998 and houses over 20 species of monkeys and prosimians rescued from various situations. The sanctuary spans 10 hectares of forest, providing a natural environment for the animals. Visitors can observe the monkeys in their habitat on guided tours. Monkeyland places a strong emphasis on education and conservation, working with other facilities to raise awareness about threats to primates.",
+    },
+    factsAdvanced: {
+      de: ["Das Heiligtum wurde 1998 gegründet.", "Es erstreckt sich über 10 Hektar Wald.", "Über 20 Primatenarten leben hier.", "Die Einrichtung beherbergt mehr als 500 Individuen.", "Jährlich besuchen etwa 60.000 Gäste das Heiligtum.", "Die Touren dauern etwa 1 Stunde."],
+      hu: ["A menedéket 1998-ban alapították.", "10 hektáros erdőben fekszik.", "Több mint 20 főemlősfaj él itt.", "A létesítmény több mint 500 egyednek ad otthont.", "Évente körülbelül 60.000 vendég látogatja meg.", "A túrák körülbelül 1 óráig tartanak."],
+      ro: ["Sanctuarul a fost fondat în 1998.", "Se întinde pe 10 hectare de pădure.", "Peste 20 de specii de primate trăiesc aici.", "Facilitatea găzduiește peste 500 de indivizi.", "Aproximativ 60.000 de oaspeți vizitează anual.", "Tururile durează aproximativ 1 oră."],
+      en: ["The sanctuary was founded in 1998.", "It spans 10 hectares of forest.", "Over 20 primate species live here.", "The facility houses over 500 individuals.", "Approximately 60,000 guests visit annually.", "Tours last about 1 hour."],
+    },
+  },
   {
     id: "bird-of-prey-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [18.55, -34.05],
-    name: { de: "Greifvogel-Reha-Zentrum", hu: "Ragadozómadár rehabilitációs központ", ro: "Centru de reabilitare a păsărilor răpitoare", en: "Bird of Prey Rehab Center",
-image: "/poi-images/bird-of-prey-life-v2.webp"
-},
+    name: { de: "Greifvogel-Reha-Zentrum", hu: "Ragadozómadár rehabilitációs központ", ro: "Centru de reabilitare a păsărilor răpitoare", en: "Bird of Prey Rehab Center"},
+    image: "/poi-images/bird-of-prey-life-v2.webp",
     description: { de: "Zentrum zur Pflege und Auswilderung verletzter Greifvögel.", hu: "Központ a sérült ragadozómadarak gondozására és visszaengedésére.", ro: "Centru pentru îngrijirea și reintroducerea păsărilor răpitoare rănite.", en: "Center for the care and release of injured birds of prey." },
     facts: {
       de: ["Tierschutz.", "Reha-Prozesse.", "Bildung.", "Für kleine Forscher."],
       hu: ["Állatvédelem.", "Rehabilitációs folyamatok.", "Oktatás.", "Kis kutatóknak."],
       ro: ["Protecția animalelor.", "Procese de reabilitare.", "Educație.", "Pentru micii cercetători."],
       en: ["Animal protection.", "Rehab processes.", "Education.", "For young explorers."]
-    }, image: "/poi-images/bird-of-prey-life-v2.webp"},
+    }, image: "/poi-images/bird-of-prey-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bird of Prey Rehab Center in Südafrika ist spezialisiert auf die Rehabilitation von Greifvögeln. Es wurde 1999 gegründet und hat seitdem Tausende von verletzten oder verwaisten Vögeln behandelt. Das Zentrum bietet auch Aufklärungsprogramme für Schulen und die Öffentlichkeit an. Die Vögel werden medizinisch versorgt und nach ihrer Genesung wieder ausgewildert. Die Einrichtung beherbergt dauerhaft nicht auswilderbare Vögel, die zu Bildungszwecken eingesetzt werden. Das Zentrum arbeitet mit Tierärzten und Naturschutzbehörden zusammen.",
+      hu: "A Bird of Prey Rehab Center Dél-Afrikában a ragadozómadarak rehabilitációjára specializálódott. 1999-ben alapították, és azóta több ezer sérült vagy árva madarat kezeltek. A központ oktatási programokat is kínál iskolák és a nagyközönség számára. A madarakat orvosi ellátásban részesítik, majd felépülésük után visszavadítják őket. A létesítmény állandó jelleggel befogad olyan madarakat, amelyek nem engedhetők szabadon, és oktatási célokra használják őket. A központ állatorvosokkal és természetvédelmi hatóságokkal működik együtt.",
+      ro: "Bird of Prey Rehab Center din Africa de Sud este specializat în reabilitarea păsărilor de pradă. A fost fondat în 1999 și de atunci a tratat mii de păsări rănite sau orfane. Centrul oferă, de asemenea, programe educaționale pentru școli și public. Păsările beneficiază de îngrijire medicală și, după recuperare, sunt eliberate în sălbăticie. Facilitatea adăpostește permanent păsări care nu pot fi eliberate, folosite în scop educațional. Centrul colaborează cu medici veterinari și autorități de conservare.",
+      en: "The Bird of Prey Rehab Center in South Africa specializes in raptor rehabilitation. It was founded in 1999 and has since treated thousands of injured or orphaned birds. The center also offers educational programs for schools and the public. Birds receive medical care and are released back into the wild after recovery. The facility permanently houses non-releasable birds used for education. The center works with veterinarians and conservation authorities.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 1999 gegründet.", "Es hat über 3.000 Vögel behandelt.", "Die Auswilderungsrate beträgt etwa 70%.", "Die Einrichtung beherbergt 30 dauerhafte Bewohner.", "Jährlich werden 200-300 Vögel aufgenommen.", "Das Zentrum arbeitet mit 5 Tierärzten zusammen."],
+      hu: ["A központot 1999-ben alapították.", "Több mint 3.000 madarat kezelt.", "A visszavadítási arány körülbelül 70%.", "A létesítmény 30 állandó lakót tart.", "Évente 200-300 madarat fogadnak be.", "A központ 5 állatorvossal működik együtt."],
+      ro: ["Centrul a fost fondat în 1999.", "A tratat peste 3.000 de păsări.", "Rata de eliberare este de aproximativ 70%.", "Facilitatea găzduiește 30 de rezidenți permanenți.", "Anual sunt admiși 200-300 de păsări.", "Centrul colaborează cu 5 medici veterinari."],
+      en: ["The center was founded in 1999.", "It has treated over 3,000 birds.", "The release rate is about 70%.", "The facility houses 30 permanent residents.", "Annually 200-300 birds are admitted.", "The center works with 5 veterinarians."],
+    },
+  },
   {
     id: "aquila-safari-life-v2",
     type: "animal-habitat",
     parent: "ZA-WC",
     coords: [19.50, -33.35],
-    name: { de: "Aquila Private Game Reserve", hu: "Aquila Magán Vadrezervátum", ro: "Rezervația Privată de Vânătoare Aquila", en: "Aquila Private Game Reserve",
-image: "/poi-images/aquila-safari-life-v2.webp"
-},
+    name: { de: "Aquila Private Game Reserve", hu: "Aquila Magán Vadrezervátum", ro: "Rezervația Privată de Vânătoare Aquila", en: "Aquila Private Game Reserve"},
+    image: "/poi-images/aquila-safari-life-v2.webp",
     description: { de: "Safari-Erlebnis in der Nähe von Kapstadt für Familien.", hu: "Szafari-élmény Fokváros közelében családoknak.", ro: "Experiență de safari aproape de Cape Town pentru familii.", en: "Safari experience near Cape Town for families." },
     facts: {
       de: ["Big Five Safaris.", "Luxus-Lodges.", "Tagesausflüge.", "Kinder-Programme."],
       hu: ["Nagy Ötös szafarik.", "Luxus szállások.", "Egynapos kirándulások.", "Gyermekprogramok."],
       ro: ["Safari 'Big Five'.", "Lodje de lux.", "Excursii de o zi.", "Programe pentru copii."],
       en: ["Big Five safaris.", "Luxury lodges.", "Day trips.", "Kids' programs."]
-    }, image: "/poi-images/aquila-safari-life-v2.webp"},
+    }, image: "/poi-images/aquila-safari-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Aquila Private Game Reserve ist ein privates Wildreservat in der Provinz Westkap, etwa 2 Autostunden von Kapstadt entfernt. Es erstreckt sich über 10.000 Hektar und bietet Big Five Safaris an. Das Reservat wurde 1999 gegründet und liegt in der malerischen Karoo-Landschaft. Aquila bietet geführte Pirschfahrten, Reitausflüge und Wanderungen. Die Unterkünfte reichen von Luxus-Lodges bis zu Campingplätzen. Das Reservat engagiert sich für den Artenschutz und die lokale Gemeinschaft. Es beherbergt Elefanten, Löwen, Nashörner, Büffel und Leoparden sowie viele andere Tiere.",
+      hu: "Az Aquila Private Game Reserve egy privát vadrezervátum a Nyugat-Fokföld tartományban, körülbelül 2 órányira Fokvárostól. Területe 10.000 hektár, és Big Five szafarikat kínál. A rezervátumot 1999-ben alapították, és a festői Karoo tájon fekszik. Az Aquila vezetett járőrözéseket, lovas túrákat és gyalogos szafarikat kínál. A szállások a luxusvilláktól a kempingekig terjednek. A rezervátum elkötelezett a természetvédelem és a helyi közösség támogatása mellett. Elefántoknak, oroszlánoknak, orrszarvúknak, bivalyoknak és leopárdoknak, valamint sok más állatnak ad otthont.",
+      ro: "Aquila Private Game Reserve este o rezervație privată de vânat din provincia Western Cape, la aproximativ 2 ore de mers cu mașina de Cape Town. Se întinde pe 10.000 de hectare și oferă safari cu Big Five. Rezervația a fost fondată în 1999 și este situată în pitoreasca Karoo. Aquila oferă drumeții ghidate, plimbări călare și safari pe jos. Cazarea variază de la cabane de lux până la camping. Rezervația se angajează în conservarea faunei sălbatice și a comunității locale. Găzduiește elefanți, lei, rinoceri, bivoli și leoparzi, precum și multe alte animale.",
+      en: "Aquila Private Game Reserve is a private game reserve in the Western Cape province, about a 2-hour drive from Cape Town. It spans 10,000 hectares and offers Big Five safaris. The reserve was founded in 1999 and is located in the scenic Karoo landscape. Aquila offers guided game drives, horse riding, and walking safaris. Accommodation ranges from luxury lodges to camping. The reserve is committed to conservation and supporting the local community. It hosts elephants, lions, rhinos, buffalo, and leopards, as well as many other animals.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat erstreckt sich über 10.000 Hektar.", "Es wurde 1999 gegründet.", "Die Big Five sind alle hier vertreten.", "Die Entfernung nach Kapstadt beträgt 150 km.", "Jährlich besuchen über 50.000 Gäste das Reservat.", "Die durchschnittliche Safari dauert 3 Stunden."],
+      hu: ["A rezervátum 10.000 hektáron terül el.", "1999-ben alapították.", "A Big Five minden képviselője megtalálható.", "Fokvárostól 150 km-re található.", "Évente több mint 50.000 vendég látogatja meg.", "Egy átlagos szafari 3 óráig tart."],
+      ro: ["Rezervația se întinde pe 10.000 de hectare.", "A fost fondată în 1999.", "Toți cei Big Five sunt prezenți.", "Distanța până la Cape Town este de 150 km.", "Peste 50.000 de oaspeți vizitează anual.", "Un safari tipic durează 3 ore."],
+      en: ["The reserve spans 10,000 hectares.", "It was founded in 1999.", "All of the Big Five are present.", "Distance to Cape Town is 150 km.", "Over 50,000 guests visit annually.", "A typical safari lasts 3 hours."],
+    },
+  },
   {
     id: "butterfly-world-kids-life-v2",
     type: "kid-landmark",
     parent: "ZA-WC",
     coords: [18.82, -33.75],
-    name: { de: "Butterfly World", hu: "Butterfly World (Pillangó-kert)", ro: "Butterfly World", en: "Butterfly World",
-image: "/poi-images/butterfly-world-kids-life-v2.webp"
-},
+    name: { de: "Butterfly World", hu: "Butterfly World (Pillangó-kert)", ro: "Butterfly World", en: "Butterfly World"},
+    image: "/poi-images/butterfly-world-kids-life-v2.webp",
     description: { de: "Tropischer Garten voller Schmetterlinge und kleiner Tiere.", hu: "Trópusi kert tele pillangókkal és kis állatokkal.", ro: "Grădină tropicală plină de fluturi și animale mici.", en: "Tropical garden filled with butterflies and small animals." },
     facts: {
       de: ["Tausende Schmetterlinge.", "Insekten-Welt.", "Pflanzen-Vielfalt.", "Interaktives Lernen."],
       hu: ["Több ezer pillangó.", "Rovarvilág.", "Növényi sokféleség.", "Interaktív tanulás."],
       ro: ["Mii de fluturi.", "Lumea insectelor.", "Diversitate de plante.", "Învățare interactivă.",],
       en: ["Thousands of butterflies.", "Insect world.", "Plant diversity.", "Interactive learning."]
-    }, image: "/poi-images/butterfly-world-kids-life-v2.webp"},
+    }, image: "/poi-images/butterfly-world-kids-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Butterfly World ist ein Schmetterlingshaus in Kapstadt, Südafrika, das sich auf die Zucht und Präsentation von Schmetterlingen spezialisiert hat. Es wurde 2007 eröffnet und beherbergt über 400 Schmetterlinge aus verschiedenen Arten. Die Anlage umfasst einen tropischen Garten mit Pflanzen, die Schmetterlinge anziehen. Besucher können die fliegenden Insekten in einer naturnahen Umgebung beobachten. Butterfly World bietet auch Bildungsprogramme für Kinder an, um die Bedeutung von Schmetterlingen für das Ökosystem zu vermitteln. Die Einrichtung arbeitet mit lokalen Naturschutzinitiativen zusammen.",
+      hu: "A Butterfly World egy pillangóház Fokvárosban, Dél-Afrikában, amely a pillangók tenyésztésére és bemutatására specializálódott. 2007-ben nyitotta meg kapuit, és több mint 400 pillangót tart különböző fajokból. A létesítményben trópusi kert található, tele a pillangókat vonzó növényekkel. A látogatók természetközeli környezetben figyelhetik meg a repülő rovarokat. A Butterfly World oktatási programokat is kínál gyerekeknek a pillangók ökoszisztémában betöltött szerepéről. Az intézmény együttműködik a helyi természetvédelmi kezdeményezésekkel.",
+      ro: "Butterfly World este o casă a fluturilor din Cape Town, Africa de Sud, specializată în creșterea și prezentarea fluturilor. A fost deschisă în 2007 și găzduiește peste 400 de fluturi din diverse specii. Facilitatea include o grădină tropicală cu plante care atrag fluturii. Vizitatorii pot observa insectele zburătoare într-un mediu natural. Butterfly World oferă, de asemenea, programe educaționale pentru copii despre importanța fluturilor în ecosistem. Facilitatea colaborează cu inițiative locale de conservare.",
+      en: "Butterfly World is a butterfly house in Cape Town, South Africa, specializing in breeding and displaying butterflies. It opened in 2007 and houses over 400 butterflies from various species. The facility includes a tropical garden with plants that attract butterflies. Visitors can observe the flying insects in a naturalistic environment. Butterfly World also offers educational programs for children about the importance of butterflies in the ecosystem. The facility works with local conservation initiatives.",
+    },
+    factsAdvanced: {
+      de: ["Das Haus wurde 2007 eröffnet.", "Es beherbergt über 400 Schmetterlinge.", "Die Anlage umfasst 10.000 m².", "Die durchschnittliche Lebensdauer der Schmetterlinge beträgt 2-4 Wochen.", "Es werden 20 verschiedene Arten gehalten.", "Jährlich besuchen etwa 30.000 Gäste."],
+      hu: ["A házat 2007-ben nyitották meg.", "Több mint 400 pillangónak ad otthont.", "A létesítmény 10.000 m²-en terül el.", "A pillangók átlagos élettartama 2-4 hét.", "20 különböző fajt tartanak.", "Évente körülbelül 30.000 látogatója van."],
+      ro: ["Casa a fost deschisă în 2007.", "Găzduiește peste 400 de fluturi.", "Facilitatea se întinde pe 10.000 m².", "Durata medie de viață a fluturilor este de 2-4 săptămâni.", "Sunt ținute 20 de specii diferite.", "Aproximativ 30.000 de vizitatori anual."],
+      en: ["The house opened in 2007.", "It houses over 400 butterflies.", "The facility covers 10,000 m².", "Average butterfly lifespan is 2-4 weeks.", "20 different species are kept.", "Approximately 30,000 visitors annually."],
+    },
+  },
   {
     id: "botanical-garden-jhb-life-v2",
     type: "kid-landmark",
     parent: "ZA-GP",
     coords: [28.00, -26.15],
-    name: { de: "Walter Sisulu Botanischer Garten", hu: "Walter Sisulu Botanikus Kert", ro: "Grădina Botanică Walter Sisulu", en: "Walter Sisulu Botanical Gardens",
-image: "/poi-images/botanical-garden-jhb-life-v2.webp"
-},
+    name: { de: "Walter Sisulu Botanischer Garten", hu: "Walter Sisulu Botanikus Kert", ro: "Grădina Botanică Walter Sisulu", en: "Walter Sisulu Botanical Gardens"},
+    image: "/poi-images/botanical-garden-jhb-life-v2.webp",
     description: { de: "Ein wunderschöner botanischer Garten in Johannesburg, beliebt bei Familien.", hu: "Egy gyönyörű botanikus kert Johannesburgban, népszerű családok körében.", ro: "O grădină botanică frumoasă în Johannesburg, populară printre familii.", en: "A beautiful botanical garden in Johannesburg, popular with families." },
     facts: {
       de: ["Wasserfall.", "Vogelbeobachtung.", "Picknickplätze.", "Familienausflüge."],
       hu: ["Vízesés.", "Madármegfigyelés.", "Piknikező helyek.", "Családi kirándulások."],
       ro: ["Cascadă.", "Observarea păsărilor.", "Zone de picnic.", "Excursii de familie."],
       en: ["Waterfall.", "Bird watching.", "Picnic spots.", "Family outings."]
-    }, image: "/poi-images/botanical-garden-jhb-life-v2.webp"},
+    }, image: "/poi-images/botanical-garden-jhb-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Walter Sisulu Botanical Gardens liegen in Roodepoort, Johannesburg, und sind nach dem Anti-Apartheid-Aktivisten benannt. Der Garten erstreckt sich über 271 Hektar und ist bekannt für den Witpoortjie-Wasserfall, der 60 Meter hoch ist. Die Gärten beherbergen eine Vielzahl einheimischer Pflanzen, darunter Aloen und Fynbos. Der Garten wurde 1982 eröffnet und bietet Wanderwege, Picknickplätze und einen See. Der Wasserfall und die Felsklippen locken auch seltene Vogelarten wie den afrikanischen Fischadler an.",
+      hu: "A Walter Sisulu Botanikus Kert Roodepoortban, Johannesburgban található, és az apartheid-ellenes aktivistáról kapta a nevét. A kert 271 hektáron terül el, és híres a 60 méter magas Witpoortjie-vízesésről. A kertek számos őshonos növényfajnak adnak otthont, köztük aloék és fynbos növények. A kertet 1982-ben nyitották meg, és sétányokkal, piknikezőhelyekkel és egy tóval várja a látogatókat. A vízesés és a sziklák ritka madárfajokat is vonzanak, mint az afrikai halászsas.",
+      ro: "Grădinile Botanice Walter Sisulu sunt situate în Roodepoort, Johannesburg, și poartă numele activistului anti-apartheid. Grădina se întinde pe 271 de hectare și este cunoscută pentru cascada Witpoortjie, înaltă de 60 de metri. Grădinile găzduiesc o varietate de plante native, inclusiv aloe și fynbos. Grădina a fost deschisă în 1982 și oferă trasee de mers pe jos, locuri de picnic și un lac. Cascada și stâncile atrag și specii rare de păsări, cum ar fi șoimul pescar african.",
+      en: "Walter Sisulu Botanical Gardens are located in Roodepoort, Johannesburg, and named after the anti-apartheid activist. The garden spans 271 hectares and is known for the Witpoortjie Waterfall, which is 60 meters high. The gardens host a variety of indigenous plants, including aloe and fynbos. The garden opened in 1982 and offers walking trails, picnic spots, and a lake. The waterfall and cliffs also attract rare bird species such as the African fish eagle.",
+    },
+    factsAdvanced: {
+      de: ["Der Garten erstreckt sich über 271 Hektar.", "Der Wasserfall ist 60 Meter hoch.", "Der Garten wurde 1982 eröffnet.", "Über 600 einheimische Pflanzenarten wachsen hier.", "Der See hat eine Fläche von 5 Hektar.", "Jährlich besuchen etwa 300.000 Menschen den Garten."],
+      hu: ["A kert 271 hektáron terül el.", "A vízesés 60 méter magas.", "A kertet 1982-ben nyitották meg.", "Több mint 600 őshonos növényfaj található itt.", "A tó 5 hektárnyi területen fekszik.", "Évente körülbelül 300.000 ember látogatja meg."],
+      ro: ["Grădina se întinde pe 271 de hectare.", "Cascada are 60 de metri înălțime.", "Grădina a fost deschisă în 1982.", "Peste 600 de specii de plante native cresc aici.", "Lacul are o suprafață de 5 hectare.", "Aproximativ 300.000 de persoane vizitează anual."],
+      en: ["The garden spans 271 hectares.", "The waterfall is 60 meters high.", "The garden opened in 1982.", "Over 600 indigenous plant species grow here.", "The lake covers an area of 5 hectares.", "Approximately 300,000 people visit annually."],
+    },
+  },
   {
     id: "croc-city-life-v2",
     type: "animal-habitat",
     parent: "ZA-GP",
     coords: [28.05, -25.95],
-    name: { de: "Croc City Crocodile Park", hu: "Croc City Krokodilpark", ro: "Parcul de crocodili Croc City", en: "Croc City Crocodile Park",
-image: "/poi-images/croc-city-life-v2.webp"
-},
+    name: { de: "Croc City Crocodile Park", hu: "Croc City Krokodilpark", ro: "Parcul de crocodili Croc City", en: "Croc City Crocodile Park"},
+    image: "/poi-images/croc-city-life-v2.webp",
     description: { de: "Ein Park, in dem man Krokodile und Schlangen hautnah erleben kann.", hu: "Park, ahol krokodilokat és kígyókat ismerhetnek meg közelről.", ro: "Un parc unde poți vedea crocodili și șerpi de aproape.", en: "A park where you can experience crocodiles and snakes up close." },
     facts: {
       de: ["Krokodil-Fütterungen.", "Schlangenshows.", "Lehrreich.", "Sicherer Umgang."],
       hu: ["Krokodil-etetések.", "Kígyóshow-k.", "Tanulságos.", "Biztonságos kapcsolat."],
       ro: ["Hrănirea crocodililor.", "Spectacole cu șerpi.", "Educativ.", "Contact sigur."],
       en: ["Crocodile feedings.", "Snake shows.", "Educational.", "Safe interaction."]
-    }, image: "/poi-images/croc-city-life-v2.webp"},
+    }, image: "/poi-images/croc-city-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Croc City Crocodile Park liegt in der Nähe von Hartbeespoort Dam, etwa eine Stunde von Johannesburg entfernt. Der Park wurde 2005 eröffnet und beherbergt über 5.000 Nilkrokodile. Besucher können die Krokodile aus nächster Nähe beobachten und Fütterungen erleben. Der Park bietet auch Informationen über die Biologie und den Schutz von Krokodilen. Es gibt ein Restaurant und einen Spielplatz für Kinder. Croc City ist auch an der Zucht und der Gewinnung von Krokodilleder beteiligt.",
+      hu: "A Croc City Crocodile Park a Hartbeespoort-gát közelében található, körülbelül egy órára Johannesburgtól. A parkot 2005-ben nyitották meg, és több mint 5.000 nílusi krokodilnak ad otthont. A látogatók közelről figyelhetik meg a krokodilokat, és etetéseken vehetnek részt. A park információt nyújt a krokodilok biológiájáról és védelméről. Van egy étterme és játszótere a gyerekeknek. A Croc City részt vesz a krokodiltenyésztésben és a krokodilbőr kitermelésében is.",
+      ro: "Croc City Crocodile Park este situat lângă Barajul Hartbeespoort, la aproximativ o oră de Johannesburg. Parcul a fost deschis în 2005 și găzduiește peste 5.000 de crocodili nilici. Vizitatorii pot observa crocodilii de aproape și pot asista la hrăniri. Parcul oferă, de asemenea, informații despre biologia și conservarea crocodililor. Există un restaurant și un loc de joacă pentru copii. Croc City este implicată și în creșterea crocodililor și producția de piele de crocodil.",
+      en: "Croc City Crocodile Park is near Hartbeespoort Dam, about an hour from Johannesburg. The park opened in 2005 and houses over 5,000 Nile crocodiles. Visitors can observe crocodiles up close and attend feedings. The park also provides information on crocodile biology and conservation. There is a restaurant and a playground for children. Croc City is also involved in crocodile breeding and leather production.",
+    },
+    factsAdvanced: {
+      de: ["Der Park beherbergt über 5.000 Nilkrokodile.", "Er wurde 2005 eröffnet.", "Die Krokodile erreichen Längen von bis zu 5 Metern.", "Die Fütterungen finden zweimal täglich statt.", "Der Park erstreckt sich über 10 Hektar.", "Jährlich werden 1.000 Krokodile gezüchtet."],
+      hu: ["A park több mint 5.000 nílusi krokodilnak ad otthont.", "2005-ben nyitották meg.", "A krokodilok akár 5 méteres hosszúságot is elérhetnek.", "Az etetés naponta kétszer történik.", "A park 10 hektáron terül el.", "Évente 1.000 krokodilt tenyésztenek."],
+      ro: ["Parcul găzduiește peste 5.000 de crocodili nilici.", "A fost deschis în 2005.", "Crocodilii pot atinge lungimi de până la 5 metri.", "Hrănirile au loc de două ori pe zi.", "Parcul se întinde pe 10 hectare.", "Anual sunt crescuți 1.000 de crocodili."],
+      en: ["The park houses over 5,000 Nile crocodiles.", "It opened in 2005.", "Crocodiles can reach lengths of up to 5 meters.", "Feedings occur twice daily.", "The park spans 10 hectares.", "Annually 1,000 crocodiles are bred."],
+    },
+  },
   {
     id: "cheetah-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "ZA-GP",
     coords: [28.15, -25.80],
-    name: { de: "Cheetah Outreach", hu: "Gepárd-mentő központ", ro: "Centrul de salvare a ghepardilor", en: "Cheetah Outreach",
-image: "/poi-images/cheetah-sanctuary-life-v2.webp"
-},
+    name: { de: "Cheetah Outreach", hu: "Gepárd-mentő központ", ro: "Centrul de salvare a ghepardilor", en: "Cheetah Outreach"},
+    image: "/poi-images/cheetah-sanctuary-life-v2.webp",
     description: { de: "Ein Zentrum für den Schutz und die Aufzucht von Geparden.", hu: "Központ a gepárdok védelmére és tenyésztésére.", ro: "Centru pentru conservarea și creșterea ghepardilor.", en: "A center for the conservation and breeding of cheetahs." },
     facts: {
       de: ["Geparden-Forschung.", "Bildungsprogramme.", "Sicherer Kontakt.", "Nahe Pretoria."],
       hu: ["Gepárd-kutatás.", "Oktatási programok.", "Biztonságos kapcsolat.", "Pretoria közelében."],
       ro: ["Cercetarea ghepardilor.", "Programe educaționale.", "Contact sigur.", "Lângă Pretoria."],
       en: ["Cheetah research.", "Educational programs.", "Safe contact.", "Near Pretoria."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Cheetah Outreach ist ein Geparden-Schutzprojekt in der Nähe von Kapstadt, Südafrika. Es wurde 1997 gegründet, um das Bewusstsein für den Schutz der Geparden zu schärfen. Das Zentrum beherbergt Geparden, die in Gefangenschaft geboren wurden oder nicht ausgewildert werden können. Besucher können an Führungen teilnehmen und die Tiere aus der Nähe sehen. Cheetah Outreach bietet auch Bildungsprogramme für lokale Gemeinschaften an. Das Projekt arbeitet mit Landwirten zusammen, um Konflikte zwischen Mensch und Tier zu reduzieren. Der Gepardenbestand in Südafrika ist stark bedroht, mit weniger als 1.000 Tieren in freier Wildbahn.",
+      hu: "A Cheetah Outreach egy gepárdfaj-védelmi projekt Fokváros közelében, Dél-Afrikában. 1997-ben alapították a gepárdok védelmével kapcsolatos tudatosság növelésére. A központ fogságban született vagy visszavadítható gepárdokat gondoz. A látogatók vezetett túrákon vehetnek részt, és közelről láthatják az állatokat. A Cheetah Outreach oktatási programokat is kínál a helyi közösségek számára. A projekt együttműködik a gazdákkal az ember-állat konfliktusok csökkentése érdekében. A dél-afrikai gepárdpopuláció erősen veszélyeztetett, kevesebb mint 1.000 egyed él a vadonban.",
+      ro: "Cheetah Outreach este un proiect de conservare a gheparzilor lângă Cape Town, Africa de Sud. A fost fondat în 1997 pentru a crește conștientizarea protecției gheparzilor. Centrul găzduiește gheparzi născuți în captivitate sau care nu pot fi eliberați. Vizitatorii pot participa la tururi ghidate și pot vedea animalele de aproape. Cheetah Outreach oferă, de asemenea, programe educaționale pentru comunitățile locale. Proiectul colaborează cu fermierii pentru a reduce conflictele om-animal. Populația de gheparzi din Africa de Sud este grav amenințată, cu mai puțin de 1.000 de animale în sălbăticie.",
+      en: "Cheetah Outreach is a cheetah conservation project near Cape Town, South Africa. It was founded in 1997 to raise awareness for cheetah protection. The center houses cheetahs that were born in captivity or cannot be released. Visitors can join guided tours and see the animals up close. Cheetah Outreach also offers educational programs for local communities. The project works with farmers to reduce human-animal conflict. The cheetah population in South Africa is highly threatened, with fewer than 1,000 animals in the wild.",
+    },
+    factsAdvanced: {
+      de: ["Das Projekt wurde 1997 gegründet.", "Es beherbergt etwa 20 Geparden.", "Die Touren dauern etwa 1 Stunde.", "Der Gepard erreicht Geschwindigkeiten von bis zu 110 km/h.", "Die Population in Südafrika beträgt unter 1.000 Tiere.", "Cheetah Outreach arbeitet mit 50 lokalen Farmen zusammen."],
+      hu: ["A projektet 1997-ben alapították.", "Körülbelül 20 gepárdot gondoz.", "A túrák körülbelül 1 óráig tartanak.", "A gepárd akár 110 km/h sebességet is elérhet.", "A dél-afrikai populáció kevesebb mint 1.000 egyed.", "A Cheetah Outreach 50 helyi farmmal működik együtt."],
+      ro: ["Proiectul a fost fondat în 1997.", "Găzduiește aproximativ 20 de gheparzi.", "Tururile durează aproximativ 1 oră.", "Gheparzul poate atinge viteze de până la 110 km/h.", "Populația din Africa de Sud este sub 1.000 de animale.", "Cheetah Outreach colaborează cu 50 de ferme locale."],
+      en: ["The project was founded in 1997.", "It houses about 20 cheetahs.", "Tours last approximately 1 hour.", "The cheetah can reach speeds up to 110 km/h.", "The population in South Africa is under 1,000 animals.", "Cheetah Outreach works with 50 local farms."],
+    },
   }
 ];
 

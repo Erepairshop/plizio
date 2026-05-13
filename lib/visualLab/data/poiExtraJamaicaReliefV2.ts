@@ -7,9 +7,8 @@ export const poiExtraJamaicaReliefV2: POI[] = [
     type: "mountain",
     parent: "JM-SR",
     coords: [-76.5744, 18.0877],
-    name: { de: "Blue Mountain Peak", hu: "Blue Mountain Peak", ro: "Blue Mountain Peak", en: "Blue Mountain Peak",
-image: "/poi-images/blue-mountain-peak-relief-v2.webp"
-},
+    name: { de: "Blue Mountain Peak", hu: "Blue Mountain Peak", ro: "Blue Mountain Peak", en: "Blue Mountain Peak"},
+    image: "/poi-images/blue-mountain-peak-relief-v2.webp",
     description: { de: "Der höchste Punkt Jamaikas mit einer Höhe von 2.256 Metern.", hu: "Jamaica legmagasabb pontja, 2256 méter magas.", ro: "Cel mai înalt punct din Jamaica, cu o înălțime de 2.256 de metri.", en: "The highest point in Jamaica, standing at 2,256 meters." },
     facts: {
       de: ["Höchster Berg Jamaikas", "Teil der Blue Mountains", "Beliebtes Wanderziel", "Bietet spektakuläre Aussichten"],
@@ -29,9 +28,8 @@ image: "/poi-images/blue-mountain-peak-relief-v2.webp"
     type: "mountain",
     parent: "JM-PO",
     coords: [-76.4333, 18.15],
-    name: { de: "John Crow Mountains", hu: "John Crow-hegység", ro: "Munții John Crow", en: "John Crow Mountains",
-image: "/poi-images/john-crow-mountains-relief-v2.webp"
-},
+    name: { de: "John Crow Mountains", hu: "John Crow-hegység", ro: "Munții John Crow", en: "John Crow Mountains"},
+    image: "/poi-images/john-crow-mountains-relief-v2.webp",
     description: { de: "Eine abgelegene und wilde Bergkette im Osten Jamaikas.", hu: "Egy távoli és vad hegylánc Jamaica keleti részén.", ro: "Un lanț muntos izolat și sălbatic în estul Jamaicăi.", en: "A remote and wild mountain range in eastern Jamaica." },
     facts: {
       de: ["Kalksteingebirge", "Sehr unzugänglich", "Heimat seltener Arten", "Teil des UNESCO-Welterbes"],
@@ -51,9 +49,8 @@ image: "/poi-images/john-crow-mountains-relief-v2.webp"
     type: "relief",
     parent: "JM-TR",
     coords: [-77.6833, 18.25],
-    name: { de: "Cockpit Country Senken", hu: "Cockpit Country mélyedések", ro: "Depresiunile Cockpit Country", en: "Cockpit Country Depressions",
-image: "/poi-images/cockpit-country-valley-relief-v2.webp"
-},
+    name: { de: "Cockpit Country Senken", hu: "Cockpit Country mélyedések", ro: "Depresiunile Cockpit Country", en: "Cockpit Country Depressions"},
+    image: "/poi-images/cockpit-country-valley-relief-v2.webp",
     description: { de: "Die tiefen Karstsenken der Cockpit Country-Region.", hu: "A Cockpit Country régió mély karsztos mélyedései.", ro: "Valea Cockpit Country este inima unei regiuni carstice spectaculoase, definită prin depresiuni adânci și dealuri abrupte de calcar.", en: "The deep karst depressions of the Cockpit Country region." },
     facts: {
       de: ["Einzigartige Karstlandschaft", "Steile Hügelketten", "Schwieriges Terrain", "Große Artenvielfalt"],
@@ -73,9 +70,8 @@ image: "/poi-images/cockpit-country-valley-relief-v2.webp"
     type: "mountain",
     parent: "JM-SR",
     coords: [-76.7119, 18.0933],
-    name: { de: "Catherine's Peak", hu: "Catherine's Peak", ro: "Vârful Catherine", en: "Catherine's Peak",
-image: "/poi-images/catherine-peak-relief-v2.webp"
-},
+    name: { de: "Catherine's Peak", hu: "Catherine's Peak", ro: "Vârful Catherine", en: "Catherine's Peak"},
+    image: "/poi-images/catherine-peak-relief-v2.webp",
     description: { de: "Catherine's Peak ist einer der markantesten Gipfel in den Blue Mountains und eine wichtige Quelle für jamaikanisches Quellwasser. Er bietet spektakuläre Ausblicke auf die Gebirgskette.", hu: "Jelentős csúcs a Blue Mountains-ban.", ro: "Un vârf important în Munții Albaștri.", en: "One of the highest peaks in the Blue Mountains, serving as a landmark and source of pure spring water." },
     facts: {
       de: ["Markanter Gipfel", "Quelle für Mineralwasser", "Teil der Blue Mountains"],
@@ -95,9 +91,8 @@ image: "/poi-images/catherine-peak-relief-v2.webp"
     type: "relief",
     parent: "JM-PO",
     coords: [-76.5, 18.1],
-    name: { de: "Corkscrew Ridge", hu: "Corkscrew-gerinc", ro: "Culmea Corkscrew", en: "Corkscrew Ridge",
-image: "/poi-images/corkscrew-ridge-relief-v2.webp"
-},
+    name: { de: "Corkscrew Ridge", hu: "Corkscrew-gerinc", ro: "Culmea Corkscrew", en: "Corkscrew Ridge"},
+    image: "/poi-images/corkscrew-ridge-relief-v2.webp",
     description: { de: "Der Corkscrew Ridge ist eine schroffe Gebirgskette, die ihren Namen den kurvenreichen Pfaden verdankt, die sich durch das Gelände winden. Er prägt das Relief im Osten.", hu: "Egy kanyargós hegygerinc a Blue Mountains közelében.", ro: "Creasta Corkscrew este o formațiune montană sinuoasă care oferă priveliști panoramice asupra văilor interioare ale insulei.", en: "A steep and winding ridge in the mountains of Jamaica, named for its challenging and narrow paths." },
     facts: {
       de: ["Steile Gebirgskämme", "Spektakuläre Passstraßen", "Herausforderndes Gelände"],
@@ -117,9 +112,8 @@ image: "/poi-images/corkscrew-ridge-relief-v2.webp"
     type: "mountain",
     parent: "JM-SA",
     coords: [-77.3, 18.35],
-    name: { de: "Dry Harbour Mountains", hu: "Dry Harbour-hegység", ro: "Munții Dry Harbour", en: "Dry Harbour Mountains",
-image: "/poi-images/dry-harbour-mountains-relief-v2.webp"
-},
+    name: { de: "Dry Harbour Mountains", hu: "Dry Harbour-hegység", ro: "Munții Dry Harbour", en: "Dry Harbour Mountains"},
+    image: "/poi-images/dry-harbour-mountains-relief-v2.webp",
     description: { de: "Die Dry Harbour Mountains bilden ein Kalksteinplateau im Norden Jamaikas, das durch zahlreiche Höhlen und unterirdische Flussläufe gekennzeichnet ist. Die Region ist geologisch einzigartig.", hu: "Egy hegylánc Saint Ann központjában.", ro: "Munții Dry Harbour formează un platou calcaros vast în partea centrală a Jamaicăi, cunoscut pentru numeroasele sale peșteri.", en: "A prominent limestone mountain range on the north coast, characterized by deep caves and rugged terrain." },
     facts: {
       de: ["Ausgedehntes Kalksteinplateau", "Zahlreiche Karsthöhlen", "Einzigartige Geologie"],
@@ -139,9 +133,8 @@ image: "/poi-images/dry-harbour-mountains-relief-v2.webp"
     type: "mountain",
     parent: "JM-MA",
     coords: [-77.5, 18.05],
-    name: { de: "May Day Mountains", hu: "May Day-hegység", ro: "Munții May Day", en: "May Day Mountains",
-image: "/poi-images/may-day-mountains-relief-v2.webp"
-},
+    name: { de: "May Day Mountains", hu: "May Day-hegység", ro: "Munții May Day", en: "May Day Mountains"},
+    image: "/poi-images/may-day-mountains-relief-v2.webp",
     description: { de: "Die May Day Mountains sind Teil des zentralen Hochlandes und bekannt für ihre kühleren Temperaturen und die fruchtbaren Böden. Sie bilden eine natürliche Barriere.", hu: "A Mandeville környéki hegyvidék.", ro: "Munții May Day sunt dealuri proeminente în parohia Manchester, definind relieful platoului central cu pantele lor verzi.", en: "An interior mountain range in Manchester parish, known for its cool climate and bauxite-rich soil." },
     facts: {
       de: ["Zentrales Hochland", "Kühleres Bergklima", "Fruchtbare Bergregion"],
@@ -161,9 +154,8 @@ image: "/poi-images/may-day-mountains-relief-v2.webp"
     type: "relief",
     parent: "JM-CL",
     coords: [-77.35, 18.0],
-    name: { de: "Clarendon Hills", hu: "Clarendon-dombság", ro: "Dealurile Clarendon", en: "Clarendon Hills",
-image: "/poi-images/clarendon-hills-relief-v2.webp"
-},
+    name: { de: "Clarendon Hills", hu: "Clarendon-dombság", ro: "Dealurile Clarendon", en: "Clarendon Hills"},
+    image: "/poi-images/clarendon-hills-relief-v2.webp",
     description: { de: "Die Clarendon Hills sind eine malerische Hügellandschaft im Zentrum Jamaikas, die für ihren Bauxitabbau und die Landwirtschaft bekannt ist. Sie prägen das Bild der Gemeinde.", hu: "Clarendon északi részének lankás dombjai.", ro: "Dealurile Clarendon sunt un lanț muntos interior care fragmentează peisajul regiunii, oferind un relief accidentat și fertil.", en: "Rolling hills and rugged terrain in central Jamaica, providing a transition between the plains and the mountains." },
     facts: {
       de: ["Zentrum des Bauxitabbaus", "Hügelige Agrarlandschaft", "Teil des zentralen Plateaus"],
@@ -183,9 +175,8 @@ image: "/poi-images/clarendon-hills-relief-v2.webp"
     type: "mountain",
     parent: "JM-ST",
     coords: [-76.5, 17.95],
-    name: { de: "St. Thomas Mountains", hu: "St. Thomas-hegység", ro: "Munții St. Thomas", en: "St. Thomas Mountains",
-image: "/poi-images/st-thomas-mountains-relief-v2.webp"
-},
+    name: { de: "St. Thomas Mountains", hu: "St. Thomas-hegység", ro: "Munții St. Thomas", en: "St. Thomas Mountains"},
+    image: "/poi-images/st-thomas-mountains-relief-v2.webp",
     description: { de: "Die Berge von St. Thomas im Südosten Jamaikas sind für ihr steiles Gelände und die dichten Nebelwälder bekannt. Sie bieten unberührte Naturerlebnisse.", hu: "Hegyvidéki régió Jamaica délkeleti részén.", ro: "Munții St. Thomas reprezintă extremitatea estică a lanțului muntos Blue Mountains, cu versanți ce coboară abrupt spre mare.", en: "Rugged and relatively unexplored mountains in eastern Jamaica, bordering the famous Blue Mountain range." },
     facts: {
       de: ["Steile Bergflanken", "Unberührte Nebelwälder", "Bedeutende Wasserscheide"],
@@ -205,9 +196,8 @@ image: "/poi-images/st-thomas-mountains-relief-v2.webp"
     type: "forest",
     parent: "JM-SR",
     coords: [-76.68, 18.08],
-    name: { de: "Holywell Wald", hu: "Holywell-erdő", ro: "Pădurea Holywell", en: "Holywell Forest",
-image: "/poi-images/holywell-forest-relief-v2.webp"
-},
+    name: { de: "Holywell Wald", hu: "Holywell-erdő", ro: "Pădurea Holywell", en: "Holywell Forest"},
+    image: "/poi-images/holywell-forest-relief-v2.webp",
     description: { de: "Der Holywell Forest liegt hoch in den Blue Mountains und bietet ein kühles Klima inmitten tropischer Vegetation. Er ist ein beliebtes Ziel für Naturliebhaber.", hu: "Sűrű köderdő a Blue Mountains-ban.", ro: "O pădure de ceață densă în Munții Albaștri.", en: "A high-altitude tropical forest reserve in the Blue Mountains, offering cool temperatures and endemic flora." },
     facts: {
       de: ["Kühles Bergklima", "Teil des Nationalparks", "Vielfältige Farnwälder"],
@@ -228,9 +218,8 @@ image: "/poi-images/holywell-forest-relief-v2.webp"
     type: "relief",
     parent: "JM-SR",
     coords: [-76.69, 18.07],
-    name: { de: "Hardwar Gap", hu: "Hardwar Gap", ro: "Hardwar Gap", en: "Hardwar Gap",
-image: "/poi-images/hardwar-gap-relief-v2.webp"
-},
+    name: { de: "Hardwar Gap", hu: "Hardwar Gap", ro: "Hardwar Gap", en: "Hardwar Gap"},
+    image: "/poi-images/hardwar-gap-relief-v2.webp",
     description: { de: "Hardwar Gap ist ein markanter Gebirgspass in den Blue Mountains, der für seine spektakulären Aussichten und seine reiche Vogelwelt berühmt ist.", hu: "Egy magas hegyi hágó a Blue Mountains-ban.", ro: "O trecătoare montană înaltă în Munții Albaștri.", en: "A famous mountain pass in the Blue Mountains, known for its dramatic mist, lush vegetation, and cooler climate." },
     facts: {
       de: ["Höchster befahrbarer Pass", "Zentrum der Vogelbeobachtung", "Panorama über Kingston"],
@@ -250,9 +239,8 @@ image: "/poi-images/hardwar-gap-relief-v2.webp"
     type: "relief",
     parent: "JM-ST",
     coords: [-76.6, 17.9],
-    name: { de: "Yallahs Tal", hu: "Yallahs-völgy", ro: "Valea Yallahs", en: "Yallahs Valley",
-image: "/poi-images/yallahs-valley-relief-v2.webp"
-},
+    name: { de: "Yallahs Tal", hu: "Yallahs-völgy", ro: "Valea Yallahs", en: "Yallahs Valley"},
+    image: "/poi-images/yallahs-valley-relief-v2.webp",
     description: { de: "Das Yallahs-Tal ist ein tief eingeschnittenes Flusstal, das durch dramatische Erosionslandschaften und fruchtbare Schwemmböden besticht.", hu: "Egy mély völgy Jamaica keleti részén.", ro: "Valea Yallahs este o depresiune fertilă și pitorească, modelată de cursul râului Yallahs care coboară din Blue Mountains.", en: "A fertile valley in eastern Jamaica, shaped by the Yallahs River and surrounded by steep mountain slopes." },
     facts: {
       de: ["Tiefes Erosionstal", "Fruchtbarer Flusslauf", "Dramatische Bergkulisse"],
@@ -272,9 +260,8 @@ image: "/poi-images/yallahs-valley-relief-v2.webp"
     type: "mountain",
     parent: "JM-HA",
     coords: [-78.1, 18.4],
-    name: { de: "Hügel von Hanover", hu: "Hanover-dombság", ro: "Dealurile Hanover", en: "Hills of Hanover",
-image: "/poi-images/hills-of-hanover-relief-v2.webp"
-},
+    name: { de: "Hügel von Hanover", hu: "Hanover-dombság", ro: "Dealurile Hanover", en: "Hills of Hanover"},
+    image: "/poi-images/hills-of-hanover-relief-v2.webp",
     description: { de: "Die sanfte Hügellandschaft im Westen Jamaikas.", hu: "Jamaica nyugati részének lankás dombvidéke.", ro: "Dealurile Hanover domină peisajul extremității vestice a insulei, oferind un relief vălurit cu vedere spre golfurile cristaline.", en: "Rolling hills and coastal ridges in western Jamaica, known for their lush green landscapes and sea views." },
     facts: {
       de: ["Grün und hügelig", "Landwirtschaftlich geprägt", "Sanfte Steigungen", "Schöne Aussichten"],
@@ -296,9 +283,8 @@ image: "/poi-images/hills-of-hanover-relief-v2.webp"
     type: "mountain",
     parent: "JM-SC",
     coords: [-77.1, 18.2],
-    name: { de: "Mount Diabolo", hu: "Mount Diabolo", ro: "Mount Diabolo", en: "Mount Diabolo",
-image: "/poi-images/mount-diabolo-relief-v2.webp"
-},
+    name: { de: "Mount Diabolo", hu: "Mount Diabolo", ro: "Mount Diabolo", en: "Mount Diabolo"},
+    image: "/poi-images/mount-diabolo-relief-v2.webp",
     description: { de: "Mount Diabolo ist ein bekannter Gipfel, über den die Hauptstraße in den Norden führt. Er ist berühmt für seine steilen Serpentinen und weiten Ausblicke.", hu: "Egy markáns hegység Saint Catherine-ben.", ro: "Mount Diabolo este un masiv muntos central care trebuie traversat pentru a ajunge din sudul în nordul insulei.", en: "A prominent mountain pass and peak in central Jamaica, offering steep climbs and expansive views of the interior." },
     facts: {
       de: ["Wichtiger Verkehrsknoten", "Markante Kalksteinformation", "Aussichtspunkt über Ewarton"],
@@ -324,9 +310,8 @@ image: "/poi-images/mount-diabolo-relief-v2.webp"
     type: "relief",
     parent: "JM-SC",
     coords: [-77.0, 18.1],
-    name: { de: "St. Catherine Hügel", hu: "St. Catherine-dombság", ro: "Dealurile St. Catherine", en: "St. Catherine Hills",
-image: "/poi-images/st-catherine-hills-relief-v2.webp"
-},
+    name: { de: "St. Catherine Hügel", hu: "St. Catherine-dombság", ro: "Dealurile St. Catherine", en: "St. Catherine Hills"},
+    image: "/poi-images/st-catherine-hills-relief-v2.webp",
     description: { de: "Die Hügel von St. Catherine umschließen das Liguanea-Becken und bieten eine Grenze zur Hauptstadtregion. Sie sind geprägt von Kalksteinformationen.", hu: "A Spanish Town környéki dombvidék.", ro: "Dealurile St. Catherine înconjoară câmpiile sudice, oferind o barieră naturală și un teren accidentat deasupra orașului Spanish Town.", en: "A series of rugged limestone hills in central Jamaica, providing a dramatic backdrop to the southern plains." },
     facts: {
       de: ["Kalkstein-Hügellandschaft", "Rand der Hauptstadtregion", "Artenreiche Trockenwälder"],
@@ -346,9 +331,8 @@ image: "/poi-images/st-catherine-hills-relief-v2.webp"
     type: "relief",
     parent: "JM-TR",
     coords: [-77.6, 18.3],
-    name: { de: "Trelawny Hochland", hu: "Trelawny-felföld", ro: "Podișul Trelawny", en: "Trelawny Highlands",
-image: "/poi-images/trelawny-highlands-relief-v2.webp"
-},
+    name: { de: "Trelawny Hochland", hu: "Trelawny-felföld", ro: "Podișul Trelawny", en: "Trelawny Highlands"},
+    image: "/poi-images/trelawny-highlands-relief-v2.webp",
     description: { de: "Das Hochland von Trelawny ist das Herz des Cockpit Country, einer einzigartigen Karstlandschaft mit tiefen Dolinen und steilen Hügeln.", hu: "A felföld Trelawny északi részén.", ro: "Podișul din nordul Trelawny.", en: "The rugged and relatively inaccessible interior of Trelawny, part of the famous Cockpit Country's karst landscape." },
     facts: {
       de: ["Zentrum des Cockpit Country", "Einzigartige Karstgeologie", "Heimat der Maroons"],
@@ -368,9 +352,8 @@ image: "/poi-images/trelawny-highlands-relief-v2.webp"
     type: "mountain",
     parent: "JM-SA",
     coords: [-77.2, 18.3],
-    name: { de: "St. Ann Hügel", hu: "St. Ann-dombság", ro: "Dealurile St. Ann", en: "St. Ann Hills",
-image: "/poi-images/st-ann-hills-relief-v2.webp"
-},
+    name: { de: "St. Ann Hügel", hu: "St. Ann-dombság", ro: "Dealurile St. Ann", en: "St. Ann Hills"},
+    image: "/poi-images/st-ann-hills-relief-v2.webp",
     description: { de: "Die Hügel von St. Ann, der 'Garten Jamaikas', bestechen durch grüne Pracht und zahlreiche Wasserfälle. Die Region ist ein Zentrum des Tourismus.", hu: "Lankás táj St. Ann-ben.", ro: "Dealurile St. Ann sunt renumite pentru frumusețea lor verde și cascadele care izvorăsc din structurile lor calcaroase.", en: "Scenic rolling hills on the north coast, famous for their lush vegetation, waterfalls, and bauxite-rich plateaus." },
     facts: {
       de: ["Grüne Hügellandschaft", "Bekannt für Wasserfälle", "Zentrum des Garten-Paradieses"],
@@ -390,9 +373,8 @@ image: "/poi-images/st-ann-hills-relief-v2.webp"
     type: "relief",
     parent: "JM-CL",
     coords: [-77.4, 18.1],
-    name: { de: "Clarendon Tal", hu: "Clarendon-völgy", ro: "Valea Clarendon", en: "Clarendon Valley",
-image: "/poi-images/claren-valley-relief-v2.webp"
-},
+    name: { de: "Clarendon Tal", hu: "Clarendon-völgy", ro: "Valea Clarendon", en: "Clarendon Valley"},
+    image: "/poi-images/claren-valley-relief-v2.webp",
     description: { de: "Das Claren Valley ist ein weites, fruchtbares Tal, das von schützenden Bergrücken umgeben ist und ideal für den großflächigen Agraranbau genutzt wird.", hu: "Egy völgy Clarendonban.", ro: "Valea Claren este o zonă interioară liniștită, caracterizată prin terenuri agricole plane înconjurate de versanți muntoși.", en: "A fertile interior valley surrounded by hills, known for its agricultural productivity and rural beauty." },
     facts: {
       de: ["Weites Agrartal", "Zentrum des Obstanbaus", "Geschützte Tallage"],
@@ -412,9 +394,8 @@ image: "/poi-images/claren-valley-relief-v2.webp"
     type: "relief",
     parent: "JM-MA",
     coords: [-77.5, 18.0],
-    name: { de: "Manchester Plateau", hu: "Manchester-fennsík", ro: "Podișul Manchester", en: "Manchester Plateau",
-image: "/poi-images/manchester-plateau-relief-v2.webp"
-},
+    name: { de: "Manchester Plateau", hu: "Manchester-fennsík", ro: "Podișul Manchester", en: "Manchester Plateau"},
+    image: "/poi-images/manchester-plateau-relief-v2.webp",
     description: { de: "Das Manchester-Plateau liegt auf etwa 600 Metern Höhe und bietet ein angenehm kühles Klima. Es prägt das zentrale Hochland Jamaikas.", hu: "Egy fennsík Manchester felföldjén.", ro: "Platoul Manchester este o regiune înaltă situată în centrul Jamaicăi, cunoscută pentru clima sa răcoroasă și solul roșu de bauxită.", en: "A high-altitude plateau in central Jamaica, known for its cool climate, red soil, and bauxite mining industry." },
     facts: {
       de: ["Hochgelegenes Plateau", "Kühles Wohnklima", "Wichtige Bauxitreserven"],
@@ -434,9 +415,8 @@ image: "/poi-images/manchester-plateau-relief-v2.webp"
     type: "relief",
     parent: "JM-SE",
     coords: [-77.8, 17.9],
-    name: { de: "St. Elizabeth Ebenen", hu: "St. Elizabeth-síkság", ro: "Câmpiile St. Elizabeth", en: "St. Elizabeth Plains",
-image: "/poi-images/st-elizabeth-plains-relief-v2.webp"
-},
+    name: { de: "St. Elizabeth Ebenen", hu: "St. Elizabeth-síkság", ro: "Câmpiile St. Elizabeth", en: "St. Elizabeth Plains"},
+    image: "/poi-images/st-elizabeth-plains-relief-v2.webp",
     description: { de: "Die Ebenen von St. Elizabeth gelten als die 'Speisekammer Jamaikas' und sind dank intensiver Bewässerung höchst produktiv.", hu: "A kiterjedt déli síkságok.", ro: "Câmpiile St. Elizabeth sunt 'coșul de pâine' al Jamaicăi, o zonă vastă și relativ plană, ideală pentru marea agricultură.", en: "The broad southern plains of Saint Elizabeth, known as Jamaica's breadbasket due to intensive agriculture." },
     facts: {
       de: ["Wichtigstes Anbaugebiet", "Flache Küstenebene", "Zentrum der Gemüseproduktion"],
@@ -456,9 +436,8 @@ image: "/poi-images/st-elizabeth-plains-relief-v2.webp"
     type: "relief",
     parent: "JM-CL",
     coords: [-77.15, 17.75],
-    name: { de: "Portland Ridge", hu: "Portland-gerinc", ro: "Culmea Portland", en: "Portland Ridge",
-image: "/poi-images/portland-ridge-relief-v2.webp"
-},
+    name: { de: "Portland Ridge", hu: "Portland-gerinc", ro: "Culmea Portland", en: "Portland Ridge"},
+    image: "/poi-images/portland-ridge-relief-v2.webp",
     description: { de: "Der Portland Ridge ist eine markante Kalksteinformation an der Südküste Jamaikas, die weit in das Karibische Meer ragt. Er ist bekannt für seine raue Küstenlandschaft.", hu: "Egy hegyvonulat Clarendon déli részén.", ro: "Portland Ridge este o proeminență calcaroasă pe coasta de sud, formând cel mai sudic punct al insulei Jamaica.", en: "A prominent limestone ridge on the south coast, forming the southern tip of Jamaica and featuring unique dry forests." },
     facts: {
       de: ["Südlichster Punkt Jamaikas", "Kalkstein-Küstengebirge", "Artenreiche Trockenwälder"],
@@ -478,9 +457,8 @@ image: "/poi-images/portland-ridge-relief-v2.webp"
     type: "relief",
     parent: "JM-SC",
     coords: [-76.9, 17.85],
-    name: { de: "Hellshire Hills", hu: "Hellshire-dombság", ro: "Dealurile Hellshire", en: "Hellshire Hills",
-image: "/poi-images/hellshire-hills-relief-v2.webp"
-},
+    name: { de: "Hellshire Hills", hu: "Hellshire-dombság", ro: "Dealurile Hellshire", en: "Hellshire Hills"},
+    image: "/poi-images/hellshire-hills-relief-v2.webp",
     description: { de: "Die Hellshire Hills sind ein ausgedehntes Kalksteinplateau nahe Kingston, das eine der letzten intakten tropischen Trockenwaldregionen der Welt beherbergt.", hu: "Egy száraz, mészkőben gazdag dombvidék.", ro: "Dealurile Hellshire sunt un masiv calcaros arid, protejând unele dintre ultimele păduri tropicale uscate virgine din lume.", en: "A rugged limestone area on the south coast, known for its dry tropical forest and proximity to popular beaches." },
     facts: {
       de: ["Tropischer Trockenwald", "Lebensraum der Jamaika-Leguane", "Nahe der Hauptstadt Kingston"],
@@ -500,9 +478,8 @@ image: "/poi-images/hellshire-hills-relief-v2.webp"
     type: "mountain",
     parent: "JM-PO",
     coords: [-76.55, 18.2],
-    name: { de: "Johannesburg Mountain", hu: "Johannesburg-hegy", ro: "Muntele Johannesburg", en: "Johannesburg Mountain",
-image: "/poi-images/johannesburg-mountain-relief-v2.webp"
-},
+    name: { de: "Johannesburg Mountain", hu: "Johannesburg-hegy", ro: "Muntele Johannesburg", en: "Johannesburg Mountain"},
+    image: "/poi-images/johannesburg-mountain-relief-v2.webp",
     description: { de: "Der Johannesburg Mountain ist ein markanter Gipfel im Westen der Insel, der durch sein zerklüftetes Gelände und die dichte Bewaldung besticht.", hu: "Egy csúcs a sziget keleti részén.", ro: "Muntele Johannesburg este un vârf proeminent în regiunea vestică, oferind un punct de reper vizual pentru întreaga parohie Westmoreland.", en: "An interior mountain peak in western Jamaica, contributing to the rugged landscape of the island's central range." },
     facts: {
       de: ["Markante Erhebung im Westen", "Zerklüftetes Waldgelände", "Panorama-Aussichtspunkt"],
@@ -522,9 +499,8 @@ image: "/poi-images/johannesburg-mountain-relief-v2.webp"
     type: "mountain",
     parent: "JM-PO",
     coords: [-76.58, 18.1],
-    name: { de: "Blue Mountain Peak Nord", hu: "Blue Mountain Peak északi rész", ro: "Blue Mountain Peak Nord", en: "Blue Mountain Peak North",
-image: "/poi-images/blue-mountain-peak-north-relief-v2.webp"
-},
+    name: { de: "Blue Mountain Peak Nord", hu: "Blue Mountain Peak északi rész", ro: "Blue Mountain Peak Nord", en: "Blue Mountain Peak North"},
+    image: "/poi-images/blue-mountain-peak-north-relief-v2.webp",
     description: { de: "Die Nordseite des Blue Mountain Peak ist durch extrem steile Hänge und eine nahezu undurchdringliche, feuchte Bergvegetation gekennzeichnet.", hu: "A Blue Mountain Peak északi része.", ro: "Versantul nordic al Blue Mountain Peak este zona cea mai sălbatică și mai umedă a masivului, acoperită de păduri de nori.", en: "The northern slopes of Jamaica's highest peak, characterized by dense rainforest and high annual rainfall." },
     facts: {
       de: ["Steile Nordflanken", "Unberührter Nebelwald", "Teil des UNESCO-Welterbes"],
@@ -544,9 +520,8 @@ image: "/poi-images/blue-mountain-peak-north-relief-v2.webp"
     type: "mountain",
     parent: "JM-CL",
     coords: [-77.3, 18.05],
-    name: { de: "Mocho Mountains", hu: "Mocho-hegység", ro: "Munții Mocho", en: "Mocho Mountains",
-image: "/poi-images/mocho-mountains-relief-v2.webp"
-},
+    name: { de: "Mocho Mountains", hu: "Mocho-hegység", ro: "Munții Mocho", en: "Mocho Mountains"},
+    image: "/poi-images/mocho-mountains-relief-v2.webp",
     description: { de: "Die Mocho Mountains im Zentrum Jamaikas sind geprägt von tiefen Tälern und sanften Bergkuppen, die für den Bergbau und die Landwirtschaft genutzt werden.", hu: "Egy hegylánc Clarendon északi részén.", ro: "Munții Mocho sunt un lanț muntos central mai puțin cunoscut, esențial pentru captarea apei în inima parohiei Clarendon.", en: "A central mountain range in Clarendon, known for its rugged limestone terrain and bauxite deposits." },
     facts: {
       de: ["Zentrales Bergland", "Wichtige Bauxitlagerstätten", "Hügelige Agrarlandschaft"],

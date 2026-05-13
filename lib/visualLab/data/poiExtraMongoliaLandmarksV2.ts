@@ -10,9 +10,8 @@ export const poiExtraMongoliaLandmarksV2: POI[] = [
       de: "Khongoryn Els",
       hu: "Khongoryn Els",
       ro: "Khongoryn Els",
-      en: "Khongoryn Els",
-image: "/poi-images/khongoryn-els-landmarks-v2.webp"
-},
+      en: "Khongoryn Els"},
+    image: "/poi-images/khongoryn-els-landmarks-v2.webp",
     description: {
       de: "Khongoryn Els, auch als 'Singender Sand' bekannt, sind die größten und spektakulärsten Sanddünen der Wüste Gobi in der Mongolei. Wenn der Wind den Sand bewegt, entsteht ein unverwechselbares summendes Geräusch.",
       hu: "A Khongoryn Els, vagyis az 'Éneklő Homokdűnék', a Góbi sivatag legmagasabb és leglátványosabb dűnéi Mongóliában. Amikor a szél fúj, a mozgó homok egyedi búgó hangot ad ki.",
@@ -44,7 +43,20 @@ image: "/poi-images/khongoryn-els-landmarks-v2.webp"
         "The sound of the sand resembles an airplane taking off.",
         "A small stream called Khongoriin Gol flows at the base."
       ]
-    }, image: "/poi-images/khongoryn-els-landmarks-v2.webp"},
+    }, image: "/poi-images/khongoryn-els-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Khongoryn Els ist eine der größten Sanddünen der Mongolei, gelegen in der Wüste Gobi. Die Dünen erstrecken sich über 180 Kilometer Länge und erreichen Höhen von bis zu 300 Metern. Sie sind bekannt für ihren „singenden Sand“, der bei Wind ein dröhnendes Geräusch erzeugt. Die Region ist ein beliebtes Touristenziel für Wanderungen und Kameltrekking. Die Dünen sind Teil des Gobi-Gurvansaikhan-Nationalparks. Die umliegende Landschaft umfasst Oasen und Felsformationen. Die Tierwelt umfasst Kamele, Ziegen und seltene Vogelarten.",
+      hu: "A Khongoryn Els a Góbi-sivatag egyik legnagyobb homokdűne-rendszere, amely 180 km hosszan és 300 méter magasságig terjed. Híres az „éneklő homok” jelenségről, amikor a szél hatására a dűnék mély hangot adnak ki. A terület népszerű turisztikai célpont, ahol tevetúrák és túrázás lehetséges. A Gobi Gurvansaikhan Nemzeti Park része. A környék oázisokkal és sziklás képződményekkel tarkított. Gazdag állatvilág jellemzi: tevék, kecskék, ragadozó madarak.",
+      ro: "Khongoryn Els este unul dintre cele mai mari sisteme de dune de nisip din Mongolia, situat în deșertul Gobi. Dunele se întind pe 180 km și ating înălțimi de până la 300 m. Sunt renumite pentru „nisipul cântător” care produce un sunet profund în vânt. Zona este o destinație turistică populară pentru drumeții și călătorii cu cămile. Face parte din Parcul Național Gobi Gurvansaikhan. Peisajul include oaze și formațiuni stâncoase. Fauna include cămile, capre și păsări rare.",
+      en: "Khongoryn Els is one of Mongolia's largest sand dune systems in the Gobi Desert, stretching 180 km and reaching heights of up to 300 m. Famous for its 'singing sand' phenomenon, the dunes produce a low rumble in the wind. It is a popular tourist destination for hiking and camel trekking. The dunes are part of Gobi Gurvansaikhan National Park. The surrounding area features oases and rocky outcrops. Wildlife includes Bactrian camels, ibex, and rare birds.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Dünen: 180 km", "Maximale Höhe: 300 Meter", "Teil des Gobi-Gurvansaikhan-Nationalparks", "Jährliche Touristen: 50.000", "Höchste Düne: „Singender Sand“", "Entfernung zu Ulaanbaatar: 700 km"],
+      hu: ["A dűnék szélessége: 10-20 km", "A homok hőmérséklete nyáron: akár 60°C", "Az éneklő homok frekvenciája: 100 Hz", "A park területe: 5.000 km²", "A dűnék életkora: több ezer év", "Látogatók száma évente: 50.000"],
+      ro: ["Lungimea dunelor: 180 km", "Înălțime maximă: 300 m", "Parte a Parcului Național Gobi Gurvansaikhan", "Vizitatori anuali: 50.000", "Fenomen: nisip cântător", "Distanța până la Ulaanbaatar: 700 km"],
+      en: ["Length: 180 km", "Max height: 300 m", "Part of Gobi Gurvansaikhan National Park", "Annual visitors: 50,000", "Singing sand phenomenon", "Distance from Ulaanbaatar: 700 km"],
+    },
+  },
   {
     id: "bayanzag-flaming-cliffs-landmarks-v2",
     type: "landmark",
@@ -54,9 +66,8 @@ image: "/poi-images/khongoryn-els-landmarks-v2.webp"
       de: "Flammende Klippen (Bajandsag)",
       hu: "Lángoló Sziklák (Bayanzag)",
       ro: "Stâncile Înflăcărate (Bayanzag)",
-      en: "Flaming Cliffs (Bayanzag)",
-image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp"
-},
+      en: "Flaming Cliffs (Bayanzag)"},
+    image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp",
     description: {
       de: "Die Flammenden Klippen, mongolisch Bajandsag, sind eine rötliche Sandsteinformation in der Wüste Gobi. Sie erhielten ihren Namen durch die intensiv rote Farbe, die besonders bei Sonnenuntergang leuchtet.",
       hu: "A Lángoló Sziklák, mongolul Bayanzag, egy vöröses homokkő-képződmény a Góbi sivatagban. Nevüket az intenzív vörös színükről kapták, amely különösen naplemente idején ragyog.",
@@ -88,7 +99,20 @@ image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp"
         "The Mongolian name translates to 'rich in saxaul trees'.",
         "It is one of the most important paleontological sites on Earth."
       ]
-    }, image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp"},
+    }, image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die brennenden Klippen von Bayanzag im Süden der Wüste Gobi sind eine bedeutende paläontologische Stätte. Hier wurden die ersten Dinosaurier-Eier der Welt entdeckt. Die leuchtend roten Sandsteinformationen entstanden vor etwa 70 Millionen Jahren durch Erosion. Die Region ist bekannt für ihre Fossillagerstätten aus der Oberkreidezeit. Wissenschaftler fanden hier Überreste von Protoceratops und Velociraptor. Die Klippen erstrecken sich über mehrere Kilometer und bieten einen beeindruckenden Anblick bei Sonnenuntergang.",
+      hu: "A Bayanzag-i lángoló sziklák a Góbi-sivatag déli részén találhatók, és a világ egyik legfontosabb dinoszaurusz-lelőhelyei. A terület a „Tűzpiros sziklák” nevet kapta az izzó vörös homokkő formációk miatt. Az első dinoszaurusz-tojásokat itt fedezték fel 1923-ban. A sziklák 70 millió éves üledékes kőzetekből állnak. A helyszín felfedezése forradalmasította a paleontológiát. A látogatók tanúi lehetnek a sivatagi táj lenyűgöző látványának.",
+      ro: "Stâncile Arzătoare din Bayanzag, situate în sudul Deșertului Gobi, sunt un sit paleontologic de importanță mondială. Aici au fost descoperite primele ouă de dinozaur din lume, în anul 1923. Formațiunile de gresie roșie, modelate de eroziune de-a lungul a 70 de milioane de ani, creează un peisaj spectaculos. Zona este cunoscută pentru fosilele din Cretacicul Superior, inclusiv Protoceratops și Velociraptor. Stâncile se întind pe o suprafață de aproximativ 15 kilometri, fiind un punct de atracție major pentru cercetători și turiști.",
+      en: "The Flaming Cliffs, known as Bayanzag, are a renowned paleontological site in the Mongolian Gobi Desert. They gained fame in 1923 when the first dinosaur eggs were discovered here. The red sandstone formations date back to the Late Cretaceous period, approximately 70 million years ago. Erosion has sculpted the cliffs into striking shapes, glowing vividly at sunset. This area is rich in fossils, including Protoceratops and Velociraptor. It spans several kilometers and is a key destination for both scientists and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Erste Dinosaurier-Eier der Welt entdeckt 1923", "Alter der Sandsteinformationen: ca. 70 Millionen Jahre", "Länge der Klippen: ca. 15 km", "Höhe der Klippen: bis zu 30 m", "Fossilien: Protoceratops, Velociraptor", "Region: südliche Gobi, Mongolei"],
+      hu: ["Első dinoszaurusztojások felfedezése: 1923", "Homokkő formációk kora: kb. 70 millió év", "Sziklák hossza: kb. 15 km", "Sziklák magassága: akár 30 m", "Fosszíliák: Protoceratops, Velociraptor", "Terület: dél-góbi régió, Mongólia"],
+      ro: ["Primele ouă de dinozaur descoperite în 1923", "Vârsta formațiunilor de gresie: 70 de milioane de ani", "Lungimea stâncilor: aprox. 15 km", "Înălțimea stâncilor: până la 30 m", "Fosile: Protoceratops, Velociraptor", "Locație: deșertul Gobi, sudul Mongoliei"],
+      en: ["First dinosaur eggs discovered in 1923", "Sandstone formations date to 70 million years ago", "Cliffs extend approximately 15 km", "Height up to 30 meters", "Fossils found: Protoceratops, Velociraptor", "Located in southern Gobi Desert, Mongolia"],
+    },
+  },
   {
     id: "yolyn-am-landmarks-v2",
     type: "landmark",
@@ -98,9 +122,8 @@ image: "/poi-images/bayanzag-flaming-cliffs-landmarks-v2.webp"
       de: "Geierschlucht (Yolyn Am)",
       hu: "Keselyűk Völgye (Yolyn Am)",
       ro: "Valea Vulturilor (Yolyn Am)",
-      en: "Valley of the Eagles (Yolyn Am)",
-image: "/poi-images/yolyn-am-landmarks-v2.webp"
-},
+      en: "Valley of the Eagles (Yolyn Am)"},
+    image: "/poi-images/yolyn-am-landmarks-v2.webp",
     description: {
       de: "Yolyn Am, auch als Geierschlucht bekannt, ist eine tiefe und enge Schlucht im Gurwan-Saichan-Nationalpark. Ungewöhnlich für die Gobi-Wüste, bewahrt die Schlucht oft tiefes Eis, das bis in den Sommer hinein erhalten bleibt.",
       hu: "A Yolyn Am, vagyis a Keselyűk Völgye egy mély és szűk szurdok a Gurvan Saikhan Nemzeti Parkban. A Góbi sivataghoz képest szokatlan módon, a szurdok mélyén gyakran nyárig megmarad a jég.",
@@ -132,7 +155,20 @@ image: "/poi-images/yolyn-am-landmarks-v2.webp"
         "The area was originally established as a bird sanctuary.",
         "In some winters, the ice can freeze up to several meters thick."
       ]
-    }, image: "/poi-images/yolyn-am-landmarks-v2.webp"},
+    }, image: "/poi-images/yolyn-am-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Yolyn Am, auch als Tal der Adler bekannt, ist eine enge Schlucht im Gobi-Gurvansaikhan-Nationalpark. Charakteristisch sind die tiefen Eisschichten, die selbst im Sommer nicht vollständig schmelzen. Die Schlucht entstand durch jahrtausendelange Wassererosion. Sie bietet Lebensraum für zahlreiche Vogelarten, darunter Bartgeier und Steinadler. Die maximale Tiefe der Schlucht beträgt etwa 200 Meter. Die Umgebung ist geprägt von steilen Felswänden und einer einzigartigen Flora.",
+      hu: "A Yolyn Am, vagyis a Sasok völgye egy szurdok a Góbi-Gurvansaikhan Nemzeti Parkban. Híres a nyár végéig megmaradó jégrétegeiről. A szurdok mélysége eléri a 200 métert. A terület fontos madárélőhely, ahol hegyi sasok és fakókeselyűk élnek. A jégképződést a keskeny szurdok árnyékolása és a hideg levegő megrekedése teszi lehetővé. A völgy népszerű túracélpont.",
+      ro: "Valea Yolyn Am, cunoscută și sub numele de Valea Vulturilor, este o cheie îngustă situată în Parcul Național Gobi Gurvansaikhan. Este renumită pentru straturile de gheață care persistă până la sfârșitul verii. Cheile au fost formate de eroziunea apei de-a lungul a milenii, atingând adâncimi de până la 200 de metri. Zona găzduiește o faună variată, inclusiv vulturi și zăgani. Gheața se menține datorită umbririi pereților înalți și a curenților reci.",
+      en: "Yolyn Am, or Valley of the Eagles, is a narrow gorge within Gobi Gurvansaikhan National Park. It is famous for its thick ice layers that last well into summer, sometimes until August. The gorge reaches depths of about 200 meters, carved by water erosion over millennia. It is a key habitat for birds of prey like the bearded vulture and golden eagle. The ice persists due to the gorge's orientation and cold air trapping. It is a popular hiking destination.",
+    },
+    factsAdvanced: {
+      de: ["Tiefe der Schlucht: bis zu 200 m", "Eisschichten bestehen bis August", "Länge des Tals: ca. 10 km", "Höhenlage: ca. 2.600 m über dem Meeresspiegel", "Vogelarten: Bartgeier, Steinadler", "Nationalpark: Gobi-Gurvansaikhan, 1993 gegründet"],
+      hu: ["Szurdok mélysége: akár 200 m", "Jégrétegek augusztusig maradnak", "Völgy hossza: kb. 10 km", "Tengerszint feletti magasság: 2.600 m", "Madárfajok: fakókeselyű, hegyi sas", "Nemzeti park: Góbi-Gurvansaikhan (1993)"],
+      ro: ["Adâncimea cheii: până la 200 m", "Stratul de gheață persistă până în august", "Lungimea văii: aprox. 10 km", "Altitudine: 2.600 m deasupra nivelului mării", "Specii de păsări: zăgan, vultur de munte", "Parcul Național Gobi Gurvansaikhan, înființat în 1993"],
+      en: ["Gorge depth up to 200 meters", "Ice persists until August", "Valley length approximately 10 km", "Elevation: 2,600 meters above sea level", "Bird species: bearded vulture, golden eagle", "National park established in 1993"],
+    },
+  },
   {
     id: "turtle-rock-landmarks-v2",
     type: "landmark",
@@ -142,9 +178,8 @@ image: "/poi-images/yolyn-am-landmarks-v2.webp"
       de: "Schildkrötenfelsen (Melkhii Khad)",
       hu: "Teknős-szikla (Melkhii Khad)",
       ro: "Stânca Țestoasă (Melkhii Khad)",
-      en: "Turtle Rock (Melkhii Khad)",
-image: "/poi-images/turtle-rock-landmarks-v2.webp"
-},
+      en: "Turtle Rock (Melkhii Khad)"},
+    image: "/poi-images/turtle-rock-landmarks-v2.webp",
     description: {
       de: "Der Schildkrötenfelsen ist eine imposante Granitfelsformation im Gorkhi-Terelj-Nationalpark, die natürlich die Form einer riesigen Schildkröte angenommen hat. Er ist ein beliebtes Fotomotiv und ein Symbol des Parks.",
       hu: "A Teknős-szikla egy lenyűgöző gránit sziklaképződmény a Gorkhi-Terelj Nemzeti Parkban, amely természetes módon egy hatalmas teknős formáját öltötte. Kedvelt fotótéma és a park egyik szimbóluma.",
@@ -176,7 +211,20 @@ image: "/poi-images/turtle-rock-landmarks-v2.webp"
         "A steep path leads to a small crevice inside the rock.",
         "The area around the rock is surrounded by alpine meadows."
       ]
-    }, image: "/poi-images/turtle-rock-landmarks-v2.webp"},
+    }, image: "/poi-images/turtle-rock-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Turtle Rock, auf Mongolisch Melkhii Khad, ist eine bizarre Felsformation im Gobi-Gurvansaikhan-Nationalpark. Die Form erinnert an eine Schildkröte, daher der Name. Entstanden durch jahrtausendelange Wind- und Wassererosion aus rotem Sandstein. Die Höhe beträgt etwa 10 Meter. Es ist ein beliebtes Fotomotiv und Wahrzeichen der Region. Die Umgebung ist trocken und felsig, typisch für die Gobi.",
+      hu: "A Teknősbéka-szikla (Melkhii Khad) egy különleges sziklaformáció a Góbi-Gurvansaikhan Nemzeti Parkban. Nevét a teknősbékához hasonló alakjáról kapta. A vörös homokkőből álló szikla magassága körülbelül 10 méter. A szél és víz eróziója formálta évmilliók alatt. A látogatók kedvelt fényképezőhelye. A környék sivatagos, kopár táj.",
+      ro: "Stânca Țestoasă, cunoscută în mongolă ca Melkhii Khad, este o formațiune stâncoasă neobișnuită în Parcul Național Gobi Gurvansaikhan. Forma sa amintește de o broască țestoasă, de unde și numele. Este compusă din gresie roșie, modelată de eroziunea eoliană și hidrică de-a lungul a milioane de ani. Are o înălțime de aproximativ 10 metri. Este un simbol al regiunii și un loc popular pentru fotografii.",
+      en: "Turtle Rock, known as Melkhii Khad, is a distinctive rock formation in Gobi Gurvansaikhan National Park. Its shape resembles a turtle, created by centuries of wind and water erosion on red sandstone. It stands about 10 meters high. It is a popular photographic landmark and a symbol of the Gobi region. The surrounding landscape is arid and rocky.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 10 m", "Material: roter Sandstein", "Entstehung durch Erosion", "Lage: Gobi-Gurvansaikhan-Nationalpark", "Geschätztes Alter: mehrere Millionen Jahre", "Umfang: ca. 30 m"],
+      hu: ["Magasság: kb. 10 m", "Anyag: vörös homokkő", "Kialakulás: erózió", "Hely: Góbi-Gurvansaikhan Nemzeti Park", "Kor: több millió év", "Kerület: kb. 30 m"],
+      ro: ["Înălțime: aprox. 10 m", "Material: gresie roșie", "Formare: eroziune", "Locație: Parcul Național Gobi Gurvansaikhan", "Vârstă estimată: milioane de ani", "Circumferință: aprox. 30 m"],
+      en: ["Height: approx. 10 meters", "Material: red sandstone", "Formed by erosion over millions of years", "Location: Gobi Gurvansaikhan National Park", "Estimated age: several million years", "Circumference: about 30 meters"],
+    },
+  },
   {
     id: "khustai-national-park-landmarks-v2",
     type: "tourist-attraction",
@@ -186,9 +234,8 @@ image: "/poi-images/turtle-rock-landmarks-v2.webp"
       de: "Chustain-Nuruu-Nationalpark",
       hu: "Hustain Nuruu Nemzeti Park",
       ro: "Parcul Național Hustai",
-      en: "Hustai National Park",
-image: "/poi-images/khustai-national-park-landmarks-v2.webp"
-},
+      en: "Hustai National Park"},
+    image: "/poi-images/khustai-national-park-landmarks-v2.webp",
     description: {
       de: "Der Chustain-Nuruu-Nationalpark ist das wichtigste Schutzgebiet für die erfolgreiche Wiederansiedlung der Przewalski-Pferde, auch Takhi genannt. Diese seltenen, ehemals in freier Wildbahn ausgestorbenen Urpferde streifen hier wieder frei umher.",
       hu: "A Hustain Nuruu Nemzeti Park a Przsevalszkij-lovak, más néven takhik sikeres visszatelepítésének legfontosabb védett területe. Ezek a ritka, a vadonból korábban kihalt őslovak itt újra szabadon kószálnak.",
@@ -220,7 +267,20 @@ image: "/poi-images/khustai-national-park-landmarks-v2.webp"
         "Besides wild horses, wolves, lynxes, and marmots also live here.",
         "The landscape consists of typical Eurasian steppe."
       ]
-    }, image: "/poi-images/khustai-national-park-landmarks-v2.webp"},
+    }, image: "/poi-images/khustai-national-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hustai-Nationalpark liegt etwa 100 Kilometer westlich von Ulaanbaatar und ist bekannt für die Wiederansiedlung des Przewalski-Pferdes. Der Park umfasst eine Fläche von 506 Quadratkilometern. Die Landschaft besteht aus Steppen, Hügeln und Flusstälern. Das Hauptziel des Parks ist der Schutz des Takhi, des wilden Pferdes. Die Population ist auf über 300 Tiere angewachsen. Der Park bietet auch Lebensraum für Rothirsche, Steinböcke und zahlreiche Vogelarten.",
+      hu: "A Hustai Nemzeti Park Ulaanbaatartól 100 km-re nyugatra található. Híres a Przewalski-ló (Takhi) visszatelepítéséről. Területe 506 négyzetkilométer. A táj sztyeppék, dombok és folyóvölgyek mozaikja. A park célja a vadló védelme; ma már több mint 300 egyed él itt. Emellett gímszarvasok, kőszáli kecskék és számos madárfaj otthona.",
+      ro: "Parcul Național Khustai este situat la aproximativ 100 de kilometri vest de Ulaanbaatar. Este renumit pentru reintroducerea calului lui Przewalski (Takhi). Parcul se întinde pe 506 kilometri pătrați, cu peisaje de stepă, dealuri și văi fluviale. Scopul principal este conservarea acestui cal sălbatic, a cărui populație a ajuns la peste 300 de exemplare. Parcul adăpostește și căprioare, capre de munte și multe specii de păsări.",
+      en: "Khustai National Park, located about 100 kilometers west of Ulaanbaatar, is famous for the successful reintroduction of the Przewalski's horse (Takhi). The park covers 506 square kilometers of steppe, hills, and river valleys. It was established in 1993 to protect this wild horse species. The population has grown to over 300 individuals. The park also hosts red deer, ibex, and over 200 bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 506 km²", "Entfernung von Ulaanbaatar: 100 km", "Gegründet: 1993", "Takhi-Population: über 300 (Stand 2020)", "Höhenlage: 1.200–1.800 m", "Vogelarten: über 200"],
+      hu: ["Terület: 506 km²", "Távolság Ulaanbátortól: 100 km", "Alapítás: 1993", "Takhi-populáció: több mint 300 (2020)", "Tengerszint feletti magasság: 1200-1800 m", "Madárfajok: több mint 200"],
+      ro: ["Suprafață: 506 km²", "Distanță de Ulaanbaatar: 100 km", "Anul înființării: 1993", "Populația de Takhi: peste 300 (2020)", "Altitudine: 1.200-1.800 m", "Specii de păsări: peste 200"],
+      en: ["Area: 506 sq km", "Distance from Ulaanbaatar: 100 km", "Established: 1993", "Takhi population: over 300 (as of 2020)", "Elevation range: 1,200-1,800 m", "Bird species: over 200"],
+    },
+  },
   {
     id: "orkhon-waterfall-landmarks-v2",
     type: "landmark",
@@ -230,9 +290,8 @@ image: "/poi-images/khustai-national-park-landmarks-v2.webp"
       de: "Orchon-Wasserfall (Ulaan Tsutgalan)",
       hu: "Orkhon-vízesés (Ulaan Tsutgalan)",
       ro: "Cascada Orkhon (Ulaan Tsutgalan)",
-      en: "Orkhon Waterfall (Ulaan Tsutgalan)",
-image: "/poi-images/orkhon-waterfall-landmarks-v2.webp"
-},
+      en: "Orkhon Waterfall (Ulaan Tsutgalan)"},
+    image: "/poi-images/orkhon-waterfall-landmarks-v2.webp",
     description: {
       de: "Der Orchon-Wasserfall, mongolisch Ulaan Tsutgalan, ist der berühmteste Wasserfall der Mongolei. Er entstand vor tausenden Jahren durch Vulkaneruptionen und Erdbeben, die das tiefe Basalttal des Orchon-Flusses formten.",
       hu: "Az Orkhon-vízesés, mongolul Ulaan Tsutgalan, Mongólia leghíresebb vízesése. Több ezer évvel ezelőtt alakult ki vulkánkitörések és földrengések nyomán, amelyek az Orkhon-folyó mély bazaltvölgyét formálták.",
@@ -264,7 +323,20 @@ image: "/poi-images/orkhon-waterfall-landmarks-v2.webp"
         "The surrounding area is a paradise for horse riding and trekking.",
         "The Orkhon Valley is a UNESCO World Heritage site due to its nomadic history."
       ]
-    }, image: "/poi-images/orkhon-waterfall-landmarks-v2.webp"},
+    }, image: "/poi-images/orkhon-waterfall-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Orkhon-Wasserfall, auch Ulaan Tsutgalan genannt, ist ein etwa 20 Meter hoher Wasserfall im Orkhon-Tal. Er entstand vor etwa 20.000 Jahren durch vulkanische Aktivität, als Lava den Fluss aufstaute. Der Wasserfall liegt auf einer Höhe von 1.700 Metern. Die Umgebung ist von Wäldern und Steppen geprägt. Es ist ein beliebtes Ausflugsziel für Wanderer. Der Orkhon-Fluss ist der längste Fluss der Mongolei mit einer Länge von 1.124 Kilometern.",
+      hu: "Az Orkhon-vízesés (Ulaan Tsutgalan) egy 20 méter magas vízesés az Orkhon-völgyben. Kb. 20.000 éve keletkezett vulkáni tevékenység következtében, amikor láva torlaszolta el a folyót. A vízesés 1.700 méteres tengerszint feletti magasságban található. A környék erdős és sztyeppés. Népszerű kirándulóhely. Az Orkhon folyó Mongólia leghosszabb folyója, 1.124 km hosszú.",
+      ro: "Cascada Orkhon, cunoscută și ca Ulaan Tsutgalan, are o înălțime de aproximativ 20 de metri, situată în Valea Orkhon. S-a format acum aproximativ 20.000 de ani din cauza activității vulcanice, când lava a barat râul. Cascada se află la o altitudine de 1.700 de metri. Zona este acoperită de păduri și stepe. Este o destinație populară pentru drumeții. Râul Orkhon este cel mai lung râu din Mongolia, având 1.124 km.",
+      en: "Orkhon Waterfall, also known as Ulaan Tsutgalan, is a 20-meter high waterfall in the Orkhon Valley. It was formed about 20,000 years ago by volcanic lava flows that dammed the river. The waterfall sits at an elevation of 1,700 meters. The surrounding area features forests and steppe. It is a popular hiking destination. The Orkhon River is the longest in Mongolia, stretching 1,124 km.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 20 m", "Entstehung: vor 20.000 Jahren durch Lava", "Höhenlage: 1.700 m", "Orkhon-Fluss Länge: 1.124 km", "Breite des Wasserfalls: ca. 10 m", "Wassermenge: saisonal variabel, im Frühjahr am stärksten"],
+      hu: ["Magasság: 20 m", "Keletkezés: 20.000 éve láva által", "Tengerszint feletti magasság: 1.700 m", "Orkhon folyó hossza: 1.124 km", "Vízesés szélessége: kb. 10 m", "Vízhozam: szezonális, tavasszal a legnagyobb"],
+      ro: ["Înălțime: 20 m", "Formare: acum 20.000 de ani, cauzată de lavă", "Altitudine: 1.700 m", "Lungimea râului Orkhon: 1.124 km", "Lățimea cascadei: aprox. 10 m", "Debit variabil sezonier, maxim primăvara"],
+      en: ["Height: 20 meters", "Formed 20,000 years ago by lava", "Elevation: 1,700 meters", "Orkhon River length: 1,124 km", "Waterfall width: approx. 10 meters", "Water flow: seasonal, highest in spring"],
+    },
+  },
   {
     id: "tsagaan-suvarga-landmarks-v2",
     type: "landmark",
@@ -274,9 +346,8 @@ image: "/poi-images/orkhon-waterfall-landmarks-v2.webp"
       de: "Weiße Stupa (Tsagaan Suvarga)",
       hu: "Fehér Sztúpa (Tsagaan Suvarga)",
       ro: "Stupa Albă (Tsagaan Suvarga)",
-      en: "White Stupa (Tsagaan Suvarga)",
-image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp"
-},
+      en: "White Stupa (Tsagaan Suvarga)"},
+    image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp",
     description: {
       de: "Tsagaan Suvarga, was übersetzt Weiße Stupa bedeutet, ist eine steile Kalksteinformation in der Halbwüste, die durch Wind- und Wassererosion geformt wurde. Von Weitem betrachtet erinnern die farbenfrohen Klippen an die Ruinen einer antiken Stadt.",
       hu: "A Tsagaan Suvarga, amelynek jelentése Fehér Sztúpa, egy meredek mészkőképződmény a félsivatagban, amelyet a szél és a víz eróziója formált. Távolról nézve a színes sziklák egy ókori város romjaira emlékeztetnek.",
@@ -308,7 +379,20 @@ image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp"
         "There is a 100-meter long cave near the formation.",
         "The site was once the bottom of a prehistoric ocean."
       ]
-    }, image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp"},
+    }, image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die White Stupa (Tsagaan Suvarga) ist eine spektakuläre weiße Kalksteinformation in der Wüste Gobi. Sie erstreckt sich über etwa 400 Meter und erreicht Höhen von bis zu 30 Metern. Die Schichten des Gesteins zeigen verschiedene geologische Epochen. Die Formation entstand durch Erosion und erinnert an einen Stupa. Sie liegt im Süden der Mongolei, etwa 60 Kilometer vom Dorf Bayanlig entfernt. Die Umgebung ist karg und windig.",
+      hu: "A Fehér Sztúpa (Tsagaan Suvarga) egy látványos fehér mészkőformáció a Góbi-sivatagban. Hossza kb. 400 méter, magassága eléri a 30 métert. A kőzetrétegek különböző geológiai korszakokat tükröznek. A formáció erózió révén jött létre, és egy buddhista sztúpára emlékeztet. A településtől, Bayanligtől kb. 60 km-re délre található. A táj sivár és szeles.",
+      ro: "Stupa Albă (Tsagaan Suvarga) este o formațiuni spectaculoasă de calcar alb din Deșertul Gobi. Se întinde pe aproximativ 400 de metri și atinge înălțimi de până la 30 de metri. Straturile de rocă dezvăluie diferite epoci geologice. Formațiunea a fost modelată de eroziune și seamănă cu o stupa budistă. Este situată la aproximativ 60 de kilometri de satul Bayanlig. Peisajul din jur este arid și vântos.",
+      en: "Tsagaan Suvarga, also known as the White Stupa, is a striking white limestone formation in the Gobi Desert. It stretches about 400 meters and rises up to 30 meters high. The layered rock reveals different geological eras. Formed by erosion, its shape resembles a Buddhist stupa. It lies about 60 kilometers south of Bayanlig. The area is barren and windy.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 400 m", "Höhe: bis zu 30 m", "Material: weißer Kalkstein", "Entfernung von Bayanlig: 60 km", "Alter: mehrere Millionen Jahre", "Lage: südliche Gobi, Mongolei"],
+      hu: ["Hossz: kb. 400 m", "Magasság: akár 30 m", "Anyag: fehér mészkő", "Távolság Bayanligtől: 60 km", "Kor: több millió év", "Elhelyezkedés: dél-góbi, Mongólia"],
+      ro: ["Lungime: aprox. 400 m", "Înălțime: până la 30 m", "Material: calcar alb", "Distanța de Bayanlig: 60 km", "Vârstă: milioane de ani", "Locație: sudul Gobi, Mongolia"],
+      en: ["Length: approx. 400 meters", "Height: up to 30 meters", "Material: white limestone", "Distance from Bayanlig: 60 km", "Age: millions of years", "Location: southern Gobi, Mongolia"],
+    },
+  },
   {
     id: "baga-gazriin-chuluu-landmarks-v2",
     type: "landmark",
@@ -318,9 +402,8 @@ image: "/poi-images/tsagaan-suvarga-landmarks-v2.webp"
       de: "Baga Gazriin Chuluu",
       hu: "Baga Gazriin Chuluu",
       ro: "Baga Gazriin Chuluu",
-      en: "Baga Gazriin Chuluu",
-image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp"
-},
+      en: "Baga Gazriin Chuluu"},
+    image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp",
     description: {
       de: "Baga Gazriin Chuluu ist ein malerisches Granitfelsmassiv, das abrupt aus der flachen Steppe der Mittelgobi emporragt. Zwischen den verwitterten Felsblöcken verbergen sich antike Inschriften, kleine Höhlen und Ruinen alter Tempel.",
       hu: "A Baga Gazriin Chuluu egy festői gránit sziklatömb, amely hirtelen emelkedik ki a Közép-Góbi lapos sztyeppéjéből. A viharvert sziklatömbök között ősi feliratok, apró barlangok és régi templomok romjai bújnak meg.",
@@ -352,7 +435,20 @@ image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp"
         "A natural healing spring in the rocks is visited by locals for eye ailments.",
         "In the 19th century, two famous Mongolian monks lived here."
       ]
-    }, image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp"},
+    }, image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Baga Gazriin Chuluu ist eine Bergregion in der Wüste Gobi, etwa 100 Kilometer südöstlich von Ulaanbaatar. Die Region ist geprägt von Granitfelsen und steilen Klippen. Der höchste Gipfel erreicht eine Höhe von 1.768 Metern. Es gibt mehrere Höhlen und Felsformationen. Die Gegend ist bekannt für ihre archäologischen Stätten mit Petroglyphen und alten Gräbern. Sie diente früher als Versteck für Nomaden. Die Flora ist typisch für die Steppe mit Saxaul-Büschen.",
+      hu: "Baga Gazriin Chuluu egy hegyvidéki terület a Góbi-sivatagban, Ulaanbátortól kb. 100 km-re délkeletre. Jellemzői a gránitsziklák és meredek sziklafalak. A legmagasabb csúcs 1.768 méter. Több barlang és sziklaformáció található. A terület régészeti lelőhelyeiről ismert, petroglifákkal és ősi sírokkal. Korábban nomádok rejtekhelye volt. Növényzete sztyeppei, szaxaulbokrokkal.",
+      ro: "Baga Gazriin Chuluu este o regiune muntoasă din Deșertul Gobi, la aproximativ 100 de kilometri sud-est de Ulaanbaatar. Zona se caracterizează prin stânci de granit și stânci abrupte. Cel mai înalt vârf atinge 1.768 de metri. Există mai multe peșteri și formațiuni stâncoase. Este cunoscută pentru siturile arheologice cu petroglife și morminte străvechi. A servit în trecut ca ascunzătoare pentru nomazi. Vegetația este de stepă, cu arbuști de saxau.",
+      en: "Baga Gazriin Chuluu is a mountainous region in the Gobi Desert, about 100 km southeast of Ulaanbaatar. It features granite rocks and steep cliffs. The highest peak is 1,768 meters. There are several caves and rock formations. The area is known for archaeological sites with petroglyphs and ancient tombs. It was once a hideout for nomads. Vegetation includes steppe grasses and saxaul bushes.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 1.768 m", "Entfernung von Ulaanbaatar: 100 km", "Gesteinsart: Granit", "Anzahl der Höhlen: mehrere", "Archäologische Funde: Petroglyphen, Gräber", "Fläche: ca. 200 km²"],
+      hu: ["Legmagasabb csúcs: 1.768 m", "Távolság Ulaanbátortól: 100 km", "Kőzettípus: gránit", "Barlangok száma: több", "Régészeti leletek: petroglifák, sírok", "Terület: kb. 200 km²"],
+      ro: ["Altitudine maximă: 1.768 m", "Distanță de Ulaanbaatar: 100 km", "Tip de rocă: granit", "Număr de peșteri: mai multe", "Descoperiri arheologice: petroglife, morminte", "Suprafață: aprox. 200 km²"],
+      en: ["Highest peak: 1,768 meters", "Distance from Ulaanbaatar: 100 km", "Rock type: granite", "Number of caves: several", "Archaeological finds: petroglyphs, tombs", "Area: approx. 200 sq km"],
+    },
+  },
   {
     id: "khorgo-volcano-landmarks-v2",
     type: "landmark",
@@ -362,9 +458,8 @@ image: "/poi-images/baga-gazriin-chuluu-landmarks-v2.webp"
       de: "Chorgo-Vulkan",
       hu: "Khorgo-vulkán",
       ro: "Vulcanul Khorgo",
-      en: "Khorgo Volcano",
-image: "/poi-images/khorgo-volcano-landmarks-v2.webp"
-},
+      en: "Khorgo Volcano"},
+    image: "/poi-images/khorgo-volcano-landmarks-v2.webp",
     description: {
       de: "Der Chorgo-Vulkan ist ein erloschener Vulkan im Nationalpark Khorgo-Terkhiin Tsagaan Nuur. Sein Krater und das umliegende Lavafeld zeugen von den gewaltigen Ausbrüchen, die diese Region vor Tausenden von Jahren geprägt haben.",
       hu: "A Khorgo-vulkán egy kialudt vulkán a Khorgo-Terkhiin Tsagaan Nuur Nemzeti Parkban. Krátere és a környező lávamező tanúskodik azokról a hatalmas kitörésekről, amelyek évezredekkel ezelőtt formálták a régiót.",
@@ -396,7 +491,20 @@ image: "/poi-images/khorgo-volcano-landmarks-v2.webp"
         "There are deep lava caves and basalt crevices around the crater.",
         "The solidified lava dammed the nearby Terkhiin Tsagaan Nuur lake."
       ]
-    }, image: "/poi-images/khorgo-volcano-landmarks-v2.webp"},
+    }, image: "/poi-images/khorgo-volcano-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Khorgo-Vulkan ist ein erloschener Vulkan im Khangai-Gebirge, etwa 200 Kilometer westlich von Ulaanbaatar. Der Krater hat einen Durchmesser von etwa 200 Metern und ist 30 Meter tief. Der Vulkan brach vor etwa 8.000 Jahren zum letzten Mal aus. Die Landschaft ist geprägt von schwarzer Lava und Basaltformationen. Der Berg ist 2.240 Meter hoch. In der Nähe liegt der Weiße See (Terkhiin Tsagaan Nuur), der durch Lavastau entstanden ist. Das Gebiet ist ein Schutzgebiet.",
+      hu: "A Khorgo vulkán egy kialudt tűzhányó a Hangáj-hegységben, Ulaanbátortól kb. 200 km-re nyugatra. A kráter átmérője 200 m, mélysége 30 m. Utoljára kb. 8.000 éve tört ki. A tájat fekete láva és bazaltformációk jellemzik. A hegy 2.240 m magas. Közelében található a Fehér-tó (Terkhiin Tsagaan Nuur), amely a lávafolyás által keletkezett. A terület védett.",
+      ro: "Vulcanul Khorgo este un vulcan stins din Munții Khangai, la aproximativ 200 de kilometri vest de Ulaanbaatar. Craterul are un diametru de aproximativ 200 de metri și o adâncime de 30 de metri. Ultima erupție a avut loc acum aproximativ 8.000 de ani. Peisajul este dominat de lavă neagră și formațiuni de bazalt. Muntele are 2.240 de metri înălțime. În apropiere se află Lacul Alb (Terkhiin Tsagaan Nuur), format prin bararea râului de lavă. Zona este protejată.",
+      en: "Khorgo Volcano is an extinct volcano in the Khangai Mountains, about 200 km west of Ulaanbaatar. Its crater is about 200 meters in diameter and 30 meters deep. It last erupted around 8,000 years ago. The landscape features black lava and basalt formations. The mountain is 2,240 meters high. Nearby is Terkhiin Tsagaan Nuur (White Lake), formed by lava damming. The area is protected as part of a national park.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.240 m", "Kraterdurchmesser: 200 m", "Kratertiefe: 30 m", "Letzter Ausbruch: vor 8.000 Jahren", "Entfernung von Ulaanbaatar: 200 km", "Lage: Khangai-Gebirge"],
+      hu: ["Magasság: 2.240 m", "Kráter átmérő: 200 m", "Kráter mélység: 30 m", "Utolsó kitörés: 8.000 éve", "Távolság Ulaanbátortól: 200 km", "Hely: Hangáj-hegység"],
+      ro: ["Înălțime: 2.240 m", "Diametru crater: 200 m", "Adâncime crater: 30 m", "Ultima erupție: acum 8.000 de ani", "Distanță de Ulaanbaatar: 200 km", "Locație: Munții Khangai"],
+      en: ["Height: 2,240 meters", "Crater diameter: 200 meters", "Crater depth: 30 meters", "Last eruption: 8,000 years ago", "Distance from Ulaanbaatar: 200 km", "Location: Khangai Mountains"],
+    },
+  },
   {
     id: "terkhiin-tsagaan-nuur-landmarks-v2",
     type: "landmark",
@@ -406,9 +514,8 @@ image: "/poi-images/khorgo-volcano-landmarks-v2.webp"
       de: "Terkhiin Tsagaan Nuur",
       hu: "Terkhiin Tsagaan Nuur",
       ro: "Terkhiin Tsagaan Nuur",
-      en: "Terkhiin Tsagaan Nuur",
-image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp"
-},
+      en: "Terkhiin Tsagaan Nuur"},
+    image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp",
     description: {
       de: "Der Terkhiin Tsagaan Nuur, oder Große Weiße See, ist ein wunderschöner Süßwassersee in der zentralen Mongolei, der von Vulkanen umgeben ist. Er ist ein Paradies für Vogelliebhaber und ein ideales Gebiet für entspannte Reitausflüge.",
       hu: "A Terkhiin Tsagaan Nuur, vagyis a Nagy Fehér-tó egy gyönyörű édesvizű tó Közép-Mongóliában, amelyet vulkánok vesznek körül. A tó valóságos paradicsom a madármegfigyelők számára, és ideális hely a nyugodt lovastúrákhoz.",
@@ -440,7 +547,20 @@ image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp"
         "A small island in the middle is used by numerous water birds for nesting.",
         "The water is extremely clear and rich in fish."
       ]
-    }, image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp"},
+    }, image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Terkhiin Tsagaan Nuur (Weißer See) ist ein Süßwassersee im Khangai-Gebirge auf 2.060 Meter Höhe. Er entstand vor etwa 8.000 Jahren durch einen Lavastau vom Khorgo-Vulkan. Der See hat eine Fläche von etwa 16 Quadratkilometern und ist bis zu 20 Meter tief. Das Wasser ist klar und reich an Fischen wie Äschen. Die Ufer sind von Wäldern und Steppen umgeben. Der See ist ein wichtiges Brutgebiet für Wasservögel wie Schwäne und Enten.",
+      hu: "A Terkhiin Tsagaan Nuur (Fehér-tó) egy édesvizű tó a Hangáj-hegységben, 2.060 m tengerszint feletti magasságban. Kb. 8.000 éve keletkezett, amikor a Khorgo vulkán lávája elzárta a folyót. Területe kb. 16 km², mélysége eléri a 20 m-t. Vize tiszta, gazdag halfajtákban (pl. pérhal). Partjait erdők és sztyeppék övezik. Fontos vízimadár fészkelőhely (hattyúk, kacsák).",
+      ro: "Lacul Terkhiin Tsagaan Nuur (Lacul Alb) este un lac de apă dulce din Munții Khangai, la o altitudine de 2.060 de metri. S-a format acum aproximativ 8.000 de ani, când lava vulcanului Khorgo a barat un râu. Lacul are o suprafață de aproximativ 16 kilometri pătrați și o adâncime maximă de 20 de metri. Apa este limpede, bogată în pești precum lipanul. Țărmurile sunt înconjurate de păduri și stepe. Este un loc important de cuibărit pentru păsări acvatice, cum ar fi lebedele și rațele.",
+      en: "Terkhiin Tsagaan Nuur (White Lake) is a freshwater lake in the Khangai Mountains at 2,060 meters elevation. It was formed about 8,000 years ago when lava from Khorgo Volcano dammed a river. The lake covers about 16 square kilometers and is up to 20 meters deep. Its clear water supports fish like grayling. The shores are forested and steppe. It is an important breeding ground for waterfowl such as swans and ducks.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 2.060 m", "Fläche: ca. 16 km²", "Maximale Tiefe: 20 m", "Entstehung: vor 8.000 Jahren durch Lavastau", "Fischarten: Äsche", "Vogelarten: Schwäne, Enten"],
+      hu: ["Tengerszint feletti magasság: 2.060 m", "Terület: kb. 16 km²", "Maximális mélység: 20 m", "Keletkezés: 8.000 éve lávazárás által", "Halfajok: pérhal", "Madárfajok: hattyúk, kacsák"],
+      ro: ["Altitudine: 2.060 m", "Suprafață: aprox. 16 km²", "Adâncime maximă: 20 m", "Formare: acum 8.000 de ani, prin bararea cu lavă", "Specii de pești: lipan", "Specii de păsări: lebede, rațe"],
+      en: ["Elevation: 2,060 meters", "Area: approx. 16 sq km", "Maximum depth: 20 meters", "Formed 8,000 years ago by lava damming", "Fish species: grayling", "Bird species: swans, ducks"],
+    },
+  },
   {
     id: "tsenkher-hot-springs-landmarks-v2",
     type: "tourist-attraction",
@@ -450,9 +570,8 @@ image: "/poi-images/terkhiin-tsagaan-nuur-landmarks-v2.webp"
       de: "Heiße Quellen von Tsenkher",
       hu: "Tsenkher hőforrások",
       ro: "Izvoarele Termale Tsenkher",
-      en: "Tsenkher Hot Springs",
-image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp"
-},
+      en: "Tsenkher Hot Springs"},
+    image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp",
     description: {
       de: "Die heißen Quellen von Tsenkher sind tief in den bewaldeten Bergen der Arkhangai-Provinz verborgen. Das bis zu 85 Grad heiße Thermalwasser ist reich an Mineralien und speist heute mehrere entspannende Außenbecken von Jurtencamps.",
       hu: "A Tsenkher hőforrások mélyen az Arkhangai tartomány erdős hegyeiben bújnak meg. Az akár 85 fokos termálvíz ásványi anyagokban gazdag, és ma több jurtatábor pihentető szabadtéri medencéjét látja el.",
@@ -484,7 +603,20 @@ image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp"
         "The area is characterized by lush green meadows and forests.",
         "The spring water gushes from the ground at a rate of 10 liters per second."
       ]
-    }, image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp"},
+    }, image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tsenkher-Hot-Quellen liegen im Arkhangai-Aimag, etwa 20 Kilometer nördlich der Stadt Khujirt. Das Quellwasser hat eine Temperatur von 85–90 °C an der Quelle und wird in Becken für Bäder gekühlt. Das Wasser ist reich an Mineralien wie Radon, Kalzium und Magnesium. Die Quellen werden seit Jahrhunderten für therapeutische Zwecke genutzt. Die Umgebung besteht aus Steppen und Wäldern. Es gibt zahlreiche Unterkünfte und Badebereiche.",
+      hu: "A Tsenkher termálforrások Arkhangai tartományban találhatók, Khujirttől kb. 20 km-re északra. A forrásvíz hőmérséklete 85-90 °C, a medencékben lehűtik. A víz ásványi anyagokban gazdag (radon, kalcium, magnézium). A forrásokat évszázadok óta használják gyógyászati céllal. A környék sztyeppés és erdős. Számos szállás és fürdő található.",
+      ro: "Izvoarele termale Tsenkher sunt situate în provincia Arkhangai, la aproximativ 20 de kilometri nord de orașul Khujirt. Apa izvoarelor are o temperatură de 85-90 °C la sursă, fiind răcită în bazine pentru scăldat. Apa este bogată în minerale precum radon, calciu și magneziu. Izvoarele sunt folosite de secole în scopuri terapeutice. Împrejurimile sunt de stepă și păduri. Există multe unități de cazare și zone de baie.",
+      en: "Tsenkher Hot Springs are located in Arkhangai Province, about 20 km north of Khujirt. The spring water reaches 85–90 °C at the source and is cooled in pools for bathing. The water is rich in minerals including radon, calcium, and magnesium. Used for centuries for therapeutic purposes, the surroundings offer steppe and forest landscapes. Numerous guesthouses and bathing facilities are available.",
+    },
+    factsAdvanced: {
+      de: ["Wassertemperatur: 85-90 °C an der Quelle", "Entfernung zu Khujirt: 20 km", "Mineralien: Radon, Kalzium, Magnesium", "Nutzung: seit Jahrhunderten", "Höhenlage: ca. 1.800 m", "Anzahl der Becken: mehrere"],
+      hu: ["Víz hőmérséklete: 85-90 °C a forrásnál", "Távolság Khujirttől: 20 km", "Ásványok: radon, kalcium, magnézium", "Használat: évszázadok óta", "Tengerszint feletti magasság: kb. 1.800 m", "Medencék száma: több"],
+      ro: ["Temperatura apei: 85-90 °C la sursă", "Distanța de Khujirt: 20 km", "Minerale: radon, calciu, magneziu", "Utilizare: de secole", "Altitudine: aprox. 1.800 m", "Număr de bazine: mai multe"],
+      en: ["Water temperature: 85-90 °C at source", "Distance from Khujirt: 20 km", "Minerals: radon, calcium, magnesium", "Used for centuries", "Elevation: approx. 1,800 m", "Number of pools: several"],
+    },
+  },
   {
     id: "aryabal-meditation-temple-landmarks-v2",
     type: "monument",
@@ -494,9 +626,8 @@ image: "/poi-images/tsenkher-hot-springs-landmarks-v2.webp"
       de: "Aryabal-Meditationszentrum",
       hu: "Aryabal meditációs templom",
       ro: "Templul de Meditație Aryabal",
-      en: "Aryabal Meditation Temple",
-image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp"
-},
+      en: "Aryabal Meditation Temple"},
+    image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp",
     description: {
       de: "Das Aryabal-Meditationszentrum ist ein buddhistischer Tempel im Gorkhi-Terelj-Nationalpark, der malerisch in einen steilen Berghang gebaut wurde. Es ehrt Aryabal, den Bodhisattva des Mitgefühls, und bietet eine ruhige Atmosphäre.",
       hu: "Az Aryabal meditációs központ egy buddhista templom a Gorkhi-Terelj Nemzeti Parkban, amelyet festői környezetben egy meredek hegyoldalba építettek. Aryabalt, az együttérzés bódhiszattváját tiszteli, és békés légkört kínál.",
@@ -528,7 +659,20 @@ image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp"
         "A path lined with Buddhist teaching boards leads up the stairs.",
         "From the veranda, there is a wide panoramic view of the Terelj Valley."
       ]
-    }, image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp"},
+    }, image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aryabal-Meditationstempel liegt in den Wäldern oberhalb des Gandan-Klosters in Ulaanbaatar. Erbaut wurde er im 19. Jahrhundert als Ort der Meditation und Einsiedelei. Der Tempel ist von einer Mauer mit 108 Stupas umgeben, die die 108 Leiden des Buddhismus symbolisieren. Besucher müssen eine Wendeltreppe hinaufsteigen, die die Stufen zur Erleuchtung darstellt. Der Tempel bietet einen Panoramablick über die Stadt. Er ist ein aktiver Ort der Andacht.",
+      hu: "Az Aryabal meditációs templom a Gandan kolostor feletti erdőkben található Ulaanbátorban. A 19. században épült meditációs és remetehelyként. A templomot 108 sztúpából álló fal veszi körül, ami a buddhizmus 108 szenvedését jelképezi. A látogatóknak egy csigalépcsőn kell felmászniuk, ami a megvilágosodás lépcsőit szimbolizálja. A templomból panorámás kilátás nyílik a városra. Aktív vallásos hely.",
+      ro: "Templul de meditație Aryabal este situat în pădurile deasupra Mănăstirii Gandan din Ulaanbaatar. A fost construit în secolul al XIX-lea ca loc de meditație și schit. Templul este înconjurat de un zid cu 108 stupe, simbolizând cele 108 suferințe budiste. Vizitatorii trebuie să urce o scară în spirală care reprezintă treptele către iluminare. Oferă o vedere panoramică asupra orașului. Este un loc de rugăciune activ.",
+      en: "Aryabal Meditation Temple is located in the woods above Gandan Monastery in Ulaanbaatar. Built in the 19th century as a meditation retreat, it is surrounded by a wall with 108 stupas representing the 108 defilements in Buddhism. Visitors climb a spiral staircase symbolizing the path to enlightenment. The temple offers panoramic views of the city. It remains an active place of worship.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 19. Jahrhundert", "Anzahl der Stupas: 108", "Lage: oberhalb des Gandan-Klosters", "Höhe über dem Meer: ca. 1.300 m", "Stufen der Wendeltreppe: 108", "Blick: Panorama über Ulaanbaatar"],
+      hu: ["Épült: 19. század", "Sztúpák száma: 108", "Hely: a Gandan kolostor felett", "Tengerszint feletti magasság: kb. 1.300 m", "Csigalépcső lépcsőfokai: 108", "Kilátás: Ulaanbátor panorámája"],
+      ro: ["Construit: secolul al XIX-lea", "Număr de stupe: 108", "Locație: deasupra Mănăstirii Gandan", "Altitudine: aprox. 1.300 m", "Treptele scării spiralate: 108", "Vedere: panoramă asupra Ulaanbaatarului"],
+      en: ["Built: 19th century", "Number of stupas: 108", "Location: above Gandan Monastery", "Elevation: approx. 1,300 m", "Spiral staircase steps: 108", "View: panorama of Ulaanbaatar"],
+    },
+  },
   {
     id: "sukhbaatar-square-landmarks-v2",
     type: "tourist-attraction",
@@ -538,9 +682,8 @@ image: "/poi-images/aryabal-meditation-temple-landmarks-v2.webp"
       de: "Süchbaatar-Platz",
       hu: "Szühebátor tér",
       ro: "Piața Sukhbaatar",
-      en: "Sükhbaatar Square",
-image: "/poi-images/sukhbaatar-square-landmarks-v2.webp"
-},
+      en: "Sükhbaatar Square"},
+    image: "/poi-images/sukhbaatar-square-landmarks-v2.webp",
     description: {
       de: "Der Süchbaatar-Platz ist das pulsierende Herz der Hauptstadt Ulaanbaatar. Umgeben von wichtigen Regierungsgebäuden und Museen, dient der riesige Platz als Schauplatz für nationale Feste, Paraden und Konzerte.",
       hu: "A Szühebátor tér a főváros, Ulánbátor lüktető szíve. A fontos kormányzati épületekkel és múzeumokkal körülvett hatalmas tér nemzeti ünnepek, parádék és koncertek helyszíneként szolgál.",
@@ -572,7 +715,20 @@ image: "/poi-images/sukhbaatar-square-landmarks-v2.webp"
         "In the past, the site was used as a marketplace and trading center.",
         "In 2013, the square was briefly renamed Genghis Khan Square."
       ]
-    }, image: "/poi-images/sukhbaatar-square-landmarks-v2.webp"},
+    }, image: "/poi-images/sukhbaatar-square-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sükhbaatar-Platz ist der zentrale Platz von Ulaanbaatar, benannt nach dem Revolutionshelden Damdin Sükhbaatar. Der Platz wird dominiert von der Reiterstatue Sükhbaatars und dem Regierungspalast. Er wurde in den 1920er Jahren angelegt. Rund um den Platz befinden sich wichtige Gebäude wie das Staatsoperntheater, die Staatsgalerie und das Hauptpostamt. Der Platz dient für politische Kundgebungen, Feierlichkeiten und kulturelle Veranstaltungen. Er ist 200 Meter lang und 150 Meter breit.",
+      hu: "A Szükhbátor tér Ulaanbátor központi tere, Damdin Szükhbátor forradalmi hősről elnevezve. A teret Szükhbátor lovas szobra és a kormányzati palota uralja. Az 1920-as években alakították ki. A tér körül fontos épületek találhatók: Állami Operaház, Nemzeti Galéria, főposta. Politikai gyűlések, ünnepségek, kulturális rendezvények helyszíne. Hossza 200 m, szélessége 150 m.",
+      ro: "Piața Sükhbaatar este piața centrală a Ulaanbaatarului, numită după eroul revoluționar Damdin Sükhbaatar. Piața este dominată de statuia ecvestră a lui Sükhbaatar și de Palatul Guvernului. A fost construită în anii 1920. În jurul pieței se află clădiri importante precum Teatrul Național de Operă, Galeria de Stat și Poșta Centrală. Este folosită pentru mitinguri politice, sărbători și evenimente culturale. Are 200 de metri lungime și 150 de metri lățime.",
+      en: "Sükhbaatar Square is the central square of Ulaanbaatar, named after revolutionary hero Damdin Sükhbaatar. It features his equestrian statue and the Government Palace. Built in the 1920s, the square is surrounded by important buildings: State Opera and Ballet Theatre, National Gallery, and Central Post Office. It hosts political rallies, celebrations, and cultural events. The square measures 200 meters by 150 meters.",
+    },
+    factsAdvanced: {
+      de: ["Größe: 200 m x 150 m", "Erbaut: 1920er Jahre", "Statuenhöhe: ca. 5 m (Reiterstatue)", "Regierungspalast: 1950er Jahre erbaut", "Höhe des Palastes: 30 m", "Anzahl der Säulen am Palast: 24"],
+      hu: ["Méret: 200 m x 150 m", "Épült: 1920-as évek", "Szobor magasság: kb. 5 m (lovas szobor)", "Kormányzati palota: 1950-es években épült", "Palota magassága: 30 m", "Oszlopok száma a palotán: 24"],
+      ro: ["Dimensiuni: 200 m x 150 m", "Construit: anii 1920", "Înălțimea statuii: aprox. 5 m (statuie ecvestră)", "Palatul Guvernului: construit în anii 1950", "Înălțimea palatului: 30 m", "Număr de coloane la palat: 24"],
+      en: ["Dimensions: 200 m x 150 m", "Built: 1920s", "Statue height: approx. 5 m (equestrian)", "Government Palace built: 1950s", "Palace height: 30 m", "Number of columns on palace: 24"],
+    },
+  },
   {
     id: "al-tai-tavan-bogd-landmarks-v2",
     type: "tourist-attraction",
@@ -582,9 +738,8 @@ image: "/poi-images/sukhbaatar-square-landmarks-v2.webp"
       de: "Altai-Tavan-Bogd-Nationalpark",
       hu: "Altaj Tavan Bogd Nemzeti Park",
       ro: "Parcul Național Altai Tavan Bogd",
-      en: "Altai Tavan Bogd National Park",
-image: "/poi-images/al-tai-tavan-bogd-landmarks-v2.webp"
-},
+      en: "Altai Tavan Bogd National Park"},
+    image: "/poi-images/al-tai-tavan-bogd-landmarks-v2.webp",
     description: {
       de: "Der Altai-Tavan-Bogd-Nationalpark im äußersten Westen der Mongolei ist berühmt für seine vergletscherten Gipfel, tiefen Seen und antiken Petroglyphen. Er ist die Heimat der kasachischen Adlerjäger, die hier ihre jahrhundertealte Tradition pflegen.",
       hu: "A Mongólia legnyugatibb csücskében fekvő Altaj Tavan Bogd Nemzeti Park híres gleccseres csúcsairól, mély tavairól és ősi petroglifáiról. Itt élnek a kazah sasvadászok, akik ma is ápolják évszázados hagyományaikat.",
@@ -616,7 +771,19 @@ image: "/poi-images/al-tai-tavan-bogd-landmarks-v2.webp"
         "The park directly borders Russia and China.",
         "Three large glaciers flow down from the peaks."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Altai Tavan Bogd Nationalpark liegt im äußersten Westen der Mongolei an der Grenze zu China und Russland. Der Park ist nach den fünf heiligen Gipfeln (Tavan Bogd) benannt, darunter der Khüiten Peak (4.374 m), der höchste Berg der Mongolei. Der Park umfasst Gletscher, alpine Seen und weite Täler. Er ist Lebensraum für Schneeleoparden, Steinböcke und Argali-Wildschafe. Die Region ist kulturell bedeutsam für die kasachische Minderheit, die Adlerjagd betreibt.",
+      hu: "Az Altai Tavan Bogd Nemzeti Park Nyugat-Mongóliában, a kínai és orosz határ mellett található. Nevét az öt szent csúcsról (Tavan Bogd) kapta, amelyek közül a Khüiten-csúcs (4.374 m) Mongólia legmagasabb pontja. A parkban gleccserek, alpesi tavak és völgyek találhatók. Élőhelyet nyújt hópárducoknak, kőszáli kecskéknek és argali vadon élő juhoknak. A régió fontos a kazak kisebbség számára, akik sasmadászatot űznek.",
+      ro: "Parcul Național Altai Tavan Bogd este situat în extremitatea vestică a Mongoliei, la granița cu China și Rusia. Parcul poartă numele celor cinci vârfuri sacre (Tavan Bogd), dintre care Khüiten Peak (4.374 m) este cel mai înalt munte din Mongolia. Parcul include ghețari, lacuri alpine și văi largi. Adăpostește leoparzi de zăpadă, capre de munte și oi argali. Regiunea are importanță culturală pentru minoritatea kazahă, care practică vânătoarea cu vulturi.",
+      en: "Altai Tavan Bogd National Park is located in far western Mongolia, bordering China and Russia. It is named after the five sacred peaks (Tavan Bogd), with Khüiten Peak (4,374 m) being Mongolia's highest. The park features glaciers, alpine lakes, and vast valleys. It is home to snow leopards, ibex, and argali sheep. The area is culturally significant for the Kazakh minority, who practice eagle hunting.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Khüiten Peak (4.374 m)", "Fläche: 6.362 km²", "Anzahl der Gletscher: über 20", "Gründungsjahr: 1996", "Höchster See: Khoton Nuur (2.084 m)", "Argali-Population: ca. 1.000 Tiere"],
+      hu: ["Legmagasabb csúcs: Khüiten-csúcs (4.374 m)", "Terület: 6.362 km²", "Gleccserek száma: több mint 20", "Alapítás éve: 1996", "Legmagasabb tó: Khoton Nuur (2.084 m)", "Argali állomány: kb. 1.000 egyed"],
+      ro: ["Cel mai înalt vârf: Khüiten Peak (4.374 m)", "Suprafață: 6.362 km²", "Număr de ghețari: peste 20", "Anul înființării: 1996", "Cel mai înalt lac: Khoton Nuur (2.084 m)", "Populația de argali: aprox. 1.000 de exemplare"],
+      en: ["Highest peak: Khüiten Peak (4,374 m)", "Area: 6,362 sq km", "Number of glaciers: over 20", "Established: 1996", "Highest lake: Khoton Nuur (2,084 m)", "Argali population: approx. 1,000"],
+    },
   },
   {
     id: "khermen-tsav-landmarks-v2",
@@ -627,9 +794,8 @@ image: "/poi-images/al-tai-tavan-bogd-landmarks-v2.webp"
       de: "Khermen Tsav",
       hu: "Khermen Tsav",
       ro: "Khermen Tsav",
-      en: "Khermen Tsav",
-image: "/poi-images/khermen-tsav-landmarks-v2.webp"
-},
+      en: "Khermen Tsav"},
+    image: "/poi-images/khermen-tsav-landmarks-v2.webp",
     description: {
       de: "Khermen Tsav ist eine entlegene, zerklüftete Canyon-Landschaft aus rotem Sandstein tief in der Wüste Gobi. Wegen der extremen Abgeschiedenheit und der rauen Bedingungen wird sie oft als das 'Ende der Welt' bezeichnet.",
       hu: "A Khermen Tsav egy távoli, zord vörös homokkő kanyon a Góbi sivatag mélyén. Az extrém elszigeteltség és a zord körülmények miatt gyakran a 'világ végének' is nevezik.",
@@ -661,7 +827,20 @@ image: "/poi-images/khermen-tsav-landmarks-v2.webp"
         "Due to lack of water and quicksand, the journey is very dangerous.",
         "It is one of the richest sites for dinosaur fossils."
       ]
-    }, image: "/poi-images/khermen-tsav-landmarks-v2.webp"},
+    }, image: "/poi-images/khermen-tsav-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Khermen Tsav ist eine beeindruckende Schlucht in der Wüste Gobi in der Mongolei, bekannt für ihre roten Sandsteinfelsen und reichen Fossilienfunde. Die Schlucht erstreckt sich über 20 km Länge und erreicht Tiefen bis zu 200 Metern. Sie ist Teil des Naturreservats Gobi Gurvan Saikhan. Die Region ist berühmt für Funde von Dinosaurierfossilien, darunter Oviraptor und Protoceratops. Khermen Tsav bedeutet auf Mongolisch „Festung der roten Felsen“ und zieht Paläontologen und Abenteurer an.",
+      hu: "A Khermen Tsav egy lenyűgöző kanyon a Góbi sivatagban, Mongóliában, híres vörös homokkő szikláiról és gazdag ősmaradvány-lelőhelyeiről. A kanyon 20 km hosszú és akár 200 méter mély. A Gobi Gurvan Saikhan természetvédelmi terület része. A régió híres dinoszauruszfosszíliákról, mint az Oviraptor és a Protoceratops. A Khermen Tsav mongolul „vörös sziklák erődítményét” jelenti, és paleontológusokat és kalandorokat vonz.",
+      ro: "Khermen Tsav este un canion impresionant din deșertul Gobi din Mongolia, renumit pentru stâncile sale de gresie roșie și descoperirile bogate de fosile. Canionul se întinde pe 20 km lungime și atinge adâncimi de până la 200 m. Face parte din rezervația naturală Gobi Gurvan Saikhan. Zona este faimoasă pentru fosilele de dinozaur, inclusiv Oviraptor și Protoceratops. Khermen Tsav înseamnă „fortăreața stâncilor roșii” în mongolă.",
+      en: "Khermen Tsav is a striking canyon in the Gobi Desert of Mongolia, known for its red sandstone cliffs and rich fossil deposits. The canyon stretches 20 km long and reaches depths of up to 200 m. It is part of the Gobi Gurvan Saikhan National Park. Famous for dinosaur fossils including Oviraptor and Protoceratops, its name means 'Fortress of Red Rocks' in Mongolian, attracting paleontologists and adventurers.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 20 km", "Maximale Tiefe: 200 m", "Höhe der Felswände: bis zu 100 m", "Schutzstatus: Teil des Gobi-Gurvan-Saikhan-Nationalparks", "Fossilien: Oviraptor, Protoceratops", "Entfernung zur nächsten Stadt: 150 km (Dalanzadgad)"],
+      hu: ["Hossz: 20 km", "Maximális mélység: 200 m", "Sziklafalak magassága: akár 100 m", "Védettség: Gobi Gurvan Saikhan Nemzeti Park része", "Fosszíliák: Oviraptor, Protoceratops", "Távolság a legközelebbi várostól: 150 km (Dalanzadgad)"],
+      ro: ["Lungime: 20 km", "Adâncime maximă: 200 m", "Înălțimea pereților de stâncă: până la 100 m", "Statut de protecție: parte a Parcului Național Gobi Gurvan Saikhan", "Fosile: Oviraptor, Protoceratops", "Distanța până la cel mai apropiat oraș: 150 km (Dalanzadgad)"],
+      en: ["Length: 20 km", "Maximum depth: 200 m", "Cliff height: up to 100 m", "Protected status: part of Gobi Gurvan Saikhan National Park", "Fossils: Oviraptor, Protoceratops", "Distance to nearest town: 150 km (Dalanzadgad)"],
+    },
+  },
   {
     id: "burkhan-khaldun-landmarks-v2",
     type: "landmark",
@@ -671,9 +850,8 @@ image: "/poi-images/khermen-tsav-landmarks-v2.webp"
       de: "Burchan Chaldun",
       hu: "Burkhan Khaldun hegy",
       ro: "Muntele Burkhan Khaldun",
-      en: "Burkhan Khaldun Mountain",
-image: "/poi-images/burkhan-khaldun-landmarks-v2.webp"
-},
+      en: "Burkhan Khaldun Mountain"},
+    image: "/poi-images/burkhan-khaldun-landmarks-v2.webp",
     description: {
       de: "Der Burchan Chaldun ist der heiligste Berg der Mongolei, versteckt in der bewaldeten Khentii-Gebirgskette. Er gilt als der wahrscheinliche Geburtsort und die geheime Ruhestätte von Dschingis Khan.",
       hu: "A Burkhan Khaldun Mongólia legszentebb hegye, amely a fás Khentii-hegységben rejtőzik. Úgy tartják, hogy ez Dzsingisz kán feltételezett szülőhelye és titkos végső nyughelye.",
@@ -705,7 +883,20 @@ image: "/poi-images/burkhan-khaldun-landmarks-v2.webp"
         "The exact location of Genghis Khan's tomb remains a closely guarded secret.",
         "The mountain marks the watershed between the Arctic Ocean and the Pacific."
       ]
-    }, image: "/poi-images/burkhan-khaldun-landmarks-v2.webp"},
+    }, image: "/poi-images/burkhan-khaldun-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Burkhan Khaldun ist ein heiliger Berg in der Mongolei in den Chemnuge-Bergen. Er ist bekannt als Geburtsort von Dschingis Khan und als UNESCO-Welterbestätte. Der Berg erreicht eine Höhe von 2.362 Metern und ist von dichten Wäldern und alpinen Wiesen umgeben. Er spielt eine zentrale Rolle im mongolischen Schamanismus und Tengrismus. Die Stätte umfasst mehrere archäologische Funde aus der Nomadenzeit. Der Berg wird auch als „Berg des Buddha“ bezeichnet.",
+      hu: "A Burkhan Khaldun szent hegy Mongóliában, a Chemnuge-hegységben. Ismert arról, hogy Dzsingisz kán szülőhelye, és UNESCO Világörökség része. Magassága 2.362 méter, sűrű erdők és alpesi rétek veszik körül. Központi szerepet játszik a mongol sámánizmusban és tengrizmusban. A terület számos nomád korból származó régészeti leletet tartalmaz. A hegyet „Buddha hegyének” is nevezik.",
+      ro: "Muntele Burkhan Khaldun este un munte sacru din Mongolia, situat în munții Chemnuge. Este cunoscut ca locul de naștere al lui Genghis Han și face parte din Patrimoniul Mondial UNESCO. Altitudinea sa este de 2.362 m, înconjurat de păduri dese și pajiști alpine. Joacă un rol central în șamanismul și tengrismul mongol. Situl cuprinde mai multe descoperiri arheologice din epoca nomadă. Muntele este numit și „Muntele lui Buddha”.",
+      en: "Burkhan Khaldun is a sacred mountain in Mongolia's Chemnuge range, revered as the birthplace of Genghis Khan and a UNESCO World Heritage site. Rising to 2,362 m, it is covered in dense forests and alpine meadows. It holds central importance in Mongolian shamanism and Tengriism. The area features archaeological remains from nomadic periods. The mountain is also called 'Buddha's Mountain'.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.362 m", "UNESCO-Welterbe seit 2015", "Fläche Schutzzone: 12.000 ha", "Bedeutendster Fluss: Onon (Quelle in der Nähe)", "Archäologische Stätten: über 30", "Durchschnittstemperatur im Juli: 15°C"],
+      hu: ["Magasság: 2.362 m", "UNESCO Világörökség: 2015 óta", "Védett terület: 12.000 ha", "Legjelentősebb folyó: Onon (forrása a közelben)", "Régészeti lelőhelyek: több mint 30", "Átlaghőmérséklet júliusban: 15°C"],
+      ro: ["Altitudine: 2.362 m", "Patrimoniu UNESCO din 2015", "Zonă protejată: 12.000 ha", "Râu principal: Onon (izvor în apropiere)", "Situri arheologice: peste 30", "Temperatura medie în iulie: 15°C"],
+      en: ["Elevation: 2,362 m", "UNESCO World Heritage since 2015", "Protected area: 12,000 ha", "Major river: Onon (source nearby)", "Archaeological sites: over 30", "Mean July temperature: 15°C"],
+    },
+  },
   {
     id: "aglag-buteel-monastery-landmarks-v2",
     type: "tourist-attraction",
@@ -715,9 +906,8 @@ image: "/poi-images/burkhan-khaldun-landmarks-v2.webp"
       de: "Aglag Buteel Kloster",
       hu: "Aglag Buteel kolostor",
       ro: "Mănăstirea Aglag Buteel",
-      en: "Aglag Buteel Monastery",
-image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp"
-},
+      en: "Aglag Buteel Monastery"},
+    image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp",
     description: {
       de: "Das Aglag Buteel Kloster ist ein einzigartiges spirituelles Zentrum und Museum, eingebettet in die schroffen Granitberge. Es wurde von einem berühmten mongolischen buddhistischen Lama entworfen und zeichnet sich durch fantastische Steinskulpturen aus.",
       hu: "Az Aglag Buteel kolostor egy egyedülálló spirituális központ és múzeum a zord gránithegyek ölelésében. Egy híres mongol buddhista láma tervezte, és fantasztikus kőszobrok sokasága jellemzi.",
@@ -749,7 +939,20 @@ image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp"
         "The temple houses an extraordinary collection of Buddhist art.",
         "It is located about 100 kilometers north of Ulaanbaatar in remote nature."
       ]
-    }, image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp"},
+    }, image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Aglag Buteel Kloster liegt im Süden von Ulaanbaatar, etwa 30 Kilometer entfernt. Es wurde 1990 gegründet und ist ein aktives buddhistisches Kloster. Die Tempel sind in eine felsige Landschaft gebaut. Es gibt eine große Stupa und viele Statuen. Das Kloster bietet Meditationskurse und spirituelle Rückzuge an. Die Umgebung ist ruhig und naturnah. Es ist ein beliebtes Ausflugsziel für Einheimische und Touristen.",
+      hu: "Az Aglag Buteel kolostor Ulaanbátortól délre, kb. 30 km-re található. 1990-ben alapították, aktív buddhista kolostor. A templomok sziklás tájba épültek. Nagy sztúpa és számos szobor található. A kolostor meditációs tanfolyamokat és lelki elvonulásokat kínál. A környék csendes és természetközeli. Népszerű kirándulóhely helyiek és turisták körében.",
+      ro: "Mănăstirea Aglag Buteel este situată la sud de Ulaanbaatar, la aproximativ 30 de kilometri. A fost fondată în 1990 și este o mănăstire budistă activă. Templele sunt construite într-un peisaj stâncos. Există o stupa mare și multe statui. Mănăstirea oferă cursuri de meditație și retrageri spirituale. Împrejurimile sunt liniștite și naturale. Este o destinație populară pentru localnici și turiști.",
+      en: "Aglag Buteel Monastery is located south of Ulaanbaatar, about 30 km away. Founded in 1990, it is an active Buddhist monastery. The temples are built into a rocky landscape. There is a large stupa and many statues. The monastery offers meditation courses and spiritual retreats. The surroundings are peaceful and natural. It is a popular destination for locals and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1990", "Entfernung von Ulaanbaatar: 30 km", "Anzahl der Tempel: 3", "Größe der Stupa: Höhe ca. 10 m", "Höhenlage: ca. 1.500 m", "Besucher pro Jahr: ca. 50.000"],
+      hu: ["Alapítás éve: 1990", "Távolság Ulaanbátortól: 30 km", "Templomok száma: 3", "Sztúpa mérete: magasság kb. 10 m", "Tengerszint feletti magasság: kb. 1.500 m", "Látogatók évente: kb. 50.000"],
+      ro: ["Anul fondării: 1990", "Distanță de Ulaanbaatar: 30 km", "Număr de temple: 3", "Înălțimea stupei: aprox. 10 m", "Altitudine: aprox. 1.500 m", "Vizitatori pe an: aprox. 50.000"],
+      en: ["Founded: 1990", "Distance from Ulaanbaatar: 30 km", "Number of temples: 3", "Stupa height: approx. 10 m", "Elevation: approx. 1,500 m", "Annual visitors: approx. 50,000"],
+    },
+  },
   {
     id: "suikhent-petrified-forest-landmarks-v2",
     type: "landmark",
@@ -759,9 +962,8 @@ image: "/poi-images/aglag-buteel-monastery-landmarks-v2.webp"
       de: "Versteinerter Wald von Suikhent",
       hu: "Suikhent megkövesedett erdeje",
       ro: "Pădurea Pietrificată Suikhent",
-      en: "Suikhent Petrified Forest",
-image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp"
-},
+      en: "Suikhent Petrified Forest"},
+    image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp",
     description: {
       de: "Der versteinerte Wald von Suikhent ist eine paläontologische Sensation in der mongolischen Wüste. Vor Millionen von Jahren von Vulkanasche begraben, verwandelten sich die massiven Baumstämme in steinernes Holz.",
       hu: "A suikhenti megkövesedett erdő igazi őslénytani szenzáció a mongol sivatagban. A több millió évvel ezelőtt vulkáni hamu alá temetett hatalmas fatörzsek kővé dermedtek az idők során.",
@@ -793,7 +995,20 @@ image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp"
         "The area stretches over an extent of almost 12 kilometers.",
         "There are efforts to protect the site from illegal fossil collectors."
       ]
-    }, image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp"},
+    }, image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der versteinerte Wald von Suikhent liegt im Süden der Mongolei, in der Wüste Gobi. Die fossilen Bäume stammen aus der Jurazeit, vor etwa 150 Millionen Jahren. Der Wald erstreckt sich über eine Fläche von etwa 20 Quadratkilometern. Die Bäume sind durch Silikatmineralien ersetzt und gut erhalten. Es gibt Baumstämme mit einem Durchmesser von bis zu einem Meter. Die Stätte ist von großer wissenschaftlicher Bedeutung für die Paläobotanik.",
+      hu: "A Suikhent-i megkövesedett erdő Dél-Mongóliában, a Góbi-sivatagban található. A fosszilis fák a jura korból származnak, kb. 150 millió évesek. Az erdő mintegy 20 négyzetkilométeren terül el. A fákat szilikátásványok váltották fel, jól megőrződtek. Vannak törzsek, amelyek átmérője eléri az 1 métert. A lelőhely nagy tudományos jelentőségű a paleobotanika számára.",
+      ro: "Pădurea pietrificată Suikhent este situată în sudul Mongoliei, în Deșertul Gobi. Copacii fosili datează din Jurasic, acum aproximativ 150 de milioane de ani. Pădurea se întinde pe o suprafață de aproximativ 20 de kilometri pătrați. Copacii au fost înlocuiți cu minerale silicatice, fiind bine conservați. Există trunchiuri cu un diametru de până la un metru. Situl are o importanță științifică majoră pentru paleobotanică.",
+      en: "The Suikhent Petrified Forest is located in southern Mongolia, in the Gobi Desert. The fossilized trees date from the Jurassic period, about 150 million years ago. The forest covers about 20 square kilometers. The trees have been replaced by silicate minerals and are well preserved. Trunks can be up to one meter in diameter. The site is of great scientific importance for paleobotany.",
+    },
+    factsAdvanced: {
+      de: ["Alter: ca. 150 Millionen Jahre (Jura)", "Fläche: ca. 20 km²", "Maximaler Durchmesser der Stämme: 1 m", "Länge der Stämme: bis zu 5 m", "Mineralien: Silikate (Quarz)", "Lage: südliche Gobi"],
+      hu: ["Kor: kb. 150 millió év (jura)", "Terület: kb. 20 km²", "Törzsek max. átmérője: 1 m", "Törzsek hossza: akár 5 m", "Ásványok: szilikátok (kvarc)", "Hely: dél-góbi"],
+      ro: ["Vârstă: aprox. 150 milioane de ani (Jurasic)", "Suprafață: aprox. 20 km²", "Diametrul maxim al trunchiurilor: 1 m", "Lungimea trunchiurilor: până la 5 m", "Minerale: silicați (cuarț)", "Locație: sudul Gobiului"],
+      en: ["Age: approx. 150 million years (Jurassic)", "Area: approx. 20 sq km", "Maximum trunk diameter: 1 m", "Trunk length: up to 5 m", "Minerals: silicates (quartz)", "Location: southern Gobi"],
+    },
+  },
   {
     id: "shiliin-bogd-landmarks-v2",
     type: "landmark",
@@ -803,9 +1018,8 @@ image: "/poi-images/suikhent-petrified-forest-landmarks-v2.webp"
       de: "Shiliin Bogd",
       hu: "Shiliin Bogd vulkán",
       ro: "Vulcanul Shiliin Bogd",
-      en: "Shiliin Bogd Mountain",
-image: "/poi-images/shiliin-bogd-landmarks-v2.webp"
-},
+      en: "Shiliin Bogd Mountain"},
+    image: "/poi-images/shiliin-bogd-landmarks-v2.webp",
     description: {
       de: "Der Shiliin Bogd ist ein markanter, erloschener Vulkankegel in der weitläufigen Steppe der Provinz Sükhbaatar. Für die Mongolen ist er ein heiliger Ort, der besonders bei Sonnenaufgang für Gebete aufgesucht wird.",
       hu: "A Shiliin Bogd egy feltűnő, kialudt vulkáni kúp Sükhbaatar tartomány tágas sztyeppéjén. A mongolok számára szent hely, amelyet különösen napkeltekor látogatnak imádkozás céljából.",
@@ -837,7 +1051,20 @@ image: "/poi-images/shiliin-bogd-landmarks-v2.webp"
         "Traditionally, men climb to the peak to renew their spirit.",
         "Nearby is Taliin Agui, one of the longest caves in Mongolia."
       ]
-    }, image: "/poi-images/shiliin-bogd-landmarks-v2.webp"},
+    }, image: "/poi-images/shiliin-bogd-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Shiliin Bogd ist ein erloschener Vulkan in der östlichen Mongolei, in der Provinz Süchbaatar. Der Berg hat eine Höhe von 1.778 Metern. Der Krater hat einen Durchmesser von etwa 500 Metern und ist 100 Meter tief. Der Vulkan brach vor etwa 10.000 Jahren aus. Die Umgebung ist von hellen Lavaablagerungen geprägt. Von oben hat man eine weite Aussicht über die Steppe. Der Berg gilt als heiliger Ort für die lokalen Nomaden.",
+      hu: "A Shiliin Bogd egy kialudt vulkán Kelet-Mongóliában, Szükhbátor tartományban. Magassága 1.778 m. A kráter átmérője kb. 500 m, mélysége 100 m. Utoljára kb. 10.000 éve tört ki. A környéket világos lávafolyások jellemzik. A csúcsról messze ellátni a sztyeppe felett. A hegyet a nomádok szent helyként tisztelik.",
+      ro: "Shiliin Bogd este un vulcan stins în estul Mongoliei, în provincia Sükhbaatar. Muntele are o altitudine de 1.778 de metri. Craterul are un diametru de aproximativ 500 de metri și o adâncime de 100 de metri. Vulcanul a erupt acum aproximativ 10.000 de ani. Împrejurimile sunt marcate de depozite de lavă deschisă la culoare. De pe vârf se deschide o panoramă vastă asupra stepei. Muntele este considerat un loc sacru de către nomazii locali.",
+      en: "Shiliin Bogd is an extinct volcano in eastern Mongolia, in Sükhbaatar Province. The mountain stands at 1,778 meters. Its crater is about 500 meters in diameter and 100 meters deep. The volcano last erupted about 10,000 years ago. The surrounding area features light-colored lava deposits. From the summit, there is a wide view of the steppe. The mountain is considered sacred by local nomads.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.778 m", "Kraterdurchmesser: 500 m", "Kratertiefe: 100 m", "Letzter Ausbruch: vor 10.000 Jahren", "Lage: Provinz Süchbaatar, Ostmongolei", "Status: erloschen"],
+      hu: ["Magasság: 1.778 m", "Kráter átmérő: 500 m", "Kráter mélység: 100 m", "Utolsó kitörés: 10.000 éve", "Hely: Szükhbátor tartomány, Kelet-Mongólia", "Státusz: kialudt"],
+      ro: ["Altitudine: 1.778 m", "Diametru crater: 500 m", "Adâncime crater: 100 m", "Ultima erupție: acum 10.000 de ani", "Locație: provincia Sükhbaatar, estul Mongoliei", "Stare: stins"],
+      en: ["Height: 1,778 meters", "Crater diameter: 500 meters", "Crater depth: 100 meters", "Last eruption: 10,000 years ago", "Location: Sükhbaatar Province, eastern Mongolia", "Status: extinct"],
+    },
+  },
   {
     id: "taikhar-chuluu-landmarks-v2",
     type: "landmark",
@@ -847,9 +1074,8 @@ image: "/poi-images/shiliin-bogd-landmarks-v2.webp"
       de: "Taikhar-Felsen (Taikhar Chuluu)",
       hu: "Taikhar-szikla (Taikhar Chuluu)",
       ro: "Stânca Taikhar (Taikhar Chuluu)",
-      en: "Taikhar Rock (Taikhar Chuluu)",
-image: "/poi-images/taikhar-chuluu-landmarks-v2.webp"
-},
+      en: "Taikhar Rock (Taikhar Chuluu)"},
+    image: "/poi-images/taikhar-chuluu-landmarks-v2.webp",
     description: {
       de: "Der Taikhar Chuluu ist ein massiver, 20 Meter hoher Granitblock, der rätselhafterweise mitten in der weiten Ebene am Fluss Tamir steht. Der Felsen ist über und über mit historischen Inschriften bedeckt.",
       hu: "A Taikhar Chuluu egy hatalmas, 20 méter magas gránittömb, amely rejtélyes módon a Tamir folyó melletti síkság közepén áll. A sziklát történelmi feliratok borítják minden oldalról.",
@@ -881,6 +1107,18 @@ image: "/poi-images/taikhar-chuluu-landmarks-v2.webp"
         "There are texts in Uyghur, Tibetan, and Mongolian scripts.",
         "Today, many of the ancient writings are threatened by modern graffiti."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Taikhar-Felsen (Taikhar Chuluu) ist ein großer Granitfelsen im Zentrum der Mongolei, etwa 200 Kilometer westlich von Ulaanbaatar. Der Felsen ragt etwa 30 Meter aus der flachen Steppe empor. Er ist von historischer Bedeutung, da er als Ort für Rituale und als Wegweiser diente. Auf dem Felsen sind alte Petroglyphen und Inschriften zu sehen. Der Umfang beträgt etwa 200 Meter. Die Legende besagt, dass der Felsen von einem Dämon dort platziert wurde.",
+      hu: "A Taikhar-szikla (Taikhar Chuluu) egy nagy gránitszikla Közép-Mongóliában, Ulaanbátortól kb. 200 km-re nyugatra. A szikla kb. 30 m magasan emelkedik ki a sík sztyeppéből. Történelmi jelentőségű, rituálék helyszíne és útmutató volt. Ősi petroglifák és feliratok láthatók rajta. Kerülete kb. 200 m. A legenda szerint egy démon helyezte oda.",
+      ro: "Stânca Taikhar (Taikhar Chuluu) este o stâncă mare de granit în centrul Mongoliei, la aproximativ 200 de kilometri vest de Ulaanbaatar. Stânca se înalță la aproximativ 30 de metri deasupra stepei plane. Are importanță istorică, fiind un loc pentru ritualuri și un reper. Pe stâncă se găsesc petroglife și inscripții străvechi. Circumferința este de aproximativ 200 de metri. Legenda spune că stânca a fost plasată acolo de un demon.",
+      en: "Taikhar Rock (Taikhar Chuluu) is a large granite rock in central Mongolia, about 200 km west of Ulaanbaatar. It rises about 30 meters from the flat steppe. It has historical significance as a ritual site and landmark. Ancient petroglyphs and inscriptions are visible on it. Its circumference is about 200 meters. Legend says the rock was placed by a demon.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 30 m", "Umfang: ca. 200 m", "Gesteinsart: Granit", "Entfernung von Ulaanbaatar: 200 km", "Historische Nutzung: Rituale, Wegweiser", "Alter der Petroglyphen: bis zu 3.000 Jahre"],
+      hu: ["Magasság: kb. 30 m", "Kerület: kb. 200 m", "Kőzettípus: gránit", "Távolság Ulaanbátortól: 200 km", "Történelmi használat: rituálék, útmutató", "Petroglifák kora: akár 3.000 év"],
+      ro: ["Înălțime: aprox. 30 m", "Circumferință: aprox. 200 m", "Tip de rocă: granit", "Distanță de Ulaanbaatar: 200 km", "Utilizare istorică: ritualuri, reper", "Vârsta petroglifelor: până la 3.000 de ani"],
+      en: ["Height: approx. 30 meters", "Circumference: approx. 200 meters", "Rock type: granite", "Distance from Ulaanbaatar: 200 km", "Historical use: rituals, landmark", "Petroglyph age: up to 3,000 years"],
+    },
   }
 ];

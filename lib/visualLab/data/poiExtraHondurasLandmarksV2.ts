@@ -11,9 +11,8 @@ export const poiExtraHondurasLandmarksV2: POI[] = [
       de: "Kathedrale St. Michael Erzengel",
       hu: "Szent Mihály Arkangyal-székesegyház",
       ro: "Catedrala Sfântul Mihail Arhanghelul",
-      en: "St. Michael the Archangel Cathedral",
-image: "/poi-images/catedral-metropolitana-tegucigalpa-landmarks-v2.webp"
-},
+      en: "St. Michael the Archangel Cathedral"},
+    image: "/poi-images/catedral-metropolitana-tegucigalpa-landmarks-v2.webp",
     description: {
       de: "Die Hauptkathedrale von Tegucigalpa, ein bedeutendes barockes Bauwerk aus dem 18. Jahrhundert.",
       hu: "Tegucigalpa főszékesegyháza, egy jelentős 18. századi barokk építmény.",
@@ -47,9 +46,8 @@ image: "/poi-images/catedral-metropolitana-tegucigalpa-landmarks-v2.webp"
       de: "Basilika von Suyapa",
       hu: "Suyapai bazilika",
       ro: "Bazilica din Suyapa",
-      en: "Basilica of Suyapa",
-image: "/poi-images/basilica-de-suyapa-landmarks-v2.webp"
-},
+      en: "Basilica of Suyapa"},
+    image: "/poi-images/basilica-de-suyapa-landmarks-v2.webp",
     description: {
       de: "Eine der größten Kirchen Mittelamerikas und wichtigster Wallfahrtsort für die Schutzpatronin von Honduras.",
       hu: "Közép-Amerika egyik legnagyobb temploma, Honduras védőszentjének legfontosabb zarándokhelye.",
@@ -83,9 +81,8 @@ image: "/poi-images/basilica-de-suyapa-landmarks-v2.webp"
       de: "Estadio Olímpico Metropolitano",
       hu: "Estadio Olímpico Metropolitano",
       ro: "Stadionul Olimpic Metropolitan",
-      en: "Estadio Olímpico Metropolitano",
-image: "/poi-images/estadio-olimpico-metropolitano-landmarks-v2.webp"
-},
+      en: "Estadio Olímpico Metropolitano"},
+    image: "/poi-images/estadio-olimpico-metropolitano-landmarks-v2.webp",
     description: {
       de: "Das größte Stadion in Honduras, gelegen in San Pedro Sula, Austragungsort für Fußballspiele und Konzerte.",
       hu: "Honduras legnagyobb stadionja San Pedro Sulában, futballmérkőzések és koncertek helyszíne.",
@@ -119,9 +116,8 @@ image: "/poi-images/estadio-olimpico-metropolitano-landmarks-v2.webp"
       de: "Kathedrale St. Peter Apostel",
       hu: "Szent Péter apostol-székesegyház",
       ro: "Catedrala Sfântul Petru Apostolul",
-      en: "St. Peter the Apostle Cathedral",
-image: "/poi-images/catedral-de-san-pedro-apostol-landmarks-v2.webp"
-},
+      en: "St. Peter the Apostle Cathedral"},
+    image: "/poi-images/catedral-de-san-pedro-apostol-landmarks-v2.webp",
     description: {
       de: "Die Hauptkirche von San Pedro Sula, ein markantes Gebäude im Stadtzentrum.",
       hu: "San Pedro Sula fő temploma, a városközpont jellegzetes épülete.",
@@ -155,9 +151,8 @@ image: "/poi-images/catedral-de-san-pedro-apostol-landmarks-v2.webp"
       de: "Nationaltheater Manuel Bonilla",
       hu: "Manuel Bonilla Nemzeti Színház",
       ro: "Teatrul Național Manuel Bonilla",
-      en: "Manuel Bonilla National Theater",
-image: "/poi-images/teatro-nacional-manuel-bonilla-landmarks-v2.webp"
-},
+      en: "Manuel Bonilla National Theater"},
+    image: "/poi-images/teatro-nacional-manuel-bonilla-landmarks-v2.webp",
     description: {
       de: "Das wichtigste Theater in Honduras, gelegen in Tegucigalpa, inspiriert von europäischer Architektur.",
       hu: "Honduras legfontosabb színháza Tegucigalpában, európai építészet ihlette.",
@@ -191,9 +186,8 @@ image: "/poi-images/teatro-nacional-manuel-bonilla-landmarks-v2.webp"
       de: "Choluteca-Brücke",
       hu: "Choluteca-híd",
       ro: "Podul Choluteca",
-      en: "Choluteca Bridge",
-image: "/poi-images/puente-choluteca-landmarks-v2.webp"
-},
+      en: "Choluteca Bridge"},
+    image: "/poi-images/puente-choluteca-landmarks-v2.webp",
     description: {
       de: "Eine berühmte Hängebrücke, die als Symbol der Widerstandsfähigkeit nach Hurrikan Mitch bekannt wurde.",
       hu: "Híres függőhíd, amely a Mitch hurrikán után az ellenálló képesség szimbólumává vált.",
@@ -227,9 +221,8 @@ image: "/poi-images/puente-choluteca-landmarks-v2.webp"
       de: "Kirche La Merced (Gracias)",
       hu: "La Merced-templom (Gracias)",
       ro: "Biserica La Merced (Gracias)",
-      en: "La Merced Church (Gracias)",
-image: "/poi-images/iglesia-la-merced-gracias-landmarks-v2.webp"
-},
+      en: "La Merced Church (Gracias)"},
+    image: "/poi-images/iglesia-la-merced-gracias-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten Kirchen in Honduras, bekannt für ihre einfache koloniale Schönheit.",
       hu: "Honduras egyik legrégebbi temploma, egyszerű gyarmati szépségéről ismert.",
@@ -263,9 +256,8 @@ image: "/poi-images/iglesia-la-merced-gracias-landmarks-v2.webp"
       de: "Museum für Nationale Identität",
       hu: "Nemzeti Identitás Múzeuma",
       ro: "Muzeul Identității Naționale",
-      en: "Museum for National Identity",
-image: "/poi-images/museo-para-la-identidad-nacional-landmarks-v2.webp"
-},
+      en: "Museum for National Identity"},
+    image: "/poi-images/museo-para-la-identidad-nacional-landmarks-v2.webp",
     description: {
       de: "Ein wichtiges Museum in Tegucigalpa in einem historischen Krankenhausgebäude, das die honduranische Geschichte und Kunst zeigt.",
       hu: "Jelentős múzeum Tegucigalpában, egy történelmi kórházépületben, amely a hondurasi történelmet és művészetet mutatja be.",
@@ -299,9 +291,8 @@ image: "/poi-images/museo-para-la-identidad-nacional-landmarks-v2.webp"
       de: "Nationalstadion Chelato Uclés",
       hu: "Chelato Uclés Nemzeti Stadion",
       ro: "Stadionul Național Chelato Uclés",
-      en: "Chelato Uclés National Stadium",
-image: "/poi-images/estadio-nacional-chelato-ucles-landmarks-v2.webp"
-},
+      en: "Chelato Uclés National Stadium"},
+    image: "/poi-images/estadio-nacional-chelato-ucles-landmarks-v2.webp",
     description: {
       de: "Das historische Nationalstadion in Tegucigalpa, benannt nach einer honduranischen Fußballlegende.",
       hu: "A történelmi nemzeti stadion Tegucigalpában, egy hondurasi futball-legenda nevét viseli.",
@@ -335,9 +326,8 @@ image: "/poi-images/estadio-nacional-chelato-ucles-landmarks-v2.webp"
       de: "Parlamentsgebäude von Honduras",
       hu: "Hondurasi Törvényhozási Palota",
       ro: "Palatul Legislativ din Honduras",
-      en: "Legislative Palace of Honduras",
-image: "/poi-images/palacio-legislativo-honduras-landmarks-v2.webp"
-},
+      en: "Legislative Palace of Honduras"},
+    image: "/poi-images/palacio-legislativo-honduras-landmarks-v2.webp",
     description: {
       de: "Der Sitz des Nationalkongresses von Honduras, ein modernes Gebäude im Zentrum von Tegucigalpa.",
       hu: "A Hondurasi Nemzeti Kongresszus székhelye, egy modern épület Tegucigalpa központjában.",
@@ -371,9 +361,8 @@ image: "/poi-images/palacio-legislativo-honduras-landmarks-v2.webp"
       de: "Kirche Los Dolores",
       hu: "Los Dolores-templom",
       ro: "Biserica Los Dolores",
-      en: "Los Dolores Church",
-image: "/poi-images/iglesia-los-dolores-tegucigalpa-landmarks-v2.webp"
-},
+      en: "Los Dolores Church"},
+    image: "/poi-images/iglesia-los-dolores-tegucigalpa-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten und bekanntesten Kirchen in Tegucigalpa mit einer unverwechselbaren Fassade.",
       hu: "Tegucigalpa egyik legrégebbi és legismertebb temploma, jellegzetes homlokzattal.",
@@ -407,9 +396,8 @@ image: "/poi-images/iglesia-los-dolores-tegucigalpa-landmarks-v2.webp"
       de: "Zentralbank von Honduras",
       hu: "Hondurasi Központi Bank",
       ro: "Banca Centrală a Hondurasului",
-      en: "Central Bank of Honduras",
-image: "/poi-images/banco-central-honduras-landmarks-v2.webp"
-},
+      en: "Central Bank of Honduras"},
+    image: "/poi-images/banco-central-honduras-landmarks-v2.webp",
     description: {
       de: "Das Hauptgebäude der Zentralbank, ein Beispiel brutalistischer Architektur in Tegucigalpa.",
       hu: "A központi bank főépülete, a brutalista építészet példája Tegucigalpában.",
@@ -443,9 +431,8 @@ image: "/poi-images/banco-central-honduras-landmarks-v2.webp"
       de: "Altes Präsidentenhaus",
       hu: "Régi Elnöki Palota",
       ro: "Fosta Casă Prezidențială",
-      en: "Old Presidential House",
-image: "/poi-images/antigua-casa-presidencial-landmarks-v2.webp"
-},
+      en: "Old Presidential House"},
+    image: "/poi-images/antigua-casa-presidencial-landmarks-v2.webp",
     description: {
       de: "Der ehemalige Sitz der honduranischen Regierung, heute ein Museum und historisches Zentrum.",
       hu: "A hondurasi kormány egykori székhelye, ma múzeum és történelmi központ.",
@@ -479,9 +466,8 @@ image: "/poi-images/antigua-casa-presidencial-landmarks-v2.webp"
       de: "Kathedrale der Unbefleckten Empfängnis (Choluteca)",
       hu: "Szeplőtelen Fogantatás-székesegyház (Choluteca)",
       ro: "Catedrala Imaculata Zămislire (Choluteca)",
-      en: "Immaculate Conception Cathedral (Choluteca)",
-image: "/poi-images/catedral-inmaculada-concepcion-choluteca-landmarks-v2.webp"
-},
+      en: "Immaculate Conception Cathedral (Choluteca)"},
+    image: "/poi-images/catedral-inmaculada-concepcion-choluteca-landmarks-v2.webp",
     description: {
       de: "Die Hauptkirche von Choluteca, eine gut erhaltene Kolonialkirche aus dem 17. Jahrhundert.",
       hu: "Choluteca fő temploma, egy jól megőrzött 17. századi gyarmati templom.",
@@ -515,9 +501,8 @@ image: "/poi-images/catedral-inmaculada-concepcion-choluteca-landmarks-v2.webp"
       de: "Festung Santa Bárbara",
       hu: "Santa Bárbara-erőd",
       ro: "Fortăreața Santa Bárbara",
-      en: "Fortress of Santa Bárbara",
-image: "/poi-images/fuerte-santa-barbara-trujillo-landmarks-v2.webp"
-},
+      en: "Fortress of Santa Bárbara"},
+    image: "/poi-images/fuerte-santa-barbara-trujillo-landmarks-v2.webp",
     description: {
       de: "Die älteste Festung auf dem amerikanischen Festland, erbaut zum Schutz des Hafens von Trujillo.",
       hu: "Az amerikai kontinens legrégebbi erődje, Trujillo kikötőjének védelmére épült.",
@@ -551,9 +536,8 @@ image: "/poi-images/fuerte-santa-barbara-trujillo-landmarks-v2.webp"
       de: "Estadio Francisco Morazán",
       hu: "Estadio Francisco Morazán",
       ro: "Stadionul Francisco Morazán",
-      en: "Estadio Francisco Morazán",
-image: "/poi-images/estadio-francisco-morazan-landmarks-v2.webp"
-},
+      en: "Estadio Francisco Morazán"},
+    image: "/poi-images/estadio-francisco-morazan-landmarks-v2.webp",
     description: {
       de: "Eines der ältesten Fußballstadien in Honduras, im Herzen von San Pedro Sula.",
       hu: "Honduras egyik legrégebbi futballstadionja, San Pedro Sula szívében.",
@@ -587,9 +571,8 @@ image: "/poi-images/estadio-francisco-morazan-landmarks-v2.webp"
       de: "Kathedrale von La Ceiba",
       hu: "La Ceiba-i székesegyház",
       ro: "Catedrala din La Ceiba",
-      en: "La Ceiba Cathedral",
-image: "/poi-images/catedral-de-la-ceiba-landmarks-v2.webp"
-},
+      en: "La Ceiba Cathedral"},
+    image: "/poi-images/catedral-de-la-ceiba-landmarks-v2.webp",
     description: {
       de: "Die Isidor dem Pflüger gewidmete Hauptkirche der Stadt La Ceiba.",
       hu: "La Ceiba városának fő temploma, amelyet Szántóvető Izidornak szenteltek.",
@@ -623,9 +606,8 @@ image: "/poi-images/catedral-de-la-ceiba-landmarks-v2.webp"
       de: "Pier von Tela",
       hu: "Telai móló",
       ro: "Debarcaderul din Tela",
-      en: "Tela Pier",
-image: "/poi-images/muelle-de-tela-landmarks-v2.webp"
-},
+      en: "Tela Pier"},
+    image: "/poi-images/muelle-de-tela-landmarks-v2.webp",
     description: {
       de: "Der historische Pier von Tela, ein Überbleibsel der Blütezeit des Bananenexports.",
       hu: "Tela történelmi mólója, a banánexport virágkorának maradványa.",
@@ -659,9 +641,8 @@ image: "/poi-images/muelle-de-tela-landmarks-v2.webp"
       de: "Zentralpark von Gracias",
       hu: "Gracias központi parkja",
       ro: "Parcul Central din Gracias",
-      en: "Gracias Central Park",
-image: "/poi-images/parque-central-gracias-landmarks-v2.webp"
-},
+      en: "Gracias Central Park"},
+    image: "/poi-images/parque-central-gracias-landmarks-v2.webp",
     description: {
       de: "Das Herz der Kolonialstadt Gracias, umgeben von historischen Gebäuden.",
       hu: "Gracias gyarmati városának szíve, történelmi épületekkel körülvéve.",
@@ -695,9 +676,8 @@ image: "/poi-images/parque-central-gracias-landmarks-v2.webp"
       de: "Kirche San Francisco (Comayagua)",
       hu: "Szent Ferenc-templom (Comayagua)",
       ro: "Biserica San Francisco (Comayagua)",
-      en: "San Francisco Church (Comayagua)",
-image: "/poi-images/iglesia-de-san-francisco-comayagua-landmarks-v2.webp"
-},
+      en: "San Francisco Church (Comayagua)"},
+    image: "/poi-images/iglesia-de-san-francisco-comayagua-landmarks-v2.webp",
     description: {
       de: "Die erste in Comayagua erbaute Kirche mit einer der ältesten Glocken Amerikas.",
       hu: "Az első Comayaguában épült templom, Amerika egyik legrégebbi harangjával.",
@@ -731,9 +711,8 @@ image: "/poi-images/iglesia-de-san-francisco-comayagua-landmarks-v2.webp"
       de: "Archäologisches Museum Comayagua",
       hu: "Comayaguai Régészeti Múzeum",
       ro: "Muzeul de Arheologie Comayagua",
-      en: "Comayagua Archaeological Museum",
-image: "/poi-images/museo-de-comayagua-landmarks-v2.webp"
-},
+      en: "Comayagua Archaeological Museum"},
+    image: "/poi-images/museo-de-comayagua-landmarks-v2.webp",
     description: {
       de: "Ein Museum, das die reiche Geschichte des Comayagua-Tals von der prähispanischen Zeit bis heute zeigt.",
       hu: "Múzeum, amely a Comayagua-völgy gazdag történelmét mutatja be a prehispán kortól napjainkig.",
@@ -767,9 +746,8 @@ image: "/poi-images/museo-de-comayagua-landmarks-v2.webp"
       de: "Denkmal des Friedens",
       hu: "Béke-emlékmű",
       ro: "Monumentul Păcii",
-      en: "Monument to Peace",
-image: "/poi-images/monumento-a-la-paz-tegucigalpa-landmarks-v2.webp"
-},
+      en: "Monument to Peace"},
+    image: "/poi-images/monumento-a-la-paz-tegucigalpa-landmarks-v2.webp",
     description: {
       de: "Ein markantes Denkmal auf dem Juana-Lainez-Hügel, das dem Frieden gewidmet ist und eine tolle Aussicht bietet.",
       hu: "Jellegzetes emlékmű a Juana Lainez-dombon, amelyet a békének szenteltek és nagyszerű kilátást nyújt.",
@@ -803,9 +781,8 @@ image: "/poi-images/monumento-a-la-paz-tegucigalpa-landmarks-v2.webp"
       de: "Kirche von Santa Lucía",
       hu: "Santa Lucía-templom",
       ro: "Biserica din Santa Lucía",
-      en: "Santa Lucía Church",
-image: "/poi-images/iglesia-santa-lucia-landmarks-v2.webp"
-},
+      en: "Santa Lucía Church"},
+    image: "/poi-images/iglesia-santa-lucia-landmarks-v2.webp",
     description: {
       de: "Eine malerische Kirche in der historischen Bergbaustadt Santa Lucía, nahe Tegucigalpa.",
       hu: "Festői templom a történelmi bányavárosban, Santa Lucíában, Tegucigalpa közelében.",
@@ -839,9 +816,8 @@ image: "/poi-images/iglesia-santa-lucia-landmarks-v2.webp"
       de: "Nationale Kunstgalerie",
       hu: "Nemzeti Művészeti Galéria",
       ro: "Galeria Națională de Artă",
-      en: "National Art Gallery",
-image: "/poi-images/galeria-nacional-de-arte-landmarks-v2.webp"
-},
+      en: "National Art Gallery"},
+    image: "/poi-images/galeria-nacional-de-arte-landmarks-v2.webp",
     description: {
       de: "Die wichtigste Kunstgalerie in Honduras, die eine Sammlung honduranischer Kunst von der prähispanischen Zeit bis heute beherbergt.",
       hu: "Honduras legfontosabb művészeti galériája, amely hondurasi művészeti gyűjteménynek ad otthont a prehispán kortól napjainkig.",
@@ -875,9 +851,8 @@ image: "/poi-images/galeria-nacional-de-arte-landmarks-v2.webp"
       de: "Militärhistorisches Museum",
       hu: "Hadtörténeti Múzeum",
       ro: "Muzeul de Istorie Militară",
-      en: "Military History Museum",
-image: "/poi-images/museo-de-history-militar-honduras-landmarks-v2.webp"
-},
+      en: "Military History Museum"},
+    image: "/poi-images/museo-de-history-militar-honduras-landmarks-v2.webp",
     description: {
       de: "Ein Museum in Tegucigalpa, das der Militärgeschichte von Honduras gewidmet ist.",
       hu: "Tegucigalpában található múzeum, amely Honduras hadtörténetének szentelt.",
@@ -911,9 +886,8 @@ image: "/poi-images/museo-de-history-militar-honduras-landmarks-v2.webp"
       de: "Parque La Leona",
       hu: "La Leona park",
       ro: "Parcul La Leona",
-      en: "La Leona Park",
-image: "/poi-images/parque-la-leona-tegucigalpa-landmarks-v2.webp"
-},
+      en: "La Leona Park"},
+    image: "/poi-images/parque-la-leona-tegucigalpa-landmarks-v2.webp",
     description: {
       de: "Ein historischer Park in einem der ältesten Viertel von Tegucigalpa mit Panoramablick auf die Stadt.",
       hu: "Történelmi park Tegucigalpa egyik legrégebbi negyedében, panorámás kilátással a városra.",
@@ -947,9 +921,8 @@ image: "/poi-images/parque-la-leona-tegucigalpa-landmarks-v2.webp"
       de: "Mallol-Brücke",
       hu: "Mallol-híd",
       ro: "Podul Mallol",
-      en: "Mallol Bridge",
-image: "/poi-images/puente-mallol-tegucigalpa-landmarks-v2.webp"
-},
+      en: "Mallol Bridge"},
+    image: "/poi-images/puente-mallol-tegucigalpa-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten Brücken in Tegucigalpa, die das historische Zentrum mit Comayagüela verbindet.",
       hu: "Tegucigalpa egyik legrégebbi hídja, amely a történelmi központot köti össze Comayagüelával.",
@@ -983,9 +956,8 @@ image: "/poi-images/puente-mallol-tegucigalpa-landmarks-v2.webp"
       de: "Nationale Autonome Universität von Honduras",
       hu: "Hondurasi Nemzeti Autonóm Egyetem",
       ro: "Universitatea Națională Autonomă din Honduras",
-      en: "National Autonomous University of Honduras",
-image: "/poi-images/universidad-nacional-autonoma-honduras-landmarks-v2.webp"
-},
+      en: "National Autonomous University of Honduras"},
+    image: "/poi-images/universidad-nacional-autonoma-honduras-landmarks-v2.webp",
     description: {
       de: "Die größte und wichtigste öffentliche Universität in Honduras, gelegen in Tegucigalpa.",
       hu: "Honduras legnagyobb és legfontosabb állami egyeteme Tegucigalpában.",
@@ -1019,9 +991,8 @@ image: "/poi-images/universidad-nacional-autonoma-honduras-landmarks-v2.webp"
       de: "Zentralpark San Pedro Sula",
       hu: "San Pedro Sula központi parkja",
       ro: "Parcul Central San Pedro Sula",
-      en: "San Pedro Sula Central Park",
-image: "/poi-images/parque-central-san-pedro-sula-landmarks-v2.webp"
-},
+      en: "San Pedro Sula Central Park"},
+    image: "/poi-images/parque-central-san-pedro-sula-landmarks-v2.webp",
     description: {
       de: "Der zentrale Platz von San Pedro Sula, umgeben von der Kathedrale und wichtigen Gebäuden.",
       hu: "San Pedro Sula központi tere, a székesegyház és fontos épületek veszik körül.",
@@ -1055,9 +1026,8 @@ image: "/poi-images/parque-central-san-pedro-sula-landmarks-v2.webp"
       de: "Coca-Cola-Schild San Pedro Sula",
       hu: "Coca-Cola felirat San Pedro Sulában",
       ro: "Semnul Coca-Cola San Pedro Sula",
-      en: "Coca-Cola Sign San Pedro Sula",
-image: "/poi-images/coca-cola-sign-sps-landmarks-v2.webp"
-},
+      en: "Coca-Cola Sign San Pedro Sula"},
+    image: "/poi-images/coca-cola-sign-sps-landmarks-v2.webp",
     description: {
       de: "Ein ikonisches Werbeschild in den Merendón-Bergen, das die Stadt San Pedro Sula überblickt.",
       hu: "Ikonikus reklámtábla a Merendón-hegységben, ahonnan San Pedro Sula városára nyílik kilátás.",

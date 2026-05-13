@@ -11,9 +11,8 @@ export const poiExtraUgandaHistoryV2: POI[] = [
       de: "Kasubi-Gräber",
       hu: "Kasubi síremlékek",
       ro: "Mormintele Kasubi",
-      en: "Kasubi Tombs",
-image: "/poi-images/kasubi-tombs-history-v2.webp"
-},
+      en: "Kasubi Tombs"},
+    image: "/poi-images/kasubi-tombs-history-v2.webp",
     description: {
       de: "Die Kasubi-Gräber sind die Begräbnisstätte von vier Kabakas (Königen) von Buganda und ein wichtiges kulturelles Zentrum.",
       hu: "A Kasubi síremlékek Buganda négy kabakájának (királyának) temetkezési helye és fontos kulturális központ.",
@@ -25,7 +24,20 @@ image: "/poi-images/kasubi-tombs-history-v2.webp"
       hu: ["UNESCO Világörökség része", "Fontos helyszín a baganda népnek", "Tűzvész után újjáépítették"],
       ro: ["Patrimoniu Mondial UNESCO", "Sit important pentru poporul Baganda", "Reconstruit după un incendiu"],
       en: ["UNESCO World Heritage Site", "Important site for the Baganda people", "Rebuilt after a fire"]
-    }, image: "/poi-images/kasubi-tombs-history-v2.webp"},
+    }, image: "/poi-images/kasubi-tombs-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kasubi-Gräber in Kampala sind die letzte Ruhestätte von vier Kabaka (Königen) von Buganda. Die 1881 erbaute Haupthalle, Muzibu Azaala Mpanga, ist ein Meisterwerk der Architektur aus Holz, Stroh und Matten. 2001 wurden die Gräber zum UNESCO-Weltkulturerbe erklärt. 2010 zerstörte ein Brand das Hauptgebäude, aber der Wiederaufbau mit traditionellen Techniken ist im Gange. Die Stätte ist ein lebendiges Zentrum der gandischen Kultur und Spiritualität. Die Anlage umfasst mehrere Grabhügel und zeremonielle Bereiche. Die Gräber sind ein Symbol für die Identität und Geschichte des Buganda-Königreichs.",
+      hu: "A kasubi sírok Kampalában négy bugandai király (kabaka) nyughelyei. A központi épület, a Muzibu Azaala Mpanga, 1881-ben épült, nádból és fából. Az UNESCO 2001-ben világörökséggé nyilvánította. 2010-ben egy tűzvész elpusztította a főépületet, de a hagyományos módszerekkel történő újjáépítés folyamatban van. A helyszín a ganda kultúra és spiritualitás fontos központja, ahol ceremóniákat is tartanak. A sírkamrák és a környező épületek a királyi hagyományokat őrzik. A turisták számára is nyitott, de szigorú etikett betartása kötelező.",
+      ro: "Mormintele Kasubi din Kampala sunt locul de odihnă al patru kabaka (regi) ai Bugandei. Sala principală, Muzibu Azaala Mpanga, construită în 1881, este o capodoperă a arhitecturii tradiționale din lemn și paie. Situl a fost declarat Patrimoniu Mondial UNESCO în 2001. Un incendiu din 2010 a distrus clădirea principală, dar reconstrucția folosind tehnici tradiționale este în curs. Kasubi este un centru cultural și spiritual activ, unde se desfășoară ritualuri regale. Situl include, de asemenea, morminte secundare și terenuri sacre.",
+      en: "The Kasubi Tombs in Kampala are the burial ground for four Kabaka (kings) of Buganda. The main building, Muzibu Azaala Mpanga, was built in 1881 using traditional materials like reeds and wood. UNESCO declared it a World Heritage Site in 2001. A fire in 2010 destroyed the main structure, but reconstruction using ancient techniques is underway. The site remains a focal point of Buganda's cultural identity, hosting rituals and ceremonies. The complex includes multiple tombs and sacred groves, reflecting the kingdom's history and spiritual traditions.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 2001.", "Erbaut: 1881.", "Zerstört durch Brand: 16. März 2010.", "Anzahl bestatteter Kabaka: 4.", "Fläche: 26 Hektar.", "Durchmesser der Haupthalle: 30 Meter."],
+      hu: ["UNESCO világörökség 2001 óta.", "Építés éve: 1881.", "Tűzvész: 2010. március 16.", "Eltemetett kabakák száma: 4.", "Terület: 26 hektár.", "Főcsarnok átmérője: 30 méter."],
+      ro: ["Patrimoniu UNESCO din 2001.", "Construit în 1881.", "Incendiu: 16 martie 2010.", "Numărul de kabaka înmormântați: 4.", "Suprafața: 26 de hectare.", "Diametrul sălii principale: 30 de metri."],
+      en: ["UNESCO World Heritage Site since 2001.", "Built in 1881.", "Destroyed by fire: March 16, 2010.", "Number of Kabaka buried: 4.", "Area: 26 hectares.", "Diameter of main hall: 30 meters."],
+    },
+  },
   {
     id: "bigo-bya-mugenyi-history-v2",
     type: "historical",
@@ -35,9 +47,8 @@ image: "/poi-images/kasubi-tombs-history-v2.webp"
       de: "Bigo Bya Mugenyi",
       hu: "Bigo Bya Mugenyi",
       ro: "Bigo Bya Mugenyi",
-      en: "Bigo Bya Mugenyi",
-image: "/poi-images/bigo-bya-mugenyi-history-v2.webp"
-},
+      en: "Bigo Bya Mugenyi"},
+    image: "/poi-images/bigo-bya-mugenyi-history-v2.webp",
     description: {
       de: "Bigo Bya Mugenyi ist eine umfangreiche archäologische Stätte mit historischen Erdwerken, die mit dem Chwezi-Reich in Verbindung gebracht wird.",
       hu: "Bigo Bya Mugenyi egy kiterjedt régészeti lelőhely történelmi földsáncokkal, melyet a Chwezi Birodalomhoz kötnek.",
@@ -49,7 +60,19 @@ image: "/poi-images/bigo-bya-mugenyi-history-v2.webp"
       hu: ["Ősi földsáncok", "A Chwezi-dinasztia emléke", "Jelentős régészeti lelőhely"],
       ro: ["Fortificații de pământ antice", "Dovadă a dinastiei Chwezi", "Sit arheologic semnificativ"],
       en: ["Ancient earthworks", "Evidence of the Chwezi Dynasty", "Significant archaeological site"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Bigo Bya Mugenyi ist eine archäologische Stätte im Westen Ugandas, etwa 30 km von Mbarara entfernt. Es handelt sich um eine ausgedehnte Erdwallanlage aus dem 15. Jahrhundert, die als Festung oder Viehgehege diente. Die Wälle erstrecken sich über mehrere Kilometer und erreichen Höhen von bis zu 5 Metern. Die Stätte wurde 1920 von Archäologen entdeckt und ist mit dem legendären Herrscher Mugenyi verbunden. Sie gibt Einblicke in die frühe soziale Organisation und Verteidigungsarchitektur der Region. Bigo Bya Mugenyi ist ein nationales Kulturerbe und zieht Historiker an.",
+      hu: "A Bigo Bya Mugenyi egy régészeti lelőhely Uganda nyugati részén, Mbararától 30 km-re. A 15. századból származó hatalmas földsánc-rendszer, amely valószínűleg erődítményként vagy marhakarámként szolgált. A sáncok hossza több kilométer, magasságuk eléri az 5 métert. A helyet 1920-ban fedezték fel, és a legendás uralkodóhoz, Mugenyihez kötik. A lelőhely fontos információkat nyújt a korai társadalmi szerveződésről és védelmi építészetről. Nemzeti örökség, régészek és turisták látogatják.",
+      ro: "Bigo Bya Mugenyi este un sit arheologic din vestul Ugandei, la 30 km de Mbarara. Reprezintă un sistem vast de valuri de pământ din secolul al XV-lea, posibil o fortăreață sau un țarc pentru vite. Valurile se întind pe câțiva kilometri și ating 5 metri înălțime. Descoperit în 1920, situl este asociat cu legendarul conducător Mugenyi. Oferă perspective asupra organizării sociale timpurii și arhitecturii defensive din regiune. Este un monument național și o atracție pentru istorici.",
+      en: "Bigo Bya Mugenyi is an archaeological site in western Uganda, 30 km from Mbarara. Dating to the 15th century, it consists of extensive earthen ramparts up to 5 meters high, stretching several kilometers. Likely used as fortifications or cattle enclosures, the site was discovered in 1920. It is linked to the legendary leader Mugenyi. The earthworks provide evidence of advanced pre-colonial social organization and defensive strategies. Recognized as a national heritage site, it is important for historical research.",
+    },
+    factsAdvanced: {
+      de: ["Alter: 15. Jahrhundert.", "Höhe der Wälle: bis zu 5 Meter.", "Ausdehnung: mehrere Kilometer.", "Entdeckt: 1920.", "Lage: 30 km von Mbarara.", "Nationales Kulturerbe seit 1962."],
+      hu: ["Kor: 15. század.", "Sáncok magassága: akár 5 méter.", "Kiterjedés: több kilométer.", "Felfedezés: 1920.", "Elhelyezkedés: Mbararától 30 km-re.", "Nemzeti örökség 1962 óta."],
+      ro: ["Datare: secolul al XV-lea.", "Înălțimea valurilor: până la 5 metri.", "Întindere: câțiva kilometri.", "Descoperit în 1920.", "Locație: 30 km de Mbarara.", "Monument național din 1962."],
+      en: ["Dated to: 15th century.", "Wall height: up to 5 meters.", "Length of ramparts: several kilometers.", "Discovered in: 1920.", "Location: 30 km from Mbarara.", "National heritage site since 1962."],
+    },
   },
   {
     id: "namugongo-martyrs-shrine-history-v2",
@@ -60,9 +83,8 @@ image: "/poi-images/bigo-bya-mugenyi-history-v2.webp"
       de: "Märtyrerschrein von Namugongo",
       hu: "Namugongo Mártírok Szentélye",
       ro: "Sanctuarul Martirilor din Namugongo",
-      en: "Namugongo Martyrs Shrine",
-image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp"
-},
+      en: "Namugongo Martyrs Shrine"},
+    image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp",
     description: {
       de: "Der Schrein erinnert an die ugandischen Märtyrer, die im 19. Jahrhundert wegen ihres christlichen Glaubens hingerichtet wurden.",
       hu: "A szentély a 19. században keresztény hitük miatt kivégzett ugandai mártíroknak állít emléket.",
@@ -74,7 +96,20 @@ image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp"
       hu: ["Fontos zarándokhely", "45 keresztény mártírra emlékezik", "Nagy éves megemlékezés júniusban"],
       ro: ["Loc important de pelerinaj", "Comemorează 45 de martiri creștini", "Mare ceremonie anuală de comemorare în iunie"],
       en: ["Important pilgrimage site", "Commemorates 45 Christian martyrs", "Large annual commemoration in June"]
-    }, image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp"},
+    }, image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Märtyrer-Basilika von Namugongo in der Nähe Kampalas ist eine der bedeutendsten katholischen Pilgerstätten Afrikas. Sie erinnert an die 22 christlichen Märtyrer, die 1886 auf Befehl des Kabaka Mwanga II hingerichtet wurden. Die heutige Kirche wurde 1968 geweiht und hat die Form eines traditionellen afrikanischen Hauses. Jedes Jahr am 3. Juni strömen Hunderttausende Gläubige zur Feier der Märtyrer. Die Stätte umfasst auch ein Museum und die originellen Hinrichtungsstätten. Namugongo ist ein Symbol für den christlichen Glauben und den Widerstand gegen Unterdrückung.",
+      hu: "A namugongói vértanúk szentélye Kampala közelében Afrika egyik legfontosabb katolikus zarándokhelye. 22 keresztény vértanúra emlékezik, akiket 1886-ban végeztek ki Mwanga II kabaka parancsára. A jelenlegi templomot 1968-ban szentelték fel, formája hagyományos afrikai házat idéz. Június 3-án több százezer hívő zarándokol el a mártírok ünnepére. A helyszínen múzeum és a kivégzések helyszíne is megtalálható. Namugongo a keresztény hit és az elnyomás elleni küzdelem jelképe.",
+      ro: "Sanctuarul martirilor din Namugongo, lângă Kampala, este unul dintre cele mai importante locuri de pelerinaj catolic din Africa. Comemorează 22 de martiri creștini executați în 1886 din ordinul kabakăi Mwanga II. Biserica actuală, sfințită în 1968, are forma unei case tradiționale africane. În fiecare 3 iunie, sute de mii de credincioși participă la sărbătoarea martirilor. Situl include un muzeu și locurile execuțiilor. Namugongo simbolizează credința creștină și rezistența la opresiune.",
+      en: "The Namugongo Martyrs Shrine near Kampala is a major Catholic pilgrimage site in Africa. It commemorates 22 Christian martyrs executed in 1886 by Kabaka Mwanga II. The basilica, consecrated in 1968, is designed like a traditional African hut. Every June 3, hundreds of thousands attend the martyrs' feast day. The site includes a museum and original execution grounds. Namugongo stands as a testament to faith and resilience, attracting pilgrims from across the continent.",
+    },
+    factsAdvanced: {
+      de: ["Geweiht: 1968.", "Anzahl der Märtyrer: 22.", "Jährlicher Pilgerstrom: über 500.000.", "Höhe der Basilika: 30 Meter.", "Durchmesser des Kuppeldachs: 40 Meter.", "Hinrichtungsdatum: 3. Juni 1886."],
+      hu: ["Felszentelés: 1968.", "Vértanúk száma: 22.", "Éves zarándokszám: több mint 500 000.", "Bazilika magassága: 30 méter.", "Kupola átmérője: 40 méter.", "Kivégzés dátuma: 1886. június 3."],
+      ro: ["Sfințit în 1968.", "Numărul martirilor: 22.", "Pelerini anual: peste 500.000.", "Înălțimea bazilicii: 30 de metri.", "Diametrul cupolei: 40 de metri.", "Data execuției: 3 iunie 1886."],
+      en: ["Consecrated in 1968.", "Number of martyrs: 22.", "Annual pilgrims: over 500,000.", "Basilica height: 30 meters.", "Dome diameter: 40 meters.", "Date of execution: June 3, 1886."],
+    },
+  },
   {
     id: "uganda-national-mosque-history-v2",
     type: "historical",
@@ -84,9 +119,8 @@ image: "/poi-images/namugongo-martyrs-shrine-history-v2.webp"
       de: "Ugandische Nationalmoschee",
       hu: "Ugandai Nemzeti Mecset",
       ro: "Moscheea Națională a Ugandei",
-      en: "Uganda National Mosque",
-image: "/poi-images/uganda-national-mosque-history-v2.webp"
-},
+      en: "Uganda National Mosque"},
+    image: "/poi-images/uganda-national-mosque-history-v2.webp",
     description: {
       de: "Die Nationale Moschee Ugandas, ehemals Gaddafi-Moschee, ist eine der größten Moscheen in Ostafrika mit einem beeindruckenden Minarett.",
       hu: "Az Ugandai Nemzeti Mecset, korábbi nevén Gaddafi Mecset, Kelet-Afrika egyik legnagyobb mecsete egy lenyűgöző minarettel.",
@@ -98,7 +132,20 @@ image: "/poi-images/uganda-national-mosque-history-v2.webp"
       hu: ["Több mint 15 000 hívő befogadására alkalmas", "Moammer Kadhafi ajándéka", "2006-ban készült el"],
       ro: ["Capacitate de peste 15.000 de credincioși", "Cadou din partea lui Muammar al-Gaddafi", "Finalizată în 2006"],
       en: ["Accommodates over 15,000 worshippers", "Gift from Muammar Gaddafi", "Completed in 2006"]
-    }, image: "/poi-images/uganda-national-mosque-history-v2.webp"},
+    }, image: "/poi-images/uganda-national-mosque-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Uganda National Mosque (auch Gaddafi-Moschee) in Kampala ist die größte Moschee des Landes. Sie wurde 2006 mit Unterstützung von Muammar al-Gaddafi erbaut und bietet Platz für 15.000 Gläubige. Das Gebäude vereint islamische und moderne Architektur mit einem 50 Meter hohen Minarett. Von der Spitze hat man einen Panoramablick über Kampala. Die Moschee ist sowohl ein Gotteshaus als auch ein Touristenmagnet. Sie symbolisiert die Präsenz des Islam in Uganda, der von etwa 12% der Bevölkerung praktiziert wird. Das angrenzende Zentrum bietet Platz für Veranstaltungen.",
+      hu: "Az Uganda Nemzeti Mecset (más néven Kadhafi-mecset) Kampalában az ország legnagyobb mecsetje. 2006-ban nyílt meg, Muammar al-Kadhafi támogatásával. 15 000 hívő befogadására alkalmas. Az épület iszlám és modern stílusok keveréke, egy 50 méteres minarettel. A torony tetejéről körpanoráma nyílik a városra. A mecset turisták által is látogatott hely, amely az iszlám jelenlétét jelképezi Ugandában, ahol a lakosság kb. 12%-a muszlim. A komplexumban rendezvényközpont is működik.",
+      ro: "Moscheea Națională a Ugandei (Moscheea Gaddafi) din Kampala este cea mai mare moschee din țară. Construită în 2006 cu sprijinul lui Muammar Gaddafi, poate găzdui 15.000 de credincioși. Arhitectura îmbină stilul islamic cu cel modern, incluzând un minaret de 50 de metri. De pe vârf se vede panorama orașului. Moscheea este atât un lăcaș de cult, cât și o atracție turistică. Simbolizează islamul în Uganda, practicat de aproximativ 12% din populație. Complexul include și un centru de conferințe.",
+      en: "The Uganda National Mosque (Gaddafi Mosque) in Kampala is the largest mosque in the country. Completed in 2006 with funding from Muammar Gaddafi, it accommodates 15,000 worshippers. Its architecture blends Islamic and contemporary styles, featuring a 50-meter minaret offering panoramic views of Kampala. The mosque serves as a religious center and tourist attraction. It represents the Islamic faith in Uganda, practiced by about 12% of the population. The complex also hosts a conference center and library.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 15.000 Gläubige.", "Minaretthöhe: 50 Meter.", "Erbaut: 2006.", "Baukosten: 35 Millionen US-Dollar.", "Fläche: 4 Hektar.", "Spender: Libyen (Muammar al-Gaddafi)."],
+      hu: ["Befogadóképesség: 15 000 hívő.", "Minarett magassága: 50 méter.", "Építés éve: 2006.", "Építési költség: 35 millió USD.", "Terület: 4 hektár.", "Adományozó: Líbia (Kadhafi)."],
+      ro: ["Capacitate: 15.000 de credincioși.", "Înălțimea minaretului: 50 de metri.", "Construit în 2006.", "Cost: 35 de milioane de dolari.", "Suprafață: 4 hectare.", "Donator: Libia (Gaddafi)."],
+      en: ["Capacity: 15,000 worshippers.", "Minaret height: 50 meters.", "Built in 2006.", "Cost: $35 million.", "Area: 4 hectares.", "Donor: Libya (Muammar Gaddafi)."],
+    },
+  },
   {
     id: "nyero-rock-paintings-history-v2",
     type: "historical",
@@ -108,9 +155,8 @@ image: "/poi-images/uganda-national-mosque-history-v2.webp"
       de: "Nyero-Felsmalereien",
       hu: "Nyero sziklarajzai",
       ro: "Picturile rupestre din Nyero",
-      en: "Nyero Rock Paintings",
-image: "/poi-images/nyero-rock-paintings-history-v2.webp"
-},
+      en: "Nyero Rock Paintings"},
+    image: "/poi-images/nyero-rock-paintings-history-v2.webp",
     description: {
       de: "Die Nyero-Felsmalereien sind prähistorische Kunstwerke, die geometrische und abstrakte Muster auf Granitfelsen zeigen.",
       hu: "A Nyero sziklarajzok olyan történelem előtti műalkotások, amelyek gránitsziklákon mutatnak geometriai és absztrakt mintákat.",
@@ -122,7 +168,19 @@ image: "/poi-images/nyero-rock-paintings-history-v2.webp"
       hu: ["Több mint 3000 évesek", "Uganda nemzeti örökségének része", "Három fő sziklaóvóhelyből áll"],
       ro: ["Vechime de peste 3.000 de ani", "Parte a patrimoniului național al Ugandei", "Constă în trei adăposturi principale în stâncă"],
       en: ["Over 3,000 years old", "Part of Uganda's national heritage", "Consists of three main rock shelters"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Nyero-Felsmalereien im Osten Ugandas, in der Nähe von Kumi, sind eine der ältesten Kunststätten des Landes. Die roten und weißen Malereien stammen aus der Eisenzeit (ca. 1000 v. Chr. bis 1000 n. Chr.) und zeigen Tiere, geometrische Formen und menschliche Figuren. Die Felsen sind Granitformationen, die als natürliche Galerien dienen. Die Stätte wurde 1912 von europäischen Forschern dokumentiert. Nyero ist ein nationales Kulturerbe und Teil der UNESCO-Tentativliste. Die Bedeutung liegt in der Darstellung der frühen menschlichen Kreativität und Spiritualität.",
+      hu: "A nyeroi sziklarajzok Kelet-Ugandában, Kumi közelében, az ország egyik legrégebbi művészeti lelőhelye. A vörös és fehér rajzok a vaskorból származnak (i.e. 1000 – i.sz. 1000), és állatokat, geometriai formákat és emberi alakokat ábrázolnak. A gránitsziklák természetes galériaként szolgálnak. A helyet 1912-ben fedezték fel európai kutatók. A nyeroi rajzok nemzeti örökség és az UNESCO előzetes listáján szerepelnek. A korai emberi kreativitás és spiritualitás lenyomatai.",
+      ro: "Picturile rupestre de la Nyero, în estul Ugandei, lângă Kumi, sunt printre cele mai vechi manifestări artistice din țară. Realizate în roșu și alb, datează din Epoca Fierului (1000 î.Hr. – 1000 d.Hr.), înfățișând animale, figuri geometrice și umane. Rocile de granit servesc drept galerii naturale. Situl a fost documentat în 1912 de exploratori europeni. Nyero este monument național și pe lista tentativă UNESCO. Importanța sa constă în reflectarea creativității și spiritualității umane timpurii.",
+      en: "Nyero Rock Paintings in eastern Uganda, near Kumi, are among the oldest artworks in the country. Dating from the Iron Age (c. 1000 BCE to 1000 CE), the red and white depictions include animals, geometric patterns, and human figures. The granite rock shelters form natural galleries. First recorded by European explorers in 1912, the site is a national heritage asset and on UNESCO's tentative list. They offer insight into early human expression and belief systems in the region.",
+    },
+    factsAdvanced: {
+      de: ["Alter: 1000 v. Chr. bis 1000 n. Chr.", "Anzahl der Felsformationen: 3 Hauptgruppen.", "Entdeckt: 1912.", "Farben: Rot und Weiß.", "Höhe der Felsen: bis zu 15 Meter.", "UNESCO-Tentativliste seit 1997."],
+      hu: ["Kor: i.e. 1000 – i.sz. 1000.", "Sziklacsoportok száma: 3 fő.", "Felfedezés: 1912.", "Színek: vörös és fehér.", "Sziklák magassága: akár 15 méter.", "UNESCO előzetes lista: 1997 óta."],
+      ro: ["Datare: 1000 î.Hr. – 1000 d.Hr.", "Număr de grupuri de stânci: 3 principale.", "Descoperit în 1912.", "Culori: roșu și alb.", "Înălțimea stâncilor: până la 15 metri.", "Lista tentativă UNESCO din 1997."],
+      en: ["Dating: 1000 BCE to 1000 CE.", "Number of rock shelters: 3 main groups.", "Discovered: 1912.", "Colors: red and white.", "Rock height: up to 15 meters.", "UNESCO tentative list since 1997."],
+    },
   },
   {
     id: "fort-patiko-history-v2",
@@ -133,9 +191,8 @@ image: "/poi-images/nyero-rock-paintings-history-v2.webp"
       de: "Fort Patiko (Bakers Fort)",
       hu: "Patiko Erőd",
       ro: "Fortul Patiko",
-      en: "Fort Patiko (Baker's Fort)",
-image: "/poi-images/fort-patiko-history-v2.webp"
-},
+      en: "Fort Patiko (Baker's Fort)"},
+    image: "/poi-images/fort-patiko-history-v2.webp",
     description: {
       de: "Fort Patiko wurde von Sir Samuel Baker erbaut und diente als Basis zur Bekämpfung des Sklavenhandels in der Region.",
       hu: "A Patiko erődöt Sir Samuel Baker építtette, és bázisként szolgált a rabszolga-kereskedelem elleni küzdelemben a régióban.",
@@ -147,7 +204,20 @@ image: "/poi-images/fort-patiko-history-v2.webp"
       hu: ["1872-ben alapították", "Eredetileg rabszolgapiac volt", "Fontos történelmi műemlék"],
       ro: ["Fondat în 1872", "Inițial a fost o piață de sclavi", "Monument istoric important"],
       en: ["Founded in 1872", "Originally a slave market", "Important historical monument"]
-    }, image: "/poi-images/fort-patiko-history-v2.webp"},
+    }, image: "/poi-images/fort-patiko-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Fort Patiko (auch Baker's Fort genannt) liegt im Norden Ugandas, nahe der Stadt Gulu. Es wurde 1872 von Samuel Baker als Handelsposten und militärischer Stützpunkt errichtet, um den Sklavenhandel zu bekämpfen. Das Fort besteht aus Steinmauern und Wachtürmen. Es diente später als britische Verwaltungsstation. Heute sind die Ruinen eine historische Stätte, die an die Kolonialzeit und die Kämpfe gegen den Sklavenhandel erinnert. Die Anlage bietet einen Einblick in die militärische Architektur des 19. Jahrhunderts in Ostafrika.",
+      hu: "A Fort Patiko (más néven Baker-erőd) Uganda északi részén, Gulu városa közelében található. Samuel Baker építtette 1872-ben kereskedelmi állomásnak és katonai támaszpontnak, a rabszolga-kereskedelem elleni harc részeként. Az erőd kőfalakból és őrtornyokból áll. Később brit közigazgatási központként szolgált. A romok ma történelmi helyszínként emlékeztetnek a gyarmati időkre és a rabszolgaság elleni küzdelemre. Az építmény a 19. századi katonai építészet egy példája.",
+      ro: "Fortul Patiko (Fortul Baker) se află în nordul Ugandei, lângă orașul Gulu. Construit în 1872 de Samuel Baker ca avanpost comercial și militar pentru a combate comerțul cu sclavi. Fortul are ziduri de piatră și turnuri de pază. Ulterior, a fost centru administrativ britanic. Ruinele sunt acum un sit istoric, amintind de epoca colonială și de lupta împotriva sclaviei. Arhitectura sa reflectă stilul militar al secolului al XIX-lea în Africa de Est.",
+      en: "Fort Patiko (Baker's Fort) in northern Uganda, near Gulu, was built by Samuel Baker in 1872 as a trading post and military base to suppress the slave trade. Constructed of stone with watchtowers, it later served as a British administrative center. The ruins are a historical site commemorating colonial history and the anti-slavery campaign. The fort's design exemplifies 19th-century military architecture in East Africa.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1872.", "Erbauer: Samuel Baker.", "Höhe der Mauern: 4 Meter.", "Anzahl der Türme: 4.", "Lage: 10 km von Gulu.", "Nationales Denkmal seit 1962."],
+      hu: ["Építés éve: 1872.", "Építtető: Samuel Baker.", "Falak magassága: 4 méter.", "Tornyok száma: 4.", "Elhelyezkedés: Gulu városától 10 km-re.", "Nemzeti emlékmű 1962 óta."],
+      ro: ["Construit în 1872.", "Constructor: Samuel Baker.", "Înălțimea zidurilor: 4 metri.", "Număr de turnuri: 4.", "Locație: 10 km de Gulu.", "Monument național din 1962."],
+      en: ["Built in 1872.", "Builder: Samuel Baker.", "Wall height: 4 meters.", "Number of towers: 4.", "Location: 10 km from Gulu.", "National monument since 1962."],
+    },
+  },
   {
     id: "bulange-mengo-history-v2",
     type: "historical",
@@ -157,9 +227,8 @@ image: "/poi-images/fort-patiko-history-v2.webp"
       de: "Bulange Mengo",
       hu: "Bulange Mengo",
       ro: "Bulange Mengo",
-      en: "Bulange Mengo",
-image: "/poi-images/bulange-mengo-history-v2.webp"
-},
+      en: "Bulange Mengo"},
+    image: "/poi-images/bulange-mengo-history-v2.webp",
     description: {
       de: "Bulange Mengo ist das Verwaltungsgebäude und das Parlament des Königreichs Buganda in Kampala.",
       hu: "A Bulange Mengo a Buganda Királyság közigazgatási épülete és parlamentje Kampalában.",
@@ -171,7 +240,20 @@ image: "/poi-images/bulange-mengo-history-v2.webp"
       hu: ["A Lukiiko (parlament) székhelye", "A ganda kultúra fontos központja", "Hagyományos építészet"],
       ro: ["Sediul Lukiiko (parlamentului)", "Centru important al culturii Ganda", "Arhitectură tradițională"],
       en: ["Seat of the Lukiiko (parliament)", "Important center of Ganda culture", "Traditional architecture"]
-    }, image: "/poi-images/bulange-mengo-history-v2.webp"},
+    }, image: "/poi-images/bulange-mengo-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bulange in Mengo (Kampala) ist der Sitz des Kabaka von Buganda, des traditionellen Herrschers des Königreichs Buganda. Der Palast wurde 1955 im neoklassizistischen Stil erbaut und ist ein Symbol der gandischen Monarchie. Das Gebäude beherbergt den Lukiiko (Parlament) von Buganda und Verwaltungsbüros. Der Bulange ist Teil eines Ensembles mit dem Kabaka-Palast und dem Parlamentsgebäude. Er ist ein Ort politischer und kultureller Bedeutung. Die Architektur verbindet koloniale Einflüsse mit afrikanischen Elementen.",
+      hu: "A Bulange Mengóban (Kampala) a bugandai királyi palota, a kabaka székhelye. Az épület 1955-ben épült neoklasszicista stílusban. Itt ülésezik a bugandai parlament (Lukiiko) és itt vannak a királyság adminisztratív irodái. A Bulange a kabaka palotája és a parlament épülete mellett található, együttesük a ganda monarchia központja. A hely politikai és kulturális jelentőséggel bír. Az építészet ötvözi a gyarmati hatásokat az afrikai elemekkel.",
+      ro: "Bulange din Mengo (Kampala) este palatul regal al kabakăi Bugandei. Construit în 1955 în stil neoclasic, găzduiește Lukiiko (parlamentul) Bugandei și birouri administrative. Clădirea face parte dintr-un ansamblu care include Palatul Kabaka și clădirea parlamentului. Este un simbol al monarhiei gande și un centru politic și cultural. Arhitectura combină influențe coloniale cu elemente africane.",
+      en: "Bulange in Mengo (Kampala) is the seat of the Kabaka of Buganda, the traditional king. Built in 1955 in neoclassical style, it houses the Lukiiko (Buganda parliament) and administrative offices. The building is part of a complex that includes the Kabaka's Palace and the parliament building. It symbolizes Buganda's monarchy and cultural identity. Its architecture blends colonial and African influences.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1955.", "Architekturstil: Neoklassizistisch.", "Höhe des Hauptgebäudes: 20 Meter.", "Sitzungssaal des Lukiiko: 500 Sitzplätze.", "Grundstücksfläche: 2 Hektar.", "Standort: Mengo, Kampala."],
+      hu: ["Építés éve: 1955.", "Építészeti stílus: neoklasszicista.", "Főépület magassága: 20 méter.", "Lukiiko ülésterem: 500 férőhely.", "Telek területe: 2 hektár.", "Helyszín: Mengo, Kampala."],
+      ro: ["Construit în 1955.", "Stil arhitectural: neoclasic.", "Înălțimea clădirii principale: 20 de metri.", "Sala Lukiiko: 500 de locuri.", "Suprafața terenului: 2 hectare.", "Locație: Mengo, Kampala."],
+      en: ["Built in 1955.", "Architectural style: Neoclassical.", "Height of main building: 20 meters.", "Lukiiko hall capacity: 500 seats.", "Land area: 2 hectares.", "Location: Mengo, Kampala."],
+    },
+  },
   {
     id: "kabakas-palace-lubiri-history-v2",
     type: "historical",
@@ -181,9 +263,8 @@ image: "/poi-images/bulange-mengo-history-v2.webp"
       de: "Kabaka-Palast (Lubiri)",
       hu: "Kabaka Palotája (Lubiri)",
       ro: "Palatul Kabaka (Lubiri)",
-      en: "Kabaka's Palace (Lubiri)",
-image: "/poi-images/kabakas-palace-lubiri-history-v2.webp"
-},
+      en: "Kabaka's Palace (Lubiri)"},
+    image: "/poi-images/kabakas-palace-lubiri-history-v2.webp",
     description: {
       de: "Der Kabaka-Palast ist die offizielle Residenz des Königs von Buganda und ein Ort mit bewegter politischer Geschichte.",
       hu: "A Kabaka Palotája a bugandai király hivatalos rezidenciája és mozgalmas politikai múltú helyszín.",
@@ -195,7 +276,20 @@ image: "/poi-images/kabakas-palace-lubiri-history-v2.webp"
       hu: ["1922-ben épült", "Idi Amin egykori kínzókamráit is tartalmazza", "A bugandai Kabaka rezidenciája"],
       ro: ["Construit în 1922", "Conține camerele de tortură ale lui Idi Amin", "Reședința Kabaka din Buganda"],
       en: ["Built in 1922", "Contains Idi Amin's torture chambers", "Residence of the Kabaka of Buganda"]
-    }, image: "/poi-images/kabakas-palace-lubiri-history-v2.webp"},
+    }, image: "/poi-images/kabakas-palace-lubiri-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kabaka-Palast (Lubiri) in Mengo/Kampala ist die offizielle Residenz des Kabaka von Buganda. Der Palast wurde 1885 erbaut und 1953 nach einem Brand wieder aufgebaut. Die Anlage umfasst mehrere Gebäude, darunter das Hauptwohnhaus und Gästehäuser. Der Palast war Schauplatz historischer Ereignisse, wie der Vertreibung des Kabaka Mutesa II im Jahr 1966. Heute ist er ein kulturelles Symbol und teilweise öffentlich zugänglich. Der Palastgarten ist für seine seltenen Pflanzen bekannt.",
+      hu: "A kabaka palotája (Lubiri) Mengóban/Kampalában a bugandai király hivatalos rezidenciája. A palota 1885-ben épült, majd 1953-ban egy tűzvész után újjáépítették. Az együttes több épületből áll, köztük a fő lakóépületből és vendégházakból. Itt játszódtak le fontos történelmi események, mint Mutesa II kabaka 1966-os elűzése. Ma kulturális szimbólum, részben látogatható. A kert ritka növényeket rejt.",
+      ro: "Palatul Kabaka (Lubiri) din Mengo/Kampala este reședința oficială a kabakăi Bugandei. Construit în 1885, reconstruit în 1953 după un incendiu. Complexul include clădiri principale și case de oaspeți. A fost scena unor evenimente istorice precum exilul kabakăi Mutesa II în 1966. Astăzi este un simbol cultural, parțial deschis publicului. Grădina palatului conține plante rare.",
+      en: "The Kabaka's Palace (Lubiri) in Mengo/Kampala is the official residence of the Kabaka of Buganda. Built in 1885 and rebuilt in 1953 after a fire, it includes the main house and guest buildings. The palace witnessed historical events like the exile of Kabaka Mutesa II in 1966. It remains a cultural icon and is partly open to visitors. The palace grounds feature unique flora.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1885.", "Wiederaufbau: 1953 nach Brand.", "Anzahl der Gebäude: 5.", "Grundstücksfläche: 4 Hektar.", "Höhe des Hauptturms: 15 Meter.", "Denkmalstatus: seit 1962."],
+      hu: ["Építés: 1885.", "Újjáépítés: 1953 tűzvész után.", "Épületek száma: 5.", "Telek területe: 4 hektár.", "Főtorony magassága: 15 méter.", "Műemlék státusz: 1962 óta."],
+      ro: ["Construit în 1885.", "Reconstruit în 1953 după incendiu.", "Număr de clădiri: 5.", "Suprafața terenului: 4 hectare.", "Înălțimea turnului principal: 15 metri.", "Statut de monument din 1962."],
+      en: ["Built in 1885.", "Rebuilt in 1953 after fire.", "Number of buildings: 5.", "Land area: 4 hectares.", "Main tower height: 15 meters.", "Heritage status: since 1962."],
+    },
+  },
   {
     id: "wamala-tombs-history-v2",
     type: "historical",
@@ -205,9 +299,8 @@ image: "/poi-images/kabakas-palace-lubiri-history-v2.webp"
       de: "Wamala-Gräber",
       hu: "Wamala sírok",
       ro: "Mormintele Wamala",
-      en: "Wamala Tombs",
-image: "/poi-images/wamala-tombs-history-v2.webp"
-},
+      en: "Wamala Tombs"},
+    image: "/poi-images/wamala-tombs-history-v2.webp",
     description: {
       de: "Die Wamala-Gräber sind die heilige Begräbnisstätte von Kabaka Ssuuna II. und repräsentieren ein Stück bugandische Geschichte.",
       hu: "A Wamala sírok II. Ssuuna kabaka szent temetkezési helye, amely Buganda történelmének egy darabját képviseli.",
@@ -229,9 +322,8 @@ image: "/poi-images/wamala-tombs-history-v2.webp"
       de: "Amabere Ga Nyina Mwiru",
       hu: "Amabere Ga Nyina Mwiru barlangok",
       ro: "Peșterile Amabere Ga Nyina Mwiru",
-      en: "Amabere Ga Nyina Mwiru Caves",
-image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp"
-},
+      en: "Amabere Ga Nyina Mwiru Caves"},
+    image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp",
     description: {
       de: "Diese Kalksteinhöhlen sind eng mit der lokalen Folklore des Chwezi-Reiches verbunden und eine wichtige Kulturstätte.",
       hu: "Ezek a mészkőbarlangok szorosan kapcsolódnak a Chwezi Birodalom helyi folklórjához, és fontos kulturális helyszínnek számítanak.",
@@ -253,9 +345,8 @@ image: "/poi-images/amabere-ga-nyina-mwiru-history-v2.webp"
       de: "Karambi-Königsgräber",
       hu: "Karambi királyi sírok",
       ro: "Mormintele regale din Karambi",
-      en: "Karambi Royal Tombs",
-image: "/poi-images/karambi-royal-tombs-history-v2.webp"
-},
+      en: "Karambi Royal Tombs"},
+    image: "/poi-images/karambi-royal-tombs-history-v2.webp",
     description: {
       de: "Die Karambi-Königsgräber sind die Begräbnisstätte der Könige (Omukamas) von Toro und ein Ort von historischer Bedeutung.",
       hu: "A Karambi királyi sírok Toro királyainak (Omukama) temetkezési helye, történelmi jelentőségű helyszín.",
@@ -277,9 +368,8 @@ image: "/poi-images/karambi-royal-tombs-history-v2.webp"
       de: "Nakayima-Baum",
       hu: "Nakayima-fa",
       ro: "Copacul Nakayima",
-      en: "Nakayima Tree",
-image: "/poi-images/nakayima-tree-history-v2.webp"
-},
+      en: "Nakayima Tree"},
+    image: "/poi-images/nakayima-tree-history-v2.webp",
     description: {
       de: "Der Nakayima-Baum ist ein uralter Baum, der als heiliger Schrein für den Geist der Prinzessin Nakayima verehrt wird.",
       hu: "A Nakayima-fa egy ősi fa, amelyet Nakayima hercegnő szellemének szentélyeként tisztelnek.",
@@ -301,9 +391,8 @@ image: "/poi-images/nakayima-tree-history-v2.webp"
       de: "Ssezibwa-Fälle (Kulturstätte)",
       hu: "Ssezibwa vízesés",
       ro: "Cascadele Ssezibwa",
-      en: "Ssezibwa Falls (Cultural Site)",
-image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp"
-},
+      en: "Ssezibwa Falls (Cultural Site)"},
+    image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp",
     description: {
       de: "Die Ssezibwa-Fälle sind nicht nur ein Naturwunder, sondern auch eine bedeutende traditionelle und spirituelle Stätte der Buganda.",
       hu: "A Ssezibwa-vízesés nemcsak természeti csoda, hanem a bugandák jelentős hagyományos és spirituális helyszíne is.",
@@ -325,9 +414,8 @@ image: "/poi-images/ssezibwa-falls-cultural-history-v2.webp"
       de: "Munyonyo-Märtyrerschrein",
       hu: "Munyonyo Mártírok Szentélye",
       ro: "Sanctuarul Munyonyo",
-      en: "Munyonyo Martyrs Shrine",
-image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp"
-},
+      en: "Munyonyo Martyrs Shrine"},
+    image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp",
     description: {
       de: "Der Munyonyo-Schrein markiert den Ort, an dem König Mwanga II. 1886 die Hinrichtung der ersten ugandischen christlichen Märtyrer befahl.",
       hu: "A Munyonyo szentély azt a helyet jelöli, ahol II. Mwanga király 1886-ban elrendelte az első ugandai keresztény mártírok kivégzését.",
@@ -349,9 +437,8 @@ image: "/poi-images/munyonyo-martyrs-shrine-history-v2.webp"
       de: "Fort Lugard",
       hu: "Lugard Erőd",
       ro: "Fortul Lugard",
-      en: "Fort Lugard",
-image: "/poi-images/fort-lugard-history-v2.webp"
-},
+      en: "Fort Lugard"},
+    image: "/poi-images/fort-lugard-history-v2.webp",
     description: {
       de: "Fort Lugard war eine Festung, die vom britischen Kolonialverwalter Captain Frederick Lugard in Kampala erbaut wurde.",
       hu: "A Lugard erőd egy erődítmény volt, amelyet Frederick Lugard kapitány, brit gyarmati tisztviselő építtetett Kampalában.",
@@ -373,9 +460,8 @@ image: "/poi-images/fort-lugard-history-v2.webp"
       de: "Kakoro-Felsmalereien",
       hu: "Kakoro sziklarajzai",
       ro: "Picturile rupestre Kakoro",
-      en: "Kakoro Rock Paintings",
-image: "/poi-images/kakoro-rock-paintings-history-v2.webp"
-},
+      en: "Kakoro Rock Paintings"},
+    image: "/poi-images/kakoro-rock-paintings-history-v2.webp",
     description: {
       de: "Die Felsmalereien von Kakoro sind historische Kunstwerke, die von alten Zivilisationen in den Granitfelsen der Region hinterlassen wurden.",
       hu: "A Kakoro sziklarajzok olyan történelmi műalkotások, amelyeket ősi civilizációk hagytak a régió gránitszikláin.",
@@ -397,9 +483,8 @@ image: "/poi-images/kakoro-rock-paintings-history-v2.webp"
       de: "Mparo-Gräber",
       hu: "Mparo síremlékek",
       ro: "Mormintele Mparo",
-      en: "Mparo Tombs",
-image: "/poi-images/mparo-tombs-history-v2.webp"
-},
+      en: "Mparo Tombs"},
+    image: "/poi-images/mparo-tombs-history-v2.webp",
     description: {
       de: "Die Mparo-Gräber beherbergen die Überreste von Omukama (König) Kabalega von Bunyoro, einem großen antikolonialen Führer.",
       hu: "A Mparo síremlékek őrzik Omukama (király) Kabalega bunyorói uralkodó, a nagy gyarmatellenes vezető földi maradványait.",
@@ -411,7 +496,19 @@ image: "/poi-images/mparo-tombs-history-v2.webp"
       hu: ["Kabalega király nyughelye", "Fontos történelmi helyszín", "Hagyományos rítusok színhelye"],
       ro: ["Locul de odihnă al regelui Kabalega", "Sit istoric important", "Loc pentru ritualuri tradiționale"],
       en: ["Resting place of King Kabalega", "Important historical site", "Site for traditional rites"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Mparo-Gräber in Hoima, Uganda, sind die letzte Ruhestätte von Omukama Kabalega, einem bedeutenden Herrscher des Königreichs Bunyoro aus dem 19. Jahrhundert. Die Anlage umfasst mehrere traditionelle Rundhütten mit Grasdächern, die als Grabstätten für Mitglieder der königlichen Familie dienen. Die Gräber sind ein Symbol des Widerstands gegen die britische Kolonialherrschaft und ein wichtiger Ort der kulturellen Identität. Die Stätte wurde 1913 errichtet und ist bis heute ein Ort der Verehrung und des Gedenkens. Die Architektur spiegelt die traditionelle Bauweise der Banyoro wider, mit Holzpfosten und Lehmwänden. Die Gräber sind von einem heiligen Hain umgeben und werden von traditionellen Wächtern betreut.",
+      hu: "A Mparo-sírok Hoimában, Ugandában találhatók, és a bunyoro királyság uralkodóinak temetkezési helyei. A legismertebb sír Kabalega omukamáé, aki a 19. században uralkodott és híres volt a brit gyarmatosítás elleni harcáról. A temetkezési hely építészeti szempontból jellegzetes, mivel a hagyományos, kerek alaprajzú, szalmafedeles kunyhók formájában épült. Minden kunyhó egy-egy uralkodó végső nyughelye, és a bennük lévő tárgyak a királyi hatalom szimbólumait tartalmazzák. A sírokat 1913-ban hozták létre, és azóta is folyamatosan karbantartják. A helyszín a bunyoro kultúra egyik legfontosabb emlékhelye, amely évente számos látogatót vonz.",
+      ro: "Mormintele Mparo din Hoima, Uganda, reprezintă locul de odihnă al regilor din regatul Bunyoro, inclusiv al lui Omukama Kabalega, un lider de seamă din secolul al XIX-lea. Construite în 1913, mormintele sunt colibe tradiționale cu acoperiș de stuf, fiecare adăpostind rămășițele unui monarh. Situl este un centru cultural important, unde se desfășoară ceremonii anuale de comemorare. În 2010, mormintele au fost renovate cu sprijinul UNESCO pentru a păstra moștenirea arhitecturală. Vizitatorii pot vedea obiecte personale ale regilor și pot învăța despre istoria regatului. Zona înconjurătoare include un mic muzeu care prezintă artefacte tradiționale.",
+      en: "Mparo Tombs, located in Hoima, Uganda, are the royal burial grounds of the Bunyoro kingdom. The site contains the tombs of several kings, most notably Omukama Kabalega, who resisted British colonization. The tombs are traditional thatched huts, each representing a king's final resting place. Constructed in 1913, the site is a symbol of Bunyoro's resilience and cultural heritage. The tombs are maintained by custodians who perform rituals and safeguard artifacts. Mparo serves as a pilgrimage site for the Banyoro people and attracts tourists interested in Ugandan history. The surrounding area includes a sacred forest and a small museum.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1913", "Fläche 2,5 Hektar", "Enthält 6 königliche Gräber", "Höhe der Hütten ca. 4 Meter", "Jährliche Besucher: über 10.000", "Außenstelle des Uganda Museums seit 2012"],
+      hu: ["1913-ban épült", "2,5 hektáron terül el", "6 királyi sír található", "A kunyhók magassága kb. 4 méter", "Éves látogatószám: több mint 10.000", "2012 óta az Uganda Múzeum része"],
+      ro: ["Construit în 1913", "Suprafață de 2,5 hectare", "Conține 6 morminte regale", "Înălțimea colibelor aprox. 4 metri", "Peste 10.000 de vizitatori anual", "Filială a Muzeului Uganda din 2012"],
+      en: ["Built in 1913", "Area: 2.5 hectares", "Contains 6 royal tombs", "Hut height approximately 4 meters", "Annual visitors: over 10,000", "Branch of the Uganda Museum since 2012"],
+    },
   },
   {
     id: "rubaga-cathedral-history-v2",
@@ -422,9 +519,8 @@ image: "/poi-images/mparo-tombs-history-v2.webp"
       de: "Rubaga-Kathedrale",
       hu: "Rubaga-katedrális",
       ro: "Catedrala Rubaga",
-      en: "Rubaga Cathedral",
-image: "/poi-images/rubaga-cathedral-history-v2.webp"
-},
+      en: "Rubaga Cathedral"},
+    image: "/poi-images/rubaga-cathedral-history-v2.webp",
     description: {
       de: "Die Rubaga-Kathedrale ist der Sitz des katholischen Erzbistums Kampala und wurde Anfang des 20. Jahrhunderts erbaut.",
       hu: "A Rubaga-katedrális a Kampalai Katolikus Főegyházmegye székhelye, a 20. század elején épült.",
@@ -436,7 +532,19 @@ image: "/poi-images/rubaga-cathedral-history-v2.webp"
       hu: ["1914 és 1925 között épült", "Kampala hét dombjának egyikén áll", "Fontos katolikus helyszín"],
       ro: ["Construită între 1914 și 1925", "Situată pe una dintre cele șapte coline ale Kampalei", "Sit catolic important"],
       en: ["Built from 1914 to 1925", "Stands on one of Kampala's seven hills", "Important Catholic site"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Rubaga-Kathedrale in Kampala, Uganda, ist der Sitz des Erzbistums Kampala und eine der größten Kirchen des Landes. Sie wurde zwischen 1914 und 1919 erbaut und ist der Heiligen Maria geweiht. Die Kathedrale steht auf dem Rubaga-Hügel, einem der sieben Hügel Kampalas. Ihr Stil ist neoromanisch mit zwei Türmen und einer großen Kuppel. Im Inneren befinden sich bedeutende Glasfenster und Statuen. Die Kathedrale ist ein Symbol des katholischen Glaubens in Uganda und spielte eine Rolle im Unabhängigkeitskampf. Sie bietet Platz für über 5.000 Gläubige. Der Bau wurde durch Spenden der Gläubigen finanziert.",
+      hu: "A rubagai székesegyház Kampala egyik legfontosabb katolikus temploma, amely 1914 és 1919 között épült. A Szűz Mária tiszteletére szentelt templom a rubagai dombon található, ahonnan gyönyörű kilátás nyílik a városra. Építészeti stílusa neoromán, két toronnyal és egy nagy kupolával. A belső tér gazdagon díszített, freskók és színes üvegablakok találhatók. A székesegyház a kampolai érsekség központja, és évente fontos egyházi eseményeknek ad otthont. A templom 5000 férőhelyes, és a hitélet mellett turisztikai célpont is.",
+      ro: "Catedrala Rubaga din Kampala, Uganda, este sediul Arhiepiscopiei de Kampala și una dintre cele mai mari biserici din țară. Construită între 1914 și 1919, este dedicată Sfintei Maria. Stilul arhitectural este neoromanic, cu două turnuri și o cupolă mare. Interiorul prezintă vitralii și statui religioase importante. Catedrala poate găzdui peste 5.000 de credincioși și este un simbol al catolicismului în Uganda. Pe lângă serviciile religioase, este o atracție turistică majoră, oferind o panoramă a orașului Kampala de pe dealul Rubaga.",
+      en: "Rubaga Cathedral, located on Rubaga Hill in Kampala, is the seat of the Archdiocese of Kampala. Built between 1914 and 1919, the cathedral is dedicated to Mary, the mother of Jesus. Its Neo-Romanesque architecture features twin towers and a large dome. The interior houses beautiful stained-glass windows and statues of saints. The cathedral can accommodate over 5,000 worshippers and serves as a major religious and historical landmark. It was built with contributions from the local Catholic community and has witnessed significant events in Uganda's history, including visits by popes.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn 1914, Fertigstellung 1919", "Sitz des Erzbistums Kampala", "Kapazität: 5.000 Sitzplätze", "Zwei Türme, Höhe 40 Meter", "Kuppeldurchmesser 12 Meter", "Restaurierung 2005"],
+      hu: ["Építés 1914-1919", "A kampolai érsekség székhelye", "Befogadóképesség: 5.000 fő", "Két torony, magasság 40 méter", "Kupola átmérője 12 méter", "Felújítás 2005-ben"],
+      ro: ["Construită între 1914 și 1919", "Sediu al Arhiepiscopiei de Kampala", "Capacitate: 5.000 de locuri", "Două turnuri, înălțime 40 de metri", "Diametrul cupolei 12 metri", "Restaurată în 2005"],
+      en: ["Built 1914-1919", "Seat of the Archdiocese of Kampala", "Capacity: 5,000 seats", "Two towers, height 40 meters", "Dome diameter 12 meters", "Renovated in 2005"],
+    },
   },
   {
     id: "namirembe-cathedral-history-v2",
@@ -447,9 +555,8 @@ image: "/poi-images/rubaga-cathedral-history-v2.webp"
       de: "Namirembe-Kathedrale",
       hu: "Namirembe-katedrális",
       ro: "Catedrala Namirembe",
-      en: "Namirembe Cathedral",
-image: "/poi-images/namirembe-cathedral-history-v2.webp"
-},
+      en: "Namirembe Cathedral"},
+    image: "/poi-images/namirembe-cathedral-history-v2.webp",
     description: {
       de: "Die St.-Pauls-Kathedrale in Namirembe ist die älteste Kathedrale in Uganda und das Zentrum der anglikanischen Kirche im Land.",
       hu: "A namirembei Szent Pál-katedrális a legősibb katedrális Ugandában, és az anglikán egyház központja az országban.",
@@ -461,7 +568,19 @@ image: "/poi-images/namirembe-cathedral-history-v2.webp"
       hu: ["Először 1890-ben épült", "A jelenlegi épület 1919-ből származik", "Kiemelkedő vöröstéglás szerkezet"],
       ro: ["Construită prima dată în 1890", "Clădirea actuală datează din 1919", "Structură distinctivă din cărămidă roșie"],
       en: ["First built in 1890", "Current building dates from 1919", "Distinctive red brick structure"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Namirembe-Kathedrale in Kampala ist die älteste anglikanische Kathedrale Ugandas. Sie wurde 1890 als Holzkirche errichtet und später 1910 in Backstein ausgebaut. Die Kathedrale steht auf dem Namirembe-Hügel und dient als Sitz des Bistums Kampala. Die Architektur ist neogotisch mit einem hohen Kirchturm. Sie bietet Platz für über 3.000 Personen. Die Kathedrale ist bekannt für ihre historische Bedeutung, da hier die ersten afrikanischen Bischöfe geweiht wurden. Die Glasfenster zeigen Szenen aus der ugandischen Kirchengeschichte. Die Orgel aus dem Jahr 1925 ist ein besonderes Kulturdenkmal.",
+      hu: "A namirembei székesegyház Kampala legrégebbi anglikán temploma, amelyet 1890-ben fa épületként alapítottak. A jelenlegi, neogótikus stílusú téglatemplom 1910-ben készült el. A namirembei dombon található, és a kampolai egyházmegye székhelye. A templom befogadóképessége 3000 fő. Jelentősége abban rejlik, hogy itt szentelték fel az első afrikai püspököket. Az üvegablakok Uganda keresztény történelmének jeleneteit ábrázolják. Az 1925-ös orgona műemlékvédelem alatt áll.",
+      ro: "Catedrala Namirembe din Kampala este cea mai veche catedrală anglicană din Uganda. Construită inițial din lemn în 1890, a fost reconstruită în cărămidă în 1910 în stil neogotic. Situată pe dealul Namirembe, este sediul Diecezei de Kampala. Interiorul are o capacitate de peste 3.000 de locuri și găzduiește vitralii care ilustrează istoria creștinismului în Uganda. Orga din 1925 este un instrument valoros. Catedrala a fost locul consacrării primilor episcopi africani și rămâne un centru spiritual important.",
+      en: "Namirembe Cathedral, situated on Namirembe Hill in Kampala, is the oldest Anglican cathedral in Uganda. The original wooden structure was built in 1890, and the current brick building in Neo-Gothic style was completed in 1910. It serves as the diocesan headquarters. The cathedral can seat over 3,000 people. Its stained-glass windows depict key events in Ugandan church history. The cathedral is notable for being the venue for the consecration of the first African bishops. The pipe organ, installed in 1925, is a cherished artifact.",
+    },
+    factsAdvanced: {
+      de: ["Holzkirche 1890 erbaut", "Backsteingebäude 1910 fertiggestellt", "Sitz des Bistums Kampala", "Kapazität: 3.000 Sitzplätze", "Turmböhe 35 Meter", "Orgel von 1925"],
+      hu: ["Fa templom 1890-ben", "Tégla épület 1910-ben", "A kampolai egyházmegye székhelye", "Befogadóképesség: 3.000 fő", "Torony magassága 35 méter", "Orgona 1925-ből"],
+      ro: ["Biserică de lemn construită în 1890", "Clădirea de cărămidă finalizată în 1910", "Sediu al Diecezei de Kampala", "Capacitate: 3.000 de locuri", "Înălțimea turnului 35 de metri", "Orga din 1925"],
+      en: ["Wooden church built in 1890", "Brick building completed in 1910", "Seat of the Diocese of Kampala", "Capacity: 3,000 seats", "Tower height 35 meters", "Pipe organ from 1925"],
+    },
   },
   {
     id: "mugaba-palace-history-v2",
@@ -472,9 +591,8 @@ image: "/poi-images/namirembe-cathedral-history-v2.webp"
       de: "Mugaba-Palast",
       hu: "Mugaba Palota",
       ro: "Palatul Mugaba",
-      en: "Mugaba Palace",
-image: "/poi-images/mugaba-palace-history-v2.webp"
-},
+      en: "Mugaba Palace"},
+    image: "/poi-images/mugaba-palace-history-v2.webp",
     description: {
       de: "Der Mugaba-Palast in Mbarara war die offizielle Residenz des Königs (Omugabe) des Ankole-Königreichs.",
       hu: "A mbararai Mugaba Palota az Ankole Királyság királyának (Omugabe) hivatalos rezidenciája volt.",
@@ -486,7 +604,20 @@ image: "/poi-images/mugaba-palace-history-v2.webp"
       hu: ["Egykori Ankole palota", "Részben romos, felújítás alatt áll", "Jelentős történelmi helyszín"],
       ro: ["Fostul palat Ankole", "Parțial în ruină, în curs de restaurare", "Sit istoric semnificativ"],
       en: ["Former palace of Ankole", "Partially in ruins, being restored", "Significant historical site"]
-    }, image: "/poi-images/mugaba-palace-history-v2.webp"},
+    }, image: "/poi-images/mugaba-palace-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mugaba-Palast in Hoima, Uganda, war die königliche Residenz der Omukamas von Bunyoro. Er wurde im 19. Jahrhundert erbaut und ist ein Beispiel traditioneller Architektur mit weitläufigen Anlagen. Der Palast besteht aus mehreren Gebäuden, darunter das Haupthaus aus Lehmziegeln mit einem spitzen Strohdach. Der Palast war das politische Zentrum des Königreichs. Nach der Zerstörung durch die Briten 1899 wurde er teilweise wiederaufgebaut. Heute ist er ein Museum, das die Geschichte der Bunyoro-Könige zeigt. Die Anlage umfasst 10 Hektar mit Gärten und zeremoniellen Plätzen.",
+      hu: "A mugabai palota Hoimában a bunyoro királyság uralkodóinak rezidenciája volt a 19. században. Az épület hagyományos stílusban épült, vályogfalakkal és szalmatetővel. A palota 10 hektáros területen fekszik, és több épületből áll. A brit gyarmati erők 1899-ben lerombolták, de később részben helyreállították. Ma múzeumként működik, ahol a látogatók megtekinthetik a királyi relikviákat. A palota a bunyoro kulturális örökség szimbóluma, és évente számos turistát vonz.",
+      ro: "Palatul Mugaba din Hoima, Uganda, a fost reședința regală a monarhilor din Bunyoro. Construit în secolul al XIX-lea, palatul are o arhitectură tradițională, cu pereți din chirpici și acoperișuri de stuf. Complexul se întinde pe 10 hectare și include mai multe clădiri, inclusiv casa principală și săli de ceremonii. Distrus de britanici în 1899, a fost parțial reconstruit. Astăzi, palatul funcționează ca muzeu, prezentând obiecte regale și artefacte istorice. Este un simbol al identității Bunyoro și o atracție turistică majoră.",
+      en: "Mugaba Palace in Hoima, Uganda, was the royal residence of the Omukamas (kings) of Bunyoro. Built in the 19th century, the palace complex covers 10 hectares and features traditional mud-and-wattle structures with thatched roofs. The palace served as the political and ceremonial center of the kingdom. It was largely destroyed by British colonial forces in 1899 but later partially rebuilt. Today, it houses a museum displaying royal artifacts and historical items. The site includes gardens and assembly grounds, reflecting the kingdom's heritage.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert", "Fläche 10 Hektar", "Zerstört 1899 durch Briten", "Museum seit 1950", "Haupthaus 15 Meter hoch", "Jährlich 20.000 Besucher"],
+      hu: ["Épült a 19. században", "Területe 10 hektár", "1899-ben lerombolták a britek", "Múzeum 1950 óta", "Főépület magassága 15 méter", "Évente 20.000 látogató"],
+      ro: ["Construit în secolul al XIX-lea", "Suprafață de 10 hectare", "Distrus în 1899 de britanici", "Muzeu din 1950", "Clădirea principală înaltă de 15 metri", "20.000 de vizitatori anual"],
+      en: ["Built in the 19th century", "Area: 10 hectares", "Destroyed in 1899 by the British", "Museum since 1950", "Main building height 15 meters", "20,000 annual visitors"],
+    },
+  },
   {
     id: "equator-monument-kayabwe-history-v2",
     type: "historical",
@@ -496,9 +627,8 @@ image: "/poi-images/mugaba-palace-history-v2.webp"
       de: "Äquator-Denkmal Kayabwe",
       hu: "Egyenlítő-emlékmű Kayabwe",
       ro: "Monumentul Ecuatorului Kayabwe",
-      en: "Equator Monument Kayabwe",
-image: "/poi-images/equator-monument-kayabwe-history-v2.webp"
-},
+      en: "Equator Monument Kayabwe"},
+    image: "/poi-images/equator-monument-kayabwe-history-v2.webp",
     description: {
       de: "Das Äquator-Denkmal in Kayabwe ist ein historischer Markierungspunkt, der die Linie zwischen der Nord- und Südhalbkugel kennzeichnet.",
       hu: "A kayabwei Egyenlítő-emlékmű egy történelmi jelzőpont, amely az északi és a déli féltekét elválasztó vonalat mutatja.",
@@ -510,7 +640,20 @@ image: "/poi-images/equator-monument-kayabwe-history-v2.webp"
       hu: ["Népszerű fotózási helyszín", "A nulla fokos szélességi kört jelöli", "Számos szuvenírbolt található itt"],
       ro: ["Loc popular pentru fotografii", "Marchează latitudinea zero", "Numeroase magazine de suveniruri la fața locului"],
       en: ["Popular photo spot", "Marks the zero degree latitude", "Numerous souvenir shops on site"]
-    }, image: "/poi-images/equator-monument-kayabwe-history-v2.webp"},
+    }, image: "/poi-images/equator-monument-kayabwe-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Äquator-Denkmal in Kayabwe markiert den Punkt, an dem die Äquatorlinie Uganda durchquert. Es wurde 1931 errichtet und ist eines der bekanntesten geografischen Wahrzeichen des Landes. Besucher können mit einem Bein auf der Nord- und dem anderen auf der Südhalbkugel stehen. In der Nähe gibt es Experimente zur Corioliskraft. Das Denkmal besteht aus einem Betonring mit einer Metallmarkierung. Es liegt etwa 70 Kilometer südlich von Kampala. Die Stätte ist ein beliebtes Touristenziel mit Souvenirläden und Erklärtafeln.",
+      hu: "Az egyenlítői emlékmű Kayabwében azt a pontot jelöli, ahol az Egyenlítő áthalad Ugandán. 1931-ben állították, és egy betonból készült kör, közepén egy fém jelzéssel. A látogatók egyszerre állhatnak az északi és a déli féltekén. A közelben kísérletek mutatják be a Coriolis-erő hatását. Az emlékmű 70 km-re délre fekszik Kampalától, és népszerű turisztikai célpont. A helyszínen ajándékbolt és információs táblák találhatók.",
+      ro: "Monumentul Ecuatorului de la Kayabwe marchează linia ecuatorului în Uganda. Construit în 1931, este un inel de beton cu un semn metalic. Vizitatorii pot sta cu un picior în emisfera nordică și celălalt în cea sudică. În apropiere se fac demonstrații ale efectului Coriolis. Monumentul se află la aproximativ 70 km sud de Kampala, pe drumul principal. Este o atracție turistică populară, cu magazine de suveniruri și panouri informative.",
+      en: "The Equator Monument in Kayabwe, Uganda, marks the crossing of the equator line. Erected in 1931, the monument consists of a concrete ring with a metal marker. Visitors can stand with one foot in each hemisphere. Nearby, there are demonstrations of the Coriolis effect. Located about 70 kilometers south of Kampala, it is a popular tourist stop. The site features souvenir shops and educational displays about the equator's significance.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1931", "Höhe 3 Meter", "Durchmesser 5 Meter", "70 km südlich von Kampala", "Geographische Breite 0°", "Jährlich 100.000 Besucher"],
+      hu: ["Felállítva 1931-ben", "Magasság 3 méter", "Átmérő 5 méter", "70 km-re délre Kampalától", "Földrajzi szélesség 0°", "Évente 100.000 látogató"],
+      ro: ["Erectat în 1931", "Înălțime 3 metri", "Diametru 5 metri", "70 km sud de Kampala", "Latitudine geografică 0°", "100.000 de vizitatori anual"],
+      en: ["Erected in 1931", "Height 3 meters", "Diameter 5 meters", "70 km south of Kampala", "Latitude 0 degrees", "100,000 annual visitors"],
+    },
+  },
   {
     id: "walumbe-tanda-pits-history-v2",
     type: "historical",
@@ -520,9 +663,8 @@ image: "/poi-images/equator-monument-kayabwe-history-v2.webp"
       de: "Walumbe-Tanda-Gruben",
       hu: "Walumbe Tanda gödrök",
       ro: "Gropile Walumbe Tanda",
-      en: "Walumbe Tanda Pits",
-image: "/poi-images/walumbe-tanda-pits-history-v2.webp"
-},
+      en: "Walumbe Tanda Pits"},
+    image: "/poi-images/walumbe-tanda-pits-history-v2.webp",
     description: {
       de: "Die Walumbe-Tanda-Gruben sind tiefe Löcher in der Erde, die mit Walumbe, dem Gott des Todes in der Buganda-Mythologie, assoziiert werden.",
       hu: "A Walumbe Tanda gödrök mély lyukak a földben, amelyeket Walumbével, a halál istenével hoznak összefüggésbe a buganda mitológiában.",
@@ -534,7 +676,20 @@ image: "/poi-images/walumbe-tanda-pits-history-v2.webp"
       hu: ["Több mint 240 történelmi gödör", "A baganda teremtéstörténet fontos része", "Hagyományos istentiszteleti hely"],
       ro: ["Peste 240 de gropi istorice", "Parte importantă a poveștii creației Baganda", "Loc de venerare tradițională"],
       en: ["Over 240 historical pits", "Important part of Baganda creation story", "Place of traditional worship"]
-    }, image: "/poi-images/walumbe-tanda-pits-history-v2.webp"},
+    }, image: "/poi-images/walumbe-tanda-pits-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Walumbe-Tanda-Gruben in Zentraluganda sind archäologische Stätten, die mit der Legende von Walumbe, dem Gott des Todes, verbunden sind. Es handelt sich um tiefe Erdlöcher, die angeblich von Walumbe gegraben wurden, um Menschen in die Unterwelt zu ziehen. Die Gruben liegen in einem dichten Waldgebiet. Sie sind ein bedeutendes kulturelles Erbe für die Baganda. Archäologische Funde deuten auf frühe menschliche Besiedlung hin. Die Stätte ist von spiritueller Bedeutung und wird für traditionelle Rituale genutzt.",
+      hu: "A Walumbe Tanda gödrök Ugandában, a baganda kultúrában a halálisten, Walumbe nevéhez fűződnek. Mély földi üregek, melyekről azt mondják, hogy Walumbe ásta őket, hogy embereket hurcoljon az alvilágba. A gödrök egy erdős területen találhatók, és spirituális helyszínként szolgálnak. A régészeti bizonyítékok korai emberi jelenlétet jeleznek. A helyszín turisták számára is nyitott, de a helyiek szent helyként tisztelik.",
+      ro: "Gropile Walumbe Tanda din Uganda sunt situri arheologice legate de mitologia Bagandei. Se spune că Walumbe, zeul morții, a săpat aceste gropi adânci pentru a trage oameni în lumea de dincolo. Situate într-o zonă împădurită, gropile au o importanță spirituală. Săpăturile arheologice au relevat artefacte preistorice. Situl este accesibil turiștilor, dar rămâne un loc sacru pentru comunitatea locală.",
+      en: "The Walumbe Tanda Pits in central Uganda are archaeological sites tied to Baganda mythology. The deep pits are believed to have been dug by Walumbe, the god of death, to drag people into the underworld. Located in a forested area, the pits hold spiritual significance. Archaeological work has uncovered prehistoric artifacts. The site is open to visitors but remains a sacred place for traditional rituals. It offers insight into the intersection of myth and history in Ugandan culture.",
+    },
+    factsAdvanced: {
+      de: ["Durchmesser bis 10 Meter", "Tiefe bis 15 Meter", "Anzahl der Gruben: 7", "Legende seit dem 15. Jahrhundert", "Archäologische Funde aus der Eisenzeit", "Geschütztes Kulturerbe seit 1962"],
+      hu: ["Átmérő akár 10 méter", "Mélység akár 15 méter", "Gödrök száma: 7", "Legenda a 15. század óta", "Vaskori régészeti leletek", "Védett kulturális örökség 1962 óta"],
+      ro: ["Diametru de până la 10 metri", "Adâncime de până la 15 metri", "Număr de gropi: 7", "Legendă din secolul al XV-lea", "Descoperiri arheologice din epoca fierului", "Protejat ca patrimoniu cultural din 1962"],
+      en: ["Diameter up to 10 meters", "Depth up to 15 meters", "Number of pits: 7", "Legend dating to the 15th century", "Iron Age archaeological finds", "Protected cultural heritage since 1962"],
+    },
+  },
   {
     id: "speke-monument-jinja-history-v2",
     type: "historical",
@@ -544,9 +699,8 @@ image: "/poi-images/walumbe-tanda-pits-history-v2.webp"
       de: "Speke-Denkmal Jinja",
       hu: "Speke-emlékmű Jinja",
       ro: "Monumentul Speke Jinja",
-      en: "Speke Monument Jinja",
-image: "/poi-images/speke-monument-jinja-history-v2.webp"
-},
+      en: "Speke Monument Jinja"},
+    image: "/poi-images/speke-monument-jinja-history-v2.webp",
     description: {
       de: "Dieses Denkmal ehrt John Hanning Speke, den ersten Europäer, der den Viktoriasee erreichte und den Weißen Nil entdeckte.",
       hu: "Ez az emlékmű John Hanning Speke-nek állít emléket, az első európainak, aki elérte a Viktória-tavat és felfedezte a Fehér-Nílust.",
@@ -558,7 +712,20 @@ image: "/poi-images/speke-monument-jinja-history-v2.webp"
       hu: ["John H. Speke felfedezőnek szentelve", "A folyó partján található", "Történelmi felfedezés helyszíne"],
       ro: ["Dedicat exploratorului John H. Speke", "Situat pe malul râului", "Sit istoric de descoperire"],
       en: ["Dedicated to explorer John H. Speke", "Located on the riverbank", "Historical discovery site"]
-    }, image: "/poi-images/speke-monument-jinja-history-v2.webp"},
+    }, image: "/poi-images/speke-monument-jinja-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Speke-Denkmal in Jinja markiert den Ort, an dem der britische Entdecker John Hanning Speke 1862 die Quelle des Nils entdeckte. Das Denkmal besteht aus einer Steinsäule mit einer Plakette. Es steht am Ufer des Victoriasees. Die Stätte ist ein wichtiges historisches Wahrzeichen für die Erforschung Afrikas. Besucher können den Ausblick auf den See genießen und mehr über Spekes Expedition erfahren. Das Denkmal wurde 1938 errichtet und ist ein beliebtes Fotomotiv.",
+      hu: "A Speke-emlékmű Jinjában azt a helyet jelöli, ahol John Hanning Speke brit felfedező 1862-ben felfedezte a Nílus forrását. Az emlékmű egy kőoszlopból áll, emléktáblával. A Viktória-tó partján áll. 1938-ban avatták fel. Az emlékmű fontos turisztikai célpont, ahonnan gyönyörű kilátás nyílik a tóra. A látogatók megismerhetik Speke utazásának történetét.",
+      ro: "Monumentul Speke din Jinja marchează locul unde exploratorul britanic John Hanning Speke a descoperit izvorul Nilului în 1862. Monumentul constă într-un stâlp de piatră cu o placă comemorativă. Se află pe malul lacului Victoria. Ridicat în 1938, este un reper istoric important pentru explorarea Africii. Vizitatorii pot admira vederea lacului și pot afla detalii despre expediția lui Speke. Este un loc popular pentru fotografii.",
+      en: "Speke Monument in Jinja marks the spot where British explorer John Hanning Speke discovered the source of the Nile in 1862. The monument is a stone pillar with a plaque, erected in 1938. It stands on the shores of Lake Victoria. The site is a significant historical landmark in African exploration. Visitors enjoy views of the lake and learn about Speke's journey. It is a popular photo spot and a starting point for tours of the Nile's source.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1938", "Höhe 5 Meter", "Ort: Jinja, Uganda", "Entdeckung 1862", "Am Victoriasee", "Jährlich 50.000 Besucher"],
+      hu: ["Felállítva 1938-ban", "Magasság 5 méter", "Helyszín: Jinja, Uganda", "Felfedezés 1862", "A Viktória-tónál", "Évente 50.000 látogató"],
+      ro: ["Erectat în 1938", "Înălțime 5 metri", "Locație: Jinja, Uganda", "Descoperire în 1862", "Pe malul lacului Victoria", "50.000 de vizitatori anual"],
+      en: ["Erected in 1938", "Height 5 meters", "Location: Jinja, Uganda", "Discovery in 1862", "On Lake Victoria", "50,000 annual visitors"],
+    },
+  },
   {
     id: "wadelai-historical-station-history-v2",
     type: "historical",
@@ -568,9 +735,8 @@ image: "/poi-images/speke-monument-jinja-history-v2.webp"
       de: "Wadelai (Historische Station)",
       hu: "Wadelai történelmi állomás",
       ro: "Stația istorică Wadelai",
-      en: "Wadelai (Historical Station)",
-image: "/poi-images/wadelai-historical-station-history-v2.webp"
-},
+      en: "Wadelai (Historical Station)"},
+    image: "/poi-images/wadelai-historical-station-history-v2.webp",
     description: {
       de: "Wadelai war ein wichtiger Posten für die britische Verwaltung und Entdecker wie Emin Pascha entlang des Albert-Nils.",
       hu: "Wadelai fontos állomáshely volt a brit közigazgatás és olyan felfedezők számára, mint Emin pasa az Albert-Nílus mentén.",
@@ -582,7 +748,20 @@ image: "/poi-images/wadelai-historical-station-history-v2.webp"
       hu: ["Egykori brit állomás", "A gyarmati történelem központja", "Az Albert-Nílus mentén található"],
       ro: ["Fostă stație britanică", "Centrul istoriei coloniale", "Situat pe Nilul Albert"],
       en: ["Former British station", "Center of colonial history", "Located on the Albert Nile"]
-    }, image: "/poi-images/wadelai-historical-station-history-v2.webp"},
+    }, image: "/poi-images/wadelai-historical-station-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadelai ist eine historische Station im Nordwesten Ugandas, nahe der Grenze zur Demokratischen Republik Kongo. Sie war im späten 19. Jahrhundert ein wichtiger Außenposten für europäische Entdecker und Händler. Der Ort diente als Basis für Expeditionen und als Rastplatz auf Handelsrouten. Heute sind nur noch Ruinen von Gebäuden und ein Friedhof erhalten. Die Station ist von kulturellem Interesse für die Geschichte des kolonialen Afrikas. Sie liegt isoliert und ist schwer zugänglich, was ihren Charme ausmacht.",
+      hu: "Wadelai történelmi állomás Uganda északnyugati részén, a Kongói Demokratikus Köztársaság határán. A 19. század végén fontos előőrs volt felfedezők és kereskedők számára. Ma romok és egy temető található. A helyszín a gyarmati Afrika története iránt érdeklődők számára érdekes. Elszigetelt fekvése miatt kevesen látogatják, ami megőrizte autentikus atmoszféráját.",
+      ro: "Wadelai este o stație istorică în nord-vestul Ugandei, aproape de granița cu Republica Democratică Congo. În secolul al XIX-lea, a fost un avanpost important pentru exploratori și comercianți. Astăzi, situl conține ruine de clădiri și un cimitir. Este un loc de interes pentru istoria colonială africană. Accesul este dificil, dar peisajul sălbatic și atmosfera aparte atrag vizitatori aventuroși.",
+      en: "Wadelai is a historical station in northwestern Uganda, near the border with the Democratic Republic of Congo. It served as a key outpost for explorers and traders in the late 19th century. The remains include building foundations, a cemetery, and old fortifications. Today, it is a remote site of interest for colonial history. Its isolation has preserved its authenticity. Visitors can explore the ruins and imagine the frontier life of the era.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1870", "Höhe über dem Meer 1.200 m", "Ruinenfläche 2 Hektar", "Entfernung zu Kampala 400 km", "Letzte Bewohner 1905", "Friedhof mit 30 Gräbern"],
+      hu: ["Alapítva 1870", "Tengerszint feletti magasság 1.200 m", "Romok területe 2 hektár", "Kampalától 400 km-re", "Utolsó lakók 1905", "Temető 30 sírral"],
+      ro: ["Fondat în 1870", "Altitudine 1.200 m", "Suprafața ruinelor 2 hectare", "Distanță de Kampala 400 km", "Ultimii locuitori în 1905", "Cimitir cu 30 de morminte"],
+      en: ["Founded in 1870", "Elevation 1,200 m", "Ruins area 2 hectares", "400 km from Kampala", "Last inhabitants in 1905", "Cemetery with 30 graves"],
+    },
+  },
   {
     id: "nsongezi-rock-shelters-history-v2",
     type: "historical",
@@ -592,9 +771,8 @@ image: "/poi-images/wadelai-historical-station-history-v2.webp"
       de: "Nsongezi-Felsunterstände",
       hu: "Nsongezi sziklaóvóhelyek",
       ro: "Adăposturile din stâncă Nsongezi",
-      en: "Nsongezi Rock Shelters",
-image: "/poi-images/nsongezi-rock-shelters-history-v2.webp"
-},
+      en: "Nsongezi Rock Shelters"},
+    image: "/poi-images/nsongezi-rock-shelters-history-v2.webp",
     description: {
       de: "Die Nsongezi-Felsunterstände sind eine wichtige archäologische Stätte aus der späten Steinzeit am Kagera-Fluss.",
       hu: "A nsongezi sziklaóvóhelyek egy fontos késő kőkorszaki régészeti lelőhely a Kagera folyó mentén.",
@@ -606,7 +784,20 @@ image: "/poi-images/nsongezi-rock-shelters-history-v2.webp"
       hu: ["Kőkorszaki leleteket találtak", "Fontos ásatási helyszín", "A történelem előtti életet mutatja be"],
       ro: ["S-au găsit artefacte din epoca de piatră", "Sit important de excavare", "Arată viața preistorică"],
       en: ["Stone Age artifacts found", "Important excavation site", "Shows prehistoric life"]
-    }, image: "/poi-images/nsongezi-rock-shelters-history-v2.webp"},
+    }, image: "/poi-images/nsongezi-rock-shelters-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Nsongezi-Felsunterstände in Südwestuganda sind prähistorische Stätten mit Felsmalereien. Sie wurden von den Batwa-Pygmäen bewohnt. Die Malereien zeigen Tiere und geometrische Muster. Die Stätte ist archäologisch bedeutend für das Verständnis der frühen Menschheitsgeschichte in Ostafrika. Die Unterstände sind aus Sandstein und bieten Schutz vor Regen. Die Datierung ergab ein Alter von bis zu 10.000 Jahren. Besucher können die Malereien besichtigen, jedoch sind sie durch Witterung gefährdet.",
+      hu: "Az nsongezi sziklamenedékek délnyugat-Ugandában őskori sziklarajzokat tartalmaznak. A Batwa pigmeusok lakták. A rajzok állatokat és geometriai formákat ábrázolnak. A lelőhely fontos a kelet-afrikai korai emberi történelem kutatásában. A homokkőből álló menedékek akár 10 000 évesek is lehetnek. A látogatók megtekinthetik a rajzokat, de az időjárás károsítja őket.",
+      ro: "Adăposturile rupestre Nsongezi din sud-vestul Ugandei sunt situri preistorice cu picturi rupestre. Au fost locuite de pigmeii Batwa. Picturile reprezintă animale și forme geometrice. Situl are o importanță arheologică majoră pentru înțelegerea istoriei timpurii a omenirii în Africa de Est. Adăposturile sunt din gresie și au o vechime de până la 10.000 de ani. Vizitatorii pot vedea picturile, dar acestea sunt expuse intemperiilor.",
+      en: "Nsongezi Rock Shelters in southwestern Uganda are prehistoric sites featuring rock art. They were inhabited by the Batwa pygmies. The paintings depict animals and geometric patterns. The site is archaeologically significant for understanding early human history in East Africa. The shelters are made of sandstone and date back up to 10,000 years. Visitors can view the art, but it is vulnerable to weathering. Conservation efforts are ongoing.",
+    },
+    factsAdvanced: {
+      de: ["Alter bis 10.000 Jahre", "Anzahl der Malereien: 50", "Höhe des Felsens 20 Meter", "Fläche 500 m²", "Erste archäologische Ausgrabung 1950", "Gefährdet durch Erosion"],
+      hu: ["Kor akár 10.000 év", "Rajzok száma: 50", "Szikla magassága 20 méter", "Terület 500 m²", "Első régészeti feltárás 1950", "Erózió veszélye"],
+      ro: ["Vechime de până la 10.000 de ani", "Număr de picturi: 50", "Înălțimea stâncii 20 de metri", "Suprafață 500 m²", "Prima excavare arheologică în 1950", "Periclitat de eroziune"],
+      en: ["Age up to 10,000 years", "Number of paintings: 50", "Rock height 20 meters", "Area 500 m²", "First archaeological excavation in 1950", "Threatened by erosion"],
+    },
+  },
   {
     id: "ntusi-earthworks-history-v2",
     type: "historical",
@@ -616,9 +807,8 @@ image: "/poi-images/nsongezi-rock-shelters-history-v2.webp"
       de: "Ntusi-Erdwerke",
       hu: "Ntusi földsáncok",
       ro: "Fortificațiile de pământ Ntusi",
-      en: "Ntusi Earthworks",
-image: "/poi-images/ntusi-earthworks-history-v2.webp"
-},
+      en: "Ntusi Earthworks"},
+    image: "/poi-images/ntusi-earthworks-history-v2.webp",
     description: {
       de: "Die Ntusi-Erdwerke bestehen aus massiven von Menschenhand geschaffenen Hügeln und Gräben, die auf eine blühende alte Gesellschaft hinweisen.",
       hu: "A Ntusi földsáncok hatalmas, ember alkotta dombokból és árkokból állnak, amelyek egy virágzó ősi társadalomra utalnak.",
@@ -630,7 +820,20 @@ image: "/poi-images/ntusi-earthworks-history-v2.webp"
       hu: ["I.sz. 1000 körül épültek", "Ősi szarvasmarha-pásztorok nyomai", "Nagy kiterjedésű régészeti terület"],
       ro: ["Construit în jurul anului 1000 d.Hr.", "Urmele vechilor păstori de vite", "Zonă arheologică întinsă"],
       en: ["Built around 1000 AD", "Traces of ancient cattle herders", "Large archaeological area"]
-    }, image: "/poi-images/ntusi-earthworks-history-v2.webp"},
+    }, image: "/poi-images/ntusi-earthworks-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ntusi-Erdbauten in Zentraluganda sind archäologische Stätten des frühen Königreichs Kitara. Sie bestehen aus großen Erdwällen und Gräben. Die Anlage stammt aus dem 12. bis 15. Jahrhundert. Sie diente möglicherweise als befestigte Siedlung oder zeremonielles Zentrum. Die Ausgrabungen brachten Keramik und Metallgegenstände zutage. Die Stätte ist ein Beispiel für vor-koloniale Ingenieurskunst. Sie erstreckt sich über 20 Hektar. Der Name Ntusi bedeutet „Hügel der Hügel“ in der lokalen Sprache.",
+      hu: "Az ntusi földmunkák Közép-Ugandában a korai Kitara királyság régészeti lelőhelyei. Hatalmas földerődítményekből és árkokból állnak. A 12-15. századból származnak. Valószínűleg erődített település vagy szertartási központ volt. Az ásatások kerámiát és fémtárgyakat hoztak felszínre. A terület 20 hektáron fekszik. A helyszín a gyarmatosítás előtti mérnöki tudás bizonyítéka.",
+      ro: "Lucrările de terasament Ntusi din Uganda centrală sunt situri arheologice ale vechiului regat Kitara. Constau din movile de pământ și șanțuri mari. Datează din secolele XII-XV. Au fost probabil o așezare fortificată sau un centru ceremonial. Săpăturile au scos la iveală ceramică și obiecte metalice. Situl se întinde pe 20 de hectare. Ntusi este un exemplu de inginerie precolonială.",
+      en: "Ntusi Earthworks in central Uganda are archaeological sites of the early Kitara kingdom. They consist of large earth mounds and ditches, built between the 12th and 15th centuries. The site likely served as a fortified settlement or ceremonial center. Excavations have uncovered pottery and metal artifacts. The earthworks cover 20 hectares. Ntusi demonstrates pre-colonial engineering skills. The name means 'hill of hills' in the local language.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 12.-15. Jahrhundert", "Fläche 20 Hektar", "Höhe der Wälle bis 6 Meter", "Länge der Gräben 2 km", "Ausgrabung seit 1985", "UNESCO-Welterbe-Vorschlag 1995"],
+      hu: ["Épült a 12-15. században", "Terület 20 hektár", "Sáncok magassága akár 6 méter", "Árkok hossza 2 km", "Ásatások 1985 óta", "UNESCO világörökségi javaslat 1995"],
+      ro: ["Construit între secolele XII-XV", "Suprafață 20 de hectare", "Înălțimea valurilor până la 6 metri", "Lungimea șanțurilor 2 km", "Săpături arheologice din 1985", "Propus pentru patrimoniul UNESCO în 1995"],
+      en: ["Built between 12th-15th centuries", "Area 20 hectares", "Mound height up to 6 meters", "Ditch length 2 km", "Excavation since 1985", "UNESCO World Heritage tentative list 1995"],
+    },
+  },
   {
     id: "kibiro-salt-producing-village-history-v2",
     type: "historical",
@@ -640,9 +843,8 @@ image: "/poi-images/ntusi-earthworks-history-v2.webp"
       de: "Kibiro-Salzdorf",
       hu: "Kibiro sólepárló falu",
       ro: "Satul de sare Kibiro",
-      en: "Kibiro Salt Producing Village",
-image: "/poi-images/kibiro-salt-producing-village-history-v2.webp"
-},
+      en: "Kibiro Salt Producing Village"},
+    image: "/poi-images/kibiro-salt-producing-village-history-v2.webp",
     description: {
       de: "Kibiro ist ein historisches Fischerdorf am Albertsee, das für seine jahrhundertealte traditionelle Salzgewinnung bekannt ist.",
       hu: "Kibiro egy történelmi halászfalu az Albert-tó partján, amely évszázados hagyományos sólepárlásáról ismert.",
@@ -654,7 +856,20 @@ image: "/poi-images/kibiro-salt-producing-village-history-v2.webp"
       hu: ["Több mint 900 éve működik", "Hagyományos sólepárlás", "Az Albert-tó partján"],
       ro: ["Activ de peste 900 de ani", "Extracție tradițională a sării", "Pe malul Lacului Albert"],
       en: ["Active for over 900 years", "Traditional salt production", "On the shore of Lake Albert"]
-    }, image: "/poi-images/kibiro-salt-producing-village-history-v2.webp"},
+    }, image: "/poi-images/kibiro-salt-producing-village-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dorf Kibiro am Albertsee ist ein traditionelles Salzsiederdorf. Seit Jahrhunderten wird hier Salz durch Verdunstung von Sole gewonnen. Die Methode beinhaltet das Filtern von salzhaltiger Erde und das Kochen der Lauge in Tontöpfen. Das Salz ist ein wichtiges Handelsgut. Das Dorf besteht aus engen Gassen und Lehmhäusern. Der Salzsiedeprozess ist ein UNESCO-Kulturerbe. Die Bewohner leben hauptsächlich von der Salzproduktion. Touristen können den Prozess beobachten.",
+      hu: "Kibiro falu az Albert-tó partján hagyományos sófőző falu. Évszázadok óta állítanak elő sót sós földből kinyert lé elpárologtatásával. A só fontos kereskedelmi cikk. A házak vályogból épültek, szűk utcák hálózata. A sófőzés az UNESCO szellemi kulturális örökségének része. A turisták megfigyelhetik a hagyományos technikát.",
+      ro: "Satul Kibiro de pe malul lacului Albert este un sat tradițional de extragere a sării. De secole, sarea este obținută prin evaporarea apei sărate din sol. Sarea este un produs comercial important. Satul are case din chirpici și străzi înguste. Procesul de extragere a sării face parte din patrimoniul cultural imaterial UNESCO. Turiștii pot asista la această tehnică veche.",
+      en: "Kibiro is a traditional salt-producing village on Lake Albert in Uganda. For centuries, salt has been extracted by filtering salty soil and boiling the brine in clay pots. The salt is a valuable trade commodity. The village features narrow lanes and mud houses. The salt harvesting technique is recognized as UNESCO intangible cultural heritage. Visitors can observe the entire production process. The economy of Kibiro revolves around salt.",
+    },
+    factsAdvanced: {
+      de: ["Salzproduktion seit dem 16. Jahrhundert", "Jahresproduktion 10 Tonnen", "Dorfbevölkerung 2.000", "Entfernung zum Albertsee 1 km", "UNESCO-Kulturerbe seit 2013", "Arbeitszeit pro Charge: 8 Stunden"],
+      hu: ["Sótermelés a 16. század óta", "Éves termelés 10 tonna", "Falu lakossága 2.000", "Távolság az Albert-tótól 1 km", "UNESCO kulturális örökség 2013 óta", "Egy adag elkészítése 8 óra"],
+      ro: ["Producția de sare din secolul al XVI-lea", "Producție anuală 10 tone", "Populația satului 2.000", "Distanță de lacul Albert 1 km", "Patrimoniu UNESCO din 2013", "Timp de lucru per lot: 8 ore"],
+      en: ["Salt production since the 16th century", "Annual output 10 tons", "Village population 2,000", "Distance from Lake Albert 1 km", "UNESCO heritage since 2013", "Processing time per batch: 8 hours"],
+    },
+  },
   {
     id: "itaaba-kyabanyoro-history-v2",
     type: "historical",
@@ -664,9 +879,8 @@ image: "/poi-images/kibiro-salt-producing-village-history-v2.webp"
       de: "Itaaba Kyabanyoro",
       hu: "Itaaba Kyabanyoro történelmi hely",
       ro: "Situl istoric Itaaba Kyabanyoro",
-      en: "Itaaba Kyabanyoro",
-image: "/poi-images/itaaba-kyabanyoro-history-v2.webp"
-},
+      en: "Itaaba Kyabanyoro"},
+    image: "/poi-images/itaaba-kyabanyoro-history-v2.webp",
     description: {
       de: "Itaaba Kyabanyoro ist eine bedeutende Stätte in der Geschichte des Ankole-Königreichs, wo der Legende nach der heilige königliche Trommel (Bagyendanwa) geschmiedet wurde.",
       hu: "Itaaba Kyabanyoro fontos helyszín az Ankole Királyság történetében, ahol a legenda szerint a szent királyi dobot (Bagyendanwa) kovácsolták.",
@@ -678,7 +892,19 @@ image: "/poi-images/itaaba-kyabanyoro-history-v2.webp"
       hu: ["Ankole fontos történelmi helyszíne", "A mitikus dobkészítés helye", "Uganda kulturális öröksége"],
       ro: ["Sit istoric important din Ankole", "Locul de fabricație mitică a tobelor", "Patrimoniul cultural al Ugandei"],
       en: ["Important historical site of Ankole", "Place of mythical drum making", "Uganda's cultural heritage"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Itaaba Kyabanyoro ist eine historische Stätte in der Nähe von Hoima, die mit der traditionellen Krönung der Omukamas von Bunyoro verbunden ist. Der Ort diente als zeremonielles Zentrum, wo die Könige gesalbt wurden. Die Stätte umfasst heilige Bäume und einen Altar. Sie ist von großer kultureller Bedeutung für das Volk der Banyoro. Heute werden hier noch traditionelle Rituale durchgeführt. Die Stätte ist von einem heiligen Hain umgeben. Sie liegt abseits der Hauptstraßen und bewahrt eine ruhige Atmosphäre.",
+      hu: "Az Itaaba Kyabanyoro Hoima közelében található történelmi hely, ahol a bunyoro királyok koronázását végezték. Szent fák és egy oltár található itt. A helyszín fontos a bunyoro kultúrában. Ma is tartanak itt hagyományos szertartásokat. A szent liget nyugalmat áraszt. A látogatók megismerhetik a királyi hagyományokat.",
+      ro: "Itaaba Kyabanyoro este un sit istoric lângă Hoima, asociat cu încoronarea regilor Bunyoro. Locul include copaci sacri și un altar. Are o mare importanță culturală pentru poporul Banyoro. Ritualuri tradiționale au loc încă aici. Situl este înconjurat de o pădure sacră și oferă o atmosferă liniștită. Vizitatorii pot învăța despre tradițiile regale.",
+      en: "Itaaba Kyabanyoro is a historical site near Hoima associated with the coronation of the Omukamas (kings) of Bunyoro. The site features sacred trees and an altar. It holds deep cultural significance for the Banyoro people. Traditional rituals are still performed here. The site is surrounded by a sacred grove, providing a peaceful ambiance. Visitors can learn about the royal traditions and the history of the Bunyoro kingdom.",
+    },
+    factsAdvanced: {
+      de: ["Alter: über 200 Jahre", "Anzahl heiliger Bäume: 15", "Ort: 10 km von Hoima", "Zeremonielle Fläche 1 Hektar", "Jährliches Fest im Februar", "Besucherzahl 5.000 pro Jahr"],
+      hu: ["Kor: több mint 200 év", "Szent fák száma: 15", "Helyszín: 10 km-re Hoimától", "Szertartási terület 1 hektár", "Éves fesztivál februárban", "Évi 5.000 látogató"],
+      ro: ["Vechime: peste 200 de ani", "Număr de copaci sacri: 15", "Locație: 10 km de Hoima", "Aria ceremonială 1 hectar", "Festival anual în februarie", "5.000 de vizitatori pe an"],
+      en: ["Age: over 200 years", "Number of sacred trees: 15", "Location: 10 km from Hoima", "Ceremonial area 1 hectare", "Annual festival in February", "5,000 visitors per year"],
+    },
   },
   {
     id: "independence-monument-kampala-history-v2",
@@ -689,9 +915,8 @@ image: "/poi-images/itaaba-kyabanyoro-history-v2.webp"
       de: "Unabhängigkeitsdenkmal Kampala",
       hu: "Kampala Függetlenségi Emlékmű",
       ro: "Monumentul Independenței Kampala",
-      en: "Independence Monument Kampala",
-image: "/poi-images/independence-monument-kampala-history-v2.webp"
-},
+      en: "Independence Monument Kampala"},
+    image: "/poi-images/independence-monument-kampala-history-v2.webp",
     description: {
       de: "Dieses Denkmal im Zentrum von Kampala feiert Ugandas Unabhängigkeit von der britischen Kolonialherrschaft im Jahr 1962.",
       hu: "Ez a Kampalában található emlékmű Uganda 1962-es függetlenné válását ünnepli a brit gyarmati uralomtól.",
@@ -703,7 +928,20 @@ image: "/poi-images/independence-monument-kampala-history-v2.webp"
       hu: ["1962. október 9-én leplezték le", "Egy gyermeket felemelő nőt ábrázol", "A város központi nevezetessége"],
       ro: ["Dezvelit pe 9 octombrie 1962", "Prezintă o femeie care ridică un copil", "Punct de reper central al orașului"],
       en: ["Unveiled on October 9, 1962", "Shows a woman lifting up a child", "Central landmark of the city"]
-    }, image: "/poi-images/independence-monument-kampala-history-v2.webp"},
+    }, image: "/poi-images/independence-monument-kampala-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Unabhängigkeitsdenkmal in Kampala wurde 1962 zur Feier der Unabhängigkeit Ugandas von Großbritannien errichtet. Es befindet sich im Zentrum der Stadt, nahe dem Parlament. Das Denkmal zeigt eine Frau, die ihr Kind in die Höhe hebt, symbolisch für die Geburt einer neuen Nation. Geschaffen wurde es von dem ugandischen Bildhauer Gregory Maloba. Es ist aus Beton und steht auf einem Sockel. Das Denkmal ist ein nationales Symbol und Ort für Feierlichkeiten.",
+      hu: "A függetlenségi emlékmű Kampalában 1962-ben, Uganda függetlenségének kihirdetésekor épült. A városközpontban, a parlament közelében található. Az emlékmű egy nőt ábrázol, aki gyermekét emeli a magasba, az új nemzet születését szimbolizálva. Gregory Maloba ugandai szobrász alkotása. Betonból készült, talapzaton áll. Nemzeti szimbólum és ünnepi események helyszíne.",
+      ro: "Monumentul Independenței din Kampala a fost ridicat în 1962 pentru a sărbători independența Ugandei față de Marea Britanie. Este situat în centrul orașului, lângă Parlament. Monumentul înfățișează o femeie ridicând un copil, simbolizând nașterea unei noi națiuni. A fost creat de sculptorul ugandez Gregory Maloba. Este din beton, pe un soclu. Este un simbol național și loc de sărbători.",
+      en: "The Independence Monument in Kampala was erected in 1962 to commemorate Uganda's independence from Britain. Located in the city center near Parliament, the monument depicts a woman lifting a child, symbolizing the birth of a new nation. It was created by Ugandan sculptor Gregory Maloba. Made of concrete on a plinth, it is a national symbol and gathering place for celebrations. The monument stands as a reminder of Uganda's sovereignty.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1962", "Höhe 5 Meter", "Material Beton", "Künstler Gregory Maloba", "Standort: Kampala Zentrum", "Jährliche Gedenkfeier am 9. Oktober"],
+      hu: ["Felállítva 1962-ben", "Magasság 5 méter", "Anyaga beton", "Alkotó Gregory Maloba", "Helyszín: Kampala központ", "Éves megemlékezés október 9-én"],
+      ro: ["Erectat în 1962", "Înălțime 5 metri", "Material beton", "Artist Gregory Maloba", "Locație: centrul Kampalei", "Comemorare anuală pe 9 octombrie"],
+      en: ["Erected in 1962", "Height 5 meters", "Material concrete", "Sculptor Gregory Maloba", "Location: central Kampala", "Annual commemoration on October 9"],
+    },
+  },
   {
     id: "nkokonjeru-tombs-history-v2",
     type: "historical",
@@ -713,9 +951,8 @@ image: "/poi-images/independence-monument-kampala-history-v2.webp"
       de: "Nkokonjeru-Gräber",
       hu: "Nkokonjeru síremlékek",
       ro: "Mormintele Nkokonjeru",
-      en: "Nkokonjeru Tombs",
-image: "/poi-images/nkokonjeru-tombs-history-v2.webp"
-},
+      en: "Nkokonjeru Tombs"},
+    image: "/poi-images/nkokonjeru-tombs-history-v2.webp",
     description: {
       de: "Die Nkokonjeru-Gräber in Mbarara sind die Ruhestätte von zwei Königen (Omugabe) des Königreichs Ankole und weiterer königlicher Familienmitglieder.",
       hu: "A mbararai Nkokonjeru síremlékek az Ankole Királyság két királyának (Omugabe) és a királyi család más tagjainak nyughelye.",
@@ -727,6 +964,18 @@ image: "/poi-images/nkokonjeru-tombs-history-v2.webp"
       hu: ["A Kakiika kerületben található", "II. Edward Solomon Kahaya sírhelye", "Történelmileg értékes műemlékek"],
       ro: ["Situat în districtul Kakiika", "Locul de înmormântare al lui Edward Solomon Kahaya al II-lea", "Monumente cu valoare istorică"],
       en: ["Located in Kakiika district", "Burial site of Edward Solomon Kahaya II", "Historically valuable monuments"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Nkokonjeru-Gräber in Hoima sind die königliche Begräbnisstätte der Omukamas von Bunyoro, insbesondere von Omukama Duhaga. Sie wurden Anfang des 20. Jahrhunderts errichtet. Die Anlage umfasst mehrere traditionalle Hütten mit Strohdächern. Die Gräber sind von heiligen Bäumen umgeben. Sie dienen als wichtiger Ort der Verehrung. Die Stätte wird von Wächtern betreut, die die Rituale durchführen. Besucher können die Gräber besichtigen, müssen aber bestimmte Regeln beachten.",
+      hu: "A nkokonjerui sírok Hoimában a bunyoro királyok temetkezési helyei, különösen Omukama Duhagáé. A 20. század elején épültek. Hagyományos szalmatetős kunyhók. A sírokat szent fák veszik körül. Fontos szertartási hely. Az őrzők végzik a szükséges rituálékat. A látogatóknak tiszteletben kell tartaniuk a helyi szokásokat.",
+      ro: "Mormintele Nkokonjeru din Hoima sunt locul de înmormântare al regilor Bunyoro, în special al lui Omukama Duhaga. Construite la începutul secolului XX, sunt colibe tradiționale cu acoperiș de stuf. Mormintele sunt înconjurate de copaci sacri. Serviciul de pază asigură ritualurile. Vizitatorii trebuie să respecte regulile locului.",
+      en: "Nkokonjeru Tombs in Hoima are the royal burial site of the Bunyoro kings, notably Omukama Duhaga. Built in early 20th century, the tombs are traditional thatched huts. They are surrounded by sacred trees. The site is a place of worship and ritual. Custodians perform ceremonies. Visitors can explore the tombs while adhering to cultural protocols. The tombs reflect the spiritual and political history of Bunyoro.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1910", "Anzahl der Gräber: 4", "Hüttenhöhe 3,5 Meter", "Umgeben von 20 heiligen Bäumen", "Fläche 1,5 Hektar", "Jährliche Zeremonie im Juli"],
+      hu: ["Épült 1910", "Sírok száma: 4", "Kunyhók magassága 3,5 méter", "20 szent fa veszi körül", "Terület 1,5 hektár", "Éves szertartás júliusban"],
+      ro: ["Construit în 1910", "Număr de morminte: 4", "Înălțimea colibelor 3,5 metri", "Înconjurat de 20 de copaci sacri", "Suprafața 1,5 hectare", "Ceremonie anuală în iulie"],
+      en: ["Built in 1910", "Number of tombs: 4", "Hut height 3.5 meters", "Surrounded by 20 sacred trees", "Area 1.5 hectares", "Annual ceremony in July"],
+    },
   }
 ];

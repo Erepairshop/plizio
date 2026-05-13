@@ -5,9 +5,8 @@ export const belarusLifeV2: POI[] = [
     id: "belarus-belovezhskaya-pushcha-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Nationalpark Belaweschskaja Puschtscha", hu: "Belavezsszkaja Puscsa Nemzeti Park", ro: "Parcul Național Belovezhskaya Pushcha", en: "Belovezhskaya Pushcha National Park",
-image: "/poi-images/belarus-belovezhskaya-pushcha-life-v2.webp"
-},
+    name: { de: "Nationalpark Belaweschskaja Puschtscha", hu: "Belavezsszkaja Puscsa Nemzeti Park", ro: "Parcul Național Belovezhskaya Pushcha", en: "Belovezhskaya Pushcha National Park"},
+    image: "/poi-images/belarus-belovezhskaya-pushcha-life-v2.webp",
     coords: [23.866, 52.73],
     coordinates: { lat: 52.73, lng: 23.866 },
     description: {
@@ -40,9 +39,8 @@ image: "/poi-images/belarus-belovezhskaya-pushcha-life-v2.webp"
     id: "belarus-berezinsky-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Biosphärenreservat Beresinski", hu: "Berezinszkij Bioszféra-rezervátum", ro: "Rezervația Biosferei Berezinski", en: "Berezinsky Biosphere Reserve",
-image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp"
-},
+    name: { de: "Biosphärenreservat Beresinski", hu: "Berezinszkij Bioszféra-rezervátum", ro: "Rezervația Biosferei Berezinski", en: "Berezinsky Biosphere Reserve"},
+    image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp",
     coords: [28.316, 54.733],
     coordinates: { lat: 54.733, lng: 28.316 },
     description: {
@@ -74,9 +72,8 @@ image: "/poi-images/belarus-berezinsky-reserve-life-v2.webp"
     id: "belarus-pripyatsky-national-park-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Nationalpark Pripjazki", hu: "Pripjaty Nemzeti Park", ro: "Parcul Național Pripyatsky", en: "Pripyatsky National Park",
-image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Pripjazki", hu: "Pripjaty Nemzeti Park", ro: "Parcul Național Pripyatsky", en: "Pripyatsky National Park"},
+    image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp",
     coords: [28.116, 52.05],
     coordinates: { lat: 52.05, lng: 28.116 },
     description: {
@@ -108,9 +105,8 @@ image: "/poi-images/belarus-pripyatsky-national-park-life-v2.webp"
     id: "belarus-narochansky-national-park-life-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Nationalpark Narotschanski", hu: "Narocsanszkij Nemzeti Park", ro: "Parcul Național Narochansky", en: "Narochansky National Park",
-image: "/poi-images/belarus-narochansky-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Narotschanski", hu: "Narocsanszkij Nemzeti Park", ro: "Parcul Național Narochansky", en: "Narochansky National Park"},
+    image: "/poi-images/belarus-narochansky-national-park-life-v2.webp",
     coords: [26.733, 54.85],
     coordinates: { lat: 54.85, lng: 26.733 },
     description: {
@@ -142,9 +138,8 @@ image: "/poi-images/belarus-narochansky-national-park-life-v2.webp"
     id: "belarus-braslav-lakes-national-park-life-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Nationalpark Braslauer Seen", hu: "Braszlavi-tavak Nemzeti Park", ro: "Parcul Național Lacurile Braslav", en: "Braslav Lakes National Park",
-image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Braslauer Seen", hu: "Braszlavi-tavak Nemzeti Park", ro: "Parcul Național Lacurile Braslav", en: "Braslav Lakes National Park"},
+    image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp",
     coords: [27.05, 55.616],
     coordinates: { lat: 55.616, lng: 27.05 },
     description: {
@@ -176,9 +171,8 @@ image: "/poi-images/belarus-braslav-lakes-national-park-life-v2.webp"
     id: "belarus-yelnya-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Landschaftsschutzgebiet Jelnja", hu: "Jelnya Tájvédelmi Körzet", ro: "Rezervația Peisagistică Yelnya", en: "Yelnya Landscape Reserve",
-image: "/poi-images/belarus-yelnya-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Jelnja", hu: "Jelnya Tájvédelmi Körzet", ro: "Rezervația Peisagistică Yelnya", en: "Yelnya Landscape Reserve"},
+    image: "/poi-images/belarus-yelnya-reserve-life-v2.webp",
     coords: [27.8, 55.55],
     coordinates: { lat: 55.55, lng: 27.8 },
     description: {
@@ -210,9 +204,8 @@ image: "/poi-images/belarus-yelnya-reserve-life-v2.webp"
     id: "belarus-olman-mires-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Olman-Sümpfe", hu: "Olman-mocsarak", ro: "Mlaștinile Olman", en: "Olman Mires",
-image: "/poi-images/belarus-olman-mires-life-v2.webp"
-},
+    name: { de: "Olman-Sümpfe", hu: "Olman-mocsarak", ro: "Mlaștinile Olman", en: "Olman Mires"},
+    image: "/poi-images/belarus-olman-mires-life-v2.webp",
     coords: [27.116, 51.816],
     coordinates: { lat: 51.816, lng: 27.116 },
     description: {
@@ -244,9 +237,8 @@ image: "/poi-images/belarus-olman-mires-life-v2.webp"
     id: "belarus-nalibokskaya-pushcha-life-v2",
     parent: "BY",
     type: "forest",
-    name: { de: "Nalibokskaja Puschtscha", hu: "Nalibokszkaja Puscsa", ro: "Pădurea Naliboki", en: "Nalibokskaya Pushcha",
-image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp"
-},
+    name: { de: "Nalibokskaja Puschtscha", hu: "Nalibokszkaja Puscsa", ro: "Pădurea Naliboki", en: "Nalibokskaya Pushcha"},
+    image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp",
     coords: [26.5, 53.95],
     coordinates: { lat: 53.95, lng: 26.5 },
     description: {
@@ -278,9 +270,8 @@ image: "/poi-images/belarus-nalibokskaya-pushcha-life-v2.webp"
     id: "belarus-sporovsky-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Biologisches Reservat Sporowski", hu: "Szporovszkij Biológiai Rezervátum", ro: "Rezervația Biologică Sporovsky", en: "Sporovsky Biological Reserve",
-image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp"
-},
+    name: { de: "Biologisches Reservat Sporowski", hu: "Szporovszkij Biológiai Rezervátum", ro: "Rezervația Biologică Sporovsky", en: "Sporovsky Biological Reserve"},
+    image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp",
     coords: [25.316, 52.416],
     coordinates: { lat: 52.416, lng: 25.316 },
     description: {
@@ -312,9 +303,8 @@ image: "/poi-images/belarus-sporovsky-reserve-life-v2.webp"
     id: "belarus-zvanets-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Biologisches Reservat Swanetz", hu: "Zvanec Biológiai Rezervátum", ro: "Rezervația Biologică Zvanets", en: "Zvanets Biological Reserve",
-image: "/poi-images/belarus-zvanets-reserve-life-v2.webp"
-},
+    name: { de: "Biologisches Reservat Swanetz", hu: "Zvanec Biológiai Rezervátum", ro: "Rezervația Biologică Zvanets", en: "Zvanets Biological Reserve"},
+    image: "/poi-images/belarus-zvanets-reserve-life-v2.webp",
     coords: [24.833, 52.083],
     coordinates: { lat: 52.083, lng: 24.833 },
     description: {
@@ -346,9 +336,8 @@ image: "/poi-images/belarus-zvanets-reserve-life-v2.webp"
     id: "belarus-mid-pripyat-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Landschaftsschutzgebiet Mittlerer Pripjat", hu: "Közép-Pripjaty Tájvédelmi Körzet", ro: "Rezervația Peisagistică Pripyat Mijlociu", en: "Mid-Pripyat Landscape Reserve",
-image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Mittlerer Pripjat", hu: "Közép-Pripjaty Tájvédelmi Körzet", ro: "Rezervația Peisagistică Pripyat Mijlociu", en: "Mid-Pripyat Landscape Reserve"},
+    image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp",
     coords: [27.0, 52.133],
     coordinates: { lat: 52.133, lng: 27.0 },
     description: {
@@ -380,9 +369,8 @@ image: "/poi-images/belarus-mid-pripyat-reserve-life-v2.webp"
     id: "belarus-osveysky-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Landschaftsschutzgebiet Osweiski", hu: "Oszvejszkij Tájvédelmi Körzet", ro: "Rezervația Peisagistică Osveysky", en: "Osveysky Landscape Reserve",
-image: "/poi-images/belarus-osveysky-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Osweiski", hu: "Oszvejszkij Tájvédelmi Körzet", ro: "Rezervația Peisagistică Osveysky", en: "Osveysky Landscape Reserve"},
+    image: "/poi-images/belarus-osveysky-reserve-life-v2.webp",
     coords: [28.116, 56.033],
     coordinates: { lat: 56.033, lng: 28.116 },
     description: {
@@ -414,9 +402,8 @@ image: "/poi-images/belarus-osveysky-reserve-life-v2.webp"
     id: "belarus-vygonoshchanskoye-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Landschaftsschutzgebiet Wygonoschtschanskoje", hu: "Vigonoscsanszkoje Tájvédelmi Körzet", ro: "Rezervația Peisagistică Vygonoshchanskoye", en: "Vygonoshchanskoye Landscape Reserve",
-image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Wygonoschtschanskoje", hu: "Vigonoscsanszkoje Tájvédelmi Körzet", ro: "Rezervația Peisagistică Vygonoshchanskoye", en: "Vygonoshchanskoye Landscape Reserve"},
+    image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp",
     coords: [25.833, 52.683],
     coordinates: { lat: 52.683, lng: 25.833 },
     description: {
@@ -448,9 +435,8 @@ image: "/poi-images/belarus-vygonoshchanskoye-reserve-life-v2.webp"
     id: "belarus-krasny-bor-reserve-life-v2",
     parent: "BY",
     type: "forest",
-    name: { de: "Landschaftsschutzgebiet Krasny Bor", hu: "Krasznij Bor Tájvédelmi Körzet", ro: "Rezervația Peisagistică Krasny Bor", en: "Krasny Bor Landscape Reserve",
-image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Krasny Bor", hu: "Krasznij Bor Tájvédelmi Körzet", ro: "Rezervația Peisagistică Krasny Bor", en: "Krasny Bor Landscape Reserve"},
+    image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp",
     coords: [28.533, 55.933],
     coordinates: { lat: 55.933, lng: 28.533 },
     description: {
@@ -482,9 +468,8 @@ image: "/poi-images/belarus-krasny-bor-reserve-life-v2.webp"
     id: "belarus-kozyansky-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Biologisches Reservat Kosjanski", hu: "Kozjanszkij Biológiai Rezervátum", ro: "Rezervația Biologică Kozyansky", en: "Kozyansky Biological Reserve",
-image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp"
-},
+    name: { de: "Biologisches Reservat Kosjanski", hu: "Kozjanszkij Biológiai Rezervátum", ro: "Rezervația Biologică Kozyansky", en: "Kozyansky Biological Reserve"},
+    image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp",
     coords: [29.233, 55.35],
     coordinates: { lat: 55.35, lng: 29.233 },
     description: {
@@ -516,9 +501,8 @@ image: "/poi-images/belarus-kozyansky-reserve-life-v2.webp"
     id: "belarus-lipichanskaya-pushcha-life-v2",
     parent: "BY",
     type: "forest",
-    name: { de: "Lipitschanskaja Puschtscha", hu: "Lipicsanszkaja Puscsa", ro: "Pădurea Lipichanskaya", en: "Lipichanskaya Pushcha",
-image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp"
-},
+    name: { de: "Lipitschanskaja Puschtscha", hu: "Lipicsanszkaja Puscsa", ro: "Pădurea Lipichanskaya", en: "Lipichanskaya Pushcha"},
+    image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp",
     coords: [24.666, 53.45],
     coordinates: { lat: 53.45, lng: 24.666 },
     description: {
@@ -550,9 +534,8 @@ image: "/poi-images/belarus-lipichanskaya-pushcha-life-v2.webp"
     id: "belarus-grodnenskaya-pushcha-life-v2",
     parent: "BY",
     type: "forest",
-    name: { de: "Grodnenskaja Puschtscha", hu: "Grodnyenszkaja Puscsa", ro: "Pădurea Grodno", en: "Grodnenskaya Pushcha",
-image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp"
-},
+    name: { de: "Grodnenskaja Puschtscha", hu: "Grodnyenszkaja Puscsa", ro: "Pădurea Grodno", en: "Grodnenskaya Pushcha"},
+    image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp",
     coords: [23.75, 53.75],
     coordinates: { lat: 53.75, lng: 23.75 },
     description: {
@@ -584,9 +567,8 @@ image: "/poi-images/belarus-grodnenskaya-pushcha-life-v2.webp"
     id: "belarus-minsk-botanical-garden-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Zentraler Botanischer Garten Minsk", hu: "Minszki Központi Botanikus Kert", ro: "Grădina Botanică Centrală din Minsk", en: "Central Botanical Garden of Minsk",
-image: "/poi-images/belarus-minsk-botanical-garden-life-v2.webp"
-},
+    name: { de: "Zentraler Botanischer Garten Minsk", hu: "Minszki Központi Botanikus Kert", ro: "Grădina Botanică Centrală din Minsk", en: "Central Botanical Garden of Minsk"},
+    image: "/poi-images/belarus-minsk-botanical-garden-life-v2.webp",
     coords: [27.6, 53.916],
     coordinates: { lat: 53.916, lng: 27.6 },
     description: {
@@ -619,9 +601,8 @@ image: "/poi-images/belarus-minsk-botanical-garden-life-v2.webp"
     id: "belarus-minsk-zoo-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Minsker Zoo", hu: "Minszki Állatkert", ro: "Grădina Zoologică din Minsk", en: "Minsk Zoo",
-image: "/poi-images/belarus-minsk-zoo-life-v2.webp"
-},
+    name: { de: "Minsker Zoo", hu: "Minszki Állatkert", ro: "Grădina Zoologică din Minsk", en: "Minsk Zoo"},
+    image: "/poi-images/belarus-minsk-zoo-life-v2.webp",
     coords: [27.633, 53.85],
     coordinates: { lat: 53.85, lng: 27.633 },
     description: {
@@ -653,9 +634,8 @@ image: "/poi-images/belarus-minsk-zoo-life-v2.webp"
     id: "belarus-grodno-zoo-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Grodnoer Zoo", hu: "Grodnói Állatkert", ro: "Grădina Zoologică din Grodno", en: "Grodno Zoo",
-image: "/poi-images/belarus-grodno-zoo-life-v2.webp"
-},
+    name: { de: "Grodnoer Zoo", hu: "Grodnói Állatkert", ro: "Grădina Zoologică din Grodno", en: "Grodno Zoo"},
+    image: "/poi-images/belarus-grodno-zoo-life-v2.webp",
     coords: [23.833, 53.683],
     coordinates: { lat: 53.683, lng: 23.833 },
     description: {
@@ -688,9 +668,8 @@ image: "/poi-images/belarus-grodno-zoo-life-v2.webp"
     id: "belarus-vitebsk-zoo-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Witebsker Zoo", hu: "Vitebszki Állatkert", ro: "Grădina Zoologică din Vitebsk", en: "Vitebsk Zoo",
-image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp"
-},
+    name: { de: "Witebsker Zoo", hu: "Vitebszki Állatkert", ro: "Grădina Zoologică din Vitebsk", en: "Vitebsk Zoo"},
+    image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp",
     coords: [30.2, 55.183],
     coordinates: { lat: 55.183, lng: 30.2 },
     description: {
@@ -722,9 +701,8 @@ image: "/poi-images/belarus-vitebsk-zoo-life-v2.webp"
     id: "belarus-vitebsk-botanical-garden-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Botanischer Garten der Universität Witebsk", hu: "Vitebszki Egyetemi Botanikus Kert", ro: "Grădina Botanică a Universității din Vitebsk", en: "Botanical Garden of Vitebsk State University",
-image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten der Universität Witebsk", hu: "Vitebszki Egyetemi Botanikus Kert", ro: "Grădina Botanică a Universității din Vitebsk", en: "Botanical Garden of Vitebsk State University"},
+    image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp",
     coords: [30.216, 55.166],
     coordinates: { lat: 55.166, lng: 30.216 },
     description: {
@@ -756,9 +734,8 @@ image: "/poi-images/belarus-vitebsk-botanical-garden-life-v2.webp"
     id: "belarus-mogilev-zoo-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Mogiljower Zoo-Garten", hu: "Mogiljovi Állatkert", ro: "Grădina Zoologică din Mogilev", en: "Mogilev Zoo-Garden",
-image: "/poi-images/belarus-mogilev-zoo-life-v2.webp"
-},
+    name: { de: "Mogiljower Zoo-Garten", hu: "Mogiljovi Állatkert", ro: "Grădina Zoologică din Mogilev", en: "Mogilev Zoo-Garden"},
+    image: "/poi-images/belarus-mogilev-zoo-life-v2.webp",
     coords: [30.25, 53.916],
     coordinates: { lat: 53.916, lng: 30.25 },
     description: {
@@ -790,9 +767,8 @@ image: "/poi-images/belarus-mogilev-zoo-life-v2.webp"
     id: "belarus-loshitsa-park-life-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Loshiza-Park", hu: "Losicai Park", ro: "Parcul Loshitsa", en: "Loshitsa Park",
-image: "/poi-images/belarus-loshitsa-park-life-v2.webp"
-},
+    name: { de: "Loshiza-Park", hu: "Losicai Park", ro: "Parcul Loshitsa", en: "Loshitsa Park"},
+    image: "/poi-images/belarus-loshitsa-park-life-v2.webp",
     coords: [27.583, 53.85],
     coordinates: { lat: 53.85, lng: 27.583 },
     description: {
@@ -824,9 +800,8 @@ image: "/poi-images/belarus-loshitsa-park-life-v2.webp"
     id: "belarus-polessky-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Polesskij-Reservat", hu: "Polesszkij Állami Sugárökológiai Rezervátum", ro: "Rezervația Radioecologică de Stat Polessky", en: "Polessky State Radioecological Reserve",
-image: "/poi-images/belarus-polessky-reserve-life-v2.webp"
-},
+    name: { de: "Polesskij-Reservat", hu: "Polesszkij Állami Sugárökológiai Rezervátum", ro: "Rezervația Radioecologică de Stat Polessky", en: "Polessky State Radioecological Reserve"},
+    image: "/poi-images/belarus-polessky-reserve-life-v2.webp",
     coords: [29.95, 51.65],
     coordinates: { lat: 51.65, lng: 29.95 },
     description: {
@@ -858,9 +833,8 @@ image: "/poi-images/belarus-polessky-reserve-life-v2.webp"
     id: "belarus-kotra-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Landschaftsschutzgebiet Kotra", hu: "Kotra Tájvédelmi Körzet", ro: "Rezervația Peisagistică Kotra", en: "Kotra Landscape Reserve",
-image: "/poi-images/belarus-kotra-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Kotra", hu: "Kotra Tájvédelmi Körzet", ro: "Rezervația Peisagistică Kotra", en: "Kotra Landscape Reserve"},
+    image: "/poi-images/belarus-kotra-reserve-life-v2.webp",
     coords: [24.55, 53.966],
     coordinates: { lat: 53.966, lng: 24.55 },
     description: {
@@ -892,9 +866,8 @@ image: "/poi-images/belarus-kotra-reserve-life-v2.webp"
     id: "belarus-svisloch-berezina-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Reservat Swislotsch-Beresina", hu: "Szviszlocs-Berezina Rezervátum", ro: "Rezervația Svisloch-Berezina", en: "Svisloch-Berezina Reserve",
-image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"
-},
+    name: { de: "Reservat Swislotsch-Beresina", hu: "Szviszlocs-Berezina Rezervátum", ro: "Rezervația Svisloch-Berezina", en: "Svisloch-Berezina Reserve"},
+    image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp",
     coords: [28.983, 53.533],
     coordinates: { lat: 53.533, lng: 28.983 },
     description: {
@@ -915,7 +888,7 @@ image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"
       hu: "A köztársaság szívében, két fontos vízfolyás találkozásánál fekvő Szviszlocs-Berezina Biológiai Rezervátum kiemelkedő példája az érintetlen folyóárterek magas ökológiai értékének. Ezt a szárazföld és a víz közötti, rendkívül dinamikus átmeneti zónát a rendszeres tavaszi áradások formálják, amelyek ideiglenes tavak, nedves sásrétek és sűrű ártéri erdők kiterjedt hálózatát hozzák létre. A rezervátumot az ország egyik legértékesebb halívóhelyeként tartják számon, különösen a csuka és más őshonos édesvízi halak számára, amelyek ideális szaporodási feltételeket találnak a sekély, meleg vizekben. Emellett a változatos táj védett fészkelőhelyeket kínál a specializálódott ragadozó madaraknak, elsősorban a halászsasnak, valamint biztonságos élőhelyet nyújt a mocsári teknősnek a kiterjedt tündérrózsaszőnyegek közepette.",
       ro: "Rezervația biologică Svisloch-Berezina, situată la confluența a două artere importante de apă din inima republicii, este un exemplu remarcabil de mare valoare ecologică a luncilor riverane intacte. Această zonă de tranziție extrem de dinamică între uscat și apă este caracterizată de inundațiile regulate de primăvară, care creează o rețea vastă de lacuri temporare, pajiști umede de rogoz și păduri de luncă dense. Rezervația este considerată unul dintre cele mai valoroase locuri de depunere a icrelor din țară, în special pentru știucă și alți pești autohtoni de apă dulce, care găsesc condiții ideale de reproducere în apele puțin adânci și calde. În plus, peisajul variat oferă locuri de cuibărit protejate pentru păsările de pradă specializate, în special pentru vulturul pescar, precum și un habitat sigur pentru țestoasa de baltă europeană în mijlocul unor întinderi vaste de nuferi.",
       en: "The Svisloch-Berezina Biological Reserve, located at the confluence of two major waterways in the heart of the republic, is an outstanding example of the high ecological value of intact river floodplains. This extremely dynamic transition zone between land and water is characterized by regular spring floods, which create a vast network of temporary lakes, wet sedge meadows, and dense riparian forests. The reserve is considered one of the country's most valuable fish spawning grounds, especially for pike and other native freshwater fish, which find ideal reproductive conditions in the shallow, warm waters. Furthermore, the varied landscape offers protected nesting sites for specialized birds of prey, primarily the Osprey, as well as a safe habitat for the European pond turtle amidst extensive carpets of water lilies.",
-      en: "The Svisloch-Berezina Reserve is an ecological masterpiece of nature, located at the mighty confluence of the Svisloch and Berezina rivers. This dynamic river junction creates a complex labyrinth of quiet river branches, nutrient-rich floodplains, and dense reed beds, ranking among the most fertile wetlands in the entire country. In spring, the reserve transforms into one of the most important nurseries of the underwater world, as tens of thousands of fish—especially pike—find ideal spawning conditions here. Life also pulsates above the water's surface: the towering old trees along the banks provide the majestic Osprey with perfect nesting sites granting direct access to its abundant hunting grounds."
+//       en: "The Svisloch-Berezina Reserve is an ecological masterpiece of nature, located at the mighty confluence of the Svisloch and Berezina rivers. This dynamic river junction creates a complex labyrinth of quiet river branches, nutrient-rich floodplains, and dense reed beds, ranking among the most fertile wetlands in the entire country. In spring, the reserve transforms into one of the most important nurseries of the underwater world, as tens of thousands of fish—especially pike—find ideal spawning conditions here. Life also pulsates above the water's surface: the towering old trees along the banks provide the majestic Osprey with perfect nesting sites granting direct access to its abundant hunting grounds."
     },
     factsAdvanced: {
       de: ["Strategisch an der Mündung der Swislotsch in die Beresina gelegen", "Dient als entscheidender Laichgrund für zahlreiche heimische Süßwasserfische", "Wichtiger Nistplatz für den majestätischen, fischjagenden Fischadler", "Ausgedehnte Feuchtwiesen bieten Habitate für den extrem seltenen Wachtelkönig", "Die flachen Altgewässer sind von dichten Wasserlilienteppichen bedeckt", "Ein wichtiger Zufluchtsort für die bedrohte europäische Sumpfschildkröte"],
@@ -927,9 +900,8 @@ image: "/poi-images/belarus-svisloch-berezina-reserve-life-v2.webp"
     id: "belarus-sinsha-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Landschaftsschutzgebiet Sinscha", hu: "Szinsa Tájvédelmi Körzet", ro: "Rezervația Peisagistică Sinsha", en: "Sinsha Landscape Reserve",
-image: "/poi-images/belarus-sinsha-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsschutzgebiet Sinscha", hu: "Szinsa Tájvédelmi Körzet", ro: "Rezervația Peisagistică Sinsha", en: "Sinsha Landscape Reserve"},
+    image: "/poi-images/belarus-sinsha-reserve-life-v2.webp",
     coords: [29.166, 55.95],
     coordinates: { lat: 55.95, lng: 29.166 },
     description: {
@@ -961,9 +933,8 @@ image: "/poi-images/belarus-sinsha-reserve-life-v2.webp"
     id: "belarus-stary-zhaden-reserve-life-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Reservat Stary Schaden", hu: "Sztarij Zsaden Rezervátum", ro: "Rezervația Stary Zhaden", en: "Stary Zhaden Reserve",
-image: "/poi-images/belarus-stary-zhaden-reserve-life-v2.webp"
-},
+    name: { de: "Reservat Stary Schaden", hu: "Sztarij Zsaden Rezervátum", ro: "Rezervația Stary Zhaden", en: "Stary Zhaden Reserve"},
+    image: "/poi-images/belarus-stary-zhaden-reserve-life-v2.webp",
     coords: [27.466, 51.916],
     coordinates: { lat: 51.916, lng: 27.466 },
     description: {
@@ -991,5 +962,102 @@ image: "/poi-images/belarus-stary-zhaden-reserve-life-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "belarus-pripyatsky-floodplain-life-v2",
+    type: "wildlife",
+    parent: "BY",
+    name: { de: "Pripyat-Auenlandschaft", hu: "Pripjaty ártér", ro: "Zona inundabilă Pripiați", en: "Pripyat Floodplain" },
+    coordinates: { lat: 52.05, lng: 28.15 },
+    description: {
+      de: "Die Pripyat-Auen bilden ein weitläufiges Feuchtgebiet mit bedeutender biologischer Vielfalt. Das Gebiet dient als wichtiger Lebensraum für zahlreiche Zugvogelarten.",
+      hu: "A Pripjaty-ártér kiterjedt vizes élőhely, jelentős biológiai sokféleséggel. A terület számos vonuló madárfaj fontos élőhelyéül szolgál.",
+      ro: "Zona inundabilă Pripiați este o zonă umedă vastă cu o biodiversitate semnificativă. Regiunea servește drept habitat esențial pentru numeroase specii de păsări migratoare.",
+      en: "The Pripyat Floodplain is a vast wetland area with significant biodiversity. The region serves as an essential habitat for numerous migratory bird species.",
+    },
+    facts: {
+      de: ["Jährliche Überschwemmungen prägen die Region", "Heimat für den gefährdeten Seggenrohrsänger", "Zahlreiche Oxbow-Seen im Flussverlauf", "Schutzstatus als internationales Feuchtgebiet"],
+      hu: ["Éves áradások formálják a régiót", "A veszélyeztetett csíkos nádiposzáta otthona", "Számos holtág a folyó mentén", "Nemzetközi jelentőségű vizes élőhely"],
+      ro: ["Inundațiile anuale modelează regiunea", "Habitat pentru lăcarul de rogoz", "Numeroase lacuri de tip braț mort de-a lungul râului", "Arie protejată de importanță internațională"],
+      en: ["Annual flooding shapes the region", "Home to the endangered aquatic warbler", "Numerous oxbow lakes along the river", "International wetland protection status"],
+    },
+    imageHint: "Pripyat river floodplain wetlands aerial view",
+    descriptionAdvanced: {
+      de: "Die Pripyat-Aue, oft als Amazonas Europas bezeichnet, umfasst ein riesiges Netzwerk aus Altwassern und Sümpfen. Diese unberührte Wildnis ist für den Vogelschutz von globaler Bedeutung.",
+      hu: "A Poleszjei-alföld szívében fekvő terület az európai vándormadarak egyik legfontosabb megállóhelye. A tavaszi áradások idején a táj hatalmas, összefüggő vízi világgá alakul át.",
+      ro: "Lunca râului Pripyat reprezintă unul dintre cele mai mari complexe de mlaștini neatinse din Europa. Zona este vitală pentru conservarea biodiversității și a speciilor acvatice rare.",
+      en: "This vast lowland region features a unique network of oxbow lakes and marshes. It serves as a critical breeding ground for globally threatened species and maintains a natural water cycle.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von über 190.000 Hektar Land", "Über 250 verschiedene Vogelarten nachgewiesen", "Heimat von rund 800 Gefäßpflanzenarten", "Nationalpark-Status seit dem Jahr 1996", "Der Fluss Pripyat ist etwa 500 km lang", "Vorkommen von 45 einheimischen Fischarten"],
+      hu: ["A mocsárvidék kiterjedése 1900 négyzetkilométer", "Több mint 250 fészkelő és vonuló madárfaj", "826 edényes növényfajt vettek nyilvántartásba", "1996 óta nemzeti parki védettséget élvez", "A Pripyat folyó hossza Fehéroroszországban 500 km", "45 halfaj népesíti be a kiterjedt vízrendszert"],
+      ro: ["Suprafața protejată depășește 190.000 hectare", "Adăpostește peste 250 de specii de păsări", "Include peste 800 de tipuri de plante vasculare", "Statut de parc național acordat în anul 1996", "Râul Pripyat are o lungime totală de 775 km", "Identificate 45 de specii de pești în regiune"],
+      en: ["Covers an area exceeding 190,000 hectares", "Home to more than 250 distinct bird species", "Hosts 826 species of vascular plants total", "Established as a national park in 1996", "Pripyat river flows 500 km through Belarus", "Supports 45 native fish species in its waters"],
+    },
+  },
+  {
+    id: "belarus-skryhalev-reserve-life-v2",
+    type: "wildlife",
+    parent: "BY",
+    name: { de: "Skryhalew-Reservat", hu: "Szkrihalevi rezervátum", ro: "Rezervația Skryhalev", en: "Skryhalev Reserve" },
+    coordinates: { lat: 52.08, lng: 28.82 },
+    description: {
+      de: "Das Skryhalew-Reservat ist ein geschütztes Waldgebiet in der Region Gomel. Es bewahrt natürliche Waldökosysteme und bietet Schutz für lokale Säugetierpopulationen.",
+      hu: "A Szkrihalevi rezervátum egy védett erdőterület a Gomeli régióban. Megőrzi a természetes erdei ökoszisztémákat és védelmet nyújt a helyi emlősállománynak.",
+      ro: "Rezervația Skryhalev este o zonă forestieră protejată din regiunea Gomel. Aceasta conservă ecosistemele forestiere naturale și oferă protecție populațiilor locale de mamifere.",
+      en: "Skryhalev Reserve is a protected forest area in the Gomel region. It preserves natural forest ecosystems and provides protection for local mammal populations.",
+    },
+    facts: {
+      de: ["Überwiegend aus Kiefern- und Eichenbeständen", "Regelmäßige ökologische Bestandsaufnahmen", "Wichtiges Refugium für Wildschweine", "Begrenzte touristische Infrastruktur"],
+      hu: ["Többségében fenyő- és tölgyesek alkotják", "Rendszeres ökológiai felmérések", "Fontos menedék a vaddisznók számára", "Korlátozott turisztikai infrastruktúra"],
+      ro: ["Compusă în principal din păduri de pin și stejar", "Monitorizări ecologice periodice", "Refugiu important pentru mistreți", "Infrastructură turistică limitată"],
+      en: ["Predominantly pine and oak forests", "Regular ecological assessments", "Important refuge for wild boars", "Limited tourist infrastructure"],
+    },
+    imageHint: "Dense forest landscape in Belarus",
+    descriptionAdvanced: {
+      de: "Dieses Schutzgebiet im Homel-Oblast bewahrt seltene Erlenbruchwälder und Übergangsmoore. Es dient als Rückzugsort für gefährdete Orchideen und spezialisierte Sumpfbewohner Osteuropas.",
+      hu: "A Homel régióban található rezervátum az érintetlen mocsári erdőtársulások megőrzésére fókuszál. Különleges flórája számos ritka, jégkorszaki maradványfajnak ad otthont a mai napig.",
+      ro: "Rezervația Skryhalev protejează ecosisteme forestiere și de mlaștină unice în sud-estul Belarusului. Este un sit crucial pentru cercetarea ecologică a biotopurilor de tranziție fragile.",
+      en: "Established to preserve the fragile balance of Belarusian swamp forests, this reserve hosts diverse botanical rarities. It is a key site for studying undisturbed wetland succession patterns.",
+    },
+    factsAdvanced: {
+      de: ["Gründung des Reservats im Jahr 1999", "Schützt etwa 10.000 Hektar Feuchtgebiete", "Vorkommen von 15 verschiedenen Orchideenarten", "Wichtiger Lebensraum für den Schwarzstorch", "Torfschichten erreichen bis zu 4 Meter Tiefe", "Über 70 registrierte Brutvogelarten im Gebiet"],
+      hu: ["A rezervátumot 1999-ben hozták létre", "Területe megközelíti a 10.000 hektárt", "15 különféle kosborfaj található a lápréteken", "A fekete gólya egyik fontos fészkelőhelye", "A tőzegréteg vastagsága helyenként 4 méter", "Több mint 70 madárfaj fészkel a területen"],
+      ro: ["Rezervația a fost înființată în anul 1999", "Acoperă o suprafață de circa 10.000 hectare", "Adăpostește 15 specii rare de orhidee sălbatice", "Habitat esențial pentru barza neagră protejată", "Grosimea stratului de turbă atinge 4 metri", "Peste 70 de specii de păsări cuibăresc aici"],
+      en: ["The reserve was officially founded in 1999", "Protects approximately 10,000 hectares of land", "Contains 15 different species of wild orchids", "Crucial nesting site for the rare Black Stork", "Peat layers reach depths of up to 4 meters", "Over 70 bird species recorded breeding here"],
+    },
+  },
+  {
+    id: "belarus-dnieper-sozh-wetlands-life-v2",
+    type: "wildlife",
+    parent: "BY",
+    name: { de: "Dnjepr-Sosch-Feuchtgebiete", hu: "Dnyeper-Szozs vizes élőhelyek", ro: "Zonele umede Nipru-Sozh", en: "Dnieper-Sozh Wetlands" },
+    coordinates: { lat: 52.35, lng: 31.05 },
+    description: {
+      de: "Im Mündungsbereich des Sosch in den Dnjepr erstrecken sich ausgedehnte Feuchtgebiete. Diese Flusslandschaft unterstützt eine hohe Vielfalt an aquatischen Lebensformen.",
+      hu: "A Szozs és a Dnyeper találkozásánál kiterjedt vizes élőhelyek találhatók. Ez a folyami táj nagyfokú vízi biodiverzitást támogat.",
+      ro: "La confluența râului Sozh cu Niprul se întind zone umede vaste. Acest peisaj fluvial susține o biodiversitate ridicată a formelor de viață acvatice.",
+      en: "Extensive wetlands are located at the confluence of the Sozh and Dnieper rivers. This river landscape supports high biodiversity of aquatic life forms.",
+    },
+    facts: {
+      de: ["Wichtige Laichplätze für Flussfische", "Überwinterungsgebiet für Wasservögel", "Sandige Ufer und Auenwälder", "Starke saisonale Pegelschwankungen"],
+      hu: ["Fontos ívóhelyek a folyami halaknak", "Telelőhely a vízi madarak számára", "Homokos partok és ártéri erdők", "Jelentős szezonális vízszintingadozás"],
+      ro: ["Zone importante de reproducere pentru peștii fluviali", "Loc de iernat pentru păsările acvatice", "Maluri nisipoase și păduri aluviale", "Variații sezoniere mari ale nivelului apei"],
+      en: ["Important spawning grounds for river fish", "Overwintering area for waterfowl", "Sandy banks and floodplain forests", "Strong seasonal water level fluctuations"],
+    },
+    imageHint: "Dnieper river bank landscape",
+    descriptionAdvanced: {
+      de: "Dieses Ramsar-Gebiet am Zusammenfluss zweier Ströme umfasst weite Auenlandschaften. Es ist ein bedeutender Laichplatz für Fische und ein wichtiger Rastplatz für zehntausende Wasservögel.",
+      hu: "A Dnyeper és a Szozs folyók találkozásánál fekvő terület gazdag ártéri növényzettel bír. A vidék kulcsfontosságú a ritka tokfélék és más folyami halak szaporodása szempontjából.",
+      ro: "Situate la confluența a două fluvii majore, aceste zone umede sunt protejate internațional. Peisajul este definit de lacuri temporare, pajiști inundabile și păduri de luncă fertile.",
+      en: "This transboundary wetland complex facilitates the migration of numerous bird species across Eurasia. The area is characterized by a high concentration of rare aquatic plants and insects.",
+    },
+    factsAdvanced: {
+      de: ["Ramsar-Gebiet seit dem Jahr 2005", "Umfasst rund 14.000 Hektar Auenland", "Schutz von 22 seltenen Pflanzenarten", "Vorkommen von 140 verschiedenen Vogelarten", "Lebensraum für 18 bedrohte Fischarten", "Der Fluss Sozh ist insgesamt 648 km lang"],
+      hu: ["2005-ben kapott Ramsari terület besorolást", "Területe körülbelül 14.000 hektárt tesz ki", "22 ritka növényfaj él az ártéri réteken", "140 madárfaj fordul elő a vizes élőhelyen", "18 veszélyeztetett halfajnak ad otthont", "A Szozs folyó teljes hossza 648 kilométer"],
+      ro: ["Desemnat sit Ramsar în cursul anului 2005", "Suprafața totală este de circa 14.000 hectare", "Protejează 22 de specii de plante periclitate", "Înregistrate 140 de specii de păsări diverse", "Habitat pentru 18 specii de pești de râu", "Râul Sozh măsoară o lungime de 648 km"],
+      en: ["Designated as a Ramsar site in 2005", "Spans roughly 14,000 hectares of floodplain", "Protects 22 rare and endangered plant species", "Hosts 140 different species of local birds", "Provides habitat for 18 threatened fish species", "The Sozh river has a total length of 648 km"],
+    },
   }
 ];

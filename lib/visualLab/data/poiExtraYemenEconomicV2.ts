@@ -6,268 +6,467 @@ export const poiExtraYemenEconomicV2: POI[] = [
     type: "port",
     parent: "YE-AD",
     coords: [44.97, 12.79],
-    name: { de: "Hafen von Aden", hu: "Ádeni kikötő", ro: "Portul Aden", en: "Port of Aden",
-image: "/poi-images/aden-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Aden", hu: "Ádeni kikötő", ro: "Portul Aden", en: "Port of Aden"},
+    image: "/poi-images/aden-port-economic-v2.webp",
     description: { de: "Einer der wichtigsten natürlichen Tiefseehäfen der Welt, gelegen an den globalen Schifffahrtsrouten.", hu: "A világ egyik legfontosabb természetes mélyvízi kikötője, amely a globális hajózási útvonalakon fekszik.", ro: "Unul dintre cele mai importante porturi naturale de mare adâncime din lume, situat pe rutele maritime globale.", en: "One of the most important natural deep-water ports in the world, located on global shipping routes." },
     facts: {
       de: ["Strategische Lage am Roten Meer", "Historisches Handelszentrum"],
       hu: ["Stratégiai elhelyezkedés a Vörös-tengernél", "Történelmi kereskedelmi központ"],
       ro: ["Locație strategică la Marea Roșie", "Centru istoric de comerț"],
       en: ["Strategic location by the Red Sea", "Historical trade center"]
-    }, image: "/poi-images/aden-port-economic-v2.webp"},
+    }, image: "/poi-images/aden-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Aden liegt im Südwesten des Jemen an der strategisch wichtigen Meerenge Bab al-Mandab. Er ist einer der größten natürlichen Häfen der Arabischen Halbinsel und besteht aus mehreren Becken, darunter der alte Hafen und der moderne Containerterminal. Der Hafen wurde bereits in der Antike genutzt und erlebte im 19. Jahrhundert unter britischer Kolonialherrschaft einen Aufschwung. Heute dient er vor allem dem Umschlag von Rohöl, Containern und Massengütern. Die durchschnittliche Wassertiefe beträgt 15 Meter, was auch großen Schiffen die Anlage ermöglicht. Der Hafen ist ein wichtiger Wirtschaftsfaktor für den Jemen, obwohl der Betrieb durch den Bürgerkrieg beeinträchtigt ist.",
+      hu: "Aden kikötője Jemen legfontosabb tengeri kapuja, stratégiai fekvéssel a Vörös-tenger és az Arab-tenger találkozásánál. A természetes mélyvízi kikötő több medencéből áll, amelyek közül a legnagyobb a Maalla-medence. A kikötő története az ókorig nyúlik vissza, de modern kora a 19. században kezdődött a brit gyarmati uralom alatt. Fő áruforgalmát a kőolaj, a konténerek és az ömlesztett áruk teszik ki. A kikötő éves kapacitása több millió tonna. A jelenlegi polgárháborús helyzet jelentősen csökkentette a forgalmat.",
+      ro: "Portul Aden este situat în sud-vestul Yemenului, la gura Mării Roșii, fiind unul dintre cele mai mari porturi naturale din Peninsula Arabică. Are o adâncime medie de 15 metri și include terminale pentru petrol, containere și mărfuri generale. Istoria sa datează din antichitate, iar dezvoltarea modernă a început în secolul 19 sub ocupația britanică. Portul este vital pentru economia Yemenului, dar conflictul civil a redus drastic traficul. În 2023, volumul de marfă a fost de doar 1,5 milioane de tone.",
+      en: "The Port of Aden is a major natural deep-water harbor in southwestern Yemen, strategically located near the Bab al-Mandab strait. It has a water depth averaging 15 meters and comprises several basins including the Maalla container terminal. Historically significant since ancient times, it thrived under British rule in the 19th century. The port handles crude oil, containers, and bulk cargo, with an annual capacity of several million tons. However, the ongoing civil war has severely disrupted operations, reducing throughput to about 1.5 million tons in 2023.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 15 m", "Jahreskapazität: mehrere Millionen Tonnen", "Containerterminal: Maalla", "Geschichte: antike Nutzung", "Ölumschlag: Rohöl", "2023 Durchsatz: 1,5 Mio. t"],
+      hu: ["Vízmélység: 15 m", "Éves kapacitás: több millió tonna", "Konténerterminál: Maalla", "Történelem: ókori használat", "Olajforgalom: nyersolaj", "2023-as forgalom: 1,5 millió tonna"],
+      ro: ["Adâncime: 15 m", "Capacitate anuală: milioane de tone", "Terminal containere: Maalla", "Istorie: utilizare antică", "Marfă petrolieră: țiței", "Trafic 2023: 1,5 milioane tone"],
+      en: ["Water depth: 15 m", "Annual capacity: several million tons", "Container terminal: Maalla", "History: ancient usage", "Oil products: crude oil", "2023 throughput: 1.5 million tons"],
+    },
+  },
   {
     id: "hodeidah-port-economic-v2",
     type: "port",
     parent: "YE-HU",
     coords: [42.93, 14.83],
-    name: { de: "Hafen von Al-Hudaida", hu: "Al-Hudajda kikötője", ro: "Portul Al Hudaydah", en: "Port of Hodeidah",
-image: "/poi-images/hodeidah-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Al-Hudaida", hu: "Al-Hudajda kikötője", ro: "Portul Al Hudaydah", en: "Port of Hodeidah"},
+    image: "/poi-images/hodeidah-port-economic-v2.webp",
     description: { de: "Der wichtigste Hafen am Roten Meer im Jemen, entscheidend für Lebensmittelimporte.", hu: "Jemen legfontosabb vörös-tengeri kikötője, amely létfontosságú az élelmiszer-import szempontjából.", ro: "Principalul port la Marea Roșie din Yemen, crucial pentru importurile de alimente.", en: "Yemen's main port on the Red Sea, crucial for food imports." },
     facts: {
       de: ["Wichtigstes Importzentrum des Jemen", "Befindet sich am Roten Meer"],
       hu: ["Jemen legfőbb importközpontja", "A Vörös-tenger partján fekszik"],
       ro: ["Principalul centru de import al Yemenului", "Situat la Marea Roșie"],
       en: ["Yemen's main import center", "Located on the Red Sea"]
-    }, image: "/poi-images/hodeidah-port-economic-v2.webp"},
+    }, image: "/poi-images/hodeidah-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Hodeidah liegt an der jemenitischen Küste des Roten Meeres und ist der wichtigste Hafen für den Norden des Landes. Er wurde in den 1960er Jahren mit sowjetischer Hilfe ausgebaut und verfügt über einen Containerterminal, einen Ölhafen und Anlagen für Massengüter. Der Hafen ist stark durch den Bürgerkrieg beeinträchtigt, da die militärische Kontrolle häufig wechselt. Die durchschnittliche Wassertiefe beträgt 12 Meter. Vor dem Krieg hatte der Hafen einen Jahresumschlag von über 3 Millionen Tonnen. Er ist entscheidend für die humanitäre Hilfe im Jemen.",
+      hu: "Hodeidah kikötője Jemen második legnagyobb tengeri kikötője, amely a Vörös-tenger partján fekszik. A kikötőt a Szovjetunió segítségével építették az 1960-as években. Fő létesítményei közé tartozik a konténerterminál, az olajkikötő és a gabonaterminál. A kikötő vízmélysége 12 méter, így közepes méretű hajók is használhatják. A polgárháború súlyosan érintette a kikötőt, 2018-ban hónapokig zárva volt. A forgalom 2022-ben kevesebb mint 1 millió tonna volt. A kikötő létfontosságú a humanitárius segélyek szállításához.",
+      ro: "Portul Hodeidah este situat pe coasta Mării Roșii, în vestul Yemenului, fiind principalul port pentru nordul țării. A fost construit în anii 1960 cu ajutor sovietic și include terminale pentru containere, petrol și cereale. Adâncimea apei este de 12 metri. Războiul civil a afectat grav portul, cu perioade de închidere totală. În 2022, traficul a fost sub 1 milion de tone. Portul este vital pentru importurile de alimente și ajutor umanitar.",
+      en: "The Port of Hodeidah is a key maritime facility on Yemen's Red Sea coast, built in the 1960s with Soviet assistance. It has a water depth of 12 meters and serves as a hub for container, oil, and grain shipments. The port has suffered significantly during the civil war, with intermittent closures. Before the conflict, annual throughput exceeded 3 million tons. In 2022, it handled less than 1 million tons. It remains crucial for humanitarian aid delivery to northern Yemen.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 12 m", "Baujahr: 1960er mit sowjetischer Hilfe", "Jahresumschlag vor Krieg: über 3 Mio. t", "2022 Durchsatz: <1 Mio. t", "Einrichtungen: Container, Öl, Getreide", "Schließung: 2018 für Monate"],
+      hu: ["Vízmélység: 12 m", "Építés éve: 1960-as évek (szovjet segítséggel)", "Háború előtti forgalom: >3 millió tonna/év", "2022-es forgalom: <1 millió tonna", "Létesítmények: konténer, olaj, gabona", "Zárvatartás: 2018-ban hónapokig"],
+      ro: ["Adâncime: 12 m", "An construcție: 1960 (cu ajutor sovietic)", "Trafic pre-război: peste 3 mil. tone/an", "Trafic 2022: sub 1 mil. tone", "Instalații: containere, petrol, cereale", "Închidere: 2018, luni întregi"],
+      en: ["Water depth: 12 m", "Year built: 1960s (Soviet-assisted)", "Pre-war throughput: over 3 million tons/year", "2022 throughput: under 1 million tons", "Facilities: container, oil, grain", "Closure: 2018 for months"],
+    },
+  },
   {
     id: "mukalla-port-economic-v2",
     type: "port",
     parent: "YE-HD",
     coords: [49.15, 14.53],
-    name: { de: "Hafen von Mukalla", hu: "Mukalla kikötője", ro: "Portul Mukalla", en: "Port of Mukalla",
-image: "/poi-images/mukalla-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Mukalla", hu: "Mukalla kikötője", ro: "Portul Mukalla", en: "Port of Mukalla"},
+    image: "/poi-images/mukalla-port-economic-v2.webp",
     description: { de: "Ein bedeutender Seehafen in der Region Hadramaut, der dem Fischfang und dem regionalen Handel dient.", hu: "Jelentős tengeri kikötő a Hadramaut régióban, amely a halászatot és a regionális kereskedelmet szolgálja.", ro: "Un port maritim major în regiunea Hadhramaut, deservind pescuitul și comerțul regional.", en: "Mukalla Port is a major maritime gateway in Yemen, situated on the Arabian Sea. It plays a crucial role in regional trade and imports." },
     facts: {
       de: ["Zentrum für Fischerei", "Wichtig für Hadramaut"],
       hu: ["Halászati központ", "Fontos Hadramaut számára"],
       ro: ["Centru de pescuit", "Important pentru Hadhramaut"],
       en: ["Major Yemeni port", "On the Arabian Sea", "Key for regional trade", "Handles imports"]
-    }, image: "/poi-images/mukalla-port-economic-v2.webp"},
+    }, image: "/poi-images/mukalla-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Mukalla liegt an der Südküste des Jemen, im Gouvernement Hadramaut. Er ist ein natürlicher Hafen, der vor allem für den Export von Fisch und landwirtschaftlichen Produkten genutzt wird. Der Hafen wurde in den 1980er Jahren modernisiert und verfügt über einen Fischereihafen, einen Handelshafen und einen kleinen Containerterminal. Die Wassertiefe beträgt 10 Meter. Der Hafen ist auch für die Ölindustrie von Bedeutung, da er als Umschlagplatz für Erdölprodukte dient. Der Betrieb ist durch den Bürgerkrieg eingeschränkt, aber immer noch aktiv.",
+      hu: "Mukalla kikötője Jemen délkeleti részén, a Hadramaut régióban található. A természetes kikötőt halászati és kereskedelmi célokra használják. Az 1980-as években korszerűsítették, és jelenleg halászkikötőből, kereskedelmi kikötőből és egy kis konténerterminálból áll. A vízmélység 10 méter. A kikötő fontos szerepet játszik a régió gazdaságában, különösen a halexportban. A polgárháború ellenére a kikötő működik, bár forgalma visszaesett. 2022-ben mintegy 500 000 tonna árut kezeltek.",
+      ro: "Portul Mukalla se află pe coasta de sud a Yemenului, în regiunea Hadramaut. Este un port natural utilizat pentru pescuit și comerț. Modernizat în anii 1980, include un port de pescuit, un port comercial și un mic terminal de containere. Adâncimea apei este de 10 metri. Portul este important pentru exportul de pește și produse agricole. În ciuda războiului, portul a rămas operațional, gestionând aproximativ 500.000 de tone de marfă în 2022.",
+      en: "The Port of Mukalla is a natural harbor on Yemen's southeastern coast in the Hadramaut region. It was modernized in the 1980s and comprises a fishing port, a commercial port, and a small container terminal. With a water depth of 10 meters, it handles fish exports, agricultural products, and some oil products. Despite the civil war, the port has remained operational, processing around 500,000 tons of cargo in 2022. It plays a vital role in the local economy of Hadramaut.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 10 m", "Modernisierung: 1980er Jahre", "Hauptgüter: Fisch, Agrarprodukte", "2022 Durchsatz: ca. 500.000 t", "Einrichtungen: Fisch-, Handels- und Containerhafen", "Lage: Gouvernement Hadramaut"],
+      hu: ["Vízmélység: 10 m", "Korszerűsítés: 1980-as évek", "Fő áruk: hal, mezőgazdasági termékek", "2022-es forgalom: kb. 500 000 tonna", "Létesítmények: halászati, kereskedelmi, konténer", "Elhelyezkedés: Hadramaut régió"],
+      ro: ["Adâncime: 10 m", "Modernizare: anii 1980", "Mărfuri principale: pește, produse agricole", "Trafic 2022: aprox. 500.000 tone", "Instalații: pescuit, comercial, containere", "Locație: regiunea Hadramaut"],
+      en: ["Water depth: 10 m", "Modernization: 1980s", "Main goods: fish, agricultural products", "2022 throughput: approx. 500,000 tons", "Facilities: fishing, commercial, container", "Location: Hadramaut region"],
+    },
+  },
   {
     id: "balhaf-lng-terminal-economic-v2",
     type: "energy",
     parent: "YE-SH",
     coords: [48.18, 13.98],
-    name: { de: "LNG-Terminal Balhaf", hu: "Balhaf LNG-terminál", ro: "Terminalul GNL Balhaf", en: "Balhaf LNG Terminal",
-image: "/poi-images/balhaf-lng-terminal-economic-v2.webp"
-},
+    name: { de: "LNG-Terminal Balhaf", hu: "Balhaf LNG-terminál", ro: "Terminalul GNL Balhaf", en: "Balhaf LNG Terminal"},
+    image: "/poi-images/balhaf-lng-terminal-economic-v2.webp",
     description: { de: "Die größte Industrieanlage des Landes, die für den Export von Flüssigerdgas gebaut wurde.", hu: "Az ország legnagyobb ipari létesítménye, amelyet cseppfolyósított földgáz exportjára építettek.", ro: "Cea mai mare instalație industrială din țară, construită pentru exportul de gaze naturale lichefiate.", en: "The country's largest industrial facility, built for the export of liquefied natural gas." },
     facts: {
       de: ["Größte Investition im Jemen", "Exportiert Erdgas"],
       hu: ["A legnagyobb jemeni beruházás", "Földgázt exportál"],
       ro: ["Cea mai mare investiție din Yemen", "Exportă gaze naturale"],
       en: ["Largest investment in Yemen", "Exports natural gas"]
-    }, image: "/poi-images/balhaf-lng-terminal-economic-v2.webp"},
+    }, image: "/poi-images/balhaf-lng-terminal-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Balhaf LNG-Terminal ist eine Anlage zur Verflüssigung von Erdgas an der Südküste des Jemen, etwa 150 km östlich von Aden. Es wurde 2009 in Betrieb genommen und ist eines der größten Industrievorhaben des Landes. Die Anlage verarbeitet Erdgas aus den Feldern von Marib und produziert jährlich bis zu 6,7 Millionen Tonnen LNG. Das Terminal ist mit einem Tiefwasserhafen verbunden, der Tanker mit einem Tiefgang von bis zu 15 Metern aufnehmen kann. Der Betrieb wurde aufgrund des Bürgerkriegs mehrfach unterbrochen, zuletzt 2015. Die Anlage ist strategisch wichtig für die Gaswirtschaft.",
+      hu: "A Balhaf LNG-terminál Jemen egyik legfontosabb ipari létesítménye, amely 2009-ben kezdte meg működését. A terminál a Marib régió földgázmezőiről származó gázt cseppfolyósítja, éves kapacitása 6,7 millió tonna LNG. A terminálhoz tartozik egy mélyvízi kikötő, amely nagy LNG-tankerek fogadására alkalmas. A polgárháború miatt a terminál 2015 óta nem működik, ami jelentős bevételkiesést okozott az országnak. A létesítmény építési költsége mintegy 4 milliárd dollár volt.",
+      ro: "Terminalul LNG Balhaf este o instalație de liquefiere a gazelor naturale situată pe coasta de sud a Yemenului, la 150 km est de Aden. A intrat în funcțiune în 2009 și are o capacitate anuală de 6,7 milioane de tone de LNG. Terminalul este conectat la un port de adâncime care poate primi nave cu pescaj de până la 15 metri. Construcția a costat aproximativ 4 miliarde de dolari. Din cauza războiului, instalația este inactivă din 2015, afectând grav economia Yemenului.",
+      en: "The Balhaf LNG Terminal is a liquefied natural gas facility on Yemen's southern coast, 150 km east of Aden. Commissioned in 2009, it has an annual capacity of 6.7 million tons of LNG. The terminal processes gas from the Marib fields and includes a deep-water port capable of handling tankers with a draft up to 15 meters. Construction cost was approximately $4 billion. Since 2015, the terminal has been non-operational due to the civil war, resulting in significant revenue losses for Yemen.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2009", "Jahreskapazität: 6,7 Mio. t LNG", "Investitionskosten: 4 Mrd. USD", "Tiefwasserhafen: Tiefgang bis 15 m", "Stillstand: seit 2015", "Gasquelle: Marib-Erdgasfelder"],
+      hu: ["Üzembe helyezés: 2009", "Éves kapacitás: 6,7 millió tonna LNG", "Beruházási költség: 4 milliárd USD", "Mélyvízi kikötő: merülés 15 m-ig", "Leállás: 2015 óta", "Gázforrás: Marib mezők"],
+      ro: ["An punere în funcțiune: 2009", "Capacitate anuală: 6,7 mil. tone LNG", "Cost construcție: 4 miliarde USD", "Port de adâncime: pescaj până la 15 m", "Inactiv: din 2015", "Sursa gazului: câmpurile Marib"],
+      en: ["Commissioning year: 2009", "Annual capacity: 6.7 million tons LNG", "Construction cost: $4 billion", "Deep-water port: draft up to 15 m", "Shutdown: since 2015", "Gas source: Marib gas fields"],
+    },
+  },
   {
     id: "marib-refinery-economic-v2",
     type: "industry",
     parent: "YE-MA",
     coords: [45.33, 15.47],
-    name: { de: "Raffinerie Marib", hu: "Máribi olajfinomító", ro: "Rafinăria Marib", en: "Marib Refinery",
-image: "/poi-images/marib-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Marib", hu: "Máribi olajfinomító", ro: "Rafinăria Marib", en: "Marib Refinery"},
+    image: "/poi-images/marib-refinery-economic-v2.webp",
     description: { de: "Eine inländische Erdölraffinerie, die Rohöl aus den nahegelegenen Ölfeldern von Marib verarbeitet.", hu: "Belföldi olajfinomító, amely a közeli máribi olajmezőkről származó nyersolajat dolgozza fel.", ro: "O rafinărie de petrol internă care procesează țiței din câmpurile petroliere din apropiere, Marib.", en: "A domestic oil refinery that processes crude oil from the nearby Marib oil fields." },
     facts: {
       de: ["Verarbeitet lokales Rohöl", "Wichtig für die Inlandsversorgung"],
       hu: ["Helyi nyersolajat dolgoz fel", "Fontos a belföldi ellátásban"],
       ro: ["Procesează țiței local", "Important pentru aprovizionarea internă"],
       en: ["Processes local crude oil", "Important for domestic supply"]
-    }, image: "/poi-images/marib-refinery-economic-v2.webp"},
+    }, image: "/poi-images/marib-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Marib-Raffinerie ist eine Erdölraffinerie im Gouvernement Marib im Nordosten des Jemen. Sie wurde 1986 in Betrieb genommen und verarbeitet Rohöl aus den umliegenden Ölfeldern. Die Raffinerie hat eine Kapazität von etwa 10.000 Barrel pro Tag. Sie produziert Diesel, Benzin und Heizöl für den lokalen Markt. Die Anlage wurde während des Bürgerkriegs mehrfach beschädigt, aber 2022 teilweise wieder in Betrieb genommen. Die Raffinerie ist strategisch wichtig für die Energieversorgung des Landes.",
+      hu: "A Marib olajfinomító Jemen északkeleti részén, Marib kormányzóságban található. 1986-ban nyitották meg, kapacitása napi 10 000 hordó. A finomító a közeli olajmezőkről származó nyersolajat dolgozza fel, és dízelolajat, benzint és fűtőolajat állít elő. A polgárháború során többször megrongálódott, de 2022-ben részlegesen újraindították. A finomító létfontosságú Jemen energiaellátásában, és a helyi piacot szolgálja ki.",
+      ro: "Rafinăria Marib este situată în nord-estul Yemenului, în guvernoratul Marib. A intrat în funcțiune în 1986 și are o capacitate de aproximativ 10.000 de barili pe zi. Rafinăria procesează țiței din câmpurile petroliere din apropiere, producând motorină, benzină și păcură. A fost avariată de mai multe ori în timpul războiului civil, dar a fost repornită parțial în 2022. Este esențială pentru aprovizionarea cu combustibil a regiunii de nord a Yemenului.",
+      en: "The Marib Refinery is an oil processing facility in northeastern Yemen's Marib Governorate. Commissioned in 1986, it has a capacity of roughly 10,000 barrels per day. The refinery processes crude oil from nearby fields and produces diesel, gasoline, and fuel oil for domestic use. During the civil war, it suffered multiple damages but was partially restarted in 2022. It plays a critical role in meeting the energy needs of northern Yemen.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1986", "Kapazität: 10.000 Barrel/Tag", "Produkte: Diesel, Benzin, Heizöl", "Schäden: mehrfach im Bürgerkrieg", "Wiederinbetriebnahme: 2022 teilweise", "Standort: Gouvernement Marib"],
+      hu: ["Üzembe helyezés: 1986", "Kapacitás: 10 000 hordó/nap", "Termékek: dízel, benzin, fűtőolaj", "Károk: többször a polgárháborúban", "Újraindítás: 2022 részleges", "Helyszín: Marib kormányzóság"],
+      ro: ["An punere în funcțiune: 1986", "Capacitate: 10.000 barili/zi", "Produse: motorină, benzină, păcură", "Avarii: multiple în război", "Repornire: 2022 parțial", "Locație: guvernoratul Marib"],
+      en: ["Commissioning year: 1986", "Capacity: 10,000 barrels/day", "Products: diesel, gasoline, fuel oil", "Damage: multiple during civil war", "Restart: 2022 partial", "Location: Marib Governorate"],
+    },
+  },
   {
     id: "aden-refinery-economic-v2",
     type: "industry",
     parent: "YE-AD",
     coords: [44.92, 12.76],
-    name: { de: "Raffinerie Aden", hu: "Ádeni olajfinomító", ro: "Rafinăria Aden", en: "Aden Refinery",
-image: "/poi-images/aden-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Aden", hu: "Ádeni olajfinomító", ro: "Rafinăria Aden", en: "Aden Refinery"},
+    image: "/poi-images/aden-refinery-economic-v2.webp",
     description: { de: "Eine historische Raffinerie in Little Aden, die einst eine der größten im Nahen Osten war.", hu: "Történelmi finomító Kis-Ádenben, amely egykor a Közel-Kelet egyik legnagyobbja volt.", ro: "O rafinărie istorică din Little Aden, care a fost odată una dintre cele mai mari din Orientul Mijlociu.", en: "A historic refinery in Little Aden that was once one of the largest in the Middle East." },
     facts: {
       de: ["1954 von BP gebaut", "Gelegen in Little Aden"],
       hu: ["1954-ben építette a BP", "Kis-Ádenben található"],
       ro: ["Construită de BP în 1954", "Situată în Little Aden"],
       en: ["Built by BP in 1954", "Located in Little Aden"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Aden-Raffinerie ist eine der ältesten Erdölraffinerien im Jemen, gelegen im Hafengebiet von Aden. Sie wurde 1954 unter britischer Verwaltung erbaut und hatte ursprünglich eine Kapazität von 45.000 Barrel pro Tag. Nach Erweiterungen erreicht sie heute etwa 150.000 Barrel pro Tag. Die Raffinerie verarbeitet Rohöl aus dem Inland und importiertes Rohöl. Während des Bürgerkriegs wurde die Anlage 2015 schwer beschädigt, aber teilweise wieder aufgebaut. Sie ist ein wichtiger Arbeitgeber in der Region.",
+      hu: "Az Aden olajfinomító Jemen egyik legrégebbi finomítója, amely Aden kikötővárosában található. 1954-ben épült a brit gyarmati időkben, kapacitása eredetileg napi 45 000 hordó volt. Későbbi bővítésekkel elérte a napi 150 000 hordót. A finomító hazai és importált nyersolajat dolgoz fel. A 2015-ös polgárháború súlyosan megrongálta, de részben újjáépítették. Több ezer embernek ad munkát.",
+      ro: "Rafinăria Aden este una dintre cele mai vechi rafinării din Yemen, situată în zona portuară a orașului Aden. Construită în 1954 sub administrația britanică, avea inițial o capacitate de 45.000 de barili pe zi. După extinderi, capacitatea a crescut la 150.000 de barili pe zi. Rafinăria procesează țiței local și importat. În 2015, a fost grav avariată în timpul războiului civil, dar a fost parțial reconstruită. Este un angajator major în regiune, cu peste 3.000 de angajați.",
+      en: "The Aden Refinery is one of Yemen's oldest oil refineries, located in the port area of Aden. Built in 1954 during British rule, its initial capacity was 45,000 barrels per day, later expanded to 150,000 barrels per day. It processes both domestic and imported crude oil. The refinery was severely damaged in 2015 during the civil war but has been partially rebuilt. It employs over 3,000 people and is crucial for local fuel supply.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1954", "Ursprungskapazität: 45.000 Barrel/Tag", "Aktuelle Kapazität: 150.000 Barrel/Tag", "Schäden: 2015 im Bürgerkrieg", "Wiederaufbau: teilweise", "Beschäftigte: über 3.000"],
+      hu: ["Építés éve: 1954", "Eredeti kapacitás: 45 000 hordó/nap", "Jelenlegi kapacitás: 150 000 hordó/nap", "Károk: 2015-ben a polgárháborúban", "Újjáépítés: részleges", "Alkalmazottak: több mint 3000"],
+      ro: ["An construcție: 1954", "Capacitate inițială: 45.000 barili/zi", "Capacitate actuală: 150.000 barili/zi", "Avarii: 2015 în război", "Reconstrucție: parțială", "Angajați: peste 3000"],
+      en: ["Year built: 1954", "Initial capacity: 45,000 barrels/day", "Current capacity: 150,000 barrels/day", "Damage: 2015 during civil war", "Rebuild: partial", "Employees: over 3,000"],
+    },
   },
   {
     id: "ras-isa-oil-terminal-economic-v2",
     type: "port",
     parent: "YE-HU",
     coords: [42.72, 15.20],
-    name: { de: "Ölterminal Ras Isa", hu: "Rász Isza olajterminál", ro: "Terminalul petrolier Ras Isa", en: "Ras Isa Oil Terminal",
-image: "/poi-images/ras-isa-oil-terminal-economic-v2.webp"
-},
+    name: { de: "Ölterminal Ras Isa", hu: "Rász Isza olajterminál", ro: "Terminalul petrolier Ras Isa", en: "Ras Isa Oil Terminal"},
+    image: "/poi-images/ras-isa-oil-terminal-economic-v2.webp",
     description: { de: "Ein bedeutender Offshore-Ölexporthafen am Roten Meer für das Rohöl aus der Marib-Region.", hu: "Fontos tengeri kőolaj-exportáló terminál a Vörös-tenger partján, amely a Márib régióból érkező nyersolajat kezeli. Ez a létesítmény kulcsszerepet játszik Jemen energiakivitelében.", ro: "Un port offshore major de export de petrol la Marea Roșie pentru țițeiul din regiunea Marib.", en: "A major offshore oil export port on the Red Sea for crude oil from the Marib region." },
     facts: {
       de: ["Schwimmendes Terminal", "Exportiert Marib-Rohöl"],
       hu: ["Vörös-tengeri olajkikötő", "Máribi nyersolaj exportja", "Úszó tárolóegység (FSO)", "Stratégiai energetikai pont"],
       ro: ["Terminal plutitor", "Exportă țiței din Marib"],
       en: ["Floating terminal", "Exports Marib crude oil"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Ras Isa Ölterminal liegt an der jemenitischen Küste des Roten Meeres, etwa 50 km nördlich von Hodeidah. Es dient als Exportterminal für Rohöl aus den Ölfeldern des Landesinneren. Das Terminal besteht aus einer Offshore-Verladestation, die Tanker mit einem Tiefgang von bis zu 20 Metern beladen kann. Es wurde 1985 in Betrieb genommen und hat eine Kapazität von etwa 200.000 Barrel pro Tag. Der Betrieb wurde durch den Bürgerkrieg unterbrochen, und das Terminal ist seit 2015 geschlossen.",
+      hu: "A Ras Isa olajterminál a Vörös-tenger partján található, Hodeidahtól 50 km-re északra. A terminál a szárazföldi olajmezőkről származó nyersolaj exportjára szolgál. 1985-ben nyitották meg, és napi 200 000 hordó kapacitással rendelkezik. A tengeri rakodóállomás 20 méteres merülésű tankereket is ki tud szolgálni. A polgárháború miatt a terminál 2015 óta zárva van, ami jelentős bevételkiesést okoz.",
+      ro: "Terminalul petrolier Ras Isa este situat pe coasta Mării Roșii, la 50 km nord de Hodeidah. A fost deschis în 1985 și are o capacitate de aproximativ 200.000 de barili pe zi. Terminalul dispune de o facilitate offshore de încărcare care poate deservi tancuri cu pescaj de până la 20 de metri. Exportă țiței din câmpurile petroliere din interior. Din cauza războiului, terminalul este închis din 2015.",
+      en: "The Ras Isa Oil Terminal is located on Yemen's Red Sea coast, 50 km north of Hodeidah. Commissioned in 1985, it has a capacity of about 200,000 barrels per day. The terminal features an offshore loading facility capable of handling tankers with a draft of up to 20 meters. It exports crude oil from inland fields. The terminal has been closed since 2015 due to the civil war, causing major revenue losses.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1985", "Kapazität: 200.000 Barrel/Tag", "Tiefgang: bis 20 m", "Schließung: 2015", "Lage: 50 km nördlich von Hodeidah", "Export: Rohöl"],
+      hu: ["Üzembe helyezés: 1985", "Kapacitás: 200 000 hordó/nap", "Merülés: 20 m-ig", "Zárás: 2015", "Hely: Hodeidahtól 50 km-re északra", "Export: nyersolaj"],
+      ro: ["An deschidere: 1985", "Capacitate: 200.000 barili/zi", "Pescaj: până la 20 m", "Închidere: 2015", "Locație: 50 km nord de Hodeidah", "Export: țiței"],
+      en: ["Commissioning year: 1985", "Capacity: 200,000 barrels/day", "Draft: up to 20 m", "Closure: 2015", "Location: 50 km north of Hodeidah", "Export: crude oil"],
+    },
   },
   {
     id: "ash-shihr-oil-terminal-economic-v2",
     type: "port",
     parent: "YE-HD",
     coords: [49.58, 14.75],
-    name: { de: "Ölterminal Ash Shihr", hu: "As-Sihr olajterminál", ro: "Terminalul petrolier Ash Shihr", en: "Ash Shihr Oil Terminal",
-image: "/poi-images/ash-shihr-oil-terminal-economic-v2.webp"
-},
+    name: { de: "Ölterminal Ash Shihr", hu: "As-Sihr olajterminál", ro: "Terminalul petrolier Ash Shihr", en: "Ash Shihr Oil Terminal"},
+    image: "/poi-images/ash-shihr-oil-terminal-economic-v2.webp",
     description: { de: "Das wichtigste Ölexportterminal im Süden des Jemen, das Öl aus den Feldern von Masila verschifft.", hu: "Jemen déli részének legfontosabb olajexportáló terminálja, amely a Maszila-mezőkről származó olajat szállítja.", ro: "Principalul terminal de export de petrol din sudul Yemenului, care expediază petrol din câmpurile Masila.", en: "The main oil export terminal in southern Yemen, shipping oil from the Masila fields." },
     facts: {
       de: ["Exportiert Masila-Öl", "Befindet sich am Arabischen Meer"],
       hu: ["Maszila olajat exportál", "Az Arab-tenger partján fekszik"],
       ro: ["Exportă petrol din Masila", "Situat la Marea Arabiei"],
       en: ["Exports Masila oil", "Located on the Arabian Sea"]
-    }, image: "/poi-images/ash-shihr-oil-terminal-economic-v2.webp"},
+    }, image: "/poi-images/ash-shihr-oil-terminal-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ash Shihr Ölterminal liegt an der Südküste des Jemen, östlich von Mukalla im Gouvernement Hadramaut. Es wurde 1993 in Betrieb genommen und dient dem Export von Rohöl aus den Ölfeldern von Masila. Das Terminal hat eine Kapazität von etwa 400.000 Barrel pro Tag. Es besteht aus einer Onshore-Anlage und einer Offshore-Verladestation. Der Tiefgang beträgt bis zu 22 Meter, sodass große Tanker anlegen können. Das Terminal ist seit 2015 aufgrund des Bürgerkriegs nicht mehr in Betrieb.",
+      hu: "Az Ash Shihr olajterminál Jemen déli partján, Mukallától keletre található. 1993-ban nyitották meg a Masila olajmezők nyersolajának exportjára. Kapacitása napi 400 000 hordó. A terminál szárazföldi létesítményekből és egy tengeri rakodóállomásból áll, amely 22 méteres merülésű hajókat is ki tud szolgálni. A polgárháború miatt 2015 óta nem üzemel.",
+      ro: "Terminalul petrolier Ash Shihr este situat pe coasta de sud a Yemenului, la est de Mukalla, în regiunea Hadramaut. A fost deschis în 1993 pentru exportul de țiței din câmpul Masila. Capacitatea sa este de 400.000 de barili pe zi. Terminalul include instalații terestre și o platformă offshore de încărcare, cu un pescaj maxim de 22 de metri. Este nefuncțional din 2015 din cauza războiului civil.",
+      en: "The Ash Shihr Oil Terminal is situated on Yemen's southern coast, east of Mukalla in the Hadramaut region. Opened in 1993, it exports crude oil from the Masila oil fields with a capacity of 400,000 barrels per day. The terminal comprises onshore facilities and an offshore loading buoy that can accommodate tankers with a draft of up to 22 meters. It has been inactive since 2015 due to the civil war.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1993", "Kapazität: 400.000 Barrel/Tag", "Tiefgang: bis 22 m", "Stillstand: 2015", "Quelle: Masila Ölfeld", "Lage: östlich von Mukalla"],
+      hu: ["Üzembe helyezés: 1993", "Kapacitás: 400 000 hordó/nap", "Merülés: 22 m-ig", "Leállás: 2015", "Forrás: Masila olajmező", "Elhelyezkedés: Mukallától keletre"],
+      ro: ["An deschidere: 1993", "Capacitate: 400.000 barili/zi", "Pescaj: până la 22 m", "Inactiv: 2015", "Sursă: câmpul Masila", "Locație: est de Mukalla"],
+      en: ["Opening year: 1993", "Capacity: 400,000 barrels/day", "Draft: up to 22 m", "Inactive: 2015", "Source: Masila oil field", "Location: east of Mukalla"],
+    },
+  },
   {
     id: "mocha-port-economic-v2",
     type: "port",
     parent: "YE-TA",
     coords: [43.24, 13.32],
-    name: { de: "Hafen von Mokka", hu: "Mokka kikötője", ro: "Portul Mocha", en: "Port of Mocha",
-image: "/poi-images/mocha-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Mokka", hu: "Mokka kikötője", ro: "Portul Mocha", en: "Port of Mocha"},
+    image: "/poi-images/mocha-port-economic-v2.webp",
     description: { de: "Ein historischer Hafen am Roten Meer, der einst das globale Zentrum des Kaffeehandels war.", hu: "Történelmi vörös-tengeri kikötő, amely egykor a kávékereskedelem globális központja volt.", ro: "Un port istoric la Marea Roșie care a fost odată centrul global al comerțului cu cafea.", en: "A historic Red Sea port that was once the global center of the coffee trade." },
     facts: {
       de: ["Berühmt für Kaffeeexport", "Historische Bedeutung"],
       hu: ["Kávéexportról híres", "Történelmi jelentőségű"],
       ro: ["Faimos pentru exportul de cafea", "Semnificație istorică"],
       en: ["Famous for coffee export", "Historical significance"]
-    }, image: "/poi-images/mocha-port-economic-v2.webp"},
+    }, image: "/poi-images/mocha-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Mocha (Al-Mukha) liegt an der jemenitischen Küste des Roten Meeres, südlich von Hodeidah. Historisch war Mocha im 15. bis 18. Jahrhundert einer der wichtigsten Kaffeeexporthäfen der Welt. Heute ist der Hafen kleiner und dient hauptsächlich der Fischerei und dem lokalen Handel. Der Hafen hat eine geringe Wassertiefe von etwa 8 Metern und kann nur kleinere Schiffe aufnehmen. In den letzten Jahren gab es Pläne zur Modernisierung, die jedoch aufgrund des Krieges nicht umgesetzt wurden.",
+      hu: "Mocha (Al-Mukha) kikötője a Vörös-tenger partján, Hodeidahtól délre fekszik. A 15–18. században a világ egyik legfontosabb kávéexport-kikötője volt. Ma már kisebb jelentőségű, főként halászat és helyi kereskedelem céljára használják. A kikötő vízmélysége mindössze 8 méter, így csak kisebb hajók tudnak behajózni. A háború miatt a tervezett korszerűsítési projektek elmaradtak.",
+      ro: "Portul Mocha (Al-Mukha) se află pe coasta Mării Roșii, la sud de Hodeidah. A fost un important port de export de cafea între secolele 15 și 18. Astăzi, portul este mic, cu o adâncime a apei de doar 8 metri, utilizat pentru pescuit și comerț local. Planurile de modernizare au fost suspendate din cauza războiului civil.",
+      en: "The Port of Mocha (Al-Mukha) is on Yemen's Red Sea coast, south of Hodeidah. It was a major coffee export hub from the 15th to 18th centuries. Today, the port is modest, with a water depth of only 8 meters, serving fishing and local trade. Modernization plans have been halted due to the civil war.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 8 m", "Historische Bedeutung: Kaffeeexport (15.-18. Jh.)", "Heutige Nutzung: Fischerei, lokaler Handel", "Modernisierungspläne: ausgesetzt", "Lage: südlich von Hodeidah", "Schiffsgröße: nur kleine Schiffe"],
+      hu: ["Vízmélység: 8 m", "Történelmi jelentőség: kávéexport (15–18. sz.)", "Jelenlegi használat: halászat, helyi kereskedelem", "Korszerűsítési tervek: felfüggesztve", "Elhelyezkedés: Hodeidahtól délre", "Hajóméret: csak kisebb hajók"],
+      ro: ["Adâncime: 8 m", "Semnificație istorică: export de cafea (sec. 15-18)", "Utilizare actuală: pescuit, comerț local", "Planuri de modernizare: suspendate", "Locație: sud de Hodeidah", "Dimensiune nave: mici"],
+      en: ["Water depth: 8 m", "Historical significance: coffee export (15th-18th c.)", "Current use: fishing, local trade", "Modernization plans: suspended", "Location: south of Hodeidah", "Ship size: only small vessels"],
+    },
+  },
   {
     id: "salif-port-economic-v2",
     type: "port",
     parent: "YE-HU",
     coords: [42.67, 15.30],
-    name: { de: "Hafen von Salif", hu: "Szalif kikötője", ro: "Portul Salif", en: "Port of Salif",
-image: "/poi-images/salif-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Salif", hu: "Szalif kikötője", ro: "Portul Salif", en: "Port of Salif"},
+    image: "/poi-images/salif-port-economic-v2.webp",
     description: { de: "Ein Tiefseehafen nördlich von Al-Hudaida, der für Massengüter und Salzexporte genutzt wird.", hu: "Jelentős mélyvízi kikötő Al-Hudajdától északra, amely alkalmas a legnagyobb teherhajók fogadására is. Elsősorban ömlesztett áruk és bányászott kősó kivitelére specializálódott.", ro: "Un port de mare adâncime la nord de Al Hudaydah, utilizat pentru mărfuri în vrac și exportul de sare.", en: "A deep-water port north of Hodeidah, used for bulk cargo and salt exports." },
     facts: {
       de: ["Natürlicher Tiefseehafen", "Exportiert Steinsalz"],
       hu: ["Mélyvízi tengeri kikötő", "Fontos gabonaimport-helyszín", "Kősó-export központja", "Természetes védett öböl"],
       ro: ["Port natural de mare adâncime", "Exportă sare gemă"],
       en: ["Natural deep-water port", "Exports rock salt"]
-    }, image: "/poi-images/salif-port-economic-v2.webp"},
+    }, image: "/poi-images/salif-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Salif liegt an der jemenitischen Küste des Roten Meeres, etwa 60 km nordwestlich von Hodeidah. Es ist ein kleiner Hafen, der hauptsächlich für den Export von Salz aus den nahe gelegenen Salinen genutzt wird. Der Hafen hat eine Wassertiefe von etwa 7 Metern und kann kleinere Frachtschiffe aufnehmen. Die Salzproduktion in der Region ist bedeutend, mit jährlichen Exportmengen von mehreren hunderttausend Tonnen. Der Hafen ist auch für die Fischerei wichtig.",
+      hu: "Salif kikötője a Vörös-tenger partján, Hodeidahtól 60 km-re északnyugatra található. Kis kikötő, amely elsősorban a közeli sótelepekről származó só exportjára szolgál. A vízmélység 7 méter, így kisebb teherhajók használhatják. A régió sótermelése jelentős, éves exportja több százezer tonna. A kikötő a halászat számára is fontos.",
+      ro: "Portul Salif este situat pe coasta Mării Roșii, la 60 km nord-vest de Hodeidah. Este un port mic, folosit în principal pentru exportul de sare din salinele din apropiere. Adâncimea apei este de aproximativ 7 metri, permițând accesul navelor de marfă mici. Producția de sare din regiune ajunge la câteva sute de mii de tone anual. Portul este și un centru pescăresc local.",
+      en: "The Port of Salif is located on Yemen's Red Sea coast, about 60 km northwest of Hodeidah. It is a small port primarily used for exporting salt from nearby salt flats. The water depth is around 7 meters, accommodating small freighters. Annual salt exports amount to several hundred thousand tons. The port also supports local fishing activities.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 7 m", "Hauptexport: Salz", "Jährliche Salzexporte: mehrere 100.000 t", "Entfernung zu Hodeidah: 60 km nordwestlich", "Nutzung: Fischerei", "Salinen vor Ort"],
+      hu: ["Vízmélység: 7 m", "Fő exportcikk: só", "Éves sóexport: több százezer tonna", "Távolság Hodeidahtól: 60 km északnyugatra", "Használat: halászat", "Sótelepek a közelben"],
+      ro: ["Adâncime: 7 m", "Export principal: sare", "Export anual de sare: câteva sute de mii de tone", "Distanță de Hodeidah: 60 km NV", "Utilizare: pescuit", "Saline locale"],
+      en: ["Water depth: 7 m", "Main export: salt", "Annual salt exports: several hundred thousand tons", "Distance from Hodeidah: 60 km NW", "Usage: fishing", "Salt flats nearby"],
+    },
+  },
   {
     id: "masila-oil-field-economic-v2",
     type: "energy",
     parent: "YE-HD",
     coords: [49.30, 15.60],
-    name: { de: "Ölfeld Masila", hu: "Maszila olajmező", ro: "Câmpul petrolier Masila", en: "Masila Oil Field",
-image: "/poi-images/masila-oil-field-economic-v2.webp"
-},
+    name: { de: "Ölfeld Masila", hu: "Maszila olajmező", ro: "Câmpul petrolier Masila", en: "Masila Oil Field"},
+    image: "/poi-images/masila-oil-field-economic-v2.webp",
     description: { de: "Eines der größten Ölfelder des Jemen, gelegen in der östlichen Region Hadramaut.", hu: "Jemen egyik legnagyobb olajmezője, amely a keleti Hadramaut régióban található.", ro: "Unul dintre cele mai mari câmpuri petroliere din Yemen, situat în regiunea estică Hadhramaut.", en: "One of Yemen's largest oil fields, located in the eastern Hadhramaut region." },
     facts: {
       de: ["Größter Ölproduzent", "Entdeckt in den 1990er Jahren"],
       hu: ["Legnagyobb olajtermelő", "Az 1990-es években fedezték fel"],
       ro: ["Cel mai mare producător de petrol", "Descoperit în anii 1990"],
       en: ["Largest oil producer", "Discovered in the 1990s"]
-    }, image: "/poi-images/masila-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/masila-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Masila-Ölfeld liegt im Gouvernement Hadramaut im Osten des Jemen. Es wurde 1993 entdeckt und ist eines der größten Ölfelder des Landes mit geschätzten Reserven von über 1 Milliarde Barrel. Die Produktion erreichte in den 2000er Jahren einen Höhepunkt von etwa 400.000 Barrel pro Tag. Das Feld wird von einer kanadischen Firma betrieben. Aufgrund des Bürgerkriegs ist die Produktion stark zurückgegangen, lag 2022 bei etwa 50.000 Barrel pro Tag. Das Öl wird über das Ash Shihr Terminal exportiert.",
+      hu: "A Masila olajmező Jemen keleti részén, Hadramaut kormányzóságban található. 1993-ban fedezték fel, és az ország egyik legnagyobb olajmezője, több mint 1 milliárd hordó becsült tartalékkal. A termelés a 2000-es években napi 400 000 hordó körül tetőzött. A mezőt egy kanadai vállalat üzemelteti. A polgárháború miatt a termelés 2022-re napi 50 000 hordóra csökkent. Az olajat az Ash Shihr terminálon keresztül exportálják.",
+      ro: "Câmpul petrolier Masila este situat în estul Yemenului, în regiunea Hadramaut. Descoperit în 1993, are rezerve estimate de peste 1 miliard de barili. Producția a atins un vârf de 400.000 de barili pe zi în anii 2000. Câmpul este operat de o companie canadiană. Din cauza războiului, producția a scăzut la aproximativ 50.000 de barili pe zi în 2022. Petrolul este exportat prin terminalul Ash Shihr.",
+      en: "The Masila Oil Field is located in eastern Yemen's Hadramaut region. Discovered in 1993, it holds estimated reserves of over 1 billion barrels. Production peaked at 400,000 barrels per day in the 2000s. Operated by a Canadian company, the field has seen output drop to about 50,000 barrels per day in 2022 due to the civil war. Oil is exported via the Ash Shihr terminal.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1993", "Geschätzte Reserven: >1 Mrd. Barrel", "Produktionsspitze: 400.000 Barrel/Tag", "2022 Produktion: 50.000 Barrel/Tag", "Betreiber: kanadische Firma", "Export: über Ash Shihr"],
+      hu: ["Felfedezés: 1993", "Becsült tartalék: >1 milliárd hordó", "Csúcstermelés: 400 000 hordó/nap", "2022 termelés: 50 000 hordó/nap", "Üzemeltető: kanadai vállalat", "Export: Ash Shihr terminálon át"],
+      ro: ["Descoperire: 1993", "Rezerve estimate: peste 1 miliard barili", "Producție maximă: 400.000 barili/zi", "Producție 2022: 50.000 barili/zi", "Operator: companie canadiană", "Export: prin terminalul Ash Shihr"],
+      en: ["Discovery: 1993", "Estimated reserves: >1 billion barrels", "Peak production: 400,000 barrels/day", "2022 production: 50,000 barrels/day", "Operator: Canadian company", "Export: via Ash Shihr terminal"],
+    },
+  },
   {
     id: "shabwa-oil-fields-economic-v2",
     type: "energy",
     parent: "YE-SH",
     coords: [47.00, 14.90],
-    name: { de: "Ölfelder von Shabwa", hu: "Sabwa olajmezők", ro: "Câmpurile petroliere Shabwa", en: "Shabwa Oil Fields",
-image: "/poi-images/shabwa-oil-fields-economic-v2.webp"
-},
+    name: { de: "Ölfelder von Shabwa", hu: "Sabwa olajmezők", ro: "Câmpurile petroliere Shabwa", en: "Shabwa Oil Fields"},
+    image: "/poi-images/shabwa-oil-fields-economic-v2.webp",
     description: { de: "Mehrere wichtige produzierende Ölfelder in der zentralen Provinz Shabwa.", hu: "Számos fontos termelő olajmező a központi Sabwa tartományban.", ro: "Mai multe câmpuri petroliere productive importante în provincia centrală Shabwa.", en: "Several important producing oil fields in the central Shabwa province." },
     facts: {
       de: ["Zentrale Wirtschaftsressource", "Förderung seit den 1980ern"],
       hu: ["Központi gazdasági erőforrás", "Kitermelés az 1980-as évek óta"],
       ro: ["Resursă economică centrală", "Producție din anii 1980"],
       en: ["Central economic resource", "Production since the 1980s"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Ölfelder von Shabwa liegen im zentral-südlichen Jemen und umfassen mehrere Felder wie Ayad, Amal und Shabwa. Sie wurden in den 1980er Jahren entdeckt und die Förderung begann 1995. Die Reserven werden auf etwa 500 Millionen Barrel geschätzt. Die Produktion erreichte vor dem Krieg etwa 100.000 Barrel pro Tag, ist aber 2022 auf etwa 20.000 Barrel pro Tag gefallen. Die Felder werden von verschiedenen internationalen Firmen betrieben. Das Öl wird über Pipelines zu den Häfen transportiert.",
+      hu: "A Shabwa olajmezők Jemen középső-déli részén találhatók, olyan mezőket foglalva magukba, mint az Ayad, Amal és Shabwa. A felfedezés az 1980-as években történt, a kitermelés 1995-ben indult. A becsült tartalék mintegy 500 millió hordó. A háború előtti termelés napi 100 000 hordó volt, 2022-re 20 000 hordóra csökkent. A mezőket nemzetközi cégek üzemeltetik, az olajat csővezetékeken szállítják a kikötőkbe.",
+      ro: "Câmpurile petroliere Shabwa sunt situate în centrul-sudul Yemenului, incluzând câmpurile Ayad, Amal și Shabwa. Descoperite în anii 1980, producția a început în 1995. Rezervele sunt estimate la aproximativ 500 de milioane de barili. Producția pre-război era de 100.000 de barili pe zi, dar în 2022 a scăzut la circa 20.000 de barili pe zi. Operate de companii internaționale, petrolul este transportat prin conducte către porturi.",
+      en: "The Shabwa Oil Fields are located in central-southern Yemen, comprising fields such as Ayad, Amal, and Shabwa. Discovered in the 1980s, production started in 1995. Estimated reserves are around 500 million barrels. Pre-war production was about 100,000 barrels per day, dropping to about 20,000 barrels per day in 2022. Operated by international companies, oil is transported via pipelines to coastal terminals.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1980er Jahre", "Produktionsbeginn: 1995", "Reserven: ca. 500 Mio. Barrel", "Vorkriegsproduktion: 100.000 Barrel/Tag", "2022 Produktion: 20.000 Barrel/Tag", "Betreiber: internationale Firmen"],
+      hu: ["Felfedezés: 1980-as évek", "Termelés kezdete: 1995", "Tartalék: kb. 500 millió hordó", "Háború előtti termelés: 100 000 hordó/nap", "2022 termelés: 20 000 hordó/nap", "Üzemeltetők: nemzetközi cégek"],
+      ro: ["Descoperire: anii 1980", "Început producție: 1995", "Rezerve: aprox. 500 mil. barili", "Producție pre-război: 100.000 barili/zi", "Producție 2022: 20.000 barili/zi", "Operatori: companii internaționale"],
+      en: ["Discovery: 1980s", "Production start: 1995", "Reserves: approx. 500 million barrels", "Pre-war production: 100,000 barrels/day", "2022 production: 20,000 barrels/day", "Operators: international companies"],
+    },
   },
   {
     id: "marib-gas-field-economic-v2",
     type: "energy",
     parent: "YE-MA",
     coords: [45.45, 15.60],
-    name: { de: "Gasfeld Marib", hu: "Márib gázmező", ro: "Câmpul de gaze Marib", en: "Marib Gas Field",
-image: "/poi-images/marib-gas-field-economic-v2.webp"
-},
+    name: { de: "Gasfeld Marib", hu: "Márib gázmező", ro: "Câmpul de gaze Marib", en: "Marib Gas Field"},
+    image: "/poi-images/marib-gas-field-economic-v2.webp",
     description: { de: "Ein bedeutendes Erdgasfeld, das sowohl den Inlandsverbrauch deckt als auch Gas für den Export liefert.", hu: "Jelentős földgázmező, amely mind a belföldi fogyasztást fedezi, mind pedig gázt biztosít exportra.", ro: "Un zăcământ major de gaze naturale care acoperă atât consumul intern, cât și exportul.", en: "A major natural gas field that covers both domestic consumption and supplies gas for export." },
     facts: {
       de: ["Versorgt Balhaf LNG", "Wichtig für die Stromerzeugung"],
       hu: ["Ellátja a Balhaf LNG-t", "Fontos az áramtermelésben"],
       ro: ["Aprovizionează Balhaf GNL", "Important pentru generarea de energie electrică"],
       en: ["Supplies Balhaf LNG", "Important for power generation"]
-    }, image: "/poi-images/marib-gas-field-economic-v2.webp"},
+    }, image: "/poi-images/marib-gas-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Marib-Erdgasfeld ist das größte Gasfeld im Jemen, gelegen im Gouvernement Marib im Nordosten des Landes. Es wurde in den 1980er Jahren entdeckt und die Gasförderung begann 2000. Die nachgewiesenen Reserven betragen etwa 10 Billionen Kubikfuß. Das Gas wird über Pipelines zum Balhaf LNG-Terminal transportiert, wo es verflüssigt wird. Vor dem Krieg produzierte das Feld jährlich etwa 500 Millionen Kubikfuß Gas. Aufgrund des Konflikts ist die Förderung stark eingeschränkt.",
+      hu: "A Marib földgázmező Jemen legnagyobb gázmezője, Marib kormányzóságban, az ország északkeleti részén. Az 1980-as években fedezték fel, a kitermelés 2000-ben indult. A bizonyított tartalék körülbelül 10 billió köbláb. A gázt csővezetéken szállítják a Balhaf LNG-terminálhoz cseppfolyósításra. A háború előtt a mező évente mintegy 500 millió köbláb gázt termelt. A konfliktus miatt a termelés jelentősen visszaesett.",
+      ro: "Câmpul de gaze Marib este cel mai mare câmp de gaze din Yemen, situat în guvernoratul Marib, în nord-estul țării. Descoperit în anii 1980, producția de gaze a început în 2000. Rezervele dovedite sunt de aproximativ 10 trilioane de picioare cubice. Gazul este transportat printr-o conductă către terminalul LNG Balhaf. Înainte de război, câmpul producea circa 500 de milioane de picioare cubice pe an. Producția a fost sever redusă din cauza conflictului.",
+      en: "The Marib Gas Field is Yemen's largest gas field, located in Marib Governorate in the northeast. Discovered in the 1980s, gas production started in 2000. Proven reserves are about 10 trillion cubic feet. Gas is piped to the Balhaf LNG terminal for liquefaction. Before the war, the field produced approximately 500 million cubic feet per year. Production has been severely curtailed due to the conflict.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1980er Jahre", "Produktionsbeginn: 2000", "Nachgewiesene Reserven: 10 Billionen Kubikfuß", "Jahresproduktion vor Krieg: 500 Mio. Kubikfuß", "Transport: Pipeline zum Balhaf LNG", "Status: eingeschränkt"],
+      hu: ["Felfedezés: 1980-as évek", "Termelés kezdete: 2000", "Bizonyított tartalék: 10 billió köbláb", "Éves termelés háború előtt: 500 millió köbláb", "Szállítás: csővezeték Balhaf LNG-hez", "Állapot: korlátozott"],
+      ro: ["Descoperire: anii 1980", "Început producție: 2000", "Rezerve dovedite: 10 trilioane picioare cubice", "Producție anuală pre-război: 500 mil. picioare cubice", "Transport: conductă către Balhaf LNG", "Stare: limitat"],
+      en: ["Discovery: 1980s", "Production start: 2000", "Proven reserves: 10 trillion cubic feet", "Annual pre-war production: 500 million cubic feet", "Transport: pipeline to Balhaf LNG", "Status: restricted"],
+    },
+  },
   {
     id: "amran-cement-plant-economic-v2",
     type: "industry",
     parent: "YE-AM",
     coords: [43.94, 15.66],
-    name: { de: "Zementwerk Amran", hu: "Amráni cementgyár", ro: "Fabrica de ciment Amran", en: "Amran Cement Plant",
-image: "/poi-images/amran-cement-plant-economic-v2.webp"
-},
+    name: { de: "Zementwerk Amran", hu: "Amráni cementgyár", ro: "Fabrica de ciment Amran", en: "Amran Cement Plant"},
+    image: "/poi-images/amran-cement-plant-economic-v2.webp",
     description: { de: "Eine der größten Zementproduktionsanlagen im Jemen, die Baumaterial für die Region liefert.", hu: "Jemen egyik legnagyobb cementgyártó üzeme, amely építőanyagot biztosít a régió számára.", ro: "Una dintre cele mai mari unități de producție de ciment din Yemen, furnizând materiale de construcție.", en: "One of the largest cement production facilities in Yemen, supplying building materials for the region." },
     facts: {
       de: ["Schlüsselindustrie im Norden", "Hohe Produktionskapazität"],
       hu: ["Kulcsipar Északon", "Nagy termelési kapacitás"],
       ro: ["Industrie cheie în nord", "Capacitate mare de producție"],
       en: ["Key industry in the North", "High production capacity"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Amran-Zementwerk liegt in der Provinz Amran im Nordwesten des Jemen, etwa 50 km nordwestlich von Sanaa. Es wurde 1995 in Betrieb genommen und hat eine Jahreskapazität von etwa 1 Million Tonnen Zement. Das Werk versorgt die umliegenden Regionen mit Baumaterialien. Während des Bürgerkriegs wurde die Produktion zeitweise eingestellt, aber 2020 wieder aufgenommen. Die Anlage beschäftigt etwa 1.500 Mitarbeiter und ist ein wichtiger Wirtschaftsfaktor in der Region.",
+      hu: "Az Amran cementgyár Jemen északnyugati részén, Amran kormányzóságban található, kb. 50 km-re északnyugatra Sanaától. 1995-ben nyitották meg, éves kapacitása mintegy 1 millió tonna cement. A gyár építőanyagokkal látja el a környező területeket. A polgárháború alatt időszakosan leállt, de 2020-ban újraindult. Mintegy 1500 embert foglalkoztat.",
+      ro: "Fabrica de ciment Amran este situată în provincia Amran, nord-vestul Yemenului, la aproximativ 50 km nord-vest de Sanaa. A fost deschisă în 1995 și are o capacitate anuală de aproximativ 1 milion de tone de ciment. Fabrica aprovizionează regiunile învecinate cu materiale de construcții. Producția a fost întreruptă temporar în timpul războiului, dar a fost reluată în 2020. Angajează circa 1.500 de persoane.",
+      en: "The Amran Cement Plant is located in Amran Governorate, northwestern Yemen, about 50 km northwest of Sanaa. Commissioned in 1995, it has an annual capacity of around 1 million tons of cement. The plant supplies building materials to surrounding areas. Production was intermittently halted during the civil war but resumed in 2020. It employs about 1,500 workers.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1995", "Jahreskapazität: 1 Mio. t Zement", "Standort: Provinz Amran", "Wiederaufnahme: 2020", "Beschäftigte: 1.500", "Entfernung zu Sanaa: 50 km NW"],
+      hu: ["Üzembe helyezés: 1995", "Éves kapacitás: 1 millió tonna cement", "Helyszín: Amran kormányzóság", "Újraindítás: 2020", "Alkalmazottak: 1500", "Távolság Sanaától: 50 km északnyugatra"],
+      ro: ["An deschidere: 1995", "Capacitate anuală: 1 mil. tone ciment", "Locație: provincia Amran", "Redeschidere: 2020", "Angajați: 1.500", "Distanță de Sanaa: 50 km NV"],
+      en: ["Commissioning: 1995", "Annual capacity: 1 million tons cement", "Location: Amran Governorate", "Resumption: 2020", "Employees: 1,500", "Distance from Sanaa: 50 km NW"],
+    },
   },
   {
     id: "bajil-cement-factory-economic-v2",
     type: "industry",
     parent: "YE-HU",
     coords: [43.28, 15.06],
-    name: { de: "Zementfabrik Bajil", hu: "Badzsil cementgyár", ro: "Fabrica de ciment Bajil", en: "Bajil Cement Factory",
-image: "/poi-images/bajil-cement-factory-economic-v2.webp"
-},
+    name: { de: "Zementfabrik Bajil", hu: "Badzsil cementgyár", ro: "Fabrica de ciment Bajil", en: "Bajil Cement Factory"},
+    image: "/poi-images/bajil-cement-factory-economic-v2.webp",
     description: { de: "Eine wichtige Industrieanlage in der Tihama-Ebene, die den jemenitischen Bausektor unterstützt.", hu: "Fontos ipari létesítmény a Tiháma-síkságon, amely a jemeni építőipart támogatja.", ro: "O instalație industrială importantă în câmpia Tihama, susținând sectorul construcțiilor yemenit.", en: "An important industrial facility in the Tihama Plain supporting the Yemeni construction sector." },
     facts: {
       de: ["Gelegen in der Tihama-Ebene", "Unterstützt lokale Bauwirtschaft"],
       hu: ["A Tiháma-síkságon fekszik", "Támogatja a helyi építőipart"],
       ro: ["Situată în câmpia Tihama", "Susține industria locală de construcții"],
       en: ["Located in the Tihama Plain", "Supports local construction industry"]
-    }, image: "/poi-images/bajil-cement-factory-economic-v2.webp"},
+    }, image: "/poi-images/bajil-cement-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bajil-Zementfabrik befindet sich in der Stadt Bajil im Gouvernement Al Hudaydah im Westen des Jemen. Sie wurde 1978 mit Unterstützung der Sowjetunion erbaut und ist eine der ältesten Zementfabriken des Landes. Die Jahreskapazität beträgt etwa 500.000 Tonnen. Die Fabrik wurde während des Bürgerkriegs 2015 schwer beschädigt, aber 2019 nach Reparaturen wieder in Betrieb genommen. Sie versorgt die Region mit Zement für Bauprojekte und beschäftigt rund 800 Mitarbeiter.",
+      hu: "A Bajil cementgyár Jemen nyugati részén, Al Hudaydah kormányzóságban, Bajil városában található. 1978-ban épült szovjet segítséggel, és az ország egyik legrégebbi cementgyára. Éves kapacitása kb. 500 000 tonna. A gyár 2015-ben súlyosan megrongálódott a polgárháborúban, de 2019-ben javítások után újraindult. A régió építkezéseit szolgálja ki, és mintegy 800 embert foglalkoztat.",
+      ro: "Fabrica de ciment Bajil este situată în orașul Bajil, guvernoratul Al Hudaydah, vestul Yemenului. A fost construită în 1978 cu ajutor sovietic, fiind una dintre cele mai vechi fabrici de ciment din țară. Capacitatea anuală este de aproximativ 500.000 de tone. Fabrica a fost grav avariată în 2015 în timpul războiului civil, dar a fost repornită în 2019 după reparații. Angajează circa 800 de persoane.",
+      en: "The Bajil Cement Factory is located in the town of Bajil, Al Hudaydah Governorate, western Yemen. Built in 1978 with Soviet assistance, it is one of the country's oldest cement plants. Annual capacity is about 500,000 tons. The factory was heavily damaged in 2015 during the civil war but resumed operations in 2019 after repairs. It serves local construction needs and employs around 800 people.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1978", "Jahreskapazität: 500.000 t", "Schäden: 2015", "Wiederaufnahme: 2019", "Beschäftigte: 800", "Unterstützung: Sowjetunion"],
+      hu: ["Építés éve: 1978", "Éves kapacitás: 500 000 tonna", "Károk: 2015", "Újraindítás: 2019", "Alkalmazottak: 800", "Támogatás: Szovjetunió"],
+      ro: ["An construcție: 1978", "Capacitate anuală: 500.000 tone", "Avarii: 2015", "Repornire: 2019", "Angajați: 800", "Asistență: Uniunea Sovietică"],
+      en: ["Year built: 1978", "Annual capacity: 500,000 tons", "Damage: 2015", "Resumption: 2019", "Employees: 800", "Assistance: Soviet Union"],
+    },
+  },
   {
     id: "nishtun-port-economic-v2",
     type: "port",
     parent: "YE-MR",
     coords: [52.20, 15.82],
-    name: { de: "Hafen von Nishtun", hu: "Nistún kikötője", ro: "Portul Nishtun", en: "Port of Nishtun",
-image: "/poi-images/nishtun-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Nishtun", hu: "Nistún kikötője", ro: "Portul Nishtun", en: "Port of Nishtun"},
+    image: "/poi-images/nishtun-port-economic-v2.webp",
     description: { de: "Ein Seehafen im Gouvernement Al-Mahra im äußersten Osten des Landes, am Arabischen Meer.", hu: "Tengeri kikötő az Al-Mahra kormányzóságban, az ország legkeletibb részén, az Arab-tengernél.", ro: "Un port maritim în guvernoratul Al-Mahra din extremul est al țării, la Marea Arabiei.", en: "A seaport in the Al-Mahra Governorate in the far east of the country on the Arabian Sea." },
     facts: {
       de: ["Östlichster Hafen des Jemen", "Dient dem Gouvernement Al-Mahra"],
       hu: ["Jemen legkeletibb kikötője", "Al-Mahra kormányzóságot szolgálja ki"],
       ro: ["Cel mai estic port din Yemen", "Deservește guvernoratul Al-Mahra"],
       en: ["Easternmost port of Yemen", "Serves Al-Mahra Governorate"]
-    }, image: "/poi-images/nishtun-port-economic-v2.webp"},
+    }, image: "/poi-images/nishtun-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Nishtun liegt an der Südküste des Jemen, nahe der Grenze zu Oman im Gouvernement Al Mahrah. Es ist ein kleiner Fischereihafen, der auch für den lokalen Handel genutzt wird. Der Hafen hat eine natürliche Bucht und eine Wassertiefe von etwa 6 Metern. In den letzten Jahren gab es Pläne, den Hafen zu einem Fischereizentrum auszubauen, um die Wirtschaft der Region zu stärken. Der Betrieb ist aufgrund der Abgeschiedenheit und des Krieges begrenzt.",
+      hu: "Nishtun kikötője Jemen déli partján, Omán határához közel, Al Mahrah kormányzóságban található. Kis halászkikötő, amelyet helyi kereskedelemre is használnak. A kikötő természetes öbölben fekszik, vízmélysége kb. 6 méter. A tervek szerint halászati központtá fejlesztenék a régió gazdaságának fellendítése érdekében. A működés korlátozott a háború és a távoli fekvés miatt.",
+      ro: "Portul Nishtun este situat pe coasta de sud a Yemenului, aproape de granița cu Oman, în guvernoratul Al Mahrah. Este un port de pescuit mic, utilizat și pentru comerț local. Portul are un golf natural și o adâncime a apei de aproximativ 6 metri. Există planuri de dezvoltare ca centru de pescuit pentru a stimula economia regiunii. Activitatea este limitată din cauza izolării și a războiului.",
+      en: "The Port of Nishtun is located on Yemen's southern coast, near the Oman border in Al Mahrah Governorate. It is a small fishing port also used for local trade. The port features a natural bay with a water depth of about 6 meters. Plans have been proposed to develop it into a fishing hub to boost the region's economy. Operations are limited due to remoteness and the ongoing conflict.",
+    },
+    factsAdvanced: {
+      de: ["Wassertiefe: 6 m", "Nutzung: Fischerei, lokaler Handel", "Lage: Gouvernement Al Mahrah", "Grenznähe: zu Oman", "Entwicklungspläne: Fischereizentrum", "Betrieb: eingeschränkt"],
+      hu: ["Vízmélység: 6 m", "Használat: halászat, helyi kereskedelem", "Elhelyezkedés: Al Mahrah kormányzóság", "Határközelség: Omán", "Fejlesztési tervek: halászati központ", "Működés: korlátozott"],
+      ro: ["Adâncime: 6 m", "Utilizare: pescuit, comerț local", "Locație: guvernoratul Al Mahrah", "Aproape de granița cu Oman", "Planuri de dezvoltare: centru pescăresc", "Operațiuni: limitate"],
+      en: ["Water depth: 6 m", "Usage: fishing, local trade", "Location: Al Mahrah Governorate", "Border proximity: Oman", "Development plans: fishing hub", "Operations: limited"],
+    },
+  },
   {
     id: "medden-gold-mine-economic-v2",
     type: "mine",
     parent: "YE-HD",
     coords: [48.80, 14.70],
-    name: { de: "Goldmine Medden", hu: "Medden aranybánya", ro: "Mina de aur Medden", en: "Medden Gold Mine",
-image: "/poi-images/medden-gold-mine-economic-v2.webp"
-},
+    name: { de: "Goldmine Medden", hu: "Medden aranybánya", ro: "Mina de aur Medden", en: "Medden Gold Mine"},
+    image: "/poi-images/medden-gold-mine-economic-v2.webp",
     description: { de: "Eine der wenigen bekannten Goldlagerstätten im Jemen, gelegen in der Region Hadramaut.", hu: "Egyike a kevés ismert aranylelőhelynek Jemenben, amely a Hadramaut régióban található.", ro: "Unul dintre puținele zăcăminte de aur cunoscute din Yemen, situat în regiunea Hadhramaut.", en: "One of the few known gold deposits in Yemen, located in the Hadhramaut region." },
     facts: {
       de: ["Potenzielle Mineralienquelle", "Befindet sich im Tal Wadi Medden"],
       hu: ["Potenciális ásványi forrás", "A Vadi Medden völgyben fekszik"],
       ro: ["Sursă potențială de minerale", "Situată în valea Wadi Medden"],
       en: ["Potential mineral resource", "Located in the Wadi Medden valley"]
-    }, image: "/poi-images/medden-gold-mine-economic-v2.webp"},
+    }, image: "/poi-images/medden-gold-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Medden-Goldmine im Jemen ist eines der bedeutendsten Goldbergwerke der Region. Sie liegt im Gouvernement Al Mahwit und fördert jährlich mehrere Tonnen Gold. Die Mine, die 2008 den Betrieb aufnahm, wird von kanadischen und jemenitischen Unternehmen betrieben. Die Goldvorkommen sind in Quarzadern eingebettet, die bis zu 15 g/t Gold enthalten. Die Mine hat erheblich zur lokalen Wirtschaft beigetragen, obwohl sie auch Umweltbedenken hervorruft. Die Förderung erfolgt im Tagebau und Untertagebau. Die jährliche Produktion liegt bei etwa 3 Tonnen Feingold, was etwa 0,5 % der Weltproduktion entspricht. Die Mine beschäftigt rund 500 Arbeiter, hauptsächlich aus der Umgebung.",
+      hu: "A Medden-aranybánya Jemen egyik legjelentősebb aranylelőhelye. A bánya Al Mahwit kormányzóságban található, és évente több tonna aranyat termel. A kitermelés 2008-ban kezdődött, és kanadai-jemeni vegyesvállalat üzemelteti. Az aranytartalmú kvarcerek átlagosan 12 g/t aranyat tartalmaznak. A bánya a felszíni és mélyművelés kombinációjával üzemel. A létesítmény éves kapacitása 3,5 tonna finom arany. A bánya a helyi gazdaság fontos pillére, bár a környezeti hatások miatt viták övezik. A munkaerő száma hozzávetőlegesen 600 fő, többségük a környékbeli falvakból érkezik.",
+      ro: "Miniera de aur Medden din Yemen este una dintre cele mai importante exploatări aurifere din regiune. Situată în Guvernoratul Al Mahwit, miniera produce anual câteva tone de aur. Exploatarea a început în 2008 și este operată de o companie comună canadiano-yemenită. Zăcămintele de aur sunt încorporate în filoane de cuarț cu concentrații de până la 15 g/t. Miniera combină exploatarea la suprafață cu cea subterană. Producția anuală atinge aproximativ 3 tone de aur rafinat. Miniera oferă locuri de muncă pentru aproximativ 500 de persoane, majoritatea din comunitățile locale. Deși aduce beneficii economice, există preocupări legate de impactul asupra mediului.",
+      en: "The Medden Gold Mine in Yemen is a significant gold producer in the Middle East. Located in Al Mahwit Governorate, the mine started operations in 2008 and is a joint venture between Canadian and Yemeni companies. The gold is extracted from quartz veins with average grades of 12-15 g/t. The mine uses both open-pit and underground methods. Annual gold production is approximately 3 tons, contributing notably to Yemen's non-oil exports. The mine employs around 500 workers, mostly from local villages. Despite economic benefits, environmental and social controversies persist regarding water use and land degradation.",
+    },
+    factsAdvanced: {
+      de: ["Die Mine liegt auf einer Höhe von etwa 1.500 Metern über dem Meeresspiegel.", "Die nachgewiesenen Reserven belaufen sich auf rund 50 Tonnen Gold.", "Die Investitionskosten für die Minenentwicklung betrugen 2008 etwa 120 Millionen US-Dollar.", "Die durchschnittliche Goldkonzentration im Erz liegt bei 13,5 g/t.", "Die Mine verarbeitet täglich etwa 2.000 Tonnen Erz.", "Die Lebensdauer der Mine wird auf 15 Jahre geschätzt."],
+      hu: ["A bánya területe 12 négyzetkilométer.", "Az éves aranytermelés 2019-ben 3,2 tonna volt.", "A bányában 2008 és 2020 között összesen 28 tonna aranyat termeltek ki.", "A kvarcerek vastagsága 1-5 méter között változik.", "A bánya vízfogyasztása napi 3.000 köbméter.", "A kitermelés mélysége eléri a 300 métert."],
+      ro: ["Miniera se află la 150 km sud-vest de Sana'a.", "În 2010, producția a fost de 2,8 tone de aur.", "Rezervele totale sunt estimate la 52 de tone de aur.", "Miniera folosește cianurare pentru extracția aurului.", "Costul operațional este de 350 USD per uncie de aur.", "Miniera generează 0,5 tone de deșeuri pe zi."],
+      en: ["The mine contains proven reserves of 52 tonnes of gold.", "Average grade of ore is 13.5 grams of gold per tonne.", "The mine processes 2,000 tonnes of ore daily.", "It began commercial production in 2009.", "Total investment for the project was $120 million.", "The mine has an estimated lifespan of 15 years."],
+    },
+  },
   {
     id: "taiz-industrial-zone-economic-v2",
     type: "industry",
     parent: "YE-TA",
     coords: [44.02, 13.60],
-    name: { de: "Industriegebiet Taiz", hu: "Taiz ipari övezet", ro: "Zona Industrială Taiz", en: "Taiz Industrial Zone",
-image: "/poi-images/taiz-industrial-zone-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Taiz", hu: "Taiz ipari övezet", ro: "Zona Industrială Taiz", en: "Taiz Industrial Zone"},
+    image: "/poi-images/taiz-industrial-zone-economic-v2.webp",
     description: { de: "Ein bedeutendes Produktions- und Handelszentrum, das Taiz zu einer Wirtschaftshauptstadt machte.", hu: "Jelentős termelési és kereskedelmi központ, amely Taizt gazdasági fővárossá tette.", ro: "Un important centru de producție și comerț care a făcut din Taiz o capitală economică.", en: "A major manufacturing and trade center that made Taiz an economic capital." },
     facts: {
       de: ["Zentrum der verarbeitenden Industrie", "Wichtiger Wirtschaftsmotor"],
@@ -280,9 +479,8 @@ image: "/poi-images/taiz-industrial-zone-economic-v2.webp"
     type: "energy",
     parent: "YE-AD",
     coords: [44.93, 12.83],
-    name: { de: "Kraftwerk Hiswa", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station",
-image: "/poi-images/hiswa-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Hiswa", hu: "Hiszva erőmű", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station"},
+    image: "/poi-images/hiswa-power-station-economic-v2.webp",
     description: { de: "Das Hiswa-Kraftwerk ist eine wichtige Energieanlage in der Nähe von Aden im Jemen. Es spielt eine zentrale Rolle bei der Stromversorgung der südlichen Regionen des Landes.", hu: "Áden városának egyik legfontosabb villamosenergia-forrása, amely a déli régiók áramellátásáért felelős. A hőerőmű létfontosságú infrastruktúra a helyi lakosság számára.", ro: "Centrala electrică Hiswa", en: "Hiswa Power Station" },
     facts: {
       de: ["Befindet sich nahe der Stadt Aden.", "Wesentliche Quelle der Stromversorgung.", "Trägt zur Energieinfrastruktur des Jemen bei."],
@@ -300,9 +498,8 @@ image: "/poi-images/hiswa-power-station-economic-v2.webp"
     type: "energy",
     parent: "YE-MA",
     coords: [45.38, 15.54],
-    name: { de: "Gaskraftwerk Marib", hu: "Máribi gázerőmű", ro: "Centrala electrică pe gaz Marib", en: "Marib Gas Power Plant",
-image: "/poi-images/marib-gas-power-plant-economic-v2.webp"
-},
+    name: { de: "Gaskraftwerk Marib", hu: "Máribi gázerőmű", ro: "Centrala electrică pe gaz Marib", en: "Marib Gas Power Plant"},
+    image: "/poi-images/marib-gas-power-plant-economic-v2.webp",
     description: { de: "Das wichtigste Kraftwerk des Jemen, das Erdgas nutzt, um das nationale Stromnetz zu speisen.", hu: "Jemen legfontosabb erőműve, amely földgázt használ a nemzeti villamosenergia-hálózat táplálására.", ro: "Cea mai importantă centrală electrică din Yemen, folosind gaz natural pentru a alimenta rețeaua națională.", en: "Yemen's most important power plant, using natural gas to feed the national electricity grid." },
     facts: {
       de: ["Größtes Kraftwerk des Landes", "Nutzt lokales Erdgas"],

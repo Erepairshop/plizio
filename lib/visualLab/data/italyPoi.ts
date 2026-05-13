@@ -450,64 +450,6 @@ export const italyCities: POI[] = [
     image: "/geo-images/italy/pompeii.webp",
   },
   {
-    id: "etna",
-    type: "landmark",
-    parent: "reg-sicilia",
-    coords: [14.9969, 37.751],
-    name: { de: "Čtna", hu: "Etna", ro: "Etna", en: "Mount Etna" },
-    
-    
-    description: {
-          "en": "Mount Etna, situated on the east coast of Sicily, is the highest and most active volcano in Europe. Soaring to over 3,300 meters, its elevation changes frequently due to summit eruptions and subsequent collapses. The volcano's rich, fertile soils support extensive agriculture, including vineyards, orchards, and olive groves spread across its lower slopes. Mount Etna has been erupting for half a million years, with a documented history of historical eruptions that stretch back to ancient times. Recognized as a UNESCO World Heritage site, it remains a captivating destination for tourists and a living laboratory for volcanologists.",
-          "de": "Der Čtna, an der Ostküste Siziliens gelegen, ist der höchste und aktivste Vulkan Europas. Er erhebt sich auf über 3.300 Meter, wobei sich seine Höhe aufgrund von Gipfeleruptionen und anschließenden Einstürzen häufig ändert. Die reichen, fruchtbaren Böden des Vulkans unterstützen eine umfangreiche Landwirtschaft, darunter Weinberge, Obstgärten und Olivenhaine, die sich über seine unteren Hänge erstrecken. Der Čtna bricht seit einer halben Million Jahren aus, mit einer dokumentierten Geschichte historischer Eruptionen, die bis in die Antike zurückreicht. Er ist als UNESCO-Weltkulturerbe anerkannt und bleibt ein faszinierendes Reiseziel für Touristen und ein lebendes Labor für Vulkanologen.",
-          "hu": "A Szicília keleti partján fekvő Etna Európa legmagasabb és legaktívabb vulkánja. Több mint 3300 méter magasra emelkedik, magassága a csúcskitörések és az azt követő omlások miatt gyakran változik. A vulkán gazdag, termékeny talaja kiterjedt mezőgazdaságot támogat, beleértve a szőlőültetvényeket, gyümölcsösöket és olajfaligeteket, amelyek az alsó lejtőin terülnek el. Az Etna félmillió éve tör ki, történelmi kitöréseinek dokumentált története egészen az ókorig nyúlik vissza. Az UNESCO világörökség részeként elismert vulkán továbbra is a turisták lenyűgöző célpontja és a vulkanológusok élő laboratóriuma.",
-          "ro": "Muntele Etna, situat pe coasta de est a Siciliei, este cel mai înalt și cel mai activ vulcan din Europa. Ridicându-se la peste 3.300 de metri, elevația sa se schimbă frecvent din cauza erupțiilor de la vârf și a prăbușirilor ulterioare. Solurile bogate și fertile ale vulcanului susțin o agricultură extinsă, inclusiv podgorii, livezi și plantații de măslini răspândite pe versanții săi inferiori. Muntele Etna erupe de o jumătate de milion de ani, având o istorie documentată a erupțiilor care se întinde până în cele mai vechi timpuri. Recunoscut ca sit al Patrimoniului Mondial UNESCO, rămâne o destinație captivantă pentru turiști și un laborator viu pentru vulcanologi."
-    },
-    facts: {
-          "en": [
-                "Mount Etna is one of the most active volcanoes in the world.",
-                "In Greek mythology, the deadly monster Typhon was trapped under the mountain.",
-                "The circumetnea railway offers a scenic route around the volcano's base.",
-                "Etna's eruptions are generally classified as 'effusive' and not extremely explosive.",
-                "The mountain features several active craters at the summit.",
-                "During winter, Etna's slopes are covered in snow, allowing for skiing.",
-                "It was added to the UNESCO World Heritage list in 2013.",
-                "The volcanic soil produces unique and highly prized DOC wines."
-          ],
-          "de": [
-                "Der Čtna ist einer der aktivsten Vulkane der Welt.",
-                "In der griechischen Mythologie war das tödliche Monster Typhon unter dem Berg gefangen.",
-                "Die Circumetnea-Eisenbahn bietet eine malerische Route um die Basis des Vulkans.",
-                "Die Ausbrüche des Čtna werden im Allgemeinen als 'effusiv' und nicht extrem explosiv eingestuft.",
-                "Der Berg verfügt über mehrere aktive Krater am Gipfel.",
-                "Im Winter sind die Hänge des Čtna mit Schnee bedeckt, was das Skifahren ermöglicht.",
-                "Er wurde 2013 in die Liste des UNESCO-Weltkulturerbes aufgenommen.",
-                "Der vulkanische Boden produziert einzigartige und hoch geschätzte DOC-Weine."
-          ],
-          "hu": [
-                "Az Etna a világ egyik legaktívabb vulkánja.",
-                "A görög mitológiában a halálos szörnyeteg, Tüphón a hegy alatt rekedt.",
-                "A circumetnea vasút festői útvonalat kínál a vulkán lába körül.",
-                "Az Etna kitöréseit általában 'effuzívnak', és nem rendkívül robbanásveszélyesnek minősítik.",
-                "A hegy csúcsán számos aktív kráter található.",
-                "Télen az Etna lejtőit hó borítja, ami lehetővé teszi a síelést.",
-                "2013-ban felvették az UNESCO világörökségi listájára.",
-                "A vulkáni talaj egyedi és nagyra értékelt DOC borokat hoz létre."
-          ],
-          "ro": [
-                "Muntele Etna este unul dintre cei mai activi vulcani din lume.",
-                "În mitologia greacă, monstrul mortal Typhon a fost prins sub munte.",
-                "Calea ferată circumetnea oferă un traseu pitoresc în jurul bazei vulcanului.",
-                "Erupțiile Etnei sunt în general clasificate ca 'efuzive' și nu extrem de explozive.",
-                "Muntele prezintă mai multe cratere active la vârf.",
-                "În timpul iernii, versanții Etnei sunt acoperiți de zăpadă, permițând schiatul.",
-                "A fost adăugat pe lista Patrimoniului Mondial UNESCO în 2013.",
-                "Solul vulcanic produce vinuri DOC unice și foarte apreciate."
-          ]
-    },
-    image: "/geo-images/italy/etna.webp",
-  },
-  {
     id: "vatican",
     type: "landmark",
     parent: "rome",
@@ -564,64 +506,6 @@ export const italyCities: POI[] = [
           ]
     },
     image: "/geo-images/italy/vatican.webp",
-  },
-  {
-    id: "it-pompei-full",
-    type: "historical",
-    parent: "IT-72",
-    coords: [14.487, 40.749],
-    name: { de: "Pompeji", hu: "Pompeji", ro: "Pompei", en: "Pompeii" },
-    
-    
-    description: {
-          "en": "The ancient Roman city of Pompeii, famously buried during the devastating eruption of Mount Vesuvius in 79 AD, stands as an unparalleled archaeological treasure. Preserved under a thick layer of volcanic ash and pumice, the city was frozen in time, capturing the intricate details of a thriving urban center. Today, extensive excavations reveal remarkably intact homes, grand temples, bathhouses, and moving plaster casts of the victims. Pompeii provides an extraordinary window into the daily life, art, and architecture of the ancient Roman world. It remains one of the most vital and evocative archaeological sites globally.",
-          "de": "Die antike römische Stadt Pompeji, die 79 n. Chr. beim verheerenden Ausbruch des Vesuvs auf berühmte Weise verschüttet wurde, ist ein unvergleichlicher archäologischer Schatz. Unter einer dicken Schicht aus Vulkanasche und Bimsstein konserviert, fror die Stadt in der Zeit ein und hielt die komplizierten Details eines blühenden städtischen Zentrums fest. Heute offenbaren umfangreiche Ausgrabungen bemerkenswert intakte Häuser, große Tempel, Badehäuser und bewegende Gipsabgüsse der Opfer. Pompeji bietet ein außergewöhnliches Fenster in das tägliche Leben, die Kunst und die Architektur der antiken römischen Welt. Es bleibt eine der wichtigsten und eindrucksvollsten archäologischen Stätten weltweit.",
-          "hu": "Pompeji ókori római városa, amelyet a Vezúv Kr. u. 79-es pusztító kitörése temetett maga alá, páratlan régészeti kincs. A vastag vulkáni hamu- és habkőréteg alatt megőrződött város megfagyott az időben, megörökítve egy virágzó városi központ bonyolult részleteit. Ma kiterjedt ásatások tárják fel a figyelemre méltóan érintetlen otthonokat, nagyszerű templomokat, fürdőházakat és az áldozatok megindító gipszmásolatait. Pompeji rendkívüli ablakot nyit az ókori római világ mindennapi életére, művészetére és építészetére. Továbbra is az egyik legfontosabb és legkifejezőbb régészeti lelőhely a világon.",
-          "ro": "Anticul oraș roman Pompei, îngropat în mod faimos în timpul erupției devastatoare a Vezuviului în 79 d.Hr., reprezintă o comoară arheologică de neegalat. Conservat sub un strat gros de cenușă vulcanică și piatră ponce, orașul a fost înghețat în timp, surprinzând detaliile complicate ale unui centru urban înfloritor. Astăzi, săpăturile extinse scot la iveală case remarcabil de intacte, temple mărețe, băi publice și mulaje emoționante din ipsos ale victimelor. Pompei oferă o fereastră extraordinară către viața de zi cu zi, arta și arhitectura lumii romane antice. Rămâne unul dintre cele mai vitale și evocatoare situri arheologice la nivel global."
-    },
-    facts: {
-          "en": [
-                "Pompeii was a flourishing Roman commercial center before its destruction.",
-                "The city was buried under 4 to 6 meters of volcanic ash.",
-                "Excavations began in earnest under the Bourbon King Charles III in 1748.",
-                "The Forum was the economic, religious, and political center of the city.",
-                "Pompeii featured numerous 'thermopolia' (ancient fast-food stalls).",
-                "A complex aqueduct system supplied water to public fountains and private villas.",
-                "Vivid frescoes in Pompeii display a wide range of colors, including 'Pompeian red'.",
-                "It was recognized as a UNESCO World Heritage site in 1997."
-          ],
-          "de": [
-                "Pompeji war vor seiner Zerstörung ein blühendes römisches Handelszentrum.",
-                "Die Stadt wurde unter 4 bis 6 Metern Vulkanasche begraben.",
-                "Die Ausgrabungen begannen im Jahr 1748 unter dem Bourbonenkönig Karl III.",
-                "Das Forum war das wirtschaftliche, religiöse und politische Zentrum der Stadt.",
-                "Pompeji verfügte über zahlreiche 'Thermopolia' (antike Fast-Food-Stände).",
-                "Ein komplexes Aquäduktsystem versorgte öffentliche Brunnen und private Villen mit Wasser.",
-                "Lebhafte Fresken in Pompeji zeigen eine große Farbvielfalt, darunter 'Pompejanisches Rot'.",
-                "Es wurde 1997 als UNESCO-Weltkulturerbe anerkannt."
-          ],
-          "hu": [
-                "Pompeji pusztulása előtt virágzó római kereskedelmi központ volt.",
-                "A várost 4-6 méteres vulkáni hamu temette maga alá.",
-                "Az ásatások komolyan III. Károly Bourbon király uralkodása alatt, 1748-ban kezdődtek.",
-                "A Forum volt a város gazdasági, vallási és politikai központja.",
-                "Pompejiben számos 'thermopolia' (ókori gyorsétterem) működött.",
-                "Egy komplex vízvezetékrendszer látta el vízzel a nyilvános szökőkutakat és a magánvillákat.",
-                "A pompeji élénk freskók a színek széles skáláját mutatják be, beleértve a 'pompeji vöröset' is.",
-                "1997-ben az UNESCO világörökség részévé nyilvánították."
-          ],
-          "ro": [
-                "Pompei a fost un centru comercial roman înfloritor înainte de distrugerea sa.",
-                "Orașul a fost îngropat sub 4 până la 6 metri de cenușă vulcanică.",
-                "Săpăturile au început serios sub regele Bourbon Carol al III-lea în 1748.",
-                "Forumul a fost centrul economic, religios și politic al orașului.",
-                "Pompei avea numeroase 'thermopolia' (tarabe antice de fast-food).",
-                "Un sistem complex de apeducte furniza apă fântânilor publice și vilelor private.",
-                "Frescele vii din Pompei prezintă o gamă largă de culori, inclusiv 'roșu pompeian'.",
-                "A fost recunoscut ca sit al Patrimoniului Mondial UNESCO în 1997."
-          ]
-    },
-    image: "/geo-images/italy/it-pompei-full.webp"
   },
   {
     id: "it-herculaneum",
@@ -1844,26 +1728,6 @@ export const italyCities: POI[] = [
     image: "/geo-images/italy/it-ravenna.webp"
   },
   {
-    id: "it-trieste",
-    type: "city",
-    parent: "IT-36",
-    coords: [13.776, 45.650],
-    name: { de: "Triest", hu: "Trieszt", ro: "Trieste", en: "Trieste" },
-    description: {
-      en: "Trieste is a captivating seaport city in northeastern Italy, located on a narrow strip of land nestled between the Adriatic Sea and Slovenia. For centuries, it served as the vital principal port of the Austro-Hungarian Empire, an influence still visible in its grand Viennese architecture and vibrant coffeehouse culture. The city uniquely blends Italian, Slavic, and Germanic traditions, creating a deeply cosmopolitan and literary atmosphere. The beautiful Piazza dell'UnitÁ  d'Italia is one of the largest sea-facing squares in Europe. Trieste remains a bustling hub of scientific research and maritime commerce.",
-      de: "Triest ist eine faszinierende Hafenstadt im Nordosten Italiens, gelegen auf einem schmalen Landstreifen zwischen der Adria und Slowenien. Jahrhundertelang diente sie als wichtigster Hafen der Österreichisch-Ungarischen Monarchie, ein Einfluss, der in ihrer großartigen Wiener Architektur und der lebendigen Kaffeehauskultur noch immer sichtbar ist. Die Stadt verbindet auf einzigartige Weise italienische, slawische und germanische Traditionen und schafft so eine zutiefst weltoffene und literarische Atmosphäre. Die wunderschöne Piazza dell'UnitÁ  d'Italia ist einer der größten zum Meer ausgerichteten Plätze Europas. Triest bleibt ein geschäftiges Zentrum für wissenschaftliche Forschung und Seehandel.",
-      hu: "Trieszt egy lenyűgöző kikötőváros Északkelet-Olaszországban, amely egy keskeny földsávon fekszik az Adriai-tenger és Szlovénia között. Évszázadokon át az Osztrák-Magyar Monarchia létfontosságú fő kikötőjeként szolgált, és ez a hatás ma is látható nagyszerű bécsi építészetében és élénk kávéházi kultúrájában. A város egyedülálló módon ötvözi az olasz, szláv és germán hagyományokat, mélyen kozmopolita és irodalmi légkört teremtve. A gyönyörű Piazza dell'UnitÁ  d'Italia az egyik legnagyobb tengerre néző tér Európában. Trieszt továbbra is a tudományos kutatás és a tengeri kereskedelem nyüzsgő központja.",
-      ro: "Trieste este un oraș portuar captivant în nord-estul Italiei, situat pe o fâșie îngustă de pământ, cuibărită între Marea Adriatică și Slovenia. Timp de secole, a servit drept port principal vital al Imperiului Austro-Ungar, o influență încă vizibilă în măreața sa arhitectură vieneză și în cultura vibrantă a cafenelelor. Orașul îmbină în mod unic tradițiile italiene, slave și germanice, creând o atmosferă profund cosmopolită și literară. Frumoasa Piazza dell'UnitÁ  d'Italia este una dintre cele mai mari piețe cu deschidere la mare din Europa. Trieste rămâne un centru plin de viață al cercetării științifice și al comerțului maritim."
-    },
-    facts: {
-      en: ["Trieste was the main seaport of the Habsburg Monarchy from 1382 to 1918.","The writer James Joyce lived in Trieste for over a decade and wrote parts of 'Ulysses' there.","It is considered the coffee capital of Italy, home to the famous Illy brand.","Piazza dell'UnitÁ  d'Italia is the largest square in Europe directly facing the sea.","The Miramare Castle, built by Archduke Maximilian of Habsburg, overlooks the Gulf of Trieste.","Following WWII, the city was part of the 'Free Territory of Trieste' before returning to Italy in 1954.","The city is known for the Bora, a strong and cold katabatic wind.","Trieste has one of the highest concentrations of researchers in Europe."],
-      de: ["Triest war von 1382 bis 1918 der wichtigste Seehafen der Habsburgermonarchie.","Der Schriftsteller James Joyce lebte über ein Jahrzehnt in Triest und schrieb dort Teile von 'Ulysses'.","Es gilt als Kaffeehauptstadt Italiens, Heimat der berühmten Marke Illy.","Die Piazza dell'UnitÁ  d'Italia ist der größte Platz in Europa, der direkt dem Meer zugewandt ist.","Das von Erzherzog Maximilian von Habsburg erbaute Schloss Miramare überblickt den Golf von Triest.","Nach dem Zweiten Weltkrieg war die Stadt Teil des 'Freien Territoriums Triest', bevor sie 1954 an Italien zurückfiel.","Die Stadt ist bekannt für die Bora, einen starken und kalten Fallwind.","Triest hat eine der höchsten Dichten an Forschern in Europa."],
-      hu: ["Trieszt a Habsburg Monarchia fő tengeri kikötője volt 1382-től 1918-ig.","James Joyce író több mint egy évtizedig élt Triesztben, és itt írta az 'Ulysses' egyes részeit.","Olaszország kávéfővárosának tartják, itt található a híres Illy márka központja.","A Piazza dell'UnitÁ  d'Italia a legnagyobb olyan tér Európában, amely közvetlenül a tengerre néz.","A Habsburg Miksa főherceg által építtetett Miramare-kastély a Trieszti-öbölre néz.","A II. világháború után a város a 'Trieszti Szabad Terület' része volt, mielőtt 1954-ben visszatért Olaszországhoz.","A város a Boráról, egy erős és hideg bukószélről ismert.","Triesztben az egyik legmagasabb a kutatók koncentrációja Európában."],
-      ro: ["Trieste a fost principalul port maritim al Monarhiei Habsburgice din 1382 până în 1918.","Scriitorul James Joyce a locuit în Trieste peste un deceniu și a scris părți din 'Ulise' acolo.","Este considerată capitala cafelei din Italia, sediul faimosului brand Illy.","Piazza dell'UnitÁ  d'Italia este cea mai mare piață din Europa situată direct la mare.","Castelul Miramare, construit de Arhiducele Maximilian de Habsburg, are vedere la Golful Trieste.","După al Doilea Război Mondial, orașul a făcut parte din 'Teritoriul Liber Trieste' înainte de a reveni Italiei în 1954.","Orașul este cunoscut pentru Bora, un vânt catabatic puternic și rece.","Trieste are una dintre cele mai mari concentrații de cercetători din Europa."]
-    },
-    image: "/geo-images/italy/it-trieste.webp"
-  },
-  {
     id: "it-padova",
     type: "city",
     parent: "IT-34",
@@ -2124,26 +1988,6 @@ export const italyCities: POI[] = [
     image: "/geo-images/italy/dolomiti.webp"
   },
   {
-    id: "lake-garda",
-    type: "landmark",
-    parent: "reg-lombardia",
-    coords: [10.66, 45.65],
-    name: { de: "Gardasee", hu: "Garda-tÁƒ³", ro: "Lacul Garda", en: "Lake Garda" },
-    description: {
-      en: "Lake Garda is Italy's largest lake, stretching between the Alps and the Po Valley. Its clear water, resort towns, and mix of mountain and Mediterranean landscapes make it a classic holiday destination.",
-      de: "Der Gardasee ist Italiens grÁƒÂ¶ÁƒŁ¸ter See und liegt zwischen den Alpen und der Poebene. Sein klares Wasser, die Ferienorte und die Mischung aus Berg- und Mittelmeerlandschaften machen ihn zu einem klassischen Urlaubsziel.",
-      hu: "A Garda-tÁƒ³ OlaszorszÁƒÂ¡g legnagyobb tava, amely az Alpok ÁƒÂ©s a PÁƒ³-sÁƒÂ­ksÁƒÂ¡g kÁƒÂ¶zÁƒÂ¶tt terÁƒÂ¼l el. Tiszta vize, ÁƒÂ¼dÁƒÂ¼lÁ…‘vÁƒÂ¡rosai ÁƒÂ©s a hegyi ÁƒÂ©s mediterrÁƒÂ¡n tÁƒÂ¡j keverÁƒÂ©ke klasszikus ÁƒÂ¼dÁƒÂ¼lÁ…‘hellyÁƒÂ© teszik.",
-      ro: "Lacul Garda este cel mai mare lac din Italia, ÁƒÂ®ntinzÁƒÂ¢ndu-se ÁƒÂ®ntre Alpi Èâ„¢i CÁƒÂ¢mpia Padului. Apa sa limpede, oraÈâ„¢ele de staÈ”ºiune Èâ„¢i amestecul de peisaje montane Èâ„¢i mediteraneene ÁƒÂ®l fac o destinaÈ”ºie clasicČÆ’ de vacanÈ”ºČÆ’."
-    },
-    facts: {
-      en: ["It is popular for sailing, windsurfing, and lakeside cycling routes.", "The southern shores are milder and more Mediterranean than the northern end."],
-      de: ["Er ist beliebt zum Segeln, Windsurfen und fÁƒÂ¼r Radwege am Ufer.", "Das sÁƒÂ¼dliche Ufer ist milder und mediterraner als der Norden."],
-      hu: ["NÁƒÂ©pszerÁ…Â± a vitorlÁƒÂ¡zÁƒÂ¡s, a szÁƒÂ©rf ÁƒÂ©s a tÁƒ³parti kerÁƒÂ©kpÁƒÂ¡rutak miatt.", "A dÁƒÂ©li partok enyhÁƒÂ©bbek ÁƒÂ©s mediterrÁƒÂ¡nabb jellegÁ…Â±ek, mint az ÁƒÂ©szaki vÁƒÂ©g."],
-      ro: ["Este popular pentru navigaÈ”ºie, windsurfing Èâ„¢i trasee de ciclism de-a lungul lacului.", "Malurile sudice sunt mai blÁƒÂ¢nde Èâ„¢i mai mediteraneene decÁƒÂ¢t capČÆ’tul nordic."]
-    },
-    image: "/geo-images/italy/lake-garda.webp"
-  },
-  {
     id: "amalfi-coast",
     type: "landmark",
     parent: "reg-campania",
@@ -2162,26 +2006,6 @@ export const italyCities: POI[] = [
       ro: ["Coasta este presČÆ’ratČÆ’ cu oraÈâ„¢e precum Positano, Amalfi Èâ„¢i Ravello.", "Terasele abrupte susÈ”ºin de secole lČÆ’mÁƒÂ¢i, mČÆ’sline Èâ„¢i viÈ”ºČÆ’ de vie."]
     },
     image: "/geo-images/italy/amalfi-coast.webp"
-  },
-  {
-    id: "lake-como",
-    type: "landmark",
-    parent: "reg-lombardia",
-    coords: [9.23, 46.01],
-    name: { de: "Comer See", hu: "ComÁƒ³i-tÁƒ³", ro: "Lacul Como", en: "Lake Como" },
-    description: {
-      en: "Lake Como is a deep, elegant lake in Lombardy surrounded by mountains, villas, and historic towns. Its Y-shaped shoreline and refined atmosphere have made it a favorite retreat for travelers for centuries.",
-      de: "Der Comer See ist ein tiefer, eleganter See in der Lombardei, umgeben von Bergen, Villen und historischen Orten. Seine Y-fÁƒÂ¶rmige Uferlinie und seine elegante AtmosphÁƒÂ¤re machen ihn seit Jahrhunderten zu einem beliebten RÁƒÂ¼ckzugsort.",
-      hu: "A ComÁƒ³i-tÁƒ³ egy mÁƒÂ©ly, elegÁƒÂ¡ns lombardiai tÁƒ³, amelyet hegyek, villÁƒÂ¡k ÁƒÂ©s tÁƒÂ¶rtÁƒÂ©nelmi vÁƒÂ¡rosok vesznek kÁƒÂ¶rÁƒÂ¼l. Y alakÁƒÂº partvonala ÁƒÂ©s kifinomult hangulata ÁƒÂ©vszÁƒÂ¡zadok Áƒ³ta kedvelt ÁƒÂºti cÁƒÂ©llÁƒÂ¡ teszi.",
-      ro: "Lacul Como este un lac adÁƒÂ¢nc Èâ„¢i elegant din Lombardia, ÁƒÂ®nconjurat de munÈ”ºi, vile Èâ„¢i oraÈâ„¢e istorice. Linia sa de coastČÆ’ ÁƒÂ®n formČÆ’ de Y Èâ„¢i atmosfera rafinatČÆ’ l-au transformat de secole ÁƒÂ®ntr-un refugiu preferat."
-    },
-    facts: {
-      en: ["Its towns and villas are linked by ferries and scenic lakeside roads.", "The lake has long been associated with silk production and aristocratic villas."],
-      de: ["Seine Orte und Villen sind durch FÁƒÂ¤hren und malerische UferstraÁƒŁ¸en verbunden.", "Der See wird seit langem mit Seidenproduktion und Adelssitzen verbunden."],
-      hu: ["VÁƒÂ¡rosai ÁƒÂ©s villÁƒÂ¡i kompokkal ÁƒÂ©s festÁ…‘i tÁƒ³parti utakkal kapcsolÁƒ³dnak.", "A tÁƒ³t rÁƒÂ©gÁƒ³ta a selyemgyÁƒÂ¡rtÁƒÂ¡ssal ÁƒÂ©s arisztokrata villÁƒÂ¡kkal hozzÁƒÂ¡k kapcsolatba."],
-      ro: ["OraÈâ„¢ele Èâ„¢i vilele sale sunt legate prin feriboturi Èâ„¢i drumuri pitoreÈâ„¢ti de-a lungul lacului.", "Lacul a fost asociat de mult timp cu producÈ”ºia de mČÆ’tase Èâ„¢i vile aristocratice."]
-    },
-    image: "/geo-images/italy/lake-como.webp"
   },
   {
     id: "uffizi",
@@ -2262,46 +2086,6 @@ export const italyCities: POI[] = [
       ro: ["AdČÆ’postesc peste 70.000 de lucrČÆ’ri de artČÆ’ ÁƒÂ®n mai multe muzee Èâ„¢i galerii.", "Traseul muzeului duce mulÈ”ºi vizitatori direct la Capela SixtinČÆ’."]
     },
     image: "/geo-images/italy/vatican-museums.webp"
-  },
-  {
-    id: "herculaneum",
-    type: "historical",
-    parent: "reg-campania",
-    coords: [14.356, 40.806],
-    name: { de: "Herculaneum", hu: "Herculaneum", ro: "Herculaneum", en: "Herculaneum" },
-    description: {
-      en: "Herculaneum was an affluent Roman town buried by the eruption of Mount Vesuvius in 79 AD. Unlike Pompeii, it was preserved by dense volcanic mud, which protected wood, food, and entire interiors in remarkable detail.",
-      de: "Herculaneum war eine wohlhabende rÁƒÂ¶mische Stadt, die beim Ausbruch des Vesuvs im Jahr 79 n. Chr. verschÁƒÂ¼ttet wurde. Anders als Pompeji wurde sie durch dichten vulkanischen Schlamm bewahrt, der Holz, Nahrung und ganze InnenrÁƒÂ¤ume erstaunlich detailreich schÁƒÂ¼tzte.",
-      hu: "Herculaneum egy tehetÁ…‘s rÁƒ³mai vÁƒÂ¡ros volt, amelyet a VezÁƒÂºv Kr. u. 79-es kitÁƒÂ¶rÁƒÂ©se temetett maga alÁƒÂ¡. Pompejivel ellentÁƒÂ©tben sÁ…Â±rÁ…Â± vulkÁƒÂ¡ni sÁƒÂ¡r Á…‘rizte meg, amely a fÁƒÂ¡t, az ÁƒÂ©lelmet ÁƒÂ©s a teljes belsÁ…‘ tereket is rendkÁƒÂ­vÁƒÂ¼li rÁƒÂ©szletessÁƒÂ©ggel vÁƒÂ©dte meg.",
-      ro: "Herculaneum a fost un oraÈâ„¢ roman prosper, ÁƒÂ®ngropat de erupÈ”ºia Vezuviului din anul 79 d.Hr. Spre deosebire de Pompei, a fost conservat de noroiul vulcanic dens, care a protejat lemnul, hrana Èâ„¢i interioarele complete ÁƒÂ®n detaliu remarcabil."
-    },
-    facts: {
-      en: ["The site preserves wooden beams, doors, and even carbonized food remains.", "It is smaller than Pompeii but often considered better preserved."],
-      de: ["Die StÁƒÂ¤tte bewahrt Holzbalken, TÁƒÂ¼ren und sogar verkohlte Speisereste.", "Sie ist kleiner als Pompeji, gilt aber oft als besser erhalten."],
-      hu: ["A lelÁ…‘hely fagerendÁƒÂ¡kat, ajtÁƒ³kat ÁƒÂ©s mÁƒÂ©g elszenesedett ÁƒÂ©telmaradvÁƒÂ¡nyokat is megÁ…‘rzÁƒÂ¶tt.", "Kisebb, mint Pompeji, de gyakran jobb ÁƒÂ¡llapotban megÁ…‘rzÁƒÂ¶ttnek tartjÁƒÂ¡k."],
-      ro: ["Situl pČÆ’streazČÆ’ grinzi de lemn, uÈâ„¢i Èâ„¢i chiar resturi de hranČÆ’ carbonizate.", "Este mai mic decÁƒÂ¢t Pompei, dar adesea considerat mai bine conservat."]
-    },
-    image: "/geo-images/italy/herculaneum.webp"
-  },
-  {
-    id: "ostia-antica",
-    type: "historical",
-    parent: "reg-lazio",
-    coords: [12.2929, 41.7574],
-    name: { de: "Ostia Antica", hu: "Ostia Antica", ro: "Ostia Antica", en: "Ostia Antica" },
-    description: {
-      en: "Ostia Antica is the ancient harbor city of Rome, preserved today as a vast archaeological park. Its streets, apartment blocks, baths, and warehouses offer one of the clearest views of everyday life in the Roman world.",
-      de: "Ostia Antica ist die antike Hafenstadt Roms, die heute als weitlÁƒÂ¤ufiger ArchÁƒÂ¤ologiepark erhalten ist. Ihre StraÁƒŁ¸en, WohnblÁƒÂ¶cke, BÁƒÂ¤der und LagerhÁƒÂ¤user bieten einen der klarsten Einblicke in das Alltagsleben der rÁƒÂ¶mischen Welt.",
-      hu: "Ostia Antica RÁƒ³ma Áƒ³kori kikÁƒÂ¶tÁ…‘vÁƒÂ¡rosa, amely ma hatalmas rÁƒÂ©gÁƒÂ©szeti parkkÁƒÂ©nt maradt fenn. UtcÁƒÂ¡i, lakÁƒ³hÁƒÂ¡zai, fÁƒÂ¼rdÁ…‘i ÁƒÂ©s raktÁƒÂ¡rai az egyik legtisztÁƒÂ¡bb betekintÁƒÂ©st adjÁƒÂ¡k a rÁƒ³mai vilÁƒÂ¡g mindennapjaiba.",
-      ro: "Ostia Antica este vechiul oraÈâ„¢-port al Romei, pČÆ’strat astČÆ’zi ca un vast parc arheologic. StrČÆ’zile, blocurile de locuinÈ”ºe, bČÆ’ile Èâ„¢i magaziile sale oferČÆ’ una dintre cele mai clare perspective asupra vieÈ”ºii cotidiene din lumea romanČÆ’."
-    },
-    facts: {
-      en: ["It was Rome's main seaport before the rise of imperial harbors.", "Many mosaics and apartment buildings remain visible on site."],
-      de: ["Es war Roms wichtigster Seehafen, bevor die KaiserhÁƒÂ¤fen aufkamen.", "Viele Mosaike und WohngebÁƒÂ¤ude sind vor Ort noch sichtbar."],
-      hu: ["Ez volt RÁƒ³ma fÁ…‘ tengeri kikÁƒÂ¶tÁ…‘je, mielÁ…‘tt a csÁƒÂ¡szÁƒÂ¡ri kikÁƒÂ¶tÁ…‘k felÁƒÂ©rtÁƒÂ©kelÁ…‘dtek volna.", "Sok mozaik ÁƒÂ©s lakÁƒ³ÁƒÂ©pÁƒÂ¼let mÁƒÂ©g ma is lÁƒÂ¡thatÁƒ³ a helyszÁƒÂ­nen."],
-      ro: ["A fost principalul port maritim al Romei ÁƒÂ®nainte de apariÈ”ºia porturilor imperiale.", "Multe mozaicuri Èâ„¢i clČÆ’diri de apartamente rČÆ’mÁƒÂ¢n vizibile pe sit."]
-    },
-    image: "/geo-images/italy/ostia-antica.webp"
   },
   {
     id: "trevi-fountain",

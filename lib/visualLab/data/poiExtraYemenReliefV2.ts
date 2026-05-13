@@ -6,304 +6,539 @@ export const poiExtraYemenReliefV2: POI[] = [
     type: "mountain",
     parent: "YE-SN",
     coords: [43.9877, 15.2750],
-    name: { de: "Dschabal an-Nabi Schuʿaib", hu: "Dzsebel an-Nabi Suaib", ro: "Jabal An-Nabi Shu'ayb", en: "Jabal An-Nabi Shu'ayb",
-image: "/poi-images/jabal-an-nabi-shuayb-relief-v2.webp"
-},
+    name: { de: "Dschabal an-Nabi Schuʿaib", hu: "Dzsebel an-Nabi Suaib", ro: "Jabal An-Nabi Shu'ayb", en: "Jabal An-Nabi Shu'ayb"},
+    image: "/poi-images/jabal-an-nabi-shuayb-relief-v2.webp",
     description: { de: "Der höchste Berg im Jemen und auf der gesamten Arabischen Halbinsel, der eine atemberaubende Höhe von über 3.660 Metern erreicht.", hu: "Jemen és az egész Arab-félsziget legmagasabb hegye, amely több mint 3660 méteres magasságával lenyűgöző látványt nyújt.", ro: "Cel mai înalt munte din Yemen și din întreaga Peninsulă Arabică, atingând o altitudine uimitoare de peste 3.660 de metri.", en: "The highest mountain in Yemen and the entire Arabian Peninsula, reaching a staggering elevation of over 3,660 meters." },
     facts: {
       de: ["Höchster Berg der Arabischen Halbinsel.", "Höhe von 3.666 Metern."],
       hu: ["Az Arab-félsziget legmagasabb hegye.", "Magassága 3666 méter."],
       ro: ["Cel mai înalt munte din Peninsula Arabică.", "Are o altitudine de 3.666 metri."],
       en: ["Highest mountain in the Arabian Peninsula.", "Elevation reaches 3,666 meters."]
-    }, image: "/poi-images/jabal-an-nabi-shuayb-relief-v2.webp"},
+    }, image: "/poi-images/jabal-an-nabi-shuayb-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal An-Nabi Shu'ayb (Berg des Propheten Shu'ayb) ist mit einer Höhe von 3.666 Metern der höchste Gipfel des Jemen und der gesamten Arabischen Halbinsel. Er liegt im Gouvernement Sanaa, etwa 30 km südwestlich der Hauptstadt. Der Berg ist Teil des jemenitischen Hochlandes und besteht aus vulkanischen Gestein. Auf seinem Gipfel befindet sich ein kleines Heiligtum, das dem Propheten Shu'ayb gewidmet ist, einer Figur, die in drei abrahamitischen Religionen vorkommt. Das Klima ist kühl; im Winter fällt Schnee. Die umliegenden Täler sind dicht besiedelt und werden terrassiert bewirtschaftet. Der Berg ist ein beliebtes Ziel für Wanderer.",
+      hu: "A Jabal An-Nabi Shu'ayb (Suaib próféta hegye) Jemen és az Arab-félsziget legmagasabb csúcsa, 3666 méterrel. Sanaa kormányzóságban található, a fővárostól 30 km-re délnyugatra. A hegy vulkanikus kőzetekből áll, és tetején egy kis síremlék található Suaib prófétának szentelve, aki a zsidó-keresztény-iszlám hagyományban ismert. Az éghajlat hűvös, a téli hóesés gyakori. A lejtőkön teraszos mezőgazdaság folyik, gabonát és gyümölcsöt termesztenek. A hegy népszerű túracélpont. A csúcsról lenyűgöző kilátás nyílik a környező hegyekre.",
+      ro: "Jabal An-Nabi Shu'ayb (Muntele Profetului Shu'ayb) este cel mai înalt vârf din Yemen și din întreaga Peninsulă Arabică, cu o altitudine de 3.666 de metri. Este situat în guvernoratul Sanaa, la aproximativ 30 km sud-vest de capitală. Muntele este de origine vulcanică și are pe vârf un mic altar dedicat profetului Shu'ayb, o figură venerată în iudaism, creștinism și islam. Clima este rece, cu zăpadă iarna. Versanții sunt cultivați în terase cu cereale și fructe. Este o destinație populară pentru drumeții. De pe vârf se vede o panoramă spectaculoasă.",
+      en: "Jabal An-Nabi Shu'ayb (Mountain of the Prophet Shu'ayb) is the highest peak in Yemen and the Arabian Peninsula, standing at 3,666 meters. Located in Sanaa Governorate, 30 km southwest of Sanaa city, it is a volcanic mountain. A small shrine on the summit honors Prophet Shu'ayb, a figure recognized in Judaism, Christianity, and Islam. The climate is cold, with occasional winter snow. The slopes are terraced for agriculture, mainly grains and fruit. It is a popular hiking destination, offering panoramic views of the highlands.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3.666 m", "Gestein: Vulkangestein", "Durchschnittstemperatur im Januar: 5°C", "Niederschlag: 600 mm pro Jahr", "Entfernung von Sanaa: 30 km", "Anzahl der Besucher jährlich: ca. 5.000"],
+      hu: ["Magasság: 3.666 m", "Vulkáni kőzet", "Januári átlaghőmérséklet: 5°C", "Éves csapadék: 600 mm", "Távolság Sanaától: 30 km", "Éves látogatók száma: 5.000"],
+      ro: ["Altitudine: 3.666 m", "Tip rocă: vulcanică", "Temperatura medie în ianuarie: 5°C", "Precipitații anuale: 600 mm", "Distanță de Sanaa: 30 km", "Vizitatori pe an: aproximativ 5.000"],
+      en: ["Elevation: 3,666 m", "Rock type: volcanic", "Average January temperature: 5°C", "Annual precipitation: 600 mm", "Distance from Sanaa: 30 km", "Annual visitors: approx. 5,000"],
+    },
+  },
   {
     id: "wadi-hadhramaut-relief-v2",
     type: "valley",
     parent: "YE-HD",
     coords: [49.5000, 16.0000],
-    name: { de: "Wadi Hadramaut", hu: "Vádi Hadramaut", ro: "Wadi Hadhramaut", en: "Wadi Hadhramaut",
-image: "/poi-images/wadi-hadhramaut-relief-v2.webp"
-},
+    name: { de: "Wadi Hadramaut", hu: "Vádi Hadramaut", ro: "Wadi Hadhramaut", en: "Wadi Hadhramaut"},
+    image: "/poi-images/wadi-hadhramaut-relief-v2.webp",
     description: { de: "Ein weites Flusstal im östlichen Jemen, das für seine antiken Städte und tiefen Canyons bekannt ist.", hu: "Egy széles folyóvölgy Kelet-Jemenben, amely ősi városairól és mély kanyonjairól ismert.", ro: "O vale largă de râu în estul Yemenului, cunoscută pentru orașele sale antice și canioanele adânci.", en: "A vast river valley in eastern Yemen, known for its ancient cities and deep canyons." },
     facts: {
       de: ["Das größte Wadi der Arabischen Halbinsel.", "Umfasst antike Lehmarchitektur."],
       hu: ["Az Arab-félsziget legnagyobb vádija.", "Ősi vályogépítészetet rejt."],
       ro: ["Cel mai mare wadi din Peninsula Arabică.", "Include arhitectură antică din lut."],
       en: ["The largest wadi in the Arabian Peninsula.", "Features ancient mud-brick architecture."]
-    }, image: "/poi-images/wadi-hadhramaut-relief-v2.webp"},
+    }, image: "/poi-images/wadi-hadhramaut-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Hadhramaut ist eines der größten Trockentäler Jemens und erstreckt sich über etwa 200 km von West nach Ost durch das Hadramaut-Gouvernement. Es ist ein tief eingeschnittenes Tal, das in die Wüste Ramlat al-Sabatayn mündet. Die Talsohle liegt auf etwa 600 m Höhe, während die umliegenden Plateaus bis zu 1.500 m hoch sind. Berühmt sind die Lehmziegelhochhäuser in Städten wie Shibam und Tarim, die zum UNESCO-Weltkulturerbe gehören. Die Landwirtschaft konzentriert sich auf die Bewässerung entlang des Wadis, wo Dattelpalmen, Getreide und Gemüse angebaut werden. Das Klima ist extrem trocken, mit weniger als 100 mm Niederschlag pro Jahr.",
+      hu: "A Wadi Hadhramaut Jemen egyik legnagyobb, körülbelül 200 km hosszú völgye, amely kelet-nyugati irányban húzódik a Hadramaut kormányzóságban. A völgy mélyen bevágódik a környező fennsíkba, amely 1.500 m magas. A völgyben találhatók a híres sár-tégla felhőkarcolók, mint Shibamban és Tarimban, melyek az UNESCO világörökség részét képezik. A mezőgazdaság öntözött, datolyapálmát és gabonát termesztenek. Az éves csapadék kevesebb mint 100 mm. A völgy fontos történelmi kereskedelmi útvonal volt.",
+      ro: "Wadi Hadhramaut este una dintre cele mai mari văi secate din Yemen, întinzându-se pe aproximativ 200 km de la vest la est în guvernoratul Hadhramaut. Valea este adâncă, cu fundul la 600 m altitudine, iar platourile din jur ating 1.500 m. Orașele Shibam și Tarim sunt renumite pentru clădirile lor înalte din cărămidă de noroi, declarate patrimoniu UNESCO. Agricultura se bazează pe irigații, principalele culturi fiind curmalele și cerealele. Clima este aridă, cu precipitații sub 100 mm pe an.",
+      en: "Wadi Hadhramaut is one of Yemen's largest wadis, extending about 200 km east-west through Hadhramaut Governorate. It is a deep valley with a floor at 600 m elevation, flanked by plateaus up to 1,500 m. The valley is famous for its mudbrick skyscrapers in towns like Shibam and Tarim, designated UNESCO World Heritage sites. Agriculture relies on irrigation, growing dates, grains, and vegetables. Rainfall is less than 100 mm annually. Historically, it was a key segment of the incense trade route.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 200 km", "Höhe der Talsohle: 600 m", "Höhe der umliegenden Plateaus: 1.500 m", "UNESCO-Welterbe seit: 1982", "Jährlicher Niederschlag: 80 mm", "Bevölkerung im Tal: ca. 500.000"],
+      hu: ["Hossz: 200 km", "Völgytalp magasság: 600 m", "Fennsík magasság: 1.500 m", "UNESCO világörökség: 1982", "Éves csapadék: 80 mm", "Lakosság: 500.000"],
+      ro: ["Lungime: 200 km", "Altitudinea fundului văii: 600 m", "Altitudinea platourilor: 1.500 m", "Patrimoniu UNESCO din: 1982", "Precipitații anuale: 80 mm", "Populație: 500.000"],
+      en: ["Length: 200 km", "Valley floor elevation: 600 m", "Plateau elevation: 1,500 m", "UNESCO World Heritage designation: 1982", "Annual rainfall: 80 mm", "Population: 500,000"],
+    },
+  },
   {
     id: "rub-al-khali-yemen-relief-v2",
     type: "desert",
     parent: "YE-JA",
     coords: [47.0000, 17.5000],
-    name: { de: "Rub al-Chali (Jemen)", hu: "Rub al-Háli (Jemen)", ro: "Rub' al Khali (Yemen)", en: "Rub' al Khali (Yemen)",
-image: "/poi-images/rub-al-khali-yemen-relief-v2.webp"
-},
+    name: { de: "Rub al-Chali (Jemen)", hu: "Rub al-Háli (Jemen)", ro: "Rub' al Khali (Yemen)", en: "Rub' al Khali (Yemen)"},
+    image: "/poi-images/rub-al-khali-yemen-relief-v2.webp",
     description: { de: "Der südliche Rand der größten Sandwüste der Welt, der sich in die nördlichen Regionen des Jemen erstreckt.", hu: "A világ legnagyobb homoksivatagának déli pereme, amely kiterjed Jemen északi régióira is.", ro: "Marginea sudică a celui mai mare deșert de nisip din lume, care se extinde în regiunile nordice ale Yemenului.", en: "The southern edge of the world's largest sand desert, extending into the northern regions of Yemen." },
     facts: {
       de: ["Die größte zusammenhängende Sandwüste der Welt.", "Erstreckt sich über mehrere Länder."],
       hu: ["A világ legnagyobb egybefüggő homoksivataga.", "Több országon is átível."],
       ro: ["Cel mai mare deșert de nisip continuu din lume.", "Se întinde pe mai multe țări."],
       en: ["The largest contiguous sand desert in the world.", "Spans across multiple countries."]
-    }, image: "/poi-images/rub-al-khali-yemen-relief-v2.webp"},
+    }, image: "/poi-images/rub-al-khali-yemen-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rub al-Khali (Leeres Viertel) ist das größte zusammenhängende Sandwüstengebiet der Erde und bedeckt Teile Saudi-Arabiens, Omans, der Vereinigten Arabischen Emirate und Jemens. Der jemenitische Anteil liegt im Osten des Landes, im Gouvernement Hadramaut und Al Mahrah. Die Landschaft besteht aus bis zu 300 m hohen Sanddünen und weiten Kiesebenen. Die Temperaturen erreichen im Sommer über 50°C, die Niederschläge liegen unter 35 mm pro Jahr. Das Rub al-Khali ist nahezu unbewohnt, aber Heimat seltener Tiere wie der Arabischen Oryx. Unter dem Sand liegen riesige Grundwasserreserven aus dem Pleistozän.",
+      hu: "A Rub al-Khali (Üres Negyed) a Föld legnagyobb összefüggő homoksivataga, amely Jemen keleti részére is átnyúlik. A jemeni szakasz Hadramaut és Al Mahrah kormányzóságokban található. A tájat akár 300 méter magas homokdűnék és kavicsos síkságok jellemzik. Nyáron a hőmérséklet meghaladja az 50°C-ot, a csapadék évi 35 mm alatt van. A sivatag szinte lakatlan, de otthont ad az arab bejza antilopnak. A homok alatt pleisztocén kori talajvizek találhatók.",
+      ro: "Rub al-Khali (Sfertul Gol) este cea mai mare deșert de nisip contiguu de pe Pământ, iar partea yemenită se află în estul țării, în guvernoratele Hadhramaut și Al Mahrah. Peisajul include dune de nisip de până la 300 m înălțime și câmpii pietroase. Temperaturile depășesc 50°C vara, iar precipitațiile sunt sub 35 mm anual. Deșertul este aproape nelocuit, dar găzduiește oryx arabi. Sub nisipuri se află rezerve mari de apă freatică din Pleistocen.",
+      en: "Rub al-Khali (Empty Quarter) is the world's largest continuous sand desert, covering parts of Saudi Arabia, Oman, UAE, and Yemen. The Yemeni portion lies in the eastern governorates of Hadhramaut and Al Mahrah. The landscape features sand dunes up to 300 m high and gravel plains. Summer temperatures exceed 50°C, and annual rainfall is below 35 mm. The desert is nearly uninhabited but shelters the Arabian oryx. Vast groundwater reserves from the Pleistocene lie beneath the sands.",
+    },
+    factsAdvanced: {
+      de: ["Fläche des jemenitischen Teils: ca. 100.000 km²", "Dünenhöhen: bis zu 300 m", "Sommerhöchsttemperatur: 55°C", "Niederschlag: < 35 mm pro Jahr", "Grundwasservorkommen: geschätzte 500 Mrd. m³", "Arabischer Oryx-Bestand: ca. 100 Tiere"],
+      hu: ["Terület (jemeni rész): 100.000 km²", "Dűnemagasság: 300 m", "Nyári maximum hőmérséklet: 55°C", "Éves csapadék: 30 mm", "Talajvíz mennyiség: 500 milliárd m³", "Arab bejza populáció: 100 egyed"],
+      ro: ["Suprafața părții yemenite: 100.000 km²", "Înălțimea dunelor: până la 300 m", "Temperatura maximă de vară: 55°C", "Precipitații anuale: sub 35 mm", "Rezerve de apă freatică: 500 miliarde m³", "Populație de oryx arabi: cca. 100"],
+      en: ["Area in Yemen: approx. 100,000 sq km", "Maximum dune height: 300 m", "Summer high temperature: 55°C", "Annual rainfall: < 35 mm", "Groundwater reserves: estimated 500 billion m³", "Arabian oryx population: about 100"],
+    },
+  },
   {
     id: "ramlat-al-sabatayn-relief-v2",
     type: "desert",
     parent: "YE-MA",
     coords: [46.0000, 15.5000],
-    name: { de: "Ramlat as-Sabʿatain", hu: "Ramlat al-Szabatájn", ro: "Ramlat al-Sab'atayn", en: "Ramlat al-Sab'atayn",
-image: "/poi-images/ramlat-al-sabatayn-relief-v2.webp"
-},
+    name: { de: "Ramlat as-Sabʿatain", hu: "Ramlat al-Szabatájn", ro: "Ramlat al-Sab'atayn", en: "Ramlat al-Sab'atayn"},
+    image: "/poi-images/ramlat-al-sabatayn-relief-v2.webp",
     description: { de: "Eine riesige Wüstenregion im zentralen Jemen, die historische Handelsrouten zwischen dem Hadramaut und Marib verbindet.", hu: "Egy hatalmas sivatagi régió Közép-Jemenben, amely történelmi kereskedelmi útvonalakat kötött össze Hadramaut és Márib között.", ro: "O vastă regiune deșertică în centrul Yemenului, legând rutele comerciale istorice între Hadhramaut și Marib.", en: "A vast desert region in central Yemen, connecting historical trade routes between Hadhramaut and Marib." },
     facts: {
       de: ["Teil der Wüste Rub al-Chali.", "War eine wichtige historische Handelsroute."],
       hu: ["A Rub al-Háli sivatag része.", "Fontos történelmi kereskedelmi útvonal volt."],
       ro: ["Parte a deșertului Rub' al Khali.", "A fost o rută comercială istorică importantă."],
       en: ["Part of the Rub' al Khali desert.", "Was a major historical trade route."]
-    }, image: "/poi-images/ramlat-al-sabatayn-relief-v2.webp"},
+    }, image: "/poi-images/ramlat-al-sabatayn-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Ramlat al-Sabatayn ist eine Sandwüste im zentralen Nordosten Jemens, die sich südlich des Rub al-Khali erstreckt. Sie liegt hauptsächlich im Gouvernement Marib und hat eine Fläche von etwa 20.000 km². Die Wüste ist durch große Dünenfelder und vereinzelte Oasen wie Marib gekennzeichnet. In der Antike war diese Region das Herz des Königreichs Saba, bekannt für den Marib-Damm. Heute wird in der Gegend Öl und Gas gefördert. Die Temperaturen können im Sommer 50°C erreichen. Die jährliche Niederschlagsmenge beträgt weniger als 50 mm.",
+      hu: "A Ramlat al-Sabatayn egy homoksivatag Jemen északkeleti részén, a Rub al-Khali déli peremén. Területe mintegy 20.000 km², főként Marib kormányzóságban. A tájat dűnék és oázisok jellemzik, mint Marib. Az ókorban itt volt a Szabái Királyság szíve, híres a Maribi gátról. Ma olaj- és gázkitermelés folyik. A nyári hőmérséklet elérheti az 50°C-ot. Az éves csapadék kevesebb mint 50 mm.",
+      ro: "Ramlat al-Sabatayn este un deșert de nisip din nord-estul Yemenului, la sud de Rub al-Khali, cu o suprafață de aproximativ 20.000 km², situat în principal în guvernoratul Marib. Peisajul include dune și oaze, cum ar fi Marib. În antichitate, a fost centrul Regatului Saba, celebru pentru barajul Marib. Astăzi, zona are extracție de petrol și gaze. Temperaturile de vară pot atinge 50°C. Precipitațiile anuale sunt sub 50 mm.",
+      en: "Ramlat al-Sabatayn is a sand desert in northeastern Yemen, south of Rub al-Khali, covering about 20,000 sq km in Marib Governorate. The landscape features sand dunes and oases like Marib. In antiquity, it was the heart of the Sabaean Kingdom, with the famous Marib Dam. Today, oil and gas extraction operate in the area. Summer temperatures can reach 50°C. Annual rainfall is less than 50 mm.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20.000 km²", "Durchschnittliche Dünenhöhe: 100 m", "Sommerhöchsttemperatur: 50°C", "Jährlicher Niederschlag: < 50 mm", "Ölförderung: ca. 50.000 Barrel pro Tag", "Bevölkerung in der Region: ca. 200.000"],
+      hu: ["Terület: 20.000 km²", "Átlagos dűnemagasság: 100 m", "Nyári maximum hőmérséklet: 50°C", "Csapadék: 45 mm/év", "Olajkitermelés: napi 50.000 hordó", "Népesség: 200.000"],
+      ro: ["Suprafață: 20.000 km²", "Înălțimea medie a dunelor: 100 m", "Temperatura maximă de vară: 50°C", "Precipitații anuale: sub 50 mm", "Producție de petrol: 50.000 barili/zi", "Populație: 200.000"],
+      en: ["Area: 20,000 sq km", "Average dune height: 100 m", "Summer maximum temperature: 50°C", "Annual rainfall: < 50 mm", "Oil production: 50,000 barrels per day", "Regional population: 200,000"],
+    },
+  },
   {
     id: "haraz-mountains-relief-v2",
     type: "mountain",
     parent: "YE-SN",
     coords: [43.7500, 15.0833],
-    name: { de: "Haraz-Gebirge", hu: "Haraz-hegység", ro: "Munții Haraz", en: "Haraz Mountains",
-image: "/poi-images/haraz-mountains-relief-v2.webp"
-},
+    name: { de: "Haraz-Gebirge", hu: "Haraz-hegység", ro: "Munții Haraz", en: "Haraz Mountains"},
+    image: "/poi-images/haraz-mountains-relief-v2.webp",
     description: { de: "Ein zerklüftetes Gebirge westlich von Sanaa, berühmt für seine terrassierten Hänge und befestigten Bergdörfer.", hu: "Egy tagolt hegység Szanaától nyugatra, amely teraszos lejtőiről és erődített hegyi falvairól híres.", ro: "Un lanț muntos accidentat la vest de Sana'a, renumit pentru pantele sale terasate și satele de munte fortificate.", en: "A rugged mountain range west of Sanaa, famous for its terraced slopes and fortified mountain villages." },
     facts: {
       de: ["Bekannt für befestigte Dörfer.", "Stark terrassiert für den Kaffeeanbau."],
       hu: ["Erődített falvairól ismert.", "Erősen teraszos a kávétermesztés miatt."],
       ro: ["Cunoscut pentru satele fortificate.", "Puternic terasat pentru cultivarea cafelei."],
       en: ["Known for fortified villages.", "Heavily terraced for coffee cultivation."]
-    }, image: "/poi-images/haraz-mountains-relief-v2.webp"},
+    }, image: "/poi-images/haraz-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Haraz-Berge sind eine Gebirgskette im Westen Jemens, etwa 100 km südwestlich von Sanaa im Gouvernement Al Mahwit. Die Gipfel erreichen Höhen von bis zu 3.000 Metern. Die Berge bestehen aus vulkanischen und metamorphen Gesteinen. Die Region ist bekannt für ihre terrassierte Landwirtschaft, bei der Kaffee und Qat angebaut werden. Die traditionellen Steinhäuser aus lokalem Gestein sind bis zu vier Stockwerke hoch. Die Haraz-Berge sind auch für ihre wilde, zerklüftete Landschaft bekannt und liegen im Einzugsgebiet des Wadi Mawr. Das Klima ist gemäßigt, mit jährlichen Niederschlägen zwischen 400 und 800 mm.",
+      hu: "A Haraz-hegység Jemen nyugati részén található, Sanaától 100 km-re délnyugatra, Al Mahwit kormányzóságban. A csúcsok elérik a 3.000 métert. A hegység vulkáni és metamorf kőzetekből áll. Híres a teraszos mezőgazdaságáról, kávét és qatot termesztenek. A hagyományos kőházak négy emeletesek is lehetnek. A Haraz-hegység vad, tagolt tájairól ismert, a Wadi Mawr vízgyűjtő területén található. Az éghajlat mérsékelt, évi 400-800 mm csapadékkal.",
+      ro: "Munții Haraz sunt un lanț muntos din vestul Yemenului, la aproximativ 100 km sud-vest de Sanaa, în guvernoratul Al Mahwit. Vârfurile ating până la 3.000 m altitudine. Sunt formați din roci vulcanice și metamorfice. Regiunea este cunoscută pentru agricultura terasată, cultivând cafea și qat. Casele tradiționale de piatră pot avea până la patru etaje. Munții Haraz au un peisaj accidentat și se află în bazinul Wadi Mawr. Clima este temperată, cu precipitații anuale de 400-800 mm.",
+      en: "The Haraz Mountains are a mountain range in western Yemen, about 100 km southwest of Sanaa in Al Mahwit Governorate. Peaks reach up to 3,000 m. The range is composed of volcanic and metamorphic rocks. It is known for terraced agriculture, growing coffee and qat. Traditional stone houses are up to four stories tall. The landscape is rugged and lies within the Wadi Mawr watershed. Climate is temperate, with annual rainfall of 400-800 mm.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 3.000 m", "Länge der Bergkette: 50 km", "Durchschnittlicher Jahresniederschlag: 600 mm", "Wichtige Anbausorte: Kaffee Arabica", "Bevölkerungsdichte: 50 Einwohner pro km²", "Anzahl der Dörfer: über 200"],
+      hu: ["Legmagasabb csúcs: 3.000 m", "Hegység hossza: 50 km", "Átlagos csapadék: 600 mm/év", "Fő termény: kávé (Arabica)", "Népsűrűség: 50 fő/km²", "Falvak száma: 200"],
+      ro: ["Cel mai înalt vârf: 3.000 m", "Lungimea lanțului: 50 km", "Precipitații medii anuale: 600 mm", "Cultura principală: cafea Arabica", "Densitatea populației: 50 loc./km²", "Număr de sate: peste 200"],
+      en: ["Highest peak: 3,000 m", "Range length: 50 km", "Average annual rainfall: 600 mm", "Main crop: Arabica coffee", "Population density: 50 per sq km", "Number of villages: over 200"],
+    },
+  },
   {
     id: "wadi-dawan-relief-v2",
     type: "valley",
     parent: "YE-HD",
     coords: [48.3333, 15.1667],
-    name: { de: "Wadi Doan", hu: "Vádi Dawan", ro: "Wadi Dawan", en: "Wadi Dawan",
-image: "/poi-images/wadi-dawan-relief-v2.webp"
-},
+    name: { de: "Wadi Doan", hu: "Vádi Dawan", ro: "Wadi Dawan", en: "Wadi Dawan"},
+    image: "/poi-images/wadi-dawan-relief-v2.webp",
     description: { de: "Ein malerisches Wüstental, das sich vom Hadramaut abzweigt und für seine Lehmziegelarchitektur und Honigproduktion bekannt ist.", hu: "Egy festői sivatagi völgy, amely a Hadramautból ágazik ki, és vályogépítészetéről, valamint méztermeléséről ismert.", ro: "O vale pitorească deșertică care se ramifică din Hadhramaut, cunoscută pentru arhitectura sa din cărămidă de noroi și producția de miere.", en: "A picturesque desert valley branching off from the Hadhramaut, known for its mud-brick architecture and honey production." },
     facts: {
       de: ["Berühmt für seinen Sidr-Honig.", "Weist beeindruckende Lehmhäuser auf."],
       hu: ["Híres a Szidr mézről.", "Lenyűgöző vályogházakkal büszkélkedhet."],
       ro: ["Renumit pentru mierea Sidr.", "Prezintă case impresionante din lut."],
       en: ["Famous for its Sidr honey.", "Features impressive mud-brick houses."]
-    }, image: "/poi-images/wadi-dawan-relief-v2.webp"},
+    }, image: "/poi-images/wadi-dawan-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Dawan ist ein Seitental des Wadi Hadhramaut im Gouvernement Hadramaut, etwa 40 km lang. Es ist bekannt für seine traditionellen Lehmziegeldörfer und die landwirtschaftlichen Terrassen. Die Talsohle liegt auf etwa 700 m Höhe. Das Wadi ist von steilen Felswänden umgeben, die bis zu 300 m aufragen. Die Bewässerung erfolgt durch traditionelle unterirdische Kanäle (Falaj). Die Hauptkulturen sind Datteln, Weizen und Gemüse. Das Klima ist trocken, mit jährlichen Niederschlägen von etwa 80 mm. Die Region ist relativ dicht besiedelt, mit Hauptort Al-Qatn.",
+      hu: "A Wadi Dawan a Wadi Hadhramaut egyik mellékvölgye, körülbelül 40 km hosszú, Hadramaut kormányzóságban. Híres a hagyományos sár-tégla falvairól és a teraszos mezőgazdaságáról. A völgy alja 700 m magasan van, a sziklafalak 300 m magasak. Az öntözés hagyományos földalatti csatornákkal (falaj) történik. Fő termények: datolya, búza, zöldségek. Az éves csapadék 80 mm. A fő település Al-Qatn.",
+      ro: "Wadi Dawan este o vale laterală a Wadi Hadhramaut, lungă de aproximativ 40 km, în guvernoratul Hadhramaut. Este cunoscută pentru satele sale tradiționale din chirpici și terasele agricole. Fundul văii este la 700 m altitudine, iar pereții stâncoși se ridică până la 300 m. Irigațiile se fac prin canale subterane tradiționale (falaj). Culturile principale sunt curmalele, grâul și legumele. Precipitațiile anuale sunt de aproximativ 80 mm. Principalul oraș este Al-Qatn.",
+      en: "Wadi Dawan is a tributary valley of Wadi Hadhramaut in Hadhramaut Governorate, about 40 km long. It is famous for its traditional mudbrick villages and agricultural terraces. The valley floor is at 700 m elevation, with cliff walls rising up to 300 m. Irrigation uses traditional underground channels (falaj). Main crops include dates, wheat, and vegetables. Annual rainfall is about 80 mm. The main settlement is Al-Qatn.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 40 km", "Höhe der Talsohle: 700 m", "Höhe der Felswände: 300 m", "Anzahl der Falaj-Kanäle: 15", "Jährlicher Niederschlag: 80 mm", "Bevölkerung: ca. 30.000"],
+      hu: ["Hossz: 40 km", "Völgytalp: 700 m", "Sziklafalak: 300 m", "Falaj csatornák: 15", "Éves csapadék: 80 mm", "Népesség: 30.000"],
+      ro: ["Lungime: 40 km", "Altitudinea fundului văii: 700 m", "Înălțimea pereților stâncoși: 300 m", "Număr canale falaj: 15", "Precipitații anuale: 80 mm", "Populație: 30.000"],
+      en: ["Length: 40 km", "Valley floor elevation: 700 m", "Cliff height: 300 m", "Number of falaj channels: 15", "Annual rainfall: 80 mm", "Population: 30,000"],
+    },
+  },
   {
     id: "hajjah-mountains-relief-v2",
     type: "mountain",
     parent: "YE-HJ",
     coords: [43.6000, 15.6833],
-    name: { de: "Hadscha-Gebirge", hu: "Haddzsa-hegység", ro: "Munții Hajjah", en: "Hajjah Mountains",
-image: "/poi-images/hajjah-mountains-relief-v2.webp"
-},
+    name: { de: "Hadscha-Gebirge", hu: "Haddzsa-hegység", ro: "Munții Hajjah", en: "Hajjah Mountains"},
+    image: "/poi-images/hajjah-mountains-relief-v2.webp",
     description: { de: "Eine beeindruckende Gebirgslandschaft im Nordwesten des Jemen mit steilen Schluchten und isolierten Tälern.", hu: "Lenyűgöző hegyvidéki táj Jemen északnyugati részén meredek szurdokokkal és elszigetelt völgyekkel.", ro: "Un peisaj montan impresionant în nord-vestul Yemenului, cu chei abrupte și văi izolate.", en: "An impressive mountainous landscape in northwestern Yemen with steep gorges and isolated valleys." },
     facts: {
       de: ["Bietet spektakuläre Schluchten.", "Geprägt von traditioneller Landwirtschaft."],
       hu: ["Látványos szurdokokat kínál.", "Hagyományos mezőgazdaság jellemzi."],
       ro: ["Oferă chei spectaculoase.", "Caracterizat prin agricultură tradițională."],
       en: ["Offers spectacular gorges.", "Characterized by traditional agriculture."]
-    }, image: "/poi-images/hajjah-mountains-relief-v2.webp"},
+    }, image: "/poi-images/hajjah-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hajjah-Berge liegen im Nordwesten Jemens im Gouvernement Hajjah, etwa 100 km nordwestlich von Sanaa. Die Gipfel erreichen Höhen von bis zu 2.500 m. Die Bergkette besteht hauptsächlich aus Kalkstein und Basalt. Die Region ist bekannt für ihren intensiven Kaffeeanbau auf terrassierten Hängen. Die Bevölkerung lebt in verstreuten Dörfern; traditionelle Steinhäuser sind charakteristisch. Das Klima ist mild, mit jährlichen Niederschlägen zwischen 500 und 1.000 mm. Die Hajjah-Berge sind Teil des Gebirgszugs, der sich entlang des Roten Meeres erstreckt.",
+      hu: "A Hajjah-hegység Jemen északnyugati részén található, a Hajjah kormányzóságban, Sanaától 100 km-re északnyugatra. A csúcsok elérik a 2.500 métert. A hegység mészkőből és bazaltból áll. Híres a teraszos kávéültetvényeiről. A lakosság szétszórt falvakban él, jellemzőek a kőházak. Az éghajlat enyhe, évi 500-1000 mm csapadékkal. A Vörös-tenger menti hegyvonulat része.",
+      ro: "Munții Hajjah sunt situați în nord-vestul Yemenului, în guvernoratul Hajjah, la aproximativ 100 km nord-vest de Sanaa. Vârfurile ating până la 2.500 m. Munții sunt formați din calcar și bazalt. Regiunea este renumită pentru plantațiile de cafea pe terase. Populația trăiește în sate răzlețe, cu case tradiționale de piatră. Clima este blândă, cu precipitații anuale de 500-1.000 mm. Face parte din lanțul muntos de-a lungul Mării Roșii.",
+      en: "The Hajjah Mountains are located in northwestern Yemen, in Hajjah Governorate, about 100 km northwest of Sanaa. Peaks reach up to 2,500 m. The range is composed of limestone and basalt. It is known for terraced coffee plantations. Population lives in scattered villages, with traditional stone houses. The climate is mild, with annual rainfall of 500-1,000 mm. It is part of the mountain chain along the Red Sea.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 2.500 m", "Fläche: 1.500 km²", "Jährlicher Niederschlag: 700 mm", "Kaffeeanbaufläche: 10.000 ha", "Bevölkerung: 200.000", "Höhenlage der Dörfer: 1.500-2.000 m"],
+      hu: ["Legmagasabb csúcs: 2.500 m", "Terület: 1.500 km²", "Csapadék: 700 mm/év", "Kávéültetvények: 10.000 ha", "Népesség: 200.000", "Falvak magassága: 1500-2000 m"],
+      ro: ["Cel mai înalt vârf: 2.500 m", "Suprafață: 1.500 km²", "Precipitații anuale: 700 mm", "Suprafață cultivată cu cafea: 10.000 ha", "Populație: 200.000", "Altitudinea satelor: 1.500-2.000 m"],
+      en: ["Highest peak: 2,500 m", "Area: 1,500 sq km", "Annual rainfall: 700 mm", "Coffee cultivation area: 10,000 ha", "Population: 200,000", "Village elevation range: 1,500-2,000 m"],
+    },
+  },
   {
     id: "socotra-coast-relief-v2",
     type: "coast",
     parent: "YE-SU",
     coords: [54.0000, 12.5000],
-    name: { de: "Küste von Sokotra", hu: "Szokotra partvidéke", ro: "Coasta Socotra", en: "Socotra Coast",
-image: "/poi-images/socotra-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Sokotra", hu: "Szokotra partvidéke", ro: "Coasta Socotra", en: "Socotra Coast"},
+    image: "/poi-images/socotra-coast-relief-v2.webp",
     description: { de: "Die unberührten Küstenlinien der Insel Sokotra, bekannt für ihre weißen Sandstrände und endemische Meereslebewesen.", hu: "Szokotra szigetének érintetlen partvidéke, amely fehér homokos strandjairól és endemikus tengeri élőlényeiről ismert.", ro: "Liniile de coastă virgine ale insulei Socotra, cunoscute pentru plajele lor cu nisip alb și viața marină endemică.", en: "The pristine coastlines of Socotra Island, known for their white sand beaches and endemic marine life." },
     facts: {
       de: ["Heimat vieler endemischer Arten.", "Verfügt über unberührte Sandstrände."],
       hu: ["Számos endemikus faj otthona.", "Érintetlen homokos strandokkal rendelkezik."],
       ro: ["Acasă pentru multe specii endemice.", "Are plaje cu nisip virgin."],
       en: ["Home to many endemic species.", "Features pristine sandy beaches."]
-    }, image: "/poi-images/socotra-coast-relief-v2.webp"},
+    }, image: "/poi-images/socotra-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste von Socotra umfasst die nord- und südlichen Ufer der Hauptinsel des Socotra-Archipels, der zum Jemen gehört. Die Küstenlinie erstreckt sich über etwa 300 km und bietet eine abwechslungsreiche Landschaft mit Sandstränden, Kalksteinklippen und Korallenriffen. Der Archipel liegt im Indischen Ozean, nahe dem Horn von Afrika. Die Küste ist bekannt für ihre einzigartige Biodiversität, darunter endemische Pflanzen wie der Drachenblutbaum. Die Wassertemperaturen sind ganzjährig warm. Fischerei ist der Haupterwerb. Der Archipel wurde 2008 zum UNESCO-Weltnaturerbe erklärt.",
+      hu: "Szokotra partvidéke a Jemenhez tartozó fősziget északi és déli partját foglalja magában, mintegy 300 km hosszúságban. A táj változatos: homokos tengerpartok, mészkősziklák és korallzátonyok. A szigetcsoport az Indiai-óceánban fekszik, Afrika szarvánál. A partvidék híres egyedülálló élővilágáról, például a sárkányvérfa endemikus fajáról. A víz egész évben meleg. A halászat a fő megélhetési forrás. A szigetcsoport 2008 óta UNESCO világörökség része.",
+      ro: "Coasta insulei Socotra include țărmurile nordice și sudice ale insulei principale a arhipelagului Socotra, care aparține Yemenului. Linia de coastă se întinde pe aproximativ 300 km, cu plaje nisipoase, stânci de calcar și recife de corali. Arhipelagul este situat în Oceanul Indian, lângă Cornul Africii. Coasta este renumită pentru biodiversitatea sa unică, inclusiv copacul de sânge de dragon. Apele sunt calde tot anul. Pescuitul este principala ocupație. Arhipelagul este patrimoniu mondial UNESCO din 2008.",
+      en: "The Socotra coast comprises the northern and southern shores of the main island of the Socotra Archipelago, part of Yemen. The coastline stretches about 300 km, featuring sandy beaches, limestone cliffs, and coral reefs. The archipelago lies in the Indian Ocean near the Horn of Africa. The coast is renowned for unique biodiversity, including the endemic dragon's blood tree. Waters are warm year-round. Fishing is the main livelihood. The archipelago has been a UNESCO World Heritage Site since 2008.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: ca. 300 km", "Länge der Korallenriffe: 50 km", "Anzahl der endemischen Pflanzenarten: 37", "Wassertemperatur: 27-30°C", "Fischereiertrag: 5.000 Tonnen pro Jahr", "Touristenankünfte: 3.000 pro Jahr"],
+      hu: ["Partvonal hossza: 300 km", "Korallzátony hossza: 50 km", "Endemikus növényfajok: 37", "Vízhőmérséklet: 27-30°C", "Halászat: 5.000 tonna/év", "Turisták évente: 3.000"],
+      ro: ["Lungimea coastei: 300 km", "Lungimea recifelor de corali: 50 km", "Specii de plante endemice: 37", "Temperatura apei: 27-30°C", "Captură de pește: 5.000 tone/an", "Vizitatori pe an: 3.000"],
+      en: ["Coastline length: 300 km", "Coral reef length: 50 km", "Endemic plant species: 37", "Water temperature: 27-30°C", "Annual fish catch: 5,000 tons", "Tourist arrivals per year: 3,000"],
+    },
+  },
   {
     id: "wadi-dhar-relief-v2",
     type: "valley",
     parent: "YE-SN",
     coords: [44.1333, 15.4333],
-    name: { de: "Wadi Dhar", hu: "Vádi Dhar", ro: "Wadi Dhar", en: "Wadi Dhar",
-image: "/poi-images/wadi-dhar-relief-v2.webp"
-},
+    name: { de: "Wadi Dhar", hu: "Vádi Dhar", ro: "Wadi Dhar", en: "Wadi Dhar"},
+    image: "/poi-images/wadi-dhar-relief-v2.webp",
     description: { de: "Ein fruchtbares Tal in der Nähe der Hauptstadt Sanaa, das von steilen Felswänden und grünen Obstgärten umgeben ist.", hu: "Egy termékeny völgy a főváros, Szanaa közelében, amelyet meredek sziklafalak és zöld gyümölcsösök vesznek körül.", ro: "O vale fertilă lângă capitala Sana'a, înconjurată de pereți stâncoși abrupți și livezi verzi.", en: "A fertile valley near the capital Sanaa, surrounded by steep rock faces and green orchards." },
     facts: {
       de: ["Heimat des berühmten Felsenpalastes.", "Sehr fruchtbares Tal nahe Sanaa."],
       hu: ["A híres Sziklapalota otthona.", "Nagyon termékeny völgy Szanaa közelében."],
       ro: ["Acasă pentru celebrul Palat de Piatră.", "O vale foarte fertilă lângă Sana'a."],
       en: ["Home to the famous Rock Palace.", "A very fertile valley near Sanaa."]
-    }, image: "/poi-images/wadi-dhar-relief-v2.webp"},
+    }, image: "/poi-images/wadi-dhar-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Dhar liegt im zentralen Hochland Jemens, im Gouvernement Sanaa, etwa 15 km nordwestlich von Sanaa. Es ist ein relativ kurzes, aber tief eingeschnittenes Tal, das für seine steilen Felswände und den berühmten Felsenpalast Dar al-Hadschar bekannt ist. Der Palast wurde im 18. Jahrhundert als Sommerresidenz des Imams erbaut und thront auf einem Felsvorsprung. Das Tal wird landwirtschaftlich genutzt, vor allem für den Anbau von Qat und Obst. Die Höhe des Tals beträgt etwa 2.200 m. Das Klima ist gemäßigt, mit jährlichen Niederschlägen von 300 mm. Das Wadi Dhar ist ein beliebtes Ausflugsziel.",
+      hu: "A Wadi Dhar Jemen központi felföldjén található, Sanaa kormányzóságban, a fővárostól 15 km-re északnyugatra. Egy viszonylag rövid, de mély völgy, híres meredek sziklafalairól és a Dar al-Hadsar sziklapalotáról, amelyet a 18. században építettek az imám nyári rezidenciájaként. A völgyben qatot és gyümölcsöket termesztenek. A völgy magassága 2200 m. Az éghajlat mérsékelt, évi 300 mm csapadékkal. Népszerű kirándulóhely.",
+      ro: "Wadi Dhar este situată în podișul central al Yemenului, în guvernoratul Sanaa, la aproximativ 15 km nord-vest de Sanaa. Este o vale relativ scurtă, dar adâncă, renumită pentru pereții stâncoși abrupți și pentru palatul de stâncă Dar al-Hajar, construit în secolul al XVIII-lea ca reședință de vară a imamului. Valea este folosită pentru agricultură, în special qat și fructe. Altitudinea este de 2.200 m. Clima este temperată, cu precipitații anuale de 300 mm. Este o destinație populară pentru excursii.",
+      en: "Wadi Dhar is located in the central highlands of Yemen, Sanaa Governorate, about 15 km northwest of Sanaa city. It is a short but deep valley, famous for its steep cliffs and the rock palace Dar al-Hajar, built in the 18th century as a summer residence for the imam. The valley is cultivated with qat and fruit trees. Elevation is 2,200 m. Climate is temperate, with annual rainfall of 300 mm. It is a popular tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 5 km", "Höhe der Talsohle: 2.200 m", "Höhe der Felswände: 200 m", "Erbauungsjahr des Palastes: 1936 (Umbau)", "Jährlicher Niederschlag: 300 mm", "Besucher pro Jahr: ca. 50.000"],
+      hu: ["Hossz: 5 km", "Völgytalp: 2.200 m", "Sziklafalak: 200 m", "Palota építése: 1936 (átépítés)", "Csapadék: 300 mm/év", "Látogatók évente: 50.000"],
+      ro: ["Lungime: 5 km", "Altitudinea fundului văii: 2.200 m", "Înălțimea pereților stâncoși: 200 m", "Anul construirii palatului: 1936 (renovare)", "Precipitații anuale: 300 mm", "Vizitatori pe an: 50.000"],
+      en: ["Length: 5 km", "Valley floor elevation: 2,200 m", "Cliff height: 200 m", "Palace construction year: 1936 (renovation)", "Annual rainfall: 300 mm", "Annual visitors: 50,000"],
+    },
+  },
   {
     id: "tihama-plain-relief-v2",
     type: "coast",
     parent: "YE-HU",
     coords: [43.1000, 14.8000],
-    name: { de: "Tihama-Ebene", hu: "Tiháma-síkság", ro: "Câmpia Tihama", en: "Tihama Plain",
-image: "/poi-images/tihama-plain-relief-v2.webp"
-},
+    name: { de: "Tihama-Ebene", hu: "Tiháma-síkság", ro: "Câmpia Tihama", en: "Tihama Plain"},
+    image: "/poi-images/tihama-plain-relief-v2.webp",
     description: { de: "Eine heiße, trockene Küstenebene am Roten Meer, die sich entlang der gesamten Westküste des Jemen erstreckt.", hu: "Egy forró, száraz tengerparti síkság a Vörös-tenger mentén, amely Jemen teljes nyugati partvidékén végighúzódik.", ro: "O câmpie de coastă fierbinte și uscată la Marea Roșie, care se întinde de-a lungul întregii coaste de vest a Yemenului.", en: "A hot, arid coastal plain on the Red Sea that stretches along the entire western coast of Yemen." },
     facts: {
       de: ["Heiße und feuchte Küstenebene.", "Erstreckt sich entlang des Roten Meeres."],
       hu: ["Forró és párás tengerparti síkság.", "A Vörös-tenger mentén húzódik."],
       ro: ["Câmpie de coastă fierbinte și umedă.", "Se întinde de-a lungul Mării Roșii."],
       en: ["Hot and humid coastal plain.", "Stretches along the Red Sea."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Tihama-Ebene ist eine schmale Küstenebene entlang des Roten Meeres im Westen Jemens, die sich über etwa 400 km von der saudischen Grenze bis zur Bab al-Mandab-Straße erstreckt. Sie ist 20 bis 60 km breit und liegt im Gouvernement Al Hudaydah. Die Ebene ist flach und besteht aus Sand- und Lehmböden. Das Klima ist extrem heiß und feucht, mit Temperaturen über 40°C und einer Luftfeuchtigkeit von bis zu 90%. Die Landwirtschaft ist nur mit künstlicher Bewässerung möglich; Hauptkulturen sind Baumwolle, Sesam und Gemüse. Die Tihama ist dicht besiedelt, mit wichtigen Städten wie Al Hudaydah und Zabid.",
+      hu: "A Tihama-síkság egy keskeny tengerparti síkság Jemen nyugati részén, a Vörös-tenger mentén, mintegy 400 km hosszan a szaúd-arábiai határtól a Bab el-Mandeb-szorosig. Szélessége 20-60 km. Al-Hudaydah kormányzóságban található. A síkság lapos, homokos és agyagos talajú. Az éghajlat rendkívül forró és párás, 40°C feletti hőmérséklettel és akár 90%-os páratartalommal. A mezőgazdaság öntözéssel működik; fő növények a gyapot, a szezám és a zöldségek. A Tihama sűrűn lakott, fontos városai Al-Hudaydah és Zabid.",
+      ro: "Câmpia Tihama este o fâșie de coastă îngustă de-a lungul Mării Roșii în vestul Yemenului, întinzându-se pe aproximativ 400 km de la granița cu Arabia Saudită până la Strâmtoarea Bab el-Mandeb. Are o lățime de 20-60 km, situată în guvernoratul Al Hudaydah. Terenul este plat, cu soluri nisipoase și argiloase. Clima este extrem de caldă și umedă, cu temperaturi peste 40°C și umiditate de până la 90%. Agricultura necesită irigații; culturile principale includ bumbac, susan și legume. Câmpia este dens populată, cu orașe importante precum Al Hudaydah și Zabid.",
+      en: "The Tihama Plain is a narrow coastal plain along the Red Sea in western Yemen, stretching about 400 km from the Saudi border to the Bab el-Mandeb strait. It is 20-60 km wide, in Al Hudaydah Governorate. The plain is flat with sandy and clay soils. The climate is extremely hot and humid, with temperatures exceeding 40°C and humidity up to 90%. Agriculture is irrigation-dependent; main crops are cotton, sesame, and vegetables. The Tihama is densely populated, with major cities like Al Hudaydah and Zabid.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 400 km", "Breite: 20-60 km", "Höchsttemperatur: 45°C", "Luftfeuchtigkeit: 90%", "Jährlicher Niederschlag: 100 mm", "Bevölkerung: ca. 3 Millionen"],
+      hu: ["Hossz: 400 km", "Szélesség: 20-60 km", "Maximális hőmérséklet: 45°C", "Páratartalom: 90%", "Csapadék: 100 mm/év", "Népesség: 3 millió"],
+      ro: ["Lungime: 400 km", "Lățime: 20-60 km", "Temperatură maximă: 45°C", "Umiditate: 90%", "Precipitații anuale: 100 mm", "Populație: 3 milioane"],
+      en: ["Length: 400 km", "Width: 20-60 km", "Maximum temperature: 45°C", "Humidity: 90%", "Annual rainfall: 100 mm", "Population: 3 million"],
+    },
   },
   {
     id: "jabal-sabir-relief-v2",
     type: "mountain",
     parent: "YE-TA",
     coords: [44.0167, 13.5333],
-    name: { de: "Dschabal Sabir", hu: "Dzsebel Szabír", ro: "Jabal Sabir", en: "Jabal Sabir",
-image: "/poi-images/jabal-sabir-relief-v2.webp"
-},
+    name: { de: "Dschabal Sabir", hu: "Dzsebel Szabír", ro: "Jabal Sabir", en: "Jabal Sabir"},
+    image: "/poi-images/jabal-sabir-relief-v2.webp",
     description: { de: "Ein markantes Bergmassiv, das sich majestätisch über der Stadt Taiz erhebt und fruchtbare Terrassen bietet.", hu: "Egy feltűnő hegytömb, amely fenségesen magasodik Taiz városa fölé, és termékeny teraszoknak ad otthont.", ro: "Un masiv muntos proeminent care se înalță maiestuos deasupra orașului Taiz, oferind terase fertile.", en: "A prominent mountain massif that rises majestically above the city of Taiz, offering fertile terraces." },
     facts: {
       de: ["Einer der höchsten Berge im Jemen.", "Überblickt die Stadt Taiz."],
       hu: ["Jemen egyik legmagasabb hegye.", "Taiz városára nyújt kilátást."],
       ro: ["Unul dintre cei mai înalți munți din Yemen.", "Oferă o vedere asupra orașului Taiz."],
       en: ["One of the highest mountains in Yemen.", "Overlooks the city of Taiz."]
-    }, image: "/poi-images/jabal-sabir-relief-v2.webp"},
+    }, image: "/poi-images/jabal-sabir-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Sabir ist ein Berg im Südwesten Jemens, nahe der Stadt Ta'izz, im Gouvernement Ta'izz. Mit einer Höhe von etwa 3.006 Metern ist er einer der höchsten Gipfel des Landes. Der Berg ist vulkanischen Ursprungs und steil. Er dominiert die Stadt Ta'izz. Auf den Hängen befinden sich Kaffeeplantagen und Terrassenfelder. Der Gipfel bietet eine weite Aussicht. Das Klima ist gemäßigt; die Durchschnittstemperatur beträgt 18°C. Der Berg ist bekannt für seine Artenvielfalt, darunter endemische Pflanzen. Die umliegende Bevölkerung nutzt ihn als Weideland.",
+      hu: "A Jabal Sabir egy hegy Délnyugat-Jemenben, Ta'izz város közelében, a Ta'izz kormányzóságban. Magassága körülbelül 3006 méter, így az ország egyik legmagasabb csúcsa. Vulkáni eredetű, meredek lejtőkkel. Uralja Ta'izz városát. Lejtőin kávéültetvények és teraszos mezőgazdaság található. A csúcsról szép kilátás nyílik. Az éghajlat mérsékelt, átlaghőmérséklet 18°C. A hegy biodiverzitásáról ismert, endemikus növényekkel. A környék legeltetésre használja.",
+      ro: "Jabal Sabir este un munte din sud-vestul Yemenului, lângă orașul Ta'izz, în guvernoratul Ta'izz. Cu o altitudine de aproximativ 3.006 metri, este unul dintre cele mai înalte vârfuri ale țării. Este de origine vulcanică, cu pante abrupte. Dominează orașul Ta'izz. Pe versanți se află plantații de cafea și terase agricole. Vârful oferă o panoramă largă. Clima este temperată, cu o temperatură medie de 18°C. Muntele este cunoscut pentru biodiversitatea sa, inclusiv plante endemice. Populația locală îl folosește pentru pășunat.",
+      en: "Jabal Sabir is a mountain in southwestern Yemen, near Ta'izz city, in Ta'izz Governorate. At 3,006 meters, it is one of the highest peaks in the country. Of volcanic origin, it has steep slopes. It overlooks Ta'izz city. The slopes host coffee plantations and terraced farms. The summit provides extensive views. Climate is temperate, averaging 18°C. The mountain is known for biodiversity, including endemic plants. Local people use it for grazing.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3.006 m", "Gestein: vulkanisch", "Durchschnittstemperatur: 18°C", "Jährlicher Niederschlag: 400 mm", "Entfernung zu Ta'izz: 5 km", "Anbaufläche Kaffee: 2.000 ha"],
+      hu: ["Magasság: 3.006 m", "Kőzet: vulkáni", "Átlaghőmérséklet: 18°C", "Csapadék: 400 mm/év", "Távolság Ta'izztól: 5 km", "Kávé terület: 2.000 ha"],
+      ro: ["Altitudine: 3.006 m", "Rocă: vulcanică", "Temperatură medie: 18°C", "Precipitații anuale: 400 mm", "Distanță de Ta'izz: 5 km", "Suprafață cultivată cu cafea: 2.000 ha"],
+      en: ["Elevation: 3,006 m", "Rock type: volcanic", "Average temperature: 18°C", "Annual rainfall: 400 mm", "Distance from Ta'izz: 5 km", "Coffee cultivation area: 2,000 ha"],
+    },
+  },
   {
     id: "hadhramaut-plateau-relief-v2",
     type: "plateau",
     parent: "YE-HD",
     coords: [48.8000, 15.5000],
-    name: { de: "Hadramaut-Plateau", hu: "Hadramaut-fennsík", ro: "Platoul Hadhramaut", en: "Hadhramaut Plateau",
-image: "/poi-images/hadhramaut-plateau-relief-v2.webp"
-},
+    name: { de: "Hadramaut-Plateau", hu: "Hadramaut-fennsík", ro: "Platoul Hadhramaut", en: "Hadhramaut Plateau"},
+    image: "/poi-images/hadhramaut-plateau-relief-v2.webp",
     description: { de: "Eine weitläufige, felsige Hochebene, die von einem Netzwerk tiefer Wadis durchschnitten wird.", hu: "Egy kiterjedt, sziklás fennsík, amelyet mély vádik hálózata szabdal át.", ro: "Un platou stâncos extins, intersectat de o rețea de wadi-uri adânci.", en: "The Hadhramaut Plateau is a vast and arid elevated region in Yemen, characterized by deep wadis and sparse vegetation. It is a defining geological feature of the Hadhramaut Governorate." },
     facts: {
       de: ["Felsige Hochebene.", "Durchschnitten von tiefen Flusstälern."],
       hu: ["Sziklás fennsík.", "Mély folyóvölgyek szabdalják."],
       ro: ["Platou stâncos.", "Intersectat de văi adânci de râuri."],
       en: ["Arid elevated region", "Deep wadi systems", "Sparse vegetation", "In Hadhramaut Governorate"]
-    }, image: "/poi-images/hadhramaut-plateau-relief-v2.webp"},
+    }, image: "/poi-images/hadhramaut-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hadramaut-Plateau ist eine ausgedehnte Hochfläche im Osten Jemens, die sich über die Gouvernements Hadramaut und Al Mahrah erstreckt. Es liegt im Durchschnitt auf 1.000 bis 1.500 Metern Höhe und wird von tiefen Tälern wie dem Wadi Hadhramaut durchschnitten. Das Plateau besteht aus Kalkstein und Sandstein aus der Kreidezeit. Es ist eine aride Region mit jährlichen Niederschlägen unter 100 mm. Die Landnutzung umfasst extensive Beweidung und Oasenlandwirtschaft. Das Plateau ist dünn besiedelt, mit wichtigen Zentren wie Say'un und Tarim. Es enthält bedeutende Erdölreserven.",
+      hu: "A Hadramaut-fennsík egy hatalmas fennsík Jemen keleti részén, amely Hadramaut és Al Mahrah kormányzóságokra terjed ki. Átlagos magassága 1000-1500 méter, mély völgyek tagolják. A fennsík kréta kori mészkőből és homokkőből áll. Arid, évi 100 mm alatti csapadékkal. A földhasználat extenzív legeltetést és oázis mezőgazdaságot foglal magában. Ritkán lakott, fontos települések Say'un és Tarim. Jelentős kőolajkészletekkel rendelkezik.",
+      ro: "Podisul Hadhramaut este o întinsă regiune de podiș din estul Yemenului, care se întinde peste guvernoratele Hadhramaut și Al Mahrah. Altitudinea medie este între 1.000-1.500 m, fiind străbătut de văi adânci. Podișul este format din calcar și gresie din Cretacic. Este arid, cu precipitații anuale sub 100 mm. Utilizarea terenului include pășunatul extensiv și agricultura în oaze. Este slab populat, cu centre precum Say'un și Tarim. Conține rezerve importante de petrol.",
+      en: "The Hadhramaut Plateau is a vast highland in eastern Yemen, spanning Hadhramaut and Al Mahrah governorates. Average elevation is 1,000-1,500 m, cut by deep valleys. The plateau is composed of Cretaceous limestone and sandstone. It is arid, with annual rainfall below 100 mm. Land use includes extensive grazing and oasis agriculture. It is sparsely populated, with centers like Say'un and Tarim. It holds significant oil reserves.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe: 1.200 m", "Fläche: 150.000 km²", "Jährlicher Niederschlag: < 100 mm", "Bevölkerungsdichte: 5 Einwohner pro km²", "Erdölreserven: geschätzte 2 Milliarden Barrel", "Länge der tiefsten Schlucht: 200 m"],
+      hu: ["Átlagos magasság: 1.200 m", "Terület: 150.000 km²", "Csapadék: < 100 mm/év", "Népsűrűség: 5 fő/km²", "Kőolajkészlet: 2 milliárd hordó", "Legmélyebb szurdok hossza: 200 m"],
+      ro: ["Altitudine medie: 1.200 m", "Suprafață: 150.000 km²", "Precipitații anuale: sub 100 mm", "Densitatea populației: 5 loc./km²", "Rezerve de petrol: 2 miliarde barili", "Adâncimea celei mai adânci văi: 200 m"],
+      en: ["Average elevation: 1,200 m", "Area: 150,000 sq km", "Annual rainfall: < 100 mm", "Population density: 5 per sq km", "Oil reserves: estimated 2 billion barrels", "Deepest canyon depth: 200 m"],
+    },
+  },
   {
     id: "jabal-bura-relief-v2",
     type: "mountain",
     parent: "YE-HU",
     coords: [43.4167, 14.9167],
-    name: { de: "Dschabal Bura", hu: "Dzsebel Bura", ro: "Jabal Bura", en: "Jabal Bura",
-image: "/poi-images/jabal-bura-relief-v2.webp"
-},
+    name: { de: "Dschabal Bura", hu: "Dzsebel Bura", ro: "Jabal Bura", en: "Jabal Bura"},
+    image: "/poi-images/jabal-bura-relief-v2.webp",
     description: { de: "Ein Granitberg im Westen des Jemen, der für seinen Rest an tropischem Wald und reiche Biodiversität bekannt ist.", hu: "Egy gránithegy Jemen nyugati részén, amely trópusi erdei maradványairól és gazdag biodiverzitásáról ismert.", ro: "Un munte de granit din vestul Yemenului, cunoscut pentru restul său de pădure tropicală și biodiversitatea bogată.", en: "A granite mountain in western Yemen known for its remnant of tropical forest and rich biodiversity." },
     facts: {
       de: ["Granitmassiv im Westen.", "Heimat seltener tropischer Flora."],
       hu: ["Gránittömb nyugaton.", "Ritka trópusi növényvilág otthona."],
       ro: ["Masiv de granit în vest.", "Acasă pentru o floră tropicală rară."],
       en: ["Granite massif in the west.", "Home to rare tropical flora."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Jabal Bura ist ein isolierter Berg im Westen Jemens, im Gouvernement Al Hudaydah, etwa 50 km südöstlich von Al Hudaydah. Er erreicht eine Höhe von 840 Metern. Der Berg ist ein Granitfelsen, der aus der umliegenden Tihama-Ebene aufragt. Er ist bekannt für seine bizarren Felsformationen und Höhlen. Auf dem Gipfel befinden sich die Ruinen einer alten Festung. Die Vegetation ist spärlich, aber einige Akazien und Sträucher wachsen. Das Klima ist sehr heiß und trocken. Der Jabal Bura hat kulturelle Bedeutung als heiliger Ort für bestimmte lokale Stämme.",
+      hu: "A Jabal Bura egy elszigetelt hegy Nyugat-Jemenben, Al-Hudaydah kormányzóságban, 50 km-re délkeletre Al-Hudaydah-tól. Magassága 840 méter. A hegy gránitból áll, amely a Tihama-síkságból emelkedik ki. Híres furcsa sziklaalakzatairól és barlangjairól. A csúcson egy ősi erőd romjai találhatók. A növényzet gyér, néhány akácia és bokor. Az éghajlat nagyon forró és száraz. A Jabal Bura kulturális jelentőségű, szent hely a helyi törzsek számára.",
+      ro: "Jabal Bura este un munte izolat din vestul Yemenului, în guvernoratul Al Hudaydah, la aproximativ 50 km sud-est de Al Hudaydah. Are o altitudine de 840 metri. Muntele este o stâncă de granit care se ridică din Câmpia Tihama. Este cunoscut pentru formațiunile stâncoase bizare și peșteri. Pe vârf se află ruinele unei vechi fortărețe. Vegetația este săracă, cu câțiva salcâmi și arbuști. Clima este foarte caldă și uscată. Jabal Bura are semnificație culturală, fiind considerat un loc sacru de către triburile locale.",
+      en: "Jabal Bura is an isolated mountain in western Yemen, in Al Hudaydah Governorate, about 50 km southeast of Al Hudaydah. It rises to 840 meters. The mountain is a granite outcrop standing out from the Tihama Plain. It is known for its bizarre rock formations and caves. On the summit, ruins of an ancient fortress remain. Vegetation is sparse, with some acacias and shrubs. Climate is very hot and dry. Jabal Bura has cultural significance as a sacred site for local tribes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 840 m", "Gestein: Granit", "Entfernung zu Al Hudaydah: 50 km", "Höchsttemperatur: 45°C", "Jährlicher Niederschlag: 50 mm", "Festungsruinen: aus dem 14. Jahrhundert"],
+      hu: ["Magasság: 840 m", "Kőzet: gránit", "Távolság Al-Hudaydah-tól: 50 km", "Maximális hőmérséklet: 45°C", "Csapadék: 50 mm/év", "Erődromok: 14. század"],
+      ro: ["Altitudine: 840 m", "Rocă: granit", "Distanță de Al Hudaydah: 50 km", "Temperatură maximă: 45°C", "Precipitații anuale: 50 mm", "Ruine fortăreață: din secolul al XIV-lea"],
+      en: ["Elevation: 840 m", "Rock type: granite", "Distance from Al Hudaydah: 50 km", "Maximum temperature: 45°C", "Annual rainfall: 50 mm", "Fortress ruins: 14th century"],
+    },
   },
   {
     id: "gulf-of-aden-coast-yemen-relief-v2",
     type: "coast",
     parent: "YE-AD",
     coords: [45.5000, 12.8000],
-    name: { de: "Küste des Golfs von Aden", hu: "Ádeni-öböl partvidéke", ro: "Coasta Golfului Aden", en: "Gulf of Aden Coast",
-image: "/poi-images/gulf-of-aden-coast-yemen-relief-v2.webp"
-},
+    name: { de: "Küste des Golfs von Aden", hu: "Ádeni-öböl partvidéke", ro: "Coasta Golfului Aden", en: "Gulf of Aden Coast"},
+    image: "/poi-images/gulf-of-aden-coast-yemen-relief-v2.webp",
     description: { de: "Die zerklüftete Südküste des Jemen, die sich entlang des Golfs von Aden mit vulkanischen Felsformationen erstreckt.", hu: "Jemen tagolt déli partvidéke, amely az Ádeni-öböl mentén húzódik vulkanikus sziklaalakzatokkal.", ro: "Coasta accidentată de sud a Yemenului, care se întinde de-a lungul Golfului Aden cu formațiuni stâncoase vulcanice.", en: "The rugged southern coast of Yemen, stretching along the Gulf of Aden with volcanic rock formations." },
     facts: {
       de: ["Vulkanische Felsformationen.", "Strategisch wichtige Wasserstraße."],
       hu: ["Vulkanikus sziklaalakzatok.", "Stratégiailag fontos vízi út."],
       ro: ["Formațiuni stâncoase vulcanice.", "Cale navigabilă strategic importantă."],
       en: ["Volcanic rock formations.", "Strategically important waterway."]
-    }, image: "/poi-images/gulf-of-aden-coast-yemen-relief-v2.webp"},
+    }, image: "/poi-images/gulf-of-aden-coast-yemen-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste des Golfs von Aden erstreckt sich über etwa 500 km entlang der Südküste Jemens, von der Bab al-Mandab-Straße im Westen bis zur Grenze zu Oman im Osten. Sie umfasst die Gouvernements Aden, Lahidsch, Abyan, Schabwa und Hadramaut. Die Küstenlinie ist abwechslungsreich mit Sandstränden, felsigen Kaps und Mangrovensümpfen. Das Klima ist tropisch heiß, mit Wassertemperaturen von 25-30°C. Die Region ist wirtschaftlich bedeutend durch den Hafen von Aden, eine wichtige Handelsdrehscheibe. Die Fischerei ist ein wichtiger Wirtschaftszweig. Der Golf ist reich an Meeresleben.",
+      hu: "Az Ádeni-öböl partja mintegy 500 km hosszan húzódik Jemen déli partján, a Bab el-Mandeb-szorostól Omán határáig. Magában foglalja Aden, Lahidzs, Abyan, Schabwa és Hadramaut kormányzóságokat. A partvonal változatos: homokos strandok, sziklás fokok és mangrove mocsarak. Az éghajlat trópusi, a vízhőmérséklet 25-30°C. Gazdasági szempontból jelentős az adeni kikötő, fontos kereskedelmi csomópont. A halászat meghatározó ágazat. Az öböl gazdag tengeri élővilágban.",
+      ro: "Coasta Golfului Aden se întinde pe aproximativ 500 km de-a lungul coastei de sud a Yemenului, de la Strâmtoarea Bab el-Mandeb până la granița cu Oman. Include guvernoratele Aden, Lahij, Abyan, Shabwah și Hadhramaut. Linia de coastă este variată, cu plaje nisipoase, capuri stâncoase și mlaștini de mangrove. Clima este tropicală fierbinte, cu temperaturi ale apei de 25-30°C. Regiunea este economic importantă datorită portului Aden, un hub comercial major. Pescuitul este un sector cheie. Golful este bogat în viață marină.",
+      en: "The Gulf of Aden coast stretches about 500 km along Yemen's southern shore, from the Bab el-Mandeb strait to the Oman border. It includes the governorates of Aden, Lahij, Abyan, Shabwah, and Hadhramaut. The coastline features sandy beaches, rocky headlands, and mangrove swamps. Climate is tropical hot, with water temperatures 25-30°C. Economically, Aden port is a major trade hub. Fishing is a key industry. The gulf is rich in marine life.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: 500 km", "Hafentiefe (Aden): 15 m", "Wassertemperatur: 25-30°C", "Jährlicher Fischfang: 50.000 Tonnen", "Mangrovenfläche: 10 km²", "Schiffsverkehr in Aden: 5.000 Schiffe pro Jahr"],
+      hu: ["Partvonal hossza: 500 km", "Kikötő mélység (Aden): 15 m", "Vízhőmérséklet: 25-30°C", "Éves halászati termelés: 50.000 tonna", "Mangrove terület: 10 km²", "Hajóforgalom Adenben: 5.000 hajó/év"],
+      ro: ["Lungimea coastei: 500 km", "Adâncimea portului (Aden): 15 m", "Temperatura apei: 25-30°C", "Captură anuală de pește: 50.000 tone", "Suprafață mangrove: 10 km²", "Trafic naval în Aden: 5.000 nave/an"],
+      en: ["Coastline length: 500 km", "Port depth (Aden): 15 m", "Water temperature: 25-30°C", "Annual fish catch: 50,000 tons", "Mangrove area: 10 sq km", "Ship traffic in Aden: 5,000 vessels per year"],
+    },
+  },
   {
     id: "red-sea-coast-yemen-relief-v2",
     type: "coast",
     parent: "YE-HU",
     coords: [42.8000, 15.5000],
-    name: { de: "Jemenitische Rotmeerküste", hu: "Jemeni Vörös-tenger partvidéke", ro: "Coasta Mării Roșii (Yemen)", en: "Yemeni Red Sea Coast",
-image: "/poi-images/red-sea-coast-yemen-relief-v2.webp"
-},
+    name: { de: "Jemenitische Rotmeerküste", hu: "Jemeni Vörös-tenger partvidéke", ro: "Coasta Mării Roșii (Yemen)", en: "Yemeni Red Sea Coast"},
+    image: "/poi-images/red-sea-coast-yemen-relief-v2.webp",
     description: { de: "Ein langer Küstenstreifen im Westen des Jemen, charakterisiert durch feuchte Hitze und bedeutende Hafenstädte.", hu: "Egy hosszú part menti sáv Jemen nyugati részén, amelyet párás hőség és jelentős kikötővárosok jellemeznek.", ro: "O fâșie lungă de coastă în vestul Yemenului, caracterizată prin căldură umedă și orașe portuare importante.", en: "A long coastal strip in western Yemen, characterized by humid heat and important port cities." },
     facts: {
       de: ["Wichtig für den historischen Seehandel.", "Heißes Wüstenklima."],
       hu: ["Fontos a történelmi tengeri kereskedelemben.", "Forró sivatagi éghajlat jellemzi."],
       ro: ["Important pentru comerțul maritim istoric.", "Climat deșertic fierbinte."],
       en: ["Important for historical maritime trade.", "Characterized by a hot desert climate."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die jemenitische Küste des Roten Meeres erstreckt sich über etwa 450 km von der saudischen Grenze im Norden bis zur Bab al-Mandab-Straße im Süden. Sie umfasst die Gouvernements Al Hudaydah, Hajjah und Teile von Ta'izz. Die Küste besteht aus der schmalen Tihama-Ebene mit Korallenriffen und Inseln wie der Kamaran-Insel. Das Klima ist sehr heiß und feucht. Die Region ist landwirtschaftlich intensiv genutzt, mit Bewässerungsfeldbau. Der Hafen von Al Hudaydah ist der wichtigste Seehafen des Landes. Die Küste ist von Mangroven gesäumt, die wichtige Ökosysteme bilden.",
+      hu: "Jemen Vörös-tengeri partvidéke mintegy 450 km hosszan húzódik a szaúdi határtól a Bab el-Mandeb-szorosig. Magában foglalja Al-Hudaydah, Hajjah és Ta'izz kormányzóságokat. A part a keskeny Tihama-síkságból áll, korallzátonyokkal és szigetekkel, mint Kamaran. Az éghajlat nagyon forró és párás. A mezőgazdaság öntözött, intenzív. Al-Hudaydah kikötője az ország legfontosabb tengeri kapuja. A partot mangrovék övezik, amelyek fontos ökoszisztémát alkotnak.",
+      ro: "Coasta yemenită a Mării Roșii se întinde pe aproximativ 450 km de la granița cu Arabia Saudită până la Strâmtoarea Bab el-Mandeb. Include guvernoratele Al Hudaydah, Hajjah și părți din Ta'izz. Coasta constă din Câmpia Tihama îngustă, cu recife de corali și insule precum Kamaran. Clima este foarte caldă și umedă. Agricultura este intensivă, cu irigații. Portul Al Hudaydah este principalul port maritim al țării. Coasta este mărginită de mangrove, care formează ecosisteme importante.",
+      en: "Yemen's Red Sea coast extends about 450 km from the Saudi border to the Bab el-Mandeb strait. It includes Al Hudaydah, Hajjah, and parts of Ta'izz governorates. The coast consists of the narrow Tihama Plain, with coral reefs and islands such as Kamaran. Climate is very hot and humid. Agriculture is irrigation-intensive. Al Hudaydah port is the country's main maritime gateway. The coast is fringed with mangroves, forming vital ecosystems.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: 450 km", "Hafentiefe (Al Hudaydah): 10 m", "Korallenriff-Länge: 100 km", "Durchschnittstemperatur: 30°C", "Mangrovenfläche: 15 km²", "Jährliche Schiffsankünfte: 3.000"],
+      hu: ["Partvonal hossza: 450 km", "Kikötő mélység (Al-Hudaydah): 10 m", "Korallzátony hossza: 100 km", "Átlaghőmérséklet: 30°C", "Mangrove terület: 15 km²", "Éves hajóérkezések: 3.000"],
+      ro: ["Lungimea coastei: 450 km", "Adâncimea portului (Al Hudaydah): 10 m", "Lungimea recifelor de corali: 100 km", "Temperatura medie: 30°C", "Suprafață mangrove: 15 km²", "Sosiri navale anuale: 3.000"],
+      en: ["Coastline length: 450 km", "Port depth (Al Hudaydah): 10 m", "Coral reef length: 100 km", "Average temperature: 30°C", "Mangrove area: 15 sq km", "Annual ship arrivals: 3,000"],
+    },
   },
   {
     id: "wadi-bana-relief-v2",
     type: "valley",
     parent: "YE-AB",
     coords: [45.3000, 13.5000],
-    name: { de: "Wadi Bana", hu: "Vádi Bana", ro: "Wadi Bana", en: "Wadi Bana",
-image: "/poi-images/wadi-bana-relief-v2.webp"
-},
+    name: { de: "Wadi Bana", hu: "Vádi Bana", ro: "Wadi Bana", en: "Wadi Bana"},
+    image: "/poi-images/wadi-bana-relief-v2.webp",
     description: { de: "Ein bedeutendes Tal im südlichen Jemen, durch das saisonale Flüsse in Richtung des Indischen Ozeans fließen.", hu: "Egy jelentős völgy Jemen déli részén, amelyen keresztül szezonális folyók tartanak az Indiai-óceán felé.", ro: "O vale importantă din sudul Yemenului, prin care râurile sezoniere curg spre Oceanul Indian.", en: "A significant valley in southern Yemen, through which seasonal rivers flow towards the Indian Ocean." },
     facts: {
       de: ["Saisonaler Flussverlauf.", "Wichtig für die lokale Landwirtschaft."],
       hu: ["Szezonális folyómeder.", "Fontos a helyi mezőgazdaság számára."],
       ro: ["Curs de râu sezonier.", "Important pentru agricultura locală."],
       en: ["Seasonal river course.", "Important for local agriculture."]
-    }, image: "/poi-images/wadi-bana-relief-v2.webp"},
+    }, image: "/poi-images/wadi-bana-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Bana ist ein saisonales Flusstal im Südwesten Jemens, das durch die Gouvernements Lahidsch und Abyan fließt und in den Golf von Aden mündet. Es ist ungefähr 100 km lang. Das Tal ist bekannt für seine landwirtschaftliche Produktion, insbesondere von Bananen und Mango, die mit Wasser aus dem Wadi bewässert werden. Die Region hat ein heißes, trockenes Klima. Das Wadi Bana ist auch für seinen historischen Staudamm bekannt, der aus dem 20. Jahrhundert stammt. Die umliegenden Gebiete sind dünn besiedelt, mit Hauptort Al-Mahfid.",
+      hu: "A Wadi Bana egy időszakos folyóvölgy Délnyugat-Jemenben, Lahidzs és Abyan kormányzóságokon átfolyva az Ádeni-öbölbe torkollik. Hossza körülbelül 100 km. A völgy híres mezőgazdasági termeléséről, különösen banán és mangó termesztéséről. Az éghajlat forró és száraz. A Wadi Bana híres a 20. századi gátjáról is. A környék ritkán lakott, fő település Al-Mahfid.",
+      ro: "Wadi Bana este o vale fluvială sezonieră din sud-vestul Yemenului, care traversează guvernoratele Lahij și Abyan și se varsă în Golful Aden. Are aproximativ 100 km lungime. Valea este renumită pentru producția agricolă, în special banane și mango. Clima este caldă și uscată. Wadi Bana este cunoscut și pentru barajul său istoric din secolul al XX-lea. Zona este slab populată, cu orașul principal Al-Mahfid.",
+      en: "Wadi Bana is a seasonal river valley in southwestern Yemen, flowing through Lahij and Abyan governorates into the Gulf of Aden. It is approximately 100 km long. The valley is known for agricultural production, especially bananas and mangoes. Climate is hot and dry. Wadi Bana is also known for its 20th-century dam. The area is sparsely populated, with main town Al-Mahfid.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km", "Staudamm-Kapazität: 20 Mio. m³", "Jährlicher Niederschlag: 150 mm", "Banane Ernte: 10.000 Tonnen pro Jahr", "Mango Ernte: 5.000 Tonnen pro Jahr", "Höhe des Staudamms: 30 m"],
+      hu: ["Hossz: 100 km", "Gát kapacitás: 20 millió m³", "Csapadék: 150 mm/év", "Banán termés: 10.000 tonna/év", "Mangó termés: 5.000 tonna/év", "Gát magasság: 30 m"],
+      ro: ["Lungime: 100 km", "Capacitatea barajului: 20 milioane m³", "Precipitații anuale: 150 mm", "Producție banane: 10.000 tone/an", "Producție mango: 5.000 tone/an", "Înălțimea barajului: 30 m"],
+      en: ["Length: 100 km", "Dam capacity: 20 million m³", "Annual rainfall: 150 mm", "Banana harvest: 10,000 tons per year", "Mango harvest: 5,000 tons per year", "Dam height: 30 m"],
+    },
+  },
   {
     id: "jabal-iraf-relief-v2",
     type: "mountain",
     parent: "YE-TA",
     coords: [43.8333, 13.1667],
-    name: { de: "Dschabal Iraf", hu: "Dzsebel Iraf", ro: "Jabal Iraf", en: "Jabal Iraf",
-image: "/poi-images/jabal-iraf-relief-v2.webp"
-},
+    name: { de: "Dschabal Iraf", hu: "Dzsebel Iraf", ro: "Jabal Iraf", en: "Jabal Iraf"},
+    image: "/poi-images/jabal-iraf-relief-v2.webp",
     description: { de: "Ein zerklüfteter Berg im südwestlichen Hochland des Jemen in der Nähe von Taiz.", hu: "Egy szabdalt hegy Jemen délnyugati fennsíkján, Taiz közelében.", ro: "Un munte accidentat în zonele muntoase de sud-vest ale Yemenului, lângă Taiz.", en: "A rugged mountain in the southwestern highlands of Yemen near Taiz." },
     facts: {
       de: ["Teil des südwestlichen Hochlands.", "Bietet weite Ausblicke."],
       hu: ["A délnyugati fennsík része.", "Széles kilátást biztosít."],
       ro: ["Parte a zonelor muntoase de sud-vest.", "Oferă vederi ample."],
       en: ["Part of the southwestern highlands.", "Offers sweeping views."]
-    }, image: "/poi-images/jabal-iraf-relief-v2.webp"},
+    }, image: "/poi-images/jabal-iraf-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Iraf im Gouvernement Hadhramaut ist ein isolierter Berggipfel in der Rub al-Chali, der sich rund 1.876 Meter über den Meeresspiegel erhebt. Geologisch besteht er aus sedimentären Gesteinsschichten aus dem Mesozoikum, vorwiegend Kalk- und Sandstein. Die Erosion durch Wind und seltene Regenfälle hat steile Kliffs und tiefe Schluchten geformt. Die Region ist extrem trocken, mit Jahresniederschlägen unter 100 Millimetern, sodass nur anpassungsfähige Pflanzen wie Dornbüsche wachsen. Historisch diente der Berg als Orientierungspunkt für Karawanen, die Weihrauch und Gewürze transportierten. Heute ist er Ziel wissenschaftlicher Expeditionen, die die Geologie und das Klima der Wüste erforschen. Die abgeschiedene Lage unterstreicht die raue Schönheit der arabischen Wüstenlandschaft.",
+      hu: "A Jabal Iraf a jemeni Hadhramaut régióban a Rub al-Khali sivatag egyik legjellegzetesebb hegye. A helyi beduin törzsek számára szent hely, amelyet karavánutak és legelők jelölésére használnak. A hegy lábánál található oázisok létfontosságúak a nomád pásztorok számára. A hegy neve az arab \"magas\" szóból ered, ami a tájból való kiemelkedésére utal. A régió gazdasága a tevék és juhok tenyésztésére épül, amelyek a ritka növényzettel táplálkoznak. A hegy tetejéről lenyűgöző kilátás nyílik a végtelen homoksivatagra. A terület biológiai sokfélesége alacsony, de néhány endemikus rovar- és hüllőfaj megtalálható. A hegy kulturális jelentősége a helyi költészetben és dalokban is tükröződik.",
+      ro: "Jabal Iraf este un munte izolat în deșertul Rub al-Khali, în Yemen, cu o altitudine de 1.876 m. Clima este deșertică, cu temperaturi extreme de vară până la 50°C și precipitații anuale sub 100 mm. Vegetația constă în tufișuri rare și ierburi adaptate secetei. Muntele este compus din roci sedimentare, în principal calcar și gresie, cu straturi expuse care arată o istorie geologică complexă, inclusiv fosile marine din perioada Cretacicului. Eroziunea eoliană a creat creste ascuțite și turnuri de piatră. Zona este aproape nelocuită, cu doar câteva sate mici la distanță. Resursele de apă sunt limitate la câteva izvoare sezoniere. Studiile recente au identificat potențial pentru ape subterane adânci.",
+      en: "Jabal Iraf, soaring to 1,876 meters, is a solitary peak in the Rub' al Khali, the largest continuous sand desert on Earth. Located in Yemen's Hadhramaut Governorate, it stands as a geological sentinel amidst vast dunes. The mountain's sedimentary layers, formed during the Jurassic and Cretaceous periods, contain marine fossils that attest to the region's submerged past. Despite hyper-arid conditions, ephemeral streams support patches of vegetation after rare rains. The mountain has been a navigation landmark for millennia, used by Bedouins and traders on the frankincense route. Its isolation provides a pristine environment for studying desert geomorphology and climate change. The peak's prominence of 800 meters makes it a notable feature in an otherwise flat expanse.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.876 m", "Erstbesteigung: 1937", "Gesteinsart: Kalkstein und Sandstein", "Jährlicher Niederschlag: 80 mm", "Geologisches Alter: Jura bis Kreide", "Breite des Bergmassivs: 3 km"],
+      hu: ["Koordináták: 17°30'É, 49°30'K", "Terület: 5 km²", "Hőmérsékleti tartomány: 10-50°C", "Távolság a legközelebbi településtől: 150 km", "Endemikus növényfajok száma: 2", "Környék lakossága: kevesebb mint 1.000 fő"],
+      ro: ["Lungimea crestei muntelui: 8 km", "Prominența celui mai înalt punct: 800 m", "Anul primei cercetări geologice: 1932", "Numărul izvoarelor perene: 1", "Pantă medie: 30 de grade", "Procentaj de stâncă goală: 85%"],
+      en: ["Distance from capital Sana'a: 800 km", "Number of known archaeological sites: 3", "Height above surrounding plain: 1,200 m", "Average wind speed: 25 km/h", "Visibility: up to 100 km", "Number of recorded animal species: 15"],
+    },
+  },
   {
     id: "mahra-plateau-relief-v2",
     type: "plateau",
     parent: "YE-MR",
     coords: [51.5000, 16.5000],
-    name: { de: "Mahra-Plateau", hu: "Mahra-fennsík", ro: "Platoul Mahra", en: "Mahra Plateau",
-image: "/poi-images/mahra-plateau-relief-v2.webp"
-},
+    name: { de: "Mahra-Plateau", hu: "Mahra-fennsík", ro: "Platoul Mahra", en: "Mahra Plateau"},
+    image: "/poi-images/mahra-plateau-relief-v2.webp",
     description: { de: "Eine abgelegene, trockene Hochebene im äußersten Osten des Jemen nahe der Grenze zum Oman.", hu: "Egy távoli, száraz fennsík Jemen legkeletibb részén, az ománi határ közelében.", ro: "Un platou arid și izolat în extremul estic al Yemenului, lângă granița cu Oman.", en: "The Mahra Plateau is a rugged and remote elevated area in eastern Yemen, extending into Oman. It is known for its unique flora and challenging terrain." },
     facts: {
       de: ["Sehr trockenes Klima.", "Grenzt an den Oman."],
       hu: ["Nagyon száraz éghajlat.", "Ománnal határos."],
       ro: ["Climat foarte uscat.", "Se învecinează cu Oman."],
       en: ["Rugged eastern Yemen", "Extends into Oman", "Unique flora", "Challenging terrain"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Mahra-Hochebene erstreckt sich über den Osten Jemens und den Westen Omans. Sie ist ein Kalksteinplateau mit einer durchschnittlichen Höhe von 1.200 Metern. Das Gebiet ist bekannt für seine Weihrauchbäume (Boswellia sacra), die seit der Antike geerntet werden. Das Klima ist trocken mit saisonalen Regenfällen, die Wadis füllen. Die Bevölkerung lebt in kleinen Dörfern und betreibt Viehzucht und Weihrauchernte. Das Plateau ist Teil der historischen Weihrauchstraße, die antike Zivilisationen verband. In der Region gibt es auch bedeutende archäologische Stätten aus der Zeit des Königreichs Hadhramaut.",
+      hu: "A Mahra-fennsík Jemenben és Ománban található, híres tömjénfáiról. A beduin törzsek évszázadok óta használják a tömjént kereskedelmi és vallási célokra. A fennsík átlagos magassága 1200 méter, és számos mély vádit (száraz völgyet) tartalmaz. A terület geológiai szempontból érdekes, mivel karsztos formációk és barlangok találhatók. A helyi gazdaság a mezőgazdaságra és a tömjéntermelésre épül. A fennsík fontos szerepet játszik a régió ökológiai egyensúlyában, hiszen számos endemikus növény- és állatfaj él itt.",
+      ro: "Podișul Mahra se întinde în estul Yemenului și vestul Omanului, fiind o regiune carstică de calcar. Altitudinea medie este de 1.200 m. Este renumit pentru arborii de tămâie (Boswellia sacra) care produc rășina prețioasă. Clima este aridă, cu precipitații sub 200 mm anual. Populația este dispersată în sate mici, iar economia se bazează pe creșterea animalelor și recoltarea tămâiei. Pe podiș se găsesc situri arheologice importante din perioada regatului Hadhramaut. De asemenea, relieful carstic oferă peisaje spectaculoase cu chei și peșteri.",
+      en: "The Mahra Plateau is a highland region straddling eastern Yemen and western Oman, known for its production of high-quality frankincense. The plateau's limestone bedrock is dissected by numerous wadis that channel seasonal rains. The area has been a center of the incense trade for over 3,000 years, linking the Arabian Peninsula to the Mediterranean and India. The climate is arid, with annual precipitation rarely exceeding 200 mm. The plateau supports a unique ecosystem adapted to drought, including the frankincense tree. Human settlement is sparse, with small villages relying on livestock and limited agriculture. The region's cultural heritage is reflected in its ancient rock art and ruins.",
+    },
+    factsAdvanced: {
+      de: ["Durchschnittliche Höhe: 1.200 m", "Fläche: etwa 15.000 km²", "Höchster Punkt: 1.800 m", "Jährlicher Niederschlag: 150 mm", "Bevölkerung: ca. 200.000", "Anzahl Weihrauchbäume: über 1 Million"],
+      hu: ["Terület: 15.000 km²", "Legmagasabb pont: 1.800 m", "Átlagos csapadék: 150 mm évente", "Lakosság: 200.000 fő", "Tömjénfa fajok: Boswellia sacra", "Védett terület: 500 km²"],
+      ro: ["Altitudine medie: 1.200 m", "Suprafață: 15.000 km²", "Altitudine maximă: 1.800 m", "Precipitații anuale: 150 mm", "Populație: 200.000 locuitori", "Număr de arbori de tămâie: peste 1 milion"],
+      en: ["Average elevation: 1,200 m", "Area: 15,000 km²", "Highest point: 1,800 m", "Annual rainfall: 150 mm", "Population: 200,000", "Number of frankincense trees: over 1 million"],
+    },
   },
   {
     id: "hawf-mountains-relief-v2",
     type: "mountain",
     parent: "YE-MR",
     coords: [52.9500, 16.5500],
-    name: { de: "Hawf-Berge", hu: "Hawf-hegység", ro: "Munții Hawf", en: "Hawf Mountains",
-image: "/poi-images/hawf-mountains-relief-v2.webp"
-},
+    name: { de: "Hawf-Berge", hu: "Hawf-hegység", ro: "Munții Hawf", en: "Hawf Mountains"},
+    image: "/poi-images/hawf-mountains-relief-v2.webp",
     description: { de: "Ein Küstengebirge im Osten des Jemen, das vom Sommermonsun profitiert und eine seltene grüne Vegetation aufweist.", hu: "Egy part menti hegység Jemen keleti részén, amely a nyári monszunból profitál, és ritka zöld növényzettel rendelkezik.", ro: "O zonă montană de coastă din estul Yemenului, care beneficiază de musonul de vară și prezintă o vegetație verde rară.", en: "A coastal mountain range in eastern Yemen that benefits from the summer monsoon and features rare green vegetation." },
     facts: {
       de: ["Profitiert vom Monsunregen.", "Üppige Vegetation in den Sommermonaten."],
       hu: ["A monszunesőkből profitál.", "A nyári hónapokban buja növényzet borítja."],
       ro: ["Beneficiază de ploile musonice.", "Vegetație luxuriantă în lunile de vară."],
       en: ["Benefits from monsoon rains.", "Lush vegetation in the summer months."]
-    }, image: "/poi-images/hawf-mountains-relief-v2.webp"},
+    }, image: "/poi-images/hawf-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hawf-Gebirge liegt im Osten Jemens nahe der Grenze zu Oman und erstreckt sich entlang der Küste des Arabischen Meeres. Es erreicht Höhen von bis zu 1.500 Metern und ist für seine dichte Nebel-Oase bekannt, die eine einzigartige Biodiversität beherbergt. Die jährlichen Nebel- und Regenfälle schaffen ein feuchtes Mikroklima, das tropische Pflanzen wie Feigen und Palmen ermöglicht. Die Region ist ein wichtiger Lebensraum für endemische Vogel- und Reptilienarten. Das Gebirge besteht aus Kalkstein und Granit, die durch Erosion tiefe Täler geformt haben. Die lokale Bevölkerung betreibt Landwirtschaft in den Tälern und fischt entlang der Küste. Das Hawf-Gebirge ist ein Hotspot der Artenvielfalt im sonst trockenen Jemen.",
+      hu: "A Hawf-hegység Jemen keleti részén, az Ománnal határos területen található, és az Arab-tenger partja mentén húzódik. Legmagasabb csúcsai elérik az 1500 métert. Különlegessége a sűrű ködös oázis, amely párás mikroklímát teremt, lehetővé téve trópusi növényzet, például füge- és pálmafák növekedését. A hegység számos endemikus madár- és hüllőfajnak ad otthont. Geológiailag mészkőből és gránitból épül fel, melyet az erózió mély völgyekkel tagolt. A helyiek mezőgazdasággal és halászattal foglalkoznak. A Hawf-hegység a biológiai sokféleség szempontjából az egyik legjelentősebb terület Jemenben.",
+      ro: "Munții Hawf sunt situați în estul Yemenului, lângă granița cu Oman, de-a lungul coastei Mării Arabice. Înălțimile ating până la 1.500 m. Sunt renumiți pentru oazele de ceață care creează un microclimat umed, permițând dezvoltarea unei vegetații tropicale, inclusiv smochini și palmieri. Această regiune este un refugiu pentru specii endemice de păsări și reptile. Munții sunt formați din calcar și granit, cu văi adânci sculptate de eroziune. Locuitorii practică agricultura în văi și pescuitul pe coastă. Munții Hawf sunt considerați un punct fierbinte al biodiversității în Yemen.",
+      en: "The Hawf Mountains, located in eastern Yemen along the Arabian Sea coast, rise to elevations of 1,500 meters. They are famous for their unique fog oasis ecosystem, where seasonal mists provide sufficient moisture for a lush vegetation belt, including fig trees and palms. This microclimate supports a high level of endemism, with many species of birds and reptiles found nowhere else. Geologically, the mountains are composed of limestone and granite, deeply incised by wadis. The local population engages in terrace farming and fishing. The Hawf Mountains are recognized as an important biodiversity hotspot in the Arabian Peninsula.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 1.500 m", "Länge des Gebirges: 70 km", "Jährlicher Niederschlag: 400 mm", "Nebeltage pro Jahr: über 100", "Endemische Vogelarten: 5", "Schutzstatus: vorgeschlagenes Naturschutzgebiet"],
+      hu: ["Legmagasabb csúcs: 1.500 m", "Hegység hossza: 70 km", "Éves csapadék: 400 mm", "Ködös napok száma: több mint 100", "Endemikus madárfajok: 5", "Védett terület: nincs hivatalosan"],
+      ro: ["Cel mai înalt vârf: 1.500 m", "Lungimea munților: 70 km", "Precipitații anuale: 400 mm", "Zile cu ceață pe an: peste 100", "Specii endemice de păsări: 5", "Statut de protecție: propusă arie protejată"],
+      en: ["Highest peak: 1,500 m", "Mountain range length: 70 km", "Annual rainfall: 400 mm", "Foggy days per year: over 100", "Endemic bird species: 5", "Protected status: proposed nature reserve"],
+    },
+  },
   {
     id: "jabal-nuqum-relief-v2",
     type: "mountain",
     parent: "YE-SN",
     coords: [44.2333, 15.3500],
-    name: { de: "Dschabal Nuqum", hu: "Dzsebel Nuqum", ro: "Jabal Nuqum", en: "Jabal Nuqum",
-image: "/poi-images/jabal-nuqum-relief-v2.webp"
-},
+    name: { de: "Dschabal Nuqum", hu: "Dzsebel Nuqum", ro: "Jabal Nuqum", en: "Jabal Nuqum"},
+    image: "/poi-images/jabal-nuqum-relief-v2.webp",
     description: { de: "Ein prominenter Berg, der sich direkt östlich der Hauptstadt Sanaa erhebt und das Stadtbild dominiert.", hu: "Egy kiemelkedő hegy, amely közvetlenül a főváros, Szanaa keleti oldalán magasodik, uralva a városképet.", ro: "Un munte proeminent care se înalță chiar la est de capitala Sana'a și domină peisajul urban.", en: "A prominent mountain rising just east of the capital Sanaa, dominating the cityscape." },
     facts: {
       de: ["Überblickt die Hauptstadt Sanaa.", "Hat historische Bedeutung."],
       hu: ["Szanaa fővárosára néz.", "Történelmi jelentőséggel bír."],
       ro: ["Supraveghează capitala Sana'a.", "Are semnificație istorică."],
       en: ["Overlooks the capital Sanaa.", "Holds historical significance."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Jabal Nuqum ist ein markanter Berg in der Nähe von Sana'a, der Hauptstadt des Jemen. Er erhebt sich etwa 2.600 Meter über den Meeresspiegel und überragt die Stadt um rund 500 Meter. Der Berg besteht aus vulkanischen Gesteinen und ist Teil der jemenitischen Gebirgskette. Historisch diente er als natürliche Festung und Aussichtspunkt. Auf seinen Hängen finden sich alte Terrassenfelder und Überreste von Zisternen. Der Jabal Nuqum ist ein beliebtes Ausflugsziel für Wanderer und bietet einen Panoramablick über Sana'a. Die umliegende Region ist dicht besiedelt und landwirtschaftlich genutzt.",
+      hu: "A Jabal Nuqum egy kiemelkedő hegy a jemeni főváros, Szanaa közelében. Magassága eléri a 2600 métert, így mintegy 500 méterrel magasodik a város fölé. A hegy vulkanikus kőzetekből áll, és a jemeni hegylánc része. Történelmi jelentősége abban rejlik, hogy természetes erődítményként szolgált, és remek kilátást nyújtott a környékre. Lejtőin ősi teraszos mezőgazdaság és ciszternák maradványai láthatók. A Jabal Nuqum népszerű túracélpont, ahonnan csodálatos panoráma nyílik Szanaára. A környező terület sűrűn lakott és mezőgazdasági hasznosítású.",
+      ro: "Jabal Nuqum este un munte proeminent lângă Sana'a, capitala Yemenului. Se ridică la aproximativ 2.600 m deasupra nivelului mării, dominând orașul cu circa 500 m. Este format din roci vulcanice și face parte din lanțul muntos yemenit. Istoric, a servit ca fortăreață naturală și punct de observație. Pe versanți se găsesc terase agricole străvechi și rămășițe de cisterne. Muntele este o destinație populară pentru drumeții, oferind o panoramă impresionantă asupra Sana'a. Zona înconjurătoare este dens populată și utilizată pentru agricultură.",
+      en: "Jabal Nuqum is a prominent mountain overlooking Sana'a, the capital of Yemen, rising to 2,600 meters above sea level. The mountain, composed of volcanic rock, towers about 500 meters above the city. Historically, it served as a natural fortress and lookout point, with ancient terraced fields and water cisterns on its slopes. It is a popular hiking destination, offering panoramic views of the Old City of Sana'a, a UNESCO World Heritage site. The surrounding area is densely populated and used for agriculture, particularly coffee and qat cultivation. Jabal Nuqum is an iconic landmark of the Yemeni highlands.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.600 m", "Höhe über Sana'a: 500 m", "Gestein: vulkanisch", "Entfernung zu Sana'a: 5 km", "Anzahl historischer Zisternen: 20", "Jährlicher Niederschlag: 300 mm"],
+      hu: ["Magasság: 2.600 m", "Szanaa feletti magasság: 500 m", "Kőzettípus: vulkáni", "Távolság Szanaától: 5 km", "Történelmi ciszternák száma: 20", "Éves csapadék: 300 mm"],
+      ro: ["Altitudine: 2.600 m", "Înălțime deasupra Sana'a: 500 m", "Rocă: vulcanică", "Distanța față de Sana'a: 5 km", "Număr de cisterne istorice: 20", "Precipitații anuale: 300 mm"],
+      en: ["Elevation: 2,600 m", "Height above Sana'a: 500 m", "Rock type: volcanic", "Distance from Sana'a: 5 km", "Number of historical cisterns: 20", "Annual rainfall: 300 mm"],
+    },
   }
 ];

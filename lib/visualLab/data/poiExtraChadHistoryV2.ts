@@ -11,9 +11,8 @@ export const poiExtraChadHistoryV2: POI[] = [
       de: "Ouara-Ruinen",
       hu: "Ouara romjai",
       ro: "Ruinele Ouara",
-      en: "Ouara Ruins",
-image: "/poi-images/ouara-history-v2.webp"
-},
+      en: "Ouara Ruins"},
+    image: "/poi-images/ouara-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Ruinen von Ouara zeugen von einer glanzvollen Epoche des Wadai-Sultanats, als die Stadt das mächtige politische und kulturelle Zentrum der Region war. Heute bieten die verbliebenen Palastmauern und Moscheen einen faszinierenden Einblick in die Architektur des 17. Jahrhunderts. Ouara war einst ein zentraler Knotenpunkt im Trans-Sahara-Handel, wo Wissen, Kulturen und Waren zusammenkamen. Die historische Bedeutung dieses Ortes als Sitz der Sultane macht ihn zu einem unverzichtbaren Ziel für alle, die in die Geschichte der tschadischen Sultanate eintauchen wollen. Geschichte K8 — Wadai-Reich und Architektur.",
       hu: "A(z) ouara-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -46,9 +45,8 @@ image: "/poi-images/ouara-history-v2.webp"
       de: "Njimi-Ruinen",
       hu: "Njimi romjai",
       ro: "Ruinele Njimi",
-      en: "Njimi Ruins",
-image: "/poi-images/njimi-history-v2.webp"
-},
+      en: "Njimi Ruins"},
+    image: "/poi-images/njimi-history-v2.webp",
     descriptionAdvanced: {
       de: "Njimi war das pulsierende Zentrum des mittelalterlichen Kanem-Reiches, das eine der größten Territorialmächte in der Sahelzone bildete. Als Hauptstadt im 11. Jahrhundert war Njimi eine bedeutende politische und wirtschaftliche Schaltzentrale, die den Handel zwischen Nord und Süd kontrollierte. Die archäologischen Überreste erzählen Geschichten von kaiserlicher Pracht und dem Einfluss des islamischen Gelehrtenlebens. Ein Besuch von Njimi bietet eine Reise zurück in die Anfänge der Staatlichkeit im Tschad. Geschichte K7 — Kanem-Bornu-Reich.",
       hu: "A(z) njimi-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -80,9 +78,8 @@ image: "/poi-images/njimi-history-v2.webp"
       de: "Gaoui-Kulturzentrum",
       hu: "Gaoui kulturális központ",
       ro: "Centrul Cultural Gaoui",
-      en: "Gaoui Cultural Center",
-image: "/poi-images/gaoui-history-v2.webp"
-},
+      en: "Gaoui Cultural Center"},
+    image: "/poi-images/gaoui-history-v2.webp",
     descriptionAdvanced: {
       de: "Gaoui ist ein lebendiges Freilichtmuseum, das das Erbe der alten Sao-Zivilisation bewahrt. Die traditionellen Häuser mit ihren farbenfrohen Wandbemalungen und die kunstvolle Töpferei sind einmalig und machen Gaoui zu einem zentralen Ort für das Verständnis lokaler Kunstgeschichte. Als ehemalige Hauptstadt der Sao bietet der Ort einen direkten Einblick in eine Lebensweise, die weit vor den großen islamischen Reichen florierte. Gaoui verbindet Bildung mit dem Erleben traditioneller Handwerkskunst und bewahrt die kulturelle Identität des Tschad. Geschichte K8 — Sao-Zivilisation.",
       hu: "A(z) gaoui-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -114,9 +111,8 @@ image: "/poi-images/gaoui-history-v2.webp"
       de: "Yao-Sultanat",
       hu: "Yao Szultanátus",
       ro: "Sultanatul Yao",
-      en: "Yao Sultanate",
-image: "/poi-images/yao-history-v2.webp"
-},
+      en: "Yao Sultanate"},
+    image: "/poi-images/yao-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Yao-Sultanat am Fitri-See blickt auf eine traditionsreiche Geschichte als ein Zentrum der regionalen Macht zurück. Die Stadt am Ufer des Sees war über Jahrhunderte ein religiöser und administrativer Ankerpunkt für die Fitri-Region. Hier vereinten sich politische Führung und spirituelles Leben, wodurch Yao zu einer geachteten Stadt im historischen Tschad wurde. Die Spuren dieser Ära sind noch heute an den traditionellen Strukturen und der Bedeutung der lokalen Verwaltung sichtbar. Geschichte K7 — Regionale Sultanate.",
       hu: "A(z) yao-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -148,9 +144,8 @@ image: "/poi-images/yao-history-v2.webp"
       de: "Koro-Toro-Fundstätte",
       hu: "Koro Toro-i lelőhely",
       ro: "Sit arheologic Koro Toro",
-      en: "Koro Toro Site",
-image: "/poi-images/koro-toro-history-v2.webp"
-},
+      en: "Koro Toro Site"},
+    image: "/poi-images/koro-toro-history-v2.webp",
     descriptionAdvanced: {
       de: "Koro Toro ist ein weltbekannter Ort in der Djourab-Wüste, der unser Verständnis der menschlichen Evolution revolutioniert hat. Die paläontologischen Funde, wie der berühmte Hominiden-Schädel 'Abel', liefern den Beweis, dass der Tschad bereits vor über drei Millionen Jahren bewohnt war. Die Landschaft, heute eine trockene Wüste, war früher ein fruchtbares Gebiet, das die Entwicklung früher Hominiden begünstigte. Die Grabungsstätten in Koro Toro sind von unschätzbarem wissenschaftlichem Wert für die gesamte Menschheitsgeschichte. Geschichte K5 — Evolution und frühe Hominiden.",
       hu: "A(z) koro-toro-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -182,9 +177,8 @@ image: "/poi-images/koro-toro-history-v2.webp"
       de: "Toros-Menalla-Fundort",
       hu: "Toros-Menalla lelőhely",
       ro: "Sit Toros-Menalla",
-      en: "Toros-Menalla Site",
-image: "/poi-images/toros-menalla-history-v2.webp"
-},
+      en: "Toros-Menalla Site"},
+    image: "/poi-images/toros-menalla-history-v2.webp",
     descriptionAdvanced: {
       de: "Toros-Menalla hat den Tschad auf die weltweite wissenschaftliche Landkarte gesetzt, denn hier wurde 'Toumaï' entdeckt, der älteste bekannte Vorfahre der Menschheit. Mit einem Alter von ca. 7 Millionen Jahren bietet der Fund in der Sahara bahnbrechende Einblicke in den Übergang von unseren Vorfahren zu modernen Hominiden. Das Gebiet war einst reich an Wasser und Vegetation, was ideale Lebensbedingungen für Sahelanthropus tchadensis bot. Heute ist dieser Ort ein Pilgerziel für Wissenschaftler und ein Zeugnis für die fundamentale Bedeutung des Tschad für die menschliche Herkunft. Geschichte K5 — Ursprung der Menschheit.",
       hu: "A(z) toros-menalla-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -216,9 +210,8 @@ image: "/poi-images/toros-menalla-history-v2.webp"
       de: "Goulfeil-Sao-Siedlung",
       hu: "Goulfeil Sao-település",
       ro: "Așezarea Sao Goulfeil",
-      en: "Goulfeil Sao Settlement",
-image: "/poi-images/goulfeil-history-v2.webp"
-},
+      en: "Goulfeil Sao Settlement"},
+    image: "/poi-images/goulfeil-history-v2.webp",
     descriptionAdvanced: {
       de: "Goulfeil gehört zu den architektonischen Schätzen der antiken Sao-Kultur. Mit ihren gewaltigen Erdwällen, die einst als Schutz gegen Eindringlinge dienten, bietet diese Siedlungsstätte einen faszinierenden Einblick in die Wehrhaftigkeit und Organisation der alten Bewohner am Tschadsee. Die Überreste von Lehmbauten geben Aufschluss über eine hochentwickelte, vorislamische Gesellschaft, die durch Kunsthandwerk und handwerkliches Geschick beeindruckte. Goulfeil ist ein unverzichtbares Erbe für Archäologen, die das Leben in der Eisenzeit im Tschad erforschen. Geschichte K8 — Festungsarchitektur und Sao-Kultur.",
       hu: "A(z) goulfeil-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -250,9 +243,8 @@ image: "/poi-images/goulfeil-history-v2.webp"
       de: "Mdaga-Hügel",
       hu: "Mdaga-domb",
       ro: "Movila Mdaga",
-      en: "Mdaga Mound",
-image: "/poi-images/mdaga-history-v2.webp"
-},
+      en: "Mdaga Mound"},
+    image: "/poi-images/mdaga-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Mdaga-Hügel ist eine der bedeutendsten Fundstellen der Sao-Zivilisation, die eine kontinuierliche Besiedlung über Jahrhunderte aufzeigt. Durch die Ausgrabungen wurden Terrakotta-Figuren und Keramik-Artefakte zutage gefördert, die bis in das 5. Jahrhundert vor Christus zurückdatieren. Der Mdaga-Hügel ist ein geschichtliches Archiv, das die soziale und technologische Entwicklung der Sao anschaulich macht. Mit seiner Größe und Dichte an Funden zählt er zu den archäologischen Highlights des gesamten Chari-Baguirmi-Gebiets. Geschichte K7 — Archäologische Siedlungsgeschichte.",
       hu: "A(z) mdaga-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -284,9 +276,8 @@ image: "/poi-images/mdaga-history-v2.webp"
       de: "Amsile-Stätte",
       hu: "Amsile-lelőhely",
       ro: "Sit arheologic Amsile",
-      en: "Amsile Site",
-image: "/poi-images/amsile-history-v2.webp"
-},
+      en: "Amsile Site"},
+    image: "/poi-images/amsile-history-v2.webp",
     descriptionAdvanced: {
       de: "Amsile ist ein weiterer archäologischer Eckpfeiler der Sao-Kultur, der durch die Entdeckung antiker Keramiken berühmt wurde. Die Fundstätte in der Nähe des Schari-Flusses verdeutlicht die enge Verbindung der Sao mit ihrer Wasserumgebung. Die Befestigungen und Funde aus der Eisenzeit zeigen eine hochentwickelte Gesellschaft, die sowohl in der Landwirtschaft als auch in der Kunst äußerst aktiv war. Archäologen betrachten Amsile als einen zentralen Punkt zur Erforschung des täglichen Lebens und der sozialen Hierarchien in der vorislamischen Ära des Tschad. Geschichte K8 — Vorislamische Lebensstile.",
       hu: "A(z) amsile-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -318,9 +309,8 @@ image: "/poi-images/amsile-history-v2.webp"
       de: "Tago-Fundplatz",
       hu: "Tago-i lelőhely",
       ro: "Sit arheologic Tago",
-      en: "Tago Site",
-image: "/poi-images/tago-history-v2.webp"
-},
+      en: "Tago Site"},
+    image: "/poi-images/tago-history-v2.webp",
     descriptionAdvanced: {
       de: "Tago ist bekannt für seine eindrucksvollen Urnenbestattungen, die ein Licht auf die Bestattungsriten der Sao und ihrer Nachfolger, der Kotoko, werfen. Die archäologischen Ausgrabungen hier haben bedeutende Bronzearbeiten ans Tageslicht gebracht, die das handwerkliche Geschick und den künstlerischen Ausdruck dieser Epoche unterstreichen. Die vorislamische Siedlung ist ein wichtiger Ort, um die kulturelle Kontinuität in der Region zu verstehen. Tago ist ein unverzichtbares Ziel für Geschichtsforscher, die die prähistorische Kunst des Tschad schätzen. Geschichte K8 — Bestattungskultur.",
       hu: "A(z) tago-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések.",
@@ -352,9 +342,8 @@ image: "/poi-images/tago-history-v2.webp"
       de: "Niola-Doa-Felskunst",
       hu: "Niola Doa sziklarajzok",
       ro: "Arta rupestră Niola Doa",
-      en: "Niola Doa Rock Art",
-image: "/poi-images/niola-doa-history-v2.webp"
-},
+      en: "Niola Doa Rock Art"},
+    image: "/poi-images/niola-doa-history-v2.webp",
     descriptionAdvanced: {
       de: "Niola Doa beherbergt ein spektakuläres Erbe der prähistorischen Kunst, die als die 'tanzenden Frauen' von Ennedi weit über die Landesgrenzen hinaus bekannt ist. Diese lebensgroßen Felsgravuren sind ein faszinierendes Zeugnis der künstlerischen Ambitionen vergangener Zivilisationen in einer Zeit, in der die Sahara noch grüner war. Die Stätte wird auf über 3000 Jahre geschätzt und symbolisiert kulturelle Konzepte wie Fruchtbarkeit, die schon damals eine große Rolle spielten. Niola Doa ist ein Meisterwerk, das die ästhetische Kraft der frühen Wüstenkunst verdeutlicht. Geografie K7 — Wüstenkunst.",
       hu: "A(z) niola-doa-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -384,9 +373,8 @@ image: "/poi-images/niola-doa-history-v2.webp"
       de: "Gonoa-Gravuren",
       hu: "Gonoa sziklavésetek",
       ro: "Gravurile Gonoa",
-      en: "Gonoa Petroglyphs",
-image: "/poi-images/gonoa-history-v2.webp"
-},
+      en: "Gonoa Petroglyphs"},
+    image: "/poi-images/gonoa-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Felsgravuren von Gonoa im Tibesti-Gebirge sind steinerne Botschaften aus der Steinzeit. Sie zeichnen das Bild einer einst blühenden Savannenlandschaft, die durch Darstellungen von Elefanten und Jägern lebendig wird. Diese Petroglifen sind essenzielle Dokumente für das Verständnis der gravierenden klimatischen Veränderungen, die die Sahara durchlebt hat. Seit Tausenden von Jahren bewahren sie das Wissen über das Leben unter völlig anderen ökologischen Bedingungen. Gonoa ist für Archäologen und Klimaforscher gleichermaßen von hohem Interesse. Geschichte K6 — Klimawandel in der Prähistorie.",
       hu: "A(z) gonoa-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -416,9 +404,8 @@ image: "/poi-images/gonoa-history-v2.webp"
       de: "Soborom-Thermen",
       hu: "Soborom termálvizek",
       ro: "Termele Soborom",
-      en: "Soborom Thermal Springs",
-image: "/poi-images/soborom-history-v2.webp"
-},
+      en: "Soborom Thermal Springs"},
+    image: "/poi-images/soborom-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Thermen von Soborom sind ein jahrhundertealter Treffpunkt in den vulkanischen Landschaften des Tibesti. Hier treffen sich die Tubu-Nomaden seit Generationen, um sich auszutauschen und von den medizinischen Kräften der heißen Quellen zu profitieren. Soborom ist nicht nur eine medizinische Stätte, sondern auch ein Ort von tiefer kultureller Bedeutung, der als Ankerpunkt für den sozialen Zusammenhalt dient. Trotz der Abgeschiedenheit ist dieser Ort ein lebendiges Zeugnis für die Anpassung an extreme Umgebungen. Geografie K9 — Traditionelle Heilkunst.",
       hu: "A(z) soborom-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -448,9 +435,8 @@ image: "/poi-images/soborom-history-v2.webp"
       de: "Terkezi-Galerie",
       hu: "Terkezi sziklarajz-galéria",
       ro: "Galeria Terkezi",
-      en: "Terkezi Gallery",
-image: "/poi-images/terkezi-history-v2.webp"
-},
+      en: "Terkezi Gallery"},
+    image: "/poi-images/terkezi-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Galerie von Terkezi ist ein wahres Meisterwerk der prähistorischen Felsmalerei im Herzen der Sahara. Die lebendigen Pigmente, die Szenen von Jagd und Krieg zeigen, gewähren uns einen seltenen Einblick in das Leben und die Weltbilder antiker Gemeinschaften. Die Stätte ist Teil des reichen Ennedi-Erbes, das den Tschad als ein Zentrum prähistorischer Kultur auszeichnet. Terkezi ist ein Ort, an dem die Zeit stillzustehen scheint und die Vergangenheit in den leuchtenden Farben der Malereien lebendig wird. Geografie K7 — Prähistorische Kunst.",
       hu: "A(z) terkezi-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -480,9 +466,8 @@ image: "/poi-images/terkezi-history-v2.webp"
       de: "Fada-Felsbilder-Stätte",
       hu: "Fadai sziklarajzok",
       ro: "Sit arheologic Fada",
-      en: "Fada Rock Art Site",
-image: "/poi-images/fada-rock-art-history-v2.webp"
-},
+      en: "Fada Rock Art Site"},
+    image: "/poi-images/fada-rock-art-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Felsbilder nahe Fada bieten eine außergewöhnliche archäologische Dokumentation menschlicher Besiedlung in verschiedenen Epochen. Die überlagerten Stile, von der Viehzucht bis zu frühen jagdorientierten Szenen, zeigen, wie sich die Lebensgrundlagen der Menschen in der Sahara wandelten. Fada fungiert als kulturelle Brücke zwischen der Wüste und den sesshafteren Lebensweisen, was die archäologischen Funde besonders reichhaltig macht. Die Stätte ist ein unentbehrliches Archiv für die Erforschung der menschlichen Anpassungsfähigkeit. Geschichte K8 — Anpassungsfähigkeit.",
       hu: "A(z) fada-rock-art-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -512,9 +497,8 @@ image: "/poi-images/fada-rock-art-history-v2.webp"
       de: "Massenya-Palastruinen",
       hu: "Massenyai palotaromok",
       ro: "Ruinele Palatului Massenya",
-      en: "Massenya Palace Ruins",
-image: "/poi-images/massenya-ruins-history-v2.webp"
-},
+      en: "Massenya Palace Ruins"},
+    image: "/poi-images/massenya-ruins-history-v2.webp",
     descriptionAdvanced: {
       de: "Massenya war als Hauptstadt des Baguirmi-Königreichs ab dem 16. Jahrhundert ein machtvoller Akteur im tschadischen Raum. Die Ruinen des Palastes und die Reste der Stadtmauer erzählen von einer Zeit, in der das Baguirmi-Reich den Handel und die regionale Politik maßgeblich beeinflusste. Massenya ist ein Symbol für die Stärke traditioneller Herrschaftsstrukturen im Tschad. Die Stätte ist heute ein bedeutendes Ziel für Geschichtsinteressierte, die die Architektur und die Macht des Baguirmi-Reiches verstehen wollen. Geschichte K7 — Baguirmi-Königreich.",
       hu: "A(z) massenya-ruins-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -544,9 +528,8 @@ image: "/poi-images/massenya-ruins-history-v2.webp"
       de: "Abéché-Sultanspalast",
       hu: "Abéché-i szultáni palota",
       ro: "Palatul Sultanului din Abéché",
-      en: "Abéché Sultan Palace",
-image: "/poi-images/abeche-palace-history-v2.webp"
-},
+      en: "Abéché Sultan Palace"},
+    image: "/poi-images/abeche-palace-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Sultanspalast in Abéché ist das architektonische und kulturelle Zentrum der Wadai-Geschichte. Als Residenz der Sultane von Wadai zeugt er von der Macht und dem Einfluss, den dieses Reich einst über weite Teile der östlichen Sahara ausübte. Mit seiner traditionellen islamischen Architektur und den imposanten Toren ist er ein lebendiges Denkmal, das die Verbindung zwischen der historischen Macht und der heutigen Autorität in Abéché darstellt. Der Palast ist ein Ort, an dem die Geschichte des wadaiischen Adels lebendig bleibt. Geschichte K8 — Wadai-Sultanat.",
       hu: "A(z) abeche-palace-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -576,9 +559,8 @@ image: "/poi-images/abeche-palace-history-v2.webp"
       de: "Njimi-Königliche-Gräber",
       hu: "Njimi királysírok",
       ro: "Mormintele regale Njimi",
-      en: "Njimi Royal Tombs",
-image: "/poi-images/njimi-tombs-history-v2.webp"
-},
+      en: "Njimi Royal Tombs"},
+    image: "/poi-images/njimi-tombs-history-v2.webp",
     descriptionAdvanced: {
       de: "Die königlichen Gräber in Njimi sind heilige Stätten, die die Herrscher des Kanem-Reiches ehren. Diese historischen Grabmonumente zeugen von der imperialen Macht, die Kanem einst in Zentralafrika ausübte. Sie dienen als spirituelle Ankerpunkte im Norden, die die Verbindung zwischen den gegenwärtigen Bewohnern und ihren kaiserlichen Vorfahren aufrechterhalten. Die Gräber sind nicht nur archäologische Artefakte, sondern Orte der Ehrerbietung und des kulturellen Stolzes, die das imperiale Erbe Kanems repräsentieren. Geschichte K7 — Kanem-Herrscher.",
       hu: "A(z) njimi-tombs-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -609,9 +591,8 @@ image: "/poi-images/njimi-tombs-history-v2.webp"
       de: "Bahr-el-Gazel-Route",
       hu: "Bahr el Gazel útvonal",
       ro: "Ruta Bahr el Gazel",
-      en: "Bahr el Gazel Route",
-image: "/poi-images/bahr-el-gazel-history-v2.webp"
-},
+      en: "Bahr el Gazel Route"},
+    image: "/poi-images/bahr-el-gazel-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Route des Bahr-el-Ghazal war eine Lebensader des Trans-Sahara-Handels, die den Tschadsee mit dem Norden verband. In den trockenen Perioden des Jahres wurde dieses Tal als wichtiger Handelsweg genutzt, der den Austausch zwischen verschiedenen Kulturen und die Verbreitung des Islam maßgeblich förderte. Entlang des Weges entstanden Oasen, die als wichtige Ruhepunkte dienten und kulturelle Spuren hinterließen. Heute ist die Bahr-el-Ghazal-Route ein steinernes Archiv, das von den Handelsbewegungen und den historischen Verbindungen des Tschad erzählt. Geografie K7 — Historische Handelswege.",
       hu: "A(z) bahr-el-gazel-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."
@@ -641,9 +622,8 @@ image: "/poi-images/bahr-el-gazel-history-v2.webp"
       de: "Mao-Sultanatssitz",
       hu: "Mao szultáni székhely",
       ro: "Sediul Sultanatului Mao",
-      en: "Mao Sultanate Seat",
-image: "/poi-images/mao-sultanate-history-v2.webp"
-},
+      en: "Mao Sultanate Seat"},
+    image: "/poi-images/mao-sultanate-history-v2.webp",
     descriptionAdvanced: {
       de: "Der Sultanssitz in Mao ist das administrative und spirituelle Epizentrum für das heutige Kanem. Hier wird das Erbe der alten Kanem-Herrscher in einem modernen Kontext bewahrt und gepflegt. Mao ist nicht nur ein politischer Ort, sondern auch ein Ort der Identität, der den Adel und die Traditionen der Region stärkt. Als Sitz des Sultans verkörpert es Kontinuität und Stabilität im ständigen Wandel der Region. Dieser Ort ist ein lebendiges Zeugnis für die Kraft und Anpassungsfähigkeit traditioneller Institutionen. Geschichte K8 — Kontinuität traditioneller Macht.",
       hu: "A(z) mao-sultanate-history-v2 település a régió egyik meghatározó központja, amely a helyi gazdasági és társadalmi életben játszik kulcsszerepet. A környék földrajzi adottságai és a közösség hagyományai együttesen formálják a város fejlődését, amely nélkülözhetetlen a régió közigazgatása és az áruforgalom szempontjából. Földrajz K5 — Régiók és települések."

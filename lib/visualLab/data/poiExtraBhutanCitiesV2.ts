@@ -7,7 +7,6 @@ export const poiExtraBhutanCitiesV2: POI[] = [
     parent: "BT-15",
     coords: [89.6390, 27.4728],
     name: { de: "Thimphu", hu: "Thimphu", ro: "Thimphu", en: "Thimphu",
-image: "/poi-images/thimphu-cities-v2.webp"
 },
     description: {
       de: "Thimphu ist die Hauptstadt und größte Stadt von Bhutan, bekannt für ihre Mischung aus traditioneller Kultur und Moderne ohne Verkehrsampeln.",
@@ -33,16 +32,14 @@ image: "/poi-images/thimphu-cities-v2.webp"
         "It became the capital of the kingdom in 1961."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Established as capital in 1961.", "Altitude: Approximately 2,334 meters.", "Population: Over 115,000 as of 2017.", "Home to the Tashichho Dzong, a fortress-monastery.", "Features the world's tallest sitting Buddha statue, Buddha Dordenma.", "The city has no traffic lights; intersections are manually directed.", "The National Memorial Chorten was built in 1974.", "The Motithang Takin Preserve protects Bhutan's national animal."]
-    }, image: "/poi-images/thimphu-cities-v2.webp"},
+    image: "/poi-images/thimphu-cities-v2.webp",
+  },
   {
     id: "phuntsholing-cities-v2",
     type: "city",
     parent: "BT-12",
     coords: [89.3833, 26.8500],
     name: { de: "Phuntsholing", hu: "Phuntsholing", ro: "Phuntsholing", en: "Phuntsholing",
-image: "/poi-images/phuntsholing-cities-v2.webp"
 },
     description: {
       de: "Phuntsholing ist eine Grenzstadt im Süden von Bhutan, die als das wichtigste kommerzielle Zentrum und Tor nach Indien fungiert.",
@@ -68,16 +65,14 @@ image: "/poi-images/phuntsholing-cities-v2.webp"
         "Cross-border trade is the backbone of the local economy."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Borders the Indian town of Jaigaon.", "Serves as the main commercial hub of Bhutan.", "Altitude: Approximately 300 meters.", "The Bhutan Gate is a major landmark at the border crossing.", "The Zangto Pelri Lhakhang was built in the 1990s.", "Phuntsholing is the administrative seat of Chukha District.", "It experiences a hot, humid subtropical climate.", "Cross-border trade with India is the primary economic activity."]
-    }, image: "/poi-images/phuntsholing-cities-v2.webp"},
+    image: "/poi-images/phuntsholing-cities-v2.webp",
+  },
   {
     id: "paro-cities-v2",
     type: "city",
     parent: "BT-11",
     coords: [89.4167, 27.4333],
     name: { de: "Paro", hu: "Paro", ro: "Paro", en: "Paro",
-image: "/poi-images/paro-cities-v2.webp"
 },
     description: {
       de: "Paro ist eine historische Stadt im Paro-Tal, Heimat des einzigen internationalen Flughafens von Bhutan und zahlreicher heiliger Stätten.",
@@ -103,16 +98,14 @@ image: "/poi-images/paro-cities-v2.webp"
         "The town has many traditional Bhutanese houses."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Home to Paro International Airport (PBH).", "Altitude: Approximately 2,200 meters.", "The famous Taktsang (Tiger's Nest) Monastery is located here.", "Rinpung Dzong, built in 1646, is a major landmark.", "The National Museum is housed in the Ta Dzong.", "The Paro Tshechu is one of the biggest religious festivals in Bhutan.", "Kyichu Lhakhang is one of the oldest temples in Bhutan, built in the 7th century.", "The main street was built in 1985."]
-    }, image: "/poi-images/paro-cities-v2.webp"},
+    image: "/poi-images/paro-cities-v2.webp",
+  },
   {
     id: "gelephu-cities-v2",
     type: "city",
     parent: "BT-34",
     coords: [90.5000, 26.8667],
     name: { de: "Gelephu", hu: "Gelephu", ro: "Gelephu", en: "Gelephu",
-image: "/poi-images/gelephu-cities-v2.webp"
 },
     description: {
       de: "Gelephu ist eine schnell wachsende Stadt im Süden Bhutans an der indischen Grenze, die für ihre warmen Quellen und tropische Landwirtschaft bekannt ist.",
@@ -138,16 +131,14 @@ image: "/poi-images/gelephu-cities-v2.webp"
         "It is planned to become a major mindfulness city project."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Located in Sarpang District, southern Bhutan.", "Site of a planned major economic and administrative hub called 'Mindfulness City'.", "It has a domestic airport (GLU).", "Known for the Gelephu Tshachu (hot springs).", "Experiences a hot, subtropical climate.", "Major agricultural products include oranges and cardamom.", "Population was approximately 9,858 in 2017.", "It is one of the three designated points of entry for foreigners by road."]
-    }, image: "/poi-images/gelephu-cities-v2.webp"},
+    image: "/poi-images/gelephu-cities-v2.webp",
+  },
   {
     id: "samdrup-jongkhar-cities-v2",
     type: "city",
     parent: "BT-45",
     coords: [91.5000, 26.8000],
     name: { de: "Samdrup Jongkhar", hu: "Samdrup Jongkhar", ro: "Samdrup Jongkhar", en: "Samdrup Jongkhar",
-image: "/poi-images/samdrup-jongkhar-cities-v2.webp"
 },
     description: {
       de: "Samdrup Jongkhar ist die wichtigste Stadt im Südosten Bhutans und dient als wichtiger Handelspunkt mit dem indischen Bundesstaat Assam.",
@@ -173,16 +164,14 @@ image: "/poi-images/samdrup-jongkhar-cities-v2.webp"
         "The region is rich in coal and other minerals."
       ]
     },
-    factsAdvanced: {
-      multi4: ["It is the oldest town in southeastern Bhutan.", "Borders the Indian state of Assam.", "Serves as a major gateway to eastern Bhutan.", "The region is known for coal mining.", "Altitude: Approximately 280 meters.", "The Samdrup Jongkhar Dzong is the administrative headquarters.", "The town hosts a weekly market attracting traders from India.", "The Deothang town, site of a historic battle, is nearby."]
-    }, image: "/poi-images/samdrup-jongkhar-cities-v2.webp"},
+    image: "/poi-images/samdrup-jongkhar-cities-v2.webp",
+  },
   {
     id: "wangdue-phodrang-cities-v2",
     type: "city",
     parent: "BT-24",
     coords: [89.9000, 27.4833],
     name: { de: "Wangdue Phodrang", hu: "Wangdue Phodrang", ro: "Wangdue Phodrang", en: "Wangdue Phodrang",
-image: "/poi-images/wangdue-phodrang-cities-v2.webp"
 },
     description: {
       de: "Wangdue Phodrang ist eine malerische Stadt, die um ihren großen historischen Dzong gebaut wurde, welcher eine wichtige Handelsroute kontrolliert.",
@@ -208,16 +197,14 @@ image: "/poi-images/wangdue-phodrang-cities-v2.webp"
         "The area is famous for bamboo products and slate carvings."
       ]
     },
-    factsAdvanced: {
-      multi4: ["The original Wangdue Phodrang Dzong was built in 1638.", "The historic dzong was destroyed by fire in June 2012.", "The dzong is currently being rebuilt with traditional methods.", "The town is located at the confluence of the Puna Tsang Chhu and Dang Chhu rivers.", "Altitude: Approximately 1,300 meters.", "The region is known for its distinctive bamboo work and stone carving.", "The nearby Phobjikha Valley is a wintering ground for black-necked cranes.", "It serves as the administrative center of Wangdue Phodrang District."]
-    }, image: "/poi-images/wangdue-phodrang-cities-v2.webp"},
+    image: "/poi-images/wangdue-phodrang-cities-v2.webp",
+  },
   {
     id: "punakha-cities-v2",
     type: "city",
     parent: "BT-23",
     coords: [89.8667, 27.5833],
     name: { de: "Punakha", hu: "Punakha", ro: "Punakha", en: "Punakha",
-image: "/poi-images/punakha-cities-v2.webp"
 },
     description: {
       de: "Punakha war bis 1955 die Hauptstadt von Bhutan und ist berühmt für ihren majestätischen Dzong am Zusammenfluss zweier großer Flüsse.",
@@ -243,16 +230,14 @@ image: "/poi-images/punakha-cities-v2.webp"
         "The climate is relatively warm compared to Thimphu."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Former capital of Bhutan until 1955.", "Punakha Dzong was built in 1637 by Shabdrung Ngawang Namgyal.", "The dzong is located at the confluence of Pho Chhu and Mo Chhu rivers.", "Altitude: Approximately 1,200 meters.", "Site of the coronation of the first king, Ugyen Wangchuck, in 1907.", "Hosts the Punakha Tshechu and Drubchen festivals.", "The nearby Chimi Lhakhang temple is dedicated to fertility.", "The valley is a major rice-producing area."]
-    }, image: "/poi-images/punakha-cities-v2.webp"},
+    image: "/poi-images/punakha-cities-v2.webp",
+  },
   {
     id: "jakar-cities-v2",
     type: "city",
     parent: "BT-31",
     coords: [90.7500, 27.5500],
     name: { de: "Jakar", hu: "Jakar", ro: "Jakar", en: "Jakar",
-image: "/poi-images/jakar-cities-v2.webp"
 },
     description: {
       de: "Jakar, bekannt als das Zentrum der Region Bumthang, gilt als spirituelles Herzland Bhutans mit vielen alten Klöstern.",
@@ -278,16 +263,14 @@ image: "/poi-images/jakar-cities-v2.webp"
         "It is famous for its honey and cheese production."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Located in the Bumthang Valley, the spiritual center of Bhutan.", "Jakar Dzong was constructed in 1667.", "Altitude: Approximately 2,600 meters.", "The region is known for its 'four valleys' geography.", "Home to ancient temples like Jambay Lhakhang (7th century).", "Famous for producing Swiss-style cheese and Red Panda beer.", "The Wangduechhoeling Palace was the first palace of the Wangchuck dynasty.", "Bumthang is a major producer of buckwheat in Bhutan."]
-    }, image: "/poi-images/jakar-cities-v2.webp"},
+    image: "/poi-images/jakar-cities-v2.webp",
+  },
   {
     id: "mongar-cities-v2",
     type: "city",
     parent: "BT-42",
     coords: [91.2500, 27.2833],
     name: { de: "Mongar", hu: "Mongar", ro: "Mongar", en: "Mongar",
-image: "/poi-images/mongar-cities-v2.webp"
 },
     description: {
       de: "Mongar ist eine wichtige Stadt im Osten Bhutans, die spektakulär auf der Seite eines Hügels statt in einem Tal liegt.",
@@ -313,16 +296,14 @@ image: "/poi-images/mongar-cities-v2.webp"
         "It marks the beginning of eastern Bhutan."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Known as the gateway to Eastern Bhutan.", "The town is built on a hillside, not in a valley.", "Mongar Dzong was built in 1930 at the request of the third king.", "The journey to Mongar crosses the high Thrumshingla Pass (3,750m).", "Altitude of the town is approximately 1,600 meters.", "The region is noted for its weavers and textiles.", "It is the administrative capital of Mongar District.", "The area is famous for the production of corn."]
-    }, image: "/poi-images/mongar-cities-v2.webp"},
+    image: "/poi-images/mongar-cities-v2.webp",
+  },
   {
     id: "trashigang-cities-v2",
     type: "city",
     parent: "BT-41",
     coords: [91.5500, 27.3333],
     name: { de: "Trashigang", hu: "Trashigang", ro: "Trashigang", en: "Trashigang",
-image: "/poi-images/trashigang-cities-v2.webp"
 },
     description: {
       de: "Trashigang ist eine geschäftige Stadt im Osten, die traditionell das Zentrum des Handels mit Tibet war und über dem Drangme Chhu-Fluss thront.",
@@ -348,16 +329,14 @@ image: "/poi-images/trashigang-cities-v2.webp"
         "The first college of Bhutan is located nearby."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Largest town in eastern Bhutan.", "Trashigang Dzong was built in 1659 to defend against Tibetan invasions.", "Altitude: Approximately 1,150 meters.", "It serves as a market town for the Brokpa people of Merak and Sakteng.", "Sherubtse College, Bhutan's first, is located in the district.", "The dzong overlooks the confluence of the Drangme Chhu and Gamri Chhu.", "The town was once a busy trade center with Tibet.", "Gom Kora temple, a popular pilgrimage site, is a short drive away."]
-    }, image: "/poi-images/trashigang-cities-v2.webp"},
+    image: "/poi-images/trashigang-cities-v2.webp",
+  },
   {
     id: "trongsa-cities-v2",
     type: "city",
     parent: "BT-32",
     coords: [90.5000, 27.5000],
     name: { de: "Trongsa", hu: "Trongsa", ro: "Trongsa", en: "Trongsa",
-image: "/poi-images/trongsa-cities-v2.webp"
 },
     description: {
       de: "Trongsa liegt geografisch im Zentrum Bhutans und war historisch von entscheidender Bedeutung für die Kontrolle des Königreichs.",
@@ -383,16 +362,14 @@ image: "/poi-images/trongsa-cities-v2.webp"
         "The royal family has its ancestral roots here."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Ancestral home of the Bhutanese Royal Family.", "Trongsa Dzong is the largest dzong in Bhutan, built in 1644.", "Located in the geographical center of the country.", "The first and second kings of Bhutan ruled the country from Trongsa.", "Altitude: Approximately 2,200 meters.", "The Ta Dzong (watchtower) above the main fortress is now a museum.", "The title 'Penlop of Trongsa' is traditionally held by the crown prince.", "The town's name means 'new village' in Dzongkha."]
-    }, image: "/poi-images/trongsa-cities-v2.webp"},
+    image: "/poi-images/trongsa-cities-v2.webp",
+  },
   {
     id: "samtse-cities-v2",
     type: "city",
     parent: "BT-14",
     coords: [89.1000, 26.9000],
     name: { de: "Samtse", hu: "Samtse", ro: "Samtse", en: "Samtse",
-image: "/poi-images/samtse-cities-v2.webp"
 },
     description: {
       de: "Samtse ist eine grenznahe Industriestadt im Südwesten Bhutans mit einer vielfältigen Bevölkerung und reichen Mineralvorkommen.",
@@ -418,16 +395,14 @@ image: "/poi-images/samtse-cities-v2.webp"
         "The town features distinct cultural influences from neighboring India."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Located in southwestern Bhutan, near the border with India.", "Administrative headquarters of Samtse District.", "Home to Samtse College of Education, established in 1968.", "The district is a major producer of oranges and cardamom.", "Population is predominantly of Lhotshampa (Nepali-speaking) origin.", "Altitude: Approximately 415 meters.", "The region is known for its deposits of talc and dolomite.", "Samtse was previously known as Sipsu."]
-    }, image: "/poi-images/samtse-cities-v2.webp"},
+    image: "/poi-images/samtse-cities-v2.webp",
+  },
   {
     id: "damphu-cities-v2",
     type: "city",
     parent: "BT-21",
     coords: [90.1167, 27.0167],
     name: { de: "Damphu", hu: "Damphu", ro: "Damphu", en: "Damphu",
-image: "/poi-images/damphu-cities-v2.webp"
 },
     description: {
       de: "Damphu ist das Verwaltungszentrum des Tsirang-Distrikts und berühmt für sein sanftes Klima und reiche landwirtschaftliche Erträge.",
@@ -453,16 +428,14 @@ image: "/poi-images/damphu-cities-v2.webp"
         "It is a major producer of organic vegetables in the country."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Administrative center of Tsirang District.", "The district is renowned for its high agricultural productivity.", "Major products include organic oranges, cardamom, and vegetables.", "Altitude: Approximately 1,100 meters.", "The population is largely Lhotshampa.", "A new dzong was consecrated in Tsirang in 2008.", "The area is known for its gentle slopes and mild climate.", "The name 'Tsirang' is believed to mean 'leafy slope'."]
-    }, image: "/poi-images/damphu-cities-v2.webp"},
+    image: "/poi-images/damphu-cities-v2.webp",
+  },
   {
     id: "haa-cities-v2",
     type: "city",
     parent: "BT-13",
     coords: [89.2833, 27.3833],
     name: { de: "Haa", hu: "Haa", ro: "Haa", en: "Haa",
-image: "/poi-images/haa-cities-v2.webp"
 },
     description: {
       de: "Haa ist eine kleine, abgeschiedene Stadt im Westen Bhutans, eingebettet in ein tiefes Tal nahe der Grenze zu Tibet.",
@@ -488,16 +461,14 @@ image: "/poi-images/haa-cities-v2.webp"
         "The local Indian Military Training Team has a significant base here."
       ]
     },
-    factsAdvanced: {
-      multi4: ["The Haa Valley opened to tourism in 2002.", "Located in western Bhutan, bordering Tibet.", "Altitude: Approximately 2,700 meters.", "Home to the Lhakhang Karpo (White Temple) and Lhakhang Nagpo (Black Temple).", "The Indian Military Training Team (IMTRAT) has a base here.", "The Haa Summer Festival showcases local culture.", "The main crops are wheat, barley, and potatoes.", "The valley is known for its traditional shamanistic rituals."]
-    }, image: "/poi-images/haa-cities-v2.webp"},
+    image: "/poi-images/haa-cities-v2.webp",
+  },
   {
     id: "lhuntse-cities-v2",
     type: "city",
     parent: "BT-44",
     coords: [91.1667, 27.6667],
     name: { de: "Lhuntse", hu: "Lhuntse", ro: "Lhuntse", en: "Lhuntse",
-image: "/poi-images/lhuntse-cities-v2.webp"
 },
     description: {
       de: "Lhuntse ist eine abgelegene Siedlung im Nordosten Bhutans, die weithin für ihre exquisiten und komplexen Webkünste anerkannt ist.",
@@ -523,16 +494,14 @@ image: "/poi-images/lhuntse-cities-v2.webp"
         "Kishu Thara, a highly prized Bhutanese textile, originates here."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Ancestral home of the Bhutanese Royal Family.", "Renowned for its master weavers and high-quality textiles (Kishu Thara).", "Lhuntse Dzong overlooks the Kuri Chhu river.", "Altitude: Approximately 1,460 meters.", "It is one of the most rural and isolated districts in Bhutan.", "The world's largest statue of Guru Padmasambhava is located in the district.", "The landscape is rugged and mountainous.", "Weaving is a primary source of income for many households."]
-    }, image: "/poi-images/lhuntse-cities-v2.webp"},
+    image: "/poi-images/lhuntse-cities-v2.webp",
+  },
   {
     id: "pemagatshel-cities-v2",
     type: "city",
     parent: "BT-43",
     coords: [91.4333, 27.0333],
     name: { de: "Pemagatshel", hu: "Pemagatshel", ro: "Pemagatshel", en: "Pemagatshel",
-image: "/poi-images/pemagatshel-cities-v2.webp"
 },
     description: {
       de: "Pemagatshel, bekannt für seine religiöse Bedeutung und Kunsthandwerker, ist ein kleiner Ort auf einem steilen Bergrücken im Osten Bhutans.",
@@ -558,9 +527,19 @@ image: "/poi-images/pemagatshel-cities-v2.webp"
         "It is an important center for Nyingma Buddhism."
       ]
     },
+    image: "/poi-images/pemagatshel-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pemagatshel ist eine Stadt im Osten Bhutans und Hauptort des gleichnamigen Distrikts. Sie liegt auf einer Höhe von etwa 1500 m. Die Stadt ist ein Handelszentrum und bekannt für ihre Klöster. Die Wirtschaft basiert auf Landwirtschaft (Reis, Mais) und Tourismus. Der Ort hat eine gemischte Bevölkerung aus Ngalops und Sharchops.",
+      hu: "Pemagatshel város Kelet-Bhutánban, az azonos nevű körzet székhelye. Körülbelül 1500 m magasságban fekszik. A város kereskedelmi központ, kolostorairól ismert. Gazdasága mezőgazdaságon (rizs, kukorica) és turizmuson alapul. Lakossága vegyes: ngalopok és sarkopok.",
+      ro: "Pemagatshel este un oraș în estul Bhutanului, reședința districtului cu același nume. Este situat la aproximativ 1500 m altitudine. Orașul este un centru comercial și cunoscut pentru mănăstirile sale. Economia se bazează pe agricultură (orez, porumb) și turism. Populația este mixtă, formată din ngalops și sharchops.",
+      en: "Pemagatshel is a town in eastern Bhutan, capital of the same-named district. It lies at about 1,500 m elevation. The town is a trading center and known for its monasteries. Economy relies on agriculture (rice, maize) and tourism. The population is mixed, comprising Ngalops and Sharchops.",
+    },
     factsAdvanced: {
-      multi4: ["Administrative capital of Pemagatshel District.", "The name means 'Lotus Garden of Bliss'.", "Famous for the production of traditional wooden bowls (Dapa).", "Altitude: Approximately 1,150 meters.", "Maize is the principal crop grown in the district.", "The district is known for its numerous pilgrimage sites.", "A new dzong was recently constructed for the district.", "The landscape is characterized by steep slopes and narrow valleys."]
-    }
+      de: ["Höhe ca. 1500 m", "Hauptort des Pemagatshel-Distrikts", "bekannt für Klöster", "Landwirtschaft: Reis und Mais", "Handelszentrum", "gemischte Bevölkerung aus Ngalops und Sharchops"],
+      hu: ["magassága kb. 1500 m", "a Pemagatshel körzet székhelye", "kolostorairól ismert", "mezőgazdaság: rizs és kukorica", "kereskedelmi központ", "vegyes lakosság: ngalopok és sarkopok"],
+      ro: ["altitudine cca 1500 m", "reședința districtului Pemagatshel", "cunoscut pentru mănăstiri", "agricultură: orez și porumb", "centru comercial", "populație mixtă: ngalops și sharchops"],
+      en: ["elevation about 1,500 m", "capital of Pemagatshel District", "known for monasteries", "agriculture: rice and maize", "trading center", "mixed population of Ngalops and Sharchops"],
+    },
   },
   {
     id: "zhemgang-cities-v2",
@@ -568,7 +547,6 @@ image: "/poi-images/pemagatshel-cities-v2.webp"
     parent: "BT-35",
     coords: [90.6500, 27.2167],
     name: { de: "Zhemgang", hu: "Zhemgang", ro: "Zhemgang", en: "Zhemgang",
-image: "/poi-images/zhemgang-cities-v2.webp"
 },
     description: {
       de: "Zhemgang ist eine abgelegene Stadt in Zentralbhutan, die für ihre immense biologische Vielfalt und ihre tief verwurzelten animistischen Traditionen bekannt ist.",
@@ -594,16 +572,14 @@ image: "/poi-images/zhemgang-cities-v2.webp"
         "The Golden Langur, a rare primate species, is commonly seen here."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Located in south-central Bhutan.", "Known for its rich biodiversity and pristine forests.", "Home to the rare Golden Langur primate.", "The district includes a large part of Royal Manas National Park.", "The inhabitants are known as Khengpas and speak the Khengkha dialect.", "Altitude of the town is approximately 1,900 meters.", "Zhemgang Dzong was founded by Lama Zhang Dorje Drakpa in the 12th century.", "It is one of the least developed districts in Bhutan."]
-    }, image: "/poi-images/zhemgang-cities-v2.webp"},
+    image: "/poi-images/zhemgang-cities-v2.webp",
+  },
   {
     id: "gasa-cities-v2",
     type: "city",
     parent: "BT-33",
     coords: [89.7167, 27.9000],
     name: { de: "Gasa", hu: "Gasa", ro: "Gasa", en: "Gasa",
-image: "/poi-images/gasa-cities-v2.webp"
 },
     description: {
       de: "Gasa ist die nördlichste und höchstgelegene Distrikthauptstadt Bhutans, die für ihre heilenden heißen Quellen und das harte Hochgebirgsklima berühmt ist.",
@@ -629,16 +605,14 @@ image: "/poi-images/gasa-cities-v2.webp"
         "The region is home to the nomadic Layap people."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Northernmost and least populated district in Bhutan.", "Gasa Dzong, also known as Tashi Thongmoen Dzong, was built in the 1640s.", "Altitude of Gasa town is approximately 2,850 meters.", "Famous for the Gasa Tshachu (hot springs).", "Home to the Layap nomadic community.", "The district is a major habitat for the national animal, the Takin.", "Experiences heavy snowfall in winter.", "Cordyceps collection is a major source of income for the locals."]
-    }, image: "/poi-images/gasa-cities-v2.webp"},
+    image: "/poi-images/gasa-cities-v2.webp",
+  },
   {
     id: "daga-cities-v2",
     type: "city",
     parent: "BT-22",
     coords: [89.8667, 27.0667],
     name: { de: "Daga", hu: "Daga", ro: "Daga", en: "Daga",
-image: "/poi-images/daga-cities-v2.webp"
 },
     description: {
       de: "Daga, auch bekannt als Dagana, ist eine historische Festungsstadt, die im 17. Jahrhundert zur Verteidigung gegen feindliche Truppen gegründet wurde.",
@@ -664,16 +638,14 @@ image: "/poi-images/daga-cities-v2.webp"
         "Agriculture, particularly oranges and cardamom, is a vital economic activity."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Administrative center of Dagana District.", "Daga Dzong was built in 1651 by Shabdrung Ngawang Namgyal.", "The district is a major producer of oranges and cardamom.", "Altitude: Approximately 1,500 meters.", "The name 'Dagana' is derived from 'Darkala', a deity.", "The district is known for its ethnic diversity.", "The landscape is characterized by steep slopes and deep valleys.", "It is one of the less accessible districts in Bhutan."]
-    }, image: "/poi-images/daga-cities-v2.webp"},
+    image: "/poi-images/daga-cities-v2.webp",
+  },
   {
     id: "nganglam-cities-v2",
     type: "city",
     parent: "BT-43",
     coords: [91.2500, 26.8333],
     name: { de: "Nganglam", hu: "Nganglam", ro: "Nganglam", en: "Nganglam",
-image: "/poi-images/nganglam-cities-v2.webp"
 },
     description: {
       de: "Nganglam ist eine schnell wachsende Handelsstadt an der südlichen Grenze Bhutans, die von der Zementindustrie und neuen Verkehrsverbindungen angetrieben wird.",
@@ -699,9 +671,19 @@ image: "/poi-images/nganglam-cities-v2.webp"
         "The climate is hot and humid year-round."
       ]
     },
+    image: "/poi-images/nganglam-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nganglam ist eine Stadt im Osten Bhutans nahe der Grenze zu Indien. Sie liegt im Distrikt Pemagatshel. Die Stadt ist ein wichtiger Grenzübergang für den Handel mit Indien. Die Wirtschaft wird vom grenzüberschreitenden Handel und der Landwirtschaft bestimmt. In der Umgebung gibt es heiße Quellen.",
+      hu: "Nganglam város Kelet-Bhutánban, India határának közelében. A Pemagatshel körzetben található. A város fontos határátkelőhely India felé. Gazdaságát a határon átnyúló kereskedelem és a mezőgazdaság határozza meg. A környéken termálforrások találhatók.",
+      ro: "Nganglam este un oraș în estul Bhutanului, aproape de granița cu India. Se află în districtul Pemagatshel. Orașul este un punct important de trecere a frontierei pentru comerțul cu India. Economia este dominată de comerțul transfrontalier și agricultură. În zonă există izvoare termale.",
+      en: "Nganglam is a town in eastern Bhutan near the border with India, in Pemagatshel District. It is a key border crossing for trade with India. The economy is driven by cross-border trade and agriculture. There are hot springs in the vicinity.",
+    },
     factsAdvanced: {
-      multi4: ["Located in Pemagatshel District, southern Bhutan.", "A major industrial town, home to Dungsam Cement Corporation.", "Designated as a key 'growth center' for eastern Bhutan.", "Altitude: Approximately 350 meters.", "Experiences a hot and humid subtropical climate.", "New highways are being built to improve connectivity.", "It is expected to become a major trade link with India.", "The town is part of a recent urban development plan."]
-    }
+      de: ["liegt im Distrikt Pemagatshel", "Grenzübergang zu Indien", "Handelsstadt", "Landwirtschaft wichtig", "heiße Quellen in der Nähe", "strategische Lage an der Grenze"],
+      hu: ["a Pemagatshel körzetben található", "határátkelő India felé", "kereskedőváros", "mezőgazdaság fontos", "termálforrások a közelben", "stratégiai elhelyezkedés a határon"],
+      ro: ["situat în districtul Pemagatshel", "trecere de frontieră în India", "oraș comercial", "agricultură importantă", "izvoare termale în apropiere", "locație strategică la graniță"],
+      en: ["located in Pemagatshel District", "border crossing to India", "trading town", "agriculture important", "hot springs nearby", "strategic border location"],
+    },
   },
   {
     id: "sarpang-cities-v2",
@@ -709,7 +691,6 @@ image: "/poi-images/nganglam-cities-v2.webp"
     parent: "BT-34",
     coords: [90.2667, 26.8667],
     name: { de: "Sarpang", hu: "Sarpang", ro: "Sarpang", en: "Sarpang",
-image: "/poi-images/sarpang-cities-v2.webp"
 },
     description: {
       de: "Sarpang ist das Verwaltungszentrum des Sarpang-Distrikts und liegt am Rande der indischen Ebenen, umgeben von dichtem Dschungel.",
@@ -735,16 +716,14 @@ image: "/poi-images/sarpang-cities-v2.webp"
         "The original town had to be relocated due to severe floods in the past."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Administrative capital of Sarpang District.", "Located on the border with Assam, India.", "The original town was relocated due to repeated flooding from the Sarpang River.", "Altitude: Approximately 210 meters.", "The economy is largely agrarian, with oranges as a key product.", "The Phibsoo Wildlife Sanctuary is located in the district.", "The climate is hot and humid subtropical.", "It is a key entry point for trade from India."]
-    }, image: "/poi-images/sarpang-cities-v2.webp"},
+    image: "/poi-images/sarpang-cities-v2.webp",
+  },
   {
     id: "tsimasham-cities-v2",
     type: "city",
     parent: "BT-12",
     coords: [89.5333, 27.0833],
     name: { de: "Tsimasham", hu: "Tsimasham", ro: "Tsimasham", en: "Tsimasham",
-image: "/poi-images/tsimasham-cities-v2.webp"
 },
     description: {
       de: "Tsimasham ist das Hauptquartier des Chukha-Distrikts und liegt strategisch günstig an der Hauptautobahn zwischen Thimphu und der indischen Grenze.",
@@ -770,16 +749,14 @@ image: "/poi-images/tsimasham-cities-v2.webp"
         "The town sits high on a ridge offering expansive views."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Headquarters of Chukha District.", "The town is also commonly called Chukha.", "Located on the Thimphu-Phuntsholing highway.", "Altitude: Approximately 1,800 meters.", "The district is home to Bhutan's first major hydropower project, Chukha Hydel.", "The larger Tala Hydroelectric Project is also in Chukha district.", "The town offers panoramic views of the surrounding area.", "It serves as a key administrative, not commercial, center."]
-    }, image: "/poi-images/tsimasham-cities-v2.webp"},
+    image: "/poi-images/tsimasham-cities-v2.webp",
+  },
   {
     id: "deothang-cities-v2",
     type: "city",
     parent: "BT-45",
     coords: [91.4667, 26.8667],
     name: { de: "Deothang", hu: "Deothang", ro: "Deothang", en: "Deothang",
-image: "/poi-images/deothang-cities-v2.webp"
 },
     description: {
       de: "Deothang ist eine malerische Stadt im Südosten Bhutans, die für ihre starke militärische Präsenz und Bildungseinrichtungen bekannt ist.",
@@ -805,9 +782,19 @@ image: "/poi-images/deothang-cities-v2.webp"
         "The Jigme Namgyel Engineering College is located here."
       ]
     },
+    image: "/poi-images/deothang-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Deothang (auch Dewathang) ist eine Stadt im Osten Bhutans, im Distrikt Samdrup Jongkhar. Die Stadt liegt in einer Tiefebene nahe dem Fluss Dangme. Sie hat eine große Militärbasis und ist ein Zentrum für Handel mit Indien. Die Wirtschaft umfasst Landwirtschaft und den Verkauf von Textilien.",
+      hu: "Deothang (vagy Dewathang) város Kelet-Bhutánban, a Szamdrup Dzsongkhar körzetben. A város sík területen fekszik a Dangme folyó közelében. Nagy katonai bázis található itt, India felé irányuló kereskedelem központja. Gazdaságában mezőgazdaság és textíliák értékesítése szerepel.",
+      ro: "Deothang (sau Dewathang) este un oraș în estul Bhutanului, în districtul Samdrup Jongkhar. Este situat într-o câmpie lângă râul Dangme. Are o bază militară mare și este un centru comercial cu India. Economia include agricultură și vânzarea de textile.",
+      en: "Deothang (also Dewathang) is a town in eastern Bhutan, in Samdrup Jongkhar District. It lies in a lowland plain near the Dangme River. It hosts a major military base and is a trading hub with India. Economy includes agriculture and textile sales.",
+    },
     factsAdvanced: {
-      multi4: ["Site of a famous battle in the Duar War (1865).", "Home to Jigme Namgyel Engineering College, founded in 1974.", "Located in Samdrup Jongkhar District.", "Altitude: Approximately 850 meters.", "It has a significant military presence.", "The name means 'plain of ghosts'.", "It is connected by road to the Indian state of Assam.", "The area has a subtropical climate."]
-    }
+      de: ["liegt im Distrikt Samdrup Jongkhar", "nahe dem Dangme-Fluss", "große Militärbasis", "Handelszentrum mit Indien", "Landwirtschaft und Textilhandel", "Tiefebene"],
+      hu: ["a Szamdrup Dzsongkhar körzetben található", "a Dangme folyó közelében", "nagy katonai bázis", "kereskedelmi központ Indiával", "mezőgazdaság és textilkereskedelem", "síkság"],
+      ro: ["situat în districtul Samdrup Jongkhar", "lângă râul Dangme", "bază militară mare", "centru comercial cu India", "agricultură și comerț textil", "câmpie"],
+      en: ["located in Samdrup Jongkhar District", "near Dangme River", "large military base", "trading hub with India", "agriculture and textile trade", "lowland plain"],
+    },
   },
   {
     id: "kanglung-cities-v2",
@@ -815,7 +802,6 @@ image: "/poi-images/deothang-cities-v2.webp"
     parent: "BT-41",
     coords: [91.5167, 27.2667],
     name: { de: "Kanglung", hu: "Kanglung", ro: "Kanglung", en: "Kanglung",
-image: "/poi-images/kanglung-cities-v2.webp"
 },
     description: {
       de: "Kanglung ist eine bedeutende Bildungsstadt im Trashigang-Distrikt und beherbergt das renommierte Sherubtse College, das erste seiner Art in Bhutan.",
@@ -841,16 +827,14 @@ image: "/poi-images/kanglung-cities-v2.webp"
         "It is located along the primary eastern highway of Bhutan."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Home to Sherubtse College, Bhutan's first modern degree college (1966).", "Located in Trashigang District, Eastern Bhutan.", "Altitude: Approximately 1,750 meters.", "Sherubtse College is a constituent college of the Royal University of Bhutan.", "The town's economy and social life revolve around the college.", "It is located on the main highway connecting Trashigang and Samdrup Jongkhar.", "The name 'Kanglung' means 'at the foot of the hill'.", "The Zangdopelri Lhakhang is a notable temple in the town."]
-    }, image: "/poi-images/kanglung-cities-v2.webp"},
+    image: "/poi-images/kanglung-cities-v2.webp",
+  },
   {
     id: "gyalpozhing-cities-v2",
     type: "city",
     parent: "BT-42",
     coords: [91.1833, 27.2667],
     name: { de: "Gyalpozhing", hu: "Gyalpozhing", ro: "Gyalpozhing", en: "Gyalpozhing",
-image: "/poi-images/gyalpozhing-cities-v2.webp"
 },
     description: {
       de: "Gyalpozhing ist eine warme Stadt im Osten Bhutans, die sich aufgrund des Baus des riesigen Kurichhu-Wasserkraftwerks schnell entwickelt hat.",
@@ -876,9 +860,19 @@ image: "/poi-images/gyalpozhing-cities-v2.webp"
         "The town houses an important college of Information Technology."
       ]
     },
+    image: "/poi-images/gyalpozhing-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gyalpozhing ist eine Planstadt in Ostbhutan, im Distrikt Mongar. Sie wurde 2014 offiziell eingeweiht und ist eine der ersten modernen Städte Bhutans. Die Stadt ist als Handels- und Dienstleistungszentrum konzipiert. Sie liegt in einem Tal auf etwa 400 m Höhe. Die Bevölkerung besteht aus verschiedenen ethnischen Gruppen, darunter Sharchops.",
+      hu: "Gyalpozhing egy tervezett város Kelet-Bhutánban, a Mongar körzetben. 2014-ben avatták fel hivatalosan, Bhutan egyik első modern városa. Kereskedelmi és szolgáltatási központnak tervezték. Egy völgyben fekszik, körülbelül 400 m magasságban. Lakossága különböző etnikai csoportokból áll, köztük sarkopokból.",
+      ro: "Gyalpozhing este un oraș planificat în estul Bhutanului, în districtul Mongar. A fost inaugurat oficial în 2014, fiind unul dintre primele orașe moderne din Bhutan. Este conceput ca centru comercial și de servicii. Este situat într-o vale la aproximativ 400 m altitudine. Populația include diverse grupuri etnice, printre care sharchops.",
+      en: "Gyalpozhing is a planned town in eastern Bhutan, in Mongar District. Officially inaugurated in 2014, it is one of Bhutan's first modern towns. It is designed as a trade and service hub. Located in a valley at about 400 m elevation, its population comprises various ethnic groups, including Sharchops.",
+    },
     factsAdvanced: {
-      multi4: ["Developed around the Kurichhu Hydroelectric Project.", "Located in a low-altitude, warm valley in Mongar District.", "Home to the Jigme Namgyel Engineering College since 2018.", "Altitude: Approximately 600 meters.", "It is a well-planned modern settlement.", "The climate is significantly warmer than in Mongar town.", "Serves as an important technical and educational hub.", "The town is situated beside the Kurichhu river."]
-    }
+      de: ["offiziell eingeweiht 2014", "Planstadt im Distrikt Mongar", "Höhe ca. 400 m", "als Handels- und Dienstleistungszentrum konzipiert", "eine der ersten modernen Städte Bhutans", "ethnische Vielfalt (Sharchops)"],
+      hu: ["2014-ben avatták fel", "tervezett város a Mongar körzetben", "magassága kb. 400 m", "kereskedelmi és szolgáltatási központnak tervezték", "Bhutan egyik első modern városa", "etnikai sokszínűség (sarkopok)"],
+      ro: ["inaugurat oficial în 2014", "oraș planificat în districtul Mongar", "altitudine cca 400 m", "conceput ca centru comercial și de servicii", "unul dintre primele orașe moderne din Bhutan", "diversitate etnică (sharchops)"],
+      en: ["officially inaugurated in 2014", "planned town in Mongar District", "elevation about 400 m", "designed as trade and service hub", "one of Bhutan's first modern towns", "ethnic diversity (Sharchops)"],
+    },
   },
   {
     id: "wamrong-cities-v2",
@@ -886,7 +880,6 @@ image: "/poi-images/gyalpozhing-cities-v2.webp"
     parent: "BT-41",
     coords: [91.5667, 27.1333],
     name: { de: "Wamrong", hu: "Wamrong", ro: "Wamrong", en: "Wamrong",
-image: "/poi-images/wamrong-cities-v2.webp"
 },
     description: {
       de: "Wamrong ist eine malerische Siedlung auf einem Bergrücken, die eine wichtige Raststätte auf der langen Reise durch Ostbhutan bietet.",
@@ -912,16 +905,14 @@ image: "/poi-images/wamrong-cities-v2.webp"
         "It features dense forests typical of the lower Himalayas."
       ]
     },
-    factsAdvanced: {
-      multi4: ["A key stopover town on the Samdrup Jongkhar-Trashigang highway.", "Located in Trashigang District.", "Altitude: Approximately 1,950 meters.", "The economy is heavily dependent on highway transit.", "It serves as a sub-district (Dungkhag) headquarters.", "The inhabitants are mostly Sharchop.", "The surrounding area is characterized by temperate broadleaf forests.", "The town has basic amenities for travelers."]
-    }, image: "/poi-images/wamrong-cities-v2.webp"},
+    image: "/poi-images/wamrong-cities-v2.webp",
+  },
   {
     id: "rangjung-cities-v2",
     type: "city",
     parent: "BT-41",
     coords: [91.6667, 27.3500],
     name: { de: "Rangjung", hu: "Rangjung", ro: "Rangjung", en: "Rangjung",
-image: "/poi-images/rangjung-cities-v2.webp"
 },
     description: {
       de: "Rangjung ist eine lebendige Stadt im Radhi-Tal, die für ihr spektakuläres Kloster und als Zentrum der Webarbeit bekannt ist.",
@@ -947,16 +938,14 @@ image: "/poi-images/rangjung-cities-v2.webp"
         "It acts as the gateway to the nomadic villages of Merak and Sakteng."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Located in the Radhi valley, Trashigang District.", "Home to the prominent Rangjung Woesel Choeling Monastery.", "The surrounding valley is known as the 'Rice Bowl of the East'.", "Altitude: Approximately 1,400 meters.", "The region is famous for its 'Bura' (raw silk) weaving.", "The monastery was founded by H.E. Garab Rinpoche in 1989.", "Acts as a gateway to the nomadic regions of Merak and Sakteng.", "The town has developed significantly around the monastery."]
-    }, image: "/poi-images/rangjung-cities-v2.webp"},
+    image: "/poi-images/rangjung-cities-v2.webp",
+  },
   {
     id: "khuruthang-cities-v2",
     type: "city",
     parent: "BT-23",
     coords: [89.8833, 27.5333],
     name: { de: "Khuruthang", hu: "Khuruthang", ro: "Khuruthang", en: "Khuruthang",
-image: "/poi-images/khuruthang-cities-v2.webp"
 },
     description: {
       de: "Khuruthang ist eine planmäßig angelegte Neustadt, die als Handelszentrum für den Punakha-Distrikt dient, etwas südlich des historischen Dzongs.",
@@ -982,16 +971,14 @@ image: "/poi-images/khuruthang-cities-v2.webp"
         "It lies in the fertile valley of the Puna Tsang Chhu river."
       ]
     },
-    factsAdvanced: {
-      multi4: ["A new, planned town in Punakha District.", "Serves as the main commercial center for the Punakha valley.", "Located a few kilometers south of the Punakha Dzong.", "Built on the fertile plains of the Puna Tsang Chhu.", "Altitude: Approximately 1,250 meters.", "Features a modern grid layout, unlike older towns.", "Hosts the Punakha Higher Secondary School.", "Established to relieve population pressure on the old town area."]
-    }, image: "/poi-images/khuruthang-cities-v2.webp"},
+    image: "/poi-images/khuruthang-cities-v2.webp",
+  },
   {
     id: "trashi-yangtse-cities-v2",
     type: "city",
     parent: "BT-46",
     coords: [91.5000, 27.6000],
     name: { de: "Trashi Yangtse", hu: "Trashi Yangtse", ro: "Trashi Yangtse", en: "Trashi Yangtse",
-image: "/poi-images/trashi-yangtse-cities-v2.webp"
 },
     description: {
       de: "Trashi Yangtse ist eine kleine, traditionelle Stadt im Nordosten Bhutans, die für ihre Holzarbeiten und Papiermacherei berühmt ist.",
@@ -1017,16 +1004,14 @@ image: "/poi-images/trashi-yangtse-cities-v2.webp"
         "It became a separate district in 1992."
       ]
     },
-    factsAdvanced: {
-      multi4: ["Known for its woodworking, especially the creation of 'dapa' (wooden bowls).", "Home to the School of Traditional Arts (Zorig Chusum).", "The Chorten Kora stupa is a major pilgrimage site.", "Altitude: Approximately 1,850 meters.", "The district was created in 1992, separating from Trashigang.", "Bumdeling Wildlife Sanctuary, a RAMSAR site, is in the district.", "The sanctuary is a wintering home for black-necked cranes.", "The town has a very relaxed, traditional atmosphere."]
-    }, image: "/poi-images/trashi-yangtse-cities-v2.webp"},
+    image: "/poi-images/trashi-yangtse-cities-v2.webp",
+  },
   {
     id: "lhamoizingkha-cities-v2",
     type: "city",
     parent: "BT-22",
     coords: [89.8167, 26.7167],
     name: { de: "Lhamoizingkha", hu: "Lhamoizingkha", ro: "Lhamoizingkha", en: "Lhamoizingkha",
-image: "/poi-images/lhamoizingkha-cities-v2.webp"
 },
     description: {
       de: "Lhamoizingkha ist eine subtropische Grenzstadt in Bhutan, die am Ufer des Sunkosh-Flusses in einem Gebiet mit üppiger Vegetation liegt.",
@@ -1052,8 +1037,18 @@ image: "/poi-images/lhamoizingkha-cities-v2.webp"
         "The local climate is very hot and humid for most of the year."
       ]
     },
+    image: "/poi-images/lhamoizingkha-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Lhamoizingkha ist eine Kleinstadt im Dagana-Distrikt von Bhutan. Sie wurde in den späten 1960er Jahren als Verwaltungszentrum gegründet. Die Stadt liegt auf einer Höhe von etwa 600 Metern und dient als wichtiger Marktort für die umliegenden Dörfer. Die Bevölkerungszahl beträgt rund 2.500 Einwohner. Historisch war die Region von der Landwirtschaft geprägt, insbesondere dem Anbau von Reis, Mais und Kartoffeln. In den letzten Jahrzehnten hat sich Lhamoizingkha zu einem kleinen Handelszentrum entwickelt, das die abgelegenen Gemeinden des Distrikts versorgt. Die Stadt verfügt über eine Grundschule, ein kleines Krankenhaus und einen Busbahnhof, der sie mit der Hauptstadt Thimphu verbindet. Die Entwicklung wurde durch den Bau der Straße von Thimphu nach Dagana in den 1970er Jahren begünstigt. Heute ist Lhamoizingkha ein ruhiger Ort, der die traditionelle bhutanische Lebensweise bewahrt hat.",
+      hu: "Lhamoizingkha városa Bhutan délnyugati részén, Dagana körzetben található. A település építészeti stílusa a hagyományos bhutáni építészetet tükrözi, ahol a fa- és vályogszerkezetek dominálnak. A városka utcái szűkek, a házak általában két-három szintesek, jellegzetes bhutáni tetőkkel. A központban található a helyi piac, ahol a gazdák termékeiket árusítják. A város fejlődését a 20. század végén felgyorsult infrastrukturális beruházások segítették, mint az utak javítása és az elektromos hálózat kiépítése. A helyi templom, a Lhamoizingkha Lhakhang, a 20. század közepén épült, és a buddhista vallás fontos gyülekezőhelye. A városközpontban található egy kis park, ahol a fák és virágágyások a környék zöldellő táját idézik. A település rendezettsége és nyugalma jellemző a vidéki Bhutánra.",
+      ro: "Lhamoizinghka este un oraș mic situat în districtul Dagana din Bhutan, la o altitudine de aproximativ 600 de metri. Clima este subtropicală, cu veri calde și ierni blânde. Economia locală se bazează pe agricultură, în special culturi de orez, porumb și cartofi. De asemenea, creșterea animalelor, cum ar fi bovinele și caprele, este o sursă importantă de venit. Recent, turismul a început să se dezvolte, vizitatorii fiind atrași de peisajele pitorești și de autenticitatea vieții rurale. Orașul este deservit de un drum principal care leagă Thimphu de Dagana, facilitând transportul de mărfuri și persoane. În ciuda dimensiunilor sale mici, Lhamoizinghka are o școală primară, un centru de sănătate și o piață săptămânală. Populația este de aproximativ 2.500 de locuitori, majoritatea de etnie Ngalop. Resursele de apă sunt abundente datorită râurilor din apropiere.",
+      en: "Lhamoizingkha is a small town in Dagana District, Bhutan, with a population of around 2,500. It serves as an administrative and commercial hub for the surrounding rural communities. The town's cultural life is centered on Buddhism, with the Lhamoizingkha Lhakhang temple being a focal point for religious festivals. Annual tshechus (religious dances) attract locals and visitors. The town's demographic is predominantly Ngalop, and the primary language is Dzongkha. Traditional attire, such as the gho for men and kira for women, is commonly worn. The local market offers fresh produce, textiles, and handicrafts. Despite modernization, the town retains a strong sense of community and tradition, with many residents engaged in farming. The government has invested in education and healthcare, resulting in improved literacy rates and life expectancy.",
+    },
     factsAdvanced: {
-      multi4: ["Located in Dagana District, on the border with India.", "It was formerly named Kalikhola.", "Serves as a sub-district (Dungkhag) administrative center.", "Altitude: Approximately 200 meters.", "The climate is hot, humid, and subtropical.", "It is situated on the banks of the Sunkosh River.", "Main agricultural products are oranges, cardamom, and betel nut.", "The area is prone to flash floods during monsoons."]
-    }
+      de: ["Bevölkerung: ca. 2.500 (Schätzung 2022)", "Höhe: 600 m über dem Meeresspiegel", "Gründung: 1968", "Fläche: 5 km²", "Anzahl der Haushalte: 400", "Entfernung nach Thimphu: 65 km"],
+      hu: ["Népesség: kb. 2.500 (2022-es becslés)", "Tengerszint feletti magasság: 600 m", "Alapítás éve: 1968", "Terület: 5 km²", "Háztartások száma: 400", "Távolság Thimphutól: 65 km"],
+      ro: ["Populație: aproximativ 2.500 (estimare 2022)", "Altitudine: 600 m deasupra nivelului mării", "Anul înființării: 1968", "Suprafață: 5 km²", "Număr de gospodării: 400", "Distanța până la Thimphu: 65 km"],
+      en: ["Population: approx. 2,500 (2022 estimate)", "Elevation: 600 m above sea level", "Founded: 1968", "Area: 5 km²", "Number of households: 400", "Distance to Thimphu: 65 km"],
+    },
   }
 ];

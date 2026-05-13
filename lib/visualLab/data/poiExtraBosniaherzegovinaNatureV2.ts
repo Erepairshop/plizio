@@ -5,9 +5,8 @@ export const bosniaherzegovinaNatureV2: POI[] = [
     id: "bosniaherzegovina-maglic-nature-v2",
     parent: "BA",
     type: "peak",
-    name: { de: "Maglić", hu: "Maglić", ro: "Maglić", en: "Maglić",
-image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"
-},
+    name: { de: "Maglić", hu: "Maglić", ro: "Maglić", en: "Maglić"},
+    image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp",
     coords: [18.7303, 43.2801],
     coordinates: { lat: 43.2801, lng: 18.7303 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/bosniaherzegovina-maglic-nature-v2.webp"
     id: "bosniaherzegovina-neretva-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Neretva", hu: "Neretva", ro: "Neretva", en: "Neretva",
-image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"
-},
+    name: { de: "Neretva", hu: "Neretva", ro: "Neretva", en: "Neretva"},
+    image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp",
     coords: [17.8078, 43.3433],
     coordinates: { lat: 43.3433, lng: 17.8078 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/bosniaherzegovina-neretva-river-nature-v2.webp"
     id: "bosniaherzegovina-una-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Una", hu: "Una", ro: "Una", en: "Una",
-image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"
-},
+    name: { de: "Una", hu: "Una", ro: "Una", en: "Una"},
+    image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp",
     coords: [15.8681, 44.8122],
     coordinates: { lat: 44.8122, lng: 15.8681 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/bosniaherzegovina-una-river-nature-v2.webp"
     id: "bosniaherzegovina-drina-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Drina", hu: "Drina", ro: "Drina", en: "Drina",
-image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"
-},
+    name: { de: "Drina", hu: "Drina", ro: "Drina", en: "Drina"},
+    image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp",
     coords: [19.2889, 43.7825],
     coordinates: { lat: 43.7825, lng: 19.2889 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/bosniaherzegovina-drina-river-nature-v2.webp"
     id: "bosniaherzegovina-bosna-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Bosna", hu: "Boszna", ro: "Bosna", en: "Bosna",
-image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"
-},
+    name: { de: "Bosna", hu: "Boszna", ro: "Bosna", en: "Bosna"},
+    image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp",
     coords: [18.2681, 43.8183],
     coordinates: { lat: 43.8183, lng: 18.2681 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/bosniaherzegovina-bosna-river-nature-v2.webp"
     id: "bosniaherzegovina-vrbas-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Vrbas", hu: "Orbász", ro: "Vrbas", en: "Vrbas",
-image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"
-},
+    name: { de: "Vrbas", hu: "Orbász", ro: "Vrbas", en: "Vrbas"},
+    image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp",
     coords: [17.1917, 44.7667],
     coordinates: { lat: 44.7667, lng: 17.1917 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/bosniaherzegovina-vrbas-river-nature-v2.webp"
     id: "bosniaherzegovina-strbacki-buk-nature-v2",
     parent: "BA",
     type: "landmark",
-    name: { de: "Štrbački buk", hu: "Štrbački buk", ro: "Štrbački buk", en: "Štrbački buk",
-image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"
-},
+    name: { de: "Štrbački buk", hu: "Štrbački buk", ro: "Štrbački buk", en: "Štrbački buk"},
+    image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp",
     coords: [16.0103, 44.6564],
     coordinates: { lat: 44.6564, lng: 16.0103 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/bosniaherzegovina-strbacki-buk-nature-v2.webp"
     id: "bosniaherzegovina-igman-mountain-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Igman", hu: "Igman", ro: "Igman", en: "Igman",
-image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"
-},
+    name: { de: "Igman", hu: "Igman", ro: "Igman", en: "Igman"},
+    image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp",
     coords: [18.25, 43.75],
     coordinates: { lat: 43.75, lng: 18.25 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/bosniaherzegovina-igman-mountain-nature-v2.webp"
     id: "bosniaherzegovina-trebevic-mountain-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Trebević", hu: "Trebević", ro: "Trebević", en: "Trebević",
-image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"
-},
+    name: { de: "Trebević", hu: "Trebević", ro: "Trebević", en: "Trebević"},
+    image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp",
     coords: [18.4489, 43.8344],
     coordinates: { lat: 43.8344, lng: 18.4489 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/bosniaherzegovina-trebevic-mountain-nature-v2.webp"
     id: "bosniaherzegovina-prenj-mountain-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj",
-image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"
-},
+    name: { de: "Prenj", hu: "Prenj", ro: "Prenj", en: "Prenj"},
+    image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp",
     coords: [17.9, 43.5333],
     coordinates: { lat: 43.5333, lng: 17.9 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/bosniaherzegovina-prenj-mountain-nature-v2.webp"
     id: "bosniaherzegovina-cvrsnica-mountain-nature-v2",
     parent: "BA",
     type: "peak",
-    name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica",
-image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"
-},
+    name: { de: "Čvrsnica", hu: "Čvrsnica", ro: "Čvrsnica", en: "Čvrsnica"},
+    image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp",
     coords: [17.6, 43.6],
     coordinates: { lat: 43.6, lng: 17.6 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/bosniaherzegovina-cvrsnica-mountain-nature-v2.webp"
     id: "bosniaherzegovina-blidinje-lake-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake",
-image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"
-},
+    name: { de: "Blidinje-See", hu: "Blidinje-tó", ro: "Lacul Blidinje", en: "Blidinje Lake"},
+    image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp",
     coords: [17.5133, 43.6108],
     coordinates: { lat: 43.6108, lng: 17.5133 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/bosniaherzegovina-blidinje-lake-nature-v2.webp"
     id: "bosniaherzegovina-boracko-lake-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake",
-image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"
-},
+    name: { de: "Boračko-See", hu: "Boračko-tó", ro: "Lacul Boračko", en: "Boračko Lake"},
+    image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp",
     coords: [18.0361, 43.5539],
     coordinates: { lat: 43.5539, lng: 18.0361 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/bosniaherzegovina-boracko-lake-nature-v2.webp"
     id: "bosniaherzegovina-jablanicko-lake-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Jablaničko-See", hu: "Jablaničko-tó", ro: "Lacul Jablaničko", en: "Jablaničko Lake",
-image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"
-},
+    name: { de: "Jablaničko-See", hu: "Jablaničko-tó", ro: "Lacul Jablaničko", en: "Jablaničko Lake"},
+    image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp",
     coords: [17.795, 43.7225],
     coordinates: { lat: 43.7225, lng: 17.795 },
     description: {
@@ -509,9 +495,8 @@ image: "/poi-images/bosniaherzegovina-jablanicko-lake-nature-v2.webp"
     id: "bosniaherzegovina-rama-lake-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Rama-See", hu: "Rama-tó", ro: "Lacul Rama", en: "Rama Lake",
-image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"
-},
+    name: { de: "Rama-See", hu: "Rama-tó", ro: "Lacul Rama", en: "Rama Lake"},
+    image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp",
     coords: [17.5186, 43.7431],
     coordinates: { lat: 43.7431, lng: 17.5186 },
     description: {
@@ -545,9 +530,8 @@ image: "/poi-images/bosniaherzegovina-rama-lake-nature-v2.webp"
     id: "bosniaherzegovina-hutovo-blato-nature-v2",
     parent: "BA",
     type: "wildlife",
-    name: { de: "Hutovo Blato", hu: "Hutovo Blato", ro: "Hutovo Blato", en: "Hutovo Blato",
-image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"
-},
+    name: { de: "Hutovo Blato", hu: "Hutovo Blato", ro: "Hutovo Blato", en: "Hutovo Blato"},
+    image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp",
     coords: [17.785, 43.0536],
     coordinates: { lat: 43.0536, lng: 17.785 },
     description: {
@@ -581,9 +565,8 @@ image: "/poi-images/bosniaherzegovina-hutovo-blato-nature-v2.webp"
     id: "bosniaherzegovina-zelengora-mountain-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora",
-image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"
-},
+    name: { de: "Zelengora", hu: "Zelengora", ro: "Zelengora", en: "Zelengora"},
+    image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp",
     coords: [18.5778, 43.3556],
     coordinates: { lat: 43.3556, lng: 18.5778 },
     description: {
@@ -617,9 +600,8 @@ image: "/poi-images/bosniaherzegovina-zelengora-mountain-nature-v2.webp"
     id: "bosniaherzegovina-tara-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara",
-image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"
-},
+    name: { de: "Tara", hu: "Tara", ro: "Tara", en: "Tara"},
+    image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp",
     coords: [18.8436, 43.3492],
     coordinates: { lat: 43.3492, lng: 18.8436 },
     description: {
@@ -653,9 +635,8 @@ image: "/poi-images/bosniaherzegovina-tara-river-nature-v2.webp"
     id: "bosniaherzegovina-pliva-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Pliva", hu: "Pliva", ro: "Pliva", en: "Pliva",
-image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"
-},
+    name: { de: "Pliva", hu: "Pliva", ro: "Pliva", en: "Pliva"},
+    image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp",
     coords: [17.26, 44.34],
     coordinates: { lat: 44.34, lng: 17.26 },
     description: {
@@ -690,9 +671,8 @@ image: "/poi-images/bosniaherzegovina-pliva-river-nature-v2.webp"
     id: "bosniaherzegovina-bjelasnica-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Bjelašnica", hu: "Bjelašnica", ro: "Muntele Bjelašnica", en: "Bjelašnica Mountain",
-image: "/poi-images/bosniaherzegovina-bjelasnica-nature-v2.webp"
-},
+    name: { de: "Bjelašnica", hu: "Bjelašnica", ro: "Muntele Bjelašnica", en: "Bjelašnica Mountain"},
+    image: "/poi-images/bosniaherzegovina-bjelasnica-nature-v2.webp",
     coordinates: { lat: 43.7036, lng: 18.2561 },
     description: {
       de: "Ein Gebirgszug südwestlich von Sarajevo, bekannt als Austragungsort der Olympischen Winterspiele 1984. Der höchste Gipfel liegt auf 2067 Metern Höhe.",
@@ -724,9 +704,8 @@ image: "/poi-images/bosniaherzegovina-bjelasnica-nature-v2.webp"
     id: "bosniaherzegovina-jahorina-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Jahorina", hu: "Jahorina", ro: "Muntele Jahorina", en: "Jahorina Mountain",
-image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"
-},
+    name: { de: "Jahorina", hu: "Jahorina", ro: "Muntele Jahorina", en: "Jahorina Mountain"},
+    image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp",
     coordinates: { lat: 43.7375, lng: 18.5667 },
     description: {
       de: "Teil des dinarischen Gebirges bei Sarajevo und ein bedeutendes Skigebiet. Der höchste Punkt, Ogorjelica, erreicht eine Höhe von 1916 Metern.",
@@ -759,9 +738,8 @@ image: "/poi-images/bosniaherzegovina-jahorina-nature-v2.webp"
     id: "bosniaherzegovina-bileca-lake-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Bileća-See", hu: "Bilećai-tó", ro: "Lacul Bileća", en: "Bileća Lake",
-image: "/poi-images/bosniaherzegovina-bileca-lake-nature-v2.webp"
-},
+    name: { de: "Bileća-See", hu: "Bilećai-tó", ro: "Lacul Bileća", en: "Bileća Lake"},
+    image: "/poi-images/bosniaherzegovina-bileca-lake-nature-v2.webp",
     coordinates: { lat: 42.8125, lng: 18.4222 },
     description: {
       de: "Ein künstlicher Stausee am Fluss Trebišnjica im Süden der Herzegowina. Er ist der größte Stausee auf dem Balkan und ein wichtiger Energiespeicher.",
@@ -793,9 +771,8 @@ image: "/poi-images/bosniaherzegovina-bileca-lake-nature-v2.webp"
     id: "bosniaherzegovina-modrac-lake-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Modrac-See", hu: "Modrac-tó", ro: "Lacul Modrac", en: "Modrac Lake",
-image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"
-},
+    name: { de: "Modrac-See", hu: "Modrac-tó", ro: "Lacul Modrac", en: "Modrac Lake"},
+    image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp",
     coordinates: { lat: 44.4936, lng: 18.4856 },
     description: {
       de: "Ein Stausee in der Nähe von Tuzla, entstanden durch die Aufstauung des Flusses Spreča. Er ist ein beliebtes Erholungsgebiet für die Region.",
@@ -828,9 +805,8 @@ image: "/poi-images/bosniaherzegovina-modrac-lake-nature-v2.webp"
     id: "bosniaherzegovina-sana-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Sana", hu: "Szana", ro: "Râul Sana", en: "Sana River",
-image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"
-},
+    name: { de: "Sana", hu: "Szana", ro: "Râul Sana", en: "Sana River"},
+    image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp",
     coordinates: { lat: 44.7631, lng: 16.6625 },
     description: {
       de: "Ein Fluss im Nordwesten Bosniens, bekannt für seine Reinheit und grüne Farbe. Er entspringt in der Nähe von Mrkonjić Grad und mündet in die Una.",
@@ -863,9 +839,8 @@ image: "/poi-images/bosniaherzegovina-sana-river-nature-v2.webp"
     id: "bosniaherzegovina-bliha-waterfall-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Bliha-Wasserfall", hu: "Bliha-vízesés", ro: "Cascada Bliha", en: "Bliha Waterfall",
-image: "/poi-images/bosniaherzegovina-bliha-waterfall-nature-v2.webp"
-},
+    name: { de: "Bliha-Wasserfall", hu: "Bliha-vízesés", ro: "Cascada Bliha", en: "Bliha Waterfall"},
+    image: "/poi-images/bosniaherzegovina-bliha-waterfall-nature-v2.webp",
     coordinates: { lat: 44.7875, lng: 16.5417 },
     description: {
       de: "Ein beeindruckender vertikaler Wasserfall in der Nähe von Sanski Most. Das Wasser stürzt aus einer Höhe von 56 Metern über eine steile Klippe.",
@@ -897,9 +872,8 @@ image: "/poi-images/bosniaherzegovina-bliha-waterfall-nature-v2.webp"
     id: "bosniaherzegovina-kocusa-waterfall-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Koćuša-Wasserfall", hu: "Koćuša-vízesés", ro: "Cascada Koćuša", en: "Koćuša Waterfall",
-image: "/poi-images/bosniaherzegovina-kocusa-waterfall-nature-v2.webp"
-},
+    name: { de: "Koćuša-Wasserfall", hu: "Koćuša-vízesés", ro: "Cascada Koćuša", en: "Koćuša Waterfall"},
+    image: "/poi-images/bosniaherzegovina-kocusa-waterfall-nature-v2.webp",
     coordinates: { lat: 43.2417, lng: 17.4431 },
     description: {
       de: "Ein breiter Wasserfall am Fluss Trebižat in der Nähe von Ljubuški. Er ist bekannt für seine Tuffsteinformationen und die natürliche Umgebung.",
@@ -931,9 +905,8 @@ image: "/poi-images/bosniaherzegovina-kocusa-waterfall-nature-v2.webp"
     id: "bosniaherzegovina-martin-brod-nature-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Martin Brod Wasserfälle", hu: "Martin Brodi vízesések", ro: "Cascadele Martin Brod", en: "Martin Brod Waterfalls",
-image: "/poi-images/bosniaherzegovina-martin-brod-nature-v2.webp"
-},
+    name: { de: "Martin Brod Wasserfälle", hu: "Martin Brodi vízesések", ro: "Cascadele Martin Brod", en: "Martin Brod Waterfalls"},
+    image: "/poi-images/bosniaherzegovina-martin-brod-nature-v2.webp",
     coordinates: { lat: 44.4833, lng: 16.1417 },
     description: {
       de: "Eine beeindruckende Kaskade von Wasserfällen am Zusammenfluss von Una und Unac. Es ist der größte Komplex von Tuffstein-Wasserfällen im Nationalpark Una.",
@@ -965,9 +938,8 @@ image: "/poi-images/bosniaherzegovina-martin-brod-nature-v2.webp"
   {id: "bosniaherzegovina-trebisnjica-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Trebišnjica", hu: "Trebišnjica", ro: "Râul Trebišnjica", en: "Trebišnjica River",
-image: "/poi-images/bosniaherzegovina-trebisnjica-river-nature-v2.webp"
-},
+    name: { de: "Trebišnjica", hu: "Trebišnjica", ro: "Râul Trebišnjica", en: "Trebišnjica River"},
+    image: "/poi-images/bosniaherzegovina-trebisnjica-river-nature-v2.webp",
     coordinates: { lat: 42.7111, lng: 18.3431 },
     description: {
       de: "Die Trebišnjica ist einer der längsten Versickerungsflüsse der Welt und prägt die Karstlandschaft der Herzegowina. Sie fließt teilweise unterirdisch durch Höhlensysteme.",
@@ -998,9 +970,8 @@ image: "/poi-images/bosniaherzegovina-trebisnjica-river-nature-v2.webp"
   {id: "bosniaherzegovina-kupresko-polje-nature-v2",
     parent: "BA",
     type: "valley",
-    name: { de: "Kupresko Polje", hu: "Kupresi-mező", ro: "Câmpia Kupres", en: "Kupreško Polje",
-image: "/poi-images/bosniaherzegovina-kupresko-polje-nature-v2.webp"
-},
+    name: { de: "Kupresko Polje", hu: "Kupresi-mező", ro: "Câmpia Kupres", en: "Kupreško Polje"},
+    image: "/poi-images/bosniaherzegovina-kupresko-polje-nature-v2.webp",
     coordinates: { lat: 43.9922, lng: 17.1855 },
     description: {
       de: "Kupresko Polje ist eine weite Karsthochebene in Westbosnien, bekannt für ihr raues Klima und ihre Wintersportmöglichkeiten. Die Ebene liegt auf über 1.100 Metern Höhe.",
@@ -1031,9 +1002,8 @@ image: "/poi-images/bosniaherzegovina-kupresko-polje-nature-v2.webp"
   {id: "bosniaherzegovina-neum-coast-nature-v2",
     parent: "BA",
     type: "sea",
-    name: { de: "Küste von Neum", hu: "Neumi tengerpart", ro: "Litoralul Neum", en: "Neum Coastline",
-image: "/poi-images/bosniaherzegovina-neum-coast-nature-v2.webp"
-},
+    name: { de: "Küste von Neum", hu: "Neumi tengerpart", ro: "Litoralul Neum", en: "Neum Coastline"},
+    image: "/poi-images/bosniaherzegovina-neum-coast-nature-v2.webp",
     coordinates: { lat: 42.9231, lng: 17.6115 },
     description: {
       de: "Neum ist der einzige Zugang Bosnien und Herzegowinas zur Adria. Die 24 Kilometer lange Küste ist durch die Halbinsel Pelješac vor dem offenen Meer geschützt.",
@@ -1064,9 +1034,8 @@ image: "/poi-images/bosniaherzegovina-neum-coast-nature-v2.webp"
   {id: "bosniaherzegovina-krivaja-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Krivaja", hu: "Krivaja", ro: "Râul Krivaja", en: "Krivaja River",
-image: "/poi-images/bosniaherzegovina-krivaja-river-nature-v2.webp"
-},
+    name: { de: "Krivaja", hu: "Krivaja", ro: "Râul Krivaja", en: "Krivaja River"},
+    image: "/poi-images/bosniaherzegovina-krivaja-river-nature-v2.webp",
     coordinates: { lat: 44.2715, lng: 18.5521 },
     description: {
       de: "Die Krivaja ist ein Fluss in Zentralbosnien, der durch tiefe Schluchten und unberührte Wälder fließt. Er ist bekannt für seine natürliche Schönheit und klare Strömung.",
@@ -1097,9 +1066,8 @@ image: "/poi-images/bosniaherzegovina-krivaja-river-nature-v2.webp"
   {id: "bosniaherzegovina-spreca-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Spreča", hu: "Spreča", ro: "Râul Spreča", en: "Spreča River",
-image: "/poi-images/bosniaherzegovina-spreca-river-nature-v2.webp"
-},
+    name: { de: "Spreča", hu: "Spreča", ro: "Râul Spreča", en: "Spreča River"},
+    image: "/poi-images/bosniaherzegovina-spreca-river-nature-v2.webp",
     coordinates: { lat: 44.5221, lng: 18.6531 },
     description: {
       de: "Die Spreča ist ein bedeutender Fluss im Nordosten Bosniens, der das Modrac-Reservoir speist. Er durchquert ein fruchtbares Tal mit reicher Landwirtschaft.",
@@ -1130,9 +1098,8 @@ image: "/poi-images/bosniaherzegovina-spreca-river-nature-v2.webp"
   {id: "bosniaherzegovina-zvijezda-mountain-nature-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Zvijezda", hu: "Zvijezda-hegység", ro: "Muntele Zvijezda", en: "Zvijezda Mountain",
-image: "/poi-images/bosniaherzegovina-zvijezda-mountain-nature-v2.webp"
-},
+    name: { de: "Zvijezda", hu: "Zvijezda-hegység", ro: "Muntele Zvijezda", en: "Zvijezda Mountain"},
+    image: "/poi-images/bosniaherzegovina-zvijezda-mountain-nature-v2.webp",
     coordinates: { lat: 44.1731, lng: 18.4812 },
     description: {
       de: "Die Zvijezda ist ein Gebirge in Zentralbosnien, bekannt für seine dichten Nadelwälder und reichen Erzvorkommen. Der Name bedeutet 'Stern' auf Bosnisch.",
@@ -1163,9 +1130,8 @@ image: "/poi-images/bosniaherzegovina-zvijezda-mountain-nature-v2.webp"
   {id: "bosniaherzegovina-ljuta-river-nature-v2",
     parent: "BA",
     type: "river",
-    name: { de: "Ljuta", hu: "Ljuta-folyó", ro: "Râul Ljuta", en: "Ljuta River",
-image: "/poi-images/bosniaherzegovina-ljuta-river-nature-v2.webp"
-},
+    name: { de: "Ljuta", hu: "Ljuta-folyó", ro: "Râul Ljuta", en: "Ljuta River"},
+    image: "/poi-images/bosniaherzegovina-ljuta-river-nature-v2.webp",
     coordinates: { lat: 43.5822, lng: 18.4231 },
     description: {
       de: "Die Ljuta ist ein kurzer, aber wilder Bergfluss, der in der Nähe von Konjic in die Neretva mündet. Er ist berühmt für seine dramatischen Schluchten und reißende Strömung.",
@@ -1196,9 +1162,8 @@ image: "/poi-images/bosniaherzegovina-ljuta-river-nature-v2.webp"
   {id: "bosniaherzegovina-mostarska-blata-nature-v2",
     parent: "BA",
     type: "lake",
-    name: { de: "Mostarska Blata", hu: "Mostari mocsár", ro: "Mostarska Blata", en: "Mostarska Blata",
-image: "/poi-images/bosniaherzegovina-mostarska-blata-nature-v2.webp"
-},
+    name: { de: "Mostarska Blata", hu: "Mostari mocsár", ro: "Mostarska Blata", en: "Mostarska Blata"},
+    image: "/poi-images/bosniaherzegovina-mostarska-blata-nature-v2.webp",
     coordinates: { lat: 43.3402, lng: 17.6715 },
     description: {
       de: "Mostarska Blata ist ein saisonales Feuchtgebiet und Karstbecken westlich von Mostar. Es ist ökologisch wertvoll für seine spezifische Flora und Fauna.",
@@ -1229,9 +1194,8 @@ image: "/poi-images/bosniaherzegovina-mostarska-blata-nature-v2.webp"
   {id: "bosniaherzegovina-gacko-polje-nature-v2",
     parent: "BA",
     type: "valley",
-    name: { de: "Gacko Polje", hu: "Gacko-mező", ro: "Câmpia Gacko", en: "Gacko Polje",
-image: "/poi-images/bosniaherzegovina-gacko-polje-nature-v2.webp"
-},
+    name: { de: "Gacko Polje", hu: "Gacko-mező", ro: "Câmpia Gacko", en: "Gacko Polje"},
+    image: "/poi-images/bosniaherzegovina-gacko-polje-nature-v2.webp",
     coordinates: { lat: 43.1612, lng: 18.5325 },
     description: {
       de: "Gacko Polje ist ein Karstfeld im Osten der Herzegowina auf einer Höhe von 940 Metern. Es ist bekannt für seine weiten Graslandschaften und die umliegenden Hochgebirge.",

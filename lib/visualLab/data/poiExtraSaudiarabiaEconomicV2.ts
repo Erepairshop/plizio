@@ -6,306 +6,539 @@ export const poiExtraSaudiarabiaEconomicV2: POI[] = [
     type: "energy",
     parent: "SA-04",
     coords: [50.1130, 26.6575],
-    name: { de: "Raffinerie Ras Tanura", hu: "Rasz Tanura finomító", ro: "Rafinăria Ras Tanura", en: "Ras Tanura Refinery",
-image: "/poi-images/ras-tanura-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Ras Tanura", hu: "Rasz Tanura finomító", ro: "Rafinăria Ras Tanura", en: "Ras Tanura Refinery"},
+    image: "/poi-images/ras-tanura-refinery-economic-v2.webp",
     description: { de: "Die Raffinerie Ras Tanura in der Ostprovinz ist die älteste und größte Erdölraffinerie Saudi-Arabiens.", hu: "A Keleti tartományban található Rasz Tanura finomító Szaúd-Arábia legrégebbi és legnagyobb olajfinomítója.", ro: "Rafinăria Ras Tanura, situată în Provincia de Est, este cea mai veche și mai mare rafinărie de petrol din Arabia Saudită.", en: "Located in the Eastern Province, the Ras Tanura Refinery is the oldest and largest oil refinery in Saudi Arabia." },
     facts: {
       de: ["Größte Ölraffinerie in Saudi-Arabien.", "Produziert Benzin und Kerosin."],
       hu: ["Szaúd-Arábia legnagyobb olajfinomítója.", "Benzint és kerozint állít elő."],
       ro: ["Cea mai mare rafinărie de petrol din Arabia Saudită.", "Produce benzină și kerosen."],
       en: ["Largest oil refinery in Saudi Arabia.", "Produces gasoline and jet fuel."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Ras Tanura Raffinerie in Saudi-Arabien ist eine der größten Ölraffinerien der Welt und befindet sich an der Ostküste am Persischen Golf. Sie wurde 1945 in Betrieb genommen und hat eine Kapazität von etwa 550.000 Barrel pro Tag. Die Anlage umfasst eine Rohöldestillation, eine Katalytische Reformierung und eine Entschwefelungsanlage. Ras Tanura ist auch ein wichtiger Ölverladehafen, von dem aus Rohöl und raffinierte Produkte exportiert werden. Die Raffinerie wird von Saudi Aramco betrieben und spielt eine zentrale Rolle in der saudischen Ölindustrie. In den letzten Jahren wurden Modernisierungen zur Steigerung der Effizienz und Reduzierung der Emissionen durchgeführt.",
+      hu: "A Ras Tanura-i olajfinomító Szaúd-Arábia keleti partján, a Perzsa-öbölben található, és 1945 óta működik. Napi kapacitása 550.000 hordó, ezzel a világ egyik legnagyobb finomítója. A létesítmény nem csak finomít, hanem tároló- és rakodókapacitással is rendelkezik, évi 100 millió hordó kőolaj exportjára képes. A finomító termékei közé tartozik a benzin, a dízel és a repülőgép-üzemanyag. A Ras Tanura stratégiai fontosságú a szaúdi gazdaságban, mivel a bevételek jelentős részét adja. A környezetvédelmi előírások szigorúak, a finomító korszerű technológiákat alkalmaz a kibocsátás csökkentésére.",
+      ro: "Rafinăria Ras Tanura, situată pe coasta de est a Arabiei Saudite, lângă Golful Persic, este una dintre cele mai mari rafinării de petrol din lume, cu o capacitate de 550.000 de barili pe zi. A fost construită în 1945 și este operată de Saudi Aramco. Rafinăria include unități de distilare, cracare catalitică și hidrodesulfurare. De asemenea, dispune de un terminal maritim care poate încărca tancuri de până la 500.000 de tone. Ras Tanura este un centru cheie pentru exportul de produse petroliere rafinate, cum ar fi motorina și kerosenul. În ultimii ani, s-au făcut investiții pentru creșterea eficienței și reducerea emisiilor de CO2.",
+      en: "The Ras Tanura Refinery is a major oil refinery located in Ras Tanura, Saudi Arabia, on the Persian Gulf coast. Commissioned in 1945, it has a crude oil distillation capacity of 550,000 barrels per day. The refinery is operated by Saudi Aramco and processes both light and heavy crude oils. It produces a wide range of products, including gasoline, diesel, jet fuel, and petrochemical feedstocks. The facility also includes a large port terminal capable of handling Very Large Crude Carriers (VLCCs) for export. Ras Tanura is a key component of Saudi Arabia's downstream oil infrastructure, contributing significantly to the national economy.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1945", "Kapazität: 550.000 Barrel pro Tag", "Exporthafen: Umschlag von 100 Millionen Barrel jährlich", "Betreiber: Saudi Aramco", "Anzahl der Destillationskolonnen: 5", "Reduktion der CO2-Emissionen: 20% seit 2010"],
+      hu: ["Építés éve: 1945", "Napi kapacitás: 550.000 hordó", "Tárolókapacitás: 50 millió hordó", "Exportált termékek: benzin, gázolaj, repülőbenzin", "Munkavállalók száma: 3.000", "Beruházások 2020 óta: 2 milliárd dollár"],
+      ro: ["Anul punerii în funcțiune: 1945", "Capacitate: 550.000 barili/zi", "Terminal maritim: capacitate de încărcare 500.000 tone", "Operator: Saudi Aramco", "Produse: motorină, kerosen, benzină", "Reducere emisii CO2: 25% până în 2025"],
+      en: ["Commissioned: 1945", "Capacity: 550,000 barrels per day", "Port capacity: VLCC loading at 100 million barrels per year", "Operator: Saudi Aramco", "Number of employees: ~3,000", "Investment in upgrades since 2020: $2 billion"],
+    },
   },
   {
     id: "king-abdullah-port-economic-v2",
     type: "port",
     parent: "SA-02",
     coords: [39.0945, 22.5186],
-    name: { de: "König-Abdullah-Hafen", hu: "Abdullah Király Kikötő", ro: "Portul Regele Abdullah", en: "King Abdullah Port",
-image: "/poi-images/king-abdullah-port-economic-v2.webp"
-},
+    name: { de: "König-Abdullah-Hafen", hu: "Abdullah Király Kikötő", ro: "Portul Regele Abdullah", en: "King Abdullah Port"},
+    image: "/poi-images/king-abdullah-port-economic-v2.webp",
     description: { de: "Der König-Abdullah-Hafen ist der erste in privater Hand befindliche Seehafen Saudi-Arabiens und verzeichnet ein enormes Wachstum.", hu: "Az Abdullah Király Kikötő Szaúd-Arábia első magántulajdonban lévő tengeri kikötője, amely hatalmas növekedést mutat.", ro: "Portul Regele Abdullah este primul port maritim deținut privat din Arabia Saudită, înregistrând o creștere masivă.", en: "King Abdullah Port is Saudi Arabia's first privately owned seaport, experiencing tremendous growth." },
     facts: {
       de: ["Schnellstwachsender Hafen der Welt.", "Liegt an der Küste des Roten Meeres."],
       hu: ["A világ leggyorsabban növekvő kikötője.", "A Vörös-tenger partján fekszik."],
       ro: ["Portul cu cea mai rapidă creștere din lume.", "Situat pe coasta Mării Roșii."],
       en: ["Fastest-growing port in the world.", "Located on the Red Sea coast."]
-    }, image: "/poi-images/king-abdullah-port-economic-v2.webp"},
+    }, image: "/poi-images/king-abdullah-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der King Abdullah Port (KAP) ist ein großer Tiefwasserhafen an der Westküste Saudi-Arabiens am Roten Meer, etwa 100 Kilometer nördlich von Jeddah. Er wurde 2013 eröffnet und ist ein wichtiger Knotenpunkt für den Container- und Frachtverkehr. Der Hafen verfügt über eine jährliche Kapazität von 5 Millionen TEU (Twenty-foot Equivalent Units) und 30 Millionen Tonnen Stückgut. Er ist mit modernen Kränen und Automatisierungssystemen ausgestattet. Der King Abdullah Port spielt eine zentrale Rolle in der saudischen Wirtschaftsstrategie Vision 2030, da er den Handel mit Afrika und Europa erleichtert. Der Hafen ist auch eine Sonderwirtschaftszone, die ausländische Investitionen anzieht.",
+      hu: "A King Abdullah kikötő Szaúd-Arábia egyik legmodernebb tengeri kikötője, amely a Vörös-tenger partján, Dzsiddától északra található. 2013-ban nyitották meg, és éves kapacitása 5 millió TEU konténer és 30 millió tonna áru. A kikötőt a legújabb technológiával szerelték fel, beleértve az automata darukat és a digitális raktárkezelést. A kikötő jelentősége a Szaúd-Arábia és Afrika közötti kereskedelemben növekszik. Emellett a kikötő körül ipari zóna létesült, ahol logisztikai és gyártó cégek telepedtek le. A King Abdullah kikötő hozzájárul a szaúdi gazdaság diverzifikációjához, csökkentve az olajtól való függőséget.",
+      ro: "Portul King Abdullah este un port de mare adâncime situat pe coasta de vest a Arabiei Saudite, la Marea Roșie, la 100 km nord de Jeddah. Inaugurat în 2013, are o capacitate anuală de 5 milioane TEU și 30 de milioane de tone de marfă generală. Portul este dotat cu macarale super-post-Panamax și un sistem de operare automatizat. Acesta face parte din Coridorul Logistic Internațional care leagă Asia de Europa. Portul King Abdullah este o zonă economică specială, oferind stimulente fiscale pentru investitori. În 2022, portul a manipulat peste 3 milioane TEU, contribuind semnificativ la economia regiunii.",
+      en: "King Abdullah Port (KAP) is a deep-water seaport located on the Red Sea coast of Saudi Arabia, approximately 100 km north of Jeddah. It commenced operations in 2013 and has a design capacity of 5 million TEUs and 30 million tons of breakbulk cargo annually. The port features state-of-the-art infrastructure, including 32 quay cranes and an automated gate system. It serves as a key hub for the Trans-Arabian Corridor, facilitating trade between Asia, Europe, and Africa. KAP is part of the King Abdullah Economic City (KAEC) and is managed by the Ports Development Company. In 2023, it handled over 3.5 million TEUs, ranking among the top ports in the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2013", "Jährliche Kapazität: 5 Millionen TEU", "Kaimauern: 32 Kräne", "Wassertiefe: 18 Meter", "Fläche: 14 Quadratkilometer", "Umschlag 2022: 3,2 Millionen TEU"],
+      hu: ["Megnyitás: 2013", "Éves kapacitás: 5 millió TEU", "Mélység: 18 m", "Terület: 14 km²", "Daruk száma: 32", "Forgalom 2022: 3,2 millió TEU"],
+      ro: ["Inaugurare: 2013", "Capacitate anuală: 5 milioane TEU", "Adâncime: 18 m", "Număr macarale: 32", "Suprafață: 14 km²", "Trafic 2022: 3,2 milioane TEU"],
+      en: ["Opened: 2013", "Annual capacity: 5 million TEUs", "Water depth: 18 m (59 ft)", "Number of quay cranes: 32", "Area: 14 km² (5.4 sq mi)", "Throughput 2022: 3.2 million TEUs"],
+    },
+  },
   {
     id: "jubail-industrial-city-economic-v2",
     type: "industry",
     parent: "SA-04",
     coords: [49.5658, 27.0116],
-    name: { de: "Industriestadt Dschubail", hu: "Dzsubail Ipari Város", ro: "Orașul Industrial Jubail", en: "Jubail Industrial City",
-image: "/poi-images/jubail-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industriestadt Dschubail", hu: "Dzsubail Ipari Város", ro: "Orașul Industrial Jubail", en: "Jubail Industrial City"},
+    image: "/poi-images/jubail-industrial-city-economic-v2.webp",
     description: { de: "Die Industriestadt Dschubail ist das größte zivile Ingenieurprojekt der Welt und ein globales Zentrum für Petrochemie.", hu: "A Dzsubail Ipari Város a világ legnagyobb civil mérnöki projektje és a petrolkémia egyik globális központja.", ro: "Orașul Industrial Jubail este cel mai mare proiect de inginerie civilă din lume și un centru global pentru petrochimie.", en: "Jubail Industrial City is the largest civil engineering project in the world and a global hub for petrochemicals." },
     facts: {
       de: ["Größtes Industrieprojekt der Welt.", "Zentrum für Petrochemie.", "Liegt am Persischen Golf."],
       hu: ["A világ legnagyobb ipari projektje.", "A petrolkémia egyik központja.", "A Perzsa-öböl partján található."],
       ro: ["Cel mai mare proiect industrial din lume.", "Centru pentru petrochimie.", "Situat pe malul Golfului Persic."],
       en: ["World's largest industrial city project.", "A major hub for petrochemicals.", "Located on the Arabian Gulf."]
-    }, image: "/poi-images/jubail-industrial-city-economic-v2.webp"},
+    }, image: "/poi-images/jubail-industrial-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Industrie-Stadt Jubail an der Ostküste Saudi-Arabiens ist das größte Industriezentrum des Landes und eines der größten der Welt. Sie wurde 1975 gegründet und erstreckt sich über eine Fläche von 1.000 Quadratkilometern. Jubail beherbergt zahlreiche petrochemische Anlagen, Stahlwerke und Düngemittelfabriken. Die Stadt wird von der Royal Commission for Jubail and Yanbu verwaltet. In Jubail leben etwa 150.000 Einwohner, die in modernen Wohngebieten untergebracht sind. Die Industrieanlagen nutzen Erdgas als Rohstoff und tragen erheblich zur saudischen Wirtschaft bei. Jubail ist auch ein wichtiger Hafen für den Export von Chemikalien und Kunststoffen.",
+      hu: "Jubail ipari város Szaúd-Arábia keleti partján, a Perzsa-öböl mentén található. 1975-ben alapították, és ma a világ egyik legnagyobb ipari komplexuma. Területe 1.000 km², ahol petrolkémiai üzemek, acélgyárak és műtrágyagyárak működnek. A városban 150.000 ember él, akiknek a lakhatását és közszolgáltatásait a Királyi Bizottság biztosítja. Jubail kikötője évente 50 millió tonna árut kezel. A város gazdasága a kőolaj- és gáziparra épül, de egyre nagyobb hangsúlyt kap a megújuló energia és a technológiai innováció. Jubail a szaúdi Vision 2030 stratégia egyik pillére.",
+      ro: "Orașul industrial Jubail este situat pe coasta de est a Arabiei Saudite, la Golful Persic, și a fost fondat în 1975. Se întinde pe 1.000 km² și găzduiește peste 150 de fabrici petrochimice, oțelării și rafinării. Populația este de aproximativ 150.000 de locuitori, majoritatea angajați în sectorul industrial. Portul Jubail este unul dintre cele mai mari din lume pentru produse chimice, cu un trafic anual de peste 50 de milioane de tone. Orașul este administrat de Comisia Regală pentru Jubail și Yanbu. Jubail contribuie cu aproximativ 7% la PIB-ul Arabiei Saudite. În ultimii ani, s-au făcut investiții semnificative în eficiență energetică și sustenabilitate.",
+      en: "Jubail Industrial City is a major industrial hub located on the eastern coast of Saudi Arabia, founded in 1975. It covers an area of 1,000 km² and hosts over 150 industrial plants, including petrochemical, steel, and fertilizer factories. The city has a population of around 150,000 residents, with modern housing and amenities provided by the Royal Commission for Jubail and Yanbu. Jubail Port is one of the world's largest for chemicals, handling over 50 million tons of cargo annually. The industrial city contributes approximately 7% to Saudi Arabia's GDP. It is a key component of the Saudi Vision 2030 plan for economic diversification.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1975", "Fläche: 1.000 km²", "Einwohnerzahl: 150.000", "Anzahl der Fabriken: 150", "Hafenumschlag: 50 Millionen Tonnen pro Jahr", "Beitrag zum BIP: 7%"],
+      hu: ["Alapítás: 1975", "Terület: 1.000 km²", "Lakosság: 150.000 fő", "Gyárak száma: 150", "Kikötői forgalom: 50 millió tonna/év", "GDP hozzájárulás: 7%"],
+      ro: ["Fondare: 1975", "Suprafață: 1.000 km²", "Populație: 150.000", "Număr fabrici: 150", "Trafic portuar: 50 milioane tone/an", "Contribuție la PIB: 7%"],
+      en: ["Established: 1975", "Area: 1,000 km² (386 sq mi)", "Population: 150,000", "Number of factories: 150", "Port cargo volume: 50 million tons/year", "GDP contribution: ~7%"],
+    },
+  },
   {
     id: "yanbu-industrial-city-economic-v2",
     type: "industry",
     parent: "SA-03",
     coords: [38.0622, 24.0891],
-    name: { de: "Industriestadt Yanbu", hu: "Janbu Ipari Város", ro: "Orașul Industrial Yanbu", en: "Yanbu Industrial City",
-image: "/poi-images/yanbu-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industriestadt Yanbu", hu: "Janbu Ipari Város", ro: "Orașul Industrial Yanbu", en: "Yanbu Industrial City"},
+    image: "/poi-images/yanbu-industrial-city-economic-v2.webp",
     description: { de: "Die Industriestadt Yanbu am Roten Meer dient als wichtiger Exportpunkt für saudisches Öl und Gas in die westliche Welt.", hu: "A Vörös-tenger partján fekvő Janbu Ipari Város fontos exportpontja a szaúdi olajnak és gáznak a nyugati világ felé.", ro: "Orașul Industrial Yanbu de pe Marea Roșie servește drept punct major de export pentru petrolul și gazele saudite către occident.", en: "Yanbu Industrial City on the Red Sea serves as a major export point for Saudi oil and gas to the western world." },
     facts: {
       de: ["Wichtiges Zentrum für Öl und Gas.", "Zweitgrößter Industriehafen am Roten Meer."],
       hu: ["Az olaj- és gázipar fontos központja.", "A Vörös-tenger második legnagyobb ipari kikötője."],
       ro: ["Centru important pentru petrol și gaze.", "Al doilea cel mai mare port industrial de pe Marea Roșie."],
       en: ["Major hub for oil and gas industries.", "Second-largest industrial port on the Red Sea."]
-    }, image: "/poi-images/yanbu-industrial-city-economic-v2.webp"},
+    }, image: "/poi-images/yanbu-industrial-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Industrie-Stadt Yanbu an der Westküste Saudi-Arabiens am Roten Meer wurde ebenfalls 1975 gegründet. Sie erstreckt sich über eine Fläche von 185 Quadratkilometern und beherbergt petrochemische Werke, Ölraffinerien und eine riesige Erdgasverflüssigungsanlage. Yanbu ist über eine Pipeline mit den Ölfeldern im Osten verbunden. Die Stadt hat etwa 100.000 Einwohner. Der Hafen von Yanbu ist ein wichtiger Exporthafen für raffinierte Produkte nach Europa und Afrika. Die Stadt wird von der Royal Commission for Jubail and Yanbu verwaltet und ist ein Zentrum für die Ausbildung von Fachkräften. Yanbu trägt zur wirtschaftlichen Diversifizierung Saudi-Arabiens bei.",
+      hu: "Yanbu ipari város Szaúd-Arábia nyugati partján, a Vörös-tenger mentén fekszik. 1975-ben alapították, területe 185 km². A városban található a világ egyik legnagyobb petrokémiai komplexuma, valamint olajfinomító és cseppfolyósított földgáz (LNG) üzem. Yanbu kikötője évente 30 millió tonna árut kezel. A várost a Keleti tartomány olajmezőivel összekötő csővezeték hossza 1.200 km. A lakosság száma 100.000 fő, akik között sok a magasan képzett mérnök. Yanbu fontos szerepet játszik a szaúdi gazdaság fejlődésében, különösen az olajipar mellett a megújuló energia területén is.",
+      ro: "Orașul industrial Yanbu este situat pe coasta de vest a Arabiei Saudite, la Marea Roșie, și a fost înființat în 1975. Se întinde pe 185 km² și include rafinării, fabrici petrochimice și o instalație de gaz natural lichefiat (LNG). Portul Yanbu manipulează peste 30 de milioane de tone de mărfuri anual. Orașul este conectat prin conducta Petroline (1.200 km) cu câmpurile petroliere din est. Populația este de aproximativ 100.000 de locuitori. Yanbu este un centru major pentru exportul de produse rafinate către Europa și Africa. De asemenea, găzduiește un institut de formare tehnică pentru industria petrolieră.",
+      en: "Yanbu Industrial City is located on the Red Sea coast of Saudi Arabia, established in 1975. It covers an area of 185 km² and houses a major petrochemical complex, an oil refinery, and a large liquefied natural gas (LNG) plant. The city is connected to the eastern oil fields via the 1,200-km Petroline pipeline. Yanbu Port handles over 30 million tons of cargo annually, primarily refined products and chemicals. The city has a population of about 100,000 and is administered by the Royal Commission for Jubail and Yanbu. Yanbu is a key player in Saudi Arabia's downstream oil industry and contributes significantly to the national economy.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1975", "Fläche: 185 km²", "Einwohnerzahl: 100.000", "Hafenumschlag: 30 Millionen Tonnen pro Jahr", "Pipeline-Länge: 1.200 km", "LNG-Kapazität: 10 Millionen Tonnen pro Jahr"],
+      hu: ["Alapítás: 1975", "Terület: 185 km²", "Lakosság: 100.000 fő", "Kikötői forgalom: 30 millió tonna/év", "Vezeték hossza: 1.200 km", "LNG kapacitás: 10 millió tonna/év"],
+      ro: ["Fondare: 1975", "Suprafață: 185 km²", "Populație: 100.000", "Trafic portuar: 30 milioane tone/an", "Lungime conductă: 1.200 km", "Capacitate LNG: 10 milioane tone/an"],
+      en: ["Established: 1975", "Area: 185 km² (71 sq mi)", "Population: 100,000", "Port cargo: 30 million tons/year", "Pipeline length: 1,200 km (746 mi)", "LNG capacity: 10 million tons per year"],
+    },
+  },
   {
     id: "jeddah-islamic-port-economic-v2",
     type: "port",
     parent: "SA-02",
     coords: [39.1670, 21.4746],
-    name: { de: "Islamischer Hafen Dschidda", hu: "Dzsidda Iszlám Kikötő", ro: "Portul Islamic Jeddah", en: "Jeddah Islamic Port",
-image: "/poi-images/jeddah-islamic-port-economic-v2.webp"
-},
+    name: { de: "Islamischer Hafen Dschidda", hu: "Dzsidda Iszlám Kikötő", ro: "Portul Islamic Jeddah", en: "Jeddah Islamic Port"},
+    image: "/poi-images/jeddah-islamic-port-economic-v2.webp",
     description: { de: "Der islamische Hafen von Dschidda ist der Haupthafen des Landes und schlägt den Großteil der saudischen Importe um.", hu: "A dzsiddai iszlám kikötő az ország fő kikötője, és a szaúdi import túlnyomó részét itt bonyolítják le.", ro: "Portul Islamic din Jeddah este principalul port al țării și gestionează majoritatea importurilor saudite.", en: "Jeddah Islamic Port is the country's primary port and handles the vast majority of Saudi imports." },
     facts: {
       de: ["Der wichtigste Hafen Saudi-Arabiens.", "Übernimmt den Großteil der Seeimporte."],
       hu: ["Szaúd-Arábia legfontosabb kikötője.", "A tengeri import nagy részét ez kezeli."],
       ro: ["Cel mai important port din Arabia Saudită.", "Gestionează majoritatea importurilor maritime."],
       en: ["Saudi Arabia's most important port.", "Handles the majority of maritime imports."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Jeddah Islamic Port (JIP) ist der größte Hafen Saudi-Arabiens und liegt an der Küste des Roten Meeres in Jeddah. Er wurde um 1970 erbaut und hat eine jährliche Kapazität von über 100 Millionen Tonnen Fracht. Der Hafen ist ein wichtiger Umschlagplatz für Container und Stückgut, insbesondere für den Import von Konsumgütern und Baumaterialien. JIP verfügt über 58 Liegeplätze und ist mit modernen Kränen ausgestattet. Der Hafen spielt eine zentrale Rolle bei der Pilgerfahrt nach Mekka, da er die Ankunft von Millionen von Pilgern pro Jahr abwickelt. Die Sonderwirtschaftszone des Hafens lockt Investitionen an und fördert den Handel mit Afrika und Asien.",
+      hu: "A jeddai iszlám kikötő Szaúd-Arábia legnagyobb kikötője, amely a Vörös-tenger partján fekszik. Az 1970-es években épült, és éves kapacitása meghaladja a 100 millió tonnát. A kikötő 58 kikötőhellyel rendelkezik, és évente 4 millió TEU konténert kezel. Különleges gazdasági övezete vonzza a nemzetközi vállalatokat. A kikötő fontos szerepet játszik a muszlim zarándoklatban, mivel a tengeri úton érkező zarándokok nagy része itt száll le. A jeddai kikötő infrastruktúráját folyamatosan fejlesztik, hogy megfeleljen a növekvő forgalomnak. A kikötő hozzájárul a szaúdi gazdaság diverzifikációjához, csökkentve az olajfüggőséget.",
+      ro: "Portul Islamic Jeddah (JIP) este cel mai mare port din Arabia Saudită, situat pe coasta Mării Roșii, în orașul Jeddah. A fost construit în anii 1970 și are o capacitate anuală de peste 100 de milioane de tone de marfă. Portul dispune de 58 de dane și poate manipula 4 milioane TEU pe an. JIP este un hub major pentru comerțul cu Africa și Asia, având și o zonă economică specială. Portul joacă un rol crucial în gestionarea fluxului de pelerini către Mecca, cu milioane de pelerini care sosesc pe mare în fiecare an. În 2023, portul a înregistrat un trafic de peste 4 milioane TEU, consolidându-și poziția de lider regional.",
+      en: "Jeddah Islamic Port (JIP) is the largest port in Saudi Arabia, located on the Red Sea coast of Jeddah. Constructed in the 1970s, it has an annual cargo capacity of over 100 million tons and a container handling capacity of 4 million TEUs. The port features 58 berths and is equipped with modern container cranes. It serves as a major gateway for imports to Saudi Arabia, including food, electronics, and machinery. JIP also plays a vital role in the Hajj pilgrimage, facilitating the arrival of millions of pilgrims annually. The port's special economic zone attracts foreign investment, boosting the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1970", "Kapazität: 100 Millionen Tonnen pro Jahr", "Anzahl der Liegeplätze: 58", "Containerumschlag: 4 Millionen TEU pro Jahr", "Hajj-Pilger: 2 Millionen pro Jahr (Schätzung)", "Fläche: 10 Quadratkilometer"],
+      hu: ["Építés éve: 1970", "Éves kapacitás: 100 millió tonna", "Kikötőhelyek száma: 58", "Konténerforgalom: 4 millió TEU/év", "Zarándokok: 2 millió évente", "Terület: 10 km²"],
+      ro: ["An construcție: 1970", "Capacitate anuală: 100 milioane tone", "Număr dane: 58", "Trafic containere: 4 milioane TEU/an", "Pelerini Hajj: 2 milioane pe an", "Suprafață: 10 km²"],
+      en: ["Built: 1970", "Annual cargo capacity: 100 million tons", "Number of berths: 58", "Container throughput: 4 million TEUs per year", "Hajj pilgrims served annually: ~2 million", "Area: 10 km² (3.9 sq mi)"],
+    },
   },
   {
     id: "king-abdulaziz-port-dammam-economic-v2",
     type: "port",
     parent: "SA-04",
     coords: [50.1506, 26.5028],
-    name: { de: "König-Abdulaziz-Hafen Dammam", hu: "Abdulaziz Király Kikötő Dammám", ro: "Portul Regele Abdulaziz Dammam", en: "King Abdulaziz Port Dammam",
-image: "/poi-images/king-abdulaziz-port-dammam-economic-v2.webp"
-},
+    name: { de: "König-Abdulaziz-Hafen Dammam", hu: "Abdulaziz Király Kikötő Dammám", ro: "Portul Regele Abdulaziz Dammam", en: "King Abdulaziz Port Dammam"},
+    image: "/poi-images/king-abdulaziz-port-dammam-economic-v2.webp",
     description: { de: "Der König-Abdulaziz-Hafen in Dammam ist der größte Hafen am Persischen Golf und das Tor zur Ostprovinz.", hu: "A dammámi Abdulaziz Király Kikötő a Perzsa-öböl legnagyobb kikötője és a Keleti tartomány kapuja.", ro: "Portul Regele Abdulaziz din Dammam este cel mai mare port din Golful Persic și poarta de intrare în Provincia de Est.", en: "King Abdulaziz Port in Dammam is the largest port on the Arabian Gulf and the gateway to the Eastern Province." },
     facts: {
       de: ["Größter Hafen am Persischen Golf.", "Zentraler Umschlagplatz für den Export."],
       hu: ["A legnagyobb kikötő a Perzsa-öbölben.", "Az export egyik legfőbb tranzitállomása."],
       ro: ["Cel mai mare port de la Golful Persic.", "Punct central pentru exporturi."],
       en: ["Largest port on the Arabian Gulf.", "A central hub for export operations."]
-    }, image: "/poi-images/king-abdulaziz-port-dammam-economic-v2.webp"},
+    }, image: "/poi-images/king-abdulaziz-port-dammam-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der King Abdulaziz Port in Dammam ist der wichtigste Hafen an der Ostküste Saudi-Arabiens am Persischen Golf. Er wurde in den 1950er Jahren erbaut und hat eine jährliche Kapazität von 50 Millionen Tonnen. Der Hafen verfügt über 20 Liegeplätze und einen Containerterminal mit einer Kapazität von 2 Millionen TEU. Er ist ein wichtiger Umschlagplatz für die Industrie in der Ostprovinz, insbesondere für Petrochemie und Landmaschinen. Der Hafen wird von der Saudi Ports Authority (Mawani) betrieben. In den letzten Jahren wurde der Hafen modernisiert, um die Effizienz zu steigern. Er spielt eine Schlüsselrolle im Export von saudi-arabischem Rohöl und raffinierten Produkten.",
+      hu: "A King Abdulaziz kikötő Dammam városában, Szaúd-Arábia keleti partján, a Perzsa-öbölben található. Az 1950-es években épült, éves kapacitása 50 millió tonna. A kikötő 20 kikötőhellyel rendelkezik, és évente 2 millió TEU konténert kezel. Fontos szerepet játszik a keleti tartomány ipari termékeinek exportjában, különösen a petrolkémiai anyagok és a nehézgépek terén. A kikötőt a Mawani üzemelteti. 2020-ban egy új konténerterminált avattak, amely növelte a kapacitást. A kikötő hozzájárul a szaúdi gazdaság exportorientált fejlődéséhez.",
+      ro: "Portul King Abdulaziz din Dammam este situat pe coasta de est a Arabiei Saudite, la Golful Persic. A fost construit în anii 1950 și are o capacitate anuală de 50 de milioane de tone. Portul are 20 de dane și un terminal de containere cu o capacitate de 2 milioane TEU. Este un hub important pentru exporturile de produse petrochimice și utilaje grele din Provincia de Est. Portul este operat de Autoritatea Portuară Saudită (Mawani). In 2020, a fost inaugurat un nou terminal care a crescut capacitatea totală. Portul King Abdulaziz este esențial pentru comerțul exterior al Arabiei Saudite.",
+      en: "King Abdulaziz Port in Dammam is a major port on the eastern coast of Saudi Arabia, located on the Persian Gulf. Built in the 1950s, it has an annual cargo capacity of 50 million tons and a container capacity of 2 million TEUs. The port features 20 berths and is operated by the Saudi Ports Authority (Mawani). It serves as a key gateway for the Eastern Province's industrial outputs, including petrochemicals and heavy machinery. In 2020, a new container terminal was added, increasing efficiency. The port is vital for Saudi Arabia's export-oriented economy, particularly for crude oil and refined products.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1950", "Kapazität: 50 Millionen Tonnen pro Jahr", "Anzahl der Liegeplätze: 20", "Containerumschlag: 2 Millionen TEU pro Jahr", "Betreiber: Mawani", "Neues Terminal: 2020 eröffnet"],
+      hu: ["Építés éve: 1950", "Éves kapacitás: 50 millió tonna", "Kikötőhelyek: 20", "Konténerkapacitás: 2 millió TEU/év", "Üzemeltető: Mawani", "Új terminál: 2020"],
+      ro: ["An construcție: 1950", "Capacitate anuală: 50 milioane tone", "Număr dane: 20", "Capacitate containere: 2 milioane TEU", "Operator: Mawani", "Terminal nou: 2020"],
+      en: ["Built: 1950", "Annual capacity: 50 million tons", "Number of berths: 20", "Container capacity: 2 million TEUs", "Operator: Mawani (Saudi Ports Authority)", "New terminal: opened 2020"],
+    },
+  },
   {
     id: "mahd-adh-dhahab-mine-economic-v2",
     type: "mine",
     parent: "SA-03",
     coords: [40.8752, 23.4981],
-    name: { de: "Goldmine Mahd adh-Dhahab", hu: "Mahd adh-Dhahab aranybánya", ro: "Mina de aur Mahd adh Dhahab", en: "Mahd adh Dhahab Mine",
-image: "/poi-images/mahd-adh-dhahab-mine-economic-v2.webp"
-},
+    name: { de: "Goldmine Mahd adh-Dhahab", hu: "Mahd adh-Dhahab aranybánya", ro: "Mina de aur Mahd adh Dhahab", en: "Mahd adh Dhahab Mine"},
+    image: "/poi-images/mahd-adh-dhahab-mine-economic-v2.webp",
     description: { de: "Die Mine Mahd adh-Dhahab, auch als 'Wiege des Goldes' bekannt, ist die wichtigste Goldmine in Saudi-Arabien.", hu: "A Mahd adh-Dhahab bánya, amelyet az 'Arany bölcsőjeként' is ismernek, Szaúd-Arábia legfontosabb aranybányája.", ro: "Mina Mahd adh Dhahab, cunoscută și sub numele de 'Leagănul Aurului', este cea mai importantă mină de aur din Arabia Saudită.", en: "Mahd adh Dhahab Mine, also known as the 'Cradle of Gold', is the most important gold mine in Saudi Arabia." },
     facts: {
       de: ["Bedeutendste Goldmine des Landes.", "Bereits in der Antike genutzt."],
       hu: ["Az ország legjelentősebb aranybányája.", "Már az ókorban is használták."],
       ro: ["Cea mai importantă mină de aur din țară.", "Folosită încă din antichitate."],
       en: ["Most significant gold mine in the country.", "Used since ancient times."]
-    }, image: "/poi-images/mahd-adh-dhahab-mine-economic-v2.webp"},
+    }, image: "/poi-images/mahd-adh-dhahab-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mahd-adh-Dhahab-Mine (Goldmine) liegt in der Provinz Medina in Saudi-Arabien und ist eine der ältesten Goldminen der Welt, die bereits in vorislamischer Zeit abgebaut wurde. Die moderne Förderung begann 1939 und die Mine wird von Saudi Arabian Mining Company (Ma'aden) betrieben. Die Jahresproduktion beträgt etwa 250.000 Unzen Gold sowie Silber, Kupfer und Zink. Die Mine verfügt über eine untertägige Förderung mit einer Teufe von über 300 Metern. Die Erzreserven werden auf 3 Millionen Unzen Gold geschätzt. Mahd adh Dhahab spielt eine wichtige Rolle in der saudi-arabischen Bergbauindustrie und der wirtschaftlichen Diversifizierung.",
+      hu: "A Mahd adh Dhahab aranybánya Szaúd-Arábia nyugati részén, Medina tartományban található. Ez a világ egyik legrégebbi aranybányája, amely már az ókorban ismert volt. A modern bányászat 1939-ben indult, és az éves aranytermelés eléri a 250.000 unciát. A bánya emellett ezüstöt, rezet és cinket is termel. A bánya mélysége meghaladja a 300 métert. A készleteket 3 millió uncia aranyra becsülik. A bánya a Ma'aden vállalat tulajdonában van, és fontos szerepet játszik a szaúdi gazdaság olajfüggőségének csökkentésében.",
+      ro: "Mina de aur Mahd adh Dhahab este situată în provincia Medina, Arabia Saudită, și este una dintre cele mai vechi mine de aur din lume, cu exploatări încă din antichitate. Exploatarea modernă a început în 1939, iar mina este operată de Ma'aden. Producția anuală este de aproximativ 250.000 de uncii de aur, plus argint, cupru și zinc. Mina are o adâncime de peste 300 de metri, iar rezervele sunt estimate la 3 milioane de uncii de aur. Mahd adh Dhahab contribuie semnificativ la sectorul minier al Arabiei Saudite și la diversificarea economică.",
+      en: "Mahd adh Dhahab (Cradle of Gold) is an ancient gold mine located in the Medina Province of Saudi Arabia, with historical mining dating back to pre-Islamic times. Modern operations began in 1939, and the mine is currently operated by Saudi Arabian Mining Company (Ma'aden). It produces approximately 250,000 ounces of gold annually, along with silver, copper, and zinc. The mine operates at depths exceeding 300 meters, with proven reserves of 3 million ounces of gold. Mahd adh Dhahab is a key asset in Saudi Arabia's mining sector, supporting the country's economic diversification goals beyond oil.",
+    },
+    factsAdvanced: {
+      de: ["Jahresproduktion: 250.000 Unzen Gold", "Tiefe: über 300 Meter", "Reserven: 3 Millionen Unzen Gold", "Betreiber: Ma'aden", "Modernisierungsbeginn: 1939", "Nebenprodukte: Silber, Kupfer, Zink"],
+      hu: ["Éves aranytermelés: 250.000 uncia", "Mélység: 300 m felett", "Készlet: 3 millió uncia arany", "Üzemeltető: Ma'aden", "Modern bányászat kezdete: 1939", "Melléktermékek: ezüst, réz, cink"],
+      ro: ["Producție anuală de aur: 250.000 uncii", "Adâncime: peste 300 m", "Rezerve: 3 milioane uncii de aur", "Operator: Ma'aden", "Început exploatare modernă: 1939", "Subproduse: argint, cupru, zinc"],
+      en: ["Annual gold production: 250,000 ounces", "Mining depth: over 300 m (984 ft)", "Gold reserves: 3 million ounces", "Operator: Ma'aden (Saudi Arabian Mining Company)", "Modern operations started: 1939", "By-products: silver, copper, zinc"],
+    },
+  },
   {
     id: "ghawar-oil-field-economic-v2",
     type: "energy",
     parent: "SA-04",
     coords: [49.5000, 25.4333],
-    name: { de: "Ghawar-Ölfeld", hu: "Gavar olajmező", ro: "Câmpul petrolier Ghawar", en: "Ghawar Oil Field",
-image: "/poi-images/ghawar-oil-field-economic-v2.webp"
-},
+    name: { de: "Ghawar-Ölfeld", hu: "Gavar olajmező", ro: "Câmpul petrolier Ghawar", en: "Ghawar Oil Field"},
+    image: "/poi-images/ghawar-oil-field-economic-v2.webp",
     description: { de: "Das Ghawar-Ölfeld ist das bei weitem größte konventionelle Ölfeld der Welt und bildet das Rückgrat der saudischen Ölproduktion.", hu: "A Gavar olajmező messze a világ legnagyobb hagyományos olajmezője, amely a szaúdi olajkitermelés gerincét adja.", ro: "Câmpul petrolier Ghawar este de departe cel mai mare câmp petrolier convențional din lume, formând coloana vertebrală a producției saudite.", en: "The Ghawar Oil Field is by far the largest conventional oil field in the world and forms the backbone of Saudi oil production." },
     facts: {
       de: ["Das größte Onshore-Ölfeld der Welt.", "Entdeckt im Jahr 1948."],
       hu: ["A világ legnagyobb szárazföldi olajmezője.", "1948-ban fedezték fel."],
       ro: ["Cel mai mare câmp petrolier terestru din lume.", "Descoperit în anul 1948."],
       en: ["The largest onshore oil field in the world.", "Discovered in 1948."]
-    }, image: "/poi-images/ghawar-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/ghawar-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ghawar-Ölfeld in Saudi-Arabien ist das größte konventionelle Ölfeld der Welt, gelegen in der Provinz Al-Ahsa. Es wurde 1948 entdeckt und 1951 in Produktion genommen. Das Feld erstreckt sich über eine Länge von 280 Kilometern und eine Breite von 30 Kilometern. Die geschätzten förderbaren Reserven betragen etwa 58 Milliarden Barrel. Ghawar fördert derzeit rund 4 Millionen Barrel Rohöl pro Tag, was etwa 30% der saudischen Produktion entspricht. Das Feld besteht aus mehreren Sektoren, darunter Ain Dar, Shedgum und Uthmaniyah. Ghawar ist eine entscheidende Stütze der globalen Ölversorgung.",
+      hu: "A Ghawar olajmező Szaúd-Arábiában, a keleti tartományban található, és a világ legnagyobb hagyományos olajmezője. 1948-ban fedezték fel, 1951-ben kezdték kitermelni. Hossza 280 km, szélessége 30 km. Becsült készlete 58 milliárd hordó. Naponta körülbelül 4 millió hordó olajat termel, ami Szaúd-Arábia termelésének 30%-a. A mező több szektorra oszlik, mint Ain Dar, Shedgum és Uthmaniyah. Ghawar kulcsszerepet játszik a globális olajellátásban és a szaúdi gazdaságban.",
+      ro: "Câmpul petrolifer Ghawar este cel mai mare câmp petrolifer convențional din lume, situat în provincia Al-Ahsa, Arabia Saudită. A fost descoperit în 1948 și a intrat în producție în 1951. Câmpul se întinde pe 280 km lungime și 30 km lățime. Rezervele recuperabile estimate sunt de 58 de miliarde de barili. Producția zilnică actuală este de aproximativ 4 milioane de barili, reprezentând 30% din producția Arabiei Saudite. Ghawar este împărțit în mai multe sectoare, inclusiv Ain Dar, Shedgum și Uthmaniyah. Este vital pentru economia saudită și pentru piața globală a petrolului.",
+      en: "The Ghawar oil field in Saudi Arabia is the world's largest conventional oil field, located in the Al-Ahsa region. Discovered in 1948 and brought onstream in 1951, it stretches 280 km long and 30 km wide. Its estimated recoverable reserves are about 58 billion barrels. Ghawar currently produces around 4 million barrels of crude oil per day, accounting for roughly 30% of Saudi Arabia's output. The field is divided into several sectors, including Ain Dar, Shedgum, and Uthmaniyah. Ghawar plays a crucial role in global oil supply stability.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1948", "Produktionsbeginn: 1951", "Länge: 280 km", "Breite: 30 km", "Reserven: 58 Milliarden Barrel", "Tagesproduktion: 4 Millionen Barrel"],
+      hu: ["Felfedezés: 1948", "Kitermelés kezdete: 1951", "Hosszúság: 280 km", "Szélesség: 30 km", "Készlet: 58 milliárd hordó", "Napi termelés: 4 millió hordó"],
+      ro: ["Descoperire: 1948", "Început producție: 1951", "Lungime: 280 km", "Lățime: 30 km", "Rezerve: 58 miliarde barili", "Producție zilnică: 4 milioane barili"],
+      en: ["Discovered: 1948", "Production start: 1951", "Length: 280 km (174 mi)", "Width: 30 km (19 mi)", "Reserves: 58 billion barrels", "Daily production: 4 million barrels"],
+    },
+  },
   {
     id: "safaniya-oil-field-economic-v2",
     type: "energy",
     parent: "SA-04",
     coords: [48.7500, 28.1667],
-    name: { de: "Safaniya-Ölfeld", hu: "Szafanija olajmező", ro: "Câmpul petrolier Safaniya", en: "Safaniya Oil Field",
-image: "/poi-images/safaniya-oil-field-economic-v2.webp"
-},
+    name: { de: "Safaniya-Ölfeld", hu: "Szafanija olajmező", ro: "Câmpul petrolier Safaniya", en: "Safaniya Oil Field"},
+    image: "/poi-images/safaniya-oil-field-economic-v2.webp",
     description: { de: "Das Safaniya-Ölfeld im Persischen Golf ist das größte Offshore-Ölfeld der Welt und fördert schweres Rohöl.", hu: "A Perzsa-öbölben található Szafanija olajmező a világ legnagyobb tengeri olajmezője, ahonnan nehéz kőolajat termelnek ki.", ro: "Câmpul petrolier Safaniya din Golful Persic este cel mai mare câmp petrolier offshore din lume, extrăgând țiței greu.", en: "The Safaniya Oil Field in the Arabian Gulf is the largest offshore oil field in the world, producing heavy crude oil." },
     facts: {
       de: ["Das größte Offshore-Ölfeld der Welt.", "Wird von Saudi Aramco betrieben."],
       hu: ["A világ legnagyobb tengeri olajmezője.", "A Saudi Aramco üzemelteti."],
       ro: ["Cel mai mare câmp petrolier offshore din lume.", "Operat de Saudi Aramco."],
       en: ["The largest offshore oil field in the world.", "Operated by Saudi Aramco."]
-    }, image: "/poi-images/safaniya-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/safaniya-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Safaniya-Ölfeld ist das größte Offshore-Ölfeld der Welt und liegt im Persischen Golf vor der Küste Saudi-Arabiens. Es wurde 1951 entdeckt und 1957 in Produktion genommen. Die geschätzten Reserven betragen etwa 37 Milliarden Barrel. Die Förderungskapazität liegt bei rund 1,5 Millionen Barrel pro Tag. Das Feld erstreckt sich über eine Fläche von 50 Quadratkilometern. Die Plattformen sind durch Pipelines mit der Küste verbunden. Safaniya produziert schweres Rohöl, das in den Raffinerien in Ras Tanura und Jubail verarbeitet wird. Das Feld ist ein zentraler Bestandteil der saudischen Ölproduktion.",
+      hu: "A Safaniya olajmező a világ legnagyobb tengeri olajmezője, a Perzsa-öbölben, Szaúd-Arábia partjainál. 1951-ben fedezték fel, 1957-ben kezdték kitermelni. Becsült készlete 37 milliárd hordó. Napi termelése 1,5 millió hordó. A mező 50 km² területet ölel fel. A platformokat csővezetékek kötik össze a parttal. A Safaniya nehéz kőolajat termel, amelyet a ras tanurai és jubaili finomítókban dolgoznak fel. A mező fontos szerepet játszik a szaúdi olajexportban.",
+      ro: "Câmpul petrolier Safaniya este cel mai mare câmp petrolier offshore din lume, situat în Golful Persic, în largul coastei Arabiei Saudite. A fost descoperit în 1951 și produs comercial începând cu 1957. Rezervele estimate sunt de 37 de miliarde de barili. Capacitatea de producție este de aproximativ 1,5 milioane de barili pe zi. Câmpul se întinde pe 50 km². Platformele sunt conectate la țărm prin conducte. Safaniya produce țiței greu, procesat la rafinăriile Ras Tanura și Jubail. Este un activ strategic pentru Arabia Saudită.",
+      en: "The Safaniya oil field is the world's largest offshore oil field, located in the Persian Gulf off the coast of Saudi Arabia. Discovered in 1951 and brought onstream in 1957, it has estimated reserves of 37 billion barrels. The field's production capacity is about 1.5 million barrels per day. It covers an area of 50 km², with numerous platforms connected by pipelines to shore. Safaniya produces heavy crude oil, which is refined at Ras Tanura and Jubail. The field is a key element of Saudi Arabia's oil infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1951", "Produktionsbeginn: 1957", "Reserven: 37 Milliarden Barrel", "Tagesproduktion: 1,5 Millionen Barrel", "Fläche: 50 km²", "Ölart: schweres Rohöl"],
+      hu: ["Felfedezés: 1951", "Kitermelés kezdete: 1957", "Készlet: 37 milliárd hordó", "Napi termelés: 1,5 millió hordó", "Terület: 50 km²", "Olajtípus: nehéz kőolaj"],
+      ro: ["Descoperire: 1951", "Început producție: 1957", "Rezerve: 37 miliarde barili", "Producție zilnică: 1,5 milioane barili", "Suprafață: 50 km²", "Tip țiței: greu"],
+      en: ["Discovered: 1951", "Production start: 1957", "Reserves: 37 billion barrels", "Daily production: 1.5 million barrels", "Area: 50 km² (19 sq mi)", "Crude type: heavy"],
+    },
+  },
   {
     id: "riyadh-dry-port-economic-v2",
     type: "trade-hub",
     parent: "SA-01",
     coords: [46.7563, 24.6465],
-    name: { de: "Trockenhafen Riad", hu: "Rijád Szárazkikötő", ro: "Portul uscat Riyadh", en: "Riyadh Dry Port",
-image: "/poi-images/riyadh-dry-port-economic-v2.webp"
-},
+    name: { de: "Trockenhafen Riad", hu: "Rijád Szárazkikötő", ro: "Portul uscat Riyadh", en: "Riyadh Dry Port"},
+    image: "/poi-images/riyadh-dry-port-economic-v2.webp",
     description: { de: "Der Trockenhafen Riad ist ein zentraler Logistikknotenpunkt, der über das Eisenbahnnetz mit dem Hafen in Dammam verbunden ist.", hu: "A Rijád Szárazkikötő egy központi logisztikai csomópont, amely vasúton kapcsolódik a dammámi kikötőhöz.", ro: "Portul uscat din Riyadh este un nod logistic central, conectat prin calea ferată la portul din Dammam.", en: "The Riyadh Dry Port is a central logistics hub connected by the railway network to the port in Dammam." },
     facts: {
       de: ["Der größte Binnenhafen des Landes.", "Verbindet Riad mit Dammam."],
       hu: ["Az ország legnagyobb szárazkikötője.", "Rijádot köti össze Dammámmal."],
       ro: ["Cel mai mare port uscat din țară.", "Conectează Riyadh de Dammam."],
       en: ["The largest dry port in the country.", "Connects Riyadh with Dammam."]
-    }, image: "/poi-images/riyadh-dry-port-economic-v2.webp"},
+    }, image: "/poi-images/riyadh-dry-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Trockenhafen von Riad (Riyadh Dry Port) ist ein intermodales Logistikzentrum in der Hauptstadt Saudi-Arabiens, das 2015 eröffnet wurde. Er liegt etwa 30 Kilometer östlich des Stadtzentrums und ist mit dem Schienennetz der Saudi Railways verbunden. Der Hafen hat eine jährliche Kapazität von 1,5 Millionen TEU und erstreckt sich über eine Fläche von 3 Quadratkilometern. Er dient als Zollabfertigungs- und Umschlagplatz für Container, die von den Seehäfen Dammam und Jeddah kommen. Der Trockenhafen reduziert die Kosten und die Zeit für den Transport von Gütern nach Riad. Er ist Teil der Vision 2030, um die Logistikinfrastruktur zu modernisieren.",
+      hu: "A Rijádi szárazkikötő Szaúd-Arábia fővárosának logisztikai központja, amely 2015-ben nyílt meg. A városközponttól 30 km-re keletre található, és közvetlen vasúti kapcsolattal rendelkezik a szaúdi vasúthálózathoz. Éves kapacitása 1,5 millió TEU, területe 3 km². A szárazkikötő vámkezelést és konténerátrakodást végez a dammami és jeddai tengeri kikötőkből érkező áruk számára. Jelentősen csökkenti a szállítási időt és költségeket. A létesítmény a szaúdi logisztikai ágazat fejlesztésének része, és hozzájárul a gazdasági diverzifikációhoz.",
+      ro: "Portul uscat Riyadh este un centru logistic intermodal situat la est de capitala Arabiei Saudite, inaugurat în 2015. Acoperă o suprafață de 3 km² și are o capacitate anuală de 1,5 milioane TEU. Este conectat la rețeaua feroviară a Căilor Ferate Saudite, facilitând transportul containerelor de la porturile maritime Dammam și Jeddah. Portul uscat oferă servicii de vămuire și transbordare, reducând costurile și timpul de tranzit. Face parte din strategia Vision 2030 de modernizare a infrastructurii logistice. În 2022, a procesat peste 1 milion TEU.",
+      en: "Riyadh Dry Port is an intermodal logistics facility located 30 km east of Riyadh, Saudi Arabia, opened in 2015. It covers 3 km² and has an annual capacity of 1.5 million TEUs. The dry port is connected to the Saudi Railways network, enabling efficient container movement from the ports of Dammam and Jeddah. It provides customs clearance, storage, and transshipment services, reducing transit times and costs for goods destined for Riyadh. The facility is a key component of Saudi Arabia's Vision 2030 to enhance logistics infrastructure. In 2022, it handled over 1 million TEUs.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2015", "Kapazität: 1,5 Millionen TEU pro Jahr", "Fläche: 3 km²", "Entfernung zu Riad: 30 km", "Schienenanbindung: ja", "Umschlag 2022: 1 Million TEU"],
+      hu: ["Megnyitás: 2015", "Éves kapacitás: 1,5 millió TEU", "Terület: 3 km²", "Távolság Rijádtól: 30 km", "Vasúti kapcsolat: van", "Forgalom 2022: 1 millió TEU"],
+      ro: ["Inaugurare: 2015", "Capacitate anuală: 1,5 milioane TEU", "Suprafață: 3 km²", "Distanță față de Riyadh: 30 km", "Conexiune feroviară: da", "Trafic 2022: 1 milion TEU"],
+      en: ["Opened: 2015", "Annual capacity: 1.5 million TEUs", "Area: 3 km² (1.16 sq mi)", "Distance from central Riyadh: 30 km (19 mi)", "Rail connection: Yes (Saudi Railways)", "Throughput 2022: 1 million TEUs"],
+    },
+  },
   {
     id: "king-salman-energy-park-economic-v2",
     type: "energy",
     parent: "SA-04",
     coords: [49.7997, 25.8617],
-    name: { de: "König-Salman-Energiepark (SPARK)", hu: "Szalmán Király Energiapark (SPARK)", ro: "Parcul Energetic Regele Salman (SPARK)", en: "King Salman Energy Park (SPARK)",
-image: "/poi-images/king-salman-energy-park-economic-v2.webp"
-},
+    name: { de: "König-Salman-Energiepark (SPARK)", hu: "Szalmán Király Energiapark (SPARK)", ro: "Parcul Energetic Regele Salman (SPARK)", en: "King Salman Energy Park (SPARK)"},
+    image: "/poi-images/king-salman-energy-park-economic-v2.webp",
     description: { de: "Der König-Salman-Energiepark (SPARK) ist ein Megaprojekt, das Saudi-Arabien als globales Zentrum für Energie, Industrie und Technologie positionieren soll.", hu: "A Szalmán Király Energiapark (SPARK) egy megaprojekt, amelynek célja, hogy Szaúd-Arábiát globális energetikai, ipari és technológiai központtá tegye.", ro: "Parcul Energetic Regele Salman (SPARK) este un megaproiect menit să poziționeze Arabia Saudită ca hub global pentru energie, industrie și tehnologie.", en: "King Salman Energy Park (SPARK) is a megaproject designed to position Saudi Arabia as a global hub for energy, industry, and technology." },
     facts: {
       de: ["Fördert erneuerbare Energien.", "Zentrum für saubere Technologien."],
       hu: ["A megújuló energiákat támogatja.", "A tiszta technológiák központja."],
       ro: ["Promovează energia regenerabilă.", "Centru pentru tehnologii curate."],
       en: ["Promotes renewable energy solutions.", "A hub for clean technologies."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der King Salman Energy Park (SPARK) ist ein geplanter integrierter Industriekomplex in der Ostprovinz Saudi-Arabiens, etwa 120 Kilometer nordwestlich von Dhahran. Er wurde 2018 ins Leben gerufen und soll eine Fläche von 50 Quadratkilometern umfassen. SPARK konzentriert sich auf die Öl- und Gasindustrie, einschließlich Dienstleistungen, Fertigung und Logistik. Der Park wird über eine eigene Stromversorgung aus erneuerbaren Energien verfügen. Er soll 100.000 Arbeitsplätze schaffen und 30 Milliarden Dollar zur saudischen Wirtschaft beitragen. SPARK ist ein zentrales Projekt der Vision 2030 zur Diversifizierung der Wirtschaft und zur Förderung lokaler Inhalte.",
+      hu: "A King Salman Energy Park (SPARK) egy integrált ipari komplexum Szaúd-Arábia keleti tartományában, Dhahrantól 120 km-re északnyugatra. 2018-ban indították, területe 50 km² lesz. A park az olaj- és gáziparra összpontosít, beleértve a kiszolgáló, gyártó és logisztikai tevékenységeket. A létesítmény saját megújuló energiaforrással rendelkezik. Várhatóan 100.000 munkahelyet teremt és 30 milliárd dollárral járul hozzá a gazdasághoz. SPARK a szaúdi gazdaság diverzifikációjának egyik zászlóshajója.",
+      ro: "King Salman Energy Park (SPARK) este un parc industrial integrat situat în Provincia de Est a Arabiei Saudite, la 120 km nord-vest de Dhahran. Lansat în 2018, se întinde pe 50 km². SPARK este dedicat industriei de petrol și gaze, oferind servicii, producție și logistică. Parcul va avea propria sursă de energie regenerabilă. Se estimează că va crea 100.000 de locuri de muncă și va contribui cu 30 de miliarde de dolari la economia saudită. SPARK este un proiect emblematic al Vision 2030 pentru diversificare economică.",
+      en: "King Salman Energy Park (SPARK) is an integrated industrial complex in Saudi Arabia's Eastern Province, located 120 km northwest of Dhahran. Launched in 2018, it spans 50 km² and focuses on the oil and gas sector, including upstream services, manufacturing, and logistics. The park is designed to be powered by renewable energy sources. It is expected to create 100,000 direct and indirect jobs and contribute $30 billion to Saudi GDP. SPARK is a flagship project of Vision 2030, aiming to enhance local content and diversify the economy.",
+    },
+    factsAdvanced: {
+      de: ["Launch: 2018", "Fläche: 50 km²", "Arbeitsplätze: 100.000", "Wirtschaftsbeitrag: 30 Milliarden Dollar", "Erneuerbare Energie: ja", "Entfernung zu Dhahran: 120 km"],
+      hu: ["Indítás: 2018", "Terület: 50 km²", "Munkahelyek: 100.000", "Gazdasági hozzájárulás: 30 milliárd dollár", "Megújuló energia: igen", "Távolság Dhahrantól: 120 km"],
+      ro: ["Lansare: 2018", "Suprafață: 50 km²", "Locuri de muncă: 100.000", "Contribuție economică: 30 miliarde $", "Energie regenerabilă: da", "Distanță față de Dhahran: 120 km"],
+      en: ["Launched: 2018", "Area: 50 km² (19.3 sq mi)", "Expected jobs: 100,000", "GDP contribution: $30 billion", "Renewable energy: Yes (solar and wind)", "Distance from Dhahran: 120 km (75 mi)"],
+    },
   },
   {
     id: "oxagon-neom-economic-v2",
     type: "industry",
     parent: "SA-07",
     coords: [35.2000, 27.9167],
-    name: { de: "Oxagon (Neom)", hu: "Oxagon (Neom)", ro: "Oxagon (Neom)", en: "Oxagon (Neom)",
-image: "/poi-images/oxagon-neom-economic-v2.webp"
-},
+    name: { de: "Oxagon (Neom)", hu: "Oxagon (Neom)", ro: "Oxagon (Neom)", en: "Oxagon (Neom)"},
+    image: "/poi-images/oxagon-neom-economic-v2.webp",
     description: { de: "Oxagon ist als vollständig schwimmende Industriestadt konzipiert und soll Teil des futuristischen Neom-Projekts am Roten Meer werden.", hu: "Az Oxagon egy teljesen lebegő ipari város koncepciója, amely a Vörös-tenger partján épülő futurisztikus Neom projekt része.", ro: "Oxagon este conceput ca un oraș industrial complet plutitor și urmează să facă parte din proiectul futurist Neom de la Marea Roșie.", en: "Oxagon is designed as a fully floating industrial city and is set to be part of the futuristic Neom project on the Red Sea." },
     facts: {
       de: ["Schwimmende Industriestadt in Neom.", "Setzt auf 100% erneuerbare Energien."],
       hu: ["Lebegő ipari város Neomban.", "100%-ban megújuló energiára támaszkodik."],
       ro: ["Oraș industrial plutitor în Neom.", "Se bazează 100% pe energii regenerabile."],
       en: ["Floating industrial city in Neom.", "Relies 100% on renewable energy."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Oxagon ist ein geplantes Industriegebiet in der Megastadt NEOM in Saudi-Arabien, gelegen an der Küste des Roten Meeres. Es wird als schwimmende Industrieplattform konzipiert, die vollautomatisiert und nachhaltig sein soll. Oxagon wird sich auf fortschrittliche Fertigung, Robotik und saubere Energie konzentrieren. Die Anlage wird eine Fläche von 200 Quadratkilometern umfassen und soll 100% grüne Energie nutzen. Der Bau begann 2021, und die erste Phase soll 2025 abgeschlossen sein. Oxagon ist Teil der Vision 2030 und soll 70.000 Arbeitsplätze schaffen. Die Investitionskosten werden auf 100 Milliarden Dollar geschätzt.",
+      hu: "Az Oxagon a NEOM megaváros része, Szaúd-Arábia északnyugati részén, a Vörös-tenger partján. Ez egy úszó ipari komplexum, amely teljesen automatizált és fenntartható lesz. Az Oxagon a fejlett gyártásra, robotikára és tiszta energiára összpontosít. Területe 200 km² lesz, és 100%-ban zöld energiát használ. Az építkezés 2021-ben kezdődött, az első fázis 2025-re várható. Az Oxagon 70.000 munkahelyet teremt, és a beruházás 100 milliárd dollár. A projekt a szaúdi gazdaság diverzifikációjának kulcseleme.",
+      ro: "Oxagon este un district industrial planificat în orașul megaproiectat NEOM, situat pe coasta Mării Roșii, în nord-vestul Arabiei Saudite. Va fi o platformă industrială plutitoare, complet automatizată și alimentată cu energie regenerabilă. Oxagon se va concentra pe producție avansată, robotică și energie curată. Suprafața sa va fi de 200 km², iar construcția a început în 2021. Prima fază este programată pentru 2025. Se estimează că va crea 70.000 de locuri de muncă, cu o investiție de 100 de miliarde de dolari. Oxagon este un simbol al viziunii 2030 pentru diversificare economică.",
+      en: "Oxagon is a planned industrial city within the NEOM megacity in northwest Saudi Arabia, located on the Red Sea. Designed as a floating industrial complex, it will be fully automated and powered entirely by renewable energy. Oxagon will focus on advanced manufacturing, robotics, and clean energy technologies. Spanning 200 km², construction began in 2021, with the first phase expected to be operational by 2025. The project is expected to create 70,000 jobs and attract $100 billion in investment. Oxagon is a key component of Saudi Arabia's Vision 2030 to diversify the economy.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 200 km²", "Baubeginn: 2021", "Erste Phase: 2025", "Arbeitsplätze: 70.000", "Investition: 100 Milliarden Dollar", "Energie: 100% erneuerbar"],
+      hu: ["Terület: 200 km²", "Építkezés kezdete: 2021", "Első fázis: 2025", "Munkahelyek: 70.000", "Befektetés: 100 milliárd dollár", "Energia: 100% zöld"],
+      ro: ["Suprafață: 200 km²", "Începere construcție: 2021", "Prima fază: 2025", "Locuri de muncă: 70.000", "Investiție: 100 miliarde $", "Energie: 100% regenerabilă"],
+      en: ["Area: 200 km² (77 sq mi)", "Construction start: 2021", "First phase completion: 2025", "Projected jobs: 70,000", "Investment: $100 billion", "Energy source: 100% renewable"],
+    },
   },
   {
     id: "ras-al-khair-industrial-city-economic-v2",
     type: "industry",
     parent: "SA-04",
     coords: [49.2000, 27.5500],
-    name: { de: "Industriestadt Ras al-Khair", hu: "Rasz al-Khair Ipari Város", ro: "Orașul Industrial Ras Al Khair", en: "Ras Al Khair Industrial City",
-image: "/poi-images/ras-al-khair-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industriestadt Ras al-Khair", hu: "Rasz al-Khair Ipari Város", ro: "Orașul Industrial Ras Al Khair", en: "Ras Al Khair Industrial City"},
+    image: "/poi-images/ras-al-khair-industrial-city-economic-v2.webp",
     description: { de: "Ras al-Khair ist eine neue Industriestadt an der Ostküste, die sich auf den Abbau und die Verarbeitung von Mineralien spezialisiert hat.", hu: "Rasz al-Khair egy új ipari város a keleti parton, amely az ásványkincsek bányászatára és feldolgozására specializálódott.", ro: "Ras Al Khair este un nou oraș industrial pe coasta de est, specializat în extracția și prelucrarea mineralelor.", en: "Ras Al Khair is a new industrial city on the east coast, specializing in the mining and processing of minerals." },
     facts: {
       de: ["Zentrum für den Bergbau.", "Hat ein großes Aluminiumwerk."],
       hu: ["A bányászat központja.", "Hatalmas alumíniumgyárral rendelkezik."],
       ro: ["Centru pentru industria minieră.", "Are o mare fabrică de aluminiu."],
       en: ["Center for the mining industry.", "Features a large aluminum plant."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Industrie-Stadt Ras Al Khair liegt an der Ostküste Saudi-Arabiens, etwa 100 Kilometer nördlich von Jubail, am Persischen Golf. Sie wurde 2013 gegründet und ist ein Zentrum für die Aluminium- und Phosphatverarbeitung. Die Stadt beherbergt eine Aluminiumhütte mit einer Kapazität von 740.000 Tonnen pro Jahr und eine Düngemittelfabrik für Phosphat. Die Bevölkerung beträgt rund 50.000 Einwohner. Der Hafen von Ras Al Khair ist ein wichtiger Exporthafen für diese Produkte. Die Stadt wird von der Royal Commission for Jubail and Yanbu verwaltet. Ras Al Khair ist ein Beispiel für die erfolgreiche Diversifizierung der saudischen Industrie.",
+      hu: "Ras Al Khair ipari város Szaúd-Arábia keleti partján, Jubailtól északra, a Perzsa-öbölben található. 2013-ban alapították, és az alumínium- és foszfátfeldolgozás központja. A városban működik egy 740.000 tonna éves kapacitású alumíniumkohó és egy foszfátműtrágyagyár. A lakosság 50.000 fő. A kikötő exportálja az alumíniumot és a műtrágyát. A várost a Jubail és Yanbu Királyi Bizottság irányítja. Ras Al Khair sikeresen hozzájárul a szaúdi gazdaság olajtól való függőségének csökkentéséhez.",
+      ro: "Orașul industrial Ras Al Khair este situat pe coasta de est a Arabiei Saudite, la 100 km nord de Jubail, pe Golful Persic. Fondat în 2013, este un centru major pentru prelucrarea aluminiului și fosfatului. Include o topitorie de aluminiu cu o capacitate de 740.000 de tone pe an și o fabrică de îngrășăminte fosfatice. Populația este de aproximativ 50.000 de locuitori. Portul Ras Al Khair este esențial pentru exportul acestor produse. Orașul este administrat de Comisia Regală pentru Jubail și Yanbu și reprezintă un model de diversificare industrială.",
+      en: "Ras Al Khair Industrial City is located on the eastern coast of Saudi Arabia, about 100 km north of Jubail on the Persian Gulf. Established in 2013, it focuses on aluminum and phosphate processing. The city houses an aluminum smelter with an annual capacity of 740,000 tons and a phosphate fertilizer plant. The population is around 50,000 residents. The port of Ras Al Khair handles exports of these commodities. The city is administered by the Royal Commission for Jubail and Yanbu. It exemplifies Saudi Arabia's industrial diversification efforts.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2013", "Aluminiumkapazität: 740.000 Tonnen pro Jahr", "Einwohnerzahl: 50.000", "Phosphatdüngerproduktion: 3 Millionen Tonnen jährlich", "Hafen: Exporthafen", "Verwaltung: Royal Commission for Jubail and Yanbu"],
+      hu: ["Alapítás: 2013", "Alumínium kapacitás: 740.000 tonna/év", "Lakosság: 50.000 fő", "Foszfát műtrágyatermelés: 3 millió tonna/év", "Kikötő: exportkikötő", "Irányítás: Jubail és Yanbu Királyi Bizottság"],
+      ro: ["Fondare: 2013", "Capacitate aluminiu: 740.000 tone/an", "Populație: 50.000", "Producție îngrășăminte fosfatice: 3 milioane tone/an", "Port: port de export", "Administrare: Comisia Regală pentru Jubail și Yanbu"],
+      en: ["Established: 2013", "Aluminum capacity: 740,000 tons per year", "Population: 50,000", "Phosphate fertilizer production: 3 million tons per year", "Port: dedicated export facility", "Administered by: Royal Commission for Jubail and Yanbu"],
+    },
   },
   {
     id: "jazan-economic-city-economic-v2",
     type: "industry",
     parent: "SA-09",
     coords: [42.3333, 17.0667],
-    name: { de: "Wirtschaftsstadt Dschasan", hu: "Dzsízán Gazdasági Város", ro: "Orașul Economic Jazan", en: "Jazan Economic City",
-image: "/poi-images/jazan-economic-city-economic-v2.webp"
-},
+    name: { de: "Wirtschaftsstadt Dschasan", hu: "Dzsízán Gazdasági Város", ro: "Orașul Economic Jazan", en: "Jazan Economic City"},
+    image: "/poi-images/jazan-economic-city-economic-v2.webp",
     description: { de: "Die Wirtschaftsstadt Dschasan soll die Entwicklung in der südwestlichen Region durch Schwer- und Leichtindustrie vorantreiben.", hu: "A Dzsízán Gazdasági Város célja, hogy nehéz- és könnyűipari beruházásokkal fellendítse a délnyugati régió fejlődését.", ro: "Orașul Economic Jazan este menit să stimuleze dezvoltarea în regiunea de sud-vest prin industrii grele și ușoare.", en: "Jazan Economic City aims to drive development in the southwestern region through heavy and light industries." },
     facts: {
       de: ["Soll nicht-ölbasierte Industrien fördern.", "Liegt nahe der jemenitischen Grenze."],
       hu: ["A nem olajalapú ipart hivatott fellendíteni.", "A jemeni határ közelében fekszik."],
       ro: ["Menit să promoveze industriile non-petroliere.", "Situat aproape de granița cu Yemen."],
       en: ["Aims to boost non-oil industries.", "Located near the Yemeni border."]
-    }, image: "/poi-images/jazan-economic-city-economic-v2.webp"},
+    }, image: "/poi-images/jazan-economic-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Jazan Economic City (JEC) ist ein geplantes großes Industrie- und Wohnprojekt im Südwesten Saudi-Arabiens, nahe der Grenze zum Jemen. Sie wurde 2009 gegründet und soll eine Fläche von 100 Quadratkilometern umfassen. JEC konzentriert sich auf die Schwerindustrie, darunter eine Raffinerie mit einer Kapazität von 400.000 Barrel pro Tag, eine Aluminiumhütte und ein Stahlwerk. Die Stadt soll 500.000 Einwohner beherbergen. Der Hafen von Jazan ist ein Tiefwasserhafen, der den Export von Produkten ermöglicht. JEC ist ein wichtiger Teil der Vision 2030, um die wirtschaftliche Entwicklung in der südlichen Region zu fördern.",
+      hu: "A Jazan Gazdasági Város (JEC) Szaúd-Arábia délnyugati részén, a jemeni határ közelében található. 2009-ben alapították, területe 100 km² lesz. A város nehéziparra épül: egy 400.000 hordó/nap kapacitású finomító, alumíniumkohó és acélgyár. Lakossága 500.000 fő lehet. A jázáni kikötő mélytengeri kikötő, amely támogatja az exportot. A JEC a Vision 2030 része, amely a dél-szaúdi régiók fejlesztését célozza.",
+      ro: "Orașul Economic Jazan (JEC) este un proiect major de dezvoltare industrială și rezidențială în sud-vestul Arabiei Saudite, aproape de granița cu Yemenul. Fondat în 2009, se întinde pe 100 km². JEC se concentrează pe industria grea: o rafinărie cu capacitate de 400.000 barili/zi, o topitorie de aluminiu și o oțelărie. Populația estimată este de 500.000 de locuitori. Portul Jazan este un port de mare adâncime pentru export. JEC este o componentă cheie a Vision 2030 pentru dezvoltarea regională.",
+      en: "Jazan Economic City (JEC) is a major industrial and residential development in southwestern Saudi Arabia, near the Yemen border. Founded in 2009, it spans 100 km². JEC focuses on heavy industry, including a refinery with a capacity of 400,000 barrels per day, an aluminum smelter, and a steel plant. The city is planned to house 500,000 residents. It features a deep-water port, the Port of Jazan, which supports exports. JEC is a key project under Vision 2030 to spur economic growth in the southern region.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2009", "Fläche: 100 km²", "Raffineriekapazität: 400.000 Barrel pro Tag", "Geplante Einwohnerzahl: 500.000", "Hafen: Tiefwasserhafen", "Industrie: Aluminiumhütte, Stahlwerk"],
+      hu: ["Alapítás: 2009", "Terület: 100 km²", "Finomító kapacitás: 400.000 hordó/nap", "Tervezett lakosság: 500.000", "Kikötő: mélytengeri", "Iparágak: alumíniumkohó, acélgyártás"],
+      ro: ["Fondare: 2009", "Suprafață: 100 km²", "Capacitate rafinărie: 400.000 barili/zi", "Populație estimată: 500.000", "Port: de mare adâncime", "Industrii: topitorie aluminiu, oțelărie"],
+      en: ["Established: 2009", "Area: 100 km² (38.6 sq mi)", "Refinery capacity: 400,000 barrels per day", "Planned population: 500,000", "Port: deep-water (Port of Jazan)", "Key industries: aluminum smelting, steel"],
+    },
+  },
   {
     id: "waad-al-shamal-economic-v2",
     type: "mine",
     parent: "SA-08",
     coords: [38.5667, 31.5500],
-    name: { de: "Wa'ad al-Shamal", hu: "Wa'ad Al Shamal", ro: "Wa'ad Al Shamal", en: "Wa'ad Al Shamal",
-image: "/poi-images/waad-al-shamal-economic-v2.webp"
-},
+    name: { de: "Wa'ad al-Shamal", hu: "Wa'ad Al Shamal", ro: "Wa'ad Al Shamal", en: "Wa'ad Al Shamal"},
+    image: "/poi-images/waad-al-shamal-economic-v2.webp",
     description: { de: "Wa'ad al-Shamal ist ein riesiges Industrieprojekt im Norden des Landes, das sich auf den Abbau und die Produktion von Phosphat konzentriert.", hu: "A Wa'ad Al Shamal egy hatalmas ipari projekt az ország északi részén, amely a foszfát bányászatára és feldolgozására fókuszál.", ro: "Wa'ad Al Shamal este un proiect industrial masiv în nordul țării, concentrat pe extracția și producția de fosfați.", en: "Wa'ad Al Shamal is a massive industrial project in the north of the country focused on phosphate mining and production." },
     facts: {
       de: ["Zentrum für Phosphatabbau.", "Stärkt die Wirtschaft im Norden."],
       hu: ["A foszfátbányászat központja.", "Erősíti az északi régió gazdaságát."],
       ro: ["Centru pentru extracția fosfaților.", "Întărește economia din nord."],
       en: ["A hub for phosphate mining.", "Strengthens the northern economy."]
-    }, image: "/poi-images/waad-al-shamal-economic-v2.webp"},
+    }, image: "/poi-images/waad-al-shamal-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wirtschaftsstadt Waad al Shamal (früher bekannt als Al Jalamid) liegt im Norden Saudi-Arabiens, nahe der Grenze zu Irak und Jordanien. Sie wurde 2013 gegründet und ist ein Zentrum für den Bergbau, insbesondere für Phosphat. Die Stadt beherbergt die größte Phosphatmine des Landes mit einer Jahresproduktion von 11 Millionen Tonnen Phosphatgestein. Die Anlage umfasst eine Aufbereitungsanlage und eine Pipeline zum Hafen von Ras Al Khair. Die Stadt hat eine Bevölkerung von etwa 20.000 Einwohnern. Waad al Shamal ist ein wichtiges Projekt zur Förderung der Bergbauindustrie und zur Schaffung von Arbeitsplätzen in der nördlichen Region.",
+      hu: "Waad al Shamal (korábban Al Jalamid) gazdasági város Szaúd-Arábia északi részén, az iraki és jordán határ közelében. 2013-ban alapították, és a bányászatra, különösen a foszfát kitermelésére összpontosít. Itt található az ország legnagyobb foszfátbányája, amely évente 11 millió tonna foszfátkőzetet termel. A létesítmény része egy feldolgozó üzem és egy csővezeték a Ras Al Khair kikötőhöz. A város lakossága 20.000 fő. Waad al Shamal fontos szerepet játszik a szaúdi bányászat fejlesztésében és a munkahelyteremtésben Észak-Szaúd-Arábiában.",
+      ro: "Orașul economic Waad al Shamal (fost Al Jalamid) este situat în nordul Arabiei Saudite, aproape de granița cu Irak și Iordania. Fondat în 2013, este centru de exploatare minieră, în special fosfat. Mina de fosfat produce 11 milioane de tone de rocă fosfatică pe an. Instalația include o fabrică de procesare și o conductă către portul Ras Al Khair. Populația este de aproximativ 20.000 de locuitori. Waad al Shamal este un proiect cheie pentru industria minieră și crearea de locuri de muncă în regiunea de nord.",
+      en: "Waad al Shamal Economic City (formerly Al Jalamid) is located in northern Saudi Arabia, near the borders with Iraq and Jordan. Established in 2013, it focuses on mining, particularly phosphate. The city hosts the largest phosphate mine in the country, producing 11 million tons of phosphate rock annually. The facility includes a beneficiation plant and a slurry pipeline to Ras Al Khair port. The city has a population of around 20,000. Waad al Shamal is a key project to develop the mining sector and create jobs in the northern region.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2013", "Jährliche Phosphatproduktion: 11 Millionen Tonnen", "Einwohnerzahl: 20.000", "Pipeline: Ja, nach Ras Al Khair", "Lage: nahe irakischer Grenze", "Bergbau: Phosphat"],
+      hu: ["Alapítás: 2013", "Éves foszfáttermelés: 11 millió tonna", "Lakosság: 20.000 fő", "Csővezeték: van, Ras Al Khair felé", "Elhelyezkedés: iraki határ közelében", "Bányászat: foszfát"],
+      ro: ["Fondare: 2013", "Producție anuală fosfat: 11 milioane tone", "Populație: 20.000", "Conductă: da, către Ras Al Khair", "Locație: aproape de granița cu Irak", "Minerit: fosfat"],
+      en: ["Established: 2013", "Annual phosphate rock production: 11 million tons", "Population: 20,000", "Pipeline connection: to Ras Al Khair port", "Location: near Iraqi border", "Primary resource: phosphate"],
+    },
+  },
   {
     id: "shoaiba-power-plant-economic-v2",
     type: "energy",
     parent: "SA-02",
     coords: [39.0500, 20.6667],
-    name: { de: "Kraftwerk Shoaiba", hu: "Shoaiba Erőmű", ro: "Centrala Electrică Shoaiba", en: "Shoaiba Power Plant",
-image: "/poi-images/shoaiba-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Shoaiba", hu: "Shoaiba Erőmű", ro: "Centrala Electrică Shoaiba", en: "Shoaiba Power Plant"},
+    image: "/poi-images/shoaiba-power-plant-economic-v2.webp",
     description: { de: "Das Kraftwerk Shoaiba ist ein riesiger Komplex, der sowohl große Mengen Strom erzeugt als auch eine der weltweit größten Meerwasserentsalzungsanlagen betreibt.", hu: "A Shoaiba Erőmű egy hatalmas komplexum, amely amellett, hogy jelentős mennyiségű áramot termel, a világ egyik legnagyobb vízsótalanító üzemét is magában foglalja.", ro: "Centrala Electrică Shoaiba este un complex masiv care generează cantități mari de energie și operează una dintre cele mai mari stații de desalinizare din lume.", en: "The Shoaiba Power Plant is a massive complex that generates large amounts of electricity while operating one of the world's largest desalination plants." },
     facts: {
       de: ["Eines der größten Kraftwerke der Welt.", "Kombiniert Strom und Entsalzung."],
       hu: ["A világ egyik legnagyobb erőműve.", "Áramtermelés és vízsótalanítás egyben."],
       ro: ["Una dintre cele mai mari centrale electrice din lume.", "Combină energia electrică și desalinizarea."],
       en: ["One of the largest power plants globally.", "Combines power generation and desalination."]
-    }, image: "/poi-images/shoaiba-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/shoaiba-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Shoaiba-Kraftwerk ist ein großes ölbefeuertes Kraftwerk an der Westküste Saudi-Arabiens, etwa 120 Kilometer südlich von Jeddah. Es wurde 2002 in Betrieb genommen und hat eine installierte Leistung von 5.600 Megawatt (MW). Das Kraftwerk besteht aus mehreren Blöcken und verwendet eine Kombination von Dampf- und Gasturbinen. Es liefert Strom für die Region Mekka und Jeddah. Shoaiba ist eines der größten Kraftwerke in Saudi-Arabien. Es verbraucht täglich etwa 1 Million Barrel Schweröl. Die Anlage wird von der Saudi Electricity Company betrieben. In den letzten Jahren wurden Maßnahmen zur Emissionsreduzierung ergriffen.",
+      hu: "A Shoaiba erőmű Szaúd-Arábia nyugati partján, Dzsiddától 120 km-re délre található. 2002-ben helyezték üzembe, beépített teljesítménye 5.600 MW. Az erőmű olajtüzelésű, és gőz- és gázturbinák kombinációját használja. Mekka és Dzsidda régióját látja el árammal. A Shoaiba az egyik legnagyobb erőmű Szaúd-Arábiában, naponta mintegy 1 millió hordó nehézolajat fogyaszt. Az üzemeltető a Saudi Electricity Company. A környezetvédelmi fejlesztések csökkentették a károsanyag-kibocsátást.",
+      ro: "Centrala electrică Shoaiba este o mare centrală termică pe petrol situată pe coasta de vest a Arabiei Saudite, la 120 km sud de Jeddah. A fost pusă în funcțiune în 2002 și are o capacitate instalată de 5.600 MW. Centrala folosește turbine cu abur și gaz, alimentate cu păcură grea. Furnizează electricitate pentru regiunile Mecca și Jeddah. Shoaiba este una dintre cele mai mari centrale din Arabia Saudită, consumând zilnic aproximativ 1 milion de barili de petrol. Este operată de Saudi Electricity Company.",
+      en: "Shoaiba Power Plant is a large oil-fired power station on the west coast of Saudi Arabia, 120 km south of Jeddah. Commissioned in 2002, it has an installed capacity of 5,600 megawatts (MW). The plant uses steam and gas turbines in a combined cycle configuration. It supplies electricity to the Mecca and Jeddah regions. Shoaiba is one of the largest power plants in Saudi Arabia, consuming about 1 million barrels of heavy fuel oil per day. It is operated by the Saudi Electricity Company. Emissions control technologies have been implemented to reduce environmental impact.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2002", "Installierte Leistung: 5.600 MW", "Täglicher Ölverbrauch: 1 Million Barrel", "Entfernung zu Jeddah: 120 km", "Betreiber: Saudi Electricity Company", "Brennmaterial: Schweröl"],
+      hu: ["Üzembe helyezés: 2002", "Beépített teljesítmény: 5.600 MW", "Napi olajfogyasztás: 1 millió hordó", "Távolság Dzsiddáától: 120 km", "Üzemeltető: Saudi Electricity Company", "Tüzelőanyag: nehézolaj"],
+      ro: ["Punere în funcțiune: 2002", "Capacitate instalată: 5.600 MW", "Consum zilnic de petrol: 1 milion barili", "Distanță față de Jeddah: 120 km", "Operator: Saudi Electricity Company", "Combustibil: păcură grea"],
+      en: ["Commissioned: 2002", "Installed capacity: 5,600 MW", "Daily oil consumption: 1 million barrels", "Distance from Jeddah: 120 km (75 mi)", "Operator: Saudi Electricity Company", "Fuel type: heavy fuel oil"],
+    },
+  },
   {
     id: "petro-rabigh-economic-v2",
     type: "industry",
     parent: "SA-02",
     coords: [39.0000, 22.7500],
-    name: { de: "Petro Rabigh", hu: "Petro Rabigh", ro: "Petro Rabigh", en: "Petro Rabigh",
-image: "/poi-images/petro-rabigh-economic-v2.webp"
-},
+    name: { de: "Petro Rabigh", hu: "Petro Rabigh", ro: "Petro Rabigh", en: "Petro Rabigh"},
+    image: "/poi-images/petro-rabigh-economic-v2.webp",
     description: { de: "Petro Rabigh ist eine der größten integrierten Raffinerie- und Petrochemieanlagen der Welt und befindet sich an der Westküste Saudi-Arabiens.", hu: "A Petro Rabigh a világ egyik legnagyobb integrált finomító és petrolkémiai üzeme, amely Szaúd-Arábia nyugati partján található.", ro: "Petro Rabigh este una dintre cele mai mari facilități integrate de rafinare și petrochimie din lume, situată pe coasta de vest a Arabiei Saudite.", en: "Petro Rabigh is one of the world's largest integrated refinery and petrochemical facilities, located on the west coast of Saudi Arabia." },
     facts: {
       de: ["Großer Raffinerie- und Petrochemiekomplex.", "Joint Venture mit Sumitomo Chemical."],
       hu: ["Hatalmas finomító és petrolkémiai komplexum.", "Közös vállalat a Sumitomo Chemical-lal."],
       ro: ["Mare complex de rafinare și petrochimie.", "Proiect comun cu Sumitomo Chemical."],
       en: ["Major refinery and petrochemical complex.", "Joint venture with Sumitomo Chemical."]
-    }, image: "/poi-images/petro-rabigh-economic-v2.webp"},
+    }, image: "/poi-images/petro-rabigh-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Petro Rabigh ist ein petrochemisches Gemeinschaftsunternehmen zwischen Saudi Aramco und Sumitomo Chemical, gelegen in Rabigh an der Westküste Saudi-Arabiens. Die Raffinerie wurde 2009 in Betrieb genommen und hat eine Kapazität von 400.000 Barrel pro Tag. Die Anlage produziert eine breite Palette von Petrochemikalien, darunter Ethylen, Propylen und Benzol. Petro Rabigh ist eine der integriertesten Raffinerie-Petrochemie-Anlagen der Welt. Die Investitionskosten beliefen sich auf rund 10 Milliarden Dollar. Das Werk beschäftigt über 5.000 Mitarbeiter. Petro Rabigh trägt wesentlich zur saudi-arabischen Kunststoff- und Chemieproduktion bei.",
+      hu: "A Petro Rabigh közös vállalat a Saudi Aramco és a Sumitomo Chemical között, Rabigh városában, Szaúd-Arábia nyugati partján. A finomító 2009-ben indult, napi kapacitása 400.000 hordó. Az üzem petrolkémiai termékek széles skáláját állítja elő, beleértve az etilént, propilént és benzolt. A Petro Rabigh a világ egyik legjobban integrált finomító-petrolkémiai komplexuma. A beruházás 10 milliárd dollár volt. Több mint 5.000 embert foglalkoztat. A Petro Rabigh jelentős szerepet játszik a szaúdi műanyag- és vegyiparban.",
+      ro: "Petro Rabigh este o companie mixtă între Saudi Aramco și Sumitomo Chemical, situată în Rabigh, pe coasta de vest a Arabiei Saudite. Rafinăria a fost inaugurată în 2009 și are o capacitate de 400.000 de barili pe zi. Instalația produce o gamă largă de petrochimice, inclusiv etilenă, propilenă și benzen. Petro Rabigh este una dintre cele mai integrate rafinării-petrochimice din lume. Investiția totală a fost de aproximativ 10 miliarde de dolari. Fabrica angajează peste 5.000 de persoane. Contribuie semnificativ la producția de materiale plastice și substanțe chimice din Arabia Saudită.",
+      en: "Petro Rabigh is a joint venture between Saudi Aramco and Sumitomo Chemical, located in Rabigh on the west coast of Saudi Arabia. The refinery started operations in 2009 with a capacity of 400,000 barrels per day. The facility produces a wide range of petrochemicals, including ethylene, propylene, and benzene. Petro Rabigh is one of the world's most integrated refinery-petrochemical complexes. The total investment was approximately $10 billion. It employs over 5,000 people. The plant significantly contributes to Saudi Arabia's plastics and chemicals production.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2009", "Kapazität: 400.000 Barrel pro Tag", "Investition: 10 Milliarden Dollar", "Mitarbeiter: 5.000", "Produkte: Ethylen, Propylen, Benzol", "Partner: Saudi Aramco und Sumitomo Chemical"],
+      hu: ["Üzembe helyezés: 2009", "Napi kapacitás: 400.000 hordó", "Beruházás: 10 milliárd dollár", "Alkalmazottak: 5.000", "Termékek: etilén, propilén, benzol", "Partnerek: Saudi Aramco, Sumitomo Chemical"],
+      ro: ["Punere în funcțiune: 2009", "Capacitate: 400.000 barili/zi", "Investiție: 10 miliarde $", "Angajați: 5.000", "Produse: etilenă, propilenă, benzen", "Parteneri: Saudi Aramco, Sumitomo Chemical"],
+      en: ["Start of operations: 2009", "Capacity: 400,000 barrels per day", "Total investment: $10 billion", "Employees: 5,000+", "Key products: ethylene, propylene, benzene", "Joint venture: Saudi Aramco and Sumitomo Chemical"],
+    },
+  },
   {
     id: "shaybah-oil-field-economic-v2",
     type: "energy",
     parent: "SA-04",
     coords: [53.9500, 22.5333],
-    name: { de: "Shaybah-Ölfeld", hu: "Sajba olajmező", ro: "Câmpul petrolier Shaybah", en: "Shaybah Oil Field",
-image: "/poi-images/shaybah-oil-field-economic-v2.webp"
-},
+    name: { de: "Shaybah-Ölfeld", hu: "Sajba olajmező", ro: "Câmpul petrolier Shaybah", en: "Shaybah Oil Field"},
+    image: "/poi-images/shaybah-oil-field-economic-v2.webp",
     description: { de: "Das Shaybah-Ölfeld liegt abgelegen in der Wüste Rub al-Chali und ist ein Meisterwerk der Technik, um in dieser rauen Umgebung Öl zu fördern.", hu: "A Rub al-Háli sivatagban elszigetelten fekvő Sajba olajmező a mérnöki tudományok mesterműve, amely ebben a zord környezetben teszi lehetővé az olajkitermelést.", ro: "Câmpul petrolier Shaybah, situat izolat în deșertul Rub al-Khali, este o capodoperă a ingineriei pentru extracția petrolului în acest mediu dur.", en: "Located remotely in the Rub al-Khali desert, the Shaybah Oil Field is an engineering masterpiece for extracting oil in such a harsh environment." },
     facts: {
       de: ["Liegt tief in der Rub al-Chali Wüste.", "Produziert hochwertiges Rohöl."],
       hu: ["Mélyen a Rub al-Háli sivatagban található.", "Kiváló minőségű kőolajat termel."],
       ro: ["Situat adânc în deșertul Rub al-Khali.", "Produce țiței de înaltă calitate."],
       en: ["Located deep in the Rub al-Khali desert.", "Produces high-quality crude oil."]
-    }, image: "/poi-images/shaybah-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/shaybah-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Shaybah-Ölfeld wurde 1968 entdeckt, aber erst 1998 in Betrieb genommen, da es in einer abgelegenen Region der Rub al-Chali liegt. Die Erschließung erforderte den Bau einer 645 km langen Pipeline und die Errichtung einer vollständigen Infrastruktur in der Wüste. Das Feld erstreckt sich über 13.000 km² und umfasst über 650 Bohrungen. Aufgrund der extremen Bedingungen werden fortschrittliche Technologien zur Öl- und Gasförderung eingesetzt. Die Produktion begann mit einer Kapazität von 500.000 Barrel pro Tag und wurde später auf 750.000 Barrel gesteigert. Das Shaybah-Ölfeld ist ein Paradebeispiel für die technischen Fähigkeiten Saudi-Arabiens in der Ölindustrie.",
+      hu: "A Shaybah olajmező jelentős gazdasági szerepet tölt be Szaúd-Arábiában, napi 750 000 hordó kitermelésével hozzájárul az ország GDP-jéhez. A mező 14,3 milliárd hordó kitermelhető készlettel rendelkezik, és a szaúdi olajtermelés mintegy 10%-át adja. A beruházás költsége 2,5 milliárd USD volt, ami magában foglalta a feldolgozó üzemeket és a lakóhelyeket is. A mező gazdasági hatása túlmutat a közvetlen bevételeken, mivel munkahelyeket teremt és hozzájárul a technológiai fejlődéshez. A Shaybah kitermelése lehetővé teszi Szaúd-Arábia számára, hogy fenntartsa vezető szerepét a globális olajpiacon.",
+      ro: "Câmpul petrolier Shaybah se află în deșertul Rub al-Chali și a fost dezvoltat cu grijă pentru a minimiza impactul asupra mediului. Se utilizează tehnologii de injecție a apei pentru menținerea presiunii, iar apa folosită provine din desalinizare. Deșeul de producție este tratat și reinjectat. Emisiile de CO2 sunt captate și stocate, ajungând la 40 de milioane de tone anual. Temperaturile extreme și furtunile de nisip impun măsuri speciale de protecție a echipamentelor. Shaybah este un model de gestionare durabilă a resurselor într-un mediu ostil.",
+      en: "The Shaybah oil field is located in the Rub' al Khali desert and produces light, sweet crude oil with an API gravity of 40°. The reservoir lies at a depth of approximately 2,000 meters and has an average porosity of 18% and permeability of 100 millidarcies. The oil is low in sulfur, making it highly desirable on international markets. The field's gas-oil ratio is moderate, and associated gas is utilized for power generation and petrochemicals. The geological formation consists of carbonate rocks of the Arab Formation, deposited in a shallow marine environment during the Jurassic period.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt im Jahr 1968", "Erste Förderung begann 1998", "Fläche: 13.000 km²", "Über 650 Bohrungen", "Pipeline-Länge: 645 km", "Tiefe des Reservoirs: ca. 2.000 m"],
+      hu: ["Napi termelés: 750 000 hordó", "Kitermelhető készlet: 14,3 milliárd hordó", "Beruházási költség: 2,5 milliárd USD", "Napi vízbefecskendezés: 1 millió hordó", "Munkavállalók száma: 5 000", "CO2 leválasztás: évi 40 millió tonna"],
+      ro: ["Coordonate: 21°N, 52°E", "Temperaturi extreme: până la 55°C", "Înălțimea dunelor de nisip: până la 200 m", "Suprafața seismică: 13.000 km²", "Adâncimea forajelor: 2.000 m", "Conținut de sulf: 0,5%"],
+      en: ["API gravity: 40°", "Presiunea rezervorului: 3.500 psi", "Porozitate: 18%", "Permeabilitate: 100 mD", "Viscozitatea țițeiului: 0,5 cP", "Raport gaz-țiței: 500 scf/bbl"],
+    },
+  },
   {
     id: "jafurah-gas-field-economic-v2",
     type: "energy",
     parent: "SA-04",
     coords: [49.7000, 25.1000],
-    name: { de: "Jafurah-Gasfeld", hu: "Dzsafúra gázmező", ro: "Câmpul de gaze Jafurah", en: "Jafurah Gas Field",
-image: "/poi-images/jafurah-gas-field-economic-v2.webp"
-},
+    name: { de: "Jafurah-Gasfeld", hu: "Dzsafúra gázmező", ro: "Câmpul de gaze Jafurah", en: "Jafurah Gas Field"},
+    image: "/poi-images/jafurah-gas-field-economic-v2.webp",
     description: { de: "Das Jafurah-Gasfeld ist das größte unkonventionelle Erdgasfeld in Saudi-Arabien und spielt eine Schlüsselrolle in den Energieplänen des Landes.", hu: "A Dzsafúra gázmező Szaúd-Arábia legnagyobb nem hagyományos földgázmezője, amely kulcsszerepet játszik az ország energiaterveiben.", ro: "Câmpul de gaze Jafurah este cel mai mare câmp de gaze naturale neconvenționale din Arabia Saudită, jucând un rol cheie în planurile energetice ale țării.", en: "The Jafurah Gas Field is the largest unconventional natural gas field in Saudi Arabia, playing a key role in the country's energy plans." },
     facts: {
       de: ["Größtes unkonventionelles Gasfeld im Land.", "Wichtig für die Energiewende."],
       hu: ["Az ország legnagyobb nem hagyományos gázmezője.", "Fontos az energetikai átálláshoz."],
       ro: ["Cel mai mare câmp de gaze neconvențional din țară.", "Important pentru tranziția energetică."],
       en: ["Largest unconventional gas field in the country.", "Crucial for the energy transition."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Jafurah-Gasfeld ist das größte nichtkonventionelle Gasfeld Saudi-Arabiens, gelegen in der östlichen Provinz. Es erstreckt sich über 17.000 km² und enthält schätzungsweise 230 Billionen Kubikfuß Gas. Die Erschließung begann 2021 mit dem Ziel, die inländische Gasversorgung zu diversifizieren und die Abhängigkeit von Öl zu verringern. Das Feld nutzt hydraulische Fracking-Technologie, um Gas aus dichten Sandsteinen zu fördern. Die Investitionen belaufen sich auf über 100 Milliarden US-Dollar. Jafurah soll bis 2030 eine Produktion von 2,2 Milliarden Kubikfuß pro Tag erreichen.",
+      hu: "A Jafurah gázmező stratégiai jelentőségű Szaúd-Arábia energiafüggetlenségi terveiben. A mező a világ egyik legnagyobb nem konvencionális gázkészlete, 230 billió köbláb gazdag tartalékkal. A kitermelés hozzájárul a gazdaság diverzifikációjához, mivel csökkenti a kőolaj exporttól való függőséget. A fejlesztés több mint 100 milliárd dolláros beruházást igényel, és számos munkahelyet teremt a helyi iparban. A tervezett napi termelés 2,2 milliárd köbláb, ami várhatóan növeli Szaúd-Arábia részesedését a globális gázpiacon.",
+      ro: "Jafurah este un zăcământ de gaze neconvenționale situat în deșertul Rub al-Chali. Dezvoltarea sa implică fracturarea hidraulică pentru a extrage gazele din rocile de șist. Impactul asupra mediului este gestionat prin reciclarea apei și reducerea emisiilor. Proiectul include construirea unei infrastructuri de conducte și a unor facilități de procesare. Jafurah va furniza gaze pentru centrale electrice și pentru industria petrochimică, contribuind la reducerea emisiilor de carbon prin înlocuirea petrolului.",
+      en: "The Jafurah gas field is a tight gas reservoir located in the Eastern Province of Saudi Arabia. It covers an area of 17,000 km² and contains an estimated 230 trillion cubic feet of wet gas. The reservoir consists of deep, low-permeability sandstones of the Jurassic age. Production requires horizontal drilling and multi-stage hydraulic fracturing. The field is expected to produce significant amounts of natural gas liquids, including ethane, propane, and butane, which will feed the petrochemical industry. Jafurah is a key component of Saudi Vision 2030 to expand the gas sector.",
+    },
+    factsAdvanced: {
+      de: ["Größtes nichtkonventionelles Gasfeld Saudi-Arabiens", "Fläche: 17.000 km²", "Geschätzte Reserven: 230 Billionen Kubikfuß", "Erschließungsbeginn: 2021", "Investitionen: über 100 Milliarden US-Dollar", "Geplante Produktion 2030: 2,2 Mrd. Kubikfuß/Tag"],
+      hu: ["Napi termelési cél: 2,2 milliárd köbláb", "Gazdasági diverzifikációs hozzájárulás", "Munkalehetőségek: több ezer", "LNG export lehetőség", "Petrolkémiai alapanyag előállítás", "Helyi beszállítók fejlesztése"],
+      ro: ["Tehnologie: fracturare hidraulică", "Adâncimea rezervorului: 4.000 m", "Reciclarea apei: 100%", "Conducte noi: peste 1.000 km", "Capacitate de procesare: 1,5 miliarde cf/zi", "Reducere emisii CO2: 20% față de petrol"],
+      en: ["Reservoir depth: 4,000 m", "Porosity: 8%", "Permeability: 0.1 mD", "Gas composition: 10% ethane", "Liquids yield: 30 barrels per million cf", "Number of wells planned: 1,500"],
+    },
   },
   {
     id: "sudair-industrial-city-economic-v2",
     type: "industry",
     parent: "SA-01",
     coords: [45.8667, 25.7500],
-    name: { de: "Industrie- und Geschäftsstadt Sudair", hu: "Szudair Ipari és Üzleti Város", ro: "Orașul Industrial și de Afaceri Sudair", en: "Sudair Industrial and Business City",
-image: "/poi-images/sudair-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industrie- und Geschäftsstadt Sudair", hu: "Szudair Ipari és Üzleti Város", ro: "Orașul Industrial și de Afaceri Sudair", en: "Sudair Industrial and Business City"},
+    image: "/poi-images/sudair-industrial-city-economic-v2.webp",
     description: { de: "Die Industrie- und Geschäftsstadt Sudair ist ein wachsender Hub nördlich von Riad, der die industrielle Diversifizierung Saudi-Arabiens unterstützen soll.", hu: "A Szudair Ipari és Üzleti Város egy növekvő csomópont Rijádtól északra, amelynek célja Szaúd-Arábia ipari diverzifikációjának támogatása.", ro: "Orașul Industrial și de Afaceri Sudair este un hub în creștere la nord de Riyadh, menit să sprijine diversificarea industrială a Arabiei Saudite.", en: "Sudair Industrial and Business City is a growing hub north of Riyadh designed to support Saudi Arabia's industrial diversification." },
     facts: {
       de: ["Großer Industriekomplex nahe Riad.", "Zieht viele internationale Firmen an."],
       hu: ["Nagy ipari komplexum Rijád közelében.", "Sok nemzetközi céget vonz."],
       ro: ["Mare complex industrial lângă Riyadh.", "Atrage multe companii internaționale."],
       en: ["Large industrial complex near Riyadh.", "Attracts many international companies."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Sudair Industrial and Business City ist eine geplante Industriestadt in der Provinz Riad, die Teil des Programms zur wirtschaftlichen Diversifizierung ist. Die Stadt erstreckt sich über 3.500 km² und bietet Platz für industrielle und logistische Einrichtungen. Sie ist auf die Produktion von Kunststoffen, Chemikalien und Baumaterialien ausgerichtet. Die Infrastruktur umfasst einen eigenen Hafen und einen Flughafen. Sudair soll bis zu 200.000 Arbeitsplätze schaffen und das Wirtschaftswachstum in der Region fördern. Die Investitionen belaufen sich auf über 20 Milliarden US-Dollar.",
+      hu: "Sudair Ipari és Üzleti Város Szaúd-Arábia ipari diverzifikációjának egyik alappillére. A város 3.500 km² területen fekszik, és stratégiai elhelyezkedése miatt fontos logisztikai csomópont. Fő ágazatai a petrolkémia, az autóipar és a gyógyszeripar. A város a szaúdi munkaerőpiac bővítését célozza, 200.000 új munkahely létrehozásával. A beruházás része a Vision 2030 tervnek, amely csökkenti az olajfüggőséget. A város fenntartható tervezéssel készül, zöldterületekkel és hatékony közlekedéssel.",
+      ro: "Sudair Industrial City este un proiect ambițios situat în apropiere de Riyadh, conceput pentru a stimula economia non-petrolieră. Orașul include zone industriale, rezidențiale și comerciale, toate proiectate cu standarde ecologice. Se pune accent pe producția de materiale plastice și compozite, utilizând feedstocks locale. Orașul este conectat la rețeaua feroviară națională și are un terminal de containere. Se estimează că va contribui cu 5% la PIB-ul nepetrolier până în 2030.",
+      en: "Sudair Industrial and Business City is a new economic zone in Al-Majma'ah Governorate, covering 3,500 km². It is designed to host heavy and medium industries, including petrochemicals, automotive, and logistics. The city is equipped with a dedicated power plant with a capacity of 2,000 MW and a water desalination plant. Sudair offers investment incentives such as tax exemptions and subsidized land. The project aims to increase non-oil exports and attract foreign direct investment. It is expected to be completed by 2025.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 3.500 km²", "Investitionen: über 20 Milliarden US-Dollar", "Geplante Arbeitsplätze: 200.000", "Branchen: Kunststoffe, Chemie, Baustoffe", "Eigener Hafen und Flughafen", "Teil von Vision 2030"],
+      hu: ["Helyszín: Al-Majma'ah", "Stratégiai elhelyezkedés Rijádhoz közel", "Közlekedési infrastruktúra: vasút", "Ágazatok: autóipar, gyógyszeripar", "Zöld terület aránya: 20%", "Befejezési határidő: 2025"],
+      ro: ["Suprafață: 3.500 km²", "Capacitate centrală electrică: 2.000 MW", "Stație de desalinizare: 500.000 m³/zi", "Număr de fabrici planificate: 200", "Contribuție la PIB: 5%", "Investiție străină directă: 10 miliarde USD"],
+      en: ["Proximity to King Khaled International Airport: 30 km", "Connected via Highway 65", "Number of industrial plots: 1,000", "Land lease period: 50 years", "Tax exemption period: 10 years", "Energy cost: 5 cents per kWh"],
+    },
   }
 ];

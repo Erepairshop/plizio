@@ -11,9 +11,8 @@ export const poiExtraMozambiqueEconomicV2: POI[] = [
       en: "Port of Maputo",
       de: "Hafen von Maputo",
       hu: "Maputo Kikötő",
-      ro: "Portul Maputo",
-image: "/poi-images/mz-port-maputo-economic-v2.webp"
-},
+      ro: "Portul Maputo"},
+    image: "/poi-images/mz-port-maputo-economic-v2.webp",
     description: {
       en: "One of the largest deep-water ports in East Africa, serving as a vital trade hub. It provides a strategic gateway for international cargo from neighboring countries.",
       de: "Einer der größten Tiefwasserhäfen in Ostafrika, der als wichtiger Handelsknotenpunkt dient. Er bietet ein strategisches Tor für internationale Fracht aus den Nachbarländern.",
@@ -60,9 +59,8 @@ image: "/poi-images/mz-port-maputo-economic-v2.webp"
       en: "Port of Beira",
       de: "Hafen von Beira",
       hu: "Beira Kikötő",
-      ro: "Portul Beira",
-image: "/poi-images/mz-port-beira-economic-v2.webp"
-},
+      ro: "Portul Beira"},
+    image: "/poi-images/mz-port-beira-economic-v2.webp",
     description: {
       en: "A crucial seaport in central Mozambique, serving the Beira Corridor. It facilitates the export of goods from landlocked nations like Zimbabwe and Malawi.",
       de: "Ein wichtiger Seehafen in Zentralmosambik, der den Beira-Korridor bedient. Er erleichtert den Export von Waren aus Binnenstaaten wie Simbabwe und Malawi.",
@@ -109,9 +107,8 @@ image: "/poi-images/mz-port-beira-economic-v2.webp"
       en: "Port of Nacala",
       de: "Hafen von Nacala",
       hu: "Nacala Kikötő",
-      ro: "Portul Nacala",
-image: "/poi-images/mz-port-nacala-economic-v2.webp"
-},
+      ro: "Portul Nacala"},
+    image: "/poi-images/mz-port-nacala-economic-v2.webp",
     description: {
       en: "Renowned as one of the deepest natural harbors on the east coast of Africa. It is the terminus of the Nacala railway line, transporting massive quantities of coal.",
       de: "Bekannt als einer der tiefsten Naturhäfen an der Ostküste Afrikas. Er ist der Endpunkt der Nacala-Eisenbahnlinie, die riesige Mengen an Kohle transportiert.",
@@ -158,9 +155,8 @@ image: "/poi-images/mz-port-nacala-economic-v2.webp"
       en: "Port of Pemba",
       de: "Hafen von Pemba",
       hu: "Pemba Kikötő",
-      ro: "Portul Pemba",
-image: "/poi-images/mz-port-pemba-economic-v2.webp"
-},
+      ro: "Portul Pemba"},
+    image: "/poi-images/mz-port-pemba-economic-v2.webp",
     description: {
       en: "A prominent natural harbor in northern Mozambique, essential for the emerging offshore natural gas industry. The port serves as a logistical base for drilling operations.",
       de: "Ein prominenter Naturhafen im Norden Mosambiks, unerlässlich für die aufstrebende Offshore-Erdgasindustrie. Der Hafen dient als logistische Basis für Bohrarbeiten.",
@@ -207,9 +203,8 @@ image: "/poi-images/mz-port-pemba-economic-v2.webp"
       en: "Mozal Aluminium Smelter",
       de: "Mozal Aluminiumhütte",
       hu: "Mozal Alumíniumkohó",
-      ro: "Topitoria de Aluminiu Mozal",
-image: "/poi-images/mz-mozal-smelter-economic-v2.webp"
-},
+      ro: "Topitoria de Aluminiu Mozal"},
+    image: "/poi-images/mz-mozal-smelter-economic-v2.webp",
     description: {
       en: "One of the largest industrial projects in Mozambique, located in Beluluane. It significantly boosts the country's export revenues by producing high-quality aluminium.",
       de: "Eines der größten Industrieprojekte in Mosambik, gelegen in Beluluane. Es steigert die Exporteinnahmen des Landes durch die Produktion von hochwertigem Aluminium erheblich.",
@@ -256,9 +251,8 @@ image: "/poi-images/mz-mozal-smelter-economic-v2.webp"
       en: "Moatize Coal Mine",
       de: "Kohlenmine Moatize",
       hu: "Moatize Szénbánya",
-      ro: "Mina de Cărbune Moatize",
-image: "/poi-images/mz-moatize-mine-economic-v2.webp"
-},
+      ro: "Mina de Cărbune Moatize"},
+    image: "/poi-images/mz-moatize-mine-economic-v2.webp",
     description: {
       en: "A giant open-pit coal mine in Tete Province, holding some of the world's largest untapped coal reserves. It relies heavily on the Nacala railway for export logistics.",
       de: "Eine riesige Kohletagebaumine in der Provinz Tete, die einige der weltweit größten unerschlossenen Kohlevorkommen beherbergt. Sie ist stark auf die Nacala-Eisenbahn für die Exportlogistik angewiesen.",
@@ -305,9 +299,8 @@ image: "/poi-images/mz-moatize-mine-economic-v2.webp"
       en: "Moma Titanium Mine",
       de: "Titanmine Moma",
       hu: "Moma Titánbánya",
-      ro: "Mina de Titan Moma",
-image: "/poi-images/mz-moma-titanium-economic-v2.webp"
-},
+      ro: "Mina de Titan Moma"},
+    image: "/poi-images/mz-moma-titanium-economic-v2.webp",
     description: {
       en: "A globally significant heavy mineral sands mine situated on the coast. It extracts ilmenite, rutile, and zircon, which are essential for pigment production.",
       de: "Eine weltweit bedeutende Mine für Schwermineralsande an der Küste. Sie fördert Ilmenit, Rutil und Zirkon, die für die Pigmentherstellung unerlässlich sind.",
@@ -354,9 +347,8 @@ image: "/poi-images/mz-moma-titanium-economic-v2.webp"
       en: "Temane Gas Plant",
       de: "Gasanlage Temane",
       hu: "Temane Gázüzem",
-      ro: "Uzina de Gaze Temane",
-image: "/poi-images/mz-temane-gas-economic-v2.webp"
-},
+      ro: "Uzina de Gaze Temane"},
+    image: "/poi-images/mz-temane-gas-economic-v2.webp",
     description: {
       en: "A central processing facility for onshore natural gas fields in Inhambane. Processed gas is transported via pipeline to industrial centers in South Africa and Maputo.",
       de: "Eine zentrale Verarbeitungsanlage für Onshore-Erdgasfelder in Inhambane. Das verarbeitete Gas wird über eine Pipeline zu Industriezentren in Südafrika und Maputo transportiert.",
@@ -403,9 +395,8 @@ image: "/poi-images/mz-temane-gas-economic-v2.webp"
       en: "Cahora Bassa Hydropower",
       de: "Wasserkraftwerk Cahora Bassa",
       hu: "Cahora Bassa Vízerőmű",
-      ro: "Hidrocentrala Cahora Bassa",
-image: "/poi-images/mz-cahora-bassa-dam-economic-v2.webp"
-},
+      ro: "Hidrocentrala Cahora Bassa"},
+    image: "/poi-images/mz-cahora-bassa-dam-economic-v2.webp",
     description: {
       en: "One of the largest hydroelectric dams in Africa, harnessing the immense power of the Zambezi River. It is a cornerstone of the regional power grid, exporting electricity widely.",
       de: "Einer der größten Wasserkraft-Staudämme Afrikas, der die immense Kraft des Sambesi-Flusses nutzt. Er ist ein Eckpfeiler des regionalen Stromnetzes und exportiert in großem Umfang Strom.",
@@ -452,9 +443,8 @@ image: "/poi-images/mz-cahora-bassa-dam-economic-v2.webp"
       en: "Coral Sul FLNG",
       de: "Coral Sul FLNG-Anlage",
       hu: "Coral Sul FLNG",
-      ro: "Instalația Coral Sul FLNG",
-image: "/poi-images/mz-coral-sul-flng-economic-v2.webp"
-},
+      ro: "Instalația Coral Sul FLNG"},
+    image: "/poi-images/mz-coral-sul-flng-economic-v2.webp",
     description: {
       en: "A pioneering floating liquefied natural gas facility located in the deep waters of the Rovuma Basin. It extracts and liquefies gas directly at sea without needing onshore infrastructure.",
       de: "Eine bahnbrechende schwimmende Anlage für verflüssigtes Erdgas in den tiefen Gewässern des Rovuma-Beckens. Sie fördert und verflüssigt Gas direkt auf See, ohne auf Onshore-Infrastruktur angewiesen zu sein.",
@@ -501,9 +491,8 @@ image: "/poi-images/mz-coral-sul-flng-economic-v2.webp"
       en: "Afungi LNG Park",
       de: "Afungi LNG-Park",
       hu: "Afungi LNG Park",
-      ro: "Parcul LNG Afungi",
-image: "/poi-images/mz-afungi-lng-park-economic-v2.webp"
-},
+      ro: "Parcul LNG Afungi"},
+    image: "/poi-images/mz-afungi-lng-park-economic-v2.webp",
     description: {
       en: "An enormous industrial complex planned to process natural gas from offshore fields. This onshore facility aims to be one of the largest LNG hubs on the African continent.",
       de: "Ein riesiger Industriekomplex, der zur Verarbeitung von Erdgas aus Offshore-Feldern geplant ist. Diese Onshore-Anlage soll einer der größten LNG-Knotenpunkte auf dem afrikanischen Kontinent werden.",
@@ -550,9 +539,8 @@ image: "/poi-images/mz-afungi-lng-park-economic-v2.webp"
       en: "Chibuto Heavy Sands",
       de: "Schwermineralsande Chibuto",
       hu: "Chibuto Nehézhomok",
-      ro: "Nisipurile Grele Chibuto",
-image: "/poi-images/mz-chibuto-heavy-sands-economic-v2.webp"
-},
+      ro: "Nisipurile Grele Chibuto"},
+    image: "/poi-images/mz-chibuto-heavy-sands-economic-v2.webp",
     description: {
       en: "A massive mining operation in Gaza Province focused on extracting ilmenite and zircon. It plays a significant role in developing the heavy minerals sector in southern Mozambique.",
       de: "Ein massiver Bergbaubetrieb in der Provinz Gaza, der sich auf den Abbau von Ilmenit und Zirkon konzentriert. Er spielt eine bedeutende Rolle bei der Entwicklung des Sektors für Schwermineralien im südlichen Mosambik.",
@@ -599,9 +587,8 @@ image: "/poi-images/mz-chibuto-heavy-sands-economic-v2.webp"
       en: "Nacala Logistics Corridor",
       de: "Nacala Logistikzentrum",
       hu: "Nacala Logisztikai Központ",
-      ro: "Centrul Logistic Nacala",
-image: "/poi-images/mz-nacala-logistics-economic-v2.webp"
-},
+      ro: "Centrul Logistic Nacala"},
+    image: "/poi-images/mz-nacala-logistics-economic-v2.webp",
     description: {
       en: "The critical infrastructure terminal linking the railway network to deep-water ships. It features advanced coal-handling machinery capable of loading giant cargo vessels.",
       de: "Das kritische Infrastruktur-Terminal, das das Eisenbahnnetz mit Tiefwasserschiffen verbindet. Es verfügt über fortschrittliche Kohleumschlaganlagen, die riesige Frachtschiffe beladen können.",
@@ -648,9 +635,8 @@ image: "/poi-images/mz-nacala-logistics-economic-v2.webp"
       en: "Beira Pipeline Terminal",
       de: "Beira Pipeline-Terminal",
       hu: "Beira Csővezeték Terminál",
-      ro: "Terminalul Conductei Beira",
-image: "/poi-images/mz-beira-pipeline-terminal-economic-v2.webp"
-},
+      ro: "Terminalul Conductei Beira"},
+    image: "/poi-images/mz-beira-pipeline-terminal-economic-v2.webp",
     description: {
       en: "An essential fuel storage and pumping station starting at the coast. It pumps refined petroleum products all the way to landlocked Zimbabwe, ensuring regional energy stability.",
       de: "Eine wichtige Kraftstoffspeicher- und Pumpstation, die an der Küste beginnt. Sie pumpt raffinierte Erdölprodukte bis in das Binnenland Simbabwe und sichert so die regionale Energiestabilität.",
@@ -697,9 +683,8 @@ image: "/poi-images/mz-beira-pipeline-terminal-economic-v2.webp"
       en: "Sena Railway Hub",
       de: "Sena Eisenbahnknotenpunkt",
       hu: "Sena Vasúti Csomópont",
-      ro: "Nodul Feroviar Sena",
-image: "/poi-images/mz-sena-railway-yard-economic-v2.webp"
-},
+      ro: "Nodul Feroviar Sena"},
+    image: "/poi-images/mz-sena-railway-yard-economic-v2.webp",
     description: {
       en: "A major railway maintenance and logistics hub in Sofala province. It is instrumental for the historic Sena railway line, heavily used for moving coal and agricultural products.",
       de: "Ein wichtiges Wartungs- und Logistikzentrum der Eisenbahn in der Provinz Sofala. Es ist maßgeblich für die historische Sena-Eisenbahnlinie, die stark für den Transport von Kohle und landwirtschaftlichen Produkten genutzt wird.",
@@ -746,9 +731,8 @@ image: "/poi-images/mz-sena-railway-yard-economic-v2.webp"
       en: "Beluluane Industrial Park",
       de: "Beluluane Industriepark",
       hu: "Beluluane Ipari Park",
-      ro: "Parcul Industrial Beluluane",
-image: "/poi-images/mz-beluluane-park-economic-v2.webp"
-},
+      ro: "Parcul Industrial Beluluane"},
+    image: "/poi-images/mz-beluluane-park-economic-v2.webp",
     description: {
       en: "A sprawling free-trade zone established to attract foreign direct investment. It houses a variety of manufacturing, engineering, and logistics companies close to the capital.",
       de: "Eine weitläufige Freihandelszone, die zur Anziehung ausländischer Direktinvestitionen eingerichtet wurde. Sie beherbergt eine Vielzahl von Produktions-, Ingenieur- und Logistikunternehmen in der Nähe der Hauptstadt.",
@@ -795,9 +779,8 @@ image: "/poi-images/mz-beluluane-park-economic-v2.webp"
       en: "Xinavane Sugar Estate",
       de: "Zuckerfabrik Xinavane",
       hu: "Xinavane Cukorgyár",
-      ro: "Fabrica de Zahăr Xinavane",
-image: "/poi-images/mz-xinavane-sugar-economic-v2.webp"
-},
+      ro: "Fabrica de Zahăr Xinavane"},
+    image: "/poi-images/mz-xinavane-sugar-economic-v2.webp",
     description: {
       en: "One of the most productive agro-industrial complexes in the country. It combines vast sugarcane plantations with a modern mill to produce refined sugar for local and export markets.",
       de: "Einer der produktivsten agroindustriellen Komplexe des Landes. Er kombiniert riesige Zuckerrohrplantagen mit einer modernen Mühle, um raffinierten Zucker für den lokalen und Exportmarkt zu produzieren.",
@@ -844,9 +827,8 @@ image: "/poi-images/mz-xinavane-sugar-economic-v2.webp"
       en: "Maragra Sugar Factory",
       de: "Zuckerfabrik Maragra",
       hu: "Maragra Cukorgyár",
-      ro: "Fabrica de Zahăr Maragra",
-image: "/poi-images/mz-maragra-sugar-economic-v2.webp"
-},
+      ro: "Fabrica de Zahăr Maragra"},
+    image: "/poi-images/mz-maragra-sugar-economic-v2.webp",
     description: {
       en: "A historic sugar production facility surrounded by irrigated cane fields. It contributes strongly to the agricultural output of the Maputo province, despite historical flood challenges.",
       de: "Eine historische Zuckerproduktionsstätte, umgeben von bewässerten Zuckerrohrfeldern. Sie trägt maßgeblich zur landwirtschaftlichen Produktion der Provinz Maputo bei, trotz historischer Herausforderungen durch Überschwemmungen.",
@@ -893,9 +875,8 @@ image: "/poi-images/mz-maragra-sugar-economic-v2.webp"
       en: "Mafambisse Sugar Mill",
       de: "Zuckermühle Mafambisse",
       hu: "Mafambisse Cukorüzem",
-      ro: "Fabrica de Zahăr Mafambisse",
-image: "/poi-images/mz-mafambisse-sugar-economic-v2.webp"
-},
+      ro: "Fabrica de Zahăr Mafambisse"},
+    image: "/poi-images/mz-mafambisse-sugar-economic-v2.webp",
     description: {
       en: "An important agricultural processing center in the central region of Mozambique. It leverages the fertile soils of the Pungwe river basin to sustain large-scale sugar cultivation.",
       de: "Ein wichtiges landwirtschaftliches Verarbeitungszentrum in der Zentralregion Mosambiks. Es nutzt die fruchtbaren Böden des Pungwe-Flussbeckens, um den großflächigen Zuckerrohranbau aufrechtzuerhalten.",
@@ -942,9 +923,8 @@ image: "/poi-images/mz-mafambisse-sugar-economic-v2.webp"
       en: "Nampula Textile Factory",
       de: "Textilfabrik Nampula",
       hu: "Nampula Textilgyár",
-      ro: "Fabrica de Textile Nampula",
-image: "/poi-images/mz-nampula-textile-economic-v2.webp"
-},
+      ro: "Fabrica de Textile Nampula"},
+    image: "/poi-images/mz-nampula-textile-economic-v2.webp",
     description: {
       en: "A revitalized manufacturing plant processing locally grown cotton. It represents a push towards value-added industrialization in the country's northern provinces.",
       de: "Ein wiederbelebtes Produktionswerk, das lokal angebaute Baumwolle verarbeitet. Es steht für den Vorstoß in Richtung wertschöpfender Industrialisierung in den nördlichen Provinzen des Landes.",
@@ -991,9 +971,8 @@ image: "/poi-images/mz-nampula-textile-economic-v2.webp"
       en: "Matola Cement Factory",
       de: "Zementfabrik Matola",
       hu: "Matola Cementgyár",
-      ro: "Fabrica de Ciment Matola",
-image: "/poi-images/mz-cimentos-mocambique-economic-v2.webp"
-},
+      ro: "Fabrica de Ciment Matola"},
+    image: "/poi-images/mz-cimentos-mocambique-economic-v2.webp",
     description: {
       en: "The largest building materials production facility in the nation. It supplies essential cement for infrastructure development, from roads to mega-projects across Mozambique.",
       de: "Die größte Anlage zur Herstellung von Baumaterialien im Land. Sie liefert den für die Infrastrukturentwicklung unerlässlichen Zement, von Straßen bis hin zu Megaprojekten in ganz Mosambik.",
@@ -1040,9 +1019,8 @@ image: "/poi-images/mz-cimentos-mocambique-economic-v2.webp"
       en: "Montepuez Ruby Mine",
       de: "Rubinmine von Montepuez",
       hu: "Montepuez Rubinbánya",
-      ro: "Mina de Rubine Montepuez",
-image: "/poi-images/mz-montepuez-ruby-economic-v2.webp"
-},
+      ro: "Mina de Rubine Montepuez"},
+    image: "/poi-images/mz-montepuez-ruby-economic-v2.webp",
     description: {
       en: "Considered the largest ruby deposit discovered in recent times. This high-security mining concession produces a significant percentage of the world's high-quality red gemstones.",
       de: "Gilt als die größte in jüngster Zeit entdeckte Rubinlagerstätte. Diese Hochsicherheits-Bergbaukonzession produziert einen erheblichen Prozentsatz der weltweiten hochwertigen roten Edelsteine.",
@@ -1089,9 +1067,8 @@ image: "/poi-images/mz-montepuez-ruby-economic-v2.webp"
       en: "Moamba Major Dam Project",
       de: "Staudammprojekt Moamba Major",
       hu: "Moamba Major Gátprojekt",
-      ro: "Proiectul Barajului Moamba Major",
-image: "/poi-images/mz-moamba-major-dam-economic-v2.webp"
-},
+      ro: "Proiectul Barajului Moamba Major"},
+    image: "/poi-images/mz-moamba-major-dam-economic-v2.webp",
     description: {
       en: "A strategic infrastructure project on the Incomati River aimed at securing water supply for the greater Maputo area. It also holds potential for localized hydroelectric power generation.",
       de: "Ein strategisches Infrastrukturprojekt am Incomati-Fluss, das die Wasserversorgung des Großraums Maputo sichern soll. Es birgt auch Potenzial für die lokale Wasserkrafterzeugung.",
@@ -1138,9 +1115,8 @@ image: "/poi-images/mz-moamba-major-dam-economic-v2.webp"
       en: "Ressano Garcia Gas Plant",
       de: "Gaskraftwerk Ressano Garcia",
       hu: "Ressano Garcia Gázerőmű",
-      ro: "Centrala pe Gaz Ressano Garcia",
-image: "/poi-images/mz-ressano-gas-power-economic-v2.webp"
-},
+      ro: "Centrala pe Gaz Ressano Garcia"},
+    image: "/poi-images/mz-ressano-gas-power-economic-v2.webp",
     description: {
       en: "A modern gas-fired power plant utilizing natural gas piped from Inhambane. It is located near the South African border and bolsters the national grid's baseline capacity.",
       de: "Ein modernes Gaskraftwerk, das mit Erdgas aus Inhambane betrieben wird. Es befindet sich in der Nähe der südafrikanischen Grenze und stärkt die Grundlastkapazität des nationalen Stromnetzes.",
@@ -1187,9 +1163,8 @@ image: "/poi-images/mz-ressano-gas-power-economic-v2.webp"
       en: "Gigawatt Power Station",
       de: "Kraftwerk Gigawatt",
       hu: "Gigawatt Erőmű",
-      ro: "Centrala Electrică Gigawatt",
-image: "/poi-images/mz-gigawatt-power-economic-v2.webp"
-},
+      ro: "Centrala Electrică Gigawatt"},
+    image: "/poi-images/mz-gigawatt-power-economic-v2.webp",
     description: {
       en: "Another independent power production facility in the border region. It utilizes an array of powerful gas engines to convert regional gas resources into stable electricity.",
       de: "Eine weitere unabhängige Stromerzeugungsanlage in der Grenzregion. Sie nutzt eine Reihe leistungsstarker Gasmotoren, um regionale Gasressourcen in stabilen Strom umzuwandeln.",
@@ -1236,9 +1211,8 @@ image: "/poi-images/mz-gigawatt-power-economic-v2.webp"
       en: "Mocuba Solar Plant",
       de: "Solarpark Mocuba",
       hu: "Mocuba Napelempark",
-      ro: "Centrala Solară Mocuba",
-image: "/poi-images/mz-mocuba-solar-economic-v2.webp"
-},
+      ro: "Centrala Solară Mocuba"},
+    image: "/poi-images/mz-mocuba-solar-economic-v2.webp",
     description: {
       en: "The first utility-scale solar photovoltaic plant in the country. Situated in Zambezia, it represents a major step towards diversifying Mozambique's renewable energy portfolio.",
       de: "Das erste große Photovoltaik-Solarkraftwerk des Landes. In Zambezia gelegen, stellt es einen wichtigen Schritt zur Diversifizierung von Mosambiks Portfolio an erneuerbaren Energien dar.",
@@ -1285,9 +1259,8 @@ image: "/poi-images/mz-mocuba-solar-economic-v2.webp"
       en: "Metoro Solar Park",
       de: "Solarpark Metoro",
       hu: "Metoro Napelempark",
-      ro: "Parcul Solar Metoro",
-image: "/poi-images/mz-metoro-solar-economic-v2.webp"
-},
+      ro: "Parcul Solar Metoro"},
+    image: "/poi-images/mz-metoro-solar-economic-v2.webp",
     description: {
       en: "A substantial solar power installation in Cabo Delgado province. It aims to stabilize the northern electrical grid and provide sustainable power to local communities.",
       de: "Eine beträchtliche Solaranlage in der Provinz Cabo Delgado. Sie soll das nördliche Stromnetz stabilisieren und lokale Gemeinden mit nachhaltigem Strom versorgen.",
@@ -1334,9 +1307,8 @@ image: "/poi-images/mz-metoro-solar-economic-v2.webp"
       en: "Port of Angoche",
       de: "Hafen von Angoche",
       hu: "Angoche Kikötő",
-      ro: "Portul Angoche",
-image: "/poi-images/mz-port-angoche-economic-v2.webp"
-},
+      ro: "Portul Angoche"},
+    image: "/poi-images/mz-port-angoche-economic-v2.webp",
     description: {
       en: "A historic coastal port in Nampula province that primarily serves the fishing industry and coastal trade. It has potential for future expansion to handle mineral exports.",
       de: "Ein historischer Küstenhafen in der Provinz Nampula, der in erster Linie der Fischereiindustrie und dem Küstenhandel dient. Er hat Potenzial für eine zukünftige Erweiterung zur Abwicklung von Mineralexporten.",
@@ -1383,9 +1355,8 @@ image: "/poi-images/mz-port-angoche-economic-v2.webp"
       en: "Macuse Port Project",
       de: "Hafenprojekt Macuse",
       hu: "Macuse Kikötő Projekt",
-      ro: "Proiectul Portuar Macuse",
-image: "/poi-images/mz-macuse-port-project-economic-v2.webp"
-},
+      ro: "Proiectul Portuar Macuse"},
+    image: "/poi-images/mz-macuse-port-project-economic-v2.webp",
     description: {
       en: "A major greenfield deep-water port project planned in Zambezia province. Designed to alleviate congestion at other ports, it will be linked to a new railway line from the coal fields.",
       de: "Ein großes Greenfield-Tiefwasserhafenprojekt in der Provinz Zambezia. Es soll die Überlastung anderer Häfen lindern und an eine neue Eisenbahnlinie aus den Kohlenrevieren angeschlossen werden.",
@@ -1432,9 +1403,8 @@ image: "/poi-images/mz-macuse-port-project-economic-v2.webp"
       en: "Cuamba Logistics Yard",
       de: "Logistikzentrum Cuamba",
       hu: "Cuamba Logisztikai Udvar",
-      ro: "Curtea Logistică Cuamba",
-image: "/poi-images/mz-cuamba-rail-hub-economic-v2.webp"
-},
+      ro: "Curtea Logistică Cuamba"},
+    image: "/poi-images/mz-cuamba-rail-hub-economic-v2.webp",
     description: {
       en: "An essential railway junction in Niassa province, connecting northern Mozambique to Malawi. It serves as an inland dry port for agricultural and mineral commodities.",
       de: "Ein wichtiger Eisenbahnknotenpunkt in der Provinz Niassa, der den Norden Mosambiks mit Malawi verbindet. Er dient als Trockenhafen im Binnenland für Agrar- und Mineralrohstoffe.",

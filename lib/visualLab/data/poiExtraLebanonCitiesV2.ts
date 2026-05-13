@@ -6,9 +6,8 @@ export const poiExtraLebanonCitiesV2: POI[] = [
     type: "state-capital",
     parent: "LB-BA",
     coords: [35.5018, 33.8938],
-    name: { de: "Beirut", hu: "Bejrút", ro: "Beirut", en: "Beirut",
-image: "/poi-images/beirut-cities-v2.webp"
-},
+    name: { de: "Beirut", hu: "Bejrút", ro: "Beirut", en: "Beirut"},
+    image: "/poi-images/beirut-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt des Libanon, bekannt für ihre reiche Geschichte und Kultur.",
       hu: "Libanon fővárosa és legnagyobb városa, amely gazdag történelméről és kultúrájáról ismert.",
@@ -50,9 +49,8 @@ image: "/poi-images/beirut-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [35.8362, 34.4367],
-    name: { de: "Tripoli", hu: "Tripoli", ro: "Tripoli", en: "Tripoli",
-image: "/poi-images/tripoli-cities-v2.webp"
-},
+    name: { de: "Tripoli", hu: "Tripoli", ro: "Tripoli", en: "Tripoli"},
+    image: "/poi-images/tripoli-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Libanon, berühmt für ihre mittelalterliche Mamluken-Architektur und den alten Souk.",
       hu: "Libanon második legnagyobb városa, amely középkori mameluk építészetéről és régi piacairól híres.",
@@ -94,9 +92,8 @@ image: "/poi-images/tripoli-cities-v2.webp"
     type: "city",
     parent: "LB-JA",
     coords: [35.3725, 33.5571],
-    name: { de: "Sidon", hu: "Szidón", ro: "Sidon", en: "Sidon",
-image: "/poi-images/sidon-cities-v2.webp"
-},
+    name: { de: "Sidon", hu: "Szidón", ro: "Sidon", en: "Sidon"},
+    image: "/poi-images/sidon-cities-v2.webp",
     description: {
       de: "Eine historische Küstenstadt, die einst ein wichtiges Zentrum der phönizischen Zivilisation war.",
       hu: "Történelmi tengerparti város, amely egykor a föníciai civilizáció fontos központja volt.",
@@ -138,9 +135,8 @@ image: "/poi-images/sidon-cities-v2.webp"
     type: "city",
     parent: "LB-JA",
     coords: [35.2038, 33.2705],
-    name: { de: "Tyros", hu: "Türosz", ro: "Tir", en: "Tyre",
-image: "/poi-images/tyre-cities-v2.webp"
-},
+    name: { de: "Tyros", hu: "Türosz", ro: "Tir", en: "Tyre"},
+    image: "/poi-images/tyre-cities-v2.webp",
     description: {
       de: "Eine alte phönizische Stadt im Südlibanon, die heute als UNESCO-Weltkulturerbe zahlreiche antike Ruinen bewahrt.",
       hu: "Ősi föníciai város Dél-Libanonban, amely ma UNESCO világörökségi helyszínként számos ókori romot őriz.",
@@ -182,9 +178,8 @@ image: "/poi-images/tyre-cities-v2.webp"
     type: "city",
     parent: "LB-JL",
     coords: [35.6481, 34.1230],
-    name: { de: "Byblos", hu: "Büblosz", ro: "Byblos", en: "Byblos",
-image: "/poi-images/byblos-cities-v2.webp"
-},
+    name: { de: "Byblos", hu: "Büblosz", ro: "Byblos", en: "Byblos"},
+    image: "/poi-images/byblos-cities-v2.webp",
     description: {
       de: "Eine der ältesten bewohnten Städte der Welt, bekannt für ihren alten Hafen und die archäologischen Stätten.",
       hu: "A világ egyik legrégebben lakott városa, amely régi kikötőjéről és régészeti lelőhelyeiről ismert.",
@@ -226,9 +221,8 @@ image: "/poi-images/byblos-cities-v2.webp"
     type: "city",
     parent: "LB-JL",
     coords: [35.6186, 33.9814],
-    name: { de: "Jounieh", hu: "Dzsúnija", ro: "Jounieh", en: "Jounieh",
-image: "/poi-images/jounieh-cities-v2.webp"
-},
+    name: { de: "Jounieh", hu: "Dzsúnija", ro: "Jounieh", en: "Jounieh"},
+    image: "/poi-images/jounieh-cities-v2.webp",
     description: {
       de: "Eine malerische Küstenstadt nördlich von Beirut, bekannt für ihr lebhaftes Nachtleben und die Seilbahn.",
       hu: "Festői tengerparti város Bejrúttól északra, amely nyüzsgő éjszakai életéről és felvonójáról ismert.",
@@ -270,9 +264,8 @@ image: "/poi-images/jounieh-cities-v2.webp"
     type: "city",
     parent: "LB-BH",
     coords: [36.2044, 34.0058],
-    name: { de: "Baalbek", hu: "Baalbek", ro: "Baalbek", en: "Baalbek",
-image: "/poi-images/baalbek-cities-v2.webp"
-},
+    name: { de: "Baalbek", hu: "Baalbek", ro: "Baalbek", en: "Baalbek"},
+    image: "/poi-images/baalbek-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im Bekaa-Tal, berühmt für die monumentalen römischen Tempelruinen.",
       hu: "Történelmi város a Bekaa-völgyben, amely a monumentális római templomromokról híres.",
@@ -314,9 +307,8 @@ image: "/poi-images/baalbek-cities-v2.webp"
     type: "city",
     parent: "LB-BI",
     coords: [35.8997, 33.8465],
-    name: { de: "Zahlé", hu: "Zahlé", ro: "Zahlé", en: "Zahlé",
-image: "/poi-images/zahle-cities-v2.webp"
-},
+    name: { de: "Zahlé", hu: "Zahlé", ro: "Zahlé", en: "Zahlé"},
+    image: "/poi-images/zahle-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Bekaa-Ebene, oft als die Stadt des Weins und der Poesie bezeichnet.",
       hu: "A Bekaa-völgy fővárosa, amelyet gyakran a bor és a költészet városának is neveznek.",
@@ -358,9 +350,8 @@ image: "/poi-images/zahle-cities-v2.webp"
     type: "city",
     parent: "LB-NA",
     coords: [35.4833, 33.3789],
-    name: { de: "Nabatäa", hu: "Nabatija", ro: "Nabatieh", en: "Nabatieh",
-image: "/poi-images/nabatieh-cities-v2.webp"
-},
+    name: { de: "Nabatäa", hu: "Nabatija", ro: "Nabatieh", en: "Nabatieh"},
+    image: "/poi-images/nabatieh-cities-v2.webp",
     description: {
       de: "Die wichtigste Stadt im Südlibanon, bekannt für ihren wöchentlichen traditionellen Markt.",
       hu: "Dél-Libanon legfontosabb városa, amely heti hagyományos piacáról ismert.",
@@ -402,9 +393,8 @@ image: "/poi-images/nabatieh-cities-v2.webp"
     type: "city",
     parent: "LB-JL",
     coords: [35.6011, 33.8078],
-    name: { de: "Aley", hu: "Alej", ro: "Aley", en: "Aley",
-image: "/poi-images/aley-cities-v2.webp"
-},
+    name: { de: "Aley", hu: "Alej", ro: "Aley", en: "Aley"},
+    image: "/poi-images/aley-cities-v2.webp",
     description: {
       de: "Eine Bergstadt im Libanongebirge, die als beliebtes Sommerresort für Touristen dient.",
       hu: "Hegyi város a Libanon-hegységben, amely népszerű nyári üdülőhelyként szolgál a turisták számára.",
@@ -446,9 +436,8 @@ image: "/poi-images/aley-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [36.0125, 34.2514],
-    name: { de: "Bscharre", hu: "Bsarri", ro: "Bcharre", en: "Bcharre",
-image: "/poi-images/bcharre-cities-v2.webp"
-},
+    name: { de: "Bscharre", hu: "Bsarri", ro: "Bcharre", en: "Bcharre"},
+    image: "/poi-images/bcharre-cities-v2.webp",
     description: {
       de: "Eine Stadt im Qadisha-Tal, berühmt als Geburtsort des Dichters Khalil Gibran.",
       hu: "Város a Kadisa-völgyben, amely Khalil Gibran költő szülőhelyeként híres.",
@@ -491,9 +480,8 @@ image: "/poi-images/bcharre-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [35.6581, 34.2553],
-    name: { de: "Batrun", hu: "Batrún", ro: "Batroun", en: "Batroun",
-image: "/poi-images/batroun-cities-v2.webp"
-},
+    name: { de: "Batrun", hu: "Batrún", ro: "Batroun", en: "Batroun"},
+    image: "/poi-images/batroun-cities-v2.webp",
     description: {
       de: "Eine der ältesten Küstenstädte mit einer beeindruckenden phönizischen Seemauer und historischen Kirchen.",
       hu: "Az egyik legrégebbi tengerparti város, amely lenyűgöző föníciai tengerfallal és történelmi templomokkal rendelkezik.",
@@ -535,9 +523,8 @@ image: "/poi-images/batroun-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [35.8950, 34.3972],
-    name: { de: "Zgharta", hu: "Zgarta", ro: "Zgharta", en: "Zgharta",
-image: "/poi-images/zgharta-cities-v2.webp"
-},
+    name: { de: "Zgharta", hu: "Zgarta", ro: "Zgharta", en: "Zgharta"},
+    image: "/poi-images/zgharta-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt im Nordlibanon, die für ihre landwirtschaftlichen Produkte und reiche Geschichte bekannt ist.",
       hu: "Festői város Észak-Libanonban, amely mezőgazdasági termékeiről és gazdag történelméről ismert.",
@@ -579,9 +566,8 @@ image: "/poi-images/zgharta-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [35.8119, 34.2994],
-    name: { de: "Amioun", hu: "Amiun", ro: "Amioun", en: "Amioun",
-image: "/poi-images/amioun-cities-v2.webp"
-},
+    name: { de: "Amioun", hu: "Amiun", ro: "Amioun", en: "Amioun"},
+    image: "/poi-images/amioun-cities-v2.webp",
     description: {
       de: "Eine Stadt, die auf einem Hügel erbaut wurde und bedeutende orthodoxe Kirchen beherbergt.",
       hu: "Egy dombra épült város, amely jelentős ortodox templomoknak ad otthont.",
@@ -623,9 +609,8 @@ image: "/poi-images/amioun-cities-v2.webp"
     type: "city",
     parent: "LB-JA",
     coords: [35.5808, 33.5414],
-    name: { de: "Jezzine", hu: "Dzsezzin", ro: "Jezzine", en: "Jezzine",
-image: "/poi-images/jezzine-cities-v2.webp"
-},
+    name: { de: "Jezzine", hu: "Dzsezzin", ro: "Jezzine", en: "Jezzine"},
+    image: "/poi-images/jezzine-cities-v2.webp",
     description: {
       de: "Eine Sommerfrische im Südlibanon, berühmt für ihren Wasserfall und das traditionelle Besteckhandwerk.",
       hu: "Nyári üdülőhely Dél-Libanonban, amely vízeséséről és hagyományos evőeszközkészítéséről híres.",
@@ -667,9 +652,8 @@ image: "/poi-images/jezzine-cities-v2.webp"
     type: "city",
     parent: "LB-BH",
     coords: [36.3861, 34.3942],
-    name: { de: "Hermel", hu: "Hermel", ro: "Hermel", en: "Hermel",
-image: "/poi-images/hermel-cities-v2.webp"
-},
+    name: { de: "Hermel", hu: "Hermel", ro: "Hermel", en: "Hermel"},
+    image: "/poi-images/hermel-cities-v2.webp",
     description: {
       de: "Eine Stadt im nördlichen Bekaa-Tal, in der Nähe der syrischen Grenze und des Orontes-Flusses.",
       hu: "Város az északi Bekaa-völgyben, a szír határ és az Orontész folyó közelében.",
@@ -711,9 +695,8 @@ image: "/poi-images/hermel-cities-v2.webp"
     type: "city",
     parent: "LB-JL",
     coords: [35.6608, 33.8058],
-    name: { de: "Bhamdoun", hu: "Bhamdún", ro: "Bhamdoun", en: "Bhamdoun",
-image: "/poi-images/bhamdoun-cities-v2.webp"
-},
+    name: { de: "Bhamdoun", hu: "Bhamdún", ro: "Bhamdoun", en: "Bhamdoun"},
+    image: "/poi-images/bhamdoun-cities-v2.webp",
     description: {
       de: "Ein traditioneller Sommerferienort im Libanongebirge, der von Weinbergen umgeben ist.",
       hu: "Hagyományos nyári üdülőhely a Libanon-hegységben, amelyet szőlőültetvények vesznek körül.",
@@ -755,9 +738,8 @@ image: "/poi-images/bhamdoun-cities-v2.webp"
     type: "city",
     parent: "LB-AK",
     coords: [36.0803, 34.5428],
-    name: { de: "Halba", hu: "Halba", ro: "Halba", en: "Halba",
-image: "/poi-images/halba-cities-v2.webp"
-},
+    name: { de: "Halba", hu: "Halba", ro: "Halba", en: "Halba"},
+    image: "/poi-images/halba-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Gouvernements Akkar im äußersten Norden des Libanon.",
       hu: "Az Akkar kormányzóság fővárosa Libanon legészakibb részén.",
@@ -799,9 +781,8 @@ image: "/poi-images/halba-cities-v2.webp"
     type: "city",
     parent: "LB-BI",
     coords: [35.8394, 33.5008],
-    name: { de: "Rachaya", hu: "Rasaja", ro: "Rashaya", en: "Rashaya",
-image: "/poi-images/rashaya-cities-v2.webp"
-},
+    name: { de: "Rachaya", hu: "Rasaja", ro: "Rashaya", en: "Rashaya"},
+    image: "/poi-images/rashaya-cities-v2.webp",
     description: {
       de: "Eine historische Stadt am Fuße des Berges Hermon, bekannt für ihre traditionelle Architektur.",
       hu: "Történelmi város a Hermon-hegy lábánál, amely hagyományos építészetéről ismert.",
@@ -843,9 +824,8 @@ image: "/poi-images/rashaya-cities-v2.webp"
     type: "city",
     parent: "LB-NA",
     coords: [35.6831, 33.3981],
-    name: { de: "Hasbaya", hu: "Haszbaja", ro: "Hasbaya", en: "Hasbaya",
-image: "/poi-images/hasbaya-cities-v2.webp"
-},
+    name: { de: "Hasbaya", hu: "Haszbaja", ro: "Hasbaya", en: "Hasbaya"},
+    image: "/poi-images/hasbaya-cities-v2.webp",
     description: {
       de: "Ein ruhiger Ort an den Hängen des Berges Hermon, umgeben von Olivenhainen.",
       hu: "Csendes település a Hermon-hegy lejtőin, amelyet olajfaligetek vesznek körül.",
@@ -887,9 +867,8 @@ image: "/poi-images/hasbaya-cities-v2.webp"
     type: "city",
     parent: "LB-BI",
     coords: [35.9922, 33.8550],
-    name: { de: "Rayak", hu: "Rajak", ro: "Rayak", en: "Rayak",
-image: "/poi-images/rayak-cities-v2.webp"
-},
+    name: { de: "Rayak", hu: "Rajak", ro: "Rayak", en: "Rayak"},
+    image: "/poi-images/rayak-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Bekaa-Ebene, die historisch für ihren großen Bahnhof bekannt war.",
       hu: "Város a Bekaa-völgyben, amely történelmileg nagy vasútállomásáról volt ismert.",
@@ -931,9 +910,8 @@ image: "/poi-images/rayak-cities-v2.webp"
     type: "city",
     parent: "LB-BI",
     coords: [35.8456, 33.8167],
-    name: { de: "Chtaura", hu: "Chtaura", ro: "Chtaura", en: "Chtaura",
-image: "/poi-images/chtaura-cities-v2.webp"
-},
+    name: { de: "Chtaura", hu: "Chtaura", ro: "Chtaura", en: "Chtaura"},
+    image: "/poi-images/chtaura-cities-v2.webp",
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt in der Bekaa-Ebene an der Hauptstraße nach Damaskus.",
       hu: "Fontos közlekedési csomópont a Bekaa-völgyben a Damaszkuszba vezető főút mentén.",
@@ -975,9 +953,8 @@ image: "/poi-images/chtaura-cities-v2.webp"
     type: "city",
     parent: "LB-BI",
     coords: [35.9325, 33.7297],
-    name: { de: "Anjar", hu: "Andzsar", ro: "Anjar", en: "Anjar",
-image: "/poi-images/anjar-cities-v2.webp"
-},
+    name: { de: "Anjar", hu: "Andzsar", ro: "Anjar", en: "Anjar"},
+    image: "/poi-images/anjar-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in der Bekaa-Ebene, die für ihre umayyadischen Ruinen bekannt ist.",
       hu: "Történelmi város a Bekaa-völgyben, amely omajjád romjairól ismert.",
@@ -1019,9 +996,8 @@ image: "/poi-images/anjar-cities-v2.webp"
     type: "city",
     parent: "LB-JL",
     coords: [35.5658, 33.6978],
-    name: { de: "Deir el Qamar", hu: "Dejr el-Kamar", ro: "Deir el Qamar", en: "Deir el Qamar",
-image: "/poi-images/deir-el-qamar-cities-v2.webp"
-},
+    name: { de: "Deir el Qamar", hu: "Dejr el-Kamar", ro: "Deir el Qamar", en: "Deir el Qamar"},
+    image: "/poi-images/deir-el-qamar-cities-v2.webp",
     description: {
       de: "Ehemalige Hauptstadt des Emirats Libanongebirge, bewahrt gut erhaltene historische Gebäude.",
       hu: "A Libanon-hegységi Emírség egykori fővárosa, amely jól megőrzött történelmi épületeket őriz.",
@@ -1063,9 +1039,8 @@ image: "/poi-images/deir-el-qamar-cities-v2.webp"
     type: "city",
     parent: "LB-JL",
     coords: [35.6358, 33.8822],
-    name: { de: "Brummana", hu: "Brummana", ro: "Broummana", en: "Broummana",
-image: "/poi-images/broummana-cities-v2.webp"
-},
+    name: { de: "Brummana", hu: "Brummana", ro: "Broummana", en: "Broummana"},
+    image: "/poi-images/broummana-cities-v2.webp",
     description: {
       de: "Ein traditioneller Ferienort in den Bergen oberhalb von Beirut, beliebt für sein gemäßigtes Klima.",
       hu: "Hagyományos hegyi üdülőhely Bejrút felett, amely mérsékelt klímája miatt népszerű.",
@@ -1107,9 +1082,8 @@ image: "/poi-images/broummana-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [35.9753, 34.2831],
-    name: { de: "Ehden", hu: "Ehden", ro: "Ehden", en: "Ehden",
-image: "/poi-images/ehden-cities-v2.webp"
-},
+    name: { de: "Ehden", hu: "Ehden", ro: "Ehden", en: "Ehden"},
+    image: "/poi-images/ehden-cities-v2.webp",
     description: {
       de: "Ein bergiges Sommerresort im Norden, das eine atemberaubende Aussicht und Natur bietet.",
       hu: "Hegyvidéki nyári üdülőhely északon, amely lélegzetelállító kilátást és természetet kínál.",
@@ -1151,9 +1125,8 @@ image: "/poi-images/ehden-cities-v2.webp"
     type: "city",
     parent: "LB-AK",
     coords: [36.2758, 34.5681],
-    name: { de: "Kobayat", hu: "Kobajat", ro: "Qobayat", en: "Qobayat",
-image: "/poi-images/qobayat-cities-v2.webp"
-},
+    name: { de: "Kobayat", hu: "Kobajat", ro: "Qobayat", en: "Qobayat"},
+    image: "/poi-images/qobayat-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Akkar, umgeben von grünen Wäldern und Bergen.",
       hu: "Város az Akkar régióban, zöld erdőkkel és hegyekkel körülvéve.",
@@ -1195,9 +1168,8 @@ image: "/poi-images/qobayat-cities-v2.webp"
     type: "city",
     parent: "LB-NA",
     coords: [35.4372, 33.1231],
-    name: { de: "Bint Dschubail", hu: "Bint Dzsbeil", ro: "Bint Jbeil", en: "Bint Jbeil",
-image: "/poi-images/bint-jbeil-cities-v2.webp"
-},
+    name: { de: "Bint Dschubail", hu: "Bint Dzsbeil", ro: "Bint Jbeil", en: "Bint Jbeil"},
+    image: "/poi-images/bint-jbeil-cities-v2.webp",
     description: {
       de: "Eine Stadt im Süden des Landes nahe der Grenze, bekannt als kulturelles Zentrum.",
       hu: "Város az ország déli részén, a határ közelében, amely kulturális központként ismert.",
@@ -1239,9 +1211,8 @@ image: "/poi-images/bint-jbeil-cities-v2.webp"
     type: "city",
     parent: "LB-NA",
     coords: [35.5908, 33.3619],
-    name: { de: "Mardschajun", hu: "Mardzsejun", ro: "Marjayoun", en: "Marjayoun",
-image: "/poi-images/marjayoun-cities-v2.webp"
-},
+    name: { de: "Mardschajun", hu: "Mardzsejun", ro: "Marjayoun", en: "Marjayoun"},
+    image: "/poi-images/marjayoun-cities-v2.webp",
     description: {
       de: "Eine historische Stadt auf einem Hügel mit Blick auf den Hermon-Berg und das Jordantal.",
       hu: "Történelmi város egy dombon, kilátással a Hermon-hegyre és a Jordán-völgyre.",
@@ -1283,9 +1254,8 @@ image: "/poi-images/marjayoun-cities-v2.webp"
     type: "city",
     parent: "LB-AS",
     coords: [35.7333, 34.3311],
-    name: { de: "Chekka", hu: "Csekka", ro: "Chekka", en: "Chekka",
-image: "/poi-images/chekka-cities-v2.webp"
-},
+    name: { de: "Chekka", hu: "Csekka", ro: "Chekka", en: "Chekka"},
+    image: "/poi-images/chekka-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt im Nordlibanon, die für ihre Strände und Zementindustrie bekannt ist.",
       hu: "Tengerparti város Észak-Libanonban, amely strandjairól és cementiparáról ismert.",

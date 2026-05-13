@@ -7,9 +7,8 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "NI-CH",
     coords: [-87.1311, 12.6294],
-    name: { de: "Chinandega", hu: "Chinandega", ro: "Chinandega", en: "Chinandega",
-image: "/poi-images/chinandega-cities-v2.webp"
-},
+    name: { de: "Chinandega", hu: "Chinandega", ro: "Chinandega", en: "Chinandega"},
+    image: "/poi-images/chinandega-cities-v2.webp",
     description: { de: "Eine wichtige landwirtschaftliche und industrielle Stadt im Westen.", hu: "Fontos mezőgazdasági és ipari város a nyugati országrészben.", ro: "Un oraș agricol și industrial important în vestul țării.", en: "An important agricultural and industrial city in the west." },
     facts: {
       de: ["Bekannt als 'Stadt der Orangen'", "Zentrum des Erdnussanbaus", "Wichtiger Verkehrsknotenpunkt", "Hohe Temperaturen"],
@@ -34,9 +33,8 @@ image: "/poi-images/chinandega-cities-v2.webp"
     type: "state-capital",
     parent: "NI-MT",
     coords: [-85.9175, 12.9254],
-    name: { de: "Matagalpa", hu: "Matagalpa", ro: "Matagalpa", en: "Matagalpa",
-image: "/poi-images/matagalpa-cities-v2.webp"
-},
+    name: { de: "Matagalpa", hu: "Matagalpa", ro: "Matagalpa", en: "Matagalpa"},
+    image: "/poi-images/matagalpa-cities-v2.webp",
     description: { de: "Das Herz der nicaraguanischen Kaffeeindustrie im zentralen Hochland.", hu: "A nicaraguai kávéipar szíve a központi hegyvidéken.", ro: "Inima industriei de cafea din Nicaragua, în zonele muntoase centrale.", en: "The heart of Nicaragua's coffee industry in the central highlands." },
     facts: {
       de: ["'Perle des Nordens' genannt", "Kühles Bergklima", "Produziert hochwertigen Kaffee", "Umgeben von Kaffeefarmen"],
@@ -61,9 +59,8 @@ image: "/poi-images/matagalpa-cities-v2.webp"
     type: "state-capital",
     parent: "NI-JI",
     coords: [-86.0025, 13.0919],
-    name: { de: "Jinotega", hu: "Jinotega", ro: "Jinotega", en: "Jinotega",
-image: "/poi-images/jinotega-cities-v2.webp"
-},
+    name: { de: "Jinotega", hu: "Jinotega", ro: "Jinotega", en: "Jinotega"},
+    image: "/poi-images/jinotega-cities-v2.webp",
     description: { de: "Hochgelegene Stadt, bekannt für Nebel, Kaffee und Gemüseanbau.", hu: "Magasan fekvő város, amely ködösségéről, kávéjáról és zöldségtermesztéséről ismert.", ro: "Oraș de mare altitudine, cunoscut pentru ceață, cafea și cultivarea legumelor.", en: "High-altitude city known for its mist, coffee, and vegetable cultivation." },
     facts: {
       de: ["'Stadt des Nebels' genannt", "Wichtigster Kaffeeproduzent", "Höchstgelegene Departementshauptstadt", "Nahe dem Apanás-See"],
@@ -89,9 +86,8 @@ image: "/poi-images/jinotega-cities-v2.webp"
     type: "state-capital",
     parent: "NI-RI",
     coords: [-85.8266, 11.4372],
-    name: { de: "Rivas", hu: "Rivas", ro: "Rivas", en: "Rivas",
-image: "/poi-images/rivas-cities-v2.webp"
-},
+    name: { de: "Rivas", hu: "Rivas", ro: "Rivas", en: "Rivas"},
+    image: "/poi-images/rivas-cities-v2.webp",
     description: { de: "Strategische Stadt zwischen dem Nicaraguasee und dem Pazifik.", hu: "Stratégiai fontosságú város a Nicaragua-tó és a Csendes-óceán között.", ro: "Oraș strategic între Lacul Nicaragua și Oceanul Pacific.", en: "Strategic city located between Lake Nicaragua and the Pacific Ocean." },
     facts: {
       de: ["Tor zu Ometepe und San Juan del Sur", "Schauplatz wichtiger Schlachten", "Bekannt für starke Winde", "Landwirtschaftliches Zentrum"],
@@ -117,9 +113,8 @@ image: "/poi-images/rivas-cities-v2.webp"
     type: "state-capital",
     parent: "NI-CO",
     coords: [-85.3653, 12.1069],
-    name: { de: "Juigalpa", hu: "Juigalpa", ro: "Juigalpa", en: "Juigalpa",
-image: "/poi-images/juigalpa-cities-v2.webp"
-},
+    name: { de: "Juigalpa", hu: "Juigalpa", ro: "Juigalpa", en: "Juigalpa"},
+    image: "/poi-images/juigalpa-cities-v2.webp",
     description: { de: "Das Zentrum der Viehzuchtregion Nicaraguas.", hu: "Nicaragua szarvasmarha-tenyésztő régiójának központja.", ro: "Centrul regiunii de creștere a vitelor din Nicaragua.", en: "The center of Nicaragua's cattle ranching region." },
     facts: {
       de: ["'Hauptstadt der Viehzucht'", "Wichtiger Viehmarkt", "Archäologisches Museum", "Hügelige Landschaft"],
@@ -145,9 +140,8 @@ image: "/poi-images/juigalpa-cities-v2.webp"
     type: "state-capital",
     parent: "NI-BO",
     coords: [-85.6583, 12.4722],
-    name: { de: "Boaco", hu: "Boaco", ro: "Boaco", en: "Boaco",
-image: "/poi-images/boaco-cities-v2.webp"
-},
+    name: { de: "Boaco", hu: "Boaco", ro: "Boaco", en: "Boaco"},
+    image: "/poi-images/boaco-cities-v2.webp",
     description: { de: "Bekannt als die 'Stadt der zwei Stockwerke' wegen seiner steilen Straßen.", hu: "A 'kétszintes városként' ismert meredek utcái miatt.", ro: "Cunoscut ca 'Orașul cu două etaje' datorită străzilor sale abrupte.", en: "Known as the 'City of Two Floors' due to its steep streets." },
     facts: {
       de: ["Zentrum der Milchwirtschaft", "Steile, malerische Straßen", "Käseproduktion", "Panoramablick"],
@@ -173,9 +167,8 @@ image: "/poi-images/boaco-cities-v2.webp"
     type: "state-capital",
     parent: "NI-MD",
     coords: [-86.5819, 13.4831],
-    name: { de: "Somoto", hu: "Somoto", ro: "Somoto", en: "Somoto",
-image: "/poi-images/somoto-cities-v2.webp"
-},
+    name: { de: "Somoto", hu: "Somoto", ro: "Somoto", en: "Somoto"},
+    image: "/poi-images/somoto-cities-v2.webp",
     description: { de: "Stadt im Norden, berühmt für den nahegelegenen Somoto Canyon.", hu: "Északi város, amely a közeli Somoto-kanyonról híres.", ro: "Oraș nordic renumit pentru Canionul Somoto din apropiere.", en: "Northern city famous for the nearby Somoto Canyon." },
     facts: {
       de: ["Tor zum Somoto Canyon", "Produktion von Rosquillas (Kekse)", "Grenznähe zu Honduras", "Trockenes Klima"],
@@ -201,9 +194,8 @@ image: "/poi-images/somoto-cities-v2.webp"
     type: "state-capital",
     parent: "NI-NS",
     coords: [-86.4783, 13.6322],
-    name: { de: "Ocotal", hu: "Ocotal", ro: "Ocotal", en: "Ocotal",
-image: "/poi-images/ocotal-cities-v2.webp"
-},
+    name: { de: "Ocotal", hu: "Ocotal", ro: "Ocotal", en: "Ocotal"},
+    image: "/poi-images/ocotal-cities-v2.webp",
     description: { de: "Nördliche Stadt, bekannt für ihre Kiefernwälder und ihre Rolle in der Geschichte.", hu: "Északi város, amely fenyőerdeiről és történelmi szerepéről ismert.", ro: "Oraș nordic cunoscut pentru pădurile sale de pini și rolul său în istorie.", en: "Northern city known for its pine forests and its role in history." },
     facts: {
       de: ["Umgeben von Kiefernwäldern", "Erster Luftangriff in Lateinamerika (1927)", "Kühleres Klima", "Zentrum der Holzindustrie"],
@@ -229,9 +221,8 @@ image: "/poi-images/ocotal-cities-v2.webp"
     type: "state-capital",
     parent: "NI-SJ",
     coords: [-84.7778, 11.1253],
-    name: { de: "San Carlos", hu: "San Carlos", ro: "San Carlos", en: "San Carlos",
-image: "/poi-images/san-carlos-cities-v2.webp"
-},
+    name: { de: "San Carlos", hu: "San Carlos", ro: "San Carlos", en: "San Carlos"},
+    image: "/poi-images/san-carlos-cities-v2.webp",
     description: { de: "Hafenstadt am Ausgang des Nicaraguasees in den Río San Juan.", hu: "Kikötőváros a Nicaragua-tó és a San Juan-folyó találkozásánál.", ro: "Oraș-port la ieșirea din Lacul Nicaragua în râul San Juan.", en: "Port city at the exit of Lake Nicaragua into the San Juan River." },
     facts: {
       de: ["Tor zum Solentiname-Archipel", "Wichtiger Flusshafen", "Beginn der Río San Juan Route", "Fischerei und Tourismus"],
@@ -257,9 +248,8 @@ image: "/poi-images/san-carlos-cities-v2.webp"
     type: "city",
     parent: "NI-MA",
     coords: [-86.0972, 12.1972],
-    name: { de: "Tipitapa", hu: "Tipitapa", ro: "Tipitapa", en: "Tipitapa",
-image: "/poi-images/tipitapa-cities-v2.webp"
-},
+    name: { de: "Tipitapa", hu: "Tipitapa", ro: "Tipitapa", en: "Tipitapa"},
+    image: "/poi-images/tipitapa-cities-v2.webp",
     description: { de: "Wichtige Industriestadt und Verkehrsknotenpunkt nordöstlich von Managua.", hu: "Fontos ipari város és közlekedési csomópont Managuától északkeletre.", ro: "Oraș industrial important și nod de transport la nord-est de Managua.", en: "Important industrial city and transportation hub northeast of Managua." },
     facts: {
       de: ["Verbindet Managua- und Xolotlánsee", "Wichtige Industriezone", "Historischer Friedensvertrag (1927)", "Heisse Thermalquellen"],
@@ -285,9 +275,8 @@ image: "/poi-images/tipitapa-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-87.1667, 12.6667],
-    name: { de: "El Viejo", hu: "El Viejo", ro: "El Viejo", en: "El Viejo",
-image: "/poi-images/el-viejo-cities-v2.webp"
-},
+    name: { de: "El Viejo", hu: "El Viejo", ro: "El Viejo", en: "El Viejo"},
+    image: "/poi-images/el-viejo-cities-v2.webp",
     description: { de: "Eine der ältesten Kolonialstädte, bekannt für ihre Basilika.", hu: "Az egyik legrégebbi gyarmati város, bazilikájáról ismert.", ro: "Unul dintre cele mai vechi orașe coloniale, cunoscut pentru bazilica sa.", en: "One of the oldest colonial towns, known for its basilica." },
     facts: {
       de: ["Wichtiger Wallfahrtsort", "Basilika 'Nuestra Señora de la Concepción'", "Koloniale Architektur", "Religiöses Zentrum"],
@@ -313,9 +302,8 @@ image: "/poi-images/el-viejo-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-87.0278, 12.5719],
-    name: { de: "Chichigalpa", hu: "Chichigalpa", ro: "Chichigalpa", en: "Chichigalpa",
-image: "/poi-images/chichigalpa-cities-v2.webp"
-},
+    name: { de: "Chichigalpa", hu: "Chichigalpa", ro: "Chichigalpa", en: "Chichigalpa"},
+    image: "/poi-images/chichigalpa-cities-v2.webp",
     description: { de: "Das Zentrum der Zuckerrohr- und Rumproduktion in Nicaragua.", hu: "A nicaraguai cukornád- és rumgyártás központja.", ro: "Centrul producției de trestie de zahăr și rom din Nicaragua.", en: "The center of sugar cane and rum production in Nicaragua." },
     facts: {
       de: ["Heimat des Flor de Caña Rums", "Große Zuckerrohrplantagen", "Industriestadt", "Hohe wirtschaftliche Bedeutung"],
@@ -341,9 +329,8 @@ image: "/poi-images/chichigalpa-cities-v2.webp"
     type: "city",
     parent: "NI-CA",
     coords: [-86.2411, 11.8594],
-    name: { de: "Diriamba", hu: "Diriamba", ro: "Diriamba", en: "Diriamba",
-image: "/poi-images/diriamba-cities-v2.webp"
-},
+    name: { de: "Diriamba", hu: "Diriamba", ro: "Diriamba", en: "Diriamba"},
+    image: "/poi-images/diriamba-cities-v2.webp",
     description: { de: "Bekannt für die 'El Güegüense'-Tanztradition, ein UNESCO-Meisterwerk.", hu: "Az 'El Güegüense' tánchagyományról, egy UNESCO mesterműről híres.", ro: "Renumit pentru tradiția de dans 'El Güegüense', o capodoperă UNESCO.", en: "Famous for the 'El Güegüense' dance tradition, a UNESCO Masterpiece." },
     facts: {
       de: ["Wiege des Güegüense", "Kaffeeregion", "Basilika San Sebastián", "Kühles Klima"],
@@ -369,9 +356,8 @@ image: "/poi-images/diriamba-cities-v2.webp"
     type: "state-capital",
     parent: "NI-CA",
     coords: [-86.1994, 11.8494],
-    name: { de: "Jinotepe", hu: "Jinotepe", ro: "Jinotepe", en: "Jinotepe",
-image: "/poi-images/jinotepe-cities-v2.webp"
-},
+    name: { de: "Jinotepe", hu: "Jinotepe", ro: "Jinotepe", en: "Jinotepe"},
+    image: "/poi-images/jinotepe-cities-v2.webp",
     description: { de: "Die ruhige Hauptstadt des Departements Carazo.", hu: "Carazo megye csendes fővárosa.", ro: "Capitala liniștită a departamentului Carazo.", en: "The quiet capital of the Carazo department." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt", "Zentrum des Kaffeeanbaus", "Neoklassische Kirche Santiago", "Hohe Lebensqualität"],
@@ -397,9 +383,8 @@ image: "/poi-images/jinotepe-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-84.2217, 12.1594],
-    name: { de: "El Rama", hu: "El Rama", ro: "El Rama", en: "El Rama",
-image: "/poi-images/el-rama-cities-v2.webp"
-},
+    name: { de: "El Rama", hu: "El Rama", ro: "El Rama", en: "El Rama"},
+    image: "/poi-images/el-rama-cities-v2.webp",
     description: { de: "Wichtiger Binnenhafen, der die Pazifik- mit der Karibikküste verbindet.", hu: "Fontos belföldi kikötő, amely összeköti a csendes-óceáni és a karibi partvidéket.", ro: "Port interior important care leagă coasta Pacificului de cea a Caraibelor.", en: "Important inland port connecting the Pacific and Caribbean coasts." },
     facts: {
       de: ["Verbindung nach Bluefields", "Ende der asphaltierten Straße", "Umschlagplatz für Waren", "Tropisches Klima"],
@@ -425,9 +410,8 @@ image: "/poi-images/el-rama-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-84.4539, 11.6911],
-    name: { de: "Nueva Guinea", hu: "Nueva Guinea", ro: "Nueva Guinea", en: "Nueva Guinea",
-image: "/poi-images/nueva-guinea-cities-v2.webp"
-},
+    name: { de: "Nueva Guinea", hu: "Nueva Guinea", ro: "Nueva Guinea", en: "Nueva Guinea"},
+    image: "/poi-images/nueva-guinea-cities-v2.webp",
     description: { de: "Eine schnell wachsende landwirtschaftliche Stadt in der Karibikregion.", hu: "Gyorsan növekvő mezőgazdasági város a karibi régióban.", ro: "Un oraș agricol în creștere rapidă în regiunea Caraibelor.", en: "A fast-growing agricultural town in the Caribbean region." },
     facts: {
       de: ["Relativ junge Stadt", "Zentrum der Viehzucht und Milchproduktion", "Wichtig für den Anbau von Wurzelgemüse", "Multikulturelle Bevölkerung"],
@@ -453,9 +437,8 @@ image: "/poi-images/nueva-guinea-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-86.9111, 12.9167],
-    name: { de: "Somotillo", hu: "Somotillo", ro: "Somotillo", en: "Somotillo",
-image: "/poi-images/somotillo-cities-v2.webp"
-},
+    name: { de: "Somotillo", hu: "Somotillo", ro: "Somotillo", en: "Somotillo"},
+    image: "/poi-images/somotillo-cities-v2.webp",
     description: { de: "Wichtige Grenzstadt zu Honduras mit hohem Handelsaufkommen.", hu: "Fontos határváros Honduras felé, nagy kereskedelmi forgalommal.", ro: "Oraș de frontieră important cu Honduras, cu un volum mare de comerț.", en: "Important border town with Honduras with high trade volume." },
     facts: {
       de: ["Grenzübergang El Guasaule", "Handelszentrum", "Sehr heißes Klima", "Strategische Lage"],
@@ -481,9 +464,8 @@ image: "/poi-images/somotillo-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.6775, 12.3364],
-    name: { de: "La Paz Centro", hu: "La Paz Centro", ro: "La Paz Centro", en: "La Paz Centro",
-image: "/poi-images/la-paz-centro-cities-v2.webp"
-},
+    name: { de: "La Paz Centro", hu: "La Paz Centro", ro: "La Paz Centro", en: "La Paz Centro"},
+    image: "/poi-images/la-paz-centro-cities-v2.webp",
     description: { de: "Bekannt für seine handgefertigten Ziegel und Dachziegel.", hu: "Kézzel készített tégláiról és tetőcserepeiről ismert.", ro: "Cunoscut pentru cărămizile și țiglele sale lucrate manual.", en: "Known for its handmade bricks and roof tiles." },
     facts: {
       de: ["Zentrum der Ziegelproduktion", "Nahe dem Momotombo-Vulkan", "Traditionelles Handwerk", "Heißes, trockenes Klima"],
@@ -509,9 +491,8 @@ image: "/poi-images/la-paz-centro-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.5653, 12.2661],
-    name: { de: "Nagarote", hu: "Nagarote", ro: "Nagarote", en: "Nagarote",
-image: "/poi-images/nagarote-cities-v2.webp"
-},
+    name: { de: "Nagarote", hu: "Nagarote", ro: "Nagarote", en: "Nagarote"},
+    image: "/poi-images/nagarote-cities-v2.webp",
     description: { de: "Bekannt für seine sauberen Straßen und die Quesillo-Spezialität.", hu: "Tiszta utcáiról és a quesillo specialitásról ismert.", ro: "Cunoscut pentru străzile sale curate și specialitatea quesillo.", en: "Known for its clean streets and the 'quesillo' specialty." },
     facts: {
       de: ["'Sauberste Gemeinde Nicaraguas'", "Heimat des Quesillo", "Großer Baum 'El Genízaro'", "Starke Gemeinschaft"],
@@ -537,9 +518,8 @@ image: "/poi-images/nagarote-cities-v2.webp"
     type: "city",
     parent: "NI-CA",
     coords: [-86.2036, 11.9083],
-    name: { de: "San Marcos", hu: "San Marcos", ro: "San Marcos", en: "San Marcos",
-image: "/poi-images/san-marcos-cities-v2.webp"
-},
+    name: { de: "San Marcos", hu: "San Marcos", ro: "San Marcos", en: "San Marcos"},
+    image: "/poi-images/san-marcos-cities-v2.webp",
     description: { de: "Universitätsstadt in der kühlen Meseta de los Pueblos.", hu: "Egyetemi város a hűvös Meseta de los Pueblos fennsíkon.", ro: "Oraș universitar în răcoroasa Meseta de los Pueblos.", en: "University town in the cool Meseta de los Pueblos." },
     facts: {
       de: ["Sitz einer Landwirtschaftsuniversität", "Kühles, angenehmes Klima", "Anbau von Zierpflanzen", "Ruhige Atmosphäre"],
@@ -566,9 +546,8 @@ image: "/poi-images/san-marcos-cities-v2.webp"
     type: "city",
     parent: "NI-MA",
     coords: [-86.3417, 12.1583],
-    name: { de: "Ciudad Sandino", hu: "Ciudad Sandino", ro: "Ciudad Sandino", en: "Ciudad Sandino",
-image: "/poi-images/ciudad-sandinocities-v2.webp"
-},
+    name: { de: "Ciudad Sandino", hu: "Ciudad Sandino", ro: "Ciudad Sandino", en: "Ciudad Sandino"},
+    image: "/poi-images/ciudad-sandinocities-v2.webp",
     description: { de: "Eine dicht besiedelte Stadt westlich von Managua.", hu: "Sűrűn lakott város Managuától nyugatra.", ro: "Un oraș dens populat la vest de Managua.", en: "A densely populated city west of Managua." },
     facts: {
       de: ["Entstand nach dem Erdbeben 1972", "Hohe Bevölkerungsdichte", "Wohnvorort von Managua", "Handelsaktivität"],
@@ -595,9 +574,8 @@ image: "/poi-images/ciudad-sandinocities-v2.webp"
     type: "city",
     parent: "NI-ES",
     coords: [-86.3986, 13.2619],
-    name: { de: "Condega", hu: "Condega", ro: "Condega", en: "Condega",
-image: "/poi-images/condega-cities-v2.webp"
-},
+    name: { de: "Condega", hu: "Condega", ro: "Condega", en: "Condega"},
+    image: "/poi-images/condega-cities-v2.webp",
     description: { de: "Bekannt für seine Töpfereien und prähispanischen Petroglyphen.", hu: "Fazekasműhelyeiről és prehispán sziklarajzairól ismert.", ro: "Cunoscut pentru atelierele sale de ceramică și petroglifele pre-hispanice.", en: "Known for its pottery workshops and pre-Hispanic petroglyphs." },
     facts: {
       de: ["Töpfertradition", "Archäologische Stätte 'Cantagallo'", "An der Panamericana gelegen", "Tabakanbau in der Nähe"],
@@ -623,9 +601,8 @@ image: "/poi-images/condega-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-86.0917, 12.85],
-    name: { de: "Sébaco", hu: "Sébaco", ro: "Sébaco", en: "Sébaco",
-image: "/poi-images/sebaco-cities-v2.webp"
-},
+    name: { de: "Sébaco", hu: "Sébaco", ro: "Sébaco", en: "Sébaco"},
+    image: "/poi-images/sebaco-cities-v2.webp",
     description: { de: "Wichtiges landwirtschaftliches Zentrum in einem fruchtbaren Tal.", hu: "Fontos mezőgazdasági központ egy termékeny völgyben.", ro: "Centru agricol important într-o vale fertilă.", en: "Important agricultural center in a fertile valley." },
     facts: {
       de: ["'Zwiebelhauptstadt' Nicaraguas", "Anbau von Reis und Gemüse", "Wichtiger Verkehrsknotenpunkt", "Heißes Klima"],
@@ -651,9 +628,8 @@ image: "/poi-images/sebaco-cities-v2.webp"
     type: "city",
     parent: "NI-GR",
     coords: [-86.05, 11.75],
-    name: { de: "Nandaime", hu: "Nandaime", ro: "Nandaime", en: "Nandaime",
-image: "/poi-images/nandaime-cities-v2.webp"
-},
+    name: { de: "Nandaime", hu: "Nandaime", ro: "Nandaime", en: "Nandaime"},
+    image: "/poi-images/nandaime-cities-v2.webp",
     description: { de: "Landwirtschaftliche Stadt an der Panamericana.", hu: "Mezőgazdasági város a Pánamerikai úton.", ro: "Oraș agricol pe autostrada Pan-Americană.", en: "Agricultural town on the Pan-American Highway." },
     facts: {
       de: ["Anbau von Zuckerrohr und Reis", "Wichtiger Viehmarkt", "Industrielle Verarbeitung", "Strategische Lage"],
@@ -679,9 +655,8 @@ image: "/poi-images/nandaime-cities-v2.webp"
     type: "city",
     parent: "NI-NS",
     coords: [-86.125, 13.925],
-    name: { de: "Jalapa", hu: "Jalapa", ro: "Jalapa", en: "Jalapa",
-image: "/poi-images/jalapa-cities-v2.webp"
-},
+    name: { de: "Jalapa", hu: "Jalapa", ro: "Jalapa", en: "Jalapa"},
+    image: "/poi-images/jalapa-cities-v2.webp",
     description: { de: "Fruchtbares Tal im Norden, bekannt für Tabak- und Maisanbau.", hu: "Termékeny völgy északon, dohány- és kukoricatermesztéséről ismert.", ro: "Vale fertilă în nord, cunoscută pentru cultivarea tutunului și porumbului.", en: "Fertile valley in the north, known for tobacco and corn cultivation." },
     facts: {
       de: ["'Kornkammer Nicaraguas'", "Hochwertiger Tabak", "Grenznähe zu Honduras", "Abgelegene Lage"],
@@ -707,9 +682,8 @@ image: "/poi-images/jalapa-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.5333, 12.8833],
-    name: { de: "El Sauce", hu: "El Sauce", ro: "El Sauce", en: "El Sauce",
-image: "/poi-images/el-sauce-cities-v2.webp"
-},
+    name: { de: "El Sauce", hu: "El Sauce", ro: "El Sauce", en: "El Sauce"},
+    image: "/poi-images/el-sauce-cities-v2.webp",
     description: { de: "Ein bedeutender nationaler Wallfahrtsort.", hu: "Jelentős nemzeti zarándokhely.", ro: "Un important loc de pelerinaj național.", en: "A major national pilgrimage site." },
     facts: {
       de: ["Heimat des 'Schwarzen Christus von Esquipulas'", "Große Pilgerfahrt im Januar", "Viehzuchtregion", "Trockenes, heißes Klima"],
@@ -735,9 +709,8 @@ image: "/poi-images/el-sauce-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.578, 12.665],
-    name: { de: "Larreynaga (Malpaisillo)", hu: "Larreynaga (Malpaisillo)", ro: "Larreynaga (Malpaisillo)", en: "Larreynaga (Malpaisillo)",
-image: "/poi-images/larreynaga-malpaisillo-cities-v2.webp"
-},
+    name: { de: "Larreynaga (Malpaisillo)", hu: "Larreynaga (Malpaisillo)", ro: "Larreynaga (Malpaisillo)", en: "Larreynaga (Malpaisillo)"},
+    image: "/poi-images/larreynaga-malpaisillo-cities-v2.webp",
     description: { de: "Stadt in der Nähe der Vulkankette Maribios.", hu: "Város a Maribios vulkáni lánc közelében.", ro: "Oraș în apropierea lanțului vulcanic Maribios.", en: "Town located near the Maribios volcanic chain." },
     facts: {
       de: ["Nahe dem Vulkan Cerro Negro", "Ausgangspunkt für Vulkanwanderungen", "Landwirtschaftliche Produktion", "Geothermische Aktivität in der Nähe"],
@@ -763,9 +736,8 @@ image: "/poi-images/larreynaga-malpaisillo-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-86.97, 12.59],
-    name: { de: "Posoltega", hu: "Posoltega", ro: "Posoltega", en: "Posoltega",
-image: "/poi-images/posoltega-cities-v2.webp"
-},
+    name: { de: "Posoltega", hu: "Posoltega", ro: "Posoltega", en: "Posoltega"},
+    image: "/poi-images/posoltega-cities-v2.webp",
     description: { de: "Eine durch den Hurrikan Mitch 1998 schwer getroffene Gemeinde.", hu: "Az 1998-as Mitch hurrikán által súlyosan érintett közösség.", ro: "O comunitate grav afectată de uraganul Mitch în 1998.", en: "A community severely affected by Hurricane Mitch in 1998." },
     facts: {
       de: ["Standort der Casita-Vulkan-Schlammlawine", "Wiederaufbau und Widerstandsfähigkeit", "Landwirtschaftliche Gemeinde", "Erinnerungsstätte"],
@@ -791,9 +763,8 @@ image: "/poi-images/posoltega-cities-v2.webp"
     type: "city",
     parent: "NI-MA",
     coords: [-86.44, 11.85],
-    name: { de: "San Rafael del Sur", hu: "San Rafael del Sur", ro: "San Rafael del Sur", en: "San Rafael del Sur",
-image: "/poi-images/san-rafael-del-sur-cities-v2.webp"
-},
+    name: { de: "San Rafael del Sur", hu: "San Rafael del Sur", ro: "San Rafael del Sur", en: "San Rafael del Sur"},
+    image: "/poi-images/san-rafael-del-sur-cities-v2.webp",
     description: { de: "Bekannt für seine Zementfabrik und die nahen Pazifikstrände.", hu: "Cementgyáráról és a közeli csendes-óceáni strandokról ismert.", ro: "Cunoscut pentru fabrica sa de ciment și plajele din apropiere de la Pacific.", en: "Known for its cement factory and the nearby Pacific beaches." },
     facts: {
       de: ["Wichtige Zementproduktion", "Nahe den Stränden von Pochomil und Masachapa", "Industrielles Zentrum", "Touristische Entwicklung"],
@@ -819,9 +790,8 @@ image: "/poi-images/san-rafael-del-sur-cities-v2.webp"
     type: "city",
     parent: "NI-MS",
     coords: [-86.143, 11.913],
-    name: { de: "Masatepe", hu: "Masatepe", ro: "Masatepe", en: "Masatepe",
-image: "/poi-images/masatepe-cities-v2.webp"
-},
+    name: { de: "Masatepe", hu: "Masatepe", ro: "Masatepe", en: "Masatepe"},
+    image: "/poi-images/masatepe-cities-v2.webp",
     description: { de: "Bekannt als die 'Hirsch-Hauptstadt' und für seine Möbelherstellung.", hu: "A 'szarvas fővárosaként' és bútorgyártásáról ismert.", ro: "Cunoscut ca 'Capitala Căprioarelor' și pentru producția sa de mobilier.", en: "Known as the 'Deer Capital' and for its furniture making." },
     facts: {
       de: ["Herstellung von Holzmöbeln", "Traditionelle Musik und Tanz", "Anbau von Zitrusfrüchten", "Handwerkliches Zentrum"],
@@ -847,9 +817,8 @@ image: "/poi-images/masatepe-cities-v2.webp"
     type: "city",
     parent: "NI-MS",
     coords: [-86.09, 11.9],
-    name: { de: "Niquinohomo", hu: "Niquinohomo", ro: "Niquinohomo", en: "Niquinohomo",
-image: "/poi-images/niquinohomo-cities-v2.webp"
-},
+    name: { de: "Niquinohomo", hu: "Niquinohomo", ro: "Niquinohomo", en: "Niquinohomo"},
+    image: "/poi-images/niquinohomo-cities-v2.webp",
     description: { de: "Geburtsort des Nationalhelden Augusto C. Sandino.", hu: "Augusto C. Sandino nemzeti hős szülőhelye.", ro: "Locul de naștere al eroului național Augusto C. Sandino.", en: "Birthplace of national hero Augusto C. Sandino." },
     facts: {
       de: ["Historische Bedeutung", "Sandino-Museum", "Teil der 'Pueblos Blancos'", "Handwerkskunst"],
@@ -875,9 +844,8 @@ image: "/poi-images/niquinohomo-cities-v2.webp"
     type: "city",
     parent: "NI-MS",
     coords: [-86.19, 11.94],
-    name: { de: "La Concepción", hu: "La Concepción", ro: "La Concepción", en: "La Concepción",
-image: "/poi-images/la-concepcion-masaya-cities-v2.webp"
-},
+    name: { de: "La Concepción", hu: "La Concepción", ro: "La Concepción", en: "La Concepción"},
+    image: "/poi-images/la-concepcion-masaya-cities-v2.webp",
     description: { de: "Eine Stadt in der Meseta de los Pueblos, bekannt für den Anbau von Zitrusfrüchten.", hu: "Város a Meseta de los Pueblos fennsíkon, citrustermesztéséről ismert.", ro: "Un oraș în Meseta de los Pueblos, cunoscut pentru cultivarea citricelor.", en: "A town in the Meseta de los Pueblos known for its citrus cultivation." },
     facts: {
       de: ["'Zitrus-Hauptstadt'", "Kühles und angenehmes Klima", "Anbau von Ananas und Pitahayas", "Bunte Feste"],
@@ -903,9 +871,8 @@ image: "/poi-images/la-concepcion-masaya-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.85, 12.52],
-    name: { de: "Telica", hu: "Telica", ro: "Telica", en: "Telica",
-image: "/poi-images/telica-cities-v2.webp"
-},
+    name: { de: "Telica", hu: "Telica", ro: "Telica", en: "Telica"},
+    image: "/poi-images/telica-cities-v2.webp",
     description: { de: "Kleinstadt am Fuße des aktiven Vulkans Telica.", hu: "Kisváros az aktív Telica vulkán lábánál.", ro: "Orășel la poalele vulcanului activ Telica.", en: "Small town at the foot of the active Telica volcano." },
     facts: {
       de: ["Namensgeber des Vulkans", "Landwirtschaftliche Gemeinde", "Ausgangspunkt für Vulkanbesteigungen", "Geothermische Quellen in der Nähe"],
@@ -931,9 +898,8 @@ image: "/poi-images/telica-cities-v2.webp"
     type: "city",
     parent: "NI-ES",
     coords: [-86.61, 13.17],
-    name: { de: "San Juan de Limay", hu: "San Juan de Limay", ro: "San Juan de Limay", en: "San Juan de Limay",
-image: "/poi-images/san-juan-de-limay-cities-v2.webp"
-},
+    name: { de: "San Juan de Limay", hu: "San Juan de Limay", ro: "San Juan de Limay", en: "San Juan de Limay"},
+    image: "/poi-images/san-juan-de-limay-cities-v2.webp",
     description: { de: "Bekannt für seine Speckstein-Skulpturen und seine trockene Landschaft.", hu: "Zsírkő szobrairól és száraz tájáról ismert.", ro: "Cunoscut pentru sculpturile sale în steatit și peisajul său arid.", en: "Known for its soapstone sculptures and its arid landscape." },
     facts: {
       de: ["Zentrum der Speckstein-Kunst", "Marmolina-Skulpturen", "Trockenwald-Ökosystem", "Abgelegene Bergstadt"],
@@ -959,9 +925,8 @@ image: "/poi-images/san-juan-de-limay-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.94, 11.33],
-    name: { de: "Tola", hu: "Tola", ro: "Tola", en: "Tola",
-image: "/poi-images/tola-cities-v2.webp"
-},
+    name: { de: "Tola", hu: "Tola", ro: "Tola", en: "Tola"},
+    image: "/poi-images/tola-cities-v2.webp",
     description: { de: "Gemeinde mit einigen der berühmtesten Surfstrände Nicaraguas.", hu: "Község Nicaragua leghíresebb szörfstrandjaival.", ro: "Municipalitate cu unele dintre cele mai renumite plaje de surf din Nicaragua.", en: "Municipality with some of the most famous surf beaches in Nicaragua." },
     facts: {
       de: ["Zugang zu Popoyo und Gigante", "Surfer-Hotspot", "Ländliche Gemeinde", "Viehzucht und Landwirtschaft"],
@@ -987,9 +952,8 @@ image: "/poi-images/tola-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.7, 11.54],
-    name: { de: "Moyogalpa", hu: "Moyogalpa", ro: "Moyogalpa", en: "Moyogalpa",
-image: "/poi-images/moyogalpa-cities-v2.webp"
-},
+    name: { de: "Moyogalpa", hu: "Moyogalpa", ro: "Moyogalpa", en: "Moyogalpa"},
+    image: "/poi-images/moyogalpa-cities-v2.webp",
     description: { de: "Der Haupthafen und die größte Stadt auf der Insel Ometepe.", hu: "A fő kikötő és a legnagyobb város Ometepe szigetén.", ro: "Principalul port și cel mai mare oraș de pe insula Ometepe.", en: "The main port and largest town on Ometepe Island." },
     facts: {
       de: ["Hauptankunftspunkt für Ometepe", "Blick auf den Vulkan Concepción", "Touristische Dienstleistungen", "Fährverbindung nach San Jorge"],
@@ -1015,9 +979,8 @@ image: "/poi-images/moyogalpa-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.57, 11.47],
-    name: { de: "Altagracia", hu: "Altagracia", ro: "Altagracia", en: "Altagracia",
-image: "/poi-images/altagracia-cities-v2.webp"
-},
+    name: { de: "Altagracia", hu: "Altagracia", ro: "Altagracia", en: "Altagracia"},
+    image: "/poi-images/altagracia-cities-v2.webp",
     description: { de: "Zweitgrößte Stadt auf Ometepe mit reicher prähispanischer Geschichte.", hu: "Ometepe második legnagyobb városa, gazdag prehispán történelemmel.", ro: "Al doilea cel mai mare oraș de pe Ometepe, cu o bogată istorie pre-hispanică.", en: "Second largest town on Ometepe with a rich pre-Hispanic history." },
     facts: {
       de: ["Nahe dem Vulkan Maderas", "Präkolumbische Statuen", "Ruhigere Alternative zu Moyogalpa", "Museum für Archäologie"],
@@ -1043,9 +1006,8 @@ image: "/poi-images/altagracia-cities-v2.webp"
     type: "city",
     parent: "NI-NS",
     coords: [-86.03, 13.73],
-    name: { de: "Wiwilí de Nueva Segovia", hu: "Wiwilí de Nueva Segovia", ro: "Wiwilí de Nueva Segovia", en: "Wiwilí de Nueva Segovia",
-image: "/poi-images/wien-cities-v2.webp"
-},
+    name: { de: "Wiwilí de Nueva Segovia", hu: "Wiwilí de Nueva Segovia", ro: "Wiwilí de Nueva Segovia", en: "Wiwilí de Nueva Segovia"},
+    image: "/poi-images/wien-cities-v2.webp",
     description: { de: "Abgelegene Stadt am Ufer des Coco-Flusses.", hu: "Elszigetelt város a Coco-folyó partján.", ro: "Oraș izolat pe malul râului Coco.", en: "Remote town on the banks of the Coco River." },
     facts: {
       de: ["Wichtiger Flusshafen für die Region", "Kaffee- und Bohnenanbau", "Grenzgebiet zu Jinotega", "Herausfordernde Erreichbarkeit"],
@@ -1071,9 +1033,8 @@ image: "/poi-images/wien-cities-v2.webp"
     type: "city",
     parent: "NI-AN",
     coords: [-83.97, 14.74],
-    name: { de: "Waspam", hu: "Waspam", ro: "Waspam", en: "Waspam",
-image: "/poi-images/waspam-cities-v2.webp"
-},
+    name: { de: "Waspam", hu: "Waspam", ro: "Waspam", en: "Waspam"},
+    image: "/poi-images/waspam-cities-v2.webp",
     description: { de: "Das kulturelle und administrative Zentrum der Miskito-Indigenen am Río Coco.", hu: "A miskito őslakosok kulturális és adminisztratív központja a Coco-folyó mentén.", ro: "Centrul cultural și administrativ al indigenilor Miskito de pe râul Coco.", en: "The cultural and administrative center of the Miskito indigenous people on the Coco River." },
     facts: {
       de: ["Hauptstadt der Miskito-Nation", "Am Ufer des Río Coco", "Verbindung nach Honduras per Boot", "Starke indigene Kultur"],
@@ -1099,9 +1060,8 @@ image: "/poi-images/waspam-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.22, 12.93],
-    name: { de: "Río Blanco", hu: "Río Blanco", ro: "Río Blanco", en: "Río Blanco",
-image: "/poi-images/rio-blanco-cities-v2.webp"
-},
+    name: { de: "Río Blanco", hu: "Río Blanco", ro: "Río Blanco", en: "Río Blanco"},
+    image: "/poi-images/rio-blanco-cities-v2.webp",
     description: { de: "Eine Handelsstadt an der 'landwirtschaftlichen Front' Nicaraguas.", hu: "Kereskedőváros Nicaragua 'mezőgazdasági frontvonalán'.", ro: "Un oraș comercial pe 'frontiera agricolă' a Nicaraguei.", en: "A commercial town on Nicaragua's 'agricultural frontier'." },
     facts: {
       de: ["Schnell wachsend", "Viehzucht und Grundnahrungsmittelanbau", "Tor zur Karibikregion", "Multikulturelle Bevölkerung"],
@@ -1127,9 +1087,8 @@ image: "/poi-images/rio-blanco-cities-v2.webp"
     type: "city",
     parent: "NI-AN",
     coords: [-84.77, 13.73],
-    name: { de: "Siuna", hu: "Siuna", ro: "Siuna", en: "Siuna",
-image: "/poi-images/siuna-cities-v2.webp"
-},
+    name: { de: "Siuna", hu: "Siuna", ro: "Siuna", en: "Siuna"},
+    image: "/poi-images/siuna-cities-v2.webp",
     description: { de: "Historische Bergbaustadt im Herzen des 'Bergbau-Dreiecks'.", hu: "Történelmi bányaváros a 'bányászati háromszög' szívében.", ro: "Oraș minier istoric în inima 'Triunghiului Minier'.", en: "Historic mining town in the heart of the 'Mining Triangle'." },
     facts: {
       de: ["Gold- und Silberbergbau", "Multikulturelle Geschichte", "Teil des Biosphärenreservats Bosawás", "Abgelegene Lage"],
@@ -1155,9 +1114,8 @@ image: "/poi-images/siuna-cities-v2.webp"
     type: "city",
     parent: "NI-AN",
     coords: [-84.4, 13.9],
-    name: { de: "Rosita", hu: "Rosita", ro: "Rosita", en: "Rosita",
-image: "/poi-images/rosita-cities-v2.webp"
-},
+    name: { de: "Rosita", hu: "Rosita", ro: "Rosita", en: "Rosita"},
+    image: "/poi-images/rosita-cities-v2.webp",
     description: { de: "Eine weitere wichtige Stadt im 'Bergbau-Dreieck'.", hu: "Egy másik fontos város a 'bányászati háromszögben'.", ro: "Un alt oraș important în 'Triunghiul Minier'.", en: "Another important town in the 'Mining Triangle'." },
     facts: {
       de: ["Bergbaugeschichte", "Mischung aus Miskito-, Mestizen- und Kreolenkulturen", "Forstwirtschaft", "Verbindung zu Siuna und Bonanza"],
@@ -1183,9 +1141,8 @@ image: "/poi-images/rosita-cities-v2.webp"
     type: "city",
     parent: "NI-AN",
     coords: [-84.59, 14.02],
-    name: { de: "Bonanza", hu: "Bonanza", ro: "Bonanza", en: "Bonanza",
-image: "/poi-images/bonanza-cities-v2.webp"
-},
+    name: { de: "Bonanza", hu: "Bonanza", ro: "Bonanza", en: "Bonanza"},
+    image: "/poi-images/bonanza-cities-v2.webp",
     description: { de: "Eine Stadt, deren Name ihre Geschichte im Goldabbau widerspiegelt.", hu: "Város, amelynek neve tükrözi aranybányászati múltját.", ro: "Un oraș al cărui nume reflectă istoria sa în mineritul de aur.", en: "A town whose name reflects its history in gold mining." },
     facts: {
       de: ["Teil des 'Bergbau-Dreiecks'", "Aktiver Goldabbau", "Starke indigene Präsenz", "Herausfordernde Geografie"],
@@ -1211,9 +1168,8 @@ image: "/poi-images/bonanza-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-87.0, 12.85],
-    name: { de: "Puerto Morazán", hu: "Puerto Morazán", ro: "Puerto Morazán", en: "Puerto Morazán",
-image: "/poi-images/puerto-morazan-cities-v2.webp"
-},
+    name: { de: "Puerto Morazán", hu: "Puerto Morazán", ro: "Puerto Morazán", en: "Puerto Morazán"},
+    image: "/poi-images/puerto-morazan-cities-v2.webp",
     description: { de: "Hafenstadt am Estero Real, einem großen Mündungsgewässer.", hu: "Kikötőváros az Estero Real-nál, egy nagy torkolati víznél.", ro: "Oraș-port pe Estero Real, un mare estuar.", en: "Port town on the Estero Real, a large estuary." },
     facts: {
       de: ["Garnelenzucht", "Wichtiges Mangroven-Ökosystem", "Bootsbau", "Verbindung zum Golf von Fonseca"],
@@ -1239,9 +1195,8 @@ image: "/poi-images/puerto-morazan-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.38, 12.72],
-    name: { de: "El Jicaral", hu: "El Jicaral", ro: "El Jicaral", en: "El Jicaral",
-image: "/poi-images/el-jicaral-cities-v2.webp"
-},
+    name: { de: "El Jicaral", hu: "El Jicaral", ro: "El Jicaral", en: "El Jicaral"},
+    image: "/poi-images/el-jicaral-cities-v2.webp",
     description: { de: "Ländliche Gemeinde im trockenen Landesinneren von León.", hu: "Vidéki közösség León száraz belső részén.", ro: "Comunitate rurală în interiorul uscat al departamentului León.", en: "Rural municipality in the dry interior of León." },
     facts: {
       de: ["Landwirtschaft in Trockengebieten", "Viehzucht", "Traditionelle Lebensweise", "Herausforderungen durch Dürre"],
@@ -1267,9 +1222,8 @@ image: "/poi-images/el-jicaral-cities-v2.webp"
     type: "city",
     parent: "NI-MA",
     coords: [-86.42, 12.23],
-    name: { de: "Mateare", hu: "Mateare", ro: "Mateare", en: "Mateare",
-image: "/poi-images/mateare-cities-v2.webp"
-},
+    name: { de: "Mateare", hu: "Mateare", ro: "Mateare", en: "Mateare"},
+    image: "/poi-images/mateare-cities-v2.webp",
     description: { de: "Stadt am Ufer des Managuasees, westlich der Hauptstadt.", hu: "Város a Managua-tó partján, a fővárostól nyugatra.", ro: "Oraș pe malul lacului Managua, la vest de capitală.", en: "Town on the shores of Lake Managua, west of the capital." },
     facts: {
       de: ["Blick auf den Vulkan Momotombo", "Fischerei", "Nahe der Halbinsel Chiltepe", "Naherholungsgebiet für Managua"],
@@ -1295,9 +1249,8 @@ image: "/poi-images/mateare-cities-v2.webp"
     type: "city",
     parent: "NI-AN",
     coords: [-85.38, 13.23],
-    name: { de: "Waslala", hu: "Waslala", ro: "Waslala", en: "Waslala",
-image: "/poi-images/waslala-cities-v2.webp"
-},
+    name: { de: "Waslala", hu: "Waslala", ro: "Waslala", en: "Waslala"},
+    image: "/poi-images/waslala-cities-v2.webp",
     description: { de: "Ländliche Stadt an der Grenze zwischen den Departements Matagalpa und der Karibikküste.", hu: "Vidéki város Matagalpa megye és a karibi partvidék határán.", ro: "Oraș rural la granița dintre departamentul Matagalpa și coasta Caraibelor.", en: "Rural town on the border between the Matagalpa department and the Caribbean Coast." },
     facts: {
       de: ["Kakaoanbau", "Teil des Biosphärenreservats Bosawás", "Wichtiger Flussübergang", "Siedlungsgebiet"],
@@ -1323,9 +1276,8 @@ image: "/poi-images/waslala-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-86.12, 12.78],
-    name: { de: "San Isidro", hu: "San Isidro", ro: "San Isidro", en: "San Isidro",
-image: "/poi-images/san-isidro-matagalpa-cities-v2.webp"
-},
+    name: { de: "San Isidro", hu: "San Isidro", ro: "San Isidro", en: "San Isidro"},
+    image: "/poi-images/san-isidro-matagalpa-cities-v2.webp",
     description: { de: "Verkehrsknotenpunkt an der Panamericana im Departement Matagalpa.", hu: "Közlekedési csomópont a Pánamerikai úton Matagalpa megyében.", ro: "Nod de transport pe autostrada Pan-Americană în departamentul Matagalpa.", en: "Transportation hub on the Pan-American Highway in the Matagalpa department." },
     facts: {
       de: ["Verzweigung nach León und Estelí", "Reisanbau", "Handelszentrum", "Rastplatz für Reisende"],
@@ -1351,9 +1303,8 @@ image: "/poi-images/san-isidro-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-BO",
     coords: [-85.53, 12.27],
-    name: { de: "Tecolostote", hu: "Tecolostote", ro: "Tecolostote", en: "Tecolostote",
-image: "/poi-images/tecolostote-cities-v2.webp"
-},
+    name: { de: "Tecolostote", hu: "Tecolostote", ro: "Tecolostote", en: "Tecolostote"},
+    image: "/poi-images/tecolostote-cities-v2.webp",
     description: { de: "Kleinstadt an der Hauptverbindungsstraße zur Karibikküste.", hu: "Kisváros a karibi partvidékre vezető főúton.", ro: "Orășel pe drumul principal către coasta Caraibelor.", en: "Small town on the main highway to the Caribbean coast." },
     facts: {
       de: ["Viehzucht", "Strategischer Rastplatz", "Ländliches Zentrum", "Handel"],
@@ -1379,9 +1330,8 @@ image: "/poi-images/tecolostote-cities-v2.webp"
     type: "city",
     parent: "NI-BO",
     coords: [-85.67, 12.35],
-    name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo",
-image: "/poi-images/san-lorenzo-boaco-cities-v2.webp"
-},
+    name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo"},
+    image: "/poi-images/san-lorenzo-boaco-cities-v2.webp",
     description: { de: "Eine Gemeinde, die für ihre Milchprodukte und ihre Tontöpferwaren bekannt ist.", hu: "Tejtermékeiről és agyagedényeiről ismert község.", ro: "O municipalitate cunoscută pentru produsele sale lactate și olărit.", en: "A municipality known for its dairy products and its clay pottery." },
     facts: {
       de: ["Käseproduktion", "Handwerkliche Töpferei", "Viehzucht", "Ländliche Traditionen"],
@@ -1407,9 +1357,8 @@ image: "/poi-images/san-lorenzo-boaco-cities-v2.webp"
     type: "city",
     parent: "NI-CO",
     coords: [-85.08, 12.07],
-    name: { de: "Santo Tomás", hu: "Santo Tomás", ro: "Santo Tomás", en: "Santo Tomás",
-image: "/poi-images/santo-tomas-chontales-cities-v2.webp"
-},
+    name: { de: "Santo Tomás", hu: "Santo Tomás", ro: "Santo Tomás", en: "Santo Tomás"},
+    image: "/poi-images/santo-tomas-chontales-cities-v2.webp",
     description: { de: "Eine Stadt in der Viehzuchtregion von Chontales.", hu: "Város Chontales szarvasmarha-tenyésztő régiójában.", ro: "Un oraș în regiunea de creștere a vitelor din Chontales.", en: "A town in the cattle-ranching region of Chontales." },
     facts: {
       de: ["Viehhandel", "Wichtiger regionaler Markt", "An der Straße nach Nueva Guinea", "Traditionelle Feste"],
@@ -1435,9 +1384,8 @@ image: "/poi-images/santo-tomas-chontales-cities-v2.webp"
     type: "city",
     parent: "NI-CO",
     coords: [-84.99, 12.05],
-    name: { de: "Villa Sandino", hu: "Villa Sandino", ro: "Villa Sandino", en: "Villa Sandino",
-image: "/poi-images/villa-sandino-cities-v2.webp"
-},
+    name: { de: "Villa Sandino", hu: "Villa Sandino", ro: "Villa Sandino", en: "Villa Sandino"},
+    image: "/poi-images/villa-sandino-cities-v2.webp",
     description: { de: "Eine Gemeinde, die nach dem Nationalhelden Augusto C. Sandino benannt ist.", hu: "Község, amelyet Augusto C. Sandino nemzeti hősről neveztek el.", ro: "O municipalitate numită după eroul național Augusto C. Sandino.", en: "A municipality named after the national hero Augusto C. Sandino." },
     facts: {
       de: ["Viehzucht", "Milchproduktion", "Ländliche Entwicklung", "Historischer Name"],
@@ -1463,9 +1411,8 @@ image: "/poi-images/villa-sandino-cities-v2.webp"
     type: "city",
     parent: "NI-CO",
     coords: [-85.17, 11.97],
-    name: { de: "Acoyapa", hu: "Acoyapa", ro: "Acoyapa", en: "Acoyapa",
-image: "/poi-images/acoyapa-cities-v2.webp"
-},
+    name: { de: "Acoyapa", hu: "Acoyapa", ro: "Acoyapa", en: "Acoyapa"},
+    image: "/poi-images/acoyapa-cities-v2.webp",
     description: { de: "Historische Stadt in Chontales nahe dem Nicaraguasee.", hu: "Történelmi város Chontalesben, a Nicaragua-tó közelében.", ro: "Oraș istoric în Chontales, aproape de Lacul Nicaragua.", en: "Historic town in Chontales near Lake Nicaragua." },
     facts: {
       de: ["Koloniale Kirche", "Archäologische Funde", "Viehzucht", "Nah am Seeufer"],
@@ -1491,9 +1438,8 @@ image: "/poi-images/acoyapa-cities-v2.webp"
     type: "city",
     parent: "NI-SJ",
     coords: [-84.9, 11.4],
-    name: { de: "San Miguelito", hu: "San Miguelito", ro: "San Miguelito", en: "San Miguelito",
-image: "/poi-images/san-miguelito-cities-v2.webp"
-},
+    name: { de: "San Miguelito", hu: "San Miguelito", ro: "San Miguelito", en: "San Miguelito"},
+    image: "/poi-images/san-miguelito-cities-v2.webp",
     description: { de: "Fischerdorf am Ufer des Nicaraguasees.", hu: "Halászfalu a Nicaragua-tó partján.", ro: "Sat pescăresc pe malul Lacului Nicaragua.", en: "Fishing town on the shores of Lake Nicaragua." },
     facts: {
       de: ["Wichtiger Fischereihafen am See", "Teil des Los Guatuzos Wildreservats", "Vogelbeobachtung", "Ländliche, ruhige Atmosphäre"],
@@ -1519,9 +1465,8 @@ image: "/poi-images/san-miguelito-cities-v2.webp"
     type: "city",
     parent: "NI-SJ",
     coords: [-84.397, 11.018],
-    name: { de: "El Castillo", hu: "El Castillo", ro: "El Castillo", en: "El Castillo",
-image: "/poi-images/el-castillo-de-la-concepcion-cities-v2.webp"
-},
+    name: { de: "El Castillo", hu: "El Castillo", ro: "El Castillo", en: "El Castillo"},
+    image: "/poi-images/el-castillo-de-la-concepcion-cities-v2.webp",
     description: { de: "Dorf um die historische Festung am Río San Juan.", hu: "Falu a történelmi erőd körül a San Juan-folyónál.", ro: "Sat în jurul fortăreței istorice de pe râul San Juan.", en: "Village surrounding the historic fortress on the San Juan River." },
     facts: {
       de: ["Imposante Festung aus dem 17. Jahrhundert", "Schutz vor Piraten", "Ökotourismus-Destination", "Teil des Indio-Maíz Reservats"],
@@ -1547,9 +1492,8 @@ image: "/poi-images/el-castillo-de-la-concepcion-cities-v2.webp"
     type: "city",
     parent: "NI-SJ",
     coords: [-83.69, 10.93],
-    name: { de: "San Juan de Nicaragua (Greytown)", hu: "San Juan de Nicaragua (Greytown)", ro: "San Juan de Nicaragua (Greytown)", en: "San Juan de Nicaragua (Greytown)",
-image: "/poi-images/san-juan-del-norte-greytown-cities-v2.webp"
-},
+    name: { de: "San Juan de Nicaragua (Greytown)", hu: "San Juan de Nicaragua (Greytown)", ro: "San Juan de Nicaragua (Greytown)", en: "San Juan de Nicaragua (Greytown)"},
+    image: "/poi-images/san-juan-del-norte-greytown-cities-v2.webp",
     description: { de: "Historisch bedeutende Hafenstadt an der Karibikküste.", hu: "Történelmileg jelentős kikötőváros a karibi parton.", ro: "Oraș-port istoric important pe coasta Caraibelor.", en: "Historically significant port town on the Caribbean coast." },
     facts: {
       de: ["Einst wichtiger Transithafen", "Mehrfach zerstört und wieder aufgebaut", "Mündung des Río San Juan", "Reiche Geschichte"],
@@ -1575,9 +1519,8 @@ image: "/poi-images/san-juan-del-norte-greytown-cities-v2.webp"
     type: "city",
     parent: "NI-ES",
     coords: [-86.53, 13.38],
-    name: { de: "Pueblo Nuevo", hu: "Pueblo Nuevo", ro: "Pueblo Nuevo", en: "Pueblo Nuevo",
-image: "/poi-images/pueblo-nuevo-esteli-cities-v2.webp"
-},
+    name: { de: "Pueblo Nuevo", hu: "Pueblo Nuevo", ro: "Pueblo Nuevo", en: "Pueblo Nuevo"},
+    image: "/poi-images/pueblo-nuevo-esteli-cities-v2.webp",
     description: { de: "Bergstadt im Departement Estelí, umgeben von Naturreservaten.", hu: "Hegyi város Estelí megyében, természetvédelmi területekkel körülvéve.", ro: "Oraș montan în departamentul Estelí, înconjurat de rezervații naturale.", en: "Mountain town in the Estelí department, surrounded by nature reserves." },
     facts: {
       de: ["Anbau von Kaffee und Gemüse", "Wanderwege", "Kühles Klima", "Ländliche Gemeinde"],
@@ -1603,9 +1546,8 @@ image: "/poi-images/pueblo-nuevo-esteli-cities-v2.webp"
     type: "city",
     parent: "NI-ES",
     coords: [-86.23, 13.0],
-    name: { de: "La Trinidad", hu: "La Trinidad", ro: "La Trinidad", en: "La Trinidad",
-image: "/poi-images/la-trinidad-esteli-cities-v2.webp"
-},
+    name: { de: "La Trinidad", hu: "La Trinidad", ro: "La Trinidad", en: "La Trinidad"},
+    image: "/poi-images/la-trinidad-esteli-cities-v2.webp",
     description: { de: "Eine Stadt, die für ihre Bäckereien und als Verkehrsknotenpunkt bekannt ist.", hu: "Pékségeiről és közlekedési csomópontként ismert város.", ro: "Un oraș cunoscut pentru brutăriile sale și ca nod de transport.", en: "A town known for its bakeries and as a transportation hub." },
     facts: {
       de: ["'Hauptstadt des Brotes'", "An der Panamericana", "Handelszentrum", "Viehzucht"],
@@ -1631,9 +1573,8 @@ image: "/poi-images/la-trinidad-esteli-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-86.12, 12.73],
-    name: { de: "Ciudad Darío", hu: "Ciudad Darío", ro: "Ciudad Darío", en: "Ciudad Darío",
-image: "/poi-images/ciudad-dario-cities-v2.webp"
-},
+    name: { de: "Ciudad Darío", hu: "Ciudad Darío", ro: "Ciudad Darío", en: "Ciudad Darío"},
+    image: "/poi-images/ciudad-dario-cities-v2.webp",
     description: { de: "Geburtsort des berühmten Dichters Rubén Darío.", hu: "A híres költő, Rubén Darío szülőhelye.", ro: "Locul de naștere al celebrului poet Rubén Darío.", en: "Birthplace of the famous poet Rubén Darío." },
     facts: {
       de: ["Geburtshaus von Rubén Darío (Museum)", "Wichtiger kultureller Ort", "Landwirtschaft (Reis, Bohnen)", "Ehemals Metapa genannt"],
@@ -1659,9 +1600,8 @@ image: "/poi-images/ciudad-dario-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.78, 12.64],
-    name: { de: "Esquipulas", hu: "Esquipulas", ro: "Esquipulas", en: "Esquipulas",
-image: "/poi-images/esquipulas-matagalpa-cities-v2.webp"
-},
+    name: { de: "Esquipulas", hu: "Esquipulas", ro: "Esquipulas", en: "Esquipulas"},
+    image: "/poi-images/esquipulas-matagalpa-cities-v2.webp",
     description: { de: "Bergbaustadt im Departement Matagalpa.", hu: "Bányaváros Matagalpa megyében.", ro: "Oraș minier în departamentul Matagalpa.", en: "Mining town in the department of Matagalpa." },
     facts: {
       de: ["Historischer Goldabbau", "Kaffeeanbau", "Ländliche Umgebung", "Bergiges Gelände"],
@@ -1687,9 +1627,8 @@ image: "/poi-images/esquipulas-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.85, 12.75],
-    name: { de: "San Dionisio", hu: "San Dionisio", ro: "San Dionisio", en: "San Dionisio",
-image: "/poi-images/san-dionisio-matagalpa-cities-v2.webp"
-},
+    name: { de: "San Dionisio", hu: "San Dionisio", ro: "San Dionisio", en: "San Dionisio"},
+    image: "/poi-images/san-dionisio-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde in den Kaffeeregionen von Matagalpa.", hu: "Község Matagalpa kávérégióiban.", ro: "O municipalitate în regiunile de cafea din Matagalpa.", en: "A municipality in the coffee regions of Matagalpa." },
     facts: {
       de: ["Kaffeeanbau", "Traditionelle Landwirtschaft", "Berglandschaft", "Kleine, verstreute Gemeinden"],
@@ -1715,9 +1654,8 @@ image: "/poi-images/san-dionisio-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.55, 13.1],
-    name: { de: "La Dalia", hu: "La Dalia", ro: "La Dalia", en: "La Dalia",
-image: "/poi-images/la-dalia-matagalpa-cities-v2.webp"
-},
+    name: { de: "La Dalia", hu: "La Dalia", ro: "La Dalia", en: "La Dalia"},
+    image: "/poi-images/la-dalia-matagalpa-cities-v2.webp",
     description: { de: "Eine wichtige Kaffeeanbau-Gemeinde im Departement Matagalpa.", hu: "Fontos kávétermesztő község Matagalpa megyében.", ro: "O importantă municipalitate cultivatoare de cafea în departamentul Matagalpa.", en: "An important coffee-growing municipality in the Matagalpa department." },
     facts: {
       de: ["Herz der Kaffeeproduktion", "Nebelwälder in der Nähe", "Hohe Niederschlagsmengen", "Ländliche Entwicklungsprojekte"],
@@ -1743,9 +1681,8 @@ image: "/poi-images/la-dalia-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.4, 13.25],
-    name: { de: "Rancho Grande", hu: "Rancho Grande", ro: "Rancho Grande", en: "Rancho Grande",
-image: "/poi-images/rancho-grande-matagalpa-cities-v2.webp"
-},
+    name: { de: "Rancho Grande", hu: "Rancho Grande", ro: "Rancho Grande", en: "Rancho Grande"},
+    image: "/poi-images/rancho-grande-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde an der landwirtschaftlichen Front mit Fokus auf Kakao.", hu: "Község a mezőgazdasági frontvonalon, a kakaóra összpontosítva.", ro: "O municipalitate pe frontiera agricolă, axată pe cacao.", en: "A municipality on the agricultural frontier with a focus on cacao." },
     facts: {
       de: ["Kakaoanbau", "Viehzucht", "Siedlungsgebiet", "Schutz von Wassereinzugsgebieten"],
@@ -1771,9 +1708,8 @@ image: "/poi-images/rancho-grande-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.75, 13.0],
-    name: { de: "El Tuma - La Dalia", hu: "El Tuma - La Dalia", ro: "El Tuma - La Dalia", en: "El Tuma - La Dalia",
-image: "/poi-images/el-tuma-la-dalia-cities-v2.webp"
-},
+    name: { de: "El Tuma - La Dalia", hu: "El Tuma - La Dalia", ro: "El Tuma - La Dalia", en: "El Tuma - La Dalia"},
+    image: "/poi-images/el-tuma-la-dalia-cities-v2.webp",
     description: { de: "Zwillingsstädte, die ein wichtiges Zentrum für Kaffee und Handel sind.", hu: "Iker városok, amelyek a kávé és a kereskedelem fontos központjai.", ro: "Orașe gemene care sunt un centru important pentru cafea și comerț.", en: "Twin towns that are an important center for coffee and commerce." },
     facts: {
       de: ["Zentrum der Kaffeekooperativen", "Handelsaktivität", "Verbindung ins Landesinnere", "Bergiges Gelände"],
@@ -1799,9 +1735,8 @@ image: "/poi-images/el-tuma-la-dalia-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.45, 12.83],
-    name: { de: "Matiguás", hu: "Matiguás", ro: "Matiguás", en: "Matiguás",
-image: "/poi-images/matiguas-matagalpa-cities-v2.webp"
-},
+    name: { de: "Matiguás", hu: "Matiguás", ro: "Matiguás", en: "Matiguás"},
+    image: "/poi-images/matiguas-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde, die für ihre Viehzucht und Milchproduktion bekannt ist.", hu: "Állattenyésztéséről és tejtermeléséről ismert község.", ro: "O municipalitate cunoscută pentru creșterea vitelor și producția de lactate.", en: "A municipality known for its cattle ranching and dairy production." },
     facts: {
       de: ["Wichtiger Viehmarkt", "Käseproduktion", "Ländliche Gemeinde", "Fluss Matiguás"],
@@ -1827,9 +1762,8 @@ image: "/poi-images/matiguas-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.7, 12.7],
-    name: { de: "Muy Muy", hu: "Muy Muy", ro: "Muy Muy", en: "Muy Muy",
-image: "/poi-images/muy-muy-matagalpa-cities-v2.webp"
-},
+    name: { de: "Muy Muy", hu: "Muy Muy", ro: "Muy Muy", en: "Muy Muy"},
+    image: "/poi-images/muy-muy-matagalpa-cities-v2.webp",
     description: { de: "Eine kleine, ländliche Gemeinde im Departement Matagalpa.", hu: "Kicsi, vidéki község Matagalpa megyében.", ro: "O mică comunitate rurală în departamentul Matagalpa.", en: "A small, rural municipality in the Matagalpa department." },
     facts: {
       de: ["Viehzucht", "Anbau von Grundnahrungsmitteln", "Traditionelles Landleben", "Hügelige Landschaft"],
@@ -1855,9 +1789,8 @@ image: "/poi-images/muy-muy-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-85.83, 12.91],
-    name: { de: "San Ramón", hu: "San Ramón", ro: "San Ramón", en: "San Ramón",
-image: "/poi-images/san-ramon-matagalpa-cities-v2.webp"
-},
+    name: { de: "San Ramón", hu: "San Ramón", ro: "San Ramón", en: "San Ramón"},
+    image: "/poi-images/san-ramon-matagalpa-cities-v2.webp",
     description: { de: "Eine Gemeinde in der Nähe von Matagalpa, bekannt für Ökotourismus und Kaffee.", hu: "Matagalpa közelében fekvő község, amely ökoturizmusáról és kávéjáról ismert.", ro: "O municipalitate lângă Matagalpa, cunoscută pentru ecoturism și cafea.", en: "A municipality near Matagalpa known for ecotourism and coffee." },
     facts: {
       de: ["Nachhaltiger Kaffeeanbau", "Wasserfälle und Naturreservate", "Ländlicher Tourismus", "Gemeinschaftsprojekte"],
@@ -1883,9 +1816,8 @@ image: "/poi-images/san-ramon-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-MT",
     coords: [-86.08, 12.65],
-    name: { de: "Terrabona", hu: "Terrabona", ro: "Terrabona", en: "Terrabona",
-image: "/poi-images/terrabona-matagalpa-cities-v2.webp"
-},
+    name: { de: "Terrabona", hu: "Terrabona", ro: "Terrabona", en: "Terrabona"},
+    image: "/poi-images/terrabona-matagalpa-cities-v2.webp",
     description: { de: "Eine ländliche Gemeinde zwischen den Departements Matagalpa und Boaco.", hu: "Vidéki község Matagalpa és Boaco megyék között.", ro: "O comunitate rurală între departamentele Matagalpa și Boaco.", en: "A rural municipality between the departments of Matagalpa and Boaco." },
     facts: {
       de: ["'Gutes Land' bedeutet der Name", "Anbau von Bohnen und Mais", "Viehzucht", "Trockenes Klima"],
@@ -1911,9 +1843,8 @@ image: "/poi-images/terrabona-matagalpa-cities-v2.webp"
     type: "city",
     parent: "NI-NS",
     coords: [-86.01, 13.56],
-    name: { de: "Quilalí", hu: "Quilalí", ro: "Quilalí", en: "Quilalí",
-image: "/poi-images/quilali-nueva-segovia-cities-v2.webp"
-},
+    name: { de: "Quilalí", hu: "Quilalí", ro: "Quilalí", en: "Quilalí"},
+    image: "/poi-images/quilali-nueva-segovia-cities-v2.webp",
     description: { de: "Eine abgelegene Bergstadt im Departement Nueva Segovia.", hu: "Elszigetelt hegyi város Nueva Segovia megyében.", ro: "Un oraș montan izolat în departamentul Nueva Segovia.", en: "A remote mountain town in the department of Nueva Segovia." },
     facts: {
       de: ["Kaffeeanbau", "Ehemalige Konfliktzone", "Wunderschöne Berglandschaft", "Ländliche Entwicklung"],
@@ -1939,9 +1870,8 @@ image: "/poi-images/quilali-nueva-segovia-cities-v2.webp"
     type: "city",
     parent: "NI-NS",
     coords: [-86.3, 13.7],
-    name: { de: "San Fernando", hu: "San Fernando", ro: "San Fernando", en: "San Fernando",
-image: "/poi-images/san-fernando-nueva-segovia-cities-v2.webp"
-},
+    name: { de: "San Fernando", hu: "San Fernando", ro: "San Fernando", en: "San Fernando"},
+    image: "/poi-images/san-fernando-nueva-segovia-cities-v2.webp",
     description: { de: "Eine kleine Stadt in den Kiefernwäldern von Nueva Segovia.", hu: "Kis város Nueva Segovia fenyőerdeiben.", ro: "Un orășel în pădurile de pini din Nueva Segovia.", en: "A small town in the pine forests of Nueva Segovia." },
     facts: {
       de: ["Kühles Klima", "Kaffeeanbau", "Holzwirtschaft", "Grenznähe zu Honduras"],
@@ -1967,9 +1897,8 @@ image: "/poi-images/san-fernando-nueva-segovia-cities-v2.webp"
     type: "city",
     parent: "NI-NS",
     coords: [-86.15, 13.73],
-    name: { de: "El Jícaro", hu: "El Jícaro", ro: "El Jícaro", en: "El Jícaro",
-image: "/poi-images/el-jicaro-nueva-segovia-cities-v2.webp"
-},
+    name: { de: "El Jícaro", hu: "El Jícaro", ro: "El Jícaro", en: "El Jícaro"},
+    image: "/poi-images/el-jicaro-nueva-segovia-cities-v2.webp",
     description: { de: "Historische Gemeinde, bekannt für ihre Rolle im Sandino-Aufstand.", hu: "Történelmi község, amely a Sandino-felkelésben játszott szerepéről ismert.", ro: "Municipalitate istorică, cunoscută pentru rolul său în rebeliunea lui Sandino.", en: "Historic municipality known for its role in the Sandino rebellion." },
     facts: {
       de: ["Historischer Widerstandsort", "Goldabbau in kleinem Maßstab", "Ländliche Gemeinde", "Trockenes Klima"],
@@ -1995,9 +1924,8 @@ image: "/poi-images/el-jicaro-nueva-segovia-cities-v2.webp"
     type: "city",
     parent: "NI-AN",
     coords: [-83.8, 14.3],
-    name: { de: "Almicamba", hu: "Almicamba", ro: "Almicamba", en: "Almicamba",
-image: "/poi-images/almicamba-cities-v2.webp"
-},
+    name: { de: "Almicamba", hu: "Almicamba", ro: "Almicamba", en: "Almicamba"},
+    image: "/poi-images/almicamba-cities-v2.webp",
     description: { de: "Ein Dorf am Río Coco in der autonomen Region der Nordkaribikküste.", hu: "Falu a Coco-folyó mentén az Észak-Karibi Autonóm Régióban.", ro: "Un sat pe râul Coco în Regiunea Autonomă a Coastei de Nord a Caraibelor.", en: "A village on the Coco River in the North Caribbean Coast Autonomous Region." },
     facts: {
       de: ["Miskito-Gemeinde", "Flusstransport", "Subsistenzwirtschaft", "Reiche Biodiversität"],
@@ -2023,9 +1951,8 @@ image: "/poi-images/almicamba-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-83.55, 12.9],
-    name: { de: "Desembocadura de Río Grande", hu: "Desembocadura de Río Grande", ro: "Desembocadura de Río Grande", en: "Desembocadura de Río Grande",
-image: "/poi-images/desembocadura-de-rio-grande-cities-v2.webp"
-},
+    name: { de: "Desembocadura de Río Grande", hu: "Desembocadura de Río Grande", ro: "Desembocadura de Río Grande", en: "Desembocadura de Río Grande"},
+    image: "/poi-images/desembocadura-de-rio-grande-cities-v2.webp",
     description: { de: "Gemeinde an der Mündung des Río Grande de Matagalpa.", hu: "Község a Río Grande de Matagalpa torkolatánál.", ro: "Municipalitate la gura de vărsare a râului Grande de Matagalpa.", en: "Municipality at the mouth of the Río Grande de Matagalpa." },
     facts: {
       de: ["Fischereigemeinden", "Vielfältige Kulturen (Miskito, Kreol, Mestize)", "Bootsverkehr", "Mangrovenwälder"],
@@ -2051,9 +1978,8 @@ image: "/poi-images/desembocadura-de-rio-grande-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-83.04, 12.17],
-    name: { de: "Corn Island", hu: "Corn Island", ro: "Corn Island", en: "Corn Island",
-image: "/poi-images/corn-island-cities-v2.webp"
-},
+    name: { de: "Corn Island", hu: "Corn Island", ro: "Corn Island", en: "Corn Island"},
+    image: "/poi-images/corn-island-cities-v2.webp",
     description: { de: "Hauptort der Corn Islands, ein karibisches Paradies.", hu: "A Corn-szigetek fő helysége, egy karibi paradicsom.", ro: "Principalul oraș al Insulelor Corn, un paradis caraibian.", en: "Main town of the Corn Islands, a Caribbean paradise." },
     facts: {
       de: ["Tourismuszentrum", "Flughafen", "Kokosnussproduktion", "Kreolische und englische Sprache"],
@@ -2079,9 +2005,8 @@ image: "/poi-images/corn-island-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-84.2, 13.2],
-    name: { de: "La Cruz de Río Grande", hu: "La Cruz de Río Grande", ro: "La Cruz de Río Grande", en: "La Cruz de Río Grande",
-image: "/poi-images/la-cruz-de-rio-grande-cities-v2.webp"
-},
+    name: { de: "La Cruz de Río Grande", hu: "La Cruz de Río Grande", ro: "La Cruz de Río Grande", en: "La Cruz de Río Grande"},
+    image: "/poi-images/la-cruz-de-rio-grande-cities-v2.webp",
     description: { de: "Eine abgelegene Gemeinde im Inneren der Südkaribikküste.", hu: "Elszigetelt község a Dél-Karibi partvidék belső részén.", ro: "O municipalitate izolată în interiorul coastei de sud a Caraibelor.", en: "A remote municipality in the interior of the South Caribbean Coast." },
     facts: {
       de: ["Viehzucht", "Landwirtschaftliche Besiedlung", "Flusstransport", "Reiche Natur"],
@@ -2107,9 +2032,8 @@ image: "/poi-images/la-cruz-de-rio-grande-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-84.1, 12.7],
-    name: { de: "El Tortuguero", hu: "El Tortuguero", ro: "El Tortuguero", en: "El Tortuguero",
-image: "/poi-images/el-tortuguero-cities-v2.webp"
-},
+    name: { de: "El Tortuguero", hu: "El Tortuguero", ro: "El Tortuguero", en: "El Tortuguero"},
+    image: "/poi-images/el-tortuguero-cities-v2.webp",
     description: { de: "Eine junge Gemeinde, die für ihre Flüsse und ihre Natur bekannt ist.", hu: "Fiatal község, amely folyóiról és természetéről ismert.", ro: "O municipalitate tânără, cunoscută pentru râurile și natura sa.", en: "A young municipality known for its rivers and its nature." },
     facts: {
       de: ["'Land der Flüsse'", "Viehzucht", "Subsistenzlandwirtschaft", "Große Biodiversität"],
@@ -2135,9 +2059,8 @@ image: "/poi-images/el-tortuguero-cities-v2.webp"
     type: "city",
     parent: "NI-AS",
     coords: [-84.7, 12.8],
-    name: { de: "Paiwas", hu: "Paiwas", ro: "Paiwas", en: "Paiwas",
-image: "/poi-images/paiwas-cities-v2.webp"
-},
+    name: { de: "Paiwas", hu: "Paiwas", ro: "Paiwas", en: "Paiwas"},
+    image: "/poi-images/paiwas-cities-v2.webp",
     description: { de: "Eine ländliche Gemeinde, die die Departements Matagalpa und die Karibikküste verbindet.", hu: "Vidéki község, amely összeköti Matagalpa megyét és a karibi partvidéket.", ro: "O comunitate rurală care leagă departamentul Matagalpa de coasta Caraibelor.", en: "A rural municipality connecting the department of Matagalpa and the Caribbean coast." },
     facts: {
       de: ["Hauptstadt: Bocana de Paiwas", "Viehzucht und Landwirtschaft", "Übergangszone", "Fluss Grande de Matagalpa"],
@@ -2163,9 +2086,8 @@ image: "/poi-images/paiwas-cities-v2.webp"
     type: "city",
     parent: "NI-SJ",
     coords: [-85.1, 11.55],
-    name: { de: "Morrito", hu: "Morrito", ro: "Morrito", en: "Morrito",
-image: "/poi-images/morrito-rio-san-juan-cities-v2.webp"
-},
+    name: { de: "Morrito", hu: "Morrito", ro: "Morrito", en: "Morrito"},
+    image: "/poi-images/morrito-rio-san-juan-cities-v2.webp",
     description: { de: "Eine kleine Hafenstadt am Nicaraguasee.", hu: "Kis kikötőváros a Nicaragua-tónál.", ro: "Un mic oraș-port pe Lacul Nicaragua.", en: "A small port town on Lake Nicaragua." },
     facts: {
       de: ["Fischerei", "Viehzucht", "Blick auf Ometepe", "Ländliche Ruhe"],
@@ -2191,9 +2113,8 @@ image: "/poi-images/morrito-rio-san-juan-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.8, 11.45],
-    name: { de: "San Jorge", hu: "San Jorge", ro: "San Jorge", en: "San Jorge",
-image: "/poi-images/san-jorge-rivas-cities-v2.webp"
-},
+    name: { de: "San Jorge", hu: "San Jorge", ro: "San Jorge", en: "San Jorge"},
+    image: "/poi-images/san-jorge-rivas-cities-v2.webp",
     description: { de: "Der Haupthafen für die Fährverbindung zur Insel Ometepe.", hu: "A fő kikötő az Ometepe-szigetre tartó kompok számára.", ro: "Principalul port pentru feriboturile către insula Ometepe.", en: "The main port for ferry service to Ometepe Island." },
     facts: {
       de: ["Fährhafen nach Ometepe", "Touristische Aktivität", "Handel", "Historischer Ort (Vertragsunterzeichnung)"],
@@ -2219,9 +2140,8 @@ image: "/poi-images/san-jorge-rivas-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.88, 11.5],
-    name: { de: "Belén", hu: "Belén", ro: "Belén", en: "Belén",
-image: "/poi-images/belen-rivas-cities-v2.webp"
-},
+    name: { de: "Belén", hu: "Belén", ro: "Belén", en: "Belén"},
+    image: "/poi-images/belen-rivas-cities-v2.webp",
     description: { de: "Eine kleine landwirtschaftliche Gemeinde im Departement Rivas.", hu: "Kis mezőgazdasági község Rivas megyében.", ro: "O mică municipalitate agricolă în departamentul Rivas.", en: "A small agricultural municipality in the department of Rivas." },
     facts: {
       de: ["Anbau von Kochbananen und Zuckerrohr", "Ländliches Leben", "Nahe Rivas Stadt", "Traditionelle Kultur"],
@@ -2247,9 +2167,8 @@ image: "/poi-images/belen-rivas-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.85, 11.53],
-    name: { de: "Potosí", hu: "Potosí", ro: "Potosí", en: "Potosí",
-image: "/poi-images/potosi-rivas-cities-v2.webp"
-},
+    name: { de: "Potosí", hu: "Potosí", ro: "Potosí", en: "Potosí"},
+    image: "/poi-images/potosi-rivas-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Rivas, die sich der Landwirtschaft widmet.", hu: "Rivas megyei község, amely mezőgazdasággal foglalkozik.", ro: "O municipalitate în departamentul Rivas, dedicată agriculturii.", en: "A municipality in the department of Rivas dedicated to agriculture." },
     facts: {
       de: ["Landwirtschaft", "Viehzucht", "Ländliche Gemeinde", "Ruhige Atmosphäre"],
@@ -2275,9 +2194,8 @@ image: "/poi-images/potosi-rivas-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.81, 11.56],
-    name: { de: "Buenos Aires", hu: "Buenos Aires", ro: "Buenos Aires", en: "Buenos Aires",
-image: "/poi-images/buenos-aires-rivas-cities-v2.webp"
-},
+    name: { de: "Buenos Aires", hu: "Buenos Aires", ro: "Buenos Aires", en: "Buenos Aires"},
+    image: "/poi-images/buenos-aires-rivas-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde am Ufer des Nicaraguasees.", hu: "Kis község a Nicaragua-tó partján.", ro: "O mică municipalitate pe malul Lacului Nicaragua.", en: "A small municipality on the shores of Lake Nicaragua." },
     facts: {
       de: ["Blick auf Ometepe", "Fischerei", "Landwirtschaft", "Ruhige Strände"],
@@ -2303,9 +2221,8 @@ image: "/poi-images/buenos-aires-rivas-cities-v2.webp"
     type: "city",
     parent: "NI-RI",
     coords: [-85.5, 11.19],
-    name: { de: "Cárdenas", hu: "Cárdenas", ro: "Cárdenas", en: "Cárdenas",
-image: "/poi-images/cardenas-rivas-cities-v2.webp"
-},
+    name: { de: "Cárdenas", hu: "Cárdenas", ro: "Cárdenas", en: "Cárdenas"},
+    image: "/poi-images/cardenas-rivas-cities-v2.webp",
     description: { de: "Eine Grenzgemeinde zu Costa Rica am Ufer des Nicaraguasees.", hu: "Határközség Costa Ricával, a Nicaragua-tó partján.", ro: "O municipalitate de frontieră cu Costa Rica, pe malul Lacului Nicaragua.", en: "A border municipality with Costa Rica on the shores of Lake Nicaragua." },
     facts: {
       de: ["Grenzübergang", "Viehzucht", "Fischerei", "Abgelegene Lage"],
@@ -2331,9 +2248,8 @@ image: "/poi-images/cardenas-rivas-cities-v2.webp"
     type: "city",
     parent: "NI-MD",
     coords: [-86.35, 13.53],
-    name: { de: "Telpaneca", hu: "Telpaneca", ro: "Telpaneca", en: "Telpaneca",
-image: "/poi-images/telpaneca-madriz-cities-v2.webp"
-},
+    name: { de: "Telpaneca", hu: "Telpaneca", ro: "Telpaneca", en: "Telpaneca"},
+    image: "/poi-images/telpaneca-madriz-cities-v2.webp",
     description: { de: "Eine alte indigene Gemeinde im Departement Madriz.", hu: "Ősi őslakos község Madriz megyében.", ro: "O veche comunitate indigenă în departamentul Madriz.", en: "An ancient indigenous community in the department of Madriz." },
     facts: {
       de: ["Indigene Wurzeln", "Handwerk (Töpferei)", "Am Ufer des Coco-Flusses", "Kulturelle Traditionen"],
@@ -2359,9 +2275,8 @@ image: "/poi-images/telpaneca-madriz-cities-v2.webp"
     type: "city",
     parent: "NI-MD",
     coords: [-86.16, 13.54],
-    name: { de: "San Juan del Río Coco", hu: "San Juan del Río Coco", ro: "San Juan del Río Coco", en: "San Juan del Río Coco",
-image: "/poi-images/san-juan-de-rio-coco-madriz-cities-v2.webp"
-},
+    name: { de: "San Juan del Río Coco", hu: "San Juan del Río Coco", ro: "San Juan del Río Coco", en: "San Juan del Río Coco"},
+    image: "/poi-images/san-juan-de-rio-coco-madriz-cities-v2.webp",
     description: { de: "Eine wichtige Kaffeeanbau-Gemeinde in den Bergen von Madriz.", hu: "Fontos kávétermesztő község Madriz hegyeiben.", ro: "O importantă municipalitate cultivatoare de cafea în munții din Madriz.", en: "An important coffee-growing municipality in the mountains of Madriz." },
     facts: {
       de: ["Qualitätskaffee", "Kühles Bergklima", "Wunderschöne Landschaft", "Ländlicher Tourismus"],
@@ -2387,9 +2302,8 @@ image: "/poi-images/san-juan-de-rio-coco-madriz-cities-v2.webp"
     type: "city",
     parent: "NI-MD",
     coords: [-86.65, 13.28],
-    name: { de: "San José de Cusmapa", hu: "San José de Cusmapa", ro: "San José de Cusmapa", en: "San José de Cusmapa",
-image: "/poi-images/san-jose-de-cusmapa-madriz-cities-v2.webp"
-},
+    name: { de: "San José de Cusmapa", hu: "San José de Cusmapa", ro: "San José de Cusmapa", en: "San José de Cusmapa"},
+    image: "/poi-images/san-jose-de-cusmapa-madriz-cities-v2.webp",
     description: { de: "Die höchstgelegene Gemeinde Nicaraguas, bekannt für ihre Kiefernwälder.", hu: "Nicaragua legmagasabban fekvő községe, fenyőerdeiről ismert.", ro: "Cea mai înaltă municipalitate din Nicaragua, cunoscută pentru pădurile sale de pini.", en: "The highest municipality in Nicaragua, known for its pine forests." },
     facts: {
       de: ["Höchster Punkt Nicaraguas", "Kiefernwälder", "'Balkon Nicaraguas'", "Kühles Klima"],
@@ -2415,9 +2329,8 @@ image: "/poi-images/san-jose-de-cusmapa-madriz-cities-v2.webp"
     type: "city",
     parent: "NI-MD",
     coords: [-86.5, 13.5],
-    name: { de: "Yalagüina", hu: "Yalagüina", ro: "Yalagüina", en: "Yalagüina",
-image: "/poi-images/yalaguina-madriz-cities-v2.webp"
-},
+    name: { de: "Yalagüina", hu: "Yalagüina", ro: "Yalagüina", en: "Yalagüina"},
+    image: "/poi-images/yalaguina-madriz-cities-v2.webp",
     description: { de: "Eine Gemeinde in der Nähe von Somoto, bekannt für ihre Rosquillas.", hu: "Somoto közelében fekvő község, amely Rosquilláiról ismert.", ro: "O municipalitate lângă Somoto, cunoscută pentru Rosquillas.", en: "A municipality near Somoto, known for its rosquillas." },
     facts: {
       de: ["Herstellung von Rosquillas", "Indigene Herkunft", "Trockenes Klima", "Landwirtschaft"],
@@ -2443,9 +2356,8 @@ image: "/poi-images/yalaguina-madriz-cities-v2.webp"
     type: "city",
     parent: "NI-MD",
     coords: [-86.43, 13.55],
-    name: { de: "Totogalpa", hu: "Totogalpa", ro: "Totogalpa", en: "Totogalpa",
-image: "/poi-images/totogalpa-madriz-cities-v2.webp"
-},
+    name: { de: "Totogalpa", hu: "Totogalpa", ro: "Totogalpa", en: "Totogalpa"},
+    image: "/poi-images/totogalpa-madriz-cities-v2.webp",
     description: { de: "Eine indigene Gemeinde, die für ihre Bemühungen um nachhaltige Entwicklung bekannt ist.", hu: "Őslakos község, amely a fenntartható fejlődésre irányuló erőfeszítéseiről ismert.", ro: "O comunitate indigenă cunoscută pentru eforturile sale în dezvoltarea durabilă.", en: "An indigenous community known for its efforts in sustainable development." },
     facts: {
       de: ["Nachhaltige Projekte", "Indigene Kultur", "Töpferei", "Alternative Energien"],
@@ -2471,9 +2383,8 @@ image: "/poi-images/totogalpa-madriz-cities-v2.webp"
     type: "city",
     parent: "NI-MD",
     coords: [-86.41, 13.46],
-    name: { de: "Palacagüina", hu: "Palacagüina", ro: "Palacagüina", en: "Palacagüina",
-image: "/poi-images/palacaguina-madriz-cities-v2.webp"
-},
+    name: { de: "Palacagüina", hu: "Palacagüina", ro: "Palacagüina", en: "Palacagüina"},
+    image: "/poi-images/palacaguina-madriz-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde, die durch das Lied 'Cristo ya nació en Palacagüina' berühmt wurde.", hu: "Kis község, amelyet a 'Cristo ya nació en Palacagüina' című dal tett híressé.", ro: "O mică municipalitate făcută celebră de cântecul 'Cristo ya nació en Palacagüina'.", en: "A small municipality made famous by the song 'Cristo ya nació en Palacagüina'." },
     facts: {
       de: ["Kulturelle Berühmtheit", "Landwirtschaft", "An der Panamericana", "Religiöse Traditionen"],
@@ -2499,9 +2410,8 @@ image: "/poi-images/palacaguina-madriz-cities-v2.webp"
     type: "city",
     parent: "NI-LE",
     coords: [-86.25, 12.8],
-    name: { de: "Santa Rosa del Peñón", hu: "Santa Rosa del Peñón", ro: "Santa Rosa del Peñón", en: "Santa Rosa del Peñón",
-image: "/poi-images/santa-rosa-del-penon-leon-cities-v2.webp"
-},
+    name: { de: "Santa Rosa del Peñón", hu: "Santa Rosa del Peñón", ro: "Santa Rosa del Peñón", en: "Santa Rosa del Peñón"},
+    image: "/poi-images/santa-rosa-del-penon-leon-cities-v2.webp",
     description: { de: "Eine Bergbaugemeinde im Departement León.", hu: "Bányászati község León megyében.", ro: "O municipalitate minieră în departamentul León.", en: "A mining municipality in the department of León." },
     facts: {
       de: ["Goldabbau in kleinem Maßstab", "Ländliche, abgelegene Gegend", "Trockenes Klima", "Viehzucht"],
@@ -2527,9 +2437,8 @@ image: "/poi-images/santa-rosa-del-penon-leon-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-87.16, 12.54],
-    name: { de: "El Realejo", hu: "El Realejo", ro: "El Realejo", en: "El Realejo",
-image: "/poi-images/el-realejo-chinandega-cities-v2.webp"
-},
+    name: { de: "El Realejo", hu: "El Realejo", ro: "El Realejo", en: "El Realejo"},
+    image: "/poi-images/el-realejo-chinandega-cities-v2.webp",
     description: { de: "Einst der wichtigste Hafen Nicaraguas an der Pazifikküste während der Kolonialzeit.", hu: "Egykor Nicaragua legfontosabb csendes-óceáni kikötője volt a gyarmati időkben.", ro: "Odinioară cel mai important port al Nicaraguei la Pacific în perioada colonială.", en: "Once Nicaragua's most important Pacific port during the colonial era." },
     facts: {
       de: ["Historischer Hafen", "Von Piraten angegriffen", "Koloniale Ruinen", "Fischerei und Landwirtschaft"],
@@ -2555,9 +2464,8 @@ image: "/poi-images/el-realejo-chinandega-cities-v2.webp"
     type: "city",
     parent: "NI-CH",
     coords: [-86.88, 13.23],
-    name: { de: "Cinco Pinos", hu: "Cinco Pinos", ro: "Cinco Pinos", en: "Cinco Pinos",
-image: "/poi-images/cinco-pinos-chinandega-cities-v2.webp"
-},
+    name: { de: "Cinco Pinos", hu: "Cinco Pinos", ro: "Cinco Pinos", en: "Cinco Pinos"},
+    image: "/poi-images/cinco-pinos-chinandega-cities-v2.webp",
     description: { de: "Eine kleine, ländliche Gemeinde in den nördlichen Hügeln von Chinandega.", hu: "Kis, vidéki község Chinandega északi dombjai között.", ro: "O mică comunitate rurală în dealurile nordice ale Chinandegăi.", en: "A small, rural municipality in the northern hills of Chinandega." },
     facts: {
       de: ["Grenzgebiet zu Honduras", "Viehzucht", "Kaffeeanbau", "Ländliche Ruhe"],
@@ -2583,9 +2491,8 @@ image: "/poi-images/cinco-pinos-chinandega-cities-v2.webp"
     type: "city",
     parent: "NI-CO",
     coords: [-85.3, 12.2],
-    name: { de: "San Francisco de Cuapa", hu: "San Francisco de Cuapa", ro: "San Francisco de Cuapa", en: "San Francisco de Cuapa",
-image: "/poi-images/san-francisco-de-cuapa-chontales-cities-v2.webp"
-},
+    name: { de: "San Francisco de Cuapa", hu: "San Francisco de Cuapa", ro: "San Francisco de Cuapa", en: "San Francisco de Cuapa"},
+    image: "/poi-images/san-francisco-de-cuapa-chontales-cities-v2.webp",
     description: { de: "Ein Ort, der für die Marienerscheinungen in den 1980er Jahren bekannt ist.", hu: "Hely, amely az 1980-as évekbeli Mária-jelenésekről ismert.", ro: "Un loc cunoscut pentru aparițiile Fecioarei Maria din anii 1980.", en: "A place known for the Marian apparitions in the 1980s." },
     facts: {
       de: ["Wallfahrtsort", "Ländliche Gemeinde", "Viehzucht", "Religiöse Bedeutung"],
@@ -2611,9 +2518,8 @@ image: "/poi-images/san-francisco-de-cuapa-chontales-cities-v2.webp"
     type: "city",
     parent: "NI-CO",
     coords: [-85.08, 12.26],
-    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo",
-image: "/poi-images/santo-domingo-chontales-cities-v2.webp"
-},
+    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo"},
+    image: "/poi-images/santo-domingo-chontales-cities-v2.webp",
     description: { de: "Eine historische Bergbaustadt in den Hügeln von Chontales.", hu: "Történelmi bányaváros Chontales dombjai között.", ro: "Un oraș minier istoric în dealurile din Chontales.", en: "A historic mining town in the hills of Chontales." },
     facts: {
       de: ["Goldabbau", "Ländliche Umgebung", "Kulturelle Traditionen", "Bergbaustollen"],
@@ -2639,9 +2545,8 @@ image: "/poi-images/santo-domingo-chontales-cities-v2.webp"
     type: "city",
     parent: "NI-CO",
     coords: [-85.16, 12.22],
-    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad",
-image: "/poi-images/la-libertad-chontales-cities-v2.webp"
-},
+    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad"},
+    image: "/poi-images/la-libertad-chontales-cities-v2.webp",
     description: { de: "Geburtsort des ehemaligen Präsidenten Daniel Ortega.", hu: "Daniel Ortega volt elnök szülőhelye.", ro: "Locul de naștere al fostului președinte Daniel Ortega.", en: "Birthplace of former president Daniel Ortega." },
     facts: {
       de: ["Historischer Goldabbau", "Politische Bedeutung", "Viehzucht", "Berglandschaft"],
@@ -2667,9 +2572,8 @@ image: "/poi-images/la-libertad-chontales-cities-v2.webp"
     type: "city",
     parent: "NI-BO",
     coords: [-85.8, 12.41],
-    name: { de: "Teustepe", hu: "Teustepe", ro: "Teustepe", en: "Teustepe",
-image: "/poi-images/teustepe-boaco-cities-v2.webp"
-},
+    name: { de: "Teustepe", hu: "Teustepe", ro: "Teustepe", en: "Teustepe"},
+    image: "/poi-images/teustepe-boaco-cities-v2.webp",
     description: { de: "Eine ländliche Gemeinde im trockenen Gebiet von Boaco.", hu: "Vidéki község Boaco száraz területén.", ro: "O comunitate rurală în zona aridă a departamentului Boaco.", en: "A rural municipality in the dry area of Boaco." },
     facts: {
       de: ["Viehzucht", "Trockenes Klima", "Traditionelle Landwirtschaft", "Historische Petroglyphen"],
@@ -2695,9 +2599,8 @@ image: "/poi-images/teustepe-boaco-cities-v2.webp"
     type: "city",
     parent: "NI-BO",
     coords: [-85.71, 12.53],
-    name: { de: "Santa Lucía", hu: "Santa Lucía", ro: "Santa Lucía", en: "Santa Lucía",
-image: "/poi-images/santa-lucia-boaco-cities-v2.webp"
-},
+    name: { de: "Santa Lucía", hu: "Santa Lucía", ro: "Santa Lucía", en: "Santa Lucía"},
+    image: "/poi-images/santa-lucia-boaco-cities-v2.webp",
     description: { de: "Eine kleine Kaffeegemeinde in den höheren Lagen von Boaco.", hu: "Kis kávéközség Boaco magasabban fekvő területein.", ro: "O mică comunitate cultivatoare de cafea în zonele înalte ale departamentului Boaco.", en: "A small coffee municipality in the higher elevations of Boaco." },
     facts: {
       de: ["Kaffeeanbau", "Ländliche Gemeinde", "Kühleres Klima als die Umgebung", "Berglandschaft"],
@@ -2723,9 +2626,8 @@ image: "/poi-images/santa-lucia-boaco-cities-v2.webp"
     type: "city",
     parent: "NI-BO",
     coords: [-85.51, 12.38],
-    name: { de: "Camoapa", hu: "Camoapa", ro: "Camoapa", en: "Camoapa",
-image: "/poi-images/camopa-boaco-cities-v2.webp"
-},
+    name: { de: "Camoapa", hu: "Camoapa", ro: "Camoapa", en: "Camoapa"},
+    image: "/poi-images/camopa-boaco-cities-v2.webp",
     description: { de: "Bekannt für seine Sombrero-Herstellung und Viehzucht.", hu: "Sombrero-készítéséről és állattenyésztéséről ismert.", ro: "Cunoscut pentru producția de sombreros și creșterea vitelor.", en: "Known for its sombrero production and cattle ranching." },
     facts: {
       de: ["'Hauptstadt des Sombreros'", "Viehmarkt", "Handwerkliche Produktion", "Starke lokale Kultur"],
@@ -2751,9 +2653,8 @@ image: "/poi-images/camopa-boaco-cities-v2.webp"
     type: "city",
     parent: "NI-BO",
     coords: [-85.75, 12.6],
-    name: { de: "San José de los Remates", hu: "San José de los Remates", ro: "San José de los Remates", en: "San José de los Remates",
-image: "/poi-images/san-jose-de-los-remates-boaco-cities-v2.webp"
-},
+    name: { de: "San José de los Remates", hu: "San José de los Remates", ro: "San José de los Remates", en: "San José de los Remates"},
+    image: "/poi-images/san-jose-de-los-remates-boaco-cities-v2.webp",
     description: { de: "Eine Gemeinde in den Bergen von Boaco, umgeben von Natur.", hu: "Község Boaco hegyeiben, természettel körülvéve.", ro: "O municipalitate în munții din Boaco, înconjurată de natură.", en: "A municipality in the mountains of Boaco, surrounded by nature." },
     facts: {
       de: ["Kaffeeanbau", "Naturreservate", "Wasserfälle", "Ökotourismus"],

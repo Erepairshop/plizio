@@ -11,9 +11,8 @@ export const poiExtraLibyaEconomicV2: POI[] = [
       de: "Hafen von Tripolis",
       hu: "Tripoli kikötője",
       ro: "Portul Tripoli",
-      en: "Port of Tripoli",
-image: "/poi-images/port-of-tripoli-economic-v2.webp"
-},
+      en: "Port of Tripoli"},
+    image: "/poi-images/port-of-tripoli-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Port of Tripoli is Libya's primary maritime gateway, handling the vast majority of the nation's imported general cargo and consumer goods. Located directly adjacent to the historic center of the capital, the port's massive breakwaters and container terminals dominate the city's coastline. It is a critical lifeline for the country's economy, ensuring the steady flow of food, machinery, and vehicles into the Tripolitania region. The port's continuous operation is a major priority for national security. Economics K8 — maritime trade and national imports.",
       de: "Hafen von Tripolis ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Tripolis ist der größte Seehafen Libyens und das wichtigste Zentrum für den internationalen Handel des Landes. Größter Hafen Libyens. Wichtiges Handelszentrum. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -50,9 +49,8 @@ image: "/poi-images/port-of-tripoli-economic-v2.webp"
       de: "Hafen von Bengasi",
       hu: "Bengázi kikötő",
       ro: "Portul Benghazi",
-      en: "Port of Benghazi",
-image: "/poi-images/port-of-benghazi-economic-v2.webp"
-},
+      en: "Port of Benghazi"},
+    image: "/poi-images/port-of-benghazi-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Port of Benghazi serves as the indispensable commercial lifeline for eastern Libya and the broader Cyrenaica region. Reopened and modernized after periods of severe conflict, the port now handles massive volumes of container traffic, construction materials, and food imports. It sits perfectly integrated into the city's coastline, providing thousands of jobs and driving the regional economy. Its strategic location makes it the primary competitor to the ports in the west. Economics K8 — regional maritime logistics.",
       de: "Hafen von Bengasi ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Bengasi an der Mittelmeerküste ist ein bedeutendes Wirtschaftszentrum in der Region Kyrenaika. Zweitgrößter Hafen des Landes. Liegt in der Region Kyrenaika. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -89,9 +87,8 @@ image: "/poi-images/port-of-benghazi-economic-v2.webp"
       de: "Freihandelszone und Hafen von Misrata",
       hu: "Miszráta kikötő és szabadkereskedelmi övezet",
       ro: "Portul și zona liberă Misrata",
-      en: "Misrata Free Zone and Port",
-image: "/poi-images/misrata-port-economic-v2.webp"
-},
+      en: "Misrata Free Zone and Port"},
+    image: "/poi-images/misrata-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Misrata Free Zone and Port is arguably Libya's most successful modern economic project, transforming the city into an international trade powerhouse. Established in 2000, the Free Zone offers tax incentives that have attracted immense foreign investment and light manufacturing. The deep-water port of Qasr Ahmed handles massive container ships, functioning as a regional transshipment hub for North Africa. This dual-purpose facility is the engine driving Misrata's robust economy. Economics K8 — free trade zones and transshipment.",
       de: "Freihandelszone und Hafen von Misrata ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Misrata beherbergt die erste Freihandelszone Libyens und spielt eine Schlüsselrolle für Importe und Exporte. Erste Freihandelszone Libyens. Wichtiger Containerhafen. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -128,9 +125,8 @@ image: "/poi-images/misrata-port-economic-v2.webp"
       de: "Hafen von Al-Chums",
       hu: "Al-Humsz kikötő",
       ro: "Portul Al-Khums",
-      en: "Al Khums Port",
-image: "/poi-images/al-khums-port-economic-v2.webp"
-},
+      en: "Al Khums Port"},
+    image: "/poi-images/al-khums-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "Al Khums Port is a highly specialized maritime facility, known primarily for its enormous capacity to handle imported vehicles and roll-on/roll-off (RoRo) cargo. Located east of Tripoli, it acts as a massive parking and distribution center for cars entering the Libyan market. Beyond vehicles, the port also supports local fishing fleets and handles regional agricultural exports. Its specific focus on automotive imports makes it a unique and vital node in the national economy. Economics K7 — specialized maritime cargo.",
       de: "Hafen von Al-Chums ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Al-Chums ist ein strategisch wichtiger Seehafen in Nordwest-Libyen, der hauptsächlich Stückgut und Container umschlägt. Liegt in Nordwest-Libyen. Wichtiger Containerumschlag. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -167,9 +163,8 @@ image: "/poi-images/al-khums-port-economic-v2.webp"
       de: "Hafen von Tobruk",
       hu: "Tobruki kikötő",
       ro: "Portul Tobruk",
-      en: "Port of Tobruk",
-image: "/poi-images/tobruk-port-economic-v2.webp"
-},
+      en: "Port of Tobruk"},
+    image: "/poi-images/tobruk-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Port of Tobruk boasts one of the finest natural deep-water harbors in North Africa, heavily protected from Mediterranean storms. While historically famous for its naval significance during World War II, today it is a critical commercial and oil-exporting hub. Located near the Egyptian border, it facilitates significant international trade for the extreme east of the country. The port is essential for exporting crude oil pumped from the massive Sarir field deep in the desert. Economics K8 — natural harbors and oil export.",
       de: "Hafen von Tobruk ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Tobruk profitiert von seinem tiefen, natürlichen Ankerplatz und ist ein bedeutender Handelsknotenpunkt nahe der ägyptischen Grenze. Tiefer natürlicher Hafen. Nahe der ägyptischen Grenze. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -206,9 +201,8 @@ image: "/poi-images/tobruk-port-economic-v2.webp"
       de: "Hafen von Derna",
       hu: "Derna kikötője",
       ro: "Portul Derna",
-      en: "Port of Derna",
-image: "/poi-images/derna-port-economic-v2.webp"
-},
+      en: "Port of Derna"},
+    image: "/poi-images/derna-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Port of Derna is a small but historically vital maritime facility nestled between the Mediterranean Sea and the steep Jabal al Akhdar mountains. Historically serving the local agricultural and fishing communities, its capacity is limited compared to massive hubs like Misrata or Benghazi. The port suffered catastrophic damage during the 2023 floods when the city's dams collapsed, washing immense debris into the harbor. Recovery and dredging efforts are ongoing to restore this local lifeline. Geography K8 — maritime infrastructure and natural disasters.",
       de: "Hafen von Derna ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Derna dient als regionaler Handelsknotenpunkt für die östliche Küstenregion Libyens. Regionaler Handelshafen. Liegt an der Ostküste. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -245,9 +239,8 @@ image: "/poi-images/derna-port-economic-v2.webp"
       de: "Ölhafen Ras Lanuf",
       hu: "Ras Lanuf olajkikötő",
       ro: "Portul petrolier Ras Lanuf",
-      en: "Ras Lanuf Oil Port",
-image: "/poi-images/ras-lanuf-port-economic-v2.webp"
-},
+      en: "Ras Lanuf Oil Port"},
+    image: "/poi-images/ras-lanuf-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Ras Lanuf Oil Port is a critical node in Libya's petroleum export infrastructure, situated strategically on the Gulf of Sidra. Connected directly to massive inland oil fields, the port can load multiple supertankers simultaneously via offshore mooring buoys. The adjacent petrochemical complex processes significant quantities of crude, making this a dual-purpose heavy industry zone. Because of its sheer economic weight, Ras Lanuf has frequently been the center of fierce battles during national conflicts. Economics K8 — petroleum export infrastructure.",
       de: "Ölhafen Ras Lanuf ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Ölhafen Ras Lanuf ist einer der wichtigsten libyschen Exporthäfen für Rohöl, angeschlossen an die großen Ölfelder des Sirte-Beckens. Wichtiger Öl-Exporthafen. Verbund mit dem Sirte-Becken. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -284,9 +277,8 @@ image: "/poi-images/ras-lanuf-port-economic-v2.webp"
       de: "Hafen von Marsa el-Brega",
       hu: "Marsza el-Brega kikötő",
       ro: "Portul Marsa el-Brega",
-      en: "Marsa el Brega Port",
-image: "/poi-images/marsa-el-brega-port-economic-v2.webp"
-},
+      en: "Marsa el Brega Port"},
+    image: "/poi-images/marsa-el-brega-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "Marsa el Brega is heavily specialized in the export of both crude oil and liquefied natural gas (LNG), functioning as the primary terminus for pipelines originating in the Sirte Basin. Beyond crude, it hosts significant petrochemical facilities producing ammonia and urea. The entire town was essentially built to serve the port and its associated industries. The intricate network of pipelines meeting at Brega makes it one of the most vital economic chokepoints in North Africa. Economics K8 — LNG and petrochemical exports.",
       de: "Hafen von Marsa el-Brega ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Marsa el-Brega ist ein Zentrum für den Export von Erdgas und petrochemischen Produkten aus der libyschen Wüste. Zentrum für Erdgasexport. Wichtig für Petrochemie. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -323,9 +315,8 @@ image: "/poi-images/marsa-el-brega-port-economic-v2.webp"
       de: "Ölterminal Zueitina",
       hu: "Zueitina olajterminál",
       ro: "Terminalul petrolier Zueitina",
-      en: "Zueitina Oil Terminal",
-image: "/poi-images/zueitina-oil-terminal-economic-v2.webp"
-},
+      en: "Zueitina Oil Terminal"},
+    image: "/poi-images/zueitina-oil-terminal-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Zueitina Oil Terminal is positioned south of Benghazi and serves as the main export point for crude pumped from the inland Intisar and Amal fields. The terminal features several massive storage tanks and offshore loading berths capable of handling massive crude carriers. Unlike mixed-use ports, Zueitina is strictly a hydrocarbons facility. Its operation is heavily reliant on the stability of the long-distance pipelines crossing the eastern desert. Economics K7 — crude oil storage and loading.",
       de: "Ölterminal Zueitina ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Ölterminal Zueitina ist ein wichtiger Verschiffungspunkt für libysches Rohöl, das über Pipelines aus den südlichen Feldern herangeführt wird. Wichtiges Rohöl-Terminal. Wird über Pipelines versorgt. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -362,9 +353,8 @@ image: "/poi-images/zueitina-oil-terminal-economic-v2.webp"
       de: "Hafen von Zawiya",
       hu: "Závíja kikötője",
       ro: "Portul Zawiya",
-      en: "Zawiya Port",
-image: "/poi-images/zawiya-port-economic-v2.webp"
-},
+      en: "Zawiya Port"},
+    image: "/poi-images/zawiya-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "Zawiya Port is intricately linked with the Zawiya Oil Refinery, functioning as the primary maritime exit for refined petroleum products in western Libya. While other ports focus on raw crude, Zawiya handles the export of gasoline, diesel, and aviation fuel. Additionally, it serves as an import hub for specific fuel types needed by the Tripolitania region. The port's proximity to the capital ensures its continuous strategic and economic relevance. Economics K8 — refined petroleum logistics.",
       de: "Hafen von Zawiya ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafen von Zawiya dient in erster Linie dem Export von raffinierten Erdölprodukten, die in der nahegelegenen Raffinerie hergestellt werden. Export von Erdölprodukten. Direkt an die Raffinerie angeschlossen. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -401,9 +391,8 @@ image: "/poi-images/zawiya-port-economic-v2.webp"
       de: "Öl- und Gashafen Mellitah",
       hu: "Mellitah olaj- és gázkikötő",
       ro: "Portul de petrol și gaze Mellitah",
-      en: "Mellitah Oil and Gas Port",
-image: "/poi-images/mellitah-port-economic-v2.webp"
-},
+      en: "Mellitah Oil and Gas Port"},
+    image: "/poi-images/mellitah-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Mellitah Oil and Gas Port, located near Zuwara, is the crucial starting point for the Greenstream pipeline, which exports natural gas directly underneath the Mediterranean Sea to Italy. This facility is a joint venture between the Libyan state and international energy corporations, processing gas from both inland and offshore fields. Because it supplies energy directly to Europe, Mellitah holds massive geopolitical significance. The sprawling complex is highly visible, dominating the coastal landscape. Economics K8 — international gas pipelines and geopolitics.",
       de: "Öl- und Gashafen Mellitah ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Hafenkomplex Mellitah ist der Ausgangspunkt für die Greenstream-Pipeline, die Erdgas von Libyen nach Italien transportiert. Startpunkt der Greenstream-Pipeline. Exportiert Gas nach Italien. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -440,9 +429,8 @@ image: "/poi-images/mellitah-port-economic-v2.webp"
       de: "Ölterminal Es Sider",
       hu: "Es Sider olajterminál",
       ro: "Terminalul petrolier Es Sider",
-      en: "Es Sider Oil Terminal",
-image: "/poi-images/es-sider-terminal-economic-v2.webp"
-},
+      en: "Es Sider Oil Terminal"},
+    image: "/poi-images/es-sider-terminal-economic-v2.webp",
     descriptionAdvanced: {
       en: "Es Sider is historically the largest oil depot in Libya, boasting the highest export capacity of any terminal on the coast. Fed by pipelines from the massive Waha fields in the Sirte Basin, the terminal features rows of colossal storage tanks. During the country's civil conflicts, Es Sider saw catastrophic damage, with many of its tanks destroyed by artillery fire. The ongoing reconstruction and operation of this terminal dictate the overall health of the Libyan economy. Economics K8 — maximum capacity oil infrastructure.",
       de: "Ölterminal Es Sider ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Es Sider ist das größte Öl-Exportterminal in Libyen, zentral an der Küste des Golfs von Sidra gelegen. Größtes Öl-Exportterminal in Libyen. Liegt am Golf von Sidra. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -479,9 +467,8 @@ image: "/poi-images/es-sider-terminal-economic-v2.webp"
       de: "Ölfeld Sharara",
       hu: "Sharara olajmező",
       ro: "Câmpul petrolier Sharara",
-      en: "Sharara Oil Field",
-image: "/poi-images/sharara-oil-field-economic-v2.webp"
-},
+      en: "Sharara Oil Field"},
+    image: "/poi-images/sharara-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Sharara Oil Field, located deep in the Murzuq Desert of southwestern Libya, is one of the nation's largest and most productive oil assets. It consistently pumps hundreds of thousands of barrels per day, which travel via an extensive pipeline network to the Zawiya refinery on the coast. Because of its remote location, the field relies on a dedicated airport and massive logistical support. Blockades of Sharara by local groups frequently cause severe national economic crises. Geography K8 — deep desert oil extraction and pipelines.",
       de: "Ölfeld Sharara ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Sharara-Ölfeld in der Murzuq-Wüste ist eines der größten und produktivsten Ölfelder Libyens. Riesiges Ölfeld im Südwesten. Produziert leichtes Süßöl. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -518,9 +505,8 @@ image: "/poi-images/sharara-oil-field-economic-v2.webp"
       de: "Ölfeld El Feel",
       hu: "El Feel (Elefánt) olajmező",
       ro: "Câmpul petrolier El Feel",
-      en: "El Feel Oil Field",
-image: "/poi-images/el-feel-oil-field-economic-v2.webp"
-},
+      en: "El Feel Oil Field"},
+    image: "/poi-images/el-feel-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The El Feel (Elephant) Oil Field is another massive hydrocarbon asset located in the southwestern Murzuq Basin. It operates in tandem with the Sharara field, sharing much of the regional pipeline infrastructure heading north to the Mellitah complex. The extreme heat, isolation, and shifting sand dunes make operations here highly challenging, requiring specialized desert engineering. The field is a vital component of Libya's strategy to maintain high national production quotas. Economics K7 — desert hydrocarbon operations.",
       de: "Ölfeld El Feel ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das El Feel-Feld, auch als Elephant-Feld bekannt, ist eine bedeutende Quelle für libysches Rohöl aus der südwestlichen Wüste. Wird auch Elephant-Feld genannt. Gemeinschaftsprojekt mit Eni. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -557,9 +543,8 @@ image: "/poi-images/el-feel-oil-field-economic-v2.webp"
       de: "Ölfeld Waha",
       hu: "Waha olajmező",
       ro: "Câmpul petrolier Waha",
-      en: "Waha Oil Field",
-image: "/poi-images/waha-oil-field-economic-v2.webp"
-},
+      en: "Waha Oil Field"},
+    image: "/poi-images/waha-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Waha Oil Field is a sprawling network of extraction sites located in the Sirte Basin, historically forming the backbone of Libya's oil wealth. Discovered in the late 1950s, the field is characterized by its massive reserves of high-quality light, sweet crude. The infrastructure here is extensive, pumping oil directly to the Es Sider terminal on the coast. Despite its age, Waha remains one of the most reliable and productive concessions in the country. History K8 — history of Libyan oil discovery.",
       de: "Ölfeld Waha ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Waha-Ölfeld im Sirte-Becken ist eine historische und noch immer produktive Quelle für hochwertiges Rohöl. Liegt im Sirte-Becken. Wichtiges Zentrum der Waha Oil Company. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -596,9 +581,8 @@ image: "/poi-images/waha-oil-field-economic-v2.webp"
       de: "Ölfeld Zelten",
       hu: "Zelten olajmező",
       ro: "Câmpul petrolier Zelten",
-      en: "Zelten Oil Field",
-image: "/poi-images/zelten-oil-field-economic-v2.webp"
-},
+      en: "Zelten Oil Field"},
+    image: "/poi-images/zelten-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The discovery of the Zelten Oil Field (now officially known as Nasser) in 1959 was a watershed moment that permanently transformed Libya from an impoverished nation into an oil-rich state. Located in the Sirte Basin, the field's massive output funded the rapid modernization of the country during the 1960s. The crude extracted here is piped directly to Marsa el Brega. Though older than other fields, its historical significance and continued production make it legendary in the industry. History K8 — the dawn of the Libyan oil boom.",
       de: "Ölfeld Zelten ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das 1959 entdeckte Zelten-Feld (heute auch Nasser-Feld genannt) war eine der ersten großen kommerziellen Ölfunde in Libyen. 1959 entdeckt. Auch Nasser-Feld genannt. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -635,9 +619,8 @@ image: "/poi-images/zelten-oil-field-economic-v2.webp"
       de: "Ölfeld Sarir",
       hu: "Sarir olajmező",
       ro: "Câmpul petrolier Sarir",
-      en: "Sarir Oil Field",
-image: "/poi-images/sarir-oil-field-economic-v2.webp"
-},
+      en: "Sarir Oil Field"},
+    image: "/poi-images/sarir-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Sarir Oil Field is an absolute behemoth, holding the title of the largest oil field in Libya and one of the largest in all of Africa. Located in the remote eastern Sirte Basin, it was discovered in 1961 and contains billions of barrels of recoverable reserves. The crude is pumped hundreds of kilometers north to the Port of Tobruk. Because of its immense scale and isolation, the field functions almost like an independent desert city. Economics K8 — mega-scale hydrocarbon reserves.",
       de: "Ölfeld Sarir ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Sarir-Feld im Osten Libyens gilt als das größte Ölfeld des Landes in Bezug auf die nachgewiesenen Reserven. Größtes Ölfeld nach Reserven. Liegt in der Cyrenaika. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -674,9 +657,8 @@ image: "/poi-images/sarir-oil-field-economic-v2.webp"
       de: "Offshore-Feld Bouri",
       hu: "Bouri tengeri olajmező",
       ro: "Câmpul offshore Bouri",
-      en: "Bouri Offshore Field",
-image: "/poi-images/bouri-offshore-field-economic-v2.webp"
-},
+      en: "Bouri Offshore Field"},
+    image: "/poi-images/bouri-offshore-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Bouri Offshore Field is the largest producing oilfield in the Mediterranean Sea, located off the western coast of Libya. Discovered in 1976, it operates in deep water and utilizes massive production platforms that resemble small steel islands. The field produces both crude oil and significant amounts of natural gas, which is piped to the Mellitah complex. Operations here are highly technical, requiring constant logistical support via helicopter and supply ships from Tripoli. Geography K8 — offshore drilling technology.",
       de: "Offshore-Feld Bouri ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Bouri-Feld im Mittelmeer ist das größte produzierende Offshore-Ölfeld im Mittelmeerraum. Größtes Offshore-Feld im Mittelmeer. Befindet sich vor der Westküste Libyens. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -713,9 +695,8 @@ image: "/poi-images/bouri-offshore-field-economic-v2.webp"
       de: "Offshore-Ölfeld Al Jurf",
       hu: "Al Jurf tengeri olajmező",
       ro: "Câmpul petrolier offshore Al Jurf",
-      en: "Al Jurf Offshore Field",
-image: "/poi-images/al-jurf-offshore-field-economic-v2.webp"
-},
+      en: "Al Jurf Offshore Field"},
+    image: "/poi-images/al-jurf-offshore-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "Al Jurf is a significant offshore oil field situated near the maritime border with Tunisia in the Mediterranean Sea. It operates using a Floating Production Storage and Offloading (FPSO) vessel, a massive modified tanker that processes and stores oil directly at sea. This advanced technology allows international tankers to load crude without it ever touching the Libyan mainland. The field represents Libya's continued investment in technically complex, high-yield maritime hydrocarbon extraction. Economics K8 — FPSO technology and maritime borders.",
       de: "Offshore-Ölfeld Al Jurf ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Al Jurf ist ein Offshore-Ölfeld nahe der Grenze zu Tunesien, das von internationalen Konsortien betrieben wird. Offshore-Anlage. Nahe der tunesischen Grenze. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -752,9 +733,8 @@ image: "/poi-images/al-jurf-offshore-field-economic-v2.webp"
       de: "Ölfeld Mabruk",
       hu: "Mabruk olajmező",
       ro: "Câmpul petrolier Mabruk",
-      en: "Mabruk Oil Field",
-image: "/poi-images/mabruk-oil-field-economic-v2.webp"
-},
+      en: "Mabruk Oil Field"},
+    image: "/poi-images/mabruk-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Mabruk Oil Field is located in the western Sirte Basin and is notable for its highly complex geological structure, which makes oil extraction exceptionally difficult. Engineers must use advanced enhanced oil recovery (EOR) techniques, such as massive water injection, to maintain production levels. The field suffered devastating militant attacks in 2015, heavily damaging its central processing facilities. The ongoing efforts to fully rehabilitate Mabruk showcase the resilience of Libya's energy sector. Economics K8 — enhanced oil recovery and infrastructure repair.",
       de: "Ölfeld Mabruk ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Mabruk-Feld im Sirte-Becken ist bekannt für komplexe geologische Strukturen, aus denen mit moderner Technologie Öl gefördert wird. Liegt im Sirte-Becken. Nutzt moderne Fördertechniken. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -791,9 +771,8 @@ image: "/poi-images/mabruk-oil-field-economic-v2.webp"
       de: "Ölfeld Amal",
       hu: "Amal olajmező",
       ro: "Câmpul petrolier Amal",
-      en: "Amal Oil Field",
-image: "/poi-images/amal-oil-field-economic-v2.webp"
-},
+      en: "Amal Oil Field"},
+    image: "/poi-images/amal-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Amal Oil Field is a major producer located in the eastern Sirte Basin, characterized by its vast spread of hundreds of individual nodding donkey pump jacks. Discovered in 1959, it has been a reliable cornerstone of eastern Libyan oil production for decades. The crude extracted here is transported via a dedicated pipeline to the Zueitina terminal on the coast. The field's longevity requires constant maintenance and drilling of new infill wells to sustain output. Economics K7 — mature oil field management.",
       de: "Ölfeld Amal ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Amal-Feld ist eines der älteren produzierenden Felder im libyschen Sirte-Becken, das über Pipelines mit dem Hafen Ras Lanuf verbunden ist. Älteres produzierendes Feld. Mit Ras Lanuf verbunden. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -830,9 +809,8 @@ image: "/poi-images/amal-oil-field-economic-v2.webp"
       de: "Ölfeld Nafoora",
       hu: "Nafoora olajmező",
       ro: "Câmpul petrolier Nafoora",
-      en: "Nafoora Oil Field",
-image: "/poi-images/nafoora-oil-field-economic-v2.webp"
-},
+      en: "Nafoora Oil Field"},
+    image: "/poi-images/nafoora-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "Nafoora is a massive, highly productive oil field situated in the eastern Sirte Basin, closely associated with the nearby Amal and Intisar fields. It is known for producing a very high-quality crude that is heavily demanded by European refineries. The infrastructure at Nafoora is extensive, including massive gas-oil separation plants and worker camps. Because of its sheer output, Nafoora is a critical asset that authorities heavily protect to ensure national revenue stability. Economics K8 — high-quality crude and national revenue.",
       de: "Ölfeld Nafoora ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Nafoora-Feld ist ein bedeutender Bestandteil der libyschen Ölproduktion und wird von der Arabian Gulf Oil Company verwaltet. Bedeutendes Ölfeld. Verwaltet von AGOCO. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -869,9 +847,8 @@ image: "/poi-images/nafoora-oil-field-economic-v2.webp"
       de: "Ölfeld Messla",
       hu: "Messla olajmező",
       ro: "Câmpul petrolier Messla",
-      en: "Messla Oil Field",
-image: "/poi-images/messla-oil-field-economic-v2.webp"
-},
+      en: "Messla Oil Field"},
+    image: "/poi-images/messla-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Messla Oil Field is a giant concession located deep in the eastern desert, often operating in tandem with the massive Sarir field to the south. Discovered in the early 1970s, it utilizes the same long-distance pipeline infrastructure to send crude to the Port of Tobruk. The environment is extremely hostile, requiring robust logistical networks to supply the isolated worker camps with food, water, and equipment. Messla's steady production is vital to the economy of Cyrenaica. Geography K7 — extreme desert logistics.",
       de: "Ölfeld Messla ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Messla-Ölfeld in der Cyrenaika wurde in den 1970er Jahren entdeckt und ist für seine hochwertigen Ölreserven bekannt. In den 1970er Jahren entdeckt. Hochwertiges Rohöl. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -908,9 +885,8 @@ image: "/poi-images/messla-oil-field-economic-v2.webp"
       de: "Ölfeld Abu Attifel",
       hu: "Abu Attifel olajmező",
       ro: "Câmpul petrolier Abu Attifel",
-      en: "Abu Attifel Oil Field",
-image: "/poi-images/abu-attifel-oil-field-economic-v2.webp"
-},
+      en: "Abu Attifel Oil Field"},
+    image: "/poi-images/abu-attifel-oil-field-economic-v2.webp",
     descriptionAdvanced: {
       en: "Abu Attifel holds a unique place in Libyan oil history, as it was the first giant field discovered by the Italian energy firm ENI in the late 1960s. Located in the eastern Sirte Basin, the crude here is notably waxy, requiring heated pipelines to prevent the oil from solidifying as it travels to the coast. This technical challenge showcases the specialized engineering required in Libyan oil extraction. The field remains a highly productive joint venture between Libya and Italy. Science K8 — fluid dynamics and heated pipelines.",
       de: "Ölfeld Abu Attifel ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Abu Attifel ist ein großes Ölfeld im Sirte-Becken, das zu den ältesten und produktivsten Feldern gehört, an denen internationale Partner beteiligt sind. Großes Feld im Sirte-Becken. Beteiligung internationaler Partner. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -947,9 +923,8 @@ image: "/poi-images/abu-attifel-oil-field-economic-v2.webp"
       de: "Erdölraffinerie Zawiya",
       hu: "Závíja olajfinomító",
       ro: "Rafinăria de petrol Zawiya",
-      en: "Zawiya Oil Refinery",
-image: "/poi-images/zawiya-refinery-economic-v2.webp"
-},
+      en: "Zawiya Oil Refinery"},
+    image: "/poi-images/zawiya-refinery-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Zawiya Oil Refinery is Libya's second-largest but arguably most critical operational refinery, supplying the majority of gasoline and diesel to the densely populated western Tripolitania region. Located right on the coast, it receives crude pumped directly from the deep desert Sharara field. Operating the refinery requires massive amounts of electricity and water, making it a complex, highly integrated industrial marvel. Any shutdown here immediately impacts fuel availability in the capital, Tripoli. Economics K8 — domestic fuel supply chains.",
       de: "Erdölraffinerie Zawiya ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die Raffinerie von Zawiya ist eine der wichtigsten Verarbeitungsanlagen in Libyen und versorgt weite Teile des Landes mit Treibstoff. Wichtige libysche Raffinerie. Sichert die Kraftstoffversorgung. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -986,9 +961,8 @@ image: "/poi-images/zawiya-refinery-economic-v2.webp"
       de: "Raffinerie Ras Lanuf",
       hu: "Ras Lanuf finomító",
       ro: "Rafinăria Ras Lanuf",
-      en: "Ras Lanuf Refinery",
-image: "/poi-images/ras-lanuf-refinery-economic-v2.webp"
-},
+      en: "Ras Lanuf Refinery"},
+    image: "/poi-images/ras-lanuf-refinery-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Ras Lanuf Refinery is a colossal petrochemical complex on the Gulf of Sidra, designed to process over 200,000 barrels of crude oil per day. Unlike Zawiya, which focuses heavily on domestic fuel, Ras Lanuf was built to produce refined products and complex petrochemicals (like ethylene) for international export. It represents Libya's historical ambition to move beyond just selling raw crude into the more lucrative refined products market. The complex dominates the skyline for miles along the coastal highway. Economics K8 — petrochemical manufacturing and value addition.",
       de: "Raffinerie Ras Lanuf ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die Raffinerie Ras Lanuf ist ein riesiger petrochemischer Komplex, der Rohöl aus dem Sirte-Becken für den Inlandsmarkt und den Export verarbeitet. Riesiger Petrochemie-Komplex. Verarbeitet Öl aus dem Sirte-Becken. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1025,9 +999,8 @@ image: "/poi-images/ras-lanuf-refinery-economic-v2.webp"
       de: "Libysches Eisen- und Stahlwerk (LISCO)",
       hu: "Líbiai Vas- és Acélmű (LISCO)",
       ro: "Compania Libiană de Fier și Oțel (LISCO)",
-      en: "Libyan Iron and Steel Company (LISCO)",
-image: "/poi-images/lisco-misrata-steel-economic-v2.webp"
-},
+      en: "Libyan Iron and Steel Company (LISCO)"},
+    image: "/poi-images/lisco-misrata-steel-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Libyan Iron and Steel Company (LISCO) is the largest non-oil industrial complex in Libya, occupying a massive footprint in Misrata. Operating since the 1980s, the facility relies heavily on cheap domestic natural gas to power its energy-intensive Direct Reduced Iron (DRI) furnaces. LISCO supplies rebar, hot-rolled coils, and steel billets both to the domestic construction market and for international export. The plant's continued operation is seen as a symbol of Libya's industrial resilience. Economics K8 — heavy manufacturing and metallurgy.",
       de: "Libysches Eisen- und Stahlwerk (LISCO) ist ein bemerkenswertes Element der libyschen Geografie und Kultur. LISCO in Misrata ist einer der größten Stahlproduzenten Nordafrikas und spielt eine wesentliche Rolle in der nicht-ölbasierten Wirtschaft Libyens. Größter Stahlproduzent Nordafrikas. Wichtig für die Nicht-Öl-Wirtschaft. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1064,9 +1037,8 @@ image: "/poi-images/lisco-misrata-steel-economic-v2.webp"
       de: "Zementfabrik Zliten",
       hu: "Zliteni cementgyár",
       ro: "Fabrica de ciment Zliten",
-      en: "Zliten Cement Plant",
-image: "/poi-images/zliten-cement-plant-economic-v2.webp"
-},
+      en: "Zliten Cement Plant"},
+    image: "/poi-images/zliten-cement-plant-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Zliten Cement Plant is a foundational pillar of Libya's domestic construction industry, producing massive quantities of Portland cement. Located strategically between Tripoli and Misrata, it utilizes locally mined limestone and clay. The facility has seen significant expansions to meet the intense demand for post-conflict reconstruction across the western region. Its prominent silos and kilns are a major landmark on the coastal highway, generating significant local employment. Economics K7 — construction materials and domestic industry.",
       de: "Zementfabrik Zliten ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die Zementfabrik in Zliten ist ein wichtiger Lieferant für Baustoffe im Land und unterstützt die Infrastrukturprojekte der Küstenregion. Wichtiger Baustofflieferant. Unterstützt Infrastrukturprojekte. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1103,9 +1075,8 @@ image: "/poi-images/zliten-cement-plant-economic-v2.webp"
       de: "Mellitah Gasanlage",
       hu: "Mellitah gázfeldolgozó üzem",
       ro: "Uzina de gaze Mellitah",
-      en: "Mellitah Gas Plant",
-image: "/poi-images/mellitah-gas-plant-economic-v2.webp"
-},
+      en: "Mellitah Gas Plant"},
+    image: "/poi-images/mellitah-gas-plant-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Mellitah Gas Plant is a massive, highly sophisticated processing facility that treats raw natural gas before it is exported or used domestically. It strips impurities like sulfur and separates natural gas liquids (NGLs) from the methane stream. The plant is the critical terrestrial processing node before gas enters the undersea Greenstream pipeline to Italy. Operated as a joint venture with ENI, the facility represents the pinnacle of modern energy technology in Libya. Science K8 — hydrocarbon processing and gas sweetening.",
       de: "Mellitah Gasanlage ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die Mellitah Gasanlage verarbeitet Erdgas, das sowohl für den libyschen Inlandsverbrauch als auch für den Export über die Greenstream-Pipeline bestimmt ist. Verarbeitet Erdgas. Versorgt die Greenstream-Pipeline. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1142,9 +1113,8 @@ image: "/poi-images/mellitah-gas-plant-economic-v2.webp"
       de: "Kraftwerk Al-Chums",
       hu: "Al-Humsz erőmű",
       ro: "Centrala electrică Al-Khums",
-      en: "Khoms Power Plant",
-image: "/poi-images/khoms-power-plant-economic-v2.webp"
-},
+      en: "Khoms Power Plant"},
+    image: "/poi-images/khoms-power-plant-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Khoms Power Plant is one of the largest and most critical electricity generation facilities on the Libyan grid. Situated on the coast to utilize seawater for cooling, the plant operates multiple massive gas and steam turbines. It is primarily fueled by natural gas piped from inland fields, providing base-load power to the Tripolitania region, including the capital. Disruptions or fuel shortages at this plant immediately result in rolling blackouts across western Libya. Engineering K8 — national power grids and thermal generation.",
       de: "Kraftwerk Al-Chums ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das Kraftwerk Al-Chums ist ein großes Wärmekraftwerk, das eine Schlüsselrolle bei der Stromversorgung der stark besiedelten Küstenstädte Libyens spielt. Großes Wärmekraftwerk. Versorgt die Küstenstädte mit Strom. Dieser Standort spielt eine Rolle in der libyschen Wirtschaft, die stark von Erdöl- und Erdgasförderung sowie von fossilem Tiefenwasser geprägt ist. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",

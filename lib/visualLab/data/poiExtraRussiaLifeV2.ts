@@ -5,9 +5,8 @@ export const russiaLifeV2: POI[] = [
     id: "russia-lake-baikal-nerpa-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Baikalrobben-Habitat", hu: "Bajkáli fóka élőhely", ro: "Habitatul focilor de Baikal", en: "Lake Baikal Nerpa Habitat",
-image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp"
-},
+    name: { de: "Baikalrobben-Habitat", hu: "Bajkáli fóka élőhely", ro: "Habitatul focilor de Baikal", en: "Lake Baikal Nerpa Habitat"},
+    image: "/poi-images/russia-lake-baikal-nerpa-life-v2.webp",
     coords: [108.12, 53.51],
     coordinates: { lat: 53.51, lng: 108.12 },
     description: {
@@ -40,9 +39,8 @@ imageHint: "Baikal seal nerpa on ice",
     id: "russia-kronotsky-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Naturreservat Kronozki", hu: "Kronockij Természetvédelmi Terület", ro: "Rezervația Naturală Kronotski", en: "Kronotsky Nature Reserve",
-image: "/poi-images/russia-kronotsky-reserve-life-v2.webp"
-},
+    name: { de: "Naturreservat Kronozki", hu: "Kronockij Természetvédelmi Terület", ro: "Rezervația Naturală Kronotski", en: "Kronotsky Nature Reserve"},
+    image: "/poi-images/russia-kronotsky-reserve-life-v2.webp",
     coords: [160.25, 54.7],
     coordinates: { lat: 54.7, lng: 160.25 },
     description: {
@@ -75,9 +73,8 @@ imageHint: "Kamchatka brown bear catching salmon",
     id: "russia-wrangel-island-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Wrangelinsel-Reservat", hu: "Vrangel-szigeti Természetvédelmi Terület", ro: "Rezervația Insula Wrangel", en: "Wrangel Island Reserve",
-image: "/poi-images/russia-wrangel-island-life-v2.webp"
-},
+    name: { de: "Wrangelinsel-Reservat", hu: "Vrangel-szigeti Természetvédelmi Terület", ro: "Rezervația Insula Wrangel", en: "Wrangel Island Reserve"},
+    image: "/poi-images/russia-wrangel-island-life-v2.webp",
     coords: [179.41, 71.24],
     coordinates: { lat: 71.24, lng: 179.41 },
     description: {
@@ -110,9 +107,8 @@ image: "/poi-images/russia-wrangel-island-life-v2.webp"
     id: "russia-sikhote-alin-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Sikhote-Alin Naturreservat", hu: "Szihote-Alin Természetvédelmi Terület", ro: "Rezervația Naturală Sihote-Alin", en: "Sikhote-Alin Nature Reserve",
-image: "/poi-images/russia-sikhote-alin-life-v2.webp"
-},
+    name: { de: "Sikhote-Alin Naturreservat", hu: "Szihote-Alin Természetvédelmi Terület", ro: "Rezervația Naturală Sihote-Alin", en: "Sikhote-Alin Nature Reserve"},
+    image: "/poi-images/russia-sikhote-alin-life-v2.webp",
     coords: [136.48, 45.33],
     coordinates: { lat: 45.33, lng: 136.48 },
     description: {
@@ -145,9 +141,8 @@ imageHint: "Amur tiger in snowy forest",
     id: "russia-caucasus-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Kaukasus-Naturreservat", hu: "Kaukázusi Állami Természetvédelmi Terület", ro: "Rezervația Naturală a Caucazului", en: "Caucasus Nature Reserve",
-image: "/poi-images/russia-caucasus-reserve-life-v2.webp"
-},
+    name: { de: "Kaukasus-Naturreservat", hu: "Kaukázusi Állami Természetvédelmi Terület", ro: "Rezervația Naturală a Caucazului", en: "Caucasus Nature Reserve"},
+    image: "/poi-images/russia-caucasus-reserve-life-v2.webp",
     coords: [40.3, 43.85],
     coordinates: { lat: 43.85, lng: 40.3 },
     description: {
@@ -180,9 +175,8 @@ imageHint: "Caucasian bison in mountain meadow",
     id: "russia-land-of-leopard-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Nationalpark Land des Leoparden", hu: "Leopárdok Földje Nemzeti Park", ro: "Parcul Național Țara Leopardului", en: "Land of the Leopard National Park",
-image: "/poi-images/russia-land-of-leopard-life-v2.webp"
-},
+    name: { de: "Nationalpark Land des Leoparden", hu: "Leopárdok Földje Nemzeti Park", ro: "Parcul Național Țara Leopardului", en: "Land of the Leopard National Park"},
+    image: "/poi-images/russia-land-of-leopard-life-v2.webp",
     coords: [131.4, 43.0],
     coordinates: { lat: 43.0, lng: 131.4 },
     description: {
@@ -215,9 +209,8 @@ imageHint: "Amur leopard in temperate forest",
     id: "russia-putorana-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Putorana-Naturreservat", hu: "Putorana Természetvédelmi Terület", ro: "Rezervația Naturală Putorana", en: "Putorana Nature Reserve",
-image: "/poi-images/russia-putorana-reserve-life-v2.webp"
-},
+    name: { de: "Putorana-Naturreservat", hu: "Putorana Természetvédelmi Terület", ro: "Rezervația Naturală Putorana", en: "Putorana Nature Reserve"},
+    image: "/poi-images/russia-putorana-reserve-life-v2.webp",
     coords: [94.53, 68.86],
     coordinates: { lat: 68.86, lng: 94.53 },
     description: {
@@ -238,7 +231,7 @@ imageHint: "Reindeer herd on Putorana plateau",
       hu: "A Közép-Szibéria északi részén fekvő Putorana Természetvédelmi Terület a Föld egyik leginkább megközelíthetetlen és legvadabb régiója. A hatalmas, vulkanikus eredetű Putorana-fennsík, amelyet mély szurdokok, több mint 25 000 érintetlen vízesés és kristálytiszta fjordok szelnek át, egy igazi ősi erődítményre emlékeztet. Az emberi infrastruktúra teljes hiánya megőrzött egy olyan ökoszisztémát, amely az utolsó jégkorszak óta szinte változatlan maradt. A rezervátumot elsősorban azzal a céllal hozták létre, hogy megvédjék a világ egyik legnagyobb vándorlási jelenségét: vadon élő rénszarvasok százezreinek éves vándorlását, amint táplálékot keresve átszelik a tundrát. A régió másik egyedülálló lakója az extrém ritka Putorana-hójuh, a szibériai hójuh egy endemikus alfaja, amely kizárólag a fennsík megközelíthetetlen, meredek bazaltszikláin maradt fenn. Páratlan geológiai formációi és az érintetlen szubarktikus tájak miatt a terület az UNESCO világörökségének része.",
       ro: "Rezervația Naturală Putorana, situată în nordul Siberiei Centrale, este una dintre cele mai inaccesibile și sălbatice regiuni de pe Pământ. Vasta faleză vulcanică a Platoului Putorana, brăzdată de defileuri adânci, peste 25.000 de cascade neatinse și fiorduri cu ape cristaline, seamănă cu o fortăreață primordială. Absența totală a infrastructurii umane a conservat un ecosistem rămas practic neschimbat încă de la sfârșitul ultimei ere glaciare. Rezervația a fost creată pentru a proteja unul dintre cele mai mari fenomene migratoare din lume: migrația a sute de mii de reni sălbatici care traversează anual tundra în căutarea hranei. O altă particularitate a regiunii este extrem de rara oaie de zăpadă de Putorana, o subspecie endemică care supraviețuiește exclusiv pe stâncile abrupte de bazalt ale acestui platou. Datorită formațiunilor geologice unice și a peisajelor subarctice nealterate, acest loc face parte din Patrimoniul Mondial UNESCO.",
       en: "",
-      en: "The Putorana Nature Reserve, located high in northern Central Siberia, stands as one of the most inaccessible and untamed regions on Earth. The vast, volcanic Putorana Plateau, carved by deep canyons, over 25,000 pristine waterfalls, and crystal-clear fjord-like lakes, resembles a primordial fortress. The absolute lack of human infrastructure has preserved an ecosystem that remains virtually unchanged since the end of the last Ice Age. The reserve was established to protect one of the world's grandest migratory phenomena: the annual movement of hundreds of thousands of wild reindeer crossing the tundra in search of seasonal forage. Another hallmark of the region is the extremely rare Putorana snow sheep, an endemic subspecies that survives exclusively on the sheer, inaccessible basalt cliffs of this specific plateau. Because of its unparalleled geological formations and pristine subarctic wilderness, the entire region has been designated as a UNESCO World Heritage site."
+//       en: "The Putorana Nature Reserve, located high in northern Central Siberia, stands as one of the most inaccessible and untamed regions on Earth. The vast, volcanic Putorana Plateau, carved by deep canyons, over 25,000 pristine waterfalls, and crystal-clear fjord-like lakes, resembles a primordial fortress. The absolute lack of human infrastructure has preserved an ecosystem that remains virtually unchanged since the end of the last Ice Age. The reserve was established to protect one of the world's grandest migratory phenomena: the annual movement of hundreds of thousands of wild reindeer crossing the tundra in search of seasonal forage. Another hallmark of the region is the extremely rare Putorana snow sheep, an endemic subspecies that survives exclusively on the sheer, inaccessible basalt cliffs of this specific plateau. Because of its unparalleled geological formations and pristine subarctic wilderness, the entire region has been designated as a UNESCO World Heritage site."
     },
     factsAdvanced: {
       de: ["Situated on a massive, ancient volcanic basalt plateau in Siberia.", "Home to the largest wild reindeer migration route in Russia.", "Contains the highest concentration of waterfalls anywhere in Russia.", "Exclusive habitat of the endemic and rare Putorana snow sheep.", "Features deep, fjord-like freshwater lakes carved by ancient glaciers.", "Extremely remote location with zero roads leading into the reserve.", "Designated as a UNESCO World Heritage site in 2010."],
@@ -251,9 +244,8 @@ imageHint: "Reindeer herd on Putorana plateau",
     id: "russia-altai-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Altai-Naturreservat", hu: "Altaji Állami Természetvédelmi Terület", ro: "Rezervația Naturală Altai", en: "Altai Nature Reserve",
-image: "/poi-images/russia-altai-reserve-life-v2.webp"
-},
+    name: { de: "Altai-Naturreservat", hu: "Altaji Állami Természetvédelmi Terület", ro: "Rezervația Naturală Altai", en: "Altai Nature Reserve"},
+    image: "/poi-images/russia-altai-reserve-life-v2.webp",
     coords: [87.71, 51.52],
     coordinates: { lat: 51.52, lng: 87.71 },
     description: {
@@ -286,9 +278,8 @@ imageHint: "Snow leopard in Altai mountains",
     id: "russia-barguzinsky-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Bargusinski-Naturreservat", hu: "Barguzini Természetvédelmi Terület", ro: "Rezervația Naturală Barguzin", en: "Barguzinsky Nature Reserve",
-image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp"
-},
+    name: { de: "Bargusinski-Naturreservat", hu: "Barguzini Természetvédelmi Terület", ro: "Rezervația Naturală Barguzin", en: "Barguzinsky Nature Reserve"},
+    image: "/poi-images/russia-barguzinsky-reserve-life-v2.webp",
     coords: [109.84, 54.34],
     coordinates: { lat: 54.34, lng: 109.84 },
     description: {
@@ -321,9 +312,8 @@ imageHint: "Russian sable in pine forest",
     id: "russia-voronezh-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Woronesch-Naturreservat", hu: "Voronyezsi Természetvédelmi Terület", ro: "Rezervația Naturală Voronej", en: "Voronezh Nature Reserve",
-image: "/poi-images/russia-voronezh-reserve-life-v2.webp"
-},
+    name: { de: "Woronesch-Naturreservat", hu: "Voronyezsi Természetvédelmi Terület", ro: "Rezervația Naturală Voronej", en: "Voronezh Nature Reserve"},
+    image: "/poi-images/russia-voronezh-reserve-life-v2.webp",
     coords: [39.65, 51.93],
     coordinates: { lat: 51.93, lng: 39.65 },
     description: {
@@ -356,9 +346,8 @@ image: "/poi-images/russia-voronezh-reserve-life-v2.webp"
     id: "russia-prioksko-terrasny-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Biosphärenreservat Prioksko-Terrasny", hu: "Priokszko-Terrasznij Bioszféra-rezervátum", ro: "Rezervația Biosferei Prioksko-Terrasny", en: "Prioksko-Terrasny Biosphere Reserve",
-image: "/poi-images/russia-prioksko-terrasny-life-v2.webp"
-},
+    name: { de: "Biosphärenreservat Prioksko-Terrasny", hu: "Priokszko-Terrasznij Bioszféra-rezervátum", ro: "Rezervația Biosferei Prioksko-Terrasny", en: "Prioksko-Terrasny Biosphere Reserve"},
+    image: "/poi-images/russia-prioksko-terrasny-life-v2.webp",
     coords: [37.57, 54.91],
     coordinates: { lat: 54.91, lng: 37.57 },
     description: {
@@ -391,9 +380,8 @@ imageHint: "European bison in snowy Moscow forest",
     id: "russia-astrakhan-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Astrachan-Naturreservat", hu: "Asztraháni Állami Természetvédelmi Terület", ro: "Rezervația Naturală Astrahan", en: "Astrakhan Nature Reserve",
-image: "/poi-images/russia-astrakhan-reserve-life-v2.webp"
-},
+    name: { de: "Astrachan-Naturreservat", hu: "Asztraháni Állami Természetvédelmi Terület", ro: "Rezervația Naturală Astrahan", en: "Astrakhan Nature Reserve"},
+    image: "/poi-images/russia-astrakhan-reserve-life-v2.webp",
     coords: [48.92, 46.22],
     coordinates: { lat: 46.22, lng: 48.92 },
     description: {
@@ -426,9 +414,8 @@ image: "/poi-images/russia-astrakhan-reserve-life-v2.webp"
     id: "russia-stolby-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Nationalpark Krasnojarsker Stolby", hu: "Krasznojarszki Stolbi Nemzeti Park", ro: "Parcul Național Stolbi Krasnoiarsk", en: "Krasnoyarsk Stolby National Park",
-image: "/poi-images/russia-stolby-reserve-life-v2.webp"
-},
+    name: { de: "Nationalpark Krasnojarsker Stolby", hu: "Krasznojarszki Stolbi Nemzeti Park", ro: "Parcul Național Stolbi Krasnoiarsk", en: "Krasnoyarsk Stolby National Park"},
+    image: "/poi-images/russia-stolby-reserve-life-v2.webp",
     coords: [92.73, 55.91],
     coordinates: { lat: 55.91, lng: 92.73 },
     description: {
@@ -461,9 +448,8 @@ image: "/poi-images/russia-stolby-reserve-life-v2.webp"
     id: "russia-moscow-zoo-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Moskauer Zoo", hu: "Moszkvai Állatkert", ro: "Grădina Zoologică din Moscova", en: "Moscow Zoo",
-image: "/poi-images/russia-moscow-zoo-life-v2.webp"
-},
+    name: { de: "Moskauer Zoo", hu: "Moszkvai Állatkert", ro: "Grădina Zoologică din Moscova", en: "Moscow Zoo"},
+    image: "/poi-images/russia-moscow-zoo-life-v2.webp",
     coords: [37.57, 55.76],
     coordinates: { lat: 55.76, lng: 37.57 },
     description: {
@@ -496,9 +482,8 @@ imageHint: "Moscow Zoo entrance and animals",
     id: "russia-main-botanical-garden-life-v2",
     parent: "RU",
     type: "park",
-    name: { de: "Botanischer Hauptgarten der RAS", hu: "MTA Fő Botanikus Kert", ro: "Grădina Botanică Principală a Academiei", en: "Main Botanical Garden of RAS",
-image: "/poi-images/russia-main-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Hauptgarten der RAS", hu: "MTA Fő Botanikus Kert", ro: "Grădina Botanică Principală a Academiei", en: "Main Botanical Garden of RAS"},
+    image: "/poi-images/russia-main-botanical-garden-life-v2.webp",
     coords: [37.6, 55.84],
     coordinates: { lat: 55.84, lng: 37.6 },
     description: {
@@ -531,9 +516,8 @@ imageHint: "Main Botanical Garden Moscow greenhouses",
     id: "russia-sochi-arboretum-life-v2",
     parent: "RU",
     type: "park",
-    name: { de: "Dendrologischer Park von Sotschi", hu: "Szocsi Arborétum", ro: "Arboretumul din Soci", en: "Sochi Arboretum",
-image: "/poi-images/russia-sochi-arboretum-life-v2.webp"
-},
+    name: { de: "Dendrologischer Park von Sotschi", hu: "Szocsi Arborétum", ro: "Arboretumul din Soci", en: "Sochi Arboretum"},
+    image: "/poi-images/russia-sochi-arboretum-life-v2.webp",
     coords: [39.74, 43.57],
     coordinates: { lat: 43.57, lng: 39.74 },
     description: {
@@ -566,9 +550,8 @@ imageHint: "Sochi Arboretum palms and fountain",
     id: "russia-curonian-spit-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Nationalpark Kurische Nehrung", hu: "Kur-földnyelv Nemzeti Park", ro: "Parcul Național Grindul Curonian", en: "Curonian Spit National Park",
-image: "/poi-images/russia-curonian-spit-life-v2.webp"
-},
+    name: { de: "Nationalpark Kurische Nehrung", hu: "Kur-földnyelv Nemzeti Park", ro: "Parcul Național Grindul Curonian", en: "Curonian Spit National Park"},
+    image: "/poi-images/russia-curonian-spit-life-v2.webp",
     coords: [20.86, 55.15],
     coordinates: { lat: 55.15, lng: 20.86 },
     description: {
@@ -601,9 +584,8 @@ imageHint: "Dancing forest trees Curonian Spit",
     id: "russia-lapland-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Lappland-Naturreservat", hu: "Lappföldi Természetvédelmi Terület", ro: "Rezervația Naturală Laponia", en: "Lapland Nature Reserve",
-image: "/poi-images/russia-lapland-reserve-life-v2.webp"
-},
+    name: { de: "Lappland-Naturreservat", hu: "Lappföldi Természetvédelmi Terület", ro: "Rezervația Naturală Laponia", en: "Lapland Nature Reserve"},
+    image: "/poi-images/russia-lapland-reserve-life-v2.webp",
     coords: [32.5, 67.8],
     coordinates: { lat: 67.8, lng: 32.5 },
     description: {
@@ -636,9 +618,8 @@ imageHint: "Wild reindeer in Lapland tundra",
     id: "russia-black-lands-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Naturreservat Schwarze Erden", hu: "Fekete Földek Természetvédelmi Terület", ro: "Rezervația Naturală Pământurile Negre", en: "Black Lands Nature Reserve",
-image: "/poi-images/russia-black-lands-life-v2.webp"
-},
+    name: { de: "Naturreservat Schwarze Erden", hu: "Fekete Földek Természetvédelmi Terület", ro: "Rezervația Naturală Pământurile Negre", en: "Black Lands Nature Reserve"},
+    image: "/poi-images/russia-black-lands-life-v2.webp",
     coords: [46.2, 46.0],
     coordinates: { lat: 46.0, lng: 46.2 },
     description: {
@@ -671,9 +652,8 @@ imageHint: "Saiga antelope in Russian steppe",
     id: "russia-great-arctic-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Großes Arktisches Naturreservat", hu: "Nagy Arktiszi Természetvédelmi Terület", ro: "Marea Rezervație Naturală Arctică", en: "Great Arctic State Nature Reserve",
-image: "/poi-images/russia-great-arctic-reserve-life-v2.webp"
-},
+    name: { de: "Großes Arktisches Naturreservat", hu: "Nagy Arktiszi Természetvédelmi Terület", ro: "Marea Rezervație Naturală Arctică", en: "Great Arctic State Nature Reserve"},
+    image: "/poi-images/russia-great-arctic-reserve-life-v2.webp",
     coords: [95.0, 75.5],
     coordinates: { lat: 75.5, lng: 95.0 },
     description: {
@@ -706,9 +686,8 @@ image: "/poi-images/russia-great-arctic-reserve-life-v2.webp"
     id: "russia-sayano-shushenski-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Sajano-Schuschenski-Naturreservat", hu: "Szajano-Susenszkij Természetvédelmi Terület", ro: "Rezervația Naturală Saiano-Șușenski", en: "Sayano-Shushenski Nature Reserve",
-image: "/poi-images/russia-sayano-shushenski-life-v2.webp"
-},
+    name: { de: "Sajano-Schuschenski-Naturreservat", hu: "Szajano-Susenszkij Természetvédelmi Terület", ro: "Rezervația Naturală Saiano-Șușenski", en: "Sayano-Shushenski Nature Reserve"},
+    image: "/poi-images/russia-sayano-shushenski-life-v2.webp",
     coords: [91.8, 52.1],
     coordinates: { lat: 52.1, lng: 91.8 },
     description: {
@@ -741,9 +720,8 @@ imageHint: "Siberian ibex on mountain cliff",
     id: "russia-commander-islands-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Kommandeurinseln-Reservat", hu: "Parancsnok-szigetek Természetvédelmi Terület", ro: "Rezervația Insulele Comandante", en: "Commander Islands Nature Reserve",
-image: "/poi-images/russia-commander-islands-life-v2.webp"
-},
+    name: { de: "Kommandeurinseln-Reservat", hu: "Parancsnok-szigetek Természetvédelmi Terület", ro: "Rezervația Insulele Comandante", en: "Commander Islands Nature Reserve"},
+    image: "/poi-images/russia-commander-islands-life-v2.webp",
     coords: [166.0, 55.0],
     coordinates: { lat: 55.0, lng: 166.0 },
     description: {
@@ -776,9 +754,8 @@ image: "/poi-images/russia-commander-islands-life-v2.webp"
     id: "russia-magadan-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Magadan-Naturreservat", hu: "Magadani Állami Természetvédelmi Terület", ro: "Rezervația Naturală Magadan", en: "Magadan Nature Reserve",
-image: "/poi-images/russia-magadan-reserve-life-v2.webp"
-},
+    name: { de: "Magadan-Naturreservat", hu: "Magadani Állami Természetvédelmi Terület", ro: "Rezervația Naturală Magadan", en: "Magadan Nature Reserve"},
+    image: "/poi-images/russia-magadan-reserve-life-v2.webp",
     coords: [147.0, 59.5],
     coordinates: { lat: 59.5, lng: 147.0 },
     description: {
@@ -811,9 +788,8 @@ image: "/poi-images/russia-magadan-reserve-life-v2.webp"
     id: "russia-kuril-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Kurilen-Naturreservat", hu: "Kuril-szigeteki Természetvédelmi Terület", ro: "Rezervația Naturală Kurile", en: "Kuril Nature Reserve",
-image: "/poi-images/russia-kuril-reserve-life-v2.webp"
-},
+    name: { de: "Kurilen-Naturreservat", hu: "Kuril-szigeteki Természetvédelmi Terület", ro: "Rezervația Naturală Kurile", en: "Kuril Nature Reserve"},
+    image: "/poi-images/russia-kuril-reserve-life-v2.webp",
     coords: [145.8, 44.0],
     coordinates: { lat: 44.0, lng: 145.8 },
     description: {
@@ -846,9 +822,8 @@ image: "/poi-images/russia-kuril-reserve-life-v2.webp"
     id: "russia-teberda-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Teberda-Biosphärenreservat", hu: "Teberda Bioszféra-rezervátum", ro: "Rezervația Biosferei Teberda", en: "Teberda Biosphere Reserve",
-image: "/poi-images/russia-teberda-reserve-life-v2.webp"
-},
+    name: { de: "Teberda-Biosphärenreservat", hu: "Teberda Bioszféra-rezervátum", ro: "Rezervația Biosferei Teberda", en: "Teberda Biosphere Reserve"},
+    image: "/poi-images/russia-teberda-reserve-life-v2.webp",
     coords: [41.7, 43.4],
     coordinates: { lat: 43.4, lng: 41.7 },
     description: {
@@ -881,9 +856,8 @@ imageHint: "Caucasian chamois in high mountains",
     id: "russia-darwin-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Darwin-Naturreservat", hu: "Darwin Természetvédelmi Terület", ro: "Rezervația Naturală Darwin", en: "Darwin Nature Reserve",
-image: "/poi-images/russia-darwin-reserve-life-v2.webp"
-},
+    name: { de: "Darwin-Naturreservat", hu: "Darwin Természetvédelmi Terület", ro: "Rezervația Naturală Darwin", en: "Darwin Nature Reserve"},
+    image: "/poi-images/russia-darwin-reserve-life-v2.webp",
     coords: [37.7, 58.5],
     coordinates: { lat: 58.5, lng: 37.7 },
     description: {
@@ -916,9 +890,8 @@ image: "/poi-images/russia-darwin-reserve-life-v2.webp"
     id: "russia-oka-reserve-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Oka-Naturreservat", hu: "Okai Természetvédelmi Terület", ro: "Rezervația Naturală Oka", en: "Oka Nature Reserve",
-image: "/poi-images/russia-oka-reserve-life-v2.webp"
-},
+    name: { de: "Oka-Naturreservat", hu: "Okai Természetvédelmi Terület", ro: "Rezervația Naturală Oka", en: "Oka Nature Reserve"},
+    image: "/poi-images/russia-oka-reserve-life-v2.webp",
     coords: [40.8, 54.7],
     coordinates: { lat: 54.7, lng: 40.8 },
     description: {
@@ -951,9 +924,8 @@ imageHint: "Russian desman swimming in water",
     id: "russia-central-forest-reserve-life-v2",
     parent: "RU",
     type: "forest",
-    name: { de: "Zentrales Waldreservat", hu: "Központi Erdőrezervátum", ro: "Rezervația Naturală Centrală Forestieră", en: "Central Forest Nature Reserve",
-image: "/poi-images/russia-central-forest-reserve-life-v2.webp"
-},
+    name: { de: "Zentrales Waldreservat", hu: "Központi Erdőrezervátum", ro: "Rezervația Naturală Centrală Forestieră", en: "Central Forest Nature Reserve"},
+    image: "/poi-images/russia-central-forest-reserve-life-v2.webp",
     coords: [32.9, 56.4],
     coordinates: { lat: 56.4, lng: 32.9 },
     description: {
@@ -986,9 +958,8 @@ image: "/poi-images/russia-central-forest-reserve-life-v2.webp"
     id: "russia-pechora-ilych-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Petschora-Illytsch-Naturreservat", hu: "Pecsora-Illics Természetvédelmi Terület", ro: "Rezervația Naturală Peciora-Ilici", en: "Pechora-Ilych Nature Reserve",
-image: "/poi-images/russia-pechora-ilych-life-v2.webp"
-},
+    name: { de: "Petschora-Illytsch-Naturreservat", hu: "Pecsora-Illics Természetvédelmi Terület", ro: "Rezervația Naturală Peciora-Ilici", en: "Pechora-Ilych Nature Reserve"},
+    image: "/poi-images/russia-pechora-ilych-life-v2.webp",
     coords: [58.3, 62.1],
     coordinates: { lat: 62.1, lng: 58.3 },
     description: {
@@ -1021,9 +992,8 @@ imageHint: "Moose farm in Komi forest",
     id: "russia-novosibirsk-zoo-life-v2",
     parent: "RU",
     type: "wildlife",
-    name: { de: "Zoo Nowosibirsk", hu: "Novoszibirszki Állatkert", ro: "Grădina Zoologică din Novosibirsk", en: "Novosibirsk Zoo",
-image: "/poi-images/russia-novosibirsk-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Nowosibirsk", hu: "Novoszibirszki Állatkert", ro: "Grădina Zoologică din Novosibirsk", en: "Novosibirsk Zoo"},
+    image: "/poi-images/russia-novosibirsk-zoo-life-v2.webp",
     coords: [82.88, 55.05],
     coordinates: { lat: 55.05, lng: 82.88 },
     description: {

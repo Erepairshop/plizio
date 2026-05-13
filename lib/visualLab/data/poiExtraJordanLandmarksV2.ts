@@ -6,9 +6,8 @@ export const poiExtraJordanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4519, 30.3222],
-    name: { de: "Al-Khazneh", hu: "Al-Khazneh (Kincstár)", ro: "Al-Khazneh (Trezoreria)", en: "Al-Khazneh (The Treasury)",
-image: "/poi-images/al-khazneh-landmarks-v2.webp"
-},
+    name: { de: "Al-Khazneh", hu: "Al-Khazneh (Kincstár)", ro: "Al-Khazneh (Trezoreria)", en: "Al-Khazneh (The Treasury)"},
+    image: "/poi-images/al-khazneh-landmarks-v2.webp",
     description: {
       de: "Das berühmte Schatzhaus ist das ikonischste Monument Petras. Es wurde im 1. Jahrhundert aus dem massiven roten Sandstein gemeißelt.",
       hu: "A híres Kincstár Petra legikonikusabb műemléke. Az 1. században faragták ki a hatalmas vörös homokkő sziklafalból.",
@@ -20,15 +19,27 @@ image: "/poi-images/al-khazneh-landmarks-v2.webp"
       hu: ["A homlokzat 40 méter magas.", "Eredetileg királyi sírként szolgált.", "Ez a Siq szurdok végpontja.", "Az Indiana Jones filmből is ismert."],
       ro: ["Fațada are 40 de metri înălțime.", "Inițial a servit drept mormânt regal.", "Este punctul final al defileului Siq.", "Cunoscut din filmul Indiana Jones."],
       en: ["The facade is 40 meters high.", "It originally served as a royal tomb.", "It is the end point of the Siq.", "Known from the Indiana Jones movie."]
-    }, image: "/poi-images/al-khazneh-landmarks-v2.webp"},
+    }, image: "/poi-images/al-khazneh-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Al-Khazneh, auch bekannt als das Schatzhaus, ist eines der berühmtesten Bauwerke in Petra, Jordanien. Es wurde im 1. Jahrhundert n. Chr. von den Nabatäern aus dem rosafarbenen Sandstein gehauen. Die Fassade ist 39,5 Meter hoch und 28 Meter breit. Der Name „Schatzhaus“ stammt von Beduinen, die glaubten, dass eine Urne auf der Spitze Schätze enthalte. Das Gebäude diente wahrscheinlich als königliches Grabmal oder Tempel. Die aufwendige hellenistische Architektur zeigt Einflüsse aus Ägypten, Syrien und Griechenland. Al-Khazneh ist heute das Symbol Jordaniens und eine der Hauptattraktionen des UNESCO-Weltkulturerbes Petra.",
+      hu: "Al-Khazneh, más néven Kincsesház, Jordánia egyik leghíresebb építménye Petrjában. A nabateusok faragták ki a rózsaszín homokkőből az 1. században. A homlokzat 39,5 méter magas és 28 méter széles. A „Kincsesház” elnevezés a beduinoktól származik, akik azt hitték, hogy egy urnában kincsek rejtőznek. Az épület valószínűleg királyi sírként vagy templomként szolgált. A díszes hellenisztikus építészet egyiptomi, szír és görög hatásokat mutat. Al-Khazneh ma Jordánia szimbóluma és a petrai UNESCO világörökség egyik fő látványossága.",
+      ro: "Al-Khazneh, cunoscut și sub numele de Tezaur, este una dintre cele mai faimoase structuri din Petra, Iordania. A fost sculptată din gresia roz de către nabateeni în secolul I d.Hr. Fațada are 39,5 metri înălțime și 28 de metri lățime. Numele „Tezaur” provine de la beduini care credeau că o urnă de pe vârf conține comori. Clădirea a servit probabil ca mormânt regal sau templu. Arhitectura elenistică elaborată prezintă influențe egiptene, siriene și grecești. Al-Khazneh este astăzi simbolul Iordaniei și una dintre principalele atracții ale sitului Patrimoniului Mondial UNESCO Petra.",
+      en: "Al-Khazneh, also known as the Treasury, is one of the most famous structures in Petra, Jordan. It was carved from the rose-red sandstone by the Nabataeans in the 1st century AD. The façade is 39.5 meters high and 28 meters wide. The name 'Treasury' comes from Bedouins who believed an urn on top contained treasures. The building likely served as a royal tomb or temple. The elaborate Hellenistic architecture shows Egyptian, Syrian, and Greek influences. Al-Khazneh is now the symbol of Jordan and a major attraction of the UNESCO World Heritage site of Petra.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhe der Fassade beträgt 39,5 Meter, die Breite 28 Meter.", "Die Urne auf dem Dach ist etwa 3,5 Meter hoch.", "Das Bauwerk wurde in den 40er Jahren des 1. Jahrhunderts n. Chr. fertiggestellt.", "Es gibt drei Kammern im Inneren, die ursprünglich für Bestattungen genutzt wurden.", "Die Fassade enthält 12 Säulen, die in zwei Ebenen angeordnet sind.", "Der Name 'Al-Khazneh' bedeutet auf Arabisch 'Das Schatzhaus'."],
+      hu: ["A homlokzat magassága 39,5 méter, szélessége 28 méter.", "A tetőn lévő urna körülbelül 3,5 méter magas.", "Az épület az i. sz. 1. század 40-es éveiben készült el.", "Belül három kamra található, amelyeket eredetileg temetkezésre használtak.", "A homlokzaton 12 oszlop található, két szinten elrendezve.", "Az 'Al-Khazneh' név arabul 'Kincsesházat' jelent."],
+      ro: ["Înălțimea fațadei este de 39,5 metri, lățimea de 28 de metri.", "Urna de pe acoperiș are aproximativ 3,5 metri înălțime.", "Structura a fost finalizată în anii 40 ai secolului I d.Hr.", "În interior există trei camere, folosite inițial pentru înmormântări.", "Fațada are 12 coloane dispuse pe două niveluri.", "Numele 'Al-Khazneh' înseamnă 'Tezaurul' în arabă."],
+      en: ["The façade is 39.5 meters high and 28 meters wide.", "The urn on top is about 3.5 meters high.", "The structure was completed in the 40s AD.", "There are three chambers inside, originally used for burials.", "The façade features 12 columns arranged in two tiers.", "The name 'Al-Khazneh' means 'The Treasury' in Arabic."],
+    },
+  },
   {
     id: "ad-deir-landmarks-v2",
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4320, 30.3385],
-    name: { de: "Ad-Deir (Das Kloster)", hu: "Ad-Deir (A Kolostor)", ro: "Ad-Deir (Mănăstirea)", en: "Ad-Deir (The Monastery)",
-image: "/poi-images/ad-deir-landmarks-v2.webp"
-},
+    name: { de: "Ad-Deir (Das Kloster)", hu: "Ad-Deir (A Kolostor)", ro: "Ad-Deir (Mănăstirea)", en: "Ad-Deir (The Monastery)"},
+    image: "/poi-images/ad-deir-landmarks-v2.webp",
     description: {
       de: "Das Kloster ist eines der größten Monumente in Petra und erfordert einen Aufstieg über 800 Stufen. Es besticht durch seine enorme Größe und abgelegene Lage.",
       hu: "A Kolostor Petra egyik legnagyobb műemléke, amelyhez több mint 800 lépcsőfok megmászása szükséges. Lenyűgöző a hatalmas mérete és elszigetelt fekvése.",
@@ -40,15 +51,27 @@ image: "/poi-images/ad-deir-landmarks-v2.webp"
       hu: ["A szélessége közel 50 méter.", "A 2. század elején épült.", "Nevét a belsejében lévő bizánci keresztekről kapta.", "Feltehetően nabateus templomként szolgált."],
       ro: ["Lățimea este de aproape 50 de metri.", "A fost construit la începutul secolului al II-lea.", "Numele provine de la crucile bizantine din interior.", "Probabil a servit drept templu nabatean."],
       en: ["The width is nearly 50 meters.", "It was built in the early 2nd century.", "The name comes from Byzantine crosses inside.", "It probably served as a Nabataean temple."]
-    }, image: "/poi-images/ad-deir-landmarks-v2.webp"},
+    }, image: "/poi-images/ad-deir-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Ad-Deir, auch bekannt als Das Kloster, ist ein monumentales Gebäude in Petra, Jordanien. Es wurde im 1. Jahrhundert n. Chr. von den Nabatäern aus dem Sandstein gehauen und ist mit 45 Metern Höhe und 47 Metern Breite eines der größten Bauwerke der Stadt. Der Name stammt von Kreuzen, die von byzantinischen Mönchen in die Wände geritzt wurden, was auf eine Nutzung als Kirche hindeutet. Die Fassade ähnelt der von Al-Khazneh, ist aber schlichter und massiver. Der Aufstieg zum Kloster umfasst etwa 800 Stufen und bietet spektakuläre Ausblicke. Es diente wahrscheinlich als Tempel oder Grabmal.",
+      hu: "Ad-Deir, más néven Kolostor, egy monumentális épület Petrjában, Jordániában. A nabateusok faragták a homokkőből az 1. században, magassága 45 méter, szélessége 47 méter, így a város egyik legnagyobb építménye. Nevét a bizánci szerzetesek által a falakba karcolt keresztekről kapta, ami templomként való használatra utal. A homlokzat hasonlít Al-Khazneh-re, de egyszerűbb és masszívabb. A kolostorhoz vezető út körülbelül 800 lépcsőből áll, és lenyűgöző kilátást nyújt. Valószínűleg templomként vagy sírként szolgált.",
+      ro: "Ad-Deir, cunoscut și sub numele de Mănăstirea, este o structură monumentală în Petra, Iordania. A fost sculptată din gresie de către nabateeni în secolul I d.Hr., având 45 de metri înălțime și 47 de metri lățime, fiind una dintre cele mai mari clădiri ale orașului. Numele provine de la crucile gravate de călugării bizantini în pereți, indicând utilizarea sa ca biserică. Fațada este similară cu cea a Al-Khazneh, dar mai simplă și mai masivă. Drumul către mănăstire include aproximativ 800 de trepte și oferă priveliști spectaculoase. A servit probabil ca templu sau mormânt.",
+      en: "Ad-Deir, also known as The Monastery, is a monumental building in Petra, Jordan. It was carved from sandstone by the Nabataeans in the 1st century AD, standing 45 meters high and 47 meters wide, making it one of the largest structures in the city. The name comes from crosses carved into the walls by Byzantine monks, suggesting use as a church. The façade resembles Al-Khazneh but is simpler and more massive. The ascent to the monastery includes about 800 steps and offers spectacular views. It likely served as a temple or tomb.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhe beträgt 45 Meter, die Breite 47 Meter.", "Es gibt 800 Stufen, die zum Kloster hinaufführen.", "Die Bauzeit wird auf etwa 50 Jahre geschätzt.", "Die Fassade ist 12 Meter tief in den Felsen gehauen.", "Im Inneren befindet sich ein 10 mal 11 Meter großer Raum.", "Die byzantinischen Kreuze wurden im 5. oder 6. Jahrhundert angebracht."],
+      hu: ["Magassága 45 méter, szélessége 47 méter.", "A kolostorhoz 800 lépcső vezet.", "Az építési időt körülbelül 50 évre becsülik.", "A homlokzat 12 méter mélyen van a sziklába vésve.", "Belül egy 10 x 11 méteres helyiség található.", "A bizánci kereszteket az 5. vagy 6. században karcolták a falba."],
+      ro: ["Înălțimea este de 45 de metri, lățimea de 47 de metri.", "Există 800 de trepte care duc la mănăstire.", "Timpul de construcție este estimat la aproximativ 50 de ani.", "Fațada este sculptată la o adâncime de 12 metri în stâncă.", "În interior se află o cameră de 10 x 11 metri.", "Crucile bizantine au fost incizate în secolul al V-lea sau al VI-lea."],
+      en: ["The height is 45 meters, the width is 47 meters.", "There are 800 steps leading up to the monastery.", "Construction time is estimated at about 50 years.", "The façade is carved 12 meters deep into the rock.", "Inside is a room measuring 10 by 11 meters.", "The Byzantine crosses were incised in the 5th or 6th century."],
+    },
+  },
   {
     id: "the-siq-landmarks-v2",
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4589, 30.3223],
-    name: { de: "Der Siq", hu: "A Siq", ro: "Defileul Siq", en: "The Siq",
-image: "/poi-images/the-siq-landmarks-v2.webp"
-},
+    name: { de: "Der Siq", hu: "A Siq", ro: "Defileul Siq", en: "The Siq"},
+    image: "/poi-images/the-siq-landmarks-v2.webp",
     description: {
       de: "Der schmale Canyon ist der dramatische Haupteingang zur antiken Stadt Petra. Die hohen Felswände schirmen das Sonnenlicht ab und leiten Besucher direkt zum Schatzhaus.",
       hu: "A szűk kanyon Petra drámai főbejárata. A magas sziklafalak elzárják a napfényt, és a látogatókat egyenesen a Kincstárhoz vezetik.",
@@ -60,15 +83,27 @@ image: "/poi-images/the-siq-landmarks-v2.webp"
       hu: ["A szurdok mintegy 1,2 kilométer hosszú.", "A sziklafalak akár 80 méter magasak is lehetnek.", "Tektonikus erők hozták létre.", "Az ősi vízcsatornák maradványai a falakon láthatók."],
       ro: ["Defileul are o lungime de aproximativ 1,2 kilometri.", "Pereții de stâncă au o înălțime de până la 80 de metri.", "A fost creat de forțe tectonice.", "Există rămășițe ale canalelor de apă antice pe pereți."],
       en: ["The gorge is about 1.2 kilometers long.", "The rock walls are up to 80 meters high.", "It was created by tectonic forces.", "There are remains of ancient water channels on the walls."]
-    }, image: "/poi-images/the-siq-landmarks-v2.webp"},
+    }, image: "/poi-images/the-siq-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Siq ist eine beeindruckende Schlucht, die als Hauptzugang zur antiken Stadt Petra in Jordanien dient. Der Weg ist etwa 1,2 Kilometer lang und wird von bis zu 200 Meter hohen Klippen aus rosafarbenem Sandstein gesäumt. Entlang des Weges befinden sich Überreste von Wasserkanälen, die die Nabatäer zur Wasserversorgung anlegten. In den Felswänden sind Nischen mit religiösen Symbolen und Inschriften zu sehen. Am Ende des Siq öffnet sich der Blick auf Al-Khazneh, das Schatzhaus. Der Siq entstand durch tektonische Bewegungen und Wassererosion. Es ist ein atemberaubendes Natur- und Kulturwunder.",
+      hu: "A Siq egy lenyűgöző szurdok, amely a fő bejáratként szolgál a jordániai Petra ősi városába. Az út körülbelül 1,2 kilométer hosszú, és rózsaszín homokkő sziklafalak szegélyezik, amelyek magassága eléri a 200 métert. Az út mentén a nabateusok által épített vízcsatornák maradványai láthatók. A sziklafalakban fülkék találhatók vallási szimbólumokkal és feliratokkal. A Siq végén tárul fel Al-Khazneh, a Kincsesház látványa. A Siq tektonikus mozgások és vízerózió következtében alakult ki. Lenyűgöző természeti és kulturális csoda.",
+      ro: "Siq-ul este un canion impresionant care servește ca intrare principală în orașul antic Petra din Iordania. Drumul are aproximativ 1,2 kilometri lungime și este mărginit de stânci de gresie roz de până la 200 de metri înălțime. De-a lungul drumului se află rămășițe de canale de apă construite de nabateeni pentru alimentarea cu apă. În pereții stâncoși sunt nișe cu simboluri religioase și inscripții. La capătul Siq-ului se deschide priveliștea către Al-Khazneh, Tezaurul. Siq-ul s-a format prin mișcări tectonice și eroziunea apei. Este o minune naturală și culturală uluitoare.",
+      en: "The Siq is an impressive gorge that serves as the main entrance to the ancient city of Petra in Jordan. The path is about 1.2 kilometers long and is flanked by cliffs of rose-red sandstone up to 200 meters high. Along the way, there are remains of water channels built by the Nabataeans for water supply. Niches with religious symbols and inscriptions can be seen in the rock walls. At the end of the Siq, the view opens up to Al-Khazneh, the Treasury. The Siq was formed by tectonic movements and water erosion. It is a breathtaking natural and cultural wonder.",
+    },
+    factsAdvanced: {
+      de: ["Der Siq ist etwa 1,2 Kilometer lang und an der engsten Stelle nur 3 Meter breit.", "Die höchsten Klippen im Siq erreichen bis zu 200 Meter.", "Die Wasserkanäle der Nabatäer wurden in den Fels gehauen und leiteten Wasser aus Quellen außerhalb der Stadt.", "Am Eingang des Siq befindet sich ein Damm, der zur Kontrolle von Überschwemmungen diente.", "Der Siq enthält mehr als 20 Nischen mit religiösen Figuren, darunter Darstellungen der Göttin Al-Uzza.", "Der Boden des Siq ist noch weitgehend im Originalzustand aus dem 1. Jahrhundert n. Chr."],
+      hu: ["A Siq körülbelül 1,2 kilométer hosszú, legkeskenyebb pontján csak 3 méter széles.", "A Siq legmagasabb sziklafalai elérik a 200 métert.", "A nabateusok vízcsatornáit a sziklába vésték, és a városon kívüli forrásokból szállították a vizet.", "A Siq bejáratánál egy gát található, amely az áradások szabályozására szolgált.", "A Siq több mint 20 fülkét tartalmaz vallásos figurákkal, köztük Al-Uzza istennő ábrázolásával.", "A Siq talaja nagyrészt megőrizte az 1. századi eredeti állapotát."],
+      ro: ["Siq-ul are aproximativ 1,2 kilometri lungime și doar 3 metri lățime în cel mai îngust punct.", "Cele mai înalte stânci din Siq ating 200 de metri.", "Canalurile de apă ale nabateenilor au fost sculptate în piatră și aduceau apă din izvoare din afara orașului.", "La intrarea în Siq se află un baraj folosit pentru controlul inundațiilor.", "Siq-ul conține peste 20 de nișe cu figuri religioase, inclusiv reprezentări ale zeiței Al-Uzza.", "Podeaua Siq-ului este în mare parte în stare originală din secolul I d.Hr."],
+      en: ["The Siq is about 1.2 kilometers long and only 3 meters wide at its narrowest point.", "The highest cliffs in the Siq reach up to 200 meters.", "The Nabataean water channels were carved into the rock and brought water from springs outside the city.", "At the entrance to the Siq, there is a dam used for flood control.", "The Siq contains over 20 niches with religious figures, including depictions of the goddess Al-Uzza.", "The floor of the Siq is largely in its original 1st-century AD condition."],
+    },
+  },
   {
     id: "royal-tombs-petra-landmarks-v2",
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4468, 30.3323],
-    name: { de: "Königsgräber von Petra", hu: "Királyi sírok (Petra)", ro: "Mormintele Regale (Petra)", en: "Royal Tombs of Petra",
-image: "/poi-images/royal-tombs-petra-landmarks-v2.webp"
-},
+    name: { de: "Königsgräber von Petra", hu: "Királyi sírok (Petra)", ro: "Mormintele Regale (Petra)", en: "Royal Tombs of Petra"},
+    image: "/poi-images/royal-tombs-petra-landmarks-v2.webp",
     description: {
       de: "Diese imposante Reihe von Gräbern ist in die Felswand des Jabal al-Khubtha gehauen. Sie umfassen das Urnengrab, das Seidengrab und das Palastgrab.",
       hu: "Ez az impozáns sírsor a Jabal al-Khubtha sziklafalába van vájva. Közéjük tartozik az Urnasír, a Selyemsír és a Palotasír.",
@@ -80,15 +115,27 @@ image: "/poi-images/royal-tombs-petra-landmarks-v2.webp"
       hu: ["Petra fő völgyére néznek.", "Az Urnasírnak nagy előudvara van.", "A Selyemsír a színes kőzetrétegeivel nyűgöz le.", "Nabateus királyok számára épültek."],
       ro: ["Ele au vedere la valea principală din Petra.", "Mormântul Urnei are o curte mare.", "Mormântul de Mătase impresionează cu straturile sale colorate de piatră.", "Au fost construite pentru regii nabateeni."],
       en: ["They overlook the main valley of Petra.", "The Urn Tomb has a large courtyard.", "The Silk Tomb impresses with colored rock layers.", "They were built for Nabataean kings."]
-    }, image: "/poi-images/royal-tombs-petra-landmarks-v2.webp"},
+    }, image: "/poi-images/royal-tombs-petra-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Königlichen Gräber von Petra sind eine Gruppe monumentaler Felsfassaden, die zwischen dem 1. Jahrhundert v. Chr. und dem 2. Jahrhundert n. Chr. in den Sandstein gehauen wurden. Sie bestehen aus vier Hauptgräbern: dem Urnengrab, dem Seidengrab, dem Korinthischen Grab und dem Palastgrab. Diese Gräber dienten der Bestattung nabatäischer Könige und Eliten. Die Fassaden sind durch ihre aufwendige Architektur und die Kombination verschiedener Stilelemente aus der hellenistischen und nahöstlichen Tradition bekannt. Die Gräber liegen am östlichen Hang des Stadtzentrums und sind bis zu 40 Meter hoch. Die Innenräume sind oft schlicht, während die Außenfassaden reich verziert sind. Der Erhaltungszustand variiert, wobei Verwitterung und seismische Aktivitäten Schäden verursacht haben.",
+      hu: "A petrai Királyi Sírok a város sziklába vájt monumentális temetkezési helyei, melyek a nabateus civilizáció gazdagságát és művészeti magas színvonalát tükrözik. A sírokat az i. e. 1. és i. sz. 2. század között faragták ki a homokkősziklákból. A négy fő sír – az Urnás, a Selyem, a Korinthoszi és a Palota – a nabateus uralkodók és előkelők végső nyughelye volt. Az építészet stílusában hellenisztikus és keleti hatások keverednek, ami a nabateus kultúra szinkretizmusát mutatja. A sírok méretei impozánsak: a Palotasír magassága eléri a 45 métert. A homlokzatok gazdag faragásai között oszlopok, frízek és oromzatok láthatók, amelyek a hellenisztikus építészet hatását tükrözik.",
+      ro: "Mormintele Regale din Petra sunt un ansamblu de fațade monumentale sculptate în gresie, situate pe versantul estic al orașului antic. Acestea datează din perioada cuprinsă între secolul I î.Hr. și secolul II d.Hr. și includ patru morminte principale: Mormântul Urnei, Mormântul de Mătase, Mormântul Corintic și Mormântul Palat. Fațadele, înalte de până la 40 de metri, îmbină elemente arhitecturale elenistice cu tradiții locale nabateene. Geologic, Petra este situată într-un canion de gresie, iar roca moale a permis sculptarea detaliilor fine. Eroziunea eoliană și ploile acide au afectat în timp gravarea. Mormintele au fost folosite și în perioada bizantină, când unele au fost transformate în biserici.",
+      en: "The Royal Tombs of Petra are a series of elaborate rock-cut façades carved into the sandstone cliffs of Petra during the 1st century BCE and 2nd century CE. They consist of four prominent tombs: the Urn Tomb, the Silk Tomb, the Corinthian Tomb, and the Palace Tomb. These tombs were burial sites for Nabataean royalty and nobility. The architectural style reflects Hellenistic influences combined with Eastern traditions. The tombs are renowned for their monumental scale, with façades reaching up to 40 meters in height. The interior chambers are relatively plain, contrasting with the ornate exteriors. Tourism to the tombs is managed by the Petra Archaeological Park, which implements conservation measures to protect against weathering and visitor impact. The site is a UNESCO World Heritage Site since 1985.",
+    },
+    factsAdvanced: {
+      de: ["Die Königlichen Gräber von Petra bestehen aus vier Hauptgräbern: Urnengrab, Seidengrab, Korinthisches Grab und Palastgrab.", "Das Urnengrab ist 16 Meter breit und 18 Meter hoch.", "Die Gräber wurden zwischen dem 1. Jahrhundert v. Chr. und dem 2. Jahrhundert n. Chr. erbaut.", "Das Palastgrab ist 49 Meter breit und 45 Meter hoch, das größte der Königlichen Gräber.", "Die Gräber wurden in den Sandstein des Wadi Musa gehauen, das sich in der Region Ma'an in Jordanien befindet.", "Im 5. Jahrhundert wurde das Urnengrab in eine Kirche umgewandelt."],
+      hu: ["A Királyi Sírok négy fő sírból állnak: Urnás sír, Selyem sír, Korinthoszi sír és Palota sír.", "A Palota sír 49 méter széles és 45 méter magas, a legnagyobb a Királyi Sírok között.", "A sírok i. e. 1. és i. sz. 2. század között épültek.", "Az Urnás sír homlokzata 16 méter széles és 18 méter magas.", "A sírokat a Vádi Músza homokkövébe faragták, a mai Jordánia területén.", "Az 5. században az Urnás sírt templommá alakították át."],
+      ro: ["Mormintele Regale includ patru morminte principale: Mormântul Urnei, Mormântul de Mătase, Mormântul Corintic și Mormântul Palat.", "Mormântul Palat are o lățime de 49 de metri și o înălțime de 45 de metri, fiind cel mai mare dintre Mormintele Regale.", "Mormintele au fost sculptate între secolul I î.Hr. și secolul II d.Hr.", "Mormântul Urnei are o fațadă de 16 metri lățime și 18 metri înălțime.", "Mormintele sunt situate în gresia din Wadi Musa, în sudul Iordaniei.", "În secolul al V-lea, Mormântul Urnei a fost transformat într-o biserică."],
+      en: ["The Royal Tombs consist of four main tombs: the Urn Tomb, Silk Tomb, Corinthian Tomb, and Palace Tomb.", "The Palace Tomb is 49 meters wide and 45 meters high, making it the largest of the Royal Tombs.", "The tombs were carved between the 1st century BCE and the 2nd century CE.", "The Urn Tomb has a façade 16 meters wide and 18 meters high.", "The tombs are carved into the sandstone of Wadi Musa, in present-day Jordan.", "During the 5th century CE, the Urn Tomb was converted into a church."],
+    },
+  },
   {
     id: "great-temple-petra-landmarks-v2",
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4439, 30.3283],
-    name: { de: "Großer Tempel von Petra", hu: "Petra Nagy Temploma", ro: "Marele Templu din Petra", en: "Great Temple of Petra",
-image: "/poi-images/great-temple-petra-landmarks-v2.webp"
-},
+    name: { de: "Großer Tempel von Petra", hu: "Petra Nagy Temploma", ro: "Marele Templu din Petra", en: "Great Temple of Petra"},
+    image: "/poi-images/great-temple-petra-landmarks-v2.webp",
     description: {
       de: "Dieser weitläufige monumentale Komplex liegt im Zentrum von Petra. Er war wahrscheinlich ein großes religiöses oder administratives Zentrum der Nabatäer.",
       hu: "Ez a kiterjedt monumentális komplexum Petra központjában található. Valószínűleg a nabateusok nagy vallási vagy közigazgatási központja volt.",
@@ -100,15 +147,27 @@ image: "/poi-images/great-temple-petra-landmarks-v2.webp"
       hu: ["A terület mintegy 7000 négyzetmétert ölel fel.", "Egy kis színház is található a belsejében.", "Elefántfejes oszlopfőket találtak itt.", "Az építkezést az i.e. 1. században kezdték."],
       ro: ["Zona acoperă aproximativ 7000 de metri pătrați.", "Are un mic teatru în interior.", "Aici au fost găsite capiteluri cu cap de elefant.", "Construcția a început în secolul I î.Hr."],
       en: ["The area covers about 7000 square meters.", "It features a small theater inside.", "Elephant-headed capitals were found here.", "Construction began in the 1st century BC."]
-    }, image: "/poi-images/great-temple-petra-landmarks-v2.webp"},
+    }, image: "/poi-images/great-temple-petra-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Große Tempel in Petra, Jordanien, ist eine ausgedehnte religiöse Anlage aus dem 1. Jahrhundert v. Chr. bis 1. Jahrhundert n. Chr. Er erstreckt sich über etwa 7.000 Quadratmeter und umfasst eine monumentale Treppe, einen Vorhof, einen Tempel im korinthischen Stil und Nebengebäude. Anders als viele andere Bauwerke in Petra wurde der Große Tempel nicht in den Fels gehauen, sondern aus Steinblöcken errichtet. Er war wahrscheinlich dem nabatäischen Gott Dushara geweiht. Ausgrabungen förderten reiche Verzierungen, darunter Kapitelle, Friese und Statuen, zutage. Die Anlage zeigt den Einfluss hellenistischer Architektur auf die Nabatäer.",
+      hu: "A Nagy Templom Petrjában, Jordániában, egy kiterjedt vallási együttes az i. e. 1. századból – i. sz. 1. századból. Területe körülbelül 7000 négyzetméter, magában foglal egy monumentális lépcsőt, előudvart, korinthoszi stílusú templomot és melléképületeket. Ellentétben Petra számos más építményével, a Nagy Templomot nem sziklába vájták, hanem kőtömbökből építették. Valószínűleg Dushara nabateus istennek szentelték. Az ásatások gazdag díszítéseket hoztak felszínre, beleértve oszlopfejeket, frízeket és szobrokat. Az együttes a hellenisztikus építészet nabateusokra gyakorolt hatását mutatja.",
+      ro: "Marele Templu din Petra, Iordania, este un complex religios extins datând din secolul I î.Hr. până în secolul I d.Hr. Se întinde pe aproximativ 7.000 de metri pătrați și include o scară monumentală, un atrium, un templu în stil corintic și anexe. Spre deosebire de multe alte structuri din Petra, Marele Templu nu a fost sculptat în stâncă, ci construit din blocuri de piatră. Probabil a fost dedicat zeului nabateean Dushara. Săpăturile au scos la lumină decorațiuni bogate, inclusiv capiteluri, frize și statui. Complexul demonstrează influența arhitecturii elenistice asupra nabateenilor.",
+      en: "The Great Temple in Petra, Jordan, is an extensive religious complex dating from the 1st century BC to the 1st century AD. It covers about 7,000 square meters and includes a monumental staircase, a forecourt, a Corinthian-style temple, and annexes. Unlike many other structures in Petra, the Great Temple was not carved into the rock but built from stone blocks. It was likely dedicated to the Nabataean god Dushara. Excavations have revealed rich decorations, including capitals, friezes, and statues. The complex shows the influence of Hellenistic architecture on the Nabataeans.",
+    },
+    factsAdvanced: {
+      de: ["Die Gesamtfläche des Tempelbezirks beträgt etwa 7.000 Quadratmeter.", "Der Tempel hatte ursprünglich eine Höhe von etwa 18 Metern.", "Die monumentale Treppe besteht aus 35 Stufen.", "Im Vorhof befand sich ein 14 mal 17 Meter großes Becken.", "Die Ausgrabungen begannen 1973 unter der Leitung der Brown University.", "Es wurden Fragmente von mindestens 15 Marmorstatuen gefunden."],
+      hu: ["A templomkomplexum teljes területe körülbelül 7000 négyzetméter.", "A templom eredeti magassága körülbelül 18 méter volt.", "A monumentális lépcső 35 lépcsőfokból áll.", "Az előudvarban egy 14 x 17 méteres medence volt.", "Az ásatások 1973-ban kezdődtek a Brown Egyetem vezetésével.", "Legalább 15 márványszobor töredékeit találták meg."],
+      ro: ["Suprafața totală a complexului templului este de aproximativ 7.000 de metri pătrați.", "Templul avea inițial o înălțime de aproximativ 18 metri.", "Scara monumentală are 35 de trepte.", "În atrium se afla un bazin de 14 x 17 metri.", "Săpăturile au început în 1973 sub conducerea Universității Brown.", "Au fost găsite fragmente de la cel puțin 15 statui de marmură."],
+      en: ["The total area of the temple complex is about 7,000 square meters.", "The temple originally stood about 18 meters high.", "The monumental staircase consists of 35 steps.", "The forecourt contained a 14 by 17 meter pool.", "Excavations began in 1973 under the direction of Brown University.", "Fragments of at least 15 marble statues were found."],
+    },
+  },
   {
     id: "little-petra-landmarks-v2",
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4428, 30.3734],
-    name: { de: "Klein-Petra (Siq al-Barid)", hu: "Kis Petra (Siq al-Barid)", ro: "Mica Petra (Siq al-Barid)", en: "Little Petra (Siq al-Barid)",
-image: "/poi-images/little-petra-landmarks-v2.webp"
-},
+    name: { de: "Klein-Petra (Siq al-Barid)", hu: "Kis Petra (Siq al-Barid)", ro: "Mica Petra (Siq al-Barid)", en: "Little Petra (Siq al-Barid)"},
+    image: "/poi-images/little-petra-landmarks-v2.webp",
     description: {
       de: "Diese abgelegene Stätte nördlich von Petra diente einst als Vorort für durchreisende Händler. Sie beherbergt gut erhaltene in den Fels gehauene Speisesäle und Fresken.",
       hu: "Ez az elszigetelt helyszín Petrától északra egykor az átutazó kereskedők külvárosaként szolgált. Jól karbantartott sziklába vájt étkezők és freskók találhatók itt.",
@@ -120,15 +179,27 @@ image: "/poi-images/little-petra-landmarks-v2.webp"
       hu: ["A Siq al-Barid név azt jelenti: 'Hideg szurdok'.", "Ritka nabateus mennyezetfestmények láthatók itt.", "A hely karavánok pihenőhelyéül szolgált.", "Jóval csendesebb, mint a fővölgy."],
       ro: ["Numele Siq al-Barid înseamnă 'Canionul Rece'.", "Există picturi pe tavan nabateene rare.", "Locul a servit drept popas pentru caravane.", "Este mult mai liniștit decât valea principală."],
       en: ["The name Siq al-Barid means 'Cold Canyon'.", "There are rare Nabataean ceiling paintings.", "The place served as a resting place for caravans.", "It is much quieter than the main valley."]
-    }, image: "/poi-images/little-petra-landmarks-v2.webp"},
+    }, image: "/poi-images/little-petra-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Little Petra, auch bekannt als Siq al-Barid, ist eine archäologische Stätte etwa 6 Kilometer nördlich von Petra in Jordanien. Sie diente als Handelsposten und Wohnviertel der Nabatäer im 1. Jahrhundert n. Chr. Der Ort besteht aus einem engen Tal, in das zahlreiche Wohnhöhlen, Gräber, Tempel und Wassersysteme gehauen sind. Besonders bemerkenswert ist eine Höhle mit gut erhaltenen Wandmalereien, die die einzigen erhaltenen Beispiele nabatäischer Fresken sind. Little Petra war über Kanäle mit dem Hauptwassersystem von Petra verbunden. Es ist ein ruhigerer, aber ebenso faszinierender Teil des UNESCO-Weltkulturerbes.",
+      hu: "Kis Petra, más néven Siq al-Barid, egy régészeti lelőhely körülbelül 6 kilométerre Petrától északra, Jordániában. A nabateusok kereskedelmi állomásaként és lakónegyedeként szolgált az 1. században. A hely egy szűk völgyből áll, amelybe számos lakóbarlangot, sírt, templomot és vízrendszert vájtak. Különösen figyelemre méltó egy barlang jól megőrzött falfestményekkel, amelyek a nabateus freskók egyetlen fennmaradt példái. Kis Petra csatornákon keresztül kapcsolódott Petra fő vízrendszeréhez. Az UNESCO világörökség csendesebb, de ugyanolyan lenyűgöző része.",
+      ro: "Petra Mică, cunoscută și sub numele de Siq al-Barid, este un sit arheologic la aproximativ 6 kilometri nord de Petra, Iordania. A servit ca post comercial și cartier rezidențial nabateean în secolul I d.Hr. Locul constă dintr-o vale îngustă în care au fost săpate numeroase peșteri locuite, morminte, temple și sisteme de apă. Deosebit de remarcabilă este o peșteră cu picturi murale bine conservate, singurele exemple păstrate de fresce nabateene. Petra Mică era conectată prin canale la sistemul principal de apă al Petrei. Este o parte mai liniștită, dar la fel de fascinantă a Patrimoniului Mondial UNESCO.",
+      en: "Little Petra, also known as Siq al-Barid, is an archaeological site about 6 kilometers north of Petra in Jordan. It served as a trading post and residential quarter for the Nabataeans in the 1st century AD. The site consists of a narrow valley into which numerous cave dwellings, tombs, temples, and water systems are carved. Particularly notable is a cave with well-preserved wall paintings, which are the only surviving examples of Nabataean frescoes. Little Petra was connected via channels to Petra's main water system. It is a quieter but equally fascinating part of the UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Little Petra liegt etwa 6 Kilometer nördlich von Petra.", "Das Tal ist etwa 450 Meter lang.", "Es gibt über 30 ausgehauene Räume in den Felswänden.", "Die Wandmalereien in der Höhle stammen aus dem 1. Jahrhundert n. Chr.", "Die Fresken bedecken eine Fläche von etwa 20 Quadratmetern.", "Little Petra wurde erst 1984 wiederentdeckt."],
+      hu: ["Kis Petra körülbelül 6 kilométerre északra fekszik Petrától.", "A völgy hossza körülbelül 450 méter.", "Több mint 30 kivájt helyiség található a sziklafalakban.", "A barlang falfestményei az 1. századból származnak.", "A freskók körülbelül 20 négyzetméternyi területet fednek le.", "Kis Petrát csak 1984-ben fedezték fel újra."],
+      ro: ["Petra Mică se află la aproximativ 6 kilometri nord de Petra.", "Valea are aproximativ 450 de metri lungime.", "Există peste 30 de încăperi săpate în pereții stâncoși.", "Picturile murale din peșteră datează din secolul I d.Hr.", "Frescele acoperă o suprafață de aproximativ 20 de metri pătrați.", "Petra Mică a fost redescoperită abia în 1984."],
+      en: ["Little Petra is about 6 kilometers north of Petra.", "The valley is about 450 meters long.", "There are over 30 carved rooms in the rock faces.", "The wall paintings in the cave date from the 1st century AD.", "The frescoes cover an area of about 20 square meters.", "Little Petra was rediscovered only in 1984."],
+    },
+  },
   {
     id: "nymphaeum-amman-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [35.9370, 31.9515],
-    name: { de: "Nymphäum von Amman", hu: "Ammáni Nymphaeum", ro: "Nimfeul din Amman", en: "Nymphaeum of Amman",
-image: "/poi-images/nymphaeum-amman-landmarks-v2.webp"
-},
+    name: { de: "Nymphäum von Amman", hu: "Ammáni Nymphaeum", ro: "Nimfeul din Amman", en: "Nymphaeum of Amman"},
+    image: "/poi-images/nymphaeum-amman-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler öffentlicher Brunnen aus der Römerzeit, der sich in der Innenstadt von Amman befindet. Er war einst mit Mosaiken, Steinmetzarbeiten und einem großen Pool geschmückt.",
       hu: "Egy monumentális ókori római közútikút Ammán belvárosában. Egykor mozaikokkal, kőfaragványokkal és egy nagy medencével díszítették.",
@@ -140,15 +211,27 @@ image: "/poi-images/nymphaeum-amman-landmarks-v2.webp"
       hu: ["Kr. u. 191-ben épült.", "A komplexum kétszintes volt.", "A víz faragott oroszlánfejekből folyt.", "Felfrissülést nyújtott az utazóknak."],
       ro: ["A fost construit în 191 d.Hr.", "Complexul avea două etaje.", "Apa curgea din capete de leu sculptate.", "Ofertea răcorire pentru călători."],
       en: ["It was built in 191 AD.", "The complex was two stories high.", "Water flowed from carved lion heads.", "It provided refreshment for travelers."]
-    }, image: "/poi-images/nymphaeum-amman-landmarks-v2.webp"},
+    }, image: "/poi-images/nymphaeum-amman-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nymphaeum von Amman, Jordanien, ist ein römischer Brunnen und eine öffentliche Gedenkstätte aus dem 2. Jahrhundert n. Chr. Es befindet sich im Stadtzentrum, in der Nähe des römischen Theaters. Das Nymphaeum war den Nymphen, den weiblichen Naturgeistern der griechischen Mythologie, gewidmet. Es hatte eine reich verzierte Fassade mit Nischen, Säulen und einer großen Apsis. Wasser floss aus einem Becken in der Mitte, das von Statuen umgeben war. Das Gebäude wurde im 7. Jahrhundert durch ein Erdbeben beschädigt. Heute sind nur noch die Grundmauern und einige Säulen erhalten, aber es bleibt ein wichtiges Zeugnis römischer Stadtplanung.",
+      hu: "Az ammani Nymphaeum, Jordánia, egy római szökőkút és nyilvános emlékmű a 2. századból. A városközpontban található, a római színház közelében. A Nymphaeumot a nimfáknak, a görög mitológia női természetszellemeinek szentelték. Gazdagon díszített homlokzata fülkékkel, oszlopokkal és egy nagy apszissal rendelkezett. A közepén lévő medencéből víz folyt, amelyet szobrok vettek körül. Az épületet a 7. században egy földrengés károsította meg. Ma már csak az alapfalak és néhány oszlop maradt meg, de a római várostervezés fontos bizonyítéka maradt.",
+      ro: "Nymphaeumul din Amman, Iordania, este o fântână romană și un monument public din secolul al II-lea d.Hr. Se află în centrul orașului, lângă teatrul roman. Nymphaeumul era dedicat nimfelor, spiritele feminine ale naturii din mitologia greacă. Avea o fațadă bogat decorată cu nișe, coloane și o absidă mare. Apa curgea dintr-un bazin în centru, înconjurat de statui. Clădirea a fost avariată de un cutremur în secolul al VII-lea. Astăzi, doar fundațiile și câteva coloane s-au păstrat, dar rămâne o mărturie importantă a urbanismului roman.",
+      en: "The Nymphaeum of Amman, Jordan, is a Roman fountain and public monument from the 2nd century AD. It is located in the city center, near the Roman Theater. The Nymphaeum was dedicated to the nymphs, female nature spirits of Greek mythology. It had an elaborately decorated façade with niches, columns, and a large apse. Water flowed from a basin in the center, surrounded by statues. The building was damaged by an earthquake in the 7th century. Today, only the foundations and some columns remain, but it remains an important testimony to Roman urban planning.",
+    },
+    factsAdvanced: {
+      de: ["Das Nymphaeum wurde zwischen 191 und 192 n. Chr. erbaut.", "Die Fassade war ursprünglich mit Marmor verkleidet.", "Das Becken in der Mitte hatte einen Durchmesser von etwa 10 Metern.", "Das Gebäude ist etwa 30 Meter lang und 20 Meter breit.", "Es wurde im 7. Jahrhundert durch ein Erdbeben zerstört.", "Das Nymphaeum war Teil des städtischen Wasserversorgungssystems von Philadelphia (Amman)."],
+      hu: ["A Nymphaeum i. sz. 191 és 192 között épült.", "A homlokzatot eredetileg márvánnyal borították.", "A közepén lévő medence átmérője körülbelül 10 méter volt.", "Az épület körülbelül 30 méter hosszú és 20 méter széles.", "A 7. században egy földrengés pusztította el.", "A Nymphaeum Philadelphia (Amman) városi vízellátó rendszerének része volt."],
+      ro: ["Nymphaeumul a fost construit între 191 și 192 d.Hr.", "Fațada era inițial placată cu marmură.", "Bazinul central avea un diametru de aproximativ 10 metri.", "Clădirea are aproximativ 30 de metri lungime și 20 de metri lățime.", "A fost distrus de un cutremur în secolul al VII-lea.", "Nymphaeumul făcea parte din sistemul de alimentare cu apă al Philadelphiei (Amman)."],
+      en: ["The Nymphaeum was built between AD 191 and 192.", "The façade was originally clad in marble.", "The central basin had a diameter of about 10 meters.", "The building is about 30 meters long and 20 meters wide.", "It was destroyed by an earthquake in the 7th century.", "The Nymphaeum was part of the urban water supply system of Philadelphia (Amman)."],
+    },
+  },
   {
     id: "umayyad-palace-amman-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [35.9348, 31.9550],
-    name: { de: "Umayyaden-Palast", hu: "Omajád palota", ro: "Palatul Umayyad", en: "Umayyad Palace",
-image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp"
-},
+    name: { de: "Umayyaden-Palast", hu: "Omajád palota", ro: "Palatul Umayyad", en: "Umayyad Palace"},
+    image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp",
     description: {
       de: "Dieser Ruinenkomplex auf dem Zitadellenhügel stammt aus dem 8. Jahrhundert. Das restaurierte Monumentaltor mit seiner Kuppel ist das markanteste Merkmal.",
       hu: "Ez a Citadella-hegyen lévő romkomplexum a 8. századból származik. A felújított, kupolás monumentális kapu a legmeghatározóbb eleme.",
@@ -160,15 +243,27 @@ image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp"
       hu: ["A komplexum a tartományi kormányzó székhelye volt.", "A jelenlegi kupolát spanyol régészek adták hozzá.", "Egy nagy víztartály biztosította az ellátást.", "749-ben egy földrengés pusztította el."],
       ro: ["Complexul a fost sediul guvernatorului provinciei.", "Domul actual a fost adăugat de arheologii spanioli.", "Un rezervor mare de apă a asigurat aprovizionarea.", "A fost distrus de un cutremur în 749."],
       en: ["The complex was the seat of the provincial governor.", "The current dome was added by Spanish archaeologists.", "A large water tank ensured the supply.", "It was destroyed by an earthquake in 749."]
-    }, image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp"},
+    }, image: "/poi-images/umayyad-palace-amman-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Umayyaden-Palast auf der Zitadelle von Amman, Jordanien, ist ein frühislamischer Palastkomplex aus dem 8. Jahrhundert. Er wurde während der Herrschaft der Umayyaden-Dynastie erbaut und diente als Verwaltungs- und Residenzgebäude. Der Palast umfasst einen großen Innenhof, mehrere Räume, eine Moschee und ein monumentales Tor. Die Architektur zeigt byzantinische und sassanidische Einflüsse, die für die frühislamische Kunst charakteristisch sind. Besonders bemerkenswert ist die aufwendige Stuckdekoration im Thronsaal. Der Palast wurde durch ein Erdbeben im Jahr 749 n. Chr. zerstört. Heute ist er eine bedeutende historische Stätte auf dem Zitadellenhügel.",
+      hu: "Az Omajjád-palota Amman fellegvárában, Jordániában, egy kora iszlám palotaegyüttes a 8. századból. Az omajjád dinasztia uralma alatt épült, és közigazgatási és lakóépületként szolgált. A palota magában foglal egy nagy belső udvart, több helyiséget, egy mecsetet és egy monumentális kaput. Az építészet bizánci és szászánida hatásokat mutat, ami jellemző a kora iszlám művészetre. Különösen figyelemre méltó a trónterem gazdag stukkódíszítése. A palotát egy földrengés pusztította el i. sz. 749-ben. Ma a fellegvár dombján található jelentős történelmi helyszín.",
+      ro: "Palatul Omeiad de pe citadela Ammanului, Iordania, este un complex palatinal islamic timpuriu din secolul al VIII-lea. A fost construit sub dinastia omeiadă și a servit ca clădire administrativă și de locuit. Palatul include o curte interioară mare, mai multe camere, o moschee și o poartă monumentală. Arhitectura prezintă influențe bizantine și sasanide, caracteristice artei islamice timpurii. Deosebit de remarcabilă este decorarea bogată din stuc a sălii tronului. Palatul a fost distrus de un cutremur în anul 749 d.Hr. Astăzi, este un sit istoric important pe dealul citadelei.",
+      en: "The Umayyad Palace on the Amman Citadel, Jordan, is an early Islamic palace complex from the 8th century. It was built during the Umayyad dynasty and served as an administrative and residential building. The palace includes a large inner courtyard, several rooms, a mosque, and a monumental gate. The architecture shows Byzantine and Sassanid influences, characteristic of early Islamic art. Particularly noteworthy is the elaborate stucco decoration in the throne room. The palace was destroyed by an earthquake in AD 749. Today, it is an important historical site on the Citadel hill.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau des Palastes begann um 720 n. Chr.", "Der Innenhof misst 30 mal 30 Meter.", "Die Mauern bestehen aus Kalkstein und Ziegeln.", "Der Thronsaal hat eine Grundfläche von 10 mal 10 Metern.", "Das Erdbeben von 749 n. Chr. verursachte massive Schäden.", "Der Palast wurde in den 1990er Jahren teilweise restauriert."],
+      hu: ["A palota építése i. sz. 720 körül kezdődött.", "A belső udvar 30 x 30 méteres.", "A falak mészkőből és téglából készültek.", "A trónterem alapterülete 10 x 10 méter.", "A 749-es földrengés súlyos károkat okozott.", "A palotát az 1990-es években részben restaurálták."],
+      ro: ["Construcția palatului a început în jurul anului 720 d.Hr.", "Curtea interioară măsoară 30 x 30 de metri.", "Zidurile sunt din calcar și cărămidă.", "Sala tronului are o suprafață de 10 x 10 metri.", "Cutremurul din 749 d.Hr. a provocat daune masive.", "Palatul a fost parțial restaurat în anii 1990."],
+      en: ["Construction of the palace began around AD 720.", "The inner courtyard measures 30 by 30 meters.", "The walls are made of limestone and brick.", "The throne room has a floor area of 10 by 10 meters.", "The earthquake of AD 749 caused massive damage.", "The palace was partially restored in the 1990s."],
+    },
+  },
   {
     id: "king-abdullah-mosque-amman-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [35.9135, 31.9613],
-    name: { de: "König-Abdullah-I.-Moschee", hu: "I. Abdullah király mecset", ro: "Moscheea Regele Abdullah I", en: "King Abdullah I Mosque",
-image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp"
-},
+    name: { de: "König-Abdullah-I.-Moschee", hu: "I. Abdullah király mecset", ro: "Moscheea Regele Abdullah I", en: "King Abdullah I Mosque"},
+    image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp",
     description: {
       de: "Ein unverwechselbares Wahrzeichen Ammans, bekannt für seine prächtige blaue Mosaikkuppel. Sie ist eine der wenigen Moscheen in Jordanien, die von Nicht-Muslimen besucht werden darf.",
       hu: "Ammán egyik jellegzetes nevezetessége, amely pompás kék mozaikkupolájáról ismert. Azon kevés jordániai mecsetek egyike, amelyet nem muszlimok is látogathatnak.",
@@ -180,15 +275,27 @@ image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp"
       hu: ["1982 és 1989 között épült.", "A kupola átmérője 35 méter.", "3000 hívő befogadására alkalmas.", "Belsejében egy iszlám múzeum is található."],
       ro: ["A fost construită între 1982 și 1989.", "Domul are un diametru de 35 de metri.", "Poate găzdui 3000 de credincioși.", "În interior există un muzeu islamic."],
       en: ["It was built between 1982 and 1989.", "The dome has a diameter of 35 meters.", "It can accommodate 3000 worshipers.", "There is an Islamic museum inside."]
-    }, image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp"},
+    }, image: "/poi-images/king-abdullah-mosque-amman-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die König-Abdullah-I.-Moschee in Amman, Jordanien, ist eine der markantesten Moscheen der Stadt. Sie wurde zwischen 1982 und 1989 erbaut und ist nach dem Gründer des modernen Jordanien, König Abdullah I., benannt. Die Moschee hat eine beeindruckende blaue Kuppel, die 35 Meter hoch und 20 Meter im Durchmesser ist. Sie bietet Platz für etwa 3.000 Gläubige. Das Innere ist mit Marmor und Mosaiken verziert. Die Moschee ist für Nicht-Muslime geöffnet und beherbergt ein Museum für islamische Kunst. Sie ist ein Symbol für die moderne jordanische Architektur und den religiösen Dialog.",
+      hu: "Az I. Abdullah király mecset Ammanban, Jordániában, a város egyik legjellegzetesebb mecsetje. 1982 és 1989 között épült, és a modern Jordánia alapítójáról, I. Abdullah királyról kapta a nevét. A mecset lenyűgöző kék kupolával rendelkezik, amely 35 méter magas és 20 méter átmérőjű. Körülbelül 3000 hívő befogadására alkalmas. A belső teret márvány és mozaik díszíti. A mecset nem muzulmánok előtt is nyitva áll, és egy iszlám művészeti múzeumnak ad otthont. A modern jordán építészet és a vallási párbeszéd szimbóluma.",
+      ro: "Moscheea Regelui Abdullah I din Amman, Iordania, este una dintre cele mai emblematice moschei ale orașului. A fost construită între 1982 și 1989 și poartă numele fondatorului Iordaniei moderne, Regele Abdullah I. Moscheea are o cupolă albastră impresionantă, înaltă de 35 de metri și cu un diametru de 20 de metri. Poate găzdui aproximativ 3.000 de credincioși. Interiorul este decorat cu marmură și mozaicuri. Moscheea este deschisă pentru nemusulmani și găzduiește un muzeu de artă islamică. Este un simbol al arhitecturii moderne iordaniene și al dialogului religios.",
+      en: "King Abdullah I Mosque in Amman, Jordan, is one of the most distinctive mosques in the city. It was built between 1982 and 1989 and is named after the founder of modern Jordan, King Abdullah I. The mosque features an impressive blue dome, 35 meters high and 20 meters in diameter. It can accommodate about 3,000 worshippers. The interior is decorated with marble and mosaics. The mosque is open to non-Muslims and houses a museum of Islamic art. It is a symbol of modern Jordanian architecture and religious dialogue.",
+    },
+    factsAdvanced: {
+      de: ["Die Bauzeit betrug 7 Jahre, von 1982 bis 1989.", "Die Kuppel hat einen Durchmesser von 20 Metern.", "Das Minarett ist 70 Meter hoch.", "Das Fassungsvermögen beträgt etwa 3.000 Gläubige.", "Das Museum für islamische Kunst wurde 1990 eröffnet.", "Die Moschee liegt im Stadtteil Abdali auf einer Fläche von 4.000 Quadratmetern."],
+      hu: ["Az építés 7 évig tartott, 1982-től 1989-ig.", "A kupola átmérője 20 méter.", "A minaret magassága 70 méter.", "Befogadóképessége körülbelül 3000 hívő.", "Az iszlám művészeti múzeum 1990-ben nyílt meg.", "A mecset a város Abdali negyedében található, területe 4000 négyzetméter."],
+      ro: ["Construcția a durat 7 ani, între 1982 și 1989.", "Cupola are un diametru de 20 de metri.", "Minaretul are 70 de metri înălțime.", "Capacitatea este de aproximativ 3.000 de credincioși.", "Muzeul de artă islamică a fost deschis în 1990.", "Moscheea este situată în cartierul Abdali, pe o suprafață de 4.000 de metri pătrați."],
+      en: ["Construction took 7 years, from 1982 to 1989.", "The dome has a diameter of 20 meters.", "The minaret is 70 meters high.", "The capacity is about 3,000 worshippers.", "The Museum of Islamic Art opened in 1990.", "The mosque is located in the Abdali district on a 4,000-square-meter site."],
+    },
+  },
   {
     id: "abu-darwish-mosque-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [35.9343, 31.9392],
-    name: { de: "Abu-Darwisch-Moschee", hu: "Abu Darwish mecset", ro: "Moscheea Abu Darwish", en: "Abu Darwish Mosque",
-image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp"
-},
+    name: { de: "Abu-Darwisch-Moschee", hu: "Abu Darwish mecset", ro: "Moscheea Abu Darwish", en: "Abu Darwish Mosque"},
+    image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp",
     description: {
       de: "Diese Moschee erhebt sich auf dem Jabal al-Ashrafiyeh und sticht durch ihr charakteristisches Muster aus abwechselnd schwarzen und weißen Steinen hervor.",
       hu: "Ez a mecset a Jabal al-Ashrafiyeh hegyen magasodik, és a fekete és fehér kövek váltakozó, jellegzetes mintázatával tűnik ki.",
@@ -200,15 +307,27 @@ image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp"
       hu: ["A mecset 1961-ben épült.", "A kövek Jordánia különböző régióiból származnak.", "Ammán számos pontjáról jól látható.", "A nem muszlimok csak kívülről tekinthetik meg az épületet."],
       ro: ["Moscheea a fost construită în 1961.", "Pietrele provin din diferite regiuni ale Iordaniei.", "Este vizibilă din multe părți ale Ammanului.", "Non-musulmanii pot privi clădirea doar din exterior."],
       en: ["The mosque was built in 1961.", "The stones come from different regions of Jordan.", "It is visible from many parts of Amman.", "Non-Muslims are only allowed to view the building from the outside."]
-    }, image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/abu-darwish-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Abu-Darwisch-Moschee in Amman, Jordanien, ist bekannt für ihr auffälliges schwarz-weißes Streifenmuster. Sie wurde in den 1960er Jahren auf einem Hügel im östlichen Teil der Stadt erbaut. Die Moschee ist nach dem jordanischen Geschäftsmann und Philanthropen Abu Darwisch benannt, der sie finanzierte. Der Stil ist von osmanischen und mamlukischen Architekturelementen inspiriert. Die Moschee hat ein Minarett und eine große Kuppel. Sie bietet Platz für etwa 2.000 Gläubige. Die Inneneinrichtung ist schlicht, aber elegant, mit Marmorböden und Kronleuchtern. Die Moschee ist ein beliebtes Wahrzeichen und ein Beispiel für zeitgenössische islamische Architektur in Jordanien.",
+      hu: "Az Abu Darwish mecset Ammanban, Jordániában, feltűnő fekete-fehér csíkos mintázatáról ismert. Az 1960-as években épült a város keleti részén lévő dombon. A mecset az azt finanszírozó jordán üzletember és filantróp, Abu Darwish nevét viseli. Stílusát oszmán és mamlúk építészeti elemek ihlették. A mecsetnek egy minaretje és egy nagy kupolája van. Körülbelül 2000 hívő befogadására alkalmas. A belső kialakítás egyszerű, de elegáns, márványpadlóval és csillárokkal. A mecset népszerű látványosság és a kortárs iszlám építészet példája Jordániában.",
+      ro: "Moscheea Abu Darwish din Amman, Iordania, este cunoscută pentru modelul său izbitor cu dungi alb-negru. A fost construită în anii 1960 pe un deal din partea de est a orașului. Moscheea poartă numele omului de afaceri și filantropului iordanian Abu Darwish, care a finanțat-o. Stilul este inspirat de elemente arhitecturale otomane și mameluce. Moscheea are un minaret și o cupolă mare. Poate găzdui aproximativ 2.000 de credincioși. Interiorul este simplu, dar elegant, cu podele de marmură și candelabre. Moscheea este un reper popular și un exemplu de arhitectură islamică contemporană în Iordania.",
+      en: "Abu Darwish Mosque in Amman, Jordan, is known for its striking black-and-white striped pattern. It was built in the 1960s on a hill in the eastern part of the city. The mosque is named after the Jordanian businessman and philanthropist Abu Darwish, who funded it. The style is inspired by Ottoman and Mamluk architectural elements. The mosque has one minaret and a large dome. It can accommodate about 2,000 worshippers. The interior is simple but elegant, with marble floors and chandeliers. The mosque is a popular landmark and an example of contemporary Islamic architecture in Jordan.",
+    },
+    factsAdvanced: {
+      de: ["Die Moschee wurde 1961 fertiggestellt.", "Das Minarett ist 45 Meter hoch.", "Die Kuppel hat einen Durchmesser von 15 Metern.", "Die schwarz-weißen Bänder bestehen aus abwechselnden Schichten von schwarzem und weißem Stein.", "Die Baukosten beliefen sich auf etwa 3 Millionen Dinar.", "Die Moschee befindet sich auf dem Jabal al-Ashrafiyeh, dem höchsten Hügel in Ost-Amman."],
+      hu: ["A mecset 1961-ben készült el.", "A minaret 45 méter magas.", "A kupola átmérője 15 méter.", "A fekete-fehér sávok fekete és fehér kő váltakozó rétegeiből állnak.", "Az építési költség körülbelül 3 millió dinár volt.", "A mecset a Jabal al-Ashrafiyeh-n, Kelet-Amman legmagasabb dombján található."],
+      ro: ["Moscheea a fost finalizată în 1961.", "Minaretul are 45 de metri înălțime.", "Cupola are un diametru de 15 metri.", "Dungile alb-negru sunt realizate din straturi alternative de piatră neagră și albă.", "Costurile de construcție s-au ridicat la aproximativ 3 milioane de dinari.", "Moscheea este situată pe dealul Jabal al-Ashrafiyeh, cel mai înalt deal din estul Ammanului."],
+      en: ["The mosque was completed in 1961.", "The minaret is 45 meters high.", "The dome has a diameter of 15 meters.", "The black-and-white bands are made of alternating layers of black and white stone.", "Construction costs amounted to about 3 million dinars.", "The mosque is located on Jabal al-Ashrafiyeh, the highest hill in East Amman."],
+    },
+  },
   {
     id: "qasr-al-abd-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [35.7511, 31.9126],
-    name: { de: "Qasr al-Abd", hu: "Qasr al-Abd", ro: "Qasr al-Abd", en: "Qasr al-Abd",
-image: "/poi-images/qasr-al-abd-landmarks-v2.webp"
-},
+    name: { de: "Qasr al-Abd", hu: "Qasr al-Abd", ro: "Qasr al-Abd", en: "Qasr al-Abd"},
+    image: "/poi-images/qasr-al-abd-landmarks-v2.webp",
     description: {
       de: "Ein hellenistischer Palast nahe Iraq al-Amir, der aus riesigen Steinblöcken errichtet wurde. Er ist eines der wenigen erhaltenen Beispiele für diese Architektur in der Region.",
       hu: "Egy hellenisztikus palota Iraq al-Amir közelében, amelyet hatalmas kőtömbökből építettek. Az egyik kevés fennmaradt példája ennek az építészetnek a régióban.",
@@ -220,15 +339,27 @@ image: "/poi-images/qasr-al-abd-landmarks-v2.webp"
       hu: ["Az építmény az i.e. 2. századból származik.", "A név jelentése 'A rabszolga kastélya'.", "Néhány kőtömb súlya meghaladja a 15 tonnát.", "A külső falakon oroszlános domborművek találhatók."],
       ro: ["Structura datează din secolul al II-lea î.Hr.", "Numele înseamnă 'Castelul Sclavului'.", "Unele blocuri de piatră cântăresc peste 15 tone.", "Pe pereții exteriori sunt sculptate reliefuri cu lei."],
       en: ["The structure dates from the 2nd century BC.", "The name means 'Castle of the Slave'.", "Some stone blocks weigh over 15 tons.", "Lion reliefs are carved on the outer walls."]
-    }, image: "/poi-images/qasr-al-abd-landmarks-v2.webp"},
+    }, image: "/poi-images/qasr-al-abd-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Qasr al-Abd ist ein antikes Bauwerk im irakischen Wadi el-Kuf, etwa 100 Kilometer westlich von Bagdad. Es wurde im 2. Jahrhundert v. Chr. von den Parthern erbaut und diente wahrscheinlich als Palast oder Tempel. Der Name bedeutet „Palast des Dieners“. Das Gebäude ist aus großen Kalksteinblöcken errichtet und mit Reliefs von Tieren wie Löwen und Greifen verziert. Es war Teil einer größeren Siedlung. Qasr al-Abd wurde im 19. Jahrhundert von europäischen Reisenden wiederentdeckt und ist heute eine wichtige archäologische Stätte. Die Architektur zeigt eine Mischung aus hellenistischen und mesopotamischen Einflüssen.",
+      hu: "Qasr al-Abd egy ősi építmény az iraki Wadi el-Kufban, Bagdadtól körülbelül 100 kilométerre nyugatra. A pártusok építették az i. e. 2. században, és valószínűleg palotaként vagy templomként szolgált. A név jelentése „A szolga palotája”. Az épület nagy mészkőtömbökből készült, és állatreliefekkel díszítették, például oroszlánokkal és griffekkel. Egy nagyobb település része volt. Qasr al-Abdot a 19. században fedezték fel újra európai utazók, és ma fontos régészeti lelőhely. Az építészet hellenisztikus és mezopotámiai hatások keverékét mutatja.",
+      ro: "Qasr al-Abd este o structură antică în Wadi el-Kuf din Irak, la aproximativ 100 de kilometri vest de Bagdad. A fost construit de parți în secolul al II-lea î.Hr. și a servit probabil ca palat sau templu. Numele înseamnă „Palatul Slujitorului”. Clădirea este construită din blocuri mari de calcar și decorată cu reliefuri de animale, precum lei și grifoni. Făcea parte dintr-o așezare mai mare. Qasr al-Abd a fost redescoperit în secolul al XIX-lea de călători europeni și astăzi este un sit arheologic important. Arhitectura prezintă un amestec de influențe elenistice și mesopotamiene.",
+      en: "Qasr al-Abd is an ancient structure in the Wadi el-Kuf in Iraq, about 100 kilometers west of Baghdad. It was built by the Parthians in the 2nd century BC and likely served as a palace or temple. The name means 'Palace of the Servant'. The building is made of large limestone blocks and decorated with reliefs of animals such as lions and griffins. It was part of a larger settlement. Qasr al-Abd was rediscovered in the 19th century by European travelers and is now an important archaeological site. The architecture shows a mix of Hellenistic and Mesopotamian influences.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau begann im 2. Jahrhundert v. Chr. unter parthischer Herrschaft.", "Die Grundfläche des Gebäudes beträgt etwa 50 mal 40 Meter.", "Die Mauern sind bis zu 6 Meter dick.", "Die Reliefs zeigen unter anderem kämpfende Löwen.", "Das Gebäude hatte wahrscheinlich ein Dach aus Zedernholz.", "Qasr al-Abd wurde 1836 von James Silk Buckingham wiederentdeckt."],
+      hu: ["Az építkezés az i. e. 2. században kezdődött a pártus uralom alatt.", "Az épület alapterülete körülbelül 50 x 40 méter.", "A falak vastagsága eléri a 6 métert.", "A reliefek többek között küzdő oroszlánokat ábrázolnak.", "Az épületnek valószínűleg cédrusfa teteje volt.", "Qasr al-Abdot 1836-ban fedezte fel újra James Silk Buckingham."],
+      ro: ["Construcția a început în secolul al II-lea î.Hr. sub dominația partă.", "Suprafața clădirii este de aproximativ 50 x 40 de metri.", "Zidurile au o grosime de până la 6 metri.", "Reliefurile înfățișează, printre altele, lei în luptă.", "Clădirea avea probabil un acoperiș din lemn de cedru.", "Qasr al-Abd a fost redescoperit în 1836 de James Silk Buckingham."],
+      en: ["Construction began in the 2nd century BC under Parthian rule.", "The building's footprint is about 50 by 40 meters.", "The walls are up to 6 meters thick.", "The reliefs depict, among other things, fighting lions.", "The building likely had a roof of cedar wood.", "Qasr al-Abd was rediscovered in 1836 by James Silk Buckingham."],
+    },
+  },
   {
     id: "oval-plaza-jerash-landmarks-v2",
     type: "landmark",
     parent: "JO-JA",
     coords: [35.8913, 32.2771],
-    name: { de: "Ovales Forum", hu: "Ovális tér (Dzseras)", ro: "Piața Ovală (Jerash)", en: "Oval Plaza",
-image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp"
-},
+    name: { de: "Ovales Forum", hu: "Ovális tér (Dzseras)", ro: "Piața Ovală (Jerash)", en: "Oval Plaza"},
+    image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp",
     description: {
       de: "Dieser asymmetrische, von majestätischen ionischen Säulen umgebene Platz diente als verbindendes Element zwischen der Hauptstraße und dem Zeustempel in Jerash.",
       hu: "Ez a fenséges ión oszlopokkal körülvett, aszimmetrikus tér összekötő elemként szolgált a főutca és a Zeusz-templom között Dzserasban.",
@@ -240,15 +371,27 @@ image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp"
       hu: ["Lenyűgöző 90-szer 80 méteres méretű.", "56 ión oszlop szegélyezi.", "A teret az 1. században alakították ki.", "Piactérként és találkozóhelyként szolgált."],
       ro: ["Măsoară impresionant 90 pe 80 de metri.", "Este mărginit de 56 de coloane ionice.", "Piața a fost creată în secolul I.", "A servit ca piață și loc de adunare."],
       en: ["It measures an impressive 90 by 80 meters.", "It is lined with 56 Ionic columns.", "The plaza was created in the 1st century.", "It served as a marketplace and gathering place."]
-    }, image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp"},
+    }, image: "/poi-images/oval-plaza-jerash-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ovale Platz (Forum) in Jerash ist einer der größten und besterhaltenen öffentlichen Plätze der römischen Welt. Er wurde im 1. Jahrhundert n. Chr. unter Kaiser Trajan erbaut und hat eine ungewöhnliche ovale Form, die von 56 ionischen Säulen umgeben ist. Mit einer Länge von 90 Metern und einer Breite von 80 Metern diente er als zentraler Treffpunkt für politische, religiöse und kommerzielle Aktivitäten. Der Platz ist mit originalen Steinplatten gepflastert und verfügt über ein unterirdisches Abwassersystem. An der südlichen Seite schließt sich die Südbühne an, während im Norden der Cardo Maximus beginnt. Der ovale Grundriss ist einzigartig im römischen Städtebau und wurde wahrscheinlich gewählt, um den Platz an die natürliche Topographie anzupassen.",
+      hu: "Az Ovális Tér (Forum) Jerashban a római világ egyik legnagyobb és legjobban megőrzött közterülete. A tér ovális alakú, 90 méter hosszú és 80 méter széles, 56 ión oszloppal körülvéve. Traianus császár uralkodása idején, az i. sz. 1. században épült. A tér a város központi találkozóhelye volt, ahol politikai, vallási és kereskedelmi események zajlottak. A burkolat eredeti kőlapokból áll, és egy összetett vízelvezető rendszer található alatta. A tér délkeleti oldalán a Színház, északi oldalán a Cardo Maximus található. Az ovális forma a római várostervezésben egyedülálló, feltehetően a terepviszonyokhoz való alkalmazkodás miatt választották.",
+      ro: "Piața Ovală (Forum) din Jerash este una dintre cele mai mari și mai bine conservate piețe publice din lumea romană. Construită în secolul I d.Hr. sub împăratul Traian, are o formă ovală neobișnuită, cu o lungime de 90 de metri și o lățime de 80 de metri, înconjurată de 56 de coloane ionice. Piața era centrul vieții publice, găzduind adunări politice, ceremonii religioase și activități comerciale. Pavajul original din piatră este încă intact, iar dedesubt există un sistem de canalizare. La sud se află Teatrul de Sud, iar la nord începe Cardo Maximus. Forma ovală este unică în urbanismul roman, probabil aleasă pentru a se adapta topografiei naturale.",
+      en: "The Oval Plaza (Forum) in Jerash is one of the largest and best-preserved public squares in the Roman world. Built in the 1st century CE under Emperor Trajan, it has an unusual oval shape, measuring 90 meters long and 80 meters wide, surrounded by 56 Ionic columns. The plaza served as a central gathering place for political, religious, and commercial activities. It is paved with original stone slabs and features an underground drainage system. To the south lies the South Theatre, and to the north begins the Cardo Maximus. The oval layout is unique in Roman urban planning, likely chosen to adapt to the natural topography.",
+    },
+    factsAdvanced: {
+      de: ["Der Ovale Platz ist 90 Meter lang und 80 Meter breit.", "Er wird von 56 ionischen Säulen umgeben.", "Der Platz wurde im 1. Jahrhundert n. Chr. unter Kaiser Trajan erbaut.", "Die Fläche des Platzes beträgt etwa 7.200 Quadratmeter.", "Der Platz ist mit originalen Steinplatten gepflastert, die aus lokalem Kalkstein bestehen.", "Das unterirdische Abwassersystem des Platzes ist noch funktionsfähig."],
+      hu: ["Az Ovális Tér 90 méter hosszú és 80 méter széles.", "A teret 56 ión oszlop veszi körül.", "A tér Traianus császár uralkodása alatt, az i. sz. 1. században épült.", "A tér területe körülbelül 7.200 négyzetméter.", "A burkolat eredeti kőlapokból áll, melyek helyi mészkőből készültek.", "A tér alatti vízelvezető rendszer ma is működőképes."],
+      ro: ["Piața Ovală are 90 de metri lungime și 80 de metri lățime.", "Este înconjurată de 56 de coloane ionice.", "Piața a fost construită în secolul I d.Hr. sub împăratul Traian.", "Suprafața pieței este de aproximativ 7.200 de metri pătrați.", "Pavajul este format din plăci originale de piatră calcaroasă locală.", "Sistemul de canalizare subteran al pieței este încă funcțional."],
+      en: ["The Oval Plaza is 90 meters long and 80 meters wide.", "It is surrounded by 56 Ionic columns.", "The plaza was built in the 1st century CE under Emperor Trajan.", "The area of the plaza is approximately 7,200 square meters.", "The pavement consists of original stone slabs made from local limestone.", "The underground drainage system of the plaza is still functional."],
+    },
+  },
   {
     id: "arch-of-hadrian-jerash-landmarks-v2",
     type: "landmark",
     parent: "JO-JA",
     coords: [35.8910, 32.2718],
-    name: { de: "Hadrianstor", hu: "Hadrianus diadalíve", ro: "Arcul lui Hadrian", en: "Arch of Hadrian",
-image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp"
-},
+    name: { de: "Hadrianstor", hu: "Hadrianus diadalíve", ro: "Arcul lui Hadrian", en: "Arch of Hadrian"},
+    image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp",
     description: {
       de: "Dieser massive Triumphbogen wurde zu Ehren des Besuchs des römischen Kaisers Hadrian im Jahr 129 n. Chr. am südlichen Eingang von Jerash errichtet.",
       hu: "Ezt a hatalmas diadalívet Hadrianus római császár Kr. u. 129-ben tett látogatásának tiszteletére emelték Dzseras déli bejáratánál.",
@@ -260,15 +403,27 @@ image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp"
       hu: ["A kapu majdnem 21 méter magas.", "Három íves átjáróval rendelkezik.", "A kapu egy részét kiterjedten restaurálták.", "A város új főkapujának szánták."],
       ro: ["Poarta are o înălțime de aproape 21 de metri.", "Are trei pasaje boltite.", "O parte a porții a fost restaurată extensiv.", "Trebuia să fie noua poartă principală a orașului."],
       en: ["The gate is nearly 21 meters high.", "It has three arched passageways.", "A part of the gate has been extensively restored.", "It was intended to be the city's new main gate."]
-    }, image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp"},
+    }, image: "/poi-images/arch-of-hadrian-jerash-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hadriansbogen in Jerash wurde 129 n. Chr. zu Ehren des Besuchs von Kaiser Hadrian errichtet. Er steht am südlichen Eingang der antiken Stadt und war Teil der Stadtmauer. Der Bogen ist 11 Meter hoch, 9 Meter breit und vollständig aus Kalkstein gefertigt. Er besteht aus einem zentralen Durchgang und zwei kleineren seitlichen Durchgängen, die mit korinthischen Säulen und Nischen verziert sind. Die Inschrift auf dem Bogen nennt den Kaiser und das Datum der Errichtung. Der Bogen ist ein Paradebeispiel römischer Triumphbogenarchitektur in der Provinz Arabia. Im Laufe der Zeit wurde er teilweise restauriert, insbesondere nach einem Erdbeben im 8. Jahrhundert. Heute ist er eines der meistfotografierten Bauwerke Jerashs und ein Symbol für die römische Vergangenheit Jordaniens.",
+      hu: "A Hadrianus diadalív Jerashban 129-ben készült el Hadrianus császár látogatásának tiszteletére. Az ókori város déli bejáratánál állt, és a városfal része volt. Az ív magassága 11 méter, szélessége 9 méter, és teljes egészében mészkőből készült. Központi átjáróból és két kisebb oldalsó átjáróból áll, amelyeket korinthoszi oszlopok és fülkék díszítenek. Az ív felirata megnevezi a császárt és az építés dátumát. Az ív a római diadalívek kiváló példája az Arabia provinciában. Az idők során részben restaurálták, különösen egy 8. századi földrengés után. Ma Jerash egyik legfotózottabb műemléke, és Jordánia római múltjának szimbóluma.",
+      ro: "Arcul lui Hadrian din Jerash a fost construit în anul 129 d.Hr. în cinstea vizitei împăratului Hadrian. Se află la intrarea de sud a orașului antic și făcea parte din zidul orașului. Arcul are o înălțime de 11 metri și o lățime de 9 metri, fiind realizat în întregime din calcar. Este format dintr-un pasaj central și două pasaje laterale mai mici, decorate cu coloane corintice și nișe. Inscripția de pe arc menționează împăratul și data construirii. Arcul este un exemplu reprezentativ al arhitecturii romane de arc de triumf în provincia Arabia. De-a lungul timpului, a fost parțial restaurat, mai ales după un cutremur din secolul al VIII-lea. Astăzi este unul dintre cele mai fotografiate monumente din Jerash și un simbol al trecutului roman al Iordaniei.",
+      en: "The Arch of Hadrian in Jerash was built in 129 CE to honor the visit of Emperor Hadrian. It stands at the southern entrance of the ancient city and was part of the city wall. The arch is 11 meters high and 9 meters wide, entirely made of limestone. It features a central passage flanked by two smaller side passages, decorated with Corinthian columns and niches. The inscription on the arch names the emperor and the date of construction. The arch is a prime example of Roman triumphal arch architecture in the province of Arabia. It has been partially restored over time, especially after an earthquake in the 8th century. Today, it is one of the most photographed structures in Jerash and a symbol of Jordan's Roman past.",
+    },
+    factsAdvanced: {
+      de: ["Der Hadriansbogen wurde 129 n. Chr. zu Ehren von Kaiser Hadrian erbaut.", "Er ist 11 Meter hoch und 9 Meter breit.", "Der Bogen besteht vollständig aus Kalkstein.", "Er hat einen zentralen Durchgang und zwei kleinere seitliche Durchgänge.", "Die Inschrift auf dem Bogen enthält den Namen Kaiser Hadrians und das Jahr 129.", "Nach einem Erdbeben im 8. Jahrhundert wurde der Bogen teilweise restauriert."],
+      hu: ["A Hadrianus diadalívet 129-ben építették Hadrianus császár tiszteletére.", "Magassága 11 méter, szélessége 9 méter.", "Az ív teljes egészében mészkőből készült.", "Egy központi átjáróval és két kisebb oldalsó átjáróval rendelkezik.", "Az ív felirata Hadrianus császár nevét és a 129-es évet tartalmazza.", "Egy 8. századi földrengés után az ívet részben restaurálták."],
+      ro: ["Arcul lui Hadrian a fost construit în anul 129 d.Hr. în cinstea împăratului Hadrian.", "Are o înălțime de 11 metri și o lățime de 9 metri.", "Arcul este realizat în întregime din calcar.", "Are un pasaj central și două pasaje laterale mai mici.", "Inscripția de pe arc conține numele împăratului Hadrian și anul 129.", "După un cutremur din secolul al VIII-lea, arcul a fost parțial restaurat."],
+      en: ["The Arch of Hadrian was built in 129 CE to honor Emperor Hadrian.", "It is 11 meters high and 9 meters wide.", "The arch is made entirely of limestone.", "It has one central passage and two smaller side passages.", "The arch's inscription includes Emperor Hadrian's name and the year 129.", "After an earthquake in the 8th century, the arch was partially restored."],
+    },
+  },
   {
     id: "temple-of-artemis-jerash-landmarks-v2",
     type: "landmark",
     parent: "JO-JA",
     coords: [35.8911, 32.2825],
-    name: { de: "Artemistempel", hu: "Artemisz-templom", ro: "Templul lui Artemis", en: "Temple of Artemis",
-image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp"
-},
+    name: { de: "Artemistempel", hu: "Artemisz-templom", ro: "Templul lui Artemis", en: "Temple of Artemis"},
+    image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp",
     description: {
       de: "Der Tempel der Artemis thront auf einem der höchsten Punkte von Jerash. Er war der Schutzgöttin der Stadt gewidmet und ist bekannt für seine imposanten Säulen.",
       hu: "Az Artemisz-templom Dzseras egyik legmagasabb pontján magasodik. A város védőistennőjének szentelték, és impozáns oszlopairól ismert.",
@@ -280,15 +435,27 @@ image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp"
       hu: ["A 12 korinthoszi oszlopból tizenegy még ma is áll.", "Az oszlopok enyhén kilengenek a szélben.", "A templom sosem készült el teljesen.", "A 12. században erődítményként használták."],
       ro: ["Unsprezece din cele 12 coloane corintice stau încă în picioare.", "Coloanele se leagănă ușor în vânt.", "Templul nu a fost niciodată finalizat complet.", "În secolul al XII-lea a fost folosit ca fortăreață."],
       en: ["Eleven of the 12 Corinthian columns still stand.", "The columns sway slightly in the wind.", "The temple was never fully completed.", "In the 12th century it was used as a fortress."]
-    }, image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp"},
+    }, image: "/poi-images/temple-of-artemis-jerash-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Artemis-Tempel in Jerash, errichtet im 2. Jahrhundert n. Chr., ist ein herausragendes Beispiel römischer Tempelarchitektur in der Provinz Arabia. Der Tempel war der griechischen Göttin Artemis geweiht, der Schutzpatronin der Stadt. Die gewaltigen Säulen, von denen sechs noch aufrecht stehen, erreichen eine Höhe von etwa 12 Metern. Der Tempel stand auf einem hohen Podium und war von einem heiligen Bezirk umgeben. Die Bauarbeiten begannen unter Kaiser Hadrian und wurden unter Antoninus Pius abgeschlossen. Der Tempel wurde im 4. Jahrhundert durch ein Erdbeben schwer beschädigt. Heute ist er eine der Hauptattraktionen der antiken Stadt Jerash, die jährlich Hunderttausende von Touristen anzieht. Die Ausgrabungen förderten zahlreiche Inschriften und Skulpturen zutage, die Einblicke in das religiöse Leben der Römer in dieser Region geben.",
+      hu: "Jerash Artemis-temploma a város egyik legjelentősebb vallási építménye volt, amelyet a görög vadász- és holdistennő tiszteletére emeltek. A templom a Kr. u. 2. században épült, és a város akropoliszán helyezkedett el. Az építmény hatalmas méretei és díszítése a római provincia gazdagságát tükrözte. A templom előtti oltárnál állatáldozatokat mutattak be. A régészeti feltárások során előkerültek a templom alapjainak maradványai és számos fogadalmi felirat. A templom a 4. században földrengésben elpusztult, de romjai ma is lenyűgözőek. A korinthoszi oszlopfőkkel díszített oszlopok a város egyik legismertebb szimbólumává váltak. A Jerash Nemzetközi Fesztivál alatt a templom környékén rendezvényeket tartanak, így a turisták megtekinthetik a romokat és az előadásokat is.",
+      ro: "Templul lui Artemis din Ierash, construit în secolul al II-lea d.Hr., este un monument reprezentativ al arhitecturii romane din Provincia Arabia. Dedicat zeiței grecești a vânătorii și a lunii, templul a fost centrul vieții religioase locale. Structura, aflată pe o platformă înaltă, avea șase coloane frontale și douăsprezece laterale. În prezent, doar șase coloane mai sunt în picioare. Descoperirile arheologice includ statui, fragmente de frize și inscripții dedicate împăraților. Templul a fost afectat de cutremure și de invazii, dar rămâne o atracție turistică majoră. Restaurarea parțială a început în anii 1980. La festivalurile anuale, templul servește ca fundal pentru evenimente culturale, atrăgând vizitatori din întreaga lume.",
+      en: "The Temple of Artemis in Jerash, one of the best-preserved Roman temples in the Middle East, was constructed between 150 and 170 AD. It was dedicated to the goddess Artemis, who was the patron deity of the city. The temple's design features a peripteral plan with 12 columns on each long side and 6 on the front and back. The structure sits on a 3.5-meter-high podium and occupies a prominent position within the ancient city. The temple was part of a larger sanctuary complex that included courtyards, altars, and a propylaea. Decline began after a series of earthquakes in the 4th and 8th centuries. Modern excavations, ongoing since the 1920s, have uncovered significant artifacts, including a marble statue of Artemis. Today, the temple is a key landmark in the Jerash Archaeological Park, visited by over 500,000 tourists annually.",
+    },
+    factsAdvanced: {
+      de: ["Der Tempel wurde zwischen 150 und 170 n. Chr. erbaut.", "Sechs der ursprünglich 12 Säulen an der Front stehen noch aufrecht.", "Die Säulen haben eine Höhe von etwa 12 Metern.", "Der Tempel stand auf einem 3,5 Meter hohen Podium.", "Das Erdbeben von 749 n. Chr. verursachte schwere Schäden.", "Die Ausgrabungen begannen in den 1920er Jahren."],
+      hu: ["A templom a Kr. u. 2. században épült Hadrianus császár idején.", "Az építmény hossza 33 méter, szélessége 22 méter.", "A cella belső méretei 18 x 12 méter.", "Az oltár a templom előtt 10 méter hosszú volt.", "A templom területén 12 korinthoszi oszlop található.", "A város évente 800 000 turistát fogad."],
+      ro: ["Templul a fost construit între anii 150 și 170 d.Hr.", "Coloanele au fost realizate din calcar local.", "Înălțimea coloanelor este de 12 metri.", "Templul avea 6 coloane pe fațadă și 12 pe laturi.", "Podiumul templului are o înălțime de 3,5 metri.", "Săpăturile arheologice au început în 1925."],
+      en: ["Construction of the Temple of Artemis began in 150 AD and was completed around 170 AD.", "The temple's front portico originally had 12 columns, of which 6 remain standing.", "Each column is 12 meters high and made of local limestone.", "The temple sits on a podium that is 3.5 meters tall.", "The site was severely damaged by the Galilee earthquake of 749 AD.", "Excavations have been conducted since the 1920s, revealing numerous artifacts."],
+    },
+  },
   {
     id: "south-theater-jerash-landmarks-v2",
     type: "landmark",
     parent: "JO-JA",
     coords: [35.8901, 32.2772],
-    name: { de: "Südtheater von Jerash", hu: "Dzseras Déli Színháza", ro: "Teatrul de Sud din Jerash", en: "South Theater of Jerash",
-image: "/poi-images/south-theater-jerash-landmarks-v2.webp"
-},
+    name: { de: "Südtheater von Jerash", hu: "Dzseras Déli Színháza", ro: "Teatrul de Sud din Jerash", en: "South Theater of Jerash"},
+    image: "/poi-images/south-theater-jerash-landmarks-v2.webp",
     description: {
       de: "Das größte Theater der antiken Stadt Jerash beeindruckt mit seiner außergewöhnlichen Akustik. Ein Sprecher in der Mitte der Bühne ist in den obersten Rängen klar zu hören.",
       hu: "Dzseras ókori városának legnagyobb színháza lenyűgöz kivételes akusztikájával. A színpad közepén álló beszélőt a legfelső sorokban is tisztán hallani.",
@@ -300,15 +467,27 @@ image: "/poi-images/south-theater-jerash-landmarks-v2.webp"
       hu: ["Több mint 3000 néző befogadására volt alkalmas.", "A színház az 1. század végén épült.", "A kőülések egy része görög betűkkel van számozva.", "Ma gyakran zenei fesztiválokat tartanak itt."],
       ro: ["Putea găzdui peste 3000 de spectatori.", "Teatrul a fost construit la sfârșitul secolului I.", "Scaunele de piatră sunt parțial numerotate cu litere grecești.", "Astăzi aici au loc adesea festivaluri de muzică."],
       en: ["It could accommodate over 3000 spectators.", "The theater was built in the late 1st century.", "The stone seats are partially numbered with Greek letters.", "Today music festivals are often held here."]
-    }, image: "/poi-images/south-theater-jerash-landmarks-v2.webp"},
+    }, image: "/poi-images/south-theater-jerash-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Südtheater von Jerash ist ein römisches Theater, das im 1. Jahrhundert n. Chr. erbaut wurde. Es bot Platz für etwa 3.000 Zuschauer und war in den Berghang gebaut. Das Theater diente Aufführungen, aber auch politischen Versammlungen. Die Sitzreihen sind in drei Ränge unterteilt, die durch horizontale Gänge getrennt sind. Die Bühne (skēnē) war reich mit Säulen und Statuen verziert. Das Theater wurde im 2. Jahrhundert erweitert und im 4. Jahrhundert durch Erdbeben beschädigt. Heute wird es für das jährliche Jerash Festival genutzt. Die Akustik ist bemerkenswert: Ein Flüstern auf der Bühne ist bis in die obersten Ränge hörbar. Das Theater ist Teil des archäologischen Parks und wurde in den 1950er Jahren restauriert.",
+      hu: "A jerashi Déli Színház a római kori város egyik legfontosabb középülete volt. A színházat a Kr. u. 1. században építették, és mintegy 3000 néző befogadására volt alkalmas. A színház a domboldalba épült, és három vízszintes folyosó választotta el a nézőteret. A színpadot (scaenae frons) díszes oszlopok és szobrok ékesítették. A színházat a 2. században kibővítették, majd a 4. században földrengés károsította. A műemléket az 1950-es években restaurálták. Ma is használják koncertekre és előadásokra a Jerash Fesztivál keretében. A színház akusztikája kiváló, ami a gondos tervezésnek köszönhető. A nézőtér átmérője körülbelül 50 méter.",
+      ro: "Teatrul de Sud din Ierash a fost construit în secolul I d.Hr. și putea găzdui aproximativ 3.000 de spectatori. Este construit pe o pantă naturală, cu trei sectoare de scaune separate de culoare. Scena (scaenae frons) era decorată cu coloane și statui de marmură. Teatrul a fost extins în secolul al II-lea și a suferit daune din cauza cutremurelor. Restaurarea modernă a început în anii 1950. Astăzi, teatrul este folosit pentru festivale culturale, în special Festivalul Internațional de la Ierash. Acustica este excelentă, permițând ca un șoaptă să fie auzită în toate rândurile. Diametrul orchestrei este de 20 de metri. Teatrul este unul dintre cele mai bine conservate teatre romane din Orientul Mijlociu.",
+      en: "The South Theater of Jerash, built around 90 AD, is one of the best-preserved Roman theaters in the Middle East. It has a seating capacity of approximately 3,000 spectators, organized into three horizontal sections (cavea). The theater was constructed into the natural slope of a hill, with the stage house (scaenae frons) rising to a height of 14 meters. The stage was originally adorned with marble columns and statues. The theater underwent expansion in the 2nd century AD, adding an upper tier of seating. It was damaged by earthquakes in the 4th and 8th centuries and was restored by archaeologists in the 1950s. Today, it hosts performances during the Jerash Festival of Culture and Arts. The orchestra pit has a diameter of 20 meters, and the theater's acoustics are renowned for their clarity.",
+    },
+    factsAdvanced: {
+      de: ["Das Theater wurde um 90 n. Chr. erbaut.", "Es bietet Platz für etwa 3.000 Zuschauer.", "Die Bühnenfront (scaenae frons) war 14 Meter hoch.", "Der Orchestergraben hat einen Durchmesser von 20 Metern.", "Das Theater wurde im 2. Jahrhundert um eine obere Sitzreihe erweitert.", "Die Restaurierung erfolgte in den 1950er Jahren."],
+      hu: ["A színház építése Kr. u. 90-re tehető.", "Befogadóképessége körülbelül 3000 fő.", "A színpad (scaenae frons) magassága 14 méter.", "Az orchésztra átmérője 20 méter.", "A színházat a 2. században bővítették.", "Az 1950-es években restaurálták."],
+      ro: ["Teatrul a fost construit în jurul anului 90 d.Hr.", "Capacitatea este de aproximativ 3.000 de locuri.", "Scaenae frons avea o înălțime de 14 metri.", "Diametrul orchestrei este de 20 de metri.", "Teatrul a fost extins în secolul al II-lea.", "Restaurarea a fost finalizată în anii 1950."],
+      en: ["The South Theater was built around 90 AD under the reign of Emperor Domitian.", "Seating capacity: approximately 3,000 spectators.", "The stage house (scaenae frons) was 14 meters high.", "The orchestra pit has a diameter of 20 meters.", "The theater was enlarged in the 2nd century AD to add an upper tier.", "Modern restoration work was carried out in the 1950s."],
+    },
+  },
   {
     id: "qasr-al-mushatta-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [36.0101, 31.7371],
-    name: { de: "Qasr al-Mushatta", hu: "Qasr al-Mushatta", ro: "Qasr al-Mushatta", en: "Qasr al-Mushatta",
-image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp"
-},
+    name: { de: "Qasr al-Mushatta", hu: "Qasr al-Mushatta", ro: "Qasr al-Mushatta", en: "Qasr al-Mushatta"},
+    image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp",
     description: {
       de: "Die Ruine des größten umayyadischen Wüstenschlosses in Jordanien. Ein Großteil seiner prachtvoll geschnitzten Fassade wurde als Geschenk an den deutschen Kaiser übergeben und befindet sich heute in Berlin.",
       hu: "Jordánia legnagyobb omajád sivatagi kastélyának romja. Gazdagon faragott homlokzatának nagy részét a német császárnak ajándékozták, és ma Berlinben található.",
@@ -320,15 +499,27 @@ image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp"
       hu: ["Az építkezés 744 körül kezdődött, de soha nem fejeződött be.", "Nagyon közel van a Queen Alia nemzetközi repülőtérhez.", "A komplexumot egy hatalmas négyzetes fal veszi körül.", "A név jelentése 'Téli tábor'."],
       ro: ["Construcția a început în jurul anului 744, dar nu a fost niciodată terminată.", "Este situat foarte aproape de aeroportul internațional Queen Alia.", "Complexul este înconjurat de un zid pătrat masiv.", "Numele înseamnă 'Tabără de iarnă'."],
       en: ["Construction began around 744 but was never finished.", "It is located very close to Queen Alia International Airport.", "The complex is surrounded by a massive square wall.", "The name means 'Winter Camp'."]
-    }, image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp"},
+    }, image: "/poi-images/qasr-al-mushatta-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Qasr al-Mushatta ist eine frühislamische Wüstenresidenz im Osten Jordaniens, erbaut unter dem Kalifen al-Walid II. (743–744 n. Chr.). Die Anlage ist ein Rechteck von 144 Metern Seitenlänge und besteht aus einem zentralen Hof, Wohnbereichen und einer Moschee. Die Fassade war reich mit Steinmetzarbeiten verziert, die geometrische Muster und Tiermotive zeigen. Der Palast wurde nie fertiggestellt; die Bauarbeiten wurden nach dem Tod des Kalifen eingestellt. Teile der Fassade wurden im 20. Jahrhundert abgetragen und nach Berlin ins Pergamonmuseum gebracht. Der Palast liegt in der Nähe des Flughafens von Amman und ist für Besucher zugänglich. Die Umfassungsmauer aus Ziegelsteinen ist noch gut erhalten. Qasr al-Mushatta ist ein bedeutendes Beispiel für die umayyadische Architektur.",
+      hu: "Qasr al-Mushatta egy omajjád kori sivatagi palota Jordánia keleti részén. II. al-Valíd kalifa építtette 743-744-ben. A palota négyzet alakú, oldalai 144 méter hosszúak. Középen udvar található, körülötte lakószobák és egy mecset. A homlokzat faragott díszítése híres, melyet a berlini Pergamon Múzeum őriz. Az épület soha nem készült el; a kalifa halála félbeszakította az építkezést. A falak téglából készültek, és részben ma is állnak. A palota a sivatagi építészet egyik kiemelkedő példája. 2018-ban a helyszínt felvették az UNESCO világörökségi javaslati listájára.",
+      ro: "Qasr al-Mushatta este o reședință deșertică din perioada omeiadă, situată în estul Iordaniei. A fost construită între 743 și 744 d.Hr. de califul al-Walid II. Palatul are formă pătrată, cu laturi de 144 metri, și cuprinde o curte centrală, camere de locuit și o moschee. Fațada era decorată cu sculpturi intricate din piatră, dar panourile au fost mutate la Muzeul Pergamon din Berlin. Construcția a fost abandonată după moartea califului. Zidurile din cărămidă sunt parțial conservate. Este un exemplu important al arhitecturii islamice timpurii. În 2018, situl a fost înscris pe lista tentativă a Patrimoniului Mondial UNESCO.",
+      en: "Qasr al-Mushatta is an early Islamic desert palace built during the Umayyad Caliphate, commissioned by Caliph al-Walid II in 743 AD. The palace is a square enclosure measuring 144 meters per side, featuring a central courtyard, residential quarters, and a mosque. Its most notable feature is the elaborately carved stone facade, portions of which were removed and are now displayed in the Pergamon Museum in Berlin. Construction was halted after the caliph's assassination in 744 AD, leaving the palace unfinished. The walls, made of baked brick, still stand up to 6 meters in height. The site is located about 30 kilometers south of Amman. It was added to UNESCO's tentative World Heritage list in 2018.",
+    },
+    factsAdvanced: {
+      de: ["Der Palast wurde 743-744 n. Chr. erbaut.", "Die Seitenlänge des quadratischen Grundrisses beträgt 144 Meter.", "Die Mauern bestehen aus gebrannten Ziegeln und sind bis zu 6 Meter hoch.", "Teile der Fassade wurden 1903 nach Berlin gebracht.", "Der Palast liegt 30 Kilometer südlich von Amman.", "2018 wurde die Stätte in die UNESCO-Vorschlagsliste aufgenommen."],
+      hu: ["A palota 743-744-ben épült.", "Az alap négyzet alakú, 144 méteres oldalakkal.", "A falak égetett téglából készültek, magasságuk eléri a 6 métert.", "A homlokzat egyes részeit 1903-ban Berlinbe szállították.", "Amman-tól 30 kilométerre délre található.", "2018-ban felkerült az UNESCO javaslati listájára."],
+      ro: ["Palatul a fost construit între 743 și 744 d.Hr.", "Latura pătratului este de 144 de metri.", "Zidurile din cărămidă au înălțimea de până la 6 metri.", "Panourile fațadei au fost mutate la Berlin în 1903.", "Situl se află la 30 km sud de Amman.", "În 2018 a fost inclus pe lista tentativă UNESCO."],
+      en: ["Construction of Qasr al-Mushatta began in 743 AD and ceased in 744 AD.", "The palace is a square with sides measuring 144 meters.", "The brick walls reach a height of 6 meters in some places.", "Portions of the facade were removed and taken to Berlin in 1903.", "The site is located 30 kilometers south of Amman.", "Qasr al-Mushatta was added to the UNESCO tentative list in 2018."],
+    },
+  },
   {
     id: "qasr-tuba-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [36.5705, 31.3255],
-    name: { de: "Qasr Tuba", hu: "Qasr Tuba", ro: "Qasr Tuba", en: "Qasr Tuba",
-image: "/poi-images/qasr-tuba-landmarks-v2.webp"
-},
+    name: { de: "Qasr Tuba", hu: "Qasr Tuba", ro: "Qasr Tuba", en: "Qasr Tuba"},
+    image: "/poi-images/qasr-tuba-landmarks-v2.webp",
     description: {
       de: "Dieses abgelegene Wüstenschloss aus der Umayyadenzeit besteht aus einer ungewöhnlichen Kombination von gebrannten Ziegeln und Stein. Es ist eines der am schwersten zugänglichen Bauwerke seiner Art.",
       hu: "Ez az elszigetelt omajád-kori sivatagi kastély égetett téglák és kövek szokatlan kombinációjából épült. Típusának egyik legnehezebben megközelíthető építménye.",
@@ -340,15 +531,27 @@ image: "/poi-images/qasr-tuba-landmarks-v2.webp"
       hu: ["Körülbelül 100 kilométerre fekszik Ammántól.", "Az épület két azonos szimmetrikus félből áll.", "Feladata a Hidzsázba tartó karavánok védelme volt.", "A falak nagy része fennmaradt."],
       ro: ["Este situat la aproximativ 100 de kilometri de Amman.", "Clădirea este formată din două jumătăți simetrice identice.", "Trebuia să protejeze caravanele pe drumul spre Hejaz.", "O mare parte din ziduri s-au păstrat."],
       en: ["It is located about 100 kilometers from Amman.", "The building consists of two identical symmetrical halves.", "It was intended to protect caravans on the route to the Hejaz.", "Much of the walls has been preserved."]
-    }, image: "/poi-images/qasr-tuba-landmarks-v2.webp"},
+    }, image: "/poi-images/qasr-tuba-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Qasr Tuba ist eine weitere umayyadische Wüstenresidenz in Jordanien, etwa 60 Kilometer südöstlich von Amman. Sie wurde im 8. Jahrhundert erbaut, vermutlich unter Kalif al-Walid II. oder seinem Nachfolger. Die Anlage besteht aus einem zentralen Hof, umgeben von Räumen und einer Moschee. Anders als Qasr al-Mushatta ist Qasr Tuba aus unbehauenen Steinen und Lehmziegeln gebaut. Der Palast ist unvollendet und zeigt deutliche Spuren von Erosion. Die Umfassungsmauer ist teilweise eingestürzt. Die Anlage misst etwa 70 mal 70 Meter. In der Nähe befinden sich antike Bewässerungskanäle, die auf landwirtschaftliche Nutzung hinweisen. Der Palast ist weniger bekannt und kaum restauriert, bietet aber einen authentischen Einblick in die frühe islamische Architektur.",
+      hu: "Qasr Tuba egy omajjád kori sivatagi palota Jordánia délkeleti részén, Ammantól 60 kilométerre. A 8. században épült, valószínűleg II. al-Valíd kalifa idején. A palota négyzet alakú, 70 méteres oldalakkal. Középső udvar köré szerveződtek a szobák és egy mecset. Az építőanyag durva kő és vályog. Az épület befejezetlen és erősen erodált. A falak egy része leomlott. A közelben öntözőcsatornák maradványai találhatók. A palota nem turisztikai célpont, régészeti jelentősége van. A helyszínt ritkán látogatják, ami megőrizte autentikus állapotát.",
+      ro: "Qasr Tuba este un palat deșertic omeiad din secolul al VIII-lea, situat la 60 km sud-est de Amman. A fost construit probabil de califul al-Walid II. Palatul are formă pătrată, cu latura de 70 de metri. Materialele de construcție sunt piatră brută și cărămidă de noroi. Palatul este neterminat și puternic erodat. Zidurile sunt parțial prăbușite. Aproape se găsesc canale de irigație antice. Este un sit arheologic puțin cunoscut, dar important pentru înțelegerea arhitecturii islamice timpurii. Nu a fost restaurat semnificativ, păstrându-și aspectul original.",
+      en: "Qasr Tuba is an Umayyad desert palace located about 60 kilometers southeast of Amman, Jordan. Built in the 8th century, likely under Caliph al-Walid II, the palace is a square structure measuring 70 meters on each side. It features a central courtyard surrounded by rooms and a mosque. Unlike the more ornate Qasr al-Mushatta, Qasr Tuba was constructed using rough stone and mudbrick, and it remains unfinished. The walls have suffered significant erosion and partial collapse. Nearby, ancient irrigation channels suggest agricultural activity. The site is less visited than other desert castles, offering a raw glimpse into early Islamic construction techniques. Qasr Tuba is on the tentative list for UNESCO World Heritage status.",
+    },
+    factsAdvanced: {
+      de: ["Der Palast liegt 60 Kilometer südöstlich von Amman.", "Der Grundriss ist quadratisch mit 70 Metern Seitenlänge.", "Erbaut wurde er im 8. Jahrhundert n. Chr.", "Die Bauweise verwendete unbehauene Steine und Lehmziegel.", "Der Palast ist unvollendet und erodiert.", "In der Umgebung gibt es antike Bewässerungskanäle."],
+      hu: ["A palota Ammantól 60 km-re délkeletre található.", "Az alap 70 méter hosszú négyzet.", "A 8. században épült.", "Durva kőből és vályogból épült.", "Befejezetlen és erodált.", "Közelében ősi öntözőcsatornák vannak."],
+      ro: ["Palatul se află la 60 km sud-est de Amman.", "Are formă pătrată cu latura de 70 de metri.", "A fost construit în secolul al VIII-lea.", "Construit din piatră brută și cărămidă de noroi.", "Este neterminat și erodat.", "În apropiere sunt canale de irigație antice."],
+      en: ["Qasr Tuba is located 60 km southeast of Amman.", "The palace is a square measuring 70 meters per side.", "Construction took place in the 8th century AD.", "Materials used include rough stone and mudbrick.", "The palace was never completed and has suffered erosion.", "Ancient irrigation channels are found near the site."],
+    },
+  },
   {
     id: "lots-cave-landmarks-v2",
     type: "landmark",
     parent: "JO-KA",
     coords: [35.4789, 31.0456],
-    name: { de: "Lot-Höhle", hu: "Lót barlangja", ro: "Peștera lui Lot", en: "Lot's Cave",
-image: "/poi-images/lots-cave-landmarks-v2.webp"
-},
+    name: { de: "Lot-Höhle", hu: "Lót barlangja", ro: "Peștera lui Lot", en: "Lot's Cave"},
+    image: "/poi-images/lots-cave-landmarks-v2.webp",
     description: {
       de: "Eine Höhle in den steilen Bergen nahe dem Toten Meer, in der der biblische Lot und seine Töchter nach der Zerstörung von Sodom Zuflucht gesucht haben sollen. Eine byzantinische Kirche wurde davor errichtet.",
       hu: "Egy barlang a Holt-tenger közeli meredek hegyekben, ahol a bibliai Lót és lányai a hagyomány szerint Szodoma pusztulása után menedéket kerestek. Elé egy bizánci templomot építettek.",
@@ -360,15 +563,27 @@ image: "/poi-images/lots-cave-landmarks-v2.webp"
       hu: ["A helyszínt régészetileg csak 1991-ben fedezték fel.", "A látogatóknak több száz lépcsőfokot kell megmászniuk.", "A templomrom padlóján mozaikok maradtak fenn.", "Feliratok említik benne Szent Lótot."],
       ro: ["Situl a fost descoperit arheologic abia în 1991.", "Vizitatorii trebuie să urce sute de trepte.", "Mozaicuri sunt păstrate pe podeaua ruinelor bisericii.", "Există inscripții care îl menționează pe Sfântul Lot."],
       en: ["The site was not discovered archaeologically until 1991.", "Visitors must climb hundreds of steps.", "Mosaics are preserved on the floor of the church ruins.", "There are inscriptions mentioning Saint Lot."]
-    }, image: "/poi-images/lots-cave-landmarks-v2.webp"},
+    }, image: "/poi-images/lots-cave-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Höhle Lots ist eine archäologische Stätte in der Nähe des Toten Meeres, südöstlich von Jericho. Sie wird biblisch mit Lot und seinen Töchtern in Verbindung gebracht. Die Höhle besteht aus zwei natürlichen Kammern. Byzantinische Mönche nutzten die Höhle als Einsiedelei und bauten eine Kapelle sowie Wohnräume. Mosaikböden aus dem 5. und 6. Jahrhundert wurden freigelegt. Eine Inschrift erwähnt den Namen Lot. Die Stätte wurde von 1988 bis 1998 ausgegraben. Funde umfassen Keramik, Münzen und Öllampen. Die Höhle bietet einen weiten Blick auf das Tote Meer. Sie ist Teil des biblischen Tourismus in Jordanien. Der Zugang ist über einen steilen Pfad möglich.",
+      hu: "Lót barlangja a Holt-tenger közelében található, Jerikótól délkeletre. A bibliai hagyomány szerint Lót és lányai itt húzódtak meg Szodoma pusztulása után. A barlangban bizánci kori remeték éltek, akik kápolnát és cellákat építettek. A padló mozaikjai az 5-6. századból származnak. Egy felirat Lót nevét említi. Az ásatások 1988 és 1998 között zajlottak. Kerámiatöredékek, érmék és olajlámpák kerültek elő. A barlangból kilátás nyílik a Holt-tengerre. A helyszín a bibliai turizmus része. Megközelítése meredek ösvényen lehetséges.",
+      ro: "Peștera lui Lot este un sit arheologic lângă Marea Moartă, la sud-est de Ierihon. Conform tradiției biblice, Lot și fiicele sale s-au refugiat aici după distrugerea Sodomei. În perioada bizantină, călugări au folosit peștera ca schit, construind o capelă și chilii. Mozaicuri din secolele V-VI au fost descoperite. O inscripție menționează numele lui Lot. Săpăturile au avut loc între 1988 și 1998. Au fost găsite ceramică, monede și lămpi cu ulei. Peștera oferă o vedere panoramică asupra Mării Moarte. Este o destinație importantă pentru turismul religios. Accesul se face pe o potecă abruptă.",
+      en: "Lot's Cave is an archaeological site located near the Dead Sea, southeast of Jericho. It is traditionally identified as the place where Lot and his daughters sought refuge after the destruction of Sodom and Gomorrah. The cave consists of two natural chambers used by Byzantine monks as a hermitage between the 5th and 6th centuries. They built a chapel, living quarters, and mosaic floors with dedicatory inscriptions. Excavations from 1988 to 1998 uncovered pottery, coins, and oil lamps. A mosaic inscription reads 'Lord, help those who honor the memory of Lot'. The site offers views of the Dead Sea. It is a popular destination for religious tourism. Access requires a steep hike.",
+    },
+    factsAdvanced: {
+      de: ["Die Höhle liegt nahe dem Toten Meer.", "Die byzantinische Kapelle stammt aus dem 5. Jahrhundert.", "Mosaikböden mit Inschriften wurden gefunden.", "Die Ausgrabungen erfolgten zwischen 1988 und 1998.", "Die Höhle hat zwei natürliche Kammern.", "Inschriften erwähnen den biblischen Lot."],
+      hu: ["A barlang a Holt-tenger közelében van.", "A bizánci kápolna az 5. században épült.", "Mozaikpadlókat és feliratokat találtak.", "Az ásatások 1988 és 1998 között voltak.", "A barlang két természetes kamrából áll.", "Egy felirat említi Lótot."],
+      ro: ["Peștera este situată lângă Marea Moartă.", "Capela bizantină datează din secolul al V-lea.", "Mozaicuri și inscripții au fost descoperite.", "Săpăturile s-au desfășurat între 1988 și 1998.", "Peștera are două camere naturale.", "O inscripție menționează numele lui Lot."],
+      en: ["Lot's Cave is situated near the Dead Sea, approximately 5 km from the shore.", "The site includes a Byzantine chapel built in the 5th century.", "Mosaic floors with inscriptions were uncovered during excavations.", "Excavations were conducted from 1988 to 1998 by a joint team.", "The cave has two natural chambers used for habitation.", "A mosaic inscription references Lot and his family."],
+    },
+  },
   {
     id: "jabal-haroun-landmarks-v2",
     type: "landmark",
     parent: "JO-MN",
     coords: [35.4056, 30.3167],
-    name: { de: "Jabal Haroun", hu: "Áron hegye (Jabal Haroun)", ro: "Muntele lui Aaron (Jabal Haroun)", en: "Mount Aaron (Jabal Haroun)",
-image: "/poi-images/jabal-haroun-landmarks-v2.webp"
-},
+    name: { de: "Jabal Haroun", hu: "Áron hegye (Jabal Haroun)", ro: "Muntele lui Aaron (Jabal Haroun)", en: "Mount Aaron (Jabal Haroun)"},
+    image: "/poi-images/jabal-haroun-landmarks-v2.webp",
     description: {
       de: "Dieser Berg ist der höchste Gipfel im Bereich von Petra. Auf seiner Spitze befindet sich ein kleiner weißer Schrein, der als das Grab von Moses' Bruder Aaron gilt.",
       hu: "Ez a hegy a Petra területének legmagasabb csúcsa. Tetején egy kis fehér szentély található, amelyet a hagyomány Mózes bátyjának, Áronnak a sírjaként tart számon.",
@@ -380,15 +595,27 @@ image: "/poi-images/jabal-haroun-landmarks-v2.webp"
       hu: ["A hegy mintegy 1350 méter magas.", "A megmászásához több órás túra szükséges.", "A fehér mecset a 14. századból származik.", "Muszlimok és zsidók számára egyaránt szent hely."],
       ro: ["Muntele are aproximativ 1350 de metri înălțime.", "Ascensiunea necesită o drumeție de câteva ore.", "Moscheea albă datează din secolul al XIV-lea.", "Este un loc sfânt atât pentru musulmani, cât și pentru evrei."],
       en: ["The mountain is about 1350 meters high.", "The ascent requires a hike of several hours.", "The white mosque dates from the 14th century.", "It is a sacred place for both Muslims and Jews."]
-    }, image: "/poi-images/jabal-haroun-landmarks-v2.webp"},
+    }, image: "/poi-images/jabal-haroun-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Jabal Haroun (Berg Aarons) ist ein Berg in der Nähe von Petra in Jordanien, der traditionell als Grabstätte des biblischen Aaron verehrt wird. Auf dem Gipfel, auf 1.350 Metern Höhe, steht eine kleine Moschee aus dem 14. Jahrhundert, die vermutlich über einem früheren byzantinischen Kloster errichtet wurde. Die Stätte ist für Muslime, Christen und Juden heilig. Der Aufstieg auf den Berg erfolgt über einen steilen Pfad, der etwa zwei Stunden dauert. Vom Gipfel hat man einen hervorragenden Blick auf die Wüste und Petra. Archäologische Ausgrabungen haben Überreste eines byzantinischen Klosters und einer Kirche freigelegt. Der Berg ist ein beliebtes Ziel für Pilger und Wanderer. Die Umgebung ist trocken und felsig.",
+      hu: "Jabal Haroun (Áron hegye) a jordániai Petra közelében található hegy, ahol a hagyomány szerint Áron prófétát eltemették. A csúcson 1350 méteres magasságban egy 14. századi mecset áll, amely egy bizánci kolostor helyére épült. A hely szent mindhárom monoteista vallás számára. A csúcsra vezető ösvény meredek, a túra körülbelül két órát vesz igénybe. A kilátás a sivatagra és Petrára lenyűgöző. A régészeti feltárások bizánci kolostor és templom maradványait hozták felszínre. A hegy zarándok- és túracélpont. A környék száraz és sziklás.",
+      ro: "Muntele Aaron (Jabal Haroun) este situat lângă Petra, în Iordania, și este considerat locul de înmormântare al lui Aaron, fratele lui Moise. Pe vârf, la 1.350 de metri altitudine, se află o moschee din secolul al XIV-lea, construită pe ruinele unei mănăstiri bizantine. Situl este sacru pentru musulmani, creștini și evrei. Ascensiunea durează aproximativ două ore pe un drum abrupt. De pe vârf se vede Petra și deșertul. Săpăturile arheologice au descoperit rămășițe ale mănăstirii și unei biserici. Este o destinație populară pentru pelerini și drumeții. Zona este aridă și stâncoasă.",
+      en: "Jabal Haroun, or Mount Aaron, is a mountain near Petra, Jordan, traditionally identified as the burial place of Aaron, the brother of Moses. The summit, at 1,350 meters above sea level, features a 14th-century mosque built over a Byzantine monastery. The site is sacred to Muslims, Christians, and Jews. The hike to the top takes about two hours via a steep trail. From the peak, visitors can see the surrounding desert and the archaeological site of Petra. Excavations have revealed remains of a Byzantine monastery and church, including a baptismal font. The mountain is a popular pilgrimage destination. The climate is dry, with sparse vegetation.",
+    },
+    factsAdvanced: {
+      de: ["Der Gipfel liegt 1.350 Meter über dem Meeresspiegel.", "Die Moschee auf dem Gipfel stammt aus dem 14. Jahrhundert.", "Der Aufstieg dauert etwa zwei Stunden.", "Eine byzantinische Kirche aus dem 5. Jahrhundert wurde ausgegraben.", "Der Berg ist heilig für drei Religionen.", "Der Berg liegt in der Nähe von Petra."],
+      hu: ["A csúcs 1350 méter magas.", "A mecset a 14. században épült.", "A túra körülbelül két óra.", "Egy 5. századi bizánci templom maradványait találták.", "A hegy három vallás számára szent.", "Petra közelében található."],
+      ro: ["Vârful se află la 1.350 de metri altitudine.", "Moscheea datează din secolul al XIV-lea.", "Ascensiunea durează aproximativ două ore.", "Au fost descoperite rămășițele unei biserici bizantine din secolul al V-lea.", "Muntele este sacru pentru trei religii.", "Este situat lângă Petra."],
+      en: ["Mount Aaron's summit is 1,350 meters above sea level.", "The shrine on top is a 14th-century mosque.", "The hike to the summit takes around 2 hours.", "A Byzantine church from the 5th century was excavated at the site.", "The mountain is considered holy by Muslims, Christians, and Jews.", "Jabal Haroun is located about 5 km from Petra."],
+    },
+  },
   {
     id: "rujm-al-malfouf-landmarks-v2",
     type: "landmark",
     parent: "JO-AM",
     coords: [35.9015, 31.9567],
-    name: { de: "Rujm al-Malfouf", hu: "Rujm al-Malfouf", ro: "Rujm al-Malfouf", en: "Rujm al-Malfouf",
-image: "/poi-images/rujm-al-malfouf-landmarks-v2.webp"
-},
+    name: { de: "Rujm al-Malfouf", hu: "Rujm al-Malfouf", ro: "Rujm al-Malfouf", en: "Rujm al-Malfouf"},
+    image: "/poi-images/rujm-al-malfouf-landmarks-v2.webp",
     description: {
       de: "Ein runder megalithischer Wachturm in Amman, der vermutlich während des Königreichs Ammon errichtet wurde. Er ist eine der ältesten erhaltenen Strukturen der Stadt.",
       hu: "Egy kerek megalitikus őrtorony Ammánban, amelyet valószínűleg az Ammoni Királyság idején emeltek. A város egyik legrégebbi fennmaradt építménye.",
@@ -400,6 +627,18 @@ image: "/poi-images/rujm-al-malfouf-landmarks-v2.webp"
       hu: ["Valószínűleg az i.e. 13. század környékén épült.", "A név fordítása 'Feltekert kőhalom'.", "A mezőgazdasági területek védelmét szolgálta.", "Az ásatások római leleteket is a felszínre hoztak."],
       ro: ["A fost probabil construit în jurul secolului al XIII-lea î.Hr.", "Numele se traduce prin 'Grămadă de pietre rulată'.", "A servit la protejarea zonelor agricole.", "Săpăturile au scos la iveală artefacte romane."],
       en: ["It was probably built around the 13th century BC.", "The name translates to 'Rolled pile of stones'.", "It served to protect agricultural areas.", "Excavations revealed Roman artifacts."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Rujm al-Malfouf ist eine archäologische Stätte in Amman, Jordanien, die auf die Eisenzeit II (ca. 700 v. Chr.) zurückgeht. Die Stätte besteht aus einem runden Steinturm mit einem Durchmesser von etwa 15 Metern und angrenzenden Mauern. Es wird angenommen, dass es sich um einen Wachturm oder eine Festung handelte. Rujm al-Malfouf liegt im Stadtteil Abdoun und ist von moderner Bebauung umgeben. Der Turm ist aus grob behauenen Kalksteinblöcken erbaut. In der Nähe wurden Zisternen und Getreidespeicher gefunden. Die Stätte wurde in den 1960er Jahren ausgegraben. Sie ist ein seltenes Zeugnis der ammonitischen Besiedlung in der Region. Der Turm ist von einem kleinen Park umgeben.",
+      hu: "Rujm al-Malfouf egy ammónita vaskori lelőhely Ammanban, Jordániában. A Kr. e. 900-600 közötti időszakra datálják. A maradványok egy kör alakú toronyból állnak, melynek átmérője 15 méter. Őrtoronyként vagy erődítésként szolgálhatott. A hely a modern Abdoun negyedben található. A tornyot durva mészkőtömbökből építették. Ciszternákat és gabonatárolókat is találtak. Az ásatások az 1960-as években történtek. Ritka példája az ammónita építészetnek. A környék parkosított.",
+      ro: "Rujm al-Malfouf este un sit arheologic din perioada fierului, situat în Amman, Iordania. Datează din secolul al VII-lea î.Hr. Constă dintr-un turn rotund de piatră, cu diametrul de aproximativ 15 metri. Se crede că a fost un turn de veghe sau o fortificație. Situl este înconjurat de clădiri moderne în cartierul Abdoun. Turnul este construit din blocuri de calcar cioplit grosier. Au fost găsite cisterne și depozite de cereale. Săpăturile au avut loc în anii 1960. Este o mărturie rară a așezării ammonite din zonă. Turnul este acum într-un mic parc.",
+      en: "Rujm al-Malfouf is an Iron Age archaeological site located in the Abdoun district of Amman, Jordan. Dating to approximately 700 BCE, the site features a circular stone tower with a diameter of 15 meters and adjoining walls. It is believed to have served as a watchtower or fortress for the Ammonite kingdom. The tower is constructed from roughly hewn limestone blocks. Excavations in the 1960s uncovered cisterns and grain silos. The site is now surrounded by urban development and is preserved as a small park. Rujm al-Malfouf provides valuable insight into Ammonite defensive architecture and settlement patterns in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Stätte stammt aus der Eisenzeit II (ca. 700 v. Chr.).", "Der Turmdurchmesser beträgt etwa 15 Meter.", "Rujm al-Malfouf liegt im Stadtteil Abdoun in Amman.", "Der Turm ist aus Kalksteinblöcken erbaut.", "Ausgrabungen fanden in den 1960er Jahren statt.", "Es wurden Zisternen und Getreidespeicher entdeckt."],
+      hu: ["Kr. e. 700-ra datálják.", "A torony átmérője 15 méter.", "Amman Abdoun negyedében található.", "Mészkőből épült.", "Az ásatások az 1960-as években voltak.", "Ciszternákat és gabonatárolókat találtak."],
+      ro: ["Situl datează din anul 700 î.Hr.", "Diametrul turnului este de 15 metri.", "Se află în cartierul Abdoun din Amman.", "Construit din blocuri de calcar.", "Săpăturile au fost în anii 1960.", "Au fost descoperite cisterne și depozite de cereale."],
+      en: ["Rujm al-Malfouf dates to around 700 BCE.", "The stone tower has a diameter of 15 meters.", "It is located in the Abdoun district of Amman.", "The tower is built from limestone blocks.", "Excavations were conducted in the 1960s.", "Cisterns and grain silos were found at the site."],
+    },
   }
 ];

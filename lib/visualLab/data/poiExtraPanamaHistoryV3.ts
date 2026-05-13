@@ -328,25 +328,7 @@ export const poiExtraPanamaHistoryV3: POI[] = [
       en: ["Pre-Columbian artifacts.", "Religious art from the colonial era.", "Located in the city center.", "Cultural heritage of Coclé."]
     }
   },
-  {
-    id: "panama-las-bovedas-history-v2",
-    type: "historical",
-    parent: "PA-PA",
-    coords: [-79.5315, 8.9515],
-    name: { de: "Las Bóvedas", hu: "Las Bóvedas", ro: "Las Bóvedas", en: "Las Bóvedas" },
-    description: {
-      de: "Las Bóvedas sind ehemalige Verliese und Lagerräume in der Stadtmauer von Panama-Stadt. Sie sind Teil der Verteidigungsanlagen gegen Angriffe vom Meer.",
-      hu: "A Las Bóvedas egykori börtönök és raktárak Panamaváros városfalában. A tenger felőli támadások elleni védelmi rendszer részét képezik.",
-      ro: "Las Bóvedas sunt foste temnițe și depozite din zidul orașului Panama. Fac parte din fortificațiile de apărare împotriva atacurilor de pe mare.",
-      en: "Las Bóvedas are former dungeons and storerooms within the city wall of Panama City. They are part of the defense fortifications against sea attacks."
-    },
-    facts: {
-      de: ["Erbaut im 18. Jahrhundert.", "Ehemalige Gefängniszellen.", "Teil der Stadtbefestigung.", "Heute Kunstgalerien und Restaurants."],
-      hu: ["A 18. században épült.", "Egykori börtöncellák.", "A városi erődítmény része.", "Ma művészeti galériák és éttermek."],
-      ro: ["Construite în secolul al XVIII-lea.", "Foste celule de închisoare.", "Parte a fortificațiilor orașului.", "Astăzi galerii de artă și restaurante."],
-      en: ["Built in the 18th century.", "Former prison cells.", "Part of the city fortifications.", "Now art galleries and restaurants."]
-    }, image: "/poi-images/panama-las-bovedas-history-v2.webp"},
-  {
+    {
     id: "panama-paseo-bovedas-history-v2",
     type: "historical",
     parent: "PA-PA",

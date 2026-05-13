@@ -196,9 +196,8 @@ image: "/poi-images/bolivia-bosque-seco-chiquitano-relief-v2.webp"
       de: "Gran Chaco (Bolivien)",
       hu: "Gran Chaco (Bolívia)",
       ro: "Gran Chaco (Bolivia)",
-      en: "Gran Chaco (Bolivia)",
-image: "/poi-images/bolivia-gran-chaco-relief-v2.webp"
-},
+      en: "Gran Chaco (Bolivia)"},
+    image: "/poi-images/bolivia-gran-chaco-relief-v2.webp",
     description: {
       de: "Der bolivianische Teil des Gran Chaco ist eine heiße, trockene Tieflandregion mit dornigen Buschlandschaften.",
       hu: "A Gran Chaco bolíviai része egy forró, száraz alföldi régió, amelyet tövises cserjések borítanak.",
@@ -267,9 +266,8 @@ image: "/poi-images/bolivia-gran-chaco-relief-v2.webp"
       de: "Serranía del Aguaragüe",
       hu: "Serranía del Aguaragüe",
       ro: "Serranía del Aguaragüe",
-      en: "Serranía del Aguaragüe",
-image: "/poi-images/bolivia-serrania-aguarague-relief-v2.webp"
-},
+      en: "Serranía del Aguaragüe"},
+    image: "/poi-images/bolivia-serrania-aguarague-relief-v2.webp",
     description: {
       de: "Die Serranía del Aguaragüe ist eine subandine Bergkette, die für das lokale Ökosystem und als Wasserreservoir wichtig ist.",
       hu: "A Serranía del Aguaragüe egy szubandok hegylánc, amely fontos a helyi ökoszisztéma és a vízkészletek szempontjából.",
@@ -333,9 +331,8 @@ image: "/poi-images/bolivia-serrania-aguarague-relief-v2.webp"
       de: "Vulkan Tunupa",
       hu: "Tunupa vulkán",
       ro: "Vulcanul Tunupa",
-      en: "Tunupa Volcano",
-image: "/poi-images/bolivia-volcan-tunupa-relief-v2.webp"
-},
+      en: "Tunupa Volcano"},
+    image: "/poi-images/bolivia-volcan-tunupa-relief-v2.webp",
     description: {
       de: "Der imposante Vulkan Tunupa überragt den nördlichen Rand des Salar de Uyuni und ist ein heiliger Berg für die lokale Bevölkerung.",
       hu: "Az impozáns Tunupa vulkán a Salar de Uyuni északi peremén magasodik, és a helyi lakosság számára szent hegy.",
@@ -404,9 +401,8 @@ image: "/poi-images/bolivia-volcan-tunupa-relief-v2.webp"
       de: "Vulkan Parinacota",
       hu: "Parinacota vulkán",
       ro: "Vulcanul Parinacota",
-      en: "Parinacota Volcano",
-image: "/poi-images/bolivia-volcan-parinacota-relief-v2.webp"
-},
+      en: "Parinacota Volcano"},
+    image: "/poi-images/bolivia-volcan-parinacota-relief-v2.webp",
     description: {
       de: "Der Parinacota ist ein massiver, schneebedeckter Stratovulkan an der Grenze zwischen Bolivien und Chile.",
       hu: "A Parinacota egy hatalmas, hófedte rétegvulkán Bolívia és Chile határán.",
@@ -475,9 +471,8 @@ image: "/poi-images/bolivia-volcan-parinacota-relief-v2.webp"
       de: "Vulkan Pomerape",
       hu: "Pomerape vulkán",
       ro: "Vulcanul Pomerape",
-      en: "Pomerape Volcano",
-image: "/poi-images/bolivia-volcan-pomerape-relief-v2.webp"
-},
+      en: "Pomerape Volcano"},
+    image: "/poi-images/bolivia-volcan-pomerape-relief-v2.webp",
     description: {
       de: "Der Pomerape bildet zusammen mit dem benachbarten Parinacota das markante Payachata-Vulkansystem.",
       hu: "A Pomerape a szomszédos Parinacotával együtt alkotja a jellegzetes Payachata vulkánrendszert.",
@@ -552,9 +547,8 @@ image: "/poi-images/bolivia-volcan-pomerape-relief-v2.webp"
       de: "Cerro Zapaleri",
       hu: "Cerro Zapaleri",
       ro: "Cerro Zapaleri",
-      en: "Cerro Zapaleri",
-image: "/poi-images/bolivia-cerro-zapaleri-relief-v2.webp"
-},
+      en: "Cerro Zapaleri"},
+    image: "/poi-images/bolivia-cerro-zapaleri-relief-v2.webp",
     description: {
       de: "Der Cerro Zapaleri ist ein vulkanischer Berg, der das Dreiländereck zwischen Bolivien, Chile und Argentinien markiert.",
       hu: "Vulkanikus hegycsúcs az Andok déli részén, amely Bolívia, Chile és Argentína hármas határpontját jelöli.",
@@ -613,9 +607,8 @@ image: "/poi-images/bolivia-cerro-zapaleri-relief-v2.webp"
       de: "Acotango",
       hu: "Acotango",
       ro: "Acotango",
-      en: "Acotango",
-image: "/poi-images/bolivia-acotango-relief-v2.webp"
-},
+      en: "Acotango"},
+    image: "/poi-images/bolivia-acotango-relief-v2.webp",
     description: {
       de: "Der Acotango ist ein markanter Vulkan in der Kordillere Quimsachata, bekannt für alte Schwefelminen an seinen Hängen.",
       hu: "Az Acotango egy feltűnő vulkán a Quimsachata-kordillerában, amely a lejtőin található ősi kénbányáiról ismert.",
@@ -684,9 +677,8 @@ image: "/poi-images/bolivia-acotango-relief-v2.webp"
       de: "Cordillera de Apolobamba",
       hu: "Apolobamba-hegység",
       ro: "Cordillera de Apolobamba",
-      en: "Apolobamba Mountain Range",
-image: "/poi-images/bolivia-cordillera-apolobamba-relief-v2.webp"
-},
+      en: "Apolobamba Mountain Range"},
+    image: "/poi-images/bolivia-cordillera-apolobamba-relief-v2.webp",
     description: {
       de: "Die Cordillera de Apolobamba ist eine stark vergletscherte Bergkette und ein wichtiges Rückzugsgebiet für Andenkondore und Vikunjas.",
       hu: "Az Apolobamba-hegység egy erősen eljegesedett hegylánc, amely az andoki kondorok és a vikunyák fontos menedékhelye.",
@@ -755,9 +747,8 @@ image: "/poi-images/bolivia-cordillera-apolobamba-relief-v2.webp"
       de: "Serranía de Iñao",
       hu: "Serranía de Iñao",
       ro: "Serranía de Iñao",
-      en: "Serranía de Iñao",
-image: "/poi-images/bolivia-serrania-de-inao-relief-v2.webp"
-},
+      en: "Serranía de Iñao"},
+    image: "/poi-images/bolivia-serrania-de-inao-relief-v2.webp",
     description: {
       de: "Die Serranía de Iñao ist ein Nationalpark und eine Bergregion in Chuquisaca, die durch unberührte Wälder und steile Hänge gekennzeichnet ist.",
       hu: "A Serranía de Iñao egy nemzeti park és hegyvidéki régió Chuquisacában, amelyet érintetlen erdők és meredek lejtők jellemeznek.",
@@ -826,9 +817,8 @@ image: "/poi-images/bolivia-serrania-de-inao-relief-v2.webp"
       de: "Zongo-Tal",
       hu: "Zongo-völgy",
       ro: "Valea Zongo",
-      en: "Zongo Valley",
-image: "/poi-images/bolivia-valle-de-zongo-relief-v2.webp"
-},
+      en: "Zongo Valley"},
+    image: "/poi-images/bolivia-valle-de-zongo-relief-v2.webp",
     description: {
       de: "Das Zongo-Tal ist eine steile Schlucht unweit von La Paz, die für ihre hydroelektrischen Anlagen und atemberaubenden Nebelwälder bekannt ist.",
       hu: "A Zongo-völgy egy meredek szurdok La Paz közelében, amely vízenergia-létesítményeiről és lélegzetelállító köderdeiről ismert.",
@@ -903,9 +893,8 @@ image: "/poi-images/bolivia-valle-de-zongo-relief-v2.webp"
       de: "Caparú-Hochebene",
       hu: "Caparú-fennsík",
       ro: "Platoul Caparú",
-      en: "Caparú Plateau",
-image: "/poi-images/bolivia-meseta-de-caparu-relief-v2.webp"
-},
+      en: "Caparú Plateau"},
+    image: "/poi-images/bolivia-meseta-de-caparu-relief-v2.webp",
     description: {
       de: "Die Meseta de Caparú ist ein isoliertes Tafelberg-Gebiet (Tepui) im Nationalpark Noel Kempff Mercado.",
       hu: "Hatalmas, elszigetelt homokkő táblahegy Bolívia északkeleti részén, amely érintetlen ökoszisztémájáról és látványos vízeséseiről nevezetes.",
@@ -969,9 +958,8 @@ image: "/poi-images/bolivia-meseta-de-caparu-relief-v2.webp"
       de: "Serranía de San Simón",
       hu: "Serranía de San Simón",
       ro: "Serranía de San Simón",
-      en: "Serranía de San Simón",
-image: "/poi-images/bolivia-serrania-de-san-simon-relief-v2.webp"
-},
+      en: "Serranía de San Simón"},
+    image: "/poi-images/bolivia-serrania-de-san-simon-relief-v2.webp",
     description: {
       de: "Diese abgelegene Hügelkette im Amazonasbecken zeichnet sich durch dichten Wald und historische Goldminen aus.",
       hu: "Ez a távoli dombvonulat az Amazonas medencéjében sűrű erdőjéről és történelmi aranybányáiról ismert.",
@@ -1042,9 +1030,8 @@ image: "/poi-images/bolivia-serrania-de-san-simon-relief-v2.webp"
       de: "Lípez-Kordillere",
       hu: "Lípez-kordillera",
       ro: "Cordillera de Lípez",
-      en: "Cordillera de Lípez",
-image: "/poi-images/bolivia-cordillera-de-lipez-relief-v2.webp"
-},
+      en: "Cordillera de Lípez"},
+    image: "/poi-images/bolivia-cordillera-de-lipez-relief-v2.webp",
     description: {
       de: "Die Lípez-Kordillere im Südwesten Boliviens bietet eine raue, extreme Vulkanlandschaft mit einzigartigen farbigen Lagunen.",
       hu: "Bolívia legdélebbi és legzordabb hegyvidéke az Andok nyugati ágában, szürreális lagúnákkal és aktív geotermikus területekkel.",
@@ -1108,9 +1095,8 @@ image: "/poi-images/bolivia-cordillera-de-lipez-relief-v2.webp"
       de: "Cerro Guayaques",
       hu: "Cerro Guayaques",
       ro: "Cerro Guayaques",
-      en: "Cerro Guayaques",
-image: "/poi-images/bolivia-cerro-guayaques-relief-v2.webp"
-},
+      en: "Cerro Guayaques"},
+    image: "/poi-images/bolivia-cerro-guayaques-relief-v2.webp",
     description: {
       de: "Der Cerro Guayaques ist ein Vulkankomplex an der Grenze zu Chile, dessen Lavaströme das raue Wüstenbild prägen.",
       hu: "A Cerro Guayaques egy vulkáni komplexum a chilei határon, amelynek lávafolyamai formálják a zord sivatagi képet.",
@@ -1179,9 +1165,8 @@ image: "/poi-images/bolivia-cerro-guayaques-relief-v2.webp"
       de: "Vulkan Tata Sabaya",
       hu: "Tata Sabaya vulkán",
       ro: "Vulcanul Tata Sabaya",
-      en: "Tata Sabaya Volcano",
-image: "/poi-images/bolivia-volcan-tata-sabaya-relief-v2.webp"
-},
+      en: "Tata Sabaya Volcano"},
+    image: "/poi-images/bolivia-volcan-tata-sabaya-relief-v2.webp",
     description: {
       de: "Der Tata Sabaya ist ein Vulkan in den zentralen Anden, der für massive prähistorische Bergstürze bekannt ist.",
       hu: "A Tata Sabaya egy vulkán a Középső-Andokban, amely masszív őskori hegyomlásairól ismert.",
@@ -1250,9 +1235,8 @@ image: "/poi-images/bolivia-volcan-tata-sabaya-relief-v2.webp"
       de: "Tucumano-Bolivianischer Wald",
       hu: "Tucumano-Bolíviai erdő",
       ro: "Pădurea Tucumano-Boliviană",
-      en: "Tucumano-Bolivian Forest",
-image: "/poi-images/bolivia-bosque-tucumano-boliviano-relief-v2.webp"
-},
+      en: "Tucumano-Bolivian Forest"},
+    image: "/poi-images/bolivia-bosque-tucumano-boliviano-relief-v2.webp",
     description: {
       de: "Dieser Bergnebelwald erstreckt sich entlang der östlichen Andenhänge und ist ein wichtiger Lebensraum für Jaguare und Brillenbären.",
       hu: "Ez a hegyi köderdő a keleti Andok lejtői mentén húzódik, és fontos élőhelye a jaguároknak és a pápaszemes medvéknek.",
@@ -1321,9 +1305,8 @@ image: "/poi-images/bolivia-bosque-tucumano-boliviano-relief-v2.webp"
       de: "Bolivianischer Amazonas-Regenwald",
       hu: "Bolíviai amazonasi esőerdő",
       ro: "Pădurea Amazoniană Boliviană",
-      en: "Bolivian Amazon Rainforest",
-image: "/poi-images/bolivia-selva-amazonica-boliviana-relief-v2.webp"
-},
+      en: "Bolivian Amazon Rainforest"},
+    image: "/poi-images/bolivia-selva-amazonica-boliviana-relief-v2.webp",
     description: {
       de: "Der unberührte amazonische Regenwald im Norden Boliviens ist eines der artenreichsten Ökosysteme der Erde.",
       hu: "Bolívia északi részén található érintetlen amazonasi esőerdő a Föld egyik legfajgazdagabb ökoszisztémája.",
@@ -1392,9 +1375,8 @@ image: "/poi-images/bolivia-selva-amazonica-boliviana-relief-v2.webp"
       de: "Serranía de Chiquitos",
       hu: "Serranía de Chiquitos",
       ro: "Serranía de Chiquitos",
-      en: "Serranía de Chiquitos",
-image: "/poi-images/bolivia-serrania-de-chiquitos-relief-v2.webp"
-},
+      en: "Serranía de Chiquitos"},
+    image: "/poi-images/bolivia-serrania-de-chiquitos-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte, niedrige Bergkette im Osten Boliviens, die historische Jesuitensiedlungen und einzigartige Felsformationen beherbergt.",
       hu: "Kiterjedt, alacsony hegylánc Bolívia keleti részén, amely történelmi jezsuita településeknek és egyedülálló sziklaképződményeknek ad otthont.",
@@ -1463,9 +1445,8 @@ image: "/poi-images/bolivia-serrania-de-chiquitos-relief-v2.webp"
       de: "Vulkan Ollagüe",
       hu: "Ollagüe vulkán",
       ro: "Vulcanul Ollagüe",
-      en: "Ollagüe Volcano",
-image: "/poi-images/bolivia-volcan-ollague-relief-v2.webp"
-},
+      en: "Ollagüe Volcano"},
+    image: "/poi-images/bolivia-volcan-ollague-relief-v2.webp",
     description: {
       de: "Der aktive Vulkan Ollagüe liegt in den Anden und ist durch ständige Fumarolen-Aktivität nahe dem Gipfel gekennzeichnet.",
       hu: "Az aktív Ollagüe vulkán az Andokban található, és a csúcs közelében lévő folyamatos fumarola-tevékenység jellemzi.",
@@ -1534,9 +1515,8 @@ image: "/poi-images/bolivia-volcan-ollague-relief-v2.webp"
       de: "Serranía de Santiago",
       hu: "Serranía de Santiago",
       ro: "Serranía de Santiago",
-      en: "Serranía de Santiago",
-image: "/poi-images/bolivia-serrania-de-santiago-relief-v2.webp"
-},
+      en: "Serranía de Santiago"},
+    image: "/poi-images/bolivia-serrania-de-santiago-relief-v2.webp",
     description: {
       de: "Eine markante Hügelkette im Tucabaca-Tal-Reservat, berühmt für ihre spektakulären Aussichtspunkte und rote Felsformationen.",
       hu: "Jellegzetes dombvonulat a Tucabaca-völgy rezervátumában, amely látványos kilátóiról és vörös sziklaképződményeiről híres.",

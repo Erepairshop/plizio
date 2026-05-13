@@ -6,9 +6,8 @@ export const poiExtraBhutanReliefV2: POI[] = [
     type: "valley",
     parent: "BT-32",
     coords: [90.1764, 27.4262],
-    name: { de: "Phobjikha-Tal", hu: "Phobjikha-völgy", ro: "Valea Phobjikha", en: "Phobjikha Valley",
-image: "/poi-images/phobjikha-valley-relief-v2.webp"
-},
+    name: { de: "Phobjikha-Tal", hu: "Phobjikha-völgy", ro: "Valea Phobjikha", en: "Phobjikha Valley"},
+    image: "/poi-images/phobjikha-valley-relief-v2.webp",
     description: { de: "Ein weites Gletschertal, das als Winterquartier für die seltenen Schwarzhalskraniche berühmt ist.", hu: "Egy széles gleccservölgy, amely a ritka feketenyakú darvak téli menedékhelyeként híres.", ro: "O vale glaciară largă, renumită ca zonă de iernat pentru rarele cocori cu gât negru.", en: "A wide glacial valley famous as the winter roosting ground for the rare black-necked cranes." },
     facts: {
       de: ["Liegt auf etwa 3000 Metern Höhe.", "Wichtige Naturschutzzone."],
@@ -31,9 +30,8 @@ image: "/poi-images/phobjikha-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-13",
     coords: [89.2807, 27.3875],
-    name: { de: "Haa-Tal", hu: "Haa-völgy", ro: "Valea Haa", en: "Haa Valley",
-image: "/poi-images/haa-valley-relief-v2.webp"
-},
+    name: { de: "Haa-Tal", hu: "Haa-völgy", ro: "Valea Haa", en: "Haa Valley"},
+    image: "/poi-images/haa-valley-relief-v2.webp",
     description: { de: "Ein tiefes Tal im Westen, das lange für Touristen geschlossen war und für seine unberührte Natur bekannt ist.", hu: "Egy mély völgy nyugaton, amely sokáig zárva volt a turisták előtt, és érintetlen természetéről ismert.", ro: "O vale adâncă în vest, mult timp închisă turiștilor, cunoscută pentru natura sa virgină.", en: "A deep valley in the west, long closed to tourists, known for its pristine nature." },
     facts: {
       de: ["Grenzt an das tibetische Chumbi-Tal.", "Liegt auf über 2600 Metern Höhe."],
@@ -57,9 +55,8 @@ image: "/poi-images/haa-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-12",
     coords: [89.4133, 27.4294],
-    name: { de: "Paro-Tal", hu: "Paro-völgy", ro: "Valea Paro", en: "Paro Valley",
-image: "/poi-images/paro-valley-relief-v2.webp"
-},
+    name: { de: "Paro-Tal", hu: "Paro-völgy", ro: "Valea Paro", en: "Paro Valley"},
+    image: "/poi-images/paro-valley-relief-v2.webp",
     description: { de: "Eines der breitesten und fruchtbarsten Täler Bhutans, das das kulturelle und historische Zentrum des Landes bildet.", hu: "Bhután egyik legszélesebb és legtermékenyebb völgye, amely az ország kulturális és történelmi központja.", ro: "Una dintre cele mai largi și fertile văi din Bhutan, care formează centrul cultural și istoric al țării.", en: "One of the widest and most fertile valleys in Bhutan, forming the cultural and historical center of the country." },
     facts: {
       de: ["Heimat des einzigen internationalen Flughafens.", "Wird vom Paro Chhu durchflossen."],
@@ -82,9 +79,8 @@ image: "/poi-images/paro-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-23",
     coords: [89.8631, 27.5921],
-    name: { de: "Punakha-Tal", hu: "Punakha-völgy", ro: "Valea Punakha", en: "Punakha Valley",
-image: "/poi-images/punakha-valley-relief-v2.webp"
-},
+    name: { de: "Punakha-Tal", hu: "Punakha-völgy", ro: "Valea Punakha", en: "Punakha Valley"},
+    image: "/poi-images/punakha-valley-relief-v2.webp",
     description: { de: "Ein tiefer und wärmerer Talabschnitt, in dem aufgrund des milden Klimas Reis und Früchte hervorragend gedeihen.", hu: "Egy mélyebb és melegebb völgyszakasz, ahol az enyhe éghajlat miatt kiválóan terem a rizs és a gyümölcs.", ro: "O vale mai adâncă și mai caldă, unde datorită climei blânde orezul și fructele cresc excelent.", en: "A lower and warmer valley where rice and fruits thrive excellently due to the mild climate." },
     facts: {
       de: ["Ehemalige Winterhauptstadt des Landes.", "Liegt auf etwa 1200 Metern."],
@@ -107,9 +103,8 @@ image: "/poi-images/punakha-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-33",
     coords: [90.7333, 27.5500],
-    name: { de: "Bumthang-Tal", hu: "Bumthang-völgy", ro: "Valea Bumthang", en: "Bumthang Valley",
-image: "/poi-images/bumthang-valley-relief-v2.webp"
-},
+    name: { de: "Bumthang-Tal", hu: "Bumthang-völgy", ro: "Valea Bumthang", en: "Bumthang Valley"},
+    image: "/poi-images/bumthang-valley-relief-v2.webp",
     description: { de: "Das spirituelle Herzland Bhutans, das aus vier großen Tälern besteht und zahlreiche uralte Tempel beherbergt.", hu: "Bhután spirituális szíve, amely négy nagy völgyből áll, és számos ősi templomnak ad otthont.", ro: "Inima spirituală a Bhutanului, formată din patru văi mari, care găzduiește numeroase temple antice.", en: "The spiritual heartland of Bhutan, consisting of four major valleys and home to numerous ancient temples." },
     facts: {
       de: ["Bekannt für Buchweizen und Apfelplantagen.", "Gilt als die kleine Schweiz Bhutans."],
@@ -133,9 +128,8 @@ image: "/poi-images/bumthang-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-14",
     coords: [89.6390, 27.4728],
-    name: { de: "Thimphu-Tal", hu: "Thimphu-völgy", ro: "Valea Thimphu", en: "Thimphu Valley",
-image: "/poi-images/thimphu-valley-relief-v2.webp"
-},
+    name: { de: "Thimphu-Tal", hu: "Thimphu-völgy", ro: "Valea Thimphu", en: "Thimphu Valley"},
+    image: "/poi-images/thimphu-valley-relief-v2.webp",
     description: { de: "Das dicht besiedelte Tal, in dem die Hauptstadt liegt und eine einzigartige Mischung aus Tradition und Moderne bietet.", hu: "A sűrűn lakott völgy, ahol a főváros található, és a hagyomány és a modernitás egyedi keverékét nyújtja.", ro: "Valea dens populată unde se află capitala, oferind un amestec unic de tradiție și modernitate.", en: "The densely populated valley where the capital is located, offering a unique blend of tradition and modernity." },
     facts: {
       de: ["Umschließt den Fluss Wang Chhu.", "Hat keine Verkehrsampeln im gesamten Tal."],
@@ -158,9 +152,8 @@ image: "/poi-images/thimphu-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-33",
     coords: [90.9333, 27.4833],
-    name: { de: "Ura-Tal", hu: "Ura-völgy", ro: "Valea Ura", en: "Ura Valley",
-image: "/poi-images/ura-valley-relief-v2.webp"
-},
+    name: { de: "Ura-Tal", hu: "Ura-völgy", ro: "Valea Ura", en: "Ura Valley"},
+    image: "/poi-images/ura-valley-relief-v2.webp",
     description: { de: "Das höchste der vier Bumthang-Täler, charakterisiert durch terrassierte Felder und dichte Nadelwälder.", hu: "A négy Bumthang-völgy legmagasabbika, amelyet teraszos mezők és sűrű tűlevelű erdők jellemeznek.", ro: "Cea mai înaltă dintre cele patru văi Bumthang, caracterizată prin câmpuri terasate și păduri dense de conifere.", en: "The highest of the four Bumthang valleys, characterized by terraced fields and dense coniferous forests." },
     facts: {
       de: ["Liegt auf etwa 3100 Metern Höhe.", "Bekannt für seine traditionellen Dorfstrukturen."],
@@ -183,9 +176,8 @@ image: "/poi-images/ura-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-33",
     coords: [90.8167, 27.6000],
-    name: { de: "Tang-Tal", hu: "Tang-völgy", ro: "Valea Tang", en: "Tang Valley",
-image: "/poi-images/tang-valley-relief-v2.webp"
-},
+    name: { de: "Tang-Tal", hu: "Tang-völgy", ro: "Valea Tang", en: "Tang Valley"},
+    image: "/poi-images/tang-valley-relief-v2.webp",
     description: { de: "Eines der entlegensten Bumthang-Täler, bekannt für den brennenden See und tiefe Schluchten entlang des Flusses.", hu: "A Bumthang-völgyek egyik legeldugottabbika, amely az Égő-tóról és a folyó menti mély szurdokokról ismert.", ro: "Una dintre cele mai izolate văi Bumthang, cunoscută pentru lacul arzând și defileele adânci de-a lungul râului.", en: "One of the most remote Bumthang valleys, known for the burning lake and deep gorges along the river." },
     facts: {
       de: ["Wurde vom Pema Lingpa erkundet.", "Ein wichtiges spirituelles Pilgerziel."],
@@ -208,9 +200,8 @@ image: "/poi-images/tang-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-33",
     coords: [90.7228, 27.5681],
-    name: { de: "Chokhor-Tal", hu: "Chokhor-völgy", ro: "Valea Chokhor", en: "Chokhor Valley",
-image: "/poi-images/chokhor-valley-relief-v2.webp"
-},
+    name: { de: "Chokhor-Tal", hu: "Chokhor-völgy", ro: "Valea Chokhor", en: "Chokhor Valley"},
+    image: "/poi-images/chokhor-valley-relief-v2.webp",
     description: { de: "Das größte und wichtigste der vier Bumthang-Täler, das weite Ebenen und zahlreiche Tempelanlagen umfasst.", hu: "A legnagyobb és legfontosabb a négy Bumthang-völgy közül, amely széles síkságokat és számos templomegyüttest foglal magába.", ro: "Cea mai mare și mai importantă dintre cele patru văi Bumthang, cuprinzând câmpii largi și numeroase temple.", en: "The largest and most important of the four Bumthang valleys, comprising wide plains and numerous temple complexes." },
     facts: {
       de: ["Zentrum der Käse- und Apfelsaftherstellung.", "Heimat des Jakar Dzong."],
@@ -234,9 +225,8 @@ image: "/poi-images/chokhor-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-33",
     coords: [90.6500, 27.5000],
-    name: { de: "Chumey-Tal", hu: "Chumey-völgy", ro: "Valea Chumey", en: "Chumey Valley",
-image: "/poi-images/chumey-valley-relief-v2.webp"
-},
+    name: { de: "Chumey-Tal", hu: "Chumey-völgy", ro: "Valea Chumey", en: "Chumey Valley"},
+    image: "/poi-images/chumey-valley-relief-v2.webp",
     description: { de: "Ein wunderschönes, tief eingeschnittenes Tal in Bumthang, das für seine exquisiten Yakhaar-Textilien berühmt ist.", hu: "Egy gyönyörű, mélyen bevágott völgy Bumthangban, amely kiváló jakgyapjú textíliáiról híres.", ro: "O vale frumoasă și adâncă în Bumthang, renumită pentru textilele sale rafinate din păr de iac.", en: "A beautiful, deeply incised valley in Bumthang, famous for its exquisite yak hair textiles." },
     facts: {
       de: ["Produziert die traditionelle Yathra-Wolle.", "Verbindet Trongsa mit Bumthang."],
@@ -260,9 +250,8 @@ image: "/poi-images/chumey-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-42",
     coords: [91.1736, 27.6628],
-    name: { de: "Lhuentse-Tal", hu: "Lhuentse-völgy", ro: "Valea Lhuentse", en: "Lhuentse Valley",
-image: "/poi-images/lhuentse-valley-relief-v2.webp"
-},
+    name: { de: "Lhuentse-Tal", hu: "Lhuentse-völgy", ro: "Valea Lhuentse", en: "Lhuentse Valley"},
+    image: "/poi-images/lhuentse-valley-relief-v2.webp",
     description: { de: "Ein abgelegenes Tal im Nordosten, eingebettet in raue Felsklippen, das als angestammte Heimat der bhutanischen Königsfamilie gilt.", hu: "Egy eldugott völgy északkeleten, zord sziklaszirtjei között, amely a bhutáni királyi család ősi otthonának számít.", ro: "O vale retrasă în nord-est, înconjurată de stânci abrupte, considerată casa ancestrală a familiei regale bhutaneze.", en: "A remote valley in the northeast, nestled amid rugged cliffs, considered the ancestral home of the Bhutanese royal family." },
     facts: {
       de: ["Berühmt für hochkomplexe Webarbeiten (Kishuthara).", "Eines der isoliertesten Täler Bhutans."],
@@ -285,9 +274,8 @@ image: "/poi-images/lhuentse-valley-relief-v2.webp"
     type: "valley",
     parent: "BT-41",
     coords: [91.5542, 27.3325],
-    name: { de: "Trashigang-Tal", hu: "Trashigang-völgy", ro: "Valea Trashigang", en: "Trashigang Valley",
-image: "/poi-images/trashigang-valley-relief-v2.webp"
-},
+    name: { de: "Trashigang-Tal", hu: "Trashigang-völgy", ro: "Valea Trashigang", en: "Trashigang Valley"},
+    image: "/poi-images/trashigang-valley-relief-v2.webp",
     description: { de: "Das östlichste und dichtestbesiedelte Tal, das durch steile Schluchten und terrassierte Reisfelder geprägt ist.", hu: "A legkeletibb és legsűrűbben lakott völgy, amelyet meredek szurdokok és teraszos rizsföldek jellemeznek.", ro: "Cea mai estică și mai dens populată vale, caracterizată prin defilee abrupte și câmpuri de orez terasate.", en: "The easternmost and most densely populated valley, characterized by steep gorges and terraced rice fields." },
     facts: {
       de: ["Wichtiger Handelsknotenpunkt.", "Wird vom Drangme Chhu durchschnitten."],
@@ -310,9 +298,8 @@ image: "/poi-images/trashigang-valley-relief-v2.webp"
     type: "mountain",
     parent: "BT-32",
     coords: [90.2500, 27.2500],
-    name: { de: "Schwarze Berge", hu: "Fekete-hegység", ro: "Munții Negri", en: "Black Mountains",
-image: "/poi-images/black-mountains-bhutan-relief-v2.webp"
-},
+    name: { de: "Schwarze Berge", hu: "Fekete-hegység", ro: "Munții Negri", en: "Black Mountains"},
+    image: "/poi-images/black-mountains-bhutan-relief-v2.webp",
     description: { de: "Eine mächtige Gebirgskette, die Bhutan physisch und kulturell in eine westliche und eine östliche Region unterteilt.", hu: "Egy hatalmas hegylánc, amely fizikailag és kulturálisan is nyugati és keleti régióra osztja Bhutánt.", ro: "Un lanț muntos masiv care împarte Bhutanul, fizic și cultural, într-o regiune vestică și una estică.", en: "A massive mountain range that physically and culturally divides Bhutan into a western and an eastern region." },
     facts: {
       de: ["Trennt die Täler von Mangde Chhu und Sankosh.", "Höchste Gipfel erreichen fast 5000 Meter."],
@@ -335,9 +322,8 @@ image: "/poi-images/black-mountains-bhutan-relief-v2.webp"
     type: "mountain",
     parent: "BT-14",
     coords: [89.7891, 28.1583],
-    name: { de: "Masang Kang", hu: "Masang Kang", ro: "Masang Kang", en: "Masang Kang",
-image: "/poi-images/masang-kang-relief-v2.webp"
-},
+    name: { de: "Masang Kang", hu: "Masang Kang", ro: "Masang Kang", en: "Masang Kang"},
+    image: "/poi-images/masang-kang-relief-v2.webp",
     description: { de: "Ein markanter, schneebedeckter Berg im Jigme-Dorji-Nationalpark, der von den lokalen Tälern aus als Beschützer verehrt wird.", hu: "Egy jellegzetes, hófödte hegy a Jigme Dorji Nemzeti Parkban, amelyet a helyi völgyekben védelmezőként tisztelnek.", ro: "Un munte proeminent, acoperit de zăpadă, în Parcul Național Jigme Dorji, venerat ca un protector de văile locale.", en: "A prominent, snow-capped mountain in Jigme Dorji National Park, revered as a protector from the local valleys." },
     facts: {
       de: ["Erreicht eine Höhe von 7194 Metern.", "Wurde erstmals 1985 bestiegen."],
@@ -360,9 +346,8 @@ image: "/poi-images/masang-kang-relief-v2.webp"
     type: "mountain",
     parent: "BT-14",
     coords: [90.0603, 28.1539],
-    name: { de: "Kangphu Kang", hu: "Kangphu Kang", ro: "Kangphu Kang", en: "Kangphu Kang",
-image: "/poi-images/kangphu-kang-relief-v2.webp"
-},
+    name: { de: "Kangphu Kang", hu: "Kangphu Kang", ro: "Kangphu Kang", en: "Kangphu Kang"},
+    image: "/poi-images/kangphu-kang-relief-v2.webp",
     description: { de: "Ein mächtiger Himalayagipfel an der Grenze zu Tibet, der für seine massive Eiskappe und seine unzugängliche Lage bekannt ist.", hu: "Egy hatalmas Himalája-csúcs a tibeti határon, amely hatalmas jégsapkájáról és megközelíthetetlen fekvéséről ismert.", ro: "Un vârf masiv din Himalaya, la granița cu Tibetul, cunoscut pentru calota sa uriașă de gheață și locația inaccesibilă.", en: "A massive Himalayan peak on the border with Tibet, known for its massive ice cap and inaccessible location." },
     facts: {
       de: ["Ist 7204 Meter hoch.", "Erstmals von einer südkoreanischen Expedition bestiegen."],
@@ -385,9 +370,8 @@ image: "/poi-images/kangphu-kang-relief-v2.webp"
     type: "mountain",
     parent: "BT-14",
     coords: [89.9833, 28.1667],
-    name: { de: "Teri Kang", hu: "Teri Kang", ro: "Teri Kang", en: "Teri Kang",
-image: "/poi-images/teri-kang-relief-v2.webp"
-},
+    name: { de: "Teri Kang", hu: "Teri Kang", ro: "Teri Kang", en: "Teri Kang"},
+    image: "/poi-images/teri-kang-relief-v2.webp",
     description: { de: "Ein weiterer siebentausender Gipfel in der nördlichen Gebirgskette, der tief in den rauen Gletschertälern verborgen liegt.", hu: "Egy újabb hétezres csúcs az északi hegyláncban, amely mélyen elrejtve fekszik a zord gleccservölgyekben.", ro: "Un alt vârf de peste șapte mii de metri în lanțul muntos nordic, ascuns adânc în văile glaciare aspre.", en: "Another seven-thousander peak in the northern mountain range, hidden deep within the rugged glacial valleys." },
     facts: {
       de: ["Höhe beträgt 7125 Meter.", "Gehört zum Jigme-Dorji-Nationalpark."],
@@ -410,9 +394,8 @@ image: "/poi-images/teri-kang-relief-v2.webp"
     type: "mountain",
     parent: "BT-14",
     coords: [90.1000, 28.1833],
-    name: { de: "Zongphu Kang", hu: "Zongphu Kang", ro: "Zongphu Kang", en: "Zongphu Kang",
-image: "/poi-images/zongphu-kang-relief-v2.webp"
-},
+    name: { de: "Zongphu Kang", hu: "Zongphu Kang", ro: "Zongphu Kang", en: "Zongphu Kang"},
+    image: "/poi-images/zongphu-kang-relief-v2.webp",
     description: { de: "Auch als Tafelberg bekannt, ist dieser massige Berg für seine flache Gipfelstruktur in den schroffen Hochgebirgen auffällig.", hu: "Táblahegyként is ismert, ez a masszív hegy feltűnő a sík csúcsszerkezetével a zord magashegységekben.", ro: "Cunoscut și sub numele de Muntele Masă, acest munte masiv este remarcabil pentru structura sa plată a vârfului.", en: "Also known as Table Mountain, this massive mountain is conspicuous for its flat summit structure in the rugged high mountains." },
     facts: {
       de: ["Ist 7044 Meter hoch.", "Noch immer unbestiegen."],
@@ -435,9 +418,8 @@ image: "/poi-images/zongphu-kang-relief-v2.webp"
     type: "mountain",
     parent: "BT-14",
     coords: [89.9619, 28.1969],
-    name: { de: "Tongshanjiabu", hu: "Tongshanjiabu", ro: "Tongshanjiabu", en: "Tongshanjiabu",
-image: "/poi-images/tongshanjiabu-relief-v2.webp"
-},
+    name: { de: "Tongshanjiabu", hu: "Tongshanjiabu", ro: "Tongshanjiabu", en: "Tongshanjiabu"},
+    image: "/poi-images/tongshanjiabu-relief-v2.webp",
     description: { de: "Ein mächtiger Grenzgipfel zwischen Bhutan und China, dessen Hänge von gefährlichen Gletscherspalten und Eisfeldern geprägt sind.", hu: "Egy hatalmas határhegy Bhután és Kína között, amelynek lejtőit veszélyes gleccserhasadékok és jégmezők jellemeznek.", ro: "Un vârf de graniță masiv între Bhutan și China, ale cărui pante sunt caracterizate de crevase glaciare periculoase și câmpuri de gheață.", en: "A massive border peak between Bhutan and China, whose slopes are characterized by dangerous crevasses and ice fields." },
     facts: {
       de: ["Einer der höchsten unbestiegenen Berge der Erde.", "Erreicht 7207 Meter."],
@@ -460,9 +442,8 @@ image: "/poi-images/tongshanjiabu-relief-v2.webp"
     type: "mountain",
     parent: "BT-14",
     coords: [89.7042, 27.9703],
-    name: { de: "Tsenda Kang", hu: "Tsenda Kang", ro: "Tsenda Kang", en: "Tsenda Kang",
-image: "/poi-images/tsenda-kang-relief-v2.webp"
-},
+    name: { de: "Tsenda Kang", hu: "Tsenda Kang", ro: "Tsenda Kang", en: "Tsenda Kang"},
+    image: "/poi-images/tsenda-kang-relief-v2.webp",
     description: { de: "Eine beeindruckende Eispyramide in der Gebirgsgruppe um den Gangkhar Puensum, umgeben von unberührter Wildnis.", hu: "Egy lenyűgöző jégpiramis a Gangkhar Puensum körüli hegycsoportban, érintetlen vadonnal körülvéve.", ro: "O piramidă impresionantă de gheață în grupul montan din jurul lui Gangkhar Puensum, înconjurată de sălbăticie neatinsă.", en: "An impressive ice pyramid in the mountain group around Gangkhar Puensum, surrounded by untouched wilderness." },
     facts: {
       de: ["Besitzt eine Höhe von fast 7000 Metern.", "Wurde historisch erst spät kartografiert."],
@@ -485,9 +466,8 @@ image: "/poi-images/tsenda-kang-relief-v2.webp"
     type: "valley",
     parent: "BT-34",
     coords: [90.6581, 27.2169],
-    name: { de: "Zhemgang-Tal", hu: "Zhemgang-völgy", ro: "Valea Zhemgang", en: "Zhemgang Valley",
-image: "/poi-images/zhemgang-valley-relief-v2.webp"
-},
+    name: { de: "Zhemgang-Tal", hu: "Zhemgang-völgy", ro: "Valea Zhemgang", en: "Zhemgang Valley"},
+    image: "/poi-images/zhemgang-valley-relief-v2.webp",
     description: { de: "Ein tief eingeschnittenes tropisches bis subtropisches Tal im zentral-südlichen Bhutan, bekannt für seine Artenvielfalt und dichten Dschungel.", hu: "Egy mélyen bevágott trópusi és szubtrópusi völgy Bhután középső-déli részén, amely biodiverzitásáról és sűrű dzsungeleiről ismert.", ro: "O vale adâncă tropicală și subtropicală în centrul-sudul Bhutanului, cunoscută pentru biodiversitatea sa și jungla densă.", en: "A deeply incised tropical to subtropical valley in south-central Bhutan, known for its biodiversity and dense jungles." },
     facts: {
       de: ["Heimat der indigenen Khengpa-Bevölkerung.", "Teil des Royal-Manas-Nationalparks."],

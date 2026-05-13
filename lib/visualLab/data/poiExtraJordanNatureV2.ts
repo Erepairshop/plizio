@@ -6,302 +6,539 @@ export const poiExtraJordanNatureV2: POI[] = [
     type: "national-park",
     parent: "JO-AQ",
     coords: [35.4208, 29.5758],
-    name: { de: "Wadi Rum", hu: "Vádi Rum", ro: "Wadi Rum", en: "Wadi Rum",
-image: "/poi-images/wadi-rum-nature-v2.webp"
-},
+    name: { de: "Wadi Rum", hu: "Vádi Rum", ro: "Wadi Rum", en: "Wadi Rum"},
+    image: "/poi-images/wadi-rum-nature-v2.webp",
     description: { de: "Dieses spektakuläre Wüstental ist berühmt für seine monolithischen Felsformationen und roten Sanddünen.", hu: "Ez a látványos sivatagi völgy híres monolitikus sziklaalakzatairól és vörös homokdűnéiről.", ro: "Această vale deșertică spectaculoasă este faimoasă pentru formațiunile sale stâncoase monolitice și dunele de nisip roșu.", en: "This spectacular desert valley is famous for its monolithic rock formations and red sand dunes." },
     facts: {
       de: ["Umfasst eine Fläche von rund 720 Quadratkilometern.", "Wurde 2011 zum UNESCO-Welterbe erklärt."],
       hu: ["Mintegy 720 négyzetkilométeres területet ölel fel.", "2011-ben az UNESCO Világörökség részévé nyilvánították."],
       ro: ["Acoperă o suprafață de aproximativ 720 de kilometri pătrați.", "A fost declarat Patrimoniu Mondial UNESCO în 2011."],
       en: ["Covers an area of around 720 square kilometers.", "Was declared a UNESCO World Heritage Site in 2011."]
-    }, image: "/poi-images/wadi-rum-nature-v2.webp"},
+    }, image: "/poi-images/wadi-rum-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Rum, auch Tal des Mondes genannt, ist eine beeindruckende Wüstenlandschaft im Süden Jordaniens. Sie erstreckt sich über 720 Quadratkilometer und besteht aus Sandsteinfelsen, Canyons und weiten Sandflächen. Die Region war Schauplatz des Films „Lawrence von Arabien“. Beduinen bieten Kameltrekking und Übernachtungen in traditionellen Zelten an. Wadi Rum ist ein UNESCO-Weltkulturerbe. Die Felsformationen sind bis zu 1.800 Meter hoch. Nachts ist der Sternenhimmel spektakulär.",
+      hu: "Wadi Rum, más néven a Hold völgye, lenyűgöző sivatagi táj Jordánia déli részén. Területe 720 négyzetkilométer, homokkő sziklák, kanyonok és homoksíkságok jellemzik. A régió az „Arabia Lawrence” című film helyszíne volt. A beduinok tevegelést és sátorozást kínálnak. Wadi Rum az UNESCO Világörökség része. A sziklaformációk elérik az 1800 méteres magasságot. Éjszaka a csillagos égbolt lenyűgöző.",
+      ro: "Wadi Rum, cunoscută și ca Valea Lunii, este un peisaj deșertic impresionant în sudul Iordaniei. Se întinde pe 720 de kilometri pătrați, cu stânci de gresie, canioane și întinderi nisipoase. Regiunea a fost decorul filmului „Lawrence of Arabia”. Beduinii oferă plimbări cu cămila și cazare în corturi tradiționale. Wadi Rum este patrimoniu mondial UNESCO. Formațiunile stâncoase ating până la 1.800 de metri înălțime. Noaptea, cerul înstelat este spectaculos.",
+      en: "Wadi Rum, also known as the Valley of the Moon, is a stunning desert landscape in southern Jordan. It spans 720 square kilometers, featuring sandstone cliffs, canyons, and vast sand expanses. The region was the setting for the film 'Lawrence of Arabia'. Bedouins offer camel treks and overnight stays in traditional tents. Wadi Rum is a UNESCO World Heritage site. Rock formations reach up to 1,800 meters. The night sky is spectacular for stargazing.",
+    },
+    factsAdvanced: {
+      de: ["Die Fläche beträgt 720 Quadratkilometer.", "Die höchste Erhebung ist der Jabal Umm ad-Dami mit 1.854 Metern.", "Wadi Rum wurde 1998 zum UNESCO-Welterbe erklärt.", "Die Region empfängt jährlich über 100.000 Touristen.", "Es gibt mehr als 2.000 Felszeichnungen aus prähistorischer Zeit.", "Die durchschnittliche Sommertemperatur beträgt 38 °C."],
+      hu: ["Területe 720 négyzetkilométer.", "A legmagasabb pont a Jabal Umm ad-Dami (1854 m).", "Wadi Rum 1998-ban lett UNESCO világörökség.", "Évente több mint 100.000 turista látogatja.", "Több mint 2000 őskori sziklarajz található.", "A nyári átlaghőmérséklet 38 °C."],
+      ro: ["Suprafața este de 720 de kilometri pătrați.", "Cel mai înalt punct este Jabal Umm ad-Dami cu 1.854 de metri.", "Wadi Rum a fost declarat patrimoniu UNESCO în 1998.", "Regiunea primește peste 100.000 de turiști anual.", "Există peste 2.000 de petroglife preistorice.", "Temperatura medie de vară este de 38 °C."],
+      en: ["Area is 720 square kilometers.", "Highest point is Jabal Umm ad-Dami at 1,854 meters.", "Wadi Rum was declared a UNESCO World Heritage site in 1998.", "The region receives over 100,000 tourists annually.", "There are more than 2,000 prehistoric rock carvings.", "Average summer temperature is 38 °C."],
+    },
+  },
   {
     id: "totes-meer-nature-v2",
     type: "lake",
     parent: "JO-MD",
     coords: [35.4500, 31.5000],
-    name: { de: "Totes Meer", hu: "Holt-tenger", ro: "Marea Moartă", en: "Dead Sea",
-image: "/poi-images/totes-meer-nature-v2.webp"
-},
+    name: { de: "Totes Meer", hu: "Holt-tenger", ro: "Marea Moartă", en: "Dead Sea"},
+    image: "/poi-images/totes-meer-nature-v2.webp",
     description: { de: "Dieser abflusslose Salzsee liegt über 400 Meter unter dem Meeresspiegel und ist der tiefste trockene Punkt der Erde.", hu: "Ez a lefolyástalan sóstó több mint 400 méterrel a tengerszint alatt fekszik, és a Föld legmélyebb szárazföldi pontja.", ro: "Acest lac sărat endoreic se află la peste 400 de metri sub nivelul mării, fiind cel mai jos punct uscat de pe Pământ.", en: "This endorheic salt lake lies over 400 meters below sea level, making it the lowest dry point on Earth." },
     facts: {
       de: ["Der Salzgehalt liegt bei fast 34 Prozent.", "Das Wasser hat eine extrem hohe Dichte."],
       hu: ["Sótartalma eléri a majdnem 34 százalékot.", "A víz rendkívül nagy sűrűséggel rendelkezik."],
       ro: ["Conținutul de sare este de aproape 34 la sută.", "Apa are o densitate extrem de mare."],
       en: ["The salt content is almost 34 percent.", "The water has an extremely high density."]
-    }, image: "/poi-images/totes-meer-nature-v2.webp"},
+    }, image: "/poi-images/totes-meer-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tote Meer ist ein abflussloser Salzsee zwischen Jordanien und Israel. Es liegt 430 Meter unter dem Meeresspiegel und ist der tiefste Punkt der Erdoberfläche. Der Salzgehalt beträgt etwa 34%, was das Schwimmen extrem leicht macht. Das Tote Meer ist bekannt für seine mineralreichen Schlämme, die für Heilzwecke genutzt werden. Die Region ist ein wichtiges Touristenziel mit vielen Resorts. Der Wasserstand sinkt jährlich um etwa einen Meter. Das Tote Meer ist einzigartig in seiner Artenarmut an höheren Lebensformen.",
+      hu: "A Holt-tenger lefolyástalan sós tó Jordánia és Izrael határán. 430 méterrel a tengerszint alatt fekszik, a Föld legmélyebb pontja. Sótartalma kb. 34%, ami rendkívül könnyűvé teszi az úszást. A Holt-tenger ásványi anyagokban gazdag iszapjáról ismert, amelyet gyógyászati célokra használnak. A régió fontos turisztikai célpont számos üdülőhellyel. A vízszint évente kb. egy métert csökken. A Holt-tenger egyedülálló a magasabb rendű életformák szegénységében.",
+      ro: "Marea Moartă este un lac sărat endoreic situat între Iordania și Israel. Se află la 430 de metri sub nivelul mării, fiind cel mai jos punct de pe suprafața Pământului. Salinitatea este de aproximativ 34%, ceea ce face înotul extrem de ușor. Marea Moartă este renumită pentru nămolul său bogat în minerale, folosit în scopuri terapeutice. Regiunea este o destinație turistică importantă, cu numeroase stațiuni. Nivelul apei scade cu aproximativ un metru pe an. Marea Moartă este unică prin lipsa formelor de viață superioare.",
+      en: "The Dead Sea is a salt lake bordered by Jordan and Israel. It lies 430 meters below sea level, the lowest point on Earth. Salinity is about 34%, making swimming extremely buoyant. The Dead Sea is renowned for its mineral-rich mud, used for therapeutic purposes. The region is a major tourist destination with many resorts. The water level drops about one meter per year. It is unique for its lack of higher life forms.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 430 Meter unter dem Meeresspiegel.", "Salzgehalt: 34%.", "Länge: 50 Kilometer.", "Breite: 15 Kilometer.", "Wasserstand sinkt jährlich um 1 Meter.", "Die Wassertemperatur beträgt im Sommer 32 °C."],
+      hu: ["Magasság: 430 méterrel a tengerszint alatt.", "Sótartalom: 34%.", "Hosszúság: 50 kilométer.", "Szélesség: 15 kilométer.", "Vízszint évente 1 métert csökken.", "A víz hőmérséklete nyáron 32 °C."],
+      ro: ["Altitudine: 430 de metri sub nivelul mării.", "Salinitate: 34%.", "Lungime: 50 de kilometri.", "Lățime: 15 kilometri.", "Nivelul apei scade cu 1 metru pe an.", "Temperatura apei vara este de 32 °C."],
+      en: ["Elevation: 430 meters below sea level.", "Salinity: 34%.", "Length: 50 kilometers.", "Width: 15 kilometers.", "Water level drops 1 meter per year.", "Summer water temperature is 32 °C."],
+    },
+  },
   {
     id: "dana-biosphere-nature-v2",
     type: "national-park",
     parent: "JO-AT",
     coords: [35.6166, 30.6833],
-    name: { de: "Biosphärenreservat Dana", hu: "Dana Bioszféra-rezervátum", ro: "Rezervația Biosferei Dana", en: "Dana Biosphere Reserve",
-image: "/poi-images/dana-biosphere-nature-v2.webp"
-},
+    name: { de: "Biosphärenreservat Dana", hu: "Dana Bioszféra-rezervátum", ro: "Rezervația Biosferei Dana", en: "Dana Biosphere Reserve"},
+    image: "/poi-images/dana-biosphere-nature-v2.webp",
     description: { de: "Das größte Naturschutzgebiet Jordaniens umfasst vier verschiedene biogeografische Zonen und eine enorme Artenvielfalt.", hu: "Jordánia legnagyobb természetvédelmi területe négy különböző biogeográfiai zónát és hatalmas fajgazdagságot foglal magába.", ro: "Cea mai mare rezervație naturală din Iordania cuprinde patru zone biogeografice diferite și o biodiversitate enormă.", en: "Jordan's largest nature reserve encompasses four distinct biogeographical zones and enormous biodiversity." },
     facts: {
       de: ["Wurde 1989 gegründet.", "Beherbergt über 800 Pflanzenarten."],
       hu: ["1989-ben alapították.", "Több mint 800 növényfajnak ad otthont."],
       ro: ["A fost fondată în 1989.", "Găzduiește peste 800 de specii de plante."],
       en: ["Was established in 1989.", "Is home to over 800 plant species."]
-    }, image: "/poi-images/dana-biosphere-nature-v2.webp"},
+    }, image: "/poi-images/dana-biosphere-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dana-Biosphärenreservat liegt im zentralen Jordanien und erstreckt sich über 320 Quadratkilometer. Es umfasst eine vielfältige Landschaft von mediterranen Wäldern bis hin zu Wüsten. Das Reservat beherbergt über 600 Pflanzenarten, 200 Vogelarten und 40 Säugetierarten. Das gleichnamige Dorf Dana ist ein traditionelles Steindorf. Das Reservat bietet Wanderwege und Öko-Lodges. Es wurde 1993 gegründet und ist Teil des UNESCO-Menschen-und-Biosphäre-Programms. Der höchste Punkt liegt bei 1.500 Metern.",
+      hu: "A Dana Bioszféra Rezervátum Közép-Jordániában található, területe 320 négyzetkilométer. Változatos tájai mediterrán erdőktől sivatagig terjednek. Több mint 600 növényfaj, 200 madárfaj és 40 emlősfaj él itt. Dana falu hagyományos kőfalu. A rezervátum túraútvonalakat és öko-szállásokat kínál. 1993-ban hozták létre, és az UNESCO Ember és Bioszféra program része. A legmagasabb pont 1500 méter.",
+      ro: "Rezervația Biosferei Dana este situată în centrul Iordaniei și se întinde pe 320 de kilometri pătrați. Cuprinde peisaje variate, de la păduri mediteraneene până la deșert. Rezervația găzduiește peste 600 de specii de plante, 200 de specii de păsări și 40 de specii de mamifere. Satul Dana este un sat tradițional din piatră. Rezervația oferă trasee de drumeție și eco-cazări. A fost înființată în 1993 și face parte din programul UNESCO Omul și Biosfera. Cel mai înalt punct este la 1.500 de metri.",
+      en: "Dana Biosphere Reserve is located in central Jordan, covering 320 square kilometers. It encompasses diverse landscapes from Mediterranean forests to desert. The reserve hosts over 600 plant species, 200 bird species, and 40 mammal species. The village of Dana is a traditional stone village. The reserve offers hiking trails and eco-lodges. It was established in 1993 and is part of UNESCO's Man and Biosphere Programme. The highest point is at 1,500 meters.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 320 Quadratkilometer.", "Gegründet: 1993.", "Pflanzenarten: über 600.", "Vogelarten: 200.", "Säugetierarten: 40.", "Höchster Punkt: 1.500 Meter über dem Meeresspiegel."],
+      hu: ["Terület: 320 négyzetkilométer.", "Alapítva: 1993.", "Növényfajok: több mint 600.", "Madárfajok: 200.", "Emlősfajok: 40.", "Legmagasabb pont: 1500 méter tengerszint felett."],
+      ro: ["Suprafață: 320 de kilometri pătrați.", "Fondată: 1993.", "Specii de plante: peste 600.", "Specii de păsări: 200.", "Specii de mamifere: 40.", "Cel mai înalt punct: 1.500 de metri deasupra nivelului mării."],
+      en: ["Area: 320 square kilometers.", "Established: 1993.", "Plant species: over 600.", "Bird species: 200.", "Mammal species: 40.", "Highest point: 1,500 meters above sea level."],
+    },
+  },
   {
     id: "mujib-reserve-nature-v2",
     type: "national-park",
     parent: "JO-MD",
     coords: [35.6166, 31.4666],
-    name: { de: "Mujib Biosphärenreservat", hu: "Múdzsib Bioszféra-rezervátum", ro: "Rezervația Biosferei Mujib", en: "Mujib Biosphere Reserve",
-image: "/poi-images/mujib-reserve-nature-v2.webp"
-},
+    name: { de: "Mujib Biosphärenreservat", hu: "Múdzsib Bioszféra-rezervátum", ro: "Rezervația Biosferei Mujib", en: "Mujib Biosphere Reserve"},
+    image: "/poi-images/mujib-reserve-nature-v2.webp",
     description: { de: "Das am tiefsten gelegene Naturschutzgebiet der Erde besticht durch spektakuläre Schluchten und versteckte Wasserfälle.", hu: "A Föld legmélyebben fekvő természetvédelmi területe lenyűgöző szurdokaival és rejtett vízeséseivel hódít.", ro: "Cea mai joasă rezervație naturală de pe Pământ impresionează prin defileurile sale spectaculoase și cascadele ascunse.", en: "The lowest nature reserve on Earth captivates with its spectacular gorges and hidden waterfalls." },
     facts: {
       de: ["Liegt bis zu 410 Meter unter dem Meeresspiegel.", "Grenzt direkt an das Tote Meer."],
       hu: ["Akár 410 méterrel a tengerszint alatt fekszik.", "Közvetlenül a Holt-tengerrel határos."],
       ro: ["Se află la până la 410 metri sub nivelul mării.", "Se învecinează direct cu Marea Moartă."],
       en: ["Lies up to 410 meters below sea level.", "Borders directly on the Dead Sea."]
-    }, image: "/poi-images/mujib-reserve-nature-v2.webp"},
+    }, image: "/poi-images/mujib-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mujib-Biosphärenreservat liegt entlang des Toten Meeres und ist das tiefstgelegene Naturschutzgebiet der Welt. Es erstreckt sich über 212 Quadratkilometer und umfasst spektakuläre Canyons, Wasserfälle und eine reiche Biodiversität. Der Fluss Mujib fließt durch das Reservat. Es beherbergt seltene Arten wie den Nubischen Steinbock und den Syrischen Serin. Das Reservat ist bei Wanderern und Abenteuerliebhabern beliebt. Es wurde 1987 gegründet und ist Teil des UNESCO-Biosphärenreservats. Der Höhenunterschied reicht von 420 Metern unter dem Meeresspiegel bis 800 Meter über dem Meeresspiegel.",
+      hu: "A Mujib Bioszféra Rezervátum a Holt-tenger mentén húzódik, és a világ legalacsonyabb természetvédelmi területe. Területe 212 négyzetkilométer, lenyűgöző kanyonokkal, vízesésekkel és gazdag biodiverzitással. A Mujib folyó áthalad a rezervátumon. Ritka fajok élnek itt, mint a núbiai kőszáli kecske és a szíriai csicsörke. A rezervátum népszerű a túrázók és kalandvágyók körében. 1987-ben alapították, és az UNESCO bioszféra-rezervátum része. A magasságkülönbség 420 méterrel a tengerszint alatt és 800 méter felett van.",
+      ro: "Rezervația Biosferei Mujib se află de-a lungul Mării Moarte și este cea mai joasă rezervație naturală din lume. Se întinde pe 212 kilometri pătrați, cu canioane spectaculoase, cascade și o biodiversitate bogată. Râul Mujib străbate rezervația. Adăpostește specii rare precum ibexul nubian și serinul sirian. Rezervația este populară pentru drumeții și aventură. A fost înființată în 1987 și face parte din Rezervația Biosferei UNESCO. Altitudinea variază de la 420 de metri sub nivelul mării până la 800 de metri deasupra.",
+      en: "Mujib Biosphere Reserve is located along the Dead Sea and is the lowest nature reserve in the world. It covers 212 square kilometers, featuring spectacular canyons, waterfalls, and rich biodiversity. The Mujib River flows through the reserve. It hosts rare species such as the Nubian ibex and Syrian serin. The reserve is popular for hiking and adventure. It was established in 1987 and is part of the UNESCO Biosphere Reserve. Elevation ranges from 420 meters below sea level to 800 meters above.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 212 Quadratkilometer.", "Gegründet: 1987.", "Tiefster Punkt: 420 Meter unter dem Meeresspiegel.", "Höchster Punkt: 800 Meter über dem Meeresspiegel.", "Der Mujib-Fluss ist 70 Kilometer lang.", "Es gibt über 300 Pflanzenarten."],
+      hu: ["Terület: 212 négyzetkilométer.", "Alapítva: 1987.", "Legalacsonyabb pont: 420 méterrel a tengerszint alatt.", "Legmagasabb pont: 800 méter tengerszint felett.", "A Mujib-folyó hossza 70 kilométer.", "Több mint 300 növényfaj található."],
+      ro: ["Suprafață: 212 kilometri pătrați.", "Fondată: 1987.", "Cel mai jos punct: 420 de metri sub nivelul mării.", "Cel mai înalt punct: 800 de metri deasupra nivelului mării.", "Râul Mujib are o lungime de 70 de kilometri.", "Există peste 300 de specii de plante."],
+      en: ["Area: 212 square kilometers.", "Established: 1987.", "Lowest point: 420 meters below sea level.", "Highest point: 800 meters above sea level.", "The Mujib River is 70 kilometers long.", "There are over 300 plant species."],
+    },
+  },
   {
     id: "azraq-wetland-nature-v2",
     type: "national-park",
     parent: "JO-AZ",
     coords: [36.8333, 31.8333],
-    name: { de: "Azraq-Feuchtgebiet", hu: "Azrak Vizesélőhely", ro: "Zona Umedă Azraq", en: "Azraq Wetland Reserve",
-image: "/poi-images/azraq-wetland-nature-v2.webp"
-},
+    name: { de: "Azraq-Feuchtgebiet", hu: "Azrak Vizesélőhely", ro: "Zona Umedă Azraq", en: "Azraq Wetland Reserve"},
+    image: "/poi-images/azraq-wetland-nature-v2.webp",
     description: { de: "Diese Wüstenoase war einst ein riesiges Sumpfgebiet und ist heute ein wichtiger Rastplatz für Millionen von Zugvögeln.", hu: "Ez a sivatagi oázis egykor hatalmas mocsárvidék volt, ma pedig vándormadarak millióinak fontos pihenőhelye.", ro: "Această oază deșertică a fost odată o mlaștină vastă, iar astăzi este un loc de popas important pentru milioane de păsări migratoare.", en: "This desert oasis was once a vast marshland and is today an important resting place for millions of migratory birds." },
     facts: {
       de: ["Wurde 1978 unter internationalen Schutz gestellt.", "Besitzt künstlich gepflegte Teiche für Vögel."],
       hu: ["1978-ban nemzetközi védelem alá helyezték.", "Mesterségesen fenntartott tavakkal rendelkezik a madarak számára."],
       ro: ["A fost plasată sub protecție internațională în 1978.", "Are iazuri întreținute artificial pentru păsări."],
       en: ["Was placed under international protection in 1978.", "Has artificially maintained ponds for birds."]
-    }, image: "/poi-images/azraq-wetland-nature-v2.webp"},
+    }, image: "/poi-images/azraq-wetland-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Azraq-Feuchtgebiet ist ein wichtiges Feuchtgebiet in der jordanischen Wüste. Es liegt in der Oase Azraq und dient als Rastplatz für Zugvögel auf der Route zwischen Europa und Afrika. Die Fläche betrug einst 12 Quadratkilometer, ist aber durch Wasserextraktion geschrumpft. Es gibt noch etwa 2 Quadratkilometer Feuchtgebiet. Das Reservat beherbergt über 350 Vogelarten. Es wurde 1978 gegründet. Es gibt Beobachtungstürme und Wege für Besucher. Das Feuchtgebiet ist ein wichtiger Lebensraum für bedrohte Arten.",
+      hu: "Az Azraq-vizes élőhely fontos vizes terület a jordán sivatagban. Az Azraq-oázisban fekszik, és pihenőhely a vándormadaraknak Európa és Afrika között. Eredeti területe 12 négyzetkilométer volt, de a vízkivétel miatt összezsugorodott. Ma kb. 2 négyzetkilométer. Több mint 350 madárfaj él itt. 1978-ban hozták létre. Megfigyelőtornyok és ösvények várják a látogatókat. Fontos élőhely a veszélyeztetett fajok számára.",
+      ro: "Zona umedă Azraq este o zonă umedă importantă în deșertul iordanian. Este situată în oaza Azraq și servește ca loc de odihnă pentru păsările migratoare între Europa și Africa. Suprafața inițială era de 12 kilometri pătrați, dar s-a redus din cauza extracției de apă. Acum rămân aproximativ 2 kilometri pătrați. Rezervația găzduiește peste 350 de specii de păsări. A fost înființată în 1978. Există turnuri de observație și poteci pentru vizitatori. Zona umedă este un habitat crucial pentru specii amenințate.",
+      en: "Azraq Wetland is a vital wetland in the Jordanian desert. Located in the Azraq oasis, it serves as a stopover for migratory birds between Europe and Africa. Its original area was 12 square kilometers but has shrunk due to water extraction; now about 2 square kilometers remain. The reserve hosts over 350 bird species. It was established in 1978. There are observation towers and trails for visitors. The wetland is a crucial habitat for threatened species.",
+    },
+    factsAdvanced: {
+      de: ["Ursprüngliche Fläche: 12 Quadratkilometer.", "Aktuelle Fläche: 2 Quadratkilometer.", "Gegründet: 1978.", "Vogelarten: über 350.", "Die Wassertiefe beträgt maximal 1,5 Meter.", "Jährlich rasten hier über 500.000 Zugvögel."],
+      hu: ["Eredeti terület: 12 négyzetkilométer.", "Jelenlegi terület: 2 négyzetkilométer.", "Alapítva: 1978.", "Madárfajok: több mint 350.", "A vízmélység maximum 1,5 méter.", "Évente több mint 500.000 vándormadár pihen itt."],
+      ro: ["Suprafața inițială: 12 kilometri pătrați.", "Suprafața actuală: 2 kilometri pătrați.", "Fondată: 1978.", "Specii de păsări: peste 350.", "Adâncimea apei: maximum 1,5 metri.", "Peste 500.000 de păsări migratoare se opresc anual."],
+      en: ["Original area: 12 square kilometers.", "Current area: 2 square kilometers.", "Established: 1978.", "Bird species: over 350.", "Water depth: maximum 1.5 meters.", "Over 500,000 migratory birds stop annually."],
+    },
+  },
   {
     id: "shaumari-wildlife-nature-v2",
     type: "national-park",
     parent: "JO-AZ",
     coords: [36.8000, 31.7833],
-    name: { de: "Shaumari-Wildtierreservat", hu: "Saumari Vadrezervátum", ro: "Rezervația de Animale Sălbatice Shaumari", en: "Shaumari Wildlife Reserve",
-image: "/poi-images/shaumari-wildlife-nature-v2.webp"
-},
+    name: { de: "Shaumari-Wildtierreservat", hu: "Saumari Vadrezervátum", ro: "Rezervația de Animale Sălbatice Shaumari", en: "Shaumari Wildlife Reserve"},
+    image: "/poi-images/shaumari-wildlife-nature-v2.webp",
     description: { de: "Ein kleines Reservat, das zur Zucht und Auswilderung seltener Wüstentiere wie der Arabischen Oryx-Antilope gegründet wurde.", hu: "Egy kis rezervátum, amelyet ritka sivatagi állatok, például az arab bejzák tenyésztésére és szabadon bocsátására hoztak létre.", ro: "O mică rezervație înființată pentru reproducerea și eliberarea animalelor deșertice rare, cum ar fi oryxul arab.", en: "A small reserve established for the breeding and reintroduction of rare desert animals like the Arabian oryx." },
     facts: {
       de: ["Die Arabische Oryx wurde hier erfolgreich nachgezüchtet.", "Das Reservat ist nur 22 Quadratkilometer groß."],
       hu: ["Az arab bejzát itt sikeresen tenyésztették újra.", "A rezervátum mindössze 22 négyzetkilométeres."],
       ro: ["Oryxul arab a fost crescut aici cu succes.", "Rezervația are doar 22 de kilometri pătrați."],
       en: ["The Arabian oryx was successfully bred here.", "The reserve is only 22 square kilometers in size."]
-    }, image: "/poi-images/shaumari-wildlife-nature-v2.webp"},
+    }, image: "/poi-images/shaumari-wildlife-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Shaumari Wildlife Reserve ist ein 22 Quadratkilometer großes Schutzgebiet in der Wüste von Ostjordanien, nahe Azraq. Es wurde 1975 gegründet, um bedrohte Wüstentiere wieder anzusiedeln, darunter die Arabische Oryx, den Onager und den Strauß. Das Reservat ist in Zonen unterteilt. Besucher können geführte Safaris unternehmen. Es beherbergt auch andere Tierarten wie Gazellen und Wildkatzen. Das Reservat dient der Forschung und Bildung. Die Wiederansiedlung war erfolgreich: Die Oryx-Population hat sich erholt.",
+      hu: "A Shaumari Vadvédelmi Rezervátum egy 22 négyzetkilométeres védett terület Kelet-Jordániában, Azraq közelében. 1975-ben alapították a veszélyeztetett sivatagi állatok visszatelepítésére, mint az arab oryx, onager és strucc. A rezervátum zónákra osztott. Látogatók vezetett szafarin vehetnek részt. Más állatfajok is élnek itt, pl. gazellák és vadmacskák. A rezervátum kutatási és oktatási célokat szolgál. A visszatelepítés sikeres volt: az oryx populáció helyreállt.",
+      ro: "Rezervația de Faună Sălbatică Shaumari este o arie protejată de 22 de kilometri pătrați în deșertul estic al Iordaniei, lângă Azraq. A fost înființată în 1975 pentru reintroducerea speciilor de deșert amenințate, inclusiv oryx arab, onager și struț. Rezervația este împărțită în zone. Vizitatorii pot face safari ghidat. Găzduiește și alte specii, precum gazele și pisici sălbatice. Rezervația servește cercetării și educației. Reintroducerea a avut succes: populația de oryx s-a refăcut.",
+      en: "Shaumari Wildlife Reserve is a 22 square kilometer protected area in the eastern Jordanian desert near Azraq. It was established in 1975 to reintroduce threatened desert animals, including the Arabian oryx, onager, and ostrich. The reserve is divided into zones. Visitors can take guided safaris. It also hosts other species like gazelles and wildcats. The reserve serves research and education. Reintroduction has been successful; the oryx population has rebounded.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 22 Quadratkilometer.", "Gegründet: 1975.", "Erste Oryx-Auswilderung: 1978.", "Aktuelle Oryx-Population: etwa 300 Tiere.", "Onager-Population: etwa 50 Tiere.", "Die Höhe des Reservats beträgt 500 Meter über dem Meeresspiegel."],
+      hu: ["Terület: 22 négyzetkilométer.", "Alapítva: 1975.", "Első oryx kibocsátás: 1978.", "Jelenlegi oryx populáció: kb. 300 egyed.", "Onager populáció: kb. 50 egyed.", "A rezervátum tengerszint feletti magassága 500 méter."],
+      ro: ["Suprafață: 22 de kilometri pătrați.", "Fondată: 1975.", "Prima eliberare de oryx: 1978.", "Populația actuală de oryx: aproximativ 300 de indivizi.", "Populația de onager: aproximativ 50 de indivizi.", "Altitudinea rezervației: 500 de metri deasupra nivelului mării."],
+      en: ["Area: 22 square kilometers.", "Established: 1975.", "First oryx release: 1978.", "Current oryx population: about 300 individuals.", "Onager population: about 50 individuals.", "Reserve elevation: 500 meters above sea level."],
+    },
+  },
   {
     id: "ajloun-forest-nature-v2",
     type: "forest",
     parent: "JO-AJ",
     coords: [35.7500, 32.3833],
-    name: { de: "Waldreservat Adschlun", hu: "Adzslún Erdőrezervátum", ro: "Rezervația Forestieră Ajloun", en: "Ajloun Forest Reserve",
-image: "/poi-images/ajloun-forest-nature-v2.webp"
-},
+    name: { de: "Waldreservat Adschlun", hu: "Adzslún Erdőrezervátum", ro: "Rezervația Forestieră Ajloun", en: "Ajloun Forest Reserve"},
+    image: "/poi-images/ajloun-forest-nature-v2.webp",
     description: { de: "Ein dichtes Waldgebiet aus immergrünen Eichen, das eine wichtige Zuflucht für Rehe, Wildschweine und seltene Vogelarten bietet.", hu: "Örökzöld tölgyekből álló sűrű erdő, amely fontos menedéket nyújt az őzeknek, vaddisznóknak és ritka madárfajoknak.", ro: "O zonă de pădure deasă de stejari veșnic verzi, care oferă un refugiu important pentru căprioare, mistreți și specii rare de păsări.", en: "A dense forest area of evergreen oaks that provides an important refuge for deer, wild boars, and rare bird species." },
     facts: {
       de: ["Liegt auf einer Höhe von bis zu 1100 Metern.", "Ist ein Überrest der ursprünglichen Wälder Jordaniens."],
       hu: ["Akár 1100 méteres magasságban fekszik.", "Jordánia eredeti erdeinek egyik maradványa."],
       ro: ["Se află la o altitudine de până la 1100 de metri.", "Este o rămășiță a pădurilor originale ale Iordaniei."],
       en: ["Lies at an altitude of up to 1100 meters.", "Is a remnant of Jordan's original forests."]
-    }, image: "/poi-images/ajloun-forest-nature-v2.webp"},
+    }, image: "/poi-images/ajloun-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ajloun Forest Reserve liegt im Nordwesten Jordaniens, nahe der Stadt Ajloun. Es erstreckt sich über 13 Quadratkilometer und ist eines der wenigen Waldgebiete des Landes. Das Reservat besteht hauptsächlich aus mediterranen Wäldern mit Eichen, Kiefern und Pistazien. Es beherbergt Wildschweine, Schakale und viele Vogelarten. Wanderwege führen durch das dichte Grün. Das Reservat wurde 1988 gegründet. Es ist ein beliebtes Ziel für Ökotourismus. Die durchschnittliche Höhe beträgt 800 Meter über dem Meeresspiegel.",
+      hu: "Az Ajloun Erdőrezervátum Északnyugat-Jordániában, Ajloun város közelében található. Területe 13 négyzetkilométer, és az ország egyik kevés erdős területe. Főleg mediterrán erdők alkotják tölgy-, fenyő- és pisztáciafákkal. Vaddisznók, sakálok és sok madárfaj él itt. Túraútvonalak vezetnek a sűrű zöldben. A rezervátumot 1988-ban hozták létre. Népszerű ökoturisztikai célpont. Az átlagos magasság 800 méter tengerszint felett.",
+      ro: "Rezervația Forestieră Ajloun este situată în nord-vestul Iordaniei, lângă orașul Ajloun. Se întinde pe 13 kilometri pătrați și este una dintre puținele zone împădurite ale țării. Rezervația constă în principal din păduri mediteraneene cu stejari, pini și pistieri. Găzduiește mistreți, șacali și multe specii de păsări. Traseele de drumeție străbat verdeața densă. Rezervația a fost fondată în 1988. Este o destinație populară pentru ecoturism. Altitudinea medie este de 800 de metri deasupra nivelului mării.",
+      en: "Ajloun Forest Reserve is located in northwestern Jordan near the city of Ajloun. It covers 13 square kilometers and is one of the few forested areas in the country. The reserve consists mainly of Mediterranean forests with oaks, pines, and pistachio trees. It hosts wild boar, jackals, and many bird species. Hiking trails wind through the dense greenery. The reserve was established in 1988. It is a popular ecotourism destination. Average elevation is 800 meters above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 13 Quadratkilometer.", "Gegründet: 1988.", "Baumarten: über 10.", "Vogelarten: etwa 80.", "Durchschnittliche Höhe: 800 Meter.", "Jährliche Niederschlagsmenge: 600 mm."],
+      hu: ["Terület: 13 négyzetkilométer.", "Alapítva: 1988.", "Fafajok: több mint 10.", "Madárfajok: kb. 80.", "Átlagos magasság: 800 méter.", "Éves csapadékmennyiség: 600 mm."],
+      ro: ["Suprafață: 13 kilometri pătrați.", "Fondată: 1988.", "Specii de arbori: peste 10.", "Specii de păsări: aproximativ 80.", "Altitudine medie: 800 de metri.", "Precipitații anuale: 600 mm."],
+      en: ["Area: 13 square kilometers.", "Established: 1988.", "Tree species: over 10.", "Bird species: about 80.", "Average elevation: 800 meters.", "Annual rainfall: 600 mm."],
+    },
+  },
   {
     id: "dibbeen-forest-nature-v2",
     type: "forest",
     parent: "JO-JA",
     coords: [35.8333, 32.2333],
-    name: { de: "Waldreservat Dibbeen", hu: "Dibbin Erdőrezervátum", ro: "Rezervația Forestieră Dibbeen", en: "Dibbeen Forest Reserve",
-image: "/poi-images/dibbeen-forest-nature-v2.webp"
-},
+    name: { de: "Waldreservat Dibbeen", hu: "Dibbin Erdőrezervátum", ro: "Rezervația Forestieră Dibbeen", en: "Dibbeen Forest Reserve"},
+    image: "/poi-images/dibbeen-forest-nature-v2.webp",
     description: { de: "Dieses hügelige Reservat schützt die letzten verbliebenen Bestände der seltenen Aleppo-Kiefer in der Region.", hu: "Ez a dombos rezervátum védi a ritka aleppóifenyő utolsó megmaradt állományait a régióban.", ro: "Această rezervație deluroasă protejează ultimele populații rămase de pin de Alep rar din regiune.", en: "This hilly reserve protects the last remaining stands of the rare Aleppo pine in the region." },
     facts: {
       de: ["Wurde 2004 als Schutzgebiet ausgewiesen.", "Beherbergt seltene Orchideenarten."],
       hu: ["2004-ben nyilvánították védett területté.", "Ritka orchideafajoknak ad otthont."],
       ro: ["A fost desemnată zonă protejată în 2004.", "Găzduiește specii rare de orhidee."],
       en: ["Was designated as a protected area in 2004.", "Is home to rare orchid species."]
-    }, image: "/poi-images/dibbeen-forest-nature-v2.webp"},
+    }, image: "/poi-images/dibbeen-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dibbeen Forest ist ein geschütztes Waldgebiet im Norden Jordaniens, etwa 30 Kilometer von Amman entfernt. Er erstreckt sich über 8,5 Quadratkilometer und ist einer der wenigen natürlichen Kiefernwälder in Jordanien. Der Wald besteht hauptsächlich aus Aleppo-Kiefern und ist ein wichtiger Lebensraum für Wildtiere wie Füchse, Schakale und verschiedene Vogelarten. Es gibt Picknickplätze und Wanderwege. Der Dibbeen Forest ist ein beliebtes Erholungsgebiet für Familien. Die Höhe liegt zwischen 600 und 900 Metern.",
+      hu: "A Dibbeen-erdő védett erdőterület Észak-Jordániában, Ammantól kb. 30 kilométerre. Területe 8,5 négyzetkilométer, és az ország egyik kevés természetes fenyvese. Főként aleppói fenyők alkotják, és fontos élőhely a rókák, sakálok és madárfajok számára. Piknikhelyek és túraútvonalak találhatók. A Dibbeen-erdő népszerű családi kikapcsolódási hely. Magassága 600-900 méter között van.",
+      ro: "Pădurea Dibbeen este o zonă împădurită protejată în nordul Iordaniei, la aproximativ 30 de kilometri de Amman. Se întinde pe 8,5 kilometri pătrați și este una dintre puținele păduri naturale de pin din Iordania. Pădurea constă în principal din pini de Alep și este un habitat important pentru vulpi, șacali și diverse specii de păsări. Există zone de picnic și trasee de drumeție. Pădurea Dibbeen este o destinație populară de agrement pentru familii. Altitudinea variază între 600 și 900 de metri.",
+      en: "Dibbeen Forest is a protected woodland in northern Jordan, about 30 kilometers from Amman. It covers 8.5 square kilometers and is one of the few natural pine forests in Jordan. The forest consists mainly of Aleppo pines and is an important habitat for foxes, jackals, and various bird species. There are picnic areas and hiking trails. Dibbeen Forest is a popular recreational area for families. Elevation ranges between 600 and 900 meters.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 8,5 Quadratkilometer.", "Entfernung von Amman: 30 Kilometer.", "Hauptbaumart: Aleppo-Kiefer.", "Höhenlage: 600-900 Meter.", "Jährliche Niederschlagsmenge: 500 mm.", "Gegründet: 1995."],
+      hu: ["Terület: 8,5 négyzetkilométer.", "Távolság Ammantól: 30 kilométer.", "Fő fafaj: aleppói fenyő.", "Magasság: 600-900 méter.", "Éves csapadék: 500 mm.", "Alapítva: 1995."],
+      ro: ["Suprafață: 8,5 kilometri pătrați.", "Distanța de la Amman: 30 de kilometri.", "Specie principală de arbori: pin de Alep.", "Altitudine: 600-900 de metri.", "Precipitații anuale: 500 mm.", "Fondată: 1995."],
+      en: ["Area: 8.5 square kilometers.", "Distance from Amman: 30 kilometers.", "Main tree species: Aleppo pine.", "Elevation: 600-900 meters.", "Annual rainfall: 500 mm.", "Established: 1995."],
+    },
+  },
   {
     id: "jordan-river-nature-v2",
     type: "river",
     parent: "JO-BA",
     coords: [35.5333, 31.7500],
-    name: { de: "Jordan-Fluss", hu: "Jordán-folyó", ro: "Râul Iordan", en: "Jordan River",
-image: "/poi-images/jordan-river-nature-v2.webp"
-},
+    name: { de: "Jordan-Fluss", hu: "Jordán-folyó", ro: "Râul Iordan", en: "Jordan River"},
+    image: "/poi-images/jordan-river-nature-v2.webp",
     description: { de: "Dieser historisch und religiös bedeutende Fluss bildet die natürliche Grenze zwischen Jordanien und den palästinensischen Gebieten.", hu: "Ez a történelmileg és vallásilag jelentős folyó alkotja a természetes határt Jordánia és a palesztin területek között.", ro: "Acest râu cu o semnificație istorică și religioasă deosebită formează granița naturală între Iordania și teritoriile palestiniene.", en: "This historically and religiously significant river forms the natural border between Jordan and the Palestinian territories." },
     facts: {
       de: ["Mündet im Süden in das Tote Meer.", "Seine Gesamtlänge beträgt etwa 251 Kilometer."],
       hu: ["Délen a Holt-tengerbe torkollik.", "Teljes hossza körülbelül 251 kilométer."],
       ro: ["Se varsă în Marea Moartă în sud.", "Lungimea sa totală este de aproximativ 251 de kilometri."],
       en: ["Flows into the Dead Sea in the south.", "Its total length is about 251 kilometers."]
-    }, image: "/poi-images/jordan-river-nature-v2.webp"},
+    }, image: "/poi-images/jordan-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jordan ist ein bedeutender Fluss im Nahen Osten, der durch das Jordantal fließt und in das Tote Meer mündet. Er ist etwa 251 Kilometer lang. Der Fluss hat eine große historische und religiöse Bedeutung, insbesondere als Ort der Taufe Jesu. Die Ufer sind landwirtschaftlich genutzt, vor allem für den Anbau von Datteln und Gemüse. Der Wasserstand ist aufgrund von Wasserentnahme und Klimawandel gesunken. Der Jordan ist Lebensraum für verschiedene Vogelarten und Fische. Naturschutzprojekte versuchen, das Ökosystem zu erhalten.",
+      hu: "A Jordán folyó jelentős vízfolyás a Közel-Keleten, amely a Jordán-völgyön keresztül folyik és a Holt-tengerbe torkollik. Hossza körülbelül 251 kilométer. A folyó nagy történelmi és vallási jelentőséggel bír, különösen Jézus megkeresztelkedésének helyszíneként. Partjait mezőgazdasági célokra használják, főként datolya és zöldség termesztésére. A vízszint a vízkivétel és az éghajlatváltozás miatt csökkent. A Jordán számos madár- és halfaj élőhelye. Természetvédelmi projektek próbálják megőrizni az ökoszisztémát.",
+      ro: "Râul Iordan este un râu important în Orientul Mijlociu, care curge prin Valea Iordanului și se varsă în Marea Moartă. Are o lungime de aproximativ 251 de kilometri. Râul are o mare importanță istorică și religioasă, în special ca loc al botezului lui Isus. Malurile sunt utilizate pentru agricultură, în principal pentru curmale și legume. Nivelul apei a scăzut din cauza extracției și a schimbărilor climatice. Râul Iordan este un habitat pentru diverse specii de păsări și pești. Proiectele de conservare încearcă să mențină ecosistemul.",
+      en: "The Jordan River is a major river in the Middle East, flowing through the Jordan Valley into the Dead Sea. It is about 251 kilometers long. The river holds great historical and religious significance, especially as the site of Jesus' baptism. Its banks are used for agriculture, mainly for dates and vegetables. Water levels have declined due to extraction and climate change. The Jordan River is a habitat for various bird and fish species. Conservation projects work to preserve the ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 251 Kilometer.", "Mündung: Totes Meer, 430 Meter unter dem Meeresspiegel.", "Einzugsgebiet: 18.000 Quadratkilometer.", "Durchschnittliche Wasserführung: 15 Kubikmeter pro Sekunde.", "Historischer Name: biblischer Fluss Jordan.", "Taufort: traditionell bei Qasr al-Yahud."],
+      hu: ["Hossz: 251 kilométer.", "Torkolat: Holt-tenger, 430 méterrel a tengerszint alatt.", "Vízgyűjtő terület: 18.000 négyzetkilométer.", "Átlagos vízhozam: 15 köbméter/másodperc.", "Történelmi név: bibliai Jordán folyó.", "Keresztelés helye: hagyományosan Qasr al-Yahudnál."],
+      ro: ["Lungime: 251 de kilometri.", "Vărsare: Marea Moartă, 430 de metri sub nivelul mării.", "Bazin hidrografic: 18.000 de kilometri pătrați.", "Debit mediu: 15 metri cubi pe secundă.", "Nume istoric: râul biblic Iordan.", "Locul botezului: în mod tradițional la Qasr al-Yahud."],
+      en: ["Length: 251 kilometers.", "Mouth: Dead Sea, 430 meters below sea level.", "Watershed: 18,000 square kilometers.", "Average discharge: 15 cubic meters per second.", "Historical name: biblical River Jordan.", "Baptism site: traditionally at Qasr al-Yahud."],
+    },
+  },
   {
     id: "yarmouk-river-nature-v2",
     type: "river",
     parent: "JO-IR",
     coords: [35.6833, 32.6833],
-    name: { de: "Jarmuk-Fluss", hu: "Jarmuk-folyó", ro: "Râul Yarmouk", en: "Yarmouk River",
-image: "/poi-images/yarmouk-river-nature-v2.webp"
-},
+    name: { de: "Jarmuk-Fluss", hu: "Jarmuk-folyó", ro: "Râul Yarmouk", en: "Yarmouk River"},
+    image: "/poi-images/yarmouk-river-nature-v2.webp",
     description: { de: "Der größte Nebenfluss des Jordans gräbt sich tief in die Landschaft ein und trennt Jordanien von Syrien.", hu: "A Jordán legnagyobb mellékfolyója mélyen a tájba vájja magát, és elválasztja Jordániát Szíriától.", ro: "Cel mai mare afluent al Iordanului sapă adânc în peisaj și separă Iordania de Siria.", en: "The largest tributary of the Jordan River carves deep into the landscape and separates Jordan from Syria." },
     facts: {
       de: ["Entspringt im Hauran-Gebiet in Syrien.", "War Schauplatz der historischen Schlacht am Jarmuk."],
       hu: ["A szíriai Hauran-vidéken ered.", "A történelmi jarmuki csata színhelye volt."],
       ro: ["Izvorăște în regiunea Hauran din Siria.", "A fost scena istoricei bătălii de la Yarmouk."],
       en: ["Originates in the Hauran region in Syria.", "Was the site of the historical Battle of Yarmouk."]
-    }, image: "/poi-images/yarmouk-river-nature-v2.webp"},
+    }, image: "/poi-images/yarmouk-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jarmuk ist ein Nebenfluss des Jordans, der an der Grenze zwischen Syrien, Jordanien und Israel verläuft. Er ist etwa 70 Kilometer lang und entspringt in Syrien. Der Fluss ist wichtig für die Bewässerung in der Region. Der Jarmuk-Staudamm versorgt Jordanien mit Wasser und Strom. Die Ufer sind landwirtschaftlich genutzt. Der Fluss hat historische Bedeutung als Schauplatz von Schlachten. Aufgrund von Wasserknappheit ist der Fluss in Teilen trockengefallen. Der Yarmouk Nature Reserve schützt die Umgebung.",
+      hu: "A Jarmuk folyó a Jordán mellékfolyója, amely Szíria, Jordánia és Izrael határán folyik. Hossza kb. 70 kilométer, Szíriában ered. A folyó fontos a régió öntözésében. A Jarmuk-gát vízzel és árammal látja el Jordániát. Partjait mezőgazdaságra használják. Történelmi jelentőségű csaták helyszíne. A vízhiány miatt a folyó egyes részei kiszáradtak. A Yarmouk Természetvédelmi Terület védi a környezetet.",
+      ro: "Râul Yarmouk este un afluent al Iordanului, care curge de-a lungul graniței dintre Siria, Iordania și Israel. Are aproximativ 70 de kilometri lungime și izvorăște în Siria. Râul este important pentru irigații în regiune. Barajul Yarmouk furnizează apă și electricitate Iordaniei. Malurile sunt utilizate pentru agricultură. Râul are importanță istorică ca loc al bătăliilor. Din cauza deficitului de apă, unele părți s-au secat. Rezervația Naturală Yarmouk protejează zona înconjurătoare.",
+      en: "The Yarmouk River is a tributary of the Jordan River, forming part of the border between Syria, Jordan, and Israel. It is about 70 kilometers long and originates in Syria. The river is important for irrigation in the region. The Yarmouk Dam supplies water and power to Jordan. The banks are used for agriculture. The river has historical significance as the site of battles. Due to water scarcity, parts of the river have dried up. The Yarmouk Nature Reserve protects the surrounding area.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 70 Kilometer.", "Quelle: Syrien.", "Mündung: Jordan, nahe dem See Genezareth.", "Staudammkapazität: 200 Millionen Kubikmeter.", "Wasserkraftwerk: 30 MW Leistung.", "Landwirtschaftliche Nutzung: über 10.000 Hektar bewässert."],
+      hu: ["Hossz: 70 kilométer.", "Eredet: Szíria.", "Torkolat: Jordán, a Genezáreti-tó közelében.", "Gát kapacitása: 200 millió köbméter.", "Vízerőmű teljesítménye: 30 MW.", "Mezőgazdasági terület: több mint 10.000 hektár öntözött."],
+      ro: ["Lungime: 70 de kilometri.", "Izvor: Siria.", "Vărsare: Iordan, lângă Marea Galileei.", "Capacitatea barajului: 200 de milioane de metri cubi.", "Puterea hidrocentralei: 30 MW.", "Suprafață agricolă irigată: peste 10.000 de hectare."],
+      en: ["Length: 70 kilometers.", "Source: Syria.", "Mouth: Jordan River, near the Sea of Galilee.", "Dam capacity: 200 million cubic meters.", "Hydroelectric power: 30 MW.", "Irrigated agricultural area: over 10,000 hectares."],
+    },
+  },
   {
     id: "zarqa-river-nature-v2",
     type: "river",
     parent: "JO-AZ",
     coords: [35.9166, 32.1833],
-    name: { de: "Zarqa-Fluss", hu: "Zarka-folyó", ro: "Râul Zarqa", en: "Zarqa River",
-image: "/poi-images/zarqa-river-nature-v2.webp"
-},
+    name: { de: "Zarqa-Fluss", hu: "Zarka-folyó", ro: "Râul Zarqa", en: "Zarqa River"},
+    image: "/poi-images/zarqa-river-nature-v2.webp",
     description: { de: "Ein wichtiges Flusssystem im Norden Jordaniens, das durch steile Täler fließt und den König-Talal-Stausee speist.", hu: "Fontos folyórendszer Jordánia északi részén, amely meredek völgyeken folyik keresztül, és a Talal Király-gátat táplálja.", ro: "Un sistem fluvial important în nordul Iordaniei, care curge prin văi abrupte și alimentează Barajul King Talal.", en: "An important river system in northern Jordan that flows through steep valleys and feeds the King Talal Dam." },
     facts: {
       de: ["Wird in der Bibel als Fluss Jabbok erwähnt.", "Sein Wasser wird intensiv für die Landwirtschaft genutzt."],
       hu: ["A Biblia Jabbok folyóként említi.", "Vizét intenzíven használják mezőgazdasági célokra."],
       ro: ["Este menționat în Biblie ca râul Iaboc.", "Apa sa este folosită intens pentru agricultură."],
       en: ["Is mentioned in the Bible as the river Jabbok.", "Its water is used intensively for agriculture."]
-    }, image: "/poi-images/zarqa-river-nature-v2.webp"},
+    }, image: "/poi-images/zarqa-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zarqa ist der zweitgrößte Nebenfluss des Jordans in Jordanien. Er ist etwa 105 Kilometer lang und entspringt in der Nähe von Amman. Der Fluss fließt durch dicht besiedelte Gebiete und wird stark durch Industrie und Landwirtschaft belastet. Es gibt Maßnahmen zur Reinigung des Flusses. Der Zarqa-Staudamm (King Talal Dam) bewässert große Ackerflächen. Der Fluss ist ein wichtiger Lebensraum für Vögel, trotz der Umweltprobleme. Die Wasserqualität hat sich in den letzten Jahren verbessert.",
+      hu: "A Zarqa folyó a Jordán második legnagyobb mellékfolyója Jordániában. Hossza kb. 105 kilométer, Amman közelében ered. A folyó sűrűn lakott területeken halad át, és erősen szennyezett ipari és mezőgazdasági hatások miatt. Tisztítási intézkedések folynak. A Zarqa-gát (King Talal-gát) nagy mezőgazdasági területeket öntöz. A folyó fontos madárélőhely a környezeti problémák ellenére. A vízminőség az utóbbi években javult.",
+      ro: "Râul Zarqa este al doilea cel mai mare afluent al Iordanului din Iordania. Are aproximativ 105 kilometri lungime și izvorăște lângă Amman. Râul traversează zone dens populate și este puternic poluat de industrie și agricultură. Există măsuri de curățare. Barajul Zarqa (Barajul King Talal) irigă suprafețe agricole mari. Râul este un habitat important pentru păsări, în ciuda problemelor de mediu. Calitatea apei s-a îmbunătățit în ultimii ani.",
+      en: "The Zarqa River is the second largest tributary of the Jordan River in Jordan. It is about 105 kilometers long and originates near Amman. The river flows through densely populated areas and is heavily polluted by industry and agriculture. Clean-up measures are underway. The Zarqa Dam (King Talal Dam) irrigates large agricultural areas. The river is an important bird habitat despite environmental issues. Water quality has improved in recent years.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 105 Kilometer.", "Quelle: östlich von Amman.", "Mündung: Jordan, in der Nähe von Damya.", "Staudammkapazität: 85 Millionen Kubikmeter.", "Bewässerte Fläche: 20.000 Hektar.", "Verschmutzungsgrad: 80% der Abwässer werden behandelt."],
+      hu: ["Hossz: 105 kilométer.", "Eredet: Ammantól keletre.", "Torkolat: Jordán, Damya közelében.", "Gát kapacitása: 85 millió köbméter.", "Öntözött terület: 20.000 hektár.", "Szennyezettség: a szennyvíz 80%-át kezelik."],
+      ro: ["Lungime: 105 kilometri.", "Izvor: la est de Amman.", "Vărsare: Iordan, lângă Damya.", "Capacitatea barajului: 85 de milioane de metri cubi.", "Suprafață irigată: 20.000 de hectare.", "Grad de poluare: 80% din apele uzate sunt tratate."],
+      en: ["Length: 105 kilometers.", "Source: east of Amman.", "Mouth: Jordan River near Damya.", "Dam capacity: 85 million cubic meters.", "Irrigated area: 20,000 hectares.", "Pollution: 80% of wastewater is treated."],
+    },
+  },
   {
     id: "jabal-umm-ad-dami-nature-v2",
     type: "mountain",
     parent: "JO-AQ",
     coords: [35.4294, 29.3130],
-    name: { de: "Dschabal Umm ad-Dami", hu: "Dzsebel Umm ad-Dámi", ro: "Jabal Umm ad-Dami", en: "Jabal Umm ad-Dami",
-image: "/poi-images/jabal-umm-ad-dami-nature-v2.webp"
-},
+    name: { de: "Dschabal Umm ad-Dami", hu: "Dzsebel Umm ad-Dámi", ro: "Jabal Umm ad-Dami", en: "Jabal Umm ad-Dami"},
+    image: "/poi-images/jabal-umm-ad-dami-nature-v2.webp",
     description: { de: "Mit über 1800 Metern ist dies der höchste Berg Jordaniens, gelegen im äußersten Süden nahe der saudischen Grenze.", hu: "Több mint 1800 méterével ez Jordánia legmagasabb hegye, amely a legdélibb részen, a szaúdi határ közelében található.", ro: "Cu peste 1800 de metri, acesta este cel mai înalt munte din Iordania, situat în sudul extrem, aproape de granița saudită.", en: "At over 1800 meters, this is the highest mountain in Jordan, located in the extreme south near the Saudi border." },
     facts: {
       de: ["Erreicht eine Höhe von 1854 Metern.", "An klaren Tagen kann man von hier das Rote Meer sehen."],
       hu: ["Eléri az 1854 méteres magasságot.", "Tiszta időben innen látni a Vörös-tengert."],
       ro: ["Atinge o altitudine de 1854 de metri.", "În zilele senine se poate vedea Marea Roșie de aici."],
       en: ["Reaches an altitude of 1854 meters.", "On clear days, the Red Sea can be seen from here."]
-    }, image: "/poi-images/jabal-umm-ad-dami-nature-v2.webp"},
+    }, image: "/poi-images/jabal-umm-ad-dami-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Umm ad-Dami ist mit 1.854 Metern der höchste Berg Jordaniens. Er liegt im Süden des Landes, nahe der Grenze zu Saudi-Arabien. Der Berg gehört zur Gebirgskette des Hedschas. Der Aufstieg ist relativ einfach und bietet einen Panoramablick auf die Wüste und das Rote Meer. Der Berg ist ein beliebtes Ziel für Wanderer. Er liegt in der Nähe von Wadi Rum. Die Umgebung ist karg und felsig. Der Gipfel kann mit dem Auto erreicht werden.",
+      hu: "A Jabal Umm ad-Dami 1854 méteres magasságával Jordánia legmagasabb hegye. Az ország déli részén, a szaúd-arábiai határ közelében található. A Hedzsasz-hegység része. A feljutás viszonylag könnyű, és panorámás kilátást nyújt a sivatagra és a Vörös-tengerre. A hegy népszerű a túrázók körében. Wadi Rum közelében fekszik. A környék kopár és sziklás. A csúcs autóval is megközelíthető.",
+      ro: "Jabal Umm ad-Dami, cu 1.854 de metri, este cel mai înalt munte din Iordania. Este situat în sudul țării, aproape de granița cu Arabia Saudită. Muntele face parte din lanțul Hejiaz. Ascensiunea este relativ ușoară și oferă vederi panoramice asupra deșertului și Mării Roșii. Muntele este o destinație populară pentru drumeții. Se află lângă Wadi Rum. Zona este aridă și stâncoasă. Vârful poate fi atins cu mașina.",
+      en: "Jabal Umm ad-Dami, at 1,854 meters, is the highest mountain in Jordan. It is located in the south of the country, near the border with Saudi Arabia. The mountain is part of the Hejaz mountain range. The ascent is relatively easy and offers panoramic views of the desert and the Red Sea. The mountain is a popular hiking destination. It lies near Wadi Rum. The area is barren and rocky. The summit can be reached by vehicle.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.854 Meter.", "Lage: Süden Jordaniens, Grenze zu Saudi-Arabien.", "Teil des Hedschas-Gebirges.", "Gipfel: über eine unbefestigte Straße erreichbar.", "Entfernung zu Wadi Rum: etwa 30 Kilometer.", "Durchschnittliche Temperatur am Gipfel: 15 °C."],
+      hu: ["Magasság: 1854 méter.", "Elhelyezkedés: Dél-Jordánia, szaúd-arábiai határ.", "A Hedzsasz-hegység része.", "Csúcs: földúton is megközelíthető.", "Távolság Wadi Rumtól: kb. 30 kilométer.", "Átlagos hőmérséklet a csúcson: 15 °C."],
+      ro: ["Înălțime: 1.854 de metri.", "Locație: sudul Iordaniei, granița cu Arabia Saudită.", "Parte a munților Hejiaz.", "Vârf: accesibil pe drum de pământ.", "Distanța față de Wadi Rum: aproximativ 30 de kilometri.", "Temperatura medie la vârf: 15 °C."],
+      en: ["Height: 1,854 meters.", "Location: southern Jordan, near Saudi border.", "Part of the Hejaz mountain range.", "Summit: reachable via dirt road.", "Distance from Wadi Rum: about 30 kilometers.", "Average summit temperature: 15 °C."],
+    },
+  },
   {
     id: "jabal-ram-nature-v2",
     type: "mountain",
     parent: "JO-AQ",
     coords: [35.3977, 29.5719],
-    name: { de: "Dschabal Ram", hu: "Dzsebel Ram", ro: "Jabal Ram", en: "Jabal Ram",
-image: "/poi-images/jabal-ram-nature-v2.webp"
-},
+    name: { de: "Dschabal Ram", hu: "Dzsebel Ram", ro: "Jabal Ram", en: "Jabal Ram"},
+    image: "/poi-images/jabal-ram-nature-v2.webp",
     description: { de: "Ein massiver Sandsteinberg im Wadi Rum, der lange Zeit fälschlicherweise für den höchsten Gipfel des Landes gehalten wurde.", hu: "Masszív homokkő hegy a Vádi Rumban, amelyet sokáig tévesen az ország legmagasabb csúcsának tartottak.", ro: "Un munte masiv de gresie în Wadi Rum, care a fost mult timp considerat în mod eronat cel mai înalt vârf din țară.", en: "A massive sandstone mountain in Wadi Rum that was long mistakenly believed to be the country's highest peak." },
     facts: {
       de: ["Seine markanten Klippen ziehen viele Kletterer an.", "Erhebt sich 1734 Meter über den Meeresspiegel."],
       hu: ["Karakteres sziklái sok hegymászót vonzanak.", "1734 méterrel emelkedik a tengerszint fölé."],
       ro: ["Stâncile sale izbitoare atrag mulți alpiniști.", "Se ridică la 1734 de metri deasupra nivelului mării."],
       en: ["Its striking cliffs attract many climbers.", "Rises 1734 meters above sea level."]
-    }, image: "/poi-images/jabal-ram-nature-v2.webp"},
+    }, image: "/poi-images/jabal-ram-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Ram ist ein markanter Berg im Süden Jordaniens, nahe Wadi Rum. Er ist etwa 1.734 Meter hoch und besteht hauptsächlich aus Granit. Der Berg ist bei Kletterern beliebt. Der Aufstieg ist anspruchsvoll. Von oben hat man eine beeindruckende Aussicht auf die Wüste. Der Jabal Ram ist Teil des Schutzgebiets Wadi Rum. Die Region ist bekannt für ihre bizarren Felsformationen. In der Nähe gibt es Beduinenlager. Der Berg hat eine religiöse Bedeutung für einige lokale Gemeinschaften.",
+      hu: "A Jabal Ram jellegzetes hegy Dél-Jordániában, Wadi Rum közelében. Magassága kb. 1734 méter, főként gránitból áll. A hegy népszerű a hegymászók körében. A feljutás nehéz. A csúcsról lenyűgöző kilátás nyílik a sivatagra. A Jabal Ram a Wadi Rum védett terület része. A régió furcsa sziklaformációiról ismert. A közelben beduin táborok találhatók. A hegy vallási jelentőséggel bír egyes helyi közösségek számára.",
+      ro: "Jabal Ram este un munte proeminent în sudul Iordaniei, lângă Wadi Rum. Are aproximativ 1.734 de metri înălțime și este compus în principal din granit. Muntele este popular printre alpiniști. Ascensiunea este dificilă. De pe vârf se deschide o vedere impresionantă asupra deșertului. Jabal Ram face parte din aria protejată Wadi Rum. Regiunea este cunoscută pentru formațiunile stâncoase bizare. În apropiere se află tabere beduine. Muntele are semnificație religioasă pentru unele comunități locale.",
+      en: "Jabal Ram is a prominent mountain in southern Jordan, near Wadi Rum. It is about 1,734 meters high and composed mainly of granite. The mountain is popular among climbers. The ascent is challenging. The summit offers impressive views of the desert. Jabal Ram is part of the Wadi Rum protected area. The region is known for its bizarre rock formations. Nearby are Bedouin camps. The mountain holds religious significance for some local communities.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.734 Meter.", "Gesteinsart: Granit.", "Lage: 10 Kilometer westlich von Wadi Rum Village.", "Bestiegen erstmals 1952.", "Dauer des Aufstiegs: 4-5 Stunden.", "In der Nähe: Quelle Ain Ram."],
+      hu: ["Magasság: 1734 méter.", "Kőzettípus: gránit.", "Elhelyezkedés: 10 kilométerre nyugatra Wadi Rum Village-től.", "Első megmászás: 1952.", "Feljutás ideje: 4-5 óra.", "Közelben: Ain Ram forrás."],
+      ro: ["Înălțime: 1.734 de metri.", "Tipul de rocă: granit.", "Locație: la 10 kilometri vest de Wadi Rum Village.", "Prima ascensiune: 1952.", "Durata ascensiunii: 4-5 ore.", "Aproape: izvorul Ain Ram."],
+      en: ["Height: 1,734 meters.", "Rock type: granite.", "Location: 10 kilometers west of Wadi Rum Village.", "First ascent: 1952.", "Ascent duration: 4-5 hours.", "Nearby: Ain Ram spring."],
+    },
+  },
   {
     id: "fifa-nature-reserve-nature-v2",
     type: "national-park",
     parent: "JO-KA",
     coords: [35.4666, 31.0000],
-    name: { de: "Naturschutzgebiet Fifa", hu: "Fifa Természetvédelmi Terület", ro: "Rezervația Naturală Fifa", en: "Fifa Nature Reserve",
-image: "/poi-images/fifa-nature-reserve-nature-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Fifa", hu: "Fifa Természetvédelmi Terület", ro: "Rezervația Naturală Fifa", en: "Fifa Nature Reserve"},
+    image: "/poi-images/fifa-nature-reserve-nature-v2.webp",
     description: { de: "Dieses tief gelegene Feuchtgebiet südlich des Toten Meeres ist ein wichtiger Lebensraum für bedrohte Wüstenkärpflinge.", hu: "A Holt-tengertől délre fekvő mély vizesélőhely fontos élőhelye a veszélyeztetett sivatagi fogaspontyoknak.", ro: "Această zonă umedă joasă, aflată la sud de Marea Moartă, este un habitat important pentru peștii deșertici pe cale de dispariție.", en: "This low-lying wetland south of the Dead Sea is an important habitat for endangered desert pupfish." },
     facts: {
       de: ["Befindet sich mehr als 400 Meter unter dem Meeresspiegel.", "Schützt seltene Salzpflanzen und Feuchtgebietsvögel."],
       hu: ["Több mint 400 méterrel a tengerszint alatt található.", "Ritka sónövényeket és vizesélőhelyi madarakat véd."],
       ro: ["Se află la mai mult de 400 de metri sub nivelul mării.", "Protejează plante de sărătură rare și păsări de zone umede."],
       en: ["Is located more than 400 meters below sea level.", "Protects rare salt plants and wetland birds."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Fifa-Naturreservat liegt im Nordwesten Jordaniens und umfasst etwa 23 Quadratkilometer mediterranen Wald. Es wurde 1987 gegründet, um die Biodiversität der Region zu schützen, darunter seltene Vogelarten wie den Gänsegeier. Das Reservat erstreckt sich über Höhenlagen von 400 bis 800 Metern und beherbergt Eichen, Kiefern und Pistazien. Die jährliche Niederschlagsmenge beträgt rund 600 mm, was eine üppige Vegetation begünstigt. Besucher können auf markierten Wanderwegen die Tierwelt beobachten, darunter Wildschweine, Füchse und Hyänen. Das Reservat spielt eine wichtige Rolle für den Vogelschutz entlang der Zugroute des Jordangrabens.",
+      hu: "A Fifa Természetvédelmi Terület Jordánia északnyugati részén, 23 négyzetkilométernyi mediterrán erdőt foglal magában. 1987-ben alapították a biodiverzitás védelme érdekében, különös tekintettel a ritka madárfajokra, mint a fakó keselyű. A terület tengerszint feletti magassága 400 és 800 méter között változik, növényzete tölgyekből, fenyőkből és pisztáciákból áll. Az éves csapadékmennyiség eléri a 600 mm-t, ami sűrű növényzetet eredményez. A rezervátum fontos szerepet játszik a madárvonulási útvonal mentén, és lehetőséget nyújt a vadon élő állatok, például vaddisznók, rókák és hiénák megfigyelésére.",
+      ro: "Rezervația naturală Fifa se află în nord-vestul Iordaniei, acoperind aproximativ 23 de kilometri pătrați de pădure mediteraneană. Înființată în 1987, are scopul de a proteja biodiversitatea, inclusiv specii rare de păsări precum vulturul egiptean. Altitudinile variază între 400 și 800 de metri, iar vegetația include stejari, pini și fistic. Precipitațiile anuale de circa 600 mm favorizează o vegetație luxuriantă. Vizitatorii pot observa mistreți, vulpi și hiene pe traseele marcate. Rezervația este crucială pentru protecția păsărilor migratoare de-a lungul riftului iordanian.",
+      en: "Fifa Nature Reserve, established in 1987, covers 23 km² of Mediterranean woodland in northwestern Jordan. It spans elevations from 400 to 800 meters, with annual rainfall averaging 600 mm. The reserve protects rare birds like the Egyptian vulture and supports mammals such as wild boar, red fox, and striped hyena. Its oak-pine-pistachio forests are part of the larger Ajloun forest ecosystem. The reserve also serves as a key stopover for migratory birds along the Jordan Rift Valley flyway. Hiking trails allow visitors to experience the region's biodiversity and geological formations including limestone karst.",
+    },
+    factsAdvanced: {
+      de: ["23 km² Fläche", "1987 gegründet", "400-800 m Höhenlage", "600 mm Jahresniederschlag", "Gänsegeier (Neophron percnopterus) als Charakterart", "Wanderwegnetz von 15 km Gesamtlänge"],
+      hu: ["23 km² terület", "1987-ben alapították", "400-800 m tengerszint feletti magasság", "600 mm éves csapadék", "Fakó keselyű (Neophron percnopterus)", "15 km hosszú turistaút"],
+      ro: ["23 km² suprafață", "înființată în 1987", "altitudine 400-800 m", "600 mm precipitații anuale", "Vultur egiptean (Neophron percnopterus)", "15 km de trasee turistice"],
+      en: ["Area 23 km²", "Established 1987", "Elevation range 400-800 m", "Annual precipitation 600 mm", "Egyptian vulture (Neophron percnopterus) as flagship species", "15 km of hiking trails"],
+    },
   },
   {
     id: "burqu-nature-reserve-nature-v2",
     type: "national-park",
     parent: "JO-MA",
     coords: [37.9500, 32.6166],
-    name: { de: "Naturschutzgebiet Burqu", hu: "Burku Természetvédelmi Terület", ro: "Rezervația Naturală Burqu", en: "Burqu Nature Reserve",
-image: "/poi-images/burqu-nature-reserve-nature-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Burqu", hu: "Burku Természetvédelmi Terület", ro: "Rezervația Naturală Burqu", en: "Burqu Nature Reserve"},
+    image: "/poi-images/burqu-nature-reserve-nature-v2.webp",
     description: { de: "Eine abgelegene Wüstenregion im Nordosten Jordaniens, die sich um einen saisonalen See und eine antike römische Festung erstreckt.", hu: "Távoli sivatagi régió Jordánia északkeleti részén, amely egy időszakos tó és egy ókori római erőd körül terül el.", ro: "O regiune deșertică îndepărtată în nord-estul Iordaniei, care se întinde în jurul unui lac sezonier și a unei vechi fortărețe romane.", en: "A remote desert region in northeastern Jordan that stretches around a seasonal lake and an ancient Roman fortress." },
     facts: {
       de: ["Gilt als das einzige Süßwasser-Feuchtgebiet in Jordaniens östlicher Wüste.", "Zieht regelmäßig durchziehende Raubvögel an."],
       hu: ["Jordánia keleti sivatagának egyetlen édesvízi vizesélőhelyeként ismert.", "Rendszeresen vonzza az átvonuló ragadozó madarakat."],
       ro: ["Este considerată singura zonă umedă cu apă dulce din deșertul de est al Iordaniei.", "Atrage în mod regulat păsări de pradă migratoare."],
       en: ["Is considered the only freshwater wetland in Jordan's eastern desert.", "Regularly attracts migrating birds of prey."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Burqu-Naturreservat befindet sich in der östlichen Wüste Jordaniens, nahe der Grenze zu Saudi-Arabien, und umfasst 450 Quadratkilometer. Es wurde 1996 ausgewiesen, um die Wüstenökosysteme und archäologischen Stätten zu schützen. Die Region ist durch Basaltplateaus, Schluchten und saisonale Wadis geprägt. Die jährliche Niederschlagsmenge beträgt weniger als 100 mm. Das Reservat beherbergt Populationen von Arabischer Oryx, Rotfüchsen und verschiedenen Greifvögeln. Historische Ruinen, darunter römische und nabatäische Siedlungen, zeugen von früherer menschlicher Nutzung. Die Burqu-Region ist auch für ihren Fossilienreichtum aus dem Paläogen bekannt.",
+      hu: "A Burqu Természetvédelmi Terület Jordánia keleti sivatagában, Szaúd-Arábia határán fekszik, 450 négyzetkilométeren. 1996-ban hozták létre a sivatagi ökoszisztémák és régészeti lelőhelyek védelmére. A területet bazaltfennsíkok, szurdokok és időszakos vádik jellemzik, éves csapadéka 100 mm alatti. Itt él az arab bejza, a vörös róka és több ragadozó madárfaj. Római és nabateus romok tanúskodnak a korábbi emberi jelenlétről. A Burqu régió gazdag paleogén kori fosszíliákban is.",
+      ro: "Rezervația naturală Burqu se află în deșertul estic al Iordaniei, lângă granița cu Arabia Saudită, întinzându-se pe 450 km². A fost înființată în 1996 pentru a proteja ecosistemele deșertice și siturile arheologice. Relief de platouri bazaltice, canioane și wadiuri sezoniere, cu precipitații anuale sub 100 mm. Adăpostește oryx arab, vulpi roșii și păsări răpitoare. Ruine romane și nabateene indică locuirea antică. Zona este cunoscută și pentru fosilele paleogene.",
+      en: "Burqu Nature Reserve, established in 1996, covers 450 km² in eastern Jordan's desert near the Saudi border. It protects arid ecosystems with basalt plateaus, wadis, and seasonal water pools. Annual rainfall is less than 100 mm. The reserve is home to the Arabian oryx, red fox, and raptors like the golden eagle. Archaeological sites include Roman and Nabataean ruins. The area is also significant for Paleogene fossils. Management focuses on combating desertification and preserving native flora such as Haloxylon and Artemisia shrubs.",
+    },
+    factsAdvanced: {
+      de: ["450 km² Fläche", "1996 gegründet", "unter 100 mm Jahresniederschlag", "Arabische Oryx (Oryx leucoryx) eingeführt", "Bazaltplateaus bis 800 m Höhe", "mehrere römische Ruinen"],
+      hu: ["450 km² terület", "1996-ban alapították", "100 mm alatti éves csapadék", "Arab bejza (Oryx leucoryx) betelepítve", "bazaltfennsíkok 800 m magasságig", "több római rom"],
+      ro: ["450 km² suprafață", "înființată în 1996", "precipitații anuale sub 100 mm", "Orix arab (Oryx leucoryx) reintrodus", "platouri bazaltice până la 800 m", "ruine romane multiple"],
+      en: ["Area 450 km²", "Established 1996", "Less than 100 mm annual rainfall", "Arabian oryx (Oryx leucoryx) reintroduced", "Basalt plateaus up to 800 m elevation", "Remains of several Roman settlements"],
+    },
   },
   {
     id: "yarmouk-forest-reserve-nature-v2",
     type: "forest",
     parent: "JO-IR",
     coords: [35.7166, 32.6666],
-    name: { de: "Waldreservat Jarmuk", hu: "Jarmuk Erdőrezervátum", ro: "Rezervația Forestieră Yarmouk", en: "Yarmouk Forest Reserve",
-image: "/poi-images/yarmouk-forest-reserve-nature-v2.webp"
-},
+    name: { de: "Waldreservat Jarmuk", hu: "Jarmuk Erdőrezervátum", ro: "Rezervația Forestieră Yarmouk", en: "Yarmouk Forest Reserve"},
+    image: "/poi-images/yarmouk-forest-reserve-nature-v2.webp",
     description: { de: "Ein hügeliges Schutzgebiet an der nördlichen Grenze, das reich an sommergrünen Eichen und saisonalen Wildblumen ist.", hu: "Dombos védett terület az északi határon, amely gazdag lombhullató tölgyekben és szezonális vadvirágokban.", ro: "O arie protejată deluroasă la granița de nord, bogată în stejari cu frunze căzătoare și flori sălbatice sezoniere.", en: "A hilly protected area on the northern border that is rich in deciduous oaks and seasonal wildflowers." },
     facts: {
       de: ["Wurde im Jahr 2010 offiziell eingerichtet.", "Bewahrt die landschaftliche Schönheit im Norden des Landes."],
       hu: ["2010-ben hozták létre hivatalosan.", "Megőrzi a táj szépségét az ország északi részén."],
       ro: ["A fost înființată oficial în 2010.", "Păstrează frumusețea peisajului din nordul țării."],
       en: ["Was officially established in 2010.", "Preserves the scenic beauty in the north of the country."]
-    }, image: "/poi-images/yarmouk-forest-reserve-nature-v2.webp"},
+    }, image: "/poi-images/yarmouk-forest-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Yarmouk-Waldreservat liegt im Norden Jordaniens an der Grenze zu Syrien und umfasst etwa 20 Quadratkilometer. Es wurde 2006 gegründet, um die letzten Reste des ursprünglichen Eichen- und Kiefernwaldes zu schützen. Die Höhenlage liegt zwischen 500 und 900 Metern, mit einer jährlichen Niederschlagsmenge von 400 mm. Das Reservat ist Lebensraum für Wildkatzen, Rotfüchse und zahlreiche Vogelarten wie den Bienenfresser. Es gibt mehrere Quellen und Bäche, die den Yarmouk-Fluss speisen. Das Gebiet hat eine lange Geschichte menschlicher Nutzung, mit Überresten byzantinischer Kirchen und Mühlen.",
+      hu: "A Yarmouk Erdőrezervátum Észak-Jordániában, a szír határ mentén terül el, 20 négyzetkilométeren. 2006-ban alapították az eredeti tölgy- és fenyőerdők megőrzésére. Tengerszint feletti magassága 500-900 m, éves csapadéka 400 mm. Vadmacskák, rókák, valamint méhészmadarak élnek itt. Források és patakok táplálják a Yarmouk folyót. Bizánci templomok maradványai és malmok emlékeztetnek a múltbeli használatra.",
+      ro: "Rezervația forestieră Yarmouk se află în nordul Iordaniei, la granița cu Siria, acoperind 20 km². A fost fondată în 2006 pentru a proteja pădurile relicte de stejar și pin. Altitudini între 500 și 900 m, precipitații de 400 mm anual. Adăpostește pisici sălbatice, vulpi și păsări precum prigoria. Izvoare și pâraie alimentează râul Yarmouk. Ruine bizantine și mori vechi indică utilizarea istorică.",
+      en: "Yarmouk Forest Reserve, established in 2006, covers 20 km² in northern Jordan along the Syrian border. It protects remnant oak and pine forests at elevations of 500–900 m, with 400 mm annual rainfall. Wildlife includes wildcats, red foxes, and European bee-eaters. The reserve contains springs feeding into the Yarmouk River. Historical Byzantine churches and water mills are found within. The forest is part of the larger Mediterranean biome and is important for soil conservation.",
+    },
+    factsAdvanced: {
+      de: ["20 km² Fläche", "2006 gegründet", "500-900 m Höhenlage", "400 mm Jahresniederschlag", "Wildkatze (Felis silvestris) nachgewiesen", "Byzantinische Kirche aus dem 6. Jahrhundert"],
+      hu: ["20 km² terület", "2006-ban alapították", "500-900 m tengerszint feletti magasság", "400 mm éves csapadék", "Vadmacska (Felis silvestris) előfordul", "6. századi bizánci templom"],
+      ro: ["20 km² suprafață", "fondată în 2006", "altitudine 500-900 m", "400 mm precipitații anuale", "Pisică sălbatică (Felis silvestris) prezentă", "Biserică bizantină din secolul VI"],
+      en: ["Area 20 km²", "Established 2006", "Elevation 500–900 m", "Annual rainfall 400 mm", "Wildcat (Felis silvestris) population", "6th-century Byzantine church ruins"],
+    },
+  },
   {
     id: "wadi-mujib-river-nature-v2",
     type: "river",
     parent: "JO-MD",
     coords: [35.5666, 31.4666],
-    name: { de: "Wadi Mudschib (Fluss)", hu: "Vádi Múdzsib (folyó)", ro: "Wadi Mujib (Râu)", en: "Wadi Mujib (River)",
-image: "/poi-images/wadi-mujib-river-nature-v2.webp"
-},
+    name: { de: "Wadi Mudschib (Fluss)", hu: "Vádi Múdzsib (folyó)", ro: "Wadi Mujib (Râu)", en: "Wadi Mujib (River)"},
+    image: "/poi-images/wadi-mujib-river-nature-v2.webp",
     description: { de: "Dieser spektakuläre Canyon wird oft als der Grand Canyon Jordaniens bezeichnet und führt ganzjährig Wasser.", hu: "Ezt a látványos kanyont gyakran Jordánia Grand Canyonjának nevezik, és egész évben vizet szállít.", ro: "Acest canion spectaculos este adesea numit Marele Canion al Iordaniei și transportă apă tot timpul anului.", en: "This spectacular canyon is often referred to as the Grand Canyon of Jordan and carries water year-round." },
     facts: {
       de: ["Verfügt über tiefe, wasserführende Schluchten.", "Ist ein beliebter Ort für das Canyoning."],
       hu: ["Mély, vizet vezető szurdokokkal rendelkezik.", "Népszerű helyszín a kanyonozáshoz (canyoning)."],
       ro: ["Are defileuri adânci care transportă apă.", "Este un loc popular pentru canioning."],
       en: ["Features deep, water-bearing gorges.", "Is a popular spot for canyoning."]
-    }, image: "/poi-images/wadi-mujib-river-nature-v2.webp"},
+    }, image: "/poi-images/wadi-mujib-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Wadi Mujib ist eine tiefe Schlucht, die zum Toten Meer hin entwässert, und bildet das Kernstück des Mujib-Naturschutzgebiets. Der Flusslauf erstreckt sich über 70 km und fällt von 900 m auf 400 m unter den Meeresspiegel. Das Tal ist bekannt für seine biodiverse Flora und Fauna, darunter der Syrische Steinbock und der Klippschliefer. Die Wasserführung schwankt saisonal stark; im Winter können Sturzfluten auftreten. Die Region enthält Sedimentgesteine aus dem Mesozoikum und dem Känozoikum. Der Wadi Mujib ist auch für seine nabatäischen Felsinschriften bekannt.",
+      hu: "A Wadi Mujib egy mély szurdok, amely a Holt-tengerbe ömlik, és a Mujib Természetvédelmi Terület magja. A patak hossza 70 km, szintkülönbsége 900 m-ről 400 m-rel a tengerszint alá. Itt él a szír kőszáli kecske és a szirti borz. A vízhozam erősen ingadozik, télen árvizek lehetnek. Az üledékes kőzetek a mezozoikumból és a kenozoikumból származnak. Nabateus sziklafeliratok is találhatók.",
+      ro: "Wadi Mujib este un canion adânc care se varsă în Marea Moartă, formând nucleul rezervației Mujib. Cursul de apă are 70 km lungime, coborând de la 900 m la 400 m sub nivelul mării. Fauna include capra nubiană și hyraxul de stâncă. Debitul variază sezonier, cu viituri iarna. Roci sedimentare mezozoice și cenozoice. Inscripții nabateene în stâncă.",
+      en: "Wadi Mujib is a deep canyon feeding into the Dead Sea, central to the Mujib Biosphere Reserve. The river runs 70 km, dropping from 900 m elevation to 400 m below sea level. It hosts the Nubian ibex, rock hyrax, and over 300 plant species. Flash floods occur often in winter. The geology includes limestone, sandstone, and marl from the Jurassic to Quaternary. Nabataean inscriptions line the cliffs. The reserve was designated a biosphere reserve by UNESCO in 2011.",
+    },
+    factsAdvanced: {
+      de: ["70 km Länge", "900 m Höhenabfall bis −400 m NN", "über 300 Pflanzenarten", "Syrischer Steinbock (Capra nubiana) vorkommend", "Wasserabfluss bis zu 500 m³/s bei Flut", "2011 UNESCO-Biosphärenreservat"],
+      hu: ["70 km hosszú", "900 m szintkülönbség -400 m-ig", "több mint 300 növényfaj", "Szír kőszáli kecske (Capra nubiana)", "Vízhozam akár 500 m³/s áradáskor", "2011-ben UNESCO bioszféra-rezervátum"],
+      ro: ["Lungime 70 km", "Coborâre de 900 m până la -400 m", "Peste 300 specii de plante", "Capră nubiană (Capra nubiana)", "Debit de până la 500 m³/s la viitură", "Rezervație UNESCO în 2011"],
+      en: ["Length 70 km", "Elevation drop from 900 m to -400 m", "Over 300 plant species", "Nubian ibex (Capra nubiana)", "Flood discharge up to 500 m³/s", "UNESCO Biosphere Reserve since 2011"],
+    },
+  },
   {
     id: "wadi-hasa-nature-v2",
     type: "river",
     parent: "JO-KA",
     coords: [35.4833, 31.0333],
-    name: { de: "Wadi Hasa", hu: "Vádi Hasza", ro: "Wadi Hasa", en: "Wadi Hasa",
-image: "/poi-images/wadi-hasa-nature-v2.webp"
-},
+    name: { de: "Wadi Hasa", hu: "Vádi Hasza", ro: "Wadi Hasa", en: "Wadi Hasa"},
+    image: "/poi-images/wadi-hasa-nature-v2.webp",
     description: { de: "Eine malerische Schlucht mit heißen Quellen und rosa Sandsteinwänden, die bei Wanderern sehr beliebt ist.", hu: "Festői szurdok meleg forrásokkal és rózsaszín homokkő falakkal, amely nagyon népszerű a túrázók körében.", ro: "Un defileu pitoresc cu izvoare termale și pereți de gresie roz, care este foarte popular printre drumeți.", en: "A picturesque gorge with hot springs and pink sandstone walls that is highly popular among hikers." },
     facts: {
       de: ["Die Wanderstrecke durch das Wadi ist rund 24 Kilometer lang.", "Das Wasser fließt das ganze Jahr über."],
       hu: ["A vádin átvezető túraútvonal mintegy 24 kilométer hosszú.", "A víz egész évben folyik benne."],
       ro: ["Traseul de drumeție prin ued are o lungime de aproximativ 24 de kilometri.", "Apa curge pe tot parcursul anului."],
       en: ["The hiking trail through the wadi is around 24 kilometers long.", "The water flows all year round."]
-    }, image: "/poi-images/wadi-hasa-nature-v2.webp"},
+    }, image: "/poi-images/wadi-hasa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Wadi Hasa ist ein saisonaler Fluss im zentralen Jordanien, der in den Toten Meer endet. Die Schlucht ist etwa 40 km lang und bis zu 300 m tief. Das Gebiet ist reich an archäologischen Stätten, darunter die Nabatäerstadt Buseira (das biblische Bozra). Die Vegetation umfasst Tamarisken, Oleander und Akazien. Der Wadi Hasa ist Teil des jordanischen Talsystems und führt nach starken Regenfällen erhebliche Wassermengen. Geologisch dominieren Kalksteine und Mergel aus der Kreidezeit. Es gibt Populationen von Wölfen, Schakalen und Wildschweinen.",
+      hu: "A Wadi Hasa egy időszakos folyó Közép-Jordániában, a Holt-tengerbe ömlik. A szurdok 40 km hosszú és 300 m mély. Gazdag régészeti lelőhelyekben, például Buseira (bibliai Bozra) nabateus városa. Növényzete tamariska, leander és akácia. A Wadi Hasa a Jordán-völgyi rendszer része, esőzések után jelentős vízhozammal. Geológiailag kréta kori mészkő és márga. Farkasok, sakálok és vaddisznók élnek itt.",
+      ro: "Wadi Hasa este un râu sezonier în centrul Iordaniei, vărsându-se în Marea Moartă. Canionul are 40 km lungime și 300 m adâncime. Bogat în situri arheologice, inclusiv orașul nabateean Buseira (Boțra biblică). Vegetație de tamarisc, oleandru și salcâm. Parte a sistemului văii Iordanului. Geologie de calcar și marnă din Cretacic. Lupi, șacali și mistreți.",
+      en: "Wadi Hasa is a seasonal stream in central Jordan, draining into the Dead Sea. The canyon stretches 40 km with depths up to 300 m. Archaeological sites include Buseira, the biblical Bozrah, a Nabataean and Edomite center. Vegetation is sparse but includes tamarisk, oleander, and acacia. Flash floods can be powerful. The geology consists of Cretaceous limestone and marl. Wildlife includes gray wolf, golden jackal, and wild boar. The wadi is an important corridor for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["40 km Länge", "300 m Tiefe", "Buseira (Bozra) nabatäische Hauptstadt", "Kreidezeitliche Kalksteine", "Wasserabfluss 0–100 m³/s", "Population von Wölfen (Canis lupus)"],
+      hu: ["40 km hosszú", "300 m mély", "Buseira (Bozra) nabateus főváros", "Kréta kori mészkő", "Vízhozam 0-100 m³/s", "Farkas (Canis lupus) populáció"],
+      ro: ["Lungime 40 km", "Adâncime 300 m", "Buseira (Boțra) capitală nabateeană", "Calcar cretacic", "Debit 0–100 m³/s", "Lup cenușiu (Canis lupus)"],
+      en: ["Length 40 km", "Depth up to 300 m", "Buseira (biblical Bozrah) - Nabataean capital", "Cretaceous limestone geology", "Discharge range 0–100 m³/s", "Gray wolf (Canis lupus) present"],
+    },
+  },
   {
     id: "king-talal-dam-nature-v2",
     type: "lake",
     parent: "JO-JA",
     coords: [35.8000, 32.1833],
-    name: { de: "König-Talal-Stausee", hu: "Talal Király-gát (tó)", ro: "Barajul King Talal", en: "King Talal Dam",
-image: "/poi-images/king-talal-dam-nature-v2.webp"
-},
+    name: { de: "König-Talal-Stausee", hu: "Talal Király-gát (tó)", ro: "Barajul King Talal", en: "King Talal Dam"},
+    image: "/poi-images/king-talal-dam-nature-v2.webp",
     description: { de: "Der größte Stausee in den Hügeln von Jerash spielt eine wichtige Rolle bei der Bewässerung des Jordantals.", hu: "A Jeras dombjai között található legnagyobb víztározó fontos szerepet játszik a Jordán-völgy öntözésében.", ro: "Cel mai mare rezervor din dealurile Jerash joacă un rol important în irigarea Văii Iordanului.", en: "The largest reservoir in the hills of Jerash plays an important role in the irrigation of the Jordan Valley." },
     facts: {
       de: ["Der Stausee hat eine Kapazität von 75 Millionen Kubikmetern.", "Er wird hauptsächlich vom Zarqa-Fluss gespeist."],
       hu: ["A víztározó kapacitása 75 millió köbméter.", "Főként a Zarka-folyó táplálja."],
       ro: ["Rezervorul are o capacitate de 75 de milioane de metri cubi.", "Este alimentat în principal de râul Zarqa."],
       en: ["The reservoir has a capacity of 75 million cubic meters.", "It is mainly fed by the Zarqa River."]
-    }, image: "/poi-images/king-talal-dam-nature-v2.webp"},
+    }, image: "/poi-images/king-talal-dam-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der King-Talal-Damm liegt am Zusammenfluss von Zarqa und Nimrin und staut einen Stausee von etwa 1,6 Milliarden Kubikmeter Volumen. Er wurde 1973 fertiggestellt und ist 108 m hoch. Der Damm dient der Bewässerung der Jordansenke und der Stromerzeugung mit 5 MW Leistung. Der Stausee erstreckt sich über 15 km². Der Damm ist nach König Talal bin Abdullah benannt. Das Reservoir leidet unter Sedimentation und Verschmutzung durch die nahegelegene Hauptstadt Amman. Trotzdem ist es ein wichtiger Rastplatz für Zugvögel.",
+      hu: "A Király Talal-gát a Zarqa és Nimrin folyók találkozásánál épült, tározója 1,6 milliárd m³ víz befogadására képes. 1973-ban készült el, magassága 108 m. Öntözésre és áramtermelésre (5 MW) szolgál. A tó területe 15 km². A gátat Talal bin Abdullah királyról nevezték el. Az ülepedés és a szennyezés problémát jelent, de a madárvonulás szempontjából fontos.",
+      ro: "Barajul King Talal se află la confluența râurilor Zarqa și Nimrin, cu un lac de acumulare de 1,6 miliarde m³. Finalizat în 1973, înălțimea de 108 m. Utilizează pentru irigații și generare de 5 MW. Lacul acoperă 15 km². Numit după regele Talal bin Abdullah. Sedimentarea și poluarea sunt probleme, dar este important pentru păsările migratoare.",
+      en: "King Talal Dam, completed in 1973, impounds the Zarqa and Nimrin rivers to create a reservoir of 1.6 billion m³. The dam is 108 m high and generates 5 MW of hydropower. Its surface area is 15 km². It supplies irrigation water to the Jordan Valley. Named after King Talal bin Abdullah, the dam faces sedimentation and pollution from upstream Amman. Despite this, it supports a variety of waterbirds and serves as a vital water resource.",
+    },
+    factsAdvanced: {
+      de: ["1,6 Mrd. m³ Speichervolumen", "1973 fertiggestellt", "108 m Höhe", "5 MW Stromerzeugung", "15 km² Seefläche", "Benannt nach König Talal bin Abdullah (1909-1972)"],
+      hu: ["1,6 milliárd m³ tározótér", "1973-ban készült el", "108 m magas", "5 MW áramtermelés", "15 km² tófelület", "Talal bin Abdullah királyról elnevezve (1909-1972)"],
+      ro: ["1,6 miliarde m³ capacitate", "finalizat în 1973", "108 m înălțime", "5 MW producție electrică", "15 km² suprafață a lacului", "Numit după regele Talal bin Abdullah (1909–1972)"],
+      en: ["1.6 billion m³ reservoir capacity", "Completed in 1973", "Height 108 m", "5 MW hydroelectric capacity", "Reservoir area 15 km²", "Named after King Talal bin Abdullah (1909-1972)"],
+    },
+  },
   {
     id: "wadi-numeira-nature-v2",
     type: "river",
     parent: "JO-KA",
     coords: [35.5333, 31.1333],
-    name: { de: "Wadi Numeira", hu: "Vádi Numeira", ro: "Wadi Numeira", en: "Wadi Numeira",
-image: "/poi-images/wadi-numeira-nature-v2.webp"
-},
+    name: { de: "Wadi Numeira", hu: "Vádi Numeira", ro: "Wadi Numeira", en: "Wadi Numeira"},
+    image: "/poi-images/wadi-numeira-nature-v2.webp",
     description: { de: "Eine extrem schmale und tiefe Sandsteinschlicht am Toten Meer, die auch als das Wasser-Petra bekannt ist.", hu: "Extrém szűk és mély homokkő szurdok a Holt-tengernél, amelyet vízi Petraként is emlegetnek.", ro: "Un defileu de gresie extrem de îngust și adânc lângă Marea Moartă, cunoscut și sub numele de Petra de apă.", en: "An extremely narrow and deep sandstone gorge by the Dead Sea, also known as the water Petra." },
     facts: {
       de: ["Die Schlucht ist bekannt für ihren charakteristischen hängenden Felsen.", "Der Wasserstand variiert stark je nach Jahreszeit."],
       hu: ["A szurdok jellegzetes függő sziklájáról ismert.", "A vízszint évszaktól függően erősen változik."],
       ro: ["Defileul este cunoscut pentru stânca sa suspendată caracteristică.", "Nivelul apei variază foarte mult în funcție de sezon."],
       en: ["The gorge is known for its characteristic hanging rock.", "The water level varies greatly depending on the season."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Wadi Numeira ist ein kleines Trockental im Südosten des Toten Meeres, etwa 10 km lang. Es ist bekannt für seine archäologische Stätte aus der Frühen Bronzezeit, die durch einen plötzlichen Brand zerstört wurde. Die Ausgrabungen legten gut erhaltene Getreidevorräte, Werkzeuge und Skelette frei. Das Wadi ist geprägt von Steilwänden aus Kalkstein und Mergel. Die jährliche Niederschlagsmenge beträgt weniger als 100 mm. Die Vegetation beschränkt sich auf Halophyten und Dornsträucher. Das Gebiet ist wichtig für die Erforschung des Zusammenbruchs der Frühen Bronzezeit.",
+      hu: "Wadi Numeira egy kis száraz völgy a Holt-tenger délkeleti oldalán, 10 km hosszú. Híres kora bronzkori régészeti lelőhelyéről, amelyet hirtelen tűz pusztított el. Az ásatások jól megőrzött gabona-, szerszám- és csontmaradványokat tártak fel. A völgy meredek mészkő- és márgafalakkal rendelkezik. Csapadék 100 mm alatti. Növényzete sótűrő növényekből és tüskés bokrokból áll. Fontos a kora bronzkori összeomlás kutatásában.",
+      ro: "Wadi Numeira este o vale secată la sud-estul Mării Moarte, lungă de 10 km. Cunoscută pentru situl arheologic din Epoca Bronzului timpuriu, distrus de un incendiu brusc. Săpăturile au scos la iveală cereale, unelte și schelete bine conservate. Pereți abrupți de calcar și marnă. Precipitații sub 100 mm. Vegetație halofită și spinoasă. Important pentru studiul colapsului Epocii Bronzului timpuriu.",
+      en: "Wadi Numeira is a dry valley southeast of the Dead Sea, about 10 km long. It features an Early Bronze Age site that was destroyed by fire around 2500 BCE, preserving carbonized grains, tools, and human remains. The wadi cuts through limestone and marl cliffs. Annual rainfall is less than 100 mm. Vegetation is sparse, with salt-tolerant halophytes and thorny shrubs. The site provides evidence for the collapse of Early Bronze Age urban society in the southern Levant.",
+    },
+    factsAdvanced: {
+      de: ["10 km Länge", "Frühbronzezeitliche Siedlung (ca. 2500 v. Chr.)", "Feuerzerstörung mit erhaltenem Getreide", "Kalkstein- und Mergelformationen", "unter 100 mm Jahresniederschlag", "Archäologische Ausgrabungen seit 1981"],
+      hu: ["10 km hosszú", "Kora bronzkori település (i.e. 2500 körül)", "Tűzvészben pusztult el, gabonamaradványok", "Mészkő- és márgaformációk", "100 mm alatti éves csapadék", "Régészeti feltárások 1981 óta"],
+      ro: ["10 km lungime", "Așezare din Epoca Bronzului timpuriu (cca. 2500 î.Hr.)", "Distrusă de incendiu, cereale conservate", "Formațiuni de calcar și marnă", "Sub 100 mm precipitații anuale", "Săpături arheologice din 1981"],
+      en: ["Length 10 km", "Early Bronze Age settlement (c. 2500 BC)", "Fire destruction preserved grains and artifacts", "Limestone and marl geology", "Annual rainfall below 100 mm", "Archaeological excavations since 1981"],
+    },
   }
 ];

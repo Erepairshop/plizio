@@ -5,9 +5,8 @@ export const luxembourgEconomicV2: POI[] = [
     id: "luxembourg-kirchberg-district-economic-v2",
     parent: "LU",
     type: "city",
-    name: { de: "Finanzdistrikt Kirchberg", hu: "Kirchberg pénzügyi negyed", ro: "Districtul financiar Kirchberg", en: "Kirchberg Financial District",
-image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp"
-},
+    name: { de: "Finanzdistrikt Kirchberg", hu: "Kirchberg pénzügyi negyed", ro: "Districtul financiar Kirchberg", en: "Kirchberg Financial District"},
+    image: "/poi-images/luxembourg-kirchberg-district-economic-v2.webp",
     coords: [6.158, 49.626],
     coordinates: { lat: 49.626, lng: 6.158 },
     description: {
@@ -40,9 +39,8 @@ imageHint: "Modern skyscrapers and glass buildings in Kirchberg Luxembourg",
     id: "luxembourg-belval-innovation-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Belval Innovationscampus", hu: "Belval Innovációs Kampusz", ro: "Campusul de Inovare Belval", en: "Belval Innovation Campus",
-image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp"
-},
+    name: { de: "Belval Innovationscampus", hu: "Belval Innovációs Kampusz", ro: "Campusul de Inovare Belval", en: "Belval Innovation Campus"},
+    image: "/poi-images/luxembourg-belval-innovation-economic-v2.webp",
     coords: [5.948, 49.499],
     coordinates: { lat: 49.499, lng: 5.948 },
     description: {
@@ -75,9 +73,8 @@ imageHint: "Preserved blast furnaces in Belval Luxembourg at night",
     id: "luxembourg-findel-cargo-center-economic-v2",
     parent: "LU",
     type: "port",
-    name: { de: "Cargo Center Findel", hu: "Findel Cargo Központ", ro: "Centrul Cargo Findel", en: "Findel Cargo Center",
-image: "/poi-images/luxembourg-findel-cargo-center-economic-v2.webp"
-},
+    name: { de: "Cargo Center Findel", hu: "Findel Cargo Központ", ro: "Centrul Cargo Findel", en: "Findel Cargo Center"},
+    image: "/poi-images/luxembourg-findel-cargo-center-economic-v2.webp",
     coords: [6.215, 49.638],
     coordinates: { lat: 49.638, lng: 6.215 },
     description: {
@@ -110,9 +107,8 @@ image: "/poi-images/luxembourg-findel-cargo-center-economic-v2.webp"
     id: "luxembourg-ses-astra-headquarters-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "SES Astra Hauptsitz", hu: "SES Astra Székház", ro: "Sediul SES Astra", en: "SES Astra Headquarters",
-image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp"
-},
+    name: { de: "SES Astra Hauptsitz", hu: "SES Astra Székház", ro: "Sediul SES Astra", en: "SES Astra Headquarters"},
+    image: "/poi-images/luxembourg-ses-astra-headquarters-economic-v2.webp",
     coords: [6.331, 49.693],
     coordinates: { lat: 49.693, lng: 6.331 },
     description: {
@@ -145,9 +141,8 @@ imageHint: "Satellite dishes and control center at Betzdorf Luxembourg",
     id: "luxembourg-port-of-mertert-economic-v2",
     parent: "LU",
     type: "port",
-    name: { de: "Hafen von Mertert", hu: "Merterti kikötő", ro: "Portul Mertert", en: "Port of Mertert",
-image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp"
-},
+    name: { de: "Hafen von Mertert", hu: "Merterti kikötő", ro: "Portul Mertert", en: "Port of Mertert"},
+    image: "/poi-images/luxembourg-port-of-mertert-economic-v2.webp",
     coords: [6.485, 49.701],
     coordinates: { lat: 49.701, lng: 6.485 },
     description: {
@@ -180,9 +175,8 @@ imageHint: "Cargo ships and cranes at Port of Mertert on the Moselle",
     id: "luxembourg-vianden-pumped-storage-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Pumpspeicherkraftwerk Vianden", hu: "Viandeni szivattyús-tározós erőmű", ro: "Centrala hidroelectrică de acumulare Vianden", en: "Vianden Pumped Storage Plant",
-image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp"
-},
+    name: { de: "Pumpspeicherkraftwerk Vianden", hu: "Viandeni szivattyús-tározós erőmű", ro: "Centrala hidroelectrică de acumulare Vianden", en: "Vianden Pumped Storage Plant"},
+    image: "/poi-images/luxembourg-vianden-pumped-storage-economic-v2.webp",
     coords: [6.183, 49.952],
     coordinates: { lat: 49.952, lng: 6.183 },
     description: {
@@ -215,9 +209,8 @@ imageHint: "The upper reservoir of the Vianden pumped storage plant",
     id: "luxembourg-arcelormittal-differdange-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "ArcelorMittal Differdange", hu: "ArcelorMittal Differdange", ro: "ArcelorMittal Differdange", en: "ArcelorMittal Differdange",
-image: "/poi-images/luxembourg-arcelormittal-differdange-economic-v2.webp"
-},
+    name: { de: "ArcelorMittal Differdange", hu: "ArcelorMittal Differdange", ro: "ArcelorMittal Differdange", en: "ArcelorMittal Differdange"},
+    image: "/poi-images/luxembourg-arcelormittal-differdange-economic-v2.webp",
     coords: [5.892, 49.524],
     coordinates: { lat: 49.524, lng: 5.892 },
     description: {
@@ -250,9 +243,8 @@ image: "/poi-images/luxembourg-arcelormittal-differdange-economic-v2.webp"
     id: "luxembourg-bettembourg-terminal-economic-v2",
     parent: "LU",
     type: "port",
-    name: { de: "Multimodaler Terminal Bettemburg", hu: "Bettembourgi multimodális terminál", ro: "Terminalul multimodal Bettembourg", en: "Bettembourg Multimodal Terminal",
-image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp"
-},
+    name: { de: "Multimodaler Terminal Bettemburg", hu: "Bettembourgi multimodális terminál", ro: "Terminalul multimodal Bettembourg", en: "Bettembourg Multimodal Terminal"},
+    image: "/poi-images/luxembourg-bettembourg-terminal-economic-v2.webp",
     coords: [6.115, 49.491],
     coordinates: { lat: 49.491, lng: 6.115 },
     description: {
@@ -285,9 +277,8 @@ imageHint: "Container cranes at Bettembourg multimodal railway terminal",
     id: "luxembourg-goodyear-colmar-berg-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "Goodyear Werk Colmar-Berg", hu: "Goodyear gyár Colmar-Berg", ro: "Fabrica Goodyear Colmar-Berg", en: "Goodyear Colmar-Berg Plant",
-image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp"
-},
+    name: { de: "Goodyear Werk Colmar-Berg", hu: "Goodyear gyár Colmar-Berg", ro: "Fabrica Goodyear Colmar-Berg", en: "Goodyear Colmar-Berg Plant"},
+    image: "/poi-images/luxembourg-goodyear-colmar-berg-economic-v2.webp",
     coords: [6.095, 49.811],
     coordinates: { lat: 49.811, lng: 6.095 },
     description: {
@@ -320,9 +311,8 @@ imageHint: "Goodyear factory building and test track in Colmar-Berg",
     id: "luxembourg-rtl-group-headquarters-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "RTL Group Hauptsitz", hu: "RTL Group Székház", ro: "Sediul RTL Group", en: "RTL Group Headquarters",
-image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp"
-},
+    name: { de: "RTL Group Hauptsitz", hu: "RTL Group Székház", ro: "Sediul RTL Group", en: "RTL Group Headquarters"},
+    image: "/poi-images/luxembourg-rtl-group-headquarters-economic-v2.webp",
     coords: [6.173, 49.636],
     coordinates: { lat: 49.636, lng: 6.173 },
     description: {
@@ -355,9 +345,8 @@ imageHint: "RTL City building and studios in Luxembourg",
     id: "luxembourg-arcelormittal-dudelange-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "ArcelorMittal Düdelingen", hu: "ArcelorMittal Dudelange", ro: "ArcelorMittal Dudelange", en: "ArcelorMittal Dudelange",
-image: "/poi-images/luxembourg-arcelormittal-dudelange-economic-v2.webp"
-},
+    name: { de: "ArcelorMittal Düdelingen", hu: "ArcelorMittal Dudelange", ro: "ArcelorMittal Dudelange", en: "ArcelorMittal Dudelange"},
+    image: "/poi-images/luxembourg-arcelormittal-dudelange-economic-v2.webp",
     coords: [6.091, 49.471],
     coordinates: { lat: 49.471, lng: 6.091 },
     description: {
@@ -390,9 +379,8 @@ image: "/poi-images/luxembourg-arcelormittal-dudelange-economic-v2.webp"
     id: "luxembourg-luxlait-roost-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "Luxlait Molkerei Roost", hu: "Luxlait tejüzem Roost", ro: "Lăptăria Luxlait Roost", en: "Luxlait Dairy Roost",
-image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp"
-},
+    name: { de: "Luxlait Molkerei Roost", hu: "Luxlait tejüzem Roost", ro: "Lăptăria Luxlait Roost", en: "Luxlait Dairy Roost"},
+    image: "/poi-images/luxembourg-luxlait-roost-economic-v2.webp",
     coords: [6.079, 49.782],
     coordinates: { lat: 49.782, lng: 6.079 },
     description: {
@@ -425,9 +413,8 @@ imageHint: "Modern Luxlait dairy production facility in Roost",
     id: "luxembourg-bissen-google-data-center-site-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Wirtschaftszone Bissen", hu: "Bissen gazdasági zóna", ro: "Zona economică Bissen", en: "Bissen Economic Zone",
-image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp"
-},
+    name: { de: "Wirtschaftszone Bissen", hu: "Bissen gazdasági zóna", ro: "Zona economică Bissen", en: "Bissen Economic Zone"},
+    image: "/poi-images/luxembourg-bissen-google-data-center-site-economic-v2.webp",
     coords: [6.068, 49.775],
     coordinates: { lat: 49.775, lng: 6.068 },
     description: {
@@ -460,9 +447,8 @@ imageHint: "Aerial view of the industrial zone in Bissen Luxembourg",
     id: "luxembourg-contern-industrial-park-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Industriepark Contern", hu: "Conterni ipari park", ro: "Parcul industrial Contern", en: "Contern Industrial Park",
-image: "/poi-images/luxembourg-contern-industrial-park-economic-v2.webp"
-},
+    name: { de: "Industriepark Contern", hu: "Conterni ipari park", ro: "Parcul industrial Contern", en: "Contern Industrial Park"},
+    image: "/poi-images/luxembourg-contern-industrial-park-economic-v2.webp",
     coords: [6.228, 49.585],
     coordinates: { lat: 49.585, lng: 6.228 },
     description: {
@@ -495,9 +481,8 @@ image: "/poi-images/luxembourg-contern-industrial-park-economic-v2.webp"
     id: "luxembourg-mertert-petroleum-port-economic-v2",
     parent: "LU",
     type: "port",
-    name: { de: "Tanklager Mertert", hu: "Merterti üzemanyagtároló", ro: "Depozitul de combustibil Mertert", en: "Mertert Petroleum Port",
-image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp"
-},
+    name: { de: "Tanklager Mertert", hu: "Merterti üzemanyagtároló", ro: "Depozitul de combustibil Mertert", en: "Mertert Petroleum Port"},
+    image: "/poi-images/luxembourg-mertert-petroleum-port-economic-v2.webp",
     coords: [6.478, 49.698],
     coordinates: { lat: 49.698, lng: 6.478 },
     description: {
@@ -530,9 +515,8 @@ imageHint: "Large white oil storage tanks by the river in Mertert",
     id: "luxembourg-bascharage-industrial-zone-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Industriezone Bascharage", hu: "Bascharage ipari zóna", ro: "Zona industrială Bascharage", en: "Bascharage Industrial Zone",
-image: "/poi-images/luxembourg-bascharage-industrial-zone-economic-v2.webp"
-},
+    name: { de: "Industriezone Bascharage", hu: "Bascharage ipari zóna", ro: "Zona industrială Bascharage", en: "Bascharage Industrial Zone"},
+    image: "/poi-images/luxembourg-bascharage-industrial-zone-economic-v2.webp",
     coords: [5.915, 49.571],
     coordinates: { lat: 49.571, lng: 5.915 },
     description: {
@@ -565,9 +549,8 @@ image: "/poi-images/luxembourg-bascharage-industrial-zone-economic-v2.webp"
     id: "luxembourg-echternach-industrial-area-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Industriegebiet Echternach", hu: "Echternachi ipari terület", ro: "Zona industrială Echternach", en: "Echternach Industrial Area",
-image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Echternach", hu: "Echternachi ipari terület", ro: "Zona industrială Echternach", en: "Echternach Industrial Area"},
+    image: "/poi-images/luxembourg-echternach-industrial-area-economic-v2.webp",
     coords: [6.405, 49.795],
     coordinates: { lat: 49.795, lng: 6.405 },
     description: {
@@ -600,9 +583,8 @@ imageHint: "Fanuc Robotics building in Echternach industrial zone",
     id: "luxembourg-wiltz-business-park-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Wirtschaftspark Wiltz", hu: "Wiltzi üzleti park", ro: "Parcul de afaceri Wiltz", en: "Wiltz Business Park",
-image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp"
-},
+    name: { de: "Wirtschaftspark Wiltz", hu: "Wiltzi üzleti park", ro: "Parcul de afaceri Wiltz", en: "Wiltz Business Park"},
+    image: "/poi-images/luxembourg-wiltz-business-park-economic-v2.webp",
     coords: [5.925, 49.965],
     coordinates: { lat: 49.965, lng: 5.925 },
     description: {
@@ -635,9 +617,8 @@ imageHint: "Large industrial complex of Tarkett in Wiltz",
     id: "luxembourg-lentzweiler-industrial-zone-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Industriezone Lentzweiler", hu: "Lentzweiler ipari zóna", ro: "Zona industrială Lentzweiler", en: "Lentzweiler Industrial Zone",
-image: "/poi-images/luxembourg-lentzweiler-industrial-zone-economic-v2.webp"
-},
+    name: { de: "Industriezone Lentzweiler", hu: "Lentzweiler ipari zóna", ro: "Zona industrială Lentzweiler", en: "Lentzweiler Industrial Zone"},
+    image: "/poi-images/luxembourg-lentzweiler-industrial-zone-economic-v2.webp",
     coords: [5.965, 50.045],
     coordinates: { lat: 50.045, lng: 5.965 },
     description: {
@@ -670,9 +651,8 @@ image: "/poi-images/luxembourg-lentzweiler-industrial-zone-economic-v2.webp"
     id: "luxembourg-rosport-mineral-water-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "Rosport Mineralwasserquelle", hu: "Rosporti ásványvízforrás", ro: "Sursa de apă minerală Rosport", en: "Rosport Mineral Water Plant",
-image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp"
-},
+    name: { de: "Rosport Mineralwasserquelle", hu: "Rosporti ásványvízforrás", ro: "Sursa de apă minerală Rosport", en: "Rosport Mineral Water Plant"},
+    image: "/poi-images/luxembourg-rosport-mineral-water-economic-v2.webp",
     coords: [6.505, 49.805],
     coordinates: { lat: 49.805, lng: 6.505 },
     description: {
@@ -705,9 +685,8 @@ imageHint: "Bottling line at the Rosport mineral water factory",
     id: "luxembourg-mamer-high-tech-zone-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Hochtechnologiezone Mamer", hu: "Mameri csúcstechnológiai zóna", ro: "Zona de înaltă tehnologie Mamer", en: "Mamer High-Tech Zone",
-image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp"
-},
+    name: { de: "Hochtechnologiezone Mamer", hu: "Mameri csúcstechnológiai zóna", ro: "Zona de înaltă tehnologie Mamer", en: "Mamer High-Tech Zone"},
+    image: "/poi-images/luxembourg-mamer-high-tech-zone-economic-v2.webp",
     coords: [6.025, 49.635],
     coordinates: { lat: 49.635, lng: 6.025 },
     description: {
@@ -740,9 +719,8 @@ imageHint: "Modern Ceratizit industrial building in Mamer",
     id: "luxembourg-remich-wine-logistics-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Remich Wein-Logistikzentrum", hu: "Remichi borlogisztikai központ", ro: "Centrul de logistică viticolă Remich", en: "Remich Wine Logistics Center",
-image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp"
-},
+    name: { de: "Remich Wein-Logistikzentrum", hu: "Remichi borlogisztikai központ", ro: "Centrul de logistică viticolă Remich", en: "Remich Wine Logistics Center"},
+    image: "/poi-images/luxembourg-remich-wine-logistics-economic-v2.webp",
     coords: [6.365, 49.545],
     coordinates: { lat: 49.545, lng: 6.365 },
     description: {
@@ -775,9 +753,8 @@ imageHint: "Large wine cellars and shipping docks in Remich",
     id: "luxembourg-twinerg-power-plant-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Twinerg Gaskraftwerk", hu: "Twinerg gázerőmű", ro: "Centrala electrică Twinerg", en: "Twinerg Power Plant",
-image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp"
-},
+    name: { de: "Twinerg Gaskraftwerk", hu: "Twinerg gázerőmű", ro: "Centrala electrică Twinerg", en: "Twinerg Power Plant"},
+    image: "/poi-images/luxembourg-twinerg-power-plant-economic-v2.webp",
     coords: [5.985, 49.505],
     coordinates: { lat: 49.505, lng: 5.985 },
     description: {
@@ -810,9 +787,8 @@ imageHint: "Modern gas power plant with cooling towers in Esch-sur-Alzette",
     id: "luxembourg-eib-headquarters-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "EIB Hauptsitz", hu: "EBB Székház", ro: "Sediul BEI", en: "EIB Headquarters",
-image: "/poi-images/luxembourg-eib-headquarters-economic-v2.webp"
-},
+    name: { de: "EIB Hauptsitz", hu: "EBB Székház", ro: "Sediul BEI", en: "EIB Headquarters"},
+    image: "/poi-images/luxembourg-eib-headquarters-economic-v2.webp",
     coords: [6.139, 49.621],
     coordinates: { lat: 49.621, lng: 6.139 },
     description: {
@@ -845,9 +821,8 @@ image: "/poi-images/luxembourg-eib-headquarters-economic-v2.webp"
     id: "luxembourg-cfl-multimodal-hub-economic-v2",
     parent: "LU",
     type: "port",
-    name: { de: "CFL Multimodal Logistikzentrum", hu: "CFL Multimodal logisztikai központ", ro: "Centrul logistic CFL Multimodal", en: "CFL Multimodal Logistics Hub",
-image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp"
-},
+    name: { de: "CFL Multimodal Logistikzentrum", hu: "CFL Multimodal logisztikai központ", ro: "Centrul logistic CFL Multimodal", en: "CFL Multimodal Logistics Hub"},
+    image: "/poi-images/luxembourg-cfl-multimodal-hub-economic-v2.webp",
     coords: [6.105, 49.495],
     coordinates: { lat: 49.495, lng: 6.105 },
     description: {
@@ -880,9 +855,8 @@ imageHint: "Freight trains and logistics warehouses in Bettembourg",
     id: "luxembourg-freeport-findel-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Luxembourg Freeport", hu: "Luxemburgi Freeport", ro: "Freeport Luxemburg", en: "Luxembourg Freeport",
-image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp"
-},
+    name: { de: "Luxembourg Freeport", hu: "Luxemburgi Freeport", ro: "Freeport Luxemburg", en: "Luxembourg Freeport"},
+    image: "/poi-images/luxembourg-freeport-findel-economic-v2.webp",
     coords: [6.222, 49.632],
     coordinates: { lat: 49.632, lng: 6.222 },
     description: {
@@ -915,9 +889,8 @@ imageHint: "The modern grey concrete building of the Luxembourg Freeport",
     id: "luxembourg-husky-injection-molding-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "Husky Spritzgießsysteme", hu: "Husky fröccsöntő rendszerek", ro: "Sisteme de injecție Husky", en: "Husky Injection Molding",
-image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp"
-},
+    name: { de: "Husky Spritzgießsysteme", hu: "Husky fröccsöntő rendszerek", ro: "Sisteme de injecție Husky", en: "Husky Injection Molding"},
+    image: "/poi-images/luxembourg-husky-injection-molding-economic-v2.webp",
     coords: [6.125, 49.485],
     coordinates: { lat: 49.485, lng: 6.125 },
     description: {
@@ -950,9 +923,8 @@ imageHint: "Large industrial machinery manufacturing hall of Husky",
     id: "luxembourg-guardian-glass-dudelange-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "Guardian Glass Düdelingen", hu: "Guardian Glass Dudelange", ro: "Guardian Glass Dudelange", en: "Guardian Glass Dudelange",
-image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp"
-},
+    name: { de: "Guardian Glass Düdelingen", hu: "Guardian Glass Dudelange", ro: "Guardian Glass Dudelange", en: "Guardian Glass Dudelange"},
+    image: "/poi-images/luxembourg-guardian-glass-dudelange-economic-v2.webp",
     coords: [6.105, 49.465],
     coordinates: { lat: 49.465, lng: 6.105 },
     description: {
@@ -985,9 +957,8 @@ imageHint: "Large glass sheets moving on a conveyor in a factory",
     id: "luxembourg-euro-composite-echternach-economic-v2",
     parent: "LU",
     type: "factory",
-    name: { de: "Euro-Composite Echternach", hu: "Euro-Composite Echternach", ro: "Euro-Composite Echternach", en: "Euro-Composite Echternach",
-image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp"
-},
+    name: { de: "Euro-Composite Echternach", hu: "Euro-Composite Echternach", ro: "Euro-Composite Echternach", en: "Euro-Composite Echternach"},
+    image: "/poi-images/luxembourg-euro-composite-echternach-economic-v2.webp",
     coords: [6.412, 49.792],
     coordinates: { lat: 49.792, lng: 6.412 },
     description: {
@@ -1020,9 +991,8 @@ imageHint: "Lightweight honeycomb composite panels in a factory",
     id: "luxembourg-iee-contern-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "IEE Hauptsitz Contern", hu: "IEE Székház Contern", ro: "Sediul IEE Contern", en: "IEE Headquarters Contern",
-image: "/poi-images/luxembourg-iee-contern-economic-v2.webp"
-},
+    name: { de: "IEE Hauptsitz Contern", hu: "IEE Székház Contern", ro: "Sediul IEE Contern", en: "IEE Headquarters Contern"},
+    image: "/poi-images/luxembourg-iee-contern-economic-v2.webp",
     coords: [6.225, 49.582],
     coordinates: { lat: 49.582, lng: 6.225 },
     description: {
@@ -1055,9 +1025,8 @@ imageHint: "Modern office and lab building of IEE in Contern",
     id: "luxembourg-fanuc-europe-echternach-economic-v2",
     parent: "LU",
     type: "industry",
-    name: { de: "Fanuc Europe Zentrale", hu: "Fanuc Europe Központ", ro: "Sediul Fanuc Europe", en: "Fanuc Europe Headquarters",
-image: "/poi-images/luxembourg-fanuc-europe-echternach-economic-v2.webp"
-},
+    name: { de: "Fanuc Europe Zentrale", hu: "Fanuc Europe Központ", ro: "Sediul Fanuc Europe", en: "Fanuc Europe Headquarters"},
+    image: "/poi-images/luxembourg-fanuc-europe-echternach-economic-v2.webp",
     coords: [6.402, 49.798],
     coordinates: { lat: 49.798, lng: 6.402 },
     description: {
@@ -1073,5 +1042,17 @@ image: "/poi-images/luxembourg-fanuc-europe-echternach-economic-v2.webp"
       en: ["Central delivery hub for Europe", "Training center for robotics technicians", "Key site for Industry 4.0", "Warehouse for thousands of spare parts"],
     },
     imageHint: "Yellow industrial robots inside a Fanuc showroom",
+    descriptionAdvanced: {
+      de: "Die europäische Zentrale des japanischen Robotik-Riesen Fanuc in Echternach ist das Nervenzentrum für den Vertrieb und die Wartung von Tausenden von Industrierobotern auf dem gesamten Kontinent. Von diesem strategischen Standort aus, der über ein massives Ersatzteillager und ein hochmodernes Schulungszentrum verfügt, koordiniert Fanuc die Logistik und den technischen Support, um die Produktion in unzähligen europäischen Fabriken am Laufen zu halten. Die markanten gelben Roboterarme, die hier für den Einsatz in der Automobil-, Lebensmittel- und Pharmaindustrie vorbereitet werden, sind ein Symbol für die fortschreitende Automatisierung und die zentrale Rolle Luxemburgs in der europäischen Hightech-Lieferkette.",
+      hu: "Az ipari automatizálás japán óriásának, a Fanucnak az európai központja Echternachban található, amely a kontinens ipari robotjainak és CNC-vezérlőinek logisztikai és szolgáltatási csomópontja. Ez a központ nem csupán egy iroda, hanem egy hatalmas raktár- és képzési bázis is, ahonnan a szervizt és az alkatrészellátást irányítják. A sárga robotkarok, amelyek Európa-szerte az autógyárakban és más iparágakban működnek, gyakran innen indulnak útjukra. Az echternachi központ kulcsfontosságú szerepet játszik az Ipar 4.0 koncepció európai elterjedésében, biztosítva a legmodernebb automatizálási technológiák elérhetőségét és támogatását a régióban.",
+      ro: "Sediul european al gigantului japonez de robotică Fanuc, situat în Echternach, este un centru vital pentru distribuția și întreținerea roboților industriali și a sistemelor CNC în întreaga Europă. Acest complex modern nu este doar un sediu administrativ, ci și un hub logistic masiv, cu un depozit extins de piese de schimb și un centru de formare avansat pentru tehnicieni. De aici, Fanuc orchestrează suportul tehnic pentru mii de fabrici, asigurând funcționarea continuă a liniilor de producție. Prezența Fanuc în Echternach subliniază importanța Luxemburgului ca locație strategică pentru companiile de înaltă tehnologie care deservesc piața europeană.",
+      en: "Fanuc's European headquarters in Echternach serves as the critical hub for the Japanese robotics giant's continental operations, coordinating sales, service, and logistics for its iconic yellow industrial robots and CNC systems. This facility is more than just an office; it's a massive logistical nerve center, housing a vast spare parts warehouse and a state-of-the-art training center for technicians from across Europe. The location in Luxembourg is strategic, allowing Fanuc to efficiently support manufacturing industries—from automotive to pharmaceuticals—across the continent, solidifying its role as a key player in the Industry 4.0 revolution and underscoring the Grand Duchy's position as a high-tech logistics crossroads."
+    },
+    factsAdvanced: {
+      de: ["Europäischer Hauptsitz für Vertrieb und Service.", "Umfassendes Schulungszentrum für Roboterprogrammierung.", "Zentrales Ersatzteillager für den ganzen Kontinent.", "Koordiniert den Einsatz von über 400.000 Robotern in Europa.", "Wichtiger Standort für die Implementierung von Industrie 4.0.", "Spezialisiert auf CNC-Steuerungen, Roboter und Roboter-Maschinen.", "Der Standort wurde 1993 gegründet.", "Spielt eine Schlüsselrolle in der Lieferkette der Automobilindustrie."],
+      hu: ["Európai értékesítési és szolgáltatási központ.", "Átfogó képzési központ a robotprogramozáshoz.", "Központi alkatrészraktár az egész kontinens számára.", "Több mint 400 000 robot telepítését koordinálja Európában.", "Fontos helyszín az Ipar 4.0 bevezetéséhez.", "Szakterülete a CNC-vezérlők, robotok és robotgépek.", "A telephelyet 1993-ban alapították.", "Kulcsszerepet játszik az autóipar ellátási láncában."],
+      ro: ["Sediu european pentru vânzări și servicii.", "Centru de formare cuprinzător pentru programarea roboților.", "Depozit central de piese de schimb pentru întregul continent.", "Coordonează implementarea a peste 400.000 de roboți în Europa.", "Locație importantă pentru implementarea Industrie 4.0.", "Specializată în comenzi CNC, roboți și mașini robotizate.", "Amplasamentul a fost înființat în 1993.", "Joacă un rol cheie în lanțul de aprovizionare al industriei auto."],
+      en: ["European headquarters for sales and service.", "Comprehensive training center for robot programming.", "Central spare parts warehouse for the entire continent.", "Coordinates the deployment of over 400,000 robots in Europe.", "Important location for the implementation of Industry 4.0.", "Specializes in CNC controls, robots, and robomachines.", "The site was established in 1993.", "Plays a key role in the automotive industry supply chain."]
+    }
   }
 ];

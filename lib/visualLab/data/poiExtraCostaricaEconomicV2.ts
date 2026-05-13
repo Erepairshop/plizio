@@ -7,9 +7,8 @@ export const poiExtraCostaricaEconomicV2: POI[] = [
     type: "port",
     parent: "CR-LI",
     coords: [-83.0333, 9.9939],
-    name: { de: "Puerto Limón", hu: "Puerto Limón", ro: "Puerto Limón", en: "Puerto Limon",
-image: "/poi-images/puerto-limon-economic-v2.webp"
-},
+    name: { de: "Puerto Limón", hu: "Puerto Limón", ro: "Puerto Limón", en: "Puerto Limon"},
+    image: "/poi-images/puerto-limon-economic-v2.webp",
     description: { de: "Der wichtigste Hafen Costa Ricas an der Karibikküste.", hu: "Costa Rica legfontosabb karibi kikötővárosa, amely az export és a regionális tengeri forgalom egyik fő kapuja. A város afro-karibi hangulata erősen elkülöníti az ország belső területeitől.", ro: "Cel mai important port de la Marea Caraibilor al Costa Ricăi, cu o identitate afro-caraibiană puternică. Este poarta maritimă principală pentru exporturi și pentru traficul din estul țării.", en: "Costa Rica's main Caribbean port and a key export gateway. It is closely tied to container traffic, banana shipments, and coastal logistics." },
     descriptionAdvanced: {
       de: "Puerto Lim?n ist der wichtigste Karibikhafen Costa Ricas und zugleich ein sichtbares Zentrum afrokaribischer Kultur. Der Ort wurde 1854 als Hafenstadt angelegt und wuchs mit der Atlantikbahn, die San Jos? mit der Küste verband. Heute bestimmen Containerverkehr, Bananenexporte und Küstenlogistik das Bild, w?hrend der Oktoberkarneval der Stadt jedes Jahr zusätzliche Aufmerksamkeit verschafft. Zwischen Hafenbecken, Gleisen und Stadtvierteln zeigt Lim?n sehr direkt, wie Handel und Alltag hier zusammengehören. Geografie K8 ? Seehäfen und Exportwege.",
@@ -33,9 +32,8 @@ image: "/poi-images/puerto-limon-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-84.7236, 9.9142],
-    name: { de: "Puerto Caldera", hu: "Puerto Caldera", ro: "Puerto Caldera", en: "Puerto Caldera",
-image: "/poi-images/puerto-caldera-economic-v2.webp"
-},
+    name: { de: "Puerto Caldera", hu: "Puerto Caldera", ro: "Puerto Caldera", en: "Puerto Caldera"},
+    image: "/poi-images/puerto-caldera-economic-v2.webp",
     description: { de: "Der größte Hafen an der Pazifikküste des Landes.", hu: "Az ország legnagyobb kikötője a Csendes-óceán partján.", ro: "Cel mai mare port de la coasta Pacificului a țării.", en: "The largest port on the country's Pacific coast." },
     descriptionAdvanced: {
       de: "Puerto Caldera b?ndelt den Pazifikverkehr Costa Ricas an einem Tiefwasserstandort im Golf von Nicoya. Der Hafen liegt rund 75 Kilometer westlich von San Jos? und ist ein wichtiger Zugang f?r Containerfracht, RoRo-Verkehre und internationale Schiffe. F?r die Wirtschaft der Pazifikküste ist er ein zentraler Umschlagpunkt, weil viele Importgüter von hier aus weiter ins Central Valley fahren. Auch Kreuzfahrtschiffe nutzen den Standort, was den Hafen mit Tourismus und Logistik zugleich verbindet. Geografie K8 ? maritime Infrastruktur und Handel.",
@@ -59,9 +57,8 @@ image: "/poi-images/puerto-caldera-economic-v2.webp"
     type: "industry",
     parent: "CR-LI",
     coords: [-83.0031, 10.0161],
-    name: { de: "Raffinerie Moín", hu: "Moín finomító", ro: "Rafinăria Moín", en: "Moin Refinery",
-image: "/poi-images/refineria-moin-economic-v2.webp"
-},
+    name: { de: "Raffinerie Moín", hu: "Moín finomító", ro: "Rafinăria Moín", en: "Moin Refinery"},
+    image: "/poi-images/refineria-moin-economic-v2.webp",
     description: { de: "Die einzige Erdölraffinerie in Costa Rica.", hu: "Costa Rica egyetlen kőolajfinomítója.", ro: "Singura rafinărie de petrol din Costa Rica.", en: "The only oil refinery in Costa Rica." },
     descriptionAdvanced: {
       de: "Die Raffinerie Mo?n ist die einzige Erdölraffinerie Costa Ricas und damit ein Kernst?ck der nationalen Energieversorgung. Sie liegt an der Karibikküste bei Puerto Lim?n und wird vom staatlichen Unternehmen RECOPE betrieben. Das Gelände ist auf den Empfang, die Lagerung und die Verarbeitung von Roh?l aus dem Ausland ausgerichtet und bleibt trotz zeitweiser Unterbrechungen ein strategischer Knotenpunkt f?r Kraftstoffe. Zwischen Tanks, Hafenanschluss und Küstenindustrie wird besonders deutlich, wie eng Versorgungssicherheit und Importlogistik miteinander verbunden sind. Geografie K8 ? Energieinfrastruktur und industrielle Küstenräume.",
@@ -85,9 +82,8 @@ image: "/poi-images/refineria-moin-economic-v2.webp"
     type: "port",
     parent: "CR-LI",
     coords: [-83.0069, 10.0061],
-    name: { de: "APM Terminals Moín", hu: "APM Terminals Moín", ro: "APM Terminals Moín", en: "APM Terminals Moin",
-image: "/poi-images/terminal-apmt-economic-v2.webp"
-},
+    name: { de: "APM Terminals Moín", hu: "APM Terminals Moín", ro: "APM Terminals Moín", en: "APM Terminals Moin"},
+    image: "/poi-images/terminal-apmt-economic-v2.webp",
     description: { de: "Modernes Container-Terminal für den internationalen Handel.", hu: "Modern konténerterminál a nemzetközi kereskedelem számára.", ro: "Terminal modern de containere pentru comerțul internațional.", en: "Modern container terminal for international trade." },
     descriptionAdvanced: {
       de: "APM Terminals Mo?n gehört zu den gr??ten Infrastrukturprojekten in der Wirtschaftslogik der Karibikküste. Das moderne Containerterminal wurde auf einer k?nstlichen Insel bei Puerto Lim?n errichtet und 2019 eröffnet. Mit seiner Ausstattung f?r große Post-Panamax-Schiffe hat es die Umschlagskapazit?t des Landes spürbar verändert und die Abfertigung von K?hlcontainern verbessert. Besonders die Exportketten von Bananen und Ananas profitieren von schnelleren Abläufen und moderner Technik. Geografie K8 ? globale Lieferketten und Hafenmodernisierung.",
@@ -111,9 +107,8 @@ image: "/poi-images/terminal-apmt-economic-v2.webp"
     type: "industry",
     parent: "CR-C",
     coords: [-83.8967, 9.8700],
-    name: { de: "Industriepark Cartago", hu: "Cartago Iparközpont", ro: "Parc Industrial Cartago", en: "Cartago Industrial Park",
-image: "/poi-images/parque-industrial-cartago-economic-v2.webp"
-},
+    name: { de: "Industriepark Cartago", hu: "Cartago Iparközpont", ro: "Parc Industrial Cartago", en: "Cartago Industrial Park"},
+    image: "/poi-images/parque-industrial-cartago-economic-v2.webp",
     description: { de: "Ein bedeutender Industriestandort für Technologie und Fertigung.", hu: "Jelentős ipari helyszín technológiai és gyártási szektorban.", ro: "Parc industrial din Cartago, orientat spre producție avansată și dispozitive medicale. Locația lui susține legătura dintre forța de muncă specializată și exporturile tehnologice.", en: "A major industrial hub for technology and manufacturing." },
     descriptionAdvanced: {
       de: "Der Industriepark Cartago liegt in einer der traditionsreichsten Städte Costa Ricas und verbindet alte Hauptstadtgeschichte mit moderner Fertigung. Der Standort ist besonders stark in der Herstellung medizinischer Gerște, bei Elektronik und im Gesundheitsbereich. Seine Lage im Umfeld von Cartago und in Reichweite von San Jos? macht ihn f?r hochqualifizierte Arbeitskräfte attraktiv, w?hrend das nahe TEC den technologischen Charakter der Region stützt. So ist der Park ein typisches Beispiel daf?r, wie Ausbildung, Exportindustrie und Stadtentwicklung in Costa Rica zusammenwirken. Geografie K8 ? Industriecluster und Qualifikationsräume.",
@@ -137,9 +132,8 @@ image: "/poi-images/parque-industrial-cartago-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-84.1633, 9.4267],
-    name: { de: "Puerto Quepos", hu: "Puerto Quepos", ro: "Puerto Quepos", en: "Puerto Quepos",
-image: "/poi-images/puerto-quepos-economic-v2.webp"
-},
+    name: { de: "Puerto Quepos", hu: "Puerto Quepos", ro: "Puerto Quepos", en: "Puerto Quepos"},
+    image: "/poi-images/puerto-quepos-economic-v2.webp",
     description: { de: "Hafen für Tourismus und Fischerei am Pazifik.", hu: "A Csendes-óceán partján fekvő kikötő, amely Quepos és Manuel Antonio térségének tengeri bejárata. Inkább turisztikai és sporthorgászati forgalomról ismert, mint nehézáru-rakodásról.", ro: "Portul Quepos este un centru vital pentru turismul și pescuitul sportiv de pe coasta Pacificului. Acesta oferă infrastructură modernă pentru ambarcațiuni și este poarta principală de acces către Parcul Național Manuel Antonio.", en: "Port for tourism and fishing on the Pacific." },
     descriptionAdvanced: {
       de: "Puerto Quepos ist weniger ein Massengüterhafen als ein Ort, an dem Fischerei, Marina und Tourismus ineinandergreifen. Der Hafen dient als Ausgangspunkt f?r Sportfischen, maritime Ausflüge und die Erreichbarkeit des Nationalparks Manuel Antonio. Damit ist er eng mit der wirtschaftlichen Identit?t des zentralen Pazifiks verbunden, wo Küstenjobs stark vom Besucheraufkommen abh?ngen. Zwischen Bootsverkehr, Servicebetrieben und Küstenhandel zeigt Quepos, wie ein kleiner Hafen eine ganze Region tragen kann. Geografie K8 ? Küstentourismus und maritime Dienstleistungen.",
@@ -164,9 +158,8 @@ image: "/poi-images/puerto-quepos-economic-v2.webp"
     type: "industry",
     parent: "CR-H",
     coords: [-84.1200, 10.0000],
-    name: { de: "Zona Franca Heredia", hu: "Heredia Szabadkereskedelmi Zóna", ro: "Zona Francă Heredia", en: "Heredia Free Trade Zone",
-image: "/poi-images/zona-franca-heredia-economic-v2.webp"
-},
+    name: { de: "Zona Franca Heredia", hu: "Heredia Szabadkereskedelmi Zóna", ro: "Zona Francă Heredia", en: "Heredia Free Trade Zone"},
+    image: "/poi-images/zona-franca-heredia-economic-v2.webp",
     description: { de: "Ein Gebiet mit steuerlichen Vorteilen für exportorientierte Unternehmen.", hu: "Terület adókedvezményekkel az exportorientált cégek számára.", ro: "Zonă cu avantaje fiscale pentru companiile orientate spre export.", en: "Area with fiscal advantages for export-oriented businesses." },
     descriptionAdvanced: {
       de: "Die Zona Franca Heredia gehört zu den bekanntesten Freihandelsstandorten des Landes und zeigt, wie stark Costa Rica auf Dienstleistungen und Hightech setzt. In Heredia haben sich mehrere internationale Konzerne angesiedelt, die Software, Support, Backoffice-Prozesse und andere wissensintensive T?tigkeiten b?ndeln. Der Standort profitiert von der N?he zu Fachkräften aus dem Central Valley und von der guten Erreichbarkeit zwischen San Jos? und Alajuela. F?r die Region ist die Zone ein Symbol daf?r, dass Exporte nicht nur aus Waren, sondern auch aus Know-how bestehen k?nnen. Geografie K8 ? Investitionen und digitale Dienstleistungen.",
@@ -190,9 +183,8 @@ image: "/poi-images/zona-franca-heredia-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-84.8333, 9.9833],
-    name: { de: "Puerto Puntarenas", hu: "Puerto Puntarenas", ro: "Puerto Puntarenas", en: "Puerto Puntarenas",
-image: "/poi-images/terminal-punta-arenas-economic-v2.webp"
-},
+    name: { de: "Puerto Puntarenas", hu: "Puerto Puntarenas", ro: "Puerto Puntarenas", en: "Puerto Puntarenas"},
+    image: "/poi-images/terminal-punta-arenas-economic-v2.webp",
     description: { de: "Ein wichtiger Knotenpunkt für den Schiffsverkehr und Tourismus an der Pazifikküste Costa Ricas.", hu: "Jelentős kikötő és kiindulópont az óceánjáró hajók számára.", ro: "Terminalul de feribot din Puntarenas este un punct strategic pentru transportul de pasageri și vehicule către Peninsula Nicoya. Acesta facilitează comerțul regional și mișcarea turistică între coasta centrală și cea nordică.", en: "A significant port and departure point for cruise ships." },
     descriptionAdvanced: {
       de: "Das Terminal in Punta Arenas erinnert daran, dass die Pazifikküste Costa Ricas früher ganz anders organisiert war. Der Standort am Golf von Nicoya war lange Zeit ein zentraler Knotenpunkt f?r den Kaffeeexport und entwickelte sich später zu einem regionalen Verkehrspunkt f?r Inseln, Küstenorte und den Tourismus. Heute ist er vor allem als historischer Hafen im kollektiven Gedächtnis präsent, weil sich hier frühe Wirtschaftsstr?me des Landes b?ndeln ließen. Der Ort macht sichtbar, wie stark sich die Hafenfunktion im Lauf der Zeit verschoben hat. Geografie K8 ? historische Hafenräume und regionale Mobilit?t.",
@@ -217,9 +209,8 @@ image: "/poi-images/terminal-punta-arenas-economic-v2.webp"
     type: "industry",
     parent: "CR-G",
     coords: [-85.1833, 10.6833],
-    name: { de: "Geothermiekraftwerk Miravalles", hu: "Miravalles Geotermikus Erőmű", ro: "Centrala Geotermală Miravalles", en: "Miravalles Geothermal Power Plant",
-image: "/poi-images/planta-energia-miravalles-economic-v2.webp"
-},
+    name: { de: "Geothermiekraftwerk Miravalles", hu: "Miravalles Geotermikus Erőmű", ro: "Centrala Geotermală Miravalles", en: "Miravalles Geothermal Power Plant"},
+    image: "/poi-images/planta-energia-miravalles-economic-v2.webp",
     description: { de: "Wichtige Quelle für erneuerbare Energie durch Geothermie.", hu: "Fontos megújuló energiaforrás geotermikus energia révén.", ro: "Sursă importantă de energie regenerabilă prin geotermie.", en: "Important source of renewable energy through geothermal power." },
     descriptionAdvanced: {
       de: "Die Energieanlage Miravalles nutzt die geothermische Kraft eines aktiven Vulkanraums in Guanacaste und ist damit ein Schlüsselbaustein der erneuerbaren Stromerzeugung des Landes. Seit 1994 liefert sie stabile Grundlast und reduziert die Abhängigkeit von fossilen Energieträgern. Gerade in einem Land mit starkem Nachhaltigkeitsprofil hat Miravalles eine doppelte Funktion: technische Versorgung und klimapolitisches Signal. Die Anlage zeigt, wie Vulkangeologie direkt in nationale Infrastruktur ?bersetzt werden kann. Geografie K8 ? erneuerbare Energie und Naturressourcen.",
@@ -243,9 +234,8 @@ image: "/poi-images/planta-energia-miravalles-economic-v2.webp"
     type: "industry",
     parent: "CR-S",
     coords: [-84.1000, 9.9500],
-    name: { de: "Industriepark La Uruca", hu: "La Uruca Iparközpont", ro: "Parc Industrial La Uruca", en: "La Uruca Industrial Park",
-image: "/poi-images/parque-industrial-la-ureca-economic-v2.webp"
-},
+    name: { de: "Industriepark La Uruca", hu: "La Uruca Iparközpont", ro: "Parc Industrial La Uruca", en: "La Uruca Industrial Park"},
+    image: "/poi-images/parque-industrial-la-ureca-economic-v2.webp",
     description: { de: "Ein bedeutender industrieller Standort in San José.", hu: "San José déli részén elhelyezkedő ipari park, amely fontos logisztikai és gyártási központ a fővárosi régióban.", ro: "Un sit industrial semnificativ în San José.", en: "A significant industrial zone located in San José, hosting various manufacturing and logistics companies." },
     descriptionAdvanced: {
       de: "Der Parque Industrial La Ureca steht f?r die eher stille, aber wichtige Seite der costa-ricanischen Produktionslandschaft. Hier geht es weniger um große Schlagzeilen als um kleine und mittlere Unternehmen, regionale Besch?ftigung und kurze Wege zu lokalen Märkten. Die Lage im Central Valley verschafft dem Standort gute Logistik und eine stabile Einbindung in den Wirtschaftsraum rund um San Jos?. Genau solche Parks halten viele Lieferketten im Alltag am Laufen, ohne im ?ffentlichen Blick zu stehen. Geografie K8 ? regionale Produktion und Standortentwicklung.",
@@ -269,9 +259,8 @@ image: "/poi-images/parque-industrial-la-ureca-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-84.8833, 9.9167],
-    name: { de: "Fährterminal Puntarenas-Naranjo", hu: "Puntarenas-Naranjo Faterminál", ro: "Terminal Feribot Puntarenas-Naranjo", en: "Puntarenas-Naranjo Ferry Terminal",
-image: "/poi-images/terminal-ferry-nicoya-economic-v2.webp"
-},
+    name: { de: "Fährterminal Puntarenas-Naranjo", hu: "Puntarenas-Naranjo Faterminál", ro: "Terminal Feribot Puntarenas-Naranjo", en: "Puntarenas-Naranjo Ferry Terminal"},
+    image: "/poi-images/terminal-ferry-nicoya-economic-v2.webp",
     description: { de: "Die zentrale Fährverbindung zwischen Puntarenas und der Halbinsel Nicoya für Personen und Fahrzeuge.", hu: "A Golfo de Nicoya kompforgalmának egyik fontos part menti terminálja, amely a félsziget és a szárazföld közti közlekedést szolgálja. Fő szerepe az utas- és járműátkelés gyorsítása.", ro: "Terminalul de ferry din zona Nicoya leagă coasta de peninsula Nicoya peste Golful Nicoya. Reduce mult timpul de deplasare față de traseele ocolitoare.", en: "Important ferry link between the mainland and the Nicoya Peninsula." },
     descriptionAdvanced: {
       de: "Das F?hrterminal Nicoya ist die praktische Verbindung zwischen dem Festland und der Nicoya-Halbinsel. ?ber den Golf von Nicoya laufen hier t?gliche Fahrten, die Pendler, Waren, Touristen und regionale Logistik zusammenbringen. Gerade f?r die Mobilit?t im Nordwesten des Landes ist dieser Knotenpunkt unverzichtbar, weil er Straßenwege verkürzt und den Verkehr zwischen Provinzen stabilisiert. Das Terminal zeigt, dass Infrastruktur nicht nur aus großen H?fen besteht, sondern auch aus verlässlichen ?bergängen im Alltag. Geografie K8 ? regionale Verkehrsknoten und Küstenmobilit?t.",
@@ -295,9 +284,8 @@ image: "/poi-images/terminal-ferry-nicoya-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-83.1667, 8.6500],
-    name: { de: "Puerto Golfito", hu: "Puerto Golfito", ro: "Puerto Golfito", en: "Puerto Golfito",
-image: "/poi-images/puerto-golfito-economic-v2.webp"
-},
+    name: { de: "Puerto Golfito", hu: "Puerto Golfito", ro: "Puerto Golfito", en: "Puerto Golfito"},
+    image: "/poi-images/puerto-golfito-economic-v2.webp",
     description: { de: "Ein ehemaliger Bananenhafen im Süden des Landes, der heute als Freihandelszone und Jachthafen dient.", hu: "Golfito-öbölben működő déli csendes-óceáni kikötő, amely közel van a panamai határhoz. Fontos logisztikai pont a térség kereskedelmében és hajóforgalmában.", ro: "Portul Golfito, situat în Golfo Dulce, este renumit pentru zona sa comercială fără taxe și importanța sa istorică în exportul de banane. Astăzi servește ca un hub important pentru aprovizionarea și turismul din sudul țării.", en: "Historic port in the south of the country." },
     descriptionAdvanced: {
       de: "Puerto Golfito verbindet einen tiefen Naturhafen mit einer ungewöhnlichen Handelsgeschichte. Der Ort am Golfo Dulce war lange eng mit den Bananenunternehmen des S?dens verknüpft und besitzt bis heute eine besondere wirtschaftliche Funktion durch die Freizone und den regionalen Handel. Gleichzeitig liegt er an einer Schnittstelle zu empfindlichen ?kosystemen des s?dlichen Pazifiks. Dadurch entstehen hier sehr direkte Beziehungen zwischen Wirtschaft, Küste und Naturräumen. Geografie K8 ? historische H?fen und s?dliche Küstenwirtschaft.",
@@ -321,9 +309,8 @@ image: "/poi-images/puerto-golfito-economic-v2.webp"
     type: "industry",
     parent: "CR-C",
     coords: [-83.9000, 9.8700],
-    name: { de: "Zona Franca Cartago", hu: "Cartago Szabadkereskedelmi Zóna", ro: "Zona Francă Cartago", en: "Zona Franca Cartago",
-image: "/poi-images/zona-franca-cartago-economic-v2.webp"
-},
+    name: { de: "Zona Franca Cartago", hu: "Cartago Szabadkereskedelmi Zóna", ro: "Zona Francă Cartago", en: "Zona Franca Cartago"},
+    image: "/poi-images/zona-franca-cartago-economic-v2.webp",
     description: { de: "Industrielles Freihandelsgebiet in Cartago.", hu: "Cartago egyik meghatározó szabadkereskedelmi és ipari övezete, ahol a gyártás és az exportorientált logisztika találkozik. A tartomány képzett munkaereje miatt régóta vonzza a vállalatokat.", ro: "Zonă industrială de liber schimb în Cartago.", en: "Industrial free trade zone in Cartago." },
     descriptionAdvanced: {
       de: "Die Zona Franca Cartago nutzt den Standortvorteil einer traditionsreichen Provinz und verbindet ihn mit moderner Industrie. Besonders wichtig sind dort fortgeschrittene Fertigung, technische Dienstleistungen und die N?he zu Bildungs- und Forschungseinrichtungen. Cartago ist f?r viele Unternehmen attraktiv, weil hier Fachkräfte, Infrastruktur und Exportorientierung zusammenkommen. So entsteht ein Standort, an dem nicht nur produziert, sondern auch technologisches Wissen gebündelt wird. Geografie K8 ? Hightech-Fertigung und Standortnetzwerke.",
@@ -347,9 +334,8 @@ image: "/poi-images/zona-franca-cartago-economic-v2.webp"
     type: "industry",
     parent: "CR-A",
     coords: [-84.8000, 10.5000],
-    name: { de: "Sandillal Wasserkraftwerk", hu: "Sandillal Vízerőmű", ro: "Hidrocentrala Sandillal", en: "Sandillal Hydroelectric Plant",
-image: "/poi-images/planta-energia-sandillal-economic-v2.webp"
-},
+    name: { de: "Sandillal Wasserkraftwerk", hu: "Sandillal Vízerőmű", ro: "Hidrocentrala Sandillal", en: "Sandillal Hydroelectric Plant"},
+    image: "/poi-images/planta-energia-sandillal-economic-v2.webp",
     description: { de: "Wasserkraftwerk in der Arenal-Region.", hu: "Guanacaste tartományban található vízerőmű, amely a Corobicí folyó vizét hasznosítja elektromos áram termelésére.", ro: "Hidrocentrală în regiunea Arenal.", en: "Hydroelectric power plant in the Arenal region." },
     descriptionAdvanced: {
       de: "Die Anlage Sandillal steht f?r die ruhige, aber sehr wirksame Seite der Wasserkraft in Costa Rica. Als Teil der erneuerbaren Stromversorgung hilft sie, das Netz zu stabilisieren und regionale Nachfrage zuverlässig zu decken. Der Standort zeigt, wie Wasserressourcen technisch so genutzt werden k?nnen, dass Versorgungssicherheit und Nachhaltigkeit zusammenlaufen. In einem Land, das seinen Strommix stark auf erneuerbare Quellen stützt, hat Sandillal damit eine wichtige systemische Rolle. Geografie K8 ? Wasserkraft und Netzstabilit?t.",
@@ -373,9 +359,8 @@ image: "/poi-images/planta-energia-sandillal-economic-v2.webp"
     type: "port",
     parent: "CR-LI",
     coords: [-83.3500, 10.2167],
-    name: { de: "Puerto Matina", hu: "Puerto Matina", ro: "Puerto Matina", en: "Puerto Matina",
-image: "/poi-images/puerto-matina-economic-v2.webp"
-},
+    name: { de: "Puerto Matina", hu: "Puerto Matina", ro: "Puerto Matina", en: "Puerto Matina"},
+    image: "/poi-images/puerto-matina-economic-v2.webp",
     description: { de: "Kleinerer Hafen an der Karibikküste für lokale Güter.", hu: "Matina karibi kikötője Costa Rica korai tengeri kereskedelmének egyik történeti pontja. A környék a kakaótermeléshez és az atlanti partvidékhez is kötődik.", ro: "Port mai mic la coasta Caraibilor pentru bunuri locale.", en: "Smaller port on the Caribbean coast for local goods." },
     descriptionAdvanced: {
       de: "Puerto Matina ist ein eher regionaler Umschlagplatz, dessen Bedeutung vor allem aus der Landwirtschaft kommt. In den Ebenen der Provinz Lim?n werden hier Ernten gesammelt, verteilt und in die großen Handelsströme eingespeist. Der Ort zeigt, wie wichtig kleinere Hafen- und Logistikknoten f?r l?ndliche Produzenten sind, wenn diese ihre Ware zuverlässig auf den Markt bringen wollen. Zwischen Feldern, Küstenwegen und Verteilpunkten entsteht so ein funktionaler, sehr bodennaher Wirtschaftsraum. Geografie K8 ? Agrarlogistik und regionale Verteilung.",
@@ -400,9 +385,8 @@ image: "/poi-images/puerto-matina-economic-v2.webp"
     type: "industry",
     parent: "CR-A",
     coords: [-84.2500, 10.0000],
-    name: { de: "Zona Franca El Coyol", hu: "El Coyol Szabadkereskedelmi Zóna", ro: "Zona Francă El Coyol", en: "El Coyol Free Trade Zone",
-image: "/poi-images/zona-franca-el-coyol-economic-v2.webp"
-},
+    name: { de: "Zona Franca El Coyol", hu: "El Coyol Szabadkereskedelmi Zóna", ro: "Zona Francă El Coyol", en: "El Coyol Free Trade Zone"},
+    image: "/poi-images/zona-franca-el-coyol-economic-v2.webp",
     description: { de: "Einer der modernsten und größten Industrieparks für Medizintechnik in Lateinamerika.", hu: "Az alajuelai Coyol térségében fekvő modern ipari és szabadkereskedelmi övezet, amely főleg orvostechnikai és gyártó cégeket vonz. Costa Rica egyik legerősebb exportklaszterének része.", ro: "Zona Francă El Coyol este cel mai mare parc industrial dedicat dispozitivelor medicale din America Centrală. Aceasta găzduiește numeroase corporații multinaționale și este un pilon esențial al exporturilor de înaltă tehnologie din Costa Rica.", en: "The leading high-tech industrial park in Costa Rica, specializing in the life sciences and medical device industry." },
     descriptionAdvanced: {
       de: "El Coyol z?hlt zu den wichtigsten Industrie- und Freizonenstandorten des Landes, wenn es um Medizintechnik geht. Die N?he zum internationalen Flughafen und die gute Logistik machen den Ort besonders attraktiv f?r globale Hersteller und pharmazeutische Unternehmen. Hier entstehen hochwertige Arbeitsplätze, die stark auf Präzision, Qualitätskontrolle und Exportf?higkeit ausgerichtet sind. El Coyol zeigt damit sehr klar, wie eng moderne Industrie in Costa Rica mit internationalen Lieferketten verbunden ist. Geografie K8 ? Medizintechnik und Exportfertigung.",
@@ -426,9 +410,8 @@ image: "/poi-images/zona-franca-el-coyol-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-83.0500, 5.5333],
-    name: { de: "Puerto Cocos (Isla del Coco)", hu: "Puerto Cocos (Kókusz-sziget)", ro: "Puerto Cocos (Insula Cocos)", en: "Puerto Cocos (Cocos Island)",
-image: "/poi-images/puerto-cocos-economic-v2.webp"
-},
+    name: { de: "Puerto Cocos (Isla del Coco)", hu: "Puerto Cocos (Kókusz-sziget)", ro: "Puerto Cocos (Insula Cocos)", en: "Puerto Cocos (Cocos Island)"},
+    image: "/poi-images/puerto-cocos-economic-v2.webp",
     description: { de: "Ein kleinerer Hafenstandort, der primär der lokalen Fischerei und dem regionalen Transport dient.", hu: "A Csendes-óceáni partvidéken található kikötőhely, amely elsősorban a helyi halászat és a tengeri áruszállítás számára fontos.", ro: "Acest punct de acces maritim deservește comunitatea de coastă și activitățile recreative din zona Playa del Coco. Este un centru important pentru navigația de agrement, scufundări și transport local către Insula Cocos.", en: "A protected anchorage on the remote Cocos Island." },
     descriptionAdvanced: {
       de: "Puerto Cocos ist ein kleiner Küstenanleger, dessen Bedeutung aus N?he und Alltag entsteht, nicht aus Gr??e. Der Ort unterstützt lokalen Handel, Küstenverkehr und die Verbindung zwischen Gemeinden, die auf kurze maritime Wege angewiesen sind. Gerade solche einfachen Anlagen machen regionale Wirtschaft erst praktikabel, weil sie Fahrzeiten verkürzen und Märkte erreichbar halten. Puerto Cocos steht deshalb f?r die eher unscheinbare, aber funktionale Seite der Küsteninfrastruktur. Geografie K8 ? kleine Hafenorte und lokale Vernetzung.",
@@ -452,9 +435,8 @@ image: "/poi-images/puerto-cocos-economic-v2.webp"
     type: "industry",
     parent: "CR-S",
     coords: [-84.0500, 9.9000],
-    name: { de: "Windpark Valle Central", hu: "Valle Central Szélpark", ro: "Parc Eolian Valle Central", en: "Valle Central Wind Farm",
-image: "/poi-images/planta-energia-valle-central-economic-v2.webp"
-},
+    name: { de: "Windpark Valle Central", hu: "Valle Central Szélpark", ro: "Parc Eolian Valle Central", en: "Valle Central Wind Farm"},
+    image: "/poi-images/planta-energia-valle-central-economic-v2.webp",
     description: { de: "Ein bedeutendes Kraftwerk zur Stromversorgung des dicht besiedelten Zentraltals Costa Ricas.", hu: "A központi völgyben üzemelő energetikai létesítmény, amely szélenergiát vagy egyéb megújuló forrásokat hasznosít a lakosság ellátására.", ro: "Un projekt semnificativ pentru energia eoliană în Valea Centrală.", en: "An essential power generation facility providing renewable energy to the densely populated Central Valley region." },
     descriptionAdvanced: {
       de: "Die Energieanlage im Valle Central versorgt das wirtschaftliche Herz Costa Ricas mit Strom und stützt damit einen großen Teil von Industrie und Stadtleben. Hier wird besonders deutlich, dass Energieinfrastruktur nicht nur eine technische Frage ist, sondern die Grundlage f?r Produktionsketten, Verkehr und Alltagsversorgung. Weil das Central Valley die dichteste Wirtschaftszone des Landes bildet, hat jede Verbesserung bei ?bertragung und Zuverl?ssigkeit unmittelbare Wirkung. Die Anlage ist somit ein stiller, aber zentraler Baustein der nationalen Stabilit?t. Geografie K8 ? urbane Energieversorgung und Netzsysteme.",
@@ -478,9 +460,8 @@ image: "/poi-images/planta-energia-valle-central-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-83.5000, 8.4000],
-    name: { de: "Puerto Balboa (Golfito)", hu: "Puerto Balboa (Golfito)", ro: "Puerto Balboa (Golfito)", en: "Puerto Balboa (Golfito)",
-image: "/poi-images/terminal-puerto-balboa-economic-v2.webp"
-},
+    name: { de: "Puerto Balboa (Golfito)", hu: "Puerto Balboa (Golfito)", ro: "Puerto Balboa (Golfito)", en: "Puerto Balboa (Golfito)"},
+    image: "/poi-images/terminal-puerto-balboa-economic-v2.webp",
     description: { de: "Ein kleiner Terminal für maritime Logistik im Süden.", hu: "Kereskedelmi és teherkikötői terminál, amely a tengeri logisztika és az export-import folyamatok egyik kulcsfontosságú pontja.", ro: "Terminalul Balboa este un nod maritim major la intrarea pacifică a Canalului Panama. Pentru rutele regionale, el este un punct important de transbord și logistică.", en: "A small maritime terminal in the southern Pacific area. It supports local transport, cargo handling, and regional sea access." },
     descriptionAdvanced: {
       de: "Puerto Balboa ist ein kleinerer maritimer Knoten, der regionale Handelsströme und Küstenaktivit?t zusammenführt. Sein Wert liegt weniger in Gr??e als in Funktion: Er ergänzt die maritime Infrastruktur, stärkt lokale Logistik und h?lt den Warenfluss entlang der Küste flexibel. Solche Orte zeigen, dass wirtschaftliche Entwicklung in Costa Rica häufig aus einem Netz kleinerer Verbindungen besteht und nicht nur aus wenigen Großanlagen. Geografie K8 ? regionale Hafeninfrastruktur und Küstenentwicklung.",
@@ -505,9 +486,8 @@ image: "/poi-images/terminal-puerto-balboa-economic-v2.webp"
     type: "industry",
     parent: "CR-C",
     coords: [-83.9200, 9.8500],
-    name: { de: "Zona Franca La Negrita", hu: "La Negrita Szabadkereskedelmi Zóna", ro: "Zona Francă La Negrita", en: "La Negrita Free Trade Zone",
-image: "/poi-images/zona-franca-la-negrita-economic-v2.webp"
-},
+    name: { de: "Zona Franca La Negrita", hu: "La Negrita Szabadkereskedelmi Zóna", ro: "Zona Francă La Negrita", en: "La Negrita Free Trade Zone"},
+    image: "/poi-images/zona-franca-la-negrita-economic-v2.webp",
     description: { de: "Ein spezialisierter Industriepark, der Unternehmen aus verschiedenen Fertigungsbereichen attraktive Bedingungen bietet.", hu: "Cartago egyik modern szabadkereskedelmi övezete, amely gyártásra és exportra épül. A keleti Központi-völgy fontos üzleti címe.", ro: "Parc industrial axat pe producție și export în Cartago.", en: "A strategic free trade zone providing infrastructure for international businesses and export-oriented manufacturing." },
     descriptionAdvanced: {
       de: "La Negrita ist als Freizone auf internationale Firmen und Investitionen ausgerichtet und profitiert von ihrer guten Einbindung in das kommerzielle Umfeld der Region. Der Standort steht f?r eine Wirtschaft, die nicht nur produziert, sondern auch Kapital, Management und Dienstleistungen anzieht. Gerade solche Zonen sind in Costa Rica wichtig, weil sie Jobs diversifizieren und internationale Verbindungen stärken. La Negrita zeigt damit die Verbindung zwischen Standortpolitik und globalem Interesse sehr direkt. Geografie K8 ? Investitionsstandorte und Unternehmenscluster.",
@@ -532,9 +512,8 @@ image: "/poi-images/zona-franca-la-negrita-economic-v2.webp"
     type: "port",
     parent: "CR-LI",
     coords: [-83.1000, 10.0500],
-    name: { de: "Puerto Cito", hu: "Puerto Cito", ro: "Puerto Cito", en: "Puerto Cito",
-image: "/poi-images/puerto-cito-economic-v2.webp"
-},
+    name: { de: "Puerto Cito", hu: "Puerto Cito", ro: "Puerto Cito", en: "Puerto Cito"},
+    image: "/poi-images/puerto-cito-economic-v2.webp",
     description: { de: "Ein lokaler Hafenpunkt an der Pazifikküste, der für den regionalen Güterumschlag genutzt wird.", hu: "Kisebb tengeri kikötő, amely a helyi vízi közlekedést és a part menti gazdasági tevékenységeket támogatja.", ro: "Puerto Cito este o mică zonă de coastă de pe Costa Ballena, la sud de Dominical. Este cunoscută pentru poziția ei liniștită lângă plaje și natură.", en: "A coastal port facility supporting local maritime trade and the regional economy through logistics services." },
     descriptionAdvanced: {
       de: "Puerto Cito ist ein kleiner, aber f?r die Karibikküste unverzichtbarer Anleger, an dem der Alltag der Küstengemeinden sichtbar wird. Hier geht es vor allem um handwerkliche Fischerei, kurze Wege zum Markt und kleine Wasserfahrzeuge, die den lokalen Verkehr tragen. Im Gegensatz zu den großen H?fen wirkt der Ort ruhig und direkt, fast wie ein offenes Arbeitszimmer am Meer. Gerade diese Einfachheit macht ihn wertvoll, weil viele Bewohner ihre Versorgung und ihren Verkauf auf solche Punkte stützen. Geografie K8 ? kleine H?fen und lokale Versorgungsketten.",
@@ -558,9 +537,8 @@ image: "/poi-images/puerto-cito-economic-v2.webp"
     type: "industry",
     parent: "CR-A",
     coords: [-84.2800, 10.0100],
-    name: { de: "Zona Franca Saret", hu: "Saret Szabadkereskedelmi Zóna", ro: "Zona Francă Saret", en: "Saret Free Trade Zone",
-image: "/poi-images/zona-franca-saret-economic-v2.webp"
-},
+    name: { de: "Zona Franca Saret", hu: "Saret Szabadkereskedelmi Zóna", ro: "Zona Francă Saret", en: "Saret Free Trade Zone"},
+    image: "/poi-images/zona-franca-saret-economic-v2.webp",
     description: { de: "Ein etablierter Freihandelsbereich in Alajuela, der auf Fertigung und Logistik spezialisiert ist.", hu: "A Saret szabadkereskedelmi övezet Costa Rica ipari és logisztikai hálózatának része. Olyan cégeknek ad helyet, amelyek exporthoz kötött gyártással vagy szolgáltatásokkal dolgoznak.", ro: "Parc industrial pentru producție lângă Alajuela.", en: "One of the oldest free trade zones in Alajuela, offering a variety of industrial and warehouse spaces." },
     descriptionAdvanced: {
       de: "Die Zona Franca Saret in Alajuela verbindet Industrieproduktion mit Luftfrachtlogistik und ist deshalb f?r viele Unternehmen attraktiv. Durch die N?he zum internationalen Flughafen Juan Santamar?a k?nnen elektronische Komponenten, Lebensmitteltechnik und andere exportorientierte Produkte schnell verteilt werden. Der Standort verfügt ?ber moderne Kommunikation, stabile Energieversorgung und eine Infrastruktur, die sowohl große Firmen als auch kleinere Zulieferer anzieht. So entsteht ein funktionierendes Gewerbe?kosystem, das auf Geschwindigkeit und Zuverl?ssigkeit ausgelegt ist. Geografie K8 ? Luftlogistik und Industrieentwicklung.",
@@ -585,9 +563,8 @@ image: "/poi-images/zona-franca-saret-economic-v2.webp"
     type: "port",
     parent: "CR-P",
     coords: [-84.5000, 9.8000],
-    name: { de: "Puerto Villas", hu: "Puerto Villas", ro: "Puerto Villas", en: "Puerto Villas",
-image: "/poi-images/terminal-puerto-villas-economic-v2.webp"
-},
+    name: { de: "Puerto Villas", hu: "Puerto Villas", ro: "Puerto Villas", en: "Puerto Villas"},
+    image: "/poi-images/terminal-puerto-villas-economic-v2.webp",
     description: { de: "Kleiner Hafen für den regionalen Handel im Pazifik.", hu: "Kis csendes-óceáni terminál, amely a regionális áruszállítást és a parti logisztikát segíti. Főleg a környékbeli közösségek mindennapi kapcsolatait támogatja.", ro: "Port mai mic pentru comerțul regional în Pacific.", en: "A maritime terminal facility focused on handling specialized shipments and supporting regional port operations." },
     descriptionAdvanced: {
       de: "Puerto Villas ist ein kleiner Pazifikhafen mit klar regionaler Aufgabe. Er versorgt landwirtschaftliche Betriebe und Fischer, die wegen schwieriger Straßenverbindungen oft auf den Wasserweg angewiesen sind. Der Ort wirkt bewusst unverstellt: traditionelle Boote, einfache Stege und handwerkliche Reparaturen gehören hier noch zum Bild. Zugleich ?ffnen sich in der Umgebung langsam M?glichkeiten f?r ?kotourismus, weil Buchten und Inseln mit viel Natur direkt erreichbar bleiben. Geografie K8 ? kleine Küstenh?fen und regionale Wirtschaft.",
@@ -611,9 +588,8 @@ image: "/poi-images/terminal-puerto-villas-economic-v2.webp"
     type: "industry",
     parent: "CR-H",
     coords: [-84.0500, 10.2000],
-    name: { de: "Wasserkraftwerk Don Pedro", hu: "Don Pedro Vízerőmű", ro: "Hidrocentrala Don Pedro", en: "Don Pedro Hydroelectric Plant",
-image: "/poi-images/planta-energia-don-pedro-economic-v2.webp"
-},
+    name: { de: "Wasserkraftwerk Don Pedro", hu: "Don Pedro Vízerőmű", ro: "Hidrocentrala Don Pedro", en: "Don Pedro Hydroelectric Plant"},
+    image: "/poi-images/planta-energia-don-pedro-economic-v2.webp",
     description: { de: "Ein Wasserkraftwerk, das die natürlichen Ressourcen Costa Ricas zur nachhaltigen Energiegewinnung nutzt.", hu: "Don Pedro vízerőmű, amely Costa Rica zöldenergia-stratégiájának részeként hozzájárul az ország szén-dioxid-mentes áramellátásához.", ro: "Planta Don Pedro este o centrală hidroelectrică mică, dar importantă pentru rețeaua energetică locală. Ea arată rolul energiei regenerabile în mixul costarican.", en: "A hydroelectric power plant in Heredia." },
     descriptionAdvanced: {
       de: "Das Wasserkraftwerk Don Pedro nutzt die Flüsse und die bergige Landschaft von Heredia, um saubere Energie f?r die Region zu erzeugen. Als Laufwasserkraftwerk braucht es keine großen Stauseen und h?lt den Eingriff in die Umgebung vergleichsweise gering. Dadurch l?sst sich Strom gewinnen, ohne das landschaftliche und ?kologische Umfeld unnötig zu belasten. F?r die wachsende Nachfrage von Gemeinden und Gewerbe im Norden des Central Valley ist die Anlage ein verlässlicher Baustein. Geografie K7 ? Wasserkraft und Umweltverträglichkeit.",
@@ -637,9 +613,8 @@ image: "/poi-images/planta-energia-don-pedro-economic-v2.webp"
     type: "industry",
     parent: "CR-H",
     coords: [-84.1000, 10.0200],
-    name: { de: "Zona Franca BES", hu: "BES Szabadkereskedelmi Zóna", ro: "Zona Francă BES", en: "BES Free Trade Zone",
-image: "/poi-images/zona-franca-bes-economic-v2.webp"
-},
+    name: { de: "Zona Franca BES", hu: "BES Szabadkereskedelmi Zóna", ro: "Zona Francă BES", en: "BES Free Trade Zone"},
+    image: "/poi-images/zona-franca-bes-economic-v2.webp",
     description: { de: "Freihandelszone für Dienstleistungen und Tech.", hu: "Szabadkereskedelmi övezet szolgáltatások és technológia számára.", ro: "Zona Francă BES este un parc industrial modern care oferă facilități logistice și de producție pentru companii internaționale. Amplasarea sa strategică facilitează distribuția rapidă a mărfurilor către porturi și aeroporturi.", en: "A business and technology park designed to accommodate global service centers and light manufacturing." },
     descriptionAdvanced: {
       de: "Die Zona Franca BES in Heredia richtet sich an Unternehmen, die digitale Dienstleistungen und internationale Geschäftsprozesse b?ndeln wollen. Der Standort ist auf Shared-Service-Zentren, Softwarefirmen und moderne B?roarbeit zugeschnitten und bietet daf?r redundante Netzwerke, stabile Energie und eine gut erreichbare Lage im Central Valley. F?r junge Fachkräfte ist das Umfeld attraktiv, weil Arbeitsplätze, Serviceangebote und Grünflächen bewusst zusammen gedacht wurden. BES zeigt damit, wie Costa Rica sich im Wettbewerb um Wissensarbeit positioniert. Geografie K8 ? digitale Exporte und moderne B?rocampus.",
@@ -664,9 +639,8 @@ image: "/poi-images/zona-franca-bes-economic-v2.webp"
     type: "port",
     parent: "CR-LI",
     coords: [-83.2500, 10.1500],
-    name: { de: "Puerto Cacao", hu: "Puerto Cacao", ro: "Puerto Cacao", en: "Puerto Cacao",
-image: "/poi-images/puerto-cacao-economic-v2.webp"
-},
+    name: { de: "Puerto Cacao", hu: "Puerto Cacao", ro: "Puerto Cacao", en: "Puerto Cacao"},
+    image: "/poi-images/puerto-cacao-economic-v2.webp",
     description: { de: "Ein historisch gewachsener Hafenstandort, der heute vor allem für den lokalen Tourismus und Fischfang wichtig ist.", hu: "Kisebb kikötő mezőgazdasági export számára.", ro: "Puerto Cacao este o mică facilitate portuară situată în apropiere de Golfito, facilitând transportul local de mărfuri și pasageri. Zona păstrează o atmosferă tradițională și este legată de activitățile agricole din sudul Pacificului.", en: "A small coastal port linked to cacao growing and local export activity. The name points to the agricultural character of the surrounding area." },
     descriptionAdvanced: {
       de: "Puerto Cacao ist ein kleiner karibischer Umschlagpunkt, dessen Name noch an die Zeit erinnert, als Kakao die Region prägte. Heute laufen dort vor allem landwirtschaftliche G?ter zusammen, w?hrend Bananen und Ananas den gr??ten Teil des Volumens stellen. Das umliegende Kanalnetz verbindet die Küstenzone mit dem Hinterland und macht kleinere Boote f?r den Transport wichtig. Der Ort hat sich den Charakter einer ruhigen Handelsstation bewahrt, obwohl die Exportlogik l?ngst moderner geworden ist. Geografie K8 ? Agrarhandel und kleine Hafeninfrastruktur.",
@@ -691,9 +665,8 @@ image: "/poi-images/puerto-cacao-economic-v2.webp"
     type: "industry",
     parent: "CR-H",
     coords: [-84.1500, 10.0000],
-    name: { de: "Industriepark Barreal", hu: "Barreal Iparközpont", ro: "Parc Industrial Barreal", en: "Barreal Industrial Park",
-image: "/poi-images/parque-industrial-barreal-economic-v2.webp"
-},
+    name: { de: "Industriepark Barreal", hu: "Barreal Iparközpont", ro: "Parc Industrial Barreal", en: "Barreal Industrial Park"},
+    image: "/poi-images/parque-industrial-barreal-economic-v2.webp",
     description: { de: "Ein dynamisches Industriegebiet in Heredia, das zahlreiche Dienstleistungs- und Fertigungsunternehmen beherbergt.", hu: "Barreal de Heredia ipari parkja a Központi-völgy egyik jól ismert gyártási helyszíne. A térség előnye a jó elérhetőség és a fejlett városi infrastruktúra.", ro: "Parcul industrial din Barreal de Heredia face parte din coridorul tehnologic al zonei centrale. Aici se concentrează activități de producție, servicii și logistică.", en: "An industrial park in Barreal de Heredia with a strong production and logistics profile. It is part of the Central Valley's technology corridor." },
     descriptionAdvanced: {
       de: "Der Industriepark Barreal gehört zu den stabilsten Industriestandorten in Heredia und profitiert von der N?he zu den großen Städten des Central Valley. Im Park arbeiten Firmen aus der Lebensmittelverarbeitung, der Präzisionsmetallurgie und anderen Mischbranchen, die auf zuverlässige Infrastruktur angewiesen sind. Barreal ist auch deshalb bemerkenswert, weil hier viele nationale Unternehmen ihren Aufstieg begonnen haben, bevor sie international expandierten. Heute prägen Modernisierung, Energieeffizienz und gute Verkehrsverbindungen das Bild. Geografie K8 ? industrielle Verdichtung und urbane Erreichbarkeit.",
@@ -718,9 +691,8 @@ image: "/poi-images/parque-industrial-barreal-economic-v2.webp"
     type: "industry",
     parent: "CR-S",
     coords: [-84.1500, 9.9500],
-    name: { de: "Global Park", hu: "Global Park", ro: "Global Park", en: "Global Park",
-image: "/poi-images/zona-franca-global-park-economic-v2.webp"
-},
+    name: { de: "Global Park", hu: "Global Park", ro: "Global Park", en: "Global Park"},
+    image: "/poi-images/zona-franca-global-park-economic-v2.webp",
     description: { de: "Ein erstklassiger Industriepark, der sich auf Hochtechnologie und spezialisierte Dienstleistungen konzentriert.", hu: "A Global Park Heredia térségének ismert üzleti és ipari parkja, a technológiai folyosó egyik fontos címe. Nemzetközi vállalatok irodái és háttérszolgáltatásai működnek itt.", ro: "Global Park este o zonă francă prestigioasă din Heredia, specializată în servicii corporative și tehnologie. Oferă un mediu de afaceri avansat pentru companii de tip Fortune 500 și centre de servicii partajate.", en: "A premium free trade zone in Heredia hosting multinational corporations in the service and technology sectors." },
     descriptionAdvanced: {
       de: "Global Park ist eine der sichtbarsten Freizonen rund um San Jos? und ein gutes Beispiel f?r Costa Ricas Mischung aus Technologie, Design und Exportorientierung. Der Standort zieht multinationale Unternehmen an, die Software, Biotechnologie und internationale Finanzdienstleistungen b?ndeln wollen. Seine Gebäude sind funktional geplant, wirken aber zugleich wie ein bewusst gestalteter Business-Campus. Genau darin liegt die Stärke des Parks: Er verkauft nicht nur Fläche, sondern ein Umfeld f?r hochqualifizierte Arbeit und globale Prozesse. Geografie K8 ? Innovationsräume und Unternehmensstandorte.",
@@ -745,9 +717,8 @@ image: "/poi-images/zona-franca-global-park-economic-v2.webp"
     type: "port",
     parent: "CR-G",
     coords: [-85.8300, 10.3000],
-    name: { de: "Puerto Tamarindo", hu: "Puerto Tamarindo", ro: "Puerto Tamarindo", en: "Puerto Tamarindo",
-image: "/poi-images/terminal-puerto-tamarindo-economic-v2.webp"
-},
+    name: { de: "Puerto Tamarindo", hu: "Puerto Tamarindo", ro: "Puerto Tamarindo", en: "Puerto Tamarindo"},
+    image: "/poi-images/terminal-puerto-tamarindo-economic-v2.webp",
     description: { de: "Ein wichtiger Anlegepunkt für touristische Aktivitäten und den Personentransport in der beliebten Region Tamarindo.", hu: "Kisebb kikötő a turisztikai forgalom számára.", ro: "Port mai mic pentru traficul turistic.", en: "A port terminal facility supporting the commercial and logistical needs of the Guanacaste coastal region." },
     descriptionAdvanced: {
       de: "Puerto Tamarindo ist kein Hafen f?r Massengüter, sondern ein Zugangspunkt f?r Erlebnisse auf dem Pazifik. Von hier aus starten Katamarane, Tauchfahrten und Ausflüge zu den bekannten Surfzonen von Tamarindo. Die geschützten Gewässer der Bucht geben kleineren Booten Sicherheit, w?hrend am Ufer eine ganze Tourismuswirtschaft an den Hafen angebunden ist. Abends kehrt der Verkehr zurück in den Ort, und Restaurants, Strandbars und Bootsstege werden Teil desselben Kreislaufs. Geografie K8 ? Tourismush?fen und Küstenerlebnis.",

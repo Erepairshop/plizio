@@ -6,129 +6,224 @@ export const poiExtraArmeniaHistoryV2: POI[] = [
     type: "historical-site",
     parent: "AM-KT",
     coords: [44.7302, 40.1124],
-    name: { de: "Tempel von Garni", hu: "Garni-templom", ro: "Templul Garni", en: "Garni Temple",
-image: "/poi-images/garni-temple-history-v2.webp"
-},
+    name: { de: "Tempel von Garni", hu: "Garni-templom", ro: "Templul Garni", en: "Garni Temple"},
+    image: "/poi-images/garni-temple-history-v2.webp",
     description: { de: "Ein klassisch hellenistischer Tempel in Armenien, der dem Sonnengott Mithras geweiht war.", hu: "Klasszikus hellenisztikus templom Örményországban, amelyet Mithrász napistennek szenteltek.", ro: "Un templu elenistic clasic din Armenia, dedicat zeului soarelui Mithras.", en: "A classical Hellenistic temple in Armenia, dedicated to the sun god Mithras." },
     facts: {
       de: ["Im 1. Jahrhundert nach Christus erbaut.", "Einziges erhaltenes griechisch-römisches Gebäude Armeniens."],
       hu: ["Az 1. században épült.", "Örményország egyetlen fennmaradt görög-római épülete."],
       ro: ["Construit în secolul I d.Hr.", "Singura clădire greco-romană păstrată din Armenia."],
       en: ["Built in the 1st century AD.", "The only surviving Greco-Roman building in Armenia."]
-    }, image: "/poi-images/garni-temple-history-v2.webp"},
+    }, image: "/poi-images/garni-temple-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Garni-Tempel ist ein architektonisches Wunder aus dem 1. Jahrhundert v.Chr., das griechisch-römische Stile mit lokalen Traditionen verbindet.",
+      hu: "A Garni templum körülbelül e.Kr. 1. századból származik, és görög-romai stílusokat helyi hagyományokkal kötött össze.",
+      ro: "Templul de la Garni din secolul I î.Hr., este un monument arhitectonic care combină stiluri greco-romane cu tradiții locale.",
+      en: "The Garni Temple, dating from the 1st century BC, is an architectural marvel blending Greco-Roman styles with local traditions.",
+    },
+    factsAdvanced: {
+      de: ["Der Tempel wurde im Jahr 69 n.Chr. durch einen Erdbeben beschädigt.", "Er ist das einzige griechische Stufentempels in der Armeien.", "Das Gebiet war einst eine königliche Sommerresidenz.", "Die Tempelanlage wurde im 10. Jahrhundert zu einer Burg umgewandelt."],
+      hu: ["A templom e.C. 69-ben egy földrengés miatt sérült meg.", "Ez az egyetlen görög-szterépetempel Armeiában.", "Az űzem korábban egy királyi nyárszállás volt.", "A templom épülete a 10. században várkastérré alakult át."],
+      ro: ["Templul a fost afectat de un cutremur în anul 69 e.chr.", "Este singurul templu greco-stilistic din Armenia.", "Acest teren era o rezidență de vară regală pe vremea antichă.", "În secolul al X-lea, construcția a fost transformată într-o castravetie."],
+      en: ["The temple was damaged by an earthquake in 69 AD.", "It is the only Greco-Roman style temple in Armenia.", "This site was once a royal summer residence.", "In the 10th century, the temple complex was turned into a fortress."],
+    },
+  },
   {
     id: "geghard-monastery-history-v2",
     type: "historical-site",
     parent: "AM-KT",
     coords: [44.8185, 40.1404],
-    name: { de: "Kloster Geghard", hu: "Gegard-kolostor", ro: "Mănăstirea Geghard", en: "Geghard Monastery",
-image: "/poi-images/geghard-monastery-history-v2.webp"
-},
+    name: { de: "Kloster Geghard", hu: "Gegard-kolostor", ro: "Mănăstirea Geghard", en: "Geghard Monastery"},
+    image: "/poi-images/geghard-monastery-history-v2.webp",
     description: { de: "Ein mittelalterliches Kloster, das teilweise in den angrenzenden Berg gehauen wurde und zum UNESCO-Welterbe gehört.", hu: "Középkori kolostor, amelyet részben a szomszédos hegybe vájtak, és az UNESCO világörökség része.", ro: "O mănăstire medievală săpată parțial în muntele adiacent, parte a Patrimoniului Mondial UNESCO.", en: "A medieval monastery being partially carved out of the adjacent mountain, surrounded by cliffs." },
     facts: {
       de: ["Gegründet im 4. Jahrhundert von Gregor dem Erleuchter.", "Benannt nach der Lanze, die Jesus am Kreuz verletzte."],
       hu: ["Világosító Szent Gergely alapította a 4. században.", "Arról a lándzsáról kapta a nevét, amely megsebezte Jézust."],
       ro: ["Fondată în secolul al IV-lea de Grigore Iluminătorul.", "Numită după sulița care l-a rănit pe Iisus la cruce."],
       en: ["Founded in the 4th century by Gregory the Illuminator.", "Named after the spear that wounded Jesus at the Crucifixion."]
-    }, image: "/poi-images/geghard-monastery-history-v2.webp"},
+    }, image: "/poi-images/geghard-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Geghard-Monastar ist bekannt für seine keltischen und römischen Architekturstile, die in die Felsen von Garni eingemeißelt sind.",
+      hu: "A Geghard szigethely egyedi kelt és román stílusú építészettel rendelkezik, melyek a Garni-hegyekbe vágódtak.",
+      ro: "Monasterul Geghard este cunoscut pentru stilurile sale de arhitectură ceilte și romane, care sunt sculptate în stâlpii din Garni.",
+      en: "Geghard Monastery is renowned for its unique combination of Celtic and Roman architectural styles carved into the rocks of Garni.",
+    },
+    factsAdvanced: {
+      de: ["Der Monastar wurde 1215 errichtet.", "Es ist eine UNESCO-Weltkulturerbe-Stätte.", "Die Kapelle enthält Reliquien von Jesus und Johannes dem Täufer.", "Insgesamt gibt es 4 Kirchen im Komplex."],
+      hu: ["A szigethely e.C. 1215-ben került megalkotásra.", "Egy UNESCO világhírköri helyszín.", "Az ékaponton Jézus és János a Paricista relíquiák találhatók.", "Összesen négy templom található az ökosztályban."],
+      ro: ["Monasterul a fost construit în anul 1215.", "Este un monument UNESCO de patrimoniu mondial cultural.", "Capela conține relicve ale lui Iisus și a Sf. Ioan Botezătorul.", "În total, există 4 biserici în complex."],
+      en: ["The monastery was founded in 1215.", "It is a UNESCO World Heritage site.", "The chapel houses relics of Jesus and John the Baptist.", "There are four churches altogether within the complex."],
+    },
+  },
   {
     id: "zvartnots-cathedral-history-v2",
     type: "ruin",
     parent: "AM-AR",
     coords: [44.3364, 40.1601],
-    name: { de: "Kathedrale von Swartnoz", hu: "Zvartnotsz-székesegyház", ro: "Catedrala Zvartnots", en: "Zvartnots Cathedral",
-image: "/poi-images/zvartnots-cathedral-history-v2.webp"
-},
+    name: { de: "Kathedrale von Swartnoz", hu: "Zvartnotsz-székesegyház", ro: "Catedrala Zvartnots", en: "Zvartnots Cathedral"},
+    image: "/poi-images/zvartnots-cathedral-history-v2.webp",
     description: { de: "Die Ruinen einer runden armenischen Kathedrale aus dem 7. Jahrhundert, die bei einem Erdbeben zerstört wurde.", hu: "Egy 7. századi kerek örmény katedrális romjai, amely egy földrengésben pusztult el.", ro: "Ruinele unei catedrale armene circulare din secolul al VII-lea, distrusă de un cutremur.", en: "The ruins of a 7th-century centrally planned aisled tetraconch type Armenian cathedral." },
     facts: {
       de: ["Erbaut zwischen 643 und 652.", "Gehört seit dem Jahr 2000 zum UNESCO-Welterbe."],
       hu: ["643 és 652 között épült.", "2000 óta az UNESCO világörökség része."],
       ro: ["Construită între anii 643 și 652.", "Face parte din Patrimoniul Mondial UNESCO din 2000."],
       en: ["Built between 643 and 652.", "Added to the UNESCO World Heritage list in 2000."]
-    }, image: "/poi-images/zvartnots-cathedral-history-v2.webp"},
+    }, image: "/poi-images/zvartnots-cathedral-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Zvartnots-Kathedrale, erbaut im siebten Jahrhundert, ist ein architektonisches Meisterwerk und UNESCO-Weltkulturerbestätte.",
+      hu: "A Zvartnots káthedrála a hetedik században épült és egy UNESCO világörökség hírköri helyszín.",
+      ro: "Catedrala Zvartnots, construită în secolul al VII-lea, este un monument de arhitectură și UNESCO Patrimoniu Mondial.",
+      en: "Zvartnots Cathedral, built in the 7th century, is an architectural masterpiece and a UNESCO World Heritage site.",
+    },
+    factsAdvanced: {
+      de: ["Die Kathedrale wurde im Jahr 643 erbaut.", "Es war eine der größten Kirchen des armenischen Mittelalters.", "Der Bau fiel in ein Erdbeben im Jahr 930 zusammen.", "Die Ruinen wurden erst Ende des 19. Jahrhunderts ausgegraben."],
+      hu: ["A káthedrált e.C. 643-ban építették fel.", "Ez volt az armeni Középkor egyik legnagyobb temploma.", "Az épület e.C. 930-ben tört bele a földrengés miatt.", "A romjai csak a 19. század végén kerültek felmérésre."],
+      ro: ["Catedrala a fost construită în anul 643.", "Aceasta era una dintre cele mai mari biserici din Armenia medievală.", "Construcția s-a prăbușit în urma unui cutremur în anul 930.", "Rămășițele au fost descoperite doar la sfârșitul secolului al XIX-lea."],
+      en: ["The cathedral was built in the year 643 AD.", "It was one of the largest churches in medieval Armenia.", "The building collapsed during an earthquake in 930 AD.", "Its ruins were only excavated at the end of the 19th century."],
+    },
+  },
   {
     id: "khor-virap-history-v2",
     type: "historical-site",
     parent: "AM-AR",
     coords: [44.5760, 39.8783],
-    name: { de: "Kloster Chor Virap", hu: "Hor Virap-kolostor", ro: "Mănăstirea Khor Virap", en: "Khor Virap",
-image: "/poi-images/khor-virap-history-v2.webp"
-},
+    name: { de: "Kloster Chor Virap", hu: "Hor Virap-kolostor", ro: "Mănăstirea Khor Virap", en: "Khor Virap"},
+    image: "/poi-images/khor-virap-history-v2.webp",
     description: { de: "Ein bedeutender Wallfahrtsort mit Blick auf den Berg Ararat, wo Gregor der Erleuchter gefangen gehalten wurde.", hu: "Jelentős zarándokhely az Ararát-hegyre néző kilátással, ahol Világosító Szent Gergely raboskodott.", ro: "Un loc de pelerinaj important cu vedere la Muntele Ararat, unde Grigore Iluminătorul a fost ținut prizonier.", en: "An important pilgrimage site offering a spectacular view of Mount Ararat, famous as the prison of Gregory the Illuminator." },
     facts: {
       de: ["Gregor der Erleuchter war hier 13 Jahre lang eingesperrt.", "Es liegt nur wenige Kilometer von der geschlossenen türkischen Grenze entfernt."],
       hu: ["Világosító Szent Gergely 13 évig volt itt bezárva.", "Csak néhány kilométerre található a lezárt török határtól."],
       ro: ["Grigore Iluminătorul a fost închis aici timp de 13 ani.", "Este situat la doar câțiva kilometri de granița turcă închisă."],
       en: ["Gregory the Illuminator was imprisoned here for 13 years.", "Located just a few kilometers from the closed Turkish border."]
-    }, image: "/poi-images/khor-virap-history-v2.webp"},
+    }, image: "/poi-images/khor-virap-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Khor Virap ist ein wichtiger religiöser Ort in Armenien, bekannt für die Gefangenschaft des Heiligen Grigor Lusavorich.",
+      hu: "A Khor Virap az armeniak számára kulcsfontosságú vallási hely, a Szent Gregoriusz Lusavorich börtönben tartása miatt.",
+      ro: "Khor Virap este un loc religios important în Armenia, cunoscut pentru detenția Sfântului Grigor Luciverhici.",
+      en: "Khor Virap is a significant religious site in Armenia, known for the imprisonment of Saint Gregory the Illuminator.",
+    },
+    factsAdvanced: {
+      de: ["Der Ort wurde im 4. Jahrhundert gegründet.", "Die Kirche wurde 1669 erbaut.", "Khor Virap ist nur wenige Kilometer von Jerewan entfernt.", "Saint Grigor wurde hier über 12 Jahre gefangen gehalten."],
+      hu: ["A hely e.C. 4. században alakult ki.", "A templom 1669-ben épült fel.", "Khor Virap Yerevan-tól csak néhány kilométerre található.", "Szent Gregoriusz itt több mint 12 évig börtönben tartották."],
+      ro: ["Locul a fost fondat în secolul al IV-lea d.Hr.", "Biserica a fost construită în anul 1669.", "Khor Virap se află la câteva kilometri de Yerevan.", "Sfântul Grigor a fost ținut prizonier aici timp de peste 12 ani."],
+      en: ["The site was founded in the 4th century AD.", "The church was built in 1669.", "Khor Virap is just a few kilometers from Yerevan.", "Saint Gregory was imprisoned here for over 12 years."],
+    },
+  },
   {
     id: "noravank-history-v2",
     type: "historical-site",
     parent: "AM-VD",
     coords: [45.2330, 39.6845],
-    name: { de: "Kloster Norawank", hu: "Noravank-kolostor", ro: "Mănăstirea Noravank", en: "Noravank",
-image: "/poi-images/noravank-history-v2.webp"
-},
+    name: { de: "Kloster Norawank", hu: "Noravank-kolostor", ro: "Mănăstirea Noravank", en: "Noravank"},
+    image: "/poi-images/noravank-history-v2.webp",
     description: { de: "Ein Kloster aus dem 13. Jahrhundert in einer engen Schlucht, das für seine rötlichen Klippen und seine Architektur berühmt ist.", hu: "13. századi kolostor egy szűk szurdokban, amely vöröses szikláiról és építészetéről híres.", ro: "O mănăstire din secolul al XIII-lea aflată într-un defileu îngust, faimoasă pentru stâncile sale roșiatice.", en: "A 13th-century Armenian monastery, located in a narrow gorge known for its tall, sheer, brick-red cliffs." },
     facts: {
       de: ["Erbaut vom berühmten Architekten Momik.", "Die Hauptkirche ist die Surb Astvatsatsin, eine zweistöckige Kirche."],
       hu: ["A híres építész, Momik tervezte.", "A főtemplom a Szurb Asztvacacin, egy kétszintes templom."],
       ro: ["Proiectată de faimosul arhitect Momik.", "Biserica principală este Surb Astvatsatsin, o clădire cu două etaje."],
       en: ["Designed by the renowned architect Momik.", "The main church is Surb Astvatsatsin, a two-story building."]
-    }, image: "/poi-images/noravank-history-v2.webp"},
+    }, image: "/poi-images/noravank-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Noravank ist ein mittelalterliches Klosterkomplex in Armenien, bekannt für seine gotischen Kirchen.",
+      hu: "A Noravank középkori templomkör Armeánban található és ismert a gótikus templomok miatt.",
+      ro: "Noravank este un complex de mănăstiri medieval din Armenia, cunoscut pentru biserica sa gotică.",
+      en: "Noravank is a medieval monastic complex in Armenia known for its Gothic-style churches.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 13. Jahrhundert", "Kirchenanzahl: 2", "Künstler: Momik", "Schutzstufe: UNESCO"],
+      hu: ["Alapítás: 13. század", "Templomok száma: 2", "Művész: Momik", "Védett állapot: UNESCO"],
+      ro: ["Fundare: secolul al XIII-lea", "Număr de biserici: 2", "Artistă: Momik", "Stadiu de protecție: UNESCO"],
+      en: ["Founded: 13th century", "Number of churches: 2", "Architect: Momik", "Protected Status: UNESCO"],
+    },
+  },
   {
     id: "tatev-monastery-history-v2",
     type: "historical-site",
     parent: "AM-SU",
     coords: [46.2497, 39.3802],
-    name: { de: "Kloster Tatew", hu: "Tatev-kolostor", ro: "Mănăstirea Tatev", en: "Tatev Monastery",
-image: "/poi-images/tatev-monastery-history-v2.webp"
-},
+    name: { de: "Kloster Tatew", hu: "Tatev-kolostor", ro: "Mănăstirea Tatev", en: "Tatev Monastery"},
+    image: "/poi-images/tatev-monastery-history-v2.webp",
     description: { de: "Ein befestigtes Kloster auf einem großen Basaltplateau, das im Mittelalter ein wichtiges intellektuelles Zentrum war.", hu: "Erődített kolostor egy nagy bazaltfennsíkon, amely a középkorban fontos szellemi központ volt.", ro: "O mănăstire fortificată situată pe un mare platou de bazalt, care a fost un important centru intelectual în Evul Mediu.", en: "A 9th-century historical monument standing on the edge of a deep gorge of the Vorotan River." },
     facts: {
       de: ["Gegründet im 9. Jahrhundert.", "Die Pendelbahn Wings of Tatev führt zum Kloster."],
       hu: ["A 9. században alapították.", "A Tatev szárnyai nevű kötélpálya vezet a kolostorhoz."],
       ro: ["Fondată în secolul al IX-lea.", "Telecabina Wings of Tatev duce spre mănăstire."],
       en: ["Founded in the 9th century.", "Reached by the Wings of Tatev aerial tramway."]
-    }, image: "/poi-images/tatev-monastery-history-v2.webp"},
+    }, image: "/poi-images/tatev-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tatev-Kloster ist ein bedeutender religiöser Ort in Armenien, bekannt für seine mittelalterlichen Gebäuden und historische Bedeutung.",
+      hu: "A Tatev monasterium az armeniak számára kulcsfontosságú vallási hely, a középkori épületek és történelmi jelentőség miatt.",
+      ro: "Monasterul Tatev este un loc religios important în Armenia, cunoscut pentru clădirile sale din evul mediu și importanța istorică.",
+      en: "Tatev Monastery is a significant religious site in Armenia known for its medieval buildings and historical importance.",
+    },
+    factsAdvanced: {
+      de: ["Die Anlage wurde im Jahr 895 gegründet.", "Es ist eine UNESCO-Weltkulturerbestätte.", "Der Komplex umfasst mehrere Kirchen und Klöster.", "Tatev war ein Zentrum der armenischen Kultur und Wissenschaft."],
+      hu: ["A monasterium e.C. 895-ben került megalkotásra.", "Egy UNESCO világörökség hírköri helyszín.", "A komplex több templom és zsinagógát is tartalmaz.", "Tatev az armeni kultúra és tudomány központja volt."],
+      ro: ["Complexul a fost fondat în anul 895.", "Este un monument UNESCO de patrimoniu mondial cultural.", "Complexul conține mai multe biserici și monasterii.", "Tatev era centru al culturii și științei armeniene."],
+      en: ["The complex was founded in the year 895 AD.", "It is a UNESCO World Heritage site.", "The complex includes several churches and monasteries.", "Tatev was a center of Armenian culture and science."],
+    },
+  },
   {
     id: "erebuni-fortress-history-v2",
     type: "ruin",
     parent: "AM-ER",
     coords: [44.5383, 40.1406],
-    name: { de: "Festung Erebuni", hu: "Erebuni-erőd", ro: "Cetatea Erebuni", en: "Erebuni Fortress",
-image: "/poi-images/erebuni-fortress-history-v2.webp"
-},
+    name: { de: "Festung Erebuni", hu: "Erebuni-erőd", ro: "Cetatea Erebuni", en: "Erebuni Fortress"},
+    image: "/poi-images/erebuni-fortress-history-v2.webp",
     description: { de: "Eine urartäische befestigte Stadt, die als Vorgänger der modernen Stadt Jerewan gilt.", hu: "Urartui erődített város, amelyet a modern Jereván elődjének tartanak.", ro: "Un oraș fortificat urartian, considerat predecesorul orașului modern Erevan.", en: "An Urartian fortified city, located in Yerevan, dating back to 782 BC." },
     facts: {
       de: ["Im Jahr 782 vor Christus von König Argischti I. erbaut.", "Der Name Erebuni wurde später zu Jerewan."],
       hu: ["I. Argisti király építtette Krisztus előtt 782-ben.", "Az Erebuni név később Jerevánra változott."],
       ro: ["Construită în 782 î.Hr. de regele Argishti I.", "Numele Erebuni a evoluat ulterior în Erevan."],
       en: ["Built by King Argishti I in 782 BC.", "The name Erebuni later evolved into Yerevan."]
-    }, image: "/poi-images/erebuni-fortress-history-v2.webp"},
+    }, image: "/poi-images/erebuni-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Erebuni-Festung, erbaut im Jahr 783 v.Chr., ist ein wichtiger archäologischer Fundplatz und Teil der UNESCO-Weltkulturerbestätte.",
+      hu: "Az Erebuni város e.Kr. 783-ban került felépítésre, és egy fontos archaeológiai találkozó helyszín és UNESCO világörökség hírköri része.",
+      ro: "Cetatea Erebuni, construită în anul 783 î.Hr., este un loc arheologic important și parte a monumentului UNESCO de patrimoniu mondial cultural.",
+      en: "Erebuni Fortress, built in 783 BC, is an important archaeological site and part of the UNESCO World Heritage.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung wurde von König Argishti I. erbaut.", "Es war der erste Stadtteil des heutigen Jerewan.", "Erebuni ist ein Zentrum für archäologische Forschungen.", "Die Anlage umfasst mehrere Wohngebäude und Tempel."],
+      hu: ["A város Szent Árpád I. király építette fel.", "Az ekkora Yerevan első telepi része volt.", "Erebuni egy archeológiai kutatások központja.", "Az ökosztályban több lakóház és templom található."],
+      ro: ["Cetatea a fost construită de către rege Arghishti I.", "A fost primul sector urban al Yerevanului de astăzi.", "Erebuni este un centru pentru cercetările arheologice.", "Complexul conține mai multe clădiri rezidențiale și temploare."],
+      en: ["The fortress was built by King Argishti I.", "It was the first urban district of modern Yerevan.", "Erebuni is a center for archaeological research.", "The complex includes several residential buildings and temples."],
+    },
+  },
   {
     id: "sardarapat-memorial-history-v2",
     type: "monument",
     parent: "AM-AG",
     coords: [43.9463, 40.0932],
-    name: { de: "Gedenkstätte Sardarapat", hu: "Szardarapati emlékmű", ro: "Memorialul Sardarapat", en: "Sardarapat Memorial",
-image: "/poi-images/sardarapat-memorial-history-v2.webp"
-},
+    name: { de: "Gedenkstätte Sardarapat", hu: "Szardarapati emlékmű", ro: "Memorialul Sardarapat", en: "Sardarapat Memorial"},
+    image: "/poi-images/sardarapat-memorial-history-v2.webp",
     description: { de: "Ein Denkmal zur Erinnerung an die Schlacht von Sardarapat im Jahr 1918, die die armenische Nation rettete.", hu: "Emlékmű az 1918-as szardarapati csata emlékére, amely megmentette az örmény nemzetet.", ro: "Un memorial dedicat Bătăliei de la Sardarapat din 1918, care a salvat națiunea armeană.", en: "A memorial complex to the Battle of Sardarapat, located in the Armavir Province." },
     facts: {
       de: ["1968 zum 50. Jahrestag der Schlacht eröffnet.", "Enthält ein ethnografisches Museum."],
       hu: ["1968-ban nyílt meg a csata 50. évfordulójára.", "Egy néprajzi múzeum is található benne."],
       ro: ["Inaugurat în 1968 pentru a marca a 50-a aniversare a bătăliei.", "Include și un muzeu de etnografie."],
       en: ["Opened in 1968 on the 50th anniversary of the battle.", "The complex includes an ethnographic museum."]
-    }, image: "/poi-images/sardarapat-memorial-history-v2.webp"},
+    }, image: "/poi-images/sardarapat-memorial-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sardarapat-Mahnmal erinnert an die Schlacht von Sardarapat, ein wichtiger Sieg in der Armeischen Unabhängigkeitskrieg.",
+      hu: "A Sardarapat emlékmű emléket vet a Sardarapat csatára, amely az Armei nagyobb érdekelő tárgya volt.",
+      ro: "Monumentul de la Sardarapat comemorează Bătălia de la Sardarapat, un câștig important în războiul de independență al Armeniei.",
+      en: "The Sardarapat Memorial commemorates the Battle of Sardarapat, a significant victory in Armenia's independence war.",
+    },
+    factsAdvanced: {
+      de: ["Datum: 1918", "Ort: Ararat-Provinz", "Teilnehmer: Armenische Nationalarmee", "Erhaltung: Aktiv"],
+      hu: ["Dátum: 1918", "Helyszín: Ararat megye", "Résztvevők: Armei Népi Hadsereg", "Mentés: Aktív"],
+      ro: ["Data: 1918", "Locație: Provinta Ararat", "Participanți: Armata Națională Armeniană", "Conservare: Activă"],
+      en: ["Date: 1918", "Location: Ararat Province", "Participants: Armenian National Army", "Preservation: Active"],
+    },
+  },
   {
     id: "tsitsernakaberd-history-v2",
     type: "monument",
     parent: "AM-ER",
     coords: [44.4905, 40.1856],
-    name: { de: "Zizernakaberd", hu: "Cicernakaberd", ro: "Tsitsernakaberd", en: "Tsitsernakaberd",
-image: "/poi-images/tsitsernakaberd-history-v2.webp"
-},
+    name: { de: "Zizernakaberd", hu: "Cicernakaberd", ro: "Tsitsernakaberd", en: "Tsitsernakaberd"},
+    image: "/poi-images/tsitsernakaberd-history-v2.webp",
     description: { de: "Die offizielle Gedenkstätte Armeniens für die Opfer des Völkermords an den Armeniern im Jahr 1915.", hu: "Örményország hivatalos emlékműve az 1915-ös örmény népirtás áldozatainak emlékére.", ro: "Memorialul oficial al Armeniei dedicat victimelor genocidului armean din 1915.", en: "The official memorial dedicated to the victims of the Armenian Genocide." },
     facts: {
       de: ["Der 44 Meter hohe Obelisk symbolisiert die nationale Wiedergeburt der Armenier.", "Eine ewige Flamme brennt im Zentrum der 12 Pylonen."],
@@ -150,165 +245,296 @@ image: "/poi-images/tsitsernakaberd-history-v2.webp"
     type: "monument",
     parent: "AM-ER",
     coords: [44.5247, 40.1953],
-    name: { de: "Mutter Armenien", hu: "Örményország Anyja", ro: "Mama Armenia", en: "Mother Armenia",
-image: "/poi-images/mother-armenia-history-v2.webp"
-},
+    name: { de: "Mutter Armenien", hu: "Örményország Anyja", ro: "Mama Armenia", en: "Mother Armenia"},
+    image: "/poi-images/mother-armenia-history-v2.webp",
     description: { de: "Eine monumentale Statue in Jerewan, die den Frieden durch Stärke symbolisiert.", hu: "Egy monumentális szobor Jerevánban, amely az erőn keresztüli békét szimbolizálja.", ro: "O statuie monumentală în Erevan care simbolizează pacea prin putere.", en: "A female personification of Armenia, located in Victory Park, Yerevan." },
     facts: {
       de: ["Ersetzte 1967 eine monumentale Statue von Josef Stalin.", "Das Podest beherbergt ein Militärmuseum."],
       hu: ["1967-ben Sztálin monumentális szobrát váltotta fel.", "A talapzatban egy hadtörténeti múzeum kapott helyet."],
       ro: ["A înlocuit o statuie monumentală a lui Stalin în 1967.", "Piedestalul adăpostește un muzeu militar."],
       en: ["Replaced a monumental statue of Joseph Stalin in 1967.", "The pedestal houses the Military Museum."]
-    }, image: "/poi-images/mother-armenia-history-v2.webp"},
+    }, image: "/poi-images/mother-armenia-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mutter Armenia ist eine imposante Statue in Eriwan, die als Symbol für den Heldentod der Armenier während des Ersten Weltkriegs dient.",
+      hu: "A Női Armenia Erevánban áll, ahonnan a város teljes területe nézhető el. Ez egy szimbólum a nemzetvédelmi hőstérségnek.",
+      ro: "Mama Armêniei este o statuie impresionantă din Erivan care simbolizează sacrificiul armenească în timpul Primului Război Mondial.",
+      en: "Mother Armenia is a monumental statue in Yerevan, symbolizing the sacrifice of Armenians during World War I and serving as a memorial.",
+    },
+    factsAdvanced: {
+      de: ["Die Statue wurde 1950 fertiggestellt.", "Sie steht auf einem hohen Sockel im Norden von Eriwan.", "Die Figur ist 22 Meter hoch.", "Es handelt sich um ein Symbol der Nationalen Sicherheit."],
+      hu: ["A statuát 1950-ben építették meg.", "Az állomáshely a város északi részén található.", "A szobor magassága 22 méter.", "Szimbóluma az ország védelmének."],
+      ro: ["Statuia a fost construită în anul 1950.", "Locația este în partea de nord a orașului.", "Înălțimea figurii este de 22 metri.", "Este un simbol al securității naționale."],
+      en: ["The statue was completed in 1950.", "It stands on a high pedestal in northern Yerevan.", "The figure is 22 meters tall.", "Serves as a symbol of national security."],
+    },
+  },
   {
     id: "haghpat-monastery-history-v2",
     type: "historical-site",
     parent: "AM-LO",
     coords: [44.7118, 41.0939],
-    name: { de: "Kloster Haghpat", hu: "Haghpat-kolostor", ro: "Mănăstirea Haghpat", en: "Haghpat Monastery",
-image: "/poi-images/haghpat-monastery-history-v2.webp"
-},
+    name: { de: "Kloster Haghpat", hu: "Haghpat-kolostor", ro: "Mănăstirea Haghpat", en: "Haghpat Monastery"},
+    image: "/poi-images/haghpat-monastery-history-v2.webp",
     description: { de: "Ein mittelalterlicher Klosterkomplex im Norden Armeniens, der im 10. Jahrhundert erbaut wurde.", hu: "Középkori kolostorkomplexum Örményország északi részén, amelyet a 10. században építettek.", ro: "Un complex monahal medieval în nordul Armeniei, construit în secolul al X-lea.", en: "A medieval Armenian monastery complex in Haghpat, built between the 10th and 13th centuries." },
     facts: {
       de: ["Wurde von Königin Chosrowanusch gegründet.", "Gehört seit 1996 zum UNESCO-Welterbe."],
       hu: ["Hoszrovanus királyné alapította.", "1996 óta az UNESCO világörökség része."],
       ro: ["A fost fondată de regina Khosrovanuysh.", "Face parte din Patrimoniul Mondial UNESCO din 1996."],
       en: ["Founded by Queen Khosrovanuysh.", "Inscribed as a UNESCO World Heritage Site in 1996."]
-    }, image: "/poi-images/haghpat-monastery-history-v2.webp"},
+    }, image: "/poi-images/haghpat-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Haghpat-Klosterkomplex liegt im Nordosten Armeniens und ist bekannt für seine architektonische Schönheit und historische Bedeutung.",
+      hu: "A Hagpat apátság az Északkeleti Örményországban található, és rengeteg utazón hírnévben áll a kulturális értéke miatt.",
+      ro: "Complexul mănăstirii Haghpat se află în estul Armeniei și este cunoscut pentru frumusețea sa arhitecturală și importanța istorică.",
+      en: "Haghpat Monastery complex is located in the northeastern part of Armenia and known for its architectural beauty and historical significance.",
+    },
+    factsAdvanced: {
+      de: ["Der Komplex wurde im Jahr 976 gegründet.", "Er ist eine UNESCO-Weltkulturerbe-Stätte.", "Der Klosterkomplex umfasst mehrere Kirchen und Gebäude.", "Haghpat hat einen wichtigen religiösen Status."],
+      hu: ["Az apátság 976-ban alakult ki.", "UNESCO világörökség része a helyiség.", "A környék több templomot és épületet is tartalmaz.", "Haghpat fontos vallásos jelentőséggel bír."],
+      ro: ["Complexul a fost înființat în anul 976.", "Este un patrimoniu mondial UNESCO.", "Conține mai multe biserici și clădiri.", "Haghpat are o importanță religioasă semnificativă."],
+      en: ["The complex was founded in the year 976 AD.", "It is a UNESCO World Heritage Site.", "Includes multiple churches and buildings.", "Haghpat holds significant religious importance."],
+    },
+  },
   {
     id: "sanahin-monastery-history-v2",
     type: "historical-site",
     parent: "AM-LO",
     coords: [44.6660, 41.0874],
-    name: { de: "Kloster Sanahin", hu: "Szanahin-kolostor", ro: "Mănăstirea Sanahin", en: "Sanahin Monastery",
-image: "/poi-images/sanahin-monastery-history-v2.webp"
-},
+    name: { de: "Kloster Sanahin", hu: "Szanahin-kolostor", ro: "Mănăstirea Sanahin", en: "Sanahin Monastery"},
+    image: "/poi-images/sanahin-monastery-history-v2.webp",
     description: { de: "Ein bedeutendes religiöses und kulturelles Zentrum des mittelalterlichen Armeniens, nahe Haghpat gelegen.", hu: "A középkori Örményország jelentős vallási és kulturális központja, Haghpat közelében.", ro: "Un important centru religios și cultural din Armenia medievală, situat lângă Haghpat.", en: "An Armenian monastery founded in the 10th century in the Lori Province." },
     facts: {
       de: ["Der Name bedeutet auf Armenisch »dieses ist älter als jenes«.", "Berühmt für seine mittelalterliche Schreibschule und Bibliothek."],
       hu: ["A név örményül azt jelenti: »ez régebbi, mint a másik«.", "Híres volt középkori írnokiskolájáról és könyvtáráról."],
       ro: ["Numele înseamnă »aceasta este mai veche decât cealaltă«.", "Faimoasă pentru școala de caligrafi și biblioteca sa medievală."],
       en: ["The name literally translates as »this one is older than that one«.", "Renowned for its medieval scriptorium and library."]
-    }, image: "/poi-images/sanahin-monastery-history-v2.webp"},
+    }, image: "/poi-images/sanahin-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sanahin-Klosterkomplex befindet sich in der Nähe von Haghpat und ist ebenfalls berühmt für seine architektonische Pracht.",
+      hu: "A Sanahin apátság az Északkeleti Örményországban található, a Hagpat mellett, és rengeteg utazón ismert a kulturális értékeitől.",
+      ro: "Complexul mănăstirii Sanahin se află în apropiere de Haghpat și este cunoscut pentru frumusețea sa arhitecturală.",
+      en: "Sanahin Monastery complex is located near Haghpat and known for its architectural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet wurde der Komplex im Jahr 966.", "Er liegt nur wenige Kilometer von Haghpat entfernt.", "Der Hauptbau ist die Kathedrale von Sanahin.", "Sanahin bietet eine beeindruckende visuelle Darstellung."],
+      hu: ["Az apátság 966-ban alakult ki.", "A helyiség egyetlen kilométerrel van a Hagpattól.", "A fő épület Sanahin katedrála.", "Sanahin rendkívül hatásos kinézetű."],
+      ro: ["Complexul a fost înființat în anul 966.", "Se află la câteva kilometri de Haghpat.", "Construcția principală este catedrala Sanahin.", "Sanahin oferă o vizualitate impresionantă."],
+      en: ["The complex was founded in the year 966 AD.", "It is located just a few kilometers from Haghpat.", "Main building is the Sanahin Cathedral.", "Sanahin offers impressive visual representation."],
+    },
+  },
   {
     id: "amberd-fortress-history-v2",
     type: "ruin",
     parent: "AM-AG",
     coords: [44.2263, 40.3887],
-    name: { de: "Festung Amberd", hu: "Amberd-erőd", ro: "Cetatea Amberd", en: "Amberd Fortress",
-image: "/poi-images/amberd-fortress-history-v2.webp"
-},
+    name: { de: "Festung Amberd", hu: "Amberd-erőd", ro: "Cetatea Amberd", en: "Amberd Fortress"},
+    image: "/poi-images/amberd-fortress-history-v2.webp",
     description: { de: "Eine Festungsruine aus dem 7. Jahrhundert, die sich auf einer Höhe von 2.300 Metern am Hang des Berges Aragaz befindet.", hu: "Egy 7. századi erődrom, amely 2300 méteres magasságban található az Aragac hegy lejtőjén.", ro: "O cetate ruinată din secolul al VII-lea, situată la 2.300 de metri altitudine pe versantul muntelui Aragats.", en: "A 7th-century fortress situated 2,300 meters above sea level on the slopes of Mount Aragats." },
     facts: {
       de: ["Der Name bedeutet »Festung in den Wolken«.", "Wurde im 11. Jahrhundert von den Seldschuken eingenommen."],
       hu: ["A neve azt jelenti: »Felhőerőd«.", "A 11. században a szeldzsuk törökök foglalták el."],
       ro: ["Numele se traduce prin »Cetatea din nori«.", "A fost cucerită de turcii selgiucizi în secolul al XI-lea."],
       en: ["The name translates to »fortress in the clouds«.", "Captured by the Seljuk Turks in the 11th century."]
-    }, image: "/poi-images/amberd-fortress-history-v2.webp"},
+    }, image: "/poi-images/amberd-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Amberd-Festung liegt in der Ararat-Ebene und ist ein wichtiger archäologischer Fundplatz aus dem Mittelalter.",
+      hu: "Az Amberd vár a Varárdombon található, és az középkori fontos épületek egyike.",
+      ro: "Forteleștea Amberd se află în câmpia Ararat și este un important sit arheologic din Evul Mediu.",
+      en: "Amberd Fortress is located in the Ararat Plain and is an important medieval archaeological site.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung wurde im 7. Jahrhundert erbaut.", "Sie diente zur Verteidigung gegen mongolische Überfälle.", "Der Name bedeutet 'Himmelsturm'.", "Amberd ist ein Beispiel für die mittelalterliche Architektur."],
+      hu: ["A város 7. században került építést.", "Az eredeti célja a mongol támadások elleni védelem volt.", "Amberd jelentése 'Pályazó Vár'.", "Az Amberd egy középkori építési stílus példája."],
+      ro: ["Forteleștea a fost construită în secolul al VII-lea.", "A avut rol de apărare împotriva războiului mongol.", "Amberd înseamnă 'Turnul Cerurilor'.", "Este un exemplu de arhitectură medievală."],
+      en: ["The fortress was built in the 7th century.", "It served as a defense against Mongol invasions.", "Amberd means 'Heavenly Fortress'.", "An example of medieval architecture."],
+    },
+  },
   {
     id: "smbataberd-fortress-history-v2",
     type: "ruin",
     parent: "AM-VD",
     coords: [45.3375, 39.8719],
-    name: { de: "Festung Smbataberd", hu: "Szmbataberd-erőd", ro: "Cetatea Smbataberd", en: "Smbataberd Fortress",
-image: "/poi-images/smbataberd-fortress-history-v2.webp"
-},
+    name: { de: "Festung Smbataberd", hu: "Szmbataberd-erőd", ro: "Cetatea Smbataberd", en: "Smbataberd Fortress"},
+    image: "/poi-images/smbataberd-fortress-history-v2.webp",
     description: { de: "Eine beeindruckende mittelalterliche Festung in der Provinz Wajoz Dsor, die auf einem hohen Bergkamm liegt.", hu: "Lenyűgöző középkori erőd Vajoc Dzor tartományban, amely egy magas hegygerincen helyezkedik el.", ro: "O impresionantă fortăreață medievală în provincia Vayots Dzor, situată pe o creastă înaltă.", en: "A medieval fortress located upon the crest of a hill between the villages of Artabuynk and Yeghegis." },
     facts: {
       de: ["Wurde im 10. Jahrhundert von der Orbelian-Dynastie erbaut.", "Ihre massiven Mauern blieben lange Zeit uneinnehmbar."],
       hu: ["Az Orbelian-dinasztia építtette a 10. században.", "Masszív falai sokáig bevehetetlenek voltak."],
       ro: ["Construită în secolul al X-lea de dinastia Orbelian.", "Zidurile sale masive au rămas mult timp de necucerit."],
       en: ["Built in the 10th century by the Orbelian dynasty.", "Its massive walls made it highly defensible."]
-    }, image: "/poi-images/smbataberd-fortress-history-v2.webp"},
+    }, image: "/poi-images/smbataberd-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Smbataberd-Festung, auch als 'Fort von den Hunden' bekannt, liegt im Nordwesten Armeniens und hat eine lange Geschichte.",
+      hu: "A Smbataberd vár az ország északkeleti részén található, és hírnévben áll a kompakt épülete miatt.",
+      ro: "Forteleștea Smbataberd se află în partea de nord-vest a Armeniei și este cunoscută pentru istoria sa lungă.",
+      en: "Smbataberd Fortress, also known as 'Dogs' Fort', is located in the northwestern part of Armenia and has a long history.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung wurde im 13. Jahrhundert erbaut.", "Sie diente als militärischer Posten und Residenz.", "Der Name bedeutet 'Kampffestung'.", "Smbataberd war eine wichtige Verteidigungsanlage."],
+      hu: ["A város 13. században került építést.", "Az eredeti célja egy haditengerészlet volt.", "Smbataberd jelentése 'Kämpfort'.", "Fontos védelmi struktúra volt Smbataberd."],
+      ro: ["Forteleștea a fost construită în secolul al XIII-lea.", "A avut rol de post militar și rezidență.", "Smbataberd înseamnă 'Cetatea de Luptă'.", "A fost o structură defensive importantă."],
+      en: ["Built in the 13th century.", "Served as a military outpost and residence.", "Means 'Fortress of War' or 'War Fortress'.", "Important defensive structure."],
+    },
+  },
   {
     id: "karahunj-history-v2",
     type: "historical-site",
     parent: "AM-SU",
     coords: [46.0287, 39.5505],
-    name: { de: "Karahundsch", hu: "Karahundzs", ro: "Karahunj", en: "Karahunj",
-image: "/poi-images/karahunj-history-v2.webp"
-},
+    name: { de: "Karahundsch", hu: "Karahundzs", ro: "Karahunj", en: "Karahunj"},
+    image: "/poi-images/karahunj-history-v2.webp",
     description: { de: "Eine prähistorische archäologische Stätte, die oft als das »armenische Stonehenge« bezeichnet wird.", hu: "Őskori régészeti lelőhely, amelyet gyakran »örmény Stonehenge«-nek neveznek.", ro: "Un sit arheologic preistoric, numit adesea »Stonehenge-ul armenesc«.", en: "A prehistoric archaeological site, frequently referred to in international tourist lore as the »Armenian Stonehenge«." },
     facts: {
       de: ["Besteht aus über 200 großen Basaltsteinen.", "Viele der Steine weisen rätselhafte Löcher auf."],
       hu: ["Több mint 200 nagy bazaltkőből áll.", "A kövek egy részén rejtélyes lyukak találhatók."],
       ro: ["Este compus din peste 200 de pietre masive de bazalt.", "Multe pietre au găuri misterioase în partea superioară."],
       en: ["Composed of over 200 massive basalt stones.", "Many of the stones have smooth holes carved into them."]
-    }, image: "/poi-images/karahunj-history-v2.webp"},
+    }, image: "/poi-images/karahunj-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Karahunj, auch als Zoroastrische Himmelsbeobachtungsanlage bekannt, ist ein archäologischer Fundplatz in Armenia.",
+      hu: "A Karahung egy antik asztroláb eredményeként ismert helyiség az Örményországban, amely számos utazón hírnévben áll a kulturális jelentősége miatt.",
+      ro: "Karahunj este o stare arheologică în Armenia cunoscută sub numele de observatoriu zoroastrian pentru cerul.",
+      en: "Karahunj, also known as the Zoroastrian Observatory or Armenian Stonehenge, is an archaeological site in Armenia.",
+    },
+    factsAdvanced: {
+      de: ["Die Anlage ist etwa 7000 Jahre alt.", "Es besteht aus über 200 Steinen.", "Einige Steine haben Bohrungen für die Beobachtung von Gestirnen.", "Karahunj wurde erst in den 1990er Jahren entdeckt."],
+      hu: ["A helyiség korlátja körülbelül 7000 év.", "Az összességben több mint 200 kő van.", "Egyes kők égbolti törvények megfigyelésére vannak.", "Karahung 1990-es éveken jelent meg."],
+      ro: ["Starea are aproximativ 7000 de ani.", "Constă din peste 200 de piatră.", "Unele pietre au fori pentru observația stelelor.", "Karahunj a fost descoperit în anii '90."],
+      en: ["The site is about 7000 years old.", "It consists of more than 200 stones.", "Some stones have holes to observe celestial bodies.", "Discovered in the 1990s."],
+    },
+  },
   {
     id: "oshakan-church-history-v2",
     type: "historical-site",
     parent: "AM-AG",
     coords: [44.3160, 40.2642],
-    name: { de: "Kirche von Oschakan", hu: "Osakan-templom", ro: "Biserica Oshakan", en: "Oshakan Church",
-image: "/poi-images/oshakan-church-history-v2.webp"
-},
+    name: { de: "Kirche von Oschakan", hu: "Osakan-templom", ro: "Biserica Oshakan", en: "Oshakan Church"},
+    image: "/poi-images/oshakan-church-history-v2.webp",
     description: { de: "Eine Kirche, die über dem Grab von Mesrop Maschtoz, dem Erfinder des armenischen Alphabets, errichtet wurde.", hu: "Templom, amelyet Meszrop Mastoc, az örmény ábécé megalkotójának sírja fölé emeltek.", ro: "O biserică construită deasupra mormântului lui Mesrop Maștoț, inventatorul alfabetului armean.", en: "A church built over the grave of Mesrop Mashtots, the creator of the Armenian alphabet." },
     facts: {
       de: ["Der Erfinder des armenischen Alphabets ist hier begraben.", "Das armenische Alphabet wurde im Jahr 405 geschaffen."],
       hu: ["Itt nyugszik az örmény ábécé megalkotója.", "Az örmény ábécét 405-ben hozták létre."],
       ro: ["Inventatorul alfabetului armean este înmormântat aici.", "Alfabetul armean a fost creat în anul 405."],
       en: ["The creator of the Armenian alphabet is buried here.", "The Armenian alphabet was created in the year 405."]
-    }, image: "/poi-images/oshakan-church-history-v2.webp"},
+    }, image: "/poi-images/oshakan-church-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Oshakan-Kirche liegt in der Nähe des Ortes Mets Mashtots und ist ein bedeutender christlicher Ort.",
+      hu: "Az Oshakan templom a Mets Mashtots falu közelében található, és egy fontos vallásos hely az országon belül.",
+      ro: "Biserica Oshakan se află în apropiere de orașul Mets Mashtots și este un loc important pentru creștinismul armean.",
+      en: "Oshakan Church is located near the village of Mets Mashtots and holds significant religious importance.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde im 17. Jahrhundert erbaut.", "Es ist ein Ort der Pilgerfahrt für die Armenier.", "Oshakan ist eine bedeutende christliche Reliquie.", "Der Name erinnert an den Schöpfer des armischen Alphabets."],
+      hu: ["A templom 17. században került építést.", "Az Oshakan egy utazási hely a vallásos országban.", "Oshakan fontos keresztény emlékezet.", "A nevét az arméni írás alapítójának emlékül használják."],
+      ro: ["Biserica a fost construită în secolul XVII.", "Este un loc de pelerinaj pentru creștinii armeni.", "Oshakan este o relicvă religioasă importantă.", "Numele se referă la creatorele alfabetului armenească."],
+      en: ["Built in the 17th century.", "Pilgrimage site for Armenians.", "Holds significant Christian importance.", "Named after the creator of Armenian alphabet."],
+    },
+  },
   {
     id: "akhtala-monastery-history-v2",
     type: "historical-site",
     parent: "AM-LO",
     coords: [44.7600, 41.1504],
-    name: { de: "Kloster Achtala", hu: "Ahtala-kolostor", ro: "Mănăstirea Akhtala", en: "Akhtala Monastery",
-image: "/poi-images/akhtala-monastery-history-v2.webp"
-},
+    name: { de: "Kloster Achtala", hu: "Ahtala-kolostor", ro: "Mănăstirea Akhtala", en: "Akhtala Monastery"},
+    image: "/poi-images/akhtala-monastery-history-v2.webp",
     description: { de: "Ein befestigtes Kloster aus dem 10. Jahrhundert, bekannt für seine sehr gut erhaltenen mittelalterlichen Fresken.", hu: "Erődített kolostor a 10. századból, amely nagyon jól megőrzött középkori freskóiról híres.", ro: "O mănăstire fortificată din secolul al X-lea, cunoscută pentru frescele sale medievale bine conservate.", en: "A 10th-century fortified monastery known for its well-preserved medieval frescoes." },
     facts: {
       de: ["Die Fresken kombinieren byzantinische und armenische Kunststile.", "Wurde von den Fürsten der Bagratiden-Dynastie erbaut."],
       hu: ["A freskók a bizánci és az örmény művészeti stílusokat ötvözik.", "A Bagratuni-dinasztia hercegei építtették."],
       ro: ["Frescele combină stilurile artistice bizantin și armean.", "A fost construită de prinții dinastiei Bagratid."],
       en: ["The frescoes combine Byzantine and Armenian art styles.", "Built by the princes of the Bagratid dynasty."]
-    }, image: "/poi-images/akhtala-monastery-history-v2.webp"},
+    }, image: "/poi-images/akhtala-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Akhtala-Klosterkomplex liegt in der Region Tavush und ist bekannt für seine reiche Geschichte und kunstvolle Architektur.",
+      hu: "Az Akhtala apátság a Tavush területen található, és rengeteg utazón ismert az értékes kultúra miatt.",
+      ro: "Complexul mănăstirii Akhtala se află în regiunea Tavush și este cunoscut pentru bogată istorie și arhitectură artizanală.",
+      en: "Akhtala Monastery complex is located in the Tavush region and known for its rich history and artistic architecture.",
+    },
+    factsAdvanced: {
+      de: ["Der Komplex wurde im Jahr 1215 gegründet.", "Es ist eine UNESCO-Weltkulturerbe-Stätte.", "Akhtala hat einen wertvollen archäologischen Fund.", "Die Architektur stammt aus dem Mittelalter."],
+      hu: ["Az apátság 1215-ben alakult ki.", "UNESCO világörökség része a helyiség.", "Akhtala rendkívül értékes kulturális eredményt tartalmaz.", "A környék középkori építési stílusú."],
+      ro: ["Complexul a fost înființat în anul 1215.", "Este un patrimoniu mondial UNESCO.", "Akhtala conține un descoperire arheologică valoroasă.", "Arhitectura este din perioada medievală."],
+      en: ["Founded in the year 1215 AD.", "It is a UNESCO World Heritage Site.", "Contains valuable archaeological findings.", "The architecture dates back to medieval times."],
+    },
+  },
   {
     id: "dashtadem-fortress-history-v2",
     type: "ruin",
     parent: "AM-AG",
     coords: [43.8580, 40.3400],
-    name: { de: "Festung Daschtadem", hu: "Dastadem-erőd", ro: "Cetatea Dashtadem", en: "Dashtadem Fortress",
-image: "/poi-images/dashtadem-fortress-history-v2.webp"
-},
+    name: { de: "Festung Daschtadem", hu: "Dastadem-erőd", ro: "Cetatea Dashtadem", en: "Dashtadem Fortress"},
+    image: "/poi-images/dashtadem-fortress-history-v2.webp",
     description: { de: "Eine weitläufige mittelalterliche Festung, die vom 10. bis zum 19. Jahrhundert kontinuierlich erweitert wurde.", hu: "Kiterjedt középkori erőd, amelyet a 10. századtól a 19. századig folyamatosan bővítettek.", ro: "O vastă cetate medievală, extinsă continuu din secolul al X-lea până în secolul al XIX-lea.", en: "A substantial medieval fortress, continuously expanded from the 10th to the 19th centuries." },
     facts: {
       de: ["Besteht aus zwei massiven Verteidigungsmauern.", "Diente dem Schutz der westlichen Grenzen Armeniens."],
       hu: ["Két masszív védőfalból áll.", "Örményország nyugati határainak védelmére szolgált."],
       ro: ["Este formată din două ziduri masive de apărare.", "A servit la protejarea granițelor vestice ale Armeniei."],
       en: ["Features two massive defensive walls.", "Served to protect the western borders of Armenia."]
-    }, image: "/poi-images/dashtadem-fortress-history-v2.webp"},
+    }, image: "/poi-images/dashtadem-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dashtadem-Festung ist eine eindrucksvolle mittelalterliche Festungsanlage in Armenien, die seit dem 1. Jahrhundert v. Chr. existiert.",
+      hu: "A Dashtadem-vestély egy armeni Középkori erőd, amely a 1. század előtti évekből létezik.",
+      ro: "Fortelesele Dashtadem este o fortă medievală din Armenia care există de la secolul I î.Hr.",
+      en: "The Dashtadem Fortress is an impressive medieval fortress in Armenia dating back to the 1st century BCE.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung wurde im 4. Jahrhundert erbaut.", "Der Name bedeutet 'Stätte des Friedens'.", "Sie hat eine Fläche von 37 ha.", "Dashtadem wird vom Armeeaußenministerium verwaltet."],
+      hu: ["A vestély a 4. században került létrehozásra.", "Az eredeti neve 'Békészülő'.", "Területe 37 hektáros.", "A védelmét az országos katonai hivatal biztosítja."],
+      ro: ["Fortă a fost construită în secolul al IV-lea d.Hr.", "Numele său înseamnă 'Loc de pace'.", "Are o suprafață de 37 ha.", "Este administrată de Ministerul Afacerilor Externe."],
+      en: ["The fortress was built in the 4th century AD.", "Its name means 'Place of Peace'", "It covers an area of 37 hectares.", "Management is under the Ministry of Foreign Affairs."],
+    },
+  },
   {
     id: "aruchavank-history-v2",
     type: "historical-site",
     parent: "AM-AG",
     coords: [44.0792, 40.3015],
-    name: { de: "Kathedrale von Arutsch", hu: "Arucsavank", ro: "Catedrala Aruch", en: "Aruchavank",
-image: "/poi-images/aruchavank-history-v2.webp"
-},
+    name: { de: "Kathedrale von Arutsch", hu: "Arucsavank", ro: "Catedrala Aruch", en: "Aruchavank"},
+    image: "/poi-images/aruchavank-history-v2.webp",
     description: { de: "Die Überreste einer der größten Kirchen Armeniens aus dem 7. Jahrhundert, mit einer einstmals riesigen Kuppel.", hu: "Örményország egyik legnagyobb 7. századi templomának maradványai, amelynek egykor hatalmas kupolája volt.", ro: "Rămășițele uneia dintre cele mai mari biserici din Armenia, din secolul al VII-lea, cu un fost dom imens.", en: "The remains of one of the largest 7th-century Armenian churches, originally featuring a massive dome." },
     facts: {
       de: ["Die gewaltige Kuppel stürzte bei einem Erdbeben ein.", "War Teil eines großen Palastkomplexes."],
       hu: ["A hatalmas kupola egy földrengés során beomlott.", "Egy nagy palotakomplexum része volt."],
       ro: ["Domul enorm s-a prăbușit într-un cutremur.", "Făcea parte dintr-un mare complex palatinal."],
       en: ["The massive dome collapsed during an earthquake.", "Was originally part of a large palace complex."]
-    }, image: "/poi-images/aruchavank-history-v2.webp"},
+    }, image: "/poi-images/aruchavank-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Aruchavank ist eine mittelalterliche Klosterkomplexe in Armenien, berühmt für seine ungewöhnlichen Kirchen.",
+      hu: "Az Aruchavank egy armeni Középkori templomkör, hírneve az ártós templomok miatt.",
+      ro: "Aruchavank este un complex monastic medieval din Armenia renumit pentru templile sale neobișnuite.",
+      en: "Aruchavank is a medieval Armenian monastery complex famous for its unusual churches.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet wurde Aruchavank im 7. Jahrhundert.", "Die Hauptkirche ist das 10. Jahrhundert geweiht.", "Der Komplex erstreckt sich über 3 ha.", "Aruchavank steht seit 2008 unter Denkmalschutz."],
+      hu: ["Az Aruchavank a 7. században került létrehozásra.", "A fő templom a 10. századból dátumozható.", "A kör területe 3 hektáros.", "2008 óta nemzetközi védett értékként figyelmezik."],
+      ro: ["Complexul a fost înființat în secolul al VII-lea d.Hr.", "Principala biserica este din secolul al X-lea.", "Are o suprafață de 3 ha.", "Este protejat ca monument național de 2008."],
+      en: ["Founded in the 7th century AD.", "The main church dates back to the 10th century.", "It spans an area of 3 hectares.", "Protected as a national monument since 2008."],
+    },
+  },
   {
     id: "odzun-church-history-v2",
     type: "historical-site",
     parent: "AM-LO",
     coords: [44.6162, 41.0537],
-    name: { de: "Kirche von Odsun", hu: "Odzun-templom", ro: "Biserica Odzun", en: "Odzun Church",
-image: "/poi-images/odzun-church-history-v2.webp"
-},
+    name: { de: "Kirche von Odsun", hu: "Odzun-templom", ro: "Biserica Odzun", en: "Odzun Church"},
+    image: "/poi-images/odzun-church-history-v2.webp",
     description: { de: "Eine bedeutende armenische Basilika aus dem 6. Jahrhundert, umgeben von einem großen Arkadengang.", hu: "Jelentős 6. századi örmény bazilika, amelyet nagy árkádsor vesz körül.", ro: "O importantă bazilică armeană din secolul al VI-lea, înconjurată de o arcadă largă.", en: "A significant 6th-century Armenian basilica, surrounded by an extensive arcade." },
     facts: {
       de: ["Eine der ältesten und größten erhaltenen Basiliken Armeniens.", "Auf dem Gelände steht ein einzigartiges Grabmonument."],
       hu: ["Örményország egyik legrégebbi és legnagyobb fennmaradt bazilikája.", "A területen egy egyedülálló síremlék is található."],
       ro: ["Una dintre cele mai vechi și mari bazilici păstrate din Armenia.", "Pe teren se află un monument funerar unic."],
       en: ["One of the oldest and largest surviving basilicas in Armenia.", "Features a unique memorial monument on its grounds."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Odzun-Kirche ist eine imposante mittelalterliche Kirche in Armenien, die für ihre architektonische Schönheit bekannt ist.",
+      hu: "Az Odzun temploma egy armeni Középkori templom, amely az építészeti szépség miatt híres.",
+      ro: "Biserica Odzun este o biserică medievală impresionantă din Armenia cunoscută pentru frumusețea sa arhitecturală.",
+      en: "Odzun Church is an impressive medieval Armenian church known for its architectural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Die Odzun-Kirche wurde im 5. Jahrhundert erbaut.", "Sie ist über 16 m hoch.", "Der Turm trägt die Wappen der Dynastie Bagratuni.", "Jährlich besuchen 30.000 Touristen die Kirche."],
+      hu: ["Az Odzun templom a 5. században került felépítésre.", "Magassága felett 16 méter.", "A toronyra Bagratuni dinasztiai címereket találhatók.", "Évente több mint 30 ezer utazó látogatja."],
+      ro: ["Biserica Odzun a fost construită în secolul al V-lea d.Hr.", "Are o înălțime de peste 16 metri.", "Pe turn sunt cimpele dinastiei Bagratuni.", "Cea mai multe de 30.000 turiști o vizitează anual."],
+      en: ["Constructed in the 5th century AD.", "It stands over 16 meters tall.", "The tower is adorned with Bagratuni dynasty crests.", "Over 30,000 tourists visit annually."],
+    },
   }
 ];

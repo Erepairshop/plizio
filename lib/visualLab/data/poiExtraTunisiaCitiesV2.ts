@@ -7,9 +7,8 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TN-11",
     coords: [10.1815, 36.8065],
-    name: { de: "Tunis", hu: "Tunisz", ro: "Tunis", en: "Tunis",
-image: "/poi-images/tunis-cities-v2.webp"
-},
+    name: { de: "Tunis", hu: "Tunisz", ro: "Tunis", en: "Tunis"},
+    image: "/poi-images/tunis-cities-v2.webp",
     description: { de: "Die Hauptstadt und größte Stadt Tunesiens am Mittelmeer.", hu: "Tunézia fővárosa és legnagyobb városa a Földközi-tenger partján.", ro: "Capitala și cel mai mare oraș al Tunisiei pe Marea Mediterană.", en: "The capital and largest city of Tunisia on the Mediterranean Sea." },
     facts: {
       de: ["Politisches Zentrum", "Über 1 Million Einwohner"],
@@ -34,9 +33,8 @@ image: "/poi-images/tunis-cities-v2.webp"
     type: "state-capital",
     parent: "TN-12",
     coords: [10.1933, 36.8625],
-    name: { de: "Ariana", hu: "Ariana", ro: "Ariana", en: "Ariana",
-image: "/poi-images/ariana-cities-v2.webp"
-},
+    name: { de: "Ariana", hu: "Ariana", ro: "Ariana", en: "Ariana"},
+    image: "/poi-images/ariana-cities-v2.webp",
     description: { de: "Eine wichtige Stadt im Großraum Tunis, bekannt für ihre Landwirtschaft und Rosen.", hu: "Jelentős város Tunisz agglomerációjában, amely mezőgazdaságáról és rózsáiról ismert.", ro: "Un oraș important din zona metropolitană Tunis, cunoscut pentru agricultură și trandafiri.", en: "An important city in the Tunis metropolitan area, known for its agriculture and roses." },
     facts: {
       de: ["Teil der Hauptstadtregion", "Rosenstadt"],
@@ -61,9 +59,8 @@ image: "/poi-images/ariana-cities-v2.webp"
     type: "state-capital",
     parent: "TN-13",
     coords: [10.2189, 36.7531],
-    name: { de: "Ben Arous", hu: "Ben Arous", ro: "Ben Arous", en: "Ben Arous",
-image: "/poi-images/ben-arous-cities-v2.webp"
-},
+    name: { de: "Ben Arous", hu: "Ben Arous", ro: "Ben Arous", en: "Ben Arous"},
+    image: "/poi-images/ben-arous-cities-v2.webp",
     description: { de: "Eine der wichtigsten Industrie- und Handelsstädte im Vorortbereich von Tunis.", hu: "Tunisz egyik legfontosabb ipari és kereskedelmi külvárosa.", ro: "Unul dintre cele mai importante orașe industriale și comerciale din suburbiile Tunisului.", en: "One of the most important industrial and commercial suburban cities of Tunis." },
     facts: {
       de: ["Industriestandort", "Nahe Tunis"],
@@ -87,9 +84,8 @@ image: "/poi-images/ben-arous-cities-v2.webp"
     type: "state-capital",
     parent: "TN-14",
     coords: [10.0956, 36.8081],
-    name: { de: "Manouba", hu: "Manouba", ro: "Manouba", en: "Manouba",
-image: "/poi-images/manouba-cities-v2.webp"
-},
+    name: { de: "Manouba", hu: "Manouba", ro: "Manouba", en: "Manouba"},
+    image: "/poi-images/manouba-cities-v2.webp",
     description: { de: "Eine Stadt im Nordwesten des Großraums Tunis, bekannt für ihre Universität.", hu: "Város Tunisz vonzáskörzetének északnyugati részén, amely egyeteméről híres.", ro: "Un oraș din nord-vestul zonei metropolitane Tunis, cunoscut pentru universitatea sa.", en: "A city in the northwest of the Tunis metropolitan area, known for its university." },
     facts: {
       de: ["Universitätsstadt", "Vorort von Tunis"],
@@ -113,9 +109,8 @@ image: "/poi-images/manouba-cities-v2.webp"
     type: "state-capital",
     parent: "TN-21",
     coords: [10.7358, 36.4561],
-    name: { de: "Nabeul", hu: "Nabeul", ro: "Nabeul", en: "Nabeul",
-image: "/poi-images/nabeul-cities-v2.webp"
-},
+    name: { de: "Nabeul", hu: "Nabeul", ro: "Nabeul", en: "Nabeul"},
+    image: "/poi-images/nabeul-cities-v2.webp",
     description: { de: "Das Zentrum der Keramikproduktion und ein wichtiges Touristenziel in Tunesien.", hu: "A kerámiagyártás központja és jelentős turisztikai célpont Tunéziában.", ro: "Centrul producției de ceramică și o destinație turistică importantă din Tunisia.", en: "The center of pottery production and a major tourist destination in Tunisia." },
     facts: {
       de: ["Keramikzentrum", "Touristenstadt"],
@@ -139,9 +134,8 @@ image: "/poi-images/nabeul-cities-v2.webp"
     type: "state-capital",
     parent: "TN-22",
     coords: [10.1425, 36.4011],
-    name: { de: "Zaghouan", hu: "Zaghouan", ro: "Zaghouan", en: "Zaghouan",
-image: "/poi-images/zaghouan-cities-v2.webp"
-},
+    name: { de: "Zaghouan", hu: "Zaghouan", ro: "Zaghouan", en: "Zaghouan"},
+    image: "/poi-images/zaghouan-cities-v2.webp",
     description: { de: "Bekannt für die andalusische Architektur und als Ausgangspunkt eines römischen Aquädukts.", hu: "Az andalúz építészetről és egy római vízvezeték kiindulópontjáról ismert.", ro: "Cunoscut pentru arhitectura andaluză și ca punct de plecare al unui apeduct roman.", en: "Known for its Andalusian architecture and as the starting point of a Roman aqueduct." },
     facts: {
       de: ["Römisches Aquädukt", "Andalusischer Einfluss"],
@@ -163,9 +157,8 @@ image: "/poi-images/zaghouan-cities-v2.webp"
     type: "state-capital",
     parent: "TN-23",
     coords: [9.8739, 37.2746],
-    name: { de: "Bizerte", hu: "Bizerte", ro: "Bizerte", en: "Bizerte",
-image: "/poi-images/bizerte-cities-v2.webp"
-},
+    name: { de: "Bizerte", hu: "Bizerte", ro: "Bizerte", en: "Bizerte"},
+    image: "/poi-images/bizerte-cities-v2.webp",
     description: { de: "Die nördlichste Stadt Afrikas und ein wichtiger Hafen am Mittelmeer.", hu: "Afrika legészakibb városa és fontos kikötő a Földközi-tenger partján.", ro: "Cel mai nordic oraș din Africa și un port important la Marea Mediterană.", en: "The northernmost city in Africa and an important port on the Mediterranean Sea." },
     facts: {
       de: ["Nördlichste Stadt", "Wichtiger Hafen"],
@@ -187,9 +180,8 @@ image: "/poi-images/bizerte-cities-v2.webp"
     type: "state-capital",
     parent: "TN-31",
     coords: [9.1817, 36.7256],
-    name: { de: "Béja", hu: "Béja", ro: "Béja", en: "Béja",
-image: "/poi-images/beja-cities-v2.webp"
-},
+    name: { de: "Béja", hu: "Béja", ro: "Béja", en: "Béja"},
+    image: "/poi-images/beja-cities-v2.webp",
     description: { de: "Ein landwirtschaftliches Zentrum im Nordwesten, das bereits in der Antike wichtig war.", hu: "Egy északnyugati mezőgazdasági központ, amely már az ókorban is jelentős volt.", ro: "Un centru agricol din nord-vest, care era important încă din antichitate.", en: "An agricultural center in the northwest that was already important in antiquity." },
     facts: {
       de: ["Agrarzentrum", "Historische Wurzeln"],
@@ -211,9 +203,8 @@ image: "/poi-images/beja-cities-v2.webp"
     type: "state-capital",
     parent: "TN-32",
     coords: [8.7802, 36.5011],
-    name: { de: "Jendouba", hu: "Jendouba", ro: "Jendouba", en: "Jendouba",
-image: "/poi-images/jendouba-cities-v2.webp"
-},
+    name: { de: "Jendouba", hu: "Jendouba", ro: "Jendouba", en: "Jendouba"},
+    image: "/poi-images/jendouba-cities-v2.webp",
     description: { de: "Eine bedeutende landwirtschaftliche Stadt nahe der Grenze zu Algerien.", hu: "Jelentős mezőgazdasági város az algériai határ közelében.", ro: "Un oraș agricol important aproape de granița cu Algeria.", en: "A significant agricultural city near the border with Algeria." },
     facts: {
       de: ["Grenzstadt", "Agrarregion"],
@@ -235,9 +226,8 @@ image: "/poi-images/jendouba-cities-v2.webp"
     type: "state-capital",
     parent: "TN-33",
     coords: [8.7148, 36.1742],
-    name: { de: "El Kef", hu: "El Kef", ro: "El Kef", en: "El Kef",
-image: "/poi-images/el-kef-cities-v2.webp"
-},
+    name: { de: "El Kef", hu: "El Kef", ro: "El Kef", en: "El Kef"},
+    image: "/poi-images/el-kef-cities-v2.webp",
     description: { de: "Eine historische Stadt im Nordwesten mit einer beeindruckenden byzantinischen Kasbah.", hu: "Történelmi város északnyugaton, egy lenyűgöző bizánci kasbával.", ro: "Un oraș istoric din nord-vest, cu o impresionantă kasbah bizantină.", en: "A historical city in the northwest with an impressive Byzantine kasbah." },
     facts: {
       de: ["Historische Festung", "Höhergelegene Stadt"],
@@ -259,9 +249,8 @@ image: "/poi-images/el-kef-cities-v2.webp"
     type: "state-capital",
     parent: "TN-34",
     coords: [9.3642, 36.0849],
-    name: { de: "Siliana", hu: "Siliana", ro: "Siliana", en: "Siliana",
-image: "/poi-images/siliana-cities-v2.webp"
-},
+    name: { de: "Siliana", hu: "Siliana", ro: "Siliana", en: "Siliana"},
+    image: "/poi-images/siliana-cities-v2.webp",
     description: { de: "Ein regionales Zentrum für Landwirtschaft im zentralen Nordtunesien.", hu: "Egy regionális mezőgazdasági központ Tunézia északi-középső részén.", ro: "Un centru agricol regional în centrul-nordul Tunisiei.", en: "A regional agricultural center in central-northern Tunisia." },
     facts: {
       de: ["Regionales Zentrum", "Binnenstadt"],
@@ -283,9 +272,8 @@ image: "/poi-images/siliana-cities-v2.webp"
     type: "state-capital",
     parent: "TN-41",
     coords: [10.0963, 35.6781],
-    name: { de: "Kairouan", hu: "Kairouan", ro: "Kairouan", en: "Kairouan",
-image: "/poi-images/kairouan-cities-v2.webp"
-},
+    name: { de: "Kairouan", hu: "Kairouan", ro: "Kairouan", en: "Kairouan"},
+    image: "/poi-images/kairouan-cities-v2.webp",
     description: { de: "Eine der heiligsten Städte des Islam und UNESCO-Weltkulturerbe.", hu: "Az iszlám egyik legszentebb városa és UNESCO világörökségi helyszín.", ro: "Unul dintre cele mai sfinte orașe ale Islamului și un sit al Patrimoniului Mondial UNESCO.", en: "One of the holiest cities in Islam and a UNESCO World Heritage site." },
     facts: {
       de: ["Heilige Stadt", "Große Moschee"],
@@ -307,9 +295,8 @@ image: "/poi-images/kairouan-cities-v2.webp"
     type: "state-capital",
     parent: "TN-42",
     coords: [8.7997, 35.1676],
-    name: { de: "Kasserine", hu: "Kasserine", ro: "Kasserine", en: "Kasserine",
-image: "/poi-images/kasserine-cities-v2.webp"
-},
+    name: { de: "Kasserine", hu: "Kasserine", ro: "Kasserine", en: "Kasserine"},
+    image: "/poi-images/kasserine-cities-v2.webp",
     description: { de: "Eine strategisch wichtige Stadt im westlichen Zentraltunesien nahe dem Bergland.", hu: "Stratégiailag fontos város Nyugat-Közép-Tunéziában, a hegyvidék közelében.", ro: "Un oraș important din punct de vedere strategic în centrul-vestul Tunisiei, aproape de munți.", en: "A strategically important city in western-central Tunisia near the mountainous region." },
     facts: {
       de: ["Römische Ruinen", "Am Fuße der Berge"],
@@ -331,9 +318,8 @@ image: "/poi-images/kasserine-cities-v2.webp"
     type: "state-capital",
     parent: "TN-43",
     coords: [9.4839, 35.0382],
-    name: { de: "Sidi Bouzid", hu: "Sidi Bouzid", ro: "Sidi Bouzid", en: "Sidi Bouzid",
-image: "/poi-images/sidi-bouzid-cities-v2.webp"
-},
+    name: { de: "Sidi Bouzid", hu: "Sidi Bouzid", ro: "Sidi Bouzid", en: "Sidi Bouzid"},
+    image: "/poi-images/sidi-bouzid-cities-v2.webp",
     description: { de: "Der Geburtsort des Arabischen Frühlings im zentralen Tunesien.", hu: "Az arab tavasz szülőhelye Közép-Tunéziában.", ro: "Locul de naștere al Primăverii Arabe, în centrul Tunisiei.", en: "The birthplace of the Arab Spring in central Tunisia." },
     facts: {
       de: ["Historischer Ort", "Agrarregion"],
@@ -355,9 +341,8 @@ image: "/poi-images/sidi-bouzid-cities-v2.webp"
     type: "state-capital",
     parent: "TN-51",
     coords: [10.6369, 35.8256],
-    name: { de: "Sousse", hu: "Sousse", ro: "Sousse", en: "Sousse",
-image: "/poi-images/sousse-cities-v2.webp"
-},
+    name: { de: "Sousse", hu: "Sousse", ro: "Sousse", en: "Sousse"},
+    image: "/poi-images/sousse-cities-v2.webp",
     description: { de: "Eine wichtige Hafenstadt und ein beliebtes Touristenzentrum am Mittelmeer.", hu: "Fontos kikötőváros és népszerű turisztikai központ a Földközi-tenger partján.", ro: "Un important oraș-port și un centru turistic popular la Marea Mediterană.", en: "An important port city and popular tourist center on the Mediterranean Sea." },
     facts: {
       de: ["Touristenhochburg", "Bedeutende Medina"],
@@ -379,9 +364,8 @@ image: "/poi-images/sousse-cities-v2.webp"
     type: "state-capital",
     parent: "TN-52",
     coords: [10.8261, 35.7779],
-    name: { de: "Monastir", hu: "Monastir", ro: "Monastir", en: "Monastir",
-image: "/poi-images/monastir-cities-v2.webp"
-},
+    name: { de: "Monastir", hu: "Monastir", ro: "Monastir", en: "Monastir"},
+    image: "/poi-images/monastir-cities-v2.webp",
     description: { de: "Eine Küstenstadt mit einer beeindruckenden Festung (Ribat) und einem internationalen Flughafen.", hu: "Tengerparti város egy lenyűgöző erőddel (Ribat) és nemzetközi repülőtérrel.", ro: "Un oraș de coastă cu o fortăreață impresionantă (Ribat) și un aeroport internațional.", en: "A coastal city with an impressive fortress (Ribat) and an international airport." },
     facts: {
       de: ["Historischer Ribat", "Flughafenstadt"],
@@ -403,9 +387,8 @@ image: "/poi-images/monastir-cities-v2.webp"
     type: "state-capital",
     parent: "TN-53",
     coords: [11.0622, 35.5047],
-    name: { de: "Mahdia", hu: "Mahdia", ro: "Mahdia", en: "Mahdia",
-image: "/poi-images/mahdia-cities-v2.webp"
-},
+    name: { de: "Mahdia", hu: "Mahdia", ro: "Mahdia", en: "Mahdia"},
+    image: "/poi-images/mahdia-cities-v2.webp",
     description: { de: "Die ehemalige Hauptstadt der Fatimiden und heute ein ruhiger Küstenort.", hu: "A Fátimidák egykori fővárosa, ma nyugodt tengerparti település.", ro: "Fosta capitală a Fatimizilor și astăzi un oraș de coastă liniștit.", en: "The former capital of the Fatimids and today a quiet coastal town." },
     facts: {
       de: ["Ehemalige Hauptstadt", "Fischereihafen"],
@@ -431,9 +414,8 @@ image: "/poi-images/mahdia-cities-v2.webp"
     type: "state-capital",
     parent: "TN-61",
     coords: [10.7602, 34.7405],
-    name: { de: "Sfax", hu: "Sfax", ro: "Sfax", en: "Sfax",
-image: "/poi-images/sfax-cities-v2.webp"
-},
+    name: { de: "Sfax", hu: "Sfax", ro: "Sfax", en: "Sfax"},
+    image: "/poi-images/sfax-cities-v2.webp",
     description: { de: "Das wichtigste Industrie- und Handelszentrum im Süden Tunesiens.", hu: "Dél-Tunézia legfontosabb ipari és kereskedelmi központja.", ro: "Cel mai important centru industrial și comercial din sudul Tunisiei.", en: "The most important industrial and commercial center in southern Tunisia." },
     facts: {
       de: ["Wirtschaftszentrum", "Zweitgrößte Stadt"],
@@ -455,9 +437,8 @@ image: "/poi-images/sfax-cities-v2.webp"
     type: "state-capital",
     parent: "TN-71",
     coords: [8.7842, 34.425],
-    name: { de: "Gafsa", hu: "Gafsa", ro: "Gafsa", en: "Gafsa",
-image: "/poi-images/gafsa-cities-v2.webp"
-},
+    name: { de: "Gafsa", hu: "Gafsa", ro: "Gafsa", en: "Gafsa"},
+    image: "/poi-images/gafsa-cities-v2.webp",
     description: { de: "Das Zentrum des Phosphatabbaus und eine historische Oasenstadt im Süden.", hu: "A foszfátbányászat központja és egy történelmi oázisváros délen.", ro: "Centrul extracției de fosfați și un oraș istoric oază în sud.", en: "The center of phosphate mining and a historical oasis city in the south." },
     facts: {
       de: ["Phosphatabbau", "Historische Oase"],
@@ -479,9 +460,8 @@ image: "/poi-images/gafsa-cities-v2.webp"
     type: "state-capital",
     parent: "TN-72",
     coords: [8.1335, 33.9196],
-    name: { de: "Tozeur", hu: "Tozeur", ro: "Tozeur", en: "Tozeur",
-image: "/poi-images/tozeur-cities-v2.webp"
-},
+    name: { de: "Tozeur", hu: "Tozeur", ro: "Tozeur", en: "Tozeur"},
+    image: "/poi-images/tozeur-cities-v2.webp",
     description: { de: "Eine berühmte Wüstenstadt am Chott el Djerid, bekannt für ihre Datteln.", hu: "Híres sivatagi város a Chott el Djerid mellett, amely a datolyájáról ismert.", ro: "Un faimos oraș din deșert pe Chott el Djerid, cunoscut pentru curmalele sale.", en: "A famous desert city on the Chott el Djerid, known for its dates." },
     facts: {
       de: ["Dattelproduktion", "Wüstenstadt"],
@@ -503,9 +483,8 @@ image: "/poi-images/tozeur-cities-v2.webp"
     type: "state-capital",
     parent: "TN-73",
     coords: [8.9714, 33.7043],
-    name: { de: "Kebili", hu: "Kebili", ro: "Kebili", en: "Kebili",
-image: "/poi-images/kebili-cities-v2.webp"
-},
+    name: { de: "Kebili", hu: "Kebili", ro: "Kebili", en: "Kebili"},
+    image: "/poi-images/kebili-cities-v2.webp",
     description: { de: "Eine wichtige Oasenstadt am Rande der Sahara.", hu: "Fontos oázisváros a Szahara szélén.", ro: "Un oraș important oază la marginea Saharei.", en: "An important oasis city on the edge of the Sahara." },
     facts: {
       de: ["Oasenstadt", "Sahara-Rand"],
@@ -525,9 +504,8 @@ image: "/poi-images/kebili-cities-v2.webp"
     type: "state-capital",
     parent: "TN-81",
     coords: [10.1136, 33.8814],
-    name: { de: "Gabès", hu: "Gabès", ro: "Gabès", en: "Gabès",
-image: "/poi-images/gabes-cities-v2.webp"
-},
+    name: { de: "Gabès", hu: "Gabès", ro: "Gabès", en: "Gabès"},
+    image: "/poi-images/gabes-cities-v2.webp",
     description: { de: "Die einzige Küstenoase des Mittelmeers und ein bedeutender Industriestandort.", hu: "A Földközi-tenger egyetlen tengerparti oázisa és jelentős ipari központ.", ro: "Singura oază de coastă din Marea Mediterană și un centru industrial important.", en: "The only coastal oasis in the Mediterranean and a major industrial site." },
     facts: {
       de: ["Küstenoase", "Chemieindustrie"],
@@ -547,9 +525,8 @@ image: "/poi-images/gabes-cities-v2.webp"
     type: "state-capital",
     parent: "TN-82",
     coords: [10.4958, 33.3549],
-    name: { de: "Medenine", hu: "Medenine", ro: "Medenine", en: "Medenine",
-image: "/poi-images/medenine-cities-v2.webp"
-},
+    name: { de: "Medenine", hu: "Medenine", ro: "Medenine", en: "Medenine"},
+    image: "/poi-images/medenine-cities-v2.webp",
     description: { de: "Eine Stadt im Südosten, bekannt für ihre traditionellen Getreidespeicher (Ksour).", hu: "Egy délkeleti város, amely a hagyományos magtárairól (Ksour) ismert.", ro: "Un oraș din sud-est, cunoscut pentru hambarele sale tradiționale (Ksour).", en: "A city in the southeast, known for its traditional granaries (Ksour)." },
     facts: {
       de: ["Traditionelle Ksour", "Wüstenregion"],
@@ -569,9 +546,8 @@ image: "/poi-images/medenine-cities-v2.webp"
     type: "state-capital",
     parent: "TN-83",
     coords: [10.4517, 32.9296],
-    name: { de: "Tataouine", hu: "Tataouine", ro: "Tataouine", en: "Tataouine",
-image: "/poi-images/tataouine-cities-v2.webp"
-},
+    name: { de: "Tataouine", hu: "Tataouine", ro: "Tataouine", en: "Tataouine"},
+    image: "/poi-images/tataouine-cities-v2.webp",
     description: { de: "Die südlichste Stadt Tunesiens, die durch den Film Star Wars berühmt wurde.", hu: "Tunézia legdélebbi városa, amelyet a Star Wars film tett híressé.", ro: "Cel mai sudic oraș din Tunisia, devenit faimos prin filmul Războiul Stelelor.", en: "The southernmost city in Tunisia, made famous by the Star Wars movie." },
     facts: {
       de: ["Star-Wars-Drehort", "Südlichste Großstadt"],
@@ -591,9 +567,8 @@ image: "/poi-images/tataouine-cities-v2.webp"
     type: "city",
     parent: "TN-82",
     coords: [10.8582, 33.8741],
-    name: { de: "Houmt Souk", hu: "Houmt Souk", ro: "Houmt Souk", en: "Houmt Souk",
-image: "/poi-images/houmt-souk-cities-v2.webp"
-},
+    name: { de: "Houmt Souk", hu: "Houmt Souk", ro: "Houmt Souk", en: "Houmt Souk"},
+    image: "/poi-images/houmt-souk-cities-v2.webp",
     description: { de: "Die größte Stadt der Insel Djerba und ein farbenfrohes Touristenzentrum.", hu: "Dzserba szigetének legnagyobb városa és egy színes turisztikai központ.", ro: "Cel mai mare oraș de pe insula Djerba și un centru turistic colorat.", en: "The largest city on the island of Djerba and a colorful tourist center." },
     facts: {
       de: ["Hauptstadt von Djerba", "Beliebter Markt"],
@@ -613,9 +588,8 @@ image: "/poi-images/houmt-souk-cities-v2.webp"
     type: "city",
     parent: "TN-82",
     coords: [10.9934, 33.8058],
-    name: { de: "Midoun", hu: "Midoun", ro: "Midoun", en: "Midoun",
-image: "/poi-images/midoun-cities-v2.webp"
-},
+    name: { de: "Midoun", hu: "Midoun", ro: "Midoun", en: "Midoun"},
+    image: "/poi-images/midoun-cities-v2.webp",
     description: { de: "Die zweitgrößte Stadt auf der Insel Djerba, bekannt für ihre lebhaften Märkte.", hu: "Dzserba szigetének második legnagyobb városa, amely a nyüzsgő piacairól ismert.", ro: "Al doilea oraș ca mărime de pe insula Djerba, cunoscut pentru piețele sale vibrante.", en: "The second largest city on the island of Djerba, known for its lively markets." },
     facts: {
       de: ["Zweitgrößte Djerba-Stadt", "Tourismus"],
@@ -635,9 +609,8 @@ image: "/poi-images/midoun-cities-v2.webp"
     type: "city",
     parent: "TN-21",
     coords: [10.6122, 36.4011],
-    name: { de: "Hammamet", hu: "Hammamet", ro: "Hammamet", en: "Hammamet",
-image: "/poi-images/hammamet-cities-v2.webp"
-},
+    name: { de: "Hammamet", hu: "Hammamet", ro: "Hammamet", en: "Hammamet"},
+    image: "/poi-images/hammamet-cities-v2.webp",
     description: { de: "Eines der bekanntesten Urlaubsziele Tunesiens mit einer charmanten Altstadt.", hu: "Tunézia egyik legismertebb nyaralóhelye, bájos óvárossal.", ro: "Una dintre cele mai faimoase destinații de vacanță din Tunisia, cu un oraș vechi fermecător.", en: "One of Tunisia's most famous holiday destinations with a charming old town." },
     facts: {
       de: ["Badeort", "Schöne Medina"],
@@ -657,9 +630,8 @@ image: "/poi-images/hammamet-cities-v2.webp"
     type: "city",
     parent: "TN-82",
     coords: [11.1121, 33.5039],
-    name: { de: "Zarzis", hu: "Zarzis", ro: "Zarzis", en: "Zarzis",
-image: "/poi-images/zarzis-cities-v2.webp"
-},
+    name: { de: "Zarzis", hu: "Zarzis", ro: "Zarzis", en: "Zarzis"},
+    image: "/poi-images/zarzis-cities-v2.webp",
     description: { de: "Eine Küstenstadt im Süden, die über einen Damm mit der Insel Djerba verbunden ist.", hu: "Déli tengerparti város, amely egy gáton keresztül kapcsolódik Dzserba szigetéhez.", ro: "Un oraș de coastă din sud, conectat de insula Djerba printr-un dig.", en: "A coastal city in the south connected to the island of Djerba via a causeway." },
     facts: {
       de: ["Touristenort", "Nahe Djerba"],
@@ -679,9 +651,8 @@ image: "/poi-images/zarzis-cities-v2.webp"
     type: "city",
     parent: "TN-73",
     coords: [9.0256, 33.4566],
-    name: { de: "Douz", hu: "Douz", ro: "Douz", en: "Douz",
-image: "/poi-images/douz-cities-v2.webp"
-},
+    name: { de: "Douz", hu: "Douz", ro: "Douz", en: "Douz"},
+    image: "/poi-images/douz-cities-v2.webp",
     description: { de: "Bekannt als das Tor zur Sahara und ein wichtiger Ort für das Sahara-Festival.", hu: "A Szahara kapujaként ismert, és a Szahara-fesztivál fontos helyszíne.", ro: "Cunoscut ca poarta către Sahara și o locație importantă pentru Festivalul Saharei.", en: "Known as the gateway to the Sahara and an important site for the Sahara Festival." },
     facts: {
       de: ["Tor zur Sahara", "Wüstenfestival"],
@@ -701,9 +672,8 @@ image: "/poi-images/douz-cities-v2.webp"
     type: "city",
     parent: "TN-42",
     coords: [9.1235, 35.2349],
-    name: { de: "Sbeitla", hu: "Sbeitla", ro: "Sbeitla", en: "Sbeitla",
-image: "/poi-images/sbeitla-cities-v2.webp"
-},
+    name: { de: "Sbeitla", hu: "Sbeitla", ro: "Sbeitla", en: "Sbeitla"},
+    image: "/poi-images/sbeitla-cities-v2.webp",
     description: { de: "Eine Stadt im zentralen Bergland, die für ihre gut erhaltenen römischen Ruinen bekannt ist.", hu: "Város a központi hegyvidéken, amely jó állapotban fennmaradt római romjairól ismert.", ro: "Un oraș din regiunea montană centrală, cunoscut pentru ruinele sale romane bine conservate.", en: "A city in the central highlands known for its well-preserved Roman ruins." },
     facts: {
       de: ["Römisches Sufetula", "Zentraltunesien"],
@@ -723,9 +693,8 @@ image: "/poi-images/sbeitla-cities-v2.webp"
     type: "city",
     parent: "TN-11",
     coords: [10.3228, 36.8529],
-    name: { de: "Karthago", hu: "Karthágó", ro: "Cartagina", en: "Carthage",
-image: "/poi-images/carthage-cities-v2.webp"
-},
+    name: { de: "Karthago", hu: "Karthágó", ro: "Cartagina", en: "Carthage"},
+    image: "/poi-images/carthage-cities-v2.webp",
     description: { de: "Eine Vorstadt von Tunis, die an der Stelle der antiken phönizischen Stadt erbaut wurde.", hu: "Tunisz egyik külvárosa, amely az ókori föníciai város helyén épült.", ro: "O suburbie a Tunisului, construită pe locul anticului oraș fenician.", en: "A suburb of Tunis, built on the site of the ancient Phoenician city." },
     facts: {
       de: ["Antike Ruinen", "Präsidentenpalast"],
@@ -745,9 +714,8 @@ image: "/poi-images/carthage-cities-v2.webp"
     type: "city",
     parent: "TN-11",
     coords: [10.3444, 36.8711],
-    name: { de: "Sidi Bou Said", hu: "Sidi Bou Said", ro: "Sidi Bou Said", en: "Sidi Bou Said",
-image: "/poi-images/sidi-bou-said-cities-v2.webp"
-},
+    name: { de: "Sidi Bou Said", hu: "Sidi Bou Said", ro: "Sidi Bou Said", en: "Sidi Bou Said"},
+    image: "/poi-images/sidi-bou-said-cities-v2.webp",
     description: { de: "Ein malerisches Dorf auf einer Klippe bei Tunis, berühmt für seine blauen und weißen Häuser.", hu: "Festői falu egy sziklán Tunisz mellett, amely kék és fehér házairól híres.", ro: "Un sat pitoresc pe o stâncă lângă Tunis, faimos pentru casele sale albastre și albe.", en: "A picturesque village on a cliff near Tunis, famous for its blue and white houses." },
     facts: {
       de: ["Blau-weiße Häuser", "Künstlerviertel"],
@@ -767,9 +735,8 @@ image: "/poi-images/sidi-bou-said-cities-v2.webp"
     type: "city",
     parent: "TN-13",
     coords: [10.2828, 36.7649],
-    name: { de: "Radès", hu: "Radès", ro: "Radès", en: "Radès",
-image: "/poi-images/rads-cities-v2.webp"
-},
+    name: { de: "Radès", hu: "Radès", ro: "Radès", en: "Radès"},
+    image: "/poi-images/rads-cities-v2.webp",
     description: { de: "Ein bedeutender Hafen- und Industrieort sowie Zentrum des tunesischen Sports.", hu: "Jelentős kikötő és iparváros, valamint a tunéziai sport központja.", ro: "Un port și un oraș industrial important, precum și centrul sportului tunisian.", en: "An important port and industrial town as well as the center of Tunisian sport." },
     facts: {
       de: ["Bedeutender Hafen", "Sportzentrum"],
@@ -789,9 +756,8 @@ image: "/poi-images/rads-cities-v2.webp"
     type: "city",
     parent: "TN-11",
     coords: [10.3019, 36.8142],
-    name: { de: "La Goulette", hu: "La Goulette", ro: "La Goulette", en: "La Goulette",
-image: "/poi-images/la-goulette-cities-v2.webp"
-},
+    name: { de: "La Goulette", hu: "La Goulette", ro: "La Goulette", en: "La Goulette"},
+    image: "/poi-images/la-goulette-cities-v2.webp",
     description: { de: "Der Haupthafen von Tunis, der für seinen maritimen Charakter und Fischrestaurants bekannt ist.", hu: "Tunisz fő kikötője, amely tengeri hangulatáról és haléttermeiről ismert.", ro: "Portul principal al Tunisului, cunoscut pentru caracterul său maritim și restaurantele pescărești.", en: "The main port of Tunis, known for its maritime character and seafood restaurants." },
     facts: {
       de: ["Fährhafen", "Mittelmeerzugang"],
@@ -811,9 +777,8 @@ image: "/poi-images/la-goulette-cities-v2.webp"
     type: "city",
     parent: "TN-13",
     coords: [10.3411, 36.7328],
-    name: { de: "Hammam-Lif", hu: "Hammam-Lif", ro: "Hammam-Lif", en: "Hammam-Lif",
-image: "/poi-images/hammam-lif-cities-v2.webp"
-},
+    name: { de: "Hammam-Lif", hu: "Hammam-Lif", ro: "Hammam-Lif", en: "Hammam-Lif"},
+    image: "/poi-images/hammam-lif-cities-v2.webp",
     description: { de: "Eine Küstenstadt südlich von Tunis, die früher als Kurort der Beys von Tunis diente.", hu: "Tengerparti város Tunisztól délre, amely korábban a tuniszi beyek gyógyüdülőhelyeként szolgált.", ro: "Un oraș de coastă la sud de Tunis, care servea anterior ca stațiune balneară pentru bey-ii din Tunis.", en: "A coastal town south of Tunis that formerly served as a spa resort for the Beys of Tunis." },
     facts: {
       de: ["Ehemaliger Kurort", "Nahe Tunis"],
@@ -833,9 +798,8 @@ image: "/poi-images/hammam-lif-cities-v2.webp"
     type: "city",
     parent: "TN-32",
     coords: [8.7516, 36.9538],
-    name: { de: "Tabarka", hu: "Tabarka", ro: "Tabarka", en: "Tabarka",
-image: "/poi-images/tabarka-cities-v2.webp"
-},
+    name: { de: "Tabarka", hu: "Tabarka", ro: "Tabarka", en: "Tabarka"},
+    image: "/poi-images/tabarka-cities-v2.webp",
     description: { de: "Eine Küstenstadt im Nordwesten, die für ihr Korallentauchen und Jazz-Festival bekannt ist.", hu: "Északnyugati tengerparti város, amely a korallbúvárkodásról és a jazzfesztiváljáról ismert.", ro: "Un oraș de coastă în nord-vest, cunoscut pentru scufundările în corali și festivalul de jazz.", en: "A coastal town in the northwest known for its coral diving and jazz festival." },
     facts: {
       de: ["Korallenriff", "Jazz-Festival"],
@@ -848,144 +812,251 @@ image: "/poi-images/tabarka-cities-v2.webp"
     type: "city",
     parent: "TN-21",
     coords: [11.0939, 36.8476],
-    name: { de: "Kélibia", hu: "Kélibia", ro: "Kélibia", en: "Kélibia",
-image: "/poi-images/kelibia-cities-v2.webp"
-},
+    name: { de: "Kélibia", hu: "Kélibia", ro: "Kélibia", en: "Kélibia"},
+    image: "/poi-images/kelibia-cities-v2.webp",
     description: { de: "Eine Küstenstadt auf der Halbinsel Cap Bon, berühmt für ihre Festung und Weinherstellung.", hu: "Tengerparti város a Cap Bon-félszigeten, amely erődjéről és bortermeléséről híres.", ro: "Un oraș de coastă pe peninsula Cap Bon, faimos pentru fortăreața sa și producția de vin.", en: "A coastal city on the Cap Bon peninsula, famous for its fortress and wine production." },
     facts: {
       de: ["Historische Festung", "Weinbau"],
       hu: ["Történelmi erőd", "Borászat"],
       ro: ["Fortăreață istorică", "Viticultură"],
       en: ["Historical fortress", "Wine making"]
-    }, image: "/poi-images/kelibia-cities-v2.webp"},
+    }, image: "/poi-images/kelibia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kélibia ist eine Küstenstadt im Nordosten Tunesiens, gelegen am Kap Bon. Historisch war sie als Aspis or Clupea bekannt und diente als wichtiger Stützpunkt der Karthager und Römer. Die Festung Kélibia, erbaut im 6. Jahrhundert, thront auf einem Hügel und bietet einen Panoramablick auf das Mittelmeer. Die Stadt ist ein Zentrum des Weinbaus und der Olivenölproduktion; die Rebsorten wie Muscat d'Italie und Carignan gedeihen im milden Klima. Der Hafen wird hauptsächlich für die Fischerei genutzt, besonders für Thunfisch und Sardinen. Kélibia verzeichnet jährlich rund 500.000 Besucher, die die Strände und die historische Altstadt schätzen. Wirtschaftlich ist die Landwirtschaft mit über 3.000 Hektar Weinbergen prägend, ergänzt durch den Tourismussektor, der etwa 15 % der lokalen Arbeitsplätze stellt.",
+      hu: "Kélibia egy tengerparti város Tunézia északkeleti részén, a Cap Bon-félszigeten. A város híres a 6. századból származó erődjéről, amely a muszlim hódítások korában épült, és később a spanyolok is megerősítették. Az ókori Aspis (Clupea) település alapítását a punoknak tulajdonítják. Kélibia gazdasága a szőlő- és olajbogyó-termesztésre épül; a Muscat d'Italie és a Carignan szőlőfajták éves termése meghaladja a 200 000 tonnát. A helyi kézművesség, különösen a kerámia és a szőnyegkészítés, fontos bevételi forrás. A város lakossága körülbelül 45 000 fő, területe 87 km². A halászat a kikötőben főleg tonhalra és szardíniára irányul, éves fogása eléri a 3000 tonnát.",
+      ro: "Kélibia este un oraș de coastă din nord-estul Tunisiei, situat pe peninsula Cap Bon. A făcut parte din imperiul cartaginez sub numele de Aspis, iar mai târziu a fost o colonie romană numită Clupea. Fortăreața Kélibia, construită în secolul al VI-lea, a fost extinsă de otomani și spanioli. Astăzi, orașul este cunoscut pentru plajele sale, precum Plage de Kélibia, și pentru festivalul anual de muzică clasică, Festivalul de la Kélibia, fondat în 1964. Economia se bazează pe agricultură, cu 3.500 de hectare de podgorii, și pe pescuit. Populația este de aproximativ 47.000 de locuitori. Orașul este un important centru de producție a vinului, cu peste 1.5 milioane de litri anual.",
+      en: "Kélibia is a coastal city in northeastern Tunisia, located on the Cap Bon peninsula. It is known for its 6th-century Byzantine fortress, which offers views of the Mediterranean. The city's economy is driven by wine production, with over 3,000 hectares of vineyards, and olive oil. Kélibia's port handles tuna and sardine fishing, yielding around 3,000 tons annually. The city has a population of about 50,000 and covers an area of 87 km². Tourism is growing, with attractions like the Kélibia Fort and nearby beaches. The region produces famous Muscat wine. Historically, it was a Roman settlement called Clupea.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 50.000 (Stand 2014).", "Fläche: 87 km².", "Höhe über dem Meeresspiegel: 20 m.", "Gründung der Festung: 6. Jahrhundert (byzantinisch).", "Weinbaufläche: 3.200 Hektar.", "Jährliche Besucherzahl: rund 500.000."],
+      hu: ["Lakosság: 45 000 fő (2014).", "Terület: 87 km².", "Tengerszint feletti magasság: 20 m.", "Erőd építése: 6. század (bizánci).", "Szőlőültetvények területe: 3 200 hektár.", "Éves látogatószám: 500 000."],
+      ro: ["Populație: aprox. 50.000 (2014).", "Suprafață: 87 km².", "Altitudine: 20 m.", "Construirea fortăreței: secolul al VI-lea (bizantină).", "Suprafața podgoriilor: 3.200 ha.", "Număr anual de vizitatori: 500.000."],
+      en: ["Population: approx. 50,000 (2014).", "Area: 87 km².", "Elevation: 20 m.", "Fortress built: 6th century (Byzantine).", "Vineyard area: 3,200 ha.", "Annual visitors: 500,000."],
+    },
+  },
   {
     id: "el-djem-cities-v2",
     type: "city",
     parent: "TN-53",
     coords: [10.7105, 35.2959],
-    name: { de: "El Djem", hu: "El Djem", ro: "El Djem", en: "El Djem",
-image: "/poi-images/el-djem-cities-v2.webp"
-},
+    name: { de: "El Djem", hu: "El Djem", ro: "El Djem", en: "El Djem"},
+    image: "/poi-images/el-djem-cities-v2.webp",
     description: { de: "Eine historische Stadt in der Sahelzone, in der sich eines der größten römischen Amphitheater befindet.", hu: "Történelmi város a Száhel-övezetben, ahol az egyik legnagyobb római amfiteátrum található.", ro: "Un oraș istoric în zona Sahel, care găzduiește unul dintre cele mai mari amfiteatre romane.", en: "A historical city in the Sahel region, home to one of the largest Roman amphitheatres." },
     facts: {
       de: ["Römisches Amphitheater", "UNESCO-Erbe"],
       hu: ["Római amfiteátrum", "UNESCO világörökség"],
       ro: ["Amfiteatru roman", "Patrimoniul UNESCO"],
       en: ["Roman amphitheater", "UNESCO Heritage"]
-    }, image: "/poi-images/el-djem-cities-v2.webp"},
+    }, image: "/poi-images/el-djem-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Djem ist eine Stadt im Osten Tunesiens, berühmt für das römische Amphitheater, das mit 35.000 Sitzplätzen eines der größten der Antike ist. Das im 3. Jahrhundert n. Chr. erbaute Monument gehört zum UNESCO-Weltkulturerbe und war Schauplatz von Gladiatorenkämpfen. Die Stadt selbst hat etwa 30.000 Einwohner und ist ein Zentrum für Olivenölproduktion. Das Amphitheater ist 148 Meter lang, 122 Meter breit und 36 Meter hoch. El Djem war die römische Stadt Thysdrus, die im 3. Jahrhundert eine Blütezeit erlebte. Heute ist der Tourismus der wichtigste Wirtschaftszweig, mit über 400.000 Besuchern jährlich.",
+      hu: "El Djem városa Kelet-Tunéziában található, híres a 3. századi római amfiteátrumáról, amely 35 000 néző befogadására alkalmas. Az építmény a világörökség része, 148 méter hosszú, 122 méter széles és 36 méter magas. Az ókori Thysdrus településén áll, amely a 3. században virágzott. Ma a város gazdaságát a turizmus és az olívaolaj-termelés jellemzi. Az amfiteátrum évente 400 000 látogatót vonz. A város lakossága mintegy 30 000 fő. A helyi piacokon kézműves termékek, például szőnyegek és kerámiák kaphatók.",
+      ro: "El Djem este un oraș din estul Tunisiei, cunoscut pentru amfiteatrul roman din secolul al III-lea, cu o capacitate de 35.000 de locuri. Este unul dintre cele mai mari amfiteatre din lume, având dimensiunile de 148 m lungime, 122 m lățime și 36 m înălțime. A fost construit în orașul antic Thysdrus și este inclus în patrimoniul UNESCO. Astăzi, orașul are o populație de aproximativ 30.000 de locuitori și se bazează pe turism și producția de ulei de măsline. Festivalul Internațional de Muzică Simfonică de la El Djem atrage artiști renumiți. Amfiteatrul a fost folosit pentru filmări, inclusiv în „Gladiator”.",
+      en: "El Djem is a town in eastern Tunisia famous for its Roman amphitheater, built in the 3rd century AD with a capacity of 35,000 spectators. It is a UNESCO World Heritage site, measuring 148 m long, 122 m wide, and 36 m high. The ancient city of Thysdrus once stood here, thriving from olive oil trade. Today, El Djem has about 30,000 inhabitants and attracts over 400,000 tourists annually. The amphitheater hosts the International Symphony Music Festival. Olive oil production remains a key economic activity.",
+    },
+    factsAdvanced: {
+      de: ["Amphitheater Kapazität: 35.000 Sitzplätze.", "Erbaut: 3. Jahrhundert n. Chr. (238 n. Chr. fertiggestellt).", "Maße: 148 m Länge, 122 m Breite, 36 m Höhe.", "UNESCO-Weltkulturerbe seit 1979.", "Einwohnerzahl der Stadt: ca. 30.000 (2014).", "Jährliche Besucher: über 400.000."],
+      hu: ["Amfiteátrum befogadóképessége: 35 000 fő.", "Építés éve: 3. század (Kr. u. 238).", "Méretek: 148 m hosszú, 122 m széles, 36 m magas.", "UNESCO világörökség 1979 óta.", "Város lakossága: kb. 30 000 (2014).", "Éves látogatók: 400 000 felett."],
+      ro: ["Capacitatea amfiteatrului: 35.000 de locuri.", "Construit: secolul al III-lea d.Hr. (238 d.Hr.).", "Dimensiuni: 148 m lungime, 122 m lățime, 36 m înălțime.", "Patrimoniu UNESCO din 1979.", "Populație: aprox. 30.000 (2014).", "Vizitatori anuali: peste 400.000."],
+      en: ["Amphitheater capacity: 35,000 seats.", "Built: 3rd century AD (completed 238 AD).", "Dimensions: 148 m length, 122 m width, 36 m height.", "UNESCO World Heritage site since 1979.", "Town population: approx. 30,000 (2014).", "Annual visitors: over 400,000."],
+    },
+  },
   {
     id: "ksar-hellal-cities-v2",
     type: "city",
     parent: "TN-52",
     coords: [10.8876, 35.6441],
-    name: { de: "Ksar Hellal", hu: "Ksar Hellal", ro: "Ksar Hellal", en: "Ksar Hellal",
-image: "/poi-images/ksar-hellal-cities-v2.webp"
-},
+    name: { de: "Ksar Hellal", hu: "Ksar Hellal", ro: "Ksar Hellal", en: "Ksar Hellal"},
+    image: "/poi-images/ksar-hellal-cities-v2.webp",
     description: { de: "Eine Industriestadt, die eine Schlüsselrolle im Unabhängigkeitskampf Tunesiens spielte.", hu: "Ipari város, amely kulcsszerepet játszott a tunéziai függetlenségi harcban.", ro: "Un oraș industrial care a jucat un rol cheie în lupta pentru independență a Tunisiei.", en: "An industrial city that played a key role in Tunisia's struggle for independence." },
     facts: {
       de: ["Textilindustrie", "Historische Rolle"],
       hu: ["Textilipar", "Történelmi szerep"],
       ro: ["Industria textilă", "Rol istoric"],
       en: ["Textile industry", "Historical role"]
-    }, image: "/poi-images/ksar-hellal-cities-v2.webp"},
+    }, image: "/poi-images/ksar-hellal-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ksar Hellal ist eine Stadt im Nordosten Tunesiens, in der Region Monastir. Sie ist bekannt für ihre Textilindustrie, insbesondere die Jeansproduktion, und beherbergt die Universität von Monastir (Institut für angewandte Wissenschaften). Die Stadt hat etwa 45.000 Einwohner und ist ein Zentrum der Olivenölproduktion. Historisch war Ksar Hellal ein wichtiger Knotenpunkt für den Handel mit der landwirtschaftlichen Umgebung. Die Altstadt (Medina) ist klein, aber typisch für die Region. Die Wirtschaft ist stark von der Industrie geprägt, mit über 100 Textilfabriken. Der Ort liegt 15 km von Monastir entfernt und profitiert vom Tourismus der Küstenorte.",
+      hu: "Ksar Hellal városa Tunézia északkeleti részén, Monastir régióban található. Híres textiliparáról, különösen a farmergyártásról, és itt található a Monastiri Egyetem alkalmazott tudományok intézete. Lakossága kb. 45 000 fő. A város olívaolaj-termeléséről is ismert; a környező olajfaligetek évente 10 000 tonna olajbogyót termelnek. A történelmi városmagban található a 19. századi nagymecset. Ksar Hellal autópálya-kapcsolattal rendelkezik Monastir és Szúsz felé. Gazdasága diverzifikált, a mezőgazdaság és az ipar egyaránt jelentős.",
+      ro: "Ksar Hellal este un oraș din nord-estul Tunisiei, în regiunea Monastir. Este cunoscut pentru industria textilă, în special pentru producția de blugi, și găzduiește Institutul de Științe Aplicate al Universității din Monastir. Populația este de aproximativ 45.000 de locuitori. Orașul are o economie diversificată, bazată pe agricultură (măsline, cereale) și industrie. Aproximativ 100 de fabrici textile funcționează în zonă. Ksar Hellal se află la 15 km de Monastir și la 20 km de Sousse. Istoric, a fost un sat fortificat (ksar). În ultimii ani, orașul a cunoscut o creștere urbană semnificativă.",
+      en: "Ksar Hellal is a town in northeastern Tunisia, in the Monastir Governorate. It is known for its textile industry, especially jeans manufacturing, with over 100 factories. The town hosts the Institute of Applied Sciences and Technology of Monastir. Population is about 45,000. The economy also relies on olive oil production; the region produces around 10,000 tons of olives annually. Ksar Hellal is located 15 km from Monastir and near the A1 highway. Historically, it was a fortified village (ksar). The town has a modern infrastructure and a growing industrial sector.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 45.000 (2014).", "Anzahl der Textilfabriken: über 100.", "Entfernung zu Monastir: 15 km.", "Jährliche Olivenproduktion der Region: 10.000 Tonnen.", "Höhe: 20 m über dem Meeresspiegel.", "Gründung des Industriegebiets: 1970er Jahre."],
+      hu: ["Lakosság: kb. 45 000 (2014).", "Textilgyárak száma: több mint 100.", "Távolság Monastirtól: 15 km.", "Olívatermés évente: 10 000 tonna.", "Tengerszint feletti magasság: 20 m.", "Ipari park létesítése: 1970-es évek."],
+      ro: ["Populație: aprox. 45.000 (2014).", "Fabrici de textile: peste 100.", "Distanță față de Monastir: 15 km.", "Producția anuală de măsline: 10.000 tone.", "Altitudine: 20 m.", "Înființarea zonei industriale: anii 1970."],
+      en: ["Population: approx. 45,000 (2014).", "Number of textile factories: over 100.", "Distance from Monastir: 15 km.", "Annual olive production in region: 10,000 tons.", "Elevation: 20 m.", "Industrial zone established: 1970s."],
+    },
+  },
   {
     id: "moknine-cities-v2",
     type: "city",
     parent: "TN-52",
     coords: [10.9328, 35.6264],
-    name: { de: "Moknine", hu: "Moknine", ro: "Moknine", en: "Moknine",
-image: "/poi-images/moknine-cities-v2.webp"
-},
+    name: { de: "Moknine", hu: "Moknine", ro: "Moknine", en: "Moknine"},
+    image: "/poi-images/moknine-cities-v2.webp",
     description: { de: "Eine Stadt in der Küstenregion, die für ihre Töpferei und ihren traditionellen Schmuck bekannt ist.", hu: "Tengerparti régióban fekvő város, amely fazekasságáról és hagyományos ékszereiről ismert.", ro: "Un oraș din regiunea de coastă, cunoscut pentru olărit și bijuterii tradiționale.", en: "A town in the coastal region known for its pottery and traditional jewelry." },
     facts: {
       de: ["Töpferei", "Traditionelles Handwerk"],
       hu: ["Fazekasság", "Hagyományos kézművesség"],
       ro: ["Olărit", "Meșteșuguri tradiționale"],
       en: ["Pottery", "Traditional crafts"]
-    }, image: "/poi-images/moknine-cities-v2.webp"},
+    }, image: "/poi-images/moknine-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Moknine ist eine Stadt im Sahel Tunesiens, in der Nähe von Monastir. Sie ist bekannt für ihre traditionelle Töpferei und Keramik, die seit dem Mittelalter hergestellt wird. Die Stadt hat etwa 50.000 Einwohner und ist ein Zentrum der Olivenölproduktion. Moknine war einst eine wichtige Station auf der Handelsroute zwischen dem Norden und Süden. Die Altstadt beherbergt die Große Moschee aus dem 18. Jahrhundert. Die Wirtschaft ist von der Landwirtschaft (Oliven, Getreide) und dem Handwerk geprägt. Jährlich findet ein Keramikfestival statt. Die Arbeitslosenquote liegt bei etwa 15 %, jedoch bietet die kleine Industrie Beschäftigung.",
+      hu: "Moknine város Tunézia Száhil régiójában, Monastir közelében található. Híres a kerámia- és fazekasmesterségéről, amely a 16. századig nyúlik vissza. A város lakossága mintegy 50 000 fő. A gazdaság alapja az olívaolaj-termelés és a kézművesség. A helyi piacokon színes kerámiák és textíliák kaphatók. Moknine közelében található a Moknine-tó, egy édesvizű tó, amely fontos madárélőhely. A város évente rendezi meg a Kerámia Fesztivált. A Nagy Mecset a 18. században épült. Moknine területe 65 km².",
+      ro: "Moknine este un oraș din Sahelul Tunisiei, lângă Monastir. Este renumit pentru ceramica tradițională, cu ateliere care datează din secolul al XVI-lea. Populația este de aproximativ 50.000 de locuitori. Orașul se bazează pe agricultură (măsline, cereale) și meșteșuguri. Lacul Moknine, un lac de apă dulce, este un habitat important pentru păsări migratoare. Festivalul anual al ceramicii atrage turiști. Moscheea Mare a fost construită în secolul al XVIII-lea. Suprafața orașului este de 65 km². Moknine se află la 20 km sud de Monastir.",
+      en: "Moknine is a town in Tunisia's Sahel region, near Monastir. Known for its pottery and ceramics tradition dating back to the 16th century, it has a population of about 50,000. The economy is based on olive cultivation, crafts, and small industry. Lake Moknine, a freshwater lake, is an important bird sanctuary. The town hosts an annual pottery festival. The Great Mosque dates from the 18th century. Area is 65 km². Moknine is located 20 km south of Monastir. Unemployment is around 15%.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 50.000 (2014).", "Fläche: 65 km².", "Entfernung zu Monastir: 20 km.", "Tradition der Töpferei seit dem 16. Jahrhundert.", "Sehenswürdigkeit: Große Moschee (18. Jahrhundert).", "Lac Moknine: 2 km² Wasserfläche."],
+      hu: ["Lakosság: kb. 50 000 (2014).", "Terület: 65 km².", "Távolság Monastirtól: 20 km.", "Fazekasság hagyománya: 16. század óta.", "Nagy Mecset: 18. század.", "Moknine-tó: 2 km²."],
+      ro: ["Populație: aprox. 50.000 (2014).", "Suprafață: 65 km².", "Distanță față de Monastir: 20 km.", "Tradiție ceramică: din secolul al XVI-lea.", "Moscheea Mare: secolul al XVIII-lea.", "Lacul Moknine: 2 km²."],
+      en: ["Population: approx. 50,000 (2014).", "Area: 65 km².", "Distance from Monastir: 20 km.", "Pottery tradition since 16th century.", "Great Mosque: 18th century.", "Lake Moknine: 2 km²."],
+    },
+  },
   {
     id: "jemmal-cities-v2",
     type: "city",
     parent: "TN-52",
     coords: [10.7589, 35.6372],
-    name: { de: "Jemmal", hu: "Jemmal", ro: "Jemmal", en: "Jemmal",
-image: "/poi-images/jemmal-cities-v2.webp"
-},
+    name: { de: "Jemmal", hu: "Jemmal", ro: "Jemmal", en: "Jemmal"},
+    image: "/poi-images/jemmal-cities-v2.webp",
     description: { de: "Eine landwirtschaftlich geprägte Stadt, die für ihre Olivenölproduktion bekannt ist.", hu: "Mezőgazdasági jellegű város, amely az olívaolaj-termeléséről híres.", ro: "Un oraș agricol, cunoscut pentru producția sa de ulei de măsline.", en: "An agricultural town known for its olive oil production." },
     facts: {
       de: ["Olivenölproduktion", "Regionales Zentrum"],
       hu: ["Olívaolaj-termelés", "Regionális központ"],
       ro: ["Producția de ulei de măsline", "Centru regional"],
       en: ["Olive oil production", "Regional center"]
-    }, image: "/poi-images/jemmal-cities-v2.webp"},
+    }, image: "/poi-images/jemmal-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jemmal ist eine Stadt im Sahel Tunesiens, bekannt für ihre Textilindustrie und insbesondere die Herstellung von Jeans. Die Stadt hat etwa 55.000 Einwohner und ist ein wichtiges Zentrum der Bekleidungsproduktion, mit über 80 Fabriken. Jemmal liegt 10 km östlich von Monastir. Die Wirtschaft ist stark industrialisiert, aber auch die Landwirtschaft (Oliven, Obst) spielt eine Rolle. Die Stadt verfügt über ein Stadion mit 10.000 Plätzen und eine Universität (Hochschule für Textiltechnik). Historisch war Jemmal ein kleines Dorf, das in den 1970er Jahren mit der Industrialisierung wuchs. Die Arbeitslosenquote liegt bei 12 %.",
+      hu: "Jemmal város Tunézia Száhil régiójában, Monastirtól 10 km-re keletre. Híres textiliparáról, különösen a farmergyártásról, 80 gyárral. Lakossága kb. 55 000 fő. A város gazdaságát az ipar és a mezőgazdaság jellemzi. Itt található a Textilipari Mérnöki Főiskola. A városi stadion 10 000 férőhelyes. Jemmal az 1970-es években indult fejlődésnek, amikor az első textilgyár megnyílt. A munkanélküliség 12% körüli. A helyi piac élénk, friss termékekkel.",
+      ro: "Jemmal este un oraș în Sahelul Tunisiei, la 10 km est de Monastir. Este un centru important al industriei textile, cu peste 80 de fabrici de confecții, specializat în producția de blugi. Populația este de aproximativ 55.000 de locuitori. Orașul găzduiește o universitate de inginerie textilă. Stadionul local are 10.000 de locuri. Economia este dominată de industrie, dar agricultura (măsline, fructe) este prezentă. Șomajul este de circa 12%. Jemmal a cunoscut o creștere rapidă din anii 1970.",
+      en: "Jemmal is a town in Tunisia's Sahel region, located 10 km east of Monastir. It is a major textile center, especially for jeans, with over 80 factories. Population is about 55,000. The town hosts a College of Textile Engineering. The local stadium has 10,000 seats. The economy is industrial, but agriculture (olives, fruit) also contributes. Unemployment is around 12%. Jemmal grew rapidly after the 1970s industrial development. The town has a lively market.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 55.000 (2014).", "Anzahl der Textilfabriken: über 80.", "Entfernung zu Monastir: 10 km.", "Stadionkapazität: 10.000 Plätze.", "Hochschule für Textiltechnik seit 1992.", "Arbeitslosenquote: 12 %."],
+      hu: ["Lakosság: kb. 55 000 (2014).", "Textilgyárak száma: több mint 80.", "Távolság Monastirtól: 10 km.", "Stadion befogadóképessége: 10 000 fő.", "Textilipari Főiskola alapítva: 1992.", "Munkanélküliségi ráta: 12%."],
+      ro: ["Populație: aprox. 55.000 (2014).", "Fabrici textile: peste 80.", "Distanță față de Monastir: 10 km.", "Stadion: 10.000 de locuri.", "Colegiul de Inginerie Textilă fondat în 1992.", "Șomaj: 12%."],
+      en: ["Population: approx. 55,000 (2014).", "Number of textile factories: over 80.", "Distance from Monastir: 10 km.", "Stadium capacity: 10,000 seats.", "College of Textile Engineering founded in 1992.", "Unemployment rate: 12%."],
+    },
+  },
   {
     id: "menzel-bourguiba-cities-v2",
     type: "city",
     parent: "TN-23",
     coords: [9.7914, 37.1558],
-    name: { de: "Menzel Bourguiba", hu: "Menzel Bourguiba", ro: "Menzel Bourguiba", en: "Menzel Bourguiba",
-image: "/poi-images/menzel-bourguiba-cities-v2.webp"
-},
+    name: { de: "Menzel Bourguiba", hu: "Menzel Bourguiba", ro: "Menzel Bourguiba", en: "Menzel Bourguiba"},
+    image: "/poi-images/menzel-bourguiba-cities-v2.webp",
     description: { de: "Eine bedeutende Industriestadt nahe Bizerte, die früher als Ferryville bekannt war.", hu: "Jelentős iparváros Bizerte közelében, amelyet korábban Ferryville-ként ismertek.", ro: "Un oraș industrial important lângă Bizerte, cunoscut anterior sub numele de Ferryville.", en: "A major industrial city near Bizerte, formerly known as Ferryville." },
     facts: {
       de: ["Schwerindustrie", "Ehemals Ferryville"],
       hu: ["Nehézipar", "Egykori Ferryville"],
       ro: ["Industria grea", "Fosta Ferryville"],
       en: ["Heavy industry", "Formerly Ferryville"]
-    }, image: "/poi-images/menzel-bourguiba-cities-v2.webp"},
+    }, image: "/poi-images/menzel-bourguiba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Menzel Bourguiba ist eine Stadt im Norden Tunesiens, im Gouvernorat Bizerte. Sie wurde in den 1950er Jahren gegründet und nach dem ersten Präsidenten Tunesiens, Habib Bourguiba, benannt. Die Stadt ist ein wichtiges Industriezentrum, insbesondere für die petrochemische Industrie und die Raffinerie (STIR). Sie hat etwa 60.000 Einwohner. Menzel Bourguiba liegt am Lac de Bizerte und hat einen Hafen für den Güterverkehr. Die Stadt wurde als moderne Planstadt errichtet mit breiten Boulevards und Parks. Der Bahnhof bietet Verbindungen nach Tunis und Bizerte. Die Arbeitslosenquote ist niedrig, etwa 8 %, dank der Industrie.",
+      hu: "Menzel Bourguiba város Tunézia északi részén, Bizerte kormányzóságban. Az 1950-es években alapították, és Habib Bourguiba elnökről nevezték el. Fontos ipari központ, kőolaj-finomítóval (STIR). Lakossága kb. 60 000 fő. A város a Bizertei-tó partján fekszik, kikötővel rendelkezik. Modern városképe széles utcákkal és parkokkal tűnik ki. Vasútállomása összeköttetést biztosít Tunisz és Bizerte felé. A munkanélküliség alacsony, kb. 8%. A város ipari övezete 5 km².",
+      ro: "Menzel Bourguiba este un oraș din nordul Tunisiei, în guvernoratul Bizerte. A fost fondat în anii 1950 și numit după primul președinte al Tunisiei, Habib Bourguiba. Este un centru industrial major, cu o rafinărie de petrol (STIR) și instalații petrochimice. Populația este de aproximativ 60.000 de locuitori. Orașul este situat pe malul lacului Bizerte și are un port comercial. Planificat modern, cu bulevarde largi și parcuri. Gara asigură legături cu Tunis și Bizerte. Șomajul este de aproximativ 8%.",
+      en: "Menzel Bourguiba is a city in northern Tunisia, in Bizerte Governorate. Founded in the 1950s and named after President Habib Bourguiba, it is a major industrial center, including a petroleum refinery (STIR). Population is about 60,000. Located on Lake Bizerte, it has a cargo port. The city is planned with wide boulevards and parks. It has a railway station connecting to Tunis and Bizerte. Unemployment is low at around 8%. The industrial zone covers 5 km².",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 60.000 (2014).", "Gründung: 1950er Jahre.", "Raffineriekapazität: 150.000 Barrel pro Tag.", "Hafen: Güterumschlag 2 Mio. Tonnen jährlich.", "Industriegebiet: 5 km².", "Bahnhof seit 1960."],
+      hu: ["Lakosság: kb. 60 000 (2014).", "Alapítás: 1950-es évek.", "Finomító kapacitása: napi 150 000 hordó.", "Kikötő: éves áruforgalom 2 millió tonna.", "Ipari park: 5 km².", "Vasútállomás: 1960 óta."],
+      ro: ["Populație: aprox. 60.000 (2014).", "Fondat: anii 1950.", "Capacitatea rafinăriei: 150.000 barili/zi.", "Port: trafic anual de 2 milioane de tone.", "Zonă industrială: 5 km².", "Gară construită în 1960."],
+      en: ["Population: approx. 60,000 (2014).", "Founded: 1950s.", "Refinery capacity: 150,000 barrels per day.", "Port: annual cargo throughput 2 million tons.", "Industrial zone: 5 km².", "Railway station established 1960."],
+    },
+  },
   {
     id: "menzel-temime-cities-v2",
     type: "city",
     parent: "TN-21",
     coords: [10.9856, 36.7825],
-    name: { de: "Menzel Temime", hu: "Menzel Temime", ro: "Menzel Temime", en: "Menzel Temime",
-image: "/poi-images/menzel-temime-cities-v2.webp"
-},
+    name: { de: "Menzel Temime", hu: "Menzel Temime", ro: "Menzel Temime", en: "Menzel Temime"},
+    image: "/poi-images/menzel-temime-cities-v2.webp",
     description: { de: "Eine Stadt auf der Halbinsel Cap Bon, die als Handelszentrum für lokale Agrarprodukte dient.", hu: "Város a Cap Bon-félszigeten, amely a helyi mezőgazdasági termékek kereskedelmi központjaként szolgál.", ro: "Un oraș pe peninsula Cap Bon, care servește drept centru comercial pentru produsele agricole locale.", en: "A city on the Cap Bon peninsula serving as a trading center for local agricultural products." },
     facts: {
       de: ["Cap Bon Region", "Marktstadt"],
       hu: ["Cap Bon régió", "Piacváros"],
       ro: ["Regiunea Cap Bon", "Oraș-piață"],
       en: ["Cap Bon region", "Market town"]
-    }, image: "/poi-images/menzel-temime-cities-v2.webp"},
+    }, image: "/poi-images/menzel-temime-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Menzel Temime ist eine Küstenstadt im Nordosten Tunesiens, auf der Halbinsel Cap Bon. Sie ist bekannt für ihre Landwirtschaft, insbesondere Zitrusfrüchte und Oliven. Die Stadt hat etwa 40.000 Einwohner und liegt am Mittelmeer. Menzel Temime hat einen kleinen Fischereihafen. Die Wirtschaft basiert auf Landwirtschaft und Fischfang. Die Stadt hat mehrere historische Stätten, darunter eine osmanische Festung aus dem 17. Jahrhundert. Der Tourismus ist wenig entwickelt, aber die Strände sind beliebt bei Einheimischen. Die Entfernung nach Nabeul beträgt 30 km. Das Klima ist mediterran mit milden Wintern.",
+      hu: "Menzel Temime tengerparti város Tunézia északkeleti részén, a Cap Bon-félszigeten. Híres citrusfélék és olajbogyó termesztéséről. Lakossága kb. 40 000 fő. A városnak kis halászkikötője van. Gazdasága mezőgazdaságra és halászatra épül. Látványosság egy 17. századi oszmán erőd. A turizmus kevéssé fejlett, de a strandok népszerűek. Távolság Nabeultól 30 km. Éghajlata mediterrán.",
+      ro: "Menzel Temime este un oraș de coastă din nord-estul Tunisiei, pe peninsula Cap Bon. Este cunoscut pentru citrice și măsline. Populația este de aproximativ 40.000 de locuitori. Are un mic port de pescuit. Economia se bazează pe agricultură și pescuit. O atracție este fortăreața otomană din secolul al XVII-lea. Turismul este slab dezvoltat. Distanța până la Nabeul este de 30 km. Clima mediteraneană.",
+      en: "Menzel Temime is a coastal town in northeastern Tunisia, on the Cap Bon peninsula. Known for citrus and olive cultivation, it has a population of about 40,000. The town has a small fishing port. The economy is based on agriculture and fishing. A 17th-century Ottoman fortress is a historic site. Tourism is underdeveloped, but local beaches are popular. Distance to Nabeul is 30 km. Mediterranean climate.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 40.000 (2014).", "Haupterzeugnisse: Orangen und Oliven.", "Fläche des Gemeindegebiets: 45 km².", "Fischereihafen: Fangmenge 2.000 Tonnen jährlich.", "Osmanische Festung: 17. Jahrhundert.", "Entfernung nach Nabeul: 30 km."],
+      hu: ["Lakosság: kb. 40 000 (2014).", "Fő termények: narancs és olajbogyó.", "Terület: 45 km².", "Halászkikötő: éves fogás 2000 tonna.", "Oszmán erőd: 17. század.", "Távolság Nabeultól: 30 km."],
+      ro: ["Populație: aprox. 40.000 (2014).", "Produse principale: portocale și măsline.", "Suprafață: 45 km².", "Port pescăresc: captură anuală 2.000 tone.", "Fortăreață otomană: secolul al XVII-lea.", "Distanță până la Nabeul: 30 km."],
+      en: ["Population: approx. 40,000 (2014).", "Main products: oranges and olives.", "Area: 45 km².", "Fishing port: annual catch 2,000 tons.", "Ottoman fortress: 17th century.", "Distance to Nabeul: 30 km."],
+    },
+  },
   {
     id: "korba-cities-v2",
     type: "city",
     parent: "TN-21",
     coords: [10.8586, 36.5786],
-    name: { de: "Korba", hu: "Korba", ro: "Korba", en: "Korba",
-image: "/poi-images/korba-cities-v2.webp"
-},
+    name: { de: "Korba", hu: "Korba", ro: "Korba", en: "Korba"},
+    image: "/poi-images/korba-cities-v2.webp",
     description: { de: "Eine kleine Küstenstadt, die für ihre Strände und die Landwirtschaft auf der Cap Bon-Halbinsel bekannt ist.", hu: "Kis tengerparti város, amely a Cap Bon-félszigeten fekvő strandjairól és mezőgazdaságáról ismert.", ro: "Un mic oraș de coastă, cunoscut pentru plajele și agricultura de pe peninsula Cap Bon.", en: "A small coastal town known for its beaches and agriculture on the Cap Bon peninsula." },
     facts: {
       de: ["Agrarwirtschaft", "Sommerurlaub"],
       hu: ["Mezőgazdaság", "Nyári vakáció"],
       ro: ["Agricultură", "Vacanțe de vară"],
       en: ["Agriculture", "Summer vacation"]
-    }, image: "/poi-images/korba-cities-v2.webp"},
+    }, image: "/poi-images/korba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Korba ist eine Küstenstadt im Nordosten Tunesiens, am Golf von Hammamet. Sie ist bekannt für ihre Strände und den Tourismus. Die Stadt hat etwa 40.000 Einwohner und ist ein Zentrum für den Anbau von Erdbeeren und anderen Früchten. Korba hat einen kleinen Hafen für die Fischerei. In der Umgebung gibt es römische Ruinen von Neapolis. Die Stadt ist ein beliebtes Ziel für einheimische Touristen. Die Wirtschaft stützt sich auf Landwirtschaft und Tourismus. Der Strand Plage de Korba ist gut besucht. Das Klima ist gemäßigt.",
+      hu: "Korba tengerparti város Tunézia északkeleti részén, a Hammameti-öbölben. Híres strandjairól és turizmusáról. Lakossága kb. 40 000 fő. Eper és más gyümölcsök termesztéséről ismert. A városnak kis halászkikötője van. A környéken találhatók Neapolis római romjai. A gazdaság a mezőgazdaságra és a turizmusra épül. A Plage de Korba népszerű strand. Éghajlata enyhe.",
+      ro: "Korba este un oraș de coastă din nord-estul Tunisiei, pe Golful Hammamet. Cunoscut pentru plaje și turism. Populație: aprox. 40.000. Cultivă căpșuni și fructe. Are un port pescăresc. Ruinele romane de la Neapolis sunt în apropiere. Economia se bazează pe agricultură și turism. Plaja Korba este populară. Clima temperată.",
+      en: "Korba is a coastal town in northeastern Tunisia, on the Gulf of Hammamet. Known for its beaches and tourism, it has a population of about 40,000. It is a center for strawberry and fruit cultivation. The town has a small fishing port. Nearby are the Roman ruins of Neapolis. The economy relies on agriculture and tourism. Korba Beach is popular. Mild climate.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 40.000 (2014).", "Haupterzeugnis: Erdbeeren (8.000 Tonnen jährlich).", "Lage am Golf von Hammamet.", "Römische Ruinen Neapolis: 5 km entfernt.", "Strandlänge: 4 km.", "Fischereihafen: 500 Boote."],
+      hu: ["Lakosság: kb. 40 000 (2014).", "Fő termény: eper (évi 8000 tonna).", "Fekvés: Hammameti-öböl.", "Neapolis római romjai: 5 km-re.", "Strand hossza: 4 km.", "Halászkikötő: 500 hajó."],
+      ro: ["Populație: aprox. 40.000 (2014).", "Produs principal: căpșuni (8.000 tone anual).", "Situat pe Golful Hammamet.", "Ruinele Neapolis: la 5 km.", "Lungimea plajei: 4 km.", "Port pescăresc: 500 de bărci."],
+      en: ["Population: approx. 40,000 (2014).", "Main produce: strawberries (8,000 tons annually).", "Location on Gulf of Hammamet.", "Roman ruins of Neapolis: 5 km away.", "Beach length: 4 km.", "Fishing port: 500 boats."],
+    },
+  },
   {
     id: "tebourba-cities-v2",
     type: "city",
     parent: "TN-14",
     coords: [9.8436, 36.8317],
-    name: { de: "Tebourba", hu: "Tebourba", ro: "Tebourba", en: "Tebourba",
-image: "/poi-images/tebourba-cities-v2.webp"
-},
+    name: { de: "Tebourba", hu: "Tebourba", ro: "Tebourba", en: "Tebourba"},
+    image: "/poi-images/tebourba-cities-v2.webp",
     description: { de: "Eine Stadt nordwestlich von Tunis, die auf eine lange römische und andalusische Geschichte zurückblickt.", hu: "Tunisztól északnyugatra fekvő város, amely hosszú római és andalúz történelemre tekint vissza.", ro: "Un oraș la nord-vest de Tunis, cu o lungă istorie romană și andaluză.", en: "A city northwest of Tunis with a long Roman and Andalusian history." },
     facts: {
       de: ["Historischer Ort", "Nahe Medjerda"],
       hu: ["Történelmi helyszín", "A Medzserda közelében"],
       ro: ["Sit istoric", "Aproape de Medjerda"],
       en: ["Historical site", "Near Medjerda"]
-    }, image: "/poi-images/tebourba-cities-v2.webp"},
+    }, image: "/poi-images/tebourba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tebourba ist eine Stadt im Norden Tunesiens, im Gouvernorat Manouba. Sie liegt am Fluss Medjerda und ist bekannt für ihre Landwirtschaft, insbesondere Zitrusfrüchte und Oliven. Die Stadt hat etwa 30.000 Einwohner. Tebourba war während des Zweiten Weltkriegs Schauplatz der Schlacht von Tebourba im Jahr 1942. Heute ist sie ein wichtiger Knotenpunkt für die Bewässerungslandwirtschaft. Die Wirtschaft basiert auf Landwirtschaft und etwas Industrie. Die Stadt hat eine historische Moschee aus dem 19. Jahrhundert. Die Entfernung nach Tunis beträgt 30 km. Die Region produziert jährlich 20.000 Tonnen Orangen.",
+      hu: "Tebourba város Tunézia északi részén, Manouba kormányzóságban. A Medzsarda folyó mellett fekszik. Híres citrusfélék és olajbogyó termesztéséről. Lakossága kb. 30 000 fő. A második világháborúban itt zajlott a tebourbai csata 1942-ben. Ma mezőgazdasági központ. Gazdasága mezőgazdaságra és kisiparra épül. 19. századi mecset található itt. Távolság Tunisztól 30 km. Évente 20 000 tonna narancsot termelnek.",
+      ro: "Tebourba este un oraș din nordul Tunisiei, în guvernoratul Manouba, pe râul Medjerda. Cunoscut pentru citrice și măsline. Populație: aprox. 30.000. A fost scena bătăliei de la Tebourba din 1942 în Al Doilea Război Mondial. Acum centru agricol. Economie bazată pe agricultură și industrie mică. Moschee din secolul al XIX-lea. Distanță până la Tunis: 30 km. Produce 20.000 tone de portocale anual.",
+      en: "Tebourba is a town in northern Tunisia, in Manouba Governorate, on the Medjerda River. Known for citrus and olives, it has a population of about 30,000. It was the site of the Battle of Tebourba in 1942 during WWII. Now an agricultural hub with irrigation. The economy is based on farming and small industry. A 19th-century mosque is a landmark. Distance to Tunis is 30 km. Annual orange production: 20,000 tons.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 30.000 (2014).", "Schlacht von Tebourba: 1942.", "Jährliche Orangenproduktion: 20.000 Tonnen.", "Fluss Medjerda: Länge 460 km, fließt durch die Stadt.", "Entfernung zu Tunis: 30 km.", "Landwirtschaftliche Nutzfläche: 3.500 ha."],
+      hu: ["Lakosság: kb. 30 000 (2014).", "Tebourbai csata: 1942.", "Éves narancstermelés: 20 000 tonna.", "Medzsarda folyó: hossza 460 km.", "Távolság Tunisztól: 30 km.", "Mezőgazdasági terület: 3 500 ha."],
+      ro: ["Populație: aprox. 30.000 (2014).", "Bătălia de la Tebourba: 1942.", "Producție anuală de portocale: 20.000 tone.", "Râul Medjerda: lungime 460 km.", "Distanță până la Tunis: 30 km.", "Suprafață agricolă: 3.500 ha."],
+      en: ["Population: approx. 30,000 (2014).", "Battle of Tebourba: 1942.", "Annual orange production: 20,000 tons.", "Medjerda River: 460 km long.", "Distance to Tunis: 30 km.", "Agricultural area: 3,500 ha."],
+    },
+  },
   {
     id: "oued-ellil-cities-v2",
     type: "city",
     parent: "TN-14",
     coords: [10.0397, 36.8378],
-    name: { de: "Oued Ellil", hu: "Oued Ellil", ro: "Oued Ellil", en: "Oued Ellil",
-image: "/poi-images/oued-ellil-cities-v2.webp"
-},
+    name: { de: "Oued Ellil", hu: "Oued Ellil", ro: "Oued Ellil", en: "Oued Ellil"},
+    image: "/poi-images/oued-ellil-cities-v2.webp",
     description: { de: "Ein wichtiger Vorort von Tunis mit wachsender Industrie und Wohngebieten.", hu: "Tunisz fontos külvárosa növekvő iparral és lakóövezetekkel.", ro: "O suburbie importantă a Tunisului, cu o industrie și zone rezidențiale în creștere.", en: "An important suburb of Tunis with growing industry and residential areas." },
     facts: {
       de: ["Vorort von Tunis", "Wachsende Industrie"],
@@ -998,70 +1069,116 @@ image: "/poi-images/oued-ellil-cities-v2.webp"
     type: "city",
     parent: "TN-81",
     coords: [9.7967, 33.8864],
-    name: { de: "El Hamma", hu: "El Hamma", ro: "El Hamma", en: "El Hamma",
-image: "/poi-images/el-hamma-cities-v2.webp"
-},
+    name: { de: "El Hamma", hu: "El Hamma", ro: "El Hamma", en: "El Hamma"},
+    image: "/poi-images/el-hamma-cities-v2.webp",
     description: { de: "Eine Oasenstadt im Süden, die für ihre Thermalquellen berühmt ist.", hu: "Déli oázisváros, amely a termálforrásairól híres.", ro: "Un oraș oază din sud, faimos pentru izvoarele sale termale.", en: "An oasis town in the south famous for its thermal springs." },
     facts: {
       de: ["Thermalquellen", "Oasenstadt"],
       hu: ["Termálforrások", "Oázisváros"],
       ro: ["Izvoare termale", "Oraș oază"],
       en: ["Thermal springs", "Oasis city"]
-    }, image: "/poi-images/el-hamma-cities-v2.webp"},
+    }, image: "/poi-images/el-hamma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Hamma ist eine Stadt im Süden Tunesiens, im Gouvernorat Gabès. Sie ist bekannt für ihre Thermalquellen und die traditionelle Bewässerungstechnik der Foggaras. Die Stadt hat etwa 40.000 Einwohner und ist ein Zentrum der Landwirtschaft (Datteln, Oliven). El Hamma liegt in der Nähe der Schotts, den Salzseen. Die heißen Quellen erreichen Temperaturen bis 45°C und werden für therapeutische Zwecke genutzt. Die Wirtschaft basiert auf Landwirtschaft und Thermal-Tourismus. Die Stadt hat eine alte Medina und eine Festung. Die Entfernung nach Gabès beträgt 30 km.",
+      hu: "El Hamma város Dél-Tunéziában, Gabès kormányzóságban. Híres termálforrásairól és a hagyományos foggara öntözőrendszerről. Lakossága kb. 40 000 fő. Gazdasága datolya- és olíva-termesztésen alapul. A Schott-sóstavak közelében fekszik. A forró források hőmérséklete eléri a 45°C-ot. Gyógyászati célokra használják. A városban ókori medina és erőd található. Távolság Gabèstől 30 km.",
+      ro: "El Hamma este un oraș din sudul Tunisiei, în guvernoratul Gabès. Cunoscut pentru izvoarele termale și sistemul tradițional de irigații foggaras. Populație: aprox. 40.000. Economic bazată pe curmale și măsline. Situat lângă șoturile (lacuri sărate). Izvoarele termale ajung la 45°C. Folosite pentru terapie. Orașul are o medină veche și o fortăreață. Distanță până la Gabès: 30 km.",
+      en: "El Hamma is a town in southern Tunisia, in Gabès Governorate. Known for its hot springs and traditional foggara irrigation. Population about 40,000. Economy based on dates and olives. Located near the chotts (salt lakes). Hot springs reach 45°C, used for therapy. The town has an old medina and a fortress. Distance to Gabès: 30 km.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 40.000 (2014).", "Thermalquellen: 45°C Wassertemperatur.", "Dattelproduktion: 10.000 Tonnen jährlich.", "Foggara-System: über 500 km unterirdische Kanäle.", "Entfernung zu Gabès: 30 km.", "Höhe: 50 m über dem Meeresspiegel."],
+      hu: ["Lakosság: kb. 40 000 (2014).", "Termálforrások: 45°C vízhőmérséklet.", "Datolyatermelés: évi 10 000 tonna.", "Foggara rendszer: több mint 500 km földalatti csatorna.", "Távolság Gabèstől: 30 km.", "Tengerszint feletti magasság: 50 m."],
+      ro: ["Populație: aprox. 40.000 (2014).", "Izvoare termale: 45°C.", "Producție de curmale: 10.000 tone anual.", "Sistem foggara: peste 500 km canale subterane.", "Distanță până la Gabès: 30 km.", "Altitudine: 50 m."],
+      en: ["Population: approx. 40,000 (2014).", "Hot springs: 45°C water temperature.", "Date production: 10,000 tons annually.", "Foggara system: over 500 km of underground channels.", "Distance to Gabès: 30 km.", "Elevation: 50 m."],
+    },
+  },
   {
     id: "nefta-cities-v2",
     type: "city",
     parent: "TN-72",
     coords: [7.8761, 33.8731],
-    name: { de: "Nefta", hu: "Nefta", ro: "Nefta", en: "Nefta",
-image: "/poi-images/nefta-cities-v2.webp"
-},
+    name: { de: "Nefta", hu: "Nefta", ro: "Nefta", en: "Nefta"},
+    image: "/poi-images/nefta-cities-v2.webp",
     description: { de: "Eine alte Wüstenstadt nahe der algerischen Grenze, bekannt als religiöses Zentrum des Sufismus.", hu: "Régi sivatagi város az algériai határ közelében, amely a szúfizmus vallási központjaként ismert.", ro: "Un vechi oraș deșertic lângă granița cu Algeria, cunoscut ca centru religios al sufismului.", en: "An ancient desert town near the Algerian border, known as a religious center of Sufism." },
     facts: {
       de: ["Sufismus-Zentrum", "Oasenkultur"],
       hu: ["Szúfizmus központ", "Oáziskultúra"],
       ro: ["Centrul sufismului", "Cultura oazei"],
       en: ["Sufism center", "Oasis culture"]
-    }, image: "/poi-images/nefta-cities-v2.webp"},
+    }, image: "/poi-images/nefta-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nefta ist eine Oasenstadt im Südwesten Tunesiens, in der Nähe des Chott el Djerid. Sie ist bekannt für ihre Palmengärten und die historische Medina. Nefta hat etwa 50.000 Einwohner und ist ein religiöses Zentrum mit vielen Moscheen und Zaouias. Die Stadt war ein wichtiger Knotenpunkt für Karawanen. Der Tourismus ist bedeutend, besonders für Wüstentouren. Die Oase produziert Datteln, vor allem die Sorte Deglet Nour. Nefta liegt 220 km südlich von Tunis. Die Altstadt (Ouled El Hadef) ist malerisch. Das Klima ist heiß und trocken.",
+      hu: "Nefta oázisváros Délnyugat-Tunéziában, a Chott el Dzserid közelében. Híres pálmaligeteiről és történelmi medinájáról. Lakossága kb. 50 000 fő. Vallási központ számos mecsettel és zaujával. Karavánút csomópont volt. A turizmus fontos, sivatagi túrákkal. Az oázis datolyát termel, főleg Deglet Nour fajtát. Nefta 220 km-re délre fekszik Tunisztól. Az óváros (Ouled El Hadef) festői. Éghajlata forró és száraz.",
+      ro: "Nefta este un oraș oază din sud-vestul Tunisiei, lângă Chott el Djerid. Cunoscut pentru palmieri și medina istorică. Populație: aprox. 50.000. Centru religios cu multe moschei și zaouia. A fost un nod caravaniar. Turism important pentru excursii în deșert. Oaza produce curmale Deglet Nour. Nefta este la 220 km sud de Tunis. Orașul vechi (Ouled El Hadef) este pitoresc. Climat cald și uscat.",
+      en: "Nefta is an oasis town in southwestern Tunisia, near Chott el Djerid. Known for its palm groves and historic medina. Population about 50,000. A religious center with many mosques and zaouias. It was a caravan hub. Tourism is significant, especially for desert trips. The oasis produces Deglet Nour dates. Nefta lies 220 km south of Tunis. The old town (Ouled El Hadef) is picturesque. Hot and dry climate.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 50.000 (2014).", "Anzahl der Palmen: über 200.000.", "Dattelproduktion: 5.000 Tonnen jährlich.", "Anzahl der Moscheen: 15.", "Entfernung zu Tunis: 220 km.", "Höhe: 50 m über dem Meeresspiegel."],
+      hu: ["Lakosság: kb. 50 000 (2014).", "Pálmák száma: több mint 200 000.", "Datolyatermelés: évi 5 000 tonna.", "Mecsetek száma: 15.", "Távolság Tunisztól: 220 km.", "Tengerszint feletti magasság: 50 m."],
+      ro: ["Populație: aprox. 50.000 (2014).", "Număr de palmieri: peste 200.000.", "Producție de curmale: 5.000 tone anual.", "Număr de moschei: 15.", "Distanță până la Tunis: 220 km.", "Altitudine: 50 m."],
+      en: ["Population: approx. 50,000 (2014).", "Number of palm trees: over 200,000.", "Date production: 5,000 tons annually.", "Number of mosques: 15.", "Distance to Tunis: 220 km.", "Elevation: 50 m."],
+    },
+  },
   {
     id: "metlaoui-cities-v2",
     type: "city",
     parent: "TN-71",
     coords: [8.4011, 34.3314],
-    name: { de: "Métlaoui", hu: "Métlaoui", ro: "Métlaoui", en: "Métlaoui",
-image: "/poi-images/metlaoui-cities-v2.webp"
-},
+    name: { de: "Métlaoui", hu: "Métlaoui", ro: "Métlaoui", en: "Métlaoui"},
+    image: "/poi-images/metlaoui-cities-v2.webp",
     description: { de: "Eine Stadt im südwestlichen Tunesien, die als Zentrum des Phosphatabbaus dient.", hu: "Délnyugat-Tunézia egyik városa, amely a foszfátbányászat központjaként szolgál.", ro: "Un oraș din sud-vestul Tunisiei, care servește ca centru al extracției de fosfați.", en: "A city in southwestern Tunisia serving as the center of phosphate mining." },
     facts: {
       de: ["Phosphat-Zentrum", "Roter-Eidechse-Zug"],
       hu: ["Foszfát-központ", "Vörös Gyík-vonat"],
       ro: ["Centrul fosfaților", "Trenul Șopârlei Roșii"],
       en: ["Phosphate center", "Red Lizard train"]
-    }, image: "/poi-images/metlaoui-cities-v2.webp"},
+    }, image: "/poi-images/metlaoui-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Métlaoui ist eine Bergbaustadt im Süden Tunesiens, im Gouvernorat Gafsa. Sie ist bekannt für den Abbau von Phosphaten, den größten in Tunesien. Die Stadt hat etwa 40.000 Einwohner. Métlaoui wurde 1890 gegründet, nachdem Phosphat entdeckt wurde. Die Compagnie des Phosphates de Gafsa betreibt hier Minen. Die Stadt hat eine wichtige Schmalspurbahn, die Lezard Rouge (Rote Eidechse), eine Touristenattraktion. Die Wirtschaft ist stark vom Bergbau abhängig. Die Landschaft ist trocken und steinig. Die Umweltauswirkungen des Bergbaus sind erheblich.",
+      hu: "Métlaoui bányaváros Dél-Tunéziában, Gafsa kormányzóságban. Híres a foszfátbányászatról, a legnagyobb Tunéziában. Lakossága kb. 40 000 fő. A várost 1890-ben alapították a foszfát felfedezése után. A bányákat a Compagnie des Phosphates de Gafsa üzemelteti. Itt található a keskeny nyomtávú vasút, a Lezard Rouge, turistalátványosság. Gazdasága erősen függ a bányászattól. A táj száraz és köves. A bányászat környezeti hatásai jelentősek.",
+      ro: "Métlaoui este un oraș minier din sudul Tunisiei, în guvernoratul Gafsa. Cunoscut pentru exploatarea fosfaților, cea mai mare din Tunisia. Populație: aprox. 40.000. Fondat în 1890 după descoperirea fosfaților. Minele sunt operate de Compagnie des Phosphates de Gafsa. Orașul are o cale ferată îngustă, Lezard Rouge, atracție turistică. Economia dependentă de minerit. Peisaj arid. Impacturi ecologice semnificative.",
+      en: "Métlaoui is a mining town in southern Tunisia, in Gafsa Governorate. Known for phosphate mining, the largest in Tunisia. Population about 40,000. Founded in 1890 after phosphate discovery. Mines operated by Compagnie des Phosphates de Gafsa. The town has a narrow-gauge railway, Lezard Rouge, a tourist attraction. Economy heavily reliant on mining. Dry and rocky landscape. Significant environmental impacts.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 40.000 (2014).", "Gründung: 1890.", "Phosphatproduktion: 8 Millionen Tonnen jährlich.", "Schmalspurbahn Lezard Rouge: 35 km Strecke.", "Höhe: 200 m über dem Meeresspiegel.", "Zahl der Minen: 5."],
+      hu: ["Lakosság: kb. 40 000 (2014).", "Alapítás: 1890.", "Foszfáttermelés: évi 8 millió tonna.", "Lezard Rouge keskeny nyomtávú vasút: 35 km hosszú.", "Tengerszint feletti magasság: 200 m.", "Bányák száma: 5."],
+      ro: ["Populație: aprox. 40.000 (2014).", "Fondat: 1890.", "Producție de fosfați: 8 milioane tone anual.", "Calea ferată Lezard Rouge: 35 km.", "Altitudine: 200 m.", "Număr de mine: 5."],
+      en: ["Population: approx. 40,000 (2014).", "Founded: 1890.", "Phosphate production: 8 million tons annually.", "Lezard Rouge railway: 35 km long.", "Elevation: 200 m.", "Number of mines: 5."],
+    },
+  },
   {
     id: "feriana-cities-v2",
     type: "city",
     parent: "TN-42",
     coords: [8.5678, 34.9567],
-    name: { de: "Fériana", hu: "Fériana", ro: "Fériana", en: "Fériana",
-image: "/poi-images/feriana-cities-v2.webp"
-},
+    name: { de: "Fériana", hu: "Fériana", ro: "Fériana", en: "Fériana"},
+    image: "/poi-images/feriana-cities-v2.webp",
     description: { de: "Eine Stadt in der Region Kasserine, umgeben von römischen Ruinen und Olivenhainen.", hu: "Város Kasserine régióban, római romokkal és olajfaligetekkel körülvéve.", ro: "Un oraș din regiunea Kasserine, înconjurat de ruine romane și plantații de măslini.", en: "A city in the Kasserine region surrounded by Roman ruins and olive groves." },
     facts: {
       de: ["Antike Ruinen", "Olivenanbau"],
       hu: ["Ókori romok", "Olívatermesztés"],
       ro: ["Ruine antice", "Cultivarea măslinilor"],
       en: ["Ancient ruins", "Olive growing"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Fériana ist eine Stadt im Westen Tunesiens, im Gouvernorat Kasserine. Sie liegt im Atlasgebirge und ist bekannt für ihre Landwirtschaft, insbesondere Getreide und Oliven. Die Stadt hat etwa 30.000 Einwohner. Fériana war ein römischer Posten namens Thala. In der Umgebung gibt es antike römische Ruinen. Die Wirtschaft ist landwirtschaftlich geprägt, mit Schaf- und Ziegenzucht. Das Klima ist kontinental mit kalten Wintern. Die Entfernung zur Großstadt Kasserine beträgt 40 km. Die Region leidet unter Wasserknappheit. Die Höhe beträgt 800 m.",
+      hu: "Fériana város Nyugat-Tunéziában, Kasserine kormányzóságban. Az Atlasz-hegységben fekszik. Híres gabona- és olíva-termesztéséről. Lakossága kb. 30 000 fő. Római előőrs volt Thala néven. A környéken római romok találhatók. Gazdasága mezőgazdasági (juh- és kecsketenyésztés). Éghajlata kontinentális, hideg telekkel. Távolság Kasserine-től 40 km. Vízhiányos régió. Tengerszint feletti magasság: 800 m.",
+      ro: "Fériana este un oraș din vestul Tunisiei, în guvernoratul Kasserine, în munții Atlas. Cunoscut pentru cereale și măsline. Populație: aprox. 30.000. A fost un avanpost roman numit Thala. Ruine romane în zonă. Economie agricolă (oi, capre). Climat continental cu ierni reci. Distanță până la Kasserine: 40 km. Regiunea se confruntă cu lipsa apei. Altitudine: 800 m.",
+      en: "Fériana is a town in western Tunisia, in Kasserine Governorate, in the Atlas Mountains. Known for grain and olives. Population about 30,000. It was a Roman outpost called Thala. Roman ruins nearby. Economy is agricultural (sheep, goats). Continental climate with cold winters. Distance to Kasserine: 40 km. Water scarcity. Elevation: 800 m.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 30.000 (2014).", "Höhe: 800 m über dem Meeresspiegel.", "Römischer Name: Thala.", "Entfernung zu Kasserine: 40 km.", "Jährliche Getreideproduktion: 15.000 Tonnen.", "Viehbestand: 50.000 Schafe."],
+      hu: ["Lakosság: kb. 30 000 (2014).", "Tengerszint feletti magasság: 800 m.", "Római név: Thala.", "Távolság Kasserine-től: 40 km.", "Éves gabonatermelés: 15 000 tonna.", "Juhállomány: 50 000."],
+      ro: ["Populație: aprox. 30.000 (2014).", "Altitudine: 800 m.", "Nume roman: Thala.", "Distanță până la Kasserine: 40 km.", "Producție anuală de cereale: 15.000 tone.", "Efective de ovine: 50.000."],
+      en: ["Population: approx. 30,000 (2014).", "Elevation: 800 m.", "Roman name: Thala.", "Distance to Kasserine: 40 km.", "Annual grain production: 15,000 tons.", "Sheep flocks: 50,000."],
+    },
   },
   {
     id: "thala-cities-v2",
     type: "city",
     parent: "TN-42",
     coords: [8.6728, 35.5681],
-    name: { de: "Thala", hu: "Thala", ro: "Thala", en: "Thala",
-image: "/poi-images/thala-cities-v2.webp"
-},
+    name: { de: "Thala", hu: "Thala", ro: "Thala", en: "Thala"},
+    image: "/poi-images/thala-cities-v2.webp",
     description: { de: "Eine der höchstgelegenen Städte Tunesiens, die eine wichtige Rolle während der Revolution spielte.", hu: "Tunézia egyik legmagasabban fekvő városa, amely fontos szerepet játszott a forradalom alatt.", ro: "Unul dintre orașele situate la cea mai mare altitudine din Tunisia, care a jucat un rol important în timpul revoluției.", en: "One of the highest cities in Tunisia, which played an important role during the revolution." },
     facts: {
       de: ["Höhergelegene Stadt", "Kühles Klima"],
@@ -1081,9 +1198,8 @@ image: "/poi-images/thala-cities-v2.webp"
     type: "city",
     parent: "TN-34",
     coords: [9.2064, 35.8569],
-    name: { de: "Makthar", hu: "Makthar", ro: "Makthar", en: "Makthar",
-image: "/poi-images/makthar-cities-v2.webp"
-},
+    name: { de: "Makthar", hu: "Makthar", ro: "Makthar", en: "Makthar"},
+    image: "/poi-images/makthar-cities-v2.webp",
     description: { de: "Eine Bergstadt, die für ihre umfangreichen und gut erhaltenen römischen Ruinen bekannt ist.", hu: "Hegyi város, amely kiterjedt és jó állapotban fennmaradt római romjairól ismert.", ro: "Un oraș de munte, cunoscut pentru ruinele sale romane extinse și bine conservate.", en: "A mountain town known for its extensive and well-preserved Roman ruins." },
     facts: {
       de: ["Römisches Mactaris", "Berglandschaft"],
@@ -1103,39 +1219,62 @@ image: "/poi-images/makthar-cities-v2.webp"
     type: "city",
     parent: "TN-31",
     coords: [9.6103, 36.6492],
-    name: { de: "Medjez el-Bab", hu: "Medjez el-Bab", ro: "Medjez el-Bab", en: "Medjez el-Bab",
-image: "/poi-images/medjez-el-bab-cities-v2.webp"
-},
+    name: { de: "Medjez el-Bab", hu: "Medjez el-Bab", ro: "Medjez el-Bab", en: "Medjez el-Bab"},
+    image: "/poi-images/medjez-el-bab-cities-v2.webp",
     description: { de: "Eine strategisch wichtige Stadt am Fluss Medjerda, oft ein Schlachtfeld im Zweiten Weltkrieg.", hu: "Stratégiailag fontos város a Medzserda folyó mellett, amely gyakran volt csatatér a második világháborúban.", ro: "Un oraș important strategic pe râul Medjerda, adesea câmp de luptă în al Doilea Război Mondial.", en: "A strategically important city on the Medjerda River, often a battlefield in World War II." },
     facts: {
       de: ["Am Medjerda-Fluss", "WK2-Denkmäler"],
       hu: ["A Medzserda folyó mellett", "Második világháborús emlékművek"],
       ro: ["Pe râul Medjerda", "Monumente din Al Doilea Război Mondial"],
       en: ["On Medjerda River", "WWII memorials"]
-    }, image: "/poi-images/medjez-el-bab-cities-v2.webp"},
+    }, image: "/poi-images/medjez-el-bab-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Medjez el-Bab ist eine Stadt im Norden Tunesiens, im Gouvernorat Béja. Sie liegt am Fluss Medjerda und ist bekannt für ihre Landwirtschaft (Getreide, Zitrusfrüchte). Die Stadt hat etwa 30.000 Einwohner. Medjez el-Bab war während des Zweiten Weltkriegs Schauplatz von Kämpfen (Operation Vulcan). Die Wirtschaft basiert auf Landwirtschaft und etwas Industrie. Die Stadt hat eine große Talsperre, die Barrage de Sidi Salem, die 1981 fertiggestellt wurde. Sie ist die größte Talsperre Tunesiens und bewässert weite Gebiete. Die Entfernung nach Tunis beträgt 60 km.",
+      hu: "Medjez el-Bab város Észak-Tunéziában, Béja kormányzóságban. A Medzsarda folyó mellett fekszik. Híres gabona- és citrusfélék termesztéséről. Lakossága kb. 30 000 fő. A második világháborúban itt voltak harcok (Operation Vulcan). Gazdasága mezőgazdasági. A város közelében található a Sidi Salem-gát, Tunézia legnagyobb gátja, 1981-ben készült el. Távolság Tunisztól 60 km.",
+      ro: "Medjez el-Bab este un oraș din nordul Tunisiei, în guvernoratul Béja, pe râul Medjerda. Cunoscut pentru cereale și citrice. Populație: aprox. 30.000. A fost locul luptelor din Al Doilea Război Mondial (Operațiunea Vulcan). Economie agricolă. În apropiere se află barajul Sidi Salem, cel mai mare din Tunisia, construit în 1981. Distanță până la Tunis: 60 km.",
+      en: "Medjez el-Bab is a town in northern Tunisia, in Béja Governorate, on the Medjerda River. Known for grains and citrus. Population about 30,000. It saw fighting in WWII (Operation Vulcan). Economy is agricultural. Nearby is the Sidi Salem Dam, the largest in Tunisia, completed in 1981. Distance to Tunis: 60 km.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 30.000 (2014).", "Sidi Salem Stausee: Kapazität 1,5 Milliarden m³.", "Grundfläche des Staudamms: 5 km².", "Länge der Talsperre: 800 m.", "Entfernung zu Tunis: 60 km.", "Schlacht von Medjez el-Bab: 1943."],
+      hu: ["Lakosság: kb. 30 000 (2014).", "Sidi Salem-víztározó: 1,5 milliárd m³ kapacitás.", "Gát alapterülete: 5 km².", "Gát hossza: 800 m.", "Távolság Tunisztól: 60 km.", "Medjez el-Bab-i csata: 1943."],
+      ro: ["Populație: aprox. 30.000 (2014).", "Barajul Sidi Salem: capacitate 1,5 miliarde m³.", "Suprafața lacului de acumulare: 5 km².", "Lungimea barajului: 800 m.", "Distanță până la Tunis: 60 km.", "Bătălia de la Medjez el-Bab: 1943."],
+      en: ["Population: approx. 30,000 (2014).", "Sidi Salem Dam: capacity 1.5 billion m³.", "Reservoir area: 5 km².", "Dam length: 800 m.", "Distance to Tunis: 60 km.", "Battle of Medjez el-Bab: 1943."],
+    },
+  },
   {
     id: "teboursouk-cities-v2",
     type: "city",
     parent: "TN-31",
     coords: [9.2536, 36.4589],
-    name: { de: "Téboursouk", hu: "Téboursouk", ro: "Téboursouk", en: "Téboursouk",
-image: "/poi-images/teboursouk-cities-v2.webp"
-},
+    name: { de: "Téboursouk", hu: "Téboursouk", ro: "Téboursouk", en: "Téboursouk"},
+    image: "/poi-images/teboursouk-cities-v2.webp",
     description: { de: "Eine malerische Bergstadt in der Nähe der bedeutenden römischen Ausgrabungsstätte Dougga.", hu: "Festői hegyi város a jelentős római kori Dougga ásatás közelében.", ro: "Un oraș de munte pitoresc lângă importantul sit arheologic roman Dougga.", en: "A picturesque mountain town near the significant Roman archaeological site of Dougga." },
     facts: {
       de: ["Nähe zu Dougga", "Olivenproduktion"],
       hu: ["Dougga közelében", "Olívatermelés"],
       ro: ["Aproape de Dougga", "Producția de măsline"],
       en: ["Close to Dougga", "Olive production"]
-    }, image: "/poi-images/teboursouk-cities-v2.webp"},
+    }, image: "/poi-images/teboursouk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Téboursouk ist eine Stadt im Nordwesten Tunesiens, im Gouvernorat Béja. Sie liegt am Fuße des Djebel ech-Chaïd und ist bekannt für ihre römische Vergangenheit als Thubursicum Numidarum. Die Stadt hat etwa 25.000 Einwohner. Die Wirtschaft ist landwirtschaftlich geprägt (Getreide, Oliven). Téboursouk hat ein römisches Amphitheater und andere Ruinen. Die Stadt ist auch für die Produktion von Kork und Holz bekannt. Das Klima ist relativ feucht. Die Entfernung nach Tunis beträgt 120 km. Die Höhe beträgt 500 m.",
+      hu: "Téboursouk város Északnyugat-Tunéziában, Béja kormányzóságban. A Djebel ech-Chaïd lábánál fekszik. Híres római múltjáról, Thubursicum Numidarum néven. Lakossága kb. 25 000 fő. Gazdasága mezőgazdasági (gabona, olíva). Római amfiteátrum és romok találhatók itt. Kéreg- és fatermelés is jellemző. Éghajlata viszonylag nedves. Távolság Tunisztól 120 km. Tengerszint feletti magasság: 500 m.",
+      ro: "Téboursouk este un oraș din nord-vestul Tunisiei, în guvernoratul Béja, la poalele Djebel ech-Chaïd. Cunoscut pentru trecutul roman, ca Thubursicum Numidarum. Populație: aprox. 25.000. Economie agricolă (cereale, măsline). Are un amfiteatru roman și ruine. Producție de plută și lemn. Climat relativ umed. Distanță până la Tunis: 120 km. Altitudine: 500 m.",
+      en: "Téboursouk is a town in northwestern Tunisia, in Béja Governorate, at the foot of Djebel ech-Chaïd. Known for its Roman past as Thubursicum Numidarum. Population about 25,000. Economy agricultural (grain, olives). Roman amphitheater and ruins exist. Cork and timber production. Relatively humid climate. Distance to Tunis: 120 km. Elevation: 500 m.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 25.000 (2014).", "Römisches Amphitheater: 3.000 Sitzplätze.", "Höhe: 500 m über dem Meeresspiegel.", "Entfernung zu Tunis: 120 km.", "Jährliche Olivenölproduktion: 2.000 Tonnen.", "Mittlere jährliche Niederschlagsmenge: 600 mm."],
+      hu: ["Lakosság: kb. 25 000 (2014).", "Római amfiteátrum: 3 000 férőhely.", "Tengerszint feletti magasság: 500 m.", "Távolság Tunisztól: 120 km.", "Éves olívaolaj-termelés: 2 000 tonna.", "Átlagos évi csapadék: 600 mm."],
+      ro: ["Populație: aprox. 25.000 (2014).", "Amfiteatru roman: 3.000 de locuri.", "Altitudine: 500 m.", "Distanță până la Tunis: 120 km.", "Producție anuală de ulei de măsline: 2.000 tone.", "Precipitații medii anuale: 600 mm."],
+      en: ["Population: approx. 25,000 (2014).", "Roman amphitheater: 3,000 seats.", "Elevation: 500 m.", "Distance to Tunis: 120 km.", "Annual olive oil production: 2,000 tons.", "Average annual rainfall: 600 mm."],
+    },
+  },
   {
     id: "testour-cities-v2",
     type: "city",
     parent: "TN-31",
     coords: [9.4447, 36.5511],
-    name: { de: "Testour", hu: "Testour", ro: "Testour", en: "Testour",
-image: "/poi-images/testour-cities-v2.webp"
-},
+    name: { de: "Testour", hu: "Testour", ro: "Testour", en: "Testour"},
+    image: "/poi-images/testour-cities-v2.webp",
     description: { de: "Eine der besterhaltenen andalusischen Städte in Tunesien, die für ihr Festival des Malouf bekannt ist.", hu: "Tunézia egyik legjobb állapotban fennmaradt andalúz városa, amely a Malouf fesztiváljáról ismert.", ro: "Unul dintre cele mai bine conservate orașe andaluze din Tunisia, cunoscut pentru festivalul său de Malouf.", en: "One of the best-preserved Andalusian cities in Tunisia, known for its festival of Malouf." },
     facts: {
       de: ["Andalusisches Erbe", "Einzigartige Moschee"],
@@ -1148,24 +1287,35 @@ image: "/poi-images/testour-cities-v2.webp"
     type: "city",
     parent: "TN-51",
     coords: [10.3808, 36.1342],
-    name: { de: "Enfidha", hu: "Enfidha", ro: "Enfidha", en: "Enfidha",
-image: "/poi-images/enfidha-cities-v2.webp"
-},
+    name: { de: "Enfidha", hu: "Enfidha", ro: "Enfidha", en: "Enfidha"},
+    image: "/poi-images/enfidha-cities-v2.webp",
     description: { de: "Eine schnell wachsende Stadt, bekannt für ihren internationalen Flughafen und Industrieparks.", hu: "Gyorsan növekvő város, amely nemzetközi repülőteréről és ipari parkjairól ismert.", ro: "Un oraș în creștere rapidă, cunoscut pentru aeroportul său internațional și parcurile industriale.", en: "A rapidly growing city known for its international airport and industrial parks." },
     facts: {
       de: ["Internationaler Flughafen", "Industriezentrum"],
       hu: ["Nemzetközi repülőtér", "Ipari központ"],
       ro: ["Aeroport internațional", "Centru industrial"],
       en: ["International airport", "Industrial center"]
-    }, image: "/poi-images/enfidha-cities-v2.webp"},
+    }, image: "/poi-images/enfidha-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Enfidha ist eine Stadt im Nordosten Tunesiens, im Gouvernorat Sousse. Sie ist bekannt für den internationalen Flughafen Enfidha-Hammamet, der 2009 eröffnet wurde. Die Stadt hat etwa 15.000 Einwohner. Enfidha war während der Kolonialzeit ein wichtiges landwirtschaftliches Zentrum. Die Wirtschaft ist auf Tourismus und Landwirtschaft ausgerichtet (Oliven, Wein). Der Flughafen dient als Drehkreuz für die Touristenorte Hammamet und Port El Kantaoui. Enfidha hat eine historische Festung aus dem 18. Jahrhundert. Die Entfernung nach Sousse beträgt 35 km.",
+      hu: "Enfidha város Északkelet-Tunéziában, Sousse kormányzóságban. Híres a 2009-ben megnyílt Enfidha-Hammamet nemzetközi repülőtérről. Lakossága kb. 15 000 fő. A gyarmati időszakban mezőgazdasági központ volt. Gazdasága turizmuson és mezőgazdaságon (olíva, bor) alapul. A repülőtér a turistacélpontok (Hammamet, Port El Kantaoui) csomópontja. 18. századi erőd található. Távolság Soussetől 35 km.",
+      ro: "Enfidha este un oraș din nord-estul Tunisiei, în guvernoratul Sousse. Cunoscut pentru aeroportul internațional Enfidha-Hammamet, deschis în 2009. Populație: aprox. 15.000. A fost un centru agricol în perioada colonială. Economie bazată pe turism și agricultură (măsline, vin). Aeroportul deservește stațiunile Hammamet și Port El Kantaoui. O fortăreață din secolul al XVIII-lea. Distanță până la Sousse: 35 km.",
+      en: "Enfidha is a town in northeastern Tunisia, in Sousse Governorate. Known for the Enfidha-Hammamet International Airport, opened in 2009. Population about 15,000. It was an agricultural hub during colonial times. Economy relies on tourism and agriculture (olives, wine). The airport serves resorts like Hammamet and Port El Kantaoui. An 18th-century fortress exists. Distance to Sousse: 35 km.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 15.000 (2014).", "Flughafen eröffnet: 2009.", "Flughafenkapazität: 5 Millionen Passagiere jährlich.", "Entfernung zu Sousse: 35 km.", "Festung: 18. Jahrhundert.", "Olivenhaine: 5.000 ha."],
+      hu: ["Lakosság: kb. 15 000 (2014).", "Repülőtér megnyitva: 2009.", "Repülőtér kapacitása: évi 5 millió utas.", "Távolság Soussetől: 35 km.", "Erőd: 18. század.", "Olajfaligetek: 5 000 ha."],
+      ro: ["Populație: aprox. 15.000 (2014).", "Aeroport deschis: 2009.", "Capacitate aeroport: 5 milioane de pasageri anual.", "Distanță până la Sousse: 35 km.", "Fortăreață: secolul al XVIII-lea.", "Livezi de măslini: 5.000 ha."],
+      en: ["Population: approx. 15,000 (2014).", "Airport opened: 2009.", "Airport capacity: 5 million passengers annually.", "Distance to Sousse: 35 km.", "Fortress: 18th century.", "Olive groves: 5,000 ha."],
+    },
+  },
   {
     id: "ksour-essef-cities-v2",
     type: "city",
     parent: "TN-53",
     coords: [10.9858, 35.4264],
-    name: { de: "Ksour Essef", hu: "Ksour Essef", ro: "Ksour Essef", en: "Ksour Essef",
-image: "/poi-images/ksour-essef-cities-v2.webp"
-},
+    name: { de: "Ksour Essef", hu: "Ksour Essef", ro: "Ksour Essef", en: "Ksour Essef"},
+    image: "/poi-images/ksour-essef-cities-v2.webp",
     description: { de: "Eine Stadt in der Küstenebene, die auf landwirtschaftliche Produkte spezialisiert ist.", hu: "Város a parti síkságon, amely mezőgazdasági termékekre szakosodott.", ro: "Un oraș din câmpia de coastă, specializat în produse agricole.", en: "A town in the coastal plain specialized in agricultural products." },
     facts: {
       de: ["Agrarwirtschaft", "Römische Spuren"],
@@ -1178,9 +1328,8 @@ image: "/poi-images/ksour-essef-cities-v2.webp"
     type: "city",
     parent: "TN-21",
     coords: [10.7486, 36.4678],
-    name: { de: "Dar Chaabane", hu: "Dar Chaabane", ro: "Dar Chaabane", en: "Dar Chaabane",
-image: "/poi-images/dar-chaabane-cities-v2.webp"
-},
+    name: { de: "Dar Chaabane", hu: "Dar Chaabane", ro: "Dar Chaabane", en: "Dar Chaabane"},
+    image: "/poi-images/dar-chaabane-cities-v2.webp",
     description: { de: "Eine Stadt nahe Nabeul, die für ihre traditionelle Steinmetzkunst bekannt ist.", hu: "Város Nabeul közelében, amely a hagyományos kőfaragásáról ismert.", ro: "Un oraș lângă Nabeul, cunoscut pentru pietrăria sa tradițională.", en: "A town near Nabeul known for its traditional stonemasonry." },
     facts: {
       de: ["Steinmetzkunst", "Handwerkszentrum"],
@@ -1193,31 +1342,54 @@ image: "/poi-images/dar-chaabane-cities-v2.webp"
     type: "city",
     parent: "TN-32",
     coords: [8.9692, 36.6067],
-    name: { de: "Bou Salem", hu: "Bou Salem", ro: "Bou Salem", en: "Bou Salem",
-image: "/poi-images/bou-salem-cities-v2.webp"
-},
+    name: { de: "Bou Salem", hu: "Bou Salem", ro: "Bou Salem", en: "Bou Salem"},
+    image: "/poi-images/bou-salem-cities-v2.webp",
     description: { de: "Ein bedeutender Marktplatz und Zentrum für den Getreideanbau im Medjerda-Tal.", hu: "Jelentős piactér és a gabonatermesztés központja a Medzserda-völgyben.", ro: "O piață importantă și centru pentru cultivarea cerealelor în valea Medjerda.", en: "A major market town and center for cereal cultivation in the Medjerda valley." },
     facts: {
       de: ["Getreideanbau", "Agrarzentrum"],
       hu: ["Gabonatermesztés", "Mezőgazdasági központ"],
       ro: ["Cultivarea cerealelor", "Centru agricol"],
       en: ["Cereal cultivation", "Agricultural center"]
-    }, image: "/poi-images/bou-salem-cities-v2.webp"},
+    }, image: "/poi-images/bou-salem-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bou Salem liegt im Nordwesten Tunesiens in der Provinz Jendouba. Die Gegend war bereits in römischer Zeit besiedelt, wie Überreste der antiken Stadt Thuburnica belegen. Die landwirtschaftlich geprägte Region produziert hauptsächlich Getreide, Oliven und Kork. Der Ort dient als lokales Handelszentrum und ist für seine traditionelle Architektur bekannt. Die umliegenden Wälder und Hügel bieten Lebensraum für vielfältige Tier- und Pflanzenarten. Wirtschaftlich bedeutend ist die Viehzucht, insbesondere die Schaf- und Ziegenhaltung. In den letzten Jahrzehnten verzeichnete Bou Salem ein moderates Bevölkerungswachstum, bleibt aber von Abwanderung in die Küstenstädte betroffen.",
+      hu: "Bou Salem város Tunézia északnyugati részén, Jendouba kormányzóságban található. Lakossága mintegy 13 000 fő (2014-es népszámlálás), többségük arab és berber származású. A település gazdasága a mezőgazdaságon alapul, a gabona-, olíva- és parafatermelés a legjelentősebb. A helyi piacokon kézműves termékeket is árusítanak. Bou Salem az elmúlt években infrastrukturális fejlesztéseken ment keresztül, új iskolák és egészségügyi központok épültek. A város környékén található a romkori Thuburnica régészeti lelőhelye, amely vonzza a turistákat. A népesség lassan növekszik, bár a fiatalok gyakran a tengerparti városokba költöznek munkalehetőségért.",
+      ro: "Bou Salem este un oraș în nord-vestul Tunisiei, în guvernoratul Jendouba. Așezat la altitudinea de 480 m, localitatea beneficiază de un climat mediteranean cu veri uscate și ierni umede. Teritoriul său se întinde pe 15 km² și include păduri de stejar și plută. Principalele resurse naturale sunt lemnul și pășunile. În jurul orașului se află situl arheologic Thuburnica, o fostă colonie romană. Economia locală se bazează pe agricultura de subzistență și creșterea animalelor. Bou Salem este deservit de o rețea de drumuri ce leagă orașul de Jendouba și alte centre urbane. Populația este predominant rurală, cu o rată ridicată de migrație sezonieră.",
+      en: "Bou Salem is a town in northwestern Tunisia, within the Jendouba Governorate. It has a rich cultural heritage rooted in Berber and Roman history. The town is known for its traditional architecture, including stone houses with red-tiled roofs. Annual festivals celebrate local folklore, music, and cuisine. The surrounding landscape features rolling hills and cork oak forests, ideal for hiking. Bou Salem's souk offers handmade pottery and woven textiles. Despite modernization, the town retains a strong community identity. Tourism is emerging, focusing on rural experiences and archaeological sites. The local population is around 13,000, with a mix of Arab and Berber ethnicities.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 13.000 (2014)", "Fläche: 15 km²", "Höhe: 480 m ü. M.", "Antike Siedlung: Thuburnica (römisch)", "Hauptprodukte: Getreide, Oliven, Kork", "Entfernung zu Jendouba: 20 km"],
+      hu: ["Lakosság: kb. 13 000 fő (2014)", "Terület: 15 km²", "Tengerszint feletti magasság: 480 m", "Római település: Thuburnica", "Fő termények: gabona, olíva, parafa", "Távolság Jendouba-tól: 20 km"],
+      ro: ["Populație: aproximativ 13.000 (recensământ 2014)", "Suprafață: 15 km²", "Altitudine: 480 m", "Așezare antică: Thuburnica (romană)", "Produse principale: cereale, măsline, plută", "Distanță până la Jendouba: 20 km"],
+      en: ["Population: approx 13,000 (2014 census)", "Area: 15 km²", "Elevation: 480 m", "Ancient settlement: Thuburnica (Roman)", "Main products: cereals, olives, cork", "Distance to Jendouba: 20 km"],
+    },
+  },
   {
     id: "oueslatia-cities-v2",
     type: "city",
     parent: "TN-41",
     coords: [9.5847, 35.8453],
-    name: { de: "Oueslatia", hu: "Oueslatia", ro: "Oueslatia", en: "Oueslatia",
-image: "/poi-images/oueslatia-cities-v2.webp"
-},
+    name: { de: "Oueslatia", hu: "Oueslatia", ro: "Oueslatia", en: "Oueslatia"},
+    image: "/poi-images/oueslatia-cities-v2.webp",
     description: { de: "Eine landwirtschaftliche Stadt im Zentrum Tunesiens, eingebettet in Hügellandschaften.", hu: "Mezőgazdasági város Tunézia központjában, dombvidéki környezetben.", ro: "Un oraș agricol în centrul Tunisiei, amplasat printre dealuri.", en: "An agricultural town in central Tunisia, nestled among hills." },
     facts: {
       de: ["Landwirtschaft", "Hügellandschaft"],
       hu: ["Mezőgazdaság", "Dombvidék"],
       ro: ["Agricultură", "Peisaj deluros"],
       en: ["Agriculture", "Hilly landscape"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Oueslatia ist eine Stadt in Zentraltunesien, im Gouvernement Kairouan. Historisch war sie ein wichtiger Knotenpunkt auf den Karawanenwegen zwischen der Küste und dem Landesinneren. Die Region ist bekannt für ihre Olivenhaine und den Anbau von Hartweizen. Oueslatia beherbergt eine bedeutende römische Wasserleitung und Überreste einer byzantinischen Festung. Die lokale Wirtschaft stützt sich auf die landwirtschaftliche Verarbeitung und den Handel. Die Stadt hat etwa 8.500 Einwohner und verfügt über ein kleines Museum zur Regionalgeschichte. In den letzten Jahren investierte die Regierung in Bewässerungsprojekte, um die Erträge zu steigern.",
+      hu: "Oueslatia város Tunézia középső részén, Kairouan kormányzóságban található. Történelme során fontos karavánút-állomás volt, ami elősegítette a kereskedelmet. A környék híres olajfaligeteiről és keménybúza termesztéséről. Oueslatia római vízvezeték és bizánci erőd maradványairól ismert. A helyi gazdaság a mezőgazdasági feldolgozásra és kereskedelemre épül. A város lakossága körülbelül 8500 fő. A kormány öntözési projekteket indított a terméshozam növelése érdekében. Oueslatia rendelkezik egy kis regionális múzeummal, amely a helyi történelmet mutatja be.",
+      ro: "Oueslatia este un oraș în centrul Tunisiei, în guvernoratul Kairouan. Așezat pe un platou, zona beneficiază de un climat semi-arid. Orașul a fost un nod comercial important datorită poziției sale pe rutele caravaniere. Agricultura domină economia, cu accent pe măsline și grâu dur. Moștenirea istorică include un apeduct roman și ruinele unei fortărețe bizantine. Populația este de aproximativ 8.500 de locuitori. Proiecte de irigații recente au crescut productivitatea agricolă. Oueslatia păstrează tradiții meșteșugărești, cum ar fi țesături și ceramică.",
+      en: "Oueslatia is a town in central Tunisia, in the Kairouan Governorate. Its strategic location on ancient caravan routes fostered a diverse cultural and economic history. The town features Roman and Byzantine archaeological remains, including a well-preserved aqueduct. Agriculture is the mainstay, with olives and durum wheat as primary crops. Oueslatia's market is a hub for local farmers and artisans. The population is around 8,500, with a strong Berber heritage. Recent irrigation projects have improved agricultural yields. The town hosts an annual olive festival celebrating its agrarian traditions.",
+    },
+    factsAdvanced: {
+      de: ["Einwohner: ca. 8.500", "Lage: Gouvernement Kairouan, Zentraltunesien", "Römische Wasserleitung: Länge ca. 2 km", "Wichtigste Kulturen: Oliven, Hartweizen", "Höhe: ca. 300 m ü. M.", "Bewässerungsprojekte seit 2010"],
+      hu: ["Lakosság: kb. 8 500 fő", "Elhelyezkedés: Kairouan kormányzóság, Közép-Tunézia", "Római vízvezeték hossza: kb. 2 km", "Fő növények: olíva, keménybúza", "Tengerszint feletti magasság: kb. 300 m", "Öntözési projektek 2010 óta"],
+      ro: ["Populație: aproximativ 8.500", "Locație: guvernoratul Kairouan, centrul Tunisiei", "Apeduct roman: lungime de circa 2 km", "Culturi principale: măsline, grâu dur", "Altitudine: aproximativ 300 m", "Proiecte de irigații începute în 2010"],
+      en: ["Population: approx 8,500", "Location: Kairouan Governorate, central Tunisia", "Roman aqueduct length: approx 2 km", "Main crops: olives, durum wheat", "Elevation: approx 300 m", "Irrigation projects started in 2010"],
+    },
   }
 ];
 

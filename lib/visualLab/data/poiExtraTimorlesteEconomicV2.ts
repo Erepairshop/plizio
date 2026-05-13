@@ -6,84 +6,143 @@ export const poiExtraTimorlesteEconomicV2: POI[] = [
     type: "energy",
     parent: "TL-DI",
     coords: [125.6667, -8.5417],
-    name: { de: "Kraftwerk Hera", hu: "Hera Erőmű", ro: "Centrala Electrică Hera", en: "Hera Power Plant",
-image: "/poi-images/hera-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Hera", hu: "Hera Erőmű", ro: "Centrala Electrică Hera", en: "Hera Power Plant"},
+    image: "/poi-images/hera-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Schwerölkraftwerk in der Nähe von Dili, das einen großen Teil der Hauptstadt mit Strom versorgt.", hu: "Egy jelentős nehézolaj-erőmű Dili közelében, amely a főváros nagy részét ellátja árammal.", ro: "O importantă centrală electrică pe păcură lângă Dili, care furnizează energie electrică pentru o mare parte din capitală.", en: "A major heavy oil power plant near Dili that supplies electricity to a large part of the capital." },
     facts: {
       de: ["Liegt an der Nordküste.", "Bedeutend für Dili."],
       hu: ["Az északi parton fekszik.", "Jelentős Dili számára."],
       ro: ["Situată pe coasta de nord.", "Importantă pentru Dili."],
       en: ["Located on the north coast.", "Important for Dili."]
-    }, image: "/poi-images/hera-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/hera-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hera-Kraftwerk ist ein Ölkraftwerk in der Nähe von Dili, Osttimor. Es wurde 2013 in Betrieb genommen und hat eine installierte Leistung von 136 MW (zwei Turbinen mit je 68 MW). Es versorgt die Hauptstadt Dili und umliegende Gebiete mit Strom. Das Kraftwerk wird von der timoresischen Regierung betrieben und nutzt Schweröl. Es ist eine wichtige Energiequelle, aber aufgrund der Abhängigkeit von importierten Brennstoffen und der Umweltauswirkungen umstritten. Die Anlage verfügt über eine eigene Entsalzungsanlage für Kühlwasser.",
+      hu: "A Hera erőmű egy olajüzemű erőmű Dili közelében, Kelet-Timorban. 2013-ban helyezték üzembe, beépített teljesítménye 136 MW (két turbina, egyenként 68 MW). Ellátja a fővárost, Dilit és a környező területeket árammal. Az erőművet a timori kormány üzemelteti, és nehézolajat használ. Fontos energiaforrás, de vitatott az importált üzemanyagtól való függőség és a környezeti hatások miatt. A létesítmény saját sótalanító üzemmel rendelkezik a hűtővízhez.",
+      ro: "Centrala electrică Hera este o centrală pe petrol situată lângă Dili, Timorul de Est. A fost pusă în funcțiune în 2013, cu o capacitate instalată de 136 MW (două turbine de 68 MW fiecare). Alimentează capitala Dili și zonele înconjurătoare cu electricitate. Centrala este operată de guvernul timorez și folosește păcură. Este o sursă importantă de energie, dar controversată din cauza dependenței de combustibili importați și a impactului asupra mediului. Instalația are o stație de desalinizare proprie pentru apa de răcire.",
+      en: "The Hera Power Plant is an oil-fired power station near Dili, Timor-Leste. Commissioned in 2013, it has an installed capacity of 136 MW (two 68 MW turbines). It supplies electricity to the capital Dili and surrounding areas. Operated by the Timorese government, it uses heavy fuel oil. It is a key energy source but controversial due to fuel import dependency and environmental impact. The facility has its own desalination plant for cooling water.",
+    },
+    factsAdvanced: {
+      de: ["Die installierte Leistung beträgt 136 MW.", "Das Kraftwerk wurde 2013 in Betrieb genommen.", "Es verbraucht jährlich etwa 100.000 Tonnen Schweröl.", "Die Anlage versorgt über 200.000 Haushalte mit Strom.", "Die Baukosten beliefen sich auf 300 Millionen US-Dollar.", "Die CO2-Emissionen betragen etwa 300.000 Tonnen pro Jahr."],
+      hu: ["A beépített teljesítmény 136 MW.", "Az erőművet 2013-ban helyezték üzembe.", "Évente körülbelül 100 000 tonna nehézolajat használ fel.", "A létesítmény több mint 200 000 háztartást lát el árammal.", "Az építési költségek 300 millió amerikai dollárra rúgtak.", "A CO2-kibocsátás évente körülbelül 300 000 tonna."],
+      ro: ["Capacitatea instalată este de 136 MW.", "Centrala a fost pusă în funcțiune în 2013.", "Consumă aproximativ 100.000 de tone de păcură anual.", "Instalația alimentează peste 200.000 de gospodării cu electricitate.", "Costurile de construcție s-au ridicat la 300 de milioane de dolari SUA.", "Emisiile de CO2 sunt de aproximativ 300.000 de tone pe an."],
+      en: ["Installed capacity is 136 MW.", "The plant was commissioned in 2013.", "It consumes about 100,000 tons of heavy fuel oil annually.", "The facility supplies over 200,000 households with electricity.", "Construction costs were 300 million US dollars.", "CO2 emissions are about 300,000 tons per year."],
+    },
+  },
   {
     id: "tibar-bay-port-economic-v2",
     type: "port",
     parent: "TL-LI",
     coords: [125.4833, -8.5667],
-    name: { de: "Hafen von Tibar Bay", hu: "Tibar-öböl kikötője", ro: "Portul Golfului Tibar", en: "Tibar Bay Port",
-image: "/poi-images/tibar-bay-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Tibar Bay", hu: "Tibar-öböl kikötője", ro: "Portul Golfului Tibar", en: "Tibar Bay Port"},
+    image: "/poi-images/tibar-bay-port-economic-v2.webp",
     description: { de: "Ein moderner Tiefseehafen westlich von Dili, der den Großteil des internationalen Frachtverkehrs abwickelt.", hu: "Egy modern mélyvízi kikötő Dilitől nyugatra, amely a nemzetközi teherforgalom nagy részét bonyolítja.", ro: "Un port modern de apă adâncă la vest de Dili, care gestionează majoritatea traficului internațional de marfă.", en: "A modern deepwater port west of Dili that handles the majority of international freight traffic." },
     facts: {
       de: ["Modernes Infrastrukturprojekt.", "Entlastet den Hafen von Dili."],
       hu: ["Modern infrastrukturális projekt.", "Tehermentesíti Dili kikötőjét."],
       ro: ["Proiect de infrastructură modernă.", "Decongestionază portul Dili."],
       en: ["Modern infrastructure project.", "Relieves the port of Dili."]
-    }, image: "/poi-images/tibar-bay-port-economic-v2.webp"},
+    }, image: "/poi-images/tibar-bay-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tibar Bay Port ist ein neuer Tiefseehafen in der Bucht von Tibar, westlich von Dili, Osttimor. Der Bau begann 2020 und soll 2024 abgeschlossen sein. Er ersetzt den überlasteten Hafen von Dili und hat eine Kapazität von 350.000 TEU pro Jahr. Der Hafen wird von einem chinesischen Unternehmen betrieben und ist Teil der Belt and Road Initiative. Er soll den Seehandel Osttimors fördern und die Wirtschaft diversifizieren. Die Anlage umfasst Containerterminal, Frachtlager und Zugang zu einer neuen Umgehungsstraße.",
+      hu: "A Tibar-öböl kikötő egy új mélytengeri kikötő a Tibar-öbölben, Dilitől nyugatra, Kelet-Timorban. Az építkezés 2020-ban kezdődött, és várhatóan 2024-ben fejeződik be. Felváltja a túlterhelt dili kikötőt, kapacitása évi 350 000 TEU. A kikötőt egy kínai vállalat üzemelteti, és a Belt and Road Initiative része. Célja Kelet-Timor tengeri kereskedelmének fellendítése és a gazdaság diverzifikálása. A létesítmény tartalmaz konténerterminált, rakományraktárakat és hozzáférést egy új elkerülő úthoz.",
+      ro: "Portul Tibar Bay este un port de apă adâncă nou situat în golful Tibar, la vest de Dili, Timorul de Est. Construcția a început în 2020 și urmează să fie finalizată în 2024. Va înlocui portul aglomerat din Dili, având o capacitate de 350.000 TEU pe an. Portul este operat de o companie chineză și face parte din Inițiativa Belt and Road. Scopul său este de a stimula comerțul maritim al Timorului de Est și de a diversifica economia. Instalația include terminal de containere, depozite de marfă și acces la un nou drum ocolitor.",
+      en: "Tibar Bay Port is a new deep-water port in Tibar Bay, west of Dili, Timor-Leste. Construction started in 2020 and is expected to be completed in 2024. It will replace the congested Dili port, with a capacity of 350,000 TEU per year. The port is operated by a Chinese company and is part of the Belt and Road Initiative. It aims to boost Timor-Leste's maritime trade and diversify the economy. Facilities include container terminal, cargo warehouses, and access to a new bypass road.",
+    },
+    factsAdvanced: {
+      de: ["Die Kapazität des Hafens beträgt 350.000 TEU pro Jahr.", "Die Baukosten werden auf 300 Millionen US-Dollar geschätzt.", "Der Hafen hat eine Wassertiefe von 15 Metern.", "Das Terminal erstreckt sich über 20 Hektar.", "Die Bauzeit beträgt 4 Jahre (2020–2024).", "Der Hafen schafft voraussichtlich 500 direkte Arbeitsplätze."],
+      hu: ["A kikötő kapacitása évi 350 000 TEU.", "Az építési költségeket 300 millió amerikai dollárra becsülik.", "A kikötő vízmélysége 15 méter.", "A terminál 20 hektáron terül el.", "Az építési idő 4 év (2020–2024).", "A kikötő várhatóan 500 közvetlen munkahelyet teremt."],
+      ro: ["Capacitatea portului este de 350.000 TEU pe an.", "Costurile de construcție sunt estimate la 300 de milioane de dolari SUA.", "Portul are o adâncime a apei de 15 metri.", "Terminalul se întinde pe 20 de hectare.", "Durata de construcție este de 4 ani (2020–2024).", "Portul va crea aproximativ 500 de locuri de muncă directe."],
+      en: ["Port capacity is 350,000 TEU per year.", "Construction cost is estimated at 300 million US dollars.", "The port has a water depth of 15 meters.", "The terminal covers 20 hectares.", "Construction period is 4 years (2020–2024).", "The port is expected to create 500 direct jobs."],
+    },
+  },
   {
     id: "betano-power-plant-economic-v2",
     type: "energy",
     parent: "TL-MF",
     coords: [125.7167, -9.1667],
-    name: { de: "Kraftwerk Betano", hu: "Betano Erőmű", ro: "Centrala Electrică Betano", en: "Betano Power Plant",
-image: "/poi-images/betano-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Betano", hu: "Betano Erőmű", ro: "Centrala Electrică Betano", en: "Betano Power Plant"},
+    image: "/poi-images/betano-power-plant-economic-v2.webp",
     description: { de: "Ein großes Kraftwerk an der Südküste, das zur Energieunabhängigkeit und industriellen Entwicklung der Region beiträgt.", hu: "Egy nagy erőmű a déli parton, amely hozzájárul a régió energiafüggetlenségéhez és ipari fejlődéséhez.", ro: "O mare centrală electrică pe coasta de sud, care contribuie la independența energetică și dezvoltarea industrială a regiunii.", en: "A large power plant on the south coast contributing to the region's energy independence and industrial development." },
     facts: {
       de: ["Liegt an der Südküste.", "Unterstützt lokale Industrie."],
       hu: ["A déli parton fekszik.", "Támogatja a helyi ipart."],
       ro: ["Situată pe coasta de sud.", "Sprijină industria locală."],
       en: ["Located on the south coast.", "Supports local industry."]
-    }, image: "/poi-images/betano-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/betano-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Betano-Kraftwerk ist ein Ölkraftwerk in Betano, im Süden Osttimors, in der Gemeinde Manufahi. Es wurde 2010 errichtet und hat eine installierte Leistung von 80 MW (vier Turbinen mit je 20 MW). Es versorgt die südlichen Regionen des Landes mit Strom. Das Kraftwerk nutzt Diesel und Schweröl. Es ist wichtig für die ländliche Elektrifizierung, steht aber aufgrund seiner Emissionen in der Kritik. Die Anlage verfügt über eine eigene Stromübertragungsleitung nach Dili.",
+      hu: "A betanói erőmű egy olajüzemű erőmű Betanóban, Kelet-Timor déli részén, Manufahi településen. 2010-ben épült, beépített teljesítménye 80 MW (négy turbina, egyenként 20 MW). Ellátja az ország déli régióit árammal. Az erőmű dízelt és nehézolajat használ. Fontos a vidéki villamosításhoz, de kritikák érik a kibocsátásai miatt. A létesítmény saját távvezetékkel rendelkezik Dili felé.",
+      ro: "Centrala electrică Betano este o centrală pe petrol în Betano, sudul Timorului de Est, în municipiul Manufahi. A fost construită în 2010, cu o capacitate instalată de 80 MW (patru turbine de 20 MW fiecare). Alimentează regiunile sudice ale țării cu electricitate. Centrala folosește motorină și păcură. Este importantă pentru electrificarea rurală, dar este criticată pentru emisiile sale. Instalația are o linie proprie de transport electric către Dili.",
+      en: "Betano Power Plant is an oil-fired power station in Betano, southern Timor-Leste, in Manufahi municipality. Built in 2010, it has an installed capacity of 80 MW (four 20 MW turbines). It supplies electricity to southern regions. The plant uses diesel and heavy fuel oil. Important for rural electrification but criticized for emissions. The facility has its own transmission line to Dili.",
+    },
+    factsAdvanced: {
+      de: ["Die installierte Leistung beträgt 80 MW.", "Die Anlage wurde 2010 in Betrieb genommen.", "Sie verbraucht jährlich 60.000 Tonnen Brennstoff.", "Die Übertragungsleitung nach Dili ist 150 km lang.", "Die Baukosten betrugen 200 Millionen US-Dollar.", "Das Kraftwerk versorgt rund 100.000 Menschen mit Strom."],
+      hu: ["A beépített teljesítmény 80 MW.", "A létesítményt 2010-ben helyezték üzembe.", "Évente 60 000 tonna üzemanyagot használ fel.", "A Dilibe vezető távvezeték hossza 150 km.", "Az építési költségek 200 millió amerikai dollárt tettek ki.", "Az erőmű körülbelül 100 000 embert lát el árammal."],
+      ro: ["Capacitatea instalată este de 80 MW.", "Instalația a fost pusă în funcțiune în 2010.", "Consumă anual 60.000 de tone de combustibil.", "Linia de transport către Dili are 150 km lungime.", "Costurile de construcție au fost de 200 de milioane de dolari SUA.", "Centrala alimentează aproximativ 100.000 de persoane cu electricitate."],
+      en: ["Installed capacity is 80 MW.", "The facility was commissioned in 2010.", "It consumes 60,000 tons of fuel annually.", "The transmission line to Dili is 150 km long.", "Construction costs were 200 million US dollars.", "The plant supplies about 100,000 people with electricity."],
+    },
+  },
   {
     id: "suai-supply-base-economic-v2",
     type: "industry",
     parent: "TL-CO",
     coords: [125.2667, -9.3167],
-    name: { de: "Versorgungsbasis Suai", hu: "Suai Ellátóbázis", ro: "Baza de Aprovizionare Suai", en: "Suai Supply Base",
-image: "/poi-images/suai-supply-base-economic-v2.webp"
-},
+    name: { de: "Versorgungsbasis Suai", hu: "Suai Ellátóbázis", ro: "Baza de Aprovizionare Suai", en: "Suai Supply Base"},
+    image: "/poi-images/suai-supply-base-economic-v2.webp",
     description: { de: "Ein logistisches Zentrum für die Erdöl- und Erdgasindustrie entlang der Timorsee.", hu: "A Timor-tenger menti kőolaj- és földgázipar logisztikai központja.", ro: "Un centru logistic pentru industria petrolului și gazelor de-a lungul Mării Timor.", en: "A logistical center for the oil and gas industry along the Timor Sea." },
     facts: {
       de: ["Zentrum für Offshore-Projekte.", "Teil des Tasi-Mane-Projekts."],
       hu: ["Tengeri projektek központja.", "A Tasi Mane projekt része."],
       ro: ["Centru pentru proiecte offshore.", "Parte a proiectului Tasi Mane."],
       en: ["Center for offshore projects.", "Part of the Tasi Mane project."]
-    }, image: "/poi-images/suai-supply-base-economic-v2.webp"},
+    }, image: "/poi-images/suai-supply-base-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Suai Supply Base ist eine Logistikbasis in Suai, im Süden Osttimors, in der Gemeinde Covalima. Sie wurde entwickelt, um die Öl- und Gasaktivitäten in der Timorsee zu unterstützen, insbesondere das Greater Sunrise Feld. Die Basis umfasst Lagerhäuser, Liegeplätze und Einrichtungen für die Offshore-Industrie. Das Projekt ist Teil der Bemühungen Osttimors, seine Erdölindustrie zu entwickeln. Die Basis soll Arbeitsplätze schaffen und die lokale Wirtschaft ankurbeln. Die Bauarbeiten begannen 2015.",
+      hu: "A Suai Supply Base egy logisztikai bázis Suaiban, Kelet-Timor déli részén, Covalima településen. Azért hozták létre, hogy támogassa a Timor-tenger olaj- és gázkitermelési tevékenységeit, különösen a Greater Sunrise mezőt. A bázis raktárakat, kikötőhelyeket és a tengeri ipar számára szükséges létesítményeket foglal magában. A projekt része Kelet-Timor erőfeszítéseinek, hogy fejlessze kőolajiparát. A bázis munkahelyeket teremt és fellendíti a helyi gazdaságot. Az építkezés 2015-ben kezdődött.",
+      ro: "Baza de aprovizionare Suai este o bază logistică în Suai, sudul Timorului de Est, în municipiul Covalima. A fost dezvoltată pentru a sprijini activitățile de petrol și gaze din Marea Timor, în special câmpul Greater Sunrise. Baza include depozite, dană și instalații pentru industria offshore. Proiectul face parte din eforturile Timorului de Est de a-și dezvolta industria petrolieră. Baza va crea locuri de muncă și va stimula economia locală. Construcția a început în 2015.",
+      en: "Suai Supply Base is a logistics base in Suai, southern Timor-Leste, in Covalima municipality. Developed to support oil and gas activities in the Timor Sea, especially the Greater Sunrise field. The base includes warehouses, berths, and facilities for offshore industry. The project is part of Timor-Leste's efforts to develop its petroleum industry. It aims to create jobs and boost the local economy. Construction began in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Die Basis umfasst ein 10 Hektar großes Gelände.", "Die Baukosten betrugen 50 Millionen US-Dollar.", "Es gibt 5 Liegeplätze für Versorgungsschiffe.", "Die Basis hat eine Lagerkapazität von 20.000 Tonnen.", "Das Projekt schuf 300 Bauarbeitsplätze.", "Die Entfernung zum Greater Sunrise Feld beträgt 150 km."],
+      hu: ["A bázis egy 10 hektáros területet foglal magában.", "Az építési költségek 50 millió amerikai dollárt tettek ki.", "5 kikötőhely áll rendelkezésre ellátó hajók számára.", "A bázis raktárkapacitása 20 000 tonna.", "A projekt 300 építőipari munkahelyet teremtett.", "Távolsága a Greater Sunrise mezőtől 150 km."],
+      ro: ["Baza se întinde pe o suprafață de 10 hectare.", "Costurile de construcție au fost de 50 de milioane de dolari SUA.", "Există 5 locuri de acostare pentru navele de aprovizionare.", "Baza are o capacitate de depozitare de 20.000 de tone.", "Proiectul a creat 300 de locuri de muncă în construcții.", "Distanța până la câmpul Greater Sunrise este de 150 km."],
+      en: ["The base covers an area of 10 hectares.", "Construction costs were 50 million US dollars.", "There are 5 berths for supply vessels.", "The base has a storage capacity of 20,000 tons.", "The project created 300 construction jobs.", "Distance to Greater Sunrise field is 150 km."],
+    },
+  },
   {
     id: "dili-seaport-economic-v2",
     type: "port",
     parent: "TL-DI",
     coords: [125.5736, -8.5492],
-    name: { de: "Seehafen Dili", hu: "Dili Tengeri Kikötő", ro: "Portul Maritim Dili", en: "Dili Seaport",
-image: "/poi-images/dili-seaport-economic-v2.webp"
-},
+    name: { de: "Seehafen Dili", hu: "Dili Tengeri Kikötő", ro: "Portul Maritim Dili", en: "Dili Seaport"},
+    image: "/poi-images/dili-seaport-economic-v2.webp",
     description: { de: "Der historische Haupthafen der Hauptstadt, der zunehmend in ein Zentrum für Passagier- und Kreuzfahrtschiffe umgewandelt wird.", hu: "A főváros történelmi fő kikötője, amelyet egyre inkább utas- és tengerjáró hajók központjává alakítanak.", ro: "Principalul port istoric al capitalei, transformat din ce în ce mai mult într-un centru pentru nave de pasageri și croaziere.", en: "The historical main port of the capital, increasingly being transformed into a hub for passenger and cruise ships." },
     facts: {
       de: ["Historischer Knotenpunkt.", "Fokus auf Passagiere."],
       hu: ["Történelmi csomópont.", "Fókusz az utasokon."],
       ro: ["Nod istoric.", "Concentrare pe pasageri."],
       en: ["Historical hub.", "Focus on passengers."]
-    }, image: "/poi-images/dili-seaport-economic-v2.webp"},
+    }, image: "/poi-images/dili-seaport-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Dili ist der wichtigste Seehafen Osttimors, gelegen in der Hauptstadt Dili. Er wickelt den Großteil des internationalen Frachtverkehrs ab, einschließlich Container, Stückgut und Treibstoff. Der Hafen wurde in den 1960er Jahren gebaut und mehrfach erweitert. Die Kapazität ist begrenzt, was die Entwicklung neuer Hafenanlagen wie Tibar Bay Port vorantreibt. Der Hafen wird von der Hafenbehörde Osttimors verwaltet. Er ist auch ein Ziel für Kreuzfahrtschiffe. Die durchschnittliche jährliche Frachtmenge beträgt etwa 1 Million Tonnen.",
+      hu: "A dili kikötő Kelet-Timor legfontosabb tengeri kikötője, a fővárosban, Diliben található. A nemzetközi áruforgalom nagy részét bonyolítja le, beleértve a konténereket, darabárukat és üzemanyagot. A kikötő az 1960-as években épült, és többször bővítették. Kapacitása korlátozott, ami új kikötői létesítmények, mint a Tibar-öböl kikötő fejlesztését sürgeti. A kikötőt a Kelet-timori Kikötői Hatóság üzemelteti. Célállomás a körutazási hajók számára is. Az éves átlagos rakománymennyiség körülbelül 1 millió tonna.",
+      ro: "Portul Dili este cel mai important port maritim al Timorului de Est, situat în capitala Dili. Gestionează cea mai mare parte a traficului internațional de marfă, inclusiv containere, mărfuri generale și combustibil. Portul a fost construit în anii 1960 și extins de mai multe ori. Capacitatea este limitată, ceea ce conduce la dezvoltarea de noi instalații portuare precum Portul Tibar Bay. Portul este administrat de Autoritatea Portuară a Timorului de Est. Este, de asemenea, o destinație pentru nave de croazieră. Volumul mediu anual de marfă este de aproximativ 1 milion de tone.",
+      en: "Dili Seaport is the main seaport of Timor-Leste, located in the capital Dili. It handles most international cargo traffic, including containers, break-bulk, and fuel. Built in the 1960s and expanded several times. Capacity is limited, driving development of new port facilities like Tibar Bay Port. Managed by the Port Authority of Timor-Leste. Also a destination for cruise ships. Average annual cargo volume is about 1 million tons.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen hat eine Kailänge von 500 Metern.", "Die maximale Wassertiefe beträgt 10 Meter.", "Die jährliche Containerabfertigung liegt bei 100.000 TEU.", "Der Hafen wurde 1965 erbaut.", "Es gibt 4 Kräne für den Containerumschlag.", "Der Hafen verarbeitet jährlich 1 Million Tonnen Fracht."],
+      hu: ["A kikötő rakpartjának hossza 500 méter.", "A maximális vízmélység 10 méter.", "Az éves konténerforgalom 100 000 TEU.", "A kikötőt 1965-ben építették.", "4 daru áll rendelkezésre a konténerek átrakásához.", "A kikötő évente 1 millió tonna rakományt kezel."],
+      ro: ["Portul are o lungime a cheiului de 500 de metri.", "Adâncimea maximă a apei este de 10 metri.", "Volumul anual de containere este de 100.000 TEU.", "Portul a fost construit în 1965.", "Există 4 macarale pentru manipularea containerelor.", "Portul manipulează anual 1 milion de tone de marfă."],
+      en: ["The port has a quay length of 500 meters.", "Maximum water depth is 10 meters.", "Annual container throughput is 100,000 TEU.", "The port was built in 1965.", "There are 4 cranes for container handling.", "The port handles 1 million tons of cargo annually."],
+    },
+  },
   {
     id: "gleno-coffee-processing-economic-v2",
     type: "industry",
     parent: "TL-ER",
     coords: [125.4333, -8.7167],
-    name: { de: "Kaffeeverarbeitung Gleno", hu: "Gleno Kávéfeldolgozó", ro: "Procesarea Cafelei Gleno", en: "Gleno Coffee Processing",
-image: "/poi-images/gleno-coffee-processing-economic-v2.webp"
-},
+    name: { de: "Kaffeeverarbeitung Gleno", hu: "Gleno Kávéfeldolgozó", ro: "Procesarea Cafelei Gleno", en: "Gleno Coffee Processing"},
+    image: "/poi-images/gleno-coffee-processing-economic-v2.webp",
     description: { de: "Das Zentrum der Kaffeeverarbeitung im Distrikt Ermera, wo erstklassige Kaffeebohnen für den Export vorbereitet werden.", hu: "A kávéfeldolgozás központja Ermera körzetben, ahol az első osztályú kávébabokat exportra készítik elő.", ro: "Centrul procesării cafelei din districtul Ermera, unde boabele de cafea de primă clasă sunt pregătite pentru export.", en: "The center of coffee processing in the Ermera district, where premium coffee beans are prepared for export." },
     facts: {
       de: ["Fokus auf Bio-Kaffee.", "Wichtiges Exportgut."],
@@ -97,213 +156,377 @@ image: "/poi-images/gleno-coffee-processing-economic-v2.webp"
     type: "energy",
     parent: "TL-LA",
     coords: [127.1333, -8.4667],
-    name: { de: "Wasserkraftprojekt Iralalaro", hu: "Iralalaro Vízierőmű Projekt", ro: "Proiectul Hidroenergetic Iralalaro", en: "Iralalaro Hydropower Project",
-image: "/poi-images/iralalaro-hydropower-economic-v2.webp"
-},
+    name: { de: "Wasserkraftprojekt Iralalaro", hu: "Iralalaro Vízierőmű Projekt", ro: "Proiectul Hidroenergetic Iralalaro", en: "Iralalaro Hydropower Project"},
+    image: "/poi-images/iralalaro-hydropower-economic-v2.webp",
     description: { de: "Ein geplantes Wasserkraftwerk, das das Wasser des Ira-Lalaro-Sees zur Erzeugung erneuerbarer Energie nutzen soll.", hu: "Egy tervezett vízvizierőmű, amely az Ira Lalaro-tó vizét hasznosítaná megújuló energia termelésére.", ro: "O hidrocentrală planificată pentru a utiliza apa lacului Ira Lalaro pentru generarea de energie regenerabilă.", en: "A planned hydropower plant aiming to utilize the water of Lake Ira Lalaro to generate renewable energy." },
     facts: {
       de: ["Fokus auf erneuerbare Energie.", "Nutzt den größten See des Landes."],
       hu: ["Fókusz a megújuló energián.", "Az ország legnagyobb tavát használja."],
       ro: ["Concentrare pe energia regenerabilă.", "Utilizează cel mai mare lac din țară."],
       en: ["Focus on renewable energy.", "Utilizes the country's largest lake."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Iralalaro-Wasserkraftprojekt ist ein geplantes Wasserkraftwerk im Osten Osttimors, im Gemeinde Lautém. Es soll eine Leistung von 10 MW haben und am Fluss Iralalaro errichtet werden. Das Projekt zielt darauf ab, erneuerbare Energie zu liefern und die Abhängigkeit von fossilen Brennstoffen zu verringern. Es ist Teil der nationalen Elektrifizierungsstrategie. Umweltstudien und Machbarkeitsanalysen wurden durchgeführt. Das Projekt wird von der Asiatischen Entwicklungsbank unterstützt. Der Baubeginn wird für 2025 erwartet.",
+      hu: "Az Iralalaro vízerőmű-projekt egy tervezett vízerőmű Kelet-Timor keleti részén, Lautém településen. Teljesítménye 10 MW lesz, és az Iralalaro folyón épül meg. A projekt célja megújuló energia biztosítása és a fosszilis tüzelőanyagoktól való függőség csökkentése. Része a nemzeti villamosítási stratégiának. Környezetvédelmi tanulmányok és megvalósíthatósági elemzések készültek. A projektet az Ázsiai Fejlesztési Bank támogatja. Az építkezés 2025-ben várható.",
+      ro: "Proiectul hidroelectric Iralalaro este o centrală hidroelectrică planificată în estul Timorului de Est, în municipiul Lautém. Va avea o capacitate de 10 MW și va fi construit pe râul Iralalaro. Proiectul își propune să furnizeze energie regenerabilă și să reducă dependența de combustibili fosili. Face parte din strategia națională de electrificare. Au fost efectuate studii de mediu și analize de fezabilitate. Proiectul este sprijinit de Banca Asiatică de Dezvoltare. Începerea construcției este așteptată în 2025.",
+      en: "The Iralalaro Hydropower Project is a planned hydropower plant in eastern Timor-Leste, Lautém municipality. It will have a capacity of 10 MW and be built on the Iralalaro River. The project aims to provide renewable energy and reduce dependence on fossil fuels. It is part of the national electrification strategy. Environmental studies and feasibility analyses have been conducted. Supported by the Asian Development Bank. Construction is expected to start in 2025.",
+    },
+    factsAdvanced: {
+      de: ["Die geplante Leistung beträgt 10 MW.", "Das Projekt wird jährlich 40 GWh Strom erzeugen.", "Die Baukosten werden auf 30 Millionen US-Dollar geschätzt.", "Der Staudamm soll 30 Meter hoch werden.", "Das Einzugsgebiet des Flusses beträgt 500 km².", "Das Projekt wird etwa 100 Arbeitsplätze während der Bauphase schaffen."],
+      hu: ["A tervezett teljesítmény 10 MW.", "A projekt évente 40 GWh áramot termel.", "Az építési költségeket 30 millió amerikai dollárra becsülik.", "A gát magassága 30 méter lesz.", "A folyó vízgyűjtő területe 500 km².", "A projekt körülbelül 100 munkahelyet teremt az építési szakaszban."],
+      ro: ["Capacitatea planificată este de 10 MW.", "Proiectul va genera 40 GWh de energie electrică anual.", "Costurile de construcție sunt estimate la 30 de milioane de dolari SUA.", "Barajul va avea o înălțime de 30 de metri.", "Bazinul hidrografic al râului este de 500 km².", "Proiectul va crea aproximativ 100 de locuri de muncă în faza de construcție."],
+      en: ["Planned capacity is 10 MW.", "The project will generate 40 GWh of electricity annually.", "Construction costs are estimated at 30 million US dollars.", "The dam will be 30 meters high.", "The river catchment area is 500 km².", "The project will create about 100 jobs during construction."],
+    },
   },
   {
     id: "baucau-limestone-quarry-economic-v2",
     type: "mine",
     parent: "TL-BA",
     coords: [126.3667, -8.4667],
-    name: { de: "Kalksteinbruch Baucau", hu: "Baucau Mészkőbánya", ro: "Cariera de Calcar Baucau", en: "Baucau Limestone Quarry",
-image: "/poi-images/baucau-limestone-quarry-economic-v2.webp"
-},
+    name: { de: "Kalksteinbruch Baucau", hu: "Baucau Mészkőbánya", ro: "Cariera de Calcar Baucau", en: "Baucau Limestone Quarry"},
+    image: "/poi-images/baucau-limestone-quarry-economic-v2.webp",
     description: { de: "Eine bedeutende Abbauzone für Kalkstein auf dem Baucau-Plateau, der für den lokalen Bau und die Zementproduktion verwendet wird.", hu: "Egy jelentős mészkő-kitermelő zóna a Baucau-fennsíkon, amelyet a helyi építőiparban és cementgyártásban használnak.", ro: "O zonă importantă de extracție a calcarului pe platoul Baucau, utilizat pentru construcții locale și producția de ciment.", en: "A significant limestone extraction zone on the Baucau plateau, used for local construction and cement production." },
     facts: {
       de: ["Wichtiger Baustoff.", "Nutzt lokale Geologie."],
       hu: ["Fontos építőanyag.", "A helyi geológiát használja."],
       ro: ["Important material de construcție.", "Utilizează geologia locală."],
       en: ["Important building material.", "Utilizes local geology."]
-    }, image: "/poi-images/baucau-limestone-quarry-economic-v2.webp"},
+    }, image: "/poi-images/baucau-limestone-quarry-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kalksteinbruch in Baucau liegt im Gemeinde Baucau, im Nordosten Osttimors. Er liefert Rohstoffe für die Zementproduktion in der nahe gelegenen Zementfabrik. Der Bruch hat eine geschätzte Reserve von mehreren Millionen Tonnen Kalkstein. Der Abbau erfolgt im Tagebau. Der Kalkstein wird für den Bau von Infrastrukturprojekten sowie für die lokale Bauindustrie verwendet. Der Betrieb schafft Arbeitsplätze, hat aber auch Umweltauswirkungen. Der Bruch ist seit den 1980er Jahren in Betrieb.",
+      hu: "A baucau-i mészkőbánya Baucau településen található, Kelet-Timor északkeleti részén. Nyersanyagot biztosít a közeli cementgyár számára. A bánya becsült tartaléka több millió tonna mészkő. A kitermelés külszíni fejtéssel történik. A mészkövet infrastrukturális projektek építéséhez és a helyi építőipar számára használják. Az üzem munkahelyeket teremt, de környezeti hatásokkal is jár. A bánya az 1980-as évek óta működik.",
+      ro: "Cariera de calcar din Baucau este situată în municipiul Baucau, nord-estul Timorului de Est. Furnizează materii prime pentru producția de ciment din fabrica de ciment din apropiere. Cariera are o rezervă estimată de câteva milioane de tone de calcar. Exploatarea se face în carieră deschisă. Calcarul este utilizat pentru proiecte de infrastructură și pentru industria locală a construcțiilor. Operațiunea creează locuri de muncă, dar are și impact asupra mediului. Cariera este activă din anii 1980.",
+      en: "Baucau Limestone Quarry is located in Baucau municipality, northeastern Timor-Leste. It supplies raw materials for cement production at the nearby cement factory. The quarry has estimated reserves of several million tons of limestone. Mining is open-pit. Limestone is used for infrastructure projects and local construction. The operation creates jobs but has environmental impacts. Operational since the 1980s.",
+    },
+    factsAdvanced: {
+      de: ["Die jährliche Fördermenge beträgt 500.000 Tonnen.", "Die geschätzten Reserven liegen bei 10 Millionen Tonnen.", "Der Bruch erstreckt sich über 50 Hektar.", "Er beschäftigt 200 Arbeiter direkt.", "Die Zementfabrik produziert jährlich 200.000 Tonnen Zement.", "Der Kalksteingehalt beträgt 95 % Calciumcarbonat."],
+      hu: ["Az éves kitermelés 500 000 tonna.", "A becsült tartalék 10 millió tonna.", "A bánya 50 hektáron terül el.", "Közvetlenül 200 munkást foglalkoztat.", "A cementgyár évente 200 000 tonna cementet termel.", "A mészkő kalcium-karbonát-tartalma 95%."],
+      ro: ["Producția anuală este de 500.000 de tone.", "Rezervele estimate sunt de 10 milioane de tone.", "Cariera se întinde pe 50 de hectare.", "Angajează direct 200 de muncitori.", "Fabrica de ciment produce anual 200.000 de tone de ciment.", "Conținutul de carbonat de calciu al calcarului este de 95%."],
+      en: ["Annual production is 500,000 tons.", "Estimated reserves are 10 million tons.", "The quarry covers 50 hectares.", "It employs 200 workers directly.", "The cement factory produces 200,000 tons of cement annually.", "Limestone calcium carbonate content is 95%."],
+    },
+  },
   {
     id: "com-fishing-port-economic-v2",
     type: "port",
     parent: "TL-LA",
     coords: [127.0667, -8.3583],
-    name: { de: "Fischereihafen Com", hu: "Com Halászkikötő", ro: "Portul de Pescuit Com", en: "Com Fishing Port",
-image: "/poi-images/com-fishing-port-economic-v2.webp"
-},
+    name: { de: "Fischereihafen Com", hu: "Com Halászkikötő", ro: "Portul de Pescuit Com", en: "Com Fishing Port"},
+    image: "/poi-images/com-fishing-port-economic-v2.webp",
     description: { de: "Ein kleiner, aber wichtiger Hafen im Osten des Landes, der lokale Fischerboote und maritimen Handel unterstützt.", hu: "Egy kis, de fontos kikötő az ország keleti részén, amely támogatja a helyi halászhajókat és a tengeri kereskedelmet.", ro: "Un port mic, dar important în estul țării, care sprijină bărcile locale de pescuit și comerțul maritim.", en: "A small but important port in the east of the country supporting local fishing boats and maritime trade." },
     facts: {
       de: ["Unterstützt lokale Fischer.", "Östlicher Handelspunkt."],
       hu: ["Támogatja a helyi halászokat.", "Keleti kereskedelmi pont."],
       ro: ["Sprijină pescarii locali.", "Punct comercial estic."],
       en: ["Supports local fishermen.", "Eastern trade point."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Fischereihafen Com liegt an der Nordküste Osttimors, im Gemeinde Lautém. Er ist ein wichtiger Stützpunkt für die lokale Fischereiindustrie. Der Hafen verfügt über Anlegestellen, Kühlanlagen und eine Fischverarbeitungsanlage. Er wurde mit Hilfe der japanischen Regierung entwickelt. Der Hafen unterstützt den Fang von Thunfisch, Makrelen und anderen Arten. Er trägt zur Ernährungssicherheit und zum Export bei. Die Anlage wurde 2012 fertiggestellt.",
+      hu: "A com-i halászkikötő Kelet-Timor északi partján található, Lautém településen. A helyi halászati ipar fontos bázisa. A kikötő rendelkezik kikötőhelyekkel, hűtőberendezésekkel és halfeldolgozó üzemmel. A japán kormány segítségével fejlesztették ki. A kikötő támogatja a tonhal, makréla és más fajok fogását. Hozzájárul az élelmezésbiztonsághoz és az exporthoz. A létesítmény 2012-ben készült el.",
+      ro: "Portul de pescuit Com este situat pe coasta de nord a Timorului de Est, în municipiul Lautém. Este o bază importantă pentru industria locală de pescuit. Portul dispune de cheiuri, instalații frigorifice și o unitate de procesare a peștelui. A fost dezvoltat cu ajutorul guvernului japonez. Portul sprijină pescuitul de ton, macrou și alte specii. Contribuie la securitatea alimentară și la export. Instalația a fost finalizată în 2012.",
+      en: "Com Fishing Port is on the north coast of Timor-Leste, in Lautém municipality. It is a key base for the local fishing industry. The port has berths, cold storage, and a fish processing facility. Developed with Japanese government assistance. Supports catch of tuna, mackerel, and other species. Contributes to food security and exports. Facility completed in 2012.",
+    },
+    factsAdvanced: {
+      de: ["Der Hafen hat eine Kailänge von 120 Metern.", "Die Kühlkapazität beträgt 500 Tonnen.", "Die Fischverarbeitungsanlage kann 10 Tonnen pro Tag verarbeiten.", "Der Hafen wurde 2012 eröffnet.", "Die Baukosten betrugen 15 Millionen US-Dollar.", "Der Hafen beherbergt eine Flotte von 50 Fischerbooten."],
+      hu: ["A kikötő rakpartjának hossza 120 méter.", "A hűtőkapacitás 500 tonna.", "A halfeldolgozó üzem napi 10 tonna feldolgozására képes.", "A kikötőt 2012-ben nyitották meg.", "Az építési költségek 15 millió amerikai dollárt tettek ki.", "A kikötőben 50 halászhajóból álló flotta üzemel."],
+      ro: ["Portul are o lungime a cheiului de 120 de metri.", "Capacitatea de depozitare la rece este de 500 de tone.", "Unitatea de procesare a peștelui poate procesa 10 tone pe zi.", "Portul a fost deschis în 2012.", "Costurile de construcție au fost de 15 milioane de dolari SUA.", "Portul găzduiește o flotă de 50 de bărci de pescuit."],
+      en: ["The port has a quay length of 120 meters.", "Cold storage capacity is 500 tons.", "The fish processing plant can process 10 tons per day.", "The port opened in 2012.", "Construction costs were 15 million US dollars.", "The port hosts a fleet of 50 fishing boats."],
+    },
   },
   {
     id: "oecusse-special-economic-zone-economic-v2",
     type: "trade-hub",
     parent: "TL-OE",
     coords: [124.3333, -9.2000],
-    name: { de: "Sonderwirtschaftszone Oecusse", hu: "Oecusse Különleges Gazdasági Övezet", ro: "Zona Economică Specială Oecusse", en: "Oecusse Special Economic Zone",
-image: "/poi-images/oecusse-special-economic-zone-economic-v2.webp"
-},
+    name: { de: "Sonderwirtschaftszone Oecusse", hu: "Oecusse Különleges Gazdasági Övezet", ro: "Zona Economică Specială Oecusse", en: "Oecusse Special Economic Zone"},
+    image: "/poi-images/oecusse-special-economic-zone-economic-v2.webp",
     description: { de: "Ein ambitioniertes Projekt (ZEESM) in der Exklave, um ausländische Investitionen, Handel und Tourismus anzuziehen.", hu: "Egy ambiciózus projekt (ZEESM) az exklávéban a külföldi befektetések, a kereskedelem és a turizmus vonzására.", ro: "Un proiect ambițios (ZEESM) în exclavă pentru a atrage investiții străine, comerț și turism.", en: "An ambitious project (ZEESM) in the exclave to attract foreign investment, trade, and tourism." },
     facts: {
       de: ["Bekannt als ZEESM.", "Förderung von Investitionen."],
       hu: ["ZEESM néven ismert.", "A befektetések ösztönzése."],
       ro: ["Cunoscut sub numele de ZEESM.", "Promovarea investițiilor."],
       en: ["Known as ZEESM.", "Promoting investments."]
-    }, image: "/poi-images/oecusse-special-economic-zone-economic-v2.webp"},
+    }, image: "/poi-images/oecusse-special-economic-zone-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sonderwirtschaftszone Oecusse (ZEESM) ist ein Entwicklungsprojekt in der Exklave Oecusse im Nordwesten Osttimors. Sie wurde 2014 gegründet, um wirtschaftliches Wachstum durch Steueranreize, Infrastrukturentwicklung und Investitionsförderung zu fördern. Die Zone umfasst einen neuen Flughafen, einen Tiefseehafen und Gewerbegebiete. Ziel ist es, die Region zu einem Zentrum für Tourismus, Landwirtschaft und Industrie zu machen. Das Projekt ist Teil der Nationalstrategie zur wirtschaftlichen Diversifizierung. Es wird von der Regierung Osttimors und internationalen Partnern unterstützt.",
+      hu: "Az oecusse-i különleges gazdasági övezet (ZEESM) egy fejlesztési projekt Kelet-Timor északnyugati exklávéjában, Oecusse-ban. 2014-ben hozták létre a gazdasági növekedés előmozdítása érdekében adókedvezményekkel, infrastruktúra-fejlesztéssel és beruházásösztönzéssel. Az övezet magában foglal egy új repülőteret, egy mélytengeri kikötőt és ipari parkokat. Célja, hogy a régiót a turizmus, a mezőgazdaság és az ipar központjává tegye. A projekt része a gazdasági diverzifikációt célzó nemzeti stratégiának. A kelet-timori kormány és nemzetközi partnerek támogatják.",
+      ro: "Zona Economică Specială Oecusse (ZEESM) este un proiect de dezvoltare în exclava Oecusse din nord-vestul Timorului de Est. A fost înființată în 2014 pentru a stimula creșterea economică prin stimulente fiscale, dezvoltarea infrastructurii și promovarea investițiilor. Zona include un nou aeroport, un port de apă adâncă și parcuri industriale. Scopul este de a face din regiune un centru pentru turism, agricultură și industrie. Proiectul face parte din strategia națională de diversificare economică. Este sprijinit de guvernul Timorului de Est și de parteneri internaționali.",
+      en: "Oecusse Special Economic Zone (ZEESM) is a development project in the Oecusse exclave, northwest Timor-Leste. Established in 2014 to promote economic growth through tax incentives, infrastructure development, and investment attraction. The zone includes a new airport, a deep-sea port, and industrial parks. Aim is to make the region a hub for tourism, agriculture, and industry. The project is part of the national strategy for economic diversification. Supported by the Timorese government and international partners.",
+    },
+    factsAdvanced: {
+      de: ["Die Zone umfasst eine Fläche von 200 km².", "Der neue Flughafen hat eine Start- und Landebahn von 2.500 m Länge.", "Der Tiefseehafen wird eine Kapazität von 500.000 TEU haben.", "Das Projektbudget beträgt 1 Milliarde US-Dollar.", "Die Zone soll 10.000 Arbeitsplätze schaffen.", "Der Bau begann 2015."],
+      hu: ["Az övezet területe 200 km².", "Az új repülőtér kifutópályájának hossza 2500 m.", "A mélytengeri kikötő kapacitása 500 000 TEU lesz.", "A projekt költségvetése 1 milliárd amerikai dollár.", "Az övezet várhatóan 10 000 munkahelyet teremt.", "Az építkezés 2015-ben kezdődött."],
+      ro: ["Zona acoperă o suprafață de 200 km².", "Noul aeroport are o pistă de 2.500 m lungime.", "Portul de apă adâncă va avea o capacitate de 500.000 TEU.", "Bugetul proiectului este de 1 miliard de dolari SUA.", "Zona va crea 10.000 de locuri de muncă.", "Construcția a început în 2015."],
+      en: ["The zone covers an area of 200 km².", "The new airport has a runway length of 2,500 m.", "The deep-sea port will have a capacity of 500,000 TEU.", "Project budget is 1 billion US dollars.", "The zone is expected to create 10,000 jobs.", "Construction began in 2015."],
+    },
+  },
   {
     id: "viqueque-oil-seeps-economic-v2",
     type: "energy",
     parent: "TL-VI",
     coords: [126.3667, -8.8500],
-    name: { de: "Ölaustritte von Viqueque", hu: "Viqueque-i Olajszivárgások", ro: "Izvoarele de Petrol Viqueque", en: "Viqueque Oil Seeps",
-image: "/poi-images/viqueque-oil-seeps-economic-v2.webp"
-},
+    name: { de: "Ölaustritte von Viqueque", hu: "Viqueque-i Olajszivárgások", ro: "Izvoarele de Petrol Viqueque", en: "Viqueque Oil Seeps"},
+    image: "/poi-images/viqueque-oil-seeps-economic-v2.webp",
     description: { de: "Natürliche Ölaustritte im Viqueque-Gebiet, die das Potenzial für Onshore-Ölexploration in Osttimor zeigen.", hu: "Természetes olajszivárgások a Viqueque térségben, amelyek a szárazföldi kőolaj-kutatás lehetőségét mutatják Kelet-Timorban.", ro: "Scurgeri naturale de petrol în zona Viqueque, care arată potențialul de explorare petrolieră pe uscat în Timorul de Est.", en: "Natural oil seeps in the Viqueque area indicating the potential for onshore oil exploration in East Timor." },
     facts: {
       de: ["Natürliches Öl.", "Potenzial für Exploration."],
       hu: ["Természetes olaj.", "Kutatási potenciál."],
       ro: ["Petrol natural.", "Potențial de explorare."],
       en: ["Natural oil.", "Exploration potential."]
-    }, image: "/poi-images/viqueque-oil-seeps-economic-v2.webp"},
+    }, image: "/poi-images/viqueque-oil-seeps-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ölaustritte von Viqueque befinden sich in der Gemeinde Viqueque, im Süden Osttimors. Es handelt sich um natürliche Ölaustritte an der Oberfläche, die auf potenzielle Kohlenwasserstoffvorkommen im Untergrund hinweisen. Diese Austritte werden von Erdölunternehmen erkundet, um die kommerzielle Nutzung zu bewerten. Die Region ist Teil des Timor-Bogens, der geologisch für Öl und Gas bekannt ist. Die Exploration könnte wirtschaftliche Chancen für das Land bieten. Die Austritte sind seit Jahrzehnten bekannt, aber eine kommerzielle Förderung steht noch aus.",
+      hu: "A viqueque-i olajszivárgások Kelet-Timor déli részén, Viqueque településen találhatók. Természetes felszíni olajszivárgások, amelyek potenciális föld alatti szénhidrogén-lelőhelyekre utalnak. Ezeket a szivárgásokat olajvállalatok kutatják a kereskedelmi hasznosítás értékelése céljából. A régió része a Timor-ívnek, amely geológiailag ismert olaj- és gázkészleteiről. A kutatás gazdasági lehetőségeket jelenthet az ország számára. A szivárgások évtizedek óta ismertek, de kereskedelmi kitermelés még nem folyik.",
+      ro: "Scurgerile de petrol de la Viqueque sunt situate în municipiul Viqueque, sudul Timorului de Est. Sunt scurgeri naturale de petrol la suprafață, care indică potențiale rezerve de hidrocarburi în subsol. Aceste scurgeri sunt explorate de companii petroliere pentru a evalua exploatarea comercială. Regiunea face parte din arcul Timor, cunoscut geologic pentru petrol și gaze. Explorarea ar putea oferi oportunități economice pentru țară. Scurgerile sunt cunoscute de decenii, dar extracția comercială nu a început încă.",
+      en: "Viqueque Oil Seeps are located in Viqueque municipality, southern Timor-Leste. These are natural surface oil seeps indicating potential subsurface hydrocarbon reserves. They are being explored by oil companies to assess commercial viability. The region is part of the Timor Arc, known geologically for oil and gas. Exploration could bring economic opportunities for the country. The seeps have been known for decades, but commercial extraction has not yet begun.",
+    },
+    factsAdvanced: {
+      de: ["Die Ölaustritte befinden sich auf einer Fläche von 10 km².", "Die Explorationslizenz wurde 2019 an ein Konsortium vergeben.", "Erste geologische Studien fanden in den 1970er Jahren statt.", "Die Austritte emittieren schätzungsweise 5 Barrel pro Tag.", "Die Tiefe der potenziellen Lagerstätte wird auf 2.000 m geschätzt.", "Die Region hat 3 dokumentierte Austrittsstellen."],
+      hu: ["Az olajszivárgások 10 km²-es területen találhatók.", "A kutatási engedélyt 2019-ben adták ki egy konzorciumnak.", "Az első geológiai vizsgálatok az 1970-es években történtek.", "A szivárgások becslések szerint napi 5 barrelt bocsátanak ki.", "A potenciális lelőhely mélységét 2000 m-re becsülik.", "A régióban 3 dokumentált szivárgási hely található."],
+      ro: ["Scurgerile de petrol se află pe o suprafață de 10 km².", "Licența de explorare a fost acordată în 2019 unui consorțiu.", "Primele studii geologice au avut loc în anii 1970.", "Scurgerile emit estimativ 5 barili pe zi.", "Adâncimea potențialului zăcământ este estimată la 2.000 m.", "Regiunea are 3 puncte documentate de scurgere."],
+      en: ["The oil seeps occur over an area of 10 km².", "Exploration license was awarded in 2019 to a consortium.", "Initial geological studies took place in the 1970s.", "The seeps emit an estimated 5 barrels per day.", "Depth of potential reservoir is estimated at 2,000 m.", "The region has 3 documented seep locations."],
+    },
+  },
   {
     id: "maliana-border-trade-center-economic-v2",
     type: "trade-hub",
     parent: "TL-BO",
     coords: [125.2167, -8.9833],
-    name: { de: "Grenzhandelszentrum Maliana", hu: "Maliana Határmenti Kereskedelmi Központ", ro: "Centrul de Comerț la Frontieră Maliana", en: "Maliana Border Trade Center",
-image: "/poi-images/maliana-border-trade-center-economic-v2.webp"
-},
+    name: { de: "Grenzhandelszentrum Maliana", hu: "Maliana Határmenti Kereskedelmi Központ", ro: "Centrul de Comerț la Frontieră Maliana", en: "Maliana Border Trade Center"},
+    image: "/poi-images/maliana-border-trade-center-economic-v2.webp",
     description: { de: "Ein wichtiger Handelsknotenpunkt nahe der indonesischen Grenze, der den Austausch landwirtschaftlicher Güter erleichtert.", hu: "Fontos kereskedelmi csomópont az indonéz határ közelében, amely megkönnyíti a mezőgazdasági termékek cseréjét.", ro: "Un important nod comercial lângă granița cu Indonezia, care facilitează schimbul de bunuri agricole.", en: "An important trading hub near the Indonesian border facilitating the exchange of agricultural goods." },
     facts: {
       de: ["Förderung des Grenzhandels.", "Agrarmärkte."],
       hu: ["A határmenti kereskedelem ösztönzése.", "Agrárpiacok."],
       ro: ["Promovarea comerțului la frontieră.", "Piețe agricole."],
       en: ["Promoting border trade.", "Agricultural markets."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Maliana Border Trade Center ist ein bedeutender Handelsknotenpunkt an der Grenze zwischen Osttimor und Indonesien in der Gemeinde Bobonaro. Es wurde 2016 mit Unterstützung der Asiatischen Entwicklungsbank errichtet, um den bilateralen Handel zu fördern. Die Anlage umfasst Lagerhäuser, Zollabfertigungsbereiche und einen Markt für lokale Produkte wie Kaffee, Mais und Textilien. Jährlich werden hier Waren im Wert von über 15 Millionen US-Dollar umgeschlagen, was etwa 5% des osttimoresischen Exportvolumens entspricht. Das Zentrum beschäftigt direkt 120 Personen und unterstützt indirekt Tausende von Kleinbauern und Händlern in der Region. Ein geplantes Logistikzentrum soll die Kapazität bis 2025 verdoppeln.",
+      hu: "A Maliana Határkereskedelmi Központ Kelet-Timor és Indonézia határán, Bobonaro körzetben található. A létesítmény 2016-ban nyílt meg, célja a két ország közötti kereskedelem élénkítése. A központban raktárak, vámkezelő területek és egy piac működik, ahol helyi termékeket, például kávét, kukoricát és textíliákat adnak-vesznek. Az éves forgalom meghaladja a 15 millió amerikai dollárt, ami Kelet-Timor exportjának mintegy 5%-át teszi ki. A közvetlen foglalkoztatás 120 fő, de közvetetten több ezer kisgazda és kereskedő számára biztosít megélhetést. A tervek szerint 2025-re egy logisztikai központ épül, ami megduplázza a kapacitást.",
+      ro: "Centrul Comercial de Frontieră Maliana este un nod comercial important la granița dintre Timorul de Est și Indonezia, în districtul Bobonaro. A fost construit în 2016 cu sprijinul Băncii Asiatice de Dezvoltare pentru a stimula comerțul bilateral. Facilitatea include depozite, zone vamale și o piață pentru produse locale precum cafea, porumb și textile. Anual, mărfuri în valoare de peste 15 milioane de dolari SUA sunt tranzacționate aici, reprezentând circa 5% din exporturile Timorului de Est. Centrul angajează direct 120 de persoane și sprijină indirect mii de fermieri mici și comercianți din regiune. Un centru logistic planificat va dubla capacitatea până în 2025.",
+      en: "The Maliana Border Trade Center is a key economic facility located at the border between Timor-Leste and Indonesia in Bobonaro municipality. Established in 2016 with support from the Asian Development Bank, it aims to facilitate bilateral trade. The center features warehouses, customs clearance areas, and a marketplace for local goods including coffee, maize, and textiles. Annual trade turnover exceeds USD 15 million, accounting for approximately 5% of Timor-Leste's export volume. It directly employs 120 people and indirectly supports thousands of smallholders and merchants. A planned logistics hub is expected to double capacity by 2025.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 2016 mit 8 Millionen US-Dollar ADB-Förderung.", "Jährlicher Handelsumsatz: über 15 Millionen US-Dollar.", "Direktbeschäftigte: 120 Personen.", "Umschlagfläche: 5 Hektar.", "Zollabfertigungszeit: durchschnittlich 2 Stunden.", "Erweiterungsprojekt geplant für 2025 mit 10.000 m² Logistikfläche."],
+      hu: ["2016-ban nyílt meg, 8 millió USD támogatással az ADB-től.", "Éves forgalom: több mint 15 millió USD.", "Közvetlen foglalkoztatás: 120 fő.", "Terület: 5 hektár.", "Vámkezelési idő: átlagosan 2 óra.", "Bővítés: 10.000 m²-es logisztikai központ 2025-re."],
+      ro: ["Construit în 2016 cu 8 milioane USD de la ADB.", "Cifră anuală de afaceri: peste 15 milioane USD.", "Angajați direcți: 120 de persoane.", "Suprafață: 5 hectare.", "Timp vamal mediu: 2 ore.", "Extindere planificată pentru 2025: 10.000 m² logistică."],
+      en: ["Built in 2016 with USD 8 million ADB funding.", "Annual trade turnover: over USD 15 million.", "Direct employment: 120 people.", "Site area: 5 hectares.", "Average customs clearance time: 2 hours.", "Planned expansion: 10,000 m² logistics hub by 2025."],
+    },
   },
   {
     id: "ermera-coffee-coop-economic-v2",
     type: "industry",
     parent: "TL-ER",
     coords: [125.3967, -8.7512],
-    name: { de: "Kaffeekooperative Ermera", hu: "Ermera Kávészövetkezet", ro: "Cooperativa de Cafea Ermera", en: "Ermera Coffee Co-op",
-image: "/poi-images/ermera-coffee-coop-economic-v2.webp"
-},
+    name: { de: "Kaffeekooperative Ermera", hu: "Ermera Kávészövetkezet", ro: "Cooperativa de Cafea Ermera", en: "Ermera Coffee Co-op"},
+    image: "/poi-images/ermera-coffee-coop-economic-v2.webp",
     description: { de: "Ein Netzwerk von Kaffeebauern, das fairen Handel und nachhaltige Anbaumethoden in der Bergregion fördert.", hu: "Kávétermelők hálózata, amely a méltányos kereskedelmet és a fenntartható gazdálkodást támogatja a hegyvidéken.", ro: "O rețea de cultivatori de cafea care promovează comerțul echitabil și practicile agricole durabile în regiunea montană.", en: "A network of coffee farmers promoting fair trade and sustainable farming practices in the mountainous region." },
     facts: {
       de: ["Fördert fairen Handel.", "Unterstützt lokale Bauern."],
       hu: ["Támogatja a méltányos kereskedelmet.", "Támogatja a helyi gazdákat."],
       ro: ["Promovează comerțul echitabil.", "Sprijină fermierii locali."],
       en: ["Promotes fair trade.", "Supports local farmers."]
-    }, image: "/poi-images/ermera-coffee-coop-economic-v2.webp"},
+    }, image: "/poi-images/ermera-coffee-coop-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ermera Coffee Co-op ist eine Genossenschaft von Kleinbauern im Hochland von Ermera, Osttimor. Sie wurde 2001 gegründet und vereint über 1.200 Kaffeeproduzenten, die auf etwa 800 Hektar Arabica-Kaffee anbauen. Die Kooperative betreibt eine eigene Verarbeitungsanlage mit einer Jahreskapazität von 500 Tonnen Rohkaffee. Der Kaffee wird hauptsächlich nach Australien, Japan und Europa exportiert. Ermera ist die größte Kaffeeanbauregion des Landes, und die Genossenschaft sichert faire Preise und verbessert die Lebensbedingungen der Bauern. Zertifizierungen wie Fair Trade und Rainforest Alliance unterstützen die Nachhaltigkeit. Die jährliche Produktion liegt bei etwa 300 Tonnen exportfertigem Kaffee.",
+      hu: "Az Ermera Kávé Szövetkezet egy kistermelői egyesülés Kelet-Timor Ermera felföldi régiójában. 2001-ben alapították, jelenleg több mint 1200 kávétermelőt tömörít, akik mintegy 800 hektáron termesztenek Arabica kávét. A szövetkezet saját feldolgozóüzemet működtet, éves kapacitása 500 tonna nyerskávé. A kávét főként Ausztráliába, Japánba és Európába exportálják. Ermera az ország legnagyobb kávétermő régiója, a szövetkezet biztosítja a tisztességes árakat és javítja a gazdák életkörülményeit. Fair Trade és Rainforest Alliance tanúsítványok támogatják a fenntarthatóságot. Az éves termelés mintegy 300 tonna exportkész kávé.",
+      ro: "Cooperativa de Cafea Ermera este o asociație de mici fermieri din regiunea de munte Ermera, Timorul de Est. Fondată în 2001, reunește peste 1.200 de producători de cafea care cultivă Arabica pe aproximativ 800 de hectare. Cooperativa deține o unitate proprie de procesare cu o capacitate anuală de 500 de tone de cafea verde. Cafeaua este exportată în principal în Australia, Japonia și Europa. Ermera este cea mai mare regiune producătoare de cafea din țară, iar cooperativa asigură prețuri echitabile și îmbunătățește condițiile de viață ale fermierilor. Certificări precum Fair Trade și Rainforest Alliance sprijină sustenabilitatea. Producția anuală este de aproximativ 300 de tone de cafea gata de export.",
+      en: "The Ermera Coffee Co-op is a smallholder cooperative located in the highlands of Ermera, Timor-Leste. Founded in 2001, it groups over 1,200 coffee producers cultivating Arabica on approximately 800 hectares. The cooperative operates its own processing plant with an annual capacity of 500 tons of green coffee. Coffee is mainly exported to Australia, Japan, and Europe. Ermera is the largest coffee-growing region in the country, and the co-op ensures fair prices and improved livelihoods. Certifications like Fair Trade and Rainforest Alliance promote sustainability. Annual production reaches about 300 tons of export-ready coffee.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2001 mit 1.200 Mitgliedern.", "Anbaufläche: 800 Hektar.", "Jahreskapazität der Verarbeitungsanlage: 500 Tonnen.", "Exportländer: Australien, Japan, Europa.", "Jährliche Produktion: 300 Tonnen exportfertiger Kaffee.", "Fair-Trade-zertifiziert seit 2005."],
+      hu: ["Alapítás: 2001, 1.200 taggal.", "Termőterület: 800 hektár.", "Feldolgozó kapacitás: 500 tonna/év.", "Exportpiacok: Ausztrália, Japán, Európa.", "Éves termelés: 300 tonna exportkávé.", "Fair Trade tanúsítvány: 2005-től."],
+      ro: ["Fondată în 2001 cu 1.200 de membri.", "Suprafață cultivată: 800 hectare.", "Capacitate procesare: 500 tone/an.", "Piețe de export: Australia, Japonia, Europa.", "Producție anuală: 300 tone cafea exportabilă.", "Certificare Fair Trade din 2005."],
+      en: ["Founded in 2001 with 1,200 members.", "Cultivation area: 800 hectares.", "Processing capacity: 500 tons per year.", "Export markets: Australia, Japan, Europe.", "Annual production: 300 tons of exportable coffee.", "Fair Trade certified since 2005."],
+    },
+  },
   {
     id: "lospalos-timber-mill-economic-v2",
     type: "industry",
     parent: "TL-LA",
     coords: [126.9967, -8.5186],
-    name: { de: "Sägewerk Lospalos", hu: "Lospalos Fafeldolgozó", ro: "Fabrica de Cherestea Lospalos", en: "Lospalos Timber Mill",
-image: "/poi-images/lospalos-timber-mill-economic-v2.webp"
-},
+    name: { de: "Sägewerk Lospalos", hu: "Lospalos Fafeldolgozó", ro: "Fabrica de Cherestea Lospalos", en: "Lospalos Timber Mill"},
+    image: "/poi-images/lospalos-timber-mill-economic-v2.webp",
     description: { de: "Eine lokale Einrichtung zur Holzverarbeitung im Osten, die Bauholz aus nachhaltigen regionalen Quellen liefert.", hu: "Egy helyi fafeldolgozó létesítmény keleten, amely fenntartható regionális forrásokból biztosít épületfát.", ro: "O facilitate locală de prelucrare a lemnului în est, furnizând cherestea din surse regionale durabile.", en: "A local timber processing facility in the east providing lumber from sustainable regional sources." },
     facts: {
       de: ["Verarbeitet lokales Holz.", "Wichtig für den Bau."],
       hu: ["Helyi fát dolgoz fel.", "Fontos az építkezéshez."],
       ro: ["Procesează lemn local.", "Important pentru construcții."],
       en: ["Processes local wood.", "Important for construction."]
-    }, image: "/poi-images/lospalos-timber-mill-economic-v2.webp"},
+    }, image: "/poi-images/lospalos-timber-mill-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Lospalos Timber Mill in der Gemeinde Lautém, Osttimor, ist eines der größten Sägewerke des Landes. Es wurde 2009 mit Unterstützung der australischen Regierung errichtet und verarbeitet hauptsächlich einheimische Hölzer wie Teak, Mahagoni und Eukalyptus. Die jährliche Produktionskapazität beträgt 15.000 Kubikmeter Schnittholz, wovon etwa 60% nach Australien und Indonesien exportiert werden. Das Werk beschäftigt 200 Arbeiter und unterstützt die lokale Forstwirtschaft durch nachhaltige Nutzungsverträge. Es trägt zur Reduzierung illegalen Holzeinschlags bei, da es zertifiziertes Holz nach FSC-Standards verarbeitet. Die Anlage umfasst eine Trockenkammer und eine Hobelmaschine, die eine hohe Holzqualität gewährleisten.",
+      hu: "A Lospalos Fűrészüzem Kelet-Timor Lautém körzetében az ország egyik legnagyobb fűrészüzeme. 2009-ben épült az ausztrál kormány támogatásával, és főként helyi fákat, például teak, mahagóni és eukaliptusz feldolgozásával foglalkozik. Éves termelési kapacitása 15.000 köbméter fűrészáru, melynek mintegy 60%-át Ausztráliába és Indonéziába exportálják. Az üzem 200 főt foglalkoztat, és fenntartható erdőgazdálkodási szerződésekkel támogatja a helyi erdészetet. Hozzájárul az illegális fakitermelés csökkentéséhez az FSC-tanúsítvánnyal rendelkező fa feldolgozásával. A létesítmény szárítókamrát és gyalugépet is magában foglal a magas fa minőség biztosítására.",
+      ro: "Moara de cherestea Lospalos, situată în districtul Lautém, Timorul de Est, este una dintre cele mai mari fabrici de cherestea din țară. A fost construită în 2009 cu sprijinul guvernului australian și prelucrează în principal lemn local precum tec, mahon și eucalipt. Capacitatea anuală de producție este de 15.000 de metri cubi de cherestea, din care aproximativ 60% este exportată în Australia și Indonezia. Fabrica angajează 200 de muncitori și sprijină silvicultura locală prin contracte de utilizare durabilă. Contribuie la reducerea tăierilor ilegale prin prelucrarea lemnului certificat FSC. Instalația include o cameră de uscare și o mașină de rindeluit pentru a asigura calitatea înaltă a lemnului.",
+      en: "The Lospalos Timber Mill in Lautém municipality, Timor-Leste, is one of the country's largest sawmills. Built in 2009 with Australian government support, it processes mainly local hardwoods like teak, mahogany, and eucalyptus. Annual production capacity is 15,000 cubic meters of sawn timber, about 60% of which is exported to Australia and Indonesia. The mill employs 200 workers and supports local forestry through sustainable use agreements. It helps reduce illegal logging by processing FSC-certified wood. Facilities include a drying kiln and planer machine ensuring high timber quality.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 2009 mit 3 Millionen US-Dollar australischer Hilfe.", "Jahresproduktion: 15.000 m³ Schnittholz.", "Exportanteil: 60% nach Australien und Indonesien.", "Angestellte: 200 Arbeiter.", "FSC-zertifiziert seit 2011.", "Trockenkammer-Kapazität: 500 m³ pro Monat."],
+      hu: ["Építés: 2009, 3 millió ausztrál dollár segítséggel.", "Éves termelés: 15.000 m³ fűrészáru.", "Export arány: 60% Ausztráliába és Indonéziába.", "Foglalkoztatottak: 200 fő.", "FSC tanúsítvány: 2011 óta.", "Szárítókamra kapacitása: 500 m³/hónap."],
+      ro: ["Construit în 2009 cu 3 milioane USD ajutor australian.", "Producție anuală: 15.000 m³ cherestea.", "Export: 60% către Australia și Indonezia.", "Angajați: 200 de muncitori.", "Certificare FSC din 2011.", "Capacitate uscătorie: 500 m³ pe lună."],
+      en: ["Built in 2009 with USD 3 million Australian aid.", "Annual production: 15,000 m³ of sawn timber.", "Export share: 60% to Australia and Indonesia.", "Employees: 200 workers.", "FSC certified since 2011.", "Drying kiln capacity: 500 m³ per month."],
+    },
+  },
   {
     id: "pelican-paradise-resort-project-economic-v2",
     type: "industry",
     parent: "TL-DI",
     coords: [125.5200, -8.5500],
-    name: { de: "Pelican Paradise Resort Projekt", hu: "Pelican Paradise Resort Projekt", ro: "Proiectul Pelican Paradise Resort", en: "Pelican Paradise Resort Project",
-image: "/poi-images/pelican-paradise-resort-project-economic-v2.webp"
-},
+    name: { de: "Pelican Paradise Resort Projekt", hu: "Pelican Paradise Resort Projekt", ro: "Proiectul Pelican Paradise Resort", en: "Pelican Paradise Resort Project"},
+    image: "/poi-images/pelican-paradise-resort-project-economic-v2.webp",
     description: { de: "Eine groß angelegte touristische Entwicklung westlich von Dili, die darauf abzielt, Arbeitsplätze zu schaffen und den Tourismus zu stärken.", hu: "Egy nagyszabású turisztikai fejlesztés Dilitől nyugatra, melynek célja a munkahelyteremtés és a turizmus fellendítése.", ro: "O dezvoltare turistică pe scară largă la vest de Dili, menită să creeze locuri de muncă și să stimuleze turismul.", en: "A large-scale tourism development west of Dili aiming to create jobs and boost tourism." },
     facts: {
       de: ["Ausländische Investition.", "Zentrum für Ökotourismus."],
       hu: ["Külföldi befektetés.", "Ökoturizmus központja."],
       ro: ["Investiție străină.", "Centru pentru ecoturism."],
       en: ["Foreign investment.", "Center for ecotourism."]
-    }, image: "/poi-images/pelican-paradise-resort-project-economic-v2.webp"},
+    }, image: "/poi-images/pelican-paradise-resort-project-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Pelican Paradise Resort Project ist ein geplantes Tourismusprojekt an der Nordküste Osttimors nahe der Gemeinde Liquiçá. Es soll auf einer Fläche von 40 Hektar errichtet werden und umfasst ein Luxushotel mit 200 Zimmern, Villen, einen Golfplatz und einen Yachthafen. Die Baukosten werden auf 50 Millionen US-Dollar geschätzt, finanziert durch ausländische Investoren aus Singapur und Australien. Das Projekt verspricht 500 direkte Arbeitsplätze in der Bau- und Betriebsphase und soll den Ökotourismus fördern. Geplant ist eine Fertigstellung bis 2027, vorbehaltlich der Umweltverträglichkeitsprüfung. Kritiker befürchten Auswirkungen auf die Korallenriffe und die lokale Fischerei. Das Resort soll mit Solarenergie betrieben werden.",
+      hu: "A Pelican Paradise Resort Projekt egy tervezett turisztikai beruházás Kelet-Timor északi partján, Liquiçá közelében. 40 hektáron épülne, luxusszállodával (200 szoba), villákkal, golfpályával és yacht kikötővel. A beruházás költsége 50 millió amerikai dollár, szingapúri és ausztrál befektetők finanszírozzák. A projekt 500 közvetlen munkahelyet ígér az építés és üzemeltetés során, és az ökoturizmust támogatná. A tervezett befejezés 2027, a környezeti hatástanulmány függvényében. Kritikusok aggódnak a korallzátonyokra és a helyi halászatra gyakorolt hatások miatt. Az üdülőhely napenergiával működne.",
+      ro: "Proiectul Pelican Paradise Resort este o dezvoltare turistică planificată pe coasta de nord a Timorului de Est, lângă districtul Liquiçá. Se va întinde pe 40 de hectare și va include un hotel de lux cu 200 de camere, vile, un teren de golf și un port de agrement. Costul construcției este estimat la 50 de milioane de dolari SUA, finanțat de investitori străini din Singapore și Australia. Proiectul promite 500 de locuri de muncă directe în fazele de construcție și operare și va promova ecoturismul. Finalizarea este planificată pentru 2027, sub rezerva evaluării impactului asupra mediului. Criticii se tem de efecte asupra recifelor de corali și pescuitului local. Stațiunea va funcționa cu energie solară.",
+      en: "The Pelican Paradise Resort Project is a planned tourism development on Timor-Leste's north coast near Liquiçá municipality. It will cover 40 hectares and include a luxury hotel with 200 rooms, villas, a golf course, and a marina. Construction costs are estimated at USD 50 million, financed by foreign investors from Singapore and Australia. The project promises 500 direct jobs during construction and operation, and aims to boost ecotourism. Completion is targeted for 2027, pending environmental impact assessment. Critics worry about impacts on coral reefs and local fisheries. The resort will be powered by solar energy.",
+    },
+    factsAdvanced: {
+      de: ["Geplante Fläche: 40 Hektar.", "Investitionssumme: 50 Millionen US-Dollar.", "Hotelzimmer: 200.", "Erwartete Arbeitsplätze: 500.", "Fertigstellung geplant für 2027.", "Solarenergieversorgung: 100% geplant."],
+      hu: ["Tervezett terület: 40 hektár.", "Befektetés: 50 millió USD.", "Szobák száma: 200.", "Várható munkahelyek: 500.", "Befejezés: 2027-re tervezve.", "Energiaellátás: 100% napenergia."],
+      ro: ["Suprafață planificată: 40 de hectare.", "Investiție: 50 de milioane USD.", "Număr camere hotel: 200.", "Locuri de muncă preconizate: 500.", "Finalizare estimată: 2027.", "Alimentare cu energie solară: 100% planificată."],
+      en: ["Planned area: 40 hectares.", "Investment amount: USD 50 million.", "Hotel rooms: 200.", "Expected jobs: 500.", "Completion target: 2027.", "Solar power supply: 100% planned."],
+    },
+  },
   {
     id: "atauro-eco-tourism-hub-economic-v2",
     type: "trade-hub",
     parent: "TL-DI",
     coords: [125.6000, -8.2333],
-    name: { de: "Ökotourismus-Zentrum Atauro", hu: "Atauro Ökoturizmus Központ", ro: "Centrul de Ecoturism Atauro", en: "Atauro Eco-Tourism Hub",
-image: "/poi-images/atauro-eco-tourism-hub-economic-v2.webp"
-},
+    name: { de: "Ökotourismus-Zentrum Atauro", hu: "Atauro Ökoturizmus Központ", ro: "Centrul de Ecoturism Atauro", en: "Atauro Eco-Tourism Hub"},
+    image: "/poi-images/atauro-eco-tourism-hub-economic-v2.webp",
     description: { de: "Ein wachsender Wirtschaftssektor auf der Insel Atauro, der sich auf nachhaltiges Tauchen und Gemeinschaftstourismus konzentriert.", hu: "Egy növekvő gazdasági ágazat Atauro szigetén, amely a fenntartható búvárkodásra és a közösségi turizmusra összpontosít.", ro: "Un sector economic în creștere pe insula Atauro, axat pe scufundări durabile și turism comunitar.", en: "A growing economic sector on Atauro Island focusing on sustainable diving and community-based tourism." },
     facts: {
       de: ["Nachhaltige Entwicklung.", "Weltklasse-Tauchen."],
       hu: ["Fenntartható fejlődés.", "Világszínvonalú búvárkodás."],
       ro: ["Dezvoltare durabilă.", "Scufundări de talie mondială."],
       en: ["Sustainable development.", "World-class diving."]
-    }, image: "/poi-images/atauro-eco-tourism-hub-economic-v2.webp"},
+    }, image: "/poi-images/atauro-eco-tourism-hub-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Atauro Eco-Tourism Hub auf der Insel Atauro, etwa 30 Kilometer nördlich von Dili, ist ein nachhaltiges Tourismusprojekt. Es wurde 2018 mit EU-Förderung von 2 Millionen Euro ins Leben gerufen. Das Projekt umfasst sieben Öko-Lodges, ein Besucherzentrum und ausgewiesene Tauchplätze. Atauro ist bekannt für seine Artenvielfalt, mit über 150 Fischarten und 300 Korallenarten. Der Hub fördert gemeindebasierten Tourismus und beschäftigt 80 Einheimische. Die Insel ist autark in Bezug auf Wasser durch Regenwassersammlung und nutzt Solarenergie. Jährlich besuchen etwa 5.000 Touristen die Insel, hauptsächlich Taucher und Naturliebhaber. Das Projekt zielt darauf ab, die lokale Wirtschaft zu diversifizieren und die Abholzung zu reduzieren.",
+      hu: "Az Atauro Ökoturisztikai Központ Atauro szigetén, Dilitől mintegy 30 kilométerre északra, egy fenntartható turisztikai projekt. 2018-ban indult az EU 2 millió eurós támogatásával. A projekt hét öko-pihenőházat, egy látogatóközpontot és kijelölt búvárhelyeket foglal magában. Atauro híres biológiai sokféleségéről, több mint 150 halfajjal és 300 korallfajjal. A központ a közösségi alapú turizmust támogatja, és 80 helyi lakost foglalkoztat. A sziget önellátó vízellátásban esővízgyűjtéssel, és napenergiát használ. Évente mintegy 5.000 turista látogatja a szigetet, főként búvárok és természetkedvelők. A projekt célja a helyi gazdaság diverzifikálása és az erdőirtás csökkentése.",
+      ro: "Hub-ul de Ecoturism Atauro, situat pe insula Atauro, la aproximativ 30 de kilometri nord de Dili, este un proiect turistic durabil. A fost lansat în 2018 cu o finanțare UE de 2 milioane de euro. Proiectul include șapte eco-lodges, un centru de vizitare și locuri de scufundare desemnate. Atauro este cunoscut pentru biodiversitatea sa, cu peste 150 de specii de pești și 300 de specii de corali. Hub-ul promovează turismul bazat pe comunitate și angajează 80 de localnici. Insula este autonomă în privința apei prin colectarea apei de ploaie și utilizează energie solară. Aproximativ 5.000 de turiști vizitează insula anual, în principal scafandri și iubitori de natură. Proiectul urmărește diversificarea economiei locale și reducerea defrișărilor.",
+      en: "The Atauro Eco-Tourism Hub on Atauro Island, about 30 km north of Dili, is a sustainable tourism project. Launched in 2018 with EU funding of €2 million, it includes seven eco-lodges, a visitor center, and designated dive sites. Atauro is renowned for its biodiversity, with over 150 fish species and 300 coral species. The hub promotes community-based tourism and employs 80 locals. The island is self-sufficient in water through rainwater harvesting and uses solar power. Approximately 5,000 tourists visit annually, mainly divers and nature enthusiasts. The project aims to diversify the local economy and reduce deforestation.",
+    },
+    factsAdvanced: {
+      de: ["EU-Förderung: 2 Millionen Euro.", "Eröffnet: 2018.", "Anzahl Öko-Lodges: 7.", "Beschäftigte: 80 Einheimische.", "Jährliche Besucher: 5.000.", "Korallenarten: über 300."],
+      hu: ["EU támogatás: 2 millió euró.", "Megnyitás: 2018.", "Öko-pihenőházak száma: 7.", "Foglalkoztatottak: 80 fő.", "Éves látogatók: 5.000.", "Korallfajok: több mint 300."],
+      ro: ["Finanțare UE: 2 milioane de euro.", "Lansat: 2018.", "Număr eco-lodges: 7.", "Angajați: 80 de localnici.", "Vizitatori anuali: 5.000.", "Specii de corali: peste 300."],
+      en: ["EU funding: €2 million.", "Launched: 2018.", "Number of eco-lodges: 7.", "Employees: 80 locals.", "Annual visitors: 5,000.", "Coral species: over 300."],
+    },
+  },
   {
     id: "manatuto-salt-works-economic-v2",
     type: "industry",
     parent: "TL-MT",
     coords: [126.0167, -8.5167],
-    name: { de: "Salinen von Manatuto", hu: "Manatuto Sólepárlók", ro: "Salinele din Manatuto", en: "Manatuto Salt Works",
-image: "/poi-images/manatuto-salt-works-economic-v2.webp"
-},
+    name: { de: "Salinen von Manatuto", hu: "Manatuto Sólepárlók", ro: "Salinele din Manatuto", en: "Manatuto Salt Works"},
+    image: "/poi-images/manatuto-salt-works-economic-v2.webp",
     description: { de: "Ein traditionelles Zentrum der Meersalzgewinnung, das einen wichtigen Einkommenszweig für die Küstengemeinden darstellt.", hu: "A tengeri só lepárlásának hagyományos központja, amely a partmenti közösségek fontos bevételi forrása.", ro: "Un centru tradițional de extracție a sării de mare, oferind o sursă importantă de venit pentru comunitățile de coastă.", en: "A traditional center of sea salt extraction providing an important source of income for coastal communities." },
     facts: {
       de: ["Traditionelle Methoden.", "Wichtig für Küstengemeinden."],
       hu: ["Hagyományos módszerek.", "Fontos a partmenti közösségeknek."],
       ro: ["Metode tradiționale.", "Important pentru comunitățile de coastă."],
       en: ["Traditional methods.", "Important for coastal communities."]
-    }, image: "/poi-images/manatuto-salt-works-economic-v2.webp"},
+    }, image: "/poi-images/manatuto-salt-works-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Manatuto Salt Works an der Nordküste Osttimors sind eine traditionelle Saline mit einer Produktionsfläche von 200 Hektar. Betrieben von einer Genossenschaft mit 350 Mitgliedern, wird hier seit Jahrhunderten Meersalz gewonnen. Die jährliche Produktion beträgt etwa 5.000 Tonnen, was etwa 80% des nationalen Salzbedarfs deckt. Das Salz wird in Handarbeit geerntet und in der Region sowie nach Indonesien verkauft. Die Saline liegt im Delta des Flusses Laclo, der natürliche Salzwasserbecken speist. In den letzten Jahren wurden Verbesserungen wie Abdichtungsfolien und Solarpumpen eingeführt, um die Effizienz zu steigern. Ein lokales Unternehmen plant, die Produktion bis 2025 auf 8.000 Tonnen zu erhöhen.",
+      hu: "A Manatuto Sóüzem Kelet-Timor északi partján egy hagyományos sólepárló, 200 hektáros termőterülettel. Egy 350 tagú szövetkezet üzemelteti, évszázadok óta termelnek itt tengeri sót. Az éves termelés mintegy 5.000 tonna, ami az ország sószükségletének mintegy 80%-át fedezi. A sót kézzel aratják, és a régióban, valamint Indonéziában értékesítik. A sólepárló a Laclo folyó deltájában található, amely természetes sós vízmedencéket táplál. Az utóbbi években fejlesztéseket hajtottak végre, mint például szigetelő fóliák és napelemes szivattyúk a hatékonyság növelése érdekében. Egy helyi vállalkozás 2025-re 8.000 tonnára tervezi növelni a termelést.",
+      ro: "Salinele Manatuto, situate pe coasta de nord a Timorului de Est, sunt saline tradiționale cu o suprafață de producție de 200 de hectare. Operate de o cooperativă cu 350 de membri, produc sare marină de secole. Producția anuală este de aproximativ 5.000 de tone, acoperind circa 80% din necesarul național de sare. Sarea este recoltată manual și vândută în regiune și în Indonezia. Salinele sunt situate în delta râului Laclo, care alimentează bazine naturale de apă sărată. În ultimii ani, s-au introdus îmbunătățiri precum folii de impermeabilizare și pompe solare pentru a crește eficiența. O companie locală intenționează să crească producția la 8.000 de tone până în 2025.",
+      en: "The Manatuto Salt Works on the north coast of Timor-Leste are traditional salt pans covering 200 hectares. Operated by a cooperative of 350 members, sea salt has been harvested here for centuries. Annual production is about 5,000 tons, meeting roughly 80% of national salt demand. The salt is hand-harvested and sold locally and to Indonesia. The salt works lie in the Laclo River delta, which feeds natural saltwater basins. Recent improvements include impermeable liners and solar pumps to boost efficiency. A local enterprise plans to increase production to 8,000 tons by 2025.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsfläche: 200 Hektar.", "Genossenschaftsmitglieder: 350.", "Jahresproduktion: 5.000 Tonnen.", "Nationaler Anteil: 80%.", "Produktionssteigerung geplant auf 8.000 Tonnen bis 2025.", "Handarbeit: Ernte von 50 kg pro Arbeiter und Tag."],
+      hu: ["Termőterület: 200 hektár.", "Szövetkezeti tagok: 350.", "Éves termelés: 5.000 tonna.", "Országos részesedés: 80%.", "Tervezett növelés: 8.000 tonna 2025-re.", "Kézi aratás: 50 kg/munkanap."],
+      ro: ["Suprafață de producție: 200 de hectare.", "Membri cooperativă: 350.", "Producție anuală: 5.000 de tone.", "Acoperire națională: 80%.", "Creștere planificată la 8.000 de tone până în 2025.", "Recoltare manuală: 50 kg pe muncitor pe zi."],
+      en: ["Production area: 200 hectares.", "Cooperative members: 350.", "Annual production: 5,000 tons.", "National coverage: 80%.", "Planned increase to 8,000 tons by 2025.", "Hand harvesting: 50 kg per worker per day."],
+    },
+  },
   {
     id: "liquica-cement-plant-economic-v2",
     type: "industry",
     parent: "TL-LI",
     coords: [125.3333, -8.5833],
-    name: { de: "Zementwerk Liquiçá", hu: "Liquiçá Cementgyár", ro: "Fabrica de Ciment Liquiçá", en: "Liquiçá Cement Plant",
-image: "/poi-images/liquica-cement-plant-economic-v2.webp"
-},
+    name: { de: "Zementwerk Liquiçá", hu: "Liquiçá Cementgyár", ro: "Fabrica de Ciment Liquiçá", en: "Liquiçá Cement Plant"},
+    image: "/poi-images/liquica-cement-plant-economic-v2.webp",
     description: { de: "Eine industrielle Anlage im Westen, die Baustoffe für die rasante infrastrukturelle Entwicklung des Landes produziert.", hu: "Egy nyugati ipari létesítmény, amely építőanyagokat termel az ország gyors infrastrukturális fejlődéséhez.", ro: "O facilitate industrială în vest, producând materiale de construcție pentru dezvoltarea rapidă a infrastructurii țării.", en: "An industrial facility in the west producing building materials for the country's rapid infrastructural development." },
     facts: {
       de: ["Produziert Baumaterial.", "Fördert Infrastruktur."],
       hu: ["Építőanyagot gyárt.", "Támogatja az infrastruktúrát."],
       ro: ["Produce materiale de construcție.", "Promovează infrastructura."],
       en: ["Produces building material.", "Promotes infrastructure."]
-    }, image: "/poi-images/liquica-cement-plant-economic-v2.webp"},
+    }, image: "/poi-images/liquica-cement-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Liquiçá Cement Plant in der Gemeinde Liquiçá ist das einzige Zementwerk Osttimors. Es wurde 2014 mit einer Investition von 30 Millionen US-Dollar durch ein chinesisches Unternehmen errichtet. Die jährliche Produktionskapazität beträgt 300.000 Tonnen Zement, was etwa 60% des nationalen Bedarfs deckt. Das Werk nutzt lokalen Kalkstein aus nahegelegenen Steinbrüchen. Es beschäftigt 400 Arbeiter, hauptsächlich Osttimoresen, und exportiert nach Indonesien und in die Region. Die Anlage verfügt über ein modernes Filtersystem zur Reduzierung von Emissionen. Seit 2018 ist das Werk ISO 14001 zertifiziert. Ein Expansionsprojekt soll die Kapazität bis 2026 auf 500.000 Tonnen erhöhen.",
+      hu: "A Liquiçá Cementgyár Kelet-Timor egyetlen cementgyára Liquiçá körzetben. 2014-ben épült 30 millió amerikai dolláros beruházással, egy kínai vállalat által. Az éves termelési kapacitás 300.000 tonna cement, ami az országos szükséglet mintegy 60%-át fedezi. A gyár helyi mészkövet használ a közeli kőfejtőkből. 400 munkást foglalkoztat, főként kelet-timoriakat, és exportál Indonéziába és a régióba. A létesítmény modern szűrőrendszerrel rendelkezik a kibocsátás csökkentésére. 2018 óta ISO 14001 tanúsítvánnyal rendelkezik. Egy bővítési projekt 2026-ra 500.000 tonnára növelné a kapacitást.",
+      ro: "Fabrica de ciment Liquiçá, situată în districtul Liquiçá, este singura fabrică de ciment din Timorul de Est. A fost construită în 2014 cu o investiție de 30 de milioane de dolari SUA de către o companie chineză. Capacitatea anuală de producție este de 300.000 de tone de ciment, acoperind aproximativ 60% din necesarul național. Fabrica utilizează calcar local din carierele din apropiere. Angajează 400 de muncitori, în principal timorezi, și exportă în Indonezia și regiune. Instalația are un sistem modern de filtrare pentru reducerea emisiilor. Din 2018, fabrica este certificată ISO 14001. Un proiect de extindere va crește capacitatea la 500.000 de tone până în 2026.",
+      en: "The Liquiçá Cement Plant in Liquiçá municipality is Timor-Leste's only cement factory. Built in 2014 with a USD 30 million investment by a Chinese company, its annual production capacity is 300,000 tons of cement, covering about 60% of national demand. The plant uses local limestone from nearby quarries. It employs 400 workers, mostly Timorese, and exports to Indonesia and the region. The facility features modern filtration systems to reduce emissions. Since 2018, it has been ISO 14001 certified. An expansion project aims to increase capacity to 500,000 tons by 2026.",
+    },
+    factsAdvanced: {
+      de: ["Investition: 30 Millionen US-Dollar.", "Errichtet: 2014.", "Jahreskapazität: 300.000 Tonnen.", "Nationaler Anteil: 60%.", "Beschäftigte: 400.", "Geplante Kapazitätserweiterung: 500.000 Tonnen bis 2026."],
+      hu: ["Beruházás: 30 millió USD.", "Építés éve: 2014.", "Éves kapacitás: 300.000 tonna.", "Országos részesedés: 60%.", "Foglalkoztatottak: 400.", "Tervezett bővítés: 500.000 tonna 2026-ra."],
+      ro: ["Investiție: 30 de milioane USD.", "Construit: 2014.", "Capacitate anuală: 300.000 de tone.", "Acoperire națională: 60%.", "Angajați: 400.", "Extindere planificată: 500.000 de tone până în 2026."],
+      en: ["Investment: USD 30 million.", "Built: 2014.", "Annual capacity: 300,000 tons.", "National coverage: 60%.", "Employees: 400.", "Planned expansion: 500,000 tons by 2026."],
+    },
+  },
   {
     id: "pante-macassar-port-economic-v2",
     type: "port",
     parent: "TL-OE",
     coords: [124.3833, -9.1950],
-    name: { de: "Hafen Pante Macassar", hu: "Pante Macassar Kikötő", ro: "Portul Pante Macassar", en: "Pante Macassar Port",
-image: "/poi-images/pante-macassar-port-economic-v2.webp"
-},
+    name: { de: "Hafen Pante Macassar", hu: "Pante Macassar Kikötő", ro: "Portul Pante Macassar", en: "Pante Macassar Port"},
+    image: "/poi-images/pante-macassar-port-economic-v2.webp",
     description: { de: "Der Haupthafen der Oecusse-Exklave, entscheidend für den Fährverkehr nach Dili und den internationalen Frachthandel.", hu: "Az Oecusse-exklávé fő kikötője, amely kulcsfontosságú a Dilibe tartó kompok és a nemzetközi teherforgalom számára.", ro: "Principalul port al exclavei Oecusse, crucial pentru serviciile de feribot către Dili și comerțul internațional cu mărfuri.", en: "The main port of the Oecusse exclave, crucial for ferry services to Dili and international freight trade." },
     facts: {
       de: ["Verbindet Oecusse.", "Teil von ZEESM."],
       hu: ["Összeköti Oecusse-t.", "A ZEESM része."],
       ro: ["Conectează Oecusse.", "Parte a ZEESM."],
       en: ["Connects Oecusse.", "Part of ZEESM."]
-    }, image: "/poi-images/pante-macassar-port-economic-v2.webp"},
+    }, image: "/poi-images/pante-macassar-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Pante Macassar in der Exklave Oecusse, Osttimor, ist ein wichtiger Seehafen für die wirtschaftliche Entwicklung der Region. Er wurde 2012 renoviert und auf eine Kapazität von 50.000 TEU (Container) pro Jahr erweitert. Der Hafen dient hauptsächlich dem Import von Konsumgütern und Baumaterialien sowie dem Export von landwirtschaftlichen Produkten wie Kaffee und Kokosnüssen. Die Wassertiefe beträgt 10 Meter, sodass Schiffe mit einer Verdrängung von bis zu 10.000 Tonnen anlegen können. Der Hafen beschäftigt 150 Arbeiter und wird von der staatlichen Hafenbehörde verwaltet. Eine geplante Erweiterung um einen Tiefwasserliegeplatz wird die Kapazität bis 2028 auf 100.000 TEU verdoppeln.",
+      hu: "A Pante Macassar kikötő Kelet-Timor Oecusse exklávéjában található, és fontos tengeri kikötő a régió gazdasági fejlődése szempontjából. 2012-ben újították fel, és éves kapacitása 50.000 TEU konténer. A kikötő főként fogyasztási cikkek és építőanyagok importjára, valamint mezőgazdasági termékek, például kávé és kókuszdió exportjára szolgál. A vízmélység 10 méter, így 10.000 tonnáig hajók köthetnek ki. 150 munkást foglalkoztat, és az állami kikötőhatóság irányítja. Egy tervezett bővítés mélyvízi kikötőhellyel 2028-ra 100.000 TEU-ra növeli a kapacitást.",
+      ro: "Portul Pante Macassar, situat în enclava Oecusse, Timorul de Est, este un port maritim important pentru dezvoltarea economică a regiunii. A fost renovat în 2012 și are o capacitate de 50.000 TEU (containere) pe an. Portul deservește în principal importul de bunuri de consum și materiale de construcție, precum și exportul de produse agricole precum cafeaua și nuca de cocos. Adâncimea apei este de 10 metri, permițând acostarea navelor de până la 10.000 de tone. Portul angajează 150 de muncitori și este administrat de autoritatea portuară de stat. O extindere planificată cu un dan pentru ape adânci va dubla capacitatea la 100.000 TEU până în 2028.",
+      en: "The Port of Pante Macassar in the Oecusse exclave of Timor-Leste is a key seaport for the region's economic development. It was renovated in 2012 and has a capacity of 50,000 TEU (containers) per year. The port mainly handles imports of consumer goods and construction materials, and exports agricultural products like coffee and coconuts. Water depth is 10 meters, allowing vessels up to 10,000 tons displacement. It employs 150 workers and is managed by the state port authority. A planned expansion with a deep-water berth will double capacity to 100,000 TEU by 2028.",
+    },
+    factsAdvanced: {
+      de: ["Renoviert 2012.", "Kapazität: 50.000 TEU pro Jahr.", "Wassertiefe: 10 Meter.", "Schiffsgröße: bis 10.000 Tonnen.", "Beschäftigte: 150.", "Geplante Kapazitätserweiterung: 100.000 TEU bis 2028."],
+      hu: ["Felújítás: 2012.", "Kapacitás: 50.000 TEU/év.", "Vízmélység: 10 méter.", "Hajóméret: 10.000 tonnáig.", "Foglalkoztatottak: 150.", "Tervezett bővítés: 100.000 TEU 2028-ra."],
+      ro: ["Renovat în 2012.", "Capacitate: 50.000 TEU pe an.", "Adâncime apă: 10 metri.", "Dimensiune nave: până la 10.000 tone.", "Angajați: 150.", "Extindere planificată: 100.000 TEU până în 2028."],
+      en: ["Renovated in 2012.", "Capacity: 50,000 TEU per year.", "Water depth: 10 meters.", "Vessel size: up to 10,000 tons.", "Employees: 150.", "Planned expansion: 100,000 TEU by 2028."],
+    },
+  },
   {
     id: "inur-sacrato-power-station-economic-v2",
     type: "energy",
     parent: "TL-OE",
     coords: [124.3667, -9.2167],
-    name: { de: "Kraftwerk Inur Sacrato", hu: "Inur Sacrato Erőmű", ro: "Centrala Electrică Inur Sacrato", en: "Inur Sacrato Power Station",
-image: "/poi-images/inur-sacrato-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Inur Sacrato", hu: "Inur Sacrato Erőmű", ro: "Centrala Electrică Inur Sacrato", en: "Inur Sacrato Power Station"},
+    image: "/poi-images/inur-sacrato-power-station-economic-v2.webp",
     description: { de: "Ein modernes Kraftwerk in Oecusse, das eine stabile Energieversorgung für die Sonderwirtschaftszone gewährleistet.", hu: "Egy modern erőmű Oecusse-ban, amely stabil energiaellátást biztosít a különleges gazdasági övezet számára.", ro: "O centrală electrică modernă în Oecusse, asigurând o aprovizionare stabilă cu energie pentru zona economică specială.", en: "A modern power station in Oecusse ensuring a stable energy supply for the special economic zone." },
     facts: {
       de: ["Stabile Energie für Oecusse.", "Moderne Anlage."],
       hu: ["Stabil energia Oecusse számára.", "Modern létesítmény."],
       ro: ["Energie stabilă pentru Oecusse.", "Facilitate modernă."],
       en: ["Stable energy for Oecusse.", "Modern facility."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Inur Sacrato Power Station nahe Dili, Osttimor, ist ein Gaskraftwerk mit einer installierten Leistung von 120 Megawatt. Es wurde 2018 in Betrieb genommen und versorgt die Hauptstadt Dili und umliegende Gebiete mit Strom. Das Kraftwerk nutzt importiertes Flüssiggas (LNG) und hat eine Effizienz von 45%. Es ersetzt ältere Dieselgeneratoren und reduziert die CO2-Emissionen um 30% im Vergleich zu vorherigen Anlagen. Der Bau kostete 100 Millionen US-Dollar, finanziert durch die japanische Internationale Zusammenarbeit (JICA). Das Kraftwerk beschäftigt 80 Mitarbeiter. Es ist Teil des nationalen Elektrifizierungsplans, der bis 2030 eine 100%ige Abdeckung vorsieht. Die Anlage verfügt über eine 20-jährige Betriebsgenehmigung.",
+      hu: "Az Inur Sacrato Erőmű Dili közelében, Kelet-Timorban egy gázerőmű, beépített teljesítménye 120 megawatt. 2018-ban helyezték üzembe, és ellátja a fővárost, Dilit és a környező területeket árammal. Az erőmű importált LNG-t használ, hatásfoka 45%. Kiváltja a régebbi dízelgenerátorokat, és 30%-kal csökkenti a CO2-kibocsátást a korábbi létesítményekhez képest. Az építés 100 millió amerikai dollárba került, a japán nemzetközi együttműködés (JICA) finanszírozta. Az erőmű 80 alkalmazottat foglalkoztat. Része a nemzeti villamosítási tervnek, amely 2030-ra 100%-os lefedettséget irányoz elő. A létesítmény 20 éves üzemeltetési engedéllyel rendelkezik.",
+      ro: "Centrala electrică Inur Sacrato, situată lângă Dili, Timorul de Est, este o centrală pe gaz cu o capacitate instalată de 120 de megawați. A fost pusă în funcțiune în 2018 și alimentează capitala Dili și zonele învecinate. Centrala utilizează GNL importat și are o eficiență de 45%. A înlocuit generatoarele diesel mai vechi, reducând emisiile de CO2 cu 30% față de instalațiile anterioare. Construcția a costat 100 de milioane de dolari SUA, finanțată de Agenția Japoneză de Cooperare Internațională (JICA). Centrala angajează 80 de persoane. Face parte din planul național de electrificare care vizează acoperirea 100% până în 2030. Instalația are o licență de operare pe 20 de ani.",
+      en: "The Inur Sacrato Power Station near Dili, Timor-Leste, is a gas-fired power plant with an installed capacity of 120 megawatts. Commissioned in 2018, it supplies electricity to the capital Dili and surrounding areas. The plant uses imported LNG and has an efficiency of 45%. It replaces older diesel generators, reducing CO2 emissions by 30% compared to previous facilities. Construction cost USD 100 million, funded by the Japan International Cooperation Agency (JICA). The plant employs 80 staff. It is part of the national electrification plan aiming for 100% coverage by 2030. The facility has a 20-year operating license.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 120 MW.", "Inbetriebnahme: 2018.", "Effizienz: 45%.", "Baukosten: 100 Millionen US-Dollar.", "CO2-Reduktion: 30%.", "Beschäftigte: 80."],
+      hu: ["Beépített teljesítmény: 120 MW.", "Üzembe helyezés: 2018.", "Hatásfok: 45%.", "Építési költség: 100 millió USD.", "CO2-csökkentés: 30%.", "Alkalmazottak: 80."],
+      ro: ["Capacitate instalată: 120 MW.", "Pusă în funcțiune: 2018.", "Eficiență: 45%.", "Cost construcție: 100 milioane USD.", "Reducere CO2: 30%.", "Angajați: 80."],
+      en: ["Installed capacity: 120 MW.", "Commissioned: 2018.", "Efficiency: 45%.", "Construction cost: USD 100 million.", "CO2 reduction: 30%.", "Employees: 80."],
+    },
   }
 ];

@@ -7,9 +7,8 @@ export const poiExtraMadagascarCitiesV2: POI[] = [
     type: "state-capital",
     parent: "MG-T",
     coords: [47.5079, -18.8792],
-    name: { de: "Antananarivo", hu: "Antananarivo", ro: "Antananarivo", en: "Antananarivo",
-image: "/poi-images/antananarivo-cities-v2.webp"
-},
+    name: { de: "Antananarivo", hu: "Antananarivo", ro: "Antananarivo", en: "Antananarivo"},
+    image: "/poi-images/antananarivo-cities-v2.webp",
     description: { de: "Die Hauptstadt in Madagaskar.", hu: "Főváros Madagaszkáron.", ro: "Capitala în Madagascar.", en: "The capital in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -34,9 +33,8 @@ image: "/poi-images/antananarivo-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.4023, -18.1492],
-    name: { de: "Toamasina", hu: "Toamasina", ro: "Toamasina", en: "Toamasina",
-image: "/poi-images/toamasina-cities-v2.webp"
-},
+    name: { de: "Toamasina", hu: "Toamasina", ro: "Toamasina", en: "Toamasina"},
+    image: "/poi-images/toamasina-cities-v2.webp",
     description: { de: "Wichtigster Seehafen in Madagaskar.", hu: "Legfontosabb tengeri kikötő Madagaszkáron.", ro: "Principalul port maritim în Madagascar.", en: "Main seaport in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -61,9 +59,8 @@ image: "/poi-images/toamasina-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [47.0333, -19.8659],
-    name: { de: "Antsirabe", hu: "Antsirabe", ro: "Antsirabe", en: "Antsirabe",
-image: "/poi-images/antsirabe-cities-v2.webp"
-},
+    name: { de: "Antsirabe", hu: "Antsirabe", ro: "Antsirabe", en: "Antsirabe"},
+    image: "/poi-images/antsirabe-cities-v2.webp",
     description: { de: "Bekannt für Thermalquellen in Madagaskar.", hu: "Termálforrásairól ismert Madagaszkáron.", ro: "Cunoscut pentru izvoare termale în Madagascar.", en: "Known for thermal springs in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -89,9 +86,8 @@ image: "/poi-images/antsirabe-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [47.0857, -21.4527],
-    name: { de: "Fianarantsoa", hu: "Fianarantsoa", ro: "Fianarantsoa", en: "Fianarantsoa",
-image: "/poi-images/fianarantsoa-cities-v2.webp"
-},
+    name: { de: "Fianarantsoa", hu: "Fianarantsoa", ro: "Fianarantsoa", en: "Fianarantsoa"},
+    image: "/poi-images/fianarantsoa-cities-v2.webp",
     description: { de: "Zentrum des Weinbaus in Madagaskar.", hu: "A borászat központja Madagaszkáron.", ro: "Centrul viticulturii în Madagascar.", en: "Center of winemaking in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -117,9 +113,8 @@ image: "/poi-images/fianarantsoa-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [46.3167, -15.7167],
-    name: { de: "Mahajanga", hu: "Mahajanga", ro: "Mahajanga", en: "Mahajanga",
-image: "/poi-images/mahajanga-cities-v2.webp"
-},
+    name: { de: "Mahajanga", hu: "Mahajanga", ro: "Mahajanga", en: "Mahajanga"},
+    image: "/poi-images/mahajanga-cities-v2.webp",
     description: { de: "Hafenstadt am Kanal von Mosambik in Madagaskar.", hu: "Kikötőváros a Mozambiki-csatornán Madagaszkáron.", ro: "Oraș-port pe Canalul Mozambic în Madagascar.", en: "Port city on the Mozambique Channel in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -145,9 +140,8 @@ image: "/poi-images/mahajanga-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [43.6667, -23.35],
-    name: { de: "Toliara", hu: "Toliara", ro: "Toliara", en: "Toliara",
-image: "/poi-images/toliara-cities-v2.webp"
-},
+    name: { de: "Toliara", hu: "Toliara", ro: "Toliara", en: "Toliara"},
+    image: "/poi-images/toliara-cities-v2.webp",
     description: { de: "Stadt im Südwesten in Madagaskar.", hu: "Város délnyugaton Madagaszkáron.", ro: "Oraș în sud-vest în Madagascar.", en: "City in the southwest in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -173,9 +167,8 @@ image: "/poi-images/toliara-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [49.2917, -12.2787],
-    name: { de: "Antsiranana", hu: "Antsiranana", ro: "Antsiranana", en: "Antsiranana",
-image: "/poi-images/antsiranana-cities-v2.webp"
-},
+    name: { de: "Antsiranana", hu: "Antsiranana", ro: "Antsiranana", en: "Antsiranana"},
+    image: "/poi-images/antsiranana-cities-v2.webp",
     description: { de: "Nördlichste Stadt in Madagaskar.", hu: "A legészakibb város Madagaszkáron.", ro: "Cel mai nordic oraș în Madagascar.", en: "Northernmost city in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -201,9 +194,8 @@ image: "/poi-images/antsiranana-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [47.3167, -19.65],
-    name: { de: "Antanifotsy", hu: "Antanifotsy", ro: "Antanifotsy", en: "Antanifotsy",
-image: "/poi-images/antanifotsy-cities-v2.webp"
-},
+    name: { de: "Antanifotsy", hu: "Antanifotsy", ro: "Antanifotsy", en: "Antanifotsy"},
+    image: "/poi-images/antanifotsy-cities-v2.webp",
     description: { de: "Agrarzentrum in Madagaskar.", hu: "Mezőgazdasági központ Madagaszkáron.", ro: "Centru agricol în Madagascar.", en: "Agricultural center in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -229,9 +221,8 @@ image: "/poi-images/antanifotsy-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [46.0833, -25.1667],
-    name: { de: "Ambovombe", hu: "Ambovombe", ro: "Ambovombe", en: "Ambovombe",
-image: "/poi-images/ambovombe-cities-v2.webp"
-},
+    name: { de: "Ambovombe", hu: "Ambovombe", ro: "Ambovombe", en: "Ambovombe"},
+    image: "/poi-images/ambovombe-cities-v2.webp",
     description: { de: "Südliches Zentrum in Madagaskar.", hu: "Déli központ Madagaszkáron.", ro: "Centrul sudic în Madagascar.", en: "Southern center in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -257,9 +248,8 @@ image: "/poi-images/ambovombe-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [48.2167, -17.5833],
-    name: { de: "Amparafaravola", hu: "Amparafaravola", ro: "Amparafaravola", en: "Amparafaravola",
-image: "/poi-images/amparafaravola-cities-v2.webp"
-},
+    name: { de: "Amparafaravola", hu: "Amparafaravola", ro: "Amparafaravola", en: "Amparafaravola"},
+    image: "/poi-images/amparafaravola-cities-v2.webp",
     description: { de: "Reisanbaugebiet in Madagaskar.", hu: "Rizstermesztő vidék Madagaszkáron.", ro: "Zonă de cultivare a orezului în Madagascar.", en: "Rice-growing area in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -285,9 +275,8 @@ image: "/poi-images/amparafaravola-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [46.9987, -25.0333],
-    name: { de: "Tolanaro", hu: "Tolanaro", ro: "Tolanaro", en: "Tolanaro",
-image: "/poi-images/tolanaro-cities-v2.webp"
-},
+    name: { de: "Tolanaro", hu: "Tolanaro", ro: "Tolanaro", en: "Tolanaro"},
+    image: "/poi-images/tolanaro-cities-v2.webp",
     description: { de: "Historische Küstenstadt in Madagaskar.", hu: "Történelmi tengerparti város Madagaszkáron.", ro: "Oraș de coastă istoric în Madagascar.", en: "Historical coastal city in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -313,9 +302,8 @@ image: "/poi-images/tolanaro-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [48.4167, -17.8333],
-    name: { de: "Ambatondrazaka", hu: "Ambatondrazaka", ro: "Ambatondrazaka", en: "Ambatondrazaka",
-image: "/poi-images/ambatondrazaka-cities-v2.webp"
-},
+    name: { de: "Ambatondrazaka", hu: "Ambatondrazaka", ro: "Ambatondrazaka", en: "Ambatondrazaka"},
+    image: "/poi-images/ambatondrazaka-cities-v2.webp",
     description: { de: "Reishauptstadt in Madagaskar.", hu: "A rizs fővárosa Madagaszkáron.", ro: "Capitala orezului în Madagascar.", en: "Rice capital in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -341,9 +329,8 @@ image: "/poi-images/ambatondrazaka-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.7667, -16.1667],
-    name: { de: "Mananara Avaratra", hu: "Mananara Avaratra", ro: "Mananara Avaratra", en: "Mananara Avaratra",
-image: "/poi-images/mananara-avaratra-cities-v2.webp"
-},
+    name: { de: "Mananara Avaratra", hu: "Mananara Avaratra", ro: "Mananara Avaratra", en: "Mananara Avaratra"},
+    image: "/poi-images/mananara-avaratra-cities-v2.webp",
     description: { de: "Gewürzregion in Madagaskar.", hu: "Fűszerrégió Madagaszkáron.", ro: "Regiunea condimentelor în Madagascar.", en: "Spice region in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -369,9 +356,8 @@ image: "/poi-images/mananara-avaratra-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [46.7333, -19.1667],
-    name: { de: "Soavinandriana", hu: "Soavinandriana", ro: "Soavinandriana", en: "Soavinandriana",
-image: "/poi-images/soavinandriana-cities-v2.webp"
-},
+    name: { de: "Soavinandriana", hu: "Soavinandriana", ro: "Soavinandriana", en: "Soavinandriana"},
+    image: "/poi-images/soavinandriana-cities-v2.webp",
     description: { de: "Hochlandstadt in Madagaskar.", hu: "Felföldi város Madagaszkáron.", ro: "Oraș de pe platou în Madagascar.", en: "Highland city in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -397,9 +383,8 @@ image: "/poi-images/soavinandriana-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [48.8, -19.9],
-    name: { de: "Mahanoro", hu: "Mahanoro", ro: "Mahanoro", en: "Mahanoro",
-image: "/poi-images/mahanoro-cities-v2.webp"
-},
+    name: { de: "Mahanoro", hu: "Mahanoro", ro: "Mahanoro", en: "Mahanoro"},
+    image: "/poi-images/mahanoro-cities-v2.webp",
     description: { de: "Kanalstadt in Madagaskar.", hu: "Csatornaváros Madagaszkáron.", ro: "Orașul canalului în Madagascar.", en: "Canal city in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -425,9 +410,8 @@ image: "/poi-images/mahanoro-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.5833, -16.9167],
-    name: { de: "Soanierana Ivongo", hu: "Soanierana Ivongo", ro: "Soanierana Ivongo", en: "Soanierana Ivongo",
-image: "/poi-images/soanierana-ivongo-cities-v2.webp"
-},
+    name: { de: "Soanierana Ivongo", hu: "Soanierana Ivongo", ro: "Soanierana Ivongo", en: "Soanierana Ivongo"},
+    image: "/poi-images/soanierana-ivongo-cities-v2.webp",
     description: { de: "Tor nach Sainte Marie in Madagaskar.", hu: "Kapu a Sainte Marie-szigethez Madagaszkáron.", ro: "Poarta către Sainte Marie în Madagascar.", en: "Gateway to Sainte Marie in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -453,9 +437,8 @@ image: "/poi-images/soanierana-ivongo-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [46.95, -19.4],
-    name: { de: "Faratsiho", hu: "Faratsiho", ro: "Faratsiho", en: "Faratsiho",
-image: "/poi-images/faratsiho-cities-v2.webp"
-},
+    name: { de: "Faratsiho", hu: "Faratsiho", ro: "Faratsiho", en: "Faratsiho"},
+    image: "/poi-images/faratsiho-cities-v2.webp",
     description: { de: "Höchstgelegene Stadt in Madagaskar.", hu: "Legmagasabban fekvő város Madagaszkáron.", ro: "Cel mai înalt oraș în Madagascar.", en: "Highest city in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -481,9 +464,8 @@ image: "/poi-images/faratsiho-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [48.5333, -20.5833],
-    name: { de: "Nosy Varika", hu: "Nosy Varika", ro: "Nosy Varika", en: "Nosy Varika",
-image: "/poi-images/nosy-varika-cities-v2.webp"
-},
+    name: { de: "Nosy Varika", hu: "Nosy Varika", ro: "Nosy Varika", en: "Nosy Varika"},
+    image: "/poi-images/nosy-varika-cities-v2.webp",
     description: { de: "Isolierte Küstenstadt in Madagaskar.", hu: "Elszigetelt tengerparti város Madagaszkáron.", ro: "Oraș de coastă izolat în Madagascar.", en: "Isolated coastal city in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -509,9 +491,8 @@ image: "/poi-images/nosy-varika-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.2, -17.4667],
-    name: { de: "Vavatenina", hu: "Vavatenina", ro: "Vavatenina", en: "Vavatenina",
-image: "/poi-images/vavatenina-cities-v2.webp"
-},
+    name: { de: "Vavatenina", hu: "Vavatenina", ro: "Vavatenina", en: "Vavatenina"},
+    image: "/poi-images/vavatenina-cities-v2.webp",
     description: { de: "Nelkenproduktion in Madagaskar.", hu: "Szegfűszegtermelés Madagaszkáron.", ro: "Producția de cuișoare în Madagascar.", en: "Clove production in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -537,9 +518,8 @@ image: "/poi-images/vavatenina-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [44.2833, -20.2833],
-    name: { de: "Morondava", hu: "Morondava", ro: "Morondava", en: "Morondava",
-image: "/poi-images/morondava-cities-v2.webp"
-},
+    name: { de: "Morondava", hu: "Morondava", ro: "Morondava", en: "Morondava"},
+    image: "/poi-images/morondava-cities-v2.webp",
     description: { de: "Tor zur Baobab-Allee in Madagaskar.", hu: "Kapu a Baobab-sétányhoz Madagaszkáron.", ro: "Poarta către Aleea Baobab în Madagascar.", en: "Gateway to Baobab Avenue in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -565,9 +545,8 @@ image: "/poi-images/morondava-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [46.3833, -25.0333],
-    name: { de: "Amboasary", hu: "Amboasary", ro: "Amboasary", en: "Amboasary",
-image: "/poi-images/amboasary-cities-v2.webp"
-},
+    name: { de: "Amboasary", hu: "Amboasary", ro: "Amboasary", en: "Amboasary"},
+    image: "/poi-images/amboasary-cities-v2.webp",
     description: { de: "Sisalproduktion in Madagaskar.", hu: "Szizáltermelés Madagaszkáron.", ro: "Producția de sisal în Madagascar.", en: "Sisal production in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -593,9 +572,8 @@ image: "/poi-images/amboasary-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [46.7167, -16.2833],
-    name: { de: "Ambatoboeny", hu: "Ambatoboeny", ro: "Ambatoboeny", en: "Ambatoboeny",
-image: "/poi-images/ambatoboeny-cities-v2.webp"
-},
+    name: { de: "Ambatoboeny", hu: "Ambatoboeny", ro: "Ambatoboeny", en: "Ambatoboeny"},
+    image: "/poi-images/ambatoboeny-cities-v2.webp",
     description: { de: "Handelsstadt im Westen in Madagaskar.", hu: "Kereskedőváros nyugaton Madagaszkáron.", ro: "Oraș comercial în vest în Madagascar.", en: "Trading town in the west in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -621,9 +599,8 @@ image: "/poi-images/ambatoboeny-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [47.8333, -22.35],
-    name: { de: "Vohipeno", hu: "Vohipeno", ro: "Vohipeno", en: "Vohipeno",
-image: "/poi-images/vohipeno-cities-v2.webp"
-},
+    name: { de: "Vohipeno", hu: "Vohipeno", ro: "Vohipeno", en: "Vohipeno"},
+    image: "/poi-images/vohipeno-cities-v2.webp",
     description: { de: "Kulturelles Zentrum in Madagaskar.", hu: "Kulturális központ Madagaszkáron.", ro: "Centru cultural în Madagascar.", en: "Cultural center in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -649,9 +626,8 @@ image: "/poi-images/vohipeno-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [47.1167, -18.3167],
-    name: { de: "Ankazobe", hu: "Ankazobe", ro: "Ankazobe", en: "Ankazobe",
-image: "/poi-images/ankazobe-cities-v2.webp"
-},
+    name: { de: "Ankazobe", hu: "Ankazobe", ro: "Ankazobe", en: "Ankazobe"},
+    image: "/poi-images/ankazobe-cities-v2.webp",
     description: { de: "Am Rande der Tampoketsa in Madagaskar.", hu: "A Tampoketsa szélén Madagaszkáron.", ro: "La marginea Tampoketsa în Madagascar.", en: "On the edge of Tampoketsa in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -677,9 +653,8 @@ image: "/poi-images/ankazobe-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [47.05, -21.1167],
-    name: { de: "Ambohimahasoa", hu: "Ambohimahasoa", ro: "Ambohimahasoa", en: "Ambohimahasoa",
-image: "/poi-images/ambohimahasoa-cities-v2.webp"
-},
+    name: { de: "Ambohimahasoa", hu: "Ambohimahasoa", ro: "Ambohimahasoa", en: "Ambohimahasoa"},
+    image: "/poi-images/ambohimahasoa-cities-v2.webp",
     description: { de: "Stadt im Betsileo-Land in Madagaskar.", hu: "Város a Betsileo-földön Madagaszkáron.", ro: "Oraș în ținutul Betsileo în Madagascar.", en: "City in Betsileo land in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -703,9 +678,8 @@ image: "/poi-images/ambohimahasoa-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [50.1667, -14.2667],
-    name: { de: "Sambava", hu: "Sambava", ro: "Sambava", en: "Sambava",
-image: "/poi-images/sambava-cities-v2.webp"
-},
+    name: { de: "Sambava", hu: "Sambava", ro: "Sambava", en: "Sambava"},
+    image: "/poi-images/sambava-cities-v2.webp",
     description: { de: "Vanille-Hauptstadt in Madagaskar.", hu: "A vanília fővárosa Madagaszkáron.", ro: "Capitala vaniliei în Madagascar.", en: "Vanilla capital in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -729,9 +703,8 @@ image: "/poi-images/sambava-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [48.0167, -22.1333],
-    name: { de: "Manakara", hu: "Manakara", ro: "Manakara", en: "Manakara",
-image: "/poi-images/manakara-cities-v2.webp"
-},
+    name: { de: "Manakara", hu: "Manakara", ro: "Manakara", en: "Manakara"},
+    image: "/poi-images/manakara-cities-v2.webp",
     description: { de: "Endstation der FCE-Bahn in Madagaskar.", hu: "Az FCE vasút végállomása Madagaszkáron.", ro: "Terminus al căii ferate FCE în Madagascar.", en: "Terminus of the FCE railway in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -755,9 +728,8 @@ image: "/poi-images/manakara-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [47.8333, -22.8167],
-    name: { de: "Farafangana", hu: "Farafangana", ro: "Farafangana", en: "Farafangana",
-image: "/poi-images/farafangana-cities-v2.webp"
-},
+    name: { de: "Farafangana", hu: "Farafangana", ro: "Farafangana", en: "Farafangana"},
+    image: "/poi-images/farafangana-cities-v2.webp",
     description: { de: "Südöstliche Hafenstadt in Madagaskar.", hu: "Délkeleti kikötőváros Madagaszkáron.", ro: "Oraș-port în sud-est în Madagascar.", en: "Southeastern port city in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -781,9 +753,8 @@ image: "/poi-images/farafangana-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.7333, -15.4333],
-    name: { de: "Maroantsetra", hu: "Maroantsetra", ro: "Maroantsetra", en: "Maroantsetra",
-image: "/poi-images/maroantsetra-cities-v2.webp"
-},
+    name: { de: "Maroantsetra", hu: "Maroantsetra", ro: "Maroantsetra", en: "Maroantsetra"},
+    image: "/poi-images/maroantsetra-cities-v2.webp",
     description: { de: "Tor zum Masoala in Madagaskar.", hu: "Kapu a Masoala-parkhoz Madagaszkáron.", ro: "Poarta către Masoala în Madagascar.", en: "Gateway to Masoala in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -807,9 +778,8 @@ image: "/poi-images/maroantsetra-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [47.6, -23.35],
-    name: { de: "Vangaindrano", hu: "Vangaindrano", ro: "Vangaindrano", en: "Vangaindrano",
-image: "/poi-images/vangaindrano-cities-v2.webp"
-},
+    name: { de: "Vangaindrano", hu: "Vangaindrano", ro: "Vangaindrano", en: "Vangaindrano"},
+    image: "/poi-images/vangaindrano-cities-v2.webp",
     description: { de: "Stadt am Mananara in Madagaskar.", hu: "Város a Mananara folyónál Madagaszkáron.", ro: "Oraș pe râul Mananara în Madagascar.", en: "City on the Mananara River in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -833,9 +803,8 @@ image: "/poi-images/vangaindrano-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [46.9333, -21.8333],
-    name: { de: "Ambalavao", hu: "Ambalavao", ro: "Ambalavao", en: "Ambalavao",
-image: "/poi-images/ambalavao-cities-v2.webp"
-},
+    name: { de: "Ambalavao", hu: "Ambalavao", ro: "Ambalavao", en: "Ambalavao"},
+    image: "/poi-images/ambalavao-cities-v2.webp",
     description: { de: "Papiermacherdorf in Madagaskar.", hu: "Papírkészítő falu Madagaszkáron.", ro: "Sat de confecționare a hârtiei în Madagascar.", en: "Papermaking village in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -859,9 +828,8 @@ image: "/poi-images/ambalavao-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [48.2, -18.9333],
-    name: { de: "Moramanga", hu: "Moramanga", ro: "Moramanga", en: "Moramanga",
-image: "/poi-images/moramanga-cities-v2.webp"
-},
+    name: { de: "Moramanga", hu: "Moramanga", ro: "Moramanga", en: "Moramanga"},
+    image: "/poi-images/moramanga-cities-v2.webp",
     description: { de: "Waldreiche Stadt in Madagaskar.", hu: "Erdőkben gazdag város Madagaszkáron.", ro: "Oraș bogat în păduri în Madagascar.", en: "Forest-rich city in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -885,9 +853,8 @@ image: "/poi-images/moramanga-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [48.45, -13.6833],
-    name: { de: "Ambanja", hu: "Ambanja", ro: "Ambanja", en: "Ambanja",
-image: "/poi-images/ambanja-cities-v2.webp"
-},
+    name: { de: "Ambanja", hu: "Ambanja", ro: "Ambanja", en: "Ambanja"},
+    image: "/poi-images/ambanja-cities-v2.webp",
     description: { de: "Kakaoproduktion in Madagaskar.", hu: "Kakaótermelés Madagaszkáron.", ro: "Producția de cacao în Madagascar.", en: "Cocoa production in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -911,9 +878,8 @@ image: "/poi-images/ambanja-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [50.2833, -14.8833],
-    name: { de: "Antalaha", hu: "Antalaha", ro: "Antalaha", en: "Antalaha",
-image: "/poi-images/antalaha-cities-v2.webp"
-},
+    name: { de: "Antalaha", hu: "Antalaha", ro: "Antalaha", en: "Antalaha"},
+    image: "/poi-images/antalaha-cities-v2.webp",
     description: { de: "Gewürzzentrum in Madagaskar.", hu: "Fűszerközpont Madagaszkáron.", ro: "Centru de condimente în Madagascar.", en: "Spice center in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -937,9 +903,8 @@ image: "/poi-images/antalaha-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [46.1167, -22.4],
-    name: { de: "Ihosy", hu: "Ihosy", ro: "Ihosy", en: "Ihosy",
-image: "/poi-images/ihosy-cities-v2.webp"
-},
+    name: { de: "Ihosy", hu: "Ihosy", ro: "Ihosy", en: "Ihosy"},
+    image: "/poi-images/ihosy-cities-v2.webp",
     description: { de: "Hauptstadt der Bara in Madagaskar.", hu: "A Bara nép fővárosa Madagaszkáron.", ro: "Capitala poporului Bara în Madagascar.", en: "Capital of the Bara people in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -963,9 +928,8 @@ image: "/poi-images/ihosy-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [46.8333, -16.95],
-    name: { de: "Maevatanana", hu: "Maevatanana", ro: "Maevatanana", en: "Maevatanana",
-image: "/poi-images/maevatanana-cities-v2.webp"
-},
+    name: { de: "Maevatanana", hu: "Maevatanana", ro: "Maevatanana", en: "Maevatanana"},
+    image: "/poi-images/maevatanana-cities-v2.webp",
     description: { de: "Heiße Goldgräberstadt in Madagaskar.", hu: "Forró aranyásó város Madagaszkáron.", ro: "Oraș cald de căutători de aur în Madagascar.", en: "Hot gold-mining town in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -989,9 +953,8 @@ image: "/poi-images/maevatanana-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [46.0833, -23.2667],
-    name: { de: "Betroka", hu: "Betroka", ro: "Betroka", en: "Betroka",
-image: "/poi-images/betroka-cities-v2.webp"
-},
+    name: { de: "Betroka", hu: "Betroka", ro: "Betroka", en: "Betroka"},
+    image: "/poi-images/betroka-cities-v2.webp",
     description: { de: "Stadt im Süden in Madagaskar.", hu: "Város délen Madagaszkáron.", ro: "Oraș în sud în Madagascar.", en: "City in the south in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -1015,9 +978,8 @@ image: "/poi-images/betroka-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.4083, -17.3833],
-    name: { de: "Fenoarivo Atsinanana", hu: "Fenoarivo Atsinanana", ro: "Fenoarivo Atsinanana", en: "Fenoarivo Atsinanana",
-image: "/poi-images/fenoarivo-atsinanana-cities-v2.webp"
-},
+    name: { de: "Fenoarivo Atsinanana", hu: "Fenoarivo Atsinanana", ro: "Fenoarivo Atsinanana", en: "Fenoarivo Atsinanana"},
+    image: "/poi-images/fenoarivo-atsinanana-cities-v2.webp",
     description: { de: "Küste der Nelken in Madagaskar.", hu: "A szegfűszeg partja Madagaszkáron.", ro: "Coasta cuișoarelor în Madagascar.", en: "Coast of cloves in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -1041,9 +1003,8 @@ image: "/poi-images/fenoarivo-atsinanana-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [46.0333, -18.7667],
-    name: { de: "Tsiroanomandidy", hu: "Tsiroanomandidy", ro: "Tsiroanomandidy", en: "Tsiroanomandidy",
-image: "/poi-images/tsiroanomandidy-cities-v2.webp"
-},
+    name: { de: "Tsiroanomandidy", hu: "Tsiroanomandidy", ro: "Tsiroanomandidy", en: "Tsiroanomandidy"},
+    image: "/poi-images/tsiroanomandidy-cities-v2.webp",
     description: { de: "Zebumarkt-Zentrum in Madagaskar.", hu: "Zebu-piac központja Madagaszkáron.", ro: "Centrul pieței de zebu în Madagascar.", en: "Zebu market center in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -1067,9 +1028,8 @@ image: "/poi-images/tsiroanomandidy-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [46.9, -18.9667],
-    name: { de: "Miarinarivo", hu: "Miarinarivo", ro: "Miarinarivo", en: "Miarinarivo",
-image: "/poi-images/miarinarivo-cities-v2.webp"
-},
+    name: { de: "Miarinarivo", hu: "Miarinarivo", ro: "Miarinarivo", en: "Miarinarivo"},
+    image: "/poi-images/miarinarivo-cities-v2.webp",
     description: { de: "Verwaltungssitz von Itasy in Madagaskar.", hu: "Itasy közigazgatási központja Madagaszkáron.", ro: "Centrul administrativ al Itasy în Madagascar.", en: "Administrative center of Itasy in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -1093,9 +1053,8 @@ image: "/poi-images/miarinarivo-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [47.4167, -19.3833],
-    name: { de: "Ambatolampy", hu: "Ambatolampy", ro: "Ambatolampy", en: "Ambatolampy",
-image: "/poi-images/ambatolampy-cities-v2.webp"
-},
+    name: { de: "Ambatolampy", hu: "Ambatolampy", ro: "Ambatolampy", en: "Ambatolampy"},
+    image: "/poi-images/ambatolampy-cities-v2.webp",
     description: { de: "Aluminiumgießereien in Madagaskar.", hu: "Alumíniumöntödék városa Madagaszkáron.", ro: "Orașul turnătoriilor de aluminiu în Madagascar.", en: "Aluminum foundry town in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -1119,9 +1078,8 @@ image: "/poi-images/ambatolampy-cities-v2.webp"
     type: "city",
     parent: "MG-T",
     coords: [47.1833, -19.0167],
-    name: { de: "Arivonimamo", hu: "Arivonimamo", ro: "Arivonimamo", en: "Arivonimamo",
-image: "/poi-images/arivonimamo-cities-v2.webp"
-},
+    name: { de: "Arivonimamo", hu: "Arivonimamo", ro: "Arivonimamo", en: "Arivonimamo"},
+    image: "/poi-images/arivonimamo-cities-v2.webp",
     description: { de: "Ehemaliger Flughafenstandort in Madagaskar.", hu: "Egykori repülőtér helyszíne Madagaszkáron.", ro: "Fostă locație a aeroportului în Madagascar.", en: "Former airport location in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -1145,9 +1103,8 @@ image: "/poi-images/arivonimamo-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [49.65, -14.65],
-    name: { de: "Andapa", hu: "Andapa", ro: "Andapa", en: "Andapa",
-image: "/poi-images/andapa-cities-v2.webp"
-},
+    name: { de: "Andapa", hu: "Andapa", ro: "Andapa", en: "Andapa"},
+    image: "/poi-images/andapa-cities-v2.webp",
     description: { de: "Reiskammer im Norden in Madagaskar.", hu: "Északi rizstermő vidék Madagaszkáron.", ro: "Grânarul de orez din nord în Madagascar.", en: "Rice granary of the north in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -1171,9 +1128,8 @@ image: "/poi-images/andapa-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [44.5167, -22.2833],
-    name: { de: "Ankazoabo", hu: "Ankazoabo", ro: "Ankazoabo", en: "Ankazoabo",
-image: "/poi-images/ankazoabo-cities-v2.webp"
-},
+    name: { de: "Ankazoabo", hu: "Ankazoabo", ro: "Ankazoabo", en: "Ankazoabo"},
+    image: "/poi-images/ankazoabo-cities-v2.webp",
     description: { de: "Trockenregion in Madagaskar.", hu: "Száraz régió városa Madagaszkáron.", ro: "Regiune uscată în Madagascar.", en: "Dry region town in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -1197,9 +1153,8 @@ image: "/poi-images/ankazoabo-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [44.55, -19.7],
-    name: { de: "Belo sur Tsiribihina", hu: "Belo sur Tsiribihina", ro: "Belo sur Tsiribihina", en: "Belo sur Tsiribihina",
-image: "/poi-images/belo-sur-tsiribihina-cities-v2.webp"
-},
+    name: { de: "Belo sur Tsiribihina", hu: "Belo sur Tsiribihina", ro: "Belo sur Tsiribihina", en: "Belo sur Tsiribihina"},
+    image: "/poi-images/belo-sur-tsiribihina-cities-v2.webp",
     description: { de: "Stadt am Tsiribihina in Madagaskar.", hu: "Város a Tsiribihina folyónál Madagaszkáron.", ro: "Oraș pe râul Tsiribihina în Madagascar.", en: "Town on the Tsiribihina River in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -1223,9 +1178,8 @@ image: "/poi-images/belo-sur-tsiribihina-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [47.3833, -20.2333],
-    name: { de: "Fandriana", hu: "Fandriana", ro: "Fandriana", en: "Fandriana",
-image: "/poi-images/fandriana-cities-v2.webp"
-},
+    name: { de: "Fandriana", hu: "Fandriana", ro: "Fandriana", en: "Fandriana"},
+    image: "/poi-images/fandriana-cities-v2.webp",
     description: { de: "Holzverarbeitungszentrum in Madagaskar.", hu: "Fafeldolgozó központ Madagaszkáron.", ro: "Centru de prelucrare a lemnului în Madagascar.", en: "Woodworking center in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -1249,9 +1203,8 @@ image: "/poi-images/fandriana-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [48.9833, -19.2667],
-    name: { de: "Vatomandry", hu: "Vatomandry", ro: "Vatomandry", en: "Vatomandry",
-image: "/poi-images/vatomandry-cities-v2.webp"
-},
+    name: { de: "Vatomandry", hu: "Vatomandry", ro: "Vatomandry", en: "Vatomandry"},
+    image: "/poi-images/vatomandry-cities-v2.webp",
     description: { de: "Naherholungsziel in Madagaskar.", hu: "Közeli üdülőhely Madagaszkáron.", ro: "Destinație de vacanță în Madagascar.", en: "Recreational destination in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -1275,9 +1228,8 @@ image: "/poi-images/vatomandry-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [48.2667, -13.4],
-    name: { de: "Hell-Ville", hu: "Hell-Ville", ro: "Hell-Ville", en: "Hell-Ville",
-image: "/poi-images/hell-ville-cities-v2.webp"
-},
+    name: { de: "Hell-Ville", hu: "Hell-Ville", ro: "Hell-Ville", en: "Hell-Ville"},
+    image: "/poi-images/hell-ville-cities-v2.webp",
     description: { de: "Hauptort von Nosy Be in Madagaskar.", hu: "Nosy Be központja Madagaszkáron.", ro: "Orașul principal din Nosy Be în Madagascar.", en: "Main town of Nosy Be in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -1301,9 +1253,8 @@ image: "/poi-images/hell-ville-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [49.05, -13.2],
-    name: { de: "Ambilobe", hu: "Ambilobe", ro: "Ambilobe", en: "Ambilobe",
-image: "/poi-images/ambilobe-cities-v2.webp"
-},
+    name: { de: "Ambilobe", hu: "Ambilobe", ro: "Ambilobe", en: "Ambilobe"},
+    image: "/poi-images/ambilobe-cities-v2.webp",
     description: { de: "Zentrum des Ankarana-Karsts in Madagaskar.", hu: "Az Ankarana-karszt központja Madagaszkáron.", ro: "Centrul carstului Ankarana în Madagascar.", en: "Center of the Ankarana Karst in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -1327,9 +1278,8 @@ image: "/poi-images/ambilobe-cities-v2.webp"
     type: "city",
     parent: "MG-D",
     coords: [50.0, -13.3667],
-    name: { de: "Vohemar", hu: "Vohemar", ro: "Vohemar", en: "Vohemar",
-image: "/poi-images/vohemar-cities-v2.webp"
-},
+    name: { de: "Vohemar", hu: "Vohemar", ro: "Vohemar", en: "Vohemar"},
+    image: "/poi-images/vohemar-cities-v2.webp",
     description: { de: "Historischer Handelsposten in Madagaskar.", hu: "Történelmi kereskedőállomás Madagaszkáron.", ro: "Punct comercial istoric în Madagascar.", en: "Historical trading post in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -1353,9 +1303,8 @@ image: "/poi-images/vohemar-cities-v2.webp"
     type: "city",
     parent: "MG-A",
     coords: [49.85, -16.9833],
-    name: { de: "Ambodifotatra", hu: "Ambodifotatra", ro: "Ambodifotatra", en: "Ambodifotatra",
-image: "/poi-images/ambodifotatra-cities-v2.webp"
-},
+    name: { de: "Ambodifotatra", hu: "Ambodifotatra", ro: "Ambodifotatra", en: "Ambodifotatra"},
+    image: "/poi-images/ambodifotatra-cities-v2.webp",
     description: { de: "Inselhauptstadt von Sainte Marie in Madagaskar.", hu: "Sainte Marie szigetfővárosa Madagaszkáron.", ro: "Capitala insulei Sainte Marie în Madagascar.", en: "Island capital of Sainte Marie in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -1379,9 +1328,8 @@ image: "/poi-images/ambodifotatra-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [45.4667, -19.5333],
-    name: { de: "Miandrivazo", hu: "Miandrivazo", ro: "Miandrivazo", en: "Miandrivazo",
-image: "/poi-images/miandrivazo-cities-v2.webp"
-},
+    name: { de: "Miandrivazo", hu: "Miandrivazo", ro: "Miandrivazo", en: "Miandrivazo"},
+    image: "/poi-images/miandrivazo-cities-v2.webp",
     description: { de: "Heißeste Stadt in Madagaskar.", hu: "A legforróbb város Madagaszkáron.", ro: "Cel mai cald oraș în Madagascar.", en: "Hottest town in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -1405,9 +1353,8 @@ image: "/poi-images/miandrivazo-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [45.3167, -24.2333],
-    name: { de: "Bekily", hu: "Bekily", ro: "Bekily", en: "Bekily",
-image: "/poi-images/bekily-cities-v2.webp"
-},
+    name: { de: "Bekily", hu: "Bekily", ro: "Bekily", en: "Bekily"},
+    image: "/poi-images/bekily-cities-v2.webp",
     description: { de: "Stadt im tiefen Süden in Madagaskar.", hu: "Város a mély délen Madagaszkáron.", ro: "Oraș în sudul adânc în Madagascar.", en: "Town in the deep south in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -1431,9 +1378,8 @@ image: "/poi-images/bekily-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [46.1, -17.4833],
-    name: { de: "Kandreho", hu: "Kandreho", ro: "Kandreho", en: "Kandreho",
-image: "/poi-images/kandreho-cities-v2.webp"
-},
+    name: { de: "Kandreho", hu: "Kandreho", ro: "Kandreho", en: "Kandreho"},
+    image: "/poi-images/kandreho-cities-v2.webp",
     description: { de: "Abgelegene Siedlung in Madagaskar.", hu: "Elszigetelt település Madagaszkáron.", ro: "Așezare izolată în Madagascar.", en: "Isolated settlement in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -1457,9 +1403,8 @@ image: "/poi-images/kandreho-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [44.6167, -18.6667],
-    name: { de: "Antsalova", hu: "Antsalova", ro: "Antsalova", en: "Antsalova",
-image: "/poi-images/antsalova-cities-v2.webp"
-},
+    name: { de: "Antsalova", hu: "Antsalova", ro: "Antsalova", en: "Antsalova"},
+    image: "/poi-images/antsalova-cities-v2.webp",
     description: { de: "Nahe dem Bemaraha-Park in Madagaskar.", hu: "A Bemaraha park közelében Madagaszkáron.", ro: "Aproape de Parcul Bemaraha în Madagascar.", en: "Near the Bemaraha Park in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],
@@ -1483,9 +1428,8 @@ image: "/poi-images/antsalova-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [48.5333, -15.2667],
-    name: { de: "Befandriana-Avaratra", hu: "Befandriana-Avaratra", ro: "Befandriana-Avaratra", en: "Befandriana-Avaratra",
-image: "/poi-images/befandriana-avaratra-cities-v2.webp"
-},
+    name: { de: "Befandriana-Avaratra", hu: "Befandriana-Avaratra", ro: "Befandriana-Avaratra", en: "Befandriana-Avaratra"},
+    image: "/poi-images/befandriana-avaratra-cities-v2.webp",
     description: { de: "Ländliches Handelszentrum in Madagaskar.", hu: "Vidéki kereskedelmi központ Madagaszkáron.", ro: "Centru comercial rural în Madagascar.", en: "Rural trading center in Madagascar." },
     facts: {
       de: ["Es ist das wirtschaftliche Zentrum Madagaskars.", "Hat eine lange Geschichte."],
@@ -1509,9 +1453,8 @@ image: "/poi-images/befandriana-avaratra-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [45.4833, -25.3167],
-    name: { de: "Tsihombe", hu: "Tsihombe", ro: "Tsihombe", en: "Tsihombe",
-image: "/poi-images/tsihombe-cities-v2.webp"
-},
+    name: { de: "Tsihombe", hu: "Tsihombe", ro: "Tsihombe", en: "Tsihombe"},
+    image: "/poi-images/tsihombe-cities-v2.webp",
     description: { de: "Stadt der Antandroy in Madagaskar.", hu: "Az Antandroy nép városa Madagaszkáron.", ro: "Orașul poporului Antandroy în Madagascar.", en: "Town of the Antandroy people in Madagascar." },
     facts: {
       de: ["Bekannt für seinen bedeutenden internationalen Hafen.", "Hat eine lange Geschichte."],
@@ -1535,9 +1478,8 @@ image: "/poi-images/tsihombe-cities-v2.webp"
     type: "city",
     parent: "MG-F",
     coords: [48.3333, -21.2167],
-    name: { de: "Mananjary", hu: "Mananjary", ro: "Mananjary", en: "Mananjary",
-image: "/poi-images/mananjary-cities-v2.webp"
-},
+    name: { de: "Mananjary", hu: "Mananjary", ro: "Mananjary", en: "Mananjary"},
+    image: "/poi-images/mananjary-cities-v2.webp",
     description: { de: "Stadt am Pangalanes-Kanal in Madagaskar.", hu: "Város a Pangalanes-csatornánál Madagaszkáron.", ro: "Oraș pe canalul Pangalanes în Madagascar.", en: "Town on the Pangalanes Canal in Madagascar." },
     facts: {
       de: ["Eine Stadt mit kolonialer Architektur.", "Hat eine lange Geschichte."],
@@ -1561,9 +1503,8 @@ image: "/poi-images/mananjary-cities-v2.webp"
     type: "city",
     parent: "MG-M",
     coords: [47.6167, -15.6167],
-    name: { de: "Port-Bergé", hu: "Port-Bergé", ro: "Port-Bergé", en: "Port-Bergé",
-image: "/poi-images/port-bergé-cities-v2.webp"
-},
+    name: { de: "Port-Bergé", hu: "Port-Bergé", ro: "Port-Bergé", en: "Port-Bergé"},
+    image: "/poi-images/port-bergé-cities-v2.webp",
     description: { de: "Landwirtschaftlicher Knotenpunkt in Madagaskar.", hu: "Mezőgazdasági csomópont Madagaszkáron.", ro: "Nod agricol în Madagascar.", en: "Agricultural hub in Madagascar." },
     facts: {
       de: ["Zentrum der lokalen Verwaltung.", "Hat eine lange Geschichte."],
@@ -1587,9 +1528,8 @@ image: "/poi-images/port-bergé-cities-v2.webp"
     type: "city",
     parent: "MG-U",
     coords: [44.5333, -22.9],
-    name: { de: "Sakaraha", hu: "Sakaraha", ro: "Sakaraha", en: "Sakaraha",
-image: "/poi-images/sakaraha-cities-v2.webp"
-},
+    name: { de: "Sakaraha", hu: "Sakaraha", ro: "Sakaraha", en: "Sakaraha"},
+    image: "/poi-images/sakaraha-cities-v2.webp",
     description: { de: "Zentrum des Saphirabbaus in Madagaskar.", hu: "Zafírbányászati központ Madagaszkáron.", ro: "Centrul extracției de safire în Madagascar.", en: "Center of sapphire mining in Madagascar." },
     facts: {
       de: ["Wichtiger Verkehrsknotenpunkt der Region.", "Hat eine lange Geschichte."],

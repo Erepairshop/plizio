@@ -7,9 +7,8 @@ export const poiExtraKyrgyzstanReliefV2: POI[] = [
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1292, 42.0353],
-    name: { de: "Dschengisch Tschokusu", hu: "Dzsengis Csokuszu", ro: "Jengish Chokusu", en: "Jengish Chokusu",
-image: "/poi-images/pik-pobedy-relief-v2.webp"
-},
+    name: { de: "Dschengisch Tschokusu", hu: "Dzsengis Csokuszu", ro: "Jengish Chokusu", en: "Jengish Chokusu"},
+    image: "/poi-images/pik-pobedy-relief-v2.webp",
     description: {
       de: "Der höchste Berg Kirgisistans und des Tian-Shan-Gebirges mit einer Höhe von 7439 Metern an der Grenze zu China.",
       hu: "Kirgizisztán és a Tien-san hegység legmagasabb hegycsúcsa, amely 7439 méter magasan fekszik a kínai határon.",
@@ -40,9 +39,8 @@ image: "/poi-images/pik-pobedy-relief-v2.webp"
     type: "mountain",
     parent: "KG-Y",
     coords: [80.1747, 42.2105],
-    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Khan Tengri", en: "Khan Tengri",
-image: "/poi-images/khan-tengri-relief-v2.webp"
-},
+    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Khan Tengri", en: "Khan Tengri"},
+    image: "/poi-images/khan-tengri-relief-v2.webp",
     description: {
       de: "Ein markanter pyramidenförmiger Gipfel im Tian-Shan-Gebirge, der die Grenze zwischen Kirgisistan, Kasachstan und China bildet.",
       hu: "Egy feltűnő piramis alakú csúcs a Tien-san hegységben, amely Kirgizisztán, Kazahsztán és Kína határát alkotja.",
@@ -73,9 +71,8 @@ image: "/poi-images/khan-tengri-relief-v2.webp"
     type: "mountain",
     parent: "KG-O",
     coords: [72.9303, 39.3469],
-    name: { de: "Pik Lenin", hu: "Lenin-csúcs", ro: "Vârful Lenin", en: "Lenin Peak",
-image: "/poi-images/pik-lenin-relief-v2.webp"
-},
+    name: { de: "Pik Lenin", hu: "Lenin-csúcs", ro: "Vârful Lenin", en: "Lenin Peak"},
+    image: "/poi-images/pik-lenin-relief-v2.webp",
     description: {
       de: "Einer der höchsten Berge im Pamir-Gebirge an der Grenze zu Tadschikistan, der oft von Bergsteigern besucht wird.",
       hu: "A Pamír-hegység egyik legmagasabb hegye a tádzsik határon, amelyet gyakran látogatnak hegymászók.",
@@ -106,9 +103,8 @@ image: "/poi-images/pik-lenin-relief-v2.webp"
     type: "mountain",
     parent: "KG-N",
     coords: [76.0, 42.0],
-    name: { de: "Tian Shan", hu: "Tien-san", ro: "Tian Shan", en: "Tian Shan",
-image: "/poi-images/tian-shan-relief-v2.webp"
-},
+    name: { de: "Tian Shan", hu: "Tien-san", ro: "Tian Shan", en: "Tian Shan"},
+    image: "/poi-images/tian-shan-relief-v2.webp",
     description: {
       de: "Ein riesiges Gebirgssystem in Zentralasien, dessen Name \"Himmlische Berge\" bedeutet und das den Großteil Kirgisistans bedeckt.",
       hu: "Egy hatalmas közép-ázsiai hegységrendszer, amelynek neve \"Mennyei hegyek\", és amely Kirgizisztán nagy részét borítja.",
@@ -139,9 +135,8 @@ image: "/poi-images/tian-shan-relief-v2.webp"
     type: "mountain",
     parent: "KG-O",
     coords: [72.0, 39.6667],
-    name: { de: "Alaigebirge", hu: "Alaj-hegység", ro: "Munții Alai", en: "Alay Mountains",
-image: "/poi-images/alay-mountains-relief-v2.webp"
-},
+    name: { de: "Alaigebirge", hu: "Alaj-hegység", ro: "Munții Alai", en: "Alay Mountains"},
+    image: "/poi-images/alay-mountains-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug, der sich vom Pamir-Alai-System aus erstreckt und das Ferganatal im Süden begrenzt.",
       hu: "A Pamír-Alaj rendszerből kiinduló hegylánc, amely délen határolja a Fergana-völgyet.",
@@ -172,9 +167,8 @@ image: "/poi-images/alay-mountains-relief-v2.webp"
     type: "valley",
     parent: "KG-O",
     coords: [72.8, 39.5],
-    name: { de: "Alai-Tal", hu: "Alaj-völgy", ro: "Valea Alai", en: "Alay Valley",
-image: "/poi-images/alay-valley-relief-v2.webp"
-},
+    name: { de: "Alai-Tal", hu: "Alaj-völgy", ro: "Valea Alai", en: "Alay Valley"},
+    image: "/poi-images/alay-valley-relief-v2.webp",
     description: {
       de: "Ein weites, hochgelegenes Tal zwischen dem Alaigebirge und der Transalai-Kette im Süden Kirgisistans.",
       hu: "Egy széles, magasan fekvő völgy az Alaj-hegység és a Transzalaj-lánc között Dél-Kirgizisztánban.",
@@ -205,9 +199,8 @@ image: "/poi-images/alay-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-C",
     coords: [74.5, 42.8],
-    name: { de: "Tschüi-Tal", hu: "Csüj-völgy", ro: "Valea Chui", en: "Chuy Valley",
-image: "/poi-images/chuy-valley-relief-v2.webp"
-},
+    name: { de: "Tschüi-Tal", hu: "Csüj-völgy", ro: "Valea Chui", en: "Chuy Valley"},
+    image: "/poi-images/chuy-valley-relief-v2.webp",
     description: {
       de: "Eine fruchtbare Senke im Norden Kirgisistans, in der sich die Hauptstadt Bischkek und ein Großteil der Landwirtschaft des Landes befinden.",
       hu: "Egy termékeny medence Kirgizisztán északi részén, ahol a főváros, Biskek, és az ország mezőgazdaságának nagy része található.",
@@ -238,9 +231,8 @@ image: "/poi-images/chuy-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-C",
     coords: [73.8, 42.2],
-    name: { de: "Suusamyr-Tal", hu: "Szuszamir-völgy", ro: "Valea Suusamyr", en: "Suusamyr Valley",
-image: "/poi-images/suusamyr-valley-relief-v2.webp"
-},
+    name: { de: "Suusamyr-Tal", hu: "Szuszamir-völgy", ro: "Valea Suusamyr", en: "Suusamyr Valley"},
+    image: "/poi-images/suusamyr-valley-relief-v2.webp",
     description: {
       de: "Ein hochgelegenes Steppental, das von Jurtenlagern geprägt ist und im Sommer als üppige Weidefläche für Vieh dient.",
       hu: "Egy magasan fekvő sztyeppevölgy, amelyet jurtatáborok jellemeznek, és nyáron buja legelőként szolgál az állatok számára.",
@@ -271,9 +263,8 @@ image: "/poi-images/suusamyr-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-C",
     coords: [74.48, 42.56],
-    name: { de: "Ala-Artscha-Schlucht", hu: "Ala-Arcsa szurdok", ro: "Defileul Ala Archa", en: "Ala Archa Gorge",
-image: "/poi-images/ala-archa-gorge-relief-v2.webp"
-},
+    name: { de: "Ala-Artscha-Schlucht", hu: "Ala-Arcsa szurdok", ro: "Defileul Ala Archa", en: "Ala Archa Gorge"},
+    image: "/poi-images/ala-archa-gorge-relief-v2.webp",
     description: {
       de: "Ein malerisches Alpental im Nationalpark nahe Bischkek, das für seine Wacholderwälder, Wasserfälle und Gletscher bekannt ist.",
       hu: "Festői alpesi völgy a Biskek melletti nemzeti parkban, amely borókaerdeiről, vízeséseiről és gleccsereiről ismert.",
@@ -304,9 +295,8 @@ image: "/poi-images/ala-archa-gorge-relief-v2.webp"
     type: "mountain",
     parent: "KG-Y",
     coords: [78.5, 42.16],
-    name: { de: "Terskej-Alatau", hu: "Terszkej-Alatau", ro: "Terskey Ala-Too", en: "Terskey Ala-Too",
-image: "/poi-images/terskey-ala-too-relief-v2.webp"
-},
+    name: { de: "Terskej-Alatau", hu: "Terszkej-Alatau", ro: "Terskey Ala-Too", en: "Terskey Ala-Too"},
+    image: "/poi-images/terskey-ala-too-relief-v2.webp",
     description: {
       de: "Ein Gebirgszug des Tian Shan, der das Südufer des Yssykköl-Sees rahmt und für seine atemberaubenden Täler und heißen Quellen bekannt ist.",
       hu: "A Tien-san egyik hegylánca, amely az Iszik-köl tó déli partját keretezi, és lélegzetelállító völgyeiről, valamint hőforrásairól ismert.",
@@ -337,9 +327,8 @@ image: "/poi-images/terskey-ala-too-relief-v2.webp"
     type: "mountain",
     parent: "KG-Y",
     coords: [76.5, 42.83],
-    name: { de: "Küngej-Alatau", hu: "Küngej-Alatau", ro: "Kungey Ala-Too", en: "Kungey Ala-Too",
-image: "/poi-images/kungey-ala-too-relief-v2.webp"
-},
+    name: { de: "Küngej-Alatau", hu: "Küngej-Alatau", ro: "Kungey Ala-Too", en: "Kungey Ala-Too"},
+    image: "/poi-images/kungey-ala-too-relief-v2.webp",
     description: {
       de: "Die nördliche Gebirgskette, die den Yssykköl-See umschließt und die natürliche Grenze zu Kasachstan bildet.",
       hu: "Az északi hegylánc, amely az Iszik-köl tavat öleli körül, és a természetes határt alkotja Kazahsztánnal.",
@@ -370,9 +359,8 @@ image: "/poi-images/kungey-ala-too-relief-v2.webp"
     type: "valley",
     parent: "KG-Y",
     coords: [79.0, 42.6],
-    name: { de: "Dschyrgalan-Tal", hu: "Dzsirgalan-völgy", ro: "Valea Jyrgalan", en: "Jyrgalan Valley",
-image: "/poi-images/jyrgalan-valley-relief-v2.webp"
-},
+    name: { de: "Dschyrgalan-Tal", hu: "Dzsirgalan-völgy", ro: "Valea Jyrgalan", en: "Jyrgalan Valley"},
+    image: "/poi-images/jyrgalan-valley-relief-v2.webp",
     description: {
       de: "Ein unberührtes Tal im Osten Kirgisistans, das sich zu einem Zentrum für Ökotourismus und Freeride-Skifahren entwickelt hat.",
       hu: "Egy érintetlen völgy Kirgizisztán keleti részén, amely az ökoturizmus és a freeride síelés központjává fejlődött.",
@@ -403,9 +391,8 @@ image: "/poi-images/jyrgalan-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-C",
     coords: [76.25, 42.75],
-    name: { de: "Tschong-Kemin-Tal", hu: "Csong-Kemin-völgy", ro: "Valea Chong-Kemin", en: "Chong-Kemin Valley",
-image: "/poi-images/chong-kemin-valley-relief-v2.webp"
-},
+    name: { de: "Tschong-Kemin-Tal", hu: "Csong-Kemin-völgy", ro: "Valea Chong-Kemin", en: "Chong-Kemin Valley"},
+    image: "/poi-images/chong-kemin-valley-relief-v2.webp",
     description: {
       de: "Ein langes und wildes Bergtal, das als Nationalpark geschützt ist und einen reichen Bestand an Flora und Fauna beheimatet.",
       hu: "Egy hosszú és vad hegyi völgy, amely nemzeti parkként védett, és gazdag növény- és állatvilágnak ad otthont.",
@@ -436,9 +423,8 @@ image: "/poi-images/chong-kemin-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-N",
     coords: [74.5, 40.8],
-    name: { de: "Arpa-Tal", hu: "Arpa-völgy", ro: "Valea Arpa", en: "Arpa Valley",
-image: "/poi-images/arpa-valley-relief-v2.webp"
-},
+    name: { de: "Arpa-Tal", hu: "Arpa-völgy", ro: "Valea Arpa", en: "Arpa Valley"},
+    image: "/poi-images/arpa-valley-relief-v2.webp",
     description: {
       de: "Ein extrem abgelegenes Hochtal in der Naryn-Region, das traditionell von Nomaden als Sommerweide genutzt wird.",
       hu: "Egy rendkívül elzárt magashegyi völgy a Narin régióban, amelyet a nomádok hagyományosan nyári legelőként használnak.",
@@ -469,9 +455,8 @@ image: "/poi-images/arpa-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-N",
     coords: [75.5, 40.5],
-    name: { de: "Ak-Sai-Tal", hu: "Ak-Szaj-völgy", ro: "Valea Ak-Sai", en: "Ak-Sai Valley",
-image: "/poi-images/ak-sai-valley-relief-v2.webp"
-},
+    name: { de: "Ak-Sai-Tal", hu: "Ak-Szaj-völgy", ro: "Valea Ak-Sai", en: "Ak-Sai Valley"},
+    image: "/poi-images/ak-sai-valley-relief-v2.webp",
     description: {
       de: "Eine Hochgebirgswüste und Hochebene an der Grenze zu China, bekannt für ihre extrem kalten Winter und das Marco-Polo-Schaf.",
       hu: "Magashegyi sivatag és fennsík a kínai határon, amely rendkívül hideg teleiről és a Marco Polo-juhról ismert.",
@@ -502,9 +487,8 @@ image: "/poi-images/ak-sai-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-J",
     coords: [72.0, 40.5],
-    name: { de: "Ferganatal", hu: "Fergana-völgy", ro: "Valea Fergana", en: "Fergana Valley",
-image: "/poi-images/fergana-valley-relief-v2.webp"
-},
+    name: { de: "Ferganatal", hu: "Fergana-völgy", ro: "Valea Fergana", en: "Fergana Valley"},
+    image: "/poi-images/fergana-valley-relief-v2.webp",
     description: {
       de: "Der kirgisische Rand der dicht bevölkerten und fruchtbaren Senke, die für ihre Landwirtschaft und komplexe Grenzziehung bekannt ist.",
       hu: "A sűrűn lakott és termékeny medence kirgiz pereme, amely mezőgazdaságáról és bonyolult határvonalairól ismert.",
@@ -535,9 +519,8 @@ image: "/poi-images/fergana-valley-relief-v2.webp"
     type: "plateau",
     parent: "KG-Y",
     coords: [78.0, 41.5],
-    name: { de: "Syrten-Hochebene", hu: "Szirt-fennsík", ro: "Platoul Syrt", en: "Syrt Plateau",
-image: "/poi-images/syrt-plateau-relief-v2.webp"
-},
+    name: { de: "Syrten-Hochebene", hu: "Szirt-fennsík", ro: "Platoul Syrt", en: "Syrt Plateau"},
+    image: "/poi-images/syrt-plateau-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte, wüstenartige Hochebene im inneren Tian Shan, die sich auf über 3000 Metern Höhe erstreckt.",
       hu: "Kiterjedt, sivatagszerű fennsík a Belső-Tien-sanban, amely több mint 3000 méter magasságban húzódik.",
@@ -569,9 +552,8 @@ image: "/poi-images/syrt-plateau-relief-v2.webp"
     type: "valley",
     parent: "KG-Y",
     coords: [79.1667, 42.6667],
-    name: { de: "Karkara-Tal", hu: "Karkara-völgy", ro: "Valea Karkara", en: "Karkara Valley",
-image: "/poi-images/karkara-valley-relief-v2.webp"
-},
+    name: { de: "Karkara-Tal", hu: "Karkara-völgy", ro: "Valea Karkara", en: "Karkara Valley"},
+    image: "/poi-images/karkara-valley-relief-v2.webp",
     description: {
       de: "Ein malerisches Flusstal an der Grenze zu Kasachstan, bekannt als Basislager für Helikopter-Expeditionen zum Dschengisch Tschokusu.",
       hu: "Festői folyóvölgy a kazah határon, amely bázistáborként szolgál a Dzsengis Csokuszu felé induló helikopteres expedíciókhoz.",
@@ -602,9 +584,8 @@ image: "/poi-images/karkara-valley-relief-v2.webp"
     type: "valley",
     parent: "KG-N",
     coords: [75.9, 41.4],
-    name: { de: "Naryn-Tal", hu: "Narin-völgy", ro: "Valea Naryn", en: "Naryn Valley",
-image: "/poi-images/naryn-valley-relief-v2.webp"
-},
+    name: { de: "Naryn-Tal", hu: "Narin-völgy", ro: "Valea Naryn", en: "Naryn Valley"},
+    image: "/poi-images/naryn-valley-relief-v2.webp",
     description: {
       de: "Die tiefe Schlucht und das Tal, durch die der Fluss Naryn fließt, umgeben von spektakulären, kargen Gebirgslandschaften.",
       hu: "Az a mély szurdok és völgy, amelyen a Narin folyó folyik keresztül, látványos, kopár hegyvidéki tájakkal övezve.",
@@ -635,9 +616,8 @@ image: "/poi-images/naryn-valley-relief-v2.webp"
     type: "mountain",
     parent: "KG-N",
     coords: [77.0, 41.0],
-    name: { de: "Kakschaal-Too", hu: "Kaksál-Too", ro: "Kakshaal Too", en: "Kakshaal Too",
-image: "/poi-images/kakshaal-too-relief-v2.webp"
-},
+    name: { de: "Kakschaal-Too", hu: "Kaksál-Too", ro: "Kakshaal Too", en: "Kakshaal Too"},
+    image: "/poi-images/kakshaal-too-relief-v2.webp",
     description: {
       de: "Ein mächtiger Gebirgszug, der die natürliche Grenze zwischen Kirgisistan und China bildet und durch sein raues Klima besticht.",
       hu: "Hatalmas hegylánc, amely Kirgizisztán és Kína természetes határát alkotja, és zord éghajlatával tűnik ki.",

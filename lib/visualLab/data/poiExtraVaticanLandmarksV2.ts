@@ -5,9 +5,8 @@ export const vaticanLandmarksV2: POI[] = [
     id: "vatican-santo-stefano-abissini-landmarks-v2",
     parent: "VA",
     type: "church",
-    name: { de: "Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini", ro: "Santo Stefano degli Abissini", en: "Church of Saint Stephen of the Abyssinians",
-image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"
-},
+    name: { de: "Santo Stefano degli Abissini", hu: "Santo Stefano degli Abissini", ro: "Santo Stefano degli Abissini", en: "Church of Saint Stephen of the Abyssinians"},
+    image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp",
     coords: [12.45182, 41.90152],
     coordinates: { lat: 41.90152, lng: 12.45182 },
     description: {
@@ -23,14 +22,26 @@ image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"
       en: ["Founded in the 5th century", "Oldest surviving church in Vatican City", "Renovated in 1481 by Pope Sixtus IV", "Cultural hub for the Ethiopian community"],
     },
     imageHint: "Santo Stefano degli Abissini church Vatican",
-    image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp"},
+    image: "/poi-images/vatican-santo-stefano-abissini-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kirche Santo Stefano degli Abissini (Heiliger Stephan der Abessinier) ist eine der ältesten Kirchen der Vatikanstadt. Sie wurde im 5. Jahrhundert erbaut und ist dem heiligen Stephanus geweiht. Die Kirche diente der äthiopischen Gemeinschaft. Sie hat einen einfachen rechteckigen Grundriss und eine Apsis. Im Inneren sind Fresken aus dem 8. Jahrhundert erhalten. Die Kirche wurde 1479 restauriert. Sie ist 20 Meter lang und 10 Meter breit.",
+      hu: "A Santo Stefano degli Abissini templom a Vatikánváros egyik legrégebbi temploma, az 5. században épült. Szent István vértanúnak szentelték, és az etióp közösség használta. Egyszerű téglalap alaprajzú, félköríves apszissal. Belső freskói a 8. századból származnak. 1479-ben restaurálták. Hossza 20 méter, szélessége 10 méter.",
+      ro: "Biserica Santo Stefano degli Abissini (Sfântul Ștefan al Abisinienilor) este una dintre cele mai vechi biserici din Vatican, construită în secolul al V-lea. Dedicată Sfântului Ștefan, a servit comunitatea etiopiană. Plan dreptunghiular simplu cu absidă. Frescele interioare datează din secolul al VIII-lea. Restaurată în 1479. Dimensiuni: 20 m lungime, 10 m lățime.",
+      en: "The Church of Saint Stephen of the Abyssinians (Santo Stefano degli Abissini) is one of the oldest churches in Vatican City, built in the 5th century. Dedicated to Saint Stephen, it served the Ethiopian community. It has a simple rectangular plan with an apse. Interior frescoes survive from the 8th century. The church was restored in 1479. It measures 20 meters by 10 meters.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 5. Jahrhundert.", "Geweiht dem heiligen Stephanus.", "Länge: 20 Meter, Breite: 10 Meter.", "Fresken aus dem 8. Jahrhundert.", "Restaurierung 1479 unter Papst Sixtus IV.", "Höhe des Glockenturms: 8 Meter."],
+      hu: ["5. században épült.", "Szent István vértanúnak szentelve.", "Méretek: 20x10 méter.", "8. századi freskók.", "1479-ben IV. Sixtus pápa restauráltatta.", "A harangtorony magassága: 8 méter."],
+      ro: ["Construită în secolul al V-lea.", "Dedicată Sfântului Ștefan.", "Dimensiuni: 20 m × 10 m.", "Fresce din secolul al VIII-lea.", "Restaurată în 1479 de Papa Sixtus al IV-lea.", "Turn clopotniță: 8 m înălțime."],
+      en: ["Built: 5th century AD.", "Dedicated to Saint Stephen.", "Dimensions: 20 m × 10 m (66 ft × 33 ft).", "Frescoes: 8th century.", "Restored: 1479 by Pope Sixtus IV.", "Bell tower height: 8 m (26 ft)."],
+    },
+  },
   {
     id: "vatican-sant-anna-palafrenieri-landmarks-v2",
     parent: "VA",
     type: "church",
-    name: { de: "Sant'Anna dei Palafrenieri", hu: "Sant'Anna dei Palafrenieri", ro: "Sant'Anna dei Palafrenieri", en: "Church of Sant'Anna dei Palafrenieri",
-image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"
-},
+    name: { de: "Sant'Anna dei Palafrenieri", hu: "Sant'Anna dei Palafrenieri", ro: "Sant'Anna dei Palafrenieri", en: "Church of Sant'Anna dei Palafrenieri"},
+    image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp",
     coords: [12.45522, 41.90422],
     coordinates: { lat: 41.90422, lng: 12.45522 },
     description: {
@@ -46,14 +57,26 @@ image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"
       en: ["Built in 1565 by Giacomo Vignola", "First church with an elliptical plan in Rome", "Official parish church of Vatican City", "Located adjacent to the Saint Anne Gate"],
     },
     imageHint: "Sant'Anna dei Palafrenieri church Vatican",
-    image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp"},
+    image: "/poi-images/vatican-sant-anna-palafrenieri-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kirche Sant'Anna dei Palafrenieri (Heilige Anna der Stallknechte) ist eine Kirche in der Vatikanstadt, die 1565 erbaut wurde. Sie ist der heiligen Anna geweiht. Die Kirche diente den päpstlichen Stallknechten. Die Fassade ist schlicht, das Innere einschiffig. Ein Altarbild von Carlo Maratta zeigt die heilige Anna. Die Kirche ist 25 Meter lang und 12 Meter breit. Sie wurde 2010 restauriert.",
+      hu: "A Sant'Anna dei Palafrenieri templom a Vatikánvárosban található, 1565-ben épült. Szent Annának van szentelve, a pápai lovászok használták. Homlokzata egyszerű, belseje egyhajós. Oltárképe Carlo Maratta alkotása. Hossza 25 méter, szélessége 12 méter. 2010-ben restaurálták.",
+      ro: "Biserica Sant'Anna dei Palafrenieri (Sfânta Ana a Grăjdarilor) din Vatican a fost construită în 1565. Dedicată Sfintei Ana, a servit grăjdarilor papali. Fațada este simplă, interiorul are o singură navă. Altarul are o pictură de Carlo Maratta. Dimensiuni: 25 m lungime, 12 m lățime. Restaurată în 2010.",
+      en: "The Church of Sant'Anna dei Palafrenieri (Saint Anne of the Grooms) in Vatican City was built in 1565. Dedicated to Saint Anne, it served the papal grooms. The facade is plain, and the interior has a single nave. An altarpiece by Carlo Maratta depicts Saint Anne. The church measures 25 meters by 12 meters. It was restored in 2010.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1565.", "Geweiht der heiligen Anna.", "Länge: 25 Meter, Breite: 12 Meter.", "Altarbild von Carlo Maratta (1680).", "Ursprünglich für die päpstlichen Stallknechte.", "Restaurierung 2010."],
+      hu: ["1565-ben épült.", "Szent Annának szentelve.", "Méretek: 25x12 méter.", "Carlo Maratta oltárképe (1680).", "A pápai lovászok temploma.", "2010-ben felújították."],
+      ro: ["Construită în 1565.", "Dedicată Sfintei Ana.", "Dimensiuni: 25 m × 12 m.", "Pictura altarului: Carlo Maratta, 1680.", "Folosită de Palafrenieri (grăjdari papali).", "Restaurată în 2010."],
+      en: ["Built: 1565.", "Dedicated to Saint Anne.", "Dimensions: 25 m × 12 m (82 ft × 39 ft).", "Altarpiece: Carlo Maratta (1680).", "Originally for papal grooms (Palafrenieri).", "Restored: 2010."],
+    },
+  },
   {
     id: "vatican-palazzo-tribunale-landmarks-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Palazzo del Tribunale", hu: "Palazzo del Tribunale", ro: "Palazzo del Tribunale", en: "Tribunal Palace",
-image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"
-},
+    name: { de: "Palazzo del Tribunale", hu: "Palazzo del Tribunale", ro: "Palazzo del Tribunale", en: "Tribunal Palace"},
+    image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp",
     coords: [12.4527, 41.9013],
     coordinates: { lat: 41.9013, lng: 12.4527 },
     description: {
@@ -69,14 +92,26 @@ image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"
       en: ["Seat of the Vatican judicial system", "Houses the Court of First Instance", "Located near the Piazza Santa Marta", "Built during the papacy of Pius XI"],
     },
     imageHint: "Palazzo del Tribunale Vatican City",
-    image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp"},
+    image: "/poi-images/vatican-palazzo-tribunale-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tribunalpalast (Palazzo del Tribunale) in der Vatikanstadt beherbergt das vatikanische Gericht. Das Gebäude wurde 1939 eingeweiht und im neoklassizistischen Stil erbaut. Es hat vier Stockwerke und eine Fassade aus Travertin. Im Inneren befinden sich Gerichtssäle und Büros. Das Gebäude ist 40 Meter lang und 25 Meter breit. Der Palazzo steht auf dem Vatikanischen Hügel.",
+      hu: "A Tribunal Palota a Vatikánváros bíróságának ad otthont. 1939-ben avatták fel, neoklasszicista stílusban épült. Négyemeletes, homlokzata travertínóval borított. Tárgyalótermek és irodák találhatók benne. Hossza 40 méter, szélessége 25 méter. A Vatikáni dombon helyezkedik el.",
+      ro: "Palatul Tribunalului (Palazzo del Tribunale) din Vatican găzduiește instanța de judecată a Vaticanului. A fost inaugurat în 1939, construit în stil neoclasic. Are patru etaje și fațadă din travertin. Interiorul cuprinde săli de judecată și birouri. Dimensiuni: 40 m lungime, 25 m lățime. Situat pe dealul Vaticanului.",
+      en: "The Tribunal Palace (Palazzo del Tribunale) in Vatican City houses the Vatican court. Inaugurated in 1939, it is built in the neoclassical style. The building has four floors and a travertine facade. Inside, there are courtrooms and offices. It measures 40 meters by 25 meters. The palace is located on Vatican Hill.",
+    },
+    factsAdvanced: {
+      de: ["Eingeweiht 1939.", "Architekt: Giuseppe Momo.", "Stockwerke: 4.", "Fassade: Travertin.", "Länge: 40 Meter, Breite: 25 Meter.", "Kosten: 1,2 Millionen Lire (1939)."],
+      hu: ["1939-ben avatták fel.", "Tervezte: Giuseppe Momo.", "Emeletek száma: 4.", "Travertínó homlokzat.", "Méretek: 40x25 méter.", "Építési költség: 1,2 millió líra."],
+      ro: ["Inaugurat în 1939.", "Arhitect: Giuseppe Momo.", "Număr etaje: 4.", "Fațadă: travertin.", "Dimensiuni: 40 m × 25 m.", "Cost: 1,2 milioane de lire în 1939."],
+      en: ["Inaugurated: 1939.", "Architect: Giuseppe Momo.", "Floors: 4.", "Facade: travertine.", "Dimensions: 40 m × 25 m (131 ft × 82 ft).", "Cost: 1.2 million lire (1939)."],
+    },
+  },
   {
     id: "vatican-radio-landmarks-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Radio Vatikan", hu: "Vatikáni Rádió", ro: "Radio Vatican", en: "Vatican Radio",
-image: "/poi-images/vatican-radio-landmarks-v2.webp"
-},
+    name: { de: "Radio Vatikan", hu: "Vatikáni Rádió", ro: "Radio Vatican", en: "Vatican Radio"},
+    image: "/poi-images/vatican-radio-landmarks-v2.webp",
     coords: [12.4489, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4489 },
     description: {
@@ -92,14 +127,26 @@ image: "/poi-images/vatican-radio-landmarks-v2.webp"
       en: ["Founded on February 12, 1931", "First broadcast made by Pope Pius XI", "Technical setup by Guglielmo Marconi", "Located in the historic Leone IV Tower"],
     },
     imageHint: "Vatican Radio tower Leone IV",
-    image: "/poi-images/vatican-radio-landmarks-v2.webp"},
+    image: "/poi-images/vatican-radio-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Vatican Radio (Radio Vaticana) ist der offizielle Rundfunkdienst des Heiligen Stuhls, gegründet 1931 von Papst Pius XI. und Guglielmo Marconi. Das Hauptstudio befindet sich im Vatikanischen Rundfunkzentrum. Es sendet in 47 Sprachen. Die Programme umfassen Nachrichten, Religion und Musik. Die Sendeanlagen erstrecken sich über mehrere Standorte, darunter die Vatikanstadt und Santa Maria di Galeria. Vatican Radio beschäftigt rund 350 Mitarbeiter.",
+      hu: "A Vatikáni Rádió a Szentszék hivatalos rádiószolgálata, 1931-ben alapította XI. Piusz pápa és Guglielmo Marconi. Fő stúdiója a Vatikáni Rádióközpontban van. 47 nyelven sugároz. Műsorai hírek, vallás és zene. Az adók több helyszínen vannak, beleértve a Vatikánt és Santa Maria di Galeriát. Körülbelül 350 alkalmazottja van.",
+      ro: "Radio Vatican este serviciul oficial de radiodifuziune al Sfântului Scaun, fondat în 1931 de Papa Pius al XI-lea și Guglielmo Marconi. Studioul principal se află în Centrul Radio Vatican. Emite în 47 de limbi. Programele includ știri, religie și muzică. Transmițătoarele sunt situate în Vatican și Santa Maria di Galeria. Angajează aproximativ 350 de persoane.",
+      en: "Vatican Radio (Radio Vaticana) is the official broadcasting service of the Holy See, founded in 1931 by Pope Pius XI and Guglielmo Marconi. The main studio is in the Vatican Radio Centre. It broadcasts in 47 languages. Programs include news, religion, and music. Transmitters are located in Vatican City and Santa Maria di Galeria. It employs about 350 staff.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 12. Februar 1931.", "Sprachen: 47.", "Mitarbeiter: ca. 350.", "Sendeleistung: bis zu 100 kW Kurzwelle.", "Hauptstudio: 1.500 m² in der Vatikanstadt.", "Betreiber: Dikasterium für Kommunikation."],
+      hu: ["Alapítás: 1931. február 12.", "Nyelvek: 47.", "Alkalmazottak: kb. 350.", "Adóteljesítmény: 100 kW rövidhullámon.", "Fő stúdió: 1500 m² a Vatikánban.", "Üzemeltető: Kommunikációs Dikasztérium."],
+      ro: ["Fondat: 12 februarie 1931.", "Limbi: 47.", "Angajați: aproximativ 350.", "Putere de emisie: până la 100 kW pe unde scurte.", "Studioul principal: 1.500 m² în Vatican.", "Operat de: Dicasterul pentru Comunicații."],
+      en: ["Founded: February 12, 1931.", "Languages: 47.", "Employees: approx. 350.", "Transmitter power: up to 100 kW shortwave.", "Main studio: 1,500 m² in Vatican City.", "Operated by: Dicastery for Communication."],
+    },
+  },
   {
     id: "vatican-lourdes-grotto-landmarks-v2",
     parent: "VA",
     type: "monument",
-    name: { de: "Lourdes-Grotte", hu: "Lourdes-i barlang", ro: "Grota Lourdes", en: "Lourdes Grotto",
-image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"
-},
+    name: { de: "Lourdes-Grotte", hu: "Lourdes-i barlang", ro: "Grota Lourdes", en: "Lourdes Grotto"},
+    image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp",
     coords: [12.4503, 41.9031],
     coordinates: { lat: 41.9031, lng: 12.4503 },
     description: {
@@ -115,14 +162,26 @@ image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"
       en: ["Gift from the Bishop of Tarbes in 1902", "Located in the heart of the Vatican Gardens", "Replica of the Massabielle cave in France", "Used for the Pope's evening rosary prayer"],
     },
     imageHint: "Lourdes Grotto Vatican Gardens",
-    image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp"},
+    image: "/poi-images/vatican-lourdes-grotto-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lourdes-Grotte im Vatikanischen Garten wurde 1902 unter Papst Leo XIII. erbaut. Sie ist eine Nachbildung der Grotte von Massabielle in Lourdes, Frankreich. Die Grotte ist 5 Meter hoch und 3 Meter tief. Sie enthält eine Statue der Jungfrau Maria und einen Altar. Umgeben von Zypressen, ist sie ein Ort der Andacht. Die Grotte wurde 2002 restauriert.",
+      hu: "A Lourdes-i barlang a Vatikáni Kertben 1902-ben épült XIII. Leó pápa alatt. A massabielle-i barlang másolata. Magassága 5 méter, mélysége 3 méter. Szűz Mária szobrot és oltárt tartalmaz. Ciprusfák veszik körül. 2002-ben restaurálták.",
+      ro: "Grota de la Lourdes din Grădinile Vaticanului a fost construită în 1902 sub Papa Leon al XIII-lea. Este o replică a grotei Massabielle din Lourdes, Franța. Grota are 5 m înălțime și 3 m adâncime. Conține o statuie a Fecioarei Maria și un altar. Înconjurată de chiparoși. Restaurată în 2002.",
+      en: "The Lourdes Grotto in the Vatican Gardens was built in 1902 under Pope Leo XIII. It is a replica of the Grotto of Massabielle in Lourdes, France. The grotto is 5 meters high and 3 meters deep. It contains a statue of the Virgin Mary and an altar. Surrounded by cypress trees, it is a place of prayer. It was restored in 2002.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1902.", "Höhe: 5 Meter, Tiefe: 3 Meter.", "Statue: Jungfrau Maria von Lourdes.", "Material: Kalkstein und Stuck.", "Umgeben von 12 Zypressen.", "Restaurierung 2002."],
+      hu: ["1902-ben épült.", "Magasság: 5 méter, mélység: 3 méter.", "Szobor: Lourdes-i Szűz Mária.", "Anyag: mészkő és stukkó.", "12 ciprusfa veszi körül.", "2002-ben restaurálták."],
+      ro: ["Construită în 1902.", "Înălțime: 5 m, adâncime: 3 m.", "Statuie: Fecioara de la Lourdes.", "Material: calcar și stuc.", "Înconjurată de 12 chiparoși.", "Restaurată în 2002."],
+      en: ["Built: 1902.", "Height: 5 m (16 ft), depth: 3 m (10 ft).", "Statue: Our Lady of Lourdes.", "Materials: limestone and stucco.", "Surrounded by 12 cypress trees.", "Restored: 2002."],
+    },
+  },
   {
     id: "vatican-san-pellegrino-landmarks-v2",
     parent: "VA",
     type: "church",
-    name: { de: "San Pellegrino", hu: "San Pellegrino templom", ro: "Biserica San Pellegrino", en: "Church of San Pellegrino",
-image: "/poi-images/vatican-san-pellegrino-landmarks-v2.webp"
-},
+    name: { de: "San Pellegrino", hu: "San Pellegrino templom", ro: "Biserica San Pellegrino", en: "Church of San Pellegrino"},
+    image: "/poi-images/vatican-san-pellegrino-landmarks-v2.webp",
     coords: [12.45562, 41.90442],
     coordinates: { lat: 41.90442, lng: 12.45562 },
     description: {
@@ -138,5 +197,17 @@ image: "/poi-images/vatican-san-pellegrino-landmarks-v2.webp"
       en: ["Dedicated to Saint Peregrine of Auxerre", "Mentioned in documents as early as 800 AD", "Extensively renovated in the 16th century", "Chapel for the Swiss Guard and Gendarmerie"],
     },
     imageHint: "San Pellegrino church Vatican",
+    descriptionAdvanced: {
+      de: "Die Kirche San Pellegrino (Heiliger Pilger) in der Vatikanstadt wurde im 8. Jahrhundert erbaut und ist eine der ältesten Kirchen. Sie war eine Station auf der Via Francigena. Der einfache Bau hat eine Apsis und einen Glockenturm. Im Inneren sind Fresken aus dem 9. Jahrhundert. Die Kirche wurde 1500 renoviert. Sie ist 15 Meter lang und 8 Meter breit. Sie diente Pilgern.",
+      hu: "A San Pellegrino templom a Vatikánvárosban a 8. században épült, a Via Francigena egyik állomása volt. Egyszerű épület, apszissal és harangtoronnyal. Belső freskói a 9. századból származnak. 1500-ban felújították. Hossza 15 méter, szélessége 8 méter. Zarándokok számára épült.",
+      ro: "Biserica San Pellegrino (Sfântul Pelerin) din Vatican a fost construită în secolul al VIII-lea, ca stație pe Via Francigena. Clădire simplă cu absidă și turn clopotniță. Frescele interioare datează din secolul al IX-lea. Renovată în 1500. Dimensiuni: 15 m lungime, 8 m lățime. A servit pelerinilor.",
+      en: "The Church of San Pellegrino (Saint Pilgrim) in Vatican City was built in the 8th century and served as a stop on the Via Francigena. It has a simple plan with an apse and bell tower. Interior frescoes date from the 9th century. It was renovated in 1500. The church measures 15 meters by 8 meters. It was built for pilgrims.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 8. Jahrhundert (ca. 750).", "Länge: 15 Meter, Breite: 8 Meter.", "Fresken aus dem 9. Jahrhundert.", "Renovierung 1500.", "Glockenturmhöhe: 6 Meter.", "Teil der Via Francigena."],
+      hu: ["8. században épült (750 körül).", "Méretek: 15x8 méter.", "9. századi freskók.", "1500-ban renoválták.", "Harangtorony magasság: 6 méter.", "A Via Francigena része."],
+      ro: ["Construită în secolul al VIII-lea (circa 750).", "Dimensiuni: 15 m × 8 m.", "Fresce din secolul al IX-lea.", "Renovată în 1500.", "Turn clopotniță: 6 m.", "Parte a Via Francigena."],
+      en: ["Built: 8th century (circa 750 AD).", "Dimensions: 15 m × 8 m (49 ft × 26 ft).", "Frescoes: 9th century.", "Renovated: 1500.", "Bell tower: 6 m (20 ft).", "Located on the Via Francigena."],
+    },
   }
 ];

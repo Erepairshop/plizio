@@ -11,9 +11,8 @@ export const poiExtraGambiaEconomicV2: POI[] = [
       de: "Hafen von Banjul",
       hu: "Banjuli kikötő",
       ro: "Portul din Banjul",
-      en: "Port of Banjul",
-image: "/poi-images/banjul-sea-port-economic-v2.webp"
-},
+      en: "Port of Banjul"},
+    image: "/poi-images/banjul-sea-port-economic-v2.webp",
     description: {
       de: "Der Haupthafen Gambias und das wirtschaftliche Herz des Landes, über den fast der gesamte Außenhandel abgewickelt wird.",
       hu: "Gambia fő kikötője és az ország gazdasági szíve, amelyen keresztül szinte a teljes külkereskedelem bonyolódik.",
@@ -50,9 +49,8 @@ image: "/poi-images/banjul-sea-port-economic-v2.webp"
       de: "Fischereianlegestelle Banjul",
       hu: "Banjuli halászati móló",
       ro: "Mollul de pescuit din Banjul",
-      en: "Banjul Fisheries Jetty",
-image: "/poi-images/banjul-fisheries-jetty-economic-v2.webp"
-},
+      en: "Banjul Fisheries Jetty"},
+    image: "/poi-images/banjul-fisheries-jetty-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Hafenbereich in der Hauptstadt, der ausschließlich für die kommerzielle Fischereiflotte und die Fischverarbeitung dient.",
       hu: "A főváros speciális kikötői területe, amely kizárólag a kereskedelmi halászflotta és a halfeldolgozás céljait szolgálja.",
@@ -89,9 +87,8 @@ image: "/poi-images/banjul-fisheries-jetty-economic-v2.webp"
       de: "Erdnussverarbeitungswerk Sarro",
       hu: "Sarro földimogyoró-feldolgozó üzem",
       ro: "Fabrica de procesare a arahidelor Sarro",
-      en: "Sarro Groundnut Processing Plant",
-image: "/poi-images/sarro-groundnut-plant-economic-v2.webp"
-},
+      en: "Sarro Groundnut Processing Plant"},
+    image: "/poi-images/sarro-groundnut-plant-economic-v2.webp",
     description: {
       de: "Die größte Anlage der Gambia Groundnut Corporation zur Verarbeitung und Lagerung von Erdnüssen für den Export.",
       hu: "A Gambia Groundnut Corporation legnagyobb üzeme a földimogyoró feldolgozására és exportra történő tárolására.",
@@ -126,9 +123,8 @@ image: "/poi-images/sarro-groundnut-plant-economic-v2.webp"
       de: "Banjul Breweries (JulBrew)",
       hu: "Banjuli Sörgyár (JulBrew)",
       ro: "Berăria din Banjul (JulBrew)",
-      en: "Banjul Breweries (JulBrew)",
-image: "/poi-images/banjul-breweries-economic-v2.webp"
-},
+      en: "Banjul Breweries (JulBrew)"},
+    image: "/poi-images/banjul-breweries-economic-v2.webp",
     description: {
       de: "Die einzige Brauerei Gambias, die das berühmte nationale Bier JulBrew sowie verschiedene Erfrischungsgetränke produziert.",
       hu: "Gambia egyetlen sörgyára, amely a híres nemzeti sört, a JulBrew-t, valamint különféle üdítőitalokat gyárt.",
@@ -163,9 +159,8 @@ image: "/poi-images/banjul-breweries-economic-v2.webp"
       de: "Gambia Milling Corporation",
       hu: "Gambia Milling Corporation",
       ro: "Gambia Milling Corporation",
-      en: "Gambia Milling Corporation",
-image: "/poi-images/gambia-milling-corp-economic-v2.webp"
-},
+      en: "Gambia Milling Corporation"},
+    image: "/poi-images/gambia-milling-corp-economic-v2.webp",
     description: {
       de: "Eine moderne Weizenmühle im Hafengebiet von Banjul, die einen Großteil des im Land benötigten Mehls produziert.",
       hu: "Egy modern búzamalom Banjul kikötői területén, amely az országban szükségelt liszt nagy részét előállítja.",
@@ -200,9 +195,8 @@ image: "/poi-images/gambia-milling-corp-economic-v2.webp"
       de: "Kraftwerk Brikama",
       hu: "Brikamai erőmű",
       ro: "Centrala electrică din Brikama",
-      en: "Brikama Power Station",
-image: "/poi-images/brikama-power-station-economic-v2.webp"
-},
+      en: "Brikama Power Station"},
+    image: "/poi-images/brikama-power-station-economic-v2.webp",
     description: {
       de: "Das wichtigste thermische Kraftwerk des Landes, das einen bedeutenden Teil der Stromversorgung für den Großraum Banjul liefert.",
       hu: "Az ország legfontosabb hőerőműve, amely Banjul térségének áramellátásának jelentős részét biztosítja.",
@@ -237,9 +231,8 @@ image: "/poi-images/brikama-power-station-economic-v2.webp"
       de: "Fischmehlfabrik Gunjur",
       hu: "Gunjuri hallisztgyár",
       ro: "Fabrica de făină de pește din Gunjur",
-      en: "Gunjur Fish Meal Factory",
-image: "/poi-images/gunjur-fish-meal-factory-economic-v2.webp"
-},
+      en: "Gunjur Fish Meal Factory"},
+    image: "/poi-images/gunjur-fish-meal-factory-economic-v2.webp",
     description: {
       de: "Eine industrielle Anlage an der Küste, die Fischabfälle und Kleinfische zu Fischmehl für den internationalen Export verarbeitet.",
       hu: "Ipari létesítmény a tengerparton, amely a halmaradékokat és kishalakat hallisztté dolgozza fel nemzetközi exportra.",
@@ -274,9 +267,8 @@ image: "/poi-images/gunjur-fish-meal-factory-economic-v2.webp"
       de: "Industriegebiet Denton Bridge",
       hu: "Denton Bridge ipari terület",
       ro: "Zona industrială Denton Bridge",
-      en: "Denton Bridge Industrial Area",
-image: "/poi-images/denton-bridge-fish-cluster-economic-v2.webp"
-},
+      en: "Denton Bridge Industrial Area"},
+    image: "/poi-images/denton-bridge-fish-cluster-economic-v2.webp",
     description: {
       de: "Ein Cluster von Fischverarbeitungsbetrieben und Lagerhäusern in der Nähe der Brücke, die Banjul mit dem Festland verbindet.",
       hu: "Halfeldolgozó üzemek és raktárak csoportja a Banjult a szárazfölddel összekötő híd közelében.",
@@ -311,9 +303,8 @@ image: "/poi-images/denton-bridge-fish-cluster-economic-v2.webp"
       de: "Erdnuss-Depot Kaur",
       hu: "Kauri földimogyoró-depó",
       ro: "Depozitul de arahide din Kaur",
-      en: "Kaur Groundnut Depot",
-image: "/poi-images/kaur-groundnut-depot-economic-v2.webp"
-},
+      en: "Kaur Groundnut Depot"},
+    image: "/poi-images/kaur-groundnut-depot-economic-v2.webp",
     description: {
       de: "Ein historisch bedeutender Flusshafen und Sammelstelle für Erdnüsse, die hier auf Lastkähne für den Transport nach Banjul verladen werden.",
       hu: "Történelmileg jelentős folyami kikötő és földimogyoró-gyűjtőhely, ahol az árut uszályokra rakják a Banjulba történő szállításhoz.",
@@ -348,9 +339,8 @@ image: "/poi-images/kaur-groundnut-depot-economic-v2.webp"
       de: "Erdnuss-Depot Kuntaur",
       hu: "Kuntauri földimogyoró-depó",
       ro: "Depozitul de arahide din Kuntaur",
-      en: "Kuntaur Groundnut Depot",
-image: "/poi-images/kuntaur-groundnut-depot-economic-v2.webp"
-},
+      en: "Kuntaur Groundnut Depot"},
+    image: "/poi-images/kuntaur-groundnut-depot-economic-v2.webp",
     description: {
       de: "Ein wichtiger logistischer Knotenpunkt am Oberlauf des Flusses für den Abtransport der landwirtschaftlichen Erzeugnisse der Region.",
       hu: "Fontos logisztikai csomópont a folyó felső szakaszán a régió mezőgazdasági termékeinek elszállítására.",
@@ -385,9 +375,8 @@ image: "/poi-images/kuntaur-groundnut-depot-economic-v2.webp"
       de: "Fährterminal Barra",
       hu: "Barrai kompterminál",
       ro: "Terminalul de feribot din Barra",
-      en: "Barra Ferry Terminal",
-image: "/poi-images/barra-ferry-terminal-economic-v2.webp"
-},
+      en: "Barra Ferry Terminal"},
+    image: "/poi-images/barra-ferry-terminal-economic-v2.webp",
     description: {
       de: "Die entscheidende Verbindungseinrichtung am Nordufer, die den Personen- und Güterverkehr zwischen Banjul und dem Senegal ermöglicht.",
       hu: "A döntő fontosságú összeköttetés az északi parton, amely lehetővé teszi a személy- és áruforgalmat Banjul és Szenegál között.",
@@ -422,9 +411,8 @@ image: "/poi-images/barra-ferry-terminal-economic-v2.webp"
       de: "Fischereianlegestelle Bakau",
       hu: "Bakaui halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Bakau",
-      en: "Bakau Fish Landing Site",
-image: "/poi-images/bakau-fish-landing-economic-v2.webp"
-},
+      en: "Bakau Fish Landing Site"},
+    image: "/poi-images/bakau-fish-landing-economic-v2.webp",
     description: {
       de: "Ein wichtiger lokaler Hafen für die handwerkliche Fischerei, der die umliegenden Märkte mit frischem Fisch versorgt.",
       hu: "Fontos helyi kikötő a kézműves halászat számára, amely friss hallal látja el a környező piacokat.",
@@ -459,9 +447,8 @@ image: "/poi-images/bakau-fish-landing-economic-v2.webp"
       de: "Fischereianlegestelle Brufut",
       hu: "Brufuti halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Brufut",
-      en: "Brufut Fish Landing Site",
-image: "/poi-images/brufut-fish-landing-economic-v2.webp"
-},
+      en: "Brufut Fish Landing Site"},
+    image: "/poi-images/brufut-fish-landing-economic-v2.webp",
     description: {
       de: "Ein bedeutender Umschlagplatz für den Fang an der Küste, bekannt für die anschließende Verarbeitung und Trocknung von Fisch.",
       hu: "Jelentős rakodóhely a tengerparti fogások számára, amely a halak feldolgozásáról és szárításáról ismert.",
@@ -496,9 +483,8 @@ image: "/poi-images/brufut-fish-landing-economic-v2.webp"
       de: "Fischereianlegestelle Sanyang",
       hu: "Sanyangi halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Sanyang",
-      en: "Sanyang Fish Landing Site",
-image: "/poi-images/sanyang-fish-landing-economic-v2.webp"
-},
+      en: "Sanyang Fish Landing Site"},
+    image: "/poi-images/sanyang-fish-landing-economic-v2.webp",
     description: {
       de: "Ein geschäftiger Fischereiknotenpunkt an der Atlantikküste, der eine zentrale Rolle in der Wirtschaft der West Coast Region spielt.",
       hu: "Nyüzsgő halászati csomópont az Atlanti-óceán partján, amely központi szerepet játszik a Nyugati Part régió gazdaságában.",
@@ -533,9 +519,8 @@ image: "/poi-images/sanyang-fish-landing-economic-v2.webp"
       de: "Sandabbaugebiet Kartong",
       hu: "Kartongi homokbánya",
       ro: "Zonă de extracție a nisipului din Kartong",
-      en: "Kartong Sand Mining Site",
-image: "/poi-images/kartong-sand-mining-economic-v2.webp"
-},
+      en: "Kartong Sand Mining Site"},
+    image: "/poi-images/kartong-sand-mining-economic-v2.webp",
     description: {
       de: "Ein bedeutender Standort für die Gewinnung von Bausand und Mineralien, der für die nationale Bauindustrie von großer Bedeutung ist.",
       hu: "Az építési homok és ásványi kincsek kitermelésének jelentős helyszíne, amely nagy fontossággal bír a nemzeti építőipar számára.",
@@ -570,9 +555,8 @@ image: "/poi-images/kartong-sand-mining-economic-v2.webp"
       de: "Windkraftanlage Batokunku",
       hu: "Batokunku szélerőmű",
       ro: "Turbina eoliană din Batokunku",
-      en: "Batokunku Wind Power Plant",
-image: "/poi-images/batokunku-wind-power-economic-v2.webp"
-},
+      en: "Batokunku Wind Power Plant"},
+    image: "/poi-images/batokunku-wind-power-economic-v2.webp",
     description: {
       de: "Ein wegweisendes Projekt für erneuerbare Energien in Gambia, das das Dorf Batokunku mit nachhaltigem Strom versorgt.",
       hu: "Egy úttörő megújuló energia projekt Gambiában, amely fenntartható árammal látja el Batokunku falut.",
@@ -607,9 +591,8 @@ image: "/poi-images/batokunku-wind-power-economic-v2.webp"
       de: "Flusshafen Fatoto",
       hu: "Fatotoi folyami kikötő",
       ro: "Debarcaderul fluvial din Fatoto",
-      en: "Fatoto River Wharf",
-image: "/poi-images/fatoto-river-wharf-economic-v2.webp"
-},
+      en: "Fatoto River Wharf"},
+    image: "/poi-images/fatoto-river-wharf-economic-v2.webp",
     description: {
       de: "Der östlichste Flusshafen des Landes, ein wichtiger Endpunkt für den Warentransport per Schiff in das ferne Hinterland.",
       hu: "Az ország legkeletibb folyami kikötője, a hajón történő áruszállítás fontos végpontja a távoli szárazföldi területek felé.",
@@ -644,9 +627,8 @@ image: "/poi-images/fatoto-river-wharf-economic-v2.webp"
       de: "Anlegestelle Bansang",
       hu: "Bansangi kikötőhely",
       ro: "Debarcaderul din Bansang",
-      en: "Bansang River Wharf",
-image: "/poi-images/bansang-river-wharf-economic-v2.webp"
-},
+      en: "Bansang River Wharf"},
+    image: "/poi-images/bansang-river-wharf-economic-v2.webp",
     description: {
       de: "Ein wichtiger regionaler Hafen am Südufer des Gambia-Flusses, der für den Transport von Agrarprodukten und Gütern des täglichen Bedarfs genutzt wird.",
       hu: "Fontos regionális kikötő a Gambia-folyó déli partján, amelyet mezőgazdasági termékek és napi szükségleti cikkek szállítására használnak.",
@@ -681,9 +663,8 @@ image: "/poi-images/bansang-river-wharf-economic-v2.webp"
       de: "Fischereianlegestelle Kerewan",
       hu: "Kerewani halászati rakodóhely",
       ro: "Punctul de debarcare a peștelui din Kerewan",
-      en: "Kerewan Fish Landing Site",
-image: "/poi-images/kerewan-fish-landing-economic-v2.webp"
-},
+      en: "Kerewan Fish Landing Site"},
+    image: "/poi-images/kerewan-fish-landing-economic-v2.webp",
     description: {
       de: "Ein strategischer Punkt für die Fischerei am North Bank, gelegen an einem tiefen Seitenarm des Gambia-Flusses.",
       hu: "Stratégiai halászati pont az északi parton, a Gambia-folyó egyik mély mellékága mentén.",
@@ -718,9 +699,8 @@ image: "/poi-images/kerewan-fish-landing-economic-v2.webp"
       de: "Eisfabrik Brikama",
       hu: "Brikamai jéggyár",
       ro: "Fabrica de gheață din Brikama",
-      en: "Brikama Ice Plant",
-image: "/poi-images/brikama-ice-plant-economic-v2.webp"
-},
+      en: "Brikama Ice Plant"},
+    image: "/poi-images/brikama-ice-plant-economic-v2.webp",
     description: {
       de: "Eine industrielle Kühlanlage, die für die Konservierung und den Transport von Fisch aus der Küstenregion von entscheidender Bedeutung ist.",
       hu: "Ipari hűtőberendezés, amely döntő fontosságú a tengerparti régióból származó halak tartósítása és szállítása szempontjából.",

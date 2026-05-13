@@ -7,9 +7,8 @@ export const poiExtraGabonHistoryV2: POI[] = [
     type: "historical",
     parent: "GA-6",
     coords: [11.5833, -0.4833],
-    name: { de: "Lopé Archäologische Stätten", hu: "Lopé régészeti lelőhelyek", ro: "Situl arheologic Lopé", en: "Lopé Archaeological Sites",
-image: "/poi-images/lope-archaeology-history-v2.webp"
-},
+    name: { de: "Lopé Archäologische Stätten", hu: "Lopé régészeti lelőhelyek", ro: "Situl arheologic Lopé", en: "Lopé Archaeological Sites"},
+    image: "/poi-images/lope-archaeology-history-v2.webp",
     description: {
       de: "Teil des UNESCO-Welterbes, bekannt für prähistorische Felsgravuren und antike Eisenverhüttungsstätten.",
       hu: "Az UNESCO Világörökség része, amely prehisztorikus sziklavésetekről és ősi vasskohókról nevezetes.",
@@ -67,9 +66,8 @@ image: "/poi-images/lope-archaeology-history-v2.webp"
     type: "historical",
     parent: "GA-1",
     coords: [9.4447, 0.3831],
-    name: { de: "St. Peter Kathedrale Libreville", hu: "Szent Péter-székesegyház, Libreville", ro: "Catedrala Sfântul Petru din Libreville", en: "St. Peter's Cathedral Libreville",
-image: "/poi-images/st-peter-cathedral-history-v2.webp"
-},
+    name: { de: "St. Peter Kathedrale Libreville", hu: "Szent Péter-székesegyház, Libreville", ro: "Catedrala Sfântul Petru din Libreville", en: "St. Peter's Cathedral Libreville"},
+    image: "/poi-images/st-peter-cathedral-history-v2.webp",
     description: {
       de: "Eine der wichtigsten religiösen Stätten in der Hauptstadt, bekannt für ihre Architektur und Glasmalerei.",
       hu: "A főváros egyik legfontosabb vallási helyszíne, amely építészetéről és üvegablakairól ismert.",
@@ -127,9 +125,8 @@ image: "/poi-images/st-peter-cathedral-history-v2.webp"
     type: "historical",
     parent: "GA-8",
     coords: [9.2083, -1.4583],
-    name: { de: "Mission Sainte-Anne du Fernan Vaz", hu: "Szent Anna misszió", ro: "Misiunea Sfânta Ana din Fernan Vaz", en: "Mission Sainte-Anne du Fernan Vaz",
-image: "/poi-images/mission-ste-anne-history-v2.webp"
-},
+    name: { de: "Mission Sainte-Anne du Fernan Vaz", hu: "Szent Anna misszió", ro: "Misiunea Sfânta Ana din Fernan Vaz", en: "Mission Sainte-Anne du Fernan Vaz"},
+    image: "/poi-images/mission-ste-anne-history-v2.webp",
     description: {
       de: "Eine historische Eisenkirche, die Ende des 19. Jahrhunderts in den Werkstätten von Gustave Eiffel entworfen wurde.",
       hu: "Történelmi vasból készült templom, amelyet a 19. század végén Gustave Eiffel műhelyében terveztek.",
@@ -187,9 +184,8 @@ image: "/poi-images/mission-ste-anne-history-v2.webp"
     type: "historical",
     parent: "GA-1",
     coords: [9.4420, 0.3890],
-    name: { de: "Stätte des Fort d'Aumale", hu: "Fort d'Aumale helyszíne", ro: "Situl Fort d'Aumale", en: "Fort d'Aumale Site",
-image: "/poi-images/fort-aumale-history-v2.webp"
-},
+    name: { de: "Stätte des Fort d'Aumale", hu: "Fort d'Aumale helyszíne", ro: "Situl Fort d'Aumale", en: "Fort d'Aumale Site"},
+    image: "/poi-images/fort-aumale-history-v2.webp",
     description: {
       de: "Der Standort des ersten französischen Forts in Gabun, das den Grundstein für die Gründung von Libreville legte.",
       hu: "Az első francia erőd helyszíne Gabonban, amely alapul szolgált Libreville megalapításához.",
@@ -216,9 +212,8 @@ image: "/poi-images/fort-aumale-history-v2.webp"
     type: "historical",
     parent: "GA-1",
     coords: [9.7500, 0.2200],
-    name: { de: "Mission von Donguila", hu: "Donguila misszió", ro: "Misiunea din Donguila", en: "Mission de Donguila",
-image: "/poi-images/donguila-mission-history-v2.webp"
-},
+    name: { de: "Mission von Donguila", hu: "Donguila misszió", ro: "Misiunea din Donguila", en: "Mission de Donguila"},
+    image: "/poi-images/donguila-mission-history-v2.webp",
     description: {
       de: "Einer der ältesten Missionsposten am Komo-Fluss, ein Symbol der christlichen Geschichte in Gabun.",
       hu: "Az egyik legrégebbi missziós állomás a Komo folyó mentén, a gaboni keresztény történelem szimbóluma.",
@@ -245,9 +240,8 @@ image: "/poi-images/donguila-mission-history-v2.webp"
     type: "historical",
     parent: "GA-8",
     coords: [8.7000, -0.6400],
-    name: { de: "Historischer Hafen von Cap Lopez", hu: "Cap Lopez történelmi kikötője", ro: "Portul istoric Cap Lopez", en: "Historic Port of Cap Lopez",
-image: "/poi-images/cap-lopez-slave-port-history-v2.webp"
-},
+    name: { de: "Historischer Hafen von Cap Lopez", hu: "Cap Lopez történelmi kikötője", ro: "Portul istoric Cap Lopez", en: "Historic Port of Cap Lopez"},
+    image: "/poi-images/cap-lopez-slave-port-history-v2.webp",
     description: {
       de: "Ein bedeutsamer Ort des transatlantischen Sklavenhandels an der Westküste Afrikas.",
       hu: "A transzatlanti rabszolga-kereskedelem egyik jelentős helyszíne Afrika nyugati partján.",
@@ -272,9 +266,8 @@ image: "/poi-images/cap-lopez-slave-port-history-v2.webp"
     type: "historical",
     parent: "GA-3",
     coords: [10.2300, -0.6900],
-    name: { de: "Albert-Schweitzer-Museum", hu: "Albert Schweitzer Múzeum", ro: "Muzeul Albert Schweitzer", en: "Albert Schweitzer Museum",
-image: "/poi-images/schweitzer-museum-history-v2.webp"
-},
+    name: { de: "Albert-Schweitzer-Museum", hu: "Albert Schweitzer Múzeum", ro: "Muzeul Albert Schweitzer", en: "Albert Schweitzer Museum"},
+    image: "/poi-images/schweitzer-museum-history-v2.webp",
     description: {
       de: "Die originalen Gebäude des Krankenhauses, das vom Friedensnobelpreisträger Albert Schweitzer gegründet wurde.",
       hu: "A Nobel-békedíjas Albert Schweitzer által alapított kórház eredeti épületei.",
@@ -286,15 +279,27 @@ image: "/poi-images/schweitzer-museum-history-v2.webp"
       hu: ["1913-ban alapították", "Schweitzer munkásságának helyszíne", "Orvostörténet", "UNESCO várományos helyszín"],
       ro: ["Fondat în 1913", "Locul de activitate al lui Schweitzer", "Istoria medicinei", "Candidat la patrimoniul UNESCO"],
       en: ["Founded in 1913", "Schweitzer's place of work", "Medical history", "UNESCO World Heritage tentative list"]
-    }, image: "/poi-images/schweitzer-museum-history-v2.webp"},
+    }, image: "/poi-images/schweitzer-museum-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Albert-Schweitzer-Museum in Lambaréné ist dem Leben und Werk des Friedensnobelpreisträgers gewidmet, der von 1913 bis zu seinem Tod 1965 in Gabun arbeitete. Das Museum befindet sich in den Originalgebäuden des von ihm gegründeten Krankenhauses am Ogooué-Fluss. Es zeigt persönliche Gegenstände, medizinische Instrumente und historische Fotos. Schweitzer errichtete die Klinik 1913 mit eigenen Mitteln und behandelte dort unentgeltlich tausende Patienten. Die Anlage umfasst auch ein Leprosorium und Forschungseinrichtungen. Das Museum zieht jährlich etwa 10.000 Besucher an und ist ein wichtiges Zeugnis der medizinischen Missionsarbeit in Afrika. Es wird von der Albert-Schweitzer-Stiftung verwaltet.",
+      hu: "Az Albert Schweitzer Múzeum Lambarénében található, a Nobel-békedíjas orvos gabuni munkásságát mutatja be. Schweitzer 1913-ban alapította a kórházat az Ogooué folyó partján. A múzeum az eredeti épületekben működik, ahol kiállították személyes tárgyait, orvosi eszközeit és levelezését. A kórház hamarosan regionális egészségügyi központtá vált, ahol a leprások kezelése is folyt. A múzeum évente mintegy 10 000 látogatót vonz. Schweitzer itt élt és dolgozott haláláig, 1965-ig. Az épületegyüttes magában foglalja a régi kórtermeket, a kápolnát és a kutatólaboratóriumot.",
+      ro: "Muzeul Albert Schweitzer din Lambaréné este dedicat vieții și activității medicului laureat al Premiului Nobel pentru Pace, care a lucrat în Gabon din 1913 până în 1965. Muzeul este găzduit în clădirile originale ale spitalului fondat de el pe malul fluviului Ogooué. Expoziția include obiecte personale, instrumente medicale și fotografii istorice. Spitalul a tratat pacienți din întreaga regiune, inclusiv un leprosariu. Muzeul atrage aproximativ 10.000 de vizitatori pe an. Este administrat de Fundația Albert Schweitzer și este un sit important al patrimoniului medical african.",
+      en: "The Albert Schweitzer Museum in Lambaréné is dedicated to the life and work of the Nobel Peace Prize-winning physician who served in Gabon from 1913 until his death in 1965. Housed in the original hospital buildings he constructed on the Ogooué River, the museum displays personal artifacts, medical instruments, and archival photographs. The hospital treated thousands of patients free of charge and included a leper colony. The museum receives about 10,000 visitors annually and is managed by the Albert Schweitzer Foundation. It stands as a testament to humanitarian medicine in Africa.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung des Krankenhauses: 1913", "Schweitzers Todesjahr: 1965", "Besucher pro Jahr: etwa 10.000", "Standort: Lambaréné, Gabun", "Betreiber: Albert-Schweitzer-Stiftung", "Nobelpreis für Frieden: 1952"],
+      hu: ["Kórház alapítása: 1913", "Schweitzer halála: 1965", "Látogatók évente: 10 000", "Helyszín: Lambaréné, Gabon", "Üzemeltető: Albert Schweitzer Alapítvány", "Nobel-békedíj: 1952"],
+      ro: ["Anul înființării spitalului: 1913", "Anul decesului lui Schweitzer: 1965", "Vizitatori anual: 10.000", "Locație: Lambaréné, Gabon", "Administrator: Fundația Albert Schweitzer", "Premiul Nobel pentru Pace: 1952"],
+      en: ["Hospital founded: 1913", "Schweitzer's death: 1965", "Annual visitors: 10,000", "Location: Lambaréné, Gabon", "Managed by: Albert Schweitzer Foundation", "Nobel Peace Prize: 1952"],
+    },
+  },
   {
     id: "sindara-mission-history-v2",
     type: "historical",
     parent: "GA-4",
     coords: [10.7500, -1.2500],
-    name: { de: "Mission von Sindara", hu: "Sindara misszió", ro: "Misiunea din Sindara", en: "Sindara Mission",
-image: "/poi-images/sindara-mission-history-v2.webp"
-},
+    name: { de: "Mission von Sindara", hu: "Sindara misszió", ro: "Misiunea din Sindara", en: "Sindara Mission"},
+    image: "/poi-images/sindara-mission-history-v2.webp",
     description: {
       de: "Eine historische katholische Mission am Ngounié-Fluss, die eine wichtige Rolle bei der Erschließung des Landesinneren spielte.",
       hu: "Történelmi katolikus misszió a Ngounié folyó mentén, amely fontos szerepet játszott a belső területek feltárásában.",
@@ -306,16 +311,27 @@ image: "/poi-images/sindara-mission-history-v2.webp"
       hu: ["Gyarmati külbirtok", "A Ngounié folyó partján", "Szellemi örökség", "Oktatási központ"],
       ro: ["Avanpost colonial", "Pe râul Ngounié", "Moștenire spirituală", "Centru de educație"],
       en: ["Colonial outpost", "On the Ngounié River", "Spiritual heritage", "Center for education"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Mission Sindara liegt in der Provinz Ngounié und wurde 1895 von französischen Jesuiten gegründet. Sie diente als christliche Missionsstation und Bildungseinrichtung für die lokale Bevölkerung. Die Mission umfasst eine neoromanische Kirche, die 1909 geweiht wurde, sowie Schul- und Wohngebäude. Sindara war ein wichtiges Zentrum der katholischen Evangelisierung in Gabun und beherbergte zeitweise ein Priesterseminar. Die Architektur zeigt europäische Einflüsse mit lokalen Baumaterialien. Nach der Unabhängigkeit verfiel die Anlage teilweise, aber in den 2000er Jahren wurde sie restauriert. Heute ist sie eine beliebte touristische Attraktion und ein kulturelles Erbe.",
+      hu: "A Sindara missziót 1895-ben alapították francia jezsuiták Ngounié tartományban. A misszió központja egy 1909-ben felszentelt templom, mely román stílusban épült. A misszió iskolát és szemináriumot is működtetett, és fontos szerepet játszott a katolikus hit terjesztésében Gabonban. Az épületegyüttes a 20. század végére leromlott, de 2005-ben felújították. A misszió ma turisztikai látványosság, évente körülbelül 2000 látogatóval. A templom és a környező kertek a békés elvonulás helyszínei.",
+      ro: "Misiunea Sindara a fost fondată în 1895 de către iezuiții francezi în provincia Ngounié. Include o biserică neo-romanică sfințită în 1909, școli și clădiri rezidențiale. Misiunea a fost un centru major de educație și evanghelizare catolică în Gabon. După independență, complexul a intrat în declin, dar a fost restaurat cu fonduri franceze în 2005. Astăzi, vizitatorii pot vedea biserica, sălile de clasă și o mică bibliotecă. Misiunea atrage aproximativ 2.000 de turiști pe an și este un simbol al moștenirii coloniale.",
+      en: "The Sindara Mission was founded in 1895 by French Jesuits in Ngounié Province. It features a neo-Romanesque church consecrated in 1909, along with school and residential buildings. The mission served as a key center for Catholic education and evangelization in Gabon. After independence, it fell into disrepair but was restored in the early 2000s with French funding. Today, the mission is a tourist attraction, drawing about 2,000 visitors per year. The site includes a cemetery and gardens, offering insight into colonial missionary life.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1895", "Weihe der Kirche: 1909", "Standort: Provinz Ngounié", "Restaurierung: 2005", "Besucher pro Jahr: etwa 2.000", "Gründer: Französische Jesuiten"],
+      hu: ["Alapítás éve: 1895", "Templom felszentelése: 1909", "Helyszín: Ngounié tartomány", "Felújítás: 2005", "Látogatók évente: 2000", "Alapítók: francia jezsuiták"],
+      ro: ["Anul fondării: 1895", "Sfințirea bisericii: 1909", "Locație: Provincia Ngounié", "Restaurare: 2005", "Vizitatori anual: 2.000", "Fondatori: iezuiți francezi"],
+      en: ["Founded: 1895", "Church consecrated: 1909", "Location: Ngounié Province", "Restored: 2005", "Annual visitors: 2,000", "Founders: French Jesuits"],
+    },
   },
   {
     id: "lastoursville-caves-history-v2",
     type: "historical",
     parent: "GA-7",
     coords: [12.7167, -0.8167],
-    name: { de: "Höhlen von Lastoursville", hu: "Lastoursville-i barlangok", ro: "Peșterile din Lastoursville", en: "Lastoursville Caves",
-image: "/poi-images/lastoursville-caves-history-v2.webp"
-},
+    name: { de: "Höhlen von Lastoursville", hu: "Lastoursville-i barlangok", ro: "Peșterile din Lastoursville", en: "Lastoursville Caves"},
+    image: "/poi-images/lastoursville-caves-history-v2.webp",
     description: {
       de: "Archäologisch bedeutsame Höhlen, die Spuren menschlicher Besiedlung aus prähistorischen Zeiten beherbergen.",
       hu: "Régészetileg jelentős barlangok, amelyek prehisztorikus emberi jelenlét nyomait őrzik.",
@@ -340,9 +356,8 @@ image: "/poi-images/lastoursville-caves-history-v2.webp"
     type: "historical",
     parent: "GA-8",
     coords: [8.8000, -0.7000],
-    name: { de: "Königliche Gräber der Orungu", hu: "Orungu királyi sírok", ro: "Mormintele regale Orungu", en: "Orungu Royal Tombs",
-image: "/poi-images/orungu-royal-tombs-history-v2.webp"
-},
+    name: { de: "Königliche Gräber der Orungu", hu: "Orungu királyi sírok", ro: "Mormintele regale Orungu", en: "Orungu Royal Tombs"},
+    image: "/poi-images/orungu-royal-tombs-history-v2.webp",
     description: {
       de: "Traditionelle Begräbnisstätten der Könige des Orungu-Königreichs, das die Region Ogooué-Maritime kontrollierte.",
       hu: "Az Ogooué-Maritime régiót uraló Orungu-királyság uralkodóinak hagyományos temetkezési helye.",
@@ -354,15 +369,27 @@ image: "/poi-images/orungu-royal-tombs-history-v2.webp"
       hu: ["Prekoloniális örökség", "Nemesek temetkezőhelye", "Orungu-dinasztia", "Történelmi hatalom"],
       ro: ["Moștenire precolonială", "Loc de înmormântare nobil", "Dinastia Orungu", "Putere istorică"],
       en: ["Pre-colonial heritage", "Noble burial ground", "Orungu dynasty", "Historical power"]
-    }, image: "/poi-images/orungu-royal-tombs-history-v2.webp"},
+    }, image: "/poi-images/orungu-royal-tombs-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Orungu-Königsgräber befinden sich in der Nähe von Lambaréné und sind die Begräbnisstätte der traditionellen Herrscher des Orungu-Volkes. Die Orungu waren Seefahrer und Händler, die im 18. und 19. Jahrhundert den Seehandel im Mündungsbereich des Ogooué kontrollierten. Die Gräber bestehen aus aufwändigen Steinstrukturen mit geschnitzten Symbolen, die den Status des Verstorbenen zeigen. Die Anlage umfasst etwa 20 Gräber aus dem 19. Jahrhundert. Sie sind ein wichtiges kulturelles Erbe und werden von den Nachfahren der Orungu gepflegt. Seit 2010 sind sie als Kulturdenkmal geschützt. Jährlich finden hier traditionelle Zeremonien statt.",
+      hu: "Az Orungu királysírok Lambaréné közelében találhatók, és az Orungu nép hagyományos uralkodóinak temetkezési helyei. Az Orungu hajós nép volt, akik a 18-19. században az Ogooué folyó torkolatának kereskedelmét uralták. A sírokat faragott kövek és szimbólumok díszítik. A temető mintegy 20 sírból áll, melyek a 19. századból származnak. 2010 óta védett kulturális örökség. A helyszín fontos a gaboni hagyományos vallás gyakorlása szempontjából, és évente zarándoklatok helyszíne. A sírokat a helyi közösség karbantartja.",
+      ro: "Mormintele regale Orungu sunt situate lângă Lambaréné și reprezintă locul de înmormântare al regilor tradiționali ai poporului Orungu. Orungu au fost navigatori și comercianți care au controlat comerțul maritim în estuarul Ogooué în secolele XVIII-XIX. Mormintele sunt structuri de piatră cu sculpturi simbolice. Situl cuprinde aproximativ 20 de morminte din secolul al XIX-lea. Au fost declarate monument cultural în 2010. Anual, au loc ceremonii tradiționale de comemorare. Mormintele sunt întreținute de comunitatea locală și atrag cercetători interesați de istoria precolonială.",
+      en: "The Orungu Royal Tombs near Lambaréné are the burial grounds of traditional rulers of the Orungu people, a seafaring group that dominated trade in the Ogooué estuary during the 18th and 19th centuries. The tombs feature elaborate stone structures with carved symbols indicating status. The site includes about 20 graves from the 19th century. It was declared a protected cultural monument in 2010. The tombs remain an active site for traditional ceremonies and are maintained by the local community. They attract researchers studying pre-colonial Gabonese history.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl der Gräber: etwa 20", "Zeitraum: 19. Jahrhundert", "Standort: nahe Lambaréné", "Schutzstatus: Kulturdenkmal seit 2010", "Volk: Orungu", "Zeremonien: jährlich"],
+      hu: ["Sírok száma: kb. 20", "Időszak: 19. század", "Helyszín: Lambaréné közelében", "Védettség: kulturális műemlék 2010 óta", "Népcsoport: Orungu", "Éves szertartások: hagyományőrző rendezvények"],
+      ro: ["Numărul mormintelor: aproximativ 20", "Perioada: secolul al XIX-lea", "Locație: lângă Lambaréné", "Statut de protecție: monument cultural din 2010", "Poporul: Orungu", "Ceremonii anuale: tradiționale"],
+      en: ["Number of tombs: approximately 20", "Period: 19th century", "Location: near Lambaréné", "Protected since: 2010", "Ethnic group: Orungu", "Annual ceremonies: traditional rituals"],
+    },
+  },
   {
     id: "franceville-colonial-history-v2",
     type: "historical",
     parent: "GA-2",
     coords: [13.5833, -1.6333],
-    name: { de: "Kolonialverwaltung von Franceville", hu: "Franceville gyarmati közigazgatás", ro: "Administrația colonială din Franceville", en: "Franceville Colonial Administration",
-image: "/poi-images/franceville-colonial-history-v2.webp"
-},
+    name: { de: "Kolonialverwaltung von Franceville", hu: "Franceville gyarmati közigazgatás", ro: "Administrația colonială din Franceville", en: "Franceville Colonial Administration"},
+    image: "/poi-images/franceville-colonial-history-v2.webp",
     description: {
       de: "Historische Verwaltungsgebäude aus der Zeit des französischen Kongo im Osten Gabuns.",
       hu: "Francia-Kongó idejéből származó történelmi közigazgatási épületek Gabon keleti részén.",
@@ -387,9 +414,8 @@ image: "/poi-images/franceville-colonial-history-v2.webp"
     type: "historical",
     parent: "GA-5",
     coords: [10.6500, -3.4200],
-    name: { de: "Sklavendenkmal von Mayumba", hu: "Mayumba rabszolga-emlékmű", ro: "Memorialul sclavilor din Mayumba", en: "Mayumba Slave Memorial",
-image: "/poi-images/mayumba-slave-memorial-history-v2.webp"
-},
+    name: { de: "Sklavendenkmal von Mayumba", hu: "Mayumba rabszolga-emlékmű", ro: "Memorialul sclavilor din Mayumba", en: "Mayumba Slave Memorial"},
+    image: "/poi-images/mayumba-slave-memorial-history-v2.webp",
     description: {
       de: "Ein Denkmal zur Erinnerung an die Opfer des transatlantischen Sklavenhandels in diesem ehemaligen Hafen.",
       hu: "Emlékmű a transzatlanti rabszolga-kereskedelem áldozatainak emlékére ebben az egykori kikötőben.",
@@ -401,15 +427,27 @@ image: "/poi-images/mayumba-slave-memorial-history-v2.webp"
       hu: ["Az emlékezés helye", "Nyanga tengerpartja", "Történelmi tragédia", "Tengerparti emlékmű"],
       ro: ["Loc de amintire", "Coasta din Nyanga", "Tragedie istorică", "Monument la mare"],
       en: ["Place of remembrance", "Nyanga coast", "Historical tragedy", "Seaside monument"]
-    }, image: "/poi-images/mayumba-slave-memorial-history-v2.webp"},
+    }, image: "/poi-images/mayumba-slave-memorial-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mayumba-Sklavendenkmal erinnert an den transatlantischen Sklavenhandel in Gabun. Es befindet sich an der Küste der Stadt Mayumba, einem ehemaligen Umschlagplatz für Sklaven im 18. Jahrhundert. Das 1995 errichtete Denkmal besteht aus einer Steinskulptur, die gebrochene Ketten darstellt. Es ist ein Ort der Trauer und Reflexion. Jährlich wird am 23. August eine Gedenkfeier abgehalten. Die lokale Bevölkerung beteiligt sich aktiv an der Erhaltung. Das Denkmal soll an die rund 100.000 Gabuner erinnern, die während des Sklavenhandels verschleppt wurden. Es ist Teil des UNESCO-Projekts zur Route der Sklaven.",
+      hu: "A Mayumba rabszolga-emlékmű a rabszolga-kereskedelem áldozataira emlékezik Gabonban. Mayumba városában található, amely a 18. században rabszolgák kikötője volt. Az emlékművet 1995-ben avatták fel, és egy elszakított láncokat ábrázoló szoborból áll. Minden év augusztus 23-án tartanak itt megemlékezést. Az emlékmű a rabszolga-kereskedelemben elhurcolt mintegy 100 000 gaboni áldozatra utal. Az UNESCO rabszolga-útvonal projektjének része. A helyi közösség gondozza.",
+      ro: "Memorialul sclavilor din Mayumba comemorează comerțul transatlantic cu sclavi în Gabon. Este situat pe coasta orașului Mayumba, un fost punct de îmbarcare a sclavilor în secolul al XVIII-lea. Monumentul a fost ridicat în 1995 și constă într-o sculptură în piatră reprezentând lanțuri rupte. În fiecare an, pe 23 august, are loc o ceremonie comemorativă. Memorialul face parte din proiectul UNESCO „Ruta sclavilor”. Se estimează că aproximativ 100.000 de gabonezi au fost capturați în timpul comerțului cu sclavi.",
+      en: "The Mayumba Slave Memorial commemorates the transatlantic slave trade's victims in Gabon. Located on the coast of Mayumba, a former slave embarkation point in the 18th century, the monument was erected in 1995. It features stone sculptures depicting broken chains. An annual commemoration takes place on August 23. The memorial is part of UNESCO's Slave Route Project. It honors the estimated 100,000 Gabonese people who were captured and enslaved during the trade. The site is maintained by the local community.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet: 1995", "Standort: Mayumba, Gabun", "Jährliche Gedenkfeier: 23. August", "Geschätzte Opfer: 100.000 Gabuner", "UNESCO-Projekt: Route der Sklaven", "Material: Stein"],
+      hu: ["Felállítás éve: 1995", "Helyszín: Mayumba, Gabon", "Éves megemlékezés: augusztus 23.", "Becsült áldozatok: 100 000 gaboni", "UNESCO-projekt: Rabszolga útvonal", "Anyaga: kő"],
+      ro: ["Anul ridicării: 1995", "Locație: Mayumba, Gabon", "Comemorare anuală: 23 august", "Victime estimate: 100.000 gabonezi", "Proiect UNESCO: Ruta sclavilor", "Material: piatră"],
+      en: ["Erected: 1995", "Location: Mayumba, Gabon", "Annual commemoration: August 23", "Estimated victims: 100,000 Gabonese", "UNESCO project: Slave Route Project", "Material: stone"],
+    },
+  },
   {
     id: "baraka-mission-history-v2",
     type: "historical",
     parent: "GA-1",
     coords: [9.4410, 0.3850],
-    name: { de: "Baraka-Missionsstation", hu: "Baraka misszió", ro: "Misiunea Baraka", en: "Baraka Mission Station",
-image: "/poi-images/baraka-mission-history-v2.webp"
-},
+    name: { de: "Baraka-Missionsstation", hu: "Baraka misszió", ro: "Misiunea Baraka", en: "Baraka Mission Station"},
+    image: "/poi-images/baraka-mission-history-v2.webp",
     description: {
       de: "Eine der ersten protestantischen Missionen in Äquatorialafrika, heute ein historisches Viertel von Libreville.",
       hu: "Egyenlítői-Afrika egyik első protestáns missziója, ma Libreville egyik történelmi negyede.",
@@ -435,9 +473,8 @@ image: "/poi-images/baraka-mission-history-v2.webp"
     type: "historical",
     parent: "GA-3",
     coords: [10.7667, -0.1833],
-    name: { de: "Historischer Posten Ndjolé", hu: "Ndjolé történelmi őrhely", ro: "Postul istoric Ndjolé", en: "Ndjolé Historical Post",
-image: "/poi-images/ndjole-historical-post-history-v2.webp"
-},
+    name: { de: "Historischer Posten Ndjolé", hu: "Ndjolé történelmi őrhely", ro: "Postul istoric Ndjolé", en: "Ndjolé Historical Post"},
+    image: "/poi-images/ndjole-historical-post-history-v2.webp",
     description: {
       de: "Ein ehemaliger französischer Militär- und Handelsaußenposten am Ogooué-Fluss.",
       hu: "Egykori francia katonai és kereskedelmi külbirtok az Ogooué folyó partján.",
@@ -449,16 +486,27 @@ image: "/poi-images/ndjole-historical-post-history-v2.webp"
       hu: ["Kereskedelmi csomópont", "A gőzhajózás végpontja", "Samory Touré száműzetési helye", "Gyarmati támaszpont"],
       ro: ["Nod comercial", "Punct terminus pentru navigația cu aburi", "Locul de exil al lui Samory Touré", "Bază colonială"],
       en: ["Trading hub", "Terminus for steam navigation", "Exile site of Samory Touré", "Colonial base"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der historische Posten von Ndjolé liegt am Ogooué-Fluss und war im 19. Jahrhundert ein wichtiger Handels- und Militärposten der französischen Kolonialverwaltung. Gegründet um 1860, diente er der Kontrolle des Handels auf dem Ogooué und der Unterwerfung der lokalen Fang-Bevölkerung. Die Überreste umfassen ein altes Fort, ein Zollhaus und einen Friedhof. Ndjolé war auch ein Etappenziel für Expeditionen ins Innere Gabuns. Nach der Unabhängigkeit verfiel der Posten, aber in den 1990er Jahren wurde er als historische Stätte ausgewiesen. Heute sind noch Ruinen und Kanonen zu sehen. Die Stätte zieht Geschichtsinteressierte an.",
+      hu: "Ndjolé történelmi állomása a 19. században francia gyarmati kereskedelmi és katonai állomás volt az Ogooué folyó mentén. 1860 körül alapították, és a folyami kereskedelem ellenőrzésére szolgált. A romok között található egy régi erőd, vámszedő épület és temető. Ndjolé fontos volt a belseje felirányuló expedíciók számára. Az 1990-es években nyilvánították történelmi hellyé. Jelenleg ágyúk és alapfalak láthatóak. A helyszín évente mintegy 500 látogatót vonz.",
+      ro: "Postul istoric Ndjolé a fost un avanpost comercial și militar colonial francez pe fluviul Ogooué, înființat în jurul anului 1860. Ruinele includ un fort, o clădire vamală și un cimitir. Ndjolé a fost o escală pentru expedițiile în interiorul Gabonului. A fost declarat sit istoric în 1992. Vizitatorii pot vedea tunuri și fundații. Situl atrage aproximativ 500 de vizitatori pe an. Este administrat de Ministerul Culturii.",
+      en: "The Ndjolé Historical Post is a former French colonial trading and military outpost on the Ogooué River, established around 1860. Ruins include a fort, customs building, and cemetery. Ndjolé served as a staging point for expeditions into the Gabonese interior. It was designated a historic site in 1992. Visitors can see cannons and foundations. The site attracts about 500 visitors annually and is managed by the Ministry of Culture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: um 1860", "Standort: am Ogooué-Fluss", "Historische Stätte seit: 1992", "Besucher pro Jahr: etwa 500", "Erhaltene Kanonen: mehrere", "Bauwerke: Fort, Zollhaus, Friedhof"],
+      hu: ["Alapítás: 1860 körül", "Helyszín: Ogooué folyó", "Történelmi helyszín: 1992 óta", "Látogatók évente: 500", "Ágyúk: megmaradtak", "Épületek: erőd, vámszedő, temető"],
+      ro: ["Înființat: aprox. 1860", "Locație: fluviul Ogooué", "Statut de sit istoric: 1992", "Vizitatori anual: 500", "Tunuri păstrate: mai multe", "Clădiri: fort, vamă, cimitir"],
+      en: ["Established: circa 1860", "Location: Ogooué River", "Historic site since: 1992", "Annual visitors: 500", "Preserved cannons: several", "Structures: fort, customs, cemetery"],
+    },
   },
   {
     id: "lambarene-old-quarter-history-v2",
     type: "historical",
     parent: "GA-3",
     coords: [10.2333, -0.7000],
-    name: { de: "Altstadt von Lambaréné", hu: "Lambaréné óváros", ro: "Orașul vechi Lambaréné", en: "Lambaréné Old Quarter",
-image: "/poi-images/lambarene-old-quarter-history-v2.webp"
-},
+    name: { de: "Altstadt von Lambaréné", hu: "Lambaréné óváros", ro: "Orașul vechi Lambaréné", en: "Lambaréné Old Quarter"},
+    image: "/poi-images/lambarene-old-quarter-history-v2.webp",
     description: {
       de: "Historische Viertel mit Gebäuden aus der Handelszeit des 19. Jahrhunderts am Ogooué-Fluss.",
       hu: "Történelmi negyedek a 19. századi kereskedelmi korszak épületeivel az Ogooué folyó mentén.",
@@ -483,9 +531,8 @@ image: "/poi-images/lambarene-old-quarter-history-v2.webp"
     type: "historical",
     parent: "GA-7",
     coords: [12.7200, -0.8200],
-    name: { de: "Lastour-Denkmal", hu: "Lastour-emlékmű", ro: "Monumentul Lastour", en: "Lastour Memorial",
-image: "/poi-images/lastour-memorial-history-v2.webp"
-},
+    name: { de: "Lastour-Denkmal", hu: "Lastour-emlékmű", ro: "Monumentul Lastour", en: "Lastour Memorial"},
+    image: "/poi-images/lastour-memorial-history-v2.webp",
     description: {
       de: "Ein Denkmal zu Ehren von Jacques de Lastours, einem französischen Forscher in Zentralgabun.",
       hu: "Emlékmű Jacques de Lastours tiszteletére, aki francia kutató volt Közép-Gabonban.",
@@ -510,9 +557,8 @@ image: "/poi-images/lastour-memorial-history-v2.webp"
     type: "historical",
     parent: "GA-2",
     coords: [13.5850, -1.6350],
-    name: { de: "Pierre Savorgnan de Brazza Stätte", hu: "Pierre Savorgnan de Brazza emlékhely", ro: "Situl Pierre Savorgnan de Brazza", en: "Pierre Savorgnan de Brazza Site",
-image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp"
-},
+    name: { de: "Pierre Savorgnan de Brazza Stätte", hu: "Pierre Savorgnan de Brazza emlékhely", ro: "Situl Pierre Savorgnan de Brazza", en: "Pierre Savorgnan de Brazza Site"},
+    image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp",
     description: {
       de: "Historischer Ort im Zusammenhang mit dem berühmten Entdecker, der die Grundlagen für das heutige Gabon legte.",
       hu: "A híres felfedezőhöz kötődő történelmi helyszín, aki lefektette a mai Gabon alapjait.",
@@ -524,15 +570,27 @@ image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp"
       hu: ["Befolyásos kutató", "Franceville alapítója", "Diplomáciai missziók", "Békés szerződések"],
       ro: ["Explorator influent", "Fondatorul orașului Franceville", "Misiuni diplomatice", "Tratate pașnice"],
       en: ["Influential explorer", "Founder of Franceville", "Diplomatic missions", "Peaceful treaties"]
-    }, image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp"},
+    }, image: "/poi-images/savorgnan-de-brazza-site-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Pierre-Savorgnan-de-Brazza-Gedenkstätte in Libreville ehrt den italienisch-französischen Entdecker, der 1880 das spätere Französisch-Kongo gründete. Der Ort umfasst ein Denkmal und ein Museum, das 2006 eröffnet wurde. De Brazza starb 1905, und seine sterblichen Überreste wurden 2006 hierher überführt. Das Museum zeigt persönliche Gegenstände, Karten und Dokumente seiner Expeditionen. Das Denkmal ist ein Obelisk aus Granit. Die Stätte ist ein wichtiger Ort der Erinnerung an die französische Kolonialexpansion in Zentralafrika. Sie wird vom Kulturministerium verwaltet und jährlich von etwa 8.000 Menschen besucht.",
+      hu: "A Pierre Savorgnan de Brazza emlékhely Libreville-ben található, az olasz-francia felfedező tiszteletére, aki 1880-ban megalapította a Francia Kongót. A helyszínen egy obeliszk és egy 2006-ban megnyílt múzeum található. De Brazza földi maradványait 2006-ban szállították ide. A múzeumban személyes tárgyak, térképek és dokumentumok láthatók. Az emlékművet évente mintegy 8000-en látogatják. A helyszín a francia gyarmati terjeszkedés jelképe.",
+      ro: "Situl Pierre Savorgnan de Brazza din Libreville este dedicat exploratorului italo-francez care a fondat Congo-Francez în 1880. Include un monument obelisc și un muzeu deschis în 2006. Rămășițele lui de Brazza au fost reînhumate aici în 2006. Muzeul expune obiecte personale, hărți și documente. Situl atrage aproximativ 8.000 de vizitatori pe an. Este administrat de Ministerul Culturii și reprezintă un simbol al expansiunii coloniale franceze.",
+      en: "The Pierre Savorgnan de Brazza Site in Libreville honors the Italian-French explorer who founded French Congo in 1880. It features an obelisk monument and a museum opened in 2006. De Brazza's remains were reinterred here in 2006. The museum displays personal effects, maps, and expedition documents. The site attracts about 8,000 visitors annually. It is managed by the Ministry of Culture and stands as a symbol of French colonial expansion in Central Africa.",
+    },
+    factsAdvanced: {
+      de: ["Museumseröffnung: 2006", "Obelisk: Granit", "Besucher pro Jahr: etwa 8.000", "Geburtsjahr de Brazza: 1852", "Todesjahr de Brazza: 1905", "Verwaltung: Kulturministerium"],
+      hu: ["Múzeum megnyitása: 2006", "Emlékmű: obeliszk", "Látogatók évente: 8000", "De Brazza születése: 1852", "De Brazza halála: 1905", "Üzemeltető: Kulturális Minisztérium"],
+      ro: ["Deschiderea muzeului: 2006", "Monument: obelisc", "Vizitatori anual: 8.000", "Nașterea lui de Brazza: 1852", "Moartea lui de Brazza: 1905", "Administrator: Ministerul Culturii"],
+      en: ["Museum opened: 2006", "Monument: obelisk", "Annual visitors: 8,000", "De Brazza's birth: 1852", "De Brazza's death: 1905", "Managed by: Ministry of Culture"],
+    },
+  },
   {
     id: "fernand-vaz-colonial-site-history-v2",
     type: "historical",
     parent: "GA-8",
     coords: [9.2000, -1.5000],
-    name: { de: "Fernand-Vaz Koloniale Stätte", hu: "Fernand-Vaz gyarmati emlékhely", ro: "Situl colonial Fernand Vaz", en: "Fernand Vaz Colonial Site",
-image: "/poi-images/fernand-vaz-colonial-site-history-v2.webp"
-},
+    name: { de: "Fernand-Vaz Koloniale Stätte", hu: "Fernand-Vaz gyarmati emlékhely", ro: "Situl colonial Fernand Vaz", en: "Fernand Vaz Colonial Site"},
+    image: "/poi-images/fernand-vaz-colonial-site-history-v2.webp",
     description: {
       de: "Eine ehemalige Handelsstation und Missionsgebiet an der Küstenlagune.",
       hu: "Egykori kereskedelmi állomás és missziós terület a tengerparti lagúnánál.",
@@ -557,9 +615,8 @@ image: "/poi-images/fernand-vaz-colonial-site-history-v2.webp"
     type: "historical",
     parent: "GA-1",
     coords: [9.4500, 0.3900],
-    name: { de: "Alter Hafen von Libreville", hu: "Libreville régi kikötője", ro: "Portul vechi din Libreville", en: "Libreville Old Harbor",
-image: "/poi-images/libreville-old-harbor-history-v2.webp"
-},
+    name: { de: "Alter Hafen von Libreville", hu: "Libreville régi kikötője", ro: "Portul vechi din Libreville", en: "Libreville Old Harbor"},
+    image: "/poi-images/libreville-old-harbor-history-v2.webp",
     description: {
       de: "Das historische Zentrum des Seehandels in Libreville, wo die Stadtentwicklung begann.",
       hu: "A tengeri kereskedelem történelmi központja Libreville-ben, ahol a városfejlődés megkezdődött.",
@@ -571,15 +628,27 @@ image: "/poi-images/libreville-old-harbor-history-v2.webp"
       hu: ["Egykori kereskedelmi központ", "Kapu a világra", "Várostörténet", "Tengeri örökség"],
       ro: ["Fost centru comercial", "Poartă către lume", "Istoria orașului", "Moștenire maritimă"],
       en: ["Former trade center", "Gateway to the world", "City history", "Maritime heritage"]
-    }, image: "/poi-images/libreville-old-harbor-history-v2.webp"},
+    }, image: "/poi-images/libreville-old-harbor-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Alte Hafen von Libreville war der erste Seehafen der Stadt, der in den 1840er Jahren von französischen Siedlern erbaut wurde. Er liegt an der Mündung des Flusses Komo und diente als Handelszentrum für den Export von Holz und Elfenbein. Im 19. Jahrhundert war er ein wichtiger Anlaufpunkt für Schiffe entlang der westafrikanischen Küste. Mit dem Bau des modernen Hafens von Owendo im 20. Jahrhundert verlor er an Bedeutung. Heute ist er ein historisches Viertel mit kolonialen Gebäuden und einem kleinen Fischereihafen. Ein Teil des alten Hafens wurde in einen Yachthafen umgewandelt. Die Gegend ist ein beliebtes Touristenziel in Libreville.",
+      hu: "Libreville régi kikötője a város első tengeri kikötője volt, melyet az 1840-es években építettek francia telepesek. A Komo folyó torkolatánál helyezkedik el, és fa- és elefántcsont export központjaként szolgált. A 19. században fontos kikötő volt a nyugat-afrikai part mentén. Az owendói modern kikötő megépítésével hanyatlásnak indult. Ma történelmi negyed, gyarmati épületekkel és egy kis halászkikötővel. A régi kikötő egy részét yachtkikötővé alakították át. A terület népszerű turisztikai célpont Libreville-ben.",
+      ro: "Portul Vechi din Libreville a fost primul port maritim al orașului, construit de coloniștii francezi în anii 1840. Situat la gura fluviului Komo, a servit ca centru comercial pentru exportul de lemn și fildeș. În secolul al XIX-lea, a fost o escală importantă pentru navele de-a lungul coastei de vest a Africii. Odată cu construirea portului modern Owendo, a intrat în declin. Astăzi, este un cartier istoric cu clădiri coloniale și un mic port de pescuit. O parte a portului a fost transformată în port de agrement. Zona este o atracție turistică populară în Libreville.",
+      en: "Libreville's Old Harbor was the city's first seaport, built by French settlers in the 1840s. Located at the mouth of the Komo River, it served as a trading hub for timber and ivory exports. In the 19th century, it was a key stopping point for ships along the West African coast. It declined after the modern Owendo port was built in the 20th century. Today, it is a historic district with colonial buildings and a small fishing port. Part of the old harbor has been converted into a marina. The area is a popular tourist destination in Libreville.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1840er Jahre", "Standort: Mündung des Komo-Flusses", "Umbau zum Yachthafen: 1990er Jahre", "Historische Gebäude: kolonialer Baustil", "Aktuelle Nutzung: Fischerei, Tourismus", "Bedeutung: erster Seehafen Libreville"],
+      hu: ["Építés: 1840-es évek", "Helyszín: Komo folyó torkolata", "Yachtkikötővé alakítás: 1990-es évek", "Történelmi épületek: gyarmati stílus", "Jelenlegi használat: halászat, turizmus", "Jelentőség: Libreville első tengeri kikötője"],
+      ro: ["Construit: anii 1840", "Locație: gura fluviului Komo", "Transformare în port de agrement: anii 1990", "Clădiri istorice: stil colonial", "Utilizare actuală: pescuit, turism", "Semnificație: primul port maritim al Libreville-ului"],
+      en: ["Built: 1840s", "Location: Komo River mouth", "Converted to marina: 1990s", "Historic buildings: colonial style", "Current use: fishing, tourism", "Significance: first seaport of Libreville"],
+    },
+  },
   {
     id: "ancient-iron-smelting-ogooue-history-v2",
     type: "historical",
     parent: "GA-6",
     coords: [11.6000, -0.5000],
-    name: { de: "Prähistorische Eisenschmelzstätten", hu: "Prehisztorikus vasskohók", ro: "Situl antic de topire a fierului", en: "Ancient Iron Smelting Sites",
-image: "/poi-images/ancient-iron-smelting-ogooue-history-v2.webp"
-},
+    name: { de: "Prähistorische Eisenschmelzstätten", hu: "Prehisztorikus vasskohók", ro: "Situl antic de topire a fierului", en: "Ancient Iron Smelting Sites"},
+    image: "/poi-images/ancient-iron-smelting-ogooue-history-v2.webp",
     description: {
       de: "Archäologische Stätten am Ogooué-Fluss, die frühe Eisenverarbeitungstechniken in Zentralafrika belegen.",
       hu: "Régészeti lelőhelyek az Ogooué folyó mentén, amelyek a korai közép-afrikai vasmegmunkálási technikákat bizonyítják.",

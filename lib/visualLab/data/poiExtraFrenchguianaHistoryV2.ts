@@ -17,16 +17,10 @@ export const poiExtraFrenchguianaHistoryV2: POI[] = [
       de: "Das Camp de la Transportation in Saint-Laurent-du-Maroni war die zentrale Ankunftsstation für alle Sträflinge, die zur Zwangsarbeit nach Französisch-Guayana deportiert wurden. Von hier aus wurden die Gefangenen in die verschiedenen Straflager der Region verteilt, darunter auch auf die berüchtigten Teufelsinseln. Die Anlage ist ein ergreifendes Zeugnis der grausamen Haftbedingungen und der administrativen Maschinerie des französischen Strafvollzugs im 19. und frühen 20. Jahrhundert. Heute dient der Ort als Museum und Mahnmal, das die leidvolle Geschichte Tausender Menschen bewahrt und kritisch hinterfragt. Die Architektur der Zellen und Verwaltungsgebäude vermittelt noch immer die beklemmende Atmosphäre jener Zeit. Geschichte K8 — das koloniale Strafsystem und seine humanitären Auswirkungen.",
       hu: "A Saint-Laurent-du-Maroni városában található 'Camp de la Transportation' a francia gyarmati büntetőrendszer egyik legfontosabb és legtragikusabb történelmi helyszíne. Ez a komplexum szolgált az elítéltek elsődleges fogadóállomásaként, ahonnan a foglyokat továbbosztották a különböző munkatáborokba szerte a régióban. A mára kiválóan konzervált börtönépületek és a cellák rideg falai betekintést nyújtanak a 19. és 20. századi deportáltak embertelen mindennapjaiba. A helyszín ma múzeumként és emlékhelyként funkcionál, figyelmeztetve az utókort a múltbéli igazságtalanságokra. Történelem K8 — koloniális börtönrendszerek és az emberi jogok története.",
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf camp de la transportation history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-camp-de-la-transportation-history-v2.webp"
-},
+      en: "The region surrounding gf camp de la transportation history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-    
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-camp-de-la-transportation-history-v2.webp",
     description: {
       de: "Die Hauptstrafkolonie-Einrichtung, in der Gefangene in Französisch-Guayana ankamen, bevor sie verteilt wurden.",
       hu: "A fő büntetőgyarmati létesítmény, ahol a foglyok megérkeztek Francia Guyanába, mielőtt szétosztották volna őket.",
@@ -56,16 +50,10 @@ image: "/poi-images/gf-camp-de-la-transportation-history-v2.webp"
       de: "Die Îles du Salut (Inseln des Heils) vor der Küste von Kourou erlangten weltweite Berühmtheit als Teil des berüchtigten französischen Strafvollzugs in Französisch-Guayana. Bestehend aus der Île Royale, Île Saint-Joseph und der Île du Diable (Teufelsinsel), wurden diese Inseln zu einem Symbol für absolute Isolation und menschliches Leid. Während die Île Royale die Verwaltung und ein Krankenhaus beherbergte, diente die Île Saint-Joseph oft der grausamen Einzelhaft, und die Île du Diable war den prominenten politischen Gefangenen vorbehalten. Die Überreste der Gefängnisstrukturen zwischen den Kokospalmen bilden heute einen starken Kontrast zur idyllischen Natur. Der Besuch dieser Stätten ist eine Reise in ein dunkles Kapitel der französischen Kolonialgeschichte. Geschichte K9 — die Isolationshaft und die berüchtigten Strafinseln.",
       hu: "A Îles du Salut, vagyis az Üdvösség-szigetek, Francia Guyana egyik leghírhedtebb történelmi helyszíne, amely a kourou-i partoktól néhány kilométerre fekszik. A szigetcsoport az egykori ördögi börtönszigetekről vált világhírűvé, köztük a leghírhedtebb a Ördög-sziget (Île du Diable), ahol politikai foglyokat tartottak fogva szigorú őrizet mellett. A festői trópusi környezet éles kontrasztban áll az itt lezajlott drámai eseményekkel és szenvedésekkel. Ma a szigetek a természet és a történelem különleges találkozási pontjai, ahol a romos börtönépületeket lassan visszahódítja a természet. Történelem K8 — politikai börtönrendszerek és a gyarmati örökség.",
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf les du salut history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-les-du-salut-history-v2.webp"
-},
+      en: "The region surrounding gf les du salut history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-    
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-les-du-salut-history-v2.webp",
     description: {
       de: "Eine Gruppe kleiner Inseln, die für ihre berüchtigten Strafkolonien bekannt sind, einschließlich der Teufelsinsel.",
       hu: "Kis szigetek csoportja, amelyek hírhedt büntetőgyarmataikról, köztük az Ördög-szigetről ismertek.",
@@ -93,14 +81,10 @@ image: "/poi-images/gf-les-du-salut-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf le royale history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-le-royale-history-v2.webp"
-},
+      en: "The region surrounding gf le royale history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-le-royale-history-v2.webp",
     description: {
       de: "Die größte der Îles du Salut, die als Verwaltungszentrum für die Strafkolonie diente.",
       hu: "Az Üdvösség-szigetek legnagyobbika, amely a büntetőgyarmat közigazgatási központjaként szolgált.",
@@ -128,14 +112,10 @@ image: "/poi-images/gf-le-royale-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf le saint joseph history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-le-saint-joseph-history-v2.webp"
-},
+      en: "The region surrounding gf le saint joseph history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-le-saint-joseph-history-v2.webp",
     description: {
       de: "Die südlichste Insel der Gruppe, bekannt als die 'stille Insel', auf der Einzelhaft durchgesetzt wurde.",
       hu: "A csoport legdélibb szigete, amelyet 'csendes szigetként' ismertek, ahol a magánzárkát alkalmazták.",
@@ -164,15 +144,10 @@ image: "/poi-images/gf-le-saint-joseph-history-v2.webp"
     descriptionAdvanced: {
       de: "Die Île du Diable, bekannt als Teufelsinsel, ist die kleinste und isolierteste der Îles du Salut und gilt als Inbegriff der harten Bedingungen in den französischen Straflagern. Weltweit berühmt wurde sie durch die Inhaftierung von Alfred Dreyfus, der hier Jahre in absoluter Abgeschiedenheit verbrachte, bevor er begnadigt wurde. Die Insel war aufgrund ihrer Strömungen und der schwierigen Erreichbarkeit ein Ort, von dem ein Entkommen praktisch unmöglich schien. Auch wenn sie heute von einer tropischen Vegetation überwuchert ist, hallt die Geschichte des Leidens und der politischen Willkür in ihren verfallenden Mauern nach. Sie bleibt ein Mahnmal für die menschliche Widerstandsfähigkeit unter extremsten Bedingungen der Gefangenschaft. Geschichte K9 — politische Gefangenschaft und das Schicksal des Alfred Dreyfus.",
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf le du diable history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-le-du-diable-history-v2.webp"
-},
+      en: "The region surrounding gf le du diable history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-le-du-diable-history-v2.webp",
     description: {
       de: "Berühmte Strafkolonie-Insel, auf der politische Gefangene wie Alfred Dreyfus festgehalten wurden.",
       hu: "Híres büntetőgyarmat-sziget, ahol olyan politikai foglyokat tartottak fogva, mint Alfred Dreyfus.",
@@ -200,14 +175,10 @@ image: "/poi-images/gf-le-du-diable-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf fort c p rou history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-fort-c-p-rou-history-v2.webp"
-},
+      en: "The region surrounding gf fort c p rou history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-fort-c-p-rou-history-v2.webp",
     description: {
       de: "Historische Festungsruinen aus dem 17. Jahrhundert mit Blick auf die Stadt Cayenne.",
       hu: "A 17. századi történelmi erőd romjai, kilátással Cayenne városára.",
@@ -235,14 +206,10 @@ image: "/poi-images/gf-fort-c-p-rou-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf place des palmistes history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-place-des-palmistes-history-v2.webp"
-},
+      en: "The region surrounding gf place des palmistes history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-place-des-palmistes-history-v2.webp",
     description: {
       de: "Der Hauptplatz in Cayenne, umgeben von historischen Kolonialgebäuden und hoch aufragenden Palmen.",
       hu: "Cayenne főtere, amelyet történelmi gyarmati épületek és tornyosuló pálmafák vesznek körül.",
@@ -270,14 +237,10 @@ image: "/poi-images/gf-place-des-palmistes-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf cath drale saint sauveur de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-cath-drale-saint-sauveur-de-cayenne-history-v2.webp"
-},
+      en: "The region surrounding gf cath drale saint sauveur de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-cath-drale-saint-sauveur-de-cayenne-history-v2.webp",
     description: {
       de: "Die primäre katholische Kathedrale von Französisch-Guayana, mit kolonialer Architektur.",
       hu: "Francia Guyana elsődleges katolikus katedrálisa, gyarmati építészettel.",
@@ -305,14 +268,10 @@ image: "/poi-images/gf-cath-drale-saint-sauveur-de-cayenne-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf mus e d partemental alexandre franconie history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mus-e-d-partemental-alexandre-franconie-history-v2.webp"
-},
+      en: "The region surrounding gf mus e d partemental alexandre franconie history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mus-e-d-partemental-alexandre-franconie-history-v2.webp",
     description: {
       de: "Ein Museum, das die Naturgeschichte, Archäologie und Ethnologie von Französisch-Guayana zeigt.",
       hu: "Francia Guyana természettörténetét, régészetét és néprajzát bemutató múzeum.",
@@ -340,14 +299,10 @@ image: "/poi-images/gf-mus-e-d-partemental-alexandre-franconie-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf maison de f lix bou history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-maison-de-f-lix-bou-history-v2.webp"
-},
+      en: "The region surrounding gf maison de f lix bou history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-maison-de-f-lix-bou-history-v2.webp",
     description: {
       de: "Das historische Geburtshaus von Félix Éboué, einem prominenten französisch-guayanischen Kolonialverwalter.",
       hu: "Félix Éboué, a kiemelkedő francia guyanai gyarmati adminisztrátor történelmi szülőháza.",
@@ -375,14 +330,10 @@ image: "/poi-images/gf-maison-de-f-lix-bou-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf bagne des annamites history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-bagne-des-annamites-history-v2.webp"
-},
+      en: "The region surrounding gf bagne des annamites history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-bagne-des-annamites-history-v2.webp",
     description: {
       de: "Ruinen einer ehemaligen Strafkolonie, die speziell für indochinesische Gefangene gebaut wurde.",
       hu: "Egykori büntetőgyarmat romjai, amelyet kifejezetten indokínai foglyok őrzésére építettek.",
@@ -410,14 +361,10 @@ image: "/poi-images/gf-bagne-des-annamites-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf roches grav es de la carapa history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-roches-grav-es-de-la-carapa-history-v2.webp"
-},
+      en: "The region surrounding gf roches grav es de la carapa history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-roches-grav-es-de-la-carapa-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte mit antiken präkolumbianischen Petroglyphen, die in Felsen gehauen sind.",
       hu: "Régészeti lelőhely, amely ősi kolumbusz előtti, sziklákba vésett petroglifákat tartalmaz.",
@@ -445,14 +392,10 @@ image: "/poi-images/gf-roches-grav-es-de-la-carapa-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf habitation loyola history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-habitation-loyola-history-v2.webp"
-},
+      en: "The region surrounding gf habitation loyola history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-habitation-loyola-history-v2.webp",
     description: {
       de: "Die Überreste einer massiven Jesuitenplantage aus dem 17. Jahrhundert, die für die lokale Wirtschaft von entscheidender Bedeutung war.",
       hu: "Egy hatalmas 17. századi jezsuita ültetvény maradványai, amely kulcsfontosságú volt a helyi gazdaság számára.",
@@ -480,14 +423,10 @@ image: "/poi-images/gf-habitation-loyola-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf glise saint joseph d iracoubo history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-glise-saint-joseph-d-iracoubo-history-v2.webp"
-},
+      en: "The region surrounding gf glise saint joseph d iracoubo history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-glise-saint-joseph-d-iracoubo-history-v2.webp",
     description: {
       de: "Eine historische Kirche, die für ihre kunstvollen Innenfresken bekannt ist, die von einem Sträfling gemalt wurden.",
       hu: "Egy történelmi templom, amely híres az elítélt által festett bonyolult belső freskóiról.",
@@ -515,14 +454,10 @@ image: "/poi-images/gf-glise-saint-joseph-d-iracoubo-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf fort diamant history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-fort-diamant-history-v2.webp"
-},
+      en: "The region surrounding gf fort diamant history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-fort-diamant-history-v2.webp",
     description: {
       de: "Eine Küstenbatterie aus dem 19. Jahrhundert, die zum Schutz der Einfahrt in den Mahury-Fluss gebaut wurde.",
       hu: "Egy 19. századi part menti üteg, amelyet a Mahury-folyó bejáratának védelmére építettek.",
@@ -550,14 +485,10 @@ image: "/poi-images/gf-fort-diamant-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf phare de l enfant perdu history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-phare-de-l-enfant-perdu-history-v2.webp"
-},
+      en: "The region surrounding gf phare de l enfant perdu history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-phare-de-l-enfant-perdu-history-v2.webp",
     description: {
       de: "Ein historischer Leuchtturm auf einer kleinen Felseninsel vor der Küste von Macouria.",
       hu: "Történelmi világítótorony, amely Macouria partjainál, egy kis sziklás szigeten található.",
@@ -585,14 +516,10 @@ image: "/poi-images/gf-phare-de-l-enfant-perdu-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf bagne de saint jean du maroni history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-bagne-de-saint-jean-du-maroni-history-v2.webp"
-},
+      en: "The region surrounding gf bagne de saint jean du maroni history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-bagne-de-saint-jean-du-maroni-history-v2.webp",
     description: {
       de: "Auch bekannt als Camp de la Relégation, war es eine Strafkolonie für Wiederholungstäter.",
       hu: "A Camp de la Relégation néven is ismert létesítmény a visszaesők büntetőgyarmata volt.",
@@ -620,14 +547,10 @@ image: "/poi-images/gf-bagne-de-saint-jean-du-maroni-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf camp crique anguille history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-camp-crique-anguille-history-v2.webp"
-},
+      en: "The region surrounding gf camp crique anguille history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-camp-crique-anguille-history-v2.webp",
     description: {
       de: "Ein in Tonnegrande gelegenes Strafgefangenenlager, bekannt für seine harten Arbeitsbedingungen im Dschungel.",
       hu: "Tonnegrande-ban található büntetőtábor, amely a dzsungelben végzett kemény munkakörülményekről ismert.",
@@ -655,14 +578,10 @@ image: "/poi-images/gf-camp-crique-anguille-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf puits des orpailleurs history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-puits-des-orpailleurs-history-v2.webp"
-},
+      en: "The region surrounding gf puits des orpailleurs history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-puits-des-orpailleurs-history-v2.webp",
     description: {
       de: "Historische Goldbergbauschächte in Saint-Élie, die den Goldrausch der Region im 19. Jahrhundert widerspiegeln.",
       hu: "Történelmi aranybányászati aknák Saint-Élie-ben, amelyek a régió 19. századi aranylázát tükrözik.",
@@ -690,14 +609,10 @@ image: "/poi-images/gf-puits-des-orpailleurs-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest sit istoric reprezintă o mărturie profundă a trecutului colonial al Guyanei Franceze, fiind strâns legat de evoluția administrativă și socială a regiunii. Prin monumentele și structurile sale conservate, locul oferă o perspectivă asupra vieții din perioadele trecute, subliniind importanța păstrării patrimoniului cultural. Explorarea acestui obiectiv invită la o reflecție asupra istoriei locale, de la perioadele de glorie colonială până la provocările dezvoltării ulterioare. Importanța sa istorică este un pilon esențial pentru înțelegerea identității culturale a Guyanei în contextul sud-american. Istorie K8 — moștenirea colonială și evoluția regiunii.",
-      en: "The region surrounding gf h pital de l le royale history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-h-pital-de-l-le-royale-history-v2.webp"
-},
+      en: "The region surrounding gf h pital de l le royale history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-h-pital-de-l-le-royale-history-v2.webp",
     description: {
       de: "Die Ruinen des Krankenhauses, das gebaut wurde, um das Personal der Strafkolonie und die Insassen auf der Île Royale zu versorgen.",
       hu: "A kórház romjai, amelyet a büntetőgyarmat személyzetének és foglyainak ellátására építettek az Île Royale-on.",
@@ -725,14 +640,10 @@ image: "/poi-images/gf-h-pital-de-l-le-royale-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf poudri re de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-poudri-re-de-cayenne-history-v2.webp"
-},
+      en: "The region surrounding gf poudri re de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-poudri-re-de-cayenne-history-v2.webp",
     description: {
       de: "Ein Pulvermagazin aus dem 19. Jahrhundert, das vom französischen Militär zur Lagerung von Sprengstoff genutzt wurde.",
       hu: "19. századi lőporraktár, amelyet a francia hadsereg használt robbanóanyagok tárolására.",
@@ -760,14 +671,10 @@ image: "/poi-images/gf-poudri-re-de-cayenne-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf cimeti re des rel gu s history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-cimeti-re-des-rel-gu-s-history-v2.webp"
-},
+      en: "The region surrounding gf cimeti re des rel gu s history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-cimeti-re-des-rel-gu-s-history-v2.webp",
     description: {
       de: "Ein düsterer Friedhof in Saint-Jean-du-Maroni, auf dem viele verbannte Gefangene begraben wurden.",
       hu: "Egy komor temető Saint-Jean-du-Maroni-ban, ahová sok száműzött foglyot temettek el.",
@@ -795,14 +702,10 @@ image: "/poi-images/gf-cimeti-re-des-rel-gu-s-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf gisement arch ologique de l inini history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-gisement-arch-ologique-de-l-inini-history-v2.webp"
-},
+      en: "The region surrounding gf gisement arch ologique de l inini history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-gisement-arch-ologique-de-l-inini-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte im Landesinneren, die Artefakte von präkolumbianischen indigenen Bevölkerungsgruppen offenbart.",
       hu: "Egy szárazföldi régészeti lelőhely, amely kolumbusz előtti őslakos populációk tárgyi emlékeit tárja fel.",
@@ -830,14 +733,10 @@ image: "/poi-images/gf-gisement-arch-ologique-de-l-inini-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf vestiges de guisanbourg history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-vestiges-de-guisanbourg-history-v2.webp"
-},
+      en: "The region surrounding gf vestiges de guisanbourg history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-vestiges-de-guisanbourg-history-v2.webp",
     description: {
       de: "Die verlassenen Überreste einer landwirtschaftlichen Stadt aus dem 19. Jahrhundert, die einst durch Zuckerrohr blühte.",
       hu: "Egy 19. századi mezőgazdasági város elhagyatott maradványai, amely egykor a cukornádtól virágzott.",
@@ -865,14 +764,10 @@ image: "/poi-images/gf-vestiges-de-guisanbourg-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf glise de saint laurent du maroni history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-glise-de-saint-laurent-du-maroni-history-v2.webp"
-},
+      en: "The region surrounding gf glise de saint laurent du maroni history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-glise-de-saint-laurent-du-maroni-history-v2.webp",
     description: {
       de: "Eine markante Kirche in der Grenzstadt, die Anfang des 20. Jahrhunderts von Sträflingen erbaut wurde.",
       hu: "Egy kiemelkedő templom a határvárosban, amelyet a 20. század elején építettek fegyencek.",
@@ -900,14 +795,10 @@ image: "/poi-images/gf-glise-de-saint-laurent-du-maroni-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf chapelle de l le royale history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-chapelle-de-l-le-royale-history-v2.webp"
-},
+      en: "The region surrounding gf chapelle de l le royale history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-chapelle-de-l-le-royale-history-v2.webp",
     description: {
       de: "Eine kleine restaurierte Kapelle auf der Île Royale, die von der Gefängnisverwaltung und gelegentlich von Gefangenen genutzt wurde.",
       hu: "Egy kis, felújított kápolna az Île Royale-on, amelyet a börtönigazgatóság és alkalmanként a foglyok használtak.",
@@ -935,14 +826,10 @@ image: "/poi-images/gf-chapelle-de-l-le-royale-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf site arch ologique de mont grand matoury history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-site-arch-ologique-de-mont-grand-matoury-history-v2.webp"
-},
+      en: "The region surrounding gf site arch ologique de mont grand matoury history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-site-arch-ologique-de-mont-grand-matoury-history-v2.webp",
     description: {
       de: "Archäologische Stätte in einem Naturschutzgebiet, die Beweise für indianische Besiedlung vor der Kolonialisierung zeigt.",
       hu: "Természetvédelmi területen található régészeti lelőhely, amely a gyarmatosítás előtti indián települések nyomait mutatja.",
@@ -970,14 +857,10 @@ image: "/poi-images/gf-site-arch-ologique-de-mont-grand-matoury-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf monument aux morts de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-monument-aux-morts-de-cayenne-history-v2.webp"
-},
+      en: "The region surrounding gf monument aux morts de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-monument-aux-morts-de-cayenne-history-v2.webp",
     description: {
       de: "Ein Gedenkmonument für die Soldaten aus Französisch-Guayana, die in den Weltkriegen gefallen sind.",
       hu: "Emlékmű a világháborúkban elesett francia guyanai katonák emlékére.",
@@ -1005,14 +888,10 @@ image: "/poi-images/gf-monument-aux-morts-de-cayenne-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf l auberge des orpailleurs history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-l-auberge-des-orpailleurs-history-v2.webp"
-},
+      en: "The region surrounding gf l auberge des orpailleurs history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-l-auberge-des-orpailleurs-history-v2.webp",
     description: {
       de: "Ein historisches Gasthaus in der Nähe von Roura, das Goldsuchern während der Goldräusche der Region diente.",
       hu: "Egy történelmi fogadó Roura közelében, amely az aranyásókat szolgálta ki a régió aranylázai idején.",
@@ -1040,14 +919,10 @@ image: "/poi-images/gf-l-auberge-des-orpailleurs-history-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv istoric marchează momente cheie în dezvoltarea Guyanei Franceze, fiind un punct de referință pentru vizitatorii interesați de patrimoniul cultural al regiunii. Structurile sale arhitecturale și semnificația istorică oferă o fereastră către trecut, punând în evidență evoluția socială și administrativă a teritoriului. Prin conservarea și valorificarea sa, locația devine un spațiu de învățare și descoperire, esențial pentru înțelegerea moștenirii coloniale complexe. O vizită aici îmbogățește perspectiva asupra identității locale, îmbinând elemente de istorie cu frumusețea conservată a peisajului cultural. Istorie K8 — dezvoltarea teritorială și patrimoniul cultural.",
-      en: "The region surrounding gf ancienne mairie de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-ancienne-mairie-de-cayenne-history-v2.webp"
-},
+      en: "The region surrounding gf ancienne mairie de cayenne history v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-ancienne-mairie-de-cayenne-history-v2.webp",
     description: {
       de: "Das alte Rathaus von Cayenne, das klassische koloniale Verwaltungsarchitektur zeigt.",
       hu: "Cayenne régi városházája, amely bemutatja a klasszikus gyarmati közigazgatási építészetet.",

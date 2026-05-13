@@ -7,9 +7,8 @@ export const poiExtraMexicoLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "MX-CMX",
     coords: [-99.1867, 19.4165],
-    name: { de: "Chapultepec Zoo", hu: "Chapultepec allatkert", ro: "Gradina Zoologica Chapultepec", en: "Chapultepec Zoo",
-image: "/poi-images/chapultepec-zoo-life-v2.webp"
-},
+    name: { de: "Chapultepec Zoo", hu: "Chapultepec allatkert", ro: "Gradina Zoologica Chapultepec", en: "Chapultepec Zoo"},
+    image: "/poi-images/chapultepec-zoo-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Zoo Chapultepec im Herzen von Mexiko-Stadt ist eine der bedeutendsten zoologischen Einrichtungen Lateinamerikas. Er wurde 1923 vom Biologen Alfonso L. Herrera gegründet und beherbergt heute über 1.200 Tiere in naturnah gestalteten Gehegen. Besonders berühmt ist der Zoo für sein erfolgreiches Zuchtprogramm für Große Pandas, das als eines der ersten außerhalb Chinas große Erfolge feierte. Neben exotischen Tieren liegt ein starker Fokus auf der Erhaltung einheimischer Arten wie dem Mexikanischen Wolf und dem Vulkankaninchen. Der Zoo bietet eine grüne Oase inmitten der Metropole und ist ein wichtiges Zentrum für Umweltbildung und Artenschutzforschung. Ein Besuch verbindet Bildung mit dem Erlebnis der faszinierenden Tierwelt Mexikos und der Welt. Geschichte K8 - Artenschutz und Evolution.",
       hu: "Chapultepec allatkert egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Chapultepec allatkert kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -46,9 +45,8 @@ image: "/poi-images/chapultepec-zoo-life-v2.webp"
     type: "kid-landmark",
     parent: "MX-CMX",
     coords: [-99.0595, 19.4535],
-    name: { de: "San Juan de Aragon Zoo", hu: "San Juan de Aragon allatkert", ro: "Gradina Zoologica San Juan de Aragon", en: "San Juan de Aragon Zoo",
-image: "/poi-images/san-juan-de-aragon-zoo-life-v2.webp"
-},
+    name: { de: "San Juan de Aragon Zoo", hu: "San Juan de Aragon allatkert", ro: "Gradina Zoologica San Juan de Aragon", en: "San Juan de Aragon Zoo"},
+    image: "/poi-images/san-juan-de-aragon-zoo-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Zoo San Juan de Aragón im Nordosten von Mexiko-Stadt ist flächenmäßig der zweitgrößte Zoo der Hauptstadt und ein wichtiges Erholungsgebiet. Seit seiner Eröffnung im Jahr 1964 verfolgt er das Konzept, Tieren weitläufige Freiluftgehege zu bieten, die ihren natürlichen Lebensräumen nachempfunden sind. Nach einer umfassenden Modernisierung Anfang der 2000er Jahre hat sich der Zoo zu einem führenden Zentrum für Umweltbildung entwickelt. Ein besonderer Schwerpunkt liegt auf den im Tal von Mexiko heimischen Arten sowie auf großen Säugetieren und einer beeindruckenden Vogelsammlung. Die ruhigen, schattigen Wege laden zu ausgedehnten Spaziergängen ein und bieten eine friedliche Alternative zum Stadttrubel. Der Zoo spielt eine entscheidende Rolle im lokalen Naturschutz und bietet zahlreiche Workshops für Besucher an. Biologie K7 - Ökosysteme und Lebensräume.",
       hu: "San Juan de Aragon allatkert egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. San Juan de Aragon allatkert kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -85,9 +83,8 @@ image: "/poi-images/san-juan-de-aragon-zoo-life-v2.webp"
     type: "kid-landmark",
     parent: "MX-JAL",
     coords: [-103.315, 20.742],
-    name: { de: "Guadalajara Zoo", hu: "Guadalajara allatkert", ro: "Gradina Zoologica Guadalajara", en: "Guadalajara Zoo",
-image: "/poi-images/guadalajara-zoo-life-v2.webp"
-},
+    name: { de: "Guadalajara Zoo", hu: "Guadalajara allatkert", ro: "Gradina Zoologica Guadalajara", en: "Guadalajara Zoo"},
+    image: "/poi-images/guadalajara-zoo-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Zoo von Guadalajara gilt als einer der modernsten und schönsten Tierparks in ganz Mexiko und liegt spektakulär am Rande der Huentitán-Schlucht. Er bietet Besuchern einzigartige Erlebnisse wie die 'SkyZoo'-Seilbahn, die einen atemberaubenden Blick über die Tiergehege und die Schlucht ermöglicht. Der Zoo zeichnet sich durch seine Vielfalt aus, die von einem großen Aquarium über ein Tropenhaus bis hin zu einer afrikanischen Safari-Tour reicht. Besonders hervorzuheben ist das Engagement des Zoos bei der Zucht bedrohter Arten und der Forschung. Die Architektur der Anlage fügt sich harmonisch in die natürliche Topographie der Region ein. Für Familien ist der Park ein absolutes Highlight im Westen Mexikos, da er Bildung und Abenteuer auf höchstem Niveau verbindet. Sachkunde K4 - Tiere in verschiedenen Klimazonen.",
       hu: "Guadalajara allatkert egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Guadalajara allatkert kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -124,9 +121,8 @@ image: "/poi-images/guadalajara-zoo-life-v2.webp"
     type: "kid-landmark",
     parent: "MX-CMX",
     coords: [-99.2088, 19.4326],
-    name: { de: "Acuario Inbursa", hu: "Acuario Inbursa", ro: "Acuario Inbursa", en: "Acuario Inbursa",
-image: "/poi-images/acuario-inbursa-life-v2.webp"
-},
+    name: { de: "Acuario Inbursa", hu: "Acuario Inbursa", ro: "Acuario Inbursa", en: "Acuario Inbursa"},
+    image: "/poi-images/acuario-inbursa-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Acuario Inbursa in Mexiko-Stadt ist ein architektonisches und biologisches Wunderwerk, das sich größtenteils unter der Erdoberfläche befindet. Mit über 14.000 Exemplaren aus 350 verschiedenen Arten bietet es einen tiefen Einblick in die marinen Ökosysteme der Weltmeere. Das Aquarium ist in verschiedene Themenbereiche unterteilt, die von Korallenriffen bis hin zu den dunklen Tiefen der Tiefsee reichen. Besonders beeindruckend sind die Haifischbecken und die Pinguinanlage, die Besuchern das Gefühl geben, mitten im Ozean zu sein. Die Einrichtung legt großen Wert auf den Schutz der Meere und informiert über die Gefahren durch Umweltverschmutzung und Überfischung. Es ist ein Ort des Staunens, der zeigt, wie zerbrechlich und schützenswert das Leben unter Wasser ist. Biologie K6 - Marines Leben und Umweltschutz.",
       hu: "Acuario Inbursa egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Acuario Inbursa kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -163,9 +159,8 @@ image: "/poi-images/acuario-inbursa-life-v2.webp"
     type: "kid-landmark",
     parent: "MX-ROO",
     coords: [-87.0713, 20.5818],
-    name: { de: "Xcaret Park", hu: "Xcaret park", ro: "Parcul Xcaret", en: "Xcaret Park",
-image: "/poi-images/xcaret-park-life-v2.webp"
-},
+    name: { de: "Xcaret Park", hu: "Xcaret park", ro: "Parcul Xcaret", en: "Xcaret Park"},
+    image: "/poi-images/xcaret-park-life-v2.webp",
     descriptionAdvanced: {
       de: "Xcaret ist weit mehr als nur ein Freizeitpark; es ist ein öko-archäologisches Paradies an der Riviera Maya, das die reiche Kultur und Natur Mexikos feiert. Die Besucher können in unterirdischen Flüssen schwimmen, Maya-Ruinen erkunden und die prachtvolle Flora und Fauna der Region bewundern. Ein absoluter Höhepunkt ist die abendliche Show 'Xcaret México Espectacular', die die Geschichte des Landes mit Hunderten von Künstlern eindrucksvoll inszeniert. Der Park engagiert sich stark für den Naturschutz, insbesondere für die Rettung von Meeresschildkröten und die Zucht von roten Aras. Die harmonische Verbindung von traditioneller Kultur, archäologischen Schätzen und kristallklarem Wasser macht Xcaret zu einem der beliebtesten Reiseziele weltweit. Geographie K7 - Tourismus und Naturschutz.",
       hu: "Xcaret park egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Xcaret park kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -202,9 +197,8 @@ image: "/poi-images/xcaret-park-life-v2.webp"
     type: "animal-habitat",
     parent: "MX-PUE",
     coords: [-98.2195, 18.9012],
-    name: { de: "Africam Safari", hu: "Africam Safari", ro: "Africam Safari", en: "Africam Safari",
-image: "/poi-images/africam-safari-life-v2.webp"
-},
+    name: { de: "Africam Safari", hu: "Africam Safari", ro: "Africam Safari", en: "Africam Safari"},
+    image: "/poi-images/africam-safari-life-v2.webp",
     descriptionAdvanced: {
       de: "Africam Safari bei Puebla bietet das außergewöhnliche Erlebnis einer echten Safari, bei der die Besucher in ihren eigenen Fahrzeugen durch weite Flächen fahren, in denen Tiere frei umherstreifen. Gegründet von Captain Carlos Camacho Espíritu, verfolgt der Park die Philosophie, dass Tiere in Freiheit glücklicher und gesünder sind. Man kann Giraffen, Löwen, Elefanten und Nashörner aus nächster Nähe beobachten, während sie sich in einer Landschaft bewegen, die ihren natürlichen Lebensräumen nachempfunden ist. Africam Safari ist international für seine erfolgreichen Erhaltungsprogramme bekannt, insbesondere für den Schutz des Afrikanischen Elefanten. Die Anlage bietet zudem nächtliche Safaris an, die einen faszinierenden Einblick in das Verhalten dämmerungsaktiver Tiere ermöglichen. Sachkunde K5 - Wildtiere und ihre Lebensräume.",
       hu: "Africam Safari egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Africam Safari kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -241,9 +235,8 @@ image: "/poi-images/africam-safari-life-v2.webp"
     type: "animal-habitat",
     parent: "MX-MEX",
     coords: [-99.5305, 19.9213],
-    name: { de: "Bioparque Estrella", hu: "Bioparque Estrella", ro: "Bioparcul Estrella", en: "Bioparque Estrella",
-image: "/poi-images/bioparque-estrella-life-v2.webp"
-},
+    name: { de: "Bioparque Estrella", hu: "Bioparque Estrella", ro: "Bioparcul Estrella", en: "Bioparque Estrella"},
+    image: "/poi-images/bioparque-estrella-life-v2.webp",
     descriptionAdvanced: {
       de: "Der Bioparque Estrella ist ein riesiger Safari- und Erlebnispark, der Bildung, Naturschutz und Abenteuer in einem einzigartigen Konzept vereint. Das Herzstück ist die 'Safari Serengeti', bei der Besucher Giraffen und andere afrikanische Großtiere füttern können, während sie in offenen Fahrzeugen durch das Gelände fahren. Der Park bietet zudem prähistorische Attraktionen wie das 'Rio Jurásico', wo lebensgroße Dinosaurier-Modelle in einer dschungelartigen Umgebung zu sehen sind. Für Kinder gibt es zahlreiche interaktive Stationen, die den Respekt vor der Natur und den Tieren vermitteln. Die weitläufige Anlage in der Nähe von Mexiko-Stadt ist ein ideales Ziel für einen Tagesausflug mit der ganzen Familie. Der Bioparque Estrella zeigt eindrucksvoll, wie wichtig der Erhalt der Biodiversität für unseren Planeten ist. Biologie K4 - Artenvielfalt und Erdgeschichte.",
       hu: "Bioparque Estrella egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Bioparque Estrella kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -280,9 +273,8 @@ image: "/poi-images/bioparque-estrella-life-v2.webp"
     type: "forest",
     parent: "MX-MIC",
     coords: [-100.25, 19.6],
-    name: { de: "Mariposa-Monarca-Reservat", hu: "Monarch pillango-rezervatum", ro: "Rezervatia fluturelui monarh", en: "Monarch Butterfly Reserve",
-image: "/poi-images/monarch-butterfly-reserve-life-v2.webp"
-},
+    name: { de: "Mariposa-Monarca-Reservat", hu: "Monarch pillango-rezervatum", ro: "Rezervatia fluturelui monarh", en: "Monarch Butterfly Reserve"},
+    image: "/poi-images/monarch-butterfly-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Biosphärenreservat Mariposa Monarca ist ein Naturwunder von globalem Ausmaß, in dem jedes Jahr Millionen von Monarchfaltern aus Kanada und den USA überwintern. Die orange-schwarzen Schmetterlinge bedecken die Oyamel-Tannen so dicht, dass sich die Äste unter ihrem Gewicht biegen. Es ist eine der spektakulärsten Tierwanderungen der Erde und wurde von der UNESCO zum Weltnaturerbe erklärt. Die Stille in den Wäldern wird nur durch das leise Rauschen von Millionen Schmetterlingsflügeln unterbrochen, wenn die Sonne die Tiere erwärmt. Der Schutz dieses empfindlichen Ökosystems ist von entscheidender Bedeutung, da der Klimawandel und die Abholzung die Wanderung gefährden. Ein Besuch in diesem Reservat ist ein tief bewegendes Erlebnis, das die Zerbrechlichkeit und Schönheit der Natur vor Augen führt. Biologie K8 - Migration und Ökosysteme.",
       hu: "Monarch pillango-rezervatum egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Monarch pillango-rezervatum kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -319,9 +311,8 @@ image: "/poi-images/monarch-butterfly-reserve-life-v2.webp"
     type: "forest",
     parent: "MX-ROO",
     coords: [-87.65, 19.42],
-    name: { de: "Sian Ka'an", hu: "Sian Ka'an", ro: "Sian Ka'an", en: "Sian Ka'an",
-image: "/poi-images/sian-kaan-life-v2.webp"
-},
+    name: { de: "Sian Ka'an", hu: "Sian Ka'an", ro: "Sian Ka'an", en: "Sian Ka'an"},
+    image: "/poi-images/sian-kaan-life-v2.webp",
     descriptionAdvanced: {
       de: "Sian Ka'an, was in der Sprache der Maya 'Wo der Himmel geboren wurde' bedeutet, ist ein riesiges Biosphärenreservat an der Karibikküste Mexikos. Es umfasst tropische Regenwälder, Mangroven, Sümpfe und einen bedeutenden Teil des mittelamerikanischen Barriereriffs. Das Gebiet beherbergt eine unglaubliche Artenvielfalt, darunter Jaguare, Pumas, Seekühe und hunderte Vogelarten. Besucher können die kristallklaren Kanäle der Maya erkunden, die einst als Handelswege dienten, und in den natürlichen Strömungen treiben. Das Reservat ist ein Musterbeispiel für nachhaltigen Tourismus und den Schutz unberührter Wildnis. Als UNESCO-Welterbe bewahrt Sian Ka'an nicht nur die Natur, sondern auch archäologische Schätze der Maya-Zivilisation. Es ist ein Ort der absoluten Ruhe und unberührten Schönheit. Geographie K8 - Ökosysteme und nachhaltige Entwicklung.",
       hu: "Sian Ka'an egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Sian Ka'an kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -358,9 +349,8 @@ image: "/poi-images/sian-kaan-life-v2.webp"
     type: "forest",
     parent: "MX-CAM",
     coords: [-89.95, 18.62],
-    name: { de: "Calakmul Biosphaerenreservat", hu: "Calakmul bioszfera-rezervatum", ro: "Rezervatia biosferei Calakmul", en: "Calakmul Biosphere Reserve",
-image: "/poi-images/calakmul-reserve-life-v2.webp"
-},
+    name: { de: "Calakmul Biosphaerenreservat", hu: "Calakmul bioszfera-rezervatum", ro: "Rezervatia biosferei Calakmul", en: "Calakmul Biosphere Reserve"},
+    image: "/poi-images/calakmul-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Biosphärenreservat Calakmul ist eines der größten tropischen Waldgebiete Mexikos und beherbergt die gleichnamige, gigantische Maya-Metropole. Tief im Dschungel von Campeche gelegen, bietet es einen Rückzugsort für bedrohte Großkatzen wie den Jaguar und den mittelamerikanischen Tapir. Die Verbindung von unberührter Natur und monumentalen archäologischen Strukturen macht Calakmul zu einem weltweit einzigartigen Kulturerbe der UNESCO. Von den Spitzen der hohen Pyramiden aus hat man einen endlosen Blick über das grüne Kronendach des Waldes, in dem Brüllaffen und bunte Tukane leben. Die Abgeschiedenheit des Ortes sorgt für eine mystische Atmosphäre, die an die Zeit der großen Maya-Könige erinnert. Der Schutz dieses Reservats ist entscheidend für den Erhalt der biologischen Vielfalt in Mittelamerika. Geschichte K6 - Maya-Zivilisation und tropische Ökosysteme.",
       hu: "Calakmul bioszfera-rezervatum egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Calakmul bioszfera-rezervatum kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -397,9 +387,8 @@ image: "/poi-images/calakmul-reserve-life-v2.webp"
     type: "forest",
     parent: "MX-CHP",
     coords: [-91.15, 16.55],
-    name: { de: "Lacandon-Dschungel", hu: "Lacandon dzsungel", ro: "Jungla Lacandon", en: "Lacandon Jungle",
-image: "/poi-images/lacandon-jungle-life-v2.webp"
-},
+    name: { de: "Lacandon-Dschungel", hu: "Lacandon dzsungel", ro: "Jungla Lacandon", en: "Lacandon Jungle"},
+    image: "/poi-images/lacandon-jungle-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Selva Lacandona im Bundesstaat Chiapas ist der größte tropische Regenwald Mexikos und ein Ort von unglaublicher biologischer und kultureller Bedeutung. Sie ist die Heimat der Lacandon-Maya, die ihre traditionelle Lebensweise und tiefe spirituelle Verbindung zum Wald bis heute bewahrt haben. Der Dschungel ist von reißenden Flüssen, spektakulären Wasserfällen wie Agua Azul und verborgenen Maya-Ruinen wie Bonampak durchzogen. Die immense Artenvielfalt reicht von bunten Aras über seltene Orchideen bis hin zu den majestätischen Jaguaren. Trotz massiver Abholzung in der Vergangenheit bemühen sich lokale Gemeinschaften und Naturschützer heute verstärkt um den Erhalt dieses grünen Schatzes. Ein Besuch in der Lacandona ist eine Reise in das Herz der mexikanischen Wildnis. Biologie K7 - Tropischer Regenwald und indigene Kulturen.",
       hu: "Lacandon dzsungel egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Lacandon dzsungel kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -436,9 +425,8 @@ image: "/poi-images/lacandon-jungle-life-v2.webp"
     type: "animal-habitat",
     parent: "MX-BCS",
     coords: [-114.2, 27.7],
-    name: { de: "El Vizcaino", hu: "El Vizcaino", ro: "El Vizcaino", en: "El Vizcaino",
-image: "/poi-images/el-vizcaino-life-v2.webp"
-},
+    name: { de: "El Vizcaino", hu: "El Vizcaino", ro: "El Vizcaino", en: "El Vizcaino"},
+    image: "/poi-images/el-vizcaino-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Biosphärenreservat El Vizcaíno auf der Halbinsel Baja California ist eines der größten Schutzgebiete der Erde und ein Ort von rauer, wüstenhafter Schönheit. Es ist weltberühmt für seine Lagunen, in denen Grauwale jedes Jahr ihre Kälber zur Welt bringen und aufziehen. Die Begegnung mit diesen sanften Riesen in den Lagunen von Ojo de Liebre und San Ignacio gehört zu den eindrucksvollsten Naturerlebnissen weltweit. Neben den Meeresriesen beherbergt das Reservat die bedrohte Berber-Antilope und prähistorische Höhlenmalereien in der Sierra de San Francisco. Die Landschaft ist geprägt von bizarren Kakteenwäldern und weiten Salzebenen, die einen extremen Kontrast zum tiefblauen Pazifik bilden. El Vizcaíno ist ein Refugium für das Leben unter extremen Bedingungen und UNESCO-Weltnaturerbe. Geographie K8 - Wüstenökosysteme und Meeressäuger.",
       hu: "El Vizcaino egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. El Vizcaino kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -475,9 +463,8 @@ image: "/poi-images/el-vizcaino-life-v2.webp"
     type: "animal-habitat",
     parent: "MX-YUC",
     coords: [-90.39, 20.86],
-    name: { de: "Celestun-Reservat", hu: "Celestun rezervatum", ro: "Rezervatia Celestun", en: "Celestun Reserve",
-image: "/poi-images/celestun-flamingo-reserve-life-v2.webp"
-},
+    name: { de: "Celestun-Reservat", hu: "Celestun rezervatum", ro: "Rezervatia Celestun", en: "Celestun Reserve"},
+    image: "/poi-images/celestun-flamingo-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Biosphärenreservat Celestún an der Westküste von Yucatán ist ein Paradies für Vogelliebhaber und berühmt für seine riesigen Kolonien von rosa Flamingos. Die Lagune, in der sich Süßwasser aus unterirdischen Cenoten mit dem Salzwasser des Golfs von Mexiko vermischt, bietet ideale Bedingungen für diese eleganten Vögel. Bei einer Bootsfahrt durch die dichten Mangroventunnel können Besucher zudem Krokodile, Leguane und hunderte andere Vogelarten entdecken. Die intensive rosa Farbe der Flamingos, die durch ihre Nahrung aus kleinen Krebstieren entsteht, bildet einen fantastischen Kontrast zum blauen Wasser. Celestún ist ein wichtiges Schutzgebiet für Zugvögel und ein wunderbares Beispiel für die empfindlichen Küstenökosysteme der Halbinsel. Die Ruhe des Fischerdorfes Celestún rundet das Naturerlebnis perfekt ab. Biologie K6 - Nahrungsketten und Küstenhabitate.",
       hu: "Celestun rezervatum egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Celestun rezervatum kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -514,9 +501,8 @@ image: "/poi-images/celestun-flamingo-reserve-life-v2.webp"
     type: "animal-habitat",
     parent: "MX-OAX",
     coords: [-96.47, 15.67],
-    name: { de: "La Ventanilla", hu: "La Ventanilla", ro: "La Ventanilla", en: "La Ventanilla",
-image: "/poi-images/la-ventanilla-turtle-reserve-life-v2.webp"
-},
+    name: { de: "La Ventanilla", hu: "La Ventanilla", ro: "La Ventanilla", en: "La Ventanilla"},
+    image: "/poi-images/la-ventanilla-turtle-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "La Ventanilla an der Küste von Oaxaca ist ein inspirierendes Beispiel für gemeindebasierten Ökotourismus und den Schutz von Meeresschildkröten. Nach der Zerstörung durch Hurrikane haben sich die Dorfbewohner zusammengeschlossen, um ihre Mangroven und die Tierwelt, insbesondere Krokodile und Schildkröten, zu schützen. Besucher können in Ruderbooten durch die Lagunen glide und Leguane in den Bäumen sowie Krokodile beim Sonnenbaden beobachten. Der nahegelegene Strand ist ein wichtiger Nistplatz für die Oliv-Bastardschildkröte, deren Eier von Freiwilligen geschützt werden. Die Gemeinschaft betreibt auch eine Baumschule für Mangroven, um das Ökosystem aktiv wieder aufzuforsten. Ein Besuch in La Ventanilla zeigt, wie Menschen im Einklang mit der Natur leben und diese erfolgreich regenerieren können. Sachkunde K4 - Naturschutz und lokales Engagement.",
       hu: "La Ventanilla egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. La Ventanilla kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -553,9 +539,8 @@ image: "/poi-images/la-ventanilla-turtle-reserve-life-v2.webp"
     type: "forest",
     parent: "MX-VER",
     coords: [-95.2, 18.57],
-    name: { de: "Los Tuxtlas", hu: "Los Tuxtlas", ro: "Los Tuxtlas", en: "Los Tuxtlas",
-image: "/poi-images/los-tuxtlas-reserve-life-v2.webp"
-},
+    name: { de: "Los Tuxtlas", hu: "Los Tuxtlas", ro: "Los Tuxtlas", en: "Los Tuxtlas"},
+    image: "/poi-images/los-tuxtlas-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Biosphärenreservat Los Tuxtlas im Bundesstaat Veracruz ist ein einzigartiges Gebiet, in dem tropischer Regenwald direkt auf vulkanische Gebirge und den Golf von Mexiko trifft. Diese besondere geografische Lage sorgt für eine immense Artenvielfalt und macht es zu einem der wichtigsten Zentren für die Erforschung der Tropenbiologie. Das Reservat beherbergt Brüllaffen, Tukane und seltene Orchideen, während die Küstenabschnitte wichtige Nistplätze für Schildkröten bieten. Spektakuläre Wasserfälle wie Eyipantla und tiefblaue Lagunen wie Catemaco prägen das Landschaftsbild. Die Region ist auch für ihre spirituellen Traditionen und die Verbindung von Naturheilkunde und indigenem Wissen bekannt. Los Tuxtlas ist ein grünes Juwel am Golf, das trotz des menschlichen Drucks seine wilde Schönheit bewahrt hat. Biologie K7 - Biodiversität und vulkanische Böden.",
       hu: "Los Tuxtlas egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Los Tuxtlas kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -592,9 +577,8 @@ image: "/poi-images/los-tuxtlas-reserve-life-v2.webp"
     type: "forest",
     parent: "MX-QUE",
     coords: [-99.73, 21.2],
-    name: { de: "Sierra Gorda", hu: "Sierra Gorda", ro: "Sierra Gorda", en: "Sierra Gorda",
-image: "/poi-images/sierra-gorda-reserve-life-v2.webp"
-},
+    name: { de: "Sierra Gorda", hu: "Sierra Gorda", ro: "Sierra Gorda", en: "Sierra Gorda"},
+    image: "/poi-images/sierra-gorda-reserve-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Biosphärenreservat Sierra Gorda im Bundesstaat Querétaro ist eines der ökologisch vielfältigsten Gebiete Mexikos und wird oft als 'grünes Herz' des Landes bezeichnet. Es umfasst extreme Gegensätze, von trockenen Wüstenlandschaften in den Tälern bis hin zu nebligen Wolkenwäldern auf den Berggipfeln. Diese Vielfalt ermöglicht das Überleben zahlreicher bedrohter Arten wie Jaguare, Militäraras und den geheimnisvollen Puma. Neben der Natur ist die Region für die fünf Franziskanermissionen bekannt, die von der UNESCO zum Weltkulturerbe erklärt wurden und sich harmonisch in die Landschaft einfügen. Das Reservat wird durch ein preisgekröntes Modell des bürgerschaftlichen Naturschutzes verwaltet, das die lokale Bevölkerung aktiv einbezieht. Sierra Gorda ist ein Paradies für Wanderer und Naturliebhaber, die die Stille der Berge suchen. Geographie K8 - Klimazonen und nachhaltiges Management.",
       hu: "Sierra Gorda egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Sierra Gorda kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -631,9 +615,8 @@ image: "/poi-images/sierra-gorda-reserve-life-v2.webp"
     type: "island",
     parent: "MX-ROO",
     coords: [-87.38, 21.52],
-    name: { de: "Holbox-Insel", hu: "Holbox sziget", ro: "Insula Holbox", en: "Holbox Island",
-image: "/poi-images/isla-holbox-life-v2.webp"
-},
+    name: { de: "Holbox-Insel", hu: "Holbox sziget", ro: "Insula Holbox", en: "Holbox Island"},
+    image: "/poi-images/isla-holbox-life-v2.webp",
     descriptionAdvanced: {
       de: "Holbox ist eine verträumte Insel vor der Nordküste der Halbinsel Yucatán, die für ihre entspannte Atmosphäre und ihre sandigen, autofreien Straßen bekannt ist. Die Insel gehört zum Naturschutzgebiet Yum Balam und bietet unberührte Strände mit flachem, türkisblauem Wasser. Ein weltweit bekanntes Highlight ist die Möglichkeit, zwischen Juni und September mit den sanften Walhaien zu schnorcheln, die sich hier versammeln. Flamingos, Pelikane und andere Wasservögel sind in den flachen Lagunen der Insel allgegenwärtig. Die bunten Wandmalereien im Dorf und das Fehlen von großen Hotelketten verleihen Holbox einen einzigartigen, fast magischen Charme. Es ist ein ort, an dem man den Rhythmus der Natur wiederfindet und die Schönheit der mexikanischen Karibik in ihrer reinsten Form genießen kann. Biologie K6 - Meeresbiologie und Ökotourismus.",
       hu: "Holbox sziget egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Holbox sziget kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -670,9 +653,8 @@ image: "/poi-images/isla-holbox-life-v2.webp"
     type: "island",
     parent: "MX-ROO",
     coords: [-86.73, 21.23],
-    name: { de: "Isla Mujeres", hu: "Isla Mujeres", ro: "Isla Mujeres", en: "Isla Mujeres",
-image: "/poi-images/isla-mujeres-life-v2.webp"
-},
+    name: { de: "Isla Mujeres", hu: "Isla Mujeres", ro: "Isla Mujeres", en: "Isla Mujeres"},
+    image: "/poi-images/isla-mujeres-life-v2.webp",
     descriptionAdvanced: {
       de: "Isla Mujeres, die 'Insel der Frauen', liegt nur eine kurze Fährfahrt von Cancún entfernt und bietet eine völlig andere, ruhigere Welt. Bekannt für die Playa Norte, einen der schönsten Strände der Welt, besticht die Insel durch kristallklares Wasser und feinen weißen Sand. Am südlichen Ende der Insel, Punta Sur, befinden sich die Überreste eines antiken Maya-Tempels, der der Göttin Ixchel gewidmet war. Die Insel ist ein Paradies für Taucher und Schnorchler, besonders im Garrafón-Park oder beim Besuch des Unterwassermuseums MUSA. Trotz ihrer Beliebtheit hat sich die Insel einen gewissen Kleinstadtcharme mit bunten Häusern und freundlichen Bewohnern bewahrt. Isla Mujeres ist der Ort, an dem die ersten Sonnenstrahlen Mexikos das Land berühren. Geographie K7 - Küstenmorphologie und Inselkultur.",
       hu: "Isla Mujeres egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Isla Mujeres kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -709,9 +691,8 @@ image: "/poi-images/isla-mujeres-life-v2.webp"
     type: "island",
     parent: "MX-MIC",
     coords: [-101.69, 19.55],
-    name: { de: "Janitzio", hu: "Janitzio", ro: "Janitzio", en: "Janitzio",
-image: "/poi-images/janitzio-island-life-v2.webp"
-},
+    name: { de: "Janitzio", hu: "Janitzio", ro: "Janitzio", en: "Janitzio"},
+    image: "/poi-images/janitzio-island-life-v2.webp",
     descriptionAdvanced: {
       de: "Janitzio ist die bekannteste der fünf Inseln im Pátzcuaro-See im Bundesstaat Michoacán und ein Zentrum der Purépecha-Kultur. Schon von weitem ist die monumentale Statue von José María Morelos sichtbar, die den höchsten Punkt der Insel krönt. Besonders berühmt ist Janitzio für seine Feierlichkeiten zum Tag der Toten (Día de Muertos), wenn der See von den Kerzen der Fischer in ihren traditionellen Booten erleuchtet wird. Die engen, steilen Gassen der Insel sind gesäumt von Kunsthandwerksläden und Restaurants, die lokale Spezialitäten wie 'Pescado Blanco' anbieten. Die Fischer mit ihren charakteristischen Schmetterlingsnetzen sind ein ikonisches Symbol für die Identität dieser Region. Janitzio bietet eine tiefgehende Erfahrung der lebendigen Traditionen und des spirituellen Erbes Mexikos. Geschichte K7 - Indigene Traditionen und Unabhängigkeitskampf.",
       hu: "Janitzio egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Janitzio kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -748,9 +729,8 @@ image: "/poi-images/janitzio-island-life-v2.webp"
     type: "island",
     parent: "MX-BCS",
     coords: [-110.34, 24.52],
-    name: { de: "Isla Espiritu Santo", hu: "Espiritu Santo sziget", ro: "Insula Espiritu Santo", en: "Espiritu Santo Island",
-image: "/poi-images/isla-espiritu-santo-life-v2.webp"
-},
+    name: { de: "Isla Espiritu Santo", hu: "Espiritu Santo sziget", ro: "Insula Espiritu Santo", en: "Espiritu Santo Island"},
+    image: "/poi-images/isla-espiritu-santo-life-v2.webp",
     descriptionAdvanced: {
       de: "Isla Espíritu Santo im Golf von Kalifornien ist eine unbewohnte Insel von wilder, fast surrealer Schönheit und gehört zum UNESCO-Weltnaturerbe. Die kontrastreiche Landschaft aus rötlichen Vulkanfelsen, türkisfarbenem Wasser und weißen Sandstränden macht sie zu einem Juwel der Baja California. Ein absolutes Highlight ist das Schnorcheln mit den verspielten Seelöwen in der Kolonie von Los Islotes. Die Gewässer um die Insel wimmeln von Leben, von bunten Tropenfischen bis hin zu vorbeiziehenden Walen und Delfinen. Als Naturschutzgebiet bietet die Insel wichtige Nistplätze für Seevögel und ist ein beliebtes Ziel für Seekajakfahrer und Camper, die die absolute Einsamkeit suchen. Isla Espíritu Santo zeigt den Golf von Kalifornien als das 'Aquarium der Welt', wie Jacques Cousteau ihn einst nannte. Biologie K8 - Marine Biodiversität und Inselökologie.",
       hu: "Espiritu Santo sziget egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Espiritu Santo sziget kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -787,9 +767,8 @@ image: "/poi-images/isla-espiritu-santo-life-v2.webp"
     type: "island",
     parent: "MX-SON",
     coords: [-112.8, 28.98],
-    name: { de: "Isla Tiburon", hu: "Tiburon sziget", ro: "Insula Tiburon", en: "Tiburon Island",
-image: "/poi-images/isla-tiburon-life-v2.webp"
-},
+    name: { de: "Isla Tiburon", hu: "Tiburon sziget", ro: "Insula Tiburon", en: "Tiburon Island"},
+    image: "/poi-images/isla-tiburon-life-v2.webp",
     descriptionAdvanced: {
       de: "Isla Tiburón, die größte Insel Mexikos, liegt im Golf von Kalifornien und ist das heilige angestammte Land des Seri-Volkes (Comcaac). Die Insel ist ein streng geschütztes Naturreservat und beherbergt eine einzigartige Wüstenfauna, darunter Dickhornschafe und Maultierhirsche. Für die Seri ist die Insel nicht nur ein physischer Ort, sondern ein spirituelles Zentrum ihrer Kultur und Identität. Da der Zugang streng kontrolliert wird, hat Isla Tiburón eine fast unberührte Wildnis bewahrt, die einen tiefen Einblick in die ursprünglichen Ökosysteme der Sonora-Wüste bietet. Die rauen Berge der Insel und die umliegenden fischreichen Gewässer bilden eine Landschaft von archaischer Schönheit. Geographie K8 - Indigene Landrechte und Wüstenbiotope.",
       hu: "Tiburon sziget egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Tiburon sziget kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -826,9 +805,8 @@ image: "/poi-images/isla-tiburon-life-v2.webp"
     type: "island",
     parent: "MX-NAY",
     coords: [-105.57, 20.7],
-    name: { de: "Marietas-Inseln", hu: "Marietas szigetek", ro: "Insulele Marietas", en: "Marietas Islands",
-image: "/poi-images/marietas-islands-life-v2.webp"
-},
+    name: { de: "Marietas-Inseln", hu: "Marietas szigetek", ro: "Insulele Marietas", en: "Marietas Islands"},
+    image: "/poi-images/marietas-islands-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Islas Marietas sind eine Gruppe kleiner, unbewohnter Inseln vor der Küste von Nayarit, die für ihren 'versteckten Strand' (Playa del Amor) weltberühmt sind. Dieser Strand befindet sich in einem eingestürzten Vulkankrater und ist nur durch einen schmalen Wassertunnel erreichbar. Die Inseln sind vulkanischen Ursprungs und beherbergen eine enorme Vielfalt an Meeresvögeln, darunter den seltenen Blaufußtölpel. Jacques Cousteau setzte sich massiv für den Schutz dieser Inseln ein, was schließlich zu ihrer Ernennung zum Nationalpark führte. Um das empfindliche Ökosystem und die Korallenriffe zu schützen, ist der Zugang heute streng limitiert. Die Marietas sind ein herausragendes Beispiel für die Regenerationskraft der Natur nach militärischer Nutzung in der Vergangenheit. Biologie K6 - Vulkaninseln und Artenschutz.",
       hu: "Marietas szigetek egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Marietas szigetek kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -865,9 +843,8 @@ image: "/poi-images/marietas-islands-life-v2.webp"
     type: "island",
     parent: "MX-ROO",
     coords: [-86.78, 21.49],
-    name: { de: "Isla Contoy", hu: "Contoy sziget", ro: "Insula Contoy", en: "Isla Contoy",
-image: "/poi-images/contoy-island-life-v2.webp"
-},
+    name: { de: "Isla Contoy", hu: "Contoy sziget", ro: "Insula Contoy", en: "Isla Contoy"},
+    image: "/poi-images/contoy-island-life-v2.webp",
     descriptionAdvanced: {
       de: "Isla Contoy ist ein unberührtes Naturparadies im Norden der Riviera Maya und gilt als das wichtigste Vogelschutzgebiet der mexikanischen Karibik. Die kleine Insel ist permanent unbewohnt und der Zugang für Touristen ist auf nur 200 Personen pro Tag begrenzt, um das ökologische Gleichgewicht zu wahren. Hier treffen das Karibische Meer und der Golf von Mexiko aufeinander, was zu einem nährstoffreichen Wasser führt, das hunderte von Vogelarten und Seekühe anzieht. Die dichten Mangrovenwälder der Insel bieten sichere Nistplätze für Fregattvögel, Pelikane und Kormorane. Ein kleiner Aussichtsturm und ein ökologisches Museum informieren über die Bemühungen zum Schutz dieses fragilen Ökosystems. Isla Contoy ist ein Ort der Stille und ein Rückzugsort für das Leben in seiner reinsten Form. Geographie K7 - Küstenschutz und marine Reservate.",
       hu: "Contoy sziget egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Contoy sziget kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -904,9 +881,8 @@ image: "/poi-images/contoy-island-life-v2.webp"
     type: "agriculture",
     parent: "MX-JAL",
     coords: [-103.83, 20.88],
-    name: { de: "Agavenfelder von Tequila", hu: "Tequila agave-foldei", ro: "Campurile de agave din Tequila", en: "Tequila Agave Fields",
-image: "/poi-images/tequila-agave-fields-life-v2.webp"
-},
+    name: { de: "Agavenfelder von Tequila", hu: "Tequila agave-foldei", ro: "Campurile de agave din Tequila", en: "Tequila Agave Fields"},
+    image: "/poi-images/tequila-agave-fields-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Agavenlandschaft von Tequila im Bundesstaat Jalisco ist ein UNESCO-Welterbe und das Herzstück der mexikanischen Identität. Kilometerlange Felder mit der Blauen Agave (Agave tequilana) überziehen die Hänge des Vulkans Tequila und bilden ein faszinierendes blaugrünes Meer. Hier wird seit Jahrhunderten die Kunst der Tequila-Herstellung perfektioniert, die eng mit der Geschichte und den Traditionen der Region verknüpft ist. Die Arbeit der 'Jimadores', die die schweren Agavenherzen mit traditionellen Werkzeugen ernten, ist ein beeindruckendes Zeugnis menschlicher Ausdauer. Die Landschaft umfasst auch die alten Industrieanlagen und Brennereien, die oft in prächtigen Haciendas untergebracht sind. Tequila ist nicht nur ein Getränk, sondern ein Symbol für das kulturelle Erbe Mexikos. Geschichte K8 - Landwirtschaftliche Traditionen und Welterbe.",
       hu: "Tequila agave-foldei egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Tequila agave-foldei kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -943,9 +919,8 @@ image: "/poi-images/tequila-agave-fields-life-v2.webp"
     type: "agriculture",
     parent: "MX-BCN",
     coords: [-116.52, 32.06],
-    name: { de: "Valle de Guadalupe", hu: "Valle de Guadalupe", ro: "Valea Guadalupe", en: "Valle de Guadalupe",
-image: "/poi-images/valle-de-guadalupe-vineyards-life-v2.webp"
-},
+    name: { de: "Valle de Guadalupe", hu: "Valle de Guadalupe", ro: "Valea Guadalupe", en: "Valle de Guadalupe"},
+    image: "/poi-images/valle-de-guadalupe-vineyards-life-v2.webp",
     descriptionAdvanced: {
       de: "Das Valle de Guadalupe in Baja California ist die wichtigste Weinregion Mexikos und wird oft als das 'Napa Valley von Mexiko' bezeichnet. In diesem sonnenverwöhnten Tal werden über 90 % des mexikanischen Weins produziert, wobei das mediterrane Klima ideale Bedingungen für Rebsorten wie Cabernet Sauvignon, Nebbiolo und Tempranillo bietet. Die Landschaft ist geprägt von endlosen Reihen von Weinstöcken, modernen Boutique-Weingütern und rustikalen Haciendas vor der Kulisse trockener Berge. Neben dem Weinbau hat sich das Tal zu einem kulinarischen Zentrum für die 'Baja Med'-Küche entwickelt, die lokale Meeresfrüchte mit mediterranen Einflüssen kombiniert. Ein Besuch im Tal bietet eine genussvolle Reise durch die moderne mexikanische Weinkultur und zeigt die Innovationskraft der lokalen Winzer. Geographie K7 - Agrarregionen und spezialisierter Anbau.",
       hu: "Valle de Guadalupe egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Valle de Guadalupe kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -982,9 +957,8 @@ image: "/poi-images/valle-de-guadalupe-vineyards-life-v2.webp"
     type: "agriculture",
     parent: "MX-VER",
     coords: [-96.13, 19.52],
-    name: { de: "Kaffeefarmen von Veracruz", hu: "Veracruz kavefarmjai", ro: "Fermele de cafea din Veracruz", en: "Veracruz Coffee Farms",
-image: "/poi-images/veracruz-coffee-farms-life-v2.webp"
-},
+    name: { de: "Kaffeefarmen von Veracruz", hu: "Veracruz kavefarmjai", ro: "Fermele de cafea din Veracruz", en: "Veracruz Coffee Farms"},
+    image: "/poi-images/veracruz-coffee-farms-life-v2.webp",
     descriptionAdvanced: {
       de: "Die Kaffeefarmen von Veracruz, insbesondere rund um die Städte Coatepec und Xalapa, gehören zu den traditionsreichsten und besten Anbaugebieten Mexikos. In diesen nebligen Hochlandregionen gedeiht der Kaffee im Schatten hoher Urwaldbäume, was ihm ein einzigartiges Aroma und eine feine Säure verleiht. Der Anbau ist eng mit der lokalen Geschichte verknüpft, und viele der alten Fincas stammen noch aus dem 19. Jahrhundert. Besucher können den gesamten Prozess von der Ernte der roten Kaffeekirschen bis zur Röstung miterleben. Coatepec wurde aufgrund seiner bedeutenden Kaffeekultur als 'Pueblo Mágico' ausgezeichnet. Der Duft von frisch geröstetem Kaffee liegt hier ständig in der Luft und erzählt von der Leidenschaft der Menschen für ihr wichtigstes Exportgut. Sachkunde K5 - Nutzpflanzen und Welthandel.",
       hu: "Veracruz kavefarmjai egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Veracruz kavefarmjai kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -1021,9 +995,8 @@ image: "/poi-images/veracruz-coffee-farms-life-v2.webp"
     type: "agriculture",
     parent: "MX-CHP",
     coords: [-92.25, 15.85],
-    name: { de: "Kaffeefincas in Chiapas", hu: "Chiapas kavefincai", ro: "Fincile de cafea din Chiapas", en: "Chiapas Coffee Fincas",
-image: "/poi-images/chiapas-coffee-fincas-life-v2.webp"
-},
+    name: { de: "Kaffeefincas in Chiapas", hu: "Chiapas kavefincai", ro: "Fincile de cafea din Chiapas", en: "Chiapas Coffee Fincas"},
+    image: "/poi-images/chiapas-coffee-fincas-life-v2.webp",
     descriptionAdvanced: {
       de: "Chiapas ist das größte Kaffeeanbaugebiet Mexikos und bekannt für seine kräftigen, oft biologisch zertifizierten Kaffeesorten aus dem Hochland der Sierra Madre. Die Fincas liegen oft versteckt in nebligen Bergwäldern und werden häufig von indigenen Kooperativen bewirtschaftet. Diese Gemeinschaften kombinieren traditionelles Wissen mit modernen ökologischen Standards, um einen Kaffee von Weltruf zu produzieren. Die Region Soconusco im Süden von Chiapas gilt als Wiege des mexikanischen Kaffees und beherbergt historische Farmen, die teilweise sogar Gästezimmer für Agrotourismus anbieten. Der Kaffee aus Chiapas ist nicht nur ein Genussmittel, sondern eine lebenswichtige Einkommensquelle, die den Erhalt der Wälder unterstützt. Ein Besuch auf einer Finca bietet tiefe Einblicke in das soziale und ökologische Gefüge der Region. Biologie K7 - Nachhaltige Landwirtschaft und Hochlandökosysteme.",
       hu: "Chiapas kavefincai egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Chiapas kavefincai kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -1060,9 +1033,8 @@ image: "/poi-images/chiapas-coffee-fincas-life-v2.webp"
     type: "agriculture",
     parent: "MX-OAX",
     coords: [-96.72, 16.97],
-    name: { de: "Mezcal-Agave in Oaxaca", hu: "Oaxaca mezcal-agavei", ro: "Agava pentru mezcal din Oaxaca", en: "Oaxaca Mezcal Agave",
-image: "/poi-images/oaxaca-mezcal-agave-life-v2.webp"
-},
+    name: { de: "Mezcal-Agave in Oaxaca", hu: "Oaxaca mezcal-agavei", ro: "Agava pentru mezcal din Oaxaca", en: "Oaxaca Mezcal Agave"},
+    image: "/poi-images/oaxaca-mezcal-agave-life-v2.webp",
     descriptionAdvanced: {
       de: "Oaxaca ist die unbestrittene Hauptstadt des Mezcals, einer traditionellen Spirituose, die aus verschiedenen Agavenarten (Maguey) gewonnen wird. Anders als Tequila wird Mezcal oft in kleinen, familiären 'Palenques' nach jahrhundertealten Methoden handwerklich hergestellt. Die Landschaft um Santiago Matatlán ist geprägt von weiten Agavenfeldern, die in der trockenen Erde des Tals gedeihen. Die Herzen der Agaven werden in erdigen Grubenöfen geröstet, was dem Mezcal sein charakteristisches rauchiges Aroma verleiht. Die Vielfalt der verwendeten Agavenarten sorgt für ein breites Spektrum an Geschmacksnoten, von süßlich-mild bis würzig-erdig. Mezcal ist tief in der rituellen und sozialen Kultur Oaxacas verwurzelt und gilt als der 'Geist' der Region. Sachkunde K6 - Kulturelle Traditionen und Handwerk.",
       hu: "Oaxaca mezcal-agavei egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Oaxaca mezcal-agavei kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -1099,9 +1071,8 @@ image: "/poi-images/oaxaca-mezcal-agave-life-v2.webp"
     type: "agriculture",
     parent: "MX-MIC",
     coords: [-102.05, 19.41],
-    name: { de: "Avocadoplantagen in Michoacan", hu: "Michoacan avokado-ultetvenyek", ro: "Livezi de avocado din Michoacan", en: "Michoacan Avocado Orchards",
-image: "/poi-images/michoacan-avocado-orchards-life-v2.webp"
-},
+    name: { de: "Avocadoplantagen in Michoacan", hu: "Michoacan avokado-ultetvenyek", ro: "Livezi de avocado din Michoacan", en: "Michoacan Avocado Orchards"},
+    image: "/poi-images/michoacan-avocado-orchards-life-v2.webp",
     descriptionAdvanced: {
       de: "Michoacán ist das weltweite Zentrum der Avocadoproduktion und wird oft als der 'Avocado-Obstgarten der Welt' bezeichnet. Die fruchtbaren vulkanischen Böden und das milde Klima bieten ideale Bedingungen für die Sorte Hass, die hier das ganze Jahr über geerntet werden kann. Riesige Plantagen erstrecken sich über die sanften Hügel der Region, insbesondere rund um die Stadt Uruapan. Die Avocado ist für Mexiko das 'grüne Gold', da sie ein bedeutender Wirtschaftsfaktor und ein Symbol der mexikanischen Küche weltweit ist. Der massive Anbau stellt die Region jedoch auch vor ökologische Herausforderungen wie hohen Wasserverbrauch und den Erhalt der Wälder. Dennoch ist die Professionalität und Skalierung dieses Wirtschaftszweiges in Michoacán weltweit einzigartig und beeindruckend. Geographie K8 - Globale Märkte und Monokulturen.",
       hu: "Michoacan avokado-ultetvenyek egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Michoacan avokado-ultetvenyek kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",
@@ -1138,9 +1109,8 @@ image: "/poi-images/michoacan-avocado-orchards-life-v2.webp"
     type: "agriculture",
     parent: "MX-SIN",
     coords: [-108.98, 25.79],
-    name: { de: "Mangohaine in Sinaloa", hu: "Sinaloa mango-ultetvenyek", ro: "Livezi de mango din Sinaloa", en: "Sinaloa Mango Orchards",
-image: "/poi-images/sinaloa-mango-orchards-life-v2.webp"
-},
+    name: { de: "Mangohaine in Sinaloa", hu: "Sinaloa mango-ultetvenyek", ro: "Livezi de mango din Sinaloa", en: "Sinaloa Mango Orchards"},
+    image: "/poi-images/sinaloa-mango-orchards-life-v2.webp",
     descriptionAdvanced: {
       de: "Sinaloa ist der führende Produzent von Mangos in Mexiko und bekannt für die hohe Qualität seiner Früchte, die weltweit exportiert werden. Die weiten Ebenen des Bundesstaates sind im Sommer von den tiefgrünen Kronen der Mangobäume bedeckt, die Sorten wie Ataulfo, Kent und Keitt hervorbringen. Besonders die Region um Mazatlán und Rosario ist für ihre süßen und saftigen Früchte berühmt. Der Mangoanbau ist ein entscheidender Faktor für die ländliche Wirtschaft und erfordert während der Erntezeit tausende fleißige Hände. Die reifen Mangos aus Sinaloa sind ein Inbegriff des tropischen Mexikos und finden ihren Weg in unzählige Gerichte und Märkte weltweit. Die Modernisierung der Bewässerungssysteme hat Sinaloa zu einer agrarindustriellen Macht im Nordwesten des Landes gemacht. Geographie K7 - Bewässerungslandwirtschaft und Exportwirtschaft.",
       hu: "Sinaloa mango-ultetvenyek egy figyelemre melto termeszeti es elmenyhelyszin Mexikoban, amely egyedi hangulataval es kulturalis jelentosegevel vonzza a latogatokat. A helyszin es kornyezete autentikus betekintest nyujt a regio identitasaba, ahol a hagyomanyos eletmod es a modern fejlodes talalkozik. Az utazok ertekelik a tortenelem, a termeszet es a hetkoznapi kultura valtozatos elegyet, amely meghatarozza ezt a helyet. A kornyek bejarasa soran tipikus epiteszet, helyi piacok es jellegzetes tajformak fedezhetok fel. Sinaloa mango-ultetvenyek kivaloan alkalmas egy olyan kirandulasra, amely egyszerre kinal ismeretszerzest es kikapcsolodast. Egy latogatas melyebb betekintest nyujt Mexiko sokszinusegebe, es maradando elmennyel ajandekozza meg az utazokat.",

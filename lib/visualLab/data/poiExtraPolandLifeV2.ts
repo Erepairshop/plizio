@@ -6,9 +6,8 @@ export const polandLifeV2: POI[] = [
     id: "poland-bialowieza-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Białowieża-Nationalpark", hu: "Białowieża Nemzeti Park", ro: "Parcul Național Białowieża", en: "Białowieża National Park",
-image: "/poi-images/poland-bialowieza-national-park-life-v2.webp"
-},
+    name: { de: "Białowieża-Nationalpark", hu: "Białowieża Nemzeti Park", ro: "Parcul Național Białowieża", en: "Białowieża National Park"},
+    image: "/poi-images/poland-bialowieza-national-park-life-v2.webp",
     coords: [23.8667, 52.7333],
     coordinates: { lat: 52.7333, lng: 23.8667 },
     description: {
@@ -40,9 +39,8 @@ image: "/poi-images/poland-bialowieza-national-park-life-v2.webp"
     id: "poland-tatra-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Tatra", hu: "Tátra Nemzeti Park", ro: "Parcul Național Tatra", en: "Tatra National Park",
-image: "/poi-images/poland-tatra-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Tatra", hu: "Tátra Nemzeti Park", ro: "Parcul Național Tatra", en: "Tatra National Park"},
+    image: "/poi-images/poland-tatra-national-park-life-v2.webp",
     coords: [19.9833, 49.25],
     coordinates: { lat: 49.25, lng: 19.9833 },
     description: {
@@ -75,9 +73,8 @@ image: "/poi-images/poland-tatra-national-park-life-v2.webp"
     id: "poland-biebrza-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Biebrza-Nationalpark", hu: "Biebrza Nemzeti Park", ro: "Parcul Național Biebrza", en: "Biebrza National Park",
-image: "/poi-images/poland-biebrza-national-park-life-v2.webp"
-},
+    name: { de: "Biebrza-Nationalpark", hu: "Biebrza Nemzeti Park", ro: "Parcul Național Biebrza", en: "Biebrza National Park"},
+    image: "/poi-images/poland-biebrza-national-park-life-v2.webp",
     coords: [22.8, 53.6],
     coordinates: { lat: 53.6, lng: 22.8 },
     description: {
@@ -109,9 +106,8 @@ image: "/poi-images/poland-biebrza-national-park-life-v2.webp"
     id: "poland-slowinski-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Slowinzischer Nationalpark", hu: "Slowinski Nemzeti Park", ro: "Parcul Național Słowiński", en: "Słowiński National Park",
-image: "/poi-images/poland-slowinski-national-park-life-v2.webp"
-},
+    name: { de: "Slowinzischer Nationalpark", hu: "Slowinski Nemzeti Park", ro: "Parcul Național Słowiński", en: "Słowiński National Park"},
+    image: "/poi-images/poland-slowinski-national-park-life-v2.webp",
     coords: [17.4, 54.7],
     coordinates: { lat: 54.7, lng: 17.4 },
     description: {
@@ -143,9 +139,8 @@ image: "/poi-images/poland-slowinski-national-park-life-v2.webp"
     id: "poland-bieszczady-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Bieszczady", hu: "Bieszczady Nemzeti Park", ro: "Parcul Național Bieszczady", en: "Bieszczady National Park",
-image: "/poi-images/poland-bieszczady-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Bieszczady", hu: "Bieszczady Nemzeti Park", ro: "Parcul Național Bieszczady", en: "Bieszczady National Park"},
+    image: "/poi-images/poland-bieszczady-national-park-life-v2.webp",
     coords: [22.6, 49.1],
     coordinates: { lat: 49.1, lng: 22.6 },
     description: {
@@ -177,9 +172,8 @@ image: "/poi-images/poland-bieszczady-national-park-life-v2.webp"
     id: "poland-kampinos-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Kampinos", hu: "Kampinos Nemzeti Park", ro: "Parcul Național Kampinos", en: "Kampinos National Park",
-image: "/poi-images/poland-kampinos-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Kampinos", hu: "Kampinos Nemzeti Park", ro: "Parcul Național Kampinos", en: "Kampinos National Park"},
+    image: "/poi-images/poland-kampinos-national-park-life-v2.webp",
     coords: [20.5833, 52.3167],
     coordinates: { lat: 52.3167, lng: 20.5833 },
     description: {
@@ -212,9 +206,8 @@ image: "/poi-images/poland-kampinos-national-park-life-v2.webp"
     id: "poland-wroclaw-zoo-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Zoo Breslau", hu: "Wrocławi Állatkert", ro: "Grădina Zoologică din Wrocław", en: "Wrocław Zoo",
-image: "/poi-images/poland-wroclaw-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Breslau", hu: "Wrocławi Állatkert", ro: "Grădina Zoologică din Wrocław", en: "Wrocław Zoo"},
+    image: "/poi-images/poland-wroclaw-zoo-life-v2.webp",
     coords: [17.075, 51.105],
     coordinates: { lat: 51.105, lng: 17.075 },
     description: {
@@ -246,9 +239,8 @@ image: "/poi-images/poland-wroclaw-zoo-life-v2.webp"
     id: "poland-warsaw-zoo-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Zoo Warschau", hu: "Varsói Állatkert", ro: "Grădina Zoologică din Varșovia", en: "Warsaw Zoo",
-image: "/poi-images/poland-warsaw-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Warschau", hu: "Varsói Állatkert", ro: "Grădina Zoologică din Varșovia", en: "Warsaw Zoo"},
+    image: "/poi-images/poland-warsaw-zoo-life-v2.webp",
     coords: [21.0222, 52.2583],
     coordinates: { lat: 52.2583, lng: 21.0222 },
     description: {
@@ -280,9 +272,8 @@ image: "/poi-images/poland-warsaw-zoo-life-v2.webp"
     id: "poland-pieniny-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Pieninen-Nationalpark", hu: "Pieniny Nemzeti Park", ro: "Parcul Național Pieniny", en: "Pieniny National Park",
-image: "/poi-images/poland-pieniny-national-park-life-v2.webp"
-},
+    name: { de: "Pieninen-Nationalpark", hu: "Pieniny Nemzeti Park", ro: "Parcul Național Pieniny", en: "Pieniny National Park"},
+    image: "/poi-images/poland-pieniny-national-park-life-v2.webp",
     coords: [20.3833, 49.4167],
     coordinates: { lat: 49.4167, lng: 20.3833 },
     description: {
@@ -314,9 +305,8 @@ image: "/poi-images/poland-pieniny-national-park-life-v2.webp"
     id: "poland-wigry-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Wigry", hu: "Wigry Nemzeti Park", ro: "Parcul Național Wigry", en: "Wigry National Park",
-image: "/poi-images/poland-wigry-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Wigry", hu: "Wigry Nemzeti Park", ro: "Parcul Național Wigry", en: "Wigry National Park"},
+    image: "/poi-images/poland-wigry-national-park-life-v2.webp",
     coords: [23.0833, 54.0167],
     coordinates: { lat: 54.0167, lng: 23.0833 },
     description: {
@@ -348,9 +338,8 @@ image: "/poi-images/poland-wigry-national-park-life-v2.webp"
     id: "poland-karkonosze-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Karkonosze", hu: "Karkonosze Nemzeti Park", ro: "Parcul Național Karkonosze", en: "Karkonosze National Park",
-image: "/poi-images/poland-karkonosze-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Karkonosze", hu: "Karkonosze Nemzeti Park", ro: "Parcul Național Karkonosze", en: "Karkonosze National Park"},
+    image: "/poi-images/poland-karkonosze-national-park-life-v2.webp",
     coords: [15.6333, 50.75],
     coordinates: { lat: 50.75, lng: 15.6333 },
     description: {
@@ -382,9 +371,8 @@ image: "/poi-images/poland-karkonosze-national-park-life-v2.webp"
     id: "poland-wolinski-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Wolin", hu: "Wolin Nemzeti Park", ro: "Parcul Național Wolin", en: "Wolin National Park",
-image: "/poi-images/poland-wolinski-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Wolin", hu: "Wolin Nemzeti Park", ro: "Parcul Național Wolin", en: "Wolin National Park"},
+    image: "/poi-images/poland-wolinski-national-park-life-v2.webp",
     coords: [14.5, 53.9333],
     coordinates: { lat: 53.9333, lng: 14.5 },
     description: {
@@ -416,9 +404,8 @@ image: "/poi-images/poland-wolinski-national-park-life-v2.webp"
     id: "poland-babia-gora-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Babia Góra", hu: "Babia Góra Nemzeti Park", ro: "Parcul Național Babia Góra", en: "Babia Góra National Park",
-image: "/poi-images/poland-babia-gora-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Babia Góra", hu: "Babia Góra Nemzeti Park", ro: "Parcul Național Babia Góra", en: "Babia Góra National Park"},
+    image: "/poi-images/poland-babia-gora-national-park-life-v2.webp",
     coords: [19.5333, 49.5833],
     coordinates: { lat: 49.5833, lng: 19.5333 },
     description: {
@@ -450,9 +437,8 @@ image: "/poi-images/poland-babia-gora-national-park-life-v2.webp"
     id: "poland-roztocze-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Roztocze", hu: "Roztocze Nemzeti Park", ro: "Parcul Național Roztocze", en: "Roztocze National Park",
-image: "/poi-images/poland-roztocze-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Roztocze", hu: "Roztocze Nemzeti Park", ro: "Parcul Național Roztocze", en: "Roztocze National Park"},
+    image: "/poi-images/poland-roztocze-national-park-life-v2.webp",
     coords: [23.0, 50.6],
     coordinates: { lat: 50.6, lng: 23.0 },
     description: {
@@ -484,9 +470,8 @@ image: "/poi-images/poland-roztocze-national-park-life-v2.webp"
     id: "poland-stolowe-mountains-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Heuscheuergebirge", hu: "Tábla-hegység Nemzeti Park", ro: "Parcul Național Munții Stołowe", en: "Stołowe Mountains National Park",
-image: "/poi-images/poland-stolowe-mountains-life-v2.webp"
-},
+    name: { de: "Nationalpark Heuscheuergebirge", hu: "Tábla-hegység Nemzeti Park", ro: "Parcul Național Munții Stołowe", en: "Stołowe Mountains National Park"},
+    image: "/poi-images/poland-stolowe-mountains-life-v2.webp",
     coords: [16.3333, 50.45],
     coordinates: { lat: 50.45, lng: 16.3333 },
     description: {
@@ -518,9 +503,8 @@ image: "/poi-images/poland-stolowe-mountains-life-v2.webp"
     id: "poland-polesie-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Polesie", hu: "Polesie Nemzeti Park", ro: "Parcul Național Polesie", en: "Polesie National Park",
-image: "/poi-images/poland-polesie-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Polesie", hu: "Polesie Nemzeti Park", ro: "Parcul Național Polesie", en: "Polesie National Park"},
+    image: "/poi-images/poland-polesie-national-park-life-v2.webp",
     coords: [23.1833, 51.45],
     coordinates: { lat: 51.45, lng: 23.1833 },
     description: {
@@ -552,9 +536,8 @@ image: "/poi-images/poland-polesie-national-park-life-v2.webp"
     id: "poland-ujscie-warty-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Warthemündung", hu: "Warta-torkolat Nemzeti Park", ro: "Parcul Național Ujście Warty", en: "Ujście Warty National Park",
-image: "/poi-images/poland-ujscie-warty-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Warthemündung", hu: "Warta-torkolat Nemzeti Park", ro: "Parcul Național Ujście Warty", en: "Ujście Warty National Park"},
+    image: "/poi-images/poland-ujscie-warty-national-park-life-v2.webp",
     coords: [14.7167, 52.6],
     coordinates: { lat: 52.6, lng: 14.7167 },
     description: {
@@ -586,9 +569,8 @@ image: "/poi-images/poland-ujscie-warty-national-park-life-v2.webp"
     id: "poland-ojcow-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Ojców", hu: "Ojcówi Nemzeti Park", ro: "Parcul Național Ojców", en: "Ojców National Park",
-image: "/poi-images/poland-ojcow-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Ojców", hu: "Ojcówi Nemzeti Park", ro: "Parcul Național Ojców", en: "Ojców National Park"},
+    image: "/poi-images/poland-ojcow-national-park-life-v2.webp",
     coords: [19.8333, 50.2167],
     coordinates: { lat: 50.2167, lng: 19.8333 },
     description: {
@@ -620,9 +602,8 @@ image: "/poi-images/poland-ojcow-national-park-life-v2.webp"
     id: "poland-swietokrzyski-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Heiligkreuz-Nationalpark", hu: "Szentkereszt Nemzeti Park", ro: "Parcul Național Świętokrzyski", en: "Świętokrzyski National Park",
-image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp"
-},
+    name: { de: "Heiligkreuz-Nationalpark", hu: "Szentkereszt Nemzeti Park", ro: "Parcul Național Świętokrzyski", en: "Świętokrzyski National Park"},
+    image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp",
     coords: [20.9667, 50.8833],
     coordinates: { lat: 50.8833, lng: 20.9667 },
     description: {
@@ -654,9 +635,8 @@ image: "/poi-images/poland-swietokrzyski-national-park-life-v2.webp"
     id: "poland-bory-tucholskie-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Tucheler Heide", hu: "Tuchola-erdő Nemzeti Park", ro: "Parcul Național Bory Tucholskie", en: "Bory Tucholskie National Park",
-image: "/poi-images/poland-bory-tucholskie-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Tucheler Heide", hu: "Tuchola-erdő Nemzeti Park", ro: "Parcul Național Bory Tucholskie", en: "Bory Tucholskie National Park"},
+    image: "/poi-images/poland-bory-tucholskie-national-park-life-v2.webp",
     coords: [17.5167, 53.85],
     coordinates: { lat: 53.85, lng: 17.5167 },
     description: {
@@ -688,9 +668,8 @@ image: "/poi-images/poland-bory-tucholskie-national-park-life-v2.webp"
     id: "poland-lodz-zoo-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Zoo Lodz", hu: "Łódźi Állatkert", ro: "Grădina Zoologică din Łódź", en: "Łódź Zoo",
-image: "/poi-images/poland-lodz-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Lodz", hu: "Łódźi Állatkert", ro: "Grădina Zoologică din Łódź", en: "Łódź Zoo"},
+    image: "/poi-images/poland-lodz-zoo-life-v2.webp",
     coords: [19.4111, 51.7639],
     coordinates: { lat: 51.7639, lng: 19.4111 },
     description: {
@@ -722,9 +701,8 @@ image: "/poi-images/poland-lodz-zoo-life-v2.webp"
     id: "poland-krakow-botanical-garden-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Botanischer Garten Krakau", hu: "Krakkói Botanikus Kert", ro: "Grădina Botanică din Cracovia", en: "Kraków Botanical Garden",
-image: "/poi-images/poland-krakow-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Krakau", hu: "Krakkói Botanikus Kert", ro: "Grădina Botanică din Cracovia", en: "Kraków Botanical Garden"},
+    image: "/poi-images/poland-krakow-botanical-garden-life-v2.webp",
     coords: [19.9578, 50.0617],
     coordinates: { lat: 50.0617, lng: 19.9578 },
     description: {
@@ -756,9 +734,8 @@ image: "/poi-images/poland-krakow-botanical-garden-life-v2.webp"
     id: "poland-gdansk-zoo-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Zoo Danzig", hu: "Gdański Állatkert", ro: "Grădina Zoologică din Gdańsk", en: "Gdańsk Zoo",
-image: "/poi-images/poland-gdansk-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Danzig", hu: "Gdański Állatkert", ro: "Grădina Zoologică din Gdańsk", en: "Gdańsk Zoo"},
+    image: "/poi-images/poland-gdansk-zoo-life-v2.webp",
     coords: [18.5397, 54.4072],
     coordinates: { lat: 54.4072, lng: 18.5397 },
     description: {
@@ -790,9 +767,8 @@ image: "/poi-images/poland-gdansk-zoo-life-v2.webp"
     id: "poland-wroclaw-botanical-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Botanischer Garten Breslau", hu: "Wrocławi Botanikus Kert", ro: "Grădina Botanică din Wrocław", en: "Wrocław Botanical Garden",
-image: "/poi-images/poland-wroclaw-botanical-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Breslau", hu: "Wrocławi Botanikus Kert", ro: "Grădina Botanică din Wrocław", en: "Wrocław Botanical Garden"},
+    image: "/poi-images/poland-wroclaw-botanical-life-v2.webp",
     coords: [17.0469, 51.1164],
     coordinates: { lat: 51.1164, lng: 17.0469 },
     description: {
@@ -824,9 +800,8 @@ image: "/poi-images/poland-wroclaw-botanical-life-v2.webp"
     id: "poland-poznan-new-zoo-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Neuer Zoo Posen", hu: "Poznańi Új Állatkert", ro: "Grădina Zoologică Nouă din Poznań", en: "Poznań New Zoo",
-image: "/poi-images/poland-poznan-new-zoo-life-v2.webp"
-},
+    name: { de: "Neuer Zoo Posen", hu: "Poznańi Új Állatkert", ro: "Grădina Zoologică Nouă din Poznań", en: "Poznań New Zoo"},
+    image: "/poi-images/poland-poznan-new-zoo-life-v2.webp",
     coords: [17.0, 52.4],
     coordinates: { lat: 52.4, lng: 17.0 },
     description: {
@@ -858,9 +833,8 @@ image: "/poi-images/poland-poznan-new-zoo-life-v2.webp"
     id: "poland-magura-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Magura", hu: "Magura Nemzeti Park", ro: "Parcul Național Magura", en: "Magura National Park",
-image: "/poi-images/poland-magura-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Magura", hu: "Magura Nemzeti Park", ro: "Parcul Național Magura", en: "Magura National Park"},
+    image: "/poi-images/poland-magura-national-park-life-v2.webp",
     coords: [21.5, 49.5167],
     coordinates: { lat: 49.5167, lng: 21.5 },
     description: {
@@ -892,9 +866,8 @@ image: "/poi-images/poland-magura-national-park-life-v2.webp"
     id: "poland-narwianski-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Narwiański-Nationalpark", hu: "Narew Nemzeti Park", ro: "Parcul Național Narwiański", en: "Narwiański National Park",
-image: "/poi-images/poland-narwianski-national-park-life-v2.webp"
-},
+    name: { de: "Narwiański-Nationalpark", hu: "Narew Nemzeti Park", ro: "Parcul Național Narwiański", en: "Narwiański National Park"},
+    image: "/poi-images/poland-narwianski-national-park-life-v2.webp",
     coords: [22.8333, 53.1167],
     coordinates: { lat: 53.1167, lng: 22.8333 },
     description: {
@@ -926,9 +899,8 @@ image: "/poi-images/poland-narwianski-national-park-life-v2.webp"
     id: "poland-gorce-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Gorce", hu: "Gorce Nemzeti Park", ro: "Parcul Național Gorce", en: "Gorce National Park",
-image: "/poi-images/poland-gorce-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Gorce", hu: "Gorce Nemzeti Park", ro: "Parcul Național Gorce", en: "Gorce National Park"},
+    image: "/poi-images/poland-gorce-national-park-life-v2.webp",
     coords: [20.15, 49.5833],
     coordinates: { lat: 49.5833, lng: 20.15 },
     description: {
@@ -960,9 +932,8 @@ image: "/poi-images/poland-gorce-national-park-life-v2.webp"
     id: "poland-drawienski-national-park-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Nationalpark Drawa", hu: "Drawa Nemzeti Park", ro: "Parcul Național Drawieński", en: "Drawieński National Park",
-image: "/poi-images/poland-drawienski-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Drawa", hu: "Drawa Nemzeti Park", ro: "Parcul Național Drawieński", en: "Drawieński National Park"},
+    image: "/poi-images/poland-drawienski-national-park-life-v2.webp",
     coords: [15.95, 53.15],
     coordinates: { lat: 53.15, lng: 15.95 },
     description: {
@@ -994,9 +965,8 @@ image: "/poi-images/poland-drawienski-national-park-life-v2.webp"
     id: "poland-zakopane-botanical-life-v2",
     parent: "PL",
     type: "wildlife",
-    name: { de: "Alpiner Botanischer Garten Zakopane", hu: "Zakopanei Alpesi Botanikus Kert", ro: "Grădina Botanică Alpină din Zakopane", en: "Zakopane Alpine Botanical Garden",
-image: "/poi-images/poland-zakopane-botanical-life-v2.webp"
-},
+    name: { de: "Alpiner Botanischer Garten Zakopane", hu: "Zakopanei Alpesi Botanikus Kert", ro: "Grădina Botanică Alpină din Zakopane", en: "Zakopane Alpine Botanical Garden"},
+    image: "/poi-images/poland-zakopane-botanical-life-v2.webp",
     coords: [19.9575, 49.2889],
     coordinates: { lat: 49.2889, lng: 19.9575 },
     description: {

@@ -292,38 +292,7 @@ export const jamaicaCities: POI[] = [
       en: ["The park sits at an elevation of approximately 1,200 meters above sea level", "It is a key gateway to the Blue and John Crow Mountains UNESCO World Heritage site", "Temperatures here can drop to 10°C, a stark contrast to the coastal 30°C heat"]
     },
     elevation: 1200, image: "/poi-images/jm-hollywell.webp"},
-  {
-    id: "jm-catherinespeak",
-    type: "mountain",
-    parent: "JM",
-    coords: [-76.71, 18.08],
-    name: { de: "Catherine's Peak", hu: "Catherine's Peak", ro: "Vârful Catherine", en: "Catherine's Peak" },
-    description: {
-      de: "Ein bekannter Gipfel in den Blue Mountains.",
-      hu: "Egy ismert csúcs a Blue Mountains-ben.",
-      ro: "Un vârf cunoscut în Munții Albaștri.",
-      en: "A prominent peak in the Blue Mountains."
-    },
-    descriptionAdvanced: {
-      de: "Catherine's Peak ist ein markanter Gipfel in der Blue Mountain Range, bekannt für seine natürliche Wasserquelle. Er bietet Wanderern eine anspruchsvolle Route mit Belohnung durch eine unglaubliche Aussicht über die grünen Hänge und bis zur Küste.",
-      hu: "Catherine's Peak a Blue Mountains hegylánc egyik jellegzetes csúcsa, amely természetes forrásvízéről ismert. A túrázóknak kihívást jelentő útvonalat kínál, melynek jutalma a zöldellő lejtőkre és egészen a partig ellátó kilátás.",
-      ro: "Vârful Catherine este un vârf proeminent din lanțul Munților Albaștri, cunoscut pentru izvorul său natural de apă. Oferă drumeților un traseu provocator, recompensat cu o vedere incredibilă asupra versanților verzi și până la coastă.",
-      en: "Catherine's Peak is a distinguished summit within the Blue Mountain range, famous for its namesake spring water source. The peak offers hikers a rewarding ascent through lush plantations with views stretching from the mountains to the Caribbean Sea."
-    },
-    facts: {
-      de: ["Höhe: 1.540 Meter", "Quelle für Mineralwasser", "Blue Mountain Region", "Wanderziel"],
-      hu: ["Magasság: 1540 méter", "Ásványvíz forrás", "Blue Mountain régió", "Túraútvonal"],
-      ro: ["Înălțime: 1.540 metri", "Sursă de apă minerală", "Regiunea Munților Albaștri", "Destinație de drumeție"],
-      en: ["Elevation: 1,540 meters", "Renowned water source", "Blue Mountains range", "Popular hiking trail"]
-    },
-    factsAdvanced: {
-      de: ["Der Gipfel ist nach Catherine Long benannt, der ersten Frau, die ihn 1760 bestieg", "Das hier gewonnene Wasser wird inselweit als Premium-Marke verkauft", "Die Hänge sind oft in mystischen Nebel gehüllt"],
-      hu: ["A csúcs Catherine Long-ról kapta a nevét, aki az első nő volt, aki 1760-ban megmászta", "Az itt nyert vizet prémium márkaként árusítják az egész szigeten", "A lejtőket gyakran titokzatos köd borítja"],
-      ro: ["Vârful este numit după Catherine Long, prima femeie care l-a urcat în 1760", "Apa extrasă de aici este vândută ca brand premium pe toată insula", "Versanții sunt adesea învăluiți într-o ceață mistică"],
-      en: ["The peak is named after Catherine Long, the first woman recorded to climb it in 1760", "The mountain provides high-quality spring water bottled under a leading Jamaican brand", "The surrounding area is famous for producing the world's most expensive coffee beans"]
-    },
-    elevation: 1540, image: "/poi-images/jm-catherinespeak.webp"},
-  {
+    {
     id: "jm-portroyal",
     type: "historical",
     parent: "JM",

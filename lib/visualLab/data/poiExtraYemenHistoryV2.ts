@@ -6,9 +6,8 @@ export const poiExtraYemenHistoryV2: POI[] = [
     type: "historical-site",
     parent: "YE-HD",
     coords: [48.6258, 15.9255],
-    name: { de: "Altstadt von Schibam", hu: "Sibm óvárosa", ro: "Orașul vechi Shibam", en: "Old Walled City of Shibam",
-image: "/poi-images/shibam-old-city-history-v2.webp"
-},
+    name: { de: "Altstadt von Schibam", hu: "Sibm óvárosa", ro: "Orașul vechi Shibam", en: "Old Walled City of Shibam"},
+    image: "/poi-images/shibam-old-city-history-v2.webp",
     description: {
       de: "Schibam ist berühmt für seine aus Lehmziegeln erbauten Hochhäuser, die bis zu 30 Meter in den Himmel ragen. Die Stadt wird oft als Manhattan der Wüste bezeichnet und gehört zum UNESCO-Weltkulturerbe.",
       hu: "Sibm híres a vályogtéglából épült felhőkarcolóiról, amelyek akár 30 méter magasra is nyúlnak. Gyakran nevezik a sivatag Manhattanének, és az UNESCO világörökség része.",
@@ -26,9 +25,8 @@ image: "/poi-images/shibam-old-city-history-v2.webp"
     type: "ruin",
     parent: "YE-MA",
     coords: [45.3533, 15.4033],
-    name: { de: "Awam-Tempel", hu: "Avám-templom", ro: "Templul Awwam", en: "Awwam Temple",
-image: "/poi-images/awam-temple-history-v2.webp"
-},
+    name: { de: "Awam-Tempel", hu: "Avám-templom", ro: "Templul Awwam", en: "Awwam Temple"},
+    image: "/poi-images/awam-temple-history-v2.webp",
     description: {
       de: "Der Awam-Tempel, auch als Mahram Bilqis bekannt, war ein bedeutendes Heiligtum des sabäischen Reiches in der Nähe von Marib. Er war dem Mondgott Almaqah gewidmet und ist die größte vorislamische Tempelanlage auf der Arabischen Halbinsel.",
       hu: "Az Avám-templom, más néven Mahram Bilkisz, a Sábai Birodalom egyik legfontosabb szentélye volt Márib közelében. Almaqah holdistennek szentelték, és az Arab-félsziget legnagyobb iszlám előtti temploma.",
@@ -46,9 +44,8 @@ image: "/poi-images/awam-temple-history-v2.webp"
     type: "ruin",
     parent: "YE-MA",
     coords: [45.2444, 15.4013],
-    name: { de: "Ruinen des Staudamms von Marib", hu: "A máribi gát romjai", ro: "Ruinele barajului Marib", en: "Great Dam of Marib Ruins",
-image: "/poi-images/marib-dam-ruins-history-v2.webp"
-},
+    name: { de: "Ruinen des Staudamms von Marib", hu: "A máribi gát romjai", ro: "Ruinele barajului Marib", en: "Great Dam of Marib Ruins"},
+    image: "/poi-images/marib-dam-ruins-history-v2.webp",
     description: {
       de: "Der antike Staudamm von Marib war eines der technischen Wunderwerke der antiken Welt und das Herzstück der sabäischen Bewässerungswirtschaft. Sein endgültiger Bruch im 6. Jahrhundert markierte das Ende der antiken Reiche im Jemen.",
       hu: "Az ókori máribi gát az ókori világ egyik mérnöki csodája volt, és a sábai öntözéses gazdálkodás központja. A 6. századi végső átszakadása az ókori jemeni birodalmak végét jelentette.",
@@ -66,9 +63,8 @@ image: "/poi-images/marib-dam-ruins-history-v2.webp"
     type: "ruin",
     parent: "YE-MA",
     coords: [45.3400, 15.4047],
-    name: { de: "Barran-Tempel", hu: "Barrán-templom", ro: "Templul Barran", en: "Barran Temple",
-image: "/poi-images/barran-temple-history-v2.webp"
-},
+    name: { de: "Barran-Tempel", hu: "Barrán-templom", ro: "Templul Barran", en: "Barran Temple"},
+    image: "/poi-images/barran-temple-history-v2.webp",
     description: {
       de: "Der Barran-Tempel, auch als Thron der Bilqis bekannt, ist eine faszinierende archäologische Stätte in Marib. Er zeichnet sich durch seine sechs markanten, monolithischen Kalksteinsäulen aus, von denen fünf noch vollständig stehen.",
       hu: "A Barrán-templom, más néven Bilkisz trónja, egy lenyűgöző régészeti lelőhely Máribban. Hat jellegzetes, monolit mészkő oszlopáról ismert, amelyek közül öt még ma is teljes épségben áll.",
@@ -86,9 +82,8 @@ image: "/poi-images/barran-temple-history-v2.webp"
     type: "ruin",
     parent: "YE-MA",
     coords: [45.0166, 15.4500],
-    name: { de: "Ruinen von Sirwah", hu: "Szirva romjai", ro: "Ruinele din Sirwah", en: "Sirwah Ruins",
-image: "/poi-images/sirwah-ruins-history-v2.webp"
-},
+    name: { de: "Ruinen von Sirwah", hu: "Szirva romjai", ro: "Ruinele din Sirwah", en: "Sirwah Ruins"},
+    image: "/poi-images/sirwah-ruins-history-v2.webp",
     description: {
       de: "Sirwah war eine der wichtigsten militärischen und wirtschaftlichen Zentren des antiken Königreichs Saba. Die Stätte beherbergt monumentale Inschriftensteine, die die Feldzüge der sabäischen Herrscher dokumentieren.",
       hu: "Szirva az ókori Sábai Birodalom egyik legfontosabb katonai és gazdasági központja volt. A helyszínen monumentális feliratos kövek találhatók, amelyek a sábai uralkodók hadjáratait dokumentálják.",
@@ -106,9 +101,8 @@ image: "/poi-images/sirwah-ruins-history-v2.webp"
     type: "monument",
     parent: "YE-SN",
     coords: [44.1265, 15.4410],
-    name: { de: "Dar al-Hadschar", hu: "Dar al-Hadzsar", ro: "Dar al-Hajar", en: "Dar al-Hajar",
-image: "/poi-images/dar-al-hajar-history-v2.webp"
-},
+    name: { de: "Dar al-Hadschar", hu: "Dar al-Hadzsar", ro: "Dar al-Hajar", en: "Dar al-Hajar"},
+    image: "/poi-images/dar-al-hajar-history-v2.webp",
     description: {
       de: "Der spektakuläre Palast Dar al-Hadschar wurde in den 1930er Jahren auf einer bizarren Felsnadel im Wadi Dhar errichtet. Er diente dem Imam Yahya als Sommerresidenz und ist heute ein Wahrzeichen des Jemen.",
       hu: "A látványos Dar al-Hadzsar palotát az 1930-as években építették a Vadi Dhar egy különös sziklatűjére. Jahja imám nyári rezidenciájaként szolgált, ma pedig Jemen egyik jelképe.",
@@ -126,9 +120,8 @@ image: "/poi-images/dar-al-hajar-history-v2.webp"
     type: "historical-site",
     parent: "YE-AM",
     coords: [43.9022, 15.5800],
-    name: { de: "Historische Stadt Thula", hu: "Thula történelmi városa", ro: "Orașul istoric Thula", en: "Thula Old City",
-image: "/poi-images/thula-old-city-history-v2.webp"
-},
+    name: { de: "Historische Stadt Thula", hu: "Thula történelmi városa", ro: "Orașul istoric Thula", en: "Thula Old City"},
+    image: "/poi-images/thula-old-city-history-v2.webp",
     description: {
       de: "Thula ist eine der am besten erhaltenen historischen Bergfestungsstädte des Jemen. Die komplett aus beigefarbenem Stein erbaute Stadt schmiegt sich an eine massive Felswand und ist von einer starken Mauer umgeben.",
       hu: "Thula Jemen egyik legjobban megőrzött történelmi hegyi erődvárosa. A teljesen bézs színű kőből épült város egy hatalmas sziklafalhoz simul, és vastag fal veszi körül.",
@@ -146,9 +139,8 @@ image: "/poi-images/thula-old-city-history-v2.webp"
     type: "historical-site",
     parent: "YE-MW",
     coords: [43.8966, 15.5005],
-    name: { de: "Festungsstadt Kawkaban", hu: "Kawkaban erődvárosa", ro: "Orașul fortăreață Kawkaban", en: "Kawkaban Fortress City",
-image: "/poi-images/kawkaban-fortress-history-v2.webp"
-},
+    name: { de: "Festungsstadt Kawkaban", hu: "Kawkaban erődvárosa", ro: "Orașul fortăreață Kawkaban", en: "Kawkaban Fortress City"},
+    image: "/poi-images/kawkaban-fortress-history-v2.webp",
     description: {
       de: "Die Festungsstadt Kawkaban thront auf einem extrem steilen, fast unzugänglichen Felsplateau in über 2.800 Metern Höhe. Sie diente historischen Herrschern oft als sicherer Zufluchtsort während Belagerungen.",
       hu: "Kawkaban erődvárosa egy rendkívül meredek, szinte megközelíthetetlen sziklafennsíkon magasodik több mint 2800 méter magasságban. A történelmi uralkodóknak gyakran szolgált biztonságos menedékként az ostromok során.",
@@ -166,9 +158,8 @@ image: "/poi-images/kawkaban-fortress-history-v2.webp"
     type: "historical-site",
     parent: "YE-AM",
     coords: [43.9213, 15.5290],
-    name: { de: "Zisterne von Hababa", hu: "Hababa ciszterna", ro: "Cisterna din Hababa", en: "Hababa Cistern",
-image: "/poi-images/hababa-cistern-history-v2.webp"
-},
+    name: { de: "Zisterne von Hababa", hu: "Hababa ciszterna", ro: "Cisterna din Hababa", en: "Hababa Cistern"},
+    image: "/poi-images/hababa-cistern-history-v2.webp",
     description: {
       de: "Im Herzen des kleinen Dorfes Hababa liegt eine monumentale, historische Zisterne, die noch heute von den Bewohnern genutzt wird. Die beeindruckende Anlage ist von traditionellen, mehrstöckigen Steinhäusern umgeben.",
       hu: "A kis Hababa falu szívében található egy monumentális, történelmi ciszterna, amelyet a lakosok még ma is használnak. A lenyűgöző medencét hagyományos, többszintes kőházak veszik körül.",
@@ -186,9 +177,8 @@ image: "/poi-images/hababa-cistern-history-v2.webp"
     type: "historical-site",
     parent: "YE-TA",
     coords: [44.0150, 13.5702],
-    name: { de: "Festung Al-Qahira", hu: "Al-Qahira erőd", ro: "Castelul Al-Qahira", en: "Al-Qahira Castle",
-image: "/poi-images/al-qahira-castle-history-v2.webp"
-},
+    name: { de: "Festung Al-Qahira", hu: "Al-Qahira erőd", ro: "Castelul Al-Qahira", en: "Al-Qahira Castle"},
+    image: "/poi-images/al-qahira-castle-history-v2.webp",
     description: {
       de: "Die Festung Al-Qahira thront majestätisch auf einem Felsvorsprung über der Stadt Taiz. Sie diente im Mittelalter als Residenz der Rasuliden-Dynastie und bot einen perfekten strategischen Überblick über die Region.",
       hu: "Az Al-Qahira erőd fenségesen magasodik Taiz városa fölött egy sziklás kiszögellésen. A középkorban a raszulida dinasztia rezidenciájaként szolgált, és tökéletes stratégiai kilátást nyújtott a régióra.",
@@ -206,9 +196,8 @@ image: "/poi-images/al-qahira-castle-history-v2.webp"
     type: "monument",
     parent: "YE-AM",
     coords: [43.7258, 16.1830],
-    name: { de: "Brücke von Schahara", hu: "Shaharah hídja", ro: "Podul Shaharah", en: "Shaharah Bridge",
-image: "/poi-images/shaharah-bridge-history-v2.webp"
-},
+    name: { de: "Brücke von Schahara", hu: "Shaharah hídja", ro: "Podul Shaharah", en: "Shaharah Bridge"},
+    image: "/poi-images/shaharah-bridge-history-v2.webp",
     description: {
       de: "Die im 17. Jahrhundert erbaute Steinbogenbrücke von Schahara überspannt eine atemberaubend tiefe Schlucht zwischen zwei Bergen. Sie ist ein Meisterwerk lokaler Ingenieurskunst und wurde gebaut, um die beiden Teile des Dorfes zu verbinden.",
       hu: "A 17. században épült Shaharah kőhíd egy lélegzetelállítóan mély szurdokot ível át két hegy között. A helyi mérnöki munka mesterműve, és a falu két részének összekötésére épült.",
@@ -227,9 +216,8 @@ image: "/poi-images/shaharah-bridge-history-v2.webp"
     type: "historical-site",
     parent: "YE-SN",
     coords: [44.2155, 15.3530],
-    name: { de: "Große Moschee von Sanaa", hu: "Szanai Nagymecset", ro: "Marea Moschee din Sana'a", en: "Great Mosque of Sanaa",
-image: "/poi-images/great-mosque-sanaa-history-v2.webp"
-},
+    name: { de: "Große Moschee von Sanaa", hu: "Szanai Nagymecset", ro: "Marea Moschee din Sana'a", en: "Great Mosque of Sanaa"},
+    image: "/poi-images/great-mosque-sanaa-history-v2.webp",
     description: {
       de: "Die Große Moschee von Sanaa gehört zu den ältesten Moscheen der islamischen Welt und befindet sich in der historischen Altstadt. Sie wurde im frühen 7. Jahrhundert zu Lebzeiten des Propheten Mohammed gegründet.",
       hu: "A szanai Nagymecset az iszlám világ egyik legrégebbi mecsete, amely a történelmi óvárosban található. A 7. század elején, Mohamed próféta életében alapították.",
@@ -247,9 +235,8 @@ image: "/poi-images/great-mosque-sanaa-history-v2.webp"
     type: "historical-site",
     parent: "YE-AD",
     coords: [45.0503, 12.7772],
-    name: { de: "Festung Sira", hu: "Sira erőd", ro: "Fortăreața Sira", en: "Sira Fortress",
-image: "/poi-images/sira-fortress-history-v2.webp"
-},
+    name: { de: "Festung Sira", hu: "Sira erőd", ro: "Fortăreața Sira", en: "Sira Fortress"},
+    image: "/poi-images/sira-fortress-history-v2.webp",
     description: {
       de: "Die Festung Sira liegt auf einer vorgelagerten Vulkaninsel am Hafen von Aden. Sie wurde ursprünglich im 11. Jahrhundert errichtet und spielte eine entscheidende Rolle bei der Abwehr von Piraten und ausländischen Invasionen.",
       hu: "A Sira erőd egy part menti vulkáni szigeten található Áden kikötőjénél. Eredetileg a 11. században épült, és döntő szerepet játszott a kalózok és a külföldi inváziók visszaverésében.",
@@ -267,9 +254,8 @@ image: "/poi-images/sira-fortress-history-v2.webp"
     type: "historical-site",
     parent: "YE-SN",
     coords: [44.2025, 15.2866],
-    name: { de: "Dorf Bait Baws", hu: "Bait Baws falu", ro: "Satul Bait Baws", en: "Bait Baws Village",
-image: "/poi-images/bait-baws-history-v2.webp"
-},
+    name: { de: "Dorf Bait Baws", hu: "Bait Baws falu", ro: "Satul Bait Baws", en: "Bait Baws Village"},
+    image: "/poi-images/bait-baws-history-v2.webp",
     description: {
       de: "Bait Baws ist ein verlassenes jemenitisches Bergdorf südlich von Sanaa, das direkt auf eine steile Felskuppe gebaut wurde. Es war historisch eine bedeutende jüdische Siedlung, bevor die Gemeinde im 20. Jahrhundert das Land verließ.",
       hu: "Bait Baws egy elhagyatott jemeni hegyi falu Szanaától délre, amely közvetlenül egy meredek sziklaszirtre épült. Történelmileg fontos zsidó település volt, mielőtt a közösség a 20. században elhagyta az országot.",
@@ -287,9 +273,8 @@ image: "/poi-images/bait-baws-history-v2.webp"
     type: "ruin",
     parent: "YE-HD",
     coords: [49.0305, 16.0355],
-    name: { de: "Festung Husn al-Urr", hu: "Husn al-Urr erőd", ro: "Fortăreața Husn al-Urr", en: "Husn al-Urr Fortress",
-image: "/poi-images/husn-al-urr-history-v2.webp"
-},
+    name: { de: "Festung Husn al-Urr", hu: "Husn al-Urr erőd", ro: "Fortăreața Husn al-Urr", en: "Husn al-Urr Fortress"},
+    image: "/poi-images/husn-al-urr-history-v2.webp",
     description: {
       de: "Husn al-Urr ist eine imposante, präislamische Festungsruine, die auf einem Hügel im Wadi Hadramaut liegt. Sie zeugt von der reichen Verteidigungs- und Stammesarchitektur der alten südarabischen Zivilisationen.",
       hu: "A Husn al-Urr egy impozáns iszlám előtti erődrom, amely a Vadi Hadramaut egyik dombján található. A régi dél-arábiai civilizációk gazdag védelmi és törzsi építészetéről tanúskodik.",
@@ -307,9 +292,8 @@ image: "/poi-images/husn-al-urr-history-v2.webp"
     type: "monument",
     parent: "YE-AD",
     coords: [45.0296, 12.7753],
-    name: { de: "Zisternen von Tawila", hu: "Tawila ciszternái", ro: "Cisternele din Tawila", en: "Cisterns of Tawila",
-image: "/poi-images/tawila-cisterns-history-v2.webp"
-},
+    name: { de: "Zisternen von Tawila", hu: "Tawila ciszternái", ro: "Cisternele din Tawila", en: "Cisterns of Tawila"},
+    image: "/poi-images/tawila-cisterns-history-v2.webp",
     description: {
       de: "Die Zisternen von Tawila in Aden sind ein ausgeklügeltes antikes Wassersammelsystem, das aus miteinander verbundenen Becken besteht. Sie wurden in das vulkanische Gestein gehauen, um Regenwasser vor der Sturzflut in den Krater zu bewahren.",
       hu: "Az ádeni Tawila ciszternák egy zseniális ókori vízgyűjtő rendszer, amely egymáshoz kapcsolódó medencékből áll. A vulkáni kőzetbe vájták őket, hogy megvédjék az esővizet a kráterbe zúduló hirtelen áradásoktól.",
@@ -327,9 +311,8 @@ image: "/poi-images/tawila-cisterns-history-v2.webp"
     type: "monument",
     parent: "YE-TA",
     coords: [44.0175, 13.5727],
-    name: { de: "Al-Aschrafiya-Moschee", hu: "Al-Asrafíja mecset", ro: "Moscheea Al-Ashrafiya", en: "Al-Ashrafiya Mosque",
-image: "/poi-images/al-ashrafiya-mosque-history-v2.webp"
-},
+    name: { de: "Al-Aschrafiya-Moschee", hu: "Al-Asrafíja mecset", ro: "Moscheea Al-Ashrafiya", en: "Al-Ashrafiya Mosque"},
+    image: "/poi-images/al-ashrafiya-mosque-history-v2.webp",
     description: {
       de: "Die Al-Aschrafiya-Moschee in Taiz ist eines der schönsten Beispiele der Rasuliden-Architektur im Jemen. Mit ihren zwei weißen Minaretten und den kunstvoll bemalten Kuppeln dominiert sie das historische Stadtbild.",
       hu: "A taizi Al-Asrafíja mecset a raszulida építészet egyik legszebb példája Jemenben. Két fehér minaretjével és díszesen festett kupoláival uralja a történelmi városképet.",
@@ -341,15 +324,27 @@ image: "/poi-images/al-ashrafiya-mosque-history-v2.webp"
       hu: ["A 14. században épült Al-Asraf Iszmáíl szultán uralkodása alatt.", "Az imaterem híres színpompás freskóiról és stukkóiról."],
       ro: ["A fost construită în secolul al XIV-lea sub domnia sultanului Al-Ashraf Ismail.", "Sala de rugăciune este renumită pentru frescele sale colorate și lucrările din stuc."],
       en: ["It was built in the 14th century under the rule of Sultan Al-Ashraf Ismail.", "The prayer hall is famous for its colorful frescoes and stucco work."]
-    }, image: "/poi-images/al-ashrafiya-mosque-history-v2.webp"},
+    }, image: "/poi-images/al-ashrafiya-mosque-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Ashrafiya-Moschee in Taiz wurde im 13. Jahrhundert unter dem Rasuliden-Sultan Al-Ashraf Umar II. erbaut. Sie ist bekannt für ihre kunstvollen Stuckarbeiten und die zweistöckige Gebetshalle. Die Moschee diente als Zentrum des islamischen Wissens und beherbergte eine bedeutende Bibliothek. Trotz späterer Renovierungen blieb der ursprüngliche Grundriss erhalten.",
+      hu: "Az Al-Ashrafiya mecset Taiz városában a 13. században épült a Rasidida szultán, Al-Ashraf Umar uralkodása alatt. A mecset építészeti stílusa a jemeni iszlám művészet kiemelkedő példája, különösen a mihráb és a minbar faragott díszítése. A mecset a mai napig aktív imahely.",
+      ro: "Moscheea Al-Ashrafiya din Taiz a fost construită în secolul al XIII-lea sub sultanul Rasulid Al-Ashraf Umar II. Este renumită pentru arhitectura sa distinctivă, cu un minaret înalt și o curte interioară pavată. A fost un important centru de învățământ religios, unde se predau Coranul și științele islamice.",
+      en: "The Al-Ashrafiya Mosque in Taiz, built in the 13th century, serves as a key example of Rasulid architecture. Its location in the old city reflects the historical urban planning of Taiz. The mosque's minaret, rising approximately 30 meters, dominates the skyline and is a landmark for navigation in the dense city center.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1278 n. Chr.", "Sultan Al-Ashraf Umar II. regierte von 1295 bis 1296", "Gebetshalle mit 12 Säulen", "Minaretthöhe 25 Meter", "Bibliothek umfasste 5000 Handschriften", "Renovierung 1539 unter osmanischer Herrschaft"],
+      hu: ["1050 négyzetméter alapterületű", "A főimafülke (mihráb) 3 méter magas", "A minbar 15 faragott lépcsőből áll", "A mecsetnek 8 kupolája van", "Az eredeti világítótestek száma 30", "A bejárati kapu 4 méter széles"],
+      ro: ["Construită în 1278", "Are un minaret de 30 m înălțime", "Curtea interioară măsoară 20x15 m", "A fost renovată în 1539", "Capacitate de 500 de credincioși", "Adăpostește un mormânt al fondatorului"],
+      en: ["Construction started in 1275 CE", "Completed in 1278 CE", "Total area of 1,200 square meters", "Minaret height approximately 30 m", "Features a rare double-dome structure", "Used as a madrasa until the 19th century"],
+    },
+  },
   {
     id: "al-hajjarah-fortress-history-v2",
     type: "historical-site",
     parent: "YE-SN",
     coords: [43.7297, 15.0711],
-    name: { de: "Bergfestung Al-Hadscharah", hu: "Al-Hadzsarah hegyi erődje", ro: "Fortăreața montană Al-Hajjarah", en: "Al-Hajjarah Mountain Fortress",
-image: "/poi-images/al-hajjarah-fortress-history-v2.webp"
-},
+    name: { de: "Bergfestung Al-Hadscharah", hu: "Al-Hadzsarah hegyi erődje", ro: "Fortăreața montană Al-Hajjarah", en: "Al-Hajjarah Mountain Fortress"},
+    image: "/poi-images/al-hajjarah-fortress-history-v2.webp",
     description: {
       de: "Al-Hadscharah ist eines der beeindruckendsten Bergdörfer in der Haraz-Region. Die hohen Steinbauten klammern sich dramatisch an den Rand eines tiefen Abgrunds und wurden im 12. Jahrhundert als Festung errichtet.",
       hu: "Al-Hadzsarah az egyik leglenyűgözőbb hegyi falu a Haraz régióban. A magas kőépületek drámai módon kapaszkodnak egy mély szakadék szélébe, és a 12. században épültek erődként.",
@@ -361,15 +356,27 @@ image: "/poi-images/al-hajjarah-fortress-history-v2.webp"
       hu: ["A házakat közvetlenül a hegy sziklatömbjeiből építették.", "A falu fontos előőrsként szolgált a helyi kávéültetvények védelmében."],
       ro: ["Casele au fost construite direct din blocurile de piatră ale muntelui.", "Satul a servit ca un avanpost important pentru apărarea plantațiilor locale de cafea."],
       en: ["The houses were built directly from the rock boulders of the mountain.", "The village served as an important outpost to defend the local coffee plantations."]
-    }, image: "/poi-images/al-hajjarah-fortress-history-v2.webp"},
+    }, image: "/poi-images/al-hajjarah-fortress-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Festung Al-Hajjarah liegt auf einem Berggipfel im Haraz-Gebirge und diente als Verteidigungsanlage der lokalen Stämme. Erbaut aus Stein, fügt sie sich nahtlos in die Felslandschaft ein. Die Festung kontrollierte wichtige Handelsrouten zwischen der Küste und dem Hochland. Ihre Mauern sind bis zu 10 Meter hoch.",
+      hu: "Al-Hajjarah hegyi erődje a 12. században épült, stratégiai ponton a hegycsúcson. A vár a jemeni hegyi építészet remeke, többszintes épületekkel és rejtett átjárókkal. A védelmi rendszer magában foglal egy mély kutat is. Az erőd a mai napig használatban van, lakóépületként szolgál.",
+      ro: "Cetatea Al-Hajjarah este situată pe un vârf de munte în masivul Haraz, construită acum aproximativ 800 de ani. Este un exemplu tipic de arhitectură montană yemenită, cu clădiri înghesuite și ziduri groase. A servit ca refugiu pentru triburile locale în timpul conflictelor.",
+      en: "Perched at an altitude of 2,300 meters, the fortress of Al-Hajjarah overlooks the surrounding valleys. Its construction utilizes local granite and features multi-story houses within the defensive walls. The site offers insights into the social organization of highland Yemeni tribes, with communal areas and a central tower.",
+    },
+    factsAdvanced: {
+      de: ["Höhe 2.300 m über dem Meeresspiegel", "Mauern 10 m hoch", "Erbaut im 12. Jahrhundert", "Besteht aus 50 Räumen", "Zisternen fassen 100.000 Liter", "Besetzt während des Bürgerkriegs 1962"],
+      hu: ["Alapítva 1150 körül", "A várfalak vastagsága 2 méter", "Legmagasabb torony 25 méter", "Víztározó kapacitás 80 köbméter", "Lakosság az erődben 150 fő", "2005-ben felújították"],
+      ro: ["Altitudine 2.300 m", "Suprafață construită 1.500 mp", "Ziduri groase de 1,5 m", "Fântână adâncă de 20 m", "Turnul principal 18 m înălțime", "Înscris pe lista tentativă UNESCO în 2002"],
+      en: ["Elevation 2,300 m (7,500 ft)", "Built in the 12th century", "Total built-up area 2,000 sq m", "Defensive wall length 150 m", "Houses up to 5 floors", "Capacity of cisterns: 80,000 liters"],
+    },
+  },
   {
     id: "baraqish-ruins-history-v2",
     type: "ruin",
     parent: "YE-JA",
     coords: [44.7916, 16.0211],
-    name: { de: "Ruinen von Baraqish", hu: "Barakish romjai", ro: "Ruinele din Baraqish", en: "Baraqish Ruins",
-image: "/poi-images/baraqish-ruins-history-v2.webp"
-},
+    name: { de: "Ruinen von Baraqish", hu: "Barakish romjai", ro: "Ruinele din Baraqish", en: "Baraqish Ruins"},
+    image: "/poi-images/baraqish-ruins-history-v2.webp",
     description: {
       de: "Baraqish, in der Antike als Yathill bekannt, ist die beeindruckendste Ruinenstadt der minäischen Zivilisation. Sie ist von einer außergewöhnlich gut erhaltenen, bis zu 14 Meter hohen Stadtmauer mit über 50 Türmen umgeben.",
       hu: "Barakish, az ókorban Jathill néven ismert, a minószi civilizáció leglenyűgözőbb romvárosa. Kivételesen jól megőrzött, akár 14 méter magas, több mint 50 tornyú városfal veszi körül.",
@@ -381,15 +388,27 @@ image: "/poi-images/baraqish-ruins-history-v2.webp"
       hu: ["Barakish fontos központ volt a tömjénúton.", "A városközpontban még mindig állnak ősi templomok maradványai minószi feliratokkal."],
       ro: ["Baraqish a fost un centru important pe Drumul Tămâiei.", "În centrul orașului încă mai stau rămășițele templelor antice cu inscripții mineene."],
       en: ["Baraqish was an important center on the Incense Route.", "In the center of the city still stand the remains of ancient temples with Minaean inscriptions."]
-    }, image: "/poi-images/baraqish-ruins-history-v2.webp"},
+    }, image: "/poi-images/baraqish-ruins-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ruinen von Baraqish liegen im Wadi Jawf und stammen aus dem sabäischen Reich. Die antike Stadt Yathill war ein wichtiges Handelszentrum für Weihrauch. Die Überreste umfassen einen Tempel, Stadtmauern und Wohnhäuser. Ausgrabungen förderten Inschriften und Keramik zutage.",
+      hu: "Baraqish romjai a Kr. e. 8. századig nyúlnak vissza, amikor a szabai királyság befolyása alatt állt. A város erődített volt, kőfalakkal és kapukkal. A területen található egy oltár és egy piramis alakú építmény. A romok jó állapotban maradtak fenn a sivatagi klímának köszönhetően.",
+      ro: "Ruinele Baraqishului, cunoscute în antichitate ca Yathill, sunt situate în nordul Yemenului. A fost un oraș fortificat al regatului Saba, cu un templu dedicat zeului Almaqah. Zidurile masive, înalte de 9 metri, înconjoară o suprafață de aproximativ 10 hectare.",
+      en: "The Baraqish ruins represent the ancient city of Yathill, a major stop on the incense route. Excavations have revealed a sophisticated water management system and public buildings. The site provides evidence of trade connections with Mesopotamia and the Levant. Its wall, still standing in parts, is made of mud brick.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 8. Jahrhundert v. Chr.", "Stadtmauern 9 m hoch", "Fläche 10 Hektar", "Tempel des Almaqah", "Ausgrabungen seit 1980", "Inschriften auf Altsüdarabisch"],
+      hu: ["Kr. e. 600-tól lakott", "Fal hossza 1 km", "Piramis magasság 15 m", "Oltár mérete 5x5 m", "Ciszterna kapacitás 50.000 liter", "A UNESCO világörökség része"],
+      ro: ["Întemeiat în secolul VIII î.Hr.", "Ziduri de 9 m înălțime", "Suprafață 10 ha", "Templu de 20x15 m", "Capacitate de apă 100 mc", "Săpături arheologice din 1990"],
+      en: ["Founded around 700 BC", "Walls 9 m high, 1 km perimeter", "10 hectares enclosed area", "Temple of Almaqah with 12 columns", "Population estimated 5,000", "Major earthquake in 175 AD caused decline"],
+    },
+  },
   {
     id: "queen-arwa-palace-history-v2",
     type: "historical-site",
     parent: "YE-IB",
     coords: [44.1466, 13.9216],
-    name: { de: "Palast der Königin Arwa", hu: "Arva királynő palotája", ro: "Palatul Reginei Arwa", en: "Palace of Queen Arwa",
-image: "/poi-images/queen-arwa-palace-history-v2.webp"
-},
+    name: { de: "Palast der Königin Arwa", hu: "Arva királynő palotája", ro: "Palatul Reginei Arwa", en: "Palace of Queen Arwa"},
+    image: "/poi-images/queen-arwa-palace-history-v2.webp",
     description: {
       de: "Der Palast der legendären Königin Arwa al-Sulayhi liegt als historische Ruine in der alten Hauptstadt Jibla. Dieses Bauwerk hatte Berichten zufolge 365 Räume, von denen die Königin jede Nacht in einem anderen schlief, um Attentate zu vermeiden.",
       hu: "A legendás Arva al-Szulajhi királynő palotája történelmi romként fekszik az egykori fővárosban, Dzsiblában. Az építménynek a beszámolók szerint 365 szobája volt, a királynő minden éjjel másban aludt a merényletek elkerülése végett.",
@@ -401,6 +420,18 @@ image: "/poi-images/queen-arwa-palace-history-v2.webp"
       hu: ["A palota az iszlám történelem egyik ritka női uralkodójának hatalmáról tanúskodik.", "Ma már nagyrészt csak a masszív alapfalak maradtak fenn."],
       ro: ["Palatul stă mărturie puterii uneia dintre puținele femei conducătoare din istoria islamică.", "Astăzi s-au păstrat în mare parte doar zidurile de fundație masive."],
       en: ["The palace bears witness to the power of one of the few female rulers in Islamic history.", "Today, mostly only the massive foundation walls remain preserved."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Palast von Königin Arwa in Jibla stammt aus dem 11. Jahrhundert und war Residenz der Sulayhiden-Dynastie. Die Königin regierte von hier aus fast 50 Jahre lang. Der Palastkomplex umfasst Wohnräume, einen Thronsaal und eine Moschee. Die Architektur zeigt fatimidischen Einfluss.",
+      hu: "A Királynő Arwa palotája Jibla városában a 11. század közepén épült. A palota a jemeni iszlám építészet egyik kiemelkedő alkotása, faragott díszekkel és udvarral. A palota mellett álló mecsetet szintén Arwa építtette. A palota jelenleg múzeumként működik.",
+      ro: "Palatul Reginei Arwa din Jibla a fost construit în 1067 de către sultanul Ali al-Sulayhi. Este un exemplu de arhitectură rezidențială medievală, cu încăperi dispuse în jurul unei curți interioare. Turnul palatului oferă o vedere panoramică asupra orașului.",
+      en: "Queen Arwa's Palace served as the seat of power for the Sulayhid queen who ruled from 1067 to 1138. The palace complex includes living quarters, administrative offices, and a private mosque. Its design incorporates local stone and carved wooden ceilings. The site is now a museum displaying artifacts from her reign.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1067 n. Chr.", "Königin Arwa regierte 50 Jahre", "Palastfläche 2.000 m²", "Thronsaal 10x12 Meter", "Wohnräume 4 Stockwerke", "Moschee mit 3 Mihrabs"],
+      hu: ["1067-ben épült", "A palota 1500 négyzetméteres", "A torony magassága 20 méter", "A trónterem 8x10 méter", "A mecset 300 hívő befogadására alkalmas", "Az udvar 15x20 méter"],
+      ro: ["Construit în 1067", "Suprafață de 1.800 mp", "Înălțimea turnului 18 m", "Sala tronului 10x12 m", "Mobilat original în lemn de tec", "Muzeu din 1970"],
+      en: ["Construction began 1067 CE", "Queen Arwa reigned 50 years (1086-1138)", "Palace area 2,000 sq m", "Throne room 120 sq m", "Garden with 5 fountains", "Private mosque capacity 50 worshippers"],
+    },
   }
 ];

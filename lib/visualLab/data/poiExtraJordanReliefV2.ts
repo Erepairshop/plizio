@@ -6,302 +6,539 @@ export const poiExtraJordanReliefV2: POI[] = [
     type: "valley",
     parent: "JO-AQ",
     coords: [35.212, 30.222],
-    name: { de: "Wadi Araba", hu: "Vádi Araba", ro: "Wadi Araba", en: "Wadi Araba",
-image: "/poi-images/wadi-araba-relief-v2.webp"
-},
+    name: { de: "Wadi Araba", hu: "Vádi Araba", ro: "Wadi Araba", en: "Wadi Araba"},
+    image: "/poi-images/wadi-araba-relief-v2.webp",
     description: { de: "Ein trockenes Tal, das das Tote Meer mit dem Golf von Akaba verbindet.", hu: "Száraz völgy, amely a Holt-tengert köti össze az Akabai-öböllel.", ro: "O vale aridă care leagă Marea Moartă de Golful Aqaba.", en: "An arid valley connecting the Dead Sea to the Gulf of Aqaba." },
     facts: {
       de: ["Trennt Jordanien von Israel", "Teil des Großen Grabenbruchs", "Extrem trockenes und heißes Klima", "Historische Kupferminen"],
       hu: ["Elválasztja Jordániát Izraeltől", "A Nagy-hasadékvölgy része", "Rendkívül száraz és forró éghajlat", "Történelmi rézbányák"],
       ro: ["Separă Iordania de Israel", "Parte a Marelui Rift", "Climă extrem de uscată și caldă", "Mine istorice de cupru"],
       en: ["Separates Jordan from Israel", "Part of the Great Rift Valley", "Extremely dry and hot climate", "Historical copper mines"]
-    }, image: "/poi-images/wadi-araba-relief-v2.webp"},
+    }, image: "/poi-images/wadi-araba-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Wadi Araba ist eine 166 km lange Senke, die vom Toten Meer bis zum Golf von Aqaba verläuft. Sie bildet die Grenze zwischen Jordanien und Israel. Der tiefste Punkt liegt bei etwa 380 m unter dem Meeresspiegel im Norden, steigt im Süden auf 100 m über NN an. Das Gebiet ist extrem trocken mit weniger als 50 mm Jahresniederschlag. Es gibt Vorkommen von Kupfer- und Manganerzen. Die Wadi Araba war Teil der historischen Weihrauchstraße. Heute ist sie durch die Erdgasleitung und eine Autobahn erschlossen. Archäologische Funde reichen von der Altsteinzeit bis zur islamischen Zeit.",
+      hu: "A Wadi Araba egy 166 km hosszú árok, amely a Holt-tengertől az Akabai-öbölig húzódik. Határt képez Jordánia és Izrael között. Legmélyebb pontja -380 m a tengerszint alatt, délen 100 m fölé emelkedik. Rendkívül száraz, éves csapadéka 50 mm alatti. Réz- és mangánérclelőhelyek. Része volt a történelmi tömjénútnak. Ma gázvezeték és autópálya szeli át. Kőkorszaktól iszlám kori leletekig.",
+      ro: "Valea Araba este o depresiune de 166 km care se întinde de la Marea Moartă până la Golful Aqaba. Marchează granița dintre Iordania și Israel. Punctul cel mai coborât este la -380 m, iar sudul atinge 100 m. Climat extrem de arid, sub 50 mm precipitații. Zăcăminte de cupru și mangan. Partea a Drumului Tămâii. O conductă de gaz și o autostradă traversează zona. Situri arheologice din paleolitic până în perioada islamică.",
+      en: "Wadi Araba is a 166 km valley extending from the Dead Sea to the Gulf of Aqaba, forming the border between Jordan and Israel. Its floor descends to 380 m below sea level at the north and rises to 100 m above in the south. The area is hyper-arid with less than 50 mm annual precipitation. Copper and manganese deposits were mined since antiquity. The valley was part of the Incense Route. Today it hosts a gas pipeline, the Desert Highway, and several nature reserves.",
+    },
+    factsAdvanced: {
+      de: ["166 km Länge", "Tiefster Punkt: −380 m NN", "Jahresniederschlag unter 50 mm", "Kupferbergbau seit der Bronzezeit", "Teil der Weihrauchstraße", "Autobahn und Gaspipeline"],
+      hu: ["166 km hosszú", "Legmélyebb pont: -380 m", "Éves csapadék 50 mm alatt", "Rébányászat a bronzkor óta", "A tömjénút része", "Autópálya és gázvezeték"],
+      ro: ["Lungime 166 km", "Cel mai jos punct: -380 m", "Precipitații sub 50 mm", "Exploatare de cupru din Epoca Bronzului", "Parte a Drumului Tămâii", "Autostradă și conductă de gaz"],
+      en: ["Length 166 km", "Lowest point: -380 m", "Annual rainfall less than 50 mm", "Copper mining since Bronze Age", "Part of Incense Route", "Desert Highway and gas pipeline"],
+    },
+  },
   {
     id: "moab-plateau-relief-v2",
     type: "plateau",
     parent: "JO-KA",
     coords: [35.750, 31.183],
-    name: { de: "Moab-Plateau", hu: "Moáb-fennsík", ro: "Platoul Moab", en: "Moab Plateau",
-image: "/poi-images/moab-plateau-relief-v2.webp"
-},
+    name: { de: "Moab-Plateau", hu: "Moáb-fennsík", ro: "Platoul Moab", en: "Moab Plateau"},
+    image: "/poi-images/moab-plateau-relief-v2.webp",
     description: { de: "Eine historische Hochebene östlich des Toten Meeres, bekannt für ihre tiefen Schluchten.", hu: "Történelmi fennsík a Holt-tengertől keletre, amely mély szurdokairól ismert.", ro: "Un platou istoric la est de Marea Moartă, cunoscut pentru defileurile sale adânci.", en: "A historic high plateau east of the Dead Sea, known for its deep gorges." },
     facts: {
       de: ["Höhenlage bis zu 1000 Meter", "Biblische moabitische Region", "Tief eingeschnittene Canyons", "Wichtige landwirtschaftliche Flächen"],
       hu: ["Akár 1000 méteres tengerszint feletti magasság", "Bibliai moábi régió", "Mélyen bevágódott kanyonok", "Fontos mezőgazdasági területek"],
       ro: ["Altitudine de până la 1000 de metri", "Regiune biblică moabită", "Cantoane tăiate adânc", "Terenuri agricole importante"],
       en: ["Elevation up to 1000 meters", "Biblical Moabite region", "Deeply incised canyons", "Important agricultural lands"]
-    }, image: "/poi-images/moab-plateau-relief-v2.webp"},
+    }, image: "/poi-images/moab-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Moab-Plateau ist eine 800-1200 m hohe Hochebene östlich des Toten Meeres in Jordanien. Es erstreckt sich über 200 km von der Arnon-Schlucht bis zur Zered-Schlucht. Das Plateau besteht aus kreidezeitlichen Kalksteinen und sandigen Sedimenten. Die Region erhält 200-400 mm Niederschlag jährlich, was eine Steppenvegetation mit Gräsern und Dornbüschen ermöglicht. Es war das Kernland des biblischen Moab. Heute wird es vorwiegend landwirtschaftlich genutzt, für Weizen, Gerste und Olivenbäume. Wichtige Städte sind Kerak und Madaba.",
+      hu: "A Moáb-fennsík egy 800-1200 m magas fennsík a Holt-tengertől keletre, Jordániában. 200 km hosszan nyúlik az Arnon-szurdoktól a Zéred-szurdokig. Kréta kori mészkő- és homokkőrétegekből áll. Éves csapadéka 200-400 mm, sztyeppei növényzettel. A bibliai Moáb központja volt. Ma mezőgazdasági terület: búza, árpa, olajbogyó. Főbb városok: Kerak és Madaba.",
+      ro: "Podisul Moab este un platou cu altitudini de 800-1200 m situat la est de Marea Moartă, în Iordania. Se întinde pe 200 km de la defileul Arnon la defileul Zered. Compus din calcar și gresie cretacică. Precipitații de 200-400 mm, vegetație de stepă. A fost inima țării biblice Moab. Astăzi agricol: grâu, orz, măslini. Orașe principale: Kerak și Madaba.",
+      en: "The Moab Plateau is a highland region between 800 and 1200 m elevation, east of the Dead Sea in Jordan. It spans about 200 km from the Arnon Gorge to the Zered Gorge. Underlain by Cretaceous limestone and sandstone, it receives 200-400 mm annual rainfall, supporting a steppe ecosystem. Historically the land of the Moabites, it now supports wheat, barley, and olive cultivation. Key settlements include Kerak, Madaba, and Dhiban.",
+    },
+    factsAdvanced: {
+      de: ["800-1200 m Höhe", "200 km Länge", "200-400 mm Jahresniederschlag", "Kreidezeitliche Kalksteine", "Kernland des biblischen Moab", "Städte: Kerak (900 m), Madaba (770 m)"],
+      hu: ["800-1200 m magas", "200 km hosszú", "200-400 mm éves csapadék", "Kréta kori mészkő", "A bibliai Moáb központja", "Városok: Kerak (900 m), Madaba (770 m)"],
+      ro: ["Altitudine 800-1200 m", "Lungime 200 km", "200-400 mm precipitații anuale", "Calcar cretacic", "Inima țării biblice Moab", "Orașe: Kerak (900 m), Madaba (770 m)"],
+      en: ["Elevation 800-1200 m", "Span 200 km", "Annual rainfall 200-400 mm", "Cretaceous limestone bedrock", "Heartland of biblical Moab", "Major towns: Kerak (900 m), Madaba (770 m)"],
+    },
+  },
   {
     id: "edom-gebirge-relief-v2",
     type: "mountain",
     parent: "JO-AT",
     coords: [35.600, 30.633],
-    name: { de: "Edom-Gebirge", hu: "Edom-hegység", ro: "Munții Edom", en: "Edom Mountains",
-image: "/poi-images/edom-gebirge-relief-v2.webp"
-},
+    name: { de: "Edom-Gebirge", hu: "Edom-hegység", ro: "Munții Edom", en: "Edom Mountains"},
+    image: "/poi-images/edom-gebirge-relief-v2.webp",
     description: { de: "Ein zerklüfteter Gebirgszug im Süden Jordaniens, der durch rote Sandsteinformationen besticht.", hu: "Zord hegylánc Jordánia déli részén, amely vörös homokkő képződményeivel hódít.", ro: "Un lanț muntos accidentat în sudul Iordaniei, captivant prin formațiunile sale de gresie roșie.", en: "A rugged mountain range in southern Jordan, captivating with its red sandstone formations." },
     facts: {
       de: ["Gipfel über 1600 Meter", "Heimat der Nabatäerstadt Petra", "Schroffe rote Sandsteinfelsen", "Kalte Winter mit gelegentlichem Schnee"],
       hu: ["Több mint 1600 méteres csúcsok", "A nabateus Petra városának otthona", "Zord vörös homokkő sziklák", "Hideg telek alkalmi havazással"],
       ro: ["Vârfuri de peste 1600 de metri", "Căminul orașului nabatean Petra", "Stânci abrupte de gresie roșie", "Ierni reci cu ninsori ocazionale"],
       en: ["Peaks over 1600 meters", "Home to the Nabataean city of Petra", "Rugged red sandstone cliffs", "Cold winters with occasional snow"]
-    }, image: "/poi-images/edom-gebirge-relief-v2.webp"},
+    }, image: "/poi-images/edom-gebirge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Edom-Berge sind eine Bergkette im Süden Jordaniens, die sich vom Wadi Hasa bis zum Golf von Aqaba erstreckt. Die Gipfel erreichen Höhen von bis zu 1700 m, der höchste ist der Jabal Rumman (1754 m). Die Berge bestehen hauptsächlich aus Sandstein und Granit, mit steilen Schluchten. Das Klima ist semiarid mit 100-200 mm Jahresniederschlag. Die Region war das Kernland des biblischen Edom, mit der Hauptstadt Sela (Petra). Die Berglandschaft ist bekannt für die nabatäische Stadt Petra und die Wanderwege wie den Jordan Trail.",
+      hu: "Az Edom-hegység Dél-Jordániában húzódik a Wadi Hasától az Akabai-öbölig. A csúcsok elérik az 1700 m-t, a legmagasabb a Jabal Rumman (1754 m). Homokkőből és gránitból áll, meredek szurdokokkal. Félszáraz éghajlat, 100-200 mm csapadék. A bibliai Edom központja, fővárosa Szela (Petra). Híres a nabateus Petra romjai és a Jordán-ösvény.",
+      ro: "Munții Edom sunt un lanț muntos în sudul Iordaniei, de la Wadi Hasa până la Golful Aqaba. Vârfuri până la 1700 m, cel mai înalt Jabal Rumman (1754 m). Compus din gresie și granit, cu canioane abrupte. Climat semiarid, 100-200 mm precipitații. Inima țării biblice Edom, cu capitala Sela (Petra). Faimos pentru orașul nabateean Petra și traseele de drumeție.",
+      en: "The Edom Mountains are a range in southern Jordan stretching from Wadi Hasa to Aqaba. Peaks reach over 1700 m, with Jabal Rumman at 1754 m. The geology is predominantly sandstone and granite, forming dramatic canyons. Climate is semi-arid with 100-200 mm annual precipitation. This region was the biblical land of Edom, centered on Petra (ancient Sela). Today it hosts the UNESCO site of Petra and the Jordan Trail.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Jabal Rumman 1754 m", "Länge: 150 km", "Sandsteinformationen aus dem Paläozoikum", "Petra liegt auf 800–900 m", "Jahresniederschlag 100-200 mm", "Jordan Trail 650 km Gesamtstrecke"],
+      hu: ["Legmagasabb csúcs: Jabal Rumman 1754 m", "Hossz: 150 km", "Paleozoós homokkő", "Petra 800-900 m-en fekszik", "Éves csapadék 100-200 mm", "Jordán-ösvény 650 km"],
+      ro: ["Cel mai înalt vârf: Jabal Rumman 1754 m", "Lungime 150 km", "Gresie paleozoică", "Petra situată la 800-900 m", "Precipitații 100-200 mm", "Traseul Jordan Trail 650 km"],
+      en: ["Highest peak: Jabal Rumman 1754 m", "Length: 150 km", "Sandstone of Paleozoic age", "Petra located at 800–900 m elevation", "Annual rainfall 100-200 mm", "Jordan Trail 650 km long"],
+    },
+  },
   {
     id: "schwarze-wueste-relief-v2",
     type: "desert",
     parent: "JO-MA",
     coords: [37.333, 32.333],
-    name: { de: "Schwarze Wüste", hu: "Fekete-sivatag", ro: "Deșertul Negru", en: "Black Desert",
-image: "/poi-images/schwarze-wueste-relief-v2.webp"
-},
+    name: { de: "Schwarze Wüste", hu: "Fekete-sivatag", ro: "Deșertul Negru", en: "Black Desert"},
+    image: "/poi-images/schwarze-wueste-relief-v2.webp",
     description: { de: "Eine karge Wüstenlandschaft im Nordosten, bedeckt mit dunklem Basaltgestein vulkanischen Ursprungs.", hu: "Kietlen sivatagi táj északkeleten, amelyet vulkáni eredetű, sötét bazaltkőzet borít.", ro: "Un peisaj deșertic arid în nord-est, acoperit cu rocă bazaltică întunecată de origine vulcanică.", en: "A barren desert landscape in the northeast, covered with dark basalt rock of volcanic origin." },
     facts: {
       de: ["Ausgedehnte Basaltfelder", "Erstreckt sich bis nach Saudi-Arabien", "Prähistorische Steinbauten erhalten", "Spärliche Wüstenvegetation"],
       hu: ["Kiterjedt bazaltmezők", "Egészen Szaúd-Arábiáig nyúlik", "Őskori kőépítmények maradtak fenn", "Gyér sivatagi növényzet"],
       ro: ["Câmpuri vaste de bazalt", "Se întinde până în Arabia Saudită", "Clădiri preistorice din piatră păstrate", "Vegetație rară de deșert"],
       en: ["Extensive basalt fields", "Extends into Saudi Arabia", "Prehistoric stone structures preserved", "Sparse desert vegetation"]
-    }, image: "/poi-images/schwarze-wueste-relief-v2.webp"},
+    }, image: "/poi-images/schwarze-wueste-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Schwarze Wüste (Harrat asch-Scham) ist ein 10.000 Quadratkilometer großes Basaltplateau im Nordosten Jordaniens. Sie entstand durch vulkanische Aktivität im Neogen und Quartär. Die Landschaft ist geprägt von schwarzen Basaltblöcken, erloschenen Vulkankegeln und Schlackenkegeln. Die Höhen liegen zwischen 600 und 1000 m. Die jährliche Niederschlagsmenge beträgt weniger als 100 mm. Trotz der Trockenheit gibt es endemische Pflanzen und Tiere wie den Wüstenfuchs. Die Region enthält zahlreiche sogenannte Wüstendrachen (Jagdfallen) aus der Jungsteinzeit.",
+      hu: "A Fekete-sivatag (Harrat asch-Scham) egy 10 000 km²-es bazaltfennsík Északkelet-Jordániában. A neogén és negyedidőszaki vulkáni tevékenység hozta létre. Fekete bazalttömbök, kialudt vulkánkúpok és salakkúpok jellemzik. Tengerszint feletti magassága 600-1000 m. Csapadék 100 mm alatti. Endemikus növények és állatok, mint a sivatagi róka. Újkőkori 'sivatagi sárkányok' (vadászcsapdák) találhatók.",
+      ro: "Deșertul Negru (Harrat asch-Scham) este un platou bazaltic de 10.000 km² în nord-estul Iordaniei. Format de activitatea vulcanică din Neogen și Cuaternar. Peisaj cu blocuri de bazalt negru, conuri vulcanice stinse și conuri de scorie. Altitudini 600-1000 m. Precipitații sub 100 mm. Plante și animale endemice, precum vulpea deșertului. Conține numeroși 'dragoni deșertici' (capcane de vânătoare) neolitici.",
+      en: "The Black Desert (Harrat ash-Sham) is a 10,000 km² basalt plateau in northeastern Jordan, formed by volcanic activity from the Neogene to Quaternary. It lies at 600-1000 m elevation, with annual rainfall under 100 mm. The terrain is covered with black basalt boulders, volcanic cones, and lava flows. Despite aridity, it hosts adapted species like the Rüppell's fox. Notable are Neolithic 'desert kites' – stone structures used for hunting. The area is also an important archaeological landscape.",
+    },
+    factsAdvanced: {
+      de: ["10.000 km² Fläche", "Basaltvulkanismus im Neogen und Quartär", "Höhenlage 600-1000 m", "unter 100 mm Niederschlag", "Über 1000 Vulkankegel", "Neolithische Wüstendrachen (ab 8000 v. Chr.)"],
+      hu: ["10 000 km² terület", "Neogén és negyedidőszaki bazaltvulkanizmus", "600-1000 m tengerszint feletti magasság", "100 mm alatti csapadék", "Több mint 1000 vulkánkúp", "Újkőkori sivatagi sárkányok (i.e. 8000-től)"],
+      ro: ["10.000 km² suprafață", "Vulcanism bazaltic în Neogen și Cuaternar", "Altitudine 600-1000 m", "Sub 100 mm precipitații", "Peste 1000 de conuri vulcanice", "Dragoni deșertici neolitici (din 8000 î.Hr.)"],
+      en: ["Area 10,000 km²", "Basaltic volcanism in Neogene and Quaternary", "Elevation 600-1000 m", "Rainfall under 100 mm", "Over 1,000 volcanic cones", "Neolithic desert kites dating from 8000 BC"],
+    },
+  },
   {
     id: "badiya-wueste-relief-v2",
     type: "desert",
     parent: "JO-MA",
     coords: [38.000, 32.000],
-    name: { de: "Badiya", hu: "Bádija", ro: "Badiya", en: "Badiya",
-image: "/poi-images/badiya-wueste-relief-v2.webp"
-},
+    name: { de: "Badiya", hu: "Bádija", ro: "Badiya", en: "Badiya"},
+    image: "/poi-images/badiya-wueste-relief-v2.webp",
     description: { de: "Die weite östliche Wüste Jordaniens macht einen Großteil der Landesfläche aus und ist Heimat von Beduinen.", hu: "Jordánia kiterjedt keleti sivataga az ország területének nagy részét alkotja, és beduinok otthona.", ro: "Vastul deșert estic al Iordaniei reprezintă o mare parte din suprafața țării și este casa beduinilor.", en: "Jordan's vast eastern desert makes up a large part of the country's landmass and is home to Bedouins." },
     facts: {
       de: ["Macht ca. 75 % Jordaniens aus", "Sand- und Kieswüste", "Zentrum der Beduinenkultur", "Kaum Niederschlag im ganzen Jahr"],
       hu: ["Jordánia kb. 75%-át teszi ki", "Homok- és kavicssivatag", "A beduin kultúra központja", "Alig van csapadék egész évben"],
       ro: ["Reprezintă aproximativ 75% din Iordania", "Deșert de nisip și pietriș", "Centrul culturii beduine", "Precipitații puține pe tot parcursul anului"],
       en: ["Makes up approx. 75% of Jordan", "Sand and gravel desert", "Center of Bedouin culture", "Barely any rainfall throughout the year"]
-    }, image: "/poi-images/badiya-wueste-relief-v2.webp"},
+    }, image: "/poi-images/badiya-wueste-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Badiya (auch Syrische Wüste) ist ein ausgedehntes Wüstengebiet, das den Osten Jordaniens bedeckt. Sie erstreckt sich über etwa 70.000 Quadratkilometer innerhalb Jordaniens und ist Teil der größeren syrisch-arabischen Wüste. Die Landschaft wird von Kies- und Schotterebenen, Salzpfannen und seltenen Oasen dominiert. Die Höhen variieren zwischen 500 und 800 m. Die jährliche Niederschlagsmenge liegt zwischen 50 und 100 mm. Die Vegetation besteht aus Halophyten, Dornsträuchern und saisonalen Gräsern. Die Badiya wird von Beduinenstämmen nomadisch genutzt. In der Region gibt es Öl- und Gasvorkommen.",
+      hu: "A Badiya (más néven Szíriai-sivatag) egy hatalmas sivatagi terület, amely Jordánia keleti részét fedi le. Körülbelül 70.000 km²-t tesz ki az országon belül. Kavicsos síkságok, szikesek és ritka oázisok jellemzik. Magassága 500-800 m. Éves csapadék 50-100 mm. Növényzete sótűrő növényekből, tüskés bokrokból és fűfélékből áll. Beduin törzsek használják nomád legeltetésre. Olaj- és gázkészletek találhatók.",
+      ro: "Badiya (deșertul Sirian) este o vastă regiune deșertică ce acoperă estul Iordaniei. Se întinde pe aproximativ 70.000 km². Câmpii pietroase, sărături și oaze rare. Altitudini 500-800 m. Precipitații 50-100 mm. Vegetație halofită, arbuști spinoși. Folosit de beduini pentru pășunat nomad. Resurse de petrol și gaze.",
+      en: "The Badiya (Syrian Desert) covers about 70,000 km² in eastern Jordan, part of the larger Arabian Desert. It consists of gravel plains, salt flats (qasr), and occasional oases. Elevations range from 500 to 800 m. Annual rainfall is 50-100 mm, supporting sparse shrubland. Bedouin tribes still practice pastoral nomadism, moving with their flocks. The Badiya contains oil and gas fields, such as the Jaffra field. It also hosts ancient desert kites and Islamic-era caravan forts.",
+    },
+    factsAdvanced: {
+      de: ["70.000 km² Fläche in Jordanien", "500-800 m Höhe", "50-100 mm Jahresniederschlag", "Beduinenbevölkerung ca. 100.000", "Ölfelder: Jaffra, Hamzeh", "Historische Karawanenforts (qasr) aus dem 8. Jh."],
+      hu: ["70.000 km² terület Jordániában", "500-800 m magasság", "50-100 mm éves csapadék", "Beduin lakosság kb. 100.000", "Olajmezők: Jaffra, Hamzeh", "8. századi karavánvárak (qasr)"],
+      ro: ["70.000 km² în Iordania", "Altitudine 500-800 m", "Precipitații 50-100 mm", "Populație beduină cca. 100.000", "Câmpuri petroliere: Jaffra, Hamzeh", "Forturi caravaniere (qasr) din secolul VIII"],
+      en: ["70,000 km² area in Jordan", "Elevation 500-800 m", "Annual rainfall 50-100 mm", "Bedouin population approx. 100,000", "Oil fields: Jaffra, Hamzeh", "8th-century Islamic desert castles (qasr)"],
+    },
+  },
   {
     id: "belqa-plateau-relief-v2",
     type: "plateau",
     parent: "JO-BA",
     coords: [35.733, 32.033],
-    name: { de: "Belqa-Plateau", hu: "Belka-fennsík", ro: "Platoul Belqa", en: "Belqa Plateau",
-image: "/poi-images/belqa-plateau-relief-v2.webp"
-},
+    name: { de: "Belqa-Plateau", hu: "Belka-fennsík", ro: "Platoul Belqa", en: "Belqa Plateau"},
+    image: "/poi-images/belqa-plateau-relief-v2.webp",
     description: { de: "Eine fruchtbare Hochebene in Zentraljordanien, die für ihre Landwirtschaft und gemäßigtes Klima bekannt ist.", hu: "Termékeny fennsík Közép-Jordániában, amely mezőgazdaságáról és mérsékelt éghajlatáról ismert.", ro: "Un platou fertil în centrul Iordaniei, cunoscut pentru agricultura și clima sa temperată.", en: "A fertile plateau in central Jordan, known for its agriculture and temperate climate." },
     facts: {
       de: ["Zentrum des historischen Gileads", "Mildes mediterranes Klima", "Reicher Oliven- und Weinanbau", "Stark besiedelte Region"],
       hu: ["A történelmi Gileád központja", "Enyhe mediterrán éghajlat", "Gazdag olajbogyó- és szőlőtermesztés", "Sűrűn lakott régió"],
       ro: ["Centrul istoric al Galaadului", "Climă mediteraneană blândă", "Cultivare bogată de măslini și viță de vie", "Regiune dens populată"],
       en: ["Center of historical Gilead", "Mild Mediterranean climate", "Rich olive and wine cultivation", "Heavily populated region"]
-    }, image: "/poi-images/belqa-plateau-relief-v2.webp"},
+    }, image: "/poi-images/belqa-plateau-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Belqa-Plateau (auch Balqa) ist eine fruchtbare Hochebene westlich von Amman, die sich von der Zarka-Senke bis zum Wadi Mujib erstreckt. Es liegt auf 700-1000 m Höhe und erhält 300-500 mm Jahresniederschlag, was Ackerbau ermöglicht. Der Boden besteht aus Kalk- und Mergelgestein, das reich an Phosphoriten ist. Die Region ist dicht besiedelt, mit Städten wie Salt, Fuheis und Madaba. Landwirtschaftlich dominieren Getreide, Obst und Oliven. Das Belqa-Plateau war historisch Teil des Königreichs Ammon.",
+      hu: "A Belqa-fennsík (más néven Balqa) egy termékeny fennsík Ammántól nyugatra, a Zarka-öböltől a Wadi Mujibig. 700-1000 m magas, éves csapadéka 300-500 mm. Talaja mészkő és márga, foszforitban gazdag. Sűrűn lakott, városai: Salt, Fuheis, Madaba. Fő növények: gabona, gyümölcs, olajbogyó. Történelmileg Ammon királyságának része.",
+      ro: "Podisul Belqa (Balqa) este un platou fertil la vest de Amman, de la depresiunea Zarka până la Wadi Mujib. Altitudini 700-1000 m, precipitații 300-500 mm. Sol calcaros și marnos, bogat în fosforiți. Dens populat, orașe: Salt, Fuheis, Madaba. Agricultură: cereale, fructe, măsline. Istoric parte a regatului Ammonit.",
+      en: "The Belqa Plateau is a fertile highland west of Amman, extending from the Zarqa depression to Wadi Mujib. Elevations range from 700 to 1000 m, with 300-500 mm annual rainfall. Soils are derived from limestone and marl, rich in phosphates. This region is densely populated, with towns like As-Salt, Fuheis, and Madaba. Agriculture produces wheat, fruits, and olives. Historically it was part of the Ammonite kingdom. The plateau also holds valuable phosphate mines.",
+    },
+    factsAdvanced: {
+      de: ["700-1000 m Höhe", "300-500 mm Niederschlag", "Phosphatvorkommen: 30% der jordanischen Reserven", "Bevölkerungsdichte: 150 Einw./km²", "Stadt Salt: 1100 m Höhe", "Anbau von Olivenbäumen auf 40.000 ha"],
+      hu: ["700-1000 m magas", "300-500 mm csapadék", "Foszfátkészletek: Jordánia tartalékainak 30%-a", "Népsűrűség: 150 fő/km²", "Salt városa: 1100 m", "Olajfaültetvények 40.000 hektáron"],
+      ro: ["Altitudine 700-1000 m", "Precipitații 300-500 mm", "Fosfați: 30% din rezervele Iordaniei", "Densitate: 150 loc./km²", "Orașul Salt: 1100 m", "Măslini pe 40.000 ha"],
+      en: ["Elevation 700-1000 m", "Annual rainfall 300-500 mm", "Phosphate reserves: 30% of Jordan's total", "Population density: 150 people/km²", "As-Salt city at 1100 m elevation", "Olive cultivation on 40,000 ha"],
+    },
+  },
   {
     id: "schara-gebirge-relief-v2",
     type: "mountain",
     parent: "JO-MN",
     coords: [35.483, 30.316],
-    name: { de: "Schara-Gebirge", hu: "Sara-hegység", ro: "Munții Sharah", en: "Sharah Mountains",
-image: "/poi-images/schara-gebirge-relief-v2.webp"
-},
+    name: { de: "Schara-Gebirge", hu: "Sara-hegység", ro: "Munții Sharah", en: "Sharah Mountains"},
+    image: "/poi-images/schara-gebirge-relief-v2.webp",
     description: { de: "Ein markantes Bergmassiv nahe Petra, das durch tiefe Täler und steile Klippen geprägt ist.", hu: "Jellegzetes hegytömb Petra közelében, amelyet mély völgyek és meredek sziklák jellemeznek.", ro: "Un masiv muntos izbitor lângă Petra, caracterizat de văi adânci și stânci abrupte.", en: "A striking mountain massif near Petra, characterized by deep valleys and steep cliffs." },
     facts: {
       de: ["Südlich des Toten Meeres gelegen", "Steile Abbrüche zum Jordangraben", "Dünne Besiedlung in den Höhenlagen", "Wichtiges Wassereinzugsgebiet"],
       hu: ["A Holt-tengertől délre található", "Meredek letörések a Jordán-árok felé", "Ritkán lakott hegyvidéki részek", "Fontos vízgyűjtő terület"],
       ro: ["Situat la sud de Marea Moartă", "Coborâșuri abrupte spre Valea Iordanului", "Așezări rare la altitudini mari", "Bazin hidrografic important"],
       en: ["Located south of the Dead Sea", "Steep drops to the Jordan Rift Valley", "Sparse settlement at high altitudes", "Important water catchment area"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Schara-Gebirge (Jabal ash-Shara) ist ein Gebirgszug im Südwesten Jordaniens, der sich von Südosten des Toten Meeres bis zur Grenze zu Saudi-Arabien erstreckt. Die höchsten Gipfel erreichen über 1500 m, der Jabal al-Harun (Aaronberg) ist 1340 m hoch. Das Gebirge besteht aus Sandstein und Granit, mit tief eingekerbten Wadis. Die jährliche Niederschlagsmenge beträgt 150-250 mm, was eine spärliche Vegetation aus Wacholder, Akazien und Dornbüschen ermöglicht. Die Region ist Heimat der beduinischen Stämme der Huwaitat. Archäologisch bedeutend sind nabatäische Felsgräber.",
+      hu: "A Sára-hegység (Jabal ash-Shara) Délnyugat-Jordániában húzódik a Holt-tenger délkeleti részétől Szaúd-Arábia határáig. Legmagasabb csúcsai 1500 m felettiek, a Jabal al-Harun (Áron hegye) 1340 m. Homokkőből és gránitból áll, mély vádikkal. Éves csapadék 150-250 mm, növényzete boróka, akácia és tüskés bokrok. Itt él a Huwaitat beduin törzs. Nabateus sziklás sírok találhatók.",
+      ro: "Munții Shara (Jabal ash-Shara) sunt un lanț muntos în sud-vestul Iordaniei, de la sud-estul Mării Moarte până la granița cu Arabia Saudită. Vârfuri peste 1500 m, Jabal al-Harun (Muntele lui Aaron) 1340 m. Gresie și granit, cu wadiuri adânci. Precipitații 150-250 mm, vegetație de ienupăr, salcâm și tufișuri spinoase. Teritoriul beduinilor Huwaitat. Morminte nabateene rupestre.",
+      en: "The Sharah Mountains (Jabal ash-Shara) are a range in southwestern Jordan, trending from southeast of the Dead Sea to the Saudi border. Peaks exceed 1500 m, with Jabal Harun at 1340 m. Geology is sandstone and granite, dissected by wadis. Annual rainfall 150-250 mm supports juniper, acacia, and brush. The area is home to the Huwaitat Bedouin tribe. Notable are Nabataean rock-cut tombs. The range forms the western edge of the Edom plateau.",
+    },
+    factsAdvanced: {
+      de: ["Länge ca. 100 km", "Höchster Gipfel: 1500+ m (unbenannt)", "Jabal al-Harun 1340 m", "Sandstein und Granit aus dem Präkambrium", "Jahresniederschlag 150-250 mm", "Beduinenstamm Huwaitat: ca. 50.000 Mitglieder"],
+      hu: ["Hossz kb. 100 km", "Legmagasabb csúcs: 1500+ m", "Jabal al-Harun 1340 m", "Prekambriumi homokkő és gránit", "Éves csapadék 150-250 mm", "Huwaitat beduin törzs: kb. 50.000 fő"],
+      ro: ["Lungime cca. 100 km", "Cel mai înalt vârf: peste 1500 m", "Jabal al-Harun 1340 m", "Gresie și granit precambriene", "Precipitații 150-250 mm", "Beduinii Huwaitat: aprox. 50.000 membri"],
+      en: ["Length approx. 100 km", "Highest peak over 1500 m (unnamed)", "Jabal Harun 1340 m", "Precambrian sandstone and granite", "Annual rainfall 150-250 mm", "Huwaitat Bedouin tribe: ~50,000 members"],
+    },
   },
   {
     id: "adschlun-gebirge-relief-v2",
     type: "mountain",
     parent: "JO-AJ",
     coords: [35.750, 32.350],
-    name: { de: "Adschlun-Gebirge", hu: "Adzslún-hegység", ro: "Munții Ajloun", en: "Ajloun Mountains",
-image: "/poi-images/adschlun-gebirge-relief-v2.webp"
-},
+    name: { de: "Adschlun-Gebirge", hu: "Adzslún-hegység", ro: "Munții Ajloun", en: "Ajloun Mountains"},
+    image: "/poi-images/adschlun-gebirge-relief-v2.webp",
     description: { de: "Eine dicht bewaldete und grüne Bergregion im Norden, die einen starken Kontrast zur Wüste bildet.", hu: "Sűrűn erdősült és zöld hegyvidék északon, amely éles kontrasztot alkot a sivataggal.", ro: "O regiune muntoasă verde și dens împădurită în nord, formând un contrast puternic cu deșertul.", en: "A densely forested and green mountain region in the north, forming a stark contrast to the desert." },
     facts: {
       de: ["Grünste Region Jordaniens", "Wälder aus Aleppokiefern und Eichen", "Kühle Bergluft im Sommer", "Kalksteinformationen dominieren"],
       hu: ["Jordánia legzöldebb régiója", "Aleppóifenyőkből és tölgyekből álló erdők", "Hűvös hegyi levegő nyáron", "Mészkőképződmények dominálnak"],
       ro: ["Cea mai verde regiune din Iordania", "Păduri de pini de Alep și stejari", "Aer montan răcoros vara", "Domină formațiunile de calcar"],
       en: ["Greenest region of Jordan", "Forests of Aleppo pines and oaks", "Cool mountain air in summer", "Limestone formations dominate"]
-    }, image: "/poi-images/adschlun-gebirge-relief-v2.webp"},
+    }, image: "/poi-images/adschlun-gebirge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Adschlun-Gebirge (Jabal Ajlun) liegt im Nordwesten Jordaniens und erreicht Höhen von bis zu 1200 m. Es ist Teil des mediterranen Waldgürtels und erhält 600-800 mm Niederschlag jährlich. Die bewaldeten Hänge bestehen aus Eichen, Kiefern und Zypressen. Das Gebirge beherbergt die Burg Ajlun (Qala'at ar-Rabad), eine ayyubidische Festung aus dem 12. Jahrhundert. Die Region ist dicht besiedelt mit Dörfern, die Oliven und Obst anbauen. Das Bergmassiv ist ein wichtiges Wassereinzugsgebiet für den Zarqa-Fluss. Wildschweine und Gazellen sind häufig.",
+      hu: "Az Adschlun-hegység (Jabal Ajlun) Északnyugat-Jordániában található, 1200 m magasságig. A mediterrán erdőöv része, éves csapadéka 600-800 mm. Tölgyes, fenyves és ciprusos erdők borítják. Itt van Ajlun vára (Qala'at ar-Rabad), egy 12. századi ajjúbida erőd. Sűrűn lakott, olaj- és gyümölcstermesztő falvakkal. Fontos vízgyűjtő a Zarqa folyó számára. Vaddisznók és gazellák gyakoriak.",
+      ro: "Munții Ajlun (Jabal Ajlun) se află în nord-vestul Iordaniei, cu înălțimi până la 1200 m. Parte a centurii forestiere mediteraneene, precipitații 600-800 mm anual. Pante împădurite cu stejar, pin și chiparos. Aici se află Castelul Ajlun (Qala'at ar-Rabad), o fortăreață ayubidă din secolul XII. Dens populat cu sate care cultivă măsline și fructe. Zona de captare a râului Zarqa. Mistreți și gazele frecvente.",
+      en: "The Ajloun Mountains in northwestern Jordan rise to 1200 m elevation, part of the Mediterranean forest belt with 600-800 mm annual rainfall. The slopes are covered with oak, pine, and cypress forests. The 12th-century Ajloun Castle (Qala'at ar-Rabad) is a major historical site. The region is densely populated, with villages producing olives, grapes, and apples. The mountains are a critical watershed for the Zarqa River. Wildlife includes wild boar, roe deer, and golden jackal.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 1200 m", "Jahresniederschlag 600-800 mm", "Ajlun Castle: erbaut 1184", "Waldbedeckung: 30% der Fläche", "Zarqa-Flusslänge: 100 km", "Bevölkerungsdichte: 200 Einw./km²"],
+      hu: ["Legmagasabb pont: 1200 m", "Éves csapadék 600-800 mm", "Ajlun vára: 1184-ben épült", "Erdőborítás: a terület 30%-a", "Zarqa folyó hossza: 100 km", "Népsűrűség: 200 fő/km²"],
+      ro: ["Cel mai înalt punct: 1200 m", "Precipitații anuale 600-800 mm", "Castelul Ajlun construit în 1184", "Acoperire forestieră: 30%", "Râul Zarqa lungime 100 km", "Densitate populație: 200 loc./km²"],
+      en: ["Highest point: 1200 m", "Annual rainfall 600-800 mm", "Ajloun Castle built 1184", "Forest cover: 30% of area", "Zarqa River length: 100 km", "Population density: 200 people/km²"],
+    },
+  },
   {
     id: "dschabal-harun-relief-v2",
     type: "mountain",
     parent: "JO-MN",
     coords: [35.405, 30.316],
-    name: { de: "Dschabal Harun", hu: "Dzsebel Harún", ro: "Jabal Harun", en: "Jabal Harun",
-image: "/poi-images/dschabal-harun-relief-v2.webp"
-},
+    name: { de: "Dschabal Harun", hu: "Dzsebel Harún", ro: "Jabal Harun", en: "Jabal Harun"},
+    image: "/poi-images/dschabal-harun-relief-v2.webp",
     description: { de: "Der höchste Gipfel in der Region Petra, der traditionell als Grabstätte von Moses' Bruder Aaron gilt.", hu: "A Petra régió legmagasabb csúcsa, amelyet hagyományosan Mózes testvére, Áron sírhelyének tartanak.", ro: "Cel mai înalt vârf din regiunea Petra, considerat în mod tradițional locul de înmormântare al lui Aaron, fratele lui Moise.", en: "The highest peak in the Petra region, traditionally considered the burial site of Moses' brother Aaron." },
     facts: {
       de: ["1350 Meter über dem Meeresspiegel", "Weißer Schrein auf dem Gipfel", "Heilige Stätte für drei Religionen", "Anspruchsvoller Aufstieg für Pilger"],
       hu: ["1350 méterrel a tengerszint felett", "Fehér szentély a csúcson", "Szent hely három vallás számára", "Kihívást jelentő mászás a zarándokoknak"],
       ro: ["1350 de metri deasupra nivelului mării", "Altar alb pe vârf", "Loc sacru pentru trei religii", "Urcare solicitantă pentru pelerini"],
       en: ["1350 meters above sea level", "White shrine at the summit", "Sacred site for three religions", "Challenging climb for pilgrims"]
-    }, image: "/poi-images/dschabal-harun-relief-v2.webp"},
+    }, image: "/poi-images/dschabal-harun-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dschabal Harun (Jabal Harun, Aaronberg) ist ein 1340 m hoher Berg im Süden Jordaniens, nahe Petra. Er ist die traditionelle Begräbnisstätte Aarons, des Bruders von Mose. Auf dem Gipfel befindet sich ein weißes muslimisches Heiligtum (Wali) und eine byzantinische Kirche. Der Berg besteht aus Sandstein und Granit. Die Besteigung ist ein beliebtes Ziel für Pilger und Wanderer. Der Aufstieg dauert etwa 2-3 Stunden. Von oben bietet sich ein weiter Blick über die Edom-Berge und das Wadi Araba.",
+      hu: "A Dzsabal Harun (Jabal Harun, Áron-hegy) egy 1340 m magas hegy Dél-Jordániában, Petra közelében. Itt van Áron, Mózes testvérének hagyományos sírja. A csúcson egy fehér muszlim szentély (Wali) és egy bizánci templom áll. Homokkőből és gránitból épül fel. Kedvelt zarándok- és túracélpont. A mászás kb. 2-3 óra. A kilátás az Edom-hegységre és a Wadi Arabára nyílik.",
+      ro: "Jabal Harun (Muntele lui Aaron) este un munte de 1340 m în sudul Iordaniei, lângă Petra. Locul tradițional de înmormântare al lui Aaron, fratele lui Moise. Pe vârf se află un mormânt alb musulman (Wali) și o biserică bizantină. Compus din gresie și granit. Destinație populară pentru pelerini și drumeți. Ascensiunea durează 2-3 ore. Vedere panoramică asupra munților Edom și văii Araba.",
+      en: "Jabal Harun (Mount Aaron) is a 1340 m peak in southern Jordan near Petra, believed to be the burial place of Aaron, brother of Moses. A white domed shrine (Wali) and ruins of a Byzantine church crown the summit. The mountain is composed of sandstone and granite. It is a pilgrimage destination and a popular hike, taking 2-3 hours from the trailhead. The views encompass the Edom Mountains and the Araba Valley.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1340 m", "Lage: 5 km westlich von Petra", "Byzantinische Kirche aus dem 5. Jahrhundert", "Muslimischer Wali: 13. Jahrhundert", "Aufstiegsdauer: 2-3 Stunden", "Wanderweg: 5 km Länge"],
+      hu: ["Magasság: 1340 m", "Petrától 5 km-re nyugatra", "5. századi bizánci templom", "Muszlim Wali: 13. század", "Mászási idő: 2-3 óra", "Túraút hossza: 5 km"],
+      ro: ["Altitudine: 1340 m", "Situat la 5 km vest de Petra", "Biserică bizantină din secolul V", "Wali musulman din secolul XIII", "Ascensiune: 2-3 ore", "Drumetie: 5 km lungime"],
+      en: ["Elevation: 1340 m", "Location: 5 km west of Petra", "Byzantine church from 5th century", "Muslim shrine (Wali) from 13th century", "Hiking time: 2-3 hours", "Trail length: 5 km"],
+    },
+  },
   {
     id: "wadi-ghuweir-relief-v2",
     type: "valley",
     parent: "JO-AT",
     coords: [35.533, 30.583],
-    name: { de: "Wadi Ghuweir", hu: "Vádi Guveir", ro: "Wadi Ghuweir", en: "Wadi Ghuweir",
-image: "/poi-images/wadi-ghuweir-relief-v2.webp"
-},
+    name: { de: "Wadi Ghuweir", hu: "Vádi Guveir", ro: "Wadi Ghuweir", en: "Wadi Ghuweir"},
+    image: "/poi-images/wadi-ghuweir-relief-v2.webp",
     description: { de: "Ein spektakuläres Flusstal mit üppiger Vegetation, hängenden Gärten und dramatischen Sandsteinformationen.", hu: "Látványos folyóvölgy buja növényzettel, függőkertekkel és drámai homokkő képződményekkel.", ro: "O vale fluvială spectaculoasă cu vegetație luxuriantă, grădini suspendate și formațiuni dramatice de gresie.", en: "A spectacular river valley with lush vegetation, hanging gardens, and dramatic sandstone formations." },
     facts: {
       de: ["Beliebtes Ziel für Canyoning", "Oase in einer trockenen Region", "Enge Felspassagen", "Ganzjährig fließendes Wasser"],
       hu: ["Népszerű kanyonozó célpont", "Oázis egy száraz régióban", "Szűk sziklaszorosok", "Egész évben folyó víz"],
       ro: ["Destinație populară pentru canioning", "Oază într-o regiune aridă", "Pasaje înguste de stâncă", "Apă curgătoare tot anul"],
       en: ["Popular destination for canyoning", "Oasis in an arid region", "Narrow rock passages", "Water flowing year-round"]
-    }, image: "/poi-images/wadi-ghuweir-relief-v2.webp"},
+    }, image: "/poi-images/wadi-ghuweir-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi Ghuweir ist ein canyonartiges Tal im Süden Jordaniens, etwa 15 km nordöstlich von Aqaba. Es ist Teil des Dana-Biosphärenreservats. Die Schlucht ist bis zu 300 m tief und wird von einem saisonalen Bach durchflossen. Die Vegetation umfasst Oleander, Tamarisken und Dattelpalmen. Das Wadi ist bekannt für seine natürlichen Wasserbecken und Wasserfälle, besonders im Frühjahr. Es ist ein beliebtes Ziel für Canyoning und Wandern. Der Wanderweg ist etwa 7 km lang. Das Tal beherbergt den Nubischen Steinbock und den Klippschliefer.",
+      hu: "A Wadi Ghuweir egy kanyonvölgy Dél-Jordániában, Aqabától 15 km-re északkeletre. A Dana Bioszféra-rezervátum része. A szurdok 300 m mély, időszakos patakkal. Növényzete leander, tamariska és datolyapálma. Természetes medencéiről és vízeséseiről híres, különösen tavasszal. Canyoning és túrázásra alkalmas. A túraút kb. 7 km hosszú. Itt él a núbiai kőszáli kecske és a szirti borz.",
+      ro: "Wadi Ghuweir este un canion în sudul Iordaniei, la 15 km nord-est de Aqaba. Parte a Rezervației Biosferei Dana. Canionul are 300 m adâncime, cu un pârâu sezonier. Vegetație de oleandru, tamarisc și curmal. Cunoscut pentru bazinele naturale și cascade, mai ales primăvara. Practicabil pentru canyoning și drumeții. Traseu de 7 km. Capra nubiană și hyraxul de stâncă.",
+      en: "Wadi Ghuweir is a canyon in southern Jordan, 15 km northeast of Aqaba, part of Dana Biosphere Reserve. The gorge reaches 300 m depth and contains a seasonal stream supporting oleander, tamarisk, and date palms. It features natural pools and waterfalls, popular for canyoning. The 7 km hiking trail showcases Nubian ibex and rock hyrax. The wadi is a key water source for local wildlife.",
+    },
+    factsAdvanced: {
+      de: ["15 km nordöstlich von Aqaba", "300 m Tiefe", "Teil des Dana-Biosphärenreservats (320 km²)", "Wanderweg 7 km", "Wasserbecken: bis zu 5 m Tiefe", "Nubischer Steinbock (Capra nubiana) Bestand"],
+      hu: ["15 km-re Aqabától északkeletre", "300 m mély", "Dana Bioszféra-rezervátum része (320 km²)", "Túraút 7 km", "Vízmedencék: 5 m mélyig", "Núbiai kőszáli kecske (Capra nubiana) állomány"],
+      ro: ["15 km nord-est de Aqaba", "300 m adâncime", "Parte a Rezervației Biosferei Dana (320 km²)", "Traseu 7 km", "Bazine de apă până la 5 m adâncime", "Capră nubiană (Capra nubiana)"],
+      en: ["15 km northeast of Aqaba", "Depth up to 300 m", "Part of Dana Biosphere Reserve (320 km²)", "Hiking trail 7 km", "Natural pools up to 5 m deep", "Nubian ibex (Capra nubiana) population"],
+    },
+  },
   {
     id: "wadi-al-karak-relief-v2",
     type: "valley",
     parent: "JO-KA",
     coords: [35.583, 31.183],
-    name: { de: "Wadi al-Karak", hu: "Vádi al-Karak", ro: "Wadi al-Karak", en: "Wadi al-Karak",
-image: "/poi-images/wadi-al-karak-relief-v2.webp"
-},
+    name: { de: "Wadi al-Karak", hu: "Vádi al-Karak", ro: "Wadi al-Karak", en: "Wadi al-Karak"},
+    image: "/poi-images/wadi-al-karak-relief-v2.webp",
     description: { de: "Eine tiefe und gewundene Schlucht, die vom Moab-Plateau steil hinab zum Toten Meer führt.", hu: "Mély és kanyargós szurdok, amely a Moáb-fennsíkról meredeken ereszkedik le a Holt-tengerhez.", ro: "Un defileu adânc și sinuos care coboară abrupt de pe Platoul Moab spre Marea Moartă.", en: "A deep and winding gorge that drops steeply from the Moab Plateau down to the Dead Sea." },
     facts: {
       de: ["Überwindet große Höhenunterschiede", "Führt zur historischen Burg Karak", "Zahlreiche Wasserfälle im Tal", "Dichte Vegetation am Flussbett"],
       hu: ["Nagy magasságkülönbségeket hidal át", "A történelmi Karak várához vezet", "Számos vízesés a völgyben", "Sűrű növényzet a folyómederben"],
       ro: ["Depășește diferențe mari de altitudine", "Conduce la castelul istoric Karak", "Numeroase cascade în vale", "Vegetație densă albia râului"],
       en: ["Overcomes large altitude differences", "Leads to the historic Karak Castle", "Numerous waterfalls in the valley", "Dense vegetation by the riverbed"]
-    }, image: "/poi-images/wadi-al-karak-relief-v2.webp"},
+    }, image: "/poi-images/wadi-al-karak-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi al-Karak ist ein tief eingeschnittenes Tal in Zentraljordanien, das vom Moab-Plateau zum Toten Meer hin abfällt. Die Schlucht ist etwa 20 km lang und bis zu 400 m tief. Der saisonale Wasserlauf wird durch Quellen gespeist. Die Vegetation umfasst Tamarisken, Oleander und Akazien. Das Wadi ist bekannt für die Ruinen der Kreuzfahrerburg Karak (Kerak) auf einem Felsvorsprung. Die Burg wurde im 12. Jahrhundert erbaut und war eine wichtige Festung der Kreuzfahrer. Das Tal wird landwirtschaftlich genutzt, hauptsächlich für Oliven und Weinreben.",
+      hu: "A Wadi al-Karak egy mély völgy Közép-Jordániában, a Moáb-fennsíktól a Holt-tengerig ereszkedik. A szurdok 20 km hosszú és 400 m mély. Időszakos patak forrásokból táplálkozik. Növényzete tamariska, leander, akácia. Híres a Karak (Kerak) keresztes lovagvárról, amely a 12. században épült. A vár fontos keresztes erőd volt. A völgyben olajbogyót és szőlőt termesztenek.",
+      ro: "Wadi al-Karak este o vale adâncă în centrul Iordaniei, care coboară de pe Podisul Moab către Marea Moartă. Canionul are 20 km lungime și 400 m adâncime. Pârâu sezonier alimentat de izvoare. Vegetație de tamarisc, oleandru, salcâm. Cunoscut pentru Castelul Karak (Kerak), o fortăreață cruciată din secolul XII. Valea este folosită pentru măsline și viță de vie.",
+      en: "Wadi al-Karak is a deep valley in central Jordan descending from the Moab Plateau to the Dead Sea. The canyon is 20 km long and up to 400 m deep, with a seasonal stream. Vegetation includes tamarisk, oleander, and acacia. The Crusader castle of Kerak (Karak) dominates the surrounding landscape, built in 1142 by Pagan the Butler. The wadi's fertile slopes support olive groves and vineyards. The castle is a major tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["20 km Länge", "400 m Tiefe", "Kreuzfahrerburg Kerak: erbaut 1142", "Burgfläche: 8.000 m²", "Höhe der Burgmauern: 15 m", "Jährliche Besucher: 200.000"],
+      hu: ["20 km hosszú", "400 m mély", "Karak keresztes vár: 1142-ben épült", "Vár területe: 8.000 m²", "Várfalak magassága: 15 m", "Éves látogatók: 200.000"],
+      ro: ["Lungime 20 km", "Adâncime 400 m", "Castelul Kerak construit în 1142", "Suprafața castelului: 8.000 m²", "Ziduri înalte de 15 m", "200.000 vizitatori anual"],
+      en: ["Length 20 km", "Depth up to 400 m", "Kerak Castle built 1142", "Castle area: 8,000 m²", "Wall height: 15 m", "Annual visitors: 200,000"],
+    },
+  },
   {
     id: "jordangraben-relief-v2",
     type: "valley",
     parent: "JO-BA",
     coords: [35.550, 32.000],
-    name: { de: "Jordangraben", hu: "Jordán-árok", ro: "Valea de Rift a Iordanului", en: "Jordan Rift Valley",
-image: "/poi-images/jordangraben-relief-v2.webp"
-},
+    name: { de: "Jordangraben", hu: "Jordán-árok", ro: "Valea de Rift a Iordanului", en: "Jordan Rift Valley"},
+    image: "/poi-images/jordangraben-relief-v2.webp",
     description: { de: "Diese bedeutende geologische Senke ist Teil des Großen Afrikanischen Grabenbruchs und sehr fruchtbar.", hu: "Ez a jelentős geológiai süllyedék a Nagy-hasadékvölgy része, és rendkívül termékeny.", ro: "Această depresiune geologică majoră face parte din Marele Rift African și este foarte fertilă.", en: "This significant geological depression is part of the Great Rift Valley and is very fertile." },
     facts: {
       de: ["Sinkt bis auf -430 Meter ab", "Aktivste tektonische Zone der Region", "Geothermische Quellen vorhanden", "Hauptader der jordanischen Landwirtschaft"],
       hu: ["Akár -430 méterig is süllyed", "A régió legaktívabb tektonikus zónája", "Geotermikus források találhatók itt", "A jordán mezőgazdaság fő ütőere"],
       ro: ["Coboară până la -430 de metri", "Cea mai activă zonă tectonică din regiune", "Izvoare geotermale prezente", "Vena principală a agriculturii iordaniene"],
       en: ["Sinks down to -430 meters", "Most active tectonic zone in the region", "Geothermal springs present", "Main artery of Jordanian agriculture"]
-    }, image: "/poi-images/jordangraben-relief-v2.webp"},
+    }, image: "/poi-images/jordangraben-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jordangraben (Jordan Rift Valley) ist eine tektonische Senke, die vom Golf von Aqaba bis zur Bekaa-Ebene im Libanon reicht. Der jordanische Teil erstreckt sich über etwa 400 km, wobei das Tote Meer den tiefsten Punkt der Erdoberfläche darstellt. Die Senke ist Teil des Syrisch-Afrikanischen Grabensystems. Die Höhen variieren von 400 m unter dem Meeresspiegel am Toten Meer bis zu 100 m unter NN im Süden. Das Klima ist arid bis semiarid. Der Jordan fließt durch den Graben und mündet ins Tote Meer. Das Gebiet ist landwirtschaftlich intensiv genutzt, besonders im Jordantal.",
+      hu: "A Jordán-árok (Jordan Rift Valley) egy tektonikus árok, amely az Akabai-öböltől a libanoni Bekaa-síkságig húzódik. A jordániai szakasz kb. 400 km hosszú, a Holt-tenger a Föld legmélyebb pontja. Része a Szíriai-Afrikai árokrendszernek. Magassága -400 m-től -100 m-ig változik. Az éghajlat száraz-félszáraz. A Jordán folyó az árokban folyik a Holt-tengerbe. Az intenzív mezőgazdaság jellemző, főként a Jordán-völgyben.",
+      ro: "Valea Riftului Iordanian (Jordan Rift Valley) este o depresiune tectonică de la Golful Aqaba până la câmpia Bekaa din Liban. Sectorul iordanian are aprox. 400 km, iar Marea Moartă este cel mai jos punct terestru. Componentă a riftului sirio-african. Altitudini între -400 m și -100 m. Climat arid-semiarid. Râul Iordan curge spre Marea Moartă. Agricultură intensivă în valea Iordanului.",
+      en: "The Jordan Rift Valley is a tectonic depression extending from the Gulf of Aqaba to the Bekaa Valley. The Jordanian section spans about 400 km, with the Dead Sea at 430 m below sea level, the Earth's lowest point. It is part of the Great Rift Valley system. Elevations range from -430 m at the Dead Sea to around -200 m further north. The valley receives less than 100 mm rainfall in the south but supports irrigated agriculture in the Jordan Valley, producing citrus, bananas, and vegetables.",
+    },
+    factsAdvanced: {
+      de: ["Länge in Jordanien: 400 km", "Tiefster Punkt: 430 m unter NN", "Teil des Großen Afrikanischen Grabenbruchs", "Jordan: 251 km lang", "Bewässerte Fläche im Jordantal: 25.000 ha", "Jährliche Bevölkerungsdichte: 300 Einw./km² im Norden"],
+      hu: ["Jordániai hossz: 400 km", "Legmélyebb pont: -430 m", "A nagy afrikai árokrendszer része", "Jordán folyó: 251 km", "Öntözött terület a Jordán-völgyben: 25.000 ha", "Népsűrűség északon: 300 fő/km²"],
+      ro: ["Lungime în Iordania: 400 km", "Cel mai jos punct: -430 m", "Parte a Marelui Rift African", "Râul Iordan: 251 km", "Suprafață irigată în valea Iordanului: 25.000 ha", "Densitate populație în nord: 300 loc./km²"],
+      en: ["Length in Jordan: 400 km", "Lowest point: 430 m below sea level", "Part of the Great Rift Valley", "Jordan River length: 251 km", "Irrigated area in Jordan Valley: 25,000 ha", "Population density in north: 300 people/km²"],
+    },
+  },
   {
     id: "dschabal-al-madhbah-relief-v2",
     type: "mountain",
     parent: "JO-MN",
     coords: [35.446, 30.323],
-    name: { de: "Dschabal al-Madhbah", hu: "Dzsebel al-Madbáh", ro: "Jabal al-Madhbah", en: "Jabal al-Madhbah",
-image: "/poi-images/dschabal-al-madhbah-relief-v2.webp"
-},
+    name: { de: "Dschabal al-Madhbah", hu: "Dzsebel al-Madbáh", ro: "Jabal al-Madhbah", en: "Jabal al-Madhbah"},
+    image: "/poi-images/dschabal-al-madhbah-relief-v2.webp",
     description: { de: "Ein bedeutender Berg in Petra, der von den Nabatäern als heiliger Opferplatz auf dem Gipfel genutzt wurde.", hu: "Jelentős hegy Petrában, amelyet a nabateusok szent áldozati helyként használtak a csúcson.", ro: "Un munte important din Petra, folosit de nabateeni ca loc sacru de sacrificiu pe vârf.", en: "A significant mountain in Petra, used by the Nabataeans as a sacred sacrificial site at the summit." },
     facts: {
       de: ["Antiker Opferaltar auf der Spitze", "Nur über steile Treppen erreichbar", "Bietet Panoramablick über Petra", "Wird oft mit dem biblischen Berg Sinai gleichgesetzt"],
       hu: ["Ókori áldozati oltár a csúcson", "Csak meredek lépcsőkön érhető el", "Panorámás kilátást nyújt Petrára", "Gyakran azonosítják a bibliai Sínai-heggyel"],
       ro: ["Altar antic de sacrificiu în vârf", "Accesibil doar pe scări abrupte", "Oferă vederi panoramice asupra Petrei", "Adesea echivalat cu Muntele biblic Sinai"],
       en: ["Ancient sacrificial altar at the top", "Only accessible via steep stairs", "Offers panoramic views over Petra", "Often equated with the biblical Mount Sinai"]
-    }, image: "/poi-images/dschabal-al-madhbah-relief-v2.webp"},
+    }, image: "/poi-images/dschabal-al-madhbah-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dschabal al-Madhbah (Berg des Altars) ist ein Berg in Petra, Jordanien, bekannt für seine Opferstätte der Nabatäer. Der Gipfel liegt auf etwa 1070 m Höhe und ist über eine Treppe mit 800 Stufen erreichbar. Oben befinden sich zwei Obelisken und ein freistehender Altar. Der Berg wird als heiliger Ort angesehen, wo die Nabatäer religiöse Zeremonien abhielten. Von hier hat man einen hervorragenden Blick über die gesamte Stadt Petra. Die Felsformationen bestehen aus buntem Sandstein. Der Aufstieg ist eine der beliebtesten Wanderungen in Petra.",
+      hu: "A Dzsabal al-Madhbah (Oltár hegye) egy hegy Petrától északra, ismert a nabateus áldozati helyéről. A csúcs kb. 1070 m magas, 800 lépcsőfokkal közelíthető meg. Fent két obeliszk és egy szabadon álló oltár található. Szent helynek tartották, ahol szertartásokat végeztek. Remek kilátás nyílik Petra egészére. A kőzet színes homokkő. A felkapaszkodás Petra egyik legnépszerűbb túrája.",
+      ro: "Jabal al-Madhbah (Muntele Altarului) este un munte în Petra, cunoscut pentru locul de sacrificiu nabateean. Vârful la circa 1070 m, accesibil printr-o scară de 800 de trepte. În vârf sunt doi obelisci și un altar izolat. Considerat un loc sacru pentru ritualuri. Oferă o vedere panoramică asupra Petrei. Stâncă de gresie colorată. Este una dintre cele mai populare drumeții din Petra.",
+      en: "Jabal al-Madhbah (Mountain of the Altar) is a peak in Petra, Jordan, featuring a Nabataean high place of sacrifice. The summit at 1070 m is reached via a stairway of 800 steps. Two obelisks and a free-standing altar mark the top. The site was used for religious ceremonies and offerings. The view overlooks the entire Petra basin. The sandstone cliffs display vibrant colors. This hike is a highlight for visitors exploring Petra.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1070 m", "800 Stufen zum Gipfel", "Zwei Obelisken aus dem 1. Jahrhundert v. Chr.", "Altarfläche: 6 m x 3 m", "Sandsteinfarben: rot, gelb, weiß", "Wanderzeit: 1-2 Stunden"],
+      hu: ["Magasság: 1070 m", "800 lépcsőfok a csúcsra", "Két obeliszk az i.e. 1. századból", "Oltár területe: 6 m x 3 m", "Homokkő színei: piros, sárga, fehér", "Túra időtartama: 1-2 óra"],
+      ro: ["Altitudine: 1070 m", "800 de trepte până în vârf", "Doi obelisci din secolul I î.Hr.", "Altar suprafață: 6 m x 3 m", "Culori ale gresiei: roșu, galben, alb", "Durată drumeție: 1-2 ore"],
+      en: ["Elevation: 1070 m", "800 steps to summit", "Two obelisks from 1st century BC", "Altar size: 6 m x 3 m", "Sandstone colors: red, yellow, white", "Hike duration: 1-2 hours"],
+    },
+  },
   {
     id: "wadi-as-sir-relief-v2",
     type: "valley",
     parent: "JO-AM",
     coords: [35.816, 31.950],
-    name: { de: "Wadi as-Sir", hu: "Vádi as-Szír", ro: "Wadi as-Sir", en: "Wadi as-Sir",
-image: "/poi-images/wadi-as-sir-relief-v2.webp"
-},
+    name: { de: "Wadi as-Sir", hu: "Vádi as-Szír", ro: "Wadi as-Sir", en: "Wadi as-Sir"},
+    image: "/poi-images/wadi-as-sir-relief-v2.webp",
     description: { de: "Ein grünes und wasserreiches Tal am Stadtrand von Amman, umgeben von bewaldeten Hügeln.", hu: "Zöld és vízben gazdag völgy Ammán külvárosában, erdős dombokkal körülvéve.", ro: "O vale verde și bogată în apă la periferia Ammanului, înconjurată de dealuri împădurite.", en: "A green and water-rich valley on the outskirts of Amman, surrounded by wooded hills." },
     facts: {
       de: ["Traditionelles Rückzugsgebiet für Ammaner", "Hellenistische Palastruine Qasr al-Abd", "Verzweigtes Höhlensystem vorhanden", "Fruchtbare Feigen- und Granatapfelgärten"],
       hu: ["Hagyományos menedékhely az ammániak számára", "Qasr al-Abd hellenisztikus palotarom", "Kiterjedt barlangrendszer található itt", "Termékeny füge- és gránátalma-kertek"],
       ro: ["Refugiu tradițional pentru locuitorii din Amman", "Ruinele palatului elenistic Qasr al-Abd", "Sistem extins de peșteri prezent", "Livezi fertile de smochini și rodii"],
       en: ["Traditional retreat for Amman residents", "Hellenistic palace ruin Qasr al-Abd", "Extensive cave system present", "Fertile fig and pomegranate orchards"]
-    }, image: "/poi-images/wadi-as-sir-relief-v2.webp"},
+    }, image: "/poi-images/wadi-as-sir-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi as-Sir ist ein Trockental im Westen Jordaniens, das sich über etwa 25 km erstreckt und Teil des Einzugsgebiets des Jordans ist. Es entwässert die östlichen Hänge des Amman-Plateaus und mündet in den Fluss Zarqa. Die Region ist von landwirtschaftlicher Nutzung geprägt, insbesondere durch Terrassenfelder, die Regenwasser nutzen. In den letzten Jahrzehnten hat die Urbanisierung, vor allem durch die Expansion von Amman, zu Veränderungen im Wasserhaushalt geführt. Das Tal ist auch für seine römischen und byzantinischen Siedlungsreste bekannt. Die jährlichen Niederschläge betragen zwischen 300 und 400 mm.",
+      hu: "Wadi as-Sir egy száraz völgy Jordánia nyugati részén, amely az Amman-fennsík és a Jordán-árok közötti átmeneti zónában helyezkedik el. A völgy történelmi jelentőségét az ókori karavánutak adják, amelyek összekötötték Ammánt a Holttenger térségével. A terület számos régészeti lelőhelyet rejt, köztük a Nabateus korabeli építményeket. A modern időkben a völgy lakossága mezőgazdaságból él, főként olíva- és citrusültetvényekből. A közelmúltban a turizmus is fejlődött, mivel a természeti szépségek és a történelmi helyszínek vonzzák a látogatókat.",
+      ro: "Wadi as-Sir este un ued situat în vestul Iordaniei, care drenează versanții estici ai Podișului Amman. Albia sa, cu o lungime de aproximativ 25 km, este sezonieră, cu debite semnificative doar după ploi. Zona este cunoscută pentru biodiversitatea sa, incluzând specii rare de păsări și plante adaptate la medii aride. În partea inferioară, văile sunt cultivate cu grâu și orz. Proximitatea față de Amman a dus la presiuni urbanistice, iar gestionarea apelor subterane este o provocare majoră. De asemenea, aici se găsesc izvoare termale cu proprietăți minerale.",
+      en: "Wadi as-Sir is a valley in central Jordan, running from the Amman Plateau down to the Zarqa River basin. It serves as a crucial water catchment area, supporting agriculture in its terraced fields. The valley holds significant archaeological sites from the Roman and Byzantine eras, including remnants of aqueducts and settlements. In modern times, it faces challenges of urban sprawl from Amman, affecting its natural drainage. Ecologically, it hosts endemic plant species and migratory birds. The average annual rainfall is around 350 mm, concentrated in winter months.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 25 km", "Niederschlag: 300-400 mm jährlich", "Höhenbereich: 700 bis 900 Meter über Meeresspiegel", "Fläche des Einzugsgebiets: ca. 100 km²", "Ortsdichte: etwa 50 Siedlungen in der Talsohle", "Historische Stätten: über 20 archäologische Fundorte aus römischer Zeit"],
+      hu: ["A völgy hossza: 25 km", "Átlagos évi csapadék: 350 mm", "Legmagasabb pont: 950 m tengerszint felett", "Lakosság: kb. 15.000 fő a völgyben", "Mezőgazdasági terület: 30% olívaültetvény", "Római kori vízvezeték maradványai: 5 km hosszan"],
+      ro: ["Lungime: 25 km", "Bazin hidrografic: 100 km²", "Precipitații medii anuale: 350 mm", "Populație: aproximativ 12.000 de locuitori", "Număr de situri arheologice: 25", "Specii de păsări migrate: peste 60"],
+      en: ["Length: 25 km", "Watershed area: 100 km²", "Elevation range: 700–950 m", "Annual rainfall: 350 mm", "Number of archaeological sites: 20+", "Irrigated farmland: 5 km²"],
+    },
+  },
   {
     id: "wadi-shuaib-relief-v2",
     type: "valley",
     parent: "JO-BA",
     coords: [35.633, 31.933],
-    name: { de: "Wadi Schuʿaib", hu: "Vádi Suajb", ro: "Wadi Shuaib", en: "Wadi Shuaib",
-image: "/poi-images/wadi-shuaib-relief-v2.webp"
-},
+    name: { de: "Wadi Schuʿaib", hu: "Vádi Suajb", ro: "Wadi Shuaib", en: "Wadi Shuaib"},
+    image: "/poi-images/wadi-shuaib-relief-v2.webp",
     description: { de: "Ein wichtiges Tal, das die Stadt Salt mit dem Jordantal verbindet und intensiv landwirtschaftlich genutzt wird.", hu: "Fontos völgy, amely a Szalt várost köti össze a Jordán-völggyel, és intenzív mezőgazdasági művelés alatt áll.", ro: "O vale importantă care leagă orașul Salt de Valea Iordanului și este utilizată intens pentru agricultură.", en: "An important valley connecting the city of Salt to the Jordan Valley, intensively used for agriculture." },
     facts: {
       de: ["Grabstätte des Propheten Jethro (Schuʿaib)", "Wichtige Verkehrsroute", "Intensiver Gewächshausanbau", "Steile Terassenlandschaften"],
       hu: ["Jetró (Suajb) próféta sírhelye", "Fontos közlekedési útvonal", "Intenzív melegházi termesztés", "Meredek teraszos tájak"],
       ro: ["Mormântul profetului Ietro (Shuaib)", "Rută de transport importantă", "Cultivare intensivă în sere", "Peisaje terasate abrupte"],
       en: ["Tomb of the Prophet Jethro (Shuaib)", "Important transportation route", "Intensive greenhouse cultivation", "Steep terraced landscapes"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Wadi Shuaib ist ein Tal in Jordanien, das nach dem biblischen Propeten Schuaib benannt ist. Es liegt nordwestlich von Amman und ist Teil des Jordangrabens. Das Tal zeichnet sich durch steile Felswände und mehrere Quellen aus. In der Antike war es eine wichtige Route für Karawanen. Heute wird es landwirtschaftlich genutzt, vor allem für den Anbau von Zitrusfrüchten und Gemüse. Die Region ist auch für ihre byzantinischen Kirchenruinen bekannt. Der Wadi Shuaib Dam, erbaut 1968, dient der Bewässerung. Die jährlichen Niederschläge liegen bei 400 mm.",
+      hu: "Wadi Shuaib egy völgy Jordánia északnyugati részén, amely a Holt-tenger közelében található. Nevét az iszlám prófétáról, Shuabról kapta. A völgy gazdag forrásokban és patakokban, amelyek támogatják a mezőgazdaságot. Történelmi szempontból fontos helyszín, mivel az ókori moábiták és ammóniták is lakták. A mai települések közé tartozik Shuaib falu, amelynek lakossága mezőgazdasági termelésből él. A völgyben található egy 19. századi oszmán erőd romjai. A turizmus fejlődése új lehetőségeket teremt.",
+      ro: "Wadi Shuaib este un ued situat în nord-vestul Iordaniei, aproape de frontiera cu Cisiordania. Este cunoscut pentru izvoarele sale naturale care alimentează pâraie perene. Zona a fost locuită din timpuri străvechi, cu dovezi ale așezărilor din Epoca Bronzului. În prezent, agricultura este principala activitate, cultivându-se citrice și legume. Barajul Wadi Shuaib, construit în 1968, are o capacitate de 3,5 milioane m³. Valea este, de asemenea, un loc de pelerinaj religios pentru musulmani și creștini deopotrivă.",
+      en: "Wadi Shuaib is a valley located northwest of Amman, Jordan, famous for its association with the prophet Shuaib. It features perennial streams and fertile soils supporting citrus and vegetable farming. The valley contains numerous archaeological sites, including Byzantine churches and Ottoman ruins. The Wadi Shuaib Dam, completed in 1968, provides irrigation water. Ecologically, the area hosts diverse flora and fauna. Tourism is growing due to its religious significance and natural beauty. The valley is part of the Jordan Rift Valley system.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 30 km", "Dammbaujahr: 1968", "Speicherkapazität: 3,5 Mio. m³", "Niederschlag: 400 mm jährlich", "Anzahl der Quellen: 7 permanente", "Höhe der Felswände: bis zu 200 m"],
+      hu: ["Völgy hossza: 30 km", "Tengerszint feletti magasság: 300 m", "Az erőd építésének ideje: 19. század", "Mezőgazdasági terület: 15 km²", "Lakosság: kb. 5.000 fő", "Éves csapadék: 450 mm"],
+      ro: ["Lungime: 30 km", "Altitudine medie: 350 m", "Capacitate baraj: 3,5 milioane m³", "Precipitații: 400 mm/an", "Numărul de izvoare: 7", "Suprafață agricolă irigată: 1200 ha"],
+      en: ["Length: 30 km", "Dam capacity: 3.5 million m³", "Elevation at valley floor: 300 m", "Annual rainfall: 400 mm", "Number of perennial springs: 7", "Agricultural area: 15 km²"],
+    },
   },
   {
     id: "totes-meer-kueste-relief-v2",
     type: "coast",
     parent: "JO-BA",
     coords: [35.583, 31.716],
-    name: { de: "Küste des Toten Meeres", hu: "Holt-tenger partvidéke", ro: "Coasta Mării Moarte", en: "Dead Sea Coast",
-image: "/poi-images/totes-meer-kueste-relief-v2.webp"
-},
+    name: { de: "Küste des Toten Meeres", hu: "Holt-tenger partvidéke", ro: "Coasta Mării Moarte", en: "Dead Sea Coast"},
+    image: "/poi-images/totes-meer-kueste-relief-v2.webp",
     description: { de: "Die tiefstgelegene Küstenlinie der Erde, gesäumt von funkelnden Salzkristallen und mineralreichen Schlammstränden.", hu: "A Föld legmélyebb szárazföldi pontja, amelyet csillogó sókristályok és ásványi anyagokban gazdag iszapos strandok szegélyeznek.", ro: "Cea mai joasă coastă de pe Pământ, mărginită de cristale strălucitoare de sare și plaje cu noroi bogat în minerale.", en: "The lowest coastline on Earth, lined with sparkling salt crystals and mineral-rich mud beaches." },
     facts: {
       de: ["Tiefster Landpunkt der Erde", "Sehr hoher Salzgehalt im Wasser", "Heilschlamm zieht Touristen an", "Sinkender Wasserspiegel bedroht die Küste"],
       hu: ["A Föld legmélyebb szárazföldi pontja", "Nagyon magas sótartalom a vízben", "A gyógyiszap vonzza a turistákat", "A csökkenő vízszint fenyegeti a partot"],
       ro: ["Cel mai jos punct terestru de pe Pământ", "Salinitate foarte ridicată în apă", "Nămolul terapeutic atrage turiștii", "Nivelul scăzut al apei amenință coasta"],
       en: ["Lowest land point on Earth", "Very high salt content in the water", "Healing mud attracts tourists", "Falling water level threatens the coast"]
-    }, image: "/poi-images/totes-meer-kueste-relief-v2.webp"},
+    }, image: "/poi-images/totes-meer-kueste-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste des Toten Meeres liegt im Jordangraben, dem tiefsten Punkt der Erdoberfläche. Sie erstreckt sich über etwa 50 km auf jordanischer Seite. Das Tote Meer hat einen Salzgehalt von 34 % und ist damit eines der salzigsten Gewässer der Welt. Die Küstenregion ist geprägt von Salzkrusten und Mineralablagerungen. In der Antike war sie für den Asphaltabbau bekannt. Heute ist der Tourismus wichtig, mit Resorts und Thermalquellen. Die Umgebung ist extrem trocken mit weniger als 100 mm Niederschlag pro Jahr. Durch Wasserentnahme sinkt der Meeresspiegel jährlich um etwa 1 Meter.",
+      hu: "A Holt-tenger partvidéke a Föld legmélyebb pontján fekszik, 430 méterrel a tengerszint alatt. A Jordániai partszakasz hossza kb. 50 km. A tenger rendkívül sós, sótartalma 34,2%, ami lehetetlenné teszi az élőlények számára. A part mentén számos ásványi anyagban gazdag forrás található, amelyek gyógyhatásúak. A terület fontos történelmi helyszín, például Szodoma és Gomora bibliai városai a közelben voltak. Ma a turizmus a fő ágazat, luxusszállodákkal. A vízszint évente 1,2 métert csökken.",
+      ro: "Coasta Mării Moarte reprezintă cea mai joasă altitudine de pe Pământ, la aproximativ 430 m sub nivelul mării. Partea iordaniană are o lungime de 50 km. Salinitatea apei atinge 34%, concentrație letală pentru pești, dar favorabilă extracției de minerale precum potasiu și magneziu. De-a lungul coastei se află izvoare termale și stațiuni balneare. Regiunea este extrem de aridă, cu precipitații sub 100 mm anual. Exploatarea sării și a mineralelor este o activitate economică majoră. Nivelul apei scade cu aproximativ 1 metru pe an din cauza devierii apelor.",
+      en: "The Dead Sea Coast in Jordan is the lowest land on Earth, at 430 meters below sea level. It stretches about 50 km along the eastern shore. The Dead Sea has a salinity of 34%, preventing aquatic life but allowing unique mineral extraction such as potash and magnesium. The coast features salt formations and geothermal springs. Historically, it was a source of asphalt for ancient Egyptians. Today, tourism and health resorts are prominent, though water diversion causes the sea level to drop about 1 meter annually. The climate is hyper-arid with less than 100 mm of rain per year.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 430 m unter dem Meeresspiegel", "Salzgehalt: 34 %", "Länge der jordanischen Küste: 50 km", "Niederschlag: unter 100 mm/Jahr", "Jährlicher Wasserstandsverlust: 1 m", "Anzahl der Resorts: über 15"],
+      hu: ["Tengerszint alatti magasság: 430 m", "Sótartalom: 34,2%", "Part hossza: 50 km", "Éves csapadék: kevesebb mint 80 mm", "Vízszintcsökkenés: 1,2 m/év", "Ásványi anyagok: 43 milliárd tonna só"],
+      ro: ["Altitudine: -430 m", "Salinitate: 34%", "Lungime coastă: 50 km", "Precipitații: <100 mm/an", "Producția anuală de potasiu: 2 milioane tone", "Număr stațiuni: 12"],
+      en: ["Elevation: 430 m below sea level", "Salinity: 34%", "Jordanian coastline: 50 km", "Annual rainfall: <100 mm", "Annual water level drop: 1 m", "Potash production: 2 million tons/year"],
+    },
+  },
   {
     id: "akaba-kueste-relief-v2",
     type: "coast",
     parent: "JO-AQ",
     coords: [34.983, 29.466],
-    name: { de: "Golf von Akaba Küste", hu: "Akabai-öböl partvidéke", ro: "Coasta Golfului Aqaba", en: "Gulf of Aqaba Coast",
-image: "/poi-images/akaba-kueste-relief-v2.webp"
-},
+    name: { de: "Golf von Akaba Küste", hu: "Akabai-öböl partvidéke", ro: "Coasta Golfului Aqaba", en: "Gulf of Aqaba Coast"},
+    image: "/poi-images/akaba-kueste-relief-v2.webp",
     description: { de: "Jordaniens einziger Meereszugang im Süden, charakterisiert durch warme Sandstrände und das kristallklare Rote Meer.", hu: "Jordánia egyetlen tengeri kijárata délen, amelyet meleg homokos strandok és a kristálytiszta Vörös-tenger jellemez.", ro: "Singurul acces maritim al Iordaniei în sud, caracterizat de plaje cu nisip cald și Marea Roșie cristalină.", en: "Jordan's only maritime access in the south, characterized by warm sandy beaches and the crystal-clear Red Sea." },
     facts: {
       de: ["Nur etwa 26 Kilometer lang", "Einziger Seehafen des Landes", "Reich an bunten Korallenriffen", "Beliebt bei Tauchern weltweit"],
       hu: ["Csak mintegy 26 kilométer hosszú", "Az ország egyetlen tengeri kikötője", "Gazdag színes korallzátonyokban", "Népszerű a búvárok körében világszerte"],
       ro: ["Are o lungime de doar aproximativ 26 de kilometri", "Singurul port maritim al țării", "Bogat în recife de corali colorate", "Popular printre scafandrii din întreaga lume"],
       en: ["Only about 26 kilometers long", "The country's only seaport", "Rich in colorful coral reefs", "Popular with divers worldwide"]
-    }, image: "/poi-images/akaba-kueste-relief-v2.webp"},
+    }, image: "/poi-images/akaba-kueste-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste des Golfs von Akaba erstreckt sich über etwa 27 km in Jordanien und ist der einzige Zugang des Landes zum Meer. Der Golf ist Teil des Roten Meeres und bekannt für seine Korallenriffe, die zu den nördlichsten der Welt gehören. Die Hafenstadt Akaba ist ein wirtschaftliches Zentrum für Import und Export. Die Region hat ein arides Klima mit weniger als 50 mm Niederschlag jährlich. Der Tourismus konzentriert sich auf Tauchen und Wassersport. Die Küste beherbergt auch das marine Schutzgebiet Aqaba Marine Park.",
+      hu: "Az Akabai-öböl partvonala Jordánia egyetlen tengeri kijárata, hossza 27 km. Az öböl a Vörös-tenger része, és gazdag korallzátonyokban, amelyek vonzzák a búvárokat. Akaba városa fontos kikötő, éves forgalma meghaladja a 20 millió tonnát. A régió éghajlata forró és száraz, a nyári hőmérséklet gyakran meghaladja a 40°C-ot. Az öbölben számos hajóroncs található, amelyek turisztikai attrakciók. A parti övezetben luxusszállodák épültek. A tengeri biológiai sokféleség figyelemre méltó, több mint 500 halfaj él itt.",
+      ro: "Coasta Golfului Aqaba din Iordania se întinde pe 27 km, fiind singurul litoral al țării. Golful face parte din Marea Roșie și este renumit pentru recifele de corali, care găzduiesc peste 500 de specii de pești. Portul Aqaba este un hub comercial major, cu un trafic anual de 20 de milioane de tone. Clima este deșertică, cu precipitații sub 50 mm anual. Temperaturile de vară depășesc frecvent 40°C. Turismul include scufundări și sporturi nautice. Zona marină protejată Aqaba Marine Park acoperă 1 km².",
+      en: "The Gulf of Aqaba coast in Jordan stretches 27 km along the northeastern tip of the Red Sea. It is Jordan's only seaport, crucial for trade and tourism. The gulf is known for its vibrant coral reefs, part of the northernmost coral community in the world. Aqaba city is a major industrial and tourist hub, with a container port handling millions of tons annually. The climate is hot and dry, with summer temperatures often above 40°C. Marine biodiversity includes 500 fish species. Protected areas like Aqaba Marine Park preserve the fragile ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: 27 km", "Niederschlag: unter 50 mm/Jahr", "Hafentonnage: 20 Mio. Tonnen jährlich", "Anzahl der Korallenarten: über 100", "Wassertemperatur im Sommer: 26°C", "Meeresschutzgebiet: 1 km²"],
+      hu: ["Part hossza: 27 km", "Éves csapadék: kevesebb mint 50 mm", "Kikötői forgalom: 20 millió tonna/év", "Halfajok száma: 500", "Korallzátonyok kora: 5000 év", "Turisták száma évente: 1 millió"],
+      ro: ["Lungime coastă: 27 km", "Precipitații: <50 mm/an", "Trafic portuar: 20 milioane tone", "Specii de pești: 500", "Suprafață parc marin: 1 km²", "Temperatura apei vara: 26°C"],
+      en: ["Coastline length: 27 km", "Annual rainfall: <50 mm", "Port cargo volume: 20 million tons/year", "Coral species: 100+", "Fish species: 500", "Marine park area: 1 km²"],
+    },
+  },
   {
     id: "dschabal-ataruz-relief-v2",
     type: "mountain",
     parent: "JO-MD",
     coords: [35.650, 31.550],
-    name: { de: "Dschabal Ataruz", hu: "Dzsebel Atarúz", ro: "Jabal Ataruz", en: "Jabal Ataruz",
-image: "/poi-images/dschabal-ataruz-relief-v2.webp"
-},
+    name: { de: "Dschabal Ataruz", hu: "Dzsebel Atarúz", ro: "Jabal Ataruz", en: "Jabal Ataruz"},
+    image: "/poi-images/dschabal-ataruz-relief-v2.webp",
     description: { de: "Ein isolierter und historisch bedeutsamer Berg im moabitischen Hochland mit weitem Blick über die Region.", hu: "Elszigetelt és történelmileg jelentős hegy a moábi felföldön, ahonnan messzire ellátni a régióban.", ro: "Un munte izolat și cu semnificație istorică din ținuturile înalte ale Moabului, cu vederi largi asupra regiunii.", en: "An isolated and historically significant mountain in the Moabite highlands, offering sweeping views of the region." },
     facts: {
       de: ["Erwähnt in der Mescha-Stele", "Ehemalige Kultstätte der Moabiter", "Bietet freie Sicht bis Jerusalem", "Reste antiker Mauern erhalten"],
       hu: ["A Mésa-sztélé is említi", "A moábiták egykori kultuszhelye", "Tiszta időben Jeruzsálemig ellátni", "Ősi falak maradványai maradtak fenn"],
       ro: ["Menționat în Stela lui Mesa", "Fost lăcaș de cult al moabiților", "Oferă vedere clară până la Ierusalim", "Rămășițe de ziduri antice păstrate"],
       en: ["Mentioned in the Mesha Stele", "Former cult site of the Moabites", "Offers clear views to Jerusalem", "Remains of ancient walls preserved"]
-    }, image: "/poi-images/dschabal-ataruz-relief-v2.webp"},
+    }, image: "/poi-images/dschabal-ataruz-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Jabal Ataruz, auch bekannt als Dschabal Ataruz, ist ein Berg in Jordanien mit einer Höhe von etwa 1.100 Metern. Er liegt im Nordwesten des Landes, in der Nähe der Stadt Madaba. Der Berg ist aus Kalkstein aufgebaut und weist tiefe Schluchten auf. In der Antike war er eine strategische Festung. Heute ist er für seine Flora bekannt, darunter wilder Thymian und Oleander. Der Gipfel bietet eine gute Aussicht auf das Jordantal. Das Gebiet ist Teil des Ajloun-Naturschutzgebiets. Die Region erhält jährlich etwa 500 mm Niederschlag.",
+      hu: "A Dschabal Ataruz egy 1100 méter magas hegy Jordánia északnyugati részén, Madaba közelében. Az ókorban fontos erődítmény volt, ahol a Moábita királyság uralkodott. A hegyen találhatók egy középkori vár romjai. A terület biológiai sokfélesége jelentős, számos endemikus növényfaj él itt. A hegyoldalakat teraszos mezőgazdasági művelés alá vonták, főként olíva és szőlő termelésére. A turizmus egyre népszerűbb a túrázók körében. Az évi csapadékmennyiség 500 mm körül van.",
+      ro: "Jabal Ataruz este un munte situat în nord-vestul Iordaniei, cu o altitudine de 1.100 m. Zona este cunoscută pentru ruinele unei cetăți moabite din Epoca Fierului. Situl arheologic a scos la lumină artefacte ceramice și inscripții. Vegetația include păduri de stejar și pini, iar fauna cuprinde șacali și vulpi. Clima este mediteraneană, cu precipitații anuale de 500 mm. Muntele face parte din peisajul cultural al regiunii Madaba. Recent, au fost dezvoltate trasee de drumeție pentru vizitatori.",
+      en: "Jabal Ataruz is a mountain in north-western Jordan, rising to 1,100 meters above sea level. It is an archaeological site with remains of a Moabite fortress dating to the Iron Age. The mountain features limestone geology and steep slopes. It is part of the Mediterranean forest ecosystem, with oak and pine trees. Annual rainfall is about 500 mm. The area is popular for hiking and historical tourism. Excavations have uncovered pottery and inscriptions. The summit provides panoramic views of the surrounding highlands.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.100 m", "Niederschlag: 500 mm/Jahr", "Alter der Festung: 9. Jahrhundert v. Chr.", "Ausgrabungen: seit 2006", "Flora: über 200 Pflanzenarten", "Entfernung zu Madaba: 15 km"],
+      hu: ["Magasság: 1100 m", "Éves csapadék: 500 mm", "Erőd építésének kora: Kr. e. 8. század", "Feltárt terület: 2 hektár", "Endemikus növényfajok: 10", "Kilátópont magassága: 1100 m"],
+      ro: ["Altitudine: 1.100 m", "Precipitații: 500 mm/an", "Perioadă arheologică: Epoca Fierului", "Suprafață sit: 2 ha", "Specii de plante: 200", "Distanță până la Madaba: 15 km"],
+      en: ["Elevation: 1,100 m", "Annual rainfall: 500 mm", "Fortress age: Iron Age (9th century BCE)", "Excavation start: 2006", "Plant species: 200+", "Distance from Madaba: 15 km"],
+    },
+  },
   {
     id: "wadi-al-wala-relief-v2",
     type: "valley",
     parent: "JO-MD",
     coords: [35.783, 31.566],
-    name: { de: "Wadi al-Wala", hu: "Vádi al-Wala", ro: "Wadi al-Wala", en: "Wadi al-Wala",
-image: "/poi-images/wadi-al-wala-relief-v2.webp"
-},
+    name: { de: "Wadi al-Wala", hu: "Vádi al-Wala", ro: "Wadi al-Wala", en: "Wadi al-Wala"},
+    image: "/poi-images/wadi-al-wala-relief-v2.webp",
     description: { de: "Eine malerische Schlucht, durch die ein beständiger Bach fließt, gesäumt von dichten Oleanderbüschen.", hu: "Festői szurdok, amelyen egy állandó patak folyik keresztül, sűrű leanderbokrokkal szegélyezve.", ro: "Un defileu pitoresc prin care curge un pârâu permanent, mărginit de tufe dense de oleandru.", en: "A picturesque gorge with a constant stream flowing through it, lined with dense oleander bushes." },
     facts: {
       de: ["Mündet in das Mujib-Tal", "Wala-Staudamm staut das Wasser", "Natürliche Schwimmbecken im Sommer", "Wichtiger Wasserlieferant für Madaba"],
       hu: ["A Múdzsib-völgybe torkollik", "A Wala-gát duzzasztja fel a vizét", "Természetes úszómedencék nyáron", "Madaba fontos vízellátója"],
       ro: ["Se varsă în Valea Mujib", "Barajul Wala stochează apa", "Piscine naturale vara", "Furnizor important de apă pentru Madaba"],
       en: ["Flows into the Mujib Valley", "Wala Dam impounds the water", "Natural swimming pools in summer", "Important water supplier for Madaba"]
-    }, image: "/poi-images/wadi-al-wala-relief-v2.webp"},
+    }, image: "/poi-images/wadi-al-wala-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Wadi al-Wala ist ein Tal in Zentraljordanien, das eine Länge von etwa 35 km hat. Es entwässert das Amman-Plateau und mündet in die Ebene des Toten Meeres. Der Wadi al-Wala Staudamm, erbaut 2001, staut einen See mit einer Kapazität von 12 Millionen Kubikmetern. Das Tal ist landwirtschaftlich genutzt, insbesondere für den Anbau von Weizen und Gerste. Archäologische Funde belegen eine Besiedlung seit der Bronzezeit. Die Region hat mittelalterliche Burgen, darunter die Kreuzfahrerburg Montreal. Die jährlichen Niederschläge betragen 350 mm.",
+      hu: "Wadi al-Wala egy völgy Jordánia középső részén, a Kerak-fennsík közelében. A völgyön épült gát 2001-ben készült el, és egy 12 millió m³ kapacitású tavat hozott létre. A terület fontos mezőgazdasági régió, ahol búzát és árpát termesztenek. A völgyben található a Karak-i erőd, egy keresztes vadászkastély. Az ókorban itt haladt át a királyok útja. A természeti értékek közé tartoznak a vándormadarak és a ritka növények. Az éves csapadék 300-400 mm között ingadozik.",
+      ro: "Wadi al-Wala este un ued din centrul Iordaniei, cu o lungime de 35 km. Barajul Wala, construit în 2001, creează un lac de acumulare de 12 milioane m³. Valea este o zonă agricolă importantă, cultivându-se cereale. Siturile arheologice includ ruine din Epoca Bronzului și o cetate cruciată. Regiunea face parte din rezervația biosferei Mujib. Fauna include lupi și hiene. Clima este semiaridă, cu precipitații medii de 350 mm anual. Turismul se bazează pe drumeții și observarea păsărilor.",
+      en: "Wadi al-Wala is a valley in central Jordan, stretching 35 km from the plateau to the Dead Sea. It hosts the Wala Dam, completed in 2001, forming a reservoir with 12 million m³ capacity. Agriculture is the primary land use, with wheat and barley fields. The valley contains historical sites such as the Crusader castle of Montreal. It is part of the Mujib Biosphere Reserve, rich in biodiversity. Annual rainfall averages 350 mm. The area is popular for hiking and birdwatching, with over 300 bird species recorded.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 35 km", "Dammkapazität: 12 Mio. m³", "Dammbaujahr: 2001", "Niederschlag: 350 mm/Jahr", "Landwirtschaftliche Fläche: 40 km²", "Anzahl der Vogelarten: 300"],
+      hu: ["Völgy hossza: 35 km", "Tókapacitás: 12 millió m³", "Gát építésének éve: 2001", "Éves csapadék: 350 mm", "Madárfajok száma: 300", "Keresztes vár kora: 12. század"],
+      ro: ["Lungime: 35 km", "Capacitate baraj: 12 milioane m³", "An construcție baraj: 2001", "Precipitații: 350 mm", "Suprafață agricolă: 40 km²", "Specii de păsări: 300"],
+      en: ["Length: 35 km", "Dam capacity: 12 million m³", "Dam completion: 2001", "Rainfall: 350 mm/year", "Agricultural area: 40 km²", "Bird species: 300+"],
+    },
+  },
   {
     id: "amman-plateau-relief-v2",
     type: "plateau",
     parent: "JO-AM",
     coords: [35.933, 31.950],
-    name: { de: "Amman-Plateau", hu: "Ammán-fennsík", ro: "Platoul Amman", en: "Amman Plateau",
-image: "/poi-images/amman-plateau-relief-v2.webp"
-},
+    name: { de: "Amman-Plateau", hu: "Ammán-fennsík", ro: "Platoul Amman", en: "Amman Plateau"},
+    image: "/poi-images/amman-plateau-relief-v2.webp",
     description: { de: "Die weitläufige und wellige Hochebene, auf der die stetig wachsende Hauptstadt Jordaniens erbaut wurde.", hu: "A kiterjedt és hullámzó fennsík, amelyre Jordánia folyamatosan növekvő fővárosa épült.", ro: "Platoul vast și vălurit pe care a fost construită capitala în continuă creștere a Iordaniei.", en: "The expansive and rolling plateau upon which Jordan's ever-growing capital was built." },
     facts: {
       de: ["Höhe von ca. 700 bis 1100 Metern", "Ursprünglich auf sieben Hügeln erbaut", "Starker Kontrast zum Jordantal", "Zentrum der politischen Macht Jordaniens"],
       hu: ["Kb. 700-1100 méteres tengerszint feletti magasság", "Eredetileg hét dombra épült", "Erős kontraszt a Jordán-völggyel", "Jordánia politikai hatalmának központja"],
       ro: ["Altitudine de la aprox. 700 până la 1100 de metri", "Construit inițial pe șapte dealuri", "Contrast puternic cu Valea Iordanului", "Centrul puterii politice al Iordaniei"],
       en: ["Elevation of approx. 700 to 1100 meters", "Originally built on seven hills", "Stark contrast to the Jordan Valley", "Center of Jordan's political power"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Amman-Plateau ist eine Hochlandregion in Zentraljordanien, die sich auf einer Höhe von 700 bis 1.000 Metern erstreckt. Es bildet die Wasserscheide zwischen dem Einzugsgebiet des Jordans und der Wüste. Die Hauptstadt Amman liegt auf diesem Plateau. Das Klima ist mediterran mit milden, feuchten Wintern und heißen, trockenen Sommern. Die durchschnittliche jährliche Niederschlagsmenge beträgt 400 mm. Das Plateau ist dicht besiedelt und landwirtschaftlich intensiv genutzt, vor allem für Getreide und Oliven. Es gibt mehrere römische Ruinen, darunter die Zitadelle von Amman.",
+      hu: "Az Amman-fennsík egy 700-1000 méter magasan fekvő fennsík Jordánia közepén. A terület a Földközi-tengeri éghajlati övhöz tartozik, évi 400 mm csapadékkal. Itt található Jordánia fővárosa, Amman, amely a történelem során folyamatosan lakott volt. A fennsíkot mezőgazdaságra használják, elsősorban olíva és gyümölcsfák termesztésére. Régészeti szempontból jelentős a Római Amman, ahol színház és fürdők maradványai találhatók. A fennsík geológiája kréta kori mészkő és márga. A populáció sűrűsége meghaladja a 200 fő/km²-t.",
+      ro: "Podișul Amman este o regiune deluroasă din centrul Iordaniei, cu altitudini între 700 și 1000 m. Clima este mediteraneeană, cu precipitații de 400 mm anual. Solurile fertile susțin agricultură, inclusiv culturi de grâu și măslini. Podișul găzduiește capitala Amman, un oraș cu o istorie de peste 3000 de ani. Situri arheologice notabile includ amfiteatrul roman și cetatea. Regiunea este dens populată, cu peste 4 milioane de locuitori. Resursele de apă subterană sunt esențiale pentru alimentarea orașului. Fauna include vulpi și șacali.",
+      en: "The Amman Plateau is a highland region in central Jordan, ranging from 700 to 1000 meters in elevation. It has a Mediterranean climate with annual precipitation around 400 mm. The plateau is the agricultural heartland of Jordan, producing olives, wheat, and fruits. It is densely populated, hosting the capital city Amman, which has over 4 million inhabitants. Historically, it was part of the Roman province of Arabia Petraea, with well-preserved ruins such as the Roman Theatre. The plateau's geology consists of limestone and marl from the Cretaceous period. Groundwater aquifers provide most of the water supply.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 700-1.000 m", "Niederschlag: 400 mm/Jahr", "Bevölkerung Ammans: über 4 Mio.", "Fläche des Plateaus: ca. 2.000 km²", "Landwirtschaftliche Nutzung: 30 % der Fläche", "Alter der Zitadelle: 3.000 Jahre"],
+      hu: ["Tengerszint feletti magasság: 700-1000 m", "Éves csapadék: 400 mm", "Népesség: 4,2 millió fő", "Terület: 2000 km²", "Mezőgazdasági terület aránya: 30%", "Római színház ülőhelyeinek száma: 6000"],
+      ro: ["Altitudine: 700-1000 m", "Precipitații: 400 mm/an", "Populația Ammanului: 4,3 milioane", "Suprafața podișului: 2000 km²", "Pondere agricolă: 30%", "Amfiteatrul roman: 6000 locuri"],
+      en: ["Elevation: 700-1,000 m", "Annual precipitation: 400 mm", "Population of Amman: 4.3 million", "Plateau area: 2,000 km²", "Agricultural land: 30%", "Roman Theatre capacity: 6,000"],
+    },
   }
 ];

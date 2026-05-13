@@ -10,9 +10,8 @@ export const poiExtraKuwaitEconomicV2: POI[] = [
       de: "Ölraffinerie Mina Al Ahmadi",
       hu: "Mina Al Ahmadi Olajfinomító",
       ro: "Rafinăria Mina Al Ahmadi",
-      en: "Mina Al Ahmadi Refinery",
-image: "/poi-images/mina-al-ahmadi-refinery-economic-v2.webp"
-},
+      en: "Mina Al Ahmadi Refinery"},
+    image: "/poi-images/mina-al-ahmadi-refinery-economic-v2.webp",
     description: {
       de: "Eine der größten und wichtigsten Ölraffinerien in Kuwait, die maßgeblich zur Exportwirtschaft des Landes beiträgt.",
       hu: "Kuvait egyik legnagyobb és legfontosabb olajfinomítója, amely jelentősen hozzájárul az ország exportgazdaságához.",
@@ -68,9 +67,8 @@ image: "/poi-images/mina-al-ahmadi-refinery-economic-v2.webp"
       de: "Ölraffinerie Mina Abdullah",
       hu: "Mina Abdullah Olajfinomító",
       ro: "Rafinăria Mina Abdullah",
-      en: "Mina Abdullah Refinery",
-image: "/poi-images/mina-abdullah-refinery-economic-v2.webp"
-},
+      en: "Mina Abdullah Refinery"},
+    image: "/poi-images/mina-abdullah-refinery-economic-v2.webp",
     description: {
       de: "Eine hochentwickelte Raffinerie an der Küste Kuwaits, die sich auf die Produktion von schwefelarmen Kraftstoffen spezialisiert hat.",
       hu: "Kuvait partjainál található fejlett finomító, amely alacsony kéntartalmú üzemanyagok előállítására specializálódott.",
@@ -126,9 +124,8 @@ image: "/poi-images/mina-abdullah-refinery-economic-v2.webp"
       de: "Hafen von Shuaiba",
       hu: "Shuaiba Kikötő",
       ro: "Portul Shuaiba",
-      en: "Shuaiba Port",
-image: "/poi-images/shuaiba-port-economic-v2.webp"
-},
+      en: "Shuaiba Port"},
+    image: "/poi-images/shuaiba-port-economic-v2.webp",
     description: {
       de: "Einer der wichtigsten Industrie- und Handelshäfen Kuwaits, der hauptsächlich für den Export von Erdölprodukten genutzt wird.",
       hu: "Kuvait egyik legfontosabb ipari és kereskedelmi kikötője, amelyet főként kőolajtermékek exportjára használnak.",
@@ -183,9 +180,8 @@ image: "/poi-images/shuaiba-port-economic-v2.webp"
       de: "Hafen von Shuwaikh",
       hu: "Shuwaikh Kikötő",
       ro: "Portul Shuwaikh",
-      en: "Shuwaikh Port",
-image: "/poi-images/shuwaikh-port-economic-v2.webp"
-},
+      en: "Shuwaikh Port"},
+    image: "/poi-images/shuwaikh-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Handelshafen Kuwaits, der den Großteil der Importe des Landes, einschließlich Konsumgüter und Baumaterialien, abwickelt.",
       hu: "Kuvait fő kereskedelmi kikötője, amely az ország importjának nagy részét, beleértve a fogyasztási cikkeket és építőanyagokat is, kezeli.",
@@ -240,9 +236,8 @@ image: "/poi-images/shuwaikh-port-economic-v2.webp"
       de: "Hafen von Doha",
       hu: "Doha Kikötő",
       ro: "Portul Doha",
-      en: "Doha Port",
-image: "/poi-images/doha-port-kuwait-economic-v2.webp"
-},
+      en: "Doha Port"},
+    image: "/poi-images/doha-port-kuwait-economic-v2.webp",
     description: {
       de: "Ein kleinerer Handelshafen in Kuwait, der traditionell von Dhaus und kleineren Küstenschiffen für den regionalen Handel genutzt wird.",
       hu: "Kisebb kereskedelmi kikötő Kuvaitban, amelyet hagyományosan dhow-k és kisebb part menti hajók használnak a regionális kereskedelemhez.",
@@ -297,9 +292,8 @@ image: "/poi-images/doha-port-kuwait-economic-v2.webp"
       de: "Ölfeld Burgan",
       hu: "Burgan Olajmező",
       ro: "Câmpul Petrolier Burgan",
-      en: "Burgan Field",
-image: "/poi-images/burgan-field-economic-v2.webp"
-},
+      en: "Burgan Field"},
+    image: "/poi-images/burgan-field-economic-v2.webp",
     description: {
       de: "Eines der größten konventionellen Ölfelder der Welt und das wichtigste Zentrum der kuwaitischen Ölförderung.",
       hu: "A világ egyik legnagyobb hagyományos olajmezője és a kuvaiti olajtermelés legfontosabb központja.",
@@ -354,9 +348,8 @@ image: "/poi-images/burgan-field-economic-v2.webp"
       de: "Ölfeld Raudhatain",
       hu: "Raudhatain Olajmező",
       ro: "Câmpul Petrolier Raudhatain",
-      en: "Raudhatain Field",
-image: "/poi-images/raudhatain-field-economic-v2.webp"
-},
+      en: "Raudhatain Field"},
+    image: "/poi-images/raudhatain-field-economic-v2.webp",
     description: {
       de: "Ein riesiges Ölfeld im Norden Kuwaits, das eine bedeutende Rolle in der nationalen Strategie zur Steigerung der Rohölproduktion spielt.",
       hu: "Egy hatalmas olajmező Észak-Kuvaitban, amely jelentős szerepet játszik a kőolajtermelés növelésére irányuló nemzeti stratégiában.",
@@ -411,9 +404,8 @@ image: "/poi-images/raudhatain-field-economic-v2.webp"
       de: "Ölfeld Sabriya",
       hu: "Sabriya Olajmező",
       ro: "Câmpul Petrolier Sabriya",
-      en: "Sabriya Field",
-image: "/poi-images/sabriya-field-economic-v2.webp"
-},
+      en: "Sabriya Field"},
+    image: "/poi-images/sabriya-field-economic-v2.webp",
     description: {
       de: "Ein weiteres wichtiges Ölfeld in der nördlichen Region Kuwaits, das für seine hochwertigen Erdölvorkommen bekannt ist.",
       hu: "Egy másik fontos olajmező Kuvait északi régiójában, amely kiváló minőségű kőolajkészleteiről ismert.",
@@ -468,9 +460,8 @@ image: "/poi-images/sabriya-field-economic-v2.webp"
       de: "Ölfeld Magwa",
       hu: "Magwa Olajmező",
       ro: "Câmpul Petrolier Magwa",
-      en: "Magwa Field",
-image: "/poi-images/magwa-field-economic-v2.webp"
-},
+      en: "Magwa Field"},
+    image: "/poi-images/magwa-field-economic-v2.webp",
     description: {
       de: "Teil des riesigen Greater-Burgan-Komplexes, der zu den produktivsten erdölführenden Formationen des Landes gehört.",
       hu: "A hatalmas Nagy-Burgan komplexum része, amely az ország legtermékenyebb kőolajhordozó képződményei közé tartozik.",
@@ -525,9 +516,8 @@ image: "/poi-images/magwa-field-economic-v2.webp"
       de: "Ölfeld Minagish",
       hu: "Minagish Olajmező",
       ro: "Câmpul Petrolier Minagish",
-      en: "Minagish Field",
-image: "/poi-images/minagish-field-economic-v2.webp"
-},
+      en: "Minagish Field"},
+    image: "/poi-images/minagish-field-economic-v2.webp",
     description: {
       de: "Ein wichtiges Ölfeld im Westen Kuwaits, das für die Produktion von schwererem Rohöl bekannt ist.",
       hu: "Fontos olajmező Nyugat-Kuvaitban, amely nehezebb kőolaj kitermeléséről ismert.",
@@ -582,9 +572,8 @@ image: "/poi-images/minagish-field-economic-v2.webp"
       de: "Freihandelszone Kuwait",
       hu: "Kuvait Szabadkereskedelmi Övezet",
       ro: "Zona Liberă Kuweit",
-      en: "Kuwait Free Trade Zone",
-image: "/poi-images/kuwait-free-trade-zone-economic-v2.webp"
-},
+      en: "Kuwait Free Trade Zone"},
+    image: "/poi-images/kuwait-free-trade-zone-economic-v2.webp",
     description: {
       de: "Ein ausgewiesenes Handelsgebiet in der Nähe des Hafens Shuwaikh, das ausländische Investitionen und regionalen Handel fördern soll.",
       hu: "A Shuwaikh kikötő közelében kijelölt kereskedelmi övezet, amelynek célja a külföldi befektetések és a regionális kereskedelem ösztönzése.",
@@ -640,9 +629,8 @@ image: "/poi-images/kuwait-free-trade-zone-economic-v2.webp"
       de: "Kraftwerk Subiya",
       hu: "Subiya Erőmű",
       ro: "Centrala Electrică Subiya",
-      en: "Subiya Power Plant",
-image: "/poi-images/subiya-power-plant-economic-v2.webp"
-},
+      en: "Subiya Power Plant"},
+    image: "/poi-images/subiya-power-plant-economic-v2.webp",
     description: {
       de: "Eine der wichtigsten Anlagen zur Strom- und Wasserversorgung im Norden Kuwaits, die fortschrittliche thermische Technologien nutzt.",
       hu: "Kuvait északi részének egyik legfontosabb áram- és vízellátó létesítménye, amely fejlett hőtechnológiákat alkalmaz.",
@@ -697,9 +685,8 @@ image: "/poi-images/subiya-power-plant-economic-v2.webp"
       de: "Kraftwerk Az Zour Nord",
       hu: "Az Zour Északi Erőmű",
       ro: "Centrala Electrică Az Zour Nord",
-      en: "Az Zour North Power Plant",
-image: "/poi-images/az-zour-north-power-plant-economic-v2.webp"
-},
+      en: "Az Zour North Power Plant"},
+    image: "/poi-images/az-zour-north-power-plant-economic-v2.webp",
     description: {
       de: "Das erste unabhängige Wasser- und Kraftwerksprojekt (IWPP) in Kuwait, das durch eine öffentlich-private Partnerschaft realisiert wurde.",
       hu: "Kuvait első független víz- és erőműprojektje (IWPP), amely köz- és magánszféra partnerségében valósult meg.",
@@ -755,9 +742,8 @@ image: "/poi-images/az-zour-north-power-plant-economic-v2.webp"
       de: "Kraftwerk Doha West",
       hu: "Doha Nyugati Erőmű",
       ro: "Centrala Electrică Doha Vest",
-      en: "Doha West Power Plant",
-image: "/poi-images/doha-west-power-plant-economic-v2.webp"
-},
+      en: "Doha West Power Plant"},
+    image: "/poi-images/doha-west-power-plant-economic-v2.webp",
     description: {
       de: "Ein gigantischer Komplex zur Energieerzeugung und Meerwasserentsalzung, der die Metropolregion von Kuwait-Stadt versorgt.",
       hu: "Óriási energiatermelő és tengervíz-sótalanító komplexum, amely Kuvaitváros nagyvárosi régióját látja el.",
@@ -813,9 +799,8 @@ image: "/poi-images/doha-west-power-plant-economic-v2.webp"
       de: "Industriegebiet Shuaiba",
       hu: "Shuaiba Ipari Övezet",
       ro: "Zona Industrială Shuaiba",
-      en: "Shuaiba Industrial Area",
-image: "/poi-images/shuaiba-industrial-area-economic-v2.webp"
-},
+      en: "Shuaiba Industrial Area"},
+    image: "/poi-images/shuaiba-industrial-area-economic-v2.webp",
     description: {
       de: "Das Zentrum der Schwerindustrie in Kuwait, in dem sich zahlreiche petrochemische Anlagen, Düngemittelfabriken und Raffinerien konzentrieren.",
       hu: "A kuvaiti nehézipar központja, ahol számos petrolkémiai üzem, műtrágyagyár és finomító összpontosul.",
@@ -871,9 +856,8 @@ image: "/poi-images/shuaiba-industrial-area-economic-v2.webp"
       de: "Industriegebiet Amghara",
       hu: "Amghara Ipari Övezet",
       ro: "Zona Industrială Amghara",
-      en: "Amghara Industrial Area",
-image: "/poi-images/amghara-industrial-area-economic-v2.webp"
-},
+      en: "Amghara Industrial Area"},
+    image: "/poi-images/amghara-industrial-area-economic-v2.webp",
     description: {
       de: "Eine weitläufige Zone für Leicht- und Mittelindustrie, die für Schrottplätze, Baustoffhandel und Recyclingunternehmen bekannt ist.",
       hu: "Egy kiterjedt könnyű- és középipari övezet, amely roncstelepeiről, építőanyag-kereskedelméről és újrahasznosító vállalatairól ismert.",
@@ -928,9 +912,8 @@ image: "/poi-images/amghara-industrial-area-economic-v2.webp"
       de: "Industriegebiet Sabhan",
       hu: "Sabhan Ipari Övezet",
       ro: "Zona Industrială Sabhan",
-      en: "Sabhan Industrial Area",
-image: "/poi-images/sabhan-industrial-area-economic-v2.webp"
-},
+      en: "Sabhan Industrial Area"},
+    image: "/poi-images/sabhan-industrial-area-economic-v2.webp",
     description: {
       de: "Ein stark diversifiziertes Industriegebiet nahe des internationalen Flughafens, das sich auf die Lebensmittelverarbeitung und Konsumgüterproduktion konzentriert.",
       hu: "Erősen diverzifikált ipari övezet a nemzetközi repülőtér közelében, amely az élelmiszer-feldolgozásra és a fogyasztási cikkek gyártására összpontosít.",
@@ -985,9 +968,8 @@ image: "/poi-images/sabhan-industrial-area-economic-v2.webp"
       de: "Equate Petrochemie-Komplex",
       hu: "Equate Petrolkémiai Komplexum",
       ro: "Complexul Petrochimic Equate",
-      en: "Equate Petrochemical Complex",
-image: "/poi-images/equate-petrochemical-complex-economic-v2.webp"
-},
+      en: "Equate Petrochemical Complex"},
+    image: "/poi-images/equate-petrochemical-complex-economic-v2.webp",
     description: {
       de: "Eines der weltweit führenden Unternehmen in der Herstellung von Polyethylen und Ethylenglykol, das in einer massiven Anlage in Kuwait operiert.",
       hu: "A világ egyik vezető polietilén és etilénglikol gyártója, amely egy hatalmas kuvaiti létesítményben működik.",
@@ -1042,9 +1024,8 @@ image: "/poi-images/equate-petrochemical-complex-economic-v2.webp"
       de: "Ölfeld Wafra",
       hu: "Wafra Olajmező",
       ro: "Câmpul Petrolier Wafra",
-      en: "Wafra Oil Field",
-image: "/poi-images/wafra-oil-field-economic-v2.webp"
-},
+      en: "Wafra Oil Field"},
+    image: "/poi-images/wafra-oil-field-economic-v2.webp",
     description: {
       de: "Ein großes Onshore-Ölfeld in der ehemals neutralen Zone, das heute von Kuwait und Saudi-Arabien gemeinsam ausgebeutet wird.",
       hu: "Nagy szárazföldi olajmező az egykori semleges zónában, amelyet ma Kuvait és Szaúd-Arábia közösen termel ki.",
@@ -1099,9 +1080,8 @@ image: "/poi-images/wafra-oil-field-economic-v2.webp"
       de: "Ölraffinerie Al Zour",
       hu: "Al Zour Olajfinomító",
       ro: "Rafinăria Al Zour",
-      en: "Al Zour Refinery",
-image: "/poi-images/al-zour-refinery-economic-v2.webp"
-},
+      en: "Al Zour Refinery"},
+    image: "/poi-images/al-zour-refinery-economic-v2.webp",
     description: {
       de: "Eines der größten und modernsten Raffinerieprojekte der Welt, das darauf ausgelegt ist, sauberen Treibstoff für Kraftwerke zu produzieren.",
       hu: "A világ egyik legnagyobb és legmodernebb finomítói projektje, amelynek célja, hogy tiszta üzemanyagot állítson elő erőművek számára.",

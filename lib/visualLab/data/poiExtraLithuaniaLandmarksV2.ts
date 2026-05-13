@@ -1,48 +1,12 @@
 import { POI } from './poi';
 export const lithuaniaLandmarksV2: POI[] = [
 
-  {
-    id: "lithuania-gediminas-tower-landmarks-v2",
-    parent: "LT",
-    type: "tower",
-    name: { de: "Gediminas-Turm", hu: "Gediminas-torony", ro: "Turnul lui Gediminas", en: "Gediminas' Tower",
-image: "/poi-images/lithuania-gediminas-tower-landmarks-v2.webp"
-},
-    coords: [25.2908, 54.6867],
-    coordinates: { lat: 54.6867, lng: 25.2908 },
-    description: {
-      de: "Der verbliebene Backsteinturm der Oberen Burg von Vilnius steht auf einem Hügel über der Altstadt. Er beherbergt ein historisches Museum und bietet eine weite Aussicht auf die litauische Hauptstadt.",
-      hu: "A vilniusi felső vár egyetlen épen maradt téglastruktúrája a város feletti dombon magasodik. Történelmi múzeumnak ad otthont, és a litván főváros egyik legfontosabb jelképe.",
-      ro: "Turnul de cărămidă rămas din Castelul de Sus din Vilnius domină centrul vechi de pe un deal. Găzduiește un muzeu istoric și oferă o panoramă vastă asupra capitalei lituaniene.",
-      en: "The remaining brick tower of the Upper Castle in Vilnius stands on a hill overlooking the Old Town. It houses a historical museum and serves as a major symbol of the Lithuanian capital.",
-    },
-    facts: {
-      de: ["Baujahr ca. 1409 unter Vytautas", "Höhe von 48 Metern über dem Meeresspiegel", "Teil der UNESCO-Weltkulturerbestätte", "Standort der ersten Nationalflagge 1919"],
-      hu: ["1409 körül épült Vytautas idején", "48 méterrel a tengerszint felett áll", "Az UNESCO Világörökség része", "Itt vonták fel először a nemzeti lobogót 1919-ben"],
-      ro: ["Construit în jurul anului 1409 sub Vytautas", "Înălțime de 48 de metri deasupra nivelului mării", "Parte a patrimoniului mondial UNESCO", "Locul arborării primului steag național în 1919"],
-      en: ["Built around 1409 under Vytautas", "Height of 48 meters above sea level", "Part of the UNESCO World Heritage site", "Site of the first national flag raising in 1919"],
-    },
-imageHint: "Gediminas Tower on the hill in Vilnius at sunset",
-    descriptionAdvanced: {
-      de: "Der Gediminas-Turm ist der einzige erhaltene Backsteinturm der einst mächtigen Oberen Burg von Vilnius und thront auf einem 48 Meter hohen Hügel über der Stadt. Ursprünglich im frühen 15. Jahrhundert unter der Herrschaft von Großfürst Vytautas errichtet, diente diese Festungsanlage als wichtiges Verteidigungsbauwerk gegen feindliche Angriffe. Im Laufe der Jahrhunderte erlitt die Burg erhebliche Schäden durch Kriege, sodass heute nur noch der westliche Turm erhalten ist. Das markante Bauwerk beherbergt ein historisches Museum, das archäologische Funde und Modelle der historischen Burganlage präsentiert. Im Jahr 1919 wurde auf diesem Turm zum ersten Mal die litauische Trikolore gehisst, was ihn zu einem nationalen Freiheitssymbol machte. Besucher können den Gipfel des Hügels entweder zu Fuß über einen gepflasterten Weg oder bequem mit einer Standseilbahn erreichen, um die weitreichende Aussicht auf das Flusstal der Neris und das historische Zentrum zu genießen.",
-      hu: "A Gediminas-torony a vilniusi Felső Vár egyetlen épségben megmaradt téglatornya, amely egy 48 méter magas dombon áll a városközpont felett. Az eredeti erődítményt a 15. század elején, Vytautas nagyfejedelem uralkodása alatt építették, és évszázadokon át védelmi funkciót töltött be. A történelem során a vár nagy része elpusztult, ma a nyugati torony mellett csupán a várfalak néhány romos szakasza látható. A háromszintes épületben jelenleg egy múzeum működik, ahol a látogatók a vilniusi várak történetét bemutató maketteket és régészeti leleteket tekinthetnek meg. 1919-ben ezen az építményen vonták fel először a litván nemzeti lobogót, így a függetlenség egyik legfontosabb szimbólumává vált. A dombtetőre vezető utat gyalogosan vagy egy 2003-ban átadott siklóval is meg lehet tenni, ahonnan teljes panoráma nyílik az óvárosra.",
-      ro: "Turnul lui Gediminas este singura structură de cărămidă rămasă intactă din fostul Castel de Sus din Vilnius, dominând orașul de pe un deal înalt de 48 de metri. Construită inițial la începutul secolului al XV-lea sub domnia Marelui Duce Vytautas, fortăreața a servit ca punct strategic de apărare. De-a lungul timpului, complexul a suferit distrugeri majore în timpul războaielor, supraviețuind doar acest turn vestic și câteva ruine ale zidurilor. În prezent, clădirea cu trei etaje găzduiește o expoziție a Muzeului Național, prezentând descoperiri arheologice și machete ale castelului istoric. În anul 1919, pe acest turn a fost arborat pentru prima dată tricolorul lituanian, transformându-l într-un simbol puternic al independenței naționale. Vizitatorii pot urca pe deal pe o cărare pietruită sau folosind un funicular instalat în 2003, pentru a admira panorama spectaculoasă a râului Neris și a orașului vechi.",
-      en: "Gediminas' Tower is the sole surviving brick tower of the former Upper Castle in Vilnius, standing on a 48-meter-high hill overlooking the historical center. Originally constructed in the early 15th century during the reign of Grand Duke Vytautas, the fortress played a crucial role in defending the city. Over the centuries, much of the castle was destroyed by wars, leaving only the western tower and fragments of the defensive walls intact. Today, the three-story structure functions as a branch of the National Museum, displaying archaeological artifacts and detailed models of the medieval castle complex. In 1919, the Lithuanian national flag was raised on this tower for the first time, cementing its status as an important symbol of independence. Visitors can reach the summit via a cobblestone path or a funicular installed in 2003 to enjoy sweeping views of the Neris River valley."
-    },
-    factsAdvanced: {
-      de: ["Built around 1409 under the rule of Grand Duke Vytautas", "Located on a prominent hill 48 meters above sea level", "The remaining western tower stands three stories tall", "Houses an exhibition branch of the National Museum of Lithuania", "First location where the national tricolor flag was raised in 1919", "Accessible via a modern funicular system installed in 2003", "Offers panoramic views of the UNESCO-listed Old Town"],
-      hu: [],
-      ro: [],
-      en: []
-    }
-    , image: "/poi-images/lithuania-gediminas-tower-landmarks-v2.webp",
-},  {
+{
     id: "lithuania-vilnius-cathedral-landmarks-v2",
     parent: "LT",
     type: "cathedral",
-    name: { de: "Kathedrale von Vilnius", hu: "Vilniusi székesegyház", ro: "Catedrala din Vilnius", en: "Vilnius Cathedral",
-image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Kathedrale von Vilnius", hu: "Vilniusi székesegyház", ro: "Catedrala din Vilnius", en: "Vilnius Cathedral"},
+    image: "/poi-images/lithuania-vilnius-cathedral-landmarks-v2.webp",
     coords: [25.2877, 54.6859],
     coordinates: { lat: 54.6859, lng: 25.2877 },
     description: {
@@ -75,9 +39,8 @@ imageHint: "Vilnius Cathedral and its bell tower on Cathedral Square",
     id: "lithuania-st-annes-church-landmarks-v2",
     parent: "LT",
     type: "church",
-    name: { de: "St.-Anna-Kirche", hu: "Szent Anna-templom", ro: "Biserica Sfânta Ana", en: "Church of St. Anne",
-image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp"
-},
+    name: { de: "St.-Anna-Kirche", hu: "Szent Anna-templom", ro: "Biserica Sfânta Ana", en: "Church of St. Anne"},
+    image: "/poi-images/lithuania-st-annes-church-landmarks-v2.webp",
     coords: [25.2934, 54.683],
     coordinates: { lat: 54.683, lng: 25.2934 },
     description: {
@@ -110,9 +73,8 @@ imageHint: "St. Anne's Church Vilnius red brick facade",
     id: "lithuania-gates-of-dawn-landmarks-v2",
     parent: "LT",
     type: "landmark",
-    name: { de: "Tor der Morgenröte", hu: "Hajnal-kapu", ro: "Poarta Zorilor", en: "Gates of Dawn",
-image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp"
-},
+    name: { de: "Tor der Morgenröte", hu: "Hajnal-kapu", ro: "Poarta Zorilor", en: "Gates of Dawn"},
+    image: "/poi-images/lithuania-gates-of-dawn-landmarks-v2.webp",
     coords: [25.2894, 54.6743],
     coordinates: { lat: 54.6743, lng: 25.2894 },
     description: {
@@ -145,9 +107,8 @@ imageHint: "Gates of Dawn Vilnius exterior with chapel window",
     id: "lithuania-kaunas-castle-landmarks-v2",
     parent: "LT",
     type: "castle",
-    name: { de: "Burg Kaunas", hu: "Kaunasi vár", ro: "Castelul Kaunas", en: "Kaunas Castle",
-image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Kaunas", hu: "Kaunasi vár", ro: "Castelul Kaunas", en: "Kaunas Castle"},
+    image: "/poi-images/lithuania-kaunas-castle-landmarks-v2.webp",
     coords: [23.885, 54.8989],
     coordinates: { lat: 54.8989, lng: 23.885 },
     description: {
@@ -180,9 +141,8 @@ imageHint: "Kaunas Castle round tower and ruins",
     id: "lithuania-hill-of-witches-landmarks-v2",
     parent: "LT",
     type: "landmark",
-    name: { de: "Hexenberg", hu: "Boszorkány-domb", ro: "Dealul Vrăjitoarelor", en: "Hill of Witches",
-image: "/poi-images/lithuania-hill-of-witches-landmarks-v2.webp"
-},
+    name: { de: "Hexenberg", hu: "Boszorkány-domb", ro: "Dealul Vrăjitoarelor", en: "Hill of Witches"},
+    image: "/poi-images/lithuania-hill-of-witches-landmarks-v2.webp",
     coords: [21.1111, 55.5411],
     coordinates: { lat: 55.5411, lng: 21.1111 },
     description: {
@@ -215,9 +175,8 @@ image: "/poi-images/lithuania-hill-of-witches-landmarks-v2.webp"
     id: "lithuania-europos-parkas-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Europa-Park", hu: "Európa Park", ro: "Parcul Europei", en: "Europos Parkas",
-image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp"
-},
+    name: { de: "Europa-Park", hu: "Európa Park", ro: "Parcul Europei", en: "Europos Parkas"},
+    image: "/poi-images/lithuania-europos-parkas-landmarks-v2.webp",
     coords: [25.3514, 54.8319],
     coordinates: { lat: 54.8319, lng: 25.3514 },
     description: {
@@ -250,9 +209,8 @@ imageHint: "Europos Parkas outdoor sculptures in Lithuania",
     id: "lithuania-grutas-park-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Grūtas-Park", hu: "Grūtas Park", ro: "Parcul Grūtas", en: "Grūtas Park",
-image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp"
-},
+    name: { de: "Grūtas-Park", hu: "Grūtas Park", ro: "Parcul Grūtas", en: "Grūtas Park"},
+    image: "/poi-images/lithuania-grutas-park-landmarks-v2.webp",
     coords: [24.0792, 54.0219],
     coordinates: { lat: 54.0219, lng: 24.0792 },
     description: {
@@ -285,9 +243,8 @@ imageHint: "Grutas Park Soviet statues and monuments",
     id: "lithuania-open-air-museum-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Litauisches Freilichtmuseum", hu: "Litván Szabadtéri Néprajzi Múzeum", ro: "Muzeul Satului Lituanian", en: "Open-Air Museum of Lithuania",
-image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp"
-},
+    name: { de: "Litauisches Freilichtmuseum", hu: "Litván Szabadtéri Néprajzi Múzeum", ro: "Muzeul Satului Lituanian", en: "Open-Air Museum of Lithuania"},
+    image: "/poi-images/lithuania-open-air-museum-landmarks-v2.webp",
     coords: [24.2008, 54.8661],
     coordinates: { lat: 54.8661, lng: 24.2008 },
     description: {
@@ -320,9 +277,8 @@ imageHint: "Rumsiskes Open Air Museum traditional wooden houses",
     id: "lithuania-vilnius-tv-tower-landmarks-v2",
     parent: "LT",
     type: "tower",
-    name: { de: "Fernsehturm Vilnius", hu: "Vilniusi tévétorony", ro: "Turnul TV din Vilnius", en: "Vilnius TV Tower",
-image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp"
-},
+    name: { de: "Fernsehturm Vilnius", hu: "Vilniusi tévétorony", ro: "Turnul TV din Vilnius", en: "Vilnius TV Tower"},
+    image: "/poi-images/lithuania-vilnius-tv-tower-landmarks-v2.webp",
     coords: [25.2127, 54.6874],
     coordinates: { lat: 54.6874, lng: 25.2127 },
     description: {
@@ -355,9 +311,8 @@ imageHint: "Vilnius TV Tower skyscraper view",
     id: "lithuania-st-peter-paul-church-landmarks-v2",
     parent: "LT",
     type: "church",
-    name: { de: "St.-Peter-und-Paul-Kirche", hu: "Szent Péter és Pál-templom", ro: "Biserica Sfântul Petru și Pavel", en: "Church of St. Peter and St. Paul",
-image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp"
-},
+    name: { de: "St.-Peter-und-Paul-Kirche", hu: "Szent Péter és Pál-templom", ro: "Biserica Sfântul Petru și Pavel", en: "Church of St. Peter and St. Paul"},
+    image: "/poi-images/lithuania-st-peter-paul-church-landmarks-v2.webp",
     coords: [25.3057, 54.694],
     coordinates: { lat: 54.694, lng: 25.3057 },
     description: {
@@ -390,9 +345,8 @@ imageHint: "St. Peter and St. Paul's Church Vilnius interior stucco",
     id: "lithuania-kaunas-town-hall-landmarks-v2",
     parent: "LT",
     type: "landmark",
-    name: { de: "Rathaus von Kaunas", hu: "Kaunasi városháza", ro: "Primăria din Kaunas", en: "Kaunas Town Hall",
-image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Kaunas", hu: "Kaunasi városháza", ro: "Primăria din Kaunas", en: "Kaunas Town Hall"},
+    image: "/poi-images/lithuania-kaunas-town-hall-landmarks-v2.webp",
     coords: [23.886, 54.897],
     coordinates: { lat: 54.897, lng: 23.886 },
     description: {
@@ -425,9 +379,8 @@ imageHint: "Kaunas Town Hall 'White Swan' building",
     id: "lithuania-kaunas-cathedral-landmarks-v2",
     parent: "LT",
     type: "cathedral",
-    name: { de: "Kathedrale von Kaunas", hu: "Kaunasi székesegyház", ro: "Catedrala din Kaunas", en: "Kaunas Cathedral Basilica",
-image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Kathedrale von Kaunas", hu: "Kaunasi székesegyház", ro: "Catedrala din Kaunas", en: "Kaunas Cathedral Basilica"},
+    image: "/poi-images/lithuania-kaunas-cathedral-landmarks-v2.webp",
     coords: [23.8885, 54.897],
     coordinates: { lat: 54.897, lng: 23.8885 },
     description: {
@@ -460,9 +413,8 @@ imageHint: "Kaunas Cathedral Basilica brick exterior",
     id: "lithuania-christ-resurrection-church-landmarks-v2",
     parent: "LT",
     type: "church",
-    name: { de: "Auferstehungskirche", hu: "Feltámadás templom", ro: "Biserica Învierea lui Hristos", en: "Christ's Resurrection Church",
-image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp"
-},
+    name: { de: "Auferstehungskirche", hu: "Feltámadás templom", ro: "Biserica Învierea lui Hristos", en: "Christ's Resurrection Church"},
+    image: "/poi-images/lithuania-christ-resurrection-church-landmarks-v2.webp",
     coords: [23.9178, 54.9025],
     coordinates: { lat: 54.9025, lng: 23.9178 },
     description: {
@@ -495,9 +447,8 @@ imageHint: "Christ's Resurrection Church Kaunas white modern architecture",
     id: "lithuania-museum-ethnocosmology-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Museum für Etnokosmologie", hu: "Etnokozmológiai Múzeum", ro: "Muzeul de Etnocosmologie", en: "Museum of Ethnocosmology",
-image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp"
-},
+    name: { de: "Museum für Etnokosmologie", hu: "Etnokozmológiai Múzeum", ro: "Muzeul de Etnocosmologie", en: "Museum of Ethnocosmology"},
+    image: "/poi-images/lithuania-museum-ethnocosmology-landmarks-v2.webp",
     coords: [25.555, 55.315],
     coordinates: { lat: 55.315, lng: 25.555 },
     description: {
@@ -530,9 +481,8 @@ imageHint: "Lithuanian Museum of Ethnocosmology futuristic building",
     id: "lithuania-treetop-walking-path-landmarks-v2",
     parent: "LT",
     type: "landmark",
-    name: { de: "Baumkronenpfad Anykščiai", hu: "Anykščiai lombkorona-sétány", ro: "Traseul prin coronamentul arborilor", en: "Anykščiai Treetop Walking Path",
-image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp"
-},
+    name: { de: "Baumkronenpfad Anykščiai", hu: "Anykščiai lombkorona-sétány", ro: "Traseul prin coronamentul arborilor", en: "Anykščiai Treetop Walking Path"},
+    image: "/poi-images/lithuania-treetop-walking-path-landmarks-v2.webp",
     coords: [25.06, 55.4853],
     coordinates: { lat: 55.4853, lng: 25.06 },
     description: {
@@ -565,9 +515,8 @@ imageHint: "Anyksciai treetop walking path forest view",
     id: "lithuania-uzupis-angel-landmarks-v2",
     parent: "LT",
     type: "monument",
-    name: { de: "Engel von Užupis", hu: "Užupis angyala", ro: "Îngerul din Užupis", en: "Užupis Angel",
-image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp"
-},
+    name: { de: "Engel von Užupis", hu: "Užupis angyala", ro: "Îngerul din Užupis", en: "Užupis Angel"},
+    image: "/poi-images/lithuania-uzupis-angel-landmarks-v2.webp",
     coords: [25.2949, 54.6806],
     coordinates: { lat: 54.6806, lng: 25.2949 },
     description: {
@@ -600,9 +549,8 @@ imageHint: "Uzupis Angel statue on column in Vilnius",
     id: "lithuania-vilnius-bastion-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Bastion der Stadtmauer", hu: "Várfal-bástya", ro: "Bastionul zidului de apărare", en: "Bastion of the Vilnius Defensive Wall",
-image: "/poi-images/lithuania-vilnius-bastion-landmarks-v2.webp"
-},
+    name: { de: "Bastion der Stadtmauer", hu: "Várfal-bástya", ro: "Bastionul zidului de apărare", en: "Bastion of the Vilnius Defensive Wall"},
+    image: "/poi-images/lithuania-vilnius-bastion-landmarks-v2.webp",
     coords: [25.2917, 54.6775],
     coordinates: { lat: 54.6775, lng: 25.2917 },
     description: {
@@ -636,9 +584,8 @@ imageHint: "Bastion of the Vilnius Defensive Wall brick structure",
     id: "lithuania-vilnius-town-hall-landmarks-v2",
     parent: "LT",
     type: "landmark",
-    name: { de: "Rathaus von Vilnius", hu: "Vilniusi városháza", ro: "Primăria din Vilnius", en: "Vilnius Town Hall",
-image: "/poi-images/lithuania-vilnius-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Vilnius", hu: "Vilniusi városháza", ro: "Primăria din Vilnius", en: "Vilnius Town Hall"},
+    image: "/poi-images/lithuania-vilnius-town-hall-landmarks-v2.webp",
     coordinates: { lat: 54.6781, lng: 25.2872 },
     description: {
       de: "Ein klassizistisches Wahrzeichen im Zentrum der Altstadt, entworfen von Laurynas Gucevičius. Heute dient es als Ort für Repräsentationszwecke und Kunstausstellungen.",
@@ -670,9 +617,8 @@ image: "/poi-images/lithuania-vilnius-town-hall-landmarks-v2.webp"
     id: "lithuania-three-crosses-landmarks-v2",
     parent: "LT",
     type: "monument",
-    name: { de: "Drei Kreuze", hu: "Három Kereszt", ro: "Trei Cruci", en: "Three Crosses",
-image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp"
-},
+    name: { de: "Drei Kreuze", hu: "Három Kereszt", ro: "Trei Cruci", en: "Three Crosses"},
+    image: "/poi-images/lithuania-three-crosses-landmarks-v2.webp",
     coordinates: { lat: 54.6868, lng: 25.2981 },
     description: {
       de: "Ein markantes Denkmal auf dem Hügel der Drei Kreuze in Vilnius. Die heutige Betonstruktur wurde 1989 errichtet und erinnert an die im sowjetischen Auftrag zerstörten Kreuze.",
@@ -704,9 +650,8 @@ imageHint: "Three Crosses monument Vilnius on a hill at sunset",
     id: "lithuania-bernardine-church-landmarks-v2",
     parent: "LT",
     type: "church",
-    name: { de: "Bernhardinerkirche", hu: "Bernát-rendi templom", ro: "Biserica Bernardinilor", en: "Bernardine Church",
-image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp"
-},
+    name: { de: "Bernhardinerkirche", hu: "Bernát-rendi templom", ro: "Biserica Bernardinilor", en: "Bernardine Church"},
+    image: "/poi-images/lithuania-bernardine-church-landmarks-v2.webp",
     coordinates: { lat: 54.6833, lng: 25.2925 },
     description: {
       de: "Ein bedeutendes Beispiel litauischer Backsteingotik aus dem späten 15. Jahrhundert. Zusammen mit der St.-Annen-Kirche bildet sie ein einzigartiges architektonisches Ensemble.",
@@ -738,9 +683,8 @@ imageHint: "Bernardine Church Vilnius red brick gothic exterior",
     id: "lithuania-mo-museum-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "MO Museum", hu: "MO Múzeum", ro: "Muzeul MO", en: "MO Museum",
-image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp"
-},
+    name: { de: "MO Museum", hu: "MO Múzeum", ro: "Muzeul MO", en: "MO Museum"},
+    image: "/poi-images/lithuania-mo-museum-landmarks-v2.webp",
     coordinates: { lat: 54.6793, lng: 25.2778 },
     description: {
       de: "Ein Museum für moderne Kunst in Vilnius, entworfen von Daniel Libeskind. Es beherbergt eine umfangreiche Sammlung litauischer Kunst ab den 1950er Jahren bis heute.",
@@ -772,9 +716,8 @@ imageHint: "MO Museum Vilnius modern architecture by Libeskind",
     id: "lithuania-national-museum-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Litauisches Nationalmuseum", hu: "Litván Nemzeti Múzeum", ro: "Muzeul Național al Lituaniei", en: "National Museum of Lithuania",
-image: "/poi-images/lithuania-national-museum-landmarks-v2.webp"
-},
+    name: { de: "Litauisches Nationalmuseum", hu: "Litván Nemzeti Múzeum", ro: "Muzeul Național al Lituaniei", en: "National Museum of Lithuania"},
+    image: "/poi-images/lithuania-national-museum-landmarks-v2.webp",
     coordinates: { lat: 54.6879, lng: 25.2891 },
     description: {
       de: "Im Gebäude des Neuen Arsenals nahe dem Kathedralenplatz untergebracht. Es zeigt archäologische Funde und historische Artefakte zur kulturellen Entwicklung Litauens.",
@@ -806,9 +749,8 @@ imageHint: "National Museum of Lithuania New Arsenal building Vilnius",
     id: "lithuania-ciurlionis-museum-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Čiurlionis-Kunstmuseum", hu: "Čiurlionis Nemzeti Művészeti Múzeum", ro: "Muzeul de Artă Čiurlionis", en: "M. K. Čiurlionis National Museum of Art",
-image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp"
-},
+    name: { de: "Čiurlionis-Kunstmuseum", hu: "Čiurlionis Nemzeti Művészeti Múzeum", ro: "Muzeul de Artă Čiurlionis", en: "M. K. Čiurlionis National Museum of Art"},
+    image: "/poi-images/lithuania-ciurlionis-museum-landmarks-v2.webp",
     coordinates: { lat: 54.9003, lng: 23.9114 },
     description: {
       de: "Ein Kunstmuseum in Kaunas, das dem Werk des berühmten Malers und Komponisten Mikalojus Konstantinas Čiurlionis gewidmet ist. Es wurde bereits 1921 gegründet.",
@@ -840,9 +782,8 @@ imageHint: "Ciurlionis Art Museum Kaunas exterior building",
     id: "lithuania-raudondvaris-castle-landmarks-v2",
     parent: "LT",
     type: "castle",
-    name: { de: "Schloss Raudondvaris", hu: "Raudondvaris kastély", ro: "Castelul Raudondvaris", en: "Raudondvaris Castle",
-image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Raudondvaris", hu: "Raudondvaris kastély", ro: "Castelul Raudondvaris", en: "Raudondvaris Castle"},
+    image: "/poi-images/lithuania-raudondvaris-castle-landmarks-v2.webp",
     coordinates: { lat: 54.9431, lng: 23.7831 },
     description: {
       de: "Ein Renaissanceschloss nahe der Mündung des Nevėžis in die Memel. Es ist bekannt für sein herrschaftliches Guthaus, eine Orangerie und einen weitläufigen Park.",
@@ -874,9 +815,8 @@ imageHint: "Raudondvaris Castle manor and red brick tower",
     id: "lithuania-amber-museum-palanga-landmarks-v2",
     parent: "LT",
     type: "museum",
-    name: { de: "Bernsteinmuseum Palanga", hu: "Palangai Borostyánmúzeum", ro: "Muzeul Chihlimbarului din Palanga", en: "Palanga Amber Museum",
-image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
-},
+    name: { de: "Bernsteinmuseum Palanga", hu: "Palangai Borostyánmúzeum", ro: "Muzeul Chihlimbarului din Palanga", en: "Palanga Amber Museum"},
+    image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp",
     coordinates: { lat: 55.9073, lng: 21.0583 },
     description: {
       de: "Das Museum befindet sich im Schloss der Grafen Tiškevičius im Ferienort Palanga. Es zeigt eine der weltweit größten Sammlungen von Bernstein mit Inklusionen.",
@@ -924,6 +864,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Built in 1903", "Moorish style", "Only active synagogue", "Architect Dovid Rosenhaus"],
     },
     imageHint: "Vilnius Choral Synagogue facade with blue dome",
+    descriptionAdvanced: {
+      de: "Als einzige Synagoge in Vilnius überstand dieser Sakralbau den Zweiten Weltkrieg. Das 1903 im maurisch-romanischen Stil errichtete Gebäude dient heute als jüdisches Zentrum.",
+      hu: "A vilniusi kórus-zsinagóga az egyetlen épen maradt zsidó imaház a városban a holokauszt után. Az 1903-ban emelt épület mór stílusjegyei egyedülállóak a litván fővárosban.",
+      ro: "Singura sinagogă din Vilnius care a supraviețuit celui de-al Doilea Război Mondial impresionează prin stilul său maur. Construită în 1903, este inima spirituală a comunității.",
+      en: "Built in 1903 by architect Dāvids Rozentāls, this is the only synagogue in Vilnius to survive the Holocaust. Its architecture blends Romanesque and Moorish elements uniquely.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1903", "Stil: Maurisch-Romanisch", "Architekt: Dāvids Rozentāls", "Einzige aktive Synagoge von 100", "Adresse: Pylimo Straße 39", "Status: Zentrum der jüdischen Gemeinde"],
+      hu: ["Átadva: 1903", "Stílus: Mór-román", "Zsidó lakosság 1941 előtt: 100 000", "Belső tér: Kórusgaléria az emeleten", "Cím: Pylimo g. 39", "Építész: Dāvids Rozentāls"],
+      ro: ["An construcție: 1903", "Stil: Neomaur", "Arhitect: Dāvids Rozentāls", "Supraviețuire: Singura din peste 100", "Locație: Orașul Vechi Vilnius", "Funcție: Singura sinagogă activă"],
+      en: ["Inaugurated: September 1903", "Architect: Dāvids Rozentāls", "Style: Moorish-Romanesque", "Survivor: Only synagogue left in Vilnius", "Location: Pylimo Street", "Community: Litvak religious center"],
+    },
   },
   {
     id: "lithuania-sugihara-house-landmarks-v2",
@@ -944,6 +896,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Former consulate", "Chiune Sugihara Museum", "Located in Kaunas", "6000 visas issued"],
     },
     imageHint: "Sugihara House Kaunas memorial plaque and flags",
+    descriptionAdvanced: {
+      de: "Das einstige japanische Konsulat in Kaunas erinnert an Chiune Sugihara. Hier rettete der Diplomat tausende Leben durch die Ausstellung von Transitvisa während des Krieges.",
+      hu: "A kaunasi Sugihara-ház a japán diplomata emlékhelye, aki 1940-ben több ezer zsidó menekültnek adott ki életmentő vízumot, szembeszállva saját kormánya utasításaival.",
+      ro: "Fostul consulat japonez din Kaunas este locul unde Chiune Sugihara a emis mii de vize pentru viață. Muzeul documentează curajul diplomatului care a salvat mii de refugiați.",
+      en: "Located in Kaunas, this museum occupies the former Japanese consulate. It honors Chiune Sugihara, who issued transit visas to thousands of Jewish refugees in 1940.",
+    },
+    factsAdvanced: {
+      de: ["Ort: Kaunas", "Diplomat: Chiune Sugihara", "Visa ausgestellt: ca. 6.000", "Zeitraum: Sommer 1940", "Status: Museum seit 2001", "Titel: Gerechter unter den Völkern"],
+      hu: ["Helyszín: Kaunas", "Épület: Volt japán konzulátus", "Megmentett életek száma: kb. 6000", "Dátum: 1940. július-augusztus", "Múzeum alapítás: 1999", "Cím: Vaižganto g. 30"],
+      ro: ["Oraș: Kaunas", "Subiect: Chiune Sugihara", "Vize emise: Peste 2.000 oficiale", "Perioadă: Iulie-august 1940", "Recunoaștere: Yad Vashem 1984", "Clădire: Stil modernist local"],
+      en: ["Location: Kaunas", "Visas issued: approx. 6,000", "Date: July-August 1940", "Building style: 1930s residence", "Museum opened: 2001", "Sugihara title: Righteous Among Nations"],
+    },
   },
   {
     id: "lithuania-st-casimirs-church-landmarks-v2",
@@ -964,6 +928,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Baroque architecture", "Crown-shaped dome", "Oldest Jesuit church", "Founded in 1604"],
     },
     imageHint: "St Casimirs Church Vilnius facade and crown dome",
+    descriptionAdvanced: {
+      de: "Die 1604 geweihte Jesuitenkirche ist dem Schutzpatron Litauens gewidmet. Markant ist ihre Kuppel in Form einer Herzogskrone, die das Stadtbild der Altstadt prägt.",
+      hu: "A Szent Kázmér-templom Vilnius egyik legrégebbi barokk épülete, amelyet a jezsuiták emeltek a 17. század elején. Kupoláját a litván nagyhercegi korona formájára alakították.",
+      ro: "Această biserică iezuită barocă, construită între 1604 și 1618, este dedicată Sfântului Cazimir. Cupola sa în formă de coroană este un simbol al suveranității lituaniene.",
+      en: "Dedicated to the patron saint of Lithuania, this Jesuit church was completed in 1618. It is famous for its unique dome topped with a black crown representing the Grand Duchy.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1604-1618", "Stil: Frühbarock", "Kuppelhöhe: 40 Meter", "Orden: Jesuiten", "Wiederweihe: 1991", "Besonderheit: Kronenförmige Kuppel"],
+      hu: ["Építés: 1604-1618", "Stílus: Korai barokk", "Védőszent: Szent Kázmér", "Kupola dísze: Nagyhercegi korona", "Alapító: Lew Sapieha", "Magasság: 40 méter"],
+      ro: ["Perioadă construcție: 1604-1618", "Înălțime cupolă: 40 m", "Stil: Baroc iezuit", "Simbol: Coroana neagră regală", "Utilizare URSS: Muzeul Ateismului", "Restaurare completă: 1991"],
+      en: ["Construction: 1604–1618", "Architect: Jan Frankiewicz", "Style: Early Baroque", "Dome height: 40 meters", "Dome feature: Black Royal Crown", "Order: Jesuit"],
+    },
   },
   {
     id: "lithuania-war-museum-kaunas-landmarks-v2",
@@ -984,6 +960,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Founded in 1921", "Art Deco architecture", "Military history", "Located in Kaunas"],
     },
     imageHint: "Vytautas the Great War Museum Kaunas Art Deco facade",
+    descriptionAdvanced: {
+      de: "Das Museum wurde 1921 gegründet und beleuchtet die Militärgeschichte Litauens. Der markante modernistische Bau von 1936 beherbergt bedeutende Exponate zur Unabhängigkeit.",
+      hu: "Az 1921-ben alapított múzeum Litvánia hadtörténetét mutatja be a középkortól napjainkig. A jelenlegi modernista épület 1936-ban készült el a Vytautas-évfordulóra.",
+      ro: "Fondat în 1921, muzeul prezintă istoria militară a Lituaniei. Clădirea modernistă actuală a fost inaugurată în 1936 și găzduiește artefacte despre independența țării.",
+      en: "Founded in 1921, this museum chronicles Lithuania's military history. The current 1936 modernist building houses significant artifacts from the wars of independence.",
+    },
+    factsAdvanced: {
+      de: ["Gründung am 16. Februar 1921", "Heutiges Gebäude im Jahr 1936 fertiggestellt", "Glockenturm mit 35 Bronzeglocken", "Denkmal der Ewigen Flamme im Hof"],
+      hu: ["1921. február 16-án alapították", "A mai épület 1936-ban készült el", "Harangtorony 35 bronzharanggal", "Az udvaron az Ismeretlen Katona sírja"],
+      ro: ["Fondat pe 16 februarie 1921", "Clădire actuală finalizată în 1936", "Turn cu carillon de 35 de clopote", "Monumentul Flăcării Veșnice în curte"],
+      en: ["Founded on February 16, 1921", "Current building completed in 1936", "Bell tower features 35 bronze bells", "Eternal Flame memorial in the courtyard"],
+    },
   },
   {
     id: "lithuania-opera-ballet-theatre-landmarks-v2",
@@ -1004,6 +992,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Founded in 1920", "Modernist style", "Located in Vilnius", "1142 seats"],
     },
     imageHint: "Lithuanian National Opera and Ballet Theatre Vilnius architecture glass facade",
+    descriptionAdvanced: {
+      de: "Das 1974 fertiggestellte Theater besticht durch die modernistische Architektur von Elena Bučiūtė. Die riesigen Glasfassaden und das Kupferdach dominieren das Neris-Ufer.",
+      hu: "A litván nemzeti opera és balett épülete 1974-ben készült el modernista stílusban. A monumentális üvegfelületek és a réztető a modern litván építészet példái.",
+      ro: "Finalizat în 1974 pe malul râului Neris, teatrul este o capodoperă a modernismului. Sala principală are o acustică remarcabilă și găzduiește cele mai importante spectacole.",
+      en: "Designed by architect Elena Nijolė Bučiūtė and opened in 1974, this modernist venue features a vast glass facade and copper roof. It is the largest cultural space in Vilnius.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1974", "Architektin: Elena Bučiūtė", "Sitzplätze: 1.142", "Dachmaterial: Kupfer", "Fassade: Glas und Beton", "Lage: Malul râului Neris"],
+      hu: ["Átadás éve: 1974", "Építész: Elena Nijolė Bučiūtė", "Befogadóképesség: 1142 fő", "Stílus: Szovjet modernizmus", "Csillár: 4000 kristályelem", "Helyszín: Vilnius, Neris folyó partja"],
+      ro: ["Inaugurare: 1974", "Arhitect: Elena Bučiūtė", "Capacitate: 1.142 locuri", "Material: Cupru și sticlă", "Locație: Malul drept al Nerisului", "Tip: Operă și Balet"],
+      en: ["Completed: 1974", "Architect: Elena Nijolė Bučiūtė", "Seating: 1,142 chairs", "Total area: 21,500 m2", "Chandeliers: 139 units", "Style: Late Modernism"],
+    },
   },
   {
     id: "lithuania-zappa-memorial-landmarks-v2",
@@ -1024,6 +1024,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Erected in 1995", "Bronze bust", "Symbol of freedom", "Located in Vilnius"],
     },
     imageHint: "Frank Zappa bust memorial Vilnius bronze on pillar",
+    descriptionAdvanced: {
+      de: "Dieses ungewöhnliche Denkmal wurde 1995 als Symbol der neu gewonnenen Freiheit errichtet. Der Musiker Frank Zappa besuchte Litauen zwar nie, wurde aber zur Ikone der Avantgarde.",
+      hu: "A mellszobrot 1995-ben állították a szabadság és a nonkonformizmus jelképeként. Bár Zappa sosem járt az országban, a vilniusi ifjúság körében kultikus státuszt élvezett.",
+      ro: "Monumentul a fost ridicat în 1995 ca simbol al libertății de expresie. Deși Frank Zappa nu a vizitat niciodată țara, bustul său reprezintă spiritul avangardist post-sovietic.",
+      en: "Erected in 1995, this bust serves as a symbol of newfound freedom. Frank Zappa never visited Lithuania, but became an icon of non-conformity during the post-Soviet era.",
+    },
+    factsAdvanced: {
+      de: ["Enthüllung im Jahr 1995", "Bildhauer: Konstantinas Bogdanas", "Standort in der Kalinausko-Straße", "Ein Abguss steht seit 2010 in Baltimore"],
+      hu: ["1995-ben avatták fel", "Szobrász: Konstantinas Bogdanas", "A Kalinausko utca sarkán található", "Másolata 2010 óta Baltimore-ban áll"],
+      ro: ["Inaugurat în anul 1995", "Sculptor: Konstantinas Bogdanas", "Locație pe strada Kalinausko", "O copie a fost oferită orașului Baltimore"],
+      en: ["Unveiled in 1995", "Sculptor: Konstantinas Bogdanas", "Located on Kalinausko Street", "A second casting exists in Baltimore"],
+    },
   },
   {
     id: "lithuania-mindaugas-bridge-landmarks-v2",
@@ -1044,6 +1056,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Opened in 2003", "Arch bridge", "Length 101 meters", "Over the Neris River"],
     },
     imageHint: "Mindaugas Bridge Vilnius at dusk with lights",
+    descriptionAdvanced: {
+      de: "Die Brücke wurde 2003 zum 750. Jahrestag der Krönung von König Mindaugas eröffnet. Sie verbindet die Altstadt mit dem modernen Viertel Snipiškės über den Fluss Neris.",
+      hu: "A 2003-ban, Mindaugas király megkoronázásának 750. évfordulójára átadott híd a Neris folyón ível át. Modern acélszerkezete fontos közlekedési folyosó az óváros peremén.",
+      ro: "Podul a fost inaugurat în 2003 pentru a marca 750 de ani de la încoronarea regelui Mindaugas. Structura modernă traversează râul Neris, legând centrul de cartierele noi.",
+      en: "Opened in 2003 for the 750th anniversary of the coronation of King Mindaugas, this bridge spans the Neris River. It connects the Old Town with the modern districts.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung am 6. Juli 2003", "Gesamtlänge von 101 Metern", "Breite der Brücke: 19,7 Meter", "Architekt: Vytautas Nasvytis"],
+      hu: ["2003. július 6-án adták át", "Teljes hossza 101 méter", "A híd szélessége 19,7 méter", "Építész: Vytautas Nasvytis"],
+      ro: ["Inaugurat la 6 iulie 2003", "Lungime totală de 101 metri", "Lățimea structurii: 19,7 metri", "Arhitect: Vytautas Nasvytis"],
+      en: ["Opened on July 6, 2003", "Total length of 101 meters", "Width of the deck: 19.7 meters", "Architect: Vytautas Nasvytis"],
+    },
   },
   {
     id: "lithuania-tytuvenai-monastery-landmarks-v2",
@@ -1064,6 +1088,18 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Built 1614-1735", "Bernardine Order", "Baroque and Gothic", "Pilgrimage site"],
     },
     imageHint: "Tytuvenai Monastery Baroque courtyard and arcades",
+    descriptionAdvanced: {
+      de: "Das ehemalige Bernhardinerkloster aus dem 17. Jahrhundert gilt als Meisterwerk des litauischen Barock. Die Anlage umfasst einen Kreuzgang und eine prachtvolle Basilika.",
+      hu: "A 17. századi bernátrendi kolostoregyüttes a litván barokk egyik legszebb példája. Kiemelkedő értéke a belső udvar a keresztút állomásaival és a gazdagon díszített templom.",
+      ro: "Complexul monahal bernardin din secolul al XVII-lea este o capodoperă a barocului lituanian. Include o curte interioară cu Calea Crucii și o basilică spectaculoasă.",
+      en: "This 17th-century Bernardine monastery is a masterpiece of Lithuanian Baroque. The complex features a stunning cloister courtyard with the Way of the Cross stations.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1614", "Barockfassade um 1735 fertiggestellt", "25 Stationen des Kreuzwegs im Hof", "Teil der Johannes-Paul-II-Pilgerroute"],
+      hu: ["1614-ben alapították", "Barokk homlokzat 1735 körül készült el", "25 keresztúti állomás az udvaron", "A II. János Pál pápa zarándokút része"],
+      ro: ["Fondat în anul 1614", "Fațadă barocă finalizată în 1735", "25 de stații ale Căii Crucii în curte", "Inclus în ruta de pelerinaj Ioan Paul al II-lea"],
+      en: ["Founded in 1614", "Baroque facade completed around 1735", "25 stations of the Cross in the yard", "Part of the Pope John Paul II Pilgrimage Route"],
+    },
   },
   {
     id: "lithuania-kaunas-central-post-office-landmarks-v2",
@@ -1084,5 +1120,17 @@ image: "/poi-images/lithuania-amber-museum-palanga-landmarks-v2.webp"
       en: ["Built in 1932", "Modernist style", "Architect Feliksas Vizbaras", "Located in Kaunas"],
     },
     imageHint: "Kaunas Central Post Office modernist architecture facade",
+    descriptionAdvanced: {
+      de: "Das 1932 fertiggestellte Gebäude ist ein Hauptwerk des litauischen Modernismus. Die Architektur verbindet funktionale Elemente mit traditionellen litauischen Ornamenten.",
+      hu: "Az 1932-ben megnyitott postaépület a litván modernizmus és az art déco kiemelkedő példája. Feliksas Vizbaras tervei alapján készült, a belső terek nemzeti motívumokat őriznek.",
+      ro: "Finalizată în 1932, clădirea este un simbol al modernismului din Kaunas. Arhitectura semnată de Feliksas Vizbaras îmbină funcționalitatea cu motivele tradiționale locale.",
+      en: "Completed in 1932, this building is a prime example of Kaunas Modernism. Designed by Feliksas Vizbaras, it blends functionalist architecture with national folk ornaments.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit von 1930 bis 1932", "Architekt: Feliksas Vizbaras", "Besitzt einen markanten 8-stöckigen Turm", "Nationales Kulturdenkmal Litauens"],
+      hu: ["1930 és 1932 között épült", "Építész: Feliksas Vizbaras", "Egy 8 emeletes toronnyal rendelkezik", "Litvánia nemzeti kulturális műemléke"],
+      ro: ["Construit între 1930 și 1932", "Arhitect: Feliksas Vizbaras", "Dispune de un turn cu 8 etaje", "Monument cultural național al Lituaniei"],
+      en: ["Built between 1930 and 1932", "Architect: Feliksas Vizbaras", "Features a prominent 8-storey tower", "National cultural monument of Lithuania"],
+    },
   }
 ];

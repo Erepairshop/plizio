@@ -7,9 +7,8 @@ export const poiExtraKenyaReliefV2: POI[] = [
     type: "relief",
     parent: "KE-30",
     coords: [36.0, 0.0],
-    name: { de: "Großer Afrikanischer Grabenbruch", hu: "Kelet-afrikai árokrendszer", ro: "Marele Rift Est-African", en: "Great Rift Valley",
-image: "/poi-images/rift-valley-kenya-relief-v2.webp"
-},
+    name: { de: "Großer Afrikanischer Grabenbruch", hu: "Kelet-afrikai árokrendszer", ro: "Marele Rift Est-African", en: "Great Rift Valley"},
+    image: "/poi-images/rift-valley-kenya-relief-v2.webp",
     description: { de: "Ein geologisches Phänomen von globaler Bedeutung.", hu: "Globális jelentőségű geológiai jelenség.", ro: "Un fenomen geologic de importanță globală.", en: "A geological phenomenon of global importance." },
     facts: {
       de: ["Tektonische Trennung", "Vulkanische Aktivität"],
@@ -36,9 +35,8 @@ image: "/poi-images/rift-valley-kenya-relief-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [37.3083, -0.1522],
-    name: { de: "Mount-Kenya-Massiv", hu: "Kenya-hegy tömbje", ro: "Masivul Muntele Kenya", en: "Mount Kenya Massif",
-image: "/poi-images/mount-kenya-massif-relief-v2.webp"
-},
+    name: { de: "Mount-Kenya-Massiv", hu: "Kenya-hegy tömbje", ro: "Masivul Muntele Kenya", en: "Mount Kenya Massif"},
+    image: "/poi-images/mount-kenya-massif-relief-v2.webp",
     description: { de: "Das höchste Gebirgsmassiv in Kenia.", hu: "Kenya legmagasabb hegytömbje.", ro: "Cel mai înalt masiv muntos din Kenya.", en: "The highest mountain massif in Kenya." },
     facts: {
       de: ["Ehemaliger Stratovulkan", "Gletscherreste"],
@@ -65,9 +63,8 @@ image: "/poi-images/mount-kenya-massif-relief-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [36.7, -0.4],
-    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegység", ro: "Munții Aberdare", en: "Aberdare Range",
-image: "/poi-images/aberdare-range-relief-v2.webp"
-},
+    name: { de: "Aberdare-Gebirge", hu: "Aberdare-hegység", ro: "Munții Aberdare", en: "Aberdare Range"},
+    image: "/poi-images/aberdare-range-relief-v2.webp",
     description: { de: "Vulkanisches Hochlandgebirge.", hu: "Vulkanikus felföldi hegység.", ro: "Munți vulcanici de podiș.", en: "Volcanic highland mountains." },
     facts: {
       de: ["Hohe Plateaus", "Tiefe Täler"],
@@ -94,9 +91,8 @@ image: "/poi-images/aberdare-range-relief-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [35.45, 1.25],
-    name: { de: "Cherangani-Hügel", hu: "Cherangani-dombság", ro: "Dealurile Cherangani", en: "Cherangani Hills",
-image: "/poi-images/cherangani-hills-relief-v2.webp"
-},
+    name: { de: "Cherangani-Hügel", hu: "Cherangani-dombság", ro: "Dealurile Cherangani", en: "Cherangani Hills"},
+    image: "/poi-images/cherangani-hills-relief-v2.webp",
     description: { de: "Eine komplexe Bergkette im Westen.", hu: "Komplex hegylánc nyugaton.", ro: "Un lanț muntos complex în vest.", en: "A complex mountain range in the west." },
     facts: {
       de: ["Wichtiges Wassereinzugsgebiet", "Steile Hänge"],
@@ -123,9 +119,8 @@ image: "/poi-images/cherangani-hills-relief-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [34.55, 1.1],
-    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon",
-image: "/poi-images/mount-elgon-relief-v2.webp"
-},
+    name: { de: "Mount Elgon", hu: "Elgon-hegy", ro: "Muntele Elgon", en: "Mount Elgon"},
+    image: "/poi-images/mount-elgon-relief-v2.webp",
     description: { de: "Gigantischer erloschener Schildvulkan an der Grenze.", hu: "Hatalmas kialudt pajzsvulkán a határon.", ro: "Vulcan scut gigantic stins la frontieră.", en: "Gigantic extinct shield volcano on the border." },
     facts: {
       de: ["Massive Caldera", "Vulkanischer Boden"],
@@ -152,9 +147,8 @@ image: "/poi-images/mount-elgon-relief-v2.webp"
     type: "relief",
     parent: "KE-20",
     coords: [37.0, 0.25],
-    name: { de: "Laikipia-Plateau", hu: "Laikipia-fennsík", ro: "Platoul Laikipia", en: "Laikipia Plateau",
-image: "/poi-images/laikipia-plateau-relief-v2.webp"
-},
+    name: { de: "Laikipia-Plateau", hu: "Laikipia-fennsík", ro: "Platoul Laikipia", en: "Laikipia Plateau"},
+    image: "/poi-images/laikipia-plateau-relief-v2.webp",
     description: { de: "Großflächiges Hochland zwischen Gebirgen.", hu: "Kiterjedt felföld a hegységek között.", ro: "Podiș întins între munți.", en: "Extensive highland between mountains." },
     facts: {
       de: ["Grasland-Savanne", "Erhöhtes Plateau"],
@@ -181,9 +175,8 @@ image: "/poi-images/laikipia-plateau-relief-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [37.8, 0.2],
-    name: { de: "Nyambene-Hügel", hu: "Nyambene-dombság", ro: "Dealurile Nyambene", en: "Nyambene Hills",
-image: "/poi-images/nyambene-hills-relief-v2.webp"
-},
+    name: { de: "Nyambene-Hügel", hu: "Nyambene-dombság", ro: "Dealurile Nyambene", en: "Nyambene Hills"},
+    image: "/poi-images/nyambene-hills-relief-v2.webp",
     description: { de: "Vulkanische Hügelkette im Osten von Mount Kenya.", hu: "Vulkanikus dombság a Kenya-hegytől keletre.", ro: "Lanț de dealuri vulcanice la est de Muntele Kenya.", en: "Volcanic hill range east of Mount Kenya." },
     facts: {
       de: ["Vulkanische Schlackenkegel", "Fruchtbarer Boden"],
@@ -210,9 +203,8 @@ image: "/poi-images/nyambene-hills-relief-v2.webp"
     type: "mountain",
     parent: "KE-25",
     coords: [37.0, 1.8],
-    name: { de: "Ndoto-Gebirge", hu: "Ndoto-hegység", ro: "Munții Ndoto", en: "Ndoto Mountains",
-image: "/poi-images/ndoto-mountains-relief-v2.webp"
-},
+    name: { de: "Ndoto-Gebirge", hu: "Ndoto-hegység", ro: "Munții Ndoto", en: "Ndoto Mountains"},
+    image: "/poi-images/ndoto-mountains-relief-v2.webp",
     description: { de: "Raue Bergregion im nördlichen Kenia.", hu: "Zord hegyvidék Észak-Kenyában.", ro: "Regiune muntoasă aspră în nordul Keniei.", en: "Rugged mountain region in northern Kenya." },
     facts: {
       de: ["Steile Felsformationen", "Wüstenrandlage"],
@@ -239,9 +231,8 @@ image: "/poi-images/ndoto-mountains-relief-v2.webp"
     type: "mountain",
     parent: "KE-25",
     coords: [37.3, 1.0],
-    name: { de: "Mathews-Gebirge", hu: "Mathews-hegység", ro: "Munții Mathews", en: "Mathews Range",
-image: "/poi-images/mathews-range-relief-v2.webp"
-},
+    name: { de: "Mathews-Gebirge", hu: "Mathews-hegység", ro: "Munții Mathews", en: "Mathews Range"},
+    image: "/poi-images/mathews-range-relief-v2.webp",
     description: { de: "Isolierte Bergkette in der trockenen Region.", hu: "Elszigetelt hegylánc a száraz régióban.", ro: "Lanț muntos izolat în regiunea aridă.", en: "Isolated mountain range in the dry region." },
     facts: {
       de: ["Himmel-Inseln", "Dichte Wälder"],
@@ -268,9 +259,8 @@ image: "/poi-images/mathews-range-relief-v2.webp"
     type: "mountain",
     parent: "KE-25",
     coords: [36.9, 2.7],
-    name: { de: "Mount Kulal", hu: "Kulal-hegy", ro: "Muntele Kulal", en: "Mount Kulal",
-image: "/poi-images/mount-kulal-relief-v2.webp"
-},
+    name: { de: "Mount Kulal", hu: "Kulal-hegy", ro: "Muntele Kulal", en: "Mount Kulal"},
+    image: "/poi-images/mount-kulal-relief-v2.webp",
     description: { de: "Vulkanischer Berg nahe dem Turkana-See.", hu: "Vulkanikus hegy a Turkana-tó közelében.", ro: "Munte vulcanic lângă Lacul Turkana.", en: "Volcanic mountain near Lake Turkana." },
     facts: {
       de: ["Hohe Biodiversität", "Trockene Umgebung"],
@@ -297,9 +287,8 @@ image: "/poi-images/mount-kulal-relief-v2.webp"
     type: "mountain",
     parent: "KE-25",
     coords: [36.8, 2.1],
-    name: { de: "Mount Nyiru", hu: "Nyiru-hegy", ro: "Muntele Nyiru", en: "Mount Nyiru",
-image: "/poi-images/mount-nyiru-relief-v2.webp"
-},
+    name: { de: "Mount Nyiru", hu: "Nyiru-hegy", ro: "Muntele Nyiru", en: "Mount Nyiru"},
+    image: "/poi-images/mount-nyiru-relief-v2.webp",
     description: { de: "Massives Gebirgsmassiv im Norden.", hu: "Masszív hegytömb északon.", ro: "Masiv muntos în nord.", en: "Massive mountain massif in the north." },
     facts: {
       de: ["Steile Anstiege", "Wüstenoase"],
@@ -326,9 +315,8 @@ image: "/poi-images/mount-nyiru-relief-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [36.45, -0.9],
-    name: { de: "Mount Longonot", hu: "Longonot-hegy", ro: "Muntele Longonot", en: "Mount Longonot",
-image: "/poi-images/mount-longonot-relief-v2.webp"
-},
+    name: { de: "Mount Longonot", hu: "Longonot-hegy", ro: "Muntele Longonot", en: "Mount Longonot"},
+    image: "/poi-images/mount-longonot-relief-v2.webp",
     description: { de: "Markanter Stratovulkan im Rift Valley.", hu: "Jellegzetes rétegvulkán a Rift-völgyben.", ro: "Stratovulcan proeminent în Rift Valley.", en: "Prominent stratovolcano in the Rift Valley." },
     facts: {
       de: ["Tiefer Krater", "Vulkanisches Gestein"],
@@ -355,9 +343,8 @@ image: "/poi-images/mount-longonot-relief-v2.webp"
     type: "relief",
     parent: "KE-26",
     coords: [36.06, -0.2],
-    name: { de: "Menengai-Krater", hu: "Menengai-kráter", ro: "Craterul Menengai", en: "Menengai Crater",
-image: "/poi-images/menengai-crater-relief-v2.webp"
-},
+    name: { de: "Menengai-Krater", hu: "Menengai-kráter", ro: "Craterul Menengai", en: "Menengai Crater"},
+    image: "/poi-images/menengai-crater-relief-v2.webp",
     description: { de: "Eine der größten Calderas weltweit.", hu: "Az egyik legnagyobb kaldera a világon.", ro: "Una dintre cele mai mari caldere din lume.", en: "One of the largest calderas worldwide." },
     facts: {
       de: ["Schildvulkan-Rest", "Geothermische Quelle"],
@@ -384,9 +371,8 @@ image: "/poi-images/menengai-crater-relief-v2.webp"
     type: "relief",
     parent: "KE-31",
     coords: [38.5, -3.0],
-    name: { de: "Tsavo-Ebene", hu: "Tsavo-síkság", ro: "Câmpia Tsavo", en: "Tsavo Plains",
-image: "/poi-images/tsavo-plains-relief-v2.webp"
-},
+    name: { de: "Tsavo-Ebene", hu: "Tsavo-síkság", ro: "Câmpia Tsavo", en: "Tsavo Plains"},
+    image: "/poi-images/tsavo-plains-relief-v2.webp",
     description: { de: "Weite Savannenebene im Südosten.", hu: "Széles szavannasíkság délkeleten.", ro: "Câmpie de savană vastă în sud-est.", en: "Vast savanna plain in the southeast." },
     facts: {
       de: ["Flaches Terrain", "Vulkanische Hügelinseln"],
@@ -413,9 +399,8 @@ image: "/poi-images/tsavo-plains-relief-v2.webp"
     type: "relief",
     parent: "KE-26",
     coords: [40.2, -2.4],
-    name: { de: "Tana-Delta", hu: "Tana-delta", ro: "Delta râului Tana", en: "Tana River Delta",
-image: "/poi-images/tana-delta-relief-v2.webp"
-},
+    name: { de: "Tana-Delta", hu: "Tana-delta", ro: "Delta râului Tana", en: "Tana River Delta"},
+    image: "/poi-images/tana-delta-relief-v2.webp",
     description: { de: "Tiefgelegene Flussmündungslandschaft.", hu: "Alacsonyan fekvő folyótorkolati táj.", ro: "Peisaj de estuar de joasă altitudine.", en: "Low-lying river estuary landscape." },
     facts: {
       de: ["Schwemmland", "Überschwemmungsgebiet"],
@@ -442,9 +427,8 @@ image: "/poi-images/tana-delta-relief-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [37.2, 0.4],
-    name: { de: "Loldaika-Hügel", hu: "Loldaika-dombság", ro: "Dealurile Loldaika", en: "Loldaika Hills",
-image: "/poi-images/loldaika-hills-relief-v2.webp"
-},
+    name: { de: "Loldaika-Hügel", hu: "Loldaika-dombság", ro: "Dealurile Loldaika", en: "Loldaika Hills"},
+    image: "/poi-images/loldaika-hills-relief-v2.webp",
     description: { de: "Felsiges Hügelland nördlich von Laikipia.", hu: "Sziklás dombvidék Laikipiától északra.", ro: "Teren deluros stâncos la nord de Laikipia.", en: "Rocky hilly country north of Laikipia." },
     facts: {
       de: ["Granitformationen", "Trockene Vegetation"],
@@ -471,9 +455,8 @@ image: "/poi-images/loldaika-hills-relief-v2.webp"
     type: "relief",
     parent: "KE-25",
     coords: [37.5, 3.0],
-    name: { de: "Chalbi-Wüste", hu: "Chalbi-sivatag", ro: "Deșertul Chalbi", en: "Chalbi Desert",
-image: "/poi-images/chalbi-desert-relief-v2.webp"
-},
+    name: { de: "Chalbi-Wüste", hu: "Chalbi-sivatag", ro: "Deșertul Chalbi", en: "Chalbi Desert"},
+    image: "/poi-images/chalbi-desert-relief-v2.webp",
     description: { de: "Trockene Wüstenebene im Norden Kenias.", hu: "Száraz sivatagi síkság Észak-Kenyában.", ro: "Câmpie deșertică aridă în nordul Keniei.", en: "Arid desert plain in northern Kenya." },
     facts: {
       de: ["Salzpfanne", "Extrem trocken"],
@@ -500,9 +483,8 @@ image: "/poi-images/chalbi-desert-relief-v2.webp"
     type: "mountain",
     parent: "KE-26",
     coords: [36.3, -1.0],
-    name: { de: "Suswa-Vulkan", hu: "Suswa-vulkán", ro: "Vulcanul Suswa", en: "Mount Suswa",
-image: "/poi-images/susswa-volcano-relief-v2.webp"
-},
+    name: { de: "Suswa-Vulkan", hu: "Suswa-vulkán", ro: "Vulcanul Suswa", en: "Mount Suswa"},
+    image: "/poi-images/susswa-volcano-relief-v2.webp",
     description: { de: "Vulkanschild mit doppelter Caldera.", hu: "Vulkánpajzs kettős kalderával.", ro: "Scut vulcanic cu calderă dublă.", en: "Volcanic shield with double caldera." },
     facts: {
       de: ["Innere Caldera", "Lavahöhlen"],
@@ -529,9 +511,8 @@ image: "/poi-images/susswa-volcano-relief-v2.webp"
     type: "relief",
     parent: "KE-30",
     coords: [35.5, 1.0],
-    name: { de: "Kerio-Tal", hu: "Kerio-völgy", ro: "Valea Kerio", en: "Kerio Valley",
-image: "/poi-images/kerio-valley-relief-v2.webp"
-},
+    name: { de: "Kerio-Tal", hu: "Kerio-völgy", ro: "Valea Kerio", en: "Kerio Valley"},
+    image: "/poi-images/kerio-valley-relief-v2.webp",
     description: { de: "Tief eingeschnittenes Rift-Tal.", hu: "Mélyen bevágódott Rift-völgy.", ro: "Vale Rift adânc tăiată.", en: "Deeply incised Rift valley." },
     facts: {
       de: ["Steile Rift-Kanten", "Erosionslandschaft"],
@@ -558,9 +539,8 @@ image: "/poi-images/kerio-valley-relief-v2.webp"
     type: "relief",
     parent: "KE-31",
     coords: [38.0, -1.5],
-    name: { de: "Yatta-Plateau", hu: "Yatta-fennsík", ro: "Platoul Yatta", en: "Yatta Plateau",
-image: "/poi-images/yatta-plateau-relief-v2.webp"
-},
+    name: { de: "Yatta-Plateau", hu: "Yatta-fennsík", ro: "Platoul Yatta", en: "Yatta Plateau"},
+    image: "/poi-images/yatta-plateau-relief-v2.webp",
     description: { de: "Langes, schmales Lava-Plateau.", hu: "Hosszú, keskeny láva-fennsík.", ro: "Platou de lavă lung și îngust.", en: "Long, narrow lava plateau." },
     facts: {
       de: ["Lavafluss-Relikt", "Sehr langgestreckt"],
@@ -587,9 +567,8 @@ image: "/poi-images/yatta-plateau-relief-v2.webp"
     type: "relief",
     parent: "KE-26",
     coords: [34.7, 1.0],
-    name: { de: "Uganda-Böschung", hu: "Ugandai-lépcső", ro: "Escarpa Uganda", en: "Uganda Escarpment",
-image: "/poi-images/uganda-escarpment-relief-v2.webp"
-},
+    name: { de: "Uganda-Böschung", hu: "Ugandai-lépcső", ro: "Escarpa Uganda", en: "Uganda Escarpment"},
+    image: "/poi-images/uganda-escarpment-relief-v2.webp",
     description: { de: "Stufenartige Geländeform am Rift-Rand.", hu: "Lépcsőzetes terepforma a Rift szélén.", ro: "Formă de relief în trepte la marginea Riftului.", en: "Stepped landform at the Rift edge." },
     facts: {
       de: ["Geologische Verwerfung", "Höhenunterschiede"],
@@ -616,9 +595,8 @@ image: "/poi-images/uganda-escarpment-relief-v2.webp"
     type: "relief",
     parent: "KE-20",
     coords: [36.6, -0.6],
-    name: { de: "Kinangop-Plateau", hu: "Kinangop-fennsík", ro: "Platoul Kinangop", en: "Kinangop Plateau",
-image: "/poi-images/kinangop-plateau-relief-v2.webp"
-},
+    name: { de: "Kinangop-Plateau", hu: "Kinangop-fennsík", ro: "Platoul Kinangop", en: "Kinangop Plateau"},
+    image: "/poi-images/kinangop-plateau-relief-v2.webp",
     description: { de: "Hochlandebene zwischen Aberdare und Rift.", hu: "Felföldi síkság az Aberdare és a Rift között.", ro: "Podiș înalt între Aberdare și Rift.", en: "Highland plain between Aberdare and Rift." },
     facts: {
       de: ["Kühles Klima", "Landwirtschaftlich genutzt"],
@@ -645,9 +623,8 @@ image: "/poi-images/kinangop-plateau-relief-v2.webp"
     type: "mountain",
     parent: "KE-20",
     coords: [36.6, -0.4],
-    name: { de: "Mount Satima", hu: "Satima-hegy", ro: "Muntele Satima", en: "Mount Satima",
-image: "/poi-images/mount-satima-relief-v2.webp"
-},
+    name: { de: "Mount Satima", hu: "Satima-hegy", ro: "Muntele Satima", en: "Mount Satima"},
+    image: "/poi-images/mount-satima-relief-v2.webp",
     description: { de: "Höchster Gipfel im Aberdare-Massiv.", hu: "Az Aberdare-hegység legmagasabb csúcsa.", ro: "Cel mai înalt vârf din masivul Aberdare.", en: "Highest peak in the Aberdare massif." },
     facts: {
       de: ["Vulkanische Gipfel", "Alpine Vegetation"],
@@ -674,9 +651,8 @@ image: "/poi-images/mount-satima-relief-v2.webp"
     type: "mountain",
     parent: "KE-43",
     coords: [34.3, -0.1],
-    name: { de: "Ndere-Insel", hu: "Ndere-sziget", ro: "Insula Ndere", en: "Ndere Island",
-image: "/poi-images/ndere-island-relief-v2.webp"
-},
+    name: { de: "Ndere-Insel", hu: "Ndere-sziget", ro: "Insula Ndere", en: "Ndere Island"},
+    image: "/poi-images/ndere-island-relief-v2.webp",
     description: { de: "Hügelige Insel im Viktoriasee.", hu: "Dombos sziget a Viktória-tóban.", ro: "Insulă deluroasă în Lacul Victoria.", en: "Hilly island in Lake Victoria." },
     facts: {
       de: ["Vulkanischer Ursprung", "Tiere"],
@@ -703,9 +679,8 @@ image: "/poi-images/ndere-island-relief-v2.webp"
     type: "relief",
     parent: "KE-30",
     coords: [35.0, 1.8],
-    name: { de: "Kacheliba-Ebene", hu: "Kacheliba-síkság", ro: "Câmpia Kacheliba", en: "Kacheliba Plains",
-image: "/poi-images/kacheliba-plains-relief-v2.webp"
-},
+    name: { de: "Kacheliba-Ebene", hu: "Kacheliba-síkság", ro: "Câmpia Kacheliba", en: "Kacheliba Plains"},
+    image: "/poi-images/kacheliba-plains-relief-v2.webp",
     description: { de: "Flache Landschaft im Nordwesten.", hu: "Lapos táj északnyugaton.", ro: "Peisaj plat în nord-vest.", en: "Flat landscape in the northwest." },
     facts: {
       de: ["Trocken Savanne", "Weite Sicht"],

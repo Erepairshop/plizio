@@ -6,9 +6,8 @@ export const poiExtraTurkeyReliefV2: POI[] = [
     type: "mountain",
     parent: "TR-07",
     coords: [32.5000, 37.0000],
-    name: { de: "Taurusgebirge", hu: "Taurus-hegység", ro: "Munții Taurus", en: "Taurus Mountains",
-image: "/poi-images/tr-taurus-mountains-relief-v2.webp"
-},
+    name: { de: "Taurusgebirge", hu: "Taurus-hegység", ro: "Munții Taurus", en: "Taurus Mountains"},
+    image: "/poi-images/tr-taurus-mountains-relief-v2.webp",
     description: {
       de: "Dieses beeindruckende Bergmassiv trennt die Mittelmeerküste vom anatolischen Hochland und prägt das Klima der Region.",
       hu: "Ez a lenyűgöző hegylánc elválasztja a mediterrán partvidéket az anatóliai fennsíktól, és jelentősen befolyásolja a régió éghajlatát.",
@@ -39,9 +38,8 @@ image: "/poi-images/tr-taurus-mountains-relief-v2.webp"
     type: "mountain",
     parent: "TR-61",
     coords: [39.0000, 40.5000],
-    name: { de: "Pontisches Gebirge", hu: "Pontuszi-hegység", ro: "Munții Pontici", en: "Pontic Mountains",
-image: "/poi-images/tr-pontic-mountains-relief-v2.webp"
-},
+    name: { de: "Pontisches Gebirge", hu: "Pontuszi-hegység", ro: "Munții Pontici", en: "Pontic Mountains"},
+    image: "/poi-images/tr-pontic-mountains-relief-v2.webp",
     description: {
       de: "Ein ausgedehnter Gebirgszug entlang der Schwarzmeerküste, der mit dichten Wäldern bedeckt ist.",
       hu: "Kiterjedt hegylánc a Fekete-tenger partja mentén, amelyet sűrű erdők borítanak.",
@@ -72,9 +70,8 @@ image: "/poi-images/tr-pontic-mountains-relief-v2.webp"
     type: "mountain",
     parent: "TR-38",
     coords: [35.4500, 38.5333],
-    name: { de: "Erciyes Dağı", hu: "Erciyes-hegy", ro: "Muntele Erciyes", en: "Mount Erciyes",
-image: "/poi-images/tr-mount-erciyes-relief-v2.webp"
-},
+    name: { de: "Erciyes Dağı", hu: "Erciyes-hegy", ro: "Muntele Erciyes", en: "Mount Erciyes"},
+    image: "/poi-images/tr-mount-erciyes-relief-v2.webp",
     description: {
       de: "Ein massiver Schichtvulkan, dessen Ausbrüche vor langer Zeit die Tuffsteinlandschaft Kappadokiens formten.",
       hu: "Hatalmas rétegvulkán, amelynek réges-régi kitörései alakították ki Kappadókia tufatájait.",
@@ -105,9 +102,8 @@ image: "/poi-images/tr-mount-erciyes-relief-v2.webp"
     type: "mountain",
     parent: "TR-68",
     coords: [34.1667, 38.1333],
-    name: { de: "Hasan Dağı", hu: "Hasan-hegy", ro: "Muntele Hasan", en: "Mount Hasan",
-image: "/poi-images/tr-mount-hasan-relief-v2.webp"
-},
+    name: { de: "Hasan Dağı", hu: "Hasan-hegy", ro: "Muntele Hasan", en: "Mount Hasan"},
+    image: "/poi-images/tr-mount-hasan-relief-v2.webp",
     description: {
       de: "Ein weiterer mächtiger Vulkan in Zentralanatolien, der das Bild der anatolischen Steppe dominiert.",
       hu: "Egy másik hatalmas vulkán Közép-Anatóliában, amely meghatározza az anatóliai sztyeppe látképét.",
@@ -138,9 +134,8 @@ image: "/poi-images/tr-mount-hasan-relief-v2.webp"
     type: "mountain",
     parent: "TR-13",
     coords: [42.8228, 38.9317],
-    name: { de: "Süphan Dağı", hu: "Süphan-hegy", ro: "Muntele Süphan", en: "Mount Süphan",
-image: "/poi-images/tr-mount-suphan-relief-v2.webp"
-},
+    name: { de: "Süphan Dağı", hu: "Süphan-hegy", ro: "Muntele Süphan", en: "Mount Süphan"},
+    image: "/poi-images/tr-mount-suphan-relief-v2.webp",
     description: {
       de: "Ein ruhender Vulkan, der majestätisch über den nördlichen Ufern des Vansees im Osten des Landes thront.",
       hu: "Alvó vulkán, amely fenségesen magasodik a Van-tó északi partjai fölé az ország keleti részén.",
@@ -171,9 +166,8 @@ image: "/poi-images/tr-mount-suphan-relief-v2.webp"
     type: "mountain",
     parent: "TR-53",
     coords: [41.1611, 40.8361],
-    name: { de: "Kaçkar-Gebirge", hu: "Kaçkar-hegység", ro: "Munții Kaçkar", en: "Kaçkar Mountains",
-image: "/poi-images/tr-kackar-mountains-relief-v2.webp"
-},
+    name: { de: "Kaçkar-Gebirge", hu: "Kaçkar-hegység", ro: "Munții Kaçkar", en: "Kaçkar Mountains"},
+    image: "/poi-images/tr-kackar-mountains-relief-v2.webp",
     description: {
       de: "Dieses raue Gebirgsmassiv im Nordosten ist für seine alpine Landschaft, tiefe Täler und Gletscherseen bekannt.",
       hu: "Ez a zord északkeleti hegylánc alpesi tájairól, mély völgyeiről és gleccsertavairól ismert.",
@@ -204,9 +198,8 @@ image: "/poi-images/tr-kackar-mountains-relief-v2.webp"
     type: "valley",
     parent: "TR-68",
     coords: [34.3014, 38.2422],
-    name: { de: "Ihlara-Tal", hu: "Ihlara-völgy", ro: "Valea Ihlara", en: "Ihlara Valley",
-image: "/poi-images/tr-ihlara-valley-relief-v2.webp"
-},
+    name: { de: "Ihlara-Tal", hu: "Ihlara-völgy", ro: "Valea Ihlara", en: "Ihlara Valley"},
+    image: "/poi-images/tr-ihlara-valley-relief-v2.webp",
     description: {
       de: "Eine tiefe, von einem Fluss gegrabene Schlucht, die als grüne Oase inmitten der trockenen kappadokischen Landschaft wirkt.",
       hu: "Mély, folyó által vájt szurdok, amely zöld oázisként hat a száraz kappadókiai táj közepén.",
@@ -237,9 +230,8 @@ image: "/poi-images/tr-ihlara-valley-relief-v2.webp"
     type: "valley",
     parent: "TR-62",
     coords: [39.4633, 39.1158],
-    name: { de: "Munzur-Tal", hu: "Munzur-völgy", ro: "Valea Munzur", en: "Munzur Valley",
-image: "/poi-images/tr-munzur-valley-relief-v2.webp"
-},
+    name: { de: "Munzur-Tal", hu: "Munzur-völgy", ro: "Valea Munzur", en: "Munzur Valley"},
+    image: "/poi-images/tr-munzur-valley-relief-v2.webp",
     description: {
       de: "Ein geschütztes Naturparadies in Ostanatolien, berühmt für seine sprudelnden Quellen, Wasserfälle und endemischen Pflanzen.",
       hu: "Védett természeti paradicsom Kelet-Anatóliában, amely híres pezsgő forrásairól, vízeséseiről és endemikus növényeiről.",
@@ -270,9 +262,8 @@ image: "/poi-images/tr-munzur-valley-relief-v2.webp"
     type: "valley",
     parent: "TR-48",
     coords: [29.1306, 36.4975],
-    name: { de: "Schmetterlingstal", hu: "Pillangó-völgy", ro: "Valea Fluturilor", en: "Butterfly Valley",
-image: "/poi-images/tr-butterfly-valley-relief-v2.webp"
-},
+    name: { de: "Schmetterlingstal", hu: "Pillangó-völgy", ro: "Valea Fluturilor", en: "Butterfly Valley"},
+    image: "/poi-images/tr-butterfly-valley-relief-v2.webp",
     description: {
       de: "Eine schwer zugängliche, malerische Schlucht an der Mittelmeerküste, die für ihre Artenvielfalt an Schmetterlingen bekannt ist.",
       hu: "Nehezen megközelíthető, festői szurdok a Földközi-tenger partján, amely a lepkék fajgazdagságáról ismert.",
@@ -303,9 +294,8 @@ image: "/poi-images/tr-butterfly-valley-relief-v2.webp"
     type: "plateau",
     parent: "TR-42",
     coords: [33.0000, 39.0000],
-    name: { de: "Anatolisches Hochland", hu: "Anatóliai-fennsík", ro: "Podișul Anatoliei", en: "Anatolian Plateau",
-image: "/poi-images/tr-anatolian-plateau-relief-v2.webp"
-},
+    name: { de: "Anatolisches Hochland", hu: "Anatóliai-fennsík", ro: "Podișul Anatoliei", en: "Anatolian Plateau"},
+    image: "/poi-images/tr-anatolian-plateau-relief-v2.webp",
     description: {
       de: "Das trockene Kernland der Türkei, bestehend aus weiten Steppen, Salzseen und kargen Landschaften.",
       hu: "Törökország száraz magterülete, amely tágas sztyeppékből, sóstavakból és kopár tájakból áll.",
@@ -336,9 +326,8 @@ image: "/poi-images/tr-anatolian-plateau-relief-v2.webp"
     type: "mountain",
     parent: "TR-31",
     coords: [36.2667, 36.7500],
-    name: { de: "Nurgebirge", hu: "Nur-hegység", ro: "Munții Nur", en: "Nur Mountains",
-image: "/poi-images/tr-nur-mountains-relief-v2.webp"
-},
+    name: { de: "Nurgebirge", hu: "Nur-hegység", ro: "Munții Nur", en: "Nur Mountains"},
+    image: "/poi-images/tr-nur-mountains-relief-v2.webp",
     description: {
       de: "Ein historisch und geografisch bedeutender Gebirgszug, der parallel zur Mittelmeerküste in der Provinz Hatay verläuft.",
       hu: "Történelmileg és földrajzilag jelentős hegylánc, amely a Földközi-tenger partjával párhuzamosan fut Hatay tartományban.",
@@ -369,9 +358,8 @@ image: "/poi-images/tr-nur-mountains-relief-v2.webp"
     type: "desert",
     parent: "TR-42",
     coords: [33.5500, 37.7167],
-    name: { de: "Karapınar-Wüste", hu: "Karapınar-sivatag", ro: "Deșertul Karapınar", en: "Karapınar Desert",
-image: "/poi-images/tr-karapinar-desert-relief-v2.webp"
-},
+    name: { de: "Karapınar-Wüste", hu: "Karapınar-sivatag", ro: "Deșertul Karapınar", en: "Karapınar Desert"},
+    image: "/poi-images/tr-karapinar-desert-relief-v2.webp",
     description: {
       de: "Die einzige echte Wüstenregion der Türkei, geprägt von Sanddünen und extremer Trockenheit im Herzen Zentralanatoliens.",
       hu: "Törökország egyetlen igazi sivatagi régiója, amelyet homokdűnék és rendkívüli szárazság jellemez Közép-Anatólia szívében.",
@@ -402,9 +390,8 @@ image: "/poi-images/tr-karapinar-desert-relief-v2.webp"
     type: "coast",
     parent: "TR-07",
     coords: [30.0000, 36.5000],
-    name: { de: "Türkische Riviera", hu: "Török Riviéra", ro: "Riviera Turcească", en: "Turkish Riviera",
-image: "/poi-images/tr-turquoise-coast-relief-v2.webp"
-},
+    name: { de: "Türkische Riviera", hu: "Török Riviéra", ro: "Riviera Turcească", en: "Turkish Riviera"},
+    image: "/poi-images/tr-turquoise-coast-relief-v2.webp",
     description: {
       de: "Ein spektakulärer Küstenabschnitt am Mittelmeer, berühmt für sein kristallklares, türkisfarbenes Wasser und versteckte Buchten.",
       hu: "Látványos partszakasz a Földközi-tengernél, amely kristálytiszta, türkizkék vizéről és rejtett öbleiről híres.",
@@ -435,9 +422,8 @@ image: "/poi-images/tr-turquoise-coast-relief-v2.webp"
     type: "coast",
     parent: "TR-48",
     coords: [29.5000, 36.2500],
-    name: { de: "Lykische Küste", hu: "Lükiai partvidék", ro: "Coasta Liciană", en: "Lycian Coast",
-image: "/poi-images/tr-lycian-coast-relief-v2.webp"
-},
+    name: { de: "Lykische Küste", hu: "Lükiai partvidék", ro: "Coasta Liciană", en: "Lycian Coast"},
+    image: "/poi-images/tr-lycian-coast-relief-v2.webp",
     description: {
       de: "Ein wildromantischer Teil der Mittelmeerküste, gekennzeichnet durch felsige Halbinseln, tiefe Schluchten und antike Ruinen.",
       hu: "A földközi-tengeri partvidék vadregényes része, amelyet sziklás félszigetek, mély szurdokok és ősi romok jellemeznek.",
@@ -468,9 +454,8 @@ image: "/poi-images/tr-lycian-coast-relief-v2.webp"
     type: "coast",
     parent: "TR-35",
     coords: [26.8000, 38.4000],
-    name: { de: "Ägäisküste", hu: "Égei-tenger partvidéke", ro: "Coasta Mării Egee", en: "Aegean Coast",
-image: "/poi-images/tr-aegean-coast-relief-v2.webp"
-},
+    name: { de: "Ägäisküste", hu: "Égei-tenger partvidéke", ro: "Coasta Mării Egee", en: "Aegean Coast"},
+    image: "/poi-images/tr-aegean-coast-relief-v2.webp",
     description: {
       de: "Die zerklüftete Westküste der Türkei mit zahllosen Buchten, Inseln und fruchtbaren Tälern, die ins Landesinnere reichen.",
       hu: "Törökország tagolt nyugati partvidéke számtalan öböllel, szigettel és a szárazföld belsejébe nyúló termékeny völgyekkel.",
@@ -501,9 +486,8 @@ image: "/poi-images/tr-aegean-coast-relief-v2.webp"
     type: "coast",
     parent: "TR-55",
     coords: [36.0000, 41.5000],
-    name: { de: "Schwarzmeerküste", hu: "Fekete-tenger partvidéke", ro: "Coasta Mării Negre", en: "Black Sea Coast",
-image: "/poi-images/tr-black-sea-coast-relief-v2.webp"
-},
+    name: { de: "Schwarzmeerküste", hu: "Fekete-tenger partvidéke", ro: "Coasta Mării Negre", en: "Black Sea Coast"},
+    image: "/poi-images/tr-black-sea-coast-relief-v2.webp",
     description: {
       de: "Eine üppig grüne, feuchte und steil abfallende Küstenregion, wo die Pontischen Berge direkt auf das stürmische Meer treffen.",
       hu: "Buja zöld, nedves és meredeken lejtő partvidék, ahol a Pontuszi-hegység közvetlenül találkozik a viharos tengerrel.",
@@ -534,9 +518,8 @@ image: "/poi-images/tr-black-sea-coast-relief-v2.webp"
     type: "valley",
     parent: "TR-07",
     coords: [31.1833, 37.1833],
-    name: { de: "Köprülü-Kanyon", hu: "Köprülü-kanyon", ro: "Canionul Köprülü", en: "Köprülü Canyon",
-image: "/poi-images/tr-koprulu-canyon-relief-v2.webp"
-},
+    name: { de: "Köprülü-Kanyon", hu: "Köprülü-kanyon", ro: "Canionul Köprülü", en: "Köprülü Canyon"},
+    image: "/poi-images/tr-koprulu-canyon-relief-v2.webp",
     description: {
       de: "Ein eindrucksvoller Canyon im Taurusgebirge, durch den ein wilder Fluss mit eiskaltem, smaragdgrünem Wasser strömt.",
       hu: "Lenyűgöző kanyon a Taurus-hegységben, amelyen egy sebes folyó áramlik át jéghideg, smaragdzöld vízzel.",
@@ -567,9 +550,8 @@ image: "/poi-images/tr-koprulu-canyon-relief-v2.webp"
     type: "mountain",
     parent: "TR-30",
     coords: [44.0222, 37.4917],
-    name: { de: "Cilo-Sat-Gebirge", hu: "Cilo-Sat-hegység", ro: "Munții Cilo-Sat", en: "Cilo-Sat Mountains",
-image: "/poi-images/tr-cilo-sat-mountains-relief-v2.webp"
-},
+    name: { de: "Cilo-Sat-Gebirge", hu: "Cilo-Sat-hegység", ro: "Munții Cilo-Sat", en: "Cilo-Sat Mountains"},
+    image: "/poi-images/tr-cilo-sat-mountains-relief-v2.webp",
     description: {
       de: "Ein extrem schroffes und vergletschertes Bergmassiv im äußersten Südosten der Türkei, nahe der Grenze zum Irak und Iran.",
       hu: "Rendkívül zord és eljegesedett hegység Törökország legdélkeletibb részén, Irak és Irán határának közelében.",
@@ -600,9 +582,8 @@ image: "/poi-images/tr-cilo-sat-mountains-relief-v2.webp"
     type: "plateau",
     parent: "TR-36",
     coords: [43.0000, 40.5000],
-    name: { de: "Erzurum-Kars-Plateau", hu: "Erzurum-Kars-fennsík", ro: "Podișul Erzurum-Kars", en: "Erzurum-Kars Plateau",
-image: "/poi-images/tr-erzurum-kars-plateau-relief-v2.webp"
-},
+    name: { de: "Erzurum-Kars-Plateau", hu: "Erzurum-Kars-fennsík", ro: "Podișul Erzurum-Kars", en: "Erzurum-Kars Plateau"},
+    image: "/poi-images/tr-erzurum-kars-plateau-relief-v2.webp",
     description: {
       de: "Ein hohes und raues Plateau im Nordosten der Türkei, das für seine eisigen und langen Winter berühmt ist.",
       hu: "Magas és zord fennsík Törökország északkeleti részén, amely jeges és hosszú teleiről híres.",
@@ -633,9 +614,8 @@ image: "/poi-images/tr-erzurum-kars-plateau-relief-v2.webp"
     type: "plateau",
     parent: "TR-63",
     coords: [39.0333, 36.8667],
-    name: { de: "Harran-Ebene", hu: "Harran-síkság", ro: "Câmpia Harran", en: "Harran Plain",
-image: "/poi-images/tr-harran-plain-relief-v2.webp"
-},
+    name: { de: "Harran-Ebene", hu: "Harran-síkság", ro: "Câmpia Harran", en: "Harran Plain"},
+    image: "/poi-images/tr-harran-plain-relief-v2.webp",
     description: {
       de: "Eine weite, fruchtbare Tiefebene im Südosten Anatoliens, die historisch zu den ältesten Siedlungsgebieten der Menschheit zählt.",
       hu: "Széles, termékeny alföld Délkelet-Anatóliában, amely történelmileg az emberiség legrégebbi települési területei közé tartozik.",

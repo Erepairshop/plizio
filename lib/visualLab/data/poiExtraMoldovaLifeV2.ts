@@ -5,9 +5,8 @@ export const moldovaLifeV2: POI[] = [
     id: "moldova-codru-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Naturreservat Codru", hu: "Codru Természetvédelmi Terület", ro: "Rezervația Științifică Codru", en: "Codru Scientific Reserve",
-image: "/poi-images/moldova-codru-reserve-life-v2.webp"
-},
+    name: { de: "Naturreservat Codru", hu: "Codru Természetvédelmi Terület", ro: "Rezervația Științifică Codru", en: "Codru Scientific Reserve"},
+    image: "/poi-images/moldova-codru-reserve-life-v2.webp",
     coords: [28.3842, 47.1025],
     coordinates: { lat: 47.1025, lng: 28.3842 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/moldova-codru-reserve-life-v2.webp"
     id: "moldova-padurea-domneasca-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Fürstlicher Wald", hu: "Királyi Erdő", ro: "Pădurea Domnească", en: "Royal Forest",
-image: "/poi-images/moldova-padurea-domneasca-life-v2.webp"
-},
+    name: { de: "Fürstlicher Wald", hu: "Királyi Erdő", ro: "Pădurea Domnească", en: "Royal Forest"},
+    image: "/poi-images/moldova-padurea-domneasca-life-v2.webp",
     coords: [27.2081, 47.6044],
     coordinates: { lat: 47.6044, lng: 27.2081 },
     description: {
@@ -76,9 +74,8 @@ image: "/poi-images/moldova-padurea-domneasca-life-v2.webp"
     id: "moldova-plaiul-fagului-life-v2",
     parent: "MD",
     type: "forest",
-    name: { de: "Buchenland Reservat", hu: "Bükkös-vidék Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Plaiul Fagului Reserve",
-image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"
-},
+    name: { de: "Buchenland Reservat", hu: "Bükkös-vidék Rezervátum", ro: "Rezervația Plaiul Fagului", en: "Plaiul Fagului Reserve"},
+    image: "/poi-images/moldova-plaiul-fagului-life-v2.webp",
     coords: [28.0255, 47.2842],
     coordinates: { lat: 47.2842, lng: 28.0255 },
     description: {
@@ -112,9 +109,8 @@ image: "/poi-images/moldova-plaiul-fagului-life-v2.webp"
     id: "moldova-prutul-de-jos-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Unterer Pruth Reservat", hu: "Alsó-Prut Rezervátum", ro: "Rezervația Prutul de Jos", en: "Lower Prut Reserve",
-image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"
-},
+    name: { de: "Unterer Pruth Reservat", hu: "Alsó-Prut Rezervátum", ro: "Rezervația Prutul de Jos", en: "Lower Prut Reserve"},
+    image: "/poi-images/moldova-prutul-de-jos-life-v2.webp",
     coords: [28.1511, 45.6028],
     coordinates: { lat: 45.6028, lng: 28.1511 },
     description: {
@@ -148,9 +144,8 @@ image: "/poi-images/moldova-prutul-de-jos-life-v2.webp"
     id: "moldova-iagorlic-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Wissenschaftliches Reservat Iagorlic", hu: "Iagorlîc Tudományos Rezervátum", ro: "Rezervația Științifică Iagorlîc", en: "Iagorlic Scientific Reserve",
-image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"
-},
+    name: { de: "Wissenschaftliches Reservat Iagorlic", hu: "Iagorlîc Tudományos Rezervátum", ro: "Rezervația Științifică Iagorlîc", en: "Iagorlic Scientific Reserve"},
+    image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp",
     coords: [29.1558, 47.3853],
     coordinates: { lat: 47.3853, lng: 29.1558 },
     description: {
@@ -184,9 +179,8 @@ image: "/poi-images/moldova-iagorlic-reserve-life-v2.webp"
     id: "moldova-chisinau-botanical-garden-life-v2",
     parent: "MD",
     type: "park",
-    name: { de: "Botanischer Garten Chișinău", hu: "Kisinyovi Botanikus Kert", ro: "Grădina Botanică din Chișinău", en: "Chișinău Botanical Garden",
-image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Chișinău", hu: "Kisinyovi Botanikus Kert", ro: "Grădina Botanică din Chișinău", en: "Chișinău Botanical Garden"},
+    image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp",
     coords: [28.8856, 46.9744],
     coordinates: { lat: 46.9744, lng: 28.8856 },
     description: {
@@ -220,9 +214,8 @@ image: "/poi-images/moldova-chisinau-botanical-garden-life-v2.webp"
     id: "moldova-chisinau-zoo-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Zoo Chișinău", hu: "Kisinyovi Állatkert", ro: "Grădina Zoologică din Chișinău", en: "Chișinău Zoo",
-image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Chișinău", hu: "Kisinyovi Állatkert", ro: "Grădina Zoologică din Chișinău", en: "Chișinău Zoo"},
+    image: "/poi-images/moldova-chisinau-zoo-life-v2.webp",
     coords: [28.8744, 46.9731],
     coordinates: { lat: 46.9731, lng: 28.8744 },
     description: {
@@ -256,9 +249,8 @@ image: "/poi-images/moldova-chisinau-zoo-life-v2.webp"
     id: "moldova-taul-park-life-v2",
     parent: "MD",
     type: "park",
-    name: { de: "Park von Țaul", hu: "Țaul-park", ro: "Parcul Țaul", en: "Taul Park",
-image: "/poi-images/moldova-taul-park-life-v2.webp"
-},
+    name: { de: "Park von Țaul", hu: "Țaul-park", ro: "Parcul Țaul", en: "Taul Park"},
+    image: "/poi-images/moldova-taul-park-life-v2.webp",
     coords: [27.6711, 48.2047],
     coordinates: { lat: 48.2047, lng: 27.6711 },
     description: {
@@ -292,9 +284,8 @@ image: "/poi-images/moldova-taul-park-life-v2.webp"
     id: "moldova-saharna-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Saharna", hu: "Saharna Tájvédelmi Körzet", ro: "Rezervația peisajistică Saharna", en: "Saharna Landscape Reserve",
-image: "/poi-images/moldova-saharna-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsreservat Saharna", hu: "Saharna Tájvédelmi Körzet", ro: "Rezervația peisajistică Saharna", en: "Saharna Landscape Reserve"},
+    image: "/poi-images/moldova-saharna-reserve-life-v2.webp",
     coords: [28.9667, 47.7011],
     coordinates: { lat: 47.7011, lng: 28.9667 },
     description: {
@@ -328,9 +319,8 @@ image: "/poi-images/moldova-saharna-reserve-life-v2.webp"
     id: "moldova-tipova-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Țîpova", hu: "Țîpova Tájvédelmi Körzet", ro: "Rezervația peisajistică Țîpova", en: "Tipova Landscape Reserve",
-image: "/poi-images/moldova-tipova-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsreservat Țîpova", hu: "Țîpova Tájvédelmi Körzet", ro: "Rezervația peisajistică Țîpova", en: "Tipova Landscape Reserve"},
+    image: "/poi-images/moldova-tipova-reserve-life-v2.webp",
     coords: [28.9833, 47.6042],
     coordinates: { lat: 47.6042, lng: 28.9833 },
     description: {
@@ -364,9 +354,8 @@ image: "/poi-images/moldova-tipova-reserve-life-v2.webp"
     id: "moldova-naslavcea-clisura-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Naslavcea-Bogen", hu: "Naslavcea-szoros", ro: "Clisura Naslavcea", en: "Naslavcea Gorges",
-image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"
-},
+    name: { de: "Naslavcea-Bogen", hu: "Naslavcea-szoros", ro: "Clisura Naslavcea", en: "Naslavcea Gorges"},
+    image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp",
     coords: [27.5847, 48.4556],
     coordinates: { lat: 48.4556, lng: 27.5847 },
     description: {
@@ -400,9 +389,8 @@ image: "/poi-images/moldova-naslavcea-clisura-life-v2.webp"
     id: "moldova-hundred-mounds-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "Hundred Mounds",
-image: "/poi-images/moldova-hundred-mounds-life-v2.webp"
-},
+    name: { de: "Hundert Hügel", hu: "Száz halom", ro: "Suta de Movile", en: "Hundred Mounds"},
+    image: "/poi-images/moldova-hundred-mounds-life-v2.webp",
     coords: [27.2333, 47.8167],
     coordinates: { lat: 47.8167, lng: 27.2333 },
     description: {
@@ -436,9 +424,8 @@ image: "/poi-images/moldova-hundred-mounds-life-v2.webp"
     id: "moldova-beleu-lake-life-v2",
     parent: "MD",
     type: "lake",
-    name: { de: "Beleu-See", hu: "Beleu-tó", ro: "Lacul Beleu", en: "Beleu Lake",
-image: "/poi-images/moldova-beleu-lake-life-v2.webp"
-},
+    name: { de: "Beleu-See", hu: "Beleu-tó", ro: "Lacul Beleu", en: "Beleu Lake"},
+    image: "/poi-images/moldova-beleu-lake-life-v2.webp",
     coords: [28.1567, 45.6111],
     coordinates: { lat: 45.6111, lng: 28.1567 },
     description: {
@@ -472,9 +459,8 @@ image: "/poi-images/moldova-beleu-lake-life-v2.webp"
     id: "moldova-manta-lake-life-v2",
     parent: "MD",
     type: "lake",
-    name: { de: "Manta-See", hu: "Manta-tó", ro: "Lacul Manta", en: "Manta Lake",
-image: "/poi-images/moldova-manta-lake-life-v2.webp"
-},
+    name: { de: "Manta-See", hu: "Manta-tó", ro: "Lacul Manta", en: "Manta Lake"},
+    image: "/poi-images/moldova-manta-lake-life-v2.webp",
     coords: [28.1756, 45.8233],
     coordinates: { lat: 45.8233, lng: 28.1756 },
     description: {
@@ -508,9 +494,8 @@ image: "/poi-images/moldova-manta-lake-life-v2.webp"
     id: "moldova-fetesti-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Reservat Fetești", hu: "Fetești Tájvédelmi Körzet", ro: "Rezervația peisajistică Fetești", en: "Fetesti Landscape Reserve",
-image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"
-},
+    name: { de: "Reservat Fetești", hu: "Fetești Tájvédelmi Körzet", ro: "Rezervația peisajistică Fetești", en: "Fetesti Landscape Reserve"},
+    image: "/poi-images/moldova-fetesti-reserve-life-v2.webp",
     coords: [27.1147, 48.1681],
     coordinates: { lat: 48.1681, lng: 27.1147 },
     description: {
@@ -544,9 +529,8 @@ image: "/poi-images/moldova-fetesti-reserve-life-v2.webp"
     id: "moldova-la-castel-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Landschaftsreservat La Castel", hu: "La Castel Tájvédelmi Körzet", ro: "Rezervația peisajistică La Castel", en: "La Castel Landscape Reserve",
-image: "/poi-images/moldova-la-castel-life-v2.webp"
-},
+    name: { de: "Landschaftsreservat La Castel", hu: "La Castel Tájvédelmi Körzet", ro: "Rezervația peisajistică La Castel", en: "La Castel Landscape Reserve"},
+    image: "/poi-images/moldova-la-castel-life-v2.webp",
     coords: [27.1517, 48.1514],
     coordinates: { lat: 48.1514, lng: 27.1517 },
     description: {
@@ -579,9 +563,8 @@ image: "/poi-images/moldova-la-castel-life-v2.webp"
     id: "moldova-rudi-arionesti-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Rudi-Arionești Reservat", hu: "Rudi-Arionești Tájvédelmi Körzet", ro: "Rezervația Rudi-Arionești", en: "Rudi-Arionesti Reserve",
-image: "/poi-images/moldova-rudi-arionesti-life-v2.webp"
-},
+    name: { de: "Rudi-Arionești Reservat", hu: "Rudi-Arionești Tájvédelmi Körzet", ro: "Rezervația Rudi-Arionești", en: "Rudi-Arionesti Reserve"},
+    image: "/poi-images/moldova-rudi-arionesti-life-v2.webp",
     coords: [27.8833, 48.3364],
     coordinates: { lat: 48.3364, lng: 27.8833 },
     description: {
@@ -614,9 +597,8 @@ image: "/poi-images/moldova-rudi-arionesti-life-v2.webp"
     id: "moldova-cosauti-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Reservat Cosăuți", hu: "Cosăuți Tájvédelmi Körzet", ro: "Rezervația peisajistică Cosăuți", en: "Cosauti Landscape Reserve",
-image: "/poi-images/moldova-cosauti-reserve-life-v2.webp"
-},
+    name: { de: "Reservat Cosăuți", hu: "Cosăuți Tájvédelmi Körzet", ro: "Rezervația peisajistică Cosăuți", en: "Cosauti Landscape Reserve"},
+    image: "/poi-images/moldova-cosauti-reserve-life-v2.webp",
     coords: [28.2833, 48.2333],
     coordinates: { lat: 48.2333, lng: 28.2833 },
     description: {
@@ -649,9 +631,8 @@ image: "/poi-images/moldova-cosauti-reserve-life-v2.webp"
     id: "moldova-trebujeni-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Trebujeni", hu: "Trebujeni Tájvédelmi Körzet", ro: "Rezervația peisajistică Trebujeni", en: "Trebujeni Landscape Reserve",
-image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsreservat Trebujeni", hu: "Trebujeni Tájvédelmi Körzet", ro: "Rezervația peisajistică Trebujeni", en: "Trebujeni Landscape Reserve"},
+    image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp",
     coords: [28.9733, 47.3117],
     coordinates: { lat: 47.3117, lng: 28.9733 },
     description: {
@@ -685,9 +666,8 @@ image: "/poi-images/moldova-trebujeni-reserve-life-v2.webp"
     id: "moldova-capriana-scoreni-life-v2",
     parent: "MD",
     type: "forest",
-    name: { de: "Landschaftsreservat Căpriana-Scoreni", hu: "Căpriana-Scoreni Tájvédelmi Körzet", ro: "Rezervația peisajistică Căpriana-Scoreni", en: "Capriana-Scoreni Landscape Reserve",
-image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"
-},
+    name: { de: "Landschaftsreservat Căpriana-Scoreni", hu: "Căpriana-Scoreni Tájvédelmi Körzet", ro: "Rezervația peisajistică Căpriana-Scoreni", en: "Capriana-Scoreni Landscape Reserve"},
+    image: "/poi-images/moldova-capriana-scoreni-life-v2.webp",
     coords: [28.5211, 47.1256],
     coordinates: { lat: 47.1256, lng: 28.5211 },
     description: {
@@ -721,9 +701,8 @@ image: "/poi-images/moldova-capriana-scoreni-life-v2.webp"
     id: "moldova-tipova-waterfalls-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Țîpova-Wasserfälle", hu: "Țîpova-vízesések", ro: "Cascadele Țîpova", en: "Tipova Waterfalls",
-image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"
-},
+    name: { de: "Țîpova-Wasserfälle", hu: "Țîpova-vízesések", ro: "Cascadele Țîpova", en: "Tipova Waterfalls"},
+    image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp",
     coords: [28.9917, 47.6083],
     coordinates: { lat: 47.6083, lng: 28.9917 },
     description: {
@@ -757,9 +736,8 @@ image: "/poi-images/moldova-tipova-waterfalls-life-v2.webp"
     id: "moldova-saharna-waterfalls-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Saharna-Wasserfälle", hu: "Saharna-vízesések", ro: "Cascadele Saharna", en: "Saharna Waterfalls",
-image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"
-},
+    name: { de: "Saharna-Wasserfälle", hu: "Saharna-vízesések", ro: "Cascadele Saharna", en: "Saharna Waterfalls"},
+    image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp",
     coords: [28.9611, 47.6953],
     coordinates: { lat: 47.6953, lng: 28.9611 },
     description: {
@@ -793,9 +771,8 @@ image: "/poi-images/moldova-saharna-waterfalls-life-v2.webp"
     id: "moldova-duruitoarea-gorges-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Schluchten von Duruitoarea Veche", hu: "Duruitoarea Veche-szurdok", ro: "Defileul Duruitoarea Veche", en: "Duruitoarea Veche Gorges",
-image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp"
-},
+    name: { de: "Schluchten von Duruitoarea Veche", hu: "Duruitoarea Veche-szurdok", ro: "Defileul Duruitoarea Veche", en: "Duruitoarea Veche Gorges"},
+    image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp",
     coords: [27.2611, 47.8864],
     coordinates: { lat: 47.8864, lng: 27.2611 },
     description: {
@@ -828,9 +805,8 @@ image: "/poi-images/moldova-duruitoarea-gorges-life-v2.webp"
     id: "moldova-butesti-reef-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Riff von Butești", hu: "Butești-zátony", ro: "Reciful Butești", en: "Butesti Reef",
-image: "/poi-images/moldova-butesti-reef-life-v2.webp"
-},
+    name: { de: "Riff von Butești", hu: "Butești-zátony", ro: "Reciful Butești", en: "Butesti Reef"},
+    image: "/poi-images/moldova-butesti-reef-life-v2.webp",
     coords: [27.3233, 47.7942],
     coordinates: { lat: 47.7942, lng: 27.3233 },
     description: {
@@ -864,9 +840,8 @@ image: "/poi-images/moldova-butesti-reef-life-v2.webp"
     id: "moldova-cobani-molla-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Stînca Mare bei Cobani", hu: "Cobani Nagy-szikla", ro: "Stînca Mare (Cobani)", en: "Great Rock of Cobani",
-image: "/poi-images/moldova-cobani-molla-life-v2.webp"
-},
+    name: { de: "Stînca Mare bei Cobani", hu: "Cobani Nagy-szikla", ro: "Stînca Mare (Cobani)", en: "Great Rock of Cobani"},
+    image: "/poi-images/moldova-cobani-molla-life-v2.webp",
     coords: [27.3167, 47.7711],
     coordinates: { lat: 47.7711, lng: 27.3167 },
     description: {
@@ -900,9 +875,8 @@ image: "/poi-images/moldova-cobani-molla-life-v2.webp"
     id: "moldova-dendrarium-chisinau-life-v2",
     parent: "MD",
     type: "park",
-    name: { de: "Dendrarium-Park Chișinău", hu: "Kisinyovi Dendrárium", ro: "Parcul Dendrariu din Chișinău", en: "Dendrarium Park Chișinău",
-image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"
-},
+    name: { de: "Dendrarium-Park Chișinău", hu: "Kisinyovi Dendrárium", ro: "Parcul Dendrariu din Chișinău", en: "Dendrarium Park Chișinău"},
+    image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp",
     coords: [28.8111, 47.0311],
     coordinates: { lat: 47.0311, lng: 28.8111 },
     description: {
@@ -936,9 +910,8 @@ image: "/poi-images/moldova-dendrarium-chisinau-life-v2.webp"
     id: "moldova-ivancea-reserve-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Landschaftsreservat Ivancea", hu: "Ivancea Tájvédelmi Körzet", ro: "Rezervația peisajistică Ivancea", en: "Ivancea Landscape Reserve",
-image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"
-},
+    name: { de: "Landschaftsreservat Ivancea", hu: "Ivancea Tájvédelmi Körzet", ro: "Rezervația peisajistică Ivancea", en: "Ivancea Landscape Reserve"},
+    image: "/poi-images/moldova-ivancea-reserve-life-v2.webp",
     coords: [28.8556, 47.2917],
     coordinates: { lat: 47.2917, lng: 28.8556 },
     description: {
@@ -972,9 +945,8 @@ image: "/poi-images/moldova-ivancea-reserve-life-v2.webp"
     id: "moldova-lower-dniester-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Park",
-image: "/poi-images/moldova-lower-dniester-life-v2.webp"
-},
+    name: { de: "Nationalpark Unterer Dnister", hu: "Alsó-Dnyeszter Nemzeti Park", ro: "Parcul Național Nistrul de Jos", en: "Lower Dniester National Park"},
+    image: "/poi-images/moldova-lower-dniester-life-v2.webp",
     coords: [29.8056, 46.5028],
     coordinates: { lat: 46.5028, lng: 29.8056 },
     description: {
@@ -1008,9 +980,8 @@ image: "/poi-images/moldova-lower-dniester-life-v2.webp"
     id: "moldova-emil-racovita-cave-life-v2",
     parent: "MD",
     type: "wildlife",
-    name: { de: "Emil-Racoviță-Höhle", hu: "Emil Racoviță-barlang", ro: "Peștera Emil Racoviță", en: "Emil Racovita Cave",
-image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"
-},
+    name: { de: "Emil-Racoviță-Höhle", hu: "Emil Racoviță-barlang", ro: "Peștera Emil Racoviță", en: "Emil Racovita Cave"},
+    image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp",
     coords: [26.8011, 48.2753],
     coordinates: { lat: 48.2753, lng: 26.8011 },
     description: {
@@ -1044,9 +1015,8 @@ image: "/poi-images/moldova-emil-racovita-cave-life-v2.webp"
     id: "moldova-garbovat-forest-life-v2",
     parent: "MD",
     type: "forest",
-    name: { de: "Waldreservat Gîrbovăț", hu: "Gîrbovăț-erdő", ro: "Rezervația peisajistică Gîrbovăț", en: "Garbovat Forest Reserve",
-image: "/poi-images/moldova-garbovat-forest-life-v2.webp"
-},
+    name: { de: "Waldreservat Gîrbovăț", hu: "Gîrbovăț-erdő", ro: "Rezervația peisajistică Gîrbovăț", en: "Garbovat Forest Reserve"},
+    image: "/poi-images/moldova-garbovat-forest-life-v2.webp",
     coords: [29.3511, 46.8517],
     coordinates: { lat: 46.8517, lng: 29.3511 },
     description: {
@@ -1073,6 +1043,39 @@ image: "/poi-images/moldova-garbovat-forest-life-v2.webp"
       hu: ["Teljes területe 2266 hektár", "Értékes tölgyállományt tartalmaz", "Őzeknek és fácánoknak ad otthont", "Anenii Noi közelében található"],
       ro: ["Suprafața totală de 2266 hectare", "Include arborete valoroase de stejar", "Adăpostește căprioare și fazani", "Situată în apropiere de Anenii Noi"],
       en: ["Total area of 2266 hectares", "Features valuable oak stands", "Home to roe deer and pheasants", "Located near Anenii Noi"],
+    },
+  }
+,
+  {
+    id: "moldova-prut-river-meadows-life-v2",
+    type: "wildlife",
+    parent: "MD",
+    name: { de: "Prut-Auen", hu: "Prut-menti ártér", ro: "Lunca Prutului", en: "Prut River Meadows" },
+    coordinates: { lat: 46.125, lng: 28.183 },
+    description: {
+      de: "Die Prut-Auen bilden ein bedeutendes Feuchtgebiet entlang des unteren Prut-Flusses im Südwesten Moldaus. Das Reservat bietet Lebensraum für zahlreiche Zugvogelarten und Wasserbewohner.",
+      hu: "A Prut-menti ártér egy jelentős vizes élőhely a délnyugat-moldovai alsó Prut-folyó mentén. A rezervátum számos költözőmadárfajnak és vízi élőlénynek biztosít élőhelyet.",
+      ro: "Lunca Prutului reprezintă o zonă umedă importantă de-a lungul cursului inferior al râului Prut în sud-vestul Moldovei. Rezervația oferă habitat pentru numeroase specii de păsări migratoare și viețuitoare acvatice.",
+      en: "The Prut River Meadows form an important wetland along the lower Prut river in southwestern Moldova. The reserve provides habitat for numerous migratory bird species and aquatic organisms.",
+    },
+    facts: {
+      de: ["Gehört zum Biosphärenreservat Prutul de Jos.", "Wichtiges Rastgebiet für Zugvögel.", "Umfasst ausgedehnte Schilfgebiete und Auenwälder.", "Wurde 1991 als wissenschaftliches Schutzgebiet anerkannt."],
+      hu: ["A Prutul de Jos bioszféra-rezervátum része.", "Fontos pihenőhely a költöző madarak számára.", "Kiterjedt nádasokat és ártéri erdőket foglal magában.", "1991-ben nyilvánították tudományos védett területté."],
+      ro: ["Face parte din rezervația biosferei Prutul de Jos.", "Zonă importantă de popas pentru păsările migratoare.", "Include zone extinse de stufăriș și păduri de luncă.", "Recunoscută ca rezervație științifică în anul 1991."],
+      en: ["Part of the Prutul de Jos Biosphere Reserve.", "Important stopover area for migratory birds.", "Includes extensive reed beds and floodplain forests.", "Recognized as a scientific reserve in 1991."],
+    },
+    imageHint: "Prut river landscape with reeds and birds",
+    descriptionAdvanced: {
+      de: "Die Prut-Wiesen entlang des Flusses Prut an der Grenze zu Rumänien sind ein wichtiges Ökosystem in Moldawien. Die Auenlandschaft erstreckt sich über rund 20 Kilometer Länge und umfasst Feuchtgebiete, Überschwemmungswiesen und Uferwälder. Sie bieten Lebensraum für zahlreiche Vogelarten, darunter Reiher und Störche. Die Wiesen werden traditionell als Weideland genutzt. Der Prut selbst ist etwa 953 km lang, der moldauische Abschnitt umfasst ca. 695 km. Die Region ist Teil des Prut-Unterlauf-Schutzgebiets.",
+      hu: "A Prut folyó menti rétek a román határ mentén fontos ökoszisztémát alkotnak Moldovában. Az ártéri táj mintegy 20 km hosszan húzódik, vizes élőhelyekkel, ártéri rétekkel és ligeterdőkkel. Számos madárfajnak ad otthont, például gémeknek és gólyáknak. A réteket hagyományosan legeltetésre használják. A Prut folyó hossza kb. 953 km, a moldovai szakasz kb. 695 km. A régió a Prut-alsó szakasz védett terület része.",
+      ro: "Pajiștile râului Prut de-a lungul graniței cu România reprezintă un ecosistem important în Republica Moldova. Peisajul de luncă se întinde pe aproximativ 20 de kilometri, incluzând zone umede, pajiști inundabile și păduri de luncă. Oferă habitat pentru numeroase specii de păsări, cum ar fi stârci și berze. Pajiștile sunt utilizate tradițional pentru pășunat. Prutul are o lungime de aproximativ 953 km, iar sectorul moldovenesc este de circa 695 km. Zona face parte din aria protejată a cursului inferior al Prutului.",
+      en: "The Prut River meadows along the border with Romania are an important ecosystem in Moldova. The floodplain landscape stretches about 20 kilometers, including wetlands, flood meadows, and riparian forests. They provide habitat for numerous bird species such as herons and storks. The meadows are traditionally used for grazing. The Prut River is about 953 km long, with the Moldovan section covering about 695 km. The area is part of the Lower Prut protected area.",
+    },
+    factsAdvanced: {
+      de: ["Die Prut-Wiesen erstrecken sich über etwa 20 km Länge.", "Der Prut ist insgesamt 953 km lang.", "Der moldauische Abschnitt ist ca. 695 km lang.", "Die Auen umfassen Feuchtgebiete und Überschwemmungswiesen.", "Die Wiesen bieten Lebensraum für Reiher und Störche.", "Die Region ist ein Schutzgebiet."],
+      hu: ["A Prut-rétek hossza kb. 20 km.", "A Prut folyó teljes hossza 953 km.", "A moldovai szakasz kb. 695 km.", "Az ártér vizes élőhelyeket és ártéri réteket foglal magában.", "A rétek gémek és gólyák élőhelyei.", "A terület védett övezet."],
+      ro: ["Pajiștile Prutului se întind pe aproximativ 20 km.", "Lungimea totală a Prutului este de 953 km.", "Sectorul moldovenesc are circa 695 km.", "Lunca include zone umede și pajiști inundabile.", "Pajiștile oferă habitat pentru stârci și berze.", "Zona este o arie protejată."],
+      en: ["The Prut meadows stretch about 20 km.", "The Prut River total length is 953 km.", "The Moldovan section is about 695 km.", "The floodplain includes wetlands and flood meadows.", "The meadows provide habitat for herons and storks.", "The area is a protected zone."],
     },
   }
 ];

@@ -11,9 +11,8 @@ export const poiExtraGambiaLandmarksV2: POI[] = [
       de: "Arch 22",
       hu: "22-es diadalív",
       ro: "Arcul 22",
-      en: "Arch 22",
-image: "/poi-images/arch-22-landmarks-v2.webp"
-},
+      en: "Arch 22"},
+    image: "/poi-images/arch-22-landmarks-v2.webp",
     description: {
       de: "Das markante Eingangstor zur Hauptstadt Banjul erinnert an den Staatsstreich vom 22. Juli 1994.",
       hu: "Banjul főváros jellegzetes bejárati kapuja, amely az 1994. július 22-i államcsínynek állít emléket.",
@@ -50,9 +49,8 @@ image: "/poi-images/arch-22-landmarks-v2.webp"
       de: "Steinkreise von Wassu",
       hu: "Wassu kőkörök",
       ro: "Cercurile de piatră de la Wassu",
-      en: "Wassu Stone Circles",
-image: "/poi-images/wassu-stone-circles-landmarks-v2.webp"
-},
+      en: "Wassu Stone Circles"},
+    image: "/poi-images/wassu-stone-circles-landmarks-v2.webp",
     description: {
       de: "Ein UNESCO-Welterbe, das aus antiken Megalithformationen besteht, die als Grabstätten dienten.",
       hu: "UNESCO világörökségi helyszín, amely ősi megalitikus formációkból áll, és temetkezési helyként szolgált.",
@@ -89,9 +87,8 @@ image: "/poi-images/wassu-stone-circles-landmarks-v2.webp"
       de: "Fort Bullen",
       hu: "Bullen-erőd",
       ro: "Fort Bullen",
-      en: "Fort Bullen",
-image: "/poi-images/fort-bullen-landmarks-v2.webp"
-},
+      en: "Fort Bullen"},
+    image: "/poi-images/fort-bullen-landmarks-v2.webp",
     description: {
       de: "Eine historische britische Befestigungsanlage in Barra, die zur Bekämpfung des illegalen Sklavenhandels errichtet wurde.",
       hu: "Történelmi brit erődítmény Barrában, amelyet az illegális rabszolga-kereskedelem elleni küzdelemre építettek.",
@@ -128,9 +125,8 @@ image: "/poi-images/fort-bullen-landmarks-v2.webp"
       de: "Senegambia-Brücke",
       hu: "Szenegambia-híd",
       ro: "Podul Senegambia",
-      en: "Senegambia Bridge",
-image: "/poi-images/senegambia-bridge-landmarks-v2.webp"
-},
+      en: "Senegambia Bridge"},
+    image: "/poi-images/senegambia-bridge-landmarks-v2.webp",
     description: {
       de: "Auch als Trans-Gambia-Brücke bekannt, verbindet sie das Nord- und Südufer des Gambia-Flusses.",
       hu: "Más néven Trans-Gambia-híd, amely összeköti a Gambia-folyó északi és déli partját.",
@@ -165,9 +161,8 @@ image: "/poi-images/senegambia-bridge-landmarks-v2.webp"
       de: "Independence Stadium",
       hu: "Függetlenségi Stadion",
       ro: "Stadionul Independenței",
-      en: "Independence Stadium",
-image: "/poi-images/independence-stadium-landmarks-v2.webp"
-},
+      en: "Independence Stadium"},
+    image: "/poi-images/independence-stadium-landmarks-v2.webp",
     description: {
       de: "Das Nationalstadion Gambias in Bakau, das für Fußballspiele, Konzerte und politische Veranstaltungen genutzt wird.",
       hu: "Gambia nemzeti stadionja Bakauban, amelyet futballmérkőzésekre, koncertekre és politikai rendezvényekre használnak.",
@@ -202,9 +197,8 @@ image: "/poi-images/independence-stadium-landmarks-v2.webp"
       de: "Heiliges Krokodilbecken von Kachikally",
       hu: "Kachikally szent krokodilmedence",
       ro: "Bazinul sacru cu crocodili Kachikally",
-      en: "Kachikally Sacred Crocodile Pool",
-image: "/poi-images/kachikally-pool-landmarks-v2.webp"
-},
+      en: "Kachikally Sacred Crocodile Pool"},
+    image: "/poi-images/kachikally-pool-landmarks-v2.webp",
     description: {
       de: "Ein jahrhundertealtes heiliges Becken in Bakau, das für seine zahmen Krokodile und Fruchtbarkeitsrituale bekannt ist.",
       hu: "Évszázados szent medence Bakauban, amely szelíd krokodiljairól és termékenységi rituáléiról ismert.",
@@ -239,9 +233,8 @@ image: "/poi-images/kachikally-pool-landmarks-v2.webp"
       de: "König-Fahad-Moschee",
       hu: "Fahd király mecset",
       ro: "Moscheea Regele Fahad",
-      en: "King Fahad Mosque",
-image: "/poi-images/king-fahad-mosque-landmarks-v2.webp"
-},
+      en: "King Fahad Mosque"},
+    image: "/poi-images/king-fahad-mosque-landmarks-v2.webp",
     description: {
       de: "Die größte Moschee in Banjul und ein bedeutendes religiöses Wahrzeichen der Hauptstadt.",
       hu: "Banjul legnagyobb mecsetje és a főváros jelentős vallási jelképe.",
@@ -276,9 +269,8 @@ image: "/poi-images/king-fahad-mosque-landmarks-v2.webp"
       de: "St. Joseph's Kathedrale",
       hu: "Szent József-székesegyház",
       ro: "Catedrala Sfântul Iosif",
-      en: "St. Joseph's Cathedral",
-image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp"
-},
+      en: "St. Joseph's Cathedral"},
+    image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp",
     description: {
       de: "Die wichtigste katholische Kirche in Banjul, die für ihre koloniale Architektur und Glasmalereien bekannt ist.",
       hu: "Banjul legfontosabb katolikus temploma, amely koloniális építészetéről és üvegfestményeiről ismert.",
@@ -313,9 +305,8 @@ image: "/poi-images/st-josephs-cathedral-landmarks-v2.webp"
       de: "Albert Market",
       hu: "Albert-piac",
       ro: "Piața Albert",
-      en: "Albert Market",
-image: "/poi-images/albert-market-landmarks-v2.webp"
-},
+      en: "Albert Market"},
+    image: "/poi-images/albert-market-landmarks-v2.webp",
     description: {
       de: "Ein lebhafter und farbenfroher Markt in Banjul, auf dem alles von Lebensmitteln bis zu lokalem Handwerk verkauft wird.",
       hu: "Nyüzsgő és színes piac Banjulban, ahol az élelmiszerektől a helyi kézműves termékekig minden kapható.",
@@ -350,9 +341,8 @@ image: "/poi-images/albert-market-landmarks-v2.webp"
       de: "State House",
       hu: "Elnöki palota",
       ro: "Palatul Prezidențial",
-      en: "State House",
-image: "/poi-images/state-house-gambia-landmarks-v2.webp"
-},
+      en: "State House"},
+    image: "/poi-images/state-house-gambia-landmarks-v2.webp",
     description: {
       de: "Der offizielle Sitz und Arbeitsplatz des Präsidenten von Gambia, ein historisches Gebäude im Kolonialstil.",
       hu: "Gambia elnökének hivatalos rezidenciája és munkahelye, egy történelmi koloniális stílusú épület.",
@@ -387,9 +377,8 @@ image: "/poi-images/state-house-gambia-landmarks-v2.webp"
       de: "Gambisches Nationalmuseum",
       hu: "Gambiai Nemzeti Múzeum",
       ro: "Muzeul Național al Gambiei",
-      en: "National Museum of The Gambia",
-image: "/poi-images/national-museum-gambia-landmarks-v2.webp"
-},
+      en: "National Museum of The Gambia"},
+    image: "/poi-images/national-museum-gambia-landmarks-v2.webp",
     description: {
       de: "Ein Museum in Banjul, das die Geschichte, Kultur und Ethnographie Gambias durch verschiedene Exponate präsentiert.",
       hu: "Banjuli múzeum, amely különféle kiállításokon keresztül mutatja be Gambia történelmét, kultúráját és etnográfiáját.",
@@ -424,9 +413,8 @@ image: "/poi-images/national-museum-gambia-landmarks-v2.webp"
       de: "Platz des 22. Juli",
       hu: "Július 22. tér",
       ro: "Piața 22 Iulie",
-      en: "July 22nd Square",
-image: "/poi-images/july-22-square-landmarks-v2.webp"
-},
+      en: "July 22nd Square"},
+    image: "/poi-images/july-22-square-landmarks-v2.webp",
     description: {
       de: "Ein zentraler öffentlicher Platz in Banjul, der für nationale Feiern und Paraden genutzt wird.",
       hu: "Központi nyilvános tér Banjulban, amelyet nemzeti ünnepségek és parádék alkalmával használnak.",
@@ -461,9 +449,8 @@ image: "/poi-images/july-22-square-landmarks-v2.webp"
       de: "Denton-Brücke",
       hu: "Denton-híd",
       ro: "Podul Denton",
-      en: "Denton Bridge",
-image: "/poi-images/denton-bridge-landmarks-v2.webp"
-},
+      en: "Denton Bridge"},
+    image: "/poi-images/denton-bridge-landmarks-v2.webp",
     description: {
       de: "Eine strategische Brücke, die die Insel St. Mary mit dem Festland verbindet und die einzige Landverbindung nach Banjul darstellt.",
       hu: "Stratégiai híd, amely összeköti a Szent Mária-szigetet a szárazfölddel, és az egyetlen szárazföldi utat jelenti Banjulba.",
@@ -498,9 +485,8 @@ image: "/poi-images/denton-bridge-landmarks-v2.webp"
       de: "Tanji Village Museum",
       hu: "Tanji falumúzeum",
       ro: "Muzeul Satului Tanji",
-      en: "Tanje Village Museum",
-image: "/poi-images/tanji-village-museum-landmarks-v2.webp"
-},
+      en: "Tanje Village Museum"},
+    image: "/poi-images/tanji-village-museum-landmarks-v2.webp",
     description: {
       de: "Ein Freilichtmuseum, das das traditionelle gambische Dorfleben, Handwerk und Naturgeschichte zeigt.",
       hu: "Szabadtéri múzeum, amely a hagyományos gambiai falusi életet, kézművességet és természetrajzot mutatja be.",
@@ -535,9 +521,8 @@ image: "/poi-images/tanji-village-museum-landmarks-v2.webp"
       de: "Steinkreise von Kerbatch",
       hu: "Kerbatch kőkörök",
       ro: "Cercurile de piatră de la Kerbatch",
-      en: "Kerbatch Stone Circles",
-image: "/poi-images/kerbatch-stone-circles-landmarks-v2.webp"
-},
+      en: "Kerbatch Stone Circles"},
+    image: "/poi-images/kerbatch-stone-circles-landmarks-v2.webp",
     description: {
       de: "Ein weiterer bedeutender Megalith-Standort in Gambia, der Teil des UNESCO-Welterbes ist.",
       hu: "Egy másik jelentős megalitikus helyszín Gambiában, amely az UNESCO világörökség része.",
@@ -572,9 +557,8 @@ image: "/poi-images/kerbatch-stone-circles-landmarks-v2.webp"
       de: "Mungo-Park-Denkmal",
       hu: "Mungo Park-emlékmű",
       ro: "Monumentul Mungo Park",
-      en: "Mungo Park Memorial",
-image: "/poi-images/mungo-park-memorial-landmarks-v2.webp"
-},
+      en: "Mungo Park Memorial"},
+    image: "/poi-images/mungo-park-memorial-landmarks-v2.webp",
     description: {
       de: "Ein Denkmal in Janjanbureh, das dem schottischen Entdecker Mungo Park gewidmet ist, der den Niger erforschte.",
       hu: "Mungo Park skót felfedezőnek szentelt emlékmű Janjanburehben, aki a Niger folyót kutatta.",
@@ -609,9 +593,8 @@ image: "/poi-images/mungo-park-memorial-landmarks-v2.webp"
       de: "Freiheitsbaum von Janjanbureh",
       hu: "Janjanbureh szabadságfája",
       ro: "Copacul Libertății din Janjanbureh",
-      en: "Freedom Tree of Janjanbureh",
-image: "/poi-images/freedom-tree-janjanbureh-landmarks-v2.webp"
-},
+      en: "Freedom Tree of Janjanbureh"},
+    image: "/poi-images/freedom-tree-janjanbureh-landmarks-v2.webp",
     description: {
       de: "Ein historisches Symbol in Janjanbureh, das den Ort markiert, an dem befreite Sklaven ihre Freiheit erlangten.",
       hu: "Történelmi szimbólum Janjanburehben, amely azt a helyet jelöli, ahol a felszabadított rabszolgák elnyerték szabadságukat.",
@@ -646,9 +629,8 @@ image: "/poi-images/freedom-tree-janjanbureh-landmarks-v2.webp"
       de: "African Heritage Museum",
       hu: "Afrikai Örökség Múzeuma",
       ro: "Muzeul Patrimoniului African",
-      en: "African Heritage Museum",
-image: "/poi-images/african-heritage-museum-landmarks-v2.webp"
-},
+      en: "African Heritage Museum"},
+    image: "/poi-images/african-heritage-museum-landmarks-v2.webp",
     description: {
       de: "Ein Museum in Bakau, das eine beeindruckende Sammlung afrikanischer Kunst, Masken und Statuen beherbergt.",
       hu: "Bakauban található múzeum, amely afrikai művészeti alkotások, maszkok és szobrok lenyűgöző gyűjteményének ad otthont.",
@@ -683,9 +665,8 @@ image: "/poi-images/african-heritage-museum-landmarks-v2.webp"
       de: "Sir Dawda Kairaba Jawara Konferenzzentrum",
       hu: "Sir Dawda Kairaba Jawara Konferencia-központ",
       ro: "Centrul de Conferințe Sir Dawda Kairaba Jawara",
-      en: "Sir Dawda Kairaba Jawara Conference Center",
-image: "/poi-images/sir-dawda-conference-center-landmarks-v2.webp"
-},
+      en: "Sir Dawda Kairaba Jawara Conference Center"},
+    image: "/poi-images/sir-dawda-conference-center-landmarks-v2.webp",
     description: {
       de: "Ein hochmodernes internationales Konferenzzentrum in Bijilo, das für Gipfeltreffen und Großveranstaltungen genutzt wird.",
       hu: "Ultramodern nemzetközi konferencia-központ Bijilóban, amelyet csúcstalálkozókra és nagyszabású rendezvényekre használnak.",
@@ -720,9 +701,8 @@ image: "/poi-images/sir-dawda-conference-center-landmarks-v2.webp"
       de: "Fort Louvel",
       hu: "Louvel-erőd",
       ro: "Fort Louvel",
-      en: "Fort Louvel",
-image: "/poi-images/fort-louvel-landmarks-v2.webp"
-},
+      en: "Fort Louvel"},
+    image: "/poi-images/fort-louvel-landmarks-v2.webp",
     description: {
       de: "Die Überreste einer kleinen Befestigung in Banjul, die während der Kolonialzeit zum Schutz der Stadt errichtet wurde.",
       hu: "Egy kis erődítmény maradványai Banjulban, amelyet a gyarmati korszakban építettek a város védelmére.",
@@ -757,9 +737,8 @@ image: "/poi-images/fort-louvel-landmarks-v2.webp"
       de: "Historische Stätte Albreda",
       hu: "Albreda történelmi helyszín",
       ro: "Situl istoric Albreda",
-      en: "Albreda Historical Site",
-image: "/poi-images/albarda-historic-site-landmarks-v2.webp"
-},
+      en: "Albreda Historical Site"},
+    image: "/poi-images/albarda-historic-site-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliger französischer Handelsposten am Nordufer des Flusses, bekannt für seine Rolle in der Kolonialgeschichte.",
       hu: "Egykori francia kereskedelmi állomás a folyó északi partján, amely a gyarmati történelemben betöltött szerepéről ismert.",
@@ -794,9 +773,8 @@ image: "/poi-images/albarda-historic-site-landmarks-v2.webp"
       de: "Dorf Juffureh",
       hu: "Juffureh falu",
       ro: "Satul Juffureh",
-      en: "Juffureh Village",
-image: "/poi-images/juffureh-village-landmarks-v2.webp"
-},
+      en: "Juffureh Village"},
+    image: "/poi-images/juffureh-village-landmarks-v2.webp",
     description: {
       de: "Das Dorf, das durch Alex Haleys Roman 'Roots' als Heimat von Kunta Kinte weltweit bekannt wurde.",
       hu: "A falu, amely Alex Haley 'Gyökerek' című regénye révén Kunta Kinte szülőhelyeként vált világszerte ismertté.",
@@ -831,9 +809,8 @@ image: "/poi-images/juffureh-village-landmarks-v2.webp"
       de: "Heiliges Krokodilbecken von Berending",
       hu: "Berendingi szent krokodilmedence",
       ro: "Bazinul sacru cu crocodili Berending",
-      en: "Berending Sacred Crocodile Pool",
-image: "/poi-images/berending-crocodile-pool-landmarks-v2.webp"
-},
+      en: "Berending Sacred Crocodile Pool"},
+    image: "/poi-images/berending-crocodile-pool-landmarks-v2.webp",
     description: {
       de: "Ein heiliger Ort im North Bank District, der für seine religiöse Bedeutung und seine Krokodile bekannt ist.",
       hu: "Szent hely az északi parton, amely vallási jelentőségéről és krokodiljairól ismert.",
@@ -868,9 +845,8 @@ image: "/poi-images/berending-crocodile-pool-landmarks-v2.webp"
       de: "Heiliges Krokodilbecken von Folonko",
       hu: "Folonko szent krokodilmedence",
       ro: "Bazinul sacru cu crocodili Folonko",
-      en: "Folonko Sacred Crocodile Pool",
-image: "/poi-images/folonko-crocodile-pool-landmarks-v2.webp"
-},
+      en: "Folonko Sacred Crocodile Pool"},
+    image: "/poi-images/folonko-crocodile-pool-landmarks-v2.webp",
     description: {
       de: "Ein spiritueller Ort in Kartong, der eine zentrale Rolle in der lokalen Kultur und Tradition spielt.",
       hu: "Spirituális hely Kartongban, amely központi szerepet játszik a helyi kultúrában és hagyományokban.",
@@ -905,9 +881,8 @@ image: "/poi-images/folonko-crocodile-pool-landmarks-v2.webp"
       de: "Sanneh-Mentering Kultstätte",
       hu: "Sanneh-Mentering kultuszhely",
       ro: "Locul sacru Sanneh-Mentering",
-      en: "Sanneh-Mentering Holy Site",
-image: "/poi-images/sanneh-mentering-landmarks-v2.webp"
-},
+      en: "Sanneh-Mentering Holy Site"},
+    image: "/poi-images/sanneh-mentering-landmarks-v2.webp",
     description: {
       de: "Ein heiliger Wald und eine Kultstätte in Brufut, die von vielen Gambiern für Gebete besucht wird.",
       hu: "Szent erdő és kultuszhely Brufutban, amelyet sok gambiai látogat imádkozás céljából.",

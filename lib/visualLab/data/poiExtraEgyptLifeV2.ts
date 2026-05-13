@@ -7,9 +7,8 @@ export const poiExtraEgyptLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "EG-RS",
     coords: [36.30, 22.20],
-    name: { de: "Gebel Elba Nationalpark", hu: "Gebel Elba Nemzeti Park", ro: "Parcul Național Gebel Elba", en: "Gebel Elba National Park",
-image: "/poi-images/gabalba-national-park-life-v2.webp"
-},
+    name: { de: "Gebel Elba Nationalpark", hu: "Gebel Elba Nemzeti Park", ro: "Parcul Național Gebel Elba", en: "Gebel Elba National Park"},
+    image: "/poi-images/gabalba-national-park-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet mit einzigartiger Flora und Fauna.", hu: "Jelentős védett terület egyedülálló növény- és állatvilággal.", ro: "O arie protejată semnificativă cu o floră și faună unică.", en: "A significant protected area with unique flora and fauna." },
     facts: {
       de: ["Berühmte Wildtierbeobachtung", "Nebeloasen"],
@@ -34,9 +33,8 @@ image: "/poi-images/gabalba-national-park-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-FYM",
     coords: [30.40, 29.10],
-    name: { de: "Wadi El Rayan Schutzgebiet", hu: "Wadi El Rayan Természetvédelmi Terület", ro: "Rezervația Wadi El Rayan", en: "Wadi El Rayan Protected Area",
-image: "/poi-images/wadial-rayan-life-v2.webp"
-},
+    name: { de: "Wadi El Rayan Schutzgebiet", hu: "Wadi El Rayan Természetvédelmi Terület", ro: "Rezervația Wadi El Rayan", en: "Wadi El Rayan Protected Area"},
+    image: "/poi-images/wadial-rayan-life-v2.webp",
     description: { de: "Lebensraum für die gefährdete Dünengazelle.", hu: "Élőhely a veszélyeztetett dorkás gazella számára.", ro: "Habitat pentru gazela dorcas pe cale de dispariție.", en: "Habitat for the endangered dorcas gazelle." },
     facts: {
       de: ["Dünengazellen", "Wichtige Vogelrastplätze"],
@@ -61,9 +59,8 @@ image: "/poi-images/wadial-rayan-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-ASN",
     coords: [32.88, 24.08],
-    name: { de: "Kitchener-Insel Botanischer Garten", hu: "Kitchener-sziget Botanikus Kert", ro: "Grădina Botanică de pe Insula Kitchener", en: "Kitchener's Island Botanical Garden",
-image: "/poi-images/aswan-botanical-life-v2.webp"
-},
+    name: { de: "Kitchener-Insel Botanischer Garten", hu: "Kitchener-sziget Botanikus Kert", ro: "Grădina Botanică de pe Insula Kitchener", en: "Kitchener's Island Botanical Garden"},
+    image: "/poi-images/aswan-botanical-life-v2.webp",
     description: { de: "Ein üppiger Garten auf einer Nilinsel in Assuan.", hu: "Dús kert egy nílusi szigeten, Asszuanban.", ro: "O grădină luxuriantă pe o insulă de pe Nil în Assuan.", en: "A lush garden on a Nile island in Aswan." },
     facts: {
       de: ["Exotische Pflanzen", "Perfekt für Kinder"],
@@ -88,9 +85,8 @@ image: "/poi-images/aswan-botanical-life-v2.webp"
     type: "agriculture",
     parent: "EG-C",
     coords: [31.00, 30.50],
-    name: { de: "Nildelta Landwirtschaftsregion", hu: "Nílus-delta mezőgazdasági régió", ro: "Regiunea agricolă a Deltei Nilului", en: "Nile Delta Agricultural Region",
-image: "/poi-images/nile-delta-agriculture-life-v2.webp"
-},
+    name: { de: "Nildelta Landwirtschaftsregion", hu: "Nílus-delta mezőgazdasági régió", ro: "Regiunea agricolă a Deltei Nilului", en: "Nile Delta Agricultural Region"},
+    image: "/poi-images/nile-delta-agriculture-life-v2.webp",
     description: { de: "Das Herz der ägyptischen Landwirtschaft.", hu: "Az egyiptomi mezőgazdaság szíve.", ro: "Inima agriculturii egiptene.", en: "The heart of Egyptian agriculture." },
     facts: {
       de: ["Baumwollanbau", "Reis- und Weizenfelder"],
@@ -115,9 +111,8 @@ image: "/poi-images/nile-delta-agriculture-life-v2.webp"
     type: "agriculture",
     parent: "EG-MT",
     coords: [25.50, 29.20],
-    name: { de: "Siwa Dattelplantagen", hu: "Siwa datolyaplantázsok", ro: "Plantațiile de curmali Siwa", en: "Siwa Date Plantations",
-image: "/poi-images/siwa-palm-agriculture-life-v2.webp"
-},
+    name: { de: "Siwa Dattelplantagen", hu: "Siwa datolyaplantázsok", ro: "Plantațiile de curmali Siwa", en: "Siwa Date Plantations"},
+    image: "/poi-images/siwa-palm-agriculture-life-v2.webp",
     description: { de: "Berühmte Oasen-Gärten für Datteln und Oliven.", hu: "Híres oáziskertek datolyához és olajbogyóhoz.", ro: "Celebre grădini de oază pentru curmale și măsline.", en: "Famous oasis gardens for dates and olives." },
     facts: {
       de: ["Beste Dattelqualität", "Alte Bewässerungsmethoden"],
@@ -142,9 +137,8 @@ image: "/poi-images/siwa-palm-agriculture-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-GZ",
     coords: [31.20, 30.01],
-    name: { de: "Giza Zoo", hu: "Gízai Állatkert", ro: "Grădina Zoologică Giza", en: "Giza Zoo",
-image: "/poi-images/giza-zoo-life-v2.webp"
-},
+    name: { de: "Giza Zoo", hu: "Gízai Állatkert", ro: "Grădina Zoologică Giza", en: "Giza Zoo"},
+    image: "/poi-images/giza-zoo-life-v2.webp",
     description: { de: "Einer der ältesten und größten Zoos in Afrika.", hu: "Afrika egyik legrégebbi és legnagyobb állatkertje.", ro: "Una dintre cele mai vechi și mari grădini zoologice din Africa.", en: "One of the oldest and largest zoos in Africa." },
     facts: {
       de: ["Historische Anlage", "Beliebt bei Familien"],
@@ -169,9 +163,8 @@ image: "/poi-images/giza-zoo-life-v2.webp"
     type: "agriculture",
     parent: "EG-FYM",
     coords: [30.80, 29.40],
-    name: { de: "Faiyum Oasen-Agrar", hu: "Faiyum oázis mezőgazdaság", ro: "Agricultura Oazei Faiyum", en: "Faiyum Oasis Agriculture",
-image: "/poi-images/faiyum-agriculture-life-v2.webp"
-},
+    name: { de: "Faiyum Oasen-Agrar", hu: "Faiyum oázis mezőgazdaság", ro: "Agricultura Oazei Faiyum", en: "Faiyum Oasis Agriculture"},
+    image: "/poi-images/faiyum-agriculture-life-v2.webp",
     description: { de: "Fruchtbare Region mit umfangreichem Gemüseanbau.", hu: "Termékeny régió kiterjedt zöldségtermesztéssel.", ro: "Regiune fertilă cu cultivare extinsă de legume.", en: "Fertile region with extensive vegetable cultivation." },
     facts: {
       de: ["Ganzjähriger Anbau", "Wassernähe durch Kanäle"],
@@ -196,9 +189,8 @@ image: "/poi-images/faiyum-agriculture-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-C",
     coords: [31.14, 30.18],
-    name: { de: "Al Qanater El Khairia Parks", hu: "Al Qanater El Khairia parkok", ro: "Parcurile Al Qanater El Khairia", en: "Al Qanater El Khairia Parks",
-image: "/poi-images/alqanater-kid-life-v2.webp"
-},
+    name: { de: "Al Qanater El Khairia Parks", hu: "Al Qanater El Khairia parkok", ro: "Parcurile Al Qanater El Khairia", en: "Al Qanater El Khairia Parks"},
+    image: "/poi-images/alqanater-kid-life-v2.webp",
     description: { de: "Ein weitläufiges Parkgebiet am Nil, ideal für Familien.", hu: "Kiterjedt parkterület a Nílus mentén, ideális családoknak.", ro: "O zonă extinsă de parcuri pe malul Nilului, ideală pentru familii.", en: "A sprawling park area on the Nile, ideal for families." },
     facts: {
       de: ["Picknickplätze", "Bootsfahrten für Kinder"],
@@ -223,9 +215,8 @@ image: "/poi-images/alqanater-kid-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-LX",
     coords: [32.65, 25.70],
-    name: { de: "Luxor Botanischer Garten", hu: "Luxor Botanikus Kert", ro: "Grădina Botanică Luxor", en: "Luxor Botanical Garden",
-image: "/poi-images/luxor-botanical-life-v2.webp"
-},
+    name: { de: "Luxor Botanischer Garten", hu: "Luxor Botanikus Kert", ro: "Grădina Botanică Luxor", en: "Luxor Botanical Garden"},
+    image: "/poi-images/luxor-botanical-life-v2.webp",
     description: { de: "Grüne Oase im Zentrum von Luxor.", hu: "Zöld oázis Luxor központjában.", ro: "Oază verde în centrul orașului Luxor.", en: "Green oasis in the center of Luxor." },
     facts: {
       de: ["Schattenreiche Bäume", "Sehr entspannend"],
@@ -250,9 +241,8 @@ image: "/poi-images/luxor-botanical-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-RS",
     coords: [34.80, 25.00],
-    name: { de: "Marsa Alam Dugong-Habitat", hu: "Marsa Alam Dugong-élőhely", ro: "Habitat de dugong Marsa Alam", en: "Marsa Alam Dugong Habitat",
-image: "/poi-images/marsa-alam-habitat-life-v2.webp"
-},
+    name: { de: "Marsa Alam Dugong-Habitat", hu: "Marsa Alam Dugong-élőhely", ro: "Habitat de dugong Marsa Alam", en: "Marsa Alam Dugong Habitat"},
+    image: "/poi-images/marsa-alam-habitat-life-v2.webp",
     description: { de: "Ein geschütztes Gebiet für Seekühe im Roten Meer.", hu: "Védett terület a tengeri tehenek számára a Vörös-tengerben.", ro: "O zonă protejată pentru dugongi în Marea Roșie.", en: "A protected area for dugongs in the Red Sea." },
     facts: {
       de: ["Sehr seltenes Tier", "Riff-Schutz"],
@@ -277,9 +267,8 @@ image: "/poi-images/marsa-alam-habitat-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-ALX",
     coords: [29.90, 31.20],
-    name: { de: "Alexandria Zoo", hu: "Alexandriai Állatkert", ro: "Grădina Zoologică Alexandria", en: "Alexandria Zoo",
-image: "/poi-images/alexandria-zoo-life-v2.webp"
-},
+    name: { de: "Alexandria Zoo", hu: "Alexandriai Állatkert", ro: "Grădina Zoologică Alexandria", en: "Alexandria Zoo"},
+    image: "/poi-images/alexandria-zoo-life-v2.webp",
     description: { de: "Beliebter Zoo an der Mittelmeerküste.", hu: "Népszerű állatkert a Földközi-tenger partján.", ro: "Grădină zoologică populară pe coasta Mediteranei.", en: "Popular zoo on the Mediterranean coast." },
     facts: {
       de: ["Familienattraktion", "Viele Tierarten"],
@@ -304,9 +293,8 @@ image: "/poi-images/alexandria-zoo-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-KFS",
     coords: [30.90, 31.50],
-    name: { de: "Nildelta Vogelschutzgebiet", hu: "Nílus-delta madárvédelmi terület", ro: "Rezervația de păsări din Delta Nilului", en: "Nile Delta Bird Sanctuary",
-image: "/poi-images/delta-bird-habitat-life-v2.webp"
-},
+    name: { de: "Nildelta Vogelschutzgebiet", hu: "Nílus-delta madárvédelmi terület", ro: "Rezervația de păsări din Delta Nilului", en: "Nile Delta Bird Sanctuary"},
+    image: "/poi-images/delta-bird-habitat-life-v2.webp",
     description: { de: "Ein wichtiges Ziel für Zugvögel.", hu: "A vándormadarak fontos célpontja.", ro: "O destinație importantă pentru păsările migratoare.", en: "An important destination for migratory birds." },
     facts: {
       de: ["Beobachtungstürme", "Hunderttausende Vögel"],
@@ -331,9 +319,8 @@ image: "/poi-images/delta-bird-habitat-life-v2.webp"
     type: "agriculture",
     parent: "EG-GZ",
     coords: [31.10, 29.90],
-    name: { de: "Giza Bio-Farmen", hu: "Gízai biofarmok", ro: "Bio-ferme Giza", en: "Giza Organic Farms",
-image: "/poi-images/giza-farm-agriculture-life-v2.webp"
-},
+    name: { de: "Giza Bio-Farmen", hu: "Gízai biofarmok", ro: "Bio-ferme Giza", en: "Giza Organic Farms"},
+    image: "/poi-images/giza-farm-agriculture-life-v2.webp",
     description: { de: "Moderne Landwirtschaft am Rande der Wüste.", hu: "Modern mezőgazdaság a sivatag peremén.", ro: "Agricultură modernă la marginea deșertului.", en: "Modern farming at the edge of the desert." },
     facts: {
       de: ["Bio-Gemüseanbau", "Nachhaltige Methoden"],
@@ -358,9 +345,8 @@ image: "/poi-images/giza-farm-agriculture-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-ASN",
     coords: [32.89, 24.09],
-    name: { de: "Elephantine Insel Park", hu: "Elephantine-sziget park", ro: "Insula Elephantine Parc", en: "Elephantine Island Park",
-image: "/poi-images/aswan-island-kid-life-v2.webp"
-},
+    name: { de: "Elephantine Insel Park", hu: "Elephantine-sziget park", ro: "Insula Elephantine Parc", en: "Elephantine Island Park"},
+    image: "/poi-images/aswan-island-kid-life-v2.webp",
     description: { de: "Ein ruhiger Park auf einer historischen Nilinsel.", hu: "Csendes park egy történelmi nílusi szigeten.", ro: "Un parc liniștit pe o insulă istorică pe Nil.", en: "A peaceful park on a historic Nile island." },
     facts: {
       de: ["Ideal zum Spazierengehen", "Tolle Aussicht"],
@@ -385,9 +371,8 @@ image: "/poi-images/aswan-island-kid-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-SIN",
     coords: [33.80, 28.50],
-    name: { de: "Sinai Kamel-Weiden", hu: "Sínai tevelegelő", ro: "Pășunile de cămile Sinai", en: "Sinai Camel Pastures",
-image: "/poi-images/sina-camel-habitat-life-v2.webp"
-},
+    name: { de: "Sinai Kamel-Weiden", hu: "Sínai tevelegelő", ro: "Pășunile de cămile Sinai", en: "Sinai Camel Pastures"},
+    image: "/poi-images/sina-camel-habitat-life-v2.webp",
     description: { de: "Traditionelle Weidegebiete der Beduinen.", hu: "A beduinok hagyományos legelőterületei.", ro: "Zone de pășunat tradiționale ale beduinilor.", en: "Traditional grazing areas of the Bedouin." },
     facts: {
       de: ["Kulturlandschaft", "Kamele beobachten"],
@@ -412,9 +397,8 @@ image: "/poi-images/sina-camel-habitat-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-SIN",
     coords: [34.40, 28.10],
-    name: { de: "Nabq Naturschutzgebiet", hu: "Nabq Természetvédelmi Terület", ro: "Rezervația Nabq", en: "Nabq Protected Area",
-image: "/poi-images/nabq-protected-life-v2.webp"
-},
+    name: { de: "Nabq Naturschutzgebiet", hu: "Nabq Természetvédelmi Terület", ro: "Rezervația Nabq", en: "Nabq Protected Area"},
+    image: "/poi-images/nabq-protected-life-v2.webp",
     description: { de: "Schutzgebiet mit Mangrovenwäldern am Roten Meer.", hu: "Védett terület mangroveerdőkkel a Vörös-tengeren.", ro: "Zonă protejată cu păduri de mangrove la Marea Roșie.", en: "Protected area with mangrove forests on the Red Sea." },
     facts: {
       de: ["Mangroven", "Unterwasserwelt"],
@@ -439,9 +423,8 @@ image: "/poi-images/nabq-protected-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-C",
     coords: [31.26, 30.04],
-    name: { de: "Al-Azhar Park", hu: "Al-Azhar park", ro: "Parcul Al-Azhar", en: "Al-Azhar Park",
-image: "/poi-images/azhar-park-kid-life-v2.webp"
-},
+    name: { de: "Al-Azhar Park", hu: "Al-Azhar park", ro: "Parcul Al-Azhar", en: "Al-Azhar Park"},
+    image: "/poi-images/azhar-park-kid-life-v2.webp",
     description: { de: "Eine grüne Lunge in der Kairoer Altstadt.", hu: "Zöld oázis a kairói óvárosban.", ro: "Oază verde în orașul vechi din Cairo.", en: "A green oasis in Cairo's old city." },
     facts: {
       de: ["Spielplätze", "Familien-Freizeit"],
@@ -466,9 +449,8 @@ image: "/poi-images/azhar-park-kid-life-v2.webp"
     type: "agriculture",
     parent: "EG-BH",
     coords: [30.40, 31.40],
-    name: { de: "Rosetta Obstgärten", hu: "Rosetta gyümölcsöskertek", ro: "Livezile Rosetta", en: "Rosetta Orchards",
-image: "/poi-images/rosseta-fruit-agriculture-life-v2.webp"
-},
+    name: { de: "Rosetta Obstgärten", hu: "Rosetta gyümölcsöskertek", ro: "Livezile Rosetta", en: "Rosetta Orchards"},
+    image: "/poi-images/rosseta-fruit-agriculture-life-v2.webp",
     description: { de: "Bekannt für den Anbau von Zitrusfrüchten.", hu: "Ismert a citrusfélék termesztéséről.", ro: "Cunoscută pentru cultivarea citricelor.", en: "Known for growing citrus fruits." },
     facts: {
       de: ["Orangen und Zitronen", "Traditionell"],
@@ -493,9 +475,8 @@ image: "/poi-images/rosseta-fruit-agriculture-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-SIN",
     coords: [34.70, 29.50],
-    name: { de: "Taba Schutzgebiet", hu: "Taba Természetvédelmi Terület", ro: "Rezervația Taba", en: "Taba Protected Area",
-image: "/poi-images/taba-habitat-life-v2.webp"
-},
+    name: { de: "Taba Schutzgebiet", hu: "Taba Természetvédelmi Terület", ro: "Rezervația Taba", en: "Taba Protected Area"},
+    image: "/poi-images/taba-habitat-life-v2.webp",
     description: { de: "Bergschutzgebiet mit seltener Wüstenflora.", hu: "Hegyi védett terület ritka sivatagi növényzettel.", ro: "Zonă montană protejată cu vegetație deșertică rară.", en: "Mountainous protected area with rare desert flora." },
     facts: {
       de: ["Steinböcke", "Wüstenpflanzen"],
@@ -520,9 +501,8 @@ image: "/poi-images/taba-habitat-life-v2.webp"
     type: "agriculture",
     parent: "EG-MN",
     coords: [30.70, 28.10],
-    name: { de: "Minya Anbaugebiete", hu: "Minya művelési területek", ro: "Zone agricole Minya", en: "Minya Agricultural Lands",
-image: "/poi-images/minya-crops-agriculture-life-v2.webp"
-},
+    name: { de: "Minya Anbaugebiete", hu: "Minya művelési területek", ro: "Zone agricole Minya", en: "Minya Agricultural Lands"},
+    image: "/poi-images/minya-crops-agriculture-life-v2.webp",
     description: { de: "Wichtige Anbauregion im mittleren Ägypten.", hu: "Fontos termesztési régió Közép-Egyiptomban.", ro: "Regiune agricolă importantă în Egiptul Central.", en: "Important agricultural region in central Egypt." },
     facts: {
       de: ["Zuckerrohr", "Maisanbau"],
@@ -547,9 +527,8 @@ image: "/poi-images/minya-crops-agriculture-life-v2.webp"
     type: "agriculture",
     parent: "EG-SHG",
     coords: [31.70, 26.50],
-    name: { de: "Sohag Agrarland", hu: "Sohag mezőgazdasági földek", ro: "Terenuri agricole Sohag", en: "Sohag Agricultural Lands",
-image: "/poi-images/sohag-fields-agriculture-life-v2.webp"
-},
+    name: { de: "Sohag Agrarland", hu: "Sohag mezőgazdasági földek", ro: "Terenuri agricole Sohag", en: "Sohag Agricultural Lands"},
+    image: "/poi-images/sohag-fields-agriculture-life-v2.webp",
     description: { de: "Traditionelle Landwirtschaft entlang des Nils.", hu: "Hagyományos mezőgazdaság a Nílus mentén.", ro: "Agricultură tradițională de-a lungul Nilului.", en: "Traditional farming along the Nile." },
     facts: {
       de: ["Bewässerungsfelder", "Lokale Produkte"],
@@ -574,9 +553,8 @@ image: "/poi-images/sohag-fields-agriculture-life-v2.webp"
     type: "agriculture",
     parent: "EG-QEN",
     coords: [32.70, 26.10],
-    name: { de: "Qena Obst- und Gemüsefelder", hu: "Qena gyümölcs- és zöldségföldek", ro: "Câmpuri de fructe și legume Qena", en: "Qena Fruit and Vegetable Fields",
-image: "/poi-images/qena-farming-agriculture-life-v2.webp"
-},
+    name: { de: "Qena Obst- und Gemüsefelder", hu: "Qena gyümölcs- és zöldségföldek", ro: "Câmpuri de fructe și legume Qena", en: "Qena Fruit and Vegetable Fields"},
+    image: "/poi-images/qena-farming-agriculture-life-v2.webp",
     description: { de: "Produktionsstätte für regionale Agrarerzeugnisse.", hu: "Termelőhely regionális mezőgazdasági termékek számára.", ro: "Loc de producție pentru produse agricole regionale.", en: "Production site for regional agricultural products." },
     facts: {
       de: ["Frische Produkte", "Sonniges Klima"],
@@ -601,9 +579,8 @@ image: "/poi-images/qena-farming-agriculture-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-RS",
     coords: [33.80, 27.20],
-    name: { de: "Hurghada Korallen-Habitat", hu: "Hurghada Korall-élőhely", ro: "Habitat de corali Hurghada", en: "Hurghada Coral Habitat",
-image: "/poi-images/hurghada-marine-habitat-life-v2.webp"
-},
+    name: { de: "Hurghada Korallen-Habitat", hu: "Hurghada Korall-élőhely", ro: "Habitat de corali Hurghada", en: "Hurghada Coral Habitat"},
+    image: "/poi-images/hurghada-marine-habitat-life-v2.webp",
     description: { de: "Geschützte Korallenriffe vor der Küste.", hu: "Védett korallzátonyok a part mentén.", ro: "Recife de corali protejate lângă coastă.", en: "Protected coral reefs off the coast." },
     facts: {
       de: ["Rifftauchen", "Bunte Meereswelt"],
@@ -628,9 +605,8 @@ image: "/poi-images/hurghada-marine-habitat-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-C",
     coords: [31.33, 30.08],
-    name: { de: "Heliopolis Park", hu: "Heliopolisz park", ro: "Parcul Heliopolis", en: "Heliopolis Park",
-image: "/poi-images/heliopolis-park-kid-life-v2.webp"
-},
+    name: { de: "Heliopolis Park", hu: "Heliopolisz park", ro: "Parcul Heliopolis", en: "Heliopolis Park"},
+    image: "/poi-images/heliopolis-park-kid-life-v2.webp",
     description: { de: "Großer Stadtpark mit Freizeitmöglichkeiten.", hu: "Nagy városi park szabadidős lehetőségekkel.", ro: "Parc urban mare cu facilități de recreere.", en: "Large city park with recreational opportunities." },
     facts: {
       de: ["Grünanlagen", "Familienaktivitäten"],
@@ -655,9 +631,8 @@ image: "/poi-images/heliopolis-park-kid-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-C",
     coords: [31.10, 30.20],
-    name: { de: "Delta Naturreservat", hu: "Delta természetvédelmi terület", ro: "Rezervația naturală Delta", en: "Delta Nature Reserve",
-image: "/poi-images/cairo-delta-animal-life-v2.webp"
-},
+    name: { de: "Delta Naturreservat", hu: "Delta természetvédelmi terület", ro: "Rezervația naturală Delta", en: "Delta Nature Reserve"},
+    image: "/poi-images/cairo-delta-animal-life-v2.webp",
     description: { de: "Reservat für einheimische Tierarten im Nildelta.", hu: "Rezervátum őshonos állatfajok számára a Nílus-deltában.", ro: "Rezervație pentru specii native în Delta Nilului.", en: "Reserve for native species in the Nile Delta." },
     facts: {
       de: ["Kleine Säugetiere", "Einheimische Vögel"],
@@ -682,9 +657,8 @@ image: "/poi-images/cairo-delta-animal-life-v2.webp"
     type: "agriculture",
     parent: "EG-BNS",
     coords: [31.00, 29.00],
-    name: { de: "Beni Suef Farmen", hu: "Beni Suef farmok", ro: "Ferme Beni Suef", en: "Beni Suef Farms",
-image: "/poi-images/benisuef-farms-agriculture-life-v2.webp"
-},
+    name: { de: "Beni Suef Farmen", hu: "Beni Suef farmok", ro: "Ferme Beni Suef", en: "Beni Suef Farms"},
+    image: "/poi-images/benisuef-farms-agriculture-life-v2.webp",
     description: { de: "Landwirtschaftliche Zone am Nil.", hu: "Mezőgazdasági övezet a Nílus mentén.", ro: "Zonă agricolă pe malul Nilului.", en: "Agricultural zone along the Nile." },
     facts: {
       de: ["Gemüseanbau", "Wichtig für die Region"],
@@ -709,9 +683,8 @@ image: "/poi-images/benisuef-farms-agriculture-life-v2.webp"
     type: "kid-landmark",
     parent: "EG-GZ",
     coords: [31.15, 29.95],
-    name: { de: "Giza Stadtpark", hu: "Gízai városi park", ro: "Parc urban Giza", en: "Giza City Park",
-image: "/poi-images/giza-green-kid-life-v2.webp"
-},
+    name: { de: "Giza Stadtpark", hu: "Gízai városi park", ro: "Parc urban Giza", en: "Giza City Park"},
+    image: "/poi-images/giza-green-kid-life-v2.webp",
     description: { de: "Großer Erholungspark für Familien.", hu: "Nagy pihenőpark családoknak.", ro: "Parc de recreere mare pentru familii.", en: "Large recreation park for families." },
     facts: {
       de: ["Spielplätze", "Schattenplätze"],
@@ -736,9 +709,8 @@ image: "/poi-images/giza-green-kid-life-v2.webp"
     type: "agriculture",
     parent: "EG-SUZ",
     coords: [32.30, 30.50],
-    name: { de: "Suez Agrarzone", hu: "Szuezi agrárzóna", ro: "Zonă agricolă Suez", en: "Suez Agricultural Zone",
-image: "/poi-images/suez-canal-agri-agriculture-life-v2.webp"
-},
+    name: { de: "Suez Agrarzone", hu: "Szuezi agrárzóna", ro: "Zonă agricolă Suez", en: "Suez Agricultural Zone"},
+    image: "/poi-images/suez-canal-agri-agriculture-life-v2.webp",
     description: { de: "Anbaubereiche in der Nähe des Kanals.", hu: "Termesztési területek a csatorna közelében.", ro: "Zone de cultivare lângă canal.", en: "Farming areas near the canal." },
     facts: {
       de: ["Neue Bewässerung", "Lokale Ernten"],
@@ -763,9 +735,8 @@ image: "/poi-images/suez-canal-agri-agriculture-life-v2.webp"
     type: "agriculture",
     parent: "EG-BH",
     coords: [30.40, 31.00],
-    name: { de: "Damanhur Agrarflächen", hu: "Damanhur mezőgazdasági területek", ro: "Terenuri agricole Damanhur", en: "Damanhur Agricultural Lands",
-image: "/poi-images/damanhur-fields-agriculture-life-v2.webp"
-},
+    name: { de: "Damanhur Agrarflächen", hu: "Damanhur mezőgazdasági területek", ro: "Terenuri agricole Damanhur", en: "Damanhur Agricultural Lands"},
+    image: "/poi-images/damanhur-fields-agriculture-life-v2.webp",
     description: { de: "Fruchtbares Agrarland im Delta.", hu: "Termékeny mezőgazdasági földek a Deltában.", ro: "Teren agricol fertil în Deltă.", en: "Fertile agricultural land in the Delta." },
     facts: {
       de: ["Reis-Produktion", "Sehr ertragreich"],
@@ -790,9 +761,8 @@ image: "/poi-images/damanhur-fields-agriculture-life-v2.webp"
     type: "animal-habitat",
     parent: "EG-MN",
     coords: [30.70, 28.00],
-    name: { de: "Minya Wildtier-Zuflucht", hu: "Minya vadvilág-menedék", ro: "Refugiul faunei sălbatice Minya", en: "Minya Wildlife Refuge",
-image: "/poi-images/elminya-habitat-life-v2.webp"
-},
+    name: { de: "Minya Wildtier-Zuflucht", hu: "Minya vadvilág-menedék", ro: "Refugiul faunei sălbatice Minya", en: "Minya Wildlife Refuge"},
+    image: "/poi-images/elminya-habitat-life-v2.webp",
     description: { de: "Schutzgebiet für bedrohte Wüstentiere.", hu: "Védett terület veszélyeztetett sivatagi állatok számára.", ro: "Zonă protejată pentru animalele deșertice amenințate.", en: "Protected area for threatened desert animals." },
     facts: {
       de: ["Wüstenfüchse", "Kleine Eidechsen"],

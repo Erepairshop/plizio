@@ -7,9 +7,8 @@ export const poiExtraJamaicaNatureV2: POI[] = [
     type: "sea",
     parent: "JM-08",
     coords: [-78.05, 18.47],
-    name: { de: "Great River Bucht", hu: "Great River-öböl", ro: "Golful Great River", en: "Great River Bay",
-image: "/poi-images/great-river-bay-nature-v2.webp"
-},
+    name: { de: "Great River Bucht", hu: "Great River-öböl", ro: "Golful Great River", en: "Great River Bay"},
+    image: "/poi-images/great-river-bay-nature-v2.webp",
     description: { de: "Eine malerische Bucht, in die der Great River mündet.", hu: "Festői öböl, ahol a Great River a tengerbe ömlik.", ro: "Un golf pitoresc unde se varsă râul Great.", en: "A picturesque bay where the Great River meets the sea." },
     facts: {
       de: ["Mündung des Great River", "Grenze zwischen St. James und Hanover", "Beliebt für Wassersport", "Schöne Küstenlandschaft"],
@@ -29,9 +28,8 @@ image: "/poi-images/great-river-bay-nature-v2.webp"
     type: "river",
     parent: "JM-05",
     coords: [-76.76, 18.27],
-    name: { de: "Wag Water River", hu: "Wag Water-folyó", ro: "Râul Wag Water", en: "Wag Water River",
-image: "/poi-images/wag-water-river-nature-v2.webp"
-},
+    name: { de: "Wag Water River", hu: "Wag Water-folyó", ro: "Râul Wag Water", en: "Wag Water River"},
+    image: "/poi-images/wag-water-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der durch St. Mary fließt und bei Annotto Bay ins Meer mündet.", hu: "Jelentős folyó, amely St. Mary-n folyik keresztül és Annotto Bay-nél ömlik a tengerbe.", ro: "Un râu important care traversează St. Mary și se varsă în mare la Annotto Bay.", en: "A major river flowing through St. Mary and emptying into the sea at Annotto Bay." },
     facts: {
       de: ["Fließt durch die Blue Mountains", "Wichtige Wasserquelle für die Region", "Beliebt für Rafting", "Mündet in die Karibik"],
@@ -51,9 +49,8 @@ image: "/poi-images/wag-water-river-nature-v2.webp"
     type: "lake",
     parent: "JM-01",
     coords: [-76.58, 17.86],
-    name: { de: "Yallahs Teiche", hu: "Yallahs-tavak", ro: "Iazurile Yallahs", en: "Yallahs Ponds",
-image: "/poi-images/yallahs-ponds-nature-v2.webp"
-},
+    name: { de: "Yallahs Teiche", hu: "Yallahs-tavak", ro: "Iazurile Yallahs", en: "Yallahs Ponds"},
+    image: "/poi-images/yallahs-ponds-nature-v2.webp",
     description: { de: "Eine Reihe von Salzseen an der Südküste, die ein wichtiges Feuchtgebiet bilden.", hu: "Sós tavak sorozata a déli parton, amelyek fontos vizes élőhelyet alkotnak.", ro: "Iazurile Yallahs sunt două lagune de coastă cu apă hipersalină, cunoscute pentru culoarea lor rozalie neobișnuită datorată algelor.", en: "A series of salt ponds on the south coast, forming an important wetland." },
     facts: {
       de: ["Wichtiges Vogelbeobachtungsgebiet", "Salzgewinnung in der Vergangenheit", "Einzigartiges Ökosystem", "Durch eine Sandbank vom Meer getrennt"],
@@ -73,9 +70,8 @@ image: "/poi-images/yallahs-ponds-nature-v2.webp"
     type: "mountain",
     parent: "JM-09",
     coords: [-77.38, 18.17],
-    name: { de: "Bull Head Mountain", hu: "Bull Head-hegy", ro: "Muntele Bull Head", en: "Bull Head Mountain",
-image: "/poi-images/bull-head-mountain-nature-v2.webp"
-},
+    name: { de: "Bull Head Mountain", hu: "Bull Head-hegy", ro: "Muntele Bull Head", en: "Bull Head Mountain"},
+    image: "/poi-images/bull-head-mountain-nature-v2.webp",
     description: { de: "Bull Head Mountain gilt als das geografische Zentrum Jamaikas und ist ein wichtiges Wassereinzugsgebiet für die Region. Der Berg ist für seine üppige Vegetation bekannt.", hu: "Jamaica földrajzi középpontja, egy hegy Clarendonban.", ro: "Centrul geografic al Jamaicăi, un munte în Clarendon.", en: "The geographic center of Jamaica, Bull Head Mountain is known for its diverse flora and panoramic island views." },
     facts: {
       de: ["Geografisches Zentrum der Insel", "Wichtiges Wasserschutzgebiet", "Beliebtes Wanderziel"],
@@ -95,9 +91,8 @@ image: "/poi-images/bull-head-mountain-nature-v2.webp"
     type: "forest",
     parent: "JM-03",
     coords: [-78.28, 18.25],
-    name: { de: "Great Morass", hu: "Great Morass", ro: "Marea Mlaștină", en: "Great Morass",
-image: "/poi-images/great-morass-nature-v2.webp"
-},
+    name: { de: "Great Morass", hu: "Great Morass", ro: "Marea Mlaștină", en: "Great Morass"},
+    image: "/poi-images/great-morass-nature-v2.webp",
     description: { de: "Das Great Morass ist ein ausgedehntes Feuchtgebiet, das zahlreichen seltenen Vogelarten und Reptilien als geschützter Lebensraum dient. Es ist ökologisch von unschätzbarem Wert.", hu: "Nagy kiterjedésű vizes élőhely és mocsárvidék Westmorelandben, Negril közelében.", ro: "O mare zonă umedă și mlaștină în Westmoreland, lângă Negril.", en: "A vast wetland area in western Jamaica, providing a critical habitat for crocodiles and diverse bird species." },
     facts: {
       de: ["Größtes Feuchtgebiet", "Habitat für geschützte Arten", "Natürlicher Küstenschutz"],
@@ -117,9 +112,8 @@ image: "/poi-images/great-morass-nature-v2.webp"
     type: "river",
     parent: "JM-13",
     coords: [-76.98, 18.10],
-    name: { de: "Rio Cobre", hu: "Rio Cobre-folyó", ro: "Râul Rio Cobre", en: "Rio Cobre River",
-image: "/poi-images/rio-cobre-river-nature-v2.webp"
-},
+    name: { de: "Rio Cobre", hu: "Rio Cobre-folyó", ro: "Râul Rio Cobre", en: "Rio Cobre River"},
+    image: "/poi-images/rio-cobre-river-nature-v2.webp",
     description: { de: "Ein Fluss, der durch die berühmte Bog Walk-Schlucht fließt.", hu: "Egy folyó, amely a híres Bog Walk-szurdokon folyik keresztül.", ro: "Un râu care curge prin faimosul defileu Bog Walk.", en: "A river that flows through the famous Bog Walk Gorge." },
     facts: {
       de: ["Fließt durch die Bog Walk Gorge", "Wichtige Wasserquelle für Spanish Town", "Beliebt zum Kajakfahren", "Kann bei starkem Regen gefährlich werden"],
@@ -139,9 +133,8 @@ image: "/poi-images/rio-cobre-river-nature-v2.webp"
     type: "sea",
     parent: "JM-04",
     coords: [-76.35, 18.15],
-    name: { de: "Long Bay", hu: "Long Bay", ro: "Golful Long", en: "Long Bay",
-image: "/poi-images/long-bay-nature-v2.webp"
-},
+    name: { de: "Long Bay", hu: "Long Bay", ro: "Golful Long", en: "Long Bay"},
+    image: "/poi-images/long-bay-nature-v2.webp",
     description: { de: "Ein langer, malerischer Strand in Portland, bekannt für seine entspannte Atmosphäre.", hu: "Hosszú, festői strand Portlandben, nyugodt légköréről ismert.", ro: "O plajă lungă și pitorească în Portland, cunoscută pentru atmosfera sa relaxată.", en: "A long, picturesque beach in Portland, known for its relaxed atmosphere." },
     facts: {
       de: ["Einer der längsten Strände Jamaikas", "Rosafarbener Sand an einigen Stellen", "Beliebt bei Rucksacktouristen", "Starke Wellen zum Surfen"],
@@ -161,9 +154,8 @@ image: "/poi-images/long-bay-nature-v2.webp"
     type: "river",
     parent: "JM-09",
     coords: [-77.38, 17.83],
-    name: { de: "Milk River", hu: "Milk River", ro: "Râul Milk", en: "Milk River",
-image: "/poi-images/milk-river-nature-v2.webp"
-},
+    name: { de: "Milk River", hu: "Milk River", ro: "Râul Milk", en: "Milk River"},
+    image: "/poi-images/milk-river-nature-v2.webp",
     description: { de: "Ein Fluss, der für sein radioaktives Mineralbad bekannt ist.", hu: "Egy folyó, amely radioaktív ásványfürdőjéről ismert.", ro: "Un râu cunoscut pentru băile sale minerale radioactive.", en: "A river known for its radioactive mineral bath." },
     facts: {
       de: ["Heilende Mineralquellen", "Eines der radioaktivsten Bäder der Welt", "Staatlich geführtes Kurbad", "Fließt ins Karibische Meer"],
@@ -183,9 +175,8 @@ image: "/poi-images/milk-river-nature-v2.webp"
     type: "mountain",
     parent: "JM-08",
     coords: [-78.15, 18.35],
-    name: { de: "Dolphin Head Mountains", hu: "Dolphin Head-hegység", ro: "Munții Dolphin Head", en: "Dolphin Head Mountains",
-image: "/poi-images/dolphin-head-mountains-nature-v2.webp"
-},
+    name: { de: "Dolphin Head Mountains", hu: "Dolphin Head-hegység", ro: "Munții Dolphin Head", en: "Dolphin Head Mountains"},
+    image: "/poi-images/dolphin-head-mountains-nature-v2.webp",
     description: { de: "Eine markante Bergkette in Hanover mit einer unverwechselbaren Form.", hu: "Jellegzetes hegylánc Hanoverben, összetéveszthetetlen formával.", ro: "Un lanț muntos distinctiv în Hanover, cu o formă inconfundabilă.", en: "A distinctive mountain range in Hanover with a unique shape." },
     facts: {
       de: ["Sieht aus wie ein Delfinkopf", "Wichtiger Orientierungspunkt für Seeleute", "Geschütztes Waldreservat", "Endemische Pflanzenarten"],
@@ -205,9 +196,8 @@ image: "/poi-images/dolphin-head-mountains-nature-v2.webp"
     type: "forest",
     parent: "JM-02",
     coords: [-77.8, 18.05],
-    name: { de: "Black River Lower Morass", hu: "Black River alsó mocsárvidék", ro: "Mlaștina inferioară a râului Black", en: "Black River Lower Morass",
-image: "/poi-images/black-river-lower-morass-nature-v2.webp"
-},
+    name: { de: "Black River Lower Morass", hu: "Black River alsó mocsárvidék", ro: "Mlaștina inferioară a râului Black", en: "Black River Lower Morass"},
+    image: "/poi-images/black-river-lower-morass-nature-v2.webp",
     description: { de: "Ein riesiges Feuchtgebiet, das den Unterlauf des Black River umgibt.", hu: "Hatalmas vizes élőhely, amely a Black River alsó folyását övezi.", ro: "Lower Morass este cea mai mare zonă umedă de apă dulce din Jamaica, un labirint vital de mlaștini, mangrove și râuri.", en: "One of the largest freshwater wetlands in the Caribbean, famous for its boat safaris and unique river ecosystems." },
     facts: {
       de: ["Größtes Sumpfgebiet der Karibik", "Ramsar-Schutzgebiet", "Heimat des Amerikanischen Krokodils", "Reiche Vogelwelt"],
@@ -227,9 +217,8 @@ image: "/poi-images/black-river-lower-morass-nature-v2.webp"
     type: "island",
     parent: "JM-04",
     coords: [-76.45, 18.18],
-    name: { de: "Navy Island", hu: "Navy-sziget", ro: "Insula Navy", en: "Navy Island",
-image: "/poi-images/navy-island-nature-v2.webp"
-},
+    name: { de: "Navy Island", hu: "Navy-sziget", ro: "Insula Navy", en: "Navy Island"},
+    image: "/poi-images/navy-island-nature-v2.webp",
     description: { de: "Navy Island ist eine kleine, malerische Insel vor Port Antonio, die einst dem Hollywood-Star Errol Flynn gehörte. Heute ist sie ein ruhiges Naturparadies mit unberührten Stränden.", hu: "Kis sziget Port Antonio partjainál, egykor Errol Flynn tulajdonában volt.", ro: "O mică insulă în largul coastei Port Antonio, deținută odinioară de Errol Flynn.", en: "A small, lush island off the coast of Port Antonio, once owned by Errol Flynn and known for its tropical beauty." },
     facts: {
       de: ["Ehemaliger Privatbesitz", "Tropisches Inselparadies", "Nahe Port Antonio gelegen"],
@@ -249,9 +238,8 @@ image: "/poi-images/navy-island-nature-v2.webp"
     type: "river",
     parent: "JM-09",
     coords: [-77.25, 17.83],
-    name: { de: "Rio Minho", hu: "Rio Minho-folyó", ro: "Râul Rio Minho", en: "Rio Minho River",
-image: "/poi-images/rio-minho-river-nature-v2.webp"
-},
+    name: { de: "Rio Minho", hu: "Rio Minho-folyó", ro: "Râul Rio Minho", en: "Rio Minho River"},
+    image: "/poi-images/rio-minho-river-nature-v2.webp",
     description: { de: "Der längste Fluss Jamaikas, der durch Clarendon fließt.", hu: "Jamaica leghosszabb folyója, amely Clarendonon keresztül folyik.", ro: "Cel mai lung râu din Jamaica, care curge prin Clarendon.", en: "The longest river in Jamaica, flowing through Clarendon." },
     facts: {
       de: ["Längster Fluss der Insel", "Wichtige Quelle für die Bewässerung", "Fließt durch May Pen", "Mündet bei Carlisle Bay ins Meer"],
@@ -271,9 +259,8 @@ image: "/poi-images/rio-minho-river-nature-v2.webp"
     type: "sea",
     parent: "JM-09",
     coords: [-77.15, 17.80],
-    name: { de: "Portland Bight", hu: "Portland-öböl", ro: "Golful Portland", en: "Portland Bight",
-image: "/poi-images/portland-bight-nature-v2.webp"
-},
+    name: { de: "Portland Bight", hu: "Portland-öböl", ro: "Golful Portland", en: "Portland Bight"},
+    image: "/poi-images/portland-bight-nature-v2.webp",
     description: { de: "Eine große Bucht an der Südküste, die ein geschütztes Feuchtgebiet umfasst.", hu: "Nagy öböl a déli parton, amely egy védett vizes élőhelyet foglal magában.", ro: "Portland Bight este cea mai mare zonă protejată terestră și marină din Jamaica, adăpostind recife de corali și păduri tropicale uscate.", en: "A large bay on the south coast that includes a protected wetland area." },
     facts: {
       de: ["Größte Bucht Jamaikas", "Ramsar-Schutzgebiet", "Wichtiger Lebensraum für Seekühe", "Umfasst mehrere kleine Inseln"],
@@ -293,9 +280,8 @@ image: "/poi-images/portland-bight-nature-v2.webp"
     type: "mountain",
     parent: "JM-02",
     coords: [-77.75, 17.95],
-    name: { de: "Santa Cruz Mountains", hu: "Santa Cruz-hegység", ro: "Munții Santa Cruz", en: "Santa Cruz Mountains",
-image: "/poi-images/santa-cruz-mountains-nature-v2.webp"
-},
+    name: { de: "Santa Cruz Mountains", hu: "Santa Cruz-hegység", ro: "Munții Santa Cruz", en: "Santa Cruz Mountains"},
+    image: "/poi-images/santa-cruz-mountains-nature-v2.webp",
     description: { de: "Eine Bergkette in St. Elizabeth, bekannt für ihre roten Böden und Landwirtschaft.", hu: "Hegylánc St. Elizabeth-ben, vörös talajáról és mezőgazdaságáról ismert.", ro: "Un lanț muntos în St. Elizabeth, cunoscut pentru solurile sale roșii și agricultură.", en: "A mountain range in St. Elizabeth, known for its red soils and agriculture." },
     facts: {
       de: ["Bauxitreiche Böden", "Wichtige landwirtschaftliche Region", "Kühleres Klima als die Küste", "Lovers' Leap Klippe ist Teil davon"],
@@ -315,9 +301,8 @@ image: "/poi-images/santa-cruz-mountains-nature-v2.webp"
     type: "forest",
     parent: "JM-06",
     coords: [-77.10, 18.38],
-    name: { de: "Fern Gully", hu: "Fern Gully (Páfrány-szurdok)", ro: "Defileul cu ferigi", en: "Fern Gully",
-image: "/poi-images/fern-gully-nature-v2.webp"
-},
+    name: { de: "Fern Gully", hu: "Fern Gully (Páfrány-szurdok)", ro: "Defileul cu ferigi", en: "Fern Gully"},
+    image: "/poi-images/fern-gully-nature-v2.webp",
     description: { de: "Eine drei Meilen lange Schlucht in der Nähe von Ocho Rios, gesäumt von Hunderten von Farnarten.", hu: "Három mérföld hosszú szurdok Ocho Rios közelében, amelyet páfrányfajok százai szegélyeznek.", ro: "Un defileu de trei mile lungime lângă Ocho Rios, mărginit de sute de specii de ferigi.", en: "A three-mile-long canyon near Ocho Rios, lined with hundreds of species of ferns." },
     facts: {
       de: ["Über 500 Farnarten", "Ehemaliges Flussbett", "Geschützte Naturattraktion", "Dichtes Blätterdach"],
@@ -337,9 +322,8 @@ image: "/poi-images/fern-gully-nature-v2.webp"
     type: "river",
     parent: "JM-04",
     coords: [-76.57, 18.20],
-    name: { de: "Swift River", hu: "Swift-folyó", ro: "Râul Swift", en: "Swift River",
-image: "/poi-images/swift-river-nature-v2.webp"
-},
+    name: { de: "Swift River", hu: "Swift-folyó", ro: "Râul Swift", en: "Swift River"},
+    image: "/poi-images/swift-river-nature-v2.webp",
     description: { de: "Ein Fluss in Portland, der bei Hope Bay ins Meer mündet.", hu: "Folyó Portlandben, amely Hope Bay-nél ömlik a tengerbe.", ro: "Un râu în Portland care se varsă în mare la Hope Bay.", en: "A river in Portland that empties into the sea at Hope Bay." },
     facts: {
       de: ["Fließt aus den Blue Mountains", "Klares, kühles Wasser", "Beliebt bei Einheimischen zum Baden", "Malerische Flusslandschaft"],
@@ -359,9 +343,8 @@ image: "/poi-images/swift-river-nature-v2.webp"
     type: "sea",
     parent: "JM-04",
     coords: [-76.35, 18.18],
-    name: { de: "Boston Bay", hu: "Boston-öböl", ro: "Golful Boston", en: "Boston Bay",
-image: "/poi-images/boston-bay-nature-v2.webp"
-},
+    name: { de: "Boston Bay", hu: "Boston-öböl", ro: "Golful Boston", en: "Boston Bay"},
+    image: "/poi-images/boston-bay-nature-v2.webp",
     description: { de: "Eine Bucht in Portland, die als Geburtsort des Jerk-Kochstils gilt.", hu: "Egy öböl Portlandben, amelyet a 'jerk' főzési stílus szülőhelyének tartanak.", ro: "Un golf în Portland considerat locul de naștere al stilului de gătit jerk.", en: "A bay in Portland considered the birthplace of jerk-style cooking." },
     facts: {
       de: ["Heimat des authentischen Jerk Food", "Beliebter Surfspot", "Weißer Sandstrand", "Kleine, halbmondförmige Bucht"],
@@ -382,9 +365,8 @@ image: "/poi-images/boston-bay-nature-v2.webp"
     type: "river",
     parent: "JM-03",
     coords: [-78.14, 18.25],
-    name: { de: "Cabarita River", hu: "Cabarita-folyó", ro: "Râul Cabarita", en: "Cabarita River",
-image: "/poi-images/cabarita-river-nature-v2.webp"
-},
+    name: { de: "Cabarita River", hu: "Cabarita-folyó", ro: "Râul Cabarita", en: "Cabarita River"},
+    image: "/poi-images/cabarita-river-nature-v2.webp",
     description: { de: "Ein Fluss in Westmoreland, der durch Savanna-la-Mar fließt.", hu: "Folyó Westmorelandben, amely Savanna-la-Maron keresztül folyik.", ro: "Un râu în Westmoreland care curge prin Savanna-la-Mar.", en: "A river in Westmoreland that flows through Savanna-la-Mar." },
     facts: {
       de: ["Fließt durch das Great Morass", "Wichtig für die lokale Landwirtschaft", "Mündet in die Karibik", "Lebensraum für Vögel und Fische"],
@@ -404,9 +386,8 @@ image: "/poi-images/cabarita-river-nature-v2.webp"
     type: "mountain",
     parent: "JM-08",
     coords: [-77.95, 18.35],
-    name: { de: "Montpelier Berge", hu: "Montpelier-hegység", ro: "Munții Montpelier", en: "Montpelier Mountains",
-image: "/poi-images/montpelier-mountains-nature-v2.webp"
-},
+    name: { de: "Montpelier Berge", hu: "Montpelier-hegység", ro: "Munții Montpelier", en: "Montpelier Mountains"},
+    image: "/poi-images/montpelier-mountains-nature-v2.webp",
     description: { de: "Die Montpelier-Berge zeichnen sich durch ihre sanften Hügel und die dichten Regenwälder aus, die eine hohe Biodiversität beherbergen. Die Region ist ideal für Ökotourismus.", hu: "Dombsági régió St. James-ben, Montego Bay-től délkeletre.", ro: "O regiune deluroasă în St. James, la sud-est de Montego Bay.", en: "A scenic mountain range in western Jamaica, known for its cool climate, rolling hills, and agricultural heritage." },
     facts: {
       de: ["Artenreiche Regenwälder", "Zentrum für Ökotourismus", "Panorama-Aussichtspunkte"],
@@ -427,9 +408,8 @@ image: "/poi-images/montpelier-mountains-nature-v2.webp"
     type: "forest",
     parent: "JM-09",
     coords: [-77.37, 18.19],
-    name: { de: "Mason River Wildreservat", hu: "Mason River Vadvédelmi Terület", ro: "Sanctuarul de vânătoare Mason River", en: "Mason River Game Sanctuary",
-image: "/poi-images/mason-river-game-sanctuary-nature-v2.webp"
-},
+    name: { de: "Mason River Wildreservat", hu: "Mason River Vadvédelmi Terület", ro: "Sanctuarul de vânătoare Mason River", en: "Mason River Game Sanctuary"},
+    image: "/poi-images/mason-river-game-sanctuary-nature-v2.webp",
     description: { de: "Ein geschütztes Feuchtgebiet und Waldreservat in Clarendon.", hu: "Védett vizes élőhely és erdőrezervátum Clarendonban.", ro: "Sanctuarul Mason River este o rezervație unică ce protejează o zonă de savană montană și plante carnivore rare.", en: "A protected wildlife and plant reserve famous for its unique marshland ecosystem and rare carnivorous plants." },
     facts: {
       de: ["Jamaikas einziges Binnen-Feuchtgebiet", "Reservat für Vögel und Wildtiere", "Einzigartige Flora", "Wichtig für den Naturschutz"],
@@ -449,9 +429,8 @@ image: "/poi-images/mason-river-game-sanctuary-nature-v2.webp"
     type: "river",
     parent: "JM-09",
     coords: [-77.17, 17.85],
-    name: { de: "Salt River", hu: "Salt River", ro: "Râul Salt", en: "Salt River",
-image: "/poi-images/salt-river-nature-v2.webp"
-},
+    name: { de: "Salt River", hu: "Salt River", ro: "Râul Salt", en: "Salt River"},
+    image: "/poi-images/salt-river-nature-v2.webp",
     description: { de: "Ein Fluss in Clarendon, der in die Portland Bight mündet.", hu: "Egy folyó Clarendonban, amely a Portland-öbölbe ömlik.", ro: "Un râu în Clarendon care se varsă în Golful Portland.", en: "A river in Clarendon that flows into Portland Bight." },
     facts: {
       de: ["Mündet in ein großes Feuchtgebiet", "Wichtiger Lebensraum für Vögel", "Mangrovenwälder entlang des Ufers", "Beliebt für Bootsfahrten"],
@@ -471,9 +450,8 @@ image: "/poi-images/salt-river-nature-v2.webp"
     type: "river",
     parent: "JM-12",
     coords: [-77.53, 17.88],
-    name: { de: "Alligator Hole River", hu: "Alligator Hole-folyó", ro: "Râul Alligator Hole", en: "Alligator Hole River",
-image: "/poi-images/alligator-hole-river-nature-v2.webp"
-},
+    name: { de: "Alligator Hole River", hu: "Alligator Hole-folyó", ro: "Râul Alligator Hole", en: "Alligator Hole River"},
+    image: "/poi-images/alligator-hole-river-nature-v2.webp",
     description: { de: "Ein Fluss in Manchester, der für seine Manati-Population bekannt ist.", hu: "Egy folyó Manchesterben, amely a lamantin populációjáról ismert.", ro: "Un râu în Manchester, cunoscut pentru populația sa de lamantini.", en: "A river in Manchester known for its manatee population." },
     facts: {
       de: ["Lebensraum für Manatis (Seekühe)", "Klares Quellwasser", "Mündet in die Long Bay", "Naturschutzgebiet"],
@@ -493,9 +471,8 @@ image: "/poi-images/alligator-hole-river-nature-v2.webp"
     type: "mountain",
     parent: "JM-14",
     coords: [-76.75, 18.00],
-    name: { de: "Long Mountain", hu: "Long Mountain", ro: "Muntele Long", en: "Long Mountain",
-image: "/poi-images/long-mountain-nature-v2.webp"
-},
+    name: { de: "Long Mountain", hu: "Long Mountain", ro: "Muntele Long", en: "Long Mountain"},
+    image: "/poi-images/long-mountain-nature-v2.webp",
     description: { de: "Ein Bergrücken, der den östlichen Rand von Kingston bildet.", hu: "Egy hegygerinc, amely Kingston keleti szélét képezi.", ro: "O creastă muntoasă care formează marginea de est a Kingstonului.", en: "A mountain ridge that forms the eastern border of Kingston." },
     facts: {
       de: ["Trennt Kingston vom Landesinneren", "Trockenwald-Vegetation", "Wohngebiete an den Hängen", "Bietet Blick auf die Stadt"],
@@ -515,9 +492,8 @@ image: "/poi-images/long-mountain-nature-v2.webp"
     type: "river",
     parent: "JM-14",
     coords: [-76.72, 17.98],
-    name: { de: "Hope River", hu: "Hope-folyó", ro: "Râul Hope", en: "Hope River",
-image: "/poi-images/hope-river-nature-v2.webp"
-},
+    name: { de: "Hope River", hu: "Hope-folyó", ro: "Râul Hope", en: "Hope River"},
+    image: "/poi-images/hope-river-nature-v2.webp",
     description: { de: "Ein Fluss, der durch die östlichen Vororte von Kingston fließt.", hu: "Egy folyó, amely Kingston keleti külvárosain folyik keresztül.", ro: "Un râu care curge prin suburbiile estice ale Kingstonului.", en: "A river that flows through the eastern suburbs of Kingston." },
     facts: {
       de: ["Wichtige Wasserquelle für Kingston", "Staut sich zum Hope River Dam", "Fließt durch Gordon Town", "Beliebt für Freizeitaktivitäten"],
@@ -537,9 +513,8 @@ image: "/poi-images/hope-river-nature-v2.webp"
     type: "forest",
     parent: "JM-12",
     coords: [-77.45, 17.85],
-    name: { de: "Canoe Valley Feuchtgebiete", hu: "Canoe Valley vizes élőhelyek", ro: "Zonele umede din Valea Canoe", en: "Canoe Valley Wetlands",
-image: "/poi-images/canoe-valley-wetlands-nature-v2.webp"
-},
+    name: { de: "Canoe Valley Feuchtgebiete", hu: "Canoe Valley vizes élőhelyek", ro: "Zonele umede din Valea Canoe", en: "Canoe Valley Wetlands"},
+    image: "/poi-images/canoe-valley-wetlands-nature-v2.webp",
     description: { de: "Ein geschütztes Feuchtgebiet in Clarendon und Manchester.", hu: "Védett vizes élőhely Clarendonban és Manchesterben.", ro: "Canoe Valley este o zonă umedă de coastă fascinantă, unde izvoarele de apă dulce întâlnesc marea, creând un peisaj pitoresc.", en: "A protected wetland area in Clarendon and Manchester." },
     facts: {
       de: ["Ramsar-Schutzgebiet", "Lebensraum für Krokodile und Vögel", "Mangroven und Sumpfwälder", "Wichtig für die Fischerei"],
@@ -559,9 +534,8 @@ image: "/poi-images/canoe-valley-wetlands-nature-v2.webp"
     type: "sea",
     parent: "JM-02",
     coords: [-77.75, 17.85],
-    name: { de: "Pedro Bluff", hu: "Pedro-szikla", ro: "Faleza Pedro", en: "Pedro Bluff",
-image: "/poi-images/pedro-bluff-nature-v2.webp"
-},
+    name: { de: "Pedro Bluff", hu: "Pedro-szikla", ro: "Faleza Pedro", en: "Pedro Bluff"},
+    image: "/poi-images/pedro-bluff-nature-v2.webp",
     description: { de: "Eine Reihe von Klippen an der Südküste von St. Elizabeth.", hu: "Sziklasorozat St. Elizabeth déli partján.", ro: "O serie de stânci pe coasta de sud a St. Elizabeth.", en: "A series of cliffs on the south coast of St. Elizabeth." },
     facts: {
       de: ["Dramatische Küstenklippen", "Trockene, savannenähnliche Landschaft", "Blick auf das Karibische Meer", "In der Nähe von Treasure Beach"],
@@ -581,9 +555,8 @@ image: "/poi-images/pedro-bluff-nature-v2.webp"
     type: "lake",
     parent: "JM-07",
     coords: [-77.63, 18.48],
-    name: { de: "Glistening Waters", hu: "Glistening Waters (Világító lagúna)", ro: "Apele Scânteietoare", en: "Glistening Waters",
-image: "/poi-images/glistening-waters-nature-v2.webp"
-},
+    name: { de: "Glistening Waters", hu: "Glistening Waters (Világító lagúna)", ro: "Apele Scânteietoare", en: "Glistening Waters"},
+    image: "/poi-images/glistening-waters-nature-v2.webp",
     description: { de: "Eine Lagune in der Nähe von Falmouth, die nachts durch Biolumineszenz leuchtet.", hu: "Egy lagúna Falmouth közelében, amely éjjel a biolumineszcencia miatt világít.", ro: "O lagună lângă Falmouth care strălucește noaptea datorită bioluminiscenței.", en: "A lagoon near Falmouth that glows at night due to bioluminescence." },
     facts: {
       de: ["Biolumineszente Mikroorganismen", "Nachttouren sind beliebt", "Einer von wenigen Orten weltweit", "Wo Süß- und Salzwasser aufeinandertreffen"],
@@ -603,9 +576,8 @@ image: "/poi-images/glistening-waters-nature-v2.webp"
     type: "river",
     parent: "JM-02",
     coords: [-77.58, 17.86],
-    name: { de: "Alligator Pond River", hu: "Alligator Pond-folyó", ro: "Râul Alligator Pond", en: "Alligator Pond River",
-image: "/poi-images/alligator-pond-river-nature-v2.webp"
-},
+    name: { de: "Alligator Pond River", hu: "Alligator Pond-folyó", ro: "Râul Alligator Pond", en: "Alligator Pond River"},
+    image: "/poi-images/alligator-pond-river-nature-v2.webp",
     description: { de: "Ein Fluss, der in das Fischerdorf Alligator Pond an der Grenze zwischen Manchester und St. Elizabeth mündet.", hu: "Egy folyó, amely az Alligator Pond halászfaluba ömlik Manchester és St. Elizabeth határán.", ro: "Un râu care se varsă în satul pescăresc Alligator Pond, la granița dintre Manchester și St. Elizabeth.", en: "A river that empties into the fishing village of Alligator Pond on the border of Manchester and St. Elizabeth." },
     facts: {
       de: ["Wichtige Wasserquelle für die Region", "Unterstützt ein großes Fischerdorf", "Mündet in die Long Bay", "Grenze zwischen zwei Parishes"],
@@ -625,9 +597,8 @@ image: "/poi-images/alligator-pond-river-nature-v2.webp"
     type: "river",
     parent: "JM-04",
     coords: [-76.48, 18.20],
-    name: { de: "Somerset Falls", hu: "Somerset-vízesés", ro: "Cascadele Somerset", en: "Somerset Falls",
-image: "/poi-images/somerset-falls-nature-v2.webp"
-},
+    name: { de: "Somerset Falls", hu: "Somerset-vízesés", ro: "Cascadele Somerset", en: "Somerset Falls"},
+    image: "/poi-images/somerset-falls-nature-v2.webp",
     description: { de: "Eine Reihe von Wasserfällen am Daniels River, versteckt in einem Regenwald in Portland.", hu: "Vízesések sorozata a Daniels folyón, egy portlandi esőerdőben elrejtve.", ro: "O serie de cascade pe râul Daniels, ascunse într-o pădure tropicală din Portland.", en: "A series of waterfalls on the Daniels River, hidden in a rainforest in Portland." },
     facts: {
       de: ["Versteckte Wasserfälle", "Bootsfahrt zum Hauptfall", "Üppige tropische Gärten", "Ruhige und malerische Umgebung"],
@@ -647,9 +618,8 @@ image: "/poi-images/somerset-falls-nature-v2.webp"
     type: "river",
     parent: "JM-03",
     coords: [-78.10, 18.28],
-    name: { de: "Roaring River", hu: "Roaring River", ro: "Râul Roaring", en: "Roaring River",
-image: "/poi-images/roaring-river-nature-v2.webp"
-},
+    name: { de: "Roaring River", hu: "Roaring River", ro: "Râul Roaring", en: "Roaring River"},
+    image: "/poi-images/roaring-river-nature-v2.webp",
     description: { de: "Ein Fluss in Westmoreland, bekannt für seine Höhlen und den Park.", hu: "Folyó Westmorelandben, amely barlangjairól és parkjáról ismert.", ro: "Un râu în Westmoreland, cunoscut pentru peșterile și parcul său.", en: "A river in Westmoreland known for its caves and park." },
     facts: {
       de: ["Fließt teilweise unterirdisch", "Roaring River Park mit botanischem Garten", "Kalksteinhöhlen zum Erkunden", "Klares, kühles Wasser"],

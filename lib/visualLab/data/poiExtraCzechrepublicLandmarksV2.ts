@@ -5,9 +5,8 @@ export const czechrepublicLandmarksV2: POI[] = [
     id: "czechrepublic-charles-bridge-landmarks-v2",
     parent: "CZ",
     type: "bridge",
-    name: { de: "Karlsbrücke", hu: "Károly híd", ro: "Podul Carol", en: "Charles Bridge",
-image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp"
-},
+    name: { de: "Karlsbrücke", hu: "Károly híd", ro: "Podul Carol", en: "Charles Bridge"},
+    image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp",
     coords: [14.4114, 50.0865],
     coordinates: { lat: 50.0865, lng: 14.4114 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/czechrepublic-charles-bridge-landmarks-v2.webp"
     id: "czechrepublic-astronomical-clock-landmarks-v2",
     parent: "CZ",
     type: "monument",
-    name: { de: "Prager Rathausuhr", hu: "Prágai asztronómiai óra", ro: "Ceasul Astronomic din Praga", en: "Prague Astronomical Clock",
-image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp"
-},
+    name: { de: "Prager Rathausuhr", hu: "Prágai asztronómiai óra", ro: "Ceasul Astronomic din Praga", en: "Prague Astronomical Clock"},
+    image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp",
     coords: [14.4207, 50.087],
     coordinates: { lat: 50.087, lng: 14.4207 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/czechrepublic-astronomical-clock-landmarks-v2.webp"
     id: "czechrepublic-st-vitus-cathedral-landmarks-v2",
     parent: "CZ",
     type: "cathedral",
-    name: { de: "Veitsdom", hu: "Szent Vitus-székesegyház", ro: "Catedrala Sfântul Vitus", en: "St. Vitus Cathedral",
-image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Veitsdom", hu: "Szent Vitus-székesegyház", ro: "Catedrala Sfântul Vitus", en: "St. Vitus Cathedral"},
+    image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp",
     coords: [14.4005, 50.0909],
     coordinates: { lat: 50.0909, lng: 14.4005 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/czechrepublic-st-vitus-cathedral-landmarks-v2.webp"
     id: "czechrepublic-konopiste-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Schloss Konopiště", hu: "Konopiště kastély", ro: "Castelul Konopiště", en: "Konopiště Castle",
-image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Konopiště", hu: "Konopiště kastély", ro: "Castelul Konopiště", en: "Konopiště Castle"},
+    image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp",
     coords: [14.6564, 49.7794],
     coordinates: { lat: 49.7794, lng: 14.6564 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/czechrepublic-konopiste-castle-landmarks-v2.webp"
     id: "czechrepublic-cesky-krumlov-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Schloss Krumau", hu: "Český Krumlov-i vár", ro: "Castelul Český Krumlov", en: "Český Krumlov Castle",
-image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Krumau", hu: "Český Krumlov-i vár", ro: "Castelul Český Krumlov", en: "Český Krumlov Castle"},
+    image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp",
     coords: [14.3147, 48.8125],
     coordinates: { lat: 48.8125, lng: 14.3147 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/czechrepublic-cesky-krumlov-castle-landmarks-v2.webp"
     id: "czechrepublic-lednice-chateau-landmarks-v2",
     parent: "CZ",
     type: "palace",
-    name: { de: "Schloss Lednice", hu: "Lednicei kastély", ro: "Castelul Lednice", en: "Lednice Chateau",
-image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp"
-},
+    name: { de: "Schloss Lednice", hu: "Lednicei kastély", ro: "Castelul Lednice", en: "Lednice Chateau"},
+    image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp",
     coords: [16.8033, 48.8005],
     coordinates: { lat: 48.8005, lng: 16.8033 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/czechrepublic-lednice-chateau-landmarks-v2.webp"
     id: "czechrepublic-valtice-chateau-landmarks-v2",
     parent: "CZ",
     type: "palace",
-    name: { de: "Schloss Valtice", hu: "Valticei kastély", ro: "Castelul Valtice", en: "Valtice Chateau",
-image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp"
-},
+    name: { de: "Schloss Valtice", hu: "Valticei kastély", ro: "Castelul Valtice", en: "Valtice Chateau"},
+    image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp",
     coords: [16.7558, 48.7397],
     coordinates: { lat: 48.7397, lng: 16.7558 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/czechrepublic-valtice-chateau-landmarks-v2.webp"
     id: "czechrepublic-st-barbara-cathedral-landmarks-v2",
     parent: "CZ",
     type: "cathedral",
-    name: { de: "Dom der heiligen Barbara", hu: "Szent Borbála-templom", ro: "Biserica Sfânta Barbara", en: "St. Barbara's Cathedral",
-image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Dom der heiligen Barbara", hu: "Szent Borbála-templom", ro: "Biserica Sfânta Barbara", en: "St. Barbara's Cathedral"},
+    image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp",
     coords: [15.2636, 49.945],
     coordinates: { lat: 49.945, lng: 15.2636 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/czechrepublic-st-barbara-cathedral-landmarks-v2.webp"
     id: "czechrepublic-bouzov-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Burg Bouzov", hu: "Bouzov vára", ro: "Castelul Bouzov", en: "Bouzov Castle",
-image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Bouzov", hu: "Bouzov vára", ro: "Castelul Bouzov", en: "Bouzov Castle"},
+    image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp",
     coords: [16.8892, 49.7042],
     coordinates: { lat: 49.7042, lng: 16.8892 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/czechrepublic-bouzov-castle-landmarks-v2.webp"
     id: "czechrepublic-kromeriz-palace-landmarks-v2",
     parent: "CZ",
     type: "palace",
-    name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Archbishop's Palace in Kroměříž",
-image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp"
-},
+    name: { de: "Erzbischöfliches Schloss Kremsier", hu: "Kroměříži érseki palota", ro: "Palatul Arhiepiscopal din Kroměříž", en: "Archbishop's Palace in Kroměříž"},
+    image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp",
     coords: [17.3922, 49.2997],
     coordinates: { lat: 49.2997, lng: 17.3922 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/czechrepublic-kromeriz-palace-landmarks-v2.webp"
     id: "czechrepublic-villa-tugendhat-landmarks-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Villa Tugendhat", hu: "Tugendhat-villa", ro: "Vila Tugendhat", en: "Villa Tugendhat",
-image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp"
-},
+    name: { de: "Villa Tugendhat", hu: "Tugendhat-villa", ro: "Vila Tugendhat", en: "Villa Tugendhat"},
+    image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp",
     coords: [16.6161, 49.2072],
     coordinates: { lat: 49.2072, lng: 16.6161 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/czechrepublic-villa-tugendhat-landmarks-v2.webp"
     id: "czechrepublic-spilberk-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Castelul Špilberk", en: "Špilberk Castle",
-image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp"
-},
+    name: { de: "Festung Špilberk", hu: "Špilberk vár", ro: "Castelul Špilberk", en: "Špilberk Castle"},
+    image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp",
     coords: [16.5992, 49.1947],
     coordinates: { lat: 49.1947, lng: 16.5992 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/czechrepublic-spilberk-castle-landmarks-v2.webp"
     id: "czechrepublic-jested-tower-landmarks-v2",
     parent: "CZ",
     type: "tower",
-    name: { de: "Fernsehturm Ještěd", hu: "Ještěd-torony", ro: "Turnul Ještěd", en: "Ještěd Tower",
-image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp"
-},
+    name: { de: "Fernsehturm Ještěd", hu: "Ještěd-torony", ro: "Turnul Ještěd", en: "Ještěd Tower"},
+    image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp",
     coords: [14.9847, 50.7328],
     coordinates: { lat: 50.7328, lng: 14.9847 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/czechrepublic-jested-tower-landmarks-v2.webp"
     id: "czechrepublic-holy-trinity-column-landmarks-v2",
     parent: "CZ",
     type: "monument",
-    name: { de: "Dreifaltigkeitssäule in Olomouc", hu: "Szentháromság-oszlop Olomoucban", ro: "Coloana Ciumei din Olomouc", en: "Holy Trinity Column in Olomouc",
-image: "/poi-images/czechrepublic-holy-trinity-column-landmarks-v2.webp"
-},
+    name: { de: "Dreifaltigkeitssäule in Olomouc", hu: "Szentháromság-oszlop Olomoucban", ro: "Coloana Ciumei din Olomouc", en: "Holy Trinity Column in Olomouc"},
+    image: "/poi-images/czechrepublic-holy-trinity-column-landmarks-v2.webp",
     coords: [17.2503, 49.5939],
     coordinates: { lat: 49.5939, lng: 17.2503 },
     description: {
@@ -508,9 +494,8 @@ image: "/poi-images/czechrepublic-holy-trinity-column-landmarks-v2.webp"
     id: "czechrepublic-jindrichuv-hradec-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Schloss Jindřichův Hradec", hu: "Jindřichův Hradec kastélya", ro: "Castelul Jindřichův Hradec", en: "Jindřichův Hradec Castle",
-image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Jindřichův Hradec", hu: "Jindřichův Hradec kastélya", ro: "Castelul Jindřichův Hradec", en: "Jindřichův Hradec Castle"},
+    image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp",
     coords: [15.0006, 49.1419],
     coordinates: { lat: 49.1419, lng: 15.0006 },
     description: {
@@ -544,9 +529,8 @@ image: "/poi-images/czechrepublic-jindrichuv-hradec-castle-landmarks-v2.webp"
     id: "czechrepublic-st-bartholomew-cathedral-landmarks-v2",
     parent: "CZ",
     type: "cathedral",
-    name: { de: "St.-Bartholomäus-Kathedrale", hu: "Szent Bertalan-székesegyház", ro: "Catedrala Sfântul Bartolomeu", en: "St. Bartholomew's Cathedral",
-image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp"
-},
+    name: { de: "St.-Bartholomäus-Kathedrale", hu: "Szent Bertalan-székesegyház", ro: "Catedrala Sfântul Bartolomeu", en: "St. Bartholomew's Cathedral"},
+    image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp",
     coords: [13.3775, 49.7475],
     coordinates: { lat: 49.7475, lng: 13.3775 },
     description: {
@@ -580,9 +564,8 @@ image: "/poi-images/czechrepublic-st-bartholomew-cathedral-landmarks-v2.webp"
     id: "czechrepublic-telc-historic-centre-landmarks-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Historisches Zentrum von Telč", hu: "Telč történelmi központja", ro: "Centrul istoric din Telč", en: "Historic Centre of Telč",
-image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp"
-},
+    name: { de: "Historisches Zentrum von Telč", hu: "Telč történelmi központja", ro: "Centrul istoric din Telč", en: "Historic Centre of Telč"},
+    image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp",
     coords: [15.4528, 49.1842],
     coordinates: { lat: 49.1842, lng: 15.4528 },
     description: {
@@ -617,9 +600,8 @@ image: "/poi-images/czechrepublic-telc-historic-centre-landmarks-v2.webp"
     id: "czechrepublic-vranov-nad-dyji-chateau-landmarks-v2",
     parent: "CZ",
     type: "palace",
-    name: { de: "Schloss Vranov nad Dyjí", hu: "Vranov nad Dyjí kastély", ro: "Castelul Vranov nad Dyjí", en: "Vranov nad Dyjí Chateau",
-image: "/poi-images/czechrepublic-vranov-nad-dyji-chateau-landmarks-v2.webp"
-},
+    name: { de: "Schloss Vranov nad Dyjí", hu: "Vranov nad Dyjí kastély", ro: "Castelul Vranov nad Dyjí", en: "Vranov nad Dyjí Chateau"},
+    image: "/poi-images/czechrepublic-vranov-nad-dyji-chateau-landmarks-v2.webp",
     coordinates: { lat: 48.8927, lng: 15.8111 },
     description: {
       de: "Das Schloss Vranov nad Dyjí thront auf einem Felsen über dem Fluss Thaya. Es ist ein bedeutendes Beispiel des Barockbaus und stammt ursprünglich aus dem 11. Jahrhundert.",
@@ -651,9 +633,8 @@ image: "/poi-images/czechrepublic-vranov-nad-dyji-chateau-landmarks-v2.webp"
     id: "czechrepublic-kost-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Burg Kost", hu: "Kost vára", ro: "Castelul Kost", en: "Kost Castle",
-image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Kost", hu: "Kost vára", ro: "Castelul Kost", en: "Kost Castle"},
+    image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp",
     coordinates: { lat: 50.4903, lng: 15.1351 },
     description: {
       de: "Die Burg Kost ist eine der am besten erhaltenen gotischen Burgen in Böhmen. Sie liegt versteckt in einem Tal und ist für ihren markanten weißen quadratischen Turm bekannt.",
@@ -686,9 +667,8 @@ image: "/poi-images/czechrepublic-kost-castle-landmarks-v2.webp"
     id: "czechrepublic-national-theatre-prague-landmarks-v2",
     parent: "CZ",
     type: "theater",
-    name: { de: "Nationaltheater Prag", hu: "Prágai Nemzeti Színház", ro: "Teatrul Național din Praga", en: "National Theatre Prague",
-image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp"
-},
+    name: { de: "Nationaltheater Prag", hu: "Prágai Nemzeti Színház", ro: "Teatrul Național din Praga", en: "National Theatre Prague"},
+    image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp",
     coordinates: { lat: 50.0811, lng: 14.4128 },
     description: {
       de: "Das Nationaltheater in Prag ist ein Symbol der tschechischen nationalen Identität. Es wurde durch Volksspenden finanziert und 1883 nach einem schweren Brand wiedereröffnet.",
@@ -721,9 +701,8 @@ image: "/poi-images/czechrepublic-national-theatre-prague-landmarks-v2.webp"
     id: "czechrepublic-troja-palace-landmarks-v2",
     parent: "CZ",
     type: "palace",
-    name: { de: "Schloss Troja", hu: "Troja-palota", ro: "Palatul Troja", en: "Troja Palace",
-image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp"
-},
+    name: { de: "Schloss Troja", hu: "Troja-palota", ro: "Palatul Troja", en: "Troja Palace"},
+    image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp",
     coordinates: { lat: 50.1164, lng: 14.4072 },
     description: {
       de: "Das Schloss Troja ist eine barocke Sommerresidenz in Prag, umgeben von einem weitläufigen Garten. Es ist berühmt für seine monumentale Treppe mit Statuen kämpfender Giganten.",
@@ -756,9 +735,8 @@ image: "/poi-images/czechrepublic-troja-palace-landmarks-v2.webp"
     id: "czechrepublic-zelena-hora-church-landmarks-v2",
     parent: "CZ",
     type: "church",
-    name: { de: "Wallfahrtskirche am Grünen Berg", hu: "Zelená Hora-i zarándoktemplom", ro: "Biserica de pelerinaj de pe Zelena Hora", en: "Zelená Hora Pilgrimage Church",
-image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp"
-},
+    name: { de: "Wallfahrtskirche am Grünen Berg", hu: "Zelená Hora-i zarándoktemplom", ro: "Biserica de pelerinaj de pe Zelena Hora", en: "Zelená Hora Pilgrimage Church"},
+    image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp",
     coordinates: { lat: 49.5833, lng: 15.9419 },
     description: {
       de: "Die Wallfahrtskirche des Heiligen Johannes von Nepomuk am Grünen Berg ist ein UNESCO-Welterbe. Sie besticht durch ihre einzigartige Architektur in Form eines fünfzackigen Sterns.",
@@ -791,9 +769,8 @@ image: "/poi-images/czechrepublic-zelena-hora-church-landmarks-v2.webp"
     id: "czechrepublic-sychrov-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Schloss Sychrov", hu: "Sychrov-kastély", ro: "Castelul Sychrov", en: "Sychrov Castle",
-image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Sychrov", hu: "Sychrov-kastély", ro: "Castelul Sychrov", en: "Sychrov Castle"},
+    image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp",
     coordinates: { lat: 50.6264, lng: 15.0886 },
     description: {
       de: "Schloss Sychrov diente als Residenz der französischen Adelsfamilie Rohan. Es ist bekannt für seine romantische neugotische Gestaltung und die prachtvollen Holzschnitzereien im Inneren.",
@@ -826,9 +803,8 @@ image: "/poi-images/czechrepublic-sychrov-castle-landmarks-v2.webp"
     id: "czechrepublic-buchlov-castle-landmarks-v2",
     parent: "CZ",
     type: "castle",
-    name: { de: "Burg Buchlov", hu: "Buchlov vára", ro: "Castelul Buchlov", en: "Buchlov Castle",
-image: "/poi-images/czechrepublic-buchlov-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Buchlov", hu: "Buchlov vára", ro: "Castelul Buchlov", en: "Buchlov Castle"},
+    image: "/poi-images/czechrepublic-buchlov-castle-landmarks-v2.webp",
     coordinates: { lat: 49.1083, lng: 17.3111 },
     description: {
       de: "Burg Buchlov ist eine majestätische königliche Burg auf einem Hügel des Marsgebirges. Sie gehört zu den ältesten Burgen Tschechiens und wurde in ihrer Geschichte nie erobert.",

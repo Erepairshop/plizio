@@ -11,9 +11,8 @@ export const poiExtraUruguayEconomicV2: POI[] = [
       de: "Hafen von Montevideo",
       hu: "Montevideo Kikötője",
       ro: "Portul Montevideo",
-      en: "Port of Montevideo",
-image: "/poi-images/port-of-montevideo-economic-v2.webp"
-},
+      en: "Port of Montevideo"},
+    image: "/poi-images/port-of-montevideo-economic-v2.webp",
     description: {
       de: "Der größte Seehafen Uruguays, durch den der Großteil des Außenhandels fließt.",
       hu: "Uruguay legnagyobb tengeri kikötője, amelyen a külkereskedelem nagy része áthalad.",
@@ -52,9 +51,8 @@ image: "/poi-images/port-of-montevideo-economic-v2.webp"
       de: "Hafen von Nueva Palmira",
       hu: "Nueva Palmira Kikötője",
       ro: "Portul Nueva Palmira",
-      en: "Port of Nueva Palmira",
-image: "/poi-images/port-of-nueva-palmira-economic-v2.webp"
-},
+      en: "Port of Nueva Palmira"},
+    image: "/poi-images/port-of-nueva-palmira-economic-v2.webp",
     description: {
       de: "Zweitgrößter Hafen Uruguays, spezialisiert auf den Export von Getreide und Zellstoff.",
       hu: "Uruguay második legnagyobb kikötője, amely gabona- és cellulózexportra specializálódott.",
@@ -92,9 +90,8 @@ image: "/poi-images/port-of-nueva-palmira-economic-v2.webp"
       de: "UPM-Zellstoffwerk Fray Bentos",
       hu: "UPM Fray Bentos Cellulózgyár",
       ro: "Fabrica de celuloză UPM Fray Bentos",
-      en: "UPM Fray Bentos Pulp Mill",
-image: "/poi-images/upm-fray-bentos-economic-v2.webp"
-},
+      en: "UPM Fray Bentos Pulp Mill"},
+    image: "/poi-images/upm-fray-bentos-economic-v2.webp",
     description: {
       de: "Eine der größten Zellstofffabriken der Welt am Ufer des Uruguay-Flusses.",
       hu: "A világ egyik legnagyobb cellulózgyára az Uruguay folyó partján.",
@@ -132,9 +129,8 @@ image: "/poi-images/upm-fray-bentos-economic-v2.webp"
       de: "Zellstoffwerk Montes del Plata",
       hu: "Montes del Plata Cellulózgyár",
       ro: "Fabrica de celuloză Montes del Plata",
-      en: "Montes del Plata Pulp Mill",
-image: "/poi-images/montes-del-plata-mill-economic-v2.webp"
-},
+      en: "Montes del Plata Pulp Mill"},
+    image: "/poi-images/montes-del-plata-mill-economic-v2.webp",
     description: {
       de: "Großes Joint-Venture-Zellstoffwerk, das erheblich zum BIP und Export Uruguays beiträgt.",
       hu: "Nagy vegyesvállalati cellulózgyár, amely jelentősen hozzájárul Uruguay GDP-jéhez és exportjához.",
@@ -172,9 +168,8 @@ image: "/poi-images/montes-del-plata-mill-economic-v2.webp"
       de: "UPM-Werk Paso de los Toros",
       hu: "UPM Paso de los Toros Gyár",
       ro: "Fabrica UPM Paso de los Toros",
-      en: "UPM Paso de los Toros Mill",
-image: "/poi-images/upm-paso-de-los-toros-economic-v2.webp"
-},
+      en: "UPM Paso de los Toros Mill"},
+    image: "/poi-images/upm-paso-de-los-toros-economic-v2.webp",
     description: {
       de: "Eine moderne Zellstofffabrik im Zentrum von Uruguay, die die nationale Wirtschaftsentwicklung vorantreibt.",
       hu: "Modern cellulózgyár Közép-Uruguayban, amely fellendíti a nemzeti gazdasági fejlődést.",
@@ -212,9 +207,8 @@ image: "/poi-images/upm-paso-de-los-toros-economic-v2.webp"
       de: "ANCAP-Raffinerie La Teja",
       hu: "ANCAP La Teja Finomító",
       ro: "Rafinăria ANCAP La Teja",
-      en: "ANCAP La Teja Refinery",
-image: "/poi-images/ancap-la-teja-refinery-economic-v2.webp"
-},
+      en: "ANCAP La Teja Refinery"},
+    image: "/poi-images/ancap-la-teja-refinery-economic-v2.webp",
     description: {
       de: "Die einzige Erdölraffinerie in Uruguay, die den gesamten Kraftstoffbedarf des Landes deckt.",
       hu: "Az egyetlen olajfinomító Uruguayban, amely az ország teljes üzemanyag-szükségletét fedezi.",
@@ -252,9 +246,8 @@ image: "/poi-images/ancap-la-teja-refinery-economic-v2.webp"
       de: "Salto Grande Wasserkraftwerk",
       hu: "Salto Grande Vízerőmű",
       ro: "Centrala Hidroelectrică Salto Grande",
-      en: "Salto Grande Dam",
-image: "/poi-images/salto-grande-dam-economic-v2.webp"
-},
+      en: "Salto Grande Dam"},
+    image: "/poi-images/salto-grande-dam-economic-v2.webp",
     description: {
       de: "Ein binationales Wasserkraftwerk am Fluss Uruguay, das eine Hauptenergiequelle für Uruguay und Argentinien darstellt.",
       hu: "Kétnemzetiségű vízerőmű az Uruguay folyón, amely Uruguay és Argentína fő áramforrása.",
@@ -292,9 +285,8 @@ image: "/poi-images/salto-grande-dam-economic-v2.webp"
       de: "Zonamerica",
       hu: "Zonamerica",
       ro: "Zonamerica",
-      en: "Zonamerica",
-image: "/poi-images/zonamerica-economic-v2.webp"
-},
+      en: "Zonamerica"},
+    image: "/poi-images/zonamerica-economic-v2.webp",
     description: {
       de: "Ein führender Technologie- und Wirtschaftspark, der als Freihandelszone fungiert.",
       hu: "Vezető technológiai és üzleti park, amely szabadkereskedelmi övezetként működik.",
@@ -332,9 +324,8 @@ image: "/poi-images/zonamerica-economic-v2.webp"
       de: "Conaprole Milchwerk Florida",
       hu: "Conaprole Florida Tejüzem",
       ro: "Fabrica de lactate Conaprole Florida",
-      en: "Conaprole Florida Dairy Plant",
-image: "/poi-images/conaprole-plant-florida-economic-v2.webp"
-},
+      en: "Conaprole Florida Dairy Plant"},
+    image: "/poi-images/conaprole-plant-florida-economic-v2.webp",
     description: {
       de: "Eine der Hauptproduktionsstätten der größten Molkereigenossenschaft Uruguays.",
       hu: "Uruguay legnagyobb tejipari szövetkezetének egyik fő termelési üzeme.",
@@ -372,9 +363,8 @@ image: "/poi-images/conaprole-plant-florida-economic-v2.webp"
       de: "Hafen von Colonia",
       hu: "Colonia Kikötője",
       ro: "Portul Colonia",
-      en: "Port of Colonia",
-image: "/poi-images/port-of-colonia-economic-v2.webp"
-},
+      en: "Port of Colonia"},
+    image: "/poi-images/port-of-colonia-economic-v2.webp",
     description: {
       de: "Der wichtigste Passagierhafen des Landes, der Colonia del Sacramento mit Buenos Aires verbindet.",
       hu: "Az ország fő utasforgalmi kikötője, amely Colonia del Sacramentót Buenos Airesszel köti össze.",
@@ -412,9 +402,8 @@ image: "/poi-images/port-of-colonia-economic-v2.webp"
       de: "Marfrig Schlachthof Tacuarembó",
       hu: "Marfrig Tacuarembó Vágóhíd",
       ro: "Abatorul Marfrig Tacuarembó",
-      en: "Marfrig Tacuarembó Slaughterhouse",
-image: "/poi-images/marfrig-tacuarembo-economic-v2.webp"
-},
+      en: "Marfrig Tacuarembó Slaughterhouse"},
+    image: "/poi-images/marfrig-tacuarembo-economic-v2.webp",
     description: {
       de: "Ein großer fleischverarbeitender Betrieb, der hochwertiges uruguayisches Rindfleisch für globale Märkte produziert.",
       hu: "Nagy húsfeldolgozó üzem, amely kiváló minőségű uruguayi marhahúst állít elő a globális piacokra.",
@@ -452,9 +441,8 @@ image: "/poi-images/marfrig-tacuarembo-economic-v2.webp"
       de: "Hafen von Fray Bentos",
       hu: "Fray Bentos Kikötője",
       ro: "Portul Fray Bentos",
-      en: "Port of Fray Bentos",
-image: "/poi-images/port-of-fray-bentos-economic-v2.webp"
-},
+      en: "Port of Fray Bentos"},
+    image: "/poi-images/port-of-fray-bentos-economic-v2.webp",
     description: {
       de: "Ein Flusshafen mit Tiefwasserzugang, der den Export von landwirtschaftlichen Gütern und Holzprodukten unterstützt.",
       hu: "Folyami kikötő mélyvízi hozzáféréssel, amely támogatja a mezőgazdasági termékek és faipari termékek exportját.",
@@ -492,9 +480,8 @@ image: "/poi-images/port-of-fray-bentos-economic-v2.webp"
       de: "Wissenschaftspark Pando (PCTP)",
       hu: "Pando Tudományos Park (PCTP)",
       ro: "Parcul Științific Pando (PCTP)",
-      en: "Pando Science and Technology Park (PCTP)",
-image: "/poi-images/pando-science-park-economic-v2.webp"
-},
+      en: "Pando Science and Technology Park (PCTP)"},
+    image: "/poi-images/pando-science-park-economic-v2.webp",
     description: {
       de: "Ein Innovationszentrum, das die Zusammenarbeit zwischen Industrie und Forschung im Bereich der Biowissenschaften fördert.",
       hu: "Innovációs központ, amely elősegíti az ipar és a kutatás közötti együttműködést a biotechnológia területén.",
@@ -534,9 +521,8 @@ image: "/poi-images/pando-science-park-economic-v2.webp"
       de: "Salus Abfüllanlage",
       hu: "Salus Palackozóüzem",
       ro: "Fabrica de îmbuteliere Salus",
-      en: "Salus Bottling Plant",
-image: "/poi-images/salus-water-plant-economic-v2.webp"
-},
+      en: "Salus Bottling Plant"},
+    image: "/poi-images/salus-water-plant-economic-v2.webp",
     description: {
       de: "Die Hauptproduktionsstätte für Uruguays bekannteste Mineralwassermarke in den Sierras de Minas.",
       hu: "Uruguay leghíresebb ásványvíz márkájának fő termelési üzeme a Sierras de Minasban.",
@@ -574,9 +560,8 @@ image: "/poi-images/salus-water-plant-economic-v2.webp"
       de: "Hafen von Paysandú",
       hu: "Paysandú Kikötője",
       ro: "Portul Paysandú",
-      en: "Port of Paysandú",
-image: "/poi-images/port-of-paysandu-economic-v2.webp"
-},
+      en: "Port of Paysandú"},
+    image: "/poi-images/port-of-paysandu-economic-v2.webp",
     description: {
       de: "Ein Binnenhafen am Fluss Uruguay, wichtig für den regionalen Handel und die Logistik.",
       hu: "Belföldi kikötő az Uruguay folyón, amely fontos a regionális kereskedelem és logisztika szempontjából.",
@@ -616,9 +601,8 @@ image: "/poi-images/port-of-paysandu-economic-v2.webp"
       de: "Boreal Hanfverarbeitungsanlage",
       hu: "Boreal Kenderfeldolgozó Üzem",
       ro: "Fabrica de procesare a cânepei Boreal",
-      en: "Boreal Hemp Processing Facility",
-image: "/poi-images/boreal-hemp-facility-economic-v2.webp"
-},
+      en: "Boreal Hemp Processing Facility"},
+    image: "/poi-images/boreal-hemp-facility-economic-v2.webp",
     description: {
       de: "Einst die größte Anlage zur Verarbeitung von medizinischem Cannabis in Lateinamerika.",
       hu: "Egykor Latin-Amerika legnagyobb orvosi kannabisz feldolgozó létesítménye volt.",
@@ -656,9 +640,8 @@ image: "/poi-images/boreal-hemp-facility-economic-v2.webp"
       de: "Industrie- und Technologiepark Cerro (PTI)",
       hu: "Cerro Ipari és Technológiai Park (PTI)",
       ro: "Parcul Tehnologic Industrial Cerro (PTI)",
-      en: "Cerro Industrial Technological Park (PTI)",
-image: "/poi-images/parque-tecnologico-industrial-cerro-economic-v2.webp"
-},
+      en: "Cerro Industrial Technological Park (PTI)"},
+    image: "/poi-images/parque-tecnologico-industrial-cerro-economic-v2.webp",
     description: {
       de: "Ein städtischer Industriepark in Montevideo, der lokale kleine und mittlere Unternehmen unterstützt.",
       hu: "Városi ipari park Montevideóban, amely a helyi kis- és középvállalkozásokat támogatja.",
@@ -698,9 +681,8 @@ image: "/poi-images/parque-tecnologico-industrial-cerro-economic-v2.webp"
       de: "Megal Flüssiggas-Abfüllanlage",
       hu: "Megal PB-gáz Palackozóüzem",
       ro: "Fabrica de îmbuteliere GPL Megal",
-      en: "Megal LPG Bottling Plant",
-image: "/poi-images/megal-lpg-plant-economic-v2.webp"
-},
+      en: "Megal LPG Bottling Plant"},
+    image: "/poi-images/megal-lpg-plant-economic-v2.webp",
     description: {
       de: "Eine wichtige Anlage zur Abfüllung und Verteilung von Flüssiggas (LPG) für den Hausgebrauch.",
       hu: "A háztartási célú cseppfolyósított propán-bután gáz (PB-gáz) palackozására és elosztására szolgáló fontos létesítmény.",
@@ -738,9 +720,8 @@ image: "/poi-images/megal-lpg-plant-economic-v2.webp"
       de: "Weingut Bouza",
       hu: "Bouza Pincészet",
       ro: "Crama Bouza",
-      en: "Bodega Bouza",
-image: "/poi-images/tannat-winery-bouza-economic-v2.webp"
-},
+      en: "Bodega Bouza"},
+    image: "/poi-images/tannat-winery-bouza-economic-v2.webp",
     description: {
       de: "Eine führende Weinkellerei in der Nähe von Montevideo, berühmt für die Produktion von Premium-Tannat-Weinen.",
       hu: "Vezető borászat Montevideo közelében, amely a prémium Tannat borok termeléséről híres.",
@@ -778,9 +759,8 @@ image: "/poi-images/tannat-winery-bouza-economic-v2.webp"
       de: "Fanapel Papierfabrik",
       hu: "Fanapel Papírgyár",
       ro: "Fabrica de hârtie Fanapel",
-      en: "Fanapel Paper Mill",
-image: "/poi-images/fanapel-paper-mill-juan-lacaze-economic-v2.webp"
-},
+      en: "Fanapel Paper Mill"},
+    image: "/poi-images/fanapel-paper-mill-juan-lacaze-economic-v2.webp",
     description: {
       de: "Eine historische Papierfabrik in Juan Lacaze, einst der industrielle Kern der Stadt.",
       hu: "Történelmi papírgyár Juan Lacaze-ban, amely egykor a város ipari központja volt.",
@@ -818,9 +798,8 @@ image: "/poi-images/fanapel-paper-mill-juan-lacaze-economic-v2.webp"
       de: "Cristalerías del Uruguay (ehemals)",
       hu: "Cristalerías del Uruguay (egykor)",
       ro: "Cristalerías del Uruguay (fostă)",
-      en: "Cristalerías del Uruguay (former)",
-image: "/poi-images/cristalerias-del-uruguay-economic-v2.webp"
-},
+      en: "Cristalerías del Uruguay (former)"},
+    image: "/poi-images/cristalerias-del-uruguay-economic-v2.webp",
     description: {
       de: "Einst eine florierende Glasfabrik, die die wirtschaftliche Blütezeit Uruguays Mitte des 20. Jahrhunderts symbolisierte.",
       hu: "Egykor virágzó üveggyár, amely a 20. század közepén Uruguay gazdasági fénykorát szimbolizálta.",
@@ -860,9 +839,8 @@ image: "/poi-images/cristalerias-del-uruguay-economic-v2.webp"
       de: "ISUSA Düngemittelfabrik",
       hu: "ISUSA Műtrágyagyár",
       ro: "Fabrica de îngrășăminte ISUSA",
-      en: "ISUSA Fertilizer Plant",
-image: "/poi-images/isusa-fertilizer-plant-economic-v2.webp"
-},
+      en: "ISUSA Fertilizer Plant"},
+    image: "/poi-images/isusa-fertilizer-plant-economic-v2.webp",
     description: {
       de: "Ein wichtiges Chemieunternehmen, das landwirtschaftliche Düngemittel zur Unterstützung des uruguayischen Agrarsektors herstellt.",
       hu: "Fontos vegyipari vállalat, amely mezőgazdasági műtrágyákat gyárt az uruguayi agrárszektor támogatására.",
@@ -900,9 +878,8 @@ image: "/poi-images/isusa-fertilizer-plant-economic-v2.webp"
       de: "Zementwerk Minas (ANCAP)",
       hu: "Minas Cementgyár (ANCAP)",
       ro: "Fabrica de ciment Minas (ANCAP)",
-      en: "Minas Cement Plant (ANCAP)",
-image: "/poi-images/minas-cement-plant-ancap-economic-v2.webp"
-},
+      en: "Minas Cement Plant (ANCAP)"},
+    image: "/poi-images/minas-cement-plant-ancap-economic-v2.webp",
     description: {
       de: "Eine staatliche Zementfabrik, die den Kalksteinreichtum der Region Lavalleja nutzt.",
       hu: "Állami tulajdonú cementgyár, amely Lavalleja régió mészkőgazdagságát hasznosítja.",
@@ -942,9 +919,8 @@ image: "/poi-images/minas-cement-plant-ancap-economic-v2.webp"
       de: "Minerva Foods Schlachthof Canelones",
       hu: "Minerva Foods Canelones Vágóhíd",
       ro: "Abatorul Minerva Foods Canelones",
-      en: "Minerva Foods Canelones Meat Plant",
-image: "/poi-images/frigorifico-canelones-economic-v2.webp"
-},
+      en: "Minerva Foods Canelones Meat Plant"},
+    image: "/poi-images/frigorifico-canelones-economic-v2.webp",
     description: {
       de: "Eine der größten Fleischverpackungsanlagen in Uruguay, die Rindfleischprodukte für internationale Märkte exportiert.",
       hu: "Uruguay egyik legnagyobb húsfeldolgozó üzeme, amely marhahústermékeket exportál a nemzetközi piacokra.",
@@ -982,9 +958,8 @@ image: "/poi-images/frigorifico-canelones-economic-v2.webp"
       de: "Bodegas Carrau",
       hu: "Bodegas Carrau",
       ro: "Bodegas Carrau",
-      en: "Bodegas Carrau",
-image: "/poi-images/carrau-winery-colon-economic-v2.webp"
-},
+      en: "Bodegas Carrau"},
+    image: "/poi-images/carrau-winery-colon-economic-v2.webp",
     description: {
       de: "Eine historische Weinkellerei mit langer tradition in der Herstellung uruguayischer Qualitätsweine.",
       hu: "Történelmi pincészet, amely nagy hagyományokkal rendelkezik a minőségi uruguayi borok készítésében.",
@@ -1022,9 +997,8 @@ image: "/poi-images/carrau-winery-colon-economic-v2.webp"
       de: "Freihafen Montevideo",
       hu: "Montevideói Szabadkikötő",
       ro: "Portul Liber Montevideo",
-      en: "Montevideo Free Port",
-image: "/poi-images/montevideo-free-port-economic-v2.webp"
-},
+      en: "Montevideo Free Port"},
+    image: "/poi-images/montevideo-free-port-economic-v2.webp",
     description: {
       de: "Eine spezielle Zollzone innerhalb des Hafens von Montevideo, die Logistik und Warenumschlag ohne Importsteuern ermöglicht.",
       hu: "Különleges vámövezet a montevideói kikötőn belül, amely lehetővé teszi a logisztikát és az áruforgalmat importadók nélkül.",
@@ -1064,9 +1038,8 @@ image: "/poi-images/montevideo-free-port-economic-v2.webp"
       de: "Hafen von Punta del Este",
       hu: "Punta del Este Kikötője",
       ro: "Portul Punta del Este",
-      en: "Port of Punta del Este",
-image: "/poi-images/port-of-maldonado-punta-del-este-economic-v2.webp"
-},
+      en: "Port of Punta del Este"},
+    image: "/poi-images/port-of-maldonado-punta-del-este-economic-v2.webp",
     description: {
       de: "Ein wichtiger Yachthafen, der eine entscheidende Rolle im High-End-Tourismus und der Freizeitwirtschaft spielt.",
       hu: "Jelentős jachtkikötő, amely kulcsszerepet játszik a luxusturizmusban és a szabadidőiparban.",
@@ -1106,9 +1079,8 @@ image: "/poi-images/port-of-maldonado-punta-del-este-economic-v2.webp"
       de: "Parque de las Ciencias",
       hu: "Parque de las Ciencias",
       ro: "Parque de las Ciencias",
-      en: "Parque de las Ciencias",
-image: "/poi-images/parque-de-las-ciencias-economic-v2.webp"
-},
+      en: "Parque de las Ciencias"},
+    image: "/poi-images/parque-de-las-ciencias-economic-v2.webp",
     description: {
       de: "Eine Freihandelszone in der Nähe des Flughafens Carrasco, spezialisiert auf die pharmazeutische Industrie.",
       hu: "Szabadkereskedelmi övezet a Carrasco repülőtér közelében, amely a gyógyszeriparra specializálódott.",
@@ -1146,9 +1118,8 @@ image: "/poi-images/parque-de-las-ciencias-economic-v2.webp"
       de: "UPM Baumschule Guichón",
       hu: "UPM Guichón Faiskola",
       ro: "Pepiniera UPM Guichón",
-      en: "UPM Guichón Nursery",
-image: "/poi-images/botnia-upm-nursery-guichon-economic-v2.webp"
-},
+      en: "UPM Guichón Nursery"},
+    image: "/poi-images/botnia-upm-nursery-guichon-economic-v2.webp",
     description: {
       de: "Eine Hightech-Baumschule, die Millionen von Eukalyptussetzlingen für Uruguays Forstindustrie produziert.",
       hu: "Csúcstechnológiás faiskola, amely több millió eukaliptusz palántát állít elő az uruguayi faipar számára.",
@@ -1186,9 +1157,8 @@ image: "/poi-images/botnia-upm-nursery-guichon-economic-v2.webp"
       de: "Hafen von La Paloma",
       hu: "La Paloma Kikötője",
       ro: "Portul La Paloma",
-      en: "Port of La Paloma",
-image: "/poi-images/port-of-la-paloma-economic-v2.webp"
-},
+      en: "Port of La Paloma"},
+    image: "/poi-images/port-of-la-paloma-economic-v2.webp",
     description: {
       de: "Ein atlantischer Hafen, der für Fischerei, Holzexporte und Seetourismus genutzt wird.",
       hu: "Atlanti-óceáni kikötő, amelyet halászatra, faexportra és tengeri turizmusra használnak.",

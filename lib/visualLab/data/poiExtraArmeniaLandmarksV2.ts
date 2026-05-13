@@ -6,9 +6,8 @@ export const poiExtraArmeniaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "AM-KO",
     coords: [44.7302, 40.1124],
-    name: { de: "Tempel von Garni", hu: "Garni-templom", ro: "Templul Garni", en: "Garni Temple",
-image: "/poi-images/armenia-garni-temple-landmarks-v2.webp"
-},
+    name: { de: "Tempel von Garni", hu: "Garni-templom", ro: "Templul Garni", en: "Garni Temple"},
+    image: "/poi-images/armenia-garni-temple-landmarks-v2.webp",
     description: {
       de: "Ein hellenistischer Tempel, der als einziges erhaltenes Bauwerk mit Säulenhallen in Armenien gilt.",
       hu: "Egy hellenisztikus templom, amely az egyetlen fennmaradt oszlopsoros ókori építmény Örményországban.",
@@ -47,9 +46,8 @@ image: "/poi-images/armenia-garni-temple-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-KO",
     coords: [44.8185, 40.1404],
-    name: { de: "Kloster Geghard", hu: "Gegard-kolostor", ro: "Mănăstirea Geghard", en: "Geghard Monastery",
-image: "/poi-images/armenia-geghard-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Geghard", hu: "Gegard-kolostor", ro: "Mănăstirea Geghard", en: "Geghard Monastery"},
+    image: "/poi-images/armenia-geghard-monastery-landmarks-v2.webp",
     description: {
       de: "Ein mittelalterliches Kloster, das teilweise in den angrenzenden Berg gehauen ist und von Klippen umgeben ist.",
       hu: "Egy középkori kolostor, amelyet részben a szomszédos sziklába vájtak, és meredek sziklafalak vesznek körül.",
@@ -88,9 +86,8 @@ image: "/poi-images/armenia-geghard-monastery-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-AR",
     coords: [44.5761, 39.8783],
-    name: { de: "Chor Virap", hu: "Khor Virap", ro: "Khor Virap", en: "Khor Virap",
-image: "/poi-images/armenia-khor-virap-landmarks-v2.webp"
-},
+    name: { de: "Chor Virap", hu: "Khor Virap", ro: "Khor Virap", en: "Khor Virap"},
+    image: "/poi-images/armenia-khor-virap-landmarks-v2.webp",
     description: {
       de: "Ein Kloster in der Ararat-Ebene, bekannt für seine beeindruckende Aussicht auf den Berg Ararat.",
       hu: "Egy kolostor az Ararát-síkságon, amely híres az Ararát-hegyre nyíló lenyűgöző kilátásáról.",
@@ -129,9 +126,8 @@ image: "/poi-images/armenia-khor-virap-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-SU",
     coords: [46.2501, 39.3794],
-    name: { de: "Kloster Tatew", hu: "Tatev-kolostor", ro: "Mănăstirea Tatev", en: "Tatev Monastery",
-image: "/poi-images/armenia-tatev-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Tatew", hu: "Tatev-kolostor", ro: "Mănăstirea Tatev", en: "Tatev Monastery"},
+    image: "/poi-images/armenia-tatev-monastery-landmarks-v2.webp",
     description: {
       de: "Ein historisches Kloster auf einem großen Basaltplateau, erreichbar über die längste Seilbahn der Welt.",
       hu: "Történelmi kolostor egy nagy bazaltfennsíkon, amely a világ leghosszabb kötélpályáján közelíthető meg.",
@@ -170,9 +166,8 @@ image: "/poi-images/armenia-tatev-monastery-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-GE",
     coords: [45.0109, 40.5638],
-    name: { de: "Sewanawank", hu: "Szevanavank", ro: "Sevanavank", en: "Sevanavank",
-image: "/poi-images/armenia-sevanavank-landmarks-v2.webp"
-},
+    name: { de: "Sewanawank", hu: "Szevanavank", ro: "Sevanavank", en: "Sevanavank"},
+    image: "/poi-images/armenia-sevanavank-landmarks-v2.webp",
     description: {
       de: "Ein Klosterkomplex auf einer Halbinsel am Nordwestufer des Sewansees mit malerischer Aussicht.",
       hu: "Kolostorkomplexum a Szeván-tó északnyugati partján lévő félszigeten, festői kilátással.",
@@ -211,9 +206,8 @@ image: "/poi-images/armenia-sevanavank-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-AV",
     coords: [44.2911, 40.1618],
-    name: { de: "Kathedrale von Etschmiadsin", hu: "Ecsmiadzini székesegyház", ro: "Catedrala Etchmiadzin", en: "Echmiadzin Cathedral",
-image: "/poi-images/armenia-echmiadzin-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Kathedrale von Etschmiadsin", hu: "Ecsmiadzini székesegyház", ro: "Catedrala Etchmiadzin", en: "Echmiadzin Cathedral"},
+    image: "/poi-images/armenia-echmiadzin-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Mutterkirche der Armenischen Apostolischen Kirche und das Zentrum der armenischen Christenheit.",
       hu: "Az örmény apostoli ortodox egyház anyatemploma és az örmény kereszténység központja.",
@@ -252,9 +246,8 @@ image: "/poi-images/armenia-echmiadzin-cathedral-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-VD",
     coords: [45.2332, 39.6846],
-    name: { de: "Norawank", hu: "Noravank", ro: "Noravank", en: "Noravank",
-image: "/poi-images/armenia-noravank-landmarks-v2.webp"
-},
+    name: { de: "Norawank", hu: "Noravank", ro: "Noravank", en: "Noravank"},
+    image: "/poi-images/armenia-noravank-landmarks-v2.webp",
     description: {
       de: "Ein Kloster in einer engen Schlucht am Amaghu-Fluss, berühmt für seine rötlichen Kalksteinklippen.",
       hu: "Egy kolostor az Amaghu folyó szűk szurdokában, amely híres vöröses mészkőszikláiról.",
@@ -293,9 +286,8 @@ image: "/poi-images/armenia-noravank-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-LO",
     coords: [44.7118, 41.0938],
-    name: { de: "Kloster Haghpat", hu: "Haghpat-kolostor", ro: "Mănăstirea Haghpat", en: "Haghpat Monastery",
-image: "/poi-images/armenia-haghpat-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Haghpat", hu: "Haghpat-kolostor", ro: "Mănăstirea Haghpat", en: "Haghpat Monastery"},
+    image: "/poi-images/armenia-haghpat-monastery-landmarks-v2.webp",
     description: {
       de: "Ein byzantinisches Klosterkomplex, der das höchste Niveau der armenischen religiösen Architektur repräsentiert.",
       hu: "Egy bizánci kolostorkomplexum, amely az örmény vallási építészet legmagasabb szintjét képviseli.",
@@ -334,9 +326,8 @@ image: "/poi-images/armenia-haghpat-monastery-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-AV",
     coords: [44.3364, 40.1610],
-    name: { de: "Kathedrale von Swartnoz", hu: "Zvartnotsz-székesegyház", ro: "Catedrala Zvartnots", en: "Zvartnots Cathedral",
-image: "/poi-images/armenia-zvartnots-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Kathedrale von Swartnoz", hu: "Zvartnotsz-székesegyház", ro: "Catedrala Zvartnots", en: "Zvartnots Cathedral"},
+    image: "/poi-images/armenia-zvartnots-cathedral-landmarks-v2.webp",
     description: {
       de: "Die Ruinen einer runden Kathedrale aus dem 7. Jahrhundert, die durch ein Erdbeben zerstört wurde.",
       hu: "Egy 7. századi kerek székesegyház romjai, amelyet egy földrengés pusztított el.",
@@ -375,9 +366,8 @@ image: "/poi-images/armenia-zvartnots-cathedral-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5156, 40.1915],
-    name: { de: "Kaskade von Eriwan", hu: "Jereváni Kaszkád", ro: "Cascada din Erevan", en: "Yerevan Cascade",
-image: "/poi-images/armenia-cascade-complex-landmarks-v2.webp"
-},
+    name: { de: "Kaskade von Eriwan", hu: "Jereváni Kaszkád", ro: "Cascada din Erevan", en: "Yerevan Cascade"},
+    image: "/poi-images/armenia-cascade-complex-landmarks-v2.webp",
     description: {
       de: "Eine riesige Treppenanlage aus Kalkstein, die das Zentrum von Eriwan mit dem Monument-Viertel verbindet.",
       hu: "Hatalmas mészkőlépcső-sor, amely Jereván központját köti össze a Monument-negyeddel.",
@@ -416,9 +406,8 @@ image: "/poi-images/armenia-cascade-complex-landmarks-v2.webp"
     type: "monument",
     parent: "AM-ER",
     coords: [44.5247, 40.1952],
-    name: { de: "Mutter Armenien", hu: "Örményország Anyja", ro: "Mama Armenia", en: "Mother Armenia",
-image: "/poi-images/armenia-mother-armenia-monument-landmarks-v2.webp"
-},
+    name: { de: "Mutter Armenien", hu: "Örményország Anyja", ro: "Mama Armenia", en: "Mother Armenia"},
+    image: "/poi-images/armenia-mother-armenia-monument-landmarks-v2.webp",
     description: {
       de: "Eine monumentale Statue im Siegespark, die als weibliche Personifikation Armeniens über Eriwan wacht.",
       hu: "Egy monumentális szobor a Győzelem-parkban, amely Örményország női megtestesítőjeként őrködik Jereván felett.",
@@ -457,9 +446,8 @@ image: "/poi-images/armenia-mother-armenia-monument-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5126, 40.1776],
-    name: { de: "Platz der Republik", hu: "Köztársaság tér", ro: "Piața Republicii", en: "Republic Square",
-image: "/poi-images/armenia-republic-square-landmarks-v2.webp"
-},
+    name: { de: "Platz der Republik", hu: "Köztársaság tér", ro: "Piața Republicii", en: "Republic Square"},
+    image: "/poi-images/armenia-republic-square-landmarks-v2.webp",
     description: {
       de: "Der zentrale Stadtplatz von Eriwan, bekannt für seine beeindruckenden Gebäude aus rosafarbenem Tuffstein und die singenden Brunnen.",
       hu: "Jereván központi tere, amely híres a lenyűgöző rózsaszín tufából épült épületeiről és az éneklő szökőkutakról.",
@@ -498,9 +486,8 @@ image: "/poi-images/armenia-republic-square-landmarks-v2.webp"
     type: "monument",
     parent: "AM-ER",
     coords: [44.4905, 40.1858],
-    name: { de: "Zizernakaberd", hu: "Cicernekaberd", ro: "Tsitsernakaberd", en: "Tsitsernakaberd",
-image: "/poi-images/armenia-tsitsernakaberd-landmarks-v2.webp"
-},
+    name: { de: "Zizernakaberd", hu: "Cicernekaberd", ro: "Tsitsernakaberd", en: "Tsitsernakaberd"},
+    image: "/poi-images/armenia-tsitsernakaberd-landmarks-v2.webp",
     description: {
       de: "Das offizielle Denkmal Armeniens, das den Opfern des Völkermords an den Armeniern von 1915 gewidmet ist.",
       hu: "Örményország hivatalos emlékműve, amelyet az 1915-ös örmény népirtás áldozatainak szenteltek.",
@@ -539,9 +526,8 @@ image: "/poi-images/armenia-tsitsernakaberd-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5209, 40.1919],
-    name: { de: "Matenadaran", hu: "Matenadaran", ro: "Matenadaran", en: "Matenadaran",
-image: "/poi-images/armenia-matenadaran-landmarks-v2.webp"
-},
+    name: { de: "Matenadaran", hu: "Matenadaran", ro: "Matenadaran", en: "Matenadaran"},
+    image: "/poi-images/armenia-matenadaran-landmarks-v2.webp",
     description: {
       de: "Ein Museum und Aufbewahrungsort für alte Handschriften, das eine der größten Sammlungen mittelalterlicher Dokumente weltweit beherbergt.",
       hu: "Egy múzeum és ősi kézirattár, amely a középkori dokumentumok egyik legnagyobb gyűjteményének ad otthont a világon.",
@@ -580,9 +566,8 @@ image: "/poi-images/armenia-matenadaran-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-AG",
     coords: [44.2266, 40.3887],
-    name: { de: "Festung Amberd", hu: "Amberd-erőd", ro: "Cetatea Amberd", en: "Amberd Fortress",
-image: "/poi-images/armenia-amberd-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Amberd", hu: "Amberd-erőd", ro: "Cetatea Amberd", en: "Amberd Fortress"},
+    image: "/poi-images/armenia-amberd-fortress-landmarks-v2.webp",
     description: {
       de: "Eine Burgruine aus dem 7. Jahrhundert, die sich auf einer Höhe von über 2300 Metern an den Hängen des Berges Aragaz befindet.",
       hu: "Egy 7. századi várrom, amely több mint 2300 méteres magasságban található az Aragac-hegy lejtőin.",
@@ -621,9 +606,8 @@ image: "/poi-images/armenia-amberd-fortress-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-SU",
     coords: [46.0286, 39.5501],
-    name: { de: "Sorakarer", hu: "Zorac Karer", ro: "Zorats Karer", en: "Zorats Karer",
-image: "/poi-images/armenia-zorats-karer-landmarks-v2.webp"
-},
+    name: { de: "Sorakarer", hu: "Zorac Karer", ro: "Zorats Karer", en: "Zorats Karer"},
+    image: "/poi-images/armenia-zorats-karer-landmarks-v2.webp",
     description: {
       de: "Ein prähistorisches archäologisches Denkmal, oft als das armenische Stonehenge bezeichnet, das aus Hunderten von großen stehenden Steinen besteht.",
       hu: "Egy történelem előtti régészeti lelőhely, amelyet gyakran az örmény Stonehenge-nek neveznek, és több száz nagy, álló kőből áll.",
@@ -662,9 +646,8 @@ image: "/poi-images/armenia-zorats-karer-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AM-KO",
     coords: [44.7408, 40.1119],
-    name: { de: "Symphonie der Steine", hu: "Kövek szimfóniája", ro: "Simfonia Pietrelor", en: "Symphony of Stones",
-image: "/poi-images/armenia-symphony-of-stones-landmarks-v2.webp"
-},
+    name: { de: "Symphonie der Steine", hu: "Kövek szimfóniája", ro: "Simfonia Pietrelor", en: "Symphony of Stones"},
+    image: "/poi-images/armenia-symphony-of-stones-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes Naturdenkmal in der Garni-Schlucht, bestehend aus symmetrischen, sechseckigen Basaltsäulen, die wie eine riesige Orgel aussehen.",
       hu: "Egy lenyűgöző természeti emlékmű a Garni-szurdokban, amely szimmetrikus, hatszögletű bazaltoszlopokból áll, és úgy néz ki, mint egy hatalmas orgona.",
@@ -703,9 +686,8 @@ image: "/poi-images/armenia-symphony-of-stones-landmarks-v2.webp"
     type: "landmark",
     parent: "AM-LO",
     coords: [44.7601, 41.1505],
-    name: { de: "Festung Achtala", hu: "Akhtala-erőd", ro: "Cetatea Akhtala", en: "Akhtala Fortress",
-image: "/poi-images/armenia-akhtala-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Achtala", hu: "Akhtala-erőd", ro: "Cetatea Akhtala", en: "Akhtala Fortress"},
+    image: "/poi-images/armenia-akhtala-fortress-landmarks-v2.webp",
     description: {
       de: "Eine befestigte Klosteranlage aus dem 10. Jahrhundert, die eine entscheidende Rolle für den Schutz der nordwestlichen Regionen spielte.",
       hu: "Egy 10. századi erődített kolostor, amely döntő szerepet játszott az északnyugati régiók védelmében.",
@@ -744,9 +726,8 @@ image: "/poi-images/armenia-akhtala-fortress-landmarks-v2.webp"
     type: "monument",
     parent: "AM-AG",
     coords: [44.3804, 40.4079],
-    name: { de: "Armenisches Alphabet-Denkmal", hu: "Örmény ábécé emlékmű", ro: "Monumentul Alfabetului Armean", en: "Armenian Alphabet Monument",
-image: "/poi-images/armenia-alphabet-monument-landmarks-v2.webp"
-},
+    name: { de: "Armenisches Alphabet-Denkmal", hu: "Örmény ábécé emlékmű", ro: "Monumentul Alfabetului Armean", en: "Armenian Alphabet Monument"},
+    image: "/poi-images/armenia-alphabet-monument-landmarks-v2.webp",
     description: {
       de: "Ein architektonisches Denkmal am Hang des Aragaz, das aus 39 riesigen, aus Tuffstein geschnitzten armenischen Buchstaben besteht.",
       hu: "Építészeti emlékmű az Aragac lejtőjén, amely 39 hatalmas, tufából faragott örmény betűből áll.",
@@ -785,9 +766,8 @@ image: "/poi-images/armenia-alphabet-monument-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AM-ER",
     coords: [44.5173, 40.1744],
-    name: { de: "Vernissage Eriwan", hu: "Jereváni Vernissage", ro: "Vernissage Erevan", en: "Yerevan Vernissage",
-image: "/poi-images/armenia-vernissage-landmarks-v2.webp"
-},
+    name: { de: "Vernissage Eriwan", hu: "Jereváni Vernissage", ro: "Vernissage Erevan", en: "Yerevan Vernissage"},
+    image: "/poi-images/armenia-vernissage-landmarks-v2.webp",
     description: {
       de: "Ein großer Freiluftmarkt im Zentrum von Eriwan, der für den Verkauf von traditionellen armenischen Kunstwerken und Teppichen bekannt ist.",
       hu: "Egy nagy szabadtéri piac Jereván központjában, amely a hagyományos örmény művészeti alkotások és szőnyegek árusításáról ismert.",

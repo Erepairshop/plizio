@@ -11,9 +11,8 @@ export const poiExtraDrcongoCitiesV2: POI[] = [
       de: "Kinshasa",
       hu: "Kinshasa",
       ro: "Kinshasa",
-      en: "Kinshasa",
-image: "/poi-images/cd-kinshasa-cities-v2.webp"
-},
+      en: "Kinshasa"},
+    image: "/poi-images/cd-kinshasa-cities-v2.webp",
     description: {
       de: "Kinshasa ist die pulsierende Hauptstadt der Demokratischen Republik Kongo und eine der größten Städte Afrikas am Ufer des Kongo-Flusses.",
       hu: "A Kongói Demokratikus Köztársaság fővárosa és legnagyobb városa, a Kongó-folyó partján fekszik.",
@@ -51,14 +50,11 @@ image: "/poi-images/cd-kinshasa-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Maluku is a strategic commune located on the outskirts of Kinshasa along the Congo River. It serves as an essential hub for agricultural distribution and river transport connecting the capital to the inner provinces. The area is known for its vast rural landscape and the development of the Maluku Special Economic Zone, which aims to boost industrial growth and manufacturing capacity. Geography K7 — river transport and regional development.",
-      de: "Maluku liegt am östlichen Rand von Kinshasa direkt am Kongo-Fluss und verbindet Stadtrand, Landwirtschaft und Flusstransport auf engem Raum. Der Ort ist für sein staatliches Hüttenwerk und für die geplante Sonderwirtschaftszone bekannt, die neue Industrie und Logistik anziehen soll. Zwischen den Uferzonen und den offeneren Flächen im Hinterland entstehen hier sehr unterschiedliche Nutzungen: Fischerei, Gemüseanbau, Lagerplätze und Verkehrswege für die Hauptstadtversorgung. Maluku zeigt damit, wie nah in der Metropolregion Kinshasa ländliche Produktion und urbane Nachfrage zusammenliegen. Geografie K7 — urbane Zentren und regionale Versorgung.",
-image: "/poi-images/cd-maluku-cities-v2.webp"
-},
+      de: "Maluku liegt am östlichen Rand von Kinshasa direkt am Kongo-Fluss und verbindet Stadtrand, Landwirtschaft und Flusstransport auf engem Raum. Der Ort ist für sein staatliches Hüttenwerk und für die geplante Sonderwirtschaftszone bekannt, die neue Industrie und Logistik anziehen soll. Zwischen den Uferzonen und den offeneren Flächen im Hinterland entstehen hier sehr unterschiedliche Nutzungen: Fischerei, Gemüseanbau, Lagerplätze und Verkehrswege für die Hauptstadtversorgung. Maluku zeigt damit, wie nah in der Metropolregion Kinshasa ländliche Produktion und urbane Nachfrage zusammenliegen. Geografie K7 — urbane Zentren und regionale Versorgung."},
     factsAdvanced: {
       en: ["Located approximately 80 km from central Kinshasa.", "Integral part of the Kinshasa province.", "Key site for the Maluku Special Economic Zone.", "Features expansive river frontage on the Congo River.", "Supports local farming and fishing communities.", "Acts as a gateway for goods entering the capital from the north."],
-      de: ["Gemeinde in der Provinz Kinshasa.", "Lage am Kongo-Fluss östlich des Zentrums.", "Bekannt für das staatliche Hüttenwerk.", "Sonderwirtschaftszone Maluku ist ein lokales Entwicklungsprojekt.", "Versorgt die Hauptstadt mit Landwirtschaft und Flusstransport."]
-    }
-  },
+      de: ["Gemeinde in der Provinz Kinshasa.", "Lage am Kongo-Fluss östlich des Zentrums.", "Bekannt für das staatliche Hüttenwerk.", "Sonderwirtschaftszone Maluku ist ein lokales Entwicklungsprojekt.", "Versorgt die Hauptstadt mit Landwirtschaft und Flusstransport."] } },
+    image: "/poi-images/cd-maluku-cities-v2.webp",
     description: {
       de: "Maluku ist eine ländliche Gemeinde im Osten von Kinshasa, die für ihren Flusshafen und als Tor zum Landesinneren bekannt ist.",
       hu: "Kinshasa egyik kerülete és ipari területe a Malebo-tó bejáratánál.",
@@ -86,14 +82,11 @@ image: "/poi-images/cd-maluku-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Matadi is the chief port of the Democratic Republic of the Congo, situated on the left bank of the Congo River. As the country's main gateway for international maritime trade, it handles the vast majority of the nation's imports and exports. The city is built on steep, rugged terrain, which has earned it the name 'Matadi', meaning 'rock' or 'stone' in the local Kikongo language. Geography K8 — logistics and international trade centers.",
-      de: "Matadi ist der wichtigste Seehafen der Demokratischen Republik Kongo und die Hauptstadt von Kongo Central. Die Stadt sitzt auf steilem, felsigem Gelände am linken Ufer des Kongo-Flusses, kurz bevor der Strom in Richtung Atlantik abfällt. Genau diese Lage macht Matadi seit der Kolonialzeit zum Schlüssel für Hafenumschlag, Bahnanschluss und den Export von Kupfer, Kobalt und Importgütern. Die Matadi-Kinshasa-Bahn verbindet den Hafen mit dem Landesinneren und umgeht die unpassierbaren Stromschnellen flussaufwärts. Matadi ist deshalb weniger ein Ferienort als ein logistischer Knoten mit sehr harter Topografie. Wirtschaft K8 — Logistik und Energie.",
-image: "/poi-images/cd-matadi-cities-v2.webp"
-},
+      de: "Matadi ist der wichtigste Seehafen der Demokratischen Republik Kongo und die Hauptstadt von Kongo Central. Die Stadt sitzt auf steilem, felsigem Gelände am linken Ufer des Kongo-Flusses, kurz bevor der Strom in Richtung Atlantik abfällt. Genau diese Lage macht Matadi seit der Kolonialzeit zum Schlüssel für Hafenumschlag, Bahnanschluss und den Export von Kupfer, Kobalt und Importgütern. Die Matadi-Kinshasa-Bahn verbindet den Hafen mit dem Landesinneren und umgeht die unpassierbaren Stromschnellen flussaufwärts. Matadi ist deshalb weniger ein Ferienort als ein logistischer Knoten mit sehr harter Topografie. Wirtschaft K8 — Logistik und Energie."},
     factsAdvanced: {
       en: ["Located about 148 km from the Atlantic Ocean.", "Main maritime port of the Democratic Republic of the Congo.", "The city's topography is defined by high cliffs and rocky terrain.", "Crucial rail link connects Matadi to Kinshasa.", "Serves as the capital of the Kongo Central province."],
-      de: ["Hauptstadt von Kongo Central.", "Wichtigster Seehafen des Landes.", "Gegründet 1879 von Henry Morton Stanley.", "Liegt am linken Ufer des Kongo-Flusses.", "Die Matadi-Kinshasa-Bahn verbindet den Hafen mit dem Inland.", "Nahe bei den Inga-Fällen und ihrem Kraftwerkskomplex."]
-    }
-  },
+      de: ["Hauptstadt von Kongo Central.", "Wichtigster Seehafen des Landes.", "Gegründet 1879 von Henry Morton Stanley.", "Liegt am linken Ufer des Kongo-Flusses.", "Die Matadi-Kinshasa-Bahn verbindet den Hafen mit dem Inland.", "Nahe bei den Inga-Fällen und ihrem Kraftwerkskomplex."] } },
+    image: "/poi-images/cd-matadi-cities-v2.webp",
     description: {
       de: "Matadi ist die wichtigste Hafenstadt des Landes und liegt am Unterlauf des Kongo-Flusses, unweit des Atlantischen Ozeans.",
       hu: "Az ország legfontosabb tengeri kikötője a Kongó-folyó tölcsértorkolatánál.",
@@ -121,14 +114,11 @@ image: "/poi-images/cd-matadi-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Boma, located near the mouth of the Congo River, once served as the capital of the Congo Free State and the Belgian Congo. Its historical significance is rooted in its status as a colonial administrative center and major trading post. Today, it remains an important port city, contributing significantly to the export of timber and agricultural products. History K8 — colonial administrative history and trade.",
-      de: "Boma liegt am Ästuar des Kongo-Flusses und ist einer der Orte, an denen sich die koloniale Verwaltung des Landes früh konzentrierte. Von 1886 bis 1923 war Boma Hauptstadt des Kongo-Freistaats und des Belgisch-Kongo, bevor Léopoldville diese Rolle übernahm. Heute prägen Hafenfunktionen, Grenznähe zu Angola und die Lage am breiten Flussarm das Stadtbild. Wer Boma betrachtet, sieht keine abstrakte Kolonialgeschichte, sondern konkrete Infrastruktur: Kaianlagen, alte Verwaltungsachsen und den Verkehr zwischen Fluss, Küste und Hinterland. Geschichte K8 — Kolonialverwaltung und Hafenstädte.",
-image: "/poi-images/cd-boma-cities-v2.webp"
-},
+      de: "Boma liegt am Ästuar des Kongo-Flusses und ist einer der Orte, an denen sich die koloniale Verwaltung des Landes früh konzentrierte. Von 1886 bis 1923 war Boma Hauptstadt des Kongo-Freistaats und des Belgisch-Kongo, bevor Léopoldville diese Rolle übernahm. Heute prägen Hafenfunktionen, Grenznähe zu Angola und die Lage am breiten Flussarm das Stadtbild. Wer Boma betrachtet, sieht keine abstrakte Kolonialgeschichte, sondern konkrete Infrastruktur: Kaianlagen, alte Verwaltungsachsen und den Verkehr zwischen Fluss, Küste und Hinterland. Geschichte K8 — Kolonialverwaltung und Hafenstädte."},
     factsAdvanced: {
       en: ["Served as the capital of the Congo Free State from 1886 to 1908.", "Located on the northern bank of the Congo River.", "Vital port for exporting timber and agricultural goods.", "Contains remnants of early colonial architecture.", "Historically significant as a center for the ivory and rubber trade.", "Situated roughly 100 km upstream from the Atlantic Ocean."],
-      de: ["Lage am Ästuar des Kongo-Flusses.", "Hauptstadt des Kongo-Freistaats von 1886 bis 1923.", "Später Hauptstadt des Belgisch-Kongo.", "Léopoldville wurde 1923 Nachfolger als Hauptstadt.", "Die Stadt liegt in Kongo Central.", "Grenznähe zu Angola prägt die Lage."]
-    }
-  },
+      de: ["Lage am Ästuar des Kongo-Flusses.", "Hauptstadt des Kongo-Freistaats von 1886 bis 1923.", "Später Hauptstadt des Belgisch-Kongo.", "Léopoldville wurde 1923 Nachfolger als Hauptstadt.", "Die Stadt liegt in Kongo Central.", "Grenznähe zu Angola prägt die Lage."] } },
+    image: "/poi-images/cd-boma-cities-v2.webp",
     description: {
       de: "Boma war die ehemalige Hauptstadt des Belgischen Kongos und dient heute als bedeutender Hafen für den Export von Holz und landwirtschaftlichen Produkten.",
       hu: "Történelmi kikötőváros, amely 1886 és 1926 között Belga Kongó fővárosa volt.",
@@ -157,14 +147,11 @@ image: "/poi-images/cd-boma-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Muanda is a small coastal town and the main port of the Democratic Republic of the Congo on the Atlantic Ocean. Known for its serene beaches and the nearby Mangroves National Park, it offers a glimpse into the country's limited but crucial coastal ecosystem. The area is also significant for its offshore petroleum industry, which plays a key role in the local economy. Geography K7 — coastal ecosystems and resource extraction.",
-      de: "Muanda liegt an der Atlantikküste der Demokratischen Republik Kongo genau dort, wo der Kongo-Fluss ins Meer ausläuft. Die Stadt ist dadurch zugleich Küstenort, Hafenraum und Zugangspunkt für den Ölsektor, denn der Moanda Oil Terminal liegt in ihrer Umgebung. Neben dem industriellen Charakter spielen Fischerei, Flussmündung, Mangroven und Strandabschnitte eine große Rolle im Alltag. Muanda wirkt wie ein Randpunkt der Karte, ist aber für Energieversorgung und maritime Verbindungen des Landes strategisch. Die Kombination aus Küste, Mündung und Industrie macht den Ort für Geografie K7 besonders interessant.",
-image: "/poi-images/cd-muanda-cities-v2.webp"
-},
+      de: "Muanda liegt an der Atlantikküste der Demokratischen Republik Kongo genau dort, wo der Kongo-Fluss ins Meer ausläuft. Die Stadt ist dadurch zugleich Küstenort, Hafenraum und Zugangspunkt für den Ölsektor, denn der Moanda Oil Terminal liegt in ihrer Umgebung. Neben dem industriellen Charakter spielen Fischerei, Flussmündung, Mangroven und Strandabschnitte eine große Rolle im Alltag. Muanda wirkt wie ein Randpunkt der Karte, ist aber für Energieversorgung und maritime Verbindungen des Landes strategisch. Die Kombination aus Küste, Mündung und Industrie macht den Ort für Geografie K7 besonders interessant."},
     factsAdvanced: {
       en: ["Located at the mouth of the Congo River on the Atlantic coast.", "Home to the Mangroves National Park, a Ramsar site.", "Major hub for the nation's offshore oil industry.", "Known for its sandy beaches and tourism potential.", "Provides access to the Atlantic maritime trade routes.", "Small population focused on fishing and petroleum services."],
-      de: ["Küstenstadt am Atlantischen Ozean.", "Moanda Oil Terminal liegt in der Region.", "Teil der Provinz Kongo Central.", "Angrenzend an die Banana-Halbinsel und Mangrovenräume.", "Wichtiger Ort für Fischerei und Öltransport."]
-    }
-  },
+      de: ["Küstenstadt am Atlantischen Ozean.", "Moanda Oil Terminal liegt in der Region.", "Teil der Provinz Kongo Central.", "Angrenzend an die Banana-Halbinsel und Mangrovenräume.", "Wichtiger Ort für Fischerei und Öltransport."] } },
+    image: "/poi-images/cd-muanda-cities-v2.webp",
     description: {
       de: "Muanda ist der einzige Küstenort der Demokratischen Republik Kongo und bekannt für seine Ölförderung sowie seine Sandstrände am Atlantik.",
       hu: "Az ország egyetlen jelentős óceánparti városa az Atlanti-óceán mentén.",
@@ -193,14 +180,11 @@ image: "/poi-images/cd-muanda-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Mbanza-Ngungu, formerly known as Thysville, is a significant town in the Kongo Central province, situated on the road and rail route between Matadi and Kinshasa. Its high altitude provides a cooler, more temperate climate compared to the coastal lowlands, making it a pleasant inland hub. The town is historically linked to the development of the colonial railway infrastructure. Geography K7 — climate zones and transportation geography.",
-      de: "Mbanza-Ngungu ist eine große Stadt im Westen der Demokratischen Republik Kongo und liegt an einem kurzen Seitenast der Matadi-Kinshasa-Bahn. Früher hieß der Ort Thysville oder Thysstad und trägt damit noch deutlich die Spuren der kolonialen Eisenbahngeschichte. Heute verbindet Mbanza-Ngungu Provinzverwaltung, Marktleben und Verkehr auf dem Weg zwischen Kinshasa und dem Hafenraum von Matadi. Der Ort ist kein bloßer Zwischenhalt, sondern ein funktionaler Knoten für den Binnenverkehr von Kongo Central. Gerade die Mischung aus Bahn, Stadtentwicklung und Kolonialtoponymie macht ihn für Geschichte K8 und Geografie K7 relevant.",
-image: "/poi-images/cd-mbanza-ngungu-cities-v2.webp"
-},
+      de: "Mbanza-Ngungu ist eine große Stadt im Westen der Demokratischen Republik Kongo und liegt an einem kurzen Seitenast der Matadi-Kinshasa-Bahn. Früher hieß der Ort Thysville oder Thysstad und trägt damit noch deutlich die Spuren der kolonialen Eisenbahngeschichte. Heute verbindet Mbanza-Ngungu Provinzverwaltung, Marktleben und Verkehr auf dem Weg zwischen Kinshasa und dem Hafenraum von Matadi. Der Ort ist kein bloßer Zwischenhalt, sondern ein funktionaler Knoten für den Binnenverkehr von Kongo Central. Gerade die Mischung aus Bahn, Stadtentwicklung und Kolonialtoponymie macht ihn für Geschichte K8 und Geografie K7 relevant."},
     factsAdvanced: {
       en: ["Located at an altitude of approximately 700 meters above sea level.", "Formerly known as Thysville, named after an early railway investor.", "Key station on the Kinshasa-Matadi railway line.", "Known for its cooler, highland climate.", "Serves as an agricultural market center for the surrounding region.", "Contains historical colonial-era buildings and railway structures."],
-      de: ["Frühere Namen: Thysville und Thysstad.", "Benannt nach Albert Thys.", "Liegt in Kongo Central.", "An einem Seitenast der Matadi-Kinshasa-Bahn.", "Wichtiger Ort zwischen Kinshasa und Matadi.", "Verwaltung und Handel prägen die Stadt."]
-    }
-  },
+      de: ["Frühere Namen: Thysville und Thysstad.", "Benannt nach Albert Thys.", "Liegt in Kongo Central.", "An einem Seitenast der Matadi-Kinshasa-Bahn.", "Wichtiger Ort zwischen Kinshasa und Matadi.", "Verwaltung und Handel prägen die Stadt."] } },
+    image: "/poi-images/cd-mbanza-ngungu-cities-v2.webp",
     description: {
       de: "Mbanza-Ngungu ist eine Stadt in der Provinz Kongo Central, die für ihre Eisenbahngeschichte und die nahegelegenen Kalksteinhöhlen bekannt ist.",
       hu: "Város és vasúti csomópont Kongo Central tartományban, ismert a barlangjairól.",
@@ -229,14 +213,11 @@ image: "/poi-images/cd-mbanza-ngungu-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Lubumbashi is the second-largest city in the Democratic Republic of the Congo and the mining capital of the country. Located in the southeastern part of the nation, it serves as the center of the copper-rich Katanga region. The city has a rich history centered on the development of the mining industry and remains a major economic hub for the DRC and Central Africa. Geography K8 — economic geography and mineral resources.",
-      de: "Lubumbashi ist die zweitgrößte Stadt der Demokratischen Republik Kongo und das wirtschaftliche Zentrum von Haut-Katanga. Die Stadt hieß früher Élisabethville und entwickelte sich mit dem Ausbau der Eisenbahn und der Kupferförderung zu einem Kern des Katanga-Bergbaus. Noch heute prägen Bergbauunternehmen, Werkstätten, Universitätsleben und breite Verkehrsachsen das urbane Gefüge. Lubumbashi liegt nahe der Grenze zu Sambia und ist dadurch eng mit regionalen Handelsströmen verbunden. Die Stadt zeigt besonders klar, wie eng in Südostkongo Rohstoffe, Bahnlinien und städtische Expansion zusammenhängen. Wirtschaft K8 — Bergbau und Industrie.",
-image: "/poi-images/cd-lubumbashi-cities-v2.webp"
-},
+      de: "Lubumbashi ist die zweitgrößte Stadt der Demokratischen Republik Kongo und das wirtschaftliche Zentrum von Haut-Katanga. Die Stadt hieß früher Élisabethville und entwickelte sich mit dem Ausbau der Eisenbahn und der Kupferförderung zu einem Kern des Katanga-Bergbaus. Noch heute prägen Bergbauunternehmen, Werkstätten, Universitätsleben und breite Verkehrsachsen das urbane Gefüge. Lubumbashi liegt nahe der Grenze zu Sambia und ist dadurch eng mit regionalen Handelsströmen verbunden. Die Stadt zeigt besonders klar, wie eng in Südostkongo Rohstoffe, Bahnlinien und städtische Expansion zusammenhängen. Wirtschaft K8 — Bergbau und Industrie."},
     factsAdvanced: {
       en: ["Founded in 1910 as Élisabethville by the Union Minière du Haut-Katanga.", "Administrative capital of the Haut-Katanga province.", "Primary center for copper and cobalt mining industries.", "Houses the University of Lubumbashi.", "Strategically located near the Zambian border.", "Famous for its vibrant trade and industrial development."],
-      de: ["Früherer Name: Élisabethville.", "Hauptstadt von Haut-Katanga.", "Die Eisenbahn erreichte den Ort 1910.", "Starker Bezug zu Kupfer- und Kobaltbergbau.", "Nahe an der Grenze zu Sambia."]
-    }
-  },
+      de: ["Früherer Name: Élisabethville.", "Hauptstadt von Haut-Katanga.", "Die Eisenbahn erreichte den Ort 1910.", "Starker Bezug zu Kupfer- und Kobaltbergbau.", "Nahe an der Grenze zu Sambia."] } },
+    image: "/poi-images/cd-lubumbashi-cities-v2.webp",
     description: {
       de: "Lubumbashi ist das wirtschaftliche Zentrum im Südosten des Landes und die Hauptstadt der mineralienreichen Provinz Haut-Katanga.",
       hu: "Az ország második legnagyobb városa és a bányászat központja Katanga régióban.",
@@ -265,14 +246,11 @@ image: "/poi-images/cd-lubumbashi-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Likasi is a major industrial city in the Haut-Katanga province, known for its extensive mining and metal processing activities. It is located at the heart of the Congolese Copperbelt, which has significantly shaped the city's economic profile and development. Historically, the city has been a vital center for the production and refinement of copper and cobalt, driving regional industrial output. Geography K8 — industrial centers and mineral extraction.",
-      de: "Likasi, früher Jadotville, ist eine Bergbaustadt in Haut-Katanga und Teil des großen Kupfergürtels im Südosten des Landes. Der Ort ist eng mit dem Schürf- und Industriegebiet rund um Shinkolobwe verbunden, das westlich der Stadt liegt und weltweit wegen seiner Uranlagerstätte bekannt wurde. Likasi liegt damit an einer Schnittstelle von Rohstoffförderung, Straßentransport und Wohnquartieren für Beschäftigte des Bergbaukomplexes. Die Stadt wirkt auf der Karte unscheinbar, trägt aber die Last eines ganzen Industriezweigs. Für Geografie K8 ist Likasi ein prägnantes Beispiel für Rohstoffräume und urbane Abhängigkeit.",
-image: "/poi-images/cd-likasi-cities-v2.webp"
-},
+      de: "Likasi, früher Jadotville, ist eine Bergbaustadt in Haut-Katanga und Teil des großen Kupfergürtels im Südosten des Landes. Der Ort ist eng mit dem Schürf- und Industriegebiet rund um Shinkolobwe verbunden, das westlich der Stadt liegt und weltweit wegen seiner Uranlagerstätte bekannt wurde. Likasi liegt damit an einer Schnittstelle von Rohstoffförderung, Straßentransport und Wohnquartieren für Beschäftigte des Bergbaukomplexes. Die Stadt wirkt auf der Karte unscheinbar, trägt aber die Last eines ganzen Industriezweigs. Für Geografie K8 ist Likasi ein prägnantes Beispiel für Rohstoffräume und urbane Abhängigkeit."},
     factsAdvanced: {
       en: ["Located at the center of the Katanga mining region.", "Key industrial base for copper and cobalt refining.", "Significant contributor to the national economy through mining.", "Located along the regional rail network connecting mining hubs.", "Known for its historical role in colonial mining operations."],
-      de: ["Frühere Namen: Jadotville und Jadotstad.", "Stadt in Haut-Katanga.", "Shinkolobwe liegt etwa 20 km westlich.", "Berühmt für Kupfer- und Kobaltförderung.", "Wichtiger Ort im Katanga-Kupfergürtel.", "Die Stadt war eng mit dem Bergbau um Shituru verbunden."]
-    }
-  },
+      de: ["Frühere Namen: Jadotville und Jadotstad.", "Stadt in Haut-Katanga.", "Shinkolobwe liegt etwa 20 km westlich.", "Berühmt für Kupfer- und Kobaltförderung.", "Wichtiger Ort im Katanga-Kupfergürtel.", "Die Stadt war eng mit dem Bergbau um Shituru verbunden."] } },
+    image: "/poi-images/cd-likasi-cities-v2.webp",
     description: {
       de: "Likasi ist ein bedeutendes Bergbauzentrum in der Provinz Haut-Katanga, das für seine reichen Kupfer- und Kobaltvorkommen bekannt ist.",
       hu: "Fontos bányászváros Haut-Katanga tartományban, réz- és kobaltlelőhelyekkel.",
@@ -301,14 +279,11 @@ image: "/poi-images/cd-likasi-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kipushi is a town located in the Haut-Katanga province, situated right on the border with Zambia, near the city of Lubumbashi. The town is widely recognized for its long history of mining, particularly the Kipushi Mine, which is known for its high-grade copper and zinc deposits. Its proximity to Zambia makes it an essential point for cross-border trade and economic interaction in the Copperbelt region. Geography K7 — economic trade and border regions.",
-      de: "Kipushi ist eine Grenzstadt südwestlich von Lubumbashi und steht fast vollständig im Schatten des gleichnamigen Bergwerks. Das Kipushi Mine, früher Prince Léopold Mine genannt, gehört zu den bekanntesten Erzvorkommen der Region und liefert vor allem Zink, Kupfer und Blei. Der Ort zeigt, wie Bergbauorte im kongolesischen Kupfergürtel entstehen: zuerst durch die Lagerstätte, dann durch Infrastruktur, Wohnsiedlungen und Straßenverkehr zur Grenze. Die Nähe zu Sambia und die jüngste Wiederbelebung des Bergbaus geben Kipushi wieder wirtschaftliches Gewicht. Geografie K8 — Rohstoffräume und Grenzverkehr.",
-image: "/poi-images/cd-kipushi-cities-v2.webp"
-},
+      de: "Kipushi ist eine Grenzstadt südwestlich von Lubumbashi und steht fast vollständig im Schatten des gleichnamigen Bergwerks. Das Kipushi Mine, früher Prince Léopold Mine genannt, gehört zu den bekanntesten Erzvorkommen der Region und liefert vor allem Zink, Kupfer und Blei. Der Ort zeigt, wie Bergbauorte im kongolesischen Kupfergürtel entstehen: zuerst durch die Lagerstätte, dann durch Infrastruktur, Wohnsiedlungen und Straßenverkehr zur Grenze. Die Nähe zu Sambia und die jüngste Wiederbelebung des Bergbaus geben Kipushi wieder wirtschaftliches Gewicht. Geografie K8 — Rohstoffräume und Grenzverkehr."},
     factsAdvanced: {
       en: ["Situated less than 10 km from the Zambian border.", "Known for its rich underground mineral deposits.", "The Kipushi Mine is a significant source of copper and zinc.", "Acts as a key transit point for cross-border economic activities.", "Located within the industrial heartland of Haut-Katanga province.", "Population primarily linked to the mining and trade sectors."],
-      de: ["Grenzstadt nahe Sambia.", "Kipushi Mine hieß früher Prince Léopold Mine.", "Das Bergwerk produziert Zink, Kupfer und Blei.", "Die Mine liegt direkt neben der Stadt.", "Teil des südlichen Kupfergürtels.", "Wiederbelebung des Bergbaus in den 2020er-Jahren."]
-    }
-  },
+      de: ["Grenzstadt nahe Sambia.", "Kipushi Mine hieß früher Prince Léopold Mine.", "Das Bergwerk produziert Zink, Kupfer und Blei.", "Die Mine liegt direkt neben der Stadt.", "Teil des südlichen Kupfergürtels.", "Wiederbelebung des Bergbaus in den 2020er-Jahren."] } },
+    image: "/poi-images/cd-kipushi-cities-v2.webp",
     description: {
       de: "Kipushi liegt direkt an der Grenze zu Sambia und ist berühmt für seine Zink- und Kupferminen, die zu den tiefsten Afrikas gehören.",
       hu: "Közvetlenül a zambiai határon fekvő bányászváros Katanga régióban.",
@@ -337,14 +312,11 @@ image: "/poi-images/cd-kipushi-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kasumbalesa is a crucial border city located between the Democratic Republic of the Congo and Zambia. It is one of the busiest and most important border posts in the region, serving as a primary transit point for goods and people moving between the DRC, Zambia, and the southern African markets. The city's growth and economy are intrinsically tied to international trade and logistics. Geography K8 — trade routes and logistics.",
-      de: "Kasumbalesa ist vor allem als Grenzstadt zwischen der Demokratischen Republik Kongo und Sambia bekannt. Der Ort lebt von Lastwagenkolonnen, Zollabfertigung, Handel und der Verbindung zwischen dem Kupfergürtel und den südlichen Exportwegen. Statt eines klassischen Stadtzentrums dominiert hier der Verkehrsfluss: Tankstellen, Lagerflächen, Marktstände und Grenzposten bestimmen das Bild. Kasumbalesa ist damit ein logistischer Schwellenraum, in dem Waren, Fahrer und Behörden auf engstem Raum zusammentreffen. Für Geografie K8 ist die Stadt besonders geeignet, weil sich hier Außenhandel und Binnenverkehr unmittelbar beobachten lassen.",
-image: "/poi-images/cd-kasumbalesa-cities-v2.webp"
-},
+      de: "Kasumbalesa ist vor allem als Grenzstadt zwischen der Demokratischen Republik Kongo und Sambia bekannt. Der Ort lebt von Lastwagenkolonnen, Zollabfertigung, Handel und der Verbindung zwischen dem Kupfergürtel und den südlichen Exportwegen. Statt eines klassischen Stadtzentrums dominiert hier der Verkehrsfluss: Tankstellen, Lagerflächen, Marktstände und Grenzposten bestimmen das Bild. Kasumbalesa ist damit ein logistischer Schwellenraum, in dem Waren, Fahrer und Behörden auf engstem Raum zusammentreffen. Für Geografie K8 ist die Stadt besonders geeignet, weil sich hier Außenhandel und Binnenverkehr unmittelbar beobachten lassen."},
     factsAdvanced: {
       en: ["Major border crossing post connecting DRC and Zambia.", "Key node in the international logistics chain for the Copperbelt.", "Vital for the export of Congolese minerals and import of supplies.", "Rapidly expanding due to its strategic position on regional trade routes.", "Significant hub for customs and freight management.", "Center for cross-border interactions in the Haut-Katanga region."],
-      de: ["Grenzübergang zur Republik Sambia.", "Liegt nahe Chililabombwe.", "Wichtiger Zoll- und Handelsort.", "Teil der Provinz Haut-Katanga.", "Starker Lastwagenverkehr Richtung Kupfergürtel.", "Schlüsselpunkt für Export und Import im Süden des Landes."]
-    }
-  },
+      de: ["Grenzübergang zur Republik Sambia.", "Liegt nahe Chililabombwe.", "Wichtiger Zoll- und Handelsort.", "Teil der Provinz Haut-Katanga.", "Starker Lastwagenverkehr Richtung Kupfergürtel.", "Schlüsselpunkt für Export und Import im Süden des Landes."] } },
+    image: "/poi-images/cd-kasumbalesa-cities-v2.webp",
     description: {
       de: "Kasumbalesa ist ein wichtiger Grenzort zwischen der DR Kongo und Sambia, durch den ein Großteil des Warenverkehrs der Bergbauregion fließt.",
       hu: "Kiemelt fontosságú határváros a Kongói Demokratikus Köztársaság és Zambia között.",
@@ -373,14 +345,11 @@ image: "/poi-images/cd-kasumbalesa-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kolwezi is a major mining city in the Lualaba province, playing a pivotal role in the Democratic Republic of the Congo's global standing in copper and cobalt production. Situated in the heart of the Katanga Copperbelt, it has seen massive industrial investment to extract rare mineral deposits essential for global technology and green energy markets. The city is defined by its industrial landscape and the rapid economic activity surrounding its vast open-pit mines. Geography K8 — economic geography and mining industry.",
-      de: "Kolwezi ist die Hauptstadt der Provinz Lualaba und einer der sichtbarsten Bergbauräume der Demokratischen Republik Kongo. Die Stadt liegt auf einer trockenen Hochfläche und ist von Tagebauen, Aufbereitungsanlagen und Werkssiedlungen umgeben. Kupfer und Kobalt haben Kolwezi weit über die Region hinaus bekannt gemacht; viele internationale Lieferketten für Batterierohstoffe laufen über dieses Gebiet. Gleichzeitig ist der Ort ein Verkehrsknoten mit Flughafen, Bahnbezug und Straßenachsen in Richtung Lubumbashi und Angola. Kolwezi zeigt sehr klar, wie Rohstoffabbau ein gesamtes Stadtprofil formt. Wirtschaft K8 — Kupfer, Kobalt und Industrie.",
-image: "/poi-images/cd-kolwezi-cities-v2.webp"
-},
+      de: "Kolwezi ist die Hauptstadt der Provinz Lualaba und einer der sichtbarsten Bergbauräume der Demokratischen Republik Kongo. Die Stadt liegt auf einer trockenen Hochfläche und ist von Tagebauen, Aufbereitungsanlagen und Werkssiedlungen umgeben. Kupfer und Kobalt haben Kolwezi weit über die Region hinaus bekannt gemacht; viele internationale Lieferketten für Batterierohstoffe laufen über dieses Gebiet. Gleichzeitig ist der Ort ein Verkehrsknoten mit Flughafen, Bahnbezug und Straßenachsen in Richtung Lubumbashi und Angola. Kolwezi zeigt sehr klar, wie Rohstoffabbau ein gesamtes Stadtprofil formt. Wirtschaft K8 — Kupfer, Kobalt und Industrie."},
     factsAdvanced: {
       en: ["Capital of the Lualaba province.", "Crucial site for global cobalt and copper supply chains.", "Home to some of the world's largest open-pit mining operations.", "Rapid demographic growth driven by the mining sector.", "Located at the western end of the Katanga Copperbelt.", "Key hub for industrial and engineering services in the region."],
-      de: ["Wichtiges Zentrum für Kupfer und Kobalt.", "Industrialisierung begann um 1901.", "Mit dem Namen Kolwesi/Kolwezi in älteren Quellen belegt.", "Ort des bekannten Kolwezi-Konflikts von 1978.", "Stadt auf einer trockenen Hochfläche."]
-    }
-  },
+      de: ["Wichtiges Zentrum für Kupfer und Kobalt.", "Industrialisierung begann um 1901.", "Mit dem Namen Kolwesi/Kolwezi in älteren Quellen belegt.", "Ort des bekannten Kolwezi-Konflikts von 1978.", "Stadt auf einer trockenen Hochfläche."] } },
+    image: "/poi-images/cd-kolwezi-cities-v2.webp",
     description: {
       de: "Kolwezi ist die Welthauptstadt der Kobaltförderung und ein rasant wachsendes Bergbauzentrum im Süden der Demokratischen Republik Kongo.",
       hu: "Lualaba tartomány fővárosa, a világ egyik legjelentősebb kobaltbányászati központja.",
@@ -409,14 +378,11 @@ image: "/poi-images/cd-kolwezi-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Fungurume is a prominent mining town in the Lualaba province, famous for the massive Tenke Fungurume Mining (TFM) operation. As one of the world's most significant producers of copper and cobalt, the town has transformed into a critical economic node in the Katanga region. Its growth is almost entirely linked to the scale of international industrial mining projects in its vicinity. Geography K7 — industry and regional growth.",
-      de: "Fungurume ist eine Bergbaustadt in der Provinz Lualaba und eng mit dem Tenke-Fungurume-Kupfergürtel verbunden. Der Ort wuchs mit den großen Erzprojekten, die rund um Kupfer und Kobalt das Siedlungsbild verändert haben. Zwischen Förderanlagen, Straßen und Arbeiterwohnvierteln entsteht hier eine typische Rohstoffstadt des Südostkongo: weniger historisches Zentrum als industriell geprägter Versorgungspunkt. Fungurume steht exemplarisch dafür, wie internationale Minengesellschaften und lokale Arbeitsmärkte im Alltag ineinandergreifen. Geografie K8 — Bergbauräume und globale Rohstoffketten.",
-image: "/poi-images/cd-fungurume-cities-v2.webp"
-},
+      de: "Fungurume ist eine Bergbaustadt in der Provinz Lualaba und eng mit dem Tenke-Fungurume-Kupfergürtel verbunden. Der Ort wuchs mit den großen Erzprojekten, die rund um Kupfer und Kobalt das Siedlungsbild verändert haben. Zwischen Förderanlagen, Straßen und Arbeiterwohnvierteln entsteht hier eine typische Rohstoffstadt des Südostkongo: weniger historisches Zentrum als industriell geprägter Versorgungspunkt. Fungurume steht exemplarisch dafür, wie internationale Minengesellschaften und lokale Arbeitsmärkte im Alltag ineinandergreifen. Geografie K8 — Bergbauräume und globale Rohstoffketten."},
     factsAdvanced: {
       en: ["Site of the Tenke Fungurume Mining operation.", "Vital hub for large-scale copper and cobalt production.", "Located along the central railway corridor in the mining belt.", "Rapid urban growth centered on industrial employment.", "Critical to the DRC's position in the global mining sector.", "Infrastructure heavily reliant on industrial and logistical support."],
-      de: ["Teil des Tenke-Fungurume-Minenraums.", "Kupfer- und Kobaltförderung prägen den Ort.", "Wachstum durch industrielle Bergbauprojekte.", "Lage im südöstlichen Katanga-Kupfergürtel.", "Enge Verbindung zu Tenke Fungurume Mining."]
-    }
-  },
+      de: ["Teil des Tenke-Fungurume-Minenraums.", "Kupfer- und Kobaltförderung prägen den Ort.", "Wachstum durch industrielle Bergbauprojekte.", "Lage im südöstlichen Katanga-Kupfergürtel.", "Enge Verbindung zu Tenke Fungurume Mining."] } },
+    image: "/poi-images/cd-fungurume-cities-v2.webp",
     description: {
       de: "Fungurume ist eine Bergbaustadt zwischen Likasi und Kolwezi, die durch die riesige Tenke Fungurume Kupfer-Kobalt-Mine an Bedeutung gewann.",
       hu: "Bányászváros Lualaba tartományban, a hatalmas Tenke Fungurume bánya közelében.",
@@ -445,14 +411,11 @@ image: "/poi-images/cd-fungurume-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Mutshatsha is a key transit and industrial town in the Lualaba province, known for its strategic location along the regional rail network. It serves as a vital junction for the transportation of mineral ores from the mines of Kolwezi to other regions and international markets. The town's function is primarily logistical, bridging the gap between major industrial mining zones and the broader national transport infrastructure. Geography K7 — transportation and logistics.",
-      de: "Mutshatsha ist der Verwaltungskern des gleichnamigen Territoriums in Lualaba und liegt nahe den Grenzräumen zu Sambia und Angola. Der Ort ist kein Metropolenname, aber genau deshalb interessant: Hier zeigt sich, wie die Peripherie eines Minenlandes funktioniert, wenn Verwaltung, Straßenverkehr und regionale Versorgung zusammenkommen. Mutshatsha ist Teil eines ländlich geprägten, aber strategisch wichtigen Raums zwischen Kolwezi und den südwestlichen Grenzachsen. Die Stadt macht sichtbar, dass die Geografie des Kongo nicht nur aus Großstädten besteht, sondern auch aus kleinen Knoten mit politischer Funktion. Geografie K7 — Grenzräume und regionale Verwaltung.",
-image: "/poi-images/cd-mutshatsha-cities-v2.webp"
-},
+      de: "Mutshatsha ist der Verwaltungskern des gleichnamigen Territoriums in Lualaba und liegt nahe den Grenzräumen zu Sambia und Angola. Der Ort ist kein Metropolenname, aber genau deshalb interessant: Hier zeigt sich, wie die Peripherie eines Minenlandes funktioniert, wenn Verwaltung, Straßenverkehr und regionale Versorgung zusammenkommen. Mutshatsha ist Teil eines ländlich geprägten, aber strategisch wichtigen Raums zwischen Kolwezi und den südwestlichen Grenzachsen. Die Stadt macht sichtbar, dass die Geografie des Kongo nicht nur aus Großstädten besteht, sondern auch aus kleinen Knoten mit politischer Funktion. Geografie K7 — Grenzräume und regionale Verwaltung."},
     factsAdvanced: {
       en: ["Important transit point on the railway line in Lualaba province.", "Facilitates transport of copper and cobalt ores.", "Strategically located between major industrial mining hubs.", "Historically tied to the development of Congolese railway infrastructure.", "Serves as a service node for transport and mining industries.", "Regionally significant for facilitating regional trade flows."],
-      de: ["Verwaltungszentrum des Territoriums Mutshatsha.", "Nahe den Grenzen zu Sambia und Angola.", "Teil des südwestlichen Grenzraums des Landes.", "Wichtiger Ort zwischen ländlichem Raum und Bergbauachsen.", "Verbunden mit den Verkehrswegen Richtung Kolwezi und Dilolo."]
-    }
-  },
+      de: ["Verwaltungszentrum des Territoriums Mutshatsha.", "Nahe den Grenzen zu Sambia und Angola.", "Teil des südwestlichen Grenzraums des Landes.", "Wichtiger Ort zwischen ländlichem Raum und Bergbauachsen.", "Verbunden mit den Verkehrswegen Richtung Kolwezi und Dilolo."] } },
+    image: "/poi-images/cd-mutshatsha-cities-v2.webp",
     description: {
       de: "Mutshatsha ist eine strategisch gelegene Kleinstadt an der Eisenbahnlinie, die Kolwezi mit dem angolanischen Hafen Lobito verbindet.",
       hu: "Kisebb város és adminisztratív központ Lualaba tartományban.",
@@ -481,14 +444,11 @@ image: "/poi-images/cd-mutshatsha-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kamina is a major railway hub and strategic administrative center in the Haut-Lomami province. Its development has been historically defined by its critical position at the junction of railway lines that connect the mining regions of Katanga with the rest of the Democratic Republic of the Congo. Beyond its role in logistics, Kamina also serves as a significant administrative and military base for the region. Geography K7 — railway network and administrative hubs.",
-      de: "Kamina ist die Hauptstadt von Haut-Lomami und einer der wichtigsten Eisenbahnknotenpunkte der Demokratischen Republik Kongo. Von hier aus verzweigen sich Linien nach Norden, Westen und Südosten, weshalb der Ort über seine Größe hinaus strategische Bedeutung hat. Dazu kommen der zivile Flughafen und die Militärbasis, die Kamina zu einem vielschichtigen Verkehrs- und Logistikstandort machen. Die Stadt liegt nicht an einer berühmten Seefront und nicht in einem großen Touristengebiet, sondern im praktischen Zentrum eines Kontinentalnetzes aus Schiene, Luftverkehr und Verwaltung. Geografie K8 — Verkehrsknoten und regionale Erreichbarkeit.",
-image: "/poi-images/cd-kamina-cities-v2.webp"
-},
+      de: "Kamina ist die Hauptstadt von Haut-Lomami und einer der wichtigsten Eisenbahnknotenpunkte der Demokratischen Republik Kongo. Von hier aus verzweigen sich Linien nach Norden, Westen und Südosten, weshalb der Ort über seine Größe hinaus strategische Bedeutung hat. Dazu kommen der zivile Flughafen und die Militärbasis, die Kamina zu einem vielschichtigen Verkehrs- und Logistikstandort machen. Die Stadt liegt nicht an einer berühmten Seefront und nicht in einem großen Touristengebiet, sondern im praktischen Zentrum eines Kontinentalnetzes aus Schiene, Luftverkehr und Verwaltung. Geografie K8 — Verkehrsknoten und regionale Erreichbarkeit."},
     factsAdvanced: {
       en: ["Key junction for the national railway network.", "Administrative center of the Haut-Lomami province.", "Historically significant military and transit base.", "Located at a central crossroads for regional transport.", "Supports a mix of agricultural and service-based local economies.", "Serves as a gateway for travel between southern and central DRC."],
-      de: ["Wichtiger Eisenbahnknoten im Landesnetz.", "Drei Bahnrichtungen: Norden, Westen und Südosten.", "Es gibt einen zivilen Flughafen und eine Militärbasis.", "Lage an der Lubumbashi-Ilebo-Bahn.", "Verbindung nach Kindu und Kalemie."]
-    }
-  },
+      de: ["Wichtiger Eisenbahnknoten im Landesnetz.", "Drei Bahnrichtungen: Norden, Westen und Südosten.", "Es gibt einen zivilen Flughafen und eine Militärbasis.", "Lage an der Lubumbashi-Ilebo-Bahn.", "Verbindung nach Kindu und Kalemie."] } },
+    image: "/poi-images/cd-kamina-cities-v2.webp",
     description: {
       de: "Kamina ist ein wichtiger Verkehrsknotenpunkt und Militärstützpunkt im Zentrum der ehemaligen Provinz Katanga.",
       hu: "Haut-Lomami tartomány fővárosa és fontos katonai bázis.",
@@ -517,14 +477,11 @@ image: "/poi-images/cd-kamina-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Bukama is a town located along the Lualaba River in the Haut-Lomami province, historically serving as a critical river port and railway terminal. The town is situated in a region defined by its waterway and rail connectivity, which historically facilitated the transport of agricultural products and minerals. Its role as a multimodal transport node makes it a significant point of interaction for the region's internal trade. Geography K7 — waterway transport and regional logistics.",
-      de: "Bukama liegt in Haut-Lomami am Lualaba-Fluss und ist für die Wasserwege des Landes ein wichtiger Scharnierpunkt. Hier wird der Flussabschnitt für große Strecken schiffbar, bevor sich im Upemba-Becken eine Kette aus Seen und Sümpfen öffnet. Bukama ist damit nicht nur eine Stadt, sondern eine Art Übergang zwischen Fluss, Seenlandschaft und Binnenverkehr. Genau diese Lage erklärt auch, warum der Ort in Karten und Reiseberichten immer wieder auftaucht: als Punkt, an dem Wassertransport, Bahn und regionale Versorgung aufeinandertreffen. Geografie K7 — Flusssysteme und Binnenverkehr.",
-image: "/poi-images/cd-bukama-cities-v2.webp"
-},
+      de: "Bukama liegt in Haut-Lomami am Lualaba-Fluss und ist für die Wasserwege des Landes ein wichtiger Scharnierpunkt. Hier wird der Flussabschnitt für große Strecken schiffbar, bevor sich im Upemba-Becken eine Kette aus Seen und Sümpfen öffnet. Bukama ist damit nicht nur eine Stadt, sondern eine Art Übergang zwischen Fluss, Seenlandschaft und Binnenverkehr. Genau diese Lage erklärt auch, warum der Ort in Karten und Reiseberichten immer wieder auftaucht: als Punkt, an dem Wassertransport, Bahn und regionale Versorgung aufeinandertreffen. Geografie K7 — Flusssysteme und Binnenverkehr."},
     factsAdvanced: {
       en: ["Historically important river port and rail terminal.", "Provides multimodal transport links for the Haut-Lomami region.", "Regional center for agricultural market interaction.", "Located along important internal trade corridors.", "Supports regional connectivity through its transit infrastructure."],
-      de: ["Lage am Lualaba-Fluss.", "Ab Bukama wird der Fluss über lange Strecken schiffbar.", "Das Upemba-Becken beginnt südlich des Ortes.", "Verbindung zu den Seen Upemba und Kisale.", "Wichtiger Punkt für Fluss- und Bahnverkehr."]
-    }
-  },
+      de: ["Lage am Lualaba-Fluss.", "Ab Bukama wird der Fluss über lange Strecken schiffbar.", "Das Upemba-Becken beginnt südlich des Ortes.", "Verbindung zu den Seen Upemba und Kisale.", "Wichtiger Punkt für Fluss- und Bahnverkehr."] } },
+    image: "/poi-images/cd-bukama-cities-v2.webp",
     description: {
       de: "Bukama ist eine Hafenstadt am Lualaba-Fluss, die als wichtiger Umschlagplatz zwischen Flussschifffahrt und Eisenbahn dient.",
       hu: "Folyami kikötő és vasúti állomás a Lualaba-folyó partján.",
@@ -553,14 +510,11 @@ image: "/poi-images/cd-bukama-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kabongo is a significant town in the Haut-Lomami province, historically serving as a center of the Luba Kingdom. The town and its surrounding region are rich in historical narratives and cultural heritage, marking them as important sites for understanding the pre-colonial history of the Congo. Today, it serves as a local agricultural and administrative center, maintaining its role as a focal point for the Luba people in the area. History K8 — pre-colonial African kingdoms and cultural history.",
-      de: "Kabongo ist sowohl ein Territorium als auch ein Ort in Haut-Lomami und steht für die Verwaltungslandschaft im südöstlichen Landesinneren. Anders als die großen Bergbaustädte lebt Kabongo stärker von regionaler Organisation, lokaler Versorgung und der Funktion als Mittelpunkt eines ländlichen Umlands. Die Stadt ist deshalb weniger über ein einzelnes ikonisches Bauwerk definiert als über ihren Platz im territorialen Gefüge. Genau das macht sie für den Unterricht interessant: Hier lässt sich zeigen, wie Provinzen, Territorien und Städte im Kongo ineinandergreifen. Geografie K6 — Verwaltung und Siedlungsräume.",
-image: "/poi-images/cd-kabongo-cities-v2.webp"
-},
+      de: "Kabongo ist sowohl ein Territorium als auch ein Ort in Haut-Lomami und steht für die Verwaltungslandschaft im südöstlichen Landesinneren. Anders als die großen Bergbaustädte lebt Kabongo stärker von regionaler Organisation, lokaler Versorgung und der Funktion als Mittelpunkt eines ländlichen Umlands. Die Stadt ist deshalb weniger über ein einzelnes ikonisches Bauwerk definiert als über ihren Platz im territorialen Gefüge. Genau das macht sie für den Unterricht interessant: Hier lässt sich zeigen, wie Provinzen, Territorien und Städte im Kongo ineinandergreifen. Geografie K6 — Verwaltung und Siedlungsräume."},
     factsAdvanced: {
       en: ["Historically linked to the Luba Kingdom.", "Administrative and commercial center in the Haut-Lomami province.", "Rich in cultural heritage and traditional history.", "Located in a region with significant agricultural potential.", "Serves as a focal point for local community life.", "Provides insights into the historical development of the Luba society."],
-      de: ["Ort und Territorium in Haut-Lomami.", "Teil des südöstlichen Verwaltungsraums des Landes.", "Territorium Kabongo wurde 1922 geschaffen.", "Administrative Funktion für das Umland.", "Ländlich geprägter Ort ohne Großstadtprofil.", "Verknüpft lokale Versorgung mit Provinzstruktur."]
-    }
-  },
+      de: ["Ort und Territorium in Haut-Lomami.", "Teil des südöstlichen Verwaltungsraums des Landes.", "Territorium Kabongo wurde 1922 geschaffen.", "Administrative Funktion für das Umland.", "Ländlich geprägter Ort ohne Großstadtprofil.", "Verknüpft lokale Versorgung mit Provinzstruktur."] } },
+    image: "/poi-images/cd-kabongo-cities-v2.webp",
     description: {
       de: "Kabongo ist ein ländliches Verwaltungszentrum im Norden der Provinz Haut-Lomami, das hauptsächlich von Landwirtschaft geprägt ist.",
       hu: "Település és adminisztratív központ Haut-Lomami tartományban.",
@@ -589,14 +543,11 @@ image: "/poi-images/cd-kabongo-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kalemie is a major port city on the western shore of Lake Tanganyika in the Tanganyika province. It serves as the most important gateway for transport and trade across the lake, connecting the Democratic Republic of the Congo with Tanzania and the East African Community. The city is a bustling center for regional commerce, fishing, and transit, playing a critical role in the country's eastern trade connectivity. Geography K7 — lake ports and regional trade networks.",
-      de: "Kalemie liegt am westlichen Ufer des Tanganjikasees und ist Hauptstadt der Provinz Tanganyika. Die Stadt war früher als Albertville oder Albertstad bekannt und ist bis heute ein wichtiger Hafen-, Bahn- und Handelsort im Osten des Landes. Durch die Lage am See verbindet Kalemie den Binnenraum mit dem Verkehr nach Tansania und in andere Küsten- und Seeregionen des Großen Grabenbruchs. Auch sprachlich ist der Ort markant, weil dort ein Kiswahili-Dialekt im Alltag dominiert. Kalemie macht sichtbar, wie Seehandel, Grenzräume und Provinzverwaltung zusammenwirken. Geografie K7 — Seen und Verkehrsräume.",
-image: "/poi-images/cd-kalemie-cities-v2.webp"
-},
+      de: "Kalemie liegt am westlichen Ufer des Tanganjikasees und ist Hauptstadt der Provinz Tanganyika. Die Stadt war früher als Albertville oder Albertstad bekannt und ist bis heute ein wichtiger Hafen-, Bahn- und Handelsort im Osten des Landes. Durch die Lage am See verbindet Kalemie den Binnenraum mit dem Verkehr nach Tansania und in andere Küsten- und Seeregionen des Großen Grabenbruchs. Auch sprachlich ist der Ort markant, weil dort ein Kiswahili-Dialekt im Alltag dominiert. Kalemie macht sichtbar, wie Seehandel, Grenzräume und Provinzverwaltung zusammenwirken. Geografie K7 — Seen und Verkehrsräume."},
     factsAdvanced: {
       en: ["Located on the western shore of Lake Tanganyika.", "Major port connecting DRC to Tanzania.", "Key hub for regional trade and lake-based logistics.", "Significant center for the fishing industry in Lake Tanganyika.", "Capital of the Tanganyika province.", "Gateway for eastern trade and regional economic interaction."],
-      de: ["Lage am westlichen Ufer des Tanganjikasees.", "Frühere Namen: Albertville und Albertstad.", "Wichtiger Hafen- und Handelsort.", "Kiswahili ist die wichtigste Alltagssprache.", "Anbindung an den Seehandel Richtung Tansania."]
-    }
-  },
+      de: ["Lage am westlichen Ufer des Tanganjikasees.", "Frühere Namen: Albertville und Albertstad.", "Wichtiger Hafen- und Handelsort.", "Kiswahili ist die wichtigste Alltagssprache.", "Anbindung an den Seehandel Richtung Tansania."] } },
+    image: "/poi-images/cd-kalemie-cities-v2.webp",
     description: {
       de: "Kalemie liegt am Westufer des Tanganjikasees und ist ein strategischer Hafenort sowie der Endpunkt der Eisenbahnlinie aus dem Landesinneren.",
       hu: "Fontos kikötőváros a Tanganyika-tó nyugati partján, Tanganyika tartomány székhelye.",
@@ -625,14 +576,11 @@ image: "/poi-images/cd-kalemie-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Kongolo is a town in the Tanganyika province, situated at a strategic point along the Lualaba River. It is famous for being the location of the 'Gates of Hell', a series of powerful rapids on the river that have been a subject of historical exploration and navigational challenge. Beyond its geographical fame, the town serves as an essential local node for river transport and trade in the northern Tanganyika province. Geography K7 — river navigation and regional centers.",
-      de: "Kongolo ist eine Stadt in Tanganyika und liegt direkt am Lualaba-Fluss, dem Oberlauf des Kongo. Der Ort ist vor allem wegen der Kongolo-Brücke bekannt, die Straße und Eisenbahn über den Fluss führt und den Verkehr auf beiden Ufern verbindet. Unterhalb von Bukama wird der Fluss schiffbar, doch bei Kongolo verändert sich die Landschaft erneut drastisch, weil das Wasser in enge Schluchten und Stromschnellen übergeht. Kongolo ist daher ein Ort, an dem man Flussgeografie, Brückenbau und Verkehrslogik zugleich sehen kann. Geografie K8 — Flussübergänge und Infrastruktur.",
-image: "/poi-images/cd-kongolo-cities-v2.webp"
-},
+      de: "Kongolo ist eine Stadt in Tanganyika und liegt direkt am Lualaba-Fluss, dem Oberlauf des Kongo. Der Ort ist vor allem wegen der Kongolo-Brücke bekannt, die Straße und Eisenbahn über den Fluss führt und den Verkehr auf beiden Ufern verbindet. Unterhalb von Bukama wird der Fluss schiffbar, doch bei Kongolo verändert sich die Landschaft erneut drastisch, weil das Wasser in enge Schluchten und Stromschnellen übergeht. Kongolo ist daher ein Ort, an dem man Flussgeografie, Brückenbau und Verkehrslogik zugleich sehen kann. Geografie K8 — Flussübergänge und Infrastruktur."},
     factsAdvanced: {
       en: ["Situated on the Lualaba River.", "Famous for the 'Gates of Hell' river rapids.", "Historic site for river exploration and navigation challenges.", "Essential local node for river transport and commerce.", "Regional center for agricultural and service activities in Tanganyika.", "Known for its strategic position on the river's upper course."],
-      de: ["Lage am Lualaba-Fluss.", "Kongolo-Brücke überquert den Fluss.", "Brücke dient Bahn- und Straßenverkehr.", "Wichtiger Punkt auf dem nationalen Schienennetz.", "Der Fluss wird bei Kongolo landschaftlich enger und schwieriger."]
-    }
-  },
+      de: ["Lage am Lualaba-Fluss.", "Kongolo-Brücke überquert den Fluss.", "Brücke dient Bahn- und Straßenverkehr.", "Wichtiger Punkt auf dem nationalen Schienennetz.", "Der Fluss wird bei Kongolo landschaftlich enger und schwieriger."] } },
+    image: "/poi-images/cd-kongolo-cities-v2.webp",
     description: {
       de: "Kongolo ist eine Stadt am Lualaba-Fluss, die für ihre beeindruckende Eisenbahnbrücke bekannt ist, welche den Fluss überspannt.",
       hu: "Város a Lualaba-folyó partján, amely stratégiai közlekedési pontként szolgál.",
@@ -661,14 +609,11 @@ image: "/poi-images/cd-kongolo-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Manono is a mining town in the Tanganyika province, recognized for its substantial deposits of tin, tantalum, and lithium. The town has historically been a key site for mineral extraction, particularly associated with the Kitotolo mine complex, which continues to attract significant geological and industrial interest. Manono's identity is inextricably linked to its mineral wealth and the industrial history of the Tanganyika region. Geography K8 — mining industry and resource geography.",
-      de: "Manono ist eine Bergbaustadt in Tanganyika, deren Name eng mit dem Manono-Kitolo-Gebiet verbunden ist. Dort wurde über Jahrzehnte Zinn, später auch Coltan, gefördert; heute steht der Ort zusätzlich wegen seiner großen Lithiumvorkommen im Fokus. Manono zeigt, wie sich Rohstofforte über die Zeit verändern: von klassischer Erzförderung hin zu einem Standort, der in globalen Debatten um Batterierohstoffe auftaucht. Trotz seiner Abgeschiedenheit ist der Ort deshalb weit mehr als eine Kleinstadt im Landesinneren. Geografie K8 — Erzlager und Zukunftsrohstoffe.",
-image: "/poi-images/cd-manono-cities-v2.webp"
-},
+      de: "Manono ist eine Bergbaustadt in Tanganyika, deren Name eng mit dem Manono-Kitolo-Gebiet verbunden ist. Dort wurde über Jahrzehnte Zinn, später auch Coltan, gefördert; heute steht der Ort zusätzlich wegen seiner großen Lithiumvorkommen im Fokus. Manono zeigt, wie sich Rohstofforte über die Zeit verändern: von klassischer Erzförderung hin zu einem Standort, der in globalen Debatten um Batterierohstoffe auftaucht. Trotz seiner Abgeschiedenheit ist der Ort deshalb weit mehr als eine Kleinstadt im Landesinneren. Geografie K8 — Erzlager und Zukunftsrohstoffe."},
     factsAdvanced: {
       en: ["Renowned for significant tin, tantalum, and lithium deposits.", "Associated with the historic Kitotolo mine complex.", "Key site for mineral extraction in Tanganyika province.", "Focus of ongoing international geological exploration.", "Serves as an industrial hub within the region.", "Population linked to the mining and service sectors."],
-      de: ["Manono-Kitolo war ein historisches Bergbaugebiet.", "Dort wurden Zinn und Coltan gefördert.", "Das Gebiet enthält große Lithiumvorkommen.", "Die Mine wurde bis in die späten 1970er-Jahre genutzt.", "Wichtiges Beispiel für Batterierohstoffe im Kongo."]
-    }
-  },
+      de: ["Manono-Kitolo war ein historisches Bergbaugebiet.", "Dort wurden Zinn und Coltan gefördert.", "Das Gebiet enthält große Lithiumvorkommen.", "Die Mine wurde bis in die späten 1970er-Jahre genutzt.", "Wichtiges Beispiel für Batterierohstoffe im Kongo."] } },
+    image: "/poi-images/cd-manono-cities-v2.webp",
     description: {
       de: "Manono ist historisch als Bergbaustadt für Zinn bekannt und beherbergt heute eines der weltweit größten unerschlossenen Lithiumvorkommen.",
       hu: "Bányászváros Tanganyika tartományban, amely hatalmas ásványkincskészleteiről ismert.",
@@ -697,14 +642,11 @@ image: "/poi-images/cd-manono-cities-v2.webp"
     ,
     descriptionAdvanced: {
       en: "Bukavu is a major city and the capital of the South Kivu province, located on the southern shore of Lake Kivu. Known for its stunning lakeside scenery and hilly terrain, Bukavu is a central hub for trade, education, and administration in the eastern Democratic Republic of the Congo. The city is also a vital entry point for cross-border interaction with neighboring Rwanda, facilitating substantial local and regional trade. Geography K7 — lake landscapes and regional trade hubs.",
-      de: "Bukavu ist die Hauptstadt von Süd-Kivu und liegt am südwestlichen Ufer des Kivussees. Gegenüber auf rwandischer Seite liegt Cyangugu, getrennt durch den Ruzizi-Fluss, was Bukavu zu einem klaren Grenz- und Handelsraum macht. Früher hieß die Stadt Costermansville, und diese Kolonialschicht ist bis heute in der Stadtgeschichte präsent. Gleichzeitig ist Bukavu ein Verwaltungs-, Bildungs- und Versorgungszentrum für den Osten des Landes. Die Lage am See und am Grenzfluss erklärt die besondere Mischung aus Dichte, Verkehr und regionaler Bedeutung. Geografie K7 — Seen, Grenzräume und Provinzstädte.",
-image: "/poi-images/cd-bukavu-cities-v2.webp"
-},
+      de: "Bukavu ist die Hauptstadt von Süd-Kivu und liegt am südwestlichen Ufer des Kivussees. Gegenüber auf rwandischer Seite liegt Cyangugu, getrennt durch den Ruzizi-Fluss, was Bukavu zu einem klaren Grenz- und Handelsraum macht. Früher hieß die Stadt Costermansville, und diese Kolonialschicht ist bis heute in der Stadtgeschichte präsent. Gleichzeitig ist Bukavu ein Verwaltungs-, Bildungs- und Versorgungszentrum für den Osten des Landes. Die Lage am See und am Grenzfluss erklärt die besondere Mischung aus Dichte, Verkehr und regionaler Bedeutung. Geografie K7 — Seen, Grenzräume und Provinzstädte."},
     factsAdvanced: {
       en: ["Capital of the South Kivu province.", "Strategically located on the southern shores of Lake Kivu.", "Significant regional center for education and healthcare.", "Gateway for cross-border trade with Rwanda.", "Known for its picturesque hilly landscape and lakeside views.", "Crucial administrative and commercial hub in eastern DRC."],
-      de: ["Lage am südwestlichen Ufer des Kivussees.", "Gegenüber liegt Cyangugu in Ruanda.", "Getrennt durch den Ruzizi-Fluss.", "Früherer Name: Costermansville.", "Wichtiger Verwaltungs- und Handelsort im Osten des Landes."]
-    }
-  },
+      de: ["Lage am südwestlichen Ufer des Kivussees.", "Gegenüber liegt Cyangugu in Ruanda.", "Getrennt durch den Ruzizi-Fluss.", "Früherer Name: Costermansville.", "Wichtiger Verwaltungs- und Handelsort im Osten des Landes."] } },
+    image: "/poi-images/cd-bukavu-cities-v2.webp",
     description: {
       de: "Bukavu ist eine malerische Stadt am südlichen Ende des Kivusees, die für ihre Architektur aus der Kolonialzeit und ihre hügelige Landschaft bekannt ist.",
       hu: "Dél-Kivu tartomány fővárosa, a Kivu-tó déli partján fekszik.",
@@ -729,9 +671,8 @@ image: "/poi-images/cd-bukavu-cities-v2.webp"
       de: "Uvira",
       hu: "Uvira",
       ro: "Uvira",
-      en: "Uvira",
-image: "/poi-images/cd-uvira-cities-v2.webp"
-},
+      en: "Uvira"},
+    image: "/poi-images/cd-uvira-cities-v2.webp",
     description: {
       de: "Uvira liegt am nördlichsten Punkt des Tanganjikasees und ist ein wichtiger Handelsplatz an der Grenze zu Burundi.",
       hu: "Kikötőváros a Tanganyika-tó északi végénél, a burundi határ közelében.",
@@ -766,9 +707,8 @@ image: "/poi-images/cd-uvira-cities-v2.webp"
       de: "Baraka",
       hu: "Baraka",
       ro: "Baraka",
-      en: "Baraka",
-image: "/poi-images/cd-baraka-cities-v2.webp"
-},
+      en: "Baraka"},
+    image: "/poi-images/cd-baraka-cities-v2.webp",
     description: {
       de: "Baraka ist eine wachsende Stadt am Westufer des Tanganjikasees, die sich nach Jahren des Konflikts zu einem regionalen Wirtschaftszentrum entwickelt.",
       hu: "Gyorsan fejlődő város a Tanganyika-tó partján, Dél-Kivu tartományban.",
@@ -803,9 +743,8 @@ image: "/poi-images/cd-baraka-cities-v2.webp"
       de: "Kamituga",
       hu: "Kamituga",
       ro: "Kamituga",
-      en: "Kamituga",
-image: "/poi-images/cd-kamituga-cities-v2.webp"
-},
+      en: "Kamituga"},
+    image: "/poi-images/cd-kamituga-cities-v2.webp",
     description: {
       de: "Kamituga ist ein bedeutendes Zentrum für den handwerklichen Goldbergbau in den Bergen westlich von Bukavu.",
       hu: "Jelentős aranybányászati város Dél-Kivu tartomány hegyvidéki részén.",
@@ -840,9 +779,8 @@ image: "/poi-images/cd-kamituga-cities-v2.webp"
       de: "Goma",
       hu: "Goma",
       ro: "Goma",
-      en: "Goma",
-image: "/poi-images/cd-goma-cities-v2.webp"
-},
+      en: "Goma"},
+    image: "/poi-images/cd-goma-cities-v2.webp",
     description: {
       de: "Goma ist die dynamische Hauptstadt von Nord-Kivu, die am Fuße des aktiven Vulkans Nyiragongo und am Nordufer des Kivusees liegt.",
       hu: "Észak-Kivu tartomány székhelye, a Kivu-tó partján, a Nyiragongo-vulkán lábánál.",
@@ -877,9 +815,8 @@ image: "/poi-images/cd-goma-cities-v2.webp"
       de: "Beni",
       hu: "Beni",
       ro: "Beni",
-      en: "Beni",
-image: "/poi-images/cd-beni-cities-v2.webp"
-},
+      en: "Beni"},
+    image: "/poi-images/cd-beni-cities-v2.webp",
     description: {
       de: "Beni ist ein wichtiges Handelszentrum im Norden von Nord-Kivu, das für seine Produktion von Kaffee, Kakao und Palmöl bekannt ist.",
       hu: "Kereskedelmi központ Észak-Kivu északi részén, a Ruwenzori-hegység közelében.",
@@ -914,9 +851,8 @@ image: "/poi-images/cd-beni-cities-v2.webp"
       de: "Butembo",
       hu: "Butembo",
       ro: "Butembo",
-      en: "Butembo",
-image: "/poi-images/cd-butembo-cities-v2.webp"
-},
+      en: "Butembo"},
+    image: "/poi-images/cd-butembo-cities-v2.webp",
     description: {
       de: "Butembo ist eine blühende Handelsstadt im Hochland von Nord-Kivu, die für den Unternehmergeist ihrer Bewohner und den grenzüberschreitenden Handel bekannt ist.",
       hu: "Nagyváros Észak-Kivuban, amely híres pezsgő kereskedelmi életéről.",
@@ -951,9 +887,8 @@ image: "/poi-images/cd-butembo-cities-v2.webp"
       de: "Oicha",
       hu: "Oicha",
       ro: "Oicha",
-      en: "Oicha",
-image: "/poi-images/cd-oicha-cities-v2.webp"
-},
+      en: "Oicha"},
+    image: "/poi-images/cd-oicha-cities-v2.webp",
     description: {
       de: "Oicha ist der Verwaltungssitz des Territoriums Beni und liegt inmitten fruchtbarer Agrarflächen im Nordosten des Landes.",
       hu: "Adminisztratív és kereskedelmi központ Észak-Kivu tartományban.",
@@ -988,9 +923,8 @@ image: "/poi-images/cd-oicha-cities-v2.webp"
       de: "Bunia",
       hu: "Bunia",
       ro: "Bunia",
-      en: "Bunia",
-image: "/poi-images/cd-bunia-cities-v2.webp"
-},
+      en: "Bunia"},
+    image: "/poi-images/cd-bunia-cities-v2.webp",
     description: {
       de: "Bunia ist die Hauptstadt der Provinz Ituri und ein wichtiges Zentrum für den Goldbergbau und den Handel mit den Nachbarländern im Osten.",
       hu: "Ituri tartomány fővárosa, az ország északkeleti részének egyik központja.",
@@ -1025,9 +959,8 @@ image: "/poi-images/cd-bunia-cities-v2.webp"
       de: "Mahagi",
       hu: "Mahagi",
       ro: "Mahagi",
-      en: "Mahagi",
-image: "/poi-images/cd-mahagi-cities-v2.webp"
-},
+      en: "Mahagi"},
+    image: "/poi-images/cd-mahagi-cities-v2.webp",
     description: {
       de: "Mahagi ist eine wichtige Grenzstadt zu Uganda und dient als bedeutendes Tor für den Import und Export von Waren im Nordosten des Kongo.",
       hu: "Város Ituri tartományban, az Albert-tó közelében és az ugandai határ mentén.",
@@ -1062,9 +995,8 @@ image: "/poi-images/cd-mahagi-cities-v2.webp"
       de: "Aru",
       hu: "Aru",
       ro: "Aru",
-      en: "Aru",
-image: "/poi-images/cd-aru-cities-v2.webp"
-},
+      en: "Aru"},
+    image: "/poi-images/cd-aru-cities-v2.webp",
     description: {
       de: "Aru liegt im äußersten Nordosten des Landes an der Grenze zu Uganda und ist ein wichtiger Stützpunkt für den grenzüberschreitenden Handel.",
       hu: "Jelentős kereskedelmi központ Ituri tartomány északkeleti sarkában.",
@@ -1099,9 +1031,8 @@ image: "/poi-images/cd-aru-cities-v2.webp"
       de: "Isiro",
       hu: "Isiro",
       ro: "Isiro",
-      en: "Isiro",
-image: "/poi-images/cd-isiro-cities-v2.webp"
-},
+      en: "Isiro"},
+    image: "/poi-images/cd-isiro-cities-v2.webp",
     description: {
       de: "Isiro ist die Hauptstadt der Provinz Haut-Uele und ein wichtiges Zentrum für die Verarbeitung von Kaffee und Baumwolle im Nordosten des Landes.",
       hu: "Haut-Uele tartomány fővárosa az ország északkeleti részén, trópusi környezetben.",
@@ -1136,9 +1067,8 @@ image: "/poi-images/cd-isiro-cities-v2.webp"
       de: "Watsa",
       hu: "Watsa",
       ro: "Watsa",
-      en: "Watsa",
-image: "/poi-images/cd-watsa-cities-v2.webp"
-},
+      en: "Watsa"},
+    image: "/poi-images/cd-watsa-cities-v2.webp",
     description: {
       de: "Watsa ist eine Stadt in der Provinz Haut-Uele, die für ihre bedeutenden Goldvorkommen und die nahegelegene Kibali-Goldmine bekannt ist.",
       hu: "Bányászváros Haut-Uele tartományban, amely aranylelőhelyeiről nevezetes.",
@@ -1173,9 +1103,8 @@ image: "/poi-images/cd-watsa-cities-v2.webp"
       de: "Kisangani",
       hu: "Kisangani",
       ro: "Kisangani",
-      en: "Kisangani",
-image: "/poi-images/cd-kisangani-cities-v2.webp"
-},
+      en: "Kisangani"},
+    image: "/poi-images/cd-kisangani-cities-v2.webp",
     description: {
       de: "Kisangani ist die drittgrößte Stadt des Landes und ein strategischer Flusshafen am Ende der schiffbaren Strecke des Kongo-Flusses.",
       hu: "Tshopo tartomány székhelye, korábban Stanleyville néven ismerték, a Kongó-folyó mentén fekszik.",
@@ -1210,9 +1139,8 @@ image: "/poi-images/cd-kisangani-cities-v2.webp"
       de: "Bafwasende",
       hu: "Bafwasende",
       ro: "Bafwasende",
-      en: "Bafwasende",
-image: "/poi-images/cd-bafwasende-cities-v2.webp"
-},
+      en: "Bafwasende"},
+    image: "/poi-images/cd-bafwasende-cities-v2.webp",
     description: {
       de: "Bafwasende ist das größte Territorium der Provinz Tshopo und liegt in einer Region mit dichten Regenwäldern und handwerklichem Bergbau.",
       hu: "Nagy kiterjedésű település Tshopo tartományban, sűrű esőerdők szívében.",
@@ -1247,9 +1175,8 @@ image: "/poi-images/cd-bafwasende-cities-v2.webp"
       de: "Buta",
       hu: "Buta",
       ro: "Buta",
-      en: "Buta",
-image: "/poi-images/cd-buta-cities-v2.webp"
-},
+      en: "Buta"},
+    image: "/poi-images/cd-buta-cities-v2.webp",
     description: {
       de: "Buta ist die Hauptstadt der Provinz Bas-Uele und liegt an einer historischen Eisenbahnstrecke, die den Norden des Landes mit dem Kongo-Fluss verbindet.",
       hu: "Bas-Uele tartomány fővárosa, az ország északi részének egyik fontos városa.",
@@ -1284,9 +1211,8 @@ image: "/poi-images/cd-buta-cities-v2.webp"
       de: "Bondo",
       hu: "Bondo",
       ro: "Bondo",
-      en: "Bondo",
-image: "/poi-images/cd-bondo-cities-v2.webp"
-},
+      en: "Bondo"},
+    image: "/poi-images/cd-bondo-cities-v2.webp",
     description: {
       de: "Bondo ist eine Stadt im hohen Norden an der Grenze zur Zentralafrikanischen Republik und ein bedeutendes Zentrum für den Handel mit Tropenholz.",
       hu: "Város Bas-Uele tartományban, közel a Közép-afrikai Köztársaság határához.",
@@ -1321,9 +1247,8 @@ image: "/poi-images/cd-bondo-cities-v2.webp"
       de: "Gbadolite",
       hu: "Gbadolite",
       ro: "Gbadolite",
-      en: "Gbadolite",
-image: "/poi-images/cd-gbadolite-cities-v2.webp"
-},
+      en: "Gbadolite"},
+    image: "/poi-images/cd-gbadolite-cities-v2.webp",
     description: {
       de: "Gbadolite ist bekannt als die einstige Prunkresidenz des ehemaligen Präsidenten Mobutu Sese Seko, mitten im dichten Dschungel der Provinz Nord-Ubangi.",
       hu: "Nord-Ubangi tartomány fővárosa, Mobutu elnök egykori fényűző rezidenciájáról ismert.",
@@ -1358,9 +1283,8 @@ image: "/poi-images/cd-gbadolite-cities-v2.webp"
       de: "Businga",
       hu: "Businga",
       ro: "Businga",
-      en: "Businga",
-image: "/poi-images/cd-businga-cities-v2.webp"
-},
+      en: "Businga"},
+    image: "/poi-images/cd-businga-cities-v2.webp",
     description: {
       de: "Businga ist ein wichtiges ländliches Zentrum in der Provinz Nord-Ubangi, das an der Einmündung des Flusses Mongala liegt.",
       hu: "Mezőgazdasági központ és folyami kikötő Nord-Ubangi tartományban.",
@@ -1395,9 +1319,8 @@ image: "/poi-images/cd-businga-cities-v2.webp"
       de: "Lisala",
       hu: "Lisala",
       ro: "Lisala",
-      en: "Lisala",
-image: "/poi-images/cd-lisala-cities-v2.webp"
-},
+      en: "Lisala"},
+    image: "/poi-images/cd-lisala-cities-v2.webp",
     description: {
       de: "Lisala ist eine Hafenstadt am Kongo-Fluss und der Geburtsort des langjährigen kongolesischen Staatschefs Mobutu Sese Seko.",
       hu: "Mongala tartomány fővárosa a Kongó-folyó partján, Mobutu Sese Seko szülőhelye.",
@@ -1432,9 +1355,8 @@ image: "/poi-images/cd-lisala-cities-v2.webp"
       de: "Bumba",
       hu: "Bumba",
       ro: "Bumba",
-      en: "Bumba",
-image: "/poi-images/cd-bumba-cities-v2.webp"
-},
+      en: "Bumba"},
+    image: "/poi-images/cd-bumba-cities-v2.webp",
     description: {
       de: "Bumba ist ein bedeutender Flusshafen am Kongo, der als Umschlagplatz für landwirtschaftliche Produkte wie Reis und Palmöl dient.",
       hu: "Stratégiai fontosságú folyami kikötőváros Mongala tartományban.",
@@ -1469,9 +1391,8 @@ image: "/poi-images/cd-bumba-cities-v2.webp"
       de: "Gemena",
       hu: "Gemena",
       ro: "Gemena",
-      en: "Gemena",
-image: "/poi-images/cd-gemena-cities-v2.webp"
-},
+      en: "Gemena"},
+    image: "/poi-images/cd-gemena-cities-v2.webp",
     description: {
       de: "Gemena ist die Hauptstadt der Provinz Sud-Ubangi und ein pulsierendes Handelszentrum, das durch seinen Flughafen gut an Kinshasa angebunden ist.",
       hu: "Sud-Ubangi tartomány székhelye, az ország északnyugati részének központja.",
@@ -1506,9 +1427,8 @@ image: "/poi-images/cd-gemena-cities-v2.webp"
       de: "Zongo",
       hu: "Zongo",
       ro: "Zongo",
-      en: "Zongo",
-image: "/poi-images/cd-zongo-cities-v2.webp"
-},
+      en: "Zongo"},
+    image: "/poi-images/cd-zongo-cities-v2.webp",
     description: {
       de: "Zongo liegt direkt am Ubangi-Fluss gegenüber von Bangui, der Hauptstadt der Zentralafrikanischen Republik, und ist ein wichtiger Grenzort.",
       hu: "Határváros az Ubangi-folyó partján, szemben a Közép-afrikai Köztársaság fővárosával, Banguival.",
@@ -1543,9 +1463,8 @@ image: "/poi-images/cd-zongo-cities-v2.webp"
       de: "Mbandaka",
       hu: "Mbandaka",
       ro: "Mbandaka",
-      en: "Mbandaka",
-image: "/poi-images/cd-mbandaka-cities-v2.webp"
-},
+      en: "Mbandaka"},
+    image: "/poi-images/cd-mbandaka-cities-v2.webp",
     description: {
       de: "Mbandaka ist eine wichtige Hafenstadt am Äquator, wo der Ruki-Fluss in den mächtigen Kongo mündet.",
       hu: "Équateur tartomány fővárosa, közvetlenül az Egyenlítő mentén fekszik a Kongó-folyónál.",
@@ -1580,9 +1499,8 @@ image: "/poi-images/cd-mbandaka-cities-v2.webp"
       de: "Basankusu",
       hu: "Basankusu",
       ro: "Basankusu",
-      en: "Basankusu",
-image: "/poi-images/cd-basankusu-cities-v2.webp"
-},
+      en: "Basankusu"},
+    image: "/poi-images/cd-basankusu-cities-v2.webp",
     description: {
       de: "Basankusu ist ein bedeutendes Zentrum für den Handel mit Palmöl und liegt an der strategischen Stelle, wo sich die Flüsse Lulonga und Lopori treffen.",
       hu: "Város Équateur tartományban, a Lulonga-folyó partján, az esőerdők mélyén.",
@@ -1617,9 +1535,8 @@ image: "/poi-images/cd-basankusu-cities-v2.webp"
       de: "Bikoro",
       hu: "Bikoro",
       ro: "Bikoro",
-      en: "Bikoro",
-image: "/poi-images/cd-bikoro-cities-v2.webp"
-},
+      en: "Bikoro"},
+    image: "/poi-images/cd-bikoro-cities-v2.webp",
     description: {
       de: "Bikoro ist eine kleine Hafenstadt am Tumbasee, die für ihre Fischerei und die umliegenden dichten Regenwälder bekannt ist.",
       hu: "Település Équateur tartományban, a Tumba-tó partján fekszik.",
@@ -1654,9 +1571,8 @@ image: "/poi-images/cd-bikoro-cities-v2.webp"
       de: "Boende",
       hu: "Boende",
       ro: "Boende",
-      en: "Boende",
-image: "/poi-images/cd-boende-cities-v2.webp"
-},
+      en: "Boende"},
+    image: "/poi-images/cd-boende-cities-v2.webp",
     description: {
       de: "Boende ist die Hauptstadt der Provinz Tshuapa und liegt am schiffbaren Tshuapa-Fluss, umgeben von riesigen Regenwaldgebieten.",
       hu: "Tshuapa tartomány fővárosa a Tshuapa-folyó partján, az ország szívében.",
@@ -1691,9 +1607,8 @@ image: "/poi-images/cd-boende-cities-v2.webp"
       de: "Ikela",
       hu: "Ikela",
       ro: "Ikela",
-      en: "Ikela",
-image: "/poi-images/cd-ikela-cities-v2.webp"
-},
+      en: "Ikela"},
+    image: "/poi-images/cd-ikela-cities-v2.webp",
     description: {
       de: "Ikela ist eine abgelegene Stadt in der Provinz Tshuapa, die als Tor zu den tiefen Wäldern des zentralen Kongobeckens gilt.",
       hu: "Település Tshuapa tartományban, amely távoli, erdős vidéken fekszik.",
@@ -1728,9 +1643,8 @@ image: "/poi-images/cd-ikela-cities-v2.webp"
       de: "Tshikapa",
       hu: "Tshikapa",
       ro: "Tshikapa",
-      en: "Tshikapa",
-image: "/poi-images/cd-tshikapa-cities-v2.webp"
-},
+      en: "Tshikapa"},
+    image: "/poi-images/cd-tshikapa-cities-v2.webp",
     description: {
       de: "Tshikapa ist weltbekannt als Zentrum der Diamantenförderung und liegt an der Mündung des Tshikapa-Flusses in den Kasai.",
       hu: "Kasaï tartomány fővárosa, amely világszerte ismert gyémántbányászatáról.",
@@ -1765,9 +1679,8 @@ image: "/poi-images/cd-tshikapa-cities-v2.webp"
       de: "Ilebo",
       hu: "Ilebo",
       ro: "Ilebo",
-      en: "Ilebo",
-image: "/poi-images/cd-ilebo-cities-v2.webp"
-},
+      en: "Ilebo"},
+    image: "/poi-images/cd-ilebo-cities-v2.webp",
     description: {
       de: "Ilebo ist ein entscheidender Verkehrsknotenpunkt, an dem die Eisenbahn aus dem Süden endet und der Flusstransport nach Kinshasa beginnt.",
       hu: "Kiemelt fontosságú folyami kikötő Kasaï tartományban, a Kasaï-folyó partján.",
@@ -1802,9 +1715,8 @@ image: "/poi-images/cd-ilebo-cities-v2.webp"
       de: "Mweka",
       hu: "Mweka",
       ro: "Mweka",
-      en: "Mweka",
-image: "/poi-images/cd-mweka-cities-v2.webp"
-},
+      en: "Mweka"},
+    image: "/poi-images/cd-mweka-cities-v2.webp",
     description: {
       de: "Mweka ist eine wichtige Station an der Eisenbahnlinie zwischen Kananga und Ilebo und bekannt für ihre handwerklichen Traditionen.",
       hu: "Város és vasútállomás Kasaï tartományban, Kananga és Ilebo között.",
@@ -1839,9 +1751,8 @@ image: "/poi-images/cd-mweka-cities-v2.webp"
       de: "Kananga",
       hu: "Kananga",
       ro: "Kananga",
-      en: "Kananga",
-image: "/poi-images/cd-kananga-cities-v2.webp"
-},
+      en: "Kananga"},
+    image: "/poi-images/cd-kananga-cities-v2.webp",
     description: {
       de: "Kananga ist eine bedeutende Handelsstadt und die Hauptstadt der Provinz Kasaï-Central, die reich an kulturellem Erbe ist.",
       hu: "Kasaï-Central tartomány fővárosa, az ország egyik legjelentősebb belső városa.",
@@ -1876,9 +1787,8 @@ image: "/poi-images/cd-kananga-cities-v2.webp"
       de: "Tshimbulu",
       hu: "Tshimbulu",
       ro: "Tshimbulu",
-      en: "Tshimbulu",
-image: "/poi-images/cd-tshimbulu-cities-v2.webp"
-},
+      en: "Tshimbulu"},
+    image: "/poi-images/cd-tshimbulu-cities-v2.webp",
     description: {
       de: "Tshimbulu ist ein wichtiger Bahnknotenpunkt in der Provinz Kasaï-Central, der die Region mit den Bergbaugebieten im Süden verbindet.",
       hu: "Adminisztratív és kereskedelmi központ Kasaï-Central tartományban.",
@@ -1913,9 +1823,8 @@ image: "/poi-images/cd-tshimbulu-cities-v2.webp"
       de: "Demba",
       hu: "Demba",
       ro: "Demba",
-      en: "Demba",
-image: "/poi-images/cd-demba-cities-v2.webp"
-},
+      en: "Demba"},
+    image: "/poi-images/cd-demba-cities-v2.webp",
     description: {
       de: "Demba ist eine Kleinstadt an der Eisenbahnlinie, die für ihre landwirtschaftliche Produktion, insbesondere Mais und Maniok, bekannt ist.",
       hu: "Város és terület Kasaï-Central tartományban, Kanangától északnyugatra.",
@@ -1950,9 +1859,8 @@ image: "/poi-images/cd-demba-cities-v2.webp"
       de: "Mbuji-Mayi",
       hu: "Mbuji-Mayi",
       ro: "Mbuji-Mayi",
-      en: "Mbuji-Mayi",
-image: "/poi-images/cd-mbuji-mayi-cities-v2.webp"
-},
+      en: "Mbuji-Mayi"},
+    image: "/poi-images/cd-mbuji-mayi-cities-v2.webp",
     description: {
       de: "Mbuji-Mayi ist die Diamantenhauptstadt des Landes und eine der bevölkerungsreichsten Städte im Herzen der Demokratischen Republik Kongo.",
       hu: "Kasaï-Oriental tartomány fővárosa, az ország gyémántbányászatának fellegvára.",
@@ -1987,9 +1895,8 @@ image: "/poi-images/cd-mbuji-mayi-cities-v2.webp"
       de: "Tshilenge",
       hu: "Tshilenge",
       ro: "Tshilenge",
-      en: "Tshilenge",
-image: "/poi-images/cd-tshilenge-cities-v2.webp"
-},
+      en: "Tshilenge"},
+    image: "/poi-images/cd-tshilenge-cities-v2.webp",
     description: {
       de: "Tshilenge liegt in unmittelbarer Nähe von Mbuji-Mayi und ist ein wichtiges ländliches Zentrum für die Versorgung der Bergbauregion.",
       hu: "Kisebb bányászváros és adminisztratív központ Kasaï-Oriental tartományban.",
@@ -2024,9 +1931,8 @@ image: "/poi-images/cd-tshilenge-cities-v2.webp"
       de: "Kabinda",
       hu: "Kabinda",
       ro: "Kabinda",
-      en: "Kabinda",
-image: "/poi-images/cd-kabinda-cities-v2.webp"
-},
+      en: "Kabinda"},
+    image: "/poi-images/cd-kabinda-cities-v2.webp",
     description: {
       de: "Kabinda ist die Hauptstadt der Provinz Lomami und liegt auf einem Plateau, das für seine reiche Geschichte und Traditionen bekannt ist.",
       hu: "Lomami tartomány fővárosa, egy dombos vidéken elhelyezkedő település.",
@@ -2061,9 +1967,8 @@ image: "/poi-images/cd-kabinda-cities-v2.webp"
       de: "Mwene-Ditu",
       hu: "Mwene-Ditu",
       ro: "Mwene-Ditu",
-      en: "Mwene-Ditu",
-image: "/poi-images/cd-mwene-ditu-cities-v2.webp"
-},
+      en: "Mwene-Ditu"},
+    image: "/poi-images/cd-mwene-ditu-cities-v2.webp",
     description: {
       de: "Mwene-Ditu ist ein strategischer Eisenbahnknotenpunkt in der Provinz Lomami, der den Süden des Landes mit den Provinzen des Kasai verbindet.",
       hu: "Fontos vasúti és kereskedelmi város Lomami tartományban.",
@@ -2098,9 +2003,8 @@ image: "/poi-images/cd-mwene-ditu-cities-v2.webp"
       de: "Lusambo",
       hu: "Lusambo",
       ro: "Lusambo",
-      en: "Lusambo",
-image: "/poi-images/cd-lusambo-cities-v2.webp"
-},
+      en: "Lusambo"},
+    image: "/poi-images/cd-lusambo-cities-v2.webp",
     description: {
       de: "Lusambo ist die historische Hauptstadt der Provinz Sankuru und liegt am Ufer des schiffbaren Sankuru-Flusses.",
       hu: "Sankuru tartomány fővárosa a Sankuru-folyó partján.",
@@ -2135,9 +2039,8 @@ image: "/poi-images/cd-lusambo-cities-v2.webp"
       de: "Lodja",
       hu: "Lodja",
       ro: "Lodja",
-      en: "Lodja",
-image: "/poi-images/cd-lodja-cities-v2.webp"
-},
+      en: "Lodja"},
+    image: "/poi-images/cd-lodja-cities-v2.webp",
     description: {
       de: "Lodja ist das größte Wirtschaftszentrum der Provinz Sankuru und ein wichtiger Sammelpunkt für Reis, Kaffee und Baumwolle.",
       hu: "Sankuru tartomány legnagyobb városa és kereskedelmi központja.",
@@ -2172,9 +2075,8 @@ image: "/poi-images/cd-lodja-cities-v2.webp"
       de: "Kole",
       hu: "Kole",
       ro: "Kole",
-      en: "Kole",
-image: "/poi-images/cd-kole-cities-v2.webp"
-},
+      en: "Kole"},
+    image: "/poi-images/cd-kole-cities-v2.webp",
     description: {
       de: "Kole ist eine ländliche Stadt am Ufer des Lukenie-Flusses, die tief im Waldgebiet der Provinz Sankuru liegt.",
       hu: "Település és adminisztratív terület Sankuru tartományban, a Lukenie-folyó partján.",

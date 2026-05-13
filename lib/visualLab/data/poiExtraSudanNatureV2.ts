@@ -7,9 +7,8 @@ export const poiExtraSudanNatureV2: POI[] = [
     type: "river",
     parent: "SD-NR",
     coords: [33.3283, 15.6333],
-    name: { de: "Nil", hu: "Nílus", ro: "Nil", en: "Nile",
-image: "/poi-images/nile-river-sudan-nature-v2.webp"
-},
+    name: { de: "Nil", hu: "Nílus", ro: "Nil", en: "Nile"},
+    image: "/poi-images/nile-river-sudan-nature-v2.webp",
     description: {
       de: "Der längste Fluss der Welt, der Sudan durchquert.",
       hu: "A világ leghosszabb folyója, amely átszeli Szudánt.",
@@ -40,9 +39,8 @@ image: "/poi-images/nile-river-sudan-nature-v2.webp"
     type: "mountain",
     parent: "SD-RS",
     coords: [24.2667, 12.95],
-    name: { de: "Jebel Marra", hu: "Jebel Marra", ro: "Jebel Marra", en: "Jebel Marra",
-image: "/poi-images/jebel-marra-nature-v2.webp"
-},
+    name: { de: "Jebel Marra", hu: "Jebel Marra", ro: "Jebel Marra", en: "Jebel Marra"},
+    image: "/poi-images/jebel-marra-nature-v2.webp",
     description: {
       de: "Ein vulkanisches Bergmassiv im Westen des Sudans.",
       hu: "Vulkáni hegység Szudán nyugati részén.",
@@ -73,9 +71,8 @@ image: "/poi-images/jebel-marra-nature-v2.webp"
     type: "sea",
     parent: "SD-RS",
     coords: [37.2167, 19.5833],
-    name: { de: "Rotes Meer", hu: "Vörös-tenger", ro: "Marea Roșie", en: "Red Sea",
-image: "/poi-images/red-sea-coast-sudan-nature-v2.webp"
-},
+    name: { de: "Rotes Meer", hu: "Vörös-tenger", ro: "Marea Roșie", en: "Red Sea"},
+    image: "/poi-images/red-sea-coast-sudan-nature-v2.webp",
     description: {
       de: "Die Küste des Roten Meeres im Osten des Sudans.",
       hu: "A Vörös-tenger partvidéke Szudán keleti részén.",
@@ -106,9 +103,8 @@ image: "/poi-images/red-sea-coast-sudan-nature-v2.webp"
     type: "river",
     parent: "SD-SI",
     coords: [34.75, 12.8333],
-    name: { de: "Dinder", hu: "Dinder", ro: "Dinder", en: "Dinder",
-image: "/poi-images/dinder-river-nature-v2.webp"
-},
+    name: { de: "Dinder", hu: "Dinder", ro: "Dinder", en: "Dinder"},
+    image: "/poi-images/dinder-river-nature-v2.webp",
     description: {
       de: "Ein Nebenfluss des Blauen Nils im Osten des Sudans.",
       hu: "A Kék-Nílus mellékfolyója Szudán keleti részén.",
@@ -139,9 +135,8 @@ image: "/poi-images/dinder-river-nature-v2.webp"
     type: "river",
     parent: "SD-NR",
     coords: [33.98, 17.68],
-    name: { de: "Atbara", hu: "Atbara", ro: "Atbara", en: "Atbara",
-image: "/poi-images/atbara-river-nature-v2.webp"
-},
+    name: { de: "Atbara", hu: "Atbara", ro: "Atbara", en: "Atbara"},
+    image: "/poi-images/atbara-river-nature-v2.webp",
     description: {
       de: "Der letzte bedeutende Zufluss des Nils.",
       hu: "A Nílus utolsó jelentős mellékfolyója.",
@@ -172,9 +167,8 @@ image: "/poi-images/atbara-river-nature-v2.webp"
     type: "river",
     parent: "SD-NR",
     coords: [32.5333, 15.6],
-    name: { de: "Blauer Nil", hu: "Kék-Nílus", ro: "Nilul Albastru", en: "Blue Nile",
-image: "/poi-images/blue-nile-river-nature-v2.webp"
-},
+    name: { de: "Blauer Nil", hu: "Kék-Nílus", ro: "Nilul Albastru", en: "Blue Nile"},
+    image: "/poi-images/blue-nile-river-nature-v2.webp",
     description: {
       de: "Ein Hauptquellfluss des Nils, der durch den Sudan fließt.",
       hu: "A Nílus egyik fő forrásfolyója, amely átszeli Szudánt.",
@@ -205,9 +199,8 @@ image: "/poi-images/blue-nile-river-nature-v2.webp"
     type: "river",
     parent: "SD-NR",
     coords: [32.5333, 15.6],
-    name: { de: "Weißer Nil", hu: "Fehér-Nílus", ro: "Nilul Alb", en: "White Nile",
-image: "/poi-images/white-nile-river-nature-v2.webp"
-},
+    name: { de: "Weißer Nil", hu: "Fehér-Nílus", ro: "Nilul Alb", en: "White Nile"},
+    image: "/poi-images/white-nile-river-nature-v2.webp",
     description: {
       de: "Der längere Quellfluss des Nils, der den Sudan durchquert.",
       hu: "A Nílus hosszabb forrásfolyója, amely átszeli Szudánt.",
@@ -238,9 +231,8 @@ image: "/poi-images/white-nile-river-nature-v2.webp"
     type: "mountain",
     parent: "SD-RS",
     coords: [37.15, 18.75],
-    name: { de: "Erkowit", hu: "Erkowit", ro: "Erkowit", en: "Erkowit",
-image: "/poi-images/erkowit-mountains-nature-v2.webp"
-},
+    name: { de: "Erkowit", hu: "Erkowit", ro: "Erkowit", en: "Erkowit"},
+    image: "/poi-images/erkowit-mountains-nature-v2.webp",
     description: {
       de: "Ein Berggebiet im Osten, bekannt für sein kühleres Klima.",
       hu: "Hegyvidéki terület keleten, ismert hűvösebb klímájáról.",
@@ -271,9 +263,8 @@ image: "/poi-images/erkowit-mountains-nature-v2.webp"
     type: "mountain",
     parent: "SD-SK",
     coords: [30.5, 11.5],
-    name: { de: "Nuba-Berge", hu: "Nuba-hegység", ro: "Munții Nuba", en: "Nuba Mountains",
-image: "/poi-images/nuba-mountains-nature-v2.webp"
-},
+    name: { de: "Nuba-Berge", hu: "Nuba-hegység", ro: "Munții Nuba", en: "Nuba Mountains"},
+    image: "/poi-images/nuba-mountains-nature-v2.webp",
     description: {
       de: "Eine Hügelkette im zentralen Sudan.",
       hu: "Dombvidék Szudán központjában.",
@@ -304,9 +295,8 @@ image: "/poi-images/nuba-mountains-nature-v2.webp"
     type: "lake",
     parent: "SD-NR",
     coords: [32.6667, 13.1667],
-    name: { de: "Kosti-See", hu: "Kosti-tó", ro: "Lacul Kosti", en: "Kosti Lake",
-image: "/poi-images/kosti-lake-nature-v2.webp"
-},
+    name: { de: "Kosti-See", hu: "Kosti-tó", ro: "Lacul Kosti", en: "Kosti Lake"},
+    image: "/poi-images/kosti-lake-nature-v2.webp",
     description: {
       de: "Ein See am Weißen Nil in der Nähe von Kosti.",
       hu: "Tó a Fehér-Nílusnál, Kosti közelében.",
@@ -337,9 +327,8 @@ image: "/poi-images/kosti-lake-nature-v2.webp"
     type: "forest",
     parent: "SD-NR",
     coords: [33, 20],
-    name: { de: "Nubische Wüste", hu: "Núbiai-sivatag", ro: "Deșertul Nubian", en: "Nubian Desert",
-image: "/poi-images/nubian-desert-nature-v2.webp"
-},
+    name: { de: "Nubische Wüste", hu: "Núbiai-sivatag", ro: "Deșertul Nubian", en: "Nubian Desert"},
+    image: "/poi-images/nubian-desert-nature-v2.webp",
     description: {
       de: "Eine große Wüstenregion im Nordosten des Sudans.",
       hu: "Nagy sivatagi régió Szudán északkeleti részén.",
@@ -370,9 +359,8 @@ image: "/poi-images/nubian-desert-nature-v2.webp"
     type: "mountain",
     parent: "SD-RS",
     coords: [26.5, 15.3],
-    name: { de: "Meidob-Vulkanfeld", hu: "Meidob vulkáni mező", ro: "Câmpul vulcanic Meidob", en: "Meidob Volcanic Field",
-image: "/poi-images/meidob-volcanic-field-nature-v2.webp"
-},
+    name: { de: "Meidob-Vulkanfeld", hu: "Meidob vulkáni mező", ro: "Câmpul vulcanic Meidob", en: "Meidob Volcanic Field"},
+    image: "/poi-images/meidob-volcanic-field-nature-v2.webp",
     description: {
       de: "Ein vulkanisches Gebiet im Westen Sudans.",
       hu: "Vulkáni terület Szudán nyugati részén.",
@@ -403,9 +391,8 @@ image: "/poi-images/meidob-volcanic-field-nature-v2.webp"
     type: "river",
     parent: "SD-NR",
     coords: [31.3333, 21.8333],
-    name: { de: "Wadi-Halfa-Abschnitt", hu: "Wadi Halfa-szakasz", ro: "Sectorul Wadi Halfa", en: "Wadi Halfa Reach",
-image: "/poi-images/wade-halfa-reach-nature-v2.webp"
-},
+    name: { de: "Wadi-Halfa-Abschnitt", hu: "Wadi Halfa-szakasz", ro: "Sectorul Wadi Halfa", en: "Wadi Halfa Reach"},
+    image: "/poi-images/wade-halfa-reach-nature-v2.webp",
     description: {
       de: "Ein bedeutender Abschnitt des Nils bei Wadi Halfa.",
       hu: "A Nílus jelentős szakasza Wadi Halfa közelében.",
@@ -436,9 +423,8 @@ image: "/poi-images/wade-halfa-reach-nature-v2.webp"
     type: "river",
     parent: "SD-NR",
     coords: [30.4833, 19.1667],
-    name: { de: "Dongola-Abschnitt", hu: "Dongola-szakasz", ro: "Sectorul Dongola", en: "Dongola Reach",
-image: "/poi-images/dongola-reach-nature-v2.webp"
-},
+    name: { de: "Dongola-Abschnitt", hu: "Dongola-szakasz", ro: "Sectorul Dongola", en: "Dongola Reach"},
+    image: "/poi-images/dongola-reach-nature-v2.webp",
     description: {
       de: "Ein fruchtbarer Abschnitt des Nils bei Dongola.",
       hu: "A Nílus termékeny szakasza Dongola közelében.",
@@ -469,9 +455,8 @@ image: "/poi-images/dongola-reach-nature-v2.webp"
     type: "island",
     parent: "SD-NR",
     coords: [31, 18.5],
-    name: { de: "Sabargum-Insel", hu: "Sabargum-sziget", ro: "Insula Sabargum", en: "Sabargum Island",
-image: "/poi-images/sabargum-island-nature-v2.webp"
-},
+    name: { de: "Sabargum-Insel", hu: "Sabargum-sziget", ro: "Insula Sabargum", en: "Sabargum Island"},
+    image: "/poi-images/sabargum-island-nature-v2.webp",
     description: {
       de: "Eine Insel im Nil nahe Dongola.",
       hu: "Sziget a Níluson, Dongola közelében.",
@@ -502,9 +487,8 @@ image: "/poi-images/sabargum-island-nature-v2.webp"
     type: "island",
     parent: "SD-NR",
     coords: [32.5333, 15.6167],
-    name: { de: "Tuti-Insel", hu: "Tuti-sziget", ro: "Insula Tuti", en: "Tuti Island",
-image: "/poi-images/tuti-island-nature-v2.webp"
-},
+    name: { de: "Tuti-Insel", hu: "Tuti-sziget", ro: "Insula Tuti", en: "Tuti Island"},
+    image: "/poi-images/tuti-island-nature-v2.webp",
     description: {
       de: "Eine Insel am Zusammenfluss von Weißem und Blauem Nil in Khartum.",
       hu: "Sziget a Fehér- és Kék-Nílus összefolyásánál, Kartúmban.",
@@ -535,9 +519,8 @@ image: "/poi-images/tuti-island-nature-v2.webp"
     type: "river",
     parent: "SD-NR",
     coords: [33.4333, 16.6833],
-    name: { de: "Shendi-Abschnitt", hu: "Shendi-szakasz", ro: "Sectorul Shendi", en: "Shendi Reach",
-image: "/poi-images/shendi-reach-nature-v2.webp"
-},
+    name: { de: "Shendi-Abschnitt", hu: "Shendi-szakasz", ro: "Sectorul Shendi", en: "Shendi Reach"},
+    image: "/poi-images/shendi-reach-nature-v2.webp",
     description: {
       de: "Ein Nilabschnitt bei Shendi.",
       hu: "Nílus-szakasz Shendi mellett.",
@@ -568,9 +551,8 @@ image: "/poi-images/shendi-reach-nature-v2.webp"
     type: "mountain",
     parent: "SD-NR",
     coords: [32.9, 16.3],
-    name: { de: "Sabaloka-Schlucht", hu: "Sabaloka-szurdok", ro: "Cheile Sabaloka", en: "Sabaloka Gorge",
-image: "/poi-images/sabaloka-gorge-nature-v2.webp"
-},
+    name: { de: "Sabaloka-Schlucht", hu: "Sabaloka-szurdok", ro: "Cheile Sabaloka", en: "Sabaloka Gorge"},
+    image: "/poi-images/sabaloka-gorge-nature-v2.webp",
     description: {
       de: "Eine beeindruckende Schlucht am Nil nördlich von Khartum.",
       hu: "Lenyűgöző szurdok a Níluson, Kartúmtól északra.",
@@ -601,9 +583,8 @@ image: "/poi-images/sabaloka-gorge-nature-v2.webp"
     type: "mountain",
     parent: "SD-NR",
     coords: [31.8333, 18.5333],
-    name: { de: "Jebel Barkal", hu: "Jebel Barkal", ro: "Jebel Barkal", en: "Jebel Barkal",
-image: "/poi-images/jebel-barkal-nature-v2.webp"
-},
+    name: { de: "Jebel Barkal", hu: "Jebel Barkal", ro: "Jebel Barkal", en: "Jebel Barkal"},
+    image: "/poi-images/jebel-barkal-nature-v2.webp",
     description: {
       de: "Ein kleiner Berg am Nil, der eine historische Bedeutung hat.",
       hu: "Kis hegy a Nílus mellett, történelmi jelentőséggel.",
@@ -634,9 +615,8 @@ image: "/poi-images/jebel-barkal-nature-v2.webp"
     type: "river",
     parent: "SD-RS",
     coords: [25, 17.5],
-    name: { de: "Wadi Howar", hu: "Wadi Howar", ro: "Wadi Howar", en: "Wadi Howar",
-image: "/poi-images/wadi-howar-nature-v2.webp"
-},
+    name: { de: "Wadi Howar", hu: "Wadi Howar", ro: "Wadi Howar", en: "Wadi Howar"},
+    image: "/poi-images/wadi-howar-nature-v2.webp",
     description: {
       de: "Ein altes, ausgetrocknetes Flusstal in der Sahara.",
       hu: "Régi, kiszáradt folyóvölgy a Szaharában.",
@@ -667,9 +647,8 @@ image: "/poi-images/wadi-howar-nature-v2.webp"
     type: "mountain",
     parent: "SD-SK",
     coords: [30.7, 12.4],
-    name: { de: "Jebel Dair", hu: "Jebel Dair", ro: "Jebel Dair", en: "Jebel Dair",
-image: "/poi-images/jebel-dair-nature-v2.webp"
-},
+    name: { de: "Jebel Dair", hu: "Jebel Dair", ro: "Jebel Dair", en: "Jebel Dair"},
+    image: "/poi-images/jebel-dair-nature-v2.webp",
     description: {
       de: "Ein isolierter Bergmassiv in den Nuba-Bergen.",
       hu: "Elszigetelt hegytömb a Nuba-hegységben.",
@@ -700,9 +679,8 @@ image: "/poi-images/jebel-dair-nature-v2.webp"
     type: "river",
     parent: "SD-SK",
     coords: [31.5, 10.5],
-    name: { de: "Khor Attar", hu: "Khor Attar", ro: "Khor Attar", en: "Khor Attar",
-image: "/poi-images/khor-attar-nature-v2.webp"
-},
+    name: { de: "Khor Attar", hu: "Khor Attar", ro: "Khor Attar", en: "Khor Attar"},
+    image: "/poi-images/khor-attar-nature-v2.webp",
     description: {
       de: "Ein saisonaler Wasserlauf im südlichen Sudan.",
       hu: "Időszakos vízfolyás Dél-Szudánban.",
@@ -733,9 +711,8 @@ image: "/poi-images/khor-attar-nature-v2.webp"
     type: "mountain",
     parent: "SD-NO",
     coords: [24.9, 21.9],
-    name: { de: "Jebel Uwaynat", hu: "Jebel Uwaynat", ro: "Jebel Uwaynat", en: "Jebel Uwaynat",
-image: "/poi-images/jebel-uwaynat-nature-v2.webp"
-},
+    name: { de: "Jebel Uwaynat", hu: "Jebel Uwaynat", ro: "Jebel Uwaynat", en: "Jebel Uwaynat"},
+    image: "/poi-images/jebel-uwaynat-nature-v2.webp",
     description: {
       de: "Ein Bergmassiv im Grenzgebiet zwischen Sudan, Ägypten und Libyen.",
       hu: "Hegytömb a Szudán, Egyiptom és Líbia határvidékén.",
@@ -766,9 +743,8 @@ image: "/poi-images/jebel-uwaynat-nature-v2.webp"
     type: "mountain",
     parent: "SD-NR",
     coords: [32.3, 18.5],
-    name: { de: "4. Nil-Katarakt", hu: "4. Nílus-katarakta", ro: "Cataracta a 4-a a Nilului", en: "4th Nile Cataract",
-image: "/poi-images/nile-cataract-4-nature-v2.webp"
-},
+    name: { de: "4. Nil-Katarakt", hu: "4. Nílus-katarakta", ro: "Cataracta a 4-a a Nilului", en: "4th Nile Cataract"},
+    image: "/poi-images/nile-cataract-4-nature-v2.webp",
     description: {
       de: "Ein Abschnitt mit Stromschnellen im Nil.",
       hu: "Zúgós szakasz a Níluson.",
@@ -799,9 +775,8 @@ image: "/poi-images/nile-cataract-4-nature-v2.webp"
     type: "mountain",
     parent: "SD-NR",
     coords: [33.5, 18.2],
-    name: { de: "5. Nil-Katarakt", hu: "5. Nílus-katarakta", ro: "Cataracta a 5-a a Nilului", en: "5th Nile Cataract",
-image: "/poi-images/nile-cataract-5-nature-v2.webp"
-},
+    name: { de: "5. Nil-Katarakt", hu: "5. Nílus-katarakta", ro: "Cataracta a 5-a a Nilului", en: "5th Nile Cataract"},
+    image: "/poi-images/nile-cataract-5-nature-v2.webp",
     description: {
       de: "Ein weiterer Abschnitt mit Stromschnellen im Nil.",
       hu: "Egy másik zúgós szakasz a Níluson.",
@@ -832,9 +807,8 @@ image: "/poi-images/nile-cataract-5-nature-v2.webp"
     type: "mountain",
     parent: "SD-NR",
     coords: [33, 16.3],
-    name: { de: "6. Nil-Katarakt", hu: "6. Nílus-katarakta", ro: "Cataracta a 6-a a Nilului", en: "6th Nile Cataract",
-image: "/poi-images/nile-cataract-6-nature-v2.webp"
-},
+    name: { de: "6. Nil-Katarakt", hu: "6. Nílus-katarakta", ro: "Cataracta a 6-a a Nilului", en: "6th Nile Cataract"},
+    image: "/poi-images/nile-cataract-6-nature-v2.webp",
     description: {
       de: "Die nördlichste der großen Nil-Katarakte.",
       hu: "A legészakibb a nagy Nílus-katarakták közül.",
@@ -865,9 +839,8 @@ image: "/poi-images/nile-cataract-6-nature-v2.webp"
     type: "lake",
     parent: "SD-RS",
     coords: [24.27, 12.95],
-    name: { de: "Jebel-Marra-Krater", hu: "Jebel Marra-kráter", ro: "Craterul Jebel Marra", en: "Jebel Marra Crater",
-image: "/poi-images/jebel-marra-crater-nature-v2.webp"
-},
+    name: { de: "Jebel-Marra-Krater", hu: "Jebel Marra-kráter", ro: "Craterul Jebel Marra", en: "Jebel Marra Crater"},
+    image: "/poi-images/jebel-marra-crater-nature-v2.webp",
     description: {
       de: "Ein vulkanischer Kratersee im Jebel-Marra-Massiv.",
       hu: "Vulkáni krátertó a Jebel Marra-hegységben.",
@@ -898,9 +871,8 @@ image: "/poi-images/jebel-marra-crater-nature-v2.webp"
     type: "river",
     parent: "SD-KS",
     coords: [36.4, 15.4],
-    name: { de: "Khor el-Gash", hu: "Khor el-Gash", ro: "Khor el-Gash", en: "Khor el-Gash",
-image: "/poi-images/khor-el-gash-nature-v2.webp"
-},
+    name: { de: "Khor el-Gash", hu: "Khor el-Gash", ro: "Khor el-Gash", en: "Khor el-Gash"},
+    image: "/poi-images/khor-el-gash-nature-v2.webp",
     description: {
       de: "Ein saisonaler Fluss, der bei Kassala fließt.",
       hu: "Időszakos folyó Kassala mellett.",
@@ -931,9 +903,8 @@ image: "/poi-images/khor-el-gash-nature-v2.webp"
     type: "river",
     parent: "SD-RS",
     coords: [23.5, 12.8],
-    name: { de: "Wadi Azum", hu: "Wadi Azum", ro: "Wadi Azum", en: "Wadi Azum",
-image: "/poi-images/wadi-azum-nature-v2.webp"
-},
+    name: { de: "Wadi Azum", hu: "Wadi Azum", ro: "Wadi Azum", en: "Wadi Azum"},
+    image: "/poi-images/wadi-azum-nature-v2.webp",
     description: {
       de: "Ein wichtiges Wadi (Flusstal) in Darfur.",
       hu: "Fontos vadi (folyóvölgy) Darfurban.",
@@ -964,9 +935,8 @@ image: "/poi-images/wadi-azum-nature-v2.webp"
     type: "mountain",
     parent: "SD-RS",
     coords: [25.5, 13.5],
-    name: { de: "Jebel Mimi", hu: "Jebel Mimi", ro: "Jebel Mimi", en: "Jebel Mimi",
-image: "/poi-images/jebel-mimi-nature-v2.webp"
-},
+    name: { de: "Jebel Mimi", hu: "Jebel Mimi", ro: "Jebel Mimi", en: "Jebel Mimi"},
+    image: "/poi-images/jebel-mimi-nature-v2.webp",
     description: {
       de: "Ein Berg in der Region Darfur.",
       hu: "Hegy Darfur régióban.",

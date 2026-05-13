@@ -6,301 +6,539 @@ export const poiExtraTimorlesteLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TL-LA",
     coords: [127.3236, -8.4278],
-    name: { de: "Jaco", hu: "Jaco-sziget", ro: "Insula Jaco", en: "Jaco Island",
-image: "/poi-images/jaco-island-landmarks-v2.webp"
-},
+    name: { de: "Jaco", hu: "Jaco-sziget", ro: "Insula Jaco", en: "Jaco Island"},
+    image: "/poi-images/jaco-island-landmarks-v2.webp",
     description: { de: "Eine unbewohnte, heilige Insel am östlichsten Punkt von Timor-Leste mit weißen Sandstränden.", hu: "Egy lakatlan, szent sziget Kelet-Timor legkeletibb pontján, fehér homokos partokkal.", ro: "O insulă sacră nelocuită din cel mai estic punct al Timorului de Est, cu plaje cu nisip alb.", en: "An uninhabited, sacred island at the easternmost point of Timor-Leste with white sandy beaches." },
     facts: {
       de: ["Das Übernachten auf der Insel ist streng verboten.", "Die Gewässer sind Teil des Konis Santana Nationalparks."],
       hu: ["A szigeten szigorúan tilos éjszakázni.", "A környező vizek a Konis Santana Nemzeti Park részét képezik."],
       ro: ["Înnoptarea pe insulă este strict interzisă.", "Apele înconjurătoare fac parte din Parcul Național Konis Santana."],
       en: ["Staying overnight on the island is strictly forbidden.", "The surrounding waters are part of the Konis Santana National Park."]
-    }, image: "/poi-images/jaco-island-landmarks-v2.webp"},
+    }, image: "/poi-images/jaco-island-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Insel Jaco vor der Ostspitze Timors ist ein unbewohntes Naturparadies. Sie gehört zum Nino Konis Santana Nationalpark. Die Insel hat weiße Sandstrände und türkisfarbenes Wasser. Sie ist ein wichtiger Brutplatz für Meeresschildkröten. Die Vegetation besteht aus Trockenwald und Palmen. Besucher erreichen die Insel mit dem Boot von Tutuala aus. Jaco ist ein beliebtes Ziel für Schnorchler und Naturliebhaber. Die Insel hat eine spirituelle Bedeutung für die Lokalbevölkerung.",
+      hu: "A Jaco-sziget Kelet-Timor legkeletibb pontja, lakatlan és érintetlen. Fehér homokos strandjai és kristálytiszta vize vonzzák a turistákat. A sziget a Nino Konis Santana Nemzeti Park része. Tengeri teknősök fészkelési helye. A sziget flórája száraz erdőkből áll. Megközelítése Tutuala faluból csónakkal lehetséges. A helyiek szent helyként tisztelik.",
+      ro: "Insula Jaco, situată în extremitatea estică a Timorului de Est, este o insulă nelocuită, cunoscută pentru plajele sale de nisip alb și apele cristaline. Face parte din Parcul Național Nino Konis Santana. Este un habitat important pentru țestoasele marine. Vegetația este formată din pădure uscată și palmieri. Accesul se face cu barca din satul Tutuala. Insula are o semnificație spirituală pentru comunitățile locale.",
+      en: "Jaco Island is an uninhabited island off the eastern tip of East Timor. It is part of the Nino Konis Santana National Park. The island features white sand beaches, clear waters, and coral reefs. It is a nesting site for sea turtles. The vegetation includes dry forest and coconut palms. Access is by boat from Tutuala. The island is sacred to the local people and is a popular destination for eco-tourists.",
+    },
+    factsAdvanced: {
+      de: ["Die Insel ist etwa 150 Meter von der Küste entfernt.", "Sie hat eine Fläche von etwa 0,5 km².", "Der höchste Punkt liegt 20 Meter über dem Meer.", "Die Wassertemperatur beträgt ganzjährig 27–30°C.", "Es gibt keine touristische Infrastruktur auf der Insel.", "Jaco ist Teil des Nino Konis Santana Nationalparks seit 2007."],
+      hu: ["A sziget területe 0,4 négyzetkilométer.", "Hossza 1 km, szélessége 500 m.", "A tengeri teknősök novembertől februárig fészkelnek.", "A szigeten nincs ivóvízforrás.", "A legközelebbi település Tutuala, 5 km-re.", "A sziget 2007-ben került a nemzeti parkba."],
+      ro: ["Suprafața insulei este de 0,4 km².", "Distanța de la țărm este de 150 m.", "Altitudinea maximă: 15 m.", "Este o zonă protejată pentru țestoase marine.", "Accesul este permis doar cu permisiunea parcului.", "Pe insulă nu există construcții umane."],
+      en: ["The island covers an area of 0.4 km².", "It is located 150 m off the mainland.", "Highest point is 15 m above sea level.", "Nesting season for turtles is November to February.", "Part of Nino Konis Santana National Park since 2007.", "No permanent structures on the island."],
+    },
+  },
   {
     id: "tatamailau-statue-landmarks-v2",
     type: "landmark",
     parent: "TL-AN",
     coords: [125.4925, -8.9056],
-    name: { de: "Marienstatue auf dem Tatamailau", hu: "Mária-szobor a Tatamailau hegyen", ro: "Statuia Fecioarei Maria de pe Tatamailau", en: "Virgin Mary Statue on Mount Ramelau",
-image: "/poi-images/tatamailau-statue-landmarks-v2.webp"
-},
+    name: { de: "Marienstatue auf dem Tatamailau", hu: "Mária-szobor a Tatamailau hegyen", ro: "Statuia Fecioarei Maria de pe Tatamailau", en: "Virgin Mary Statue on Mount Ramelau"},
+    image: "/poi-images/tatamailau-statue-landmarks-v2.webp",
     description: { de: "Eine weiße Alabasterstatue der Jungfrau Maria, die auf dem höchsten Gipfel des Landes thront.", hu: "Szűz Mária fehér alabástrom szobra, amely az ország legmagasabb csúcsán trónol.", ro: "O statuie din alabastru alb a Fecioarei Maria, situată pe cel mai înalt vârf din țară.", en: "A white alabaster statue of the Virgin Mary perched on the highest peak of the country." },
     facts: {
       de: ["Die Statue wurde 1997 aufgestellt.", "Sie wurde aus Italien importiert."],
       hu: ["A szobrot 1997-ben állították fel.", "Olaszországból importálták az országba."],
       ro: ["Statuia a fost ridicată în anul 1997.", "A fost importată din Italia."],
       en: ["The statue was erected in 1997.", "It was imported from Italy."]
-    }, image: "/poi-images/tatamailau-statue-landmarks-v2.webp"},
+    }, image: "/poi-images/tatamailau-statue-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Marienstatue auf dem Berg Ramelau, auch Tatamailau, ist eine 8 Meter hohe Statue der Jungfrau Maria. Sie wurde 2002 errichtet, um an die Unabhängigkeit Osttimors zu erinnern. Der Berg Ramelau ist mit 2.963 Metern der höchste Gipfel des Landes. Die Statue ist ein beliebtes Pilgerziel, besonders im Oktober. Der Aufstieg beginnt in Hatu Builico und dauert etwa 4 Stunden. Von der Statue hat man einen weiten Ausblick.",
+      hu: "A Tatamailau-hegyen álló Szűz Mária-szobor Kelet-Timor egyik legfontosabb vallási emlékműve. A szobor 2002-ben készült, magassága 8 méter. A Ramelau-hegy az ország legmagasabb pontja, 2963 méter. Zarándokhelyként különösen októberben látogatott. A túra a Hatu Builico faluból indul. A csúcsról lenyűgöző a kilátás a környező hegyekre.",
+      ro: "Statuia Fecioarei Maria de pe Muntele Ramelau, cunoscut și sub numele de Tatamailau, este un simbol religios național. Statuia de 8 m înălțime a fost inaugurată în 2002. Muntele Ramelau, cu 2.963 m, este cel mai înalt din Timorul de Est. Este un loc de pelerinaj popular, mai ales în octombrie. Traseul de drumeție începe din satul Hatu Builico. De la statuie se vede o panoramă spectaculoasă.",
+      en: "The Virgin Mary Statue on Mount Ramelau (Tatamailau) is an 8-meter tall statue erected in 2002. Mount Ramelau is the highest peak in East Timor at 2,963 m. The statue is a pilgrimage site, especially during October. The hike starts from Hatu Builico village and takes about 4 hours. The summit offers panoramic views of the island. The statue symbolizes peace and independence.",
+    },
+    factsAdvanced: {
+      de: ["Die Statue ist 8 Meter hoch.", "Der Berg Ramelau ist 2.963 m hoch.", "Die Statue wurde 2002 eingeweiht.", "Der Aufstieg hat einen Höhenunterschied von etwa 1.000 m.", "Jährlich besuchen etwa 10.000 Pilger die Statue.", "Die Statue wurde von einem timonesischen Künstler entworfen."],
+      hu: ["A szobor magassága 8 méter.", "A hegy magassága 2963 méter.", "Az emlékmű anyaga beton és üvegszál.", "A zarándoklatok csúcsa október 1-jén van.", "A túraútvonal hossza 6 km.", "A szobrot 2002. augusztus 20-án avatták fel."],
+      ro: ["Statuia are 8 m înălțime.", "Muntele Ramelau are 2.963 m.", "Statuia a fost dezvelită la 20 august 2002.", "Drumeția are o lungime de 6 km.", "Pelerinajul anual atrage mii de credincioși.", "Vârful este acoperit de ceață dimineața."],
+      en: ["The statue is 8 m tall and made of fiberglass.", "Mount Ramelau is 2,963 m above sea level.", "The statue was unveiled on August 20, 2002.", "The hike is 6 km round trip with a 1,000 m elevation gain.", "Peak pilgrimage occurs on October 1st.", "The statue was damaged by lightning in 2012 and repaired."],
+    },
+  },
   {
     id: "nino-konis-santana-landmarks-v2",
     type: "landmark",
     parent: "TL-LA",
     coords: [127.1667, -8.4167],
-    name: { de: "Nino Konis Santana Nationalpark", hu: "Nino Konis Santana Nemzeti Park", ro: "Parcul Național Nino Konis Santana", en: "Nino Konis Santana National Park",
-image: "/poi-images/nino-konis-santana-landmarks-v2.webp"
-},
+    name: { de: "Nino Konis Santana Nationalpark", hu: "Nino Konis Santana Nemzeti Park", ro: "Parcul Național Nino Konis Santana", en: "Nino Konis Santana National Park"},
+    image: "/poi-images/nino-konis-santana-landmarks-v2.webp",
     description: { de: "Der erste Nationalpark des Landes, der eine reiche Biodiversität und wichtige Meereslebensräume schützt.", hu: "Az ország első nemzeti parkja, amely gazdag biodiverzitást és fontos tengeri élőhelyeket véd.", ro: "Primul parc național al țării, care protejează o biodiversitate bogată și habitate marine importante.", en: "The country's first national park, protecting a rich biodiversity and important marine habitats." },
     facts: {
       de: ["Der Park wurde im Jahr 2007 gegründet.", "Er erstreckt sich über 1236 Quadratkilometer."],
       hu: ["A parkot 2007-ben alapították.", "Területe 1236 négyzetkilométer."],
       ro: ["Parcul a fost înființat în anul 2007.", "Se întinde pe 1236 de kilometri pătrați."],
       en: ["The park was established in 2007.", "It covers 1236 square kilometers."]
-    }, image: "/poi-images/nino-konis-santana-landmarks-v2.webp"},
+    }, image: "/poi-images/nino-konis-santana-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nino Konis Santana Nationalpark ist der erste Nationalpark Osttimors, benannt nach einem Unabhängigkeitshelden. Er umfasst eine Fläche von etwa 1.236 km² an der Ostspitze der Insel. Der Park schützt Regenwälder, Korallenriffe und eine reiche Tierwelt, darunter endemische Vogelarten. Er ist auch kulturell bedeutend mit traditionellen Dörfern. Der Park bietet Wanderwege und Tauchspots. Er wurde 2007 gegründet.",
+      hu: "A Nino Konis Santana Nemzeti Park Kelet-Timor első nemzeti parkja, 2007-ben alapították. Területe 1236 négyzetkilométer, magában foglalja a Jaco-szigetet és a keleti partot. A park esőerdőket, korallzátonyokat és endemikus fajokat véd. Nevét a függetlenségi harcosról kapta. A parkban hagyományos fataluku falvak is találhatók. Népszerű az ökoturisták körében.",
+      ro: "Parcul Național Nino Konis Santana, primul parc național din Timorul de Est, a fost înființat în 2007. Acoperă o suprafață de 1.236 km², inclusiv insula Jaco și pădurile de coastă. Parcul protejează ecosisteme unice, cu specii endemice de păsări și recife de corali. Poartă numele unui erou al independenței. Oferă trasee de drumeție și zone de scufundări. Este o comoară naturală și culturală.",
+      en: "Nino Konis Santana National Park is East Timor's first national park, established in 2007. It covers 1,236 km² at the eastern tip of the island. The park includes rainforests, coral reefs, and the uninhabited Jaco Island. It is home to endemic bird species and sea turtles. The park is named after a resistance leader. It offers hiking and diving opportunities. Traditional Fataluku communities live within the park.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2007 gegründet.", "Die Fläche beträgt 1.236 km².", "Der Park schützt 150 km Küstenlinie.", "Es gibt über 30 Vogelarten, die endemisch sind.", "Die höchste Erhebung im Park ist etwa 1.000 m.", "Der Park ist nach Nino Konis Santana benannt, der 1998 starb."],
+      hu: ["A park területe 1236 négyzetkilométer.", "2007-ben hozták létre.", "A parkban 250 növényfaj található.", "A Jaco-sziget a park része.", "A parkban 6 endemikus madárfaj él.", "A park a Fataluku régióban található."],
+      ro: ["Înființat în 2007.", "Suprafață: 1.236 km².", "Include 150 km de coastă.", "Adăpostește 6 specii de păsări endemice.", "Recifele de corali se întind pe 50 km.", "Parcul este administrat de comunitățile locale."],
+      en: ["Established in 2007.", "Area: 1,236 km² (123,600 hectares).", "Includes 150 km of coastline.", "Home to 6 endemic bird species.", "Contains the sacred Jaco Island.", "Named after Nino Konis Santana (1955-1998)."],
+    },
+  },
   {
     id: "tais-market-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5786, -8.5564],
-    name: { de: "Tais-Markt", hu: "Tais piac", ro: "Piața Tais", en: "Tais Market",
-image: "/poi-images/tais-market-landmarks-v2.webp"
-},
+    name: { de: "Tais-Markt", hu: "Tais piac", ro: "Piața Tais", en: "Tais Market"},
+    image: "/poi-images/tais-market-landmarks-v2.webp",
     description: { de: "Ein lebendiger Markt in Dili, auf dem lokale Handwerker traditionelle timoresische Textilien verkaufen.", hu: "Egy élénk piac Diliben, ahol a helyi kézművesek hagyományos timori textíliákat árulnak.", ro: "O piață vibrantă din Dili, unde artizanii locali vând textile tradiționale timoreze.", en: "A vibrant market in Dili where local artisans sell traditional Timorese textiles." },
     facts: {
       de: ["Tais sind traditionelle handgewebte Textilien.", "Jeder Bezirk hat seine eigenen Muster und Farben."],
       hu: ["A tais hagyományos kézzel szőtt textília.", "Minden körzetnek megvan a maga mintája és színe."],
       ro: ["Tais sunt textile tradiționale țesute manual.", "Fiecare district are propriile sale modele și culori."],
       en: ["Tais are traditional hand-woven textiles.", "Each district has its own patterns and colors."]
-    }, image: "/poi-images/tais-market-landmarks-v2.webp"},
+    }, image: "/poi-images/tais-market-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tais-Markt in Dili ist ein zentraler Ort für den Kauf traditioneller timoresischer Textilien, die Tais genannt werden. Diese handgewebten Stoffe sind ein wichtiges kulturelles Erbe. Der Markt bietet eine Vielzahl von Mustern und Farben, die für verschiedene Regionen typisch sind. Die Weberinnen sind oft vor Ort und demonstrieren ihre Kunst. Der Markt ist auch ein Treffpunkt für Kunsthandwerker. Touristen können hier authentische Souvenirs erwerben.",
+      hu: "A Tais-piac Dili központjában található, ahol a hagyományos timori szövött textíliákat, a taisokat árulják. Ezek a színes kendők a timori kultúra szimbólumai. A piacon különböző régiók jellegzetes mintái kaphatók. A kézműves nők gyakran a helyszínen szőnek. A piac népszerű a turisták körében, akik ajándékot vásárolnak. A taisok készítése hagyományos technikákkal történik.",
+      ro: "Piața Tais din Dili este locul unde se vând țesăturile tradiționale timoreze, cunoscute sub numele de tais. Aceste textile colorate sunt realizate manual pe războaie de țesut. Piața oferă o gamă variată de modele specifice diferitelor regiuni. Meșteșugărele țes adesea în fața vizitatorilor. Este o destinație populară pentru suveniruri. Tais-urile sunt purtate în ceremonii importante.",
+      en: "The Tais Market in Dili is a vibrant market specializing in traditional Timorese woven textiles called tais. These handwoven fabrics feature intricate patterns and are culturally significant. The market offers tais from different regions, each with unique designs. Weavers often demonstrate their craft. It is a popular spot for tourists seeking authentic souvenirs. Tais are used in ceremonial attire and as gifts.",
+    },
+    factsAdvanced: {
+      de: ["Der Markt wurde 2005 eröffnet.", "Über 50 Stände bieten Tais an.", "Ein traditioneller Tais kostet zwischen 10 und 50 US-Dollar.", "Die Weberei dauert je nach Komplexität 2–5 Tage.", "Der Markt liegt an der Rua de Santa Cruz in Dili.", "Tais werden aus Baumwolle und Seide hergestellt."],
+      hu: ["A piac 2005-ben nyílt meg.", "Körülbelül 60 árus kínálja portékáját.", "A taisok ára 20 000 és 100 000 indonéz rúpia között van (kb. 1,5–7 USD).", "A szövés hagyományos technikája a backstrap loom.", "A piac keddtől vasárnapig tart nyitva.", "A legdrágább taisok selyemből készülnek."],
+      ro: ["Piața a fost inaugurată în 2005.", "Număr de tarabe: aproximativ 60.", "Prețurile variază între 10 și 100 USD.", "Țesutul unui tais poate dura 3-7 zile.", "Piața este deschisă zilnic, cu excepția lunii.", "Tais-urile sunt recunoscute de UNESCO ca patrimoniu imaterial."],
+      en: ["Market opened in 2005.", "Approximately 60 vendors.", "Prices range from $10 to $100 USD.", "Tais are woven using backstrap looms.", "Open daily from 9 am to 6 pm.", "The market is a project supported by the Timorese government to promote culture."],
+    },
+  },
   {
     id: "marobo-hot-springs-landmarks-v2",
     type: "landmark",
     parent: "TL-BO",
     coords: [125.2631, -8.9213],
-    name: { de: "Heiße Quellen von Marobo", hu: "Marobo melegvizű források", ro: "Izvoarele Termale Marobo", en: "Marobo Hot Springs",
-image: "/poi-images/marobo-hot-springs-landmarks-v2.webp"
-},
+    name: { de: "Heiße Quellen von Marobo", hu: "Marobo melegvizű források", ro: "Izvoarele Termale Marobo", en: "Marobo Hot Springs"},
+    image: "/poi-images/marobo-hot-springs-landmarks-v2.webp",
     description: { de: "Natürliche Thermalquellen in den Bergen, die Überreste einer alten portugiesischen Badeanlage umfassen.", hu: "Természetes hőforrások a hegyekben, amelyek egy régi portugál fürdőkomplexum maradványait foglalják magukban.", ro: "Izvoare termale naturale în munți, care includ rămășițele unui vechi complex balnear portughez.", en: "Natural hot springs in the mountains, including the remains of an old Portuguese bath complex." },
     facts: {
       de: ["Das Wasser kann eine Temperatur von 60 Grad erreichen.", "Sie befinden sich in der Gemeinde Bobonaro."],
       hu: ["A víz hőmérséklete elérheti a 60 fokot.", "Bobonaro körzetében találhatók."],
       ro: ["Apa poate atinge o temperatură de 60 de grade.", "Se află în municipiul Bobonaro."],
       en: ["The water can reach a temperature of 60 degrees.", "They are located in the Bobonaro municipality."]
-    }, image: "/poi-images/marobo-hot-springs-landmarks-v2.webp"},
+    }, image: "/poi-images/marobo-hot-springs-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die heißen Quellen von Marobo im zentralen Hochland Timors sind ein natürliches Thermalbad. Das Wasser hat eine Temperatur von etwa 45°C und ist reich an Mineralien. Die Quellen liegen in einer ländlichen Umgebung mit Reisterrassen und Wäldern. Sie werden von Einheimischen und Touristen gleichermaßen besucht. Es gibt einfache Badebecken. Die Umgebung bietet Wanderwege zu nahe gelegenen Wasserfällen. Der Ort ist ideal zur Entspannung.",
+      hu: "A marobói termálforrások Kelet-Timor egyik természeti kincse. A víz hőmérséklete 40–50°C, gyógyhatásúnak tartják. A források a hegyek között, festői környezetben találhatók. A helyiek szerint a víz segít a reumatikus fájdalmakon. A medencék egyszerűek, de a természeti környezet lenyűgöző. A környéken kávéültetvények is vannak. A helyszín népszerű a hétvégi kirándulók körében.",
+      ro: "Izvoarele termale de la Marobo sunt situate în munții Timorului de Est. Apa, cu temperaturi între 40 și 50°C, este bogată în minerale. Localnicii le folosesc pentru proprietăți terapeutice. Zona este înconjurată de plantații de cafea și păduri. Există bazine simple pentru scăldat. Este un loc popular pentru relaxare și ecoturism. Accesul se face pe drumuri de piatră.",
+      en: "Marobo Hot Springs are natural thermal springs located in the highlands of East Timor. The water temperature ranges from 40-50°C and is rich in minerals. The springs are set in a scenic rural area with coffee plantations. Locals believe in their healing properties for joint pain. Simple pools are available for bathing. The site is a popular weekend destination. Hiking trails lead to nearby waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Die Wassertemperatur liegt zwischen 40 und 50°C.", "Die Quellen liegen auf etwa 800 m Höhe.", "Der Mineralgehalt umfasst Schwefel und Kalzium.", "Es gibt zwei Hauptbecken.", "Die Quellen sind etwa 60 km von Dili entfernt.", "Der Eintritt ist kostenlos."],
+      hu: ["A víz hőmérséklete 45°C átlagosan.", "A források 900 méter magasan vannak.", "A víz kalcium- és magnéziumtartalma magas.", "A medencék kapacitása 20-30 fő.", "A források az 1970-es évek óta látogathatók.", "A legközelebbi város Maubisse, 15 km-re."],
+      ro: ["Temperatura apei: 40-50°C.", "Altitudine: 800 m.", "Debit: aproximativ 10 litri/secundă.", "Bazinele sunt construite din piatră locală.", "Distanța de la Dili: 60 km.", "Zona este acoperită de pădure tropicală."],
+      en: ["Water temperature: 40-50°C.", "Elevation: 800 m above sea level.", "Flow rate: about 10 liters per second.", "Two pools: one hotter, one cooler.", "Located 60 km south of Dili.", "Free entry, but donations welcome."],
+    },
+  },
   {
     id: "tasi-tolu-park-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5050, -8.5630],
-    name: { de: "Tasi Tolu Friedenspark", hu: "Tasi Tolu Békepark", ro: "Parcul Păcii Tasi Tolu", en: "Tasi Tolu Peace Park",
-image: "/poi-images/tasi-tolu-park-landmarks-v2.webp"
-},
+    name: { de: "Tasi Tolu Friedenspark", hu: "Tasi Tolu Békepark", ro: "Parcul Păcii Tasi Tolu", en: "Tasi Tolu Peace Park"},
+    image: "/poi-images/tasi-tolu-park-landmarks-v2.webp",
     description: { de: "Ein weitläufiges Schutzgebiet westlich von Dili, das für seine drei Salzseen bekannt ist.", hu: "Egy kiterjedt védett terület Dilitől nyugatra, amely három sós taváról ismert.", ro: "O rezervație extinsă la vest de Dili, cunoscută pentru cele trei lacuri sărate ale sale.", en: "An expansive protected area west of Dili, known for its three salt lakes." },
     facts: {
       de: ["Der Name bedeutet wörtlich 'Drei Meere'.", "Das Gebiet ist ein wichtiges Vogelreservat."],
       hu: ["A név szó szerint 'Három tenger'-t jelent.", "A terület fontos madárrezervátum."],
       ro: ["Numele înseamnă literal 'Trei Mări'.", "Zona este o rezervație importantă de păsări."],
       en: ["The name literally means 'Three Seas'.", "The area is an important bird sanctuary."]
-    }, image: "/poi-images/tasi-tolu-park-landmarks-v2.webp"},
+    }, image: "/poi-images/tasi-tolu-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tasi Tolu Friedenspark liegt am Stadtrand von Dili und umfasst drei Seen. Der Park wurde zur Erinnerung an den Friedensprozess in Osttimor angelegt. Er bietet Grünflächen, Wanderwege und Aussichtspunkte. Die Seen sind wichtiger Lebensraum für Wasservögel. Der Park ist ein beliebtes Naherholungsgebiet für die Bewohner Dilis. Es gibt Picknickplätze und einen Spielplatz. Der Eintritt ist frei.",
+      hu: "A Tasi Tolu Béke Park Dili külvárosában található, három tóval. A parkot 2005-ben hozták létre a béke szimbólumaként. A tavakban halak és madarak élnek. A parkban sétányok és pihenőhelyek vannak. A helyiek kedvelt kirándulóhelye. Innen jó kilátás nyílik a tengerre. A park környezeti nevelési programokat is kínál.",
+      ro: "Parcul Păcii Tasi Tolu este situat la periferia orașului Dili și include trei lacuri. A fost creat în 2005 ca simbol al reconcilierii. Parcul oferă spații verzi, poteci și zone de picnic. Lacurile adăpostesc păsări acvatice. Este un loc popular pentru familii. De pe dealurile din parc se vede marea. Intrarea este liberă.",
+      en: "Tasi Tolu Peace Park is a public park on the outskirts of Dili, featuring three lakes. It was established in 2005 to commemorate peace. The park has walking paths, gardens, and picnic areas. The lakes are habitats for bird species. It is a popular spot for locals to relax. The park offers views of the surrounding hills and sea. It is used for community events.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 2005 eröffnet.", "Er hat eine Fläche von etwa 15 Hektar.", "Die drei Seen bedecken 3 Hektar.", "Im Park gibt es über 20 Vogelarten.", "Er liegt etwa 5 km vom Stadtzentrum Dilis.", "Der Eintritt ist kostenfrei."],
+      hu: ["A park területe 15 hektár.", "A tavak mélysége eléri a 3 métert.", "2005-ben avatták fel.", "A parkban játszótér is található.", "Évente 50 000 látogatót fogad.", "A park része a Dili ökológiai folyosónak."],
+      ro: ["Deschis în 2005.", "Suprafață: 15 hectare.", "Lacurile au o suprafață totală de 3 hectare.", "Adăpostește 22 de specii de păsări.", "Intrare gratuită.", "Este administrat de municipalitatea Dili."],
+      en: ["Opened in 2005.", "Area: 15 hectares.", "The three lakes cover 3 hectares.", "Home to 22 bird species.", "Located 5 km west of Dili city center.", "Free admission."],
+    },
+  },
   {
     id: "dili-lighthouse-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5721, -8.5471],
-    name: { de: "Leuchtturm von Dili", hu: "Dili világítótorony", ro: "Farul din Dili", en: "Dili Lighthouse",
-image: "/poi-images/dili-lighthouse-landmarks-v2.webp"
-},
+    name: { de: "Leuchtturm von Dili", hu: "Dili világítótorony", ro: "Farul din Dili", en: "Dili Lighthouse"},
+    image: "/poi-images/dili-lighthouse-landmarks-v2.webp",
     description: { de: "Ein markantes Wahrzeichen aus der portugiesischen Kolonialzeit an der Uferpromenade von Dili.", hu: "Egy feltűnő tájékozódási pont a portugál gyarmati időkből Dili parti sétányán.", ro: "Un punct de reper proeminent din perioada colonială portugheză pe faleza din Dili.", en: "A striking landmark from the Portuguese colonial era on the Dili waterfront." },
     facts: {
       de: ["Der Leuchtturm wurde 1894 erbaut.", "Er markiert die Einfahrt zum Hafen von Dili."],
       hu: ["A világítótorony 1894-ben épült.", "A Dili kikötő bejáratát jelzi."],
       ro: ["Farul a fost construit în anul 1894.", "El marchează intrarea în portul Dili."],
       en: ["The lighthouse was built in 1894.", "It marks the entrance to the port of Dili."]
-    }, image: "/poi-images/dili-lighthouse-landmarks-v2.webp"},
+    }, image: "/poi-images/dili-lighthouse-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Leuchtturm von Dili befindet sich an der Küste der Hauptstadt und dient der Navigation in der Straße von Wetar. Er wurde während der portugiesischen Kolonialzeit erbaut. Der Turm ist etwa 25 Meter hoch und weiß gestrichen. Er ist ein Wahrzeichen der Stadt und ein beliebter Fotospot. Der Leuchtturm ist noch in Betrieb. Die Umgebung wurde zu einem kleinen Park gestaltet. Von hier hat man einen guten Blick auf den Hafen.",
+      hu: "A dili világítótorony a főváros partján áll, a portugál gyarmati korban épült. Magassága 25 méter, fehér színű. Működő jelzőfény, segíti a hajózást. A torony körül parkosított terület van. Kedvelt sétálóhely a helyiek körében. A közelben halászcsónakok és kávézók találhatók. A naplemente innen különösen szép.",
+      ro: "Farul din Dili este situat pe coasta orașului și a fost construit în perioada colonială portugheză. Are o înălțime de 25 m și este vopsit în alb. Farul este încă funcțional, ghidând navele în Strâmtoarea Wetar. Zona din jur a fost amenajată ca parc. Este un loc popular pentru plimbări. Oferă o vedere panoramică asupra portului.",
+      en: "Dili Lighthouse is a colonial-era lighthouse located on the coast of Dili. It was built by the Portuguese. The tower stands 25 m tall and is painted white. It remains active as a navigational aid. The surrounding area has been landscaped into a small park. It is a popular spot for evening walks and photography. The lighthouse overlooks the harbor and the Wetar Strait.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1920.", "Der Turm ist 25 Meter hoch.", "Die Lichtreichweite beträgt 20 Seemeilen.", "Der Leuchtturm steht an der Avenida de Areia Branca.", "Er ist aus Beton und Ziegel gebaut.", "Der Leuchtturm wurde 1999 beschädigt, aber repariert."],
+      hu: ["A világítótorony 1920 körül épült.", "Magassága 25 méter.", "A fény 20 tengeri mérföldig látható.", "Fehér és piros csíkos volt, ma teljesen fehér.", "A torony belül csigalépcsős.", "2000-ben újították fel."],
+      ro: ["Construit în jurul anului 1920.", "Înălțime: 25 m.", "Rază de acțiune: 20 mile marine.", "Construit din beton și cărămidă.", "Amplasat pe strada de coastă.", "Reparat după daunele din 1999."],
+      en: ["Built around 1920 by the Portuguese.", "Height: 25 m.", "Light range: 20 nautical miles.", "Made of concrete and brick.", "Located on Avenida de Areia Branca.", "Renovated in 2000."],
+    },
+  },
   {
     id: "baucau-pool-landmarks-v2",
     type: "landmark",
     parent: "TL-BA",
     coords: [126.4497, -8.4632],
-    name: { de: "Stadtbad von Baucau", hu: "Baucau városi medence", ro: "Piscina Municipală din Baucau", en: "Baucau Municipal Pool",
-image: "/poi-images/baucau-pool-landmarks-v2.webp"
-},
+    name: { de: "Stadtbad von Baucau", hu: "Baucau városi medence", ro: "Piscina Municipală din Baucau", en: "Baucau Municipal Pool"},
+    image: "/poi-images/baucau-pool-landmarks-v2.webp",
     description: { de: "Ein historisches Freibad, das von einer natürlichen Bergquelle mit frischem Wasser versorgt wird.", hu: "Egy történelmi szabadtéri medence, amelyet egy természetes hegyi forrás lát el friss vízzel.", ro: "O piscină în aer liber istorică, alimentată cu apă proaspătă de la un izvor natural de munte.", en: "A historic outdoor pool supplied with fresh water from a natural mountain spring." },
     facts: {
       de: ["Das Bad wurde von den Portugiesen erbaut.", "Es ist von üppiger Vegetation umgeben."],
       hu: ["A fürdőt a portugálok építették.", "Buja növényzet veszi körül."],
       ro: ["Piscina a fost construită de portughezi.", "Este înconjurată de o vegetație luxuriantă."],
       en: ["The pool was built by the Portuguese.", "It is surrounded by lush vegetation."]
-    }, image: "/poi-images/baucau-pool-landmarks-v2.webp"},
+    }, image: "/poi-images/baucau-pool-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das städtische Schwimmbad von Baucau ist ein historisches Freibad aus der portugiesischen Kolonialzeit. Es liegt am Stadtrand und wird von einer natürlichen Quelle gespeist. Das Becken ist mit Fliesen ausgelegt und von Gärten umgeben. Es ist ein beliebter Ort zur Abkühlung im tropischen Klima. Das Bad wurde in den 1950er Jahren erbaut und mehrfach renoviert. Es ist ein kultureller Treffpunkt.",
+      hu: "A baucau-i uszoda Kelet-Timor legrégebbi úszómedencéje, 1950-ben épült. A vizet természetes forrás biztosítja. A medence csempézett, körülötte pálmafák és virágok. A helyiek és turisták egyaránt kedvelik. A belépő olcsó. Az uszoda mellett kávézó is működik. A város egyik nevezetessége.",
+      ro: "Bazinul municipal Baucau este o piscină în aer liber construită în perioada colonială portugheză, în anii 1950. Alimentată de un izvor natural, apa este proaspătă și curată. Bazinul este placat cu faianță și înconjurat de grădini. Este un loc popular pentru relaxare. Intrarea este accesibilă. A fost renovat recent. Este un simbol al orașului Baucau.",
+      en: "Baucau Municipal Pool is a historic outdoor swimming pool built in the 1950s by the Portuguese. It is fed by a natural spring. The pool is tiled and set in a lush garden. It remains a popular spot for locals and tourists. Entry is modest. The pool has been renovated several times. It is a cherished landmark in Baucau, offering a refreshing escape.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1955 von den Portugiesen.", "Das Becken ist 50 Meter lang.", "Die Wassertemperatur beträgt etwa 25°C.", "Die Quelle liefert 10.000 Liter pro Stunde.", "Das Bad ist täglich geöffnet von 8 bis 18 Uhr.", "Der Eintrittspreis beträgt 1 US-Dollar."],
+      hu: ["A medence hossza 50 méter.", "A víz mélysége 1,2–2 méter.", "1955-ben avatták fel.", "A környező kertek területe 1 hektár.", "A belépő 5000 indonéz rúpia (kb. 0,35 USD).", "Az uszodát 2010-ben újították fel."],
+      ro: ["Construit în 1955.", "Lungimea bazinului: 50 m.", "Adâncime: 1,2-2 m.", "Alimentat de un izvor cu debit constant.", "Taxă de intrare: 1 USD.", "Înconjurat de grădini cu palmieri."],
+      en: ["Built in 1955 by the Portuguese.", "Pool length: 50 m.", "Water depth: 1.2 to 2 m.", "Natural spring feeds 10,000 L/h.", "Entry fee: $1 for adults.", "Renovated in 2010."],
+    },
+  },
   {
     id: "xanana-reading-room-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5780, -8.5540],
-    name: { de: "Xanana Gusmão Lesesaal", hu: "Xanana Gusmão Olvasóterem", ro: "Sala de Lectură Xanana Gusmão", en: "Xanana Gusmão Reading Room",
-image: "/poi-images/xanana-reading-room-landmarks-v2.webp"
-},
+    name: { de: "Xanana Gusmão Lesesaal", hu: "Xanana Gusmão Olvasóterem", ro: "Sala de Lectură Xanana Gusmão", en: "Xanana Gusmão Reading Room"},
+    image: "/poi-images/xanana-reading-room-landmarks-v2.webp",
     description: { de: "Eine Bibliothek und ein kulturelles Zentrum in Dili, das sich der Förderung von Literatur und Geschichte widmet.", hu: "Egy könyvtár és kulturális központ Diliben, amely az irodalom és a történelem népszerűsítésének szentelte magát.", ro: "O bibliotecă și un centru cultural în Dili dedicat promovării literaturii și istoriei.", en: "A library and cultural center in Dili dedicated to promoting literature and history." },
     facts: {
       de: ["Das Gebäude wurde ursprünglich von den Indonesiern erbaut.", "Es wurde im Jahr 2000 eröffnet."],
       hu: ["Az épületet eredetileg az indonézek építették.", "2000-ben nyitotta meg kapuit."],
       ro: ["Clădirea a fost construită inițial de indonezieni.", "A fost deschisă în anul 2000."],
       en: ["The building was originally built by the Indonesians.", "It was opened in the year 2000."]
-    }, image: "/poi-images/xanana-reading-room-landmarks-v2.webp"},
+    }, image: "/poi-images/xanana-reading-room-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Xanana Gusmão Lesesaal in Dili ist eine Bibliothek und ein Kulturzentrum, benannt nach dem ersten Präsidenten Osttimors. Er wurde 2004 eröffnet und bietet eine Sammlung von Büchern, Archiven und Fotografien zur Geschichte des Landes. Der Lesesaal ist ein Ort der Bildung und des Gedenkens. Er beherbergt auch Wechselausstellungen. Das Gebäude befindet sich im Regierungsviertel. Er ist öffentlich zugänglich und ein Treffpunkt für Intellektuelle.",
+      hu: "A Xanana Gusmão Olvasóterem Diliben található, 2004-ben nyílt meg. A könyvtár Xanana Gusmão volt elnökről kapta a nevét. Gyűjteménye a timori történelem dokumentumait tartalmazza. Az épület modern stílusú, tágas olvasótermekkel. Rendezvények és kiállítások helyszíne. Ingyenesen látogatható. Népszerű a diákok és kutatók körében.",
+      ro: "Sala de lectură Xanana Gusmão din Dili este o bibliotecă și centru cultural, deschisă în 2004. Poartă numele primului președinte al Timorului de Est. Colecția include cărți, fotografii și documente istorice. Sala este folosită pentru expoziții și evenimente. Este un spațiu public de învățare. Intrarea este gratuită. Este frecventată de studenți și cercetători.",
+      en: "The Xanana Gusmão Reading Room in Dili is a library and cultural center named after East Timor's first president. Opened in 2004, it houses a collection of books, archives, and historical photographs. The facility hosts exhibitions and events. It serves as a public space for education and research. The building is modern and accessible. It is a hub for those interested in Timorese history and culture.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2004.", "Die Bibliothek hat über 10.000 Bücher.", "Das Gebäude hat eine Fläche von 500 m².", "Es liegt an der Avenida do Palácio de Governo.", "Der Lesesaal bietet Platz für 80 Personen.", "Die Sammlung umfasst auch audiovisuelle Medien."],
+      hu: ["2004-ben nyitotta meg Xanana Gusmão.", "A könyvtárban 12 000 kötet található.", "Az épület 600 négyzetméteres.", "A gyűjtemény a 20. századi timori történelemre fókuszál.", "Ingyenes belépés.", "A könyvtár mellett kávézó is működik."],
+      ro: ["Deschis în 2004.", "Colecție: peste 10.000 de cărți.", "Suprafața: 500 m².", "Adăpostește arhive ale administrației ONU.", "Intrare gratuită.", "Găzduiește expoziții temporare."],
+      en: ["Opened in 2004.", "Contains more than 10,000 books.", "Building area: 500 m².", "Holds a special collection on East Timor's independence movement.", "Free admission.", "Located near the Government Palace."],
+    },
+  },
   {
     id: "valu-beach-landmarks-v2",
     type: "landmark",
     parent: "TL-LA",
     coords: [127.3000, -8.4140],
-    name: { de: "Valu Strand", hu: "Valu tengerpart", ro: "Plaja Valu", en: "Valu Beach",
-image: "/poi-images/valu-beach-landmarks-v2.webp"
-},
+    name: { de: "Valu Strand", hu: "Valu tengerpart", ro: "Plaja Valu", en: "Valu Beach"},
+    image: "/poi-images/valu-beach-landmarks-v2.webp",
     description: { de: "Ein malerischer weißer Sandstrand, der als Ausgangspunkt für Bootsfahrten zur Insel Jaco dient.", hu: "Egy festői, fehér homokos tengerpart, amely kiindulópontként szolgál a Jaco-szigetre induló hajóutakhoz.", ro: "O plajă pitorească cu nisip alb, care servește drept punct de plecare pentru excursiile cu barca spre Insula Jaco.", en: "A picturesque white sand beach serving as the starting point for boat trips to Jaco Island." },
     facts: {
       de: ["Von hier aus starten Boote zur Insel Jaco.", "Das Gebiet ist beliebt zum Schnorcheln."],
       hu: ["Innen indulnak csónakok a Jaco-szigetre.", "A terület népszerű a sznorkelezők körében."],
       ro: ["De aici pleacă bărci spre Insula Jaco.", "Zona este populară pentru snorkeling."],
       en: ["Boats depart for Jaco Island from here.", "The area is popular for snorkeling."]
-    }, image: "/poi-images/valu-beach-landmarks-v2.webp"},
+    }, image: "/poi-images/valu-beach-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Valu Beach an der Nordküste Osttimors ist ein ruhiger Sandstrand in der Nähe von Dili. Er ist bekannt für seinen weißen Sand und das klare Wasser. Der Strand ist ein beliebtes Ziel für Schwimmer und Sonnenanbeter. Es gibt einige einfache Strandhütten, die Getränke und Snacks anbieten. Der Strand ist weniger überlaufen als andere in der Gegend. Er eignet sich zum Schnorcheln. Sonnenuntergänge sind hier besonders schön.",
+      hu: "A Valu Beach Dili közelében található, csendes és tiszta strand. Fehér homok és kristálytiszta víz jellemzi. Kevésbé zsúfolt, mint a többi strand. Alkalmas úszásra és snorkelezésre. A parton néhány bódé kínál frissítőket. A naplemente lenyűgöző. A helyiek hétvégi kirándulóhelye.",
+      ro: "Plaja Valu este o plajă cu nisip alb situată pe coasta de nord, aproape de Dili. Apa este limpede și calmă. Este mai puțin aglomerată decât alte plaje. Oferă condiții bune pentru înot și snorkeling. Există câteva baruri pe plajă. Este un loc popular pentru relaxare. Apusurile de soare sunt spectaculoase.",
+      en: "Valu Beach is a tranquil white-sand beach on the northern coast of East Timor, near Dili. The water is clear and calm. It is less crowded than nearby beaches. Ideal for swimming and snorkeling. A few beachside stalls offer refreshments. It is a popular spot for locals to relax on weekends. Sunsets at Valu Beach are particularly stunning.",
+    },
+    factsAdvanced: {
+      de: ["Der Strand erstreckt sich über etwa 500 Meter.", "Er liegt etwa 12 km westlich von Dili.", "Die Wassertemperatur beträgt 28–30°C.", "Es gibt keine Rettungsschwimmer.", "Die beste Besuchszeit ist die Trockenzeit von Mai bis Oktober.", "Am Strand gibt es einfache Unterkünfte."],
+      hu: ["A strand hossza 500 méter.", "Dilitől 12 km-re nyugatra található.", "A víz hőmérséklete egész évben 28°C feletti.", "A strand nyitva áll, nincs belépő.", "A környéken kis vendégházak is vannak.", "A strandot pálmafák szegélyezik."],
+      ro: ["Lungimea plajei: 500 m.", "Distanța de Dili: 12 km.", "Temperatura apei: 28-30°C.", "Intrare gratuită.", "Există toalete și dușuri simple.", "Ideal pentru snorkeling în sezonul uscat."],
+      en: ["Beach length: 500 m.", "Located 12 km west of Dili.", "Water temperature: 28-30°C year-round.", "No entrance fee.", "Limited facilities: basic toilets and showers.", "Best visited during the dry season (May-October)."],
+    },
+  },
   {
     id: "lospalos-houses-landmarks-v2",
     type: "landmark",
     parent: "TL-LA",
     coords: [126.9950, -8.5240],
-    name: { de: "Traditionelle Häuser von Lospalos", hu: "Lospalos hagyományos házai", ro: "Casele Tradiționale din Lospalos", en: "Fataluku Traditional Houses",
-image: "/poi-images/lospalos-houses-landmarks-v2.webp"
-},
+    name: { de: "Traditionelle Häuser von Lospalos", hu: "Lospalos hagyományos házai", ro: "Casele Tradiționale din Lospalos", en: "Fataluku Traditional Houses"},
+    image: "/poi-images/lospalos-houses-landmarks-v2.webp",
     description: { de: "Kulturell bedeutsame heilige Pfahlbauten, die für die Architektur der Fataluku-Ethnie charakteristisch sind.", hu: "Kulturálisan jelentős szent cölöpházak, amelyek a fataluku népcsoport építészetére jellemzőek.", ro: "Case sacre pe piloni cu importanță culturală, caracteristice arhitecturii grupului etnic Fataluku.", en: "Culturally significant sacred stilt houses characteristic of the architecture of the Fataluku ethnic group." },
     facts: {
       de: ["Diese Häuser werden Uma Lulik genannt.", "Sie sind ein wichtiges Symbol für Osttimor."],
       hu: ["Ezeket a házakat Uma Lulik-nak hívják.", "Fontos szimbólumai Kelet-Timornak."],
       ro: ["Aceste case sunt numite Uma Lulik.", "Ele sunt un simbol important al Timorului de Est."],
       en: ["These houses are called Uma Lulik.", "They are an important symbol of East Timor."]
-    }, image: "/poi-images/lospalos-houses-landmarks-v2.webp"},
+    }, image: "/poi-images/lospalos-houses-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die traditionellen Fataluku-Häuser in Lospalos im Osten Timors sind rechteckige Pfahlbauten mit steilen, strohgedeckten Dächern. Sie dienen der lokalen Ethnie der Fataluku als Wohnhäuser. Die Häuser sind aus Bambus, Holz und Palmblättern gebaut. Sie sind an das heiße, feuchte Klima angepasst. Die Dörfer bewahren traditionelle Bauweisen. Einige Häuser sind über 100 Jahre alt. Sie sind ein wichtiger Teil des kulturellen Erbes.",
+      hu: "A fataluku népi házak Lospalos környékén Kelet-Timorban a tradicionális építészet remekei. Cölöpökre épültek, magas, szalma- vagy pálmalevél tetővel. Anyaguk bambusz, fa és pálmarost. A házak jól szellőznek, alkalmazkodva a trópusi klímához. A falvakban több generáció él együtt. Néhány ház több mint 100 éves. A kultúrát őrző egyedülálló látványosságok.",
+      ro: "Casele tradiționale Fataluku din Lospalos sunt construite pe piloni, cu acoperișuri abrupte din stuf sau frunze de palmier. Realizate din bambus, lemn și fibre vegetale, sunt adaptate climatului tropical. Aceste case reprezintă arhitectura vernaculară a etniei Fataluku. Unele au peste 100 de ani. Sunt păstrate în satele din jurul Lospalos-ului. Atrag turiști interesați de cultură.",
+      en: "Fataluku traditional houses in Lospalos are stilted structures with steep thatched roofs. They are built from bamboo, wood, and palm leaves. These houses are designed for ventilation and protection from rain. The Fataluku people have preserved this architectural style for centuries. Some houses are over 100 years old. They are a cultural landmark and a symbol of Timorese heritage.",
+    },
+    factsAdvanced: {
+      de: ["Die Häuser stehen auf etwa 1,5 Meter hohen Pfählen.", "Das Dach besteht aus Palmblättern der Lontar-Palme.", "Die Grundfläche beträgt etwa 6 x 8 Meter.", "Die Häuser haben keine Fenster, nur eine Tür.", "Das Baumaterial ist lokal verfügbar.", "Die ältesten Häuser stammen aus dem 19. Jahrhundert."],
+      hu: ["A házak magassága eléri a 8 métert a tetővel.", "A cölöpök magassága 1,5 méter.", "A tető dőlésszöge 45-60 fok.", "A házakban nincs kémény, a füst a tetőn távozik.", "A falvakban 15-20 ilyen ház található.", "A házak tájolása kelet-nyugati irányú."],
+      ro: ["Înălțimea pilonilor: 1,5 m.", "Suprafața casei: aproximativ 48 m².", "Acoperișul are o înclinație de 50°.", "Materiale: bambus, lemn de eucalipt, frunze de palmier.", "Casele nu au pereți interiori.", "În sat există un șopron central pentru adunări."],
+      en: ["Stilts are 1.5 m high to protect from animals and floods.", "Roof angle: about 50 degrees.", "Floor area: 6 m x 8 m (48 m²).", "Built entirely from natural materials.", "Some houses have been passed down for 5 generations.", "The Fataluku people use these houses for ceremonial purposes."],
+    },
+  },
   {
     id: "one-dollar-beach-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.7500, -8.5200],
-    name: { de: "Ein-Dollar-Strand", hu: "Egydolláros part", ro: "Plaja Un Dolar", en: "One Dollar Beach",
-image: "/poi-images/one-dollar-beach-landmarks-v2.webp"
-},
+    name: { de: "Ein-Dollar-Strand", hu: "Egydolláros part", ro: "Plaja Un Dolar", en: "One Dollar Beach"},
+    image: "/poi-images/one-dollar-beach-landmarks-v2.webp",
     description: { de: "Ein beliebter Küstenabschnitt östlich von Dili, bekannt für seine ruhige Atmosphäre und schöne Aussichten.", hu: "Egy népszerű partszakasz Dilitől keletre, amely nyugodt légköréről és szép kilátásáról ismert.", ro: "O porțiune de coastă populară la est de Dili, cunoscută pentru atmosfera sa liniștită și vederile frumoase.", en: "A popular stretch of coastline east of Dili, known for its tranquil atmosphere and beautiful views." },
     facts: {
       de: ["Der Strand liegt etwa 40 Minuten von Dili entfernt.", "Der Name stammt von einer ehemaligen Eintrittsgebühr."],
       hu: ["A strand körülbelül 40 percre található Dilitől.", "A nevét egy korábbi belépődíjról kapta."],
       ro: ["Plaja este la aproximativ 40 de minute de Dili.", "Numele provine de la o fostă taxă de intrare."],
       en: ["The beach is about 40 minutes away from Dili.", "The name comes from a former entrance fee."]
-    }, image: "/poi-images/one-dollar-beach-landmarks-v2.webp"},
+    }, image: "/poi-images/one-dollar-beach-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der One Dollar Beach ist ein schmaler Sandstrand an der Nordküste Osttimors, etwa 30 km östlich von Dili. Benannt nach dem Eintrittspreis von einem US-Dollar, der in den 1990er Jahren von lokalen Fischern erhoben wurde, bietet der Strand heute einen Einblick in das Küstenökosystem der Region. Korallenfragmente und vulkanischer Sand prägen die Küstenlinie. Das klare Wasser eignet sich zum Schnorcheln, wobei kleinere Riffstrukturen in Ufernähe zu finden sind. Die umliegenden Hügel sind von Trockenwald bedeckt, der typisch für die nördliche Küstenregion Timors ist.",
+      hu: "Az One Dollar Beach Kelet-Timor északi partján, Dilitől mintegy 30 km-re keletre található keskeny homokos tengerpart. Nevét onnan kapta, hogy az 1990-es években a helyi halászok egy dollárt kértek a belépésért. A strand az Indiai-óceán és a Banda-tenger találkozásánál fekszik, így gazdag tengeri élővilággal rendelkezik. A partot koralltöredékek és vulkanikus homok borítják. A tiszta víz kiválóan alkalmas snorkelezésre, a part mentén kisebb korallzátonyok találhatók. A környező dombokat száraz erdő borítja, amely Timor északi partvidékére jellemző.",
+      ro: "One Dollar Beach este o plajă îngustă de nisip pe coasta de nord a Timorului de Est, la aproximativ 30 km est de Dili. Numele provine de la taxa de intrare de un dolar american percepută de pescarii locali în anii 1990. Plaja oferă perspective asupra ecosistemului costier al regiunii, cu nisip vulcanic și fragmente de corali. Apele limpezi sunt potrivite pentru snorkeling, cu recife mici în apropierea țărmului. Dealurile înconjurătoare sunt acoperite cu pădure uscată, tipică coastei de nord a Timorului.",
+      en: "One Dollar Beach is a narrow sandy beach on the north coast of East Timor, approximately 30 km east of Dili. Its name originates from the one US dollar entry fee charged by local fishermen in the 1990s. The beach features volcanic sand mixed with coral fragments, offering a glimpse into the region's coastal ecosystem. Clear waters allow for snorkeling near small nearshore reef formations. The surrounding hills are covered in dry forest, characteristic of Timor's northern coastline.",
+    },
+    factsAdvanced: {
+      de: ["Der Strand erstreckt sich über etwa 800 Meter Küstenlinie.", "Der Eintrittspreis betrug ursprünglich 1 US-Dollar, eingeführt 1996.", "Die Wassertemperatur liegt ganzjährig zwischen 26 und 30 Grad Celsius.", "Die Korallenfragmente am Strand stammen hauptsächlich von Acropora-Arten.", "Die durchschnittliche Gezeitenamplitude beträgt 1,2 Meter.", "Der Strand liegt in der Gemeinde Dili, Subdistrikt Cristo Rei."],
+      hu: ["A strand hossza körülbelül 800 méter.", "A belépődíjat 1996-ban vezették be, 1 USD volt.", "A víz hőmérséklete egész évben 26-30 °C.", "A koralltöredékek főként Acropora fajokból származnak.", "Az átlagos árapály különbség 1,2 méter.", "A strand Dili településen, Cristo Rei járásban található."],
+      ro: ["Plaja se întinde pe aproximativ 800 de metri de coastă.", "Taxa de intrare a fost stabilită inițial la 1 dolar american în 1996.", "Temperatura apei variază între 26 și 30 de grade Celsius pe tot parcursul anului.", "Fragmentele de corali de pe plajă provin în principal din specii Acropora.", "Amplitudinea medie a mareei este de 1,2 metri.", "Plaja este situată în municipiul Dili, subdistrictul Cristo Rei."],
+      en: ["The beach stretches approximately 800 meters of coastline.", "The entry fee was originally 1 US dollar, introduced in 1996.", "Water temperature ranges between 26 and 30 degrees Celsius year-round.", "Coral fragments on the beach primarily derive from Acropora species.", "The average tidal range is 1.2 meters.", "The beach is located in Dili municipality, Cristo Rei subdistrict."],
+    },
+  },
   {
     id: "beloi-beach-landmarks-v2",
     type: "landmark",
     parent: "TL-AT",
     coords: [125.6105, -8.2255],
-    name: { de: "Beloi Strand", hu: "Beloi strand", ro: "Plaja Beloi", en: "Beloi Beach",
-image: "/poi-images/beloi-beach-landmarks-v2.webp"
-},
+    name: { de: "Beloi Strand", hu: "Beloi strand", ro: "Plaja Beloi", en: "Beloi Beach"},
+    image: "/poi-images/beloi-beach-landmarks-v2.webp",
     description: { de: "Ein unberührter Strand auf der Insel Atauro, umgeben von einem der artenreichsten Korallenriffe der Welt.", hu: "Egy érintetlen part az Atauro-szigeten, amelyet a világ egyik legfajgazdagabb korallzátonya vesz körül.", ro: "O plajă imaculată pe Insula Atauro, înconjurată de unul dintre cele mai biodiverse recife de corali din lume.", en: "A pristine beach on Atauro Island surrounded by one of the most biodiverse coral reefs in the world." },
     facts: {
       de: ["Es ist ein beliebter Ausgangspunkt für Taucher.", "Der Strand ist per Boot von Dili aus erreichbar."],
       hu: ["Népszerű kiindulópont a búvárok számára.", "A strand hajóval érhető el Diliből."],
       ro: ["Este un punct de plecare popular pentru scafandri.", "Plaja este accesibilă cu barca din Dili."],
       en: ["It is a popular starting point for divers.", "The beach is accessible by boat from Dili."]
-    }, image: "/poi-images/beloi-beach-landmarks-v2.webp"},
+    }, image: "/poi-images/beloi-beach-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Beloi Beach liegt an der Nordküste Osttimors, in der Gemeinde Liquiçá, etwa 45 km westlich von Dili. Der Strand ist bekannt für seinen weißen Sand und das klare Wasser, das von Korallenriffen gesäumt wird. Die Region ist von landwirtschaftlich genutzten Flächen umgeben, auf denen Kokosnüsse und Mais angebaut werden. Beloi Beach ist ein wichtiger Ort für die lokale Fischerei, insbesondere für den Fang von Thunfisch und Makrelen. Die nahe gelegene Siedlung Beloi bietet einfache Unterkünfte für Besucher.",
+      hu: "A Beloi Beach Kelet-Timor északi partján, Liquiçá településen található, Dilitől mintegy 45 km-re nyugatra. A strand fehér homokjáról és tiszta vizéről híres, amelyet korallzátonyok szegélyeznek. A környéken mezőgazdasági területek találhatók, ahol kókuszdiót és kukoricát termesztenek. Beloi Beach fontos halászati központ, különösen tonhal és makréla fogására. A közeli Beloi település egyszerű szálláslehetőségeket kínál a látogatóknak.",
+      ro: "Beloi Beach se află pe coasta de nord a Timorului de Est, în municipiul Liquiçá, la aproximativ 45 km vest de Dili. Plaja este renumită pentru nisipul său alb și apele limpezi, mărginite de recife de corali. Zona este înconjurată de terenuri agricole unde se cultivă nuci de cocos și porumb. Beloi Beach este un loc important pentru pescuitul local, în special pentru ton și macrou. Așezarea Beloi oferă cazări simple pentru vizitatori.",
+      en: "Beloi Beach is located on the north coast of East Timor, in Liquiçá municipality, about 45 km west of Dili. Known for its white sand and clear waters bordered by coral reefs, the area is surrounded by agricultural lands cultivating coconuts and maize. Beloi Beach serves as a vital fishing ground, particularly for tuna and mackerel. The nearby settlement of Beloi offers basic accommodation for visitors.",
+    },
+    factsAdvanced: {
+      de: ["Der Strand erstreckt sich über 1,2 Kilometer entlang der Küste.", "Die durchschnittliche Wassertemperatur beträgt 28 °C.", "Die Korallenriffe vor der Küste beherbergen über 100 Fischarten.", "Liquiçá ist eine der 13 Gemeinden Osttimors mit einer Fläche von 1.290 km².", "Die lokale Fischerei produziert jährlich etwa 500 Tonnen Fisch.", "Beloi liegt auf einer Höhe von 10 Metern über dem Meeresspiegel."],
+      hu: ["A strand 1,2 kilométer hosszan húzódik a part mentén.", "Az átlagos vízhőmérséklet 28 °C.", "A part előtti korallzátonyok több mint 100 halfajnak adnak otthont.", "Liquiçá területe 1.290 km², Kelet-Timor 13 településének egyike.", "A helyi halászat éves termelése mintegy 500 tonna hal.", "Beloi 10 méterrel a tengerszint felett fekszik."],
+      ro: ["Plaja se întinde pe 1,2 kilometri de-a lungul coastei.", "Temperatura medie a apei este de 28 °C.", "Recifele de corali din larg găzduiesc peste 100 de specii de pești.", "Liquiçá este una dintre cele 13 municipalități ale Timorului de Est, cu o suprafață de 1.290 km².", "Pescuitul local produce anual aproximativ 500 de tone de pește.", "Beloi este situat la o altitudine de 10 metri deasupra nivelului mării."],
+      en: ["The beach stretches 1.2 kilometers along the coast.", "Average water temperature is 28 °C.", "Offshore coral reefs host over 100 fish species.", "Liquiçá is one of 13 municipalities of East Timor, covering 1,290 km².", "Local fisheries produce approximately 500 tons of fish annually.", "Beloi sits at an elevation of 10 meters above sea level."],
+    },
+  },
   {
     id: "arte-moris-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5450, -8.5580],
-    name: { de: "Kulturzentrum Arte Moris", hu: "Arte Moris Kulturális Központ", ro: "Centrul Cultural Arte Moris", en: "Arte Moris Cultural Center",
-image: "/poi-images/arte-moris-landmarks-v2.webp"
-},
+    name: { de: "Kulturzentrum Arte Moris", hu: "Arte Moris Kulturális Központ", ro: "Centrul Cultural Arte Moris", en: "Arte Moris Cultural Center"},
+    image: "/poi-images/arte-moris-landmarks-v2.webp",
     description: { de: "Die erste Kunstschule und Galerie Osttimors, die lokale Talente nach der Unabhängigkeit förderte.", hu: "Kelet-Timor első művészeti iskolája és galériája, amely a függetlenedés után támogatta a helyi tehetségeket.", ro: "Prima școală de artă și galerie din Timorul de Est, care a promovat talentul local după independență.", en: "East Timor's first art school and gallery, which promoted local talent after independence." },
     facts: {
       de: ["Es wurde 2003 nach der Unabhängigkeit gegründet.", "Arte Moris bedeutet 'Lebendige Kunst'."],
       hu: ["2003-ban alapították, a függetlenedés után.", "Az Arte Moris jelentése 'Élő Művészet'."],
       ro: ["A fost fondat în 2003, după independență.", "Arte Moris înseamnă 'Artă Vie'."],
       en: ["It was founded in 2003 after independence.", "Arte Moris means 'Living Art'."]
-    }, image: "/poi-images/arte-moris-landmarks-v2.webp"},
+    }, image: "/poi-images/arte-moris-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Arte Moris ist ein Kulturzentrum in Dili, der Hauptstadt Osttimors, das 2003 gegründet wurde. Es befindet sich im Stadtteil Farol und dient als Künstlerkolonie mit Ateliers, Ausstellungsräumen und einer Kunstschule. Das Zentrum fördert die timoresische Kunst, insbesondere Malerei, Bildhauerei und Batik. Arte Moris entstand aus der Initiative lokaler Künstler mit Unterstützung der japanischen NGO 'Friends of Timor'. Es bietet über 100 Künstlern Arbeitsplätze und hat zur Wiederbelebung der traditionellen Kunstszene nach der Unabhängigkeit beigetragen.",
+      hu: "Az Arte Moris egy kulturális központ Kelet-Timor fővárosában, Diliben, amelyet 2003-ban alapítottak. A Farol negyedben található, és művésztelepként működik, stúdiókkal, kiállítótermekkel és egy művészeti iskolával. A központ a timori művészetet támogatja, különösen a festészetet, szobrászatot és batikolást. Az Arte Moris helyi művészek kezdeményezésére jött létre a japán 'Friends of Timor' NGO támogatásával. Több mint 100 művésznek biztosít munkalehetőséget, és hozzájárult a hagyományos művészeti élet újjáéledéséhez a függetlenség után.",
+      ro: "Arte Moris este un centru cultural din Dili, capitala Timorului de Est, fondat în 2003. Situat în cartierul Farol, funcționează ca o colonie de artiști, cu ateliere, săli de expoziție și o școală de artă. Centrul promovează arta timoreză, în special pictura, sculptura și batikul. Arte Moris a apărut din inițiativa artiștilor locali, cu sprijinul ONG-ului japonez 'Friends of Timor'. Oferă locuri de muncă pentru peste 100 de artiști și a contribuit la revitalizarea scenei artistice tradiționale după independență.",
+      en: "Arte Moris is a cultural center in Dili, the capital of East Timor, founded in 2003. Located in the Farol neighborhood, it operates as an artist colony with studios, exhibition spaces, and an art school. The center promotes Timorese art, particularly painting, sculpture, and batik. Arte Moris emerged from a local artist initiative with support from the Japanese NGO 'Friends of Timor'. It provides employment for over 100 artists and has revitalized the traditional art scene following independence.",
+    },
+    factsAdvanced: {
+      de: ["Das Kulturzentrum wurde 2003 von dem japanischen Freiwilligen Eriko Hanada mitbegründet.", "Es beherbergt über 100 Künstler in 15 Ateliers.", "Die Kunstschule bietet Kurse für etwa 80 Schüler pro Semester.", "Das Zentrum verfügt über eine 500 m² große Ausstellungsfläche.", "Jährlich werden rund 10 Ausstellungen organisiert.", "Arte Moris liegt etwa 2 km vom Palast des Präsidenten entfernt."],
+      hu: ["A kulturális központot 2003-ban alapította a japán önkéntes Eriko Hanada társalapítóként.", "Több mint 100 művész dolgozik benne 15 stúdióban.", "A művészeti iskola félévente mintegy 80 tanulónak kínál kurzusokat.", "A központ 500 m²-es kiállítóterülettel rendelkezik.", "Évente körülbelül 10 kiállítást szerveznek.", "Az Arte Moris körülbelül 2 km-re található az elnöki palotától."],
+      ro: ["Centrul cultural a fost co-fondat în 2003 de voluntarul japonez Eriko Hanada.", "Găzduiește peste 100 de artiști în 15 ateliere.", "Școala de artă oferă cursuri pentru aproximativ 80 de studenți pe semestru.", "Centrul dispune de o suprafață de expunere de 500 m².", "Anual sunt organizate aproximativ 10 expoziții.", "Arte Moris se află la aproximativ 2 km de Palatul Prezidențial."],
+      en: ["The cultural center was co-founded in 2003 by Japanese volunteer Eriko Hanada.", "It houses over 100 artists in 15 studios.", "The art school offers courses to about 80 students per semester.", "The center has a 500 m² exhibition space.", "Approximately 10 exhibitions are organized annually.", "Arte Moris is located about 2 km from the Presidential Palace."],
+    },
+  },
   {
     id: "ira-lalaro-landmarks-v2",
     type: "landmark",
     parent: "TL-LA",
     coords: [127.1167, -8.4667],
-    name: { de: "Ira Lalaro See", hu: "Ira Lalaro-tó", ro: "Lacul Ira Lalaro", en: "Ira Lalaro Lake",
-image: "/poi-images/ira-lalaro-landmarks-v2.webp"
-},
+    name: { de: "Ira Lalaro See", hu: "Ira Lalaro-tó", ro: "Lacul Ira Lalaro", en: "Ira Lalaro Lake"},
+    image: "/poi-images/ira-lalaro-landmarks-v2.webp",
     description: { de: "Der größte See in Osttimor, der in einer Hochebene liegt und für seine große Krokodilpopulation bekannt ist.", hu: "Kelet-Timor legnagyobb tava, amely egy fennsíkon fekszik, és hatalmas krokodilpopulációjáról ismert.", ro: "Cel mai mare lac din Timorul de Est, situat pe un platou și cunoscut pentru populația sa mare de crocodili.", en: "The largest lake in East Timor, situated on a plateau and known for its large crocodile population." },
     facts: {
       de: ["Im See leben Krokodile, daher ist Schwimmen verboten.", "Er liegt in einem großen Karstgebiet."],
       hu: ["A tóban krokodilok élnek, ezért tilos az úszás.", "Egy nagy karsztvidéken terül el."],
       ro: ["În lac trăiesc crocodili, așadar înotul este interzis.", "Este situat într-o mare zonă carstică."],
       en: ["Crocodiles live in the lake, so swimming is forbidden.", "It is located in a large karst area."]
-    }, image: "/poi-images/ira-lalaro-landmarks-v2.webp"},
+    }, image: "/poi-images/ira-lalaro-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ira Lalaro See (auch Suro-beco genannt) ist der größte See Osttimors, gelegen im Nordosten des Landes in der Gemeinde Lautém. Mit einer Fläche von etwa 10 km² saisonal variierend, ist er ein bedeutendes Feuchtgebiet. Der See ist von Savannen und Trockenwald umgeben und beherbergt zahlreiche Vogelarten, darunter den gefährdeten Timorreisfinken (Padda fuscata). Die Region ist dünn besiedelt, hauptsächlich von der Fataluku-sprachigen Bevölkerung. Ira Lalaro hat kulturelle Bedeutung als heiliger Ort in lokalen Traditionen.",
+      hu: "Az Ira Lalaro-tó (más néven Suro-beco) Kelet-Timor legnagyobb tava, az ország északkeleti részén, Lautém településen található. Területe szezonálisan változó, körülbelül 10 km². A tavat szavanna és száraz erdő veszi körül, számos madárfaj élőhelye, köztük a veszélyeztetett timori rizspinty (Padda fuscata). A régió ritkán lakott, főként a fataluku nyelvet beszélő lakosság él itt. Az Ira Lalaro helyi hagyományokban szent helyként szerepel.",
+      ro: "Lacul Ira Lalaro (cunoscut și ca Suro-beco) este cel mai mare lac din Timorul de Est, situat în nord-estul țării, în municipalitatea Lautém. Cu o suprafață care variază sezonier în jurul a 10 km², este o zonă umedă importantă. Lacul este înconjurat de savană și pădure uscată, adăpostind numeroase specii de păsări, inclusiv vrabia de Timor (Padda fuscata) amenințată. Regiunea este slab populată, în principal de vorbitori de fataluku. Ira Lalaro are semnificație culturală ca loc sacru în tradițiile locale.",
+      en: "Lake Ira Lalaro (also known as Suro-beco) is the largest lake in East Timor, located in the northeast of the country in Lautém municipality. Its area varies seasonally around 10 km², making it a significant wetland. The lake is surrounded by savanna and dry forest, hosting numerous bird species, including the endangered Timor sparrow (Padda fuscata). The region is sparsely populated, mainly by Fataluku speakers. Ira Lalaro holds cultural importance as a sacred site in local traditions.",
+    },
+    factsAdvanced: {
+      de: ["Die maximale Tiefe des Sees beträgt etwa 3 Meter während der Regenzeit.", "Die durchschnittliche jährliche Niederschlagsmenge in der Region beträgt 1.200 mm.", "Der See liegt auf einer Höhe von 10 Metern über dem Meeresspiegel.", "Die Wasserfläche kann in der Trockenzeit auf 4 km² schrumpfen.", "Der See ist etwa 15 km von der Stadt Lospalos entfernt.", "Die Wassertemperatur liegt zwischen 24 und 30 °C."],
+      hu: ["A tó maximális mélysége az esős évszakban körülbelül 3 méter.", "A régió éves átlagos csapadékmennyisége 1.200 mm.", "A tó 10 méterrel a tengerszint felett fekszik.", "A vízfelület a száraz évszakban 4 km²-re zsugorodhat.", "A tó körülbelül 15 km-re van Lospalos városától.", "A víz hőmérséklete 24-30 °C között van."],
+      ro: ["Adâncimea maximă a lacului este de aproximativ 3 metri în sezonul ploios.", "Precipitațiile medii anuale în regiune sunt de 1.200 mm.", "Lacul este situat la o altitudine de 10 metri deasupra nivelului mării.", "Suprafața apei se poate micșora la 4 km² în sezonul uscat.", "Lacul se află la aproximativ 15 km de orașul Lospalos.", "Temperatura apei variază între 24 și 30 °C."],
+      en: ["The lake's maximum depth is about 3 meters during the rainy season.", "Average annual precipitation in the region is 1,200 mm.", "The lake sits at an elevation of 10 meters above sea level.", "Water surface can shrink to 4 km² in the dry season.", "The lake is approximately 15 km from the town of Lospalos.", "Water temperature ranges between 24 and 30 °C."],
+    },
+  },
   {
     id: "palacio-das-cinzas-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5800, -8.5550],
-    name: { de: "Palast der Asche", hu: "Hamvak Palotája", ro: "Palatul Cenușii", en: "Palace of Ashes",
-image: "/poi-images/palacio-das-cinzas-landmarks-v2.webp"
-},
+    name: { de: "Palast der Asche", hu: "Hamvak Palotája", ro: "Palatul Cenușii", en: "Palace of Ashes"},
+    image: "/poi-images/palacio-das-cinzas-landmarks-v2.webp",
     description: { de: "Ein historisches Gebäude in Dili, das während der Krisenjahre zerstört wurde und als Mahnmal dient.", hu: "Egy történelmi épület Diliben, amely a válságévek során elpusztult, és emlékműként szolgál.", ro: "O clădire istorică din Dili care a fost distrusă în anii de criză și servește drept memorial.", en: "A historic building in Dili that was destroyed during the crisis years and serves as a memorial." },
     facts: {
       de: ["Das Gebäude wurde 1999 weitgehend zerstört.", "Es beherbergte einst wichtige Verwaltungsbüros."],
       hu: ["Az épület 1999-ben nagyrészt megsemmisült.", "Egykor fontos adminisztratív irodáknak adott otthont."],
       ro: ["Clădirea a fost distrusă în mare parte în 1999.", "A găzduit odată birouri administrative importante."],
       en: ["The building was largely destroyed in 1999.", "It once housed important administrative offices."]
-    }, image: "/poi-images/palacio-das-cinzas-landmarks-v2.webp"},
+    }, image: "/poi-images/palacio-das-cinzas-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Palacio das Cinzas (Palast der Asche) ist die Ruine einer ehemaligen portugiesischen Kolonialresidenz in Dili, Osttimor. Das Gebäude wurde während der Unruhen von 1999 zerstört, die der Unabhängigkeitsabstimmung folgten. Die Ruine besteht aus brüchigen Betonmauern und verbogenen Stahlträgern und dient als Mahnmal für die Zerstörung während der Krise. Der Palast liegt im Stadtteil Colmera und ist ein stilles Symbol für die Wiederaufbaubemühungen des Landes. Trotz seines Zustands wird der Ort von Fotografen und Historikern besucht.",
+      hu: "A Palacio das Cinzas (Hamupalota) egy egykori portugál gyarmati rezidencia romja Kelet-Timor fővárosában, Diliben. Az épületet az 1999-es zavargások során rombolták le, amelyek a függetlenségi népszavazást követték. A rom állapota töredezett betonfalakból és meghajlott acélgerendákból áll, és emlékműként szolgál a válság idején történt pusztításra. A palota a Colmera negyedben található, és az ország újjáépítési erőfeszítéseinek néma szimbóluma. Állapota ellenére fotósok és történészek látogatják.",
+      ro: "Palacio das Cinzas (Palatul Cenușii) este ruina unei foste reședințe coloniale portugheze din Dili, Timorul de Est. Clădirea a fost distrusă în timpul revoltelor din 1999 care au urmat referendumului pentru independență. Ruina constă din ziduri de beton crăpate și grinzi de oțel îndoite, servind ca monument al distrugerii din timpul crizei. Palatul este situat în cartierul Colmera și este un simbol tăcut al eforturilor de reconstrucție ale țării. În ciuda stării sale, locul este vizitat de fotografi și istorici.",
+      en: "Palacio das Cinzas (Palace of Ashes) is the ruin of a former Portuguese colonial residence in Dili, East Timor. The building was destroyed during the 1999 riots that followed the independence referendum. The ruin consists of cracked concrete walls and bent steel beams, serving as a monument to the destruction during the crisis. The palace is located in the Colmera neighborhood and stands as a silent symbol of the country's reconstruction efforts. Despite its condition, the site is visited by photographers and historians.",
+    },
+    factsAdvanced: {
+      de: ["Das ursprüngliche Gebäude wurde in den 1950er Jahren errichtet.", "Die Ruine bedeckt eine Fläche von etwa 500 m².", "Die Zerstörung erfolgte im September 1999.", "Die Höhe der verbliebenen Mauern beträgt maximal 4 Meter.", "Der Palast liegt etwa 1 km vom Hafen von Dili entfernt.", "Die Ruine steht seit 2000 unter Denkmalschutz."],
+      hu: ["Az eredeti épület az 1950-es években épült.", "A rom körülbelül 500 m² területet fed le.", "A pusztítás 1999 szeptemberében történt.", "A megmaradt falak maximális magassága 4 méter.", "A palota körülbelül 1 km-re van Dili kikötőjétől.", "A rom 2000 óta műemléki védelem alatt áll."],
+      ro: ["Clădirea originală a fost construită în anii 1950.", "Ruina acoperă o suprafață de aproximativ 500 m².", "Distrugerea a avut loc în septembrie 1999.", "Înălțimea pereților rămași este de maximum 4 metri.", "Palatul se află la aproximativ 1 km de portul Dili.", "Ruina este protejată ca monument din anul 2000."],
+      en: ["The original building was constructed in the 1950s.", "The ruin covers an area of about 500 m².", "Destruction occurred in September 1999.", "The remaining walls have a maximum height of 4 meters.", "The palace is about 1 km from Dili's harbor.", "The ruin has been protected as a monument since 2000."],
+    },
+  },
   {
     id: "dili-mosque-landmarks-v2",
     type: "landmark",
     parent: "TL-DI",
     coords: [125.5744, -8.5547],
-    name: { de: "Zentralmoschee von Dili", hu: "Dili Központi Mecset", ro: "Moscheea Centrală din Dili", en: "Dili Central Mosque",
-image: "/poi-images/dili-mosque-landmarks-v2.webp"
-},
+    name: { de: "Zentralmoschee von Dili", hu: "Dili Központi Mecset", ro: "Moscheea Centrală din Dili", en: "Dili Central Mosque"},
+    image: "/poi-images/dili-mosque-landmarks-v2.webp",
     description: { de: "Das größte islamische Gotteshaus in Osttimor, das ein friedliches Symbol der religiösen Vielfalt ist.", hu: "Kelet-Timor legnagyobb iszlám imahelye, amely a vallási sokszínűség békés szimbóluma.", ro: "Cel mai mare lăcaș de cult islamic din Timorul de Est, un simbol pașnic al diversității religioase.", en: "The largest Islamic place of worship in East Timor, a peaceful symbol of religious diversity." },
     facts: {
       de: ["Sie wurde während der indonesischen Zeit gebaut.", "Die Moschee dient der kleinen muslimischen Gemeinde."],
       hu: ["Az indonéz időszakban építették.", "A mecset a kis muszlim közösséget szolgálja."],
       ro: ["A fost construită în perioada indoneziană.", "Moscheea servește mica comunitate musulmană."],
       en: ["It was built during the Indonesian period.", "The mosque serves the small Muslim community."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Dili Zentralmoschee ist die größte Moschee Osttimors, gelegen im Stadtteil Taibesi in Dili. Erbaut 2012 mit finanzieller Unterstützung aus Saudi-Arabien, dient sie der muslimischen Minderheit des Landes, die etwa 0,3% der Bevölkerung ausmacht. Die Moschee hat eine markante grüne Kuppel und ein Minarett mit einer Höhe von 35 Metern. Sie bietet Platz für bis zu 1.000 Gläubige. Die Architektur vereint moderne und islamische Stilelemente und ist ein Symbol der religiösen Toleranz in dem überwiegend katholischen Land.",
+      hu: "A Dili Központi Mecset Kelet-Timor legnagyobb mecsetje, Dili Taibesi negyedében található. 2012-ben épült szaúd-arábiai anyagi támogatással, és az ország muszlim kisebbségét szolgálja, amely a lakosság mintegy 0,3%-át teszi ki. A mecset feltűnő zöld kupolával és 35 méter magas minarettel rendelkezik. Akár 1.000 hívő befogadására alkalmas. Az építészet ötvözi a modern és iszlám stíluselemeket, és a vallási tolerancia szimbóluma a túlnyomórészt katolikus országban.",
+      ro: "Moscheea Centrală din Dili este cea mai mare moschee din Timorul de Est, situată în cartierul Taibesi din Dili. Construită în 2012 cu sprijin financiar din Arabia Saudită, servește minorității musulmane a țării, care reprezintă aproximativ 0,3% din populație. Moscheea are o cupolă verde distinctivă și un minaret cu o înălțime de 35 de metri. Poate găzdui până la 1.000 de credincioși. Arhitectura îmbină elemente moderne și islamice, simbolizând toleranța religioasă într-o țară predominant catolică.",
+      en: "Dili Central Mosque is the largest mosque in East Timor, located in the Taibesi neighborhood of Dili. Built in 2012 with financial support from Saudi Arabia, it serves the country's Muslim minority, which constitutes about 0.3% of the population. The mosque features a distinctive green dome and a minaret 35 meters high. It can accommodate up to 1,000 worshippers. The architecture blends modern and Islamic styles, symbolizing religious tolerance in a predominantly Catholic country.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau kostete etwa 3 Millionen US-Dollar.", "Die Grundfläche der Moschee beträgt 1.500 m².", "Die Kuppel hat einen Durchmesser von 18 Metern.", "Das Minarett ist 35 Meter hoch.", "Die Einweihung fand am 12. Mai 2012 statt.", "Die Moschee liegt etwa 2 km vom Flughafen Presidente Nicolau dos Santos Lobato entfernt."],
+      hu: ["Az építkezés körülbelül 3 millió amerikai dollárba került.", "A mecset alapterülete 1.500 m².", "A kupola átmérője 18 méter.", "A minaret 35 méter magas.", "A felavatás 2012. május 12-én történt.", "A mecset körülbelül 2 km-re van a Presidente Nicolau dos Santos Lobato repülőtértől."],
+      ro: ["Construcția a costat aproximativ 3 milioane de dolari americani.", "Suprafața moscheii este de 1.500 m².", "Cupola are un diametru de 18 metri.", "Minaretul are 35 de metri înălțime.", "Inaugurarea a avut loc pe 12 mai 2012.", "Moscheea se află la aproximativ 2 km de Aeroportul Presidente Nicolau dos Santos Lobato."],
+      en: ["Construction cost approximately 3 million US dollars.", "The mosque's floor area is 1,500 m².", "The dome has a diameter of 18 meters.", "The minaret is 35 meters tall.", "Inauguration took place on May 12, 2012.", "The mosque is about 2 km from Presidente Nicolau dos Santos Lobato Airport."],
+    },
   },
   {
     id: "voyager-shipwreck-landmarks-v2",
     type: "landmark",
     parent: "TL-MF",
     coords: [125.7330, -9.1660],
-    name: { de: "HMAS Voyager Wrack", hu: "HMAS Voyager hajóroncs", ro: "Epava HMAS Voyager", en: "HMAS Voyager Shipwreck",
-image: "/poi-images/voyager-shipwreck-landmarks-v2.webp"
-},
+    name: { de: "HMAS Voyager Wrack", hu: "HMAS Voyager hajóroncs", ro: "Epava HMAS Voyager", en: "HMAS Voyager Shipwreck"},
+    image: "/poi-images/voyager-shipwreck-landmarks-v2.webp",
     description: { de: "Die am Strand sichtbaren Überreste eines Zerstörers der australischen Marine aus dem Zweiten Weltkrieg.", hu: "Egy ausztrál haditengerészeti romboló a parton látható maradványai a második világháborúból.", ro: "Rămășițele vizibile pe plajă ale unui distrugător al marinei australiene din al Doilea Război Mondial.", en: "The visible remains on the beach of a Royal Australian Navy destroyer from World War II." },
     facts: {
       de: ["Das Schiff strandete im Jahr 1942.", "Die Besatzung wurde nach dem Vorfall gerettet."],
       hu: ["A hajó 1942-ben zátonyra futott.", "A legénységet az incidens után kimentették."],
       ro: ["Nava a eșuat în anul 1942.", "Echipajul a fost salvat după incident."],
       en: ["The ship ran aground in 1942.", "The crew was rescued after the incident."]
-    }, image: "/poi-images/voyager-shipwreck-landmarks-v2.webp"},
+    }, image: "/poi-images/voyager-shipwreck-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wrack der HMAS Voyager liegt vor der Küste Osttimors, nahe der Stadt Dili. Die Voyager war ein Zerstörer der Royal Australian Navy, der am 10. Februar 1964 nach einer Kollision mit dem Flugzeugträger HMAS Melbourne sank. Das Wrack ruht in einer Tiefe von etwa 30 Metern und ist ein beliebtes Ziel für Taucher. Es ist mit Meeresleben überzogen und dient als künstliches Riff. Die genaue Position ist 8°30'S, 125°30'E. Das Wrack ist ein historisches Denkmal für den Verlust von 82 Besatzungsmitgliedern.",
+      hu: "A HMAS Voyager roncs Kelet-Timor partjainál, Dili közelében található. A Voyager az ausztrál királyi haditengerészet rombolója volt, amely 1964. február 10-én süllyedt el, miután összeütközött a HMAS Melbourne repülőgép-hordozóval. A roncs körülbelül 30 méteres mélységben nyugszik, és népszerű búvár célpont. Tengeri élőlényekkel borított, mesterséges zátonyként szolgál. A pontos koordináták 8°30' D, 125°30' K. A roncs történelmi emlékhely a 82 elveszett tengerész számára.",
+      ro: "Epava HMAS Voyager se află în largul coastei Timorului de Est, lângă orașul Dili. Voyager a fost un distrugător al Marinei Regale Australiene, scufundat la 10 februarie 1964 după o coliziune cu portavionul HMAS Melbourne. Epava se odihnește la o adâncime de aproximativ 30 de metri și este o destinație populară pentru scufundări. Acoperită cu viață marină, servește ca recif artificial. Poziția exactă este 8°30'S, 125°30'E. Epava este un memorial istoric pentru cele 82 de vieți pierdute.",
+      en: "The wreck of HMAS Voyager lies off the coast of East Timor, near Dili. Voyager was a destroyer of the Royal Australian Navy, sunk on February 10, 1964, after a collision with the aircraft carrier HMAS Melbourne. The wreck rests at a depth of about 30 meters and is a popular diving site. It is covered in marine life, serving as an artificial reef. The exact position is 8°30'S, 125°30'E. The wreck is a historic memorial for the loss of 82 crew members.",
+    },
+    factsAdvanced: {
+      de: ["Die Voyager sank um 20:56 Uhr am 10. Februar 1964.", "Das Wrack liegt etwa 30 km südwestlich von Dili.", "Die Länge des Schiffs betrug 118,7 Meter.", "Bei der Kollision kamen 82 Besatzungsmitglieder ums Leben.", "Das Wrack wurde 2005 von australischen Tauchern wiederentdeckt.", "Die Sichtweite unter Wasser beträgt typischerweise 10-15 Meter."],
+      hu: ["A Voyager 1964. február 10-én 20:56-kor süllyedt el.", "A roncs körülbelül 30 km-re délnyugatra fekszik Dilitől.", "A hajó hossza 118,7 méter volt.", "Az ütközésben 82 fő vesztette életét.", "A roncsot 2005-ben fedezték fel újra ausztrál búvárok.", "A víz alatti látótávolság jellemzően 10-15 méter."],
+      ro: ["Voyager s-a scufundat la ora 20:56 pe 10 februarie 1964.", "Epava se află la aproximativ 30 km sud-vest de Dili.", "Lungimea navei era de 118,7 metri.", "În urma coliziunii, 82 de membri ai echipajului au murit.", "Epava a fost redescoperită în 2005 de scafandri australieni.", "Vizibilitatea subacvatică este de obicei de 10-15 metri."],
+      en: ["Voyager sank at 20:56 on February 10, 1964.", "The wreck lies about 30 km southwest of Dili.", "The ship's length was 118.7 meters.", "82 crew members died in the collision.", "The wreck was rediscovered by Australian divers in 2005.", "Underwater visibility typically ranges 10-15 meters."],
+    },
+  },
   {
     id: "lourdes-grotto-landmarks-v2",
     type: "landmark",
     parent: "TL-ER",
     coords: [125.4000, -8.7500],
-    name: { de: "Grotte Unserer Lieben Frau von Lourdes", hu: "Lourdes-i Miasszonyunk Barlangja", ro: "Grota Maicii Domnului de la Lourdes", en: "Grotto of Our Lady of Lourdes",
-image: "/poi-images/lourdes-grotto-landmarks-v2.webp"
-},
+    name: { de: "Grotte Unserer Lieben Frau von Lourdes", hu: "Lourdes-i Miasszonyunk Barlangja", ro: "Grota Maicii Domnului de la Lourdes", en: "Grotto of Our Lady of Lourdes"},
+    image: "/poi-images/lourdes-grotto-landmarks-v2.webp",
     description: { de: "Eine friedliche katholische Pilgerstätte, die der berühmten Grotte in Frankreich nachempfunden ist.", hu: "Egy békés katolikus zarándokhely, amelyet a híres franciaországi barlang mintájára alakítottak ki.", ro: "Un loc de pelerinaj catolic pașnic, modelat după faimoasa grotă din Franța.", en: "A peaceful Catholic pilgrimage site modeled after the famous grotto in France." },
     facts: {
       de: ["Die Stätte bietet einen weiten Blick über die Berge.", "Sie ist ein Ort des Gebets für Einheimische."],
       hu: ["A helyszínről széles kilátás nyílik a hegyekre.", "A helyiek számára az imádság helye."],
       ro: ["Locul oferă o vedere largă asupra munților.", "Este un loc de rugăciune pentru localnici."],
       en: ["The site offers a wide view over the mountains.", "It is a place of prayer for locals."]
-    }, image: "/poi-images/lourdes-grotto-landmarks-v2.webp"},
+    }, image: "/poi-images/lourdes-grotto-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Grotte Unserer Lieben Frau von Lourdes ist eine katholische Gebetsstätte in Dili, Osttimor, gelegen im Stadtteil Motael. Sie wurde 1997 erbaut und ist eine Nachbildung der berühmten Grotte von Lourdes in Frankreich. Die Stätte besteht aus einer künstlichen Grotte mit einer Marienstatue und einem Altar im Freien. Sie dient als Ort für Messen und Wallfahrten, besonders am 11. Februar, dem Fest Unserer Lieben Frau von Lourdes. Die Grotte ist von tropischen Pflanzen umgeben und bietet einen ruhigen Ort der Besinnung in der geschäftigen Stadt.",
+      hu: "A Lourdes-i Szűzanya Grotto egy katolikus imahely Kelet-Timor fővárosában, Diliben, a Motael negyedben. 1997-ben épült, és a híres franciaországi lourdes-i grotto másolata. A helyszín egy mesterséges grottóból áll, Mária-szoborral és szabadtéri oltárral. Misék és zarándoklatok helyszíne, különösen február 11-én, Lourdes-i Szűzanya ünnepén. A grottót trópusi növények veszik körül, nyugodt elmélkedési helyet biztosítva a nyüzsgő városban.",
+      ro: "Grota Maicii Domnului de la Lourdes este un loc de rugăciune catolic din Dili, Timorul de Est, situat în cartierul Motael. A fost construită în 1997 și este o replică a celebrei grote din Lourdes, Franța. Locul constă dintr-o grotă artificială cu o statuie a Fecioarei Maria și un altar în aer liber. Servește ca loc pentru liturghii și pelerinaje, în special pe 11 februarie, sărbătoarea Maicii Domnului de la Lourdes. Grota este înconjurată de plante tropicale, oferind un spațiu liniștit de reflecție în orașul agitat.",
+      en: "The Grotto of Our Lady of Lourdes is a Catholic prayer site in Dili, East Timor, located in the Motael neighborhood. Built in 1997, it is a replica of the famous grotto in Lourdes, France. The site consists of an artificial grotto with a statue of the Virgin Mary and an outdoor altar. It serves as a venue for Masses and pilgrimages, especially on February 11, the Feast of Our Lady of Lourdes. The grotto is surrounded by tropical plants, offering a quiet place for reflection in the bustling city.",
+    },
+    factsAdvanced: {
+      de: ["Die Grotte wurde am 11. Februar 1997 eingeweiht.", "Die Marienstatue ist 1,5 Meter hoch.", "Der Altar wurde aus lokalem Kalkstein gefertigt.", "Die Grotte liegt 500 Meter vom Hafen von Dili entfernt.", "Jährlich besuchen etwa 20.000 Pilger die Stätte.", "Die Anlage umfasst 400 m²."],
+      hu: ["A grottót 1997. február 11-én avatták fel.", "A Mária-szobor 1,5 méter magas.", "Az oltár helyi mészkőből készült.", "A grotto 500 méterre található Dili kikötőjétől.", "Évente mintegy 20.000 zarándok látogatja a helyszínt.", "A terület 400 m²."],
+      ro: ["Grota a fost sfințită la 11 februarie 1997.", "Statuia Fecioarei Maria are 1,5 metri înălțime.", "Altarul a fost realizat din calcar local.", "Grota se află la 500 de metri de portul Dili.", "Aproximativ 20.000 de pelerini vizitează anual locul.", "Incinta acoperă 400 m²."],
+      en: ["The grotto was inaugurated on February 11, 1997.", "The statue of the Virgin Mary is 1.5 meters tall.", "The altar was made from local limestone.", "The grotto is 500 meters from Dili's harbor.", "Approximately 20,000 pilgrims visit annually.", "The site covers 400 m²."],
+    },
+  },
   {
     id: "letefoho-coffee-landmarks-v2",
     type: "landmark",
     parent: "TL-ER",
     coords: [125.4333, -8.8333],
-    name: { de: "Kaffeeplantagen von Letefoho", hu: "Letefoho kávéültetvényei", ro: "Plantațiile de Cafea din Letefoho", en: "Letefoho Coffee Plantations",
-image: "/poi-images/letefoho-coffee-landmarks-v2.webp"
-},
+    name: { de: "Kaffeeplantagen von Letefoho", hu: "Letefoho kávéültetvényei", ro: "Plantațiile de Cafea din Letefoho", en: "Letefoho Coffee Plantations"},
+    image: "/poi-images/letefoho-coffee-landmarks-v2.webp",
     description: { de: "Malerische Plantagen in den Bergen, auf denen weltberühmter Bio-Kaffee in großer Höhe angebaut wird.", hu: "Festői ültetvények a hegyekben, ahol világhírű bio kávét termesztenek nagy tengerszint feletti magasságban.", ro: "Plantații pitorești în munți, unde se cultivă cafea organică de renume mondial la mare altitudine.", en: "Picturesque plantations in the mountains where world-famous organic coffee is grown at high altitudes." },
     facts: {
       de: ["Die Region liegt auf über 1000 Metern Höhe.", "Timoresischer Kaffee ist eines der wichtigsten Exportgüter."],
       hu: ["A régió több mint 1000 méteres tengerszint feletti magasságban fekszik.", "A timori kávé az egyik legfontosabb exportcikk."],
       ro: ["Regiunea este situată la peste 1000 de metri altitudine.", "Cafeaua timoreză este una dintre cele mai importante exporturi."],
       en: ["The region is located at over 1000 meters altitude.", "Timorese coffee is one of the most important exports."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Letefoho Kaffeeplantagen liegen im Hochland von Osttimor, in der Gemeinde Ermera, etwa 60 km südwestlich von Dili. Die Region ist bekannt für den Anbau von Arabica-Kaffee, der auf einer Höhe von 1.000 bis 1.500 Metern gedeiht. Die Plantagen sind traditionell bewirtschaftet, häufig von Familienbetrieben, und der Kaffee wird unter Schattenbäumen wie Albizia angebaut. Der Letefoho-Kaffee zeichnet sich durch ein mildes Aroma mit geringer Säure aus. Die Erntezeit dauert von April bis September.",
+      hu: "A Letefoho Kávéültetvények Kelet-Timor felföldjén, Ermera településen találhatók, Dilitől mintegy 60 km-re délnyugatra. A régió híres az Arabica kávé termesztéséről, amely 1.000-1.500 méteres tengerszint feletti magasságban virágzik. Az ültetvényeket hagyományosan művelik, gyakran családi gazdaságok, és a kávét árnyékfák, például Albizia alatt termesztik. A Letefoho kávé enyhe aromájú, alacsony savtartalmú. A betakarítási időszak áprilistól szeptemberig tart.",
+      ro: "Plantațiile de cafea Letefoho sunt situate în zonele înalte ale Timorului de Est, în municipalitatea Ermera, la aproximativ 60 km sud-vest de Dili. Regiunea este renumită pentru cultivarea cafelei Arabica, care prosperă la altitudini cuprinse între 1.000 și 1.500 de metri. Plantațiile sunt gestionate tradițional, adesea de familii, iar cafeaua este cultivată sub arbori de umbră, precum Albizia. Cafeaua Letefoho se remarcă prin aroma blândă și aciditatea scăzută. Recoltarea are loc din aprilie până în septembrie.",
+      en: "Letefoho Coffee Plantations are located in the highlands of East Timor, in Ermera municipality, about 60 km southwest of Dili. The region is renowned for growing Arabica coffee, thriving at altitudes of 1,000 to 1,500 meters. The plantations are traditionally managed, often by family farms, and coffee is cultivated under shade trees like Albizia. Letefoho coffee is characterized by a mild aroma with low acidity. The harvest season runs from April to September.",
+    },
+    factsAdvanced: {
+      de: ["Die Anbaufläche der Plantagen beträgt etwa 500 Hektar.", "Der durchschnittliche Ertrag liegt bei 800 kg grüner Kaffeebohnen pro Hektar.", "Die Kaffeepflanzen sind durchschnittlich 20 Jahre alt.", "Die Region erhält jährlich 2.000 mm Niederschlag.", "Letefoho liegt auf einer Höhe von 1.200 Metern.", "Etwa 2.000 Familien sind in der Kaffeeproduktion tätig."],
+      hu: ["Az ültetvények területe körülbelül 500 hektár.", "Az átlagos hozam 800 kg zöld kávébab hektáronként.", "A kávénövények átlagéletkora 20 év.", "A régió éves csapadékmennyisége 2.000 mm.", "Letefoho 1.200 méteres magasságban fekszik.", "Körülbelül 2.000 család foglalkozik kávétermesztéssel."],
+      ro: ["Suprafața plantațiilor este de aproximativ 500 de hectare.", "Randamentul mediu este de 800 kg de boabe de cafea verde la hectar.", "Plantele de cafea au o vârstă medie de 20 de ani.", "Regiunea primește anual 2.000 mm de precipitații.", "Letefoho este situat la o altitudine de 1.200 de metri.", "Aproximativ 2.000 de familii sunt implicate în producția de cafea."],
+      en: ["The plantation area covers about 500 hectares.", "Average yield is 800 kg of green coffee beans per hectare.", "Coffee plants have an average age of 20 years.", "The region receives 2,000 mm of rainfall annually.", "Letefoho is at an altitude of 1,200 meters.", "Approximately 2,000 families are involved in coffee production."],
+    },
   }
 ];

@@ -72,41 +72,6 @@ export const vaticanCountry: POI = {
 
 export const vaticanPois: POI[] = [
   {
-    id: "landmark-st-peters-basilica",
-    type: "landmark",
-    parent: "country-vatican",
-    coords: [12.4539, 41.9022],
-    name: {
-      de: "Petersdom",
-      hu: "Szent Péter-bazilika",
-      ro: "Bazilica Sfântul Petru",
-      en: "St. Peter's Basilica"
-    },
-    description: {
-      de: "Die größte und prächtigste Kirche der Christenheit, ein Meisterwerk der Renaissance und des Barock.",
-      hu: "A kereszténység legnagyobb és legpompásabb temploma, a reneszánsz és barokk építészet mesterműve.",
-      ro: "Cea mai mare și mai splendidă biserică a creștinătății, o capodoperă a Renașterii și Barocului.",
-      en: "The largest and most magnificent church in Christendom, a masterpiece of Renaissance and Baroque architecture."
-    }
-  },
-  {
-    id: "landmark-st-peters-square",
-    type: "landmark",
-    parent: "country-vatican",
-    coords: [12.4572, 41.9022],
-    name: {
-      de: "Petersplatz",
-      hu: "Szent Péter tér",
-      ro: "Piața Sfântul Petru",
-      en: "St. Peter's Square"
-    },
-    description: {
-      de: "Der monumentale Platz vor dem Petersdom, entworfen von Gian Lorenzo Bernini.",
-      hu: "A Szent Péter-bazilika előtti monumentális tér, melyet Gian Lorenzo Bernini tervezett.",
-      ro: "Piața monumentală din fața Bazilicii Sfântul Petru, proiectată de Gian Lorenzo Bernini.",
-      en: "The monumental square in front of St. Peter's Basilica, designed by Gian Lorenzo Bernini."
-    }, image: "/poi-images/landmark-st-peters-square.webp"},
-  {
     id: "landmark-vatican-museums",
     type: "landmark",
     parent: "country-vatican",

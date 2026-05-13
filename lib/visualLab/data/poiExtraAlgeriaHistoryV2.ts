@@ -11,9 +11,8 @@ export const poiExtraAlgeriaHistoryV2: POI[] = [
       de: "Timgad",
       hu: "Timgad",
       ro: "Timgad",
-      en: "Timgad",
-image: "/poi-images/timgad-roman-ruins-history-v2.webp"
-},
+      en: "Timgad"},
+    image: "/poi-images/timgad-roman-ruins-history-v2.webp",
     description: {
       de: "Eine römische Koloniestadt in Nordafrika, die von Kaiser Trajan gegründet wurde und für ihren exzellenten Rasterplan bekannt ist.",
       hu: "Traianus római császár által alapított ókori város Észak-Afrikában, amely kiváló rácsos utcahálózatáról híres.",
@@ -47,9 +46,8 @@ image: "/poi-images/timgad-roman-ruins-history-v2.webp"
       de: "Djémila",
       hu: "Dzsemila",
       ro: "Djémila",
-      en: "Djémila",
-image: "/poi-images/djemila-cuicul-history-v2.webp"
-},
+      en: "Djémila"},
+    image: "/poi-images/djemila-cuicul-history-v2.webp",
     description: {
       de: "Ein ehemaliges römisches Militärlager, dessen gut erhaltene Ruinen sich in die bergige Landschaft Nordalgeriens einfügen.",
       hu: "Egykori római katonai tábor, melynek jól megőrzött romjai az észak-algériai hegyvidéki tájba illeszkednek.",
@@ -83,9 +81,8 @@ image: "/poi-images/djemila-cuicul-history-v2.webp"
       de: "Tipasa-Ruinen",
       hu: "Tipasa romjai",
       ro: "Ruinele Tipasa",
-      en: "Tipasa Ruins",
-image: "/poi-images/tipasa-ruins-history-v2.webp"
-},
+      en: "Tipasa Ruins"},
+    image: "/poi-images/tipasa-ruins-history-v2.webp",
     description: {
       de: "Ein antiker punischer Handelsposten, der von Rom erobert wurde und direkt an der Mittelmeerküste liegt.",
       hu: "Ókori pun kereskedelmi állomás a Földközi-tenger partján, amelyet a rómaiak hódítottak meg.",
@@ -119,9 +116,8 @@ image: "/poi-images/tipasa-ruins-history-v2.webp"
       de: "Kasbah von Algier",
       hu: "Algíri Kaszba",
       ro: "Kasbah-ul din Alger",
-      en: "Kasbah of Algiers",
-image: "/poi-images/kasbah-algiers-history-v2.webp"
-},
+      en: "Kasbah of Algiers"},
+    image: "/poi-images/kasbah-algiers-history-v2.webp",
     description: {
       de: "Die historische islamische Zitadelle und Altstadt von Algier, berühmt für ihre engen Gassen und osmanischen Paläste.",
       hu: "Algír történelmi iszlám fellegvára és óvárosa, amely szűk utcáiról és oszmán palotáiról híres.",
@@ -155,9 +151,8 @@ image: "/poi-images/kasbah-algiers-history-v2.webp"
       de: "Qal'a von Beni Hammad",
       hu: "Beni Hammad erődje",
       ro: "Qal'a Beni Hammad",
-      en: "Qal'a of Beni Hammad",
-image: "/poi-images/qala-beni-hammad-history-v2.webp"
-},
+      en: "Qal'a of Beni Hammad"},
+    image: "/poi-images/qala-beni-hammad-history-v2.webp",
     description: {
       de: "Die Ruinen der ersten Hauptstadt der Hammadiden-Emire, gelegen in einer bergigen Umgebung auf über 1000 Metern Höhe.",
       hu: "A Hammádida emírek első fővárosának romjai, több mint 1000 méteres magasságban, hegyvidéki környezetben.",
@@ -191,9 +186,8 @@ image: "/poi-images/qala-beni-hammad-history-v2.webp"
       de: "M'zab-Tal",
       hu: "M'zab-völgy",
       ro: "Valea M'zab",
-      en: "M'zab Valley",
-image: "/poi-images/mzab-valley-history-v2.webp"
-},
+      en: "M'zab Valley"},
+    image: "/poi-images/mzab-valley-history-v2.webp",
     description: {
       de: "Eine Ansammlung von fünf befestigten Wüstenstädten (Ksur), die im 11. Jahrhundert von den Ibaditen im Sahara-Gestein erbaut wurden.",
       hu: "Öt erődített sivatagi városból (kszur) álló csoport, amelyet a 11. században az ibáditák építettek a Szaharában.",
@@ -227,9 +221,8 @@ image: "/poi-images/mzab-valley-history-v2.webp"
       de: "Mausoleum von Mauretanien",
       hu: "Mauretania királyi mauzóleuma",
       ro: "Mausoleul regal al Mauretaniei",
-      en: "Royal Mausoleum of Mauretania",
-image: "/poi-images/mausoleum-mauretania-history-v2.webp"
-},
+      en: "Royal Mausoleum of Mauretania"},
+    image: "/poi-images/mausoleum-mauretania-history-v2.webp",
     description: {
       de: "Ein massives Grabdenkmal in Form einer Pyramide, das die Berberkönige Juba II. und Kleopatra Selene II. beherbergte.",
       hu: "Piramis alakú hatalmas síremlék, amely II. Juba berber király és II. Kleopátra Szeléné nyughelye volt.",
@@ -263,9 +256,8 @@ image: "/poi-images/mausoleum-mauretania-history-v2.webp"
       de: "Lambaesis",
       hu: "Lambaesis",
       ro: "Lambaesis",
-      en: "Lambaesis",
-image: "/poi-images/lambaesis-history-v2.webp"
-},
+      en: "Lambaesis"},
+    image: "/poi-images/lambaesis-history-v2.webp",
     description: {
       de: "Die Überreste eines großen römischen Legionslagers in der Provinz Numidien, das als Stützpunkt der Legio III Augusta diente.",
       hu: "Egy hatalmas római légióstábor maradványai Numidia provinciában, amely a Legio III Augusta bázisául szolgált.",
@@ -299,9 +291,8 @@ image: "/poi-images/lambaesis-history-v2.webp"
       de: "Tiddis",
       hu: "Tiddis romjai",
       ro: "Ruinele Tiddis",
-      en: "Tiddis",
-image: "/poi-images/tiddis-ruins-history-v2.webp"
-},
+      en: "Tiddis"},
+    image: "/poi-images/tiddis-ruins-history-v2.webp",
     description: {
       de: "Eine antike römische Stadt, die malerisch auf roten Felsklippen terrassenförmig angelegt wurde, abhängig von einer Wasserzisterne.",
       hu: "Ókori római város, amely festői vörös sziklákra épült teraszosan, és egy ősi víztározóra támaszkodott.",
@@ -335,9 +326,8 @@ image: "/poi-images/tiddis-ruins-history-v2.webp"
       de: "Mansourah-Moschee",
       hu: "Manszurah-mecset",
       ro: "Moscheea Mansourah",
-      en: "Mansourah Mosque",
-image: "/poi-images/mansourah-mosque-history-v2.webp"
-},
+      en: "Mansourah Mosque"},
+    image: "/poi-images/mansourah-mosque-history-v2.webp",
     description: {
       de: "Die eindrucksvollen Ruinen einer Festungsstadt und Moschee, die im 14. Jahrhundert während der Belagerung von Tlemcen durch die Meriniden erbaut wurde.",
       hu: "Egy 14. századi erődváros és mecset lenyűgöző romjai, amelyet a Merinidák építettek Tlemcen ostroma során.",
@@ -371,9 +361,8 @@ image: "/poi-images/mansourah-mosque-history-v2.webp"
       de: "Khemissa",
       hu: "Khemissa",
       ro: "Khemissa",
-      en: "Khemissa",
-image: "/poi-images/khemissa-thubursicum-history-v2.webp"
-},
+      en: "Khemissa"},
+    image: "/poi-images/khemissa-thubursicum-history-v2.webp",
     description: {
       de: "Antikes Thubursicum Numidarum mit einem der am besten erhaltenen römischen Theater Nordafrikas inmitten hügeliger Landschaft.",
       hu: "Az ókori Thubursicum Numidarum városa Észak-Afrika egyik legjobb állapotban fennmaradt dombvidéki római színházával.",
@@ -407,9 +396,8 @@ image: "/poi-images/khemissa-thubursicum-history-v2.webp"
       de: "Madauros",
       hu: "Madaurus",
       ro: "Madauros",
-      en: "Madauros",
-image: "/poi-images/madauros-history-v2.webp"
-},
+      en: "Madauros"},
+    image: "/poi-images/madauros-history-v2.webp",
     description: {
       de: "Eine antike numidisch-römische Stadt, die als wichtiges Zentrum der frühchristlichen Theologie und Literatur in Afrika galt.",
       hu: "Ókori numidiai-római város, amely a kora keresztény teológia és irodalom fontos afrikai központja volt.",
@@ -443,9 +431,8 @@ image: "/poi-images/madauros-history-v2.webp"
       de: "Hippo Regius",
       hu: "Hippo Regius",
       ro: "Hippo Regius",
-      en: "Hippo Regius",
-image: "/poi-images/hippo-regius-history-v2.webp"
-},
+      en: "Hippo Regius"},
+    image: "/poi-images/hippo-regius-history-v2.webp",
     description: {
       de: "Die antiken Ruinen einer bedeutenden phönizischen, berberischen und römischen Hafenstadt, in der Augustinus von Hippo lebte.",
       hu: "Egy jelentős föníciai, berber és római kikötőváros ókori romjai, ahol Hippói Szent Ágoston élt.",
@@ -479,9 +466,8 @@ image: "/poi-images/hippo-regius-history-v2.webp"
       de: "Calama",
       hu: "Calama (Guelma)",
       ro: "Calama",
-      en: "Calama",
-image: "/poi-images/calama-guelma-history-v2.webp"
-},
+      en: "Calama"},
+    image: "/poi-images/calama-guelma-history-v2.webp",
     description: {
       de: "Römische Siedlung, berühmt für ihr gut restauriertes antikes Theater, das heute noch eindrucksvolle Statuen beherbergt.",
       hu: "Római kori település, amely jól felújított ókori színházáról és lenyűgöző szobrairól ismert.",
@@ -515,9 +501,8 @@ image: "/poi-images/calama-guelma-history-v2.webp"
       de: "Fort Santa Cruz",
       hu: "Santa Cruz erőd",
       ro: "Fortul Santa Cruz",
-      en: "Fort Santa Cruz",
-image: "/poi-images/fort-santa-cruz-oran-history-v2.webp"
-},
+      en: "Fort Santa Cruz"},
+    image: "/poi-images/fort-santa-cruz-oran-history-v2.webp",
     description: {
       de: "Eine massive Festung, die von den Spaniern im 16. Jahrhundert auf dem Berg Murdjadjo erbaut wurde, um den Hafen von Oran zu schützen.",
       hu: "A spanyolok által a 16. században a Murdjadjo-hegyen épített masszív erődítmény Orán kikötőjének védelmére.",
@@ -551,9 +536,8 @@ image: "/poi-images/fort-santa-cruz-oran-history-v2.webp"
       de: "Medracen",
       hu: "Medracen",
       ro: "Medracen",
-      en: "Medracen",
-image: "/poi-images/medracen-history-v2.webp"
-},
+      en: "Medracen"},
+    image: "/poi-images/medracen-history-v2.webp",
     description: {
       de: "Ein antikes, zylinderförmiges nubisches Königsgrab, das als ältestes königliches Mausoleum in Nordafrika gilt.",
       hu: "Ókori, henger alakú numídiai királysír, amely Észak-Afrika legrégebbi királyi mauzóleumának számít.",
@@ -587,9 +571,8 @@ image: "/poi-images/medracen-history-v2.webp"
       de: "Cirta",
       hu: "Cirta ókori romjai",
       ro: "Ruinele Cirta",
-      en: "Cirta Ruins",
-image: "/poi-images/cirta-ruins-history-v2.webp"
-},
+      en: "Cirta Ruins"},
+    image: "/poi-images/cirta-ruins-history-v2.webp",
     description: {
       de: "Die alte Hauptstadt des Königreichs Numidien, aus der später das moderne Constantine mit seinen Schluchten hervorging.",
       hu: "A Numidiai Királyság egykori fővárosa, amelyből később a mai szurdokokkal teli Constantine városa fejlődött ki.",
@@ -623,9 +606,8 @@ image: "/poi-images/cirta-ruins-history-v2.webp"
       de: "Sigus Megalithen",
       hu: "Sigus megalitikus emlékek",
       ro: "Megalitii Sigus",
-      en: "Sigus Megaliths",
-image: "/poi-images/sigus-megaliths-history-v2.webp"
-},
+      en: "Sigus Megaliths"},
+    image: "/poi-images/sigus-megaliths-history-v2.webp",
     description: {
       de: "Eine beeindruckende Ansammlung prähistorischer Steingräber und Dolmen, die von alten Zivilisationen in der Region hinterlassen wurden.",
       hu: "A régió ősi civilizációi által hátrahagyott történelem előtti kősírok és dolmenek lenyűgöző gyűjteménye.",
@@ -659,9 +641,8 @@ image: "/poi-images/sigus-megaliths-history-v2.webp"
       de: "Roknia Dolmen",
       hu: "Rokniai dolmenek",
       ro: "Dolmenele Roknia",
-      en: "Roknia Dolmens",
-image: "/poi-images/roknia-dolmens-history-v2.webp"
-},
+      en: "Roknia Dolmens"},
+    image: "/poi-images/roknia-dolmens-history-v2.webp",
     description: {
       de: "Eine riesige prähistorische Nekropole in Ostalgerien, die mehr als tausend antike Dolmen und Grabanlagen umfasst.",
       hu: "Egy hatalmas történelem előtti nekropolisz Kelet-Algériában, amely több mint ezer ősi dolment és sírhelyet tartalmaz.",
@@ -695,9 +676,8 @@ image: "/poi-images/roknia-dolmens-history-v2.webp"
       de: "Zana",
       hu: "Zana",
       ro: "Zana",
-      en: "Zana",
-image: "/poi-images/zana-diana-veteranorum-history-v2.webp"
-},
+      en: "Zana"},
+    image: "/poi-images/zana-diana-veteranorum-history-v2.webp",
     description: {
       de: "Ruinenstadt der römischen Kolonie Diana Veteranorum, die Veteranen der Legio III Augusta beherbergte und einen Triumphbogen aufweist.",
       hu: "Diana Veteranorum római kolónia romvárosa, amely a Legio III Augusta veteránjainak adott otthont és egy diadalívvel is büszkélkedhet.",
@@ -731,9 +711,8 @@ image: "/poi-images/zana-diana-veteranorum-history-v2.webp"
       de: "Tobna",
       hu: "Tobna",
       ro: "Tobna",
-      en: "Tobna",
-image: "/poi-images/tobna-tubunae-history-v2.webp"
-},
+      en: "Tobna"},
+    image: "/poi-images/tobna-tubunae-history-v2.webp",
     description: {
       de: "Einst eine bedeutende numidische und später römische und islamische Stadt, von der heute nur noch archäologische Reste erhalten sind.",
       hu: "Egykor jelentős numídiai, majd római és iszlám város, amelyből mára csak régészeti maradványok maradtak fenn.",
@@ -767,9 +746,8 @@ image: "/poi-images/tobna-tubunae-history-v2.webp"
       de: "Ksar von Béni Abbès",
       hu: "Béni Abbès-i kszar",
       ro: "Ksar de Béni Abbès",
-      en: "Ksar of Béni Abbès",
-image: "/poi-images/ksar-beni-abbes-history-v2.webp"
-},
+      en: "Ksar of Béni Abbès"},
+    image: "/poi-images/ksar-beni-abbes-history-v2.webp",
     description: {
       de: "Eine traditionelle Oasen-Festungsstadt im Saoura-Tal, die tief in der Sahara liegt und eine reiche Karawanengeschichte hat.",
       hu: "Hagyományos oázis-erődváros a Saoura-völgyben, amely mélyen a Szaharában fekszik és gazdag karavántörténelemmel rendelkezik.",
@@ -803,9 +781,8 @@ image: "/poi-images/ksar-beni-abbes-history-v2.webp"
       de: "El-Mechouar Palast",
       hu: "El-Mechouar palota",
       ro: "Palatul El-Mechouar",
-      en: "El-Mechouar Palace",
-image: "/poi-images/el-mechouar-palace-history-v2.webp"
-},
+      en: "El-Mechouar Palace"},
+    image: "/poi-images/el-mechouar-palace-history-v2.webp",
     description: {
       de: "Ein historischer königlicher Palastkomplex aus dem 13. Jahrhundert, der den Ziyyaniden-Herrschern von Tlemcen als Residenz diente.",
       hu: "Egy történelmi, 13. századi királyi palotakomplexum, amely a Tlemcen-i zijjánida uralkodók rezidenciájaként szolgált.",
@@ -839,9 +816,8 @@ image: "/poi-images/el-mechouar-palace-history-v2.webp"
       de: "Große Moschee von Tlemcen",
       hu: "Tlemceni Nagymecset",
       ro: "Marea Moschee din Tlemcen",
-      en: "Tlemcen Great Mosque",
-image: "/poi-images/tlemcen-great-mosque-history-v2.webp"
-},
+      en: "Tlemcen Great Mosque"},
+    image: "/poi-images/tlemcen-great-mosque-history-v2.webp",
     description: {
       de: "Eines der besterhaltenen Beispiele almoravidischer Architektur im Maghreb, das historische religiöse Bedeutung für die Region hat.",
       hu: "Az almorávida építészet egyik legjobb állapotban fennmaradt példája a Maghreb-térségben, amely történelmi vallási jelentőséggel bír a régióban.",
@@ -875,9 +851,8 @@ image: "/poi-images/tlemcen-great-mosque-history-v2.webp"
       de: "Bida",
       hu: "Bida ókori romjai",
       ro: "Ruinele Bida",
-      en: "Bida",
-image: "/poi-images/bida-ruins-history-v2.webp"
-},
+      en: "Bida"},
+    image: "/poi-images/bida-ruins-history-v2.webp",
     description: {
       de: "Eine antike römisch-berberische Festung in der heutigen Provinz Bouira, die einst Teil des Limes Mauretaniae zur Grenzsicherung war.",
       hu: "Ókori római-berber erődítmény a mai Bouira tartományban, amely egykor a Limes Mauretaniae határvédelmi rendszer része volt.",
@@ -911,9 +886,8 @@ image: "/poi-images/bida-ruins-history-v2.webp"
       de: "Portus Magnus",
       hu: "Portus Magnus",
       ro: "Portus Magnus",
-      en: "Portus Magnus",
-image: "/poi-images/portus-magnus-history-v2.webp"
-},
+      en: "Portus Magnus"},
+    image: "/poi-images/portus-magnus-history-v2.webp",
     description: {
       de: "Die antiken römischen Hafenruinen beim heutigen Bethioua, die in der Antike für den Agrarexport von strategischer Bedeutung waren.",
       hu: "Az ókori római kikötő romjai a mai Bethioua közelében, amely az ókorban stratégiai fontosságú volt az agrárkivitel szempontjából.",
@@ -947,9 +921,8 @@ image: "/poi-images/portus-magnus-history-v2.webp"
       de: "Historisches Nédroma",
       hu: "Nédroma óvárosa",
       ro: "Orașul istoric Nédroma",
-      en: "Historic Nédroma",
-image: "/poi-images/nedroma-historic-town-history-v2.webp"
-},
+      en: "Historic Nédroma"},
+    image: "/poi-images/nedroma-historic-town-history-v2.webp",
     description: {
       de: "Eine alte andalusische Stadt in Algerien, bekannt für ihre traditionelle Architektur und als Zufluchtsort für maurische Flüchtlinge nach der Reconquista.",
       hu: "Egy régi andalúziai város Algériában, amely hagyományos építészetéről és a reconquista után a mór menekültek menedékhelyeként ismert.",
@@ -983,9 +956,8 @@ image: "/poi-images/nedroma-historic-town-history-v2.webp"
       de: "Palast des Dey",
       hu: "A Dey palotája",
       ro: "Palatul Dey",
-      en: "Palace of the Dey",
-image: "/poi-images/palace-of-the-dey-history-v2.webp"
-},
+      en: "Palace of the Dey"},
+    image: "/poi-images/palace-of-the-dey-history-v2.webp",
     description: {
       de: "Der ehemalige Sitz der osmanischen Herrscher von Algier, der eine wichtige Rolle in der diplomatischen Geschichte des Landes spielte.",
       hu: "Algír oszmán uralkodóinak egykori székhelye, amely fontos szerepet játszott az ország diplomáciai történelmében.",
@@ -1019,9 +991,8 @@ image: "/poi-images/palace-of-the-dey-history-v2.webp"
       de: "Cherchell (Caesarea)",
       hu: "Cherchell (Caesarea)",
       ro: "Cherchell",
-      en: "Cherchell",
-image: "/poi-images/cherchell-caesarea-history-v2.webp"
-},
+      en: "Cherchell"},
+    image: "/poi-images/cherchell-caesarea-history-v2.webp",
     description: {
       de: "Die antike Hauptstadt von Mauretania Caesariensis, deren bedeutende Ruinen heute von der Hafenstadt Cherchell überbaut sind.",
       hu: "Mauretania Caesariensis egykori fővárosa, amelynek jelentős romjaira a mai Cherchell kikötőváros épült.",
@@ -1055,9 +1026,8 @@ image: "/poi-images/cherchell-caesarea-history-v2.webp"
       de: "Ksar von Ouargla",
       hu: "Ouarglai kszar",
       ro: "Ksar de Ouargla",
-      en: "Ksar of Ouargla",
-image: "/poi-images/ksar-ouargla-history-v2.webp"
-},
+      en: "Ksar of Ouargla"},
+    image: "/poi-images/ksar-ouargla-history-v2.webp",
     description: {
       de: "Die alte, befestigte Saharastadt von Ouargla mit verwinkelten Gassen, die in der Antike als Tor zum tiefen Süden des Kontinents fungierte.",
       hu: "Ouargla ősi, erődített szaharai városa kanyargós utcákkal, amely az ókorban kapuként funkcionált a kontinens mélyebb déli része felé.",

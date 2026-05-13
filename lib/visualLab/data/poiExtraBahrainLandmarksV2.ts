@@ -10,9 +10,8 @@ export const poiExtraBahrainLandmarksV2: POI[] = [
       de: "Bahrain World Trade Center",
       hu: "Bahreini Világkereskedelmi Központ",
       ro: "Centrul de Comerț Mondial din Bahrain",
-      en: "Bahrain World Trade Center",
-image: "/poi-images/bh-world-trade-center-landmarks-v2.webp"
-},
+      en: "Bahrain World Trade Center"},
+    image: "/poi-images/bh-world-trade-center-landmarks-v2.webp",
     description: {
       de: "Ein 240 Meter hoher Doppelturmkomplex in Manama, der für die Integration von Windkraftanlagen in sein Design bekannt ist.",
       hu: "Egy 240 méter magas ikertorony Manamában, amely a dizájnjába épített szélturbináiról híres.",
@@ -43,9 +42,8 @@ image: "/poi-images/bh-world-trade-center-landmarks-v2.webp"
       de: "Qal'at al-Bahrain",
       hu: "Bahreini erőd",
       ro: "Fortul Bahrain",
-      en: "Qal'at al-Bahrain",
-image: "/poi-images/bh-qalat-al-bahrain-landmarks-v2.webp"
-},
+      en: "Qal'at al-Bahrain"},
+    image: "/poi-images/bh-qalat-al-bahrain-landmarks-v2.webp",
     description: {
       de: "Eine archäologische Stätte und UNESCO-Weltkulturerbe, die die antike Hauptstadt des Dilmun-Reiches repräsentiert.",
       hu: "Régészeti lelőhely és UNESCO Világörökség, amely a Dilmun birodalom egykori fővárosát jelképezi.",
@@ -76,9 +74,8 @@ image: "/poi-images/bh-qalat-al-bahrain-landmarks-v2.webp"
       de: "Al Fateh Großmoschee",
       hu: "Al Fateh Nagymecset",
       ro: "Marea Moschee Al Fateh",
-      en: "Al Fateh Grand Mosque",
-image: "/poi-images/bh-al-fateh-grand-mosque-landmarks-v2.webp"
-},
+      en: "Al Fateh Grand Mosque"},
+    image: "/poi-images/bh-al-fateh-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der größten Moscheen der Welt, die mehr als 7.000 Gläubigen gleichzeitig Platz bietet.",
       hu: "A világ egyik legnagyobb mecsete, amely több mint 7000 hívő befogadására alkalmas egyszerre.",
@@ -109,9 +106,8 @@ image: "/poi-images/bh-al-fateh-grand-mosque-landmarks-v2.webp"
       de: "Bab Al Bahrain",
       hu: "Bab Al Bahrain",
       ro: "Bab Al Bahrain",
-      en: "Bab Al Bahrain",
-image: "/poi-images/bh-bab-al-bahrain-landmarks-v2.webp"
-},
+      en: "Bab Al Bahrain"},
+    image: "/poi-images/bh-bab-al-bahrain-landmarks-v2.webp",
     description: {
       de: "Ein historisches Gebäude am Zollplatz in Manama, das den Haupteingang zum Manama Souq markiert.",
       hu: "Történelmi épület a manamai vám téren, amely a Manama Souq főbejáratát jelöli.",
@@ -142,9 +138,8 @@ image: "/poi-images/bh-bab-al-bahrain-landmarks-v2.webp"
       de: "Baum des Lebens",
       hu: "Élet fája",
       ro: "Copacul Vieții",
-      en: "Tree of Life",
-image: "/poi-images/bh-tree-of-life-landmarks-v2.webp"
-},
+      en: "Tree of Life"},
+    image: "/poi-images/bh-tree-of-life-landmarks-v2.webp",
     description: {
       de: "Ein 400 Jahre alter Mesquite-Baum, der allein in der Wüste steht und trotz des Fehlens einer sichtbaren Wasserquelle gedeiht.",
       hu: "Egy 400 éves meszkitófa, amely egyedül áll a sivatagban, és látható vízforrás hiányában is virágzik.",
@@ -175,9 +170,8 @@ image: "/poi-images/bh-tree-of-life-landmarks-v2.webp"
       de: "King Fahd Causeway",
       hu: "Fahd király híd",
       ro: "Podul Regele Fahd",
-      en: "King Fahd Causeway",
-image: "/poi-images/bh-king-fahd-causeway-landmarks-v2.webp"
-},
+      en: "King Fahd Causeway"},
+    image: "/poi-images/bh-king-fahd-causeway-landmarks-v2.webp",
     description: {
       de: "Eine 25 Kilometer lange Reihe von Brücken und Dämmen, die das Königreich Bahrain mit Saudi-Arabien verbindet.",
       hu: "Egy 25 kilométer hosszú híd- és gátrendszer, amely összeköti a Bahreini Királyságot Szaúd-Arábiával.",
@@ -208,9 +202,8 @@ image: "/poi-images/bh-king-fahd-causeway-landmarks-v2.webp"
       de: "Nationalmuseum von Bahrain",
       hu: "Bahreini Nemzeti Múzeum",
       ro: "Muzeul Național al Bahrainului",
-      en: "Bahrain National Museum",
-image: "/poi-images/bh-national-museum-landmarks-v2.webp"
-},
+      en: "Bahrain National Museum"},
+    image: "/poi-images/bh-national-museum-landmarks-v2.webp",
     description: {
       de: "Das größte und älteste öffentliche Museum in Bahrain, das Artefakte aus der 5.000-jährigen Geschichte des Landes zeigt.",
       hu: "Bahrein legnagyobb és legrégebbi nyilvános múzeuma, amely a nemzet 5000 éves történelmének leleteit mutatja be.",
@@ -241,9 +234,8 @@ image: "/poi-images/bh-national-museum-landmarks-v2.webp"
       de: "Beit Al Quran",
       hu: "Beit Al Quran",
       ro: "Beit Al Quran",
-      en: "Beit Al Quran",
-image: "/poi-images/bh-beit-al-quran-landmarks-v2.webp"
-},
+      en: "Beit Al Quran"},
+    image: "/poi-images/bh-beit-al-quran-landmarks-v2.webp",
     description: {
       de: "Ein Mehrzweckkomplex, der den islamischen Künsten gewidmet ist und eine umfangreiche Sammlung seltener Koranmanuskripte beherbergt.",
       hu: "Az iszlám művészeteknek szentelt többcélú komplexum, amely ritka Korán-kéziratok hatalmas gyűjteményének ad otthont.",
@@ -274,9 +266,8 @@ image: "/poi-images/bh-beit-al-quran-landmarks-v2.webp"
       de: "Fort Arad",
       hu: "Arad erőd",
       ro: "Fortul Arad",
-      en: "Arad Fort",
-image: "/poi-images/bh-arad-fort-landmarks-v2.webp"
-},
+      en: "Arad Fort"},
+    image: "/poi-images/bh-arad-fort-landmarks-v2.webp",
     description: {
       de: "Eine Festung aus dem 15. Jahrhundert, erbaut im typisch islamischen Stil und strategisch günstig gelegen, um die Insel Muharraq zu verteidigen.",
       hu: "Egy 15. századi, jellegzetes iszlám stílusban épült erőd, amely stratégiai elhelyezkedésével Muharraq szigetét védte.",
@@ -307,9 +298,8 @@ image: "/poi-images/bh-arad-fort-landmarks-v2.webp"
       de: "Riffa Fort",
       hu: "Riffa erőd",
       ro: "Fortul Riffa",
-      en: "Riffa Fort",
-image: "/poi-images/bh-riffa-fort-landmarks-v2.webp"
-},
+      en: "Riffa Fort"},
+    image: "/poi-images/bh-riffa-fort-landmarks-v2.webp",
     description: {
       de: "Auch bekannt als Sheikh Salman bin Ahmed Fort, bietet es einen großartigen Blick über das Hunanaiya-Tal.",
       hu: "A Sheikh Salman bin Ahmed erődjeként is ismert építmény lenyűgöző kilátást nyújt a Hunanaiya-völgyre.",
@@ -340,9 +330,8 @@ image: "/poi-images/bh-riffa-fort-landmarks-v2.webp"
       de: "Al Areen Naturpark",
       hu: "Al Areen Vadaspark",
       ro: "Parcul Natural Al Areen",
-      en: "Al Areen Wildlife Park",
-image: "/poi-images/bh-al-areen-wildlife-park-landmarks-v2.webp"
-},
+      en: "Al Areen Wildlife Park"},
+    image: "/poi-images/bh-al-areen-wildlife-park-landmarks-v2.webp",
     description: {
       de: "Ein Naturschutzgebiet und Zoo zum Schutz einheimischer arabischer Arten, darunter die Arabische Oryxantilope und verschiedene Gazellen.",
       hu: "Természetvédelmi terület és állatkert, amely az őshonos arab fajokat, köztük az arab bejza antilopot és a gazellákat védi.",
@@ -373,9 +362,8 @@ image: "/poi-images/bh-al-areen-wildlife-park-landmarks-v2.webp"
       de: "Bahrain International Circuit",
       hu: "Bahrain International Circuit",
       ro: "Circuitul Internațional Bahrain",
-      en: "Bahrain International Circuit",
-image: "/poi-images/bh-international-circuit-landmarks-v2.webp"
-},
+      en: "Bahrain International Circuit"},
+    image: "/poi-images/bh-international-circuit-landmarks-v2.webp",
     description: {
       de: "Eine High-Tech-Motorsportstätte in Sakhir, in der jährlich der Formel-1-Grand-Prix von Bahrain stattfindet.",
       hu: "Egy csúcstechnológiás motorsport helyszín Sakhirban, amely az éves Formula–1 bahreini nagydíjnak ad otthont.",
@@ -406,9 +394,8 @@ image: "/poi-images/bh-international-circuit-landmarks-v2.webp"
       de: "Königliche Kamelfarm",
       hu: "Királyi Tevefarm",
       ro: "Ferma Regală de Cămile",
-      en: "Royal Camel Farm",
-image: "/poi-images/bh-royal-camel-farm-landmarks-v2.webp"
-},
+      en: "Royal Camel Farm"},
+    image: "/poi-images/bh-royal-camel-farm-landmarks-v2.webp",
     description: {
       de: "Eine bewirtschaftete Farm, die Hunderte von Kamelen der königlichen Familie beherbergt und Besuchern ein hautnahes Erlebnis bietet.",
       hu: "Egy működő farm, ahol a királyi család több száz tevéje él, és ahol a látogatók testközelből is megismerhetik őket.",
@@ -439,9 +426,8 @@ image: "/poi-images/bh-royal-camel-farm-landmarks-v2.webp"
       de: "Bu Maher Fort",
       hu: "Bu Maher erőd",
       ro: "Fortul Bu Maher",
-      en: "Bu Maher Fort",
-image: "/poi-images/bh-bu-maher-fort-landmarks-v2.webp"
-},
+      en: "Bu Maher Fort"},
+    image: "/poi-images/bh-bu-maher-fort-landmarks-v2.webp",
     description: {
       de: "Eine historische Festung aus dem Jahr 1840, die eng mit Bahrains reicher Perlentauchergeschichte verbunden ist.",
       hu: "Egy történelmi, 1840-ben épült erőd, amely szorosan kapcsolódik Bahrein gazdag gyöngyhalászati történelméhez.",
@@ -472,9 +458,8 @@ image: "/poi-images/bh-bu-maher-fort-landmarks-v2.webp"
       de: "Barbar-Tempel",
       hu: "Barbar templom",
       ro: "Templul Barbar",
-      en: "Barbar Temple",
-image: "/poi-images/bh-barbar-temple-landmarks-v2.webp"
-},
+      en: "Barbar Temple"},
+    image: "/poi-images/bh-barbar-temple-landmarks-v2.webp",
     description: {
       de: "Eine archäologische Stätte, die aus drei aufeinanderfolgenden Dilmun-Tempeln besteht, die über antiken Süßwasserquellen erbaut wurden.",
       hu: "Egy régészeti lelőhely, amely három, egymást követő Dilmun templomból áll, amelyeket ősi édesvizű források fölé építettek.",
@@ -505,9 +490,8 @@ image: "/poi-images/bh-barbar-temple-landmarks-v2.webp"
       de: "Dilmun-Hügelgräber",
       hu: "Dilmun sírhalmok",
       ro: "Movilele funerare Dilmun",
-      en: "Dilmun Burial Mounds",
-image: "/poi-images/bh-dilmun-burial-mounds-landmarks-v2.webp"
-},
+      en: "Dilmun Burial Mounds"},
+    image: "/poi-images/bh-dilmun-burial-mounds-landmarks-v2.webp",
     description: {
       de: "Ein UNESCO-Weltkulturerbe, das aus Zehntausenden von antiken Hügelgräbern aus der Zeit der Dilmun-Zivilisation besteht.",
       hu: "UNESCO Világörökség, amely több tízezer ősi, a Dilmun civilizáció idejéből származó halomsírból áll.",
@@ -538,9 +522,8 @@ image: "/poi-images/bh-dilmun-burial-mounds-landmarks-v2.webp"
       de: "Al Khamis Moschee",
       hu: "Al Khamis mecset",
       ro: "Moscheea Al Khamis",
-      en: "Al Khamis Mosque",
-image: "/poi-images/bh-al-khamis-mosque-landmarks-v2.webp"
-},
+      en: "Al Khamis Mosque"},
+    image: "/poi-images/bh-al-khamis-mosque-landmarks-v2.webp",
     description: {
       de: "Gilt als die erste Moschee in Bahrain und zeichnet sich durch zwei markante Zwillingsminarette aus.",
       hu: "Vélhetően Bahrein első mecsete, amelynek két jellegzetes ikerminaretje messziről is jól látható.",
@@ -571,9 +554,8 @@ image: "/poi-images/bh-al-khamis-mosque-landmarks-v2.webp"
       de: "Muharraq Souq",
       hu: "Muharraq Piac",
       ro: "Souq-ul Muharraq",
-      en: "Muharraq Souq",
-image: "/poi-images/bh-muharraq-souq-landmarks-v2.webp"
-},
+      en: "Muharraq Souq"},
+    image: "/poi-images/bh-muharraq-souq-landmarks-v2.webp",
     description: {
       de: "Ein traditioneller Markt, der authentische bahrainische Süßigkeiten, Gewürze und traditionelles Kunsthandwerk in historischem Ambiente bietet.",
       hu: "Hagyományos piac, amely autentikus bahreini édességeket, fűszereket és hagyományos kézműves termékeket kínál régimódi környezetben.",
@@ -604,9 +586,8 @@ image: "/poi-images/bh-muharraq-souq-landmarks-v2.webp"
       de: "Al Dar Inseln",
       hu: "Al Dar szigetek",
       ro: "Insulele Al Dar",
-      en: "Al Dar Islands",
-image: "/poi-images/bh-al-dar-islands-landmarks-v2.webp"
-},
+      en: "Al Dar Islands"},
+    image: "/poi-images/bh-al-dar-islands-landmarks-v2.webp",
     description: {
       de: "Ein beliebtes Inselresort in der Nähe von Sitra, bekannt für seine unberührten Strände und Wassersportmöglichkeiten.",
       hu: "Népszerű szigeti üdülőhely Sitra közelében, amely érintetlen strandjairól és vízi sportjairól ismert.",
@@ -637,9 +618,8 @@ image: "/poi-images/bh-al-dar-islands-landmarks-v2.webp"
       de: "Haus von Scheich Isa Bin Ali",
       hu: "Shaikh Isa Bin Ali Ház",
       ro: "Casa Șeicului Isa Bin Ali",
-      en: "Shaikh Isa Bin Ali House",
-image: "/poi-images/bh-shaikh-isa-bin-ali-house-landmarks-v2.webp"
-},
+      en: "Shaikh Isa Bin Ali House"},
+    image: "/poi-images/bh-shaikh-isa-bin-ali-house-landmarks-v2.webp",
     description: {
       de: "Eines der besten Beispiele für die islamische Golfarchitektur mit traditionellen Windtürmen und geschnitzten Holztüren.",
       hu: "Az iszlám öbölbeli építészet egyik legszebb példája, hagyományos széltornyokkal és faragott fa ajtókkal.",

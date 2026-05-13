@@ -48,14 +48,11 @@ image: "/poi-images/seehafen-malabo-economic-v2.webp"
     ,
     descriptionAdvanced: { hu: "Bata kikötője Egyenlítői-Gínea legnagyobb szárazföldi kikötője, amely a Rio Muni régió gazdasági központja. A kikötő alapvető fontosságú a belső területekről származó áruk, különösen a fa és a mezőgazdasági termények exportjában. Az utóbbi években végrehajtott nagyszabású bővítések során új hullámtörő gátak és terminálok épültek, jelentősen növelve a kapacitást. A kikötő közvetlen kapcsolatban áll a szárazföldet átszelő autópályákkal, megkönnyítve az áruforgalmat Mongomo és Ebebiyín felé. Bata kikötője nemcsak gazdasági, hanem stratégiai pont is, amely biztosítja a szárazföldi országrész ellátását minden alapvető cikkel.", ro: "Portul Bata este cea mai mare și mai semnificativă facilitate maritimă de pe continentul Guineei Ecuatoriale, servind drept motor economic pentru regiunea Río Muni. Digul său lung și distinctiv oferă adăpost unei game largi de nave, de la cargouri internaționale la flote locale de pescuit. Portul este esențial pentru distribuția bunurilor în provinciile interioare, inclusiv transportul materialelor de construcție pentru proiectele naționale de infrastructură. A fost extins semnificativ pentru a susține activitatea comercială în creștere din provincia Litoral și pentru a promova comerțul regional cu Gabon și Camerun. Zona portuară este un centru vibrant de activitate, reflectând creșterea economică dinamică a părții continentale. Geografie K6, Economie K8.",
       de: "Der Hafen von Bata ist das maritime Tor zum Festland von Äquatorialguinea und ein zentraler Faktor für das wirtschaftliche Wachstum der Region Río Muni. Als größter Seehafen des kontinentalen Landesteils ermöglicht er den Import lebenswichtiger Waren und ist die Basis für die maritime Logistik, die das Festland mit den internationalen Märkten verbindet. Die Infrastruktur, einschließlich der markanten langen Hafenmauer, bildet das Rückgrat für die Versorgung der wachsenden Bevölkerung in und um Bata. Die kontinuierliche Weiterentwicklung des Hafens ist ein Ausdruck der Bemühungen des Staates, das Festland als starken wirtschaftlichen Partner innerhalb der zentralafrikanischen Handelszone zu festigen. Geografie K6, Wirtschaft K8.",
-      en: "The Port of Bata is the largest and most significant seaport on the mainland of Equatorial Guinea, serving as the economic engine for the Rio Muni region. Its long, distinctive breakwater provides shelter for a wide range of vessels, from international cargo ships to local fishing fleets. The port is essential for the distribution of goods into the interior provinces, including the transport of construction materials for national infrastructure projects. It has been significantly expanded to support the growing commercial activity in the Litoral Province and to foster regional trade with neighboring Gabon and Cameroon. The port area is a bustling center of activity, reflecting the dynamic economic growth of mainland Equatorial Guinea. Curriculum: Geography K6, Economics K8.",
-image: "/poi-images/hafen-bata-economic-v2.webp"
-},
+      en: "The Port of Bata is the largest and most significant seaport on the mainland of Equatorial Guinea, serving as the economic engine for the Rio Muni region. Its long, distinctive breakwater provides shelter for a wide range of vessels, from international cargo ships to local fishing fleets. The port is essential for the distribution of goods into the interior provinces, including the transport of construction materials for national infrastructure projects. It has been significantly expanded to support the growing commercial activity in the Litoral Province and to foster regional trade with neighboring Gabon and Cameroon. The port area is a bustling center of activity, reflecting the dynamic economic growth of mainland Equatorial Guinea. Curriculum: Geography K6, Economics K8."},
     factsAdvanced: { hu: ["Egyenlítői-Gínea legnagyobb szárazföldi kereskedelmi kikötője.", "A faexport egyik legfontosabb afrikai terminálja a Guineai-öbölben.", "A 2010-es években végrehajtott bővítés során a mólók hossza megduplázódott.", "Stratégiai összekötő kapocs a szárazföldi belső részek és a világpiac között.", "Modern radar- és navigációs rendszer segíti a hajók forgalmát.", "A kikötő környéke fontos ipari és raktározási zóna Batában."], ro: ["Cea mai mare instalație portuară din Guineea Ecuatorială continentală.", "Indispensabil pentru aprovizionarea provinciilor din interiorul țării.", "Posedă un dig portuar lung și strategic de mare importanță.", "Centrul dinamicii economice în provincia Litoral.", "Facilitează comerțul direct cu țările partenere din regiune.", "Baza logistică pentru expansiunea industrială în orașul Bata.", "Susține atât comerțul la scară largă, cât și pescuitul local."],
       de: ["Größte Hafenanlage des kontinentalen Äquatorialguineas.", "Unverzichtbar für die Importe zur Versorgung des Binnenlandes.", "Besitzt eine strategisch bedeutsame, lange Hafenmole.", "Zentrum der wirtschaftlichen Dynamik in der Provinz Litoral.", "Fördert den direkten Handel mit regionalen Partnerländern.", "Logistische Basis für die industrielle Expansion in Bata."],
-      en: ["Largest seaport on the mainland of Equatorial Guinea.", "Features a prominent and extensive long-stone breakwater.", "Central hub for distribution of goods into Rio Muni's interior.", "Key gateway for regional trade with Gabon and Cameroon.", "Essential for the import of materials for national development.", "Supports both large-scale commercial and local fishing activities.", "Logistical center for the rapid urbanization of the city of Bata."]
-    }
-  },
+      en: ["Largest seaport on the mainland of Equatorial Guinea.", "Features a prominent and extensive long-stone breakwater.", "Central hub for distribution of goods into Rio Muni's interior.", "Key gateway for regional trade with Gabon and Cameroon.", "Essential for the import of materials for national development.", "Supports both large-scale commercial and local fishing activities.", "Logistical center for the rapid urbanization of the city of Bata."] } },
+    image: "/poi-images/hafen-bata-economic-v2.webp",
     description: {
       de: "Ein bedeutender Seehafen am Festland von Äquatorialguinea, der den Handel mit der Region Río Muni ermöglicht.",
       hu: "Jelentős tengeri kikötő Egyenlítői-Guinea szárazföldi részén, amely lehetővé teszi a kereskedelmet a Río Muni régióval.",
@@ -81,14 +78,11 @@ image: "/poi-images/hafen-bata-economic-v2.webp"
     ,
     descriptionAdvanced: { hu: "Punta Europa Egyenlítői-Gínea energetikai szektorának központja, amely Bioko szigetének északnyugati csücskében található. Itt kapott helyet az ország hatalmas földgáz-cseppfolyósító üzeme (EG LNG), a metanolgyár és több gázfeldolgozó egység. A komplexum az ország gazdasági stabilitásának alapköve, mivel itt dolgozzák fel a tenger alatti mezőkről származó szénhidrogéneket. Punta Europa nemzetközi jelentőségét adja, hogy innen indulnak a hatalmas LNG-szállító hajók a világ minden tájára. Az üzemek a legmagasabb biztonsági és technológiai standardok szerint működnek, és jelentős számú helyi és külföldi szakembert foglalkoztatnak. A terület saját kikötői terminállal és infrastruktúrával rendelkezik.", ro: "Terminalul GNL Punta Europa, situat în vârful nordic al insulei Bioko, este unul dintre cele mai avansate și semnificative complexe energetice din Africa. Acesta servește ca inimă a industriei gazelor naturale din Guineea Ecuatorială, procesând gazul extras din câmpurile offshore în gaz natural lichefiat pentru exportul pe piețele globale. Instalația încorporează tehnologii de ultimă oră pentru lichefierea gazului la temperaturi extrem de scăzute, facilitând transportul acestuia în tancuri specializate. Acest terminal a transformat economia națională, oferind o sursă majoră de valută și stabilind țara ca un jucător cheie în tranziția energetică globală. Punta Europa este o dovadă a utilizării strategice a resurselor energetice vaste ale țării. Energie K8, Economie K7.",
       de: "Der Industriekomplex Punta Europa im Norden der Insel Bioko ist eines der größten und technologisch fortschrittlichsten Energieprojekte Afrikas. Er bildet das Herz der äquatorialguineischen Gaswirtschaft, indem er in großem Maßstab Erdgas aus den Offshore-Feldern verarbeitet, verflüssigt und für den Export vorbereitet. Durch den Einsatz spezialisierter Gastanker, die von Punta Europa aus den Weltmarkt bedienen, trägt das Terminal massiv zum nationalen Wohlstand bei. Der Komplex verkörpert den Wandel Äquatorialguineas zu einem führenden Energieproduzenten und ist ein technisches Meisterwerk, das moderne Verarbeitungsstandards mit logistischer Präzision verbindet. Energie K8, Wirtschaft K7.",
-      en: "The Punta Europa LNG Terminal, located on the northern tip of Bioko Island, is one of Africa's most advanced and significant energy complexes. It serves as the heart of Equatorial Guinea's natural gas industry, processing offshore gas into Liquefied Natural Gas (LNG) for export to global markets. The facility incorporates cutting-edge technology to liquefy natural gas at extremely low temperatures, facilitating its transport in specialized LNG tankers. This terminal has transformed the national economy, providing a major source of foreign exchange and establishing the country as a key player in the global energy transition. Punta Europa is a testament to the country's strategic utilization of its vast offshore energy resources. Curriculum: Energy K8, Economics K7.",
-image: "/poi-images/punta-europa-lng-economic-v2.webp"
-},
+      en: "The Punta Europa LNG Terminal, located on the northern tip of Bioko Island, is one of Africa's most advanced and significant energy complexes. It serves as the heart of Equatorial Guinea's natural gas industry, processing offshore gas into Liquefied Natural Gas (LNG) for export to global markets. The facility incorporates cutting-edge technology to liquefy natural gas at extremely low temperatures, facilitating its transport in specialized LNG tankers. This terminal has transformed the national economy, providing a major source of foreign exchange and establishing the country as a key player in the global energy transition. Punta Europa is a testament to the country's strategic utilization of its vast offshore energy resources. Curriculum: Energy K8, Economics K7."},
     factsAdvanced: { hu: ["Az ország legnagyobb ipari és energetikai komplexuma.", "Itt működik az EG LNG, Afrika egyik legjelentősebb gázcseppfolyósítója.", "A komplexum metanolt és LPG-t is előállít világpiaci exportra.", "Saját mélyvízi gázterminállal rendelkezik a speciális hajók fogadására.", "A terület Bioko-sziget északnyugati, stratégiai fokánál található.", "Kulcsfontosságú az ország éves költségvetési bevételei szempontjából."], ro: ["Găzduiește cele mai importante unități de procesare a gazului din Africa.", "Dane specializate pentru tancuri de gaz de ultimă generație.", "Motor principal al economiei naționale de export.", "Procesează gaz extras direct din zăcămintele offshore.", "Punct tehnologic central al industriei naționale.", "Asigură poziția țării ca furnizor global de energie.", "Amplasat strategic pe coasta de nord a insulei Bioko."],
       de: ["Beheimatet einige der wichtigsten Gasverarbeitungsanlagen Afrikas.", "Spezialisierte Anlegestellen für hochmoderne Gastanker.", "Wichtiger Motor für die nationale Exportwirtschaft.", "Verarbeitung von Gas direkt aus den Offshore-Förderfeldern.", "Ein technologischer Hotspot der nationalen Industrie.", "Sichert Äquatorialguineas Stellung als Energielieferant."],
-      en: ["One of the largest and most modern gas complexes in Africa.", "Specializes in the liquefaction and export of natural gas.", "Features high-tech berths for specialized LNG tankers.", "Processes raw gas sourced from major offshore fields.", "A primary driver of Equatorial Guinea's national GDP.", "Central to the country's role in the global energy market.", "Strategically located on the northern coast of Bioko Island."]
-    }
-  },
+      en: ["One of the largest and most modern gas complexes in Africa.", "Specializes in the liquefaction and export of natural gas.", "Features high-tech berths for specialized LNG tankers.", "Processes raw gas sourced from major offshore fields.", "A primary driver of Equatorial Guinea's national GDP.", "Central to the country's role in the global energy market.", "Strategically located on the northern coast of Bioko Island."] } },
+    image: "/poi-images/punta-europa-lng-economic-v2.webp",
     description: {
       de: "Ein massives Industriegelände im Norden von Bioko, das auf die Verflüssigung und den Export von Erdgas spezialisiert ist.",
       hu: "Hatalmas ipari terület Bioko északi részén, amely a földgáz cseppfolyósítására és exportjára szakosodott.",
@@ -111,9 +105,8 @@ image: "/poi-images/punta-europa-lng-economic-v2.webp"
       de: "EG-LNG-Anlage",
       hu: "EG-LNG üzem",
       ro: "Uzina EG LNG",
-      en: "EG LNG Plant",
-image: "/poi-images/eg-lng-plant-economic-v2.webp"
-},
+      en: "EG LNG Plant"},
+    image: "/poi-images/eg-lng-plant-economic-v2.webp",
     description: {
       de: "Die zentrale Anlage zur Produktion von verflüssigtem Erdgas (LNG) auf der Insel Bioko.",
       hu: "A cseppfolyósított földgáz (LNG) előállításának központi üzeme Bioko szigetén.",
@@ -148,9 +141,8 @@ image: "/poi-images/eg-lng-plant-economic-v2.webp"
       de: "AMPCO-Methanolwerk",
       hu: "AMPCO metanolüzem",
       ro: "Uzina de metanol AMPCO",
-      en: "AMPCO Methanol Plant",
-image: "/poi-images/ampco-methanol-economic-v2.webp"
-},
+      en: "AMPCO Methanol Plant"},
+    image: "/poi-images/ampco-methanol-economic-v2.webp",
     description: {
       de: "Einer der weltweit größten Produzenten von Methanol, ansässig im Industriepark Punta Europa.",
       hu: "A világ egyik legnagyobb metanoltermelője, a Punta Europa ipari parkban található.",
@@ -185,9 +177,8 @@ image: "/poi-images/ampco-methanol-economic-v2.webp"
       de: "Alba-Gasanlage",
       hu: "Alba gázüzem",
       ro: "Instalația de gaz Alba",
-      en: "Alba Gas Plant",
-image: "/poi-images/alba-gas-plant-economic-v2.webp"
-},
+      en: "Alba Gas Plant"},
+    image: "/poi-images/alba-gas-plant-economic-v2.webp",
     description: {
       de: "Eine Verarbeitungsanlage für Gas und Flüssiggas (LPG), die Rohstoffe aus dem Alba-Offshore-Feld gewinnt.",
       hu: "Gáz- és folyékony gáz (LPG) feldolgozó üzem, amely az Alba offshore mezőről nyeri az alapanyagot.",
@@ -226,14 +217,11 @@ image: "/poi-images/alba-gas-plant-economic-v2.webp"
     ,
     descriptionAdvanced: { hu: "Luba Freeport egy speciális gazdasági övezet és logisztikai központ Bioko szigetének nyugati partján. A kikötő elsősorban az olaj- és gázipar kiszolgálására jött létre, raktározási, karbantartási és logisztikai szolgáltatásokat nyújtva a régióban működő vállalatoknak. Mélyvízi fekvése lehetővé teszi, hogy nagy merülésű hajók és olajfúró tornyok is kikössenek javításra. A szabadkikötő státusz vonzóvá teszi a nemzetközi befektetők számára, megkönnyítve a vámügyintézést és az áruk mozgatását. Luba Freeport jelentősen hozzájárult Luba városának és a környező régiónak a fejlődéséhez, munkahelyeket és modern infrastruktúrát teremtve. A központ folyamatosan bővül, újabb ipari szolgáltatásokkal egészülve ki.", ro: "Portul liber Luba este un nod maritim specializat și o zonă economică scutită de taxe situată pe coasta de vest a insulei Bioko. Acesta funcționează ca bază principală de servicii pentru industria offshore de petrol și gaze din Golful Guineei, oferind dane de apă adâncă și suport logistic extins. Portul furnizează o gamă variată de servicii, inclusiv depozitarea echipamentelor, întreținerea navelor și activități de fabricație, atrăgând numeroase companii internaționale. Locația sa strategică și operațiunile eficiente l-au transformat într-un hub preferat pentru logistica energetică regională, reducând costurile pentru operatorii offshore. Dezvoltarea portului Luba este o parte cheie a strategiei guvernamentale de diversificare a economiei. Economie K8, Geografie K7.",
       de: "Der Luba Freeport ist eine als Sonderwirtschaftszone ausgewiesene maritime Anlage auf der Insel Bioko, die als Service-Hub für die Öl- und Gasindustrie in Westafrika fungiert. Mit seinem natürlichen Tiefwasserhafen und einer exzellenten, auf den Dienstleistungssektor ausgerichteten Infrastruktur bietet er ideale Bedingungen für Wartung, Reparatur und logistische Unterstützung von Offshore-Plattformen. Da der Hafen als steuerfreie Zone konzipiert ist, zieht er zahlreiche internationale Firmen an, die von der strategischen Lage im Golf von Guinea profitieren möchten. Der Freeport Luba ist ein zentraler Pfeiler für die industrielle Diversifizierung Äquatorialguineas und ein Beispiel für die erfolgreiche Implementierung von Freihandelskonzepten in einem spezialisierten Sektor. Wirtschaft K8, Geografie K7.",
-      en: "Luba Freeport is a specialized maritime hub and tax-free economic zone located on the western coast of Bioko Island. It serves as a primary service base for the offshore oil and gas industry in the Gulf of Guinea, offering deep-water berths and extensive logistical support. The freeport provides a range of services, including equipment storage, vessel maintenance, and fabrication, attracting numerous international oil service companies. Its strategic location and efficient operations have made it a preferred hub for regional energy logistics, reducing costs for offshore operators. The development of Luba Freeport is a key part of the government's strategy to diversify the economy and create a regional center for maritime excellence. Curriculum: Economics K8, Geography K7.",
-image: "/poi-images/luba-freeport-economic-v2.webp"
-},
+      en: "Luba Freeport is a specialized maritime hub and tax-free economic zone located on the western coast of Bioko Island. It serves as a primary service base for the offshore oil and gas industry in the Gulf of Guinea, offering deep-water berths and extensive logistical support. The freeport provides a range of services, including equipment storage, vessel maintenance, and fabrication, attracting numerous international oil service companies. Its strategic location and efficient operations have made it a preferred hub for regional energy logistics, reducing costs for offshore operators. The development of Luba Freeport is a key part of the government's strategy to diversify the economy and create a regional center for maritime excellence. Curriculum: Economics K8, Geography K7."},
     factsAdvanced: { hu: ["Speciális mélyvízi olajipari kiszolgáló kikötő és szabadkereskedelmi zóna.", "Luba városának közvetlen közelében, egy védett öbölben található.", "Fontos bázis a Guineai-öbölben zajló tengeri kutatások és fúrások számára.", "Saját vámmentes raktározási és logisztikai kapacitással rendelkezik.", "Alkalmas nagy olajfúró platformok és szervizhajók fogadására.", "A központot nemzetközi konzorcium üzemelteti a kormánnyal együttműködve."], ro: ["Port specializat de apă adâncă și zonă economică liberă.", "Baza principală pentru serviciile offshore din regiunea Africii de Vest.", "Statut de zonă scutită de taxe pentru atragerea investițiilor străine.", "Actor major pentru serviciile industriale maritime de profil.", "Dispune de infrastructură modernă și dane de mare adâncime."],
       de: ["Dient als spezialisierte Basis für Offshore-Services.", "Status als steuerfreie Wirtschaftszone zur Förderung von Investitionen.", "Exzellenter Tiefwasserhafen mit moderner Ausstattung.", "Zentraler Dienstleister für die Wartung von Bohrinseln in der Region.", "Strategisch ideal an der Westküste von Bioko gelegen.", "Wichtiger Akteur für die industrielle Dienstleistung auf dem Meer."],
-      en: ["Specialized deep-water port and tax-free economic zone.", "Primary service base for regional offshore oil and gas operations.", "Offers advanced maintenance, repair, and logistical services.", "Attracts international investment through its freeport status.", "Hub for fabrication and storage of offshore equipment.", "Key component of national economic diversification goals."]
-    }
-  },
+      en: ["Specialized deep-water port and tax-free economic zone.", "Primary service base for regional offshore oil and gas operations.", "Offers advanced maintenance, repair, and logistical services.", "Attracts international investment through its freeport status.", "Hub for fabrication and storage of offshore equipment.", "Key component of national economic diversification goals."] } },
+    image: "/poi-images/luba-freeport-economic-v2.webp",
     description: {
       de: "Eine Sonderwirtschaftszone und ein Logistikzentrum, das als Servicebasis für die Ölindustrie in Westafrika dient.",
       hu: "Különleges gazdasági övezet és logisztikai központ, amely a nyugat-afrikai olajipar szervizbázisaként szolgál.",
@@ -259,14 +247,11 @@ image: "/poi-images/luba-freeport-economic-v2.webp"
     ,
     descriptionAdvanced: { hu: "A Djibloho-gát (más néven Wele-gát) Egyenlítői-Gínea legnagyobb vízerőműve, amely a szárazföldi Rio Muni régióban, a Wele-folyón épült. Az erőmű 120 megawattos kapacitásával kulcsszerepet játszik az ország elektromos hálózatának stabilitásában és a tiszta energia biztosításában. A gát megépítése az ország egyik legnagyobb mérnöki teljesítménye volt, amely lehetővé tette a szárazföldi városok, köztük Bata és Mongomo folyamatos áramellátását. A projekt része volt egy mesterséges tó kialakítása is, amely megváltoztatta a környező tájat és új ökoszisztémát hozott létre. A Djibloho-gát az ország függetlenedését szimbolizálja az importált fosszilis tüzelőanyagoktól az áramtermelés terén.", ro: "Hidrocentrala Djibloho de pe râul Wele este un proiect monumental de infrastructură și cea mai importantă lucrare pentru obținerea energiei regenerabile din Guineea Ecuatorială. Prin ridicarea barajului impunător, a fost exploatată o sursă durabilă de energie care oferă o bază stabilă pentru electrificarea unor zone extinse de pe continent. Proiectul este parte integrantă a planului de dezvoltare pentru noua provincie Djibloho și construcția viitoarei capitale, Ciudad de la Paz. Acesta reduce semnificativ dependența țării de combustibilii fosili importați pentru producerea electricității și este un simbol al efortului către independența energetică națională prin utilizarea resurselor proprii. Energie K8, Tehnică K7.",
       de: "Das Wasserkraftwerk Djibloho am Wele-Fluss ist ein monumentales Infrastrukturprojekt und das bedeutendste Werk zur Gewinnung erneuerbarer Energie in Äquatorialguinea. Durch die Errichtung der imposanten Staumauer wurde eine nachhaltige Stromquelle erschlossen, die eine stabile Basis für die Elektrifizierung weiter Teile des Festlandes bietet. Das Projekt ist ein integraler Bestandteil des Entwicklungsplans für die neue Provinz Djibloho und den Aufbau der künftigen Hauptstadt. Es reduziert signifikant die Abhängigkeit des Landes von importierten fossilen Brennstoffen zur Stromerzeugung und ist ein Symbol für das Streben nach einer nachhaltigen nationalen Energieunabhängigkeit durch die Nutzung heimischer Ressourcen. Energie K8, Technik K7.",
-      en: "The Djibloho Hydroelectric Dam is a monumental infrastructure project located on the Wele River in the heart of mainland Equatorial Guinea. As the country's largest source of renewable energy, it provides a stable and sustainable electricity supply to much of the Rio Muni region. The dam's construction involved the creation of a large reservoir and the installation of powerful turbines capable of generating significant megawatts of clean power. This project is central to the development of the new province of Djibloho and the future capital, Ciudad de la Paz. By reducing the reliance on fossil fuels for power generation, the dam contributes to the country's environmental goals and energy independence. Curriculum: Energy K8, Technology K7.",
-image: "/poi-images/djibloho-dam-economic-v2.webp"
-},
+      en: "The Djibloho Hydroelectric Dam is a monumental infrastructure project located on the Wele River in the heart of mainland Equatorial Guinea. As the country's largest source of renewable energy, it provides a stable and sustainable electricity supply to much of the Rio Muni region. The dam's construction involved the creation of a large reservoir and the installation of powerful turbines capable of generating significant megawatts of clean power. This project is central to the development of the new province of Djibloho and the future capital, Ciudad de la Paz. By reducing the reliance on fossil fuels for power generation, the dam contributes to the country's environmental goals and energy independence. Curriculum: Energy K8, Technology K7."},
     factsAdvanced: { hu: ["Egyenlítői-Gínea legnagyobb teljesítményű vízerőműve (120 MW).", "A szárazföldi Wele-folyó (Rio Benito) felső szakaszán épült.", "Biztosítja a szárazföldi országrész villamosenergia-igényének nagy részét.", "A projekt keretében egy hatalmas tározótó is létrejött az esőerdő szívében.", "Kínai technológiai és pénzügyi segítséggel valósult meg a beruházás.", "Fontos szerepe van az új főváros, Ciudad de la Paz energiaellátásában."], ro: ["Cel mai mare proiect hidroenergetic din întreaga țară.", "Asigură o aprovizionare cu energie stabilă și durabilă.", "Barajul reprezintă o lucrare inginerească remarcabilă de mari dimensiuni.", "Motorul pentru electrificarea regiunilor rurale de pe continent.", "Reduce dependența de importurile scumpe de combustibili fosili.", "Element central al planificării infrastructurii în provincia Djibloho.", "Utilizează eficient potențialul hidroenergetic al râului Wele."],
       de: ["Das größte Wasserkraftprojekt im Lande.", "Sichert eine stabile und nachhaltige Stromversorgung.", "Die Staumauer ist ein bemerkenswertes technisches Bauwerk.", "Motor für die Elektrifizierung der ländlichen Festlandregionen.", "Senkt die Abhängigkeit von teuren fossilen Brennstoffimporten.", "Zentrales Element der infrastrukturellen Planung in Djibloho."],
-      en: ["Equatorial Guinea's largest hydroelectric power project.", "Harnesses the energy of the Wele River for clean power.", "Provides the main electricity supply for the Rio Muni region.", "Central infrastructure for the new capital, Ciudad de la Paz.", "Significant achievement in national renewable energy strategy.", "Features an impressive dam wall and large storage reservoir.", "Reduces national dependence on imported fossil fuels."]
-    }
-  },
+      en: ["Equatorial Guinea's largest hydroelectric power project.", "Harnesses the energy of the Wele River for clean power.", "Provides the main electricity supply for the Rio Muni region.", "Central infrastructure for the new capital, Ciudad de la Paz.", "Significant achievement in national renewable energy strategy.", "Features an impressive dam wall and large storage reservoir.", "Reduces national dependence on imported fossil fuels."] } },
+    image: "/poi-images/djibloho-dam-economic-v2.webp",
     description: {
       de: "Das größte Wasserkraftwerk des Landes, das am Wele-Fluss gelegen ist und weite Teile des Festlands mit Strom versorgt.",
       hu: "Az ország legnagyobb vízerőműve, amely a Wele-folyón található, és a szárazföld nagy részét árammal látja el.",
@@ -322,9 +307,8 @@ image: "/poi-images/sendje-dam-economic-v2.webp"
       de: "Hafen von San Antonio de Palé",
       hu: "San Antonio de Palé kikötője",
       ro: "Portul San Antonio de Palé",
-      en: "Port of San Antonio de Palé",
-image: "/poi-images/port-annobon-economic-v2.webp"
-},
+      en: "Port of San Antonio de Palé"},
+    image: "/poi-images/port-annobon-economic-v2.webp",
     description: {
       de: "Die modernen Anlegestellen der Insel Annobón, die den lebenswichtigen Warenverkehr mit der isolierten Provinz sichern.",
       hu: "Annobón szigetének modern kikötőhelyei, amelyek biztosítják az izolált tartomány létfontosságú áruforgalmát.",
@@ -359,9 +343,8 @@ image: "/poi-images/port-annobon-economic-v2.webp"
       de: "Hafen von Cogo",
       hu: "Cogo kikötője",
       ro: "Portul Cogo",
-      en: "Port of Cogo",
-image: "/poi-images/port-cogo-economic-v2.webp"
-},
+      en: "Port of Cogo"},
+    image: "/poi-images/port-cogo-economic-v2.webp",
     description: {
       de: "Ein historischer und wirtschaftlich wichtiger Flusshafen an der Mündung des Muni-Flusses.",
       hu: "Történelmi és gazdaságilag fontos folyami kikötő a Muni-folyó torkolatánál.",
@@ -396,9 +379,8 @@ image: "/poi-images/port-cogo-economic-v2.webp"
       de: "Ölterminal Bioko",
       hu: "Bioko olajterminál",
       ro: "Terminalul petrolier Bioko",
-      en: "Bioko Oil Terminal",
-image: "/poi-images/bioko-oil-terminal-economic-v2.webp"
-},
+      en: "Bioko Oil Terminal"},
+    image: "/poi-images/bioko-oil-terminal-economic-v2.webp",
     description: {
       de: "Eine große Lager- und Verladeeinrichtung für Rohöl in der Nähe der Hauptstadt Malabo.",
       hu: "Nagy kőolaj-tároló és rakodó létesítmény Malabo főváros közelében.",
@@ -433,9 +415,8 @@ image: "/poi-images/bioko-oil-terminal-economic-v2.webp"
       de: "Kraftwerk Bata",
       hu: "Bata erőmű",
       ro: "Centrala electrică Bata",
-      en: "Bata Power Plant",
-image: "/poi-images/bata-power-plant-economic-v2.webp"
-},
+      en: "Bata Power Plant"},
+    image: "/poi-images/bata-power-plant-economic-v2.webp",
     description: {
       de: "Das primäre Wärmekraftwerk der Stadt Bata, das die Grundlast der Stromversorgung auf dem Festland sichert.",
       hu: "Bata városának elsődleges hőerőműve, amely biztosítja a szárazföldi áramellátás alapvető szükségleteit.",
@@ -470,9 +451,8 @@ image: "/poi-images/bata-power-plant-economic-v2.webp"
       de: "Kraftwerk Malabo",
       hu: "Malabói erőmű",
       ro: "Centrala electrică Malabo",
-      en: "Malabo Power Plant",
-image: "/poi-images/malabo-power-plant-economic-v2.webp"
-},
+      en: "Malabo Power Plant"},
+    image: "/poi-images/malabo-power-plant-economic-v2.webp",
     description: {
       de: "Die zentrale Anlage zur Stromerzeugung für die Hauptstadt Malabo und den nördlichen Teil der Insel Bioko.",
       hu: "Malabo főváros és Bioko szigetének északi része számára áramot termelő központi üzem.",
@@ -507,9 +487,8 @@ image: "/poi-images/malabo-power-plant-economic-v2.webp"
       de: "Sägewerk von Luba",
       hu: "Lubai fűrészüzem",
       ro: "Gaterul din Luba",
-      en: "Luba Sawmill",
-image: "/poi-images/luba-sawmill-economic-v2.webp"
-},
+      en: "Luba Sawmill"},
+    image: "/poi-images/luba-sawmill-economic-v2.webp",
     description: {
       de: "Eine große Holzverarbeitungsanlage in Luba, die das Edelholz aus den Wäldern von Bioko für den Export vorbereitet.",
       hu: "Nagy fafeldolgozó üzem Lubában, amely a Bioko erdeiből származó nemesfát készíti elő exportra.",
@@ -544,9 +523,8 @@ image: "/poi-images/luba-sawmill-economic-v2.webp"
       de: "Fischereihafen von Mbini",
       hu: "Mbini halászkikötő",
       ro: "Portul de pescuit Mbini",
-      en: "Mbini Fishing Port",
-image: "/poi-images/mbini-fishing-port-economic-v2.webp"
-},
+      en: "Mbini Fishing Port"},
+    image: "/poi-images/mbini-fishing-port-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Hafen für die lokale Fischereiflotte an der Mündung des Benito-Flusses.",
       hu: "Speciális kikötő a helyi halászflotta számára a Benito-folyó torkolatánál.",
@@ -581,9 +559,8 @@ image: "/poi-images/mbini-fishing-port-economic-v2.webp"
       de: "Industriezone von Mongomo",
       hu: "Mongomói ipari zóna",
       ro: "Zona industrială Mongomo",
-      en: "Mongomo Industrial Zone",
-image: "/poi-images/mongomo-industrial-zone-economic-v2.webp"
-},
+      en: "Mongomo Industrial Zone"},
+    image: "/poi-images/mongomo-industrial-zone-economic-v2.webp",
     description: {
       de: "Ein ausgewiesenes Gebiet für Leichtindustrie und Handwerk im Osten des Landes.",
       hu: "Könnyűipari és kézműves tevékenységekre kijelölt terület az ország keleti részén.",
@@ -618,9 +595,8 @@ image: "/poi-images/mongomo-industrial-zone-economic-v2.webp"
       de: "Zementwerk von Akoga",
       hu: "Akogai cementgyár",
       ro: "Fabrica de ciment din Akoga",
-      en: "Akoga Cement Factory",
-image: "/poi-images/akoga-cement-factory-economic-v2.webp"
-},
+      en: "Akoga Cement Factory"},
+    image: "/poi-images/akoga-cement-factory-economic-v2.webp",
     description: {
       de: "Eine moderne Industrieanlage zur Herstellung von Zement, die den Bauboom des Landes unterstützt.",
       hu: "Modern cementgyártó ipari létesítmény, amely az ország építőipari fellendülését támogatja.",
@@ -655,9 +631,8 @@ image: "/poi-images/akoga-cement-factory-economic-v2.webp"
       de: "Logistikzentrum K5 Malabo",
       hu: "K5 logisztikai központ Malabo",
       ro: "Centrul logistic K5 Malabo",
-      en: "K5 Logistics Hub Malabo",
-image: "/poi-images/k5-logistics-malabo-economic-v2.webp"
-},
+      en: "K5 Logistics Hub Malabo"},
+    image: "/poi-images/k5-logistics-malabo-economic-v2.webp",
     description: {
       de: "Ein weitläufiger Logistik- und Gewerbepark bei Kilometer 5 der Straße nach Luba.",
       hu: "Kiterjedt logisztikai és ipari park a Luba felé vezető út 5. kilométerénél.",
@@ -692,9 +667,8 @@ image: "/poi-images/k5-logistics-malabo-economic-v2.webp"
       de: "Palmöl-Anlage Akonibe",
       hu: "Akonibei pálmaolaj-üzem",
       ro: "Uzina de ulei de palmier Akonibe",
-      en: "Akonibe Palm Oil Plant",
-image: "/poi-images/palm-oil-akonibe-economic-v2.webp"
-},
+      en: "Akonibe Palm Oil Plant"},
+    image: "/poi-images/palm-oil-akonibe-economic-v2.webp",
     description: {
       de: "Eine Anlage zur Verarbeitung von Palmöl im fruchtbaren Hinterland von Wele-Nzas.",
       hu: "Pálmaolaj-feldolgozó üzem Wele-Nzas termékeny hátországában.",

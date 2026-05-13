@@ -11,9 +11,8 @@ export const poiExtraMalaysiaCitiesV2: POI[] = [
       de: "Kuala Lumpur",
       hu: "Kuala Lumpur",
       ro: "Kuala Lumpur",
-      en: "Kuala Lumpur",
-image: "/poi-images/kuala-lumpur-cities-v2.webp"
-},
+      en: "Kuala Lumpur"},
+    image: "/poi-images/kuala-lumpur-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt Malaysias, bekannt für die Petronas Towers.",
       hu: "Malajzia fővárosa és legnagyobb városa, híres a Petronas-ikertornyokról.",
@@ -48,9 +47,8 @@ image: "/poi-images/kuala-lumpur-cities-v2.webp"
       de: "George Town",
       hu: "George Town",
       ro: "George Town",
-      en: "George Town",
-image: "/poi-images/george-town-penang-cities-v2.webp"
-},
+      en: "George Town"},
+    image: "/poi-images/george-town-penang-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Bundesstaates Penang, ein UNESCO-Weltkulturerbe.",
       hu: "Penang állam fővárosa, UNESCO Világörökségi helyszín.",
@@ -85,9 +83,8 @@ image: "/poi-images/george-town-penang-cities-v2.webp"
       de: "Johor Bahru",
       hu: "Johor Bahru",
       ro: "Johor Bahru",
-      en: "Johor Bahru",
-image: "/poi-images/johor-bahru-cities-v2.webp"
-},
+      en: "Johor Bahru"},
+    image: "/poi-images/johor-bahru-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des Bundesstaates Johor, an der Grenze zu Singapur gelegen.",
       hu: "Johor állam fővárosa, Szingapúr határán fekszik.",
@@ -122,9 +119,8 @@ image: "/poi-images/johor-bahru-cities-v2.webp"
       de: "Ipoh",
       hu: "Ipoh",
       ro: "Ipoh",
-      en: "Ipoh",
-image: "/poi-images/ipoh-cities-v2.webp"
-},
+      en: "Ipoh"},
+    image: "/poi-images/ipoh-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Perak, bekannt für ihre britische Kolonialarchitektur.",
       hu: "Perak fővárosa, híres a brit gyarmati építészetéről.",
@@ -159,9 +155,8 @@ image: "/poi-images/ipoh-cities-v2.webp"
       de: "Kuching",
       hu: "Kuching",
       ro: "Kuching",
-      en: "Kuching",
-image: "/poi-images/kuching-cities-v2.webp"
-},
+      en: "Kuching"},
+    image: "/poi-images/kuching-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Sarawak auf der Insel Borneo.",
       hu: "Sarawak fővárosa Borneó szigetén.",
@@ -196,9 +191,8 @@ image: "/poi-images/kuching-cities-v2.webp"
       de: "Kota Kinabalu",
       hu: "Kota Kinabalu",
       ro: "Kota Kinabalu",
-      en: "Kota Kinabalu",
-image: "/poi-images/kota-kinabalu-cities-v2.webp"
-},
+      en: "Kota Kinabalu"},
+    image: "/poi-images/kota-kinabalu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Sabah, in der Nähe des Mount Kinabalu.",
       hu: "Sabah fővárosa, a Kinabalu-hegy közelében.",
@@ -233,9 +227,8 @@ image: "/poi-images/kota-kinabalu-cities-v2.webp"
       de: "Shah Alam",
       hu: "Shah Alam",
       ro: "Shah Alam",
-      en: "Shah Alam",
-image: "/poi-images/shah-alam-cities-v2.webp"
-},
+      en: "Shah Alam"},
+    image: "/poi-images/shah-alam-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Selangor, bekannt für ihre Sultan-Salahuddin-Abdul-Aziz-Moschee.",
       hu: "Selangor fővárosa, híres a Sultan Salahuddin Abdul Aziz mecsetről.",
@@ -270,9 +263,8 @@ image: "/poi-images/shah-alam-cities-v2.webp"
       de: "Malakka-Stadt",
       hu: "Malakka",
       ro: "Malacca",
-      en: "Malacca City",
-image: "/poi-images/malakka-stadt-cities-v2.webp"
-},
+      en: "Malacca City"},
+    image: "/poi-images/malakka-stadt-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Malakka, reich an kolonialer Geschichte.",
       hu: "Malakka fővárosa, gazdag gyarmati történelemmel.",
@@ -307,9 +299,8 @@ image: "/poi-images/malakka-stadt-cities-v2.webp"
       de: "Kuantan",
       hu: "Kuantan",
       ro: "Kuantan",
-      en: "Kuantan",
-image: "/poi-images/kuantan-cities-v2.webp"
-},
+      en: "Kuantan"},
+    image: "/poi-images/kuantan-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Pahang, an der Ostküste der malaiischen Halbinsel gelegen.",
       hu: "Pahang fővárosa, a Maláj-félsziget keleti partján.",
@@ -344,9 +335,8 @@ image: "/poi-images/kuantan-cities-v2.webp"
       de: "Seremban",
       hu: "Seremban",
       ro: "Seremban",
-      en: "Seremban",
-image: "/poi-images/seremban-cities-v2.webp"
-},
+      en: "Seremban"},
+    image: "/poi-images/seremban-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Negeri Sembilan, bekannt für ihre Minangkabau-Kultur.",
       hu: "Negeri Sembilan fővárosa, híres a minangkabau kultúráról.",
@@ -381,9 +371,8 @@ image: "/poi-images/seremban-cities-v2.webp"
       de: "Kota Bharu",
       hu: "Kota Bharu",
       ro: "Kota Bharu",
-      en: "Kota Bharu",
-image: "/poi-images/kota-bharu-cities-v2.webp"
-},
+      en: "Kota Bharu"},
+    image: "/poi-images/kota-bharu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Kelantan, ein Zentrum der malaiischen Kultur.",
       hu: "Kelantan fővárosa, a maláj kultúra központja.",
@@ -418,9 +407,8 @@ image: "/poi-images/kota-bharu-cities-v2.webp"
       de: "Kuala Terengganu",
       hu: "Kuala Terengganu",
       ro: "Kuala Terengganu",
-      en: "Kuala Terengganu",
-image: "/poi-images/kuala-terengganu-cities-v2.webp"
-},
+      en: "Kuala Terengganu"},
+    image: "/poi-images/kuala-terengganu-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Terengganu, an der Mündung des Terengganu-Flusses.",
       hu: "Terengganu fővárosa, a Terengganu-folyó torkolatánál.",
@@ -455,9 +443,8 @@ image: "/poi-images/kuala-terengganu-cities-v2.webp"
       de: "Alor Setar",
       hu: "Alor Setar",
       ro: "Alor Setar",
-      en: "Alor Setar",
-image: "/poi-images/alorsetar-cities-v2.webp"
-},
+      en: "Alor Setar"},
+    image: "/poi-images/alorsetar-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Kedah, bekannt als die 'Reisschale Malaysias'.",
       hu: "Kedah fővárosa, Malajzia 'rizstáljaként' ismert.",
@@ -492,9 +479,8 @@ image: "/poi-images/alorsetar-cities-v2.webp"
       de: "Kangar",
       hu: "Kangar",
       ro: "Kangar",
-      en: "Kangar",
-image: "/poi-images/kangar-cities-v2.webp"
-},
+      en: "Kangar"},
+    image: "/poi-images/kangar-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Perlis, dem kleinsten Bundesstaat Malaysias.",
       hu: "Perlis fővárosa, Malajzia legkisebb államáé.",
@@ -529,9 +515,8 @@ image: "/poi-images/kangar-cities-v2.webp"
       de: "Putrajaya",
       hu: "Putrajaya",
       ro: "Putrajaya",
-      en: "Putrajaya",
-image: "/poi-images/putrajaya-cities-v2.webp"
-},
+      en: "Putrajaya"},
+    image: "/poi-images/putrajaya-cities-v2.webp",
     description: {
       de: "Das föderale Verwaltungszentrum Malaysias.",
       hu: "Malajzia szövetségi közigazgatási központja.",
@@ -566,9 +551,8 @@ image: "/poi-images/putrajaya-cities-v2.webp"
       de: "Subang Jaya",
       hu: "Subang Jaya",
       ro: "Subang Jaya",
-      en: "Subang Jaya",
-image: "/poi-images/subang-jaya-cities-v2.webp"
-},
+      en: "Subang Jaya"},
+    image: "/poi-images/subang-jaya-cities-v2.webp",
     description: {
       de: "Eine wohlhabende Stadt in Selangor, bekannt für ihre Wohn- und Gewerbegebiete.",
       hu: "Egy jómódú város Selangorban, ismert lakó- és kereskedelmi területeiről.",
@@ -603,9 +587,8 @@ image: "/poi-images/subang-jaya-cities-v2.webp"
       de: "Klang",
       hu: "Klang",
       ro: "Klang",
-      en: "Klang",
-image: "/poi-images/klang-cities-v2.webp"
-},
+      en: "Klang"},
+    image: "/poi-images/klang-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in Selangor, die einst die Hauptstadt des Bundesstaates war.",
       hu: "Egy történelmi város Selangorban, amely egykor az állam fővárosa volt.",
@@ -640,9 +623,8 @@ image: "/poi-images/klang-cities-v2.webp"
       de: "Petaling Jaya",
       hu: "Petaling Jaya",
       ro: "Petaling Jaya",
-      en: "Petaling Jaya",
-image: "/poi-images/petaling-jaya-cities-v2.webp"
-},
+      en: "Petaling Jaya"},
+    image: "/poi-images/petaling-jaya-cities-v2.webp",
     description: {
       de: "Eine Satellitenstadt von Kuala Lumpur, die erste geplante Stadt in Malaysia.",
       hu: "Kuala Lumpur műholdvárosa, az első tervezett város Malajziában.",
@@ -677,9 +659,8 @@ image: "/poi-images/petaling-jaya-cities-v2.webp"
       de: "Miri",
       hu: "Miri",
       ro: "Miri",
-      en: "Miri",
-image: "/poi-images/miri-cities-v2.webp"
-},
+      en: "Miri"},
+    image: "/poi-images/miri-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt in Sarawak, das Zentrum der Erdölindustrie in der Region.",
       hu: "Tengerparti város Sarawakban, a régió kőolajiparának központja.",
@@ -714,9 +695,8 @@ image: "/poi-images/miri-cities-v2.webp"
       de: "Sibu",
       hu: "Sibu",
       ro: "Sibu",
-      en: "Sibu",
-image: "/poi-images/sibu-cities-v2.webp"
-},
+      en: "Sibu"},
+    image: "/poi-images/sibu-cities-v2.webp",
     description: {
       de: "Eine Stadt am Rajang-Fluss in Sarawak, ein wichtiges Handelszentrum.",
       hu: "Város a Rajang folyó mentén Sarawakban, fontos kereskedelmi központ.",
@@ -751,9 +731,8 @@ image: "/poi-images/sibu-cities-v2.webp"
       de: "Sandakan",
       hu: "Sandakan",
       ro: "Sandakan",
-      en: "Sandakan",
-image: "/poi-images/sandakan-cities-v2.webp"
-},
+      en: "Sandakan"},
+    image: "/poi-images/sandakan-cities-v2.webp",
     description: {
       de: "Eine Stadt in Sabah, bekannt für ihr Orang-Utan-Rehabilitationszentrum.",
       hu: "Város Sabahban, híres az orangután-rehabilitációs központjáról.",
@@ -788,9 +767,8 @@ image: "/poi-images/sandakan-cities-v2.webp"
       de: "Tawau",
       hu: "Tawau",
       ro: "Tawau",
-      en: "Tawau",
-image: "/poi-images/tawau-cities-v2.webp"
-},
+      en: "Tawau"},
+    image: "/poi-images/tawau-cities-v2.webp",
     description: {
       de: "Eine Stadt im Südosten von Sabah, ein Zentrum für Kakao- und Palmölproduktion.",
       hu: "Város Sabah délkeleti részén, a kakaó- és pálmaolaj-termelés központja.",
@@ -825,9 +803,8 @@ image: "/poi-images/tawau-cities-v2.webp"
       de: "Bintulu",
       hu: "Bintulu",
       ro: "Bintulu",
-      en: "Bintulu",
-image: "/poi-images/bintulu-cities-v2.webp"
-},
+      en: "Bintulu"},
+    image: "/poi-images/bintulu-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt in Sarawak, die ein wichtiges Industriezentrum ist.",
       hu: "Tengerparti város Sarawakban, fontos ipari központ.",
@@ -862,9 +839,8 @@ image: "/poi-images/bintulu-cities-v2.webp"
       de: "Muar",
       hu: "Muar",
       ro: "Muar",
-      en: "Muar",
-image: "/poi-images/muar-cities-v2.webp"
-},
+      en: "Muar"},
+    image: "/poi-images/muar-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in Johor, auch bekannt als Bandar Maharani.",
       hu: "Történelmi város Johorban, más néven Bandar Maharani.",
@@ -899,9 +875,8 @@ image: "/poi-images/muar-cities-v2.webp"
       de: "Sungai Petani",
       hu: "Sungai Petani",
       ro: "Sungai Petani",
-      en: "Sungai Petani",
-image: "/poi-images/sungai-petani-cities-v2.webp"
-},
+      en: "Sungai Petani"},
+    image: "/poi-images/sungai-petani-cities-v2.webp",
     description: {
       de: "Eine große Stadt in Kedah, ein wichtiges Industrie- und Handelszentrum.",
       hu: "Nagyváros Kedahban, fontos ipari és kereskedelmi központ.",
@@ -936,9 +911,8 @@ image: "/poi-images/sungai-petani-cities-v2.webp"
       de: "Victoria",
       hu: "Victoria",
       ro: "Victoria",
-      en: "Victoria",
-image: "/poi-images/labuan-cities-v2.webp"
-},
+      en: "Victoria"},
+    image: "/poi-images/labuan-cities-v2.webp",
     description: {
       de: "Die Hauptstadt des föderalen Territoriums Labuan, ein Offshore-Finanzzentrum.",
       hu: "Labuan szövetségi terület fővárosa, egy offshore pénzügyi központ.",
@@ -973,9 +947,8 @@ image: "/poi-images/labuan-cities-v2.webp"
       de: "Batu Pahat",
       hu: "Batu Pahat",
       ro: "Batu Pahat",
-      en: "Batu Pahat",
-image: "/poi-images/batu-pahat-cities-v2.webp"
-},
+      en: "Batu Pahat"},
+    image: "/poi-images/batu-pahat-cities-v2.webp",
     description: {
       de: "Eine Stadt in Johor, deren Name 'gemeißelter Fels' bedeutet.",
       hu: "Város Johorban, a neve 'vésett sziklát' jelent.",
@@ -1010,9 +983,8 @@ image: "/poi-images/batu-pahat-cities-v2.webp"
       de: "Kulim",
       hu: "Kulim",
       ro: "Kulim",
-      en: "Kulim",
-image: "/poi-images/kulim-cities-v2.webp"
-},
+      en: "Kulim"},
+    image: "/poi-images/kulim-cities-v2.webp",
     description: {
       de: "Eine Stadt in Kedah, bekannt für ihren High-Tech-Park.",
       hu: "Város Kedahban, híres a csúcstechnológiai parkjáról.",
@@ -1047,9 +1019,8 @@ image: "/poi-images/kulim-cities-v2.webp"
       de: "Taiping",
       hu: "Taiping",
       ro: "Taiping",
-      en: "Taiping",
-image: "/poi-images/taiping-cities-v2.webp"
-},
+      en: "Taiping"},
+    image: "/poi-images/taiping-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in Perak, bekannt für ihre gut erhaltene Kolonialarchitektur.",
       hu: "Történelmi város Perakban, híres a jól megőrzött gyarmati építészetéről.",
@@ -1084,9 +1055,8 @@ image: "/poi-images/taiping-cities-v2.webp"
       de: "Lahad Datu",
       hu: "Lahad Datu",
       ro: "Lahad Datu",
-      en: "Lahad Datu",
-image: "/poi-images/lahad-datu-cities-v2.webp"
-},
+      en: "Lahad Datu"},
+    image: "/poi-images/lahad-datu-cities-v2.webp",
     description: {
       de: "Eine Stadt in Sabah, ein Zentrum für die Palmölindustrie.",
       hu: "Város Sabahban, a pálmaolaj-ipar központja.",

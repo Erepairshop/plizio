@@ -5,9 +5,8 @@ export const bosniaherzegovinaReliefV2: POI[] = [
     id: "bosniaherzegovina-volujak-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Volujak", hu: "Volujak", ro: "Volujak", en: "Volujak",
-image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"
-},
+    name: { de: "Volujak", hu: "Volujak", ro: "Volujak", en: "Volujak"},
+    image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp",
     coords: [18.7167, 43.2333],
     coordinates: { lat: 43.2333, lng: 18.7167 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/bosniaherzegovina-volujak-relief-v2.webp"
     id: "bosniaherzegovina-treskavica-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Treskavica", hu: "Treskavica", ro: "Treskavica", en: "Treskavica",
-image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"
-},
+    name: { de: "Treskavica", hu: "Treskavica", ro: "Treskavica", en: "Treskavica"},
+    image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp",
     coords: [18.3564, 43.5956],
     coordinates: { lat: 43.5956, lng: 18.3564 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/bosniaherzegovina-treskavica-relief-v2.webp"
     id: "bosniaherzegovina-vlasic-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Vlašić", hu: "Vlašić", ro: "Vlašić", en: "Vlašić",
-image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"
-},
+    name: { de: "Vlašić", hu: "Vlašić", ro: "Vlašić", en: "Vlašić"},
+    image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp",
     coords: [17.6058, 44.2981],
     coordinates: { lat: 44.2981, lng: 17.6058 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/bosniaherzegovina-vlasic-relief-v2.webp"
     id: "bosniaherzegovina-kozara-relief-v2",
     parent: "BA",
     type: "park",
-    name: { de: "Kozara", hu: "Kozara", ro: "Kozara", en: "Kozara",
-image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"
-},
+    name: { de: "Kozara", hu: "Kozara", ro: "Kozara", en: "Kozara"},
+    image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp",
     coords: [16.9111, 45.0083],
     coordinates: { lat: 45.0083, lng: 16.9111 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/bosniaherzegovina-kozara-relief-v2.webp"
     id: "bosniaherzegovina-dinara-troglav-relief-v2",
     parent: "BA",
     type: "peak",
-    name: { de: "Dinara (Troglav)", hu: "Dinara (Troglav)", ro: "Dinara (Troglav)", en: "Dinara (Troglav)",
-image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"
-},
+    name: { de: "Dinara (Troglav)", hu: "Dinara (Troglav)", ro: "Dinara (Troglav)", en: "Dinara (Troglav)"},
+    image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp",
     coords: [16.585, 43.945],
     coordinates: { lat: 43.945, lng: 16.585 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/bosniaherzegovina-dinara-troglav-relief-v2.webp"
     id: "bosniaherzegovina-romanija-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Romanija", hu: "Romanija", ro: "Romanija", en: "Romanija",
-image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"
-},
+    name: { de: "Romanija", hu: "Romanija", ro: "Romanija", en: "Romanija"},
+    image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp",
     coords: [18.6667, 43.8833],
     coordinates: { lat: 43.8833, lng: 18.6667 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/bosniaherzegovina-romanija-relief-v2.webp"
     id: "bosniaherzegovina-grmec-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Grmeč", hu: "Grmeč", ro: "Grmeč", en: "Grmeč",
-image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"
-},
+    name: { de: "Grmeč", hu: "Grmeč", ro: "Grmeč", en: "Grmeč"},
+    image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp",
     coords: [16.3333, 44.6667],
     coordinates: { lat: 44.6667, lng: 16.3333 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/bosniaherzegovina-grmec-relief-v2.webp"
     id: "bosniaherzegovina-majevica-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Majevica", hu: "Majevica", ro: "Majevica", en: "Majevica",
-image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"
-},
+    name: { de: "Majevica", hu: "Majevica", ro: "Majevica", en: "Majevica"},
+    image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp",
     coords: [18.85, 44.57],
     coordinates: { lat: 44.57, lng: 18.85 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/bosniaherzegovina-majevica-relief-v2.webp"
     id: "bosniaherzegovina-ozren-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Ozren", hu: "Ozren", ro: "Ozren", en: "Ozren",
-image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp"
-},
+    name: { de: "Ozren", hu: "Ozren", ro: "Ozren", en: "Ozren"},
+    image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp",
     coords: [18.3333, 44.6],
     coordinates: { lat: 44.6, lng: 18.3333 },
     description: {
@@ -328,9 +319,8 @@ image: "/poi-images/bosniaherzegovina-ozren-relief-v2.webp"
     id: "bosniaherzegovina-cincar-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Cincar", hu: "Cincar", ro: "Cincar", en: "Cincar",
-image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"
-},
+    name: { de: "Cincar", hu: "Cincar", ro: "Cincar", en: "Cincar"},
+    image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp",
     coords: [17.1, 43.9014],
     coordinates: { lat: 43.9014, lng: 17.1 },
     description: {
@@ -364,9 +354,8 @@ image: "/poi-images/bosniaherzegovina-cincar-relief-v2.webp"
     id: "bosniaherzegovina-vitorog-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Vitorog", hu: "Vitorog", ro: "Vitorog", en: "Vitorog",
-image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"
-},
+    name: { de: "Vitorog", hu: "Vitorog", ro: "Vitorog", en: "Vitorog"},
+    image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp",
     coords: [17.0333, 44.1167],
     coordinates: { lat: 44.1167, lng: 17.0333 },
     description: {
@@ -400,9 +389,8 @@ image: "/poi-images/bosniaherzegovina-vitorog-relief-v2.webp"
     id: "bosniaherzegovina-sator-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Šator", hu: "Šator", ro: "Šator", en: "Šator",
-image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"
-},
+    name: { de: "Šator", hu: "Šator", ro: "Šator", en: "Šator"},
+    image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp",
     coords: [16.6, 44.1667],
     coordinates: { lat: 44.1667, lng: 16.6 },
     description: {
@@ -436,9 +424,8 @@ image: "/poi-images/bosniaherzegovina-sator-relief-v2.webp"
     id: "bosniaherzegovina-klekovaca-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Klekovača", hu: "Klekovača", ro: "Klekovača", en: "Klekovača",
-image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"
-},
+    name: { de: "Klekovača", hu: "Klekovača", ro: "Klekovača", en: "Klekovača"},
+    image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp",
     coords: [16.5, 44.4333],
     coordinates: { lat: 44.4333, lng: 16.5 },
     description: {
@@ -472,9 +459,8 @@ image: "/poi-images/bosniaherzegovina-klekovaca-relief-v2.webp"
     id: "bosniaherzegovina-konjuh-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Konjuh", hu: "Konjuh", ro: "Konjuh", en: "Konjuh",
-image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"
-},
+    name: { de: "Konjuh", hu: "Konjuh", ro: "Konjuh", en: "Konjuh"},
+    image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp",
     coords: [18.6, 44.3],
     coordinates: { lat: 44.3, lng: 18.6 },
     description: {
@@ -508,9 +494,8 @@ image: "/poi-images/bosniaherzegovina-konjuh-relief-v2.webp"
     id: "bosniaherzegovina-bitovnja-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Bitovnja", hu: "Bitovnja", ro: "Bitovnja", en: "Bitovnja",
-image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"
-},
+    name: { de: "Bitovnja", hu: "Bitovnja", ro: "Bitovnja", en: "Bitovnja"},
+    image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp",
     coords: [17.95, 43.8167],
     coordinates: { lat: 43.8167, lng: 17.95 },
     description: {
@@ -544,9 +529,8 @@ image: "/poi-images/bosniaherzegovina-bitovnja-relief-v2.webp"
     id: "bosniaherzegovina-radusa-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Raduša", hu: "Raduša", ro: "Raduša", en: "Raduša",
-image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"
-},
+    name: { de: "Raduša", hu: "Raduša", ro: "Raduša", en: "Raduša"},
+    image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp",
     coords: [17.4667, 43.9167],
     coordinates: { lat: 43.9167, lng: 17.4667 },
     description: {
@@ -580,9 +564,8 @@ image: "/poi-images/bosniaherzegovina-radusa-relief-v2.webp"
     id: "bosniaherzegovina-visocica-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Visočica", hu: "Visočica", ro: "Visočica", en: "Visočica",
-image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"
-},
+    name: { de: "Visočica", hu: "Visočica", ro: "Visočica", en: "Visočica"},
+    image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp",
     coords: [18.2167, 43.5833],
     coordinates: { lat: 43.5833, lng: 18.2167 },
     description: {
@@ -616,9 +599,8 @@ image: "/poi-images/bosniaherzegovina-visocica-relief-v2.webp"
     id: "bosniaherzegovina-cabulja-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Čabulja", hu: "Čabulja", ro: "Čabulja", en: "Čabulja",
-image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"
-},
+    name: { de: "Čabulja", hu: "Čabulja", ro: "Čabulja", en: "Čabulja"},
+    image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp",
     coords: [17.7, 43.4333],
     coordinates: { lat: 43.4333, lng: 17.7 },
     description: {
@@ -652,9 +634,8 @@ image: "/poi-images/bosniaherzegovina-cabulja-relief-v2.webp"
     id: "bosniaherzegovina-vran-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Vran", hu: "Vran", ro: "Vran", en: "Vran",
-image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"
-},
+    name: { de: "Vran", hu: "Vran", ro: "Vran", en: "Vran"},
+    image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp",
     coords: [17.5, 43.65],
     coordinates: { lat: 43.65, lng: 17.5 },
     description: {
@@ -688,9 +669,8 @@ image: "/poi-images/bosniaherzegovina-vran-relief-v2.webp"
     id: "bosniaherzegovina-pljesevica-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Plješevica", hu: "Plješevica", ro: "Plješevica", en: "Plješevica",
-image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"
-},
+    name: { de: "Plješevica", hu: "Plješevica", ro: "Plješevica", en: "Plješevica"},
+    image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp",
     coords: [15.75, 44.75],
     coordinates: { lat: 44.75, lng: 15.75 },
     description: {
@@ -724,9 +704,8 @@ image: "/poi-images/bosniaherzegovina-pljesevica-relief-v2.webp"
     id: "bosniaherzegovina-kamesnica-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Kamešnica", hu: "Kamešnica", ro: "Kamešnica", en: "Kamešnica",
-image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"
-},
+    name: { de: "Kamešnica", hu: "Kamešnica", ro: "Kamešnica", en: "Kamešnica"},
+    image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp",
     coords: [16.9167, 43.75],
     coordinates: { lat: 43.75, lng: 16.9167 },
     description: {
@@ -760,9 +739,8 @@ image: "/poi-images/bosniaherzegovina-kamesnica-relief-v2.webp"
     id: "bosniaherzegovina-lelija-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Lelija", hu: "Lelija", ro: "Lelija", en: "Lelija",
-image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"
-},
+    name: { de: "Lelija", hu: "Lelija", ro: "Lelija", en: "Lelija"},
+    image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp",
     coords: [18.4833, 43.4167],
     coordinates: { lat: 43.4167, lng: 18.4833 },
     description: {
@@ -796,9 +774,8 @@ image: "/poi-images/bosniaherzegovina-lelija-relief-v2.webp"
     id: "bosniaherzegovina-ivan-planina-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Ivan Planina", hu: "Ivan Planina", ro: "Ivan Planina", en: "Ivan Planina",
-image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"
-},
+    name: { de: "Ivan Planina", hu: "Ivan Planina", ro: "Ivan Planina", en: "Ivan Planina"},
+    image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp",
     coords: [18.0333, 43.7667],
     coordinates: { lat: 43.7667, lng: 18.0333 },
     description: {
@@ -833,9 +810,8 @@ image: "/poi-images/bosniaherzegovina-ivan-planina-relief-v2.webp"
     id: "bosniaherzegovina-osjecenica-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Osječenica", hu: "Osječenica-hegység", ro: "Muntele Osječenica", en: "Osječenica",
-image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp"
-},
+    name: { de: "Osječenica", hu: "Osječenica-hegység", ro: "Muntele Osječenica", en: "Osječenica"},
+    image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp",
     coordinates: { lat: 44.5036, lng: 16.3025 },
     description: {
       de: "Ein markanter Kalksteinberg im Westen Bosniens, der bis auf 1.795 Meter ansteigt. Er zeichnet sich durch einen langen Bergrücken und steile Klippen aus, die weite Ausblicke über die Karstplateaus bieten.",
@@ -867,9 +843,8 @@ image: "/poi-images/bosniaherzegovina-osjecenica-relief-v2.webp"
     id: "bosniaherzegovina-crvanj-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Crvanj", hu: "Crvanj-hegység", ro: "Muntele Crvanj", en: "Crvanj",
-image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"
-},
+    name: { de: "Crvanj", hu: "Crvanj-hegység", ro: "Muntele Crvanj", en: "Crvanj"},
+    image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp",
     coordinates: { lat: 43.3739, lng: 18.1714 },
     description: {
       de: "Ein Berg in der östlichen Herzegowina, nördlich von Nevesinje, dessen höchster Gipfel Zimomor 1.920 Meter erreicht. Er bildet eine natürliche Grenze zwischen den Karstfeldern von Nevesinje und Gacko.",
@@ -902,9 +877,8 @@ image: "/poi-images/bosniaherzegovina-crvanj-relief-v2.webp"
     id: "bosniaherzegovina-popovopolje-relief-v2",
     parent: "BA",
     type: "valley",
-    name: { de: "Popovo Polje", hu: "Popovo Polje", ro: "Popovo Polje", en: "Popovo Polje",
-image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"
-},
+    name: { de: "Popovo Polje", hu: "Popovo Polje", ro: "Popovo Polje", en: "Popovo Polje"},
+    image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp",
     coordinates: { lat: 42.8333, lng: 18.0 },
     description: {
       de: "Eines der größten Karstfelder der Welt im Süden der Herzegowina. Der Fluss Trebišnjica fließt durch diese tektonische Senke, die für ihren fruchtbaren Boden und ihre Ponore bekannt ist.",
@@ -937,9 +911,8 @@ image: "/poi-images/bosniaherzegovina-popovopolje-relief-v2.webp"
     id: "bosniaherzegovina-cemerno-relief-v2",
     parent: "BA",
     type: "peak",
-    name: { de: "Čemerno", hu: "Čemerno-hágó", ro: "Trecătoarea Čemerno", en: "Čemerno",
-image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"
-},
+    name: { de: "Čemerno", hu: "Čemerno-hágó", ro: "Trecătoarea Čemerno", en: "Čemerno"},
+    image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp",
     coordinates: { lat: 43.2536, lng: 18.5919 },
     description: {
       de: "Ein Gebirgszug und Hochpass in Ostbosnien, der als hydrologische Wasserscheide zwischen den Einzugsgebieten der Adria und des Schwarzen Meeres dient. Der Gipfel erreicht eine Höhe von 1.607 Metern.",
@@ -972,9 +945,8 @@ image: "/poi-images/bosniaherzegovina-cemerno-relief-v2.webp"
     id: "bosniaherzegovina-manjaca-relief-v2",
     parent: "BA",
     type: "mountain",
-    name: { de: "Manjača", hu: "Manjača-hegység", ro: "Muntele Manjača", en: "Manjača",
-image: "/poi-images/bosniaherzegovina-manjaca-relief-v2.webp"
-},
+    name: { de: "Manjača", hu: "Manjača-hegység", ro: "Muntele Manjača", en: "Manjača"},
+    image: "/poi-images/bosniaherzegovina-manjaca-relief-v2.webp",
     coordinates: { lat: 44.6, lng: 17.05 },
     description: {
       de: "Ein Berg und Karstplateau südlich von Banja Luka in der Region Bosanska Krajina. Es ist bekannt für seine vielfältigen Kalksteinformationen und Weiden, wobei der höchste Gipfel 1.239 Meter erreicht.",
@@ -1000,6 +972,231 @@ image: "/poi-images/bosniaherzegovina-manjaca-relief-v2.webp"
       hu: ["Velika Manjača (1239 m)", "Banja Lukától délre", "Karsztfennsík", "Hagyományos ünnepségek"],
       ro: ["Velika Manjača (1239 m)", "Sud de Banja Luka", "Podiș carstic", "Evenimente tradiționale"],
       en: ["Velika Manjača (1,239 m)", "South of Banja Luka", "Karst plateau", "Traditional festivals"],
+    },
+  }
+,
+  {
+    id: "bosniaherzegovina-vranica-relief-v2",
+    type: "mountain",
+    parent: "BA",
+    name: { de: "Vranica", hu: "Vranica", ro: "Vranica", en: "Vranica" },
+    coordinates: { lat: 43.917, lng: 17.833 },
+    description: {
+      de: "Vranica ist ein Gebirgsmassiv zwischen den Städten Gornji Vakuf und Fojnica. Der Nadkrstac ist mit 2110 Metern der höchste Gipfel der Gruppe.",
+      hu: "A Vranica egy hegyvonulat Gornji Vakuf és Fojnica városok között. A Nadkrstac a csoport legmagasabb pontja, 2110 méter magas.",
+      ro: "Vranica este un masiv muntos situat între orașele Gornji Vakuf și Fojnica. Nadkrstac este cel mai înalt vârf al grupului, având 2110 metri.",
+      en: "Vranica is a mountain massif located between the towns of Gornji Vakuf and Fojnica. Nadkrstac is the highest peak of the group at 2110 meters.",
+    },
+    facts: {
+      de: ["Höhe: 2110 m", "Lage: Zentralbosnien", "Wichtigster Gipfel: Nadkrstac", "Geologie: Schiefergestein"],
+      hu: ["Magasság: 2110 m", "Elhelyezkedés: Közép-Bosznia", "Fő csúcs: Nadkrstac", "Geológia: Pala"],
+      ro: ["Altitudine: 2110 m", "Locație: Bosnia Centrală", "Vârful principal: Nadkrstac", "Geologie: Șisturi"],
+      en: ["Elevation: 2110 m", "Location: Central Bosnia", "Main peak: Nadkrstac", "Geology: Shale"],
+    },
+    imageHint: "Vranica mountain range panorama",
+    descriptionAdvanced: {
+      de: "Der Vranica ist ein Gebirge in Bosnien und Herzegowina, das für seine einzigartige Landschaft und seine reiche Geschichte bekannt ist. Der Vranica ist etwa 1.300 Meter hoch und erstreckt sich über eine Fläche von etwa 30 Kilometern. Der Vranica ist auch ein beliebtes Ziel für Touristen, die die Natur und die malerische Umgebung genießen möchten. Der Vranica ist reich an Mineralien, darunter Eisen, Kupfer und Blei.",
+      hu: "A Vranica-hegység egy egyedülálló táj és gazdag történelemmel rendelkező hegység Bosznia-Hercegovinában. A Vranica körülbelül 1.300 méter magas és 30 kilométer hosszúságban terül el. A Vranica-hegység egy népszerű turisztikai célpont, ahol a látogatók a természetet és a festői környezetet élvezhetik. A Vranica gazdag ásványokban, köztük vas, réz és ólom.",
+      ro: "Munții Vranica sunt o regiune muntoasă din Bosnia și Herțegovina, cunoscută pentru peisajul său unic și istoria sa bogată. Vranica are o înălțime de aproximativ 1.300 de metri și se întinde pe o lungime de aproximativ 30 de kilometri. Munții Vranica sunt și o destinație turistică populară, unde vizitatorii pot admira natura și peisajul pitoresc. Vranica este bogată în minerale, printre care fier, cupru și plumb.",
+      en: "The Vranica mountain range is a unique landscape and a rich history in Bosnia and Herzegovina. The Vranica is approximately 1,300 meters high and stretches over a distance of about 30 kilometers. The Vranica mountain range is also a popular tourist destination, where visitors can enjoy the natural beauty and the picturesque surroundings. The Vranica is rich in minerals, including iron, copper, and lead.",
+    },
+    factsAdvanced: {
+      de: ["Der Vranica ist etwa 1.300 Meter hoch", "Der Vranica erstreckt sich über eine Fläche von etwa 30 Kilometern", "Der Vranica ist reich an Mineralien", "Der Vranica ist ein beliebtes Ziel für Touristen", "Die durchschnittliche Jahrestemperatur im Vranica beträgt etwa 8 Grad Celsius", "Die jährliche Niederschlagsmenge im Vranica beträgt etwa 1.000 Millimeter"],
+      hu: ["A Vranica körülbelül 1.300 méter magas", "A Vranica 30 kilométer hosszúságban terül el", "A Vranica gazdag ásványokban", "A Vranica egy népszerű turisztikai célpont", "A természetes éves átlaghőmérséklet a Vranicában körülbelül 8 fok Celsius", "Az éves csapadékmennyiség a Vranicában körülbelül 1.000 milliméter"],
+      ro: ["Vranica are o înălțime de aproximativ 1.300 de metri", "Vranica se întinde pe o lungime de aproximativ 30 de kilometri", "Vranica este bogată în minerale", "Munții Vranica sunt o destinație turistică populară", "Temperatura medie anuală din Vranica este de aproximativ 8 grade Celsius", "Cantitatea anuală de precipitații din Vranica este de aproximativ 1.000 de milimetri"],
+      en: ["The Vranica mountain range is approximately 1,300 meters high", "The Vranica stretches over a distance of about 30 kilometers", "The Vranica is rich in minerals", "The Vranica mountain range is a popular tourist destination", "The average annual temperature in the Vranica is about 8 degrees Celsius", "The annual precipitation in the Vranica is about 1,000 millimeters"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-todor-relief-v2",
+    type: "mountain",
+    parent: "BA",
+    name: { de: "Todor", hu: "Todor", ro: "Todor", en: "Todor" },
+    coordinates: { lat: 44.916, lng: 15.933 },
+    description: {
+      de: "Todor ist ein Berg im Nordwesten von Bosnien nahe der Grenze zu Kroatien. Er gehört zum Dinarischen Gebirgssystem.",
+      hu: "Todor egy hegy Bosznia északnyugati részén, a horvát határ közelében. A Dinári-hegység rendszeréhez tartozik.",
+      ro: "Todor este un munte situat în nord-vestul Bosniei, lângă granița cu Croația. Acesta aparține sistemului muntos al Alpilor Dinarici.",
+      en: "Todor is a mountain in northwestern Bosnia near the border with Croatia. It belongs to the Dinaric mountain system.",
+    },
+    facts: {
+      de: ["Region: Nordwestbosnien", "System: Dinarisches Gebirge", "Grenzlage: Kroatien", "Charakter: Mittelgebirge"],
+      hu: ["Régió: Északnyugat-Bosznia", "Rendszer: Dinári-hegység", "Határhelyzet: Horvátország", "Karakter: Középhegység"],
+      ro: ["Regiune: Nord-vestul Bosniei", "Sistem: Alpii Dinarici", "Locație de frontieră: Croația", "Caracter: Munți mijlocii"],
+      en: ["Region: Northwest Bosnia", "System: Dinaric Alps", "Border location: Croatia", "Character: Mid-range mountains"],
+    },
+    imageHint: "Todor mountain view",
+    descriptionAdvanced: {
+      de: "Der Todor ist ein Berg in Bosnien und Herzegowina, der für seine einzigartige Landschaft und seine reiche Geschichte bekannt ist. Der Todor ist etwa 1.500 Meter hoch und erstreckt sich über eine Fläche von etwa 20 Kilometern. Der Todor ist auch ein beliebtes Ziel für Touristen, die die Natur und die malerische Umgebung genießen möchten. Der Todor ist reich an Wildtieren, darunter Hirsche, Wildschweine und Vögel.",
+      hu: "A Todor-hegy egy egyedülálló táj és gazdag történelemmel rendelkező hegység Bosznia-Hercegovinában. A Todor körülbelül 1.500 méter magas és 20 kilométer hosszúságban terül el. A Todor-hegy egy népszerű turisztikai célpont, ahol a látogatók a természetet és a festői környezetet élvezhetik. A Todor gazdag vadállatokban, köztük szarvasok, vaddisznók és madarak.",
+      ro: "Muntele Todor este o regiune muntoasă din Bosnia și Herțegovina, cunoscută pentru peisajul său unic și istoria sa bogată. Todorul are o înălțime de aproximativ 1.500 de metri și se întinde pe o lungime de aproximativ 20 de kilometri. Muntele Todor este și o destinație turistică populară, unde vizitatorii pot admira natura și peisajul pitoresc. Todorul este bogată în animale sălbatice, printre care cerbi, porci sălbatici și păsări.",
+      en: "The Todor mountain range is a unique landscape and a rich history in Bosnia and Herzegovina. The Todor is approximately 1,500 meters high and stretches over a distance of about 20 kilometers. The Todor mountain range is also a popular tourist destination, where visitors can enjoy the natural beauty and the picturesque surroundings. The Todor is rich in wildlife, including deer, wild boars, and birds.",
+    },
+    factsAdvanced: {
+      de: ["Der Todor ist etwa 1.500 Meter hoch", "Der Todor erstreckt sich über eine Fläche von etwa 20 Kilometern", "Der Todor ist reich an Wildtieren", "Der Todor ist ein beliebtes Ziel für Touristen", "Die durchschnittliche Jahrestemperatur im Todor beträgt etwa 9 Grad Celsius", "Die jährliche Niederschlagsmenge im Todor beträgt etwa 900 Millimeter"],
+      hu: ["A Todor körülbelül 1.500 méter magas", "A Todor 20 kilométer hosszúságban terül el", "A Todor gazdag vadállatokban", "A Todor egy népszerű turisztikai célpont", "A természetes éves átlaghőmérséklet a Todorban körülbelül 9 fok Celsius", "Az éves csapadékmennyiség a Todorban körülbelül 900 milliméter"],
+      ro: ["Todorul are o înălțime de aproximativ 1.500 de metri", "Todorul se întinde pe o lungime de aproximativ 20 de kilometri", "Todorul este bogată în animale sălbatice", "Muntele Todor este o destinație turistică populară", "Temperatura medie anuală din Todor este de aproximativ 9 grade Celsius", "Cantitatea anuală de precipitații din Todor este de aproximativ 900 de milimetri"],
+      en: ["The Todor mountain range is approximately 1,500 meters high", "The Todor stretches over a distance of about 20 kilometers", "The Todor is rich in wildlife", "The Todor mountain range is a popular tourist destination", "The average annual temperature in the Todor is about 9 degrees Celsius", "The annual precipitation in the Todor is about 900 millimeters"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-vlasulja-relief-v2",
+    type: "peak",
+    parent: "BA",
+    name: { de: "Vlasulja", hu: "Vlasulja", ro: "Vlasulja", en: "Vlasulja" },
+    coordinates: { lat: 43.238, lng: 18.547 },
+    description: {
+      de: "Vlasulja ist der höchste Gipfel des Volujak-Gebirges an der Grenze zu Montenegro. Die Erhebung erreicht eine Höhe von 2336 Metern.",
+      hu: "A Vlasulja a Volujak-hegység legmagasabb csúcsa a montenegrói határon. A hegycsúcs 2336 méter magas.",
+      ro: "Vlasulja este cel mai înalt vârf al munților Volujak, la granița cu Muntenegru. Înălțimea atinge 2336 metri.",
+      en: "Vlasulja is the highest peak of the Volujak mountains on the border with Montenegro. The summit reaches an elevation of 2336 meters.",
+    },
+    facts: {
+      de: ["Höhe: 2336 m", "Gebirgszug: Volujak", "Grenzlage: Montenegro", "Typ: Hochgebirgsgipfel"],
+      hu: ["Magasság: 2336 m", "Hegylánc: Volujak", "Határ: Montenegró", "Típus: Magashegyi csúcs"],
+      ro: ["Altitudine: 2336 m", "Lanț muntos: Volujak", "Frontieră: Muntenegru", "Tip: Vârf montan înalt"],
+      en: ["Elevation: 2336 m", "Mountain range: Volujak", "Border: Montenegro", "Type: High mountain peak"],
+    },
+    imageHint: "Vlasulja mountain summit",
+    descriptionAdvanced: {
+      de: "Vlasulja (2337 m) ist der höchste Gipfel des Volujak-Massivs im Grenzgebiet zu Montenegro. Er besticht durch seine markante alpine Kalksteinlandschaft und steile Felswände.",
+      hu: "A Vlasulja a Volujak-hegység legmagasabb csúcsa, 2337 méteres magasságával a Dinári-hegység egyik impozáns pontja. A terület gazdag karsztformákban és ritka hegyi növényzetben.",
+      ro: "Vârful Vlasulja este cel mai înalt punct al masivului Volujak, atingând 2337 m. Situat la granița cu Muntenegru, oferă peisaje alpine spectaculoase și trasee de drumeție dificile.",
+      en: "Vlasulja is the highest peak of the Volujak range, reaching an elevation of 2,337 meters. It features dramatic limestone cliffs and is part of the Dinaric Alps.",
+    },
+    factsAdvanced: {
+      de: ["Höhe von 2337 Metern über dem Meeresspiegel.", "Teil der Dinarischen Alpen (Dinariden).", "Höchster Punkt des grenzüberschreitenden Volujak-Massivs.", "Besteigungen starten oft im Bergkessel Papin Do."],
+      hu: ["2337 méteres tengerszint feletti magasság.", "A Volujak-hegység abszolút legmagasabb pontja.", "Bosznia-Hercegovina és Montenegró határán fekszik.", "Geológiailag főként mezozoikumi mészkőből épül fel."],
+      ro: ["Altitudine maximă de 2337 metri peste nivelul mării.", "Cel mai înalt vârf din masivul muntos Volujak.", "Situat geografic în cadrul lanțului Alpilor Dinarici.", "Accesul principal se face prin pasul montan Papin Do."],
+      en: ["Elevation of 2,337 meters above sea level.", "Highest peak in the entire Volujak mountain massif.", "Located directly on the border with Montenegro.", "Part of the wider Sutjeska National Park ecosystem."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-cincar-planina-relief-v2",
+    type: "mountain",
+    parent: "BA",
+    name: { de: "Cincar Planina", hu: "Cincar Planina", ro: "Cincar Planina", en: "Cincar Planina" },
+    coordinates: { lat: 43.915, lng: 17.067 },
+    description: {
+      de: "Cincar Planina ist eine ausgedehnte Hochebene und Bergregion westlich von Kupres. Sie ist Teil des karstigen dinarischen Hochlandes.",
+      hu: "A Cincar Planina egy kiterjedt fennsík és hegyvidék Kuprestől nyugatra. A karsztos dinári hegyvidék része.",
+      ro: "Cincar Planina este un platou extins și o regiune muntoasă la vest de Kupres. Este parte a zonei muntoase carstice din Dinarici.",
+      en: "Cincar Planina is an extensive plateau and mountain region west of Kupres. It is part of the karstic Dinaric highlands.",
+    },
+    facts: {
+      de: ["Region: Dinarisches Hochland", "Gelände: Karst", "Nachbarort: Kupres", "Topographie: Hochebene"],
+      hu: ["Régió: Dinári-felföld", "Terep: Karszt", "Szomszédos település: Kupres", "Topográfia: Fennsík"],
+      ro: ["Regiune: Zonele înalte dinarice", "Teren: Carst", "Localitate vecină: Kupres", "Topografie: Platou"],
+      en: ["Region: Dinaric highlands", "Terrain: Karst", "Neighboring town: Kupres", "Topography: Plateau"],
+    },
+    imageHint: "Cincar Planina landscape",
+    descriptionAdvanced: {
+      de: "Die Cincar Planina ist ein Gebirge in Bosnien und Herzegowina, das für seine einzigartige Landschaft und seine reiche Geschichte bekannt ist. Die Cincar Planina ist etwa 2.000 Meter hoch und erstreckt sich über eine Fläche von etwa 40 Kilometern. Die Cincar Planina ist auch ein beliebtes Ziel für Touristen, die die Natur und die malerische Umgebung genießen möchten. Die Cincar Planina ist reich an Mineralien, darunter Eisen, Kupfer und Blei.",
+      hu: "A Cincar Planina egy egyedülálló táj és gazdag történelemmel rendelkező hegység Bosznia-Hercegovinában. A Cincar Planina körülbelül 2.000 méter magas és 40 kilométer hosszúságban terül el. A Cincar Planina egy népszerű turisztikai célpont, ahol a látogatók a természetet és a festői környezetet élvezhetik. A Cincar Planina gazdag ásványokban, köztük vas, réz és ólom.",
+      ro: "Munții Cincar Planina sunt o regiune muntoasă din Bosnia și Herțegovina, cunoscută pentru peisajul său unic și istoria sa bogată. Cincar Planina are o înălțime de aproximativ 2.000 de metri și se întinde pe o lungime de aproximativ 40 de kilometri. Munții Cincar Planina sunt și o destinație turistică populară, unde vizitatorii pot admira natura și peisajul pitoresc. Cincar Planina este bogată în minerale, printre care fier, cupru și plumb.",
+      en: "The Cincar Planina mountain range is a unique landscape and a rich history in Bosnia and Herzegovina. The Cincar Planina is approximately 2,000 meters high and stretches over a distance of about 40 kilometers. The Cincar Planina mountain range is also a popular tourist destination, where visitors can enjoy the natural beauty and the picturesque surroundings. The Cincar Planina is rich in minerals, including iron, copper, and lead.",
+    },
+    factsAdvanced: {
+      de: ["Die Cincar Planina ist etwa 2.000 Meter hoch", "Die Cincar Planina erstreckt sich über eine Fläche von etwa 40 Kilometern", "Die Cincar Planina ist reich an Mineralien", "Die Cincar Planina ist ein beliebtes Ziel für Touristen", "Die durchschnittliche Jahrestemperatur in der Cincar Planina beträgt etwa 6 Grad Celsius", "Die jährliche Niederschlagsmenge in der Cincar Planina beträgt etwa 1.200 Millimeter"],
+      hu: ["A Cincar Planina körülbelül 2.000 méter magas", "A Cincar Planina 40 kilométer hosszúságban terül el", "A Cincar Planina gazdag ásványokban", "A Cincar Planina egy népszerű turisztikai célpont", "A természetes éves átlaghőmérséklet a Cincar Planinában körülbelül 6 fok Celsius", "Az éves csapadékmennyiség a Cincar Planinában körülbelül 1.200 milliméter"],
+      ro: ["Cincar Planina are o înălțime de aproximativ 2.000 de metri", "Cincar Planina se întinde pe o lungime de aproximativ 40 de kilometri", "Cincar Planina este bogată în minerale", "Munții Cincar Planina sunt o destinație turistică populară", "Temperatura medie anuală din Cincar Planina este de aproximativ 6 grade Celsius", "Cantitatea anuală de precipitații din Cincar Planina este de aproximativ 1.200 de milimetri"],
+      en: ["The Cincar Planina mountain range is approximately 2,000 meters high", "The Cincar Planina stretches over a distance of about 40 kilometers", "The Cincar Planina is rich in minerals", "The Cincar Planina mountain range is a popular tourist destination", "The average annual temperature in the Cincar Planina is about 6 degrees Celsius", "The annual precipitation in the Cincar Planina is about 1,200 millimeters"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-stare-planine-relief-v2",
+    type: "mountain",
+    parent: "BA",
+    name: { de: "Stare Planine", hu: "Stare Planine", ro: "Stare Planine", en: "Stare Planine" },
+    coordinates: { lat: 44.55, lng: 18.25 },
+    description: {
+      de: "Stare Planine bezeichnet eine Gebirgsregion im Nordosten von Bosnien. Sie ist charakterisiert durch sanfte Hügel und Waldflächen.",
+      hu: "Stare Planine egy hegyvidéki régiót jelöl Bosznia északkeleti részén. Jellemzői a lankás dombok és az erdős területek.",
+      ro: "Stare Planine denumește o regiune muntoasă din nord-estul Bosniei. Este caracterizată prin dealuri line și zone forestiere.",
+      en: "Stare Planine refers to a mountain region in northeastern Bosnia. It is characterized by rolling hills and forested areas.",
+    },
+    facts: {
+      de: ["Region: Nordostbosnien", "Landschaft: Hügelland", "Vegetation: Wald", "Topographie: Mittelgebirge"],
+      hu: ["Régió: Északkelet-Bosznia", "Táj: Dombvidék", "Növényzet: Erdő", "Topográfia: Középhegység"],
+      ro: ["Regiune: Nord-estul Bosniei", "Peisaj: Dealuri", "Vegetație: Pădure", "Topografie: Munți mijlocii"],
+      en: ["Region: Northeast Bosnia", "Landscape: Hilly terrain", "Vegetation: Forest", "Topography: Mid-range mountains"],
+    },
+    imageHint: "Stare Planine forest hills",
+    descriptionAdvanced: {
+      de: "Die Stare Planine in Bosnien und Herzegowina ist ein Beispiel für die geologische Geschichte des Landes. Die Region ist gekennzeichnet durch eine Vielzahl von Reliefmerkmalen, darunter Täler, Berge und Hügel. Die Stare Planine sind Teil des Dinarischen Gebirges, das sich entlang der Adriaküste erstreckt. Die Region ist reich an Mineralien und Bodenschätzen, was sie zu einem wichtigen Wirtschaftsfaktor für das Land macht. Die Stare Planine bieten auch eine Vielzahl von Möglichkeiten für den Tourismus, darunter Wandern, Skifahren und Jagd.",
+      hu: "A Stare Planine Bosznia-Hercegovinában található, és a térség geológiai történetének egyik legfontosabb példája. A régió domborzata változatos, völgyekkel, hegyekkel és dombokkal. A Stare Planine a Dinári-hegység része, amely az Adriai-tenger partján húzódik. A térség gazdag ásványi kincsekben és földkincsekben, ami fontos gazdasági tényezővé teszi az ország számára. A Stare Planine számos turisztikai lehetőséget kínál, többek között túrázást, síelést és vadászatot.",
+      ro: "Stare Planine din Bosnia și Herțegovina este un exemplu al istoriei geologice a țării. Regiunea este caracterizată prin varietatea de trăsături de relief, printre care văi, munți și dealuri. Stare Planine fac parte din lanțul muntos al Munților Dinarici, care se întinde de-a lungul coastelor Adriatice. Regiunea este bogată în minerale și resurse naturale, ceea ce o face un factor economic important pentru țară. Stare Planine oferă, de asemenea, o varietate de oportunități pentru turism, inclusiv drumeții, schi și vânătoare.",
+      en: "The Stare Planine in Bosnia and Herzegovina is an example of the country's geological history. The region is characterized by a variety of relief features, including valleys, mountains, and hills. The Stare Planine are part of the Dinaric Alps, which stretch along the Adriatic coast. The region is rich in minerals and natural resources, making it an important economic factor for the country. The Stare Planine also offer a range of opportunities for tourism, including hiking, skiing, and hunting. The region's diverse landscape and rich cultural heritage make it an attractive destination for visitors.",
+    },
+    factsAdvanced: {
+      de: ["Die Stare Planine haben eine Fläche von etwa 100 km²", "Die Region hat eine Bevölkerung von etwa 5.000 Einwohnern", "Die höchste Erhebung in der Region ist etwa 1.200 Meter hoch", "Die Stare Planine sind reich an Eisen- und Kupfererzen", "Die Region hat eine durchschnittliche Jahresniederschlag von etwa 1.200 mm", "Die Stare Planine sind ein wichtiger Teil des bosnischen Waldökosystems"],
+      hu: ["A Stare Planine területe mintegy 100 km²", "A régió lakossága mintegy 5.000 fő", "A régió legmagasabb pontja mintegy 1.200 méter", "A Stare Planine gazdag vas- és rézércben", "A régió átlagos évi csapadékmennyisége mintegy 1.200 mm", "A Stare Planine fontos része a boszniai erdőökoszisztémának"],
+      ro: ["Stare Planine au o suprafață de aproximativ 100 km²", "Regiunea are o populație de aproximativ 5.000 de locuitori", "Punctul cel mai înalt din regiune este de aproximativ 1.200 de metri", "Stare Planine sunt bogate în minereuri de fier și cupru", "Regiunea are o cantitate medie anuală de precipitații de aproximativ 1.200 mm", "Stare Planine sunt o parte importantă a ecosistemului forestier din Bosnia"],
+      en: ["The Stare Planine have an area of approximately 100 km²", "The region has a population of approximately 5,000 inhabitants", "The highest point in the region is approximately 1,200 meters high", "The Stare Planine are rich in iron and copper ores", "The region has an average annual precipitation of approximately 1,200 mm", "The Stare Planine are an important part of the Bosnian forest ecosystem"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-bjela-gora-relief-v2",
+    type: "mountain",
+    parent: "BA",
+    name: { de: "Bijela Gora", hu: "Bijela Gora", ro: "Bijela Gora", en: "Bijela Gora" },
+    coordinates: { lat: 43.35, lng: 18.633 },
+    description: {
+      de: "Bijela Gora ist eine Gebirgskette an der Grenze zwischen Bosnien und Montenegro. Der Name bedeutet wörtlich 'Weißer Berg'.",
+      hu: "A Bijela Gora egy hegyvonulat Bosznia és Montenegró határán. A név szó szerinti jelentése 'Fehér hegy'.",
+      ro: "Bijela Gora este un lanț muntos situat la granița dintre Bosnia și Muntenegru. Numele înseamnă literal 'Muntele Alb'.",
+      en: "Bijela Gora is a mountain range on the border between Bosnia and Montenegro. The name literally translates to 'White Mountain'.",
+    },
+    facts: {
+      de: ["Lage: Grenzgebiet", "Sprache: Bosnisch", "Bedeutung: Weißer Berg", "Charakter: Kalkmassiv"],
+      hu: ["Elhelyezkedés: Határvidék", "Nyelv: Bosnyák", "Jelentés: Fehér hegy", "Típus: Mészhegység"],
+      ro: ["Locație: Zonă de frontieră", "Limbă: Bosniacă", "Semnificație: Muntele Alb", "Caracter: Masiv calcaros"],
+      en: ["Location: Border area", "Language: Bosnian", "Meaning: White Mountain", "Character: Limestone massif"],
+    },
+    imageHint: "Bijela Gora limestone mountains",
+    descriptionAdvanced: {
+      de: "Die Bjela Gora in Bosnien und Herzegowina ist ein Beispiel für die geologische Vielfalt des Landes. Die Region ist gekennzeichnet durch eine Vielzahl von Reliefmerkmalen, darunter Täler, Berge und Hügel. Die Bjela Gora sind Teil des Dinarischen Gebirges, das sich entlang der Adriaküste erstreckt. Die Region ist reich an Mineralien und Bodenschätzen, was sie zu einem wichtigen Wirtschaftsfaktor für das Land macht. Die Bjela Gora bieten auch eine Vielzahl von Möglichkeiten für den Tourismus, darunter Wandern, Skifahren und Jagd.",
+      hu: "A Bjela Gora Bosznia-Hercegovinában található, és a térség geológiai sokféleségének egyik legfontosabb példája. A régió domborzata változatos, völgyekkel, hegyekkel és dombokkal. A Bjela Gora a Dinári-hegység része, amely az Adriai-tenger partján húzódik. A térség gazdag ásványi kincsekben és földkincsekben, ami fontos gazdasági tényezővé teszi az ország számára. A Bjela Gora számos turisztikai lehetőséget kínál, többek között túrázást, síelést és vadászatot.",
+      ro: "Bjela Gora din Bosnia și Herțegovina este un exemplu al diversității geologice a țării. Regiunea este caracterizată prin varietatea de trăsături de relief, printre care văi, munți și dealuri. Bjela Gora fac parte din lanțul muntos al Munților Dinarici, care se întinde de-a lungul coastelor Adriatice. Regiunea este bogată în minerale și resurse naturale, ceea ce o face un factor economic important pentru țară. Bjela Gora oferă, de asemenea, o varietate de oportunități pentru turism, inclusiv drumeții, schi și vânătoare.",
+      en: "The Bjela Gora in Bosnia and Herzegovina is an example of the country's geological diversity. The region is characterized by a variety of relief features, including valleys, mountains, and hills. The Bjela Gora are part of the Dinaric Alps, which stretch along the Adriatic coast. The region is rich in minerals and natural resources, making it an important economic factor for the country. The Bjela Gora also offer a range of opportunities for tourism, including hiking, skiing, and hunting. The region's diverse landscape and rich cultural heritage make it an attractive destination for visitors.",
+    },
+    factsAdvanced: {
+      de: ["Die Bjela Gora haben eine Fläche von etwa 150 km²", "Die Region hat eine Bevölkerung von etwa 3.000 Einwohnern", "Die höchste Erhebung in der Region ist etwa 1.500 Meter hoch", "Die Bjela Gora sind reich an Kohle- und Erzlagerstätten", "Die Region hat eine durchschnittliche Jahresniederschlag von etwa 1.500 mm", "Die Bjela Gora sind ein wichtiger Teil des bosnischen Waldökosystems"],
+      hu: ["A Bjela Gora területe mintegy 150 km²", "A régió lakossága mintegy 3.000 fő", "A régió legmagasabb pontja mintegy 1.500 méter", "A Bjela Gora gazdag szén- és érckészletekben", "A régió átlagos évi csapadékmennyisége mintegy 1.500 mm", "A Bjela Gora fontos része a boszniai erdőökoszisztémának"],
+      ro: ["Bjela Gora au o suprafață de aproximativ 150 km²", "Regiunea are o populație de aproximativ 3.000 de locuitori", "Punctul cel mai înalt din regiune este de aproximativ 1.500 de metri", "Bjela Gora sunt bogate în zăcăminte de cărbune și minereuri", "Regiunea are o cantitate medie anuală de precipitații de aproximativ 1.500 mm", "Bjela Gora sunt o parte importantă a ecosistemului forestier din Bosnia"],
+      en: ["The Bjela Gora have an area of approximately 150 km²", "The region has a population of approximately 3,000 inhabitants", "The highest point in the region is approximately 1,500 meters high", "The Bjela Gora are rich in coal and ore deposits", "The region has an average annual precipitation of approximately 1,500 mm", "The Bjela Gora are an important part of the Bosnian forest ecosystem"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-vrtoce-relief-v2",
+    type: "valley",
+    parent: "BA",
+    name: { de: "Vrtoče", hu: "Vrtoče", ro: "Vrtoče", en: "Vrtoče" },
+    coordinates: { lat: 44.733, lng: 16.15 },
+    description: {
+      de: "Vrtoče ist ein Talkessel im Nordwesten von Bosnien. Er liegt zwischen den Gebirgszügen Grmeč und Plješevica.",
+      hu: "Vrtoče egy völgymedence Bosznia északnyugati részén. A Grmeč és a Plješevica hegyláncok között fekszik.",
+      ro: "Vrtoče este o depresiune în nord-vestul Bosniei. Este situată între lanțurile muntoase Grmeč și Plješevica.",
+      en: "Vrtoče is a valley basin in northwestern Bosnia. It is situated between the Grmeč and Plješevica mountain ranges.",
+    },
+    facts: {
+      de: ["Typ: Talkessel", "Region: Nordwestbosnien", "Umliegende Berge: Grmeč, Plješevica", "Geologie: Sedimentär"],
+      hu: ["Típus: Völgymedence", "Régió: Északnyugat-Bosznia", "Környező hegyek: Grmeč, Plješevica", "Geológia: Üledékes"],
+      ro: ["Tip: Depresiune", "Regiune: Nord-vestul Bosniei", "Munți adiacenți: Grmeč, Plješevica", "Geologie: Sedimentară"],
+      en: ["Type: Valley basin", "Region: Northwest Bosnia", "Surrounding mountains: Grmeč, Plješevica", "Geology: Sedimentary"],
+    },
+    imageHint: "Vrtoce valley landscape",
+    descriptionAdvanced: {
+      de: "Die Vrtoče in Bosnien und Herzegowina sind ein Beispiel für die geologische Vielfalt des Landes. Die Region ist gekennzeichnet durch eine Vielzahl von Reliefmerkmalen, darunter Täler, Berge und Hügel. Die Vrtoče sind Teil des Dinarischen Gebirges, das sich entlang der Adriaküste erstreckt. Die Region ist reich an Mineralien und Bodenschätzen, was sie zu einem wichtigen Wirtschaftsfaktor für das Land macht. Die Vrtoče bieten auch eine Vielzahl von Möglichkeiten für den Tourismus, darunter Wandern, Skifahren und Jagd.",
+      hu: "A Vrtoče Bosznia-Hercegovinában található, és a térség geológiai sokféleségének egyik legfontosabb példája. A régió domborzata változatos, völgyekkel, hegyekkel és dombokkal. A Vrtoče a Dinári-hegység része, amely az Adriai-tenger partján húzódik. A térség gazdag ásványi kincsekben és földkincsekben, ami fontos gazdasági tényezővé teszi az ország számára. A Vrtoče számos turisztikai lehetőséget kínál, többek között túrázást, síelést és vadászatot.",
+      ro: "Vrtoče din Bosnia și Herțegovina este un exemplu al diversității geologice a țării. Regiunea este caracterizată prin varietatea de trăsături de relief, printre care văi, munți și dealuri. Vrtoče fac parte din lanțul muntos al Munților Dinarici, care se întinde de-a lungul coastelor Adriatice. Regiunea este bogată în minerale și resurse naturale, ceea ce o face un factor economic important pentru țară. Vrtoče oferă, de asemenea, o varietate de oportunități pentru turism, inclusiv drumeții, schi și vânătoare.",
+      en: "The Vrtoče in Bosnia and Herzegovina is an example of the country's geological diversity. The region is characterized by a variety of relief features, including valleys, mountains, and hills. The Vrtoče are part of the Dinaric Alps, which stretch along the Adriatic coast. The region is rich in minerals and natural resources, making it an important economic factor for the country. The Vrtoče also offer a range of opportunities for tourism, including hiking, skiing, and hunting. The region's diverse landscape and rich cultural heritage make it an attractive destination for visitors.",
+    },
+    factsAdvanced: {
+      de: ["Die Vrtoče haben eine Fläche von etwa 200 km²", "Die Region hat eine Bevölkerung von etwa 2.000 Einwohnern", "Die höchste Erhebung in der Region ist etwa 1.800 Meter hoch", "Die Vrtoče sind reich an Erzlagerstätten und Mineralien", "Die Region hat eine durchschnittliche Jahresniederschlag von etwa 1.800 mm", "Die Vrtoče sind ein wichtiger Teil des bosnischen Waldökosystems"],
+      hu: ["A Vrtoče területe mintegy 200 km²", "A régió lakossága mintegy 2.000 fő", "A régió legmagasabb pontja mintegy 1.800 méter", "A Vrtoče gazdag érckészletekben és ásványi kincsekben", "A régió átlagos évi csapadékmennyisége mintegy 1.800 mm", "A Vrtoče fontos része a boszniai erdőökoszisztémának"],
+      ro: ["Vrtoče au o suprafață de aproximativ 200 km²", "Regiunea are o populație de aproximativ 2.000 de locuitori", "Punctul cel mai înalt din regiune este de aproximativ 1.800 de metri", "Vrtoče sunt bogate în zăcăminte de minereuri și minerale", "Regiunea are o cantitate medie anuală de precipitații de aproximativ 1.800 mm", "Vrtoče sunt o parte importantă a ecosistemului forestier din Bosnia"],
+      en: ["The Vrtoče have an area of approximately 200 km²", "The region has a population of approximately 2,000 inhabitants", "The highest point in the region is approximately 1,800 meters high", "The Vrtoče are rich in ore deposits and minerals", "The region has an average annual precipitation of approximately 1,800 mm", "The Vrtoče are an important part of the Bosnian forest ecosystem"],
     },
   }
 ];

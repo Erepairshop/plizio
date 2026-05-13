@@ -6,9 +6,8 @@ export const poiExtraSaudiarabiaLandmarksV2: POI[] = [
     type: "landmark",
     parent: "SA-03",
     coords: [37.9472, 26.8041],
-    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra",
-image: "/poi-images/hegra-landmarks-v2.webp"
-},
+    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra"},
+    image: "/poi-images/hegra-landmarks-v2.webp",
     description: {
       de: "Die antike nabatäische Stadt im Nordwesten Saudi-Arabiens ist das erste UNESCO-Welterbe des Landes.",
       hu: "Szaúd-Arábia északnyugati részén fekvő ókori nabateus város, az ország első UNESCO világörökségi helyszíne.",
@@ -20,15 +19,27 @@ image: "/poi-images/hegra-landmarks-v2.webp"
       hu: ["Szaúd-Arábia első UNESCO világörökségi helyszíne.", "Több mint 100 monumentális sziklasír található itt.", "A nabateusok déli fővárosa volt.", "Az építmények a Kr. e. 1. századból származnak."],
       ro: ["Primul sit UNESCO din Arabia Saudită.", "Găzduiește peste 100 de morminte monumentale din stâncă.", "A fost capitala sudică a nabateenilor.", "Structurile datează din secolul 1 î.Hr."],
       en: ["Saudi Arabia's first UNESCO World Heritage site.", "Houses over 100 monumental rock-cut tombs.", "Served as the southern capital of the Nabataeans.", "The structures date back to the 1st century BC."]
-    }, image: "/poi-images/hegra-landmarks-v2.webp"},
+    }, image: "/poi-images/hegra-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Hegra, auch bekannt als al-Hijr oder Madain Salih, ist eine nabatäische archäologische Stätte im Nordwesten Saudi-Arabiens. Sie wurde 2008 zum UNESCO-Weltkulturerbe erklärt und ist die größte erhaltene Siedlung der Nabatäer nach Petra. Die Stätte umfasst 111 monumentale Gräber mit reich verzierten Fassaden, die in den Sandstein gehauen sind. Hegra diente als wichtiger Handelsknotenpunkt auf der Weihrauchstraße. Die Inschriften und Felszeichnungen geben Einblick in das Leben der Nabatäer. Heute ist die Stätte ein bedeutendes kulturelles Erbe und eine Touristenattraktion.",
+      hu: "Hegra (Madain Salih) a nabateus civilizáció egyik legfontosabb városa volt a Kr. u. 1. században. A város a tömjénút mentén feküdt, és virágzott a kereskedelemből. A 111 sírkamra a gazdagságot és a vallási hiedelmeket tükrözi. A homokkőbe faragott homlokzatok különböző stílusokat mutatnak, egyiptomi és görög hatással. Hegra a nabateus építészet és vízmérnöki tudás példája. A lelőhelyet 2008-ban vették fel a világörökségi listára.",
+      ro: "Hegra este un oraș antic nabatean situat în regiunea Al-Ula. A fost un centru comercial important pe ruta tămâiei. Orașul are un sistem sofisticat de colectare a apei, inclusiv canale și rezervoare. Mormintele monumentale sunt sculptate în stâncă și au fațade elaborate. Hegra include și un sector rezidențial cu case și piețe. Situl oferă dovezi ale coexistenței dintre nabateeni și romani. Este unul dintre cele mai bine conservate situri arheologice din Arabia Saudită.",
+      en: "Hegra (Madain Salih) was a major Nabataean city active from the 1st century BCE to the 1st century CE. It features 111 rock-cut tombs with elaborate façades, showing influences from Assyrian, Egyptian, and Greek art. The site includes a well-preserved water management system with cisterns and channels. Hegra was mentioned in the Quran as the place of the Thamud people. The surrounding landscape includes volcanic basalt fields and sandstone outcrops. Excavations have uncovered inscriptions in various languages, including Nabataean, Aramaic, and Greek.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltkulturerbe seit 2008", "111 monumentale Gräber", "Größte nabatäische Siedlung nach Petra", "Sandsteinfassaden", "Teil der Weihrauchstraße", "Inschriften in nabatäischer Schrift"],
+      hu: ["Kora: Kr. e. 1. század", "Sírszám: 111", "Világörökségi felvétel: 2008", "Terület: 52 hektár", "Vízgyűjtő rendszer: 130 ciszterna", "Feliratok: nabateus, arámi, görög"],
+      ro: ["Locație: Al-Ula, Arabia Saudită", "Număr morminte: 111", "Înălțime fațade: până la 20 m", "Rezervor de apă: 2.000 m³", "Construcție: secolul I d.Hr.", "Lungimea sitului: 1,4 km"],
+      en: ["Elevation: 600 m", "Annual visitors: 100,000", "Number of decorated tombs: 31", "Oldest tomb dates from 1st century BCE", "Settlement area: 13 hectares", "Number of inscriptions: over 2,000"],
+    },
+  },
   {
     id: "kingdom-centre-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
     coords: [46.6667, 24.7114],
-    name: { de: "Kingdom Centre", hu: "Kingdom Centre", ro: "Kingdom Centre", en: "Kingdom Centre",
-image: "/poi-images/kingdom-centre-landmarks-v2.webp"
-},
+    name: { de: "Kingdom Centre", hu: "Kingdom Centre", ro: "Kingdom Centre", en: "Kingdom Centre"},
+    image: "/poi-images/kingdom-centre-landmarks-v2.webp",
     description: {
       de: "Dieser ikonische Wolkenkratzer in Riad zeichnet sich durch seine umgekehrte Parabelform und die Himmelsbrücke aus.",
       hu: "Ez az ikonikus rijádi felhőkarcoló fordított parabola alakjáról és az égi hídjáról ismert.",
@@ -40,15 +51,27 @@ image: "/poi-images/kingdom-centre-landmarks-v2.webp"
       hu: ["Az épület 302 méter magas.", "Az égi híd panorámás kilátást nyújt Rijádra.", "Bevásárlóközpont és luxusapartmanok találhatók benne.", "2002-ben készült el."],
       ro: ["Clădirea are 302 metri înălțime.", "Puntea celestă oferă vederi panoramice asupra Riadului.", "Găzduiește un mall și apartamente de lux.", "A fost finalizată în 2002."],
       en: ["The building is 302 meters tall.", "The sky bridge offers panoramic views of Riyadh.", "Houses a shopping mall and luxury apartments.", "It was completed in 2002."]
-    }, image: "/poi-images/kingdom-centre-landmarks-v2.webp"},
+    }, image: "/poi-images/kingdom-centre-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kingdom Centre ist ein Wolkenkratzer in Riad, der 2002 fertiggestellt wurde. Mit einer Höhe von 302 Metern und 99 Stockwerken ist es eines der höchsten Gebäude Saudi-Arabiens. Das Gebäude hat eine charakteristische dreieckige Öffnung im oberen Teil. Es beherbergt ein Luxus-Einkaufszentrum, Büros, Apartments und ein 5-Sterne-Hotel. Die Aussichtsplattform in 290 Metern Höhe bietet einen Panoramablick auf die Stadt. Das Kingdom Centre ist ein Symbol für die Modernisierung des Landes und ein wichtiges Wahrzeichen.",
+      hu: "A Kingdom Centre Rijád egyik ikonikus felhőkarcolója, amely a királyi család gazdagságát szimbolizálja. Az épület 302 méter magas, és tetején egy nyitott hídon lehet átsétálni. Az épületben található bevásárlóközpont luxusmárkákkal, valamint szálloda és irodák. A kilátó a város egyik legnépszerűbb turisztikai látványossága. Az épület éjszaka kivilágított, és a riadi látkép meghatározó eleme. A Kingdom Centre a modern szaúdi építészet példája.",
+      ro: "Kingdom Centre este un zgârie-nori din Riyadh, finalizat în 2002. Are o înălțime de 302 m și 99 de etaje. Clădirea are o formă triunghiulară cu un gol în partea superioară care servește ca punte de observație. Este un centru comercial și de afaceri important, găzduind magazine de lux și restaurante. Fațada din sticlă reflectă lumina și creează un efect vizual impresionant. Kingdom Centre este unul dintre cele mai recunoscute simboluri ale Riadului modern.",
+      en: "Kingdom Centre is a 302-meter skyscraper in Riyadh, completed in 2002. It has 99 floors and features a distinctive skybridge at the top. The building houses the Four Seasons Hotel, luxury retail, and corporate offices. The design includes a parabolic opening that reduces wind loads. The tower is illuminated at night and is a prominent feature of the Riyadh skyline. It was built by Prince Al-Waleed bin Talal and is a centerpiece of the King Abdullah Financial District.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 302 Meter", "Stockwerke: 99", "Fertigstellung: 2002", "Aussichtsplattform auf 290 m", "Hotel: Four Seasons", "Architekt: Foster + Partners"],
+      hu: ["Magasság: 302 m", "Szintek: 99", "Skybridge: 65 m hosszú", "Bevásárlóközpont: 50 000 m²", "Építési költség: 400 millió USD", "Bejárat: királyi szobor"],
+      ro: ["Locație: Riyadh, Arabia Saudită", "Deschidere: 2002", "Număr de apartamente: 200", "Parking: 1.000 de locuri", "Restaurante: 5", "Premiu: Emporis Skyscraper Award 2002"],
+      en: ["Height to tip: 302.3 m", "Floor area: 185,000 m²", "Elevators: 23", "Skybridge length: 65 m", "Construction started: 1999", "Cost: $400 million"],
+    },
+  },
   {
     id: "masmak-fortress-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
     coords: [46.7126, 24.6315],
-    name: { de: "Masmak-Festung", hu: "Masmak-erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress",
-image: "/poi-images/masmak-fortress-landmarks-v2.webp"
-},
+    name: { de: "Masmak-Festung", hu: "Masmak-erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress"},
+    image: "/poi-images/masmak-fortress-landmarks-v2.webp",
     description: {
       de: "Eine historische Festung aus Lehmziegeln im Zentrum von Riad, die eine wichtige Rolle bei der Gründung Saudi-Arabiens spielte.",
       hu: "Egy történelmi vályogtégla erőd Rijád központjában, amely fontos szerepet játszott Szaúd-Arábia alapításában.",
@@ -60,15 +83,27 @@ image: "/poi-images/masmak-fortress-landmarks-v2.webp"
       hu: ["1865-ben épült.", "Ibn Szaúd 1902-ben foglalta el.", "Agyagból és vályogtéglából készült.", "Ma múzeumként működik."],
       ro: ["A fost construită în 1865.", "Capturată de Ibn Saud în 1902.", "Este făcută din lut și cărămizi nearsă.", "Astăzi funcționează ca muzeu."],
       en: ["Built in 1865.", "Captured by Ibn Saud in 1902.", "Made of clay and mud-brick.", "Today it serves as a museum."]
-    }, image: "/poi-images/masmak-fortress-landmarks-v2.webp"},
+    }, image: "/poi-images/masmak-fortress-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Masmak-Festung ist eine Lehmziegelfestung im Zentrum von Riad, die um 1865 erbaut wurde. Sie spielte eine Schlüsselrolle bei der Eroberung Riads durch König Abdulaziz im Jahr 1902. Die Festung ist quadratisch mit dicken Mauern und vier Wachtürmen. Sie diente als königliche Residenz und später als Gefängnis und Waffendepot. Heute ist sie ein Museum, das die Geschichte Saudi-Arabiens zeigt. Die Festung ist ein nationales Symbol für die Einheit des Landes.",
+      hu: "A Masmak erőd Rijád történelmi központjában található, és a szaúdi állam születésének szimbóluma. 1902-ben Abdul-Aziz ibn Szaud innen indította el Rijád visszafoglalását. Az erőd téglalap alakú, tornyokkal és belső udvarral. A múzeumban fegyverek, térképek és történelmi dokumentumok láthatók. Az erőd a szaúdi nemzeti identitás fontos része. Felújítását követően 1999-ben nyitották meg a nagyközönség előtt.",
+      ro: "Fortăreața Masmak este o cetate din chirpici construită în jurul anului 1865. Pereții groși și turnurile o fac aproape inexpugnabile. A fost locul bătăliei decisive pentru cucerirea Riyadhului în 1902. Fortăreața are o singură intrare, o ușă masivă de lemn. Interiorul include o moschee și o cameră a comorii. Astăzi este un muzeu care prezintă arta și arhitectura tradițională saudită.",
+      en: "Masmak Fortress is a clay and mudbrick fort in Riyadh, built in 1865 by the Al Saud family. It measures 28 by 24 meters with walls 3.5 meters thick. The fortress has four watchtowers, each 18 meters high. It was captured by King Abdulaziz in 1902 after a daring raid. The fort now houses a museum with exhibits on Saudi history and culture. The palm tree trunks used in construction are still visible in the roof.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1865", "Fläche: 672 m²", "Mauern: 3,5 Meter dick", "Wachtürme: 4, je 18 m hoch", "Eroberung: 1902", "Museumseröffnung: 1999"],
+      hu: ["Építés éve: 1865", "Alaprajz: 28 x 24 m", "Toronyszám: 4", "Falvastagság: 3,5 m", "Kapu: 3,5 m magas", "Felújítás: 1995-1999"],
+      ro: ["Material: cărămidă de lut", "Înălțimea turnurilor: 18 m", "Grosimea zidurilor: 3,5 m", "Număr de camere: 15", "Intrarea principală: lemn de palmier", "Anul transformării în muzeu: 1995"],
+      en: ["Dimensions: 28 x 24 m", "Wall thickness: 3.5 m", "Tower height: 18 m", "Material: mudbrick with stone foundations", "Date of capture: January 15, 1902", "Current function: museum since 1995"],
+    },
+  },
   {
     id: "kaaba-landmarks-v2",
     type: "landmark",
     parent: "SA-02",
     coords: [39.8262, 21.4225],
-    name: { de: "Kaaba", hu: "Kába", ro: "Kaaba", en: "Kaaba",
-image: "/poi-images/kaaba-landmarks-v2.webp"
-},
+    name: { de: "Kaaba", hu: "Kába", ro: "Kaaba", en: "Kaaba"},
+    image: "/poi-images/kaaba-landmarks-v2.webp",
     description: {
       de: "Das würfelförmige Gebäude im Zentrum der al-Haram-Moschee in Mekka ist das heiligste Heiligtum des Islams.",
       hu: "A mekkai al-Haram mecset közepén álló kocka alakú épület, az iszlám legszentebb helye.",
@@ -80,15 +115,27 @@ image: "/poi-images/kaaba-landmarks-v2.webp"
       hu: ["Több mint egymilliárd muszlim spirituális központja világszerte.", "A muszlimok imairánya (kibla).", "Egy fekete selyemlepel (kiszva) borítja.", "Az éves zarándoklat, a haddzs központi helyszíne."],
       ro: ["Centrul spiritual pentru peste un miliard de musulmani din întreaga lume.", "Este direcția de rugăciune (Qibla) pentru musulmani.", "Este acoperită cu o pânză de mătase neagră (Kiswa).", "Un loc central al pelerinajului anual Hajj."],
       en: ["The spiritual center for over a billion Muslims worldwide.", "It is the direction of prayer (Qibla) for Muslims.", "Covered with a black silk cloth (Kiswa).", "A central site of the annual Hajj pilgrimage."]
-    }, image: "/poi-images/kaaba-landmarks-v2.webp"},
+    }, image: "/poi-images/kaaba-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kaaba ist ein würfelförmiges Gebäude in der Mitte der Großen Moschee in Mekka und das heiligste Heiligtum des Islam. Sie ist etwa 13 Meter hoch und mit einer schwarzen Seiden-Brokatdecke, der Kiswa, bedeckt. Die Kaaba dient als Qibla, die Gebetsrichtung für Muslime weltweit. Jedes Jahr versammeln sich Millionen von Pilgern zur Hadsch und Umra um sie. Der Bau geht auf die Zeit Abrahams und Ismaels zurück. Die Kaaba symbolisiert die Einheit Gottes und der muslimischen Gemeinschaft.",
+      hu: "A Kába a világ legszentebb muszlim helye, Mekkában található. A fekete kő (Hadsar) a Kába keleti sarkában van beágyazva, és a zarándokok érintik meg. Az épületet évente egyszer kicserélik a fekete brokát takarót. A Kába története az iszlám előtti időkre nyúlik vissza, és Mohamed próféta megtisztította a bálványoktól. A Kába a muszlim világ egységének szimbóluma. A körülötte végzett körüljárás (tavaf) a haddzs kötelező része.",
+      ro: "Kaaba este un cub de piatră în centrul Masjid al-Haram din Mecca. Are o înălțime de 13,1 m și o bază de 11,03 m pe 12,86 m. Colțurile sunt orientate spre punctele cardinale. În colțul de est se află Piatra Neagră, un meteorit venerat. Kaaba este acoperită cu o pânză neagră de mătase brodată cu versete coranice. Construcția actuală datează din 1629, după inundații. Kaaba este considerată prima casă de închinare construită de Adam.",
+      en: "The Kaaba is a cuboid building at the center of Islam's most sacred mosque, Al-Masjid al-Haram in Mecca. It stands 13.1 meters tall with sides measuring 11.03 m by 12.86 m. The Black Stone, set in the eastern corner, is believed to date back to the time of Adam and Eve. The Kaaba is covered by the kiswa, a black silk cloth with gold embroidery. The structure has undergone multiple reconstructions, the last major one in 1629. It serves as the focal point for Muslim prayers worldwide.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 13,1 Meter", "Seitenlängen: 11,03 m x 12,86 m", "Kiswa: jährlich erneuert", "Schwarzer Stein: 30 cm Durchmesser", "Rekonstruktion: 1629", "Kapazität der Moschee: 2 Millionen Pilger"],
+      hu: ["Magasság: 13,1 m", "Alapméret: 11,03 x 12,86 m", "Fekete kő: 8x7 cm méretű darabokból áll", "Kába takaró súlya: 670 kg", "Aranyozott ajtó: 3,28 m magas", "Belső tér: 13 x 9 m"],
+      ro: ["Material: granit local", "Poartă: aur masiv, 286 kg", "Piatra Neagră: meteoriți, 30 cm diametru", "Kiswa: 16 pantaloni (bucăți) de mătase", "Aur pe broderie: 120 kg", "Anul ultimei reconstrucții: 1996"],
+      en: ["Height: 13.1 m", "Base dimensions: 11.03 x 12.86 m", "Black Stone diameter: 30 cm", "Kiswa weight: 670 kg", "Door height: 3.28 m", "Capacity of mosque: 2 million worshippers"],
+    },
+  },
   {
     id: "abraj-al-bait-landmarks-v2",
     type: "landmark",
     parent: "SA-02",
     coords: [39.8256, 21.4187],
-    name: { de: "Abraj Al Bait", hu: "Abrádzs al-Bajt", ro: "Abraj Al Bait", en: "Abraj Al Bait",
-image: "/poi-images/abraj-al-bait-landmarks-v2.webp"
-},
+    name: { de: "Abraj Al Bait", hu: "Abrádzs al-Bajt", ro: "Abraj Al Bait", en: "Abraj Al Bait"},
+    image: "/poi-images/abraj-al-bait-landmarks-v2.webp",
     description: {
       de: "Ein gigantischer Hotelkomplex in Mekka, der den größten Uhrenturm der Welt besitzt und direkt neben der Großen Moschee steht.",
       hu: "Gigantikus szállodakomplexum Mekkában, amely a világ legnagyobb óratornyával büszkélkedhet, közvetlenül a Nagymecset mellett.",
@@ -100,15 +147,27 @@ image: "/poi-images/abraj-al-bait-landmarks-v2.webp"
       hu: ["A központi szálloda 601 méter magas.", "A világ legnagyobb számlapjával rendelkezik.", "Az építési költségeket 15 milliárd dollárra becsülik.", "2012-ben készült el."],
       ro: ["Hotelul central are o înălțime de 601 metri.", "Deține cel mai mare cadran de ceas din lume.", "Costurile de construcție au fost estimate la 15 miliarde de dolari.", "A fost finalizat în 2012."],
       en: ["The central hotel is 601 meters tall.", "Features the largest clock face in the world.", "Construction costs were estimated at 15 billion dollars.", "It was completed in 2012."]
-    }, image: "/poi-images/abraj-al-bait-landmarks-v2.webp"},
+    }, image: "/poi-images/abraj-al-bait-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Abraj Al Bait ist ein Komplex von sieben Wolkenkratzern in Mekka, der 2012 fertiggestellt wurde. Der höchste Turm, das Makkah Royal Clock Tower, ist 601 Meter hoch und beherbergt ein 5-Sterne-Hotel. Der Komplex umfasst Wohnungen, Einkaufszentren und Gebetsräume. Die Uhr auf dem Turm ist eine der größten der Welt mit einem Durchmesser von 43 Metern. Das Gebäude bietet Platz für bis zu 100.000 Menschen während der Hadsch-Saison. Es ist eines der höchsten Gebäude der Welt und ein modernes Wahrzeichen Mekkas.",
+      hu: "Az Abraj Al Bait komplexum Mekka modern szimbóluma, a Masjid al-Haram mellett található. A toronyóra a világ legnagyobbja, négy számlappal. Az épületben található a Fairmont szálloda és egy iszlám múzeum. A komplexum kapacitása 100 000 zarándok elszállásolására alkalmas. Az építkezés 2004-ben kezdődött és 2012-ben fejeződött be. A torony tetején egy 70 méteres félhold található.",
+      ro: "Abraj Al Bait este un complex de zgârie-nori în Mecca, dominat de Turnul Ceasului Regal. Are o înălțime de 601 m și 120 de etaje. Ceasul este vizibil de la 25 km distanță. Complexul include un centru comercial cu 4 etaje și o stație de autobuz. A fost construit pentru a găzdui pelerinii și a oferi servicii de lux. Pe acoperiș se află un semilună din aur de 70 m.",
+      en: "Abraj Al Bait is a seven-tower complex in Mecca, completed in 2012. The main tower, the Makkah Royal Clock Tower, stands 601 meters tall with 120 floors. The clock face is 43 meters in diameter, making it the largest in the world. The complex includes a hotel with 1,600 rooms, a shopping mall, and a prayer hall for 10,000 people. The crescent at the top is 70 meters long and weighs 35 tons. The total cost of the project was $15 billion.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Turm: 601 Meter", "Stockwerke: 120", "Uhrendurchmesser: 43 Meter", "Fertigstellung: 2012", "Kapazität: 100.000 Pilger", "Kosten: 15 Milliarden USD"],
+      hu: ["Toronyszám: 7", "Szobák száma: 1 600", "Bevásárlóközpont: 80 000 m²", "Építési idő: 2004-2012", "Félhold hossza: 70 m", "Legnagyobb toronyóra a világon"],
+      ro: ["Înălțimea turnului principal: 601 m", "Număr de etaje: 120", "Lungimea semilunii: 70 m", "Greutatea semilunii: 35 tone", "Număr de lifturi: 56", "Prețul pe cameră: începând de la 500 USD/noapte"],
+      en: ["Height: 601 m", "Floors: 120", "Clock face diameter: 43 m", "Number of hotel rooms: 1,600", "Construction cost: $15 billion", "Year completed: 2012"],
+    },
+  },
   {
     id: "prophets-mosque-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
     coords: [39.6111, 24.4672],
-    name: { de: "Prophetenmoschee", hu: "Próféta mecsetje", ro: "Moscheea Profetului", en: "Prophet's Mosque",
-image: "/poi-images/prophets-mosque-landmarks-v2.webp"
-},
+    name: { de: "Prophetenmoschee", hu: "Próféta mecsetje", ro: "Moscheea Profetului", en: "Prophet's Mosque"},
+    image: "/poi-images/prophets-mosque-landmarks-v2.webp",
     description: {
       de: "Die zweitheiligste Stätte des Islams in Medina, erbaut vom Propheten Mohammed, besticht durch ihre grünen Kuppeln.",
       hu: "Az iszlám második legszentebb helye Medinában, amelyet Mohamed próféta épített, és zöld kupoláiról ismert.",
@@ -120,15 +179,27 @@ image: "/poi-images/prophets-mosque-landmarks-v2.webp"
       hu: ["Eredetileg a próféta lakóháza volt.", "A Zöld Kupola jelzi Mohamed sírját.", "Több mint egymillió hívőt képes befogadni.", "A világ egyik legnagyobb mecsete."],
       ro: ["Inițial a fost casa Profetului.", "Cupola Verde marchează mormântul lui Mahomed.", "Poate găzdui peste un milion de credincioși.", "Este una dintre cele mai mari moschei din lume."],
       en: ["Originally the Prophet's house.", "The Green Dome marks the tomb of Muhammad.", "Can accommodate over a million worshippers.", "It is one of the largest mosques in the world."]
-    }, image: "/poi-images/prophets-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/prophets-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Prophetenmoschee (Masjid al-Nabawi) in Medina ist die zweitwichtigste Moschee des Islam. Sie wurde ursprünglich 622 n. Chr. von Prophet Muhammad erbaut. Die Moschee beherbergt das Grab des Propheten, wobei die grüne Kuppel das Grabmal markiert. Nach mehreren Erweiterungen fasst sie heute über 1,5 Millionen Gläubige. Die Moschee ist bekannt für ihren marmornen Innenhof und die fein verzierten Minarette. Sie ist ein Zentrum islamischer Gelehrsamkeit und Spiritualität.",
+      hu: "A Próféta Mecsete (Maszid al-Nabawi) Medina központi mecsete, ahol Mohamed próféta sírja található. Az épületet a próféta életében alapították, és folyamatosan bővítették. A zöld kupola a sír felett látható. A mecset a zarándokok egyik fő célpontja. A komplexumban található a Riad al-Janna, a Paradicsomkert. A mecset udvarán napernyők védik a híveket a naptól.",
+      ro: "Moscheea Profetului din Medina este una dintre cele mai mari moschei din lume. A fost construită în anul 622 d.Hr. de către profetul Muhammad. Are 10 minarete, fiecare de 105 m înălțime. Domul verde are diametrul de 12 m. Moscheea poate găzdui 1,5 milioane de credincioși. În interior se află Mihrabul lui Osman și Minbarul original din lemn.",
+      en: "Al-Masjid al-Nabawi is the Prophet's Mosque in Medina, built in 622 CE. It has 10 minarets each 105 meters tall. The Green Dome is 12 meters in diameter and marks the Prophet's tomb. The mosque underwent major expansions under the Umayyads, Abbasids, and Ottomans. The current structure includes a retractable roof and 250 umbrellas in the courtyard. The Rawdah, a garden between the tomb and pulpit, is considered one of the gardens of Paradise.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 622 n. Chr.", "Minarette: 10, je 105 m hoch", "Grüne Kuppel: 12 m Durchmesser", "Kapazität: 1,5 Millionen", "Gräber: Prophet und erste Kalifen", "Umbau unter Saud 1994"],
+      hu: ["Alapítás éve: 622", "Befogadóképesség: 1,5 millió", "Minaretek száma: 10", "Zöld kupola: 12 m átmérő", "Terület: 165 000 m²", "Látogatók évente: 8 millió"],
+      ro: ["Înălțimea minaretelor: 105 m", "Domul verde: 12 m diametru", "Suprafața: 165.000 m²", "Număr porți: 6", "Anul extinderii majore: 1985", "Capacitatea în timpul Hajj: 1,5 milioane"],
+      en: ["Built: 622 CE", "Minarets: 10, height 105 m", "Green Dome diameter: 12 m", "Capacity: 1.5 million", "Area: 165,000 m²", "Number of gates: 6"],
+    },
+  },
   {
     id: "king-fahds-fountain-landmarks-v2",
     type: "landmark",
     parent: "SA-02",
     coords: [39.1481, 21.5161],
-    name: { de: "König-Fahd-Brunnen", hu: "Fahd király szökőkút", ro: "Fântâna Regelui Fahd", en: "King Fahd's Fountain",
-image: "/poi-images/king-fahds-fountain-landmarks-v2.webp"
-},
+    name: { de: "König-Fahd-Brunnen", hu: "Fahd király szökőkút", ro: "Fântâna Regelui Fahd", en: "King Fahd's Fountain"},
+    image: "/poi-images/king-fahds-fountain-landmarks-v2.webp",
     description: {
       de: "Dieser beeindruckende Springbrunnen in Dschidda schießt Meerwasser auf eine rekordverdächtige Höhe in den Himmel.",
       hu: "Ez a lenyűgöző dzsiddai szökőkút tengervizet lő a magasba rekordot jelentő magasságig.",
@@ -140,15 +211,27 @@ image: "/poi-images/king-fahds-fountain-landmarks-v2.webp"
       hu: ["A világ legmagasabb szökőkútja.", "A vízsugár akár a 312 méteres magasságot is eléri.", "Éjszaka 500 fényszóró világítja meg.", "A Vörös-tenger sós vizét használja."],
       ro: ["Cea mai înaltă fântână arteziană din lume.", "Jetul de apă ajunge până la 312 metri înălțime.", "Este iluminată noaptea de 500 de reflectoare.", "Folosește apă sărată din Marea Roșie."],
       en: ["The tallest fountain in the world.", "The water jet reaches up to 312 meters high.", "Illuminated at night by 500 spotlights.", "Uses saltwater from the Red Sea."]
-    }, image: "/poi-images/king-fahds-fountain-landmarks-v2.webp"},
+    }, image: "/poi-images/king-fahds-fountain-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der King Fahd-Brunnen in Dschidda ist der höchste Springbrunnen der Welt. Er wurde 1985 eingeweiht und schießt Wasser bis zu 312 Meter hoch. Der Brunnen befindet sich im Roten Meer vor der Küste. Die Pumpe leistet 18.000 PS und pumpt 625 Liter Wasser pro Sekunde. Nachts wird der Brunnen bunt beleuchtet. Er ist ein Wahrzeichen der Stadt und Symbol für den Fortschritt des Landes. Die Wartung erfordert regelmäßige Taucharbeiten.",
+      hu: "A King Fahd-szökőkút Dzsidda híres látványossága, a világ legmagasabb vízsugara. A sugár magassága 312 méter, a víz sebessége 375 km/h. A szökőkút a Vörös-tengerben található, egy mesterséges szigeten. Éjszaka 500 lámpa világítja meg. A rendszert 1985-ben helyezték üzembe. A szökőkút a város modernizációjának szimbóluma.",
+      ro: "Fântâna Regelui Fahd din Jeddah este cea mai înaltă fântână arteziană din lume. Apa atinge 312 m înălțime. Este situată pe o insulă artificială în Marea Roșie. Pompele au o putere de 18.000 CP. Fântâna consumă 625 litri de apă pe secundă. A fost inaugurată în 1985 și este un reper important al orașului.",
+      en: "King Fahd's Fountain in Jeddah is the world's tallest water fountain, at 312 meters. It was built in 1985 and uses 625 liters of seawater per second. The fountain is powered by pumps delivering 18,000 horsepower. Water exits at a speed of 375 km/h. It is illuminated by 500 spotlights at night. The fountain is visible from almost anywhere in Jeddah and is a major tourist attraction.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 312 Meter", "Inbetriebnahme: 1985", "Wasserdurchsatz: 625 L/s", "Pumpenleistung: 18.000 PS", "Anzahl Scheinwerfer: 500", "Standort: Rotes Meer"],
+      hu: ["Magasság: 312 m", "Áramlási sebesség: 375 km/h", "Fogyasztás: 625 L/s", "Teljesítmény: 18 000 LE", "Világítás: 500 lámpa", "Építés éve: 1985"],
+      ro: ["Înălțime maximă: 312 m", "Debit apă: 625 L/s", "Putere pompe: 18.000 CP", "Viteză apă: 375 km/h", "Număr proiectoare: 500", "An inaugurare: 1985"],
+      en: ["Height: 312 m", "Flow rate: 625 L/s", "Pump power: 18,000 hp", "Water velocity: 375 km/h", "Number of lights: 500", "Year built: 1985"],
+    },
+  },
   {
     id: "edge-of-the-world-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
     coords: [45.9922, 24.9458],
-    name: { de: "Edge of the World", hu: "A világ pereme", ro: "Marginea Lumii", en: "Edge of the World",
-image: "/poi-images/edge-of-the-world-landmarks-v2.webp"
-},
+    name: { de: "Edge of the World", hu: "A világ pereme", ro: "Marginea Lumii", en: "Edge of the World"},
+    image: "/poi-images/edge-of-the-world-landmarks-v2.webp",
     description: {
       de: "Eine atemberaubende geologische Formation nordwestlich von Riad, die dramatische Klippen mit unendlicher Wüstensicht bietet.",
       hu: "Lélegzetelállító geológiai képződmény Rijádtól északnyugatra, drámai sziklákkal és végtelen sivatagi kilátással.",
@@ -160,15 +243,27 @@ image: "/poi-images/edge-of-the-world-landmarks-v2.webp"
       hu: ["A Tuvajk-hegység része.", "Szinte függőlegesen zuhan 300 métert a mélybe.", "Egykor egy történelem előtti óceán feneke volt.", "Népszerű úti cél a túrázók és a természetkedvelők körében."],
       ro: ["Parte a lanțului muntos Tuwaiq.", "Se prăbușește aproape vertical 300 de metri.", "A fost cândva fundul unui ocean preistoric.", "O destinație populară pentru drumeții și iubitorii de natură."],
       en: ["Part of the Tuwaiq Escarpment.", "Drops almost vertically 300 meters down.", "Was once the bottom of a prehistoric ocean.", "A popular destination for hikers and nature lovers."]
-    }, image: "/poi-images/edge-of-the-world-landmarks-v2.webp"},
+    }, image: "/poi-images/edge-of-the-world-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Edge of the World (Jebel Fihrayn) ist eine spektakuläre Klippe in der Nähe von Riad, die Teil der Tuwaiq-Escarpment ist. Die Felsformation erstreckt sich über 600 Kilometer und bietet einen atemberaubenden Blick auf die dahinterliegende Wüste. Die Klippe entstand durch Erosion von Kalkstein. Sie wird so genannt, weil der Horizont scheinbar endlos ist. Der Ort ist ein beliebtes Ziel für Wanderer und Abenteuerlustige. Besonders bei Sonnenuntergang bietet sich ein unvergesslicher Anblick.",
+      hu: "A Világ Széle (Edge of the World) egy hatalmas sziklaperem Rijád közelében, amely a Tuwaiq-hegyvidék része. A sziklafal 600 km hosszan húzódik, és 300 méter magas. A sivatagban elhelyezkedő képződmény lenyűgöző kilátást nyújt. A hely a szaúdi sivatag egyik legszebb természeti csodája. A peremhez vezető út kalandos, de a látvány kárpótol. A lemenő nap fénye különleges színeket varázsol a sziklákra.",
+      ro: "Marginea Lumii (Edge of the World) este o formațiune stâncoasă impresionantă din apropierea Riyadhului. Face parte din scarpul Tuwaiq, care se întinde pe sute de kilometri. Stânca de calcar se ridică la 300 m deasupra văii. Vederea este panoramică, iar la apus soarele creează jocuri de umbre. Locul este accesibil doar cu vehicule 4x4. Este o destinație populară pentru drumeții și fotografi.",
+      en: "Edge of the World is a dramatic cliff edge in the Tuwaiq Escarpment, about 90 km from Riyadh. The escarpment runs for 600 km and the cliff here is about 300 m high. It is composed of Jurassic limestone formed 150 million years ago. The site offers views of an ancient river valley and fossilized sea creatures. The area is protected and there are no facilities. It is a prime spot for camping and stargazing.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Klippe: 600 km", "Höhe: 300 Meter", "Entfernung von Riad: 90 km", "Gestein: Jura-Kalkstein", "Alter: 150 Millionen Jahre", "Höhe über Meer: ca. 1.000 m"],
+      hu: ["Hossz: 600 km", "Magasság: 300 m", "Távolság Rijádtól: 90 km", "Kőzet: jura kori mészkő", "Kor: 150 millió év", "Terület: 1.000 km²"],
+      ro: ["Lungimea escarpării: 600 km", "Înălțimea stâncii: 300 m", "Distanța de la Riyadh: 90 km", "Rocă: calcar jurasic", "Vârsta: 150 milioane ani", "Altitudine: 1.000 m"],
+      en: ["Length of escarpment: 600 km", "Cliff height: 300 m", "Distance from Riyadh: 90 km", "Rock type: Jurassic limestone", "Age: 150 million years", "Elevation: 1,000 m"],
+    },
+  },
   {
     id: "al-ula-old-town-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
     coords: [37.9255, 26.6200],
-    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town",
-image: "/poi-images/al-ula-old-town-landmarks-v2.webp"
-},
+    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town"},
+    image: "/poi-images/al-ula-old-town-landmarks-v2.webp",
     description: {
       de: "Ein Labyrinth aus dicht gedrängten Lehmhäusern, das über Jahrhunderte ein wichtiger Knotenpunkt auf der Weihrauchstraße war.",
       hu: "Sűrűn egymás mellé épült vályogházak labirintusa, amely évszázadokon át fontos csomópont volt a Tömjénúton.",
@@ -180,15 +275,27 @@ image: "/poi-images/al-ula-old-town-landmarks-v2.webp"
       hu: ["Több mint 900 történelmi épületből áll.", "A 12. században alapították.", "Egy 10. századi vár is található itt.", "Nemrég felújították és megnyitották a turisták előtt."],
       ro: ["Este alcătuit din peste 900 de clădiri istorice.", "A fost fondat în secolul al XII-lea.", "Are un castel din secolul al X-lea.", "A fost restaurat recent și deschis turiștilor."],
       en: ["Consists of over 900 historical buildings.", "Founded in the 12th century.", "Features a 10th-century castle.", "Has been recently restored and opened to tourists."]
-    }, image: "/poi-images/al-ula-old-town-landmarks-v2.webp"},
+    }, image: "/poi-images/al-ula-old-town-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Altstadt von Al-Ula ist eine historische Siedlung aus Lehmziegelhäusern und engen Gassen. Sie liegt in der Region Al-Ula und war ein wichtiger Zwischenstopp für Karawanen. Die Häuser sind bis zu fünf Stockwerke hoch und mit Holzbalken und Palmblättern gedeckt. Die Stadt wurde im 20. Jahrhundert aufgegeben, aber die Ruinen sind gut erhalten. Sie bietet einen Einblick in die traditionelle Bauweise der Region. Die Altstadt ist Teil des Al-Ula-Projekts zur touristischen Erschließung.",
+      hu: "Al-Ula óvárosa egy régi kereskedelmi város romjai, melyet az 1980-as években hagytak el. A vályogházak szorosan egymás mellett állnak, és labirintusszerű utcákat alkotnak. A város falakkal körülvett erődítmény volt. A házakat bonyolult faajtók és erkélyek díszítik. A romok között felfedezhető a régi mecset és a piactér. A helyreállítási munkák 2020-ban kezdődtek.",
+      ro: "Orașul vechi Al-Ula este un sit istoric din provincia Medina. Casele din chirpici au fost construite în secolele XII-XIX. Orașul era protejat de un zid și avea o moschee și o piață centrală. A fost abandonat în anii 1980 din cauza inundațiilor. În prezent, situl este restaurat pentru a atrage turiști. Arhitectura reflectă stilurile tradiționale din Hejaz.",
+      en: "Al-Ula Old Town is a historical settlement of mudbrick houses, built between the 12th and 19th centuries. It covers an area of 2.5 km² and includes over 1,000 residential units. The town was abandoned in the 1980s due to flooding and modernization. It features a fortress, a mosque, and a market square. The buildings have unique decorative elements like wooden lintels and stone inscriptions. Restoration efforts began in 2019 to preserve the site.",
+    },
+    factsAdvanced: {
+      de: ["Aufgabe: 1980er Jahre", "Anzahl Häuser: über 1.000", "Fläche: 2,5 km²", "Gründung: 12. Jahrhundert", "Baustil: Lehmziegel", "Restaurierung: seit 2019"],
+      hu: ["Elhagyás éve: 1980-as évek", "Házak száma: 1 000+", "Terület: 2,5 km²", "Fal: 2,5 km hosszú", "Mecset: 1 db", "Felújítás kezdete: 2019"],
+      ro: ["Suprafață: 2,5 km²", "Număr de case: peste 1.000", "Pereți de pământ: 1,5 m grosime", "Zidul orașului: 2,5 km lungime", "Anul abandonării: 1981", "Anul începerii restaurării: 2019"],
+      en: ["Area: 2.5 km²", "Number of houses: over 1,000", "Wall length: 2.5 km", "Abandoned: 1980s", "Restoration started: 2019", "Buildings: up to 5 stories"],
+    },
+  },
   {
     id: "elephant-rock-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
     coords: [37.9942, 26.6967],
-    name: { de: "Elefantenfelsen", hu: "Elefánt-szikla", ro: "Stânca Elefantului", en: "Elephant Rock",
-image: "/poi-images/elephant-rock-landmarks-v2.webp"
-},
+    name: { de: "Elefantenfelsen", hu: "Elefánt-szikla", ro: "Stânca Elefantului", en: "Elephant Rock"},
+    image: "/poi-images/elephant-rock-landmarks-v2.webp",
     description: {
       de: "Ein massiver roter Sandsteinmonolith nahe Al-Ula, der durch natürliche Erosion die verblüffende Form eines Elefanten angenommen hat.",
       hu: "Egy hatalmas vörös homokkő monolit Al-Ula közelében, amely a természetes erózió révén egy elefánt megdöbbentő formáját vette fel.",
@@ -200,15 +307,27 @@ image: "/poi-images/elephant-rock-landmarks-v2.webp"
       hu: ["Al-Ula nevezetessége, Jabal AlFil néven is ismert.", "A szikla 52 méter magas.", "Évmilliók szél- és vízeróziója formálta.", "Különösen naplementekor népszerű fotótéma."],
       ro: ["Simbolul din Al-Ula, cunoscut și sub numele de Jabal AlFil.", "Stânca are 52 de metri înălțime.", "Modelată de milioane de ani de eroziune eoliană și acvatică.", "Un subiect popular pentru fotografii, mai ales la apus."],
       en: ["The landmark of Al-Ula, also known as Jabal AlFil.", "The rock is 52 meters tall.", "Shaped by millions of years of wind and water erosion.", "A popular photo subject, especially at sunset."]
-    }, image: "/poi-images/elephant-rock-landmarks-v2.webp"},
+    }, image: "/poi-images/elephant-rock-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Elephant Rock (Jabal AlFil) ist eine natürlich entstandene Felsformation in der Nähe von Al-Ula. Der Sandsteinfelsen hat die Form eines Elefanten mit Rüssel. Er ist etwa 52 Meter hoch und wiegt schätzungsweise 15.000 Tonnen. Die Formation entstand durch Wind- und Wassererosion über Millionen von Jahren. Besonders bei Sonnenuntergang wirkt der Felsen lebendig. Er ist ein beliebtes Fotomotiv und Teil des Al-Ula-Naturerbes.",
+      hu: "Az Elefánt-szikla (Jabal AlFil) egy természetes homokkőképződmény Al-Ula közelében. Az 52 méter magas szikla egy elefánthoz hasonlít. Az erózió évmilliók alatt formálta meg. A szikla tövénél gyakran ülnek turisták, hogy megcsodálják. A naplemente aranyra festi a követ. A képződmény a szaúdi sivatag egyik ikonikus látványossága.",
+      ro: "Stânca Elefant (Jabal AlFil) este o formațiune de gresie în formă de elefant din apropierea Al-Ula. Are o înălțime de 52 m și o lungime de 105 m. Gresia este poroasă și a fost modelată de vânt. Stânca stă izolată în deșert. Este unul dintre cele mai fotografiate monumente naturale din Arabia Saudită. Turiștii o vizitează adesea la apus.",
+      en: "Elephant Rock (Jabal AlFil) is a natural rock formation in the Al-Ula region, standing 52 m tall and 105 m long. It is made of soft sandstone eroded over millions of years. The trunk-like feature is about 10 m thick. The rock is surrounded by sandy plains. It is part of the Al-Ula protected area. Visitors often hike around the base and watch the sunset behind it.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 52 Meter", "Länge: 105 Meter", "Gewicht: ca. 15.000 Tonnen", "Gestein: Sandstein", "Entstehung: Erosion", "Ort: 11 km von Al-Ula"],
+      hu: ["Magasság: 52 m", "Hossz: 105 m", "Törzs vastagság: 10 m", "Kőzet: homokkő", "Kor: több millió év", "Távolság Al-Utól: 11 km"],
+      ro: ["Înălțime: 52 m", "Lungime: 105 m", "Grosimea trunchiului: 10 m", "Material: gresie", "Vârsta: milioane de ani", "Distanța de Al-Ula: 11 km"],
+      en: ["Height: 52 m", "Length: 105 m", "Trunk thickness: 10 m", "Material: sandstone", "Weight: ~15,000 tons", "Distance from Al-Ula: 11 km"],
+    },
+  },
   {
     id: "at-turaif-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
     coords: [46.5744, 24.7350],
-    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Dirijja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah",
-image: "/poi-images/at-turaif-landmarks-v2.webp"
-},
+    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Dirijja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah"},
+    image: "/poi-images/at-turaif-landmarks-v2.webp",
     description: {
       de: "Die historische Altstadt von Diriyya, die einst die Hauptstadt der ersten saudi-arabischen Dynastie war.",
       hu: "Dirijja történelmi óvárosa, amely egykor az első szaúd-arábiai dinasztia fővárosa volt.",
@@ -220,15 +339,27 @@ image: "/poi-images/at-turaif-landmarks-v2.webp"
       hu: ["2010 óta UNESCO világörökség.", "A modern szaúdi állam szülőhelyének tekintik.", "Híres a vályogból készült nadzsdi építészetről.", "A települést a 15. században alapították."],
       ro: ["Este sit al Patrimoniului Mondial UNESCO din 2010.", "Considerat locul de naștere al statului saudit modern.", "Renumit pentru arhitectura sa Najdi din lut.", "Așezarea a fost fondată în secolul al XV-lea."],
       en: ["A UNESCO World Heritage site since 2010.", "Considered the birthplace of the modern Saudi state.", "Famous for its mud-brick Najdi architecture.", "The settlement was founded in the 15th century."]
-    }, image: "/poi-images/at-turaif-landmarks-v2.webp"},
+    }, image: "/poi-images/at-turaif-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "At-Turaif in Diriyah ist eine historische Stadtanlage, die im 15. Jahrhundert gegründet wurde. Sie war der erste Wohnsitz der Saud-Dynastie und wurde 2010 zum UNESCO-Weltkulturerbe erklärt. Die Anlage besteht aus Palästen, Moscheen und Befestigungsanlagen aus Lehmziegeln. Sie spielte eine zentrale Rolle bei der Gründung des ersten saudischen Staates. Die Stadt war ein politisches und religiöses Zentrum. Heute ist sie eine der wichtigsten historischen Stätten des Landes.",
+      hu: "At-Turaif Dirijah óvárosának szíve, a Szaúd-dinasztia bölcsője. A város 1744-ben vált jelentőségre, amikor Mohamed ibn Szaud és Muhammad ibn Abd al-Wahhab szövetséget kötött. A vályogpaloták és erődítmények a 18. századi építészetet tükrözik. A területet 2010-ben nyilvánították világörökséggé. A helyreállítási munkák során hagyományos technikákat alkalmaztak. At-Turaif ma múzeum és kulturális központ.",
+      ro: "At-Turaif din Diriyah este un sit istoric care datează din secolul al XV-lea. A fost capitala primului stat saudit. Situl include palate, moschei și turnuri de pază. Zidurile sunt construite din cărămidă de lut. At-Turaif a fost înscris în patrimoniul UNESCO în 2010. Restaurarea a început în 2008 și finalizată în 2012. Este un simbol al unității naționale saudite.",
+      en: "At-Turaif is a historic district in Diriyah, founded in the 15th century. It became the capital of the First Saudi State in 1744. The site covers 10 hectares and includes the Salwa Palace, the largest mudbrick palace in the region. It was captured by Ottoman forces in 1818 and fell into ruin. UNESCO declared it a World Heritage Site in 2010. Restoration projects have revived traditional Najdi architecture.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Welterbe seit 2010", "Gründung: 15. Jahrhundert", "Fläche: 10 Hektar", "Hauptpalast: Salwa-Palast", "Zerstört: 1818", "Restaurierung: 2008-2012"],
+      hu: ["Világörökség: 2010", "Terület: 10 hektár", "Paloták száma: 5", "Falvastagság: 2 m", "Szövetség: 1744", "Felújítás költsége: 100 millió USD"],
+      ro: ["Suprafață: 10 ha", "Număr de palate: 3", "Grosimea zidurilor: 2 m", "Anul înscrierii UNESCO: 2010", "Capitala primului stat saudit: 1744", "Costul restaurării: 100 milioane USD"],
+      en: ["Area: 10 hectares", "Number of palaces: 3", "Wall thickness: 2 m", "UNESCO status: 2010", "Capital of First Saudi State: 1744", "Restoration cost: $100 million"],
+    },
+  },
   {
     id: "quba-mosque-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
     coords: [39.6172, 24.4392],
-    name: { de: "Quba-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque",
-image: "/poi-images/quba-mosque-landmarks-v2.webp"
-},
+    name: { de: "Quba-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque"},
+    image: "/poi-images/quba-mosque-landmarks-v2.webp",
     description: {
       de: "Diese strahlend weiße Moschee in Medina gilt als die erste in der Geschichte des Islams erbaute Moschee.",
       hu: "Ez a vakítóan fehér medinai mecset az iszlám történelmének elsőként épült mecsetjének számít.",
@@ -240,15 +371,27 @@ image: "/poi-images/quba-mosque-landmarks-v2.webp"
       hu: ["Az alapkövet Mohamed próféta rakta le.", "Kr. u. 622-ben épült.", "A 20. században jelentősen kibővítették és felújították.", "Évente zarándokok millióit vonzza."],
       ro: ["Piatra de temelie a fost pusă de Profetul Mahomed.", "A fost construită în anul 622 d.Hr.", "Extinsă și renovată pe scară largă în secolul al XX-lea.", "Atrage milioane de pelerini anual."],
       en: ["The foundation stone was laid by the Prophet Muhammad.", "Built in 622 AD.", "Extensively expanded and renovated in the 20th century.", "Attracts millions of pilgrims annually."]
-    }, image: "/poi-images/quba-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/quba-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Quba-Moschee in Medina war die erste Moschee des Islam und wurde von Prophet Muhammad erbaut. Sie liegt etwa 5 Kilometer südöstlich der Prophetenmoschee. Die Moschee hat eine weiße Fassade und zwei Minarette. Sie wurde mehrfach erweitert, zuletzt in den 1980er Jahren. Der Gebetssaal fasst 20.000 Gläubige. Die Moschee gilt als segensreich, und das Gebet dort wird mit einer Umra belohnt.",
+      hu: "A Kuba Mecset az iszlám első mecsetje, Medina külvárosában. A próféta 622-ben építette, amikor Medinába érkezett. A jelenlegi épület modern, fehér márványból. A mecsetet folyamatosan bővítették. A belső udvarban ezüst kupolák találhatók. A mecset fontos zarándokhely.",
+      ro: "Moscheea Quba din Medina este prima moschee construită în Islam, în 622 d.Hr. A fost construită de profetul Muhammad. Are 2 minarete de 47 m înălțime. Sala de rugăciune poate găzdui 20.000 de credincioși. Moscheea a fost mărită de mai multe ori, ultima dată în 1986. Curtea are șase cupole de argint. Rugăciunea la Quba este considerată o faptă bună.",
+      en: "The Quba Mosque is the first mosque in Islam, built in 622 CE by Prophet Muhammad. It is located 5 km from the Prophet's Mosque in Medina. The current structure was rebuilt in 1986 and features a white marble façade. The mosque has 2 minarets 47 m tall and can accommodate 20,000 worshippers. The interior is decorated with marble and mosaics. The Quba Mosque is mentioned in the Quran as a mosque founded on piety.",
+    },
+    factsAdvanced: {
+      de: ["Erstbaudatum: 622 n. Chr.", "Entfernung zur Prophetenmoschee: 5 km", "Minarette: 2, je 47 m hoch", "Kapazität: 20.000 Gläubige", "Letzte Erweiterung: 1986", "Kuppeln: 6 silberne"],
+      hu: ["Építés éve: 622", "Magasság: 47 m (minaretek)", "Befogadóképesség: 20 000", "Kupolák: 6", "Terület: 6 000 m²", "Felújítás: 1986"],
+      ro: ["Anul construirii: 622 d.Hr.", "Înălțimea minaretelor: 47 m", "Capacitate: 20.000", "Număr de cupole: 6", "Suprafață: 6.000 m²", "Anul ultimei reconstrucții: 1986"],
+      en: ["Year built: 622 CE", "Minaret height: 47 m", "Capacity: 20,000", "Number of domes: 6", "Area: 6,000 m²", "Last renovation: 1986"],
+    },
+  },
   {
     id: "al-faisaliyah-centre-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
     coords: [46.6841, 24.6908],
-    name: { de: "Al Faisaliyah Center", hu: "Al Faisaliyah Központ", ro: "Centrul Al Faisaliyah", en: "Al Faisaliyah Centre",
-image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp"
-},
+    name: { de: "Al Faisaliyah Center", hu: "Al Faisaliyah Központ", ro: "Centrul Al Faisaliyah", en: "Al Faisaliyah Centre"},
+    image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp",
     description: {
       de: "Ein markanter Wolkenkratzer in Riad, bekannt für seine pyramidenartige Form und die goldene Glaskugel an der Spitze.",
       hu: "Feltűnő felhőkarcoló Rijádban, amely piramisszerű formájáról és a tetején lévő arany üveggömbről ismert.",
@@ -260,15 +403,27 @@ image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp"
       hu: ["Az épület 267 méter magas.", "Az aranygömb egy luxusétteremnek ad otthont.", "A 2000-es elkészültekor Szaúd-Arábia legmagasabb épülete volt.", "A brit építész, Norman Foster tervezte."],
       ro: ["Clădirea are o înălțime de 267 de metri.", "Sfera aurie găzduiește un restaurant de lux.", "La finalizarea sa în 2000, a fost cea mai înaltă clădire din Arabia Saudită.", "Proiectată de arhitectul britanic Norman Foster."],
       en: ["The building is 267 meters tall.", "The golden globe houses a luxury restaurant.", "When completed in 2000, it was the tallest building in Saudi Arabia.", "Designed by British architect Norman Foster."]
-    }, image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp"},
+    }, image: "/poi-images/al-faisaliyah-centre-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Al Faisaliyah Centre in Riad ist ein 267 Meter hoher Wolkenkratzer, der 2000 fertiggestellt wurde. Es hat 44 Stockwerke und wird von einer glasbedeckten Kugel an der Spitze gekrönt. Die Kugel enthält ein Restaurant und einen Konferenzraum. Das Gebäude beherbergt Büros, ein Hotel und ein Einkaufszentrum. Es war das erste Gebäude in Saudi-Arabien, das vollständig aus Stahl und Glas gebaut wurde. Der Turm ist ein architektonisches Wahrzeichen der Hauptstadt.",
+      hu: "Az Al Faisaliyah Központ Rijád egyik legkorábbi felhőkarcolója, 267 méter magas. A torony tetején lévő üveggömb átmérője 14 méter, és egy étterem található benne. Az épületben irodák, egy szálloda és egy bevásárlóközpont kapott helyet. A tornyot 2000-ben avatták fel. Az építészeti stílus modern és elegáns. Az Al Faisaliyah a város sziluettjének meghatározó eleme.",
+      ro: "Al Faisaliyah Centre este un zgârie-nori de 267 m în Riyadh, finalizat în 2000. Are 44 de etaje. În vârf se află o sferă de sticlă cu diametrul de 14 m. Clădirea conține centre de afaceri, hotel și mall. Este primul zgârie-nori din Arabia Saudită cu structură integrală din oțel. Iluminatul nocturn îl face spectaculos. Este un simbol al modernizării orașului.",
+      en: "Al Faisaliyah Centre in Riyadh is a 267-meter skyscraper completed in 2000. It has 44 floors and a distinctive glass sphere at the top measuring 14 meters in diameter. The sphere houses a restaurant with panoramic views. The building includes the Four Seasons hotel, luxury retail, and corporate offices. It was the first building in Saudi Arabia to use a full steel frame. The design incorporates Islamic geometric patterns.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 267 Meter", "Stockwerke: 44", "Glaskugel: 14 m Durchmesser", "Fertigstellung: 2000", "Erster Stahl-Glas-Wolkenkratzer", "Hotel: Four Seasons"],
+      hu: ["Magasság: 267 m", "Szintek: 44", "Üveggömb: 14 m átmérő", "Építés éve: 2000", "Acél és üveg szerkezet", "Bevásárlóközpont: 30 000 m²"],
+      ro: ["Înălțime: 267 m", "Număr etaje: 44", "Diametru sferă: 14 m", "An finalizare: 2000", "Structură din oțel integral", "Suprafață totală: 150.000 m²"],
+      en: ["Height: 267 m", "Floors: 44", "Sphere diameter: 14 m", "Year completed: 2000", "Steel frame: first in Saudi Arabia", "Total floor area: 150,000 m²"],
+    },
+  },
   {
     id: "jabal-al-nour-landmarks-v2",
     type: "landmark",
     parent: "SA-02",
     coords: [39.8601, 21.4578],
-    name: { de: "Dschabal an-Nur", hu: "A Fény hegye", ro: "Jabal al-Nour", en: "Jabal al-Nour",
-image: "/poi-images/jabal-al-nour-landmarks-v2.webp"
-},
+    name: { de: "Dschabal an-Nur", hu: "A Fény hegye", ro: "Jabal al-Nour", en: "Jabal al-Nour"},
+    image: "/poi-images/jabal-al-nour-landmarks-v2.webp",
     description: {
       de: "Ein markanter Berg nahe Mekka, der die berühmte Hira-Höhle beherbergt, ein Ort von immenser spiritueller Bedeutung.",
       hu: "Egy jellegzetes hegy Mekka közelében, ahol a híres Híra barlang található, egy hatalmas spirituális jelentőségű hely.",
@@ -280,15 +435,27 @@ image: "/poi-images/jabal-al-nour-landmarks-v2.webp"
       hu: ["A név fordítása \"A Fény hegye\".", "A hegy 642 méter magas.", "A Híra barlangban kapta meg Mohamed az első kinyilatkoztatását.", "A zarándokok kedvelt célpontja a haddzs idején."],
       ro: ["Numele se traduce prin \"Muntele Luminii\".", "Muntele are 642 de metri înălțime.", "Se crede că Mahomed a primit prima sa revelație în Peștera Hira.", "O destinație populară pentru pelerini în timpul Hajj."],
       en: ["The name translates to \"Mountain of Light\".", "The mountain is 642 meters high.", "Muhammad is believed to have received his first revelation in the Cave of Hira.", "A popular destination for pilgrims during Hajj."]
-    }, image: "/poi-images/jabal-al-nour-landmarks-v2.webp"},
+    }, image: "/poi-images/jabal-al-nour-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Nour (Berg des Lichts) in Mekka ist der Ort, an dem der Prophet Muhammad die erste Offenbarung empfing. Der Berg ist 640 Meter hoch und beherbergt die Höhle Hira. Die Höhle ist etwa 3,5 Meter lang und 2 Meter breit. Muslime besteigen den Berg oft während der Hadsch. Der Aufstieg dauert etwa 2 Stunden. Der Berg ist ein wichtiges Ziel für Pilger, obwohl er nicht direkt zur Hadsch gehört.",
+      hu: "A Jabal al-Nour (Fény hegye) Mekka egyik fontos helye, ahol a Korán első versei Mohamedhez érkeztek. A hegy tetején található Híra barlang. A barlang kicsi, mindössze 3,5 m hosszú. A hegy 640 m magas. A zarándokok gyakran felmásznak a hegyre, hogy imádkozzanak. A mászás nehéz, de spirituális jelentőségű.",
+      ro: "Jabal al-Nour (Muntele Luminii) este un munte lângă Mecca, cunoscut pentru Peștera Hira. În această peșteră, Profetul Muhammad a primit prima revelație. Muntele are o altitudine de 640 m. Peștera are 3,5 m lungime și 2 m lățime. Accesul se face pe o potecă abruptă. Este un loc de pelerinaj, deși nu face parte din ritualurile Hajj.",
+      en: "Jabal al-Nour (Mount of Light) is a mountain near Mecca, rising to 640 m. It contains the Cave of Hira, where the Prophet Muhammad received the first Quranic revelation. The cave is 3.5 m long and 2 m wide. The mountain is composed of granite and offers views of the surrounding area. Pilgrims often climb it outside of Hajj season. The climb takes 1-2 hours and involves steep steps.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 640 Meter", "Höhle Hira: 3,5 m lang, 2 m breit", "Entfernung zur Kaaba: 4 km", "Aufstiegszeit: 1-2 Stunden", "Gestein: Granit", "Erste Offenbarung: 610 n. Chr."],
+      hu: ["Magasság: 640 m", "Barlang mérete: 3,5 x 2 m", "Távolság a Kábától: 4 km", "Mászási idő: 1-2 óra", "Kőzet: gránit", "Első kinyilatkoztatás éve: 610"],
+      ro: ["Altitudine: 640 m", "Lungimea peșterii: 3,5 m", "Lățimea peșterii: 2 m", "Distanța de la Kaaba: 4 km", "Timp de urcare: 1-2 ore", "Anul primei revelații: 610 d.Hr."],
+      en: ["Height: 640 m", "Cave dimensions: 3.5 x 2 m", "Distance from Kaaba: 4 km", "Climbing time: 1-2 hours", "Rock type: granite", "First revelation: 610 CE"],
+    },
+  },
   {
     id: "maraya-concert-hall-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
     coords: [37.9142, 26.6669],
-    name: { de: "Maraya-Konzerthalle", hu: "Maraya Koncertterem", ro: "Sala de concerte Maraya", en: "Maraya Concert Hall",
-image: "/poi-images/maraya-concert-hall-landmarks-v2.webp"
-},
+    name: { de: "Maraya-Konzerthalle", hu: "Maraya Koncertterem", ro: "Sala de concerte Maraya", en: "Maraya Concert Hall"},
+    image: "/poi-images/maraya-concert-hall-landmarks-v2.webp",
     description: {
       de: "Dieses unglaubliche Gebäude im Ashar-Tal ist vollständig mit Spiegeln verkleidet, die die Wüstenlandschaft reflektieren.",
       hu: "Ez a hihetetlen épület az Ashar-völgyben teljesen tükrökkel van borítva, amelyek visszatükrözik a sivatagi tájat.",
@@ -300,15 +467,27 @@ image: "/poi-images/maraya-concert-hall-landmarks-v2.webp"
       hu: ["A világ legnagyobb tükörborítású épülete.", "Közel 10 000 négyzetméter tükörfelülettel rendelkezik.", "500 koncertlátogató számára kínál helyet.", "Építészeti délibábként olvad be a természetbe."],
       ro: ["Cea mai mare clădire acoperită cu oglinzi din lume.", "Are aproape 10.000 de metri pătrați de suprafață de oglindă.", "Oferă locuri pentru 500 de spectatori la concerte.", "Se îmbină cu natura ca un miraj arhitectural."],
       en: ["The largest mirrored building in the world.", "Features nearly 10,000 square meters of mirror surface.", "Seats 500 concertgoers.", "Blends into nature as an architectural mirage."]
-    }, image: "/poi-images/maraya-concert-hall-landmarks-v2.webp"},
+    }, image: "/poi-images/maraya-concert-hall-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Maraya Concert Hall in Al-Ula ist ein moderner Veranstaltungsort, der von spiegelnden Glasfassaden bedeckt ist. Das Gebäude ist 26 Meter hoch und hat 1.300 Quadratmeter Spiegelfläche. Es fügt sich nahtlos in die Wüstenlandschaft ein. Der Saal bietet Platz für 500 Gäste. Maraya wurde 2019 eröffnet und wird für Konzerte, Galadinner und kulturelle Events genutzt. Es ist ein Meisterwerk moderner Architektur.",
+      hu: "A Maraya Koncertterem Al-Ulában található, és a világ legnagyobb tükrös épülete. A homlokzat 1.300 m² tükörből áll, így tükrözi a környező sivatagot. A terem akusztikája kiváló. 2019-ben nyitották meg. Férőhelye 500 fő. Az épületet az olasz Giò Forma tervezte. A Maraya a szaúdi kulturális nyitás szimbóluma.",
+      ro: "Maraya Concert Hall din Al-Ula este o sală de spectacole acoperită cu oglindă, cu o suprafață de 1.300 m². Clădirea pare aproape invizibilă în deșert. Are o capacitate de 500 de locuri. A fost inaugurată în 2019. Designul este al arhitectului Giò Forma. Sala găzduiește evenimente internaționale, inclusiv concerte ale unor artiști celebri.",
+      en: "Maraya Concert Hall in Al-Ula is the world's largest mirrored building, with 1,300 m² of reflective glass. It stands 26 m tall and seats 500 people. The exterior reflects the desert landscape, creating an optical illusion. The hall opened in 2019 and has hosted artists like Andrea Bocelli and Lionel Richie. It is part of the Al-Ula cultural initiative. The design was inspired by the surrounding rock formations.",
+    },
+    factsAdvanced: {
+      de: ["Spiegelfläche: 1.300 m²", "Höhe: 26 Meter", "Kapazität: 500 Plätze", "Eröffnung: 2019", "Architekt: Giò Forma", "Größtes verspiegeltes Gebäude der Welt"],
+      hu: ["Tükörfelület: 1 300 m²", "Férőhely: 500 fő", "Magasság: 26 m", "Nyitás éve: 2019", "Tervező: Giò Forma", "Világ legnagyobb tükrös épülete"],
+      ro: ["Suprafața oglinzilor: 1.300 m²", "Capacitate: 500 locuri", "Înălțime: 26 m", "An deschidere: 2019", "Arhitect: Giò Forma", "Cea mai mare clădire cu oglindă din lume"],
+      en: ["Mirror surface: 1,300 m²", "Capacity: 500 seats", "Height: 26 m", "Opened: 2019", "Architect: Giò Forma", "Largest mirrored building in the world"],
+    },
+  },
   {
     id: "al-wahbah-crater-landmarks-v2",
     type: "landmark",
     parent: "SA-02",
     coords: [41.1384, 22.9031],
-    name: { de: "Al-Wahbah-Krater", hu: "Al-Wahbah-kráter", ro: "Craterul Al Wahbah", en: "Al Wahbah Crater",
-image: "/poi-images/al-wahbah-crater-landmarks-v2.webp"
-},
+    name: { de: "Al-Wahbah-Krater", hu: "Al-Wahbah-kráter", ro: "Craterul Al Wahbah", en: "Al Wahbah Crater"},
+    image: "/poi-images/al-wahbah-crater-landmarks-v2.webp",
     description: {
       de: "Ein gigantischer vulkanischer Krater am westlichen Rand des Harrat Kishb Basaltplateaus, der oft für einen Meteoritenkrater gehalten wird.",
       hu: "Egy gigantikus vulkáni kráter a Harrat Kishb bazaltfennsík nyugati szélén, amelyet gyakran meteoritkráternek hisznek.",
@@ -320,15 +499,27 @@ image: "/poi-images/al-wahbah-crater-landmarks-v2.webp"
       hu: ["A kráter átmérője 2 kilométer.", "Körülbelül 250 méter mély.", "Freatomagmás robbanás következtében jött létre.", "A fenekét gyakran fehér sóréteg borítja."],
       ro: ["Craterul are un diametru de 2 kilometri.", "Are o adâncime de aproximativ 250 de metri.", "S-a format printr-o explozie freatomagmatică.", "Fundul este adesea acoperit cu un strat de sare albă."],
       en: ["The crater has a diameter of 2 kilometers.", "Is approximately 250 meters deep.", "Formed by a phreatomagmatic explosion.", "The bottom is often covered with a white salt layer."]
-    }, image: "/poi-images/al-wahbah-crater-landmarks-v2.webp"},
+    }, image: "/poi-images/al-wahbah-crater-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al Wahbah-Krater ist ein Vulkankrater in der Wüste im Westen Saudi-Arabiens. Er hat einen Durchmesser von 2 Kilometern und eine Tiefe von 250 Metern. Der Krater ist mit Salzablagerungen bedeckt, die weiß schimmern. Er entstand durch einen Vulkanausbruch in der Vergangenheit. Der Boden ist feucht und beherbergt seltene Pflanzen. Der Krater ist ein geologisches Wunder und ein beliebtes Ziel für Wanderer.",
+      hu: "Az Al Wahbah-kráter egy vulkáni kráter Szaúd-Arábia nyugati részén. Átmérője 2 km, mélysége 250 m. A kráter alján sókristályok képződtek. A területet bazaltos láva veszi körül. A kráter egyedülálló geológiai képződmény. A naplemente különösen szép itt.",
+      ro: "Craterul Al Wahbah din Arabia Saudită are un diametru de 2 km și o adâncime de 250 m. Este un crater vulcanic. Fundul craterului este acoperit cu un strat de sare. În ea sunt cristale de gips. Flora include plante halofite. Este o destinație pentru drumeții și geologi.",
+      en: "Al Wahbah Crater is a volcanic maar in western Saudi Arabia, 2 km in diameter and 250 m deep. It was formed by a volcanic eruption about 1.5 million years ago. The crater floor is covered with white salt deposits, including gypsum crystals. The walls show layers of basalt and ash. The crater is located 300 km from Jeddah. It is a popular site for hiking and photography.",
+    },
+    factsAdvanced: {
+      de: ["Durchmesser: 2 Kilometer", "Tiefe: 250 Meter", "Entstehung: Vulkanisch", "Alter: 1,5 Millionen Jahre", "Salzschicht: bis zu 10 m dick", "Entfernung von Dschidda: 300 km"],
+      hu: ["Átmérő: 2 km", "Mélység: 250 m", "Kor: 1,5 millió év", "Kőzet: bazalt, hamu", "Sóréteg vastagság: 10 m", "Távolság Dzsiddától: 300 km"],
+      ro: ["Diametru: 2 km", "Adâncime: 250 m", "Vârstă: 1,5 milioane ani", "Material: bazalt, cenușă", "Grosimea stratului de sare: 10 m", "Distanța de la Jeddah: 300 km"],
+      en: ["Diameter: 2 km", "Depth: 250 m", "Age: 1.5 million years", "Type volcanic: maar", "Salt layer thickness: up to 10 m", "Distance from Jeddah: 300 km"],
+    },
+  },
   {
     id: "kapsarc-landmarks-v2",
     type: "landmark",
     parent: "SA-01",
     coords: [46.7419, 24.8422],
-    name: { de: "KAPSARC", hu: "KAPSARC", ro: "KAPSARC", en: "KAPSARC",
-image: "/poi-images/kapsarc-landmarks-v2.webp"
-},
+    name: { de: "KAPSARC", hu: "KAPSARC", ro: "KAPSARC", en: "KAPSARC"},
+    image: "/poi-images/kapsarc-landmarks-v2.webp",
     description: {
       de: "Ein hochmodernes Forschungszentrum in Riad, das für seine futuristische, zellenartige Architektur von Zaha Hadid berühmt ist.",
       hu: "Egy korszerű kutatóközpont Rijádban, amely Zaha Hadid futurisztikus, sejtszerű építészetéről híres.",
@@ -340,15 +531,27 @@ image: "/poi-images/kapsarc-landmarks-v2.webp"
       hu: ["A sztárépítész, Zaha Hadid tervezte.", "Méhsejtszerű, kristályos szerkezetekből áll.", "Az energiagazdaságtanra és a környezeti kutatásokra összpontosít.", "A fenntarthatóságért LEED Platina minősítéssel tüntették ki."],
       ro: ["Proiectat de arhitecta vedetă Zaha Hadid.", "Constă în structuri cristaline în formă de fagure.", "Se concentrează pe economia energiei și cercetarea mediului.", "A primit certificarea LEED Platinum pentru sustenabilitate."],
       en: ["Designed by the star architect Zaha Hadid.", "Consists of honeycomb, crystalline structures.", "Focuses on energy economics and environmental research.", "Awarded LEED Platinum certification for sustainability."]
-    }, image: "/poi-images/kapsarc-landmarks-v2.webp"},
+    }, image: "/poi-images/kapsarc-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das King Abdullah Petroleum Studies and Research Center (KAPSARC) in Riad ist ein Forschungsinstitut für Energiepolitik. Es wurde 2014 eröffnet und der Campus von der englischen Architektin Zaha Hadid entworfen. Die Gebäude sind organisch geformt und bestehen aus Beton. KAPSARC verfolgt das Ziel, nachhaltige Energielösungen zu entwickeln. Das Institut arbeitet mit globalen Partnern zusammen. Es ist ein architektonisches Meisterwerk und ein Symbol für Wissensförderung in Saudi-Arabien.",
+      hu: "A KAPSARC egy energetikai kutatóközpont Rijádban, amelyet Zaha Hadid tervezett. Az épületek hullámzó formáiról híresek. 2014-ben nyitották meg. A központ energiahatékonysággal és -politikával foglalkozik. A campuson zöld terek és napelemek találhatók. A KAPSARC a szaúdi tudományos fejlődés jelképe.",
+      ro: "KAPSARC este un centru de cercetare energetică din Riyadh, proiectat de Zaha Hadid. Clădirea are forme curgătoare și fațade din sticlă. A fost deschis în 2014. Cercetările se concentrează pe economie, mediu și tehnologie. Instituția colaborează cu guverne și universități. Designul său a câștigat premii internaționale.",
+      en: "KAPSARC (King Abdullah Petroleum Studies and Research Center) is a research institute in Riyadh, designed by Zaha Hadid Architects. The campus opened in 2014 and covers 70,000 m². The building's cellular structure minimizes energy use. KAPSARC focuses on energy economics and policy analysis. It hosts data libraries and computational models. The center has received LEED platinum certification for sustainability.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2014", "Architekt: Zaha Hadid", "Fläche: 70.000 m²", "Zertifizierung: LEED Platin", "Forschungsschwerpunkt: Energie", "Mitarbeiter: 500"],
+      hu: ["Nyitás éve: 2014", "Tervező: Zaha Hadid", "Terület: 70 000 m²", "LEED minősítés: platina", "Kutatók száma: 500", "Éves költségvetés: 100 millió USD"],
+      ro: ["An deschidere: 2014", "Arhitect: Zaha Hadid", "Suprafață: 70.000 m²", "LEED: platină", "Număr angajați: 500", "Buget anual: 100 milioane USD"],
+      en: ["Opened: 2014", "Architect: Zaha Hadid", "Area: 70,000 m²", "LEED: Platinum", "Employees: 500", "Annual budget: $100 million"],
+    },
+  },
   {
     id: "rijal-almaa-landmarks-v2",
     type: "landmark",
     parent: "SA-14",
     coords: [42.2719, 18.2167],
-    name: { de: "Dorf Rijal Almaa", hu: "Rijal Almaa falu", ro: "Satul Rijal Almaa", en: "Rijal Almaa Village",
-image: "/poi-images/rijal-almaa-landmarks-v2.webp"
-},
+    name: { de: "Dorf Rijal Almaa", hu: "Rijal Almaa falu", ro: "Satul Rijal Almaa", en: "Rijal Almaa Village"},
+    image: "/poi-images/rijal-almaa-landmarks-v2.webp",
     description: {
       de: "Ein malerisches Bergdorf in der Asir-Region, das für seine einzigartigen, mehrstöckigen Steinhäuser und bunten Fresken bekannt ist.",
       hu: "Egy festői hegyi falu az Aszír régióban, amely egyedülálló, többszintes kőházairól és színes freskóiról ismert.",
@@ -360,15 +563,27 @@ image: "/poi-images/rijal-almaa-landmarks-v2.webp"
       hu: ["A kőtornyok közül sok több mint 700 éves.", "A házak kvarckőből és vályogból épültek.", "Kiváló múzeummal rendelkezik a regionális kultúráról.", "Fontos kereskedelmi központ volt Jemen és Mekka között."],
       ro: ["Multe dintre turnurile de piatră au peste 700 de ani.", "Casele sunt construite din piatră de cuarț și lut.", "Are un muzeu excelent dedicat culturii regionale.", "A fost un important centru comercial între Yemen și Mecca."],
       en: ["Many of the stone towers are over 700 years old.", "The houses are built of quartz rock and mud.", "Features an excellent museum on regional culture.", "Was an important trading hub between Yemen and Mecca."]
-    }, image: "/poi-images/rijal-almaa-landmarks-v2.webp"},
+    }, image: "/poi-images/rijal-almaa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dorf Rijal Almaa liegt im Südwesten Saudi-Arabiens in der Provinz Asir. Es ist bekannt für seine traditionellen Steinhäuser, die mit Quarzkristallen verziert sind, die im Sonnenlicht schimmern. Die Siedlung war ein bedeutender Handelsposten auf der Weihrauchstraße, die den Jemen mit dem Mittelmeer verband. Das Dorf beherbergt ein Museum, das in einem restaurierten Palast untergebracht ist und Einblicke in die lokale Kultur und Geschichte bietet. Die Architektur der Häuser besteht aus Lehm und Stein, mit kunstvollen Holztüren und geometrischen Mustern. Rijal Almaa ist ein Beispiel für die traditionelle Bauweise der Region, die an das raue Klima angepasst ist. Die Bewohner pflegen noch immer alte Handwerkskünste wie Töpferei und Weberei. Das Dorf wurde 2017 für eine Aufnahme ins UNESCO-Weltkulturerbe nominiert. Die umliegenden Berge bieten Wanderwege und Aussichtspunkte. Rijal Almaa ist ein lebendiges Museum der saudischen Hochlandkultur.",
+      hu: "Rijal Almaa falu Szaúd-Arábia délnyugati részén, az Asir régióban található. A település híres a kvarc kristályokkal díszített hagyományos kőházairól, amelyek csillognak a napfényben. A falu fontos kereskedelmi állomás volt a tömjénúton, amely Jement a Földközi-tengerrel kötötte össze. A faluban található egy múzeum, amely egy felújított palotában működik, és betekintést nyújt a helyi kultúrába és történelembe. A házak vályogból és kőből épültek, díszes faajtókkal és geometrikus mintákkal. Rijal Almaa a régió hagyományos építészetének példája, amely alkalmazkodik a zord éghajlathoz. A lakosok még mindig őrzik a régi kézműves mesterségeket, mint a fazekasság és a szövés. A falut 2017-ben jelölték az UNESCO világörökségi listájára. A környező hegyek túraútvonalakat és kilátópontokat kínálnak. Rijal Almaa a szaúdi felföldi kultúra élő múzeuma.",
+      ro: "Satul Rijal Almaa este situat în sud-vestul Arabiei Saudite, în provincia Asir. Este renumit pentru casele sale tradiționale din piatră, decorate cu cristale de cuarț care strălucesc la soare. Așezarea a fost un important post comercial pe Drumul Tămâiei, care lega Yemenul de Marea Mediterană. Satul găzduiește un muzeu într-un palat restaurat, care oferă perspective asupra culturii și istoriei locale. Arhitectura caselor este din lut și piatră, cu uși ornamentate din lemn și modele geometrice. Rijal Almaa este un exemplu al construcțiilor tradiționale ale regiunii, adaptate climatului aspru. Locuitorii păstrează încă meșteșuguri vechi, cum ar fi olăritul și țesutul. Satul a fost nominalizat în 2017 pentru includerea în patrimoniul mondial UNESCO. Munții din jur oferă trasee de drumeții și puncte de belvedere. Rijal Almaa este un muzeu viu al culturii de altitudine saudite.",
+      en: "Rijal Almaa Village is located in the Asir Province of southwestern Saudi Arabia. This historic settlement is renowned for its traditional stone houses adorned with quartz crystals that sparkle in the sun. The village served as a key trading post on the ancient Incense Route connecting Yemen to the Mediterranean. Its museum, housed in a restored palace, showcases local artifacts and heritage. The architecture features mud-brick and stone construction, with intricately carved wooden doors and geometric patterns. Rijal Almaa exemplifies the region's vernacular building techniques adapted to the harsh highland climate. The local community continues to preserve crafts such as pottery and weaving. The village was nominated for UNESCO World Heritage status in 2017. Surrounding mountains offer hiking trails and panoramic views. Rijal Almaa offers a vivid glimpse into Saudi Arabia's highland cultural traditions.",
+    },
+    factsAdvanced: {
+      de: ["Das Dorf liegt auf einer Höhe von etwa 2.200 Metern über dem Meeresspiegel.", "Die Quarzkristalle an den Häusern stammen aus lokalen Minen in der Asir-Region.", "Das Museum im Dorf wurde in einem Palast aus dem 19. Jahrhundert eingerichtet.", "Die traditionellen Häuser können bis zu vier Stockwerke hoch sein.", "Rijal Almaa hat etwa 300 Einwohner (Stand 2022).", "Die Weihrauchstraße, an der das Dorf lag, war über 3.000 Kilometer lang."],
+      hu: ["A falu körülbelül 2.200 méter tengerszint feletti magasságban fekszik.", "A házakat díszítő kvarc kristályok helyi bányákból származnak az Asir régióban.", "A múzeum egy 19. századi palotában kapott helyet, amelyet 2015-ben újítottak fel.", "A hagyományos házak akár négy emelet magasak is lehetnek.", "Rijal Almaa lakossága körülbelül 300 fő (2022-es adat).", "A tömjénút, amelyen a falu elhelyezkedett, több mint 3.000 kilométer hosszú volt."],
+      ro: ["Satul se află la o altitudine de aproximativ 2.200 de metri deasupra nivelului mării.", "Cristalele de cuarț care decorează casele provin din mine locale din regiunea Asir.", "Muzeul este găzduit într-un palat din secolul al XIX-lea, renovat în 2015.", "Casele tradiționale pot avea până la patru etaje.", "Populația satului este de aproximativ 300 de locuitori (conform datelor din 2022).", "Drumul Tămâiei, pe care se afla satul, avea peste 3.000 de kilometri lungime."],
+      en: ["The village is situated at an elevation of approximately 2,200 meters above sea level.", "The quartz crystals used in house decorations are sourced from local mines in the Asir region.", "The museum is housed in a 19th-century palace, renovated in 2015.", "Traditional houses can be up to four stories high.", "Rijal Almaa has a population of about 300 as of 2022.", "The Incense Route passing through the village stretched over 3,000 kilometers."],
+    },
+  },
   {
     id: "ithra-center-landmarks-v2",
     type: "landmark",
     parent: "SA-04",
     coords: [50.1172, 26.3314],
-    name: { de: "Ithra-Zentrum", hu: "Ithra Központ", ro: "Centrul Ithra", en: "Ithra Center",
-image: "/poi-images/ithra-center-landmarks-v2.webp"
-},
+    name: { de: "Ithra-Zentrum", hu: "Ithra Központ", ro: "Centrul Ithra", en: "Ithra Center"},
+    image: "/poi-images/ithra-center-landmarks-v2.webp",
     description: {
       de: "Ein architektonisches Wunderwerk in Dhahran, das als führendes Kultur- und Bildungszentrum in Saudi-Arabien dient.",
       hu: "Építészeti csoda Dahránban, amely Szaúd-Arábia vezető kulturális és oktatási központjaként szolgál.",
@@ -380,15 +595,27 @@ image: "/poi-images/ithra-center-landmarks-v2.webp"
       hu: ["A norvég Snøhetta építésziroda tervezte.", "A dizájnt a sivatagi sima sziklák ihlették.", "Hatalmas könyvtárnak, színháznak és múzeumoknak ad otthont.", "A Saudi Aramco olajvállalat támogatta a létrehozását."],
       ro: ["Proiectat de firma norvegiană de arhitectură Snøhetta.", "Designul este inspirat de rocile netede din deșert.", "Găzduiește o bibliotecă imensă, un teatru și muzee.", "A fost sponsorizat de compania petrolieră saudită Saudi Aramco."],
       en: ["Designed by the Norwegian architectural firm Snøhetta.", "The design is inspired by smooth rocks in the desert.", "Houses a vast library, a theater, and museums.", "Sponsored by the Saudi oil company Saudi Aramco."]
-    }, image: "/poi-images/ithra-center-landmarks-v2.webp"},
+    }, image: "/poi-images/ithra-center-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ithra Center (King Abdulaziz Center for World Culture) ist ein architektonisches Wahrzeichen in Dhahran, Saudi-Arabien. Es wurde 2017 eröffnet und vom norwegischen Architekturbüro Snøhetta entworfen. Das Gebäude besteht aus fünf Teilen, die Steine einer Wüstenlandschaft darstellen. Es beherbergt ein Museum, eine Bibliothek, ein Theater, Ausstellungsräume und ein Lernzentrum. Das Museum zeigt die Geschichte Saudi-Arabiens von der Vorgeschichte bis zur Gegenwart. Die Bibliothek enthält über 200.000 Bücher und digitale Medien. Das Ithra Center ist ein Zentrum für Kultur und Bildung und fördert den interkulturellen Dialog. Es wurde mit mehreren Architekturpreisen ausgezeichnet. Die Fassade besteht aus Edelstahlrohren, die an traditionelle arabische Muster erinnern. Das Center bietet regelmäßig Kunstausstellungen, Konzerte und Workshops. Es ist ein Symbol für Saudi-Arabiens Zukunftsvision und kulturelle Öffnung.",
+      hu: "Az Ithra Center (King Abdulaziz Center for World Culture) egy építészeti nevezetesség Dhahranban, Szaúd-Arábiában. 2017-ben nyílt meg, és a norvég Snøhetta építésziroda tervezte. Az épület öt részből áll, amelyek a sivatagi tájköveket szimbolizálják. Helyet kap benne egy múzeum, egy könyvtár, egy színház, kiállítótermek és egy tanulási központ. A múzeum Szaúd-Arábia történetét mutatja be az őskortól napjainkig. A könyvtár több mint 200.000 könyvet és digitális médiát tartalmaz. Az Ithra Center a kultúra és oktatás központja, elősegítve a kultúrák közötti párbeszédet. Számos építészeti díjat nyert. A homlokzat rozsdamentes acélcsövekből áll, amelyek hagyományos arab motívumokra emlékeztetnek. A központ rendszeresen kínál művészeti kiállításokat, koncerteket és workshopokat. Szaúd-Arábia jövőbeli víziójának és kulturális nyitásának szimbóluma.",
+      ro: "Centrul Ithra (King Abdulaziz Center for World Culture) este un reper arhitectural în Dhahran, Arabia Saudită. A fost inaugurat în 2017 și proiectat de biroul norvegian Snøhetta. Clădirea este alcătuită din cinci părți, simbolizând pietrele unui peisaj deșertic. Adăpostește un muzeu, o bibliotecă, un teatru, spații expoziționale și un centru de învățare. Muzeul prezintă istoria Arabiei Saudite de la preistorie până în prezent. Biblioteca conține peste 200.000 de cărți și materiale digitale. Ithra Center este un centru pentru cultură și educație, promovând dialogul intercultural. A fost distins cu mai multe premii de arhitectură. Fațada este alcătuită din tuburi de oțel inoxidabil care amintesc de modelele arabe tradiționale. Centrul oferă în mod regulat expoziții de artă, concerte și ateliere. Este un simbol al viziunii de viitor a Arabiei Saudite și al deschiderii culturale.",
+      en: "The Ithra Center, officially the King Abdulaziz Center for World Culture, is an architectural landmark in Dhahran, Saudi Arabia. Designed by Norwegian firm Snøhetta, it opened in 2017. The building comprises five elements representing desert landscape stones. It houses a museum, a library, a theater, exhibition spaces, and a learning center. The museum covers Saudi Arabia's history from prehistoric times to modernity. The library holds over 200,000 books and digital resources. Ithra serves as a hub for cultural and educational activities, fostering intercultural dialogue. It has received multiple architectural awards. The façade features stainless steel tubes evoking traditional Arabic patterns. The center regularly hosts art exhibitions, concerts, and workshops. Ithra symbolizes Saudi Arabia's forward-looking vision and cultural openness.",
+    },
+    factsAdvanced: {
+      de: ["Das Ithra Center wurde am 1. Dezember 2017 eröffnet.", "Die Gesamtfläche des Gebäudes beträgt 80.000 Quadratmeter.", "Das Museum des Zentrums zeigt über 1.000 Exponate.", "Das Theater bietet Platz für 900 Zuschauer.", "Die Bibliothek verfügt über mehr als 200.000 Bücher.", "Das Gebäude kostete rund 1 Milliarde US-Dollar."],
+      hu: ["Az Ithra Center 2017. december 1-jén nyílt meg.", "Az épület teljes területe 80.000 négyzetméter.", "A központ múzeuma több mint 1.000 tárgyat mutat be.", "A színház 900 férőhelyes.", "A könyvtár több mint 200.000 könyvet tartalmaz.", "Az épület építési költsége körülbelül 1 milliárd USD volt."],
+      ro: ["Centrul Ithra a fost deschis pe 1 decembrie 2017.", "Suprafața totală a clădirii este de 80.000 de metri pătrați.", "Muzeul centrului prezintă peste 1.000 de exponate.", "Teatrul are o capacitate de 900 de locuri.", "Biblioteca deține peste 200.000 de cărți.", "Costul construcției s-a ridicat la aproximativ 1 miliard de dolari SUA."],
+      en: ["Ithra Center was inaugurated on December 1, 2017.", "The total building area is 80,000 square meters.", "The museum houses over 1,000 artifacts.", "The theater seats 900 people.", "The library contains more than 200,000 books.", "Construction cost was approximately $1 billion."],
+    },
+  },
   {
     id: "mount-uhud-landmarks-v2",
     type: "landmark",
     parent: "SA-03",
     coords: [39.6106, 24.5028],
-    name: { de: "Berg Uhud", hu: "Uhud hegy", ro: "Muntele Uhud", en: "Mount Uhud",
-image: "/poi-images/mount-uhud-landmarks-v2.webp"
-},
+    name: { de: "Berg Uhud", hu: "Uhud hegy", ro: "Muntele Uhud", en: "Mount Uhud"},
+    image: "/poi-images/mount-uhud-landmarks-v2.webp",
     description: {
       de: "Ein geschichtsträchtiger Berg nördlich von Medina, an dem eine der wichtigsten Schlachten der islamischen Frühgeschichte stattfand.",
       hu: "Történelmi jelentőségű hegy Medinától északra, ahol a korai iszlám történelem egyik legfontosabb csatája zajlott.",
@@ -400,6 +627,18 @@ image: "/poi-images/mount-uhud-landmarks-v2.webp"
       hu: ["A híres uhudi csata helyszíne Kr. u. 625-ben.", "A hegy 1077 méter magas.", "Hossza közel 8 kilométer.", "Itt található az uhudi vértanúk temetője."],
       ro: ["Locul celebrei bătălii de la Uhud din anul 625 d.Hr.", "Muntele are 1077 metri înălțime.", "Se întinde pe o lungime de aproape 8 kilometri.", "Găzduiește cimitirul martirilor de la Uhud."],
       en: ["Site of the famous Battle of Uhud in 625 AD.", "The mountain is 1077 meters high.", "Stretches over a length of nearly 8 kilometers.", "Houses the cemetery of the martyrs of Uhud."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Berg Uhud ist ein historischer Ort nördlich von Medina in Saudi-Arabien. Er ist bekannt für die Schlacht von Uhud im Jahr 625 n. Chr. zwischen den frühen Muslimen und den Quraisch von Mekka. Der Berg ist etwa 7 Kilometer lang und 350 Meter hoch. Er besteht aus rotem Granit und hat eine markante Silhouette. Am Fuß des Berges befinden sich die Gräber von 70 muslimischen Gefallenen, einschließlich des Propheten-Onkels Hamza. Die Stätte ist ein wichtiges Ziel für Pilger und Touristen. Ein Museum nahe des Bergs dokumentiert die Schlacht. Der Berg Uhud ist auch ein geologisches Merkmal der Region mit verschiedenen Gesteinsarten. Die umliegende Landschaft ist karg und felsig. Der Berg bietet Wanderwege und Aussichtspunkte auf Medina. Er ist ein Symbol für Opferbereitschaft und Glauben im Islam.",
+      hu: "Az Uhud-hegy Szaúd-Arábiában, Medina városától északra található történelmi helyszín. Híres az 625-ben lezajlott uhudi csatáról, amely a korai muszlimok és a mekkai Kurajs törzs között zajlott. A hegy körülbelül 7 kilométer hosszú és 350 méter magas. Vörös gránitból áll, és jellegzetes sziluettje van. A hegy lábánál 70 muszlim harcos sírja található, köztük Hamzáé, a próféta nagybátyjáé. A hely fontos zarándok- és turistacélpont. A hegy közelében egy múzeum dokumentálja a csatát. Az Uhud-hegy a régió geológiai jellegzetessége is, többféle kőzettípussal. A környező táj kopár és sziklás. A hegy túraútvonalakat és kilátópontokat kínál Medina városára. Az iszlámban az áldozatkészség és a hit szimbóluma.",
+      ro: "Muntele Uhud este un sit istoric situat la nord de Medina, în Arabia Saudită. Este cunoscut pentru Bătălia de la Uhud din 625 d.Hr., dintre primii musulmani și qurayșiții din Mecca. Muntele are aproximativ 7 kilometri lungime și 350 de metri înălțime. Este compus din granit roșu și are un profil distinctiv. La poalele muntelui se află mormintele a 70 de luptători musulmani căzuți, inclusiv al unchiului profetului, Hamza. Situl reprezintă o destinație importantă pentru pelerini și turiști. Un muzeu în apropiere documentează bătălia. Muntele Uhud este, de asemenea, o caracteristică geologică cu diverse tipuri de roci. Peisajul din jur este arid și stâncos. Muntele oferă trasee de drumeție și puncte de belvedere spre Medina. Este un simbol al sacrificiului și credinței în Islam.",
+      en: "Mount Uhud is a historic site north of Medina in Saudi Arabia, famous for the Battle of Uhud in 625 CE between early Muslims and the Quraysh of Mecca. The mountain is about 7 kilometers long and 350 meters high, composed of red granite with a distinctive silhouette. At its base lie the graves of 70 fallen Muslim warriors, including Prophet Muhammad's uncle Hamza. The site is a significant pilgrimage and tourist destination. A nearby museum details the battle. Geologically, Mount Uhud features various rock types. The surrounding landscape is barren and rocky. The mountain offers hiking trails and viewpoints overlooking Medina. It symbolizes sacrifice and faith in Islam.",
+    },
+    factsAdvanced: {
+      de: ["Der Berg Uhud ist 350 Meter über dem Meeresspiegel hoch.", "Die Schlacht von Uhud fand am 23. März 625 n. Chr. statt.", "Der Berg erstreckt sich über eine Länge von etwa 7 Kilometern.", "Am Fuß des Berges befinden sich 70 Gräber der Gefallenen.", "Ein Museum in der Nähe wurde 2010 eröffnet.", "Der Berg besteht hauptsächlich aus rotem Granit."],
+      hu: ["Az Uhud-hegy 350 méter magas a tengerszint felett.", "Az uhudi csata 625. március 23-án zajlott.", "A hegy hossza körülbelül 7 kilométer.", "A hegy lábánál 70 sír található.", "A közeli múzeum 2010-ben nyílt meg.", "A hegy főként vörös gránitból áll."],
+      ro: ["Muntele Uhud are o înălțime de 350 de metri deasupra nivelului mării.", "Bătălia de la Uhud a avut loc pe 23 martie 625 d.Hr.", "Muntele se întinde pe o lungime de aproximativ 7 kilometri.", "La poalele muntelui se află 70 de morminte.", "Muzeul din apropiere a fost deschis în 2010.", "Muntele este compus în principal din granit roșu."],
+      en: ["Mount Uhud stands 350 meters above sea level.", "The Battle of Uhud occurred on March 23, 625 CE.", "The mountain extends about 7 kilometers in length.", "There are 70 graves of fallen warriors at its base.", "A nearby museum opened in 2010.", "The mountain is primarily composed of red granite."],
+    },
   }
 ];

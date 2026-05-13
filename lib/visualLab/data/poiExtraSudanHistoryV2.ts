@@ -11,9 +11,8 @@ export const poiExtraSudanHistoryV2: POI[] = [
       de: "Meroë-Pyramiden",
       hu: "Meroé piramisai",
       ro: "Piramidele din Meroë",
-      en: "Pyramids of Meroë",
-image: "/poi-images/sd-no-meroe-pyramids-history-v2.webp"
-},
+      en: "Pyramids of Meroë"},
+    image: "/poi-images/sd-no-meroe-pyramids-history-v2.webp",
     description: {
       de: "Die antike Hauptstadt des Königreichs Kusch, berühmt für ihre markanten steilen Pyramiden.",
       hu: "A Kusita Királyság ókori fővárosa, mely meredek piramisairól híres.",
@@ -48,9 +47,8 @@ image: "/poi-images/sd-no-meroe-pyramids-history-v2.webp"
       de: "Naqa",
       hu: "Naga",
       ro: "Naqa",
-      en: "Naqa",
-image: "/poi-images/sd-rs-naqa-history-v2.webp"
-},
+      en: "Naqa"},
+    image: "/poi-images/sd-rs-naqa-history-v2.webp",
     description: {
       de: "Eine antike Ruinenstadt des Königreichs Kusch mit gut erhaltenen Tempelanlagen.",
       hu: "A Kusita Királyság ókori romvárosa, jól megőrzött templomegyüttesekkel.",
@@ -85,9 +83,8 @@ image: "/poi-images/sd-rs-naqa-history-v2.webp"
       de: "Musawwarat es-Sufra",
       hu: "Muszavvarát esz-Szafra",
       ro: "Musawwarat es-Sufra",
-      en: "Musawwarat es-Sufra",
-image: "/poi-images/sd-rs-musawwarat-es-sufra-history-v2.webp"
-},
+      en: "Musawwarat es-Sufra"},
+    image: "/poi-images/sd-rs-musawwarat-es-sufra-history-v2.webp",
     description: {
       de: "Ein großer antiker Tempelkomplex mit ungewöhnlicher Architektur, der einst Pilgerzentrum war.",
       hu: "Hatalmas ókori templomkomplexum szokatlan építészettel, amely egykor zarándokközpont volt.",
@@ -122,9 +119,8 @@ image: "/poi-images/sd-rs-musawwarat-es-sufra-history-v2.webp"
       de: "Alt-Dongola",
       hu: "Ó-Dongola",
       ro: "Vechea Dongola",
-      en: "Old Dongola",
-image: "/poi-images/sd-no-old-dongola-history-v2.webp"
-},
+      en: "Old Dongola"},
+    image: "/poi-images/sd-no-old-dongola-history-v2.webp",
     description: {
       de: "Die Hauptstadt des mittelalterlichen christlichen nubischen Königreichs Makuria.",
       hu: "A középkori keresztény núbiai királyság, Makuria fővárosa.",
@@ -159,9 +155,8 @@ image: "/poi-images/sd-no-old-dongola-history-v2.webp"
       de: "Soleb-Tempel",
       hu: "Szoleb-templom",
       ro: "Templul Soleb",
-      en: "Temple of Soleb",
-image: "/poi-images/sd-no-soleb-temple-history-v2.webp"
-},
+      en: "Temple of Soleb"},
+    image: "/poi-images/sd-no-soleb-temple-history-v2.webp",
     description: {
       de: "Ein prächtiger ägyptischer Tempel, der von Amenhotep III. im heutigen Sudan erbaut wurde.",
       hu: "Egy pompás egyiptomi templom, amelyet III. Amenhotep építtetett a mai Szudán területén.",
@@ -196,9 +191,8 @@ image: "/poi-images/sd-no-soleb-temple-history-v2.webp"
       de: "Kerma",
       hu: "Kerma",
       ro: "Kerma",
-      en: "Kerma",
-image: "/poi-images/sd-no-kerma-history-v2.webp"
-},
+      en: "Kerma"},
+    image: "/poi-images/sd-no-kerma-history-v2.webp",
     description: {
       de: "Eines der ältesten und größten archäologischen Zentren in Nubien, bekannt für die Deffufa-Bauwerke.",
       hu: "Núbia egyik legrégebbi és legnagyobb régészeti központja, amely a Defufa építményekről ismert.",
@@ -233,9 +227,8 @@ image: "/poi-images/sd-no-kerma-history-v2.webp"
       de: "Sesibi",
       hu: "Szesibi",
       ro: "Sesibi",
-      en: "Sesibi",
-image: "/poi-images/sd-no-sesibi-history-v2.webp"
-},
+      en: "Sesibi"},
+    image: "/poi-images/sd-no-sesibi-history-v2.webp",
     description: {
       de: "Eine antike ägyptische Siedlung und Tempelanlage am Westufer des Nils, gegründet von Echnaton.",
       hu: "Ókori egyiptomi település és templomegyüttes a Nílus nyugati partján, amelyet Ehnaton alapított.",
@@ -270,9 +263,8 @@ image: "/poi-images/sd-no-sesibi-history-v2.webp"
       de: "Sai-Insel Ruinen",
       hu: "Sai-sziget romjai",
       ro: "Ruinele Insulei Sai",
-      en: "Sai Island Ruins",
-image: "/poi-images/sd-no-sai-island-ruins-history-v2.webp"
-},
+      en: "Sai Island Ruins"},
+    image: "/poi-images/sd-no-sai-island-ruins-history-v2.webp",
     description: {
       de: "Die Insel beherbergt prähistorische Stätten, altägyptische Tempel und Reste einer osmanischen Festung.",
       hu: "A szigeten történelem előtti lelőhelyek, óegyiptomi templomok és egy oszmán erőd romjai találhatók.",
@@ -307,9 +299,8 @@ image: "/poi-images/sd-no-sai-island-ruins-history-v2.webp"
       de: "El-Kurru",
       hu: "El-Kurru",
       ro: "El Kurru",
-      en: "El Kurru",
-image: "/poi-images/sd-no-el-kurru-history-v2.webp"
-},
+      en: "El Kurru"},
+    image: "/poi-images/sd-no-el-kurru-history-v2.webp",
     description: {
       de: "Ein königlicher Friedhof der kuschitischen Herrscher mit Pyramiden und unterirdischen bemalten Grabkammern.",
       hu: "A kusita uralkodók királyi temetője piramisokkal és festett földalatti sírkamrákkal.",
@@ -344,9 +335,8 @@ image: "/poi-images/sd-no-el-kurru-history-v2.webp"
       de: "Nuri-Pyramiden",
       hu: "Nuri piramisai",
       ro: "Piramidele din Nuri",
-      en: "Pyramids of Nuri",
-image: "/poi-images/sd-no-nuri-pyramids-history-v2.webp"
-},
+      en: "Pyramids of Nuri"},
+    image: "/poi-images/sd-no-nuri-pyramids-history-v2.webp",
     description: {
       de: "Eine antike Nekropole mit steilen Pyramiden, in der viele nubische Könige bestattet wurden.",
       hu: "Egy ókori nekropolisz meredek piramisokkal, ahol számos núbiai királyt temettek el.",
@@ -381,9 +371,8 @@ image: "/poi-images/sd-no-nuri-pyramids-history-v2.webp"
       de: "Banganarti",
       hu: "Banganarti",
       ro: "Banganarti",
-      en: "Banganarti",
-image: "/poi-images/sd-no-banganarti-history-v2.webp"
-},
+      en: "Banganarti"},
+    image: "/poi-images/sd-no-banganarti-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Stätte mit den Überresten einer wichtigen mittelalterlichen Pilgerkirche.",
       hu: "Jelentős régészeti lelőhely egy fontos középkori zarándoktemplom romjaival.",
@@ -418,9 +407,8 @@ image: "/poi-images/sd-no-banganarti-history-v2.webp"
       de: "Tombos",
       hu: "Tombos",
       ro: "Tombos",
-      en: "Tombos",
-image: "/poi-images/sd-no-tombos-history-v2.webp"
-},
+      en: "Tombos"},
+    image: "/poi-images/sd-no-tombos-history-v2.webp",
     description: {
       de: "Ein antiker Steinbruch am Dritten Katarakt des Nils mit Inschriften und einer unvollendeten Statue.",
       hu: "Ókori kőbánya a Nílus harmadik kataraktájánál, feliratokkal és egy befejezetlen szoborral.",
@@ -455,9 +443,8 @@ image: "/poi-images/sd-no-tombos-history-v2.webp"
       de: "Westliche Deffufa",
       hu: "Nyugati Defufa",
       ro: "Deffufa de Vest",
-      en: "Western Deffufa",
-image: "/poi-images/sd-no-western-deffufa-history-v2.webp"
-},
+      en: "Western Deffufa"},
+    image: "/poi-images/sd-no-western-deffufa-history-v2.webp",
     description: {
       de: "Das massive Zentrum der antiken Stadt Kerma, bestehend aus Lehmziegeln und Tempelstrukturen.",
       hu: "A Kerma nevű ókori város masszív központja, amely vályogtéglákból és templomokból állt.",
@@ -492,9 +479,8 @@ image: "/poi-images/sd-no-western-deffufa-history-v2.webp"
       de: "Kawa",
       hu: "Kawa",
       ro: "Kawa",
-      en: "Kawa",
-image: "/poi-images/sd-no-kawa-history-v2.webp"
-},
+      en: "Kawa"},
+    image: "/poi-images/sd-no-kawa-history-v2.webp",
     description: {
       de: "Eine antike Stadt am Nil mit Tempeln, die den ägyptischen Gott Amun verehrten.",
       hu: "Ókori város a Nílus mentén templomokkal, ahol Amon egyiptomi istent tisztelték.",
@@ -529,9 +515,8 @@ image: "/poi-images/sd-no-kawa-history-v2.webp"
       de: "Faras-Ruinen",
       hu: "Farasz romjai",
       ro: "Ruinele Faras",
-      en: "Faras Ruins",
-image: "/poi-images/sd-no-faras-ruins-history-v2.webp"
-},
+      en: "Faras Ruins"},
+    image: "/poi-images/sd-no-faras-ruins-history-v2.webp",
     description: {
       de: "Die einstige Hauptstadt des Königreichs Nobatia, bekannt für christliche Fresken, die vor der Überflutung gerettet wurden.",
       hu: "Nobatia királyságának egykori fővárosa, amely az elárasztás elől megmentett keresztény freskóiról híres.",
@@ -566,9 +551,8 @@ image: "/poi-images/sd-no-faras-ruins-history-v2.webp"
       de: "Ghazali-Kloster",
       hu: "Ghazali kolostor",
       ro: "Mănăstirea Ghazali",
-      en: "Ghazali Monastery",
-image: "/poi-images/sd-no-ghazali-monastery-history-v2.webp"
-},
+      en: "Ghazali Monastery"},
+    image: "/poi-images/sd-no-ghazali-monastery-history-v2.webp",
     description: {
       de: "Ein sehr gut erhaltenes mittelalterliches christliches Kloster in der Wadi-Abu-Dom-Region.",
       hu: "Egy nagyon jól megőrzött középkori keresztény kolostor a Wadi Abu Dom régióban.",
@@ -603,9 +587,8 @@ image: "/poi-images/sd-no-ghazali-monastery-history-v2.webp"
       de: "Sedeinga",
       hu: "Szedeinga",
       ro: "Sedeinga",
-      en: "Sedeinga",
-image: "/poi-images/sd-no-sedeinga-history-v2.webp"
-},
+      en: "Sedeinga"},
+    image: "/poi-images/sd-no-sedeinga-history-v2.webp",
     description: {
       de: "Bekannt für den Tempel von Teje, der Frau von Amenhotep III., und zahlreiche kleine nubische Pyramiden.",
       hu: "Tije, III. Amenhotep feleségének templomáról és számos kis núbiai piramisról ismert.",
@@ -640,9 +623,8 @@ image: "/poi-images/sd-no-sedeinga-history-v2.webp"
       de: "Semna",
       hu: "Szemna",
       ro: "Semna",
-      en: "Semna",
-image: "/poi-images/sd-no-semna-history-v2.webp"
-},
+      en: "Semna"},
+    image: "/poi-images/sd-no-semna-history-v2.webp",
     description: {
       de: "Eine altägyptische Festungsanlage, die einst die südliche Grenze des ägyptischen Reiches schützte.",
       hu: "Óegyiptomi erődítmény, amely egykor az Egyiptomi Birodalom déli határát védte.",
@@ -677,9 +659,8 @@ image: "/poi-images/sd-no-semna-history-v2.webp"
       de: "Kumma",
       hu: "Kumma",
       ro: "Kumma",
-      en: "Kumma",
-image: "/poi-images/sd-no-kumma-history-v2.webp"
-},
+      en: "Kumma"},
+    image: "/poi-images/sd-no-kumma-history-v2.webp",
     description: {
       de: "Eine Zwillingsfestung von Semna am gegenüberliegenden Nilufer aus dem Mittleren Reich.",
       hu: "Szemna ikererődje a Nílus túlpartján, a Középbirodalom idejéből.",
@@ -714,9 +695,8 @@ image: "/poi-images/sd-no-kumma-history-v2.webp"
       de: "Uronarti",
       hu: "Uronarti",
       ro: "Uronarti",
-      en: "Uronarti",
-image: "/poi-images/sd-no-uronarti-history-v2.webp"
-},
+      en: "Uronarti"},
+    image: "/poi-images/sd-no-uronarti-history-v2.webp",
     description: {
       de: "Eine weitere altägyptische Festung auf einer Nilinsel nahe dem Zweiten Katarakt.",
       hu: "Egy újabb óegyiptomi erőd egy Nílus-szigeten a második katarakta közelében.",
@@ -751,9 +731,8 @@ image: "/poi-images/sd-no-uronarti-history-v2.webp"
       de: "Buhen",
       hu: "Buhen",
       ro: "Buhen",
-      en: "Buhen",
-image: "/poi-images/sd-no-buhen-history-v2.webp"
-},
+      en: "Buhen"},
+    image: "/poi-images/sd-no-buhen-history-v2.webp",
     description: {
       de: "Eine massive altägyptische Festungsstadt, deren Überreste heute weitgehend im Nassersee versunken sind.",
       hu: "Masszív óegyiptomi erődváros, amelynek romjai ma nagyrészt a Nasszer-tó vízszintje alatt vannak.",
@@ -788,9 +767,8 @@ image: "/poi-images/sd-no-buhen-history-v2.webp"
       de: "Mirgissa",
       hu: "Mirgissza",
       ro: "Mirgissa",
-      en: "Mirgissa",
-image: "/poi-images/sd-no-mirgissa-history-v2.webp"
-},
+      en: "Mirgissa"},
+    image: "/poi-images/sd-no-mirgissa-history-v2.webp",
     description: {
       de: "Eine altägyptische Siedlung und Festung am Zweiten Katarakt, wichtig für den Handel.",
       hu: "Óegyiptomi település és erőd a második kataraktánál, amely fontos volt a kereskedelemben.",
@@ -825,9 +803,8 @@ image: "/poi-images/sd-no-mirgissa-history-v2.webp"
       de: "Askut",
       hu: "Aszkut",
       ro: "Askut",
-      en: "Askut",
-image: "/poi-images/sd-no-askut-history-v2.webp"
-},
+      en: "Askut"},
+    image: "/poi-images/sd-no-askut-history-v2.webp",
     description: {
       de: "Eine befestigte altägyptische Insel im Nil, die Teil des Verteidigungsnetzwerks Nubiens war.",
       hu: "Megerősített óegyiptomi sziget a Nílusban, a núbiai védelmi hálózat része.",
@@ -862,9 +839,8 @@ image: "/poi-images/sd-no-askut-history-v2.webp"
       de: "Shalfak",
       hu: "Salfak",
       ro: "Shalfak",
-      en: "Shalfak",
-image: "/poi-images/sd-no-shalfak-history-v2.webp"
-},
+      en: "Shalfak"},
+    image: "/poi-images/sd-no-shalfak-history-v2.webp",
     description: {
       de: "Eine weitere Festung, die von den Pharaonen des Mittleren Reiches zur Sicherung der Grenze erbaut wurde.",
       hu: "Egy újabb erőd, amelyet a Középbirodalom fáraói építtettek a határ biztosítására.",
@@ -899,9 +875,8 @@ image: "/poi-images/sd-no-shalfak-history-v2.webp"
       de: "Amara-West",
       hu: "Amara West",
       ro: "Amara West",
-      en: "Amara West",
-image: "/poi-images/sd-no-amara-west-history-v2.webp"
-},
+      en: "Amara West"},
+    image: "/poi-images/sd-no-amara-west-history-v2.webp",
     description: {
       de: "Eine bedeutende Verwaltungsstadt des Neuen Reiches im besetzten Nubien.",
       hu: "Az Újbirodalom jelentős közigazgatási városa a megszállt Núbiában.",
@@ -936,9 +911,8 @@ image: "/poi-images/sd-no-amara-west-history-v2.webp"
       de: "Dschebel Moya",
       hu: "Dzsebel Moya",
       ro: "Jebel Moya",
-      en: "Jebel Moya",
-image: "/poi-images/sd-gz-jebel-moya-history-v2.webp"
-},
+      en: "Jebel Moya"},
+    image: "/poi-images/sd-gz-jebel-moya-history-v2.webp",
     description: {
       de: "Eine prähistorische archäologische Stätte und Gräberfeld im zentralen Sudan.",
       hu: "Történelem előtti régészeti lelőhely és temető Szudán középső részén.",
@@ -973,9 +947,8 @@ image: "/poi-images/sd-gz-jebel-moya-history-v2.webp"
       de: "Dangeil",
       hu: "Dangeil",
       ro: "Dangeil",
-      en: "Dangeil",
-image: "/poi-images/sd-rs-dangeil-history-v2.webp"
-},
+      en: "Dangeil"},
+    image: "/poi-images/sd-rs-dangeil-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte des kuschitischen Reiches mit Resten eines großen Amun-Tempels.",
       hu: "A Kusita Királyság régészeti lelőhelye egy nagy Amon-templom romjaival.",
@@ -1010,9 +983,8 @@ image: "/poi-images/sd-rs-dangeil-history-v2.webp"
       de: "Mahdi-Mausoleum",
       hu: "Mahdi-mauzóleum",
       ro: "Mausoleul lui Mahdi",
-      en: "Mahdi's Tomb",
-image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp"
-},
+      en: "Mahdi's Tomb"},
+    image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp",
     description: {
       de: "Die Grabstätte von Muhammad Ahmad, dem Führer des Mahdi-Aufstands im späten 19. Jahrhundert.",
       hu: "Muhammad Ahmad, a 19. század végi mahdista felkelés vezetőjének nyughelye.",
@@ -1047,9 +1019,8 @@ image: "/poi-images/sd-kh-mahdis-tomb-history-v2.webp"
       de: "Khalifa-Haus",
       hu: "Kalifa-ház",
       ro: "Casa Khalifa",
-      en: "Khalifa House",
-image: "/poi-images/sd-kh-khalifa-house-history-v2.webp"
-},
+      en: "Khalifa House"},
+    image: "/poi-images/sd-kh-khalifa-house-history-v2.webp",
     description: {
       de: "Die ehemalige Residenz des Nachfolgers des Mahdi, die heute als historisches Museum dient.",
       hu: "A Mahdi utódjának egykori rezidenciája, amely ma történelmi múzeumként működik.",
@@ -1084,9 +1055,8 @@ image: "/poi-images/sd-kh-khalifa-house-history-v2.webp"
       de: "Badi-Ruinen",
       hu: "Badi romjai",
       ro: "Ruinele Badi",
-      en: "Badi Ruins",
-image: "/poi-images/sd-rs-badi-ruins-history-v2.webp"
-},
+      en: "Badi Ruins"},
+    image: "/poi-images/sd-rs-badi-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen einer mittelalterlichen islamischen Hafenstadt an der Küste des Roten Meeres.",
       hu: "Egy középkori iszlám kikötőváros romjai a Vörös-tenger partján.",

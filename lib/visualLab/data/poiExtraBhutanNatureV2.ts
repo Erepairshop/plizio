@@ -6,9 +6,8 @@ export const poiExtraBhutanNatureV2: POI[] = [
     type: "national-park",
     parent: "BT-GA",
     coords: [89.5, 28.0],
-    name: { de: "Jigme-Dorji-Nationalpark", hu: "Jigme Dorji Nemzeti Park", ro: "Parcul Național Jigme Dorji", en: "Jigme Dorji National Park",
-image: "/poi-images/bt-jigme-dorji-national-park-nature-v2.webp"
-},
+    name: { de: "Jigme-Dorji-Nationalpark", hu: "Jigme Dorji Nemzeti Park", ro: "Parcul Național Jigme Dorji", en: "Jigme Dorji National Park"},
+    image: "/poi-images/bt-jigme-dorji-national-park-nature-v2.webp",
     description: {
       de: "Bhutan zweitgrößter Nationalpark erstreckt sich über den gesamten Nordwesten des Landes und beheimatet Schneeleoparden und den Himalaya-Schwarzbären.",
       hu: "Bhután második legnagyobb nemzeti parkja az ország északnyugati részét öleli fel, hópárducok és himalájai feketemedvék menedéke.",
@@ -36,9 +35,8 @@ image: "/poi-images/bt-jigme-dorji-national-park-nature-v2.webp"
     type: "national-park",
     parent: "BT-32",
     coords: [90.3, 27.2],
-    name: { de: "Jigme-Singye-Wangchuck-Nationalpark", hu: "Jigme Singye Wangchuck Nemzeti Park", ro: "Parcul Național Jigme Singye Wangchuck", en: "Jigme Singye Wangchuck National Park",
-image: "/poi-images/bt-jigme-singye-wangchuck-national-park-nature-v2.webp"
-},
+    name: { de: "Jigme-Singye-Wangchuck-Nationalpark", hu: "Jigme Singye Wangchuck Nemzeti Park", ro: "Parcul Național Jigme Singye Wangchuck", en: "Jigme Singye Wangchuck National Park"},
+    image: "/poi-images/bt-jigme-singye-wangchuck-national-park-nature-v2.webp",
     description: {
       de: "Ein zentral gelegener Nationalpark in Bhutan, der ausgedehnte Nadelwälder und weite alpine Weiden umfasst.",
       hu: "Központi fekvésű nemzeti park Bhutánban, amely kiterjedt tűlevelű erdőket és hatalmas alpesi legelőket foglal magába.",
@@ -66,9 +64,8 @@ image: "/poi-images/bt-jigme-singye-wangchuck-national-park-nature-v2.webp"
     type: "national-park",
     parent: "BT-31",
     coords: [90.8, 26.85],
-    name: { de: "Royal-Manas-Nationalpark", hu: "Királyi Manas Nemzeti Park", ro: "Parcul Național Regal Manas", en: "Royal Manas National Park",
-image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp"
-},
+    name: { de: "Royal-Manas-Nationalpark", hu: "Királyi Manas Nemzeti Park", ro: "Parcul Național Regal Manas", en: "Royal Manas National Park"},
+    image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp",
     description: {
       de: "Der älteste Nationalpark Bhutans liegt in den tropischen und subtropischen Ebenen des Südens und ist ein Hotspot der Artenvielfalt.",
       hu: "Bhután legrégebbi nemzeti parkja a déli trópusi és szubtrópusi síkságokon fekszik, és a biodiverzitás egyik központja.",
@@ -96,9 +93,8 @@ image: "/poi-images/bt-royal-manas-national-park-nature-v2.webp"
     type: "national-park",
     parent: "BT-33",
     coords: [90.95, 27.25],
-    name: { de: "Phrumsengla-Nationalpark", hu: "Phrumsengla Nemzeti Park", ro: "Parcul Național Phrumsengla", en: "Phrumsengla National Park",
-image: "/poi-images/bt-phrumsengla-national-park-nature-v2.webp"
-},
+    name: { de: "Phrumsengla-Nationalpark", hu: "Phrumsengla Nemzeti Park", ro: "Parcul Național Phrumsengla", en: "Phrumsengla National Park"},
+    image: "/poi-images/bt-phrumsengla-national-park-nature-v2.webp",
     description: {
       de: "Dieser Park schützt dichte Rhododendronwälder im Zentrum Bhutans und bietet atemberaubende Ausblicke auf das unberührte Himalaya-Vorland.",
       hu: "Ez a park sűrű rododendronerdőket véd Bhután központjában, és lélegzetelállító kilátást nyújt az érintetlen himalájai lábhegyekre.",
@@ -126,9 +122,8 @@ image: "/poi-images/bt-phrumsengla-national-park-nature-v2.webp"
     type: "national-park",
     parent: "BT-33",
     coords: [90.75, 27.8],
-    name: { de: "Wangchuck-Centennial-Nationalpark", hu: "Wangchuck Centenáriumi Nemzeti Park", ro: "Parcul Național Centenar Wangchuck", en: "Wangchuck Centennial National Park",
-image: "/poi-images/bt-wangchuck-centennial-national-park-nature-v2.webp"
-},
+    name: { de: "Wangchuck-Centennial-Nationalpark", hu: "Wangchuck Centenáriumi Nemzeti Park", ro: "Parcul Național Centenar Wangchuck", en: "Wangchuck Centennial National Park"},
+    image: "/poi-images/bt-wangchuck-centennial-national-park-nature-v2.webp",
     description: {
       de: "Der größte Nationalpark Bhutans wurde zur Feier von hundert Jahren Monarchie gegründet und umfasst riesige Gebiete alpiner Ökosysteme.",
       hu: "Bhután legnagyobb nemzeti parkját a monarchia századik évfordulója alkalmából alapították, és hatalmas alpesi ökoszisztémákat ölel fel.",
@@ -156,9 +151,8 @@ image: "/poi-images/bt-wangchuck-centennial-national-park-nature-v2.webp"
     type: "national-park",
     parent: "BT-TY",
     coords: [91.45, 27.8],
-    name: { de: "Bumdeling-Wildschutzgebiet", hu: "Bumdeling Vadvédelmi Terület", ro: "Rezervația Naturală Bumdeling", en: "Bumdeling Wildlife Sanctuary",
-image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp"
-},
+    name: { de: "Bumdeling-Wildschutzgebiet", hu: "Bumdeling Vadvédelmi Terület", ro: "Rezervația Naturală Bumdeling", en: "Bumdeling Wildlife Sanctuary"},
+    image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp",
     description: {
       de: "Ein friedliches Schutzgebiet im Nordosten, bekannt als wichtiges Überwinterungsgebiet für die seltenen Schwarzhalskraniche.",
       hu: "Egy békés védett terület északkeleten, amely a ritka feketenyakú darvak fontos telelőhelyeként ismert.",
@@ -186,9 +180,8 @@ image: "/poi-images/bt-bumdeling-wildlife-sanctuary-nature-v2.webp"
     type: "national-park",
     parent: "BT-41",
     coords: [91.8, 27.35],
-    name: { de: "Sakteng-Wildschutzgebiet", hu: "Sakteng Vadvédelmi Terület", ro: "Rezervația Naturală Sakteng", en: "Sakteng Wildlife Sanctuary",
-image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp"
-},
+    name: { de: "Sakteng-Wildschutzgebiet", hu: "Sakteng Vadvédelmi Terület", ro: "Rezervația Naturală Sakteng", en: "Sakteng Wildlife Sanctuary"},
+    image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp",
     description: {
       de: "Ein entlegenes Schutzgebiet im Osten Bhutans, das angeblich geschaffen wurde, um den mythischen Yeti (Migoi) zu schützen.",
       hu: "Egy eldugott védett terület Kelet-Bhutánban, amelyet állítólag a mitikus jeti (Migoi) védelmére hoztak létre.",
@@ -216,9 +209,8 @@ image: "/poi-images/bt-sakteng-wildlife-sanctuary-nature-v2.webp"
     type: "mountain",
     parent: "BT-GA",
     coords: [90.395, 28.046],
-    name: { de: "Gangkhar Puensum", hu: "Gangkhar Puensum", ro: "Gangkhar Puensum", en: "Gangkhar Puensum",
-image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp"
-},
+    name: { de: "Gangkhar Puensum", hu: "Gangkhar Puensum", ro: "Gangkhar Puensum", en: "Gangkhar Puensum"},
+    image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp",
     description: {
       de: "Der höchste Berg Bhutans gilt weltweit als der höchste unbestiegene Gipfel, da das Land Bergsteigen auf heiligen Gipfeln verboten hat.",
       hu: "Bhután legmagasabb hegye világszerte a legmagasabb megmászatlan csúcsként ismert, mivel az ország betiltotta a szent hegyek megmászását.",
@@ -246,9 +238,8 @@ image: "/poi-images/bt-gangkhar-puensum-nature-v2.webp"
     type: "mountain",
     parent: "BT-11",
     coords: [89.263, 27.828],
-    name: { de: "Jomolhari", hu: "Jomolhari", ro: "Jomolhari", en: "Jomolhari",
-image: "/poi-images/bt-jomolhari-nature-v2.webp"
-},
+    name: { de: "Jomolhari", hu: "Jomolhari", ro: "Jomolhari", en: "Jomolhari"},
+    image: "/poi-images/bt-jomolhari-nature-v2.webp",
     description: {
       de: "Dieser majestätische Berg wird als 'Braut des Kangchendzönga' bezeichnet und ist ein heiliger Ort für die bhutanischen Buddhisten.",
       hu: "Ezt a fenséges hegyet a 'Kancsendzönga menyasszonyának' is nevezik, és a bhutáni buddhisták szent helyeként tisztelik.",
@@ -277,9 +268,8 @@ image: "/poi-images/bt-jomolhari-nature-v2.webp"
     type: "mountain",
     parent: "BT-11",
     coords: [89.3, 27.85],
-    name: { de: "Jitchu Drake", hu: "Jitchu Drake", ro: "Jitchu Drake", en: "Jitchu Drake",
-image: "/poi-images/bt-jitchu-drake-nature-v2.webp"
-},
+    name: { de: "Jitchu Drake", hu: "Jitchu Drake", ro: "Jitchu Drake", en: "Jitchu Drake"},
+    image: "/poi-images/bt-jitchu-drake-nature-v2.webp",
     description: {
       de: "Ein markanter, schroffer Gipfel unweit des Jomolhari, der durch seine steilen Flanken und eisigen Hänge beeindruckt.",
       hu: "Egy jellegzetes, zord csúcs a Jomolhari közelében, amely meredek oldalaival és jeges lejtőivel lenyűgöző látványt nyújt.",
@@ -307,9 +297,8 @@ image: "/poi-images/bt-jitchu-drake-nature-v2.webp"
     type: "mountain",
     parent: "BT-GA",
     coords: [90.616, 28.225],
-    name: { de: "Kula Kangri", hu: "Kula Kangri", ro: "Kula Kangri", en: "Kula Kangri",
-image: "/poi-images/bt-kula-kangri-nature-v2.webp"
-},
+    name: { de: "Kula Kangri", hu: "Kula Kangri", ro: "Kula Kangri", en: "Kula Kangri"},
+    image: "/poi-images/bt-kula-kangri-nature-v2.webp",
     description: {
       de: "Ein mächtiges Bergmassiv im hohen Norden, dessen genaue Grenzzugehörigkeit historisch zwischen Bhutan und China debattiert wurde.",
       hu: "Egy hatalmas hegymasszívum a messzi északon, amelynek pontos hovatartozása történelmileg vita tárgya volt Bhután és Kína között.",
@@ -321,15 +310,27 @@ image: "/poi-images/bt-kula-kangri-nature-v2.webp"
       hu: ["Magassága 7528 méter.", "Teljesen gleccserek borítják.", "1986-ban mászta meg először."],
       ro: ["Vârf himalayan", "Altitudine ridicată", "Situat la graniță", "Peisaj alpin"],
       en: ["The 'Father River' carries glacial water from the north and is known for its stormy and cold currents."]
-    }, image: "/poi-images/bt-kula-kangri-nature-v2.webp"},
+    }, image: "/poi-images/bt-kula-kangri-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kula Kangri ist einer der höchsten Berge des Himalaya und liegt an der umstrittenen Grenze zwischen Bhutan und Tibet. Mit einer Höhe von über 7.500 Metern dominiert er die umliegende Gebirgslandschaft durch seine massiven Gletscher und steilen Eiswände. Geologisch gehört er zum kristallinen Kern des Himalaya-Hauptkamms. In der bhutanischen Kultur gilt der Berg als heilig und als Wohnsitz mächtiger Schutzgottheiten. Aufgrund der strengen Umweltschutzbestimmungen Bhutans und der religiösen Verehrung ist das Bergsteigen auf dem Kula Kangri von bhutanischer Seite aus untersagt, was zur Erhaltung seiner unberührten Wildnis und spirituellen Integrität beigetragen hat.",
+      hu: "A Kula Kangri a Himalája egyik legimpozánsabb csúcsa, amely Bhután és Tibet határán magasodik. A 7538 méteres hegyóriás a régió egyik legmagasabb pontja, és hatalmas gleccserek táplálják a környező folyórendszereket. A hegycsúcsot örök hó és jég borítja, klímája pedig rendkívül zord, ami megnehezíti a tudományos kutatást is. A helyi buddhista hagyományban a hegyet szentként tisztelik, és úgy tartják, hogy spirituális energiák forrása. Mivel Bhutánban a 6000 méter feletti csúcsok megmászása vallási okokból tilos, a Kula Kangri megőrizte misztikus és érintetlen jellegét, távol maradva a tömegturizmustól.",
+      ro: "Kula Kangri este un masiv muntos impunător situat în Himalaya Centrală, la granița dintre Bhutan și Regiunea Autonomă Tibet. Atingând o altitudine de 7.538 de metri, acesta a fost mult timp considerat cel mai înalt vârf din Bhutan, deși măsurătorile moderne și disputele de frontieră au nuanțat această afirmație. Muntele este înconjurat de văi glaciare adânci și este sursa unor râuri importante care curg spre sud. Din punct de vedere ecologic, zona găzduiește specii rare adaptate la condiții extreme. Importanța sa culturală este vastă, fiind considerat un munte sacru în tradiția budistă, ceea ce a dus la restricționarea accesului pentru alpiniști pe versantul bhutanez.",
+      en: "Kula Kangri is a formidable peak in the Himalayas, standing at approximately 7,538 meters above sea level. Located on the northern border of Bhutan, it is part of a massive mountain range that includes several other high summits. The mountain is characterized by its extensive glacial systems and severe weather conditions, which have shaped its rugged topography over millennia. Historically, Kula Kangri has been at the center of geographical debates regarding the exact border between Bhutan and China. In Bhutanese belief, the mountain is the abode of local deities, and as such, it remains off-limits to mountaineers, preserving its status as a pristine and sacred natural monument.",
+    },
+    factsAdvanced: {
+      de: ["Die offizielle Höhe des Kula Kangri wird meist mit 7.538 Metern angegeben.", "Die Erstbesteigung gelang einem japanischen Team im Jahr 1986.", "Der Berg liegt in der Grenzregion zwischen dem bhutanischen Distrikt Gasa und Tibet.", "Kula Kangri besteht hauptsächlich aus Gneis und Granitgestein.", "Mehrere große Gletscher fließen von seinen Flanken in das Kuru-Chhu-Tal.", "In Bhutan ist das Besteigen von Bergen über 6.000 Metern seit 1994 verboten."],
+      hu: ["A hegy csúcsa 7538 méterrel van a tengerszint felett.", "A Kula Kangri masszívum összesen hat különálló csúccsal rendelkezik.", "A hegy északi oldala Tibetbe, déli oldala Bhutánba nyúlik.", "A terület geológiailag a Himalája kristályos övezetéhez tartozik.", "A hegy környékén gyakoriak a lavinák a meredek jégfalak miatt.", "A Kula Kangri név jelentése a helyi nyelven nem teljesen tisztázott, de spirituális eredetű."],
+      ro: ["Vârful a fost escaladat pentru prima dată pe 21 aprilie 1986.", "Kula Kangri este situat la coordonatele 28°14′N 90°37′E.", "Muntele face parte din grupul muntos al Himalayei Mari.", "Există dispute cartografice care plasează vârful integral în China.", "Temperatura medie pe vârf în timpul iernii coboară sub -40 grade Celsius.", "Zăpada de pe Kula Kangri alimentează bazinul hidrografic al râului Brahmaputra."],
+      en: ["Kula Kangri is ranked as the 46th highest mountain in the world.", "The mountain features a prominent 1,654-meter topographic prominence.", "It was first surveyed by European explorers in the late 19th century.", "The range around Kula Kangri contains some of the largest glaciers in the eastern Himalayas.", "Climbing is permitted from the Tibetan side but restricted from the Bhutanese side.", "The mountain acts as a massive orographic barrier for monsoon winds."],
+    },
+  },
   {
     id: "bt-manas-river-nature-v2",
     type: "river",
     parent: "BT-31",
     coords: [90.933, 26.78],
-    name: { de: "Manas (Fluss)", hu: "Manas folyó", ro: "Râul Manas", en: "Manas River",
-image: "/poi-images/bt-manas-river-nature-v2.webp"
-},
+    name: { de: "Manas (Fluss)", hu: "Manas folyó", ro: "Râul Manas", en: "Manas River"},
+    image: "/poi-images/bt-manas-river-nature-v2.webp",
     description: {
       de: "Ein mächtiger grenzüberschreitender Fluss, der die subtropischen Regionen bewässert, bevor er in den indischen Brahmaputra mündet.",
       hu: "Hatalmas, határokon átnyúló folyó, amely a szubtrópusi régiókat öntözi, mielőtt az indiai Brahmaputra folyóba ömlene.",
@@ -357,9 +358,8 @@ image: "/poi-images/bt-manas-river-nature-v2.webp"
     type: "river",
     parent: "BT-24",
     coords: [89.9, 27.5],
-    name: { de: "Puna Tsang Chhu", hu: "Puna Tsang Chhu", ro: "Puna Tsang Chhu", en: "Puna Tsang Chhu",
-image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp"
-},
+    name: { de: "Puna Tsang Chhu", hu: "Puna Tsang Chhu", ro: "Puna Tsang Chhu", en: "Puna Tsang Chhu"},
+    image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp",
     description: {
       de: "Dieser breite Fluss entsteht aus dem Zusammenfluss von Mo Chhu und Pho Chhu und treibt wichtige Wasserkraftwerke im Land an.",
       hu: "Ez a széles folyó a Mo Chhu és a Pho Chhu összefolyásából születik, és az ország fontos vízerőműveit hajtja meg.",
@@ -387,9 +387,8 @@ image: "/poi-images/bt-puna-tsang-chhu-nature-v2.webp"
     type: "river",
     parent: "BT-15",
     coords: [89.633, 27.466],
-    name: { de: "Wang Chhu", hu: "Wang Chhu", ro: "Wang Chhu", en: "Wang Chhu",
-image: "/poi-images/bt-wang-chhu-nature-v2.webp"
-},
+    name: { de: "Wang Chhu", hu: "Wang Chhu", ro: "Wang Chhu", en: "Wang Chhu"},
+    image: "/poi-images/bt-wang-chhu-nature-v2.webp",
     description: {
       de: "Der Hauptfluss des Thimphu-Tals verläuft durch die Hauptstadt Bhutans und formt eine malerische Schlucht im Westen des Landes.",
       hu: "A Thimphu-völgy fő folyója átszeli Bhután fővárosát, és festői szurdokot formál az ország nyugati részén.",
@@ -417,9 +416,8 @@ image: "/poi-images/bt-wang-chhu-nature-v2.webp"
     type: "river",
     parent: "BT-32",
     coords: [90.5, 27.5],
-    name: { de: "Mangde Chhu", hu: "Mangde Chhu", ro: "Mangde Chhu", en: "Mangde Chhu",
-image: "/poi-images/bt-mangde-chhu-nature-v2.webp"
-},
+    name: { de: "Mangde Chhu", hu: "Mangde Chhu", ro: "Mangde Chhu", en: "Mangde Chhu"},
+    image: "/poi-images/bt-mangde-chhu-nature-v2.webp",
     description: {
       de: "Ein starker Fluss, der sich durch das steile Terrain Zentralbhutans schneidet und tiefe Täler um die Region Trongsa bildet.",
       hu: "Egy sebes vizű folyó, amely Közép-Bhután meredek terepén vág keresztül, és mély völgyeket váj Trongsa régió körül.",
@@ -447,9 +445,8 @@ image: "/poi-images/bt-mangde-chhu-nature-v2.webp"
     type: "lake",
     parent: "BT-GA",
     coords: [90.23, 28.06],
-    name: { de: "Thorthormi Tsho", hu: "Thorthormi Tsho", ro: "Thorthormi Tsho", en: "Thorthormi Tsho",
-image: "/poi-images/bt-thorthormi-tsho-nature-v2.webp"
-},
+    name: { de: "Thorthormi Tsho", hu: "Thorthormi Tsho", ro: "Thorthormi Tsho", en: "Thorthormi Tsho"},
+    image: "/poi-images/bt-thorthormi-tsho-nature-v2.webp",
     description: {
       de: "Ein sich rasch vergrößernder Gletschersee im Hochhimalaya, der aufgrund des Klimawandels genaustens wissenschaftlich überwacht wird.",
       hu: "Egy gyorsan növekvő gleccsertó a Magas-Himalájában, amelyet az éghajlatváltozás miatt szigorú tudományos megfigyelés alatt tartanak.",
@@ -477,9 +474,8 @@ image: "/poi-images/bt-thorthormi-tsho-nature-v2.webp"
     type: "lake",
     parent: "BT-GA",
     coords: [90.25, 28.05],
-    name: { de: "Lugge Tsho", hu: "Lugge Tsho", ro: "Lugge Tsho", en: "Lugge Tsho",
-image: "/poi-images/bt-lugge-tsho-nature-v2.webp"
-},
+    name: { de: "Lugge Tsho", hu: "Lugge Tsho", ro: "Lugge Tsho", en: "Lugge Tsho"},
+    image: "/poi-images/bt-lugge-tsho-nature-v2.webp",
     description: {
       de: "Ein gefährlicher Gletschersee in der Lunana-Region, der bereits in der Vergangenheit katastrophale Sturzfluten durch Moränenbrüche verursachte.",
       hu: "Egy veszélyes gleccsertó a Lunana régióban, amely a múltban már okozott katasztrofális villámárvizeket a morénák átszakadása miatt.",
@@ -507,9 +503,8 @@ image: "/poi-images/bt-lugge-tsho-nature-v2.webp"
     type: "national-park",
     parent: "BT-13",
     coords: [89.15, 27.3],
-    name: { de: "Jigme-Khesar-Naturreservat", hu: "Jigme Khesar Szigorú Természetvédelmi Terület", ro: "Rezervația Naturală Strictă Jigme Khesar", en: "Jigme Khesar Strict Nature Reserve",
-image: "/poi-images/bt-jigme-khesar-strict-nature-reserve-nature-v2.webp"
-},
+    name: { de: "Jigme-Khesar-Naturreservat", hu: "Jigme Khesar Szigorú Természetvédelmi Terület", ro: "Rezervația Naturală Strictă Jigme Khesar", en: "Jigme Khesar Strict Nature Reserve"},
+    image: "/poi-images/bt-jigme-khesar-strict-nature-reserve-nature-v2.webp",
     description: {
       de: "Das einzige reine Naturreservat Bhutans, das frei von menschlicher Besiedlung ist und einzigartige alpine Flora und Fauna ohne Störung schützt.",
       hu: "Bhután egyetlen szigorúan védett természetvédelmi területe, amely emberi településektől mentes, és zavartalanul óvja az egyedülálló alpesi növény- és állatvilágot.",

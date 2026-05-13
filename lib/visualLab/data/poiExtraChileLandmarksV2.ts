@@ -11,9 +11,8 @@ export const poiExtraChileLandmarksV2: POI[] = [
       de: "Torres del Paine",
       hu: "Torres del Paine",
       ro: "Torres del Paine",
-      en: "Torres del Paine",
-image: "/poi-images/torres-del-paine-landmarks-v2.webp"
-},
+      en: "Torres del Paine"},
+    image: "/poi-images/torres-del-paine-landmarks-v2.webp",
     descriptionAdvanced: {
       ro: "Parcul Național Torres del Paine este una dintre cele mai spectaculoase rezervații naturale din lume, situată în Patagonia chiliană. Este faimos pentru turnurile sale de granit, ghețarii masivi și lacurile de un albastru intens care atrag mii de drumeți anual. Parcul oferă un ecosistem variat, de la pajiști patagonice la păduri subantarctice, fiind un refugiu pentru fauna locală, inclusiv guanacos și condori. Torres del Paine reprezintă un simbol al biodiversității chiliene și este esențial pentru înțelegerea fragilității ecosistemelor montane într-o lume în schimbare. Geografie K8 — ecosisteme montane și ghețari."
     },
@@ -43,9 +42,8 @@ image: "/poi-images/torres-del-paine-landmarks-v2.webp"
       de: "La Portada",
       hu: "La Portada",
       ro: "La Portada",
-      en: "La Portada",
-image: "/poi-images/la-portada-landmarks-v2.webp"
-},
+      en: "La Portada"},
+    image: "/poi-images/la-portada-landmarks-v2.webp",
     descriptionAdvanced: {
       ro: "La Portada este un monument natural emblematic situat pe coasta Oceanului Pacific, la nord de Antofagasta, recunoscut pentru arcul său spectaculos de piatră sculptat de eroziunea marină. Această formațiune geologică unică atrage vizitatori datorită peisajului contrastant dintre deșertul arid și albastrul intens al oceanului. Zona este, de asemenea, un habitat important pentru fauna marină, inclusiv păsări guano și lei de mare care populează stâncile. La Portada este un exemplu fascinant de procese geologice active care modelează coasta chiliană de milenii. Geografie K7 — eroziune și forme de relief."
     },
@@ -75,9 +73,8 @@ image: "/poi-images/la-portada-landmarks-v2.webp"
       de: "Valle de la Luna",
       hu: "Valle de la Luna",
       ro: "Valle de la Luna",
-      en: "Valle de la Luna",
-image: "/poi-images/valle-de-la-luna-landmarks-v2.webp"
-},
+      en: "Valle de la Luna"},
+    image: "/poi-images/valle-de-la-luna-landmarks-v2.webp",
     description: {
       de: "Eine mondähnliche Wüstenlandschaft mit bizarren Fels- und Sandformationen nahe San Pedro de Atacama.",
       hu: "Holdbéli sivatagi táj bizarr szikla- és homokformációkkal San Pedro de Atacama közelében.",
@@ -111,9 +108,8 @@ image: "/poi-images/valle-de-la-luna-landmarks-v2.webp"
       de: "Geysire von El Tatio",
       hu: "El Tatio gejzírek",
       ro: "Gheizerele El Tatio",
-      en: "El Tatio Geysers",
-image: "/poi-images/gayser-del-tatio-landmarks-v2.webp"
-},
+      en: "El Tatio Geysers"},
+    image: "/poi-images/gayser-del-tatio-landmarks-v2.webp",
     description: {
       de: "Das dritthöchste Geysirfeld der Welt, gelegen in den Anden in über 4.000 Metern Höhe.",
       hu: "A világ harmadik legmagasabban fekvő gejzír-mezője az Andokban, több mint 4000 méteres magasságban.",
@@ -147,9 +143,8 @@ image: "/poi-images/gayser-del-tatio-landmarks-v2.webp"
       de: "Cerro San Cristóbal",
       hu: "Cerro San Cristóbal",
       ro: "Cerro San Cristóbal",
-      en: "Cerro San Cristóbal",
-image: "/poi-images/cerro-san-cristobal-landmarks-v2.webp"
-},
+      en: "Cerro San Cristóbal"},
+    image: "/poi-images/cerro-san-cristobal-landmarks-v2.webp",
     description: {
       de: "Ein markanter Hügel in Santiago mit einer Statue der Jungfrau Maria und einem Panoramablick über die Stadt.",
       hu: "Kiemelkedő domb Santiagóban, Szűz Mária-szoborral és panorámás kilátással a városra.",
@@ -183,9 +178,8 @@ image: "/poi-images/cerro-san-cristobal-landmarks-v2.webp"
       de: "Insel Chiloé",
       hu: "Chiloé-sziget",
       ro: "Insula Chiloé",
-      en: "Chiloé Island",
-image: "/poi-images/isla-chiloe-landmarks-v2.webp"
-},
+      en: "Chiloé Island"},
+    image: "/poi-images/isla-chiloe-landmarks-v2.webp",
     description: {
       de: "Eine kulturell einzigartige Insel, bekannt für ihre Holzkirchen und bunten Pfahlbauten.",
       hu: "Kulturálisan egyedülálló sziget, amely híres fatemplomairól és színes cölöpházairól.",
@@ -219,9 +213,8 @@ image: "/poi-images/isla-chiloe-landmarks-v2.webp"
       de: "Nationalpark Lauca",
       hu: "Lauca Nemzeti Park",
       ro: "Parcul Național Lauca",
-      en: "Lauca National Park",
-image: "/poi-images/parque-nacional-lauca-landmarks-v2.webp"
-},
+      en: "Lauca National Park"},
+    image: "/poi-images/parque-nacional-lauca-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckender Nationalpark in den Hochanden mit dem Chungará-See und vulkanischen Gipfeln.",
       hu: "Lélegzetelállító nemzeti park a magas Andokban, a Chungará-tóval és vulkáni csúcsokkal.",
@@ -255,9 +248,8 @@ image: "/poi-images/parque-nacional-lauca-landmarks-v2.webp"
       de: "Valparaíso",
       hu: "Valparaíso",
       ro: "Valparaíso",
-      en: "Valparaíso",
-image: "/poi-images/valparaiso-landmarks-v2.webp"
-},
+      en: "Valparaíso"},
+    image: "/poi-images/valparaiso-landmarks-v2.webp",
     description: {
       de: "Eine farbenfrohe Hafenstadt, berühmt für ihre steilen Hügel, historischen Standseilbahnen und lebendige Straßenkunst.",
       hu: "Színpompás kikötőváros, amely híres meredek dombjairól, történelmi siklóiról és élénk utcai művészetéről.",
@@ -291,9 +283,8 @@ image: "/poi-images/valparaiso-landmarks-v2.webp"
       de: "Nationalpark Conguillío",
       hu: "Conguillío Nemzeti Park",
       ro: "Parcul Național Conguillío",
-      en: "Conguillío National Park",
-image: "/poi-images/parque-nacional-conguillio-landmarks-v2.webp"
-},
+      en: "Conguillío National Park"},
+    image: "/poi-images/parque-nacional-conguillio-landmarks-v2.webp",
     description: {
       de: "Ein spektakulärer Nationalpark, bekannt als 'Regenschirm-Park' wegen seiner riesigen Araukarienwälder und des Vulkans Llaima.",
       hu: "Lélegzetelállító nemzeti park, amelyet 'Esernyő-parknak' is neveznek hatalmas araukária-erdői és a Llaima vulkán miatt.",
@@ -327,9 +318,8 @@ image: "/poi-images/parque-nacional-conguillio-landmarks-v2.webp"
       de: "Laguna San Rafael",
       hu: "San Rafael Lagúna",
       ro: "Laguna San Rafael",
-      en: "Laguna San Rafael",
-image: "/poi-images/laguna-san-rafael-landmarks-v2.webp"
-},
+      en: "Laguna San Rafael"},
+    image: "/poi-images/laguna-san-rafael-landmarks-v2.webp",
     description: {
       de: "Ein spektakulärer Nationalpark, der für seinen kalbenden Gletscher in die Lagune berühmt ist.",
       hu: "Lélegzetelállító nemzeti park, amely híres a lagúnába borjadzó gleccsereiről.",
@@ -363,9 +353,8 @@ image: "/poi-images/laguna-san-rafael-landmarks-v2.webp"
       de: "Parque Bicentenario",
       hu: "Parque Bicentenario",
       ro: "Parque Bicentenario",
-      en: "Parque Bicentenario",
-image: "/poi-images/parque-bicentenario-landmarks-v2.webp"
-},
+      en: "Parque Bicentenario"},
+    image: "/poi-images/parque-bicentenario-landmarks-v2.webp",
     description: {
       de: "Ein moderner, weitläufiger Stadtpark in Vitacura, Santiago, mit künstlichen Seen und einer modernen Architektur.",
       hu: "Modern, kiterjedt városi park Vitacurában, Santiagóban, mesterséges tavakkal és modern építészettel.",

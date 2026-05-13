@@ -6,9 +6,8 @@ export const poiExtraBruneiReliefV2: POI[] = [
     type: "mountain",
     parent: "BN-TE",
     coords: [115.3134, 4.2982],
-    name: { de: "Bukit Pagon", hu: "Bukit Pagon", ro: "Bukit Pagon", en: "Bukit Pagon",
-image: "/poi-images/bukit-pagon-relief-v2.webp"
-},
+    name: { de: "Bukit Pagon", hu: "Bukit Pagon", ro: "Bukit Pagon", en: "Bukit Pagon"},
+    image: "/poi-images/bukit-pagon-relief-v2.webp",
     description: {
       de: "Der höchste Berg Bruneis an der Grenze zu Malaysia.",
       hu: "Brunei legmagasabb hegye, a malajziai határon fekszik.",
@@ -33,9 +32,8 @@ image: "/poi-images/bukit-pagon-relief-v2.webp"
     type: "mountain",
     parent: "BN-TE",
     coords: [115.316, 4.35],
-    name: { de: "Bukit Retak", hu: "Bukit Retak", ro: "Bukit Retak", en: "Bukit Retak",
-image: "/poi-images/bukit-retak-relief-v2.webp"
-},
+    name: { de: "Bukit Retak", hu: "Bukit Retak", ro: "Bukit Retak", en: "Bukit Retak"},
+    image: "/poi-images/bukit-retak-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im Temburong-Distrikt, bekannt für seine unberührte Natur.",
       hu: "Jelentős hegycsúcs a Temburong körzetben, érintetlen természetéről híres.",
@@ -60,9 +58,8 @@ image: "/poi-images/bukit-retak-relief-v2.webp"
     type: "mountain",
     parent: "BN-TE",
     coords: [115.15, 4.478],
-    name: { de: "Bukit Belalong", hu: "Bukit Belalong", ro: "Bukit Belalong", en: "Bukit Belalong",
-image: "/poi-images/bukit-belalong-relief-v2.webp"
-},
+    name: { de: "Bukit Belalong", hu: "Bukit Belalong", ro: "Bukit Belalong", en: "Bukit Belalong"},
+    image: "/poi-images/bukit-belalong-relief-v2.webp",
     description: {
       de: "Ein Berg im Dschungel von Temburong, der oft von Forschern und Wanderern besucht wird.",
       hu: "Hegy a temburongi dzsungelben, melyet gyakran látogatnak kutatók és túrázók.",
@@ -87,9 +84,8 @@ image: "/poi-images/bukit-belalong-relief-v2.webp"
     type: "mountain",
     parent: "BN-BE",
     coords: [114.288, 4.2917],
-    name: { de: "Bukit Teraja", hu: "Bukit Teraja", ro: "Bukit Teraja", en: "Bukit Teraja",
-image: "/poi-images/bukit-teraja-relief-v2.webp"
-},
+    name: { de: "Bukit Teraja", hu: "Bukit Teraja", ro: "Bukit Teraja", en: "Bukit Teraja"},
+    image: "/poi-images/bukit-teraja-relief-v2.webp",
     description: {
       de: "Einer der höchsten Punkte im Belait-Distrikt mit Blick auf die dichten Regenwälder.",
       hu: "A Belait körzet egyik legmagasabb pontja, kilátással a sűrű esőerdőkre.",
@@ -114,9 +110,8 @@ image: "/poi-images/bukit-teraja-relief-v2.webp"
     type: "mountain",
     parent: "BN-TE",
     coords: [115.26, 4.25],
-    name: { de: "Bukit Tudal", hu: "Bukit Tudal", ro: "Bukit Tudal", en: "Bukit Tudal",
-image: "/poi-images/bukit-tudal-relief-v2.webp"
-},
+    name: { de: "Bukit Tudal", hu: "Bukit Tudal", ro: "Bukit Tudal", en: "Bukit Tudal"},
+    image: "/poi-images/bukit-tudal-relief-v2.webp",
     description: {
       de: "Ein abgelegener Berggipfel im gebirgigen Süden von Temburong.",
       hu: "Elszigetelt hegycsúcs Temburong hegyvidéki déli részén.",
@@ -141,9 +136,8 @@ image: "/poi-images/bukit-tudal-relief-v2.webp"
     type: "mountain",
     parent: "BN-TE",
     coords: [115.2, 4.45],
-    name: { de: "Bukit Lesong", hu: "Bukit Lesong", ro: "Bukit Lesong", en: "Bukit Lesong",
-image: "/poi-images/bukit-lesong-relief-v2.webp"
-},
+    name: { de: "Bukit Lesong", hu: "Bukit Lesong", ro: "Bukit Lesong", en: "Bukit Lesong"},
+    image: "/poi-images/bukit-lesong-relief-v2.webp",
     description: {
       de: "Ein stark bewaldeter Berg im Ulu Temburong Nationalpark.",
       hu: "Sűrűn erdősült hegy az Ulu Temburong Nemzeti Parkban.",
@@ -168,9 +162,8 @@ image: "/poi-images/bukit-lesong-relief-v2.webp"
     type: "mountain",
     parent: "BN-TU",
     coords: [114.73, 4.7],
-    name: { de: "Bukit Ladan", hu: "Bukit Ladan", ro: "Bukit Ladan", en: "Bukit Ladan",
-image: "/poi-images/bukit-ladan-relief-v2.webp"
-},
+    name: { de: "Bukit Ladan", hu: "Bukit Ladan", ro: "Bukit Ladan", en: "Bukit Ladan"},
+    image: "/poi-images/bukit-ladan-relief-v2.webp",
     description: {
       de: "Ein markantes Waldgebiet und Hügelkette im Tutong-Distrikt.",
       hu: "Jelentős erdőterület és dombvidék a Tutong körzetben.",
@@ -195,9 +188,8 @@ image: "/poi-images/bukit-ladan-relief-v2.webp"
     type: "mountain",
     parent: "BN-TU",
     coords: [114.75, 4.35],
-    name: { de: "Bukit Bedawan", hu: "Bukit Bedawan", ro: "Bukit Bedawan", en: "Bukit Bedawan",
-image: "/poi-images/bukit-bedawan-relief-v2.webp"
-},
+    name: { de: "Bukit Bedawan", hu: "Bukit Bedawan", ro: "Bukit Bedawan", en: "Bukit Bedawan"},
+    image: "/poi-images/bukit-bedawan-relief-v2.webp",
     description: {
       de: "Der höchste Punkt im Tutong-Distrikt, tief im Regenwald gelegen.",
       hu: "A Tutong körzet legmagasabb pontja, mélyen az esőerdőben.",
@@ -222,9 +214,8 @@ image: "/poi-images/bukit-bedawan-relief-v2.webp"
     type: "mountain",
     parent: "BN-BE",
     coords: [114.52, 4.62],
-    name: { de: "Bukit Andulau", hu: "Bukit Andulau", ro: "Bukit Andulau", en: "Bukit Andulau",
-image: "/poi-images/bukit-andulau-relief-v2.webp"
-},
+    name: { de: "Bukit Andulau", hu: "Bukit Andulau", ro: "Bukit Andulau", en: "Bukit Andulau"},
+    image: "/poi-images/bukit-andulau-relief-v2.webp",
     description: {
       de: "Ein sanfter Hügel, der von einem wichtigen Waldreservat umgeben ist.",
       hu: "Lankás domb, amelyet egy fontos erdőrezervátum vesz körül.",
@@ -249,9 +240,8 @@ image: "/poi-images/bukit-andulau-relief-v2.webp"
     type: "coast",
     parent: "BN-BM",
     coords: [115.006, 5.037],
-    name: { de: "Meragang Strand", hu: "Meragang-part", ro: "Plaja Meragang", en: "Meragang Beach",
-image: "/poi-images/pantai-meragang-relief-v2.webp"
-},
+    name: { de: "Meragang Strand", hu: "Meragang-part", ro: "Plaja Meragang", en: "Meragang Beach"},
+    image: "/poi-images/pantai-meragang-relief-v2.webp",
     description: {
       de: "Ein ruhiger Sandstrand im Norden Bruneis, oft Krokodilstrand genannt.",
       hu: "Csendes homokos part Brunei északi részén, gyakran Krokodil-partnak is hívják.",
@@ -276,9 +266,8 @@ image: "/poi-images/pantai-meragang-relief-v2.webp"
     type: "coast",
     parent: "BN-BM",
     coords: [114.869, 4.975],
-    name: { de: "Tungku Strand", hu: "Tungku-part", ro: "Plaja Tungku", en: "Tungku Beach",
-image: "/poi-images/pantai-tungku-relief-v2.webp"
-},
+    name: { de: "Tungku Strand", hu: "Tungku-part", ro: "Plaja Tungku", en: "Tungku Beach"},
+    image: "/poi-images/pantai-tungku-relief-v2.webp",
     description: {
       de: "Ein von künstlichen Felsbrocken gesäumter Küstenabschnitt am Südchinesischen Meer.",
       hu: "Mesterséges sziklákkal szegélyezett partszakasz a Dél-kínai-tenger mentén.",
@@ -303,9 +292,8 @@ image: "/poi-images/pantai-tungku-relief-v2.webp"
     type: "coast",
     parent: "BN-BM",
     coords: [115.064, 5.021],
-    name: { de: "Muara Strand", hu: "Muara-part", ro: "Plaja Muara", en: "Muara Beach",
-image: "/poi-images/pantai-muara-relief-v2.webp"
-},
+    name: { de: "Muara Strand", hu: "Muara-part", ro: "Plaja Muara", en: "Muara Beach"},
+    image: "/poi-images/pantai-muara-relief-v2.webp",
     description: {
       de: "Der bekannteste Strand Bruneis mit weißen Sandstränden und Picknickplätzen.",
       hu: "Brunei legismertebb strandja fehér homokkal és piknikezőhelyekkel.",
@@ -330,9 +318,8 @@ image: "/poi-images/pantai-muara-relief-v2.webp"
     type: "coast",
     parent: "BN-BM",
     coords: [115.06, 5.006],
-    name: { de: "Serasa Strand", hu: "Serasa-part", ro: "Plaja Serasa", en: "Serasa Beach",
-image: "/poi-images/pantai-serasa-relief-v2.webp"
-},
+    name: { de: "Serasa Strand", hu: "Serasa-part", ro: "Plaja Serasa", en: "Serasa Beach"},
+    image: "/poi-images/pantai-serasa-relief-v2.webp",
     description: {
       de: "Ein schmaler Küstenstreifen, der als Zentrum für Wassersport in Brunei dient.",
       hu: "Keskeny partszakasz, amely a vízisportok központjaként szolgál Bruneiben.",
@@ -357,9 +344,8 @@ image: "/poi-images/pantai-serasa-relief-v2.webp"
     type: "coast",
     parent: "BN-BM",
     coords: [114.832, 4.947],
-    name: { de: "Jerudong Strand", hu: "Jerudong-part", ro: "Plaja Jerudong", en: "Jerudong Beach",
-image: "/poi-images/pantai-jerudong-relief-v2.webp"
-},
+    name: { de: "Jerudong Strand", hu: "Jerudong-part", ro: "Plaja Jerudong", en: "Jerudong Beach"},
+    image: "/poi-images/pantai-jerudong-relief-v2.webp",
     description: {
       de: "Ein Strandbereich, der vor allem für seinen lebhaften Fischmarkt bekannt ist.",
       hu: "Elsősorban nyüzsgő halpiacáról ismert partszakasz.",
@@ -384,9 +370,8 @@ image: "/poi-images/pantai-jerudong-relief-v2.webp"
     type: "coast",
     parent: "BN-TU",
     coords: [114.6, 4.82],
-    name: { de: "Penanjong Strand", hu: "Penanjong-part", ro: "Plaja Penanjong", en: "Penanjong Beach",
-image: "/poi-images/pantai-penanjong-relief-v2.webp"
-},
+    name: { de: "Penanjong Strand", hu: "Penanjong-part", ro: "Plaja Penanjong", en: "Penanjong Beach"},
+    image: "/poi-images/pantai-penanjong-relief-v2.webp",
     description: {
       de: "Ein weitläufiger, unberührter Strand im Tutong-Distrikt.",
       hu: "Tágas, érintetlen tengerpart a Tutong körzetben.",
@@ -411,9 +396,8 @@ image: "/poi-images/pantai-penanjong-relief-v2.webp"
     type: "coast",
     parent: "BN-BE",
     coords: [114.43, 4.65],
-    name: { de: "Lumut Strand", hu: "Lumut-part", ro: "Plaja Lumut", en: "Lumut Beach",
-image: "/poi-images/pantai-lumut-relief-v2.webp"
-},
+    name: { de: "Lumut Strand", hu: "Lumut-part", ro: "Plaja Lumut", en: "Lumut Beach"},
+    image: "/poi-images/pantai-lumut-relief-v2.webp",
     description: {
       de: "Ein Strand in der Nähe von Bruneis Öl- und Gasanlagen, beliebt bei Einheimischen.",
       hu: "Tengerpart Brunei olaj- és gázlétesítményeinek közelében, a helyiek kedvence.",
@@ -438,9 +422,8 @@ image: "/poi-images/pantai-lumut-relief-v2.webp"
     type: "coast",
     parent: "BN-BM",
     coords: [114.93, 5.0],
-    name: { de: "Berakas Strand", hu: "Berakas-part", ro: "Plaja Berakas", en: "Berakas Beach",
-image: "/poi-images/pantai-berakas-relief-v2.webp"
-},
+    name: { de: "Berakas Strand", hu: "Berakas-part", ro: "Plaja Berakas", en: "Berakas Beach"},
+    image: "/poi-images/pantai-berakas-relief-v2.webp",
     description: {
       de: "Ein Strand, der Teil eines Erholungswaldes ist und eine steile Küstenlinie aufweist.",
       hu: "Egy pihenőerdő részét képező strand meredek partvonallal.",
@@ -465,9 +448,8 @@ image: "/poi-images/pantai-berakas-relief-v2.webp"
     type: "mountain",
     parent: "BN-BM",
     coords: [115.03, 4.95],
-    name: { de: "Bukit Tempayan Pisang", hu: "Bukit Tempayan Pisang", ro: "Bukit Tempayan Pisang", en: "Bukit Tempayan Pisang",
-image: "/poi-images/bukit-tempayan-pisang-relief-v2.webp"
-},
+    name: { de: "Bukit Tempayan Pisang", hu: "Bukit Tempayan Pisang", ro: "Bukit Tempayan Pisang", en: "Bukit Tempayan Pisang"},
+    image: "/poi-images/bukit-tempayan-pisang-relief-v2.webp",
     description: {
       de: "Ein historisch bedeutsamer Hügel mit Panoramablick auf Muara.",
       hu: "Történelmi jelentőségű domb, ahonnan panorámás kilátás nyílik Muarára.",
@@ -492,9 +474,8 @@ image: "/poi-images/bukit-tempayan-pisang-relief-v2.webp"
     type: "mountain",
     parent: "BN-BM",
     coords: [114.95, 4.9],
-    name: { de: "Bukit Subok", hu: "Bukit Subok", ro: "Bukit Subok", en: "Bukit Subok",
-image: "/poi-images/bukit-subok-relief-v2.webp"
-},
+    name: { de: "Bukit Subok", hu: "Bukit Subok", ro: "Bukit Subok", en: "Bukit Subok"},
+    image: "/poi-images/bukit-subok-relief-v2.webp",
     description: {
       de: "Eine Hügelkette nahe der Hauptstadt mit beliebten Wanderwegen.",
       hu: "Dombvidék a főváros közelében, népszerű túraútvonalakkal.",
@@ -519,9 +500,8 @@ image: "/poi-images/bukit-subok-relief-v2.webp"
     type: "valley",
     parent: "BN-TE",
     coords: [115.15, 4.5],
-    name: { de: "Temburong-Tal", hu: "Temburong-völgy", ro: "Valea Temburong", en: "Temburong Valley",
-image: "/poi-images/temburong-valley-relief-v2.webp"
-},
+    name: { de: "Temburong-Tal", hu: "Temburong-völgy", ro: "Valea Temburong", en: "Temburong Valley"},
+    image: "/poi-images/temburong-valley-relief-v2.webp",
     description: {
       de: "Ein tief eingeschnittenes Flusstal, umgeben von unberührtem Primärregenwald.",
       hu: "Mélyen bevágódott folyóvölgy, amelyet érintetlen primer esőerdő vesz körül.",

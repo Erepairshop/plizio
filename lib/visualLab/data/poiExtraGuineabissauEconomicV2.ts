@@ -11,9 +11,8 @@ export const poiExtraGuineabissauEconomicV2: POI[] = [
       de: "Phosphatmine Farim",
       hu: "Farimi foszfátbánya",
       ro: "Mina de fosfat din Farim",
-      en: "Farim Phosphate Mine",
-image: "/poi-images/farim-phosphatmine-economic-v2.webp"
-},
+      en: "Farim Phosphate Mine"},
+    image: "/poi-images/farim-phosphatmine-economic-v2.webp",
     description: {
       de: "Eines der weltweit größten unerschlossenen Phosphatvorkommen, das für die globale Düngemittelproduktion von strategischer Bedeutung ist.",
       hu: "A világ egyik legnagyobb kiaknázatlan foszfátlelÅ'helye, amely stratégiai jelentÅ'séggel bír a globális műtrágyagyártás számára.",
@@ -47,9 +46,8 @@ image: "/poi-images/farim-phosphatmine-economic-v2.webp"
       de: "Bauxitvorkommen von Boé",
       hu: "Boéi bauxitlelÅ'hely",
       ro: "Zăcământul de bauxită din Boé",
-      en: "Boe Bauxite Deposit",
-image: "/poi-images/boe-bauxitmine-economic-v2.webp"
-},
+      en: "Boe Bauxite Deposit"},
+    image: "/poi-images/boe-bauxitmine-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Bergbauprojekt im Südosten des Landes zur Erschließung hochwertiger Bauxitreserven für die Aluminiumherstellung.",
       hu: "JelentÅ's bányászati projekt az ország délkeleti részén, amely kiváló minÅ'ségű bauxitkészletek feltárását célozza az alumíniumgyártáshoz.",
@@ -83,9 +81,8 @@ image: "/poi-images/boe-bauxitmine-economic-v2.webp"
       de: "Schwermineralsand-Projekt Varela",
       hu: "Varelai nehézásványhomok-projekt",
       ro: "Proiectul de nisipuri minerale grele din Varela",
-      en: "Varela Heavy Mineral Sands Project",
-image: "/poi-images/varela-schwermineralsand-economic-v2.webp"
-},
+      en: "Varela Heavy Mineral Sands Project"},
+    image: "/poi-images/varela-schwermineralsand-economic-v2.webp",
     description: {
       de: "Ein Küstenbergbauprojekt zur Gewinnung von Ilmenit, Zirkon und Rutil aus den Sandvorkommen der Region Varela.",
       hu: "Kpartmenti bányászati projekt ilmenit, cirkon és rutil kinyerésére a Varela régió homoklelÅ'helyeibÅ'l.",
@@ -120,9 +117,8 @@ image: "/poi-images/varela-schwermineralsand-economic-v2.webp"
       de: "CICER Brauerei Bissau",
       hu: "CICER SörfÅ'zde Bissau",
       ro: "Berăria CICER Bissau",
-      en: "CICER Brewery Bissau",
-image: "/poi-images/bissau-cicer-brauerei-economic-v2.webp"
-},
+      en: "CICER Brewery Bissau"},
+    image: "/poi-images/bissau-cicer-brauerei-economic-v2.webp",
     description: {
       de: "Die größte und traditionsreichste Brauerei des Landes, die sowohl lokales Bier als auch Erfrischungsgetränke produziert.",
       hu: "Az ország legnagyobb és legrégebbi sörfÅ'zdéje, amely helyi sört és üdítÅ'italokat egyaránt gyárt.",
@@ -157,9 +153,8 @@ image: "/poi-images/bissau-cicer-brauerei-economic-v2.webp"
       de: "Wärmekraftwerk Bissau",
       hu: "Bissaui hÅ'erÅ'mű",
       ro: "Centrala termoelectrică din Bissau",
-      en: "Bissau Thermal Power Plant",
-image: "/poi-images/bissau-kraftwerk-economic-v2.webp"
-},
+      en: "Bissau Thermal Power Plant"},
+    image: "/poi-images/bissau-kraftwerk-economic-v2.webp",
     description: {
       de: "Die zentrale Energieerzeugungsanlage der Hauptstadt, die für die Stromversorgung von Haushalten und Industriebetrieben verantwortlich ist.",
       hu: "A fÅ'város központi energiatermelÅ' létesítménye, amely a háztartások és ipari üzemek áramellátásáért felelÅ's.",
@@ -194,9 +189,8 @@ image: "/poi-images/bissau-kraftwerk-economic-v2.webp"
       de: "Industriegebiet Bra",
       hu: "Bra ipari zóna",
       ro: "Zona industrială Bra",
-      en: "Bra Industrial Zone",
-image: "/poi-images/industriezone-bra-economic-v2.webp"
-},
+      en: "Bra Industrial Zone"},
+    image: "/poi-images/industriezone-bra-economic-v2.webp",
     description: {
       de: "Das wichtigste Industrieareal am Stadtrand von Bissau, in dem sich verschiedene Fertigungsbetriebe und Werkstätten konzentrieren.",
       hu: "Bissau külvárosának legfontosabb ipari területe, ahol különféle gyártóüzemek és műhelyek tömörülnek.",
@@ -231,9 +225,8 @@ image: "/poi-images/industriezone-bra-economic-v2.webp"
       de: "Industriekomplex von Cumere",
       hu: "Cumerei ipari komplexum",
       ro: "Complexul industrial din Cumere",
-      en: "Cumere Industrial Complex",
-image: "/poi-images/cumere-industriekomplex-economic-v2.webp"
-},
+      en: "Cumere Industrial Complex"},
+    image: "/poi-images/cumere-industriekomplex-economic-v2.webp",
     description: {
       de: "Ein historisch bedeutender Industriekomplex, der ursprünglich für die Verarbeitung von Erdnüssen und die Produktion von Speiseöl konzipiert wurde.",
       hu: "Történelmileg jelentÅ's ipari komplexum, amelyet eredetileg földimogyoró-feldolgozásra és étolajgyártásra terveztek.",
@@ -268,9 +261,8 @@ image: "/poi-images/cumere-industriekomplex-economic-v2.webp"
       de: "Steinbruch von Antula",
       hu: "Antulai kÅ'bánya",
       ro: "Cariera de piatră din Antula",
-      en: "Antula Quarry",
-image: "/poi-images/antula-steinbruch-economic-v2.webp"
-},
+      en: "Antula Quarry"},
+    image: "/poi-images/antula-steinbruch-economic-v2.webp",
     description: {
       de: "Ein wichtiger Steinbruch, der Baumaterialien für die Infrastrukturentwicklung und den Wohnungsbau in der Region Bissau liefert.",
       hu: "Fontos kÅ'bánya, amely építÅ'anyagokat biztosít az infrastruktúra-fejlesztéshez és a lakásépítéshez a Bissau régióban.",
@@ -305,9 +297,8 @@ image: "/poi-images/antula-steinbruch-economic-v2.webp"
       de: "Zementwerk von Bissau",
       hu: "Bissaui cementgyár",
       ro: "Fabrica de ciment din Bissau",
-      en: "Bissau Cement Plant",
-image: "/poi-images/bissau-zementwerk-economic-v2.webp"
-},
+      en: "Bissau Cement Plant"},
+    image: "/poi-images/bissau-zementwerk-economic-v2.webp",
     description: {
       de: "Eine Industrieanlage zur Verarbeitung und Verpackung von Zement, die den wachsenden Baubedarf des Landes deckt.",
       hu: "Cement feldolgozására és csomagolására szolgáló ipari létesítmény, amely az ország növekvÅ' építési igényeit elégíti ki.",
@@ -342,9 +333,8 @@ image: "/poi-images/bissau-zementwerk-economic-v2.webp"
       de: "Ziegelei von Bafatá",
       hu: "Bafatái téglagyár",
       ro: "Fabrica de cărămidă din Bafatá",
-      en: "Bafata Brick Factory",
-image: "/poi-images/bafata-ziegelei-economic-v2.webp"
-},
+      en: "Bafata Brick Factory"},
+    image: "/poi-images/bafata-ziegelei-economic-v2.webp",
     description: {
       de: "Eine regionale Produktionsstätte für Ziegelsteine, die die reichen Lehmvorkommen der Bafatá-Region für das lokale Bauwesen nutzt.",
       hu: "Regionális téglagyártó üzem, amely a Bafatá régió gazdag agyaglelÅ'helyeit hasznosítja a helyi építÅ'ipar számára.",
@@ -379,9 +369,8 @@ image: "/poi-images/bafata-ziegelei-economic-v2.webp"
       de: "Seehafen von Bolama",
       hu: "Bolamai tengeri kikötÅ'",
       ro: "Portul maritim din Bolama",
-      en: "Port of Bolama",
-image: "/poi-images/port-von-bolama-economic-v2.webp"
-},
+      en: "Port of Bolama"},
+    image: "/poi-images/port-von-bolama-economic-v2.webp",
     description: {
       de: "Ein historischer Tiefwasserhafen auf der Insel Bolama, der früher als wichtigstes Handelszentrum für den Export landwirtschaftlicher Produkte diente.",
       hu: "Történelmi mélyvízi kikötÅ' Bolama szigetén, amely korábban a mezÅ'gazdasági termékek exportjának legfontosabb kereskedelmi központjaként szolgált.",
@@ -416,9 +405,8 @@ image: "/poi-images/port-von-bolama-economic-v2.webp"
       de: "Hafen von Cacheu",
       hu: "Cacheui kikötÅ'",
       ro: "Portul din Cacheu",
-      en: "Port of Cacheu",
-image: "/poi-images/port-von-cacheu-economic-v2.webp"
-},
+      en: "Port of Cacheu"},
+    image: "/poi-images/port-von-cacheu-economic-v2.webp",
     description: {
       de: "Ein bedeutender Flusshafen am Rio Cacheu, der eine zentrale Rolle im Handel mit dem Nordwesten des Landes und dem Senegal spielt.",
       hu: "JelentÅ's folyami kikötÅ' a Cacheu-folyón, amely központi szerepet játszik az ország északnyugati részével és Szenegállal folytatott kereskedelemben.",
@@ -453,9 +441,8 @@ image: "/poi-images/port-von-cacheu-economic-v2.webp"
       de: "Flusshafen von Farim",
       hu: "Farimi folyami kikötÅ'",
       ro: "Portul fluvial din Farim",
-      en: "Port of Farim",
-image: "/poi-images/port-von-farim-economic-v2.webp"
-},
+      en: "Port of Farim"},
+    image: "/poi-images/port-von-farim-economic-v2.webp",
     description: {
       de: "Ein strategischer Binnenhafen im Norden Guinea-Bissaus, der als wichtiger Umschlagplatz für Waren in die Grenzregionen dient.",
       hu: "Stratégiai folyami kikötÅ' Guinea-Bissau északi részén, amely fontos áruátrakodóhelyként szolgál a határmenti régiók számára.",
@@ -490,9 +477,8 @@ image: "/poi-images/port-von-farim-economic-v2.webp"
       de: "Hafen von Cacine",
       hu: "Cacinei kikötÅ'",
       ro: "Portul din Cacine",
-      en: "Port of Cacine",
-image: "/poi-images/port-von-cacine-economic-v2.webp"
-},
+      en: "Port of Cacine"},
+    image: "/poi-images/port-von-cacine-economic-v2.webp",
     description: {
       de: "Ein abgelegener, aber wichtiger Küstenhafen im tiefen Süden, der die Verbindung der Tombali-Region mit dem Rest des Landes sicherstellt.",
       hu: "Távoli, de fontos tengerparti kikötÅ' a mély délen, amely biztosítja Tombali régió kapcsolatát az ország többi részével.",
@@ -527,9 +513,8 @@ image: "/poi-images/port-von-cacine-economic-v2.webp"
       de: "Hafen von São Domingos",
       hu: "São Domingos-i kikötÅ'",
       ro: "Portul din São Domingos",
-      en: "Port of São Domingos",
-image: "/poi-images/port-von-sao-domingos-economic-v2.webp"
-},
+      en: "Port of São Domingos"},
+    image: "/poi-images/port-von-sao-domingos-economic-v2.webp",
     description: {
       de: "Ein GrenzkikötÅ' im Nordwesten, der eine wichtige Rolle im grenzüberschreitenden Warenaustausch auf dem Wasserweg übernimmt.",
       hu: "Határmenti kikötÅ' északnyugaton, amely fontos szerepet játszik a vízi úton történÅ' határokon átnyúló árucserében.",
@@ -564,9 +549,8 @@ image: "/poi-images/port-von-sao-domingos-economic-v2.webp"
       de: "Hafen von Tite",
       hu: "Tite-i kikötÅ'",
       ro: "Portul din Tite",
-      en: "Port of Tite",
-image: "/poi-images/port-von-tite-economic-v2.webp"
-},
+      en: "Port of Tite"},
+    image: "/poi-images/port-von-tite-economic-v2.webp",
     description: {
       de: "Ein Flusshafen am südlichen Ufer des Geba-Đstuars, der als wichtiges Bindeglied für den Personentransport und Güterverkehr dient.",
       hu: "Folyami kikötÅ' a Geba-torkolat déli partján, amely fontos kapocsként szolgál a személy- és áruszállítás számára.",
@@ -601,9 +585,8 @@ image: "/poi-images/port-von-tite-economic-v2.webp"
       de: "Hafen von Prabis",
       hu: "Prabisi kikötÅ'",
       ro: "Portul din Prabis",
-      en: "Port of Prabis",
-image: "/poi-images/port-von-prabis-economic-v2.webp"
-},
+      en: "Port of Prabis"},
+    image: "/poi-images/port-von-prabis-economic-v2.webp",
     description: {
       de: "Ein Fischerei- und Transporthafen südwestlich von Bissau, der für die Versorgung der Hauptstadt mit frischem Fisch entscheidend ist.",
       hu: "Halászati és szállítási kikötÅ' Bissau-tól délnyugatra, amely döntÅ' fontosságú a fÅ'város friss hallal történÅ' ellátásában.",
@@ -638,9 +621,8 @@ image: "/poi-images/port-von-prabis-economic-v2.webp"
       de: "Hafen von Encheia",
       hu: "Encheiai kikötÅ'",
       ro: "Portul din Encheia",
-      en: "Port of Encheia",
-image: "/poi-images/port-von-encheia-economic-v2.webp"
-},
+      en: "Port of Encheia"},
+    image: "/poi-images/port-von-encheia-economic-v2.webp",
     description: {
       de: "Ein regionaler Flusshafen in der Oio-Region, der den Abtransport landwirtschaftlicher Erzeugnisse aus dem fruchtbaren Hinterland ermöglicht.",
       hu: "Regionális folyami kikötÅ' az Oio régióban, amely lehetÅ'vé teszi a mezÅ'gazdasági termékek elszállítását a termékeny hátországból.",
@@ -675,9 +657,8 @@ image: "/poi-images/port-von-encheia-economic-v2.webp"
       de: "Hafen von Bion",
       hu: "Bioni kikötÅ'",
       ro: "Portul din Bion",
-      en: "Port of Bion",
-image: "/poi-images/port-von-bion-economic-v2.webp"
-},
+      en: "Port of Bion"},
+    image: "/poi-images/port-von-bion-economic-v2.webp",
     description: {
       de: "Ein kleinerer, aber strategisch wichtiger Flusshafen, der die logistische Anbindung der Quínara-Region verbessert.",
       hu: "Kisebb, de stratégiailag fontos folyami kikötÅ', amely javítja a Quínara régió logisztikai összeköttetését.",
@@ -712,9 +693,8 @@ image: "/poi-images/port-von-bion-economic-v2.webp"
       de: "Großreismühle Bissau",
       hu: "Bissaui nagy rizsmalom",
       ro: "Moara mare de orez din Bissau",
-      en: "Bissau Large Rice Mill",
-image: "/poi-images/bissau-reismuehle-economic-v2.webp"
-},
+      en: "Bissau Large Rice Mill"},
+    image: "/poi-images/bissau-reismuehle-economic-v2.webp",
     description: {
       de: "Eine zentrale industrielle Anlage zur Verarbeitung von lokal angebautem Reis, einem der wichtigsten Grundnahrungsmittel des Landes.",
       hu: "Központi ipari létesítmény a helyben termesztett rizs feldolgozására, amely az ország egyik legfontosabb alapvetÅ' élelmiszere.",

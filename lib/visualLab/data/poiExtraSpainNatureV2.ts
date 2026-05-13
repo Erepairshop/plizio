@@ -5,9 +5,8 @@ export const spainNatureV2: POI[] = [
     id: "spain-mulhacen-nature-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Mulhacén", hu: "Mulhacén", ro: "Mulhacén", en: "Mulhacén",
-image: "/poi-images/spain-mulhacen-nature-v2.webp"
-},
+    name: { de: "Mulhacén", hu: "Mulhacén", ro: "Mulhacén", en: "Mulhacén"},
+    image: "/poi-images/spain-mulhacen-nature-v2.webp",
     coords: [-3.311, 37.053],
     coordinates: { lat: 37.053, lng: -3.311 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/spain-mulhacen-nature-v2.webp"
     id: "spain-picos-de-europa-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Picos de Europa", hu: "Picos de Europa", ro: "Picos de Europa", en: "Picos de Europa",
-image: "/poi-images/spain-picos-de-europa-nature-v2.webp"
-},
+    name: { de: "Picos de Europa", hu: "Picos de Europa", ro: "Picos de Europa", en: "Picos de Europa"},
+    image: "/poi-images/spain-picos-de-europa-nature-v2.webp",
     coords: [-4.85, 43.19],
     coordinates: { lat: 43.19, lng: -4.85 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/spain-picos-de-europa-nature-v2.webp"
     id: "spain-tabernas-desert-nature-v2",
     parent: "ES",
     type: "valley",
-    name: { de: "Wüste von Tabernas", hu: "Tabernas-sivatag", ro: "Deșertul Tabernas", en: "Tabernas Desert",
-image: "/poi-images/spain-tabernas-desert-nature-v2.webp"
-},
+    name: { de: "Wüste von Tabernas", hu: "Tabernas-sivatag", ro: "Deșertul Tabernas", en: "Tabernas Desert"},
+    image: "/poi-images/spain-tabernas-desert-nature-v2.webp",
     coords: [-2.43, 37.04],
     coordinates: { lat: 37.04, lng: -2.43 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/spain-tabernas-desert-nature-v2.webp"
     id: "spain-ordesa-monte-perdido-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Ordesa y Monte Perdido", hu: "Ordesa és Monte Perdido", ro: "Ordesa și Monte Perdido", en: "Ordesa y Monte Perdido",
-image: "/poi-images/spain-ordesa-monte-perdido-nature-v2.webp"
-},
+    name: { de: "Ordesa y Monte Perdido", hu: "Ordesa és Monte Perdido", ro: "Ordesa și Monte Perdido", en: "Ordesa y Monte Perdido"},
+    image: "/poi-images/spain-ordesa-monte-perdido-nature-v2.webp",
     coords: [0.05, 42.67],
     coordinates: { lat: 42.67, lng: 0.05 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/spain-ordesa-monte-perdido-nature-v2.webp"
     id: "spain-ebro-river-nature-v2",
     parent: "ES",
     type: "river",
-    name: { de: "Ebro", hu: "Ebro", ro: "Ebro", en: "Ebro River",
-image: "/poi-images/spain-ebro-river-nature-v2.webp"
-},
+    name: { de: "Ebro", hu: "Ebro", ro: "Ebro", en: "Ebro River"},
+    image: "/poi-images/spain-ebro-river-nature-v2.webp",
     coords: [0.81, 40.72],
     coordinates: { lat: 40.72, lng: 0.81 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/spain-ebro-river-nature-v2.webp"
     id: "spain-tagus-river-nature-v2",
     parent: "ES",
     type: "river",
-    name: { de: "Tajo", hu: "Tajo", ro: "Tajo", en: "Tagus River",
-image: "/poi-images/spain-tagus-river-nature-v2.webp"
-},
+    name: { de: "Tajo", hu: "Tajo", ro: "Tajo", en: "Tagus River"},
+    image: "/poi-images/spain-tagus-river-nature-v2.webp",
     coords: [-7.53, 39.66],
     coordinates: { lat: 39.66, lng: -7.53 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/spain-tagus-river-nature-v2.webp"
     id: "spain-cabo-de-gata-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Cabo de Gata-Níjar", hu: "Cabo de Gata-Níjar", ro: "Cabo de Gata-Níjar", en: "Cabo de Gata-Níjar",
-image: "/poi-images/spain-cabo-de-gata-nature-v2.webp"
-},
+    name: { de: "Cabo de Gata-Níjar", hu: "Cabo de Gata-Níjar", ro: "Cabo de Gata-Níjar", en: "Cabo de Gata-Níjar"},
+    image: "/poi-images/spain-cabo-de-gata-nature-v2.webp",
     coords: [-2.2, 36.72],
     coordinates: { lat: 36.72, lng: -2.2 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/spain-cabo-de-gata-nature-v2.webp"
     id: "spain-aneto-nature-v2",
     parent: "ES",
     type: "peak",
-    name: { de: "Aneto", hu: "Aneto", ro: "Aneto", en: "Aneto",
-image: "/poi-images/spain-aneto-nature-v2.webp"
-},
+    name: { de: "Aneto", hu: "Aneto", ro: "Aneto", en: "Aneto"},
+    image: "/poi-images/spain-aneto-nature-v2.webp",
     coords: [0.65, 42.63],
     coordinates: { lat: 42.63, lng: 0.65 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/spain-aneto-nature-v2.webp"
     id: "spain-guadarrama-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Sierra de Guadarrama", hu: "Sierra de Guadarrama", ro: "Sierra de Guadarrama", en: "Sierra de Guadarrama",
-image: "/poi-images/spain-guadarrama-nature-v2.webp"
-},
+    name: { de: "Sierra de Guadarrama", hu: "Sierra de Guadarrama", ro: "Sierra de Guadarrama", en: "Sierra de Guadarrama"},
+    image: "/poi-images/spain-guadarrama-nature-v2.webp",
     coords: [-3.95, 40.85],
     coordinates: { lat: 40.85, lng: -3.95 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/spain-guadarrama-nature-v2.webp"
     id: "spain-lake-sanabria-nature-v2",
     parent: "ES",
     type: "lake",
-    name: { de: "Sanabria-See", hu: "Sanabria-tó", ro: "Lacul Sanabria", en: "Lake Sanabria",
-image: "/poi-images/spain-lake-sanabria-nature-v2.webp"
-},
+    name: { de: "Sanabria-See", hu: "Sanabria-tó", ro: "Lacul Sanabria", en: "Lake Sanabria"},
+    image: "/poi-images/spain-lake-sanabria-nature-v2.webp",
     coords: [-6.71, 42.12],
     coordinates: { lat: 42.12, lng: -6.71 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/spain-lake-sanabria-nature-v2.webp"
     id: "spain-islas-atlanticas-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Nationalpark Islas Atlánticas", hu: "Islas Atlánticas Nemzeti Park", ro: "Parcul Național Islas Atlánticas", en: "Atlantic Islands of Galicia National Park",
-image: "/poi-images/spain-islas-atlanticas-nature-v2.webp"
-},
+    name: { de: "Nationalpark Islas Atlánticas", hu: "Islas Atlánticas Nemzeti Park", ro: "Parcul Național Islas Atlánticas", en: "Atlantic Islands of Galicia National Park"},
+    image: "/poi-images/spain-islas-atlanticas-nature-v2.webp",
     coords: [-8.93, 42.22],
     coordinates: { lat: 42.22, lng: -8.93 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/spain-islas-atlanticas-nature-v2.webp"
     id: "spain-caminito-del-rey-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Caminito del Rey", hu: "Caminito del Rey", ro: "Caminito del Rey", en: "Caminito del Rey",
-image: "/poi-images/spain-caminito-del-rey-nature-v2.webp"
-},
+    name: { de: "Caminito del Rey", hu: "Caminito del Rey", ro: "Caminito del Rey", en: "Caminito del Rey"},
+    image: "/poi-images/spain-caminito-del-rey-nature-v2.webp",
     coords: [-4.77, 36.91],
     coordinates: { lat: 36.91, lng: -4.77 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/spain-caminito-del-rey-nature-v2.webp"
     id: "spain-las-medulas-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Las Médulas", hu: "Las Médulas", ro: "Las Médulas", en: "Las Médulas",
-image: "/poi-images/spain-las-medulas-nature-v2.webp"
-},
+    name: { de: "Las Médulas", hu: "Las Médulas", ro: "Las Médulas", en: "Las Médulas"},
+    image: "/poi-images/spain-las-medulas-nature-v2.webp",
     coords: [-6.76, 42.46],
     coordinates: { lat: 42.46, lng: -6.76 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/spain-las-medulas-nature-v2.webp"
     id: "spain-bardenas-reales-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Bardenas Reales", hu: "Bardenas Reales", ro: "Bardenas Reales", en: "Bardenas Reales",
-image: "/poi-images/spain-bardenas-reales-nature-v2.webp"
-},
+    name: { de: "Bardenas Reales", hu: "Bardenas Reales", ro: "Bardenas Reales", en: "Bardenas Reales"},
+    image: "/poi-images/spain-bardenas-reales-nature-v2.webp",
     coords: [-1.5, 42.18],
     coordinates: { lat: 42.18, lng: -1.5 },
     description: {
@@ -509,9 +495,8 @@ image: "/poi-images/spain-bardenas-reales-nature-v2.webp"
     id: "spain-montserrat-nature-v2",
     parent: "ES",
     type: "mountain",
-    name: { de: "Montserrat", hu: "Montserrat", ro: "Montserrat", en: "Montserrat",
-image: "/poi-images/spain-montserrat-nature-v2.webp"
-},
+    name: { de: "Montserrat", hu: "Montserrat", ro: "Montserrat", en: "Montserrat"},
+    image: "/poi-images/spain-montserrat-nature-v2.webp",
     coords: [1.83, 41.59],
     coordinates: { lat: 41.59, lng: 1.83 },
     description: {
@@ -545,9 +530,8 @@ image: "/poi-images/spain-montserrat-nature-v2.webp"
     id: "spain-drach-caves-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Cuevas del Drach", hu: "Sárkánybarlangok", ro: "Peșterile Drach", en: "Caves of Drach",
-image: "/poi-images/spain-drach-caves-nature-v2.webp"
-},
+    name: { de: "Cuevas del Drach", hu: "Sárkánybarlangok", ro: "Peșterile Drach", en: "Caves of Drach"},
+    image: "/poi-images/spain-drach-caves-nature-v2.webp",
     coords: [3.33, 39.53],
     coordinates: { lat: 39.53, lng: 3.33 },
     description: {
@@ -581,9 +565,8 @@ image: "/poi-images/spain-drach-caves-nature-v2.webp"
     id: "spain-nerja-caves-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Höhlen von Nerja", hu: "Nerjai barlangok", ro: "Peșterile din Nerja", en: "Nerja Caves",
-image: "/poi-images/spain-nerja-caves-nature-v2.webp"
-},
+    name: { de: "Höhlen von Nerja", hu: "Nerjai barlangok", ro: "Peșterile din Nerja", en: "Nerja Caves"},
+    image: "/poi-images/spain-nerja-caves-nature-v2.webp",
     coords: [-3.84, 36.76],
     coordinates: { lat: 36.76, lng: -3.84 },
     description: {
@@ -605,7 +588,7 @@ image: "/poi-images/spain-nerja-caves-nature-v2.webp"
       hu: "A Málaga andalúziai tartományában elhelyezkedő Nerjai barlangok (Cuevas de Nerja) Spanyolország leglátványosabb geológiai képződményei közé tartoznak, amelyeket 1959-ben teljesen véletlenül fedezett fel néhány helyi fiatal. A közel 5 kilométer hosszú mészkőbarlang-rendszer hatalmas, katedrális méretű termekből áll. A barlang legismertebb látványossága a Kataklizma-teremben található gigantikus cseppkőoszlop (egy sztalaktit és egy sztalagmit összenövése), amely 32 méteres magasságával és 13 méteres alapi átmérőjével még a Guinness Rekordok Könyvébe is bekerült, mint a világ legnagyobbja. Geológiai értéke mellett a helyszín régészeti szempontból is felbecsülhetetlen: őskori csontokat, szerszámokat és barlangrajzokat tártak fel itt. A szakértők szerint néhány festmény akár 40 000 éves is lehet, és feltehetően a neandervölgyi emberektől származik. A barlang egyik hatalmas csarnoka kiváló akusztikával rendelkezik, így minden nyáron otthont ad egy neves nemzetközi zenei és táncfesztiválnak.",
       ro: "Peșterile din Nerja (Cuevas de Nerja), situate în provincia andaluză Málaga, reprezintă unul dintre cele mai uimitoare monumente naturale ale Spaniei, descoperit pur întâmplător în 1959 de un grup de tineri localnici. Acest sistem carstic, lung de aproape 5 kilometri, este alcătuit din săli subterane imense, sculptate lent de apa infiltrată în rocile de calcar. Peșterile sunt faimoase pe plan mondial pentru formațiunile lor gigantice; în Sala Cataclismului se ridică o coloană masivă de stalactite și stalagmite care atinge 32 de metri înălțime și 13 metri în diametru la bază, deținând recordul mondial Guinness pentru cea mai mare coloană de acest tip. Pe lângă atracția lor geologică, peșterile au o importanță arheologică majoră, adăpostind oase preistorice, unelte și picturi rupestre fascinante, despre care cercetătorii cred că ar putea fi realizate de oamenii de Neanderthal, datând de peste 40.000 de ani. Datorită acusticii sale excepționale, una dintre săli găzduiește anual un renumit festival internațional de muzică și dans.",
       en: "",
-      en: "The Nerja Caves (Cuevas de Nerja) in the Andalusian province of Málaga are among Spain's most spectacular natural wonders, discovered entirely by chance in 1959 by a group of local boys playing in the area. Stretching for almost 5 kilometers, the immense limestone cavern system features subterranean halls with dimensions resembling grand cathedrals. The caves are globally renowned for their colossal speleothems; the Hall of Cataclysm houses a gigantic stalactite-stalagmite column that stands 32 meters tall with a base diameter of 13 meters, earning it a place in the Guinness Book of World Records as the largest of its kind. Beyond their geological majesty, the caves hold immense archaeological significance. Excavations have revealed prehistoric bones, stone tools, and intriguing cave paintings, some of which are believed to have been created by Neanderthals and could be over 40,000 years old. Taking advantage of the exceptional natural acoustics, one of the massive chambers serves as an auditorium for an annual international music and dance festival held every summer."
+//       en: "The Nerja Caves (Cuevas de Nerja) in the Andalusian province of Málaga are among Spain's most spectacular natural wonders, discovered entirely by chance in 1959 by a group of local boys playing in the area. Stretching for almost 5 kilometers, the immense limestone cavern system features subterranean halls with dimensions resembling grand cathedrals. The caves are globally renowned for their colossal speleothems; the Hall of Cataclysm houses a gigantic stalactite-stalagmite column that stands 32 meters tall with a base diameter of 13 meters, earning it a place in the Guinness Book of World Records as the largest of its kind. Beyond their geological majesty, the caves hold immense archaeological significance. Excavations have revealed prehistoric bones, stone tools, and intriguing cave paintings, some of which are believed to have been created by Neanderthals and could be over 40,000 years old. Taking advantage of the exceptional natural acoustics, one of the massive chambers serves as an auditorium for an annual international music and dance festival held every summer."
     },
     factsAdvanced: {
       de: ["Höhlensystem wurde zufällig im Januar 1959 entdeckt", "Das Wegenetz erstreckt sich über beinahe 5 Kilometer", "Die zentrale Säule ist 32 Meter hoch", "Eingetragen im Guinness-Buch der Rekorde für die größte Säule", "Archäologische Funde umfassen über 40.000 Jahre alte Kunst", "Dient als Austragungsort eines jährlichen internationalen Musikfestivals", "Weniger als ein Drittel des Systems ist für Touristen zugänglich"],
@@ -618,9 +601,8 @@ image: "/poi-images/spain-nerja-caves-nature-v2.webp"
     id: "spain-guadalquivir-river-nature-v2",
     parent: "ES",
     type: "river",
-    name: { de: "Guadalquivir", hu: "Guadalquivir", ro: "Guadalquivir", en: "Guadalquivir River",
-image: "/poi-images/spain-guadalquivir-river-nature-v2.webp"
-},
+    name: { de: "Guadalquivir", hu: "Guadalquivir", ro: "Guadalquivir", en: "Guadalquivir River"},
+    image: "/poi-images/spain-guadalquivir-river-nature-v2.webp",
     coords: [-6.35, 36.8],
     coordinates: { lat: 36.8, lng: -6.35 },
     description: {
@@ -654,9 +636,8 @@ image: "/poi-images/spain-guadalquivir-river-nature-v2.webp"
     id: "spain-aiguestortes-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Aigüestortes i Estany de Sant Maurici", hu: "Aigüestortes i Estany de Sant Maurici", ro: "Aigüestortes i Estany de Sant Maurici", en: "Aigüestortes National Park",
-image: "/poi-images/spain-aiguestortes-nature-v2.webp"
-},
+    name: { de: "Aigüestortes i Estany de Sant Maurici", hu: "Aigüestortes i Estany de Sant Maurici", ro: "Aigüestortes i Estany de Sant Maurici", en: "Aigüestortes National Park"},
+    image: "/poi-images/spain-aiguestortes-nature-v2.webp",
     coords: [0.93, 42.58],
     coordinates: { lat: 42.58, lng: 0.93 },
     description: {
@@ -690,9 +671,8 @@ image: "/poi-images/spain-aiguestortes-nature-v2.webp"
     id: "spain-taburiente-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Caldera de Taburiente", hu: "Caldera de Taburiente", ro: "Caldera de Taburiente", en: "Caldera de Taburiente",
-image: "/poi-images/spain-taburiente-nature-v2.webp"
-},
+    name: { de: "Caldera de Taburiente", hu: "Caldera de Taburiente", ro: "Caldera de Taburiente", en: "Caldera de Taburiente"},
+    image: "/poi-images/spain-taburiente-nature-v2.webp",
     coords: [-17.87, 28.71],
     coordinates: { lat: 28.71, lng: -17.87 },
     description: {
@@ -726,9 +706,8 @@ image: "/poi-images/spain-taburiente-nature-v2.webp"
     id: "spain-jiloca-valley-nature-v2",
     parent: "ES",
     type: "valley",
-    name: { de: "Jiloca-Tal", hu: "Jiloca-völgy", ro: "Valea Jiloca", en: "Jiloca Valley",
-image: "/poi-images/spain-jiloca-valley-nature-v2.webp"
-},
+    name: { de: "Jiloca-Tal", hu: "Jiloca-völgy", ro: "Valea Jiloca", en: "Jiloca Valley"},
+    image: "/poi-images/spain-jiloca-valley-nature-v2.webp",
     coords: [-1.33, 40.73],
     coordinates: { lat: 40.73, lng: -1.33 },
     description: {
@@ -761,9 +740,8 @@ image: "/poi-images/spain-jiloca-valley-nature-v2.webp"
     id: "spain-cueva-del-soplao-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "El Soplao", hu: "El Soplao barlang", ro: "Peștera El Soplao", en: "El Soplao Cave",
-image: "/poi-images/spain-cueva-del-soplao-nature-v2.webp"
-},
+    name: { de: "El Soplao", hu: "El Soplao barlang", ro: "Peștera El Soplao", en: "El Soplao Cave"},
+    image: "/poi-images/spain-cueva-del-soplao-nature-v2.webp",
     coords: [-4.41, 43.29],
     coordinates: { lat: 43.29, lng: -4.41 },
     description: {
@@ -797,9 +775,8 @@ image: "/poi-images/spain-cueva-del-soplao-nature-v2.webp"
     id: "spain-nera-river-canyon-nature-v2",
     parent: "ES",
     type: "valley",
-    name: { de: "Congost de Mont-rebei", hu: "Mont-rebei szurdok", ro: "Cheile Mont-rebei", en: "Mont-rebei Gorge",
-image: "/poi-images/spain-nera-river-canyon-nature-v2.webp"
-},
+    name: { de: "Congost de Mont-rebei", hu: "Mont-rebei szurdok", ro: "Cheile Mont-rebei", en: "Mont-rebei Gorge"},
+    image: "/poi-images/spain-nera-river-canyon-nature-v2.webp",
     coords: [0.69, 42.09],
     coordinates: { lat: 42.09, lng: 0.69 },
     description: {
@@ -834,9 +811,8 @@ image: "/poi-images/spain-nera-river-canyon-nature-v2.webp"
     id: "spain-garrotxa-volcanoes-nature-v2",
     parent: "ES",
     type: "park",
-    name: { de: "Vulkanzone Garrotxa", hu: "Garrotxa vulkáni övezet", ro: "Zona vulcanică Garrotxa", en: "Garrotxa Volcanic Zone",
-image: "/poi-images/spain-garrotxa-volcanoes-nature-v2.webp"
-},
+    name: { de: "Vulkanzone Garrotxa", hu: "Garrotxa vulkáni övezet", ro: "Zona vulcanică Garrotxa", en: "Garrotxa Volcanic Zone"},
+    image: "/poi-images/spain-garrotxa-volcanoes-nature-v2.webp",
     coordinates: { lat: 42.1522, lng: 2.5505 },
     description: {
       de: "Dieses Naturschutzgebiet in Katalonien umfasst 40 erloschene Vulkane und über 20 Lavaströme. Die Landschaft ist durch dichte Buchenwälder und dunkle Ascheböden geprägt.",
@@ -868,9 +844,8 @@ image: "/poi-images/spain-garrotxa-volcanoes-nature-v2.webp"
     id: "spain-torcal-antequera-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "El Torcal de Antequera", hu: "Torcal de Antequera", ro: "Torcal de Antequera", en: "Torcal de Antequera",
-image: "/poi-images/spain-torcal-antequera-nature-v2.webp"
-},
+    name: { de: "El Torcal de Antequera", hu: "Torcal de Antequera", ro: "Torcal de Antequera", en: "Torcal de Antequera"},
+    image: "/poi-images/spain-torcal-antequera-nature-v2.webp",
     coordinates: { lat: 36.9531, lng: -4.5442 },
     description: {
       de: "Dieses Karstgebirge in Andalusien ist bekannt für seine bizarren Kalksteinformationen. Die Erosion hat über Millionen von Jahren eine surreale Felslandschaft geschaffen.",
@@ -903,9 +878,8 @@ image: "/poi-images/spain-torcal-antequera-nature-v2.webp"
     id: "spain-los-gigantes-cliffs-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Klippen von Los Gigantes", hu: "Los Gigantes sziklái", ro: "Stâncile Los Gigantes", en: "Cliffs of Los Gigantes",
-image: "/poi-images/spain-los-gigantes-cliffs-nature-v2.webp"
-},
+    name: { de: "Klippen von Los Gigantes", hu: "Los Gigantes sziklái", ro: "Stâncile Los Gigantes", en: "Cliffs of Los Gigantes"},
+    image: "/poi-images/spain-los-gigantes-cliffs-nature-v2.webp",
     coordinates: { lat: 28.2461, lng: -16.8424 },
     description: {
       de: "Diese monumentalen Basaltklippen an der Westküste von Teneriffa ragen bis zu 800 Meter fast senkrecht aus dem Atlantik. Sie gehören zu den höchsten Steilküsten Europas.",
@@ -938,9 +912,8 @@ image: "/poi-images/spain-los-gigantes-cliffs-nature-v2.webp"
     id: "spain-lagunas-ruidera-nature-v2",
     parent: "ES",
     type: "lake",
-    name: { de: "Ruidera-Lagunen", hu: "Ruidera-tavak", ro: "Lagunele de la Ruidera", en: "Ruidera Lagoons",
-image: "/poi-images/spain-lagunas-ruidera-nature-v2.webp"
-},
+    name: { de: "Ruidera-Lagunen", hu: "Ruidera-tavak", ro: "Lagunele de la Ruidera", en: "Ruidera Lagoons"},
+    image: "/poi-images/spain-lagunas-ruidera-nature-v2.webp",
     coordinates: { lat: 38.9372, lng: -2.8594 },
     description: {
       de: "Eine Kette von 15 Lagunen im Tal des oberen Guadiana, die durch Wasserfälle und natürliche Barrieren verbunden sind. Sie bilden eines der bedeutendsten Feuchtgebiete Zentralspaniens.",
@@ -972,9 +945,8 @@ image: "/poi-images/spain-lagunas-ruidera-nature-v2.webp"
     id: "spain-gaztelugatxe-nature-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Gaztelugatxe", hu: "Gaztelugatxe", ro: "Gaztelugatxe", en: "Gaztelugatxe",
-image: "/poi-images/spain-gaztelugatxe-nature-v2.webp"
-},
+    name: { de: "Gaztelugatxe", hu: "Gaztelugatxe", ro: "Gaztelugatxe", en: "Gaztelugatxe"},
+    image: "/poi-images/spain-gaztelugatxe-nature-v2.webp",
     coordinates: { lat: 43.4473, lng: -2.7851 },
     description: {
       de: "Eine markante Felsinsel im Baskenland, die durch eine schmale Steinbrücke mit dem Festland verbunden ist. Ein steiler Pfad führt hinauf zu einer Kapelle aus dem 10. Jahrhundert.",
@@ -1007,9 +979,8 @@ image: "/poi-images/spain-gaztelugatxe-nature-v2.webp"
     id: "spain-sil-canyon-nature-v2",
     parent: "ES",
     type: "valley",
-    name: { de: "Sil-Schlucht", hu: "Sil-kanyon", ro: "Canionul râului Sil", en: "Sil River Canyon",
-image: "/poi-images/spain-sil-canyon-nature-v2.webp"
-},
+    name: { de: "Sil-Schlucht", hu: "Sil-kanyon", ro: "Canionul râului Sil", en: "Sil River Canyon"},
+    image: "/poi-images/spain-sil-canyon-nature-v2.webp",
     coordinates: { lat: 42.3835, lng: -7.4162 },
     description: {
       de: "Eine tiefe Schlucht in Galicien, die vom Fluss Sil in das Granitgestein gegraben wurde. Die steilen Hänge der Ribeira Sacra sind für ihren Weinanbau auf Terrassen bekannt.",

@@ -11,9 +11,8 @@ export const poiExtraMalaysiaHistoryV2: POI[] = [
       de: "Batu-Höhlen",
       hu: "Batu-barlangok",
       ro: "Peșterile Batu",
-      en: "Batu Caves",
-image: "/poi-images/batu-caves-history-v2.webp"
-},
+      en: "Batu Caves"},
+    image: "/poi-images/batu-caves-history-v2.webp",
     description: {
       de: "Eine Kalksteinhöhle mit einer Reihe von Höhlen und Höhlentempeln in Gombak, Selangor. Es ist eine der beliebtesten hinduistischen Schreine außerhalb Indiens.",
       hu: "Egy mészkődomb, amely barlangok és barlangtemplomok sorozatát rejti Gombakban, Selangorban. Az Indián kívüli egyik legnépszerűbb hindu szentély.",
@@ -48,9 +47,8 @@ image: "/poi-images/batu-caves-history-v2.webp"
       de: "Festung A Famosa",
       hu: "A Famosa erőd",
       ro: "Fortăreața A Famosa",
-      en: "A Famosa Fort",
-image: "/poi-images/a-famosa-fort-history-v2.webp"
-},
+      en: "A Famosa Fort"},
+    image: "/poi-images/a-famosa-fort-history-v2.webp",
     description: {
       de: "Die Überreste einer portugiesischen Festung in Malakka-Stadt. Es ist eines der ältesten erhaltenen europäischen Architekturrelikte in Südostasien.",
       hu: "Egy portugál erőd maradványai Malakka városában. Délkelet-Ázsia egyik legrégebbi fennmaradt európai építészeti emléke.",
@@ -85,9 +83,8 @@ image: "/poi-images/a-famosa-fort-history-v2.webp"
       de: "Bujang-Tal",
       hu: "Bujang-völgy",
       ro: "Valea Bujang",
-      en: "Bujang Valley",
-image: "/poi-images/lembah-bujang-history-v2.webp"
-},
+      en: "Bujang Valley"},
+    image: "/poi-images/lembah-bujang-history-v2.webp",
     description: {
       de: "Ein weitläufiger historischer Komplex im Merbok-Flussgebiet. Es ist die reichste archäologische Stätte in Malaysia, mit Ruinen, die auf das 1. Jahrhundert n. Chr. zurückgehen.",
       hu: "Egy kiterjedt történelmi komplexum a Merbok folyó környékén. Malajzia leggazdagabb régészeti lelőhelye, ahol az i.sz. 1. századból származó romok találhatók.",
@@ -122,9 +119,8 @@ image: "/poi-images/lembah-bujang-history-v2.webp"
       de: "Tugu Negara (Nationaldenkmal)",
       hu: "Tugu Negara (Nemzeti Emlékmű)",
       ro: "Tugu Negara (Monumentul Național)",
-      en: "Tugu Negara (National Monument)",
-image: "/poi-images/tugu-negara-history-v2.webp"
-},
+      en: "Tugu Negara (National Monument)"},
+    image: "/poi-images/tugu-negara-history-v2.webp",
     description: {
       de: "Eine Skulptur, die an diejenigen erinnert, die im Kampf für die Freiheit Malaysias starben, hauptsächlich während des malaiischen Notstands.",
       hu: "Egy szobor, amely azoknak állít emléket, akik Malajzia szabadságáért harcolva haltak meg, elsősorban a maláj vészhelyzet idején.",
@@ -159,9 +155,8 @@ image: "/poi-images/tugu-negara-history-v2.webp"
       de: "Kellie's Castle",
       hu: "Kellie kastélya",
       ro: "Castelul lui Kellie",
-      en: "Kellie's Castle",
-image: "/poi-images/kellies-castle-history-v2.webp"
-},
+      en: "Kellie's Castle"},
+    image: "/poi-images/kellies-castle-history-v2.webp",
     description: {
       de: "Ein unvollendetes, nie fertiggestelltes Herrenhaus in Batu Gajah, Perak. Es wurde von einem schottischen Pflanzer namens William Kellie-Smith für seine Frau gebaut.",
       hu: "Befejezetlen, soha el nem készült kastély Batu Gajahban, Perakban. Egy skót ültetvényes, William Kellie-Smith építtette a feleségének.",
@@ -196,9 +191,8 @@ image: "/poi-images/kellies-castle-history-v2.webp"
       de: "Fort Cornwallis",
       hu: "Cornwallis erőd",
       ro: "Fort Cornwallis",
-      en: "Fort Cornwallis",
-image: "/poi-images/fort-cornwallis-history-v2.webp"
-},
+      en: "Fort Cornwallis"},
+    image: "/poi-images/fort-cornwallis-history-v2.webp",
     description: {
       de: "Eine Festung in George Town, Penang. Es ist die größte erhaltene Festung in Malaysia. Benannt nach Charles Cornwallis.",
       hu: "Erőd George Townban, Penangban. Ez a legnagyobb fennmaradt erőd Malajziában. Charles Cornwallisról nevezték el.",
@@ -233,9 +227,8 @@ image: "/poi-images/fort-cornwallis-history-v2.webp"
       de: "Sandakan Gedenkpark",
       hu: "Sandakani Emlékpark",
       ro: "Parcul Memorial Sandakan",
-      en: "Sandakan Memorial Park",
-image: "/poi-images/sandakan-memorial-park-history-v2.webp"
-},
+      en: "Sandakan Memorial Park"},
+    image: "/poi-images/sandakan-memorial-park-history-v2.webp",
     description: {
       de: "Eine Gedenkstätte, die den Kriegsgefangenen gewidmet ist, die während der Todesmärsche von Sandakan im Zweiten Weltkrieg ums Leben kamen.",
       hu: "Emlékhely, amelyet a második világháborús sandakani halálmenetek során elhunyt hadifoglyoknak szenteltek.",
@@ -270,9 +263,8 @@ image: "/poi-images/sandakan-memorial-park-history-v2.webp"
       de: "Das Stadthuys",
       hu: "Stadthuys",
       ro: "Stadthuys",
-      en: "The Stadthuys",
-image: "/poi-images/stadthuys-history-v2.webp"
-},
+      en: "The Stadthuys"},
+    image: "/poi-images/stadthuys-history-v2.webp",
     description: {
       de: "Ein historisches Gebäude im Herzen von Malakka-Stadt. Es wird angenommen, dass es das älteste erhaltene niederländische Gebäude im Osten ist.",
       hu: "Történelmi épület Malakka város szívében. Úgy tartják, hogy ez a legrégebbi fennmaradt holland épület a Keleten.",
@@ -307,9 +299,8 @@ image: "/poi-images/stadthuys-history-v2.webp"
       de: "Alter Istana Negara",
       hu: "Régi Istana Negara",
       ro: "Vechiul Istana Negara",
-      en: "Old Istana Negara",
-image: "/poi-images/istana-negara-lama-history-v2.webp"
-},
+      en: "Old Istana Negara"},
+    image: "/poi-images/istana-negara-lama-history-v2.webp",
     description: {
       de: "Die ehemalige offizielle Residenz des Yang di-Pertuan Agong (König von Malaysia). Es ist heute das Königliche Museum.",
       hu: "A Yang di-Pertuan Agong (Malajzia királya) egykori hivatalos rezidenciája. Ma a Királyi Múzeum.",
@@ -344,9 +335,8 @@ image: "/poi-images/istana-negara-lama-history-v2.webp"
       de: "Sun-Yat-sen-Museum Penang",
       hu: "Sun Yat-sen Múzeum, Penang",
       ro: "Muzeul Sun Yat-sen Penang",
-      en: "Sun Yat-sen Museum Penang",
-image: "/poi-images/sun-yat-sen-museum-penang-history-v2.webp"
-},
+      en: "Sun Yat-sen Museum Penang"},
+    image: "/poi-images/sun-yat-sen-museum-penang-history-v2.webp",
     description: {
       de: "Ein Museum in George Town, das dem Leben und Werk von Sun Yat-sen in Penang gewidmet ist. Hier plante er den entscheidenden Aufstand von 1911.",
       hu: "Egy múzeum George Townban, amely Sun Yat-sen penangi életét és munkásságát mutatja be. Itt tervezte meg a sorsdöntő 1911-es felkelést.",
@@ -381,9 +371,8 @@ image: "/poi-images/sun-yat-sen-museum-penang-history-v2.webp"
       de: "Fort Margherita",
       hu: "Margherita erőd",
       ro: "Fort Margherita",
-      en: "Fort Margherita",
-image: "/poi-images/fort-margherita-history-v2.webp"
-},
+      en: "Fort Margherita"},
+    image: "/poi-images/fort-margherita-history-v2.webp",
     description: {
       de: "Eine alte Festung in Kuching, Sarawak. Sie wurde gebaut, um Kuching vor Piratenangriffen zu schützen.",
       hu: "Régi erőd Kuchingban, Sarawakban. Azért épült, hogy megvédje Kuchingot a kalóztámadásoktól.",
@@ -418,9 +407,8 @@ image: "/poi-images/fort-margherita-history-v2.webp"
       de: "Denkmal des Bukit-Kepong-Vorfalls",
       hu: "A Bukit Kepong-i incidens emlékműve",
       ro: "Monumentul Incidentului Bukit Kepong",
-      en: "Bukit Kepong Incident Monument",
-image: "/poi-images/bukit-kepong-incident-monument-history-v2.webp"
-},
+      en: "Bukit Kepong Incident Monument"},
+    image: "/poi-images/bukit-kepong-incident-monument-history-v2.webp",
     description: {
       de: "Ein Denkmal, das an eine bewaffnete Auseinandersetzung zwischen der malaiischen Polizei und kommunistischen Guerillas während des malaiischen Notstands erinnert.",
       hu: "Emlékmű, amely a maláj rendőrség és a kommunista gerillák közötti fegyveres összecsapásnak állít emléket a maláj vészhelyzet idején.",
@@ -455,9 +443,8 @@ image: "/poi-images/bukit-kepong-incident-monument-history-v2.webp"
       de: "Cheng-Hoon-Teng-Tempel",
       hu: "Cheng Hoon Teng templom",
       ro: "Templul Cheng Hoon Teng",
-      en: "Cheng Hoon Teng Temple",
-image: "/poi-images/cheng-hoon-teng-temple-history-v2.webp"
-},
+      en: "Cheng Hoon Teng Temple"},
+    image: "/poi-images/cheng-hoon-teng-temple-history-v2.webp",
     description: {
       de: "Ein chinesischer Tempel in Malakka-Stadt, der die drei Lehren des Taoismus, Konfuzianismus und Buddhismus praktiziert. Es ist der älteste funktionierende Tempel in Malaysia.",
       hu: "Kínai templom Malakka városában, amely a taoizmus, a konfucianizmus és a buddhizmus három tanát gyakorolja. Ez a legrégebbi működő templom Malajziában.",
@@ -492,9 +479,8 @@ image: "/poi-images/cheng-hoon-teng-temple-history-v2.webp"
       de: "Dataran Merdeka (Unabhängigkeitsplatz)",
       hu: "Dataran Merdeka (Függetlenség tere)",
       ro: "Dataran Merdeka (Piața Independenței)",
-      en: "Dataran Merdeka (Independence Square)",
-image: "/poi-images/dataran-merdeka-history-v2.webp"
-},
+      en: "Dataran Merdeka (Independence Square)"},
+    image: "/poi-images/dataran-merdeka-history-v2.webp",
     description: {
       de: "Ein Platz in Kuala Lumpur. Hier wurde am 31. August 1957 die malaiische Flagge gehisst, um die Unabhängigkeit von der britischen Herrschaft zu symbolisieren.",
       hu: "Egy tér Kuala Lumpurban. Itt vonták fel a maláj zászlót 1957. augusztus 31-én, jelezve a brit uralom alóli függetlenséget.",
@@ -529,9 +515,8 @@ image: "/poi-images/dataran-merdeka-history-v2.webp"
       de: "Archäologische Stätte Niah-Höhlen",
       hu: "Niah-barlangok régészeti lelőhely",
       ro: "Situl Arheologic Peșterile Niah",
-      en: "Niah Caves Archaeological Site",
-image: "/poi-images/niah-caves-archaeological-site-history-v2.webp"
-},
+      en: "Niah Caves Archaeological Site"},
+    image: "/poi-images/niah-caves-archaeological-site-history-v2.webp",
     description: {
       de: "Ein bedeutender archäologischer Fundort in Sarawak, an dem menschliche Überreste aus der Zeit vor 40.000 Jahren gefunden wurden, bekannt als 'Deep Skull'.",
       hu: "Jelentős régészeti lelőhely Sarawakban, ahol 40 000 évvel ezelőttről származó emberi maradványokat, az úgynevezett 'Mély Koponyát' találták meg.",
@@ -566,9 +551,8 @@ image: "/poi-images/niah-caves-archaeological-site-history-v2.webp"
       de: "Kampung-Kling-Moschee",
       hu: "Kampung Kling mecset",
       ro: "Moscheea Kampung Kling",
-      en: "Kampung Kling Mosque",
-image: "/poi-images/kampung-kling-mosque-history-v2.webp"
-},
+      en: "Kampung Kling Mosque"},
+    image: "/poi-images/kampung-kling-mosque-history-v2.webp",
     description: {
       de: "Eine alte Moschee in Malakka-Stadt. Sie ist ein Beispiel für die einzigartige malaiische Architektur mit javanischen und orientalischen Einflüssen.",
       hu: "Régi mecset Malakka városában. A jávai és keleti hatásokat mutató egyedi maláj építészet egyik példája.",
@@ -603,9 +587,8 @@ image: "/poi-images/kampung-kling-mosque-history-v2.webp"
       de: "Merdeka-Stadion",
       hu: "Merdeka Stadion",
       ro: "Stadionul Merdeka",
-      en: "Merdeka Stadium",
-image: "/poi-images/merdeka-stadium-history-v2.webp"
-},
+      en: "Merdeka Stadium"},
+    image: "/poi-images/merdeka-stadium-history-v2.webp",
     description: {
       de: "Der historische Ort, an dem die Unabhängigkeitserklärung der Föderation Malaya am 31. August 1957 offiziell verkündet wurde.",
       hu: "A történelmi helyszín, ahol 1957. augusztus 31-én hivatalosan kikiáltották a Maláj Föderáció függetlenségi nyilatkozatát.",
@@ -640,9 +623,8 @@ image: "/poi-images/merdeka-stadium-history-v2.webp"
       de: "Schlacht von Penang",
       hu: "Penangi csata helyszíne",
       ro: "Locul Bătăliei de la Penang",
-      en: "Battle of Penang Site",
-image: "/poi-images/battle-of-penang-site-history-v2.webp"
-},
+      en: "Battle of Penang Site"},
+    image: "/poi-images/battle-of-penang-site-history-v2.webp",
     description: {
       de: "Eine Seeschlacht des Ersten Weltkriegs, die am 28. Oktober 1914 im Hafen von Penang stattfand. Der deutsche Kreuzer SMS Emden griff alliierte Kriegsschiffe an.",
       hu: "Az első világháború tengeri csatája, amelyet 1914. október 28-án vívtak Penang kikötőjében. Az SMS Emden német cirkáló szövetséges hadihajókat támadott meg.",
@@ -677,9 +659,8 @@ image: "/poi-images/battle-of-penang-site-history-v2.webp"
       de: "Agnes-Keith-Haus",
       hu: "Agnes Keith-ház",
       ro: "Casa Agnes Keith",
-      en: "Agnes Keith House",
-image: "/poi-images/agnes-keith-house-history-v2.webp"
-},
+      en: "Agnes Keith House"},
+    image: "/poi-images/agnes-keith-house-history-v2.webp",
     description: {
       de: "Ein historisches Haus in Sandakan, Sabah. Es war die Heimat der amerikanischen Autorin Agnes Newton Keith, die über ihr Leben in Nord-Borneo schrieb.",
       hu: "Történelmi ház Sandakanban, Sabahban. Az amerikai írónő, Agnes Newton Keith otthona volt, aki az észak-borneói életéről írt.",
@@ -714,9 +695,8 @@ image: "/poi-images/agnes-keith-house-history-v2.webp"
       de: "Sultan-Abdul-Samad-Gebäude",
       hu: "Sultan Abdul Samad épület",
       ro: "Clădirea Sultan Abdul Samad",
-      en: "Sultan Abdul Samad Building",
-image: "/poi-images/sultan-abdul-samad-building-history-v2.webp"
-},
+      en: "Sultan Abdul Samad Building"},
+    image: "/poi-images/sultan-abdul-samad-building-history-v2.webp",
     description: {
       de: "Ein Gebäude aus dem späten 19. Jahrhundert am Dataran Merdeka in Kuala Lumpur. Es beherbergte ursprünglich die Büros der britischen Kolonialverwaltung.",
       hu: "Egy 19. század végi épület Kuala Lumpur-i Dataran Merdekán. Eredetileg a brit gyarmati közigazgatás irodáinak adott otthont.",

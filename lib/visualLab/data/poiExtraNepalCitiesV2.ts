@@ -10,9 +10,8 @@ export const poiExtraNepalCitiesV2: POI[] = [
       de: "Ghorahi",
       hu: "Ghorahi",
       ro: "Ghorahi",
-      en: "Ghorahi",
-image: "/poi-images/ghorahi-cities-v2.webp"
-},
+      en: "Ghorahi"},
+    image: "/poi-images/ghorahi-cities-v2.webp",
     description: {
       de: "Ghorahi ist eine der größten Städte im Dang-Tal und ein wichtiges Handels- und Bildungszentrum in der Provinz Lumbini. Die Stadt ist bekannt für ihre vielfältige Bevölkerung und dient als Tor zu den westlichen Hügelregionen.",
       hu: "Ghorahi a Dang-völgy egyik legnagyobb városa, a Lumbini tartomány fontos kereskedelmi és oktatási központja. A város sokszínű lakosságáról ismert, és kapuként szolgál a nyugati dombvidékek felé.",
@@ -52,9 +51,8 @@ image: "/poi-images/ghorahi-cities-v2.webp"
       de: "Budhanilkantha",
       hu: "Budhanilkantha",
       ro: "Budhanilkantha",
-      en: "Budhanilkantha",
-image: "/poi-images/budhanilkantha-cities-v2.webp"
-},
+      en: "Budhanilkantha"},
+    image: "/poi-images/budhanilkantha-cities-v2.webp",
     description: {
       de: "Budhanilkantha ist eine Gemeinde am Fuße des Shivapuri-Hügels in Kathmandu, berühmt für ihren Tempel mit einer großen liegenden Statue des Gottes Vishnu. Es ist ein bedeutender Wallfahrtsort für Hindus.",
       hu: "Budhanilkantha egy település a Shivapuri-hegy lábánál Katmanduban, amely a nagy fekvő Visnu-szoborral rendelkező templomáról híres. Jelentős zarándokhely a hinduk számára.",
@@ -94,9 +92,8 @@ image: "/poi-images/budhanilkantha-cities-v2.webp"
       de: "Tarakeshwar",
       hu: "Tarakeshwar",
       ro: "Tarakeshwar",
-      en: "Tarakeshwar",
-image: "/poi-images/tarakeshwar-cities-v2.webp"
-},
+      en: "Tarakeshwar"},
+    image: "/poi-images/tarakeshwar-cities-v2.webp",
     description: {
       de: "Tarakeshwar ist eine Gemeinde im nordwestlichen Teil des Kathmandu-Tals. Sie ist eine sich schnell entwickelnde städtische Region mit einer Mischung aus Wohn- und Landwirtschaftsflächen.",
       hu: "Tarakeshwar egy település a Katmandu-völgy északnyugati részén. Ez egy gyorsan fejlődő városi régió, ahol a lakó- és mezőgazdasági területek keverednek.",
@@ -136,9 +133,8 @@ image: "/poi-images/tarakeshwar-cities-v2.webp"
       de: "Tilottama",
       hu: "Tilottama",
       ro: "Tilottama",
-      en: "Tilottama",
-image: "/poi-images/tilottama-cities-v2.webp"
-},
+      en: "Tilottama"},
+    image: "/poi-images/tilottama-cities-v2.webp",
     description: {
       de: "Tilottama ist eine schnell wachsende Stadt in der Provinz Lumbini, die für ihre saubere Umwelt und geplante Stadtentwicklung bekannt ist. Sie liegt zwischen den Städten Butwal und Siddharthanagar.",
       hu: "Tilottama egy gyorsan növekvő város a Lumbini tartományban, amely tiszta környezetéről és tervezett városfejlesztéséről ismert. Butwal és Siddharthanagar városok között helyezkedik el.",
@@ -178,9 +174,8 @@ image: "/poi-images/tilottama-cities-v2.webp"
       de: "Gokarneshwar",
       hu: "Gokarneshwar",
       ro: "Gokarneshwar",
-      en: "Gokarneshwar",
-image: "/poi-images/gokarneshwar-cities-v2.webp"
-},
+      en: "Gokarneshwar"},
+    image: "/poi-images/gokarneshwar-cities-v2.webp",
     description: {
       de: "Gokarneshwar liegt im nordöstlichen Teil des Kathmandu-Tals und ist bekannt für den heiligen Gokarneshwar-Mahadev-Tempel am Ufer des Bagmati-Flusses. Es ist ein wichtiges religiöses Zentrum.",
       hu: "Gokarneshwar a Katmandu-völgy északkeleti részén található, és a Bagmati folyó partján álló szent Gokarneshwar Mahadev templomról ismert. Fontos vallási központ.",
@@ -220,9 +215,8 @@ image: "/poi-images/gokarneshwar-cities-v2.webp"
       de: "Kalaiya",
       hu: "Kalaiya",
       ro: "Kalaiya",
-      en: "Kalaiya",
-image: "/poi-images/kalaiya-cities-v2.webp"
-},
+      en: "Kalaiya"},
+    image: "/poi-images/kalaiya-cities-v2.webp",
     description: {
       de: "Kalaiya ist die Hauptstadt des Distrikts Bara in der Provinz Madhesh. Es ist ein wichtiges landwirtschaftliches Handelszentrum in der zentralen Terai-Region.",
       hu: "Kalaiya a Bara kerület fővárosa a Madhesh tartományban. Fontos mezőgazdasági kereskedelmi központ a központi Terai régióban.",
@@ -262,9 +256,8 @@ image: "/poi-images/kalaiya-cities-v2.webp"
       de: "Suryabinayak",
       hu: "Suryabinayak",
       ro: "Suryabinayak",
-      en: "Suryabinayak",
-image: "/poi-images/suryabinayak-cities-v2.webp"
-},
+      en: "Suryabinayak"},
+    image: "/poi-images/suryabinayak-cities-v2.webp",
     description: {
       de: "Suryabinayak ist eine Gemeinde östlich von Kathmandu und Teil von Bhaktapur. Die Stadt ist bekannt für den Suryabinayak-Tempel, einen wichtigen Schrein, der dem Gott Ganesha gewidmet ist.",
       hu: "Suryabinayak egy település Katmandutól keletre, Bhaktapur része. A város a Suryabinayak templomról ismert, amely egy fontos, Ganesha istennek szentelt szentély.",
@@ -304,9 +297,8 @@ image: "/poi-images/suryabinayak-cities-v2.webp"
       de: "Chandragiri",
       hu: "Chandragiri",
       ro: "Chandragiri",
-      en: "Chandragiri",
-image: "/poi-images/chandragiri-cities-v2.webp"
-},
+      en: "Chandragiri"},
+    image: "/poi-images/chandragiri-cities-v2.webp",
     description: {
       de: "Chandragiri ist eine Gemeinde südwestlich von Kathmandu, bekannt für den Chandragiri-Hügel, der einen Panoramablick auf den Himalaya bietet. Eine Seilbahn führt auf den Gipfel zum Bhaleshwar-Mahadev-Tempel.",
       hu: "Chandragiri egy település Katmandutól délnyugatra, amely a Chandragiri-hegyről ismert, ahonnan panorámás kilátás nyílik a Himalájára. Egy felvonó visz fel a csúcsra a Bhaleshwar Mahadev templomhoz.",
@@ -346,9 +338,8 @@ image: "/poi-images/chandragiri-cities-v2.webp"
       de: "Tokha",
       hu: "Tokha",
       ro: "Tokha",
-      en: "Tokha",
-image: "/poi-images/tokha-cities-v2.webp"
-},
+      en: "Tokha"},
+    image: "/poi-images/tokha-cities-v2.webp",
     description: {
       de: "Tokha ist eine historische Newar-Stadt nördlich von Kathmandu, die für ihre traditionelle Kultur und die Herstellung von 'Chaku', einer Melasse-Süßigkeit, bekannt ist.",
       hu: "Tokha egy történelmi newar város Katmandutól északra, amely hagyományos kultúrájáról és a 'chaku', egy melaszos édesség készítéséről ismert.",
@@ -388,9 +379,8 @@ image: "/poi-images/tokha-cities-v2.webp"
       de: "Kageshwari-Manohara",
       hu: "Kageshwari-Manohara",
       ro: "Kageshwari-Manohara",
-      en: "Kageshwari-Manohara",
-image: "/poi-images/kageshwari-manohara-cities-v2.webp"
-},
+      en: "Kageshwari-Manohara"},
+    image: "/poi-images/kageshwari-manohara-cities-v2.webp",
     description: {
       de: "Diese Gemeinde im Kathmandu-Tal wurde durch den Zusammenschluss mehrerer kleinerer Dörfer gebildet. Sie liegt entlang des Manohara-Flusses und ist eine Mischung aus städtischem und ländlichem Leben.",
       hu: "Ez a Katmandu-völgyi település több kisebb falu egyesülésével jött létre. A Manohara folyó mentén fekszik, és a városi és vidéki élet keveréke.",
@@ -430,9 +420,8 @@ image: "/poi-images/kageshwari-manohara-cities-v2.webp"
       de: "Bhimdatta",
       hu: "Bhimdatta",
       ro: "Bhimdatta",
-      en: "Bhimdatta",
-image: "/poi-images/bhimdatta-cities-v2.webp"
-},
+      en: "Bhimdatta"},
+    image: "/poi-images/bhimdatta-cities-v2.webp",
     description: {
       de: "Bhimdatta, allgemein bekannt als Mahendranagar, ist eine wichtige Handelsstadt im äußersten Westen Nepals, nahe der Grenze zu Indien. Sie dient als Tor zum Shuklaphanta-Nationalpark.",
       hu: "A Bhimdattaként is ismert Mahendranagar egy fontos kereskedelmi város Nepál távol-nyugati részén, közel az indiai határhoz. A Shuklaphanta Nemzeti Park kapujaként szolgál.",
@@ -472,9 +461,8 @@ image: "/poi-images/bhimdatta-cities-v2.webp"
       de: "Mahalaxmi",
       hu: "Mahalaxmi",
       ro: "Mahalaxmi",
-      en: "Mahalaxmi",
-image: "/poi-images/mahalaxmi-cities-v2.webp"
-},
+      en: "Mahalaxmi"},
+    image: "/poi-images/mahalaxmi-cities-v2.webp",
     description: {
       de: "Mahalaxmi ist eine Gemeinde im Distrikt Lalitpur, die an Kathmandu angrenzt. Sie ist eine sich schnell urbanisierende Region mit einer wachsenden Bevölkerung.",
       hu: "Mahalaxmi egy település a Lalitpur kerületben, amely Katmanduval határos. Gyorsan urbanizálódó régió, növekvő népességgel.",
@@ -514,9 +502,8 @@ image: "/poi-images/mahalaxmi-cities-v2.webp"
       de: "Madhyapur Thimi",
       hu: "Madhyapur Thimi",
       ro: "Madhyapur Thimi",
-      en: "Madhyapur Thimi",
-image: "/poi-images/madhyapur-thimi-cities-v2.webp"
-},
+      en: "Madhyapur Thimi"},
+    image: "/poi-images/madhyapur-thimi-cities-v2.webp",
     description: {
       de: "Madhyapur Thimi ist eine historische Newar-Stadt im Kathmandu-Tal, die für ihre Töpferkunst und traditionellen Feste bekannt ist. Sie liegt zentral zwischen Kathmandu, Lalitpur und Bhaktapur.",
       hu: "Madhyapur Thimi egy történelmi newar város a Katmandu-völgyben, amely fazekasságáról és hagyományos fesztiváljairól ismert. Központi helyen fekszik Katmandu, Lalitpur és Bhaktapur között.",
@@ -556,9 +543,8 @@ image: "/poi-images/madhyapur-thimi-cities-v2.webp"
       de: "Jitpursimara",
       hu: "Jitpursimara",
       ro: "Jitpursimara",
-      en: "Jitpursimara",
-image: "/poi-images/jitpursimara-cities-v2.webp"
-},
+      en: "Jitpursimara"},
+    image: "/poi-images/jitpursimara-cities-v2.webp",
     description: {
       de: "Jitpursimara ist eine Sub-Metropole in der Provinz Madhesh. Simara verfügt über einen wichtigen Inlandsflughafen, der als einer der Hauptzugänge nach Kathmandu auf dem Luftweg dient.",
       hu: "Jitpursimara egy al-metropolisz a Madhesh tartományban. Simara egy fontos belföldi repülőtérrel rendelkezik, amely Katmandu egyik fő légi kapujaként szolgál.",
@@ -598,9 +584,8 @@ image: "/poi-images/jitpursimara-cities-v2.webp"
       de: "Birtamod",
       hu: "Birtamod",
       ro: "Birtamod",
-      en: "Birtamod",
-image: "/poi-images/birtamod-cities-v2.webp"
-},
+      en: "Birtamod"},
+    image: "/poi-images/birtamod-cities-v2.webp",
     description: {
       de: "Birtamod ist ein schnell wachsendes Handelszentrum im Distrikt Jhapa in Ostnepal. Es liegt am Mahendra Highway und ist ein wichtiger Verkehrsknotenpunkt der Region.",
       hu: "Birtamod egy gyorsan növekvő kereskedelmi központ a Jhapa kerületben, Kelet-Nepálban. A Mahendra autópálya mentén fekszik, és a régió fontos közlekedési csomópontja.",
@@ -640,9 +625,8 @@ image: "/poi-images/birtamod-cities-v2.webp"
       de: "Nagarjun",
       hu: "Nagarjun",
       ro: "Nagarjun",
-      en: "Nagarjun",
-image: "/poi-images/nagarjun-cities-v2.webp"
-},
+      en: "Nagarjun"},
+    image: "/poi-images/nagarjun-cities-v2.webp",
     description: {
       de: "Nagarjun ist eine Gemeinde, die den Nagarjun-Wald umfasst, einen Teil des Shivapuri-Nagarjun-Nationalparks. Es ist ein wichtiges städtisches Waldgebiet für das Kathmandu-Tal.",
       hu: "Nagarjun egy település, amely magában foglalja a Nagarjun-erdőt, a Shivapuri-Nagarjun Nemzeti Park részét. Ez egy fontos városi erdőterület a Katmandu-völgy számára.",
@@ -682,9 +666,8 @@ image: "/poi-images/nagarjun-cities-v2.webp"
       de: "Lahan",
       hu: "Lahan",
       ro: "Lahan",
-      en: "Lahan",
-image: "/poi-images/lahan-cities-v2.webp"
-},
+      en: "Lahan"},
+    image: "/poi-images/lahan-cities-v2.webp",
     description: {
       de: "Lahan ist eine Stadt im Distrikt Siraha und ein wichtiger Markt in der Provinz Madhesh. Sie liegt am Mahendra Highway und ist bekannt für ihr medizinisches Institut und ihr pulsierendes Geschäftsleben.",
       hu: "Lahan egy város a Siraha kerületben és egy fontos piac a Madhesh tartományban. A Mahendra autópálya mentén fekszik, és orvosi intézetéről, valamint pezsgő üzleti életéről ismert.",
@@ -696,7 +679,20 @@ image: "/poi-images/lahan-cities-v2.webp"
       hu: ["Fontos piac a régióban", "Sagarmatha Choudhary Szemkórház", "Lakossága több mint 102 000", "A Siraha kerületben található"],
       ro: ["Piață importantă în regiune", "Spitalul de ochi Sagarmatha Choudhary", "Populație de peste 102.000", "Situat în districtul Siraha"],
       en: ["Major market in the region", "Sagarmatha Choudhary Eye Hospital", "Population over 102,000", "Located in Siraha District"]
-    }, image: "/poi-images/lahan-cities-v2.webp"},
+    }, image: "/poi-images/lahan-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Lahan ist eine Stadt im Terai Nepals, im Distrikt Siraha. Sie liegt in der östlichen Region des Landes und hat eine Bevölkerung von etwa 80.000. Lahan ist ein wichtiges Handelszentrum für landwirtschaftliche Produkte wie Reis, Mais und Gemüse. Die Stadt verfügt über einen Bahnhof an der Nepal Railways-Linie, die bis nach Jaynagar in Indien führt. Lahan ist bekannt für seine multikulturelle Bevölkerung mit Gruppen wie Maithili, Tharu und anderen. Die Wirtschaft wird von Kleinunternehmen und der Landwirtschaft dominiert. Die Stadt hat mehrere Bildungseinrichtungen, darunter das Lahan College. Das Klima ist subtropisch mit heißen Sommern und kühlen Wintern.",
+      hu: "Lahan város Nepál terai vidékén, Siraha körzetben. Lakossága 80 000 fő. Fontos mezőgazdasági kereskedelmi központ: rizs, kukorica, zöldség. Vasútállomással rendelkezik (Nepál vasút), amely Indiába vezet. Multikulturális: maithili, tharu stb. Gazdaság: kisvállalkozások, mezőgazdaság. Oktatás: Lahan College. Klíma: szubtrópusi.",
+      ro: "Lahan este un oraș în Terai, Nepal, în districtul Siraha, cu o populație de aproximativ 80.000 de locuitori. Este un centru comercial pentru produse agricole precum orez, porumb și legume. Are o gară pe linia de cale ferată Nepal Railways, care leagă de Jaynagar, India. Populația diversă include grupuri Maithili, Tharu etc. Economia se bazează pe comerț și agricultură. Dispune de instituții de învățământ, inclusiv Lahan College. Clima este subtropicală.",
+      en: "Lahan is a city in the Terai region of Nepal, in Siraha District, with a population of around 80,000. It serves as a major trading hub for agricultural products like rice, maize, and vegetables. The city has a railway station on the Nepal Railways line, connecting to Jaynagar, India. Lahan is known for its multicultural population, including Maithili, Tharu, and other groups. The economy is dominated by small businesses and farming. It hosts educational institutions such as Lahan College. The climate is subtropical with hot summers and cool winters.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Lahan beträgt etwa 80.000.", "Lahan liegt auf einer Höhe von 90 Metern über dem Meeresspiegel.", "Der Bahnhof Lahan ist Teil der 5 km langen Linie nach Indien.", "Die Stadt hat eine Fläche von 30 Quadratkilometern.", "Die Maithili-Sprache wird von 70% der Bevölkerung gesprochen.", "Lahan produziert jährlich 10.000 Tonnen Reis."],
+      hu: ["Lahan lakossága 80 000 fő.", "A város 90 m tengerszint feletti magasságban fekszik.", "A vasútállomás része az India felé vezető 5 km-es vonalnak.", "Területe 30 km².", "A maithili nyelvet a lakosság 70%-a beszéli.", "Évente 10 000 tonna rizst termelnek."],
+      ro: ["Populația Lahanei este de circa 80.000.", "Altitudinea orașului este de 90 m.", "Gara Lahan face parte din linia de 5 km către India.", "Suprafața orașului este de 30 km².", "Limba maithili este vorbită de 70% din populație.", "Producția anuală de orez este de 10.000 tone."],
+      en: ["Lahan's population is about 80,000.", "Altitude is 90 m above sea level.", "The railway station is part of a 5 km line to India.", "City area is 30 km².", "Maithili language is spoken by 70% of the population.", "Annual rice production is 10,000 tons."],
+    },
+  },
   {
     id: "triyuga-cities-v2",
     type: "city",
@@ -706,9 +702,8 @@ image: "/poi-images/lahan-cities-v2.webp"
       de: "Triyuga",
       hu: "Triyuga",
       ro: "Triyuga",
-      en: "Triyuga",
-image: "/poi-images/triyuga-cities-v2.webp"
-},
+      en: "Triyuga"},
+    image: "/poi-images/triyuga-cities-v2.webp",
     description: {
       de: "Triyuga, mit ihrem Zentrum in Gaighat, ist die Hauptstadt des Distrikts Udayapur. Die Stadt liegt in einem Tal und ist ein wichtiges Zentrum für Handel und Verwaltung in der Region.",
       hu: "Triyuga, amelynek központja Gaighatban van, az Udayapur kerület fővárosa. A város egy völgyben fekszik, és a régió fontos kereskedelmi és közigazgatási központja.",
@@ -720,7 +715,20 @@ image: "/poi-images/triyuga-cities-v2.webp"
       hu: ["Az Udayapur kerület fővárosa", "Központja Gaighat", "Növekvő kereskedelmi központ", "Lakossága több mint 102 000"],
       ro: ["Capitala districtului Udayapur", "Centrul este Gaighat", "Centru comercial în creștere", "Populație de peste 102.000"],
       en: ["Headquarters of Udayapur District", "Center is Gaighat", "Growing commercial hub", "Population over 102,000"]
-    }, image: "/poi-images/triyuga-cities-v2.webp"},
+    }, image: "/poi-images/triyuga-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Triyuga (auch bekannt als Simara) ist eine Stadt im Distrikt Bara im zentral-südlichen Nepal. Sie liegt im Terai und hat eine Bevölkerung von etwa 100.000. Triyuga ist ein wichtiges Wirtschaftszentrum mit Industrien wie Zementproduktion, Textilien und Landwirtschaft. Die Stadt ist über den Tribhuvan Highway gut mit Kathmandu verbunden. Triyuga hat einen regionalen Flughafen (Simara Airport) mit Verbindungen nach Kathmandu. Die Bevölkerung ist ethnisch gemischt, mit einer starken Präsenz von Tharu- und Madhesi-Gruppen. Das Klima ist tropisch-monsunal. Die Stadt verfügt über medizinische Einrichtungen und ist ein Handelsplatz für Agrarprodukte.",
+      hu: "Triyuga (Simara) város Nepál déli részén, Bara körzetben. Lakossága 100 000. Gazdasági központ: cementgyártás, textilipar, mezőgazdaság. Tribhuvan autópálya köti össze Kathmanduval. Repülőtér (Simara). Etnikailag vegyes: tharu, madhesi. Klíma: trópusi-monszun. Egészségügyi intézmények. Mezőgazdasági kereskedelem.",
+      ro: "Triyuga (cunoscut și ca Simara) este un oraș în districtul Bara, sudul Nepalului, cu o populație de aproximativ 100.000. Este un centru economic important, cu industrii de ciment, textile și agricultură. Este conectat la Kathmandu prin Autostrada Tribhuvan. Orașul are un aeroport regional (Simara). Populația este mixtă, incluzând Tharu și Madhesi. Clima este tropical-musonică. Dispune de facilități medicale și este un centru comercial agricol.",
+      en: "Triyuga (also called Simara) is a city in Bara District, south-central Nepal, with a population of about 100,000. It is a major economic hub, hosting industries like cement production, textiles, and agriculture. The city is connected to Kathmandu via the Tribhuvan Highway and has a regional airport (Simara Airport). The population is ethnically diverse, with Tharu and Madhesi communities. The climate is tropical monsoon. Triyuga has medical facilities and serves as a trading center for agricultural goods.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Triyuga beträgt etwa 100.000.", "Der Simara Airport liegt auf 135 Metern Höhe.", "Die Zementproduktion der Stadt beträgt 500.000 Tonnen pro Jahr.", "Triyuga ist 20 Kilometer von der indischen Grenze entfernt.", "Der Tribhuvan Highway ist 160 Kilometer lang.", "Die Stadt hat eine Fläche von 40 Quadratkilometern."],
+      hu: ["Triyuga lakossága 100 000 fő.", "A Simara repülőtér 135 m magasan fekszik.", "A cementtermelés évi 500 000 tonna.", "A város 20 km-re van az indiai határtól.", "A Tribhuvan autópálya 160 km hosszú.", "A város területe 40 km²."],
+      ro: ["Populația Triyuga este de aproximativ 100.000.", "Aeroportul Simara este la 135 m altitudine.", "Producția de ciment este de 500.000 tone anual.", "Orașul se află la 20 km de granița cu India.", "Autostrada Tribhuvan are 160 km lungime.", "Suprafața orașului este de 40 km²."],
+      en: ["Triyuga's population is about 100,000.", "Simara Airport is at 135 m elevation.", "Cement production is 500,000 tons per year.", "The city is 20 km from the Indian border.", "Tribhuvan Highway is 160 km long.", "City area is 40 km²."],
+    },
+  },
   {
     id: "kohalpur-cities-v2",
     type: "city",
@@ -730,9 +738,8 @@ image: "/poi-images/triyuga-cities-v2.webp"
       de: "Kohalpur",
       hu: "Kohalpur",
       ro: "Kohalpur",
-      en: "Kohalpur",
-image: "/poi-images/kohalpur-cities-v2.webp"
-},
+      en: "Kohalpur"},
+    image: "/poi-images/kohalpur-cities-v2.webp",
     description: {
       de: "Kohalpur ist eine schnell wachsende Gemeinde im Distrikt Banke und ein wichtiger Verkehrsknotenpunkt, der den Ost-West-Mahendra-Highway mit der nach Norden führenden Karnali-Autobahn verbindet.",
       hu: "Kohalpur egy gyorsan növekvő település a Banke kerületben, és fontos közlekedési csomópont, amely összeköti a kelet-nyugati Mahendra autópályát az északra vezető Karnali autópályával.",
@@ -744,7 +751,20 @@ image: "/poi-images/kohalpur-cities-v2.webp"
       hu: ["Fontos közlekedési csomópont", "A Banke kerületben található", "Gyors népességnövekedés", "Lakossága több mint 100 000"],
       ro: ["Nod de transport important", "Situat în districtul Banke", "Creștere rapidă a populației", "Populație de peste 100.000"],
       en: ["Major transportation junction", "Located in Banke District", "Rapid population growth", "Population over 100,000"]
-    }, image: "/poi-images/kohalpur-cities-v2.webp"},
+    }, image: "/poi-images/kohalpur-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kohalpur ist eine Stadt im Distrikt Banke in West-Nepal, nahe der Grenze zu Indien. Sie liegt im Terai und hat eine Bevölkerung von etwa 80.000. Kohalpur ist ein wichtiger Verkehrsknotenpunkt, da hier der Mahendra Highway (Ost-West-Autobahn) und die Verbindung nach Nepalgunj kreuzen. Die Wirtschaft basiert auf Landwirtschaft (Reis, Weizen) und Handel. Die Stadt hat mehrere Bildungseinrichtungen und ein Krankenhaus. Kohalpur ist bekannt für seine religiöse Vielfalt mit Hindu-Tempeln und Moscheen. Das Klima ist subtropisch mit heißen Sommern. Die Stadt wächst als Vorort von Nepalgunj.",
+      hu: "Kohalpur város Nyugat-Nepálban, Banke körzetben, India határa közelében. Lakossága 80 000. Fontos közlekedési csomópont: Mahendra autópálya és Nepalgunj felé. Gazdaság: mezőgazdaság (rizs, búza) és kereskedelem. Iskolák, kórház. Vallási sokszínűség: hindu templomok, mecsetek. Klíma: szubtrópusi. Növekvő elővárosa Nepalgunjnak.",
+      ro: "Kohalpur este un oraș în districtul Banke, vestul Nepalului, aproape de granița cu India, cu o populație de circa 80.000. Este un nod de transport, unde se intersectează Autostrada Mahendra și drumul către Nepalgunj. Economia se bazează pe agricultură (orez, grâu) și comerț. Are școli și un spital. Diversitate religioasă cu temple hinduse și moschei. Clima subtropicală. Crește ca suburbie a Nepalgunj.",
+      en: "Kohalpur is a city in Banke District, western Nepal, near the Indian border, with a population of around 80,000. It is a major transport hub, where the Mahendra Highway (east-west highway) meets the road to Nepalgunj. The economy relies on agriculture (rice, wheat) and trade. The city hosts several schools and a hospital. It is known for religious diversity, with Hindu temples and mosques. The climate is subtropical. Kohalpur is growing as a suburban area of Nepalgunj.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Kohalpur beträgt etwa 80.000.", "Kohalpur liegt auf 150 Metern Höhe.", "Der Mahendra Highway ist 1.027 Kilometer lang.", "Die Entfernung zur indischen Grenze beträgt 5 Kilometer.", "Die Stadt hat eine Fläche von 25 Quadratkilometern.", "Kohalpur produziert jährlich 5.000 Tonnen Weizen."],
+      hu: ["Kohalpur lakossága 80 000 fő.", "A város 150 m magasan fekszik.", "A Mahendra autópálya hossza 1027 km.", "Az indiai határ 5 km-re van.", "A város területe 25 km².", "Évente 5000 tonna búzát termelnek."],
+      ro: ["Populația Kohalpur este de aproximativ 80.000.", "Altitudinea orașului este de 150 m.", "Autostrada Mahendra are 1.027 km lungime.", "Distanța până la granița indiană este de 5 km.", "Suprafața orașului este de 25 km².", "Producția anuală de grâu este de 5.000 tone."],
+      en: ["Kohalpur's population is about 80,000.", "Altitude is 150 m.", "Mahendra Highway is 1,027 km long.", "Distance to Indian border is 5 km.", "City area is 25 km².", "Annual wheat production is 5,000 tons."],
+    },
+  },
   {
     id: "tikapur-cities-v2",
     type: "city",
@@ -754,9 +774,8 @@ image: "/poi-images/kohalpur-cities-v2.webp"
       de: "Tikapur",
       hu: "Tikapur",
       ro: "Tikapur",
-      en: "Tikapur",
-image: "/poi-images/tikapur-cities-v2.webp"
-},
+      en: "Tikapur"},
+    image: "/poi-images/tikapur-cities-v2.webp",
     description: {
       de: "Tikapur ist eine Gemeinde im Distrikt Kailali, die für ihren großen Park, den Tikapur Great Garden, bekannt ist, der als Erholungszentrum dient. Die Stadt ist auch ein landwirtschaftliches Zentrum.",
       hu: "Tikapur egy település a Kailali kerületben, amely nagy parkjáról, a Tikapur Nagy Kertről ismert, amely rekreációs központként szolgál. A város egyben mezőgazdasági központ is.",
@@ -768,7 +787,20 @@ image: "/poi-images/tikapur-cities-v2.webp"
       hu: ["Híres a Tikapur Nagy Kertről", "A Kailali kerületben található", "Mezőgazdasági központ", "Lakossága közel 90 000"],
       ro: ["Renumit pentru Grădina Mare Tikapur", "Situat în districtul Kailali", "Centru agricol", "Populație de aproape 90.000"],
       en: ["Famous for the Tikapur Great Garden", "Located in Kailali District", "Agricultural hub", "Population of nearly 90,000"]
-    }, image: "/poi-images/tikapur-cities-v2.webp"},
+    }, image: "/poi-images/tikapur-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tikapur ist eine Stadt im Distrikt Kailali in West-Nepal, im Terai gelegen. Sie hat eine Bevölkerung von etwa 40.000. Tikapur ist bekannt für den Tikapur Park, einen königlichen Jagdsitz, der heute ein beliebtes Ausflugsziel ist. Die Wirtschaft basiert auf Landwirtschaft (Reis, Mais) und dem wachsenden Tourismus. Die Stadt liegt in der Nähe des Karnali-Flusses, des längsten Flusses Nepals. Tikapur hat mehrere Schulen und ein Krankenhaus. Die Bevölkerung besteht hauptsächlich aus Tharu und anderen ethnischen Gruppen. Das Klima ist subtropisch mit starken Monsunregen. Die Stadt hat eine reiche Kultur mit traditionellen Festen.",
+      hu: "Tikapur város Nyugat-Nepálban, Kailali körzetben. Lakossága 40 000. Híres a Tikapur Parkról, egykori királyi vadászterület. Gazdaság: mezőgazdaság (rizs, kukorica) és turizmus. A Karnali folyó közelében. Iskolák, kórház. Etnikai csoportok: tharu. Klíma: szubtrópusi, erős monszun. Gazdag kulturális hagyományok.",
+      ro: "Tikapur este un oraș în districtul Kailali, vestul Nepalului, în Terai, cu o populație de aproximativ 40.000. Este cunoscut pentru Parcul Tikapur, un fost loc de vânătoare regal, acum destinație turistică. Economia se bazează pe agricultură (orez, porumb) și turismul în creștere. Orașul este situat lângă râul Karnali, cel mai lung râu din Nepal. Are școli și un spital. Populația este predominant Tharu. Clima subtropicală cu musoni puternici. Bogată cultură tradițională.",
+      en: "Tikapur is a city in Kailali District, western Nepal, in the Terai, with a population of about 40,000. It is known for Tikapur Park, a former royal hunting ground now a popular attraction. The economy relies on agriculture (rice, maize) and growing tourism. The city lies near the Karnali River, Nepal's longest river. Tikapur has several schools and a hospital. The population is largely Tharu and other ethnic groups. The climate is subtropical with heavy monsoon rains. The city has a rich cultural heritage with traditional festivals.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Tikapur beträgt etwa 40.000.", "Der Tikapur Park erstreckt sich über 10 Quadratkilometer.", "Die Stadt liegt auf 150 Metern Höhe.", "Der Karnali-Fluss ist 812 Kilometer lang.", "Die jährliche Niederschlagsmenge beträgt 1.800 Millimeter.", "Tikapur ist 10 Kilometer von der indischen Grenze entfernt."],
+      hu: ["Tikapur lakossága 40 000 fő.", "A Tikapur Park területe 10 km².", "A város 150 m magasan fekszik.", "A Karnali folyó hossza 812 km.", "Az éves csapadék 1800 mm.", "Az indiai határ 10 km-re van."],
+      ro: ["Populația Tikapur este de aproximativ 40.000.", "Parcul Tikapur se întinde pe 10 km².", "Altitudinea orașului este de 150 m.", "Râul Karnali are 812 km lungime.", "Precipitațiile anuale sunt de 1.800 mm.", "Distanța până la granița indiană este de 10 km."],
+      en: ["Tikapur's population is about 40,000.", "Tikapur Park covers 10 km².", "Altitude is 150 m.", "Karnali River is 812 km long.", "Annual rainfall is 1,800 mm.", "Distance to Indian border is 10 km."],
+    },
+  },
   {
     id: "siraha-cities-v2",
     type: "city",
@@ -778,9 +810,8 @@ image: "/poi-images/tikapur-cities-v2.webp"
       de: "Siraha",
       hu: "Siraha",
       ro: "Siraha",
-      en: "Siraha",
-image: "/poi-images/siraha-cities-v2.webp"
-},
+      en: "Siraha"},
+    image: "/poi-images/siraha-cities-v2.webp",
     description: {
       de: "Siraha ist die Hauptstadt des Distrikts Siraha in der Provinz Madhesh. Es ist ein historisches Zentrum mit vielen Tempeln und Teichen und ein wichtiger lokaler Marktplatz.",
       hu: "Siraha a Siraha kerület fővárosa a Madhesh tartományban. Történelmi központ, számos templommal és tóval, valamint fontos helyi piactér.",
@@ -792,7 +823,20 @@ image: "/poi-images/siraha-cities-v2.webp"
       hu: ["A Siraha kerület fővárosa", "Történelmi templomok és tavak", "Helyi piactér", "Lakossága több mint 87 000"],
       ro: ["Capitala districtului Siraha", "Temple și iazuri istorice", "Piață locală", "Populație de peste 87.000"],
       en: ["Headquarters of Siraha District", "Historical temples and ponds", "Local marketplace", "Population over 87,000"]
-    }, image: "/poi-images/siraha-cities-v2.webp"},
+    }, image: "/poi-images/siraha-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Siraha ist eine Stadt im östlichen Terai Nepals, Verwaltungssitz des gleichnamigen Distrikts. Sie hat eine Bevölkerung von etwa 70.000. Siraha ist ein landwirtschaftliches Zentrum mit Anbau von Reis, Jute, Zuckerrohr und Gemüse. Die Stadt hat einen Bahnhof an der Nepal Railways-Linie nach Indien. Siraha ist kulturell vielfältig mit Maithili- und Tharu-Bevölkerung. Die Wirtschaft umfasst auch kleine Industrien wie Reis- und Ölmühlen. Die Stadt hat mehrere Bildungseinrichtungen, darunter ein College. Das Klima ist subtropisch. Siraha ist bekannt für seine jährlichen Messen und religiösen Feste.",
+      hu: "Siraha város Kelet-Nepál terai vidékén, a Siraha körzet székhelye. Lakossága 70 000. Mezőgazdasági központ: rizs, juta, cukornád, zöldség. Vasútállomás (Nepál vasút Indiába). Multikulturális: maithili, tharu. Kisipar: rizs- és olajmalmok. Iskolák, főiskola. Klíma: szubtrópusi. Híres vásárok és vallási ünnepek.",
+      ro: "Siraha este un oraș în estul Terai-ului Nepal, reședința districtului Siraha, cu o populație de circa 70.000. Este un centru agricol pentru orez, jută, trestie de zahăr și legume. Are o gară pe linia Nepal Railways către India. Diversitate culturală Maithili și Tharu. Economia include mori de orez și ulei. Are colegii și școli. Clima subtropicală. Cunoscut pentru târguri anuale și festivaluri religioase.",
+      en: "Siraha is a city in eastern Terai, Nepal, the district headquarters of Siraha District, with a population of about 70,000. It is an agricultural center for rice, jute, sugarcane, and vegetables. The city has a railway station on the Nepal Railways line to India. Culturally diverse, with Maithili and Tharu communities. The economy includes small industries like rice and oil mills. Siraha has several educational institutions, including a college. The climate is subtropical. It is known for its annual fairs and religious festivals.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Siraha beträgt etwa 70.000.", "Siraha liegt auf 70 Metern Höhe.", "Die Nutzfläche für Zuckerrohr beträgt 5.000 Hektar.", "Der Bahnhof Siraha ist Teil der 30 km langen Strecke nach Jaynagar.", "Die Stadt hat eine Fläche von 20 Quadratkilometern.", "Die Juteproduktion beträgt 2.000 Tonnen jährlich."],
+      hu: ["Siraha lakossága 70 000 fő.", "A város 70 m magasan fekszik.", "A cukornád termőterülete 5000 hektár.", "A vasútállomás a Jaynagar felé vezető 30 km-es vonal része.", "A város területe 20 km².", "A juta termelés évi 2000 tonna."],
+      ro: ["Populația Siraha este de aproximativ 70.000.", "Altitudinea orașului este de 70 m.", "Suprafața cultivată cu trestie de zahăr este de 5.000 ha.", "Gara Siraha face parte din linia de 30 km către Jaynagar.", "Suprafața orașului este de 20 km².", "Producția de jută este de 2.000 tone anual."],
+      en: ["Siraha's population is about 70,000.", "Altitude is 70 m.", "Sugarcane area is 5,000 hectares.", "Railway station is part of a 30 km line to Jaynagar.", "City area is 20 km².", "Jute production is 2,000 tons per year."],
+    },
+  },
   {
     id: "inaruwa-cities-v2",
     type: "city",
@@ -802,9 +846,8 @@ image: "/poi-images/siraha-cities-v2.webp"
       de: "Inaruwa",
       hu: "Inaruwa",
       ro: "Inaruwa",
-      en: "Inaruwa",
-image: "/poi-images/inaruwa-cities-v2.webp"
-},
+      en: "Inaruwa"},
+    image: "/poi-images/inaruwa-cities-v2.webp",
     description: {
       de: "Inaruwa ist die Hauptstadt des Distrikts Sunsari in der Provinz Koshi. Die Stadt liegt in der Terai-Region und ist ein Verwaltungs- und Handelszentrum für die Umgebung.",
       hu: "Inaruwa a Sunsari kerület fővárosa a Koshi tartományban. A város a Terai régióban fekszik, és a környék közigazgatási és kereskedelmi központja.",
@@ -816,7 +859,20 @@ image: "/poi-images/inaruwa-cities-v2.webp"
       hu: ["A Sunsari kerület fővárosa", "Közigazgatási központ", "A Terai-alföldön fekszik", "Lakossága több mint 75 000"],
       ro: ["Capitala districtului Sunsari", "Centru administrativ", "Situat în câmpia Terai", "Populație de peste 75.000"],
       en: ["Headquarters of Sunsari District", "Administrative hub", "Located in the Terai plains", "Population over 75,000"]
-    }, image: "/poi-images/inaruwa-cities-v2.webp"},
+    }, image: "/poi-images/inaruwa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Inaruwa ist eine Stadt im Distrikt Sunsari im östlichen Terai Nepals. Sie hat eine Bevölkerung von etwa 50.000. Inaruwa ist ein landwirtschaftliches Zentrum mit Schwerpunkt auf Reis, Mais und Gemüse. Die Stadt liegt in der Nähe des Koshi-Flusses, eines der größten Flüsse Nepals, und ist bekannt für den Koshi-Tappu-Wildreservat. Inaruwa hat einen regionalen Markt und kleine Industrien. Die Bevölkerung besteht hauptsächlich aus Maithili- und Tharu-Gruppen. Die Stadt hat Schulen und ein Krankenhaus. Das Klima ist subtropisch. Inaruwa ist ein wichtiger Knotenpunkt für den Verkehr in der Region.",
+      hu: "Inaruwa város Kelet-Nepálban, Sunsari körzetben. Lakossága 50 000. Mezőgazdasági központ: rizs, kukorica, zöldség. A Koshi folyó közelében, a Koshi Tappu rezervátum mellett. Regionális piac, kisipar. Etnikum: maithili, tharu. Iskolák, kórház. Klíma: szubtrópusi. Közlekedési csomópont.",
+      ro: "Inaruwa este un oraș în districtul Sunsari, estul Terai-ului Nepal, cu o populație de aproximativ 50.000. Este un centru agricol (orez, porumb, legume). Situat lângă râul Koshi, aproape de Rezervația Koshi Tappu. Are o piață regională și industrii mici. Populația include grupuri Maithili și Tharu. Dispune de școli și un spital. Clima subtropicală. Este un nod important de transport în regiune.",
+      en: "Inaruwa is a city in Sunsari District, eastern Nepal Terai, with a population of about 50,000. It is an agricultural center for rice, maize, and vegetables. Located near the Koshi River and the Koshi Tappu Wildlife Reserve, the city has a regional market and small industries. The population is mainly Maithili and Tharu. Inaruwa has schools and a hospital. The climate is subtropical. It serves as a transport hub in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Inaruwa beträgt etwa 50.000.", "Inaruwa liegt auf 100 Metern Höhe.", "Der Koshi-Fluss ist 730 Kilometer lang.", "Das Koshi-Tappu-Wildreservat erstreckt sich über 175 Quadratkilometer.", "Die Stadt hat eine Fläche von 15 Quadratkilometern.", "Die Reisanbaufläche beträgt 10.000 Hektar."],
+      hu: ["Inaruwa lakossága 50 000 fő.", "A város 100 m magasan fekszik.", "A Koshi folyó hossza 730 km.", "A Koshi Tappu rezervátum területe 175 km².", "A város területe 15 km².", "A rizsföldek 10 000 hektárt tesznek ki."],
+      ro: ["Populația Inaruwa este de aproximativ 50.000.", "Altitudinea orașului este de 100 m.", "Râul Koshi are 730 km lungime.", "Rezervația Koshi Tappu acoperă 175 km².", "Suprafața orașului este de 15 km².", "Suprafața cultivată cu orez este de 10.000 ha."],
+      en: ["Inaruwa's population is about 50,000.", "Altitude is 100 m.", "Koshi River is 730 km long.", "Koshi Tappu Wildlife Reserve covers 175 km².", "City area is 15 km².", "Rice cultivation area is 10,000 hectares."],
+    },
+  },
   {
     id: "rajbiraj-cities-v2",
     type: "city",
@@ -826,9 +882,8 @@ image: "/poi-images/inaruwa-cities-v2.webp"
       de: "Rajbiraj",
       hu: "Rajbiraj",
       ro: "Rajbiraj",
-      en: "Rajbiraj",
-image: "/poi-images/rajbiraj-cities-v2.webp"
-},
+      en: "Rajbiraj"},
+    image: "/poi-images/rajbiraj-cities-v2.webp",
     description: {
       de: "Rajbiraj ist die Hauptstadt des Distrikts Saptari und eine der ersten geplanten Städte in Nepal. Sie ist ein wichtiges Bildungs- und Gesundheitszentrum in der östlichen Terai-Region.",
       hu: "Rajbiraj a Saptari kerület fővárosa és Nepál egyik első tervezett városa. Fontos oktatási és egészségügyi központ a keleti Terai régióban.",
@@ -840,7 +895,20 @@ image: "/poi-images/rajbiraj-cities-v2.webp"
       hu: ["A Saptari kerület fővárosa", "Nepál első tervezett városa", "Fontos egészségügyi központ", "Lakossága közel 74 000 fő"],
       ro: ["Capitala districtului Saptari", "Primul oraș planificat din Nepal", "Centru de sănătate important", "Populație de aproape 74.000"],
       en: ["Headquarters of Saptari District", "First planned town of Nepal", "Major health center", "Population of nearly 74,000"]
-    }, image: "/poi-images/rajbiraj-cities-v2.webp"},
+    }, image: "/poi-images/rajbiraj-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rajbiraj ist eine Stadt im östlichen Terai Nepals, Verwaltungssitz des Distrikts Saptari. Sie hat eine Bevölkerung von etwa 70.000. Rajbiraj ist ein historisches und kulturelles Zentrum mit Tempeln wie dem Rangnath Tempel. Die Wirtschaft basiert auf Landwirtschaft (Reis, Jute, Zuckerrohr) und Handel. Die Stadt hat einen Bahnhof an der Nepal Railways-Linie. Rajbiraj ist bekannt für seine traditionellen Feste, darunter das Chandeshwari-Jatra. Die Bevölkerung ist überwiegend Maithili sprechend. Die Stadt hat mehrere Colleges und ein Krankenhaus. Das Klima ist subtropisch. Rajbiraj ist ein wichtiger Markt für Agrarprodukte.",
+      hu: "Rajbiraj város Kelet-Nepálban, Saptari körzet székhelye. Lakossága 70 000. Történelmi és kulturális központ: Rangnath templom. Gazdaság: mezőgazdaság (rizs, juta, cukornád) és kereskedelem. Vasútállomás (Nepál vasút). Híres fesztiválok: Chandeshwari Jatra. Többségében maithili nyelvű. Főiskolák, kórház. Klíma: szubtrópusi. Mezőgazdasági piac.",
+      ro: "Rajbiraj este un oraș în estul Terai-ului Nepal, reședința districtului Saptari, cu o populație de circa 70.000. Este un centru istoric și cultural, cu temple precum Rangnath. Economia se bazează pe agricultură (orez, jută, trestie de zahăr) și comerț. Are o gară pe linia Nepal Railways. Cunoscut pentru festivaluri tradiționale, inclusiv Chandeshwari Jatra. Populația este predominant vorbitoare de maithili. Are colegii și un spital. Clima subtropicală. Rajbiraj este o piață importantă pentru produse agricole.",
+      en: "Rajbiraj is a city in eastern Terai, Nepal, the district headquarters of Saptari District, with a population of about 70,000. It is a historical and cultural center, with temples like Rangnath Temple. The economy relies on agriculture (rice, jute, sugarcane) and trade. The city has a railway station on the Nepal Railways line. Rajbiraj is known for traditional festivals, such as Chandeshwari Jatra. The population is predominantly Maithili-speaking. It hosts several colleges and a hospital. The climate is subtropical. Rajbiraj serves as a major agricultural market.",
+    },
+    factsAdvanced: {
+      de: ["Die Bevölkerung von Rajbiraj beträgt etwa 70.000.", "Rajbiraj liegt auf 60 Metern Höhe.", "Der Rangnath-Tempel wurde im 17. Jahrhundert erbaut.", "Die Stadt hat eine Fläche von 18 Quadratkilometern.", "Die Zuckerrohrproduktion beträgt 100.000 Tonnen jährlich.", "Der Bahnhof ist Teil der 50 km langen Linie nach Indien."],
+      hu: ["Rajbiraj lakossága 70 000 fő.", "A város 60 m magasan fekszik.", "A Rangnath templomot a 17. században építették.", "A város területe 18 km².", "A cukornádtermelés évi 100 000 tonna.", "A vasútállomás az India felé vezető 50 km-es vonal része."],
+      ro: ["Populația Rajbiraj este de aproximativ 70.000.", "Altitudinea orașului este de 60 m.", "Templul Rangnath a fost construit în secolul al XVII-lea.", "Suprafața orașului este de 18 km².", "Producția de trestie de zahăr este de 100.000 tone anual.", "Gara face parte din linia de 50 km către India."],
+      en: ["Rajbiraj's population is about 70,000.", "Altitude is 60 m.", "Rangnath Temple was built in the 17th century.", "City area is 18 km².", "Sugarcane production is 100,000 tons per year.", "Railway station is part of a 50 km line to India."],
+    },
+  },
   {
     id: "gulariya-cities-v2",
     type: "city",
@@ -850,9 +918,8 @@ image: "/poi-images/rajbiraj-cities-v2.webp"
       de: "Gulariya",
       hu: "Gulariya",
       ro: "Gulariya",
-      en: "Gulariya",
-image: "/poi-images/gulariya-cities-v2.webp"
-},
+      en: "Gulariya"},
+    image: "/poi-images/gulariya-cities-v2.webp",
     description: {
       de: "Gulariya ist die Hauptstadt des Distrikts Bardiya und liegt nahe der indischen Grenze. Die Stadt ist ein Tor zum Bardiya-Nationalpark, der für seine Tiger- und Nashornpopulationen bekannt ist.",
       hu: "Gulariya a Bardiya kerület fővárosa, közel az indiai határhoz. A város a Bardiya Nemzeti Park kapuja, amely tigris- és orrszarvú-populációjáról ismert.",
@@ -864,7 +931,20 @@ image: "/poi-images/gulariya-cities-v2.webp"
       hu: ["A Bardiya kerület fővárosa", "A Bardiya Nemzeti Park kapuja", "Közel az indiai határhoz", "Lakossága több mint 71 000"],
       ro: ["Capitala districtului Bardiya", "Poarta de acces către Parcul Național Bardiya", "Aproape de granița cu India", "Populație de peste 71.000"],
       en: ["Headquarters of Bardiya District", "Gateway to Bardiya National Park", "Near the Indian border", "Population over 71,000"]
-    }, image: "/poi-images/gulariya-cities-v2.webp"},
+    }, image: "/poi-images/gulariya-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Gulariya ist die Hauptstadt des Distrikts Bardiya im westlichen Nepal und ein bedeutendes Handelszentrum in der Region. Die Stadt liegt am Ufer des Karnali-Flusses und dient als Tor zum Bardiya-Nationalpark, einem der größten Schutzgebiete Nepals. Gegründet in den 1950er Jahren, erlebte Gulariya ein schnelles Wachstum durch Migration aus den Bergen. Die Wirtschaft basiert auf Landwirtschaft, Holzeinschlag und Tourismus. Die Stadt ist bekannt für ihre ethnische Vielfalt mit Tharu, Brahmanen und anderen Gemeinschaften. Seit 2014 hat Gulariya den Status einer Großstadt.",
+      hu: "Gulariya a nyugat-nepáli Bardiya körzet székhelye, fontos kereskedelmi központ. A város a Karnali folyó partján fekszik, és kapuként szolgál a Bardiya Nemzeti Parkhoz. Lakossága mintegy 80 000 fő, akik főként mezőgazdaságból, halászatból és turizmusból élnek. A város kulturális sokszínűsége a tharu, brahmin és más etnikai csoportok hagyományaiban nyilvánul meg. Gulariya gyorsan fejlődött a 20. század második felében, és mára regionális oktatási és egészségügyi központtá vált.",
+      ro: "Gulariya este capitala districtului Bardiya din vestul Nepalului, situat pe malul râului Karnali. Orașul este o poartă de intrare în Parcul Național Bardiya, una dintre cele mai importante zone protejate din țară. Populația, de aproximativ 80.000 de locuitori, este diversă din punct de vedere etnic, incluzând tharu, brahmani și alte grupuri. Economia se bazează pe agricultură, creșterea animalelor și turism. Gulariya s-a dezvoltat rapid după anii 1950, devenind un centru administrativ și comercial regional.",
+      en: "Gulariya, the district headquarters of Bardiya in western Nepal, lies on the banks of the Karnali River and serves as the main gateway to Bardiya National Park. The city's population of approximately 80,000 comprises a mix of Tharu, Brahmin, and other ethnic groups. Established in the 1950s, it grew rapidly due to migration and agricultural expansion. The local economy relies on farming, forestry, and tourism, with the park attracting visitors for wildlife safaris. Gulariya also hosts several educational institutions and healthcare facilities, functioning as a regional hub.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl von Gulariya: etwa 80.000 (Volkszählung 2021).", "Fläche der Stadt: 74,2 Quadratkilometer.", "Gegründet als Stadtgemeinde im Jahr 1997.", "Höhe über dem Meeresspiegel: 150 Meter.", "Entfernung zur Hauptstadt Kathmandu: ca. 450 Kilometer.", "Anzahl der Schulen: über 30."],
+      hu: ["Gulariya lakossága 79.472 fő (2021-es népszámlálás).", "Területe 74,2 négyzetkilométer.", "A Bardiya Nemzeti Park területe 968 négyzetkilométer.", "A város tengerszint feletti magassága 150 méter.", "Távolság Kathmandutól: 450 kilométer.", "Kórházak száma: 2."],
+      ro: ["Populația Gulariya: 79.472 locuitori (recensământ 2021).", "Suprafața orașului: 74,2 km².", "Altitudinea: 150 m deasupra nivelului mării.", "Distanța până la Kathmandu: 450 km.", "Numărul de școli: 35.", "Anul înființării municipiului: 1997."],
+      en: ["Population of Gulariya: 79,472 (2021 census).", "Area: 74.2 square kilometers.", "Elevation: 150 meters above sea level.", "Distance from Kathmandu: 450 kilometers.", "Year established as municipality: 1997.", "Number of schools: 35."],
+    },
+  },
   {
     id: "bhadrapur-cities-v2",
     type: "city",
@@ -874,9 +954,8 @@ image: "/poi-images/gulariya-cities-v2.webp"
       de: "Bhadrapur",
       hu: "Bhadrapur",
       ro: "Bhadrapur",
-      en: "Bhadrapur",
-image: "/poi-images/bhadrapur-cities-v2.webp"
-},
+      en: "Bhadrapur"},
+    image: "/poi-images/bhadrapur-cities-v2.webp",
     description: {
       de: "Bhadrapur ist eine Teehandelsstadt im Distrikt Jhapa im Südosten Nepals. Sie verfügt über einen wichtigen Inlandsflughafen, der die Region mit Kathmandu verbindet.",
       hu: "Bhadrapur egy teakereskedelmi város a Jhapa kerületben, Délkelet-Nepálban. Fontos belföldi repülőtérrel rendelkezik, amely összeköti a régiót Katmanduval.",
@@ -888,7 +967,20 @@ image: "/poi-images/bhadrapur-cities-v2.webp"
       hu: ["Kelet-Nepál fontos repülőtere", "A teakereskedelem központja", "Indiai határhoz közeli fekvés", "Lakossága több mint 71 000"],
       ro: ["Aeroport important pentru estul Nepalului", "Centrul comerțului cu ceai", "Situat aproape de granița cu India", "Populație de peste 71.000"],
       en: ["Major airport for eastern Nepal", "Center of the tea trade", "Located near the Indian border", "Population over 71,000"]
-    }, image: "/poi-images/bhadrapur-cities-v2.webp"},
+    }, image: "/poi-images/bhadrapur-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bhadrapur ist eine Stadt im Osten Nepals, nahe der Grenze zu Indien. Sie ist das Verwaltungszentrum des Distrikts Jhapa. Die Stadt liegt im Terai-Gebiet auf etwa 70 Metern Höhe und hat ein subtropisches Klima. Bhadrapur ist bekannt für seine Teeplantagen und als Handelsumschlagplatz zwischen Nepal und Indien. Die lokale Wirtschaft stützt sich auf Landwirtschaft, Teeproduktion und grenzüberschreitenden Handel. Die Stadt beherbergt den Bhadrapur Airport, einen wichtigen regionalen Flughafen. Die Bevölkerung setzt sich aus verschiedenen ethnischen Gruppen wie Rajbanshi, Limbu und Brahmanen zusammen.",
+      hu: "Bhadrapur Kelet-Nepálban, az indiai határ közelében fekszik. Jhapa körzet központjaként fontos kereskedelmi és közlekedési csomópont. A város a terai síkságon található, tengerszint feletti magassága 70 méter. Gazdasága a mezőgazdaságra, különösen a rizs- és teatermesztésre épül. A Bhadrapur repülőtér összeköttetést biztosít Katmanduval. A város lakossága körülbelül 26 000 fő, akik közül sokan a határ menti kereskedelemből élnek. Kulturális szempontból fontos a Dashain és a Tihar ünnepek megünneplése.",
+      ro: "Bhadrapur este un oraș din estul Nepalului, aproape de granița cu India. Este centrul administrativ al districtului Jhapa, situat în câmpia Terai, la o altitudine de 70 m. Economia locală se bazează pe agricultură (orez, ceai) și comerț transfrontalier. Aeroportul Bhadrapur asigură zboruri regulate către Kathmandu. Populația de aproximativ 26.000 de locuitori este diversă etnic, incluzând Rajbanshi, Limbu și Brahmani. Orașul este cunoscut pentru grădinițele sale de ceai și pentru rolul său de poartă de intrare în Nepal dinspre India.",
+      en: "Bhadrapur, the district headquarters of Jhapa in eastern Nepal, is located near the Indian border in the Terai plains at an elevation of 70 meters. With a population of about 26,000, it serves as a commercial and transport hub. The economy is dominated by agriculture, especially rice and tea, and cross-border trade. Bhadrapur Airport connects the city to Kathmandu and other domestic destinations. The city is ethnically diverse, with Rajbanshi, Limbu, and Brahmin communities. Annual festivals like Dashain and Tihar are celebrated with local fervor.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 26.000 (Schätzung).", "Höhe: 70 Meter über dem Meeresspiegel.", "Flughafen: Bhadrapur Airport (ICAO: VNBT).", "Entfernung nach Kathmandu: etwa 390 Kilometer.", "Durchschnittstemperatur: 24°C.", "Landwirtschaftlicher Hauptertrag: Reis und Tee."],
+      hu: ["Lakosság: 26.000 fő.", "Tengerszint feletti magasság: 70 méter.", "Repülőtér: Bhadrapur repülőtér (IATA: BDP).", "Távolság Katmandutól: 390 km.", "Átlaghőmérséklet: 24°C.", "Fő mezőgazdasági termékek: rizs és tea."],
+      ro: ["Populație: 26.000 locuitori.", "Altitudine: 70 m.", "Aeroport: Aeroportul Bhadrapur (cod IATA: BDP).", "Distanța până la Kathmandu: 390 km.", "Temperatura medie anuală: 24°C.", "Principalele culturi: orez și ceai."],
+      en: ["Population: 26,000 (estimate).", "Elevation: 70 meters above sea level.", "Airport: Bhadrapur Airport (IATA: BDP).", "Distance from Kathmandu: 390 kilometers.", "Average annual temperature: 24°C.", "Main crops: rice and tea."],
+    },
+  },
   {
     id: "banepa-cities-v2",
     type: "city",
@@ -898,9 +990,8 @@ image: "/poi-images/bhadrapur-cities-v2.webp"
       de: "Banepa",
       hu: "Banepa",
       ro: "Banepa",
-      en: "Banepa",
-image: "/poi-images/banepa-cities-v2.webp"
-},
+      en: "Banepa"},
+    image: "/poi-images/banepa-cities-v2.webp",
     description: {
       de: "Banepa ist eine historische Stadt im Kathmandu-Tal, die einst an einer wichtigen Handelsroute nach Tibet lag. Heute ist sie ein geschäftiges Handelszentrum und bekannt für den Chandeshwori-Tempel.",
       hu: "Banepa egy történelmi város a Katmandu-völgyben, amely egykor egy fontos, Tibetbe vezető kereskedelmi útvonal mentén feküdt. Ma forgalmas kereskedelmi központ, és a Chandeshwori templomról ismert.",
@@ -912,7 +1003,20 @@ image: "/poi-images/banepa-cities-v2.webp"
       hu: ["Történelmi kereskedelmi központ", "Az Arniko autópálya mentén fekszik", "Híres a Chandeshwori templomról", "Lakossága több mint 67 000"],
       ro: ["Centru comercial istoric", "Situat pe autostrada Arniko", "Renumit pentru Templul Chandeshwori", "Populație de peste 67.000"],
       en: ["Historical trade hub", "Located on the Arniko Highway", "Famous for the Chandeshwori Temple", "Population over 67,000"]
-    }, image: "/poi-images/banepa-cities-v2.webp"},
+    }, image: "/poi-images/banepa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Banepa ist eine historische Stadt im Kathmandu-Tal, etwa 25 Kilometer östlich von Kathmandu gelegen. Sie war ein wichtiger Handelsposten auf der alten Handelsroute nach Tibet und China. Die Stadt ist bekannt für ihre Newari-Architektur, enge Gassen und traditionelle Kunsthandwerke wie Töpferei. Banepa beherbergt den Narayanthan-Tempel, ein bedeutendes religiöses Zentrum. Die Wirtschaft basiert auf Landwirtschaft, Handel und Tourismus. Die Bevölkerungsdichte ist hoch, mit etwa 65.000 Einwohnern auf einer Fläche von 10 Quadratkilometern. In den letzten Jahrzehnten hat sich Banepa zu einem Vorort von Kathmandu entwickelt.",
+      hu: "Banepa a Kathmandu-völgyben fekszik, 25 km-re keletre a fővárostól. Történelmileg fontos kereskedőváros volt a Tibetbe vezető útvonalon. Newari építészete és fazekasságáról ismert. A Narayanthan templom a város szellemi központja. A lakosság körülbelül 65 000 fő, akik főként mezőgazdaságból és kézművességből élnek. Banepa gyorsan urbanizálódik, és mára Kathmandu egyik elővárosává vált. A város kultúrájában a Newari hagyományok dominálnak, különösen a Bisket Jatra fesztivál idején.",
+      ro: "Banepa este un oraș istoric în Valea Kathmandu, la 25 km est de capitală. A fost un important centru comercial pe ruta spre Tibet. Orașul păstrează arhitectura tradițională newari și este renumit pentru meșteșugurile sale, în special olăritul. Templul Narayanthan este un loc de pelerinaj. Populația de aproximativ 65.000 de locuitori trăiește din agricultură, comerț și turism. Banepa s-a extins rapid în ultimele decenii, devenind o suburbie a Kathmandu-ului. Festivalul Bisket Jatra este cea mai importantă sărbătoare locală.",
+      en: "Banepa, a historic town in the Kathmandu Valley, lies 25 kilometers east of Kathmandu. It was a key trading post on the ancient route to Tibet. Known for its Newari architecture and pottery, the town centers around the Narayanthan Temple. With a population of about 65,000, Banepa's economy relies on agriculture, handicrafts, and trade. Rapid urbanization has transformed it into a suburb of Kathmandu. The Bisket Jatra festival, featuring chariot processions, is a major cultural event. Banepa also hosts several educational institutions, including a campus of Purbanchal University.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 65.000 (Volkszählung 2021).", "Fläche: 10 Quadratkilometer.", "Höhe: 1.440 Meter.", "Entfernung nach Kathmandu: 25 Kilometer.", "Bekannt für: Narayanthan-Tempel.", "Durchschnittliche Niederschlagsmenge: 1.500 mm pro Jahr."],
+      hu: ["Lakosság: 65.000 fő (2021-es népszámlálás).", "Terület: 10 km².", "Tengerszint feletti magasság: 1.440 m.", "Távolság Katmandutól: 25 km.", "Fő nevezetesség: Narayanthan templom.", "Éves átlagos csapadék: 1.500 mm."],
+      ro: ["Populație: 65.000 locuitori (recensământ 2021).", "Suprafață: 10 km².", "Altitudine: 1.440 m.", "Distanța față de Kathmandu: 25 km.", "Principalul monument: Templul Narayanthan.", "Precipitații medii anuale: 1.500 mm."],
+      en: ["Population: 65,000 (2021 census).", "Area: 10 square kilometers.", "Elevation: 1,440 meters.", "Distance from Kathmandu: 25 kilometers.", "Main landmark: Narayanthan Temple.", "Average annual rainfall: 1,500 mm."],
+    },
+  },
   {
     id: "baglung-cities-v2",
     type: "city",
@@ -922,9 +1026,8 @@ image: "/poi-images/banepa-cities-v2.webp"
       de: "Baglung",
       hu: "Baglung",
       ro: "Baglung",
-      en: "Baglung",
-image: "/poi-images/baglung-cities-v2.webp"
-},
+      en: "Baglung"},
+    image: "/poi-images/baglung-cities-v2.webp",
     description: {
       de: "Baglung ist die Hauptstadt des Distrikts Baglung in der Provinz Gandaki. Die Stadt ist bekannt für ihre Hängebrücken, einschließlich einiger der höchsten und längsten in Nepal.",
       hu: "Baglung a Baglung kerület fővárosa a Gandaki tartományban. A város a függőhídjairól ismert, köztük néhány a legmagasabb és leghosszabb Nepálban.",
@@ -936,7 +1039,20 @@ image: "/poi-images/baglung-cities-v2.webp"
       hu: ["A Baglung kerület fővárosa", "A függőhidak városa", "Kalika Bhagawati templom", "Lakossága több mint 56 000"],
       ro: ["Capitala districtului Baglung", "Orașul podurilor suspendate", "Templul Kalika Bhagawati", "Populație de peste 56.000"],
       en: ["Headquarters of Baglung District", "City of suspension bridges", "Kalika Bhagawati Temple", "Population over 56,000"]
-    }, image: "/poi-images/baglung-cities-v2.webp"},
+    }, image: "/poi-images/baglung-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Baglung ist eine Stadt in Westnepal und Hauptstadt des gleichnamigen Distrikts. Sie liegt am Ufer des Kali Gandaki Flusses auf einer Höhe von etwa 1.000 Metern. Die Stadt ist ein wichtiges Handelszentrum für die umliegenden Hügelregionen. Die Wirtschaft basiert auf Landwirtschaft (vor allem Äpfel, Kartoffeln), Tourismus und Dienstleistungen. Baglung ist Ausgangspunkt für Trekkingtouren in die Dhaulagiri-Region. Die Stadt hat eine gemischte Bevölkerung aus Brahmanen, Chhetri und Magar. In den letzten Jahren hat Baglung eine moderne Infrastruktur mit Krankenhäusern und Schulen entwickelt.",
+      hu: "Baglung Nyugat-Nepálban, a Kali Gandaki folyó partján fekszik, 1000 méter magasan. A körzet központjaként kereskedelmi és adminisztratív szerepet tölt be. Gazdasága a mezőgazdaságra (alma, burgonya) és a turizmusra épül. A Dhaulagiri régió kapujaként ismert. Lakossága körülbelül 30 000 fő, etnikai összetétele sokszínű. Baglung fontos oktatási központ, számos iskolával és egyetemi kampusszal. A város gyorsan fejlődik, új utak és épületek épülnek.",
+      ro: "Baglung este un oraș din vestul Nepalului, reședința districtului cu același nume, situat pe malul râului Kali Gandaki la 1.000 m altitudine. Este un centru comercial pentru zonele deluroase înconjurătoare. Economia se bazează pe agricultură (mere, cartofi) și turism, fiind punct de plecare pentru drumeții în regiunea Dhaulagiri. Populația de aproximativ 30.000 de locuitori include brahmani, chhetri și magar. Baglung s-a modernizat recent, cu spitale și școli noi.",
+      en: "Baglung, the district headquarters of Baglung District in western Nepal, sits on the banks of the Kali Gandaki River at an elevation of 1,000 meters. With a population of around 30,000, it serves as a commercial hub for the surrounding hills. The economy is driven by agriculture (notably apples and potatoes) and tourism, as Baglung is a gateway to the Dhaulagiri trekking region. The town has experienced infrastructural growth, including new hospitals and educational institutions. Its diverse population includes Brahmin, Chhetri, and Magar ethnic groups.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 30.000 (Schätzung 2021).", "Höhe: 1.000 Meter über dem Meeresspiegel.", "Fläche: 98 Quadratkilometer.", "Wichtigster Fluss: Kali Gandaki.", "Entfernung nach Kathmandu: etwa 270 Kilometer.", "Durchschnittstemperatur im Sommer: 25°C."],
+      hu: ["Lakosság: 30.000 fő.", "Tengerszint feletti magasság: 1.000 m.", "Terület: 98 km².", "Fő folyó: Kali Gandaki.", "Távolság Katmandutól: 270 km.", "Nyári átlaghőmérséklet: 25°C."],
+      ro: ["Populație: 30.000 locuitori.", "Altitudine: 1.000 m.", "Suprafață: 98 km².", "Râu principal: Kali Gandaki.", "Distanța față de Kathmandu: 270 km.", "Temperatura medie de vară: 25°C."],
+      en: ["Population: 30,000 (2021 estimate).", "Elevation: 1,000 meters above sea level.", "Area: 98 square kilometers.", "Main river: Kali Gandaki.", "Distance from Kathmandu: 270 kilometers.", "Average summer temperature: 25°C."],
+    },
+  },
   {
     id: "waling-cities-v2",
     type: "city",
@@ -946,9 +1062,8 @@ image: "/poi-images/baglung-cities-v2.webp"
       de: "Waling",
       hu: "Waling",
       ro: "Waling",
-      en: "Waling",
-image: "/poi-images/waling-cities-v2.webp"
-},
+      en: "Waling"},
+    image: "/poi-images/waling-cities-v2.webp",
     description: {
       de: "Waling ist eine Gemeinde im Distrikt Syangja und liegt am Ufer des Aandhikhola-Flusses. Es ist ein wachsendes Handelszentrum im Tal und bekannt für seinen Orangenanbau.",
       hu: "Waling egy település a Syangja kerületben, az Aandhikhola folyó partján. A völgy növekvő kereskedelmi központja, és narancstermesztéséről ismert.",
@@ -960,7 +1075,20 @@ image: "/poi-images/waling-cities-v2.webp"
       hu: ["A Syangja kerületben található", "Híres a narancstermesztésről", "A Siddhartha autópálya mentén", "Lakossága több mint 51 000"],
       ro: ["Situat în districtul Syangja", "Renumit pentru cultivarea portocalelor", "Pe autostrada Siddhartha", "Populație de peste 51.000"],
       en: ["Located in Syangja District", "Famous for orange cultivation", "On the Siddhartha Highway", "Population over 51,000"]
-    }, image: "/poi-images/waling-cities-v2.webp"},
+    }, image: "/poi-images/waling-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Waling ist eine Stadt im Distrikt Syangja im westlichen Nepal. Sie liegt auf einer Höhe von etwa 750 Metern im Mittelland und ist ein aufstrebendes Handels- und Bildungszentrum. Die Stadt ist bekannt für ihre landwirtschaftlichen Produkte, insbesondere Orangen und Ingwer. Waling hat eine Bevölkerung von etwa 50.000 Menschen, darunter Brahmanen, Chhetri und Magar. Die Infrastruktur hat sich in den letzten Jahren verbessert, mit neuen Straßen und einem Krankenhaus. Die Stadt ist auch für ihre traditionellen Feste wie das Maghe Sankranti bekannt.",
+      hu: "Waling Nyugat-Nepálban, Syangja körzetben található, 750 méter magasan. Gyorsan fejlődő kereskedelmi és oktatási központ. Gazdasága a mezőgazdaságon alapul, különösen a narancs- és gyömbértermesztésen. Lakossága mintegy 50 000 fő, etnikailag változatos. Walingban számos iskola és egy kórház található. A város híres a Maghe Sankranti fesztiválról, amelyet nagy lelkesedéssel ünnepelnek. Az utóbbi években az urbanizáció felgyorsult.",
+      ro: "Waling este un oraș în districtul Syangja din vestul Nepalului, la o altitudine de 750 m. Este un centru comercial și educațional în creștere. Economia se bazează pe agricultură, în special portocale și ghimbir. Populația de aproximativ 50.000 de locuitori este diversă, incluzând brahmani, chhetri și magar. Orașul are școli și un spital modern. Festivalul Maghe Sankranti este o sărbătoare importantă locală. Waling s-a extins rapid datorită migrației rurale.",
+      en: "Waling, a town in Syangja District of western Nepal, lies at an elevation of 750 meters in the mid-hills. It is a growing commercial and educational hub. The local economy is predominantly agricultural, with oranges and ginger as major cash crops. With a population of about 50,000, Waling is ethnically diverse, including Brahmin, Chhetri, and Magar communities. The town has seen recent infrastructural development, including road upgrades and a hospital. Traditional festivals like Maghe Sankranti are celebrated with fervor.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 50.000 (Schätzung 2021).", "Höhe: 750 Meter über dem Meeresspiegel.", "Fläche: 60 Quadratkilometer.", "Wichtigste landwirtschaftliche Produkte: Orangen, Ingwer.", "Entfernung nach Kathmandu: etwa 200 Kilometer.", "Zahl der Schulen: 25."],
+      hu: ["Lakosság: 50.000 fő.", "Tengerszint feletti magasság: 750 m.", "Terület: 60 km².", "Fő mezőgazdasági termékek: narancs, gyömbér.", "Távolság Katmandutól: 200 km.", "Iskolák száma: 25."],
+      ro: ["Populație: 50.000 locuitori.", "Altitudine: 750 m.", "Suprafață: 60 km².", "Principalele produse agricole: portocale, ghimbir.", "Distanța față de Kathmandu: 200 km.", "Numărul școlilor: 25."],
+      en: ["Population: 50,000 (2021 estimate).", "Elevation: 750 meters above sea level.", "Area: 60 square kilometers.", "Main agricultural products: oranges, ginger.", "Distance from Kathmandu: 200 kilometers.", "Number of schools: 25."],
+    },
+  },
   {
     id: "malangwa-cities-v2",
     type: "city",
@@ -970,9 +1098,8 @@ image: "/poi-images/waling-cities-v2.webp"
       de: "Malangwa",
       hu: "Malangwa",
       ro: "Malangwa",
-      en: "Malangwa",
-image: "/poi-images/malangwa-cities-v2.webp"
-},
+      en: "Malangwa"},
+    image: "/poi-images/malangwa-cities-v2.webp",
     description: {
       de: "Malangwa ist die Hauptstadt des Distrikts Sarlahi in der Provinz Madhesh, direkt an der Grenze zu Indien. Es ist ein wichtiger lokaler Marktplatz für landwirtschaftliche Erzeugnisse.",
       hu: "Malangwa a Sarlahi kerület fővárosa a Madhesh tartományban, közvetlenül az indiai határon. Fontos helyi piac a mezőgazdasági termékek számára.",
@@ -984,7 +1111,20 @@ image: "/poi-images/malangwa-cities-v2.webp"
       hu: ["A Sarlahi kerület fővárosa", "Közvetlenül az indiai határon", "Fontos agrárpiac", "Lakossága több mint 51 000"],
       ro: ["Capitala districtului Sarlahi", "Chiar la granița cu India", "Piață agricolă importantă", "Populație de peste 51.000"],
       en: ["Headquarters of Sarlahi District", "Right on the Indian border", "Major agricultural market", "Population over 51,000"]
-    }, image: "/poi-images/malangwa-cities-v2.webp"},
+    }, image: "/poi-images/malangwa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Malangwa ist eine Stadt im südlichen Nepal, im Distrikt Sarlahi. Sie liegt im Terai-Gebiet nahe der indischen Grenze. Die Stadt ist ein wichtiger Handelsknotenpunkt für landwirtschaftliche Produkte wie Reis, Weizen und Zuckerrohr. Malangwa hat eine Bevölkerung von etwa 35.000 Menschen, die mehrheitlich aus Maithili und Bhojpuri sprechenden Gruppen bestehen. Die Stadt verfügt über einen Bahnhof, der sie mit indischen Städten verbindet. Das Klima ist subtropisch mit heißen Sommern und milden Wintern.",
+      hu: "Malangwa Dél-Nepálban, Sarlahi körzetben, az indiai határ közelében fekszik. A terai síkságon található, fontos mezőgazdasági kereskedelmi központ. Fő terményei a rizs, búza és cukornád. Lakossága mintegy 35 000 fő, főként maithili és bhojpuri nyelvű közösségek. A város vasútállomással rendelkezik, amely összeköttetést biztosít indiai városokkal. Nyáron forró, télen enyhe az időjárás.",
+      ro: "Malangwa este un oraș în sudul Nepalului, în districtul Sarlahi, aproape de granița cu India. Situat în câmpia Terai, este un centru comercial pentru produse agricole precum orez, grâu și trestie de zahăr. Populația de aproximativ 35.000 de locuitori este formată în principal din vorbitori de maithili și bhojpuri. Orașul are o gară care îl leagă de orașele indiene. Clima este subtropicală, cu veri fierbinți și ierni blânde.",
+      en: "Malangwa, a town in Sarlahi District of southern Nepal, lies in the Terai plains near the Indian border. It serves as a major agricultural market for rice, wheat, and sugarcane. With a population of about 35,000, the town is predominantly Maithili and Bhojpuri speaking. Malangwa railway station connects it to Indian cities, facilitating cross-border trade. The climate is subtropical, with hot summers and mild winters. The town has several schools and a hospital.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 35.000 (Schätzung 2021).", "Höhe: 70 Meter über dem Meeresspiegel.", "Fläche: 25 Quadratkilometer.", "Bahnhof: Malangwa (Nepal Railways).", "Entfernung nach Kathmandu: etwa 200 Kilometer.", "Durchschnittstemperatur: 26°C."],
+      hu: ["Lakosság: 35.000 fő.", "Tengerszint feletti magasság: 70 m.", "Terület: 25 km².", "Vasútállomás: Malangwa (Nepáli Vasutak).", "Távolság Katmandutól: 200 km.", "Átlaghőmérséklet: 26°C."],
+      ro: ["Populație: 35.000 locuitori.", "Altitudine: 70 m.", "Suprafață: 25 km².", "Gară: Malangwa (Căile Ferate Nepaleze).", "Distanța față de Kathmandu: 200 km.", "Temperatura medie: 26°C."],
+      en: ["Population: 35,000 (2021 estimate).", "Elevation: 70 meters above sea level.", "Area: 25 square kilometers.", "Railway station: Malangwa (Nepal Railways).", "Distance from Kathmandu: 200 kilometers.", "Average temperature: 26°C."],
+    },
+  },
   {
     id: "gaur-cities-v2",
     type: "city",
@@ -994,9 +1134,8 @@ image: "/poi-images/malangwa-cities-v2.webp"
       de: "Gaur",
       hu: "Gaur",
       ro: "Gaur",
-      en: "Gaur",
-image: "/poi-images/gaur-cities-v2.webp"
-},
+      en: "Gaur"},
+    image: "/poi-images/gaur-cities-v2.webp",
     description: {
       de: "Gaur ist die Hauptstadt des Distrikts Rautahat und eine Grenzstadt zu Indien. Die Stadt liegt am Ufer des Bagmati-Flusses und ist ein Zentrum für Handel und Kultur in der Region.",
       hu: "Gaur a Rautahat kerület fővárosa és egy határváros Indiával. A város a Bagmati folyó partján fekszik, és a régió kereskedelmi és kulturális központja.",
@@ -1008,6 +1147,18 @@ image: "/poi-images/gaur-cities-v2.webp"
       hu: ["A Rautahat kerület fővárosa", "Indiával határos", "A Bagmati folyó partján fekszik", "A régió kulturális központja"],
       ro: ["Capitala districtului Rautahat", "Se învecinează cu India", "Situat pe malul râului Bagmati", "Centru cultural al regiunii"],
       en: ["Headquarters of Rautahat District", "Borders India", "Located on the Bagmati River", "Cultural center of the region"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Gaur ist die Hauptstadt des Distrikts Rautahat im südlichen Nepal. Sie liegt im Terai-Gebiet nahe der indischen Grenze. Die Stadt ist ein wichtiges Handelszentrum für landwirtschaftliche Produkte wie Reis, Mais und Gemüse. Gaur hat eine Bevölkerung von etwa 30.000 Menschen, die sich aus verschiedenen ethnischen Gruppen wie Tharu, Yadav und Muslimen zusammensetzt. Die Stadt verfügt über einen Bahnhof und ist durch Straßen mit anderen Städten verbunden. Das Klima ist heiß und feucht im Sommer, mild im Winter.",
+      hu: "Gaur Dél-Nepálban, Rautahat körzet székhelye, az indiai határ közelében. A terai síkságon fekszik, mezőgazdasági kereskedelmi központ. Fő terményei a rizs, kukorica és zöldségek. Lakossága körülbelül 30 000 fő, etnikailag sokszínű (tharu, yadav, muszlimok). Vasútállomással és jó úthálózattal rendelkezik. Nyáron forró és párás, télen enyhe az idő.",
+      ro: "Gaur este reședința districtului Rautahat din sudul Nepalului, situat în câmpia Terai lângă granița cu India. Este un centru comercial pentru produse agricole: orez, porumb, legume. Populația de aproximativ 30.000 de locuitori include tharu, yadav și musulmani. Orașul are o gară și drumuri care îl leagă de alte localități. Clima este caldă și umedă vara, blândă iarna.",
+      en: "Gaur, the district headquarters of Rautahat in southern Nepal, lies in the Terai plains near the Indian border. With a population of around 30,000, it is an agricultural trade hub for rice, maize, and vegetables. The town is ethnically diverse, including Tharu, Yadav, and Muslim communities. Gaur has a railway station and road links to major cities. The climate is characterized by hot, humid summers and mild winters. The town also hosts several schools and a district hospital.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 30.000 (Schätzung 2021).", "Höhe: 70 Meter über dem Meeresspiegel.", "Fläche: 20 Quadratkilometer.", "Bahnhof: Gaur (Nepal Railways).", "Entfernung nach Kathmandu: etwa 200 Kilometer.", "Durchschnittlicher Jahresniederschlag: 1.200 mm."],
+      hu: ["Lakosság: 30.000 fő.", "Tengerszint feletti magasság: 70 m.", "Terület: 20 km².", "Vasútállomás: Gaur (Nepáli Vasutak).", "Távolság Katmandutól: 200 km.", "Éves átlagos csapadék: 1.200 mm."],
+      ro: ["Populație: 30.000 locuitori.", "Altitudine: 70 m.", "Suprafață: 20 km².", "Gară: Gaur (Căile Ferate Nepaleze).", "Distanța față de Kathmandu: 200 km.", "Precipitații medii anuale: 1.200 mm."],
+      en: ["Population: 30,000 (2021 estimate).", "Elevation: 70 meters above sea level.", "Area: 20 square kilometers.", "Railway station: Gaur (Nepal Railways).", "Distance from Kathmandu: 200 kilometers.", "Average annual rainfall: 1,200 mm."],
+    },
   }
 ];

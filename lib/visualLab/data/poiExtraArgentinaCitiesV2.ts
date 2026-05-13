@@ -8,7 +8,7 @@ export const poiExtraArgentinaCitiesV2: POI[] = [
       de: "Die Hauptstadt Argentiniens am Rio de la Plata ist das politische, wirtschaftliche und kulturelle Zentrum des Landes.",
       ro: "Buenos Aires este capitala Argentinei și un centru cultural vibrant, cunoscut pentru arhitectura sa europeană și viața de noapte intensă.",
       hu: "Argentína fővárosa, az ország gazdasági és kulturális központja, amely a Río de la Plata torkolatánál fekszik. A város építészetére az európai, különösen a párizsi hatások a jellemzőek.",
-image: "/poi-images/ar-c-buenos-aires-cities-v2.webp"
+// image: "/poi-images/ar-c-buenos-aires-cities-v2.webp"
 },
     facts: { en: ["National capital",
       "Major port city",
@@ -19,7 +19,7 @@ image: "/poi-images/ar-c-buenos-aires-cities-v2.webp"
       hu: ["Lakossága az agglomerációval együtt meghaladja a 15 millió főt.", "A tangó szülőhelyeként ismert kulturális metropolisz.", "Számos híres negyede közül La Boca a színes házairól ismert.", "A világ egyik leghosszabb sugárútja, az Avenida 9 de Julio itt található."]
     },
     type: "state-capital",
-    parent: "AR-C",
+//     parent: "AR-C",
     coords: [-58.3816, -34.6037],
     name: {
       de: "Buenos Aires",
@@ -46,7 +46,7 @@ image: "/poi-images/ar-c-buenos-aires-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Buenos Aires ist bekannt für ihr streng schachbrettartiges Layout und ihre Parks.",
       ro: "La Plata este capitala provinciei Buenos Aires, faimoasă pentru planificarea sa urbană geometrică și universitatea de prestigiu.",
       hu: "Buenos Aires tartomány székhelye, amelyet 1882-ben tervezett várossként alapítottak, sakktábla alaprajzzal és sugárutakkal. A város központjában található a monumentális neogótikus katedrális.",
-image: "/poi-images/ar-b-la-plata-cities-v2.webp"
+// image: "/poi-images/ar-b-la-plata-cities-v2.webp"
 },
     facts: { en: ["Planned city founded in 1882", "Home to the Curutchet House by Le Corbusier", "Features one of the largest cathedrals in South America"],
       de: ["Hauptstadt der Provinz Buenos Aires", "Bedeutendes Zentrum für Wissenschaft", "Sitz einer renommierten Universität", "Geplante Stadt des 19. Jahrhunderts"],
@@ -54,7 +54,7 @@ image: "/poi-images/ar-b-la-plata-cities-v2.webp"
       hu: ["A várost Dardo Rocha alapította 1882-ben.", "Sajátos, derékszögű és átlós utcahálózat jellemzi.", "Itt található az ország egyik legjelentősebb természettudományi múzeuma.", "A város központi parkja, a Bosque de La Plata több mint 60 hektáros."]
     },
     type: "state-capital",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-57.9545, -34.9214],
     name: {
       de: "La Plata",
@@ -81,7 +81,7 @@ image: "/poi-images/ar-b-la-plata-cities-v2.webp"
       de: "Das wichtigste Seebad Argentiniens an der Atlantikküste ist ein Zentrum des Tourismus und der Fischerei.",
       ro: "Mar del Plata este cea mai cunoscută stațiune de pe litoralul argentinian, oferind plaje extinse și o arhitectură istorică remarcabilă.",
       hu: "Argentína legnépszerűbb tengerparti üdülővárosa az Atlanti-óceán partján, amely egész évben aktív kikötővel rendelkezik. Híres a kaszinóiról és a széles homokos strandjairól.",
-image: "/poi-images/ar-b-mar-del-plata-cities-v2.webp"
+// image: "/poi-images/ar-b-mar-del-plata-cities-v2.webp"
 },
     facts: { en: ["Major fishing port on the Atlantic", "Host of an international film festival", "Known for its distinctive Belle Époque architecture"],
       de: ["Größter Badeort des Landes", "Wichtiger Fischereihafen", "Bekannt für Kasinos und Theater", "Ziel von Millionen Sommertouristen"],
@@ -89,7 +89,7 @@ image: "/poi-images/ar-b-mar-del-plata-cities-v2.webp"
       hu: ["Az 1874-ben alapított város az ország egyik leglátogatottabb turisztikai központja.", "Fontos halászati kikötő, amely jelentős szerepet játszik a gazdaságban.", "A város építészetét a 20. század eleji luxus villák határozzák meg.", "Évente több millió látogatót fogad a nyári szezonban."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-57.5492, -38.0055],
     name: {
       de: "Mar del Plata",
@@ -116,7 +116,7 @@ image: "/poi-images/ar-b-mar-del-plata-cities-v2.webp"
       de: "Die Hafenstadt im Süden der Provinz Buenos Aires ist ein bedeutendes Tor zum Atlantik und Industriezentrum.",
       ro: "Bahía Blanca este un oraș portuar strategic din sudul provinciei Buenos Aires, fiind un centru comercial și industrial esențial.",
       hu: "Fontos kikötőváros Argentína déli részén, Buenos Aires tartományban, amely a mezőgazdasági termékek exportjának egyik központja. A várostól nem messze található a mélyvízi Ingeniero White kikötő.",
-image: "/poi-images/ar-b-bahia-blanca-cities-v2.webp"
+// image: "/poi-images/ar-b-bahia-blanca-cities-v2.webp"
 },
     facts: { en: ["Deep-water port on the Atlantic Ocean", "Major center for the petrochemical industry", "Known for its strong basketball tradition"],
       de: ["Bedeutender Seehafen", "Zentrum der petrochemischen Industrie", "Wichtiger Eisenbahnknotenpunkt", "Sitz der Nationalen Universität des Südens"],
@@ -124,7 +124,7 @@ image: "/poi-images/ar-b-bahia-blanca-cities-v2.webp"
       hu: ["A 19. században alapították katonai előőrsként.", "Az ország egyik legnagyobb gabonaexportáló központja.", "Kultúráját a nagy európai bevándorlási hullámok formálták.", "Fontos vasúti és közlekedési csomópont Patagónia felé."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-62.2694, -38.7183],
     name: {
       de: "Bahía Blanca",
@@ -151,7 +151,7 @@ image: "/poi-images/ar-b-bahia-blanca-cities-v2.webp"
       de: "Diese Stadt im Landesinneren ist berühmt für ihre umliegenden Hügelketten und handwerkliche Lebensmittelproduktion.",
       ro: "Tandil este un oraș situat într-o zonă deluroasă pitorească, renumit pentru peisajele sale naturale și produsele lactate artizanale.",
       hu: "A Tandilia-hegység lábánál fekvő város, amely a mezőgazdaságáról és a minőségi kézműves élelmiszereiről, különösen a kolbászféléiről ismert. Népszerű célpont a természetkedvelők számára.",
-image: "/poi-images/ar-b-tandil-cities-v2.webp"
+// image: "/poi-images/ar-b-tandil-cities-v2.webp"
 },
     facts: { en: ["Surrounded by one of the world's oldest mountain ranges", "Renowned for its production of artisanal cheeses and salamis", "Popular destination for trekking and outdoor activities"],
       de: ["Bekannt für Wurst- und Käsespezialitäten", "Umgeben von den Tandilia-Hügeln", "Beliebtes Ziel für Trekking", "Standort der Universidad del Centro"],
@@ -159,7 +159,7 @@ image: "/poi-images/ar-b-tandil-cities-v2.webp"
       hu: ["Az 1823-ban alapított város környéke kiváló kirándulóhely.", "Híres a hagyományos 'salame' kolbászairól.", "A Cerro Centinela domb az egyik fő helyi nevezetesség.", "A város a Tandilia-hegység legmagasabb pontjainak közelében épült."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-59.1332, -37.3217],
     name: {
       de: "Tandil",
@@ -186,7 +186,7 @@ image: "/poi-images/ar-b-tandil-cities-v2.webp"
       de: "Ein bedeutendes Industrie- und Wohnzentrum im Ballungsraum Gran Buenos Aires mit langer Brautradition.",
       ro: "Quilmes este un oraș istoric din zona metropolitană Buenos Aires, cunoscut la nivel mondial pentru marca de bere care îi poartă numele.",
       hu: "Buenos Aires nagyvárosi területének része, amely az azonos nevű híres sörgyárról ismert. Történelmileg egy őshonos közösség települése volt, mielőtt modern ipari várossá vált.",
-image: "/poi-images/ar-b-quilmes-cities-v2.webp"
+// image: "/poi-images/ar-b-quilmes-cities-v2.webp"
 },
     facts: { en: ["Historic settlement",
       "Major brewery center",
@@ -197,7 +197,7 @@ image: "/poi-images/ar-b-quilmes-cities-v2.webp"
       hu: ["Névadója a quilmes őslakos népcsoport volt.", "Itt működik Argentína egyik legnagyobb és legrégebbi sörfőzdéje.", "A város jelentős népességű lakóövezet Buenos Aires közvetlen szomszédságában.", "Fontos ipari és kereskedelmi csomópont a déli elővárosi körzetben."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-58.2541, -34.7290],
     name: {
       de: "Quilmes",
@@ -224,7 +224,7 @@ image: "/poi-images/ar-b-quilmes-cities-v2.webp"
       de: "Ein dicht besiedeltes Wohn- und Handelszentrum südlich der Hauptstadt Buenos Aires.",
       ro: "Lomas de Zamora este un centru urban important la sud de capitală, servind ca nod comercial și administrativ regional.",
       hu: "Sűrűn lakott lakóövezet Buenos Aires déli részén, amely számos zöld területtel és jelentős kereskedelmi központtal rendelkezik. A város a régió egyik leggyorsabban fejlődő adminisztratív központja.",
-image: "/poi-images/ar-b-lomas-de-zamora-cities-v2.webp"
+// image: "/poi-images/ar-b-lomas-de-zamora-cities-v2.webp"
 },
     facts: { en: ["Significant railway hub in the southern suburbs", "Home to the historic Lomas Athletic Club", "Part of a key industrial corridor"],
       de: ["Großes Handelszentrum", "Teil des Ballungsraums Gran Buenos Aires", "Wichtiger Verkehrsknotenpunkt", "Sitz zahlreicher Bildungseinrichtungen"],
@@ -232,7 +232,7 @@ image: "/poi-images/ar-b-lomas-de-zamora-cities-v2.webp"
       hu: ["A nagy Buenos Aires-i agglomeráció szerves része.", "Jelentős oktatási intézmények találhatók a területén.", "A városnegyed parkjai fontos rekreációs lehetőséget nyújtanak.", "Aktív kereskedelmi élettel és számos bevásárlóközponttal rendelkezik."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-58.4069, -34.7609],
     name: {
       de: "Lomas de Zamora",
@@ -259,7 +259,7 @@ image: "/poi-images/ar-b-lomas-de-zamora-cities-v2.webp"
       de: "Ein eleganter Vorort von Buenos Aires, der für seinen historischen Charme und seine exklusiven Wohngebiete bekannt ist.",
       ro: "San Isidro este unul dintre cele mai elegante cartiere din nordul zonei metropolitane, renumit pentru centrul său istoric și hipodrom.",
       hu: "Előkelő lakóövezet Buenos Aires északi részén, amely a Río de la Plata partja mentén terül el. A várost történelmi épületei és a folyóparti kikötői jellemzik.",
-image: "/poi-images/ar-b-san-isidro-cities-v2.webp"
+// image: "/poi-images/ar-b-san-isidro-cities-v2.webp"
 },
     facts: { en: ["Colonial architecture",
       "Riverside location",
@@ -270,7 +270,7 @@ image: "/poi-images/ar-b-san-isidro-cities-v2.webp"
       hu: ["A környék a 19. század óta a felsőbb társadalmi osztályok kedvelt lakhelye.", "Itt található a neoklasszikus stílusú San Isidro katedrális.", "A város jelentős vitorlásközpont és rekreációs zóna.", "Sok történelmi villa és kiterjedt zöldövezet található itt."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-58.5262, -34.4714],
     name: {
       de: "San Isidro",
@@ -297,7 +297,7 @@ image: "/poi-images/ar-b-san-isidro-cities-v2.webp"
       de: "Eine wichtige Industriestadt am Ufer des Paraná-Flusses, bekannt für ihre Stahlproduktion und religiöse Bedeutung.",
       ro: "San Nicolás este un oraș industrial și religios pe malul râului Paraná, fiind un punct important de pelerinaj catolic.",
       hu: "Fontos ipari és kikötőváros a Paraná-folyó partján, amely történelmi jelentőséggel bír az argentin alkotmányozás folyamatában. Az ipar mellett a folyami hajózás is meghatározó szerepet tölt be.",
-image: "/poi-images/ar-b-san-nicolas-de-los-arroyos-cities-v2.webp"
+// image: "/poi-images/ar-b-san-nicolas-de-los-arroyos-cities-v2.webp"
 },
     facts: { en: ["Home to the Sanctuary of Our Lady of the Rosary", "Site of a major steel manufacturing plant", "Played a key role in the 1853 Constitution agreement"],
       de: ["Bedeutendes Zentrum der Stahlindustrie", "Wichtiger Hafen am Rio Paraná", "Religiöser Wallfahrtsort", "Strategische Lage zwischen Buenos Aires und Rosario"],
@@ -305,7 +305,7 @@ image: "/poi-images/ar-b-san-nicolas-de-los-arroyos-cities-v2.webp"
       hu: ["Itt írták alá az 1852-es San Nicolás-i megállapodást.", "A város jelentős acélipari központtal rendelkezik.", "A Szűzanya kegyhelye fontos zarándokhely az országban.", "A Paraná-folyó mentén stratégiai fontosságú kikötővel bír."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-60.2195, -33.3288],
     name: {
       de: "San Nicolás de los Arroyos",
@@ -332,7 +332,7 @@ image: "/poi-images/ar-b-san-nicolas-de-los-arroyos-cities-v2.webp"
       de: "Ein dynamisches Industrie- und Wohngebiet im Süden des Großraums Buenos Aires.",
       ro: "Lanús este un oraș industrial și rezidențial dens populat, situat la sud de Buenos Aires, cu o puternică tradiție sportivă.",
       hu: "Ipari és lakóváros a Buenos Aires-i agglomeráció déli övezetében. A terület a 20. század során fejlődött nagyvárosi központtá, és ma jelentős népességgel bír.",
-image: "/poi-images/ar-b-lanus-cities-v2.webp"
+// image: "/poi-images/ar-b-lanus-cities-v2.webp"
 },
     facts: { en: ["Major center for the leather and textile industries", "Home to the prominent Club Atlético Lanús", "Densely populated urban area near the capital"],
       de: ["Starker industrieller Sektor", "Dicht besiedeltes Stadtgebiet", "Teil des Ballungsraums Buenos Aires", "Bekannter lokaler Fußballclub"],
@@ -340,7 +340,7 @@ image: "/poi-images/ar-b-lanus-cities-v2.webp"
       hu: ["Fontos közlekedési csomópont a városrészben.", "A város gazdasága nagymértékben alapozott az ipari termelésre.", "Jelentős sportkluboknak és közösségi tereknek ad otthont.", "Sűrű beépítettség jellemzi a város nagy részét."]
     },
     type: "city",
-    parent: "AR-B",
+//     parent: "AR-B",
     coords: [-58.3888, -34.7046],
     name: {
       de: "Lanús",
@@ -367,7 +367,7 @@ image: "/poi-images/ar-b-lanus-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Catamarca liegt in einem Gebirgstal und ist für ihre Textiltradition bekannt.",
       ro: "San Fernando del Valle de Catamarca este situat într-o vale montană și este renumit pentru prelucrarea artizanală a lânii de vicuña.",
       hu: "San Fernando del Valle de Catamarca tartományi székhely az Andok lábánál, amely a gyarmati korból megőrzött vallási épületeiről ismert. A régió fontos kulturális és közigazgatási centruma.",
-image: "/poi-images/ar-k-catamarca-cities-v2.webp"
+// image: "/poi-images/ar-k-catamarca-cities-v2.webp"
 },
     facts: { en: ["Capital of the Catamarca Province", "Famed for the Virgin of the Valley sanctuary", "Center for traditional hand-woven poncho production"],
       de: ["Hauptstadt der Provinz Catamarca", "Berühmt für handgewebte Ponchos", "Umgeben von den Andenausläufern", "Bedeutendes Bergbauzentrum in der Region"],
@@ -375,7 +375,7 @@ image: "/poi-images/ar-k-catamarca-cities-v2.webp"
       hu: ["Az 1683-ban alapított város völgyi környezetben fekszik.", "A 'Virgen del Valle' bazilika az egyik legfontosabb zarándokhely.", "Gazdaságának alapja a mezőgazdaság és az ásványkincsek feldolgozása.", "A környező hegységek népszerűek a túrázók körében."]
     },
     type: "state-capital",
-    parent: "AR-K",
+//     parent: "AR-K",
     coords: [-65.7795, -28.4696],
     name: {
       de: "San Fernando del Valle de Catamarca",
@@ -402,7 +402,7 @@ image: "/poi-images/ar-k-catamarca-cities-v2.webp"
       de: "Eine historische Stadt in der Provinz Catamarca, die als Wiege des Ponchos gilt.",
       ro: "Belén este considerat capitala argentiniană a țesutului artizanal, fiind un oraș cu rădăcini istorice adânci în provincia Catamarca.",
       hu: "Catamarca tartomány egyik történelmi városa, amelyet a helyi kézműves szőttesek és a prekolumbián örökség tesz különlegessé. Az Andok lábánál található település nyugodt hangulatú.",
-image: "/poi-images/ar-k-belen-cities-v2.webp"
+// image: "/poi-images/ar-k-belen-cities-v2.webp"
 },
     facts: { en: ["Famous for high-quality vicuña and llama wool textiles", "Founded in 1681 in the Belén Valley", "Strategic stop on the legendary Route 40"],
       de: ["Zentrum der traditionellen Webkunst", "Tor zur Hochebene (Puna)", "Historischer Siedlungsort", "Umgeben von Weinbergen und Bergen"],
@@ -410,7 +410,7 @@ image: "/poi-images/ar-k-belen-cities-v2.webp"
       hu: ["A várost 1681-ben alapították.", "Híres az ősi hagyományokat őrző kézműves textíliáiról.", "A környék számos régészeti lelőhelynek ad otthont.", "Az 'Andok bölcsőjének' is nevezik a környékbeliek."]
     },
     type: "city",
-    parent: "AR-K",
+//     parent: "AR-K",
     coords: [-67.0253, -27.6517],
     name: {
       de: "Belén",
@@ -437,7 +437,7 @@ image: "/poi-images/ar-k-belen-cities-v2.webp"
       de: "Eine Bergbaustadt am Fuße der Aconquija-Berge, bekannt für den Abbau von Rhodochrosit.",
       ro: "Andalgalá este un oraș situat la poalele munților Aconquija, cunoscut pentru activitățile miniere și producția de măsline.",
       hu: "Kisebb város Catamarca tartományban, amely a környező völgyek mezőgazdasági termeléséről és az ásványi forrásokról ismert. Fontos szerepet játszik a helyi bortermelésben.",
-image: "/poi-images/ar-k-andalgala-cities-v2.webp"
+// image: "/poi-images/ar-k-andalgala-cities-v2.webp"
 },
     facts: { en: ["Center for rhodochrosite gemstone mining", "Major producer of walnuts and olives", "Located near the scenic Cuesta de la Chilca"],
       de: ["Zentrum des Rhodochrosit-Abbaus", "Gelegen in einem fruchtbaren Tal", "Ausgangspunkt für Andenexpeditionen", "Wichtige Agrarproduktion"],
@@ -445,7 +445,7 @@ image: "/poi-images/ar-k-andalgala-cities-v2.webp"
       hu: ["A várost a 17. században alapították.", "A régió a bányászatáról és a mezőgazdasági értékeiről ismert.", "Kellemes mikroklímája kedvező a gyümölcstermesztésnek.", "A környező hegyek gazdagok ásványi anyagokban."]
     },
     type: "city",
-    parent: "AR-K",
+//     parent: "AR-K",
     coords: [-66.3150, -27.5833],
     name: {
       de: "Andalgalá",
@@ -472,7 +472,7 @@ image: "/poi-images/ar-k-andalgala-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Chaco ist als 'Stadt der Skulpturen' bekannt und liegt am Rio Paraná.",
       ro: "Resistencia este capitala provinciei Chaco, fiind celebră pentru sutele de sculpturi expuse pe străzile sale publice.",
       hu: "Chaco tartomány székhelye, amelyet 'a szobrok városának' neveznek a köztereken kiállított számos alkotás miatt. Fontos gazdasági és kereskedelmi központ Észak-Argentínában.",
-image: "/poi-images/ar-h-resistencia-cities-v2.webp"
+// image: "/poi-images/ar-h-resistencia-cities-v2.webp"
 },
     facts: { en: ["Hosts the International Sculpture Biennial", "Major cultural and economic hub of the Chaco region", "Known for its extensive urban forest and parks"],
       de: ["Über 600 Skulpturen im Stadtbild", "Hauptstadt der Provinz Chaco", "Wirtschaftliches Zentrum im Nordosten", "Heißes, subtropisches Klima"],
@@ -480,7 +480,7 @@ image: "/poi-images/ar-h-resistencia-cities-v2.webp"
       hu: ["A városközpontban több mint 600 kültéri szobor található.", "A gyapottermesztés és az erdőgazdálkodás meghatározó gazdasági ágak.", "Az ország egyik legfontosabb kulturális csomópontja északon.", "A Paraná-folyóhoz közeli elhelyezkedése elősegíti a kereskedelmet."]
     },
     type: "state-capital",
-    parent: "AR-H",
+//     parent: "AR-H",
     coords: [-58.9839, -27.4514],
     name: {
       de: "Resistencia",
@@ -507,7 +507,7 @@ image: "/poi-images/ar-h-resistencia-cities-v2.webp"
       de: "Die zweitgrößte Stadt der Provinz Chaco ist ein wichtiges Zentrum für Thermalbäder und Landwirtschaft.",
       ro: "Sáenz Peña este al doilea oraș ca mărime din Chaco, fiind recunoscut pentru apele sale termale și producția de bumbac.",
       hu: "Chaco tartomány második legnagyobb városa, amely a környékbeli mezőgazdasági termelés központja. A városról a híres termálvizes fürdője is ismert.",
-image: "/poi-images/ar-h-presidencia-roque-saenz-pena-cities-v2.webp"
+// image: "/poi-images/ar-h-presidencia-roque-saenz-pena-cities-v2.webp"
 },
     facts: { en: ["Home to the popular Termas de Sáenz Peña", "Nicknamed the 'Cotton Capital' of Argentina", "Features a prominent zoo and botanical garden"],
       de: ["Zentrum des Baumwollanbaus", "Bekannt für heiße Thermalquellen", "Zentraler Verkehrsknotenpunkt im Chaco", "Wirtschaftlicher Motor der Region"],
@@ -515,7 +515,7 @@ image: "/poi-images/ar-h-presidencia-roque-saenz-pena-cities-v2.webp"
       hu: ["Az 1912-ben alapított város központi szerepet játszik a mezőgazdaságban.", "Termálfürdői miatt kedvelt üdülési célpont a környéken.", "A város az 'Ezüst-főváros' nevet is viseli történelme során.", "Fontos oktatási és szolgáltató központ a tartományban."]
     },
     type: "city",
-    parent: "AR-H",
+//     parent: "AR-H",
     coords: [-60.4388, -26.7852],
     name: {
       de: "Presidencia Roque Sáenz Peña",
@@ -542,7 +542,7 @@ image: "/poi-images/ar-h-presidencia-roque-saenz-pena-cities-v2.webp"
       de: "Die drittgrößte Stadt der Provinz Chaco, bekannt für ihre lebendige Gemeinschaft und landwirtschaftliche Bedeutung.",
       hu: "Chaco tartomány délnyugati részének központja, amely jelentős gyapotfeldolgozó iparral és mezőgazdasággal rendelkezik. A város kulturális életének kiemelkedő eseménye a helyi karnevál.",
       ro: "Villa Ángela este un centru agricol și industrial important în provincia Chaco, cunoscut pentru diversitatea sa culturală.",
-image: "/poi-images/ar-h-villa-angela-cities-v2.webp"
+// image: "/poi-images/ar-h-villa-angela-cities-v2.webp"
 },
     facts: { en: ["Major center for sunflower and cotton production", "Famous for its energetic annual carnival parades", "Important logistical hub for the southern Chaco"],
       de: ["Wirtschaftszentrum im Südwesten des Chaco", "Bekannt für den 'Karneval der Skulpturen'", "Zentrum der Agrar- und Viehwirtschaft", "Vielseitige kulturelle Einflüsse"],
@@ -550,7 +550,7 @@ image: "/poi-images/ar-h-villa-angela-cities-v2.webp"
       ro: ["Al treilea oraș ca mărime din Chaco", "Cunoscut pentru carnavalul său local", "Centru de producție a bumbacului și floarea-soarelui", "Fondat la începutul secolului XX"]
     },
     type: "city",
-    parent: "AR-H",
+//     parent: "AR-H",
     coords: [-60.7153, -27.5738],
     name: {
       de: "Villa Ángela",
@@ -577,7 +577,7 @@ image: "/poi-images/ar-h-villa-angela-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Chubut an der Atlantikküste, bekannt für ihren Fischereihafen und Regierungsgebäude.",
       hu: "Chubut tartomány székhelye, amely az Atlanti-óceán partján, a Chubut-folyó torkolatánál fekszik. Fontos közigazgatási központ és halászkikötővel rendelkezik.",
       ro: "Rawson este capitala administrativă a provinciei Chubut, situată aproape de coasta atlantică și gura de vărsare a râului Chubut.",
-image: "/poi-images/ar-u-rawson-cities-v2.webp"
+// image: "/poi-images/ar-u-rawson-cities-v2.webp"
 },
     facts: { en: ["Founded by Welsh settlers in 1865", "Home to the provincial government offices", "Located near the Playa Unión beach resort"],
       de: ["Hauptstadt der Provinz Chubut", "Bedeutender Hafen (Puerto Rawson)", "Gegründet von walisischen Siedlern", "Verwaltungszentrum der Region"],
@@ -585,7 +585,7 @@ image: "/poi-images/ar-u-rawson-cities-v2.webp"
       ro: ["Prima așezare galeză din Patagonia", "Fondat în 1865", "Găzduiește centrul administrativ provincial", "Portul Rawson este faimos pentru creveți"]
     },
     type: "state-capital",
-    parent: "AR-U",
+//     parent: "AR-U",
     coords: [-65.1023, -43.3002],
     name: {
       de: "Rawson",
@@ -612,7 +612,7 @@ image: "/poi-images/ar-u-rawson-cities-v2.webp"
       de: "Die größte Stadt in Zentralpatagonien und das wichtigste Zentrum der argentinischen Erdölindustrie.",
       hu: "Patagónia egyik legnagyobb városa, amely az ország olajfővárosaként ismert. Az Atlanti-óceán partján, a San Jorge-öbölben fekszik, hegyekkel körülvéve.",
       ro: "Comodoro Rivadavia este cel mai mare oraș din provincia Chubut și capitala națională a petrolului în Argentina.",
-image: "/poi-images/ar-u-comodoro-rivadavia-cities-v2.webp"
+// image: "/poi-images/ar-u-comodoro-rivadavia-cities-v2.webp"
 },
     facts: { en: ["The birthplace of the Argentine oil industry", "Strategic port on the San Jorge Gulf", "Surrounded by the iconic Chenque Hill"],
       de: ["Hauptstadt des argentinischen Erdöls", "Größte Stadt der Provinz Chubut", "Wichtiger Seehafen am Atlantik", "Gelegen am Fuße des Chenque-Berges"],
@@ -620,7 +620,7 @@ image: "/poi-images/ar-u-comodoro-rivadavia-cities-v2.webp"
       ro: ["Principalul centru energetic al Patagoniei", "Situat pe malul Golfului San Jorge", "Oraș portuar și industrial major", "Înconjurat de peisaje de stepă aridă"]
     },
     type: "city",
-    parent: "AR-U",
+//     parent: "AR-U",
     coords: [-67.4891, -45.8641],
     name: {
       de: "Comodoro Rivadavia",
@@ -647,7 +647,7 @@ image: "/poi-images/ar-u-comodoro-rivadavia-cities-v2.webp"
       de: "Ein bedeutendes kulturelles und kommerzielles Zentrum im Chubut-Tal, geprägt von walisischen Einflüssen.",
       hu: "Fontos kereskedelmi és ipari központ Patagóniában, a Chubut-völgyben. A város híres paleontológiai múzeumáról és walesi gyökereiről.",
       ro: "Trelew este un oraș comercial și industrial important în valea inferioară a râului Chubut, cu o puternică moștenire galeză.",
-image: "/poi-images/ar-u-trelew-cities-v2.webp"
+// image: "/poi-images/ar-u-trelew-cities-v2.webp"
 },
     facts: { en: ["Home to the MEF Paleontological Museum", "Founded as a railhead for the Central Chubut Railway", "Key hub for the region's textile industry"],
       de: ["Zentrum der walisischen Kolonisation", "Heimat des Paläontologischen Museums Egidio Feruglio", "Wichtiger Verkehrsknotenpunkt in Patagonien", "Bedeutende Textilindustrie"],
@@ -655,7 +655,7 @@ image: "/poi-images/ar-u-trelew-cities-v2.webp"
       ro: ["Nod comercial major în estul Chubutului", "Găzduiește Muzeul Paleontologic Egidio Feruglio", "Fondat de coloniști galezi în 1886", "Numele înseamnă Orașul lui Lewis în galeză"]
     },
     type: "city",
-    parent: "AR-U",
+//     parent: "AR-U",
     coords: [-65.3051, -43.2490],
     name: {
       de: "Trelew",
@@ -682,7 +682,7 @@ image: "/poi-images/ar-u-trelew-cities-v2.webp"
       de: "Eine Küstenstadt am Golfo Nuevo, weltberühmt für Walbeobachtungen und maritimes Leben.",
       hu: "Népszerű turisztikai célpont az Atlanti-óceán partján, a Valdés-félsziget kapuja. A város leginkább a part mentén megfigyelhető bálnákról híres.",
       ro: "Puerto Madryn este poarta de acces către Peninsula Valdés și o destinație de top pentru observarea balenelor în Argentina.",
-image: "/poi-images/ar-u-puerto-madryn-cities-v2.webp"
+// image: "/poi-images/ar-u-puerto-madryn-cities-v2.webp"
 },
     facts: { en: ["One of the world's best spots for Southern Right Whale watching", "Founded by Welsh immigrants in 1865", "Major center for scuba diving and marine activities"],
       de: ["Tor zur Halbinsel Valdés", "Weltzentrum für Walbeobachtungen", "Tauchhauptstadt Argentiniens", "Wichtiger Aluminiumproduktionsstandort"],
@@ -690,7 +690,7 @@ image: "/poi-images/ar-u-puerto-madryn-cities-v2.webp"
       ro: ["Situat pe țărmul Golfului Nuevo", "Centru mondial pentru turism ecologic", "Fondat de coloniști galezi în 1865", "Port industrial și oraș balnear popular"]
     },
     type: "city",
-    parent: "AR-U",
+//     parent: "AR-U",
     coords: [-65.0721, -42.7692],
     name: {
       de: "Puerto Madryn",
@@ -717,7 +717,7 @@ image: "/poi-images/ar-u-puerto-madryn-cities-v2.webp"
       de: "Eine malerische Bergstadt in den Anden, bekannt als Ausgangspunkt für den historischen Dampfzug 'La Trochita'.",
       hu: "Az Andok lábánál fekvő város Chubut tartomány nyugati részén. Fontos turisztikai központ, különösen a síelés és a közeli Los Alerces Nemzeti Park miatt.",
       ro: "Esquel este un oraș pitoresc situat la poalele Anzilor, fiind un centru turistic important pentru sporturile de iarnă și natură.",
-image: "/poi-images/ar-u-esquel-cities-v2.webp"
+// image: "/poi-images/ar-u-esquel-cities-v2.webp"
 },
     facts: { en: ["Home to the historic 'La Trochita' steam train", "Gateway to the UNESCO-listed Los Alerces National Park", "Popular winter sports destination at La Hoya"],
       de: ["Endstation des Zugs 'La Trochita'", "Nähe zum Nationalpark Los Alerces", "Beliebtes Wintersportgebiet (La Hoya)", "Umgeben von Bergen und Seen"],
@@ -725,7 +725,7 @@ image: "/poi-images/ar-u-esquel-cities-v2.webp"
       ro: ["Aproape de Parcul Național Los Alerces", "Capăt de linie pentru trenul istoric La Trochita", "Găzduiește centrul de schi La Hoya", "Fondat în 1906"]
     },
     type: "city",
-    parent: "AR-U",
+//     parent: "AR-U",
     coords: [-71.3168, -42.9115],
     name: {
       de: "Esquel",
@@ -752,7 +752,7 @@ image: "/poi-images/ar-u-esquel-cities-v2.webp"
       de: "Die zweitgrößte Stadt Argentiniens, ein bedeutendes Zentrum für Bildung, Industrie und Kultur mit reichem Erbe.",
       hu: "Argentína második legnagyobb városa, gazdag gyarmati múlttal és élénk egyetemi élettel. Itt található az ország legrégebbi egyeteme és számos jezsuita épület.",
       ro: "Córdoba este al doilea oraș ca mărime din Argentina, un amestec vibrant de arhitectură colonială și viață studențească energică.",
-image: "/poi-images/ar-x-cordoba-cities-v2.webp"
+// image: "/poi-images/ar-x-cordoba-cities-v2.webp"
 },
     facts: { en: ["Home to the oldest university in Argentina", "Features the UNESCO-listed Jesuit Block", "Known for its lively 'cuarteto' music and nightlife"],
       de: ["Heimat der ältesten Universität des Landes", "Wichtiges Zentrum der Automobilindustrie", "Bekannt für den Jesuitenblock (Weltkulturerbe)", "Lebendige Studentenstadt"],
@@ -760,7 +760,7 @@ image: "/poi-images/ar-x-cordoba-cities-v2.webp"
       ro: ["Găzduiește cea mai veche universitate din țară", "Capitala provinciei Córdoba", "Centru cultural și industrial major", "Faimos pentru Ansamblul Iezuit (Patrimoniu UNESCO)"]
     },
     type: "state-capital",
-    parent: "AR-X",
+//     parent: "AR-X",
     coords: [-64.1835, -31.4201],
     name: {
       de: "Córdoba",
@@ -787,7 +787,7 @@ image: "/poi-images/ar-x-cordoba-cities-v2.webp"
       de: "Ein wichtiges kommerzielles und landwirtschaftliches Zentrum im Süden der Provinz Córdoba.",
       hu: "Córdoba tartomány déli részének gazdasági központja, amelyet a 'Birodalom' néven is emlegetnek. Jelentős mezőgazdasági kereskedelmi és oktatási centrum.",
       ro: "Río Cuarto este un centru agricol și comercial vital în sudul provinciei Córdoba, fiind supranumit Imperiul Sudului.",
-image: "/poi-images/ar-x-rio-cuarto-cities-v2.webp"
+// image: "/poi-images/ar-x-rio-cuarto-cities-v2.webp"
 },
     facts: { en: ["Major center for corn and soy production", "Home to the National University of Río Cuarto", "Strategic transport hub in central Argentina"],
       de: ["Handelsknotenpunkt für Agrarprodukte", "Sitz einer bedeutenden Nationaluniversität", "Wichtigste Stadt im Süden der Provinz", "Zentrum der Rinderzucht"],
@@ -795,7 +795,7 @@ image: "/poi-images/ar-x-rio-cuarto-cities-v2.webp"
       ro: ["Nod strategic de transport în centrul țării", "Centru universitar și administrativ regional", "Situat pe malul râului cu același nume", "Economie bazată pe agricultură și servicii"]
     },
     type: "city",
-    parent: "AR-X",
+//     parent: "AR-X",
     coords: [-64.3499, -33.1232],
     name: {
       de: "Río Cuarto",
@@ -822,7 +822,7 @@ image: "/poi-images/ar-x-rio-cuarto-cities-v2.webp"
       de: "Eine dynamische Stadt am Ufer des Rio Tercero, bekannt für ihre Milchindustrie und ihr internationales Musikfestival.",
       hu: "Dinamikusan fejlődő város Córdoba tartomány központjában, amely mezőgazdasági és élelmiszeripari jelentősége mellett nagyszabású zenei fesztiváljáról ismert.",
       ro: "Villa María este unul dintre cele mai prospere orașe din Córdoba, cunoscut pentru industria sa lactată și festivalurile de muzică.",
-image: "/poi-images/ar-x-villa-maria-cities-v2.webp"
+// image: "/poi-images/ar-x-villa-maria-cities-v2.webp"
 },
     facts: { en: ["Hosts the massive National Festival of Peñas", "One of the most important dairy basins in the country", "Located along the vital CTalamochita River"],
       de: ["Bedeutendes Zentrum der Milchproduktion", "Bekannt für das 'Festival Internacional de Peñas'", "Wichtiger Bildungsstandort", "Strategische Lage an der Route nach Rosario"],
@@ -830,7 +830,7 @@ image: "/poi-images/ar-x-villa-maria-cities-v2.webp"
       ro: ["Găzduiește un faimos festival de muzică populară", "Centru major de procesare a laptelui", "Situat la jumătatea distanței între Córdoba și Rosario", "Oraș modern cu universitate națională"]
     },
     type: "city",
-    parent: "AR-X",
+//     parent: "AR-X",
     coords: [-63.2402, -32.4103],
     name: {
       de: "Villa María",
@@ -857,7 +857,7 @@ image: "/poi-images/ar-x-villa-maria-cities-v2.webp"
       de: "Einer der beliebtesten Touristenorte Argentiniens am San-Roque-See, bekannt für sein Unterhaltungsangebot.",
       hu: "Argentína egyik legnépszerűbb belföldi turisztikai központja a San Roque-tó partján. Híres színházi életéről és vízi sportolási lehetőségeiről.",
       ro: "Villa Carlos Paz este principala destinație turistică a provinciei Córdoba, situată pe malul lacului de acumulare San Roque.",
-image: "/poi-images/ar-x-villa-carlos-paz-cities-v2.webp"
+// image: "/poi-images/ar-x-villa-carlos-paz-cities-v2.webp"
 },
     facts: { en: ["Famous for its iconic Cuckoo Clock monument", "Major hub for summer theater and entertainment", "Gateway to the beautiful Punilla Valley"],
       de: ["Wichtigstes Touristenzentrum der Sierras de Córdoba", "Bekannt für Theateraufführungen und Nachtleben", "Wassersport am San-Roque-See", "Heimat des berühmten Kuckucksuhr-Denkmals"],
@@ -865,7 +865,7 @@ image: "/poi-images/ar-x-villa-carlos-paz-cities-v2.webp"
       ro: ["Faimos pentru Ceasul cu Cuc gigant", "Centru major pentru teatru și divertisment de vară", "Situat în Valea Punilla", "Destinație populară pentru sporturi nautice"]
     },
     type: "city",
-    parent: "AR-X",
+//     parent: "AR-X",
     coords: [-64.4978, -31.4241],
     name: {
       de: "Villa Carlos Paz",
@@ -892,7 +892,7 @@ image: "/poi-images/ar-x-villa-carlos-paz-cities-v2.webp"
       de: "Eine Industriestadt an der Grenze zur Provinz Santa Fe, bekannt für ihre Maschinenbauproduktion.",
       hu: "Córdoba tartomány keleti határán fekvő város, amely fontos ipari és mezőgazdasági központ. A környék tejtermeléséről és gépgyártásáról nevezetes.",
       ro: "San Francisco este un oraș industrial situat la granița dintre provinciile Córdoba și Santa Fe, în inima regiunii de producție a laptelui.",
-image: "/poi-images/ar-x-san-francisco-cities-v2.webp"
+// image: "/poi-images/ar-x-san-francisco-cities-v2.webp"
 },
     facts: { en: ["Founded as an agricultural colony in 1886", "Key center for metalworking and food industries", "Located on a major national highway crossroads"],
       de: ["Wichtiges Zentrum der Metallindustrie", "Knotenpunkt des Landwirtschaftshandels", "Geprägt durch italienische Einwanderung", "Strategische Lage im Osten der Provinz"],
@@ -900,7 +900,7 @@ image: "/poi-images/ar-x-san-francisco-cities-v2.webp"
       ro: ["Nod rutier și feroviar important", "Centru industrial axat pe mașini agricole", "Fondat în 1886 de José Bernardo Iturraspe", "Economie strâns legată de agricultură"]
     },
     type: "city",
-    parent: "AR-X",
+//     parent: "AR-X",
     coords: [-62.0827, -31.4279],
     name: {
       de: "San Francisco",
@@ -927,7 +927,7 @@ image: "/poi-images/ar-x-san-francisco-cities-v2.webp"
       de: "Die älteste Stadt im Nordosten Argentiniens, bekannt für ihren Karneval und die Lage am Rio Paraná.",
       hu: "Corrientes tartomány székhelye a Paraná folyó partján, amely gyarmati stílusú építészetéről és nagyszabású karneváljáról híres. Az ország egyik legrégebbi városa.",
       ro: "Corrientes este unul dintre cele mai vechi orașe din Argentina, situat pe malul înalt al râului Paraná, faimos pentru carnavalul său.",
-image: "/poi-images/ar-w-corrientes-cities-v2.webp"
+// image: "/poi-images/ar-w-corrientes-cities-v2.webp"
 },
     facts: { en: ["One of the oldest cities in Argentina", "Famous for its elaborate and colorful carnival celebrations", "Features a scenic waterfront 'costanera' walkway"],
       de: ["Karnevalshauptstadt Argentiniens", "Gegründet im Jahr 1588", "Wichtigster Hafen am oberen Rio Paraná", "Zentrum der Chamamé-Musik"],
@@ -935,7 +935,7 @@ image: "/poi-images/ar-w-corrientes-cities-v2.webp"
       ro: ["Capitala națională a Carnavalului", "Fondat în 1588 sub numele San Juan de Vera", "Centru universitar și cultural în nord-est", "Arhitectură colonială și plaje fluviale"]
     },
     type: "state-capital",
-    parent: "AR-W",
+//     parent: "AR-W",
     coords: [-58.8341, -27.4692],
     name: {
       de: "Corrientes",
@@ -962,7 +962,7 @@ image: "/poi-images/ar-w-corrientes-cities-v2.webp"
       de: "Die zweitgrößte Stadt der Provinz Corrientes, bekannt für ihre Tabakindustrie und den Fischfang.",
       hu: "Corrientes tartomány második legnagyobb városa, amely dohánytermesztéséről és a Paraná folyón rendezett horgászversenyeiről ismert.",
       ro: "Goya este al doilea oraș ca mărime din provincia Corrientes, renumit pentru industria tutunului și pescuitul sportiv.",
-image: "/poi-images/ar-w-goya-cities-v2.webp"
+// image: "/poi-images/ar-w-goya-cities-v2.webp"
 },
     facts: { en: ["Hosts the prestigious Surubí National Festival", "Major center for the tobacco processing industry", "Founded in the late 18th century as a river port"],
       de: ["Zentrum der Tabakproduktion", "Heimat des internationalen Surubí-Angelwettbewerbs", "Bedeutende Flusshafenstadt", "Historische Architektur am Flussufer"],
@@ -970,7 +970,7 @@ image: "/poi-images/ar-w-goya-cities-v2.webp"
       ro: ["Găzduiește Festivalul Național al Surubí", "Port fluvial pe un braț al râului Paraná", "Centru istoric pentru producția de trabucuri", "Arhitectură de influență europeană"]
     },
     type: "city",
-    parent: "AR-w",
+//     parent: "AR-w",
     coords: [-59.2635, -29.1400],
     name: {
       de: "Goya",
@@ -997,7 +997,7 @@ image: "/poi-images/ar-w-goya-cities-v2.webp"
       de: "Eine wichtige Grenzstadt zu Brasilien am Rio Uruguay mit intensiven Handelsbeziehungen.",
       hu: "Határváros Corrientes tartományban, az Uruguay folyó partján, közvetlenül Brazíliával szemben. Fontos közúti és vasúti átkelőhely a két ország között.",
       ro: "Paso de los Libres este un oraș de frontieră strategic pe râul Uruguay, conectând Argentina de Brazilia prin podul internațional.",
-image: "/poi-images/ar-w-paso-de-los-libres-cities-v2.webp"
+// image: "/poi-images/ar-w-paso-de-los-libres-cities-v2.webp"
 },
     facts: { en: ["Major international trade hub with Brazil", "Birthplace of President Arturo Frondizi", "Home to the oldest carnival in Argentina"],
       de: ["Wichtiger Grenzübergang nach Brasilien", "Strategischer Handelsstandort", "Bekannt für grenzüberschreitenden Karneval", "Lage am Ufer des Rio Uruguay"],
@@ -1005,7 +1005,7 @@ image: "/poi-images/ar-w-paso-de-los-libres-cities-v2.webp"
       ro: ["Punct vamal major între Argentina și Brazilia", "Fondat în 1843 de Joaquín Madariaga", "Locul de naștere al președintelui Arturo Frondizi", "Centru comercial și de transport vital"]
     },
     type: "city",
-    parent: "AR-W",
+//     parent: "AR-W",
     coords: [-57.0877, -29.7124],
     name: {
       de: "Paso de los Libres",
@@ -1032,7 +1032,7 @@ image: "/poi-images/ar-w-paso-de-los-libres-cities-v2.webp"
       de: "Eine historische Stadt im Süden der Provinz Corrientes, bekannt als 'Stadt des Rechts'.",
       hu: "A 'Belső Corrientes' központja, amelyet Manuel Belgrano tábornok alapított. A város híres zenei hagyományairól és mezőgazdasági vásárairól.",
       ro: "Curuzú Cuatiá este un oraș cu o istorie bogată în provincia Corrientes, fiind primul oraș fondat de guvernul național după revoluție.",
-image: "/poi-images/ar-w-curuzu-cuatia-cities-v2.webp"
+// image: "/poi-images/ar-w-curuzu-cuatia-cities-v2.webp"
 },
     facts: { en: ["First city founded by a native Argentine government", "Important center for the regional cattle industry", "Strong traditions in Chamamé folk music"],
       de: ["Gegründet von General Manuel Belgrano", "Bedeutendes Zentrum der Schafzucht", "Wichtiger Eisenbahn- und Straßenknotenpunkt", "Reiches kulturelles und musikalisches Erbe"],
@@ -1040,7 +1040,7 @@ image: "/poi-images/ar-w-curuzu-cuatia-cities-v2.webp"
       ro: ["Fondat de Manuel Belgrano în 1810", "Numele înseamnă Cruce de Piatră în guarani", "Centru important pentru creșterea vitelor", "Cunoscut pentru tradiția sa muzicală folk"]
     },
     type: "city",
-    parent: "AR-W",
+//     parent: "AR-W",
     coords: [-58.0546, -29.7917],
     name: {
       de: "Curuzú Cuatiá",
@@ -1067,7 +1067,7 @@ image: "/poi-images/ar-w-curuzu-cuatia-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Entre Ríos liegt am majestätischen Paraná-Fluss und ist für ihre Parks und Klippen bekannt.",
       hu: "Entre Ríos tartomány székhelye a Paraná folyó partján. A város fontos történelmi jelentőséggel bír, mivel rövid ideig az Argentin Konföderáció fővárosa volt.",
       ro: "Paraná este capitala provinciei Entre Ríos, situată pe malul înalt al râului Paraná și cunoscută pentru peisajele sale fluviale senine.",
-image: "/poi-images/ar-e-parana-cities-v2.webp"
+// image: "/poi-images/ar-e-parana-cities-v2.webp"
 },
     facts: { en: ["Served as the capital of the Argentine Confederation", "Known for its beautiful Urquiza Park", "Connected to Santa Fe via an underwater tunnel"],
       de: ["Hauptstadt der Provinz Entre Ríos", "Ehemalige Hauptstadt des Argentinischen Bundes", "Wichtiger Binnenhafen", "Bekannt für den Parque Urquiza"],
@@ -1075,7 +1075,7 @@ image: "/poi-images/ar-e-parana-cities-v2.webp"
       ro: ["Fostă capitală a Confederației Argentiniene", "Conectată de Santa Fe printr-un tunel subfluvial", "Centru administrativ și cultural major", "Oraș fondat în secolul al XVIII-lea"]
     },
     type: "state-capital",
-    parent: "AR-E",
+//     parent: "AR-E",
     coords: [-60.5238, -31.7319],
     name: {
       de: "Paraná",
@@ -1102,7 +1102,7 @@ image: "/poi-images/ar-e-parana-cities-v2.webp"
       de: "Eine wichtige Stadt am Rio Uruguay, bekannt für ihre Zitrusproduktion und die Nähe zum Salto-Grande-Staudamm.",
       hu: "Jelentős város az Uruguay folyó partján, amely citrusfélék termesztéséről és termálfürdőiről ismert. Fontos kereskedelmi kapu Uruguay felé.",
       ro: "Concordia este un oraș important pe malul râului Uruguay, renumit pentru producția de citrice și complexele sale termale.",
-image: "/poi-images/ar-e-concordia-cities-v2.webp"
+// image: "/poi-images/ar-e-concordia-cities-v2.webp"
 },
     facts: { en: ["Major center for orange and lemon exports", "Home to popular thermal water resorts", "Strategic point for hydroelectric power generation"],
       de: ["Zentrum der Zitrusfruchtproduktion", "Wichtiger Grenzübergang nach Uruguay", "Bekannt für Thermalbäder", "Lage am Rio Uruguay"],
@@ -1110,7 +1110,7 @@ image: "/poi-images/ar-e-concordia-cities-v2.webp"
       ro: ["Aproape de barajul Salto Grande", "Centru major de export pentru portocale și mandarine", "Găzduiește parcuri și stațiuni balneare", "Nod feroviar și rutier internațional"]
     },
     type: "city",
-    parent: "AR-E",
+//     parent: "AR-E",
     coords: [-58.0209, -31.3930],
     name: {
       de: "Concordia",
@@ -1137,7 +1137,7 @@ image: "/poi-images/ar-e-concordia-cities-v2.webp"
       de: "Berühmt für den größten Karneval Argentiniens und ihre Thermalbäder am Ufer des Rio Gualeguaychú.",
       hu: "Az ország egyik leghíresebb karneváli városa az Uruguay folyó közelében. Népszerű turisztikai célpont strandjai és ökoturisztikai lehetőségei miatt.",
       ro: "Gualeguaychú este faimos pentru cel mai mare carnaval din Argentina și pentru plajele sale pe râul Uruguay.",
-image: "/poi-images/ar-e-gualeguaychu-cities-v2.webp"
+// image: "/poi-images/ar-e-gualeguaychu-cities-v2.webp"
 },
     facts: { en: ["Home to the massive 'Carnival of the Country'", "Popular river beach and camping destination", "Known for its environmental activism and parks"],
       de: ["Heimat des 'Carnaval del País'", "Beliebtes Ziel für Wochenendtouristen", "Wichtige Thermalzentren", "Zentrum des Agrarhandels"],
@@ -1145,7 +1145,7 @@ image: "/poi-images/ar-e-gualeguaychu-cities-v2.webp"
       ro: ["Găzduiește „Carnavalul Țării”", "Destinație turistică populară în timpul verii", "Centru agricol și industrial diversificat", "Fondat în 1783 de Tomás de Rocamora"]
     },
     type: "city",
-    parent: "AR-E",
+//     parent: "AR-E",
     coords: [-58.5134, -33.0076],
     name: {
       de: "Gualeguaychú",
@@ -1172,7 +1172,7 @@ image: "/poi-images/ar-e-gualeguaychu-cities-v2.webp"
       de: "Eine historische Stadt in Entre Ríos mit reichem kulturellem Erbe und bedeutenden Bildungseinrichtungen.",
       hu: "Történelmi város az Uruguay folyó partján, amelyet 'La Histórica' néven is emlegetnek. Számos nemzeti műemlék és fontos oktatási intézmény otthona.",
       ro: "Concepción del Uruguay este un oraș istoric supranumit „Orașul Istoric”, având un rol crucial în formarea națiunii argentiniene.",
-image: "/poi-images/ar-e-concepcion-del-uruguay-cities-v2.webp"
+// image: "/poi-images/ar-e-concepcion-del-uruguay-cities-v2.webp"
 },
     facts: { en: ["Historic port",
       "Uruguay River",
@@ -1183,7 +1183,7 @@ image: "/poi-images/ar-e-concepcion-del-uruguay-cities-v2.webp"
       ro: ["Locul de naștere al mai multor președinți", "Centru universitar important în regiune", "Port fluvial activ pe râul Uruguay", "Găzduiește Palatul San José în apropiere"]
     },
     type: "city",
-    parent: "AR-E",
+//     parent: "AR-E",
     coords: [-58.2323, -32.4825],
     name: {
       de: "Concepción del Uruguay",
@@ -1210,7 +1210,7 @@ image: "/poi-images/ar-e-concepcion-del-uruguay-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Formosa im subtropischen Norden, bekannt für ihre moderne Uferpromenade.",
       hu: "Formosa tartomány székhelye a Paraguay folyó partján, az ország északi részén. Trópusi éghajlatú város, amely kapuként szolgál a szomszédos Paraguay felé.",
       ro: "Formosa este capitala provinciei cu același nume, situată la granița cu Paraguay, pe malul râului Paraguay.",
-image: "/poi-images/ar-p-formosa-cities-v2.webp"
+// image: "/poi-images/ar-p-formosa-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Paraguay River",
@@ -1221,7 +1221,7 @@ image: "/poi-images/ar-p-formosa-cities-v2.webp"
       ro: ["Oraș modern cu o faleză pitorească", "Climat subtropical umed pe tot parcursul anului", "Centru administrativ și comercial de frontieră", "Fondat în 1879 de Luis Jorge Fontana"]
     },
     type: "state-capital",
-    parent: "AR-P",
+//     parent: "AR-P",
     coords: [-58.1781, -26.1849],
     name: {
       de: "Formosa",
@@ -1248,7 +1248,7 @@ image: "/poi-images/ar-p-formosa-cities-v2.webp"
       de: "Eine strategische Grenzstadt zu Paraguay, die ein wichtiges Handelszentrum im Norden Argentiniens darstellt.",
       hu: "Fontos határváros Formosa tartományban, közvetlenül a paraguayi Asunción szomszédságában. Jelentős kereskedelmi és vámügyi központ.",
       ro: "Clorinda este al doilea oraș ca mărime din provincia Formosa, fiind un punct de trecere strategic către Asunción, Paraguay.",
-image: "/poi-images/ar-p-clorinda-cities-v2.webp"
+// image: "/poi-images/ar-p-clorinda-cities-v2.webp"
 },
     facts: { en: ["Border city",
       "Trade hub",
@@ -1259,7 +1259,7 @@ image: "/poi-images/ar-p-clorinda-cities-v2.webp"
       ro: ["Oraș comercial intens la graniță", "Conectat de Paraguay prin podul San Ignacio de Loyola", "Important centru de tranzit pentru mărfuri", "Situat în apropierea vărsării râului Pilcomayo"]
     },
     type: "city",
-    parent: "AR-P",
+//     parent: "AR-P",
     coords: [-57.7186, -25.2848],
     name: {
       de: "Clorinda",
@@ -1286,7 +1286,7 @@ image: "/poi-images/ar-p-clorinda-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Jujuy liegt am Eingang der Quebrada de Humahuaca in den Anden.",
       hu: "Jujuy tartomány székhelye az Andok lábánál, amelyet 'Ezüst csészének' is neveznek. A város kapuként szolgál a látványos Humahuaca-völgy felé.",
       ro: "San Salvador de Jujuy, supranumit „Ceașca de Argint”, este capitala provinciei Jujuy și poarta către Quebrada de Humahuaca.",
-image: "/poi-images/ar-y-san-salvador-de-jujuy-cities-v2.webp"
+// image: "/poi-images/ar-y-san-salvador-de-jujuy-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Andean region",
@@ -1297,7 +1297,7 @@ image: "/poi-images/ar-y-san-salvador-de-jujuy-cities-v2.webp"
       ro: ["Situat la o altitudine de 1.259 metri", "Centru cultural cu influențe andine puternice", "Fondat definitiv în 1593", "Înconjurat de munți și văi spectaculoase"]
     },
     type: "state-capital",
-    parent: "AR-Y",
+//     parent: "AR-Y",
     coords: [-65.2971, -24.1858],
     name: {
       de: "San Salvador de Jujuy",
@@ -1324,7 +1324,7 @@ image: "/poi-images/ar-y-san-salvador-de-jujuy-cities-v2.webp"
       de: "Ein wichtiges Agrarzentrum im Osten der Provinz Jujuy, bekannt für den Anbau von Zuckerrohr.",
       hu: "Jujuy tartomány második legfontosabb városa, amely mezőgazdaságáról, különösen a cukornádtermesztésről ismert. A San Francisco-folyó völgyében fekszik.",
       ro: "San Pedro de Jujuy este un centru agricol vital în estul provinciei Jujuy, fiind inima producției de trestie de zahăr.",
-image: "/poi-images/ar-y-san-pedro-de-jujuy-cities-v2.webp"
+// image: "/poi-images/ar-y-san-pedro-de-jujuy-cities-v2.webp"
 },
     facts: { en: ["Sugar cane industry",
       "Industrial city",
@@ -1335,7 +1335,7 @@ image: "/poi-images/ar-y-san-pedro-de-jujuy-cities-v2.webp"
       ro: ["Cunoscut pentru industria sa zahărului", "Climat subtropical prielnic agriculturii", "Al doilea oraș ca mărime din provincie", "Găzduiește carnavaluri colorate și tradiționale"]
     },
     type: "city",
-    parent: "AR-Y",
+//     parent: "AR-Y",
     coords: [-64.8660, -24.2333],
     name: {
       de: "San Pedro de Jujuy",
@@ -1362,7 +1362,7 @@ image: "/poi-images/ar-y-san-pedro-de-jujuy-cities-v2.webp"
       de: "Bekannt als die 'Mutter der Industrien' in Jujuy, geprägt durch die Stahlproduktion.",
       hu: "Ipari város Jujuy tartományban, amelyet 'Acélvárosnak' neveznek az ott található jelentős kohászati üzemek miatt. San Salvador de Jujuy közelében található.",
       ro: "Palpalá este un oraș industrial situat lângă San Salvador de Jujuy, fiind centrul siderurgic al regiunii de nord-vest.",
-image: "/poi-images/ar-y-palpala-cities-v2.webp"
+// image: "/poi-images/ar-y-palpala-cities-v2.webp"
 },
     facts: { en: ["Industrial site",
       "Steel industry",
@@ -1373,7 +1373,7 @@ image: "/poi-images/ar-y-palpala-cities-v2.webp"
       ro: ["Oraș cu profil predominant industrial", "Găzduiește mari combinate metalurgice", "Nod important pentru transportul greu", "Situat într-o zonă de tranziție geografică"]
     },
     type: "city",
-    parent: "AR-Y",
+//     parent: "AR-Y",
     coords: [-65.2114, -24.2562],
     name: {
       de: "Palpalá",
@@ -1400,7 +1400,7 @@ image: "/poi-images/ar-y-palpala-cities-v2.webp"
       de: "Die Hauptstadt der Provinz La Pampa, ein ruhiges Zentrum inmitten der fruchtbaren Pampa-Ebene.",
       hu: "La Pampa tartomány székhelye a pampa vidék szívében. Fontos közigazgatási, kulturális és oktatási központ, modern építészeti emlékekkel.",
       ro: "Santa Rosa este capitala provinciei La Pampa, servind ca punct de legătură între regiunea Pampa și Patagonia.",
-image: "/poi-images/ar-l-santa-rosa-cities-v2.webp"
+// image: "/poi-images/ar-l-santa-rosa-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Cattle ranching",
@@ -1411,7 +1411,7 @@ image: "/poi-images/ar-l-santa-rosa-cities-v2.webp"
       ro: ["Centru administrativ și cultural al provinciei", "Fondat în 1892 de Tomás Mason", "Oraș cu o dezvoltare urbană modernă", "Punct de plecare pentru explorarea stepelor pampeene"]
     },
     type: "state-capital",
-    parent: "AR-L",
+//     parent: "AR-L",
     coords: [-64.2839, -36.6167],
     name: {
       de: "Santa Rosa",
@@ -1438,7 +1438,7 @@ image: "/poi-images/ar-l-santa-rosa-cities-v2.webp"
       de: "Die zweitwichtigste Stadt in La Pampa, bekannt für ihre industrielle Entwicklung und Agrarwirtschaft.",
       hu: "La Pampa tartomány második legnagyobb városa, amely fontos ipari és mezőgazdasági centrum. A város jól tervezett parkjairól és széles utcáiról ismert.",
       ro: "General Pico este al doilea oraș ca mărime din La Pampa, fiind un nod feroviar și industrial cheie în nordul provinciei.",
-image: "/poi-images/ar-l-general-pico-cities-v2.webp"
+// image: "/poi-images/ar-l-general-pico-cities-v2.webp"
 },
     facts: { en: ["Commercial center",
       "Agricultural hub",
@@ -1449,7 +1449,7 @@ image: "/poi-images/ar-l-general-pico-cities-v2.webp"
       ro: ["Zonă liberă și pol industrial regional", "Centru important pentru educația universitară", "Fondat în 1905 de Eduardo de Chapeaurouge", "Economie bazată pe servicii și industrie"]
     },
     type: "city",
-    parent: "AR-L",
+//     parent: "AR-L",
     coords: [-63.7431, -35.6625],
     name: {
       de: "General Pico",
@@ -1476,7 +1476,7 @@ image: "/poi-images/ar-l-general-pico-cities-v2.webp"
       de: "Die Hauptstadt der gleichnamigen Provinz am Fuße der Sierras de Velasco, bekannt für Wein und Oliven.",
       hu: "La Rioja tartomány székhelye a Velasco-hegység lábánál. Száraz klímájáról, olivatermesztéséről és gyarmati eredetű vallási hagyományairól nevezetes.",
       ro: "La Rioja este capitala provinciei omonime, un oraș cu o istorie bogată situat la poalele munților Sierra de Velasco.",
-image: "/poi-images/ar-f-la-rioja-cities-v2.webp"
+// image: "/poi-images/ar-f-la-rioja-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Olive production",
@@ -1487,7 +1487,7 @@ image: "/poi-images/ar-f-la-rioja-cities-v2.webp"
       ro: ["Fondat în 1591 de Juan Ramírez de Velasco", "Cunoscut pentru festivalul folcloric Chaya", "Centru de producție de vin și măsline", "Climat arid cu veri foarte călduroase"]
     },
     type: "state-capital",
-    parent: "AR-F",
+//     parent: "AR-F",
     coords: [-66.8507, -29.4131],
     name: {
       de: "La Rioja",
@@ -1514,7 +1514,7 @@ image: "/poi-images/ar-f-la-rioja-cities-v2.webp"
       de: "Die zweitgrößte Stadt der Provinz La Rioja, berühmt für ihren Bergbau und ihre Weinberge.",
       hu: "A Famatina-hegység völgyében fekvő város, amely bányászati múltjáról és bortermeléséről híres. Itt található a világ egyik legmagasabb drótkötélpályája.",
       ro: "Chilecito este al doilea oraș din provincia La Rioja, renumit pentru producția sa viticolă și istoria minieră impresionantă.",
-image: "/poi-images/ar-f-chilecito-cities-v2.webp"
+// image: "/poi-images/ar-f-chilecito-cities-v2.webp"
 },
     facts: { en: ["Mining heritage",
       "Cable Carril",
@@ -1525,7 +1525,7 @@ image: "/poi-images/ar-f-chilecito-cities-v2.webp"
       ro: ["Găzduiește cel mai înalt teleferic minier din lume", "Principalul producător de vin alb din regiune", "Situat în pitoreasca vale Famatina", "Fondat în 1715"]
     },
     type: "city",
-    parent: "AR-F",
+//     parent: "AR-F",
     coords: [-67.4974, -29.1619],
     name: {
       de: "Chilecito",
@@ -1552,7 +1552,7 @@ image: "/poi-images/ar-f-chilecito-cities-v2.webp"
       de: "Die Welthauptstadt des Malbec-Weins am Fuße der Anden, bekannt für ihre Alleen und Parks.",
       hu: "Az argentin bortermelés világközpontja az Andok lábánál. A város modern öntözőrendszeréről, széles sugárútjairól és parkjairól híres.",
       ro: "Mendoza este inima regiunii viticole a Argentinei și o bază ideală pentru explorarea munților Anzi și a vârfului Aconcagua.",
-image: "/poi-images/ar-m-mendoza-cities-v2.webp"
+// image: "/poi-images/ar-m-mendoza-cities-v2.webp"
 },
     facts: { en: ["Wine country",
       "Malbec capital",
@@ -1563,7 +1563,7 @@ image: "/poi-images/ar-m-mendoza-cities-v2.webp"
       ro: ["Capitala mondială a vinului Malbec", "Oraș faimos pentru canalele sale de irigare și parcuri", "Găzduiește Festivalul Național al Culesului Viei", "Fondat în 1561 de Pedro del Castillo"]
     },
     type: "state-capital",
-    parent: "AR-M",
+//     parent: "AR-M",
     coords: [-68.8383, -32.8908],
     name: {
       de: "Mendoza",
@@ -1590,7 +1590,7 @@ image: "/poi-images/ar-m-mendoza-cities-v2.webp"
       de: "Eine malerische Stadt im Süden der Provinz Mendoza, bekannt für Abenteuertourismus und Wein.",
       hu: "Mendoza tartomány déli részének fontos turisztikai és mezőgazdasági központja. A város környéke híres kanyonjairól, gátjairól és vízi sportjairól.",
       ro: "San Rafael este o destinație turistică majoră în sudul provinciei Mendoza, cunoscută pentru canioanele sale și sporturile de aventură.",
-image: "/poi-images/ar-m-san-rafael-cities-v2.webp"
+// image: "/poi-images/ar-m-san-rafael-cities-v2.webp"
 },
     facts: { en: ["Adventure tourism",
       "Agricultural center",
@@ -1601,7 +1601,7 @@ image: "/poi-images/ar-m-san-rafael-cities-v2.webp"
       ro: ["Poartă de acces către Canionul Atuel", "Centru important pentru turismul de aventură", "Zonă agricolă bogată în podgorii și livezi", "Oraș cu o structură urbană modernă și aerisită"]
     },
     type: "city",
-    parent: "AR-M",
+//     parent: "AR-M",
     coords: [-68.3272, -34.6152],
     name: {
       de: "San Rafael",
@@ -1628,7 +1628,7 @@ image: "/poi-images/ar-m-san-rafael-cities-v2.webp"
       hu: "Mendoza agglomerációjának szerves része, amely fontos kereskedelmi és ipari központ. A város híres borászatairól és aktív kulturális életéről.",
       ro: "Godoy Cruz este o parte vibrantă a zonei metropolitane Mendoza, cunoscută pentru centrele sale comerciale și parcurile industriale.",
       de: "Godoy Cruz ist eine bedeutende Stadt im Großraum Mendoza, bekannt für ihre lebendige Weinkultur und Industrie.",
-image: "/poi-images/ar-m-godoy-cruz-cities-v2.webp"
+// image: "/poi-images/ar-m-godoy-cruz-cities-v2.webp"
 },
     facts: { en: ["Urban development",
       "Mendoza area",
@@ -1639,7 +1639,7 @@ image: "/poi-images/ar-m-godoy-cruz-cities-v2.webp"
       de: ["Teil des Ballungsraums Mendoza", "Zentrum der Weinproduktion", "Heimat des Fußballclubs Godoy Cruz", "Wichtiger Wirtschaftsstandort"]
     },
     type: "city",
-    parent: "AR-M",
+//     parent: "AR-M",
     coords: [-68.8406, -32.9238],
     name: {
       de: "Godoy Cruz",
@@ -1666,7 +1666,7 @@ image: "/poi-images/ar-m-godoy-cruz-cities-v2.webp"
       hu: "Az argentin Malbec bor hazájaként ismert város Mendoza tartományban. Az Andok lábánál fekvő település a borászat és a turizmus kiemelkedő központja.",
       ro: "Luján de Cuyo este inima regiunii viticole Malbec, fiind situat la poalele munților Cordón del Plata în provincia Mendoza.",
       de: "Luján de Cuyo gilt als das Herz der argentinischen Malbec-Produktion und liegt am Fuße der majestätischen Anden.",
-image: "/poi-images/ar-m-lujan-de-cuyo-cities-v2.webp"
+// image: "/poi-images/ar-m-lujan-de-cuyo-cities-v2.webp"
 },
     facts: { en: ["Premium vineyards",
       "Wine industry",
@@ -1677,7 +1677,7 @@ image: "/poi-images/ar-m-lujan-de-cuyo-cities-v2.webp"
       de: ["Weltbekanntes Weinbaugebiet", "Spezialisiert auf Malbec-Trauben", "Nähe zur Stadt Mendoza", "Zahlreiche historische Weingüter (Bodegas)"]
     },
     type: "city",
-    parent: "AR-M",
+//     parent: "AR-M",
     coords: [-68.8781, -33.0360],
     name: {
       de: "Luján de Cuyo",
@@ -1704,7 +1704,7 @@ image: "/poi-images/ar-m-lujan-de-cuyo-cities-v2.webp"
       hu: "Misiones tartomány székhelye a Paraná folyó partján, közvetlenül Paraguay szomszédságában. Fontos kereskedelmi és kulturális kapu a régióban.",
       ro: "Posadas este capitala provinciei Misiones, un oraș portuar modern pe râul Paraná, servind ca nod comercial către Paraguay.",
       de: "Posadas ist die Hauptstadt der Provinz Misiones und ein wichtiges Tor zur Region am Ufer des mächtigen Paraná-Flusses.",
-image: "/poi-images/ar-n-posadas-cities-v2.webp"
+// image: "/poi-images/ar-n-posadas-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Paraná River",
@@ -1715,7 +1715,7 @@ image: "/poi-images/ar-n-posadas-cities-v2.webp"
       de: ["Hauptstadt von Misiones", "Liegt am Río Paraná", "Grenzstadt zu Paraguay", "Bedeutendes Handelszentrum"]
     },
     type: "state-capital",
-    parent: "AR-N",
+//     parent: "AR-N",
     coords: [-55.8961, -27.3671],
     name: {
       de: "Posadas",
@@ -1742,7 +1742,7 @@ image: "/poi-images/ar-n-posadas-cities-v2.webp"
       hu: "Misiones tartomány szívében fekvő város, amely sokszínű bevándorló közösségeiről és a mate tea termesztéséről nevezetes.",
       ro: "Oberá este al doilea oraș din Misiones, faimos pentru amestecul său de culturi europene și Festivalul Național al Imigranților.",
       de: "Oberá ist berühmt für seine kulturelle Vielfalt und beherbergt jährlich das große Nationalfest der Einwanderer.",
-image: "/poi-images/ar-n-obera-cities-v2.webp"
+// image: "/poi-images/ar-n-obera-cities-v2.webp"
 },
     facts: { en: ["Immigrant heritage",
       "Diverse culture",
@@ -1753,7 +1753,7 @@ image: "/poi-images/ar-n-obera-cities-v2.webp"
       de: ["Zweitgrößte Stadt in Misiones", "Gegründet von europäischen Einwanderern", "Gastgeber des Fiesta Nacional del Inmigrante", "Zentrum der Tee- und Mate-Produktion"]
     },
     type: "city",
-    parent: "AR-N",
+//     parent: "AR-N",
     coords: [-55.1207, -27.4871],
     name: {
       de: "Oberá",
@@ -1780,7 +1780,7 @@ image: "/poi-images/ar-n-obera-cities-v2.webp"
       hu: "Város Misiones tartomány északi részén, amelyet német telepesek alapítottak a Paraná folyó partján. Fontos faipari és mezőgazdasági központ.",
       ro: "Eldorado este un oraș situat în nordul provinciei Misiones, cunoscut pentru industria sa forestieră și frumusețea naturală densă.",
       de: "Eldorado wurde von deutschen Einwanderern gegründet und ist heute ein Zentrum der Forstwirtschaft im Norden von Misiones.",
-image: "/poi-images/ar-n-eldorado-cities-v2.webp"
+// image: "/poi-images/ar-n-eldorado-cities-v2.webp"
 },
     facts: { en: ["Forestry industry",
       "Misiones region",
@@ -1791,7 +1791,7 @@ image: "/poi-images/ar-n-eldorado-cities-v2.webp"
       de: ["1919 von Adolfo Schwelm gegründet", "Starke deutsche kulturelle Einflüsse", "Zentrum der Holzindustrie", "Liegt im subtropischen Regenwald"]
     },
     type: "city",
-    parent: "AR-N",
+//     parent: "AR-N",
     coords: [-54.6300, -26.4026],
     name: {
       de: "Eldorado",
@@ -1818,7 +1818,7 @@ image: "/poi-images/ar-n-eldorado-cities-v2.webp"
       hu: "Az Iguazú-vízesés kapuja, amely a hármas határnál (Argentína, Brazília, Paraguay) fekszik. Világhírű turisztikai célpont Misiones tartományban.",
       ro: "Puerto Iguazú este orașul de frontieră care găzduiește spectaculoasele Cascade Iguazú, una dintre minunile naturale ale lumii.",
       de: "Puerto Iguazú ist der ideale Ausgangspunkt für den Besuch der weltberühmten Iguazú-Wasserfälle im Dreiländereck.",
-image: "/poi-images/ar-n-puerto-iguazu-cities-v2.webp"
+// image: "/poi-images/ar-n-puerto-iguazu-cities-v2.webp"
 },
     facts: { en: ["Iguazu Falls gateway",
       "Border city",
@@ -1829,7 +1829,7 @@ image: "/poi-images/ar-n-puerto-iguazu-cities-v2.webp"
       de: ["Tor zu den Iguazú-Wasserfällen", "Dreiländereck (Argentinien, Brasilien, Paraguay)", "Bedeutendes Tourismuszentrum", "Liegt im Nationalpark Iguazú"]
     },
     type: "city",
-    parent: "AR-N",
+//     parent: "AR-N",
     coords: [-54.5736, -25.5991],
     name: {
       de: "Puerto Iguazú",
@@ -1856,7 +1856,7 @@ image: "/poi-images/ar-n-puerto-iguazu-cities-v2.webp"
       hu: "Patagónia legnépesebb városa és Neuquén tartomány székhelye a Limay és Neuquén folyók találkozásánál. A régió kereskedelmi és energiaipari központja.",
       ro: "Neuquén este cel mai mare oraș din Patagonia, un centru economic efervescent datorită industriei energetice și agricole.",
       de: "Neuquén ist die größte Stadt Patagoniens und das wirtschaftliche Zentrum der gleichnamigen Provinz, geprägt durch die Ölindustrie.",
-image: "/poi-images/ar-q-neuquen-cities-v2.webp"
+// image: "/poi-images/ar-q-neuquen-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Oil and gas hub",
@@ -1867,7 +1867,7 @@ image: "/poi-images/ar-q-neuquen-cities-v2.webp"
       de: ["Größte Stadt Patagoniens", "Zentrum der Energie- und Ölförderung", "Liegt am Zusammenfluss von Limay und Neuquén", "Moderne Provinzhauptstadt"]
     },
     type: "state-capital",
-    parent: "AR-Q",
+//     parent: "AR-Q",
     coords: [-68.0591, -38.9516],
     name: {
       de: "Neuquén",
@@ -1894,7 +1894,7 @@ image: "/poi-images/ar-q-neuquen-cities-v2.webp"
       hu: "Látványos hegyvidéki üdülőváros a Lácar-tó partján, az Andok ölelésében. A város híres alpesi stílusú építészetéről és a Lanín Nemzeti Parkról.",
       ro: "San Martín de los Andes este un oraș montan de poveste pe malul lacului Lácar, fiind o destinație turistică de lux pe tot parcursul anului.",
       de: "Diese malerische Stadt am Ufer des Lácar-Sees ist eines der exklusivsten Reiseziele in den patagonischen Anden.",
-image: "/poi-images/ar-q-san-martin-de-los-andes-cities-v2.webp"
+// image: "/poi-images/ar-q-san-martin-de-los-andes-cities-v2.webp"
 },
     facts: { en: ["Mountain resort",
       "Lakeside setting",
@@ -1905,7 +1905,7 @@ image: "/poi-images/ar-q-san-martin-de-los-andes-cities-v2.webp"
       de: ["Am Ufer des Lago Lácar gelegen", "Wichtiges Zentrum für Wintersport (Chapelco)", "Tor zum Nationalpark Lanín", "Bekannt für Architektur im Alpenstil"]
     },
     type: "city",
-    parent: "AR-Q",
+//     parent: "AR-Q",
     coords: [-71.3535, -40.1537],
     name: {
       de: "San Martín de los Andes",
@@ -1932,7 +1932,7 @@ image: "/poi-images/ar-q-san-martin-de-los-andes-cities-v2.webp"
       hu: "Fontos közlekedési csomópont és bányászati központ Neuquén tartomány szívében. A város stratégiai helyen fekszik az Andok és a pampák között.",
       ro: "Zapala este un oraș situat în centrul provinciei Neuquén, fiind un punct strategic de tranzit între munți și stepă.",
       de: "Zapala ist ein strategischer Verkehrsknotenpunkt in Zentral-Neuquén und bekannt für seine lange Bergbautradition.",
-image: "/poi-images/ar-q-zapala-cities-v2.webp"
+// image: "/poi-images/ar-q-zapala-cities-v2.webp"
 },
     facts: { en: ["Logistics hub",
       "Neuquén province",
@@ -1943,7 +1943,7 @@ image: "/poi-images/ar-q-zapala-cities-v2.webp"
       de: ["Wichtiger Eisenbahn- und Straßenknotenpunkt", "Zentrum der Zementindustrie", "Heimat des Mineralogischen Museums", "Eingangstor zur patagonischen Steppe"]
     },
     type: "city",
-    parent: "AR-Q",
+//     parent: "AR-Q",
     coords: [-70.0526, -38.9028],
     name: {
       de: "Zapala",
@@ -1970,7 +1970,7 @@ image: "/poi-images/ar-q-zapala-cities-v2.webp"
       hu: "Neuquén tartomány közepén fekvő város, amelynek gazdasága szinte teljes egészében a kőolaj- és földgázkitermelésen alapul.",
       ro: "Cutral Co este un oraș industrial în stepa Neuquén, a cărui istorie și dezvoltare sunt strâns legate de descoperirea petrolului.",
       de: "Cutral Có entstand mitten in der Wüste durch die Entdeckung von Erdöl und ist eng mit der argentinischen Energiegeschichte verbunden.",
-image: "/poi-images/ar-q-cutral-co-cities-v2.webp"
+// image: "/poi-images/ar-q-cutral-co-cities-v2.webp"
 },
     facts: { en: ["Oil-producing city",
       "Neuquén province",
@@ -1981,7 +1981,7 @@ image: "/poi-images/ar-q-cutral-co-cities-v2.webp"
       de: ["Gegründet nach Ölfunden in den 1930ern", "Wirtschaftliches Zentrum der Region Comarca Petrolera", "Bekannt für sein großes Dinosaurier-Denkmal", "Wüstenklima mit starken Winden"]
     },
     type: "city",
-    parent: "AR-Q",
+//     parent: "AR-Q",
     coords: [-69.2303, -38.9328],
     name: {
       de: "Cutral Có",
@@ -2008,7 +2008,7 @@ image: "/poi-images/ar-q-cutral-co-cities-v2.webp"
       hu: "Río Negro tartomány székhelye a Negro folyó partján, közel az Atlanti-óceánhoz. A város fontos közigazgatási és mezőgazdasági centrum.",
       ro: "Viedma este capitala provinciei Río Negro, un oraș liniștit situat pe malul râului Río Negro, aproape de coasta atlantică.",
       de: "Viedma ist die historische Hauptstadt der Provinz Río Negro und bildet zusammen mit Patagones ein bedeutendes urbanes Zentrum am Fluss.",
-image: "/poi-images/ar-r-viedma-cities-v2.webp"
+// image: "/poi-images/ar-r-viedma-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Negro River",
@@ -2019,7 +2019,7 @@ image: "/poi-images/ar-r-viedma-cities-v2.webp"
       de: ["Hauptstadt der Provinz Río Negro", "Liegt am Ufer des Río Negro", "Älteste Stadt der Region", "Einst als Bundes-Hauptstadt im Gespräch"]
     },
     type: "state-capital",
-    parent: "AR-R",
+//     parent: "AR-R",
     coords: [-62.9967, -40.8135],
     name: {
       de: "Viedma",
@@ -2046,7 +2046,7 @@ image: "/poi-images/ar-r-viedma-cities-v2.webp"
       hu: "Világhírű turisztikai központ az Andok lábánál, a Nahuel Huapi-tó partján. Alpesi stílusáról, csokoládéjáról és sípályáiról nevezetes.",
       ro: "Bariloche este cea mai faimoasă destinație turistică din Patagonia, renumită pentru lacurile glaciare, munții spectaculoși și ciocolată.",
       de: "Bariloche ist weltbekannt für seine Schokolade, die wunderschöne Seenlandschaft und als bedeutendstes Skigebiet Südamerikas.",
-image: "/poi-images/ar-r-san-carlos-de-bariloche-cities-v2.webp"
+// image: "/poi-images/ar-r-san-carlos-de-bariloche-cities-v2.webp"
 },
     facts: { en: ["Ski destination",
       "Alpine style",
@@ -2057,7 +2057,7 @@ image: "/poi-images/ar-r-san-carlos-de-bariloche-cities-v2.webp"
       de: ["Am Ufer des Lago Nahuel Huapi", "Bedeutendstes Wintersportzentrum Argentiniens", "Zentrum für High-Tech und Kernforschung", "Berühmt für handgemachte Schokolade"]
     },
     type: "city",
-    parent: "AR-R",
+//     parent: "AR-R",
     coords: [-71.3082, -41.1335],
     name: {
       de: "San Carlos de Bariloche",
@@ -2084,7 +2084,7 @@ image: "/poi-images/ar-r-san-carlos-de-bariloche-cities-v2.webp"
       hu: "Río Negro tartomány egyik legfontosabb városa, az Alto Valle gyümölcstermesztő vidék központja. A város híres almaterméséről.",
       ro: "General Roca este un centru agricol vital în Valea Superioară a râului Río Negro, inima producției de mere și pere a Argentinei.",
       de: "General Roca ist das Herz des oberen Tals des Río Negro und das wichtigste Zentrum für den Anbau von Äpfeln und Birnen.",
-image: "/poi-images/ar-r-general-roca-cities-v2.webp"
+// image: "/poi-images/ar-r-general-roca-cities-v2.webp"
 },
     facts: { en: ["Upper Valley hub",
       "Fruit production",
@@ -2095,7 +2095,7 @@ image: "/poi-images/ar-r-general-roca-cities-v2.webp"
       de: ["Zentrum des Obstbaus", "Gastgeber des Nationalen Apfelfestes", "Wichtiges Bildungszentrum der Region", "Geprägt durch Bewässerungslandwirtschaft"]
     },
     type: "city",
-    parent: "AR-R",
+//     parent: "AR-R",
     coords: [-67.5756, -39.0333],
     name: {
       de: "General Roca",
@@ -2122,7 +2122,7 @@ image: "/poi-images/ar-r-general-roca-cities-v2.webp"
       hu: "Río Negro tartomány nyugati szélén fekvő város, amely Neuquén szomszédságában található. Fontos gyümölcstermesztő és ipari központ.",
       ro: "Cipolletti este un oraș dinamic situat la granița cu provincia Neuquén, fiind un pilon al dezvoltării agricole și industriale din regiune.",
       de: "Cipolletti ist eine dynamische Stadt in Río Negro, die für ihre Obstgärten und ihre enge Verbindung zum benachbarten Neuquén bekannt ist.",
-image: "/poi-images/ar-r-cipolletti-cities-v2.webp"
+// image: "/poi-images/ar-r-cipolletti-cities-v2.webp"
 },
     facts: { en: ["Agro-industrial",
       "River confluence",
@@ -2133,7 +2133,7 @@ image: "/poi-images/ar-r-cipolletti-cities-v2.webp"
       de: ["Bedeutender Produzent von Tafelobst", "Strategische Lage am Río Negro", "Enge wirtschaftliche Verflechtung mit Neuquén", "Benannt nach dem Ingenieur César Cipolletti"]
     },
     type: "city",
-    parent: "AR-R",
+//     parent: "AR-R",
     coords: [-67.9897, -38.9388],
     name: {
       de: "Cipolletti",
@@ -2160,7 +2160,7 @@ image: "/poi-images/ar-r-cipolletti-cities-v2.webp"
       hu: "Északnyugat-Argentína gyarmati gyöngyszeme, amelyet 'Salta la Linda' (A szépséges Salta) néven ismernek. Gazdag spanyol örökséggel és lenyűgöző hegyi tájakkal rendelkezik.",
       ro: "Salta, supranumit „Salta la Linda”, este capitala provinciei omonime și cel mai bine conservat oraș colonial din Argentina.",
       de: "Salta, die Schöne, besticht durch ihre außergewöhnlich gut erhaltene Kolonialarchitektur und ihre Lage in den grünen Lerma-Tälern.",
-image: "/poi-images/ar-a-salta-cities-v2.webp"
+// image: "/poi-images/ar-a-salta-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Colonial heritage",
@@ -2171,7 +2171,7 @@ image: "/poi-images/ar-a-salta-cities-v2.webp"
       de: ["Eine der schönsten Kolonialstädte Argentiniens", "Hauptstadt der gleichnamigen Provinz", "Bekannt für Folkloremusik und Peñas", "Ausgangspunkt für den Zug zu den Wolken"]
     },
     type: "state-capital",
-    parent: "AR-A",
+//     parent: "AR-A",
     coords: [-65.4117, -24.7821],
     name: {
       de: "Salta",
@@ -2198,7 +2198,7 @@ image: "/poi-images/ar-a-salta-cities-v2.webp"
       de: "Eine wichtige subtropische Stadt im Norden von Salta, bekannt für ihre Zucker- und Zitrusproduktion.",
       hu: "Salta tartomány északi részén, a trópusi erdők övezetében fekvő város. Fontos mezőgazdasági központ, ahol cukornádat, citrusféléket és dohányt termesztenek.",
       ro: "San Ramón de la Nueva Orán este un oraș tropical situat în nordul provinciei Salta, fiind un centru agricol major lângă granița cu Bolivia.",
-image: "/poi-images/ar-a-san-ramon-de-la-nueva-oran-cities-v2.webp"
+// image: "/poi-images/ar-a-san-ramon-de-la-nueva-oran-cities-v2.webp"
 },
     facts: { en: ["Agro-industrial",
       "Northern Salta",
@@ -2209,7 +2209,7 @@ image: "/poi-images/ar-a-san-ramon-de-la-nueva-oran-cities-v2.webp"
       ro: ["Fondat în 1794, fiind ultimul oraș fondat de spanioli", "Climat tropical umed ideal pentru trestie de zahăr", "Poartă de acces către Parcul Național Baritú", "Centru comercial important în regiunea Yungas"]
     },
     type: "city",
-    parent: "AR-A",
+//     parent: "AR-A",
     coords: [-64.3206, -23.1322],
     name: {
       de: "San Ramón de la Nueva Orán",
@@ -2236,7 +2236,7 @@ image: "/poi-images/ar-a-san-ramon-de-la-nueva-oran-cities-v2.webp"
       de: "Ein bedeutendes Energiezentrum im Norden Argentiniens mit einer starken Erdöl- und Erdgaswirtschaft.",
       hu: "Jelentős város Salta tartomány északi részén, amely kőolaj- és földgázkitermeléséről ismert. Gazdag kulturális sokszínűséggel és erős őslakos jelenléttel bír.",
       ro: "Tartagal este un oraș situat în inima regiunii petroliere și forestiere din nordul Argentinei, având o populație multiculturală diversă.",
-image: "/poi-images/ar-a-tartagal-cities-v2.webp"
+// image: "/poi-images/ar-a-tartagal-cities-v2.webp"
 },
     facts: { en: ["Strategic location",
       "Oil and gas",
@@ -2247,7 +2247,7 @@ image: "/poi-images/ar-a-tartagal-cities-v2.webp"
       ro: ["Centru vital pentru industria gazelor și petrolului", "Găzduiește numeroase comunități indigene", "Situat într-o zonă de biodiversitate bogată", "Nod comercial strategic pe ruta către Bolivia"]
     },
     type: "city",
-    parent: "AR-A",
+//     parent: "AR-A",
     coords: [-63.8013, -22.5163],
     name: {
       de: "Tartagal",
@@ -2274,7 +2274,7 @@ image: "/poi-images/ar-a-tartagal-cities-v2.webp"
       de: "Die Hauptstadt der Provinz San Juan liegt in einem Oasental und ist ein bedeutendes Weinbauzentrum.",
       hu: "San Juan tartomány székhelye a Tulum-völgyben. A várost egy pusztító földrengés után szinte teljesen újjáépítették, ma modern, ligetes utcáiról és bortermeléséről nevezetes.",
       ro: "San Juan este un oraș modern reconstruit după cutremurul din 1944, fiind centrul unei regiuni viticole și miniere prospere.",
-image: "/poi-images/ar-j-san-juan-cities-v2.webp"
+// image: "/poi-images/ar-j-san-juan-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Modern architecture",
@@ -2285,7 +2285,7 @@ image: "/poi-images/ar-j-san-juan-cities-v2.webp"
       ro: ["Oraș cu un design urban rezistent la seisme", "Capitala provinciei San Juan", "Cunoscut pentru producția de struguri de masă și vin", "Găzduiește casa natală a lui Domingo F. Sarmiento"]
     },
     type: "state-capital",
-    parent: "AR-J",
+//     parent: "AR-J",
     coords: [-68.5283, -31.5375],
     name: {
       de: "San Juan",
@@ -2312,7 +2312,7 @@ image: "/poi-images/ar-j-san-juan-cities-v2.webp"
       de: "Die Hauptstadt der Provinz San Luis am Fuße der Sierra de San Luis, bekannt für ihre landschaftliche Schönheit.",
       hu: "San Luis tartomány székhelye a Sierras Grandes lábánál. Dinamikusan fejlődő város, amely fejlett technológiai infrastruktúrájáról és ipari parkjairól ismert.",
       ro: "San Luis este un oraș situat la poalele munților Sierras de San Luis, fiind un centru administrativ cu o creștere industrială rapidă.",
-image: "/poi-images/ar-d-san-luis-cities-v2.webp"
+// image: "/poi-images/ar-d-san-luis-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Mountain range",
@@ -2323,7 +2323,7 @@ image: "/poi-images/ar-d-san-luis-cities-v2.webp"
       ro: ["Fondat în 1594 de Luis Jufré de Loaysa", "Centru logistic și industrial major în centrul țării", "Poartă de acces către pitorescul lac Potrero de los Funes", "Arhitectură ce îmbină stilul colonial cu modernismul"]
     },
     type: "state-capital",
-    parent: "AR-D",
+//     parent: "AR-D",
     coords: [-66.3356, -33.2950],
     name: {
       de: "San Luis",
@@ -2350,7 +2350,7 @@ image: "/poi-images/ar-d-san-luis-cities-v2.webp"
       de: "Die zweitgrößte Stadt der Provinz San Luis und ein bedeutendes Industrie- und Eisenbahnzentrum.",
       hu: "San Luis tartomány második legfontosabb városa, jelentős ipari és kereskedelmi központ. A város híres kulturális eseményeiről és sportlétesítményeiről.",
       ro: "Villa Mercedes este al doilea oraș din provincia San Luis, fiind un nod de transport și un centru industrial esențial.",
-image: "/poi-images/ar-d-villa-mercedes-cities-v2.webp"
+// image: "/poi-images/ar-d-villa-mercedes-cities-v2.webp"
 },
     facts: { en: ["Industrial city",
       "Manufacturing",
@@ -2361,7 +2361,7 @@ image: "/poi-images/ar-d-villa-mercedes-cities-v2.webp"
       ro: ["Inimă industrială și comercială a provinciei", "Cunoscut pentru strada sa faimoasă Calle Angosta", "Nod feroviar și rutier de importanță națională", "Fondat în 1856 pe malul râului Quinto"]
     },
     type: "city",
-    parent: "AR-D",
+//     parent: "AR-D",
     coords: [-65.4660, -33.6766],
     name: {
       de: "Villa Mercedes",
@@ -2388,7 +2388,7 @@ image: "/poi-images/ar-d-villa-mercedes-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Santa Cruz im tiefen Süden, ein wichtiges Tor nach Südpatagonien.",
       hu: "Santa Cruz tartomány székhelye és Patagónia déli részének fontos kikötővárosa. A Gallegos-folyó torkolatánál fekszik, és kapuként szolgál a jégmezők felé.",
       ro: "Río Gallegos este capitala provinciei Santa Cruz, un oraș situat pe estuarul râului omonim, aproape de strâmtoarea Magellan.",
-image: "/poi-images/ar-z-rio-gallegos-cities-v2.webp"
+// image: "/poi-images/ar-z-rio-gallegos-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Southern Patagonia",
@@ -2399,7 +2399,7 @@ image: "/poi-images/ar-z-rio-gallegos-cities-v2.webp"
       ro: ["Cel mai sudic oraș continental al Argentinei", "Centru administrativ și bază pentru explorarea sudului", "Nod important pentru industria petrolului și lânii", "Punct de plecare către Capul Virgines"]
     },
     type: "state-capital",
-    parent: "AR-Z",
+//     parent: "AR-Z",
     coords: [-69.2181, -51.6226],
     name: {
       de: "Río Gallegos",
@@ -2426,7 +2426,7 @@ image: "/poi-images/ar-z-rio-gallegos-cities-v2.webp"
       de: "Die Hauptstadt der Provinz Santa Fe liegt am Rio Salado und ist ein bedeutendes Bildungs- und Handelszentrum.",
       hu: "Santa Fe tartomány székhelye, amely gazdag történelmi múlttal és jelentős folyami kikötővel rendelkezik. A város az argentin alkotmányozás bölcsőjeként ismert.",
       ro: "Santa Fe este un oraș istoric și portuar situat la confluența râurilor Salado și Paraná, fiind locul unde a fost semnată Constituția.",
-image: "/poi-images/ar-s-santa-fe-cities-v2.webp"
+// image: "/poi-images/ar-s-santa-fe-cities-v2.webp"
 },
     facts: { en: ["Provincial capital",
       "Riverside city",
@@ -2437,7 +2437,7 @@ image: "/poi-images/ar-s-santa-fe-cities-v2.webp"
       ro: ["Cunoscut drept Leagănul Constituției Naționale", "Capitala provinciei Santa Fe", "Centru universitar și portuar major", "Faimos pentru preparatele sale din pește de râu"]
     },
     type: "state-capital",
-    parent: "AR-S",
+//     parent: "AR-S",
     coords: [-60.7000, -31.6333],
     name: {
       de: "Santa Fe",
@@ -2464,7 +2464,7 @@ image: "/poi-images/ar-s-santa-fe-cities-v2.webp"
       de: "Die drittgrößte Stadt Argentiniens und ein gewaltiges Industrie- und Hafenzentrum am Rio Paraná.",
       hu: "Argentína harmadik legnépesebb városa a Paraná folyó partján. Fontos ipari, kereskedelmi és kulturális centrum, a nemzeti zászló bölcsője.",
       ro: "Rosario este un oraș portuar vibrant pe râul Paraná, fiind locul unde a fost creat steagul național al Argentinei.",
-image: "/poi-images/ar-s-rosario-cities-v2.webp"
+// image: "/poi-images/ar-s-rosario-cities-v2.webp"
 },
     facts: { en: ["Port city",
       "Birthplace of flag",
@@ -2475,7 +2475,7 @@ image: "/poi-images/ar-s-rosario-cities-v2.webp"
       ro: ["Al treilea oraș ca mărime din Argentina", "Locul de naștere al lui Lionel Messi și Che Guevara", "Găzduiește Monumentul Național al Steagului", "Nod major pentru exportul de cereale"]
     },
     type: "city",
-    parent: "AR-S",
+//     parent: "AR-S",
     coords: [-60.6393, -32.9468],
     name: {
       de: "Rosario",
@@ -2502,7 +2502,7 @@ image: "/poi-images/ar-s-rosario-cities-v2.webp"
       de: "Die älteste kontinuierlich besiedelte Stadt Argentiniens, oft als 'Mutter der Städte' bezeichnet.",
       hu: "Argentína legrégebbi, folyamatosan lakott városa, amelyet 'A városok anyjaként' ismernek. A Dulce-folyó partján fekszik, és a folklór egyik központja.",
       ro: "Santiago del Estero este cel mai vechi oraș fondat de spanioli pe teritoriul actual al Argentinei, păstrând tradiții folclorice vii.",
-image: "/poi-images/ar-g-santiago-del-estero-cities-v2.webp"
+// image: "/poi-images/ar-g-santiago-del-estero-cities-v2.webp"
 },
     facts: { en: ["Oldest city",
       "Colonial history",
@@ -2513,7 +2513,7 @@ image: "/poi-images/ar-g-santiago-del-estero-cities-v2.webp"
       ro: ["Supranumit Mama Orașelor (Madre de Ciudades)", "Fondat definitiv în 1553", "Inimă a folclorului argentinian (Chacarera)", "Situat pe malul râului Dulce"]
     },
     type: "state-capital",
-    parent: "AR-G",
+//     parent: "AR-G",
     coords: [-64.2580, -27.7951],
     name: {
       de: "Santiago del Estero",
@@ -2540,7 +2540,7 @@ image: "/poi-images/ar-g-santiago-del-estero-cities-v2.webp"
       de: "Die südlichste Stadt der Welt liegt auf Feuerland zwischen den Bergen und dem Beagle-Kanal.",
       hu: "A világ legdélebbi városa a Tűzföldön, a Beagle-csatorna partján. Lenyűgöző hegyek és gleccserek veszik körül, az antarktiszi expedíciók fő kiindulópontja.",
       ro: "Ushuaia este cel mai sudic oraș al lumii, situat între munții Anzi și Canalul Beagle, fiind poarta de acces către Antarctica.",
-image: "/poi-images/ar-v-ushuaia-cities-v2.webp"
+// image: "/poi-images/ar-v-ushuaia-cities-v2.webp"
 },
     facts: { en: ["Southernmost city",
       "Tierra del Fuego",
@@ -2551,7 +2551,7 @@ image: "/poi-images/ar-v-ushuaia-cities-v2.webp"
       ro: ["Orașul de la Capătul Lumii (Fin del Mundo)", "Capitala provinciei Tierra del Fuego", "Destinație turistică globală spectaculoasă", "Fostă colonie penală celebră"]
     },
     type: "state-capital",
-    parent: "AR-V",
+//     parent: "AR-V",
     coords: [-68.3030, -54.8019],
     name: {
       de: "Ushuaia",

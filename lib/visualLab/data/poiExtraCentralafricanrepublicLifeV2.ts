@@ -11,9 +11,8 @@ export const poiExtraCentralafricanrepublicLifeV2: POI[] = [
       de: "Dzanga Bai",
       hu: "Dzanga Bai",
       ro: "Dzanga Bai",
-      en: "Dzanga Bai",
-image: "/poi-images/dzanga-bai-life-v2.webp"
-},
+      en: "Dzanga Bai"},
+    image: "/poi-images/dzanga-bai-life-v2.webp",
     descriptionAdvanced: {
       ro: "Dzanga Bai este o poieniță celebră în inima pădurii tropicale, unde elefanții de pădure și alte animale vin pentru a consuma sărurile minerale din sol, fiind un sit unic pentru observarea vieții sălbatice. Geografie K7 – Habitat natural.",
       en: "Dzanga Bai is a world-renowned natural clearing in the heart of the Dzanga-Sangha National Park, frequented by forest elephants and other wildlife. It provides a unique opportunity to observe forest-dwelling megafauna in their natural environment. The site is a cornerstone of the country's efforts toward wildlife conservation and ecotourism in the dense southwestern forest region. Geography K7 — Wildlife habitats."
@@ -43,9 +42,8 @@ image: "/poi-images/dzanga-bai-life-v2.webp"
       de: "André-Félix Wildtiergebiete",
       hu: "André-Félix vadrezervátum",
       ro: "Zona de faună André-Félix",
-      en: "André-Félix Wildlife Areas",
-image: "/poi-images/andre-felix-wildlife-life-v2.webp"
-},
+      en: "André-Félix Wildlife Areas"},
+    image: "/poi-images/andre-felix-wildlife-life-v2.webp",
     descriptionAdvanced: {
       ro: "Parcul Național André-Félix protejează o zonă de savană și pădure, fiind habitatul multor specii de antilope și păsări specifice regiunii nord-estice, contribuind la echilibrul ecologic. Geografie K7 – Arii protejate.",
       en: "The André Félix National Park, located in the northeast, represents the rich biodiversity of the savanna zones. It provides critical habitat for various antelope species, lions, and other northern fauna. As one of the most important protected areas in the region, it is essential for the preservation of ecosystems that bridge the gap between savanna and semi-arid environments. Geography K7 — Biodiversity zones."
@@ -75,9 +73,8 @@ image: "/poi-images/andre-felix-wildlife-life-v2.webp"
       de: "Bamingui-Wildtierkorridor",
       hu: "Bamingui vadvilág-folyosó",
       ro: "Coridorul de faună Bamingui",
-      en: "Bamingui Wildlife Corridor",
-image: "/poi-images/bamingui-wildlife-life-v2.webp"
-},
+      en: "Bamingui Wildlife Corridor"},
+    image: "/poi-images/bamingui-wildlife-life-v2.webp",
     descriptionAdvanced: {
       ro: "Parcul Național Bamingui-Bangoran reprezintă o vastă zonă protejată, esențială pentru conservarea megafaunei africane în zonele de savană și galeriile de pădure, fiind un sit de studiu biologic. Geografie K7 – arii protejate.",
       en: "Bamingui-Bangoran National Park is one of the largest protected areas in the Central African Republic, showcasing a mosaic of woodland and savanna landscapes. It is central to the protection of the country's northern wildlife populations, including elephant and various savanna-dwelling species, and plays a role in regional environmental stability. Geography K7 — National parks."
@@ -107,9 +104,8 @@ image: "/poi-images/bamingui-wildlife-life-v2.webp"
       de: "Vakaga-Weideland",
       hu: "Vakaga-legelővidék",
       ro: "Pășunile din Vakaga",
-      en: "Vakaga Pastoral Lands",
-image: "/poi-images/vakaga-pastoral-life-v2.webp"
-},
+      en: "Vakaga Pastoral Lands"},
+    image: "/poi-images/vakaga-pastoral-life-v2.webp",
     descriptionAdvanced: {
       ro: "Zona pastorală din Vakaga este un spațiu unde nomadismul și creșterea animalelor definesc stilul de viață, adaptându-se la mediul de savană și contribuind la economia pastorală locală. Geografie K7 – Moduri de viață.",
       en: "The Vakaga region, in the far northeast, is characterized by its pastoral lifestyle, where nomadic and semi-nomadic herders manage cattle across the vast savanna plains. This way of life is deeply adapted to the seasonal availability of water and grazing land, reflecting the resilience of local communities in a challenging climate. Geography K7 — Pastoral life."
@@ -139,9 +135,8 @@ image: "/poi-images/vakaga-pastoral-life-v2.webp"
       de: "Baumwollfelder von Ouham",
       hu: "Ouhami pamutmezők",
       ro: "Câmpurile de bumbac din Ouham",
-      en: "Ouham Cotton Fields",
-image: "/poi-images/ouham-cotton-life-v2.webp"
-},
+      en: "Ouham Cotton Fields"},
+    image: "/poi-images/ouham-cotton-life-v2.webp",
     descriptionAdvanced: {
       ro: "Regiunea Ouham este cunoscută pentru cultivarea bumbacului, o activitate agricolă care susține viața economică a mii de familii prin producția pentru export și piața internă. Geografie K7 – Agricultură și economie.",
       en: "The Ouham prefecture is historically synonymous with cotton cultivation. For many generations, smallholder farmers have dedicated their land to this crop, which has been a primary source of rural livelihood and an engine for local commerce. The annual cycle of cotton farming remains a defining aspect of the social and economic rhythms of the Ouham region. Geography K7 — Agricultural lifestyles."
@@ -171,9 +166,8 @@ image: "/poi-images/ouham-cotton-life-v2.webp"
       de: "Kaffeeplantagen von Mbaïki",
       hu: "Mbaïki kávéültetvények",
       ro: "Plantațiile de cafea din Mbaïki",
-      en: "Mbaïki Coffee Plantations",
-image: "/poi-images/mbaiki-coffee-life-v2.webp"
-},
+      en: "Mbaïki Coffee Plantations"},
+    image: "/poi-images/mbaiki-coffee-life-v2.webp",
     descriptionAdvanced: {
       ro: "Cultivarea cafelei în regiunea Mbaïki beneficiază de clima tropicală umedă, producând cafea de înaltă calitate care reprezintă un segment important al agriculturii comerciale din sud-vest. Geografie K7 – Produse tropicale.",
       en: "The Mbaïki area is famous for its coffee production, thriving in the fertile, rain-rich soil of the southern forested zones. For many local families, coffee farming is not just an agricultural activity but a heritage and a critical source of cash income. The traditional techniques used in coffee harvesting remain an integral part of the regional culture. Geography K7 — Cash crop agriculture."
@@ -203,9 +197,8 @@ image: "/poi-images/mbaiki-coffee-life-v2.webp"
       de: "Parc Centrafricain (Zoo von Bangui)",
       hu: "Parc Centrafricain (Bangui állatkert)",
       ro: "Parc Centrafricain (Grădina Zoologică Bangui)",
-      en: "Parc Centrafricain (Bangui Zoo)",
-image: "/poi-images/bangui-zoo-life-v2.webp"
-},
+      en: "Parc Centrafricain (Bangui Zoo)"},
+    image: "/poi-images/bangui-zoo-life-v2.webp",
     descriptionAdvanced: {
       ro: "Grădina Zoologică din Bangui servește drept centru de conservare și educație, oferind publicului șansa de a vedea speciile de animale native și învățând despre importanța ocrotirii naturii în Republica Centrafricană. Geografie K7 – Arii de conservare.",
       en: "The Bangui Zoo is a vital center for education and environmental awareness in the capital city. It serves to showcase the nation's diverse fauna to the public, fostering an appreciation for local wildlife. While focused on conservation and public learning, the facility remains an important venue for family outings and school groups interested in biology. Geography K7 — Educational facilities."
@@ -236,9 +229,8 @@ image: "/poi-images/bangui-zoo-life-v2.webp"
       de: "Freizeitgelände Boali-Fälle",
       hu: "Boali-vízesés szabadidőpark",
       ro: "Zona de agrement de la Cascadele Boali",
-      en: "Boali Falls Recreation Area",
-image: "/poi-images/boali-recreation-life-v2.webp"
-},
+      en: "Boali Falls Recreation Area"},
+    image: "/poi-images/boali-recreation-life-v2.webp",
     descriptionAdvanced: {
       ro: "Zona de recreere de la Boali este o destinație populară pentru turiștii care vor să exploreze cascadele și mediul natural, oferind un spațiu pentru odihnă și activități în aer liber în apropierea capitalei. Geografie K7 – Turism.",
       en: "The Boali Falls, located near the town of Boali, are one of the most popular recreational sites in the Central African Republic. The impressive waterfalls and the surrounding park area provide a scenic escape for residents of Bangui and visitors alike. Beyond their energy potential, the falls symbolize the natural beauty that contributes to the country's recreational life. Geography K7 — Recreational sites."
@@ -269,9 +261,8 @@ image: "/poi-images/boali-recreation-life-v2.webp"
       de: "Viehmärkte von Nana-Mambéré",
       hu: "Nana-Mambéré állatvásárai",
       ro: "Piețele de animale din Nana-Mambéré",
-      en: "Nana-Mambéré Cattle Markets",
-image: "/poi-images/nana-mambere-cattle-life-v2.webp"
-},
+      en: "Nana-Mambéré Cattle Markets"},
+    image: "/poi-images/nana-mambere-cattle-life-v2.webp",
     descriptionAdvanced: {
       ro: "Creșterea bovinelor în Nana-Mambéré constituie o ramură economică vitală, furnizând carne și produse lactate esențiale pentru piețele din vestul țării și pentru capitală. Geografie K7 – creșterea animalelor.",
       en: "Nana-Mambéré is known for its cattle ranching and pastoral activities. The plateau's grasses provide excellent grazing ground, making it one of the most productive regions for cattle in the west. This industry not only sustains a local market for meat but also represents a traditional lifestyle that has been maintained over several generations. Geography K7 — Regional livestock farming."
@@ -301,9 +292,8 @@ image: "/poi-images/nana-mambere-cattle-life-v2.webp"
       de: "Schmetterlingspfade am Sangha",
       hu: "Sangha-menti pillangóösvények",
       ro: "Traseele fluturilor de pe Sangha",
-      en: "Sangha River Butterfly Habitats",
-image: "/poi-images/sangha-butterflies-life-v2.webp"
-},
+      en: "Sangha River Butterfly Habitats"},
+    image: "/poi-images/sangha-butterflies-life-v2.webp",
     descriptionAdvanced: {
       ro: "Regiunea Sangha este renumită pentru diversitatea extraordinară a fluturilor, fiind o destinație fascinantă pentru entomologi și entuziaști ai naturii, demonstrând bogăția biologică a pădurilor tropicale. Geografie K7 – Biodiversitate.",
       en: "The Sangha region is a biodiversity hotspot famous for its incredible variety of insects, especially butterflies. The dense forests provide a unique microclimate that supports thousands of species. Researchers and naturalists are often drawn to this area to document its insect life, which is a vital indicator of the health of the tropical forest ecosystem. Geography K7 — Biodiversity research."
@@ -333,9 +323,8 @@ image: "/poi-images/sangha-butterflies-life-v2.webp"
       de: "Flusspferd-Lagunen von Vakaga",
       hu: "Vakaga víziló-lagúnái",
       ro: "Lagunele cu hipopotami din Vakaga",
-      en: "Vakaga Hippo Pools",
-image: "/poi-images/vakaga-hippos-life-v2.webp"
-},
+      en: "Vakaga Hippo Pools"},
+    image: "/poi-images/vakaga-hippos-life-v2.webp",
     descriptionAdvanced: {
       ro: "Hipopotamii din râurile regiunii Vakaga formează populații remarcabile în mediile acvatice din nord-est, fiind o parte integrantă a ecosistemului și a atracțiilor turistice potențiale din zonă. Geografie K7 – Faună acvatică."
     },
@@ -363,9 +352,8 @@ image: "/poi-images/vakaga-hippos-life-v2.webp"
       de: "Ölpalmenhaine von Ouaka",
       hu: "Ouakai olajpálma-ligetek",
       ro: "Crinierile de palmieri de ulei din Ouaka",
-      en: "Ouaka Oil Palm Groves",
-image: "/poi-images/ouaka-palm-life-v2.webp"
-},
+      en: "Ouaka Oil Palm Groves"},
+    image: "/poi-images/ouaka-palm-life-v2.webp",
     descriptionAdvanced: {
       ro: "Cultivarea palmierilor de ulei în Ouaka susține industria alimentară locală, oferind ulei pentru consum și pentru diverse utilizări casnice în satele din zona centrală a țării. Geografie K7 – Economia locală."
     },
@@ -393,9 +381,8 @@ image: "/poi-images/ouaka-palm-life-v2.webp"
       de: "Schimpansen-Habitate von Mbomou",
       hu: "Mbomou csimpánz-élőhelyei",
       ro: "Habitatele cimpanzeilor din Mbomou",
-      en: "Mbomou Chimpanzee Habitats",
-image: "/poi-images/mbomou-chimps-life-v2.webp"
-},
+      en: "Mbomou Chimpanzee Habitats"},
+    image: "/poi-images/mbomou-chimps-life-v2.webp",
     descriptionAdvanced: {
       ro: "Regiunea Mbomou adăpostește populații importante de cimpanzei, studiul și protejarea acestor primate fiind esențiale pentru conservarea ecosistemelor forestiere din estul țării. Geografie K7 – Conservare și primatologie."
     },
@@ -423,9 +410,8 @@ image: "/poi-images/mbomou-chimps-life-v2.webp"
       de: "Tabakplantagen von Basse-Kotto",
       hu: "Basse-Kotto dohányültetvényei",
       ro: "Plantațiile de tutun din Basse-Kotto",
-      en: "Basse-Kotto Tobacco Farms",
-image: "/poi-images/basse-kotto-tobacco-life-v2.webp"
-},
+      en: "Basse-Kotto Tobacco Farms"},
+    image: "/poi-images/basse-kotto-tobacco-life-v2.webp",
     descriptionAdvanced: {
       ro: "Cultivarea tutunului în Basse-Kotto reprezintă o activitate agricolă istorică, fiind un produs de export și o sursă de venit pentru numeroase gospodării rurale din sud. Geografie K7 – Agricultură."
     },
@@ -453,9 +439,8 @@ image: "/poi-images/basse-kotto-tobacco-life-v2.webp"
       de: "Wildhonig-Region Haute-Kotto",
       hu: "Haute-Kotto vadhonig-régiója",
       ro: "Regiunea mierii sălbatice Haute-Kotto",
-      en: "Haute-Kotto Wild Honey Collection",
-image: "/poi-images/haute-kotto-honey-life-v2.webp"
-},
+      en: "Haute-Kotto Wild Honey Collection"},
+    image: "/poi-images/haute-kotto-honey-life-v2.webp",
     descriptionAdvanced: {
       ro: "Producția de miere din regiunea Haute-Kotto este o activitate apicolă tradițională care valorifică resursele florale locale, oferind un produs natural apreciat pentru proprietățile sale. Geografie K7 – Resurse locale."
     },
@@ -483,9 +468,8 @@ image: "/poi-images/haute-kotto-honey-life-v2.webp"
       de: "Reistäler von Nana-Grébizi",
       hu: "Nana-Grébizi rizsvölgyei",
       ro: "Văile de orez din Nana-Grébizi",
-      en: "Nana-Grébizi Rice Valleys",
-image: "/poi-images/nana-grebizi-rice-life-v2.webp"
-},
+      en: "Nana-Grébizi Rice Valleys"},
+    image: "/poi-images/nana-grebizi-rice-life-v2.webp",
     descriptionAdvanced: {
       ro: "Cultivarea orezului în prefectura Nana-Gribizi este un pilon al agriculturii locale, oferind o resursă esențială pentru alimentația populației și pentru schimburile comerciale din regiunea centrală. Geografie K7 – Culturi agricole."
     },
@@ -513,9 +497,8 @@ image: "/poi-images/nana-grebizi-rice-life-v2.webp"
       de: "Sorghum-Ebenen von Ouham-Pendé",
       hu: "Ouham-Pendé ciroksíkságai",
       ro: "Câmpiile de sorg din Ouham-Pendé",
-      en: "Ouham-Pendé Sorghum Plains",
-image: "/poi-images/ouham-pende-sorghum-life-v2.webp"
-},
+      en: "Ouham-Pendé Sorghum Plains"},
+    image: "/poi-images/ouham-pende-sorghum-life-v2.webp",
     descriptionAdvanced: {
       ro: "Sorgul cultivat în prefectura Ouham-Pendé este o cereală rezistentă la secetă, esențială pentru dieta comunităților locale și un element cheie în agricultura de subzistență a zonei de vest. Geografie K7 – Culturi de cereale."
     },
@@ -543,9 +526,8 @@ image: "/poi-images/ouham-pende-sorghum-life-v2.webp"
       de: "Gemüsegärten von Ombella-M'Poko",
       hu: "Ombella-M'Poko konyhakertjei",
       ro: "Grădinile de legume din Ombella-M'Poko",
-      en: "Ombella-M'Poko Market Gardens",
-image: "/poi-images/ombella-mpoko-gardens-life-v2.webp"
-},
+      en: "Ombella-M'Poko Market Gardens"},
+    image: "/poi-images/ombella-mpoko-gardens-life-v2.webp",
     descriptionAdvanced: {
       ro: "Grădinile comunitare din Ombella-M'Poko furnizează legume proaspete pentru piețele capitalei, fiind un exemplu de agricultură periurbană care susține necesitățile alimentare ale populației urbane. Geografie K7 – Agricultură periurbană."
     },
@@ -573,9 +555,8 @@ image: "/poi-images/ombella-mpoko-gardens-life-v2.webp"
       de: "Zemongo-Wildtierreservat",
       hu: "Zemongo vadrezervátum",
       ro: "Rezervația de faună Zemongo",
-      en: "Zemongo Wildlife Reserve",
-image: "/poi-images/zemongo-wildlife-life-v2.webp"
-},
+      en: "Zemongo Wildlife Reserve"},
+    image: "/poi-images/zemongo-wildlife-life-v2.webp",
     descriptionAdvanced: {
       ro: "Zona protejată Zemongo este vitală pentru conservarea speciilor rare și a habitatului forestier din estul țării, contribuind la menținerea diversității biologice unice a regiunii. Geografie K7 – Arii protejate."
     },
@@ -603,9 +584,8 @@ image: "/poi-images/zemongo-wildlife-life-v2.webp"
       de: "Forstwirtschaft von Lobaye",
       hu: "Lobaye erdőgazdálkodása",
       ro: "Silvicultura din Lobaye",
-      en: "Lobaye Forestry",
-image: "/poi-images/lobaye-forestry-life-v2.webp"
-},
+      en: "Lobaye Forestry"},
+    image: "/poi-images/lobaye-forestry-life-v2.webp",
     descriptionAdvanced: {
       ro: "Activitățile forestiere din prefectura Lobaye sunt esențiale pentru economia bazată pe lemn, implicând exploatarea responsabilă și procesarea resurselor forestiere din sud-vestul țării. Geografie K7 – Resurse naturale."
     },

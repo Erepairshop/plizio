@@ -10,9 +10,8 @@ export const poiExtraRwandaEconomicV2: POI[] = [
       de: "Sonderwirtschaftszone Kigali (KSEZ)",
       hu: "Kigali Különleges Gazdasági Övezet",
       ro: "Zona Economica Speciala Kigali",
-      en: "Kigali Special Economic Zone (KSEZ)",
-image: "/poi-images/rw-kigali-sez-economic-v2.webp"
-},
+      en: "Kigali Special Economic Zone (KSEZ)"},
+    image: "/poi-images/rw-kigali-sez-economic-v2.webp",
     description: {
       de: "Zentrale Industriezone für Logistik, Produktion und Verarbeitung in Ruanda.",
       hu: "Ruanda központi ipari zónája a logisztika, gyártás és feldolgozás számára.",
@@ -47,9 +46,8 @@ image: "/poi-images/rw-kigali-sez-economic-v2.webp"
       de: "Bergbauregion Muhanga",
       hu: "Muhanga bányászati régió",
       ro: "Regiunea miniera Muhanga",
-      en: "Muhanga Mining Region",
-image: "/poi-images/rw-baryx-economic-v2.webp"
-},
+      en: "Muhanga Mining Region"},
+    image: "/poi-images/rw-baryx-economic-v2.webp",
     description: {
       de: "Ein wichtiges Gebiet für den Abbau von Kassiterit, Wolfram und Coltan.",
       hu: "Fontos terület a kassziterit, volfrám és koltán bányászatában.",
@@ -84,9 +82,8 @@ image: "/poi-images/rw-baryx-economic-v2.webp"
       de: "KivuWatt Kraftwerk",
       hu: "KivuWatt Eromu",
       ro: "Centrala electrica KivuWatt",
-      en: "KivuWatt Power Plant",
-image: "/poi-images/rw-kivu-methane-economic-v2.webp"
-},
+      en: "KivuWatt Power Plant"},
+    image: "/poi-images/rw-kivu-methane-economic-v2.webp",
     description: {
       de: "Einzigartiges Kraftwerk, das Methangas aus dem Kiwusee zur Stromerzeugung nutzt.",
       hu: "Egyedülálló eromu, amely a Kivu-tóból származó metángázt használja áramtermelésre.",
@@ -121,9 +118,8 @@ image: "/poi-images/rw-kivu-methane-economic-v2.webp"
       de: "Kaffeeverarbeitung Huye",
       hu: "Huye kávéfeldolgozó",
       ro: "Prelucrarea cafelei Huye",
-      en: "Huye Coffee Processing",
-image: "/poi-images/rw-buse_coffee-economic-v2.webp"
-},
+      en: "Huye Coffee Processing"},
+    image: "/poi-images/rw-buse_coffee-economic-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für die Verarbeitung und den Export von hochwertigem ruandischem Arabica-Kaffee.",
       hu: "A kiváló minoségu ruandai arabica kávé feldolgozásának és exportjának fontos központja.",
@@ -158,9 +154,8 @@ image: "/poi-images/rw-buse_coffee-economic-v2.webp"
       de: "Industriepark Bugesera",
       hu: "Bugesera Ipari Park",
       ro: "Parcul Industrial Bugesera",
-      en: "Bugesera Industrial Park",
-image: "/poi-images/rw-bugesera-industrial-economic-v2.webp"
-},
+      en: "Bugesera Industrial Park"},
+    image: "/poi-images/rw-bugesera-industrial-economic-v2.webp",
     description: {
       de: "Ein im Aufbau befindlicher Industriepark in der Nähe des neuen internationalen Flughafens.",
       hu: "Egy épülo ipari park az új nemzetközi repülotér közelében.",
@@ -195,9 +190,8 @@ image: "/poi-images/rw-bugesera-industrial-economic-v2.webp"
       de: "Rwamagana Solarpark",
       hu: "Rwamagana Napelempark",
       ro: "Parcul Solar Rwamagana",
-      en: "Rwamagana Solar Park",
-image: "/poi-images/rw-rwamagana-solar-economic-v2.webp"
-},
+      en: "Rwamagana Solar Park"},
+    image: "/poi-images/rw-rwamagana-solar-economic-v2.webp",
     description: {
       de: "Eine der größten Solaranlagen Ostafrikas, die in Form des afrikanischen Kontinents angelegt ist.",
       hu: "Kelet-Afrika egyik legnagyobb naperomuve, amelyet az afrikai kontinens formájára alakítottak ki.",
@@ -232,9 +226,8 @@ image: "/poi-images/rw-rwamagana-solar-economic-v2.webp"
       de: "Teefabrik Karongi",
       hu: "Karongi Teagyár",
       ro: "Fabrica de ceai Karongi",
-      en: "Karongi Tea Factory",
-image: "/poi-images/rw-karongi-tea-economic-v2.webp"
-},
+      en: "Karongi Tea Factory"},
+    image: "/poi-images/rw-karongi-tea-economic-v2.webp",
     description: {
       de: "Wichtige Verarbeitungsanlage für ruandischen Schwarztee aus den umliegenden Hügeln.",
       hu: "Fontos feldolgozóüzem a környezo dombokról származó ruandai fekete tea számára.",
@@ -269,9 +262,8 @@ image: "/poi-images/rw-karongi-tea-economic-v2.webp"
       de: "Nyabarongo I Wasserkraftwerk",
       hu: "Nyabarongo I Vízeromu",
       ro: "Centrala hidroelectrica Nyabarongo I",
-      en: "Nyabarongo I Hydroelectric Power Station",
-image: "/poi-images/rw-nyabarongo-hydro-economic-v2.webp"
-},
+      en: "Nyabarongo I Hydroelectric Power Station"},
+    image: "/poi-images/rw-nyabarongo-hydro-economic-v2.webp",
     description: {
       de: "Ein großes Wasserkraftwerk am Fluss Nyabarongo zur Deckung des nationalen Energiebedarfs.",
       hu: "Nagy vízeromu a Nyabarongo folyón a nemzeti energiaigény fedezésére.",
@@ -306,9 +298,8 @@ image: "/poi-images/rw-nyabarongo-hydro-economic-v2.webp"
       de: "Bweramvura Zinnmine",
       hu: "Bweramvura Ón bánya",
       ro: "Mina de staniu Bweramvura",
-      en: "Bweramvura Tin Mine",
-image: "/poi-images/rw-bweramvura-mining-economic-v2.webp"
-},
+      en: "Bweramvura Tin Mine"},
+    image: "/poi-images/rw-bweramvura-mining-economic-v2.webp",
     description: {
       de: "Eine der traditionellen Zinnminen (Kassiterit) in der Nähe von Kigali.",
       hu: "Az egyik hagyományos ón- (kassziterit) bánya Kigali közelében.",
@@ -343,9 +334,8 @@ image: "/poi-images/rw-bweramvura-mining-economic-v2.webp"
       de: "Gishoma Torfkraftwerk",
       hu: "Gishoma Tozege eromu",
       ro: "Centrala pe turba Gishoma",
-      en: "Gishoma Peat Power Plant",
-image: "/poi-images/rw-gishoma-peat-economic-v2.webp"
-},
+      en: "Gishoma Peat Power Plant"},
+    image: "/poi-images/rw-gishoma-peat-economic-v2.webp",
     description: {
       de: "Ein Kraftwerk, das lokale Torfvorkommen nutzt, um das ruandische Stromnetz zu stabilisieren.",
       hu: "Egy eromu, amely helyi tozeglelohelyeket használ a ruandai elektromos hálózat stabilizálására.",
@@ -380,9 +370,8 @@ image: "/poi-images/rw-gishoma-peat-economic-v2.webp"
       de: "Hafen Rubavu",
       hu: "Rubavu Kiköto",
       ro: "Portul Rubavu",
-      en: "Rubavu Port",
-image: "/poi-images/rw-rubavu-port-economic-v2.webp"
-},
+      en: "Rubavu Port"},
+    image: "/poi-images/rw-rubavu-port-economic-v2.webp",
     description: {
       de: "Wichtiger Binnenhafen am Kiwusee für den Handel mit der Demokratischen Republik Kongo.",
       hu: "Fontos belföldi kiköto a Kivu-tavon a Kongói Demokratikus Köztársasággal folytatott kereskedelemhez.",
@@ -417,9 +406,8 @@ image: "/poi-images/rw-rubavu-port-economic-v2.webp"
       de: "Hafen Rusizi",
       hu: "Rusizi Kiköto",
       ro: "Portul Rusizi",
-      en: "Rusizi Port",
-image: "/poi-images/rw-rusizi-port-economic-v2.webp"
-},
+      en: "Rusizi Port"},
+    image: "/poi-images/rw-rusizi-port-economic-v2.webp",
     description: {
       de: "Ein südlicher Hafen am Kiwusee, der als Handelszentrum für Waren dient.",
       hu: "Egy déli kiköto a Kivu-tavon, amely áruk kereskedelmi központjaként szolgál.",
@@ -454,9 +442,8 @@ image: "/poi-images/rw-rusizi-port-economic-v2.webp"
       de: "Rutongo Minen",
       hu: "Rutongo Bányák",
       ro: "Minele Rutongo",
-      en: "Rutongo Mines",
-image: "/poi-images/rw-rutongo-mining-economic-v2.webp"
-},
+      en: "Rutongo Mines"},
+    image: "/poi-images/rw-rutongo-mining-economic-v2.webp",
     description: {
       de: "Eines der größten Zinnbergwerke Ruandas, nördlich der Hauptstadt gelegen.",
       hu: "Ruanda egyik legnagyobb ónbányája, a fovárostól északra.",
@@ -491,9 +478,8 @@ image: "/poi-images/rw-rutongo-mining-economic-v2.webp"
       de: "Bakhresa Getreidemühle Kigali",
       hu: "Bakhresa Gabonaorlo Kigali",
       ro: "Moara de cereale Bakhresa Kigali",
-      en: "Bakhresa Grain Mill Kigali",
-image: "/poi-images/rw-bakhresa-grain-economic-v2.webp"
-},
+      en: "Bakhresa Grain Mill Kigali"},
+    image: "/poi-images/rw-bakhresa-grain-economic-v2.webp",
     description: {
       de: "Eine hochmoderne Getreidemühle in der Sonderwirtschaftszone Kigali zur Mehlsicherung.",
       hu: "Egy modern gabonaorlo a Kigali Különleges Gazdasági Övezetben a lisztellátás biztosítására.",
@@ -528,9 +514,8 @@ image: "/poi-images/rw-bakhresa-grain-economic-v2.webp"
       de: "CIMERWA Zementwerk",
       hu: "CIMERWA Cementgyár",
       ro: "Fabrica de ciment CIMERWA",
-      en: "CIMERWA Cement Factory",
-image: "/poi-images/rw-cimerwa-cement-economic-v2.webp"
-},
+      en: "CIMERWA Cement Factory"},
+    image: "/poi-images/rw-cimerwa-cement-economic-v2.webp",
     description: {
       de: "Der größte und einzige vollintegrierte Zementhersteller in Ruanda, im Südwesten gelegen.",
       hu: "A legnagyobb és egyetlen teljesen integrált cementgyártó Ruandában, délnyugaton.",
@@ -565,9 +550,8 @@ image: "/poi-images/rw-cimerwa-cement-economic-v2.webp"
       de: "Inyange Industries (Milch & Saft)",
       hu: "Inyange Iparágak",
       ro: "Industriile Inyange",
-      en: "Inyange Industries",
-image: "/poi-images/rw-inya-dairy-economic-v2.webp"
-},
+      en: "Inyange Industries"},
+    image: "/poi-images/rw-inya-dairy-economic-v2.webp",
     description: {
       de: "Der führende Hersteller von Milchprodukten und Fruchtsäften in Ruanda.",
       hu: "A tejtermékek és gyümölcslevek vezeto gyártója Ruandában.",
@@ -602,9 +586,8 @@ image: "/poi-images/rw-inya-dairy-economic-v2.webp"
       de: "Pfunda Teefabrik",
       hu: "Pfunda Teagyár",
       ro: "Fabrica de ceai Pfunda",
-      en: "Pfunda Tea Estate",
-image: "/poi-images/rw-pfunda-tea-economic-v2.webp"
-},
+      en: "Pfunda Tea Estate"},
+    image: "/poi-images/rw-pfunda-tea-economic-v2.webp",
     description: {
       de: "Eine der produktivsten Teefabriken nahe Rubavu, die hochwertigen schwarzen Tee exportiert.",
       hu: "Az egyik legtermékenyebb teagyár Rubavu közelében, amely kiváló minoségu fekete teát exportál.",
@@ -639,9 +622,8 @@ image: "/poi-images/rw-pfunda-tea-economic-v2.webp"
       de: "Rutsiro Coltan-Mine",
       hu: "Rutsiro Koltánbánya",
       ro: "Mina de coltan Rutsiro",
-      en: "Rutsiro Coltan Mine",
-image: "/poi-images/rw-rutsiro-mining-economic-v2.webp"
-},
+      en: "Rutsiro Coltan Mine"},
+    image: "/poi-images/rw-rutsiro-mining-economic-v2.webp",
     description: {
       de: "Ein Abbaugebiet für Coltan, das essentiell für die Elektronikindustrie weltweit ist.",
       hu: "Koltán bányászati terület, amely elengedhetetlen a világ elektronikai ipara számára.",
@@ -676,9 +658,8 @@ image: "/poi-images/rw-rutsiro-mining-economic-v2.webp"
       de: "Gisagara Torfkraftwerk (HQ Power)",
       hu: "Gisagara Tozege eromu",
       ro: "Centrala pe turba Gisagara",
-      en: "Gisagara Peat Power Plant",
-image: "/poi-images/rw-gisagara-peat-economic-v2.webp"
-},
+      en: "Gisagara Peat Power Plant"},
+    image: "/poi-images/rw-gisagara-peat-economic-v2.webp",
     description: {
       de: "Ein 80-MW-Wärmekraftwerk, das zur Reduzierung der Energieimporte Ruandas beiträgt.",
       hu: "Egy 80 MW-os hoeromu, amely segít csökkenteni Ruanda energiaimportját.",
@@ -713,9 +694,8 @@ image: "/poi-images/rw-gisagara-peat-economic-v2.webp"
       de: "Wolframmine Ruli",
       hu: "Ruli Volfrámbánya",
       ro: "Mina de wolfram Ruli",
-      en: "Ruli Wolfram Mine",
-image: "/poi-images/rw-ruli-mining-economic-v2.webp"
-},
+      en: "Ruli Wolfram Mine"},
+    image: "/poi-images/rw-ruli-mining-economic-v2.webp",
     description: {
       de: "Eine bedeutende Mine für die Gewinnung von Wolfram, einem strategischen Hartmetall.",
       hu: "Jelentos bánya a volfrám, egy stratégiai keményfém kitermelésére.",
@@ -750,9 +730,8 @@ image: "/poi-images/rw-ruli-mining-economic-v2.webp"
       de: "Bramin Mais-Verarbeitung",
       hu: "Bramin Kukoricafeldolgozó",
       ro: "Prelucrarea porumbului Bramin",
-      en: "Bramin Maize Processing",
-image: "/poi-images/rw-bramin-farm-economic-v2.webp"
-},
+      en: "Bramin Maize Processing"},
+    image: "/poi-images/rw-bramin-farm-economic-v2.webp",
     description: {
       de: "Eine industrielle landwirtschaftliche Anlage, die Mais und Sojabohnen im großen Stil verarbeitet.",
       hu: "Ipari mezogazdasági létesítmény, amely kukoricát és szójababot dolgoz fel nagy tételben.",
@@ -787,9 +766,8 @@ image: "/poi-images/rw-bramin-farm-economic-v2.webp"
       de: "Positivo BGH Elektronikfabrik",
       hu: "Positivo BGH Elektronikai Gyár",
       ro: "Fabrica de electronice Positivo BGH",
-      en: "Positivo BGH Electronics Factory",
-image: "/poi-images/rw-positivo-bgh-economic-v2.webp"
-},
+      en: "Positivo BGH Electronics Factory"},
+    image: "/poi-images/rw-positivo-bgh-economic-v2.webp",
     description: {
       de: "Eine Fabrik in Kigali zur Herstellung von Laptops, Tablets und Computern für den afrikanischen Markt.",
       hu: "Egy gyár Kigaliban laptopok, táblagépek és számítógépek gyártására az afrikai piac számára.",
@@ -824,9 +802,8 @@ image: "/poi-images/rw-positivo-bgh-economic-v2.webp"
       de: "Volkswagen Montagewerk Kigali",
       hu: "Volkswagen Összeszerelo Üzem Kigali",
       ro: "Fabrica de asamblare Volkswagen Kigali",
-      en: "Volkswagen Assembly Plant Kigali",
-image: "/poi-images/rw-volkswagen-kigali-economic-v2.webp"
-},
+      en: "Volkswagen Assembly Plant Kigali"},
+    image: "/poi-images/rw-volkswagen-kigali-economic-v2.webp",
     description: {
       de: "Montagewerk für VW-Fahrzeuge, das auch innovative Mobilitätsdienste (Car-Sharing) anbietet.",
       hu: "VW jármuvek összeszerelo üzeme, amely innovatív mobilitási szolgáltatásokat (autómegosztás) is kínál.",
@@ -861,9 +838,8 @@ image: "/poi-images/rw-volkswagen-kigali-economic-v2.webp"
       de: "Amethystmine im Süden",
       hu: "Déli Ametisztbánya",
       ro: "Mina de ametist din sud",
-      en: "Southern Amethyst Mine",
-image: "/poi-images/rw-maramagambo-mining-economic-v2.webp"
-},
+      en: "Southern Amethyst Mine"},
+    image: "/poi-images/rw-maramagambo-mining-economic-v2.webp",
     description: {
       de: "Ein Standort für den Abbau von Halbedelsteinen, insbesondere Amethyst, für den Export.",
       hu: "Féldrágakövek, különösen az ametiszt bányászatának helyszíne export céljából.",
@@ -898,9 +874,8 @@ image: "/poi-images/rw-maramagambo-mining-economic-v2.webp"
       de: "Shyorongi Steinbruch",
       hu: "Shyorongi Kobánya",
       ro: "Cariera Shyorongi",
-      en: "Shyorongi Quarry",
-image: "/poi-images/rw-shorongi-quarry-economic-v2.webp"
-},
+      en: "Shyorongi Quarry"},
+    image: "/poi-images/rw-shorongi-quarry-economic-v2.webp",
     description: {
       de: "Ein großer Steinbruch nördlich von Kigali, der Baumaterialien für Infrastrukturprojekte liefert.",
       hu: "Nagy kobánya Kigalitól északra, amely építoanyagokat szállít az infrastrukturális projektekhez.",
@@ -935,9 +910,8 @@ image: "/poi-images/rw-shorongi-quarry-economic-v2.webp"
       de: "Bralirwa Brauerei Rubavu",
       hu: "Bralirwa Sörfozde Rubavu",
       ro: "Beraria Bralirwa Rubavu",
-      en: "Bralirwa Brewery Rubavu",
-image: "/poi-images/rw-bralirwa-brewery-economic-v2.webp"
-},
+      en: "Bralirwa Brewery Rubavu"},
+    image: "/poi-images/rw-bralirwa-brewery-economic-v2.webp",
     description: {
       de: "Die größte und älteste kommerzielle Brauerei Ruandas, gelegen am Ufer des Kiwusees.",
       hu: "Ruanda legnagyobb és legrégebbi kereskedelmi sörfozdéje, a Kivu-tó partján.",
@@ -972,9 +946,8 @@ image: "/poi-images/rw-bralirwa-brewery-economic-v2.webp"
       de: "Textilfabrik UTEXRWA",
       hu: "UTEXRWA Textilgyár",
       ro: "Fabrica de textile UTEXRWA",
-      en: "UTEXRWA Textile Factory",
-image: "/poi-images/rw-sotoma-textile-economic-v2.webp"
-},
+      en: "UTEXRWA Textile Factory"},
+    image: "/poi-images/rw-sotoma-textile-economic-v2.webp",
     description: {
       de: "Einer der traditionsreichsten Textil- und Bekleidungshersteller im Land.",
       hu: "Az ország egyik legnagyobb hagyományokkal rendelkezo textil- és ruházati gyártója.",
@@ -1009,9 +982,8 @@ image: "/poi-images/rw-sotoma-textile-economic-v2.webp"
       de: "PharmaLab Ruanda",
       hu: "PharmaLab Ruanda",
       ro: "PharmaLab Rwanda",
-      en: "PharmaLab Rwanda",
-image: "/poi-images/rw-pharmalab-economic-v2.webp"
-},
+      en: "PharmaLab Rwanda"},
+    image: "/poi-images/rw-pharmalab-economic-v2.webp",
     description: {
       de: "Ein medizinisches Produktionszentrum, das Laborausrüstung und ausgewählte Arzneimittel herstellt.",
       hu: "Orvosi gyártóközpont, amely laboratóriumi felszereléseket és kiválasztott gyógyszereket állít elo.",
@@ -1046,9 +1018,8 @@ image: "/poi-images/rw-pharmalab-economic-v2.webp"
       de: "Trockenhafen Kigali (DP World)",
       hu: "Kigali Szárazkiköto (DP World)",
       ro: "Portul uscat Kigali (DP World)",
-      en: "Kigali Dry Port (DP World)",
-image: "/poi-images/rw-kigali-dryport-economic-v2.webp"
-},
+      en: "Kigali Dry Port (DP World)"},
+    image: "/poi-images/rw-kigali-dryport-economic-v2.webp",
     description: {
       de: "Ein wichtiger Binnenhafen (Dry Port) von DP World für den Güterumschlag im Zentrum Afrikas.",
       hu: "A DP World fontos belföldi kikötoje (szárazkiköto) Közép-Afrika áruforgalma számára.",
@@ -1083,9 +1054,8 @@ image: "/poi-images/rw-kigali-dryport-economic-v2.webp"
       de: "Bugesera Zinnveredelung",
       hu: "Bugesera Ónfinomító",
       ro: "Rafinaria de staniu Bugesera",
-      en: "Bugesera Tin Smelting",
-image: "/poi-images/rw-bugesera-mining-economic-v2.webp"
-},
+      en: "Bugesera Tin Smelting"},
+    image: "/poi-images/rw-bugesera-mining-economic-v2.webp",
     description: {
       de: "Eine Anlage zur Verhüttung und Veredelung von ruandischen Zinnerzen (Kassiterit) für den Export.",
       hu: "A ruandai ónércek (kassziterit) olvasztására és finomítására szolgáló létesítmény exportra.",

@@ -12,9 +12,8 @@ export const poiExtraJapanHistoryV2: POI[] = [
       de: "Goryōkaku Festung",
       hu: "Gorjókaku erőd",
       ro: "Fortul Goryōkaku",
-      en: "Goryōkaku Fort",
-image: "/poi-images/goryokaku-fort-history-v2.webp"
-},
+      en: "Goryōkaku Fort"},
+    image: "/poi-images/goryokaku-fort-history-v2.webp",
     description: {
       de: "Eine massive, sternförmige Zitadelle aus dem 19. Jahrhundert in Hakodate. Es war der Schauplatz der letzten Schlacht des Boshin-Krieges, wo die Truppen des Shogunats endgültig besiegt wurden.",
       hu: "Egy hatalmas, csillag alakú, 19. századi citadella Hakodatéban. Ez volt a Bosin-háború utolsó csatájának helyszíne, ahol a sógunátus csapatai végső vereséget szenvedtek.",
@@ -49,9 +48,8 @@ image: "/poi-images/goryokaku-fort-history-v2.webp"
       de: "Yoshinogari Ruinen",
       hu: "Josinogari romok",
       ro: "Ruinele Yoshinogari",
-      en: "Yoshinogari Ruins",
-image: "/poi-images/yoshino-ruins-history-v2.webp"
-},
+      en: "Yoshinogari Ruins"},
+    image: "/poi-images/yoshino-ruins-history-v2.webp",
     description: {
       de: "Eine große und komplexe archäologische Stätte, die eine Siedlung aus der Yayoi-Zeit (ca. 300 v. Chr. - 300 n. Chr.) darstellt. Sie bietet Einblicke in das Leben im alten Japan, einschließlich befestigter Gräben und rekonstruierter Gebäude.",
       hu: "Egy nagy és összetett régészeti lelőhely, amely a Jajoi-korszakból (i. e. 300 – i. sz. 300) származó települést mutat be. Betekintést nyújt az ókori Japán életébe, beleértve a megerősített árkokat és a rekonstruált épületeket.",
@@ -86,9 +84,8 @@ image: "/poi-images/yoshino-ruins-history-v2.webp"
       de: "Schlachtfeld von Sekigahara",
       hu: "Szekigaharai csatatér",
       ro: "Câmpul de luptă de la Sekigahara",
-      en: "Sekigahara Battlefield",
-image: "/poi-images/sekigahara-battlefield-history-v2.webp"
-},
+      en: "Sekigahara Battlefield"},
+    image: "/poi-images/sekigahara-battlefield-history-v2.webp",
     description: {
       de: "Der Ort der entscheidenden Schlacht von 1600, die den Weg für die Errichtung des Tokugawa-Shogunats ebnete. Das Gebiet ist heute mit Denkmälern und Markierungen übersät, die die Positionen der verschiedenen Armeen anzeigen.",
       hu: "Az 1600-as döntő csata helyszíne, amely megnyitotta az utat a Tokugava-sógunátus megalapításához. A terület ma tele van emlékművekkel és jelzésekkel, amelyek a különböző hadseregek pozícióit jelölik.",
@@ -123,9 +120,8 @@ image: "/poi-images/sekigahara-battlefield-history-v2.webp"
       de: "Insel Dejima",
       hu: "Dedzsima sziget",
       ro: "Insula Dejima",
-      en: "Dejima Island",
-image: "/poi-images/dejimia-island-history-v2.webp"
-},
+      en: "Dejima Island"},
+    image: "/poi-images/dejimia-island-history-v2.webp",
     description: {
       de: "Eine künstliche Insel in Nagasaki, die während der japanischen Isolationszeit (1641-1853) als einziger Handelsposten für die Niederländer diente. Sie war Japans einziges Fenster zur westlichen Welt.",
       hu: "Egy mesterséges sziget Nagaszakiban, amely a japán elszigeteltség időszakában (1641–1853) az egyetlen kereskedelmi állomás volt a hollandok számára. Ez volt Japán egyetlen ablaka a nyugati világra.",
@@ -160,9 +156,8 @@ image: "/poi-images/dejimia-island-history-v2.webp"
       de: "Sannai-Maruyama Stätte",
       hu: "Szannai-Marujama lelőhely",
       ro: "Situl Sannai-Maruyama",
-      en: "Sannai-Maruyama Site",
-image: "/poi-images/sannai-maruyama-history-v2.webp"
-},
+      en: "Sannai-Maruyama Site"},
+    image: "/poi-images/sannai-maruyama-history-v2.webp",
     description: {
       de: "Eine der größten und am besten erhaltenen prähistorischen Jōmon-Siedlungen (ca. 13.000–300 v. Chr.) in Japan. Die Stätte umfasst rekonstruierte Grubenhäuser, große erhöhte Gebäude und Gräber.",
       hu: "Japán egyik legnagyobb és legjobb állapotban fennmaradt őskori Dzsómon-települése (kb. i. e. 13 000–300). A lelőhelyen rekonstruált veremházak, nagy, cölöpökre épült épületek és sírok találhatók.",
@@ -197,9 +192,8 @@ image: "/poi-images/sannai-maruyama-history-v2.webp"
       de: "Friedensdenkmal-Park Okinawa",
       hu: "Okinavai Béke Emlékpark",
       ro: "Parcul Memorial al Păcii din Okinawa",
-      en: "Okinawa Peace Memorial Park",
-image: "/poi-images/peace-monument-okinawa-history-v2.webp"
-},
+      en: "Okinawa Peace Memorial Park"},
+    image: "/poi-images/peace-monument-okinawa-history-v2.webp",
     description: {
       de: "Ein Denkmal im Süden der Insel Okinawa, das an die Schlacht von Okinawa im Jahr 1945 erinnert. Es ist den über 240.000 Menschen gewidmet, die in der Schlacht ihr Leben verloren haben, sowohl Militärangehörige als auch Zivilisten.",
       hu: "Egy emlékpark Okinava szigetének déli részén, amely az 1945-ös okinavai csatára emlékezik. A csatában életét vesztett több mint 240 000 embernek – katonáknak és civileknek egyaránt – állít emléket.",
@@ -234,9 +228,8 @@ image: "/poi-images/peace-monument-okinawa-history-v2.webp"
       de: "Takeda Burgruine",
       hu: "Takeda várrom",
       ro: "Ruinele Castelului Takeda",
-      en: "Takeda Castle Ruins",
-image: "/poi-images/takeda-castle-ruins-history-v2.webp"
-},
+      en: "Takeda Castle Ruins"},
+    image: "/poi-images/takeda-castle-ruins-history-v2.webp",
     description: {
       de: "Bekannt als das 'Machu Picchu Japans', sind diese Ruinen auf einem Berggipfel berühmt für das Phänomen des 'Wolkenmeers' (unkai), das die Burg an Herbstmorgen wie schwebend erscheinen lässt.",
       hu: "A 'Japán Machu Picchu'-jaként ismert hegytetőn lévő romok híresek a 'felhőtenger' (unkai) jelenségről, amely az őszi reggeleken úgy tűnik, mintha a vár lebegne.",
@@ -271,9 +264,8 @@ image: "/poi-images/takeda-castle-ruins-history-v2.webp"
       de: "Ichijōdani Asakura Clan Ruinen",
       hu: "Icsidzsódani Aszakura klán romjai",
       ro: "Ruinele Clanului Asakura din Ichijōdani",
-      en: "Ichijōdani Asakura Clan Ruins",
-image: "/poi-images/ichijodani-asakura-ruins-history-v2.webp"
-},
+      en: "Ichijōdani Asakura Clan Ruins"},
+    image: "/poi-images/ichijodani-asakura-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen einer ganzen Burgstadt aus der Sengoku-Zeit, die vom Asakura-Clan regiert wurde. Die Stadt wurde 1573 von Oda Nobunaga zerstört. Die Ausgrabungen haben die gesamte Stadtstruktur freigelegt und teilweise rekonstruiert.",
       hu: "Egy teljes Szengoku-kori várváros romjai, amelyet az Aszakura klán uralt. A várost 1573-ban Oda Nobunaga pusztította el. Az ásatások feltárták és részben rekonstruálták a teljes városszerkezetet.",
@@ -308,9 +300,8 @@ image: "/poi-images/ichijodani-asakura-ruins-history-v2.webp"
       de: "Hara Burgruine",
       hu: "Hara várrom",
       ro: "Ruinele Castelului Hara",
-      en: "Hara Castle Ruins",
-image: "/poi-images/hara-castle-ruins-history-v2.webp"
-},
+      en: "Hara Castle Ruins"},
+    image: "/poi-images/hara-castle-ruins-history-v2.webp",
     description: {
       de: "Der Ort des letzten Gefechts der Shimabara-Rebellion (1637-1638), einem Aufstand von meist katholischen Bauern. Die Burg wurde nach der Niederschlagung der Rebellion vollständig zerstört.",
       hu: "A simabarai felkelés (1637–1638), egy főként katolikus parasztokból álló lázadás utolsó csatájának helyszíne. A várat a felkelés leverése után teljesen lerombolták.",
@@ -345,9 +336,8 @@ image: "/poi-images/hara-castle-ruins-history-v2.webp"
       de: "Dazaifu Tenmangū Schrein",
       hu: "Dazaifu Tenmangú szentély",
       ro: "Sanctuarul Dazaifu Tenmangū",
-      en: "Dazaifu Tenmangū Shrine",
-image: "/poi-images/sugawara-no-michizane-tomb-history-v2.webp"
-},
+      en: "Dazaifu Tenmangū Shrine"},
+    image: "/poi-images/sugawara-no-michizane-tomb-history-v2.webp",
     description: {
       de: "Ein bedeutender Shintō-Schrein, der über dem Grab von Sugawara no Michizane erbaut wurde, einem Gelehrten und Politiker der Heian-Zeit, der posthum als Tenjin, der Gott der Gelehrsamkeit, verehrt wurde.",
       hu: "Egy fontos sintó szentély, amely Sugawara no Michizane, egy Heian-kori tudós és politikus sírja fölé épült, akit halála után Tenjinnek, a tudomány istenének istenítettek.",
@@ -382,9 +372,8 @@ image: "/poi-images/sugawara-no-michizane-tomb-history-v2.webp"
       de: "Izumo-Taisha Schrein",
       hu: "Izumo-taisa szentély",
       ro: "Sanctuarul Izumo-Taisha",
-      en: "Izumo-Taisha Shrine",
-image: "/poi-images/izumo-taisha-shrine-history-v2.webp"
-},
+      en: "Izumo-Taisha Shrine"},
+    image: "/poi-images/izumo-taisha-shrine-history-v2.webp",
     description: {
       de: "Einer der ältesten und wichtigsten Shintō-Schreine in Japan. Er ist dem Gott Ōkuninushi gewidmet, der mit der Erschaffung Japans und der Landwirtschaft verbunden ist. Die Architektur des Schreins ist einzigartig und repräsentiert einen alten Stil.",
       hu: "Japán egyik legrégebbi és legfontosabb sintó szentélye. Ókuninusi istennek szentelték, aki Japán teremtéséhez és a mezőgazdasághoz kötődik. A szentély építészete egyedi és egy ősi stílust képvisel.",
@@ -419,9 +408,8 @@ image: "/poi-images/izumo-taisha-shrine-history-v2.webp"
       de: "Azuchi Burgruine",
       hu: "Azucsi várrom",
       ro: "Ruinele Castelului Azuchi",
-      en: "Azuchi Castle Ruins",
-image: "/poi-images/azuchi-castle-ruins-history-v2.webp"
-},
+      en: "Azuchi Castle Ruins"},
+    image: "/poi-images/azuchi-castle-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen der Burg von Oda Nobunaga, einem der großen Reichseiniger Japans. Die Burg war revolutionär in ihrem Design und ihrer Größe, wurde aber kurz nach Nobunagas Tod 1582 zerstört.",
       hu: "Oda Nobunaga, Japán egyik nagy birodalomegyesítőjének várának romjai. A vár forradalmi volt tervezésében és méretében, de nem sokkal Nobunaga 1582-es halála után elpusztult.",
@@ -456,9 +444,8 @@ image: "/poi-images/azuchi-castle-ruins-history-v2.webp"
       de: "Historische Dörfer von Shirakawa-gō und Gokayama",
       hu: "Sirakava-gó és Gokajama történelmi falvai",
       ro: "Satele istorice Shirakawa-gō și Gokayama",
-      en: "Historic Villages of Shirakawa-gō and Gokayama",
-image: "/poi-images/gassho-zukuri-villages-history-v2.webp"
-},
+      en: "Historic Villages of Shirakawa-gō and Gokayama"},
+    image: "/poi-images/gassho-zukuri-villages-history-v2.webp",
     description: {
       de: "Diese Dörfer sind berühmt für ihre traditionellen Gasshō-Zukuri-Bauernhäuser, deren steile Strohdächer wie zum Gebet gefaltete Hände aussehen. Diese Bauweise ist an die rauen Winter der Region angepasst.",
       hu: "Ezek a falvak híresek hagyományos Gassó-zukuri parasztházaikról, amelyek meredek szalmatetői imára kulcsolt kézre emlékeztetnek. Ez az építési mód a régió zord teleihez alkalmazkodott.",
@@ -493,9 +480,8 @@ image: "/poi-images/gassho-zukuri-villages-history-v2.webp"
       de: "Hiraizumi – Tempel, Gärten und archäologische Stätten",
       hu: "Hiraizumi – Templomok, kertek és régészeti lelőhelyek",
       ro: "Hiraizumi – Temple, Grădini și Situri Arheologice",
-      en: "Hiraizumi – Temples, Gardens and Archaeological Sites",
-image: "/poi-images/hiraizumi-temples-history-v2.webp"
-},
+      en: "Hiraizumi – Temples, Gardens and Archaeological Sites"},
+    image: "/poi-images/hiraizumi-temples-history-v2.webp",
     description: {
       de: "Ein Ensemble von Stätten aus dem 11. und 12. Jahrhundert, als Hiraizumi das politische Zentrum des nördlichen Japan war. Die Stätten repräsentieren die buddhistische Reine-Land-Kosmologie.",
       hu: "A 11. és 12. századból származó helyszínek együttese, amikor Hiraizumi Észak-Japán politikai központja volt. A helyszínek a Tiszta Föld buddhista kozmológiáját képviselik.",
@@ -531,9 +517,8 @@ image: "/poi-images/hiraizumi-temples-history-v2.webp"
       de: "Sugimoto Residenz",
       hu: "Szugimoto-rezidencia",
       ro: "Reședința Sugimoto",
-      en: "Sugimoto Residence",
-image: "/poi-images/sugimoto-residence-history-v2.webp"
-},
+      en: "Sugimoto Residence"},
+    image: "/poi-images/sugimoto-residence-history-v2.webp",
     description: {
       de: "Ein großes, gut erhaltenes Kaufmannshaus (machiya) aus der Edo-Zeit in Kyoto. Es zeigt den Lebensstil und die Architektur der wohlhabenden Kaufmannsklasse dieser Zeit.",
       hu: "Egy nagy, jó állapotban fennmaradt Edo-kori kereskedőház (macsija) Kiotóban. Bemutatja a korabeli gazdag kereskedőosztály életmódját és építészetét.",
@@ -568,9 +553,8 @@ image: "/poi-images/sugimoto-residence-history-v2.webp"
       de: "Kofun-Gräber von Mozu-Furuichi",
       hu: "Mozu-Furuicsi kofun sírhalmok",
       ro: "Grupul de tumuli Mozu-Furuichi Kofun",
-      en: "Mozu-Furuichi Kofun Group",
-image: "/poi-images/tombs-of-mozufuruichi-history-v2.webp"
-},
+      en: "Mozu-Furuichi Kofun Group"},
+    image: "/poi-images/tombs-of-mozufuruichi-history-v2.webp",
     description: {
       de: "Eine Gruppe von Megalithgräbern oder Kofun (Tumuli), die für die herrschende Elite im 4. und 5. Jahrhundert erbaut wurden. Sie haben oft eine Schlüssellochform und sind von Gräben umgeben.",
       hu: "Megalitikus sírok vagy kofunok (sírhalmok) csoportja, amelyeket a 4. és 5. századi uralkodó elit számára építettek. Gyakran kulcslyuk alakúak és árkok veszik körül őket.",
@@ -604,9 +588,8 @@ image: "/poi-images/tombs-of-mozufuruichi-history-v2.webp"
       de: "Adachi Kunstmuseum und Garten",
       hu: "Adacsi Művészeti Múzeum és Kert",
       ro: "Muzeul de Artă și Grădina Adachi",
-      en: "Adachi Museum of Art and Garden",
-image: "/poi-images/adachi-museum-garden-history-v2.webp"
-},
+      en: "Adachi Museum of Art and Garden"},
+    image: "/poi-images/adachi-museum-garden-history-v2.webp",
     description: {
       de: "Obwohl es modern ist, ist der Garten des Museums berühmt dafür, über ein Jahrzehnt lang als der beste japanische Garten des Landes ausgezeichnet worden zu sein. Er wurde als 'lebendes japanisches Gemälde' konzipiert.",
       hu: "Bár modern, a múzeum kertje arról híres, hogy több mint egy évtizeden át az ország legjobb japán kertjének választották. 'Élő japán festményként' tervezték.",
@@ -640,9 +623,8 @@ image: "/poi-images/adachi-museum-garden-history-v2.webp"
       de: "Poststation Tsumago-juku",
       hu: "Cumago-dzsuku postaállomás",
       ro: "Stația de poștă Tsumago-juku",
-      en: "Tsumago-juku Post Town",
-image: "/poi-images/tsumago-juku-post-town-history-v2.webp"
-},
+      en: "Tsumago-juku Post Town"},
+    image: "/poi-images/tsumago-juku-post-town-history-v2.webp",
     description: {
       de: "Eine gut erhaltene Poststation an der alten Nakasendō-Handelsroute, die Edo (Tokio) mit Kyoto verband. Die Stadt hat ihre hölzernen Gebäude und ihre Atmosphäre aus der Edo-Zeit bewahrt.",
       hu: "Egy jó állapotban fennmaradt postaállomás a régi Nakaszendó kereskedelmi útvonalon, amely Edót (Tokió) Kiotóval kötötte össze. A város megőrizte Edo-kori faépületeit és hangulatát.",
@@ -676,9 +658,8 @@ image: "/poi-images/tsumago-juku-post-town-history-v2.webp"
       de: "Iwami Ginzan Silbermine",
       hu: "Ivami Ginzan ezüstbánya",
       ro: "Mina de argint Iwami Ginzan",
-      en: "Iwami Ginzan Silver Mine",
-image: "/poi-images/iwami-ginzan-silver-mine-history-v2.webp"
-},
+      en: "Iwami Ginzan Silver Mine"},
+    image: "/poi-images/iwami-ginzan-silver-mine-history-v2.webp",
     description: {
       de: "Eine große Silbermine, die vom 16. bis zum 20. Jahrhundert in Betrieb war. Im 17. Jahrhundert produzierte sie einen erheblichen Teil des weltweiten Silbers und trug zur wirtschaftlichen Entwicklung Japans bei.",
       hu: "Egy nagy ezüstbánya, amely a 16. századtól a 20. századig működött. A 17. században a világ ezüsttermelésének jelentős részét adta, hozzájárulva Japán gazdasági fejlődéséhez.",
@@ -713,9 +694,8 @@ image: "/poi-images/iwami-ginzan-silver-mine-history-v2.webp"
       de: "Kakunodate Samurai-Viertel",
       hu: "Kakunodate szamuráj negyed",
       ro: "Cartierul samurailor din Kakunodate",
-      en: "Kakunodate Samurai District",
-image: "/poi-images/kakunodate-samurai-district-history-v2.webp"
-},
+      en: "Kakunodate Samurai District"},
+    image: "/poi-images/kakunodate-samurai-district-history-v2.webp",
     description: {
       de: "Eine ehemalige Burgstadt, die für ihr gut erhaltenes Samurai-Viertel bekannt ist. Sie wird oft als 'Klein-Kyoto von Michinoku' bezeichnet und bietet einen Einblick in das Leben der Samurai während der Edo-Zeit.",
       hu: "Egy egykori várváros, amely a jól megőrzött szamuráj negyedéről ismert. Gyakran 'Micsinoku kis Kiotójának' is nevezik, és betekintést nyújt a szamurájok életébe az Edo-korban.",

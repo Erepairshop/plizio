@@ -7,387 +7,675 @@ export const poiExtraBurkinafasoReliefV2: POI[] = [
     type: "relief",
     parent: "BF-CU",
     coords: [-0.37, 11.78],
-    name: { de: "Tenkodogo-Ebene", hu: "Tenkodogo-síkság", ro: "Câmpia Tenkodogo", en: "Tenkodogo Plain",
-image: "/poi-images/tenkodogo-relief-v2.webp"
-},
+    name: { de: "Tenkodogo-Ebene", hu: "Tenkodogo-síkság", ro: "Câmpia Tenkodogo", en: "Tenkodogo Plain"},
+    image: "/poi-images/tenkodogo-relief-v2.webp",
     description: { de: "Eine weite Ebene im Osten von Burkina Faso.", hu: "Egy széles síkság Burkina Faso keleti részén.", ro: "O câmpie întinsă în estul Burkina Faso.", en: "A vast plain in the east of Burkina Faso." },
     facts: {
       de: ["Geprägt durch sanfte Hügel", "Wichtige landwirtschaftliche Zone"],
       hu: ["Szelíd dombok jellemzik", "Fontos mezőgazdasági övezet"],
       ro: ["Caracterizat prin dealuri domoale", "Zonă agricolă importantă"],
       en: ["Characterized by gentle hills", "Important agricultural zone"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Tenkodogo-Ebene ist eine ausgedehnte Fläche im Süden Burkina Fasos in der Region Centre-Sud. Sie liegt auf einer Höhe von etwa 300 Metern und ist Teil des Volta-Beckens. Die Ebene ist von Trockensavannen und landwirtschaftlichen Flächen bedeckt. Sie wird vom Nakambé-Fluss (Weißer Volta) durchflossen, der für Bewässerung sorgt. Die Region ist dicht besiedelt, hauptsächlich von Mossi-Bauern. Angebaut werden Hirse, Mais und Erdnüsse. Die Ebene ist bekannt für ihre Lateritböden.",
+      hu: "A Tenkodogo-síkság egy kiterjedt terület Burkina Faso déli részén, a Centre-Sud régióban. Tengerszint feletti magassága körülbelül 300 méter, és a Volta-medence része. A síkságot száraz szavanna és mezőgazdasági területek borítják. Átszeli a Nakambé (Fehér Volta) folyó, amely öntözővizet biztosít. A régió sűrűn lakott, főként mosszi földművesek lakják. Köles, kukorica és földimogyoró termesztése folyik. A síkság laterit talajairól ismert.",
+      ro: "Câmpia Tenkodogo este o întindere vastă situată în sudul Burkina Faso, în regiunea Centre-Sud. Se află la o altitudine de aproximativ 300 de metri și face parte din bazinul Volta. Câmpia este acoperită de savane uscate și terenuri agricole. Este străbătută de râul Nakambé (Volta Alb), care asigură irigația. Regiunea este dens populată, în principal de țărani Mossi. Se cultivă mei, porumb și arahide. Câmpia este cunoscută pentru solurile sale lateritice.",
+      en: "The Tenkodogo Plain is a vast area in southern Burkina Faso in the Centre-Sud region. It lies at an elevation of about 300 meters and is part of the Volta Basin. The plain is covered by dry savannas and agricultural fields. It is crossed by the Nakambé River (White Volta), which provides irrigation. The region is densely populated, mainly by Mossi farmers. Crops include millet, maize, and peanuts. The plain is known for its lateritic soils.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: durchschnittlich 300 m", "Fläche: ca. 5.000 km²", "Hauptstadt: Tenkodogo (etwa 50.000 Einwohner)", "Bevölkerungsdichte: 80 Einwohner pro km²", "Jährliche Niederschlagsmenge: 800 mm", "Hauptanbauprodukte: Hirse, Mais, Erdnüsse"],
+      hu: ["Magasság: átlagosan 300 m", "Terület: kb. 5.000 km²", "Főváros: Tenkodogo (kb. 50.000 lakos)", "Népsűrűség: 80 fő/km²", "Éves csapadék: 800 mm", "Fő termények: köles, kukorica, földimogyoró"],
+      ro: ["Altitudine: medie 300 m", "Suprafață: circa 5.000 km²", "Oraș principal: Tenkodogo (aprox. 50.000 locuitori)", "Densitatea populației: 80 locuitori/km²", "Precipitații anuale: 800 mm", "Culturi principale: mei, porumb, arahide"],
+      en: ["Elevation: average 300 m", "Area: about 5,000 km²", "Main city: Tenkodogo (approx. 50,000 inhabitants)", "Population density: 80 inhabitants per km²", "Annual rainfall: 800 mm", "Main crops: millet, maize, peanuts"],
+    },
   },
   {
     id: "fada-n-gourma-relief-v2",
     type: "relief",
     parent: "BF-GN",
     coords: [0.35, 12.06],
-    name: { de: "Fada-N'Gourma-Plateau", hu: "Fada-N'Gourma-fennsík", ro: "Podișul Fada-N'Gourma", en: "Fada-N'Gourma Plateau",
-image: "/poi-images/fada-n-gourma-relief-v2.webp"
-},
+    name: { de: "Fada-N'Gourma-Plateau", hu: "Fada-N'Gourma-fennsík", ro: "Podișul Fada-N'Gourma", en: "Fada-N'Gourma Plateau"},
+    image: "/poi-images/fada-n-gourma-relief-v2.webp",
     description: { de: "Ein trockenes Plateau in der Region Est.", hu: "Száraz fennsík az Est régióban.", ro: "Un podiș arid în regiunea Est.", en: "An arid plateau in the Est region." },
     facts: {
       de: ["Durchschnittliche Höhe von 300 Metern", "Geringe Niederschläge"],
       hu: ["Átlagos magassága 300 méter", "Alacsony csapadékmennyiség"],
       ro: ["Altitudine medie de 300 metri", "Precipitații scăzute"],
       en: ["Average altitude of 300 meters", "Low precipitation"]
-    }, image: "/poi-images/fada-n-gourma-relief-v2.webp"},
+    }, image: "/poi-images/fada-n-gourma-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fada-N'Gourma-Ebene ist eine weitläufige Tiefebene im Osten Burkina Fasos in der Region Est. Sie liegt auf einer Höhe von etwa 250 Metern und ist Teil des Gourma-Massivs. Die Ebene wird von Trockensavannen dominiert und ist dünn besiedelt. Der Gourma-Fluss durchfließt die Ebene und sorgt für saisonale Überschwemmungen. Die lokale Bevölkerung betreibt Viehzucht, vor allem Rinder und Ziegen. Die Böden sind sandig und wenig fruchtbar. Die Ebene ist bekannt für ihre Termitenhügel.",
+      hu: "A Fada-N'Gourma-síkság egy kiterjedt alföld Burkina Faso keleti részén, az Est régióban. Tengerszint feletti magassága körülbelül 250 méter, és a Gourma-masszívum része. A síkságot száraz szavanna uralja, és ritkán lakott. A Gourma-folyó átszeli a síkságot, és időszakos áradásokat okoz. A helyi lakosság állattenyésztéssel foglalkozik, főként szarvasmarhát és kecskét tart. A talaj homokos és kevéssé termékeny. A síkság hangyabolyairól ismert.",
+      ro: "Câmpia Fada-N'Gourma este o întindere joasă în estul Burkina Faso, în regiunea Est. Se află la o altitudine de aproximativ 250 de metri și face parte din masivul Gourma. Câmpia este dominată de savană uscată și este slab populată. Râul Gourma traversează câmpia și provoacă inundații sezoniere. Populația locală se ocupă cu creșterea animalelor, în principal bovine și caprine. Solurile sunt nisipoase și puțin fertile. Câmpia este cunoscută pentru mușuroaiele sale de termite.",
+      en: "The Fada-N'Gourma Plain is a vast lowland in eastern Burkina Faso in the Est region. It lies at an elevation of about 250 meters and is part of the Gourma Massif. The plain is dominated by dry savanna and is sparsely populated. The Gourma River flows through the plain, causing seasonal floods. Local people practice livestock raising, mainly cattle and goats. Soils are sandy and infertile. The plain is known for its termite mounds.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: durchschnittlich 250 m", "Fläche: ca. 8.000 km²", "Hauptstadt: Fada N'Gourma (etwa 60.000 Einwohner)", "Bevölkerungsdichte: 15 Einwohner pro km²", "Jährliche Niederschlagsmenge: 700 mm", "Viehbestand: ca. 200.000 Rinder"],
+      hu: ["Magasság: átlagosan 250 m", "Terület: kb. 8.000 km²", "Főváros: Fada N'Gourma (kb. 60.000 lakos)", "Népsűrűség: 15 fő/km²", "Éves csapadék: 700 mm", "Állatállomány: kb. 200.000 szarvasmarha"],
+      ro: ["Altitudine: medie 250 m", "Suprafață: circa 8.000 km²", "Oraș principal: Fada N'Gourma (aprox. 60.000 locuitori)", "Densitatea populației: 15 locuitori/km²", "Precipitații anuale: 700 mm", "Efective de animale: circa 200.000 de bovine"],
+      en: ["Elevation: average 250 m", "Area: about 8,000 km²", "Main city: Fada N'Gourma (approx. 60,000 inhabitants)", "Population density: 15 inhabitants per km²", "Annual rainfall: 700 mm", "Livestock: about 200,000 cattle"],
+    },
+  },
   {
     id: "hounde-relief-v2",
     type: "relief",
     parent: "BF-TU",
     coords: [-3.52, 11.5],
-    name: { de: "Houndé-Becken", hu: "Houndé-medence", ro: "Bazinul Houndé", en: "Houndé Basin",
-image: "/poi-images/hounde-relief-v2.webp"
-},
+    name: { de: "Houndé-Becken", hu: "Houndé-medence", ro: "Bazinul Houndé", en: "Houndé Basin"},
+    image: "/poi-images/hounde-relief-v2.webp",
     description: { de: "Ein bedeutendes Sedimentbecken im Südwesten.", hu: "Fontos üledékes medence délnyugaton.", ro: "Un bazin sedimentar important în sud-vest.", en: "A significant sedimentary basin in the southwest." },
     facts: {
       de: ["Reich an Mineralvorkommen", "Gute Bodenqualität"],
       hu: ["Gazdag ásványkincsekben", "Jó talajminőség"],
       ro: ["Bogată în resurse minerale", "Calitate bună a solului"],
       en: ["Rich in mineral resources", "Good soil quality"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Houndé-Becken ist ein geologisch bedeutendes Sedimentbecken im Südwesten Burkina Fasos, das sich über eine Fläche von etwa 8.500 km² erstreckt. Es entstand während des Paläoproterozoikums vor rund 2,2 Milliarden Jahren und besteht hauptsächlich aus metamorphisierten Sedimentgesteinen und vulkanischen Ablagerungen. Die Region ist bekannt für ihre Goldvorkommen, die seit den 1980er Jahren intensiv abgebaut werden. Das Becken wird von mehreren Flüssen wie dem Mouhoun durchzogen und weist eine durchschnittliche Höhe von 300 Metern über dem Meeresspiegel auf. Die Vegetation besteht aus Savannenwäldern und Trockenwäldern, die an die jahreszeitlichen Niederschläge angepasst sind. Die lokale Bevölkerung lebt hauptsächlich von Subsistenzlandwirtschaft und Goldwäscherei, was zu Umweltbelastungen führt.",
+      hu: "A Houndé-medence Burkina Faso délnyugati részén fekszik, és körülbelül 8500 négyzetkilométernyi területet foglal el. Gazdasági jelentőségét elsősorban az aranybányászat adja: a régióban több nagy ipari bánya is működik, például a Houndé Gold Mine, amely 2017-ben kezdte meg a termelést. Az itt található aranylelőhelyek az előzetes becslések szerint mintegy 2,1 millió uncia aranyat rejtenek. A bányászat mellett a mezőgazdaság is fontos, főleg gyapot, földimogyoró és cirok termesztése. A medence alacsony fekvésű területein gyakoriak az időszakos áradások, amelyek termékeny üledéket hagynak hátra. A lakosság sűrűsége viszonylag alacsony, átlagosan 35 fő/km². A régió infrastrukturális fejlődése a bányászatnak köszönhetően gyorsult fel az utóbbi évtizedben.",
+      ro: "Bazinul Houndé este o regiune de relief joasă situată în sud-vestul Burkina Faso, formată în principal din roci sedimentare și vulcanice vechi de peste 2 miliarde de ani. Geografic, bazinul este delimitat de dealuri și platouri joase, cu altitudini între 250 și 400 de metri. Rețeaua hidrografică este dominată de râul Mouhoun și afluenții săi, care asigură irigații pentru culturile de bumbac și porumb. Clima este de tip sudanez, cu o singură stație ploioasă între mai și octombrie. Solurile sunt ferralitice, adesea sărace în nutrienți, dar local bogate în minerale. Bazinul Houndé este cunoscut pentru zăcămintele de aur, care atrag investiții străine și contribuie semnificativ la economia regională. Exploatarea minieră a dus la dezvoltarea unor centre urbane mici, dar și la probleme de mediu, cum ar fi eroziunea solului și poluarea apei.",
+      en: "The Houndé Basin is a Paleoproterozoic sedimentary basin in southwestern Burkina Faso, covering roughly 8,500 km². It formed around 2.2 billion years ago through volcanic and sedimentary processes. The basin's geological structure is characterized by folded Birimian greenstone belts, which host significant gold deposits. Major gold mines include the Houndé Gold Mine, operated by Endeavour Mining, with proven reserves of 1.5 million ounces as of 2023. The basin's elevation ranges from 250 to 400 meters above sea level. Historically, artisanal gold mining has been practiced for centuries, but industrial operations began only in the 1990s. The region also supports agriculture, primarily cotton and sorghum, grown during the rainy season from June to October. The basin's population is estimated at 500,000, with a growth rate of 3% per year.",
+    },
+    factsAdvanced: {
+      de: ["Das Houndé-Becken erstreckt sich über eine Fläche von etwa 8.500 km².", "Die durchschnittliche Höhe beträgt 300 Meter über dem Meeresspiegel.", "Die Goldvorkommen werden auf 2,1 Millionen Unzen geschätzt.", "Die Region hat eine Bevölkerungsdichte von etwa 35 Einwohnern pro km².", "Die jährliche Niederschlagsmenge liegt zwischen 800 und 1.000 mm.", "Die Houndé Gold Mine begann ihre Produktion im Jahr 2017."],
+      hu: ["A Houndé-medence területe körülbelül 8500 km².", "Az itteni aranybánya 2017-ben kezdte meg a termelést.", "A becsült aranytartalék 2,1 millió uncia.", "A régió átlagos népsűrűsége 35 fő/km².", "A Mouhoun folyó hossza a medencében 200 km.", "A gyapottermesztés éves hozama eléri a 50 000 tonnát."],
+      ro: ["Bazinul Houndé are o suprafață de aproximativ 8.500 km².", "Altitudinea medie este de 300 m deasupra nivelului mării.", "Rezervele de aur sunt estimate la 2,1 milioane de uncii.", "Densitatea populației este de 35 locuitori/km².", "Precipitațiile anuale variază între 800 și 1000 mm.", "Mina de aur Houndé a început producția în 2017."],
+      en: ["The Houndé Basin covers an area of approximately 8,500 km².", "Its average elevation is 300 meters above sea level.", "Gold reserves are estimated at 2.1 million ounces.", "The region's population density is about 35 persons per km².", "Annual rainfall ranges from 800 to 1,000 mm.", "The Houndé Gold Mine began production in 2017."],
+    },
   },
   {
     id: "ouahigouya-relief-v2",
     type: "relief",
     parent: "BF-YO",
     coords: [-2.42, 13.58],
-    name: { de: "Ouahigouya-Senke", hu: "Ouahigouya-mélyföld", ro: "Depresiunea Ouahigouya", en: "Ouahigouya Depression",
-image: "/poi-images/ouahigouya-relief-v2.webp"
-},
+    name: { de: "Ouahigouya-Senke", hu: "Ouahigouya-mélyföld", ro: "Depresiunea Ouahigouya", en: "Ouahigouya Depression"},
+    image: "/poi-images/ouahigouya-relief-v2.webp",
     description: { de: "Ein flaches Gebiet im Norden des Landes.", hu: "Lapos terület az ország északi részén.", ro: "O zonă plată în nordul țării.", en: "A flat area in the north of the country." },
     facts: {
       de: ["Wüstenartige Bedingungen am Rand", "Wichtige Viehzuchtregion"],
       hu: ["Sivatagszerű körülmények a peremén", "Fontos állattenyésztési régió"],
       ro: ["Condiții de tip deșert la periferie", "Regiune importantă pentru creșterea animalelor"],
       en: ["Desert-like conditions at the edge", "Important livestock region"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Ouahigouya-Depression ist eine geologische Senke im Nordwesten Burkina Fasos, die sich durch ein flaches Relief mit Höhen zwischen 250 und 350 Metern auszeichnet. Sie entstand durch tektonische Absenkungen während des Känozoikums und ist von Sedimenten wie Sandstein und Ton bedeckt. Die Depression ist Teil des Volta-Beckens und wird von saisonalen Flüssen wie dem Zizinda durchflossen. Die Böden sind überwiegend lateritisch und für den Ackerbau geeignet. Ouahigouya, die Hauptstadt der Region, liegt am Rand der Senke und ist ein wichtiges Handelszentrum. Die Landwirtschaft dominiert, mit Hirse, Mais und Baumwolle als Hauptkulturen. Die Region leidet unter saisonaler Wasserknappheit, die durch Staudämme wie den Ouahigouya-Stausee gemildert wird.",
+      hu: "Az Ouahigouya-mélyedés Burkina Faso északnyugati részén található, egy körülbelül 4000 km² kiterjedésű terület, amelyet alacsony dombok és sík területek jellemeznek. A mélyedés átlagos magassága 300 méter, és a Volta-medence részét képezi. A régió gazdasága főként mezőgazdasági: a lakosság több mint 80%-a a földművelésből él. A fő termények a cirok, a köles és a földimogyoró. Ouahigouya városa, amelyről a mélyedés a nevét kapta, körülbelül 80 000 lakosú, és fontos piaci központ. A területet évszakos folyók hálózzák be, amelyek a száraz évszakban kiszáradnak. A talajerózió komoly probléma, amelyet a túllegeltetés és az erdőirtás súlyosbít. Az elmúlt években a kormány erőfeszítéseket tett a vízgazdálkodás javítására, több kisebb gát építésével.",
+      ro: "Depresiunea Ouahigouya este o zonă de relief coborât situată în nord-vestul Burkina Faso, cu altitudini între 250 și 350 de metri. Formată prin mișcări tectonice, ea este acoperită de sedimente recente, inclusiv argile și nisipuri. Clima este de tip sahelian, cu precipitații anuale de 500-700 mm, concentrate în lunile mai-septembrie. Solurile sunt în general sărace, dar local fertile în văile râurilor. Culturile principale sunt meiul, sorgul și arahidele. Depresiunea este slab populată, cu o densitate de aproximativ 25 locuitori/km². Orașul Ouahigouya, cu o populație de 80.000 de locuitori, este principalul centru urban. Resursele de apă sunt limitate, iar râurile sunt sezoniere. Eroziunea solului reprezintă o amenințare majoră pentru productivitatea agricolă.",
+      en: "The Ouahigouya Depression is a low-lying area in northwestern Burkina Faso, part of the larger Volta Basin. It is characterized by a flat to gently undulating terrain with elevations ranging from 250 to 350 meters. The depression was formed by tectonic subsidence during the Cenozoic era and is underlain by sedimentary rocks. The region's economy is predominantly agricultural, with millet, sorghum, and cotton as main crops. The city of Ouahigouya, with approximately 80,000 inhabitants, serves as the administrative and commercial hub. The depression experiences a Sahelian climate with annual rainfall between 500 and 700 mm. Water scarcity is a recurring issue, mitigated by small reservoirs and dams. The area supports a population density of about 25 persons per km².",
+    },
+    factsAdvanced: {
+      de: ["Die Ouahigouya-Depression erstreckt sich über etwa 4.000 km².", "Die durchschnittliche Höhe beträgt 300 Meter über dem Meeresspiegel.", "Ouahigouya hat etwa 80.000 Einwohner.", "Die jährliche Niederschlagsmenge liegt zwischen 500 und 700 mm.", "Die Bevölkerungsdichte beträgt rund 25 Einwohner pro km².", "Der Ouahigouya-Stausee hat ein Fassungsvermögen von 10 Millionen Kubikmetern."],
+      hu: ["A mélyedés területe kb. 4000 km².", "Ouahigouya város lakossága 80 000 fő.", "Az éves csapadékmennyiség 500-700 mm.", "A népsűrűség 25 fő/km².", "A fő termény a cirok, éves termése 30 000 tonna.", "A régióban 10 kisebb gát található."],
+      ro: ["Depresiunea Ouahigouya se întinde pe circa 4.000 km².", "Altitudinea medie este de 300 m.", "Orașul Ouahigouya are 80.000 de locuitori.", "Precipitațiile anuale sunt de 500-700 mm.", "Densitatea populației este de 25 locuitori/km².", "Râul Zizinda are o lungime de 150 km."],
+      en: ["The Ouahigouya Depression covers about 4,000 km².", "Average elevation is 300 meters above sea level.", "Ouahigouya city has a population of 80,000.", "Annual rainfall is 500-700 mm.", "Population density is around 25 persons per km².", "The Ouahigouya dam has a storage capacity of 10 million m³."],
+    },
   },
   {
     id: "boromo-relief-v2",
     type: "relief",
     parent: "BF-BL",
     coords: [-2.93, 11.75],
-    name: { de: "Boromo-Hügelland", hu: "Boromo-dombság", ro: "Dealurile Boromo", en: "Boromo Hills",
-image: "/poi-images/boromo-relief-v2.webp"
-},
+    name: { de: "Boromo-Hügelland", hu: "Boromo-dombság", ro: "Dealurile Boromo", en: "Boromo Hills"},
+    image: "/poi-images/boromo-relief-v2.webp",
     description: { de: "Das Relief von Boromo ist von sanften Hügeln entlang des Schwarzen Volta geprägt. Die Landschaft bildet einen Übergang zwischen Flussraum und trockener Savanne.", hu: "Dombos táj a Fekete-Volta mentén.", ro: "Un peisaj deluros de-a lungul râului Volta Neagră.", en: "A hilly landscape along the Black Volta." },
     facts: {
       de: ["Entlang des Schwarzen Volta", "Sanfte Hügel", "Übergang zur Savanne"],
       hu: ["Erősen erdősült", "Ideális túrázáshoz"],
       ro: ["Puternic împădurit", "Ideal pentru drumeții"],
       en: ["Heavily forested", "Ideal for hiking"]
-    }, image: "/poi-images/boromo-relief-v2.webp"},
+    }, image: "/poi-images/boromo-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Boromo-Hügel sind eine Hügelkette im zentralen Westen Burkina Fasos, die sich über etwa 30 Kilometer von Nordosten nach Südwesten erstreckt. Sie bestehen aus präkambrischen Gesteinen wie Graniten und Gneisen, die durch Erosion freigelegt wurden. Die Hügel erreichen Höhen von 400 bis 600 Metern über dem Meeresspiegel, was sie zu einer markanten Erhebung in der sonst flachen Landschaft macht. Die Region ist bekannt für ihre Manganvorkommen, die in der Nähe von Boromo abgebaut werden. Die Vegetation besteht aus Trockenwäldern und Savannen mit vereinzelten Baobab-Bäumen. Die lokale Bevölkerung betreibt vorwiegend Subsistenzlandwirtschaft, daneben gibt es Viehzucht. Die Hügel sind ein wichtiger Wasserscheidepunkt für die Flüsse Mouhoun und Sissili.",
+      hu: "A Boromo-dombok Burkina Faso középső-nyugati részén található, mintegy 30 km hosszú, alacsony dombvonulat. Az átlagos magasság 500 méter, a legmagasabb pont 620 méter. A dombok prekambriumi gránitból és gneiszból épülnek fel. Gazdasági jelentőségüket a mangánbányászat adja: a boromói mangánbánya éves termelése eléri a 200 000 tonnát. A régióban gyapotot és földimogyorót is termesztenek. A dombok lejtőin erózióval küzdenek a mezőgazdálkodók. A terület népessége körülbelül 50 000 főre tehető. A Boromo-hágó fontos közlekedési útvonal a városok között. A klíma szudáni típusú, évi 800 mm csapadékkal.",
+      ro: "Dealurile Boromo sunt o formațiune deluroasă situată în vestul central al Burkina Faso, cu o lungime de aproximativ 30 km și altitudini între 400 și 600 m. Ele sunt compuse din roci precambriene, inclusiv granite și gnaissuri. Zona este cunoscută pentru zăcămintele de mangan, exploatate la mina Boromo, care produce anual circa 200.000 de tone. Dealurile sunt acoperite de păduri uscate și savane, cu soluri ferralitice. Populația locală practică agricultura de subzistență, culturile principale fiind bumbacul și arahidele. Eroziunea solului pe versanți este o problemă semnificativă. Clima este de tip sudanez, cu precipitații anuale de 700-900 mm. Dealurile constituie o barieră naturală între bazinele râurilor Mouhoun și Sissili.",
+      en: "The Boromo Hills are a range of Precambrian granite and gneiss hills in west-central Burkina Faso, extending 30 km from northeast to southwest. Their elevations range from 400 to 600 meters, creating a prominent relief in the surrounding plains. The hills are economically important due to manganese deposits mined near the town of Boromo, with an annual output of 200,000 tons. Vegetation includes dry forests and savanna with baobab trees. The local population of about 50,000 engages in subsistence agriculture, growing cotton and peanuts. The hills act as a watershed between the Mouhoun and Sissili rivers. The climate is Sudanean, with 700-900 mm of rainfall per year. Soil erosion on slopes is a challenge for farmers.",
+    },
+    factsAdvanced: {
+      de: ["Die Boromo-Hügel erstrecken sich über 30 Kilometer.", "Die höchste Erhebung erreicht 620 Meter.", "Die Manganmine Boromo produziert jährlich 200.000 Tonnen.", "Die Region hat etwa 50.000 Einwohner.", "Der jährliche Niederschlag beträgt 700-900 mm.", "Die Hügel bestehen aus präkambrischem Granit und Gneis."],
+      hu: ["A Boromo-dombok hossza 30 km.", "A legmagasabb pont 620 m.", "A mangánbánya éves termelése 200 000 tonna.", "A népesség kb. 50 000 fő.", "Az éves csapadék 700-900 mm.", "A dombok prekambriumi gránitból épülnek."],
+      ro: ["Dealurile Boromo au o lungime de 30 km.", "Altitudinea maximă este de 620 m.", "Mina de mangan produce 200.000 t/an.", "Populația este de aproximativ 50.000 de locuitori.", "Precipitațiile anuale sunt de 700-900 mm.", "Rocile sunt granite și gnaissuri precambriene."],
+      en: ["The Boromo Hills extend 30 km in length.", "Highest point is 620 meters above sea level.", "The Boromo manganese mine produces 200,000 tons annually.", "The region's population is about 50,000.", "Annual precipitation ranges from 700 to 900 mm.", "The hills are composed of Precambrian granite and gneiss."],
+    },
+  },
   {
     id: "kaya-plateau-v2",
     type: "relief",
     parent: "BF-SM",
     coords: [-1.08, 13.08],
-    name: { de: "Kaya-Hochland", hu: "Kaya-felföld", ro: "Podișul Kaya", en: "Kaya Highlands",
-image: "/poi-images/kaya-plateau-v2.webp"
-},
+    name: { de: "Kaya-Hochland", hu: "Kaya-felföld", ro: "Podișul Kaya", en: "Kaya Highlands"},
+    image: "/poi-images/kaya-plateau-v2.webp",
     description: { de: "Ein welliges Hochland nordöstlich von Ouagadougou.", hu: "Hullámos felföld Ouagadougou-tól északkeletre.", ro: "Un podiș vălurit la nord-est de Ouagadougou.", en: "An undulating highland northeast of Ouagadougou." },
     facts: {
       de: ["Granitischer Untergrund", "Bedeutende Wasserreservoire"],
       hu: ["Gránit alapkőzet", "Fontos víztározók"],
       ro: ["Substrat granitic", "Rezervoare de apă importante"],
       en: ["Granitic bedrock", "Significant water reservoirs"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kaya-Plateau ist ein ausgedehntes Hochplateau im zentralen Norden Burkina Fasos, das sich über etwa 6.000 km² erstreckt. Es liegt auf einer durchschnittlichen Höhe von 400 Metern und besteht aus alten metamorphen Gesteinen und Sedimenten. Das Plateau wird von tiefen Tälern und Trockentälern durchzogen, die in der Regenzeit Wasser führen. Die wichtigste Stadt ist Kaya mit etwa 120.000 Einwohnern, ein landwirtschaftliches Zentrum. Die Böden sind sandig-lehmig und eignen sich für den Anbau von Hirse, Mais und Erdnüssen. Die Region leidet unter Bodendegradation durch Überweidung und Abholzung. Das Plateau ist Teil des Einzugsgebiets des Weißen Volta. Die natürliche Vegetation besteht aus Savannen mit Akazien und Sheabutterbäumen.",
+      hu: "A Kaya-fennsík Burkina Faso északi-középső részén található, mintegy 6000 km² területen. Átlagos magassága 400 méter, alapkőzete metamorf és üledékes. Kaya városa, a régió központja, 120 000 lakosú, és fontos piaci szerepet tölt be. A fennsík talajai homokos vályogok, amelyek alkalmasak a köles, kukorica és földimogyoró termesztésére. A mezőgazdaság mellett a sheavaj előállítása is jelentős. Az erózió és a talajromlás komoly gondot okoz. A terület a Fehér-Volta vízgyűjtőjéhez tartozik. Az éves csapadék 600-800 mm. A fennsík déli része sűrűbben lakott, míg északon gyér a népesség. A természetes növényzet szavanna, akácfákkal és sheafaákkal.",
+      ro: "Podisul Kaya este o regiune deluroasă situată în centrul-nordul Burkina Faso, cu o suprafață de aproximativ 6.000 km². Altitudinea medie este de 400 m, iar relieful este format din platouri ușor ondulate, străbătute de văi seci. Rocile sunt metamorfice și sedimentare vechi. Principalul oraș este Kaya, cu 120.000 de locuitori, un centru agricol important. Culturile principale includ meiul, porumbul și arahidele. Solurile sunt nisipo-lutoase, dar predispuse la eroziune. Podisul face parte din bazinul hidrografic al Voltei Albe. Clima este de tip sahelian, cu precipitații anuale de 600-800 mm. Vegetația naturală este savana cu arbori de acacia și shea. Producția de unt de shea este o activitate economică semnificativă.",
+      en: "The Kaya Plateau is a vast upland region in north-central Burkina Faso, covering approximately 6,000 km² at an average elevation of 400 meters. It is underlain by ancient metamorphic and sedimentary rocks. The plateau is dissected by dry valleys that become active streams during the rainy season. The city of Kaya, with a population of 120,000, serves as the economic hub, focusing on agriculture and trade. Soils are sandy loam, suitable for millet, maize, and groundnuts. The plateau faces challenges from soil erosion and land degradation due to overgrazing and deforestation. It lies within the White Volta watershed. Annual rainfall ranges from 600 to 800 mm. Shea butter production is a key non-timber forest product. The vegetation is Sudano-Sahelian savanna with acacia and shea trees.",
+    },
+    factsAdvanced: {
+      de: ["Das Kaya-Plateau erstreckt sich über etwa 6.000 km².", "Die durchschnittliche Höhe beträgt 400 Meter.", "Kaya hat rund 120.000 Einwohner.", "Die jährliche Niederschlagsmenge liegt zwischen 600 und 800 mm.", "Die Böden sind sandig-lehmig.", "Die Sheabutterproduktion beträgt jährlich 5.000 Tonnen."],
+      hu: ["A Kaya-fennsík területe kb. 6000 km².", "Átlagos magassága 400 m.", "Kaya város lakossága 120 000 fő.", "Az éves csapadék 600-800 mm.", "A talaj homokos vályog.", "A sheavaj éves termelése 5000 tonna."],
+      ro: ["Podisul Kaya are o suprafață de 6.000 km².", "Altitudinea medie este de 400 m.", "Orașul Kaya are 120.000 de locuitori.", "Precipitațiile anuale sunt de 600-800 mm.", "Solurile sunt nisipo-lutoase.", "Producția de unt de shea este de 5.000 tone anual."],
+      en: ["The Kaya Plateau covers about 6,000 km².", "Average elevation is 400 meters above sea level.", "Kaya city has a population of 120,000.", "Annual rainfall is 600-800 mm.", "Soils are sandy loam.", "Annual shea butter production is 5,000 tons."],
+    },
   },
   {
     id: "gaoua-relief-v2",
     type: "relief",
     parent: "BF-PG",
     coords: [-3.18, 10.3],
-    name: { de: "Gaoua-Hügel", hu: "Gaoua-dombok", ro: "Dealurile Gaoua", en: "Gaoua Hills",
-image: "/poi-images/gaoua-relief-v2.webp"
-},
+    name: { de: "Gaoua-Hügel", hu: "Gaoua-dombok", ro: "Dealurile Gaoua", en: "Gaoua Hills"},
+    image: "/poi-images/gaoua-relief-v2.webp",
     description: { de: "Ein grünes Hügelgebiet im Südwesten.", hu: "Zöld dombvidék a délnyugaton.", ro: "O zonă deluroasă verde în sud-vest.", en: "A green hilly area in the southwest." },
     facts: {
       de: ["Höchste Niederschlagsmengen", "Tropische Vegetation"],
       hu: ["Legmagasabb csapadékmennyiség", "Trópusi növényzet"],
       ro: ["Cele mai mari precipitații", "Vegetație tropicală"],
       en: ["Highest rainfall levels", "Tropical vegetation"]
-    }, image: "/poi-images/gaoua-relief-v2.webp"},
+    }, image: "/poi-images/gaoua-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gaoua-Hügel liegen im Südwesten Burkina Fasos nahe der Grenze zur Elfenbeinküste. Sie sind ein Teil des Téké-Massivs und bestehen aus Graniten und Quarziten. Die Hügel erreichen Höhen bis zu 700 Metern und sind stark bewaldet mit Resten tropischer Trockenwälder. Gaoua, die Hauptstadt der Region Poni, hat etwa 30.000 Einwohner. Die Gegend ist bekannt für ihr kulturelles Erbe, insbesondere die Ruinen von Loropéni. Die Wirtschaft basiert auf Landwirtschaft (Mais, Yamswurzel) und Goldbergbau im Kleinbergbau. Die Hügel haben eine reiche Artenvielfalt, darunter Affen und verschiedene Vogelarten. Der jährliche Niederschlag liegt bei 900-1.100 mm, was die höchsten Werte im Land darstellt.",
+      hu: "A Gaoua-dombság Burkina Faso délnyugati részén található, az Elefántcsontpart határ közelében. A dombok magassága 500-700 méter, kőzetük gránit és kvarcit. Gaoua városa, a régió központja, 30 000 lakosú. A terület híres a loropéni romvárosról, amely az UNESCO világörökség része. Gazdaságilag a mezőgazdaság (kukorica, jam) és az aranykézműves bányászat dominál. Az erdőirtás és a talajerózió problémát jelent. Az éves csapadék 900-1100 mm, a legmagasabb az országban. A dombok élővilága gazdag, majmok és madarak élnek itt. A régióban több aranylelőhelyet is feltártak, de a legális bányászat korlátozott.",
+      ro: "Dealurile Gaoua sunt situate în sud-vestul Burkina Faso, aproape de granița cu Coasta de Fildeș. Ele fac parte din masivul Téké și ating altitudini de până la 700 m. Rocile sunt granitice și cuarțitice. Orașul Gaoua, cu 30.000 de locuitori, este centrul administrativ al regiunii Poni. Zona este cunoscută pentru ruinele din Loropéni, un sit UNESCO. Economia se bazează pe agricultură (porumb, igname) și minerit artizanal de aur. Defrișările și eroziunea solului sunt probleme de mediu. Precipitațiile anuale de 900-1100 mm sunt cele mai ridicate din țară. Dealurile găzduiesc o biodiversitate semnificativă, inclusiv maimuțe și păsări rare. Resursele de aur sunt exploatate în principal de mineri informali.",
+      en: "The Gaoua Hills are a range of granitic and quartzitic hills in southwestern Burkina Faso, part of the Téké Massif, with elevations up to 700 meters. The town of Gaoua, population 30,000, is the regional capital of Poni province. The hills contain the Loropéni ruins, a UNESCO World Heritage site dating from the 11th-16th centuries. The economy is dominated by subsistence agriculture (maize, yams) and artisanal gold mining. The area has the highest rainfall in Burkina Faso, averaging 900-1,100 mm annually, supporting dense dry forests. Biodiversity includes primates and numerous bird species. Gold deposits are widespread but largely informally mined. Deforestation and soil erosion are environmental concerns. The hills serve as a watershed for the Comoé River.",
+    },
+    factsAdvanced: {
+      de: ["Die Gaoua-Hügel erreichen Höhen bis zu 700 Metern.", "Gaoua hat rund 30.000 Einwohner.", "Die jährliche Niederschlagsmenge beträgt 900-1.100 mm.", "Die Loropéni-Ruinen sind UNESCO-Weltkulturerbe seit 2009.", "Die Region Poni hat eine Fläche von 7.236 km².", "Der Artisanal-Goldabbau produziert schätzungsweise 2 Tonnen Gold pro Jahr."],
+      hu: ["A dombok magassága eléri a 700 m-t.", "Gaoua lakossága 30 000 fő.", "Az éves csapadék 900-1100 mm.", "Loropéni 2009 óta UNESCO világörökség.", "Poni régió területe 7236 km².", "A kézműves aranybányászat éves termelése kb. 2 tonna."],
+      ro: ["Dealurile Gaoua ating 700 m altitudine.", "Orașul Gaoua are 30.000 de locuitori.", "Precipitațiile anuale sunt de 900-1100 mm.", "Ruinele Loropéni sunt patrimoniu UNESCO din 2009.", "Regiunea Poni are o suprafață de 7.236 km².", "Mineritul artizanal produce aproximativ 2 tone de aur pe an."],
+      en: ["The Gaoua Hills reach elevations up to 700 meters.", "Gaoua town has a population of 30,000.", "Annual rainfall is 900-1,100 mm.", "Loropéni ruins have been a UNESCO World Heritage site since 2009.", "Poni province covers an area of 7,236 km².", "Artisanal gold mining produces an estimated 2 tons of gold per year."],
+    },
+  },
   {
     id: "diapaga-relief-v2",
     type: "relief",
     parent: "BF-TP",
     coords: [1.79, 12.06],
-    name: { de: "Diapaga-Plateau", hu: "Diapaga-fennsík", ro: "Podișul Diapaga", en: "Diapaga Plateau",
-image: "/poi-images/diapaga-relief-v2.webp"
-},
+    name: { de: "Diapaga-Plateau", hu: "Diapaga-fennsík", ro: "Podișul Diapaga", en: "Diapaga Plateau"},
+    image: "/poi-images/diapaga-relief-v2.webp",
     description: { de: "Ein abgelegenes Plateau im äußersten Osten.", hu: "Távoli fennsík a legkeletibb részen.", ro: "Un podiș izolat în extremitatea estică.", en: "A remote plateau in the far east." },
     facts: {
       de: ["Grenzt an den W-Nationalpark", "Wichtiger Lebensraum für Tiere"],
       hu: ["Határos a W Nemzeti Parkkal", "Fontos élőhely az állatoknak"],
       ro: ["Se învecinează cu Parcul Național W", "Habitat important pentru animale"],
       en: ["Borders the W National Park", "Important habitat for animals"]
-    }, image: "/poi-images/diapaga-relief-v2.webp"},
+    }, image: "/poi-images/diapaga-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Diapaga-Plateau ist ein flaches Hochplateau im Osten Burkina Fasos nahe der Grenze zu Niger. Es erstreckt sich über etwa 4.500 km² und liegt auf einer Höhe von 250 bis 350 Metern. Das Plateau besteht aus Sandsteinen und Tonen aus dem Mesozoikum. Die Landschaft ist von weiten Ebenen und vereinzelten Tafelbergen geprägt. Die Region ist dünn besiedelt, mit etwa 20.000 Einwohnern in der Stadt Diapaga. Die Wirtschaft wird von der Viehzucht und dem Anbau von Hirse und Sorghum dominiert. Der Nationalpark W, ein UNESCO-Welterbe, liegt teilweise auf dem Plateau. Das Klima ist semiarid mit 400-600 mm Niederschlag im Jahr. Die Böden sind sandig, die Vegetation besteht aus Dornbuschsavanne.",
+      hu: "A Diapaga-fennsík Burkina Faso keleti részén, a Niger határánál található. Területe kb. 4500 km², átlagmagassága 300 m. A fennsík mezozoós homokkőből és agyagból épül fel. Diapaga városa 20 000 lakosú. A gazdaságban a szarvasmarha-tenyésztés és a köles termesztése a meghatározó. A W Nemzeti Park, amely az UNESCO listáján szerepel, részben a fennsíkon fekszik. Az éves csapadék 400-600 mm. A talaj homokos, a növényzet tövises szavanna. A régió vízhiánnyal küzd, a talajvízszint alacsony. A fennsík keleti része sivatagosodik. Itt található a Tapoa folyó, amely időszakos. A lakosság főként nomád pásztorkodásból él.",
+      ro: "Podisul Diapaga este o regiune plată din estul Burkina Faso, la granița cu Nigerul, cu o suprafață de circa 4.500 km² și altitudini de 250-350 m. Este format din gresii și argile mezozoice. Orașul Diapaga are 20.000 de locuitori. Economia se bazează pe creșterea vitelor și cultivarea meiului. Parcul Național W, sit UNESCO, se află parțial pe acest podiș. Clima este semiaridă, cu precipitații anuale de 400-600 mm. Solurile sunt nisipoase, iar vegetația este savană spinoasă. Resursele de apă sunt limitate, iar râul Tapoa este sezonier. Podișul se confruntă cu deșertificare în zonele estice. Populația este rară, cu o densitate de 10 locuitori/km². Creșterea vitelor este principala ocupație, cu efective de peste 100.000 de capete.",
+      en: "The Diapaga Plateau is a low-lying sedimentary plateau in eastern Burkina Faso, bordering Niger, covering an area of about 4,500 km² at elevations of 250-350 meters. It is composed of Mesozoic sandstones and clays. The town of Diapaga has a population of 20,000. The economy is based on cattle breeding and subsistence millet farming. The W National Park, a UNESCO World Heritage site, extends onto the plateau. The climate is semiarid with 400-600 mm of rainfall per year. Soils are sandy, supporting thorn savanna vegetation. Water scarcity is severe, with the Tapoa River being seasonal. The region experiences desertification in the east. Population density is low, around 10 persons per km². Livestock numbers exceed 100,000 head.",
+    },
+    factsAdvanced: {
+      de: ["Das Diapaga-Plateau erstreckt sich über etwa 4.500 km².", "Die durchschnittliche Höhe beträgt 300 Meter.", "Diapaga hat rund 20.000 Einwohner.", "Der jährliche Niederschlag liegt zwischen 400 und 600 mm.", "Die Bevölkerungsdichte beträgt etwa 10 Einwohner pro km².", "Der W-Nationalpark wurde 1996 in die UNESCO-Liste aufgenommen."],
+      hu: ["A fennsík területe kb. 4500 km².", "Átlagmagassága 300 m.", "Diapaga lakossága 20 000 fő.", "Az éves csapadék 400-600 mm.", "A népsűrűség 10 fő/km².", "A Tapoa folyó hossza 100 km."],
+      ro: ["Podisul Diapaga se întinde pe 4.500 km².", "Altitudinea medie este de 300 m.", "Orașul Diapaga are 20.000 de locuitori.", "Precipitațiile anuale sunt de 400-600 mm.", "Densitatea populației este de 10 locuitori/km².", "Parcul Național W a fost înscris în UNESCO în 1996."],
+      en: ["The Diapaga Plateau covers about 4,500 km².", "Average elevation is 300 meters above sea level.", "Diapaga town has a population of 20,000.", "Annual rainfall is 400-600 mm.", "Population density is about 10 persons per km².", "W National Park was inscribed as a UNESCO site in 1996."],
+    },
+  },
   {
     id: "leo-relief-v2",
     type: "relief",
     parent: "BF-SS",
     coords: [-2.1, 11.1],
-    name: { de: "Léo-Tiefland", hu: "Léo-alföld", ro: "Câmpia Léo", en: "Léo Lowlands",
-image: "/poi-images/leo-relief-v2.webp"
-},
+    name: { de: "Léo-Tiefland", hu: "Léo-alföld", ro: "Câmpia Léo", en: "Léo Lowlands"},
+    image: "/poi-images/leo-relief-v2.webp",
     description: { de: "Eine tiefergelegene Region nahe der Grenze zu Ghana.", hu: "Mélyebben fekvő régió Ghána határának közelében.", ro: "O regiune joasă aproape de granița cu Ghana.", en: "A low-lying region near the border with Ghana." },
     facts: {
       de: ["Fruchtbare Schwemmböden", "Hohe landwirtschaftliche Produktivität"],
       hu: ["Termékeny hordalékos talajok", "Magas mezőgazdasági termelékenység"],
       ro: ["Soluri aluvionare fertile", "Productivitate agricolă ridicată"],
       en: ["Fertile alluvial soils", "High agricultural productivity"]
-    }, image: "/poi-images/leo-relief-v2.webp"},
+    }, image: "/poi-images/leo-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Léo-Tiefland ist eine flache Senke im Süden Burkina Fasos, die Teil des Volta-Beckens ist. Es liegt auf Höhen zwischen 200 und 300 Metern und wird von den Flüssen Volta Noire und seinen Nebenflüssen entwässert. Die Region ist landwirtschaftlich geprägt, mit intensivem Anbau von Baumwolle, Mais und Sorghum. Die Stadt Léo hat etwa 30.000 Einwohner und ist ein lokales Handelszentrum. Die Böden sind alluvial und fruchtbar, aber durch Erosion gefährdet. Das Klima ist sudanisch mit 800-1.000 mm Niederschlag jährlich. Die Vegetation besteht aus Feuchtsavanne mit Galeriewäldern entlang der Flüsse. Die Region ist dicht besiedelt mit einer Dichte von 50 Einwohnern pro km². Der Stausee von Léo bewässert umliegende Felder.",
+      hu: "A Léo-alföld Burkina Faso déli részén található, a Fekete-Volta vízgyűjtőjében. Átlagos magassága 250 m, területe kb. 3000 km². A régió fontos mezőgazdasági körzet, ahol gyapotot, kukoricát és cirokot termesztenek. Léo városa 30 000 lakost számlál. A talajok hordalékosak és termékenyek. Az éves csapadék 800-1000 mm. A folyók mentén galériaerdők találhatók. A népsűrűség 50 fő/km². Az öntözéses gazdálkodás a Léo-tározónak köszönhetően fejlődött. Az erózió és a talaj szikesedése problémák. Az alföld déli része mocsaras területeket foglal magában.",
+      ro: "Câmpia Léo este o zonă joasă din sudul Burkina Faso, parte a bazinului Voltei Negre, cu altitudini de 200-300 m. Se întinde pe aproximativ 3.000 km². Solurile aluviale sunt fertile și utilizate pentru cultivarea bumbacului, porumbului și sorgului. Orașul Léo are 30.000 de locuitori. Clima este sudaneză, cu precipitații anuale de 800-1.000 mm. Vegetația este de savană umedă cu păduri-galerie. Câmpia este dens populată, cu 50 locuitori/km². Lacul de acumulare Léo oferă apă pentru irigații. Eroziunea solului și salinizarea sunt amenințări. În sud, câmpia trece treptat în zone mlăștinoase. Economia se bazează pe agricultură și creșterea animalelor.",
+      en: "The Léo Lowlands are a flat alluvial plain in southern Burkina Faso, part of the Black Volta basin, at elevations of 200-300 meters. Covering about 3,000 km², the area is a major agricultural zone for cotton, maize, and sorghum. The town of Léo has 30,000 inhabitants. Soils are fertile alluvium but prone to erosion. The climate is Sudanean with 800-1,000 mm of rainfall annually. Vegetation includes humid savanna and gallery forests along rivers. Population density is 50 persons per km². The Léo reservoir supports irrigation. Salinization and erosion are environmental issues. The lowlands gradually merge into wetlands in the south. Livestock farming is also important.",
+    },
+    factsAdvanced: {
+      de: ["Das Léo-Tiefland erstreckt sich über etwa 3.000 km².", "Die durchschnittliche Höhe beträgt 250 Meter.", "Léo hat etwa 30.000 Einwohner.", "Der jährliche Niederschlag liegt zwischen 800 und 1.000 mm.", "Die Bevölkerungsdichte beträgt 50 Einwohner pro km².", "Der Léo-Stausee hat eine Fläche von 1.500 Hektar."],
+      hu: ["Az alföld területe kb. 3000 km².", "Átlagmagassága 250 m.", "Léo lakossága 30 000 fő.", "Az éves csapadék 800-1000 mm.", "A népsűrűség 50 fő/km².", "A Léo-tározó területe 1500 hektár."],
+      ro: ["Câmpia Léo se întinde pe circa 3.000 km².", "Altitudinea medie este de 250 m.", "Orașul Léo are 30.000 de locuitori.", "Precipitațiile anuale sunt de 800-1.000 mm.", "Densitatea populației este de 50 locuitori/km².", "Lacul de acumulare Léo are o suprafață de 1.500 ha."],
+      en: ["The Léo Lowlands cover about 3,000 km².", "Average elevation is 250 meters above sea level.", "Léo town has a population of 30,000.", "Annual rainfall is 800-1,000 mm.", "Population density is 50 persons per km².", "The Léo reservoir covers an area of 1,500 hectares."],
+    },
+  },
   {
     id: "djibo-relief-v2",
     type: "relief",
     parent: "BF-SO",
     coords: [-1.63, 14.1],
-    name: { de: "Djibo-Dünenfeld", hu: "Djibo-dűnamező", ro: "Câmpia dunară Djibo", en: "Djibo Dune Field",
-image: "/poi-images/djibo-relief-v2.webp"
-},
+    name: { de: "Djibo-Dünenfeld", hu: "Djibo-dűnamező", ro: "Câmpia dunară Djibo", en: "Djibo Dune Field"},
+    image: "/poi-images/djibo-relief-v2.webp",
     description: { de: "Ein sandiges Gebiet am Rande der Sahelzone.", hu: "Homokos terület a Száhel-övezet szélén.", ro: "O zonă nisipoasă la marginea Sahelului.", en: "A sandy area on the edge of the Sahel." },
     facts: {
       de: ["Starke Winderosion", "Wanderdünen vorhanden"],
       hu: ["Erős szélerózió", "Vándordűnék találhatók itt"],
       ro: ["Eroziune eoliană puternică", "Dune migratoare prezente"],
       en: ["Strong wind erosion", "Shifting dunes present"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Djibo-Dünenfeld ist eine Sandwüstenregion im Norden Burkina Fasos, nahe der Grenze zu Mali. Es bedeckt etwa 2.000 km² und besteht aus mobilen und stabilisierten Dünen, die bis zu 15 Meter hoch werden. Die Region ist Teil der Sahelzone mit extrem trockenem Klima; der Jahresniederschlag beträgt weniger als 400 mm. Die Vegetation ist spärlich und besteht aus Dornbüschen. Die Stadt Djibo hat etwa 30.000 Einwohner. Die Wirtschaft basiert auf nomadischer Viehzucht (Rinder, Ziegen) und dem Handel mit Vieh. Die Dünen sind durch Überweidung und Klimawandel zunehmend aktiv. Grundwasserressourcen sind begrenzt und werden durch Tiefbrunnen erschlossen. Die Region ist von Desertifikation bedroht.",
+      hu: "A Djibo-dűnemező Burkina Faso északi részén található, a Mali határ közelében. Területe mintegy 2000 km², a homokdűnék magassága eléri a 15 m-t. A sivatagi terület évi csapadéka kevesebb mint 400 mm. Djibo városa 30 000 lakosú. A gazdaság a nomád állattenyésztésen (szarvasmarha, kecske) alapul. A dűnék mozgása erősödött az utóbbi években a túllegeltetés miatt. A talajvíz mélyen található, a kutak akár 100 m mélyek is lehetnek. A sivatagosodás folyamatosan terjed. A régióban ritka növényzet, főleg akácia bokrok. A lakosság nagy része nomád életmódot folytat. A déli részen néhány oázis található, ahol datolyát termesztenek.",
+      ro: "Câmpul de dune Djibo este o regiune nisipoasă în nordul Burkina Faso, lângă granița cu Mali, acoperind aproximativ 2.000 km². Dunele ating până la 15 m înălțime. Clima este saheliană, cu precipitații sub 400 mm anual. Orașul Djibo are 30.000 de locuitori. Economia se bazează pe creșterea nomadă a vitelor și caprelor. Deșertificarea este accentuată de supra-pășunat și schimbările climatice. Resursele de apă sunt limitate, cu freatice adânci. Vegetația este rară, formată din tufișuri spinoase. Populația trăiește în principal din pastoralism. Dunele mobile reprezintă o amenințare pentru infrastructură. În sud, există câteva oaze cu palmieri de curmale.",
+      en: "The Djibo Dune Field is a sandy desert region in northern Burkina Faso, near the Mali border, covering about 2,000 km². The dunes, both mobile and stabilized, reach heights of up to 15 meters. The climate is Sahelian, with annual rainfall below 400 mm. The town of Djibo has 30,000 inhabitants. The economy is dominated by nomadic pastoralism, mainly cattle and goats. Overgrazing and climate change have reactivated dune movement. Groundwater is deep and accessed by boreholes. Vegetation is sparse thorn scrub. The region is severely affected by desertification. Oases exist in the south, supporting date palm cultivation. The population density is very low, around 5 persons per km².",
+    },
+    factsAdvanced: {
+      de: ["Das Djibo-Dünenfeld erstreckt sich über etwa 2.000 km².", "Die Dünen erreichen Höhen bis zu 15 Metern.", "Djibo hat etwa 30.000 Einwohner.", "Der jährliche Niederschlag beträgt weniger als 400 mm.", "Die Bevölkerung lebt größtenteils nomadisch.", "Die Region hat eine Bevölkerungsdichte von 5 Einwohnern pro km²."],
+      hu: ["A dűnemező területe kb. 2000 km².", "A dűnák magassága eléri a 15 m-t.", "Djibo lakossága 30 000 fő.", "Az éves csapadék kevesebb mint 400 mm.", "A népsűrűség 5 fő/km².", "A talajvíz átlagos mélysége 100 m."],
+      ro: ["Câmpul de dune Djibo se întinde pe 2.000 km².", "Dunele ating până la 15 m înălțime.", "Orașul Djibo are 30.000 de locuitori.", "Precipitațiile anuale sunt sub 400 mm.", "Densitatea populației este de 5 locuitori/km².", "Apa freatică se află la adâncimea de 100 m."],
+      en: ["The Djibo Dune Field covers about 2,000 km².", "Dunes reach heights of up to 15 meters.", "Djibo town has a population of 30,000.", "Annual rainfall is less than 400 mm.", "Population density is 5 persons per km².", "Groundwater depth averages 100 meters."],
+    },
   },
   {
     id: "dedougou-relief-v2",
     type: "relief",
     parent: "BF-MU",
     coords: [-3.47, 12.47],
-    name: { de: "Dédougou-Ebene", hu: "Dédougou-síkság", ro: "Câmpia Dédougou", en: "Dédougou Plain",
-image: "/poi-images/dedougou-relief-v2.webp"
-},
+    name: { de: "Dédougou-Ebene", hu: "Dédougou-síkság", ro: "Câmpia Dédougou", en: "Dédougou Plain"},
+    image: "/poi-images/dedougou-relief-v2.webp",
     description: { de: "Die Reliefzone von Dédougou ist überwiegend flach und offen. Sie gehört zu den typischen Ebenen im Westen Burkina Fasos.", hu: "Dédougou térsége inkább sík, enyhén hullámos felszínéről ismert. A táj a nyugat-burkinai szavannavidék jellegzetes része.", ro: "O savană vastă și plată în vest.", en: "The Dédougou relief is made up of broad plains and gentle rises in west-central Burkina Faso. It gives the area an open savanna profile with few steep forms." },
     facts: {
       de: ["Flaches Relief", "Im Westen des Landes", "Offene Ebene"],
       hu: ["Enyhén hullámos felszín", "Nyugati szavanna", "Mezőgazdasághoz is kötődik"],
       ro: ["Îmbrăcată în iarbă", "Importantă pentru creșterea animalelor"],
       en: ["West-central plains", "Gentle rises", "Open savanna landscape"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Dédougou-Ebene ist eine ausgedehnte Flussebene im Westen Burkina Fasos, die vom Fluss Mouhoun durchzogen wird. Sie liegt auf einer Höhe von 250 bis 300 Metern und erstreckt sich über etwa 5.000 km². Die Ebene ist landwirtschaftlich intensiv genutzt, mit Baumwolle, Reis und Mais als Hauptkulturen. Die Stadt Dédougou hat etwa 40.000 Einwohner und ist ein wichtiger Marktort. Die Böden sind alluvial und fruchtbar, werden aber durch Erosion und chemische Belastung geschädigt. Das Klima ist sudanisch mit 700-900 mm Niederschlag. Die natürliche Vegetation umfasst Galeriewälder und Savannen. Die Region ist dicht besiedelt mit 60 Einwohnern pro km². Der Mouhoun wird zur Bewässerung genutzt, der Staudamm von Dédougou versorgt die Landwirtschaft mit Wasser.",
+      hu: "A Dédougou-síkság Burkina Faso nyugati részén terül el, a Mouhoun folyó mentén. Területe kb. 5000 km², átlagmagassága 275 m. A síkság termékeny hordalékos talajai ideálisak a gyapot-, rizs- és kukoricatermesztéshez. Dédougou városa 40 000 lakosú, fontos kereskedelmi központ. Az éves csapadék 700-900 mm. A természetes növényzet galériaerdők és szavannák. A népsűrűség 60 fő/km². A régió öntözéses gazdálkodása a Dédougou-gáton alapul. A talajerózió és a műtrágyák túlzott használata környezeti problémák. A síkság déli részén mocsarak találhatók. A helyi gazdák szövetségei fontos szerepet játszanak a termékek értékesítésében.",
+      ro: "Câmpia Dédougou este o zonă aluvială din vestul Burkina Faso, străbătută de râul Mouhoun, cu o suprafață de aproximativ 5.000 km² și altitudini de 250-300 m. Solurile fertile permit cultivarea bumbacului, orezului și porumbului. Orașul Dédougou are 40.000 de locuitori. Clima este sudaneză, cu precipitații anuale de 700-900 mm. Vegetația include păduri-galerie și savane. Densitatea populației este de 60 locuitori/km². Barajul Dédougou asigură irigarea a peste 10.000 ha. Eroziunea solului și poluarea cu pesticide sunt probleme. Câmpia se învecinează cu zone mlăștinoase în sud. Cooperativelor agricole sprijină comercializarea recoltei.",
+      en: "The Dédougou Plain is an extensive alluvial plain in western Burkina Faso, along the Mouhoun River, covering about 5,000 km² at elevations of 250-300 meters. Its fertile soils support intensive agriculture, primarily cotton, rice, and maize. The town of Dédougou has 40,000 inhabitants and is a major trading center. The climate is Sudanean, with 700-900 mm of rainfall per year. Natural vegetation consists of gallery forests and savannas. Population density is 60 persons per km². The Dédougou dam irrigates over 10,000 hectares. Soil erosion and agrochemical pollution are environmental concerns. The plain's southern parts include wetlands. Farmer cooperatives play a key role in marketing produce.",
+    },
+    factsAdvanced: {
+      de: ["Die Dédougou-Ebene erstreckt sich über etwa 5.000 km².", "Die durchschnittliche Höhe beträgt 275 Meter.", "Dédougou hat rund 40.000 Einwohner.", "Der jährliche Niederschlag liegt zwischen 700 und 900 mm.", "Die Bevölkerungsdichte beträgt 60 Einwohner pro km².", "Der Dédougou-Staudamm bewässert über 10.000 Hektar."],
+      hu: ["A síkság területe kb. 5000 km².", "Átlagmagassága 275 m.", "Dédougou lakossága 40 000 fő.", "Az éves csapadék 700-900 mm.", "A népsűrűség 60 fő/km².", "A Dédougou-gát 10 000 hektárt öntöz."],
+      ro: ["Câmpia Dédougou se întinde pe 5.000 km².", "Altitudinea medie este de 275 m.", "Orașul Dédougou are 40.000 de locuitori.", "Precipitațiile anuale sunt de 700-900 mm.", "Densitatea populației este de 60 locuitori/km².", "Barajul Dédougou irigă peste 10.000 ha."],
+      en: ["The Dédougou Plain covers about 5,000 km².", "Average elevation is 275 meters above sea level.", "Dédougou town has a population of 40,000.", "Annual rainfall is 700-900 mm.", "Population density is 60 persons per km².", "The Dédougou dam irrigates over 10,000 hectares."],
+    },
   },
   {
     id: "sebba-relief-v2",
     type: "relief",
     parent: "BF-YA",
     coords: [0.52, 13.93],
-    name: { de: "Sebba-Wadi-Region", hu: "Sebba-vádi régió", ro: "Regiunea Sebba Wadi", en: "Sebba Wadi Region",
-image: "/poi-images/sebba-relief-v2.webp"
-},
+    name: { de: "Sebba-Wadi-Region", hu: "Sebba-vádi régió", ro: "Regiunea Sebba Wadi", en: "Sebba Wadi Region"},
+    image: "/poi-images/sebba-relief-v2.webp",
     description: { de: "Ein Gebiet mit zahlreichen ausgetrockneten Flussläufen.", hu: "Számos kiszáradt folyómederrel tarkított terület.", ro: "O zonă cu numeroase albii de râuri secate.", en: "An area with numerous dried-up riverbeds." },
     facts: {
       de: ["Einzige Wasserquelle in der Trockenzeit", "Wichtige Wanderrouten für Nomaden"],
       hu: ["Egyetlen vízforrás a száraz évszakban", "Fontos vándorlási útvonalak a nomádoknak"],
       ro: ["Singura sursă de apă în sezonul uscat", "Rute de migrație importante pentru nomazi"],
       en: ["Only water source in the dry season", "Important migration routes for nomads"]
-    }, image: "/poi-images/sebba-relief-v2.webp"},
+    }, image: "/poi-images/sebba-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sebba-Wadi-Region ist ein von Trockentälern (Wadis) geprägtes Gebiet im Nordosten Burkina Fasos. Die Wadis führen nur nach seltenen Starkregen Wasser und sind in die umliegenden Sandsteinplateaus eingeschnitten. Die Region liegt auf einer Höhe von 300 bis 400 Metern und umfasst etwa 3.500 km². Die Stadt Sebba hat 5.000 Einwohner. Die Wirtschaft basiert auf Viehzucht und Regenfeldbau, vor allem Sorghum. Die Region ist extrem trocken mit weniger als 500 mm Niederschlag im Jahr. Die Böden sind sandig und karg. Die Wadis bieten während der Regenzeit Weideland. Desertifikation und Wassermangel sind die größten Herausforderungen. Die Vegetation besteht aus Dornsträuchern und Gräsern.",
+      hu: "A Sebba-vádi régió Burkina Faso északkeleti részén található, ahol időszakos folyóvölgyek (vádik) hálózzák be a tájat. Területe kb. 3500 km², átlagmagassága 350 m. Sebba városa 5000 lakosú. A gazdaság a szarvasmarha-tenyésztésre és a szárazságtűrő cirok termesztésére épül. Az éves csapadék kevesebb mint 500 mm. A vádik mentén termékeny üledék halmozódik fel. A talaj homokos, a sivatagosodás gyorsan terjed. A lakosság nomád életmódot folytat. Az ivóvízellátás mély kutakból történik. A déli részen kis tavak alakulnak ki az esős évszakban. A régióban gyakoriak a homokviharok.",
+      ro: "Regiunea Wadi Sebba este o zonă de văi uscate (wadi) în nord-estul Burkina Faso, pe o suprafață de circa 3.500 km², la altitudini de 300-400 m. Wadiurile sunt activate doar de ploi torențiale. Orașul Sebba are 5.000 de locuitori. Economia se bazează pe creșterea vitelor și cultivarea sorgului. Precipitațiile anuale sunt sub 500 mm. Solurile sunt nisipoase și sărace. Deșertificarea este o problemă majoră. Vegetația constă în tufișuri spinoase și ierburi. Populația practică transhumanța. Apa potabilă provine din fântâni adânci. În timpul sezonului ploios, se formează lacuri temporare. Furtunile de nisip sunt frecvente.",
+      en: "The Sebba Wadi Region is characterized by dry riverbeds (wadis) in northeastern Burkina Faso, covering about 3,500 km² at elevations of 300-400 meters. The wadis flow only after rare heavy rains. The town of Sebba has 5,000 inhabitants. The economy relies on livestock grazing and dryland sorghum farming. Annual rainfall is less than 500 mm. Soils are sandy and infertile. Desertification is a major threat. Vegetation is thorn scrub and grasses. The population practices transhumance. Drinking water comes from deep wells. Temporary lakes form in the south during the rainy season. Sandstorms are common.",
+    },
+    factsAdvanced: {
+      de: ["Die Sebba-Wadi-Region erstreckt sich über etwa 3.500 km².", "Die durchschnittliche Höhe beträgt 350 Meter.", "Sebba hat rund 5.000 Einwohner.", "Der jährliche Niederschlag beträgt weniger als 500 mm.", "Die Region hat eine sehr geringe Bevölkerungsdichte von 5 Einwohnern pro km².", "Die tiefsten Brunnen erreichen 150 Meter Tiefe."],
+      hu: ["A régió területe kb. 3500 km².", "Átlagmagassága 350 m.", "Sebba lakossága 5000 fő.", "Az éves csapadék kevesebb mint 500 mm.", "A népsűrűség 5 fő/km².", "A vádik hossza eléri a 50 km-t."],
+      ro: ["Regiunea se întinde pe 3.500 km².", "Altitudinea medie este de 350 m.", "Orașul Sebba are 5.000 de locuitori.", "Precipitațiile anuale sunt sub 500 mm.", "Densitatea populației este de 5 locuitori/km².", "Wadiurile ajung până la 50 km lungime."],
+      en: ["The Sebba Wadi Region covers about 3,500 km².", "Average elevation is 350 meters above sea level.", "Sebba town has a population of 5,000.", "Annual rainfall is less than 500 mm.", "Population density is 5 persons per km².", "Wadis can stretch up to 50 km in length."],
+    },
+  },
   {
     id: "gourcy-relief-v2",
     type: "relief",
     parent: "BF-ZO",
     coords: [-2.35, 13.15],
-    name: { de: "Gourcy-Plateau", hu: "Gourcy-fennsík", ro: "Podișul Gourcy", en: "Gourcy Plateau",
-image: "/poi-images/gourcy-relief-v2.webp"
-},
+    name: { de: "Gourcy-Plateau", hu: "Gourcy-fennsík", ro: "Podișul Gourcy", en: "Gourcy Plateau"},
+    image: "/poi-images/gourcy-relief-v2.webp",
     description: { de: "Ein trockenes, steiniges Hochland.", hu: "Gourcy környéke szárazabb, keményebb domborzatú vidék. A felszín a Száhel peremének tájképét idézi.", ro: "Un podiș arid și stâncos.", en: "The Gourcy relief is a low, rolling landscape in northern Burkina Faso. It is shaped by flat ground, shallow valleys, and sparse elevation changes." },
     facts: {
       de: ["Sehr karge Vegetation", "Steinige Oberfläche"],
       hu: ["Száraz táj", "Saheli peremvidék", "Kövesebb domborzat"],
       ro: ["Vegetație foarte rară", "Suprafață stâncoasă"],
       en: ["Northern relief", "Rolling terrain", "Shallow valleys"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Gourcy-Plateau ist ein Hochplateau im Nordwesten Burkina Fasos, das sich über etwa 2.500 km² erstreckt. Es liegt auf durchschnittlich 400 Metern Höhe und besteht aus Sandsteinen und Quarziten. Das Plateau ist von Trockentälern zerschnitten, die nur saisonal Wasser führen. Die Stadt Gourcy hat 20.000 Einwohner. Die Landwirtschaft ist die Haupterwerbsquelle, mit Hirse und Sorghum als Hauptkulturen. Die Böden sind flach und steinig. Das Klima ist sahelisch mit 500-700 mm Niederschlag. Die natürliche Vegetation ist eine Dornbuschsavanne. Das Plateau leidet unter Erosion und Wasserknappheit. Auf den besseren Böden wird auch Baumwolle angebaut. Die Rinderhaltung ist von Bedeutung.",
+      hu: "A Gourcy-fennsík Burkina Faso északnyugati részén található, területe 2500 km², átlagmagassága 400 m. A fennsík homokkőből és kvarcitból épül fel. Gourcy városa 20 000 lakosú. A gazdaság a köles és cirok termesztésén alapul. A talaj sekély és köves. Az éves csapadék 500-700 mm. A természetes növényzet tövises szavanna. A fennsíkon erózió pusztít. A mélyebb talajokon gyapotot is termesztenek. A szarvasmarha-tenyésztés jelentős. Az ivóvízellátás nehézségekbe ütközik a száraz évszakban. A fennsík nyugati lejtői meredekek.",
+      ro: "Podisul Gourcy este o regiune deluroasă în nord-vestul Burkina Faso, cu o suprafață de aproximativ 2.500 km² și altitudini de 400 m. Format din gresii și cuarțite, podișul este fragmentat de văi seci. Orașul Gourcy are 20.000 de locuitori. Economia se bazează pe cultivarea meiului și sorgului. Solurile sunt subțiri și pietroase. Clima este saheliană, cu precipitații de 500-700 mm. Vegetația este savană spinoasă. Eroziunea solului este severă. Bumbacul este cultivat pe soluri mai bune. Creșterea vitelor este importantă. Aprovizionarea cu apă este o provocare în sezonul secetos. Pantele vestice sunt abrupte.",
+      en: "The Gourcy Plateau is a high plateau in northwestern Burkina Faso, covering about 2,500 km² at an average elevation of 400 meters. It is composed of sandstones and quartzites, dissected by dry valleys. The town of Gourcy has 20,000 inhabitants. Agriculture is the main livelihood, with millet and sorghum as key crops. Soils are shallow and stony. The climate is Sahelian, with 500-700 mm of rainfall. Vegetation is thorn savanna. Soil erosion is severe. Cotton is grown on deeper soils. Cattle rearing is significant. Water supply is challenging in the dry season. The western slopes are steep.",
+    },
+    factsAdvanced: {
+      de: ["Das Gourcy-Plateau erstreckt sich über etwa 2.500 km².", "Die durchschnittliche Höhe beträgt 400 Meter.", "Gourcy hat rund 20.000 Einwohner.", "Der jährliche Niederschlag liegt zwischen 500 und 700 mm.", "Die Böden sind flach und steinig.", "Die Rinderpopulation beträgt etwa 50.000 Tiere."],
+      hu: ["A fennsík területe 2500 km².", "Átlagmagassága 400 m.", "Gourcy lakossága 20 000 fő.", "Az éves csapadék 500-700 mm.", "A talaj sekély és köves.", "A szarvasmarha-állomány kb. 50 000 db."],
+      ro: ["Podisul Gourcy se întinde pe 2.500 km².", "Altitudinea medie este de 400 m.", "Orașul Gourcy are 20.000 de locuitori.", "Precipitațiile anuale sunt de 500-700 mm.", "Solurile sunt subțiri și pietroase.", "Efectivul de vite este de aproximativ 50.000 de capete."],
+      en: ["The Gourcy Plateau covers about 2,500 km².", "Average elevation is 400 meters above sea level.", "Gourcy town has a population of 20,000.", "Annual rainfall is 500-700 mm.", "Soils are shallow and stony.", "Cattle population is around 50,000 head."],
+    },
   },
   {
     id: "boussouma-relief-v2",
     type: "relief",
     parent: "BF-KS",
     coords: [-1.1, 12.85],
-    name: { de: "Boussouma-Hügelland", hu: "Boussouma-dombság", ro: "Dealurile Boussouma", en: "Boussouma Hills",
-image: "/poi-images/boussouma-relief-v2.webp"
-},
+    name: { de: "Boussouma-Hügelland", hu: "Boussouma-dombság", ro: "Dealurile Boussouma", en: "Boussouma Hills"},
+    image: "/poi-images/boussouma-relief-v2.webp",
     description: { de: "Eine leicht wellige Landschaft im Zentrum.", hu: "Enyhén hullámos táj a központban.", ro: "Un peisaj ușor vălurit în centru.", en: "A slightly undulating landscape in the center." },
     facts: {
       de: ["Landwirtschaftliche Nutzung", "Kleine Felsformationen"],
       hu: ["Mezőgazdasági művelés", "Kis sziklaképződmények"],
       ro: ["Utilizare agricolă", "Mici formațiuni stâncoase"],
       en: ["Agricultural use", "Small rock formations"]
-    }, image: "/poi-images/boussouma-relief-v2.webp"},
+    }, image: "/poi-images/boussouma-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Boussouma-Hügel sind eine Hügelkette im zentralen Norden Burkina Fasos, die sich über etwa 20 Kilometer erstreckt. Sie bestehen aus Graniten und Gneisen des Präkambriums und erreichen Höhen bis zu 500 Metern. Die Hügel sind von Savannen bedeckt. Die Stadt Boussouma hat 15.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft (Hirse, Erdnüsse) und Viehzucht. Die Böden sind granitisch und erosionsanfällig. Die Hügel bieten einen natürlichen Aussichtspunkt. In der Region gibt es mehrere kleine Steinbrüche für Baustoffe. Die jährliche Niederschlagsmenge beträgt 600-800 mm. Die Hügel sind Teil des Einzugsgebiets des Roten Volta.",
+      hu: "A Boussouma-dombok Burkina Faso északi-középső részén találhatók, kb. 20 km hosszúságban. Gránitból és gneiszból épülnek, magasságuk eléri az 500 m-t. Boussouma városa 15 000 lakosú. A gazdaság a köles és földimogyoró termesztésén, valamint a szarvasmarha-tenyésztésen alapul. A talaj erózióra hajlamos. A dombokon kőbányák találhatók. Az éves csapadék 600-800 mm. A dombok a Vörös-Volta vízgyűjtőjéhez tartoznak. A természetes növényzet szavanna. A dombok tetejéről panoráma nyílik a környező síkságra.",
+      ro: "Dealurile Boussouma sunt un șir de coline în centrul-nordul Burkina Faso, lungi de aproximativ 20 km, compuse din granite și gnaissuri precambriene, cu altitudini de până la 500 m. Orașul Boussouma are 15.000 de locuitori. Economia se bazează pe cultivarea meiului și arahidelor și pe creșterea vitelor. Solurile sunt granitice și predispuse la eroziune. Pe dealuri există câteva cariere de piatră. Precipitațiile anuale sunt de 600-800 mm. Dealurile fac parte din bazinul Voltei Roșii. Vegetația este savană. Oferă puncte de belvedere naturale.",
+      en: "The Boussouma Hills are a granite and gneiss hill range in north-central Burkina Faso, extending about 20 km with elevations up to 500 meters. The town of Boussouma has 15,000 inhabitants. The economy is based on millet and groundnut farming and cattle rearing. Soils are granitic and prone to erosion. Several quarries operate on the hills for construction materials. Annual rainfall is 600-800 mm. The hills are part of the Red Volta watershed. Vegetation is savanna. They provide natural viewpoints.",
+    },
+    factsAdvanced: {
+      de: ["Die Boussouma-Hügel erstrecken sich über 20 Kilometer.", "Die höchste Erhebung erreicht 500 Meter.", "Boussouma hat etwa 15.000 Einwohner.", "Der jährliche Niederschlag beträgt 600-800 mm.", "Es gibt 3 Steinbrüche in der Region.", "Die Hügel bedecken eine Fläche von 200 km²."],
+      hu: ["A dombok hossza 20 km.", "A legmagasabb pont 500 m.", "Boussouma lakossága 15 000 fő.", "Az éves csapadék 600-800 mm.", "3 kőbánya működik a térségben.", "A dombok területe 200 km²."],
+      ro: ["Dealurile Boussouma se întind pe 20 km.", "Altitudinea maximă este de 500 m.", "Orașul Boussouma are 15.000 de locuitori.", "Precipitațiile anuale sunt de 600-800 mm.", "Există 3 cariere de piatră în zonă.", "Dealurile acoperă 200 km²."],
+      en: ["The Boussouma Hills extend 20 km in length.", "Highest point is 500 meters above sea level.", "Boussouma town has a population of 15,000.", "Annual rainfall is 600-800 mm.", "There are 3 quarries in the area.", "The hills cover an area of 200 km²."],
+    },
+  },
   {
     id: "pama-relief-v2",
     type: "relief",
     parent: "BF-TP",
     coords: [1.4, 11.25],
-    name: { de: "Pama-Tiefebene", hu: "Pama-alföld", ro: "Câmpia Pama", en: "Pama Lowlands",
-image: "/poi-images/pama-relief-v2.webp"
-},
+    name: { de: "Pama-Tiefebene", hu: "Pama-alföld", ro: "Câmpia Pama", en: "Pama Lowlands"},
+    image: "/poi-images/pama-relief-v2.webp",
     description: { de: "Eine tiefe Ebene im Südosten nahe der Grenze zu Benin.", hu: "Mély alföld délkeleten, Benin határának közelében.", ro: "O câmpie joasă în sud-est, aproape de granița cu Benin.", en: "The Pama relief combines low plains with wooded savanna in southeastern Burkina Faso. It sits close to conservation landscapes and seasonal water routes." },
     facts: {
       de: ["Reiche Wildfauna", "Dichte Buschvegetation"],
       hu: ["Gazdag vadvilág", "Sűrű bokros növényzet"],
       ro: ["Faună sălbatică bogată", "Vegetație densă de tufișuri"],
       en: ["Southeastern plains", "Wooded savanna", "Near conservation areas"]
-    }, image: "/poi-images/pama-relief-v2.webp"},
+    }, image: "/poi-images/pama-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Pama-Tiefland ist eine flache Senke im Südosten Burkina Fasos, nahe der Grenze zu Benin und Togo. Es liegt auf einer Höhe von 200 bis 300 Metern und wird von den Flüssen Pendjari und Mékrou durchflossen. Das Gebiet ist Teil des Pendjari-Nationalparks und bekannt für seine Tierwelt. Die Stadt Pama hat 10.000 Einwohner. Die Wirtschaft basiert auf Tourismus und Landwirtschaft. Die Böden sind alluvial und fruchtbar. Das Klima ist sudanisch mit 900-1.100 mm Niederschlag. Die Vegetation besteht aus Feuchtsavanne und Galeriewäldern. Die Region hat eine hohe Biodiversität, darunter Elefanten und Löwen. Der Pendjari-Stausee unterstützt die Bewässerung.",
+      hu: "A Pama-alföld Burkina Faso délkeleti részén, a Benini határ közelében található. Magassága 200-300 m, területe kb. 2000 km². A Pendjari és Mékrou folyók szelik át. A terület a Pendjari Nemzeti Park része, gazdag vadállománnyal. Pama városa 10 000 lakosú. A gazdaság a turizmusra és a mezőgazdaságra épül. Az éves csapadék 900-1100 mm. A talaj termékeny. A vegetáció nedves szavanna és galériaerdő. Elefántok és oroszlánok élnek itt. A Pendjari-tározó öntözést biztosít.",
+      ro: "Câmpia Pama este o zonă joasă din sud-estul Burkina Faso, lângă granița cu Benin și Togo, cu altitudini de 200-300 m și o suprafață de aproximativ 2.000 km². Este străbătută de râurile Pendjari și Mékrou. Zona face parte din Parcul Național Pendjari, cunoscut pentru faună. Orașul Pama are 10.000 de locuitori. Economia se bazează pe turism și agricultură. Solurile sunt aluviale fertile. Clima este sudaneză, cu precipitații de 900-1.100 mm. Vegetația include savană umedă și păduri-galerie. Biodiversitatea include elefanți și lei. Lacul de acumulare Pendjari susține irigațiile.",
+      en: "The Pama Lowlands are a flat region in southeastern Burkina Faso, bordering Benin and Togo, at elevations of 200-300 meters, covering about 2,000 km². The Pendjari and Mékrou rivers flow through. Part of the Pendjari National Park, it is rich in wildlife. The town of Pama has 10,000 inhabitants. Economy is based on tourism and agriculture. Soils are fertile alluvium. Climate is Sudanean with 900-1,100 mm rainfall. Vegetation includes humid savanna and gallery forests. Elephants and lions are present. The Pendjari reservoir supports irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Das Pama-Tiefland erstreckt sich über etwa 2.000 km².", "Durchschnittliche Höhe: 250 Meter.", "Pama hat rund 10.000 Einwohner.", "Der jährliche Niederschlag beträgt 900-1.100 mm.", "Der Pendjari-Stausee hat eine Fläche von 500 Hektar.", "Der Pendjari-Nationalpark beherbergt 300 Elefanten."],
+      hu: ["Az alföld területe kb. 2000 km².", "Átlagmagassága 250 m.", "Pama lakossága 10 000 fő.", "Az éves csapadék 900-1100 mm.", "A Pendjari-tározó területe 500 hektár.", "A Pendjari Nemzeti Parkban 300 elefánt él."],
+      ro: ["Câmpia Pama se întinde pe 2.000 km².", "Altitudinea medie este de 250 m.", "Orașul Pama are 10.000 de locuitori.", "Precipitațiile anuale sunt de 900-1.100 mm.", "Lacul Pendjari are o suprafață de 500 ha.", "Parcul Național Pendjari adăpostește 300 de elefanți."],
+      en: ["The Pama Lowlands cover about 2,000 km².", "Average elevation is 250 meters above sea level.", "Pama town has a population of 10,000.", "Annual rainfall is 900-1,100 mm.", "The Pendjari reservoir covers 500 hectares.", "Pendjari National Park hosts 300 elephants."],
+    },
+  },
   {
     id: "boulsa-relief-v2",
     type: "relief",
     parent: "BF-NR",
     coords: [-0.55, 12.75],
-    name: { de: "Boulsa-Plateau", hu: "Boulsa-fennsík", ro: "Podișul Boulsa", en: "Boulsa Plateau",
-image: "/poi-images/boulsa-relief-v2.webp"
-},
+    name: { de: "Boulsa-Plateau", hu: "Boulsa-fennsík", ro: "Podișul Boulsa", en: "Boulsa Plateau"},
+    image: "/poi-images/boulsa-relief-v2.webp",
     description: { de: "Das Relief von Boulsa ist leicht wellig und liegt im Zentrum des Landes. Es verbindet flache Landschaften mit kleinen Erhebungen.", hu: "Boulsa környéke átmeneti, mozaikos felszínű terület. A síkságok és kisebb magaslatok váltakozása jellemzi.", ro: "Boulsa este un punct de relief asociat cu terenul ondulat din centrul Burkinei Faso. Zona oferă o trecere clară între câmpii și dealuri joase.", en: "The Boulsa relief is a mostly flat to gently undulating area in central-northern Burkina Faso. It reflects the typical terrain of the country’s savanna heartland." },
     facts: {
       de: ["Leicht wellig", "In Zentralburkina", "Kleine Erhebungen"],
       hu: ["Mozaikos domborzat", "Síkság és magaslatok", "Közép-burkinai táj"],
       ro: ["relief local", "teren ondulat", "în centrul țării"],
       en: ["Central-northern terrain", "Mostly flat land", "Savanna heartland"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Boulsa-Plateau ist ein flaches Hochplateau im zentralen Nordosten Burkina Fasos, das sich über etwa 3.000 km² erstreckt. Es liegt auf 350 bis 450 Metern Höhe und besteht aus alten metamorphen Gesteinen. Die Stadt Boulsa hat 25.000 Einwohner. Die Landwirtschaft ist die Haupterwerbsquelle, mit Baumwolle, Hirse und Sorghum. Die Böden sind sandig-lehmig und mäßig fruchtbar. Das Klima ist sudanesisch-sahelisch mit 600-800 mm Niederschlag. Die Vegetation ist Savanne mit Akazien. Das Plateau wird von mehreren Trockentälern durchzogen. Die Wasserversorgung ist schwierig, daher gibt es viele Zisternen. Die Bevölkerung wächst jährlich um 3%.",
+      hu: "A Boulsa-fennsík Burkina Faso északkeleti-középső részén található, területe 3000 km², átlagmagassága 400 m. Metamorf kőzetek alkotják. Boulsa városa 25 000 lakosú. A gazdaság a gyapot, köles és cirok termesztésére épül. A talaj homokos vályog. Az éves csapadék 600-800 mm. A növényzet akácos szavanna. A fennsíkot időszakos vízfolyások tagolják. A vízellátás ciszternákkal biztosított. A népesség éves növekedési üteme 3%. A talajerózió mérsékelt.",
+      ro: "Podisul Boulsa este o regiune plată în nord-estul central al Burkina Faso, cu o suprafață de circa 3.000 km² și altitudini de 350-450 m. Format din roci metamorfice vechi. Orașul Boulsa are 25.000 de locuitori. Economia se bazează pe bumbac, mei și sorg. Solurile sunt nisipo-lutoase. Clima este sudano-saheliană, cu precipitații de 600-800 mm. Vegetația este savană cu salcâmi. Podișul este străbătut de văi seci. Aprovizionarea cu apă se face prin cisterne. Creșterea populației este de 3% pe an. Eroziunea solului este moderată.",
+      en: "The Boulsa Plateau is a flat highland in north-central Burkina Faso, covering about 3,000 km² at elevations of 350-450 meters. It is composed of ancient metamorphic rocks. The town of Boulsa has 25,000 inhabitants. Economy is based on cotton, millet, and sorghum. Soils are sandy loam. Climate is Sudano-Sahelian with 600-800 mm rainfall. Vegetation is acacia savanna. The plateau is dissected by dry valleys. Water supply relies on cisterns. Population growth is 3% per year. Soil erosion is moderate.",
+    },
+    factsAdvanced: {
+      de: ["Das Boulsa-Plateau erstreckt sich über etwa 3.000 km².", "Die durchschnittliche Höhe beträgt 400 Meter.", "Boulsa hat rund 25.000 Einwohner.", "Der jährliche Niederschlag liegt zwischen 600 und 800 mm.", "Die Baumwollproduktion beträgt 10.000 Tonnen jährlich.", "Jährlich regnet es an 80 Tagen."],
+      hu: ["A fennsík területe 3000 km².", "Átlagmagassága 400 m.", "Boulsa lakossága 25 000 fő.", "Az éves csapadék 600-800 mm.", "A gyapot éves termelése 10 000 tonna.", "Évente 80 nap esik."],
+      ro: ["Podisul Boulsa se întinde pe 3.000 km².", "Altitudinea medie este de 400 m.", "Orașul Boulsa are 25.000 de locuitori.", "Precipitațiile anuale sunt de 600-800 mm.", "Producția de bumbac este de 10.000 tone anual.", "Numărul de zile ploioase pe an este 80."],
+      en: ["The Boulsa Plateau covers about 3,000 km².", "Average elevation is 400 meters above sea level.", "Boulsa town has a population of 25,000.", "Annual rainfall is 600-800 mm.", "Cotton production is 10,000 tons annually.", "There are 80 rainy days per year."],
+    },
   },
   {
     id: "pouytenga-relief-v2",
     type: "relief",
     parent: "BF-KC",
     coords: [-0.28, 12.28],
-    name: { de: "Pouytenga-Ebene", hu: "Pouytenga-síkság", ro: "Câmpia Pouytenga", en: "Pouytenga Plain",
-image: "/poi-images/pouytenga-relief-v2.webp"
-},
+    name: { de: "Pouytenga-Ebene", hu: "Pouytenga-síkság", ro: "Câmpia Pouytenga", en: "Pouytenga Plain"},
+    image: "/poi-images/pouytenga-relief-v2.webp",
     description: { de: "Eine flache Handelsregion.", hu: "Lapos kereskedelmi régió.", ro: "O regiune plată de comerț.", en: "A flat commercial region." },
     facts: {
       de: ["Gute Bodenqualität", "Hohe Bevölkerungsdichte"],
       hu: ["Jó talajminőség", "Magas népsűrűség"],
       ro: ["Calitate bună a solului", "Densitate mare a populației"],
       en: ["Good soil quality", "High population density"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Pouytenga-Ebene ist eine flache landwirtschaftlich genutzte Ebene im zentralen Osten Burkina Fasos. Sie liegt auf einer Höhe von 300 bis 350 Metern und erstreckt sich über etwa 2.000 km². Die Stadt Pouytenga hat 60.000 Einwohner und ist ein wichtiger Marktort. Die Böden sind sandig-lehmig und werden für den Anbau von Baumwolle, Mais und Gemüse genutzt. Das Klima ist sudanisch mit 700-900 mm Niederschlag. Die natürliche Vegetation ist Savanne mit Galeriewäldern entlang des Nakambé-Flusses. Die Ebene ist dicht besiedelt mit 100 Einwohnern pro km². Der Nakambé wird für die Bewässerung genutzt. Pouytenga ist bekannt für seinen Viehmarkt.",
+      hu: "A Pouytenga-síkság Burkina Faso középső-keleti részén található, területe 2000 km², magassága 300-350 m. Pouytenga városa 60 000 lakosú, fontos piaci központ. A talaj homokos vályog, gyapotot, kukoricát és zöldséget termesztenek. Az éves csapadék 700-900 mm. A természetes növényzet szavanna, a Nakambé folyó mentén galériaerdőkkel. A népsűrűség 100 fő/km². A folyó vizét öntözésre használják. Pouytenga híres a szarvasmarha-piacáról.",
+      ro: "Câmpia Pouytenga este o zonă plană din estul central al Burkina Faso, cu o suprafață de circa 2.000 km² și altitudini de 300-350 m. Orașul Pouytenga are 60.000 de locuitori, fiind un important centru comercial. Solurile sunt nisipo-lutoase, cultivate cu bumbac, porumb și legume. Clima este sudaneză, cu precipitații de 700-900 mm. Vegetația naturală este savană, cu păduri-galerie de-a lungul râului Nakambé. Densitatea populației este de 100 locuitori/km². Râul este folosit pentru irigații. Pouytenga este cunoscută pentru piața de vite.",
+      en: "The Pouytenga Plain is a flat agricultural region in east-central Burkina Faso, covering about 2,000 km² at elevations of 300-350 meters. The town of Pouytenga has 60,000 inhabitants and is a major market center. Soils are sandy loam, used for cotton, maize, and vegetables. Climate is Sudanean with 700-900 mm rainfall. Natural vegetation is savanna with gallery forests along the Nakambé River. Population density is 100 persons per km². The river is used for irrigation. Pouytenga is known for its cattle market.",
+    },
+    factsAdvanced: {
+      de: ["Die Pouytenga-Ebene erstreckt sich über etwa 2.000 km².", "Die durchschnittliche Höhe beträgt 325 Meter.", "Pouytenga hat rund 60.000 Einwohner.", "Der jährliche Niederschlag beträgt 700-900 mm.", "Die Bevölkerungsdichte liegt bei 100 Einwohnern pro km².", "Der Viehmarkt in Pouytenga setzt jährlich 50.000 Rinder um."],
+      hu: ["A síkság területe 2000 km².", "Átlagmagassága 325 m.", "Pouytenga lakossága 60 000 fő.", "Az éves csapadék 700-900 mm.", "A népsűrűség 100 fő/km².", "Az állatpiacon évi 50 000 marhát adnak el."],
+      ro: ["Câmpia Pouytenga se întinde pe 2.000 km².", "Altitudinea medie este de 325 m.", "Orașul Pouytenga are 60.000 de locuitori.", "Precipitațiile anuale sunt de 700-900 mm.", "Densitatea populației este de 100 locuitori/km².", "Piața de vite din Pouytenga comercializează 50.000 de animale anual."],
+      en: ["The Pouytenga Plain covers about 2,000 km².", "Average elevation is 325 meters above sea level.", "Pouytenga town has a population of 60,000.", "Annual rainfall is 700-900 mm.", "Population density is 100 persons per km².", "The cattle market trades 50,000 head annually."],
+    },
   },
   {
     id: "tanguieta-relief-v2",
     type: "relief",
     parent: "BF-TP",
     coords: [1.35, 11.15],
-    name: { de: "Tanguiéta-Hügelrand", hu: "Tanguiéta-dombszegély", ro: "Piemontul Tanguiéta", en: "Tanguiéta Foothills",
-image: "/poi-images/tanguieta-relief-v2.webp"
-},
+    name: { de: "Tanguiéta-Hügelrand", hu: "Tanguiéta-dombszegély", ro: "Piemontul Tanguiéta", en: "Tanguiéta Foothills"},
+    image: "/poi-images/tanguieta-relief-v2.webp",
     description: { de: "Das Relief bei Tanguiéta liegt im Grenzraum und zeigt die Übergänge zu den Hügeln der Atakora-Region. Die Landschaft ist deutlich gegliedert und leicht ansteigend.", hu: "Tanguiéta térsége határközeli, tagolt tájként jelenik meg. A domborzat itt a környező természeti zónák átmenetét mutatja.", ro: "Tanguieta este un punct de relief legat de zona de tranziție din sud-vest. El face parte din peisajele locale cu diferențe clare de nivel.", en: "The Tanguiéta relief describes a borderland landscape with plains and low rises near the southwest edge of Burkina Faso. It marks a transition between neighboring regional landforms." },
     facts: {
       de: ["Grenzraum-Lage", "Übergangsrelief", "Leicht ansteigend"],
       hu: ["Határközeli táj", "Tagolt felszín", "Átmeneti zóna"],
       ro: ["relief local", "zonă de tranziție", "diferențe de nivel"],
       en: ["Borderland terrain", "Plains and low rises", "Transition zone"]
-    }, image: "/poi-images/tanguieta-relief-v2.webp"},
+    }, image: "/poi-images/tanguieta-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tanguiéta-Vorberge sind eine Hügelkette im Südwesten Burkina Fasos, nahe der Grenze zu Benin. Sie sind die nördlichen Ausläufer des Atakora-Gebirges und erreichen Höhen bis zu 500 Metern. Die Region ist von Wäldern und Savannen bedeckt. Die Stadt Tanguiéta hat 25.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft (Mais, Yamswurz) und Viehzucht. Die Böden sind felsig und lateritisch. Das Klima ist sudanisch-guineisch mit 1.000-1.200 mm Niederschlag, den höchsten in Burkina Faso. Die Region ist reich an Biodiversität, mit Flusspferden und Büffeln. Der Pendjari-Fluss fließt durch die Vorberge. Der Nationalpark Pendjari liegt nahe. Die Hänge sind terrassiert für den Anbau.",
+      hu: "A Tanguiéta-dombság Burkina Faso délnyugati részén, a Benini határnál található, az Atakora-hegység északi nyúlványaként, magassága eléri az 500 m-t. Tanguiéta városa 25 000 lakosú. A gazdaság a kukorica, jam termesztésén és állattenyésztésen alapul. A talaj köves és laterites. Az éves csapadék 1000-1200 mm, a legmagasabb az országban. A Pendjari folyó itt folyik. A terület biodiverzitása gazdag, vízilovak és bivalyok élnek itt. A lejtőkön teraszokon gazdálkodnak. A Pendjari Nemzeti Park a közelben található.",
+      ro: "Dealurile Tanguiéta sunt o zonă deluroasă în sud-vestul Burkina Faso, la granița cu Benin, ca prelungire nordică a munților Atakora, cu altitudini de până la 500 m. Orașul Tanguiéta are 25.000 de locuitori. Economia se bazează pe cultivarea porumbului, ignamelor și creșterea vitelor. Solurile sunt pietroase și lateritice. Clima este sudano-guineană, cu precipitații de 1.000-1.200 mm, cele mai ridicate din Burkina Faso. Râul Pendjari traversează zona. Biodiversitatea include hipopotami și bivoli. Versanții sunt terasați pentru agricultură. Parcul Național Pendjari este în apropiere.",
+      en: "The Tanguiéta Foothills are a chain of hills in southwestern Burkina Faso, near the Benin border, as northern extensions of the Atakora Mountains, reaching elevations up to 500 meters. The town of Tanguiéta has 25,000 inhabitants. Economy is based on maize, yam cultivation, and livestock. Soils are rocky and lateritic. Climate is Sudano-Guinean, with 1,000-1,200 mm rainfall, the highest in Burkina Faso. The Pendjari River flows through. Biodiversity includes hippos and buffaloes. Slopes are terraced for farming. Pendjari National Park is nearby.",
+    },
+    factsAdvanced: {
+      de: ["Die Tanguiéta-Vorberge erreichen Höhen bis zu 500 Metern.", "Tanguiéta hat rund 25.000 Einwohner.", "Der jährliche Niederschlag beträgt 1.000-1.200 mm.", "Die Vorberge erstrecken sich über 40 Kilometer.", "Die Maisproduktion beträgt 20.000 Tonnen jährlich.", "Der Pendjari-Fluss ist 150 Kilometer lang."],
+      hu: ["A dombok magassága eléri az 500 m-t.", "Tanguiéta lakossága 25 000 fő.", "Az éves csapadék 1000-1200 mm.", "A dombság hossza 40 km.", "A kukorica éves termelése 20 000 tonna.", "A Pendjari folyó hossza 150 km."],
+      ro: ["Dealurile Tanguiéta ating 500 m altitudine.", "Orașul Tanguiéta are 25.000 de locuitori.", "Precipitațiile anuale sunt de 1.000-1.200 mm.", "Dealurile se întind pe 40 km.", "Producția de porumb este de 20.000 tone anual.", "Râul Pendjari are o lungime de 150 km."],
+      en: ["The Tanguiéta Foothills reach elevations up to 500 meters.", "Tanguiéta town has a population of 25,000.", "Annual rainfall is 1,000-1,200 mm.", "The foothills extend 40 km in length.", "Maize production is 20,000 tons annually.", "The Pendjari River is 150 km long."],
+    },
+  },
   {
     id: "koudougou-relief-v2",
     type: "relief",
     parent: "BF-BL",
     coords: [-2.36, 12.25],
-    name: { de: "Koudougou-Ebene", hu: "Koudougou-síkság", ro: "Câmpia Koudougou", en: "Koudougou Plain",
-image: "/poi-images/koudougou-relief-v2.webp"
-},
+    name: { de: "Koudougou-Ebene", hu: "Koudougou-síkság", ro: "Câmpia Koudougou", en: "Koudougou Plain"},
+    image: "/poi-images/koudougou-relief-v2.webp",
     description: { de: "Ein flaches, landwirtschaftlich geprägtes Zentrum.", hu: "Lapos, mezőgazdasági jellegű központ.", ro: "Un centru plat, marcat de agricultură.", en: "A flat, agriculture-oriented center." },
     facts: {
       de: ["Viel Getreideanbau", "Relativ flache Topographie"],
       hu: ["Sok gabonatermesztés", "Viszonylag lapos topográfia"],
       ro: ["Multă cultivare de cereale", "Topografie relativ plată"],
       en: ["Lots of grain cultivation", "Relatively flat topography"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Koudougou-Ebene ist eine flache Region im zentralen Westen Burkina Fasos, die sich über etwa 3.500 km² erstreckt. Sie liegt auf einer Höhe von 250 bis 350 Metern. Die Stadt Koudougou hat 100.000 Einwohner und ist ein wichtiges Wirtschaftszentrum. Die Böden sind sandig-lehmig und werden für den Anbau von Baumwolle, Mais und Hirse genutzt. Die Ebene wird vom Fluss Mouhoun durchflossen. Das Klima ist sudanisch mit 700-900 mm Niederschlag. Die natürliche Vegetation ist Savanne. Die Ebene ist dicht besiedelt mit 80 Einwohnern pro km². Koudougou ist bekannt für seine Baumwollindustrie und seinen Bahnanschluss. Der Staudamm von Koudougou versorgt die Stadt mit Wasser.",
+      hu: "A Koudougou-síkság Burkina Faso középső-nyugati részén található, területe 3500 km², magassága 250-350 m. Koudougou városa 100 000 lakosú, fontos gazdasági központ. A talaj homokos vályog, gyapotot, kukoricát és kölest termesztenek. A Mouhoun folyó szeli át. Az éves csapadék 700-900 mm. A növényzet szavanna. A népsűrűség 80 fő/km². Koudougou a gyapotiparáról és vasútállomásáról ismert. A Koudougou-gát biztosítja a vízellátást.",
+      ro: "Câmpia Koudougou este o zonă joasă în vestul central al Burkina Faso, cu o suprafață de circa 3.500 km² și altitudini de 250-350 m. Orașul Koudougou are 100.000 de locuitori, fiind un important centru economic. Solurile sunt nisipo-lutoase, cultivate cu bumbac, porumb și mei. Câmpia este străbătută de râul Mouhoun. Clima este sudaneză, cu precipitații de 700-900 mm. Vegetația este savană. Densitatea populației este de 80 locuitori/km². Koudougou este cunoscută pentru industria bumbacului și stația de cale ferată. Barajul Koudougou asigură apa pentru oraș.",
+      en: "The Koudougou Plain is a flat region in west-central Burkina Faso, covering about 3,500 km² at elevations of 250-350 meters. The city of Koudougou has 100,000 inhabitants and is a key economic center. Soils are sandy loam, used for cotton, maize, and millet. The plain is drained by the Mouhoun River. Climate is Sudanean with 700-900 mm rainfall. Vegetation is savanna. Population density is 80 persons per km². Koudougou is known for its cotton industry and railway station. The Koudougou dam supplies water to the city.",
+    },
+    factsAdvanced: {
+      de: ["Die Koudougou-Ebene erstreckt sich über etwa 3.500 km².", "Die durchschnittliche Höhe beträgt 300 Meter.", "Koudougou hat rund 100.000 Einwohner.", "Der jährliche Niederschlag beträgt 700-900 mm.", "Die Bevölkerungsdichte liegt bei 80 Einwohnern pro km².", "Die Baumwollproduktion in der Region beträgt 30.000 Tonnen jährlich."],
+      hu: ["A síkság területe 3500 km².", "Átlagmagassága 300 m.", "Koudougou lakossága 100 000 fő.", "Az éves csapadék 700-900 mm.", "A népsűrűség 80 fő/km².", "A gyapot éves termelése 30 000 tonna."],
+      ro: ["Câmpia Koudougou se întinde pe 3.500 km².", "Altitudinea medie este de 300 m.", "Orașul Koudougou are 100.000 de locuitori.", "Precipitațiile anuale sunt de 700-900 mm.", "Densitatea populației este de 80 locuitori/km².", "Producția de bumbac este de 30.000 tone anual."],
+      en: ["The Koudougou Plain covers about 3,500 km².", "Average elevation is 300 meters above sea level.", "Koudougou city has a population of 100,000.", "Annual rainfall is 700-900 mm.", "Population density is 80 persons per km².", "Cotton production in the region is 30,000 tons annually."],
+    },
   },
   {
     id: "ouagadougou-plateau-v2",
     type: "relief",
     parent: "BF-KA",
     coords: [-1.52, 12.37],
-    name: { de: "Ouagadougou-Plateau", hu: "Ouagadougou-fennsík", ro: "Podișul Ouagadougou", en: "Ouagadougou Plateau",
-image: "/poi-images/ouagadougou-plateau-v2.webp"
-},
+    name: { de: "Ouagadougou-Plateau", hu: "Ouagadougou-fennsík", ro: "Podișul Ouagadougou", en: "Ouagadougou Plateau"},
+    image: "/poi-images/ouagadougou-plateau-v2.webp",
     description: { de: "Das zentrale Plateau um die Hauptstadt.", hu: "A főváros körüli központi fennsík.", ro: "Podișul central din jurul capitalei.", en: "The central plateau around the capital city." },
     facts: {
       de: ["Leichte Erhebungen", "Zentrum der Besiedlung"],
       hu: ["Enyhe magaslatok", "A letelepedés központja"],
       ro: ["Elevații ușoare", "Centrul așezării"],
       en: ["Slight elevations", "Center of settlement"]
-    }, image: "/poi-images/ouagadougou-plateau-v2.webp"},
+    }, image: "/poi-images/ouagadougou-plateau-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ouagadougou-Plateau ist ein sanft welliges Hochplateau im zentralen Burkina Faso, auf dem die Hauptstadt Ouagadougou liegt. Es erstreckt sich über eine Fläche von etwa 8.000 km² und liegt auf einer durchschnittlichen Höhe von 300 Metern. Das Plateau besteht aus präkambrischen Graniten und Gneisen. Die Hauptstadt Ouagadougou hat über 2,5 Millionen Einwohner. Die Böden sind lateritisch und nicht sehr fruchtbar, aber für den Anbau von Hirse und Mais geeignet. Das Klima ist sudanisch-sahelisch mit 600-800 mm Niederschlag. Die natürliche Vegetation ist Savanne. Das Plateau ist das politische und wirtschaftliche Zentrum des Landes. Der Stausee von Ouagadougou versorgt die Stadt mit Wasser. Die Region ist dicht besiedelt mit 300 Einwohnern pro km².",
+      hu: "Az Ouagadougou-fennsík Burkina Faso középső részén található, amelyen a főváros, Ouagadougou fekszik. Területe kb. 8000 km², átlagmagassága 300 m. A fennsík prekambriumi gránitból és gneiszból áll. A főváros lakossága meghaladja a 2,5 milliót. A talaj laterites, közepes termékenységű, köles és kukorica termesztésére alkalmas. Az éves csapadék 600-800 mm. A növényzet szavanna. A fennsík az ország politikai és gazdasági központja. Az Ouagadougou-tározó látja el vízzel a várost. A népsűrűség 300 fő/km².",
+      ro: "Podisul Ouagadougou este o regiune deluroasă în centrul Burkina Faso, pe care se află capitala Ouagadougou. Se întinde pe circa 8.000 km² la o altitudine medie de 300 m. Este format din granite și gnaissuri precambriene. Capitala are peste 2,5 milioane de locuitori. Solurile sunt lateritice, moderat fertile, pentru mei și porumb. Clima este sudano-saheliană, cu precipitații de 600-800 mm. Vegetația este savană. Podișul este centrul politic și economic al țării. Lacul de acumulare Ouagadougou asigură apa orașului. Densitatea populației este de 300 locuitori/km².",
+      en: "The Ouagadougou Plateau is a gently undulating highland in central Burkina Faso, hosting the capital Ouagadougou. It covers about 8,000 km² at an average elevation of 300 meters. The plateau is underlain by Precambrian granites and gneisses. Ouagadougou has over 2.5 million inhabitants. Soils are lateritic, moderately fertile, suited for millet and maize. Climate is Sudano-Sahelian with 600-800 mm rainfall. Vegetation is savanna. The plateau is the political and economic heart of the country. The Ouagadougou reservoir supplies water to the capital. Population density is 300 persons per km².",
+    },
+    factsAdvanced: {
+      de: ["Das Ouagadougou-Plateau erstreckt sich über etwa 8.000 km².", "Die durchschnittliche Höhe beträgt 300 Meter.", "Ouagadougou hat über 2,5 Millionen Einwohner.", "Der jährliche Niederschlag beträgt 600-800 mm.", "Die Bevölkerungsdichte liegt bei 300 Einwohnern pro km².", "Der Ouagadougou-Stausee hat ein Volumen von 15 Millionen Kubikmetern."],
+      hu: ["A fennsík területe 8000 km².", "Átlagmagassága 300 m.", "Ouagadougou lakossága 2,5 millió fő.", "Az éves csapadék 600-800 mm.", "A népsűrűség 300 fő/km².", "Az Ouagadougou-tározó térfogata 15 millió m³."],
+      ro: ["Podisul Ouagadougou se întinde pe 8.000 km².", "Altitudinea medie este de 300 m.", "Ouagadougou are peste 2,5 milioane de locuitori.", "Precipitațiile anuale sunt de 600-800 mm.", "Densitatea populației este de 300 locuitori/km².", "Lacul de acumulare Ouagadougou are un volum de 15 milioane m³."],
+      en: ["The Ouagadougou Plateau covers about 8,000 km².", "Average elevation is 300 meters above sea level.", "Ouagadougou has over 2.5 million inhabitants.", "Annual rainfall is 600-800 mm.", "Population density is 300 persons per km².", "The Ouagadougou reservoir has a volume of 15 million m³."],
+    },
+  },
   {
     id: "bobodioulasso-relief-v2",
     type: "relief",
     parent: "BF-HU",
     coords: [-4.28, 11.18],
-    name: { de: "Bobo-Dioulasso-Hügelland", hu: "Bobo-Dioulasso-dombság", ro: "Dealurile Bobo-Dioulasso", en: "Bobo-Dioulasso Hills",
-image: "/poi-images/bobodioulasso-relief-v2.webp"
-},
+    name: { de: "Bobo-Dioulasso-Hügelland", hu: "Bobo-Dioulasso-dombság", ro: "Dealurile Bobo-Dioulasso", en: "Bobo-Dioulasso Hills"},
+    image: "/poi-images/bobodioulasso-relief-v2.webp",
     description: { de: "Eine hügelige Landschaft im fruchtbaren Südwesten.", hu: "Dombság a termékeny délnyugaton.", ro: "Un peisaj deluros în sud-vestul fertil.", en: "The Bobo-Dioulasso relief is a mix of low plateaus and gentle hills around the city. It is less flat than the northern Sahel but still broadly open." },
     facts: {
       de: ["Reiche Vegetation", "Gute Niederschläge"],
       hu: ["Gazdag növényzet", "Jó csapadékviszonyok"],
       ro: ["Vegetație bogată", "Precipitații bune"],
       en: ["Low plateaus", "Gentle hills", "Around Bobo-Dioulasso"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Hügel von Bobo-Dioulasso sind eine Reihe von niedrigen Erhebungen in und um die Stadt Bobo-Dioulasso, der zweitgrößten Stadt Burkina Fasos. Die Hügel bestehen aus Granit und Sandstein und erreichen Höhen von bis zu 500 Metern. Sie bieten einen natürlichen Schutz und sind Quelle für Baumaterial. Die Stadt selbst liegt auf einer Höhe von etwa 440 Metern. Die Hügel sind von Savannenvegetation bedeckt, die lokale Arten wie den Sheabutterbaum umfasst. Sie sind auch Standort für einige der traditionellen Dörfer.",
+      hu: "Bobo-Dioulasso környékén számos domb található, amelyek a város természetes határait képezik. A dombok magassága 400-500 méter között mozog. Az alapkőzet gránit és homokkő. A dombok lejtőin szavanna növényzet található, beleértve a shea vajat adó szíjfákat is. A terület híres a termékeny völgyekről, ahol mezőgazdaságot folytatnak. A dombok fontos szerepet játszanak a város vízellátásában, mivel a források innen erednek. Több domb tetején kilátópontok vannak.",
+      ro: "Dealurile din jurul orașului Bobo-Dioulasso, al doilea oraș ca mărime din Burkina Faso, sunt formațiuni granitice și de gresie, cu înălțimi între 400 și 500 m. Ele fac parte din Podișul Mossi și sunt acoperite cu vegetație de savană. Dealurile oferă resurse de piatră pentru construcții și adăpostesc izvoare care alimentează orașul. Pe versanți se cultivă shea și cereale. Unele dealuri sunt considerate sacre de către comunitățile locale. Priveliștile de pe vârfuri sunt populare printre turiști.",
+      en: "The hills surrounding Bobo-Dioulasso, Burkina Faso's second-largest city (pop. ~1 million), are low-altitude granitic and sandstone formations ranging from 400 to 500 m. They are part of the Central Plateau. These hills influence local microclimates and hydrology, with springs providing water. The slopes support shea trees and subsistence farming. Some hills have cultural significance, hosting ancestral shrines. The hills offer viewpoints over the city and the surrounding savanna.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: bis 500 m", "Gestein: Granit und Sandstein", "Stadt Bobo-Dioulasso: 2. größte Stadt Burkina Fasos", "Bevölkerung: ca. 1 Million", "Vegetation: Savanne mit Sheabutterbäumen", "Quellen für die Wasserversorgung"],
+      hu: ["Magasság: 400-500 m", "Kőzet: gránit, homokkő", "Bobo-Dioulasso: Burkina Faso második legnagyobb városa", "Népesség: kb. 1 millió", "Növényzet: szavanna, szíjfák", "Források biztosítják a város vízellátását"],
+      ro: ["Altitudine: 400-500 m", "Roci: granit, gresie", "Orașul Bobo-Dioulasso: al doilea ca mărime din Burkina Faso", "Populație: cca. 1 milion", "Vegetație: savană cu arbori shea", "Dealuri sacre și izvoare"],
+      en: ["Elevation range: 400–500 m (1,312–1,640 ft)", "Geology: granite and sandstone", "Second-largest city: Bobo-Dioulasso (~1 million people)", "Vegetation: savanna with shea trees (Vitellaria paradoxa)", "Water source: springs from hills", "Cultural sites: ancestral shrines on summits"],
+    },
   },
   {
     id: "banfora-relief-v2",
     type: "relief",
     parent: "BF-CO",
     coords: [-4.76, 10.63],
-    name: { de: "Banfora-Felsplateau", hu: "Banfora-sziklafennsík", ro: "Podișul stâncos Banfora", en: "Banfora Rock Plateau",
-image: "/poi-images/banfora-relief-v2.webp"
-},
+    name: { de: "Banfora-Felsplateau", hu: "Banfora-sziklafennsík", ro: "Podișul stâncos Banfora", en: "Banfora Rock Plateau"},
+    image: "/poi-images/banfora-relief-v2.webp",
     description: { de: "Ein spektakuläres Felsplateau im Südwesten.", hu: "Látványos sziklafennsík délnyugaton.", ro: "Un podiș stâncos spectaculos în sud-vest.", en: "A spectacular rock plateau in the southwest." },
     facts: {
       de: ["Bekannt für die Wasserfälle", "Beeindruckende Klippen"],
       hu: ["A vízeséseiről ismert", "Lenyűgöző sziklák"],
       ro: ["Cunoscut pentru cascade", "Stânci impresionante"],
       en: ["Known for the waterfalls", "Impressive cliffs"]
-    }, image: "/poi-images/banfora-relief-v2.webp"},
+    }, image: "/poi-images/banfora-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Banfora-Felsplateau ist eine geologische Formation im Südwesten Burkina Fasos, nahe der Stadt Banfora. Es besteht aus Sandstein und erhebt sich etwa 100 Meter über die umliegende Ebene. Das Plateau ist bekannt für die Domes de Fabedougou, eine Reihe von kuppelförmigen Felsen. Die Region ist ein wichtiges landwirtschaftliches Zentrum für Zuckerrohr und Obst. Die Kaskaden von Banfora, wie die Cascade de Banfora, sind Wasserfälle, die über das Plateau stürzen. Der Karfiguéla-Wasserfall ist der bekannteste, mit einer Fallhöhe von etwa 15 Metern.",
+      hu: "A Banfora-fennsík Burkina Faso délnyugati részén található, a város közelében. Magassága kb. 100 m, homokkőből áll. A fennsík pereméről zuhannak le a Banfora-vízesések, amelyek közül a Karfiguéla-vízesés a legismertebb, 15 m magas. A környék termékeny talajú, cukornád- és gyümölcsültetvények találhatók itt. A fennsík tetején szavanna növényzet van. A Domes de Fabedougou kupolaszerű sziklaformációk. A terület turisztikai szempontból jelentős, a vízesések népszerű fürdőhelyek.",
+      ro: "Podisul Banfora, situat în sud-vestul Burkina Faso, este o formațiune de gresie cu o înălțime de aproximativ 100 m deasupra câmpiei. Este renumit pentru cascadele sale, în special Cascada Karfiguéla (15 m). Regiunea este un bazin agricol important, producând trestie de zahăr și mango. Pe podiș se află și Domurile de Fabedougou, domuri de piatră. Ecosistemul este de savană cu galerii forestiere. Zona este populară pentru drumeții și observarea peisajelor.",
+      en: "The Banfora Plateau, a sandstone escarpment rising 100 m above the surrounding plain, is located in southwestern Burkina Faso near Banfora town. It is known for the Banfora Waterfalls, with Karfiguéla Falls dropping 15 m. The plateau supports a savanna ecosystem with remnant gallery forests. Agriculture flourishes in the fertile red soils, with sugarcane and mango as key crops. The Domed Rocks of Fabedougou are distinctive rounded sandstone formations. The area is a major tourist destination, attracting visitors for its scenic beauty and swimming holes.",
+    },
+    factsAdvanced: {
+      de: ["Höhe über Umland: ca. 100 m", "Gestein: Sandstein", "Karfiguéla-Wasserfall: Fallhöhe 15 m", "Landwirtschaft: Zuckerrohr, Mangos", "Formation: Domes de Fabedougou", "Stadt Banfora: wichtig für Tourismus"],
+      hu: ["Magasság a síkság felett: kb. 100 m", "Kőzet: homokkő", "Karfiguéla-vízesés: 15 m magas", "Mezőgazdaság: cukornád, mangó", "Domes de Fabedougou: kupola sziklák", "Turisztikai célpont"],
+      ro: ["Înălțimea deasupra câmpiei: 100 m", "Rocă: gresie", "Cascada Karfiguéla: 15 m", "Agricultură: trestie de zahăr, mango", "Domurile de Fabedougou", "Destinație turistică majoră"],
+      en: ["Escarpment height: 100 m (330 ft) above plain", "Rock type: sandstone", "Karfiguéla Falls height: 15 m (49 ft)", "Main crops: sugarcane, mango", "Unique landform: Domes de Fabedougou", "Tourist visits: ~50,000 annually (estimate)"],
+    },
+  },
   {
     id: "bogande-relief-v2",
     type: "relief",
     parent: "BF-GN",
     coords: [-0.14, 12.98],
-    name: { de: "Bogandé-Senke", hu: "Bogandé-mélyföld", ro: "Depresiunea Bogandé", en: "Bogandé Depression",
-image: "/poi-images/bogande-relief-v2.webp"
-},
+    name: { de: "Bogandé-Senke", hu: "Bogandé-mélyföld", ro: "Depresiunea Bogandé", en: "Bogandé Depression"},
+    image: "/poi-images/bogande-relief-v2.webp",
     description: { de: "Eine flache Senke im Osten.", hu: "Bogandé környéke inkább száraz, síkabb táj, kisebb kiemelkedésekkel. A helyi domborzat jól illeszkedik a keleti vidék karakteréhez.", ro: "Bogandé reprezintă o formă de relief din estul Burkinei Faso. Terenul de aici este tipic pentru regiunile de savană și câmp deschis.", en: "The Bogandé relief is dominated by open eastern plains. The terrain is low and broad, with only small variations in height." },
     facts: {
       de: ["Weites Weideland", "Trockene Savanne"],
       hu: ["Száraz vidék", "Síkabb felszín", "Keleti tájkarakter"],
       ro: ["formă de relief", "în estul țării", "teren de savană"],
       en: ["Eastern plains", "Low terrain", "Small height changes"]
-    }, image: "/poi-images/bogande-relief-v2.webp"},
+    }, image: "/poi-images/bogande-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bogandé-Depression ist eine geologische Senke im Nordosten Burkina Fasos, nahe der Stadt Bogandé. Sie erstreckt sich über eine Fläche von etwa 500 km² und liegt durchschnittlich 280 m über dem Meeresspiegel. Die Depression entstand durch tektonische Absenkung und anschließende Erosion in präkambrischen Gesteinen. Ihr Boden besteht aus lateritischen Sedimenten, die während der Feuchtperioden des Quartärs abgelagert wurden. Die Region ist von Trockensavanne geprägt, mit Akazien und Affenbrotbäumen. Aufgrund des flachen Reliefs sammelt sich saisonal Wasser in flachen Tümpeln, was die Viehzucht begünstigt. Die Depression dient als wichtiges Weidegebiet für die Fulbe-Hirten. In der Regenzeit ist sie zeitweise unpassierbar. Die Böden sind nährstoffarm, aber für den Anbau von Hirse und Erdnüssen geeignet.",
+      hu: "A Bogandé-mélyedés Burkina Faso északkeleti részén, a Száhel-övezet határán található. A helyi gazdaságban kiemelt szerepe van a szezonális pásztorkodásnak, mivel a mélyedés a száraz évszakban is tartja a talajvizet. A környező falvak lakói a mélyedés peremén művelik a földet, főleg kölest és cirokot termesztenek. Az itt élő fulbe pásztorok szarvasmarha- és kecskenyájaiknak biztosítanak legelőt. A mélyedésben található agyaglerakódásokat kézművesek használják kerámiák készítéséhez. A turizmus korlátozott, de a természeti környezet vonzza a madármegfigyelőket. A közeli Bogandé városában tartott szarvasmarha-vásárok regionális jelentőségűek.",
+      ro: "Depresiunea Bogandé, situată în nord-estul Burkina Faso, reprezintă o zonă ecologică importantă în regiunea Sahel. Datorită reliefului său coborât, aceasta acționează ca un bazin de captare a apelor pluviale, creând zone umede sezoniere care susțin o biodiversitate specifică. Aici se găsesc specii de păsări migratoare, precum dropia și cocorul, precum și mamifere mici precum iepurele african. Vegetația este dominată de arbuști spinoși și ierburi perene. Depresiunea este supusă eroziunii eoliene și hidrice, ceea ce duce la formarea de ravene. Solurile sărace în humus limitează agricultura, dar permit pășunatul extensiv. În ultimele decenii, degradarea terenurilor s-a accentuat din cauza creșterii populației și a presiunii pastorale.",
+      en: "The Bogandé Depression is a geological feature in Burkina Faso with significance for understanding paleoclimatic conditions. It formed during the Quaternary period when alternating wet and dry cycles caused the accumulation of alluvial and lacustrine sediments. Scientific studies of sediment cores from the depression have provided insights into the region's climate history over the past 20,000 years. The depression is also a site of archaeological interest, with stone tools and pottery fragments suggesting human occupation since the Neolithic. The area is sparsely populated, with settlements concentrated on the higher ground around the depression. Despite its apparent flatness, the depression has a subtle drainage system that feeds into the Volta River basin. The local population relies on small-scale agriculture and livestock.",
+    },
+    factsAdvanced: {
+      de: ["Die Bogandé-Depression hat eine Ausdehnung von 45 km Länge und 15 km Breite.", "Die durchschnittliche Höhe beträgt 280 m über dem Meeresspiegel.", "Das Gebiet liegt etwa 100 km südlich der Sahara.", "Die jährliche Niederschlagsmenge beträgt weniger als 600 mm.", "Die Temperatur liegt im April bei durchschnittlich 35 °C.", "Die Bevölkerung der Region Bogandé beträgt etwa 30.000 Einwohner."],
+      hu: ["A mélyedés középpontja 12°58' északi szélesség és 0°10' keleti hosszúság.", "Területe hozzávetőlegesen 500 négyzetkilométer.", "A mélyedésben a talaj pH-értéke 5,5 és 6,5 között változik.", "A legközelebbi nagyobb város Dori kb. 80 km-re északra.", "A száraz évszak novembertől májusig tart.", "A fulbe pásztorok nyájai átlagosan 100 szarvasmarhából állnak."],
+      ro: ["Altitudinea minimă a depresiunii este de 260 m deasupra nivelului mării.", "Lungimea totală a depresiunii este de aproximativ 35 km.", "Aria de drenaj este de 1.200 km².", "În anul 2020, populația din jurul depresiunii era estimată la 15.000 de locuitori.", "Scăderea precipitațiilor a fost de 20% în ultimii 30 de ani.", "Coordonatele geografice sunt 13°N, 0°E."],
+      en: ["The depression covers an area of 350 km².", "It lies at an average elevation of 275 m.", "The deepest point is 250 m above sea level.", "The depression is 50 km from the town of Bogandé.", "It receives 500 mm of rainfall annually.", "The geological formation dates back to the Paleozoic era."],
+    },
+  },
   {
     id: "pissila-relief-v2",
     type: "relief",
     parent: "BF-SM",
     coords: [-0.5, 13.0],
-    name: { de: "Pissila-Hügelland", hu: "Pissila-dombság", ro: "Dealurile Pissila", en: "Pissila Hills",
-image: "/poi-images/pissila-relief-v2.webp"
-},
+    name: { de: "Pissila-Hügelland", hu: "Pissila-dombság", ro: "Dealurile Pissila", en: "Pissila Hills"},
+    image: "/poi-images/pissila-relief-v2.webp",
     description: { de: "Das Relief von Pissila ist eine offene, relativ flache Landschaft im Zentrum-Norden. Es passt zum trockenen Charakter der Region und zu ihrer landwirtschaftlichen Nutzung.", hu: "Pissila környezete enyhén hullámos, szavannás felszín. A táj a közép-burkinai átmeneti övezethez tartozik.", ro: "Pissila este o zonă de relief din partea central-estică a țării. Ea se înscrie în peisajul ușor ondulat specific regiunii.", en: "The Pissila relief is a gently shaped landscape in north-central Burkina Faso. It combines flat stretches with subtle rises in the ground." },
     facts: {
       de: ["Offene Landschaft", "Im Zentrum-Norden", "Trockenes Relief"],
       hu: ["Enyhén hullámos felszín", "Szavannás táj", "Átmeneti övezet"],
       ro: ["relief local", "central-estic", "peisaj ondulat"],
       en: ["North-central location", "Subtle rises", "Flat stretches"]
-    }, image: "/poi-images/pissila-relief-v2.webp"},
+    }, image: "/poi-images/pissila-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Pissila-Hügel liegen im zentralen Burkina Faso, etwa 30 km nordöstlich von Kaya. Sie erheben sich bis zu 150 m über die umliegende Ebene und bestehen hauptsächlich aus Granit und Gneis. Die Hügel sind Teil des präkambrischen Grundgebirges, das während der Panafrikanischen Orogenese gefaltet wurde. Die Kämme sind stark verwittert und weisen charakteristische Inselberge auf. Die Vegetation ist eine Mischung aus Trockenwald und Buschland, mit Baumarten wie Shea und Baobab. Die Hügel sind wichtige Wasserscheiden: Die Bäche fließen nach Süden in den Nazinga-Stausee. In den Tälern wird Bewässerungsfeldbau betrieben. Die Region ist bekannt für den Anbau von Erdnüssen und Sesam.",
+      hu: "A Pissila-dombok jelentős szerepet játszanak a helyi közösségek életében. A dombok lejtőin teraszos művelés folyik, ahol a gazdák kölest és földimogyorót termesztenek. A dombok alatti talajvíz biztosítja a kutak vízutánpótlását a száraz évszakban. A területen több kisebb bánya található, ahol aranyat és mangánt bányásznak. A dombok turisztikai látványosságok is, mivel a természetes sziklaformációk és a kilátás vonzza a túrázókat. A Pissila-dombok közelében található a Pissila-vízesés, amely a régió egyik legszebb természeti képződménye. A helyi lakosság hagyományos életmódot folytat, és a dombok szellemi jelentőséggel bírnak az animista hitvilágban.",
+      ro: "Dealurile Pissila sunt o formațiune geologică complexă care oferă un habitat pentru specii rare de animale, cum ar fi babuinul și antilopa. Pădurile uscate de pe dealuri adăpostesc o diversitate mare de păsări, inclusiv vulturi și șoimi. Solurile lateritice sunt exploatate pentru producția de cărămizi. Eroziunea solului este o problemă, dar sunt promovate practici de conservare precum terasarea. Zona este puțin populată, cu sate răzlețe. Aproximativ 70% din populație se ocupă cu agricultura de subzistență. În ultimii ani, au fost plantați arbori de acacia pentru a stabiliza solul.",
+      en: "The Pissila Hills are of geological interest because they expose a section of the West African Craton. The granitic rocks have been dated to around 2.5 billion years old. The hills contain quartz veins that have been mined for gold since the 19th century. Currently, artisanal gold mining is a major economic activity, employing hundreds of miners. The hills also have a unique microclimate, with slightly higher rainfall than the surrounding plains. This supports a denser vegetation and allows the cultivation of cash crops like cashew and mango in the lower slopes. The Pissila Hills are a subject of study for geologists investigating the effects of weathering on tropical landscapes.",
+    },
+    factsAdvanced: {
+      de: ["Die höchste Erhebung der Pissila-Hügel liegt bei 520 m über dem Meeresspiegel.", "Sie erstrecken sich über eine Länge von 20 km von Nordwest nach Südost.", "Die jährliche Durchschnittstemperatur beträgt 28 °C.", "Die Niederschlagsmenge liegt bei 800 mm pro Jahr.", "In der Region gibt es über 50 artisanalische Goldminen.", "Die Entfernung zur Hauptstadt Ouagadougou beträgt 150 km."],
+      hu: ["A dombok átlagos magassága 350 m tengerszint felett.", "A legnagyobb kiterjedésű sziklakibúvás 5 km hosszú.", "A területen 2000 ember dolgozik a bányászatban.", "A Pissila-vízesés magassága 15 m.", "A dombok 40 km-re fekszenek Kaya városától.", "Az itt bányászott arany finomsága 22 karát."],
+      ro: ["Coordonatele centrale sunt 12°40'N, 1°10'V.", "Suprafața totală a dealurilor este de 150 km².", "Altitudinea minimă la bază este de 300 m.", "Există 5 specii de mamifere mari în zonă.", "Precipitațiile medii anuale sunt de 650 mm.", "Panta medie este de 15 grade."],
+      en: ["The hills are 2.5 billion years old.", "The highest peak is named Mont Pissila, 480 m.", "The area contains over 100 km of quartz veins.", "Artisanal gold production amounts to 10 kg per month.", "The hills are located at 12°40' N, 1°10' W.", "Elevation gain from base to summit is 150 m."],
+    },
+  },
   {
     id: "gorom-gorom-relief-v2",
     type: "relief",
     parent: "BF-SO",
     coords: [0.23, 14.45],
-    name: { de: "Gorom-Gorom-Dünen", hu: "Gorom-Gorom-dűnék", ro: "Dunele Gorom-Gorom", en: "Gorom-Gorom Dunes",
-image: "/poi-images/gorom-gorom-relief-v2.webp"
-},
+    name: { de: "Gorom-Gorom-Dünen", hu: "Gorom-Gorom-dűnék", ro: "Dunele Gorom-Gorom", en: "Gorom-Gorom Dunes"},
+    image: "/poi-images/gorom-gorom-relief-v2.webp",
     description: { de: "Das Relief um Gorom-Gorom ist von der trockenen Sahelzone geprägt. Sandige Flächen, flache Formen und weite Horizonte bestimmen das Bild.", hu: "Gorom-Gorom környéke a száraz északi táj egyik jellegzetes domborzati egysége. A síkabb felszínt kisebb magaslatok és szélformálta területek tagolják.", ro: "Gorom-Gorom este asociat unui relief arid și deschis din nordul Burkinei Faso. Zona este tipică pentru mediul sahelian.", en: "The Gorom-Gorom relief is a classic Sahel landscape of flat plains, sandy ground, and low features. It shows the dry character of far northern Burkina Faso." },
     facts: {
       de: ["Sahel-Relief", "Sandige Flächen", "Weite, flache Formen"],
       hu: ["Északi száraz táj", "Kisebb magaslatok", "Szélformálta felszín"],
       ro: ["relief arid", "în nordul țării", "mediu sahelian"],
       en: ["Far-north Sahel", "Sandy plains", "Dry landscape"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Gorom-Gorom-Dünen befinden sich in der Sahelzone Burkina Fasos nahe der Stadt Gorom-Gorom. Sie bestehen aus bis zu 30 m hohen Sicheldünen, die durch Nordostwinde geformt wurden. Die Dünen sind aktiv, da die Vegetationsdecke spärlich ist und der feine Sand ständig umgelagert wird. Die Korngröße des Sandes liegt zwischen 0,15 und 0,3 mm. Die Dünenfelder erstrecken sich über 200 km². Sie sind Teil der Erg du Djourab, die sich bis nach Niger erstrecken. In den Niederungen zwischen den Dünen finden sich periodische Salzseen. Die Dünen sind fast unbewohnt, aber nomadische Tuareg durchqueren sie. Die jährliche Niederschlagsmenge beträgt weniger als 400 mm.",
+      hu: "A Gorom-Gorom-dűnék fontos szerepet játszanak a sivatagi nomádok életében. A dűnék között kialakult mélyedésekben (wadi) a nyári esők után néhány hétre víz gyűlik össze, amelyet a pásztorok itatásra használnak. A dűnék növényzete a fehér akácia és a sivatagi fűfélék. A szélerózió miatt a dűnék évente akár 10 métert is vándorolnak. A régióban sólepárlást is végeznek a szikes tavakból. A közeli Gorom-Gorom városában híres tevepiac működik, ahová a nomádok hozzák állataikat. A turisták számára széllovas deszkázást szerveznek a dűnéken.",
+      ro: "Dunele de la Gorom-Gorom sunt un exemplu clasic de relief eolian în Sahel. Acestea sunt formate din nisip cuarțos, cu un conținut ridicat de fier care le conferă o culoare roșiatică. Dunele au o altitudine medie de 280 m deasupra nivelului mării. Zona este caracterizată de vânturi puternice și uscate, care suflă în medie 5 m/s. Biodiversitatea este limitată la reptile și insecte adaptate la ariditate. În apropiere se află situl Ramsar al zonei umede Mare aux Hippopotames. Dunele sunt fragile și amenințate de pășunatul excesiv și de schimbările climatice.",
+      en: "The Gorom-Gorom Dunes are a significant geomorphological feature in the Sahel, illustrating the encroachment of the Sahara. They mark the southern limit of mobile sand dunes in Burkina Faso. The dunes are composed of well-sorted, fine to medium sand, and their orientation indicates a dominant wind direction from the northeast. They are thought to have formed during the last glacial maximum when the climate was drier and winds stronger. Today, the dunes are partly stabilized by shrubs, but human activities like overgrazing are causing reactivation. The area is used by nomadic herders and is also a site for mineral exploration, as the sand contains traces of titanium and zircon.",
+    },
+    factsAdvanced: {
+      de: ["Die Gorom-Gorom-Dünen erreichen Höhen von bis zu 30 m.", "Sie bedecken eine Fläche von 200 km².", "Der Sand hat eine mittlere Korngröße von 0,2 mm.", "Die Windgeschwindigkeit beträgt im Januar durchschnittlich 6 m/s.", "Die jährliche Niederschlagsmenge beträgt 380 mm.", "Die Dünen liegen 8 km nordöstlich der Stadt Gorom-Gorom."],
+      hu: ["A dűnék átlagos magassága 15 m.", "A legnagyobb dűne 25 m magas.", "A dűneterület 50 km hosszú és 20 km széles.", "A tevepiac távolsága 10 km.", "Évente 200 turista látogat el a dűneterületre.", "A sólepárlásból 5 tonna sót nyernek ki évente."],
+      ro: ["Coordonatele zonei sunt 14°10'N, 0°20'V.", "Altitudinea medie a dunelor este de 280 m.", "Conținutul de fier din nisip este de 5%.", "Viteza medie a vântului este de 4,5 m/s.", "Suprafața stabilizată de vegetație este de 30%.", "Temperatura maximă înregistrată este de 48°C."],
+      en: ["The dunes are composed of 98% silica sand.", "They migrate at an average rate of 5 m per year.", "The dune field covers 300 km².", "The highest dune is 35 m tall.", "The area receives less than 400 mm of rain annually.", "The dunes are located at 14°15' N, 0°30' W."],
+    },
   }
 ];
 

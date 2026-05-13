@@ -7,9 +7,8 @@ export const poiExtraIvorycoastHistoryV2: POI[] = [
     type: "historical",
     parent: "CI-16",
     coords: [-3.7333, 5.2],
-    name: { de: "Historische Stadt Grand-Bassam", hu: "Grand-Bassam történelmi városa", ro: "Orașul istoric Grand-Bassam", en: "Historic Town of Grand-Bassam",
-image: "/poi-images/grand-bassam-historic-town-history-v2.webp"
-},
+    name: { de: "Historische Stadt Grand-Bassam", hu: "Grand-Bassam történelmi városa", ro: "Orașul istoric Grand-Bassam", en: "Historic Town of Grand-Bassam"},
+    image: "/poi-images/grand-bassam-historic-town-history-v2.webp",
     description: { de: "Die historische Altstadt von Grand-Bassam zeugt von der kolonialen Architektur des späten 19. Jahrhunderts.", hu: "Elefántcsontpart egykori gyarmati fővárosa, amely 2012 óta az UNESCO Világörökség részét képezi jól megőrzött francia építészete miatt.", ro: "Orașul istoric Grand-Bassam, prima capitală a Coastei de Fildeș, este renumit pentru arhitectura sa colonială franceză bine conservată și statutul de sit UNESCO.", en: "This historic town served as the first French colonial capital of Ivory Coast between 1893 and 1896. It is now a UNESCO World Heritage site known for its late 19th-century architecture." },
     descriptionAdvanced: {
       de: "Grand-Bassam war von 1893 bis 1896 die erste Hauptstadt der französischen Kolonie Elfenbeinküste. Die Stadt ist weltbekannt für ihre Architektur aus der Kolonialzeit, darunter Villen und Verwaltungsgebäude aus der Jahrhundertwende. Heute ist der Ort ein UNESCO-Weltkulturerbe und dient als lebendiges Museum für die koloniale Geschichte des Landes. Die Stadt musste 1896 nach einer verheerenden Gelbfieber-Epidemie als Hauptstadt aufgegeben werden, doch ihre Bedeutung als historisches Zentrum blieb bestehen. Geografie K7 — Küstenregionen.",
@@ -35,9 +34,8 @@ image: "/poi-images/grand-bassam-historic-town-history-v2.webp"
     type: "historical",
     parent: "CI-07",
     coords: [-5.2963, 6.8105],
-    name: { de: "Basilika Notre-Dame-de-la-Paix", hu: "Miasszonyunk a Béke Királynője bazilika", ro: "Bazilica Notre-Dame de la Paix", en: "Basilica of Our Lady of Peace",
-image: "/poi-images/basilica-of-our-lady-of-peace-history-v2.webp"
-},
+    name: { de: "Basilika Notre-Dame-de-la-Paix", hu: "Miasszonyunk a Béke Királynője bazilika", ro: "Bazilica Notre-Dame de la Paix", en: "Basilica of Our Lady of Peace"},
+    image: "/poi-images/basilica-of-our-lady-of-peace-history-v2.webp",
     description: { de: "Eine riesige Basilika in Yamoussoukro, die zwischen 1985 und 1989 im Auftrag von Félix Houphouët-Boigny erbaut wurde.", hu: "Egy hatalmas bazilika Yamoussoukro-ban, amelyet Félix Houphouët-Boigny megbízásából építettek 1985 és 1989 között.", ro: "O bazilică imensă în Yamoussoukro, construită între 1985 și 1989 la comanda lui Félix Houphouët-Boigny.", en: "A huge basilica in Yamoussoukro, built between 1985 and 1989 commissioned by Félix Houphouët-Boigny." },
     facts: {
       de: ["Größte Kirche der Welt", "Erbaut 1985-1989", "Nach Vorbild des Petersdoms", "Bietet Platz für 18.000 Menschen"],
@@ -62,9 +60,8 @@ image: "/poi-images/basilica-of-our-lady-of-peace-history-v2.webp"
     type: "historical",
     parent: "CI-14",
     coords: [-4.6167, 9.15],
-    name: { de: "Moscheen im sudanesischen Stil in Kong", hu: "Szudáni stílusú mecsetek Kongban", ro: "Moscheile în stil sudanez din Kong", en: "Sudanese-style mosques in Kong",
-image: "/poi-images/kong-empire-mosques-history-v2.webp"
-},
+    name: { de: "Moscheen im sudanesischen Stil in Kong", hu: "Szudáni stílusú mecsetek Kongban", ro: "Moscheile în stil sudanez din Kong", en: "Sudanese-style mosques in Kong"},
+    image: "/poi-images/kong-empire-mosques-history-v2.webp",
     description: { de: "Historische Lehmziegelmoscheen, die die Macht des ehemaligen Kong-Reiches im 18. Jahrhundert widerspiegeln.", hu: "Történelmi vályogtéglás mecsetek, amelyek az egykori Kong Birodalom 18. századi hatalmát tükrözik.", ro: "Moschei istorice din cărămidă de noroi care reflectă puterea fostului Imperiu Kong din secolul al XVIII-lea.", en: "Historic mud-brick mosques reflecting the power of the former Kong Empire in the 18th century." },
     facts: {
       de: ["Typischer sudanesischer Baustil", "Zentrum des Kong-Reiches", "Wichtiger Knotenpunkt für Handel", "Von Samori Ture zerstört und wieder aufgebaut"],
@@ -84,9 +81,8 @@ image: "/poi-images/kong-empire-mosques-history-v2.webp"
     type: "historical",
     parent: "CI-16",
     coords: [-3.2833, 5.1167],
-    name: { de: "Erste französische Siedlung in Assinie", hu: "Az első francia település Assinie-ben", ro: "Prima așezare franceză în Assinie", en: "First French settlement in Assinie",
-image: "/poi-images/assinie-mafia-settlement-history-v2.webp"
-},
+    name: { de: "Erste französische Siedlung in Assinie", hu: "Az első francia település Assinie-ben", ro: "Prima așezare franceză în Assinie", en: "First French settlement in Assinie"},
+    image: "/poi-images/assinie-mafia-settlement-history-v2.webp",
     description: { de: "Der Ort der ersten französischen Handelsstation und Mission an der Elfenbeinküste aus dem 17. Jahrhundert.", hu: "A 17. századi első francia kereskedelmi állomás és misszió helyszíne Elefántcsontparton.", ro: "Locul primului post comercial și al primei misiuni franceze din Coasta de Fildeș din secolul al XVII-lea.", en: "The site of the first French trading post and mission in Ivory Coast from the 17th century." },
     facts: {
       de: ["Gegründet im späten 17. Jahrhundert", "Erste christliche Mission", "Historisches Handelszentrum", "Wichtiger Küstenstützpunkt"],
@@ -106,9 +102,8 @@ image: "/poi-images/assinie-mafia-settlement-history-v2.webp"
     type: "historical",
     parent: "CI-01",
     coords: [-3.8833, 5.35],
-    name: { de: "Ehemalige Hauptstadt Bingerville", hu: "Bingerville egykori főváros", ro: "Fosta capitală Bingerville", en: "Former capital Bingerville",
-image: "/poi-images/bingerville-former-capital-history-v2.webp"
-},
+    name: { de: "Ehemalige Hauptstadt Bingerville", hu: "Bingerville egykori főváros", ro: "Fosta capitală Bingerville", en: "Former capital Bingerville"},
+    image: "/poi-images/bingerville-former-capital-history-v2.webp",
     description: { de: "War von 1900 bis 1934 die Hauptstadt der französischen Kolonie und beherbergt den ehemaligen Gouverneurspalast.", hu: "1900 és 1934 között a francia gyarmat fővárosa volt, és itt található az egykori kormányzói palota.", ro: "A fost capitala coloniei franceze din 1900 până în 1934 și găzduiește fostul palat al guvernatorului.", en: "Was the capital of the French colony from 1900 to 1934 and houses the former governor's palace." },
     facts: {
       de: ["Hauptstadt 1900-1934", "Palast des französischen Gouverneurs", "Benannt nach Louis Gustave Binger", "Historisches Verwaltungszentrum"],
@@ -128,9 +123,8 @@ image: "/poi-images/bingerville-former-capital-history-v2.webp"
     type: "historical",
     parent: "CI-07",
     coords: [-5.2, 7.15],
-    name: { de: "Historisches Zentrum von Tiébissou", hu: "Tiébissou történelmi központja", ro: "Centrul istoric Tiébissou", en: "Historic Center of Tiébissou",
-image: "/poi-images/tiebissou-resistance-history-v2.webp"
-},
+    name: { de: "Historisches Zentrum von Tiébissou", hu: "Tiébissou történelmi központja", ro: "Centrul istoric Tiébissou", en: "Historic Center of Tiébissou"},
+    image: "/poi-images/tiebissou-resistance-history-v2.webp",
     description: { de: "Eine Region, die eine Schlüsselrolle im antikolonialen Widerstand von Samori Ture im 19. Jahrhundert spielte.", hu: "A régió kulcsszerepet játszott Samori Ture 19. századi gyarmatosításellenes ellenállásában.", ro: "O regiune care a jucat un rol cheie în rezistența anticolonială a lui Samori Ture din secolul al XIX-lea.", en: "A region that played a key role in the anti-colonial resistance of Samori Ture in the 19th century." },
     facts: {
       de: ["Zentrum des Baoulé-Widerstands", "Schlachtort gegen französische Truppen", "Historische Handelsroute", "Kulturelles Erbe der Akan"],
@@ -150,9 +144,8 @@ image: "/poi-images/tiebissou-resistance-history-v2.webp"
     type: "historical",
     parent: "CI-08",
     coords: [-2.8, 8.0333],
-    name: { de: "Stadt der 1000 Moscheen Bondoukou", hu: "Bondoukou az 1000 mecset városa", ro: "Orașul celor 1000 de moschei Bondoukou", en: "City of 1000 Mosques Bondoukou",
-image: "/poi-images/bondoukou-mosques-history-v2.webp"
-},
+    name: { de: "Stadt der 1000 Moscheen Bondoukou", hu: "Bondoukou az 1000 mecset városa", ro: "Orașul celor 1000 de moschei Bondoukou", en: "City of 1000 Mosques Bondoukou"},
+    image: "/poi-images/bondoukou-mosques-history-v2.webp",
     description: { de: "Ein altes islamisches Handels- und Bildungszentrum im Nordosten der Elfenbeinküste.", hu: "Egy régi iszlám kereskedelmi és oktatási központ Elefántcsontpart északkeleti részén.", ro: "Un vechi centru islamic de comerț și educație în nord-estul Coastei de Fildeș.", en: "An ancient Islamic trade and educational center in northeastern Ivory Coast." },
     facts: {
       de: ["Ehemaliges Transsahara-Handelszentrum", "Bekannt für traditionelle Moscheen", "Wichtige islamische Bildungsstätte", "Gegründet im 11. Jahrhundert"],
@@ -172,9 +165,8 @@ image: "/poi-images/bondoukou-mosques-history-v2.webp"
     type: "historical",
     parent: "CI-08",
     coords: [-3.0, 9.2667],
-    name: { de: "Königreich Bouna", hu: "Bouna Királyság", ro: "Regatul Bouna", en: "Bouna Kingdom",
-image: "/poi-images/bouna-kingdom-history-v2.webp"
-},
+    name: { de: "Königreich Bouna", hu: "Bouna Királyság", ro: "Regatul Bouna", en: "Bouna Kingdom"},
+    image: "/poi-images/bouna-kingdom-history-v2.webp",
     description: { de: "Der historische Sitz eines mächtigen vorkolonialen Reiches, das im 17. Jahrhundert gegründet wurde.", hu: "Egy hatalmas, a 17. században alapított gyarmatosítás előtti birodalom történelmi székhelye.", ro: "Sediul istoric al unui puternic imperiu precolonial fondat în secolul al XVII-lea.", en: "The historic seat of a powerful pre-colonial empire founded in the 17th century." },
     facts: {
       de: ["Gegründet von König Bounkani", "Kontrollierte den Goldhandel", "Historischer Königspalast", "Teil der Mande-Kultur"],
@@ -194,9 +186,8 @@ image: "/poi-images/bouna-kingdom-history-v2.webp"
     type: "historical",
     parent: "CI-10",
     coords: [-7.5667, 9.5],
-    name: { de: "Odienné und das Grab von Vakaba Touré", hu: "Odienné és Vakaba Touré sírja", ro: "Odienné și mormântul lui Vakaba Touré", en: "Odienné and Vakaba Touré's Tomb",
-image: "/poi-images/odienne-vakaba-toure-history-v2.webp"
-},
+    name: { de: "Odienné und das Grab von Vakaba Touré", hu: "Odienné és Vakaba Touré sírja", ro: "Odienné și mormântul lui Vakaba Touré", en: "Odienné and Vakaba Touré's Tomb"},
+    image: "/poi-images/odienne-vakaba-toure-history-v2.webp",
     description: { de: "Die Stadt war im 19. Jahrhundert die Hauptstadt des von Vakaba Touré gegründeten Reiches Kabadougou.", hu: "A város a 19. században a Vakaba Touré által alapított Kabadougou birodalom fővárosa volt.", ro: "Orașul a fost capitala imperiului Kabadougou fondat de Vakaba Touré în secolul al XIX-lea.", en: "The city was the capital of the Kabadougou empire founded by Vakaba Touré in the 19th century." },
     facts: {
       de: ["Hauptstadt von Kabadougou", "Grab von Vakaba Touré", "Wichtiger Ort für Malinke-Geschichte", "Zentrum der Gold- und Salzrouten"],
@@ -216,9 +207,8 @@ image: "/poi-images/odienne-vakaba-toure-history-v2.webp"
     type: "historical",
     parent: "CI-12",
     coords: [-7.55, 7.4],
-    name: { de: "Historisches Zentrum von Man", hu: "Man történelmi központja", ro: "Centrul istoric din Man", en: "Historic Center of Man",
-image: "/poi-images/man-colonial-history-v2.webp"
-},
+    name: { de: "Historisches Zentrum von Man", hu: "Man történelmi központja", ro: "Centrul istoric din Man", en: "Historic Center of Man"},
+    image: "/poi-images/man-colonial-history-v2.webp",
     description: { de: "Ein wichtiger administrativer und militärischer Stützpunkt während der französischen Kolonialzeit in der westlichen Bergregion.", hu: "Fontos közigazgatási és katonai bázis volt a francia gyarmati időszakban a nyugati hegyvidéken.", ro: "O importantă bază administrativă și militară în timpul perioadei coloniale franceze în regiunea muntoasă vestică.", en: "An important administrative and military base during the French colonial period in the western mountain region." },
     facts: {
       de: ["Militärposten ab 1900", "Zentrum der Dan-Kultur", "Wichtiger Ort für Kaffeehandel", "Ehemalige Garnisonsstadt"],
@@ -238,9 +228,8 @@ image: "/poi-images/man-colonial-history-v2.webp"
     type: "historical",
     parent: "CI-14",
     coords: [-5.6333, 9.45],
-    name: { de: "Palast von Péléforo Gbon Coulibaly in Korhogo", hu: "Péléforo Gbon Coulibaly palotája Korhogoban", ro: "Palatul lui Péléforo Gbon Coulibaly din Korhogo", en: "Péléforo Gbon Coulibaly's Palace in Korhogo",
-image: "/poi-images/korhogo-gbon-palace-history-v2.webp"
-},
+    name: { de: "Palast von Péléforo Gbon Coulibaly in Korhogo", hu: "Péléforo Gbon Coulibaly palotája Korhogoban", ro: "Palatul lui Péléforo Gbon Coulibaly din Korhogo", en: "Péléforo Gbon Coulibaly's Palace in Korhogo"},
+    image: "/poi-images/korhogo-gbon-palace-history-v2.webp",
     description: { de: "Der historische Palast eines der einflussreichsten Anführer der Senufo im frühen 20. Jahrhundert.", hu: "A Senufo nép egyik legbefolyásosabb 20. század eleji vezetőjének történelmi palotája.", ro: "Palatul istoric al unuia dintre cei mai influenți lideri Senufo de la începutul secolului al XX-lea.", en: "The historic palace of one of the most influential leaders of the Senufo in the early 20th century." },
     facts: {
       de: ["Residenz des Senufo-Oberhaupts", "Politisch wichtiges Zentrum", "Gbon Coulibaly kooperierte mit Frankreich", "Erhält traditionelle Architektur"],
@@ -260,9 +249,8 @@ image: "/poi-images/korhogo-gbon-palace-history-v2.webp"
     type: "historical",
     parent: "CI-16",
     coords: [-4.3833, 5.3167],
-    name: { de: "Fort Faidherbe in Dabou", hu: "Faidherbe erőd Dabou-ban", ro: "Fortul Faidherbe din Dabou", en: "Fort Faidherbe in Dabou",
-image: "/poi-images/dabou-fort-faidherbe-history-v2.webp"
-},
+    name: { de: "Fort Faidherbe in Dabou", hu: "Faidherbe erőd Dabou-ban", ro: "Fortul Faidherbe din Dabou", en: "Fort Faidherbe in Dabou"},
+    image: "/poi-images/dabou-fort-faidherbe-history-v2.webp",
     description: { de: "Eine 1853 erbaute französische Festung, die zur Sicherung der kolonialen Kontrolle an der Lagune diente.", hu: "A Louis Faidherbe által 1853-ban alapított erődítmény Dabou városában a francia katonai jelenlét egyik fontos bástyája volt.", ro: "O fortăreață franceză construită în 1853 pentru a asigura controlul colonial pe lagună.", en: "A French fortress built in 1853 to secure colonial control on the lagoon." },
     facts: {
       de: ["Erbaut von Louis Faidherbe", "Militärischer Außenposten", "Wichtig im Handel", "Gut erhaltenes koloniales Fort"],
@@ -282,9 +270,8 @@ image: "/poi-images/dabou-fort-faidherbe-history-v2.webp"
     type: "historical",
     parent: "CI-03",
     coords: [-6.0833, 4.95],
-    name: { de: "Gouverneurspalast und Kai von Sassandra", hu: "Kormányzói palota és rakpart Sassandrában", ro: "Palatul Guvernatorului și Debarcaderul din Sassandra", en: "Governor's Palace and Wharf of Sassandra",
-image: "/poi-images/sassandra-governors-palace-history-v2.webp"
-},
+    name: { de: "Gouverneurspalast und Kai von Sassandra", hu: "Kormányzói palota és rakpart Sassandrában", ro: "Palatul Guvernatorului și Debarcaderul din Sassandra", en: "Governor's Palace and Wharf of Sassandra"},
+    image: "/poi-images/sassandra-governors-palace-history-v2.webp",
     description: { de: "Ein markantes Gebäude aus der Kolonialzeit, das auf einem Hügel über der Stadt Sassandra thront.", hu: "A korai gyarmati kikötői infrastruktúra és közigazgatás maradványai Sassandrában, az Atlanti-óceán partján.", ro: "Rămășițele primei infrastructuri portuare coloniale și a administrației din Sassandra pe Atlantic.", en: "Remains of early colonial port infrastructure and administration in Sassandra on the Atlantic." },
     facts: {
       de: ["Baujahr um 1893", "Blick auf den Golf von Guinea", "Ehemaliger Verwaltungssitz"],
@@ -304,9 +291,8 @@ image: "/poi-images/sassandra-governors-palace-history-v2.webp"
     type: "historical",
     parent: "CI-03",
     coords: [-6.6333, 4.75],
-    name: { de: "Historische Hafenstadt San-Pédro", hu: "San-Pédro történelmi kikötővárosa", ro: "Orașul portuar istoric San Pédro", en: "Historic Port City of San Pédro",
-image: "/poi-images/san-pedro-historic-origins-history-v2.webp"
-},
+    name: { de: "Historische Hafenstadt San-Pédro", hu: "San-Pédro történelmi kikötővárosa", ro: "Orașul portuar istoric San Pédro", en: "Historic Port City of San Pédro"},
+    image: "/poi-images/san-pedro-historic-origins-history-v2.webp",
     description: { de: "Ursprünglich ein kleines Fischerdorf, das in den 1960er Jahren als strategisches Regierungsprojekt massiv ausgebaut wurde.", hu: "Eredetileg egy kis halászfalu, amelyet az 1960-as években stratégiai kormányzati projektként jelentősen kibővítettek.", ro: "Inițial un mic sat de pescari, care a fost extins masiv în anii 1960 ca proiect strategic guvernamental.", en: "Originally a small fishing village that was massively expanded in the 1960s as a strategic government project." },
     facts: {
       de: ["Port-Chocolat genannt", "Zweitgrößter Hafen des Landes", "Zentrum des Kakaoexports", "Ehemalige portugiesische Präsenz"],
@@ -326,9 +312,8 @@ image: "/poi-images/san-pedro-historic-origins-history-v2.webp"
     type: "historical",
     parent: "CI-16",
     coords: [-4.7, 5.25],
-    name: { de: "Historisches Pfahldorf Tiagba", hu: "Tiagba történelmi cölöpfaluja", ro: "Satul istoric pe piloni Tiagba", en: "Historic Stilt Village of Tiagba",
-image: "/poi-images/tiagba-stilt-village-history-v2.webp"
-},
+    name: { de: "Historisches Pfahldorf Tiagba", hu: "Tiagba történelmi cölöpfaluja", ro: "Satul istoric pe piloni Tiagba", en: "Historic Stilt Village of Tiagba"},
+    image: "/poi-images/tiagba-stilt-village-history-v2.webp",
     description: { de: "Ein traditionelles Dorf auf Pfählen in der Ébrié-Lagune, das die vorkoloniale Lebensweise der Küstenvölker bewahrt hat.", hu: "Egy hagyományos cölöpfalu az Ébrié-lagúnában, amely megőrizte a part menti népek gyarmatosítás előtti életmódját.", ro: "Tiagba este un sat istoric unic situat pe piloni în laguna Ébrié, reflectând adaptarea tradițională a poporului Ahizi la mediul acvatic.", en: "A traditional stilt village in the Ébrié Lagoon that has preserved the pre-colonial way of life of coastal peoples." },
     facts: {
       de: ["Häuser auf Stelzen", "Kultur der Ahizi", "Schutz vor feindlichen Angriffen", "Eine der letzten solchen Siedlungen"],
@@ -348,9 +333,8 @@ image: "/poi-images/tiagba-stilt-village-history-v2.webp"
     type: "historical",
     parent: "CI-14",
     coords: [-6.4, 10.4833],
-    name: { de: "Alte Moschee von Tengréla", hu: "Tengréla régi mecsetje", ro: "Vechea moschee din Tengréla", en: "Old Mosque of Tengréla",
-image: "/poi-images/tengrela-historic-mosque-history-v2.webp"
-},
+    name: { de: "Alte Moschee von Tengréla", hu: "Tengréla régi mecsetje", ro: "Vechea moschee din Tengréla", en: "Old Mosque of Tengréla"},
+    image: "/poi-images/tengrela-historic-mosque-history-v2.webp",
     description: { de: "Eine gut erhaltene kleine Moschee im sudanesischen Stil an den alten Karawanenrouten nach Mali.", hu: "Egy jól megőrzött kis szudáni stílusú mecset a Maliba vezető régi karavánutakon.", ro: "O mică moschee bine conservată, în stil sudanez, pe vechile rute ale caravanelor spre Mali.", en: "A well-preserved small Sudanese-style mosque on the old caravan routes to Mali." },
     facts: {
       de: ["Lehmziegelarchitektur", "Islamisches Erbe im Norden", "Station auf der Salz- und Goldroute", "Wichtiger Ort für Gelehrte"],
@@ -370,9 +354,8 @@ image: "/poi-images/tengrela-historic-mosque-history-v2.webp"
     type: "historical",
     parent: "CI-14",
     coords: [-6.15, 9.75],
-    name: { de: "Traditionelles Senufo-Dorf Niofoin", hu: "Niofoin hagyományos Senufo falva", ro: "Satul tradițional Senufo Niofoin", en: "Traditional Senufo Village of Niofoin",
-image: "/poi-images/niofoin-senufo-village-history-v2.webp"
-},
+    name: { de: "Traditionelles Senufo-Dorf Niofoin", hu: "Niofoin hagyományos Senufo falva", ro: "Satul tradițional Senufo Niofoin", en: "Traditional Senufo Village of Niofoin"},
+    image: "/poi-images/niofoin-senufo-village-history-v2.webp",
     description: { de: "Ein historisch intaktes Senufo-Dorf, das berühmt für seine alten Fetischhäuser und Riten ist.", hu: "Történelmileg érintetlen Senufo falu, amely a régi fétisházairól és rítusairól híres.", ro: "Un sat Senufo intact din punct de vedere istoric, faimos pentru vechile sale case de fetișuri și ritualuri.", en: "A historically intact Senufo village famous for its old fetish houses and rites." },
     facts: {
       de: ["Zentrum des Animismus", "Typische Rundhütten", "Heiliger Hain Poro", "Traditionelle Handwerkskunst"],
@@ -392,9 +375,8 @@ image: "/poi-images/niofoin-senufo-village-history-v2.webp"
     type: "historical",
     parent: "CI-01",
     coords: [-4.05, 5.4833],
-    name: { de: "Eisenbahnstadt Anyama", hu: "Anyama vasútváros", ro: "Orașul feroviar Anyama", en: "Railway Town Anyama",
-image: "/poi-images/anyama-railway-town-history-v2.webp"
-},
+    name: { de: "Eisenbahnstadt Anyama", hu: "Anyama vasútváros", ro: "Orașul feroviar Anyama", en: "Railway Town Anyama"},
+    image: "/poi-images/anyama-railway-town-history-v2.webp",
     description: { de: "Ein wichtiger Knotenpunkt der historischen Eisenbahnlinie Abidjan-Ouagadougou, die von den Franzosen erbaut wurde.", hu: "A franciák által épített történelmi Abidjan-Ouagadougou vasútvonal fontos csomópontja.", ro: "Un nod important al liniei feroviare istorice Abidjan-Ouagadougou construită de francezi.", en: "An important hub of the historic Abidjan-Ouagadougou railway line built by the French." },
     facts: {
       de: ["Wichtige Station der Abidjan-Niger-Bahn", "Katalysator für lokalen Handel", "Alte koloniale Bahnhofsgebäude", "Cola-Nuss-Produktionszentrum"],
@@ -414,9 +396,8 @@ image: "/poi-images/anyama-railway-town-history-v2.webp"
     type: "historical",
     parent: "CI-04",
     coords: [-5.0333, 7.6833],
-    name: { de: "Französischer Militärposten Bouaké", hu: "Bouaké francia katonai állomása", ro: "Postul militar francez Bouaké", en: "French Military Post Bouaké",
-image: "/poi-images/bouake-military-post-history-v2.webp"
-},
+    name: { de: "Französischer Militärposten Bouaké", hu: "Bouaké francia katonai állomása", ro: "Postul militar francez Bouaké", en: "French Military Post Bouaké"},
+    image: "/poi-images/bouake-military-post-history-v2.webp",
     description: { de: "1899 gegründet, diente die Stadt als zentraler militärischer und später administrativer Stützpunkt in Landesmitte.", hu: "Az 1899-ben alapított város központi katonai, később közigazgatási bázisként szolgált az ország közepén.", ro: "Fondat în 1899 ca post militar strategic, Bouaké a devenit al doilea oraș ca mărime al țării și un centru industrial esențial.", en: "Founded in 1899, the city served as a central military and later administrative base in the middle of the country." },
     facts: {
       de: ["Gegründet im Jahr 1899", "Zweitgrößte Stadt der Elfenbeinküste", "Wichtiger Knotenpunkt für Baoulé", "Ehemaliges Kolonialverwaltungszentrum"],
@@ -436,9 +417,8 @@ image: "/poi-images/bouake-military-post-history-v2.webp"
     type: "historical",
     parent: "CI-09",
     coords: [-7.6833, 8.2833],
-    name: { de: "Historisches Zentrum von Touba", hu: "Touba történelmi központja", ro: "Centrul istoric din Touba", en: "Historic Center of Touba",
-image: "/poi-images/touba-fadika-center-history-v2.webp"
-},
+    name: { de: "Historisches Zentrum von Touba", hu: "Touba történelmi központja", ro: "Centrul istoric din Touba", en: "Historic Center of Touba"},
+    image: "/poi-images/touba-fadika-center-history-v2.webp",
     description: { de: "Eine Stadt, die tief in der Geschichte des Mahou-Volkes und islamischer Gelehrter, wie der Fadika-Familie, verwurzelt ist.", hu: "Egy város, amely mélyen gyökerezik a Mahou nép és az iszlám tudósok, mint például a Fadika család történetében.", ro: "Centrul istoric din Touba este vatra spirituală a poporului Mahouka, fiind un centru important de învățătură islamică și comerț regional.", en: "A city deeply rooted in the history of the Mahou people and Islamic scholars, such as the Fadika family." },
     facts: {
       de: ["Zentrum der Mahou", "Islamische Tradition seit Jahrhunderten", "Einflussreiche Fadika-Familie", "Historische Koranschulen"],
@@ -458,9 +438,8 @@ image: "/poi-images/touba-fadika-center-history-v2.webp"
     type: "historical",
     parent: "CI-12",
     coords: [-6.6667, 7.95],
-    name: { de: "Altes Diamantenzentrum Séguéla", hu: "A régi gyémántközpont, Séguéla", ro: "Vechiul centru de diamante Séguéla", en: "Old Diamond Center Séguéla",
-image: "/poi-images/seguela-diamond-trade-history-v2.webp"
-},
+    name: { de: "Altes Diamantenzentrum Séguéla", hu: "A régi gyémántközpont, Séguéla", ro: "Vechiul centru de diamante Séguéla", en: "Old Diamond Center Séguéla"},
+    image: "/poi-images/seguela-diamond-trade-history-v2.webp",
     description: { de: "Historisch bedeutend als eines der ersten Zentren für den Diamantenabbau und -handel an der Elfenbeinküste.", hu: "Történelmileg jelentős, mint Elefántcsontpart egyik első gyémántbányászati és -kereskedelmi központja.", ro: "Important din punct de vedere istoric ca fiind unul dintre primele centre de extracție și comerț cu diamante din Coasta de Fildeș.", en: "Historically significant as one of the first centers for diamond mining and trading in Ivory Coast." },
     facts: {
       de: ["Früher Diamantenabbau", "Zentrum der Worodougou", "Historische Bedeutung im Kolonialismus", "Handelspunkt im Westen"],
@@ -480,9 +459,8 @@ image: "/poi-images/seguela-diamond-trade-history-v2.webp"
     type: "historical",
     parent: "CI-16",
     coords: [-5.0167, 5.1333],
-    name: { de: "Kolonialstadt Grand-Lahou", hu: "Grand-Lahou gyarmati városa", ro: "Orașul colonial Grand-Lahou", en: "Colonial Town Grand-Lahou",
-image: "/poi-images/grand-lahou-old-town-history-v2.webp"
-},
+    name: { de: "Kolonialstadt Grand-Lahou", hu: "Grand-Lahou gyarmati városa", ro: "Orașul colonial Grand-Lahou", en: "Colonial Town Grand-Lahou"},
+    image: "/poi-images/grand-lahou-old-town-history-v2.webp",
     description: { de: "Die alte koloniale Siedlung, die heute aufgrund von Küstenerosion langsam im Meer versinkt.", hu: "A régi gyarmati település, amely ma a partmenti erózió miatt lassan a tengerbe süllyed.", ro: "Vechea așezare colonială, care astăzi se scufundă încet în mare din cauza eroziunii costiere.", en: "The old colonial settlement, which is now slowly sinking into the sea due to coastal erosion." },
     facts: {
       de: ["Alte Kolonialgebäude", "Durch Erosion bedroht", "Ehemaliger Handelsposten", "Bekannt als das 'Venedig der Elfenbeinküste'"],
@@ -502,9 +480,8 @@ image: "/poi-images/grand-lahou-old-town-history-v2.webp"
     type: "historical",
     parent: "CI-04",
     coords: [-5.1, 8.1333],
-    name: { de: "Historisches Töpferzentrum Katiola", hu: "Katiola történelmi fazekasközpontja", ro: "Centrul istoric de olărit Katiola", en: "Historic Pottery Center Katiola",
-image: "/poi-images/katiola-colonial-history-v2.webp"
-},
+    name: { de: "Historisches Töpferzentrum Katiola", hu: "Katiola történelmi fazekasközpontja", ro: "Centrul istoric de olărit Katiola", en: "Historic Pottery Center Katiola"},
+    image: "/poi-images/katiola-colonial-history-v2.webp",
     description: { de: "Neben seiner kolonialen Bedeutung ist Katiola ein historisches Zentrum der traditionellen Töpferkunst der Mangoro-Frauen.", hu: "Közép-Elefántcsontpart városa, amely a gyarmati időkben fontos kereskedelmi és közigazgatási csomópontként szolgált.", ro: "Pe lângă importanța sa colonială, Katiola este un centru istoric al ceramicii tradiționale a femeilor Mangoro.", en: "In addition to its colonial significance, Katiola is a historic center of the traditional pottery of the Mangoro women." },
     facts: {
       de: ["Mangoro-Töpferkunst", "Historischer Eisenbahnanschluss", "Kolonialer Marktort", "Zentrum der Tagwana-Kultur"],
@@ -524,9 +501,8 @@ image: "/poi-images/katiola-colonial-history-v2.webp"
     type: "historical",
     parent: "CI-02",
     coords: [-6.45, 6.8833],
-    name: { de: "Handelsposten Daloa", hu: "Daloa kereskedelmi állomás", ro: "Postul comercial Daloa", en: "Trading Post Daloa",
-image: "/poi-images/daloa-trading-post-history-v2.webp"
-},
+    name: { de: "Handelsposten Daloa", hu: "Daloa kereskedelmi állomás", ro: "Postul comercial Daloa", en: "Trading Post Daloa"},
+    image: "/poi-images/daloa-trading-post-history-v2.webp",
     description: { de: "Daloa entwickelte sich während der Kolonialzeit zu einem zentralen Umschlagplatz für Kakao und Kaffee im Westen.", hu: "Daloa a gyarmati időszakban a kakaó és a kávé központi elosztóhelyévé fejlődött nyugaton.", ro: "Daloa s-a dezvoltat într-un centru principal pentru cacao și cafea în vest în timpul perioadei coloniale.", en: "Daloa developed into a central hub for cocoa and coffee in the west during the colonial period." },
     facts: {
       de: ["Zentrum des Bété-Volkes", "Wichtiger Agrarmarkt", "Kolonialzeitliche Expansion", "Hauptstadt von Haut-Sassandra"],
@@ -546,9 +522,8 @@ image: "/poi-images/daloa-trading-post-history-v2.webp"
     type: "historical",
     parent: "CI-05",
     coords: [-3.5, 6.7333],
-    name: { de: "Königspalast von Indénié in Abengourou", hu: "Az Indénié királyi palota Abengourou-ban", ro: "Palatul Regal Indénié din Abengourou", en: "Royal Palace of Indénié in Abengourou",
-image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp"
-},
+    name: { de: "Königspalast von Indénié in Abengourou", hu: "Az Indénié királyi palota Abengourou-ban", ro: "Palatul Regal Indénié din Abengourou", en: "Royal Palace of Indénié in Abengourou"},
+    image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp",
     description: { de: "Der Palast des Königs des Indénié-Reiches, das im 18. Jahrhundert von den Akan-Flüchtlingen aus Ghana gegründet wurde.", hu: "Az Indénié Birodalom királyának palotája, amelyet a Ghánából menekülő akanok alapítottak a 18. században.", ro: "Abengourou găzduiește palatul regal al Regatului Indénié, păstrând tradițiile vii ale poporului Agni și structura politică Akan.", en: "Abengourou is the seat of the traditional Indenie kingdom and home to the royal palace built in 1882. The city serves as a major cultural center for the Agni people." },
     facts: {
       de: ["Agni-Volksstamm", "Akan-Traditionen", "Königspalast erbaut in den 1880ern", "Reiches kulturelles Erbe"],
@@ -568,9 +543,8 @@ image: "/poi-images/abengourou-indenie-kingdom-history-v2.webp"
     type: "historical",
     parent: "CI-14",
     coords: [-5.2, 9.6],
-    name: { de: "Historische Marktstadt Ferkessédougou", hu: "Ferkessédougou történelmi mezővárosa", ro: "Orașul comercial istoric Ferkessédougou", en: "Historic Market Town of Ferkessédougou",
-image: "/poi-images/ferkessedougou-historic-town-history-v2.webp"
-},
+    name: { de: "Historische Marktstadt Ferkessédougou", hu: "Ferkessédougou történelmi mezővárosa", ro: "Orașul comercial istoric Ferkessédougou", en: "Historic Market Town of Ferkessédougou"},
+    image: "/poi-images/ferkessedougou-historic-town-history-v2.webp",
     description: { de: "Ein alter Marktplatz und späterer wichtiger Eisenbahnknotenpunkt für Rinder- und Agrarhandel im Norden.", hu: "Régi piactér, később a szarvasmarha- és agrárkereskedelem fontos vasúti csomópontja északon.", ro: "O veche piață și, mai târziu, un important nod feroviar pentru comerțul cu vite și produse agricole în nord.", en: "An old marketplace and later an important railway junction for cattle and agricultural trade in the north." },
     facts: {
       de: ["Wichtiger Viehmarkt", "Eisenbahnstation der Kolonialzeit", "Niarafolo-Kultur", "Zentrum des Baumwollanbaus"],
@@ -590,9 +564,8 @@ image: "/poi-images/ferkessedougou-historic-town-history-v2.webp"
     type: "historical",
     parent: "CI-16",
     coords: [-4.4167, 5.2],
-    name: { de: "Koloniale Lagerhäuser von Jacqueville", hu: "Jacqueville gyarmati raktárai", ro: "Depozitele coloniale din Jacqueville", en: "Colonial Warehouses of Jacqueville",
-image: "/poi-images/jacqueville-colonial-history-v2.webp"
-},
+    name: { de: "Koloniale Lagerhäuser von Jacqueville", hu: "Jacqueville gyarmati raktárai", ro: "Depozitele coloniale din Jacqueville", en: "Colonial Warehouses of Jacqueville"},
+    image: "/poi-images/jacqueville-colonial-history-v2.webp",
     description: { de: "Ein historisches Zentrum des Palmölhandels, bekannt für seine britischen und französischen kolonialen Lagerhäuser.", hu: "A pálmaolaj-kereskedelem történelmi központja, amely brit és francia gyarmati raktárairól ismert.", ro: "Un centru istoric al comerțului cu ulei de palmier, cunoscut pentru depozitele sale coloniale britanice și franceze.", en: "A historic center of the palm oil trade, known for its British and French colonial warehouses." },
     facts: {
       de: ["Ehemaliger Name: Half Jack", "Palmöl-Exportzentrum", "Überreste britischer Architektur", "Lagunensiedlung"],
@@ -612,9 +585,8 @@ image: "/poi-images/jacqueville-colonial-history-v2.webp"
     type: "historical",
     parent: "CI-16",
     coords: [-4.2167, 5.9333],
-    name: { de: "Agboville und der Abbey-Aufstand", hu: "Agboville és az Abbey-lázadás", ro: "Agboville și revolta Abbey", en: "Agboville and the Abbey Revolt",
-image: "/poi-images/agboville-abbey-revolt-history-v2.webp"
-},
+    name: { de: "Agboville und der Abbey-Aufstand", hu: "Agboville és az Abbey-lázadás", ro: "Agboville și revolta Abbey", en: "Agboville and the Abbey Revolt"},
+    image: "/poi-images/agboville-abbey-revolt-history-v2.webp",
     description: { de: "Der historische Ort des großen Aufstands der Abbey-Bevölkerung 1910 gegen die französische Kolonialherrschaft.", hu: "Az Abbey lakosság 1910-es, a francia gyarmati uralom elleni nagy felkelésének történelmi helyszíne.", ro: "Situl istoric al marii revolte a populației Abbey din 1910 împotriva dominației coloniale franceze.", en: "The historic site of the great revolt of the Abbey population in 1910 against French colonial rule." },
     facts: {
       de: ["Aufstand gegen Zwangsarbeit 1910", "Zentrum der Abbey", "Früher Eisenbahnanschluss", "Hauptstadt von Agnéby-Tiassa"],
@@ -634,9 +606,8 @@ image: "/poi-images/agboville-abbey-revolt-history-v2.webp"
     type: "historical",
     parent: "CI-07",
     coords: [-4.7, 6.65],
-    name: { de: "Historisches Viadukt von Dimbokro", hu: "Dimbokro történelmi viaduktja", ro: "Viaductul istoric din Dimbokro", en: "Historic Viaduct of Dimbokro",
-image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp"
-},
+    name: { de: "Historisches Viadukt von Dimbokro", hu: "Dimbokro történelmi viaduktja", ro: "Viaductul istoric din Dimbokro", en: "Historic Viaduct of Dimbokro"},
+    image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp",
     description: { de: "Ein bedeutendes koloniales Eisenbahnviadukt, das den N'Zi-Fluss überspannt und für die Erschließung des Landes wichtig war.", hu: "Egy jelentős gyarmati vasúti viadukt, amely az N'Zi-folyón ível át, és fontos volt az ország fejlesztése szempontjából.", ro: "Un viaduct feroviar colonial semnificativ care se întinde peste râul N'Zi și a fost important pentru dezvoltarea țării.", en: "A significant colonial railway viaduct spanning the N'Zi River, which was important for the development of the country." },
     facts: {
       de: ["Viadukt von 1910", "Überspannt den Fluss N'Zi", "Eisenbahnlinie Abidjan-Niger", "Ort eines anticolonialen Protests 1950"],
@@ -656,9 +627,8 @@ image: "/poi-images/dimbokro-historic-viaduct-history-v2.webp"
     type: "historical",
     parent: "CI-02",
     coords: [-5.95, 6.1333],
-    name: { de: "Historisches Zentrum von Gagnoa", hu: "Gagnoa történelmi központja", ro: "Centrul istoric din Gagnoa", en: "Historic Center of Gagnoa",
-image: "/poi-images/gagnoa-bete-center-history-v2.webp"
-},
+    name: { de: "Historisches Zentrum von Gagnoa", hu: "Gagnoa történelmi központja", ro: "Centrul istoric din Gagnoa", en: "Historic Center of Gagnoa"},
+    image: "/poi-images/gagnoa-bete-center-history-v2.webp",
     description: { de: "Gagnoa ist ein wichtiges historisches Zentrum der Bété und spielte eine große Rolle in der politischen Geschichte des Landes.", hu: "Gagnoa a Bété nép fontos történelmi központja, és jelentős szerepet játszott az ország politikai történetében.", ro: "Gagnoa este un important centru istoric al poporului Bété și a jucat un rol major în istoria politică a țării.", en: "Gagnoa is an important historical center of the Bété people and played a major role in the political history of the country." },
     facts: {
       de: ["Zentrum des Bété-Volkes", "Schauplatz politischer Krisen (1970er)", "Ehemaliges koloniales Verwaltungszentrum", "Hauptstadt von Gôh"],

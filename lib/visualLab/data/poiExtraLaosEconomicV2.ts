@@ -6,9 +6,8 @@ export const poiExtraLaosEconomicV2: POI[] = [
     type: "energy",
     parent: "LA-KH",
     coords: [104.9833, 17.6500],
-    name: { de: "Nam Theun 2 Wasserkraftwerk", hu: "Nam Theun 2 Vízerőmű", ro: "Hidrocentrala Nam Theun 2", en: "Nam Theun 2 Hydropower Plant",
-image: "/poi-images/nam-theun-2-dam-economic-v2.webp"
-},
+    name: { de: "Nam Theun 2 Wasserkraftwerk", hu: "Nam Theun 2 Vízerőmű", ro: "Hidrocentrala Nam Theun 2", en: "Nam Theun 2 Hydropower Plant"},
+    image: "/poi-images/nam-theun-2-dam-economic-v2.webp",
     description: { de: "Eines der größten und umstrittensten Wasserkraftprojekte in Laos, das am Fluss Nam Theun gebaut wurde, um Strom hauptsächlich nach Thailand zu exportieren.", hu: "Laosz egyik legnagyobb és legvitatottabb vízerőműve, amely a Nam Theun folyón épült, elsősorban a Thaiföldre történő áramexport céljából.", ro: "Unul dintre cele mai mari și controversate proiecte hidroenergetice din Laos, construit pe râul Nam Theun pentru a exporta energie electrică în principal în Thailanda.", en: "One of the largest and most controversial hydropower projects in Laos, built on the Nam Theun River to export electricity primarily to Thailand." },
     facts: {
       de: ["Wurde 2010 in Betrieb genommen.", "Exportiert 95 Prozent des Stroms nach Thailand.", "Ein bedeutender Beitrag zur laotischen Wirtschaft."],
@@ -34,9 +33,8 @@ image: "/poi-images/nam-theun-2-dam-economic-v2.webp"
     type: "energy",
     parent: "LA-XA",
     coords: [101.8152, 19.2430],
-    name: { de: "Xayaburi-Staudamm", hu: "Xayaburi Gát", ro: "Barajul Xayaburi", en: "Xayaburi Dam",
-image: "/poi-images/xayaburi-dam-economic-v2.webp"
-},
+    name: { de: "Xayaburi-Staudamm", hu: "Xayaburi Gát", ro: "Barajul Xayaburi", en: "Xayaburi Dam"},
+    image: "/poi-images/xayaburi-dam-economic-v2.webp",
     description: { de: "Ein gigantisches Laufwasserkraftwerk am unteren Mekong, das trotz ökologischer Bedenken hinsichtlich der Fischwanderung und Sedimentation gebaut wurde.", hu: "Egy gigantikus folyóvízi erőmű az alsó Mekongon, amely a halak vándorlásával és az üledékesedéssel kapcsolatos ökológiai aggályok ellenére épült.", ro: "Un proiect hidroenergetic uriaș pe cursul inferior al Mekongului, construit în ciuda îngrijorărilor ecologice privind migrația peștilor și sedimentarea.", en: "A massive run-of-the-river hydroelectric power plant on the lower Mekong, built despite ecological concerns regarding fish migration and sedimentation." },
     facts: {
       de: ["Erstes Wasserkraftwerk am Hauptstrom des unteren Mekong.", "Produziert 1285 Megawatt Strom.", "Die Bauarbeiten wurden 2019 abgeschlossen."],
@@ -62,9 +60,8 @@ image: "/poi-images/xayaburi-dam-economic-v2.webp"
     type: "mine",
     parent: "LA-SV",
     coords: [105.9750, 16.9416],
-    name: { de: "Sepon-Kupfer- und Goldmine", hu: "Sepon Réz- és Aranybánya", ro: "Mina de Cupru și Aur Sepon", en: "Sepon Copper and Gold Mine",
-image: "/poi-images/sepon-mine-economic-v2.webp"
-},
+    name: { de: "Sepon-Kupfer- und Goldmine", hu: "Sepon Réz- és Aranybánya", ro: "Mina de Cupru și Aur Sepon", en: "Sepon Copper and Gold Mine"},
+    image: "/poi-images/sepon-mine-economic-v2.webp",
     description: { de: "Eine der größten und wichtigsten Minen des Landes, die hochwertige Kupferkathoden und Gold produziert und Tausende von Arbeitsplätzen in der Region schafft.", hu: "Az ország egyik legnagyobb és legfontosabb bányája, amely kiváló minőségű rézkatódokat és aranyat termel, munkahelyek ezreit teremtve a régióban.", ro: "Una dintre cele mai mari și mai importante mine din țară, care produce catozi de cupru de înaltă calitate și aur, creând mii de locuri de muncă.", en: "One of the country's largest and most important mines, producing high-quality copper cathodes and gold, creating thousands of jobs in the region." },
     facts: {
       de: ["Befindet sich in der Provinz Savannakhet.", "Hat die laotische Bergbauindustrie revolutioniert.", "Zählt zu den größten Arbeitgebern im privaten Sektor."],
@@ -90,9 +87,8 @@ image: "/poi-images/sepon-mine-economic-v2.webp"
     type: "mine",
     parent: "LA-XI",
     coords: [102.8333, 18.9833],
-    name: { de: "Kupfermine Phu Bia", hu: "Phu Bia Rézbánya", ro: "Mina de Cupru Phu Bia", en: "Phu Bia Copper Mine",
-image: "/poi-images/phu-bia-mine-economic-v2.webp"
-},
+    name: { de: "Kupfermine Phu Bia", hu: "Phu Bia Rézbánya", ro: "Mina de Cupru Phu Bia", en: "Phu Bia Copper Mine"},
+    image: "/poi-images/phu-bia-mine-economic-v2.webp",
     description: { de: "Ein bedeutendes Bergbauprojekt für Gold, Silber und Kupfer, betrieben von Phu Bia Mining, einem wichtigen Akteur für die wirtschaftliche Entwicklung in Laos.", hu: "Jelentős arany-, ezüst- és rézbányászati projekt, amelyet a Phu Bia Mining üzemeltet, amely fontos szereplője a laoszi gazdasági fejlődésnek.", ro: "Un proiect minier semnificativ pentru aur, argint și cupru, operat de Phu Bia Mining, un jucător cheie în dezvoltarea economică din Laos.", en: "A significant mining project for gold, silver, and copper, operated by Phu Bia Mining, a key player in the economic development of Laos." },
     facts: {
       de: ["Liegt in einer sehr abgelegenen Gebirgsregion.", "Fördert jährlich Tausende Tonnen Kupfer.", "Investiert stark in die lokale Infrastruktur."],
@@ -118,9 +114,8 @@ image: "/poi-images/phu-bia-mine-economic-v2.webp"
     type: "trade-hub",
     parent: "LA-VT",
     coords: [102.6680, 17.8630],
-    name: { de: "Vientiane Logistikpark", hu: "Vientiane Logisztikai Park", ro: "Parcul Logistic Vientiane", en: "Vientiane Logistics Park",
-image: "/poi-images/vientiane-logistics-park-economic-v2.webp"
-},
+    name: { de: "Vientiane Logistikpark", hu: "Vientiane Logisztikai Park", ro: "Parcul Logistic Vientiane", en: "Vientiane Logistics Park"},
+    image: "/poi-images/vientiane-logistics-park-economic-v2.webp",
     description: { de: "Ein hochmodernes Logistikzentrum, das Laos als wichtigen Landverbindungspunkt in Südostasien etabliert und den grenzüberschreitenden Handel drastisch erleichtert.", hu: "Korszerű logisztikai központ, amely Laoszt kulcsfontosságú szárazföldi csomóponttá teszi Délkelet-Ázsiában, drasztikusan megkönnyítve a határokon átnyúló kereskedelmet.", ro: "Un centru logistic ultramodern care stabilește Laosul ca un nod terestru cheie în Asia de Sud-Est, facilitând masiv comerțul transfrontalier.", en: "A state-of-the-art logistics center that establishes Laos as a key land-link hub in Southeast Asia, drastically facilitating cross-border trade." },
     facts: {
       de: ["Integriert mit dem Thanaleng Trockenhafen.", "Dient als Knotenpunkt der Laos-China-Eisenbahn.", "Soll die Frachtkosten deutlich senken."],
@@ -146,9 +141,8 @@ image: "/poi-images/vientiane-logistics-park-economic-v2.webp"
     type: "trade-hub",
     parent: "LA-LN",
     coords: [101.6880, 21.1830],
-    name: { de: "Sonderwirtschaftszone Boten", hu: "Boten Különleges Gazdasági Övezet", ro: "Zona Economică Specială Boten", en: "Boten Specific Economic Zone",
-image: "/poi-images/boten-specific-economic-zone-economic-v2.webp"
-},
+    name: { de: "Sonderwirtschaftszone Boten", hu: "Boten Különleges Gazdasági Övezet", ro: "Zona Economică Specială Boten", en: "Boten Specific Economic Zone"},
+    image: "/poi-images/boten-specific-economic-zone-economic-v2.webp",
     description: { de: "Ein rasant wachsendes Handels- und Wirtschaftszentrum an der Grenze zu China, das als wichtiges Tor für Investitionen, Tourismus und Logistik fungiert.", hu: "Gyorsan növekvő kereskedelmi és gazdasági központ a kínai határon, amely a befektetések, a turizmus és a logisztika fontos kapujaként szolgál.", ro: "Un centru comercial și economic în creștere rapidă la granița cu China, servind ca o poartă majoră pentru investiții, turism și logistică.", en: "A rapidly growing trade and economic center on the border with China, serving as a major gateway for investments, tourism, and logistics." },
     facts: {
       de: ["Liegt direkt an der laotisch-chinesischen Grenze.", "Ein Schlüsselprojekt der Neuen Seidenstraße.", "Zieht massiv ausländisches Kapital an."],
@@ -174,9 +168,8 @@ image: "/poi-images/boten-specific-economic-zone-economic-v2.webp"
     type: "industry",
     parent: "LA-SV",
     coords: [104.7500, 16.5660],
-    name: { de: "Sonderwirtschaftszone Savan-Seno", hu: "Savan-Seno Különleges Gazdasági Övezet", ro: "Zona Economică Specială Savan-Seno", en: "Savan-Seno Special Economic Zone",
-image: "/poi-images/savan-seno-special-economic-zone-economic-v2.webp"
-},
+    name: { de: "Sonderwirtschaftszone Savan-Seno", hu: "Savan-Seno Különleges Gazdasági Övezet", ro: "Zona Economică Specială Savan-Seno", en: "Savan-Seno Special Economic Zone"},
+    image: "/poi-images/savan-seno-special-economic-zone-economic-v2.webp",
     description: { de: "Die erste Sonderwirtschaftszone in Laos, strategisch günstig am Ost-West-Wirtschaftskorridor gelegen, um Produktion und internationalen Handel zu fördern.", hu: "Az első különleges gazdasági övezet Laoszban, amely stratégiai helyen, a Kelet-Nyugat Gazdasági Folyosón fekszik a termelés és a nemzetközi kereskedelem ösztönzésére.", ro: "Prima zonă economică specială din Laos, situată strategic pe coridorul economic Est-Vest pentru a promova producția și comerțul internațional.", en: "The first special economic zone in Laos, strategically located on the East-West Economic Corridor to promote manufacturing and international trade." },
     facts: {
       de: ["Wurde im Jahr 2003 gegründet.", "Verbindet Thailand, Laos und Vietnam.", "Bietet steuerliche Anreize für Investoren."],
@@ -202,9 +195,8 @@ image: "/poi-images/savan-seno-special-economic-zone-economic-v2.webp"
     type: "port",
     parent: "LA-VT",
     coords: [102.6685, 17.8635],
-    name: { de: "Thanaleng Trockenhafen", hu: "Thanaleng Szárazföldi Kikötő", ro: "Portul Uscat Thanaleng", en: "Thanaleng Dry Port",
-image: "/poi-images/thanaleng-dry-port-economic-v2.webp"
-},
+    name: { de: "Thanaleng Trockenhafen", hu: "Thanaleng Szárazföldi Kikötő", ro: "Portul Uscat Thanaleng", en: "Thanaleng Dry Port"},
+    image: "/poi-images/thanaleng-dry-port-economic-v2.webp",
     description: { de: "Das wichtigste Binnenlogistikzentrum des Landes in der Nähe von Vientiane, das den Schienengüterverkehr effizient mit dem Straßennetz verbindet.", hu: "Az ország legfontosabb belföldi logisztikai központja Vientiane közelében, amely hatékonyan összeköti a vasúti teherforgalmat az úthálózattal.", ro: "Cel mai important centru logistic intern al țării, lângă Vientiane, conectând eficient transportul feroviar de marfă cu rețeaua rutieră.", en: "The country's most important inland logistics center near Vientiane, efficiently connecting rail freight traffic with the road network." },
     facts: {
       de: ["Zentraler Umschlagplatz für Container.", "Reduziert die Abhängigkeit von Seehäfen.", "Verbessert die Import- und Exportabwicklung."],
@@ -230,9 +222,8 @@ image: "/poi-images/thanaleng-dry-port-economic-v2.webp"
     type: "energy",
     parent: "LA-XA",
     coords: [101.3300, 19.7100],
-    name: { de: "Hongsa Wärmekraftwerk", hu: "Hongsa Hőerőmű", ro: "Centrala Termică Hongsa", en: "Hongsa Power Plant",
-image: "/poi-images/hongsa-power-plant-economic-v2.webp"
-},
+    name: { de: "Hongsa Wärmekraftwerk", hu: "Hongsa Hőerőmű", ro: "Centrala Termică Hongsa", en: "Hongsa Power Plant"},
+    image: "/poi-images/hongsa-power-plant-economic-v2.webp",
     description: { de: "Das erste und größte Kohlekraftwerk in Laos an der Mündung der Mine, das erheblich zur Energieversorgung und den Exportkapazitäten des Landes beiträgt.", hu: "Az első és legnagyobb bányaszájú szénerőmű Laoszban, amely jelentősen hozzájárul az ország energiaellátásához és exportkapacitásához.", ro: "Prima și cea mai mare centrală pe cărbune din Laos, situată la gura minei, care contribuie semnificativ la furnizarea de energie și la capacitățile de export ale țării.", en: "The first and largest mine-mouth coal-fired power plant in Laos, significantly contributing to the country's energy supply and export capacities." },
     facts: {
       de: ["Verwendet Lignit aus einer nahegelegenen Mine.", "Verfügt über eine Kapazität von 1878 Megawatt.", "Der Großteil des Stroms geht nach Thailand."],
@@ -258,9 +249,8 @@ image: "/poi-images/hongsa-power-plant-economic-v2.webp"
     type: "trade-hub",
     parent: "LA-LN",
     coords: [101.4000, 20.9500],
-    name: { de: "Luang Namtha Grenzhändlerzone", hu: "Luang Namtha Határkereskedelmi Övezet", ro: "Zona de Comerț de Frontieră Luang Namtha", en: "Luang Namtha Border Trade Zone",
-image: "/poi-images/luang-namtha-border-trade-zone-economic-v2.webp"
-},
+    name: { de: "Luang Namtha Grenzhändlerzone", hu: "Luang Namtha Határkereskedelmi Övezet", ro: "Zona de Comerț de Frontieră Luang Namtha", en: "Luang Namtha Border Trade Zone"},
+    image: "/poi-images/luang-namtha-border-trade-zone-economic-v2.webp",
     description: { de: "Ein lebhafter Handelsplatz im Norden, der landwirtschaftliche Produkte, Textilien und Konsumgüter zwischen laotischen und chinesischen Händlern austauscht.", hu: "Nyüzsgő északi kereskedelmi központ, ahol mezőgazdasági termékeket, textíliákat és fogyasztási cikkeket cserélnek a laoszi és kínai kereskedők.", ro: "Un punct comercial plin de viață în nord, care schimbă produse agricole, textile și bunuri de consum între comercianții laoțieni și chinezi.", en: "A bustling trading hub in the north exchanging agricultural products, textiles, and consumer goods between Laotian and Chinese merchants." },
     facts: {
       de: ["Wichtiger Markt für Kautschuk und Zuckerrohr.", "Stärkt die lokale Wirtschaft der Bergstämme.", "Profitierte vom Bau der neuen Autobahn."],
@@ -286,9 +276,8 @@ image: "/poi-images/luang-namtha-border-trade-zone-economic-v2.webp"
     type: "industry",
     parent: "LA-VI",
     coords: [102.4300, 18.9100],
-    name: { de: "Zementfabrik Vang Vieng", hu: "Vang Vieng Cementgyár", ro: "Fabrica de Ciment Vang Vieng", en: "Vang Vieng Cement Plant",
-image: "/poi-images/vang-vieng-cement-plant-economic-v2.webp"
-},
+    name: { de: "Zementfabrik Vang Vieng", hu: "Vang Vieng Cementgyár", ro: "Fabrica de Ciment Vang Vieng", en: "Vang Vieng Cement Plant"},
+    image: "/poi-images/vang-vieng-cement-plant-economic-v2.webp",
     description: { de: "Eine industrielle Anlage, die von den reichen Kalksteinvorkommen der Region profitiert und Baumaterialien für die rasante Infrastrukturentwicklung des Landes liefert.", hu: "Ipari létesítmény, amely a régió gazdag mészkőkészleteit hasznosítja, és építőanyagot biztosít az ország gyors infrastrukturális fejlődéséhez.", ro: "O instalație industrială care beneficiază de depozitele bogate de calcar din regiune, furnizând materiale de construcție pentru dezvoltarea rapidă a infrastructurii țării.", en: "An industrial facility benefiting from the region's rich limestone deposits, supplying building materials for the country's rapid infrastructure development." },
     facts: {
       de: ["Unterstützt den Bau von Staudämmen.", "Bietet Arbeitsplätze abseits des Tourismus.", "Kalksteinabbau verändert teilweise die Landschaft."],
@@ -314,9 +303,8 @@ image: "/poi-images/vang-vieng-cement-plant-economic-v2.webp"
     type: "industry",
     parent: "LA-VT",
     coords: [102.7200, 18.0500],
-    name: { de: "Vientiane Industrie- und Handelszone", hu: "Vientiane Ipari és Kereskedelmi Terület", ro: "Zona Industrială și Comercială Vientiane", en: "Vientiane Industrial and Trade Area",
-image: "/poi-images/vientiane-industrial-and-trade-area-economic-v2.webp"
-},
+    name: { de: "Vientiane Industrie- und Handelszone", hu: "Vientiane Ipari és Kereskedelmi Terület", ro: "Zona Industrială și Comercială Vientiane", en: "Vientiane Industrial and Trade Area"},
+    image: "/poi-images/vientiane-industrial-and-trade-area-economic-v2.webp",
     description: { de: "Ein strukturierter Industriepark, der ausländische Direktinvestitionen anzieht und eine moderne Umgebung für die Leichtindustrie und Elektronikfertigung bietet.", hu: "Strukturált ipari park, amely vonzza a közvetlen külföldi tőkebefektetéseket, és modern környezetet biztosít a könnyűipar és az elektronikai gyártás számára.", ro: "Un parc industrial structurat care atrage investiții străine directe, oferind un mediu modern pentru industria ușoară și producția de electronice.", en: "A structured industrial park attracting foreign direct investment, providing a modern environment for light industry and electronics manufacturing." },
     facts: {
       de: ["Liegt etwa 22 Kilometer von der Hauptstadt entfernt.", "Verfügt über moderne Abwasseraufbereitungsanlagen.", "Fokus auf exportorientierte Produktion."],
@@ -342,9 +330,8 @@ image: "/poi-images/vientiane-industrial-and-trade-area-economic-v2.webp"
     type: "industry",
     parent: "LA-CH",
     coords: [105.8000, 15.1100],
-    name: { de: "Pakse Japan SME Sonderwirtschaftszone", hu: "Pakse Japán KKV Különleges Gazdasági Övezet", ro: "Zona Economică Specială Pakse Japonia IMM", en: "Pakse Japan SME SEZ",
-image: "/poi-images/pakse-japan-sme-sez-economic-v2.webp"
-},
+    name: { de: "Pakse Japan SME Sonderwirtschaftszone", hu: "Pakse Japán KKV Különleges Gazdasági Övezet", ro: "Zona Economică Specială Pakse Japonia IMM", en: "Pakse Japan SME SEZ"},
+    image: "/poi-images/pakse-japan-sme-sez-economic-v2.webp",
     description: { de: "Eine spezialisierte Wirtschaftszone im Süden, die sich auf japanische kleine und mittlere Unternehmen konzentriert, insbesondere in der arbeitsintensiven Fertigung.", hu: "Egy déli specializált gazdasági övezet, amely a japán kis- és középvállalkozásokra összpontosít, különösen a munkaigényes gyártás területén.", ro: "O zonă economică specializată în sud, concentrată pe întreprinderile mici și mijlocii japoneze, în special în producția intensivă în forță de muncă.", en: "A specialized economic zone in the south focusing on Japanese small and medium-sized enterprises, particularly in labor-intensive manufacturing." },
     facts: {
       de: ["Förderung durch japanische Entwicklungsgelder.", "Schwerpunkt auf Textilien und Schuhe.", "Zielt auf den thailändischen Markt ab."],
@@ -370,9 +357,8 @@ image: "/poi-images/pakse-japan-sme-sez-economic-v2.webp"
     type: "port",
     parent: "LA-BK",
     coords: [100.4100, 20.2700],
-    name: { de: "Hafen Houayxay", hu: "Houayxay Kikötő", ro: "Portul Houayxay", en: "Houayxay Port",
-image: "/poi-images/houayxay-port-economic-v2.webp"
-},
+    name: { de: "Hafen Houayxay", hu: "Houayxay Kikötő", ro: "Portul Houayxay", en: "Houayxay Port"},
+    image: "/poi-images/houayxay-port-economic-v2.webp",
     description: { de: "Ein bedeutender Flusshafen am Mekong, der als wichtiges Zentrum für den Binnenschiffsverkehr und den grenzüberschreitenden Handel mit Nordthailand dient.", hu: "Jelentős folyami kikötő a Mekongon, amely a belvízi hajózás és az Észak-Thaifölddel folytatott határokon átnyúló kereskedelem fontos központjaként szolgál.", ro: "Un port fluvial semnificativ pe Mekong, servind ca un centru major pentru navigația pe căi navigabile interioare și comerțul transfrontalier cu nordul Thailandei.", en: "A significant river port on the Mekong serving as a major hub for inland waterway shipping and cross-border trade with northern Thailand." },
     facts: {
       de: ["Verbindet Laos, Thailand und Myanmar.", "Wichtiger Umschlagplatz für Agrarprodukte.", "Spielt eine Rolle im Tourismus für Mekong-Kreuzfahrten."],
@@ -398,9 +384,8 @@ image: "/poi-images/houayxay-port-economic-v2.webp"
     type: "port",
     parent: "LA-VT",
     coords: [102.6200, 17.9300],
-    name: { de: "Hafen Vientiane (KM4)", hu: "Vientiane Kikötő (KM4)", ro: "Portul Vientiane (KM4)", en: "Vientiane Port (KM4)",
-image: "/poi-images/vientiane-port-economic-v2.webp"
-},
+    name: { de: "Hafen Vientiane (KM4)", hu: "Vientiane Kikötő (KM4)", ro: "Portul Vientiane (KM4)", en: "Vientiane Port (KM4)"},
+    image: "/poi-images/vientiane-port-economic-v2.webp",
     description: { de: "Der zentrale Frachthafen der laotischen Hauptstadt am Ufer des Mekong, essenziell für den Import und Export von schweren Baumaterialien und Gütern.", hu: "A laoszi főváros központi teherkikötője a Mekong partján, amely elengedhetetlen a nehéz építőanyagok és áruk importjához és exportjához.", ro: "Portul central de marfă al capitalei laoțiene pe malul râului Mekong, esențial pentru importul și exportul de materiale de construcție și bunuri grele.", en: "The central freight port of the Laotian capital on the banks of the Mekong River, essential for the import and export of heavy building materials and goods." },
     facts: {
       de: ["Umschlagplatz für Sand und Kies.", "Erleichtert den Flussverkehr nach Südlaos.", "Trotz niedriger Wasserstände in der Trockenzeit aktiv."],
@@ -426,9 +411,8 @@ image: "/poi-images/vientiane-port-economic-v2.webp"
     type: "energy",
     parent: "LA-PH",
     coords: [102.5000, 21.0000],
-    name: { de: "Nam Ou Staudammkaskade", hu: "Nam Ou Gátkaskád", ro: "Cascada de Baraje Nam Ou", en: "Nam Ou River Cascade",
-image: "/poi-images/nam-ou-river-cascade-economic-v2.webp"
-},
+    name: { de: "Nam Ou Staudammkaskade", hu: "Nam Ou Gátkaskád", ro: "Cascada de Baraje Nam Ou", en: "Nam Ou River Cascade"},
+    image: "/poi-images/nam-ou-river-cascade-economic-v2.webp",
     description: { de: "Ein umfangreiches Infrastrukturprojekt mit einer Serie von sieben aufeinanderfolgenden Wasserkraftwerken entlang des Flusses Nam Ou im Norden von Laos.", hu: "Egy kiterjedt infrastrukturális projekt hét egymást követő vízerőműből álló sorozattal a Nam Ou folyó mentén, Észak-Laoszban.", ro: "Un proiect masiv de infrastructură care cuprinde o serie de șapte hidrocentrale consecutive de-a lungul râului Nam Ou în nordul Laosului.", en: "A massive infrastructure project comprising a series of seven consecutive hydroelectric power plants along the Nam Ou River in northern Laos." },
     facts: {
       de: ["Entwickelt von chinesischen Energieunternehmen.", "Versorgt weite Teile von Nordlaos mit Strom.", "Veränderte drastisch die lokale Flussökologie."],
@@ -454,9 +438,8 @@ image: "/poi-images/nam-ou-river-cascade-economic-v2.webp"
     type: "industry",
     parent: "LA-AT",
     coords: [106.9100, 14.8100],
-    name: { de: "Zuckerfabrik Attapeu", hu: "Attapeu Cukorgyár", ro: "Fabrica de Zahăr Attapeu", en: "Attapeu Sugar Factory",
-image: "/poi-images/attapeu-sugar-factory-economic-v2.webp"
-},
+    name: { de: "Zuckerfabrik Attapeu", hu: "Attapeu Cukorgyár", ro: "Fabrica de Zahăr Attapeu", en: "Attapeu Sugar Factory"},
+    image: "/poi-images/attapeu-sugar-factory-economic-v2.webp",
     description: { de: "Eine groß angelegte agroindustrielle Anlage im Süden, die Zuckerrohr aus riesigen lokalen Plantagen verarbeitet und als wichtiger Arbeitgeber fungiert.", hu: "Nagyszabású agrár-ipari létesítmény délen, amely a hatalmas helyi ültetvényekről származó cukornádat dolgozza fel, és fontos munkáltatóként működik.", ro: "O instalație agroindustrială pe scară largă în sud, care prelucrează trestia de zahăr din plantațiile locale uriașe, acționând ca un angajator cheie.", en: "A large-scale agro-industrial facility in the south, processing sugarcane from massive local plantations, acting as a key employer." },
     facts: {
       de: ["Betrieben durch vietnamesische Investitionen.", "Produziert raffinierten Zucker für den Export.", "Teil eines riesigen Landkonzessionsprojekts."],
@@ -482,9 +465,8 @@ image: "/poi-images/attapeu-sugar-factory-economic-v2.webp"
     type: "industry",
     parent: "LA-LP",
     coords: [102.1600, 19.8900],
-    name: { de: "Sonderwirtschaftszone Luang Prabang", hu: "Luang Prabang Különleges Gazdasági Övezet", ro: "Zona Economică Specială Luang Prabang", en: "Luang Prabang SEZ",
-image: "/poi-images/luang-prabang-sez-economic-v2.webp"
-},
+    name: { de: "Sonderwirtschaftszone Luang Prabang", hu: "Luang Prabang Különleges Gazdasági Övezet", ro: "Zona Economică Specială Luang Prabang", en: "Luang Prabang SEZ"},
+    image: "/poi-images/luang-prabang-sez-economic-v2.webp",
     description: { de: "Ein in der Entwicklung befindliches Wirtschaftszentrum, das darauf abzielt, leichte Produktion und Dienstleistungen in die historische und touristisch geprägte Provinz zu bringen.", hu: "Egy fejlesztés alatt álló gazdasági központ, amelynek célja a könnyűgyártás és a szolgáltatások eljuttatása a történelmi és turisztikai fókuszú tartományba.", ro: "Un centru economic în curs de dezvoltare, vizând aducerea producției ușoare și a serviciilor în provincia istorică și axată pe turism.", en: "An economic center under development, aiming to bring light manufacturing and services to the historic and tourism-focused province." },
     facts: {
       de: ["Soll die Wirtschaft abseits des Tourismus diversifizieren.", "Zieht Investitionen in Bildung und IT an.", "Strenge Umweltauflagen wegen des UNESCO-Status."],
@@ -510,9 +492,8 @@ image: "/poi-images/luang-prabang-sez-economic-v2.webp"
     type: "trade-hub",
     parent: "LA-BK",
     coords: [100.4100, 20.2800],
-    name: { de: "Bokeo Internationale Handelszone", hu: "Bokeo Nemzetközi Kereskedelmi Övezet", ro: "Zona de Comerț Internațional Bokeo", en: "Bokeo International Trade Zone",
-image: "/poi-images/bokeo-international-trade-zone-economic-v2.webp"
-},
+    name: { de: "Bokeo Internationale Handelszone", hu: "Bokeo Nemzetközi Kereskedelmi Övezet", ro: "Zona de Comerț Internațional Bokeo", en: "Bokeo International Trade Zone"},
+    image: "/poi-images/bokeo-international-trade-zone-economic-v2.webp",
     description: { de: "Ein strategisches Handelsgebiet im Goldenen Dreieck, das darauf ausgerichtet ist, den kommerziellen Austausch zwischen Laos, Thailand und Myanmar zu fördern.", hu: "Stratégiai kereskedelmi terület az Aranyháromszögben, amelynek célja a Laosz, Thaiföld és Mianmar közötti kereskedelmi csere ösztönzése.", ro: "O zonă comercială strategică în Triunghiul de Aur, concepută pentru a promova schimburile comerciale între Laos, Thailanda și Myanmar.", en: "A strategic trading area in the Golden Triangle, designed to promote commercial exchange between Laos, Thailand, and Myanmar." },
     facts: {
       de: ["Förderung durch die Eröffnung neuer Brücken.", "Schwerpunkt auf grenzüberschreitenden Großhandel.", "Zunehmender Einfluss ausländischer Logistikfirmen."],
@@ -538,9 +519,8 @@ image: "/poi-images/bokeo-international-trade-zone-economic-v2.webp"
     type: "mine",
     parent: "LA-KH",
     coords: [105.0000, 17.5000],
-    name: { de: "Khammouane Kalimine", hu: "Khammouane Kálisóbánya", ro: "Mina de Potasiu Khammouane", en: "Khammouane Potash Mine",
-image: "/poi-images/khammouane-potash-mine-economic-v2.webp"
-},
+    name: { de: "Khammouane Kalimine", hu: "Khammouane Kálisóbánya", ro: "Mina de Potasiu Khammouane", en: "Khammouane Potash Mine"},
+    image: "/poi-images/khammouane-potash-mine-economic-v2.webp",
     description: { de: "Eine riesige Bergbauanlage, die sich auf die Förderung von Kaliumsalzen konzentriert und entscheidend für die asiatische Düngemittelproduktion ist.", hu: "Hatalmas bányászati létesítmény, amely a káliumsók kitermelésére összpontosít, és kulcsfontosságú az ázsiai műtrágyagyártás szempontjából.", ro: "O instalație minieră uriașă axată pe extracția sărurilor de potasiu, care este crucială pentru producția de îngrășăminte din Asia.", en: "A massive mining facility focused on the extraction of potassium salts, which is crucial for Asian fertilizer production." },
     facts: {
       de: ["Eine der größten Lagerstätten in Südostasien.", "Wird überwiegend in die Landwirtschaft exportiert.", "Zieht große chinesische Bergbaukonsortien an."],

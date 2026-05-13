@@ -11,9 +11,8 @@ export const poiExtraChileNatureV2: POI[] = [
       de: "Nationalpark Lauca",
       hu: "Lauca Nemzeti Park",
       ro: "Parcul Național Lauca",
-      en: "Lauca National Park",
-image: "/poi-images/parque-nacional-lauca-nature-v2.webp"
-},
+      en: "Lauca National Park"},
+    image: "/poi-images/parque-nacional-lauca-nature-v2.webp",
     descriptionAdvanced: {
       ro: "Parcul Național Lauca, situat la mare altitudine în Anzii nordici, este un ecosistem unic de tip 'altiplano', dominat de lacul Chungará și vulcanii din apropiere. Această zonă protejată găzduiește o faună specifică zonelor alpine, precum vicuñas, alpaca și numeroase specii de păsări endemice, fiind un punct de interes pentru ornitologi și pasionați de fotografie. Peisajul este marcat de bofedales (zone umede de mare altitudine) care sunt vitale pentru supraviețuirea speciilor în mediul arid și rece al Anzilor. Lauca reprezintă un ecosistem extrem de fragil și spectaculos, esențial pentru înțelegerea adaptării biologice la altitudine. Geografie K7 — ecosisteme alpine."
     },
@@ -43,9 +42,8 @@ image: "/poi-images/parque-nacional-lauca-nature-v2.webp"
       de: "Nationalpark Torres del Paine",
       hu: "Torres del Paine Nemzeti Park",
       ro: "Parcul Național Torres del Paine",
-      en: "Torres del Paine National Park",
-image: "/poi-images/parque-nacional-torres-del-paine-nature-v2.webp"
-},
+      en: "Torres del Paine National Park"},
+    image: "/poi-images/parque-nacional-torres-del-paine-nature-v2.webp",
     descriptionAdvanced: {
       ro: "Parcul Național Torres del Paine, bijuteria Patagoniei chiliene, impresionează prin masivele sale granitiene, ghețarii activi și vastele lacuri glaciare. Acesta reprezintă un exemplu remarcabil de reziliență ecologică și biodiversitate sud-patagonică, fiind gazda unor specii simbolice precum puma și guanaco. Parcul este o destinație globală pentru conservarea naturii și ecoturism, oferind un studiu fascinant despre glaciațiune și modelarea peisajului terestru în ultimele ere geologice. Traseele sale montane complexe sunt provocări pentru aventurieri, dar și puncte de observație privilegiate pentru geologi. Geografie K8 — formarea reliefului și ecologie."
     },
@@ -75,9 +73,8 @@ image: "/poi-images/parque-nacional-torres-del-paine-nature-v2.webp"
       de: "Nationalpark Conguillío",
       hu: "Conguillío Nemzeti Park",
       ro: "Parcul Național Conguillío",
-      en: "Conguillío National Park",
-image: "/poi-images/parque-nacional-conguillio-nature-v2.webp"
-},
+      en: "Conguillío National Park"},
+    image: "/poi-images/parque-nacional-conguillio-nature-v2.webp",
     description: {
       de: "Ein spektakulärer Park in den Araukarienwäldern, dominiert vom Vulkan Llaima.",
       hu: "Lélegzetelállító park az araukáriaerdőkben, amelyet a Llaima vulkán ural.",
@@ -111,9 +108,8 @@ image: "/poi-images/parque-nacional-conguillio-nature-v2.webp"
       de: "Nationalpark Queulat",
       hu: "Queulat Nemzeti Park",
       ro: "Parcul Național Queulat",
-      en: "Queulat National Park",
-image: "/poi-images/parque-nacional-queulat-nature-v2.webp"
-},
+      en: "Queulat National Park"},
+    image: "/poi-images/parque-nacional-queulat-nature-v2.webp",
     description: {
       de: "Bekannt für seinen berühmten Hängegletscher, eingebettet in einen dichten patagonischen Regenwald.",
       hu: "Híres függőgleccseréről, amely sűrű patagóniai esőerdőben található.",
@@ -147,9 +143,8 @@ image: "/poi-images/parque-nacional-queulat-nature-v2.webp"
       de: "Nationalpark Vicente Pérez Rosales",
       hu: "Vicente Pérez Rosales Nemzeti Park",
       ro: "Parcul Național Vicente Pérez Rosales",
-      en: "Vicente Pérez Rosales National Park",
-image: "/poi-images/parque-nacional-vicente-perez-rosales-nature-v2.webp"
-},
+      en: "Vicente Pérez Rosales National Park"},
+    image: "/poi-images/parque-nacional-vicente-perez-rosales-nature-v2.webp",
     description: {
       de: "Der älteste Nationalpark Chiles mit den beeindruckenden Petrohué-Wasserfällen und dem Osorno-Vulkan.",
       hu: "Chile legrégebbi nemzeti parkja a lenyűgöző Petrohué-vízesésekkel és az Osorno vulkánnal.",
@@ -183,9 +178,8 @@ image: "/poi-images/parque-nacional-vicente-perez-rosales-nature-v2.webp"
       de: "Atacama-Wüste",
       hu: "Atacama-sivatag",
       ro: "Deșertul Atacama",
-      en: "Atacama Desert",
-image: "/poi-images/desierto-de-atacama-nature-v2.webp"
-},
+      en: "Atacama Desert"},
+    image: "/poi-images/desierto-de-atacama-nature-v2.webp",
     description: {
       de: "Die trockenste Wüste der Welt mit faszinierenden Salzseen, Geysiren und klarem Sternenhimmel.",
       hu: "A világ legszárazabb sivataga, lenyűgöző sóstavakkal, gejzírekkel és tiszta csillagos égbolttal.",
@@ -219,9 +213,8 @@ image: "/poi-images/desierto-de-atacama-nature-v2.webp"
       de: "Nationalpark Chiloé",
       hu: "Chiloé Nemzeti Park",
       ro: "Parcul Național Chiloé",
-      en: "Chiloé National Park",
-image: "/poi-images/parque-nacional-chiloé-nature-v2.webp"
-},
+      en: "Chiloé National Park"},
+    image: "/poi-images/parque-nacional-chiloé-nature-v2.webp",
     description: {
       de: "Ein Park an der Westküste der Insel Chiloé, der für seine dichten Regenwälder, Dünen und die pazifische Küste bekannt ist.",
       hu: "Park Chiloé szigetének nyugati partján, amely sűrű esőerdőiről, dűnéiről és csendes-óceáni partjáról ismert.",
@@ -255,9 +248,8 @@ image: "/poi-images/parque-nacional-chiloé-nature-v2.webp"
       de: "Nationalpark Tierra del Fuego",
       hu: "Tűzföld Nemzeti Park",
       ro: "Parcul Național Țara de Foc",
-      en: "Tierra del Fuego National Park",
-image: "/poi-images/parque-nacional-tierra-del-fuego-nature-v2.webp"
-},
+      en: "Tierra del Fuego National Park"},
+    image: "/poi-images/parque-nacional-tierra-del-fuego-nature-v2.webp",
     description: {
       de: "Ein südliches Naturparadies in Feuerland, bekannt für seine unberührten Wälder, Berge und die Nähe zum Ende der Welt.",
       hu: "Déli természeti paradicsom Tűzföldön, amely érintetlen erdőiről, hegyeiről és a világ végéhez való közelségéről híres.",

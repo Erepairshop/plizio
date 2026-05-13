@@ -6,9 +6,8 @@ export const poiExtraTaiwanLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5645, 25.0339],
-    name: { de: "Taipei 101", hu: "Taipei 101", ro: "Taipei 101", en: "Taipei 101",
-image: "/poi-images/taipei-101-landmarks-v2.webp"
-},
+    name: { de: "Taipei 101", hu: "Taipei 101", ro: "Taipei 101", en: "Taipei 101"},
+    image: "/poi-images/taipei-101-landmarks-v2.webp",
     description: {
       de: "Ein markanter Wolkenkratzer, der einst das höchste Gebäude der Welt war und durch sein pagodenähnliches Design besticht.",
       hu: "Egy ikonikus felhőkarcoló, amely egykor a világ legmagasabb épülete volt, és pagoda-szerű kialakításáról ismert.",
@@ -20,15 +19,27 @@ image: "/poi-images/taipei-101-landmarks-v2.webp"
       hu: ["2004-ben nyitották meg hivatalosan.", "Hatalmas hangolttömeg-csillapítóval rendelkezik a földrengések ellen."],
       ro: ["A fost deschis oficial în anul 2004.", "Dispune de un amortizor masiv pentru protecția împotriva cutremurelor."],
       en: ["Officially opened in 2004.", "Features a massive tuned mass damper for earthquake protection."]
-    }, image: "/poi-images/taipei-101-landmarks-v2.webp"},
+    }, image: "/poi-images/taipei-101-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Taipei 101 ist ein Wolkenkratzer in Taipeh, der von 2004 bis 2010 das höchste Gebäude der Welt war. Es ist 509,2 Meter hoch (bis zur Spitze) und hat 101 Stockwerke. Das Design ist von Bambus inspiriert, mit einer sich verjüngenden Form. Es verfügt über einen der schnellsten Aufzüge der Welt, der 60 km/h erreicht. Das Gebäude beherbergt Büros, ein Einkaufszentrum und eine Aussichtsplattform. Taipei 101 ist ein Symbol der taiwanesischen Wirtschaftskraft. Es ist für seine Erdbebensicherheit und die Winddämpfung bekannt. Die jährliche Silvesterfeier mit Feuerwerk ist weltberühmt.",
+      hu: "A Taipei 101 Tajvan legmagasabb épülete, 509,2 méter magas, 101 emelettel. 2004 és 2010 között a világ legmagasabb épülete volt. Az épület bambuszra emlékeztető formát kapott. A liftjei 60 km/h sebességgel haladnak. Az épületben üzletek, irodák és kilátó található. A 89. emeleten kilátó van. A Taipei 101 a modern Tajvan szimbóluma. A szilveszteri tűzijáték világhírű.",
+      ro: "Taipei 101 este un zgârie-nori din Taipei, cu o înălțime de 509,2 metri și 101 etaje. A fost cea mai înaltă clădire din lume între 2004 și 2010. Designul său este inspirat de bambus. Lifturile ating viteze de 60 km/h. Clădirea include un centru comercial, birouri și o platformă de observație la etajul 89. Este un simbol al dezvoltării economice a Taiwanului. Show-ul anual de artificii de Anul Nou atrage milioane de spectatori.",
+      en: "Taipei 101 is a skyscraper in Taipei, standing 509.2 meters tall with 101 floors. It was the world's tallest building from 2004 to 2010. The building's design incorporates bamboo-like segments for wind resistance. It has the fastest elevators in the world, reaching speeds of 60 km/h. The observatory on floor 89 offers panoramic views. The building hosts a shopping mall and offices. Every New Year, a spectacular fireworks display is launched from the spire.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 509,2 Meter", "Anzahl der Stockwerke: 101", "Bauzeit: 1999-2004", "Liftgeschwindigkeit: 60 km/h", "Welt höchstes Gebäude 2004-2010", "Aussichtsplattform auf Ebene 89"],
+      hu: ["Magasság: 509,2 m", "Emeletek: 101", "Építés: 1999-2004", "Lift sebesség: 60 km/h", "Legmagasabb: 2004-2010", "Kilátó: 89. emelet"],
+      ro: ["Înălțime: 509,2 m", "Număr etaje: 101", "Construcție: 1999-2004", "Viteza lifturilor: 60 km/h", "Cea mai înaltă clădire 2004-2010", "Platformă observație: etajul 89"],
+      en: ["Height: 509.2 m (1,671 ft)", "Floors: 101", "Construction: 1999-2004", "Elevator speed: 60 km/h (37 mph)", "World's tallest 2004-2010", "Observation deck on floor 89"],
+    },
+  },
   {
     id: "sun-moon-lake-landmarks-v2",
     type: "landmark",
     parent: "TW-NAN",
     coords: [120.9231, 23.8516],
-    name: { de: "Sonne-Mond-See", hu: "Nap-Hold-tó", ro: "Lacul Soarelui și Lunii", en: "Sun Moon Lake",
-image: "/poi-images/sun-moon-lake-landmarks-v2.webp"
-},
+    name: { de: "Sonne-Mond-See", hu: "Nap-Hold-tó", ro: "Lacul Soarelui și Lunii", en: "Sun Moon Lake"},
+    image: "/poi-images/sun-moon-lake-landmarks-v2.webp",
     description: {
       de: "Der größte natürliche See in Taiwan, berühmt für seine malerische Landschaft und die reiche Kultur der Ureinwohner.",
       hu: "Tajvan legnagyobb természetes tava, amely festői tájáról és a helyi őslakosok gazdag kultúrájáról híres.",
@@ -40,15 +51,27 @@ image: "/poi-images/sun-moon-lake-landmarks-v2.webp"
       hu: ["A keleti része egy napra, a nyugati egy holdra hasonlít.", "Népszerű célpont kerékpártúrák és csónakázások számára."],
       ro: ["Partea estică seamănă cu un soare, iar cea vestică cu o lună.", "O destinație populară pentru ciclism și plimbări cu barca."],
       en: ["The eastern part resembles a sun, and the western part a moon.", "A popular destination for cycling and boating."]
-    }, image: "/poi-images/sun-moon-lake-landmarks-v2.webp"},
+    }, image: "/poi-images/sun-moon-lake-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sonne-Mond-See liegt im zentralen Taiwan auf einer Höhe von 748 Metern und ist mit einer Fläche von 7,93 km² der größte natürliche See Taiwans. Der Name leitet sich von seiner ungewöhnlichen Form ab: Der östliche Teil ist rund wie die Sonne, der westliche langgestreckt wie der Mond. Geologisch handelt es sich um einen durch tektonische Aktivität entstandenen See, der durch den Bau des Wasserkraftwerks Sun Moon Lake in den 1930er Jahren zusätzlich gestaut wurde. Die umliegenden Berge erreichen Höhen von bis zu 2.000 Metern und sind dicht mit Zedern und Bambus bewaldet. Historisch war der See ein heiliger Ort der indigenen Thao-Bevölkerung, die hier ihre Ursprungsmythen verortet. Heute ist das Gebiet ein beliebtes Naherholungsziel mit einer durchschnittlichen Jahrestemperatur von 19 °C. Der See wird durch einen 15 km langen Rundweg erschlossen, der an Tempeln wie dem Wenwu-Tempel und dem Ci'en-Pagode vorbeiführt. Wirtschaftlich ist die Region auf Tourismus ausgerichtet, mit zahlreichen Hotels und Teeplantagen, insbesondere für den berühmten Sun Moon Lake Assam-Tee.",
+      hu: "A Hold-tó (Sun Moon Lake) Tajvan középső részén, 748 méteres tengerszint feletti magasságban található. Területe 7,93 km², maximális mélysége 27 méter. A tó nevét alakjáról kapta: a keleti része kerek, mint a nap, a nyugati része hosszúkás, mint a hold. A tó természetes eredetű, de az 1930-as években vízerőmű építése miatt duzzasztották. A Thao bennszülött közösség számára szent hely, szárazföldi szigete, Lalu sziget, kulturális jelentőséggel bír. A tó környékén található a Wenwu-templom, amely Konfuciusznak, Lao-ce és Kuan Jin-nak van szentelve. A Ci'en-pagoda 46 méter magas, 1949-ben épült. A tó vizét öntözésre és energia-termelésre használják. A régió éves csapadékmennyisége 2.500 mm. A turizmus mellett a teaültetvények is jelentősek; a magaslati Assam tea híres, évente kb. 200 tonnát termelnek. A tó körüli kerékpárút 30 km hosszú, és a világ egyik legszebb kerékpárútjának tartják.",
+      ro: "Lacul Soarelui și Lunii (Sun Moon Lake) este cel mai mare lac natural din Taiwan, situat în municipiul Nantou, la o altitudine de 748 m. Cu o suprafață de 7,93 km² și o adâncime maximă de 27 m, lacul este alimentat de pârâul Shuili. Numele provine de la forma sa: partea estică, rotundă, simbolizează soarele, iar cea vestică, alungită, luna. Din punct de vedere geologic, lacul s-a format prin activitate tectonică, iar în anii 1930 a fost barat pentru o centrală hidroelectrică. Zona este locuită de populația indigenă Thao, care consideră insula Lalu ca loc sacru. Clima este subtropicală de munte, cu temperaturi medii anuale de 19°C. Lacul atrage anual peste 6 milioane de vizitatori. Pe mal se află Templul Wenwu (1938), Pagoda Ci'en (46 m) și statuia lui Mațu. Activitățile includ plimbări cu barca și ciclism pe un traseu de 30 km. Producția de ceai Assam de altitudine este renumită, cu circa 200 tone anual. Apele lacului sunt, de asemenea, folosite pentru irigații și pescuit.",
+      en: "Sun Moon Lake, Taiwan's largest natural lake, spans 7.93 km² at an elevation of 748 m in Nantou County. Its distinctive shape—round on the east, crescent on the west—inspired its name. The lake formed through tectonic activity and was later dammed in the 1930s for hydroelectric power. It is a sacred site for the indigenous Thao people, who consider Lalu Island their ancestral home. The lake is surrounded by mountains reaching 2,000 m, covered in cedar and bamboo forests. The region experiences a mild subtropical climate with an average temperature of 19°C. Key landmarks include Wenwu Temple (built 1938), Ci'en Pagoda (46 m), and the Xuanguang Temple. A 30-km cycling path encircles the lake, often ranked among the world's most scenic. The area is also known for high-mountain Assam tea, yielding about 200 tons annually. Sun Moon Lake attracts over 6 million visitors per year and supports a thriving tourism and tea industry.",
+    },
+    factsAdvanced: {
+      de: ["Der See liegt auf einer Höhe von 748 m über dem Meeresspiegel.", "Die Wasserfläche beträgt 7,93 km².", "Die maximale Tiefe des Sees beträgt 27 m.", "Der Ci'en-Pagode ist 46 m hoch und wurde 1949 erbaut.", "Die Umgebung erhält jährlich ca. 2.500 mm Niederschlag.", "Der Wenwu-Tempel wurde 1938 errichtet."],
+      hu: ["A tó 748 méter tengerszint feletti magasságban fekszik.", "Területe 7,93 km².", "Maximális mélysége 27 méter.", "A Ci'en-pagoda 46 méter magas, 1949-ben épült.", "Az éves csapadékmennyiség 2.500 mm.", "A Wenwu-templom 1938-ban épült."],
+      ro: ["Lacul are altitudinea de 748 m.", "Suprafața este de 7,93 km².", "Adâncimea maximă este de 27 m.", "Pagoda Ci'en are 46 m înălțime și a fost construită în 1949.", "Precipitațiile anuale ating 2.500 mm.", "Templul Wenwu a fost construit în 1938."],
+      en: ["Elevation: 748 m above sea level.", "Surface area: 7.93 km².", "Maximum depth: 27 m.", "Ci'en Pagoda height: 46 m, built in 1949.", "Annual precipitation: 2,500 mm.", "Wenwu Temple construction year: 1938."],
+    },
+  },
   {
     id: "taroko-gorge-landmarks-v2",
     type: "landmark",
     parent: "TW-HUA",
     coords: [121.5204, 24.1610],
-    name: { de: "Taroko-Schlucht", hu: "Taroko-szurdok", ro: "Cheile Taroko", en: "Taroko Gorge",
-image: "/poi-images/taroko-gorge-landmarks-v2.webp"
-},
+    name: { de: "Taroko-Schlucht", hu: "Taroko-szurdok", ro: "Cheile Taroko", en: "Taroko Gorge"},
+    image: "/poi-images/taroko-gorge-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Marmorschlucht, die durch den Liwu-Fluss geformt wurde und spektakuläre Wanderwege bietet.",
       hu: "Egy lenyűgöző márványszurdok, amelyet a Liwu-folyó alakított ki, és látványos túraútvonalakat kínál.",
@@ -60,15 +83,27 @@ image: "/poi-images/taroko-gorge-landmarks-v2.webp"
       hu: ["A szurdok falai szinte teljesen márványból állnak.", "Az Örök Tavasz Szentélye az egyik fő látványosság."],
       ro: ["Pereții defileului sunt formați aproape în întregime din marmură.", "Altarul Primăverii Eterne este una dintre atracțiile principale."],
       en: ["The walls of the gorge are almost entirely made of marble.", "The Eternal Spring Shrine is one of the main attractions."]
-    }, image: "/poi-images/taroko-gorge-landmarks-v2.webp"},
+    }, image: "/poi-images/taroko-gorge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Taroko-Schlucht ist eine beeindruckende Marmorschlucht im Osten Taiwans, die sich über etwa 19 km entlang des Liwu-Flusses erstreckt. Sie liegt im Taroko-Nationalpark, der 1986 gegründet wurde und eine Fläche von 920 km² umfasst. Die Schlucht ist bis zu 1.000 Meter tief und besteht hauptsächlich aus metamorphem Gestein wie Marmor, der durch die Kollision der eurasischen und philippinischen Platte entstanden ist. Der Fluss Liwu hat sich über Millionen von Jahren durch das Gestein geschnitten. Historisch wurde die Gegend von den indigenen Truku bewohnt, die dem Park seinen Namen gaben. Der Bau der Zentralquerstraße (1956-1960) durch die Schlucht war ein technisches Meisterwerk, bei dem über 200 Arbeiter ums Leben kamen. Heute ist die Straße eine der Hauptattraktionen. Höhepunkte sind die Brücke der liebenden Bögen, der Eternal Spring Shrine und der Tunnel of Nine Turns. Die Region beherbergt über 1.100 Pflanzenarten und seltene Tiere wie den Taiwan-Makaken. Jährlich besuchen etwa 4 Millionen Menschen den Park.",
+      hu: "A Taroko-szurdok Tajvan keleti részén található, a Liwu-folyó vágta ki a márványhegységben. A szurdok hossza kb. 19 km, mélysége helyenként eléri az 1000 métert. A Taroko Nemzeti Parkot 1986-ban alapították, területe 920 km². A szurdok falai főleg márványból állnak, amely a Földközi-tengeri és a Fülöp-szigeteki lemez ütközéséből keletkezett. A területet eredetileg a Truku bennszülöttek lakták. A Központi Átkelőutat (Provincial Highway 8) 1956 és 1960 között építették, több mint 200 munkás életét vesztette. Az Örök Forrás Szentély (Eternal Spring Shrine) 1958-ban épült. A szurdokban található a Kilenc kanyar alagút, amely 1970-ben készült el. A parkban több mint 1100 növényfaj és ritka állatok, mint a tajvani makákó és a formosai fekete medve él. Évente kb. 4 millió turista látogat ide. A turizmus mellett a park fontos szerepet játszik a vízgazdálkodásban és a környezeti nevelésben.",
+      ro: "Cheile Taroko sunt un canion de marmură spectaculos situat în estul Taiwanului, sculptat de râul Liwu de-a lungul a milioane de ani. Canionul se întinde pe aproximativ 19 km, cu pereți care ating 1.000 m adâncime. Face parte din Parcul Național Taroko, înființat în 1986, cu o suprafață de 920 km². Rocile metamorfice, în principal marmură, provin din coliziunea plăcilor tectonice eurasiatică și filipineză. Zona a fost locuită de populația indigenă Truku. Construcția șoselei transversale centrale (1956-1960) a fost o realizare majoră, costând viața a peste 200 de muncitori. Atracțiile includ Podul celor O Sută de Păsări, Templul Primăverii Eterne (construit în 1958) și Tunelul celor Nouă Viraje. Parcul adăpostește peste 1.100 specii de plante și animale rare precum macacul taiwanez. Clima este subtropicală umedă, cu precipitații anuale de peste 3.000 mm. Anual, parcul atrage aproximativ 4 milioane de vizitatori.",
+      en: "Taroko Gorge is a 19-km-long marble canyon in eastern Taiwan, carved by the Liwu River within Taroko National Park (established 1986, 920 km²). The gorge reaches depths of up to 1,000 m, with walls composed primarily of metamorphic marble formed during the collision of the Eurasian and Philippine Sea plates. The area is the traditional home of the Truku indigenous people. The Central Cross-Island Highway (Provincial Highway 8) was built through the gorge between 1956 and 1960, a project that claimed over 200 lives. Highlights include the Eternal Spring Shrine (built 1958), the Tunnel of Nine Turns (completed 1970), and the Swallow Grotto. The park hosts over 1,100 plant species and iconic wildlife like the Formosan black bear and macaque. Annual precipitation exceeds 3,000 mm, supporting lush forests. Tourism is a major economic driver, with about 4 million annual visitors, but the park also serves critical watershed and conservation functions.",
+    },
+    factsAdvanced: {
+      de: ["Die Schlucht erstreckt sich über 19 km entlang des Liwu-Flusses.", "Der Taroko-Nationalpark wurde 1986 gegründet und umfasst 920 km².", "Die Tiefe der Schlucht beträgt bis zu 1.000 m.", "Beim Bau der Zentralquerstraße (1956-1960) kamen über 200 Arbeiter ums Leben.", "Der Eternal Spring Shrine wurde 1958 errichtet.", "Jährlich besuchen etwa 4 Millionen Menschen den Park."],
+      hu: ["A szurdok hossza kb. 19 km.", "A Taroko Nemzeti Park 1986-ban jött létre, területe 920 km².", "A szurdok mélysége elérheti az 1000 métert.", "A Központi Átkelőút építése (1956-1960) több mint 200 emberéletet követelt.", "Az Örök Forrás Szentély 1958-ban épült.", "Évente kb. 4 millió látogató érkezik."],
+      ro: ["Canionul se întinde pe 19 km.", "Parcul Național Taroko a fost înființat în 1986, suprafață 920 km².", "Adâncimea canionului atinge 1.000 m.", "Construcția șoselei (1956-1960) a costat viața a peste 200 de muncitori.", "Templul Primăverii Eterne a fost construit în 1958.", "Aproximativ 4 milioane de vizitatori anual."],
+      en: ["Gorge length: 19 km along Liwu River.", "Taroko National Park established 1986, area 920 km².", "Maximum gorge depth: 1,000 m.", "Highway construction (1956-1960) caused over 200 fatalities.", "Eternal Spring Shrine built in 1958.", "Annual visitors: approximately 4 million."],
+    },
+  },
   {
     id: "yehliu-geopark-landmarks-v2",
     type: "landmark",
     parent: "TW-NWT",
     coords: [121.6067, 25.2057],
-    name: { de: "Yehliu-Geopark", hu: "Yehliu Geopark", ro: "Geoparcul Yehliu", en: "Yehliu Geopark",
-image: "/poi-images/yehliu-geopark-landmarks-v2.webp"
-},
+    name: { de: "Yehliu-Geopark", hu: "Yehliu Geopark", ro: "Geoparcul Yehliu", en: "Yehliu Geopark"},
+    image: "/poi-images/yehliu-geopark-landmarks-v2.webp",
     description: {
       de: "Ein geologischer Park an der Nordküste, der für seine ungewöhnlichen Felsformationen berühmt ist.",
       hu: "Egy geológiai park az északi parton, amely szokatlan sziklaalakzatairól híres.",
@@ -86,9 +121,8 @@ image: "/poi-images/yehliu-geopark-landmarks-v2.webp"
     type: "landmark",
     parent: "TW-CYQ",
     coords: [120.8037, 23.5101],
-    name: { de: "Alishan Nationales Landschaftsgebiet", hu: "Alishan Nemzeti Festői Terület", ro: "Aria Scenică Națională Alishan", en: "Alishan National Scenic Area",
-image: "/poi-images/alishan-scenic-area-landmarks-v2.webp"
-},
+    name: { de: "Alishan Nationales Landschaftsgebiet", hu: "Alishan Nemzeti Festői Terület", ro: "Aria Scenică Națională Alishan", en: "Alishan National Scenic Area"},
+    image: "/poi-images/alishan-scenic-area-landmarks-v2.webp",
     description: {
       de: "Ein hochgelegenes Bergresort, das für seine atemberaubenden Sonnenaufgänge, Wolkenmeere und historischen Wald-Eisenbahnen bekannt ist.",
       hu: "Egy magasan fekvő hegyi üdülőhely, amely lélegzetelállító napfelkeltéiről, felhőtengereiről és történelmi erdei vasútjairól ismert.",
@@ -100,16 +134,27 @@ image: "/poi-images/alishan-scenic-area-landmarks-v2.webp"
       hu: ["Híres a hatalmas, ezeréves ciprusfáiról.", "Az Alishan erdei vasutat eredetileg a japánok építették fakitermelés céljából."],
       ro: ["Renumit pentru chiparoșii gigantici cu o vechime de mii de ani.", "Calea ferată forestieră Alishan a fost construită inițial de japonezi pentru exploatarea lemnului."],
       en: ["Famous for its giant cypress trees that are thousands of years old.", "The Alishan Forest Railway was originally built by the Japanese for logging."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Alishan National Scenic Area liegt im zentralen Süden Taiwans und umfasst eine Fläche von 415 km². Das Gebiet ist bekannt für seine Nebelwälder, die 2500 Meter hohen Berge und die historische Alishan-Waldbahn, die 1912 von den Japanern gebaut wurde, um Holz zu transportieren. Die Bahnstrecke ist 71,4 km lang und führt von Chiayi auf eine Höhe von 2216 Metern. Alishan beherbergt einige der ältesten Roten Zypressen Taiwans, die über 1000 Jahre alt sind. Der Sonnenaufgang vom Zhushan-Gipfel (2498 m) ist ein berühmtes Naturschauspiel. Die Region hat eine durchschnittliche Jahrestemperatur von 10,6 °C und erhält jährlich über 4000 mm Niederschlag. Das Gebiet war ursprünglich von den indigenen Tsou bewohnt. Heute ist es ein wichtiges Touristenziel mit über 2 Millionen Besuchern pro Jahr. Die Teeplantagen (Alishan High Mountain Tea) auf über 1000 m sind ebenfalls bekannt.",
+      hu: "Az Alishan Nemzeti Tájvédelmi Körzet Tajvan középső-déli részén, 415 km² területen fekszik. Híres a felhőerdőiről, magas hegyeiről (legmagasabb csúcs: 2498 m) és a 1912-ben épült keskeny nyomtávú vasútról, amely 71,4 km hosszú és Chiayiból indul. A vasúton 2216 méter magasra lehet feljutni. Az erdőkben találhatók a több mint 1000 éves vörös ciprusok. A napfelkelte a Zhushan-csúcsról (2498 m) különösen híres. Az évi átlaghőmérséklet 10,6°C, a csapadék meghaladja a 4000 mm-t. A területet eredetileg a Tsou bennszülöttek lakták. Évente több mint 2 millió turista látogat ide. Alishan high mountain tea termesztése is jelentős, mintegy 2000 hektáron. A vasútállomások közül a Zhaoping (22 km) és a Chai-tou (31 km) népszerű. A szabadtéri múzeumok ősbéka-kiállításokkal is várják a látogatókat.",
+      ro: "Zona Pitorească Națională Alishan se întinde pe 415 km² în centrul-sudul Taiwanului. Este renumită pentru pădurile de ceață, vârfurile montane de până la 2.498 m și calea ferată forestieră istorică Alishan, construită de japonezi în 1912 pentru transportul lemnului. Linia are 71,4 km și urcă de la Chiayi la altitudinea de 2.216 m. Alishan găzduiește chiparoși roșii de peste 1.000 de ani. Răsăritul de la vârful Zhushan (2.498 m) este o atracție majoră. Temperatura medie anuală este de 10,6°C, iar precipitațiile depășesc 4.000 mm anual. Zona era tradițional locuită de indigenii Tsou. Astăzi, atrage peste 2 milioane de vizitatori anual. Celebra plantație de ceai de munte Alishan acoperă aproximativ 2.000 ha. Calea ferată include 49 de tuneluri și 77 de poduri. Pe lângă turism, zona are un rol important în conservarea biodiversității și producția agricolă.",
+      en: "Alishan National Scenic Area spans 415 km² in south-central Taiwan, featuring montane cloud forests, peaks up to 2,498 m, and the historic Alishan Forest Railway. The narrow-gauge railway, built by the Japanese in 1912 for timber transport, runs 71.4 km from Chiayi to an elevation of 2,216 m. The area hosts ancient red cypress trees exceeding 1,000 years old. Sunrise from Zhushan Peak (2,498 m) is a famous spectacle. Average annual temperature is 10.6°C, with precipitation over 4,000 mm. Originally inhabited by the Tsou indigenous group, Alishan now welcomes over 2 million visitors yearly. The region is also known for high-mountain oolong tea, cultivated on some 2,000 ha. The railway includes 49 tunnels and 77 bridges. Besides tourism, Alishan plays a vital role in watershed protection and biodiversity conservation.",
+    },
+    factsAdvanced: {
+      de: ["Das Gebiet umfasst 415 km².", "Der höchste Gipfel Zhushan erreicht 2498 m.", "Die Waldbahn wurde 1912 gebaut und ist 71,4 km lang.", "Die höchste Höhe der Bahnstrecke beträgt 2216 m.", "Die durchschnittliche Jahrestemperatur liegt bei 10,6 °C.", "Jährlich kommen über 2 Millionen Besucher."],
+      hu: ["A terület 415 km².", "A legmagasabb csúcs 2498 m.", "A vasút 1912-ben épült, hossza 71,4 km.", "A vasút legmagasabb pontja 2216 m.", "Az évi átlaghőmérséklet 10,6°C.", "Évente több mint 2 millió látogató."],
+      ro: ["Suprafața: 415 km².", "Vârful Zhushan: 2.498 m altitudine.", "Calea ferată construită în 1912, lungime 71,4 km.", "Altitudinea maximă a căii ferate: 2.216 m.", "Temperatura medie anuală: 10,6°C.", "Vizitatori anuali: peste 2 milioane."],
+      en: ["Area: 415 km².", "Highest peak Zhushan: 2,498 m.", "Forest railway built in 1912, length 71.4 km.", "Railway maximum elevation: 2,216 m.", "Average annual temperature: 10.6°C.", "Annual visitors: over 2 million."],
+    },
   },
   {
     id: "national-palace-museum-landmarks-v2",
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5484, 25.1022],
-    name: { de: "Nationales Palastmuseum", hu: "Nemzeti Palotamúzeum", ro: "Muzeul Național al Palatului", en: "National Palace Museum",
-image: "/poi-images/national-palace-museum-landmarks-v2.webp"
-},
+    name: { de: "Nationales Palastmuseum", hu: "Nemzeti Palotamúzeum", ro: "Muzeul Național al Palatului", en: "National Palace Museum"},
+    image: "/poi-images/national-palace-museum-landmarks-v2.webp",
     description: {
       de: "Ein weltberühmtes Museum, das eine der größten Sammlungen an antiken chinesischen kaiserlichen Kunstwerken und Artefakten beherbergt.",
       hu: "Egy világhírű múzeum, amely az ókori kínai császári műkincsek és műtárgyak egyik legnagyobb gyűjteményének ad otthont.",
@@ -121,15 +166,27 @@ image: "/poi-images/national-palace-museum-landmarks-v2.webp"
       hu: ["Több mint csaknem 700 000 darabot őriz a kínai történelemből.", "A jadekáposzta az egyik leghíresebb kiállítási tárgy."],
       ro: ["Adăpostește aproape 700.000 de piese din istoria chineză.", "Varza de jad este una dintre cele mai faimoase piese expuse."],
       en: ["Houses nearly 700,000 pieces of ancient Chinese artifacts.", "The Jadeite Cabbage is one of its most famous exhibits."]
-    }, image: "/poi-images/national-palace-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/national-palace-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nationale Palastmuseum in Taipeh, Taiwan, beherbergt eine der größten Sammlungen chinesischer Kunst und Artefakte der Welt. Die rund 700.000 Objekte umfassende Sammlung stammt größtenteils aus der Verbotenen Stadt in Peking und wurde während des chinesischen Bürgerkriegs nach Taiwan gebracht. Das Museum wurde 1965 in Taipeh eröffnet und ist in einem traditionellen chinesischen Palaststil erbaut. Zu den bekanntesten Exponaten gehören der „Jadekohl“ (Jadeite Cabbage) aus dem 19. Jahrhundert und der „Mikroschnitzereien-Stein“ (Meat-shaped Stone). Die Sammlung erstreckt sich über 8.000 Jahre chinesischer Geschichte, von der Jungsteinzeit bis zur Qing-Dynastie. Das Museum verfügt über eine Fläche von 155.000 m² und beherbergt jährlich über 5 Millionen Besucher. Die Ausstellungsstücke wechseln regelmäßig, da nur etwa 10% der Sammlung gleichzeitig gezeigt werden. Das Museum betreibt auch eine Zweigstelle im Süden Taiwans, das Southern Branch in Chiayi, das 2015 eröffnet wurde.",
+      hu: "A Nemzeti Palotamúzeum Tajpejben a kínai kultúra legnagyobb gyűjteményének ad otthont, mintegy 700.000 tárggyal. A gyűjtemény nagy része a pekingi Tiltott Városból származik, és a kínai polgárháború alatt került Tajvanra. A múzeumot 1965-ben nyitották meg Tajpejben, hagyományos kínai palota stílusban épült. A legismertebb kincsek közé tartozik a „Jade káposzta” (19. század) és a „Húshoz hasonló kő”. A gyűjtemény 8000 évet ölel fel. A múzeum területe 155.000 m². Évente több mint 5 millió látogatója van. A kiállított tárgyak rotálnak, így csak kb. 10%-a látható egyszerre. A múzeum déli fiókintézménye, a Southern Branch Chiayiban 2015-ben nyílt meg. A gyűjteményben található a „Téli úszó gombák” című festmény és a „Templomi bronzharang” is. A múzeum fontos kutatási központ.",
+      ro: "Muzeul Palatului Național din Taipei găzduiește una dintre cele mai mari colecții de artă chineză, cu aproximativ 700.000 de obiecte. Colecția provine în principal din Orașul Interzis din Beijing și a fost transportată în Taiwan în timpul războiului civil chinez. Muzeul a fost deschis în 1965, într-o clădire în stil palat chinezesc tradițional. Celebrele exponate includ „Varza de Jade” (secolul 19) și „Piatra în formă de carne”. Colecția acoperă peste 8.000 de ani de istorie chineză. Muzeul are o suprafață de 155.000 m² și atrage peste 5 milioane de vizitatori anual. Doar aproximativ 10% din colecție este expusă la un moment dat, exponatele fiind rotite. Muzeul are o sucursală la Chiayi (filiala de Sud), deschisă în 2015, care se concentrează pe arta asiatică. Muzeul joacă un rol crucial în conservarea și cercetarea patrimoniului cultural chinez.",
+      en: "The National Palace Museum in Taipei houses one of the world's largest collections of Chinese art, comprising over 700,000 artifacts spanning 8,000 years from the Neolithic to the Qing dynasty. The collection originated from the Forbidden City in Beijing and was moved to Taiwan during the Chinese Civil War. The museum opened in 1965 in a building designed in traditional Chinese palace architecture. Iconic pieces include the Jadeite Cabbage (19th century) and the Meat-shaped Stone. The museum's floor area is 155,000 m². Due to space constraints, only about 10% of the collection is on display at any time, with frequent rotations. Annual visitors exceed 5 million. The museum also operates the Southern Branch in Chiayi, opened in 2015, focusing on Asian arts and cultures. It serves as a leading research institution in Chinese art history and conservation.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum besitzt rund 700.000 Objekte.", "Es wurde 1965 in Taipeh eröffnet.", "Die Sammlung umfasst 8.000 Jahre chinesischer Geschichte.", "Das Museumsgebäude hat eine Fläche von 155.000 m².", "Jährlich besuchen über 5 Millionen Menschen das Museum.", "Nur etwa 10% der Sammlung sind gleichzeitig ausgestellt."],
+      hu: ["A múzeum gyűjteménye 700.000 tárgyból áll.", "1965-ben nyitották meg Tajpejben.", "A gyűjtemény 8000 évet ölel fel.", "Az épület alapterülete 155.000 m².", "Évente több mint 5 millió látogató.", "A gyűjtemény mindössze 10%-a látható egyszerre."],
+      ro: ["Colecția muzeului: aproximativ 700.000 de obiecte.", "Deschis în 1965 la Taipei.", "Colecția acoperă 8.000 de ani.", "Suprafața clădirii: 155.000 m².", "Vizitatori anuali: peste 5 milioane.", "Doar 10% din colecție este expusă simultan."],
+      en: ["Collection size: over 700,000 artifacts.", "Opened in 1965 in Taipei.", "Collection spans 8,000 years.", "Building floor area: 155,000 m².", "Annual visitors: over 5 million.", "Only about 10% of collection on display at once."],
+    },
+  },
   {
     id: "jiufen-old-street-landmarks-v2",
     type: "landmark",
     parent: "TW-NWT",
     coords: [121.8447, 25.1098],
-    name: { de: "Jiufen Alte Straße", hu: "Jiufen óvárosi utcája", ro: "Strada Veche din Jiufen", en: "Jiufen Old Street",
-image: "/poi-images/jiufen-old-street-landmarks-v2.webp"
-},
+    name: { de: "Jiufen Alte Straße", hu: "Jiufen óvárosi utcája", ro: "Strada Veche din Jiufen", en: "Jiufen Old Street"},
+    image: "/poi-images/jiufen-old-street-landmarks-v2.webp",
     description: {
       de: "Eine charmante Bergstadt, die einst ein Zentrum des Goldbergbaus war und heute für ihre engen Gassen und traditionellen Teehäuser bekannt ist.",
       hu: "Egy bájos hegyi falu, amely egykor aranybányászati központ volt, ma pedig szűk sikátorairól és hagyományos teaházairól ismert.",
@@ -147,9 +204,8 @@ image: "/poi-images/jiufen-old-street-landmarks-v2.webp"
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5247, 25.0878],
-    name: { de: "Shilin-Nachtmarkt", hu: "Shilin éjszakai piac", ro: "Piața de noapte Shilin", en: "Shilin Night Market",
-image: "/poi-images/shilin-night-market-landmarks-v2.webp"
-},
+    name: { de: "Shilin-Nachtmarkt", hu: "Shilin éjszakai piac", ro: "Piața de noapte Shilin", en: "Shilin Night Market"},
+    image: "/poi-images/shilin-night-market-landmarks-v2.webp",
     description: {
       de: "Der größte und berühmteste Nachtmarkt in Taipeh, ein Zentrum für lokale Straßenküche und Einkäufe.",
       hu: "Tajpej legnagyobb és leghíresebb éjszakai piaca, a helyi utcai ételek és vásárlás központja.",
@@ -161,15 +217,27 @@ image: "/poi-images/shilin-night-market-landmarks-v2.webp"
       hu: ["1899-ben alapították a japán gyarmati időszak alatt.", "Híres a hatalmas rántott csirkeszeletekről és a büdös tofuról."],
       ro: ["Fondată în anul 1899, în timpul perioadei coloniale japoneze.", "Faimoasă pentru șnițelele uriașe de pui prăjit și tofu puturos."],
       en: ["Established in 1899 during the Japanese colonial period.", "Famous for giant fried chicken cutlets and stinky tofu."]
-    }, image: "/poi-images/shilin-night-market-landmarks-v2.webp"},
+    }, image: "/poi-images/shilin-night-market-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Shilin-Nachtmarkt ist einer der größten und bekanntesten Nachtmärkte Taiwans und befindet sich im Stadtteil Shilin in Taipeh. Er entstand in den 1910er Jahren als kleiner Markt und wuchs zu einem riesigen Areal mit über 500 Ständen und Restaurants. Der Markt ist in zwei Hauptabschnitte unterteilt: den traditionellen Marktbereich in der Jihe Street und die umliegenden Gassen. Typische Gerichte sind gebratene Hühnersteak, Oyster Omelette, stinkende Tofu und Bubble Tea. Der Markt öffnet täglich ab etwa 16 Uhr bis Mitternacht. Die Besucherzahl wird auf täglich über 50.000 geschätzt, an Wochenenden noch mehr. Der Shilin-Nachtmarkt ist ein wichtiger Wirtschaftsfaktor für die Region und bietet Platz für über 5.000 Arbeitsplätze. In den letzten Jahren wurden Modernisierungen durchgeführt, um die Hygienestandards zu verbessern. Der Markt ist auch für seine günstigen Preise und die Vielfalt an Textilien und Elektronik bekannt.",
+      hu: "A Shilin Éjszakai Piac Tajpej Shilin kerületében található, Tajvan egyik legnagyobb és leghíresebb éjszakai piaca. Az 1910-es években jött létre, ma már több mint 500 árus és étterem található itt. Két fő részből áll: a hagyományos piaci rész a Jihe utcában és a környező sikátorok. Népszerű ételek: sült csirkemell, osztrigarántás, büdös tofu és buborék tea. A piac naponta kb. 16 órától éjfélig tart nyitva. A napi látogatószám meghaladja az 50.000 főt, hétvégén ennél is több. A piac több mint 5.000 munkahelyet biztosít. Az elmúlt években modernizációs beruházások történtek. A piac olcsó árairól és textil- és elektronikai termékeiről is ismert. Egyes standok évtizedek óta ugyanazok a családok kezelésében vannak.",
+      ro: "Piața de Noapte Shilin este una dintre cele mai mari și faimoase piețe de noapte din Taiwan, situată în districtul Shilin din Taipei. A început ca o piață mică în anii 1910 și a crescut la peste 500 de tarabe și restaurante. Piața este împărțită în două secțiuni principale: zona tradițională pe strada Jihe și aleile înconjurătoare. Preparatele populare includ piept de pui prăjit, omletă cu stridii, tofu putrezit și bubble tea. Piața este deschisă zilnic de la aproximativ 16:00 până la miezul nopții. Numărul zilnic de vizitatori depășește 50.000, și chiar până la 100.000 în weekenduri. Piața oferă locuri de muncă pentru peste 5.000 de persoane. Modernizările recente au îmbunătățit igiena. Pe lângă mâncare, piața vinde îmbrăcăminte și electronice la prețuri accesibile.",
+      en: "Shilin Night Market in Taipei's Shilin district is one of Taiwan's largest and most iconic night markets. Originating in the 1910s, it now hosts over 500 food stalls and shops. The market is split into a traditional section on Jihe Street and surrounding alleys. Signature dishes include giant fried chicken steak, oyster omelette, stinky tofu, and bubble tea. It operates daily from around 4 PM to midnight. The market draws an estimated 50,000-100,000 visitors per day, with weekends seeing surges. It provides over 5,000 jobs and contributes significantly to the local economy. Recent renovations have improved sanitation and infrastructure. Beyond food, the market offers affordable clothing, accessories, and electronics, making it a major shopping and gastronomic destination.",
+    },
+    factsAdvanced: {
+      de: ["Der Markt hat über 500 Stände und Restaurants.", "Er entstand in den 1910er Jahren.", "Tägliche Besucherzahl: über 50.000, an Wochenenden bis zu 100.000.", "Der Markt bietet über 5.000 Arbeitsplätze.", "Öffnungszeiten: täglich 16:00 bis Mitternacht.", "Bekannt für Gerichte wie gebratenes Hühnersteak und Austernomelett."],
+      hu: ["Több mint 500 árus és étterem.", "Az 1910-es években kezdődött.", "Napi látogatószám: 50.000 felett, hétvégén 100.000.", "Több mint 5.000 munkahelyet biztosít.", "Nyitva: naponta 16:00-tól éjfélig.", "Híres ételek: sült csirkemell, osztrigás omlett."],
+      ro: ["Peste 500 de tarabe și restaurante.", "Format în anii 1910.", "Vizitatori zilnici: peste 50.000, în weekenduri până la 100.000.", "Asigură peste 5.000 de locuri de muncă.", "Program: zilnic 16:00 - 24:00.", "Mâncăruri celebre: piept de pui prăjit, omletă cu stridii."],
+      en: ["Over 500 stalls and restaurants.", "Originated in the 1910s.", "Daily visitors: over 50,000, up to 100,000 on weekends.", "Provides over 5,000 jobs.", "Open daily 4 PM to midnight.", "Famous for fried chicken steak and oyster omelette."],
+    },
+  },
   {
     id: "kenting-national-park-landmarks-v2",
     type: "landmark",
     parent: "TW-PIF",
     coords: [120.7963, 21.9475],
-    name: { de: "Kenting-Nationalpark", hu: "Kenting Nemzeti Park", ro: "Parcul Național Kenting", en: "Kenting National Park",
-image: "/poi-images/kenting-national-park-landmarks-v2.webp"
-},
+    name: { de: "Kenting-Nationalpark", hu: "Kenting Nemzeti Park", ro: "Parcul Național Kenting", en: "Kenting National Park"},
+    image: "/poi-images/kenting-national-park-landmarks-v2.webp",
     description: {
       de: "Ein beliebter Nationalpark an der Südspitze Taiwans, bekannt für seine weißen Sandstrände und tropisches Klima.",
       hu: "Egy népszerű nemzeti park Tajvan déli csücskén, amely fehér homokos strandjairól és trópusi éghajlatáról ismert.",
@@ -181,15 +249,27 @@ image: "/poi-images/kenting-national-park-landmarks-v2.webp"
       hu: ["Az ország legrégebbi és legdélebbi nemzeti parkja.", "Kiváló feltételeket kínál a szörfözéshez és a sznorkelezéshez."],
       ro: ["Cel mai vechi și cel mai sudic parc național din țară.", "Oferă condiții excelente pentru surfing și snorkeling."],
       en: ["The oldest and southernmost national park in the country.", "Offers excellent conditions for surfing and snorkeling."]
-    }, image: "/poi-images/kenting-national-park-landmarks-v2.webp"},
+    }, image: "/poi-images/kenting-national-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kenting-Nationalpark liegt an der Südspitze Taiwans und ist der älteste Nationalpark des Landes, gegründet 1984. Er umfasst eine Fläche von 332,69 km², einschließlich Land- und Meeresgebieten. Der Park ist bekannt für seine tropischen Strände, Korallenriffe und das warme Klima mit einer durchschnittlichen Jahrestemperatur von 24 °C. Der höchste Punkt im Park ist der Big Mountain (großer Berg) mit 554 m. Der Park beherbergt über 1.000 Pflanzenarten, darunter endemische Arten. Zu den beliebten Stränden gehören der Kenting Beach und der Baishawan Beach. Der Park enthält auch das Kenting-Marktgebiet. Die Region ist ein wichtiges Zentrum für Wassersport und Ökotourismus. Jährlich besuchen etwa 5 Millionen Menschen den Park. In der Nähe befindet sich auch der Eluanbi-Leuchtturm, erbaut 1883, der 21,4 m hoch ist. Der Park spielt eine wichtige Rolle im Schutz der Meeresschildkröten und des tropischen Regenwaldes.",
+      hu: "A Kenting Nemzeti Park Tajvan déli csúcsán található, az ország első nemzeti parkja, 1984-ben alapították. Területe 332,69 km², szárazföldi és tengeri részekkel. Híres trópusi strandjairól, korallzátonyairól és meleg éghajlatáról, az évi átlaghőmérséklet 24°C. Legmagasabb pontja a Big Mountain (554 m). A parkban több mint 1000 növényfaj él. Népszerű strandok: Kenting Beach, Baishawan Beach. A parkban található a Kenting éjszakai piac. Fontos vízi sport és ökoturizmus központ. Évente kb. 5 millió látogató. Az Eluanbi világítótorony 1883-ban épült, magassága 21,4 m. A park védi a tengeri teknősöket és a trópusi esőerdőt. A park tengeri része korallzátonyokkal gazdag.",
+      ro: "Parcul Național Kenting, situat în extremitatea sudică a Taiwanului, este cel mai vechi parc național al țării, înființat în 1984. Acoperă 332,69 km², incluzând zone terestre și marine. Este renumit pentru plajele tropicale, recifele de corali și clima caldă, cu o temperatură medie anuală de 24°C. Cel mai înalt punct este Muntele Mare (554 m). Parcul găzduiește peste 1.000 de specii de plante. Plaje populare: Kenting Beach și Baishawan Beach. Aproape se află farul Eluanbi, construit în 1883, cu înălțimea de 21,4 m. Parcul atrage aproximativ 5 milioane de vizitatori anual. Este un centru important pentru sporturi nautice și ecoturism. De asemenea, joacă un rol crucial în protejarea țestoaselor marine și a pădurii tropicale.",
+      en: "Kenting National Park, established in 1984 as Taiwan's first national park, covers 332.69 km² at the southern tip of the island. It encompasses tropical beaches, coral reefs, and a warm climate with an average annual temperature of 24°C. The park's highest point is Big Mountain at 554 m. It harbors over 1,000 plant species, including many endemics. Popular beaches include Kenting Beach and Baishawan. The Eluanbi Lighthouse, built in 1883, stands 21.4 m tall and is a key landmark. Kenting attracts about 5 million visitors annually, contributing significantly to the local economy through tourism and recreation. The park's marine areas protect rich coral ecosystems and sea turtles. It serves as a vital site for conservation and environmental education.",
+    },
+    factsAdvanced: {
+      de: ["Der Nationalpark wurde 1984 gegründet.", "Die Gesamtfläche beträgt 332,69 km².", "Die durchschnittliche Jahrestemperatur liegt bei 24 °C.", "Der höchste Punkt ist der Big Mountain mit 554 m.", "Der Eluanbi-Leuchtturm wurde 1883 erbaut und ist 21,4 m hoch.", "Jährlich besuchen etwa 5 Millionen Menschen den Park."],
+      hu: ["A nemzeti parkot 1984-ben alapították.", "Területe 332,69 km².", "Az évi átlaghőmérséklet 24°C.", "Legmagasabb pont: Big Mountain (554 m).", "Az Eluanbi világítótorony 1883-ban épült, 21,4 m magas.", "Évente kb. 5 millió látogató."],
+      ro: ["Parcul național fondat în 1984.", "Suprafața totală: 332,69 km².", "Temperatura medie anuală: 24°C.", "Cel mai înalt punct: Muntele Mare (554 m).", "Farul Eluanbi construit în 1883, înălțime 21,4 m.", "Aproximativ 5 milioane de vizitatori anual."],
+      en: ["Founded in 1984 as the first national park in Taiwan.", "Total area: 332.69 km².", "Average annual temperature: 24°C.", "Highest peak: Big Mountain (554 m).", "Eluanbi Lighthouse built in 1883, height 21.4 m.", "Annual visitors: about 5 million."],
+    },
+  },
   {
     id: "fo-guang-shan-buddha-museum-landmarks-v2",
     type: "landmark",
     parent: "TW-KHH",
     coords: [120.4461, 22.7554],
-    name: { de: "Fo Guang Shan Buddha Museum", hu: "Fo Guang Shan Buddha Múzeum", ro: "Muzeul Buddha Fo Guang Shan", en: "Fo Guang Shan Buddha Museum",
-image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp"
-},
+    name: { de: "Fo Guang Shan Buddha Museum", hu: "Fo Guang Shan Buddha Múzeum", ro: "Muzeul Buddha Fo Guang Shan", en: "Fo Guang Shan Buddha Museum"},
+    image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp",
     description: {
       de: "Eine riesige buddhistische Tempelanlage und ein Museum, das eine bedeutende Zahnreliquie des historischen Buddha beherbergt.",
       hu: "Egy hatalmas buddhista templomkomplexum és múzeum, amely a történelmi Buddha egyik jelentős fogereklyéjének ad otthont.",
@@ -201,15 +281,27 @@ image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp"
       hu: ["A főszobor 108 méter magas és bronzból készült.", "A komplexum több mint 100 hektáron terül el."],
       ro: ["Statuia principală are 108 metri înălțime și este realizată din bronz.", "Complexul se întinde pe mai mult de 100 de hectare."],
       en: ["The main statue is 108 meters tall and made of bronze.", "The complex covers more than 100 hectares."]
-    }, image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/fo-guang-shan-buddha-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Fo Guang Shan Buddha Museum ist ein buddhistisches Museum in Kaohsiung, Taiwan, das zur Fo Guang Shan-Ordensgemeinschaft gehört. Der Bau begann 2003 und das Museum wurde 2011 eröffnet. Es beherbergt eine der größten sitzenden Buddha-Statuen der Welt, die 36 Meter hoch ist und aus Bronze besteht. Das Museum umfasst eine Fläche von 100 Hektar und besteht aus vier Hauptgebäuden: dem Haupttempel (Buddha Museum), dem Stupa, dem Bodhisattva-Gebäude und dem Pagodenbereich. Die Ausstellung zeigt buddhistische Reliquien, darunter angebliche Zahnreliquien des historischen Buddha. Das Museum ist auch ein aktives Kloster. Die Architektur vereint traditionelle chinesische und moderne Elemente. Jährlich besuchen über 2 Millionen Menschen das Museum. Das Gelände verfügt über Gärten und Teiche. Die Fo Guang Shan-Ordensgemeinschaft wurde 1967 von Meister Hsing Yun gegründet.",
+      hu: "A Fo Guang Shan Buddha Múzeum Kaohsiungban, Tajvanon található, a Fo Guang Shan buddhista rendhez tartozik. Az építkezés 2003-ban kezdődött, a múzeum 2011-ben nyílt meg. Itt található a világ egyik legnagyobb ülő Buddha-szobra, 36 méter magas, bronzból készült. A múzeum 100 hektáros területen fekszik, négy fő épületből áll: a Főtemplomból, a Sztúpából, a Bodhiszattva épületből és a Pagoda területből. A kiállítás buddhista ereklyéket mutat be, köztük a történelmi Buddha állítólagos fogereklyéit. A múzeum egyben működő kolostor is. Az építészet kínai hagyományos és modern elemeket ötvöz. Évente több mint 2 millió látogatót vonz. A kert tavakkal és növényekkel gazdagon díszített. A Fo Guang Shan rendet 1967-ben alapította Hszing Jun mester.",
+      ro: "Muzeul Buddha Fo Guang Shan din Kaohsiung, Taiwan, aparține ordinului budist Fo Guang Shan. Construcția a început în 2003, iar muzeul a fost deschis în 2011. Adăpostește una dintre cele mai mari statui ale lui Buddha șezând din lume, înaltă de 36 m, din bronz. Muzeul se întinde pe 100 de hectare și cuprinde patru clădiri principale: Templul Principal, Stupa, Clădirea Bodhisattva și zona Pagodelor. Expozițiile includ relicve budiste, cum ar fi presupuse relicve dentare ale lui Buddha istoric. Muzeul funcționează și ca mănăstire. Arhitectura combină elemente tradiționale chinezești și moderne. Atrage anual peste 2 milioane de vizitatori. Terenul include grădini și iazuri. Ordinul Fo Guang Shan a fost fondat în 1967 de Maestrul Hsing Yun.",
+      en: "The Fo Guang Shan Buddha Museum in Kaohsiung, Taiwan, is a Buddhist museum belonging to the Fo Guang Shan order. Construction began in 2003 and the museum opened in 2011. It houses one of the world's largest seated Buddha statues, 36 m tall, cast in bronze. The museum covers 100 hectares and includes four main buildings: the Main Hall, Stupa, Bodhisattva Hall, and Pagoda precinct. Exhibits feature Buddhist relics, including purported tooth relics of the historical Buddha. The site also functions as an active monastery. Architecture blends traditional Chinese and modern styles. Annual visitation exceeds 2 million. The grounds include gardens, ponds, and a water-and-light show. The Fo Guang Shan order was founded in 1967 by Master Hsing Yun.",
+    },
+    factsAdvanced: {
+      de: ["Das Museum wurde 2011 eröffnet.", "Die sitzende Buddha-Statue ist 36 m hoch.", "Das Museum erstreckt sich über 100 Hektar.", "Die Statue besteht aus Bronze.", "Der Bau begann 2003.", "Jährlich besuchen über 2 Millionen Menschen das Museum."],
+      hu: ["A múzeum 2011-ben nyílt meg.", "Az ülő Buddha szobor 36 m magas.", "A múzeum 100 hektáron fekszik.", "A szobor bronzból készült.", "Az építkezés 2003-ban kezdődött.", "Évente több mint 2 millió látogató."],
+      ro: ["Muzeul deschis în 2011.", "Statuia lui Buddha șezând are 36 m înălțime.", "Suprafața muzeului: 100 de hectare.", "Statuia este din bronz.", "Construcția a început în 2003.", "Peste 2 milioane de vizitatori anual."],
+      en: ["Museum opened in 2011.", "Seated Buddha statue height: 36 m.", "Museum area: 100 hectares.", "Statue material: bronze.", "Construction started in 2003.", "Annual visitors: over 2 million."],
+    },
+  },
   {
     id: "dragon-tiger-pagodas-landmarks-v2",
     type: "landmark",
     parent: "TW-KHH",
     coords: [120.2941, 22.6823],
-    name: { de: "Drachen- und Tigerpagoden", hu: "Sárkány és Tigris Pagodák", ro: "Pagodele Dragonului și Tigrului", en: "Dragon and Tiger Pagodas",
-image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp"
-},
+    name: { de: "Drachen- und Tigerpagoden", hu: "Sárkány és Tigris Pagodák", ro: "Pagodele Dragonului și Tigrului", en: "Dragon and Tiger Pagodas"},
+    image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp",
     description: {
       de: "Zwei bunte, siebenstöckige Pagoden am Lotusteich, bei denen man durch das Maul eines Drachen hinein- und das eines Tigers hinausgeht, um Glück zu bringen.",
       hu: "Két színes, hétemeletes pagoda a Lótusz-tónál, ahol egy sárkány száján keresztül megyünk be és egy tigrisén ki, hogy szerencsét hozzon.",
@@ -221,15 +313,27 @@ image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp"
       hu: ["A cikkcakkos híd állítólag távol tartja a gonosz szellemeket.", "1976-ban építették őket."],
       ro: ["Podul în zig-zag se spune că ține departe spiritele rele.", "Au fost construite în anul 1976."],
       en: ["The zigzag bridge is said to ward off evil spirits.", "They were built in 1976."]
-    }, image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp"},
+    }, image: "/poi-images/dragon-tiger-pagodas-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Drachen- und Tigerpagoden befinden sich im Lotus-See (Lotus Pond) in Kaohsiung, Taiwan. Sie wurden 1976 erbaut und sind achteckige, siebenstöckige Pagoden. Die Besucher betreten die Pagoden durch das Maul des Drachen und verlassen sie durch das Maul des Tigers, was symbolisch für das Überwinden des Unglücks steht. Die Pagoden sind 28 Meter hoch und bieten einen Panoramablick über den See. Der Lotus-See ist ein künstlicher See von 8 Hektar Fläche. In der Umgebung befinden sich weitere Taoistische und Buddhistische Tempel wie der „Konfuzius-Tempel“ und der „Pavillon des Frühlings und des Herbstes“. Die Pagoden sind ein beliebtes Fotomotiv. Der Lotus-See wurde bereits in den 1950er Jahren angelegt. Jährlich besuchen etwa 1 Million Menschen den See und die Pagoden. Die Pagodentürme sind mit Drachen- und Tigermotiven verziert und repräsentieren die chinesische Mythologie.",
+      hu: "A Sárkány- és Tigrispagodák Kaohsiungban, a Lótusz-tó (Lotus Pond) mellett találhatók. 1976-ban épültek, nyolcszögletű, hétemeletes pagodák. A látogatók a sárkány száján lépnek be és a tigris száján távoznak, ami a szerencse és a balszerencse leküzdését szimbolizálja. A pagodák 28 méter magasak, panorámás kilátást nyújtanak a tóra. A Lótusz-tó mesterséges, 8 hektár területű. A környéken más taoista és buddhista templomok is találhatók, mint a Konfuciusz-templom. A pagodák népszerű fotó témák. A tavat az 1950-es években hozták létre. Évente kb. 1 millió látogató keresi fel. A pagodák díszítése sárkány- és tigrismintákat tartalmaz, amelyek a kínai mitológiát idézik.",
+      ro: "Pagodele Dragonului și Tigrului sunt situate pe Lacul Lotus (Lotus Pond) din Kaohsiung, Taiwan. Construite în 1976, sunt pagode octogonale cu șapte etaje. Vizitatorii intră prin gura dragonului și ies prin gura tigrului, simbolizând depășirea ghinionului. Pagodele au 28 m înălțime și oferă vedere panoramică asupra lacului. Lacul Lotus este un lac artificial de 8 hectare. În zonă se află alte temple taoiste și budiste, cum ar fi Templul Confucius. Pagodele sunt un subiect popular pentru fotografii. Lacul a fost creat în anii 1950. Aproximativ 1 milion de vizitatori anual. Decorul pagodelor include motive de dragon și tigru, reprezentând mitologia chineză.",
+      en: "The Dragon and Tiger Pagodas are located by Lotus Pond in Kaohsiung, Taiwan. Built in 1976, these octagonal, seven-story pagodas stand 28 m tall. Visitors enter through the dragon's mouth and exit through the tiger's mouth, symbolizing the transformation of bad luck into good. The pagodas offer panoramic views of the artificial Lotus Pond, which covers 8 hectares. The area also features other religious structures like the Confucius Temple and Spring and Autumn Pavilions. The pagodas are a major tourist attraction, drawing about 1 million visitors annually. Their intricate murals and carvings depict scenes from Chinese mythology. Lotus Pond itself was created in the 1950s as a recreational area.",
+    },
+    factsAdvanced: {
+      de: ["Die Pagoden wurden 1976 erbaut.", "Sie haben sieben Stockwerke und sind achteckig.", "Die Höhe der Pagoden beträgt 28 m.", "Der Lotus-See hat eine Fläche von 8 Hektar.", "Der See wurde in den 1950er Jahren angelegt.", "Jährlich besuchen etwa 1 Million Menschen die Pagoden."],
+      hu: ["A pagodák 1976-ban épültek.", "Hét emeletesek és nyolcszögletűek.", "Magasságuk 28 méter.", "A Lótusz-tó területe 8 hektár.", "A tavat az 1950-es években hozták létre.", "Évente kb. 1 millió látogató."],
+      ro: ["Construite în 1976.", "Șapte etaje, formă octogonală.", "Înălțime: 28 m.", "Lacul Lotus: 8 hectare.", "Lacul creat în anii 1950.", "Aproximativ 1 milion de vizitatori anual."],
+      en: ["Built in 1976.", "Seven stories, octagonal shape.", "Height: 28 m.", "Lotus Pond area: 8 hectares.", "Lake created in the 1950s.", "Annual visitors: about 1 million."],
+    },
+  },
   {
     id: "rainbow-village-landmarks-v2",
     type: "landmark",
     parent: "TW-TXG",
     coords: [120.6105, 24.1337],
-    name: { de: "Regenbogen-Dorf", hu: "Szivárványfalu", ro: "Satul Curcubeului", en: "Rainbow Village",
-image: "/poi-images/rainbow-village-landmarks-v2.webp"
-},
+    name: { de: "Regenbogen-Dorf", hu: "Szivárványfalu", ro: "Satul Curcubeului", en: "Rainbow Village"},
+    image: "/poi-images/rainbow-village-landmarks-v2.webp",
     description: {
       de: "Eine ehemalige Militärsiedlung in Taichung, die von einem Veteranen mit leuchtenden, bunten Wandmalereien vor dem Abriss gerettet wurde.",
       hu: "Egykori katonai település Tajcsungban, amelyet egy veterán ragyogó, színes falfestményekkel mentett meg a lebontástól.",
@@ -241,15 +345,27 @@ image: "/poi-images/rainbow-village-landmarks-v2.webp"
       hu: ["Alkotója, Huang Yung-Fu 'Szivárvány nagypapa' néven vált ismertté.", "A művek állatokat, hírességeket és absztrakt mintákat ábrázolnak."],
       ro: ["Huang Yung-Fu, creatorul, a devenit cunoscut sub numele de 'Bunicul Curcubeu'.", "Operele de artă includ animale, celebrități și modele abstracte."],
       en: ["Huang Yung-Fu, the creator, became known as 'Rainbow Grandpa'.", "The artworks include animals, celebrities, and abstract patterns."]
-    }, image: "/poi-images/rainbow-village-landmarks-v2.webp"},
+    }, image: "/poi-images/rainbow-village-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Regenbogen-Dorf (Rainbow Village) in Taichung, Taiwan, ist eine farbenfroh bemalte Siedlung, die von dem 98-jährigen Huang Yung-fu (bekannt als „Rainbow Grandpa“) geschaffen wurde. Huang begann 2008, seine Nachbarschaft mit bunten Wandmalereien zu verzieren, um die Abrisspläne der Regierung zu stoppen. Das Dorf besteht aus etwa 50 Häusern, die er in leuchtenden Farben mit Motiven von Tieren, Menschen und Blumen bemalte. Das Dorf hat eine Fläche von etwa 0,5 Hektar und zieht täglich hunderte Touristen an. 2014 wurde es unter Denkmalschutz gestellt. Jährlich besuchen über 1 Million Menschen das Rainbow Village. Es ist ein Symbol für kulturellen Erhalt und bürgerschaftliches Engagement. Huang Yung-fu wurde 1924 in China geboren und kam 1949 nach Taiwan. Das Dorf bietet kostenlosen Eintritt.",
+      hu: "A Szivárványfalu (Rainbow Village) Taichungban, Tajvanon, egy színesre festett település, amelyet a 98 éves Huang Yung-fu („Szivárvány Nagypapa”) hozott létre. Huang 2008-ban kezdte el kifesteni a környéket, hogy megakadályozza a lebontási terveket. A falu körülbelül 50 házból áll, élénk színekkel, állat- és virágmintákkal. Területe kb. 0,5 hektár. Naponta több száz turista látogatja. 2014-ben műemlékvédelmi oltalom alá került. Évente több mint 1 millió látogató. Huang Yung-fu 1924-ben született Kínában, és 1949-ben érkezett Tajvanra. A belépés ingyenes. A falu a kulturális örökségvédelmi erőfeszítések szimbóluma.",
+      ro: "Satul Curcubeu (Rainbow Village) din Taichung, Taiwan, este o așezare vopsită în culori vii, creată de Huang Yung-fu („Bunicul Curcubeu”), în vârstă de 98 de ani. Huang a început în 2008 să picteze cartierul pentru a împiedica planurile de demolare. Satul cuprinde aproximativ 50 de case decorate cu motive de animale, oameni și flori. Are o suprafață de circa 0,5 hectare și atrage sute de turiști zilnic. În 2014 a fost protejat ca patrimoniu. Peste 1 milion de vizitatori anual. Huang Yung-fu s-a născut în 1924 în China și a venit în Taiwan în 1949. Intrarea este gratuită. Satul simbolizează conservarea culturală și activismul civic.",
+      en: "Rainbow Village in Taichung, Taiwan, is a vibrantly painted settlement created by Huang Yung-fu (Rainbow Grandpa), now aged 98. Starting in 2008, he painted the houses to prevent demolition, covering about 50 structures with colorful murals of people, animals, and flowers. The village covers roughly 0.5 hectares. It became a protected cultural site in 2014. The village draws over 1 million visitors annually and has become a symbol of community activism and heritage preservation. Admission is free. Huang was born in 1924 in China and moved to Taiwan in 1949. The village has no commercial shops, preserving its authentic character.",
+    },
+    factsAdvanced: {
+      de: ["Huang Yung-fu begann 2008 mit den Malereien.", "Das Dorf besteht aus etwa 50 Häusern.", "Die Fläche beträgt etwa 0,5 Hektar.", "2014 wurde es unter Denkmalschutz gestellt.", "Jährlich kommen über 1 Million Besucher.", "Huang Yung-fu wurde 1924 geboren."],
+      hu: ["Huang Yung-fu 2008-ban kezdte a festést.", "A falu kb. 50 házból áll.", "Területe kb. 0,5 hektár.", "2014-ben műemlékvédelmet kapott.", "Évente több mint 1 millió látogató.", "Huang Yung-fu 1924-ben született."],
+      ro: ["Huang Yung-fu a început să picteze în 2008.", "Satul are circa 50 de case.", "Suprafața: aproximativ 0,5 hectare.", "Protejat în 2014.", "Peste 1 milion de vizitatori anual.", "Huang Yung-fu născut în 1924."],
+      en: ["Huang Yung-fu started painting in 2008.", "Approximately 50 houses in the village.", "Area: about 0.5 hectares.", "Protected as cultural site in 2014.", "Over 1 million annual visitors.", "Huang Yung-fu born in 1924."],
+    },
+  },
   {
     id: "pier-2-art-center-landmarks-v2",
     type: "landmark",
     parent: "TW-KHH",
     coords: [120.2818, 22.6198],
-    name: { de: "Pier-2 Kunstzentrum", hu: "Pier-2 Művészeti Központ", ro: "Centrul de Artă Pier-2", en: "Pier-2 Art Center",
-image: "/poi-images/pier-2-art-center-landmarks-v2.webp"
-},
+    name: { de: "Pier-2 Kunstzentrum", hu: "Pier-2 Művészeti Központ", ro: "Centrul de Artă Pier-2", en: "Pier-2 Art Center"},
+    image: "/poi-images/pier-2-art-center-landmarks-v2.webp",
     description: {
       de: "Ehemalige verlassene Lagerhäuser in Kaohsiung, die zu einem pulsierenden Zentrum für moderne Kunst und Design umgewandelt wurden.",
       hu: "Egykori elhagyatott raktárak Kaohsziungban, amelyeket a modern művészet és design pezsgő központjává alakítottak át.",
@@ -267,9 +383,8 @@ image: "/poi-images/pier-2-art-center-landmarks-v2.webp"
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5772, 25.0507],
-    name: { de: "Raohe-Nachtmarkt", hu: "Raohe éjszakai piac", ro: "Piața de noapte Raohe", en: "Raohe Street Night Market",
-image: "/poi-images/raohe-night-market-landmarks-v2.webp"
-},
+    name: { de: "Raohe-Nachtmarkt", hu: "Raohe éjszakai piac", ro: "Piața de noapte Raohe", en: "Raohe Street Night Market"},
+    image: "/poi-images/raohe-night-market-landmarks-v2.webp",
     description: {
       de: "Einer der ältesten Nachtmärkte in Taipeh, bekannt für seine traditionellen Gerichte und das imposante Tor am Eingang.",
       hu: "Tajpej egyik legrégebbi éjszakai piaca, amely hagyományos ételeiről és a bejáratnál lévő impozáns kapuról ismert.",
@@ -281,15 +396,27 @@ image: "/poi-images/raohe-night-market-landmarks-v2.webp"
       hu: ["A leghíresebb specialitás a kemencében sült borsos sertéshúsos buci.", "Közvetlenül a Mazu istennőnek szentelt Ciyou-templom mellett található."],
       ro: ["Cea mai faimoasă specialitate sunt chiflele cu carne de porc și piper, coapte în cuptor.", "Situată chiar lângă Templul Ciyou, dedicat zeiței Mazu."],
       en: ["The most famous specialty is the oven-baked black pepper pork buns.", "Located right next to the Ciyou Temple, which is dedicated to the goddess Mazu."]
-    }, image: "/poi-images/raohe-night-market-landmarks-v2.webp"},
+    }, image: "/poi-images/raohe-night-market-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Raohe-Nachtmarkt ist ein traditioneller Nachtmarkt im Bezirk Songshan in Taipeh, Taiwan. Er wurde 1988 eröffnet und erstreckt sich über eine Länge von etwa 600 Metern entlang der Raohe Street. Der Markt hat über 140 Stände, die eine Vielzahl lokaler Gerichte anbieten, darunter das berühmte „Raohe Street Black Pepper Bun“ (胡椒饼), Austernomelett und Yan Su Ji (Salzsäcke Huhn). Im Gegensatz zu anderen Nachtmärkten ist die Raohe Street stärker auf lokale Esskultur fokussiert und weniger auf Souvenirs. Der Markt ist täglich von etwa 17 Uhr bis 23 Uhr geöffnet. Im Durchschnitt wird die Raohe Street von täglich 30.000 Besuchern frequentiert, an Wochenenden bis zu 50.000. Der Markt liegt in der Nähe des Songshan-Bahnhofs und der Raohe-Straße. Er wird oft als einer der besten Nachtmärkte Taiwans bezeichnet. Die Parkmöglichkeiten sind begrenzt.",
+      hu: "A Raohe Éjszakai Piac Tajpej Songshan kerületében található hagyományos éjszakai piac. 1988-ban nyílt meg, kb. 600 méter hosszú a Raohe utcában. Több mint 140 árus kínál helyi ételeket, például a híres borsos zsemlét (胡椒饼), osztrigás omlettet és Yan Su Jit. A piac fő profilja az étkezés, kevés a szuvenír. Naponta 17:00-23:00 óráig tart nyitva. Átlagos napi látogatószám 30.000, hétvégén akár 50.000. A Songshan vasútállomás közelében található. Gyakran nevezik Tajvan egyik legjobb éjszakai piacának. Parkolás korlátozott.",
+      ro: "Piața de Noapte Raohe este o piață tradițională de noapte în districtul Songshan din Taipei, Taiwan. Deschisă în 1988, se întinde pe aproximativ 600 m de-a lungul străzii Raohe. Are peste 140 de tarabe care oferă preparate locale, inclusiv faimoasa chiflă cu piper negru (胡椒饼), omletă cu stridii și pui sărat. Piața pune accent pe mâncare, nu pe suveniruri. Este deschisă zilnic între orele 17:00 și 23:00. Atrage în medie 30.000 de vizitatori pe zi, iar în weekend până la 50.000. Situată lângă gara Songshan. Este adesea considerată una dintre cele mai bune piețe de noapte din Taiwan. Parcarea este limitată.",
+      en: "Raohe Night Market, located in Taipei's Songshan District, is a traditional night market that opened in 1988. It spans about 600 m along Raohe Street, featuring over 140 food stalls. Signature dishes include the Raohe Street Black Pepper Bun (胡椒饼), oyster omelette, and Yan Su Ji (salt-crusted chicken). Unlike other night markets, Raohe focuses almost exclusively on food, with few non-food vendors. It operates daily from 5 PM to 11 PM. Average daily footfall is 30,000, reaching 50,000 on weekends. The market is near Songshan Railway Station. It is consistently ranked among Taiwan's top night markets. Parking is limited, but public transport access is good.",
+    },
+    factsAdvanced: {
+      de: ["Der Markt wurde 1988 eröffnet.", "Er erstreckt sich über eine Länge von etwa 600 m.", "Es gibt über 140 Stände.", "Tägliche Besucher: durchschnittlich 30.000, bis zu 50.000 am Wochenende.", "Öffnungszeiten: täglich 17:00-23:00 Uhr.", "Berühmt für den Raohe Street Black Pepper Bun."],
+      hu: ["A piac 1988-ban nyílt meg.", "Hossza kb. 600 méter.", "Több mint 140 árus.", "Napi 30.000, hétvégén 50.000 látogató.", "Nyitva: 17:00-23:00.", "Híres a borsos zsemléről."],
+      ro: ["Deschisă în 1988.", "Lungime: aproximativ 600 m.", "Peste 140 de tarabe.", "Vizitatori zilnici: 30.000, weekend 50.000.", "Program: 17:00-23:00.", "Faimoasă pentru chifla cu piper negru."],
+      en: ["Opened in 1988.", "Length: approximately 600 m.", "Over 140 stalls.", "Daily visitors: 30,000 average, up to 50,000 on weekends.", "Open daily 5 PM to 11 PM.", "Famous for Raohe Street Black Pepper Bun."],
+    },
+  },
   {
     id: "elephant-mountain-landmarks-v2",
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5746, 25.0272],
-    name: { de: "Elefantenberg", hu: "Elefánt-hegy", ro: "Muntele Elefant", en: "Elephant Mountain",
-image: "/poi-images/elephant-mountain-landmarks-v2.webp"
-},
+    name: { de: "Elefantenberg", hu: "Elefánt-hegy", ro: "Muntele Elefant", en: "Elephant Mountain"},
+    image: "/poi-images/elephant-mountain-landmarks-v2.webp",
     description: {
       de: "Ein steiler Hügel nahe dem Zentrum von Taipeh, der einen der besten Ausblicke auf den Taipei 101 und die Skyline der Stadt bietet.",
       hu: "Egy meredek domb Tajpej központja közelében, amely az egyik legjobb kilátást nyújtja a Taipei 101-re és a város sziluettjére.",
@@ -301,15 +428,27 @@ image: "/poi-images/elephant-mountain-landmarks-v2.webp"
       hu: ["A túra a csúcsra körülbelül 20-30 percet vesz igénybe, de nagyrészt lépcsőkből áll.", "Nevét a hegy elefántra emlékeztető formájáról kapta."],
       ro: ["Drumeția spre vârf durează aproximativ 20-30 de minute, dar constă în principal din trepte.", "Numele său derivă din forma muntelui, care amintește de un elefant."],
       en: ["The hike to the top takes about 20 to 30 minutes but consists mostly of stairs.", "Its name is derived from the shape of the mountain, which resembles an elephant."]
-    }, image: "/poi-images/elephant-mountain-landmarks-v2.webp"},
+    }, image: "/poi-images/elephant-mountain-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Elefantenberg (Xiangshan) ist ein 183 Meter hoher Hügel im Bezirk Xinyi in Taipeh, Taiwan. Er ist Teil des Nangang-Höhenzuges und bietet einen der besten Ausblicke auf die Taipeh 101 und die Skyline der Stadt. Der Aufstieg über die Treppen dauert etwa 20 Minuten. Der Berg hat einen 1,5 km langen Wanderweg, der an verschiedenen Aussichtspunkten vorbeiführt. Der Elefantenberg ist besonders bei Einheimischen und Touristen beliebt, die den Sonnenuntergang und die Nachtbeleuchtung der Stadt genießen möchten. Der Name leitet sich von der Form des Hügels ab, die an einen Elefantenkopf erinnert. Der Berg ist kostenlos zugänglich und rund um die Uhr geöffnet. Jährlich besuchen über 1 Million Menschen den Elefantenberg. Der Weg ist gut ausgebaut, aber an Wochenenden und Feiertagen oft überfüllt. In der Nähe befindet sich der Taipei Zoo und der Maokong Gondel.",
+      hu: "Az Elefánt-hegy (Xiangshan) Tajpej Xinyi kerületében található, 183 méter magas domb. A Nangang-hegység része, és a város egyik legjobb kilátópontját kínálja a Taipei 101-re és a városra. A feljutás a lépcsőkön kb. 20 perc. A hegyen 1,5 km hosszú túraút vezet, több kilátóval. Különösen népszerű naplementekor és az éjszakai fényeknél. Nevét elefántfej formájáról kapta. Ingyenes és éjjel-nappal látogatható. Évente több mint 1 millióan keresik fel. Az ösvény jól karbantartott, de hétvégén zsúfolt. A közelben található a Taipei Állatkert és a Maokong sikló.",
+      ro: "Muntele Elefant (Xiangshan) este un deal de 183 m înălțime situat în districtul Xinyi din Taipei, Taiwan. Face parte din lanțul Nangang și oferă una dintre cele mai bune vederi asupra Taipei 101 și a orizontului orașului. Ascensiunea pe scări durează aproximativ 20 de minute. Traseul de drumeție are 1,5 km lungime, cu mai multe puncte de belvedere. Muntele este popular pentru apusuri și iluminatul nocturn. Numele provine de la forma sa care seamănă cu un cap de elefant. Accesul este gratuit și deschis 24/7. Aproximativ 1 milion de vizitatori anual. Poteca este bine întreținută, dar aglomerată în weekenduri. În apropiere se află Grădina Zoologică Taipei și telecabina Maokong.",
+      en: "Elephant Mountain (Xiangshan) is a 183 m hill in Taipei's Xinyi District, part of the Nangang Ridge. It offers iconic views of Taipei 101 and the city skyline. The climb via stairs takes about 20 minutes. The trail is 1.5 km long with several lookout platforms. It is especially popular for sunset and nighttime city lights. The name derives from the hill's elephant-head shape. Admission is free and the trail is open 24/7. Over 1 million visitors hike annually. The trail is well-maintained but can be crowded on weekends. Nearby attractions include Taipei Zoo and the Maokong Gondola. The summit elevation also provides a perspective on the city's geography.",
+    },
+    factsAdvanced: {
+      de: ["Der Elefantenberg ist 183 m hoch.", "Der Aufstieg dauert etwa 20 Minuten.", "Der Wanderweg ist 1,5 km lang.", "Der Berg ist kostenlos und rund um die Uhr geöffnet.", "Jährlich besuchen über 1 Million Menschen den Berg.", "Er bietet eine Aussicht auf Taipeh 101."],
+      hu: ["Az Elefánt-hegy 183 m magas.", "A feljutás kb. 20 perc.", "A túraút 1,5 km hosszú.", "Ingyenes és éjjel-nappal nyitva.", "Évente több mint 1 millió látogató.", "Kilátás nyílik a Taipei 101-re."],
+      ro: ["Înălțime: 183 m.", "Durata urcării: aproximativ 20 de minute.", "Traseul: 1,5 km.", "Acces gratuit și deschis 24/7.", "Peste 1 milion de vizitatori anual.", "Oferă vedere spre Taipei 101."],
+      en: ["Elevation: 183 m.", "Climb time: approximately 20 minutes.", "Trail length: 1.5 km.", "Free admission, open 24/7.", "Annual visitors: over 1 million.", "Famous for Taipei 101 views."],
+    },
+  },
   {
     id: "lotus-pond-landmarks-v2",
     type: "landmark",
     parent: "TW-KHH",
     coords: [120.2952, 22.6824],
-    name: { de: "Lotusteich", hu: "Lótusz-tó", ro: "Iazul de Lotus", en: "Lotus Pond",
-image: "/poi-images/lotus-pond-landmarks-v2.webp"
-},
+    name: { de: "Lotusteich", hu: "Lótusz-tó", ro: "Iazul de Lotus", en: "Lotus Pond"},
+    image: "/poi-images/lotus-pond-landmarks-v2.webp",
     description: {
       de: "Ein künstlicher See in Kaohsiung, der von zahlreichen farbenfrohen Tempeln, Pavillons und Statuen umgeben ist.",
       hu: "Egy mesterséges tó Kaohsziungban, amelyet számos színes templom, pavilon és szobor vesz körül.",
@@ -321,15 +460,27 @@ image: "/poi-images/lotus-pond-landmarks-v2.webp"
       hu: ["A Tavasz és Ősz Pavilon egy másik népszerű nevezetesség a tó partján.", "A nyári hónapokban a tavat gyönyörű lótuszvirágok borítják."],
       ro: ["Pavilionul Primăverii și Toamnei este un alt punct de reper popular de pe lac.", "În lunile de vară, iazul este acoperit cu flori frumoase de lotus."],
       en: ["The Spring and Autumn Pavilions are another popular landmark on the lake.", "During the summer months, the pond is covered with beautiful lotus flowers."]
-    }, image: "/poi-images/lotus-pond-landmarks-v2.webp"},
+    }, image: "/poi-images/lotus-pond-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lotus-See (Lotus Pond) ist ein künstlicher See in Kaohsiung, Taiwan, der in den 1950er Jahren angelegt wurde. Er hat eine Fläche von 8 Hektar. Der See ist von einer Promenade umgeben und beherbergt mehrere taoistische und buddhistische Tempel und Schreine, darunter die Drachen- und Tigerpagoden, den Frühling-Herbst-Pavillon und den Konfuzius-Tempel. Der See wurde ursprünglich für landwirtschaftliche Bewässerung gebaut. Heute ist er eine beliebte Touristenattraktion. Der See liegt im Bezirk Zuoying. Die umliegenden Tempel stammen aus den 1950er bis 1970er Jahren. Der See ist reich an Lotusblumen, die im Sommer blühen. Jährlich besuchen etwa 2 Millionen Menschen den Lotus-See. Es gibt auch Bootsfahrten und einen Park. Der See ist ein wichtiges kulturelles Zentrum für die lokale Gemeinschaft.",
+      hu: "A Lótusz-tó (Lotus Pond) egy mesterséges tó Kaohsiungban, Tajvanon, amelyet az 1950-es években hoztak létre. Területe 8 hektár. A tavat sétány veszi körül, és számos taoista és buddhista templom és szentély található mellette, mint a Sárkány- és Tigrispagodák, a Tavasz-Ősz Pavilon és a Konfuciusz-templom. A tavat eredetileg öntözésre építették. Ma turisztikai látványosság. A tó Zuoying kerületben van. A környező templomok az 1950-1970-es évekből valók. Nyáron lótuszvirágok nyílnak. Évente kb. 2 millió látogató. Csónakázási lehetőség és park is van. A tó fontos kulturális központ.",
+      ro: "Lacul Lotus (Lotus Pond) este un lac artificial din Kaohsiung, Taiwan, creat în anii 1950. Are o suprafață de 8 hectare. Lacul este înconjurat de o promenadă și găzduiește mai multe temple taoiste și budiste, cum ar fi Pagodele Dragonului și Tigrului, Pavilionul Primăverii-Toamnei și Templul Confucius. Lacul a fost construit inițial pentru irigații. Astăzi este o atracție turistică populară. Se află în districtul Zuoying. Templele datează între anii 1950 și 1970. Lacul este bogat în flori de lotus, care înfloresc vara. Aproximativ 2 milioane de vizitatori anual. Oferă plimbări cu barca și un parc. Este un centru cultural important pentru comunitatea locală.",
+      en: "Lotus Pond is an artificial lake in Kaohsiung, Taiwan, created in the 1950s, covering 8 hectares. It is surrounded by a lakeside promenade and features several Taoist and Buddhist temples, including the Dragon and Tiger Pagodas, Spring and Autumn Pavilions, and Confucius Temple. Originally built for irrigation, it is now a major tourist attraction. Located in the Zuoying District, the temples were constructed between the 1950s and 1970s. The lake is known for its lotus flowers, which bloom in summer. It attracts about 2 million visitors annually. Boat rides and a park enhance the site. Lotus Pond serves as a cultural and recreational hub for Kaohsiung residents.",
+    },
+    factsAdvanced: {
+      de: ["Der See wurde in den 1950er Jahren angelegt.", "Die Wasserfläche beträgt 8 Hektar.", "Der See liegt im Bezirk Zuoying.", "Er wurde für die landwirtschaftliche Bewässerung gebaut.", "Jährlich besuchen etwa 2 Millionen Menschen den See.", "Der Frühling-Herbst-Pavillon ist einer der Tempel am See."],
+      hu: ["A tavat az 1950-es években hozták létre.", "Területe 8 hektár.", "Zuoying kerületben található.", "Eredetileg öntözésre épült.", "Évente kb. 2 millió látogató.", "A Tavasz-Ősz Pavilon az egyik templom a tónál."],
+      ro: ["Creat în anii 1950.", "Suprafață: 8 hectare.", "Situat în districtul Zuoying.", "Construit pentru irigații.", "Aproximativ 2 milioane de vizitatori anual.", "Pavilionul Primăverii-Toamnei este unul dintre temple."],
+      en: ["Created in the 1950s.", "Area: 8 hectares.", "Located in Zuoying District.", "Originally for irrigation.", "Annual visitors: about 2 million.", "Spring and Autumn Pavilion is a temple on site."],
+    },
+  },
   {
     id: "maokong-gondola-landmarks-v2",
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5901, 24.9686],
-    name: { de: "Maokong-Gondelbahn", hu: "Maokong felvonó", ro: "Telegondola Maokong", en: "Maokong Gondola",
-image: "/poi-images/maokong-gondola-landmarks-v2.webp"
-},
+    name: { de: "Maokong-Gondelbahn", hu: "Maokong felvonó", ro: "Telegondola Maokong", en: "Maokong Gondola"},
+    image: "/poi-images/maokong-gondola-landmarks-v2.webp",
     description: {
       de: "Ein Seilbahnsystem in Taipeh, das Besucher hinauf in die Teeanbaugebiete von Maokong bringt, wo es viele traditionelle Teehäuser gibt.",
       hu: "Egy drótkötélpályás felvonó Tajpejben, amely felviszi a látogatókat Maokong teatermő vidékeire, ahol sok hagyományos teaház található.",
@@ -341,15 +492,27 @@ image: "/poi-images/maokong-gondola-landmarks-v2.webp"
       hu: ["Az útvonal több mint 4 kilométer hosszú és nagyszerű kilátást nyújt a városra.", "Néhány kabin üvegpadlós, ezeket 'Crystal Cabins'-nak hívják."],
       ro: ["Traseul are o lungime de peste 4 kilometri și oferă o priveliște excelentă asupra orașului.", "Unele cabine au podea de sticlă, cunoscute sub numele de 'Crystal Cabins'."],
       en: ["The route is over 4 kilometers long and offers great views of the city.", "Some of the cabins have a glass bottom, known as 'Crystal Cabins'."]
-    }, image: "/poi-images/maokong-gondola-landmarks-v2.webp"},
+    }, image: "/poi-images/maokong-gondola-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Maokong-Seilbahn verbindet die U-Bahn-Station Taipei Zoo mit dem Bergdorf Maokong im Bezirk Wenshan, Taipeh. Sie wurde 2007 eröffnet und ist 4,03 Kilometer lang. Die Gondeln bieten einen Panoramablick über Taipeh und die umliegenden Berge. Die Fahrt dauert etwa 30 Minuten. Maokong ist berühmt für seine Teeplantagen, insbesondere für den Tieguanyin-Tee, und es gibt über 50 Teehäuser. Die Seilbahn hat vier Stationen: Taipei Zoo, Taipei Zoo South, Zhinan Temple und Maokong. Die Höhendifferenz zwischen Start und Ziel beträgt etwa 300 Meter. Die Gondeln befördern bis zu 8 Personen pro Kabine. Jährlich nutzen über 2 Millionen Fahrgäste die Seilbahn. Das System ist bei schlechtem Wetter anfällig für Störungen. Die Seilbahn wurde von der Firma Poma gebaut.",
+      hu: "A Maokong sikló összeköti a Taipei Állatkert metróállomását a Maokong hegyi faluban, Tajpej Wenshan kerületében. 2007-ben nyílt meg, hossza 4,03 km. Panorámás kilátást nyújt Tajpejre és a hegyekre. Az út kb. 30 percig tart. Maokong híres teaültetvényeiről, különösen a Tieguanyin teáról, és több mint 50 teaház található itt. A siklónak négy állomása van: Taipei Zoo, Taipei Zoo South, Zhinan Temple és Maokong. A szintkülönbség indító és célállomás között kb. 300 méter. A kabinok max. 8 főt szállítanak. Évente több mint 2 millió utas használja. Rossz időben hajlamos a meghibásodásra. A siklót a Poma cég építette.",
+      ro: "Telecabina Maokong leagă stația de metrou a Grădinii Zoologice Taipei de satul de munte Maokong din districtul Wenshan, Taipei. A fost deschisă în 2007 și are o lungime de 4,03 km. Cabinele oferă vederi panoramice asupra Taipeiului și munților înconjurători. Călătoria durează aproximativ 30 de minute. Maokong este renumit pentru plantațiile de ceai, în special ceaiul Tieguanyin, și are peste 50 de case de ceai. Telecabina are patru stații: Taipei Zoo, Taipei Zoo South, Zhinan Temple și Maokong. Diferența de altitudine între capete este de aproximativ 300 m. Cabinele pot transporta până la 8 persoane. Peste 2 milioane de călători anual. Sistemul poate fi afectat de vremea rea. Construită de compania Poma.",
+      en: "The Maokong Gondola connects the Taipei Zoo MRT station to the mountain village of Maokong in Taipei's Wenshan District. Opened in 2007, the cable car line stretches 4.03 km. The journey takes about 30 minutes, offering panoramic views of Taipei and surrounding hills. Maokong is known for its tea plantations, especially Tieguanyin tea, and hosts over 50 tea houses. The gondola has four stations: Taipei Zoo, Taipei Zoo South, Zhinan Temple, and Maokong. The elevation gain is approximately 300 m. Each cabin accommodates up to 8 passengers. Annual ridership exceeds 2 million. The system is sensitive to wind and weather. Manufactured by Poma, the gondola enhances access to Maokong's cultural and agricultural activities.",
+    },
+    factsAdvanced: {
+      de: ["Die Seilbahn wurde 2007 eröffnet.", "Sie ist 4,03 km lang.", "Die Fahrt dauert etwa 30 Minuten.", "Die Höhendifferenz beträgt etwa 300 m.", "Jährlich nutzen über 2 Millionen Fahrgäste die Seilbahn.", "Es gibt vier Stationen."],
+      hu: ["A sikló 2007-ben nyílt meg.", "Hossza 4,03 km.", "Az út kb. 30 perc.", "A szintkülönbség kb. 300 m.", "Évente több mint 2 millió utas.", "Négy állomása van."],
+      ro: ["Deschisă în 2007.", "Lungime: 4,03 km.", "Durata călătoriei: aproximativ 30 de minute.", "Diferența de altitudine: aproximativ 300 m.", "Peste 2 milioane de călători anual.", "Patru stații."],
+      en: ["Opened in 2007.", "Length: 4.03 km.", "Travel time: about 30 minutes.", "Elevation gain: approximately 300 m.", "Annual ridership: over 2 million.", "Four stations."],
+    },
+  },
   {
     id: "chimei-museum-landmarks-v2",
     type: "landmark",
     parent: "TW-TNN",
     coords: [120.2263, 22.9348],
-    name: { de: "Chimei Museum", hu: "Chimei Múzeum", ro: "Muzeul Chimei", en: "Chimei Museum",
-image: "/poi-images/chimei-museum-landmarks-v2.webp"
-},
+    name: { de: "Chimei Museum", hu: "Chimei Múzeum", ro: "Muzeul Chimei", en: "Chimei Museum"},
+    image: "/poi-images/chimei-museum-landmarks-v2.webp",
     description: {
       de: "Ein beeindruckendes privates Museum in Tainan, das europäische Kunst, Musikinstrumente, historische Waffen und Naturgeschichte ausstellt.",
       hu: "Egy lenyűgöző magánmúzeum Tajnanban, amely európai művészetet, hangszereket, történelmi fegyvereket és természettudományi kiállításokat mutat be.",
@@ -367,9 +530,8 @@ image: "/poi-images/chimei-museum-landmarks-v2.webp"
     type: "landmark",
     parent: "TW-TPE",
     coords: [121.5541, 25.1581],
-    name: { de: "Yangmingshan-Nationalpark", hu: "Yangmingshan Nemzeti Park", ro: "Parcul Național Yangmingshan", en: "Yangmingshan National Park",
-image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp"
-},
+    name: { de: "Yangmingshan-Nationalpark", hu: "Yangmingshan Nemzeti Park", ro: "Parcul Național Yangmingshan", en: "Yangmingshan National Park"},
+    image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp",
     description: {
       de: "Ein vulkanischer Nationalpark direkt vor den Toren Taipehs, bekannt für seine heißen Quellen, Fumarolen und im Frühling blühenden Kirschblüten.",
       hu: "Egy vulkanikus nemzeti park közvetlenül Tajpej mellett, amely híres hőforrásairól, fumaroláiról és tavasszal nyíló cseresznyevirágairól.",
@@ -387,9 +549,8 @@ image: "/poi-images/yangmingshan-national-park-landmarks-v2.webp"
     type: "landmark",
     parent: "TW-TXG",
     coords: [120.5501, 24.3121],
-    name: { de: "Gaomei-Feuchtgebiete", hu: "Gaomei vizes élőhely", ro: "Zonele umede Gaomei", en: "Gaomei Wetlands",
-image: "/poi-images/gaomei-wetlands-landmarks-v2.webp"
-},
+    name: { de: "Gaomei-Feuchtgebiete", hu: "Gaomei vizes élőhely", ro: "Zonele umede Gaomei", en: "Gaomei Wetlands"},
+    image: "/poi-images/gaomei-wetlands-landmarks-v2.webp",
     description: {
       de: "Ein ausgedehntes Wattenmeer in Taichung, das ein wichtiger Lebensraum für Zugvögel ist und für seine spektakulären Sonnenuntergänge berühmt ist.",
       hu: "Egy kiterjedt árapálysíkság Tajcsungban, amely fontos élőhelye a vándormadaraknak, és látványos naplementéiről híres.",

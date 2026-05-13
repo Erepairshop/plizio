@@ -10,9 +10,8 @@ export const poiExtraPakistanReliefV2: POI[] = [
       de: "Thar-Wüste",
       hu: "Thar-sivatag",
       ro: "Deșertul Thar",
-      en: "Thar Desert",
-image: "/poi-images/pk-thar-desert-relief-v2.webp"
-},
+      en: "Thar Desert"},
+    image: "/poi-images/pk-thar-desert-relief-v2.webp",
     description: {
       de: "Die Thar-Wüste erstreckt sich über den Osten der Provinz Sindh und bildet eine natürliche Grenze zu Indien. Sie ist bekannt für ihre weiten Sanddünen, einzigartige Wüstenökosysteme und reiche hindu-muslimische Kultur.",
       hu: "A Thar-sivatag a Szindh tartomány keleti részén terül el, és természetes határt képez India felé. Hatalmas homokdűnéiről, egyedi sivatagi ökoszisztémájáról és gazdag hindu-muszlim kultúrájáról ismert.",
@@ -67,9 +66,8 @@ image: "/poi-images/pk-thar-desert-relief-v2.webp"
       de: "Cholistan-Wüste",
       hu: "Csolisztán-sivatag",
       ro: "Deșertul Cholistan",
-      en: "Cholistan Desert",
-image: "/poi-images/pk-cholistan-desert-relief-v2.webp"
-},
+      en: "Cholistan Desert"},
+    image: "/poi-images/pk-cholistan-desert-relief-v2.webp",
     description: {
       de: "Die Cholistan-Wüste im Süden des Punjab, oft lokal als Rohi bezeichnet, geht nahtlos in die indische Thar-Wüste über. Sie ist berühmt für das jährliche Cholistan-Jeep-Rallye-Rennen und alte Karawanenrouten.",
       hu: "A Pandzsáb déli részén található Csolisztán-sivatag, amelyet helyben Rohinak is hívnak, zökkenőmentesen olvad össze az indiai Thar-sivataggal. Híres az éves dzsip-raliról és a régi karavánutakról.",
@@ -124,9 +122,8 @@ image: "/poi-images/pk-cholistan-desert-relief-v2.webp"
       de: "Kharan-Wüste",
       hu: "Kharan-sivatag",
       ro: "Deșertul Kharan",
-      en: "Kharan Desert",
-image: "/poi-images/pk-kharan-desert-relief-v2.webp"
-},
+      en: "Kharan Desert"},
+    image: "/poi-images/pk-kharan-desert-relief-v2.webp",
     description: {
       de: "Die Kharan-Wüste ist ein sandiges und bergiges Trockengebiet im Westen von Belutschistan. Diese trockene Region zeichnet sich durch Wanderdünen, extremes Klima und die historische Seidenstraße aus, die einst hier verlief.",
       hu: "A Kharan-sivatag egy homokos és hegyvidéki száraz terület Beludzsisztán nyugati részén. Ezt a száraz régiót vándorló dűnék, extrém éghajlat és az egykor itt haladó történelmi Selyemút jellemzi.",
@@ -181,9 +178,8 @@ image: "/poi-images/pk-kharan-desert-relief-v2.webp"
       de: "Makran-Küste",
       hu: "Makrán-partvidék",
       ro: "Coasta Makran",
-      en: "Makran Coast",
-image: "/poi-images/pk-makran-coast-relief-v2.webp"
-},
+      en: "Makran Coast"},
+    image: "/poi-images/pk-makran-coast-relief-v2.webp",
     description: {
       de: "Die Makran-Küste ist eine halbwüstenartige Küstenebene am Arabischen Meer im Süden Pakistans. Sie besticht durch dramatische Felsformationen, wunderschöne unberührte Strände und den strategisch wichtigen Hafen von Gwadar.",
       hu: "A Makrán-partvidék egy félsivatagos tengerparti síkság az Arab-tenger mentén Pakisztán déli részén. Lenyűgöző sziklaalakzataival, gyönyörű érintetlen strandjaival és Gwadar stratégiailag fontos kikötőjével büszkélkedhet.",
@@ -238,9 +234,8 @@ image: "/poi-images/pk-makran-coast-relief-v2.webp"
       de: "Pothohar-Plateau",
       hu: "Pothohar-fennsík",
       ro: "Podișul Pothohar",
-      en: "Pothohar Plateau",
-image: "/poi-images/pk-pothohar-plateau-relief-v2.webp"
-},
+      en: "Pothohar Plateau"},
+    image: "/poi-images/pk-pothohar-plateau-relief-v2.webp",
     description: {
       de: "Das Pothohar-Plateau liegt im nördlichen Punjab und zeichnet sich durch ein hügeliges Terrain mit starker Erosion aus. Hier befinden sich nicht nur reiche archäologische Stätten wie Taxila, sondern auch weite landwirtschaftliche Flächen und historische Tempel.",
       hu: "Az észak-pandzsábi Pothohar-fennsíkot dombos, erős eróziónak kitett terep jellemzi. Itt nemcsak olyan gazdag régészeti lelőhelyek találhatók, mint Taxila, hanem hatalmas mezőgazdasági területek és történelmi templomok is.",
@@ -295,9 +290,8 @@ image: "/poi-images/pk-pothohar-plateau-relief-v2.webp"
       de: "Belutschistan-Plateau",
       hu: "Beludzsisztán-fennsík",
       ro: "Podișul Balochistan",
-      en: "Balochistan Plateau",
-image: "/poi-images/pk-balochistan-plateau-relief-v2.webp"
-},
+      en: "Balochistan Plateau"},
+    image: "/poi-images/pk-balochistan-plateau-relief-v2.webp",
     description: {
       de: "Das Belutschistan-Plateau ist eine weite, hoch gelegene und extrem trockene Hochebene im Südwesten Pakistans. Es beherbergt dramatische Gebirgsketten, reiche Mineralvorkommen und eine dünne Besiedlung durch nomadische Stämme.",
       hu: "A Beludzsisztán-fennsík egy hatalmas, magasan fekvő és rendkívül száraz fennsík Pakisztán délnyugati részén. Drámai hegyláncok, gazdag ásványkincsek és nomád törzsek ritka lakossága jellemzi.",
@@ -352,9 +346,8 @@ image: "/poi-images/pk-balochistan-plateau-relief-v2.webp"
       de: "Neelum-Tal",
       hu: "Neelum-völgy",
       ro: "Valea Neelum",
-      en: "Neelum Valley",
-image: "/poi-images/pk-neelum-valley-relief-v2.webp"
-},
+      en: "Neelum Valley"},
+    image: "/poi-images/pk-neelum-valley-relief-v2.webp",
     description: {
       de: "Das Neelum-Tal in Asad Kaschmir ist ein 144 Kilometer langes, bogenförmiges Tal, das für seine atemberaubenden alpinen Wälder, kristallklaren Bäche und schneebedeckten Gipfel bekannt ist. Es gilt als eines der schönsten Naturziele des Landes.",
       hu: "Az Azad Kasmírban található Neelum-völgy egy 144 kilométer hosszú, ív alakú völgy, amely lélegzetelállító alpesi erdeiről, kristálytiszta patakjairól és hófödte csúcsairól ismert. Az ország egyik legszebb természeti célpontjának tartják.",
@@ -409,9 +402,8 @@ image: "/poi-images/pk-neelum-valley-relief-v2.webp"
       de: "Swat-Tal",
       hu: "Szvát-völgy",
       ro: "Valea Swat",
-      en: "Swat Valley",
-image: "/poi-images/pk-swat-valley-relief-v2.webp"
-},
+      en: "Swat Valley"},
+    image: "/poi-images/pk-swat-valley-relief-v2.webp",
     description: {
       de: "Das Swat-Tal, oft als die 'Schweiz Pakistans' bezeichnet, ist ein herrliches Bergtal in der Provinz Khyber Pakhtunkhwa. Es bietet üppig grüne Landschaften, tosendes Gletscherwasser und zahlreiche historische buddhistische Stupas.",
       hu: "A gyakran 'Pakisztán Svájcának' is nevezett Szvát-völgy egy gyönyörű hegyi völgy Khyber Pakhtunkhwa tartományban. Buja zöld tájakat, zuhogó gleccservizet és számos történelmi buddhista sztúpát kínál.",
@@ -466,9 +458,8 @@ image: "/poi-images/pk-swat-valley-relief-v2.webp"
       de: "Kaghan-Tal",
       hu: "Kaghán-völgy",
       ro: "Valea Kaghan",
-      en: "Kaghan Valley",
-image: "/poi-images/pk-kaghan-valley-relief-v2.webp"
-},
+      en: "Kaghan Valley"},
+    image: "/poi-images/pk-kaghan-valley-relief-v2.webp",
     description: {
       de: "Das Kaghan-Tal ist eine alpine Bilderbuchlandschaft im Distrikt Mansehra. Mit seinen unzähligen Bergseen, saftig grünen Wiesen und dichten Kiefernwäldern ist es im Sommer ein wahrer Magnet für Wanderer und Naturliebhaber.",
       hu: "A Kaghán-völgy egy képeslapra illő alpesi táj Mansehra körzetében. Számtalan hegyi tavával, buja zöld rétjeivel és sűrű fenyőerdeivel nyáron a túrázók és a természet szerelmeseinek igazi mágnese.",
@@ -523,9 +514,8 @@ image: "/poi-images/pk-kaghan-valley-relief-v2.webp"
       de: "Kumrat-Tal",
       hu: "Kumrát-völgy",
       ro: "Valea Kumrat",
-      en: "Kumrat Valley",
-image: "/poi-images/pk-kumrat-valley-relief-v2.webp"
-},
+      en: "Kumrat Valley"},
+    image: "/poi-images/pk-kumrat-valley-relief-v2.webp",
     description: {
       de: "Das Kumrat-Tal im Distrikt Upper Dir ist ein verborgenes Juwel mit hoch aufragenden Zedernwäldern und dem glitzernden Panjkora-Fluss. Dieses Tal hat sich erst in jüngster Zeit zu einem beliebten Ziel für umweltfreundlichen Tourismus entwickelt.",
       hu: "A Kumrát-völgy Upper Dir körzetében egy rejtett ékszer a magasba tornyosuló cédruserdőkkel és a csillogó Panjkora folyóval. Ez a völgy csak a közelmúltban vált a környezetbarát turizmus népszerű célpontjává.",
@@ -580,9 +570,8 @@ image: "/poi-images/pk-kumrat-valley-relief-v2.webp"
       de: "Kalasha-Täler",
       hu: "Kalas-völgyek",
       ro: "Văile Kalasha",
-      en: "Kalasha Valleys",
-image: "/poi-images/pk-kalasha-valleys-relief-v2.webp"
-},
+      en: "Kalasha Valleys"},
+    image: "/poi-images/pk-kalasha-valleys-relief-v2.webp",
     description: {
       de: "Die Kalasha-Täler (Bumburet, Rumbur und Birir) in Chitral sind abgelegene Schluchten des Hindukusch. Sie sind die Heimat des einzigartigen Kalash-Volkes, einer vorislamischen indigenen Gemeinschaft mit einer reichen und faszinierenden Kultur.",
       hu: "A Chitralban található Kalas-völgyek (Bumburet, Rumbur és Birir) a Hindukus távoli szurdokai. Ezek adnak otthont az egyedülálló kalas népnek, egy gazdag és lenyűgöző kultúrájú, iszlám előtti őslakos közösségnek.",
@@ -637,9 +626,8 @@ image: "/poi-images/pk-kalasha-valleys-relief-v2.webp"
       de: "Shigar-Tal",
       hu: "Shigar-völgy",
       ro: "Valea Shigar",
-      en: "Shigar Valley",
-image: "/poi-images/pk-shigar-valley-relief-v2.webp"
-},
+      en: "Shigar Valley"},
+    image: "/poi-images/pk-shigar-valley-relief-v2.webp",
     description: {
       de: "Das Shigar-Tal ist das Tor zu den gigantischen Gipfeln des Karakorums in Baltistan. Es ist extrem kontrastreich, von grünen Obstgärten und Weiden bis hin zu steilen Felswänden und einer ausgedehnten, kalten Sandwüste.",
       hu: "A Shigar-völgy a Baltisztánban található Karakorum óriási csúcsainak kapuja. Rendkívül kontrasztos, a zöld gyümölcsösöktől és legelőktől a meredek sziklafalakig és a hatalmas, hideg homoksivatagig.",
@@ -694,9 +682,8 @@ image: "/poi-images/pk-shigar-valley-relief-v2.webp"
       de: "Khaplu-Tal",
       hu: "Khaplu-völgy",
       ro: "Valea Khaplu",
-      en: "Khaplu Valley",
-image: "/poi-images/pk-khaplu-valley-relief-v2.webp"
-},
+      en: "Khaplu Valley"},
+    image: "/poi-images/pk-khaplu-valley-relief-v2.webp",
     description: {
       de: "Das breite Khaplu-Tal, auch Ghangche genannt, liegt malerisch am Fluss Shyok in der Region Gilgit-Baltistan. Neben atemberaubenden Bergpanoramen ist es für seine historischen tibetisch inspirierten Moscheen und Obstgärten bekannt.",
       hu: "A széles Khaplu-völgy, más néven Ghangche, festői környezetben fekszik a Shyok folyó mentén a Gilgit-Baltisztán régióban. A lenyűgöző hegyi panorámák mellett történelmi tibeti ihletésű mecsetjeiről és gyümölcsöseiről ismert.",
@@ -751,9 +738,8 @@ image: "/poi-images/pk-khaplu-valley-relief-v2.webp"
       de: "Astore-Tal",
       hu: "Astore-völgy",
       ro: "Valea Astore",
-      en: "Astore Valley",
-image: "/poi-images/pk-astore-valley-relief-v2.webp"
-},
+      en: "Astore Valley"},
+    image: "/poi-images/pk-astore-valley-relief-v2.webp",
     description: {
       de: "Das Astore-Tal trennt die Gipfel des westlichen Himalayas von denen des Karakorums. Mit tiefen Schluchten, grünen Almwiesen wie Rama Meadows und dem direkten Blick auf den Nanga Parbat ist es eine Landschaft von epischer Schönheit.",
       hu: "Az Astore-völgy elválasztja a nyugati Himalája csúcsait a Karakorumtól. Mély szurdokaival, zöld alpesi legelőivel (mint például a Rama Meadows) és a Nanga Parbatra nyíló közvetlen kilátással egy epikus szépségű táj.",
@@ -808,9 +794,8 @@ image: "/poi-images/pk-astore-valley-relief-v2.webp"
       de: "Naltar-Tal",
       hu: "Naltar-völgy",
       ro: "Valea Naltar",
-      en: "Naltar Valley",
-image: "/poi-images/pk-naltar-valley-relief-v2.webp"
-},
+      en: "Naltar Valley"},
+    image: "/poi-images/pk-naltar-valley-relief-v2.webp",
     description: {
       de: "Das Naltar-Tal liegt hoch über Gilgit und ist bekannt für seine dramatischen, tief in die Berge eingeschnittenen Kiefernwälder. Im Winter verwandelt sich das Tal in das Zentrum des pakistanischen Skisports mit hervorragenden Schneebedingungen.",
       hu: "A Gilgit magasságában található Naltar-völgy drámai, hegyekbe vágott fenyőerdeiről ismert. Télen a völgy a pakisztáni síelés központjává válik, kiváló hóviszonyokkal.",
@@ -865,9 +850,8 @@ image: "/poi-images/pk-naltar-valley-relief-v2.webp"
       de: "Broad Peak",
       hu: "Broad Peak",
       ro: "Broad Peak",
-      en: "Broad Peak",
-image: "/poi-images/pk-broad-peak-relief-v2.webp"
-},
+      en: "Broad Peak"},
+    image: "/poi-images/pk-broad-peak-relief-v2.webp",
     description: {
       de: "Der Broad Peak in der Karakorum-Kette ist der zwölfthöchste Berg der Welt (8.051 m). Sein Gipfel ist bemerkenswert flach und breit, weshalb er oft als einer der am wenigsten tückischen der pakistanischen Achttausender für Alpinisten gilt.",
       hu: "A Karakorum-hegységben található Broad Peak a világ tizenkettedik legmagasabb hegye (8051 m). Csúcsa figyelemre méltóan lapos és széles, ezért az alpinisták gyakran a pakisztáni nyolcezresek közül az egyik legkevésbé alattomosnak tartják.",
@@ -922,9 +906,8 @@ image: "/poi-images/pk-broad-peak-relief-v2.webp"
       de: "Gasherbrum I",
       hu: "Gasherbrum I",
       ro: "Gasherbrum I",
-      en: "Gasherbrum I",
-image: "/poi-images/pk-gasherbrum-1-relief-v2.webp"
-},
+      en: "Gasherbrum I"},
+    image: "/poi-images/pk-gasherbrum-1-relief-v2.webp",
     description: {
       de: "Der Gasherbrum I, auch als Hidden Peak bekannt, ist mit 8.080 Metern der elfthöchste Berg der Welt. Er erhebt sich als eindrucksvolle Pyramide tief im Karakorum und ist wegen seiner extrem abgelegenen Lage erst spät erforscht worden.",
       hu: "A Hidden Peakként (Rejtett Csúcs) is ismert Gasherbrum I a világ tizenegyedik legmagasabb hegye, 8080 méteres. Lenyűgöző piramisként emelkedik mélyen a Karakorum hegységben, és rendkívül elzárt elhelyezkedése miatt csak későn fedezték fel.",
@@ -979,9 +962,8 @@ image: "/poi-images/pk-gasherbrum-1-relief-v2.webp"
       de: "Gasherbrum II",
       hu: "Gasherbrum II",
       ro: "Gasherbrum II",
-      en: "Gasherbrum II",
-image: "/poi-images/pk-gasherbrum-2-relief-v2.webp"
-},
+      en: "Gasherbrum II"},
+    image: "/poi-images/pk-gasherbrum-2-relief-v2.webp",
     description: {
       de: "Der Gasherbrum II ist der dritthöchste Gipfel des Gasherbrum-Massivs und der 13. höchste der Welt. Er bietet eine spektakuläre Silhouette, die wie ein steiles Dreieck aussieht, gilt jedoch bei Alpinisten als einer der zugänglicheren Achttausender.",
       hu: "A Gasherbrum II a Gasherbrum-masszívum harmadik, és a világ 13. legmagasabb csúcsa. Látványos sziluettet kínál, amely meredek háromszögként magasodik, az alpinisták azonban a hozzáférhetőbb nyolcezresek egyikének tartják.",
@@ -1036,9 +1018,8 @@ image: "/poi-images/pk-gasherbrum-2-relief-v2.webp"
       de: "Masherbrum",
       hu: "Masherbrum",
       ro: "Masherbrum",
-      en: "Masherbrum",
-image: "/poi-images/pk-masherbrum-relief-v2.webp"
-},
+      en: "Masherbrum"},
+    image: "/poi-images/pk-masherbrum-relief-v2.webp",
     description: {
       de: "Der Masherbrum (früher K1 genannt) ist ein dominanter 7.821 Meter hoher Berg im Karakorum. Seine atemberaubend steile Nordwand und die isolierte Position machen ihn zu einem der herausforderndsten Kletterziele auf unserem Planeten.",
       hu: "A Masherbrum (korábbi nevén K1) egy domináns 7821 méter magas hegy a Karakorum-hegységben. Lélegzetelállítóan meredek északi fala és elszigetelt fekvése bolygónk egyik legnagyobb kihívást jelentő mászócélpontjává teszi.",
@@ -1093,9 +1074,8 @@ image: "/poi-images/pk-masherbrum-relief-v2.webp"
       de: "Spantik",
       hu: "Spantik",
       ro: "Spantik",
-      en: "Spantik",
-image: "/poi-images/pk-spantik-relief-v2.webp"
-},
+      en: "Spantik"},
+    image: "/poi-images/pk-spantik-relief-v2.webp",
     description: {
       de: "Der Spantik, oft auch 'Golden Peak' genannt, ist ein 7.027 Meter hoher Berg im Rakaposhi-Massiv. Sein Name stammt von der spektakulären goldgelben Farbe, die seine imposante, mit Eis bedeckte Nordwestwand im Licht der untergehenden Sonne annimmt.",
       hu: "A gyakran 'Arany-csúcsként' is emlegetett Spantik egy 7027 méter magas hegy a Rakaposhi-masszívumban. Nevét a látványos aranysárga színről kapta, amelyet lenyűgöző jéggel borított északnyugati fala vesz fel a lemenő nap fényében.",

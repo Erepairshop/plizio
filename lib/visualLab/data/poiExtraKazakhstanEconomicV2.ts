@@ -6,304 +6,539 @@ export const poiExtraKazakhstanEconomicV2: POI[] = [
     type: "energy",
     parent: "KZ-ATY",
     coords: [53.4000, 46.0000],
-    name: { de: "Ölfeld Tengiz", hu: "Tengiz olajmező", ro: "Câmpul petrolier Tengiz", en: "Tengiz Oil Field",
-image: "/poi-images/tengiz-oil-field-economic-v2.webp"
-},
+    name: { de: "Ölfeld Tengiz", hu: "Tengiz olajmező", ro: "Câmpul petrolier Tengiz", en: "Tengiz Oil Field"},
+    image: "/poi-images/tengiz-oil-field-economic-v2.webp",
     description: { de: "Tengiz ist eines der größten und tiefsten produzierenden Ölfelder der Welt, gelegen in den Feuchtgebieten an der nordöstlichen Küste des Kaspischen Meeres.", hu: "A Tengiz a világ egyik legnagyobb és legmélyebben fekvő termelő olajmezője, amely a Kaszpi-tenger északkeleti partján, vizenyős területeken található.", ro: "Tengiz este unul dintre cele mai mari și mai adânci câmpuri petroliere în producție din lume, situat în zonele umede de pe coasta de nord-est a Mării Caspice.", en: "Tengiz is one of the largest and deepest producing oil fields in the world, located in the wetlands along the northeastern coast of the Caspian Sea." },
     facts: {
       de: ["Wurde 1979 entdeckt.", "Die Ölsäule ist unglaublich dick, etwa 1,6 Kilometer.", "Es wird vom Konsortium Tengizchevroil betrieben."],
       hu: ["1979-ben fedezték fel.", "Az olajoszlop hihetetlenül vastag, körülbelül 1,6 kilométer.", "A Tengizchevroil konzorcium üzemelteti."],
       ro: ["A fost descoperit în 1979.", "Coloana de petrol este incredibil de groasă, de aproximativ 1,6 kilometri.", "Este operat de consorțiul Tengizchevroil."],
       en: ["Discovered in 1979.", "The oil column is incredibly thick, measuring about 1.6 kilometers.", "Operated by the Tengizchevroil consortium."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Tengiz-Ölfeld liegt im Nordwesten Kasachstans am Nordufer des Kaspischen Meeres. Es wurde 1979 entdeckt und 1991 in Produktion genommen. Es ist eines der größten Ölfelder der Welt mit Reserven von über 3 Milliarden Tonnen. Betrieben wird es von Tengizchevroil, einem Joint Venture. Die Förderung erfolgt durch Injektion von Gas und Wasser. Das Feld ist für seine hohen Schwefelgehalte bekannt. Die Infrastruktur umfasst Pipelines zur CPC und nach Russland. Tengiz ist entscheidend für die kasachische Wirtschaft. Die Förderung beträgt etwa 30 Millionen Tonnen pro Jahr. Das Feld hat zu Umweltproblemen geführt.",
+      hu: "A Tengiz olajmező Kazahsztán északnyugati részén, a Kaszpi-tenger északi partján található. 1979-ben fedezték fel, 1991-ben kezdték kitermelni. A világ egyik legnagyobb olajmezője, tartalékai meghaladják a 3 milliárd tonnát. A Tengizchevroil közös vállalat üzemelteti. A kitermelés gáz- és vízbesajtolással történik. A mező magas kéntartalmú olajáról ismert. Infrastruktúrája csővezetékek a CPC-hez és Oroszországba. Tengiz kulcsfontosságú Kazahsztán gazdasága számára. Éves termelése körülbelül 30 millió tonna. A mező környezeti problémákat is okozott.",
+      ro: "Câmpul petrolier Tengiz este situat în nord-vestul Kazahstanului, pe malul nordic al Mării Caspice. Descoperit în 1979, a intrat în producție în 1991. Este unul dintre cele mai mari câmpuri petroliere din lume, cu rezerve de peste 3 miliarde de tone. Este operat de Tengizchevroil, un joint venture. Extracția se face prin injectare de gaz și apă. Câmpul este cunoscut pentru conținutul ridicat de sulf. Infrastructura include conducte către CPC și Rusia. Tengiz este crucial pentru economia Kazahstanului. Producția anuală este de aproximativ 30 de milioane de tone. Câmpul a cauzat probleme de mediu.",
+      en: "The Tengiz Oil Field in northwestern Kazakhstan on the Caspian Sea was discovered in 1979 and began production in 1991. It is one of the world's largest oil fields with reserves over 3 billion tons. Operated by Tengizchevroil, a joint venture, it uses gas and water injection. The field is known for its high sulfur content. Infrastructure includes pipelines to CPC and Russia. Tengiz is vital to Kazakhstan's economy, producing about 30 million tons per year. It has caused environmental issues.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt 1979", "Produktionsbeginn 1991", "Reserven: 3 Milliarden Tonnen", "Jährliche Förderung: 30 Mio. Tonnen", "Betreiber: Tengizchevroil", "API-Dichte: 47°"],
+      hu: ["Felfedezés: 1979", "Termelés kezdete: 1991", "Tartalék: 3 milliárd tonna", "Éves termelés: 30 millió tonna", "Üzemeltető: Tengizchevroil", "API sűrűség: 47°"],
+      ro: ["Descoperit în 1979", "Început producție 1991", "Rezerve: 3 miliarde tone", "Producție anuală: 30 milioane tone", "Operator: Tengizchevroil", "Densitate API: 47°"],
+      en: ["Discovered 1979", "Production start 1991", "Reserves: 3 billion tons", "Annual output: 30 million tons", "Operator: Tengizchevroil", "API gravity: 47°"],
+    },
   },
   {
     id: "kashagan-oil-field-economic-v2",
     type: "energy",
     parent: "KZ-ATY",
     coords: [51.9000, 46.8000],
-    name: { de: "Ölfeld Kaschagan", hu: "Kasagan olajmező", ro: "Câmpul petrolier Kashagan", en: "Kashagan Oil Field",
-image: "/poi-images/kashagan-oil-field-economic-v2.webp"
-},
+    name: { de: "Ölfeld Kaschagan", hu: "Kasagan olajmező", ro: "Câmpul petrolier Kashagan", en: "Kashagan Oil Field"},
+    image: "/poi-images/kashagan-oil-field-economic-v2.webp",
     description: { de: "Ein massives Offshore-Ölfeld im Kaspischen Meer, das für seine extrem schwierigen Betriebsbedingungen wie flaches Wasser, Meereis und hohen Schwefelwasserstoffgehalt bekannt ist.", hu: "Egy hatalmas tengeri olajmező a Kaszpi-tengerben, amely extrém nehéz működési feltételeiről, például a sekély vízről, a tengeri jégről és a magas kén-hidrogén tartalomról ismert.", ro: "Un câmp petrolier offshore masiv din Marea Caspică, cunoscut pentru condițiile sale de operare extrem de dure, inclusiv ape puțin adânci, gheață marină și conținut ridicat de hidrogen sulfurat.", en: "A massive offshore oil field in the Caspian Sea, known for its extremely harsh operating conditions including shallow water, sea ice, and high hydrogen sulfide content." },
     facts: {
       de: ["Gilt als eine der größten Ölentdeckungen der letzten Jahrzehnte.", "Die Produktion begann 2013 nach erheblichen Verzögerungen.", "Befindet sich in einem ökologisch sensiblen Gebiet."],
       hu: ["Az elmúlt évtizedek egyik legnagyobb olajfelfedezésének tartják.", "A termelés jelentős késések után 2013-ban kezdődött meg.", "Környezetvédelmi szempontból érzékeny területen fekszik."],
       ro: ["Considerată una dintre cele mai mari descoperiri petroliere din ultimele decenii.", "Producția a început în 2013 după întârzieri semnificative.", "Se află într-o zonă sensibilă din punct de vedere ecologic."],
       en: ["Considered one of the largest oil discoveries in recent decades.", "Production began in 2013 after significant delays.", "Located in an environmentally sensitive area."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kashagan-Ölfeld liegt im kasachischen Sektor des Kaspischen Meeres. Es wurde 2000 entdeckt und ist eines der größten Offshore-Ölfelder der Welt. Die Reserven werden auf 4 Milliarden Tonnen geschätzt. Die Produktion begann 2013, wurde aber mehrfach wegen technischer Probleme unterbrochen. Betreiber ist ein Konsortium internationaler Firmen. Das Feld ist bekannt für extreme Druck- und Schwefelbedingungen. Die Förderung soll schrittweise erhöht werden. Kashagan ist strategisch für die kasachische Energiepolitik. Die Kosten beliefen sich auf über 50 Milliarden US-Dollar. Es produziert über 400.000 Barrel pro Tag.",
+      hu: "A Kashagan olajmező a Kaszpi-tenger kazah szektorában található. 2000-ben fedezték fel, a világ egyik legnagyobb tengeri olajmezője. Tartalékait 4 milliárd tonnára becsülik. A termelés 2013-ban kezdődött, de többször felfüggesztették technikai problémák miatt. Nemzetközi konzorcium üzemelteti. A mező extrém nyomás- és kénviszonyokról ismert. A termelést fokozatosan növelik. Kashagan stratégiai jelentőségű Kazahsztán energiaügyeiben. A költségek meghaladták az 50 milliárd dollárt. Napi termelése meghaladja a 400 000 hordót.",
+      ro: "Câmpul petrolier Kashagan este situat în sectorul kazah al Mării Caspice. Descoperit în 2000, este unul dintre cele mai mari câmpuri offshore din lume. Rezervele sunt estimate la 4 miliarde de tone. Producția a început în 2013, dar a fost întreruptă de mai multe ori din cauza problemelor tehnice. Este operat de un consorțiu internațional. Câmpul este cunoscut pentru condițiile extreme de presiune și sulf. Producția va fi crescută treptat. Kashagan este strategic pentru politica energetică a Kazahstanului. Costurile au depășit 50 de miliarde de dolari. Produce peste 400.000 de barili pe zi.",
+      en: "The Kashagan Oil Field in the Kazakh sector of the Caspian Sea was discovered in 2000. It is one of the world's largest offshore oil fields, with reserves estimated at 4 billion tons. Production began in 2013 but has been interrupted due to technical issues. Operated by an international consortium, it is known for extreme pressure and high sulfur. Output is to be gradually increased. Kashagan is strategic for Kazakhstan's energy policy. Costs have exceeded $50 billion. It produces over 400,000 barrels per day.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt 2000", "Produktionsbeginn 2013", "Reserven: 4 Milliarden Tonnen", "Tagesproduktion: 400.000 Barrel", "Wassertiefe: 4-5 m", "Betreiberkonsortium: KPO"],
+      hu: ["Felfedezés: 2000", "Termelés kezdete: 2013", "Tartalék: 4 milliárd tonna", "Napi termelés: 400 000 hordó", "Vízmélység: 4-5 m", "Üzemeltető konzorcium: KPO"],
+      ro: ["Descoperit în 2000", "Început producție 2013", "Rezerve: 4 miliarde tone", "Producție zilnică: 400.000 barili", "Adâncimea apei: 4-5 m", "Consorțiu operator: KPO"],
+      en: ["Discovered 2000", "Production start 2013", "Reserves: 4 billion tons", "Daily output: 400,000 barrels", "Water depth: 4-5 m", "Operator consortium: KPO"],
+    },
   },
   {
     id: "karachaganak-field-economic-v2",
     type: "energy",
     parent: "KZ-ZAP",
     coords: [52.9000, 51.2000],
-    name: { de: "Gas- und Kondensatfeld Karatschaganak", hu: "Karasaganak gáz- és kondenzátummező", ro: "Câmpul de gaze și condensat Karachaganak", en: "Karachaganak Gas and Condensate Field",
-image: "/poi-images/karachaganak-field-economic-v2.webp"
-},
+    name: { de: "Gas- und Kondensatfeld Karatschaganak", hu: "Karasaganak gáz- és kondenzátummező", ro: "Câmpul de gaze și condensat Karachaganak", en: "Karachaganak Gas and Condensate Field"},
+    image: "/poi-images/karachaganak-field-economic-v2.webp",
     description: { de: "Eines der größten Gas- und Kondensatfelder der Welt im Nordwesten Kasachstans, das einen erheblichen Teil der Exporteinnahmen des Landes erwirtschaftet.", hu: "A világ egyik legnagyobb gáz- és kondenzátummezője Északnyugat-Kazahsztánban, amely az ország exportbevételeinek jelentős részét adja.", ro: "Unul dintre cele mai mari câmpuri de gaze și condensat din lume, situat în nord-vestul Kazahstanului, generând o parte semnificativă a veniturilor din export ale țării.", en: "One of the largest gas and condensate fields globally, located in northwestern Kazakhstan, generating a significant portion of the national export revenue." },
     facts: {
       de: ["Umfasst eine Fläche von über 280 Quadratkilometern.", "Liefert Rohstoffe für petrochemische Anlagen im benachbarten Russland.", "Besitzt riesige Reserven an flüssigen Kohlenwasserstoffen."],
       hu: ["Több mint 280 négyzetkilométeres területet foglal el.", "Nyersanyagot biztosít a szomszédos Oroszország petrolkémiai üzemei számára.", "Hatalmas folyékony szénhidrogén-készletekkel rendelkezik."],
       ro: ["Acoperă o suprafață de peste 280 de kilometri pătrați.", "Furnizează materii prime pentru uzinele petrochimice din Rusia vecină.", "Deține rezerve uriașe de hidrocarburi lichide."],
       en: ["Covers an area of over 280 square kilometers.", "Provides raw materials for petrochemical plants in neighboring Russia.", "Holds vast reserves of liquid hydrocarbons."]
-    }, image: "/poi-images/karachaganak-field-economic-v2.webp"},
+    }, image: "/poi-images/karachaganak-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Karachaganak-Feld liegt im Nordwesten Kasachstans an der Grenze zu Russland. Es wurde 1979 entdeckt und ist eines der weltweit größten Gas- und Kondensatfelder. Die Reserven umfassen 1,4 Billionen Kubikmeter Gas und 1,2 Milliarden Tonnen Kondensat. Die Produktion begann 1984. Betrieben wird es von Karachaganak Petroleum Operating (KPO). Das Feld liefert Gas für den Export und die heimische Nutzung. Die Verarbeitung erfolgt in einer Anlage bei Aksai. Karachaganak ist ein wichtiger Bestandteil der kasachischen Energiebilanz. Die Produktion beträgt etwa 20 Milliarden Kubikmeter Gas pro Jahr.",
+      hu: "A Karacsaganak mező Kazahsztán északnyugati részén, az orosz határ közelében található. 1979-ben fedezték fel, a világ egyik legnagyobb gáz- és kondenzátummezője. Tartalékai 1,4 billió köbméter gázt és 1,2 milliárd tonna kondenzátumot tartalmaznak. A termelés 1984-ben kezdődött. A Karachaganak Petroleum Operating (KPO) üzemelteti. A mező gázt szolgáltat exportra és hazai felhasználásra. A feldolgozás Aksai közelében történik. Karacsaganak kulcsfontosságú Kazahsztán energiaellátásában. Éves gáztermelése körülbelül 20 milliárd köbméter.",
+      ro: "Câmpul Karachaganak este situat în nord-vestul Kazahstanului, lângă granița cu Rusia. Descoperit în 1979, este unul dintre cele mai mari câmpuri de gaz și condensat din lume. Rezervele includ 1,4 trilioane de metri cubi de gaz și 1,2 miliarde de tone de condensat. Producția a început în 1984. Este operat de Karachaganak Petroleum Operating (KPO). Câmpul furnizează gaz pentru export și uz intern. Procesarea are loc la o fabrică lângă Aksai. Karachaganak este esențial pentru balanța energetică a Kazahstanului. Producția anuală de gaz este de aproximativ 20 de miliarde de metri cubi.",
+      en: "The Karachaganak field in northwestern Kazakhstan near the Russian border was discovered in 1979. It is one of the world's largest gas and condensate fields, with reserves of 1.4 trillion cubic meters of gas and 1.2 billion tons of condensate. Production began in 1984. Operated by Karachaganak Petroleum Operating (KPO), it supplies gas for export and domestic use. Processing is done at a plant near Aksai. Karachaganak is vital to Kazakhstan's energy balance, producing about 20 billion cubic meters of gas per year.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt 1979", "Produktionsbeginn 1984", "Gasreserven: 1,4 Billionen m³", "Kondensatreserven: 1,2 Mrd. Tonnen", "Jährliche Gasproduktion: 20 Mrd. m³", "Betreiber: KPO"],
+      hu: ["Felfedezés: 1979", "Termelés kezdete: 1984", "Gáztartalék: 1,4 billió m³", "Kondenzátumtartalék: 1,2 milliárd tonna", "Éves gáztermelés: 20 milliárd m³", "Üzemeltető: KPO"],
+      ro: ["Descoperit în 1979", "Început producție 1984", "Rezerve de gaz: 1,4 trilioane m³", "Rezerve condensat: 1,2 miliarde tone", "Producție anuală de gaz: 20 miliarde m³", "Operator: KPO"],
+      en: ["Discovered 1979", "Production start 1984", "Gas reserves: 1.4 trillion m³", "Condensate reserves: 1.2 billion tons", "Annual gas output: 20 billion m³", "Operator: KPO"],
+    },
+  },
   {
     id: "port-of-aktau-economic-v2",
     type: "port",
     parent: "KZ-MAN",
     coords: [51.1000, 43.6000],
-    name: { de: "Hafen von Aktau", hu: "Aktaui kikötő", ro: "Portul Aktau", en: "Port of Aktau",
-image: "/poi-images/port-of-aktau-economic-v2.webp"
-},
+    name: { de: "Hafen von Aktau", hu: "Aktaui kikötő", ro: "Portul Aktau", en: "Port of Aktau"},
+    image: "/poi-images/port-of-aktau-economic-v2.webp",
     description: { de: "Der größte internationale Seehafen Kasachstans am Kaspischen Meer, ein wichtiges Tor für den Transport von Trockenfracht, Öl und Getreide zwischen Asien und Europa.", hu: "Kazahsztán legnagyobb nemzetközi tengeri kikötője a Kaszpi-tengeren, fontos kapu a szárazföldi áruk, az olaj és a gabona Ázsia és Európa közötti szállításában.", ro: "Cel mai mare port maritim internațional al Kazahstanului la Marea Caspică, o poartă importantă pentru transportul de mărfuri uscate, petrol și cereale între Asia și Europa.", en: "The largest international seaport in Kazakhstan on the Caspian Sea, a major gateway for the transportation of dry cargo, oil, and grain between Asia and Europe." },
     facts: {
       de: ["Ganzjährig eisfrei befahrbar.", "Ist ein zentraler Knotenpunkt des Transkaspischen Internationalen Transportwegs.", "Wurde 1963 ursprünglich für die Uranindustrie gegründet."],
       hu: ["Egész évben jégmentes és hajózható.", "A transzkaszpi nemzetközi szállítási útvonal központi csomópontja.", "Eredetileg az uránipar számára alapították 1963-ban."],
       ro: ["Navigabil și fără gheață pe tot parcursul anului.", "Este un nod central al Rutei de Transport Internațional Transcaspic.", "A fost fondat inițial în 1963 pentru industria uraniului."],
       en: ["Ice-free and navigable year-round.", "A central hub of the Trans-Caspian International Transport Route.", "Originally founded in 1963 for the uranium industry."]
-    }, image: "/poi-images/port-of-aktau-economic-v2.webp"},
+    }, image: "/poi-images/port-of-aktau-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Aktau ist der wichtigste kasachische Hafen am Kaspischen Meer und ein zentraler Knotenpunkt für den Öl- und Gütertransport. Er wurde in den 1960er Jahren als Teil der Erschließung der Mangyschlak-Halbinsel erbaut und ist heute einer der größten Häfen der Region. Die Anlage umfasst mehrere Terminals für Öl, Trockenfracht und Fähren. Die Bedeutung des Hafens ist durch die wachsende Ölproduktion in Tengiz und Kashagan stark gestiegen. Die Stadt Aktau selbst wurde als Industriestadt gegründet und hat etwa 180.000 Einwohner. Der Hafen spielt eine Schlüsselrolle in der internationalen Verkehrsachse TRACECA, die Europa mit Zentralasien verbindet.",
+      hu: "Aktau kikötője az egyetlen jégmentes kikötő Kazahsztánban a Kaszpi-tengeren, és központi szerepet játszik az ország olaj- és gázexportjában. A kikötőt 1963-ban kezdték építeni, és az 1970-es évekre vált fontos szállítási csomóponttá. A létesítmény éves rakományforgalma meghaladja a 16 millió tonnát, melynek nagy része kőolaj és kőolajtermék. A kikötőhöz tartozik egy modern kompterminál, amely összeköttetést biztosít Azerbajdzsánnal és Iránnal. A kikötő bővítése folyamatos, a tervek szerint 2025-re a kapacitás eléri a 25 millió tonnát. Aktau város gazdasága nagymértékben függ a kikötőtől.",
+      ro: "Portul Aktau este principalul port maritim al Kazahstanului la Marea Caspică, cu o infrastructură modernă pentru încărcarea petrolului și a mărfurilor generale. Situat pe coasta de est a Caspicei, portul deservește câmpurile petroliere din regiunea Mangystau. Construit în anii 1960, portul a fost extins semnificativ după 2000. Are un terminal petrolier cu o capacitate de 8 milioane de tone pe an și un terminal de feribot care leagă Kazahstanul de Azerbaidjan. Portul este un punct cheie pe ruta de transport internațională Transcaspică, facilitând comerțul dintre Europa și Asia. Adâncimea apei la chei este de 6–9 metri.",
+      en: "The port of Aktau is Kazakhstan's primary Caspian Sea port, handling over 16 million tons of cargo annually. It serves as a crucial export hub for crude oil from the Tengiz and Kashagan fields, as well as for dry bulk and containerized goods. The port's oil terminal has a capacity of 8 million tons per year, while the ferry terminal connects to Baku, Azerbaijan. Aktau port is part of the Trans-Caspian International Transport Route, linking China to Europe. The facility has been modernized with dredging to accommodate larger vessels, and it operates year-round due to the Caspian's relatively mild winters.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1960er Jahren als Teil der industriellen Erschließung der Mangyschlak-Halbinsel.", "Jährlicher Frachtumschlag: über 16 Millionen Tonnen (Stand 2020).", "Ölterminal-Kapazität: 8 Millionen Tonnen pro Jahr.", "Wassertiefe am Kai: 6–9 Meter.", "Länge der Kaimauern: insgesamt etwa 3 Kilometer.", "Beschäftigt direkt etwa 2.000 Arbeiter."],
+      hu: ["Éves rakományforgalma 2020-ban meghaladta a 16 millió tonnát.", "Olajterminál kapacitása: évi 8 millió tonna.", "Kompterminál összeköttetést biztosít Bakival (Azerbajdzsán).", "A kikötőt 1963-ban kezdték építeni, 1969-ben nyílt meg.", "Vízmélység a rakpartnál: 6–9 méter.", "A kikötő területe: 100 hektár."],
+      ro: ["Construit în anii 1960, portul a fost deschis în 1969.", "Capacitatea terminalului petrolier: 8 milioane de tone pe an.", "Volum anual de marfă: 16 milioane de tone (2020).", "Adâncimea apei la cheu: 6–9 metri.", "Lungimea totală a cheiurilor: 3 km.", "Portul deservește câmpurile petroliere Tengiz și Kashagan."],
+      en: ["Annual cargo throughput: over 16 million tons (2020).", "Oil terminal capacity: 8 million tons per year.", "Ferry terminal connects Aktau to Baku, Azerbaijan.", "Construction started in 1963, port opened in 1969.", "Water depth at berth: 6–9 meters.", "Total quay length: approximately 3 km."],
+    },
+  },
   {
     id: "port-of-kuryk-economic-v2",
     type: "port",
     parent: "KZ-MAN",
     coords: [51.7000, 43.2000],
-    name: { de: "Hafen von Kuryk", hu: "Kurik kikötő", ro: "Portul Kuryk", en: "Port of Kuryk",
-image: "/poi-images/port-of-kuryk-economic-v2.webp"
-},
+    name: { de: "Hafen von Kuryk", hu: "Kurik kikötő", ro: "Portul Kuryk", en: "Port of Kuryk"},
+    image: "/poi-images/port-of-kuryk-economic-v2.webp",
     description: { de: "Ein moderner Fähr- und Frachthafen am Kaspischen Meer, der die Exportkapazitäten Kasachstans erweitert und den Fährverkehr nach Aserbaidschan und in den Iran erleichtert.", hu: "Egy modern komp- és teherkikötő a Kaszpi-tengeren, amely kibővíti Kazahsztán exportkapacitását, és megkönnyíti a kompközlekedést Azerbajdzsánba és Iránba.", ro: "Un port modern de feriboturi și mărfuri la Marea Caspică, care extinde capacitățile de export ale Kazahstanului și facilitează traficul de feriboturi către Azerbaidjan și Iran.", en: "A modern ferry and cargo port on the Caspian Sea, expanding export capacities and facilitating ferry traffic to Azerbaijan and Iran." },
     facts: {
       de: ["Ein Schlüsselprojekt zur Entwicklung der Neuen Seidenstraße.", "Der Autófähr-Komplex wurde 2018 in Betrieb genommen.", "Verfügt über tiefe Zufahrtsrinnen für große Schiffe."],
       hu: ["Az Új Selyemút fejlesztésének egyik kulcsprojektje.", "Az autókomp-komplexumot 2018-ban adták át.", "Mély megközelítési csatornákkal rendelkezik nagy hajók számára."],
       ro: ["Un proiect cheie pentru dezvoltarea Noului Drum al Mătăsii.", "Complexul de feriboturi auto a fost dat în funcțiune în 2018.", "Dispune de canale de acces adânci pentru nave mari."],
       en: ["A key project for the development of the New Silk Road.", "The auto ferry complex was commissioned in 2018.", "Features deep approach channels for large vessels."]
-    }, image: "/poi-images/port-of-kuryk-economic-v2.webp"},
+    }, image: "/poi-images/port-of-kuryk-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Kuryk ist ein relativ neuer Tiefwasserhafen am Kaspischen Meer, etwa 70 km südlich von Aktau gelegen. Er wurde speziell für den Öl- und Güterverkehr im Rahmen der Transkaspischen Internationalen Transportroute (TITR) entwickelt. Der Bau begann 2015 und die erste Phase wurde 2018 abgeschlossen. Der Hafen verfügt über einen großen Fährterminal, der den Transport von Containern und Ro-Ro-Fracht ermöglicht. Die Wassertiefe beträgt bis zu 15 Meter, was den Umschlag von großen Schiffen erlaubt. Kuryk ist als Alternative zum Hafen von Aktau konzipiert, um die Kapazität für kasachische Exporte zu erhöhen.",
+      hu: "A Kuryk kikötő egy modern mélyvízi kikötő a Kaszpi-tenger partján, amelyet a Transzkaszpi Nemzetközi Közlekedési Útvonal (TITR) részeként építettek. A kikötő építése 2015-ben kezdődött, és 2018-ban nyílt meg. Fő funkciója a komp- és konténerforgalom lebonyolítása, különösen a Kazahsztán és Azerbajdzsán közötti útvonalon. A kikötő kapacitása évi 6 millió tonna rakomány, ebből 4 millió tonna olaj. Vízmélysége eléri a 15 métert, így nagyobb hajók is kiköthetnek. A kikötő stratégiai jelentőségű a Khorgos–Kuryk–Baku vasúti-közúti folyosón.",
+      ro: "Portul Kuryk este un port de apă adâncă situat pe coasta estică a Mării Caspice, la 70 km sud de Aktau. Construit între 2015 și 2018, face parte din Ruta Internațională de Transport Transcaspic (TITR). Principalul său obiectiv este gestionarea traficului de feribot și containere, conectând Kazahstanul cu Azerbaidjanul și mai departe cu Europa. Portul are o capacitate anuală de 6 milioane de tone, inclusiv 4 milioane de tone de petrol. Adâncimea apei de până la 15 metri permite accesul navelor mari. Kuryk este un hub important pentru exporturile de mărfuri kazahe.",
+      en: "Port of Kuryk is a deepwater port located 70 km south of Aktau on the Caspian Sea. Constructed from 2015 to 2018 as part of the Trans-Caspian International Transport Route (TITR), it is designed to handle ferry and container traffic. The port has a capacity of 6 million tons annually, with 4 million tons for oil. The water depth reaches 15 meters, accommodating larger vessels. Kuryk serves as a key link in the Khorgos–Kuryk–Baku corridor, facilitating trade between China and Europe.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn: 2015, Fertigstellung der ersten Phase: 2018.", "Jährliche Kapazität: 6 Millionen Tonnen (davon 4 Mio. t Öl).", "Wassertiefe: bis zu 15 Meter.", "Entfernung zu Aktau: etwa 70 km südlich.", "Investitionsvolumen: über 500 Millionen US-Dollar.", "Eröffnet für den Betrieb: Juni 2018."],
+      hu: ["Építés kezdete: 2015, első fázis befejezése: 2018.", "Éves kapacitás: 6 millió tonna (ebből 4 millió tonna olaj).", "Vízmélység: 15 méter.", "Távolság Aktautól: 70 km délre.", "Beruházás költsége: 500 millió USD felett.", "Üzembe helyezés: 2018. június."],
+      ro: ["Construcția a început în 2015, prima fază finalizată în 2018.", "Capacitate anuală: 6 milioane de tone (inclusiv 4 milioane tone petrol).", "Adâncimea apei: până la 15 metri.", "Distanța față de Aktau: 70 km sud.", "Investiție totală: peste 500 milioane USD.", "Deschis oficial: iunie 2018."],
+      en: ["Construction started in 2015, first phase completed in 2018.", "Annual capacity: 6 million tons (4 million tons oil).", "Water depth: up to 15 meters.", "Distance from Aktau: 70 km south.", "Total investment: over 500 million USD.", "Officially opened in June 2018."],
+    },
+  },
   {
     id: "bogatyr-coal-mine-economic-v2",
     type: "mine",
     parent: "KZ-PAV",
     coords: [75.4000, 51.7000],
-    name: { de: "Bogatyr-Kohlemine", hu: "Bogatir szénbánya", ro: "Mina de cărbune Bogatyr", en: "Bogatyr Coal Mine",
-image: "/poi-images/bogatyr-coal-mine-economic-v2.webp"
-},
+    name: { de: "Bogatyr-Kohlemine", hu: "Bogatir szénbánya", ro: "Mina de cărbune Bogatyr", en: "Bogatyr Coal Mine"},
+    image: "/poi-images/bogatyr-coal-mine-economic-v2.webp",
     description: { de: "Einer der größten Kohletagebaue der Welt bei Ekibastus, der riesige Mengen an Kohle für inländische Kraftwerke und den Export fördert.", hu: "A világ egyik legnagyobb külszíni szénbányája Ekibasztuz közelében, amely hatalmas mennyiségű szenet termel ki a hazai erőművek és az export számára.", ro: "Una dintre cele mai mari mine de cărbune la suprafață din lume, lângă Ekibastuz, extrăgând cantități uriașe de cărbune pentru centralele electrice interne și export.", en: "One of the largest open-pit coal mines in the world, located near Ekibastuz, extracting huge amounts of coal for domestic power plants and export." },
     facts: {
       de: ["Hält den Guinness-Weltrekord als größter Kohletagebau nach Fördermenge.", "Die Ausmaße der Mine sind so groß, dass sie aus dem All sichtbar ist.", "Verfügt über ein eigenes umfangreiches Eisenbahnnetzwerk."],
       hu: ["Guinness-rekorder, mint a termelési volumen alapján a legnagyobb külszíni szénbánya.", "A bánya méretei olyan nagyok, hogy az űrből is láthatóak.", "Saját, kiterjedt vasúthálózattal rendelkezik."],
       ro: ["Deține recordul mondial Guinness ca cea mai mare mină de cărbune la suprafață după volumul de producție.", "Dimensiunile minei sunt atât de mari încât pot fi văzute din spațiu.", "Are propria rețea feroviară extinsă."],
       en: ["Holds the Guinness World Record as the largest open-pit coal mine by production volume.", "The scale of the mine is so large it can be seen from space.", "Has its own extensive railway network."]
-    }, image: "/poi-images/bogatyr-coal-mine-economic-v2.webp"},
+    }, image: "/poi-images/bogatyr-coal-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Bogatyr-Kohlemine ist eine der größten Kohlemine der Welt und befindet sich in der Region Pawlodar im Nordosten Kasachstans. Sie ist Teil des Ekibastuz-Kohlebeckens, das eine der reichsten Kohlelagerstätten der Welt darstellt. Die Mine wird im Tagebau betrieben und produziert jährlich über 40 Millionen Tonnen Kohle. Die Kohle wird hauptsächlich zur Stromerzeugung in den nahegelegenen Kraftwerken GRES-1 und GRES-2 verwendet, aber auch exportiert. Die Mine beschäftigt rund 10.000 Arbeiter und ist ein wichtiger Wirtschaftsfaktor in der Region.",
+      hu: "A Bogatyr szénbánya a világ egyik legnagyobb szénbányája, amely Kazahsztán északkeleti részén, Ekibastuz város közelében található. A bánya a hatalmas Ekibastuz-szénmedencében működik, ahol a szénréteg vastagsága eléri a 100 métert. Évente több mint 40 millió tonna lignitet termelnek ki, amelyet elsősorban a helyi erőművekben használnak. A bánya 1969-ben kezdte meg a működését, és azóta folyamatosan bővítik. A kitermelés során hatalmas, 150 tonnás teherautókat használnak.",
+      ro: "Mina de cărbune Bogatyr este una dintre cele mai mari mine de cărbune din lume, situată în bazinul Ekibastuz din Kazahstanul de nord-est. Mina funcționează de la suprafață, exploatând zăcăminte de lignit. Producția anuală depășește 40 de milioane de tone, iar cărbunele este utilizat în principal pentru generarea de electricitate la centralele termice din apropiere. Mina a început exploatarea în 1969 și are o rezervă estimată de 5 miliarde de tone. Este unul dintre cei mai mari angajatori din regiune, cu peste 9.000 de angajați.",
+      en: "Bogatyr Coal Mine is one of the world's largest open-pit coal mines, located in the Ekibastuz basin in northeastern Kazakhstan. It produces lignite coal with an annual output exceeding 40 million tons. The mine began operations in 1969 and has estimated reserves of 5 billion tons. The coal is used primarily for power generation at the nearby Ekibastuz GRES-1 and GRES-2 power stations. The mine employs around 10,000 people and utilizes large-scale machinery including 150-ton haul trucks.",
+    },
+    factsAdvanced: {
+      de: ["Jahresproduktion: über 40 Millionen Tonnen Kohle.", "Reserven: geschätzte 5 Milliarden Tonnen.", "Betriebsbeginn: 1969.", "Beschäftigte: rund 10.000 Arbeiter.", "Teil des Ekibastuz-Kohlebeckens, einer der größten Kohlelagerstätten weltweit.", "Tagebau mit einer Fläche von etwa 30 km²."],
+      hu: ["Éves termelés: több mint 40 millió tonna.", "Készletek: becslések szerint 5 milliárd tonna.", "Működés kezdete: 1969.", "Foglalkoztatottak száma: kb. 10.000.", "A bánya területe: kb. 30 km².", "A kitermelt szén fűtőértéke: 3.800–4.200 kcal/kg."],
+      ro: ["Producție anuală: peste 40 de milioane de tone.", "Rezerve estimate: 5 miliarde de tone.", "Începutul exploatării: 1969.", "Număr de angajați: aproximativ 10.000.", "Suprafața minei: aproximativ 30 km².", "Cărbunele extras este lignit cu putere calorică medie."],
+      en: ["Annual production: over 40 million tons.", "Estimated reserves: 5 billion tons.", "Started operations in 1969.", "Employs approximately 10,000 people.", "Mine area: about 30 km².", "Coal calorific value: 3,800–4,200 kcal/kg."],
+    },
+  },
   {
     id: "khorgos-gateway-economic-v2",
     type: "trade-hub",
     parent: "KZ-ZET",
     coords: [80.4000, 44.2000],
-    name: { de: "Khorgos Gateway", hu: "Korgasz Gateway", ro: "Khorgos Gateway", en: "Khorgos Gateway",
-image: "/poi-images/khorgos-gateway-economic-v2.webp"
-},
+    name: { de: "Khorgos Gateway", hu: "Korgasz Gateway", ro: "Khorgos Gateway", en: "Khorgos Gateway"},
+    image: "/poi-images/khorgos-gateway-economic-v2.webp",
     description: { de: "Ein gigantischer Trockenhafen und eine Sonderwirtschaftszone an der Grenze zu China, wo Züge aufgrund der unterschiedlichen Spurweiten umgeladen werden.", hu: "Egy gigantikus szárazföldi kikötő és különleges gazdasági övezet a kínai határon, ahol a vonatok átrakodása történik az eltérő nyomtávok miatt.", ro: "Un port uscat gigantic și o zonă economică specială la granița cu China, unde trenurile sunt transbordate din cauza ecartamentului diferit al șinelor.", en: "A massive dry port and special economic zone on the border with China, where trains undergo cargo transshipment due to the different railway track gauges." },
     facts: {
       de: ["Oft als der wichtigste Knotenpunkt der eurasischen Eisenbahnbrücke bezeichnet.", "Hier trifft die chinesische Normalspur auf die kasachische Breitspur.", "Wurde buchstäblich aus dem Wüstensand erbaut."],
       hu: ["Gyakran nevezik az eurázsiai vasúti híd legfontosabb csomópontjának.", "Itt találkozik a kínai normál nyomtáv a kazah széles nyomtávval.", "Szó szerint a sivatagi homokból épült fel."],
       ro: ["Adesea numit cel mai important nod al podului feroviar eurasiatic.", "Aici ecartamentul standard chinez se întâlnește cu ecartamentul larg kazah.", "A fost construit literalmente din nisipul deșertului."],
       en: ["Often referred to as the most crucial hub of the Eurasian land bridge.", "This is where the Chinese standard gauge meets the Kazakh broad gauge.", "Was built literally out of the desert sand."]
-    }, image: "/poi-images/khorgos-gateway-economic-v2.webp"},
+    }, image: "/poi-images/khorgos-gateway-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Khorgos Gateway ist ein wichtiger Grenzübergang und Trockenhafen an der Grenze zwischen China und Kasachstan, der 2012 eröffnet wurde. Es dient als zentraler Knotenpunkt für den Gütertransport auf der neuen Seidenstraße (Belt and Road Initiative). Der Komplex umfasst eine Fläche von über 5.000 Hektar und verfügt über Umschlaganlagen für Container, Lagerhäuser und Zollabfertigungseinrichtungen. Täglich passieren tausende Tonnen Fracht den Grenzpunkt, darunter Elektronik, Maschinen, Textilien und landwirtschaftliche Produkte. Die Gesamtkapazität des Trockenhafens beträgt über 20 Millionen Tonnen pro Jahr. Die Region hat sich zu einer Sonderwirtschaftszone entwickelt, die Investitionen aus beiden Ländern anzieht. Die Eisenbahnlinie verbindet China direkt mit Europa und verkürzt die Transportzeit erheblich.",
+      hu: "A Khorgos Gateway egy fontos határátkelő és szárazkikötő Kína és Kazahsztán határán, amely 2012-ben nyílt meg. Az Új Selyemút (Belt and Road Initiative) központi csomópontja, amely a konténeres áruszállítás egyik legfontosabb láncszeme. A komplexum területe meghaladja az 5000 hektárt, konténerátrakodó állomásokkal, raktárakkal és vámkezelő létesítményekkel. Naponta több ezer tonna áru halad át, köztük elektronikai cikkek, gépek, textíliák és mezőgazdasági termékek. A szárazkikötő éves kapacitása meghaladja a 20 millió tonnát. A régió különleges gazdasági övezetté vált, amely beruházásokat vonz mindkét országból. A vasútvonal közvetlenül összeköti Kínát Európával, jelentősen lerövidítve a szállítási időt.",
+      ro: "Khorgos Gateway este un punct de trecere important și un port uscat la granița dintre China și Kazahstan, deschis în 2012. Servește ca nod central pentru transportul de mărfuri pe noul Drum al Mătăsii (Belt and Road Initiative). Complexul se întinde pe peste 5.000 de hectare și include instalații de transbordare pentru containere, depozite și facilități vamale. Zilnic, mii de tone de marfă tranzitează punctul de frontieră, inclusiv electronice, utilaje, textile și produse agricole. Capacitatea totală a portului uscat depășește 20 de milioane de tone pe an. Regiunea s-a dezvoltat într-o zonă economică specială, atrăgând investiții din ambele țări. Linia de cale ferată leagă direct China de Europa, reducând semnificativ timpul de transport.",
+      en: "Khorgos Gateway is a major border crossing and dry port on the China-Kazakhstan border, opened in 2012. It serves as a central hub for cargo transport on the New Silk Road (Belt and Road Initiative). The complex covers over 5,000 hectares and includes container transshipment stations, warehouses, and customs clearance facilities. Thousands of tons of freight pass through daily, including electronics, machinery, textiles, and agricultural products. The dry port's total capacity exceeds 20 million tons per year. The region has become a special economic zone, attracting investments from both countries. The railway line directly connects China to Europe, significantly reducing shipping time.",
+    },
+    factsAdvanced: {
+      de: ["Khorgos Gateway wurde 2012 eröffnet.", "Das Areal umfasst über 5.000 Hektar.", "Die jährliche Kapazität beträgt über 20 Millionen Tonnen.", "Täglich werden etwa 2.000 Container umgeschlagen.", "Die Anlage verfügt über 13 Kilometer Gleise.", "Die Baukosten beliefen sich auf rund 1 Milliarde US-Dollar."],
+      hu: ["A Khorgos Gateway 2012-ben nyílt meg.", "A terület meghaladja az 5000 hektárt.", "Az éves kapacitás meghaladja a 20 millió tonnát.", "Naponta körülbelül 2000 konténert kezelnek.", "A létesítmény 13 kilométernyi vágánnyal rendelkezik.", "Az építési költségek körülbelül 1 milliárd amerikai dollárt tettek ki."],
+      ro: ["Khorgos Gateway a fost deschis în 2012.", "Suprafața depășește 5.000 de hectare.", "Capacitatea anuală depășește 20 de milioane de tone.", "Zilnic, sunt manipulate aproximativ 2.000 de containere.", "Instalația dispune de 13 kilometri de șine.", "Costurile de construcție s-au ridicat la aproximativ 1 miliard de dolari SUA."],
+      en: ["Khorgos Gateway was opened in 2012.", "The area covers over 5,000 hectares.", "Annual capacity exceeds 20 million tons.", "Approximately 2,000 containers are handled daily.", "The facility has 13 kilometers of railway track.", "Construction costs amounted to about 1 billion USD."],
+    },
+  },
   {
     id: "temirtau-steel-plant-economic-v2",
     type: "industry",
     parent: "KZ-KAR",
     coords: [72.9000, 50.0000],
-    name: { de: "Stahlwerk Temirtau", hu: "Tyemirtaui acélmű", ro: "Uzina siderurgică Temirtau", en: "Temirtau Steel Plant",
-image: "/poi-images/temirtau-steel-plant-economic-v2.webp"
-},
+    name: { de: "Stahlwerk Temirtau", hu: "Tyemirtaui acélmű", ro: "Uzina siderurgică Temirtau", en: "Temirtau Steel Plant"},
+    image: "/poi-images/temirtau-steel-plant-economic-v2.webp",
     description: { de: "Eine der größten metallurgischen Fabriken Zentralasiens, deren Hochöfen das wirtschaftliche Rückgrat der Stadt Temirtau, auch Kasachstans Magnitogorsk genannt, bilden.", hu: "Közép-Ázsia egyik legnagyobb kohászati üzeme, amelynek nagyolvasztói a „kazah Magnyitogorszk” néven is ismert Tyemirtau város gazdasági gerincét alkotják.", ro: "Una dintre cele mai mari fabrici metalurgice din Asia Centrală, ale cărei furnale formează coloana vertebrală economică a orașului Temirtau, cunoscut și sub numele de Magnitogorskul Kazahstanului.", en: "One of the largest metallurgical plants in Central Asia, whose blast furnaces form the economic backbone of the city of Temirtau, also known as the Magnitogorsk of Kazakhstan." },
     facts: {
       de: ["Der erste Präsident Kasachstans, Nursultan Nasarbajew, arbeitete hier einst als Stahlarbeiter.", "Die Fabrik produziert Millionen Tonnen Stahl pro Jahr.", "Die Anlage gehört zum ArcelorMittal-Konzern."],
       hu: ["Kazahsztán első elnöke, Nurszultan Nazarbajev egykor acélmunkásként dolgozott itt.", "A gyár évente több millió tonna acélt termel.", "Az üzem az ArcelorMittal konszernhez tartozik."],
       ro: ["Primul președinte al Kazahstanului, Nursultan Nazarbaev, a lucrat aici cândva ca oțelar.", "Fabrica produce milioane de tone de oțel pe an.", "Uzina aparține grupului ArcelorMittal."],
       en: ["The first President of Kazakhstan, Nursultan Nazarbayev, once worked here as a steelworker.", "The plant produces millions of tons of steel annually.", "The facility belongs to the ArcelorMittal group."]
-    }, image: "/poi-images/temirtau-steel-plant-economic-v2.webp"},
+    }, image: "/poi-images/temirtau-steel-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Stahlwerk Temirtau in der Region Karaganda, Kasachstan, ist das größte Stahlwerk des Landes. Es wurde in den 1940er Jahren errichtet und 1960 in Betrieb genommen. Das Werk gehört heute zu ArcelorMittal Temirtau und produziert jährlich über 4 Millionen Tonnen Rohstahl. Es umfasst eine Fläche von etwa 50 Quadratkilometern und beschäftigt rund 25.000 Mitarbeiter. Die Produktion umfasst Flachstahl, Langstahl und Walzdraht. Das Werk wird mit Kohle aus dem Karaganda-Becken betrieben und verfügt über eigene Kokereien und Sinteranlagen. In den letzten Jahren wurden Umweltauflagen verschärft, um die Emissionen zu reduzieren. Das Stahlwerk ist ein wichtiger Wirtschaftsfaktor für die Region und exportiert in Länder wie Russland, China und in den Nahen Osten.",
+      hu: "A temirtaui acélgyár Kazahsztán legnagyobb acélgyára, a Karaganda régióban. Az 1940-es években kezdték építeni, és 1960-ban indult be. Jelenleg az ArcelorMittal Temirtau tulajdonában van, és évente több mint 4 millió tonna nyersacélt termel. Területe körülbelül 50 négyzetkilométer, és mintegy 25 000 embert foglalkoztat. Termékei között síkacél, hosszú acél és huzal található. A gyár a Karaganda-medence szénjével működik, saját kokszolóval és szinterezőművel rendelkezik. Az utóbbi években szigorították a környezetvédelmi előírásokat a kibocsátás csökkentésére. Az acélgyár fontos gazdasági tényező a régióban, és exportál Oroszországba, Kínába és a Közel-Keletre.",
+      ro: "Uzina siderurgică Temirtau din regiunea Karaganda, Kazahstan, este cea mai mare oțelărie din țară. A fost construită în anii 1940 și dată în funcțiune în 1960. În prezent, aparține ArcelorMittal Temirtau și produce anual peste 4 milioane de tone de oțel brut. Se întinde pe aproximativ 50 de kilometri pătrați și angajează aproximativ 25.000 de persoane. Producția include oțel plat, oțel lung și sârmă laminată. Uzina funcționează cu cărbune din bazinul Karaganda și are propriile cocserii și instalații de sinterizare. În ultimii ani, reglementările de mediu au fost înăsprite pentru a reduce emisiile. Uzina este un factor economic major pentru regiune și exportă în Rusia, China și Orientul Mijlociu.",
+      en: "Temirtau Steel Plant in the Karaganda region of Kazakhstan is the country's largest steel mill. It was constructed in the 1940s and commissioned in 1960. Now owned by ArcelorMittal Temirtau, it produces over 4 million tons of crude steel annually. The plant covers about 50 square kilometers and employs approximately 25,000 people. Its products include flat steel, long steel, and wire rod. The plant is fueled by coal from the Karaganda basin and has its own coking and sintering facilities. Environmental regulations have been tightened in recent years to reduce emissions. The steel plant is a major economic driver for the region and exports to Russia, China, and the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["Das Stahlwerk Temirtau produziert jährlich über 4 Millionen Tonnen Rohstahl.", "Es wurde 1960 in Betrieb genommen.", "Das Werk beschäftigt rund 25.000 Mitarbeiter.", "Die Betriebsfläche beträgt etwa 50 Quadratkilometer.", "Es verfügt über 10 Koksbatterien.", "Die Produktionskapazität beträgt 5,5 Millionen Tonnen Stahl pro Jahr."],
+      hu: ["A temirtaui acélgyár évi 4 millió tonna nyersacélt termel.", "A gyárat 1960-ban helyezték üzembe.", "Körülbelül 25 000 embert foglalkoztat.", "A gyár területe körülbelül 50 négyzetkilométer.", "10 kokszolókemencével rendelkezik.", "Az éves termelési kapacitás 5,5 millió tonna acél."],
+      ro: ["Uzina Temirtau produce anual peste 4 milioane de tone de oțel brut.", "A fost dată în funcțiune în 1960.", "Angajează aproximativ 25.000 de persoane.", "Suprafața uzinei este de aproximativ 50 de kilometri pătrați.", "Dispune de 10 baterii de cocs.", "Capacitatea de producție este de 5,5 milioane de tone de oțel pe an."],
+      en: ["Temirtau Steel Plant produces over 4 million tons of crude steel annually.", "It was commissioned in 1960.", "The plant employs approximately 25,000 people.", "The plant area is about 50 square kilometers.", "It has 10 coke oven batteries.", "The production capacity is 5.5 million tons of steel per year."],
+    },
+  },
   {
     id: "ust-kamenogorsk-titanium-magnesium-plant-economic-v2",
     type: "industry",
     parent: "KZ-VOS",
     coords: [82.6000, 49.9000],
-    name: { de: "Titan- und Magnesiumkombinat Ust-Kamenogorsk", hu: "Oszkemen titán- és magnéziumkombinát", ro: "Uzina de titan și magneziu din Oskemen", en: "Ust-Kamenogorsk Titanium and Magnesium Plant",
-image: "/poi-images/ust-kamenogorsk-titanium-magnesium-plant-economic-v2.webp"
-},
+    name: { de: "Titan- und Magnesiumkombinat Ust-Kamenogorsk", hu: "Oszkemen titán- és magnéziumkombinát", ro: "Uzina de titan și magneziu din Oskemen", en: "Ust-Kamenogorsk Titanium and Magnesium Plant"},
+    image: "/poi-images/ust-kamenogorsk-titanium-magnesium-plant-economic-v2.webp",
     description: { de: "Ein hochspezialisiertes Industriewerk im Osten Kasachstans, das metallisches Titan in Luft- und Raumfahrtqualität produziert.", hu: "Egy rendkívül specializált ipari üzem Kelet-Kazahsztánban, amely repülőgépipari és űripari minőségű fémtitánt állít elő.", ro: "O fabrică industrială extrem de specializată din estul Kazahstanului, care produce titan metalic de calitate aerospațială.", en: "A highly specialized industrial plant in eastern Kazakhstan producing aerospace-grade titanium metal." },
     facts: {
       de: ["Beliefert namhafte globale Flugzeughersteller.", "Es ist eines der weltweit wenigen voll integrierten Titanwerke.", "Spielt eine zentrale Rolle in der Hightech-Wirtschaft der Region."],
       hu: ["Ismert globális repülőgépgyártókat lát el.", "A világ azon kevés titánüzemeinek egyike, amelyek teljesen integráltak.", "Központi szerepet játszik a régió csúcstechnológiai gazdaságában."],
       ro: ["Aprovizionează producători globali de avioane de renume.", "Este una dintre puținele uzine de titan complet integrate din lume.", "Joacă un rol central în economia de înaltă tehnologie a regiunii."],
       en: ["Supplies major global aircraft manufacturers.", "It is one of the few fully integrated titanium plants in the world.", "Plays a central role in the regional high-tech economy."]
-    }, image: "/poi-images/ust-kamenogorsk-titanium-magnesium-plant-economic-v2.webp"},
+    }, image: "/poi-images/ust-kamenogorsk-titanium-magnesium-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Titan-Magnesium-Werk in Öskemen (Ust-Kamenogorsk) in Ostkasachstan ist einer der weltweit größten Produzenten von Titanschwamm und Magnesium. Es wurde in den 1960er Jahren erbaut und gehört heute zu der Firma UK TMP JSC. Die Anlage verarbeitet Ilmenit- und Rutilerze zu hochreinem Titan, das in der Luft- und Raumfahrt, im medizinischen Bereich und in der chemischen Industrie verwendet wird. Die jährliche Produktionskapazität beträgt über 30.000 Tonnen Titanschwamm und 40.000 Tonnen Magnesium. Das Werk ist auch bekannt für die Herstellung von Magnesiumlegierungen. Es exportiert in über 20 Länder, darunter die USA, Deutschland und Japan. In den letzten Jahren wurden Modernisierungen zur Energieeffizienz und Umweltfreundlichkeit durchgeführt.",
+      hu: "Az Öszkemen (Uszty-Kamenogorszk) titán-magnézium üzem Kelet-Kazahsztánban a világ egyik legnagyobb titánszivacs- és magnéziumgyártója. Az 1960-as években épült, jelenleg a UK TMP JSC tulajdona. Az üzem ilmenit- és rutilércekből állít elő nagy tisztaságú titánt, amelyet a repülőgépiparban, orvostudományban és vegyiparban használnak. Éves termelési kapacitása meghaladja a 30 000 tonna titánszivacsot és a 40 000 tonna magnéziumot. Az üzem magnéziumötvözetek gyártásáról is ismert. Több mint 20 országba exportál, köztük az USA-ba, Németországba és Japánba. Az elmúlt években korszerűsítéseket hajtottak végre az energiahatékonyság és környezetvédelem érdekében.",
+      ro: "Uzina de titan și magneziu din Öskemen (Ust-Kamenogorsk) din estul Kazahstanului este unul dintre cei mai mari producători mondiali de burete de titan și magneziu. A fost construită în anii 1960 și aparține companiei UK TMP JSC. Uzina procesează minereuri de ilmenit și rutil pentru a produce titan de înaltă puritate, utilizat în industria aerospațială, medicală și chimică. Capacitatea anuală de producție depășește 30.000 de tone de burete de titan și 40.000 de tone de magneziu. Uzina este cunoscută și pentru fabricarea aliajelor de magneziu. Exportă în peste 20 de țări, inclusiv SUA, Germania și Japonia. În ultimii ani, s-au efectuat modernizări pentru eficiență energetică și mediu.",
+      en: "The Titanium-Magnesium Plant in Öskemen (Ust-Kamenogorsk) in East Kazakhstan is one of the world's largest producers of titanium sponge and magnesium. Built in the 1960s, it is now owned by UK TMP JSC. The plant processes ilmenite and rutile ores to produce high-purity titanium, used in aerospace, medical, and chemical industries. Annual production capacity exceeds 30,000 tons of titanium sponge and 40,000 tons of magnesium. The plant is also known for manufacturing magnesium alloys. It exports to over 20 countries, including the USA, Germany, and Japan. Modernizations for energy efficiency and environmental friendliness have been carried out in recent years.",
+    },
+    factsAdvanced: {
+      de: ["Das Werk produziert jährlich über 30.000 Tonnen Titanschwamm.", "Die Magnesiumproduktion liegt bei 40.000 Tonnen pro Jahr.", "Es wurde in den 1960er Jahren erbaut.", "Die Anlage verarbeitet jährlich etwa 600.000 Tonnen Ilmeniterz.", "Es exportiert in über 20 Länder weltweit.", "Das Werk beschäftigt rund 6.000 Mitarbeiter."],
+      hu: ["Az üzem évi 30 000 tonna titánszivacsot termel.", "A magnéziumtermelés évi 40 000 tonna.", "Az üzem az 1960-as években épült.", "Évente körülbelül 600 000 tonna ilmenitércet dolgoz fel.", "Több mint 20 országba exportál világszerte.", "Az üzem mintegy 6 000 embert foglalkoztat."],
+      ro: ["Uzina produce anual peste 30.000 de tone de burete de titan.", "Producția de magneziu este de 40.000 de tone pe an.", "A fost construită în anii 1960.", "Uzina procesează anual aproximativ 600.000 de tone de minereu de ilmenit.", "Exportă în peste 20 de țări din întreaga lume.", "Uzina angajează aproximativ 6.000 de persoane."],
+      en: ["The plant produces over 30,000 tons of titanium sponge annually.", "Magnesium production is 40,000 tons per year.", "It was built in the 1960s.", "The plant processes about 600,000 tons of ilmenite ore annually.", "It exports to over 20 countries worldwide.", "The plant employs around 6,000 workers."],
+    },
+  },
   {
     id: "zhezkazgan-copper-mine-economic-v2",
     type: "mine",
     parent: "KZ-ULY",
     coords: [67.7000, 47.8000],
-    name: { de: "Kupfermine Schesqasghan", hu: "Zsezkazgan rézbánya", ro: "Mina de cupru Zhezkazgan", en: "Zhezkazgan Copper Mine",
-image: "/poi-images/zhezkazgan-copper-mine-economic-v2.webp"
-},
+    name: { de: "Kupfermine Schesqasghan", hu: "Zsezkazgan rézbánya", ro: "Mina de cupru Zhezkazgan", en: "Zhezkazgan Copper Mine"},
+    image: "/poi-images/zhezkazgan-copper-mine-economic-v2.webp",
     description: { de: "Eines der historischen Zentren des Kupferbergbaus und der Verhüttung in der Steppenregion, mit tiefen unterirdischen Schächten und einer langen Industriegeschichte.", hu: "A rézbányászat és -kohászat egyik történelmi központja a sztyeppei régióban, mély földalatti aknákkal és hosszú ipari múlttal.", ro: "Unul dintre centrele istorice ale mineritului și topirii cuprului în regiunea stepei, cu puțuri subterane adânci și o lungă istorie industrială.", en: "One of the historical centers of copper mining and smelting in the steppe region, featuring deep underground shafts and a long industrial history." },
     facts: {
       de: ["Die Kupfervorkommen wurden bereits im Altertum abgebaut.", "Die moderne Stadt Schesqasghan wurde für die Bergarbeiter gegründet.", "Die Mine produziert auch seltene Erden als Nebenprodukte."],
       hu: ["A rézkészleteket már az ókorban is bányászták.", "A modern Zsezkazgan várost a bányászok számára alapították.", "A bánya ritkaföldfémeket is termel melléktermékként."],
       ro: ["Zăcămintele de cupru au fost exploatate încă din antichitate.", "Orașul modern Zhezkazgan a fost fondat pentru mineri.", "Mina produce, de asemenea, pământuri rare ca produse secundare."],
       en: ["Copper deposits here have been mined since antiquity.", "The modern city of Zhezkazgan was founded for the miners.", "The mine also produces rare earth elements as by-products."]
-    }, image: "/poi-images/zhezkazgan-copper-mine-economic-v2.webp"},
+    }, image: "/poi-images/zhezkazgan-copper-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kupferbergwerk Zhezkazgan im zentralen Kasachstan ist eines der größten Kupfervorkommen der Welt. Es wird von der Kazakhmys Corporation betrieben und umfasst mehrere Tagebau- und Untertagebergwerke. Die Erzreserven werden auf über 1,5 Milliarden Tonnen mit einem Kupfergehalt von durchschnittlich 0,8 % geschätzt. Die Mine produziert jährlich rund 300.000 Tonnen Kupfer in Konzentratform. Der Abbau begann in den 1930er Jahren, und die Anlagen wurden in der Sowjetzeit erheblich erweitert. Neben Kupfer werden auch Gold, Silber und Zink als Nebenprodukte gewonnen. Die Region ist historisch bedeutend für den Bergbau und beherbergt eine große Anzahl von Bergarbeitern und deren Familien.",
+      hu: "A zsezkazgáni rézbánya Közép-Kazahsztánban a világ egyik legnagyobb rézlelőhelye. A Kazakhmys Corporation üzemelteti, és több külszíni fejtést és mélyművelésű bányát foglal magában. Az ércvagyont meghaladja az 1,5 milliárd tonnát, átlagosan 0,8% réztartalommal. A bánya évente körülbelül 300 000 tonna rézkoncentrátumot termel. A kitermelés az 1930-as években kezdődött, és a szovjet időkben jelentős bővítéseken ment keresztül. Réz mellett aranyat, ezüstöt és cinket is nyernek melléktermékként. A régió történelmileg jelentős a bányászatban, és nagyszámú bányászcsaládnak ad otthont.",
+      ro: "Mina de cupru Zhezkazgan din centrul Kazahstanului este unul dintre cele mai mari zăcăminte de cupru din lume. Este operată de Kazakhmys Corporation și include mai multe mine de suprafață și subterane. Rezervele de minereu sunt estimate la peste 1,5 miliarde de tone, cu un conținut mediu de cupru de 0,8%. Mina produce anual aproximativ 300.000 de tone de concentrat de cupru. Exploatarea a început în anii 1930, iar instalațiile au fost extinse semnificativ în perioada sovietică. Pe lângă cupru, se extrag aur, argint și zinc ca produse secundare. Regiunea are o importanță istorică în minerit și găzduiește un număr mare de mineri și familiile lor.",
+      en: "Zhezkazgan Copper Mine in central Kazakhstan is one of the world's largest copper deposits. Operated by Kazakhmys Corporation, it includes multiple open-pit and underground mines. Ore reserves are estimated at over 1.5 billion tons with an average copper grade of 0.8%. The mine produces about 300,000 tons of copper concentrate annually. Mining began in the 1930s, and facilities were significantly expanded during the Soviet era. Besides copper, gold, silver, and zinc are extracted as by-products. The region is historically significant for mining and hosts a large population of miners and their families.",
+    },
+    factsAdvanced: {
+      de: ["Die Erzreserven betragen über 1,5 Milliarden Tonnen.", "Der durchschnittliche Kupfergehalt liegt bei 0,8 %.", "Die Mine produziert jährlich rund 300.000 Tonnen Kupferkonzentrat.", "Der Abbau begann in den 1930er Jahren.", "Die Mine umfasst eine Fläche von etwa 15 Quadratkilometern.", "Nebenprodukte sind Gold, Silber und Zink."],
+      hu: ["Az ércvagyon meghaladja az 1,5 milliárd tonnát.", "Az átlagos réztartalom 0,8%.", "A bánya évente körülbelül 300 000 tonna rézkoncentrátumot termel.", "A kitermelés az 1930-as években kezdődött.", "A bánya területe körülbelül 15 négyzetkilométer.", "Melléktermékek: arany, ezüst és cink."],
+      ro: ["Rezervele de minereu depășesc 1,5 miliarde de tone.", "Conținutul mediu de cupru este de 0,8%.", "Mina produce anual aproximativ 300.000 de tone de concentrat de cupru.", "Exploatarea a început în anii 1930.", "Mina se întinde pe o suprafață de aproximativ 15 kilometri pătrați.", "Produse secundare: aur, argint și zinc."],
+      en: ["Ore reserves exceed 1.5 billion tons.", "Average copper grade is 0.8%.", "The mine produces about 300,000 tons of copper concentrate annually.", "Mining began in the 1930s.", "The mine covers an area of about 15 square kilometers.", "By-products include gold, silver, and zinc."],
+    },
+  },
   {
     id: "balkhash-copper-smelter-economic-v2",
     type: "industry",
     parent: "KZ-KAR",
     coords: [75.0000, 46.8000],
-    name: { de: "Kupferhütte Balchasch", hu: "Balkasi rézkohó", ro: "Topitoria de cupru Balkhash", en: "Balkhash Copper Smelter",
-image: "/poi-images/balkhash-copper-smelter-economic-v2.webp"
-},
+    name: { de: "Kupferhütte Balchasch", hu: "Balkasi rézkohó", ro: "Topitoria de cupru Balkhash", en: "Balkhash Copper Smelter"},
+    image: "/poi-images/balkhash-copper-smelter-economic-v2.webp",
     description: { de: "Ein monumentaler metallurgischer Komplex am Ufer des Balchaschsees, dessen hoher Schornstein die Skyline der umliegenden Industriestadt dominiert.", hu: "Egy monumentális kohászati komplexum a Balkas-tó partján, amelynek magas kéménye uralja a környező iparváros látképét.", ro: "Un complex metalurgic monumental pe malul lacului Balhaș, al cărui coș înalt domină orizontul orașului industrial din jur.", en: "A monumental metallurgical complex on the shores of Lake Balkhash, whose tall chimney dominates the skyline of the surrounding industrial city." },
     facts: {
       de: ["Der Komplex verarbeitet Erz aus der Kounrad-Mine.", "Hat eine lange Geschichte als Symbol der sowjetischen Industrialisierung.", "Neben Kupfer werden hier auch Edelmetalle gewonnen."],
       hu: ["A komplexum a Kounrad-bánya ércét dolgozza fel.", "Hosszú múlttal rendelkezik, mint a szovjet iparosítás szimbóluma.", "A réz mellett nemesfémeket is kinyernek itt."],
       ro: ["Complexul procesează minereul de la mina Kounrad.", "Are o istorie lungă ca simbol al industrializării sovietice.", "Pe lângă cupru, aici se extrag și metale prețioase."],
       en: ["The complex processes ore from the Kounrad mine.", "Has a long history as a symbol of Soviet industrialization.", "In addition to copper, precious metals are also extracted here."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Kupferhütte Balkhash in der Region Karaganda, Kasachstan, ist eine der größten Kupferverhüttungsanlagen Zentralasiens. Sie wurde 1938 in Betrieb genommen und ist Teil der Kazakhmys Corporation. Die Hütte verarbeitet Kupferkonzentrate aus den Minen der Region, insbesondere aus Zhezkazgan. Die jährliche Produktion beträgt etwa 200.000 Tonnen raffiniertes Kupfer. Der Prozess umfasst Schmelzen, Konvertieren und Elektrolyseraffination. Die Anlage produziert auch Schwefelsäure als Nebenprodukt. In den letzten Jahren wurden Umweltinvestitionen getätigt, um die Emissionen zu reduzieren. Die Hütte beschäftigt rund 5.000 Mitarbeiter und ist ein wichtiger Arbeitgeber in der Region.",
+      hu: "A balchasi rézkohó Kazahsztán Karaganda régiójában Közép-Ázsia egyik legnagyobb rézkohója. 1938-ban kezdte meg a termelést, és a Kazakhmys Corporation része. A kohó a régió bányáiból, főleg Zsezkazgánból származó rézkoncentrátumot dolgoz fel. Az éves termelés körülbelül 200 000 tonna finomított réz. A folyamat magában foglalja az olvasztást, konvertálást és elektrolitikus finomítást. Az üzem melléktermékként kénsavat is termel. Az utóbbi években környezetvédelmi beruházásokat hajtottak végre a kibocsátás csökkentésére. A kohó mintegy 5 000 embert foglalkoztat, és fontos munkáltató a régióban.",
+      ro: "Topitoria de cupru Balkhash din regiunea Karaganda, Kazahstan, este una dintre cele mai mari instalații de topire a cuprului din Asia Centrală. A fost pusă în funcțiune în 1938 și face parte din Kazakhmys Corporation. Topitoria procesează concentrate de cupru din minele regiunii, în special din Zhezkazgan. Producția anuală este de aproximativ 200.000 de tone de cupru rafinat. Procesul include topirea, convertizarea și rafinarea electrolitică. Instalația produce și acid sulfuric ca produs secundar. În ultimii ani, s-au făcut investiții de mediu pentru reducerea emisiilor. Topitoria angajează aproximativ 5.000 de persoane și este un angajator important în regiune.",
+      en: "Balkhash Copper Smelter in the Karaganda region of Kazakhstan is one of the largest copper smelting facilities in Central Asia. Commissioned in 1938, it is part of Kazakhmys Corporation. The smelter processes copper concentrates from regional mines, especially Zhezkazgan. Annual production is about 200,000 tons of refined copper. The process includes smelting, converting, and electrolytic refining. The plant also produces sulfuric acid as a by-product. Environmental investments have been made in recent years to reduce emissions. The smelter employs about 5,000 people and is a major employer in the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Kupferhütte wurde 1938 in Betrieb genommen.", "Jährlich werden etwa 200.000 Tonnen raffiniertes Kupfer produziert.", "Die Anlage beschäftigt rund 5.000 Mitarbeiter.", "Sie produziert auch Schwefelsäure als Nebenprodukt.", "Die Schmelzkapazität beträgt 300.000 Tonnen Konzentrat pro Jahr.", "Die Hütte verarbeitet jährlich über 1,2 Millionen Tonnen Erz."],
+      hu: ["A kohót 1938-ban helyezték üzembe.", "Éves termelése körülbelül 200 000 tonna finomított réz.", "Az üzem mintegy 5 000 embert foglalkoztat.", "Melléktermékként kénsavat is termel.", "Az olvasztási kapacitás évi 300 000 tonna koncentrátum.", "A kohó évente több mint 1,2 millió tonna ércet dolgoz fel."],
+      ro: ["Topitoria a fost pusă în funcțiune în 1938.", "Producția anuală este de aproximativ 200.000 de tone de cupru rafinat.", "Instalația angajează aproximativ 5.000 de persoane.", "Produce, de asemenea, acid sulfuric ca produs secundar.", "Capacitatea de topire este de 300.000 de tone de concentrat pe an.", "Topitoria procesează anual peste 1,2 milioane de tone de minereu."],
+      en: ["The smelter was commissioned in 1938.", "Annual production is about 200,000 tons of refined copper.", "The plant employs about 5,000 people.", "It also produces sulfuric acid as a by-product.", "Smelting capacity is 300,000 tons of concentrate per year.", "The smelter processes over 1.2 million tons of ore annually."],
+    },
   },
   {
     id: "pavlodar-oil-refinery-economic-v2",
     type: "industry",
     parent: "KZ-PAV",
     coords: [77.0000, 52.3000],
-    name: { de: "Erdölraffinerie Pawlodar", hu: "Pavlodari olajfinomító", ro: "Rafinăria de petrol Pavlodar", en: "Pavlodar Oil Refinery",
-image: "/poi-images/pavlodar-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Erdölraffinerie Pawlodar", hu: "Pavlodari olajfinomító", ro: "Rafinăria de petrol Pavlodar", en: "Pavlodar Oil Refinery"},
+    image: "/poi-images/pavlodar-oil-refinery-economic-v2.webp",
     description: { de: "Eine der größten Raffinerien in Kasachstan, die strategisch im Norden gelegen ist und traditionell westsibirisches Rohöl zu einer Vielzahl von Kraftstoffen verarbeitet.", hu: "Kazahsztán egyik legnagyobb, stratégiailag északon fekvő finomítója, amely hagyományosan nyugat-szibériai nyersolajat dolgoz fel különféle üzemanyagokká.", ro: "Una dintre cele mai mari rafinării din Kazahstan, situată strategic în nord, care prelucrează în mod tradițional țiței din Siberia de Vest într-o varietate de combustibili.", en: "One of the largest refineries in Kazakhstan, strategically located in the north, traditionally processing West Siberian crude oil into a variety of fuels." },
     facts: {
       de: ["Erbaut im Jahr 1978 mit fortschrittlicher Technologie der damaligen Zeit.", "Produziert hochoktaniges Benzin und Flugzeugtreibstoff.", "Verfügt über tiefe Verarbeitungskapazitäten."],
       hu: ["1978-ban épült a korabeli fejlett technológiával.", "Magas oktánszámú benzint és repülőgép-üzemanyagot termel.", "Mélyfeldolgozási kapacitásokkal rendelkezik."],
       ro: ["Construită în 1978 folosind o tehnologie avansată la acea vreme.", "Produce benzină cu cifră octanică ridicată și combustibil pentru aviație.", "Dispune de capacități profunde de prelucrare."],
       en: ["Built in 1978 using advanced technology of the time.", "Produces high-octane gasoline and aviation fuel.", "Features deep processing capabilities."]
-    }, image: "/poi-images/pavlodar-oil-refinery-economic-v2.webp"},
+    }, image: "/poi-images/pavlodar-oil-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Erdölraffinerie Pavlodar im Nordosten Kasachstans ist eine der drei großen Raffinerien des Landes. Sie wurde 1978 in Betrieb genommen und verarbeitet hauptsächlich Rohöl aus Westsibirien und Kasachstan. Die jährliche Kapazität beträgt etwa 7,5 Millionen Tonnen Rohöl. Die Raffinerie produziert Benzin, Diesel, Heizöl, Kerosin und Flüssiggas. Sie ist strategisch wichtig für die Versorgung des nordöstlichen Teils Kasachstans. In den letzten Jahren wurden Modernisierungen durchgeführt, um die Produktion von Kraftstoffen mit höheren Umweltstandards zu ermöglichen. Die Raffinerie gehört zu einer Gruppe, die auch andere Raffinerien in Kasachstan betreibt.",
+      hu: "A pavlodari olajfinomító Kazahsztán északkeleti részén található, és az ország három nagy finomítójának egyike. 1978-ban kezdte meg a termelést, főként nyugat-szibériai és kazahsztáni nyersolajat dolgoz fel. Az éves kapacitás körülbelül 7,5 millió tonna nyersolaj. A finomító benzint, gázolajat, fűtőolajat, kerozint és cseppfolyósított gázt állít elő. Stratégiai jelentőségű Kazahsztán északkeleti részének ellátásában. Az utóbbi években korszerűsítéseket hajtottak végre a magasabb környezetvédelmi előírásoknak megfelelő üzemanyagok gyártása érdekében. A finomító egy olyan csoporthoz tartozik, amely más kazahsztáni finomítókat is üzemeltet.",
+      ro: "Rafinăria de petrol Pavlodar din nord-estul Kazahstanului este una dintre cele trei mari rafinării ale țării. A fost dată în funcțiune în 1978 și procesează în principal țiței din Siberia de Vest și Kazahstan. Capacitatea anuală este de aproximativ 7,5 milioane de tone de țiței. Rafinăria produce benzină, motorină, păcură, kerosen și gaz petrolier lichefiat. Este strategică pentru aprovizionarea părții de nord-est a Kazahstanului. În ultimii ani, s-au efectuat modernizări pentru a produce carburanți cu standarde de mediu mai ridicate. Rafinăria face parte dintr-un grup care operează și alte rafinării în Kazahstan.",
+      en: "Pavlodar Oil Refinery in northeastern Kazakhstan is one of the three major refineries in the country. Commissioned in 1978, it mainly processes crude oil from West Siberia and Kazakhstan. The annual capacity is about 7.5 million tons of crude oil. The refinery produces gasoline, diesel, fuel oil, kerosene, and liquefied petroleum gas. It is strategically important for supplying the northeastern part of Kazakhstan. Upgrades have been carried out in recent years to produce fuels with higher environmental standards. The refinery is part of a group that also operates other refineries in Kazakhstan.",
+    },
+    factsAdvanced: {
+      de: ["Die Raffinerie wurde 1978 in Betrieb genommen.", "Die jährliche Kapazität beträgt 7,5 Millionen Tonnen Rohöl.", "Sie produziert Benzin, Diesel, Heizöl, Kerosin und Flüssiggas.", "Die Tiefe der Rohölverarbeitung liegt bei etwa 85 %.", "Die Raffinerie beschäftigt rund 2.500 Mitarbeiter.", "Die Verarbeitungskapazität wurde nach Modernisierung auf 8 Millionen Tonnen erhöht."],
+      hu: ["A finomítót 1978-ban helyezték üzembe.", "Az éves kapacitás 7,5 millió tonna nyersolaj.", "Benzint, gázolajat, fűtőolajat, kerozint és cseppfolyósított gázt gyárt.", "A nyersolajfeldolgozás mélysége körülbelül 85%.", "A finomító mintegy 2500 embert foglalkoztat.", "A feldolgozási kapacitást a korszerűsítés után 8 millió tonnára növelték."],
+      ro: ["Rafinăria a fost dată în funcțiune în 1978.", "Capacitatea anuală este de 7,5 milioane de tone de țiței.", "Produce benzină, motorină, păcură, kerosen și gaz petrolier lichefiat.", "Adâncimea de prelucrare a țițeiului este de aproximativ 85%.", "Rafinăria angajează aproximativ 2.500 de persoane.", "Capacitatea de prelucrare a fost crescută la 8 milioane de tone după modernizare."],
+      en: ["The refinery was commissioned in 1978.", "Annual capacity is 7.5 million tons of crude oil.", "It produces gasoline, diesel, fuel oil, kerosene, and LPG.", "The crude oil processing depth is about 85%.", "The refinery employs about 2,500 people.", "Processing capacity was increased to 8 million tons after modernization."],
+    },
+  },
   {
     id: "atyrau-oil-refinery-economic-v2",
     type: "industry",
     parent: "KZ-ATY",
     coords: [51.9000, 47.1000],
-    name: { de: "Erdölraffinerie Atyrau", hu: "Atyraui olajfinomító", ro: "Rafinăria de petrol Atyrau", en: "Atyrau Oil Refinery",
-image: "/poi-images/atyrau-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Erdölraffinerie Atyrau", hu: "Atyraui olajfinomító", ro: "Rafinăria de petrol Atyrau", en: "Atyrau Oil Refinery"},
+    image: "/poi-images/atyrau-oil-refinery-economic-v2.webp",
     description: { de: "Die älteste Raffinerie Kasachstans nahe der kaspischen Ölhauptstadt, die nach umfangreichen Modernisierungen nun umweltfreundlichere petrochemische Produkte liefert.", hu: "Kazahsztán legrégebbi finomítója a kaszpi-tengeri olajfőváros közelében, amely kiterjedt modernizáció után ma már környezetbarátabb petrolkémiai termékeket is szállít.", ro: "Cea mai veche rafinărie din Kazahstan din apropierea capitalei petroliere caspice, care, după o modernizare extinsă, livrează acum produse petrochimice mai ecologice.", en: "The oldest refinery in Kazakhstan near the Caspian oil capital, which, after extensive modernization, now delivers more environmentally friendly petrochemical products." },
     facts: {
       de: ["Gegründet im Jahr 1945.", "Verarbeitet Rohöl direkt aus dem Tengiz-Feld.", "Eine wichtige Säule für die Treibstoffversorgung Westkasachstans."],
       hu: ["1945-ben alapították.", "Közvetlenül a Tengiz mezőről származó nyersolajat dolgoz fel.", "Nyugat-Kazahsztán üzemanyag-ellátásának egyik fontos pillére."],
       ro: ["Fondată în anul 1945.", "Procesează țiței direct din câmpul Tengiz.", "Un pilon important pentru aprovizionarea cu combustibil a Kazahstanului de Vest."],
       en: ["Founded in the year 1945.", "Processes crude oil directly from the Tengiz field.", "An important pillar for the fuel supply of western Kazakhstan."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Erdölraffinerie Atyrau im Westen Kasachstans ist eine der ältesten und wichtigsten Raffinerien des Landes. Sie wurde 1945 in Betrieb genommen und verarbeitet hauptsächlich Rohöl aus dem kaspischen Becken. Die jährliche Kapazität beträgt rund 5,5 Millionen Tonnen. Die Raffinerie produziert eine breite Palette von Produkten, darunter Benzin, Diesel, Kerosin und Bitumen. Sie versorgt vor allem die westlichen Regionen Kasachstans. In den letzten Jahren wurden umfangreiche Modernisierungen durchgeführt, um die Produktionseffizienz zu steigern und die Umweltbelastung zu reduzieren. Die Raffinerie ist ein wichtiger Bestandteil der Erdölindustrie Kasachstans und trägt zur wirtschaftlichen Entwicklung der Region bei.",
+      hu: "Az atyraui olajfinomító Kazahsztán nyugati részén található, az ország egyik legrégebbi és legfontosabb finomítója. 1945-ben kezdte meg a termelést, főként a kászpi-medencei nyersolajat dolgozza fel. Az éves kapacitás körülbelül 5,5 millió tonna. A finomító széles termékskálát gyárt, köztük benzint, gázolajat, kerozint és bitument. Elsősorban Kazahsztán nyugati régióit látja el. Az utóbbi években jelentős korszerűsítéseket hajtottak végre a termelési hatékonyság növelése és a környezeti terhelés csökkentése érdekében. A finomító a kazah olajipar fontos része, és hozzájárul a régió gazdasági fejlődéséhez.",
+      ro: "Rafinăria de petrol Atyrau din vestul Kazahstanului este una dintre cele mai vechi și importante rafinării ale țării. A fost dată în funcțiune în 1945 și procesează în principal țiței din bazinul Caspic. Capacitatea anuală este de aproximativ 5,5 milioane de tone. Rafinăria produce o gamă largă de produse, inclusiv benzină, motorină, kerosen și bitum. Alimentează în principal regiunile vestice ale Kazahstanului. În ultimii ani, s-au efectuat ample modernizări pentru a crește eficiența producției și a reduce impactul asupra mediului. Rafinăria este o componentă importantă a industriei petroliere din Kazahstan și contribuie la dezvoltarea economică a regiunii.",
+      en: "Atyrau Oil Refinery in western Kazakhstan is one of the oldest and most important refineries in the country. Commissioned in 1945, it mainly processes crude oil from the Caspian basin. The annual capacity is about 5.5 million tons. The refinery produces a wide range of products, including gasoline, diesel, kerosene, and bitumen. It primarily supplies the western regions of Kazakhstan. Extensive modernizations have been carried out in recent years to increase production efficiency and reduce environmental impact. The refinery is a key component of Kazakhstan's oil industry and contributes to the economic development of the region.",
+    },
+    factsAdvanced: {
+      de: ["Die Raffinerie wurde 1945 in Betrieb genommen.", "Die jährliche Kapazität beträgt 5,5 Millionen Tonnen Rohöl.", "Sie produziert Benzin, Diesel, Kerosin und Bitumen.", "Die Raffinerie beschäftigt rund 3.000 Mitarbeiter.", "Sie liegt etwa 300 Kilometer nordöstlich des Kaspischen Meeres.", "Die Tiefe der Rohölverarbeitung liegt bei etwa 87 %."],
+      hu: ["A finomítót 1945-ben helyezték üzembe.", "Az éves kapacitás 5,5 millió tonna nyersolaj.", "Benzint, gázolajat, kerozint és bitument gyárt.", "A finomító mintegy 3000 embert foglalkoztat.", "A Kaszpi-tengertől körülbelül 300 kilométerre északkeletre található.", "A nyersolajfeldolgozás mélysége körülbelül 87%."],
+      ro: ["Rafinăria a fost dată în funcțiune în 1945.", "Capacitatea anuală este de 5,5 milioane de tone de țiței.", "Produce benzină, motorină, kerosen și bitum.", "Rafinăria angajează aproximativ 3.000 de persoane.", "Este situată la aproximativ 300 de kilometri nord-est de Marea Caspică.", "Adâncimea de prelucrare a țițeiului este de aproximativ 87%."],
+      en: ["The refinery was commissioned in 1945.", "Annual capacity is 5.5 million tons of crude oil.", "It produces gasoline, diesel, kerosene, and bitumen.", "The refinery employs about 3,000 people.", "It is located about 300 kilometers northeast of the Caspian Sea.", "The crude oil processing depth is about 87%."],
+    },
   },
   {
     id: "shymkent-oil-refinery-economic-v2",
     type: "industry",
     parent: "KZ-SHY",
     coords: [69.5000, 42.3000],
-    name: { de: "Erdölraffinerie Schymkent", hu: "Simkenti olajfinomító", ro: "Rafinăria de petrol Shymkent", en: "Shymkent Oil Refinery",
-image: "/poi-images/shymkent-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Erdölraffinerie Schymkent", hu: "Simkenti olajfinomító", ro: "Rafinăria de petrol Shymkent", en: "Shymkent Oil Refinery"},
+    image: "/poi-images/shymkent-oil-refinery-economic-v2.webp",
     description: { de: "Die neueste der drei großen Raffinerien des Landes, gelegen im bevölkerungsreichen Süden, und ein entscheidendes Element zur Sicherung der nationalen Energiesouveränität.", hu: "Az ország három nagy finomítója közül a legújabb, amely a sűrűn lakott déli részen található, és a nemzeti energiaszuverenitás biztosításának kulcsfontosságú eleme.", ro: "Cea mai nouă dintre cele trei mari rafinării ale țării, situată în sudul dens populat, și un element esențial pentru asigurarea suveranității energetice naționale.", en: "The newest of the three major national refineries, located in the densely populated south, and a crucial element in securing national energy sovereignty." },
     facts: {
       de: ["Sie wurde 1985 in Betrieb genommen.", "Deckt den Großteil des Treibstoffbedarfs in den südlichen Regionen.", "Wurde modernisiert, um Euro-4- und Euro-5-Standards zu erfüllen."],
       hu: ["1985-ben helyezték üzembe.", "A déli régiók üzemanyag-igényének nagy részét fedezi.", "Modernizálták az Euro-4 és Euro-5 szabványoknak megfelelően."],
       ro: ["A fost dată în funcțiune în 1985.", "Acoperă majoritatea nevoilor de combustibil din regiunile sudice.", "A fost modernizată pentru a îndeplini standardele Euro 4 și Euro 5."],
       en: ["It was commissioned in 1985.", "Covers the majority of the fuel needs in the southern regions.", "Was modernized to meet Euro-4 and Euro-5 standards."]
-    }, image: "/poi-images/shymkent-oil-refinery-economic-v2.webp"},
+    }, image: "/poi-images/shymkent-oil-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Erdölraffinerie Schymkent im Süden Kasachstans ist die modernste der drei großen Raffinerien des Landes. Sie wurde 1985 in Betrieb genommen und verarbeitet hauptsächlich Rohöl aus Kasachstan. Die jährliche Kapazität beträgt 6 Millionen Tonnen Rohöl. Die Raffinerie produziert Benzin, Diesel, Kerosin und andere petrochemische Produkte. Sie spielt eine wichtige Rolle bei der Versorgung der südlichen Regionen Kasachstans. In den letzten Jahren wurde eine umfassende Modernisierung durchgeführt, um die Produktion von Kraftstoffen der Euro-5-Norm zu ermöglichen. Die Raffinerie ist für ihre hohe Energieeffizienz und geringe Umweltbelastung bekannt.",
+      hu: "A simkenti olajfinomító Kazahsztán déli részén található, és az ország három nagy finomítója közül a legmodernebb. 1985-ben kezdte meg a termelést, főként kazahsztáni nyersolajat dolgoz fel. Az éves kapacitás 6 millió tonna nyersolaj. A finomító benzint, gázolajat, kerozint és más petrolkémiai termékeket gyárt. Fontos szerepet játszik Kazahsztán déli régióinak ellátásában. Az utóbbi években átfogó korszerűsítést hajtottak végre az Euro-5-ös üzemanyagok gyártásának lehetővé tétele érdekében. A finomító magas energiahatékonyságáról és alacsony környezeti terheléséről ismert.",
+      ro: "Rafinăria de petrol Shymkent din sudul Kazahstanului este cea mai modernă dintre cele trei mari rafinării ale țării. A fost dată în funcțiune în 1985 și procesează în principal țiței kazah. Capacitatea anuală este de 6 milioane de tone de țiței. Rafinăria produce benzină, motorină, kerosen și alte produse petrochimice. Joacă un rol important în aprovizionarea regiunilor sudice ale Kazahstanului. În ultimii ani, s-a efectuat o modernizare cuprinzătoare pentru a permite producția de combustibili Euro 5. Rafinăria este cunoscută pentru eficiența sa energetică ridicată și impactul redus asupra mediului.",
+      en: "Shymkent Oil Refinery in southern Kazakhstan is the most modern of the country's three major refineries. Commissioned in 1985, it mainly processes Kazakh crude oil. The annual capacity is 6 million tons of crude oil. The refinery produces gasoline, diesel, kerosene, and other petrochemical products. It plays an important role in supplying the southern regions of Kazakhstan. A comprehensive modernization was carried out in recent years to enable the production of Euro-5 fuels. The refinery is known for its high energy efficiency and low environmental impact.",
+    },
+    factsAdvanced: {
+      de: ["Die Raffinerie wurde 1985 in Betrieb genommen.", "Die jährliche Kapazität beträgt 6 Millionen Tonnen Rohöl.", "Sie produziert Kraftstoffe der Euro-5-Norm.", "Die Raffinerie beschäftigt rund 2.000 Mitarbeiter.", "Sie liegt etwa 120 Kilometer nördlich von Taschkent.", "Die Tiefe der Rohölverarbeitung liegt bei etwa 88 %."],
+      hu: ["A finomítót 1985-ben helyezték üzembe.", "Az éves kapacitás 6 millió tonna nyersolaj.", "Euro-5-ös üzemanyagokat gyárt.", "A finomító mintegy 2000 embert foglalkoztat.", "Taszkenttől körülbelül 120 kilométerre északra található.", "A nyersolajfeldolgozás mélysége körülbelül 88%."],
+      ro: ["Rafinăria a fost dată în funcțiune în 1985.", "Capacitatea anuală este de 6 milioane de tone de țiței.", "Produce carburanți Euro 5.", "Rafinăria angajează aproximativ 2.000 de persoane.", "Este situată la aproximativ 120 de kilometri nord de Tașkent.", "Adâncimea de prelucrare a țițeiului este de aproximativ 88%."],
+      en: ["The refinery was commissioned in 1985.", "Annual capacity is 6 million tons of crude oil.", "It produces Euro-5 fuels.", "The refinery employs about 2,000 people.", "It is located about 120 kilometers north of Tashkent.", "The crude oil processing depth is about 88%."],
+    },
+  },
   {
     id: "ekibastuz-gres-1-power-station-economic-v2",
     type: "energy",
     parent: "KZ-PAV",
     coords: [75.3000, 51.8000],
-    name: { de: "Kohlekraftwerk Ekibastus GRES-1", hu: "Ekibasztuzi GRESZ-1 szénerőmű", ro: "Centrala termoelectrică Ekibastuz GRES-1", en: "Ekibastuz GRES-1 Power Station",
-image: "/poi-images/ekibastuz-gres-1-power-station-economic-v2.webp"
-},
+    name: { de: "Kohlekraftwerk Ekibastus GRES-1", hu: "Ekibasztuzi GRESZ-1 szénerőmű", ro: "Centrala termoelectrică Ekibastuz GRES-1", en: "Ekibastuz GRES-1 Power Station"},
+    image: "/poi-images/ekibastuz-gres-1-power-station-economic-v2.webp",
     description: { de: "Eines der größten Kohlekraftwerke der Welt, das Energie aus der nahe gelegenen Bogatyr-Mine gewinnt und einen wesentlichen Teil des kasachischen Stroms erzeugt.", hu: "A világ egyik legnagyobb szénerőműve, amely a közeli Bogatir bányából nyeri az energiát, és a kazah villamosenergia jelentős részét állítja elő.", ro: "Una dintre cele mai mari centrale termoelectrice pe cărbune din lume, obținând energie de la mina din apropiere Bogatyr și producând o parte substanțială din energia electrică din Kazahstan.", en: "One of the largest coal-fired power stations in the world, drawing energy from the nearby Bogatyr mine and generating a substantial portion of the electricity in Kazakhstan." },
     facts: {
       de: ["Verfügt über eine installierte Kapazität von 4.000 Megawatt.", "Die riesigen Schornsteine dominieren die flache Steppenlandschaft.", "Spielt eine Schlüsselrolle im einheitlichen Stromnetz des Landes."],
       hu: ["4000 megawatt beépített kapacitással rendelkezik.", "A hatalmas kémények uralják a sík sztyeppei tájat.", "Kulcsszerepet játszik az ország egységes villamosenergia-hálózatában."],
       ro: ["Are o capacitate instalată de 4.000 de megawați.", "Coșurile de fum uriașe domină peisajul plat de stepă.", "Joacă un rol cheie în rețeaua electrică unificată a țării."],
       en: ["Has an installed capacity of 4,000 megawatts.", "The massive chimneys dominate the flat steppe landscape.", "Plays a key role in the unified national electricity grid."]
-    }, image: "/poi-images/ekibastuz-gres-1-power-station-economic-v2.webp"},
+    }, image: "/poi-images/ekibastuz-gres-1-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Ekibastuz GRES-1 in Nordkasachstan ist eines der größten Kohlekraftwerke der Welt. Es wurde 1971 in Betrieb genommen und hat eine installierte Leistung von 4.000 Megawatt. Das Kraftwerk verbrennt Kohle aus dem Ekibastuz-Becken, einem der größten Kohlevorkommen der Erde. Es besteht aus 8 Blöcken mit je 500 MW. Das Kraftwerk ist ein wichtiger Stromlieferant für die Region und versorgt einen Großteil des kasachischen Stromnetzes. In den letzten Jahren wurden Modernisierungen zur Verbesserung der Effizienz und Reduzierung der Emissionen durchgeführt. Es beschäftigt mehrere tausend Mitarbeiter.",
+      hu: "Az Ekibastuz GRES-1 erőmű Észak-Kazahsztánban található, és a világ egyik legnagyobb szénerőműve. 1971-ben helyezték üzembe, beépített teljesítménye 4000 megawatt. Az erőmű az Ekibastuz-medence szénjét égeti, amely a Föld egyik legnagyobb szénlelőhelye. 8 darab 500 MW-os blokkból áll. Az erőmű fontos áramszolgáltató a régióban, és a kazah villamosenergia-hálózat jelentős részét látja el. Az utóbbi években korszerűsítéseket hajtottak végre a hatékonyság javítása és a kibocsátás csökkentése érdekében. Több ezer embert foglalkoztat.",
+      ro: "Centrala electrică Ekibastuz GRES-1 din nordul Kazahstanului este una dintre cele mai mari centrale termoelectrice pe cărbune din lume. A fost dată în funcțiune în 1971 și are o capacitate instalată de 4.000 de megawați. Centrala arde cărbune din bazinul Ekibastuz, unul dintre cele mai mari zăcăminte de cărbune de pe Pământ. Este formată din 8 unități de câte 500 MW fiecare. Centrala este un important furnizor de electricitate pentru regiune și alimentează o mare parte din rețeaua electrică a Kazahstanului. În ultimii ani, s-au efectuat modernizări pentru a îmbunătăți eficiența și a reduce emisiile. Angajează câteva mii de persoane.",
+      en: "Ekibastuz GRES-1 Power Station in northern Kazakhstan is one of the largest coal-fired power plants in the world. Commissioned in 1971, it has an installed capacity of 4,000 megawatts. The plant burns coal from the Ekibastuz basin, one of the largest coal deposits on Earth. It consists of 8 units of 500 MW each. The power station is a major electricity supplier for the region and feeds a large part of Kazakhstan's power grid. Modernizations have been carried out in recent years to improve efficiency and reduce emissions. It employs several thousand people.",
+    },
+    factsAdvanced: {
+      de: ["Die installierte Leistung beträgt 4.000 Megawatt.", "Das Kraftwerk wurde 1971 in Betrieb genommen.", "Es besteht aus 8 Blöcken mit je 500 MW.", "Die jährliche Stromproduktion beträgt etwa 26 Milliarden Kilowattstunden.", "Der Kohleverbrauch liegt bei etwa 12 Millionen Tonnen pro Jahr.", "Die Schornsteinhöhe beträgt 330 Meter."],
+      hu: ["A beépített teljesítmény 4000 megawatt.", "Az erőművet 1971-ben helyezték üzembe.", "8 darab 500 MW-os blokkból áll.", "Az éves villamosenergia-termelés körülbelül 26 milliárd kilowattóra.", "A szénfogyasztás évi körülbelül 12 millió tonna.", "A kémény magassága 330 méter."],
+      ro: ["Capacitatea instalată este de 4.000 de megawați.", "Centrala a fost dată în funcțiune în 1971.", "Este formată din 8 unități de câte 500 MW.", "Producția anuală de electricitate este de aproximativ 26 de miliarde de kilowați-oră.", "Consumul de cărbune este de aproximativ 12 milioane de tone pe an.", "Înălțimea coșului de fum este de 330 de metri."],
+      en: ["Installed capacity is 4,000 megawatts.", "The power station was commissioned in 1971.", "It consists of 8 units of 500 MW each.", "Annual electricity production is about 26 billion kWh.", "Coal consumption is about 12 million tons per year.", "The chimney height is 330 meters."],
+    },
+  },
   {
     id: "ekibastuz-gres-2-power-station-economic-v2",
     type: "energy",
     parent: "KZ-PAV",
     coords: [75.4000, 52.0000],
-    name: { de: "Kraftwerk Ekibastus GRES-2", hu: "Ekibasztuzi GRESZ-2 erőmű", ro: "Centrala termoelectrică Ekibastuz GRES-2", en: "Ekibastuz GRES-2 Power Station",
-image: "/poi-images/ekibastuz-gres-2-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Ekibastus GRES-2", hu: "Ekibasztuzi GRESZ-2 erőmű", ro: "Centrala termoelectrică Ekibastuz GRES-2", en: "Ekibastuz GRES-2 Power Station"},
+    image: "/poi-images/ekibastuz-gres-2-power-station-economic-v2.webp",
     description: { de: "Ein benachbartes Großkraftwerk, das weltweit berühmt für seinen gigantischen Schornstein ist, der als der höchste der Welt gilt.", hu: "Egy szomszédos nagy erőmű, amely világhírű a gigantikus kéményéről, amelyet a világ legmagasabbjának tartanak.", ro: "O mare centrală electrică vecină, renumită la nivel mondial pentru coșul său gigantic, care este considerat cel mai înalt din lume.", en: "A neighboring major power station, world-famous for its gigantic chimney, which is considered the tallest globally." },
     facts: {
       de: ["Der Schornstein ist unglaubliche 419,7 Meter hoch.", "Trotz der Größe wurden nur zwei der ursprünglich geplanten acht Blöcke fertiggestellt.", "Das Kraftwerk nutzt kohlenstoffarme Brennertechnologien."],
       hu: ["A kémény elképesztő, 419,7 méter magas.", "A mérete ellenére az eredetileg tervezett nyolc blokkból csak kettő készült el.", "Az erőmű alacsony szén-dioxid-kibocsátású égőtechnológiákat alkalmaz."],
       ro: ["Coșul de fum are o înălțime incredibilă de 419,7 metri.", "În ciuda dimensiunilor sale, doar două dintre cele opt blocuri planificate inițial au fost finalizate.", "Centrala folosește tehnologii de ardere cu emisii reduse de carbon."],
       en: ["The chimney is an incredible 419.7 meters high.", "Despite its scale, only two of the originally planned eight blocks were completed.", "The power station uses low-carbon burner technologies."]
-    }, image: "/poi-images/ekibastuz-gres-2-power-station-economic-v2.webp"},
+    }, image: "/poi-images/ekibastuz-gres-2-power-station-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kraftwerk Ekibastuz GRES-2 in Nordkasachstan ist bekannt für seinen 419,7 Meter hohen Schornstein, den höchsten der Welt. Die Anlage wurde 1987 in Betrieb genommen und hat eine installierte Leistung von 1.000 Megawatt (zwei Blöcke à 500 MW). Es verbrennt Kohle aus dem Ekibastuz-Becken. Das Kraftwerk war ursprünglich für eine größere Kapazität ausgelegt, aber der Bau weiterer Blöcke wurde nicht vollendet. Trotz seiner geringeren Größe im Vergleich zu GRES-1 ist GRES-2 aufgrund seines rekordverdächtigen Schornsteins ein bekanntes Wahrzeichen. Das Kraftwerk versorgt Teile Nordkasachstans mit Strom.",
+      hu: "Az Ekibastuz GRES-2 erőmű Észak-Kazahsztánban található, és a világ legmagasabb, 419,7 méteres kéményéről ismert. Az erőművet 1987-ben helyezték üzembe, beépített teljesítménye 1000 megawatt (két 500 MW-os blokk). Az Ekibastuz-medence szénjét égeti. Az erőművet eredetileg nagyobb kapacitásra tervezték, de a további blokkok építése nem fejeződött be. Kisebb mérete ellenére a GRES-2 a rekordmagas kémény miatt ismert látnivaló. Az erőmű Észak-Kazahsztán egy részét látja el árammal.",
+      ro: "Centrala electrică Ekibastuz GRES-2 din nordul Kazahstanului este renumită pentru coșul său de fum de 419,7 metri, cel mai înalt din lume. Centrala a fost dată în funcțiune în 1987 și are o capacitate instalată de 1.000 de megawați (două unități de 500 MW). Arde cărbune din bazinul Ekibastuz. Centrala a fost proiectată inițial pentru o capacitate mai mare, dar construcția unităților suplimentare nu a fost finalizată. În ciuda dimensiunii sale mai mici în comparație cu GRES-1, GRES-2 este un reper cunoscut datorită coșului său record. Centrala alimentează cu electricitate părți din nordul Kazahstanului.",
+      en: "Ekibastuz GRES-2 Power Station in northern Kazakhstan is famous for its 419.7-meter tall chimney, the tallest in the world. The plant was commissioned in 1987 and has an installed capacity of 1,000 megawatts (two 500 MW units). It burns coal from the Ekibastuz basin. The plant was originally designed for a larger capacity, but construction of additional units was not completed. Despite its smaller size compared to GRES-1, GRES-2 is a well-known landmark due to its record-breaking chimney. The power station supplies electricity to parts of northern Kazakhstan.",
+    },
+    factsAdvanced: {
+      de: ["Der Schornstein ist 419,7 Meter hoch, der höchste der Welt.", "Die installierte Leistung beträgt 1.000 Megawatt.", "Das Kraftwerk wurde 1987 in Betrieb genommen.", "Es besteht aus zwei 500-MW-Blöcken.", "Der Durchmesser des Schornsteins an der Basis beträgt 44 Meter.", "Das Kraftwerk verbraucht jährlich etwa 4 Millionen Tonnen Kohle."],
+      hu: ["A kémény magassága 419,7 méter, a világ legmagasabbja.", "A beépített teljesítmény 1000 megawatt.", "Az erőművet 1987-ben helyezték üzembe.", "Két 500 MW-os blokkból áll.", "A kémény átmérője az alapnál 44 méter.", "Az erőmű évi körülbelül 4 millió tonna szenet fogyaszt."],
+      ro: ["Coșul de fum are 419,7 metri înălțime, cel mai înalt din lume.", "Capacitatea instalată este de 1.000 de megawați.", "Centrala a fost dată în funcțiune în 1987.", "Este formată din două unități de 500 MW.", "Diametrul coșului de fum la bază este de 44 de metri.", "Centrala consumă anual aproximativ 4 milioane de tone de cărbune."],
+      en: ["The chimney is 419.7 meters tall, the tallest in the world.", "Installed capacity is 1,000 megawatts.", "The power station was commissioned in 1987.", "It consists of two 500 MW units.", "The chimney diameter at the base is 44 meters.", "The plant consumes about 4 million tons of coal annually."],
+    },
+  },
   {
     id: "aktobe-ferroalloy-plant-economic-v2",
     type: "industry",
     parent: "KZ-AKT",
     coords: [57.1000, 50.3000],
-    name: { de: "Ferrolegierungswerk Aktobe", hu: "Aktöbei vasötvözetgyár", ro: "Uzina de feroaliaje Aktobe", en: "Aktobe Ferroalloy Plant",
-image: "/poi-images/aktobe-ferroalloy-plant-economic-v2.webp"
-},
+    name: { de: "Ferrolegierungswerk Aktobe", hu: "Aktöbei vasötvözetgyár", ro: "Uzina de feroaliaje Aktobe", en: "Aktobe Ferroalloy Plant"},
+    image: "/poi-images/aktobe-ferroalloy-plant-economic-v2.webp",
     description: { de: "Ein hochmodernes metallurgisches Werk im Westen des Landes, das eine breite Palette an hochwertigen Chrom-, Mangan- und Siliziumlegierungen für den weltweiten Export herstellt.", hu: "Egy ultramodern kohászati üzem az ország nyugati részén, amely kiváló minőségű króm-, mangán- és szilíciumötvözetek széles skáláját állítja elő globális exportra.", ro: "O uzină metalurgică ultramodernă în vestul țării, care produce o gamă largă de aliaje de înaltă calitate de crom, mangan și siliciu pentru exportul global.", en: "A state-of-the-art metallurgical plant in the west of the country, producing a wide range of high-quality chromium, manganese, and silicon alloys for global export." },
     facts: {
       de: ["Eines der ältesten Werke der Region, kürzlich stark modernisiert.", "Die dortigen Schmelzöfen gehören zu den innovativsten in der Branche.", "Ein großer Teil der Weltmarktversorgung mit Chromlegierungen stammt von hier."],
       hu: ["A régió egyik legrégebbi üzeme, amelyet nemrégiben jelentősen modernizáltak.", "Az itteni olvasztókemencék az ágazat leginnovatívabbjai közé tartoznak.", "A krómötvözetek világpiaci kínálatának jelentős része innen származik."],
       ro: ["Una dintre cele mai vechi fabrici din regiune, modernizată masiv recent.", "Cuptoarele de topire de acolo sunt printre cele mai inovatoare din industrie.", "O mare parte din oferta mondială de aliaje de crom provine de aici."],
       en: ["One of the oldest plants in the region, recently heavily modernized.", "The smelting furnaces there are among the most innovative in the industry.", "A large part of the global supply of chromium alloys originates from here."]
-    }, image: "/poi-images/aktobe-ferroalloy-plant-economic-v2.webp"},
+    }, image: "/poi-images/aktobe-ferroalloy-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ferrolegierungswerk Aktobe in Westkasachstan ist einer der größten Hersteller von Ferrolegierungen in Zentralasien. Es wurde 1954 in Betrieb genommen und gehört zur Kazchrome Gruppe. Das Werk produziert hauptsächlich Ferrochrom, Ferrosilicium und andere Ferrolegierungen. Die jährliche Kapazität beträgt über 1 Million Tonnen Ferrochrom. Das Werk wird mit Chromerz aus den nahegelegenen Chromminen von Chromtau versorgt. Es exportiert in viele Länder, darunter China, Russland und die Europäische Union. Das Werk beschäftigt rund 10.000 Mitarbeiter und ist ein wichtiger Wirtschaftsfaktor für die Region Aktobe.",
+      hu: "Az aktobei ferroötvözet-gyár Nyugat-Kazahsztánban Közép-Ázsia egyik legnagyobb ferroötvözet-gyártója. 1954-ben helyezték üzembe, és a Kazchrome csoport része. A gyár főként ferrokrómot, ferroszilíciumot és más ferroötvözeteket gyárt. Az éves kapacitás meghaladja az 1 millió tonna ferrokrómot. A gyárat a közeli Chromtau krómbányáiból származó krómérc látja el. Több országba exportál, köztük Kínába, Oroszországba és az Európai Unióba. A gyár mintegy 10 000 embert foglalkoztat, és fontos gazdasági tényező az Aktobe régióban.",
+      ro: "Uzina de ferroaliaje Aktobe din vestul Kazahstanului este unul dintre cei mai mari producători de ferroaliaje din Asia Centrală. A fost dată în funcțiune în 1954 și face parte din grupul Kazchrome. Uzina produce în principal ferocrom, ferosiliciu și alte ferroaliaje. Capacitatea anuală depășește 1 milion de tone de ferocrom. Uzina este aprovizionată cu minereu de crom din minele de crom din apropiere, Chromtau. Exportă în multe țări, inclusiv China, Rusia și Uniunea Europeană. Uzina angajează aproximativ 10.000 de persoane și este un factor economic important pentru regiunea Aktobe.",
+      en: "Aktobe Ferroalloy Plant in western Kazakhstan is one of the largest ferroalloy producers in Central Asia. Commissioned in 1954, it is part of the Kazchrome group. The plant mainly produces ferrochrome, ferrosilicon, and other ferroalloys. Annual capacity exceeds 1 million tons of ferrochrome. The plant is supplied with chromite ore from the nearby Chromtau chrome mines. It exports to many countries, including China, Russia, and the European Union. The plant employs about 10,000 people and is an important economic factor for the Aktobe region.",
+    },
+    factsAdvanced: {
+      de: ["Das Werk wurde 1954 in Betrieb genommen.", "Die jährliche Kapazität beträgt über 1 Million Tonnen Ferrochrom.", "Es beschäftigt rund 10.000 Mitarbeiter.", "Das Werk produziert auch Ferrosilicium und Ferromangan.", "Es verbraucht jährlich etwa 2 Millionen Tonnen Chromerz.", "Die Produktionskapazität für Ferrolegierungen beträgt insgesamt 1,5 Millionen Tonnen pro Jahr."],
+      hu: ["A gyárat 1954-ben helyezték üzembe.", "Az éves kapacitás meghaladja az 1 millió tonna ferrokrómot.", "Mintegy 10 000 embert foglalkoztat.", "A gyár ferroszilíciumot és ferromangánt is gyárt.", "Évente körülbelül 2 millió tonna krómércet használ fel.", "A ferroötvözetek teljes termelési kapacitása 1,5 millió tonna évente."],
+      ro: ["Uzina a fost dată în funcțiune în 1954.", "Capacitatea anuală depășește 1 milion de tone de ferocrom.", "Angajează aproximativ 10.000 de persoane.", "Uzina produce și ferosiliciu și feromangan.", "Consumă anual aproximativ 2 milioane de tone de minereu de crom.", "Capacitatea totală de producție de ferroaliaje este de 1,5 milioane de tone pe an."],
+      en: ["The plant was commissioned in 1954.", "Annual capacity exceeds 1 million tons of ferrochrome.", "It employs about 10,000 people.", "The plant also produces ferrosilicon and ferromanganese.", "It consumes about 2 million tons of chromite ore annually.", "Total ferroalloy production capacity is 1.5 million tons per year."],
+    },
+  },
   {
     id: "sokolov-sarbai-iron-ore-plant-economic-v2",
     type: "mine",
     parent: "KZ-KUS",
     coords: [63.1000, 52.9000],
-    name: { de: "Eisenerzanreicherungsanlage Sokolow-Sarbai", hu: "Szokolov-Szarbaj vasércdúsító üzem", ro: "Uzina de îmbogățire a minereului de fier Sokolov-Sarbai", en: "Sokolov-Sarbai Iron Ore Enrichment Plant",
-image: "/poi-images/sokolov-sarbai-iron-ore-plant-economic-v2.webp"
-},
+    name: { de: "Eisenerzanreicherungsanlage Sokolow-Sarbai", hu: "Szokolov-Szarbaj vasércdúsító üzem", ro: "Uzina de îmbogățire a minereului de fier Sokolov-Sarbai", en: "Sokolov-Sarbai Iron Ore Enrichment Plant"},
+    image: "/poi-images/sokolov-sarbai-iron-ore-plant-economic-v2.webp",
     description: { de: "Ein riesiger Industriekomplex in der Stadt Rudny, der eine zentrale Säule des kasachischen Eisenerzbergbaus und der Erzverarbeitung darstellt.", hu: "Egy hatalmas ipari komplexum Rudnij városában, amely a kazah vasércbányászat és ércfeldolgozás központi pillére.", ro: "Un uriaș complex industrial din orașul Rudny, care reprezintă un pilon central al mineritului și prelucrării minereului de fier din Kazahstan.", en: "A massive industrial complex in the city of Rudny, representing a central pillar of Kazakh iron ore mining and processing." },
     facts: {
       de: ["Das Unternehmen fördert das Erz aus mehreren riesigen Tagebauen.", "Die Anlage produziert Millionen Tonnen Eisenerzpellets und Konzentrate.", "Rudny wurde in den 1950er Jahren gezielt für dieses Werk gegründet."],
       hu: ["A vállalat több hatalmas külszíni bányából termeli ki az ércet.", "A létesítmény évente több millió tonna vasércpelletet és koncentrátumot állít elő.", "Rudnij várost az 1950-es években kifejezetten ehhez a gyárhoz alapították."],
       ro: ["Compania extrage minereul din mai multe mine uriașe de suprafață.", "Facilitatea produce milioane de tone de pelete și concentrate de minereu de fier.", "Rudny a fost fondat în anii 1950 special pentru această uzină."],
       en: ["The company extracts ore from several giant open-pit mines.", "The facility produces millions of tons of iron ore pellets and concentrates.", "Rudny was founded in the 1950s specifically for this plant."]
-    }, image: "/poi-images/sokolov-sarbai-iron-ore-plant-economic-v2.webp"},
+    }, image: "/poi-images/sokolov-sarbai-iron-ore-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sokolov-Sarbai Eisenerz-Aufbereitungsanlage (SSGPO) in Nordkasachstan ist einer der größten Eisenerzproduzenten der Region. Sie wurde 1958 gegründet und befindet sich in der Stadt Rudny. Die Anlage betreibt Tagebauminen und Aufbereitungsanlagen zur Produktion von Eisenerzkonzentrat und Pellets. Die jährliche Produktion beträgt über 20 Millionen Tonnen Eisenerzkonzentrat mit einem Eisengehalt von etwa 65 %. Das Unternehmen gehört zur Eurasian Resources Group und exportiert hauptsächlich nach China und Russland. Die Anlage beschäftigt rund 20.000 Mitarbeiter und ist von zentraler Bedeutung für die kasachische Bergbauindustrie.",
+      hu: "A Szokolov-Szarbaj vasérc-dúsító üzem (SSGPO) Észak-Kazahsztánban a régió egyik legnagyobb vasérctermelője. 1958-ban alapították, és Rudny városában található. Az üzem külszíni fejtésű bányákat és feldolgozó üzemeket üzemeltet, amelyek vasérckoncentrátumot és pelletet állítanak elő. Az éves termelés meghaladja a 20 millió tonna vasérckoncentrátumot, körülbelül 65%-os vastartalommal. A cég az Eurasian Resources Group része, és főként Kínába és Oroszországba exportál. Az üzem mintegy 20 000 embert foglalkoztat, és központi jelentőségű a kazah bányaiparban.",
+      ro: "Uzina de îmbogățire a minereului de fier Sokolov-Sarbai (SSGPO) din nordul Kazahstanului este unul dintre cei mai mari producători de minereu de fier din regiune. A fost fondată în 1958 și este situată în orașul Rudny. Uzina operează mine de suprafață și instalații de procesare pentru producerea de concentrat de minereu de fier și peleți. Producția anuală depășește 20 de milioane de tone de concentrat de minereu de fier, cu un conținut de fier de aproximativ 65%. Compania face parte din Eurasian Resources Group și exportă în principal în China și Rusia. Uzina angajează aproximativ 20.000 de persoane și are o importanță centrală pentru industria minieră din Kazahstan.",
+      en: "Sokolov-Sarbai Iron Ore Enrichment Plant (SSGPO) in northern Kazakhstan is one of the largest iron ore producers in the region. It was founded in 1958 and is located in the city of Rudny. The plant operates open-pit mines and processing facilities to produce iron ore concentrate and pellets. Annual production exceeds 20 million tons of iron ore concentrate with an iron content of about 65%. The company is part of Eurasian Resources Group and exports mainly to China and Russia. The plant employs about 20,000 people and is of central importance to the Kazakh mining industry.",
+    },
+    factsAdvanced: {
+      de: ["Die Anlage wurde 1958 gegründet.", "Die jährliche Produktion beträgt über 20 Millionen Tonnen Eisenerzkonzentrat.", "Der Eisengehalt im Konzentrat liegt bei etwa 65 %.", "Das Werk beschäftigt rund 20.000 Mitarbeiter.", "Die gesamte Abraummenge beträgt jährlich etwa 80 Millionen Tonnen.", "Das Werk produziert auch Pellets mit einem Eisengehalt von 63 %."],
+      hu: ["Az üzemet 1958-ban alapították.", "Az éves termelés meghaladja a 20 millió tonna vasérckoncentrátumot.", "A koncentrátum vastartalma körülbelül 65%.", "Az üzem mintegy 20 000 embert foglalkoztat.", "Az éves meddő mennyiség körülbelül 80 millió tonna.", "Az üzem 63% vastartalmú pelletet is gyárt."],
+      ro: ["Uzina a fost fondată în 1958.", "Producția anuală depășește 20 de milioane de tone de concentrat de minereu de fier.", "Conținutul de fier în concentrat este de aproximativ 65%.", "Uzina angajează aproximativ 20.000 de persoane.", "Cantitatea anuală de steril este de aproximativ 80 de milioane de tone.", "Uzina produce și peleți cu un conținut de fier de 63%."],
+      en: ["The plant was founded in 1958.", "Annual production exceeds 20 million tons of iron ore concentrate.", "Iron content in the concentrate is about 65%.", "The plant employs about 20,000 people.", "Annual overburden removal is about 80 million tons.", "The plant also produces pellets with 63% iron content."],
+    },
+  },
   {
     id: "inkai-uranium-mine-economic-v2",
     type: "mine",
     parent: "KZ-TÜR",
     coords: [68.6000, 44.5000],
-    name: { de: "Uranmine Inkai", hu: "Inkai uránbánya", ro: "Mina de uraniu Inkai", en: "Inkai Uranium Mine",
-image: "/poi-images/inkai-uranium-mine-economic-v2.webp"
-},
+    name: { de: "Uranmine Inkai", hu: "Inkai uránbánya", ro: "Mina de uraniu Inkai", en: "Inkai Uranium Mine"},
+    image: "/poi-images/inkai-uranium-mine-economic-v2.webp",
     description: { de: "Eine der fortschrittlichsten Uranbergbauanlagen der Welt im Süden Kasachstans, bei der umweltschonendere In-situ-Laugungstechniken eingesetzt werden.", hu: "A világ egyik legkorszerűbb uránbányászati létesítménye Dél-Kazahsztánban, ahol környezetbarátabb in-situ kilúgozási technikákat alkalmaznak.", ro: "Una dintre cele mai avansate instalații de exploatare a uraniului din lume, situată în sudul Kazahstanului, unde sunt utilizate tehnici de levigare in-situ mai ecologice.", en: "One of the most advanced uranium mining facilities globally, located in southern Kazakhstan, utilizing more environmentally friendly in-situ recovery techniques." },
     facts: {
       de: ["Kasachstan ist der weltweit größte Uranproduzent, und Inkai ist ein Schlüsselfaktor dafür.", "Wird als Joint Venture mit internationalen Partnern betrieben.", "Der Abbau hinterlässt keine offenen Gruben an der Oberfläche."],
       hu: ["Kazahsztán a világ legnagyobb urántermelője, és Inkai ennek kulcsfontosságú tényezője.", "Nemzetközi partnerekkel közös vállalatként működtetik.", "A bányászat nem hagy nyílt gödröket a felszínen."],
       ro: ["Kazahstanul este cel mai mare producător de uraniu din lume, iar Inkai este un factor cheie în acest sens.", "Este operată ca o societate mixtă cu parteneri internaționali.", "Exploatarea nu lasă gropi deschise la suprafață."],
       en: ["Kazakhstan is the largest uranium producer globally, and Inkai is a key contributor.", "Operated as a joint venture with international partners.", "The mining process leaves no open pits on the surface."]
-    }, image: "/poi-images/inkai-uranium-mine-economic-v2.webp"},
+    }, image: "/poi-images/inkai-uranium-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Inkai-Uranmine im Süden Kasachstans ist eine der größten Uranminen der Welt. Sie wird von einer Partnerschaft zwischen Kazatomprom und Cameco betrieben und nutzt die In-situ-Laugung (ISL) zur Gewinnung von Uran. Die Mine begann 2009 mit der Produktion und fördert jährlich über 5.000 Tonnen Uran (U3O8). Das Vorkommen hat geschätzte Reserven von über 100.000 Tonnen Uran. Das gewonnene Uran wird hauptsächlich für Kernkraftwerke exportiert. Die Mine ist bekannt für ihre niedrigen Produktionskosten und hohe Effizienz. Sie beschäftigt etwa 1.000 Mitarbeiter und trägt zur kasachischen Position als weltweit größter Uranproduzent bei.",
+      hu: "Az Inkai uránbánya Dél-Kazahsztánban a világ egyik legnagyobb uránbányája. A Kazatomprom és a Cameco partnerségében működik, és in-situ kilúgozási (ISL) technológiát használ az urán kinyerésére. A bánya 2009-ben kezdte meg a termelést, és évente több mint 5000 tonna uránt (U3O8) termel. A lelőhely becsült készlete meghaladja a 100 000 tonna uránt. A kitermelt uránt főként atomerőművekbe exportálják. A bánya alacsony termelési költségeiről és magas hatékonyságáról ismert. Mintegy 1000 embert foglalkoztat, és hozzájárul Kazahsztán világelső urántermelő pozíciójához.",
+      ro: "Mina de uraniu Inkai din sudul Kazahstanului este una dintre cele mai mari mine de uraniu din lume. Este operată în parteneriat între Kazatomprom și Cameco și utilizează tehnologia de lixiviare in situ (ISL) pentru extracția uraniului. Mina a început producția în 2009 și produce anual peste 5.000 de tone de uraniu (U3O8). Zăcământul are rezerve estimate de peste 100.000 de tone de uraniu. Uraniul extras este exportat în principal pentru centrale nucleare. Mina este cunoscută pentru costurile sale scăzute de producție și eficiența ridicată. Angajează aproximativ 1.000 de persoane și contribuie la poziția Kazahstanului ca cel mai mare producător de uraniu din lume.",
+      en: "Inkai Uranium Mine in southern Kazakhstan is one of the largest uranium mines in the world. It is operated by a partnership between Kazatomprom and Cameco, using in-situ leaching (ISL) technology for uranium extraction. The mine started production in 2009 and produces over 5,000 tons of uranium (U3O8) annually. The deposit has estimated reserves of over 100,000 tons of uranium. The extracted uranium is mainly exported for nuclear power plants. The mine is known for its low production costs and high efficiency. It employs about 1,000 people and contributes to Kazakhstan's position as the world's largest uranium producer.",
+    },
+    factsAdvanced: {
+      de: ["Die Mine produziert jährlich über 5.000 Tonnen Uran (U3O8).", "Die geschätzten Reserven betragen über 100.000 Tonnen Uran.", "Die Mine wurde 2009 in Betrieb genommen.", "Der durchschnittliche Urangehalt im Erz beträgt 0,02 %.", "Die Mine erstreckt sich über eine Fläche von 10 Quadratkilometern.", "Die Produktionskosten sind mit etwa 20 USD pro Pfund U3O8 niedrig."],
+      hu: ["A bánya évi több mint 5000 tonna uránt (U3O8) termel.", "A becsült készlet meghaladja a 100 000 tonna uránt.", "A bányát 2009-ben helyezték üzembe.", "Az átlagos urántartalom az ércben 0,02%.", "A bánya 10 négyzetkilométer területen fekszik.", "A termelési költségek alacsonyak, körülbelül 20 USD fontonként U3O8."],
+      ro: ["Mina produce anual peste 5.000 de tone de uraniu (U3O8).", "Rezervele estimate depășesc 100.000 de tone de uraniu.", "Mina a fost dată în funcțiune în 2009.", "Conținutul mediu de uraniu în minereu este de 0,02%.", "Mina se întinde pe o suprafață de 10 kilometri pătrați.", "Costurile de producție sunt scăzute, de aproximativ 20 USD per livră de U3O8."],
+      en: ["The mine produces over 5,000 tons of uranium (U3O8) annually.", "Estimated reserves exceed 100,000 tons of uranium.", "The mine was commissioned in 2009.", "The average uranium grade in the ore is 0.02%.", "The mine covers an area of 10 square kilometers.", "Production costs are low, at about $20 per pound of U3O8."],
+    },
+  },
   {
     id: "bozshakol-copper-mine-economic-v2",
     type: "mine",
     parent: "KZ-PAV",
     coords: [73.1000, 52.0000],
-    name: { de: "Kupfermine Boschtschakol", hu: "Bozsakol rézbánya", ro: "Mina de cupru Bozshakol", en: "Bozshakol Copper Mine",
-image: "/poi-images/bozshakol-copper-mine-economic-v2.webp"
-},
+    name: { de: "Kupfermine Boschtschakol", hu: "Bozsakol rézbánya", ro: "Mina de cupru Bozshakol", en: "Bozshakol Copper Mine"},
+    image: "/poi-images/bozshakol-copper-mine-economic-v2.webp",
     description: { de: "Ein hochmodernes Kupferbergwerkspropjekt im Tagebau, das zu den größten industriellen Entwicklungen Kasachstans im 21. Jahrhundert zählt.", hu: "Egy ultramodern külszíni rézbányászati projekt, amely a 21. századi Kazahsztán egyik legnagyobb ipari fejlesztése.", ro: "Un proiect ultramodern de mină de cupru la suprafață, care este una dintre cele mai mari dezvoltări industriale ale Kazahstanului din secolul 21.", en: "A state-of-the-art open-pit copper mining project, which is one of the largest industrial developments of the 21st century in Kazakhstan." },
     facts: {
       de: ["Das Erz wird in einem massiven, weitgehend automatisierten Konzentrator verarbeitet.", "Die Lebensdauer der Mine wird auf über 40 Jahre geschätzt.", "Nutzt fortschrittliche Wasserrecyclingtechnologien in einer trockenen Region."],
       hu: ["Az ércet egy hatalmas, nagyrészt automatizált koncentrátorban dolgozzák fel.", "A bánya élettartamát több mint 40 évre becsülik.", "Fejlett víz-újrahasznosítási technológiákat alkalmaz egy száraz régióban."],
       ro: ["Minereul este procesat într-un concentrator masiv, în mare parte automatizat.", "Durata de viață a minei este estimată la peste 40 de ani.", "Utilizează tehnologii avansate de reciclare a apei într-o regiune aridă."],
       en: ["The ore is processed in a massive, largely automated concentrator.", "The life of the mine is estimated to be over 40 years.", "Uses advanced water recycling technologies in an arid region."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kupferbergwerk Bozshakol in Nordkasachstan ist eine der größten neu entwickelten Kupferminen der Region. Es wurde 2015 in Betrieb genommen und wird von Kaz Minerals betrieben. Die Mine verfügt über eine geschätzte Lebensdauer von über 40 Jahren und produziert jährlich rund 100.000 Tonnen Kupfer in Konzentratform. Der Kupfergehalt des Erzes liegt bei durchschnittlich 0,36 %. Die Mine umfasst eine Aufbereitungsanlage, eine Haldenlaugung und eine Lösungsmittelextraktion/ Elektrolyse. Bozshakol hat sich zu einem wichtigen Arbeitgeber in der Region entwickelt und beschäftigt rund 3.000 Mitarbeiter. Die Investitionen beliefen sich auf über 2 Milliarden US-Dollar.",
+      hu: "A bozshakoli rézbánya Észak-Kazahsztánban a régió egyik legnagyobb újonnan fejlesztett rézbányája. 2015-ben helyezték üzembe, és a Kaz Minerals üzemelteti. A bánya becsült élettartama meghaladja a 40 évet, és évente körülbelül 100 000 tonna rézkoncentrátumot termel. Az érc átlagos réztartalma 0,36%. A bánya feldolgozóüzemet, meddőhányót és oldószeres extrakciót/elektrolízist foglal magában. A Bozshakol fontos munkaadóvá vált a régióban, mintegy 3000 embert foglalkoztat. A beruházások meghaladták a 2 milliárd amerikai dollárt.",
+      ro: "Mina de cupru Bozshakol din nordul Kazahstanului este una dintre cele mai mari mine de cupru nou dezvoltate din regiune. A fost dată în funcțiune în 2015 și este operată de Kaz Minerals. Mina are o durată de viață estimată de peste 40 de ani și produce anual aproximativ 100.000 de tone de concentrat de cupru. Conținutul mediu de cupru al minereului este de 0,36%. Mina include o instalație de procesare, o halda de steril și extracție cu solvent/electroliză. Bozshakol a devenit un angajator important în regiune, angajând aproximativ 3.000 de persoane. Investițiile s-au ridicat la peste 2 miliarde de dolari SUA.",
+      en: "Bozshakol Copper Mine in northern Kazakhstan is one of the largest newly developed copper mines in the region. It was commissioned in 2015 and is operated by Kaz Minerals. The mine has an estimated lifespan of over 40 years and produces about 100,000 tons of copper in concentrate annually. The average copper grade of the ore is 0.36%. The mine includes a processing plant, heap leaching, and solvent extraction/electrowinning. Bozshakol has become a major employer in the region, employing about 3,000 people. Investments amounted to over $2 billion.",
+    },
+    factsAdvanced: {
+      de: ["Die Mine wurde 2015 in Betrieb genommen.", "Die jährliche Produktion beträgt rund 100.000 Tonnen Kupferkonzentrat.", "Der durchschnittliche Kupfergehalt liegt bei 0,36 %.", "Die geschätzte Lebensdauer der Mine beträgt über 40 Jahre.", "Die Mine beschäftigt rund 3.000 Mitarbeiter.", "Die Investitionskosten beliefen sich auf über 2 Milliarden US-Dollar."],
+      hu: ["A bányát 2015-ben helyezték üzembe.", "Az éves termelés körülbelül 100 000 tonna rézkoncentrátum.", "Az átlagos réztartalom 0,36%.", "A bánya becsült élettartama meghaladja a 40 évet.", "A bánya mintegy 3000 embert foglalkoztat.", "A beruházási költségek meghaladták a 2 milliárd amerikai dollárt."],
+      ro: ["Mina a fost dată în funcțiune în 2015.", "Producția anuală este de aproximativ 100.000 de tone de concentrat de cupru.", "Conținutul mediu de cupru este de 0,36%.", "Durata de viață estimată a minei este de peste 40 de ani.", "Mina angajează aproximativ 3.000 de persoane.", "Costurile de investiție s-au ridicat la peste 2 miliarde de dolari SUA."],
+      en: ["The mine was commissioned in 2015.", "Annual production is about 100,000 tons of copper concentrate.", "Average copper grade is 0.36%.", "Estimated mine life is over 40 years.", "The mine employs about 3,000 people.", "Investment costs amounted to over $2 billion."],
+    },
   }
 ];

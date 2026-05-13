@@ -11,9 +11,8 @@ export const poiExtraChinaLifeV2: POI[] = [
       de: "Chengdu Forschungsbasis für Riesenpanda-Zucht",
       hu: "Csengtui Óriáspanda-tenyésztő Kutatóbázis",
       ro: "Baza de Cercetare a Creșterii Panda Uriaș din Chengdu",
-      en: "Chengdu Giant Panda Breeding Research Base",
-image: "/poi-images/chengdu-giant-panda-base-life-v2.webp"
-},
+      en: "Chengdu Giant Panda Breeding Research Base"},
+    image: "/poi-images/chengdu-giant-panda-base-life-v2.webp",
     description: {
       de: "Eine weltberühmte Einrichtung zur Erhaltung und Zucht von Riesenpandas und anderen seltenen Tieren.",
       hu: "Világhírű létesítmény az óriáspandák és más ritka állatok megőrzésére és tenyésztésére.",
@@ -48,9 +47,8 @@ image: "/poi-images/chengdu-giant-panda-base-life-v2.webp"
       de: "Yu-Garten",
       hu: "Jü-kert",
       ro: "Grădina Yu",
-      en: "Yu Garden",
-image: "/poi-images/yu-garden-shanghai-life-v2.webp"
-},
+      en: "Yu Garden"},
+    image: "/poi-images/yu-garden-shanghai-life-v2.webp",
     description: {
       de: "Ein weitläufiger chinesischer Garten neben dem Stadtgott-Tempel in Shanghai, der während der Ming-Dynastie angelegt wurde.",
       hu: "Egy kiterjedt kínai kert Sanghajban, a Városisten temploma mellett, amelyet a Ming-dinasztia idején hoztak létre.",
@@ -85,9 +83,8 @@ image: "/poi-images/yu-garden-shanghai-life-v2.webp"
       de: "Pekinger Zoo",
       hu: "Pekingi Állatkert",
       ro: "Grădina Zoologică din Beijing",
-      en: "Beijing Zoo",
-image: "/poi-images/beijing-zoo-life-v2.webp"
-},
+      en: "Beijing Zoo"},
+    image: "/poi-images/beijing-zoo-life-v2.webp",
     description: {
       de: "Ein großer Zoo und Aquarium im Zentrum von Peking mit einer vielfältigen Sammlung von Tieren, darunter viele einheimische Arten Chinas.",
       hu: "Nagy állatkert és akvárium Peking központjában, változatos állatgyűjteménnyel, köztük számos Kínában őshonos fajjal.",
@@ -122,9 +119,8 @@ image: "/poi-images/beijing-zoo-life-v2.webp"
       de: "Longjing-Teeplantagen",
       hu: "Lungcsing teaültetvények",
       ro: "Plantațiile de ceai Longjing",
-      en: "Longjing Tea Plantations",
-image: "/poi-images/longjing-tea-plantations-life-v2.webp"
-},
+      en: "Longjing Tea Plantations"},
+    image: "/poi-images/longjing-tea-plantations-life-v2.webp",
     description: {
       de: "Die terrassierten Hügel rund um den Westsee in Hangzhou sind berühmt für den Anbau von Longjing-Tee, einer der berühmtesten Grünteesorten Chinas.",
       hu: "A hangcsoui Nyugati-tó körüli teraszos domboldalak híresek a Lungcsing tea termesztéséről, amely Kína egyik leghíresebb zöld teája.",
@@ -159,9 +155,8 @@ image: "/poi-images/longjing-tea-plantations-life-v2.webp"
       de: "Zhalong-Naturreservat",
       hu: "Zhalong Természetvédelmi Terület",
       ro: "Rezervația Naturală Zhalong",
-      en: "Zhalong Nature Reserve",
-image: "/poi-images/zhalong-nature-reserve-life-v2.webp"
-},
+      en: "Zhalong Nature Reserve"},
+    image: "/poi-images/zhalong-nature-reserve-life-v2.webp",
     description: {
       de: "Ein großes Feuchtgebiet in der Provinz Heilongjiang, das ein wichtiger Lebensraum für Zugvögel ist, insbesondere für Kraniche.",
       hu: "Nagy kiterjedésű vizes élőhely Heilungcsiang tartományban, amely fontos élőhely a vándormadarak, különösen a darvak számára.",
@@ -196,9 +191,8 @@ image: "/poi-images/zhalong-nature-reserve-life-v2.webp"
       de: "Beihai-Park",
       hu: "Pejhaj Park",
       ro: "Parcul Beihai",
-      en: "Beihai Park",
-image: "/poi-images/beihai-park-beijing-life-v2.webp"
-},
+      en: "Beihai Park"},
+    image: "/poi-images/beihai-park-beijing-life-v2.webp",
     description: {
       de: "Einer der ältesten und am besten erhaltenen kaiserlichen Gärten Chinas, nordwestlich der Verbotenen Stadt gelegen.",
       hu: "Kína egyik legrégebbi és legjobban megőrzött császári kertje, a Tiltott Várostól északnyugatra.",
@@ -233,9 +227,8 @@ image: "/poi-images/beihai-park-beijing-life-v2.webp"
       de: "Shanghai Disneyland Park",
       hu: "Sanghaji Disneyland Park",
       ro: "Parcul Disneyland Shanghai",
-      en: "Shanghai Disneyland Park",
-image: "/poi-images/shanghai-disneyland-park-life-v2.webp"
-},
+      en: "Shanghai Disneyland Park"},
+    image: "/poi-images/shanghai-disneyland-park-life-v2.webp",
     description: {
       de: "Der erste Disney-Themenpark auf dem chinesischen Festland mit Attraktionen, die chinesische Kulturelemente integrieren.",
       hu: "Az első Disney-élménypark a kínai szárazföldön, olyan látványosságokkal, amelyek kínai kulturális elemeket is tartalmaznak.",
@@ -270,9 +263,8 @@ image: "/poi-images/shanghai-disneyland-park-life-v2.webp"
       de: "Reisterrassen von Yunnan",
       hu: "Jünnani rizsteraszok",
       ro: "Terasele de orez din Yunnan",
-      en: "Yunnan Rice Terraces",
-image: "/poi-images/yunnan-rice-terraces-life-v2.webp"
-},
+      en: "Yunnan Rice Terraces"},
+    image: "/poi-images/yunnan-rice-terraces-life-v2.webp",
     description: {
       de: "Spektakuläre, von Menschenhand geschaffene Terrassen, die vor über 1.300 Jahren von den Hani in die Hügel von Yunnan gehauen wurden.",
       hu: "Látványos, ember alkotta teraszok, amelyeket több mint 1300 évvel ezelőtt a hani nép vájt Jünnan dombjaiba.",
@@ -307,9 +299,8 @@ image: "/poi-images/yunnan-rice-terraces-life-v2.webp"
       de: "Wolong-Naturreservat",
       hu: "Volung Nemzeti Természetvédelmi Terület",
       ro: "Rezervația Naturală Națională Wolong",
-      en: "Wolong National Nature Reserve",
-image: "/poi-images/wolong-national-nature-reserve-life-v2.webp"
-},
+      en: "Wolong National Nature Reserve"},
+    image: "/poi-images/wolong-national-nature-reserve-life-v2.webp",
     description: {
       de: "Ein geschütztes Gebiet in der Provinz Sichuan, eines der wichtigsten Zentren für den Schutz von Riesenpandas.",
       hu: "Védett terület Szecsuán tartományban, az óriáspandák védelmének egyik legfontosabb központja.",
@@ -344,9 +335,8 @@ image: "/poi-images/wolong-national-nature-reserve-life-v2.webp"
       de: "Jingshan-Park",
       hu: "Jingshan Park",
       ro: "Parcul Jingshan",
-      en: "Jingshan Park",
-image: "/poi-images/jingshan-park-beijing-life-v2.webp"
-},
+      en: "Jingshan Park"},
+    image: "/poi-images/jingshan-park-beijing-life-v2.webp",
     description: {
       de: "Ein kaiserlicher Park nördlich der Verbotenen Stadt mit einem künstlichen Hügel, der einen Panoramablick auf Peking bietet.",
       hu: "Egy császári park a Tiltott Várostól északra, egy mesterséges dombbal, ahonnan panorámás kilátás nyílik Pekingre.",
@@ -381,9 +371,8 @@ image: "/poi-images/jingshan-park-beijing-life-v2.webp"
       de: "Chimelong Ocean Kingdom",
       hu: "Chimelong Óceán Királyság",
       ro: "Regatul Oceanului Chimelong",
-      en: "Chimelong Ocean Kingdom",
-image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp"
-},
+      en: "Chimelong Ocean Kingdom"},
+    image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp",
     description: {
       de: "Ein riesiger Themenpark und Aquarium in Hengqin, Zhuhai, der mehrere Weltrekorde hält.",
       hu: "Hatalmas vidámpark és akvárium Hengqinben, Zhuhai-ban, amely számos világrekordot tart.",
@@ -395,7 +384,20 @@ image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp"
       hu: ["A világ legnagyobb akváriumának rekordját tartja.", "Cetcápáknak, belugáknak és jegesmedvéknek ad otthont.", "Az állatbemutatókat vidámparki játékokkal és műsorokkal ötvözi."],
       ro: ["Deține recordul pentru cel mai mare acvariu din lume.", "Găzduiește rechini-balenă, balene beluga și urși polari.", "Combină expozițiile de animale cu atracții și spectacole."],
       en: ["Holds the record for the world's largest aquarium.", "Home to whale sharks, beluga whales, and polar bears.", "Combines animal exhibits with amusement rides and shows."]
-    }, image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp"},
+    }, image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Chimelong Ocean Kingdom in Zhuhai, China, ist der größte Aquarienkomplex der Welt. Eröffnet im Jahr 2014, umfasst es 8 Zonen mit insgesamt über 50.000 Meerestieren. Der Park beherbergt den größten Aquarientank mit 22,7 Millionen Litern Wasser. Zu den Attraktionen gehören Orcas, Belugas und Mantarochen. Die Anlage integriert Unterhaltung mit Bildung über Meeresschutz. Jährlich besuchen über 10 Millionen Gäste den Park. Die Baukosten betrugen rund 1,6 Milliarden US-Dollar. Das Ocean Kingdom ist Teil des Chimelong International Ocean Tourism Resorts.",
+      hu: "A Chimelong Ocean Kingdom Zhuhai-ban, Kínában a világ legnagyobb akváriumkomplexuma. 2014-ben nyitotta meg kapuit, 8 tematikus zónával, több mint 50 000 tengeri állattal. A parkban található a világ legnagyobb akváriumtankja 22,7 millió liter vízzel. Látványosságai közé tartoznak a kardszárnyú delfinek, belugák és ördögráják. A létesítmény a szórakoztatást a tengeri védelem oktatásával ötvözi. Évente több mint 10 millió látogató érkezik. Az építési költségek mintegy 1,6 milliárd USD-t tettek ki. Az Ocean Kingdom a Chimelong Nemzetközi Tengeri Idegenforgalmi Üdülőhely része.",
+      ro: "Chimelong Ocean Kingdom din Zhuhai, China, este cel mai mare complex de acvarii din lume. Deschis în 2014, cuprinde 8 zone și peste 50.000 de animale marine. Adăpostește cel mai mare acvariu, cu 22,7 milioane de litri de apă. Atracțiile includ orci, beluga și raze manta. Facilitatea combină divertismentul cu educația despre conservarea marină. Peste 10 milioane de vizitatori anual. Costul construcției a fost de aproximativ 1,6 miliarde USD. Ocean Kingdom face parte din Chimelong International Ocean Tourism Resort.",
+      en: "Chimelong Ocean Kingdom in Zhuhai, China, is the world's largest aquarium complex. Opened in 2014, it features 8 zones with over 50,000 marine animals. It houses the largest aquarium tank, holding 22.7 million liters of water. Attractions include orcas, belugas, and manta rays. The facility combines entertainment with education on marine conservation. Over 10 million visitors annually. Construction cost was about 1.6 billion USD. Ocean Kingdom is part of Chimelong International Ocean Tourism Resort.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 2014", "Gesamtwasservolumen: 22,7 Mio. Liter (größter Tank)", "Anzahl Tiere: über 50.000", "Jährliche Besucher: >10 Mio.", "Baukosten: 1,6 Mrd. USD", "Fläche: 1,3 Mio. m²"],
+      hu: ["Megnyitás: 2014", "Teljes vízmennyiség: 22,7 millió liter (legnagyobb tank)", "Állatok száma: több mint 50 000", "Éves látogatók: >10 millió", "Építési költség: 1,6 milliárd USD", "Terület: 1,3 millió m²"],
+      ro: ["Deschis: 2014", "Volum total de apă: 22,7 milioane litri (cel mai mare acvariu)", "Număr de animale: peste 50.000", "Vizitatori anuali: >10 milioane", "Cost construcție: 1,6 miliarde USD", "Suprafață: 1,3 milioane m²"],
+      en: ["Opened: 2014", "Total water volume: 22.7 million liters (largest tank)", "Number of animals: over 50,000", "Annual visitors: >10 million", "Construction cost: 1.6 billion USD", "Area: 1.3 million m²"],
+    },
+  },
   {
     id: "shouguang-vegetable-farms-life-v2",
     type: "agriculture",
@@ -405,9 +407,8 @@ image: "/poi-images/chimelong-ocean-kingdom-life-v2.webp"
       de: "Gemüsefarmen von Shouguang",
       hu: "Shouguangi zöldségfarmok",
       ro: "Fermele de legume din Shouguang",
-      en: "Shouguang Vegetable Farms",
-image: "/poi-images/shouguang-vegetable-farms-life-v2.webp"
-},
+      en: "Shouguang Vegetable Farms"},
+    image: "/poi-images/shouguang-vegetable-farms-life-v2.webp",
     description: {
       de: "Bekannt als Chinas 'Hauptstadt des Gemüses', ist Shouguang ein riesiges Zentrum für den Anbau, Handel und die Technologie von Gemüse.",
       hu: "Kína 'zöldségfővárosaként' ismert Shouguang a zöldségtermesztés, -kereskedelem és -technológia hatalmas központja.",
@@ -419,7 +420,20 @@ image: "/poi-images/shouguang-vegetable-farms-life-v2.webp"
       hu: ["Évente nemzetközi zöldségtudományi és -technológiai vásárt rendez.", "Úttörő szerepet játszott az üvegházhatású technológiák fejlesztésében Kínában.", "Észak-Kína zöldségellátásának jelentős részét biztosítja."],
       ro: ["Găzduiește anual o Expoziție Internațională de Știință și Tehnologie a Legumelor.", "A fost un pionier în dezvoltarea tehnologiilor de seră în China.", "Furnizează o parte semnificativă din legumele pentru nordul Chinei."],
       en: ["Hosts an annual International Vegetable Sci-Tech Fair.", "Pioneered greenhouse technology development in China.", "Supplies a significant portion of vegetables for northern China."]
-    }, image: "/poi-images/shouguang-vegetable-farms-life-v2.webp"},
+    }, image: "/poi-images/shouguang-vegetable-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Shouguang Vegetable Farms in der chinesischen Provinz Shandong sind ein führendes Zentrum für Gemüseproduktion und -technologie. Die Region umfasst über 40.000 Hektar Gewächshäuser, die jährlich Millionen Tonnen Gemüse liefern. Shouguang ist bekannt für seine Innovationen in der Landwirtschaft, wie intelligente Gewächshäuser und Hydrokultur. Der Internationale Gemüsemarkt von Shouguang ist einer der größten in China. Die Farmen beschäftigen über 500.000 Menschen. Die Produktion umfasst Gurken, Tomaten und Paprika. Das Gebiet empfängt jährlich über 2 Millionen Touristen, die an Agrotourismus interessiert sind.",
+      hu: "A Shouguang Vegetable Farms Kína Shandong tartományában a zöldségtermesztés és -technológia vezető központja. A régió több mint 40 000 hektárnyi üvegházat foglal magában, amelyek évente több millió tonna zöldséget termelnek. Shouguang híres mezőgazdasági innovációiról, mint az intelligens üvegházak és a hidropónia. A Shouguang Nemzetközi Zöldségpiac Kína egyik legnagyobbja. A farmok több mint 500 000 embert foglalkoztatnak. A termelés uborkát, paradicsomot és paprikát foglal magában. A terület évente több mint 2 millió turistát vonz, akiket az agroturizmus érdekel.",
+      ro: "Shouguang Vegetable Farms din provincia chineză Shandong este un centru de frunte pentru producția și tehnologia legumicolă. Regiunea cuprinde peste 40.000 de hectare de sere, producând anual milioane de tone de legume. Shouguang este cunoscut pentru inovații agricole, cum ar fi sere inteligente și hidroponie. Piața Internațională de Legume Shouguang este una dintre cele mai mari din China. Fermele angajează peste 500.000 de persoane. Producția include castraveți, roșii și ardei. Zona atrage peste 2 milioane de turiști anual interesați de agroturism.",
+      en: "Shouguang Vegetable Farms in Shandong province, China, is a leading center for vegetable production and technology. The region includes over 40,000 hectares of greenhouses, producing millions of tons of vegetables annually. Shouguang is known for agricultural innovations like smart greenhouses and hydroponics. The Shouguang International Vegetable Market is one of the largest in China. Farms employ over 500,000 people. Production includes cucumbers, tomatoes, and peppers. The area attracts over 2 million tourists annually interested in agritourism.",
+    },
+    factsAdvanced: {
+      de: ["Gewächshausfläche: 40.000 ha", "Jährliche Gemüseproduktion: Millionen Tonnen", "Beschäftigte: >500.000", "Jährliche Touristen: >2 Mio.", "Größe des Internationalen Gemüsemarkts: 200 ha", "Hauptprodukte: Gurken, Tomaten, Paprika"],
+      hu: ["Üvegházterület: 40 000 ha", "Éves zöldségtermelés: több millió tonna", "Foglalkoztatottak: >500 000", "Éves turisták: >2 millió", "Nemzetközi Zöldségpiac területe: 200 ha", "Fő termékek: uborka, paradicsom, paprika"],
+      ro: ["Suprafață sere: 40.000 ha", "Producție anuală de legume: milioane de tone", "Angajați: peste 500.000", "Turism anual: peste 2 milioane", "Suprafața Pieței Internaționale de Legume: 200 ha", "Produse principale: castraveți, roșii, ardei"],
+      en: ["Greenhouse area: 40,000 ha", "Annual vegetable production: millions of tons", "Employees: >500,000", "Annual tourists: >2 million", "International Vegetable Market area: 200 ha", "Main products: cucumbers, tomatoes, peppers"],
+    },
+  },
   {
     id: "foping-national-nature-reserve-life-v2",
     type: "wildlife-area",
@@ -429,9 +443,8 @@ image: "/poi-images/shouguang-vegetable-farms-life-v2.webp"
       de: "Foping-Naturreservat",
       hu: "Foping Nemzeti Természetvédelmi Terület",
       ro: "Rezervația Naturală Națională Foping",
-      en: "Foping National Nature Reserve",
-image: "/poi-images/foping-national-nature-reserve-life-v2.webp"
-},
+      en: "Foping National Nature Reserve"},
+    image: "/poi-images/foping-national-nature-reserve-life-v2.webp",
     description: {
       de: "Ein Reservat in den Qinling-Bergen, das für die hohe Dichte an wilden Riesenpandas bekannt ist.",
       hu: "Egy rezervátum a Csinling-hegységben, amely a vadon élő óriáspandák nagy sűrűségéről ismert.",
@@ -443,7 +456,20 @@ image: "/poi-images/foping-national-nature-reserve-life-v2.webp"
       hu: ["Az egyik legjobb lehetőséget kínálja az óriáspandák vadonban történő megfigyelésére.", "A szubtrópusi és a mérsékelt éghajlati öv átmeneti zónájában fekszik.", "Fontos folyosó a pandák genetikai sokfélesége szempontjából."],
       ro: ["Oferă una dintre cele mai bune oportunități de a vedea panda uriași în sălbăticie.", "Situată în zona de tranziție între climatele subtropicale și temperate.", "Un coridor important pentru diversitatea genetică a panda."],
       en: ["Offers one of the best chances to see giant pandas in the wild.", "Located in the transition zone between subtropical and temperate climates.", "An important corridor for panda genetic diversity."]
-    }, image: "/poi-images/foping-national-nature-reserve-life-v2.webp"},
+    }, image: "/poi-images/foping-national-nature-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Foping National Nature Reserve in der chinesischen Provinz Shaanxi ist ein bedeutendes Schutzgebiet für den Großen Panda. Es wurde 1978 gegründet und erstreckt sich über 292 km². Das Reservat liegt in den Qinling-Bergen und beherbergt etwa 30 wilde Pandas. Die Vegetation besteht aus Bambuswäldern und Nadelwäldern. Neben Pandas leben hier auch Goldstumpfnasen und Takine. Das Reservat ist für die Forschung zugänglich. Der jährliche Niederschlag beträgt etwa 1.000 mm. Die Durchschnittstemperatur liegt bei 10°C. Besucher müssen eine Genehmigung einholen.",
+      hu: "A Foping Nemzeti Természetvédelmi Terület a kínai Shaanxi tartományban az óriáspanda fontos menedékhelye. 1978-ban alapították, területe 292 km². A Qinling-hegységben található, és mintegy 30 vadon élő pandának ad otthont. Növényzete bambuszerdők és tűlevelű erdők. A pandákon kívül aranyorrú majmok és takinok élnek itt. A rezervátum kutatási célokra elérhető. Az éves csapadék kb. 1000 mm. Az átlaghőmérséklet 10°C. A látogatóknak engedélyt kell kérniük.",
+      ro: "Rezervația Naturală Națională Foping din provincia Shaanxi, China, este un sanctuar important pentru panda gigantic. Înființată în 1978, se întinde pe 292 km². Situată în Munții Qinling, adăpostește aproximativ 30 de panda sălbatici. Vegetația constă în păduri de bambus și conifere. Pe lângă panda, aici trăiesc maimuțe cu nasul auriu și takini. Rezervația este accesibilă pentru cercetare. Precipitațiile anuale sunt de aproximativ 1.000 mm. Temperatura medie este de 10°C. Vizitatorii trebuie să obțină un permis.",
+      en: "Foping National Nature Reserve in Shaanxi province, China, is a key sanctuary for the giant panda. Established in 1978, it covers 292 km². Located in the Qinling Mountains, it hosts about 30 wild pandas. Vegetation includes bamboo and coniferous forests. Besides pandas, golden snub-nosed monkeys and takins live here. The reserve is accessible for research. Annual rainfall is about 1,000 mm. Average temperature is 10°C. Visitors must obtain a permit.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1978", "Fläche: 292 km²", "Pandapopulation: ca. 30 wilde Pandas", "Höhenlage: 1.000–2.900 m", "Jährlicher Niederschlag: 1.000 mm", "Durchschnittstemperatur: 10°C"],
+      hu: ["Alapítás: 1978", "Terület: 292 km²", "Panda populáció: kb. 30 vadon élő panda", "Tengerszint feletti magasság: 1000–2900 m", "Éves csapadék: 1000 mm", "Átlaghőmérséklet: 10°C"],
+      ro: ["Fondată: 1978", "Suprafață: 292 km²", "Populația de panda: circa 30 panda sălbatici", "Altitudine: 1.000–2.900 m", "Precipitații anuale: 1.000 mm", "Temperatură medie: 10°C"],
+      en: ["Established: 1978", "Area: 292 km²", "Panda population: about 30 wild pandas", "Elevation: 1,000–2,900 m", "Annual rainfall: 1,000 mm", "Average temperature: 10°C"],
+    },
+  },
   {
     id: "shenzhen-fairy-lake-botanical-garden-life-v2",
     type: "park",
@@ -453,9 +479,8 @@ image: "/poi-images/foping-national-nature-reserve-life-v2.webp"
       de: "Botanischer Garten Shenzhen Fairy Lake",
       hu: "Sencseni Tündér-tó Botanikus Kert",
       ro: "Grădina Botanică Lacul Zânelor din Shenzhen",
-      en: "Shenzhen Fairy Lake Botanical Garden",
-image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp"
-},
+      en: "Shenzhen Fairy Lake Botanical Garden"},
+    image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp",
     description: {
       de: "Ein multifunktionaler botanischer Garten in Shenzhen, der Forschung, Bildung und Tourismus integriert.",
       hu: "Egy multifunkcionális botanikus kert Sencsenben, amely integrálja a kutatást, az oktatást és a turizmust.",
@@ -467,7 +492,20 @@ image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp"
       hu: ["Több mint 8000 növényfajnak ad otthont.", "A Hongfa-templom, egy jelentős buddhista templom, a kertben található.", "Van egy megkövesedett erdője, ahol a világ minden tájáról származó megkövesedett fák láthatók."],
       ro: ["Găzduiește peste 8.000 de specii de plante.", "Templul Hongfa, un templu budist proeminent, este situat în interior.", "Are o Pădure Pietrificată cu lemn pietrificat din întreaga lume."],
       en: ["Home to over 8,000 plant species.", "The Hongfa Temple, a prominent Buddhist temple, is located inside.", "Has a Petrified Forest with petrified wood from around the world."]
-    }, image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp"},
+    }, image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Shenzhen Fairy Lake Botanical Garden in der chinesischen Stadt Shenzhen erstreckt sich über 588 Hektar und wurde 1983 gegründet. Er beherbergt über 12.000 Pflanzenarten, darunter seltene tropische Arten. Der Garten ist in thematische Gärten unterteilt, wie den Bambusgarten und den Heilpflanzengarten. Zu den Besonderheiten zählen ein Sumpfgebiet und ein See. Der Garten dient der Forschung und Bildung. Jährlich besuchen über 3 Millionen Menschen den Garten. Er liegt am Wutong-Berg, dem höchsten Punkt Shenzhens mit 943 m. Die durchschnittliche Jahrestemperatur beträgt 22°C.",
+      hu: "A Shenzhen Fairy Lake Botanikus Kert Kína Shenzhen városában 588 hektáron terül el, 1983-ban alapították. Több mint 12 000 növényfajnak ad otthont, köztük ritka trópusi fajoknak. A kert tematikus kertekre oszlik, mint a bambuszkert és a gyógynövénykert. Különlegességei közé tartozik egy mocsaras terület és egy tó. A kert kutatási és oktatási célokat szolgál. Évente több mint 3 millió látogató érkezik. A Wutong-hegy lábánál fekszik, amely Shenzhen legmagasabb pontja (943 m). Az éves átlaghőmérséklet 22°C.",
+      ro: "Grădina Botanică Shenzhen Fairy Lake din orașul Shenzhen, China, se întinde pe 588 de hectare și a fost fondată în 1983. Adăpostește peste 12.000 de specii de plante, inclusiv specii tropicale rare. Grădina este împărțită în grădini tematice, cum ar fi grădina de bambus și grădina de plante medicinale. Printre atracții se numără o zonă umedă și un lac. Grădina servește cercetării și educației. Peste 3 milioane de vizitatori anual. Este situată la poalele Muntelui Wutong, cel mai înalt punct din Shenzhen (943 m). Temperatura medie anuală este de 22°C.",
+      en: "Shenzhen Fairy Lake Botanical Garden in Shenzhen, China, covers 588 hectares and was founded in 1983. It hosts over 12,000 plant species, including rare tropical ones. The garden is divided into thematic gardens such as bamboo garden and medicinal plant garden. Highlights include a wetland area and a lake. It serves research and education. Over 3 million visitors annually. It is located at the foot of Wutong Mountain, Shenzhen's highest point at 943 m. Average annual temperature is 22°C.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1983", "Fläche: 588 ha", "Pflanzenarten: >12.000", "Jährliche Besucher: >3 Mio.", "Höchster Punkt am Wutong-Berg: 943 m", "Durchschnittstemperatur: 22°C"],
+      hu: ["Alapítás: 1983", "Terület: 588 ha", "Növényfajok: >12 000", "Éves látogatók: >3 millió", "Legmagasabb pont a Wutong-hegyen: 943 m", "Átlaghőmérséklet: 22°C"],
+      ro: ["Fondată: 1983", "Suprafață: 588 ha", "Specii de plante: peste 12.000", "Vizitatori anuali: peste 3 milioane", "Cel mai înalt punct la Muntele Wutong: 943 m", "Temperatură medie: 22°C"],
+      en: ["Founded: 1983", "Area: 588 ha", "Plant species: >12,000", "Annual visitors: >3 million", "Highest point at Wutong Mountain: 943 m", "Average temperature: 22°C"],
+    },
+  },
   {
     id: "happy-valley-beijing-life-v2",
     type: "kid-friendly",
@@ -477,9 +515,8 @@ image: "/poi-images/shenzhen-fairy-lake-botanical-garden-life-v2.webp"
       de: "Happy Valley Peking",
       hu: "Happy Valley Peking",
       ro: "Happy Valley Beijing",
-      en: "Happy Valley Beijing",
-image: "/poi-images/happy-valley-beijing-life-v2.webp"
-},
+      en: "Happy Valley Beijing"},
+    image: "/poi-images/happy-valley-beijing-life-v2.webp",
     description: {
       de: "Ein großer Themenpark in Peking mit sechs thematischen Bereichen und zahlreichen Achterbahnen und Fahrgeschäften.",
       hu: "Egy nagy vidámpark Pekingben, hat tematikus területtel és számos hullámvasúttal és attrakcióval.",
@@ -491,7 +528,20 @@ image: "/poi-images/happy-valley-beijing-life-v2.webp"
       hu: ["Egy a több Happy Valley park közül Kínában.", "Változatos szórakozási lehetőségeket kínál minden korosztály számára.", "Népszerű célpont családok és fiatalok számára."],
       ro: ["Unul dintre mai multe parcuri Happy Valley din China.", "Oferă o varietate de divertisment pentru toate vârstele.", "O destinație populară pentru familii și tineri."],
       en: ["One of several Happy Valley parks in China.", "Offers a variety of entertainment for all ages.", "A popular destination for families and young people."]
-    }, image: "/poi-images/happy-valley-beijing-life-v2.webp"},
+    }, image: "/poi-images/happy-valley-beijing-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Happy Valley Beijing ist ein großer Vergnügungspark im Bezirk Chaoyang, Peking, eröffnet im Jahr 2006. Der Park umfasst 60 Hektar und ist in sieben Themenbereiche unterteilt, darunter die griechische und die ägyptische Zone. Er verfügt über Achterbahnen wie den Crystal Wing und den Flying Over the Seine. Der Park zieht jährlich über 3 Millionen Besucher an. Happy Valley gehört zur OCT-Gruppe. Die Eintrittspreise liegen zwischen 200 und 300 CNY. Der Park bietet auch saisonale Veranstaltungen wie das Halloween-Festival.",
+      hu: "A Happy Valley Beijing egy nagy vidámpark Peking Chaoyang kerületében, 2006-ban nyitották meg. A park 60 hektáron terül el, és hét tematikus részre oszlik, mint a görög és az egyiptomi zóna. A parkban találhatók hullámvasutak, mint a Crystal Wing és a Flying Over the Seine. A park évente több mint 3 millió látogatót vonz. A Happy Valley az OCT csoporthoz tartozik. A belépőjegyek ára 200-300 CNY között van. A park évszakos rendezvényeket is kínál, mint a Halloween fesztivál.",
+      ro: "Happy Valley Beijing este un parc de distracții mare în districtul Chaoyang, Beijing, deschis în 2006. Parcul se întinde pe 60 de hectare și este împărțit în șapte zone tematice, inclusiv zona greacă și cea egipteană. Dispune de montagne russe precum Crystal Wing și Flying Over the Seine. Parcul atrage peste 3 milioane de vizitatori anual. Happy Valley face parte din grupul OCT. Prețurile biletelor sunt între 200 și 300 CNY. Parcul oferă și evenimente sezoniere, cum ar fi festivalul de Halloween.",
+      en: "Happy Valley Beijing is a large amusement park in Chaoyang District, Beijing, opened in 2006. The park covers 60 hectares and is divided into seven themed areas, including Greek and Egyptian zones. It features roller coasters like Crystal Wing and Flying Over the Seine. The park attracts over 3 million visitors annually. Happy Valley is owned by OCT Group. Ticket prices range from 200 to 300 CNY. The park also offers seasonal events such as the Halloween festival.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 2006", "Fläche: 60 ha", "Themenbereiche: 7", "Jährliche Besucher: >3 Mio.", "Eintritt: 200–300 CNY", "Bekannte Achterbahn: Crystal Wing (Höhe 60 m)"],
+      hu: ["Nyitás: 2006", "Terület: 60 ha", "Tematikus zónák: 7", "Éves látogatók: >3 millió", "Belépő: 200–300 CNY", "Ismert hullámvasút: Crystal Wing (magasság 60 m)"],
+      ro: ["Deschis: 2006", "Suprafață: 60 ha", "Zone tematice: 7", "Vizitatori anuali: peste 3 milioane", "Preț bilet: 200–300 CNY", "Montagne russe cunoscut: Crystal Wing (înălțime 60 m)"],
+      en: ["Opened: 2006", "Area: 60 ha", "Themed areas: 7", "Annual visitors: >3 million", "Ticket price: 200–300 CNY", "Famous roller coaster: Crystal Wing (height 60 m)"],
+    },
+  },
   {
     id: "xinjiang-cotton-fields-life-v2",
     type: "agriculture",
@@ -501,9 +551,8 @@ image: "/poi-images/happy-valley-beijing-life-v2.webp"
       de: "Baumwollfelder von Xinjiang",
       hu: "Hszincsiangi gyapotföldek",
       ro: "Câmpurile de bumbac din Xinjiang",
-      en: "Xinjiang Cotton Fields",
-image: "/poi-images/xinjiang-cotton-fields-life-v2.webp"
-},
+      en: "Xinjiang Cotton Fields"},
+    image: "/poi-images/xinjiang-cotton-fields-life-v2.webp",
     description: {
       de: "Xinjiang ist die größte baumwollproduzierende Region Chinas und macht einen erheblichen Teil der weltweiten Produktion aus.",
       hu: "Hszincsiang Kína legnagyobb gyapottermelő régiója, és a világ termelésének jelentős részét adja.",
@@ -515,7 +564,19 @@ image: "/poi-images/xinjiang-cotton-fields-life-v2.webp"
       hu: ["Kiváló minőségű, hosszú szálú gyapotot termel.", "A termesztésnek kedvez a bőséges napfény és a nagy hőmérséklet-különbség.", "A betakarítás egyre inkább gépesített."],
       ro: ["Produce bumbac cu fibră lungă de înaltă calitate.", "Cultivarea beneficiază de soare abundent și diferențe mari de temperatură.", "Recoltarea este din ce în ce mai mecanizată."],
       en: ["Produces high-quality, long-staple cotton.", "Cultivation benefits from abundant sunshine and large temperature differences.", "Harvesting is increasingly mechanized."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Baumwollfelder in Xinjiang, China, sind eine der größten Baumwollanbauregionen der Welt. Die Anbaufläche umfasst über 2,5 Millionen Hektar, hauptsächlich in der Taklamakan-Wüstenregion. Die Produktion beträgt jährlich etwa 5 Millionen Tonnen, was etwa 85% der chinesischen Baumwollproduktion ausmacht. Die Felder werden durch Bewässerung aus dem Tarim-Becken versorgt. Der Anbau ist stark mechanisiert, aber auch umstritten wegen Arbeitsbedingungen. Die Erntezeit ist von September bis Oktober. Die Sorte ist meist gentechnisch veränderte Bt-Baumwolle.",
+      hu: "A Hszincsiangban található gyapotföldek Kína egyik legnagyobb gyapottermesztő régiója. A termőterület meghaladja a 2,5 millió hektárt, főként a Taklamakan-sivatag vidékén. A termelés évente mintegy 5 millió tonna, ami Kína gyapottermelésének mintegy 85%-át teszi ki. A földek öntözését a Tarim-medence vízkészlete biztosítja. A termesztés erősen gépesített, de a munkakörülmények miatt vitatott is. A betakarítási időszak szeptembertől októberig tart. A fajta többnyire genetikailag módosított Bt-gyapot.",
+      ro: "Câmpurile de bumbac din Xinjiang, China, sunt una dintre cele mai mari regiuni de cultivare a bumbacului din lume. Suprafața cultivată depășește 2,5 milioane de hectare, în principal în regiunea deșertului Taklamakan. Producția anuală este de aproximativ 5 milioane de tone, reprezentând circa 85% din producția de bumbac a Chinei. Câmpurile sunt irigate din bazinul Tarim. Cultivarea este puternic mecanizată, dar controversată din cauza condițiilor de muncă. Recoltarea are loc din septembrie până în octombrie. Soiul este în mare parte bumbac Bt modificat genetic.",
+      en: "Xinjiang cotton fields in China are one of the largest cotton-growing regions in the world. The planted area exceeds 2.5 million hectares, mainly in the Taklamakan Desert region. Annual production is about 5 million tons, accounting for about 85% of China's cotton output. Fields are irrigated from the Tarim Basin. Cultivation is highly mechanized but controversial due to labor conditions. Harvest season is from September to October. The variety is mostly genetically modified Bt cotton.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: >2,5 Mio. ha", "Jahresproduktion: ca. 5 Mio. t", "Anteil an chinesischer Produktion: 85%", "Bewässerung: Tarim-Becken", "Erntezeit: September–Oktober", "Hauptsorte: Bt-Baumwolle (gentechnisch verändert)"],
+      hu: ["Termőterület: >2,5 millió ha", "Éves termelés: kb. 5 millió t", "Kína termelésének aránya: 85%", "Öntözés: Tarim-medence", "Betakarítás: szeptember–október", "Fő fajta: Bt-gyapot (genetikailag módosított)"],
+      ro: ["Suprafață cultivată: peste 2,5 milioane ha", "Producție anuală: circa 5 milioane t", "Procent din producția Chinei: 85%", "Irigare: bazinul Tarim", "Recoltare: septembrie–octombrie", "Soi principal: bumbac Bt (modificat genetic)"],
+      en: ["Planted area: >2.5 million ha", "Annual production: about 5 million t", "Share of Chinese production: 85%", "Irrigation: Tarim Basin", "Harvest: September–October", "Main variety: Bt cotton (genetically modified)"],
+    },
   },
   {
     id: "changbai-mountain-wildlife-life-v2",
@@ -526,9 +587,8 @@ image: "/poi-images/xinjiang-cotton-fields-life-v2.webp"
       de: "Wildtiere im Changbai-Gebirge",
       hu: "Csangpaj-hegység vadvilága",
       ro: "Fauna sălbatică din Munții Changbai",
-      en: "Changbai Mountains Wildlife",
-image: "/poi-images/changbai-mountain-wildlife-life-v2.webp"
-},
+      en: "Changbai Mountains Wildlife"},
+    image: "/poi-images/changbai-mountain-wildlife-life-v2.webp",
     description: {
       de: "Ein Gebirgszug an der Grenze zu Nordkorea, der ein wichtiger Lebensraum für eine vielfältige Tierwelt ist, darunter Amur-Tiger und Braunbären.",
       hu: "Hegylánc az Észak-Koreával közös határon, amely fontos élőhely a változatos vadvilág, köztük az amuri tigrisek és a barnamedvék számára.",
@@ -540,7 +600,20 @@ image: "/poi-images/changbai-mountain-wildlife-life-v2.webp"
       hu: ["A Csangpaj-hegység Természetvédelmi Terület UNESCO Bioszféra-rezervátum.", "A csúcson található a Mennyei-tó, egy nagy krátertó.", "Az erdők gazdagok ginzengben és más gyógynövényekben."],
       ro: ["Rezervația Naturală a Munților Changbai este o Rezervație a Biosferei UNESCO.", "Lacul Ceresc, un lac mare de crater, este situat la vârf.", "Pădurile sunt bogate în ginseng și alte plante medicinale."],
       en: ["The Changbai Mountain Nature Reserve is a UNESCO Biosphere Reserve.", "Heaven Lake, a large crater lake, is located at the summit.", "The forests are rich in ginseng and other medicinal plants."]
-    }, image: "/poi-images/changbai-mountain-wildlife-life-v2.webp"},
+    }, image: "/poi-images/changbai-mountain-wildlife-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Changbai-Berge an der Grenze zwischen China und Nordkorea sind ein bedeutendes Wildtierreservat. Der höchste Gipfel ist der Baekdu-Berg mit 2.744 m. Die Region umfasst den Tianchi-See, einen Kratersee auf 2.189 m Höhe. Die Tierwelt umfasst Sibirische Tiger, Amur-Leoparden und Braunbären. Der Nationalpark wurde 1960 gegründet und erstreckt sich über 2.000 km². Die Vegetation reicht von Nadelwäldern bis zur alpinen Tundra. Die jährliche Niederschlagsmenge beträgt 1.400 mm. Die Durchschnittstemperatur im Januar beträgt -18°C. Touristen können den Park auf ausgewiesenen Wegen erkunden.",
+      hu: "A Changbai-hegység a kínai-észak-koreai határon fontos vadrezervátum. A legmagasabb csúcs a Baekdu-hegy 2744 méterrel. A régióban található a Tianchi-tó, egy krátertó 2189 m magasan. Az állatvilágban szibériai tigrisek, amuri leopárdok és barna medvék élnek. A nemzeti parkot 1960-ban alapították, területe 2000 km². A növényzet a tűlevelű erdőktől az alpesi tundráig terjed. Az éves csapadék 1400 mm. Az átlaghőmérséklet januárban -18°C. A turisták kijelölt ösvényeken járhatják be a parkot.",
+      ro: "Munții Changbai, la granița dintre China și Coreea de Nord, sunt o importantă rezervație de animale sălbatice. Cel mai înalt vârf este Muntele Baekdu, cu 2.744 m. Regiunea include Lacul Tianchi, un lac de crater la 2.189 m altitudine. Fauna include tigri siberieni, leoparzi amur și urși bruni. Parcul național a fost fondat în 1960 și se întinde pe 2.000 km². Vegetația variază de la păduri de conifere la tundră alpină. Precipitațiile anuale sunt de 1.400 mm. Temperatura medie în ianuarie este de -18°C. Turiștii pot explora parcul pe trasee marcate.",
+      en: "Changbai Mountains on the China-North Korea border are a significant wildlife reserve. The highest peak is Baekdu Mountain at 2,744 m. The region includes Tianchi Lake, a crater lake at 2,189 m. Wildlife includes Siberian tigers, Amur leopards, and brown bears. The national park was established in 1960 and covers 2,000 km². Vegetation ranges from coniferous forests to alpine tundra. Annual rainfall is 1,400 mm. Average January temperature is -18°C. Tourists can explore the park on designated trails.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Baekdu-Berg (2.744 m)", "Tianchi-See: 2.189 m ü. NN", "Nationalpark gegründet: 1960", "Fläche: 2.000 km²", "Jährlicher Niederschlag: 1.400 mm", "Januar-Durchschnittstemperatur: -18°C"],
+      hu: ["Legmagasabb csúcs: Baekdu-hegy (2744 m)", "Tianchi-tó: 2189 m tengerszint felett", "Nemzeti park alapítva: 1960", "Terület: 2000 km²", "Éves csapadék: 1400 mm", "Januári átlaghőmérséklet: -18°C"],
+      ro: ["Cel mai înalt vârf: Muntele Baekdu (2.744 m)", "Lacul Tianchi: 2.189 m deasupra nivelului mării", "Parcul național fondat: 1960", "Suprafață: 2.000 km²", "Precipitații anuale: 1.400 mm", "Temperatura medie în ianuarie: -18°C"],
+      en: ["Highest peak: Baekdu Mountain (2,744 m)", "Tianchi Lake: 2,189 m above sea level", "National park established: 1960", "Area: 2,000 km²", "Annual rainfall: 1,400 mm", "Average January temperature: -18°C"],
+    },
+  },
   {
     id: "slender-west-lake-park-life-v2",
     type: "park",
@@ -550,9 +623,8 @@ image: "/poi-images/changbai-mountain-wildlife-life-v2.webp"
       de: "Schlanker Westsee Park",
       hu: "Karcsú Nyugati-tó Park",
       ro: "Parcul Lacul de Vest Subțire",
-      en: "Slender West Lake Park",
-image: "/poi-images/slender-west-lake-park-life-v2.webp"
-},
+      en: "Slender West Lake Park"},
+    image: "/poi-images/slender-west-lake-park-life-v2.webp",
     description: {
       de: "Ein malerischer Park in Yangzhou, bekannt für seine schönen Gärten, historischen Strukturen und den langen, schmalen See, der einem Pinselstrich ähnelt.",
       hu: "Festői park Jangcsouban, amely gyönyörű kertjeiről, történelmi építményeiről és a hosszú, keskeny tóról ismert, amely egy ecsetvonásra hasonlít.",
@@ -564,7 +636,20 @@ image: "/poi-images/slender-west-lake-park-life-v2.webp"
       hu: ["Nemzeti kulturális örökség.", "Az Öt Pavilon Híd egy ikonikus nevezetesség.", "Ötvözi a déli kertek kecsességét az északi parkok fenségével."],
       ro: ["Un sit al patrimoniului cultural național.", "Podul cu Cinci Pavilioane este un reper iconic.", "Combină grația grădinilor sudice cu măreția parcurilor nordice."],
       en: ["A national cultural heritage site.", "The Five-Pavilion Bridge is an iconic landmark.", "Combines the grace of southern gardens with the grandeur of northern parks."]
-    }, image: "/poi-images/slender-west-lake-park-life-v2.webp"},
+    }, image: "/poi-images/slender-west-lake-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Slender West Lake Park in Yangzhou, China, ist ein historischer Garten aus der Sui-Dynastie. Der See erstreckt sich über 4 km Länge und hat eine Wasserfläche von etwa 0,5 km². Der Park ist berühmt für seine Brücken, Pavillons und Weidenbäume. Die bekannteste Brücke ist die Fünf-Pavillon-Brücke aus dem 18. Jahrhundert. Der Garten wurde in der Qing-Dynastie erweitert. Er ist ein nationales Kulturerbe und zieht jährlich über 5 Millionen Besucher an. Die durchschnittliche Tiefe des Sees beträgt 1,5 m. Der Park beherbergt auch das Yangzhou-Museum.",
+      hu: "A Slender West Lake Park Yangzhouban, Kínában, a Sui-dinasztia idejéből származó történelmi kert. A tó 4 km hosszú, vízfelülete kb. 0,5 km². A park híres hídjairól, pavilonjairól és fűzfáiról. A leghíresebb híd az Öt Pavilon Híd a 18. századból. A kert a Qing-dinasztia alatt bővült. Nemzeti kulturális örökség, évente több mint 5 millió látogatóval. A tó átlagos mélysége 1,5 m. A parkban található a Yangzhou Múzeum is.",
+      ro: "Parcul Slender West Lake din Yangzhou, China, este o grădină istorică din dinastia Sui. Lacul se întinde pe 4 km lungime și are o suprafață de apă de aproximativ 0,5 km². Parcul este renumit pentru podurile, pavilioanele și sălciile sale. Cel mai celebru pod este Podul celor Cinci Pavilioane din secolul al XVIII-lea. Grădina a fost extinsă în timpul dinastiei Qing. Este un patrimoniu cultural național și atrage peste 5 milioane de vizitatori anual. Adâncimea medie a lacului este de 1,5 m. Parcul găzduiește și Muzeul Yangzhou.",
+      en: "Slender West Lake Park in Yangzhou, China, is a historic garden from the Sui Dynasty. The lake stretches 4 km in length and has a water surface of about 0.5 km². The park is famous for its bridges, pavilions, and willows. The most famous bridge is the Five-Pavilion Bridge from the 18th century. The garden was expanded during the Qing Dynasty. It is a national cultural heritage and attracts over 5 million visitors annually. The average depth of the lake is 1.5 m. The park also houses the Yangzhou Museum.",
+    },
+    factsAdvanced: {
+      de: ["Länge des Sees: 4 km", "Wasserfläche: 0,5 km²", "Fünf-Pavillon-Brücke: 18. Jahrhundert", "Jährliche Besucher: >5 Mio.", "Durchschnittliche Tiefe: 1,5 m", "Nationales Kulturerbe: ja"],
+      hu: ["A tó hossza: 4 km", "Vízfelület: 0,5 km²", "Öt Pavilon Híd: 18. század", "Éves látogatók: >5 millió", "Átlagos mélység: 1,5 m", "Nemzeti kulturális örökség: igen"],
+      ro: ["Lungimea lacului: 4 km", "Suprafața apei: 0,5 km²", "Podul celor Cinci Pavilioane: secolul al XVIII-lea", "Vizitatori anuali: peste 5 milioane", "Adâncime medie: 1,5 m", "Patrimoniu cultural național: da"],
+      en: ["Lake length: 4 km", "Water area: 0.5 km²", "Five-Pavilion Bridge: 18th century", "Annual visitors: >5 million", "Average depth: 1.5 m", "National cultural heritage: yes"],
+    },
+  },
   {
     id: "shenzhen-happy-valley-life-v2",
     type: "kid-friendly",
@@ -574,9 +659,8 @@ image: "/poi-images/slender-west-lake-park-life-v2.webp"
       de: "Happy Valley Shenzhen",
       hu: "Happy Valley Sencsen",
       ro: "Happy Valley Shenzhen",
-      en: "Happy Valley Shenzhen",
-image: "/poi-images/shenzhen-happy-valley-life-v2.webp"
-},
+      en: "Happy Valley Shenzhen"},
+    image: "/poi-images/shenzhen-happy-valley-life-v2.webp",
     description: {
       de: "Ein großer, moderner Themenpark in Shenzhen mit neun thematischen Bereichen und über 100 Attraktionen.",
       hu: "Egy nagy, modern vidámpark Sencsenben, kilenc tematikus területtel és több mint 100 attrakcióval.",
@@ -588,7 +672,20 @@ image: "/poi-images/shenzhen-happy-valley-life-v2.webp"
       hu: ["Az első Happy Valley park Kínában.", "Különösen ismert a vízi attrakcióiról és hullámvasútjairól.", "Egész évben különböző fesztiválokat és eseményeket rendez."],
       ro: ["Primul parc Happy Valley din China.", "Renumit în special pentru atracțiile sale acvatice și rollercoastere.", "Găzduiește diverse festivaluri și evenimente pe tot parcursul anului."],
       en: ["The first Happy Valley park in China.", "Particularly known for its water rides and roller coasters.", "Hosts various festivals and events throughout the year."]
-    }, image: "/poi-images/shenzhen-happy-valley-life-v2.webp"},
+    }, image: "/poi-images/shenzhen-happy-valley-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Happy Valley Shenzhen ist ein Vergnügungspark im Bezirk Nanshan, Shenzhen, eröffnet im Jahr 1998. Der Park umfasst 35 Hektar und ist in neun Themenbereiche unterteilt, darunter den Magic Castle und den Water Park. Er bietet Achterbahnen wie den Hurricane und den Space Shot. Der Park zieht jährlich über 2 Millionen Besucher an. Happy Valley Shenzhen gehört zur OCT-Gruppe. Der Eintrittspreis beträgt ab 220 CNY. Zu den Veranstaltungen gehört das Musikfestival im Sommer.",
+      hu: "A Happy Valley Shenzhen vidámpark Nanshan kerületben, Shenzhenben, 1998-ban nyitott. A park 35 hektáron terül el, kilenc tematikus részre oszlik, mint a Varázskastély és a Vízipark. Hullámvasutakkal rendelkezik, mint a Hurricane és a Space Shot. A park évente több mint 2 millió látogatót vonz. A Happy Valley Shenzhen az OCT csoporthoz tartozik. A belépőár 220 CNY-tól kezdődik. Rendezvények közé tartozik a nyári zenei fesztivál.",
+      ro: "Happy Valley Shenzhen este un parc de distracții în districtul Nanshan, Shenzhen, deschis în 1998. Parcul se întinde pe 35 de hectare și este împărțit în nouă zone tematice, inclusiv Castelul Magic și Parcul Acvatic. Oferă montagne russe precum Hurricane și Space Shot. Parcul atrage peste 2 milioane de vizitatori anual. Happy Valley Shenzhen face parte din grupul OCT. Prețul biletului este de la 220 CNY. Evenimentele includ festivalul de muzică de vară.",
+      en: "Happy Valley Shenzhen is an amusement park in Nanshan District, Shenzhen, opened in 1998. The park covers 35 hectares and is divided into nine themed areas, including Magic Castle and Water Park. It features roller coasters like Hurricane and Space Shot. The park attracts over 2 million visitors annually. Happy Valley Shenzhen is owned by OCT Group. Ticket price starts at 220 CNY. Events include summer music festival.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 1998", "Fläche: 35 ha", "Themenbereiche: 9", "Jährliche Besucher: >2 Mio.", "Eintritt: ab 220 CNY", "Bekannte Achterbahn: Hurricane (Geschwindigkeit 90 km/h)"],
+      hu: ["Nyitás: 1998", "Terület: 35 ha", "Tematikus zónák: 9", "Éves látogatók: >2 millió", "Belépő: 220 CNY-tól", "Ismert hullámvasút: Hurricane (sebesség 90 km/h)"],
+      ro: ["Deschis: 1998", "Suprafață: 35 ha", "Zone tematice: 9", "Vizitatori anuali: peste 2 milioane", "Preț bilet: de la 220 CNY", "Montagne russe cunoscut: Hurricane (viteză 90 km/h)"],
+      en: ["Opened: 1998", "Area: 35 ha", "Themed areas: 9", "Annual visitors: >2 million", "Ticket price: from 220 CNY", "Famous roller coaster: Hurricane (speed 90 km/h)"],
+    },
+  },
   {
     id: "dounan-flower-market-life-v2",
     type: "agriculture",
@@ -598,9 +695,8 @@ image: "/poi-images/shenzhen-happy-valley-life-v2.webp"
       de: "Dounan Blumenmarkt",
       hu: "Dounan virágpiac",
       ro: "Piața de flori Dounan",
-      en: "Dounan Flower Market",
-image: "/poi-images/dounan-flower-market-life-v2.webp"
-},
+      en: "Dounan Flower Market"},
+    image: "/poi-images/dounan-flower-market-life-v2.webp",
     description: {
       de: "Der größte Frischblumenmarkt Asiens, in der Nähe von Kunming gelegen. Hier werden täglich riesige Mengen an Blumen gehandelt.",
       hu: "Ázsia legnagyobb friss virágpiaca, Kunming közelében. Naponta hatalmas mennyiségű virágot adnak-vesznek itt.",
@@ -612,7 +708,19 @@ image: "/poi-images/dounan-flower-market-life-v2.webp"
       hu: ["Éjjel-nappal működik.", "Meghatározza a virágárakat egész Kínában és azon túl is.", "Több mint 50 országba exportál virágot."],
       ro: ["Funcționează non-stop.", "Stabilește prețurile florilor în toată China și dincolo de ea.", "Exportă flori în peste 50 de țări."],
       en: ["Asia's largest fresh-cut flower market", "Near Kunming, Yunnan", "Exports to 40+ countries and regions", "Over 70% of China's fresh-cut flower market share"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Dounan Flower Market in Kunming, China, ist der größte Blumenmarkt in Asien. Er wurde 1999 eröffnet und erstreckt sich über 100.000 m². Täglich werden hier über 10 Millionen Schnittblumen gehandelt. Der Markt bietet rund 2.000 Blumenarten, darunter Rosen, Lilien und Orchideen. Der Markt ist 24 Stunden geöffnet. Jährlich wird ein Umsatz von über 10 Milliarden Yuan erzielt. Der Marktexporte in über 50 Länder. Die durchschnittliche tägliche Besucherzahl beträgt 30.000.",
+      hu: "A Dounan Virágpiac Kunmingban, Kínában a legnagyobb virágpiac Ázsiában. 1999-ben nyitották meg, területe 100 000 m². Naponta több mint 10 millió vágott virágot forgalmaznak. A piac mintegy 2000 virágfajtát kínál, köztük rózsát, liliomot és orchideát. A piac 24 órában nyitva tart. Az éves forgalom meghaladja a 10 milliárd jüant. A piac több mint 50 országba exportál. A napi látogatók átlagos száma 30 000.",
+      ro: "Piața de Flori Dounan din Kunming, China, este cea mai mare piață de flori din Asia. A fost deschisă în 1999 și se întinde pe 100.000 m². Zilnic se tranzacționează peste 10 milioane de flori tăiate. Piața oferă aproximativ 2.000 de specii de flori, inclusiv trandafiri, crini și orhidee. Piața este deschisă 24 de ore. Cifra de afaceri anuală depășește 10 miliarde de yuani. Piața exportă în peste 50 de țări. Numărul mediu zilnic de vizitatori este de 30.000.",
+      en: "Dounan Flower Market in Kunming, China, is the largest flower market in Asia. It opened in 1999 and covers 100,000 m². Over 10 million cut flowers are traded daily. The market offers about 2,000 flower species, including roses, lilies, and orchids. The market is open 24 hours. Annual turnover exceeds 10 billion yuan. The market exports to over 50 countries. Average daily visitors number 30,000.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet: 1999", "Fläche: 100.000 m²", "Täglicher Handel: >10 Mio. Schnittblumen", "Blumenarten: ca. 2.000", "Jahresumsatz: >10 Mrd. Yuan", "Export in >50 Länder"],
+      hu: ["Megnyitás: 1999", "Terület: 100 000 m²", "Napi forgalom: >10 millió vágott virág", "Virágfajták: kb. 2000", "Éves forgalom: >10 milliárd jüan", "Export: >50 országba"],
+      ro: ["Deschis: 1999", "Suprafață: 100.000 m²", "Tranzacții zilnice: peste 10 milioane flori tăiate", "Specii de flori: aproximativ 2.000", "Cifră de afaceri anuală: peste 10 miliarde yuani", "Exporturi în peste 50 de țări"],
+      en: ["Opened: 1999", "Area: 100,000 m²", "Daily trade: >10 million cut flowers", "Flower species: about 2,000", "Annual turnover: >10 billion yuan", "Exports to >50 countries"],
+    },
   }
 ];
 

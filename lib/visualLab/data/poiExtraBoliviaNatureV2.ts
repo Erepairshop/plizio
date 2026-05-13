@@ -196,9 +196,8 @@ image: "/poi-images/bo-ancohuma-nature-v2.webp"
       de: "Licancabur",
       hu: "Licancabur",
       ro: "Licancabur",
-      en: "Licancabur",
-image: "/poi-images/bo-licancabur-nature-v2.webp"
-},
+      en: "Licancabur"},
+    image: "/poi-images/bo-licancabur-nature-v2.webp",
     description: {
       de: "Der Licancabur ist ein hochsymmetrischer Stratovulkan an der Grenze zwischen Bolivien und Chile mit einem Gipfelkratersee.",
       hu: "A Licancabur egy rendkívül szimmetrikus rétegvulkán a bolíviai-chilei határon, amelynek csúcsán krátertó található.",
@@ -247,9 +246,8 @@ image: "/poi-images/bo-licancabur-nature-v2.webp"
       de: "Chacaltaya",
       hu: "Chacaltaya",
       ro: "Chacaltaya",
-      en: "Chacaltaya",
-image: "/poi-images/bo-chacaltaya-nature-v2.webp"
-},
+      en: "Chacaltaya"},
+    image: "/poi-images/bo-chacaltaya-nature-v2.webp",
     description: {
       de: "Der Chacaltaya war einst das höchste Skigebiet der Welt, bevor sein Gletscher im Jahr 2009 vollständig abschmolz.",
       hu: "A Chacaltaya valaha a világ legmagasabban fekvő sípályája volt, mielőtt gleccsere 2009-ben teljesen elolvadt volna.",
@@ -298,9 +296,8 @@ image: "/poi-images/bo-chacaltaya-nature-v2.webp"
       de: "Cerro Rico",
       hu: "Cerro Rico",
       ro: "Cerro Rico",
-      en: "Cerro Rico",
-image: "/poi-images/bo-cerro-rico-nature-v2.webp"
-},
+      en: "Cerro Rico"},
+    image: "/poi-images/bo-cerro-rico-nature-v2.webp",
     description: {
       de: "Der Cerro Rico (Reicher Berg) überragt die Stadt Potosí und war jahrhundertelang eine der weltweit größten Silberquellen.",
       hu: "A Cerro Rico (Gazdag-hegy) Potosí városa fölé magasodik, és évszázadokon át a világ egyik legnagyobb ezüstforrása volt.",
@@ -349,9 +346,8 @@ image: "/poi-images/bo-cerro-rico-nature-v2.webp"
       de: "Uturuncu",
       hu: "Uturuncu",
       ro: "Uturuncu",
-      en: "Uturuncu",
-image: "/poi-images/bo-uturuncu-nature-v2.webp"
-},
+      en: "Uturuncu"},
+    image: "/poi-images/bo-uturuncu-nature-v2.webp",
     description: {
       de: "Der Uturuncu ist der höchste Berg im Südwesten Boliviens und ein halbruhender Schichtvulkan, der sich langsam hebt.",
       hu: "Az Uturuncu Délnyugat-Bolívia legmagasabb hegye, egy félig szunnyadó rétegvulkán, amely lassan emelkedik.",
@@ -400,9 +396,8 @@ image: "/poi-images/bo-uturuncu-nature-v2.webp"
       de: "Cerro Tunari",
       hu: "Cerro Tunari",
       ro: "Cerro Tunari",
-      en: "Cerro Tunari",
-image: "/poi-images/bo-cerro-tunari-nature-v2.webp"
-},
+      en: "Cerro Tunari"},
+    image: "/poi-images/bo-cerro-tunari-nature-v2.webp",
     description: {
       de: "Der Cerro Tunari ist der höchste Gipfel Zentralboliviens und prägt die Landschaft nördlich der Stadt Cochabamba.",
       hu: "A Cerro Tunari Közép-Bolívia legmagasabb csúcsa, és meghatározza a Cochabamba várostól északra elterülő tájat.",
@@ -451,9 +446,8 @@ image: "/poi-images/bo-cerro-tunari-nature-v2.webp"
       de: "Salar de Uyuni",
       hu: "Salar de Uyuni",
       ro: "Salar de Uyuni",
-      en: "Salar de Uyuni",
-image: "/poi-images/bo-salar-de-uyuni-nature-v2.webp"
-},
+      en: "Salar de Uyuni"},
+    image: "/poi-images/bo-salar-de-uyuni-nature-v2.webp",
     description: {
       de: "Der Salar de Uyuni ist die größte Salzpfanne der Erde und beherbergt einen Großteil der weltweiten Lithiumreserven.",
       hu: "A Salar de Uyuni a világ legnagyobb sósivataga, amely a globális lítiumkészletek jelentős részét rejti magában.",
@@ -502,9 +496,8 @@ image: "/poi-images/bo-salar-de-uyuni-nature-v2.webp"
       de: "Titicacasee",
       hu: "Titicaca-tó",
       ro: "Lacul Titicaca",
-      en: "Lake Titicaca",
-image: "/poi-images/bo-lake-titicaca-nature-v2.webp"
-},
+      en: "Lake Titicaca"},
+    image: "/poi-images/bo-lake-titicaca-nature-v2.webp",
     description: {
       de: "Der Titicacasee liegt auf 3812 Metern Höhe und gilt als das höchste kommerziell schiffbare Gewässer der Erde.",
       hu: "A 3812 méter magasan fekvő Titicaca-tó a világ legmagasabban fekvő, hajózható vízfelülete.",
@@ -559,9 +552,8 @@ image: "/poi-images/bo-lake-titicaca-nature-v2.webp"
       de: "Laguna Colorada",
       hu: "Laguna Colorada",
       ro: "Laguna Colorada",
-      en: "Laguna Colorada",
-image: "/poi-images/bo-laguna-colorada-nature-v2.webp"
-},
+      en: "Laguna Colorada"},
+    image: "/poi-images/bo-laguna-colorada-nature-v2.webp",
     description: {
       de: "Die Laguna Colorada ist ein flacher, roter Salzsee im Südwesten Boliviens und ein wichtiger Lebensraum für James-Flamingos.",
       hu: "Lenyűgöző vörös színű sós tó a magas Andokban, amely különleges algáinak és a rajta élő több ezer flamingónak köszönheti hírnevét.",
@@ -610,9 +602,8 @@ image: "/poi-images/bo-laguna-colorada-nature-v2.webp"
       de: "Laguna Verde",
       hu: "Laguna Verde",
       ro: "Laguna Verde",
-      en: "Laguna Verde",
-image: "/poi-images/bo-laguna-verde-nature-v2.webp"
-},
+      en: "Laguna Verde"},
+    image: "/poi-images/bo-laguna-verde-nature-v2.webp",
     description: {
       de: "Die Laguna Verde ist ein auffällig türkisfarbener Salzsee am Fuße des Vulkans Licancabur im Südwesten Boliviens.",
       hu: "A Laguna Verde egy feltűnően türkizkék sós tó a Licancabur vulkán lábánál, Délnyugat-Bolíviában.",
@@ -661,9 +652,8 @@ image: "/poi-images/bo-laguna-verde-nature-v2.webp"
       de: "Laguna Blanca",
       hu: "Laguna Blanca",
       ro: "Laguna Blanca",
-      en: "Laguna Blanca",
-image: "/poi-images/bo-laguna-blanca-nature-v2.webp"
-},
+      en: "Laguna Blanca"},
+    image: "/poi-images/bo-laguna-blanca-nature-v2.webp",
     description: {
       de: "Die Laguna Blanca ist ein weißlicher Salzsee, der nur durch einen schmalen Korridor von der benachbarten Laguna Verde getrennt ist.",
       hu: "A Laguna Blanca egy fehéres sós tó, amelyet csak egy keskeny folyosó választ el a szomszédos Laguna Verdétől.",
@@ -712,9 +702,8 @@ image: "/poi-images/bo-laguna-blanca-nature-v2.webp"
       de: "Poopó-See",
       hu: "Poopó-tó",
       ro: "Lacul Poopó",
-      en: "Lake Poopó",
-image: "/poi-images/bo-lake-poopo-nature-v2.webp"
-},
+      en: "Lake Poopó"},
+    image: "/poi-images/bo-lake-poopo-nature-v2.webp",
     description: {
       de: "Der Poopó-See war einst Boliviens zweitgrößter See, ist aber aufgrund von Klimawandel und Wasserumleitung weitgehend ausgetrocknet.",
       hu: "A Poopó-tó valaha Bolívia második legnagyobb tava volt, de az éghajlatváltozás és a vízelterelések miatt jórészt kiszáradt.",
@@ -763,9 +752,8 @@ image: "/poi-images/bo-lake-poopo-nature-v2.webp"
       de: "Uru-Uru-See",
       hu: "Uru Uru-tó",
       ro: "Lacul Uru Uru",
-      en: "Uru Uru Lake",
-image: "/poi-images/bo-uru-uru-lake-nature-v2.webp"
-},
+      en: "Uru Uru Lake"},
+    image: "/poi-images/bo-uru-uru-lake-nature-v2.webp",
     description: {
       de: "Der Uru-Uru-See ist ein flacher See in der Nähe von Oruro, der vom Desaguadero-Fluss gespeist wird.",
       hu: "Az Uru Uru-tó egy sekély vizű tó Oruro közelében, amelyet a Desaguadero folyó táplál.",
@@ -814,9 +802,8 @@ image: "/poi-images/bo-uru-uru-lake-nature-v2.webp"
       de: "Mamoré",
       hu: "Mamoré",
       ro: "Mamoré",
-      en: "Mamoré River",
-image: "/poi-images/bo-mamore-river-nature-v2.webp"
-},
+      en: "Mamoré River"},
+    image: "/poi-images/bo-mamore-river-nature-v2.webp",
     description: {
       de: "Der Río Mamoré ist ein großer Fluss im Amazonasbecken Boliviens und einer der wichtigsten Quellflüsse des Río Madeira.",
       hu: "A Mamoré folyó a bolíviai Amazonas-medence egyik nagy folyója, a Madeira folyó egyik fő forrásága.",
@@ -865,9 +852,8 @@ image: "/poi-images/bo-mamore-river-nature-v2.webp"
       de: "Río Beni",
       hu: "Beni-folyó",
       ro: "Râul Beni",
-      en: "Beni River",
-image: "/poi-images/bo-beni-river-nature-v2.webp"
-},
+      en: "Beni River"},
+    image: "/poi-images/bo-beni-river-nature-v2.webp",
     description: {
       de: "Der Río Beni entspringt in den Anden und fließt durch den Madidi-Nationalpark, bevor er sich mit dem Mamoré vereint.",
       hu: "A Beni-folyó az Andokban ered, és a Madidi Nemzeti Parkon folyik keresztül, mielőtt egyesülne a Mamoréval.",
@@ -916,9 +902,8 @@ image: "/poi-images/bo-beni-river-nature-v2.webp"
       de: "Río Madre de Dios",
       hu: "Madre de Dios",
       ro: "Madre de Dios",
-      en: "Madre de Dios River",
-image: "/poi-images/bo-madre-de-dios-river-nature-v2.webp"
-},
+      en: "Madre de Dios River"},
+    image: "/poi-images/bo-madre-de-dios-river-nature-v2.webp",
     description: {
       de: "Der Río Madre de Dios ist ein wichtiger Fluss im Amazonasbecken, der durch Peru und den Norden Boliviens fließt.",
       hu: "A Madre de Dios az Amazonas-medence egyik fontos folyója, amely Perun és Észak-Bolívián is keresztülfolyik.",
@@ -967,9 +952,8 @@ image: "/poi-images/bo-madre-de-dios-river-nature-v2.webp"
       de: "Río Iténez",
       hu: "Iténez",
       ro: "Iténez",
-      en: "Iténez River",
-image: "/poi-images/bo-itenez-river-nature-v2.webp"
-},
+      en: "Iténez River"},
+    image: "/poi-images/bo-itenez-river-nature-v2.webp",
     description: {
       de: "Der Río Iténez, in Brasilien Guaporé genannt, bildet auf weiten Strecken die natürliche Grenze zwischen Bolivien und Brasilien.",
       hu: "A Brazíliában Guaporénak nevezett Iténez folyó hosszú szakaszon természetes határt képez Bolívia és Brazília között.",
@@ -1018,9 +1002,8 @@ image: "/poi-images/bo-itenez-river-nature-v2.webp"
       de: "Río Pilcomayo",
       hu: "Pilcomayo",
       ro: "Pilcomayo",
-      en: "Pilcomayo River",
-image: "/poi-images/bo-pilcomayo-river-nature-v2.webp"
-},
+      en: "Pilcomayo River"},
+    image: "/poi-images/bo-pilcomayo-river-nature-v2.webp",
     description: {
       de: "Der Río Pilcomayo durchquert die bolivianischen Anden und den Gran Chaco und bildet teilweise die Grenze zu Argentinien.",
       hu: "A Pilcomayo folyó átszeli a bolíviai Andokat és a Gran Chacót, részben pedig az argentin határt alkotja.",
@@ -1069,9 +1052,8 @@ image: "/poi-images/bo-pilcomayo-river-nature-v2.webp"
       de: "Río Grande",
       hu: "Río Grande (Guapay)",
       ro: "Río Grande",
-      en: "Río Grande",
-image: "/poi-images/bo-rio-grande-guapay-nature-v2.webp"
-},
+      en: "Río Grande"},
+    image: "/poi-images/bo-rio-grande-guapay-nature-v2.webp",
     description: {
       de: "Der Río Grande, lokal auch Guapay genannt, entspringt in den Zentralanden Boliviens und umfließt die region Santa Cruz.",
       hu: "A helyiek által Guapaynak is nevezett Río Grande Bolívia középső Andok-vidékén ered, és megkerüli Santa Cruz régióját.",
@@ -1120,9 +1102,8 @@ image: "/poi-images/bo-rio-grande-guapay-nature-v2.webp"
       de: "Río Desaguadero",
       hu: "Desaguadero folyó",
       ro: "Râul Desaguadero",
-      en: "Desaguadero River",
-image: "/poi-images/bo-desaguadero-river-nature-v2.webp"
-},
+      en: "Desaguadero River"},
+    image: "/poi-images/bo-desaguadero-river-nature-v2.webp",
     description: {
       de: "Der Río Desaguadero ist der Hauptabfluss des Titicacasees und speist weiter südlich den Poopó-See.",
       hu: "A Desaguadero folyó a Titicaca-tó fő kifolyója, amely délebbre a Poopó-tavat táplálja.",
@@ -1171,9 +1152,8 @@ image: "/poi-images/bo-desaguadero-river-nature-v2.webp"
       de: "Isla del Sol",
       hu: "Isla del Sol",
       ro: "Isla del Sol",
-      en: "Isla del Sol",
-image: "/poi-images/bo-isla-del-sol-nature-v2.webp"
-},
+      en: "Isla del Sol"},
+    image: "/poi-images/bo-isla-del-sol-nature-v2.webp",
     description: {
       de: "Die Sonneninsel im Titicacasee ist die größte Insel des Sees und hat in der Inka-Mythologie eine herausragende Bedeutung.",
       hu: "A Titicaca-tó Nap-szigete a tó legnagyobb szigete, amely kiemelkedő jelentőséggel bír az inka mitológiában.",
@@ -1222,9 +1202,8 @@ image: "/poi-images/bo-isla-del-sol-nature-v2.webp"
       de: "Isla de la Luna",
       hu: "Isla de la Luna",
       ro: "Isla de la Luna",
-      en: "Isla de la Luna",
-image: "/poi-images/bo-isla-de-la-luna-nature-v2.webp"
-},
+      en: "Isla de la Luna"},
+    image: "/poi-images/bo-isla-de-la-luna-nature-v2.webp",
     description: {
       de: "Die Mondinsel ist eine kleinere, östlich der Isla del Sol gelegene Insel im Titicacasee, auf der sich ein alter Inkatempel befindet.",
       hu: "A Hold-sziget egy kisebb sziget az Isla del Soltól keletre a Titicaca-tóban, ahol egy ősi inka templom található.",
@@ -1273,9 +1252,8 @@ image: "/poi-images/bo-isla-de-la-luna-nature-v2.webp"
       de: "Madidi-Nationalpark",
       hu: "Madidi Nemzeti Park",
       ro: "Parcul Național Madidi",
-      en: "Madidi National Park",
-image: "/poi-images/bo-madidi-national-park-nature-v2.webp"
-},
+      en: "Madidi National Park"},
+    image: "/poi-images/bo-madidi-national-park-nature-v2.webp",
     description: {
       de: "Der Madidi-Nationalpark umfasst Dschungelgebiet im Amazonasbecken und gilt als eines der artenreichsten Schutzgebiete der Erde.",
       hu: "A Madidi Nemzeti Park az Amazonas-medence dzsungelvidékét foglalja magában, és a világ egyik legfajgazdagabb természetvédelmi területe.",
@@ -1324,9 +1302,8 @@ image: "/poi-images/bo-madidi-national-park-nature-v2.webp"
       de: "Nationalpark Noel Kempff Mercado",
       hu: "Noel Kempff Mercado Nemzeti Park",
       ro: "Parcul Național Noel Kempff Mercado",
-      en: "Noel Kempff Mercado National Park",
-image: "/poi-images/bo-noel-kempff-mercado-nature-v2.webp"
-},
+      en: "Noel Kempff Mercado National Park"},
+    image: "/poi-images/bo-noel-kempff-mercado-nature-v2.webp",
     description: {
       de: "Dieser unberührte Nationalpark im Nordosten Boliviens bietet dramatische Wasserfälle, Hochebenen und dichten tropischen Regenwald.",
       hu: "Ez az érintetlen északkelet-bolíviai nemzeti park drámai vízeséseket, fennsíkokat és sűrű trópusi esőerdőt kínál.",
@@ -1375,9 +1352,8 @@ image: "/poi-images/bo-noel-kempff-mercado-nature-v2.webp"
       de: "Nationalpark Amboró",
       hu: "Amboró Nemzeti Park",
       ro: "Parcul Național Amboró",
-      en: "Amboró National Park",
-image: "/poi-images/bo-amboro-national-park-nature-v2.webp"
-},
+      en: "Amboró National Park"},
+    image: "/poi-images/bo-amboro-national-park-nature-v2.webp",
     description: {
       de: "Der Amboró-Nationalpark zeichnet sich durch seine einzigartige Lage aus, an der die Anden, der Gran Chaco und das Amazonasbecken aufeinandertreffen.",
       hu: "Az Amboró Nemzeti Park különlegességét az adja, hogy itt találkoznak az Andok, a Gran Chaco és az Amazonas-medence határai.",
@@ -1426,9 +1402,8 @@ image: "/poi-images/bo-amboro-national-park-nature-v2.webp"
       de: "Isiboro-Sécure-Nationalpark",
       hu: "Isiboro Sécure Nemzeti Park",
       ro: "Parcul Național Isiboro Sécure",
-      en: "Isiboro Sécure National Park",
-image: "/poi-images/bo-isiboro-secure-nature-v2.webp"
-},
+      en: "Isiboro Sécure National Park"},
+    image: "/poi-images/bo-isiboro-secure-nature-v2.webp",
     description: {
       de: "Das Schutzgebiet TIPNIS schützt große Teile des unberührten Amazonas-Regenwaldes sowie die traditionelle Lebensweise indigener Gruppen.",
       hu: "A TIPNIS nevű terület az érintetlen amazóniai esőerdő jelentős részét és az őslakos csoportok hagyományos életmódját védi.",

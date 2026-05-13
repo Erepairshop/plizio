@@ -6,9 +6,8 @@ export const poiExtraTurkeyLandmarksV2: POI[] = [
     type: "landmark",
     parent: "TR-34",
     coords: [28.9801, 41.0082],
-    name: { de: "Hagia Sophia", hu: "Hagia Szophia", ro: "Hagia Sofia", en: "Hagia Sophia",
-image: "/poi-images/hagia-sophia-landmarks-v2.webp"
-},
+    name: { de: "Hagia Sophia", hu: "Hagia Szophia", ro: "Hagia Sofia", en: "Hagia Sophia"},
+    image: "/poi-images/hagia-sophia-landmarks-v2.webp",
     description: { de: "Ein architektonisches Meisterwerk in Istanbul, das im Laufe seiner langen Geschichte als Kirche und Moschee diente.", hu: "Egy építészeti remekmű Isztambulban, amely hosszú történelme során templomként és mecsetként is funkcionált.", ro: "O capodoperă arhitecturală în Istanbul, care a servit ca biserică și moschee de-a lungul istoriei sale lungi.", en: "An architectural masterpiece in Istanbul that served as both a church and a mosque throughout its long history." },
     facts: {
       de: ["Ursprünglich 537 als Kathedrale erbaut.", "Berühmt für ihre gewaltige Kuppel.", "War fast tausend Jahre lang die größte Kirche der Welt."],
@@ -34,9 +33,8 @@ image: "/poi-images/hagia-sophia-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [28.9833, 41.0115],
-    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace",
-image: "/poi-images/topkapi-palace-landmarks-v2.webp"
-},
+    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace"},
+    image: "/poi-images/topkapi-palace-landmarks-v2.webp",
     description: { de: "Einst die prächtige Hauptresidenz der osmanischen Sultane, beherbergt der Palast heute ein beeindruckendes Museum.", hu: "Az oszmán szultánok egykori pompás főrezidenciája, ma egy lenyűgöző múzeumnak ad otthont.", ro: "Cândva reședința principală magnifică a sultanilor otomani, palatul găzduiește astăzi un muzeu impresionant.", en: "Once the magnificent main residence of the Ottoman sultans, the palace now houses an impressive museum." },
     facts: {
       de: ["Wurde im 15. Jahrhundert nach der Eroberung Istanbuls erbaut.", "Beherbergt den Harem und heilige Reliquien.", "Seit 1985 UNESCO-Weltkulturerbe."],
@@ -62,9 +60,8 @@ image: "/poi-images/topkapi-palace-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [28.9768, 41.0054],
-    name: { de: "Sultan-Ahmed-Moschee", hu: "Kék mecset", ro: "Moscheea Albastră", en: "Blue Mosque",
-image: "/poi-images/blue-mosque-landmarks-v2.webp"
-},
+    name: { de: "Sultan-Ahmed-Moschee", hu: "Kék mecset", ro: "Moscheea Albastră", en: "Blue Mosque"},
+    image: "/poi-images/blue-mosque-landmarks-v2.webp",
     description: { de: "Eine historische Moschee, die für ihre auffälligen blauen İznik-Fliesen bekannt ist, die das Innere schmücken.", hu: "Egy történelmi mecset, amely a belsejét díszítő feltűnő kék izniki csempékről ismert.", ro: "O moschee istorică, cunoscută pentru plăcile sale izbitoare de faianță albastră de İznik care decorează interiorul.", en: "A historic mosque known for its striking blue İznik tiles that decorate the interior." },
     facts: {
       de: ["Verfügt über sechs markante Minarette.", "Erbaut zwischen 1609 und 1616 unter Sultan Ahmed I.", "Eines der Wahrzeichen von Istanbul."],
@@ -90,9 +87,8 @@ image: "/poi-images/blue-mosque-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-20",
     coords: [29.1193, 37.9253],
-    name: { de: "Pamukkale", hu: "Pamukkale", ro: "Pamukkale", en: "Pamukkale",
-image: "/poi-images/pamukkale-landmarks-v2.webp"
-},
+    name: { de: "Pamukkale", hu: "Pamukkale", ro: "Pamukkale", en: "Pamukkale"},
+    image: "/poi-images/pamukkale-landmarks-v2.webp",
     description: { de: "Ein beeindruckendes Naturwunder in der Westtürkei, bekannt für seine strahlend weißen Sinterterrassen und heißen Thermalquellen.", hu: "Lenyűgöző természeti csoda Törökország nyugati részén, amely ragyogóan fehér mésztufateraszairól és hőforrásairól ismert.", ro: "O minune naturală impresionantă în vestul Turciei, cunoscută pentru terasele sale de travertin alb strălucitor și izvoarele termale.", en: "An impressive natural wonder in western Turkey, known for its bright white travertine terraces and hot thermal springs." },
     facts: {
       de: ["Der Name bedeutet wörtlich \"Baumwollschloss\".", "Direkt neben der antiken römischen Stadt Hierapolis.", "Das Thermalwasser ist reich an Kalziumkarbonat."],
@@ -118,9 +114,8 @@ image: "/poi-images/pamukkale-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-35",
     coords: [27.3411, 37.9411],
-    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus",
-image: "/poi-images/ephesus-landmarks-v2.webp"
-},
+    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus"},
+    image: "/poi-images/ephesus-landmarks-v2.webp",
     description: { de: "Eine antike griechische Stadt an der Küste Ioniens, die einige der besterhaltenen römischen Ruinen im Mittelmeerraum bietet.", hu: "Egy ókori görög város Jónia partján, amely a Földközi-tenger térségének egyik legjobb állapotban fennmaradt római kori romjait kínálja.", ro: "Un oraș antic grec pe coasta Ioniei, oferind unele dintre cele mai bine conservate ruine romane din Marea Mediterană.", en: "An ancient Greek city on the coast of Ionia, offering some of the best-preserved Roman ruins in the Mediterranean." },
     facts: {
       de: ["Einst Standort des Tempels der Artemis, eines der Sieben Weltwunder.", "Berühmt für die Celsus-Bibliothek.", "Das große Theater bot Platz für 25.000 Zuschauer."],
@@ -146,9 +141,8 @@ image: "/poi-images/ephesus-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-02",
     coords: [38.7613, 38.0326],
-    name: { de: "Berg Nemrut", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut",
-image: "/poi-images/mount-nemrut-landmarks-v2.webp"
-},
+    name: { de: "Berg Nemrut", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut"},
+    image: "/poi-images/mount-nemrut-landmarks-v2.webp",
     description: { de: "Ein bedeutender Berg im Südosten der Türkei, auf dessen Gipfel sich ein monumentales Heiligtum aus der hellenistischen Zeit befindet.", hu: "Egy jelentős hegy Törökország délkeleti részén, amelynek csúcsán egy hellenisztikus korból származó monumentális szentély található.", ro: "Un munte important în sud-estul Turciei, având un sanctuar monumental din perioada elenistică în vârf.", en: "A significant mountain in southeastern Turkey, featuring a monumental sanctuary from the Hellenistic period at its summit." },
     facts: {
       de: ["Bekannt für die riesigen Steinköpfe antiker Götter.", "Das Grabheiligtum wurde von König Antiochos I. Theos erbaut.", "Ein beliebtes Ziel, um den Sonnenaufgang zu beobachten."],
@@ -174,9 +168,8 @@ image: "/poi-images/mount-nemrut-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-50",
     coords: [34.8288, 38.6430],
-    name: { de: "Nationalpark Göreme", hu: "Göreme Nemzeti Park", ro: "Parcul Național Göreme", en: "Göreme National Park",
-image: "/poi-images/goreme-national-park-landmarks-v2.webp"
-},
+    name: { de: "Nationalpark Göreme", hu: "Göreme Nemzeti Park", ro: "Parcul Național Göreme", en: "Göreme National Park"},
+    image: "/poi-images/goreme-national-park-landmarks-v2.webp",
     description: { de: "Eine spektakuläre Landschaft in Kappadokien, geformt durch Erosion und berühmt für ihre einzigartigen Feenkamine.", hu: "Kappadókia látványos tája, amelyet az erózió formált, és híres az egyedülálló tündérkéményeiről.", ro: "Un peisaj spectaculos în Capadocia, format prin eroziune și faimos pentru hornurile sale unice ale zânelor.", en: "A spectacular landscape in Cappadocia, shaped by erosion and famous for its unique fairy chimneys." },
     facts: {
       de: ["Voller alter, in den weichen Stein gehauener Höhlenkirchen.", "Ein Weltzentrum für Heißluftballonfahrten.", "Die Felsformationen bestehen aus vulkanischem Tuffstein."],
@@ -202,9 +195,8 @@ image: "/poi-images/goreme-national-park-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-61",
     coords: [39.6582, 40.6901],
-    name: { de: "Sümela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery",
-image: "/poi-images/sumela-monastery-landmarks-v2.webp"
-},
+    name: { de: "Sümela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery"},
+    image: "/poi-images/sumela-monastery-landmarks-v2.webp",
     description: { de: "Ein griechisch-orthodoxes Kloster, das dramatisch in eine steile Klippe in der Schwarzmeerregion gebaut wurde.", hu: "Egy görög ortodox kolostor, amely drámai módon egy meredek sziklafalba épült a Fekete-tenger régiójában.", ro: "O mănăstire greco-ortodoxă, construită dramatic într-o stâncă abruptă din regiunea Mării Negre.", en: "A Greek Orthodox monastery dramatically built into a steep cliff in the Black Sea region." },
     facts: {
       de: ["Gegründet im Jahr 386 nach Christus.", "Befindet sich auf einer Höhe von 1.200 Metern.", "Berühmt für seine gut erhaltenen Fresken."],
@@ -230,9 +222,8 @@ image: "/poi-images/sumela-monastery-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [28.9731, 41.0256],
-    name: { de: "Galataturm", hu: "Galata-torony", ro: "Turnul Galata", en: "Galata Tower",
-image: "/poi-images/galata-tower-landmarks-v2.webp"
-},
+    name: { de: "Galataturm", hu: "Galata-torony", ro: "Turnul Galata", en: "Galata Tower"},
+    image: "/poi-images/galata-tower-landmarks-v2.webp",
     description: { de: "Ein historischer Steinturm im Viertel Beyoğlu, der einen weiten Panoramablick über das Goldene Horn von Istanbul bietet.", hu: "Egy történelmi kőtorony a Beyoğlu negyedben, amely széles panorámát nyújt az isztambuli Aranyszarv-öbölre.", ro: "Un turn istoric de piatră în districtul Beyoğlu, oferind vederi panoramice ample asupra Cornului de Aur din Istanbul.", en: "A historic stone tower in the Beyoğlu district, offering sweeping panoramic views of Istanbul's Golden Horn." },
     facts: {
       de: ["Wurde 1348 von den Genuesen erbaut.", "Diente früher als Feuerwachturm.", "Ist heute eines der markantesten Wahrzeichen der Skyline."],
@@ -258,9 +249,8 @@ image: "/poi-images/galata-tower-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-17",
     coords: [26.2389, 39.9575],
-    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy",
-image: "/poi-images/troy-landmarks-v2.webp"
-},
+    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy"},
+    image: "/poi-images/troy-landmarks-v2.webp",
     description: { de: "Die archäologische Stätte der legendären Stadt aus Homers Ilias, ein Ort voller Mythos und antiker Geschichte.", hu: "Homérosz Iliászának legendás városának régészeti lelőhelye, egy mítoszokkal és ókori történelemmel teli hely.", ro: "Situl arheologic al orașului legendar din Iliada lui Homer, un loc plin de mit și istorie antică.", en: "The archaeological site of the legendary city from Homer's Iliad, a place full of myth and ancient history." },
     facts: {
       de: ["Entdeckt im 19. Jahrhundert von Heinrich Schliemann.", "Ein großes hölzernes Pferd steht heute am Eingang.", "Besteht aus neun verschiedenen archäologischen Schichten."],
@@ -286,9 +276,8 @@ image: "/poi-images/troy-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-04",
     coords: [44.2980, 39.7020],
-    name: { de: "Berg Ararat", hu: "Ararát-hegy", ro: "Muntele Ararat", en: "Mount Ararat",
-image: "/poi-images/mount-ararat-landmarks-v2.webp"
-},
+    name: { de: "Berg Ararat", hu: "Ararát-hegy", ro: "Muntele Ararat", en: "Mount Ararat"},
+    image: "/poi-images/mount-ararat-landmarks-v2.webp",
     description: { de: "Ein schneebedeckter, schlafender Vulkan ganz im Osten der Türkei, der eng mit der biblischen Geschichte der Arche Noah verbunden ist.", hu: "Egy hósipkás, szunnyadó vulkán Törökország legkeletibb részén, amely szorosan kapcsolódik Noé bárkájának bibliai történetéhez.", ro: "Un vulcan adormit, acoperit de zăpadă, în extremitatea estică a Turciei, strâns legat de povestea biblică a Arcei lui Noe.", en: "A snow-capped, dormant volcano in the far east of Turkey, closely associated with the biblical story of Noah's Ark." },
     facts: {
       de: ["Der höchste Berg der Türkei mit 5.137 Metern.", "Besitzt zwei Gipfel: Großer und Kleiner Ararat.", "Ein beliebtes, aber anspruchsvolles Ziel für Bergsteiger."],
@@ -314,9 +303,8 @@ image: "/poi-images/mount-ararat-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [28.9675, 41.0106],
-    name: { de: "Großer Basar", hu: "Nagy Bazár", ro: "Marele Bazar", en: "Grand Bazaar",
-image: "/poi-images/grand-bazaar-landmarks-v2.webp"
-},
+    name: { de: "Großer Basar", hu: "Nagy Bazár", ro: "Marele Bazar", en: "Grand Bazaar"},
+    image: "/poi-images/grand-bazaar-landmarks-v2.webp",
     description: { de: "Einer der größten und ältesten überdachten Märkte der Welt, der sich im Herzen der Istanbuler Altstadt befindet.", hu: "A világ egyik legnagyobb és legrégebbi fedett piaca, amely Isztambul óvárosának szívében található.", ro: "Una dintre cele mai mari și mai vechi piețe acoperite din lume, situată în inima orașului vechi din Istanbul.", en: "One of the largest and oldest covered markets in the world, located in the heart of Istanbul's old city." },
     facts: {
       de: ["Umfasst 61 überdachte Straßen und über 4.000 Geschäfte.", "Zieht täglich bis zu 400.000 Besucher an.", "Wurde kurz nach der osmanischen Eroberung von 1453 gegründet."],
@@ -342,9 +330,8 @@ image: "/poi-images/grand-bazaar-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [28.9783, 41.0081],
-    name: { de: "Cisterna Basilica", hu: "Elsüllyedt Palota", ro: "Cisterna Basilică", en: "Basilica Cistern",
-image: "/poi-images/basilica-cistern-landmarks-v2.webp"
-},
+    name: { de: "Cisterna Basilica", hu: "Elsüllyedt Palota", ro: "Cisterna Basilică", en: "Basilica Cistern"},
+    image: "/poi-images/basilica-cistern-landmarks-v2.webp",
     description: { de: "Ein riesiges unterirdisches Wasserreservoir aus der byzantinischen Zeit, bekannt für seine stimmungsvolle Beleuchtung und die Medusenhäupter.", hu: "Hatalmas bizánci kori föld alatti víztározó, amely hangulatos megvilágításáról és a Medusza-főkről ismert.", ro: "Un imens rezervor subteran de apă din perioada bizantină, cunoscut pentru iluminarea sa atmosferică și capetele Medusei.", en: "A massive subterranean water reservoir from the Byzantine era, known for its atmospheric lighting and Medusa heads." },
     facts: {
       de: ["Erbaut im 6. Jahrhundert unter Kaiser Justinian I.", "Wird von 336 Marmorsäulen getragen.", "Diente einst als Wasserversorgung für den großen Palast."],
@@ -370,9 +357,8 @@ image: "/poi-images/basilica-cistern-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-06",
     coords: [32.8369, 39.9250],
-    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir",
-image: "/poi-images/anitkabir-landmarks-v2.webp"
-},
+    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir"},
+    image: "/poi-images/anitkabir-landmarks-v2.webp",
     description: { de: "Das imposante Mausoleum von Mustafa Kemal Atatürk, dem Gründer und ersten Präsidenten der modernen Republik Türkei.", hu: "Mustafa Kemal Atatürk, a modern Török Köztársaság alapítójának és első elnökének impozáns mauzóleuma.", ro: "Impozantul mausoleu al lui Mustafa Kemal Atatürk, fondatorul și primul președinte al Republicii moderne Turcia.", en: "The imposing mausoleum of Mustafa Kemal Atatürk, the founder and first President of the modern Republic of Turkey." },
     facts: {
       de: ["Befindet sich in der Hauptstadt Ankara.", "Fertiggestellt im Jahr 1953 nach neunjähriger Bauzeit.", "Zieht jährlich Millionen von Besuchern an, die ihm Respekt zollen."],
@@ -398,9 +384,8 @@ image: "/poi-images/anitkabir-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-07",
     coords: [31.1724, 36.9388],
-    name: { de: "Theater von Aspendos", hu: "Aspendoszi Színház", ro: "Teatrul din Aspendos", en: "Aspendos Theater",
-image: "/poi-images/aspendos-theater-landmarks-v2.webp"
-},
+    name: { de: "Theater von Aspendos", hu: "Aspendoszi Színház", ro: "Teatrul din Aspendos", en: "Aspendos Theater"},
+    image: "/poi-images/aspendos-theater-landmarks-v2.webp",
     description: { de: "Eines der besterhaltenen antiken römischen Theater der Welt, das noch heute für Aufführungen genutzt wird.", hu: "A világ egyik legjobb állapotban fennmaradt ókori római színháza, amelyet ma is használnak előadásokra.", ro: "Unul dintre cele mai bine conservate teatre romane antice din lume, fiind încă folosit pentru spectacole astăzi.", en: "One of the best-preserved ancient Roman theaters in the world, still used for performances today." },
     facts: {
       de: ["Konnte einst bis zu 12.000 Zuschauer fassen.", "Bekannt für seine hervorragende Akustik.", "Erbaut im 2. Jahrhundert nach Christus."],
@@ -426,9 +411,8 @@ image: "/poi-images/aspendos-theater-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-63",
     coords: [38.9223, 37.2232],
-    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe",
-image: "/poi-images/gobekli-tepe-landmarks-v2.webp"
-},
+    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe"},
+    image: "/poi-images/gobekli-tepe-landmarks-v2.webp",
     description: { de: "Eine prähistorische archäologische Stätte im Südosten der Türkei, die die ältesten bekannten Tempelanlagen der Welt beherbergt.", hu: "Prehisztorikus régészeti lelőhely Törökország délkeleti részén, amely a világ legrégebbi ismert templomait rejti.", ro: "Un sit arheologic preistoric în sud-estul Turciei, care găzduiește cele mai vechi structuri de temple cunoscute din lume.", en: "A prehistoric archaeological site in southeastern Turkey, home to the oldest known temple structures in the world." },
     facts: {
       de: ["Die Ruinen sind über 11.000 Jahre alt.", "Veränderte das Verständnis der frühen menschlichen Geschichte.", "Enthält massive Steinpfeiler mit Tierschnitzereien."],
@@ -454,9 +438,8 @@ image: "/poi-images/gobekli-tepe-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [29.0343, 41.0435],
-    name: { de: "Bosporus-Brücke", hu: "Boszporusz híd", ro: "Podul Bosfor", en: "Bosphorus Bridge",
-image: "/poi-images/bosphorus-bridge-landmarks-v2.webp"
-},
+    name: { de: "Bosporus-Brücke", hu: "Boszporusz híd", ro: "Podul Bosfor", en: "Bosphorus Bridge"},
+    image: "/poi-images/bosphorus-bridge-landmarks-v2.webp",
     description: { de: "Eine ikonische Hängebrücke, die den europäischen und den asiatischen Teil Istanbuls miteinander verbindet.", hu: "Ikonikus függőhíd, amely Isztambul európai és ázsiai részét köti össze.", ro: "Un pod suspendat iconic care leagă părțile europene și asiatice ale Istanbulului.", en: "An iconic suspension bridge that connects the European and Asian parts of Istanbul." },
     facts: {
       de: ["Wurde 1973 eröffnet.", "Ist über 1.500 Meter lang.", "Offiziell in Brücke der Märtyrer des 15. Juli umbenannt."],
@@ -482,9 +465,8 @@ image: "/poi-images/bosphorus-bridge-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [29.0041, 41.0211],
-    name: { de: "Leanderturm", hu: "Szűz tornya", ro: "Turnul Fecioarei", en: "Maiden's Tower",
-image: "/poi-images/maidens-tower-landmarks-v2.webp"
-},
+    name: { de: "Leanderturm", hu: "Szűz tornya", ro: "Turnul Fecioarei", en: "Maiden's Tower"},
+    image: "/poi-images/maidens-tower-landmarks-v2.webp",
     description: { de: "Ein eleganter Turm auf einer kleinen Insel im Bosporus, der auf eine lange Legenden- und Mythengeschichte zurückblickt.", hu: "Elegáns torony egy kis szigeten a Boszporuszban, amely hosszú legendák és mítoszok sorát őrzi.", ro: "Un turn elegant pe o mică insulă în Bosfor, având o lungă istorie de legende și mituri.", en: "An elegant tower on a small island in the Bosphorus, boasting a long history of legends and myths." },
     facts: {
       de: ["Diente einst als Leuchtturm und Zollstation.", "Bekannt als Kız Kulesi auf Türkisch.", "Ein beliebtes Fotomotiv bei Sonnenuntergang."],
@@ -510,9 +492,8 @@ image: "/poi-images/maidens-tower-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-48",
     coords: [27.4284, 37.0319],
-    name: { de: "Kastell von St. Peter", hu: "Bodrum vára", ro: "Castelul Bodrum", en: "Bodrum Castle",
-image: "/poi-images/bodrum-castle-landmarks-v2.webp"
-},
+    name: { de: "Kastell von St. Peter", hu: "Bodrum vára", ro: "Castelul Bodrum", en: "Bodrum Castle"},
+    image: "/poi-images/bodrum-castle-landmarks-v2.webp",
     description: { de: "Eine massive Festung, die von den Johanniterrittern im 15. Jahrhundert erbaut wurde und heute das Museum für Unterwasserarchäologie beherbergt.", hu: "Masszív erődítmény, amelyet a johannita lovagok építettek a 15. században, és ma a Vízalatti Régészeti Múzeumnak ad otthont.", ro: "O fortăreață masivă construită de Cavalerii Ospitalieri în secolul al XV-lea, care găzduiește acum Muzeul de Arheologie Subacvatică.", en: "A massive fortress built by the Knights Hospitaller in the 15th century, now housing the Museum of Underwater Archaeology." },
     facts: {
       de: ["Erbaut mit Steinen aus dem Mausoleum von Halikarnassos.", "Besitzt vier Haupttürme: den englischen, französischen, deutschen und italienischen Turm.", "Liegt prominent an der Küste der Ägäis."],
@@ -538,9 +519,8 @@ image: "/poi-images/bodrum-castle-landmarks-v2.webp"
     type: "landmark",
     parent: "TR-34",
     coords: [28.9992, 41.0396],
-    name: { de: "Dolmabahçe-Palast", hu: "Dolmabahçe palota", ro: "Palatul Dolmabahçe", en: "Dolmabahçe Palace",
-image: "/poi-images/dolmabahce-palace-landmarks-v2.webp"
-},
+    name: { de: "Dolmabahçe-Palast", hu: "Dolmabahçe palota", ro: "Palatul Dolmabahçe", en: "Dolmabahçe Palace"},
+    image: "/poi-images/dolmabahce-palace-landmarks-v2.webp",
     description: { de: "Ein prunkvoller Palast am Bosporusufer, der den Topkapı-Palast als Hauptresidenz der osmanischen Sultane ablöste.", hu: "Díszes palota a Boszporusz partján, amely a Topkapı palotát váltotta fel az oszmán szultánok főrezidenciájaként.", ro: "Un palat opulent pe malurile Bosforului, care a înlocuit Palatul Topkapı ca reședință principală a sultanilor otomani.", en: "An opulent palace on the shores of the Bosphorus, which replaced Topkapı Palace as the main residence of the Ottoman sultans." },
     facts: {
       de: ["Die Innenausstattung ist mit Tonnen von Gold und Kristall geschmückt.", "Verfügt über den größten böhmischen Kristallkronleuchter der Welt.", "Der Ort, an dem Atatürk 1938 verstarb."],

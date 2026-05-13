@@ -6,9 +6,8 @@ export const poiExtraPhilippinesCitiesV2: POI[] = [
     type: "state-capital",
     parent: "PH-00",
     coords: [120.9842, 14.5995],
-    name: { de: "Manila", hu: "Manila", ro: "Manila", en: "Manila",
-image: "/poi-images/ph-manila-cities-v2.webp"
-},
+    name: { de: "Manila", hu: "Manila", ro: "Manila", en: "Manila"},
+    image: "/poi-images/ph-manila-cities-v2.webp",
     description: {
       de: "Hauptstadt der Philippinen am Ufer der Manilabucht, bekannt für ihre spanische Kolonialarchitektur.",
       hu: "A Fülöp-szigetek fővárosa a Manila-öböl partján, amely híres spanyol gyarmati építészetéről.",
@@ -39,9 +38,8 @@ image: "/poi-images/ph-manila-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0439, 14.6760],
-    name: { de: "Quezon City", hu: "Quezon City", ro: "Quezon City", en: "Quezon City",
-image: "/poi-images/ph-quezon-city-cities-v2.webp"
-},
+    name: { de: "Quezon City", hu: "Quezon City", ro: "Quezon City", en: "Quezon City"},
+    image: "/poi-images/ph-quezon-city-cities-v2.webp",
     description: {
       de: "Die bevölkerungsreichste Stadt des Landes, die einst als Hauptstadt der Philippinen diente.",
       hu: "Az ország legnépesebb városa, amely egykor a Fülöp-szigetek fővárosa volt.",
@@ -72,9 +70,8 @@ image: "/poi-images/ph-quezon-city-cities-v2.webp"
     type: "city",
     parent: "PH-DAS",
     coords: [125.6000, 7.1907],
-    name: { de: "Davao City", hu: "Davao City", ro: "Davao City", en: "Davao City",
-image: "/poi-images/ph-davao-city-cities-v2.webp"
-},
+    name: { de: "Davao City", hu: "Davao City", ro: "Davao City", en: "Davao City"},
+    image: "/poi-images/ph-davao-city-cities-v2.webp",
     description: {
       de: "Das wichtigste Handelszentrum in Mindanao und die flächenmäßig größte Stadt der Philippinen.",
       hu: "Mindanao legfontosabb kereskedelmi központja és területre a legnagyobb fülöp-szigeteki város.",
@@ -105,9 +102,8 @@ image: "/poi-images/ph-davao-city-cities-v2.webp"
     type: "city",
     parent: "PH-CEB",
     coords: [123.8911, 10.3157],
-    name: { de: "Cebu City", hu: "Cebu City", ro: "Cebu City", en: "Cebu City",
-image: "/poi-images/ph-cebu-city-cities-v2.webp"
-},
+    name: { de: "Cebu City", hu: "Cebu City", ro: "Cebu City", en: "Cebu City"},
+    image: "/poi-images/ph-cebu-city-cities-v2.webp",
     description: {
       de: "Die älteste Stadt und die erste Hauptstadt der Philippinen, ein Zentrum für Handel in den Visayas.",
       hu: "A Fülöp-szigetek legrégebbi városa és első fővárosa, a Visayas-szigetek kereskedelmi központja.",
@@ -138,9 +134,8 @@ image: "/poi-images/ph-cebu-city-cities-v2.webp"
     type: "city",
     parent: "PH-ZAS",
     coords: [122.0790, 6.9214],
-    name: { de: "Zamboanga City", hu: "Zamboanga City", ro: "Zamboanga City", en: "Zamboanga City",
-image: "/poi-images/ph-zamboanga-city-cities-v2.webp"
-},
+    name: { de: "Zamboanga City", hu: "Zamboanga City", ro: "Zamboanga City", en: "Zamboanga City"},
+    image: "/poi-images/ph-zamboanga-city-cities-v2.webp",
     description: {
       de: "Eine bedeutende Hafenstadt auf Mindanao, bekannt für ihre hispanische Kultur und Chavacano-Sprache.",
       hu: "Jelentős kikötőváros Mindanao szigetén, amely hispán kultúrájáról és a chavacano nyelvről ismert.",
@@ -171,9 +166,8 @@ image: "/poi-images/ph-zamboanga-city-cities-v2.webp"
     type: "city",
     parent: "PH-RIZ",
     coords: [121.1763, 14.5842],
-    name: { de: "Antipolo", hu: "Antipolo", ro: "Antipolo", en: "Antipolo",
-image: "/poi-images/ph-antipolo-cities-v2.webp"
-},
+    name: { de: "Antipolo", hu: "Antipolo", ro: "Antipolo", en: "Antipolo"},
+    image: "/poi-images/ph-antipolo-cities-v2.webp",
     description: {
       de: "Eine hochgelegene Stadt östlich von Manila, die ein beliebtes Pilgerziel für Katholiken ist.",
       hu: "Manilától keletre fekvő magasan fekvő város, amely népszerű katolikus zarándokhely.",
@@ -204,9 +198,8 @@ image: "/poi-images/ph-antipolo-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0615, 14.5764],
-    name: { de: "Pasig", hu: "Pasig", ro: "Pasig", en: "Pasig",
-image: "/poi-images/ph-pasig-cities-v2.webp"
-},
+    name: { de: "Pasig", hu: "Pasig", ro: "Pasig", en: "Pasig"},
+    image: "/poi-images/ph-pasig-cities-v2.webp",
     description: {
       de: "Einst eine ländliche Siedlung, heute eine hochurbanisierte Stadt mit einem großen Finanzviertel.",
       hu: "Egykor vidéki település, ma magasan urbanizált város jelentős pénzügyi negyeddel.",
@@ -237,9 +230,8 @@ image: "/poi-images/ph-pasig-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0509, 14.5204],
-    name: { de: "Taguig", hu: "Taguig", ro: "Taguig", en: "Taguig",
-image: "/poi-images/ph-taguig-cities-v2.webp"
-},
+    name: { de: "Taguig", hu: "Taguig", ro: "Taguig", en: "Taguig"},
+    image: "/poi-images/ph-taguig-cities-v2.webp",
     description: {
       de: "Eine rasch wachsende Stadt, die für das moderne Geschäftsviertel Bonifacio Global City bekannt ist.",
       hu: "Gyorsan növekvő város, amely a Bonifacio Global City modern üzleti negyedéről ismert.",
@@ -270,9 +262,8 @@ image: "/poi-images/ph-taguig-cities-v2.webp"
     type: "city",
     parent: "PH-MSR",
     coords: [124.6498, 8.4752],
-    name: { de: "Cagayan de Oro", hu: "Cagayan de Oro", ro: "Cagayan de Oro", en: "Cagayan de Oro",
-image: "/poi-images/ph-cagayan-de-oro-cities-v2.webp"
-},
+    name: { de: "Cagayan de Oro", hu: "Cagayan de Oro", ro: "Cagayan de Oro", en: "Cagayan de Oro"},
+    image: "/poi-images/ph-cagayan-de-oro-cities-v2.webp",
     description: {
       de: "Das Handelszentrum von Nord-Mindanao, berühmt für Wildwasser-Rafting auf dem Cagayan-Fluss.",
       hu: "Észak-Mindanao kereskedelmi központja, amely híres a Cagayan-folyón végzett vadvízi evezésről.",
@@ -303,9 +294,8 @@ image: "/poi-images/ph-cagayan-de-oro-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0167, 14.4793],
-    name: { de: "Parañaque", hu: "Parañaque", ro: "Parañaque", en: "Parañaque",
-image: "/poi-images/ph-paranaque-cities-v2.webp"
-},
+    name: { de: "Parañaque", hu: "Parañaque", ro: "Parañaque", en: "Parañaque"},
+    image: "/poi-images/ph-paranaque-cities-v2.webp",
     description: {
       de: "Eine geschäftige Stadt im Hauptstadtbezirk, in der sich mehrere große Casinokomplexe befinden.",
       hu: "Nyüzsgő város a fővárosi régióban, ahol több nagy kaszinókomplexum is található.",
@@ -336,9 +326,8 @@ image: "/poi-images/ph-paranaque-cities-v2.webp"
     type: "city",
     parent: "PH-CAV",
     coords: [120.9350, 14.3294],
-    name: { de: "Dasmariñas", hu: "Dasmariñas", ro: "Dasmariñas", en: "Dasmariñas",
-image: "/poi-images/ph-dasmarinas-cities-v2.webp"
-},
+    name: { de: "Dasmariñas", hu: "Dasmariñas", ro: "Dasmariñas", en: "Dasmariñas"},
+    image: "/poi-images/ph-dasmarinas-cities-v2.webp",
     description: {
       de: "Eine wichtige Industrie- und Universitätsstadt, die als Knotenpunkt der Provinz Cavite dient.",
       hu: "Fontos ipari és egyetemi város, amely Cavite tartomány közlekedési csomópontjaként szolgál.",
@@ -369,9 +358,8 @@ image: "/poi-images/ph-dasmarinas-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [120.9808, 14.7005],
-    name: { de: "Valenzuela", hu: "Valenzuela", ro: "Valenzuela", en: "Valenzuela",
-image: "/poi-images/ph-valenzuela-cities-v2.webp"
-},
+    name: { de: "Valenzuela", hu: "Valenzuela", ro: "Valenzuela", en: "Valenzuela"},
+    image: "/poi-images/ph-valenzuela-cities-v2.webp",
     description: {
       de: "Ein bedeutendes Industrie- und Wohnzentrum im nördlichen Teil von Metro Manila.",
       hu: "Jelentős ipari és lakóövezet Metro Manila északi részén.",
@@ -402,9 +390,8 @@ image: "/poi-images/ph-valenzuela-cities-v2.webp"
     type: "city",
     parent: "PH-CAV",
     coords: [120.9419, 14.4586],
-    name: { de: "Bacoor", hu: "Bacoor", ro: "Bacoor", en: "Bacoor",
-image: "/poi-images/ph-bacoor-cities-v2.webp"
-},
+    name: { de: "Bacoor", hu: "Bacoor", ro: "Bacoor", en: "Bacoor"},
+    image: "/poi-images/ph-bacoor-cities-v2.webp",
     description: {
       de: "Ein städtisches Tor zur Provinz Cavite, das sich durch rasante kommerzielle Entwicklung auszeichnet.",
       hu: "Városi kapu Cavite tartományba, amelyet gyors kereskedelmi fejlődés jellemez.",
@@ -435,9 +422,8 @@ image: "/poi-images/ph-bacoor-cities-v2.webp"
     type: "city",
     parent: "PH-SCO",
     coords: [125.1716, 6.1154],
-    name: { de: "General Santos", hu: "General Santos", ro: "General Santos", en: "General Santos",
-image: "/poi-images/ph-general-santos-cities-v2.webp"
-},
+    name: { de: "General Santos", hu: "General Santos", ro: "General Santos", en: "General Santos"},
+    image: "/poi-images/ph-general-santos-cities-v2.webp",
     description: {
       de: "Die südlichste Großstadt der Philippinen, die als wirtschaftliches Zentrum der Soccsksargen-Region dient.",
       hu: "A Fülöp-szigetek legdélebbi nagyvárosa, amely a Soccsksargen régió gazdasági központja.",
@@ -468,9 +454,8 @@ image: "/poi-images/ph-general-santos-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [120.9833, 14.4445],
-    name: { de: "Las Piñas", hu: "Las Piñas", ro: "Las Piñas", en: "Las Piñas",
-image: "/poi-images/ph-las-pinas-cities-v2.webp"
-},
+    name: { de: "Las Piñas", hu: "Las Piñas", ro: "Las Piñas", en: "Las Piñas"},
+    image: "/poi-images/ph-las-pinas-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in Metro Manila, die für ihr Kulturerbe und die Salzproduktion bekannt ist.",
       hu: "Történelmi város Metro Manilában, amely kulturális örökségéről és sótermeléséről ismert.",
@@ -501,9 +486,8 @@ image: "/poi-images/ph-las-pinas-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0244, 14.5547],
-    name: { de: "Makati", hu: "Makati", ro: "Makati", en: "Makati",
-image: "/poi-images/ph-makati-cities-v2.webp"
-},
+    name: { de: "Makati", hu: "Makati", ro: "Makati", en: "Makati"},
+    image: "/poi-images/ph-makati-cities-v2.webp",
     description: {
       de: "Das führende Finanzzentrum der Philippinen mit Wolkenkratzern und multinationalen Unternehmenssitzen.",
       hu: "A Fülöp-szigetek vezető pénzügyi központja felhőkarcolókkal és multinacionális vállalatok székhelyeivel.",
@@ -534,9 +518,8 @@ image: "/poi-images/ph-makati-cities-v2.webp"
     type: "city",
     parent: "PH-NEC",
     coords: [122.9500, 10.6667],
-    name: { de: "Bacolod", hu: "Bacolod", ro: "Bacolod", en: "Bacolod",
-image: "/poi-images/ph-bacolod-cities-v2.webp"
-},
+    name: { de: "Bacolod", hu: "Bacolod", ro: "Bacolod", en: "Bacolod"},
+    image: "/poi-images/ph-bacolod-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Provinz Negros Occidental, die für ihre freundlichen Einwohner und Festivals berühmt ist.",
       hu: "Negros Occidental tartomány fővárosa, amely barátságos lakóiról és fesztiváljairól híres.",
@@ -567,9 +550,8 @@ image: "/poi-images/ph-bacolod-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0415, 14.3907],
-    name: { de: "Muntinlupa", hu: "Muntinlupa", ro: "Muntinlupa", en: "Muntinlupa",
-image: "/poi-images/ph-muntinlupa-cities-v2.webp"
-},
+    name: { de: "Muntinlupa", hu: "Muntinlupa", ro: "Muntinlupa", en: "Muntinlupa"},
+    image: "/poi-images/ph-muntinlupa-cities-v2.webp",
     description: {
       de: "Die südlichste Stadt von Metro Manila, die für exklusive Wohnviertel und moderne Geschäftszentren bekannt ist.",
       hu: "Metro Manila legdélebbi városa, amely exkluzív lakónegyedeiről és modern üzleti központjairól ismert.",
@@ -600,9 +582,8 @@ image: "/poi-images/ph-muntinlupa-cities-v2.webp"
     type: "city",
     parent: "PH-BUL",
     coords: [121.0453, 14.8147],
-    name: { de: "San Jose del Monte", hu: "San Jose del Monte", ro: "San Jose del Monte", en: "San Jose del Monte",
-image: "/poi-images/ph-san-jose-del-monte-cities-v2.webp"
-},
+    name: { de: "San Jose del Monte", hu: "San Jose del Monte", ro: "San Jose del Monte", en: "San Jose del Monte"},
+    image: "/poi-images/ph-san-jose-del-monte-cities-v2.webp",
     description: {
       de: "Eine schnell wachsende Bergstadt in der Provinz Bulacan, die oft als Vorort von Manila dient.",
       hu: "Gyorsan növekvő hegyvidéki város Bulacan tartományban, amely gyakran Manila elővárosaként szolgál.",
@@ -633,9 +614,8 @@ image: "/poi-images/ph-san-jose-del-monte-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0981, 14.6507],
-    name: { de: "Marikina", hu: "Marikina", ro: "Marikina", en: "Marikina",
-image: "/poi-images/ph-marikina-cities-v2.webp"
-},
+    name: { de: "Marikina", hu: "Marikina", ro: "Marikina", en: "Marikina"},
+    image: "/poi-images/ph-marikina-cities-v2.webp",
     description: {
       de: "Ein lebhaftes Industrie- und Wohnzentrum, das landesweit für seine hochwertige Schuhproduktion berühmt ist.",
       hu: "Élénk ipari és lakóövezet, amely országszerte híres kiváló minőségű cipőgyártásáról.",
@@ -666,9 +646,8 @@ image: "/poi-images/ph-marikina-cities-v2.webp"
     type: "city",
     parent: "PH-ILI",
     coords: [122.5644, 10.7202],
-    name: { de: "Iloilo City", hu: "Iloilo City", ro: "Iloilo City", en: "Iloilo City",
-image: "/poi-images/ph-iloilo-city-cities-v2.webp"
-},
+    name: { de: "Iloilo City", hu: "Iloilo City", ro: "Iloilo City", en: "Iloilo City"},
+    image: "/poi-images/ph-iloilo-city-cities-v2.webp",
     description: {
       de: "Ein historisches Handelszentrum auf der Insel Panay, bekannt für großartige Kolonialarchitektur und Flusspromenaden.",
       hu: "Történelmi kereskedelmi központ Panay szigetén, amely nagyszerű gyarmati építészetéről és folyóparti sétányairól ismert.",
@@ -699,9 +678,8 @@ image: "/poi-images/ph-iloilo-city-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [120.9986, 14.5378],
-    name: { de: "Pasay", hu: "Pasay", ro: "Pasay", en: "Pasay",
-image: "/poi-images/ph-pasay-cities-v2.webp"
-},
+    name: { de: "Pasay", hu: "Pasay", ro: "Pasay", en: "Pasay"},
+    image: "/poi-images/ph-pasay-cities-v2.webp",
     description: {
       de: "Eine lebendige Stadt in Metro Manila, die als internationales Tor zu den Philippinen fungiert.",
       hu: "Élénk város Metro Manilában, amely a Fülöp-szigetek nemzetközi kapujaként szolgál.",
@@ -732,9 +710,8 @@ image: "/poi-images/ph-pasay-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [120.9833, 14.6500],
-    name: { de: "Caloocan", hu: "Caloocan", ro: "Caloocan", en: "Caloocan",
-image: "/poi-images/ph-caloocan-cities-v2.webp"
-},
+    name: { de: "Caloocan", hu: "Caloocan", ro: "Caloocan", en: "Caloocan"},
+    image: "/poi-images/ph-caloocan-cities-v2.webp",
     description: {
       de: "Eine der größten Städte der Metropolregion, die durch eine andere Stadt in zwei Teile getrennt ist.",
       hu: "A metropolisz régió egyik legnagyobb városa, amelyet egy másik város két részre oszt.",
@@ -765,9 +742,8 @@ image: "/poi-images/ph-caloocan-cities-v2.webp"
     type: "city",
     parent: "PH-PAM",
     coords: [120.5833, 15.1500],
-    name: { de: "Angeles City", hu: "Angeles City", ro: "Angeles City", en: "Angeles City",
-image: "/poi-images/ph-angeles-city-cities-v2.webp"
-},
+    name: { de: "Angeles City", hu: "Angeles City", ro: "Angeles City", en: "Angeles City"},
+    image: "/poi-images/ph-angeles-city-cities-v2.webp",
     description: {
       de: "Eine blühende Stadt in Pampanga, die für ihre lebhafte Unterhaltungsszene und Gastronomie bekannt ist.",
       hu: "Virágzó város Pampangában, amely élénk szórakoztatóiparáról és gasztronómiájáról ismert.",
@@ -798,9 +774,8 @@ image: "/poi-images/ph-angeles-city-cities-v2.webp"
     type: "city",
     parent: "PH-CEB",
     coords: [123.9494, 10.3103],
-    name: { de: "Lapu-Lapu City", hu: "Lapu-Lapu City", ro: "Lapu-Lapu City", en: "Lapu-Lapu City",
-image: "/poi-images/ph-lapu-lapu-city-cities-v2.webp"
-},
+    name: { de: "Lapu-Lapu City", hu: "Lapu-Lapu City", ro: "Lapu-Lapu City", en: "Lapu-Lapu City"},
+    image: "/poi-images/ph-lapu-lapu-city-cities-v2.webp",
     description: {
       de: "Eine Stadt auf der Insel Mactan, die zahlreiche Resorts, Strände und den zweitgrößten Flughafen des Landes bietet.",
       hu: "Város a Mactan-szigeten, amely számos üdülőhellyel, stranddal és az ország második legnagyobb repülőterével rendelkezik.",
@@ -831,9 +806,8 @@ image: "/poi-images/ph-lapu-lapu-city-cities-v2.webp"
     type: "city",
     parent: "PH-CAV",
     coords: [120.9367, 14.4297],
-    name: { de: "Imus", hu: "Imus", ro: "Imus", en: "Imus",
-image: "/poi-images/ph-imus-cities-v2.webp"
-},
+    name: { de: "Imus", hu: "Imus", ro: "Imus", en: "Imus"},
+    image: "/poi-images/ph-imus-cities-v2.webp",
     description: {
       de: "Eine historische Stadt, die eine zentrale Rolle während der Philippinischen Revolution spielte.",
       hu: "Történelmi város, amely központi szerepet játszott a fülöp-szigeteki forradalom idején.",
@@ -864,9 +838,8 @@ image: "/poi-images/ph-imus-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [121.0333, 14.5833],
-    name: { de: "Mandaluyong", hu: "Mandaluyong", ro: "Mandaluyong", en: "Mandaluyong",
-image: "/poi-images/ph-mandaluyong-cities-v2.webp"
-},
+    name: { de: "Mandaluyong", hu: "Mandaluyong", ro: "Mandaluyong", en: "Mandaluyong"},
+    image: "/poi-images/ph-mandaluyong-cities-v2.webp",
     description: {
       de: "Ein bedeutendes Geschäfts- und Handelszentrum in Metro Manila, in dem zahlreiche Einkaufszentren stehen.",
       hu: "Jelentős üzleti és kereskedelmi központ Metro Manilában, ahol számos bevásárlóközpont található.",
@@ -897,9 +870,8 @@ image: "/poi-images/ph-mandaluyong-cities-v2.webp"
     type: "city",
     parent: "PH-00",
     coords: [120.9500, 14.6667],
-    name: { de: "Malabon", hu: "Malabon", ro: "Malabon", en: "Malabon",
-image: "/poi-images/ph-malabon-cities-v2.webp"
-},
+    name: { de: "Malabon", hu: "Malabon", ro: "Malabon", en: "Malabon"},
+    image: "/poi-images/ph-malabon-cities-v2.webp",
     description: {
       de: "Eine küstennahe Stadt im Norden von Manila, die für ihre lokalen Delikatessen und traditionellen Häuser bekannt ist.",
       hu: "Part menti város Manilától északra, amely helyi finomságairól és hagyományos házairól ismert.",
@@ -930,9 +902,8 @@ image: "/poi-images/ph-malabon-cities-v2.webp"
     type: "city",
     parent: "PH-CEB",
     coords: [123.9333, 10.3333],
-    name: { de: "Mandaue", hu: "Mandaue", ro: "Mandaue", en: "Mandaue",
-image: "/poi-images/ph-mandaue-cities-v2.webp"
-},
+    name: { de: "Mandaue", hu: "Mandaue", ro: "Mandaue", en: "Mandaue"},
+    image: "/poi-images/ph-mandaue-cities-v2.webp",
     description: {
       de: "Eine stark industrialisierte Stadt, die als Möbelhauptstadt der Philippinen gilt.",
       hu: "Erősen iparosodott város, amelyet a Fülöp-szigetek bútorfővárosaként tartanak számon.",
@@ -963,9 +934,8 @@ image: "/poi-images/ph-mandaue-cities-v2.webp"
     type: "city",
     parent: "PH-BEN",
     coords: [120.5960, 16.4164],
-    name: { de: "Baguio", hu: "Baguio", ro: "Baguio", en: "Baguio",
-image: "/poi-images/ph-baguio-cities-v2.webp"
-},
+    name: { de: "Baguio", hu: "Baguio", ro: "Baguio", en: "Baguio"},
+    image: "/poi-images/ph-baguio-cities-v2.webp",
     description: {
       de: "Eine Bergstadt in der Provinz Benguet, die aufgrund ihres kühlen Klimas als Sommerhauptstadt dient.",
       hu: "Hegyvidéki város Benguet tartományban, amely hűvös éghajlata miatt nyári fővárosként szolgál.",

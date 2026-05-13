@@ -11,9 +11,8 @@ export const poiExtraUruguayNatureV2: POI[] = [
       de: "Río Uruguay",
       hu: "Uruguay folyó",
       ro: "Râul Uruguay",
-      en: "Uruguay River",
-image: "/poi-images/rio-uruguay-nature-v2.webp"
-},
+      en: "Uruguay River"},
+    image: "/poi-images/rio-uruguay-nature-v2.webp",
     description: {
       de: "Einer der wichtigsten Flüsse Südamerikas, der die natürliche Grenze zwischen Uruguay und Argentinien bildet.",
       hu: "Dél-Amerika egyik legfontosabb folyója, amely természetes határt képez Uruguay és Argentína között.",
@@ -50,9 +49,8 @@ image: "/poi-images/rio-uruguay-nature-v2.webp"
       de: "Río Negro",
       hu: "Río Negro",
       ro: "Río Negro",
-      en: "Río Negro",
-image: "/poi-images/rio-negro-uy-nature-v2.webp"
-},
+      en: "Río Negro"},
+    image: "/poi-images/rio-negro-uy-nature-v2.webp",
     description: {
       de: "Der wichtigste Fluss im Landesinneren von Uruguay, der das Land von Ost nach West durchquert.",
       hu: "Uruguay legfontosabb belföldi folyója, amely keletről nyugatra szeli át az országot.",
@@ -89,9 +87,8 @@ image: "/poi-images/rio-negro-uy-nature-v2.webp"
       de: "Río de la Plata",
       hu: "Río de la Plata",
       ro: "Río de la Plata",
-      en: "Río de la Plata",
-image: "/poi-images/rio-de-la-plata-nature-v2.webp"
-},
+      en: "Río de la Plata"},
+    image: "/poi-images/rio-de-la-plata-nature-v2.webp",
     description: {
       de: "Das Mündungsgebiet des Río Paraná und des Río Uruguay in den Atlantischen Ozean.",
       hu: "A Paraná és az Uruguay folyók hatalmas tölcsértorkolata, amely az Atlanti-óceánba ömlik.",
@@ -128,9 +125,8 @@ image: "/poi-images/rio-de-la-plata-nature-v2.webp"
       de: "Laguna Merín",
       hu: "Mirim-lagúna",
       ro: "Laguna Merín",
-      en: "Laguna Merín",
-image: "/poi-images/laguna-merin-nature-v2.webp"
-},
+      en: "Laguna Merín"},
+    image: "/poi-images/laguna-merin-nature-v2.webp",
     description: {
       de: "Ein großer Süßwassersee an der Grenze zwischen Brasilien und dem Osten Uruguays.",
       hu: "Egy nagy édesvízi tó Brazília és Kelet-Uruguay határán.",
@@ -167,9 +163,8 @@ image: "/poi-images/laguna-merin-nature-v2.webp"
       de: "Cerro Catedral",
       hu: "Cerro Catedral",
       ro: "Cerro Catedral",
-      en: "Cerro Catedral",
-image: "/poi-images/cerro-catedral-uy-nature-v2.webp"
-},
+      en: "Cerro Catedral"},
+    image: "/poi-images/cerro-catedral-uy-nature-v2.webp",
     description: {
       de: "Der höchste Punkt Uruguays, gelegen in der Hügelkette Sierra Carapé im Departamento Maldonado.",
       hu: "Uruguay legmagasabb pontja, amely a Maldonado megyei Sierra Carapé hegyláncban található.",
@@ -206,9 +201,8 @@ image: "/poi-images/cerro-catedral-uy-nature-v2.webp"
       de: "Cerro Pan de Azúcar",
       hu: "Cerro Pan de Azúcar",
       ro: "Cerro Pan de Azúcar",
-      en: "Cerro Pan de Azúcar",
-image: "/poi-images/cerro-pan-de-azucar-nature-v2.webp"
-},
+      en: "Cerro Pan de Azúcar"},
+    image: "/poi-images/cerro-pan-de-azucar-nature-v2.webp",
     description: {
       de: "Einer der dritthöchsten Hügel in Uruguay mit einem großen Betonkreuz auf dem Gipfel.",
       hu: "Uruguay harmadik legmagasabb hegye, amelynek csúcsán egy nagy betonkereszt áll.",
@@ -245,9 +239,8 @@ image: "/poi-images/cerro-pan-de-azucar-nature-v2.webp"
       de: "Cerro de las Ánimas",
       hu: "Cerro de las Ánimas",
       ro: "Cerro de las Ánimas",
-      en: "Cerro de las Ánimas",
-image: "/poi-images/cerro-de-las-animas-nature-v2.webp"
-},
+      en: "Cerro de las Ánimas"},
+    image: "/poi-images/cerro-de-las-animas-nature-v2.webp",
     description: {
       de: "Der zweithöchste Punkt in Uruguay, der eine weite Aussicht auf die umgebende Landschaft bietet.",
       hu: "Uruguay második legmagasabb pontja, ahonnan széles kilátás nyílik a környező tájra.",
@@ -284,9 +277,8 @@ image: "/poi-images/cerro-de-las-animas-nature-v2.webp"
       de: "Cerro Arequita",
       hu: "Cerro Arequita",
       ro: "Cerro Arequita",
-      en: "Cerro Arequita",
-image: "/poi-images/cerro-arequita-nature-v2.webp"
-},
+      en: "Cerro Arequita"},
+    image: "/poi-images/cerro-arequita-nature-v2.webp",
     description: {
       de: "Eine beeindruckende vulkanische Felsformation, die für ihre Höhlen und den umliegenden Ombu-Wald bekannt ist.",
       hu: "Látványos vulkáni sziklaalakzat, amely barlangjairól és a környező ombuerdőről ismert.",
@@ -323,9 +315,8 @@ image: "/poi-images/cerro-arequita-nature-v2.webp"
       de: "Isla de Lobos",
       hu: "Isla de Lobos",
       ro: "Isla de Lobos",
-      en: "Isla de Lobos",
-image: "/poi-images/isla-de-lobos-nature-v2.webp"
-},
+      en: "Isla de Lobos"},
+    image: "/poi-images/isla-de-lobos-nature-v2.webp",
     description: {
       de: "Eine felsige Insel vor der Küste von Punta del Este, auf der die größte Seelöwenkolonie Südamerikas lebt.",
       hu: "Sziklás sziget Punta del Este partjainál, amely Dél-Amerika legnagyobb oroszlánfóka-kolóniájának ad otthont.",
@@ -362,9 +353,8 @@ image: "/poi-images/isla-de-lobos-nature-v2.webp"
       de: "Isla Gorriti",
       hu: "Gorriti-sziget",
       ro: "Insula Gorriti",
-      en: "Gorriti Island",
-image: "/poi-images/isla-gorriti-nature-v2.webp"
-},
+      en: "Gorriti Island"},
+    image: "/poi-images/isla-gorriti-nature-v2.webp",
     description: {
       de: "Eine bewaldete Insel vor der Küste von Punta del Este, die für ihre Strände und historischen Ruinen bekannt ist.",
       hu: "Erdős sziget Punta del Este partjainál, amely strandjairól és történelmi romjairól ismert.",
@@ -401,9 +391,8 @@ image: "/poi-images/isla-gorriti-nature-v2.webp"
       de: "Laguna de Rocha",
       hu: "Rocha-lagúna",
       ro: "Laguna de Rocha",
-      en: "Laguna de Rocha",
-image: "/poi-images/laguna-de-rocha-nature-v2.webp"
-},
+      en: "Laguna de Rocha"},
+    image: "/poi-images/laguna-de-rocha-nature-v2.webp",
     description: {
       de: "Ein geschütztes Gewässer nahe dem Atlantik, das ein bedeutender Lebensraum für viele Vogelarten ist.",
       hu: "Védett vízterület az Atlanti-óceán közelében, amely számos madárfaj fontos élőhelye.",
@@ -440,9 +429,8 @@ image: "/poi-images/laguna-de-rocha-nature-v2.webp"
       de: "Laguna de Castillos",
       hu: "Castillos-lagúna",
       ro: "Laguna de Castillos",
-      en: "Laguna de Castillos",
-image: "/poi-images/laguna-de-castillos-nature-v2.webp"
-},
+      en: "Laguna de Castillos"},
+    image: "/poi-images/laguna-de-castillos-nature-v2.webp",
     description: {
       de: "Ein flacher See umgeben von Palmenwäldern, der als wichtiger Zufluchtsort für Zugvögel dient.",
       hu: "Pálmaerdőkkel körülvett sekély vizű tó, amely a vándormadarak fontos menedékhelye.",
@@ -481,9 +469,8 @@ image: "/poi-images/laguna-de-castillos-nature-v2.webp"
       de: "Laguna del Sauce",
       hu: "Sauce-lagúna",
       ro: "Laguna del Sauce",
-      en: "Laguna del Sauce",
-image: "/poi-images/laguna-del-sauce-nature-v2.webp"
-},
+      en: "Laguna del Sauce"},
+    image: "/poi-images/laguna-del-sauce-nature-v2.webp",
     description: {
       de: "Das größte Wasserreservoir im Departamento Maldonado, das auch für Wassersport sehr beliebt ist.",
       hu: "Maldonado megye legnagyobb víztározója, amely nagyon népszerű a vízi sportok kedvelői körében is.",
@@ -520,9 +507,8 @@ image: "/poi-images/laguna-del-sauce-nature-v2.webp"
       de: "Laguna Garzón",
       hu: "Garzón-lagúna",
       ro: "Laguna Garzón",
-      en: "Laguna Garzón",
-image: "/poi-images/laguna-garzon-nature-v2.webp"
-},
+      en: "Laguna Garzón"},
+    image: "/poi-images/laguna-garzon-nature-v2.webp",
     description: {
       de: "Eine malerische Lagune, die durch eine ungewöhnliche Ringbrücke überquert wird und Naturschutzgebiet ist.",
       hu: "Festői lagúna, amelyet egy szokatlan kör alakú híd ível át, és amely természetvédelmi terület.",
@@ -559,9 +545,8 @@ image: "/poi-images/laguna-garzon-nature-v2.webp"
       de: "Laguna José Ignacio",
       hu: "José Ignacio-lagúna",
       ro: "Laguna José Ignacio",
-      en: "Laguna José Ignacio",
-image: "/poi-images/laguna-jose-ignacio-nature-v2.webp"
-},
+      en: "Laguna José Ignacio"},
+    image: "/poi-images/laguna-jose-ignacio-nature-v2.webp",
     description: {
       de: "Eine friedliche Küstenlagune nahe dem gleichnamigen Dorf, ein beliebtes Ziel für Vogelbeobachtungen.",
       hu: "Békés part menti lagúna a hasonló nevű falu közelében, amely a madármegfigyelők kedvelt célpontja.",
@@ -598,9 +583,8 @@ image: "/poi-images/laguna-jose-ignacio-nature-v2.webp"
       de: "Río Yí",
       hu: "Yí folyó",
       ro: "Râul Yí",
-      en: "Yí River",
-image: "/poi-images/rio-yi-nature-v2.webp"
-},
+      en: "Yí River"},
+    image: "/poi-images/rio-yi-nature-v2.webp",
     description: {
       de: "Ein bedeutender Nebenfluss des Río Negro, der durch das Zentrum Uruguays fließt.",
       hu: "A Río Negro egyik jelentős mellékfolyója, amely Uruguay középső részén folyik keresztül.",
@@ -637,9 +621,8 @@ image: "/poi-images/rio-yi-nature-v2.webp"
       de: "Río Tacuarembó",
       hu: "Tacuarembó folyó",
       ro: "Râul Tacuarembó",
-      en: "Tacuarembó River",
-image: "/poi-images/rio-tacuarembo-nature-v2.webp"
-},
+      en: "Tacuarembó River"},
+    image: "/poi-images/rio-tacuarembo-nature-v2.webp",
     description: {
       de: "Ein wichtiger Fluss im Norden Uruguays, der in den Río Negro mündet.",
       hu: "Fontos folyó Észak-Uruguayban, amely a Río Negróba torkollik.",
@@ -676,9 +659,8 @@ image: "/poi-images/rio-tacuarembo-nature-v2.webp"
       de: "Río Arapey",
       hu: "Arapey folyó",
       ro: "Râul Arapey",
-      en: "Arapey River",
-image: "/poi-images/rio-arapey-nature-v2.webp"
-},
+      en: "Arapey River"},
+    image: "/poi-images/rio-arapey-nature-v2.webp",
     description: {
       de: "Ein Fluss im Norden Uruguays, an dessen Ufern heiße Quellen entspringen.",
       hu: "Észak-Uruguayi folyó, amelynek partjainál hőforrások fakadnak.",
@@ -715,9 +697,8 @@ image: "/poi-images/rio-arapey-nature-v2.webp"
       de: "Río Daymán",
       hu: "Daymán folyó",
       ro: "Râul Daymán",
-      en: "Daymán River",
-image: "/poi-images/rio-dayman-nature-v2.webp"
-},
+      en: "Daymán River"},
+    image: "/poi-images/rio-dayman-nature-v2.webp",
     description: {
       de: "Ein Fluss, der die Grenze zwischen den Departamentos Salto und Paysandú bildet.",
       hu: "Folyó, amely határt képez Salto és Paysandú megyék között.",
@@ -754,9 +735,8 @@ image: "/poi-images/rio-dayman-nature-v2.webp"
       de: "Río Queguay",
       hu: "Queguay folyó",
       ro: "Râul Queguay",
-      en: "Queguay River",
-image: "/poi-images/rio-queguay-nature-v2.webp"
-},
+      en: "Queguay River"},
+    image: "/poi-images/rio-queguay-nature-v2.webp",
     description: {
       de: "Ein Zufluss des Río Uruguay, der von dichten Galeriewäldern gesäumt wird.",
       hu: "Az Uruguay folyó mellékfolyója, amelyet sűrű galériaerdők szegélyeznek.",
@@ -793,9 +773,8 @@ image: "/poi-images/rio-queguay-nature-v2.webp"
       de: "Río Cebollatí",
       hu: "Cebollatí folyó",
       ro: "Râul Cebollatí",
-      en: "Cebollatí River",
-image: "/poi-images/rio-cebollati-nature-v2.webp"
-},
+      en: "Cebollatí River"},
+    image: "/poi-images/rio-cebollati-nature-v2.webp",
     description: {
       de: "Einer der längsten Flüsse Uruguays, der in die Laguna Merín mündet.",
       hu: "Uruguay egyik leghosszabb folyója, amely a Mirim-lagúnába torkollik.",
@@ -832,9 +811,8 @@ image: "/poi-images/rio-cebollati-nature-v2.webp"
       de: "Río Santa Lucía",
       hu: "Santa Lucía folyó",
       ro: "Râul Santa Lucía",
-      en: "Santa Lucía River",
-image: "/poi-images/rio-santa-lucia-nature-v2.webp"
-},
+      en: "Santa Lucía River"},
+    image: "/poi-images/rio-santa-lucia-nature-v2.webp",
     description: {
       de: "Ein Fluss, der die Hauptwasserquelle für die Metropolregion Montevideo darstellt.",
       hu: "Egy folyó, amely a montevideói metropolisz térség fő vízforrása.",
@@ -871,9 +849,8 @@ image: "/poi-images/rio-santa-lucia-nature-v2.webp"
       de: "Río Cuareim",
       hu: "Cuareim folyó",
       ro: "Râul Cuareim",
-      en: "Cuareim River",
-image: "/poi-images/rio-cuareim-nature-v2.webp"
-},
+      en: "Cuareim River"},
+    image: "/poi-images/rio-cuareim-nature-v2.webp",
     description: {
       de: "Ein Fluss im Norden Uruguays, der einen Teil der Grenze zu Brasilien markiert.",
       hu: "Folyó Észak-Uruguayban, amely a Brazíliával közös határ egy részét jelöli.",
@@ -910,9 +887,8 @@ image: "/poi-images/rio-cuareim-nature-v2.webp"
       de: "Arroyo Solís Grande",
       hu: "Arroyo Solís Grande",
       ro: "Arroyo Solís Grande",
-      en: "Arroyo Solís Grande",
-image: "/poi-images/arroyo-solis-grande-nature-v2.webp"
-},
+      en: "Arroyo Solís Grande"},
+    image: "/poi-images/arroyo-solis-grande-nature-v2.webp",
     description: {
       de: "Ein breiter Bach, der in das Ästuar des Río de la Plata mündet und oft für den Wassersport genutzt wird.",
       hu: "Egy széles patak, amely a Río de la Plata tölcsértorkolatába ömlik, és gyakran használják vízi sportokra.",
@@ -949,9 +925,8 @@ image: "/poi-images/arroyo-solis-grande-nature-v2.webp"
       de: "Quebrada de los Cuervos",
       hu: "Quebrada de los Cuervos",
       ro: "Quebrada de los Cuervos",
-      en: "Quebrada de los Cuervos",
-image: "/poi-images/quebrada-de-los-cuervos-nature-v2.webp"
-},
+      en: "Quebrada de los Cuervos"},
+    image: "/poi-images/quebrada-de-los-cuervos-nature-v2.webp",
     description: {
       de: "Eine beeindruckende Schlucht in den Hügeln von Treinta y Tres, bekannt für ihre dichte Vegetation.",
       hu: "Lenyűgöző szurdok Treinta y Tres hegyvidékén, amely sűrű növényzetéről ismert.",
@@ -988,9 +963,8 @@ image: "/poi-images/quebrada-de-los-cuervos-nature-v2.webp"
       de: "Valle del Lunarejo",
       hu: "Lunarejo-völgy",
       ro: "Valea Lunarejo",
-      en: "Lunarejo Valley",
-image: "/poi-images/valle-del-lunarejo-nature-v2.webp"
-},
+      en: "Lunarejo Valley"},
+    image: "/poi-images/valle-del-lunarejo-nature-v2.webp",
     description: {
       de: "Ein Biosphärenreservat im Norden, das durch tiefe Täler, Wasserfälle und üppige Wälder geprägt ist.",
       hu: "Északi bioszféra-rezervátum, amelyet mély völgyek, vízesések és buja erdők jellemeznek.",
@@ -1027,9 +1001,8 @@ image: "/poi-images/valle-del-lunarejo-nature-v2.webp"
       de: "Cerro San Antonio",
       hu: "San Antonio-hegy",
       ro: "Dealul San Antonio",
-      en: "San Antonio Hill",
-image: "/poi-images/cerro-san-antonio-nature-v2.webp"
-},
+      en: "San Antonio Hill"},
+    image: "/poi-images/cerro-san-antonio-nature-v2.webp",
     description: {
       de: "Ein markanter Hügel in der Nähe von Piriápolis, der einen herrlichen Blick auf die Küste bietet.",
       hu: "Jelentős domb Piriápolis közelében, ahonnan csodálatos kilátás nyílik a tengerpartra.",
@@ -1066,9 +1039,8 @@ image: "/poi-images/cerro-san-antonio-nature-v2.webp"
       de: "Cerro del Toro",
       hu: "Cerro del Toro",
       ro: "Cerro del Toro",
-      en: "Cerro del Toro",
-image: "/poi-images/cerro-del-toro-nature-v2.webp"
-},
+      en: "Cerro del Toro"},
+    image: "/poi-images/cerro-del-toro-nature-v2.webp",
     description: {
       de: "Ein Berg bei Piriápolis mit einer berühmten Bronzestatue eines Stiers, aus dessen Maul Wasser sprudelt.",
       hu: "Hegy Piriápolis közelében, amelynek híres bronz bika szobra van, amelynek szájából víz fakad.",
@@ -1105,9 +1077,8 @@ image: "/poi-images/cerro-del-toro-nature-v2.webp"
       de: "Isla de las Gaviotas",
       hu: "Isla de las Gaviotas",
       ro: "Isla de las Gaviotas",
-      en: "Isla de las Gaviotas",
-image: "/poi-images/isla-de-las-gaviotas-nature-v2.webp"
-},
+      en: "Isla de las Gaviotas"},
+    image: "/poi-images/isla-de-las-gaviotas-nature-v2.webp",
     description: {
       de: "Eine kleine Felseninsel vor dem Strand von Malvín in Montevideo, die von Seevögeln bewohnt wird.",
       hu: "Kis sziklás sziget Montevideo Malvín nevű strandja előtt, amelyet tengeri madarak népesítenek be.",
@@ -1144,9 +1115,8 @@ image: "/poi-images/isla-de-las-gaviotas-nature-v2.webp"
       de: "Montes del Queguay",
       hu: "Queguay-erdők",
       ro: "Pădurile Queguay",
-      en: "Montes del Queguay",
-image: "/poi-images/montes-del-queguay-nature-v2.webp"
-},
+      en: "Montes del Queguay"},
+    image: "/poi-images/montes-del-queguay-nature-v2.webp",
     description: {
       de: "Das größte erhaltene Waldgebiet Uruguays, das entlang des Río Queguay verläuft.",
       hu: "Uruguay legnagyobb fennmaradt erdősége, amely a Queguay folyó mentén húzódik.",

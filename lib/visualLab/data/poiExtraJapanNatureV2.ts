@@ -12,9 +12,8 @@ export const poiExtraJapanNatureV2: POI[] = [
       de: "Fuji-Hakone-Izu-Nationalpark",
       hu: "Fuji-Hakone-Izu Nemzeti Park",
       ro: "Parcul Național Fuji-Hakone-Izu",
-      en: "Fuji-Hakone-Izu National Park",
-image: "/poi-images/jp-fuji-hakone-izu-national-park-nature-v2.webp"
-},
+      en: "Fuji-Hakone-Izu National Park"},
+    image: "/poi-images/jp-fuji-hakone-izu-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der den Berg Fuji, die Fünf Fuji-Seen, Hakone, die Izu-Halbinsel und die Izu-Inseln umfasst.",
       hu: "Egy nemzeti park, amely magában foglalja a Fuji-hegyet, a Fuji öt tavát, Hakonét, az Izu-félszigetet és az Izu-szigeteket.",
@@ -48,9 +47,8 @@ image: "/poi-images/jp-fuji-hakone-izu-national-park-nature-v2.webp"
       de: "Biwa-See",
       hu: "Biva-tó",
       ro: "Lacul Biwa",
-      en: "Lake Biwa",
-image: "/poi-images/jp-biwa-see-nature-v2.webp"
-},
+      en: "Lake Biwa"},
+    image: "/poi-images/jp-biwa-see-nature-v2.webp",
     description: {
       de: "Der größte Süßwassersee Japans, in der Präfektur Shiga gelegen.",
       hu: "Japán legnagyobb édesvizű tava, a Shiga prefektúrában található.",
@@ -84,9 +82,8 @@ image: "/poi-images/jp-biwa-see-nature-v2.webp"
       de: "Shinano",
       hu: "Shinano",
       ro: "Râul Shinano",
-      en: "Shinano River",
-image: "/poi-images/jp-shinano-fluss-nature-v2.webp"
-},
+      en: "Shinano River"},
+    image: "/poi-images/jp-shinano-fluss-nature-v2.webp",
     description: {
       de: "Der längste und breiteste Fluss Japans, der durch die Präfekturen Nagano und Niigata fließt.",
       hu: "Japán leghosszabb és legszélesebb folyója, amely Nagano és Niigata prefektúrákon folyik keresztül.",
@@ -120,9 +117,8 @@ image: "/poi-images/jp-shinano-fluss-nature-v2.webp"
       de: "Aso-Kujū-Nationalpark",
       hu: "Aso-Kujū Nemzeti Park",
       ro: "Parcul Național Aso-Kujū",
-      en: "Aso-Kujū National Park",
-image: "/poi-images/jp-aso-kuju-nationalpark-nature-v2.webp"
-},
+      en: "Aso-Kujū National Park"},
+    image: "/poi-images/jp-aso-kuju-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in den Präfekturen Kumamoto und Ōita mit dem aktiven Vulkan Aso und dem Kujū-Gebirge.",
       hu: "Egy nemzeti park Kumamoto és Ōita prefektúrákban, amely az aktív Aso vulkánt és a Kujū-hegységet foglalja magában.",
@@ -156,9 +152,8 @@ image: "/poi-images/jp-aso-kuju-nationalpark-nature-v2.webp"
       de: "Kita",
       hu: "Kita-hegy",
       ro: "Muntele Kita",
-      en: "Mount Kita",
-image: "/poi-images/jp-berg-kita-nature-v2.webp"
-},
+      en: "Mount Kita"},
+    image: "/poi-images/jp-berg-kita-nature-v2.webp",
     description: {
       de: "Der zweithöchste Berg Japans nach dem Fuji, im Akaishi-Gebirge gelegen.",
       hu: "Japán második legmagasabb hegye a Fuji után, az Akaishi-hegységben található.",
@@ -192,9 +187,8 @@ image: "/poi-images/jp-berg-kita-nature-v2.webp"
       de: "Wald von Yakushima",
       hu: "Yakushima erdő",
       ro: "Pădurea Yakushima",
-      en: "Yakushima Forest",
-image: "/poi-images/jp-yakushima-wald-nature-v2.webp"
-},
+      en: "Yakushima Forest"},
+    image: "/poi-images/jp-yakushima-wald-nature-v2.webp",
     description: {
       de: "Ein subtropischer Wald auf der Insel Yakushima, bekannt für seine alten Zedern, die Yakusugi genannt werden.",
       hu: "Szubtrópusi erdő Yakushima szigetén, amely ősi cédrusfáiról, a Yakusugiról ismert.",
@@ -228,9 +222,8 @@ image: "/poi-images/jp-yakushima-wald-nature-v2.webp"
       de: "Towada-See",
       hu: "Towada-tó",
       ro: "Lacul Towada",
-      en: "Lake Towada",
-image: "/poi-images/jp-towada-see-nature-v2.webp"
-},
+      en: "Lake Towada"},
+    image: "/poi-images/jp-towada-see-nature-v2.webp",
     description: {
       de: "Der größte Kratersee auf der Insel Honshū, an der Grenze zwischen den Präfekturen Aomori und Akita gelegen.",
       hu: "A Honshū sziget legnagyobb krátertava, Aomori és Akita prefektúrák határán.",
@@ -264,9 +257,8 @@ image: "/poi-images/jp-towada-see-nature-v2.webp"
       de: "Chūbu-Sangaku-Nationalpark",
       hu: "Chūbu-Sangaku Nemzeti Park",
       ro: "Parcul Național Chūbu-Sangaku",
-      en: "Chūbu-Sangaku National Park",
-image: "/poi-images/jp-chubu-sangaku-nationalpark-nature-v2.webp"
-},
+      en: "Chūbu-Sangaku National Park"},
+    image: "/poi-images/jp-chubu-sangaku-nationalpark-nature-v2.webp",
     description: {
       de: "Umfasst das Hida-Gebirge oder die Nordalpen und ist bekannt für seine dramatischen Gipfel und Täler.",
       hu: "Magában foglalja a Hida-hegységet vagy az Északi-Alpokat, és drámai csúcsairól és völgyeiről ismert.",
@@ -300,9 +292,8 @@ image: "/poi-images/jp-chubu-sangaku-nationalpark-nature-v2.webp"
       de: "Asahi",
       hu: "Asahi-hegy",
       ro: "Muntele Asahi",
-      en: "Mount Asahi",
-image: "/poi-images/jp-berg-asahi-nature-v2.webp"
-},
+      en: "Mount Asahi"},
+    image: "/poi-images/jp-berg-asahi-nature-v2.webp",
     description: {
       de: "Der höchste Berg in Hokkaidō, Teil des Daisetsuzan-Vulkankomplexes.",
       hu: "Hokkaidō legmagasabb hegye, a Daisetsuzan vulkáni komplexum része.",
@@ -336,9 +327,8 @@ image: "/poi-images/jp-berg-asahi-nature-v2.webp"
       de: "Shikotsu-Tōya-Nationalpark",
       hu: "Shikotsu-Tōya Nemzeti Park",
       ro: "Parcul Național Shikotsu-Tōya",
-      en: "Shikotsu-Tōya National Park",
-image: "/poi-images/jp-shikotsu-toya-nationalpark-nature-v2.webp"
-},
+      en: "Shikotsu-Tōya National Park"},
+    image: "/poi-images/jp-shikotsu-toya-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in Hokkaidō, der nach den beiden Seen Shikotsu und Tōya benannt ist, die er umgibt.",
       hu: "Egy nemzeti park Hokkaidóban, amely a Shikotsu és Tōya tavakról kapta a nevét, amelyeket körülvesz.",
@@ -372,9 +362,8 @@ image: "/poi-images/jp-shikotsu-toya-nationalpark-nature-v2.webp"
       de: "Kiso",
       hu: "Kiso",
       ro: "Râul Kiso",
-      en: "Kiso River",
-image: "/poi-images/jp-kiso-fluss-nature-v2.webp"
-},
+      en: "Kiso River"},
+    image: "/poi-images/jp-kiso-fluss-nature-v2.webp",
     description: {
       de: "Ein großer Fluss in Zentraljapan, bekannt als der Rhein Japans wegen seiner malerischen Landschaft.",
       hu: "Egy nagy folyó Közép-Japánban, amelyet festői tája miatt Japán Rajnájának is neveznek.",
@@ -408,9 +397,8 @@ image: "/poi-images/jp-kiso-fluss-nature-v2.webp"
       de: "Nikkō-Nationalpark",
       hu: "Nikkō Nemzeti Park",
       ro: "Parcul Național Nikkō",
-      en: "Nikkō National Park",
-image: "/poi-images/jp-nikko-nationalpark-nature-v2.webp"
-},
+      en: "Nikkō National Park"},
+    image: "/poi-images/jp-nikko-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der für seine UNESCO-Welterbestätten, Berge, Seen, Wasserfälle und heißen Quellen bekannt ist.",
       hu: "Egy nemzeti park, amely az UNESCO Világörökség részét képező szentélyeiről, hegyeiről, tavairól, vízeséseiről és forró forrásairól ismert.",
@@ -444,9 +432,8 @@ image: "/poi-images/jp-nikko-nationalpark-nature-v2.webp"
       de: "Ontake",
       hu: "Ontake-hegy",
       ro: "Muntele Ontake",
-      en: "Mount Ontake",
-image: "/poi-images/jp-berg-ontake-nature-v2.webp"
-},
+      en: "Mount Ontake"},
+    image: "/poi-images/jp-berg-ontake-nature-v2.webp",
     description: {
       de: "Ein großer Stratovulkan und der zweithöchste Vulkan Japans. Er gilt als heiliger Berg.",
       hu: "Egy nagy sztratovulkán és Japán második legmagasabb vulkánja. Szent hegynek számít.",
@@ -480,9 +467,8 @@ image: "/poi-images/jp-berg-ontake-nature-v2.webp"
       de: "Aokigahara-Wald",
       hu: "Aokigahara-erdő",
       ro: "Pădurea Aokigahara",
-      en: "Aokigahara Forest",
-image: "/poi-images/jp-aokigahara-wald-nature-v2.webp"
-},
+      en: "Aokigahara Forest"},
+    image: "/poi-images/jp-aokigahara-wald-nature-v2.webp",
     description: {
       de: "Ein Wald am nordwestlichen Fuß des Fuji, bekannt für seine dichten Bäume und das Fehlen von Wildtieren.",
       hu: "Egy erdő a Fuji-hegy északnyugati lábánál, amely sűrű fáiról és a vadon élő állatok hiányáról ismert.",
@@ -516,9 +502,8 @@ image: "/poi-images/jp-aokigahara-wald-nature-v2.webp"
       de: "Chūzenji-See",
       hu: "Chūzenji-tó",
       ro: "Lacul Chūzenji",
-      en: "Lake Chūzenji",
-image: "/poi-images/jp-chuzenji-see-nature-v2.webp"
-},
+      en: "Lake Chūzenji"},
+    image: "/poi-images/jp-chuzenji-see-nature-v2.webp",
     description: {
       de: "Ein malerischer See im Nikkō-Nationalpark, der durch den Ausbruch des Berges Nantai entstanden ist.",
       hu: "Festői tó a Nikkō Nemzeti Parkban, amelyet a Nantai-hegy kitörése hozott létre.",
@@ -552,9 +537,8 @@ image: "/poi-images/jp-chuzenji-see-nature-v2.webp"
       de: "Yoshino-Kumano-Nationalpark",
       hu: "Yoshino-Kumano Nemzeti Park",
       ro: "Parcul Național Yoshino-Kumano",
-      en: "Yoshino-Kumano National Park",
-image: "/poi-images/jp-yoshino-kumano-nationalpark-nature-v2.webp"
-},
+      en: "Yoshino-Kumano National Park"},
+    image: "/poi-images/jp-yoshino-kumano-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der sich über die Präfekturen Mie, Nara und Wakayama erstreckt und für seine heiligen Stätten und Pilgerwege bekannt ist.",
       hu: "Egy nemzeti park, amely Mie, Nara és Wakayama prefektúrákon terül el, és szent helyeiről és zarándokútvonalairól ismert.",
@@ -588,9 +572,8 @@ image: "/poi-images/jp-yoshino-kumano-nationalpark-nature-v2.webp"
       de: "Ishikari",
       hu: "Ishikari",
       ro: "Râul Ishikari",
-      en: "Ishikari River",
-image: "/poi-images/jp-ishikari-fluss-nature-v2.webp"
-},
+      en: "Ishikari River"},
+    image: "/poi-images/jp-ishikari-fluss-nature-v2.webp",
     description: {
       de: "Der drittlängste Fluss Japans und der längste in Hokkaidō. Er ist bekannt für sein breites Überschwemmungsgebiet.",
       hu: "Japán harmadik leghosszabb folyója és a leghosszabb Hokkaidóban. Széles árteréről ismert.",
@@ -624,9 +607,8 @@ image: "/poi-images/jp-ishikari-fluss-nature-v2.webp"
       de: "Daisetsuzan-Nationalpark",
       hu: "Daisetsuzan Nemzeti Park",
       ro: "Parcul Național Daisetsuzan",
-      en: "Daisetsuzan National Park",
-image: "/poi-images/jp-daisetsuzan-nationalpark-nature-v2.webp"
-},
+      en: "Daisetsuzan National Park"},
+    image: "/poi-images/jp-daisetsuzan-nationalpark-nature-v2.webp",
     description: {
       de: "Der größte Nationalpark Japans, in Hokkaidō gelegen. Er ist bekannt für seine unberührte Wildnis und alpinen Landschaften.",
       hu: "Japán legnagyobb nemzeti parkja, Hokkaidóban található. Érintetlen vadonjáról és alpesi tájairól ismert.",
@@ -660,9 +642,8 @@ image: "/poi-images/jp-daisetsuzan-nationalpark-nature-v2.webp"
       de: "Yari",
       hu: "Yari-hegy",
       ro: "Muntele Yari",
-      en: "Mount Yari",
-image: "/poi-images/jp-berg-yari-nature-v2.webp"
-},
+      en: "Mount Yari"},
+    image: "/poi-images/jp-berg-yari-nature-v2.webp",
     description: {
       de: "Ein markanter Berg im Hida-Gebirge, bekannt für seine speerartige Form.",
       hu: "Egy jellegzetes hegy a Hida-hegységben, amely lándzsaszerű alakjáról ismert.",
@@ -696,9 +677,8 @@ image: "/poi-images/jp-berg-yari-nature-v2.webp"
       de: "Akan-Mashū-Nationalpark",
       hu: "Akan-Mashū Nemzeti Park",
       ro: "Parcul Național Akan-Mashū",
-      en: "Akan-Mashū National Park",
-image: "/poi-images/jp-akan-mashu-nationalpark-nature-v2.webp"
-},
+      en: "Akan-Mashū National Park"},
+    image: "/poi-images/jp-akan-mashu-nationalpark-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in Hokkaidō mit Vulkanen, Wäldern und drei spektakulären Seen: Akan, Mashū und Kussharo.",
       hu: "Egy nemzeti park Hokkaidóban, vulkánokkal, erdőkkel és három látványos tóval: Akan, Mashū és Kussharo.",

@@ -52,8 +52,8 @@ export function createPoiStructuredData(poi: POI, lang: Lang) {
     image: (() => { const s = getPoiImage(poi); return s ? absoluteUrl(s) : undefined; })(),
     geo: {
       "@type": "GeoCoordinates",
-      latitude: poi.coords[1],
-      longitude: poi.coords[0],
+      latitude: poi.coords![1],
+      longitude: poi.coords![0],
     },
     address: {
       "@type": "PostalAddress",

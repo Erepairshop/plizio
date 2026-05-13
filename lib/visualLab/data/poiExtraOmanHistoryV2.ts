@@ -6,9 +6,8 @@ export const poiExtraOmanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "OM-DA",
     coords: [57.2997, 22.9647],
-    name: { de: "Bahla Festung", hu: "Bahla erőd", ro: "Fortul Bahla", en: "Bahla Fort",
-image: "/poi-images/bahla-fort-history-v2.webp"
-},
+    name: { de: "Bahla Festung", hu: "Bahla erőd", ro: "Fortul Bahla", en: "Bahla Fort"},
+    image: "/poi-images/bahla-fort-history-v2.webp",
     description: {
       de: "Die Festung Bahla ist eine der ältesten Befestigungsanlagen im Oman und gehört seit 1987 zum UNESCO-Weltkulturerbe. Sie wurde zwischen dem 13. und 14. Jahrhundert von der Banu-Nebhan-Dynastie erbaut.",
       hu: "A Bahla erőd Omán egyik legrégebbi erődítménye, amely 1987 óta az UNESCO Világörökség része. A 13. és 14. század között építette a Banu-Nabhan dinasztia.",
@@ -39,9 +38,8 @@ image: "/poi-images/bahla-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-DA",
     coords: [57.5328, 22.9333],
-    name: { de: "Festung von Nizwa", hu: "Nizwai erőd", ro: "Fortul Nizwa", en: "Nizwa Fort",
-image: "/poi-images/nizwa-fort-history-v2.webp"
-},
+    name: { de: "Festung von Nizwa", hu: "Nizwai erőd", ro: "Fortul Nizwa", en: "Nizwa Fort"},
+    image: "/poi-images/nizwa-fort-history-v2.webp",
     description: {
       de: "Die Festung von Nizwa wurde im 17. Jahrhundert von Imam Sultan bin Saif Al Ya'arubi über einen Zeitraum von 12 Jahren erbaut. Ihr markantestes Merkmal ist der massive, 30 Meter hohe runde Hauptturm.",
       hu: "A nizwai erődöt a 17. században építette Szultán bin Szaif Al-Jaarubi imám, az építkezés 12 évig tartott. Legjellegzetesebb része a 30 méter magas, masszív, kerek főtorony.",
@@ -72,9 +70,8 @@ image: "/poi-images/nizwa-fort-history-v2.webp"
     type: "ruin",
     parent: "OM-ZA",
     coords: [56.7458, 23.2722],
-    name: { de: "Nekropolen von Bat", hu: "Bat nekropolisza", ro: "Necropola din Bat", en: "Bat Necropolis",
-image: "/poi-images/bat-al-khutm-al-ayn-history-v2.webp"
-},
+    name: { de: "Nekropolen von Bat", hu: "Bat nekropolisza", ro: "Necropola din Bat", en: "Bat Necropolis"},
+    image: "/poi-images/bat-al-khutm-al-ayn-history-v2.webp",
     description: {
       de: "Diese archäologischen Stätten enthalten Bienenkorbgräber, die aus dem 3. Jahrtausend v. Chr. stammen. Sie gehören zu den besterhaltenen bronzezeitlichen Siedlungs- und Grabstätten der Welt.",
       hu: "Ezek a régészeti lelőhelyek az i. e. 3. évezredből származó, méhkaptár alakú sírokat rejtenek. A világ legjobb állapotban fennmaradt bronzkori település- és temetkezési helyei közé tartoznak.",
@@ -105,9 +102,8 @@ image: "/poi-images/bat-al-khutm-al-ayn-history-v2.webp"
     type: "ruin",
     parent: "OM-DH",
     coords: [54.4344, 17.0388],
-    name: { de: "Sumhuram", hu: "Sumhuram", ro: "Sumhuram", en: "Sumhuram",
-image: "/poi-images/sumhuram-khor-rori-history-v2.webp"
-},
+    name: { de: "Sumhuram", hu: "Sumhuram", ro: "Sumhuram", en: "Sumhuram"},
+    image: "/poi-images/sumhuram-khor-rori-history-v2.webp",
     description: {
       de: "Sumhuram war eine befestigte Hafenstadt, die im 3. Jahrhundert v. Chr. gegründet wurde. Sie diente als einer der wichtigsten Seehäfen für den Export von Weihrauch nach Indien und in den Mittelmeerraum.",
       hu: "Sumhuram egy erődített kikötőváros volt, amelyet az i. e. 3. században alapítottak. Az Indiába és a Földközi-tenger vidékére irányuló tömjénkereskedelem egyik legfontosabb tengeri kikötőjeként szolgált.",
@@ -138,9 +134,8 @@ image: "/poi-images/sumhuram-khor-rori-history-v2.webp"
     type: "historical-site",
     parent: "OM-DH",
     coords: [54.1370, 17.0058],
-    name: { de: "Al Baleed", hu: "Al Baleed", ro: "Al Baleed", en: "Al Baleed",
-image: "/poi-images/al-baleed-archaeological-park-history-v2.webp"
-},
+    name: { de: "Al Baleed", hu: "Al Baleed", ro: "Al Baleed", en: "Al Baleed"},
+    image: "/poi-images/al-baleed-archaeological-park-history-v2.webp",
     description: {
       de: "Al Baleed ist die Ruinenstätte der antiken Hafenstadt Zafar, die im 8. Jahrhundert n. Chr. ihre Blütezeit erlebte. Sie war ein zentraler Handelsknotenpunkt für Weihrauch, Pferde und Gewürze.",
       hu: "Al Baleed az ősi Zafar kikötővárosának romterülete, amely az i. sz. 8. században élte virágkorát. A tömjén-, ló- és fűszerkereskedelem központi csomópontja volt.",
@@ -171,9 +166,8 @@ image: "/poi-images/al-baleed-archaeological-park-history-v2.webp"
     type: "historical-site",
     parent: "OM-DA",
     coords: [57.2483, 22.9150],
-    name: { de: "Schloss Jibreen", hu: "Jibreeni kastély", ro: "Castelul Jibreen", en: "Jibreen Castle",
-image: "/poi-images/jibreen-castle-history-v2.webp"
-},
+    name: { de: "Schloss Jibreen", hu: "Jibreeni kastély", ro: "Castelul Jibreen", en: "Jibreen Castle"},
+    image: "/poi-images/jibreen-castle-history-v2.webp",
     description: {
       de: "Das Schloss Jibreen wurde 1675 von Imam Bil'arab bin Sultan als Wohnsitz und Festung erbaut. Es ist berühmt für seine kunstvoll bemalten Holzdecken und seine komplexe architektonische Struktur.",
       hu: "A jibreeni kastélyt 1675-ben építette Bil'arab bin Szultán imám lakóhelyként és erődként. Híres gazdagon festett fa mennyezeteiről és bonyolult építészeti szerkezetéről.",
@@ -204,9 +198,8 @@ image: "/poi-images/jibreen-castle-history-v2.webp"
     type: "historical-site",
     parent: "OM-BJ",
     coords: [57.8288, 23.3950],
-    name: { de: "Festung Nakhal", hu: "Nakhali erőd", ro: "Fortul Nakhal", en: "Nakhal Fort",
-image: "/poi-images/nakhal-fort-history-v2.webp"
-},
+    name: { de: "Festung Nakhal", hu: "Nakhali erőd", ro: "Fortul Nakhal", en: "Nakhal Fort"},
+    image: "/poi-images/nakhal-fort-history-v2.webp",
     description: {
       de: "Die Festung Nakhal steht auf einem unregelmäßigen Felsvorsprung am Fuß des Dschebel Achdar. Ihre heutigen Strukturen stammen hauptsächlich aus dem Jahr 1834, unter der Herrschaft von Said bin Sultan.",
       hu: "A nakhali erőd egy szabálytalan sziklaszirten áll a Dzsebel-Ahdar lábánál. Jelenlegi szerkezete nagyrészt 1834-ből, Szaid bin Szultán uralkodásának idejéből származik.",
@@ -237,9 +230,8 @@ image: "/poi-images/nakhal-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-BJ",
     coords: [57.3986, 23.3911],
-    name: { de: "Festung Al Rustaq", hu: "Al Rustaq erőd", ro: "Fortul Al Rustaq", en: "Al Rustaq Fort",
-image: "/poi-images/al-rustaq-fort-history-v2.webp"
-},
+    name: { de: "Festung Al Rustaq", hu: "Al Rustaq erőd", ro: "Fortul Al Rustaq", en: "Al Rustaq Fort"},
+    image: "/poi-images/al-rustaq-fort-history-v2.webp",
     description: {
       de: "Die Festung Al Rustaq wurde im 13. Jahrhundert errichtet und später erweitert. Sie verfügt über vier markante Türme, wovon der höchste, Burj al-Majeel, über 20 Meter misst.",
       hu: "Az Al Rustaq erőd a 13. században épült, és később bővítették. Négy jellegzetes toronnyal rendelkezik, amelyek közül a legmagasabb, a Burdzs al-Mádzsil több mint 20 méter magas.",
@@ -270,9 +262,8 @@ image: "/poi-images/al-rustaq-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-MA",
     coords: [58.5986, 23.6169],
-    name: { de: "Fort Al Jalali", hu: "Al Jalali erőd", ro: "Fortul Al Jalali", en: "Al Jalali Fort",
-image: "/poi-images/al-jalali-fort-history-v2.webp"
-},
+    name: { de: "Fort Al Jalali", hu: "Al Jalali erőd", ro: "Fortul Al Jalali", en: "Al Jalali Fort"},
+    image: "/poi-images/al-jalali-fort-history-v2.webp",
     description: {
       de: "Das Fort Al Jalali wurde in den 1580er Jahren von den Portugiesen zur Verteidigung des Hafens von Maskat erbaut. Es diente im 20. Jahrhundert zeitweise als Hauptgefängnis des Landes.",
       hu: "Az Al Jalali erődöt az 1580-as években építették a portugálok Maszkat kikötőjének védelmére. A 20. században egy ideig az ország fő börtöneként működött.",
@@ -303,9 +294,8 @@ image: "/poi-images/al-jalali-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-MA",
     coords: [58.5936, 23.6175],
-    name: { de: "Fort Al Mirani", hu: "Al Mirani erőd", ro: "Fortul Al Mirani", en: "Al Mirani Fort",
-image: "/poi-images/al-mirani-fort-history-v2.webp"
-},
+    name: { de: "Fort Al Mirani", hu: "Al Mirani erőd", ro: "Fortul Al Mirani", en: "Al Mirani Fort"},
+    image: "/poi-images/al-mirani-fort-history-v2.webp",
     description: {
       de: "Das Fort Al Mirani befindet sich gegenüber von Al Jalali und wurde ebenfalls im späten 16. Jahrhundert von den Portugiesen vollendet. Es sicherte die strategische Kontrolle über den Golf von Oman.",
       hu: "Az Al Mirani erőd az Al Jalali-val szemben található, és szintén a 16. század végén fejezték be a portugálok. Stratégiai ellenőrzést biztosított az Ománi-öböl felett.",
@@ -336,9 +326,8 @@ image: "/poi-images/al-mirani-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-MA",
     coords: [58.5661, 23.6214],
-    name: { de: "Fort Muttrah", hu: "Muttrah erőd", ro: "Fortul Muttrah", en: "Muttrah Fort",
-image: "/poi-images/muttrah-fort-history-v2.webp"
-},
+    name: { de: "Fort Muttrah", hu: "Muttrah erőd", ro: "Fortul Muttrah", en: "Muttrah Fort"},
+    image: "/poi-images/muttrah-fort-history-v2.webp",
     description: {
       de: "Das Fort Muttrah thront über der Küstenstraße von Maskat und stammt aus dem Jahr 1507. Es wurde im 16. Jahrhundert von den Portugiesen mit drei runden Kanonentürmen ausgebaut.",
       hu: "A Muttrah erőd Maszkat tengerparti útja felett magasodik, és 1507-ből származik. A 16. században a portugálok három kerek ágyútoronnyal bővítették.",
@@ -369,9 +358,8 @@ image: "/poi-images/muttrah-fort-history-v2.webp"
     type: "ruin",
     parent: "OM-SJ",
     coords: [59.3736, 22.6975],
-    name: { de: "Antike Stadt Qalhat", hu: "Qalhat ősi városa", ro: "Orașul antic Qalhat", en: "Ancient City of Qalhat",
-image: "/poi-images/ancient-city-of-qalhat-history-v2.webp"
-},
+    name: { de: "Antike Stadt Qalhat", hu: "Qalhat ősi városa", ro: "Orașul antic Qalhat", en: "Ancient City of Qalhat"},
+    image: "/poi-images/ancient-city-of-qalhat-history-v2.webp",
     description: {
       de: "Qalhat war zwischen dem 11. und 15. Jahrhundert ein bedeutendes Handelszentrum, das vom Königreich Hormus kontrolliert wurde. Marco Polo und Ibn Battuta besuchten die Stadt und beschrieben ihren Reichtum.",
       hu: "Qalhat a 11. és 15. század között jelentős kereskedelmi központ volt, amelyet a Hormuzi Királyság irányított. Marco Polo és Ibn Battúta is meglátogatta a várost, és beszámolt gazdagságáról.",
@@ -402,9 +390,8 @@ image: "/poi-images/ancient-city-of-qalhat-history-v2.webp"
     type: "monument",
     parent: "OM-SJ",
     coords: [59.3734, 22.6972],
-    name: { de: "Mausoleum der Bibi Maryam", hu: "Bibi Marjam mauzóleuma", ro: "Mausoleul lui Bibi Maryam", en: "Tomb of Bibi Maryam",
-image: "/poi-images/tomb-of-bibi-maryam-history-v2.webp"
-},
+    name: { de: "Mausoleum der Bibi Maryam", hu: "Bibi Marjam mauzóleuma", ro: "Mausoleul lui Bibi Maryam", en: "Tomb of Bibi Maryam"},
+    image: "/poi-images/tomb-of-bibi-maryam-history-v2.webp",
     description: {
       de: "Das Mausoleum der Bibi Maryam ist das einzige Bauwerk der antiken Stadt Qalhat, das weitgehend intakt geblieben ist. Es wurde im 14. Jahrhundert von Baha al-Din Ayaz für seine Ehefrau errichtet.",
       hu: "Bibi Marjam mauzóleuma az ősi Qalhat városának egyetlen nagyrészt érintetlenül fennmaradt épülete. A 14. században építtette Baha al-Din Ajaz a felesége számára.",
@@ -435,9 +422,8 @@ image: "/poi-images/tomb-of-bibi-maryam-history-v2.webp"
     type: "ruin",
     parent: "OM-DH",
     coords: [53.6492, 18.2558],
-    name: { de: "Ubar (Shisr)", hu: "Ubar (Shisr)", ro: "Ubar (Shisr)", en: "Ubar (Shisr)",
-image: "/poi-images/ubar-shisr-history-v2.webp"
-},
+    name: { de: "Ubar (Shisr)", hu: "Ubar (Shisr)", ro: "Ubar (Shisr)", en: "Ubar (Shisr)"},
+    image: "/poi-images/ubar-shisr-history-v2.webp",
     description: {
       de: "Ubar, auch das 'Atlantis der Wüste' genannt, war eine legendäre Handelsstadt in der Region Dhofar. Ihre Überreste wurden 1992 mithilfe von Satellitenbildern unter dem Sand entdeckt.",
       hu: "A 'sivatag Atlantisza' néven is ismert Ubar egy legendás kereskedőváros volt a Dhofar régióban. Maradványait 1992-ben műholdképek segítségével fedezték fel a homok alatt.",
@@ -468,9 +454,8 @@ image: "/poi-images/ubar-shisr-history-v2.webp"
     type: "historical-site",
     parent: "OM-BJ",
     coords: [57.3242, 23.5303],
-    name: { de: "Schloss Al Hazm", hu: "Al Hazm kastély", ro: "Castelul Al Hazm", en: "Al Hazm Castle",
-image: "/poi-images/al-hazm-castle-history-v2.webp"
-},
+    name: { de: "Schloss Al Hazm", hu: "Al Hazm kastély", ro: "Castelul Al Hazm", en: "Al Hazm Castle"},
+    image: "/poi-images/al-hazm-castle-history-v2.webp",
     description: {
       de: "Das Schloss Al Hazm wurde 1711 erbaut und zeichnet sich durch seine massiven Holztore und das Fehlen von Holzsparren im Dach aus. Stattdessen werden die Decken durch massive Steingewölbe gestützt.",
       hu: "Az Al Hazm kastély 1711-ben épült, és masszív fa kapuival, valamint a tetőből hiányzó fa szarufákkal tűnik ki. A mennyezetet hatalmas kőboltozatok tartják.",
@@ -501,9 +486,8 @@ image: "/poi-images/al-hazm-castle-history-v2.webp"
     type: "ruin",
     parent: "OM-DH",
     coords: [55.2750, 17.4472],
-    name: { de: "Archäologische Stätte Hasik", hu: "Hasik régészeti lelőhely", ro: "Situl arheologic Hasik", en: "Hasik Archaeological Site",
-image: "/poi-images/hasik-archaeological-site-history-v2.webp"
-},
+    name: { de: "Archäologische Stätte Hasik", hu: "Hasik régészeti lelőhely", ro: "Situl arheologic Hasik", en: "Hasik Archaeological Site"},
+    image: "/poi-images/hasik-archaeological-site-history-v2.webp",
     description: {
       de: "Hasik war ein antiker Küstenort an der Südostküste Omans, der in historischen Texten als Hafen für den Export von hochwertigem Weihrauch erwähnt wird. Seine Ruinen zeugen von einem aktiven Seehandel.",
       hu: "Hasik egy ősi tengerparti település volt Omán délkeleti partvidékén, amelyet történelmi szövegek a kiváló minőségű tömjén exportjának kikötőjeként említenek. Romjai egy aktív tengeri kereskedelemről tanúskodnak.",
@@ -534,9 +518,8 @@ image: "/poi-images/hasik-archaeological-site-history-v2.webp"
     type: "historical-site",
     parent: "OM-DH",
     coords: [54.3989, 17.0381],
-    name: { de: "Schloss Taqah", hu: "Taqah kastély", ro: "Castelul Taqah", en: "Taqah Castle",
-image: "/poi-images/taqah-castle-history-v2.webp"
-},
+    name: { de: "Schloss Taqah", hu: "Taqah kastély", ro: "Castelul Taqah", en: "Taqah Castle"},
+    image: "/poi-images/taqah-castle-history-v2.webp",
     description: {
       de: "Das Schloss Taqah wurde im 19. Jahrhundert als private Residenz eines lokalen Stammesführers erbaut. In der ersten Hälfte des 20. Jahrhunderts wurde es von Sultan Said bin Taimur regierungseigen.",
       hu: "A Taqah kastélyt a 19. században építették egy helyi törzsi vezető magánrezidenciájaként. A 20. század első felében Szaid bin Taimur szultán kormányzati tulajdonba vette.",
@@ -567,9 +550,8 @@ image: "/poi-images/taqah-castle-history-v2.webp"
     type: "battlefield",
     parent: "OM-DH",
     coords: [54.6936, 16.9933],
-    name: { de: "Festung Mirbat", hu: "Mirbat erőd", ro: "Fortul Mirbat", en: "Mirbat Fort",
-image: "/poi-images/mirbat-fort-history-v2.webp"
-},
+    name: { de: "Festung Mirbat", hu: "Mirbat erőd", ro: "Fortul Mirbat", en: "Mirbat Fort"},
+    image: "/poi-images/mirbat-fort-history-v2.webp",
     description: {
       de: "Die Festung Mirbat spielte eine entscheidende Rolle in der Schlacht von Mirbat 1972, als britische SAS-Soldaten und omanische Truppen einen massiven Angriff kommunistischer Rebellen abwehrten.",
       hu: "A Mirbat erőd döntő szerepet játszott az 1972-es mirbati csatában, amikor brit SAS-katonák és ománi csapatok visszaverték a kommunista lázadók hatalmas támadását.",
@@ -600,9 +582,8 @@ image: "/poi-images/mirbat-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-SJ",
     coords: [59.5244, 22.5694],
-    name: { de: "Festung Sunaysilah", hu: "Sunaysilah erőd", ro: "Fortul Sunaysilah", en: "Sunaysilah Fort",
-image: "/poi-images/sunaysilah-fort-history-v2.webp"
-},
+    name: { de: "Festung Sunaysilah", hu: "Sunaysilah erőd", ro: "Fortul Sunaysilah", en: "Sunaysilah Fort"},
+    image: "/poi-images/sunaysilah-fort-history-v2.webp",
     description: {
       de: "Die Festung Sunaysilah überblickt die Küstenstadt Sur und ist ein fast quadratisches Bauwerk aus dem 18. Jahrhundert. Sie sicherte die Verteidigung gegen Angreifer vom Landesinneren aus.",
       hu: "A Sunaysilah erőd Sur tengerparti városára néz, és egy szinte négyzet alakú építmény a 18. századból. A szárazföld felől érkező támadók elleni védelmet biztosította.",
@@ -633,9 +614,8 @@ image: "/poi-images/sunaysilah-fort-history-v2.webp"
     type: "historical-site",
     parent: "OM-SJ",
     coords: [59.5083, 22.5486],
-    name: { de: "Schloss Bilad Sur", hu: "Bilad Sur kastély", ro: "Castelul Bilad Sur", en: "Bilad Sur Castle",
-image: "/poi-images/bilad-sur-castle-history-v2.webp"
-},
+    name: { de: "Schloss Bilad Sur", hu: "Bilad Sur kastély", ro: "Castelul Bilad Sur", en: "Bilad Sur Castle"},
+    image: "/poi-images/bilad-sur-castle-history-v2.webp",
     description: {
       de: "Das Schloss Bilad Sur liegt drei Kilometer im Landesinneren von Sur. Es wurde zum Schutz der nahegelegenen Dattelpalmen-Plantagen und zur Überwachung der Zugangswege errichtet.",
       hu: "A Bilad Sur kastély három kilométerre a szárazföld belsejében fekszik Surtól. A közeli datolyapálma-ültetvények védelmére és a hozzáférési útvonalak ellenőrzésére építették.",

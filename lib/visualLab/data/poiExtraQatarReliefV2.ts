@@ -6,9 +6,8 @@ export const poiExtraQatarReliefV2: POI[] = [
     type: "mountain",
     parent: "QA-SH",
     coords: [51.0267, 24.9667],
-    name: { de: "Qurayn Abu al-Bawl", hu: "Qurayn Abu al-Bawl", ro: "Qurayn Abu al-Bawl", en: "Qurayn Abu al Bawl",
-image: "/poi-images/qurayn-abu-al-bawl-relief-v2.webp"
-},
+    name: { de: "Qurayn Abu al-Bawl", hu: "Qurayn Abu al-Bawl", ro: "Qurayn Abu al-Bawl", en: "Qurayn Abu al Bawl"},
+    image: "/poi-images/qurayn-abu-al-bawl-relief-v2.webp",
     description: {
       de: "Mit etwa 103 Metern über dem Meeresspiegel ist dies die höchste Erhebung Katars, gelegen im Süden der Halbinsel.",
       hu: "Körülbelül 103 méteres tengerszint feletti magasságával ez Katar legmagasabb pontja, a félsziget déli részén.",
@@ -39,9 +38,8 @@ image: "/poi-images/qurayn-abu-al-bawl-relief-v2.webp"
     type: "coast",
     parent: "QA-WA",
     coords: [51.3622, 24.6397],
-    name: { de: "Khor al-Adaid", hu: "Khor al-Adaid", ro: "Khor al-Adaid", en: "Khor Al Adaid",
-image: "/poi-images/khor-al-adaid-relief-v2.webp"
-},
+    name: { de: "Khor al-Adaid", hu: "Khor al-Adaid", ro: "Khor al-Adaid", en: "Khor Al Adaid"},
+    image: "/poi-images/khor-al-adaid-relief-v2.webp",
     description: {
       de: "Ein beeindruckendes Naturwunder im Süden Katars, wo die Sanddünen der Wüste direkt auf das Meerwasser des Persischen Golfs treffen.",
       hu: "Lenyűgöző természeti csoda Katar déli részén, ahol a sivatag homokdűnéi közvetlenül találkoznak a Perzsa-öböl vizével.",
@@ -72,9 +70,8 @@ image: "/poi-images/khor-al-adaid-relief-v2.webp"
     type: "desert",
     parent: "QA-WA",
     coords: [51.5205, 24.9392],
-    name: { de: "Mesaieed-Dünen", hu: "Mesaieed Dűnék", ro: "Dunele Mesaieed", en: "Mesaieed Dunes",
-image: "/poi-images/mesaieed-dunes-relief-v2.webp"
-},
+    name: { de: "Mesaieed-Dünen", hu: "Mesaieed Dűnék", ro: "Dunele Mesaieed", en: "Mesaieed Dunes"},
+    image: "/poi-images/mesaieed-dunes-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte Wüstenlandschaft südlich von Doha, die für ihre hoch aufragenden Sanddünen und goldenen Sandmeere bekannt ist.",
       hu: "Egy kiterjedt sivatagi táj Dohától délre, amely magasba tornyosuló homokdűnéiről és aranyhomokos tengereiről ismert.",
@@ -105,9 +102,8 @@ image: "/poi-images/mesaieed-dunes-relief-v2.webp"
     type: "plateau",
     parent: "QA-SH",
     coords: [50.8524, 25.5925],
-    name: { de: "Ras Abrouq Felsformationen", hu: "Ras Abrouq Sziklaképződmények", ro: "Formațiunile stâncoase Ras Abrouq", en: "Ras Abrouq Rock Formations",
-image: "/poi-images/ras-abrouq-relief-v2.webp"
-},
+    name: { de: "Ras Abrouq Felsformationen", hu: "Ras Abrouq Sziklaképződmények", ro: "Formațiunile stâncoase Ras Abrouq", en: "Ras Abrouq Rock Formations"},
+    image: "/poi-images/ras-abrouq-relief-v2.webp",
     description: {
       de: "Eine bizarre Mondlandschaft aus windgepeitschten Kalksteinformationen und pilzförmigen Felsen an der Westküste Katars.",
       hu: "Egy bizarr holdbéli táj Katar nyugati partján, amelyet szélfútta mészkőképződmények és gomba alakú sziklák alkotnak.",
@@ -138,9 +134,8 @@ image: "/poi-images/ras-abrouq-relief-v2.webp"
     type: "valley",
     parent: "QA-RA",
     coords: [51.2155, 25.2422],
-    name: { de: "Dahl Al Misfir Höhle", hu: "Dahl Al Misfir Barlang", ro: "Peștera Dahl Al Misfir", en: "Dahl Al Misfir Cave",
-image: "/poi-images/dahl-al-misfir-relief-v2.webp"
-},
+    name: { de: "Dahl Al Misfir Höhle", hu: "Dahl Al Misfir Barlang", ro: "Peștera Dahl Al Misfir", en: "Dahl Al Misfir Cave"},
+    image: "/poi-images/dahl-al-misfir-relief-v2.webp",
     description: {
       de: "Eine der größten zugänglichen Karsthöhlen Katars, deren Wände aus faszinierendem, phosphoreszierendem Gipsstein bestehen.",
       hu: "Katar egyik legnagyobb látogatható karsztbarlangja, amelynek falai lenyűgöző, foszforeszkáló gipszkőből állnak.",
@@ -171,9 +166,8 @@ image: "/poi-images/dahl-al-misfir-relief-v2.webp"
     type: "desert",
     parent: "QA-RA",
     coords: [51.4014, 25.0442],
-    name: { de: "Singende Sanddünen", hu: "Éneklő Homokdűnék", ro: "Dunele de nisip cântătoare", en: "Singing Sand Dunes",
-image: "/poi-images/singing-sand-dunes-relief-v2.webp"
-},
+    name: { de: "Singende Sanddünen", hu: "Éneklő Homokdűnék", ro: "Dunele de nisip cântătoare", en: "Singing Sand Dunes"},
+    image: "/poi-images/singing-sand-dunes-relief-v2.webp",
     description: {
       de: "Diese sichelförmigen Dünen erzeugen ein tiefes, brummendes Geräusch, wenn Sandkörner durch Wind oder Bewegung aneinanderreiben.",
       hu: "Ezek a sarló alakú dűnék mély, zümmögő hangot adnak ki, amikor a homokszemek a szél vagy a mozgás hatására egymáshoz dörzsölődnek.",
@@ -204,9 +198,8 @@ image: "/poi-images/singing-sand-dunes-relief-v2.webp"
     type: "mountain",
     parent: "QA-SH",
     coords: [50.8845, 24.7397],
-    name: { de: "Jebel Nakhsh", hu: "Jebel Nakhsh", ro: "Jebel Nakhsh", en: "Jebel Nakhsh",
-image: "/poi-images/jebel-nakhsh-relief-v2.webp"
-},
+    name: { de: "Jebel Nakhsh", hu: "Jebel Nakhsh", ro: "Jebel Nakhsh", en: "Jebel Nakhsh"},
+    image: "/poi-images/jebel-nakhsh-relief-v2.webp",
     description: {
       de: "Ein markanter Gebirgszug im Südwesten Katars, der reich an Fossilien ist und einen Panoramablick über die weite Wüstenlandschaft bietet.",
       hu: "Egy markáns hegylánc Katar délnyugati részén, amely kövületekben gazdag és panorámás kilátást nyújt a tágas sivatagi tájra.",
@@ -237,9 +230,8 @@ image: "/poi-images/jebel-nakhsh-relief-v2.webp"
     type: "mountain",
     parent: "QA-MS",
     coords: [51.3736, 26.0233],
-    name: { de: "Jebel Fuwayrit", hu: "Jebel Fuwayrit", ro: "Jebel Fuwayrit", en: "Jebel Fuwayrit",
-image: "/poi-images/jebel-fuwayrit-relief-v2.webp"
-},
+    name: { de: "Jebel Fuwayrit", hu: "Jebel Fuwayrit", ro: "Jebel Fuwayrit", en: "Jebel Fuwayrit"},
+    image: "/poi-images/jebel-fuwayrit-relief-v2.webp",
     description: {
       de: "Kleine Kalksteinhügel an der Nordostküste, deren verwitterte Felsformationen bis an den Rand des Sandstrandes reichen.",
       hu: "Kisebb mészkődombok az északkeleti parton, amelyek mállott sziklaképződményei egészen a homokos tengerpart széléig érnek.",
@@ -270,9 +262,8 @@ image: "/poi-images/jebel-fuwayrit-relief-v2.webp"
     type: "mountain",
     parent: "QA-SH",
     coords: [50.7719, 25.4167],
-    name: { de: "Dukhan-Höhenrücken", hu: "Dukhan-gerinc", ro: "Creasta Dukhan", en: "Dukhan Ridge",
-image: "/poi-images/dukhan-ridge-relief-v2.webp"
-},
+    name: { de: "Dukhan-Höhenrücken", hu: "Dukhan-gerinc", ro: "Creasta Dukhan", en: "Dukhan Ridge"},
+    image: "/poi-images/dukhan-ridge-relief-v2.webp",
     description: {
       de: "Ein länglicher Höhenzug an der Westküste, der geologisch bedeutsam ist, da sich darunter die wichtigsten Ölreserven des Landes befinden.",
       hu: "Egy hosszan elnyúló dombhát a nyugati parton, amely geológiailag jelentős, mivel alatta találhatók az ország legfontosabb olajtartalékai.",
@@ -303,9 +294,8 @@ image: "/poi-images/dukhan-ridge-relief-v2.webp"
     type: "coast",
     parent: "QA-KH",
     coords: [51.5564, 25.7275],
-    name: { de: "Al-Thakhira-Mangroven", hu: "Al-Thakhira Mangrovék", ro: "Mangrovele Al-Thakhira", en: "Al-Thakhira Mangroves",
-image: "/poi-images/al-thakhira-mangroves-relief-v2.webp"
-},
+    name: { de: "Al-Thakhira-Mangroven", hu: "Al-Thakhira Mangrovék", ro: "Mangrovele Al-Thakhira", en: "Al-Thakhira Mangroves"},
+    image: "/poi-images/al-thakhira-mangroves-relief-v2.webp",
     description: {
       de: "Ein üppiges, grünes Ökosystem aus Mangrovenwäldern, das einen scharfen Kontrast zur trockenen Wüstenumgebung bildet.",
       hu: "Egy buja, zöld mangroveerdőkből álló ökoszisztéma, amely éles kontrasztot alkot a száraz sivatagi környezettel.",
@@ -336,9 +326,8 @@ image: "/poi-images/al-thakhira-mangroves-relief-v2.webp"
     type: "valley",
     parent: "QA-DA",
     coords: [51.4589, 25.3781],
-    name: { de: "Wadi Al-Banat", hu: "Wadi Al-Banat", ro: "Wadi Al-Banat", en: "Wadi Al-Banat",
-image: "/poi-images/wadi-al-banat-relief-v2.webp"
-},
+    name: { de: "Wadi Al-Banat", hu: "Wadi Al-Banat", ro: "Wadi Al-Banat", en: "Wadi Al-Banat"},
+    image: "/poi-images/wadi-al-banat-relief-v2.webp",
     description: {
       de: "Ein trockenes Flusstal nördlich von Doha, das sich nach seltenen Regenfällen vorübergehend in eine grüne Oase verwandelt.",
       hu: "Egy száraz folyóvölgy Dohától északra, amely a ritka esőzések után átmenetileg zöld oázissá változik.",
@@ -369,9 +358,8 @@ image: "/poi-images/wadi-al-banat-relief-v2.webp"
     type: "desert",
     parent: "QA-SH",
     coords: [50.8167, 25.2833],
-    name: { de: "Sabkhat Dukhan", hu: "Sabkhat Dukhan", ro: "Sabkhat Dukhan", en: "Sabkhat Dukhan",
-image: "/poi-images/sabkhat-dukhan-relief-v2.webp"
-},
+    name: { de: "Sabkhat Dukhan", hu: "Sabkhat Dukhan", ro: "Sabkhat Dukhan", en: "Sabkhat Dukhan"},
+    image: "/poi-images/sabkhat-dukhan-relief-v2.webp",
     description: {
       de: "Eine weite, salzverkrustete Ebene in der Nähe der Westküste, die durch die Verdunstung von mineralreichem Grundwasser entstanden ist.",
       hu: "Egy kiterjedt, sókérges síkság a nyugati part közelében, amely az ásványi anyagokban gazdag talajvíz elpárolgásával jött létre.",
@@ -402,9 +390,8 @@ image: "/poi-images/sabkhat-dukhan-relief-v2.webp"
     type: "coast",
     parent: "QA-MS",
     coords: [51.2789, 26.1475],
-    name: { de: "Umm Tais", hu: "Umm Tais", ro: "Umm Tais", en: "Umm Tais",
-image: "/poi-images/umm-tais-relief-v2.webp"
-},
+    name: { de: "Umm Tais", hu: "Umm Tais", ro: "Umm Tais", en: "Umm Tais"},
+    image: "/poi-images/umm-tais-relief-v2.webp",
     description: {
       de: "Eine unberührte Barriereinsel und Nationalpark an der Nordspitze Katars mit Mangroven, Sandstränden und flachen Gewässern.",
       hu: "Egy érintetlen homokpad-sziget és nemzeti park Katar északi csücskénél, mangrovékkal, homokos strandokkal és sekély vizekkel.",
@@ -435,9 +422,8 @@ image: "/poi-images/umm-tais-relief-v2.webp"
     type: "valley",
     parent: "QA-DA",
     coords: [51.5039, 25.3061],
-    name: { de: "Wadi Al-Sail", hu: "Wadi Al-Sail", ro: "Wadi Al-Sail", en: "Wadi Al-Sail",
-image: "/poi-images/wadi-al-sail-relief-v2.webp"
-},
+    name: { de: "Wadi Al-Sail", hu: "Wadi Al-Sail", ro: "Wadi Al-Sail", en: "Wadi Al-Sail"},
+    image: "/poi-images/wadi-al-sail-relief-v2.webp",
     description: {
       de: "Eine natürliche Senke, die das Oberflächenwasser der Region sammelt und historisch eine wichtige Wasserquelle für Nomadenstämme war.",
       hu: "Egy természetes mélyedés, amely összegyűjti a régió felszíni vizeit, és történelmileg fontos vízforrás volt a nomád törzsek számára.",
@@ -468,9 +454,8 @@ image: "/poi-images/wadi-al-sail-relief-v2.webp"
     type: "valley",
     parent: "QA-WA",
     coords: [51.2319, 24.9125],
-    name: { de: "Al-Kharrara-Senke", hu: "Al-Kharrara Mélyedés", ro: "Depresiunea Al-Kharrara", en: "Al-Kharrara Depression",
-image: "/poi-images/al-kharrara-depression-relief-v2.webp"
-},
+    name: { de: "Al-Kharrara-Senke", hu: "Al-Kharrara Mélyedés", ro: "Depresiunea Al-Kharrara", en: "Al-Kharrara Depression"},
+    image: "/poi-images/al-kharrara-depression-relief-v2.webp",
     description: {
       de: "Ein faszinierendes Wüstengebiet mit steinigen Böden und tiefen Rinnen, die durch jahrtausendelange Winderosion geformt wurden.",
       hu: "Egy lenyűgöző sivatagi terület köves talajjal és mély barázdákkal, amelyeket az évezredes szélerózió formált.",
@@ -501,9 +486,8 @@ image: "/poi-images/al-kharrara-depression-relief-v2.webp"
     type: "coast",
     parent: "QA-MS",
     coords: [51.2333, 26.1500],
-    name: { de: "Ras Rakan", hu: "Ras Rakan", ro: "Ras Rakan", en: "Ras Rakan",
-image: "/poi-images/ras-rakan-relief-v2.webp"
-},
+    name: { de: "Ras Rakan", hu: "Ras Rakan", ro: "Ras Rakan", en: "Ras Rakan"},
+    image: "/poi-images/ras-rakan-relief-v2.webp",
     description: {
       de: "Die nördlichste Landspitze der katarischen Halbinsel, umgeben von flachen Gewässern und Korallenriffen, die nur schwer zugänglich sind.",
       hu: "A katari félsziget legészakibb pontja, amelyet sekély vizek és korallzátonyok vesznek körül, ami nehezen megközelíthetővé teszi.",
@@ -534,9 +518,8 @@ image: "/poi-images/ras-rakan-relief-v2.webp"
     type: "coast",
     parent: "QA-MS",
     coords: [51.3789, 26.0372],
-    name: { de: "Füwayrit-Strand", hu: "Füwayrit Tengerpart", ro: "Plaja Fuwayrit", en: "Fuwayrit Beach",
-image: "/poi-images/fuwayrit-beach-relief-v2.webp"
-},
+    name: { de: "Füwayrit-Strand", hu: "Füwayrit Tengerpart", ro: "Plaja Fuwayrit", en: "Fuwayrit Beach"},
+    image: "/poi-images/fuwayrit-beach-relief-v2.webp",
     description: {
       de: "Ein malerischer Küstenabschnitt mit feinem weißen Sand und klarem, seichtem Wasser, umgeben von einzigartigen Felsformationen.",
       hu: "Festői tengerparti szakasz finom fehér homokkal és tiszta, sekély vízzel, egyedi sziklaképződményekkel körülvéve.",
@@ -567,9 +550,8 @@ image: "/poi-images/fuwayrit-beach-relief-v2.webp"
     type: "coast",
     parent: "QA-SH",
     coords: [50.8667, 25.4833],
-    name: { de: "Zekreet-Halbinsel", hu: "Zekreet-félsziget", ro: "Peninsula Zekreet", en: "Zekreet Peninsula",
-image: "/poi-images/zekreet-peninsula-relief-v2.webp"
-},
+    name: { de: "Zekreet-Halbinsel", hu: "Zekreet-félsziget", ro: "Peninsula Zekreet", en: "Zekreet Peninsula"},
+    image: "/poi-images/zekreet-peninsula-relief-v2.webp",
     description: {
       de: "Eine abgelegene Halbinsel an der Westküste, charakterisiert durch schroffe Kalksteinfelsen, einsame Strände und eine karge Wüstenflora.",
       hu: "Egy eldugott félsziget a nyugati parton, amelyet zord mészkősziklák, elhagyatott strandok és gyér sivatagi flóra jellemez.",
@@ -600,9 +582,8 @@ image: "/poi-images/zekreet-peninsula-relief-v2.webp"
     type: "desert",
     parent: "QA-RA",
     coords: [51.1000, 24.8500],
-    name: { de: "Al-Aamriya-Wüste", hu: "Al-Aamriya Sivatag", ro: "Deșertul Al-Aamriya", en: "Al-Aamriya Desert",
-image: "/poi-images/al-aamriya-desert-relief-v2.webp"
-},
+    name: { de: "Al-Aamriya-Wüste", hu: "Al-Aamriya Sivatag", ro: "Deșertul Al-Aamriya", en: "Al-Aamriya Desert"},
+    image: "/poi-images/al-aamriya-desert-relief-v2.webp",
     description: {
       de: "Eine flache, ausgedehnte Kieswüste, die einen Großteil des zentralen und südlichen Katars bedeckt und eine extreme Trockenheit aufweist.",
       hu: "Egy lapos, kiterjedt kavicssivatag, amely Közép- és Dél-Katar nagy részét borítja, és rendkívüli szárazság jellemzi.",
@@ -633,9 +614,8 @@ image: "/poi-images/al-aamriya-desert-relief-v2.webp"
     type: "valley",
     parent: "QA-DA",
     coords: [51.5275, 25.2833],
-    name: { de: "Wadi Msheireb", hu: "Wadi Msheireb", ro: "Wadi Msheireb", en: "Wadi Msheireb",
-image: "/poi-images/wadi-msheireb-relief-v2.webp"
-},
+    name: { de: "Wadi Msheireb", hu: "Wadi Msheireb", ro: "Wadi Msheireb", en: "Wadi Msheireb"},
+    image: "/poi-images/wadi-msheireb-relief-v2.webp",
     description: {
       de: "Ein historisches Wadi, das einst Trinkwasser lieferte und heute als Namensgeber für das ehrgeizigste städtische Erneuerungsprojekt Dohas dient.",
       hu: "Egy történelmi vádi, amely egykor ivóvizet biztosított, és ma Doha legambiciózusabb városmegújítási projektjének névadójaként szolgál.",

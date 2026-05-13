@@ -6,9 +6,8 @@ export const poiExtraTurkeyHistoryV2: POI[] = [
     type: "historical-site",
     parent: "TR-63",
     coords: [38.922, 37.223],
-    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe",
-image: "/poi-images/gobekli-tepe-history-v2.webp"
-},
+    name: { de: "Göbekli Tepe", hu: "Göbekli Tepe", ro: "Göbekli Tepe", en: "Göbekli Tepe"},
+    image: "/poi-images/gobekli-tepe-history-v2.webp",
     description: { de: "Göbekli Tepe ist eine der ältesten bekannten Tempelanlagen der Welt, erbaut vor etwa 12.000 Jahren.", hu: "A Göbekli Tepe a világ egyik legrégebbi ismert templomkomplexuma, amelyet mintegy 12 000 évvel ezelőtt építettek.", ro: "Göbekli Tepe este unul dintre cele mai vechi complexe de temple cunoscute din lume, construit acum aproximativ 12.000 de ani.", en: "Göbekli Tepe is one of the oldest known temple complexes in the world, built around 12,000 years ago." },
     facts: {
       de: ["Gilt als der erste Tempel der Menschheit.", "Besteht aus massiven, T-förmigen Kalksteinpfeilern."],
@@ -34,9 +33,8 @@ image: "/poi-images/gobekli-tepe-history-v2.webp"
     type: "ruin",
     parent: "TR-35",
     coords: [27.341, 37.939],
-    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus",
-image: "/poi-images/ephesus-history-v2.webp"
-},
+    name: { de: "Ephesos", hu: "Epheszosz", ro: "Efes", en: "Ephesus"},
+    image: "/poi-images/ephesus-history-v2.webp",
     description: { de: "Ephesos war eine der bedeutendsten und ältesten griechischen Städte Kleinasiens und später eine große römische Metropole.", hu: "Epheszosz Kis-Ázsia egyik legjelentősebb és legrégebbi görög városa volt, később pedig egy hatalmas római metropolisz.", ro: "Efes a fost unul dintre cele mai importante și vechi orașe grecești din Asia Mică și, mai târziu, o mare metropolă romană.", en: "Ephesus was one of the most important and oldest Greek cities in Asia Minor and later a major Roman metropolis." },
     facts: {
       de: ["Heimat des Artemis-Tempels, eines der sieben Weltwunder.", "Die Celsus-Bibliothek ist ein berühmtes Wahrzeichen."],
@@ -62,9 +60,8 @@ image: "/poi-images/ephesus-history-v2.webp"
     type: "ruin",
     parent: "TR-17",
     coords: [26.238, 39.957],
-    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy",
-image: "/poi-images/troy-history-v2.webp"
-},
+    name: { de: "Troja", hu: "Trója", ro: "Troia", en: "Troy"},
+    image: "/poi-images/troy-history-v2.webp",
     description: { de: "Troja ist eine historische Stadt, die durch Homers Ilias als Schauplatz des Trojanischen Krieges weltberühmt wurde.", hu: "Trója egy történelmi város, amely Homérosz Iliászának köszönhetően a trójai háború helyszíneként vált világhírűvé.", ro: "Troia este un oraș istoric devenit faimos în întreaga lume prin Iliada lui Homer, ca loc al Războiului Troian.", en: "Troy is a historical city made world-famous by Homer's Iliad as the setting of the Trojan War." },
     facts: {
       de: ["Entdeckt im 19. Jahrhundert von Heinrich Schliemann.", "Besteht aus mehreren Siedlungsschichten."],
@@ -90,9 +87,8 @@ image: "/poi-images/troy-history-v2.webp"
     type: "historical-site",
     parent: "TR-19",
     coords: [34.615, 40.019],
-    name: { de: "Hattuša", hu: "Hattusa", ro: "Hattușa", en: "Hattusa",
-image: "/poi-images/hattusa-history-v2.webp"
-},
+    name: { de: "Hattuša", hu: "Hattusa", ro: "Hattușa", en: "Hattusa"},
+    image: "/poi-images/hattusa-history-v2.webp",
     description: { de: "Hattuša war die Hauptstadt des hethitischen Großreiches und besticht durch monumentale Stadttore und Tempelanlagen.", hu: "Hattusa a Hettita Birodalom fővárosa volt, amely monumentális városkapuival és templomkomplexumaival nyűgöz le.", ro: "Hattușa a fost capitala Imperiului Hitit și impresionează prin porțile sale monumentale și complexele de temple.", en: "Hattusa was the capital of the Hittite Empire and impresses with its monumental city gates and temple complexes." },
     facts: {
       de: ["Bekannt für das Löwentor und das Königstor.", "Hier wurde der älteste bekannte Friedensvertrag gefunden."],
@@ -118,9 +114,8 @@ image: "/poi-images/hattusa-history-v2.webp"
     type: "battlefield",
     parent: "TR-17",
     coords: [26.277, 40.245],
-    name: { de: "Gallipoli", hu: "Gallipoli", ro: "Gallipoli", en: "Gallipoli",
-image: "/poi-images/gallipoli-history-v2.webp"
-},
+    name: { de: "Gallipoli", hu: "Gallipoli", ro: "Gallipoli", en: "Gallipoli"},
+    image: "/poi-images/gallipoli-history-v2.webp",
     description: { de: "Die Halbinsel Gallipoli war im Ersten Weltkrieg Schauplatz erbitterter Kämpfe zwischen den Alliierten und dem Osmanischen Reich.", hu: "A Gallipoli-félsziget az első világháborúban az antant és az Oszmán Birodalom közötti heves harcok helyszíne volt.", ro: "Peninsula Gallipoli a fost locul unor bătălii aprige între Aliați și Imperiul Otoman în Primul Război Mondial.", en: "The Gallipoli Peninsula was the site of fierce fighting between the Allies and the Ottoman Empire during World War I." },
     facts: {
       de: ["Die Schlacht fand 1915 statt.", "Ein bedeutender Gedenkort für Australien und Neuseeland (ANZAC)."],
@@ -146,9 +141,8 @@ image: "/poi-images/gallipoli-history-v2.webp"
     type: "monument",
     parent: "TR-02",
     coords: [38.761, 38.051],
-    name: { de: "Nemrut Dağı", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut",
-image: "/poi-images/mount-nemrut-history-v2.webp"
-},
+    name: { de: "Nemrut Dağı", hu: "Nemrut-hegy", ro: "Muntele Nemrut", en: "Mount Nemrut"},
+    image: "/poi-images/mount-nemrut-history-v2.webp",
     description: { de: "Der Nemrut Dağı ist berühmt für seine gewaltigen Götterstatuen, die König Antiochos I. auf dem Gipfel errichten ließ.", hu: "A Nemrut-hegy híres hatalmas istenszobrairól, amelyeket I. Antiokhosz király emeltetett a csúcson.", ro: "Muntele Nemrut este faimos pentru statuile uriașe ale zeilor, ridicate de regele Antioh I pe vârf.", en: "Mount Nemrut is famous for its massive statues of gods, erected by King Antiochus I on the summit." },
     facts: {
       de: ["Der Berg ist 2150 Meter hoch.", "Die Statuenköpfe sind heute vom Rumpf getrennt."],
@@ -174,9 +168,8 @@ image: "/poi-images/mount-nemrut-history-v2.webp"
     type: "historical-site",
     parent: "TR-61",
     coords: [39.658, 40.690],
-    name: { de: "Sumela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery",
-image: "/poi-images/sumela-monastery-history-v2.webp"
-},
+    name: { de: "Sumela-Kloster", hu: "Sümela-kolostor", ro: "Mănăstirea Sumela", en: "Sumela Monastery"},
+    image: "/poi-images/sumela-monastery-history-v2.webp",
     description: { de: "Das Sumela-Kloster ist ein beeindruckendes griechisch-orthodoxes Kloster, das spektakulär in eine steile Felswand gebaut wurde.", hu: "A Sümela-kolostor egy lenyűgöző görögkeleti kolostor, amely látványosan egy meredek sziklafalba épült.", ro: "Mănăstirea Sumela este o mănăstire greco-ortodoxă impresionantă, construită spectaculos pe o stâncă abruptă.", en: "The Sumela Monastery is an impressive Greek Orthodox monastery spectacularly built into a steep cliff face." },
     facts: {
       de: ["Gegründet im späten 4. Jahrhundert.", "Befindet sich auf 1200 Metern Höhe im Altındere-Nationalpark."],
@@ -202,9 +195,8 @@ image: "/poi-images/sumela-monastery-history-v2.webp"
     type: "ruin",
     parent: "TR-20",
     coords: [29.126, 37.925],
-    name: { de: "Hierapolis", hu: "Hierapolisz", ro: "Hierapolis", en: "Hierapolis",
-image: "/poi-images/hierapolis-history-v2.webp"
-},
+    name: { de: "Hierapolis", hu: "Hierapolisz", ro: "Hierapolis", en: "Hierapolis"},
+    image: "/poi-images/hierapolis-history-v2.webp",
     description: { de: "Hierapolis war eine antike griechische Stadt, die sich nahe den Thermalquellen von Pamukkale befand.", hu: "Hierapolisz egy ókori görög város volt, amely Pamukkale hőforrásainak közelében helyezkedett el.", ro: "Hierapolis a fost un oraș grecesc antic situat lângă izvoarele termale din Pamukkale.", en: "Hierapolis was an ancient Greek city located near the thermal springs of Pamukkale." },
     facts: {
       de: ["Verfügt über ein sehr gut erhaltenes römisches Theater.", "Galt in der Antike als bedeutendes Heilzentrum."],
@@ -230,9 +222,8 @@ image: "/poi-images/hierapolis-history-v2.webp"
     type: "historical-site",
     parent: "TR-34",
     coords: [28.983, 41.011],
-    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace",
-image: "/poi-images/topkapi-palace-history-v2.webp"
-},
+    name: { de: "Topkapı-Palast", hu: "Topkapı palota", ro: "Palatul Topkapı", en: "Topkapı Palace"},
+    image: "/poi-images/topkapi-palace-history-v2.webp",
     description: { de: "Der Topkapı-Palast war jahrhundertelang der Wohn- und Regierungssitz der Sultane des Osmanischen Reiches.", hu: "A Topkapı palota évszázadokon át az Oszmán Birodalom szultánjainak lakóhelye és kormányzati központja volt.", ro: "Palatul Topkapı a fost timp de secole reședința și centrul administrativ al sultanilor Imperiului Otoman.", en: "The Topkapı Palace was the residence and administrative center of the sultans of the Ottoman Empire for centuries." },
     facts: {
       de: ["Erbaut nach der Eroberung Istanbuls im Jahr 1453.", "Beherbergt heilige islamische Reliquien."],
@@ -258,9 +249,8 @@ image: "/poi-images/topkapi-palace-history-v2.webp"
     type: "monument",
     parent: "TR-34",
     coords: [28.979, 41.008],
-    name: { de: "Hagia Sophia", hu: "Hagia Sophia", ro: "Hagia Sofia", en: "Hagia Sophia",
-image: "/poi-images/hagia-sophia-history-v2.webp"
-},
+    name: { de: "Hagia Sophia", hu: "Hagia Sophia", ro: "Hagia Sofia", en: "Hagia Sophia"},
+    image: "/poi-images/hagia-sophia-history-v2.webp",
     description: { de: "Die Hagia Sophia, ursprünglich eine byzantinische Kirche, war für fast tausend Jahre das größte Gebäude der Welt.", hu: "A Hagia Sophia, eredetileg bizánci templom, majdnem ezer évig a világ legnagyobb épülete volt.", ro: "Hagia Sofia, inițial o biserică bizantină, a fost cea mai mare clădire din lume pentru aproape o mie de ani.", en: "Hagia Sophia, originally a Byzantine church, was the largest building in the world for almost a thousand years." },
     facts: {
       de: ["Erbaut im 6. Jahrhundert unter Kaiser Justinian.", "Wurde später als Moschee und Museum genutzt."],
@@ -286,9 +276,8 @@ image: "/poi-images/hagia-sophia-history-v2.webp"
     type: "ruin",
     parent: "TR-36",
     coords: [43.640, 40.507],
-    name: { de: "Ani", hu: "Ani", ro: "Ani", en: "Ani",
-image: "/poi-images/ani-history-v2.webp"
-},
+    name: { de: "Ani", hu: "Ani", ro: "Ani", en: "Ani"},
+    image: "/poi-images/ani-history-v2.webp",
     description: { de: "Ani war einst eine prächtige armenische Hauptstadt, die heute als verlassene Ruinenstadt an der türkisch-armenischen Grenze liegt.", hu: "Ani egykor pompás örmény főváros volt, amely ma elhagyatott romvárosként fekszik a török-örmény határon.", ro: "Ani a fost odată o capitală armeană magnifică, situată astăzi ca un oraș în ruine la granița turco-armeană.", en: "Ani was once a magnificent Armenian capital, now lying as an abandoned ruined city on the Turkish-Armenian border." },
     facts: {
       de: ["Bekannt als die Stadt der 1001 Kirchen.", "War ein wichtiger Knotenpunkt der Seidenstraße."],
@@ -314,9 +303,8 @@ image: "/poi-images/ani-history-v2.webp"
     type: "historical-site",
     parent: "TR-42",
     coords: [32.827, 37.667],
-    name: { de: "Çatalhöyük", hu: "Çatalhöyük", ro: "Çatalhöyük", en: "Çatalhöyük",
-image: "/poi-images/catalhoyuk-history-v2.webp"
-},
+    name: { de: "Çatalhöyük", hu: "Çatalhöyük", ro: "Çatalhöyük", en: "Çatalhöyük"},
+    image: "/poi-images/catalhoyuk-history-v2.webp",
     description: { de: "Çatalhöyük ist eine der ältesten und größten stadtähnlichen Siedlungen der Jungsteinzeit.", hu: "Çatalhöyük az újkőkorszak egyik legrégebbi és legnagyobb városszerű települése.", ro: "Çatalhöyük este una dintre cele mai vechi și mai mari așezări de tip urban din perioada neolitică.", en: "Çatalhöyük is one of the oldest and largest urban-like settlements of the Neolithic period." },
     facts: {
       de: ["Die Häuser hatten keine Türen und wurden über das Dach betreten.", "Bewohnt zwischen 7100 und 5700 vor Christus."],
@@ -342,9 +330,8 @@ image: "/poi-images/catalhoyuk-history-v2.webp"
     type: "ruin",
     parent: "TR-35",
     coords: [27.184, 39.131],
-    name: { de: "Pergamon", hu: "Pergamon", ro: "Pergam", en: "Pergamon",
-image: "/poi-images/pergamon-history-v2.webp"
-},
+    name: { de: "Pergamon", hu: "Pergamon", ro: "Pergam", en: "Pergamon"},
+    image: "/poi-images/pergamon-history-v2.webp",
     description: { de: "Pergamon war eine bedeutende antike Stadt und ein kulturelles Zentrum in Kleinasien, berühmt für seinen Altar.", hu: "Pergamon egy jelentős ókori város és kulturális központ volt Kis-Ázsiában, oltáráról volt híres.", ro: "Pergam a fost un oraș antic important și un centru cultural în Asia Mică, faimos pentru altarul său.", en: "Pergamon was a major ancient city and a cultural center in Asia Minor, famous for its altar." },
     facts: {
       de: ["Besaß die zweitgrößte Bibliothek der antiken Welt.", "Der originale Pergamonaltar befindet sich heute in Berlin."],
@@ -370,9 +357,8 @@ image: "/poi-images/pergamon-history-v2.webp"
     type: "ruin",
     parent: "TR-09",
     coords: [28.724, 37.708],
-    name: { de: "Aphrodisias", hu: "Aphrodisias", ro: "Aphrodisias", en: "Aphrodisias",
-image: "/poi-images/aphrodisias-history-v2.webp"
-},
+    name: { de: "Aphrodisias", hu: "Aphrodisias", ro: "Aphrodisias", en: "Aphrodisias"},
+    image: "/poi-images/aphrodisias-history-v2.webp",
     description: { de: "Aphrodisias war eine kleine antike griechische Stadt in der historischen Region Karien, berühmt für ihren Aphrodite-Kult.", hu: "Aphrodisias egy kis ókori görög város volt a történelmi Kária régióban, híres volt Aphrodité-kultuszáról.", ro: "Aphrodisias a fost un mic oraș grecesc antic în regiunea istorică Caria, faimos pentru cultul său dedicat Afroditei.", en: "Aphrodisias was a small ancient Greek city in the historic region of Caria, famous for its cult of Aphrodite." },
     facts: {
       de: ["Die Stadt hatte eine hoch angesehene Bildhauerschule.", "Das antike Stadion ist eines der am besten erhaltenen weltweit."],
@@ -398,9 +384,8 @@ image: "/poi-images/aphrodisias-history-v2.webp"
     type: "ruin",
     parent: "TR-07",
     coords: [30.464, 36.982],
-    name: { de: "Termessos", hu: "Termesszosz", ro: "Termessos", en: "Termessos",
-image: "/poi-images/termessos-history-v2.webp"
-},
+    name: { de: "Termessos", hu: "Termesszosz", ro: "Termessos", en: "Termessos"},
+    image: "/poi-images/termessos-history-v2.webp",
     description: { de: "Termessos ist eine der am besten erhaltenen antiken Städte der Türkei, dramatisch in einem steilen Tal gelegen.", hu: "Termesszosz Törökország egyik legjobb állapotban fennmaradt ókori városa, drámai módon egy meredek völgyben helyezkedik el.", ro: "Termessos este unul dintre cele mai bine conservate orașe antice din Turcia, situat dramatic într-o vale abruptă.", en: "Termessos is one of the best-preserved ancient cities in Turkey, dramatically located in a steep valley." },
     facts: {
       de: ["Sogar Alexander der Große scheiterte bei dem Versuch, die Stadt zu erobern.", "Befindet sich auf einer Höhe von über 1000 Metern."],
@@ -426,9 +411,8 @@ image: "/poi-images/termessos-history-v2.webp"
     type: "historical-site",
     parent: "TR-50",
     coords: [34.735, 38.373],
-    name: { de: "Derinkuyu", hu: "Derinkuyu", ro: "Derinkuyu", en: "Derinkuyu",
-image: "/poi-images/derinkuyu-history-v2.webp"
-},
+    name: { de: "Derinkuyu", hu: "Derinkuyu", ro: "Derinkuyu", en: "Derinkuyu"},
+    image: "/poi-images/derinkuyu-history-v2.webp",
     description: { de: "Derinkuyu ist eine antike unterirdische Stadt, die bis zu 20.000 Menschen mit ihrem Vieh und ihren Vorräten Schutz bot.", hu: "Derinkuyu egy ókori földalatti város, amely akár 20 000 ember számára is menedéket nyújtott állataikkal és készleteikkel együtt.", ro: "Derinkuyu este un oraș subteran antic care oferea adăpost pentru până la 20.000 de oameni, cu vitele și proviziile lor.", en: "Derinkuyu is an ancient underground city that provided shelter for up to 20,000 people along with their livestock and supplies." },
     facts: {
       de: ["Erreicht eine Tiefe von etwa 85 Metern.", "Besteht aus mehreren durch Tunnel verbundenen Ebenen."],
@@ -454,9 +438,8 @@ image: "/poi-images/derinkuyu-history-v2.webp"
     type: "ruin",
     parent: "TR-07",
     coords: [29.980, 36.258],
-    name: { de: "Myra", hu: "Müra", ro: "Myra", en: "Myra",
-image: "/poi-images/myra-history-v2.webp"
-},
+    name: { de: "Myra", hu: "Müra", ro: "Myra", en: "Myra"},
+    image: "/poi-images/myra-history-v2.webp",
     description: { de: "Myra war eine bedeutende lykische Stadt und ist bekannt für ihre in Felsen gehauenen Gräber und das antike Theater.", hu: "Müra egy jelentős lükiai város volt, amely sziklába vájt sírjairól és ókori színházáról ismert.", ro: "Myra a fost un important oraș lician și este cunoscut pentru mormintele sale tăiate în stâncă și teatrul antic.", en: "Myra was a major Lycian city and is known for its rock-cut tombs and ancient theater." },
     facts: {
       de: ["Nikolaus von Myra war hier im 4. Jahrhundert Bischof.", "Die lykischen Felsengräber sind in die Klippen eingemeißelt."],
@@ -482,9 +465,8 @@ image: "/poi-images/myra-history-v2.webp"
     type: "monument",
     parent: "TR-06",
     coords: [32.836, 39.925],
-    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir",
-image: "/poi-images/anitkabir-history-v2.webp"
-},
+    name: { de: "Anıtkabir", hu: "Anıtkabir", ro: "Anıtkabir", en: "Anıtkabir"},
+    image: "/poi-images/anitkabir-history-v2.webp",
     description: { de: "Anıtkabir ist das monumentale Mausoleum von Mustafa Kemal Atatürk, dem Gründer der modernen Türkischen Republik.", hu: "Az Anıtkabir Mustafa Kemal Atatürknek, a modern Török Köztársaság alapítójának monumentális mauzóleuma.", ro: "Anıtkabir este mausoleul monumental al lui Mustafa Kemal Atatürk, fondatorul Republicii Turce moderne.", en: "Anıtkabir is the monumental mausoleum of Mustafa Kemal Atatürk, the founder of the modern Turkish Republic." },
     facts: {
       de: ["Der Bau dauerte fast zehn Jahre von 1944 bis 1953.", "Zieht jährlich Millionen von Besuchern an."],
@@ -510,9 +492,8 @@ image: "/poi-images/anitkabir-history-v2.webp"
     type: "ruin",
     parent: "TR-27",
     coords: [37.868, 37.058],
-    name: { de: "Zeugma", hu: "Zeugma", ro: "Zeugma", en: "Zeugma",
-image: "/poi-images/zeugma-history-v2.webp"
-},
+    name: { de: "Zeugma", hu: "Zeugma", ro: "Zeugma", en: "Zeugma"},
+    image: "/poi-images/zeugma-history-v2.webp",
     description: { de: "Zeugma war eine antike Stadt am Euphrat, deren unglaubliche römische Mosaike heute Weltruhm genießen.", hu: "Zeugma egy ókori város volt az Eufrátesz mentén, amelynek hihetetlen római mozaikjai ma világhírűek.", ro: "Zeugma a fost un oraș antic pe Eufrat, ale cărui incredibile mozaicuri romane se bucură astăzi de faimă mondială.", en: "Zeugma was an ancient city on the Euphrates, whose incredible Roman mosaics now enjoy world fame." },
     facts: {
       de: ["Ein Großteil der Stadt wurde durch einen Staudamm überflutet.", "Das Zeugma-Mosaik-Museum in Gaziantep beherbergt die Funde."],
@@ -538,9 +519,8 @@ image: "/poi-images/zeugma-history-v2.webp"
     type: "historical-site",
     parent: "TR-07",
     coords: [31.172, 36.938],
-    name: { de: "Aspendos", hu: "Aszpendosz", ro: "Aspendos", en: "Aspendos",
-image: "/poi-images/aspendos-history-v2.webp"
-},
+    name: { de: "Aspendos", hu: "Aszpendosz", ro: "Aspendos", en: "Aspendos"},
+    image: "/poi-images/aspendos-history-v2.webp",
     description: { de: "Aspendos ist eine antike Stadt, die für ihr außergewöhnlich gut erhaltenes römisches Theater bekannt ist.", hu: "Aszpendosz egy ókori város, amely kivételesen jó állapotban fennmaradt római színházáról ismert.", ro: "Aspendos este un oraș antic cunoscut pentru teatrul său roman excepțional de bine conservat.", en: "Aspendos is an ancient city known for its exceptionally well-preserved Roman theater." },
     facts: {
       de: ["Das Theater fasste in der Antike bis zu 15.000 Zuschauer.", "Es wird auch heute noch für Aufführungen genutzt."],

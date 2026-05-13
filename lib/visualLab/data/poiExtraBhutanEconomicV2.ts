@@ -7,7 +7,6 @@ export const poiExtraBhutanEconomicV2: POI[] = [
     parent: "BT-12",
     coords: [89.5858, 26.8522],
     name: { de: "Tala-Wasserkraftwerk", hu: "Tala Vízerőmű", ro: "Hidrocentrala Tala", en: "Tala Hydropower Plant",
-image: "/poi-images/tala-hydropower-plant-economic-v2.webp"
 },
     description: {
       de: "Ein gigantisches Laufwasserkraftwerk am Fluss Wang Chhu, das als größtes Energieprojekt Bhutans gilt. Es exportiert riesige Mengen an sauberem Strom nach Indien und ist das Rückgrat der bhutanischen Wirtschaft.",
@@ -39,7 +38,6 @@ image: "/poi-images/tala-hydropower-plant-economic-v2.webp"
     parent: "BT-12",
     coords: [89.5750, 27.0583],
     name: { de: "Chukha-Wasserkraftwerk", hu: "Chukha Vízerőmű", ro: "Hidrocentrala Chukha", en: "Chukha Hydropower Plant",
-image: "/poi-images/chukha-hydropower-plant-economic-v2.webp"
 },
     description: {
       de: "Bhutans erstes großes Wasserkraftprojekt, das in den 1980er Jahren mit indischer Hilfe gebaut wurde. Es revolutionierte die Wirtschaft des Landes durch die Erschließung erneuerbarer Energien für den Export.",
@@ -72,7 +70,6 @@ image: "/poi-images/chukha-hydropower-plant-economic-v2.webp"
     parent: "BT-42",
     coords: [91.2408, 27.2831],
     name: { de: "Kurichhu-Wasserkraftwerk", hu: "Kurichhu Vízerőmű", ro: "Hidrocentrala Kurichhu", en: "Kurichhu Hydropower Plant",
-image: "/poi-images/kurichhu-hydropower-plant-economic-v2.webp"
 },
     description: {
       de: "Ein wichtiges Wasserkraftwerk in Ost-Bhutan, das die Region mit stabiler Elektrizität versorgt. Es fördert die industrielle Entwicklung in Distrikten, die früher stark isoliert waren.",
@@ -104,7 +101,6 @@ image: "/poi-images/kurichhu-hydropower-plant-economic-v2.webp"
     parent: "BT-34",
     coords: [90.5050, 27.4819],
     name: { de: "Mangdechhu-Wasserkraftwerk", hu: "Mangdechhu Vízerőmű", ro: "Hidrocentrala Mangdechhu", en: "Mangdechhu Hydropower Plant",
-image: "/poi-images/mangdechhu-hydropower-plant-economic-v2.webp"
 },
     description: {
       de: "Ein hochmodernes Laufwasserkraftwerk am Fluss Mangdechhu im Distrikt Trongsa. Dieses preisgekrönte Projekt zeichnet sich durch seine Effizienz und seine positiven wirtschaftlichen Auswirkungen aus.",
@@ -136,7 +132,6 @@ image: "/poi-images/mangdechhu-hydropower-plant-economic-v2.webp"
     parent: "BT-32",
     coords: [89.8972, 27.3514],
     name: { de: "Punatsangchhu-Projekt", hu: "Punatsangchhu Projekt", ro: "Proiectul Punatsangchhu", en: "Punatsangchhu Project",
-image: "/poi-images/punatsangchhu-hydropower-economic-v2.webp"
 },
     description: {
       de: "Zwei massive Wasserkraft-Megaprojekte im Bau am Fluss Punatsangchhu. Nach ihrer Fertigstellung werden sie die Stromproduktion Bhutans drastisch erhöhen und die Wirtschaftsexporte vervielfachen.",
@@ -155,7 +150,13 @@ image: "/poi-images/punatsangchhu-hydropower-economic-v2.webp"
       hu: ["Két külön projektből áll (Puna-I, Puna-II)", "A Puna-I-et jelentősen késleltette egy hatalmas földcsuszamlás a gát helyszínén", "A Puna-II-nek geológiai problémái voltak a földalatti erőműben", "Befejezése után várhatóan több mint kétszeresére növeli Bhután energiaexportját", "A bhutáni Druk Green Power Corporation és az indiai kormány közös vállalkozása", "A projektek a Puna Tsang Chhu folyó vizét használják", "A teljes költséget több milliárd dollárra becsülik", "Több ezer munkahelyet teremt az építkezés és az üzemeltetés során"],
       ro: ["Constă din două proiecte separate (Puna-I, Puna-II)", "Puna-I a fost întârziat semnificativ de o alunecare de teren masivă la locația barajului", "Puna-II a avut probleme cu condițiile geologice în centrala subterană", "Se așteaptă să dubleze exporturile de energie ale Bhutanului după finalizare", "Un joint-venture între Druk Green Power Corporation din Bhutan și guvernul indian", "Proiectele utilizează apa râului Puna Tsang Chhu", "Costurile combinate sunt estimate la câteva miliarde de dolari SUA", "Va crea mii de locuri de muncă în timpul construcției și operării"],
       en: ["Consists of two separate projects (Puna-I, Puna-II)", "Puna-I was significantly delayed by a massive landslide at the dam site", "Puna-II faced issues with geological conditions in the underground powerhouse", "Expected to more than double Bhutan's energy exports upon completion", "A joint venture between Bhutan's Druk Green Power Corporation and the Indian government", "The projects utilize the water of the Puna Tsang Chhu river", "The combined cost is estimated to be several billion US dollars", "Will create thousands of jobs during construction and operation"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Punatsangchhu-Wasserkraftprojekt ist ein großes Infrastrukturvorhaben in Bhutan, das am Fluss Punatsangchhu im Distrikt Wangdue Phodrang errichtet wird. Es besteht aus zwei Staudämmen, Punatsangchhu I und II, mit einer geplanten Gesamtkapazität von 2.400 Megawatt. Das Projekt ist eine gemeinsame Initiative Bhutans und Indiens, um saubere Energie zu erzeugen und wirtschaftliche Entwicklung zu fördern. Der Bau begann 2008, wurde jedoch durch geologische Instabilitäten und Verzögerungen beeinträchtigt. Punatsangchhu I wird eine installierte Leistung von 1.200 MW haben, während Punatsangchhu II weitere 1.000 MW beitragen soll. Die Anlage wird voraussichtlich jährlich über 6.000 GWh Strom erzeugen, wovon der Großteil nach Indien exportiert wird. Das Projekt hat erhebliche Auswirkungen auf die lokale Wirtschaft, da es Arbeitsplätze schafft und die Infrastruktur verbessert. Allerdings gibt es auch Bedenken hinsichtlich der Umweltauswirkungen und der Umsiedlung von Gemeinden.",
+      hu: "A Punatsangchhu vízerőmű-projekt Bhután egyik legnagyobb infrastrukturális beruházása, amely a Punatsangchhu folyón, Wangdue Phodrang körzetben valósul meg. Két gátból áll, Punatsangchhu I és II, amelyek összesen 2.400 megawatt kapacitást terveznek. A projekt a bhutáni és indiai kormány közös vállalkozása a tiszta energia termelésére és a gazdasági növekedés elősegítésére. Az építkezés 2008-ban kezdődött, de geológiai instabilitás és késedelmek hátráltatták. Punatsangchhu I beépített teljesítménye 1.200 MW, Punatsangchhu II további 1.000 MW-ot ad hozzá. Az erőmű várhatóan évi 6.000 GWh áramot termel, amelynek nagy részét Indiába exportálják. A projekt munkahelyeket teremt és javítja az infrastruktúrát, ugyanakkor környezeti aggályokat és lakossági áttelepítést is okoz.",
+      ro: "Proiectul hidroelectric Punatsangchhu este o investiție majoră în Bhutan, situată pe râul Punatsangchhu din districtul Wangdue Phodrang. Este compus din două baraje, Punatsangchhu I și II, cu o capacitate totală planificată de 2.400 de megawați. Proiectul este o inițiativă comună între Bhutan și India pentru a produce energie curată și a stimula dezvoltarea economică. Construcția a început în 2008, dar a fost afectată de instabilitate geologică și întârzieri. Punatsangchhu I va avea o capacitate instalată de 1.200 MW, iar Punatsangchhu II va adăuga încă 1.000 MW. Centrala va genera anual peste 6.000 GWh de electricitate, majoritatea fiind exportată în India. Proiectul creează locuri de muncă și îmbunătățește infrastructura, dar ridică probleme de mediu și de relocare a comunităților.",
+      en: "The Punatsangchhu Hydropower Project is a large infrastructure endeavor in Bhutan, located on the Punatsangchhu River in Wangdue Phodrang District. It comprises two dams, Punatsangchhu I and II, with a combined planned capacity of 2,400 megawatts. The project is a joint venture between Bhutan and India to generate clean energy and foster economic growth. Construction began in 2008 but has faced delays due to geological instability. Punatsangchhu I will have an installed capacity of 1,200 MW, while Punatsangchhu II will add another 1,000 MW. The plant is expected to produce over 6,000 GWh annually, with most electricity exported to India. The project creates jobs and improves infrastructure, though environmental concerns and community resettlement remain challenges.",
+    },
   },
   {
     id: "basochhu-hydropower-plant-economic-v2",
@@ -163,7 +164,6 @@ image: "/poi-images/punatsangchhu-hydropower-economic-v2.webp"
     parent: "BT-32",
     coords: [89.9200, 27.3917],
     name: { de: "Basochhu-Wasserkraftwerk", hu: "Basochhu Vízerőmű", ro: "Hidrocentrala Basochhu", en: "Basochhu Hydropower Plant",
-image: "/poi-images/basochhu-hydropower-plant-economic-v2.webp"
 },
     description: {
       de: "Ein kleineres, aber effizientes Wasserkraftwerk, das mit österreichischer Unterstützung gebaut wurde. Es nutzt den steilen Abfall eines Gebirgsbachs zur Stromerzeugung für den Inlandsbedarf.",
@@ -196,7 +196,6 @@ image: "/poi-images/basochhu-hydropower-plant-economic-v2.webp"
     parent: "BT-21",
     coords: [89.9678, 27.0506],
     name: { de: "Dagachhu-Wasserkraftwerk", hu: "Dagachhu Vízerőmű", ro: "Hidrocentrala Dagachhu", en: "Dagachhu Hydropower Plant",
-image: "/poi-images/dagachhu-hydropower-plant-economic-v2.webp"
 },
     description: {
       de: "Ein Wasserkraftprojekt im Distrikt Dagana, das als erstes bhutanisches Infrastrukturprojekt im Rahmen eines öffentlich-privaten Partnerschaftsmodells entwickelt wurde. Es generiert auch CO2-Zertifikate.",
@@ -229,7 +228,6 @@ image: "/poi-images/dagachhu-hydropower-plant-economic-v2.webp"
     parent: "BT-12",
     coords: [89.4181, 26.8394],
     name: { de: "Industriegebiet Pasakha", hu: "Pasakha Ipari Park", ro: "Parcul Industrial Pasakha", en: "Pasakha Industrial Estate",
-image: "/poi-images/pasakha-industrial-estate-economic-v2.webp"
 },
     description: {
       de: "Bhutans größtes und wichtigstes Industriezentrum nahe der indischen Grenze. Hier befinden sich Schwerindustrien wie Ferrosilizium- und Zementwerke, die vom reichlichen Stromangebot profitieren.",
@@ -261,7 +259,6 @@ image: "/poi-images/pasakha-industrial-estate-economic-v2.webp"
     parent: "BT-31",
     coords: [90.4667, 26.9000],
     name: { de: "Industriepark Jigmeling", hu: "Jigmeling Ipari Park", ro: "Parcul Industrial Jigmeling", en: "Jigmeling Industrial Park",
-image: "/poi-images/jigmeling-industrial-park-economic-v2.webp"
 },
     description: {
       de: "Ein neu entwickelter, großflächiger Industriepark im Distrikt Sarpang. Er ist darauf ausgelegt, ausländische Direktinvestitionen anzuziehen und umweltfreundliche Produktionsstätten aufzubauen.",
@@ -293,7 +290,6 @@ image: "/poi-images/jigmeling-industrial-park-economic-v2.webp"
     parent: "BT-45",
     coords: [91.5000, 26.8333],
     name: { de: "Industriepark Motanga", hu: "Motanga Ipari Park", ro: "Parcul Industrial Motanga", en: "Motanga Industrial Park",
-image: "/poi-images/motanga-industrial-park-economic-v2.webp"
 },
     description: {
       de: "Dieser Industriepark in Ost-Bhutan fördert die regionale Wirtschaftsentwicklung. Er bietet Infrastruktur für mittlere Unternehmen und nutzt die Nähe zum indischen Bundesstaat Assam für den Handel.",
@@ -325,7 +321,6 @@ image: "/poi-images/motanga-industrial-park-economic-v2.webp"
     parent: "BT-15",
     coords: [89.5539, 27.4208],
     name: { de: "Industriegebiet Bjemina", hu: "Bjemina Ipari Park", ro: "Zona Industrială Bjemina", en: "Bjemina Industrial Estate",
-image: "/poi-images/bjemina-industrial-estate-economic-v2.webp"
 },
     description: {
       de: "Ein Industriegebiet in der Nähe der Hauptstadt Thimphu, das sich auf Leichtindustrie, Holzverarbeitung und Baustoffe konzentriert. Es unterstützt das städtische Wachstum ohne schwere Umweltbelastung.",
@@ -357,7 +352,6 @@ image: "/poi-images/bjemina-industrial-estate-economic-v2.webp"
     parent: "BT-14",
     coords: [89.0989, 26.8997],
     name: { de: "Industriepark Dhamdum", hu: "Dhamdum Ipari Park", ro: "Parcul Industrial Dhamdum", en: "Dhamdum Industrial Park",
-image: "/poi-images/dhamdum-industrial-park-economic-v2.webp"
 },
     description: {
       de: "Ein moderner Industriepark im Distrikt Samtse. Er zielt darauf ab, saubere Technologien und verarbeitende Industrien anzusiedeln, um Arbeitsplätze für die lokale Bevölkerung im Südwesten zu schaffen.",
@@ -389,7 +383,6 @@ image: "/poi-images/dhamdum-industrial-park-economic-v2.webp"
     parent: "BT-14",
     coords: [89.1550, 26.7911],
     name: { de: "Penden Zementfabrik (Gomtu)", hu: "Penden Cementgyár (Gomtu)", ro: "Fabrica de Ciment Penden (Gomtu)", en: "Penden Cement Authority (Gomtu)",
-image: "/poi-images/penden-cement-authority-economic-v2.webp"
 },
     description: {
       de: "Das älteste und eines der größten Zementwerke Bhutans in Gomtu. Die Produktion ist essenziell für die Infrastrukturprojekte des Landes und den Bau der riesigen Wasserkraftwerke.",
@@ -422,7 +415,6 @@ image: "/poi-images/penden-cement-authority-economic-v2.webp"
     parent: "BT-43",
     coords: [91.2464, 26.8306],
     name: { de: "Dungsam Zementfabrik", hu: "Dungsam Cementgyár", ro: "Fabrica de Ciment Dungsam", en: "Dungsam Cement Corporation",
-image: "/poi-images/dungsam-cement-corporation-economic-v2.webp"
 },
     description: {
       de: "Eine hochmoderne, staatliche Zementproduktionsstätte in Nganglam. Sie produziert hochwertigen Zement, der den stark wachsenden Inlandsbedarf deckt und Exportmöglichkeiten bietet.",
@@ -454,7 +446,6 @@ image: "/poi-images/dungsam-cement-corporation-economic-v2.webp"
     parent: "BT-12",
     coords: [89.3875, 26.8625],
     name: { de: "Trockenhafen Phuentsholing", hu: "Phuentsholing Szárazkikötő", ro: "Portul Uscat Phuentsholing", en: "Phuentsholing Mini Dry Port",
-image: "/poi-images/phuentsholing-mini-dry-port-economic-v2.webp"
 },
     description: {
       de: "Ein entscheidender Umschlagplatz für Bhutans Außenhandel. Da das Land keinen Zugang zum Meer hat, werden hier Güter aus und nach Indien, Kalkutta, zentral abgewickelt und verzollt.",
@@ -487,7 +478,6 @@ image: "/poi-images/phuentsholing-mini-dry-port-economic-v2.webp"
     parent: "BT-31",
     coords: [90.4939, 26.8661],
     name: { de: "Trockenhafen Gelephu", hu: "Gelephu Szárazkikötő", ro: "Portul Uscat Gelephu", en: "Gelephu Dry Port",
-image: "/poi-images/gelephu-dry-port-economic-v2.webp"
 },
     description: {
       de: "Dieser Hafen im Landesinneren dient als wichtiges Logistikzentrum für den mittleren Süden Bhutans. Er ermöglicht eine effiziente Abwicklung von Import- und Exportgütern auf dem Landweg.",
@@ -519,7 +509,6 @@ image: "/poi-images/gelephu-dry-port-economic-v2.webp"
     parent: "BT-31",
     coords: [90.5167, 26.8833],
     name: { de: "Sonderwirtschaftszone Gelephu", hu: "Gelephu Különleges Gazdasági Övezet", ro: "Zona Economică Specială Gelephu", en: "Gelephu Special Economic Zone",
-image: "/poi-images/gelephu-special-economic-zone-v2.webp"
 },
     description: {
       de: "Ein bahnbrechendes visionäres Projekt des Königs, bekannt als 'Mindfulness City'. Es soll ein globaler Knotenpunkt für nachhaltige Wirtschaft, Gesundheit, Bildung und grüne Technologie werden.",
@@ -551,7 +540,6 @@ image: "/poi-images/gelephu-special-economic-zone-v2.webp"
     parent: "BT-45",
     coords: [91.5033, 26.8000],
     name: { de: "Handelszentrum Samdrup Jongkhar", hu: "Samdrup Jongkhar Kereskedelmi Központ", ro: "Centrul Comercial Samdrup Jongkhar", en: "Samdrup Jongkhar Trade Hub",
-image: "/poi-images/samdrup-jongkhar-trade-hub-economic-v2.webp"
 },
     description: {
       de: "Der älteste Grenzort im Osten Bhutans, der historisch als primärer Handelsstützpunkt diente. Heute erlebt er eine Wiederbelebung als vitaler Grenzübergang für den wirtschaftlichen Warenaustausch.",
@@ -583,7 +571,6 @@ image: "/poi-images/samdrup-jongkhar-trade-hub-economic-v2.webp"
     parent: "BT-43",
     coords: [91.3122, 27.0511],
     name: { de: "Gipsmine Khothakpa", hu: "Khothakpa Gipszbánya", ro: "Mina de Ghips Khothakpa", en: "Khothakpa Gypsum Mine",
-image: "/poi-images/khothakpa-gypsum-mine-economic-v2.webp"
 },
     description: {
       de: "Bhutans wichtigste Gipsmine, betrieben durch die State Mining Corporation. Das hier gewonnene Mineral wird intensiv für die heimische Zementproduktion sowie für den Export genutzt.",
@@ -615,7 +602,6 @@ image: "/poi-images/khothakpa-gypsum-mine-economic-v2.webp"
     parent: "BT-12",
     coords: [89.4120, 26.8375],
     name: { de: "Bhutan Ferro Alloys", hu: "Bhutan Ferro Alloys", ro: "Bhutan Ferro Alloys", en: "Bhutan Ferro Alloys",
-image: "/poi-images/bhutan-ferro-alloys-economic-v2.webp"
 },
     description: {
       de: "Ein führendes Industrieunternehmen in Pasakha, das hochwertiges Ferrosilizium herstellt. Es nutzt den reichlich vorhandenen und günstigen Strom Bhutans, um wettbewerbsfähige Legierungen für den internationalen Stahlmarkt zu produzieren.",

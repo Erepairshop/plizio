@@ -5,9 +5,8 @@ export const spainEconomicV2: POI[] = [
     id: "spain-port-algeciras-economic-v2",
     parent: "ES",
     type: "port",
-    name: { de: "Hafen von Algeciras", hu: "Algeciras kikötője", ro: "Portul Algeciras", en: "Port of Algeciras",
-image: "/poi-images/spain-port-algeciras-economic-v2.webp"
-},
+    name: { de: "Hafen von Algeciras", hu: "Algeciras kikötője", ro: "Portul Algeciras", en: "Port of Algeciras"},
+    image: "/poi-images/spain-port-algeciras-economic-v2.webp",
     coords: [-5.4417, 36.1333],
     coordinates: { lat: 36.1333, lng: -5.4417 },
     description: {
@@ -40,9 +39,8 @@ imageHint: "Aerial view of Algeciras container terminal with cranes",
     id: "spain-port-valencia-economic-v2",
     parent: "ES",
     type: "port",
-    name: { de: "Hafen von Valencia", hu: "Valenciai kikötő", ro: "Portul Valencia", en: "Port of Valencia",
-image: "/poi-images/spain-port-valencia-economic-v2.webp"
-},
+    name: { de: "Hafen von Valencia", hu: "Valenciai kikötő", ro: "Portul Valencia", en: "Port of Valencia"},
+    image: "/poi-images/spain-port-valencia-economic-v2.webp",
     coords: [-0.3236, 39.4475],
     coordinates: { lat: 39.4475, lng: -0.3236 },
     description: {
@@ -75,9 +73,8 @@ imageHint: "Port of Valencia container ships and logistics area",
     id: "spain-port-barcelona-economic-v2",
     parent: "ES",
     type: "port",
-    name: { de: "Hafen von Barcelona", hu: "Barcelonai kikötő", ro: "Portul Barcelona", en: "Port of Barcelona",
-image: "/poi-images/spain-port-barcelona-economic-v2.webp"
-},
+    name: { de: "Hafen von Barcelona", hu: "Barcelonai kikötő", ro: "Portul Barcelona", en: "Port of Barcelona"},
+    image: "/poi-images/spain-port-barcelona-economic-v2.webp",
     coords: [2.1667, 41.35],
     coordinates: { lat: 41.35, lng: 2.1667 },
     description: {
@@ -98,7 +95,7 @@ imageHint: "Barcelona port logistics area and cruise terminal",
       hu: "Barcelona kikötője a Földközi-tenger egyik legsokoldalúbb és történelmileg legjelentősebb tengeri infrastrukturális projektjét képviseli. Funkciók hatalmas választékát egyesíti: amellett, hogy Katalónia erős iparának, különösen az autóiparnak alapvető árufuvarozási csomópontja, vitathatatlan piacvezető az európai tengeri hajózási és körutazási szegmensben. A Zona Franca néven ismert kiterjedt szabadkereskedelmi övezet globális logisztikai vállalatokat és technológiai cégeket vonz, szinergiákat teremtve a termelés és a forgalmazás között. A folyamatos bővítési projektek, mint például a Llobregat-delta fejlesztése, drasztikusan megnövelték a konténer- és cseppfolyósítottgáz-átrakodási kapacitásokat. Ez a gazdasági dinamizmus a kikötőt a teljes barcelonai nagyvárosi régió jólétének központi motorjává teszi.",
       ro: "Portul Barcelona reprezintă unul dintre cele mai versatile și istoric semnificative proiecte de infrastructură maritimă din Marea Mediterană. Combină o gamă enormă de funcții: pe lângă rolul său de nod esențial de marfă pentru industria puternică a Cataloniei, în special sectorul auto, este liderul incontestabil al pieței în segmentul european al croazierelor. Zona extinsă de comerț liber, cunoscută sub numele de Zona Franca, atrage corporații logistice globale și companii de tehnologie, creând sinergii între producție și distribuție. Proiectele continue de extindere, cum ar fi dezvoltarea Deltei Llobregat, au crescut drastic capacitățile pentru manipularea containerelor și a gazelor naturale lichefiate. Această dinamică economică face din port un motor central pentru prosperitatea întregii regiuni metropolitane Barcelona.",
       en: "The Port of Barcelona stands out for its extraordinary versatility, successfully combining cargo handling with an enormous volume of passengers. As Europe's largest cruise port, it welcomes millions of tourists annually, giving it a central role in the local economy of the Catalan metropolis. In the freight sector, the port is of paramount importance especially for the automotive industry, as thousands of vehicles from local and international car manufacturing are exported from here. The port's logistics free trade zone also attracts multinational companies that use the port as a European distribution center. With a continuous expansion of terminal capacities, Barcelona remains a crucial economic engine in the western Mediterranean.",
-      en: "The Port of Barcelona represents one of the most versatile and historically significant maritime infrastructure projects on the Mediterranean. It combines an enormous range of functions: in addition to its role as an essential freight hub for Catalonia's strong industry, especially the automotive sector, it is the undisputed market leader in the European cruise segment. The extensive free trade zone, known as the Zona Franca, attracts global logistics corporations and technology companies, creating synergies between production and distribution. Continuous expansion projects, such as the development of the Llobregat Delta, have drastically increased capacities for container and liquefied natural gas handling. This economic dynamism makes the port a central engine for the prosperity of the entire Barcelona metropolitan region."
+//       en: "The Port of Barcelona represents one of the most versatile and historically significant maritime infrastructure projects on the Mediterranean. It combines an enormous range of functions: in addition to its role as an essential freight hub for Catalonia's strong industry, especially the automotive sector, it is the undisputed market leader in the European cruise segment. The extensive free trade zone, known as the Zona Franca, attracts global logistics corporations and technology companies, creating synergies between production and distribution. Continuous expansion projects, such as the development of the Llobregat Delta, have drastically increased capacities for container and liquefied natural gas handling. This economic dynamism makes the port a central engine for the prosperity of the entire Barcelona metropolitan region."
     },
     factsAdvanced: {
       de: ["Európa legforgalmasabb óceánjáró terminálja, évente több millió turistát fogadva a járvány előtti időszakban", "Több mint 3,5 millió TEU konténeres áruforgalmat bonyolít le éves szinten a modernizált dokkokon", "A Zona Franca nevű kiterjedt szabadkereskedelmi zóna több száz logisztikai és ipari cégnek ad otthont", "A Seat és a Nissan gyárak közelsége miatt az egyik legnagyobb európai gépjármű-export központ", "Jelentős terminálokkal rendelkezik a cseppfolyósított földgáz (LNG) és a kőolajszármazékok kezelésére", "A kereskedelmi kikötő több mint 2000 éves dokumentált történelmi múlttal rendelkezik a római korig visszamenőleg"],
@@ -111,9 +108,8 @@ imageHint: "Barcelona port logistics area and cruise terminal",
     id: "spain-port-bilbao-economic-v2",
     parent: "ES",
     type: "port",
-    name: { de: "Hafen von Bilbao", hu: "Bilbaói kikötő", ro: "Portul Bilbao", en: "Port of Bilbao",
-image: "/poi-images/spain-port-bilbao-economic-v2.webp"
-},
+    name: { de: "Hafen von Bilbao", hu: "Bilbaói kikötő", ro: "Portul Bilbao", en: "Port of Bilbao"},
+    image: "/poi-images/spain-port-bilbao-economic-v2.webp",
     coords: [-3.03, 43.34],
     coordinates: { lat: 43.34, lng: -3.03 },
     description: {
@@ -146,9 +142,8 @@ imageHint: "Industrial docks of Port of Bilbao",
     id: "spain-seat-martorell-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "SEAT-Werk Martorell", hu: "SEAT Martorell gyár", ro: "Fabrica SEAT Martorell", en: "SEAT Martorell Plant",
-image: "/poi-images/spain-seat-martorell-economic-v2.webp"
-},
+    name: { de: "SEAT-Werk Martorell", hu: "SEAT Martorell gyár", ro: "Fabrica SEAT Martorell", en: "SEAT Martorell Plant"},
+    image: "/poi-images/spain-seat-martorell-economic-v2.webp",
     coords: [1.9167, 41.4833],
     coordinates: { lat: 41.4833, lng: 1.9167 },
     description: {
@@ -181,9 +176,8 @@ image: "/poi-images/spain-seat-martorell-economic-v2.webp"
     id: "spain-stellantis-vigo-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "Stellantis-Werk Vigo", hu: "Stellantis Vigo gyár", ro: "Fabrica Stellantis Vigo", en: "Stellantis Vigo Plant",
-image: "/poi-images/spain-stellantis-vigo-economic-v2.webp"
-},
+    name: { de: "Stellantis-Werk Vigo", hu: "Stellantis Vigo gyár", ro: "Fabrica Stellantis Vigo", en: "Stellantis Vigo Plant"},
+    image: "/poi-images/spain-stellantis-vigo-economic-v2.webp",
     coords: [-8.7303, 42.2142],
     coordinates: { lat: 42.2142, lng: -8.7303 },
     description: {
@@ -216,9 +210,8 @@ imageHint: "Stellantis Vigo automobile factory exterior",
     id: "spain-almeria-greenhouses-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Gewächshäuser von Almería", hu: "Almería üvegházai", ro: "Serele din Almería", en: "Almería Greenhouses",
-image: "/poi-images/spain-almeria-greenhouses-economic-v2.webp"
-},
+    name: { de: "Gewächshäuser von Almería", hu: "Almería üvegházai", ro: "Serele din Almería", en: "Almería Greenhouses"},
+    image: "/poi-images/spain-almeria-greenhouses-economic-v2.webp",
     coords: [-2.8108, 36.7725],
     coordinates: { lat: 36.7725, lng: -2.8108 },
     description: {
@@ -251,9 +244,8 @@ image: "/poi-images/spain-almeria-greenhouses-economic-v2.webp"
     id: "spain-inditex-hq-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Inditex-Hauptsitz", hu: "Inditex központ", ro: "Sediul Inditex", en: "Inditex Headquarters",
-image: "/poi-images/spain-inditex-hq-economic-v2.webp"
-},
+    name: { de: "Inditex-Hauptsitz", hu: "Inditex központ", ro: "Sediul Inditex", en: "Inditex Headquarters"},
+    image: "/poi-images/spain-inditex-hq-economic-v2.webp",
     coords: [-8.5081, 43.3136],
     coordinates: { lat: 43.3136, lng: -8.5081 },
     description: {
@@ -286,9 +278,8 @@ imageHint: "Modern Inditex headquarters building in Arteixo",
     id: "spain-cuatro-torres-economic-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "Cuatro Torres Business Area", hu: "Cuatro Torres üzleti negyed", ro: "Cuatro Torres Business Area", en: "Cuatro Torres Business Area",
-image: "/poi-images/spain-cuatro-torres-economic-v2.webp"
-},
+    name: { de: "Cuatro Torres Business Area", hu: "Cuatro Torres üzleti negyed", ro: "Cuatro Torres Business Area", en: "Cuatro Torres Business Area"},
+    image: "/poi-images/spain-cuatro-torres-economic-v2.webp",
     coords: [-3.6872, 40.4792],
     coordinates: { lat: 40.4792, lng: -3.6872 },
     description: {
@@ -321,9 +312,8 @@ imageHint: "Four skyscrapers of Cuatro Torres in Madrid",
     id: "spain-azca-district-economic-v2",
     parent: "ES",
     type: "landmark",
-    name: { de: "AZCA-Geschäftsviertel", hu: "AZCA üzleti negyed", ro: "Cartierul AZCA", en: "AZCA District",
-image: "/poi-images/spain-azca-district-economic-v2.webp"
-},
+    name: { de: "AZCA-Geschäftsviertel", hu: "AZCA üzleti negyed", ro: "Cartierul AZCA", en: "AZCA District"},
+    image: "/poi-images/spain-azca-district-economic-v2.webp",
     coords: [-3.6925, 40.4503],
     coordinates: { lat: 40.4503, lng: -3.6925 },
     description: {
@@ -356,9 +346,8 @@ imageHint: "AZCA business district skyscrapers in Madrid",
     id: "spain-22-arrob-barcelona-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "22@ Barcelona", hu: "22@ Barcelona", ro: "22@ Barcelona", en: "22@ Barcelona",
-image: "/poi-images/spain-22-arrob-barcelona-economic-v2.webp"
-},
+    name: { de: "22@ Barcelona", hu: "22@ Barcelona", ro: "22@ Barcelona", en: "22@ Barcelona"},
+    image: "/poi-images/spain-22-arrob-barcelona-economic-v2.webp",
     coords: [2.1931, 41.4017],
     coordinates: { lat: 41.4017, lng: 2.1931 },
     description: {
@@ -391,9 +380,8 @@ image: "/poi-images/spain-22-arrob-barcelona-economic-v2.webp"
     id: "spain-rio-tinto-mines-economic-v2",
     parent: "ES",
     type: "mine",
-    name: { de: "Minas de Ríotinto", hu: "Río Tinto bányák", ro: "Minele Rio Tinto", en: "Rio Tinto Mines",
-image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp"
-},
+    name: { de: "Minas de Ríotinto", hu: "Río Tinto bányák", ro: "Minele Rio Tinto", en: "Rio Tinto Mines"},
+    image: "/poi-images/spain-rio-tinto-mines-economic-v2.webp",
     coords: [-6.5936, 37.6917],
     coordinates: { lat: 37.6917, lng: -6.5936 },
     description: {
@@ -426,9 +414,8 @@ imageHint: "Open pit mine and red river of Rio Tinto",
     id: "spain-puertollano-industrial-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Industriezentrum Puertollano", hu: "Puertollano ipari központ", ro: "Complexul Industrial Puertollano", en: "Puertollano Industrial Complex",
-image: "/poi-images/spain-puertollano-industrial-economic-v2.webp"
-},
+    name: { de: "Industriezentrum Puertollano", hu: "Puertollano ipari központ", ro: "Complexul Industrial Puertollano", en: "Puertollano Industrial Complex"},
+    image: "/poi-images/spain-puertollano-industrial-economic-v2.webp",
     coords: [-4.1083, 38.6833],
     coordinates: { lat: 38.6833, lng: -4.1083 },
     description: {
@@ -449,7 +436,7 @@ image: "/poi-images/spain-puertollano-industrial-economic-v2.webp"
       hu: "A Kasztília-La Mancha széles síkságán fekvő Puertollano a spanyol nehéz- és energiaipar történelmi és modern központja. Ipari identitását a 19. században a feketeszén intenzív bányászata formálta, amely erős helyi gazdaságot alapozott meg. Amikor a szénbányászat a 20. század végén veszteségessé vált, a város figyelemre méltó átalakuláson ment keresztül. Ma a Repsol gigantikus petrolkémiai komplexuma uralja a tájat, amely Spanyolország egyik legfontosabb szárazföldi finomítójaként működik. Puertollano emellett megérti, hogyan kell felkészülni a jövőre: a város hatalmas összegeket fektet a megújuló energiákba, és a zöld hidrogén, valamint a napenergia-technológia vezető nemzeti kutatási és termelési központjaként pozicionálja magát, amivel jelentősen hozzájárul a spanyol ipar dekarbonizációjához.",
       ro: "Puertollano, situat în câmpia vastă din Castilia-La Mancha, este un centru istoric și modern al industriei grele și energetice spaniole. Identitatea sa industrială a fost modelată în secolul al XIX-lea de extracția intensivă a huilei, care a pus bazele unei economii locale puternice. Când extracția cărbunelui a devenit neprofitabilă la sfârșitul secolului al XX-lea, orașul a suferit o transformare remarcabilă. Astăzi, gigantul complex petrochimic al Repsol domină peisajul, funcționând ca una dintre cele mai importante rafinării din interiorul Spaniei. De asemenea, Puertollano știe cum să se pregătească pentru viitor: orașul investește masiv în energii regenerabile și se poziționează ca un centru național lider de cercetare și producție pentru hidrogenul verde și tehnologia solară, aducând astfel o contribuție importantă la decarbonizarea industriei spaniole.",
       en: "Puertollano, located in the Castilla-La Mancha region, has evolved from a traditional mining town into an ultra-modern center for energy and petrochemistry. After the once-rich coal deposits were exhausted, the town embarked on a profound industrial transformation. Today, the massive Repsol refinery dominates the economic landscape and represents a central hub for Spanish fuel and chemical production. In parallel, Puertollano is investing heavily in the future: research centers for green hydrogen technology, photovoltaic parks, and state-of-the-art facilities for biofuel production make the town a pioneer in the national energy transition. This mix of classic heavy industry and pioneering research secures Puertollano a key role in Spain's industrial architecture.",
-      en: "Puertollano, located in the vast plain of Castilla-La Mancha, is a historical and modern center of the Spanish heavy and energy industry. Its industrial identity was shaped in the 19th century by the intensive mining of hard coal, which formed the basis for a strong local economy. When coal mining became unprofitable in the late 20th century, the city underwent a remarkable transformation. Today, the gigantic petrochemical complex of Repsol dominates the landscape, functioning as one of the most important inland refineries in Spain. Puertollano also knows how to position itself for the future: the city is investing massively in renewable energies and positioning itself as a leading national research and production center for green hydrogen and solar technology, thereby making an important contribution to the decarbonization of Spanish industry."
+//       en: "Puertollano, located in the vast plain of Castilla-La Mancha, is a historical and modern center of the Spanish heavy and energy industry. Its industrial identity was shaped in the 19th century by the intensive mining of hard coal, which formed the basis for a strong local economy. When coal mining became unprofitable in the late 20th century, the city underwent a remarkable transformation. Today, the gigantic petrochemical complex of Repsol dominates the landscape, functioning as one of the most important inland refineries in Spain. Puertollano also knows how to position itself for the future: the city is investing massively in renewable energies and positioning itself as a leading national research and production center for green hydrogen and solar technology, thereby making an important contribution to the decarbonization of Spanish industry."
     },
     factsAdvanced: {
       de: ["A 19. század végétől évtizedeken át Spanyolország egyik legfontosabb szénmedencéje volt", "A Repsol finomítója az egyetlen jelentős kapacitású, kikötőtől távol eső kőolajfinomító az országban", "Egy több mint 260 km hosszú, dedikált olajvezeték köti össze közvetlenül az andalúziai partokkal", "Nemzeti kutatóintézetek működnek itt a zöld hidrogén technológia és az energiatárolás fejlesztésére", "A hatalmas kiterjedésű napelemparkok kihasználják a régió rendkívül magas napsütéses óráinak számát", "A város csatlakozott a spanyol nagysebességű vasúthálózathoz (AVE), növelve logisztikai jelentőségét"],
@@ -462,9 +449,8 @@ image: "/poi-images/spain-puertollano-industrial-economic-v2.webp"
     id: "spain-huelva-chemical-pole-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Chemiepol von Huelva", hu: "Huelvai vegyipari központ", ro: "Polul Chimic Huelva", en: "Huelva Chemical Pole",
-image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp"
-},
+    name: { de: "Chemiepol von Huelva", hu: "Huelvai vegyipari központ", ro: "Polul Chimic Huelva", en: "Huelva Chemical Pole"},
+    image: "/poi-images/spain-huelva-chemical-pole-economic-v2.webp",
     coords: [-6.9317, 37.2403],
     coordinates: { lat: 37.2403, lng: -6.9317 },
     description: {
@@ -497,9 +483,8 @@ imageHint: "Industrial skyline of Huelva chemical plants",
     id: "spain-solar-platform-almeria-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Solarplattform von Almería", hu: "Almeríai Napenergia Platform", ro: "Platforma Solară din Almería", en: "Solar Platform of Almería",
-image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp"
-},
+    name: { de: "Solarplattform von Almería", hu: "Almeríai Napenergia Platform", ro: "Platforma Solară din Almería", en: "Solar Platform of Almería"},
+    image: "/poi-images/spain-solar-platform-almeria-economic-v2.webp",
     coords: [-2.3583, 37.0917],
     coordinates: { lat: 37.0917, lng: -2.3583 },
     description: {
@@ -532,9 +517,8 @@ imageHint: "Solar tower and heliostats at Plataforma Solar de Almería",
     id: "spain-gemasolar-plant-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Gemasolar Solarkraftwerk", hu: "Gemasolar naperőmű", ro: "Centrala Gemasolar", en: "Gemasolar Plant",
-image: "/poi-images/spain-gemasolar-plant-economic-v2.webp"
-},
+    name: { de: "Gemasolar Solarkraftwerk", hu: "Gemasolar naperőmű", ro: "Centrala Gemasolar", en: "Gemasolar Plant"},
+    image: "/poi-images/spain-gemasolar-plant-economic-v2.webp",
     coords: [-5.3319, 37.5611],
     coordinates: { lat: 37.5611, lng: -5.3319 },
     description: {
@@ -567,9 +551,8 @@ imageHint: "Circular array of mirrors and central tower at Gemasolar",
     id: "spain-arcelormittal-aviles-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "ArcelorMittal Werk Avilés", hu: "ArcelorMittal Avilés gyár", ro: "Fabrica ArcelorMittal Avilés", en: "ArcelorMittal Avilés Plant",
-image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp"
-},
+    name: { de: "ArcelorMittal Werk Avilés", hu: "ArcelorMittal Avilés gyár", ro: "Fabrica ArcelorMittal Avilés", en: "ArcelorMittal Avilés Plant"},
+    image: "/poi-images/spain-arcelormittal-aviles-economic-v2.webp",
     coords: [-5.9, 43.56],
     coordinates: { lat: 43.56, lng: -5.9 },
     description: {
@@ -602,9 +585,8 @@ imageHint: "Heavy industry blast furnaces in Avilés",
     id: "spain-cartagena-refinery-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "Raffinerie von Cartagena", hu: "Cartagenai finomító", ro: "Rafinăria din Cartagena", en: "Cartagena Refinery",
-image: "/poi-images/spain-cartagena-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie von Cartagena", hu: "Cartagenai finomító", ro: "Rafinăria din Cartagena", en: "Cartagena Refinery"},
+    image: "/poi-images/spain-cartagena-refinery-economic-v2.webp",
     coords: [-0.925, 37.5833],
     coordinates: { lat: 37.5833, lng: -0.925 },
     description: {
@@ -637,9 +619,8 @@ image: "/poi-images/spain-cartagena-refinery-economic-v2.webp"
     id: "spain-mercamadrid-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Mercamadrid", hu: "Mercamadrid", ro: "Mercamadrid", en: "Mercamadrid",
-image: "/poi-images/spain-mercamadrid-economic-v2.webp"
-},
+    name: { de: "Mercamadrid", hu: "Mercamadrid", ro: "Mercamadrid", en: "Mercamadrid"},
+    image: "/poi-images/spain-mercamadrid-economic-v2.webp",
     coords: [-3.6644, 40.3642],
     coordinates: { lat: 40.3642, lng: -3.6644 },
     description: {
@@ -672,9 +653,8 @@ imageHint: "Busy fish market hall in Mercamadrid",
     id: "spain-mercabarna-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Mercabarna", hu: "Mercabarna", ro: "Mercabarna", en: "Mercabarna",
-image: "/poi-images/spain-mercabarna-economic-v2.webp"
-},
+    name: { de: "Mercabarna", hu: "Mercabarna", ro: "Mercabarna", en: "Mercabarna"},
+    image: "/poi-images/spain-mercabarna-economic-v2.webp",
     coords: [2.1158, 41.3317],
     coordinates: { lat: 41.3317, lng: 2.1158 },
     description: {
@@ -707,9 +687,8 @@ imageHint: "Wholesale fruit and vegetable stands at Mercabarna",
     id: "spain-airbus-getafe-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "Airbus-Werk Getafe", hu: "Airbus Getafe gyár", ro: "Fabrica Airbus Getafe", en: "Airbus Getafe Plant",
-image: "/poi-images/spain-airbus-getafe-economic-v2.webp"
-},
+    name: { de: "Airbus-Werk Getafe", hu: "Airbus Getafe gyár", ro: "Fabrica Airbus Getafe", en: "Airbus Getafe Plant"},
+    image: "/poi-images/spain-airbus-getafe-economic-v2.webp",
     coords: [-3.7258, 40.3017],
     coordinates: { lat: 40.3017, lng: -3.7258 },
     description: {
@@ -742,9 +721,8 @@ imageHint: "Airbus airplane components in Getafe factory hall",
     id: "spain-airbus-seville-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "Airbus San Pablo (Sevilla)", hu: "Airbus San Pablo (Sevilla)", ro: "Airbus San Pablo (Sevilla)", en: "Airbus San Pablo (Seville)",
-image: "/poi-images/spain-airbus-seville-economic-v2.webp"
-},
+    name: { de: "Airbus San Pablo (Sevilla)", hu: "Airbus San Pablo (Sevilla)", ro: "Airbus San Pablo (Sevilla)", en: "Airbus San Pablo (Seville)"},
+    image: "/poi-images/spain-airbus-seville-economic-v2.webp",
     coords: [-5.9017, 37.4208],
     coordinates: { lat: 37.4208, lng: -5.9017 },
     description: {
@@ -777,9 +755,8 @@ imageHint: "Airbus A400M transport plane in assembly hangar",
     id: "spain-castellon-ceramic-cluster-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Keramikcluster von Castellón", hu: "Castellóni kerámia-klaszter", ro: "Clusterul de Ceramică Castellón", en: "Castellón Ceramic Cluster",
-image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp"
-},
+    name: { de: "Keramikcluster von Castellón", hu: "Castellóni kerámia-klaszter", ro: "Clusterul de Ceramică Castellón", en: "Castellón Ceramic Cluster"},
+    image: "/poi-images/spain-castellon-ceramic-cluster-economic-v2.webp",
     coords: [-0.1017, 39.9417],
     coordinates: { lat: 39.9417, lng: -0.1017 },
     description: {
@@ -812,9 +789,8 @@ imageHint: "Ceramic tiles factory and showroom in Castellón",
     id: "spain-elche-footwear-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Schuhindustrie von Elche", hu: "Elchei cipőipar", ro: "Industria de încălțăminte din Elche", en: "Elche Footwear Industry",
-image: "/poi-images/spain-elche-footwear-economic-v2.webp"
-},
+    name: { de: "Schuhindustrie von Elche", hu: "Elchei cipőipar", ro: "Industria de încălțăminte din Elche", en: "Elche Footwear Industry"},
+    image: "/poi-images/spain-elche-footwear-economic-v2.webp",
     coords: [-0.7, 38.27],
     coordinates: { lat: 38.27, lng: -0.7 },
     description: {
@@ -847,9 +823,8 @@ imageHint: "Traditional shoemaking workshop in Elche",
     id: "spain-almaden-mercury-mines-economic-v2",
     parent: "ES",
     type: "mine",
-    name: { de: "Quecksilberminen von Almadén", hu: "Almadéni higanybányák", ro: "Minele de mercur din Almadén", en: "Almadén Mercury Mines",
-image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp"
-},
+    name: { de: "Quecksilberminen von Almadén", hu: "Almadéni higanybányák", ro: "Minele de mercur din Almadén", en: "Almadén Mercury Mines"},
+    image: "/poi-images/spain-almaden-mercury-mines-economic-v2.webp",
     coords: [-4.8417, 38.775],
     coordinates: { lat: 38.775, lng: -4.8417 },
     description: {
@@ -882,9 +857,8 @@ imageHint: "Entrance to historical Almadén mercury mine",
     id: "spain-sagunto-industrial-port-economic-v2",
     parent: "ES",
     type: "port",
-    name: { de: "Industriehafen von Sagunto", hu: "Saguntói ipari kikötő", ro: "Portul Industrial Sagunto", en: "Sagunto Industrial Port",
-image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp"
-},
+    name: { de: "Industriehafen von Sagunto", hu: "Saguntói ipari kikötő", ro: "Portul Industrial Sagunto", en: "Sagunto Industrial Port"},
+    image: "/poi-images/spain-sagunto-industrial-port-economic-v2.webp",
     coords: [-0.2167, 39.65],
     coordinates: { lat: 39.65, lng: -0.2167 },
     description: {
@@ -917,9 +891,8 @@ imageHint: "Steel industry plants near Sagunto port",
     id: "spain-las-cruces-mine-economic-v2",
     parent: "ES",
     type: "mine",
-    name: { de: "Las Cruces Kupfermine", hu: "Las Cruces rézbánya", ro: "Mina de cupru Las Cruces", en: "Las Cruces Copper Mine",
-image: "/poi-images/spain-las-cruces-mine-economic-v2.webp"
-},
+    name: { de: "Las Cruces Kupfermine", hu: "Las Cruces rézbánya", ro: "Mina de cupru Las Cruces", en: "Las Cruces Copper Mine"},
+    image: "/poi-images/spain-las-cruces-mine-economic-v2.webp",
     coords: [-6.1417, 37.5333],
     coordinates: { lat: 37.5333, lng: -6.1417 },
     description: {
@@ -952,9 +925,8 @@ imageHint: "Large excavator at Las Cruces open pit mine",
     id: "spain-escombreras-valley-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Escombreras-Tal", hu: "Escombreras-völgy", ro: "Valea Escombreras", en: "Escombreras Valley",
-image: "/poi-images/spain-escombreras-valley-economic-v2.webp"
-},
+    name: { de: "Escombreras-Tal", hu: "Escombreras-völgy", ro: "Valea Escombreras", en: "Escombreras Valley"},
+    image: "/poi-images/spain-escombreras-valley-economic-v2.webp",
     coords: [-0.9617, 37.575],
     coordinates: { lat: 37.575, lng: -0.9617 },
     description: {
@@ -987,9 +959,8 @@ image: "/poi-images/spain-escombreras-valley-economic-v2.webp"
     id: "spain-tarragona-petrochemical-economic-v2",
     parent: "ES",
     type: "industry",
-    name: { de: "Petrochemiepark Tarragona", hu: "Tarragonai petrolkémiai park", ro: "Parcul Petrochimic Tarragona", en: "Tarragona Petrochemical Camp",
-image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp"
-},
+    name: { de: "Petrochemiepark Tarragona", hu: "Tarragonai petrolkémiai park", ro: "Parcul Petrochimic Tarragona", en: "Tarragona Petrochemical Camp"},
+    image: "/poi-images/spain-tarragona-petrochemical-economic-v2.webp",
     coords: [1.2, 41.1167],
     coordinates: { lat: 41.1167, lng: 1.2 },
     description: {
@@ -1022,9 +993,8 @@ imageHint: "Large petrochemical industrial complex in Tarragona",
     id: "spain-guissona-food-complex-economic-v2",
     parent: "ES",
     type: "factory",
-    name: { de: "Lebensmittelkomplex Guissona", hu: "Guissonai élelmiszer-komplexum", ro: "Complexul Alimentar Guissona", en: "Guissona Food Complex",
-image: "/poi-images/spain-guissona-food-complex-economic-v2.webp"
-},
+    name: { de: "Lebensmittelkomplex Guissona", hu: "Guissonai élelmiszer-komplexum", ro: "Complexul Alimentar Guissona", en: "Guissona Food Complex"},
+    image: "/poi-images/spain-guissona-food-complex-economic-v2.webp",
     coords: [1.2917, 41.7833],
     coordinates: { lat: 41.7833, lng: 1.2917 },
     description: {
@@ -1052,5 +1022,70 @@ image: "/poi-images/spain-guissona-food-complex-economic-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "spain-parque-tecnologico-andalucia-economic-v2",
+    type: "industry",
+    parent: "ES",
+    name: { de: "Technologiepark Andalusien", hu: "Andalúziai Technológiai Park", ro: "Parcul Tehnologic din Andaluzia", en: "Andalusia Technology Park" },
+    coordinates: { lat: 36.733, lng: -4.516 },
+    description: {
+      de: "Dieser 1992 gegründete Innovationscluster in Málaga beherbergt über 600 Unternehmen aus den Bereichen IT, Engineering und Telekommunikation. Er fungiert als zentraler Knotenpunkt für Forschung und technologische Entwicklung in der Region.",
+      hu: "Az 1992-ben alapított, Málagában található innovációs központ több mint 600 informatikai, mérnöki és távközlési vállalatnak ad otthont. A régió kutatási és technológiai fejlesztésének központi csomópontja.",
+      ro: "Fondat în 1992, acest centru de inovare din Málaga găzduiește peste 600 de companii de IT, inginerie și telecomunicații. Acționează ca un nod central pentru cercetare și dezvoltare tehnologică în regiune.",
+      en: "Founded in 1992, this innovation hub in Málaga hosts over 600 companies in IT, engineering, and telecommunications. It serves as a central node for research and technological development in the region.",
+    },
+    facts: {
+      de: ["Grundsteinlegung erfolgte 1992.", "Beheimatet über 600 Unternehmen.", "Spezialisierung auf Software und KI.", "Beschäftigt rund 20.000 Fachkräfte."],
+      hu: ["1992-ben alapították.", "Több mint 600 cég működik itt.", "Szoftverfejlesztésre és AI-ra szakosodott.", "Körülbelül 20 000 szakembert foglalkoztat."],
+      ro: ["Fondat în 1992.", "Găzduiește peste 600 de companii.", "Specializat în software și IA.", "Angajează aproximativ 20.000 de profesioniști."],
+      en: ["Established in 1992.", "Hosts over 600 companies.", "Focuses on software and AI.", "Employs approximately 20,000 professionals."],
+    },
+    imageHint: "modern architecture office buildings in Malaga technology park",
+    descriptionAdvanced: {
+      de: "Der Parque Tecnológico de Andalucía (PTA) in Málaga ist ein führender Technologiepark in Spanien. Er wurde 1992 gegründet und beherbergt über 600 Unternehmen, darunter viele im Bereich der Informations- und Kommunikationstechnologie. Der Park erstreckt sich über eine Fläche von 300 Hektar und beschäftigt rund 18.000 Menschen. Er ist ein wichtiger Motor für Innovation und wirtschaftliche Entwicklung in Andalusien. Der PTA bietet Unternehmen moderne Infrastruktur und Networking-Möglichkeiten.",
+      hu: "Az Andalúziai Technológiai Park (PTA) Málagában Spanyolország egyik vezető technológiai parkja. 1992-ben alapították, és több mint 600 vállalkozásnak ad otthont, amelyek közül sokan az információs és kommunikációs technológia területén tevékenykednek. A park 300 hektáron terül el, és mintegy 18.000 embert foglalkoztat. Fontos hajtóereje az innovációnak és a gazdasági fejlődésnek Andalúziában. A PTA modern infrastruktúrát és hálózatépítési lehetőségeket kínál a vállalatoknak.",
+      ro: "Parcul Tehnologic din Andaluzia (PTA) din Málaga este unul dintre cele mai importante parcuri tehnologice din Spania. A fost fondat în 1992 și găzduiește peste 600 de companii, multe dintre ele în domeniul tehnologiei informației și comunicațiilor. Parcul se întinde pe 300 de hectare și angajează aproximativ 18.000 de persoane. Este un motor important pentru inovare și dezvoltare economică în Andaluzia. PTA oferă companiilor infrastructură modernă și oportunități de networking.",
+      en: "The Andalusia Technology Park (PTA) in Málaga is a leading technology park in Spain. Founded in 1992, it hosts over 600 companies, many in ICT. The park covers 300 hectares and employs around 18,000 people. It is a key driver of innovation and economic development in Andalusia. The PTA provides modern infrastructure and networking opportunities for businesses.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1992", "Fläche: 300 ha", "Anzahl der Unternehmen: über 600", "Beschäftigte: ca. 18.000", "Jährlicher Umsatz: 2 Milliarden Euro", "Forschungszentren: 20"],
+      hu: ["Alapítás éve: 1992", "Terület: 300 ha", "Vállalkozások száma: több mint 600", "Foglalkoztatottak: kb. 18.000", "Éves bevétel: 2 milliárd euró", "Kutatóközpontok: 20"],
+      ro: ["Anul înființării: 1992", "Suprafață: 300 ha", "Număr de companii: peste 600", "Angajați: circa 18.000", "Cifră de afaceri anuală: 2 miliarde euro", "Centre de cercetare: 20"],
+      en: ["Founded: 1992", "Area: 300 ha", "Number of companies: over 600", "Employees: about 18,000", "Annual revenue: €2 billion", "Research centers: 20"],
+    },
+  },
+  {
+    id: "spain-refineria-puertollano-economic-v2",
+    type: "industry",
+    parent: "ES",
+    name: { de: "Raffinerie Puertollano", hu: "Puertollano finomító", ro: "Rafinăria Puertollano", en: "Puertollano Refinery" },
+    coordinates: { lat: 38.694, lng: -4.113 },
+    description: {
+      de: "Das 1965 in Betrieb genommene Werk von Repsol ist eine der bedeutendsten industriellen Anlagen Spaniens. Es produziert eine breite Palette an Kraftstoffen und chemischen Vorprodukten für den nationalen Markt.",
+      hu: "Az 1965-ben üzembe helyezett Repsol-üzem Spanyolország egyik legfontosabb ipari létesítménye. A belföldi piac számára üzemanyagok és vegyipari alapanyagok széles skáláját állítja elő.",
+      ro: "Intrată în funcțiune în 1965, această uzină Repsol este una dintre cele mai importante facilități industriale din Spania. Produce o gamă largă de combustibili și produse chimice intermediare pentru piața națională.",
+      en: "Commissioned in 1965, this Repsol facility is one of Spain's most significant industrial plants. It produces a wide range of fuels and chemical intermediates for the national market.",
+    },
+    facts: {
+      de: ["Betriebsstart war im Jahr 1965.", "Gehört zum Energiekonzern Repsol.", "Umfasst eine Fläche von 320 Hektar.", "Wichtiger Akteur der Chemieindustrie."],
+      hu: ["1965-ben kezdték meg a működését.", "A Repsol energiavállalathoz tartozik.", "320 hektáros területet foglal el.", "A vegyipar meghatározó szereplője."],
+      ro: ["A început operațiunile în 1965.", "Aparține grupului energetic Repsol.", "Ocupă o suprafață de 320 hectare.", "Jucător cheie în industria chimică."],
+      en: ["Operations started in 1965.", "Owned by the energy company Repsol.", "Covers an area of 320 hectares.", "Key player in the chemical industry."],
+    },
+    imageHint: "industrial pipes and refinery towers in Puertollano",
+    descriptionAdvanced: {
+      de: "Die Raffinerie von Puertollano in der Provinz Ciudad Real ist eine der größten in Spanien. Sie wurde 1947 in Betrieb genommen und verarbeitet jährlich über 8 Millionen Tonnen Rohöl. Die Raffinerie ist ein wichtiger Wirtschaftsfaktor für die Region und beschäftigt direkt und indirekt Tausende von Menschen. Sie versorgt den spanischen Markt mit Kraftstoffen und petrochemischen Produkten. In den letzten Jahren wurden Investitionen in umweltfreundlichere Technologien getätigt.",
+      hu: "A puertollanói finomító Ciudad Real tartományban Spanyolország egyik legnagyobbja. 1947-ben helyezték üzembe, és évente több mint 8 millió tonna nyersolajat dolgoz fel. A finomító fontos gazdasági tényező a régióban, közvetlenül és közvetve több ezer embert foglalkoztat. Ellátja a spanyol piacot üzemanyagokkal és petrolkémiai termékekkel. Az utóbbi években környezetbarátabb technológiákba fektettek be.",
+      ro: "Rafinăria din Puertollano, provincia Ciudad Real, este una dintre cele mai mari din Spania. A intrat în funcțiune în 1947 și procesează anual peste 8 milioane de tone de țiței. Rafinăria este un factor economic important pentru regiune, angajând direct și indirect mii de persoane. Furnizează piața spaniolă cu combustibili și produse petrochimice. În ultimii ani s-au făcut investiții în tehnologii mai ecologice.",
+      en: "The Puertollano Refinery, in Ciudad Real province, is one of the largest in Spain. It started operations in 1947 and processes over 8 million tons of crude oil annually. The refinery is a key economic driver for the region, employing thousands directly and indirectly. It supplies the Spanish market with fuels and petrochemical products. Recent investments have focused on greener technologies.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1947", "Rohölverarbeitung: 8 Mio. t/Jahr", "Produktionskapazität: 200.000 Barrel/Tag", "Anzahl der Mitarbeiter: 1.500 direkt", "Investitionen in Umwelttechnik: 200 Mio. Euro", "Fläche: 500 ha"],
+      hu: ["Üzembe helyezés: 1947", "Nyersolaj feldolgozás: 8 millió t/év", "Termelési kapacitás: 200.000 hordó/nap", "Közvetlen alkalmazottak: 1.500", "Környezetvédelmi beruházások: 200 millió euró", "Terület: 500 ha"],
+      ro: ["Intrat în funcțiune: 1947", "Procesare țiței: 8 milioane t/an", "Capacitate de producție: 200.000 barili/zi", "Angajați direcți: 1.500", "Investiții în tehnologii de mediu: 200 milioane euro", "Suprafață: 500 ha"],
+      en: ["Start of operations: 1947", "Crude oil processing: 8 million t/year", "Production capacity: 200,000 barrels/day", "Direct employees: 1,500", "Environmental technology investments: €200 million", "Area: 500 ha"],
+    },
   }
 ];

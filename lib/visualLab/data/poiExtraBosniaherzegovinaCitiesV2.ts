@@ -5,9 +5,8 @@ export const bosniaherzegovinaCitiesV2: POI[] = [
     id: "bosniaherzegovina-sanskimost-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Sanski Most", hu: "Sanski Most", ro: "Sanski Most", en: "Sanski Most",
-image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp"
-},
+    name: { de: "Sanski Most", hu: "Sanski Most", ro: "Sanski Most", en: "Sanski Most"},
+    image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp",
     coords: [16.6667, 44.7667],
     coordinates: { lat: 44.7667, lng: 16.6667 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/bosniaherzegovina-sanskimost-cities-v2.webp"
     id: "bosniaherzegovina-zivinice-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Živinice", hu: "Živinice", ro: "Živinice", en: "Živinice",
-image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp"
-},
+    name: { de: "Živinice", hu: "Živinice", ro: "Živinice", en: "Živinice"},
+    image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp",
     coords: [18.6494, 44.4489],
     coordinates: { lat: 44.4489, lng: 18.6494 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/bosniaherzegovina-zivinice-cities-v2.webp"
     id: "bosniaherzegovina-bugojno-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Bugojno", hu: "Bugojno", ro: "Bugojno", en: "Bugojno",
-image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp"
-},
+    name: { de: "Bugojno", hu: "Bugojno", ro: "Bugojno", en: "Bugojno"},
+    image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp",
     coords: [17.4486, 44.0556],
     coordinates: { lat: 44.0556, lng: 17.4486 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/bosniaherzegovina-bugojno-cities-v2.webp"
     id: "bosniaherzegovina-travnik-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Travnik", hu: "Travnik", ro: "Travnik", en: "Travnik",
-image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp"
-},
+    name: { de: "Travnik", hu: "Travnik", ro: "Travnik", en: "Travnik"},
+    image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp",
     coords: [17.6658, 44.2264],
     coordinates: { lat: 44.2264, lng: 17.6658 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/bosniaherzegovina-travnik-cities-v2.webp"
     id: "bosniaherzegovina-gradiska-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Gradiška", hu: "Gradiška", ro: "Gradiška", en: "Gradiška",
-image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp"
-},
+    name: { de: "Gradiška", hu: "Gradiška", ro: "Gradiška", en: "Gradiška"},
+    image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp",
     coords: [17.2543, 45.1448],
     coordinates: { lat: 45.1448, lng: 17.2543 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/bosniaherzegovina-gradiska-cities-v2.webp"
     id: "bosniaherzegovina-cazin-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Cazin", hu: "Cazin", ro: "Cazin", en: "Cazin",
-image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp"
-},
+    name: { de: "Cazin", hu: "Cazin", ro: "Cazin", en: "Cazin"},
+    image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp",
     coords: [15.8667, 44.9667],
     coordinates: { lat: 44.9667, lng: 15.8667 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/bosniaherzegovina-cazin-cities-v2.webp"
     id: "bosniaherzegovina-gracanica-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Gračanica", hu: "Gračanica", ro: "Gračanica", en: "Gračanica",
-image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp"
-},
+    name: { de: "Gračanica", hu: "Gračanica", ro: "Gračanica", en: "Gračanica"},
+    image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp",
     coords: [18.3, 44.7],
     coordinates: { lat: 44.7, lng: 18.3 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/bosniaherzegovina-gracanica-cities-v2.webp"
     id: "bosniaherzegovina-lukavac-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Lukavac", hu: "Lukavac", ro: "Lukavac", en: "Lukavac",
-image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp"
-},
+    name: { de: "Lukavac", hu: "Lukavac", ro: "Lukavac", en: "Lukavac"},
+    image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp",
     coords: [18.5333, 44.5333],
     coordinates: { lat: 44.5333, lng: 18.5333 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/bosniaherzegovina-lukavac-cities-v2.webp"
     id: "bosniaherzegovina-gradacac-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Gradačac", hu: "Gradačac", ro: "Gradačac", en: "Gradačac",
-image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp"
-},
+    name: { de: "Gradačac", hu: "Gradačac", ro: "Gradačac", en: "Gradačac"},
+    image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp",
     coords: [18.4286, 44.8775],
     coordinates: { lat: 44.8775, lng: 18.4286 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/bosniaherzegovina-gradacac-cities-v2.webp"
     id: "bosniaherzegovina-visoko-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Visoko", hu: "Visoko", ro: "Visoko", en: "Visoko",
-image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp"
-},
+    name: { de: "Visoko", hu: "Visoko", ro: "Visoko", en: "Visoko"},
+    image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp",
     coords: [18.1781, 43.9889],
     coordinates: { lat: 43.9889, lng: 18.1781 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/bosniaherzegovina-visoko-cities-v2.webp"
     id: "bosniaherzegovina-konjic-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Konjic", hu: "Konjic", ro: "Konjic", en: "Konjic",
-image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp"
-},
+    name: { de: "Konjic", hu: "Konjic", ro: "Konjic", en: "Konjic"},
+    image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp",
     coords: [17.9608, 43.6514],
     coordinates: { lat: 43.6514, lng: 17.9608 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/bosniaherzegovina-konjic-cities-v2.webp"
     id: "bosniaherzegovina-derventa-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Derventa", hu: "Derventa", ro: "Derventa", en: "Derventa",
-image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp"
-},
+    name: { de: "Derventa", hu: "Derventa", ro: "Derventa", en: "Derventa"},
+    image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp",
     coords: [17.9078, 44.9781],
     coordinates: { lat: 44.9781, lng: 17.9078 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/bosniaherzegovina-derventa-cities-v2.webp"
     id: "bosniaherzegovina-sirokibrijeg-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Široki Brijeg", hu: "Široki Brijeg", ro: "Široki Brijeg", en: "Široki Brijeg",
-image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp"
-},
+    name: { de: "Široki Brijeg", hu: "Široki Brijeg", ro: "Široki Brijeg", en: "Široki Brijeg"},
+    image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp",
     coords: [17.5833, 43.3833],
     coordinates: { lat: 43.3833, lng: 17.5833 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/bosniaherzegovina-sirokibrijeg-cities-v2.webp"
     id: "bosniaherzegovina-vogosca-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Vogošća", hu: "Vogošća", ro: "Vogošća", en: "Vogošća",
-image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp"
-},
+    name: { de: "Vogošća", hu: "Vogošća", ro: "Vogošća", en: "Vogošća"},
+    image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp",
     coords: [18.3431, 43.9014],
     coordinates: { lat: 43.9014, lng: 18.3431 },
     description: {
@@ -509,9 +495,8 @@ image: "/poi-images/bosniaherzegovina-vogosca-cities-v2.webp"
     id: "bosniaherzegovina-janja-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Janja", hu: "Janja", ro: "Janja", en: "Janja",
-image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp"
-},
+    name: { de: "Janja", hu: "Janja", ro: "Janja", en: "Janja"},
+    image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp",
     coords: [19.2458, 44.6656],
     coordinates: { lat: 44.6656, lng: 19.2458 },
     description: {
@@ -545,9 +530,8 @@ image: "/poi-images/bosniaherzegovina-janja-cities-v2.webp"
     id: "bosniaherzegovina-jajce-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Jajce", hu: "Jajce", ro: "Jajce", en: "Jajce",
-image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp"
-},
+    name: { de: "Jajce", hu: "Jajce", ro: "Jajce", en: "Jajce"},
+    image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp",
     coords: [17.27, 44.3417],
     coordinates: { lat: 44.3417, lng: 17.27 },
     description: {
@@ -581,9 +565,8 @@ image: "/poi-images/bosniaherzegovina-jajce-cities-v2.webp"
     id: "bosniaherzegovina-kakanj-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Kakanj", hu: "Kakanj", ro: "Kakanj", en: "Kakanj",
-image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp"
-},
+    name: { de: "Kakanj", hu: "Kakanj", ro: "Kakanj", en: "Kakanj"},
+    image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp",
     coords: [18.1147, 44.1294],
     coordinates: { lat: 44.1294, lng: 18.1147 },
     description: {
@@ -617,9 +600,8 @@ image: "/poi-images/bosniaherzegovina-kakanj-cities-v2.webp"
     id: "bosniaherzegovina-modrica-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Modriča", hu: "Modriča", ro: "Modriča", en: "Modriča",
-image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp"
-},
+    name: { de: "Modriča", hu: "Modriča", ro: "Modriča", en: "Modriča"},
+    image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp",
     coords: [18.2981, 44.9564],
     coordinates: { lat: 44.9564, lng: 18.2981 },
     description: {
@@ -653,9 +635,8 @@ image: "/poi-images/bosniaherzegovina-modrica-cities-v2.webp"
     id: "bosniaherzegovina-novitravnik-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Novi Travnik", hu: "Novi Travnik", ro: "Novi Travnik", en: "Novi Travnik",
-image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp"
-},
+    name: { de: "Novi Travnik", hu: "Novi Travnik", ro: "Novi Travnik", en: "Novi Travnik"},
+    image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp",
     coords: [17.6583, 44.1706],
     coordinates: { lat: 44.1706, lng: 17.6583 },
     description: {
@@ -689,9 +670,8 @@ image: "/poi-images/bosniaherzegovina-novitravnik-cities-v2.webp"
     id: "bosniaherzegovina-zavidovici-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Zavidovići", hu: "Zavidovići", ro: "Zavidovići", en: "Zavidovići",
-image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp"
-},
+    name: { de: "Zavidovići", hu: "Zavidovići", ro: "Zavidovići", en: "Zavidovići"},
+    image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp",
     coords: [18.1481, 44.4444],
     coordinates: { lat: 44.4444, lng: 18.1481 },
     description: {
@@ -725,9 +705,8 @@ image: "/poi-images/bosniaherzegovina-zavidovici-cities-v2.webp"
     id: "bosniaherzegovina-foca-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Foča", hu: "Foča", ro: "Foča", en: "Foča",
-image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp"
-},
+    name: { de: "Foča", hu: "Foča", ro: "Foča", en: "Foča"},
+    image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp",
     coords: [18.7789, 43.5056],
     coordinates: { lat: 43.5056, lng: 18.7789 },
     description: {
@@ -761,9 +740,8 @@ image: "/poi-images/bosniaherzegovina-foca-cities-v2.webp"
     id: "bosniaherzegovina-pale-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Pale", hu: "Pale", ro: "Pale", en: "Pale",
-image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp"
-},
+    name: { de: "Pale", hu: "Pale", ro: "Pale", en: "Pale"},
+    image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp",
     coords: [18.5667, 43.8167],
     coordinates: { lat: 43.8167, lng: 18.5667 },
     description: {
@@ -797,9 +775,8 @@ image: "/poi-images/bosniaherzegovina-pale-cities-v2.webp"
     id: "bosniaherzegovina-bosanskakrupa-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Bosanska Krupa", hu: "Bosanska Krupa", ro: "Bosanska Krupa", en: "Bosanska Krupa",
-image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp"
-},
+    name: { de: "Bosanska Krupa", hu: "Bosanska Krupa", ro: "Bosanska Krupa", en: "Bosanska Krupa"},
+    image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp",
     coords: [16.15, 44.8833],
     coordinates: { lat: 44.8833, lng: 16.15 },
     description: {
@@ -833,9 +810,8 @@ image: "/poi-images/bosniaherzegovina-bosanskakrupa-cities-v2.webp"
     id: "bosniaherzegovina-teslic-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Teslić", hu: "Teslić", ro: "Teslić", en: "Teslić",
-image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp"
-},
+    name: { de: "Teslić", hu: "Teslić", ro: "Teslić", en: "Teslić"},
+    image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp",
     coords: [17.8594, 44.6064],
     coordinates: { lat: 44.6064, lng: 17.8594 },
     description: {
@@ -869,9 +845,8 @@ image: "/poi-images/bosniaherzegovina-teslic-cities-v2.webp"
     id: "bosniaherzegovina-vitez-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Vitez", hu: "Vitez", ro: "Vitez", en: "Vitez",
-image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp"
-},
+    name: { de: "Vitez", hu: "Vitez", ro: "Vitez", en: "Vitez"},
+    image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp",
     coords: [17.7892, 44.1542],
     coordinates: { lat: 44.1542, lng: 17.7892 },
     description: {
@@ -905,9 +880,8 @@ image: "/poi-images/bosniaherzegovina-vitez-cities-v2.webp"
     id: "bosniaherzegovina-tomislavgrad-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Tomislavgrad", hu: "Tomislavgrad", ro: "Tomislavgrad", en: "Tomislavgrad",
-image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp"
-},
+    name: { de: "Tomislavgrad", hu: "Tomislavgrad", ro: "Tomislavgrad", en: "Tomislavgrad"},
+    image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp",
     coords: [17.2253, 43.7189],
     coordinates: { lat: 43.7189, lng: 17.2253 },
     description: {
@@ -941,9 +915,8 @@ image: "/poi-images/bosniaherzegovina-tomislavgrad-cities-v2.webp"
     id: "bosniaherzegovina-vlasenica-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Vlasenica", hu: "Vlasenica", ro: "Vlasenica", en: "Vlasenica",
-image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp"
-},
+    name: { de: "Vlasenica", hu: "Vlasenica", ro: "Vlasenica", en: "Vlasenica"},
+    image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp",
     coords: [18.9406, 44.1814],
     coordinates: { lat: 44.1814, lng: 18.9406 },
     description: {
@@ -977,9 +950,8 @@ image: "/poi-images/bosniaherzegovina-vlasenica-cities-v2.webp"
     id: "bosniaherzegovina-rogatica-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Rogatica", hu: "Rogatica", ro: "Rogatica", en: "Rogatica",
-image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp"
-},
+    name: { de: "Rogatica", hu: "Rogatica", ro: "Rogatica", en: "Rogatica"},
+    image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp",
     coords: [19.0017, 43.9353],
     coordinates: { lat: 43.9353, lng: 19.0017 },
     description: {
@@ -1013,9 +985,8 @@ image: "/poi-images/bosniaherzegovina-rogatica-cities-v2.webp"
     id: "bosniaherzegovina-bratunac-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Bratunac", hu: "Bratunac", ro: "Bratunac", en: "Bratunac",
-image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp"
-},
+    name: { de: "Bratunac", hu: "Bratunac", ro: "Bratunac", en: "Bratunac"},
+    image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp",
     coords: [19.3306, 44.1844],
     coordinates: { lat: 44.1844, lng: 19.3306 },
     description: {
@@ -1049,9 +1020,8 @@ image: "/poi-images/bosniaherzegovina-bratunac-cities-v2.webp"
     id: "bosniaherzegovina-visegrad-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Višegrad", hu: "Višegrad", ro: "Višegrad", en: "Višegrad",
-image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp"
-},
+    name: { de: "Višegrad", hu: "Višegrad", ro: "Višegrad", en: "Višegrad"},
+    image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp",
     coords: [19.2925, 43.7825],
     coordinates: { lat: 43.7825, lng: 19.2925 },
     description: {
@@ -1085,9 +1055,8 @@ image: "/poi-images/bosniaherzegovina-visegrad-cities-v2.webp"
     id: "bosniaherzegovina-kiseljak-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Kiseljak", hu: "Kiseljak", ro: "Kiseljak", en: "Kiseljak",
-image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp"
-},
+    name: { de: "Kiseljak", hu: "Kiseljak", ro: "Kiseljak", en: "Kiseljak"},
+    image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp",
     coords: [18.0772, 43.9431],
     coordinates: { lat: 43.9431, lng: 18.0772 },
     description: {
@@ -1121,9 +1090,8 @@ image: "/poi-images/bosniaherzegovina-kiseljak-cities-v2.webp"
     id: "bosniaherzegovina-laktasi-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Laktaši", hu: "Laktaši", ro: "Laktaši", en: "Laktaši",
-image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp"
-},
+    name: { de: "Laktaši", hu: "Laktaši", ro: "Laktaši", en: "Laktaši"},
+    image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp",
     coords: [17.3014, 44.9083],
     coordinates: { lat: 44.9083, lng: 17.3014 },
     description: {
@@ -1157,9 +1125,8 @@ image: "/poi-images/bosniaherzegovina-laktasi-cities-v2.webp"
     id: "bosniaherzegovina-maglaj-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Maglaj", hu: "Maglaj", ro: "Maglaj", en: "Maglaj",
-image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp"
-},
+    name: { de: "Maglaj", hu: "Maglaj", ro: "Maglaj", en: "Maglaj"},
+    image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp",
     coords: [18.1028, 44.5497],
     coordinates: { lat: 44.5497, lng: 18.1028 },
     description: {
@@ -1193,9 +1160,8 @@ image: "/poi-images/bosniaherzegovina-maglaj-cities-v2.webp"
     id: "bosniaherzegovina-novigrad-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Novi Grad", hu: "Novi Grad", ro: "Novi Grad", en: "Novi Grad",
-image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp"
-},
+    name: { de: "Novi Grad", hu: "Novi Grad", ro: "Novi Grad", en: "Novi Grad"},
+    image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp",
     coords: [16.3778, 45.0461],
     coordinates: { lat: 45.0461, lng: 16.3778 },
     description: {
@@ -1229,9 +1195,8 @@ image: "/poi-images/bosniaherzegovina-novigrad-cities-v2.webp"
     id: "bosniaherzegovina-ilijas-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Ilijaš", hu: "Ilijaš", ro: "Ilijaš", en: "Ilijaš",
-image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp"
-},
+    name: { de: "Ilijaš", hu: "Ilijaš", ro: "Ilijaš", en: "Ilijaš"},
+    image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp",
     coords: [18.2711, 43.9514],
     coordinates: { lat: 43.9514, lng: 18.2711 },
     description: {
@@ -1265,9 +1230,8 @@ image: "/poi-images/bosniaherzegovina-ilijas-cities-v2.webp"
     id: "bosniaherzegovina-jablanica-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Jablanica", hu: "Jablanica", ro: "Jablanica", en: "Jablanica",
-image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp"
-},
+    name: { de: "Jablanica", hu: "Jablanica", ro: "Jablanica", en: "Jablanica"},
+    image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp",
     coords: [17.7617, 43.6603],
     coordinates: { lat: 43.6603, lng: 17.7617 },
     description: {
@@ -1301,9 +1265,8 @@ image: "/poi-images/bosniaherzegovina-jablanica-cities-v2.webp"
     id: "bosniaherzegovina-prnjavor-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Prnjavor", hu: "Prnjavor", ro: "Prnjavor", en: "Prnjavor",
-image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp"
-},
+    name: { de: "Prnjavor", hu: "Prnjavor", ro: "Prnjavor", en: "Prnjavor"},
+    image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp",
     coords: [17.6622, 44.8703],
     coordinates: { lat: 44.8703, lng: 17.6622 },
     description: {
@@ -1337,9 +1300,8 @@ image: "/poi-images/bosniaherzegovina-prnjavor-cities-v2.webp"
     id: "bosniaherzegovina-srebrenik-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Srebrenik", hu: "Srebrenik", ro: "Srebrenik", en: "Srebrenik",
-image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp"
-},
+    name: { de: "Srebrenik", hu: "Srebrenik", ro: "Srebrenik", en: "Srebrenik"},
+    image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp",
     coords: [18.4881, 44.7083],
     coordinates: { lat: 44.7083, lng: 18.4881 },
     description: {
@@ -1373,9 +1335,8 @@ image: "/poi-images/bosniaherzegovina-srebrenik-cities-v2.webp"
     id: "bosniaherzegovina-hadzici-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Hadžići", hu: "Hadžići", ro: "Hadžići", en: "Hadžići",
-image: "/poi-images/bosniaherzegovina-hadzici-cities-v2.webp"
-},
+    name: { de: "Hadžići", hu: "Hadžići", ro: "Hadžići", en: "Hadžići"},
+    image: "/poi-images/bosniaherzegovina-hadzici-cities-v2.webp",
     coords: [18.2011, 43.8236],
     coordinates: { lat: 43.8236, lng: 18.2011 },
     description: {
@@ -1408,9 +1369,8 @@ image: "/poi-images/bosniaherzegovina-hadzici-cities-v2.webp"
     id: "bosniaherzegovina-capljina-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Čapljina", hu: "Čapljina", ro: "Čapljina", en: "Čapljina",
-image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp"
-},
+    name: { de: "Čapljina", hu: "Čapljina", ro: "Čapljina", en: "Čapljina"},
+    image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp",
     coords: [17.7011, 43.1114],
     coordinates: { lat: 43.1114, lng: 17.7011 },
     description: {
@@ -1444,9 +1404,8 @@ image: "/poi-images/bosniaherzegovina-capljina-cities-v2.webp"
     id: "bosniaherzegovina-ljubuski-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Ljubuški", hu: "Ljubuški", ro: "Ljubuški", en: "Ljubuški",
-image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp"
-},
+    name: { de: "Ljubuški", hu: "Ljubuški", ro: "Ljubuški", en: "Ljubuški"},
+    image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp",
     coords: [17.5453, 43.1964],
     coordinates: { lat: 43.1964, lng: 17.5453 },
     description: {
@@ -1480,9 +1439,8 @@ image: "/poi-images/bosniaherzegovina-ljubuski-cities-v2.webp"
     id: "bosniaherzegovina-kladanj-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Kladanj", hu: "Kladanj", ro: "Kladanj", en: "Kladanj",
-image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp"
-},
+    name: { de: "Kladanj", hu: "Kladanj", ro: "Kladanj", en: "Kladanj"},
+    image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp",
     coords: [18.6917, 44.2253],
     coordinates: { lat: 44.2253, lng: 18.6917 },
     description: {
@@ -1516,9 +1474,8 @@ image: "/poi-images/bosniaherzegovina-kladanj-cities-v2.webp"
     id: "bosniaherzegovina-velikakladusa-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Velika Kladuša", hu: "Velika Kladuša", ro: "Velika Kladuša", en: "Velika Kladuša",
-image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp"
-},
+    name: { de: "Velika Kladuša", hu: "Velika Kladuša", ro: "Velika Kladuša", en: "Velika Kladuša"},
+    image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp",
     coords: [15.8056, 45.1844],
     coordinates: { lat: 45.1844, lng: 15.8056 },
     description: {
@@ -1552,9 +1509,8 @@ image: "/poi-images/bosniaherzegovina-velikakladusa-cities-v2.webp"
     id: "bosniaherzegovina-bileca-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Bileća", hu: "Bileća", ro: "Bileća", en: "Bileća",
-image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp"
-},
+    name: { de: "Bileća", hu: "Bileća", ro: "Bileća", en: "Bileća"},
+    image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp",
     coords: [18.4294, 42.8731],
     coordinates: { lat: 42.8731, lng: 18.4294 },
     description: {
@@ -1588,9 +1544,8 @@ image: "/poi-images/bosniaherzegovina-bileca-cities-v2.webp"
     id: "bosniaherzegovina-zvornik-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Zvornik", hu: "Zvornik", ro: "Zvornik", en: "Zvornik",
-image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp"
-},
+    name: { de: "Zvornik", hu: "Zvornik", ro: "Zvornik", en: "Zvornik"},
+    image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp",
     coords: [19.1025, 44.3853],
     coordinates: { lat: 44.3853, lng: 19.1025 },
     description: {
@@ -1624,9 +1579,8 @@ image: "/poi-images/bosniaherzegovina-zvornik-cities-v2.webp"
     id: "bosniaherzegovina-gacko-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Gacko", hu: "Gacko", ro: "Gacko", en: "Gacko",
-image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp"
-},
+    name: { de: "Gacko", hu: "Gacko", ro: "Gacko", en: "Gacko"},
+    image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp",
     coords: [18.5353, 43.1672],
     coordinates: { lat: 43.1672, lng: 18.5353 },
     description: {
@@ -1660,9 +1614,8 @@ image: "/poi-images/bosniaherzegovina-gacko-cities-v2.webp"
     id: "bosniaherzegovina-odzak-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Odžak", hu: "Odžak", ro: "Odžak", en: "Odžak",
-image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp"
-},
+    name: { de: "Odžak", hu: "Odžak", ro: "Odžak", en: "Odžak"},
+    image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp",
     coords: [18.3267, 45.0108],
     coordinates: { lat: 45.0108, lng: 18.3267 },
     description: {
@@ -1696,9 +1649,8 @@ image: "/poi-images/bosniaherzegovina-odzak-cities-v2.webp"
     id: "bosniaherzegovina-srebrenica-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Srebrenica", hu: "Srebrenica", ro: "Srebrenica", en: "Srebrenica",
-image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp"
-},
+    name: { de: "Srebrenica", hu: "Srebrenica", ro: "Srebrenica", en: "Srebrenica"},
+    image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp",
     coords: [19.2975, 44.1025],
     coordinates: { lat: 44.1025, lng: 19.2975 },
     description: {
@@ -1732,9 +1684,8 @@ image: "/poi-images/bosniaherzegovina-srebrenica-cities-v2.webp"
     id: "bosniaherzegovina-busovaca-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Busovača", hu: "Busovača", ro: "Busovača", en: "Busovača",
-image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp"
-},
+    name: { de: "Busovača", hu: "Busovača", ro: "Busovača", en: "Busovača"},
+    image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp",
     coords: [17.8817, 44.0953],
     coordinates: { lat: 44.0953, lng: 17.8817 },
     description: {
@@ -1768,9 +1719,8 @@ image: "/poi-images/bosniaherzegovina-busovaca-cities-v2.webp"
     id: "bosniaherzegovina-drvar-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Drvar", hu: "Drvar", ro: "Drvar", en: "Drvar",
-image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp"
-},
+    name: { de: "Drvar", hu: "Drvar", ro: "Drvar", en: "Drvar"},
+    image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp",
     coords: [16.3811, 44.3736],
     coordinates: { lat: 44.3736, lng: 16.3811 },
     description: {
@@ -1804,9 +1754,8 @@ image: "/poi-images/bosniaherzegovina-drvar-cities-v2.webp"
     id: "bosniaherzegovina-stolac-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Stolac", hu: "Stolac", ro: "Stolac", en: "Stolac",
-image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp"
-},
+    name: { de: "Stolac", hu: "Stolac", ro: "Stolac", en: "Stolac"},
+    image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp",
     coords: [17.9583, 43.0847],
     coordinates: { lat: 43.0847, lng: 17.9583 },
     description: {
@@ -1840,9 +1789,8 @@ image: "/poi-images/bosniaherzegovina-stolac-cities-v2.webp"
     id: "bosniaherzegovina-krupannaui-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Krupa na Uni", hu: "Krupa na Uni", ro: "Krupa na Uni", en: "Krupa na Uni",
-image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp"
-},
+    name: { de: "Krupa na Uni", hu: "Krupa na Uni", ro: "Krupa na Uni", en: "Krupa na Uni"},
+    image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp",
     coords: [16.1667, 44.9331],
     coordinates: { lat: 44.9331, lng: 16.1667 },
     description: {
@@ -1876,9 +1824,8 @@ image: "/poi-images/bosniaherzegovina-krupannaui-cities-v2.webp"
     id: "bosniaherzegovina-sipovo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Šipovo", hu: "Šipovo", ro: "Šipovo", en: "Šipovo",
-image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp"
-},
+    name: { de: "Šipovo", hu: "Šipovo", ro: "Šipovo", en: "Šipovo"},
+    image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp",
     coords: [17.0853, 44.2817],
     coordinates: { lat: 44.2817, lng: 17.0853 },
     description: {
@@ -1912,9 +1859,8 @@ image: "/poi-images/bosniaherzegovina-sipovo-cities-v2.webp"
     id: "bosniaherzegovina-mrkonjicgrad-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Mrkonjić Grad", hu: "Mrkonjić Grad", ro: "Mrkonjić Grad", en: "Mrkonjić Grad",
-image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp"
-},
+    name: { de: "Mrkonjić Grad", hu: "Mrkonjić Grad", ro: "Mrkonjić Grad", en: "Mrkonjić Grad"},
+    image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp",
     coords: [17.0828, 44.4172],
     coordinates: { lat: 44.4172, lng: 17.0828 },
     description: {
@@ -1948,9 +1894,8 @@ image: "/poi-images/bosniaherzegovina-mrkonjicgrad-cities-v2.webp"
     id: "bosniaherzegovina-knezevo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Kneževo", hu: "Knezevo", ro: "Kneževo", en: "Kneževo",
-image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp"
-},
+    name: { de: "Kneževo", hu: "Knezevo", ro: "Kneževo", en: "Kneževo"},
+    image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp",
     coords: [17.3833, 44.5],
     coordinates: { lat: 44.5, lng: 17.3833 },
     description: {
@@ -1984,9 +1929,8 @@ image: "/poi-images/bosniaherzegovina-knezevo-cities-v2.webp"
     id: "bosniaherzegovina-sekovici-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Šekovići", hu: "Šekovići", ro: "Šekovići", en: "Šekovići",
-image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp"
-},
+    name: { de: "Šekovići", hu: "Šekovići", ro: "Šekovići", en: "Šekovići"},
+    image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp",
     coords: [18.8553, 44.2981],
     coordinates: { lat: 44.2981, lng: 18.8553 },
     description: {
@@ -2020,9 +1964,8 @@ image: "/poi-images/bosniaherzegovina-sekovici-cities-v2.webp"
     id: "bosniaherzegovina-glamoc-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Glamoč", hu: "Glamoč", ro: "Glamoč", en: "Glamoč",
-image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp"
-},
+    name: { de: "Glamoč", hu: "Glamoč", ro: "Glamoč", en: "Glamoč"},
+    image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp",
     coords: [16.8481, 44.0453],
     coordinates: { lat: 44.0453, lng: 16.8481 },
     description: {
@@ -2056,9 +1999,8 @@ image: "/poi-images/bosniaherzegovina-glamoc-cities-v2.webp"
     id: "bosniaherzegovina-bosanskograhovo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Bosansko Grahovo", hu: "Bosansko Grahovo", ro: "Bosansko Grahovo", en: "Bosansko Grahovo",
-image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp"
-},
+    name: { de: "Bosansko Grahovo", hu: "Bosansko Grahovo", ro: "Bosansko Grahovo", en: "Bosansko Grahovo"},
+    image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp",
     coords: [16.3636, 44.1794],
     coordinates: { lat: 44.1794, lng: 16.3636 },
     description: {
@@ -2092,9 +2034,8 @@ image: "/poi-images/bosniaherzegovina-bosanskograhovo-cities-v2.webp"
     id: "bosniaherzegovina-ribnik-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Ribnik", hu: "Ribnik", ro: "Ribnik", en: "Ribnik",
-image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp"
-},
+    name: { de: "Ribnik", hu: "Ribnik", ro: "Ribnik", en: "Ribnik"},
+    image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp",
     coords: [16.8167, 44.4167],
     coordinates: { lat: 44.4167, lng: 16.8167 },
     description: {
@@ -2128,9 +2069,8 @@ image: "/poi-images/bosniaherzegovina-ribnik-cities-v2.webp"
     id: "bosniaherzegovina-kalinovik-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Kalinovik", hu: "Kalinovik", ro: "Kalinovik", en: "Kalinovik",
-image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp"
-},
+    name: { de: "Kalinovik", hu: "Kalinovik", ro: "Kalinovik", en: "Kalinovik"},
+    image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp",
     coords: [18.45, 43.5],
     coordinates: { lat: 43.5, lng: 18.45 },
     description: {
@@ -2164,9 +2104,8 @@ image: "/poi-images/bosniaherzegovina-kalinovik-cities-v2.webp"
     id: "bosniaherzegovina-hanpijesak-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Han Pijesak", hu: "Han Pijesak", ro: "Han Pijesak", en: "Han Pijesak",
-image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp"
-},
+    name: { de: "Han Pijesak", hu: "Han Pijesak", ro: "Han Pijesak", en: "Han Pijesak"},
+    image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp",
     coords: [18.95, 44.0833],
     coordinates: { lat: 44.0833, lng: 18.95 },
     description: {
@@ -2200,9 +2139,8 @@ image: "/poi-images/bosniaherzegovina-hanpijesak-cities-v2.webp"
     id: "bosniaherzegovina-trnovo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Trnovo", hu: "Trnovo", ro: "Trnovo", en: "Trnovo",
-image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp"
-},
+    name: { de: "Trnovo", hu: "Trnovo", ro: "Trnovo", en: "Trnovo"},
+    image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp",
     coords: [18.45, 43.6667],
     coordinates: { lat: 43.6667, lng: 18.45 },
     description: {
@@ -2236,9 +2174,8 @@ image: "/poi-images/bosniaherzegovina-trnovo-cities-v2.webp"
     id: "bosniaherzegovina-osmaci-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Osmaci", hu: "Osmaci", ro: "Osmaci", en: "Osmaci",
-image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp"
-},
+    name: { de: "Osmaci", hu: "Osmaci", ro: "Osmaci", en: "Osmaci"},
+    image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp",
     coords: [18.9333, 44.3833],
     coordinates: { lat: 44.3833, lng: 18.9333 },
     description: {
@@ -2272,9 +2209,8 @@ image: "/poi-images/bosniaherzegovina-osmaci-cities-v2.webp"
     id: "bosniaherzegovina-istocnosarajevo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Istočno Sarajevo", hu: "Istočno Sarajevo", ro: "Istočno Sarajevo", en: "East Sarajevo",
-image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp"
-},
+    name: { de: "Istočno Sarajevo", hu: "Istočno Sarajevo", ro: "Istočno Sarajevo", en: "East Sarajevo"},
+    image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp",
     coords: [18.375, 43.8239],
     coordinates: { lat: 43.8239, lng: 18.375 },
     description: {
@@ -2308,9 +2244,8 @@ image: "/poi-images/bosniaherzegovina-istocnosarajevo-cities-v2.webp"
     id: "bosniaherzegovina-petrovo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Petrovo", hu: "Petrovo", ro: "Petrovo", en: "Petrovo",
-image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp"
-},
+    name: { de: "Petrovo", hu: "Petrovo", ro: "Petrovo", en: "Petrovo"},
+    image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp",
     coords: [18.3736, 44.6431],
     coordinates: { lat: 44.6431, lng: 18.3736 },
     description: {
@@ -2344,9 +2279,8 @@ image: "/poi-images/bosniaherzegovina-petrovo-cities-v2.webp"
     id: "bosniaherzegovina-milići-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Milići", hu: "Milići", ro: "Milići", en: "Milići",
-image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp"
-},
+    name: { de: "Milići", hu: "Milići", ro: "Milići", en: "Milići"},
+    image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp",
     coords: [19.09, 44.1708],
     coordinates: { lat: 44.1708, lng: 19.09 },
     description: {
@@ -2380,9 +2314,8 @@ image: "/poi-images/bosniaherzegovina-milići-cities-v2.webp"
     id: "bosniaherzegovina-ukrina-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Stanari", hu: "Stanari", ro: "Stanari", en: "Stanari",
-image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp"
-},
+    name: { de: "Stanari", hu: "Stanari", ro: "Stanari", en: "Stanari"},
+    image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp",
     coords: [17.8333, 44.75],
     coordinates: { lat: 44.75, lng: 17.8333 },
     description: {
@@ -2416,9 +2349,8 @@ image: "/poi-images/bosniaherzegovina-ukrina-cities-v2.webp"
     id: "bosniaherzegovina-pelagicevo-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Pelagićevo", hu: "Pelagićevo", ro: "Pelagićevo", en: "Pelagićevo",
-image: "/poi-images/bosniaherzegovina-pelagicevo-cities-v2.webp"
-},
+    name: { de: "Pelagićevo", hu: "Pelagićevo", ro: "Pelagićevo", en: "Pelagićevo"},
+    image: "/poi-images/bosniaherzegovina-pelagicevo-cities-v2.webp",
     coords: [18.6, 44.9],
     coordinates: { lat: 44.9, lng: 18.6 },
     description: {
@@ -2451,9 +2383,8 @@ image: "/poi-images/bosniaherzegovina-pelagicevo-cities-v2.webp"
     id: "bosniaherzegovina-donjizabar-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Donji Žabar", hu: "Donji Žabar", ro: "Donji Žabar", en: "Donji Žabar",
-image: "/poi-images/bosniaherzegovina-donjizabar-cities-v2.webp"
-},
+    name: { de: "Donji Žabar", hu: "Donji Žabar", ro: "Donji Žabar", en: "Donji Žabar"},
+    image: "/poi-images/bosniaherzegovina-donjizabar-cities-v2.webp",
     coords: [18.6481, 44.9431],
     coordinates: { lat: 44.9431, lng: 18.6481 },
     description: {
@@ -2486,9 +2417,8 @@ image: "/poi-images/bosniaherzegovina-donjizabar-cities-v2.webp"
     id: "bosniaherzegovina-lovare-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Lopare", hu: "Lopare", ro: "Lopare", en: "Lopare",
-image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp"
-},
+    name: { de: "Lopare", hu: "Lopare", ro: "Lopare", en: "Lopare"},
+    image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp",
     coords: [18.85, 44.6333],
     coordinates: { lat: 44.6333, lng: 18.85 },
     description: {
@@ -2522,9 +2452,8 @@ image: "/poi-images/bosniaherzegovina-lovare-cities-v2.webp"
     id: "bosniaherzegovina-vukosavlje-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Vukosavlje", hu: "Vukosavlje", ro: "Vukosavlje", en: "Vukosavlje",
-image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp"
-},
+    name: { de: "Vukosavlje", hu: "Vukosavlje", ro: "Vukosavlje", en: "Vukosavlje"},
+    image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp",
     coords: [18.25, 45.0],
     coordinates: { lat: 45.0, lng: 18.25 },
     description: {
@@ -2558,9 +2487,8 @@ image: "/poi-images/bosniaherzegovina-vukosavlje-cities-v2.webp"
     id: "bosniaherzegovina-petrovac-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Petrovac", hu: "Petrovac", ro: "Petrovac", en: "Petrovac",
-image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp"
-},
+    name: { de: "Petrovac", hu: "Petrovac", ro: "Petrovac", en: "Petrovac"},
+    image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp",
     coords: [16.48, 44.5],
     coordinates: { lat: 44.5, lng: 16.48 },
     description: {
@@ -2594,9 +2522,8 @@ image: "/poi-images/bosniaherzegovina-petrovac-cities-v2.webp"
     id: "bosniaherzegovina-istocnimostar-cities-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Istočni Mostar", hu: "Istočni Mostar", ro: "Istočni Mostar", en: "East Mostar",
-image: "/poi-images/bosniaherzegovina-istocnimostar-cities-v2.webp"
-},
+    name: { de: "Istočni Mostar", hu: "Istočni Mostar", ro: "Istočni Mostar", en: "East Mostar"},
+    image: "/poi-images/bosniaherzegovina-istocnimostar-cities-v2.webp",
     coords: [17.9833, 43.4333],
     coordinates: { lat: 43.4333, lng: 17.9833 },
     description: {
@@ -2624,5 +2551,710 @@ image: "/poi-images/bosniaherzegovina-istocnimostar-cities-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "bosniaherzegovina-banovici-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Banovići", hu: "Banovići", ro: "Banovići", en: "Banovići" },
+    coordinates: { lat: 44.4, lng: 18.53 },
+    description: {
+      de: "Banovići ist eine Stadt im Nordosten von Bosnien und Herzegowina, die stark durch den Kohlebergbau geprägt ist. Sie liegt am Fluss Litva und gehört zum Kanton Tuzla.",
+      hu: "Banovići egy város Bosznia-Hercegovina északkeleti részén, amelyet jelentősen meghatároz a szénbányászat. A Litva folyó partján fekszik, a Tuzlai kantonhoz tartozik.",
+      ro: "Banovići este un oraș în nord-estul Bosniei și Herțegovinei, marcat semnificativ de industria mineritului de cărbune. Se află pe râul Litva, în cantonul Tuzla.",
+      en: "Banovići is a city in northeastern Bosnia and Herzegovina, significantly defined by the coal mining industry. It is situated on the Litva river in the Tuzla Canton.",
+    },
+    facts: {
+      de: ["Liegt im Kanton Tuzla", "Zentrum der Kohleförderung", "Fluss Litva fließt durch die Stadt", "Stadtgründung nach dem Zweiten Weltkrieg"],
+      hu: ["A Tuzlai kantonban található", "Szénbányászati központ", "A Litva folyó szeli át", "A második világháború után alapították"],
+      ro: ["Situat în cantonul Tuzla", "Centru de exploatare a cărbunelui", "Traversat de râul Litva", "Fondat după al Doilea Război Mondial"],
+      en: ["Located in Tuzla Canton", "Coal mining hub", "Traversed by the Litva River", "Founded after World War II"],
+    },
+    imageHint: "Banovići city landscape coal industry",
+    descriptionAdvanced: {
+      de: "Banovići ist eine Bergbaustadt im Nordosten Bosniens, bekannt für ihren umfangreichen Braunkohleabbau. Die Schmalspurbahn wird noch industriell betrieben.",
+      hu: "A Tuzla közelében található Banovići a bosnyák szénbányászat központja, amelynek kisvasútja a 20. század közepe óta biztosítja az ipari szállítmányozást.",
+      ro: "Situat în nord-estul țării, Banovići este un centru minier important. Aici funcționează una dintre ultimele căi ferate cu ecartament îngust din Europa.",
+      en: "Banovići emerged as a major industrial hub following the discovery of brown coal. Its railway network remains a rare operational narrow-gauge system.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um den Braunkohlebergbau nach dem Zweiten Weltkrieg.", "Die Schmalspurbahn hat eine Spurweite von 760 Millimetern.", "Die Stadt gehört administrativ zum Kanton Tuzla.", "In den 1940er Jahren durch Jugendbrigaden erbaut.", "Die Grube Čubrić fördert seit Jahrzehnten Braunkohle.", "Die Bergbaubetriebe dominieren die lokale Wirtschaft."],
+      hu: ["A második világháború után indult a szénkitermelés.", "A 760 mm-es nyomtávú vasút ma is üzemel.", "Tuzla kanton közigazgatási területéhez tartozik.", "Ifjúsági brigádok építették a vasútvonalat 1946-ban.", "Fő ásványkincse a jó minőségű barnaszén.", "Több ezer lakos dolgozik közvetlenül a bányászatban."],
+      ro: ["Exploatarea cărbunelui brun a început masiv după 1945.", "Calea ferată minieră are ecartamentul de 760 mm.", "Aparține administrativ de Cantonul Tuzla.", "Calea ferată a fost construită în 1946 prin muncă voluntară.", "Mina Čubrić este unul dintre principalele situri de extracție.", "Economia locală depinde în proporție covârșitoare de minerit."],
+      en: ["Brown coal mining operations rapidly expanded after 1945.", "Features a 760 mm narrow-gauge railway still in active use.", "Located within the Tuzla Canton of the Federation entity.", "Youth labor brigades constructed the initial railway in 1946.", "The town serves as a regional center for energy production.", "Čubrić is a notable brown coal extraction site nearby."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-brijesce-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Briješće", hu: "Briješće", ro: "Briješće", en: "Briješće" },
+    coordinates: { lat: 43.85, lng: 18.33 },
+    description: {
+      de: "Briješće ist eine Siedlung in der Gemeinde Novi Grad, einem Vorort der Hauptstadt Sarajevo. Die Region dient vorwiegend als Wohngebiet in der Nähe der städtischen Zentren.",
+      hu: "Briješće egy település Novi Grad községben, Szarajevó fővárosának külvárosában. A régió elsősorban lakóövezetként szolgál a városi központok közelében.",
+      ro: "Briješće este o așezare în municipiul Novi Grad, o suburbie a capitalei Sarajevo. Regiunea servește în principal ca zonă rezidențială în apropierea centrelor urbane.",
+      en: "Briješće is a settlement in the Novi Grad municipality, a suburb of the capital Sarajevo. The region serves primarily as a residential area near urban centers.",
+    },
+    facts: {
+      de: ["Vorort von Sarajevo", "Teil der Gemeinde Novi Grad", "Wohngebietsstruktur", "In der Nähe der Schnellstraße M-17"],
+      hu: ["Szarajevó külvárosa", "Novi Grad község része", "Lakóövezeti jellegű", "Az M-17-es főút közelében"],
+      ro: ["Suburbie a orașului Sarajevo", "Parte a municipiului Novi Grad", "Zonă rezidențială", "Aproape de autostrada M-17"],
+      en: ["Suburb of Sarajevo", "Part of Novi Grad municipality", "Residential nature", "Near the M-17 highway"],
+    },
+    imageHint: "Sarajevo suburbs view",
+    descriptionAdvanced: {
+      de: "Briješće ist ein Ortsteil von Sarajevo in der Gemeinde Novi Grad. Das Gebiet ist geprägt durch eine vorstädtische Struktur mit einer Mischung aus Wohnbebauung und kleineren lokalen Gewerbeflächen, die in die urbane Entwicklung eingebunden sind.",
+      hu: "Briješće Szarajevó egyik városrésze Novi Grad községben. A területre jellemző a külvárosi jelleg, ahol a lakóövezetek kisebb helyi kereskedelmi egységekkel egészülnek ki, szorosan illeszkedve a főváros folyamatosan fejlődő urbanisztikai szövetébe.",
+      ro: "Briješće este un cartier din Sarajevo, situat în municipalitatea Novi Grad. Zona se caracterizează printr-o structură suburbană, cu un amestec de zone rezidențiale și mici unități comerciale locale, integrate în dezvoltarea urbană continuă.",
+      en: "Briješće is a neighborhood of Sarajevo within the municipality of Novi Grad. The area features a suburban structure, combining residential housing with small local commercial spaces, all integrated into the city's broader urban development plan.",
+    },
+    factsAdvanced: {
+      de: ["Gehört zur Gemeinde Novi Grad", "Höhenlage ca. 500 Meter", "Wichtiger Verkehrsknotenpunkt", "Teil der Metropolregion Sarajevo"],
+      hu: ["Novi Grad község része", "Tengerszint feletti magasság kb. 500 m", "Jelentős közlekedési csomópont", "Szarajevó agglomerációjának része"],
+      ro: ["Face parte din municipalitatea Novi Grad", "Altitudine aprox. 500 metri", "Nod rutier important", "Parte a zonei metropolitane Sarajevo"],
+      en: ["Located in Novi Grad municipality", "Elevation approx. 500 meters", "Important traffic hub", "Part of the Sarajevo metropolitan area"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-cajnice-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Čajniče", hu: "Čajniče", ro: "Čajniče", en: "Čajniče" },
+    coordinates: { lat: 43.55, lng: 19.06 },
+    description: {
+      de: "Čajniče ist eine Stadt im östlichen Teil der Republika Srpska in Bosnien und Herzegowina. Die Stadt liegt an der Grenze zu Montenegro in einer bergigen Region.",
+      hu: "Čajniče egy város Bosznia-Hercegovina keleti részén, a boszniai Szerb Köztársaságban. A város Montenegró határán, hegyvidéki területen fekszik.",
+      ro: "Čajniče este un oraș în partea de est a Republicii Srpska din Bosnia și Herțegovina. Orașul este situat la granița cu Muntenegru, într-o zonă muntoasă.",
+      en: "Čajniče is a city in the eastern part of Republika Srpska in Bosnia and Herzegovina. The city is located on the border with Montenegro in a mountainous region.",
+    },
+    facts: {
+      de: ["Liegt im Osten der Republika Srpska", "Grenznähe zu Montenegro", "Bergige Topografie", "Bekannt für die Kirche Mariä Himmelfahrt"],
+      hu: ["A boszniai Szerb Köztársaság keleti részén", "Montenegrói határ közelében", "Hegyvidéki domborzat", "Az Istenanya elszenderedése templomról ismert"],
+      ro: ["Situat în estul Republicii Srpska", "Aproape de granița cu Muntenegru", "Topografie muntoasă", "Cunoscut pentru biserica Adormirea Maicii Domnului"],
+      en: ["Located in eastern Republika Srpska", "Close to Montenegro border", "Mountainous topography", "Known for Church of the Dormition of the Theotokos"],
+    },
+    imageHint: "Čajniče town view mountains",
+    descriptionAdvanced: {
+      de: "Čajniče liegt im Osten der Republika Srpska, nahe der montenegrinischen Grenze. Die Stadt beherbergt eine bedeutende orthodoxe Kirche mit Marienikone.",
+      hu: "A montenegrói határ közelében fekvő Čajniče egy kelet-boszniai hegyvidéki kisváros, mely az ortodox hívők fontos zarándokhelyeként ismert a régióban.",
+      ro: "Čajniče este un orășel montan situat la granița cu Muntenegru. Localitatea găzduiește o biserică ortodoxă veche, un punct central pentru pelerini.",
+      en: "Nestled in the eastern mountains near Montenegro, Čajniče is a historic town centered around a revered Orthodox monastery holding an ancient Marian icon.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf etwa 818 Metern Höhe im Osten des Landes.", "Die Kirche Mariä Entschlafen wurde im 15. Jahrhundert erbaut.", "Beheimatet die wundertätige Ikone der Muttergottes von Čajniče.", "Grenzstadt zur benachbarten Republik Montenegro.", "Wurde im 15. Jahrhundert erstmals urkundlich erwähnt.", "Die Bevölkerungszahl der Gemeinde liegt bei etwa 4.000."],
+      hu: ["A település átlagos tengerszint feletti magassága 818 méter.", "A helyi ortodox templomot a 15. században alapították.", "A Čajničei Istenanya ikon a 16. század óta vonzza a zarándokokat.", "Közvetlenül a montenegrói államhatár mentén fekszik.", "Első írásos említése az 1400-as évek végére tehető.", "Körülbelül 4000 lakos él a közigazgatási területen."],
+      ro: ["Altitudinea medie a localității este de aproximativ 818 metri.", "Biserica Adormirea Maicii Domnului datează din secolul al XV-lea.", "Icoana Maicii Domnului din Čajniče atrage credincioșii ortodocși.", "Se află în entitatea Republika Srpska, aproape de Muntenegru.", "Orașul a fost menționat documentar pentru prima dată în 1477.", "Populația comunei este de sub 5.000 de locuitori."],
+      en: ["Situated at an elevation of 818 meters in the eastern mountains.", "The local Orthodox church was originally built in the 15th century.", "Houses the famous 16th-century icon of the Mother of God.", "Functions as a border municipality with Montenegro.", "First historical records of the settlement date back to 1477.", "The municipal population is approximately 4,000 residents."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-focaca-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Foča-Ustikolina", hu: "Foča-Ustikolina", ro: "Foča-Ustikolina", en: "Foča-Ustikolina" },
+    coordinates: { lat: 43.6, lng: 18.77 },
+    description: {
+      de: "Foča-Ustikolina ist eine Gemeinde im Kanton Bosnisches Podrinje in der Föderation Bosnien und Herzegowina. Sie liegt am Fluss Drina.",
+      hu: "Foča-Ustikolina egy község a Bosnyák-Podrinje kantonban, a Bosznia-Hercegovinai Föderációban. A Drina folyó partján helyezkedik el.",
+      ro: "Foča-Ustikolina este o comună în cantonul Podrinje Bosniac din Federația Bosniei și Herțegovinei. Este situată pe malul râului Drina.",
+      en: "Foča-Ustikolina is a municipality in the Bosnian Podrinje Canton in the Federation of Bosnia and Herzegovina. It is situated on the Drina river.",
+    },
+    facts: {
+      de: ["Gehört zum Kanton Bosnisches Podrinje", "Liegt am Fluss Drina", "Föderation Bosnien und Herzegowina", "Ländlich geprägte Region"],
+      hu: ["Bosnyák-Podrinje kanton része", "A Drina folyó mentén", "Bosznia-Hercegovinai Föderáció", "Vidékies jellegű régió"],
+      ro: ["Parte a cantonului Podrinje Bosniac", "Situat pe râul Drina", "Federația Bosniei și Herțegovinei", "Regiune cu caracter rural"],
+      en: ["Part of Bosnian Podrinje Canton", "Situated on Drina river", "Federation of Bosnia and Herzegovina", "Rural region"],
+    },
+    imageHint: "Drina river near Ustikolina",
+    descriptionAdvanced: {
+      de: "Foča-Ustikolina liegt im Kanton Bosnisches Podrinje. Die Siedlung am Ufer der Drina dient als regionales Zentrum für die umliegende Agrarwirtschaft und ist ein bedeutender Ort für die Wiederansiedlung seit den 1990er Jahren.",
+      hu: "Foča-Ustikolina a Bosnyák-Podrinje kantonban található. A Drina folyó partján fekvő település a környező mezőgazdasági területek központja, valamint a kilencvenes évek eseményei utáni újratelepítési folyamatok egyik kiemelt helyszíne.",
+      ro: "Foča-Ustikolina este situată în Cantonul Podrinje Bosniac. Așezarea de pe malul râului Drina servește ca centru regional pentru economia agricolă locală și reprezintă un punct important pentru procesele de relocare de după anii 1990.",
+      en: "Foča-Ustikolina is located in the Bosnian Podrinje Canton. Situated on the banks of the Drina River, this settlement acts as a regional hub for local agriculture and has been a significant site for resettlement efforts since the 1990s.",
+    },
+    factsAdvanced: {
+      de: ["Kantonszugehörigkeit: BPK", "Lage am Drina-Fluss", "Regionaler Agrarstandort", "Höhe: 350 Meter"],
+      hu: ["Kanton: Bosnyák-Podrinje", "Drina folyó partján fekszik", "Regionális mezőgazdasági központ", "Magasság: 350 méter"],
+      ro: ["Canton: Podrinje Bosniac", "Situat pe râul Drina", "Centru agricol regional", "Altitudine: 350 metri"],
+      en: ["Canton: Bosnian Podrinje", "Located on the Drina River", "Regional agricultural hub", "Elevation: 350 meters"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-ilidza-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Ilidža", hu: "Ilidža", ro: "Ilidža", en: "Ilidža" },
+    coordinates: { lat: 43.82, lng: 18.3 },
+    description: {
+      de: "Ilidža ist eine Gemeinde im Kanton Sarajevo und ein bedeutender Kurort. Sie liegt am Rande der Stadt Sarajevo am Fluss Željeznica.",
+      hu: "Ilidža egy község a Szarajevói kantonban, jelentős gyógyüdülőhely. Szarajevó városa mellett, a Željeznica folyó partján található.",
+      ro: "Ilidža este o comună în cantonul Sarajevo și o importantă stațiune balneară. Este situată la periferia orașului Sarajevo, pe râul Željeznica.",
+      en: "Ilidža is a municipality in the Sarajevo Canton and a major health resort. It is situated on the outskirts of Sarajevo city on the Željeznica river.",
+    },
+    facts: {
+      de: ["Bekannter Kurort", "Nahe Sarajevo", "Liegt an der Željeznica", "Thermalquellen in der Umgebung"],
+      hu: ["Ismert gyógyüdülőhely", "Szarajevó közelében", "A Željeznica folyónál fekszik", "Termálforrások a környéken"],
+      ro: ["Stațiune balneară cunoscută", "Lângă Sarajevo", "Situat pe Željeznica", "Izvoare termale în zonă"],
+      en: ["Well-known health resort", "Near Sarajevo", "Located on Željeznica", "Thermal springs in the area"],
+    },
+    imageHint: "Ilidža park and thermal resort",
+    descriptionAdvanced: {
+      de: "Ilidža ist bekannt für seine Thermalquellen und ist ein bedeutendes touristisches Zentrum südwestlich von Sarajevo. Die Gemeinde verbindet moderne Infrastruktur mit historischen Kurbädern und ist Sitz zahlreicher internationaler Institutionen.",
+      hu: "Ilidža híres termálforrásairól, és Szarajevótól délnyugatra fekvő jelentős turisztikai központ. A község a modern infrastruktúrát ötvözi a történelmi gyógyfürdőkkel, és számos nemzetközi intézmény székhelyéül is szolgál.",
+      ro: "Ilidža este renumită pentru izvoarele sale termale, fiind un important centru turistic la sud-vest de Sarajevo. Localitatea îmbină infrastructura modernă cu băile balneare istorice și găzduiește numeroase instituții internaționale.",
+      en: "Ilidža is renowned for its thermal springs and is a major tourist center southwest of Sarajevo. The municipality combines modern infrastructure with historic spa facilities and serves as the headquarters for numerous international institutions.",
+    },
+    factsAdvanced: {
+      de: ["Bekannt für Thermalquellen", "Sitz internationaler Schulen", "Direkte Nähe zum Flughafen Sarajevo", "Höhe ca. 490 Meter"],
+      hu: ["Termálforrásairól ismert", "Nemzetközi iskolák székhelye", "Közelség a Szarajevói repülőtérhez", "Magasság kb. 490 méter"],
+      ro: ["Cunoscută pentru izvoare termale", "Sediu al școlilor internaționale", "Proximitate față de Aeroportul Sarajevo", "Altitudine aprox. 490 metri"],
+      en: ["Known for thermal springs", "Home to international schools", "Proximity to Sarajevo Airport", "Elevation approx. 490 meters"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-istocnistari-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Istočni Stari Grad", hu: "Istočni Stari Grad", ro: "Istočni Stari Grad", en: "Istočni Stari Grad" },
+    coordinates: { lat: 43.86, lng: 18.45 },
+    description: {
+      de: "Istočni Stari Grad ist eine Gemeinde in der Republika Srpska. Sie grenzt direkt an die Hauptstadt Sarajevo und ist topografisch sehr bergig.",
+      hu: "Istočni Stari Grad egy község a boszniai Szerb Köztársaságban. Közvetlenül határos Szarajevó fővárosával, és topográfiailag nagyon hegyvidéki.",
+      ro: "Istočni Stari Grad este o comună în Republica Srpska. Se învecinează direct cu capitala Sarajevo și este topografic foarte muntoasă.",
+      en: "Istočni Stari Grad is a municipality in Republika Srpska. It borders directly on the capital Sarajevo and is topographically very mountainous.",
+    },
+    facts: {
+      de: ["Teil der Republika Srpska", "Grenzt an Sarajevo", "Sehr gebirgige Landschaft", "Vorwiegend ländliche Besiedlung"],
+      hu: ["A boszniai Szerb Köztársaság része", "Szarajevóval határos", "Nagyon hegyvidéki táj", "Elsősorban falusi jellegű"],
+      ro: ["Parte a Republicii Srpska", "Se învecinează cu Sarajevo", "Peisaj foarte muntos", "Așezări predominant rurale"],
+      en: ["Part of Republika Srpska", "Borders Sarajevo", "Very mountainous landscape", "Predominantly rural settlement"],
+    },
+    imageHint: "Mountainous landscape near Sarajevo",
+    descriptionAdvanced: {
+      de: "Istočni Stari Grad ist eine ländliche Berggemeinde östlich von Sarajevo. Sie entstand nach dem Bosnienkrieg durch die Teilung der Vorkriegsgemeinde.",
+      hu: "Az Istočni Stari Grad egy ritkán lakott, hegyvidéki község, amely a délszláv háború után jött létre Szarajevó egykori Stari Grad kerületének osztásával.",
+      ro: "Istočni Stari Grad este o comună montană slab populată, situată la est de Sarajevo. A fost formată după 1995 prin divizarea fostului sector Stari Grad.",
+      en: "Istočni Stari Grad is a mountainous and sparsely populated municipality created following the 1995 Dayton Agreement from the pre-war Sarajevo Stari Grad.",
+    },
+    factsAdvanced: {
+      de: ["Befindet sich an den Hängen der Berge Trebević und Ozren.", "Gegründet durch das Dayton-Abkommen im Jahr 1995.", "Die Gemeinde hat eine Fläche von etwa 70 Quadratkilometern.", "Die Bevölkerungszahl liegt bei knapp über 1.100 Einwohnern.", "Gehört administrativ zur Stadt Istočno Sarajevo.", "Der Hauptsitz der Gemeindeverwaltung befindet sich in Hreša."],
+      hu: ["A Trebević és az Ozren hegyek lejtőin terül el.", "A daytoni békeszerződés hozta létre 1995-ben.", "A község teljes területe megközelítőleg 70 négyzetkilométer.", "Lakossága alig haladja meg az 1100 főt.", "Az Istočno Sarajevo-i városi közigazgatás része.", "A polgármesteri hivatal a Hreša nevű településrészen működik."],
+      ro: ["Se întinde pe pantele munților Trebević și Ozren.", "A fost înființată oficial prin Acordul de la Dayton din 1995.", "Suprafața totală a comunei este de 70 de kilometri pătrați.", "Are o populație foarte redusă, de aproximativ 1.130 de locuitori.", "Face parte din orașul administrativ Istočno Sarajevo.", "Centrul administrativ local este situat în satul Hreša."],
+      en: ["Occupies the mountainous terrain of Trebević and Ozren.", "Established as a separate municipality by the 1995 Dayton Agreement.", "Covers a territorial area of roughly 70 square kilometers.", "Records a small population of just over 1,100 people.", "Incorporated into the larger Istočno Sarajevo administrative city.", "The municipal government operates from the village of Hreša."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-istocnitrnovo-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Istočno Trnovo", hu: "Istočno Trnovo", ro: "Istočno Trnovo", en: "Istočno Trnovo" },
+    coordinates: { lat: 43.6, lng: 18.46 },
+    description: {
+      de: "Istočno Trnovo ist eine Gemeinde im südlichen Teil der Republika Srpska. Sie umfasst Gebiete in den Dinarischen Alpen und ist dünn besiedelt.",
+      hu: "Istočno Trnovo egy község a boszniai Szerb Köztársaság déli részén. Területeket foglal magában a Dinári-hegységben, és gyéren lakott.",
+      ro: "Istočno Trnovo este o comună în partea de sud a Republicii Srpska. Include zone din Alpii Dinarici și este slab populată.",
+      en: "Istočno Trnovo is a municipality in the southern part of Republika Srpska. It covers areas in the Dinaric Alps and is sparsely populated.",
+    },
+    facts: {
+      de: ["Liegt in der Republika Srpska", "Teil der Dinarischen Alpen", "Geringe Bevölkerungsdichte", "Bergland"],
+      hu: ["A boszniai Szerb Köztársaságban", "A Dinári-hegység része", "Alacsony népsűrűség", "Hegyvidék"],
+      ro: ["Situat în Republica Srpska", "Parte a Alpilor Dinarici", "Densitate scăzută a populației", "Regiune muntoasă"],
+      en: ["Located in Republika Srpska", "Part of Dinaric Alps", "Low population density", "Mountainous terrain"],
+    },
+    imageHint: "Dinaric Alps landscape",
+    descriptionAdvanced: {
+      de: "Istočno Trnovo ist eine kleine Gemeinde in der Republika Srpska, gebildet aus Teilen des Vorkriegs-Trnovo. Sie ist von bewaldeten Landschaften geprägt.",
+      hu: "Az Istočno Trnovo községet a daytoni egyezmény alakította ki a történelmi Trnovo felosztásával, területe nagyrészt hegyvidéki és erdős tájakból áll.",
+      ro: "Comuna Istočno Trnovo a rezultat din împărțirea orașului Trnovo de dinainte de război. Zona este caracterizată de relief montan și întinderi forestiere.",
+      en: "Istočno Trnovo was established from the divided pre-war municipality of Trnovo. It is a predominantly rural and mountainous area in the Republika Srpska.",
+    },
+    factsAdvanced: {
+      de: ["Die Gemeinde umfasst eine Fläche von rund 85 Quadratkilometern.", "Entstand 1995 durch die Teilung der Vorkriegsgemeinde Trnovo.", "Liegt im südlichen Teil der Stadt Istočno Sarajevo.", "Die Gemeinde zählt weniger als 1.500 Einwohner.", "Umgeben von den Gebirgen Jahorina und Treskavica.", "Wirtschaftlich stark von Forstwirtschaft und Landwirtschaft abhängig."],
+      hu: ["A község kiterjedése hozzávetőlegesen 85 négyzetkilométer.", "A daytoni béke hozta létre 1995-ben Trnovo megosztásával.", "Istočno Sarajevo déli részét képezi közigazgatásilag.", "A teljes lakosságszám nem éri el az 1500 főt.", "A Jahorina és a Treskavica hegységek ölelik körül.", "Gazdasága elsősorban a fakitermelésre és mezőgazdaságra épül."],
+      ro: ["Suprafața administrativă se ridică la 85 de kilometri pătrați.", "Formată în 1995 prin Acordul de la Dayton din vechiul Trnovo.", "Aparține de structura municipală Istočno Sarajevo.", "Populația este estimată la mai puțin de 1.500 de persoane.", "Este flancată de masivele muntoase Jahorina și Treskavica.", "Exploatarea forestieră este principala activitate economică."],
+      en: ["The municipal territory spans approximately 85 square kilometers.", "Formed in 1995 when the pre-war Trnovo municipality was divided.", "Constitutes the southern part of the City of Istočno Sarajevo.", "Maintains a sparsely distributed population under 1,500.", "Bordered by the prominent Jahorina and Treskavica mountain ranges.", "The local economy is heavily reliant on timber and agriculture."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-jezero-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Jezero", hu: "Jezero", ro: "Jezero", en: "Jezero" },
+    coordinates: { lat: 44.33, lng: 17.2 },
+    description: {
+      de: "Jezero ist eine kleine Gemeinde in der Republika Srpska. Sie liegt in einer malerischen Umgebung am Pliva-See, nahe der Stadt Jajce.",
+      hu: "Jezero egy kis község a boszniai Szerb Köztársaságban. Festői környezetben fekszik a Pliva-tónál, Jajce városa közelében.",
+      ro: "Jezero este o mică comună în Republica Srpska. Este situată într-un cadru pitoresc pe lacul Pliva, aproape de orașul Jajce.",
+      en: "Jezero is a small municipality in Republika Srpska. It is situated in a picturesque setting by the Pliva lake, near the town of Jajce.",
+    },
+    facts: {
+      de: ["In der Republika Srpska", "Am Pliva-See gelegen", "Nahe Jajce", "Kleine ländliche Siedlung"],
+      hu: ["A boszniai Szerb Köztársaságban", "A Pliva-tó mellett", "Jajce közelében", "Kis falusi település"],
+      ro: ["În Republica Srpska", "Situat pe lacul Pliva", "Aproape de Jajce", "Mică așezare rurală"],
+      en: ["In Republika Srpska", "Situated on Pliva lake", "Near Jajce", "Small rural settlement"],
+    },
+    imageHint: "Jezero village near Pliva lake",
+    descriptionAdvanced: {
+      de: "Jezero ist eine Kleinstadt an den Ufern des Flusses Pliva in Bosnien. International bekannt wurde der Ort als Namensgeber für einen Krater auf dem Mars.",
+      hu: "A Pliva folyó partján fekvő Jezero nevét a világűrben is ismerik, hiszen erről a boszniai kisvárosról neveztek el egy krátert a Mars bolygón 2007-ben.",
+      ro: "Jezero este situat pe râul Pliva, în vestul entității Republika Srpska. Orașul a devenit celebru după ce un crater marțian a primit numele său în 2007.",
+      en: "Located along the Pliva River, Jezero gained global recognition when a crater on Mars, chosen as a rover landing site, was officially named after it.",
+    },
+    factsAdvanced: {
+      de: ["Liegt an der Mündung der Pliva in den Großen Pliva-See.", "Der Marskrater Jezero wurde 2007 nach der Stadt benannt.", "Die Gemeinde hat etwa 1.100 Einwohner.", "Entstand durch die Aufteilung von Jajce nach dem Dayton-Abkommen.", "2021 landete der Rover Perseverance im gleichnamigen Marskrater.", "Das Wort 'Jezero' bedeutet in mehreren slawischen Sprachen 'See'."],
+      hu: ["A Pliva folyónak a Pliva-tóba torkollásánál helyezkedik el.", "A marsi Jezero krátert 2007-ben nevezték el a városról.", "A lakosságszám mindössze 1100 fő körül mozog.", "A daytoni egyezmény Jajce területéből hasította ki a községet.", "2021-ben a Perseverance rover a városról elnevezett kráterben landolt.", "A település neve a helyi nyelveken 'tavat' jelent."],
+      ro: ["Se află la vărsarea râului Pliva în Lacul Pliva.", "Craterul marțian Jezero poartă numele acestui oraș din 2007.", "Populația localității este de aproximativ 1.140 de persoane.", "S-a desprins din comuna Jajce conform Acordului de la Dayton.", "Roverul Perseverance a asolizat în craterul Jezero în 2021.", "Numele orașului se traduce prin 'lac' în limbile slave."],
+      en: ["Situated where the Pliva River flows into the Great Pliva Lake.", "The Jezero crater on Mars was officially named after it in 2007.", "The municipality is home to approximately 1,140 residents.", "Formed from the pre-war Jajce municipality by the 1995 Dayton Agreement.", "NASA's Perseverance rover landed in the eponymous crater in 2021.", "The name 'Jezero' directly translates to 'lake' in Slavic languages."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-kakanj-selo-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Kakanj (Ortsteil)", hu: "Kakanj (résztelepülés)", ro: "Kakanj (așezare)", en: "Kakanj (settlement)" },
+    coordinates: { lat: 44.13, lng: 18.12 },
+    description: {
+      de: "Kakanj ist eine Industriestadt im Kanton Zenica-Doboj. Die Region ist bekannt für ihre umfangreichen Kohlevorkommen und das örtliche Kraftwerk.",
+      hu: "Kakanj egy iparváros a Zenica-Doboj kantonban. A régió ismert kiterjedt szénkészleteiről és a helyi erőműről.",
+      ro: "Kakanj este un oraș industrial în cantonul Zenica-Doboj. Regiunea este cunoscută pentru rezervele sale extinse de cărbune și centrala electrică locală.",
+      en: "Kakanj is an industrial city in the Zenica-Doboj Canton. The region is known for its extensive coal deposits and local power plant.",
+    },
+    facts: {
+      de: ["Im Kanton Zenica-Doboj", "Kohlebergbauzentrum", "Mit Kraftwerk", "Industrielle Basis"],
+      hu: ["Zenica-Doboj kantonban", "Szénbányászati központ", "Erőművel", "Ipari alap"],
+      ro: ["În cantonul Zenica-Doboj", "Centru de minerit al cărbunelui", "Cu centrală electrică", "Bază industrială"],
+      en: ["In Zenica-Doboj Canton", "Coal mining center", "With power plant", "Industrial base"],
+    },
+    imageHint: "Kakanj industrial landscape",
+    descriptionAdvanced: {
+      de: "Kakanj ist eine Industriestadt im Zenica-Doboj-Kanton, historisch geprägt durch Kohlebergbau. Die Siedlung zeigt die Transformation vom Bergbauzentrum hin zu einem modernen Wirtschaftsstandort mit Fokus auf Energieerzeugung.",
+      hu: "Kakanj a Zenica-Doboj kanton iparvárosa, amelyet történelmileg a szénbányászat jellemzett. A település a bányászati központból egy modernebb gazdasági központtá való átalakulást mutatja be, különös tekintettel az energiatermelésre.",
+      ro: "Kakanj este un oraș industrial în Cantonul Zenica-Doboj, marcat istoric de mineritul de cărbune. Așezarea reflectă transformarea de la un centru minier la un hub economic modern, cu accent pe producția de energie.",
+      en: "Kakanj is an industrial town in the Zenica-Doboj Canton, historically defined by coal mining. The settlement illustrates the transformation from a mining center to a modern economic hub with a focus on power generation.",
+    },
+    factsAdvanced: {
+      de: ["Industrieller Schwerpunkt: Energie", "Historisches Bergbauzentrum", "Lage im Bosna-Tal", "Kanton Zenica-Doboj"],
+      hu: ["Ipari fókusz: energetika", "Történelmi bányászati központ", "Bosna-völgyi elhelyezkedés", "Zenica-Doboj kanton"],
+      ro: ["Focus industrial: energie", "Centru minier istoric", "Situat în valea Bosna", "Cantonul Zenica-Doboj"],
+      en: ["Industrial focus: energy", "Historic mining center", "Located in the Bosna Valley", "Zenica-Doboj Canton"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-kupres-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Kupres", hu: "Kupres", ro: "Kupres", en: "Kupres" },
+    coordinates: { lat: 43.98, lng: 17.27 },
+    description: {
+      de: "Kupres ist eine Stadt im Kanton 10 der Föderation Bosnien und Herzegowina. Sie ist für ihr winterliches Klima und die Hochlandlage bekannt.",
+      hu: "Kupres egy város a 10-es kantonban, a Bosznia-Hercegovinai Föderációban. Ismert téli klímájáról és felföldi fekvéséről.",
+      ro: "Kupres este un oraș în cantonul 10 al Federației Bosniei și Herțegovinei. Este cunoscut pentru climatul său de iarnă și locația sa în zona de podiș.",
+      en: "Kupres is a city in Canton 10 of the Federation of Bosnia and Herzegovina. It is known for its winter climate and highland location.",
+    },
+    facts: {
+      de: ["Liegt im Kanton 10", "Hochlandlage", "Bekannt für Skisport", "Kaltes Winterklima"],
+      hu: ["A 10-es kantonban", "Felföldi fekvés", "Sísportjáról ismert", "Hideg téli klíma"],
+      ro: ["Situat în cantonul 10", "Locație în zona de podiș", "Cunoscut pentru sporturi de iarnă", "Climat rece de iarnă"],
+      en: ["Located in Canton 10", "Highland location", "Known for skiing", "Cold winter climate"],
+    },
+    imageHint: "Kupres winter landscape",
+    descriptionAdvanced: {
+      de: "Kupres liegt auf einer weiten Hochebene im Westen Bosniens. Wegen seiner Höhenlage ist die Stadt ein beliebtes Ziel für Wintersport und Skitourismus.",
+      hu: "A magaslati fennsíkon található Kupres Bosznia egyik legismertebb téli üdülőhelye, amely havasi legelőiről és kiváló sípályáiról nevezetes a régióban.",
+      ro: "Kupres este situat pe un platou înalt în Cantonul 10. Datorită climei aspre și ninsorilor abundente, orașul este o destinație majoră de iarnă.",
+      en: "Set on a vast karst plateau in western Bosnia, Kupres is renowned for its harsh winters and heavy snowfall, making it a premier regional ski destination.",
+    },
+    factsAdvanced: {
+      de: ["Das Kupres-Feld liegt auf einer durchschnittlichen Höhe von 1.190 Metern.", "Die erste schriftliche Erwähnung der Stadt stammt aus dem Jahr 1461.", "Die Gemeinde verzeichnet etwa 5.000 ständige Einwohner.", "Es gibt mehrere Skigebiete wie Stožer und Čajuša in der Nähe.", "Die Region ist für strenge und schneereiche Winter bekannt.", "Große Flächen der Hochebene dienen als Weidegebiet."],
+      hu: ["A Kupresi-mező átlagos tengerszint feletti magassága 1190 méter.", "Első okleveles említése a 15. század közepéről, 1461-ből származik.", "A községben megközelítőleg 5000 lakos él állandó jelleggel.", "A Stožer és a Čajuša síközpontok számos turistát vonzzanak.", "Telei rendkívül hidegek, tartós és vastag hótakaróval.", "A kiterjedt fennsíkot intenzív állattartásra és legeltetésre használják."],
+      ro: ["Platoul Kupres se află la o altitudine medie de 1.190 de metri.", "Prima mențiune documentară a așezării datează din 1461.", "Populația comunei numără aproximativ 5.000 de rezidenți.", "Include centrele de schi Stožer și Čajuša.", "Clima se caracterizează prin ierni geroase și strat gros de zăpadă.", "Terenurile de pe platou sunt utilizate intens pentru pășunat."],
+      en: ["The Kupres plateau sits at an average elevation of 1,190 meters.", "The town was first documented in historical records in 1461.", "The total municipal population is approximately 5,000 residents.", "Hosts popular ski resorts including Stožer and Čajuša.", "The climate is characterized by severe winters and prolonged snow cover.", "Large areas of the karst plain are utilized for livestock grazing."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-lukavica-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Lukavica", hu: "Lukavica", ro: "Lukavica", en: "Lukavica" },
+    coordinates: { lat: 43.81, lng: 18.36 },
+    description: {
+      de: "Lukavica ist ein administratives Zentrum in der Republika Srpska, das einen großen Teil von Ost-Sarajevo bildet. Es ist ein dicht bebautes städtisches Gebiet.",
+      hu: "Lukavica egy adminisztratív központ a boszniai Szerb Köztársaságban, amely Kelet-Szarajevó nagy részét alkotja. Sűrűn beépített városi terület.",
+      ro: "Lukavica este un centru administrativ în Republica Srpska, care formează o mare parte din Sarajevo de Est. Este o zonă urbană dens construită.",
+      en: "Lukavica is an administrative center in Republika Srpska, which forms a large part of East Sarajevo. It is a densely built urban area.",
+    },
+    facts: {
+      de: ["Administratives Zentrum", "Teil von Ost-Sarajevo", "Dichtes städtisches Gebiet", "In der Republika Srpska"],
+      hu: ["Adminisztratív központ", "Kelet-Szarajevó része", "Sűrű városi terület", "A boszniai Szerb Köztársaságban"],
+      ro: ["Centru administrativ", "Parte a Sarajevo de Est", "Zonă urbană densă", "În Republica Srpska"],
+      en: ["Administrative center", "Part of East Sarajevo", "Dense urban area", "In Republika Srpska"],
+    },
+    imageHint: "Lukavica urban landscape",
+    descriptionAdvanced: {
+      de: "Lukavica ist das urbane Zentrum von Istočno Novo Sarajevo. Die Siedlung entwickelte sich stark als administratives und akademisches Zentrum der Region.",
+      hu: "Lukavica az Istočno Novo Sarajevo közigazgatási és oktatási központja, amely az 1990-es évek háborúja után jelentős infrastrukturális fejlődésen ment át.",
+      ro: "Lukavica servește ca nucleu urban pentru Istočno Novo Sarajevo. După anii 1990, a cunoscut o dezvoltare rapidă, devenind un centru administrativ local.",
+      en: "Lukavica forms the urban core of Istočno Novo Sarajevo. Following the Bosnian War, it underwent rapid expansion to house educational institutions.",
+    },
+    factsAdvanced: {
+      de: ["Lukavica ist Sitz der Universität in Istočno Sarajevo.", "Die Siedlung liegt direkt an der Grenze zum Kanton Sarajevo.", "In Lukavica befindet sich das Regierungsgebäude der Stadt Istočno Sarajevo.", "Das Wohnviertel verzeichnet seit 1995 ein stetiges Bevölkerungswachstum.", "Zahlreiche Bildungseinrichtungen haben hier ihren Hauptsitz.", "Lukavica war ursprünglich eine kleine Vorortsiedlung."],
+      hu: ["Itt található az Istočno Sarajevo-i Egyetem központi kampusza.", "Közvetlenül határos a bosnyák főváros, Szarajevó területével.", "A városrészben működik az Istočno Sarajevo-i önkormányzat.", "1995 óta a régió egyik leggyorsabban növekvő lakónegyede.", "Több fontos közintézmény és egyetemi kar kapott helyet a területen.", "Eredetileg egy ritkán lakott peremvárosi település volt."],
+      ro: ["Găzduiește sediul central al Universității din Istočno Sarajevo.", "Se învecinează direct cu entitatea Cantonului Sarajevo.", "Aici funcționează administrația principală a orașului Istočno Sarajevo.", "Populația a crescut semnificativ după Acordul de la Dayton din 1995.", "Multe instituții educaționale sunt concentrate în acest cartier.", "Înainte de 1992, era o simplă așezare suburbană agricolă."],
+      en: ["Serves as the main campus location for the University of Istočno Sarajevo.", "Directly borders the Sarajevo Canton in the Federation entity.", "Houses the primary administrative offices of the City of Istočno Sarajevo.", "Experienced significant demographic growth following the 1995 peace agreement.", "Contains multiple regional government buildings and academic faculties.", "Historically, it was a minor suburban and agricultural settlement."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-nevesinje-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Nevesinje", hu: "Nevesinje", ro: "Nevesinje", en: "Nevesinje" },
+    coordinates: { lat: 43.25, lng: 18.11 },
+    description: {
+      de: "Nevesinje ist eine Stadt in der Republika Srpska in der Region Herzegowina. Sie ist bekannt für ihre Lage auf dem Nevesinje-Plateau.",
+      hu: "Nevesinje egy város a boszniai Szerb Köztársaságban, Hercegovina régióban. Ismert a Nevesinje-felföldön való elhelyezkedéséről.",
+      ro: "Nevesinje este un oraș în Republica Srpska, în regiunea Herțegovina. Este cunoscut pentru locația sa pe platoul Nevesinje.",
+      en: "Nevesinje is a city in Republika Srpska in the Herzegovina region. It is known for its location on the Nevesinje plateau.",
+    },
+    facts: {
+      de: ["In der Herzegowina", "Nevesinje-Plateau", "Republika Srpska", "Ländlich-gebirgiger Raum"],
+      hu: ["Hercegovina régióban", "Nevesinje-felföld", "Boszniai Szerb Köztársaság", "Vidékies-hegyvidéki terület"],
+      ro: ["În Herțegovina", "Platoul Nevesinje", "Republica Srpska", "Zonă rurală-muntoasă"],
+      en: ["In Herzegovina region", "Nevesinje plateau", "Republika Srpska", "Rural-mountainous area"],
+    },
+    imageHint: "Nevesinje plateau view",
+    descriptionAdvanced: {
+      de: "Nevesinje ist eine historische Stadt in der Bergregion der Ostherzegowina. Sie ist berühmt für den Nevesinjer Aufstand von 1875 gegen die Osmanen.",
+      hu: "Nevesinje egy kelet-hercegovinai hegyvidéki kisváros, amely az Oszmán Birodalom elleni 1875-ös nevesinjei fegyveres felkelés kiindulópontjaként ismert.",
+      ro: "Nevesinje este un oraș din estul Herțegovinei, recunoscut ca locul de declanșare a Răscoalei din Herțegovina în anul 1875 împotriva stăpânirii otomane.",
+      en: "Situated in the high karst fields of eastern Herzegovina, Nevesinje is historically renowned as the epicenter of the 1875 uprising against Ottoman rule.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt liegt auf dem Nevesinjer Feld auf rund 900 Metern Höhe.", "Der Nevesinjer Aufstand (Nevesinjska puška) begann im Juli 1875.", "Die erste urkundliche Erwähnung datiert auf das 13. Jahrhundert.", "Die Gemeindebevölkerung beläuft sich auf etwa 13.000 Personen.", "Traditionell landwirtschaftlich geprägt, vor allem durch Schafzucht.", "Das nahe gelegene Velež-Gebirge schirmt die Region klimatisch ab."],
+      hu: ["A Nevesinjei-mezőn fekszik, mintegy 900 méteres tengerszint feletti magasságban.", "A 'nevesinjei puska' néven ismert felkelés 1875 nyarán robbant ki.", "A települést a 13. században említik először az írásos források.", "A közigazgatási területén mintegy 13 000 lakos él.", "A helyi mezőgazdaság alapját a hegyvidéki juhtenyésztés adja.", "A Velež-hegység markáns éghajlati választóvonalat képez a térségben."],
+      ro: ["Se află pe Câmpia Nevesinje, la o altitudine de aproape 900 de metri.", "Răscoala cunoscută sub numele de 'Pușca din Nevesinje' a început în 1875.", "Așezarea este menționată în documente încă din secolul al XIII-lea.", "Populația comunei este estimată la 13.000 de locuitori.", "Creșterea ovinelor este principala ramură agricolă a regiunii.", "Lanțul montan Velež domină peisajul la vestul orașului."],
+      en: ["Located on the Nevesinje field at an elevation of approximately 900 meters.", "The 1875 'Nevesinje gun' rebellion triggered the wider Great Eastern Crisis.", "First historical references to the settlement date back to the 13th century.", "The municipal area has a population of roughly 13,000 residents.", "The local economy relies heavily on traditional livestock farming.", "The Velež mountain range separates the town from the Mediterranean climate."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-novisehir-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Novi Šeher", hu: "Novi Šeher", ro: "Novi Šeher", en: "Novi Šeher" },
+    coordinates: { lat: 44.47, lng: 18.12 },
+    description: {
+      de: "Novi Šeher ist ein besiedelter Ort in der Gemeinde Maglaj im Kanton Zenica-Doboj. Die Region ist landwirtschaftlich und handwerklich geprägt.",
+      hu: "Novi Šeher egy lakott hely Maglaj községben, a Zenica-Doboj kantonban. A régió mezőgazdasági és kézműves jellegű.",
+      ro: "Novi Šeher este o așezare în municipiul Maglaj, cantonul Zenica-Doboj. Regiunea are un caracter agricol și artizanal.",
+      en: "Novi Šeher is a settlement in the Maglaj municipality, Zenica-Doboj Canton. The region has an agricultural and artisanal character.",
+    },
+    facts: {
+      de: ["In der Gemeinde Maglaj", "Kanton Zenica-Doboj", "Landwirtschaft", "Handwerkstraditionen"],
+      hu: ["Maglaj községben", "Zenica-Doboj kantonban", "Mezőgazdaság", "Kézműves hagyományok"],
+      ro: ["În municipiul Maglaj", "Cantonul Zenica-Doboj", "Agricultură", "Tradiții artizanale"],
+      en: ["In Maglaj municipality", "Zenica-Doboj Canton", "Agriculture", "Craft traditions"],
+    },
+    imageHint: "Novi Šeher village area",
+    descriptionAdvanced: {
+      de: "Novi Šeher ist eine historische Ortschaft in der Gemeinde Maglaj im Zenica-Doboj Kanton. Sie besitzt reiche osmanische Architekturreste und alte Moscheen.",
+      hu: "Novi Šeher a Maglaj községhez tartozó boszniai település, amely történelmi hangulatát az oszmán kori építészet és a középkori útvonalak emléke őrzi.",
+      ro: "Novi Šeher este o așezare din comuna Maglaj, în Cantonul Zenica-Doboj. Localitatea păstrează urme importante ale arhitecturii din perioada otomană.",
+      en: "Novi Šeher is a village within the Maglaj municipality in central Bosnia, notable for its preserved Ottoman-era structures and history on trade routes.",
+    },
+    factsAdvanced: {
+      de: ["Novi Šeher liegt unweit des Flusses Bosna.", "Die Region war historisch ein wichtiges Zentrum der Eisenverarbeitung.", "Verfügt über eine bemerkenswerte osmanische Moschee aus dem 16. Jahrhundert.", "Die Ortschaft gehört administrativ zur Gemeinde Maglaj.", "Die Bevölkerung beträgt etwa 1.500 Einwohner.", "In der Umgebung finden sich Reste alter Handelswege."],
+      hu: ["A település a Bosna folyó völgyének közelében fekszik.", "A régió a középkorban jelentős vasfeldolgozó központ volt.", "Legfontosabb műemléke egy 16. században épült oszmán dzsámi.", "Közigazgatásilag a szomszédos Maglaj városához tartozik.", "Állandó lakosainak száma nagyjából 1500 fő.", "A területen áthaladtak a történelmi boszniai kereskedelmi útvonalak."],
+      ro: ["Așezarea este situată în apropierea văii râului Bosna.", "Istoric, zona a fost un centru important pentru prelucrarea fierului.", "Găzduiește o moschee otomană construită în secolul al XVI-lea.", "Face parte din structura administrativă a comunei Maglaj.", "Populația satului se situează în jurul a 1.500 de locuitori.", "Păstrează urme ale vechilor rute comerciale medievale."],
+      en: ["Located near the Bosna River valley in central Bosnia.", "The surrounding area was historically known for iron processing.", "Features a prominent Ottoman mosque dating back to the 16th century.", "Administratively incorporated into the Maglaj municipality.", "The village maintains a population of approximately 1,500 residents.", "Situated along the historical medieval trade routes of the region."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-opstinatrnovo-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Trnovo (Föderation)", hu: "Trnovo (Föderáció)", ro: "Trnovo (Federație)", en: "Trnovo (Federation)" },
+    coordinates: { lat: 43.66, lng: 18.43 },
+    description: {
+      de: "Trnovo ist eine kleine Gemeinde in der Föderation Bosnien und Herzegowina, die an den Kanton Sarajevo grenzt. Sie liegt in einer bergigen Umgebung.",
+      hu: "Trnovo egy kis község a Bosznia-Hercegovinai Föderációban, amely a Szarajevói kantonnal határos. Hegyvidéki környezetben fekszik.",
+      ro: "Trnovo este o mică comună în Federația Bosniei și Herțegovinei, care se învecinează cu cantonul Sarajevo. Este situată într-un mediu muntos.",
+      en: "Trnovo is a small municipality in the Federation of Bosnia and Herzegovina, bordering the Sarajevo Canton. It is situated in a mountainous environment.",
+    },
+    facts: {
+      de: ["In der Föderation BiH", "Bergige Lage", "Nahe Kanton Sarajevo", "Ländlich"],
+      hu: ["A Bosznia-Hercegovinai Föderációban", "Hegyvidéki fekvés", "Szarajevói kanton közelében", "Vidékies"],
+      ro: ["În Federația BiH", "Locație muntoasă", "Aproape de cantonul Sarajevo", "Rural"],
+      en: ["In Federation of BiH", "Mountainous location", "Near Sarajevo Canton", "Rural"],
+    },
+    imageHint: "Trnovo mountainous area",
+    descriptionAdvanced: {
+      de: "Trnovo in der Föderation Bosnien und Herzegowina ist eine bergige Gemeinde südlich von Sarajevo. Die Region ist stark durch die Nähe zum Igman-Gebirge und den ländlichen Charakter ihrer Siedlungen geprägt.",
+      hu: "A Föderációhoz tartozó Trnovo hegyvidéki község Szarajevótól délre. A régiót erősen meghatározza az Igman-hegység közelsége és a települések falusias, természetközeli jellege.",
+      ro: "Trnovo din Federația Bosniei și Herțegovinei este o municipalitate montană la sud de Sarajevo. Regiunea este definită puternic de proximitatea față de munții Igman și de caracterul rural al așezărilor sale.",
+      en: "Trnovo in the Federation of Bosnia and Herzegovina is a mountainous municipality south of Sarajevo. The region is strongly defined by its proximity to the Igman mountains and the rural character of its settlements.",
+    },
+    factsAdvanced: {
+      de: ["Gebirgige Gemeinde", "Nähe zum Igman-Massiv", "Ländliche Struktur", "Südlich von Sarajevo"],
+      hu: ["Hegyvidéki község", "Igman-hegység közelsége", "Falusias szerkezet", "Szarajevótól délre"],
+      ro: ["Municipalitate montană", "Proximitatea masivului Igman", "Structură rurală", "La sud de Sarajevo"],
+      en: ["Mountainous municipality", "Proximity to the Igman massif", "Rural structure", "South of Sarajevo"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-ozren-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Ozren (Siedlung)", hu: "Ozren (település)", ro: "Ozren (așezare)", en: "Ozren (settlement)" },
+    coordinates: { lat: 44.5, lng: 18.25 },
+    description: {
+      de: "Ozren ist eine Siedlung in der Republika Srpska, benannt nach dem gleichnamigen Berggebiet. Die Region ist bekannt für ihre bewaldeten Hänge.",
+      hu: "Ozren egy település a boszniai Szerb Köztársaságban, az azonos nevű hegyvidékről elnevezve. A régió ismert erdős lejtőiről.",
+      ro: "Ozren este o așezare în Republica Srpska, numită după zona muntoasă cu același nume. Regiunea este cunoscută pentru versanții săi împăduriți.",
+      en: "Ozren is a settlement in Republika Srpska, named after the mountain area of the same name. The region is known for its forested slopes.",
+    },
+    facts: {
+      de: ["In der Republika Srpska", "Bewaldetes Berggebiet", "Naturnahe Region", "Nahe Petrovo"],
+      hu: ["A boszniai Szerb Köztársaságban", "Erdős hegyvidék", "Természetközeli régió", "Petrovo közelében"],
+      ro: ["În Republica Srpska", "Zonă montană împădurită", "Regiune aproape de natură", "Lângă Petrovo"],
+      en: ["In Republika Srpska", "Forested mountain area", "Nature-oriented region", "Near Petrovo"],
+    },
+    imageHint: "Ozren forested landscape",
+    descriptionAdvanced: {
+      de: "Die Siedlung Ozren liegt in der Nähe von Ilijaš. Die Umgebung zeichnet sich durch hügelige Waldlandschaften aus, die traditionell forstwirtschaftlich genutzt werden und heute auch für den sanften Tourismus an Bedeutung gewinnen.",
+      hu: "Ozren település Ilijaš közelében található. A környezetet dombos erdős tájak jellemzik, amelyeket hagyományosan erdőgazdálkodásra használtak, és ma már a szelíd turizmus számára is egyre fontosabbá válnak.",
+      ro: "Așezarea Ozren este situată în apropiere de Ilijaš. Împrejurimile sunt caracterizate de peisaje forestiere deluroase, utilizate tradițional pentru silvicultură și care astăzi capătă importanță pentru turismul ecologic.",
+      en: "The settlement of Ozren is located near Ilijaš. The surroundings are characterized by hilly forest landscapes, traditionally used for forestry and today gaining importance for eco-tourism.",
+    },
+    factsAdvanced: {
+      de: ["Nahe Ilijaš gelegen", "Hügelige Waldlandschaft", "Forstwirtschaftliche Tradition", "Naturnahe Lage"],
+      hu: ["Ilijaš közelében", "Dombos erdős táj", "Erdőgazdálkodási hagyomány", "Természetközeli elhelyezkedés"],
+      ro: ["Situat lângă Ilijaš", "Peisaj forestier deluros", "Tradiție silvică", "Poziționare naturală"],
+      en: ["Located near Ilijaš", "Hilly forest landscape", "Forestry tradition", "Natural location"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-petrovic-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Petrovići", hu: "Petrovići", ro: "Petrovići", en: "Petrovići" },
+    coordinates: { lat: 44.4, lng: 18.7 },
+    description: {
+      de: "Petrovići ist ein Dorf in der Republika Srpska. Es liegt in einem landwirtschaftlich genutzten Gebiet im nordöstlichen Bosnien.",
+      hu: "Petrovići egy falu a boszniai Szerb Köztársaságban. Északkelet-Bosznia mezőgazdasági területén helyezkedik el.",
+      ro: "Petrovići este un sat în Republica Srpska. Este situat într-o zonă agricolă din nord-estul Bosniei.",
+      en: "Petrovići is a village in Republika Srpska. It is situated in an agricultural area in northeastern Bosnia.",
+    },
+    facts: {
+      de: ["In der Republika Srpska", "Landwirtschaftliche Gegend", "Nordostbosnien", "Ländlich"],
+      hu: ["A boszniai Szerb Köztársaságban", "Mezőgazdasági környék", "Északkelet-Bosznia", "Vidékies"],
+      ro: ["În Republica Srpska", "Zonă agricolă", "Nord-estul Bosniei", "Rural"],
+      en: ["In Republika Srpska", "Agricultural area", "Northeastern Bosnia", "Rural"],
+    },
+    imageHint: "Petrovići village landscape",
+    descriptionAdvanced: {
+      de: "Petrovići ist eine ländliche Siedlung, die durch kleinteilige landwirtschaftliche Strukturen geprägt ist. Die Bewohner bewahren hier traditionelle Lebensweisen, die eng mit der Topographie der umliegenden Hügel verknüpft sind.",
+      hu: "Petrovići egy vidéki település, amelyet kisléptékű mezőgazdasági szerkezetek jellemeznek. A lakók megőrzik hagyományos életmódjukat, amely szorosan kapcsolódik a környező dombok topográfiájához.",
+      ro: "Petrovići este o așezare rurală caracterizată prin structuri agricole la scară mică. Locuitorii păstrează aici moduri de viață tradiționale, strâns legate de topografia dealurilor din jur.",
+      en: "Petrovići is a rural settlement defined by small-scale agricultural structures. Residents here preserve traditional ways of life that are closely linked to the topography of the surrounding hills.",
+    },
+    factsAdvanced: {
+      de: ["Ländliche Siedlung", "Landwirtschaft geprägt", "Hügelige Umgebung", "Traditionelle Strukturen"],
+      hu: ["Vidéki település", "Mezőgazdasági jelleg", "Dombos környezet", "Hagyományos szerkezet"],
+      ro: ["Așezare rurală", "Specific agricol", "Mediu deluros", "Structuri tradiționale"],
+      en: ["Rural settlement", "Agriculture-focused", "Hilly surroundings", "Traditional structures"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-roca-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Roca", hu: "Roca", ro: "Roca", en: "Roca" },
+    coordinates: { lat: 44.2, lng: 18.0 },
+    description: {
+      de: "Roca ist eine kleine Siedlung in Zentralbosnien. Sie liegt in einem bewaldeten Tal, das für seine ruhige, ländliche Umgebung bekannt ist.",
+      hu: "Roca egy kis település Közép-Boszniában. Erdős völgyben fekszik, amely csendes, vidékies környezetéről ismert.",
+      ro: "Roca este o mică așezare în Bosnia Centrală. Este situată într-o vale împădurită, cunoscută pentru mediul său rural liniștit.",
+      en: "Roca is a small settlement in Central Bosnia. It is situated in a forested valley known for its quiet, rural environment.",
+    },
+    facts: {
+      de: ["Zentralbosnien", "Bewaldetes Tal", "Ruhiges Umfeld", "Ländlich"],
+      hu: ["Közép-Bosznia", "Erdős völgy", "Csendes környezet", "Vidékies"],
+      ro: ["Bosnia Centrală", "Vale împădurită", "Mediu liniștit", "Rural"],
+      en: ["Central Bosnia", "Forested valley", "Quiet environment", "Rural"],
+    },
+    imageHint: "Roca forest valley",
+    descriptionAdvanced: {
+      de: "Roca ist eine kleine Ansiedlung in einer hügeligen Region Bosniens. Die Struktur ist durch verstreute Gehöfte gekennzeichnet, was für die ländliche Besiedlung dieser Gebiete charakteristisch ist.",
+      hu: "Roca egy kis település Bosznia egyik dombos régiójában. A szerkezet szétszórt tanyákból áll, ami jellemző az ilyen területek vidéki lakott jellegére.",
+      ro: "Roca este o așezare mică într-o regiune deluroasă din Bosnia. Structura este marcată de ferme împrăștiate, ceea ce este caracteristic pentru așezările rurale din aceste zone.",
+      en: "Roca is a small settlement in a hilly region of Bosnia. Its structure is marked by scattered homesteads, which is characteristic of rural settlement patterns in these areas.",
+    },
+    factsAdvanced: {
+      de: ["Kleine Siedlung", "Hügelige Region", "Verstreute Besiedlung", "Ländlicher Raum"],
+      hu: ["Kis település", "Dombos régió", "Szétszórt lakottság", "Vidéki térség"],
+      ro: ["Așezare mică", "Regiune deluroasă", "Așezare dispersată", "Zonă rurală"],
+      en: ["Small settlement", "Hilly region", "Scattered settlement", "Rural area"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-sipovo-centar-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Šipovo-Zentrum", hu: "Šipovo-Központ", ro: "Šipovo-Centru", en: "Šipovo-Center" },
+    coordinates: { lat: 44.27, lng: 17.13 },
+    description: {
+      de: "Šipovo ist eine Gemeinde in der Republika Srpska am Zusammenfluss der Flüsse Pliva und Janj. Die Stadt ist für ihre Naturschönheit bekannt.",
+      hu: "Šipovo egy község a boszniai Szerb Köztársaságban, a Pliva és a Janj folyók összefolyásánál. A város természeti szépségéről ismert.",
+      ro: "Šipovo este o comună în Republica Srpska la confluența râurilor Pliva și Janj. Orașul este cunoscut pentru frumusețea sa naturală.",
+      en: "Šipovo is a municipality in Republika Srpska at the confluence of the Pliva and Janj rivers. The town is known for its natural beauty.",
+    },
+    facts: {
+      de: ["Republika Srpska", "Zusammenfluss Pliva und Janj", "Naturschönheit", "Bergland"],
+      hu: ["Boszniai Szerb Köztársaság", "Pliva és Janj összefolyása", "Természeti szépség", "Hegyvidék"],
+      ro: ["Republica Srpska", "Confluența Pliva și Janj", "Frumusețe naturală", "Zonă muntoasă"],
+      en: ["Republika Srpska", "Pliva and Janj confluence", "Natural beauty", "Mountainous area"],
+    },
+    imageHint: "Pliva river near Šipovo",
+    descriptionAdvanced: {
+      de: "Šipovo liegt an den Flüssen Pliva und Janj in der Republika Srpska. Die waldreiche Region zieht Fliegenfischer und Naturliebhaber aus ganz Europa an.",
+      hu: "Az ország nyugati részén fekvő Šipovo a Pliva és a Janj folyók találkozásánál terül el. A környék a horgászok és a hegyvidéki túrázók kedvelt célpontja.",
+      ro: "Šipovo este situat la confluența râurilor Pliva și Janj. Orașul este recunoscut pentru calitatea apei și este o destinație populară pentru pescuitul sportiv.",
+      en: "Centered at the confluence of the Pliva and Janj rivers, Šipovo is a picturesque town renowned among international anglers for its pristine fly-fishing.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum liegt direkt am Zusammenfluss von Pliva und Janj.", "Die Gemeinde hat etwa 10.000 Einwohner.", "Die Region ist zu über 60 Prozent bewaldet.", "Beliebter Ausgangspunkt für Touren zu den Janj-Inseln (Janjske Otoke).", "Die Janj-Quellen wurden zum UNESCO-Weltnaturerbe erklärt.", "Ein wichtiges Zentrum für nachhaltigen Flusstourismus."],
+      hu: ["A városközpont a Pliva és a Janj folyók összefolyásánál épült.", "A község teljes lakossága eléri a 10 000 főt.", "A közigazgatási terület több mint 60%-át sűrű erdő borítja.", "Innen indulnak a kirándulások a festői Janjski Otoci mésztufa-szigetekhez.", "A Janj folyó őserdeje szerepel az UNESCO természeti világörökségi listáján.", "A régió a fenntartható horgászturizmus egyik boszniai központja."],
+      ro: ["Centrul se află la intersecția cursurilor de apă Pliva și Janj.", "Populația comunei este de aproximativ 10.000 de persoane.", "Peste 60% din suprafața municipalității este acoperită de păduri.", "Este punctul de plecare spre rezervația naturală Janjske Otoke.", "Pădurea virgină Janj este inclusă în patrimoniul mondial UNESCO.", "Atragerea pescarilor de păstrăv este vitală pentru economia locală."],
+      en: ["The urban center is built at the confluence of the Pliva and Janj rivers.", "The municipality encompasses a population of roughly 10,000.", "Over 60 percent of the municipal territory consists of dense forests.", "Serves as the gateway to the scenic Janj Islands (Janjske Otoke).", "The strict nature reserve of Janj is an acclaimed UNESCO World Heritage site.", "The local rivers hold significant importance for international fly-fishing."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-tesanj-naselje-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Tešanj (Siedlung)", hu: "Tešanj (település)", ro: "Teșanj (așezare)", en: "Tešanj (settlement)" },
+    coordinates: { lat: 44.6, lng: 17.98 },
+    description: {
+      de: "Tešanj ist eine Stadt im Kanton Zenica-Doboj in der Föderation Bosnien und Herzegowina. Sie verfügt über eine gut erhaltene alte Festung.",
+      hu: "Tešanj egy város a Zenica-Doboj kantonban, a Bosznia-Hercegovinai Föderációban. Jól megőrzött régi erőddel rendelkezik.",
+      ro: "Teșanj este un oraș în cantonul Zenica-Doboj din Federația Bosniei și Herțegovinei. Dispune de o fortăreață veche bine conservată.",
+      en: "Tešanj is a city in the Zenica-Doboj Canton in the Federation of Bosnia and Herzegovina. It features a well-preserved old fortress.",
+    },
+    facts: {
+      de: ["Kanton Zenica-Doboj", "Alte Festung", "Wirtschaftliches Zentrum", "Föderation BiH"],
+      hu: ["Zenica-Doboj kanton", "Régi erőd", "Gazdasági központ", "Bosznia-Hercegovinai Föderáció"],
+      ro: ["Cantonul Zenica-Doboj", "Fortăreață veche", "Centru economic", "Federația BiH"],
+      en: ["Zenica-Doboj Canton", "Old fortress", "Economic center", "Federation of BiH"],
+    },
+    imageHint: "Tešanj fortress view",
+    descriptionAdvanced: {
+      de: "Tešanj ist eine pittoreske Kleinstadt im Norden der Föderation. Das Stadtbild wird von der massiven mittelalterlichen Festung auf dem Hügel dominiert.",
+      hu: "A boszniai Föderáció északi részén fekvő Tešanj központjából magasodik ki az ország egyik legnagyobb épségben maradt középkori várkomplexuma.",
+      ro: "Tešanj este un oraș istoric din nord-centrul Bosniei. Dominat de cetatea sa fortificată Gradina, localitatea are un bogat patrimoniu cultural și comercial.",
+      en: "Tešanj is a historic urban settlement in northern Bosnia, visually and historically dominated by its massive medieval fortress on the central elevation.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung Tešanj erstreckt sich über fast 6.300 Quadratmeter.", "Der osmanische Uhrturm (Sahat Kula) stammt aus dem 17. Jahrhundert.", "Die Stadt war ein wichtiges Handelszentrum der osmanischen Zeit.", "Die Ferhad-Beg-Moschee wurde im Jahr 1563 erbaut.", "Der Siedlungskern hat rund 5.500 ständige Einwohner.", "In der Stadt liegt das Grab des bekannten Dichters Musa Ćazim Ćatić."],
+      hu: ["A tešanji erőd területe meghaladja a 6300 négyzetmétert.", "A 17. századi oszmán óratorony (Sahat-kula) máig működik.", "A török uralom alatt a térség legjelentősebb kézműves központja volt.", "A Ferhad-bég dzsámi 1563-as építése óta a város ékessége.", "A központi belterület mintegy 5500 lakost számlál.", "Itt található a bosnyák költő, Musa Ćazim Ćatić síremléke."],
+      ro: ["Cetatea Tešanj se întinde pe o suprafață de aproape 6.300 de metri pătrați.", "Turnul cu ceas (Sahat-kula) a fost construit în secolul al XVII-lea.", "Orașul s-a dezvoltat ca un prosper centru meșteșugăresc otoman.", "Moscheea Ferhad-Beg datează din anul 1563.", "Populația așezării centrale este de aproximativ 5.500 de locuitori.", "Poetul național bosniac Musa Ćazim Ćatić este înmormântat aici."],
+      en: ["The Tešanj fortress covers an extensive area of nearly 6,300 square meters.", "The town's Ottoman clock tower (Sahat-kula) was erected in the 17th century.", "Historically served as a vibrant mercantile center during the Ottoman era.", "The central Ferhad-Beg Mosque was completed in 1563.", "The urban settlement has a population of roughly 5,500 people.", "The grave of the prominent Bosnian poet Musa Ćazim Ćatić is located here."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-tihovici-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Tihovići", hu: "Tihovići", ro: "Tihovići", en: "Tihovići" },
+    coordinates: { lat: 43.95, lng: 18.4 },
+    description: {
+      de: "Tihovići ist ein kleiner Ort in der Nähe der Hauptstadt Sarajevo. Er befindet sich in einer hügeligen Region mit Blick auf das umliegende Gebirge.",
+      hu: "Tihovići egy kis hely Szarajevó fővárosa közelében. Dombvidéki régióban található, kilátással a környező hegységekre.",
+      ro: "Tihovići este o mică așezare lângă capitala Sarajevo. Se află într-o regiune deluroasă cu vedere la munții din împrejurimi.",
+      en: "Tihovići is a small settlement near the capital Sarajevo. It is situated in a hilly region with views of the surrounding mountains.",
+    },
+    facts: {
+      de: ["Nähe Sarajevo", "Hügelige Region", "Gebirgsblick", "Ländlich"],
+      hu: ["Szarajevó közelében", "Dombvidéki régió", "Hegységi kilátás", "Vidékies"],
+      ro: ["Lângă Sarajevo", "Regiune deluroasă", "Vedere montană", "Rural"],
+      en: ["Near Sarajevo", "Hilly region", "Mountain view", "Rural"],
+    },
+    imageHint: "Tihovići landscape near Sarajevo",
+    descriptionAdvanced: {
+      de: "Tihovići ist ein kleiner Ort in der Nähe von Vogošća, nördlich von Sarajevo. Die Gemeinde profitiert von der Nähe zum städtischen Zentrum, bewahrt jedoch ihren ruhigen, dörflichen Charakter in den umliegenden Tälern.",
+      hu: "Tihovići egy kis helység Vogošća közelében, Szarajevótól északra. A közösség profitál a városközpont közelségéből, de megőrzi nyugodt, falusias jellegét a környező völgyekben.",
+      ro: "Tihovići este o localitate mică în apropiere de Vogošća, la nord de Sarajevo. Comunitatea beneficiază de proximitatea centrului urban, păstrându-și însă caracterul liniștit, sătesc, în văile din jur.",
+      en: "Tihovići is a small place near Vogošća, north of Sarajevo. The community benefits from the proximity to the urban center but maintains its quiet, village-like character within the surrounding valleys.",
+    },
+    factsAdvanced: {
+      de: ["Nähe Vogošća", "Nördlich von Sarajevo", "Ruhige Tallage", "Kleinerer Ortsteil"],
+      hu: ["Vogošća közelében", "Szarajevótól északra", "Nyugodt völgyi fekvés", "Kisebb városrész"],
+      ro: ["Lângă Vogošća", "La nord de Sarajevo", "Poziție liniștită în vale", "Localitate mică"],
+      en: ["Near Vogošća", "North of Sarajevo", "Quiet valley location", "Small settlement"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-usora-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Usora", hu: "Usora", ro: "Usora", en: "Usora" },
+    coordinates: { lat: 44.62, lng: 17.95 },
+    description: {
+      de: "Usora ist eine Gemeinde im Kanton Zenica-Doboj in der Föderation Bosnien und Herzegowina. Sie liegt in einem flachen Talbereich.",
+      hu: "Usora egy község a Zenica-Doboj kantonban, a Bosznia-Hercegovinai Föderációban. Sík völgyi területen fekszik.",
+      ro: "Usora este o comună în cantonul Zenica-Doboj din Federația Bosniei și Herțegovinei. Este situată într-o zonă de vale plană.",
+      en: "Usora is a municipality in the Zenica-Doboj Canton in the Federation of Bosnia and Herzegovina. It is situated in a flat valley area.",
+    },
+    facts: {
+      de: ["Im Kanton Zenica-Doboj", "Flaches Tal", "Föderation BiH", "Ländlich-industriell"],
+      hu: ["Zenica-Doboj kantonban", "Sík völgy", "Bosznia-Hercegovinai Föderáció", "Vidékies-ipari"],
+      ro: ["În cantonul Zenica-Doboj", "Vale plată", "Federația BiH", "Rural-industrial"],
+      en: ["In Zenica-Doboj Canton", "Flat valley", "Federation of BiH", "Rural-industrial"],
+    },
+    imageHint: "Usora valley area",
+    descriptionAdvanced: {
+      de: "Usora ist eine Gemeinde im Kanton Zenica-Doboj. Sie liegt in einem fruchtbaren Tal, das historisch als Verbindungsweg genutzt wurde und heute einen wichtigen Wirtschaftsstandort für den kleinen Mittelstand bildet.",
+      hu: "Usora község a Zenica-Doboj kantonban. Egy termékeny völgyben fekszik, amelyet történelmileg összekötő útként használtak, ma pedig fontos gazdasági bázis a kis- és középvállalkozások számára.",
+      ro: "Usora este o municipalitate în Cantonul Zenica-Doboj. Este situată într-o vale fertilă, folosită istoric ca rută de conectare, constituind astăzi un hub economic important pentru întreprinderile mici și mijlocii.",
+      en: "Usora is a municipality in the Zenica-Doboj Canton. It is situated in a fertile valley historically used as a connector route, now forming an important economic base for small to medium-sized businesses.",
+    },
+    factsAdvanced: {
+      de: ["Kanton Zenica-Doboj", "Fruchtbares Tal", "Wirtschaftsstandort", "Historischer Verkehrsweg"],
+      hu: ["Zenica-Doboj kanton", "Termékeny völgy", "Gazdasági központ", "Történelmi közlekedési útvonal"],
+      ro: ["Cantonul Zenica-Doboj", "Vale fertilă", "Hub economic", "Rută istorică de transport"],
+      en: ["Zenica-Doboj Canton", "Fertile valley", "Economic hub", "Historic transport route"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-vlasenica-naselje-cities-v2",
+    type: "city",
+    parent: "BA",
+    name: { de: "Vlasenica (Siedlung)", hu: "Vlasenica (település)", ro: "Vlasenica (așezare)", en: "Vlasenica (settlement)" },
+    coordinates: { lat: 44.18, lng: 18.93 },
+    description: {
+      de: "Vlasenica ist eine Stadt in der Republika Srpska am Fuße des Berges Javor. Sie liegt an einer wichtigen Verbindungsstraße durch Bosnien.",
+      hu: "Vlasenica egy város a boszniai Szerb Köztársaságban, a Javor-hegy lábánál. Egy fontos boszniai összekötő út mentén fekszik.",
+      ro: "Vlasenica este un oraș în Republica Srpska, la poalele muntelui Javor. Este situat pe un drum de legătură important prin Bosnia.",
+      en: "Vlasenica is a city in Republika Srpska at the foot of Mount Javor. It is located on an important connecting road through Bosnia.",
+    },
+    facts: {
+      de: ["Republika Srpska", "Fuß des Berges Javor", "Wichtige Verkehrsstraße", "Berglandschaft"],
+      hu: ["Boszniai Szerb Köztársaság", "A Javor-hegy lábánál", "Fontos közlekedési út", "Hegyvidék"],
+      ro: ["Republica Srpska", "Poalele muntelui Javor", "Drum important", "Peisaj montan"],
+      en: ["Republika Srpska", "Foot of Mount Javor", "Important road", "Mountain landscape"],
+    },
+    imageHint: "Vlasenica mountain landscape",
+    descriptionAdvanced: {
+      de: "Die Siedlung Vlasenica liegt in der ostbosnischen Gebirgsregion Birač. Als Verkehrsknotenpunkt verbindet sie das Drina-Tal mit dem tiefen Landesinneren.",
+      hu: "A Birač hegyvidéki régiójában található Vlasenica történelmileg kulcsfontosságú útvonalak találkozásánál épült a kelet-boszniai Drina-völgy közelében.",
+      ro: "Vlasenica este așezarea centrală a regiunii istorice Birač. Datorită poziției sale, a funcționat ca o intersecție vitală între valea Drina și estul Bosniei.",
+      en: "The settlement of Vlasenica is situated in the Birač region of eastern Bosnia, traditionally serving as a transit hub connecting the Drina valley.",
+    },
+    factsAdvanced: {
+      de: ["Der Stadtkern liegt auf einer Höhe von etwa 680 Metern.", "Die erste Siedlung unter dem Namen Birač wurde im 13. Jahrhundert erwähnt.", "Der heutige Name Vlasenica etablierte sich erst im 18. Jahrhundert.", "Die städtische Siedlung zählt rund 7.200 Einwohner.", "Vlasenica ist das Bildungs- und Wirtschaftszentrum der Gemeinde.", "Die umliegende Landschaft ist geprägt von dichten Nadelwäldern."],
+      hu: ["A városközpont átlagos tengerszint feletti magassága 680 méter.", "A középkorban a 13. században Birač néven hivatkoztak a környékre.", "A Vlasenica elnevezés csak a 18. század folyamán vált hivatalossá.", "A település belső lakóterületén mintegy 7200 ember él.", "A község oktatási, közigazgatási és kereskedelmi központja.", "Közvetlen környezetét kiterjedt hegyvidéki fenyvesek borítják."],
+      ro: ["Așezarea principală se află la o altitudine de 680 de metri.", "Numele medieval al zonei a fost Birač, menționat în secolul al XIII-lea.", "Denumirea modernă Vlasenica a intrat în uz abia în secolul al XVIII-lea.", "Populația urbană numără aproximativ 7.200 de rezidenți.", "Funcționează ca centru administrativ și comercial pentru comuna omonimă.", "Pădurile dese de conifere sunt specifice reliefului din împrejurimi."],
+      en: ["The town center is positioned at an altitude of approximately 680 meters.", "The surrounding area was known as Birač in 13th-century documents.", "The modern name Vlasenica became widely adopted during the 18th century.", "The urban core accommodates a population of about 7,200 residents.", "It operates as the primary economic and administrative center of the municipality.", "The local geography is characterized by extensive coniferous forests."],
+    },
   }
 ];

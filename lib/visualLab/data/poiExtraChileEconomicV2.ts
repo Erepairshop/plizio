@@ -11,9 +11,8 @@ export const poiExtraChileEconomicV2: POI[] = [
       de: "Hafen von Iquique",
       hu: "Iquique kikötője",
       ro: "Portul Iquique",
-      en: "Port of Iquique",
-image: "/poi-images/puerto-de-iquique-economic-v2.webp"
-},
+      en: "Port of Iquique"},
+    image: "/poi-images/puerto-de-iquique-economic-v2.webp",
     descriptionAdvanced: {
       ro: "Puerto de Iquique, situat în nordul extrem al Chile, funcționează ca o zonă liberă de importanță internațională și un port crucial pentru comerțul maritim din Pacific. Orașul Iquique a fost istoric dependent de industria salpetrului, dar astăzi economia sa este diversificată prin turism și logistica portuară avansată. Zona liberă (Zofri) a orașului facilitează comerțul cu țările vecine, devenind un motor economic esențial pentru regiunea Tarapacá. Infrastructura portuară permite exportul eficient al resurselor miniere extrase din regiunile deșertice din proximitate. Industrie K9 — economie globală.",
       en: "The Port of Iquique is a vital maritime gateway in northern Chile, specializing in the export of copper and fishmeal, and the import of consumer goods through its extensive Duty-Free Zone (ZOFRI). Established during the saltpeter era, the port played a pivotal role in the region's 19th-century wealth and remains a cornerstone of the regional economy. Its deep-water facilities allow for the handling of large container ships and bulk carriers. Beyond its industrial functions, the port area is adjacent to historic wooden piers and the site of the famous naval Battle of Iquique. The synergy between the port and the ZOFRI makes Iquique a key commercial hub for the entire Southern Cone, including landlocked Bolivia. Economics K8 - Trade Zones and Maritime Logistics."
@@ -58,9 +57,8 @@ image: "/poi-images/puerto-de-iquique-economic-v2.webp"
       de: "Hafen Coronel",
       hu: "Coronel kikötő",
       ro: "Portul Coronel",
-      en: "Port of Coronel",
-image: "/poi-images/puerto-coronel-economic-v2.webp"
-},
+      en: "Port of Coronel"},
+    image: "/poi-images/puerto-coronel-economic-v2.webp",
     descriptionAdvanced: {
       ro: "Puerto Coronel este un terminal portuar strategic situat în regiunea Biobío, esențial pentru gestionarea volumelor mari de mărfuri din centrul-sudul Chile. Portul joacă un rol vital în exportul produselor forestiere, agricole și miniere, fiind unul dintre cei mai eficienți operatori din țară. Situat lângă orașul Coronel, portul a fost un motor de dezvoltare pentru comunitățile locale, facilitând legătura dintre resursele naturale ale regiunii și piețele globale. Tehnologia utilizată în operarea portuară permite manipularea unei game variate de mărfuri, inclusiv cherestea și celuloză. Economie K9 — comerț maritim.",
       en: "Puerto Coronel is the largest terminal in the Biobío Region and a leader in the export of forestry products, such as cellulose, timber, and paper. Located south of Concepción, this multi-purpose port has seen massive private investment, transforming it into a high-efficiency logistics center. It features specialized docks for containers, bulk cargo, and general merchandise, supported by advanced automated systems. The port's strategic location provides excellent rail and road connectivity to Chile's southern industrial heartland. As a major employer in the area, Puerto Coronel is essential for the economic stability of the former coal-mining district, bridging the transition from old extractive industries to modern global trade. Economics K7 - Forestry Industry and Export Logistics."
@@ -104,9 +102,8 @@ image: "/poi-images/puerto-coronel-economic-v2.webp"
       de: "Hafen Lirquén",
       hu: "Lirquén kikötő",
       ro: "Portul Lirquén",
-      en: "Port of Lirquén",
-image: "/poi-images/puerto-lirquen-economic-v2.webp"
-},
+      en: "Port of Lirquén"},
+    image: "/poi-images/puerto-lirquen-economic-v2.webp",
     descriptionAdvanced: {
       ro: "Puerto Lirquén este un port cu istorie îndelungată în golful Concepción, specializat în manipularea produselor forestiere și mărfuri generale. Situat strategic în regiunea Biobío, portul este un pilon pentru economia locală și națională, oferind servicii logistice integrate pentru exportatori. Lirquén a evoluat constant, investind în echipamente moderne de încărcare pentru a răspunde cererii crescute de pe piețele internaționale. Poziția sa geografică protejată în golf oferă un avantaj operațional major pentru navele cargo care vizitează coasta chiliană. Economie K9 — logistică portuară.",
       en: "Puerto Lirquén is a prominent privately-owned port located in the Bay of Concepción, specifically in the commune of Penco. It is a major player in the shipment of forestry products and break-bulk cargo, serving as a primary outlet for the region's vast timber plantations. The port is known for its high productivity and specialized handling of delicate wood products like plywood and sawn timber. With two main piers and multiple berths, it accommodates a steady flow of international vessels. Puerto Lirquén's operation is integrated with the local community, maintaining a long-standing tradition of maritime labor that dates back to the mid-20th century. Geography K8 - Industrial Landscapes and Maritime Trade."
@@ -150,9 +147,8 @@ image: "/poi-images/puerto-lirquen-economic-v2.webp"
       de: "Hafen San Vicente",
       hu: "San Vicente kikötő",
       ro: "Portul San Vicente",
-      en: "Port of San Vicente",
-image: "/poi-images/puerto-san-vicente-economic-v2.webp"
-},
+      en: "Port of San Vicente"},
+    image: "/poi-images/puerto-san-vicente-economic-v2.webp",
     descriptionAdvanced: {
       ro: "Puerto San Vicente, situat în apropierea orașului Talcahuano, este un terminal portuar cheie în centrul Chile, jucând un rol crucial în importurile și exporturile țării. Portul este cunoscut pentru capacitatea sa de a manipula containere și produse de pescuit, fiind o infrastructură vitală pentru regiunea industrială din jurul orașului Concepción. După reconstrucții necesare în urma evenimentelor seismice, San Vicente s-a repoziționat ca un port modern, cu tehnologie de vârf pentru gestionarea fluxurilor comerciale complexe. Este un nod logistic strategic care leagă industria prelucrătoare chiliană de restul lumii. Economie K9 — logistică industrială.",
       en: "Puerto San Vicente, located in the industrial bay of Talcahuano, is one of Chile's most versatile and high-capacity maritime terminals. It handles a wide range of cargo, including containers, steel, chemicals, and bulk minerals, making it a critical node for the regional manufacturing sector. The port is strategically adjacent to the Huachipato steel plant and several petrochemical facilities, creating a dense industrial cluster. Following the 2010 earthquake and tsunami, the port underwent significant reconstruction and modernization to improve its resilience and efficiency. Today, it stands as a model of multi-modal integration, connecting sea routes with the region's robust road and rail infrastructure. Economics K8 - Industrial Clusters and Infrastructure Resilience."
@@ -196,9 +192,8 @@ image: "/poi-images/puerto-san-vicente-economic-v2.webp"
       de: "Hafen Ventanas",
       hu: "Ventanas kikötő",
       ro: "Portul Ventanas",
-      en: "Port of Ventanas",
-image: "/poi-images/puerto-ventanas-economic-v2.webp"
-},
+      en: "Port of Ventanas"},
+    image: "/poi-images/puerto-ventanas-economic-v2.webp",
     descriptionAdvanced: {
       ro: "Puerto Ventanas este un terminal privat situat în golful Quintero, fiind specializat în manipularea mărfurilor vrac, în special a cărbunelui și a concentratelor minerale. Acest port joacă un rol critic în furnizarea energiei și a materiilor prime pentru industria chiliană, fiind conectat prin rute feroviare și drumuri la marile centre de producție. Ventanas se remarcă prin eficiența sa operațională și prin standardele riguroase de mediu aplicate într-o zonă industrială sensibilă. Importanța sa strategică este dată de capacitatea de a deservi industriile energetice care susțin rețeaua electrică a țării. Industrie K9 — energie și minerit.",
       en: "Puerto Ventanas is the primary bulk cargo terminal in central Chile, located in the Valparaíso Region. It specializes in the handling of solid and liquid bulk, such as copper concentrates, coal, and sulfuric acid, serving the nearby industrial and mining sectors. The port features a unique conveyor belt system that connects directly to industrial facilities, minimizing environmental impact and maximizing safety. As a private terminal, it has focused heavily on technological innovation to streamline the unloading of raw materials for energy production and mining processes. Its strategic position makes it a vital link in the supply chain for Chile's central power plants and refineries. Geography K7 - Energy Resources and Industrial Logistics."
@@ -242,9 +237,8 @@ image: "/poi-images/puerto-ventanas-economic-v2.webp"
       de: "Hafen Angamos",
       hu: "Angamos kikötő",
       ro: "Portul Angamos",
-      en: "Port of Angamos",
-image: "/poi-images/puerto-angamos-economic-v2.webp"
-},
+      en: "Port of Angamos"},
+    image: "/poi-images/puerto-angamos-economic-v2.webp",
     description: {
       de: "Ein modernes Mehrzweck-Hafenterminal in Mejillones, das der Bergbauindustrie dient.",
       hu: "Modern többcélú kikötői terminál Mejillones városában, amely a bányászatot szolgálja ki.",
@@ -305,9 +299,8 @@ image: "/poi-images/puerto-angamos-economic-v2.webp"
       de: "Hafen Mejillones",
       hu: "Mejillones kikötő",
       ro: "Portul Mejillones",
-      en: "Port of Mejillones",
-image: "/poi-images/puerto-de-mejillones-economic-v2.webp"
-},
+      en: "Port of Mejillones"},
+    image: "/poi-images/puerto-de-mejillones-economic-v2.webp",
     description: {
       de: "Ein wichtiger industrieller Hafenkomplex in Nordchile, der den Kupferexport erleichtert.",
       hu: "Fontos észak-chilei ipari kikötőkomplexum, amely a réz exportját segíti elő.",
@@ -369,9 +362,8 @@ image: "/poi-images/puerto-de-mejillones-economic-v2.webp"
       de: "Hafen Guacolda",
       hu: "Guacolda kikötő",
       ro: "Portul Guacolda",
-      en: "Port of Guacolda",
-image: "/poi-images/puerto-guacolda-economic-v2.webp"
-},
+      en: "Port of Guacolda"},
+    image: "/poi-images/puerto-guacolda-economic-v2.webp",
     description: {
       de: "Ein spezialisierter Hafen in der Region Atacama, der hauptsächlich Kohle und Bergbaumaterialien umschlägt.",
       hu: "Speciális kikötő az Atacama régióban, amely főként szenet és bányászati anyagokat kezel.",
@@ -432,9 +424,8 @@ image: "/poi-images/puerto-guacolda-economic-v2.webp"
       de: "Hafen von Punta Arenas",
       hu: "Punta Arenas kikötője",
       ro: "Portul Punta Arenas",
-      en: "Port of Punta Arenas",
-image: "/poi-images/puerto-de-punta-arenas-economic-v2.webp"
-},
+      en: "Port of Punta Arenas"},
+    image: "/poi-images/puerto-de-punta-arenas-economic-v2.webp",
     description: {
       de: "Der Haupthafen in der Magallanes-Region, der den Antarktisverkehr und den regionalen Handel bedient.",
       hu: "A Magallanes régió fő kikötője, amely az antarktiszi forgalmat és a regionális kereskedelmet szolgálja ki.",
@@ -496,9 +487,8 @@ image: "/poi-images/puerto-de-punta-arenas-economic-v2.webp"
       de: "Hafen Chacabuco",
       hu: "Chacabuco kikötő",
       ro: "Portul Chacabuco",
-      en: "Port of Chacabuco",
-image: "/poi-images/puerto-chacabuco-economic-v2.webp"
-},
+      en: "Port of Chacabuco"},
+    image: "/poi-images/puerto-chacabuco-economic-v2.webp",
     description: {
       de: "Das wichtigste maritime Tor zur Region Aysén, über das Passagierfähren und Fracht abgewickelt werden.",
       hu: "Az Aysén régió legfontosabb tengeri kapuja, amely személyszállító kompokkal és teherárukkal foglalkozik.",
@@ -560,9 +550,8 @@ image: "/poi-images/puerto-chacabuco-economic-v2.webp"
       de: "Hafen von Coquimbo",
       hu: "Coquimbo kikötője",
       ro: "Portul Coquimbo",
-      en: "Port of Coquimbo",
-image: "/poi-images/puerto-de-coquimbo-economic-v2.webp"
-},
+      en: "Port of Coquimbo"},
+    image: "/poi-images/puerto-de-coquimbo-economic-v2.webp",
     description: {
       de: "Ein bedeutender Hafen für Obst- und Bergbauexporte in der Region Coquimbo.",
       hu: "Jelentős kikötő a gyümölcs- és bányászati export számára a Coquimbo régióban.",
@@ -624,9 +613,8 @@ image: "/poi-images/puerto-de-coquimbo-economic-v2.webp"
       de: "Hafen von Arica",
       hu: "Arica kikötője",
       ro: "Portul Arica",
-      en: "Port of Arica",
-image: "/poi-images/puerto-de-arica-economic-v2.webp"
-},
+      en: "Port of Arica"},
+    image: "/poi-images/puerto-de-arica-economic-v2.webp",
     description: {
       de: "Ein lebenswichtiger Hafen im äußersten Norden, der einen großen Teil von Boliviens internationalem Handel abwickelt.",
       hu: "Létfontosságú kikötő a legészakibb régióban, amely Bolívia nemzetközi kereskedelmének nagy részét bonyolítja.",
@@ -688,9 +676,8 @@ image: "/poi-images/puerto-de-arica-economic-v2.webp"
       de: "Mine Chuquicamata",
       hu: "Chuquicamata bánya",
       ro: "Mina Chuquicamata",
-      en: "Chuquicamata Mine",
-image: "/poi-images/mina-chuquicamata-economic-v2.webp"
-},
+      en: "Chuquicamata Mine"},
+    image: "/poi-images/mina-chuquicamata-economic-v2.webp",
     description: {
       de: "Eine der größten Kupferminen der Welt im Tagebau, betrieben von Codelco.",
       hu: "A világ egyik legnagyobb külszíni rézbányája, amelyet a Codelco üzemeltet.",
@@ -751,9 +738,8 @@ image: "/poi-images/mina-chuquicamata-economic-v2.webp"
       de: "Mine Escondida",
       hu: "Escondida bánya",
       ro: "Mina Escondida",
-      en: "Escondida Mine",
-image: "/poi-images/mina-escondida-economic-v2.webp"
-},
+      en: "Escondida Mine"},
+    image: "/poi-images/mina-escondida-economic-v2.webp",
     description: {
       de: "Die Kupfermine mit der höchsten Produktion der Welt, gelegen in der Atacama-Wüste.",
       hu: "A világ legnagyobb termelésű rézbányája, amely az Atacama-sivatagban található.",
@@ -814,9 +800,8 @@ image: "/poi-images/mina-escondida-economic-v2.webp"
       de: "Mine El Teniente",
       hu: "El Teniente bánya",
       ro: "Mina El Teniente",
-      en: "El Teniente Mine",
-image: "/poi-images/mina-el-teniente-economic-v2.webp"
-},
+      en: "El Teniente Mine"},
+    image: "/poi-images/mina-el-teniente-economic-v2.webp",
     description: {
       de: "Die größte unterirdische Kupfermine der Welt, gelegen in den Anden.",
       hu: "A világ legnagyobb földalatti rézbányája az Andok hegységben.",
@@ -872,9 +857,8 @@ image: "/poi-images/mina-el-teniente-economic-v2.webp"
       de: "Mine Los Pelambres",
       hu: "Los Pelambres bánya",
       ro: "Mina Los Pelambres",
-      en: "Los Pelambres Mine",
-image: "/poi-images/mina-los-pelambres-economic-v2.webp"
-},
+      en: "Los Pelambres Mine"},
+    image: "/poi-images/mina-los-pelambres-economic-v2.webp",
     description: {
       de: "Eine große Kupfermine in der Region Coquimbo, die für ihre massiven Reserven bekannt ist.",
       hu: "Jelentős rézbánya a Coquimbo régióban, amely hatalmas tartalékairól ismert.",
@@ -940,9 +924,8 @@ image: "/poi-images/mina-los-pelambres-economic-v2.webp"
       de: "Mine Collahuasi",
       hu: "Collahuasi bánya",
       ro: "Mina Collahuasi",
-      en: "Collahuasi Mine",
-image: "/poi-images/mina-collahuasi-economic-v2.webp"
-},
+      en: "Collahuasi Mine"},
+    image: "/poi-images/mina-collahuasi-economic-v2.webp",
     description: {
       de: "Eine große Kupfermine in großer Höhe in der Region Tarapacá.",
       hu: "Egy nagy magasságban fekvő jelentős rézbánya a Tarapacá régióban.",
@@ -1008,9 +991,8 @@ image: "/poi-images/mina-collahuasi-economic-v2.webp"
       de: "Mine Radomiro Tomic",
       hu: "Radomiro Tomic bánya",
       ro: "Mina Radomiro Tomic",
-      en: "Radomiro Tomic Mine",
-image: "/poi-images/mina-radomiro-tomic-economic-v2.webp"
-},
+      en: "Radomiro Tomic Mine"},
+    image: "/poi-images/mina-radomiro-tomic-economic-v2.webp",
     description: {
       de: "Eine bedeutende Kupfermine im Tagebau in der Nähe von Chuquicamata.",
       hu: "Jelentős külszíni rézbánya Chuquicamata közelében.",
@@ -1076,9 +1058,8 @@ image: "/poi-images/mina-radomiro-tomic-economic-v2.webp"
       de: "Raffinerie Aconcagua",
       hu: "Aconcagua finomító",
       ro: "Rafinăria Aconcagua",
-      en: "Aconcagua Refinery",
-image: "/poi-images/refineria-aconcagua-economic-v2.webp"
-},
+      en: "Aconcagua Refinery"},
+    image: "/poi-images/refineria-aconcagua-economic-v2.webp",
     description: {
       de: "Eine große Ölraffinerie von ENAP, die Kraftstoff für die Zentralregion Chiles liefert.",
       hu: "Az ENAP jelentős olajfinomítója, amely Chile középső régióját látja el üzemanyaggal.",
@@ -1144,9 +1125,8 @@ image: "/poi-images/refineria-aconcagua-economic-v2.webp"
       de: "Raffinerie Bío Bío",
       hu: "Bío Bío finomító",
       ro: "Rafinăria Bío Bío",
-      en: "Bío Bío Refinery",
-image: "/poi-images/refineria-bio-bio-economic-v2.webp"
-},
+      en: "Bío Bío Refinery"},
+    image: "/poi-images/refineria-bio-bio-economic-v2.webp",
     description: {
       de: "Eine der wichtigsten Erdölraffinerien des Landes in Hualpén.",
       hu: "Az ország egyik legfontosabb kőolajfinomítója, amely Hualpén városában található.",
@@ -1212,9 +1192,8 @@ image: "/poi-images/refineria-bio-bio-economic-v2.webp"
       de: "Zellstofffabrik Arauco",
       hu: "Arauco cellulózgyár",
       ro: "Fabrica de celuloză Arauco",
-      en: "Arauco Cellulose Plant",
-image: "/poi-images/celulosa-arauco-economic-v2.webp"
-},
+      en: "Arauco Cellulose Plant"},
+    image: "/poi-images/celulosa-arauco-economic-v2.webp",
     description: {
       de: "Eine große Produktionsanlage für Holzzellstoff, die stark zu Chiles Forstwirtschaftsexporten beiträgt.",
       hu: "Jelentős fapéptermelő létesítmény, amely nagyban hozzájárul Chile erdészeti exportjához.",
@@ -1281,9 +1260,8 @@ image: "/poi-images/celulosa-arauco-economic-v2.webp"
       de: "Zellstofffabrik Valdivia",
       hu: "Valdivia cellulózgyár",
       ro: "Fabrica de celuloză Valdivia",
-      en: "Valdivia Cellulose Plant",
-image: "/poi-images/celulosa-valdivia-economic-v2.webp"
-},
+      en: "Valdivia Cellulose Plant"},
+    image: "/poi-images/celulosa-valdivia-economic-v2.webp",
     description: {
       de: "Eine wichtige Industrieanlage zur Zelluloseproduktion in der Nähe von San José de la Mariquina.",
       hu: "Fontos cellulóztermelő ipari létesítmény San José de la Mariquina közelében.",
@@ -1350,9 +1328,8 @@ image: "/poi-images/celulosa-valdivia-economic-v2.webp"
       de: "Komplex Altonorte",
       hu: "Altonorte komplexum",
       ro: "Complexul Altonorte",
-      en: "Altonorte Complex",
-image: "/poi-images/complejo-altonorte-economic-v2.webp"
-},
+      en: "Altonorte Complex"},
+    image: "/poi-images/complejo-altonorte-economic-v2.webp",
     description: {
       de: "Eine große Kupferschmelze in der Nähe von Antofagasta.",
       hu: "Egy jelentős rézkohó Antofagasta közelében.",
@@ -1418,9 +1395,8 @@ image: "/poi-images/complejo-altonorte-economic-v2.webp"
       de: "Schmelzhütte Paipote",
       hu: "Paipote kohó",
       ro: "Topitoria Paipote",
-      en: "Paipote Smelter",
-image: "/poi-images/fundicion-paipote-economic-v2.webp"
-},
+      en: "Paipote Smelter"},
+    image: "/poi-images/fundicion-paipote-economic-v2.webp",
     description: {
       de: "Die Schmelzhütte Hernán Videla Lira verarbeitet Kupfererze kleiner und mittlerer Bergbaubetriebe.",
       hu: "A Hernán Videla Lira kohó, amely a kis- és közepes bányák rézérceit dolgozza fel.",
@@ -1486,9 +1462,8 @@ image: "/poi-images/fundicion-paipote-economic-v2.webp"
       de: "Lithiumwerk Salar de Atacama",
       hu: "Salar de Atacama lítiumüzem",
       ro: "Uzina de litiu Salar de Atacama",
-      en: "Salar de Atacama Lithium Plant",
-image: "/poi-images/planta-litio-salar-atacama-economic-v2.webp"
-},
+      en: "Salar de Atacama Lithium Plant"},
+    image: "/poi-images/planta-litio-salar-atacama-economic-v2.webp",
     description: {
       de: "Eine massive Anlage zur Lithiumgewinnung in der Atacama-Salzwüste.",
       hu: "Egy hatalmas lítium-kitermelő létesítmény az Atacama sós sivatagban.",
@@ -1554,9 +1529,8 @@ image: "/poi-images/planta-litio-salar-atacama-economic-v2.webp"
       de: "Zellstofffabrik Laja",
       hu: "Laja cellulózgyár",
       ro: "Fabrica de celuloză Laja",
-      en: "Laja Cellulose Plant",
-image: "/poi-images/celulosa-laja-economic-v2.webp"
-},
+      en: "Laja Cellulose Plant"},
+    image: "/poi-images/celulosa-laja-economic-v2.webp",
     description: {
       de: "Die erste in Chile gegründete Zellstofffabrik, die sich in der Stadt Laja befindet.",
       hu: "Az elsőként alapított chilei papíripari gyár, amely Laja városában található.",
@@ -1622,9 +1596,8 @@ image: "/poi-images/celulosa-laja-economic-v2.webp"
       de: "Industriekomplex Quintero-Puchuncaví",
       hu: "Quintero-Puchuncaví ipari komplexum",
       ro: "Complexul industrial Quintero-Puchuncaví",
-      en: "Quintero-Puchuncaví Industrial Complex",
-image: "/poi-images/complejo-quintero-puchuncavi-economic-v2.webp"
-},
+      en: "Quintero-Puchuncaví Industrial Complex"},
+    image: "/poi-images/complejo-quintero-puchuncavi-economic-v2.webp",
     description: {
       de: "Eine stark industrialisierte Zone mit Energie- und Kupferschmelzanlagen.",
       hu: "Erősen iparosodott övezet, amely energia- és rézkohászati létesítményeknek ad otthont.",
@@ -1690,9 +1663,8 @@ image: "/poi-images/complejo-quintero-puchuncavi-economic-v2.webp"
       de: "Stahlwerk Huachipato",
       hu: "Huachipato acélmű",
       ro: "Oțelăria Huachipato",
-      en: "Huachipato Steel Plant",
-image: "/poi-images/siderurgica-huachipato-economic-v2.webp"
-},
+      en: "Huachipato Steel Plant"},
+    image: "/poi-images/siderurgica-huachipato-economic-v2.webp",
     description: {
       de: "Chiles wichtigste integrierte Anlage zur Stahlherstellung in Talcahuano.",
       hu: "Chile legfontosabb integrált acélgyártó létesítménye Talcahuano városában.",
@@ -1759,9 +1731,8 @@ image: "/poi-images/siderurgica-huachipato-economic-v2.webp"
       de: "Werft ASMAR Talcahuano",
       hu: "ASMAR Talcahuano hajógyár",
       ro: "Șantierul naval ASMAR Talcahuano",
-      en: "ASMAR Talcahuano Shipyard",
-image: "/poi-images/asmar-talcahuano-economic-v2.webp"
-},
+      en: "ASMAR Talcahuano Shipyard"},
+    image: "/poi-images/asmar-talcahuano-economic-v2.webp",
     description: {
       de: "Die wichtigste Schiffsbau- und Reparaturwerkstatt der chilenischen Marine.",
       hu: "A chilei haditengerészet legfőbb hajóépítő és -javító bázisa.",
@@ -1827,9 +1798,8 @@ image: "/poi-images/asmar-talcahuano-economic-v2.webp"
       de: "Mine Spence",
       hu: "Spence bánya",
       ro: "Mina Spence",
-      en: "Spence Mine",
-image: "/poi-images/mina-spence-economic-v2.webp"
-},
+      en: "Spence Mine"},
+    image: "/poi-images/mina-spence-economic-v2.webp",
     description: {
       de: "Eine bedeutende Kupfermine im Tagebau, die von BHP in der Region Antofagasta betrieben wird.",
       hu: "Jelentős külszíni rézbánya, amelyet a BHP üzemeltet az Antofagasta régióban.",

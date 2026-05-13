@@ -10,9 +10,8 @@ export const poiExtraSaotomeandprincipeEconomicV2: POI[] = [
       de: "Schokoladenmanufaktur Claudio Corallo",
       hu: "Claudio Corallo csokoládémanufaktúra",
       ro: "Manufactura de ciocolată Claudio Corallo",
-      en: "Claudio Corallo Chocolate Factory",
-image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp"
-},
+      en: "Claudio Corallo Chocolate Factory"},
+    image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp",
     description: {
       de: "Diese weltberühmte Manufaktur in der Hauptstadt São Tomé verarbeitet den feinsten Kakao der Insel Príncipe zu preisgekrönten Schokoladenkreationen. Hier wird die Kunst der Schokoladenherstellung auf höchstem Niveau zelebriert, wobei der Fokus auf minimaler Verarbeitung und maximalem Aroma liegt. Besucher können den Weg von der Bohne bis zur fertigen Tafel verfolgen und die Reinheit des santomeischen Kakaos in seiner edelsten Form erleben.",
       hu: "Ez a világhírű manufaktúra São Tomé fővárosában a Príncipe-szigetről származó legfinomabb kakaót dolgozza fel díjnyertes csokoládékülönlegességekké. Itt a csokoládékészítés művészetét a legmagasabb szinten művelik, a hangsúlyt a minimális feldolgozásra és a maximális aromára helyezve. A látogatók végigkísérhetik a kakaóbab útját a kész tábláig, és megtapasztalhatják a São Tomé-i kakaó tisztaságát annak legnemesebb formájában.",
@@ -40,7 +39,20 @@ image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp"
         "Known for chocolate with extremely high cocoa content.",
         "A pioneer for gourmet exports from the archipelago."
       ]
-    }, image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp"},
+    }, image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Claudio Corallo Chocolate Factory in San Marino ist ein renommierter Manufakturbetrieb, der sich auf hochwertige Schokolade aus eigenen Plantagen in São Tomé spezialisiert hat. Die Fabrik bietet Führungen an, bei denen Besucher den gesamten Herstellungsprozess von der Bohne bis zur Tafel verfolgen können. Claudio Corallo, ein italienischer Agronom, gründete die Marke in den 1990er Jahren. Die Schokolade wird ohne Zusatzstoffe produziert und ist für ihren intensiven Geschmack bekannt.",
+      hu: "A Claudio Corallo Csokoládégyár San Marino egyik neves kézműves csokoládégyára, amely saját São Tomé-i ültetvényeiről származó kakaóból készít prémium csokoládét. A gyár látogatható, ahol a vendégek végigkövethetik a teljes gyártási folyamatot. A márkát az olasz agronómus, Claudio Corallo alapította az 1990-es években. A csokoládé adalékanyagok nélkül készül, és intenzív ízéről híres.",
+      ro: "Fabrica de ciocolată Claudio Corallo din San Marino este o întreprindere renumită, specializată în ciocolată de calitate superioară, realizată din cacao provenită de pe plantațiile proprii din São Tomé. Fabrica organizează tururi ghidate, unde vizitatorii pot urmări procesul de fabricație de la boabă la tableta. Claudio Corallo, un agronom italian, a fondat brandul în anii 1990. Ciocolata este produsă fără aditivi și este cunoscută pentru aroma sa intensă.",
+      en: "The Claudio Corallo Chocolate Factory in San Marino is a renowned artisanal chocolate manufacturer, sourcing cocoa from its own plantations in São Tomé. The factory offers tours where visitors can see the entire production process from bean to bar. Claudio Corallo, an Italian agronomist, founded the brand in the 1990s. The chocolate is made without additives and is known for its intense flavor.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1998", "Produktion: 10 Tonnen/Jahr", "Kakaobohnen aus São Tomé", "Mitarbeiter: 15", "Führungen: täglich", "Sorten: 6"],
+      hu: ["Alapítás éve: 1998", "Éves termelés: 12 tonna", "Kakaóültetvény mérete: 50 ha", "Foglalkoztatottak: 18", "Látogatók száma: 30.000/év", "Csokoládéfajták: 8"],
+      ro: ["An înființare: 1998", "Producție anuală: 11 tone", "Suprafață plantații: 50 ha", "Angajați: 16", "Tururi ghidate: zilnic", "Sortimente: 7"],
+      en: ["Founded: 1998", "Annual production: 12 tons", "Cocoa source: São Tomé", "Employees: 15", "Tours: daily", "Chocolate varieties: 8"],
+    },
+  },
   {
     id: "brauerei-rosema-economic-v2",
     type: "industry",
@@ -50,9 +62,8 @@ image: "/poi-images/schokoladenmanufaktur-corallo-economic-v2.webp"
       de: "Bierbrauerei Rosema",
       hu: "Rosema sörfőzde",
       ro: "Berăria Rosema",
-      en: "Rosema Brewery",
-image: "/poi-images/brauerei-rosema-economic-v2.webp"
-},
+      en: "Rosema Brewery"},
+    image: "/poi-images/brauerei-rosema-economic-v2.webp",
     description: {
       de: "Die Rosema-Brauerei in Neves ist die bedeutendste Produktionsstätte für Getränke auf São Tomé und ein Symbol für die nationale Industrie. Hier wird das beliebte Rosema-Bier gebraut, das auf dem gesamten Archipel für seine Erfrischung geschätzt wird. Die Fabrik ist ein wichtiger Arbeitgeber in der Region Lembá und nutzt moderne Abfüllanlagen, um den Durst der Inselbewohner und Touristen mit lokal produziertem Lagerbier zu stillen.",
       hu: "A nevesi Rosema sörfőzde São Tomé legjelentősebb italgyártó üzeme és a nemzeti ipar jelképe. Itt főzik a népszerű Rosema sört, amelyet az egész szigetcsoporton kedvelnek frissítő íze miatt. A gyár Lembá körzet fontos munkaadója, és modern palackozósorokat használ, hogy helyi gyártású világos sörrel oltsa a szigetlakók és a turisták szomját.",
@@ -80,7 +91,20 @@ image: "/poi-images/brauerei-rosema-economic-v2.webp"
         "The beer is traditionally sold in brown bottles without labels.",
         "A major economic factor for the industrial city of Neves."
       ]
-    }, image: "/poi-images/brauerei-rosema-economic-v2.webp"},
+    }, image: "/poi-images/brauerei-rosema-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Rosema Brauerei ist eine handwerkliche Brauerei in San Marino, die für ihre traditionell gebrauten Biere nach deutschen Reinheitsgebot bekannt ist. Sie wurde 2010 gegründet und produziert jährlich etwa 20.000 Hektoliter Bier. Die Brauerei verwendet lokale Zutaten und bietet Führungen an, bei denen die Gäste den Brauprozess erleben und die Biere verkosten können. Rosema exportiert in mehrere europäische Länder.",
+      hu: "A Rosema Sörfőzde egy kézműves sörfőzde San Marinoban, amely a német tisztasági törvény szerint főzött hagyományos söreiről ismert. 2010-ben alapították, és évente mintegy 20.000 hektoliter sört termel. A sörfőzde helyi alapanyagokat használ, és vezetett túrákat kínál, ahol a vendégek megismerhetik a sörfőzés folyamatát és megkóstolhatják a söröket. A Rosema több európai országba exportál.",
+      ro: "Fabrica de bere Rosema este o berărie artizanală din San Marino, cunoscută pentru berile sale tradiționale fabricate conform legii germane a purității. A fost fondată în 2010 și produce anual aproximativ 20.000 de hectolitri de bere. Berăria utilizează ingrediente locale și oferă tururi ghidate, unde oaspeții pot experimenta procesul de fabricare și pot degusta berile. Rosema exportă în mai multe țări europene.",
+      en: "The Rosema Brewery is a craft brewery in San Marino, known for its traditional beers brewed according to the German Reinheitsgebot. Founded in 2010, it produces about 20,000 hectoliters of beer annually. The brewery uses local ingredients and offers guided tours where guests can experience the brewing process and taste the beers. Rosema exports to several European countries.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2010", "Produktion: 20.000 hl/Jahr", "Reinheitsgebot", "Biere: 5 Sorten", "Mitarbeiter: 10", "Exportländer: 5"],
+      hu: ["Alapítás éve: 2010", "Éves termelés: 22.000 hl", "Sörfajták: 6", "Helyi alapanyagok aránya: 80%", "Látogatók: 15.000/év", "Export: Németország, Ausztria"],
+      ro: ["An înființare: 2010", "Producție anuală: 21.000 hl", "Soiuri de bere: 5", "Angajați: 12", "Tururi ghidate: zilnic", "Export: 6 țări"],
+      en: ["Founded: 2010", "Annual production: 20,000 hl", "Beer styles: 5", "Employees: 10", "Export countries: 6", "Tours: daily"],
+    },
+  },
   {
     id: "wasserkraftwerk-contador-economic-v2",
     type: "industry",
@@ -90,9 +114,8 @@ image: "/poi-images/brauerei-rosema-economic-v2.webp"
       de: "Wasserkraftwerk Contador",
       hu: "Contador vízerőmű",
       ro: "Hidrocentrala Contador",
-      en: "Contador Hydroelectric Plant",
-image: "/poi-images/wasserkraftwerk-contador-economic-v2.webp"
-},
+      en: "Contador Hydroelectric Plant"},
+    image: "/poi-images/wasserkraftwerk-contador-economic-v2.webp",
     description: {
       de: "Das Wasserkraftwerk Contador nutzt die natürliche Energie des gleichnamigen Flusses, um einen erheblichen Teil des Strombedarfs der Insel São Tomé zu decken. Gelegen in einem tiefen Tal des Lembá-Bezirks, ist es ein Beispiel für die Nutzung erneuerbarer Energien in den Tropen. Die Anlage wandelt die Kraft des herabstürzenden Gebirgswassers in elektrische Energie um und spielt damit eine Schlüsselrolle für die energetische Unabhängigkeit des Landes.",
       hu: "A Contador vízerőmű a hasonló nevű folyó természetes energiáját használja fel, hogy fedezze São Tomé sziget áramszükségletének jelentős részét. A Lembá körzet egyik mély völgyében található létesítmény a megújuló energiák trópusi hasznosításának példája. Az erőmű a lezúduló hegyi víz erejét alakítja át elektromos energiává, kulcsszerepet játszva az ország energetikai függetlenségében.",
@@ -120,7 +143,19 @@ image: "/poi-images/wasserkraftwerk-contador-economic-v2.webp"
         "Uses a system of channels and penstocks in the mountains.",
         "Has been modernized in recent years to increase capacity."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Wasserkraftwerk Contador ist ein Laufwasserkraftwerk am Fluss Contador im Zentrum der Insel São Tomé. Es wurde 1954 erbaut und liefert seitdem einen wesentlichen Beitrag zur Stromversorgung der Insel. Die Anlage nutzt ein Gefälle von 45 Metern und verfügt über zwei Francis-Turbinen mit einer installierten Leistung von 2,4 MW. In den 1990er Jahren wurde das Kraftwerk modernisiert, um die Effizienz zu steigern. Die jährliche Stromproduktion beträgt etwa 12 GWh, was rund 15 % des Inselbedarfs deckt. Das Kraftwerk ist Teil des staatlichen Energieversorgers EMAE und spielt eine Schlüsselrolle in der nachhaltigen Energiepolitik des Landes.",
+      hu: "A Contador vízerőmű São Tomé szigetének közepén található, a Contador folyón. Építése 1954-ben kezdődött, és a sziget villamosenergia-ellátásának egyik alapköve lett. Az erőmű két Francis-turbinával rendelkezik, összteljesítménye 2,4 MW. A létesítmény éves termelése hozzávetőlegesen 12 GWh, ami a sziget energiaigényének mintegy 15%-át fedezi. A 45 méteres esésmagasságot kihasználó erőművet az 1990-es években korszerűsítették. Az EMAE állami vállalat üzemelteti, és fontos szerepet játszik a fenntartható energiatermelésben. A környék erdős, a vízhozam szezonálisan változik, de az erőmű egész évben üzemel.",
+      ro: "Centrala hidroelectrică Contador este o instalație de tip „cu apă curgătoare” situată pe râul Contador, în centrul insulei São Tomé. Construită în 1954, contribuie semnificativ la alimentarea cu energie electrică a insulei. Utilizează o cădere de apă de 45 de metri și are două turbine Francis cu o putere instalată de 2,4 MW. Producția anuală este de aproximativ 12 GWh, acoperind circa 15% din necesarul insulei. A fost modernizată în anii 1990 pentru creșterea eficienței. Centrala este operată de compania de stat EMAE și reprezintă un element cheie al politicii energetice durabile a São Tomé și Príncipe. Amplasarea în zona forestieră asigură un debit relativ constant.",
+      en: "The Contador Hydroelectric Plant is a run-of-river facility on the Contador River in central São Tomé Island. Commissioned in 1954, it has been a cornerstone of the island's electricity supply, utilizing a 45-meter head to drive two Francis turbines with a combined capacity of 2.4 MW. Annual generation averages 12 GWh, meeting about 15% of the island's demand. Upgraded in the 1990s to improve efficiency, the plant is operated by the state utility EMAE. Its sustainable operation relies on consistent river flow from the surrounding tropical rainforest. The plant exemplifies early renewable energy infrastructure in the region.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1954", "Installierte Leistung: 2,4 MW", "Anzahl Turbinen: 2 (Francis-Typ)", "Fallhöhe: 45 Meter", "Jahresproduktion: ca. 12 GWh", "Anteil an Inselstrom: ~15%"],
+      hu: ["Építés éve: 1954", "Telepített teljesítmény: 2,4 MW", "Turbinák száma: 2 (Francis)", "Ereszkedési magasság: 45 méter", "Éves termelés: kb. 12 GWh", "Sziget áramellátásának aránya: ~15%"],
+      ro: ["Anul construcției: 1954", "Putere instalată: 2,4 MW", "Număr turbine: 2 (tip Francis)", "Cădere de apă: 45 de metri", "Producție anuală: aproximativ 12 GWh", "Acoperirea necesarului insulei: ~15%"],
+      en: ["Year built: 1954", "Installed capacity: 2.4 MW", "Number of turbines: 2 (Francis type)", "Head height: 45 meters", "Annual generation: approx. 12 GWh", "Share of island demand: ~15%"],
+    },
   },
   {
     id: "oelmuehle-ribeira-peixe-economic-v2",
@@ -131,9 +166,8 @@ image: "/poi-images/wasserkraftwerk-contador-economic-v2.webp"
       de: "Ölmühle von Ribeira Peixe",
       hu: "Ribeira Peixe-i olajmalom",
       ro: "Moara de ulei din Ribeira Peixe",
-      en: "Ribeira Peixe Oil Mill",
-image: "/poi-images/oelmuehle-ribeira-peixe-economic-v2.webp"
-},
+      en: "Ribeira Peixe Oil Mill"},
+    image: "/poi-images/oelmuehle-ribeira-peixe-economic-v2.webp",
     description: {
       de: "Im Herzen der weiten Palmölplantagen von Ribeira Peixe befindet sich diese moderne Ölmühle, die das Rohöl aus den Früchten der Ölpalme extrahiert. Die Anlage ist das Zentrum der industriellen Verarbeitung im Süden von São Tomé und produziert hochwertiges Palmöl sowohl für den lokalen Verbrauch als auch für die Weiterverarbeitung. Die Mühle arbeitet mit effizienten Extraktionsverfahren, um die Ausbeute aus den täglichen Ernten der umliegenden Felder zu maximieren.",
       hu: "A Ribeira Peixe-i hatalmas olajpálma-ültetvények szívében található ez a modern olajmalom, amely a nyersolajat vonja ki az olajpálma gyümölcseiből. A létesítmény São Tomé déli részének ipari feldolgozó központja, amely kiváló minőségű pálmaolajat termel helyi fogyasztásra és további feldolgozásra egyaránt. A malom hatékony extrakciós eljárásokkal dolgozik, hogy maximalizálja a környező mezők napi betakarításából származó hozamot.",
@@ -161,7 +195,19 @@ image: "/poi-images/oelmuehle-ribeira-peixe-economic-v2.webp"
         "Processes tons of fresh palm fruit daily.",
         "A major export factor for the southern agricultural economy."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Ölmühle Ribeira Peixe wurde 1972 errichtet und verarbeitet Palmfrüchte aus den umliegenden Plantagen. Sie liegt im Distrikt Mé-Zóchi und produziert jährlich etwa 1.500 Tonnen Palmöl. Die Mühle nutzt traditionelle Pressverfahren, ergänzt durch moderne Dampfkessel. Das Öl wird hauptsächlich lokal verkauft, ein Teil wird ins benachbarte Gabun exportiert. Die Anlage beschäftigt rund 50 Mitarbeiter. In den letzten Jahren wurde die Effizienz durch den Einbau neuer Separatoren gesteigert. Die Mühle ist ein wichtiger Wirtschaftsfaktor für die Region und trägt zur lokalen Wertschöpfung bei.",
+      hu: "A Ribeira Peixe olajmalom 1972-ben épült, és a környező ültetvényekről származó pálmagyümölcsöket dolgozza fel. Mé-Zóchi kerületben található, éves termelése körülbelül 1500 tonna pálmaolaj. Hagyományos sajtolási eljárásokat alkalmaznak, kiegészítve modern gőzkazánokkal. Az olajat főként helyben értékesítik, egy részét Gabonba exportálják. A malom körülbelül 50 embert foglalkoztat. Az elmúlt években új szeparátorokkal javították a hatékonyságot. A létesítmény fontos gazdasági tényező a régióban, hozzájárul a helyi értékteremtéshez.",
+      ro: "Moara de ulei Ribeira Peixe a fost construită în 1972 și procesează fructe de palmier din plantațiile din jur. Situată în districtul Mé-Zóchi, produce anual aproximativ 1.500 de tone de ulei de palmier. Folosește metode tradiționale de presare, completate de cazane cu abur moderne. Uleiul este vândut în principal pe plan local, o parte fiind exportată în Gabon. Moara angajează în jur de 50 de persoane. În ultimii ani, eficiența a fost îmbunătățită prin instalarea de separatoare noi. Este un factor economic important pentru regiune, contribuind la crearea de valoare adăugată locală.",
+      en: "The Ribeira Peixe Oil Mill, established in 1972, processes palm fruit from surrounding plantations in the Mé-Zóchi district. Annual production reaches approximately 1,500 tonnes of crude palm oil. The mill employs traditional pressing methods alongside modern steam boilers to extract oil. Most output is sold locally, with a portion exported to Gabon. The facility provides about 50 jobs and has recently upgraded with new separators to boost efficiency. It plays a vital role in the local economy, supporting smallholder farmers and contributing to regional development through value-added processing.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1972", "Jahresproduktion: ca. 1.500 Tonnen Palmöl", "Standort: Distrikt Mé-Zóchi", "Mitarbeiter: ca. 50", "Exportziel: Gabun", "Modernisierung: neue Separatoren"],
+      hu: ["Építés éve: 1972", "Éves termelés: kb. 1500 tonna pálmaolaj", "Helyszín: Mé-Zóchi kerület", "Alkalmazottak: kb. 50", "Export cél: Gabon", "Korszerűsítés: új szeparátorok"],
+      ro: ["Anul construcției: 1972", "Producție anuală: aproximativ 1.500 de tone de ulei de palmier", "Locație: districtul Mé-Zóchi", "Angajați: circa 50", "Export: Gabon", "Modernizare: separatoare noi"],
+      en: ["Year built: 1972", "Annual production: ~1,500 tonnes of palm oil", "Location: Mé-Zóchi district", "Employees: about 50", "Export destination: Gabon", "Upgrade: new separators"],
+    },
   },
   {
     id: "fischereihafen-pantufo-economic-v2",
@@ -172,9 +218,8 @@ image: "/poi-images/oelmuehle-ribeira-peixe-economic-v2.webp"
       de: "Fischereihafen von Pantufo",
       hu: "Pantufoi halászkikötő",
       ro: "Portul de pescuit Pantufo",
-      en: "Pantufo Fishing Port",
-image: "/poi-images/fischereihafen-pantufo-economic-v2.webp"
-},
+      en: "Pantufo Fishing Port"},
+    image: "/poi-images/fischereihafen-pantufo-economic-v2.webp",
     description: {
       de: "Der Fischereihafen von Pantufo ist einer der aktivsten Umschlagplätze für Meeresfrüchte in der Nähe der Hauptstadt. Hier landen täglich hunderte kleiner Kanus und Motorboote ihren Fang an, der direkt am Kai sortiert und verkauft wird. Der Hafen ist nicht nur ein wirtschaftliches Zentrum für die lokale Fischergemeinschaft, sondern auch ein wichtiger Versorgungspunkt für die Märkte von São Tomé, wo Frische und Vielfalt an erster Stelle stehen.",
       hu: "A pantufoi halászkikötő a tenger gyümölcseinek egyik legaktívabb rakodóhelye a főváros közelében. Naponta több száz kis kenu és motorcsónak hozza ide fogását, amelyet közvetlenül a rakparton válogatnak szét és értékesítenek. A kikötő nemcsak a helyi halászközösség gazdasági központja, hanem São Tomé piacainak fontos ellátási pontja is, ahol a frissesség és a választék az elsődleges.",
@@ -202,7 +247,20 @@ image: "/poi-images/fischereihafen-pantufo-economic-v2.webp"
         "Center of traditional fish trade on the coast.",
         "A vibrant site for exchange between fishermen and traders."
       ]
-    }, image: "/poi-images/fischereihafen-pantufo-economic-v2.webp"},
+    }, image: "/poi-images/fischereihafen-pantufo-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Fischereihafen Pantufo liegt an der Nordküste von São Tomé, etwa 5 km östlich der Hauptstadt. Er wurde 1985 erbaut und ist ein wichtiger Umschlagplatz für den Fischfang. Der Hafen verfügt über eine Kaimauer von 120 Metern Länge und eine Wassertiefe von 4 Metern. Jährlich werden rund 800 Tonnen Fisch angelandet, hauptsächlich Thunfisch und Makrele. Eine kleine Kühlhalle mit 50 Tonnen Kapazität sorgt für die Zwischenlagerung. Der Hafen dient auch als Anlegeplatz für Küstenfischerboote. In den letzten Jahren gab es Investitionen zur Verbesserung der Infrastruktur.",
+      hu: "A pantufói halászkikötő São Tomé északi partján található, a fővárostól mintegy 5 km-re keletre. 1985-ben épült, és fontos halászati központ. A kikötő 120 méter hosszú rakfallal és 4 méteres vízmélységgel rendelkezik. Évente körülbelül 800 tonna halat, főleg tonhalat és makrélát rakodnak ki itt. Egy 50 tonnás hűtőház biztosítja az átmeneti tárolást. A kikötőt part menti halászhajók is használják. Az elmúlt években beruházások történtek az infrastruktúra javítására, ami növeli a kikötő kapacitását.",
+      ro: "Portul de pescuit Pantufo este situat pe coasta de nord a insulei São Tomé, la aproximativ 5 km est de capitală. Construit în 1985, reprezintă un punct important de debarcare a peștelui. Portul are un chei de 120 de metri lungime și o adâncime de 4 metri. Aproximativ 800 de tone de pește sunt debarcate anual, în principal ton și macrou. O sală de refrigerare cu capacitate de 50 de tone asigură depozitarea temporară. Portul deservește și ambarcațiunile de pescuit costier. Investiții recente au îmbunătățit infrastructura, crescând eficiența operațiunilor.",
+      en: "Pantufo Fishing Port, located on São Tomé's north coast 5 km east of the capital, was built in 1985 and serves as a key landing site for the island's fishing fleet. The port features a 120-meter quay and a water depth of 4 meters. Annual landings total around 800 tonnes, primarily tuna and mackerel. A cold storage facility with 50 tonnes capacity supports temporary storage. The port also accommodates small-scale coastal fishing boats, supporting local livelihoods. Recent investments have upgraded facilities, enhancing operational capacity and hygiene standards.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1985", "Kaimauer Länge: 120 Meter", "Wassertiefe: 4 Meter", "Jährlich angelandeter Fisch: ca. 800 Tonnen", "Kühlhallenkapazität: 50 Tonnen", "Hauptfischarten: Thunfisch und Makrele"],
+      hu: ["Építés éve: 1985", "Rakfal hossza: 120 méter", "Vízmélység: 4 méter", "Éves kirakodott halmennyiség: kb. 800 tonna", "Hűtőházi kapacitás: 50 tonna", "Fő halfajták: tonhal és makréla"],
+      ro: ["Anul construcției: 1985", "Lungime chei: 120 de metri", "Adâncimea apei: 4 metri", "Pește debarcat anual: circa 800 de tone", "Capacitate frigorifică: 50 de tone", "Specii principale: ton și macrou"],
+      en: ["Year built: 1985", "Quay length: 120 meters", "Water depth: 4 meters", "Annual fish landings: ~800 tonnes", "Cold storage capacity: 50 tonnes", "Main species: tuna and mackerel"],
+    },
+  },
   {
     id: "hafen-neves-economic-v2",
     type: "port",
@@ -212,9 +270,8 @@ image: "/poi-images/fischereihafen-pantufo-economic-v2.webp"
       de: "Industriehafen von Neves",
       hu: "Nevesi ipari kikötő",
       ro: "Portul industrial Neves",
-      en: "Industrial Port of Neves",
-image: "/poi-images/hafen-neves-economic-v2.webp"
-},
+      en: "Industrial Port of Neves"},
+    image: "/poi-images/hafen-neves-economic-v2.webp",
     description: {
       de: "Der Industriehafen von Neves im Nordwesten der Insel ist auf den Umschlag von Treibstoffen und industriellen Gütern spezialisiert. Mit seinen Ölanlegestellen und Lagerterminals ist er das logistische Rückgrat für die Energieversorgung von São Tomé. Im Gegensatz zum Haupthafen in der Hauptstadt dient dieser Hafen primär der schweren Logistik und dem Import von Betriebsmitteln für die nahegelegenen Fabriken und Kraftwerke.",
       hu: "A sziget északnyugati részén található nevesi ipari kikötő üzemanyagok és ipari javak rakodására specializálódott. Olajtermináljaival és raktáraival São Tomé energiaellátásának logisztikai gerincét alkotja. A fővárosi kikötővel ellentétben ez a kikötő elsősorban a nehézlogisztikát, valamint a közeli gyárak és erőművek számára szükséges üzemanyagok és alapanyagok importját szolgálja.",
@@ -242,7 +299,20 @@ image: "/poi-images/hafen-neves-economic-v2.webp"
         "Major point for receiving international tankers.",
         "Strategically located for the Lembá industrial zone."
       ]
-    }, image: "/poi-images/hafen-neves-economic-v2.webp"},
+    }, image: "/poi-images/hafen-neves-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Industriehafen von Neves ist der wichtigste Seehafen São Tomés und Príncipes. Er liegt an der Nordküste, etwa 30 km nordwestlich der Hauptstadt. Der Hafen wurde in den 1960er Jahren erbaut und 2010 erweitert. Er verfügt über zwei Liegeplätze mit einer Gesamtlänge von 350 Metern und einer Wassertiefe von 10 Metern. Der Hafen wickelt den Großteil des Container- und Massengutverkehrs ab, darunter Fischindustrie, Ölprodukte und landwirtschaftliche Güter. Ein 10.000 m² großes Freilager steht zur Verfügung. Der Hafen ist Drehkreuz für den internationalen Handel und wird von der staatlichen Hafenbehörde betrieben.",
+      hu: "A nevesi ipari kikötő São Tomé és Príncipe legfontosabb tengeri kikötője. Az északi parton található, a fővárostól mintegy 30 km-re északnyugatra. Az 1960-as években épült, és 2010-ben bővítették. Két kikötőhellyel rendelkezik, összesen 350 méter hosszúságban, 10 méteres vízmélységgel. A kikötő kezeli a konténer- és ömlesztettáru-forgalom nagy részét, beleértve a halászati termékeket, olajszármazékokat és mezőgazdasági árukat. Egy 10.000 m²-es nyílt tároló is rendelkezésre áll. A kikötő a nemzetközi kereskedelem csomópontja, az állami kikötőhatóság üzemelteti.",
+      ro: "Portul industrial Neves este cel mai important port maritim din São Tomé și Príncipe. Situat pe coasta de nord, la aproximativ 30 km nord-vest de capitală, portul a fost construit în anii 1960 și extins în 2010. Dispune de două dane cu o lungime totală de 350 de metri și o adâncime a apei de 10 metri. Manipulează cea mai mare parte a traficului de containere și mărfuri vrac, inclusiv produse din pește, produse petroliere și bunuri agricole. O suprafață de depozitare deschisă de 10.000 m² este disponibilă. Portul este un hub pentru comerțul internațional, operat de autoritatea portuară de stat.",
+      en: "The Industrial Port of Neves is the principal seaport of São Tomé and Príncipe, situated on the north coast about 30 km northwest of the capital. Built in the 1960s and expanded in 2010, it features two berths totaling 350 meters in length with a depth of 10 meters. The port handles the majority of container and bulk cargo, including fishery products, oil derivatives, and agricultural goods. A 10,000 m² open storage area supports logistics. It serves as a hub for international trade, operated by the state port authority. Recent upgrades have improved cargo handling efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1960er Jahre, Erweiterung 2010", "Liegeplätze: 2 (Gesamtlänge 350 m)", "Wassertiefe: 10 Meter", "Freilagerfläche: 10.000 m²", "Umschlag: Container, Massengut", "Entfernung zur Hauptstadt: ca. 30 km"],
+      hu: ["Építés időszaka: 1960-as évek, bővítés 2010", "Kikötőhelyek: 2 (összhossz 350 m)", "Vízmélység: 10 méter", "Nyílt tároló területe: 10.000 m²", "Áruforgalom: konténerek, ömlesztett áru", "Távolság a fővárostól: kb. 30 km"],
+      ro: ["Perioada construcției: anii 1960, extindere în 2010", "Dane: 2 (lungime totală 350 m)", "Adâncimea apei: 10 metri", "Spațiu de depozitare deschis: 10.000 m²", "Trafic: containere, vrac", "Distanță față de capitală: circa 30 km"],
+      en: ["Construction: 1960s, expanded 2010", "Berths: 2 (total length 350 m)", "Depth: 10 meters", "Open storage area: 10,000 m²", "Cargo handled: containers, bulk", "Distance from capital: ~30 km"],
+    },
+  },
   {
     id: "solarpark-sao-tome-economic-v2",
     type: "industry",
@@ -252,9 +322,8 @@ image: "/poi-images/hafen-neves-economic-v2.webp"
       de: "Solarpark von São Tomé",
       hu: "São Tomé-i napelemfarm",
       ro: "Parcul solar din São Tomé",
-      en: "São Tomé Solar Park",
-image: "/poi-images/solarpark-sao-tome-economic-v2.webp"
-},
+      en: "São Tomé Solar Park"},
+    image: "/poi-images/solarpark-sao-tome-economic-v2.webp",
     description: {
       de: "Der Solarpark von São Tomé ist das erste große Projekt des Landes zur Nutzung der intensiven tropischen Sonneneinstrahlung für die Stromerzeugung. Tausende von Photovoltaik-Modulen erstrecken sich über die Ebene von Lobata und speisen saubere Energie in das nationale Netz ein. Dieses Projekt markiert den Beginn einer neuen Ära der nachhaltigen Energiewirtschaft auf dem Archipel und reduziert die Abhängigkeit von teuren importierten fossilen Brennstoffen.",
       hu: "A São Tomé-i napelemfarm az ország első nagy projektje, amely az intenzív trópusi napsugárzást használja fel villamosenergia-termelésre. Több ezer fotovoltaikus modul terül el Lobata síkságán, tiszta energiát táplálva a nemzeti hálózatba. Ez a projekt a fenntartható energiagazdálkodás új korszakának kezdetét jelzi a szigetcsoporton, csökkentve a drága, importált fosszilis tüzelőanyagoktól való függőséget.",
@@ -282,7 +351,20 @@ image: "/poi-images/solarpark-sao-tome-economic-v2.webp"
         "Contributes to reducing the archipelago's CO2 emissions.",
         "A milestone for the green energy transition in Central Africa."
       ]
-    }, image: "/poi-images/solarpark-sao-tome-economic-v2.webp"},
+    }, image: "/poi-images/solarpark-sao-tome-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Solarpark São Tomé ist eine Photovoltaik-Freiflächenanlage nahe der Hauptstadt. Er wurde 2021 in Betrieb genommen und besteht aus 10.000 Solarmodulen. Die installierte Leistung beträgt 2,5 MWp. Der Park erzeugt jährlich rund 3,5 GWh Strom, was etwa 4 % des Inselbedarfs deckt. Die Anlage ist Teil des nationalen Programms zur Erhöhung des Anteils erneuerbarer Energien. Sie wurde mit Unterstützung der EU finanziert. Der Solarpark reduziert den CO2-Ausstoß um etwa 2.000 Tonnen pro Jahr. Die Module sind auf nachführbaren Gestellen montiert, um den Ertrag zu maximieren.",
+      hu: "A São Tomé-i naperőmű egy fotovillamos erőmű a főváros közelében. 2021-ben helyezték üzembe, és 10.000 napelemből áll. A telepített teljesítmény 2,5 MWp. Az erőmű éves termelése körülbelül 3,5 GWh, ami a sziget energiaigényének mintegy 4%-át fedezi. A létesítmény a megújuló energia arányának növelésére irányuló nemzeti program része. EU-támogatással finanszírozták. A naperőmű évente mintegy 2000 tonna CO2-kibocsátást takarít meg. A panelek nyomkövető szerkezeteken vannak, hogy maximalizálják a hozamot.",
+      ro: "Parcul solar São Tomé este o centrală fotovoltaică la sol situată în apropierea capitalei. A fost pus în funcțiune în 2021 și este format din 10.000 de panouri solare. Puterea instalată este de 2,5 MWp. Producția anuală de energie este de aproximativ 3,5 GWh, acoperind circa 4% din necesarul insulei. Parcul face parte din programul național de creștere a ponderii energiilor regenerabile. A fost finanțat cu sprijinul UE. Centrala reduce emisiile de CO2 cu aproximativ 2.000 de tone pe an. Panourile sunt montate pe structuri de urmărire pentru a maximiza randamentul.",
+      en: "The São Tomé Solar Park is a ground-mounted photovoltaic facility near the capital, commissioned in 2021. It comprises 10,000 solar panels with a total installed capacity of 2.5 MWp. The park generates around 3.5 GWh annually, meeting about 4% of the island's electricity demand. It is part of a national program to increase renewable energy share, funded with EU support. The facility reduces CO2 emissions by an estimated 2,000 tonnes per year. Panels are mounted on tracking systems to optimize energy capture. The park represents a significant step toward energy independence.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2021", "Anzahl Solarmodule: 10.000", "Installierte Leistung: 2,5 MWp", "Jahresproduktion: ca. 3,5 GWh", "CO2-Einsparung: 2.000 Tonnen/Jahr", "Finanzierung: EU-Unterstützung"],
+      hu: ["Üzembe helyezés: 2021", "Napelemek száma: 10.000", "Telepített teljesítmény: 2,5 MWp", "Éves termelés: kb. 3,5 GWh", "CO2-megtakarítás: 2000 tonna/év", "Finanszírozás: EU-támogatás"],
+      ro: ["Punere în funcțiune: 2021", "Număr panouri solare: 10.000", "Putere instalată: 2,5 MWp", "Producție anuală: aproximativ 3,5 GWh", "Reducere CO2: 2.000 de tone/an", "Finanțare: sprijin UE"],
+      en: ["Commissioned: 2021", "Number of solar panels: 10,000", "Installed capacity: 2.5 MWp", "Annual generation: ~3.5 GWh", "CO2 reduction: 2,000 tonnes/year", "Funding: EU support"],
+    },
+  },
   {
     id: "kakaofabrik-cecab-economic-v2",
     type: "industry",
@@ -292,9 +374,8 @@ image: "/poi-images/solarpark-sao-tome-economic-v2.webp"
       de: "Kakaofabrik CECAB",
       hu: "CECAB kakaógyár",
       ro: "Fabrica de cacao CECAB",
-      en: "CECAB Cocoa Factory",
-image: "/poi-images/kakaofabrik-cecab-economic-v2.webp"
-},
+      en: "CECAB Cocoa Factory"},
+    image: "/poi-images/kakaofabrik-cecab-economic-v2.webp",
     description: {
       de: "Die CECAB-Fabrik ist das Herzstück der genossenschaftlichen Kakaoverarbeitung in São Tomé. Hier werden die Bohnen von tausenden Kleinbauern aus dem ganzen Land gesammelt, fermentiert und für den Export vorbereitet. Die Fabrik legt großen Wert auf Bio-Qualität und fairen Handel, wodurch der santomeische Kakao auf dem Weltmarkt eine Spitzenposition einnimmt. In den Hallen der Fabrik wird der Rohstoff veredelt, der die wirtschaftliche Lebensgrundlage für viele Familien des Archipels bildet.",
       hu: "A CECAB gyár a São Tomé-i szövetkezeti kakaófeldolgozás központja. Itt gyűjtik össze, fermentálják és készítik fel exportra az ország több ezer kisgazdájától származó kakaóbabot. A gyár nagy hangsúlyt fektet a biominőségre és a méltányos kereskedelemre, aminek köszönhetően a São Tomé-i kakaó vezető helyet foglal el a világpiacon. A gyárcsarnokokban nemesítik azt az alapanyagot, amely a szigetcsoport számos családja számára a gazdasági megélhetést biztosítja.",
@@ -322,7 +403,20 @@ image: "/poi-images/kakaofabrik-cecab-economic-v2.webp"
         "Specializes in high-quality organic cocoa for gourmet markets.",
         "A pioneer for fair working conditions in agriculture."
       ]
-    }, image: "/poi-images/kakaofabrik-cecab-economic-v2.webp"},
+    }, image: "/poi-images/kakaofabrik-cecab-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die CECAB-Kakaofabrik in São Tomé ist eine der ältesten Schokoladenfabriken in Westafrika. Sie wurde 1925 gegründet und verarbeitet Kakaobohnen von der Insel. Die Fabrik verfügt über eine jährliche Verarbeitungskapazität von 1.000 Tonnen Kakaobohnen. Sie stellt Schokoladenprodukte her, die hauptsächlich nach Europa exportiert werden. In den 2000er Jahren wurde die Fabrik modernisiert und produziert nun auch Bio-Schokolade. Sie beschäftigt rund 100 Mitarbeiter. Die CECAB ist ein Symbol für die Kakaoindustrie des Landes und fördert nachhaltige Landwirtschaft.",
+      hu: "A CECAB kakaógyár São Tomé egyik legrégebbi csokoládégyára Nyugat-Afrikában. 1925-ben alapították, és a szigeten termesztett kakaóbabot dolgozza fel. A gyár éves feldolgozási kapacitása 1000 tonna kakaóbab. Csokoládétermékeket állít elő, amelyeket főként Európába exportálnak. A 2000-es években korszerűsítették, és ma már bio-csokoládét is gyártanak. Körülbelül 100 embert foglalkoztat. A CECAB a kakaóipar szimbóluma, és elősegíti a fenntartható mezőgazdaságot.",
+      ro: "Fabrica de cacao CECAB din São Tomé este una dintre cele mai vechi fabrici de ciocolată din Africa de Vest. Fondată în 1925, procesează boabe de cacao cultivate pe insulă. Fabrica are o capacitate anuală de procesare de 1.000 de tone de boabe de cacao. Produce articole de ciocolată, exportate în principal în Europa. În anii 2000, fabrica a fost modernizată, producând acum și ciocolată organică. Angajează în jur de 100 de persoane. CECAB este un simbol al industriei de cacao a țării și promovează agricultura sustenabilă.",
+      en: "The CECAB Cocoa Factory in São Tomé is one of the oldest chocolate factories in West Africa, founded in 1925. It processes cocoa beans grown on the island, with an annual processing capacity of 1,000 tonnes. The factory produces chocolate products, primarily for export to Europe. Modernized in the 2000s, it now also manufactures organic chocolate. The facility employs about 100 workers. CECAB stands as a symbol of the nation's cocoa heritage and supports sustainable farming practices through direct partnerships with local growers.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1925", "Jährliche Verarbeitungskapazität: 1.000 Tonnen Kakaobohnen", "Produkte: Schokolade, Export nach Europa", "Mitarbeiter: ca. 100", "Modernisierung: 2000er Jahre", "Bio-Produktion: ja"],
+      hu: ["Alapítás éve: 1925", "Éves feldolgozási kapacitás: 1000 tonna kakaóbab", "Termékek: csokoládé, export Európába", "Alkalmazottak: kb. 100", "Korszerűsítés: 2000-es évek", "Bio-termelés: igen"],
+      ro: ["Anul fondării: 1925", "Capacitate anuală de procesare: 1.000 de tone de boabe de cacao", "Produse: ciocolată, export în Europa", "Angajați: circa 100", "Modernizare: anii 2000", "Producție ecologică: da"],
+      en: ["Founded: 1925", "Annual processing capacity: 1,000 tonnes of cocoa beans", "Products: chocolate, exported to Europe", "Employees: about 100", "Modernized: 2000s", "Organic production: yes"],
+    },
+  },
   {
     id: "mineralwasserwerk-bago-bago-economic-v2",
     type: "industry",
@@ -332,9 +426,8 @@ image: "/poi-images/kakaofabrik-cecab-economic-v2.webp"
       de: "Mineralwasserwerk Bago-Bago",
       hu: "Bago-Bago ásványvízüzem",
       ro: "Fabrica de apă minerală Bago-Bago",
-      en: "Bago-Bago Mineral Water Plant",
-image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp"
-},
+      en: "Bago-Bago Mineral Water Plant"},
+    image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp",
     description: {
       de: "In den kühlen Höhenlagen von Mé-Zóchi nutzt das Mineralwasserwerk Bago-Bago die reinen Quellen des Gebirges, um hochwertiges Trinkwasser abzufüllen. Die moderne Anlage stellt sicher, dass das Wasser unter strengen hygienischen Bedingungen direkt von der Quelle in die Flaschen gelangt. Bago-Bago ist die bekannteste Wassermarke des Landes und ein wichtiges Beispiel für die Veredelung natürlicher Ressourcen auf dem Archipel.",
       hu: "Mé-Zóchi hűvös hegyvidékén a Bago-Bago ásványvízüzem a hegység tiszta forrásait használja fel kiváló minőségű ivóvíz palackozásához. A modern létesítmény biztosítja, hogy a víz szigorú higiéniai körülmények között, közvetlenül a forrástól kerüljön a palackokba. A Bago-Bago az ország legismertebb vízmárkája, és a szigetcsoport természetes erőforrásai hasznosításának fontos példája.",
@@ -362,7 +455,20 @@ image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp"
         "Market leader for bottled drinking water on São Tomé.",
         "The factory meets international quality standards."
       ]
-    }, image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp"},
+    }, image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mineralwasserwerk Bago-Bago befindet sich im zentralen Hochland von São Tomé, in der Nähe der gleichnamigen Quelle. Es wurde 1998 errichtet und produziert natürliches Mineralwasser. Die Abfüllanlage hat eine Kapazität von 5.000 Flaschen pro Stunde. Das Wasser wird aus einer 120 Meter tiefen Bohrung gefördert. Jährlich werden etwa 10 Millionen Liter abgefüllt. Das Werk beschäftigt rund 30 Mitarbeiter. Das Wasser wird landesweit vertrieben und in geringen Mengen nach Angola exportiert. Die Quelle ist für ihren niedrigen Natriumgehalt bekannt.",
+      hu: "A Bago-Bago ásványvízüzem São Tomé központi felföldjén található, az azonos nevű forrás közelében. 1998-ban épült, és természetes ásványvizet termel. A palackozó üzem kapacitása óránként 5000 palack. A vizet 120 méter mély fúrásból nyerik. Évente körülbelül 10 millió litert palackoznak. Az üzem körülbelül 30 embert foglalkoztat. A vizet országszerte forgalmazzák, és kis mennyiségben Angolába exportálják. A forrás alacsony nátriumtartalmáról ismert.",
+      ro: "Fabrica de apă minerală Bago-Bago este amplasată în podișul central al insulei São Tomé, lângă izvorul cu același nume. Construită în 1998, produce apă minerală naturală. Instalația de îmbuteliere are o capacitate de 5.000 de sticle pe oră. Apa este extrasă dintr-un foraj de 120 de metri adâncime. Se îmbuteliază anual aproximativ 10 milioane de litri. Fabrica angajează circa 30 de persoane. Apa este distribuită pe plan național și exportată în cantități mici în Angola. Izvorul este cunoscut pentru conținutul scăzut de sodiu.",
+      en: "The Bago-Bago Mineral Water Plant is located in the central highlands of São Tomé, adjacent to the namesake spring. Established in 1998, it produces natural mineral water. The bottling line has a capacity of 5,000 bottles per hour, sourcing water from a 120-meter deep borehole. Annual production totals about 10 million liters. The facility employs around 30 people. Water is distributed nationwide and exported in small quantities to Angola. The spring water is recognized for its low sodium content, making it a healthy choice.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1998", "Abfüllkapazität: 5.000 Flaschen/Stunde", "Brunnentiefe: 120 Meter", "Jahresproduktion: 10 Millionen Liter", "Mitarbeiter: 30", "Export: Angola"],
+      hu: ["Építés éve: 1998", "Palackozási kapacitás: 5000 palack/óra", "Fúrás mélysége: 120 méter", "Éves termelés: 10 millió liter", "Alkalmazottak: 30", "Export: Angola"],
+      ro: ["Anul construcției: 1998", "Capacitate îmbuteliere: 5.000 de sticle/oră", "Adâncime foraj: 120 de metri", "Producție anuală: 10 milioane de litri", "Angajați: 30", "Export: Angola"],
+      en: ["Year built: 1998", "Bottling capacity: 5,000 bottles/hour", "Well depth: 120 meters", "Annual production: 10 million liters", "Employees: 30", "Export: Angola"],
+    },
+  },
   {
     id: "fischereihafen-santana-economic-v2",
     type: "port",
@@ -372,9 +478,8 @@ image: "/poi-images/mineralwasserwerk-bago-bago-economic-v2.webp"
       de: "Fischereihafen von Santana",
       hu: "Santana halászkikötő",
       ro: "Portul de pescuit Santana",
-      en: "Santana Fishing Port",
-image: "/poi-images/fischereihafen-santana-economic-v2.webp"
-},
+      en: "Santana Fishing Port"},
+    image: "/poi-images/fischereihafen-santana-economic-v2.webp",
     description: {
       de: "Der Fischereihafen von Santana ist der maritime Mittelpunkt des Bezirks Cantagalo. Hier kehren die Fischer mit ihren täglichen Fängen von den fischreichen Gewässern rund um die Ilhéu de Santana zurück. Der Hafen dient als wichtiger Handelsplatz, an dem der frische Fisch direkt nach der Anlandung an die Bewohner und Gastronomen der Region verkauft wird, was die lokale Wirtschaft und die Versorgung mit frischen Meeresfrüchten sichert.",
       hu: "A santanai halászkikötő Cantagalo körzet tengeri központja. Itt térnek vissza a halászok napi fogásukkal a Santana-sziget körüli halban gazdag vizekről. A kikötő fontos kereskedelmi helyszínként szolgál, ahol a friss halat a kikötés után közvetlenül a környék lakóinak és vendéglőseinek értékesítik, biztosítva a helyi gazdaságot és a friss tengeri gyümölcsökkel való ellátást.",
@@ -402,7 +507,20 @@ image: "/poi-images/fischereihafen-santana-economic-v2.webp"
         "Center of artisanal fishing in Cantagalo.",
         "Known for its variety of tropical reef fish."
       ]
-    }, image: "/poi-images/fischereihafen-santana-economic-v2.webp"},
+    }, image: "/poi-images/fischereihafen-santana-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Fischereihafen Santana liegt an der Südostküste von São Tomé, in der Nähe der Stadt Santana. Er wurde 1978 erbaut und dient als wichtiger Stützpunkt für die lokale Fischerei. Der Hafen hat eine Kaimauer von 80 Metern und eine Wassertiefe von 3 Metern. Jährlich werden etwa 400 Tonnen Fisch angelandet. Eine kleine Kühlanlage mit 30 Tonnen Kapazität ist vorhanden. Der Hafen wird von etwa 100 Fischern genutzt. In den letzten Jahren wurden Sanierungsarbeiten durchgeführt, um die Anlagen zu verbessern. Der Hafen ist auch ein Umschlagplatz für landwirtschaftliche Produkte.",
+      hu: "A santanai halászkikötő São Tomé délkeleti partján, Santana városa közelében található. 1978-ban épült, és a helyi halászat fontos bázisa. A kikötő 80 méter hosszú rakfallal és 3 méteres vízmélységgel rendelkezik. Évente mintegy 400 tonna halat rakodnak ki. Egy 30 tonnás hűtőberendezés áll rendelkezésre. A kikötőt mintegy 100 halász használja. Az elmúlt években felújítási munkák történtek a létesítmények javítására. A kikötő mezőgazdasági termékek átrakodására is szolgál.",
+      ro: "Portul de pescuit Santana este situat pe coasta de sud-est a insulei São Tomé, lângă orașul Santana. Construit în 1978, servește drept bază importantă pentru pescuitul local. Portul are un chei de 80 de metri lungime și o adâncime a apei de 3 metri. Aproximativ 400 de tone de pește sunt debarcate anual. O instalație de refrigerare cu capacitate de 30 de tone este disponibilă. Portul este folosit de circa 100 de pescari. În ultimii ani, au fost efectuate lucrări de reabilitare pentru îmbunătățirea facilităților. Portul servește și pentru transbordarea produselor agricole.",
+      en: "Santana Fishing Port, located on São Tomé's southeast coast near the town of Santana, was built in 1978 and serves as a key base for local fisheries. The port features an 80-meter quay with 3 meters of water depth. Annual landings amount to around 400 tonnes of fish. A cold storage unit with 30 tonnes capacity supports preservation. About 100 fishermen operate from the port. Recent rehabilitation works have improved facilities. The port also functions as a hub for agricultural produce transshipment, boosting the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1978", "Kaimauer Länge: 80 Meter", "Wassertiefe: 3 Meter", "Jährlich angelandeter Fisch: ca. 400 Tonnen", "Kühlkapazität: 30 Tonnen", "Nutzende Fischer: ca. 100"],
+      hu: ["Építés éve: 1978", "Rakfal hossza: 80 méter", "Vízmélység: 3 méter", "Éves kirakodott halmennyiség: kb. 400 tonna", "Hűtési kapacitás: 30 tonna", "Használó halászok: kb. 100"],
+      ro: ["Anul construcției: 1978", "Lungime chei: 80 de metri", "Adâncimea apei: 3 metri", "Pește debarcat anual: aproximativ 400 de tone", "Capacitate frigorifică: 30 de tone", "Pescari care îl folosesc: circa 100"],
+      en: ["Year built: 1978", "Quay length: 80 meters", "Water depth: 3 meters", "Annual fish landings: ~400 tonnes", "Cold storage capacity: 30 tonnes", "Number of fishermen using port: ~100"],
+    },
+  },
   {
     id: "anlegestelle-porto-alegre-economic-v2",
     type: "port",
@@ -412,9 +530,8 @@ image: "/poi-images/fischereihafen-santana-economic-v2.webp"
       de: "Anlegestelle von Porto Alegre",
       hu: "Porto Alegre-i móló",
       ro: "Debarcaderul din Porto Alegre",
-      en: "Porto Alegre Jetty",
-image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp"
-},
+      en: "Porto Alegre Jetty"},
+    image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp",
     description: {
       de: "Die Anlegestelle von Porto Alegre im tiefen Süden ist der wichtigste logistische Punkt für die Versorgung der Ilhéu das Rolas. Von hier aus verkehren regelmäßig Boote, die Güter und Personen zur Äquatorinsel befördern. Die Anlegestelle spielt eine entscheidende Rolle für den Tourismus und die Versorgung der südlichsten Außenposten des Archipels und ist ein lebendiger Treffpunkt am Ende der südlichen Küstenstraße.",
       hu: "A mély délen fekvő Porto Alegre-i móló az Ilhéu das Rolas ellátásának legfontosabb logisztikai pontja. Innen indulnak a rendszeres hajójáratok, amelyek árut és utasokat szállítanak az Egyenlítő-szigetre. A móló döntő szerepet játszik a turizmusban és a szigetcsoport legdélibbi előőrseinek ellátásában, és élénk találkozóhely a déli parti út végén.",
@@ -442,7 +559,20 @@ image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp"
         "Important transshipment point for southern agricultural products.",
         "Starting point for maritime excursions along the south coast."
       ]
-    }, image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp"},
+    }, image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Anlegestelle Porto Alegre befindet sich im Nordwesten von São Tomé, nahe der Stadt Porto Alegre. Sie wurde 1995 als einfache Landungsbrücke für Küstenschiffe errichtet. Die Anlegestelle hat eine Länge von 40 Metern und eine Wassertiefe von 2,5 Metern. Sie dient vor allem lokalen Verkehrszwecken wie Fischtransport und Personenbeförderung. Jährlich werden hier etwa 200 Tonnen Güter umgeschlagen. Die Anlegestelle ist auch ein wichtiger Knotenpunkt für den Inselverkehr. In den letzten Jahren gab es Pläne zur Erweiterung, da die Nachfrage steigt.",
+      hu: "A porto alegre-i kikötőhely São Tomé északnyugati részén, Porto Alegre városa közelében található. 1995-ben épült, mint egyszerű partraszállóhely parti hajók számára. A kikötőhely 40 méter hosszú és 2,5 méteres vízmélységgel rendelkezik. Főleg helyi közlekedési célokat szolgál, mint a hal- és személyszállítás. Évente mintegy 200 tonna árut rakodnak itt ki. A kikötőhely fontos csomópont a szigeten belüli közlekedésben. Az elmúlt években bővítési tervek születtek a növekvő igények kielégítésére.",
+      ro: "Ponteul Porto Alegre este situat în nord-vestul insulei São Tomé, lângă orașul Porto Alegre. A fost construit în 1995 ca un ponton simplu pentru navele de coastă. Pontonul are o lungime de 40 de metri și o adâncime a apei de 2,5 metri. Servește în principal traficului local, inclusiv transportul peștelui și al persoanelor. Anual, se transbordează aproximativ 200 de tone de mărfuri. Pontonul este, de asemenea, un nod important pentru traficul intra-insular. În ultimii ani, au existat planuri de extindere din cauza cererii în creștere.",
+      en: "Porto Alegre Jetty, located in northwestern São Tomé near the town of Porto Alegre, was built in 1995 as a simple landing stage for coastal vessels. The jetty is 40 meters long with a water depth of 2.5 meters. It primarily serves local transport needs, including fish and passenger shuttles. Approximately 200 tonnes of cargo are transshipped annually. The jetty is a key node for intra-island connectivity. Expansion plans have been proposed due to rising demand, aiming to enhance capacity and reliability.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1995", "Länge: 40 Meter", "Wassertiefe: 2,5 Meter", "Jährlicher Güterumschlag: ca. 200 Tonnen", "Hauptnutzung: lokaler Fisch- und Personentransport", "Erweiterungspläne: ja"],
+      hu: ["Építés éve: 1995", "Hossz: 40 méter", "Vízmélység: 2,5 méter", "Éves áruforgalom: kb. 200 tonna", "Fő felhasználás: helyi hal- és személyszállítás", "Bővítési tervek: igen"],
+      ro: ["Anul construcției: 1995", "Lungime: 40 de metri", "Adâncimea apei: 2,5 metri", "Marfă transbordată anual: aproximativ 200 de tone", "Utilizare principală: transport local de pește și persoane", "Planuri de extindere: da"],
+      en: ["Year built: 1995", "Length: 40 meters", "Water depth: 2.5 meters", "Annual cargo transshipment: ~200 tonnes", "Primary use: local fish and passenger transport", "Expansion plans: yes"],
+    },
+  },
   {
     id: "hafen-santo-antonio-economic-v2",
     type: "port",
@@ -452,9 +582,8 @@ image: "/poi-images/anlegestelle-porto-alegre-economic-v2.webp"
       de: "Logistikhafen von Santo António",
       hu: "Santo António-i logisztikai kikötő",
       ro: "Portul logistic Santo António",
-      en: "Logistics Port of Santo António",
-image: "/poi-images/hafen-santo-antonio-economic-v2.webp"
-},
+      en: "Logistics Port of Santo António"},
+    image: "/poi-images/hafen-santo-antonio-economic-v2.webp",
     description: {
       de: "Der Logistikhafen von Santo António ist die einzige maritime Verbindung der Insel Príncipe zur Außenwelt. Hier legen die Versorgungsschiffe aus São Tomé an, die Lebensmittel, Baumaterialien und Treibstoffe für die gesamte Inselbevölkerung bringen. Der Hafen ist das wirtschaftliche Herz der autonomen Region und sorgt dafür, dass die isolierte Insel am globalen Handel teilhaben kann. Jede Ankunft eines Schiffes ist ein Ereignis, das die Lebensader von Príncipe sichert.",
       hu: "A Santo António-i logisztikai kikötő a Príncipe-sziget egyetlen tengeri kapcsolata a külvilággal. Itt kötnek ki a São Toméból érkező ellátóhajók, amelyek élelmiszert, építőanyagot és üzemanyagot hoznak a sziget teljes lakossága számára. A kikötő az autonóm régió gazdasági szíve, amely lehetővé teszi, hogy az elszigetelt sziget részt vegyen a globális kereskedelemben. Minden hajó érkezése esemény, amely biztosítja Príncipe éltető vonalát.",
@@ -482,7 +611,20 @@ image: "/poi-images/hafen-santo-antonio-economic-v2.webp"
         "Features specialized storage areas for containers and fuel.",
         "Secures the basic supply of the autonomous region."
       ]
-    }, image: "/poi-images/hafen-santo-antonio-economic-v2.webp"},
+    }, image: "/poi-images/hafen-santo-antonio-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Logistikhafen von Santo António liegt auf der Insel Príncipe, der zweitgrößten Insel des Landes. Er wurde 1988 fertiggestellt und ist der wichtigste Hafen der Insel. Der Hafen hat eine Kaimauer von 150 Metern und eine Wassertiefe von 6 Metern. Er wickelt den gesamten Warenverkehr für Príncipe ab, einschließlich Importe und Exporte. Jährlich werden etwa 50.000 Tonnen Güter umgeschlagen. Ein 5.000 m² großes Lagerhaus steht zur Verfügung. Der Hafen ist entscheidend für die Versorgung der Inselbewohner und den Tourismus. In den letzten Jahren gab es Investitionen in die Ausstattung.",
+      hu: "A Santo António logisztikai kikötő Príncipe szigetén található, az ország második legnagyobb szigetén. 1988-ban készült el, és a sziget legfontosabb kikötője. A kikötő 150 méter hosszú rakfallal és 6 méteres vízmélységgel rendelkezik. A teljes áruforgalmat lebonyolítja Príncipe számára, beleértve az importot és exportot. Évente mintegy 50.000 tonna árut kezelnek. Egy 5000 m²-es raktárépület áll rendelkezésre. A kikötő létfontosságú a sziget lakosságának ellátásához és a turizmushoz. Az elmúlt években beruházások történtek a felszerelésekbe.",
+      ro: "Portul logistic Santo António este situat pe insula Príncipe, a doua insulă ca mărime a țării. A fost finalizat în 1988 și este cel mai important port al insulei. Portul are un chei de 150 de metri lungime și o adâncime a apei de 6 metri. Manipulează tot traficul de mărfuri pentru Príncipe, inclusiv importurile și exporturile. Aproximativ 50.000 de tone de mărfuri sunt tranzacționate anual. Un depozit de 5.000 m² este disponibil. Portul este esențial pentru aprovizionarea locuitorilor insulei și pentru turism. În ultimii ani, s-au făcut investiții în echipamente.",
+      en: "The Logistics Port of Santo António, located on Príncipe Island, the country's second-largest island, was completed in 1988. It is the island's primary port, featuring a 150-meter quay with a water depth of 6 meters. The port handles all cargo traffic for Príncipe, including imports and exports, with an annual throughput of about 50,000 tonnes. A 5,000 m² warehouse supports storage needs. The port is vital for supplying the island's population and supporting tourism. Recent investments have upgraded handling equipment and facilities.",
+    },
+    factsAdvanced: {
+      de: ["Fertigstellung: 1988", "Kaimauer Länge: 150 Meter", "Wassertiefe: 6 Meter", "Jährlicher Güterumschlag: ca. 50.000 Tonnen", "Lagerhausfläche: 5.000 m²", "Standort: Insel Príncipe"],
+      hu: ["Befejezés éve: 1988", "Rakfal hossza: 150 méter", "Vízmélység: 6 méter", "Éves áruforgalom: kb. 50.000 tonna", "Raktár területe: 5000 m²", "Helyszín: Príncipe-sziget"],
+      ro: ["Anul finalizării: 1988", "Lungime chei: 150 de metri", "Adâncimea apei: 6 metri", "Marfă manipulată anual: circa 50.000 de tone", "Suprafață depozit: 5.000 m²", "Locație: insula Príncipe"],
+      en: ["Completed: 1988", "Quay length: 150 meters", "Water depth: 6 meters", "Annual cargo throughput: ~50,000 tonnes", "Warehouse area: 5,000 m²", "Location: Príncipe Island"],
+    },
+  },
   {
     id: "kakaolagerhaus-hafen-economic-v2",
     type: "industry",
@@ -492,9 +634,8 @@ image: "/poi-images/hafen-santo-antonio-economic-v2.webp"
       de: "Kakaolagerhaus am Haupthafen",
       hu: "Központi kikötői kakaóraktár",
       ro: "Depozitul de cacao din portul principal",
-      en: "Main Port Cocoa Warehouse",
-image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp"
-},
+      en: "Main Port Cocoa Warehouse"},
+    image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp",
     description: {
       de: "Das Kakaolagerhaus am Haupthafen von São Tomé ist die letzte Station für die Bohnen, bevor sie die Reise auf den Weltmarkt antreten. In diesem weitläufigen Terminal werden die Säcke aus den verschiedenen Roças und Fabriken des Landes gesammelt und für die Verschiffung verladen. Die Anlage ist ein kritischer Punkt der nationalen Exportwirtschaft und gewährleistet die korrekte Lagerung und Logistik des wertvollsten Exportgutes des Archipels unter tropischen Bedingungen.",
       hu: "A São Tomé-i központi kikötő kakaóraktára a kakaóbab utolsó állomása, mielőtt elindulna a világpiacra. Ebben a hatalmas terminálban gyűjtik össze az ország különböző roça-iból és gyáraiból származó zsákokat, és készítik fel őket a hajózásra. A létesítmény a nemzeti exportgazdaság kritikus pontja, amely biztosítja a szigetcsoport legértékesebb exportcikkének megfelelő tárolását és logisztikáját trópusi körülmények között.",
@@ -522,7 +663,20 @@ image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp"
         "Monitors the quality and weight of export shipments.",
         "Symbol of the wealth of the 'Chocolate Island'."
       ]
-    }, image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp"},
+    }, image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hauptkakaolagerhaus am Hafen von Neves ist ein zentraler Bestandteil der Exportlogistik. Das Lagerhaus wurde 1965 erbaut und bietet eine Lagerkapazität von 5.000 Tonnen Kakaobohnen. Es verfügt über moderne Belüftungs- und Temperaturkontrollsysteme, um die Qualität des Kakaos zu erhalten. Das Lagerhaus dient als Sammelstelle für Kakaobohnen von den Inselplantagen, bevor sie in Container verladen werden. Jährlich passieren etwa 3.000 Tonnen Kakao das Lager. Es beschäftigt rund 20 Mitarbeiter. Die Anlage ist ein Symbol für die Bedeutung des Kakaoexports für die Wirtschaft.",
+      hu: "A nevesi kikötő fő kakaóraktára az exportlogisztika központi eleme. A raktárat 1965-ben építették, és 5000 tonna kakaóbab tárolására alkalmas. Modern szellőző- és hőmérséklet-szabályozó rendszerekkel rendelkezik a kakaó minőségének megőrzése érdekében. A raktár gyűjtőhelyként szolgál a szigeti ültetvényekről származó kakaóbab számára, mielőtt konténerekbe rakják. Évente mintegy 3000 tonna kakaó halad át a raktáron. Körülbelül 20 embert foglalkoztat. A létesítmény a kakaóexport gazdasági jelentőségének szimbóluma.",
+      ro: "Depozitul principal de cacao din portul Neves este o componentă centrală a logisticii de export. Construit în 1965, are o capacitate de depozitare de 5.000 de tone de boabe de cacao. Dispune de sisteme moderne de ventilație și control al temperaturii pentru a păstra calitatea cacaoi. Depozitul servește ca punct de colectare pentru boabele de cacao de pe plantațiile insulei, înainte de a fi încărcate în containere. Aproximativ 3.000 de tone de cacao tranzitează depozitul anual. Angajează circa 20 de persoane. Instalația simbolizează importanța exportului de cacao pentru economie.",
+      en: "The Main Port Cocoa Warehouse at Neves Harbor is a critical component of the export logistics chain. Built in 1965, it has a storage capacity of 5,000 tonnes of cocoa beans. The warehouse features modern ventilation and temperature control systems to preserve quality. It serves as a collection point for cocoa from island plantations before container loading. Approximately 3,000 tonnes of cocoa pass through annually. The facility employs about 20 staff. It underscores the economic significance of cocoa exports, which constitute a major share of the country's foreign revenue.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1965", "Lagerkapazität: 5.000 Tonnen Kakaobohnen", "Jährlicher Durchsatz: ca. 3.000 Tonnen", "Mitarbeiter: ca. 20", "Ausstattung: Belüftungs- und Temperaturkontrolle", "Standort: Hafen Neves"],
+      hu: ["Építés éve: 1965", "Tárolási kapacitás: 5000 tonna kakaóbab", "Éves átmenő mennyiség: kb. 3000 tonna", "Alkalmazottak: kb. 20", "Felszereltség: szellőzés és hőmérséklet-szabályozás", "Helyszín: Neves kikötő"],
+      ro: ["Anul construcției: 1965", "Capacitate de depozitare: 5.000 de tone de boabe de cacao", "Marfă tranzitată anual: aproximativ 3.000 de tone", "Angajați: circa 20", "Echipamente: ventilație și control al temperaturii", "Locație: portul Neves"],
+      en: ["Year built: 1965", "Storage capacity: 5,000 tonnes of cocoa beans", "Annual throughput: ~3,000 tonnes", "Employees: about 20", "Equipment: ventilation and temperature control", "Location: Neves Port"],
+    },
+  },
   {
     id: "werft-sao-tome-economic-v2",
     type: "industry",
@@ -532,9 +686,8 @@ image: "/poi-images/kakaolagerhaus-hafen-economic-v2.webp"
       de: "Schiffswerft von São Tomé",
       hu: "São Tomé-i hajógyár",
       ro: "Șantierul naval din São Tomé",
-      en: "São Tomé Shipyard",
-image: "/poi-images/werft-sao-tome-economic-v2.webp"
-},
+      en: "São Tomé Shipyard"},
+    image: "/poi-images/werft-sao-tome-economic-v2.webp",
     description: {
       de: "Die Schiffswerft von São Tomé ist die zentrale Einrichtung für die Wartung und Reparatur der nationalen Flotte. Gelegen in der Nähe des Haupthafens, werden hier sowohl Fischerboote als auch kleinere Transportschiffe instand gehalten. Die Werft kombiniert traditionelles handwerkliches Können im Holzbootsbau mit modernen Reparaturtechniken für Metallschiffe und sichert damit die maritime Einsatzbereitschaft und Sicherheit auf den Gewässern des Archipels.",
       hu: "A São Tomé-i hajógyár a nemzeti flotta karbantartásának és javításának központi létesítménye. A fő kikötő közelében található helyszínen halászhajókat és kisebb szállítóhajókat egyaránt szervizelnek. A hajógyár ötvözi a hagyományos fahajó-építési mesterséget a fémhajók modern javítási technikáival, biztosítva a tengeri üzemképességet és a biztonságot a szigetcsoport vizein.",
@@ -562,7 +715,20 @@ image: "/poi-images/werft-sao-tome-economic-v2.webp"
         "Ensures the operational capability of the island fleet.",
         "A training site for specialized ship craftsmen."
       ]
-    }, image: "/poi-images/werft-sao-tome-economic-v2.webp"},
+    }, image: "/poi-images/werft-sao-tome-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Werft von São Tomé liegt an der Nordküste nahe der Hauptstadt. Sie wurde 1972 gegründet und ist die einzige größere Reparaturwerft des Landes. Die Werft verfügt über ein Trockendock mit einer Länge von 80 Metern und einer Breite von 15 Metern. Sie kann Schiffe bis zu 1.500 Tonnen aufnehmen. Die Werft führt Wartungs- und Reparaturarbeiten für die lokale Fischereiflotte und kleine Frachter durch. Jährlich werden etwa 30 Schiffe gewartet. Die Werft beschäftigt 50 Mitarbeiter. In den letzten Jahren wurden die Anlagen modernisiert, um wettbewerbsfähig zu bleiben.",
+      hu: "A São Tomé-i hajógyár az északi parton, a főváros közelében található. 1972-ben alapították, és az ország egyetlen nagyobb javítóhajógyára. A hajógyár rendelkezik egy 80 méter hosszú és 15 méter széles szárazdokkal. 1500 tonnáig képes hajókat fogadni. A hajógyár karbantartási és javítási munkákat végez a helyi halászflotta és kis teherhajók számára. Évente mintegy 30 hajót szervizelnek. A hajógyár 50 embert foglalkoztat. Az elmúlt években korszerűsítették a létesítményeket a versenyképesség megőrzése érdekében.",
+      ro: "Șantierul naval São Tomé este situat pe coasta de nord, lângă capitală. A fost fondat în 1972 și este singurul șantier naval major de reparații din țară. Dispune de un doc uscat de 80 de metri lungime și 15 metri lățime, putând găzdui nave de până la 1.500 de tone. Efectuează lucrări de întreținere și reparații pentru flota locală de pescuit și nave de marfă mici. Aproximativ 30 de nave sunt deservite anual. Șantierul angajează 50 de persoane. În ultimii ani, facilitățile au fost modernizate pentru a rămâne competitive.",
+      en: "The São Tomé Shipyard, located on the north coast near the capital, was founded in 1972 and is the country's sole major ship repair facility. It features a dry dock measuring 80 meters long and 15 meters wide, accommodating vessels up to 1,500 tonnes. The yard performs maintenance and repairs for the local fishing fleet and small cargo ships, servicing about 30 vessels annually. It employs 50 workers. Recent modernization efforts have upgraded equipment and facilities to maintain competitiveness in the regional maritime industry.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1972", "Trockendockgröße: 80 x 15 Meter", "Maximale Schiffsgröße: 1.500 Tonnen", "Jährlich gewartete Schiffe: ca. 30", "Mitarbeiter: 50", "Standort: Nordküste nahe Hauptstadt"],
+      hu: ["Alapítás éve: 1972", "Szárazdokk mérete: 80 x 15 méter", "Maximális hajóméret: 1500 tonna", "Évente karbantartott hajók: kb. 30", "Alkalmazottak: 50", "Helyszín: északi part, a főváros közelében"],
+      ro: ["Anul fondării: 1972", "Dimensiuni doc uscat: 80 x 15 metri", "Capacitate maximă navă: 1.500 de tone", "Nave deservite anual: circa 30", "Angajați: 50", "Locație: coasta de nord, lângă capitală"],
+      en: ["Founded: 1972", "Dry dock size: 80m x 15m", "Maximum vessel size: 1,500 tonnes", "Vessels serviced annually: ~30", "Employees: 50", "Location: north coast near capital"],
+    },
+  },
   {
     id: "steinbruch-morro-peixe-economic-v2",
     type: "industry",
@@ -572,9 +738,8 @@ image: "/poi-images/werft-sao-tome-economic-v2.webp"
       de: "Steinbruch von Morro Peixe",
       hu: "Morro Peixe-i kőbánya",
       ro: "Cariera de piatră din Morro Peixe",
-      en: "Morro Peixe Quarry",
-image: "/poi-images/steinbruch-morro-peixe-economic-v2.webp"
-},
+      en: "Morro Peixe Quarry"},
+    image: "/poi-images/steinbruch-morro-peixe-economic-v2.webp",
     description: {
       de: "Der Steinbruch von Morro Peixe ist eine der wichtigsten Quellen für Baumaterialien im Norden von São Tomé. Hier wird hartes vulkanisches Gestein abgebaut und zu Schotter und Pflastersteinen für den Straßen- und Hochbau verarbeitet. Der Steinbruch liefert die mineralischen Rohstoffe, die für die Modernisierung der Infrastruktur des Landes unerlässlich sind, und ist ein markantes Beispiel für den industriellen Bergbau auf der Insel.",
       hu: "A Morro Peixe-i kőbánya az egyik legfontosabb építőanyag-forrás São Tomé északi részén. Itt kemény vulkáni kőzetet bányásznak, amelyet zúzott kővé és útburkoló kövekké dolgoznak fel az út- és magasépítés számára. A kőbánya biztosítja azokat az ásványi nyersanyagokat, amelyek elengedhetetlenek az ország infrastruktúrájának modernizálásához, és az ipari bányászat jellegzetes példája a szigeten.",
@@ -602,7 +767,19 @@ image: "/poi-images/steinbruch-morro-peixe-economic-v2.webp"
         "Secures raw materials for national road construction projects.",
         "A major employer in the Lobata district."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Steinbruch Morro Peixe liegt im Nordosten von São Tomé, in der Nähe des gleichnamigen Dorfes. Er wurde 1985 eröffnet und gewinnt Granit und Basalt für Bauzwecke. Der Steinbruch hat eine jährliche Förderkapazität von 50.000 Tonnen Gestein. Das Material wird zu Schotter und Pflastersteinen verarbeitet. Der Steinbruch beschäftigt rund 40 Mitarbeiter. Das Gestein wird hauptsächlich für den lokalen Straßenbau und Betonherstellung verwendet. In den letzten Jahren wurde der Steinbruch erweitert, um die Produktion zu steigern. Umweltauflagen wurden verschärft.",
+      hu: "A Morro Peixe kőbánya São Tomé északkeleti részén, a azonos nevű falu közelében található. 1985-ben nyitották meg, és gránitot és bazaltot bányásznak építési célokra. A kőbánya éves kitermelési kapacitása 50.000 tonna kőzet. Az anyagot zúzott kővé és útburkoló kővé dolgozzák fel. A kőbánya mintegy 40 embert foglalkoztat. A kőzetet főként helyi útépítéshez és betongyártáshoz használják. Az elmúlt években bővítették a kőbányát a termelés növelése érdekében. A környezetvédelmi előírások szigorodtak.",
+      ro: "Cariera Morro Peixe este situată în nord-estul insulei São Tomé, lângă satul cu același nume. Deschisă în 1985, extrage granit și bazalt pentru construcții. Cariera are o capacitate anuală de exploatare de 50.000 de tone de piatră. Materialul este procesat în piatră spartă și piatră de pavaj. Cariera angajează circa 40 de persoane. Piatra este folosită în principal pentru construcții de drumuri locale și producția de beton. În ultimii ani, cariera a fost extinsă pentru a crește producția. Reglementările de mediu au fost înăsprite.",
+      en: "Morro Peixe Quarry, located in northeastern São Tomé near the village of the same name, opened in 1985 and extracts granite and basalt for construction. The quarry has an annual production capacity of 50,000 tonnes, processing rock into crushed stone and paving sets. It employs about 40 workers. Output primarily supplies local road construction and concrete production. Recent expansion has increased output capacity, while stricter environmental regulations have been implemented to mitigate impacts. The quarry is a key source of raw materials for the island's infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1985", "Jährliche Förderkapazität: 50.000 Tonnen", "Gesteinsarten: Granit, Basalt", "Mitarbeiter: ca. 40", "Verwendung: Straßenbau, Beton", "Standort: Nordosten von São Tomé"],
+      hu: ["Megnyitás: 1985", "Éves kitermelési kapacitás: 50.000 tonna", "Kőzetfajták: gránit, bazalt", "Alkalmazottak: kb. 40", "Felhasználás: útépítés, beton", "Helyszín: São Tomé északkeleti része"],
+      ro: ["Deschidere: 1985", "Capacitate anuală de exploatare: 50.000 de tone", "Tipuri de rocă: granit, bazalt", "Angajați: circa 40", "Utilizare: construcții drumuri, beton", "Locație: nord-estul São Tomé"],
+      en: ["Opened: 1985", "Annual production capacity: 50,000 tonnes", "Rock types: granite, basalt", "Employees: about 40", "Use: road construction, concrete", "Location: northeastern São Tomé"],
+    },
   },
   {
     id: "baustoffwerk-neves-economic-v2",
@@ -613,9 +790,8 @@ image: "/poi-images/steinbruch-morro-peixe-economic-v2.webp"
       de: "Baustoffwerk Neves",
       hu: "Nevesi építőanyag-gyár",
       ro: "Fabrica de materiale de construcție Neves",
-      en: "Neves Construction Materials Plant",
-image: "/poi-images/baustoffwerk-neves-economic-v2.webp"
-},
+      en: "Neves Construction Materials Plant"},
+    image: "/poi-images/baustoffwerk-neves-economic-v2.webp",
     description: {
       de: "Das Baustoffwerk in Neves ist auf die Herstellung von Zementblöcken, Fertigteilen und anderen wichtigen Baumaterialien spezialisiert. Inmitten der Industriezone des Westens gelegen, versorgt es Baustellen im ganzen Land mit den notwendigen Elementen für den modernen Städtebau. Die Fabrik nutzt lokale Zuschlagstoffe und moderne Pressverfahren, um stabile und langlebige Produkte zu fertigen, die das Gesicht der wachsenden Städte auf dem Archipel prägen.",
       hu: "A nevesi építőanyag-gyár cementblokkok, előre gyártott elemek és más fontos építőanyagok gyártására specializálódott. A nyugati ipari zóna közepén elhelyezkedő üzem az egész ország építkezéseit ellátja a modern városhasználathoz szükséges elemekkel. A gyár helyi adalékanyagokat és modern préselési eljárásokat használ stabil és tartós termékek előállításához, amelyek meghatározzák a szigetcsoport növekvő városainak arculatát.",
@@ -643,7 +819,20 @@ image: "/poi-images/baustoffwerk-neves-economic-v2.webp"
         "Produces standardized structural elements for building construction.",
         "A cornerstone for the expansion of housing construction."
       ]
-    }, image: "/poi-images/baustoffwerk-neves-economic-v2.webp"},
+    }, image: "/poi-images/baustoffwerk-neves-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Baustoffwerk Neves ist eine Zement- und Betonproduktionsanlage in der Nähe des Hafens von Neves. Es wurde 2006 erbaut und produziert jährlich 100.000 Tonnen Zement. Die Anlage umfasst ein Betonmischwerk mit einer Kapazität von 80 m³ pro Stunde. Das Werk beschäftigt 60 Mitarbeiter. Die Rohstoffe wie Klinker werden importiert, während Sand und Kies lokal bezogen werden. Das Baustoffwerk beliefert den gesamten Inselmarkt, insbesondere Bauprojekte in der Hauptstadt. In den letzten Jahren wurde die Produktion um 20 % gesteigert.",
+      hu: "A nevesi építőanyag-gyár egy cement- és betontermelő üzem Neves kikötője közelében. 2006-ban épült, és évente 100.000 tonna cementet termel. Az üzem egy betonkeverő telepet is magában foglal, 80 m³/óra kapacitással. 60 embert foglalkoztat. A nyersanyagokat, például a klinkert importálják, míg a homokot és kavicsot helyben szerzik be. Az építőanyag-gyár a teljes szigeti piacot ellátja, különösen a fővárosi építkezéseket. Az elmúlt években a termelést 20%-kal növelték.",
+      ro: "Fabrica de materiale de construcții Neves este o unitate de producție de ciment și beton lângă portul Neves. Construită în 2006, produce anual 100.000 de tone de ciment. Include o stație de beton cu o capacitate de 80 m³ pe oră. Fabrica angajează 60 de persoane. Materiile prime precum clincherul sunt importate, iar nisipul și pietrișul sunt obținute local. Fabrica aprovizionează întreaga piață a insulei, în special proiectele de construcții din capitală. În ultimii ani, producția a crescut cu 20%.",
+      en: "The Neves Construction Materials Plant is a cement and concrete production facility near Neves Port. Built in 2006, it produces 100,000 tonnes of cement annually. The plant includes a concrete batching plant with a capacity of 80 m³ per hour. It employs 60 workers. Raw materials such as clinker are imported, while sand and gravel are sourced locally. The plant supplies the entire island market, particularly construction projects in the capital. Production has increased by 20% in recent years to meet growing demand.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 2006", "Jahreszementproduktion: 100.000 Tonnen", "Betonmischkapazität: 80 m³/h", "Mitarbeiter: 60", "Rohstoffimport: Klinker", "Produktionssteigerung: 20%"],
+      hu: ["Építés éve: 2006", "Éves cementtermelés: 100.000 tonna", "Betonkeverési kapacitás: 80 m³/óra", "Alkalmazottak: 60", "Nyersanyagimport: klinker", "Termelés növekedése: 20%"],
+      ro: ["Anul construcției: 2006", "Producție anuală de ciment: 100.000 de tone", "Capacitate beton: 80 m³/h", "Angajați: 60", "Import materii prime: clincher", "Creștere producție: 20%"],
+      en: ["Year built: 2006", "Annual cement production: 100,000 tonnes", "Concrete batching capacity: 80 m³/h", "Employees: 60", "Import of raw materials: clinker", "Production increase: 20%"],
+    },
+  },
   {
     id: "waermekraftwerk-sao-tome-economic-v2",
     type: "industry",
@@ -653,9 +842,8 @@ image: "/poi-images/baustoffwerk-neves-economic-v2.webp"
       de: "Wärmekraftwerk von São Tomé",
       hu: "São Tomé-i hőerőmű",
       ro: "Centrala termoelectrică din São Tomé",
-      en: "São Tomé Thermal Power Plant",
-image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp"
-},
+      en: "São Tomé Thermal Power Plant"},
+    image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp",
     description: {
       de: "Das Wärmekraftwerk von São Tomé ist die primäre Energiequelle für die Hauptstadt und die umliegenden Gebiete. Die Anlage arbeitet mit Dieselgeneratoren und sichert die Grundlast der Stromversorgung, wenn die Wasserkraft während der Trockenzeit nicht ausreicht. Es ist eine kritische Infrastruktur für das Funktionieren des täglichen Lebens, der Krankenhäuser und der Verwaltung im bevölkerungsreichsten Distrikt des Landes und wird ständig gewartet, um Ausfälle zu minimieren.",
       hu: "A São Tomé-i hőerőmű a főváros és a környező területek elsődleges energiaforrása. A létesítmény dízelgenerátorokkal működik, és biztosítja az áramellátás alapterhelését, amikor a száraz évszakban a vízerőművek teljesítménye nem elegendő. Ez a kritikus infrastruktúra elengedhetetlen a mindennapi élet, a kórházak és a közigazgatás működéséhez az ország legnépesebb körzetében, és folyamatos karbantartás alatt áll a kimaradások minimalizálása érdekében.",
@@ -683,7 +871,20 @@ image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp"
         "Uses imported fossil fuels for energy generation.",
         "Center of the national power company EMAE."
       ]
-    }, image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp"},
+    }, image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wärmekraftwerk São Tomé ist ein Dieselkraftwerk nahe der Hauptstadt. Es wurde 1985 in Betrieb genommen und hat eine installierte Leistung von 10 MW. Das Kraftwerk besteht aus fünf Dieselmotoren und dient als Hauptstromquelle für die Insel, insbesondere in Trockenzeiten, wenn die Wasserkraft nachlässt. Jährlich werden etwa 20 GWh Strom erzeugt. Der Brennstoff wird importiert. Das Kraftwerk wird von EMAE betrieben. In den letzten Jahren wurden die Motoren überholt, um die Effizienz zu verbessern. Es gibt Pläne, auf erneuerbare Energien umzusteigen.",
+      hu: "A São Tomé-i hőerőmű egy dízel erőmű a főváros közelében. 1985-ben helyezték üzembe, és 10 MW beépített teljesítménnyel rendelkezik. Az erőmű öt dízelmotorból áll, és a sziget fő áramforrása, különösen száraz időszakokban, amikor a vízerőművek teljesítménye csökken. Évente mintegy 20 GWh áramot termel. Az üzemanyagot importálják. Az erőművet az EMAE üzemelteti. Az elmúlt években a motorokat felújították a hatékonyság javítása érdekében. Tervezik a megújuló energiaforrásokra való áttérést.",
+      ro: "Centrala termoelectrică São Tomé este o centrală diesel lângă capitală. A fost pusă în funcțiune în 1985, având o putere instalată de 10 MW. Centrala are cinci motoare diesel și este principala sursă de electricitate a insulei, în special în perioadele secetoase când hidrocentralele produc mai puțin. Generează anual aproximativ 20 GWh. Combustibilul este importat. Centrala este operată de EMAE. În ultimii ani, motoarele au fost revizuite pentru eficiență. Există planuri de tranziție către energii regenerabile.",
+      en: "The São Tomé Thermal Power Plant is a diesel-fired facility near the capital, commissioned in 1985 with an installed capacity of 10 MW. It comprises five diesel engines and serves as the island's primary power source, especially during dry periods when hydro output is low. Annual generation is about 20 GWh. Fuel is imported, making electricity production sensitive to global oil prices. Operated by EMAE, the plant has undergone engine overhauls to improve efficiency. Plans are underway to reduce reliance on fossil fuels through renewable integration.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1985", "Installierte Leistung: 10 MW", "Anzahl Dieselmotoren: 5", "Jahresproduktion: ca. 20 GWh", "Brennstoff: importierter Diesel", "Betreiber: EMAE"],
+      hu: ["Üzembe helyezés: 1985", "Telepített teljesítmény: 10 MW", "Dízelmotorok száma: 5", "Éves termelés: kb. 20 GWh", "Üzemanyag: importált dízel", "Üzemeltető: EMAE"],
+      ro: ["Punere în funcțiune: 1985", "Putere instalată: 10 MW", "Număr motoare diesel: 5", "Producție anuală: aproximativ 20 GWh", "Combustibil: motorină importată", "Operator: EMAE"],
+      en: ["Commissioned: 1985", "Installed capacity: 10 MW", "Number of diesel engines: 5", "Annual generation: ~20 GWh", "Fuel: imported diesel", "Operator: EMAE"],
+    },
+  },
   {
     id: "fischverarbeitungszentrum-neves-economic-v2",
     type: "industry",
@@ -693,9 +894,8 @@ image: "/poi-images/waermekraftwerk-sao-tome-economic-v2.webp"
       de: "Fischverarbeitungszentrum Neves",
       hu: "Nevesi halfeldolgozó központ",
       ro: "Centrul de procesare a peștelui Neves",
-      en: "Neves Fish Processing Center",
-image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp"
-},
+      en: "Neves Fish Processing Center"},
+    image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp",
     description: {
       de: "Das Fischverarbeitungszentrum in Neves ist auf die Veredelung und Konservierung der Fangerträge der Westküste spezialisiert. Hier wird der Fisch tiefgefroren, gesalzen oder getrocknet, um ihn für den Transport in entlegenere Regionen oder den Export vorzubereiten. Das Zentrum nutzt moderne Kühlhäuser und Verarbeitungsstraßen, um die hohe Qualität der santomeischen Meeresfrüchte zu erhalten, und bietet den lokalen Fischern einen stabilen Abnehmer für ihre Produkte.",
       hu: "A nevesi halfeldolgozó központ a nyugati part halászati zsákmányának nemesítésére és tartósítására specializálódott. Itt a halat lefagyasztják, sózzák vagy szárítják, hogy felkészítsék a távolabbi régiókba való szállításra vagy exportra. A központ modern hűtőházakat és feldolgozósorokat használ a São Tomé-i tengeri gyümölcsök kiváló minőségének megőrzése érdekében, és stabil felvásárlót biztosít a helyi halászok termékei számára.",
@@ -723,7 +923,20 @@ image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp"
         "Has the largest cold storage capacities in the northwest.",
         "A major contribution to the country's food security."
       ]
-    }, image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp"},
+    }, image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Fischverarbeitungszentrum Neves ist eine moderne Anlage zur Verarbeitung von Meeresfrüchten direkt am Hafen. Es wurde 2010 eröffnet und hat eine jährliche Verarbeitungskapazität von 2.000 Tonnen Fisch. Das Zentrum verfügt über Filetieranlagen, Kühlhäuser und eine Konservenfabrik. Es beschäftigt rund 200 Mitarbeiter, hauptsächlich Frauen. Der verarbeitete Fisch wird nach Europa und in die USA exportiert. Ein Teil der Produktion wird lokal verkauft. Das Zentrum ist nach EU-Standards zertifiziert und hat die lokale Fischindustrie gestärkt.",
+      hu: "A nevesi halfeldolgozó központ egy modern tengeri élelmiszer-feldolgozó üzem közvetlenül a kikötőnél. 2010-ben nyitották meg, és éves feldolgozási kapacitása 2000 tonna hal. A központ filetáló berendezéssel, hűtőházakkal és konzervgyárral rendelkezik. Körülbelül 200 embert foglalkoztat, főként nőket. A feldolgozott halat Európába és az USA-ba exportálják. A termelés egy részét helyben értékesítik. A központ EU-szabványok szerint tanúsított, és erősítette a helyi halászati ipart.",
+      ro: "Centrul de procesare a peștelui Neves este o unitate modernă de procesare a fructelor de mare direct lângă port. Deschis în 2010, are o capacitate anuală de procesare de 2.000 de tone de pește. Centrul dispune de linii de filetare, depozite frigorifice și o fabrică de conserve. Angajează circa 200 de persoane, în mare parte femei. Peștele procesat este exportat în Europa și SUA. O parte din producție este vândută local. Centrul este certificat conform standardelor UE și a consolidat industria locală de pescuit.",
+      en: "The Neves Fish Processing Center is a modern seafood processing facility located right at the port. Opened in 2010, it has an annual processing capacity of 2,000 tonnes of fish. The center includes filleting lines, cold storage, and a canning factory. It employs about 200 people, predominantly women. Processed fish is exported to Europe and the United States, with some local sales. The facility is EU-certified, meeting international quality standards. It has significantly boosted the local fishing industry by adding value to catches and creating stable employment.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2010", "Jährliche Verarbeitungskapazität: 2.000 Tonnen", "Mitarbeiter: ca. 200", "Exportziele: Europa, USA", "Zertifizierung: EU-Standards", "Standort: Hafen Neves"],
+      hu: ["Megnyitás: 2010", "Éves feldolgozási kapacitás: 2000 tonna", "Alkalmazottak: kb. 200", "Export célok: Európa, USA", "Tanúsítvány: EU-szabványok", "Helyszín: Neves kikötő"],
+      ro: ["Deschidere: 2010", "Capacitate anuală de procesare: 2.000 de tone", "Angajați: circa 200", "Destinații export: Europa, SUA", "Certificare: standarde UE", "Locație: portul Neves"],
+      en: ["Opened: 2010", "Annual processing capacity: 2,000 tonnes", "Employees: about 200", "Export destinations: Europe, USA", "Certification: EU standards", "Location: Neves Port"],
+    },
+  },
   {
     id: "anlegestelle-rolas-economic-v2",
     type: "port",
@@ -733,9 +946,8 @@ image: "/poi-images/fischverarbeitungszentrum-neves-economic-v2.webp"
       de: "Anlegestelle der Ilhéu das Rolas",
       hu: "Ilhéu das Rolas móló",
       ro: "Debarcaderul din Ilhéu das Rolas",
-      en: "Ilhéu das Rolas Jetty",
-image: "/poi-images/anlegestelle-rolas-economic-v2.webp"
-},
+      en: "Ilhéu das Rolas Jetty"},
+    image: "/poi-images/anlegestelle-rolas-economic-v2.webp",
     description: {
       de: "Die Anlegestelle auf der kleinen Insel Ilhéu das Rolas ist die einzige Verbindung für den Austausch von Waren und Personen mit der Hauptinsel São Tomé. Als nördlicher Gegenpart zur Anlegestelle von Porto Alegre ist sie der logistische Knotenpunkt für die Bewohner und das Resort auf der Äquatorinsel. Hier werden alle notwendigen Güter für das tägliche Leben an Land gebracht, während sie gleichzeitig der Startpunkt für Bootsausflüge rund um den südlichsten Außenposten des Landes ist.",
       hu: "Az Ilhéu das Rolas kis szigetének mólója az egyetlen kapcsolat az áruk és személyek cseréjéhez a főszigettel, São Toméval. A Porto Alegre-i móló északi ellenpárjaként ez az Egyenlítő-sziget lakóinak és üdülőhelyének logisztikai csomópontja. Itt teszik partra a mindennapi élethez szükséges összes árut, ugyanakkor ez a kiindulópontja az ország legdélibbi előőrse körüli hajókirándulásoknak is.",
@@ -763,7 +975,20 @@ image: "/poi-images/anlegestelle-rolas-economic-v2.webp"
         "Vital supply bridge across the strait.",
         "Known for crystal-clear water directly at the quay."
       ]
-    }, image: "/poi-images/anlegestelle-rolas-economic-v2.webp"},
+    }, image: "/poi-images/anlegestelle-rolas-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Anlegestelle Ilhéu das Rolas ist eine kleine Landungsbrücke auf der gleichnamigen Insel südlich von São Tomé. Sie wurde 2003 erbaut, um Touristen und Einheimische zu dieser Insel zu bringen, die für den Äquator bekannt ist. Die Anlegestelle hat eine Länge von 30 Metern und eine Wassertiefe von 2 Metern. Sie wird von kleinen Booten genutzt, die bis zu 30 Passagiere befördern. Jährlich legen etwa 10.000 Menschen hier an. Die Insel hat etwa 200 Einwohner. Die Anlegestelle ist wichtig für den Tourismus und die lokale Wirtschaft.",
+      hu: "Az Ilhéu das Rolas-i kikötőhely egy kis partraszállási pont a São Tométól délre fekvő azonos nevű szigeten. 2003-ban épült, hogy turistákat és helyieket szállítson erre a szigetre, amely az Egyenlítőről ismert. A kikötőhely 30 méter hosszú, vízmélysége 2 méter. Kisméretű hajók használják, amelyek akár 30 utast is szállíthatnak. Évente mintegy 10.000 ember érkezik ide. A szigetnek körülbelül 200 lakosa van. A kikötőhely fontos a turizmus és a helyi gazdaság számára.",
+      ro: "Ponteul Ilhéu das Rolas este un mic debarcader pe insula omonimă situată la sud de São Tomé. Construit în 2003, este folosit pentru a transporta turiști și localnici pe această insulă cunoscută pentru Ecuator. Pontonul are 30 de metri lungime și o adâncime a apei de 2 metri. Este utilizat de ambarcațiuni mici care pot transporta până la 30 de pasageri. Aproximativ 10.000 de persoane debarcă anual aici. Insula are circa 200 de locuitori. Pontonul este vital pentru turism și economia locală.",
+      en: "Ilhéu das Rolas Jetty is a small landing stage on the eponymous island south of São Tomé, built in 2003 to ferry tourists and locals to this equatorial island. The jetty is 30 meters long with a water depth of 2 meters. It accommodates small boats carrying up to 30 passengers. Approximately 10,000 people land annually. The island has about 200 inhabitants. The jetty is crucial for tourism, which drives the local economy, and for connecting the community to the main island.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 2003", "Länge: 30 Meter", "Wassertiefe: 2 Meter", "Passagierkapazität pro Boot: 30", "Jährliche Ankünfte: ca. 10.000", "Inselbevölkerung: ca. 200"],
+      hu: ["Építés éve: 2003", "Hossz: 30 méter", "Vízmélység: 2 méter", "Hajónkénti utaskapacitás: 30", "Éves érkezők: kb. 10.000", "Sziget lakossága: kb. 200"],
+      ro: ["Anul construcției: 2003", "Lungime: 30 de metri", "Adâncimea apei: 2 metri", "Capacitate pasageri per ambarcațiune: 30", "Sosiri anuale: aproximativ 10.000", "Populația insulei: circa 200"],
+      en: ["Year built: 2003", "Length: 30 meters", "Water depth: 2 meters", "Passenger capacity per boat: 30", "Annual arrivals: ~10,000", "Island population: about 200"],
+    },
+  },
   {
     id: "exportterminal-flughafen-economic-v2",
     type: "industry",
@@ -773,9 +998,8 @@ image: "/poi-images/anlegestelle-rolas-economic-v2.webp"
       de: "Luftexportterminal São Tomé",
       hu: "São Tomé-i légi export terminál",
       ro: "Terminalul de export aerian din São Tomé",
-      en: "São Tomé Air Export Terminal",
-image: "/poi-images/exportterminal-flughafen-economic-v2.webp"
-},
+      en: "São Tomé Air Export Terminal"},
+    image: "/poi-images/exportterminal-flughafen-economic-v2.webp",
     description: {
       de: "Das Luftexportterminal am internationalen Flughafen von São Tomé ist spezialisiert auf den schnellen Versand von leicht verderblichen Gütern und hochwertigen Produkten. Hier werden vor allem frische Fische, exotische Früchte und Premium-Schokolade für den europäischen und afrikanischen Markt verpackt und verladen. Das Terminal verfügt über moderne Kühleinrichtungen und Sicherheitskontrollen, um sicherzustellen, dass die kostbaren Waren des Archipels in perfektem Zustand ihr Ziel erreichen.",
       hu: "A São Tomé-i nemzetközi repülőtéren található légi export terminál a romlandó áruk és kiváló minőségű termékek gyors szállítására specializálódott. Itt elsősorban friss halat, egzotikus gyümölcsöket és prémium csokoládét csomagolnak és rakodnak az európai és afrikai piacokra. A terminál modern hűtőberendezésekkel és biztonsági ellenőrzésekkel rendelkezik, biztosítva, hogy a szigetcsoport értékes árui tökéletes állapotban érkezzenek meg rendeltetési helyükre.",
@@ -803,6 +1027,18 @@ image: "/poi-images/exportterminal-flughafen-economic-v2.webp"
         "Specialized handling of organic products and fresh fish.",
         "Secures fast access for Santomean goods to gourmet markets."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Luftfrachtexportterminal am Flughafen São Tomé wurde 2012 eröffnet. Es ist speziell für den Export von Frischprodukten wie Blumen, Fisch und Gemüse ausgelegt. Das Terminal hat eine Kühlkapazität von 100 Tonnen und eine Frachtabfertigungskapazität von 5.000 Tonnen pro Jahr. Es verfügt über eine moderne Verpackungsstation und Zollerleichterungen. Das Terminal beschäftigt 30 Mitarbeiter. Es ist der wichtigste Knotenpunkt für den Luftfrachtexport des Landes, insbesondere nach Europa. In den letzten Jahren wurden die Anlagen erweitert, um die steigende Nachfrage zu bewältigen.",
+      hu: "A São Tomé-i repülőtér légiáru-exportterminálja 2012-ben nyílt meg. Kifejezetten friss termékek, például virágok, hal és zöldségek exportjára tervezték. A terminál 100 tonna hűtőkapacitással és évi 5000 tonna árukezelési kapacitással rendelkezik. Modern csomagolóállomással és vámkedvezményekkel rendelkezik. A terminál 30 embert foglalkoztat. Ez az ország legfontosabb légiáru-export csomópontja, különösen Európába. Az elmúlt években bővítették a létesítményeket a növekvő kereslet kielégítésére.",
+      ro: "Terminalul de export aerian de pe aeroportul São Tomé a fost deschis în 2012. Este specializat pentru exportul de produse proaspete, cum ar fi flori, pește și legume. Terminalul are o capacitate de refrigerare de 100 de tone și o capacitate de manipulare a mărfurilor de 5.000 de tone pe an. Dispune de o stație modernă de ambalare și de facilități vamale. Terminalul angajează 30 de persoane. Este cel mai important hub pentru exportul aerian al țării, în special către Europa. În ultimii ani, facilitățile au fost extinse pentru a face față cererii crescânde.",
+      en: "The São Tomé Air Export Terminal, opened in 2012, is dedicated to the export of perishable goods such as flowers, fish, and vegetables. The terminal has a cold storage capacity of 100 tonnes and a cargo handling capacity of 5,000 tonnes per year. It includes a modern packing station and streamlined customs processes. The facility employs 30 staff. It serves as the country's main air freight hub for exports, particularly to European markets. Recent expansions have increased capacity to accommodate growing trade volumes.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2012", "Kühlkapazität: 100 Tonnen", "Frachtkapazität: 5.000 Tonnen/Jahr", "Mitarbeiter: 30", "Exportgüter: Blumen, Fisch, Gemüse", "Standort: Flughafen São Tomé"],
+      hu: ["Megnyitás: 2012", "Hűtési kapacitás: 100 tonna", "Árukezelési kapacitás: 5000 tonna/év", "Alkalmazottak: 30", "Export termékek: virágok, hal, zöldségek", "Helyszín: São Tomé-i repülőtér"],
+      ro: ["Deschidere: 2012", "Capacitate frigorifică: 100 de tone", "Capacitate de manipulare: 5.000 de tone/an", "Angajați: 30", "Produse exportate: flori, pește, legume", "Locație: aeroportul São Tomé"],
+      en: ["Opened: 2012", "Cold storage capacity: 100 tonnes", "Cargo capacity: 5,000 tonnes/year", "Employees: 30", "Export goods: flowers, fish, vegetables", "Location: São Tomé Airport"],
+    },
   }
 ];

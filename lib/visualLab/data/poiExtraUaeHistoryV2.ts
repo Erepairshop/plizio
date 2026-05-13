@@ -6,69 +6,116 @@ export const poiExtraUaeHistoryV2: POI[] = [
     type: "monument",
     parent: "AE-DU",
     coords: [55.2997, 25.2635],
-    name: { de: "Al-Fahidi-Fort", hu: "Al Fahidi Erőd", ro: "Fortul Al Fahidi", en: "Al Fahidi Fort",
-image: "/poi-images/al-fahidi-fort-history-v2.webp"
-},
+    name: { de: "Al-Fahidi-Fort", hu: "Al Fahidi Erőd", ro: "Fortul Al Fahidi", en: "Al Fahidi Fort"},
+    image: "/poi-images/al-fahidi-fort-history-v2.webp",
     description: { de: "Das älteste bestehende Gebäude in Dubai diente einst als Verteidigungsanlage, Palast und Gefängnis.", hu: "Dubaj legrégebbi fennmaradt épülete egykor védelmi célokat szolgált, de volt palota és börtön is.", ro: "Cea mai veche clădire existentă din Dubai a servit cândva ca structură de apărare, palat și închisoare.", en: "The oldest existing building in Dubai once served as a defense structure, palace, and prison." },
     facts: {
       de: ["Erbaut im späten 18. Jahrhundert.", "Beherbergt heute das Dubai Museum."],
       hu: ["A 18. század végén épült.", "Ma a Dubaji Múzeumnak ad otthont."],
       ro: ["Construit la sfârșitul secolului al XVIII-lea.", "Găzduiește astăzi Muzeul din Dubai."],
       en: ["Built in the late 18th century.", "Now houses the Dubai Museum."]
-    }, image: "/poi-images/al-fahidi-fort-history-v2.webp"},
+    }, image: "/poi-images/al-fahidi-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Al Fahidi Fort, erbaut um 1799, ist das älteste erhaltene Bauwerk Dubais und beherbergt heute das Dubai Museum. Die Festung diente ursprünglich als Residenz des Herrschers, als Waffenlager und Gefängnis. Ihre Mauern bestehen aus Korallenstein und Mörtel, traditionell für die Region. Im Innenhof befinden sich traditionelle Windtürme (Barajeel), die das Gebäude vor der Hitze schützen. Das Museum zeigt die Entwicklung Dubais vom Fischerdorf zur Metropole mit Artefakten aus der Zeit vor der Ölförderung. Die Anlage wurde 1971 restauriert und 1995 erweitert. Jährlich besuchen über eine Million Touristen das Fort, das als Symbol der Stadt gilt.",
+      hu: "Az Al Fahidi erődöt 1799 körül építették, Dubai legrégebbi épülete. Az erőd jellegzetessége a négyszögletes alaprajz és a belső udvar köré épült védőfalak. Az építőanyag tengeri korallkő, mészhabarcs és fa volt. A belső terekben kiállított tárgyak a 19. századi életmódot mutatják be, beleértve a gyöngybúvárkodás eszközeit, a hagyományos házakat és a kereskedelmi útvonalakat. A torony magassága 14 méter, a falak vastagsága eléri a 2,5 métert. 1971-ben nyitották meg múzeumként, azóta folyamatosan bővítik. A bejáratnál elhelyezett régi vitorlások Dubai tengeri múltját idézik. A belső udvarban egy hagyományos artézi kút is látható.",
+      ro: "Fortăreața Al Fahidi, construită în jurul anului 1799, este cea mai veche clădire din Dubai și găzduiește Muzeul Dubaiului. Edificiul a fost ridicat pentru a proteja orașul de atacurile tribale și pentru a servi ca reședință conducătorilor locali. În cultura tradițională, fortul simbolizează puterea și rezistența comunității, fiind martor al transformării din sat pescăresc în metropolă globală. Zidurile groase de corali și mortar asigurau răcorirea naturală, iar turnurile de vânt (barajeel) facilitau ventilația. Muzeul prezintă obiecte din epoca pre-petrolieră, inclusiv unelte de pescuit, podoabe și arme. În fiecare an, peste 1,2 milioane de vizitatori explorează fortul, care a fost restaurat în 1971 și extins în 1995.",
+      en: "Al Fahidi Fort, dating to circa 1799, is the oldest existing building in Dubai. Located along Dubai Creek, the fort's strategic position allowed control over maritime trade routes. The structure's coral-block and lime mortar walls demonstrate traditional Arabian coastal architecture. Its role evolved from royal residence to arsenal and prison. In 1971, the fort was converted into the Dubai Museum, showcasing the emirate's rapid urbanization. The fort's square layout covers an area of approximately 900 square meters, with two towers rising to 14 meters. The surrounding Al Fahidi Historical Neighbourhood preserves traditional wind-tower houses. The museum attracts over 1 million visitors annually and serves as a key symbol of Dubai's heritage.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1799, Al Fahidi Fort ist das älteste Gebäude Dubais.", "Die Festungsmauern bestehen aus Korallenstein und Mörtel.", "Die Türme erreichen eine Höhe von 14 Metern.", "Das Fort beherbergt das Dubai Museum seit 1971.", "Jährlich besuchen über 1,2 Millionen Menschen das Museum.", "Die Grundfläche des Forts beträgt etwa 900 Quadratmeter."],
+      hu: ["Az erőd 1799 körül épült, Dubai legrégebbi épülete.", "Az erőd négyszögletes alaprajzú, 900 négyzetméteren.", "A falak vastagsága 2,5 méter a torony tövénél.", "A belső udvarban egy 18. századi artézi kút található.", "1971-ben nyitották meg múzeumként.", "A múzeum évente 1,2 millió látogatót fogad."],
+      ro: ["Fortul a fost construit în jurul anului 1799.", "Zidurile sunt din piatră de corali și mortar, groase de 2,5 metri.", "Turnurile au o înălțime de 14 metri.", "Muzeul Dubaiului funcționează aici din 1971.", "Suprafața fortului este de 900 de metri pătrați.", "Peste 1 milion de turiști îl vizitează anual."],
+      en: ["Built around 1799, Al Fahidi Fort is Dubai's oldest surviving structure.", "The fort's walls are made of coral stone and lime mortar.", "Its towers rise to a height of 14 meters.", "The fort was converted into Dubai Museum in 1971.", "Annual visitation exceeds 1.2 million people.", "The fort covers approximately 900 square meters."],
+    },
+  },
   {
     id: "al-ahmadiya-school-history-v2",
     type: "historical-site",
     parent: "AE-DU",
     coords: [55.2965, 25.2690],
-    name: { de: "Al-Ahmadiya-Schule", hu: "Al-Ahmadiya Iskola", ro: "Școala Al-Ahmadiya", en: "Al Ahmadiya School",
-image: "/poi-images/al-ahmadiya-school-history-v2.webp"
-},
+    name: { de: "Al-Ahmadiya-Schule", hu: "Al-Ahmadiya Iskola", ro: "Școala Al-Ahmadiya", en: "Al Ahmadiya School"},
+    image: "/poi-images/al-ahmadiya-school-history-v2.webp",
     description: { de: "Die erste reguläre Bildungseinrichtung in Dubai, die einen großen Beitrag zur Entwicklung der lokalen Gesellschaft leistete.", hu: "Az első rendszeres oktatási intézmény Dubajban, amely nagyban hozzájárult a helyi társadalom fejlődéséhez.", ro: "Prima instituție de învățământ obișnuită din Dubai, care a contribuit major la dezvoltarea societății locale.", en: "The first regular educational institution in Dubai, which made a major contribution to the development of the local society." },
     facts: {
       de: ["Wurde 1912 gegründet.", "Diente bis 1958 als aktive Schule."],
       hu: ["1912-ben alapították.", "1958-ig működött aktív iskolaként."],
       ro: ["A fost fondată în 1912.", "A funcționat ca școală activă până în 1958."],
       en: ["Founded in 1912.", "Served as an active school until 1958."]
-    }, image: "/poi-images/al-ahmadiya-school-history-v2.webp"},
+    }, image: "/poi-images/al-ahmadiya-school-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al Ahmadiya Schule wurde 1912 gegründet und ist eine der ältesten Bildungseinrichtungen in Dubai. Ursprünglich von einem lokalen Kaufmann gestiftet, bot sie traditionelle islamische Bildung und moderne Fächer. Das Schulgebäude aus Korallenstein verfügt über einen zentralen Hof und Windtürme. 1963 geschlossen, wurde es 1995 in ein Museum umgewandelt, das die Bildungsgeschichte Dubais zeigt. Die Schule spielte eine Schlüsselrolle in der Alphabetisierung der Bevölkerung vor der Ölzeit. Sie bot Platz für bis zu 400 Schüler und lehrte Fächer wie Mathematik, Koranwissenschaften und Arabisch. Die Architektur spiegelt den traditionellen Baustil der Region wider.",
+      hu: "Az Al Ahmadiya iskola 1912-ben nyílt meg Dubai első formalizált oktatási intézményeként. Az épület egyiptomi és perzsa hatásokat mutat, belső udvarral és szélfogókkal. Az iskola tananyagában a Korán, a matematika és a csillagászat szerepelt. 1963-ban bezárták, de 1995-ben múzeumként nyitott újra. A kiállítások között vannak régi tankönyvek, íróeszközök és osztálytermi berendezések. Az iskola épülete 800 négyzetméteren terül el. Az intézmény az arab oktatás fejlődésének fontos állomása.",
+      ro: "Școala Al Ahmadiya, fondată în 1912, reprezintă prima școală formală din Dubai. Clădirea, construită din piatră de corali și ipsos, include o curte interioară și turnuri de vânt. A oferit educație religioasă și laică, inclusiv matematică și astronomie. A fost închisă în 1963, iar în 1995 a fost transformată în muzeu. Muzeul prezintă materiale didactice originale, documente istorice și aspecte ale vieții școlare. Această instituție a contribuit semnificativ la creșterea ratei de alfabetizare în Emiratele Arabe Unite înainte de era petrolului.",
+      en: "Al Ahmadiya School, established in 1912, is the oldest formal school in Dubai. It was founded by a wealthy pearl merchant to provide both religious and secular education. The school building features traditional wind-tower architecture and a central courtyard. It operated until 1963, educating notable figures including Sheikh Rashid bin Saeed Al Maktoum. In 1995, the structure was restored and reopened as a museum. The school could accommodate up to 400 students. Its curriculum included mathematics, history, and Quranic studies. The museum exhibits original classroom furniture and textbooks, offering insight into early 20th-century education in the Gulf.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1912, erste formelle Schule Dubais.", "Gebäude aus Korallenstein und Gipsmörtel.", "Die Schule hatte Platz für 400 Schüler.", "1963 geschlossen, 1995 als Museum wiedereröffnet.", "Das Gebäude erstreckt sich über 800 Quadratmeter.", "Zu den Schülern gehörte Scheich Raschid bin Saeed Al Maktoum."],
+      hu: ["1912-ben alapították, Dubai első iskolája.", "Az épület 800 négyzetméteres.", "Legfeljebb 400 diák tanult egyszerre.", "1963-ban zárt be, 1995-ben nyitott múzeumként.", "Tananyagában szerepelt csillagászat és matematika.", "Az iskola egyik diákja volt a későbbi uralkodó, Sheikh Rashid."],
+      ro: ["Fondată în 1912, prima școală din Dubai.", "Clădirea are 800 de metri pătrați.", "Capacitatea era de 400 de elevi.", "Închis în 1963, redeschis ca muzeu în 1995.", "Predau inclusiv astronomie și matematică.", "Printre absolvenți se numără Sheikh Rashid bin Saeed Al Maktoum."],
+      en: ["Founded in 1912, the first formal school in Dubai.", "The building covers an area of 800 square meters.", "It could accommodate up to 400 students.", "The school closed in 1963 and reopened as a museum in 1995.", "Subjects included mathematics, astronomy, and Quranic studies.", "Notable alumnus: Sheikh Rashid bin Saeed Al Maktoum."],
+    },
+  },
   {
     id: "jazirat-al-hamra-ghost-town-history-v2",
     type: "ruin",
     parent: "AE-RK",
     coords: [55.7958, 25.7088],
-    name: { de: "Geisterstadt Jazirat Al Hamra", hu: "Jazirat Al Hamra Szellemváros", ro: "Orașul Fantomă Jazirat Al Hamra", en: "Jazirat Al Hamra Ghost Town",
-image: "/poi-images/jazirat-al-hamra-ghost-town-history-v2.webp"
-},
+    name: { de: "Geisterstadt Jazirat Al Hamra", hu: "Jazirat Al Hamra Szellemváros", ro: "Orașul Fantomă Jazirat Al Hamra", en: "Jazirat Al Hamra Ghost Town"},
+    image: "/poi-images/jazirat-al-hamra-ghost-town-history-v2.webp",
     description: { de: "Ein komplett verlassenes Dorf, das authentische Einblicke in das traditionelle Leben vor dem Ölboom bietet.", hu: "Egy teljesen elhagyatott falu, amely hiteles betekintést enged az olajkorszak előtti hagyományos életbe.", ro: "Un sat complet abandonat care oferă o privire autentică asupra vieții tradiționale dinainte de boom-ul petrolier.", en: "A completely abandoned village offering an authentic glimpse into traditional life before the oil boom." },
     facts: {
       de: ["Wurde in den 1960er Jahren verlassen.", "Viele Gebäude bestehen aus Korallenstein."],
       hu: ["Az 1960-as években hagyták el.", "Sok épület korallkőből épült."],
       ro: ["A fost abandonat în anii 1960.", "Multe clădiri sunt construite din piatră de coral."],
       en: ["Abandoned in the 1960s.", "Many buildings are constructed from coral stone."]
-    }, image: "/poi-images/jazirat-al-hamra-ghost-town-history-v2.webp"},
+    }, image: "/poi-images/jazirat-al-hamra-ghost-town-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Jazirat Al Hamra ist eine verlassene Geisterstadt im Emirat Ras Al Khaimah, die bis in die 1970er Jahre bewohnt war. Das Dorf bestand aus über 100 traditionellen Häusern aus Korallenstein und Gips, mit engen Gassen und Basarstrukturen. Die Bewohner waren hauptsächlich Fischer und Perlenfischer. Nach dem Ölboom zogen viele in moderne Städte. Der Ort wird heute von der Regierung als Kulturerbe-Stätte erhalten. Die Moschee aus dem 18. Jahrhundert steht noch. Die Stadt vermittelt einen authentischen Einblick in das Leben vor der Modernisierung.",
+      hu: "Jazirat Al Hamra szellemváros Rász el-Haimában, ahol a 20. század közepéig éltek emberek. A településen 130-nál több ház található, amelyek korallkőből és agyagból épültek. A helyi lakosság gyöngybúvárkodásból és halászatból élt. Az 1970-es években elhagyták, amikor az állam modern lakhatást kínált. Ma múzeumként és filmforgatási helyszínként szolgál. Kiemelkedő épület a régi erőd és a piac. A várost a Kulturális Minisztérium védi.",
+      ro: "Jazirat Al Hamra este un oraș fantomă din Ras Al Khaimah, Emiratele Arabe Unite, abandonat în anii 1970. Așezarea cuprinde 130 de case tradiționale construite din piatră de corali și tencuială de var. Străzile înguste și souk-ul reflectă arhitectura arabă de coastă. Populația, în principal pescari și scafandri de perle, a părăsit orașul când guvernul a oferit locuințe moderne. Situl este acum protejat și restaurat parțial, fiind o atracție turistică importantă. Moscheea veche datează din secolul al XVIII-lea.",
+      en: "Jazirat Al Hamra is a preserved ghost town in Ras Al Khaimah, abandoned in the late 20th century. The settlement features over 130 coral-stone houses with traditional barajeel wind towers. It was a thriving pearling and fishing community until economic shifts led to its desertion. The site retains its original layout, including a mosque, souq, and defensive tower. In 2017, the government initiated a restoration project to stabilize the structures. The town covers approximately 100,000 square meters and offers a rare glimpse into pre-oil Gulf life. It has been used as a filming location for historical dramas.",
+    },
+    factsAdvanced: {
+      de: ["Über 130 traditionelle Häuser aus Korallenstein.", "Bewohnt bis in die 1970er Jahre.", "Die Moschee stammt aus dem 18. Jahrhundert.", "Das Gelände umfasst rund 10 Hektar.", "Filmkulisse für historische Produktionen.", "Restaurierungsprojekt begann 2017."],
+      hu: ["130 házból álló szellemváros.", "Az 1970-es években hagyták el.", "A mecset a 18. században épült.", "Területe körülbelül 100 000 négyzetméter.", "Filmforgatások helyszíne.", "2017-ben kezdték a helyreállítást."],
+      ro: ["Peste 130 de case tradiționale din piatră de corali.", "Abandonat în anii 1970.", "Moscheea datează din secolul al XVIII-lea.", "Suprafața sitului este de aproximativ 10 hectare.", "Folosit ca decor pentru filme istorice.", "Proiect de restaurare început în 2017."],
+      en: ["Contains over 130 traditional coral-stone houses.", "Inhabited until the 1970s.", "The mosque dates from the 18th century.", "The site covers approximately 10 hectares.", "Used as a filming location for historical movies.", "Restoration project initiated in 2017."],
+    },
+  },
   {
     id: "bidaa-bint-saud-history-v2",
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7202, 24.3644],
-    name: { de: "Archäologische Stätte Bidaa Bint Saud", hu: "Bidaa Bint Saud Régészeti Lelőhely", ro: "Situl Arheologic Bidaa Bint Saud", en: "Bidaa Bint Saud Archaeological Site",
-image: "/poi-images/bidaa-bint-saud-history-v2.webp"
-},
+    name: { de: "Archäologische Stätte Bidaa Bint Saud", hu: "Bidaa Bint Saud Régészeti Lelőhely", ro: "Situl Arheologic Bidaa Bint Saud", en: "Bidaa Bint Saud Archaeological Site"},
+    image: "/poi-images/bidaa-bint-saud-history-v2.webp",
     description: { de: "Eine bedeutende Stätte mit Grabmälern aus der Bronzezeit und Überresten von Bewässerungssystemen aus der Eisenzeit.", hu: "Jelentős lelőhely bronzkori sírokkal és vaskori öntözőrendszerek maradványaival.", ro: "Un sit important cu morminte din Epoca Bronzului și rămășițe ale sistemelor de irigații din Epoca Fierului.", en: "An important site featuring Bronze Age tombs and remains of Iron Age irrigation systems." },
     facts: {
       de: ["Liegt etwa 25 Kilometer von Al Ain entfernt.", "Dort gefundene Töpferwaren sind sehr charakteristisch."],
       hu: ["Körülbelül 25 kilométerre fekszik Al Aintól.", "Az itt talált fazekastermékek nagyon jellegzetesek."],
       ro: ["Situat la aproximativ 25 de kilometri de Al Ain.", "Ceramica găsită aici este foarte caracteristică."],
       en: ["Located about 25 kilometers from Al Ain.", "Pottery found here is highly distinctive."]
-    }, image: "/poi-images/bidaa-bint-saud-history-v2.webp"},
+    }, image: "/poi-images/bidaa-bint-saud-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Bidaa Bint Saud ist eine archäologische Stätte in den Bergen von Ras Al Khaimah, die auf die Bronze- und Eisenzeit zurückgeht. Die Stätte umfasst mehrere Grabhügel und eine befestigte Siedlung. Eine der bekanntesten Strukturen ist eine runde Steinstruktur mit einem Durchmesser von 35 Metern, die als astronomisches Observatorium interpretiert wird. Die Ausgrabungen haben Töpferwaren, Waffen und Schmuck zutage gefördert, die auf Handelsbeziehungen mit Mesopotamien und der Indus-Zivilisation hinweisen. Die Stätte stammt aus dem 3. Jahrtausend v. Chr. und ist seit 2014 als UNESCO-Weltkulturerbe nominiert.",
+      hu: "Bidaa Bint Saud egy fontos bronzkori és vaskori régészeti lelőhely Ras Al Khaimah hegyeiben. A területen több sírhalom található, valamint egy kör alakú kőépítmény, amelyet csillagászati megfigyelésre használhattak. A leletek között vannak cserépedények, réztárgyak és gyöngyök. A helyi néphagyomány szerint a terület egy régi uralkodó nevét viseli. A lelőhely kora i.e. 2500–2000 évre tehető. Az itt talált tárgyak bizonyítják a távolsági kereskedelmet.",
+      ro: "Bidaa Bint Saud este un sit arheologic din epoca bronzului și a fierului, situat în munții Ras Al Khaimah. Include movile funerare și o structură circulară de piatră cu diametrul de 35 de metri, posibil un observator astronomic. Săpăturile au scos la lumină ceramică, arme și bijuterii care atestă legături comerciale cu Mesopotamia și civilizația Indusului. Situl datează din mileniul III î.Hr. și a fost propus pentru Patrimoniul Mondial UNESCO în 2014.",
+      en: "Bidaa Bint Saud is an archaeological site in Ras Al Khaimah dating to the Bronze and Iron Ages. The site features several tombs and a large circular stone structure, 35 meters in diameter, believed to be an ancient astronomical observatory. Artifacts include pottery, copper weapons, and beads linking the region to Mesopotamia and the Indus Valley. The site was inhabited from around 2500 BCE to 1300 BCE. Excavations began in the 1990s, revealing a sophisticated early settlement. It was submitted to UNESCO's tentative World Heritage list in 2014.",
+    },
+    factsAdvanced: {
+      de: ["Archäologische Stätte aus dem 3. Jahrtausend v. Chr.", "Runde Steinstruktur mit 35 Metern Durchmesser.", "Fund von Töpferwaren und Kupferwaffen.", "Auf der UNESCO-Vorschlagsliste seit 2014.", "Ausgrabungen begannen in den 1990er Jahren.", "Belege für Handel mit Mesopotamien."],
+      hu: ["A lelőhely i.e. 2500-ig nyúlik vissza.", "Kör alakú kőépítmény, 35 méter átmérőjű.", "Kerámia és rézeszközök kerültek elő.", "2014 óta UNESCO javaslati listán.", "Az ásatások az 1990-es években kezdődtek.", "Mesopotámiával folytatott kereskedelmet igazol."],
+      ro: ["Sit datând din mileniul III î.Hr.", "Structură circulară de piatră cu diametrul de 35 m.", "Descoperiri de ceramică și arme de cupru.", "Pe lista tentativă UNESCO din 2014.", "Săpături începute în anii 1990.", "Dovezi de comerț cu Mesopotamia."],
+      en: ["Site dates to the 3rd millennium BCE.", "Circular stone structure 35 meters in diameter.", "Finds include pottery and copper weapons.", "On UNESCO Tentative List since 2014.", "Excavations began in the 1990s.", "Evidence of trade with Mesopotamia."],
+    },
+  },
   {
     id: "jebel-buhais-history-v2",
     type: "ruin",
     parent: "AE-SH",
     coords: [55.7972, 25.0113],
-    name: { de: "Archäologische Stätte Jebel Buhais", hu: "Jebel Buhais Régészeti Lelőhely", ro: "Situl Arheologic Jebel Buhais", en: "Jebel Buhais Archaeological Site",
-image: "/poi-images/jebel-buhais-history-v2.webp"
-},
+    name: { de: "Archäologische Stätte Jebel Buhais", hu: "Jebel Buhais Régészeti Lelőhely", ro: "Situl Arheologic Jebel Buhais", en: "Jebel Buhais Archaeological Site"},
+    image: "/poi-images/jebel-buhais-history-v2.webp",
     description: { de: "Diese Stätte offenbart faszinierende Grabstätten und Skelettfunde, die bis in die Steinzeit zurückreichen.", hu: "Ez a lelőhely lenyűgöző sírokat és csontvázleleteket tár fel, amelyek egészen a kőkorszakig nyúlnak vissza.", ro: "Acest sit dezvăluie morminte fascinante și schelete care datează încă din Epoca de Piatră.", en: "This site reveals fascinating burial grounds and skeletal finds dating back to the Stone Age." },
     facts: {
       de: ["Befindet sich im Landesinneren von Sharjah.", "Es wurden hunderte menschliche Überreste entdeckt."],
@@ -82,176 +129,305 @@ image: "/poi-images/jebel-buhais-history-v2.webp"
     type: "monument",
     parent: "AE-FU",
     coords: [56.3333, 25.1555],
-    name: { de: "Festung Sakamkam", hu: "Sakamkam Erőd", ro: "Fortul Sakamkam", en: "Sakamkam Fort",
-image: "/poi-images/sakamkam-fort-history-v2.webp"
-},
+    name: { de: "Festung Sakamkam", hu: "Sakamkam Erőd", ro: "Fortul Sakamkam", en: "Sakamkam Fort"},
+    image: "/poi-images/sakamkam-fort-history-v2.webp",
     description: { de: "Ein kleiner, aber historisch wichtiger runder Wachturm, der einst die Umgebung von Fujairah überblickte.", hu: "Egy kicsi, de történelmileg fontos kerek őrtorony, amely egykor a fudzsejrai vidéket pásztázta.", ro: "Un turn de veghe rotund, mic dar important din punct de vedere istoric, care supraveghea odată împrejurimile orașului Fujairah.", en: "A small but historically important round watchtower that once overlooked the surroundings of Fujairah." },
     facts: {
       de: ["Restauriert im Jahr 2001.", "Der Turm hat eine charakteristische kreisrunde Form."],
       hu: ["2001-ben restaurálták.", "A torony jellegzetes kör alakú."],
       ro: ["Restaurat în anul 2001.", "Turnul are o formă circulară distinctivă."],
       en: ["Restored in 2001.", "The tower has a distinctive circular shape."]
-    }, image: "/poi-images/sakamkam-fort-history-v2.webp"},
+    }, image: "/poi-images/sakamkam-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Sakamkam Fort liegt im Emirat Fujairah und stammt aus dem 18. Jahrhundert. Die Festung diente zum Schutz der Oase und der Handelswege. Sie ist aus Stein und Lehmziegeln erbaut und hat zwei Türme. Der Hauptturm ist 12 Meter hoch. Im 19. Jahrhundert wurde das Fort mehrfach umgebaut. Heute ist es eine Touristenattraktion und Veranstaltungsort. Die Anlage bietet einen Blick auf die umliegenden Berge. Restaurierungsarbeiten fanden 2003 statt. Das Fort ist ein Beispiel für die traditionelle Militärarchitektur der Vereinigten Arabischen Emirate.",
+      hu: "A Sakamkam erőd Fudzsejrában található, a 18. században épült. Két toronnyal rendelkezik, a főtorony 12 méter magas. Az erőd falai kőből és vályogból készültek. Fontos szerepet játszott a karavánutak védelmében. 2003-ban felújították. Ma kulturális eseményeknek ad otthont. Az erőd belső udvarában egy kút található. A helyszín szép kilátást nyújt a Hajar-hegységre.",
+      ro: "Fortul Sakamkam din Fujairah datează din secolul al XVIII-lea. Este construit din piatră și cărămidă de noroi, având două turnuri, cel principal înalt de 12 metri. A servit ca apărare pentru oaze și rute comerciale. A fost restaurat în 2003. Astăzi este o atracție turistică și găzduiește evenimente culturale. O fântână în curtea interioară asigura apa. Poziționarea strategică oferă vedere la Munții Hajar.",
+      en: "Sakamkam Fort is an 18th-century fortification in Fujairah, built from stone and mud brick. It features two circular towers; the main tower stands 12 meters tall. The fort protected the fertile Wadi region and trade routes. It underwent restoration in 2003. The interior contains a well and storage rooms. The fort's design reflects Omani architectural influence common in the region. It is now a popular heritage site, hosting cultural festivals. The surrounding area includes ancient irrigation systems (aflaj) still in use.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert in Fujairah.", "Hauptturm 12 Meter hoch.", "Material: Stein und Lehmziegel.", "Restauriert 2003.", "Verfügt über zwei Türme.", "Ursprünglich Schutz einer Oase."],
+      hu: ["18. századi erőd Fudzsejrában.", "Főtorony magassága 12 méter.", "Kőből és vályogból épült.", "2003-ban restaurálták.", "Két tornya van.", "Védte a karavánutakat."],
+      ro: ["Construit în secolul al XVIII-lea în Fujairah.", "Turnul principal înalt de 12 metri.", "Construit din piatră și cărămidă de noroi.", "Restaurat în 2003.", "Are două turnuri.", "Apăra oazele și rutele comerciale."],
+      en: ["Built in the 18th century in Fujairah.", "Main tower is 12 meters high.", "Constructed from stone and mud brick.", "Restored in 2003.", "Features two towers.", "Originally protected oasis and trade routes."],
+    },
+  },
   {
     id: "awhlah-fort-history-v2",
     type: "monument",
     parent: "AE-FU",
     coords: [56.2995, 24.8465],
-    name: { de: "Festung Awhlah", hu: "Awhlah Erőd", ro: "Fortul Awhlah", en: "Awhlah Fort",
-image: "/poi-images/awhlah-fort-history-v2.webp"
-},
+    name: { de: "Festung Awhlah", hu: "Awhlah Erőd", ro: "Fortul Awhlah", en: "Awhlah Fort"},
+    image: "/poi-images/awhlah-fort-history-v2.webp",
     description: { de: "Eine abgelegene Bergfestung mit einem massiven Rundturm, die eine strategische Bergroute nahe der omanischen Grenze schützte.", hu: "Egy távoli hegyi erőd masszív kör alakú toronnyal, amely egy stratégiai hegyi utat védett az ománi határ közelében.", ro: "Un fort montan izolat cu un turn rotund masiv, care proteja o rută montană strategică lângă granița cu Oman.", en: "A remote mountain fort with a massive round tower that protected a strategic mountain route near the Omani border." },
     facts: {
       de: ["Es hat dicke Mauern aus behauenen Steinen.", "Liegt in einer schwer zugänglichen Berglandschaft."],
       hu: ["Vastag, faragott kövekből álló falai vannak.", "Nehezen megközelíthető hegyvidéki tájon fekszik."],
       ro: ["Are pereți groși din pietre tăiate.", "Este situat într-un peisaj montan greu accesibil."],
       en: ["It has thick walls made of hewn stones.", "Located in a hard-to-reach mountainous landscape."]
-    }, image: "/poi-images/awhlah-fort-history-v2.webp"},
+    }, image: "/poi-images/awhlah-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Awhlah Fort befindet sich im Emirat Ras Al Khaimah und stammt aus dem 19. Jahrhundert. Die Festung liegt strategisch auf einem Hügel und diente als Wachturm und Zufluchtsort. Das Gebäude ist rechteckig mit Ecktürmen. Es wurde aus Stein, Gips und Palmblättern erbaut. Im Inneren gibt es mehrere Räume und einen Hof. Das Fort wurde 2015 restauriert. Es bietet einen Panoramablick über die Wüste. Die Anlage ist Teil des nationalen Kulturerbes.",
+      hu: "Az Awhlah erőd Rász el-Haimában található, a 19. században épült. Négyszögletes alaprajzú, négy toronnyal. Anyaga kő és gipsz. A belső udvarban egy kút és lakóhelyiségek vannak. 2015-ben felújították. A dombtetőn áll, így kilátás nyílik a környező sivatagra. Az erőd fontos szerepet játszott a törzsi konfliktusok idején.",
+      ro: "Fortul Awhlah din Ras Al Khaimah a fost construit în secolul al XIX-lea. Este o structură dreptunghiulară cu turnuri de colț, construită din piatră și tencuială de var. A servit ca punct de observație și refugiu. Restaurat în 2015, fortul oferă vedere panoramică asupra deșertului. În curte se află o fântână și camere de locuit. Este protejat ca patrimoniu cultural.",
+      en: "Awhlah Fort in Ras Al Khaimah is a 19th-century mountain fortification. Rectangular in plan with four corner towers, it is built of stone, lime mortar, and palm wood. The fort provided surveillance over the surrounding plains and routes. It was restored in 2015 using traditional techniques. The fort's interior includes a well, storage rooms, and a small mosque. Its elevated position at 300 meters above sea level offers strategic views. The site is part of the UAE's cultural heritage program.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 19. Jahrhundert in Ras Al Khaimah.", "Viereckiger Grundriss mit vier Ecktürmen.", "Höhe über dem Meeresspiegel: 300 Meter.", "2015 restauriert.", "Enthält eine kleine Moschee im Inneren.", "Material: Stein, Gips und Palmenholz."],
+      hu: ["19. századi erőd Rász el-Haimában.", "Négy toronnyal rendelkező négyszögletes épület.", "Tengerszint feletti magassága 300 méter.", "2015-ben restaurálták.", "Belső mecset található.", "Kőből, gipszből és pálmafából épült."],
+      ro: ["Construit în secolul al XIX-lea în Ras Al Khaimah.", "Plan dreptunghiular cu patru turnuri de colț.", "Altitudinea de 300 de metri deasupra mării.", "Restaurat în 2015.", "Include o moschee mică în interior.", "Construit din piatră, tencuială și lemn de palmier."],
+      en: ["Built in the 19th century in Ras Al Khaimah.", "Rectangular layout with four corner towers.", "Elevation 300 meters above sea level.", "Restored in 2015.", "Contains a small mosque inside.", "Constructed from stone, lime mortar, and palm wood."],
+    },
+  },
   {
     id: "umm-an-nar-site-history-v2",
     type: "historical-site",
     parent: "AE-AZ",
     coords: [54.4988, 24.4428],
-    name: { de: "Umm an-Nar Archäologische Stätte", hu: "Umm an-Nar Régészeti Lelőhely", ro: "Situl Arheologic Umm an-Nar", en: "Umm an-Nar Archaeological Site",
-image: "/poi-images/umm-an-nar-site-history-v2.webp"
-},
+    name: { de: "Umm an-Nar Archäologische Stätte", hu: "Umm an-Nar Régészeti Lelőhely", ro: "Situl Arheologic Umm an-Nar", en: "Umm an-Nar Archaeological Site"},
+    image: "/poi-images/umm-an-nar-site-history-v2.webp",
     description: { de: "Eine kleine Insel in der Nähe von Abu Dhabi, auf der außergewöhnliche kreisförmige Grabbauten einer alten Kultur entdeckt wurden.", hu: "Egy kis sziget Abu-Dzabi közelében, ahol egy ősi kultúra kivételes, kör alakú sírépítményeit fedezték fel.", ro: "O mică insulă lângă Abu Dhabi unde au fost descoperite structuri funerare circulare excepționale ale unei culturi antice.", en: "A small island near Abu Dhabi where exceptional circular tomb structures of an ancient culture were discovered." },
     facts: {
       de: ["Namensgeber für die Umm-an-Nar-Kultur (2600-2000 v. Chr.).", "Berühmt für die fein gearbeiteten Steinblöcke der Gräber."],
       hu: ["Az Umm an-Nar kultúra (i. e. 2600-2000) névadója.", "Híres a sírok finoman megmunkált kőtömbjeiről."],
       ro: ["Dă numele culturii Umm an-Nar (2600-2000 î.Hr.).", "Renumit pentru blocurile de piatră fin lucrate ale mormintelor."],
       en: ["Namesake for the Umm an-Nar culture (2600-2000 BC).", "Famous for the finely crafted stone blocks of the tombs."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Umm an-Nar ist eine archäologische Stätte auf der gleichnamigen Insel vor Abu Dhabi. Sie gab einer ganzen Bronzezeitkultur (2600–2000 v. Chr.) ihren Namen. Die Stätte umfasst runde Steingräber mit einem Durchmesser von bis zu 12 Metern. Die Gräber enthalten Mehrfachbestattungen und Beigaben wie Keramik, Perlen und Kupfergegenstände. Die Funde belegen Handel mit der Indus-Zivilisation, Mesopotamien und dem Iran. Die Stätte wurde 1959 entdeckt und 1960–1964 ausgegraben. Sie ist seit 2011 im UNESCO-Vorauswahlverfahren. Die Insel ist unbewohnt und steht unter Naturschutz.",
+      hu: "Umm an-Nar egy bronzkori régészeti helyszín az Abu Dhabi-i szigeten. A névadó kultúra i.e. 2600–2000 között virágzott. A kör alakú kősírok átmérője eléri a 12 métert. A sírokban több ember holtteste és tárgyak, például kerámia, réztárgyak és Indus-völgyi pecsétek találhatók. A lelőhelyet 1959-ben fedezték fel. Fontos bizonyíték a korai nemzetközi kereskedelemre. A sziget ma természetvédelmi terület.",
+      ro: "Umm an-Nar este un sit arheologic pe o insulă din Abu Dhabi, care dă numele unei culturi a epocii bronzului (2600–2000 î.Hr.). Mormintele circulare din piatră au un diametru de până la 12 metri. Conțin înmormântări multiple și obiecte precum ceramică, perle și sigilii din Valea Indusului. Situl a fost descoperit în 1959 și excavat între 1960–1964. Insula este acum o rezervație naturală.",
+      en: "Umm an-Nar is an archaeological site on an island off Abu Dhabi, named the type site for the Umm an-Nar culture (2600–2000 BCE). The site features circular stone tombs up to 12 meters in diameter, containing multiple burials and grave goods. Artifacts include Mesopotamian pottery, Indus Valley seals, and copper objects, indicating extensive trade networks. The site was discovered in 1959 and excavated by a Danish team. It is a UNESCO tentative World Heritage site since 2011. The island is uninhabited and protected for its archaeological and natural significance.",
+    },
+    factsAdvanced: {
+      de: ["Typusfundort der Umm-an-Nar-Kultur (2600–2000 v. Chr.).", "Runde Steingräber bis 12 Meter Durchmesser.", "Entdeckt 1959.", "Ausgrabungen 1960–1964 durch dänisches Team.", "UNESCO-Vorauswahl seit 2011.", "Enthält Indus-Tal-Siegel."],
+      hu: ["Umm an-Nar kultúra típuslelőhelye (i.e. 2600–2000).", "Kör alakú kősírok, átmérő max. 12 m.", "1959-ben fedezték fel.", "1960–1964 között tárták fel dán csapat.", "UNESCO előzetes listán 2011 óta.", "Indus-völgyi pecsétek kerültek elő."],
+      ro: ["Sit tip pentru cultura Umm an-Nar (2600–2000 î.Hr.).", "Morminte circulare de piatră cu diametru de până la 12 m.", "Descoperit în 1959.", "Săpături între 1960–1964 de o echipă daneză.", "Pe lista tentativă UNESCO din 2011.", "Sigilii din Valea Indusului găsite."],
+      en: ["Type site of Umm an-Nar culture (2600–2000 BCE).", "Circular stone tombs up to 12 m in diameter.", "Discovered in 1959.", "Excavated 1960–1964 by Danish team.", "UNESCO tentative list since 2011.", "Indus Valley seals found."],
+    },
   },
   {
     id: "dalma-pearl-center-history-v2",
     type: "historical-site",
     parent: "AE-AZ",
     coords: [52.3175, 24.4844],
-    name: { de: "Altes Perlenzentrum Dalma", hu: "Dalma Ősi Gyöngyhalászati Központ", ro: "Vechiul Centru de Perle Dalma", en: "Dalma Old Pearl Diving Center",
-image: "/poi-images/dalma-pearl-center-history-v2.webp"
-},
+    name: { de: "Altes Perlenzentrum Dalma", hu: "Dalma Ősi Gyöngyhalászati Központ", ro: "Vechiul Centru de Perle Dalma", en: "Dalma Old Pearl Diving Center"},
+    image: "/poi-images/dalma-pearl-center-history-v2.webp",
     description: { de: "Auf der Insel Dalma zeugen alte Gebäude von der Zeit, als dieser Ort ein florierender Knotenpunkt für den Perlenhandel war.", hu: "Dalma szigetén régi épületek tanúskodnak arról az időről, amikor ez a hely a gyöngykereskedelem virágzó központja volt.", ro: "Pe insula Dalma, clădiri vechi stau mărturie a perioadei în care acest loc era un centru prosper pentru comerțul cu perle.", en: "On Dalma Island, old buildings bear witness to the time when this place was a thriving hub for the pearl trade." },
     facts: {
       de: ["Es gibt hier prähistorische Spuren von Dattelempfang.", "Beherbergte einst Tausende von Perlenfischern in der Saison."],
       hu: ["Történelem előtti nyomokat találtak itt a datolya fogyasztására.", "Egykor több ezer gyöngyhalásznak adott otthont a szezonban."],
       ro: ["Există dovezi preistorice ale consumului de curmale aici.", "Găzduia odată mii de pescari de perle în timpul sezonului."],
       en: ["There are prehistoric traces of date consumption here.", "Once housed thousands of pearl divers during the season."]
-    }, image: "/poi-images/dalma-pearl-center-history-v2.webp"},
+    }, image: "/poi-images/dalma-pearl-center-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dalma Pearl Diving Center auf der Insel Dalma vor Abu Dhabi dokumentiert die Geschichte der Perlenfischerei, die vor der Ölzeit die Hauptwirtschaftsaktivität war. Das Zentrum befindet sich in einem traditionellen Gebäude und zeigt Ausrüstung, Tauchtechniken und historische Dokumente. Besucher können alte Tauchglocken und Waagen sehen. Die Perlenfischerei begann hier bereits vor der Bronzezeit. Das Zentrum wurde 2005 eröffnet. Auf Dalma gibt es zudem archäologische Stätten aus der Umm-an-Nar-Zeit. Die Insel ist mit der Fähre erreichbar.",
+      hu: "A Dalma Gyöngybúvár Központ Abu Dhabi közelében, Dalma szigetén található. A kiállítás bemutatja a gyöngybúvárás eszközeit és technikáit, amely az olaj előtti fő gazdasági ág volt. Az épület hagyományos anyagokból épült. A tárlatban láthatók régi búvóharangok, mérlegek és térképek. A központot 2005-ben nyitották meg. A sziget bronzkori lelőhelyekkel is büszkélkedhet. A gyöngyhalászat itt már i.e. 2000-ben is létezett.",
+      ro: "Centrul de Scufundare pentru Perle din Dalma, pe insula Dalma din Abu Dhabi, prezintă istoria pescuitului de perle, principala activitate economică înainte de petrol. Exponatele includ echipament de scufundare, greutăți și documente. Clădirea tradițională din corali și ipsos găzduiește muzeul deschis în 2005. Insula are situri arheologice din epoca Umm an-Nar. Pescuitul perlelor datează de mii de ani în această zonă.",
+      en: "Dalma Pearl Diving Center on Dalma Island, Abu Dhabi, is a museum dedicated to the pearling industry that drove the local economy before oil. The center displays traditional diving equipment, including leather nose clips, stone weights, and diving bells. It opened in 2005 in a restored coral-stone building. The island has been inhabited since the Bronze Age, with archaeological evidence of early pearling. The center also features historical photographs and models of pearling boats. Dalma Island is accessible by ferry from Abu Dhabi city.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2005 auf der Insel Dalma.", "Zeigt traditionelle Tauchausrüstung und Tauchglocken.", "Gebäude aus Korallenstein und Gips.", "Perlenfischerei vor der Bronzezeit belegt.", "Insel archäologische Stätte der Umm-an-Nar-Kultur.", "Mit der Fähre von Abu Dhabi erreichbar."],
+      hu: ["2005-ben nyílt meg Dalma szigetén.", "Hagyományos búvófelszerelések kiállítása.", "Korallkőből és gipszből épült.", "Gyöngyhalászat a bronzkor óta.", "Umm an-Nar kori lelőhelyek a szigeten.", "Komppal közelíthető meg Abu Dhabiból."],
+      ro: ["Deschis în 2005 pe insula Dalma.", "Echipamente tradiționale de scufundare expuse.", "Clădire construită din piatră de corali.", "Pescuitul perlelor datând din epoca bronzului.", "Situri arheologice Umm an-Nar pe insulă.", "Accesibil cu feribotul din Abu Dhabi."],
+      en: ["Opened in 2005 on Dalma Island.", "Exhibits traditional diving equipment.", "Building is a restored coral-stone structure.", "Pearling activity dates to Bronze Age.", "Island has Umm an-Nar archaeological sites.", "Accessible by ferry from Abu Dhabi."],
+    },
+  },
   {
     id: "sheikh-saeed-house-history-v2",
     type: "monument",
     parent: "AE-DU",
     coords: [55.2922, 25.2668],
-    name: { de: "Haus von Scheich Saeed Al Maktoum", hu: "Saeed Al Maktoum Sejk Háza", ro: "Casa Șeicului Saeed Al Maktoum", en: "Sheikh Saeed Al Maktoum House",
-image: "/poi-images/sheikh-saeed-house-history-v2.webp"
-},
+    name: { de: "Haus von Scheich Saeed Al Maktoum", hu: "Saeed Al Maktoum Sejk Háza", ro: "Casa Șeicului Saeed Al Maktoum", en: "Sheikh Saeed Al Maktoum House"},
+    image: "/poi-images/sheikh-saeed-house-history-v2.webp",
     description: { de: "Die historische Residenz des ehemaligen Herrschers von Dubai bietet heute als Museum Einblicke in die glanzvolle Vergangenheit.", hu: "Dubaj egykori uralkodójának történelmi rezidenciája ma múzeumként nyújt betekintést a dicső múltba.", ro: "Reședința istorică a fostului conducător al Dubaiului oferă astăzi, ca muzeu, perspective asupra trecutului glorios.", en: "The historical residence of the former ruler of Dubai now serves as a museum offering insights into its glorious past." },
     facts: {
       de: ["Erbaut im Jahr 1896.", "Das Haus liegt strategisch an der Mündung des Dubai Creek."],
       hu: ["1896-ban épült.", "A ház stratégiailag a Dubaj-öböl torkolatánál fekszik."],
       ro: ["Construit în anul 1896.", "Casa este situată strategic la gura pârâului Dubai Creek."],
       en: ["Built in 1896.", "The house is strategically located at the mouth of the Dubai Creek."]
-    }, image: "/poi-images/sheikh-saeed-house-history-v2.webp"},
+    }, image: "/poi-images/sheikh-saeed-house-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Sheikh Saeed Al Maktoum House ist ein historisches Gebäude in Dubai, erbaut 1896 als Residenz des Herrschers Sheikh Saeed. Das Haus liegt am Dubai Creek und diente als Regierungssitz. Es ist ein Beispiel traditioneller arabischer Architektur mit Windtürmen, einem Innenhof und kunstvollen Holzschnitzereien. Heute beherbergt es ein Museum mit Fotografien, Dokumenten und Münzen aus der Geschichte Dubais. Das Gebäude wurde 1986 restauriert und 1994 als Museum eröffnet. Die Fläche beträgt etwa 1.000 Quadratmeter.",
+      hu: "Sheikh Saeed Al Maktoum háza 1896-ban épült Dubai Creek partján. Az uralkodó család otthona és a kormányzás központja volt. A házon több szélfogó található, és a belső udvar köré épült. 1986-ban restaurálták, 1994-ben nyitott múzeumként. A gyűjteményben régi fotók, érmék és dokumentumok szerepelnek. Az épület a hagyományos arab lakóépítészet szép példája.",
+      ro: "Casa lui Sheikh Saeed Al Maktoum, construită în 1896 lângă Dubai Creek, a fost reședința conducătorului Dubaiului. Clădirea are turnuri de vânt și o curte interioară, cu sculpturi elaborate în lemn. Restaurată în 1986 și deschisă ca muzeu în 1994, expune fotografii istorice, monede și documente. Acoperă aproximativ 1.000 de metri pătrați. Este un exemplu reprezentativ al arhitecturii tradiționale emirateze.",
+      en: "Sheikh Saeed Al Maktoum House, built in 1896, is a historic residence overlooking Dubai Creek. It served as the home and seat of government for Sheikh Saeed, ruler of Dubai from 1912 to 1958. The house features traditional wind towers (barajeel), a central courtyard, and intricate gypsum carvings. It was restored in 1986 and opened as a museum in 1994. The museum houses a collection of historic photographs, coins, and documents from Dubai's pre-oil era. The building covers 1,000 square meters and is a prime example of Gulf architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1896.", "Liegt am Dubai Creek.", "Museum seit 1994.", "Restauriert 1986.", "Fläche: etwa 1.000 m².", "Enthält historische Fotografien und Münzen."],
+      hu: ["1896-ban épült.", "Dubai Creek partján található.", "1994 óta múzeum.", "1986-ban restaurálták.", "Területe 1000 négyzetméter.", "Történelmi fotók és érmék gyűjteménye."],
+      ro: ["Construit în 1896.", "Situat lângă Dubai Creek.", "Muzeu din 1994.", "Restaurat în 1986.", "Suprafața de 1.000 m².", "Colecție de fotografii și monede istorice."],
+      en: ["Built in 1896.", "Located on Dubai Creek.", "Museum since 1994.", "Restored in 1986.", "Area of 1,000 square meters.", "Houses historic photos and coins."],
+    },
+  },
   {
     id: "dibba-al-hisn-fort-history-v2",
     type: "monument",
     parent: "AE-SH",
     coords: [56.2691, 25.6171],
-    name: { de: "Festung Dibba Al-Hisn", hu: "Dibba Al-Hisn Erőd", ro: "Fortul Dibba Al-Hisn", en: "Dibba Al-Hisn Fort",
-image: "/poi-images/dibba-al-hisn-fort-history-v2.webp"
-},
+    name: { de: "Festung Dibba Al-Hisn", hu: "Dibba Al-Hisn Erőd", ro: "Fortul Dibba Al-Hisn", en: "Dibba Al-Hisn Fort"},
+    image: "/poi-images/dibba-al-hisn-fort-history-v2.webp",
     description: { de: "Eine alte Küstenfestung, die Teil eines großen Netzwerks von Verteidigungsanlagen an der Ostküste der arabischen Halbinsel war.", hu: "Egy ősi tengerparti erőd, amely az Arab-félsziget keleti partján lévő hatalmas védelmi hálózat része volt.", ro: "Un vechi fort de coastă, care făcea parte dintr-o vastă rețea de apărare pe coasta de est a Peninsulei Arabice.", en: "An ancient coastal fort that was part of a large network of defense structures on the east coast of the Arabian Peninsula." },
     facts: {
       de: ["Die Grundmauer stammt möglicherweise aus dem 16. Jahrhundert.", "Sie überblickte die wichtige Bucht von Dibba."],
       hu: ["Az alapfal valószínűleg a 16. századból származik.", "A fontos Dibba-öbölre nézett."],
       ro: ["Zidul de fundație ar putea data din secolul al XVI-lea.", "Supraveghea importantul golf Dibba."],
       en: ["The foundation wall possibly dates from the 16th century.", "It overlooked the important bay of Dibba."]
-    }, image: "/poi-images/dibba-al-hisn-fort-history-v2.webp"},
+    }, image: "/poi-images/dibba-al-hisn-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dibba Al-Hisn Fort liegt an der Ostküste der VAE im Emirat Sharjah. Die Festung stammt aus dem 19. Jahrhundert und diente als Verteidigungsanlage gegen Piratenangriffe. Sie hat einen rechteckigen Grundriss mit einem zentralen Turm. Die Mauern sind 2 Meter dick. Das Fort wurde 1996 restauriert und beherbergt heute ein Museum über die Geschichte der Region. In der Nähe befindet sich die Hafenstadt Dibba. Das Fort ist ein beliebtes Ausflugsziel.",
+      hu: "A Dibba Al-Hisn erőd a 19. században épült Sharjah keleti partján. Négyszögletes alaprajzú, központi toronnyal. A falak 2 méter vastagok. Kalózok elleni védelemre szolgált. 1996-ban restaurálták, ma múzeum. A helyi régészeti leleteket mutat be. A közelben található Dibba kikötője.",
+      ro: "Fortul Dibba Al-Hisn, situat în Sharjah pe coasta de est, datează din secolul al XIX-lea. Cu un plan dreptunghiular și un turn central, zidurile groase de 2 metri ofereau protecție împotriva piraților. Restaurat în 1996, astăzi găzduiește un muzeu regional. Portul Dibba este aproape. Fortul este o atracție turistică importantă.",
+      en: "Dibba Al-Hisn Fort is a 19th-century fortification in Sharjah's east coast enclave of Dibba. It was built to defend against pirate raids and control trade routes. The fort features a rectangular layout with a single central tower and 2-meter-thick walls. It was restored in 1996 and now functions as a museum displaying local artifacts and history. The fort overlooks the Gulf of Oman. The surrounding area is known for its fishing industry and archaeological sites from the Portuguese period.",
+    },
+    factsAdvanced: {
+      de: ["19. Jahrhundert, Ostküste der VAE.", "Rechteckig mit zentralem Turm.", "Mauern 2 Meter dick.", "1996 restauriert.", "Heute Museum.", "Blick auf den Golf von Oman."],
+      hu: ["19. századi erőd a keleti parton.", "Négyszögletes, központi toronnyal.", "Falak vastagsága 2 méter.", "1996-ban felújították.", "Múzeumként működik.", "Az Ománi-öbölre néz."],
+      ro: ["Secolul al XIX-lea pe coasta de est.", "Dreptunghiular cu un turn central.", "Ziduri de 2 metri grosime.", "Restaurat în 1996.", "Muzeu în prezent.", "Privește spre Golful Oman."],
+      en: ["19th-century fort on east coast.", "Rectangular with central tower.", "Walls 2 meters thick.", "Restored in 1996.", "Now houses a museum.", "Overlooks the Gulf of Oman."],
+    },
+  },
   {
     id: "masfut-fort-history-v2",
     type: "monument",
     parent: "AE-AJ",
     coords: [56.0234, 24.8197],
-    name: { de: "Festung Masfut", hu: "Masfut Erőd", ro: "Fortul Masfut", en: "Masfut Fort",
-image: "/poi-images/masfut-fort-history-v2.webp"
-},
+    name: { de: "Festung Masfut", hu: "Masfut Erőd", ro: "Fortul Masfut", en: "Masfut Fort"},
+    image: "/poi-images/masfut-fort-history-v2.webp",
     description: { de: "Ein runder steinerner Wachturm auf einem Hügel, der zur Verteidigung der landwirtschaftlichen Exklave von Ajman errichtet wurde.", hu: "Egy kerek kő őrtorony egy dombon, amelyet Adzsmán mezőgazdasági exklávéjának védelmére emeltek.", ro: "Un turn de veghe rotund din piatră pe un deal, construit pentru a apăra exclava agricolă a Ajmanului.", en: "A round stone watchtower on a hill, built to defend the agricultural exclave of Ajman." },
     facts: {
       de: ["Gebaut im 19. Jahrhundert.", "Besteht aus lokalem Gestein und Lehm."],
       hu: ["A 19. században épült.", "Helyi kőből és vályogból készült."],
       ro: ["Construit în secolul al XIX-lea.", "Realizat din rocă locală și lut."],
       en: ["Built in the 19th century.", "Constructed from local rock and mud."]
-    }, image: "/poi-images/masfut-fort-history-v2.webp"},
+    }, image: "/poi-images/masfut-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Masfut Fort liegt im Emirat Ajman in den Hajar-Bergen. Die Festung stammt aus dem 18. Jahrhundert und diente als Fluchtburg und Wachturm. Das aus Stein und Lehm erbaute Fort hat einen quadratischen Grundriss mit Ecktürmen. Es wurde 1998 restauriert. In der Umgebung gibt es Thermalquellen. Der Ort Masfut ist für seine landwirtschaftlichen Terrassen bekannt. Das Fort ist ein beliebtes Ziel für Wanderer.",
+      hu: "A Masfut erőd Adzsmánban, a Hajar-hegységben található. A 18. században épült, négyzet alakú, négy toronnyal. Kőből és vályogból készült. 1998-ban restaurálták. A közelben termálforrások vannak. Masfut híres teraszos mezőgazdaságáról. Az erőd kilátást nyújt a hegyekre.",
+      ro: "Fortul Masfut din Ajman, situat în Munții Hajar, datează din secolul al XVIII-lea. Plan pătrat cu turnuri de colț, construit din piatră și noroi. Restaurat în 1998, este acum o atracție turistică. Aproape se află izvoare termale. Zona este cunoscută pentru agricultura în terase. Fortul oferă o vedere panoramică.",
+      en: "Masfut Fort is an 18th-century fortification in Ajman's mountain exclave. It has a square layout with four corner towers, built from stone and mud. The fort served as a refuge and observation post. It was restored in 1998. The surrounding area features hot springs and terraced farms. The fort sits at an elevation of 700 meters. It is part of the Masfut heritage village, which includes traditional houses and falaj irrigation systems.",
+    },
+    factsAdvanced: {
+      de: ["18. Jahrhundert, Hajar-Berge.", "Quadratisch mit vier Ecktürmen.", "Höhe: 700 Meter über NN.", "1998 restauriert.", "Thermalquellen in der Nähe.", "Teil des Masfut Kulturdorfs."],
+      hu: ["18. század, Hajar-hegység.", "Négyszögletes, négy toronnyal.", "Tengerszint felett 700 méter.", "1998-ban restaurálták.", "Termálforrások a közelben.", "Masfut örökségfalu része."],
+      ro: ["Secolul al XVIII-lea, Munții Hajar.", "Pătrat cu patru turnuri de colț.", "Altitudine 700 de metri.", "Restaurat în 1998.", "Izvoare termale în apropiere.", "Parte a satului de patrimoniu Masfut."],
+      en: ["18th-century, Hajar Mountains.", "Square with four corner towers.", "Elevation 700 meters.", "Restored in 1998.", "Hot springs nearby.", "Part of Masfut heritage village."],
+    },
+  },
   {
     id: "ajman-fort-history-v2",
     type: "monument",
     parent: "AE-AJ",
     coords: [55.4480, 25.4116],
-    name: { de: "Festung Ajman", hu: "Adzsmán Erőd", ro: "Fortul Ajman", en: "Ajman Fort",
-image: "/poi-images/ajman-fort-history-v2.webp"
-},
+    name: { de: "Festung Ajman", hu: "Adzsmán Erőd", ro: "Fortul Ajman", en: "Ajman Fort"},
+    image: "/poi-images/ajman-fort-history-v2.webp",
     description: { de: "Die zentrale Festung der Stadt Ajman diente einst als Palast der Herrscherfamilie und ist heute ein umfangreiches Museum.", hu: "Adzsmán város központi erődje egykor az uralkodócsalád palotájaként szolgált, ma pedig átfogó múzeum.", ro: "Fortul central al orașului Ajman a servit odată ca palat al familiei conducătoare, iar astăzi este un muzeu vast.", en: "The central fort of Ajman city once served as the palace of the ruling family and is today a comprehensive museum." },
     facts: {
       de: ["Erbaut im späten 18. Jahrhundert.", "War bis 1970 die Residenz des Herrschers."],
       hu: ["A 18. század végén épült.", "1970-ig az uralkodó rezidenciája volt."],
       ro: ["Construit la sfârșitul secolului al XVIII-lea.", "A fost reședința conducătorului până în 1970."],
       en: ["Built in the late 18th century.", "Was the residence of the ruler until 1970."]
-    }, image: "/poi-images/ajman-fort-history-v2.webp"},
+    }, image: "/poi-images/ajman-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Ajman Fort ist eine Festung im Zentrum von Ajman, erbaut im 18. Jahrhundert. Es diente als Residenz der Al Nuaimi-Herrscher und als Verwaltungssitz. Das Fort hat einen quadratischen Grundriss mit zwei großen Türmen. Es ist aus Stein, Korallen und Gips gebaut. 1981 wurde es restauriert und in ein Museum umgewandelt. Das Ajman Museum zeigt archäologische Funde, Waffen und traditionelles Handwerk. Es ist ein wichtiges kulturelles Zentrum.",
+      hu: "Az Adzsmán erőd a 18. században épült, Adzsmán központjában. Az uralkodói család otthona volt. Négyszögletes, két toronnyal. Korallkőből és gipszből épült. 1981-ben restaurálták, ma múzeum. A kiállítás régészeti leleteket, fegyvereket és kézműves tárgyakat tartalmaz. Az erőd a város egyik jelképe.",
+      ro: "Fortul Ajman, construit în secolul al XVIII-lea în centrul orașului Ajman, a fost reședința conducătorilor Al Nuaimi. Are un plan pătrat cu două turnuri mari, construit din piatră de corali și ipsos. Restaurat în 1981, găzduiește astăzi Muzeul Ajman, cu artefacte arheologice, arme și obiecte de artizanat. Este un simbol al emiratului.",
+      en: "Ajman Fort, built in the 18th century, is located in the center of Ajman city. It served as the ruler's palace and seat of government. The fort has a square layout with two large circular towers, constructed from coral stone and gypsum. It was restored in 1981 and converted into the Ajman Museum. The museum's collection includes archaeological artifacts from the Bronze Age, traditional weapons, and pearl diving equipment. The fort covers an area of 1,200 square meters.",
+    },
+    factsAdvanced: {
+      de: ["18. Jahrhundert, Stadtzentrum von Ajman.", "Quadratischer Grundriss mit zwei Türmen.", "Material: Korallenstein und Gips.", "1981 restauriert und Museum.", "Fläche: 1.200 m².", "Zeigt Bronzzeit-Artefakte."],
+      hu: ["18. század, Adzsmán központja.", "Négyszögletes, két toronnyal.", "Anyag: korallkő és gipsz.", "1981-ben restaurálták, múzeum.", "Terület: 1200 m².", "Bronzkori leletek láthatók."],
+      ro: ["Secolul al XVIII-lea, centrul Ajmanului.", "Plan pătrat cu două turnuri.", "Material: piatră de corali și ipsos.", "Restaurat în 1981, muzeu.", "Suprafața: 1.200 m².", "Artefacte din epoca bronzului."],
+      en: ["18th-century, central Ajman.", "Square layout with two towers.", "Material: coral stone and gypsum.", "Restored 1981, now museum.", "Area 1,200 square meters.", "Bronze Age artifacts displayed."],
+    },
+  },
   {
     id: "umm-al-quwain-fort-history-v2",
     type: "monument",
     parent: "AE-UQ",
     coords: [55.5728, 25.5833],
-    name: { de: "Festung Umm Al Quwain", hu: "Umm Al Quwain Erőd", ro: "Fortul Umm Al Quwain", en: "Umm Al Quwain Fort",
-image: "/poi-images/umm-al-quwain-fort-history-v2.webp"
-},
+    name: { de: "Festung Umm Al Quwain", hu: "Umm Al Quwain Erőd", ro: "Fortul Umm Al Quwain", en: "Umm Al Quwain Fort"},
+    image: "/poi-images/umm-al-quwain-fort-history-v2.webp",
     description: { de: "Eine imposante Festungsanlage, die einst die Mauern der Altstadt schützte und heute wertvolle archäologische Funde beherbergt.", hu: "Impozáns erődítmény, amely egykor az óváros falait védte, ma pedig értékes régészeti leleteknek ad otthont.", ro: "Un fort impresionant care proteja cândva zidurile orașului vechi, iar astăzi adăpostește descoperiri arheologice valoroase.", en: "An imposing fort that once protected the walls of the old town and today houses valuable archaeological finds." },
     facts: {
       de: ["Das Gebäude hat zwei markante Rundtürme.", "Wurde 1768 gegründet."],
       hu: ["Az épületnek két jellegzetes kerek tornya van.", "1768-ban alapították."],
       ro: ["Clădirea are două turnuri rotunde distinctive.", "A fost fondat în 1768."],
       en: ["The building has two distinctive round towers.", "Was founded in 1768."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Umm Al Quwain Fort wurde 1768 erbaut und ist die älteste Festung der Stadt. Sie diente als Sitz des Herrschers und als Regierungsgebäude. Das Fort hat einen rechteckigen Grundriss mit drei Türmen. Es wurde aus Korallenstein und Mörtel errichtet. 1986 restauriert, beherbergt es heute ein Museum, das die Geschichte des Emirats zeigt. Exponate umfassen Waffen, Münzen und archäologische Funde. Die Festung liegt nahe der Lagune.",
+      hu: "Az Umm Al Quwain erőd 1768-ban épült, a legrégebbi épület az emírátusban. Téglalap alaprajzú, három toronnyal. Korallkőből és habarcsból készült. 1986-ban restaurálták, ma múzeum. A kiállításon fegyverek, érmék és régészeti leletek szerepelnek. A lagúna közelében található.",
+      ro: "Fortul Umm Al Quwain, construit în 1768, este cea mai veche clădire din emirat. Plan dreptunghiular cu trei turnuri, construit din piatră de corali și mortar. Restaurat în 1986, acum muzeu. Colecția include arme, monede și artefacte arheologice. Situat lângă lagună, fortul oferă o privire asupra istoriei emiratului.",
+      en: "Umm Al Quwain Fort, built in 1768, is the oldest building in the emirate. It served as the ruler's residence and government headquarters. The fort has a rectangular plan with three towers, constructed from coral stone and lime mortar. It was restored in 1986 and now houses the Umm Al Quwain Museum, displaying artifacts from the region's history, including pottery, weapons, and pearl diving equipment. The fort overlooks the creek and is near the old souq.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1768, ältestes Gebäude des Emirats.", "Rechteckiger Grundriss mit drei Türmen.", "1986 restauriert.", "Heute Museum.", "Enthält Waffen und archäologische Funde.", "Liegt an der Lagune."],
+      hu: ["1768-ban épült, a legrégebbi épület.", "Téglalap alaprajz, három torony.", "1986-ban restaurálták.", "Múzeumként üzemel.", "Fegyverek és régészeti leletek.", "Lagúna partján."],
+      ro: ["Construit în 1768, cea mai veche clădire din emirat.", "Plan dreptunghiular cu trei turnuri.", "Restaurat în 1986.", "Acum muzeu.", "Arme și artefacte arheologice.", "Situat lângă lagună."],
+      en: ["Built in 1768, oldest building in emirate.", "Rectangular plan with three towers.", "Restored in 1986.", "Now a museum.", "Houses weapons and archaeological finds.", "Located by the lagoon."],
+    },
   },
   {
     id: "bait-al-naboodah-history-v2",
     type: "monument",
     parent: "AE-SH",
     coords: [55.3831, 25.3582],
-    name: { de: "Bait Al Naboodah", hu: "Bait Al Naboodah", ro: "Bait Al Naboodah", en: "Bait Al Naboodah",
-image: "/poi-images/bait-al-naboodah-history-v2.webp"
-},
+    name: { de: "Bait Al Naboodah", hu: "Bait Al Naboodah", ro: "Bait Al Naboodah", en: "Bait Al Naboodah"},
+    image: "/poi-images/bait-al-naboodah-history-v2.webp",
     description: { de: "Ein prachtvoll restauriertes Kaufmannshaus im Herzen von Sharjah, das die traditionelle arabische Wohnarchitektur eindrucksvoll zeigt.", hu: "Egy gyönyörűen felújított kereskedőház Sardzsa szívében, amely lenyűgözően mutatja be a hagyományos arab lakóépítészetet.", ro: "O casă de negustori magnific restaurată în inima orașului Sharjah, care prezintă impresionant arhitectura rezidențială tradițională arabă.", en: "A magnificently restored merchant's house in the heart of Sharjah that impressively displays traditional Arab residential architecture." },
     facts: {
       de: ["Erbaut um das Jahr 1845.", "Gehörte einem der größten Perlenhändler der Region."],
       hu: ["Körülbelül 1845-ben épült.", "A régió egyik legnagyobb gyöngykereskedőjéé volt."],
       ro: ["Construită în jurul anului 1845.", "A aparținut unuia dintre cei mai mari negustori de perle din regiune."],
       en: ["Built around 1845.", "Belonged to one of the largest pearl merchants in the region."]
-    }, image: "/poi-images/bait-al-naboodah-history-v2.webp"},
+    }, image: "/poi-images/bait-al-naboodah-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Bait Al Naboodah ist ein historisches Haus in Dubai, erbaut 1845 von einem reichen Perlenhändler. Das Haus ist ein herausragendes Beispiel traditioneller arabischer Architektur mit mehreren Windtürmen, einem großen Innenhof und kunstvollen Holzarbeiten. Es wurde 1995 restauriert und dient heute als Kulturzentrum. Die Innenräume zeigen Möbel und Haushaltsgegenstände aus dem 19. Jahrhundert. Das Gebäude erstreckt sich über 2.000 Quadratmeter. Es ist ein Zeugnis des Wohlstands vor dem Erdöl.",
+      hu: "A Bait Al Naboodah egy 1845-ben épült ház Dubaiban, egy gazdag gyöngykereskedő otthona. Több szélfogóval és nagy belső udvarral rendelkezik. 1995-ben restaurálták, ma kulturális központ. A szobákban 19. századi bútorok és háztartási eszközök láthatók. Az épület 2000 négyzetméter. A hagyományos emirátusi építészet remeke.",
+      ro: "Bait Al Naboodah, construită în 1845 în Dubai, a fost reședința unui comerciant bogat de perle. Clădirea are mai multe turnuri de vânt, o curte interioară vastă și sculpturi elaborate în lemn. Restaurată în 1995, funcționează ca centru cultural. Interioarele expun mobilier și obiecte de uz casnic din secolul al XIX-lea. Suprafața totală este de 2.000 de metri pătrați.",
+      en: "Bait Al Naboodah is a historic house in Dubai's Al Fahidi Historical Neighbourhood, built in 1845 for a wealthy pearl merchant. The house features multiple wind towers, a large central courtyard, and elaborate wooden latticework. It was restored in 1995 and now operates as a cultural center. The interior showcases period furniture, kitchen utensils, and traditional costumes. The building covers 2,000 square meters and is one of the best-preserved merchant houses in the UAE.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1845 in Dubai.", "Wohnsitz eines Perlenhändlers.", "Mehrere Windtürme.", "1995 restauriert.", "Fläche: 2.000 m².", "Jetzt Kulturzentrum."],
+      hu: ["1845-ben épült Dubaiban.", "Gyöngykereskedő háza.", "Több szélfogó.", "1995-ben restaurálták.", "2000 négyzetméter.", "Ma kulturális központ."],
+      ro: ["Construit în 1845 în Dubai.", "Reședința unui negustor de perle.", "Mai multe turnuri de vânt.", "Restaurat în 1995.", "Suprafață de 2.000 m².", "Acum centru cultural."],
+      en: ["Built in 1845 in Dubai.", "Home of a pearl merchant.", "Multiple wind towers.", "Restored in 1995.", "Area 2,000 square meters.", "Now a cultural center."],
+    },
+  },
   {
     id: "souq-al-arsa-history-v2",
     type: "historical-site",
     parent: "AE-SH",
     coords: [55.3835, 25.3587],
-    name: { de: "Souq Al Arsa", hu: "Souq Al Arsa", ro: "Souq Al Arsa", en: "Souq Al Arsa",
-image: "/poi-images/souq-al-arsa-history-v2.webp"
-},
+    name: { de: "Souq Al Arsa", hu: "Souq Al Arsa", ro: "Souq Al Arsa", en: "Souq Al Arsa"},
+    image: "/poi-images/souq-al-arsa-history-v2.webp",
     description: { de: "Einer der ältesten Marktplätze der VAE, auf dem sich einst Beduinen und Händler aus fernen Ländern trafen.", hu: "Az EAE egyik legrégebbi piaca, ahol egykor beduinok és távoli földekről érkező kereskedők találkoztak.", ro: "Una dintre cele mai vechi piețe din EAU, unde odată se întâlneau beduinii și negustorii din ținuturi îndepărtate.", en: "One of the oldest marketplaces in the UAE, where Bedouins and merchants from distant lands once met." },
     facts: {
       de: ["Befindet sich im historischen Viertel von Sharjah.", "Seine Architektur aus Korallenstein wurde sorgfältig bewahrt."],
       hu: ["Sardzsa történelmi negyedében található.", "Korallkőből épült építészetét gondosan megőrizték."],
       ro: ["Se află în cartierul istoric al orașului Sharjah.", "Arhitectura sa din piatră de coral a fost atent păstrată."],
       en: ["Located in the historical district of Sharjah.", "Its coral stone architecture has been carefully preserved."]
-    }, image: "/poi-images/souq-al-arsa-history-v2.webp"},
+    }, image: "/poi-images/souq-al-arsa-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Souq Al Arsa ist ein traditioneller Markt in der Altstadt von Dubai, der bis ins 19. Jahrhundert zurückreicht. Der Markt liegt im Al Fahidi Viertel und ist bekannt für seine engen Gassen und Geschäfte, die Textilien, Gewürze, Parfüms und Kunsthandwerk verkaufen. Die Verkaufsstände sind unter Schattendächern angeordnet. Der Markt wurde 1996 renoviert. Er bietet ein authentisches Einkaufserlebnis. Der Souq ist bei Touristen und Einheimischen gleichermaßen beliebt.",
+      hu: "A Souq Al Arsa egy hagyományos piac Dubai óvárosában, a 19. században nyílt. Szűk sikátoraiban textíliát, fűszereket, parfümöket és kézműves termékeket árulnak. 1996-ban felújították. A piac fedett részei védik a napfénytől. Ez az egyik legrégebbi souq Dubaiban. Autentikus vásárlási élményt nyújt.",
+      ro: "Souq Al Arsa este o piață tradițională din vechiul Dubai, care datează din secolul al XIX-lea. Situat în cartierul Al Fahidi, are alei înguste cu tarabe care vând textile, mirodenii, parfumuri și artizanat. A fost renovat în 1996. Piața este acoperită cu prelate pentru umbră. Este unul dintre cele mai vechi souquri din emirat.",
+      en: "Souq Al Arsa is a historic market in Dubai's Al Fahidi district, dating back to the 19th century. The souq features narrow alleyways lined with shops selling textiles, spices, perfumes, and handicrafts. It was renovated in 1996 while preserving its traditional character. The market covers approximately 1,500 square meters. It is known for its atmosphere and is a popular destination for both tourists and locals. The souq is part of the Al Fahidi Historical Neighbourhood.",
+    },
+    factsAdvanced: {
+      de: ["19. Jahrhundert, Al Fahidi Viertel.", "Verkauft Textilien, Gewürze, Parfüms.", "1996 renoviert.", "Fläche ca. 1.500 m².", "Einer der ältesten Märkte Dubais.", "Überdachte Gassen."],
+      hu: ["19. század, Al Fahidi negyed.", "Textília, fűszerek, parfümök árusítása.", "1996-ban felújították.", "Területe kb. 1500 m².", "Dubai egyik legrégebbi piaca.", "Fedett sikátorok."],
+      ro: ["Secolul al XIX-lea, cartierul Al Fahidi.", "Produse: textile, mirodenii, parfumuri.", "Renovat în 1996.", "Suprafață de circa 1.500 m².", "Una dintre cele mai vechi piețe din Dubai.", "Aleile sunt acoperite."],
+      en: ["19th-century, Al Fahidi district.", "Sells textiles, spices, perfumes.", "Renovated in 1996.", "Area approx. 1,500 m².", "One of Dubai's oldest markets.", "Alleys are shaded."],
+    },
+  },
   {
     id: "rumailah-site-history-v2",
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7533, 24.2388],
-    name: { de: "Archäologische Stätte Rumailah", hu: "Rumailah Régészeti Lelőhely", ro: "Situl Arheologic Rumailah", en: "Rumailah Archaeological Site",
-image: "/poi-images/rumailah-site-history-v2.webp"
-},
+    name: { de: "Archäologische Stätte Rumailah", hu: "Rumailah Régészeti Lelőhely", ro: "Situl Arheologic Rumailah", en: "Rumailah Archaeological Site"},
+    image: "/poi-images/rumailah-site-history-v2.webp",
     description: { de: "Eine antike Siedlung aus der Eisenzeit in Al Ain, die für ihre gut erhaltenen Lehmziegelgebäude und Artefakte bekannt ist.", hu: "Egy ókori vaskori település Al Ainban, amely jól megőrzött vályogtégla épületeiről és leleteiről ismert.", ro: "O așezare antică din Epoca Fierului în Al Ain, cunoscută pentru clădirile sale bine conservate din cărămidă de noroi și artefacte.", en: "An ancient Iron Age settlement in Al Ain, known for its well-preserved mudbrick buildings and artifacts." },
     facts: {
       de: ["Die Gebäude wurden auf Steinpfundamenten errichtet.", "Zeigt Beweise für fortgeschrittene landwirtschaftliche Praktiken."],
@@ -264,40 +440,62 @@ image: "/poi-images/rumailah-site-history-v2.webp"
     type: "ruin",
     parent: "AE-UQ",
     coords: [55.5900, 25.2922],
-    name: { de: "Archäologische Stätte Tell Abraq", hu: "Tell Abraq Régészeti Lelőhely", ro: "Situl Arheologic Tell Abraq", en: "Tell Abraq Archaeological Site",
-image: "/poi-images/tell-abraq-history-v2.webp"
-},
+    name: { de: "Archäologische Stätte Tell Abraq", hu: "Tell Abraq Régészeti Lelőhely", ro: "Situl Arheologic Tell Abraq", en: "Tell Abraq Archaeological Site"},
+    image: "/poi-images/tell-abraq-history-v2.webp",
     description: { de: "Ein wichtiger Ausgrabungshügel, der fast 2000 Jahre kontinuierlicher Besiedlung von der Bronzezeit bis zur Eisenzeit dokumentiert.", hu: "Egy fontos ásatási domb, amely majdnem 2000 évnyi folyamatos betelepülést dokumentál a bronzkortól a vaskorig.", ro: "Un important deal de excavare care documentează aproape 2000 de ani de așezare continuă, din Epoca Bronzului până în Epoca Fierului.", en: "An important excavation mound documenting almost 2,000 years of continuous settlement from the Bronze Age to the Iron Age." },
     facts: {
       de: ["Liegt an der Grenze zwischen Sharjah und Umm Al Quwain.", "Es wurde hier ein beeindruckendes kreisförmiges Fort ausgegraben."],
       hu: ["Sardzsa és Umm Al Quwain határán fekszik.", "Egy lenyűgöző kör alakú erődöt tártak fel itt."],
       ro: ["Situat la granița dintre Sharjah și Umm Al Quwain.", "Aici a fost excavat un fort circular impresionant."],
       en: ["Located on the border between Sharjah and Umm Al Quwain.", "An impressive circular fort was excavated here."]
-    }, image: "/poi-images/tell-abraq-history-v2.webp"},
+    }, image: "/poi-images/tell-abraq-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Tell Abraq ist ein wichtiger bronzezeitlicher Siedlungshügel in Umm Al Quwain, bewohnt von 2500 v. Chr. bis zum 1. Jahrhundert n. Chr. Die Stätte umfasst eine befestigte Siedlung, Gräber und ein großes Fort aus der Eisenzeit. Sie wurde 1989–1990 ausgegraben. Funde umfassen Elfenbein, Perlen und einen berühmten Goldohrring. Die Stätte belegt Handel zwischen Mesopotamien, dem Indus-Tal und Persien. Tell Abraq ist eine der am besten erhaltenen Ruinen der VAE.",
+      hu: "Tell Abraq egy bronzkori települési halom Umm Al Quwainban. i.e. 2500-tól i.sz. 1. századig lakták. Erődített települést, sírokat és egy vaskori erődöt találtak. 1989–90-ben tárták fel. Leletek: elefántcsont, gyöngyök és egy arany fülbevaló. A lelőhely bizonyítja a nemzetközi kereskedelmet.",
+      ro: "Tell Abraq este un tell din epoca bronzului în Umm Al Quwain, locuit din 2500 î.Hr. până în secolul I d.Hr. Situl include o așezare fortificată, morminte și un fort din epoca fierului. Săpăturile din 1989–1990 au scos la lumină fildeș, mărgele și un cercel de aur. Tell Abraq atestă comerțul cu Mesopotamia și Valea Indusului.",
+      en: "Tell Abraq is a Bronze Age tell (settlement mound) in Umm Al Quwain, continuously inhabited from 2500 BCE to the 1st century CE. The site features a fortified settlement, circular tombs, and an Iron Age fort. Excavations in 1989–1990 revealed ivory, carnelian beads, and a gold earring. Tell Abraq is one of the most important archaeological sites in the UAE, showing trade links with Mesopotamia, the Indus Valley, and Iran. The tell rises 8 meters above the surrounding plain.",
+    },
+    factsAdvanced: {
+      de: ["Besiedlung von 2500 v. Chr. bis 1. Jh. n. Chr.", "Ausgrabungen 1989–1990.", "Höhe des Tells: 8 Meter.", "Goldohrring gefunden.", "Handel mit Mesopotamien und Indus-Tal.", "Enthält eisenzeitliches Fort."],
+      hu: ["Lakott i.e. 2500-tól i.sz. 100-ig.", "1989–90-es ásatások.", "Tell magassága 8 méter.", "Arany fülbevaló került elő.", "Mezopotámiával és Indus-völggyel kereskedtek.", "Vaskori erőd maradványai."],
+      ro: ["Locuit din 2500 î.Hr. până în sec. I d.Hr.", "Săpături 1989–1990.", "Înălțimea tell-ului: 8 metri.", "Cercel de aur descoperit.", "Comerț cu Mesopotamia și Valea Indusului.", "Fort din epoca fierului."],
+      en: ["Inhabited 2500 BCE to 1st century CE.", "Excavated 1989–1990.", "Tell height 8 meters.", "Gold earring found.", "Trade with Mesopotamia and Indus Valley.", "Iron Age fort present."],
+    },
+  },
   {
     id: "qasr-al-ain-history-v2",
     type: "monument",
     parent: "AE-AZ",
     coords: [55.7619, 24.2144],
-    name: { de: "Qasr Al Ain", hu: "Qasr Al Ain", ro: "Qasr Al Ain", en: "Qasr Al Ain",
-image: "/poi-images/qasr-al-ain-history-v2.webp"
-},
+    name: { de: "Qasr Al Ain", hu: "Qasr Al Ain", ro: "Qasr Al Ain", en: "Qasr Al Ain"},
+    image: "/poi-images/qasr-al-ain-history-v2.webp",
     description: { de: "Der Palast war der Wohnsitz des verstorbenen Scheichs Zayed bin Sultan Al Nahyan und seiner Familie in der Oasenstadt Al Ain.", hu: "A palota a néhai Zájed bin Szultán Ál Nahján sejk és családjának lakhelye volt az Al Ain oázisvárosban.", ro: "Palatul a fost reședința regretatului Șeic Zayed bin Sultan Al Nahyan și a familiei sale în orașul-oază Al Ain.", en: "The palace was the residence of the late Sheikh Zayed bin Sultan Al Nahyan and his family in the oasis city of Al Ain." },
     facts: {
       de: ["Erbaut im Jahr 1937.", "Wurde 2001 in ein Museum umgewandelt."],
       hu: ["1937-ben épült.", "2001-ben alakították át múzeummá."],
       ro: ["Construit în anul 1937.", "A fost transformat într-un muzeu în 2001."],
       en: ["Built in 1937.", "Was converted into a museum in 2001."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Qasr Al Ain ist ein historischer Palast in Al Ain, erbaut 1937 als Residenz des Gründers der VAE, Scheich Zayed bin Sultan Al Nahyan. Der Palast besteht aus mehreren Innenhöfen, Gärten und traditionellen Räumen. Er diente als Regierungssitz und Ort für Versammlungen. 1997 wurde er in ein Museum umgewandelt. Die Ausstellung zeigt persönliche Gegenstände von Scheich Zayed, Dokumente und Fotografien. Der Palast ist Teil des UNESCO-Weltkulturerbes. Die Anlage umfasst 30 Gebäude.",
+      hu: "A Qasr Al Ain palota 1937-ben épült Al Ainban, Zayed sejk rezidenciájaként. Több udvarból, kertekből és hagyományos szobákból áll. 1997-ben múzeum lett. A kiállítás Zayed személyes tárgyait, dokumentumokat és fotókat mutat be. Az UNESCO világörökség része. A komplexum 30 épületből áll.",
+      ro: "Qasr Al Ain este un palat istoric din Al Ain, construit în 1937 ca reședință a șeicului Zayed bin Sultan Al Nahyan. Palatul are mai multe curți interioare, grădini și camere tradiționale. Transformát în muzeu în 1997, expune obiecte personale, documente și fotografii ale fondatorului UAE. Face parte din siturile UNESCO. Complexul include 30 de clădiri.",
+      en: "Qasr Al Ain, built in 1937, is the former palace of Sheikh Zayed bin Sultan Al Nahyan in Al Ain. The palace complex includes residential quarters, a majlis (council chamber), gardens, and a mosque. It was converted into a museum in 1997, displaying Sheikh Zayed's personal effects, gifts, and historical documents. The palace is part of the UNESCO World Heritage site 'Cultural Sites of Al Ain'. The site covers 35 hectares and contains 30 structures. It was the main family residence until 1966.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1937.", "Residenz von Scheich Zayed.", "1997 in Museum umgewandelt.", "Teil des UNESCO-Welterbes.", "30 Gebäude auf 35 Hektar.", "Bis 1966 Hauptwohnsitz."],
+      hu: ["1937-ben épült.", "Zayed sejk rezidenciája.", "1997-ben múzeum.", "UNESCO világörökség.", "30 épület, 35 hektár.", "1966-ig családi otthon."],
+      ro: ["Construit în 1937.", "Reședința șeicului Zayed.", "Muzeu din 1997.", "Parte a patrimoniului UNESCO.", "30 clădiri pe 35 de hectare.", "Reședință principală până în 1966."],
+      en: ["Built in 1937.", "Residence of Sheikh Zayed.", "Converted to museum in 1997.", "UNESCO World Heritage site.", "30 buildings on 35 hectares.", "Main residence until 1966."],
+    },
   },
   {
     id: "al-qattara-tombs-history-v2",
     type: "ruin",
     parent: "AE-AZ",
     coords: [55.7486, 24.2697],
-    name: { de: "Gräber von Al Qattara", hu: "Al Qattara Sírjai", ro: "Mormintele din Al Qattara", en: "Al Qattara Tombs",
-image: "/poi-images/al-qattara-tombs-history-v2.webp"
-},
+    name: { de: "Gräber von Al Qattara", hu: "Al Qattara Sírjai", ro: "Mormintele din Al Qattara", en: "Al Qattara Tombs"},
+    image: "/poi-images/al-qattara-tombs-history-v2.webp",
     description: { de: "Diese antiken Grabstätten offenbaren reiche archäologische Funde aus der Bronze- und Eisenzeit, darunter Goldschmuck und Waffen.", hu: "Ezek az ősi sírok gazdag bronz- és vaskori régészeti leleteket tárnak fel, köztük arany ékszereket és fegyvereket.", ro: "Aceste morminte antice dezvăluie bogate descoperiri arheologice din Epoca Bronzului și Fierului, inclusiv bijuterii din aur și arme.", en: "These ancient tombs reveal rich archaeological finds from the Bronze and Iron Ages, including gold jewelry and weapons." },
     facts: {
       de: ["Die Funde werden im Al Ain National Museum ausgestellt.", "Zeigen den frühen Handel mit Mesopotamien."],

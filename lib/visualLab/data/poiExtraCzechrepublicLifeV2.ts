@@ -5,9 +5,8 @@ export const czechrepublicLifeV2: POI[] = [
     id: "czechrepublic-krkonose-national-park-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park",
-image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Riesengebirge", hu: "Krkonoše Nemzeti Park", ro: "Parcul Național Krkonoše", en: "Krkonoše National Park"},
+    image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp",
     coords: [15.733, 50.733],
     coordinates: { lat: 50.733, lng: 15.733 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/czechrepublic-krkonose-national-park-life-v2.webp"
     id: "czechrepublic-sumava-national-park-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park",
-image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Böhmerwald", hu: "Šumava Nemzeti Park", ro: "Parcul Național Šumava", en: "Šumava National Park"},
+    image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp",
     coords: [13.517, 48.983],
     coordinates: { lat: 48.983, lng: 13.517 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/czechrepublic-sumava-national-park-life-v2.webp"
     id: "czechrepublic-podyji-national-park-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park",
-image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"
-},
+    name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park"},
+    image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp",
     coords: [15.833, 48.85],
     coordinates: { lat: 48.85, lng: 15.833 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/czechrepublic-podyji-national-park-life-v2.webp"
     id: "czechrepublic-bohemian-switzerland-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Nationalpark Böhmische Schweiz", hu: "Cseh Svájc Nemzeti Park", ro: "Parcul Național Elveția Bohemiană", en: "Bohemian Switzerland National Park",
-image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"
-},
+    name: { de: "Nationalpark Böhmische Schweiz", hu: "Cseh Svájc Nemzeti Park", ro: "Parcul Național Elveția Bohemiană", en: "Bohemian Switzerland National Park"},
+    image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp",
     coords: [14.333, 50.883],
     coordinates: { lat: 50.883, lng: 14.333 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/czechrepublic-bohemian-switzerland-life-v2.webp"
     id: "czechrepublic-prague-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Prag", hu: "Prágai Állatkert", ro: "Grădina Zoologică din Praga", en: "Prague Zoo",
-image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Prag", hu: "Prágai Állatkert", ro: "Grădina Zoologică din Praga", en: "Prague Zoo"},
+    image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp",
     coords: [14.407, 50.117],
     coordinates: { lat: 50.117, lng: 14.407 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/czechrepublic-prague-zoo-life-v2.webp"
     id: "czechrepublic-zlin-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Zlín", hu: "Zlíni Állatkert", ro: "Grădina Zoologică Zlín", en: "Zlín Zoo",
-image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Zlín", hu: "Zlíni Állatkert", ro: "Grădina Zoologică Zlín", en: "Zlín Zoo"},
+    image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp",
     coords: [17.717, 49.273],
     coordinates: { lat: 49.273, lng: 17.717 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/czechrepublic-zlin-zoo-life-v2.webp"
     id: "czechrepublic-plzen-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Pilsen", hu: "Plzeňi Állatkert", ro: "Grădina Zoologică Plzeň", en: "Plzeň Zoo",
-image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Pilsen", hu: "Plzeňi Állatkert", ro: "Grădina Zoologică Plzeň", en: "Plzeň Zoo"},
+    image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp",
     coords: [13.359, 49.758],
     coordinates: { lat: 49.758, lng: 13.359 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/czechrepublic-plzen-zoo-life-v2.webp"
     id: "czechrepublic-ostrava-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Ostrava", hu: "Ostravai Állatkert", ro: "Grădina Zoologică Ostrava", en: "Ostrava Zoo",
-image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Ostrava", hu: "Ostravai Állatkert", ro: "Grădina Zoologică Ostrava", en: "Ostrava Zoo"},
+    image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp",
     coords: [18.324, 49.845],
     coordinates: { lat: 49.845, lng: 18.324 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/czechrepublic-ostrava-zoo-life-v2.webp"
     id: "czechrepublic-olomouc-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Olmütz", hu: "Olomouci Állatkert", ro: "Grădina Zoologică Olomouc", en: "Olomouc Zoo",
-image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Olmütz", hu: "Olomouci Állatkert", ro: "Grădina Zoologică Olomouc", en: "Olomouc Zoo"},
+    image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp",
     coords: [17.341, 49.636],
     coordinates: { lat: 49.636, lng: 17.341 },
     description: {
@@ -328,9 +319,8 @@ image: "/poi-images/czechrepublic-olomouc-zoo-life-v2.webp"
     id: "czechrepublic-jihlava-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Iglau", hu: "Jihlavai Állatkert", ro: "Grădina Zoologică Jihlava", en: "Jihlava Zoo",
-image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Iglau", hu: "Jihlavai Állatkert", ro: "Grădina Zoologică Jihlava", en: "Jihlava Zoo"},
+    image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp",
     coords: [15.597, 49.395],
     coordinates: { lat: 49.395, lng: 15.597 },
     description: {
@@ -364,9 +354,8 @@ image: "/poi-images/czechrepublic-jihlava-zoo-life-v2.webp"
     id: "czechrepublic-brno-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Brünn", hu: "Brnói Állatkert", ro: "Grădina Zoologică Brno", en: "Brno Zoo",
-image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Brünn", hu: "Brnói Állatkert", ro: "Grădina Zoologică Brno", en: "Brno Zoo"},
+    image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp",
     coords: [16.533, 49.231],
     coordinates: { lat: 49.231, lng: 16.533 },
     description: {
@@ -400,9 +389,8 @@ image: "/poi-images/czechrepublic-brno-zoo-life-v2.webp"
     id: "czechrepublic-usti-nad-labem-zoo-life-v2",
     parent: "CZ",
     type: "wildlife",
-    name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo",
-image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Aussig", hu: "Ústí nad Labem-i Állatkert", ro: "Grădina Zoologică Ústí nad Labem", en: "Ústí nad Labem Zoo"},
+    image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp",
     coords: [14.057, 50.665],
     coordinates: { lat: 50.665, lng: 14.057 },
     description: {
@@ -436,9 +424,8 @@ image: "/poi-images/czechrepublic-usti-nad-labem-zoo-life-v2.webp"
     id: "czechrepublic-pruhonice-park-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park",
-image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"
-},
+    name: { de: "Schlosspark Průhonice", hu: "Průhonicei Park", ro: "Parcul Průhonice", en: "Průhonice Park"},
+    image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp",
     coords: [14.557, 49.998],
     coordinates: { lat: 49.998, lng: 14.557 },
     description: {
@@ -472,9 +459,8 @@ image: "/poi-images/czechrepublic-pruhonice-park-life-v2.webp"
     id: "czechrepublic-trebon-fishponds-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds",
-image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"
-},
+    name: { de: "Teichlandschaft Třeboň", hu: "Třeboňi halastavak", ro: "Iazurile din Třeboň", en: "Třeboň Fishponds"},
+    image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp",
     coords: [14.77, 49.003],
     coordinates: { lat: 49.003, lng: 14.77 },
     description: {
@@ -508,9 +494,8 @@ image: "/poi-images/czechrepublic-trebon-fishponds-life-v2.webp"
     id: "czechrepublic-palava-reserve-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve",
-image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"
-},
+    name: { de: "Biosphärenreservat Pálava", hu: "Pálava bioszféra-rezervátum", ro: "Rezervația Biosferei Pálava", en: "Pálava Biosphere Reserve"},
+    image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp",
     coords: [16.65, 48.867],
     coordinates: { lat: 48.867, lng: 16.65 },
     description: {
@@ -544,9 +529,8 @@ image: "/poi-images/czechrepublic-palava-reserve-life-v2.webp"
     id: "czechrepublic-moravian-karst-life-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst",
-image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"
-},
+    name: { de: "Mährischer Karst", hu: "Morva-karszt", ro: "Carstul Moravian", en: "Moravian Karst"},
+    image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp",
     coords: [16.712, 49.366],
     coordinates: { lat: 49.366, lng: 16.712 },
     description: {
@@ -580,9 +564,8 @@ image: "/poi-images/czechrepublic-moravian-karst-life-v2.webp"
     id: "czechrepublic-soos-reserve-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve",
-image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"
-},
+    name: { de: "Naturreservat Soos", hu: "Soos természetvédelmi terület", ro: "Rezervația Naturală Soos", en: "Soos National Nature Reserve"},
+    image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp",
     coords: [12.404, 50.147],
     coordinates: { lat: 50.147, lng: 12.404 },
     description: {
@@ -616,9 +599,8 @@ image: "/poi-images/czechrepublic-soos-reserve-life-v2.webp"
     id: "czechrepublic-boubin-primeval-forest-life-v2",
     parent: "CZ",
     type: "forest",
-    name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest",
-image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"
-},
+    name: { de: "Urwald Boubín", hu: "Boubíni őserdő", ro: "Pădurea Virgina Boubín", en: "Boubín Primeval Forest"},
+    image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp",
     coords: [13.824, 48.975],
     coordinates: { lat: 48.975, lng: 13.824 },
     description: {
@@ -652,9 +634,8 @@ image: "/poi-images/czechrepublic-boubin-primeval-forest-life-v2.webp"
     id: "czechrepublic-adrspach-teplice-rocks-life-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks",
-image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"
-},
+    name: { de: "Adersbach-Weckelsdorfer Felsen", hu: "Adršpach-Teplice sziklák", ro: "Stâncile Adršpach-Teplice", en: "Adršpach-Teplice Rocks"},
+    image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp",
     coords: [16.113, 50.613],
     coordinates: { lat: 50.613, lng: 16.113 },
     description: {
@@ -688,9 +669,8 @@ image: "/poi-images/czechrepublic-adrspach-teplice-rocks-life-v2.webp"
     id: "czechrepublic-jeseniky-mountains-life-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains",
-image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"
-},
+    name: { de: "Altvatergebirge", hu: "Jeseníky-hegység", ro: "Munții Jeseníky", en: "Jeseníky Mountains"},
+    image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp",
     coords: [17.231, 50.083],
     coordinates: { lat: 50.083, lng: 17.231 },
     description: {
@@ -724,9 +704,8 @@ image: "/poi-images/czechrepublic-jeseniky-mountains-life-v2.webp"
     id: "czechrepublic-beskydy-mountains-life-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains",
-image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"
-},
+    name: { de: "Beskiden", hu: "Beszkidek", ro: "Munții Beskydy", en: "Beskydy Mountains"},
+    image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp",
     coords: [18.4, 49.5],
     coordinates: { lat: 49.5, lng: 18.4 },
     description: {
@@ -760,9 +739,8 @@ image: "/poi-images/czechrepublic-beskydy-mountains-life-v2.webp"
     id: "czechrepublic-krivoklatsko-forest-life-v2",
     parent: "CZ",
     type: "forest",
-    name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape",
-image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"
-},
+    name: { de: "Pürglitzer Wald", hu: "Křivoklátsko", ro: "Pădurea Křivoklátsko", en: "Křivoklátsko Protected Landscape"},
+    image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp",
     coords: [13.867, 50.033],
     coordinates: { lat: 50.033, lng: 13.867 },
     description: {
@@ -796,9 +774,8 @@ image: "/poi-images/czechrepublic-krivoklatsko-forest-life-v2.webp"
     id: "czechrepublic-prague-botanical-garden-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Botanischer Garten Prag", hu: "Prágai Botanikus Kert", ro: "Grădina Botanică din Praga", en: "Prague Botanical Garden",
-image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Prag", hu: "Prágai Botanikus Kert", ro: "Grădina Botanică din Praga", en: "Prague Botanical Garden"},
+    image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp",
     coords: [14.414, 50.119],
     coordinates: { lat: 50.119, lng: 14.414 },
     description: {
@@ -832,9 +809,8 @@ image: "/poi-images/czechrepublic-prague-botanical-garden-life-v2.webp"
     id: "czechrepublic-rejviz-reserve-life-v2",
     parent: "CZ",
     type: "park",
-    name: { de: "Naturreservat Rejvíz", hu: "Rejvíz természetvédelmi terület", ro: "Rezervația Naturală Rejvíz", en: "Rejvíz Nature Reserve",
-image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"
-},
+    name: { de: "Naturreservat Rejvíz", hu: "Rejvíz természetvédelmi terület", ro: "Rezervația Naturală Rejvíz", en: "Rejvíz Nature Reserve"},
+    image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp",
     coords: [17.294, 50.23],
     coordinates: { lat: 50.23, lng: 17.294 },
     description: {
@@ -868,9 +844,8 @@ image: "/poi-images/czechrepublic-rejviz-reserve-life-v2.webp"
     id: "czechrepublic-slavkovsky-les-life-v2",
     parent: "CZ",
     type: "forest",
-    name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest",
-image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"
-},
+    name: { de: "Kaiserwald", hu: "Slavkovský les", ro: "Codrul Slavkov", en: "Slavkov Forest"},
+    image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp",
     coords: [12.75, 50.083],
     coordinates: { lat: 50.083, lng: 12.75 },
     description: {
@@ -904,9 +879,8 @@ image: "/poi-images/czechrepublic-slavkovsky-les-life-v2.webp"
     id: "czechrepublic-orlicke-hory-life-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains",
-image: "/poi-images/czechrepublic-orlicke-hory-life-v2.webp"
-},
+    name: { de: "Adlergebirge", hu: "Orlické hory", ro: "Munții Orlické", en: "Eagle Mountains"},
+    image: "/poi-images/czechrepublic-orlicke-hory-life-v2.webp",
     coords: [16.442, 50.211],
     coordinates: { lat: 50.211, lng: 16.442 },
     description: {
@@ -933,6 +907,135 @@ image: "/poi-images/czechrepublic-orlicke-hory-life-v2.webp"
       hu: ["Legmagasabb hegye a Velká Deštná (1115 m)", "Hanička tüzérségi erődrendszer", "1969 óta védett terület", "A főgerinc hossza kb. 50 km"],
       ro: ["Cel mai înalt vârf: Velká Deštná (1115 m)", "Fortăreața de artilerie Hanička", "Zonă protejată din anul 1969", "Creastă principală de circa 50 km"],
       en: ["Highest peak Velká Deštná (1115 m)", "Features Hanička artillery fortress", "Protected landscape since 1969", "Main ridge length approx. 50 km"],
+    },
+  }
+,
+  {
+    id: "czechrepublic-podyji-wildlife-life-v2",
+    type: "wildlife",
+    parent: "CZ",
+    name: { de: "Nationalpark Thayatal", hu: "Podyjí Nemzeti Park", ro: "Parcul Național Podyjí", en: "Podyjí National Park Wildlife Reserve" },
+    coordinates: { lat: 48.8475, lng: 15.8942 },
+    description: {
+      de: "Dieser Nationalpark erstreckt sich entlang des Flusstals der Thaya. Er schützt eine vielfältige Flusslandschaft und ihre angrenzenden Trockenwiesen.",
+      hu: "Ez a nemzeti park a Thaya folyó völgye mentén terül el. Védi a változatos folyómenti tájat és az azt övező száraz réteket.",
+      ro: "Acest parc național se întinde de-a lungul văii râului Thaya. Protejează un peisaj fluvial divers și pajiștile sale uscate adiacente.",
+      en: "This national park spans the Thaya river valley. It protects a diverse river landscape and its adjacent dry meadow ecosystems.",
+    },
+    facts: {
+      de: ["Fläche von 63 Quadratkilometern", "Schutz der Thaya-Auen", "Über 1200 Pflanzenarten", "Gegründet im Jahr 1991"],
+      hu: ["63 négyzetkilométeres terület", "A Thaya-ártér védelme", "Több mint 1200 növényfaj", "1991-ben alapították"],
+      ro: ["Suprafață de 63 km pătrați", "Protecția luncii râului Thaya", "Peste 1200 de specii de plante", "Fondat în 1991"],
+      en: ["Area of 63 square kilometers", "Protection of the Thaya floodplain", "Over 1200 plant species", "Established in 1991"],
+    },
+    imageHint: "Podyji national park river valley",
+    descriptionAdvanced: {
+      de: "Der 1991 gegründete Nationalpark Podyjí umfasst 63 Quadratkilometer im Thayatal. Das Schutzgebiet beheimatet seltene Schwarzstörche und 18 verschiedene Fledermausarten.",
+      hu: "Az 1991-ben alapított, 63 négyzetkilométeres terület a Dyje folyó völgyét foglalja magában. Élővilága gazdag, több mint 150 madárfaj és 65 emlősfaj található meg határain belül.",
+      ro: "Înființat în 1991 pe 63 km², parcul protejează valea râului Dyje. Sanctuarul găzduiește 150 de specii de păsări și 18 specii de lilieci în ecosistemele sale de frontieră.",
+      en: "Spanning 63 square kilometers along the Dyje River, this 1991-established park is a crucial biodiversity hotspot. It protects deep river ravines containing over 150 bird species.",
+    },
+    factsAdvanced: {
+      de: ["Fläche von 63 Quadratkilometern", "Gegründet im Jahr 1991", "Beheimatet 150 Vogelarten", "Schützt 18 Fledermausarten", "Über 65 Säugetierarten registriert", "Höhenlage reicht von 207 bis 536 Metern"],
+      hu: ["Kiterjedése pontosan 63 km²", "1991-ben kapott nemzeti parki státuszt", "207 és 536 méter közötti tengerszint feletti magasság", "150 különböző madárfaj élőhelye", "18 denevérfaj él a barlangokban", "Több mint 1000 növényfajt dokumentáltak"],
+      ro: ["Suprafață totală de 63 km²", "Declarat parc național în 1991", "Altitudine cuprinsă între 207 și 536 metri", "18 specii de lilieci inventariate", "150 de specii de păsări monitorizate", "Peste 1000 de specii de plante vasculare"],
+      en: ["Covers exactly 63 square kilometers", "Established as a national park in 1991", "Elevation ranges from 207 to 536 meters", "Home to 18 species of bats", "Supports over 150 bird species", "Protects more than 1,000 plant species"],
+    },
+  },
+  {
+    id: "czechrepublic-hluboka-zoo-life-v2",
+    type: "wildlife",
+    parent: "CZ",
+    name: { de: "Zoo Ohrada", hu: "Ohrada Állatkert", ro: "Grădina Zoologică Ohrada", en: "Ohrada Zoo" },
+    coordinates: { lat: 49.0528, lng: 14.4367 },
+    description: {
+      de: "Der direkt neben dem Schloss Hluboká gelegene Zoo spezialisiert sich auf europäische Fauna. Er beherbergt über 300 verschiedene Tierarten.",
+      hu: "A Hluboká kastély mellett elhelyezkedő állatkert az európai faunára specializálódott. Több mint 300 különféle állatfajnak ad otthont.",
+      ro: "Situată lângă Castelul Hluboká, grădina zoologică este specializată în fauna europeană. Găzduiește peste 300 de specii de animale.",
+      en: "Located next to Hluboká Castle, this zoo specializes in European fauna. It is home to over 300 different animal species.",
+    },
+    facts: {
+      de: ["Eröffnet im Jahr 1939", "Fokus auf Tiere der Paläarktis", "Beteiligt an Zuchtprogrammen", "Direkt am Schlossareal"],
+      hu: ["1939-ben nyílt meg", "A palearktikus fauna állatai", "Tenyésztési programokban vesz részt", "Közvetlenül a kastély területén"],
+      ro: ["Deschisă în 1939", "Focus pe fauna palearctică", "Participă la programe de reproducere", "Situată la castel"],
+      en: ["Opened in 1939", "Focus on palearctic fauna", "Participates in breeding programs", "Located on castle grounds"],
+    },
+    imageHint: "Ohrada zoo Hluboka",
+    descriptionAdvanced: {
+      de: "Der Zoo Hluboká wurde 1939 eröffnet und ist auf die paläarktische Fauna spezialisiert. Er liegt am Ufer des Munický-Teiches neben dem Jagdschloss Ohrada in Südböhmen.",
+      hu: "A Hluboká nad Vltavou melletti állatkert 1939-ben nyílt meg. Elsősorban a palearktikus régió és Közép-Európa őshonos fajainak bemutatására, megőrzésére szakosodott.",
+      ro: "Deschis în 1939, Grădina Zoologică Hluboká este situată lângă castelul Ohrada. Se concentrează pe conservarea speciilor din regiunea palearctică și fauna Europei Centrale.",
+      en: "Founded in 1939 near the Ohrada Hunting Lodge, this zoo focuses on species from the Palearctic region. It houses over 300 animal species in a scenic South Bohemian setting.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 1. Mai 1939", "Etwa 300 verschiedene Tierarten", "Fläche von rund 6 Hektar", "Spezialisierung auf paläarktische Fauna"],
+      hu: ["Megnyitása: 1939. május 1.", "Mintegy 300 állatfaj otthona", "6 hektáros bemutatóterület", "A palearktikus fauna szakértője"],
+      ro: ["Deschis la 1 mai 1939", "Circa 300 de specii de animale", "Suprafață de aproximativ 6 hectare", "Focus pe fauna regiunii palearctice"],
+      en: ["Opened on May 1, 1939", "Home to around 300 animal species", "Occupies an area of 6 hectares", "Specializes in Palearctic region fauna"],
+    },
+  },
+  {
+    id: "czechrepublic-prague-botanical-garden-troja-life-v2",
+    type: "park",
+    parent: "CZ",
+    name: { de: "Botanischer Garten Troja", hu: "Troja Botanikus Kert", ro: "Grădina Botanică Troja", en: "Troja Botanical Garden" },
+    coordinates: { lat: 50.1231, lng: 14.4153 },
+    description: {
+      de: "Diese Anlage im Prager Stadtteil Troja beherbergt weitläufige Freiluftareale und das moderne Fata Morgana Gewächshaus. Sie dient der botanischen Forschung und Bildung.",
+      hu: "Ez a létesítmény Prága Troja kerületében található, kiterjedt szabadtéri területekkel és a modern Fata Morgana üvegházzal. Botanikai kutatást és oktatást szolgál.",
+      ro: "Situată în cartierul Troja din Praga, această grădină include zone vaste în aer liber și sera modernă Fata Morgana. Servește cercetării și educației botanice.",
+      en: "Situated in Prague's Troja district, this facility features vast outdoor areas and the modern Fata Morgana greenhouse. It serves botanical research and education.",
+    },
+    facts: {
+      de: ["Über 25 Hektar Gesamtfläche", "Fata Morgana Gewächshaus", "Sammlung seltener Orchideen", "Gegründet im Jahr 1969"],
+      hu: ["Több mint 25 hektár összterület", "Fata Morgana üvegház", "Ritka orchideagyűjtemény", "1969-ben alapították"],
+      ro: ["Peste 25 de hectare total", "Sera Fata Morgana", "Colecție de orhidee rare", "Fondată în 1969"],
+      en: ["Over 25 hectares total area", "Fata Morgana greenhouse", "Collection of rare orchids", "Established in 1969"],
+    },
+    imageHint: "Troja botanical garden Prague",
+    descriptionAdvanced: {
+      de: "Der 1969 angelegte Botanische Garten Troja umfasst 30 Hektar. Das 2004 eröffnete, 130 Meter lange Fata-Morgana-Gewächshaus beheimatet heute seltene Pflanzen aus drei Klimazonen.",
+      hu: "A 30 hektáron elterülő, 1969-ben alapított trójai kert a Fata Morgana üvegházról ismert. A 2004-ben épült 130 méteres komplexum trópusi növények ezreit mutatja be a látogatóknak.",
+      ro: "Ocupând 30 de hectare din 1969, Grădina Botanică din Troja impresionează prin sera Fata Morgana. Această structură de 130 metri, deschisă în 2004, expune o vastă floră tropicală.",
+      en: "Covering 30 hectares, this garden was established in 1969. It features the 130-meter Fata Morgana greenhouse, built in 2004, housing thousands of rare tropical plant species.",
+    },
+    factsAdvanced: {
+      de: ["Umfasst eine Fläche von 30 Hektar", "Wurde im Jahr 1969 gegründet", "Für die Öffentlichkeit 1992 zugänglich gemacht", "Fata-Morgana-Gewächshaus ist 130 Meter lang", "Gewächshaus wurde 2004 eröffnet", "Beherbergt den historischen Weinberg St. Klara"],
+      hu: ["30 hektáros teljes területen fekszik", "1969-ben hozták létre hivatalosan", "1992-ben nyitották meg a nagyközönség előtt", "A Fata Morgana üvegház 130 méter hosszú", "2004-ben adták át a trópusi üvegházat", "Több mint 15 000 növényfajt gondoznak itt"],
+      ro: ["Acoperă o suprafață de 30 de hectare", "Fondată oficial în anul 1969", "Deschisă publicului larg în 1992", "Sera Fata Morgana are o lungime de 130 de metri", "Sera tropicală a fost inaugurată în 2004", "Găzduiește podgoria istorică Sfânta Clara"],
+      en: ["Encompasses a 30-hectare area", "Officially established in 1969", "Opened to the general public in 1992", "Fata Morgana greenhouse spans 130 meters", "The tropical greenhouse opened in 2004", "Cultivates over 15,000 species of plants"],
+    },
+  },
+  {
+    id: "czechrepublic-bilichov-nature-reserve-life-v2",
+    type: "forest",
+    parent: "CZ",
+    name: { de: "Naturschutzgebiet Bilichov", hu: "Bilichov Természetvédelmi Terület", ro: "Rezervația Naturală Bilichov", en: "Bilichov Nature Reserve" },
+    coordinates: { lat: 50.2185, lng: 13.9856 },
+    description: {
+      de: "Dieses Schutzgebiet liegt im böhmischen Mittelgebirge und umfasst wertvolle Buchenwald-Bestände. Es dient als Rückzugsort für bedrohte Insektenarten.",
+      hu: "Ez a védett terület a Cseh-középhegységben található, és értékes bükkösöket foglal magában. Veszélyeztetett rovarfajok menedékhelye.",
+      ro: "Această rezervație naturală este situată în Munții Centrali Boemieni și include păduri valoroase de fag. Servește drept refugiu pentru specii de insecte amenințate.",
+      en: "This reserve is located in the Central Bohemian Uplands and includes valuable beech forest stands. It serves as a sanctuary for threatened insect species.",
+    },
+    facts: {
+      de: ["Schutz alter Buchenbestände", "Region Kladno", "Wichtiger Biodiversitäts-Hotspot", "Beherbergt seltene Käfer"],
+      hu: ["Öreg bükkösök védelme", "Kladno régió", "Fontos biodiverzitási hotspot", "Ritka bogárfajok élőhelye"],
+      ro: ["Protecția fagilor seculari", "Regiunea Kladno", "Hotspot de biodiversitate", "Adăpostește gândaci rari"],
+      en: ["Protection of old beech stands", "Kladno region", "Key biodiversity hotspot", "Home to rare beetles"],
+    },
+    imageHint: "Beech forest Czech central highlands",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Bílichov liegt im Bezirk Kladno in Mittelböhmen. Es wurde 1967 auf einer Fläche von 38 Hektar ausgewiesen und schützt ein wertvolles Waldgebiet mit überwiegend Buchenbestand. Die Reserve beherbergt eine reiche Flora und Fauna, darunter seltene Orchideenarten und den Feuersalamander. Der Laubwaldbestand ist teilweise über 150 Jahre alt. Das Gebiet dient der wissenschaftlichen Forschung und der Umweltbildung. Besucher können das Gebiet auf markierten Wegen erkunden.",
+      hu: "A Bílichov természetvédelmi terület Közép-Csehországban, Kladno járásban található. 1967-ben hozták létre, területe 38 hektár. Védett erdőterület, túlnyomórészt bükkös. Gazdag növény- és állatvilággal rendelkezik, ritka orchideafajokkal és a tűzszalamandrával. Az erdő egy része több mint 150 éves. Tudományos kutatás és környezeti nevelés céljára szolgál. Látogatók jelzett ösvényeken járhatják be.",
+      ro: "Rezervația naturală Bílichov este situată în districtul Kladno, în Boemia Centrală. A fost înființată în 1967 pe o suprafață de 38 de hectare, protejând o pădure valoroasă cu predominanță de fag. Rezervația găzduiește o floră și faună bogată, inclusiv specii rare de orhidee și salamandra de foc. Pădurea are peste 150 de ani în unele părți. Este folosită pentru cercetare științifică și educație ecologică.",
+      en: "Bílichov Nature Reserve is located in the Kladno District of central Bohemia. It was established in 1967, covering 38 hectares, protecting a valuable forest area dominated by beech trees. The reserve hosts rich flora and fauna, including rare orchid species and the fire salamander. Some forest stands are over 150 years old. The area is used for scientific research and environmental education. Visitors can explore via marked trails.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1967", "Fläche: 38 Hektar", "Höchster Punkt: 350 m ü. M.", "Dominante Baumart: Buche", "Alter der Bäume: bis zu 150 Jahre", "Anzahl der Orchideenarten: 5"],
+      hu: ["Alapítás éve: 1967", "Terület: 38 hektár", "Legmagasabb pont: 350 m tszf.", "Uralkodó fafaj: bükk", "Fák kora: akár 150 év", "Orchideafajok száma: 5"],
+      ro: ["Anul înființării: 1967", "Suprafață: 38 de hectare", "Cel mai înalt punct: 350 m deasupra n.m.", "Specie de arbore dominant: fag", "Vârsta copacilor: până la 150 de ani", "Număr de specii de orhidee: 5"],
+      en: ["Year established: 1967", "Area: 38 hectares", "Highest point: 350 m above sea level", "Dominant tree species: beech", "Tree age: up to 150 years", "Number of orchid species: 5"],
     },
   }
 ];

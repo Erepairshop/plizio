@@ -263,106 +263,6 @@ export const estoniaRegions: POI[] = estoniaAllPoiBase.slice(1);
 
 export const estoniaCities: POI[] = [
   {
-    id: "city-tallinn",
-    type: "city",
-    parent: "ee-country",
-    coords: [24.7536, 59.4369],
-    name: {
-      de: "Tallinn",
-      hu: "Tallinn",
-      ro: "Tallinn",
-      en: "Tallinn"
-    },
-    description: {
-      de: "Hauptstadt, UNESCO-Altstadt und Toompea.",
-      hu: "Főváros, UNESCO óváros, Toompea.",
-      ro: "Capitala, orașul vechi UNESCO, Toompea.",
-      en: "Capital city, UNESCO old town, Toompea."
-    },
-    facts: {
-      de: ["Estlands Hauptstadt", "UNESCO-Altstadt"],
-      hu: ["Észtország fővárosa", "UNESCO óváros"],
-      ro: ["Capitala Estoniei", "Oraș vechi UNESCO"],
-      en: ["Capital of Estonia", "UNESCO old town"]
-    },
-    image: "/geo-images/estonia/tallinn.webp"
-  },
-  {
-    id: "city-tartu",
-    type: "city",
-    parent: "ee-country",
-    coords: [26.7213, 58.3776],
-    name: {
-      de: "Tartu",
-      hu: "Tartu",
-      ro: "Tartu",
-      en: "Tartu"
-    },
-    description: {
-      de: "Die zweitgrößte Stadt, mit Universität von 1632.",
-      hu: "2. legnagyobb, 1632-es egyetem.",
-      ro: "Al doilea oraș ca mărime, universitate din 1632.",
-      en: "Second-largest city, university from 1632."
-    },
-    facts: {
-      de: ["Zweitgrößte Stadt", "Universität von 1632"],
-      hu: ["2. legnagyobb város", "1632-es egyetem"],
-      ro: ["Al doilea oraș ca mărime", "Universitate din 1632"],
-      en: ["Second-largest city", "University founded in 1632"]
-    },
-    image: "/geo-images/estonia/tartu.webp"
-  },
-  {
-    id: "city-parnu",
-    type: "city",
-    parent: "ee-country",
-    coords: [24.4968, 58.3859],
-    name: {
-      de: "Pärnu",
-      hu: "Pärnu",
-      ro: "Pärnu",
-      en: "Pärnu"
-    },
-    description: {
-      de: "Küstenkurort und Estlands Sommerhauptstadt.",
-      hu: "Tengerparti üdülőhely, észt nyári főváros.",
-      ro: "Stațiune de coastă și capitala de vară a Estoniei.",
-      en: "Coastal resort and Estonia's summer capital."
-    },
-    facts: {
-      de: ["Badeort an der Küste", "Sommerhauptstadt Estlands"],
-      hu: ["Tengerparti üdülőhely", "Észt nyári főváros"],
-      ro: ["Stațiune de coastă", "Capitala de vară a Estoniei"],
-      en: ["Coastal resort", "Estonia's summer capital"]
-    },
-    image: "/geo-images/estonia/parnu.webp"
-  },
-  {
-    id: "city-narva",
-    type: "city",
-    parent: "ee-country",
-    coords: [28.1939, 59.3794],
-    name: {
-      de: "Narva",
-      hu: "Narva",
-      ro: "Narva",
-      en: "Narva"
-    },
-    description: {
-      de: "Östliche Grenzstadt mit Burg aus dem 13. Jahrhundert.",
-      hu: "Kelet-határ, 13. századi kastély, Ivangorod.",
-      ro: "Oraș de graniță estic, castel din secolul al XIII-lea, Ivangorod.",
-      en: "Eastern border city, 13th-century castle, Ivangorod."
-    },
-    facts: {
-      de: ["Östliche Grenzstadt", "Burg aus dem 13. Jahrhundert"],
-      hu: ["Keleti határváros", "13. századi kastély"],
-      ro: ["Oraș de graniță estic", "Castel din secolul al XIII-lea"],
-      en: ["Eastern border city", "13th-century castle"]
-    },
-    image: "/geo-images/estonia/narva.webp"
-  },
-  {
     id: "city-tapa",
     type: "city",
     parent: "ee-country",
@@ -641,31 +541,6 @@ export const estoniaCulture: POI[] = [
     image: "/geo-images/estonia/kadriorg.webp"
   },
   {
-    id: "cult-haapsalu",
-    type: "landmark",
-    parent: "ee-country",
-    coords: [23.5417, 58.9444],
-    name: {
-      de: "Bischofsburg Haapsalu",
-      hu: "Haapsalu püspöki vár",
-      ro: "Castelul episcopal Haapsalu",
-      en: "Haapsalu Bishop's Castle"
-    },
-    description: {
-      de: "Burg aus dem 13. Jahrhundert, von Tschaikowski besucht.",
-      hu: "13. század, Csajkovszkij látogatta.",
-      ro: "Secolul al XIII-lea, vizitat de Ceaikovski.",
-      en: "13th century, visited by Tchaikovsky."
-    },
-    facts: {
-      de: ["13. Jahrhundert", "Tschaikowski-Besuch"],
-      hu: ["13. század", "Csajkovszkij látogatta"],
-      ro: ["Secolul al XIII-lea", "Vizitat de Ceaikovski"],
-      en: ["13th century", "Visited by Tchaikovsky"]
-    },
-    image: "/geo-images/estonia/haapsalu.webp"
-  },
-  {
     id: "cult-narva-castle",
     type: "historical",
     parent: "ee-country",
@@ -889,51 +764,6 @@ export const estoniaCulture: POI[] = [
       en: ["Main castle on Saaremaa", "Medieval origins", "Now a museum and attraction", "Defines Kuressaare's center", "Popular motif for island trips"]
     },
     image: "/geo-images/estonia/kuressaare-castle.webp"
-  },
-  {
-    id: "hist-narva-hermann-castle",
-    type: "historical",
-    parent: "ee-country",
-    coords: [28.1965, 59.3774],
-    name: {
-      de: "Hermannsfeste Narva",
-      hu: "Narva Hermann vára",
-      ro: "Castelul Hermann din Narva",
-      en: "Narva Hermann Castle"
-    },
-    description: {
-      de: "Narva Hermann Castle steht direkt an der Grenze und gehört zu den symbolisch stärksten historischen Orten Estlands. Die Festung blickt auf die russische Seite über den Fluss und erzählt von jahrhundertelanger Grenzgeschichte. Ihre Mauern verbinden Militärarchitektur, Machtpolitik und Stadtentwicklung auf engem Raum. Für Suchanfragen zu Grenzburgen und Ostseegeschichte ist Narva ein sehr starkes Keyword.",
-      hu: "A Narva Hermann-vár közvetlenül a határon áll, és Észtország egyik legszimbolikusabb történelmi helye. Az erőd a folyó túloldalán lévő orosz oldalra tekint, és évszázados határtörténetet mesél. Falai katonai építészetet, hatalmi politikát és városfejlődést sűrítenek egy helyre. Határvárakra és balti történelemre irányuló kereséseknél Narva nagyon erős kulcsszó.",
-      ro: "Castelul Hermann din Narva stă direct la graniță și este unul dintre cele mai simbolice locuri istorice din Estonia. Cetatea privește spre partea rusă a râului și spune povestea unei istorii de frontieră de secole. Zidurile sale reunesc arhitectura militară, politica puterii și dezvoltarea urbană într-un singur spațiu. Pentru căutările despre cetăți de frontieră și istoria baltică, Narva este un cuvânt-cheie foarte puternic.",
-      en: "Narva Hermann Castle stands right on the border and is one of Estonia's most symbolic historic places. The fortress looks across the river toward the Russian side and tells a centuries-long border story. Its walls bring military architecture, power politics, and urban development together in one place. For searches about border fortresses and Baltic history, Narva is a very strong keyword."
-    },
-    facts: {
-      de: ["Direkt an der estnisch-russischen Grenze", "Bedeutendes Symbol von Narva", "Mittelalterliche Festung am Narva-Fluss", "Enge Verbindung zur Grenzgeschichte", "Wichtig für Ostseeraum-SEO"],
-      hu: ["Közvetlenül az észt-orosz határon", "Narva fontos szimbóluma", "Középkori erőd a Narva folyónál", "Erős kapcsolat a határtörténettel", "Fontos kulcsszó a balti SEO-ban"],
-      ro: ["Chiar la granița estono-rusă", "Simbol important al orașului Narva", "Cetate medievală pe râul Narva", "Legată strâns de istoria frontierei", "Cuvânt-cheie important pentru SEO-ul baltic"],
-      en: ["Right on the Estonian-Russian border", "A major symbol of Narva", "Medieval fortress on the Narva River", "Closely tied to border history", "Important keyword for Baltic SEO"]
-    },
-    image: "/geo-images/estonia/narva-hermann-castle.webp"
-  },
-  {
-    id: "hist-rakvere-castle",
-    type: "historical",
-    parent: "ee-country",
-    coords: [26.3570, 59.3479],
-    name: { de: "Rakvere-Burg", hu: "Rakvere vára", ro: "Castelul Rakvere", en: "Rakvere Castle" },
-    description: {
-      de: "Rakvere Castle ist eine markante Ruinenburg im Norden Estlands mit hohem Wiedererkennungswert. Die Anlage wirkt zugleich historisch und touristisch inszeniert und ist deshalb für Familien und Geschichtsinteressierte attraktiv. Die Burg erzählt von Ordenszeit, regionaler Macht und Grenzschutz im mittelalterlichen Estland. Als Suchbegriff funktioniert Rakvere hervorragend für historische und familienorientierte Reisen.",
-      hu: "A Rakvere-vár látványos romvár Észak-Észtországban, erős felismerhetőséggel. Az épületegyüttes egyszerre történelmi és turisztikailag jól megkomponált, ezért családok és történelemkedvelők számára is vonzó. A vár a lovagrendi korszakról, a regionális hatalomról és a középkori határvédelemről mesél. Keresési szempontból Rakvere kiváló történelmi és családi utazási kulcsszó.",
-      ro: "Castelul Rakvere este o ruină impresionantă din nordul Estoniei, foarte ușor de recunoscut. Ansamblul este în același timp istoric și bine pus în valoare turistic, fiind atractiv pentru familii și pasionații de istorie. Castelul povestește despre epoca ordinelor militare, puterea regională și apărarea granițelor în Estonia medievală. Ca termen de căutare, Rakvere funcționează excelent pentru turism istoric și de familie.",
-      en: "Rakvere Castle is a striking ruined castle in northern Estonia with a strong visual identity. The site feels both historic and tourist-friendly, making it attractive to families and history lovers. The castle tells the story of the Teutonic era, regional power, and medieval border defense in Estonia. As a search term, Rakvere works very well for historical and family travel."
-    },
-    facts: {
-      de: ["Bekannte Ruinenburg in Nordestland", "Starkes Familien- und Historikermotiv", "Erinnert an die Ordenszeit", "Teil des touristischen Markenbildes von Rakvere", "Gute Kombination aus Kultur und Erlebnis"],
-      hu: ["Híres romvár Észak-Észtországban", "Erős családi és történelmi vonzerő", "A lovagrendi korszakra utal", "Rakvere turisztikai arculatának része", "Jó kombináció kultúrából és élményből"],
-      ro: ["Ruine de castel cunoscută în nordul Estoniei", "Atracție puternică pentru familii și istorici", "Trimite la epoca ordinelor militare", "Parte din brandul turistic al orașului Rakvere", "Combinație bună între cultură și experiență"],
-      en: ["Well-known ruined castle in northern Estonia", "Strong draw for families and history fans", "Recalls the Teutonic era", "Part of Rakvere's tourism brand", "A good mix of culture and experience"]
-    },
-    image: "/geo-images/estonia/rakvere-castle.webp"
   },
   {
     id: "hist-padise-abbey",
@@ -1198,31 +1028,6 @@ export const estoniaCulture: POI[] = [
 ];
 
 export const estoniaNature: POI[] = [
-  {
-    id: "nat-lahemaa",
-    type: "landmark",
-    parent: "ee-country",
-    coords: [25.9, 59.55],
-    name: {
-      de: "Lahemaa-Nationalpark",
-      hu: "Lahemaa NP",
-      ro: "Parcul Național Lahemaa",
-      en: "Lahemaa National Park"
-    },
-    description: {
-      de: "Größter Nationalpark, Küste, Wald und Moor.",
-      hu: "Legnagyobb NP, tengerpart + erdő + mocsár.",
-      ro: "Cel mai mare parc național, coastă + pădure + mlaștină.",
-      en: "Largest national park, coast, forest and bog."
-    },
-    facts: {
-      de: ["Größter Nationalpark", "Küste und Moor"],
-      hu: ["Legnagyobb nemzeti park", "Tengerpart és mocsár"],
-      ro: ["Cel mai mare parc național", "Coastă și mlaștină"],
-      en: ["Largest national park", "Coast and bog"]
-    },
-    image: "/geo-images/estonia/lahemaa.webp"
-  },
   {
     id: "nat-saaremaa",
     type: "landmark",
@@ -1734,56 +1539,6 @@ export const estoniaNature: POI[] = [
     image: "/geo-images/estonia/r2big-loksa.webp"
   },
   {
-    id: "ee-r2big-kardla",
-    type: "city",
-    parent: "ee-country",
-    coords: [22.7470, 58.9970],
-    name: {
-      de: "Kärdla",
-      hu: "Kärdla",
-      ro: "Kärdla",
-      en: "Kärdla"
-    },
-    description: {
-      de: "Kärdla ist die Hauptstadt von Hiiumaa und das wichtigste Zentrum der Insel. Der Ort verbindet ruhige Straßen, Küstenluft und eine kompakte Stadtstruktur. Besucher nutzen Kärdla oft als Basis für die gesamte Insel. Damit ist Kärdla ein starkes Stichwort für Insel- und Regionalreisen in Estland.",
-      hu: "Kärdla Hiiumaa központja és a sziget legfontosabb városa. A település csendes utcákat, tengeri levegőt és jól áttekinthető városszerkezetet kínál. A látogatók gyakran bázisként használják az egész sziget felfedezéséhez. Kärdla ezért erős kulcsszó az észt sziget- és régiós utazásokban.",
-      ro: "Kärdla este centrul insulei Hiiumaa și cel mai important oraș al ei. Localitatea combină străzi liniștite, aer marin și o structură urbană compactă. Vizitatorii o folosesc adesea ca bază pentru explorarea întregii insule. Kärdla este astfel un nume puternic pentru rutele regionale din Estonia.",
-      en: "Kärdla is the center of Hiiumaa and the island's main town. It combines quiet streets, sea air, and a compact urban layout. Visitors often use Kärdla as a base for exploring the whole island. That makes it a strong keyword for Estonian island and regional travel."
-    },
-    facts: {
-      de: ["Hiiumaa", "Inselhauptort", "Kompakte Küstenstadt", "Guter Ausgangspunkt für die Insel", "Stark für Insel-SEO"],
-      hu: ["Hiiumaa szigete", "Szigetközpont", "Kompakt tengerparti város", "Jó bázis a felfedezéshez", "Erős sziget SEO"],
-      ro: ["Hiiumaa", "Centru insular", "Oraș de coastă compact", "Bază bună pentru explorare", "SEO puternic pentru insulă"],
-      en: ["Hiiumaa", "Island center", "Compact coastal town", "Good base for exploring", "Strong island SEO"]
-    },
-    image: "/geo-images/estonia/r2big-kardla.webp"
-  },
-  {
-    id: "ee-r2big-johvi",
-    type: "city",
-    parent: "ee-country",
-    coords: [27.4215, 59.3605],
-    name: {
-      de: "Jõhvi",
-      hu: "Jõhvi",
-      ro: "Jõhvi",
-      en: "Jõhvi"
-    },
-    description: {
-      de: "Jõhvi liegt im Herzen von Ida-Viru und ist ein wichtiger regionaler Knotenpunkt. Die Stadt ist klein, aber funktional und gut mit dem Rest des Landkreises verbunden. Für Reisen zwischen Narva, Kohtla-Järve und dem Osten Estlands ist Jõhvi praktisch. Der Name ist damit auch für regionale Suchbegriffe sehr wertvoll.",
-      hu: "Jõhvi Ida-Viru központi részén található és fontos regionális csomópont. A város kicsi, de jól működő és az egész megyével jó kapcsolatban áll. Narva, Kohtla-Järve és Kelet-Észtország között Jõhvi hasznos megálló. A név ezért a regionális keresésekben is erős.",
-      ro: "Jõhvi se află în centrul regiunii Ida-Viru și este un nod regional important. Orașul este mic, dar funcțional și bine legat de restul județului. Pentru traseele dintre Narva, Kohtla-Järve și estul Estoniei, Jõhvi este foarte practic. Numele are valoare bună și pentru căutările regionale.",
-      en: "Jõhvi sits in the heart of Ida-Viru County and serves as an important regional hub. The town is small but functional, with strong links across the county. For travel between Narva, Kohtla-Järve, and eastern Estonia, Jõhvi is very practical. The name is also valuable for regional search intent."
-    },
-    facts: {
-      de: ["Ida-Viru", "Regionaler Knotenpunkt", "Nahe Narva und Kohtla-Järve", "Praktischer Zwischenstopp", "Starkes Regional-Keyword"],
-      hu: ["Ida-Viru megye", "Regionális csomópont", "Narva és Kohtla-Järve közelében", "Hasznos megálló", "Erős regionális kulcsszó"],
-      ro: ["Județul Ida-Viru", "Nod regional", "Aproape de Narva și Kohtla-Järve", "Oprire practică", "Cuvânt-cheie regional bun"],
-      en: ["Ida-Viru County", "Regional hub", "Near Narva and Kohtla-Järve", "Practical stop", "Strong regional keyword"]
-    },
-    image: "/geo-images/estonia/r2big-johvi.webp"
-  },
-  {
     id: "ee-r2big-jogeva",
     type: "city",
     parent: "ee-country",
@@ -1809,31 +1564,6 @@ export const estoniaNature: POI[] = [
     image: "/geo-images/estonia/r2big-jogeva.webp"
   },
   {
-    id: "ee-r2big-paide",
-    type: "city",
-    parent: "ee-country",
-    coords: [25.5530, 58.8850],
-    name: {
-      de: "Paide",
-      hu: "Paide",
-      ro: "Paide",
-      en: "Paide"
-    },
-    description: {
-      de: "Paide liegt mitten in Estland und ist die Hauptstadt von Järva. Die Stadt ist klein, übersichtlich und gut für kurze Zwischenstopps geeignet. Ihr ruhiges Zentrum macht Paide für regionale Rundreisen leicht planbar. Für Inhalte über Mittelestland ist Paide ein klarer und nützlicher Name.",
-      hu: "Paide Észtország közepén fekszik és Järva megye központja. A város kicsi, áttekinthető és rövid megállókhoz nagyon jó. Nyugodt központja miatt könnyen beilleszthető a közép-észt körutakba. A közép-észt tartalmakban Paide egyértelmű és hasznos név.",
-      ro: "Paide se află în centrul Estoniei și este capitala județului Järva. Orașul este mic, ușor de parcurs și foarte bun pentru opriri scurte. Centrul său liniștit îl face simplu de inclus în trasee regionale. Pentru conținutul despre Estonia centrală, Paide este un nume clar și util.",
-      en: "Paide sits in the center of Estonia and serves as the capital of Järva County. The town is small, easy to navigate, and good for short stops. Its calm center makes it simple to include in regional routes. For central Estonia content, Paide is a clear and useful name."
-    },
-    facts: {
-      de: ["Järva maakond", "Mitten in Estland", "Kleine übersichtliche Stadt", "Guter Zwischenstopp", "Nützlich für Mittelestland-SEO"],
-      hu: ["Järva megye", "Észtország közepe", "Kicsi és áttekinthető város", "Jó megálló", "Hasznos közép-észt SEO"],
-      ro: ["Județul Järva", "În centrul Estoniei", "Oraș mic și ușor de parcurs", "Oprire bună", "Util pentru SEO central-estonian"],
-      en: ["Järva County", "In the center of Estonia", "Small and easy to navigate", "Good stopover", "Useful for central Estonia SEO"]
-    },
-    image: "/geo-images/estonia/r2big-paide.webp"
-  },
-  {
     id: "ee-r2big-lihula",
     type: "city",
     parent: "ee-country",
@@ -1857,56 +1587,6 @@ export const estoniaNature: POI[] = [
       en: ["Lääne County", "Western Estonia", "Near Matsalu", "Historic small town", "Good for coastal routes"]
     },
     image: "/geo-images/estonia/r2big-lihula.webp"
-  },
-  {
-    id: "ee-r2big-tapa",
-    type: "city",
-    parent: "ee-country",
-    coords: [25.9580, 59.2600],
-    name: {
-      de: "Tapa",
-      hu: "Tapa",
-      ro: "Tapa",
-      en: "Tapa"
-    },
-    description: {
-      de: "Tapa ist ein wichtiger Eisenbahnknoten in Lääne-Viru. Die Stadt ist klein, aber für Verkehr und regionale Verbindungen strategisch wichtig. Reisende sehen Tapa oft als praktischen Halt zwischen Tallinn, Rakvere und Narva. Für Bahn- und Ostestland-Inhalte ist der Ort besonders passend.",
-      hu: "Tapa fontos vasúti csomópont Lääne-Viru megyében. A város kicsi, de közlekedési és regionális kapcsolati szempontból stratégiai jelentőségű. Az utazók gyakran praktikus megállóként tekintenek rá Tallinn, Rakvere és Narva között. Vasúti és kelet-észt tartalmakhoz különösen illik.",
-      ro: "Tapa este un nod feroviar important în județul Lääne-Viru. Orașul este mic, dar strategic pentru transport și conexiuni regionale. Călătorii îl văd adesea ca oprire practică între Tallinn, Rakvere și Narva. Este foarte potrivit pentru conținutul despre calea ferată și estul Estoniei.",
-      en: "Tapa is an important railway hub in Lääne-Viru County. The town is small, but strategic for transport and regional connections. Travelers often see it as a practical stop between Tallinn, Rakvere, and Narva. It fits especially well in rail and eastern Estonia content."
-    },
-    facts: {
-      de: ["Lääne-Viru", "Wichtiger Bahnknoten", "Zwischen Tallinn und Narva", "Praktischer Halt", "Stark für Bahn-SEO"],
-      hu: ["Lääne-Viru megye", "Fontos vasúti csomópont", "Tallinn és Narva között", "Hasznos megálló", "Erős vasúti SEO"],
-      ro: ["Județul Lääne-Viru", "Nod feroviar important", "Între Tallinn și Narva", "Oprire practică", "SEO puternic pentru trenuri"],
-      en: ["Lääne-Viru County", "Important railway hub", "Between Tallinn and Narva", "Practical stop", "Strong for rail SEO"]
-    },
-    image: "/geo-images/estonia/r2big-tapa.webp"
-  },
-  {
-    id: "ee-r2big-polva",
-    type: "city",
-    parent: "ee-country",
-    coords: [27.0550, 58.0590],
-    name: {
-      de: "Põlva",
-      hu: "Põlva",
-      ro: "Põlva",
-      en: "Põlva"
-    },
-    description: {
-      de: "Põlva ist das Zentrum des gleichnamigen Landkreises im Südosten Estlands. Die Stadt ist ruhig, kompakt und eng mit der Natur der Region verbunden. Besucher kombinieren Põlva oft mit Seen, Wäldern und Setomaa. Für Südostestland-Routen ist der Ort ein nützlicher Kernpunkt.",
-      hu: "Põlva a délkelet-észtországi azonos nevű megye központja. A város csendes, kompakt és szorosan kapcsolódik a régió természetéhez. A látogatók gyakran tavakkal, erdőkkel és Setomaa vidékkel együtt fedezik fel. Délkelet-Észtország útvonalain Põlva hasznos központ.",
-      ro: "Põlva este centrul județului cu același nume din sud-estul Estoniei. Orașul este liniștit, compact și strâns legat de natura regiunii. Vizitatorii îl combină adesea cu lacuri, păduri și zona Setomaa. Pentru rutele din sud-estul Estoniei, Põlva este un punct util.",
-      en: "Põlva is the center of its namesake county in southeastern Estonia. The town is quiet, compact, and closely tied to the region's nature. Visitors often combine it with lakes, forests, and the Setomaa area. For southeast Estonia routes, Põlva is a useful core stop."
-    },
-    facts: {
-      de: ["Põlva maakond", "Südosten von Estland", "Nähe zu Setomaa", "Kompakte Kleinstadt", "Gut für Naturtouren"],
-      hu: ["Põlva megye", "Észtország délkeleti része", "Setomaa közelében", "Kompakt kisváros", "Jó természetes útvonalakhoz"],
-      ro: ["Județul Põlva", "Sud-estul Estoniei", "Aproape de Setomaa", "Oraș compact", "Bun pentru tururi în natură"],
-      en: ["Põlva County", "Southeast Estonia", "Near Setomaa", "Compact small town", "Good for nature tours"]
-    },
-    image: "/geo-images/estonia/r2big-polva.webp"
   },
   {
     id: "ee-r2big-kilingi-nomme",
@@ -2009,31 +1689,6 @@ export const estoniaNature: POI[] = [
     image: "/geo-images/estonia/r2big-elva.webp"
   },
   {
-    id: "ee-r2big-valga",
-    type: "city",
-    parent: "ee-country",
-    coords: [26.0440, 57.7750],
-    name: {
-      de: "Valga",
-      hu: "Valga",
-      ro: "Valga",
-      en: "Valga"
-    },
-    description: {
-      de: "Valga liegt an der Grenze zu Lettland und hat eine klare Grenzstadtidentität. Die Stadt ist Verwaltungssitz und spielt für Verkehr und Handel im Süden eine wichtige Rolle. Besucher merken schnell die besondere Lage zwischen zwei Ländern. Für grenznahe Estland-Inhalte ist Valga ein sehr starkes Stichwort.",
-      hu: "Valga a lett határnál fekszik és erős határvárosi identitással rendelkezik. A város megyeszékhely és fontos szerepet játszik a déli közlekedésben és kereskedelemben. A látogatók gyorsan érzékelik a két ország közötti különleges fekvést. A határ menti észt tartalmakhoz Valga nagyon erős kulcsszó.",
-      ro: "Valga se află la granița cu Letonia și are o identitate clară de oraș de frontieră. Orașul este centru administrativ și joacă un rol important în transport și comerțul din sud. Vizitatorii observă imediat poziția specială dintre două țări. Pentru conținutul despre Estonia de frontieră, Valga este un termen foarte puternic.",
-      en: "Valga sits on the border with Latvia and has a clear border-town identity. The town is an administrative center and plays an important role in southern transport and trade. Visitors quickly notice its special position between two countries. For border-region Estonia content, Valga is a very strong keyword."
-    },
-    facts: {
-      de: ["Grenze zu Lettland", "Südliches Estland", "Verwaltungssitz", "Starker Grenzstadt-Charakter", "Wichtig für Süd-SEO"],
-      hu: ["Lett határ", "Dél-Észtország", "Közigazgatási központ", "Erős határvárosi jelleg", "Fontos déli SEO"],
-      ro: ["Granița cu Letonia", "Sudul Estoniei", "Centru administrativ", "Caracter puternic de frontieră", "Important pentru SEO sudic"],
-      en: ["Border with Latvia", "Southern Estonia", "Administrative center", "Strong border-town feel", "Important for south SEO"]
-    },
-    image: "/geo-images/estonia/r2big-valga.webp"
-  },
-  {
     id: "ee-r2big-karksi-nuia",
     type: "city",
     parent: "ee-country",
@@ -2082,31 +1737,6 @@ export const estoniaNature: POI[] = [
       en: ["Setomaa", "Southeast Estonia", "Spa culture and water", "Strong Seto identity", "Important for regional SEO"]
     },
     image: "/geo-images/estonia/r2big-varska.webp"
-  },
-  {
-    id: "ee-r2big-padise-abbey",
-    type: "historical",
-    parent: "ee-country",
-    coords: [24.1400, 59.2230],
-    name: {
-      de: "Padise-Kloster",
-      hu: "Padise kolostor",
-      ro: "Mănăstirea Padise",
-      en: "Padise Abbey"
-    },
-    description: {
-      de: "Das Padise-Kloster gehört zu den markantesten historischen Orten im Kreis Harju. Die Ruinen erzählen von klösterlicher Macht, Grenzgeschichte und mittelalterlicher Architektur. Besucher verbinden Padise mit ruhigen Landschaften und einem starken Geschichtston. Für Kultur- und Geschichtsreisen in Westestland ist der Ort sehr wertvoll.",
-      hu: "A Padise kolostor Harju egyik legjellegzetesebb történelmi helyszíne. A romok a szerzetesi hatalomról, a határvidéki történelemről és a középkori építészetről mesélnek. A látogatók Padise-t nyugodt tájjal és erős történelmi hangulattal kapcsolják össze. Nyugat-Észtország kulturális útvonalain a helyszín nagyon értékes.",
-      ro: "Mănăstirea Padise este unul dintre cele mai distinctive locuri istorice din județul Harju. Ruinele vorbesc despre puterea monastică, istoria de frontieră și arhitectura medievală. Vizitatorii asociază Padise cu peisaje liniștite și o atmosferă istorică puternică. Pentru tururile culturale din vestul Estoniei, locul este foarte valoros.",
-      en: "Padise Abbey is one of the most distinctive historic places in Harju County. The ruins tell stories of monastic power, border history, and medieval architecture. Visitors connect Padise with quiet landscapes and a strong historical mood. For cultural and history travel in western Estonia, the site is highly valuable."
-    },
-    facts: {
-      de: ["Harju maakond", "Mittelalterliche Klosterruine", "Starker Geschichtsbezug", "Ruhige Landschaft", "Wertvoll für Heritage-SEO"],
-      hu: ["Harju megye", "Középkori kolostorrom", "Erős történelmi tartalom", "Nyugodt táj", "Értékes történelmi SEO"],
-      ro: ["Județul Harju", "Ruine de mănăstire medievală", "Conținut istoric puternic", "Peisaj liniștit", "Valoros pentru SEO istoric"],
-      en: ["Harju County", "Medieval abbey ruins", "Strong historical theme", "Quiet landscape", "Valuable for history SEO"]
-    },
-    image: "/geo-images/estonia/padise-abbey.webp"
   },
   {
     id: "ee-r2big-keila-joa-manor",
@@ -2209,31 +1839,6 @@ export const estoniaNature: POI[] = [
     image: "/geo-images/estonia/tammsaare-museum.webp"
   },
   {
-    id: "ee-r2big-suur-munamagi",
-    type: "mountain",
-    parent: "ee-country",
-    coords: [27.0640, 57.6980],
-    name: {
-      de: "Suur Munamägi",
-      hu: "Suur Munamägi",
-      ro: "Suur Munamägi",
-      en: "Suur Munamägi"
-    },
-    description: {
-      de: "Suur Munamägi ist der höchste Punkt Estlands und ein zentrales Naturziel im Südosten. Der Hügel ist klein im europäischen Maßstab, aber für Estland symbolisch sehr wichtig. Besucher kommen für Aussicht, Landschaft und ein klares Landeserlebnis. Für Natur- und Höhenlagen-SEO ist der Name unverzichtbar.",
-      hu: "A Suur Munamägi Észtország legmagasabb pontja és a délkeleti természet egyik központi célpontja. Európai léptékben domb, de Észtország számára nagyon szimbolikus. A látogatók a kilátás, a táj és az országélmény miatt érkeznek ide. Természetes és magassági SEO-hoz a név nélkülözhetetlen.",
-      ro: "Suur Munamägi este cel mai înalt punct al Estoniei și o destinație naturală importantă în sud-est. La scară europeană este doar un deal, dar pentru Estonia are o valoare simbolică mare. Vizitatorii vin pentru panoramă, peisaj și experiența clară a țării. Pentru SEO de natură și altitudine, numele este esențial.",
-      en: "Suur Munamägi is Estonia's highest point and a key nature destination in the southeast. It is a hill by European standards, but highly symbolic for Estonia. Visitors come for the view, the landscape, and a clear national experience. For nature and altitude SEO, the name is essential."
-    },
-    facts: {
-      de: ["Võru maakond", "Höchster Punkt Estlands", "Aussichtspunkt", "Symbol des Südostens", "Starkes Natur-SEO"],
-      hu: ["Võru megye", "Észtország legmagasabb pontja", "Kilátópont", "A délkelet szimbóluma", "Erős természetes SEO"],
-      ro: ["Județul Võru", "Cel mai înalt punct al Estoniei", "Punct de belvedere", "Simbol al sud-estului", "SEO puternic de natură"],
-      en: ["Võru County", "Highest point in Estonia", "Viewpoint", "Symbol of the southeast", "Strong nature SEO"]
-    },
-    image: "/geo-images/estonia/suur-munamagi.webp"
-  },
-  {
     id: "ee-r2big-puhajarv",
     type: "lake",
     parent: "ee-country",
@@ -2282,31 +1887,6 @@ export const estoniaNature: POI[] = [
       en: ["Tartu", "Most important southern river", "Riverside walks", "Links lakes and city", "Strong river SEO"]
     },
     image: "/geo-images/estonia/emajogi.webp"
-  },
-  {
-    id: "ee-r2big-narva-river",
-    type: "river",
-    parent: "ee-country",
-    coords: [28.1880, 59.3740],
-    name: {
-      de: "Narva-Fluss",
-      hu: "Narva folyó",
-      ro: "Râul Narva",
-      en: "Narva River"
-    },
-    description: {
-      de: "Der Narva-Fluss markiert die Ostgrenze Estlands und hat eine enorme geopolitische Präsenz. Die Uferlandschaft ist eng mit Narva, Industrie und Grenzgeschichte verbunden. Besucher erleben hier einen sehr markanten Übergang zwischen Estland und Russland. Für Grenz- und Flussinhalte ist der Name extrem stark.",
-      hu: "A Narva folyó Észtország keleti határát jelöli és óriási geopolitikai jelenléttel bír. Partvidéke szorosan kapcsolódik Narvához, az iparhoz és a határtörténethez. A látogatók itt nagyon markáns átmenetet látnak Észtország és Oroszország között. Határ- és folyó tartalmakhoz a név rendkívül erős.",
-      ro: "Râul Narva marchează granița estică a Estoniei și are o prezență geopolitică foarte puternică. Peisajul de pe mal este strâns legat de Narva, industrie și istoria de frontieră. Vizitatorii experimentează aici o trecere foarte clară între Estonia și Rusia. Pentru conținutul despre graniță și râuri, numele este extrem de puternic.",
-      en: "The Narva River marks Estonia's eastern border and has a major geopolitical presence. Its banks are closely tied to Narva, industry, and border history. Visitors experience a very clear transition between Estonia and Russia here. For border and river content, the name is extremely strong."
-    },
-    facts: {
-      de: ["Ida-Viru", "Ostgrenze Estlands", "Grenzfluss", "Stark mit Narva verbunden", "Sehr starkes Border-SEO"],
-      hu: ["Ida-Viru", "Észtország keleti határa", "Határfolyó", "Erősen kapcsolódik Narvához", "Nagyon erős határ SEO"],
-      ro: ["Ida-Viru", "Granița estică a Estoniei", "Râu de frontieră", "Legat puternic de Narva", "SEO foarte puternic de frontieră"],
-      en: ["Ida-Viru", "Estonia's eastern border", "Border river", "Closely tied to Narva", "Very strong border SEO"]
-    },
-    image: "/geo-images/estonia/narva-river.webp"
   },
   {
     id: "ee-r2big-hiiumaa-island",
@@ -2384,31 +1964,6 @@ export const estoniaNature: POI[] = [
     image: "/geo-images/estonia/vormsi-island.webp"
   },
   {
-    id: "ee-r2big-vortsjarv",
-    type: "lake",
-    parent: "ee-country",
-    coords: [26.0000, 58.2800],
-    name: {
-      de: "Võrtsjärv",
-      hu: "Võrtsjärv",
-      ro: "Võrtsjärv",
-      en: "Lake Võrtsjärv"
-    },
-    description: {
-      de: "Võrtsjärv ist der zweitgrößte See Estlands und liegt zwischen Tartu und Viljandi. Der See prägt die offene Landschaft des Landesinneren und ist für Ruhe, Ufer und Wassernatur bekannt. Viele Reisen in die Region kombinieren ihn mit kleinen Orten und Naturwegen. Für Tartu- und Viljandi-Inhalte ist Võrtsjärv ein sehr starker Naturname.",
-      hu: "A Võrtsjärv Észtország második legnagyobb tava, Tartu és Viljandi között fekszik. A tó a belső táj nyitottságát határozza meg, és a nyugalomról, partokról és vízi természetről ismert. Sok utazás kis településekkel és természetes útvonalakkal együtt kapcsolja össze. Tartu- és Viljandi-tartalmakhoz a Võrtsjärv nagyon erős természeti név.",
-      ro: "Võrtsjärv este al doilea lac ca mărime din Estonia și se află între Tartu și Viljandi. Lacul definește peisajul deschis al interiorului și este cunoscut pentru liniște, țărmuri și natură acvatică. Multe călătorii în zonă îl combină cu localități mici și trasee naturale. Pentru conținutul despre Tartu și Viljandi, Võrtsjärv este un nume natural foarte puternic.",
-      en: "Lake Võrtsjärv is Estonia's second-largest lake and lies between Tartu and Viljandi. The lake shapes the open inland landscape and is known for calm, shores, and waterside nature. Many trips in the region combine it with small towns and nature trails. For Tartu and Viljandi content, Võrtsjärv is a very strong nature name."
-    },
-    facts: {
-      de: ["Tartu und Viljandi", "Zweitgrößter See Estlands", "Offene Binnenlandschaft", "Ufer und Wassernatur", "Starkes Lake-SEO"],
-      hu: ["Tartu és Viljandi", "Észtország második legnagyobb tava", "Nyitott belső táj", "Partok és vízi természet", "Erős tó SEO"],
-      ro: ["Tartu și Viljandi", "Al doilea lac ca mărime", "Peisaj interior deschis", "Țărmuri și natură acvatică", "SEO puternic pentru lac"],
-      en: ["Tartu and Viljandi", "Second-largest lake in Estonia", "Open inland landscape", "Shorelines and waterside nature", "Strong lake SEO"]
-    },
-    image: "/geo-images/estonia/vortsjarv.webp"
-  },
-  {
     id: "ee-r2big-saku-brewery",
     type: "industry",
     parent: "ee-country",
@@ -2482,31 +2037,6 @@ export const estoniaNature: POI[] = [
       en: ["Pärnu", "Classic spa resort", "Wellness and health", "Symbol of the summer capital", "Strong spa SEO"]
     },
     image: "/geo-images/estonia/parnu-mud-baths.webp"
-  },
-  {
-    id: "ee-r2big-rakvere-castle",
-    type: "historical",
-    parent: "ee-country",
-    coords: [26.3540, 59.3460],
-    name: {
-      de: "Rakvere-Burg",
-      hu: "Rakvere vára",
-      ro: "Castelul Rakvere",
-      en: "Rakvere Castle"
-    },
-    description: {
-      de: "Die Rakvere-Burg ist einer der bekanntesten historischen Orte in Lääne-Viru. Die Burganlage vermittelt mittelalterliche Atmosphäre, Geschichte und starke Bildsprache. Besucher erleben dort einen klaren, greifbaren Zugang zur alten Grenz- und Ordenszeit. Für Historienrouten im Norden ist Rakvere ein sehr starker Name.",
-      hu: "A Rakvere vára Lääne-Viru egyik legismertebb történelmi helyszíne. A várkomplexum középkori hangulatot, történelmet és erős vizuális élményt ad. A látogatók itt kézzelfogható módon találkoznak a régi határ- és lovagrendi korral. Az északi történelmi útvonalakon Rakvere nagyon erős név.",
-      ro: "Castelul Rakvere este unul dintre cele mai cunoscute locuri istorice din Lääne-Viru. Ansamblul oferă atmosferă medievală, istorie și o imagine foarte puternică. Vizitatorii au aici un contact clar și concret cu vechea epocă de frontieră și ordin. Pentru traseele istorice din nord, Rakvere este un nume foarte puternic.",
-      en: "Rakvere Castle is one of the best-known historic sites in Lääne-Viru County. The castle complex delivers medieval atmosphere, history, and strong visual impact. Visitors get a clear and tangible sense of the old border and order period. For northern history routes, Rakvere is a very strong name."
-    },
-    facts: {
-      de: ["Lääne-Viru", "Mittelalterliche Burg", "Starke Bildsprache", "Historischer Grenzraum", "Sehr starkes History-SEO"],
-      hu: ["Lääne-Viru", "Középkori vár", "Erős vizuális élmény", "Történelmi határvidék", "Nagyon erős history SEO"],
-      ro: ["Lääne-Viru", "Castel medieval", "Impact vizual puternic", "Spațiu istoric de frontieră", "SEO foarte puternic istoric"],
-      en: ["Lääne-Viru", "Medieval castle", "Strong visual impact", "Historic border zone", "Very strong history SEO"]
-    },
-    image: "/geo-images/estonia/rakvere-castle.webp"
   },
   {
     id: "ee-r2big-varbola-stronghold",

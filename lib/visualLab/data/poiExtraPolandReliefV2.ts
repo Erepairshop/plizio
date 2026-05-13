@@ -6,9 +6,8 @@ export const polandReliefV2: POI[] = [
     id: "poland-rysy-peak-relief-v2",
     parent: "PL",
     type: "peak",
-    name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy",
-image: "/poi-images/poland-rysy-peak-relief-v2.webp"
-},
+    name: { de: "Meeraugspitze", hu: "Tengerszem-csúcs", ro: "Vârful Rysy", en: "Rysy"},
+    image: "/poi-images/poland-rysy-peak-relief-v2.webp",
     coords: [20.0881, 49.1794],
     coordinates: { lat: 49.1794, lng: 20.0881 },
     description: {
@@ -40,9 +39,8 @@ image: "/poi-images/poland-rysy-peak-relief-v2.webp"
     id: "poland-tatra-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains",
-image: "/poi-images/poland-tatra-mountains-relief-v2.webp"
-},
+    name: { de: "Tatra-Gebirge", hu: "Tátra", ro: "Munții Tatra", en: "Tatra Mountains"},
+    image: "/poi-images/poland-tatra-mountains-relief-v2.webp",
     coords: [19.95, 49.25],
     coordinates: { lat: 49.25, lng: 19.95 },
     description: {
@@ -74,9 +72,8 @@ image: "/poi-images/poland-tatra-mountains-relief-v2.webp"
     id: "poland-sniezka-peak-relief-v2",
     parent: "PL",
     type: "peak",
-    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka",
-image: "/poi-images/poland-sniezka-peak-relief-v2.webp"
-},
+    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Vârful Sněžka", en: "Śnieżka"},
+    image: "/poi-images/poland-sniezka-peak-relief-v2.webp",
     coords: [15.74, 50.736],
     coordinates: { lat: 50.736, lng: 15.74 },
     description: {
@@ -108,9 +105,8 @@ image: "/poi-images/poland-sniezka-peak-relief-v2.webp"
     id: "poland-bieszczady-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains",
-image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"
-},
+    name: { de: "Bieszczady-Gebirge", hu: "Bieszczady-hegység", ro: "Munții Bieszczady", en: "Bieszczady Mountains"},
+    image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp",
     coords: [22.5, 49.15],
     coordinates: { lat: 49.15, lng: 22.5 },
     description: {
@@ -142,9 +138,8 @@ image: "/poi-images/poland-bieszczady-mountains-relief-v2.webp"
     id: "poland-tarnica-peak-relief-v2",
     parent: "PL",
     type: "peak",
-    name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica",
-image: "/poi-images/poland-tarnica-peak-relief-v2.webp"
-},
+    name: { de: "Tarnica", hu: "Tarnica", ro: "Vârful Tarnica", en: "Tarnica"},
+    image: "/poi-images/poland-tarnica-peak-relief-v2.webp",
     coords: [22.7272, 49.0744],
     coordinates: { lat: 49.0744, lng: 22.7272 },
     description: {
@@ -176,9 +171,8 @@ image: "/poi-images/poland-tarnica-peak-relief-v2.webp"
     id: "poland-stolowe-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains",
-image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"
-},
+    name: { de: "Heuscheuergebirge", hu: "Tábla-hegység", ro: "Munții Stołowe", en: "Stołowe Mountains"},
+    image: "/poi-images/poland-stolowe-mountains-relief-v2.webp",
     coords: [16.33, 50.48],
     coordinates: { lat: 50.48, lng: 16.33 },
     description: {
@@ -210,9 +204,8 @@ image: "/poi-images/poland-stolowe-mountains-relief-v2.webp"
     id: "poland-pieniny-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains",
-image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"
-},
+    name: { de: "Pieninen", hu: "Pieninek", ro: "Munții Pieniny", en: "Pieniny Mountains"},
+    image: "/poi-images/poland-pieniny-mountains-relief-v2.webp",
     coords: [20.45, 49.42],
     coordinates: { lat: 49.42, lng: 20.45 },
     description: {
@@ -244,9 +237,8 @@ image: "/poi-images/poland-pieniny-mountains-relief-v2.webp"
     id: "poland-holy-cross-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains",
-image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"
-},
+    name: { de: "Heiligkreuzgebirge", hu: "Szentkereszt-hegység", ro: "Munții Sfânta Cruce", en: "Holy Cross Mountains"},
+    image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp",
     coords: [21.0, 50.85],
     coordinates: { lat: 50.85, lng: 21.0 },
     description: {
@@ -278,9 +270,8 @@ image: "/poi-images/poland-holy-cross-mountains-relief-v2.webp"
     id: "poland-lysica-peak-relief-v2",
     parent: "PL",
     type: "peak",
-    name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica",
-image: "/poi-images/poland-lysica-peak-relief-v2.webp"
-},
+    name: { de: "Lysica", hu: "Łysica", ro: "Vârful Łysica", en: "Łysica"},
+    image: "/poi-images/poland-lysica-peak-relief-v2.webp",
     coords: [20.9011, 50.8906],
     coordinates: { lat: 50.8906, lng: 20.9011 },
     description: {
@@ -312,9 +303,8 @@ image: "/poi-images/poland-lysica-peak-relief-v2.webp"
     id: "poland-beskid-slaski-range-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids",
-image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"
-},
+    name: { de: "Schlesische Beskiden", hu: "Sziléziai-Beszkidek", ro: "Beskizii Silezieni", en: "Silesian Beskids"},
+    image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp",
     coords: [19.0, 49.65],
     coordinates: { lat: 49.65, lng: 19.0 },
     description: {
@@ -346,9 +336,8 @@ image: "/poi-images/poland-beskid-slaski-range-relief-v2.webp"
     id: "poland-skrzyczne-peak-relief-v2",
     parent: "PL",
     type: "peak",
-    name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne",
-image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"
-},
+    name: { de: "Skrzyczne", hu: "Skrzyczne", ro: "Vârful Skrzyczne", en: "Skrzyczne"},
+    image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp",
     coords: [19.0303, 49.6844],
     coordinates: { lat: 49.6844, lng: 19.0303 },
     description: {
@@ -380,9 +369,8 @@ image: "/poi-images/poland-skrzyczne-peak-relief-v2.webp"
     id: "poland-turbacz-peak-relief-v2",
     parent: "PL",
     type: "peak",
-    name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz",
-image: "/poi-images/poland-turbacz-peak-relief-v2.webp"
-},
+    name: { de: "Turbacz", hu: "Turbacz", ro: "Vârful Turbacz", en: "Turbacz"},
+    image: "/poi-images/poland-turbacz-peak-relief-v2.webp",
     coords: [20.1114, 49.543],
     coordinates: { lat: 49.543, lng: 20.1114 },
     description: {
@@ -414,9 +402,8 @@ image: "/poi-images/poland-turbacz-peak-relief-v2.webp"
     id: "poland-jura-upland-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland",
-image: "/poi-images/poland-jura-upland-relief-v2.webp"
-},
+    name: { de: "Krakau-Tschenstochauer Jura", hu: "Krakkó-Częstochowai-fennsík", ro: "Podișul Cracovia-Częstochowa", en: "Kraków-Częstochowa Upland"},
+    image: "/poi-images/poland-jura-upland-relief-v2.webp",
     coords: [19.8, 50.2],
     coordinates: { lat: 50.2, lng: 19.8 },
     description: {
@@ -448,9 +435,8 @@ image: "/poi-images/poland-jura-upland-relief-v2.webp"
     id: "poland-lublin-upland-relief-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland",
-image: "/poi-images/poland-lublin-upland-relief-v2.webp"
-},
+    name: { de: "Lubliner Hochland", hu: "Lublini-fennsík", ro: "Podișul Lublin", en: "Lublin Upland"},
+    image: "/poi-images/poland-lublin-upland-relief-v2.webp",
     coords: [22.8, 51.2],
     coordinates: { lat: 51.2, lng: 22.8 },
     description: {
@@ -482,9 +468,8 @@ image: "/poi-images/poland-lublin-upland-relief-v2.webp"
     id: "poland-sandomierz-basin-relief-v2",
     parent: "PL",
     type: "valley",
-    name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin",
-image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"
-},
+    name: { de: "Sandomirer Becken", hu: "Sandomierzi-medence", ro: "Bazinul Sandomierz", en: "Sandomierz Basin"},
+    image: "/poi-images/poland-sandomierz-basin-relief-v2.webp",
     coords: [22.0, 50.2],
     coordinates: { lat: 50.2, lng: 22.0 },
     description: {
@@ -517,9 +502,8 @@ image: "/poi-images/poland-sandomierz-basin-relief-v2.webp"
     id: "poland-masurian-lake-district-relief-v2",
     parent: "PL",
     type: "lake",
-    name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District",
-image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"
-},
+    name: { de: "Masurische Seenplatte", hu: "Mazuri-tóhátság", ro: "Regiunea Lacurilor Mazuriene", en: "Masurian Lake District"},
+    image: "/poi-images/poland-masurian-lake-district-relief-v2.webp",
     coords: [21.5, 53.8],
     coordinates: { lat: 53.8, lng: 21.5 },
     description: {
@@ -551,9 +535,8 @@ image: "/poi-images/poland-masurian-lake-district-relief-v2.webp"
     id: "poland-lacka-dune-relief-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune",
-image: "/poi-images/poland-lacka-dune-relief-v2.webp"
-},
+    name: { de: "Lontzke-Düne", hu: "Lontzke-dűne", ro: "Duna Łącka", en: "Łącka Dune"},
+    image: "/poi-images/poland-lacka-dune-relief-v2.webp",
     coords: [17.4, 54.75],
     coordinates: { lat: 54.75, lng: 17.4 },
     description: {
@@ -585,9 +568,8 @@ image: "/poi-images/poland-lacka-dune-relief-v2.webp"
     id: "poland-jelenia-gora-valley-relief-v2",
     parent: "PL",
     type: "valley",
-    name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley",
-image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"
-},
+    name: { de: "Hirschberger Tal", hu: "Jelenia Góra-i-medence", ro: "Depresiunea Jelenia Góra", en: "Jelenia Góra Valley"},
+    image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp",
     coords: [15.75, 50.9],
     coordinates: { lat: 50.9, lng: 15.75 },
     description: {
@@ -619,9 +601,8 @@ image: "/poi-images/poland-jelenia-gora-valley-relief-v2.webp"
     id: "poland-beskid-zywiecki-range-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids",
-image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"
-},
+    name: { de: "Saybuscher Beskiden", hu: "Magas-Beszkidek", ro: "Beskizii Żywiecki", en: "Żywiec Beskids"},
+    image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp",
     coords: [19.3, 49.5],
     coordinates: { lat: 49.5, lng: 19.3 },
     description: {
@@ -653,9 +634,8 @@ image: "/poi-images/poland-beskid-zywiecki-range-relief-v2.webp"
     id: "poland-sudetes-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes",
-image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"
-},
+    name: { de: "Sudeten", hu: "Szudéták", ro: "Munții Sudeți", en: "Sudetes"},
+    image: "/poi-images/poland-sudetes-mountains-relief-v2.webp",
     coords: [16.0, 50.5],
     coordinates: { lat: 50.5, lng: 16.0 },
     description: {
@@ -687,9 +667,8 @@ image: "/poi-images/poland-sudetes-mountains-relief-v2.webp"
     id: "poland-beskid-niski-range-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids",
-image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"
-},
+    name: { de: "Niedere Beskiden", hu: "Alacsony-Beszkidek", ro: "Beskizii Joși", en: "Low Beskids"},
+    image: "/poi-images/poland-beskid-niski-range-relief-v2.webp",
     coords: [21.3, 49.4],
     coordinates: { lat: 49.4, lng: 21.3 },
     description: {
@@ -721,9 +700,8 @@ image: "/poi-images/poland-beskid-niski-range-relief-v2.webp"
     id: "poland-pogorze-przemyskie-upland-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills",
-image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"
-},
+    name: { de: "Przemysler Vorgebirge", hu: "Przemyśli-előhegység", ro: "Piemontul Przemyśl", en: "Przemyśl Foothills"},
+    image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp",
     coords: [22.6, 49.65],
     coordinates: { lat: 49.65, lng: 22.6 },
     description: {
@@ -755,9 +733,8 @@ image: "/poi-images/poland-pogorze-przemyskie-upland-relief-v2.webp"
     id: "poland-beskid-sadecki-range-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids",
-image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"
-},
+    name: { de: "Sandzer Beskiden", hu: "Sądecki-Beszkidek", ro: "Beskizii Sądecki", en: "Sądecki Beskids"},
+    image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp",
     coords: [20.8, 49.45],
     coordinates: { lat: 49.45, lng: 20.8 },
     description: {
@@ -789,9 +766,8 @@ image: "/poi-images/poland-beskid-sadecki-range-relief-v2.webp"
     id: "poland-gorce-mountains-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains",
-image: "/poi-images/poland-gorce-mountains-relief-v2.webp"
-},
+    name: { de: "Gorce-Gebirge", hu: "Gorce-hegység", ro: "Munții Gorce", en: "Gorce Mountains"},
+    image: "/poi-images/poland-gorce-mountains-relief-v2.webp",
     coords: [20.15, 49.55],
     coordinates: { lat: 49.55, lng: 20.15 },
     description: {
@@ -823,9 +799,8 @@ image: "/poi-images/poland-gorce-mountains-relief-v2.webp"
     id: "poland-north-european-plain-relief-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain",
-image: "/poi-images/poland-north-european-plain-relief-v2.webp"
-},
+    name: { de: "Polnisches Tiefland", hu: "Lengyel-alföld", ro: "Câmpia Poloneză", en: "Polish Plain"},
+    image: "/poi-images/poland-north-european-plain-relief-v2.webp",
     coords: [19.0, 52.3],
     coordinates: { lat: 52.3, lng: 19.0 },
     description: {
@@ -858,9 +833,8 @@ image: "/poi-images/poland-north-european-plain-relief-v2.webp"
     id: "poland-pogorze-wielickie-upland-relief-v2",
     parent: "PL",
     type: "mountain",
-    name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills",
-image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp"
-},
+    name: { de: "Wieliczka-Vorgebirge", hu: "Wieliczkai-előhegység", ro: "Piemontul Wieliczka", en: "Wieliczka Foothills"},
+    image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp",
     coords: [20.0, 49.9],
     coordinates: { lat: 49.9, lng: 20.0 },
     description: {
@@ -888,5 +862,422 @@ image: "/poi-images/poland-pogorze-wielickie-upland-relief-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "poland-beskid-maly-relief-v2",
+    type: "mountain",
+    parent: "PL",
+    name: { de: "Kleine Beskiden", hu: "Kis-Beszkidek", ro: "Beskizii Mici", en: "Little Beskids" },
+    coordinates: { lat: 49.7825, lng: 19.3411 },
+    description: {
+      de: "Eine Gebirgsgruppe in den Äußeren Westkarpaten zwischen dem Soła- und Skawa-Tal. Sie erreicht eine maximale Höhe von 909 Metern am Czupel.",
+      hu: "Hegységcsoport a Külső-Nyugati-Kárpátokban, a Sola és Skawa völgyek között. Legmagasabb pontja a 909 méteres Czupel.",
+      ro: "Grupă muntoasă din Carpații Occidentali Exteriori, situată între văile râurilor Soła și Skawa. Altitudinea maximă este de 909 metri în vârful Czupel.",
+      en: "A mountain group in the Outer Western Carpathians between the Soła and Skawa valleys. It reaches a maximum elevation of 909 meters at Czupel.",
+    },
+    facts: {
+      de: ["Höchster Gipfel: Czupel", "Fläche ca. 500 km²", "Teil der Westbeskiden", "Gestein: Flysch"],
+      hu: ["Legmagasabb pont: Czupel", "Terület kb. 500 km²", "A Nyugati-Beszkidek része", "Kőzet: flis"],
+      ro: ["Vârful cel mai înalt: Czupel", "Suprafață aprox. 500 km²", "Parte a Beskizilor Occidentali", "Rocă: fliș"],
+      en: ["Highest peak: Czupel", "Area approx. 500 km²", "Part of the Western Beskids", "Rock: flysch"],
+    },
+    imageHint: "Little Beskids mountain landscape",
+    descriptionAdvanced: {
+      de: "Die Kleinen Beskiden (Beskid Mały) sind ein Gebirgszug in Südpolen, der sich über eine Länge von etwa 30 Kilometern erstreckt. Der höchste Gipfel ist der Leskowiec mit 922 Metern. Das Gebirge besteht aus Sandstein und Schiefer und ist dicht bewaldet. Charakteristisch sind die tief eingeschnittenen Täler der Soła und ihrer Nebenflüsse. Die Region ist ein beliebtes Ziel für Wanderer und bietet zahlreiche markierte Wege. Die Kleinen Beskiden sind Teil der Westbeskiden und weisen eine reiche Flora auf, darunter Buchen- und Tannenwälder.",
+      hu: "A Kis-Beszkidek (Beskid Mały) egy körülbelül 30 km hosszú hegyvonulat Dél-Lengyelországban. Legmagasabb csúcsa a Leskowiec (922 m). A hegység homokkőből és palából épül fel, sűrű erdő borítja. Jellemzőek a mély völgyek, mint a Soła folyóé. A terület kedvelt túracélpont, jól jelzett utakkal. Növényvilága gazdag, bükk- és fenyőerdők váltakoznak. A Kis-Beszkidek a Nyugati-Beszkidek része.",
+      ro: "Beskidul Mic (Beskid Mały) este un lanț muntos din sudul Poloniei, lung de aproximativ 30 km. Cel mai înalt vârf este Leskowiec (922 m). Format din gresie și șisturi, este puternic împădurit. Văile adânci ale râului Soła și afluenților săi sunt caracteristice. Zona este populară pentru drumeții, cu trasee marcate. Beskidul Mic face parte din Beskizii Occidentali și are păduri de fag și brad.",
+      en: "The Little Beskids (Beskid Mały) are a mountain range in southern Poland, stretching about 30 km. The highest peak is Leskowiec at 922 m. Composed of sandstone and shale, it is heavily forested. Deep valleys of the Soła River and its tributaries characterize the area. It is a popular hiking destination with well-marked trails. The Little Beskids are part of the Western Beskids and host diverse flora, including beech and fir forests.",
+    },
+    factsAdvanced: {
+      de: ["Die Kleinen Beskiden erstrecken sich über 30 Kilometer Länge.", "Der höchste Gipfel ist der Leskowiec mit 922 Metern.", "Das Gebirge besteht hauptsächlich aus Sandstein und Schiefer.", "Die Soła durchfließt das Gebirge auf einer Länge von 20 km.", "Die Waldbedeckung beträgt über 70%.", "Der höchste Punkt des Kamms ist 922 m ü. M."],
+      hu: ["A Kis-Beszkidek hossza körülbelül 30 km.", "Legmagasabb pontja a Leskowiec (922 m).", "A hegység főként homokkőből és palából áll.", "A Soła folyó 20 km-en keresztül folyik a hegységben.", "Az erdősültség meghaladja a 70%-ot.", "A gerinc legmagasabb pontja 922 m tengerszint felett."],
+      ro: ["Beskitul Mic se întinde pe aproximativ 30 km.", "Cel mai înalt vârf este Leskowiec, 922 m.", "Roca predominantă este gresia și șistul.", "Râul Soła străbate lanțul pe 20 km.", "Acoperirea forestieră depășește 70%.", "Altitudinea maximă a crestei este 922 m."],
+      en: ["The Little Beskids stretch approximately 30 km.", "The highest peak is Leskowiec at 922 m.", "The range is composed mainly of sandstone and shale.", "The Soła River flows through the range for 20 km.", "Forest coverage exceeds 70%.", "The highest point of the ridge is 922 m above sea level."],
+    },
+  },
+  {
+    id: "poland-beskid-makowski-relief-v2",
+    type: "mountain",
+    parent: "PL",
+    name: { de: "Makower Beskiden", hu: "Makówi-Beszkidek", ro: "Beskizii Maków", en: "Maków Beskids" },
+    coordinates: { lat: 49.7214, lng: 19.6833 },
+    description: {
+      de: "Teil der Mittelbeskiden in Südpolen, südlich von Krakau gelegen. Die Landschaft ist geprägt von sanften Hügeln und tiefen Flusstälern.",
+      hu: "A Középső-Beszkidek része Dél-Lengyelországban, Krakkótól délre. A tájat lankás dombok és mély folyóvölgyek jellemzik.",
+      ro: "Parte a Beskizilor Centrali din sudul Poloniei, situată la sud de Cracovia. Peisajul este definit de dealuri domoale și văi adânci ale râurilor.",
+      en: "Part of the Middle Beskids in southern Poland, located south of Kraków. The landscape is characterized by rolling hills and deep river valleys.",
+    },
+    facts: {
+      de: ["Höchster Gipfel: Magurka", "Höhe: 873 Meter", "Region: Woiwodschaft Kleinpolen", "Typ: Mittelgebirge"],
+      hu: ["Legmagasabb pont: Magurka", "Magasság: 873 méter", "Régió: Kis-Lengyelország vajdaság", "Típus: középhegység"],
+      ro: ["Vârful cel mai înalt: Magurka", "Altitudine: 873 metri", "Regiune: Voievodatul Polonia Mică", "Tip: munți de înălțime medie"],
+      en: ["Highest peak: Magurka", "Elevation: 873 meters", "Region: Lesser Poland Voivodeship", "Type: medium-height mountains"],
+    },
+    imageHint: "Makow Beskids hills",
+    descriptionAdvanced: {
+      de: "Die Makower Beskiden (Beskid Makowski) sind ein Mittelgebirge in den Westbeskiden, das sich zwischen den Flüssen Skawa und Raba erstreckt. Der höchste Gipfel ist der Chełm mit 921 Metern. Die Landschaft ist geprägt von sanften Hügeln, tiefen Tälern und ausgedehnten Wäldern. Die Region ist landwirtschaftlich genutzt, mit Dörfern und kleinen Städten. Das Gebirge besteht aus flyschartigen Gesteinsschichten. Beliebte Aktivitäten sind Wandern und Skifahren im Winter. Die Makower Beskiden sind weniger touristisch erschlossen als andere Teile der Beskiden.",
+      hu: "A Makówi-Beszkidek (Beskid Makowski) a Nyugati-Beszkidek része, a Skawa és Raba folyók között terül el. Legmagasabb csúcsa a Chełm (921 m). A tájat enyhe dombok, mély völgyek és erdők jellemzik. Mezőgazdasági területek és falvak tarkítják. A hegység flis típusú kőzetekből épül fel. Télen síelésre is alkalmas. A Makówi-Beszkidek kevésbé népszerű a turisták körében, mint a szomszédos hegységek.",
+      ro: "Beskidul Makowski (Beskid Makowski) face parte din Beskizii Occidentali, situat între râurile Skawa și Raba. Cel mai înalt vârf este Chełm (921 m). Relieful este format din dealuri line, văi adânci și păduri întinse. Zona este utilizată agricol, cu sate și orașe mici. Rocile sunt de tip fliș. Activități populare includ drumeții și schi iarna. Este mai puțin turistic decât alte părți ale Beskizilor.",
+      en: "The Maków Beskids (Beskid Makowski) are a mountain range in the Western Beskids, located between the Skawa and Raba rivers. The highest peak is Chełm at 921 m. The landscape features gentle hills, deep valleys, and extensive forests. Agriculture is practiced in the valleys, with scattered villages. The range is composed of flysch rock. Popular for hiking and winter skiing, it is less touristy than other Beskid ranges.",
+    },
+    factsAdvanced: {
+      de: ["Die Makower Beskiden erstrecken sich über 40 Kilometer Länge.", "Der höchste Gipfel ist der Chełm mit 921 Metern.", "Die Fläche beträgt etwa 400 Quadratkilometer.", "Die Skawa fließt 30 km entlang der südlichen Grenze.", "Die durchschnittliche Höhe liegt bei 500–700 Metern.", "Die Waldbedeckung beträgt rund 60%."],
+      hu: ["A Makówi-Beszkidek hossza 40 km.", "Legmagasabb csúcsa a Chełm (921 m).", "Területe körülbelül 400 km².", "A Skawa folyó a déli határ mentén 30 km-en folyik.", "Az átlagmagasság 500–700 m.", "Az erdősültség 60% körüli."],
+      ro: ["Beskitul Makowski se întinde pe 40 km.", "Cel mai înalt vârf este Chełm (921 m).", "Suprafața este de circa 400 km².", "Râul Skawa curge de-a lungul graniței sudice pe 30 km.", "Altitudinea medie este de 500–700 m.", "Acoperirea forestieră este de aproximativ 60%."],
+      en: ["The Maków Beskids stretch about 40 km.", "The highest peak is Chełm at 921 m.", "Area covers approximately 400 square km.", "The Skawa River runs along the southern border for 30 km.", "Average elevation is 500–700 m.", "Forest coverage is about 60%."],
+    },
+  },
+  {
+    id: "poland-wielkopolska-lowland-relief-v2",
+    type: "landmark",
+    parent: "PL",
+    name: { de: "Großpolnisches Tiefland", hu: "Nagy-lengyel-alföld", ro: "Câmpia Poloniei Mari", en: "Greater Poland Lowland" },
+    coordinates: { lat: 52.25, lng: 17.0 },
+    description: {
+      de: "Ein weites Tiefland im westlichen Polen, geformt durch eiszeitliche Gletscheraktivitäten. Es ist durch eine flache Topografie und zahlreiche Seen gekennzeichnet.",
+      hu: "Kiterjedt alföld Nyugat-Lengyelországban, amelyet jégkori gleccsertevékenység formált. Lapos topográfia és számos tó jellemzi.",
+      ro: "Câmpie întinsă în vestul Poloniei, modelată de activitățile glaciare din epoca de gheață. Se caracterizează printr-o topografie plată și numeroase lacuri.",
+      en: "A vast lowland in western Poland, shaped by glacial activity during the ice age. It is characterized by a flat topography and numerous lakes.",
+    },
+    facts: {
+      de: ["Durchschnittshöhe: 80-120 m", "Entstehung: Pleistozän", "Wichtigster Fluss: Warthe", "Relief: Moränenlandschaft"],
+      hu: ["Átlagos magasság: 80-120 m", "Keletkezés: pleisztocén", "Legfontosabb folyó: Warta", "Relief: morénás táj"],
+      ro: ["Altitudine medie: 80-120 m", "Formare: pleistocen", "Râu principal: Warta", "Relief: peisaj morenic"],
+      en: ["Average elevation: 80-120 m", "Formation: Pleistocene", "Main river: Warta", "Relief: moraine landscape"],
+    },
+    imageHint: "Greater Poland landscape fields",
+    descriptionAdvanced: {
+      de: "Das Großpolnische Tiefland (Nizina Wielkopolska) ist eine ausgedehnte Tiefebene in Westpolen, die von der Weichsel-Kaltzeit geprägt wurde. Die Höhe beträgt meist zwischen 50 und 150 Metern. Charakteristisch sind breite Urstromtäler, Endmoränen und zahlreiche Seen, insbesondere in der Region um Posen. Das Tiefland ist landwirtschaftlich intensiv genutzt, vor allem für Getreide- und Zuckerrübenanbau. Die Warthe fließt mäandrierend durch die Ebene. Größere Städte sind Posen, Gnesen und Kalisch.",
+      hu: "A Nagy-lengyel-alföld (Nizina Wielkopolska) Nyugat-Lengyelország kiterjedt síksága, amelyet a visztulai eljegesedés formált. Magassága 50–150 m között változik. Jellemzőek a széles ősfolyamvölgyek, morénahátak és tavak. A terület intenzíven mezőgazdaságilag művelt, főként gabonát és cukorrépát termesztenek. A Warta folyó kanyarogva halad át az alföldön. Jelentős városai Poznań, Gniezno és Kalisz.",
+      ro: "Câmpia Poloniei Mari (Nizina Wielkopolska) este o vastă câmpie din vestul Poloniei, modelată de glaciațiunea vistuliană. Altitudinea variază între 50 și 150 m. Se caracterizează prin văi largi de luncă, morene și numeroase lacuri. Agricultura intensivă cultivă cereale și sfeclă de zahăr. Râul Warta curge meandrat prin câmpie. Orașe principale: Poznań, Gniezno, Kalisz.",
+      en: "The Greater Poland Lowland (Nizina Wielkopolska) is a vast plain in western Poland shaped by the Vistulian glaciation. Elevations range mostly from 50 to 150 m. It features wide glacial valleys, terminal moraines, and numerous lakes. The region is intensively farmed, primarily for cereals and sugar beets. The Warta River meanders through the plain. Major cities include Poznań, Gniezno, and Kalisz.",
+    },
+    factsAdvanced: {
+      de: ["Das Großpolnische Tiefland erstreckt sich über 40.000 Quadratkilometer.", "Die höchste Erhebung erreicht 194 Meter (bei Jarocin).", "Die Warthe ist 391 Kilometer lang auf polnischem Gebiet.", "Es gibt über 200 Seen mit einer Fläche von mehr als 1 Hektar.", "Der größte See ist der Gopło mit 21 Quadratkilometern.", "Die durchschnittliche Niederschlagsmenge beträgt 500–600 mm pro Jahr."],
+      hu: ["A Nagy-lengyel-alföld területe 40 000 km².", "A legmagasabb pont 194 m (Jarocin mellett).", "A Warta folyó hossza a síkságon 391 km.", "Több mint 200 tó található, amelyek területe meghaladja az 1 hektárt.", "A legnagyobb tó a Gopło (21 km²).", "Az éves csapadék 500–600 mm."],
+      ro: ["Câmpia Poloniei Mari are o suprafață de 40.000 km².", "Altitudinea maximă este 194 m (lângă Jarocin).", "Râul Warta are 391 km lungime în câmpie.", "Există peste 200 de lacuri cu suprafața de peste 1 ha.", "Cel mai mare lac este Gopło (21 km²).", "Precipitațiile medii anuale sunt de 500–600 mm."],
+      en: ["The Greater Poland Lowland covers 40,000 square km.", "Highest point is 194 m (near Jarocin).", "The Warta River is 391 km long within the lowland.", "There are over 200 lakes larger than 1 ha.", "Largest lake is Gopło at 21 km².", "Average annual precipitation is 500–600 mm."],
+    },
+  },
+  {
+    id: "poland-kaszubian-lake-district-relief-v2",
+    type: "landmark",
+    parent: "PL",
+    name: { de: "Kaschubische Seenplatte", hu: "Kasubiai-tóvidék", ro: "Regiunea Lacustră Cașubiană", en: "Kashubian Lake District" },
+    coordinates: { lat: 54.2167, lng: 17.9167 },
+    description: {
+      de: "Eine hügelige Landschaft in Nordpolen mit zahlreichen Seen und eiszeitlichen Moränen. Sie gilt als eine der landschaftlich abwechslungsreichsten Regionen im Norden.",
+      hu: "Dombvidéki táj Észak-Lengyelországban, számos tóval és jégkori morénákkal. Észak egyik legváltozatosabb tájának tartják.",
+      ro: "Peisaj deluros în nordul Poloniei, cu numeroase lacuri și morene glaciare. Este considerată una dintre cele mai variate regiuni din punct de vedere peisagistic din nord.",
+      en: "A hilly landscape in northern Poland with numerous lakes and glacial moraines. It is considered one of the most topographically varied regions in the north.",
+    },
+    facts: {
+      de: ["Höchste Erhebung: Wieżyca", "Höhe: 329 Meter", "Anzahl der Seen: über 500", "Gletscherform: Endmoränen"],
+      hu: ["Legmagasabb pont: Wieżyca", "Magasság: 329 méter", "Tavak száma: több mint 500", "Gleccserforma: végmorénák"],
+      ro: ["Cel mai înalt punct: Wieżyca", "Altitudine: 329 metri", "Număr de lacuri: peste 500", "Formă glaciară: morene terminale"],
+      en: ["Highest elevation: Wieżyca", "Elevation: 329 meters", "Number of lakes: over 500", "Glacial form: terminal moraines"],
+    },
+    imageHint: "Kashubian Lake District hills and lake",
+    descriptionAdvanced: {
+      de: "Die Kaschubische Seenplatte (Pojezierze Kaszubskie) ist eine hügelige Landschaft in Nordpolen, die während der letzten Eiszeit entstanden ist. Sie ist geprägt von zahlreichen Seen, Moränenhügeln und Wäldern. Der höchste Punkt ist der Wieżyca mit 329 Metern. Die Region ist bekannt für ihre kaschubische Kultur und Sprache. Die Seenplatte ist ein beliebtes Ziel für Wassersportler und Wanderer. Der größte See ist der Łebsko, der jedoch teilweise im Slowinski-Nationalpark liegt. Die Radunia schlängelt sich durch die Landschaft.",
+      hu: "A Kashubiai-tóvidék (Pojezierze Kaszubskie) Észak-Lengyelország dombos vidéke, amely a jégkorszakban alakult ki. Rengeteg tó, morénahalom és erdő jellemzi. A legmagasabb pont a Wieżyca (329 m). A térség a kasub nyelv és kultúra központja. A tóvidék népszerű a vízi sportok és túrázás kedvelői körében. A legnagyobb tó a Łebsko, de részben a Słowiński Nemzeti Parkban található.",
+      ro: "Districtul Lacurilor Cașubiene (Pojezierze Kaszubskie) este o regiune deluroasă din nordul Poloniei, formată în ultima glaciațiune. Se caracterizează prin numeroase lacuri, coline morenice și păduri. Cel mai înalt punct este Wieżyca (329 m). Zona este cunoscută pentru cultura și limba cașubiană. Este populară pentru sporturi nautice și drumeții. Cel mai mare lac este Łebsko, parțial în Parcul Național Słowiński.",
+      en: "The Kashubian Lake District (Pojezierze Kaszubskie) is a hilly region in northern Poland shaped by the last glaciation. It features numerous lakes, morainic hills, and forests. The highest point is Wieżyca at 329 m. The area is known for the Kashubian culture and language. It is popular for water sports and hiking. The largest lake is Łebsko, partly within Słowiński National Park.",
+    },
+    factsAdvanced: {
+      de: ["Die Kaschubische Seenplatte umfasst etwa 3.000 Seen.", "Der höchste Punkt ist der Wieżyca mit 329 Metern.", "Der größte See ist der Łebsko mit 7,9 Quadratkilometern.", "Die Fläche der Seenplatte beträgt rund 3.000 Quadratkilometer.", "Die Radunia ist 83 Kilometer lang.", "Der Nationalpark Słowiński liegt teilweise in der Region."],
+      hu: ["A Kashubiai-tóvidék körülbelül 3000 tóból áll.", "A legmagasabb pont a Wieżyca (329 m).", "A legnagyobb tó a Łebsko (7,9 km²).", "A tóvidék területe 3000 km².", "A Radunia folyó 83 km hosszú.", "A Słowiński Nemzeti Park részben itt található."],
+      ro: ["Districtul Lacurilor Cașubiene are aproximativ 3.000 de lacuri.", "Cel mai înalt punct este Wieżyca (329 m).", "Cel mai mare lac este Łebsko (7,9 km²).", "Suprafața districtului este de circa 3.000 km².", "Râul Radunia are 83 km lungime.", "Parcul Național Słowiński se află parțial în această zonă."],
+      en: ["The Kashubian Lake District contains about 3,000 lakes.", "The highest point is Wieżyca at 329 m.", "The largest lake is Łebsko covering 7.9 km².", "The district covers approximately 3,000 km².", "The Radunia River is 83 km long.", "Słowiński National Park is partially located in the region."],
+    },
+  },
+  {
+    id: "poland-swietokrzyski-ridge-relief-v2",
+    type: "mountain",
+    parent: "PL",
+    name: { de: "Heiligkreuz-Kamm", hu: "Szentkereszt-hegyhát", ro: "Culmea Sfintei Cruci", en: "Holy Cross Ridge" },
+    coordinates: { lat: 50.8667, lng: 21.05 },
+    description: {
+      de: "Ein zentraler Gebirgskamm innerhalb des Heiligkreuzgebirges in Südpolen. Er besteht aus widerstandsfähigen Gesteinsschichten wie Quarzit.",
+      hu: "Központi hegygerinc a Szentkereszt-hegységen belül, Dél-Lengyelországban. Ellenálló kőzetrétegekből, például kvarcitból áll.",
+      ro: "O creastă muntoasă centrală în cadrul Munților Sfintei Cruci din sudul Poloniei. Este alcătuită din straturi de roci rezistente, cum ar fi cuarțitul.",
+      en: "A central mountain ridge within the Holy Cross Mountains in southern Poland. It is composed of resistant rock layers such as quartzite.",
+    },
+    facts: {
+      de: ["Hauptgestein: Kambrium-Quarzit", "Länge: ca. 70 km", "Wichtiger Gipfel: Łysica", "Schutzstatus: Nationalpark"],
+      hu: ["Fő kőzet: kambriumi kvarcit", "Hossz: kb. 70 km", "Fontos csúcs: Łysica", "Védettség: nemzeti park"],
+      ro: ["Rocă principală: cuarțit cambrian", "Lungime: aprox. 70 km", "Vârf important: Łysica", "Statut de protecție: parc național"],
+      en: ["Main rock: Cambrian quartzite", "Length: approx. 70 km", "Important peak: Łysica", "Protection: national park"],
+    },
+    imageHint: "Holy Cross Mountains ridge",
+    descriptionAdvanced: {
+      de: "Der Heiligkreuz-Kamm (Grzbiet Świętokrzyski) ist der Hauptteil des Heiligkreuzgebirges in Polen. Er erstreckt sich über etwa 70 Kilometer und besteht aus mehreren parallel verlaufenden Kämmen. Der höchste Gipfel ist der Łysica mit 612 Metern. Das Gebirge ist eines der ältesten in Europa, mit Gesteinen aus dem Paläozoikum. Es ist bekannt für seine Höhlen, Schluchten und historischen Klöster, darunter das Kloster auf dem Łysa Góra. Die Region ist reich an Bodenschätzen wie Kupfer und Eisenerz.",
+      hu: "A Szentkereszt-hegyvidék (Grzbiet Świętokrzyski) a Szentkereszt-hegység fő vonulata Délkelet-Lengyelországban. Hossza 70 km, több párhuzamos gerincből áll. Legmagasabb csúcsa a Łysica (612 m). A hegység Európa egyik legidősebb, paleozoikumi kőzetekkel. Híres barlangjairól, szurdokairól és történelmi kolostorairól, mint a Łysa Góra-i apátság. Ásványkincsekben gazdag, réz- és vasérc lelőhelyekkel.",
+      ro: "Creasta Sfintei Cruci (Grzbiet Świętokrzyski) este partea principală a Munților Sfintei Cruci din Polonia, întins pe 70 km, alcătuit din mai multe creste paralele. Cel mai înalt vârf este Łysica (612 m). Este unul dintre cele mai vechi lanțuri muntoase din Europa, cu roci paleozoice. Cunoscut pentru peșteri, chei și mănăstiri istorice, cum ar fi cea de pe Łysa Góra. Bogat în resurse minerale, inclusiv cupru și minereu de fier.",
+      en: "The Holy Cross Ridge (Grzbiet Świętokrzyski) is the main range of the Holy Cross Mountains in Poland, stretching about 70 km with several parallel ridges. The highest peak is Łysica at 612 m. It is one of the oldest mountain ranges in Europe, with Paleozoic rocks. Known for caves, gorges, and historic monasteries like the one on Łysa Góra. The area is rich in mineral resources including copper and iron ore.",
+    },
+    factsAdvanced: {
+      de: ["Der Heiligkreuz-Kamm erstreckt sich über 70 Kilometer.", "Der höchste Gipfel ist der Łysica mit 612 Metern.", "Das Gebirge entstand vor etwa 500 Millionen Jahren.", "Die Łysa Góra ist 593 Meter hoch.", "Es gibt über 50 Höhlen, die längste ist 180 Meter lang.", "Der Nationalpark Heiligkreuzgebirge wurde 1950 gegründet."],
+      hu: ["A Szentkereszt-hegyvidék hossza 70 km.", "A legmagasabb csúcs a Łysica (612 m).", "A hegység körülbelül 500 millió éves.", "A Łysa Góra magassága 593 m.", "Több mint 50 barlang található, a leghosszabb 180 m.", "A Szentkereszt Nemzeti Parkot 1950-ben alapították."],
+      ro: ["Creasta Sfintei Cruci se întinde pe 70 km.", "Vârful cel mai înalt este Łysica (612 m).", "Munții datează de acum aproximativ 500 de milioane de ani.", "Łysa Góra are 593 m altitudine.", "Există peste 50 de peșteri, cea mai lungă având 180 m.", "Parcul Național Sfânta Cruce a fost înființat în 1950."],
+      en: ["The Holy Cross Ridge stretches 70 km.", "The highest peak is Łysica at 612 m.", "The range formed about 500 million years ago.", "Łysa Góra mountain is 593 m high.", "There are over 50 caves, the longest being 180 m.", "The Holy Cross National Park was established in 1950."],
+    },
+  },
+  {
+    id: "poland-beskid-wyspowy-relief-v2",
+    type: "mountain",
+    parent: "PL",
+    name: { de: "Inselbeskiden", hu: "Sziget-Beszkidek", ro: "Beskizii Insulari", en: "Island Beskids" },
+    coordinates: { lat: 49.6833, lng: 20.2 },
+    description: {
+      de: "Ein Gebirgszug der Westbeskiden, benannt nach seinen isolierten Gipfeln, die wie Inseln aus dem umliegenden Tal herausragen.",
+      hu: "A Nyugati-Beszkidek hegylánca, amely elszigetelt csúcsairól kapta a nevét, amelyek szigetként emelkednek ki a környező völgyekből.",
+      ro: "Lanț muntos al Beskizilor Occidentali, numit după vârfurile sale izolate care ies ca niște insule din valea din jur.",
+      en: "A mountain range of the Western Beskids, named after its isolated peaks that rise like islands from the surrounding valley.",
+    },
+    facts: {
+      de: ["Höchster Gipfel: Mogielica", "Höhe: 1170 Meter", "Region: Kleinpolen", "Topografie: isolierte Gipfel"],
+      hu: ["Legmagasabb csúcs: Mogielica", "Magasság: 1170 méter", "Régió: Kis-Lengyelország", "Topográfia: elszigetelt csúcsok"],
+      ro: ["Vârful cel mai înalt: Mogielica", "Altitudine: 1170 metri", "Regiune: Polonia Mică", "Topografie: vârfuri izolate"],
+      en: ["Highest peak: Mogielica", "Elevation: 1170 meters", "Region: Lesser Poland", "Topography: isolated peaks"],
+    },
+    imageHint: "Island Beskids peaks",
+    descriptionAdvanced: {
+      de: "Die Inselbeskiden (Beskid Wyspowy) sind ein Gebirgszug in den Westbeskiden, der durch isolierte, inselartige Gipfel charakterisiert ist. Der höchste Gipfel ist der Mogielica mit 1.171 Metern. Die Landschaft besteht aus Berggruppen, die durch Täler getrennt sind. Das Gebiet ist dicht bewaldet mit Buchen- und Tannenwäldern. Die Inselbeskiden sind ein beliebtes Wanderziel mit zahlreichen Aussichtspunkten. Die Region ist weniger touristisch erschlossen und bietet ruhige Naturerlebnisse. Der Name leitet sich von der inselartigen Anordnung der Berge ab.",
+      hu: "A Szigetes-Beszkidek (Beskid Wyspowy) a Nyugati-Beszkidek része, jellegzetes elszigetelt, szigetszerű csúcsokkal. A legmagasabb csúcs a Mogielica (1171 m). A tájat hegycsoportok alkotják, amelyeket völgyek választanak el. Sűrű bükk- és fenyőerdők borítják. Népszerű túracélpont, számos kilátóponttal. Kevesebb turista látogatja, csendes természeti élményt nyújt. Nevét a hegyek szigetszerű elrendeződéséről kapta.",
+      ro: "Beskidul Insular (Beskid Wyspowy) face parte din Beskizii Occidentali, caracterizat prin vârfuri izolate asemănătoare insulelor. Cel mai înalt vârf este Mogielica (1.171 m). Peisajul constă în grupuri de munți despărțite de văi. Este puternic împădurit cu fag și brad. Destinație populară pentru drumeții, cu puncte de belvedere. Mai puțin turistic, oferă natură liniștită. Numele provine de la aranjarea insulară a munților.",
+      en: "The Island Beskids (Beskid Wyspowy) are a range in the Western Beskids characterized by isolated, island-like peaks. The highest peak is Mogielica at 1,171 m. The landscape consists of mountain groups separated by valleys. Dense beech and fir forests cover the area. Popular for hiking with many viewpoints. Less touristy, offering peaceful nature. The name derives from the insular arrangement of the mountains.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel ist der Mogielica mit 1.171 Metern.", "Die Inselbeskiden erstrecken sich über etwa 30 Kilometer Länge.", "Die Fläche beträgt rund 500 Quadratkilometer.", "Die durchschnittliche Höhe liegt bei 600–900 Metern.", "Der Hauptkamm besteht aus 8 markanten Gipfeln.", "Die Region hat 15 ausgewiesene Wanderwege."],
+      hu: ["A Mogielica a legmagasabb csúcs (1171 m).", "A Szigetes-Beszkidek hozzávetőleg 30 km hosszú.", "Területe körülbelül 500 km².", "Az átlagmagasság 600–900 m.", "A főgerinc 8 kiemelkedő csúcsból áll.", "A térségben 15 kijelölt túraút található."],
+      ro: ["Cel mai înalt vârf este Mogielica (1.171 m).", "Beskitul Insular se întinde pe aproximativ 30 km.", "Suprafața este de circa 500 km².", "Altitudinea medie este de 600–900 m.", "Creasta principală are 8 vârfuri proeminente.", "Există 15 trasee de drumeție marcate."],
+      en: ["The highest peak is Mogielica at 1,171 m.", "The Island Beskids extend about 30 km.", "Area covers approximately 500 km².", "Average elevation is 600–900 m.", "The main ridge consists of 8 prominent peaks.", "There are 15 marked hiking trails in the region."],
+    },
+  },
+  {
+    id: "poland-beskid-maly-peak-relief-v2",
+    type: "peak",
+    parent: "PL",
+    name: { de: "Leskowiec", hu: "Leskowiec", ro: "Leskowiec", en: "Leskowiec Peak" },
+    coordinates: { lat: 49.7758, lng: 19.4678 },
+    description: {
+      de: "Ein bekannter Gipfel in den Kleinen Beskiden, der eine weitreichende Aussicht auf die umliegende Berglandschaft bietet. Er ist ein beliebtes Ziel für Wanderer.",
+      hu: "Ismert csúcs a Kis-Beszkidekben, amely messzire nyúló kilátást nyújt a környező hegyvidékre. Kedvelt túracélpont.",
+      ro: "Un vârf cunoscut din Beskizii Mici, care oferă o vedere largă asupra peisajului montan din jur. Este o destinație populară pentru drumeții.",
+      en: "A well-known peak in the Little Beskids that offers extensive views of the surrounding mountain landscape. It is a popular destination for hikers.",
+    },
+    facts: {
+      de: ["Höhe: 922 Meter", "Gebirge: Kleine Beskiden", "Besonderheit: Aussichtspunkt", "Wanderwege: markiert"],
+      hu: ["Magasság: 922 méter", "Hegység: Kis-Beszkidek", "Jellemző: kilátópont", "Túraútvonalak: jelzett"],
+      ro: ["Altitudine: 922 metri", "Munți: Beskizii Mici", "Caracteristică: punct de belvedere", "Trasee: marcate"],
+      en: ["Elevation: 922 meters", "Mountain range: Little Beskids", "Feature: viewpoint", "Trails: marked"],
+    },
+    imageHint: "Leskowiec peak view",
+    descriptionAdvanced: {
+      de: "Der Leskowiec (922 m) ist der höchste Berg des Kleinen Beskiden in Polen. Er liegt in der Woiwodschaft Kleinpolen und ist ein beliebtes Wanderziel. Der Gipfel bietet eine weite Aussicht auf die Tatra, die Babia Góra und die Schlesischen Beskiden. Auf dem Gipfel steht eine hölzerne Schutzhütte aus dem Jahr 1932. Die umliegenden Wälder sind dicht und beherbergen Bären, Luchse und Hirsche. Der Aufstieg erfolgt meist über markierte Wege von Kocierz Rychwałdzki oder Łodygowice.",
+      hu: "A Leskowiec (922 m) a Kis-Beszkidek legmagasabb hegye Lengyelországban. Kis-Lengyelország vajdaságban található, és népszerű túracélpont. A csúcsról széles kilátás nyílik a Tátrára, a Babia Górára és a Sziléziai-Beszkidekre. A csúcson egy 1932-ben épült faházikó áll. A környező erdők sűrűk, és medvék, hiúzok, szarvasok élnek benne. A feljutás általában Kocierz Rychwałdzki vagy Łodygowice felől történik.",
+      ro: "Leskowiec (922 m) este cel mai înalt munte din Beskizii Mici din Polonia. Se află în voievodatul Polonia Mică și este o destinație populară pentru drumeții. Vârful oferă o vedere largă asupra Tatrei, Babia Góra și Beskizii Silezieni. Pe vârf se află un adăpost din lemn construit în 1932. Pădurile din jur sunt dese și adăpostesc urși, râși și căprioare. Ascensiunea se face de obicei pe trasee marcate din Kocierz Rychwałdzki sau Łodygowice.",
+      en: "Leskowiec (922 m) is the highest peak of the Little Beskids in Poland. Located in Lesser Poland Voivodeship, it is a popular hiking destination. The summit offers wide views of the Tatra, Babia Góra, and Silesian Beskids. A wooden shelter built in 1932 stands on top. Surrounding forests are dense and host bears, lynxes, and deer. Ascents typically follow marked trails from Kocierz Rychwałdzki or Łodygowice.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 922 m", "Gebirge: Kleine Beskiden", "Schutzhütte: 1932, 8 Schlafplätze", "Woiwodschaft: Kleinpolen", "Wanderweg nach Kocierz: 600 m Höhenunterschied", "Anzahl markierter Routen: 5"],
+      hu: ["Magasság: 922 m", "Hegyvidék: Kis-Beszkidek", "Menhely: 1932, 8 férőhely", "Vajdaság: Kis-Lengyelország", "Kocierz felé vezető út szintkülönbsége: 600 m", "Jelzett útvonalak száma: 5"],
+      ro: ["Altitudine: 922 m", "Munți: Beskizii Mici", "Adăpost: 1932, 8 locuri", "Voievodat: Polonia Mică", "Diferență de nivel pe traseul spre Kocierz: 600 m", "Număr de trasee marcate: 5"],
+      en: ["Height: 922 m", "Mountain range: Little Beskids", "Shelter: 1932, 8 beds", "Voivodeship: Lesser Poland", "Elevation gain from Kocierz trail: 600 m", "Number of marked trails: 5"],
+    },
+  },
+  {
+    id: "poland-pieniny-high-plateau-relief-v2",
+    type: "landmark",
+    parent: "PL",
+    name: { de: "Pieninen-Hochland", hu: "Pieninek-fennsík", ro: "Podișul Pieniny", en: "Pieniny Plateau" },
+    coordinates: { lat: 49.4167, lng: 20.45 },
+    description: {
+      de: "Eine Kalkstein-Gebirgsregion in Südpolen an der Grenze zur Slowakei. Sie ist bekannt für ihre steilen Felsformationen und tiefen Schluchten.",
+      hu: "Mészkőhegyvidék Dél-Lengyelországban, a szlovák határon. Meredek sziklaképződményeiről és mély szakadékairól ismert.",
+      ro: "Regiune muntoasă calcaroasă în sudul Poloniei, la granița cu Slovacia. Este cunoscută pentru formațiunile stâncoase abrupte și cheile adânci.",
+      en: "A limestone mountain region in southern Poland on the border with Slovakia. It is known for its steep rock formations and deep gorges.",
+    },
+    facts: {
+      de: ["Hauptgestein: Kalkstein", "Höchster Berg: Wysoka", "Region: Pieninen", "Besonderheit: Durchbruchstal"],
+      hu: ["Fő kőzet: mészkő", "Legmagasabb hegy: Wysoka", "Régió: Pieninek", "Jellemző: áttöréses völgy"],
+      ro: ["Rocă principală: calcar", "Muntele cel mai înalt: Wysoka", "Regiune: Pieniny", "Caracteristică: vale de străpungere"],
+      en: ["Main rock: limestone", "Highest mountain: Wysoka", "Region: Pieniny", "Feature: gorge"],
+    },
+    imageHint: "Pieniny Mountains landscape",
+    descriptionAdvanced: {
+      de: "Das Pieniny-Hochplateau (Pieniny Właściwe) ist ein Gebirgszug in den Pieninen, der durch charakteristische Kalksteinfelsen und tiefe Schluchten geprägt ist. Der höchste Gipfel ist der Wysoka mit 1.050 Metern. Das Plateau ist Teil des Pieniny-Nationalparks, der 1932 gegründet wurde. Die Landschaft ist geprägt von steilen Felswänden, engen Tälern und Aussichtspunkten. Der Fluss Dunajec hat eine beeindruckende Schlucht geformt. Die Region ist bekannt für ihre einzigartige Flora und Fauna, darunter der Pieninen-Straußenfarn.",
+      hu: "A Pieniny-fennsík (Pieniny Właściwe) a Pieninek mészkő hegyvonulata, amelyet jellegzetes sziklák és szurdokok tarkítanak. A legmagasabb csúcs a Wysoka (1050 m). A Pieniny Nemzeti Park része, amelyet 1932-ben alapítottak. A tájat meredek sziklafalak, szűk völgyek és kilátópontok jellemzik. A Dunajec folyó látványos szurdokot vágott. A régió egyedülálló növény- és állatvilágáról ismert, mint a pieneni struccpáfrány.",
+      ro: "Podisul Pieniny (Pieniny Właściwe) este un lanț muntos din Munții Pieniny, caracterizat prin stânci de calcar și chei adânci. Cel mai înalt vârf este Wysoka (1.050 m). Face parte din Parcul Național Pieniny, fondat în 1932. Peisajul include pereți stâncoși abrupți, văi înguste și puncte de belvedere. Râul Dunajec a format un chei impresionant. Zona este cunoscută pentru flora și fauna unică, inclusiv feriga de struț de Pieniny.",
+      en: "The Pieniny High Plateau (Pieniny Właściwe) is a mountain range within the Pieniny, characterized by limestone cliffs and deep gorges. The highest peak is Wysoka at 1,050 m. It is part of Pieniny National Park, established in 1932. The landscape features steep rock walls, narrow valleys, and viewpoints. The Dunajec River has carved a spectacular gorge. The region is known for unique flora and fauna, including the Pieniny ostrich fern.",
+    },
+    factsAdvanced: {
+      de: ["Der höchste Gipfel ist der Wysoka mit 1.050 Metern.", "Der Pieniny-Nationalpark wurde 1932 gegründet.", "Die Dunajec-Schlucht ist 8 Kilometer lang.", "Die Fläche des Nationalparks beträgt 23,6 Quadratkilometer.", "Die höchste Klippe ist die Sokolicy mit 747 Metern.", "Es gibt über 1.000 Pflanzenarten im Park."],
+      hu: ["A Wysoka 1050 m magas.", "A Pieniny Nemzeti Parkot 1932-ben alapították.", "A Dunajec-szurdok hossza 8 km.", "A nemzeti park területe 23,6 km².", "A Sokolicy sziklafal magassága 747 m.", "A parkban 1000-nél több növényfaj él."],
+      ro: ["Vârful Wysoka are 1.050 m altitudine.", "Parcul Național Pieniny a fost fondat în 1932.", "Cheile Dunajecului au o lungime de 8 km.", "Suprafața parcului național este de 23,6 km².", "Stânca Sokolicy are 747 m înălțime.", "În parc există peste 1.000 de specii de plante."],
+      en: ["The highest peak is Wysoka at 1,050 m.", "Pieniny National Park was established in 1932.", "The Dunajec Gorge is 8 km long.", "The national park covers 23.6 km².", "The highest cliff is Sokolicy at 747 m.", "Over 1,000 plant species exist in the park."],
+    },
+  },
+  {
+    id: "poland-silesian-lowland-relief-v2",
+    type: "landmark",
+    parent: "PL",
+    name: { de: "Schlesisches Tiefland", hu: "Sziléziai-alföld", ro: "Câmpia Sileziei", en: "Silesian Lowland" },
+    coordinates: { lat: 50.85, lng: 17.5 },
+    description: {
+      de: "Ein fruchtbares Tiefland im Südwesten Polens, das von der Oder durchflossen wird. Es ist das landwirtschaftliche Zentrum der Region.",
+      hu: "Termékeny alföld Délnyugat-Lengyelországban, amelyet az Odera folyó szel át. A régió mezőgazdasági központja.",
+      ro: "Câmpie fertilă în sud-vestul Poloniei, străbătută de râul Oder. Este centrul agricol al regiunii.",
+      en: "A fertile lowland in southwestern Poland traversed by the Oder River. It serves as the agricultural center of the region.",
+    },
+    facts: {
+      de: ["Durchschnittshöhe: 150-250 m", "Hauptfluss: Oder", "Bodenqualität: sehr hoch", "Region: Schlesien"],
+      hu: ["Átlagos magasság: 150-250 m", "Fő folyó: Odera", "Talajminőség: nagyon magas", "Régió: Szilézia"],
+      ro: ["Altitudine medie: 150-250 m", "Râu principal: Oder", "Calitatea solului: foarte ridicată", "Regiune: Silezia"],
+      en: ["Average elevation: 150-250 m", "Main river: Oder", "Soil quality: very high", "Region: Silesia"],
+    },
+    imageHint: "Silesian Lowland farmland",
+    descriptionAdvanced: {
+      de: "Das Schlesische Tiefland (Nizina Śląska) ist eine Tiefebene in Südwestpolen, die sich entlang der Oder erstreckt. Die Höhe liegt zwischen 100 und 200 Metern. Es ist eine dicht besiedelte und industrialisierte Region mit Städten wie Breslau und Oppeln. Das Tiefland wird landwirtschaftlich genutzt, vor allem für den Anbau von Weizen und Zuckerrüben. Die Oder fließt mäandrierend durch die Ebene. Zahlreiche Nebenflüsse wie die Weide und die Glatzer Neiße bewässern das Gebiet. Das Klima ist gemäßigt mit jährlichen Niederschlägen um 600 mm.",
+      hu: "A Sziléziai-alföld (Nizina Śląska) délnyugat-Lengyelország síksága az Odera mentén. Magassága 100–200 m között van. Sűrűn lakott és iparosodott régió, fontos városai Wrocław és Opole. Mezőgazdaságilag művelt, búzát és cukorrépát termesztenek. Az Odera kanyarogva folyik keresztül. Mellékfolyói, mint a Bystrzyca és a Nysa Kłodzka, öntözik a területet. Az éghajlat mérsékelt, évi 600 mm csapadékkal.",
+      ro: "Câmpia Sileziei (Nizina Śląska) este o câmpie din sud-vestul Poloniei, de-a lungul râului Odra. Altitudinea variază între 100 și 200 m. Este o regiune dens populată și industrializată, cu orașe precum Wrocław și Opole. Agricultura cultivă grâu și sfeclă de zahăr. Odra curge meandrat. Afluenții precum Bystrzyca și Nysa Kłodzka irigă zona. Clima este temperată, cu precipitații anuale de aproximativ 600 mm.",
+      en: "The Silesian Lowland (Nizina Śląska) is a plain in southwestern Poland along the Oder River. Elevations range from 100 to 200 m. It is densely populated and industrialized, with cities like Wrocław and Opole. Agriculture includes wheat and sugar beets. The Oder River meanders through the plain. Tributaries such as the Bystrzyca and Nysa Kłodzka drain the area. Climate is temperate, with annual precipitation around 600 mm.",
+    },
+    factsAdvanced: {
+      de: ["Das Schlesische Tiefland erstreckt sich über 14.000 Quadratkilometer.", "Die Oder fließt auf 200 Kilometern Länge durch die Ebene.", "Die größte Stadt ist Breslau mit über 640.000 Einwohnern.", "Die durchschnittliche Höhe beträgt 140 Meter.", "Die Landwirtschaft produziert jährlich 2 Millionen Tonnen Weizen.", "Das Tiefland enthält bedeutende Kohlevorkommen."],
+      hu: ["A Sziléziai-alföld 14 000 km² területű.", "Az Odera 200 km hosszan folyik az alföldön.", "A legnagyobb város Wrocław, 640 000 fő feletti lakossággal.", "Az átlagmagasság 140 m.", "A mezőgazdaság évente 2 millió tonna búzát termel.", "Az alföld jelentős szénkészleteket rejt."],
+      ro: ["Câmpia Sileziei are 14.000 km².", "Râul Odra curge 200 km prin câmpie.", "Cel mai mare oraș este Wrocław, cu peste 640.000 locuitori.", "Altitudinea medie este de 140 m.", "Agricultura produce anual 2 milioane de tone de grâu.", "Câmpia conține zăcăminte importante de cărbune."],
+      en: ["The Silesian Lowland covers 14,000 km².", "The Oder River runs 200 km through the plain.", "Largest city is Wrocław with over 640,000 inhabitants.", "Average elevation is 140 m.", "Agriculture produces 2 million tons of wheat annually.", "The lowland contains significant coal deposits."],
+    },
+  },
+  {
+    id: "poland-beskid-makowski-peak-relief-v2",
+    type: "peak",
+    parent: "PL",
+    name: { de: "Chełm", hu: "Chełm", ro: "Chełm", en: "Chełm Peak" },
+    coordinates: { lat: 49.8336, lng: 19.9192 },
+    description: {
+      de: "Ein Gipfel im Makower Beskiden bei Myślenice. Er ist ein bekannter Aussichtspunkt für Wanderer und liegt unweit von Krakau.",
+      hu: "Csúcs a Makówi-Beszkidekben, Myślenice közelében. Ismert kilátópont a túrázók számára, nem messze Krakkótól.",
+      ro: "Vârf în Beskizii Maków, lângă Myślenice. Este un punct de belvedere cunoscut pentru drumeți și se află nu departe de Cracovia.",
+      en: "A peak in the Maków Beskids near Myślenice. It is a well-known viewpoint for hikers and is located not far from Kraków.",
+    },
+    facts: {
+      de: ["Höhe: 603 Meter", "Gebirge: Makower Beskiden", "Region: Woiwodschaft Kleinpolen", "Besonderheit: Wandergebiet"],
+      hu: ["Magasság: 603 méter", "Hegység: Makówi-Beszkidek", "Régió: Kis-Lengyelország vajdaság", "Jellemző: túraövezet"],
+      ro: ["Altitudine: 603 metri", "Munți: Beskizii Maków", "Regiune: Voievodatul Polonia Mică", "Caracteristică: zonă de drumeții"],
+      en: ["Elevation: 603 meters", "Mountain range: Maków Beskids", "Region: Lesser Poland Voivodeship", "Feature: hiking area"],
+    },
+    imageHint: "Chełm peak view",
+    descriptionAdvanced: {
+      de: "Der Chełm (678 m) ist ein Berg im Makower Beskiden in Polen, nahe der Stadt Maków Podhalański. Er besteht aus Flyschgestein und ist dicht bewaldet, hauptsächlich mit Buchen und Tannen. Der Gipfel ist teilweise bewaldet, bietet aber einige Aussichtspunkte. Auf dem Berg befinden sich die Reste einer Festung aus der Zeit des Zweiten Weltkriegs. Der Chełm ist ein beliebtes Ziel für kurze Wanderungen und Mountainbike-Touren. In der Nähe entspringt der Fluss Skawa.",
+      hu: "A Chełm (678 m) egy hegy a Makówi-Beszkidekben, Lengyelországban, Maków Podhalański közelében. Földtani felépítése flis, és sűrű erdő borítja, főleg bükk és fenyő. A csúcs részben erdős, de néhány kilátóponttal rendelkezik. A hegyen egy második világháborús erődítmény maradványai találhatók. A Chełm népszerű a rövid túrákhoz és a mountain bike-hoz. A közelben ered a Skawa folyó.",
+      ro: "Chełm (678 m) este un munte din Beskizii Maków din Polonia, lângă orașul Maków Podhalański. Este compus din roci de fliș și este acoperit de păduri dese, în principal fag și brad. Vârful este parțial împădurit, dar oferă câteva puncte de belvedere. Pe munte se află rămășițele unei fortificații din al Doilea Război Mondial. Chełm este popular pentru drumeții scurte și mountain bike. Aproape izvorăște râul Skawa.",
+      en: "Chełm (678 m) is a mountain in the Maków Beskids in Poland, near the town of Maków Podhalański. It is composed of flysch rock and covered with dense forest, mainly beech and fir. The summit is partially wooded but offers some viewpoints. Remnants of a WWII fortification are on the mountain. Chełm is popular for short hikes and mountain biking. The Skawa River rises nearby.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 678 m", "Gebirge: Makower Beskiden", "Gestein: Flysch", "Bewaldung: 90%", "Befestigungsreste: 1944", "Entfernung zu Maków Podhalański: 3 km"],
+      hu: ["Magasság: 678 m", "Hegyvidék: Makówi-Beszkidek", "Kőzet: flis", "Erdősültség: 90%", "Erődmaradványok: 1944", "Távolság Maków Podhalańskitól: 3 km"],
+      ro: ["Altitudine: 678 m", "Munți: Beskizii Maków", "Rocă: fliș", "Acoperire forestieră: 90%", "Ruine fortificație: 1944", "Distanța până la Maków Podhalański: 3 km"],
+      en: ["Height: 678 m", "Mountain range: Maków Beskids", "Rock type: flysch", "Forest cover: 90%", "Fortification ruins: 1944", "Distance to Maków Podhalański: 3 km"],
+    },
+  },
+  {
+    id: "poland-sudetes-piedmont-relief-v2",
+    type: "landmark",
+    parent: "PL",
+    name: { de: "Sudetenvorland", hu: "Szudéta-előhegység", ro: "Piemontul Sudeților", en: "Sudetes Piedmont" },
+    coordinates: { lat: 50.7, lng: 16.8 },
+    description: {
+      de: "Eine hügelige Übergangszone zwischen dem schlesischen Tiefland und dem Sudetengebirge. Die Landschaft ist durch sanfte Hügel geprägt.",
+      hu: "Hilly átmeneti zóna a Sziléziai-alföld és a Szudéták között. A tájat lankás dombok jellemzik.",
+      ro: "Zonă de tranziție deluroasă între Câmpia Sileziei și Munții Sudeți. Peisajul este definit de dealuri domoale.",
+      en: "A hilly transitional zone between the Silesian Lowland and the Sudetes mountains. The landscape is characterized by rolling hills.",
+    },
+    facts: {
+      de: ["Typ: Piemont", "Übergang: Tiefland zu Gebirge", "Höhe: bis 300 Meter", "Region: Niederschlesien"],
+      hu: ["Típus: előhegység", "Átmenet: alföld a hegyekbe", "Magasság: 300 méterig", "Régió: Alsó-Szilézia"],
+      ro: ["Tip: piemont", "Tranziție: câmpie către munți", "Altitudine: până la 300 metri", "Regiune: Silezia Inferioară"],
+      en: ["Type: piedmont", "Transition: lowland to mountains", "Elevation: up to 300 meters", "Region: Lower Silesia"],
+    },
+    imageHint: "Sudetes Piedmont rolling hills",
+    descriptionAdvanced: {
+      de: "Das Sudetenvorland (Przedgórze Sudeckie) ist eine hügelige Landschaft in Südwestpolen, die den Übergang zwischen dem Schlesischen Tiefland und den Sudeten bildet. Die Höhe reicht von 200 bis 400 Metern. Charakteristisch sind sanfte Hügel, tiefe Täler und landwirtschaftliche Nutzung. Die Region ist bekannt für ihre Thermalquellen und Kurorte wie Lądek-Zdrój und Polanica-Zdrój. Geologisch besteht das Vorland aus Gesteinen des Perms und der Kreide. Der Fluss Bystrzyca durchfließt das Gebiet. Das Sudetenvorland ist ein wichtiges Obst- und Gemüseanbaugebiet.",
+      hu: "A Szudéta-előhegység (Przedgórze Sudeckie) dombos táj Délnyugat-Lengyelországban, átmenet a Sziléziai-alföld és a Szudéták között. Magassága 200–400 m között van. Jellemzők a enyhe dombok, mély völgyek és mezőgazdasági hasznosítás. A régió híres termálvizeiről és gyógyhelyeiről, mint Lądek-Zdrój és Polanica-Zdrój. A földtani alapot perm és kréta kori kőzetek adják. A Bystrzyca folyó szeli át. Fontos gyümölcs- és zöldségtermesztő terület.",
+      ro: "Piemontul Sudetic (Przedgórze Sudeckie) este o regiune deluroasă din sud-vestul Poloniei, de tranziție între Câmpia Sileziei și Munții Sudeti. Altitudinea variază între 200 și 400 m. Se caracterizează prin dealuri line, văi adânci și utilizare agricolă. Zona este cunoscută pentru izvoare termale și stațiuni balneare precum Lądek-Zdrój și Polanica-Zdrój. Geologic, predomină roci permiene și cretacice. Râul Bystrzyca traversează regiunea. Este o zonă importantă pentru cultivarea fructelor și legumelor.",
+      en: "The Sudetes Piedmont (Przedgórze Sudeckie) is a hilly region in southwestern Poland, transitioning between the Silesian Lowland and the Sudetes Mountains. Elevations range from 200 to 400 m. It features gentle hills, deep valleys, and agricultural use. Known for thermal springs and health resorts like Lądek-Zdrój and Polanica-Zdrój. Geologically, it consists of Permian and Cretaceous rocks. The Bystrzyca River flows through. It is an important fruit and vegetable growing area.",
+    },
+    factsAdvanced: {
+      de: ["Das Sudetenvorland erstreckt sich über 50 Kilometer Breite.", "Die höchste Erhebung ist der Grodziec mit 400 Metern.", "Die Region umfasst etwa 5.000 Quadratkilometer.", "Der Bystrzyca ist 95 Kilometer lang.", "Es gibt 10 Kurorte mit Thermalquellen.", "Die jährliche Obstproduktion beträgt 100.000 Tonnen."],
+      hu: ["A Szudéta-előhegység szélessége 50 km.", "A legmagasabb pont a Grodziec (400 m).", "A terület körülbelül 5000 km².", "A Bystrzyca folyó 95 km hosszú.", "10 gyógyhely található termálforrásokkal.", "Az éves gyümölcstermelés 100 000 tonna."],
+      ro: ["Piemontul Sudetic se întinde pe 50 km lățime.", "Cel mai înalt punct este Grodziec (400 m).", "Regiunea are aproximativ 5.000 km².", "Râul Bystrzyca are 95 km lungime.", "Există 10 stațiuni balneare cu izvoare termale.", "Producția anuală de fructe este de 100.000 de tone."],
+      en: ["The Sudetes Piedmont stretches 50 km in width.", "Highest point is Grodziec at 400 m.", "The region covers about 5,000 km².", "The Bystrzyca River is 95 km long.", "There are 10 health resorts with thermal springs.", "Annual fruit production is 100,000 tons."],
+    },
+  },
+  {
+    id: "poland-beskid-slaski-valley-relief-v2",
+    type: "valley",
+    parent: "PL",
+    name: { de: "Weichsel-Tal", hu: "Visztula-völgy", ro: "Valea Vistulei", en: "Vistula Valley" },
+    coordinates: { lat: 49.65, lng: 18.85 },
+    description: {
+      de: "Das obere Tal der Weichsel im Schlesischen Beskiden. Es ist bekannt für seine malerische Lage zwischen hohen Bergen.",
+      hu: "A Visztula felső völgye a Sziléziai-Beszkidekben. Festői fekvéséről ismert a magas hegyek között.",
+      ro: "Valea superioară a Vistulei în Beskizii Silezieni. Este cunoscută pentru locația sa pitorească între munți înalți.",
+      en: "The upper valley of the Vistula River in the Silesian Beskids. It is known for its picturesque location nestled between high mountains.",
+    },
+    facts: {
+      de: ["Fluss: Weichsel", "Gebirge: Schlesische Beskiden", "Besonderheit: Quellregion", "Landschaft: Bergvölk"],
+      hu: ["Folyó: Visztula", "Hegység: Sziléziai-Beszkidek", "Jellemző: forrásvidék", "Táj: hegyvidéki"],
+      ro: ["Râu: Vistula", "Munți: Beskizii Silezieni", "Caracteristică: regiunea izvorului", "Peisaj: montan"],
+      en: ["River: Vistula", "Mountain range: Silesian Beskids", "Feature: source region", "Landscape: mountainous"],
+    },
+    imageHint: "Vistula valley upper course",
+    descriptionAdvanced: {
+      de: "Das Weichseltal (Kotlina Żywiecka) ist ein breites Tal in den Schlesischen Beskiden, das vom Fluss Weichsel durchflossen wird. Es ist ein wichtiges Siedlungsgebiet mit der Stadt Żywiec. Das Tal ist landwirtschaftlich genutzt, mit Wiesen und Feldern. Die umliegenden Berge bieten Schutz und beeinflussen das Klima. Die Weichsel entspringt in den Beskiden und fließt nach Norden. Das Tal ist bekannt für seine Bierbrautradition (Żywiec-Bier). Die Region ist ein Ausgangspunkt für Wanderungen in die Beskiden.",
+      hu: "A Visztula-völgy (Kotlina Żywiecka) egy széles völgy a Sziléziai-Beszkidekben, amelyen a Visztula folyik keresztül. Fontos települési terület Żywiec várossal. A völgyet mezőgazdaságilag hasznosítják, rétek és szántók jellemzik. A környező hegyek védelmet nyújtanak, befolyásolják az éghajlatot. A Visztula a Beszkidekben ered és észak felé folyik. A völgy híres sörfőzési hagyományairól (Żywiec-sör). A régió kiindulópont a Beszkidek túráihoz.",
+      ro: "Valea Vistulei (Kotlina Żywiecka) este o vale largă din Beskizii Silezieni, străbătută de râul Vistula. Este o zonă importantă de așezări cu orașul Żywiec. Valea este utilizată agricol, cu pajiști și câmpuri. Munții înconjurători oferă protecție și influențează clima. Vistula izvorăște din Beskizi și curge spre nord. Valea este cunoscută pentru tradiția berii (bere Żywiec). Regiunea este punct de plecare pentru drumeții în Beskizi.",
+      en: "The Vistula Valley (Kotlina Żywiecka) is a broad valley in the Silesian Beskids, carved by the Vistula River. It is a key settlement area with the town of Żywiec. The valley is agricultural, with meadows and fields. Surrounding mountains provide shelter and influence climate. The Vistula originates in the Beskids and flows north. Known for brewing tradition (Żywiec beer). The area is a gateway for Beskid hiking.",
+    },
+    factsAdvanced: {
+      de: ["Das Weichseltal ist etwa 30 Kilometer lang und 5 Kilometer breit.", "Die Weichsel hat in diesem Abschnitt eine Länge von 40 Kilometern.", "Die Stadt Żywiec hat 31.000 Einwohner.", "Die Brauerei Żywiec wurde 1856 gegründet.", "Das Tal liegt auf einer Höhe von 300 bis 400 Metern.", "Der Fluss hat ein Einzugsgebiet von 300 Quadratkilometern."],
+      hu: ["A Visztula-völgy hossza 30 km, szélessége 5 km.", "A Visztula ezen a szakaszon 40 km hosszú.", "Żywiec városának 31 000 lakosa van.", "A Żywiec sörfőzdét 1856-ban alapították.", "A völgy 300–400 m magasan fekszik.", "A folyó vízgyűjtő területe 300 km²."],
+      ro: ["Valea Vistulei are 30 km lungime și 5 km lățime.", "Vistula are o lungime de 40 km în această secțiune.", "Orașul Żywiec are 31.000 de locuitori.", "Fabrica de bere Żywiec a fost fondată în 1856.", "Valea se află la altitudini între 300 și 400 m.", "Râul are un bazin hidrografic de 300 km²."],
+      en: ["The Vistula Valley is about 30 km long and 5 km wide.", "The Vistula River flows 40 km through this section.", "The town of Żywiec has 31,000 inhabitants.", "Żywiec brewery was founded in 1856.", "The valley lies at elevations between 300 and 400 m.", "The river drainage basin is 300 km²."],
+    },
+  },
+  {
+    id: "poland-lubuskie-lake-district-relief-v2",
+    type: "landmark",
+    parent: "PL",
+    name: { de: "Lebuser Seenplatte", hu: "Lubuski-tóvidék", ro: "Regiunea Lacustră Lubusz", en: "Lubusz Lake District" },
+    coordinates: { lat: 52.3333, lng: 15.3333 },
+    description: {
+      de: "Eine seenreiche Landschaft im Westen Polens, geprägt durch sanfte Hügel und ausgedehnte Wälder. Die Region ist Teil des nordpolnischen Tieflands.",
+      hu: "Tavakban gazdag táj Nyugat-Lengyelországban, lankás dombokkal és kiterjedt erdőkkel. A régió az észak-lengyelországi alföld része.",
+      ro: "Peisaj bogat în lacuri în vestul Poloniei, definit de dealuri domoale și păduri întinse. Regiunea face parte din câmpia nordică a Poloniei.",
+      en: "A landscape rich in lakes in western Poland, characterized by rolling hills and extensive forests. The region is part of the North Polish Lowland.",
+    },
+    facts: {
+      de: ["Typ: Moränenlandschaft", "Region: Woiwodschaft Lebus", "Besonderheit: zahlreiche Seen", "Topografie: wellig"],
+      hu: ["Típus: morénás táj", "Régió: Lubuski vajdaság", "Jellemző: számos tó", "Topográfia: hullámos"],
+      ro: ["Tip: peisaj morenic", "Regiune: Voievodatul Lubusz", "Caracteristică: numeroase lacuri", "Topografie: vălurită"],
+      en: ["Type: moraine landscape", "Region: Lubusz Voivodeship", "Feature: numerous lakes", "Topography: undulating"],
+    },
+    imageHint: "Lubusz Lake District landscape",
+    descriptionAdvanced: {
+      de: "Die Lebuser Seenplatte (Pojezierze Lubuskie) ist eine seenreiche Region in Westpolen, die sich entlang der Oder erstreckt. Sie ist Teil des größeren Lebuser Landes. Die Landschaft wurde durch die Eiszeit geprägt mit vielen Seen, Moränen und Wäldern. Der größte See ist der Sławskie-See mit 8,2 Quadratkilometern. Die Region ist dünn besiedelt und bietet Erholungsmöglichkeiten wie Wandern, Radfahren und Wassersport. Die Oder bildet die westliche Grenze. Städte wie Gorzów Wielkopolski und Zielona Góra liegen am Rand der Seenplatte.",
+      hu: "A Lubusi-tóvidék (Pojezierze Lubuskie) Nyugat-Lengyelország tóvidéke az Odera mentén. A jégkorszak formálta, számos tó, moréna és erdő jellemzi. A legnagyobb tó a Sławskie (8,2 km²). Ritkán lakott, kikapcsolódási lehetőségekkel: túrázás, kerékpározás, vízi sportok. Az Odera nyugati határt képez. Olyan városok, mint Gorzów Wielkopolski és Zielona Góra, a tóvidék szélén találhatók.",
+      ro: "Districtul Lacurilor Lubuskie (Pojezierze Lubuskie) este o regiune cu lacuri din vestul Poloniei, de-a lungul Odrei. Modelată de glaciațiune, are multe lacuri, morene și păduri. Cel mai mare lac este Sławskie (8,2 km²). Zona este slab populată, oferind recreere: drumeții, ciclism, sporturi nautice. Odra formează granița de vest. Orașe precum Gorzów Wielkopolski și Zielona Góra sunt la marginea districtului.",
+      en: "The Lubusz Lake District (Pojezierze Lubuskie) is a lake-rich region in western Poland along the Oder River. Shaped by glaciation, it features many lakes, moraines, and forests. The largest lake is Lake Sławskie at 8.2 km². Sparsely populated, it offers recreation: hiking, cycling, water sports. The Oder forms the western border. Cities like Gorzów Wielkopolski and Zielona Góra lie on the edges.",
+    },
+    factsAdvanced: {
+      de: ["Die Lebuser Seenplatte umfasst etwa 150 Seen.", "Der größte See ist der Sławskie mit 8,2 Quadratkilometern.", "Die Region erstreckt sich über 3.000 Quadratkilometer.", "Der Nationalpark Drawa liegt im Osten der Seenplatte.", "Der höchste Punkt ist 150 Meter hoch.", "Die Oder fließt 80 Kilometer entlang der Grenze."],
+      hu: ["A Lubusi-tóvidék körülbelül 150 tóból áll.", "A legnagyobb tó a Sławskie (8,2 km²).", "A terület 3000 km².", "A Drawai Nemzeti Park a tóvidék keleti részén található.", "A legmagasabb pont 150 m.", "Az Odera 80 km hosszan határolja."],
+      ro: ["Districtul Lacurilor Lubuskie are aproximativ 150 de lacuri.", "Cel mai mare lac este Sławskie (8,2 km²).", "Regiunea se întinde pe 3.000 km².", "Parcul Național Drawa se află în estul districtului.", "Cel mai înalt punct are 150 m.", "Odra curge 80 km de-a lungul graniței."],
+      en: ["The Lubusz Lake District contains about 150 lakes.", "The largest lake is Lake Sławskie at 8.2 km².", "The region covers 3,000 km².", "Drawa National Park lies in the east of the district.", "The highest point is 150 m.", "The Oder River runs 80 km along the border."],
+    },
   }
 ];

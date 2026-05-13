@@ -10,9 +10,8 @@ export const poiExtraSaotomeandprincipeCitiesV2: POI[] = [
       de: "São Tomé",
       hu: "São Tomé",
       ro: "São Tomé",
-      en: "São Tomé",
-image: "/poi-images/sao-tome-cities-v2.webp"
-},
+      en: "São Tomé"},
+    image: "/poi-images/sao-tome-cities-v2.webp",
     description: {
       de: "São Tomé ist die pulsierende Hauptstadt des Inselstaates und ein Ort, an dem koloniale Architektur auf tropisches Lebensgefühl trifft. In den Straßen der Stadt weht der Duft von geröstetem Kaffee und das geschäftige Treiben am Markt erzählt Geschichten vom Atlantikhandel. Zwischen den farbenfrohen Fassaden und der Meeresbrise spürt man den Rhythmus eines Landes, das stolz auf seine Unabhängigkeit ist.",
       hu: "São Tomé a szigetország lüktető fővárosa, ahol a gyarmati építészet és a trópusi életérzés találkozik. Az utcákon a pörkölt kávé illata száll, a piac nyüzsgése pedig az atlanti kereskedelem történeteiről mesél. A színes homlokzatok és a tengeri szellő között érezhető egy olyan ország ritmusa, amely büszke függetlenségére.",
@@ -62,9 +61,8 @@ image: "/poi-images/sao-tome-cities-v2.webp"
       de: "Pantufo",
       hu: "Pantufo",
       ro: "Pantufo",
-      en: "Pantufo",
-image: "/poi-images/pantufo-cities-v2.webp"
-},
+      en: "Pantufo"},
+    image: "/poi-images/pantufo-cities-v2.webp",
     description: {
       de: "Pantufo ist ein traditionsreiches Fischerdorf am Rande der Hauptstadt, in dem die Zeit langsamer zu vergehen scheint. Am goldenen Strand liegen die bunten Kanus der Fischer, während Netze in der Sonne getrocknet werden. Es ist ein Ort der Gemeinschaft, wo der Fang des Tages über das Schicksal des Abends entscheidet und die Wellen ein ewiges Schlaflied singen.",
       hu: "Pantufo egy hagyományőrző halászfalu a főváros szélén, ahol az idő lassabban telik. Az aranyszínű strandon a halászok színes kenui pihennek, miközben a hálókat a napon szárítják. Ez a közösség helye, ahol a napi fogás dönti el az este sorsát, és a hullámok örök altatódalt énekelnek.",
@@ -108,9 +106,8 @@ image: "/poi-images/pantufo-cities-v2.webp"
       de: "Cruzeiro",
       hu: "Cruzeiro",
       ro: "Cruzeiro",
-      en: "Cruzeiro",
-image: "/poi-images/cruzeiro-cities-v2.webp"
-},
+      en: "Cruzeiro"},
+    image: "/poi-images/cruzeiro-cities-v2.webp",
     description: {
       de: "Cruzeiro liegt eingebettet in die grünen Hügel hinter der Hauptstadt und bietet einen weiten Blick über den Atlantik. In diesem Viertel mischen sich moderne Wohnbauten mit kleinen Gärten, in denen Ananas und Bananen gedeihen. Hier oben ist die Luft kühler und die Atmosphäre friedlicher, ein willkommener Rückzugsort vom geschäftigen Zentrum der Stadt.",
       hu: "Cruzeiro a főváros mögötti zöld dombok között fészkel, széles kilátást nyújtva az Atlanti-óceánra. Ebben a negyedben a modern lakóházak kis kertekkel keverednek, ahol ananász és banán terem. Itt fent hűvösebb a levegő és békésebb a hangulat, szívesen látott menedék a város forgalmas központjától.",
@@ -154,9 +151,8 @@ image: "/poi-images/cruzeiro-cities-v2.webp"
       de: "Bobo Forro",
       hu: "Bobo Forro",
       ro: "Bobo Forro",
-      en: "Bobo Forro",
-image: "/poi-images/bobo-forro-cities-v2.webp"
-},
+      en: "Bobo Forro"},
+    image: "/poi-images/bobo-forro-cities-v2.webp",
     description: {
       de: "Bobo Forro ist das pulsierende, volkstümliche Herz am Rande der Hauptstadt, wo die Kultur der Forros am lebendigsten ist. Kleine Kioske und Straßengrills prägen das Bild, während die Klänge der lokalen Musik die Abende erfüllen. Es ist ein Ort der ungefilterten Lebensfreude, an dem Nachbarschaftshilfe und Traditionen den Alltag bestimmen und jeder Besucher wie ein alter Freund empfangen wird.",
       hu: "Bobo Forro a főváros szélén fekvő lüktető, népi szív, ahol a forro kultúra a legélénkebb. Kis kioszkok és utcai grillezők határozzák meg a képet, miközben a helyi zene hangjai töltik meg az estéket. Ez a szűretlen életöröm helye, ahol a szomszédi segítség és a hagyományok határozzák meg a mindennapokat, és minden látogatót régi barátként fogadnak.",
@@ -200,9 +196,8 @@ image: "/poi-images/bobo-forro-cities-v2.webp"
       de: "Praia Melão",
       hu: "Praia Melão",
       ro: "Praia Melão",
-      en: "Praia Melão",
-image: "/poi-images/praia-melao-cities-v2.webp"
-},
+      en: "Praia Melão"},
+    image: "/poi-images/praia-melao-cities-v2.webp",
     description: {
       de: "Praia Melão erstreckt sich entlang der südlichen Küste von Água Grande, wo die Meeresgischt die hohen Palmen benetzt. In diesem Küstenort vermischen sich industrielle Anfänge mit der ungezähmten Schönheit des Atlantiks. Hier kann man beobachten, wie die großen Schiffe am Horizont vorbeiziehen, während die Bewohner die reichen Gaben des Meeres direkt am Ufer verarbeiten.",
       hu: "Praia Melão Água Grande déli partján húzódik, ahol a tenger habjai benedvesítik a magas pálmákat. Ebben a parti városban az ipari kezdetek keverednek az Atlanti-óceán megszelídíthetetlen szépségével. Itt megfigyelhetjük, ahogy a hatalmas hajók elhaladnak a horizonton, miközben a lakók a tenger gazdag ajándékait közvetlenül a parton dolgozzák fel.",
@@ -246,9 +241,8 @@ image: "/poi-images/praia-melao-cities-v2.webp"
       de: "Quinta da Favorita",
       hu: "Quinta da Favorita",
       ro: "Quinta da Favorita",
-      en: "Quinta da Favorita",
-image: "/poi-images/quinta-da-favorita-cities-v2.webp"
-},
+      en: "Quinta da Favorita"},
+    image: "/poi-images/quinta-da-favorita-cities-v2.webp",
     description: {
       de: "Quinta da Favorita ist eine grüne Oase der Ruhe im Norden der Hauptstadt, in der die koloniale Vergangenheit in den prächtigen Gärten weiterlebt. Alte Alleen führen zu versteckten Villen, während der Gesang der Tropenvögel die Stille untermalt. Es ist ein Ort der Beständigkeit und Eleganz, an dem die Natur mit einer Sanftheit regiert, die man in der nahen Stadtmitte oft vermisst.",
       hu: "Quinta da Favorita a nyugalom zöld oázisa a főváros északi részén, ahol a gyarmati múlt tovább él a pompás kertekben. Régi fasorok vezetnek rejtett villákhoz, miközben a trópusi madarak éneke festi alá a csendet. Ez az állandóság és az elegancia helye, ahol a természet olyan szelídséggel uralkodik, amely a közeli városközpontból gyakran hiányzik.",
@@ -292,9 +286,8 @@ image: "/poi-images/quinta-da-favorita-cities-v2.webp"
       de: "Santana",
       hu: "Santana",
       ro: "Santana",
-      en: "Santana",
-image: "/poi-images/santana-cities-v2.webp"
-},
+      en: "Santana"},
+    image: "/poi-images/santana-cities-v2.webp",
     description: {
       de: "Santana, die Hauptstadt des Bezirks Cantagalo, schmiegt sich an eine Bucht mit Blick auf die geheimnisvolle Insel Santana. Der Ort ist geprägt von der herzlichen Gastfreundschaft seiner Bewohner und den kleinen Booten, die sanft im Wasser schaukeln. Zwischen den historischen Gebäuden und den üppigen Obstbäumen findet man eine Welt, in der die Legenden der Seefahrer noch heute in den Cafés am Abend erzählt werden.",
       hu: "Santana, Cantagalo körzet fővárosa, egy öbölbe simulva néz a titokzatos Santana-szigetre. A helyet lakóinak szívélyes vendégszeretete és a vízben lágyan ringatózó kis csónakok jellemzik. A történelmi épületek és a dús gyümölcsfák között egy olyan világot találunk, ahol a tengerészek legendáit még ma is mesélik az esti kávézókban.",
@@ -338,9 +331,8 @@ image: "/poi-images/santana-cities-v2.webp"
       de: "Ribeira Afonso",
       hu: "Ribeira Afonso",
       ro: "Ribeira Afonso",
-      en: "Ribeira Afonso",
-image: "/poi-images/ribeira-afonso-cities-v2.webp"
-},
+      en: "Ribeira Afonso"},
+    image: "/poi-images/ribeira-afonso-cities-v2.webp",
     description: {
       de: "Ribeira Afonso ist ein Ort der rauen Küstenschönheit, wo der gleichnamige Fluss kraftvoll in den Atlantik mündet. Die Felsen am Ufer trotzen seit Jahrhunderten den Wellen, während die Dorfgemeinschaft eng mit dem Land und dem Wasser verbunden ist. Hier erzählen die alten Kakaotrockner von besseren Zeiten und die Kinder spielen in den natürlichen Becken, die die Ebbe hinterlässt.",
       hu: "Ribeira Afonso a zord parti szépség helye, ahol az azonos nevű folyó erőteljesen ömlik az Atlanti-óceánba. A parti sziklák évszázadok óta dacolnak a hullámokkal, miközben a faluközösség szorosan kötődik a földhöz és a vízhez. Itt a régi kakaószárítók mesélnek a jobb időkről, a gyerekek pedig az apály hagyta természetes medencékben játszanak.",
@@ -384,9 +376,8 @@ image: "/poi-images/ribeira-afonso-cities-v2.webp"
       de: "Uba Budo",
       hu: "Uba Budo",
       ro: "Uba Budo",
-      en: "Uba Budo",
-image: "/poi-images/uba-budo-cities-v2.webp"
-},
+      en: "Uba Budo"},
+    image: "/poi-images/uba-budo-cities-v2.webp",
     description: {
       de: "Uba Budo liegt tief im Hinterland von Cantagalo, umgeben von einem Meer aus smaragdgrünem Dschungel. In diesem abgelegenen Ort scheint die moderne Welt weit entfernt, während das Rauschen des Blätterdachs die einzige Musik ist. Hier findet man die Essenz des ländlichen São Tomé, wo der Anbau von Pfeffer und Gewürzen den Rhythmus des Lebens bestimmt und die Erde so fruchtbar ist, dass alles zum Himmel strebt.",
       hu: "Uba Budo mélyen Cantagalo hátországában fekszik, smaragdzöld dzsungeltengerrel körülvéve. Ebben az eldugott faluban a modern világ távolinak tűnik, és a lombok zúgása az egyetlen zene. Itt megtaláljuk a vidéki São Tomé esszenciáját, ahol a bors és a fűszerek termesztése határozza meg az élet ritmusát, és a föld olyan termékeny, hogy minden az ég felé tör.",
@@ -430,9 +421,8 @@ image: "/poi-images/uba-budo-cities-v2.webp"
       de: "São João dos Angolares",
       hu: "São João dos Angolares",
       ro: "São João dos Angolares",
-      en: "São João dos Angolares",
-image: "/poi-images/sao-joao-dos-angolares-cities-v2.webp"
-},
+      en: "São João dos Angolares"},
+    image: "/poi-images/sao-joao-dos-angolares-cities-v2.webp",
     description: {
       de: "São João dos Angolares ist die Wiege einer stolzen Kultur, die ihre Wurzeln in einem Schiffbruch vor Jahrhunderten hat. In den Gassen des Ortes hört man den besonderen Dialekt der Angolares und spürt den Trotz gegen die koloniale Unterdrückung. Heute ist der Ort ein kulturelles Juwel, in dem Kunst und Kulinarik Hand in Hand gehen, um die Geschichten der Vorfahren zu bewahren und den Besuchern das Herz des Südens zu öffnen.",
       hu: "São João dos Angolares egy büszke kultúra bölcsője, amelynek gyökerei egy évszázadokkal ezelőtti hajótöréshez nyúlnak vissza. A település utcáin hallani az angolaresek különleges nyelvjárását, és érezni a gyarmati elnyomás elleni dacot. Ma a hely egy kulturális ékszerdoboz, ahol a művészet és a gasztronómia kéz a kézben jár az ősök történeteinek megőrzéséért, megnyitva a látogatók előtt a dél szívét.",
@@ -476,9 +466,8 @@ image: "/poi-images/sao-joao-dos-angolares-cities-v2.webp"
       de: "Porto Alegre",
       hu: "Porto Alegre",
       ro: "Porto Alegre",
-      en: "Porto Alegre",
-image: "/poi-images/porto-alegre-cities-v2.webp"
-},
+      en: "Porto Alegre"},
+    image: "/poi-images/porto-alegre-cities-v2.webp",
     description: {
       de: "Porto Alegre ist das südliche Tor zum Paradies, wo die Zeit an den weißen Stränden der Ilhéu das Rolas stillsteht. In diesem ruhigen Ort bereiten sich Reisende auf den Sprung über den Äquator vor, während die Fischer ihre Netze für den nächsten Fang flicken. Die Palmen neigen sich hier tiefer zum Wasser und das Blau des Himmels scheint intensiver zu sein, als wolle die Natur den südlichsten Punkt der Insel gebührend feiern.",
       hu: "Porto Alegre a paradicsom déli kapuja, ahol az idő megáll az Ilhéu das Rolas fehér homokos strandjain. Ebben a nyugodt faluban az utazók az Egyenlítő átlépésére készülnek, miközben a halászok a következő fogáshoz foltozzák hálóikat. A pálmák itt mélyebben hajlanak a víz fölé, az ég kékje pedig intenzívebbnek tűnik, mintha a természet méltóképpen akarná megünnepelni a sziget legdélibb pontját.",
@@ -522,9 +511,8 @@ image: "/poi-images/porto-alegre-cities-v2.webp"
       de: "Dona Augusta",
       hu: "Dona Augusta",
       ro: "Dona Augusta",
-      en: "Dona Augusta",
-image: "/poi-images/dona-augusta-cities-v2.webp"
-},
+      en: "Dona Augusta"},
+    image: "/poi-images/dona-augusta-cities-v2.webp",
     description: {
       de: "Dona Augusta liegt versteckt an der wilden Südostküste, wo der Obô-Wald auf den ungezähmten Atlantik trifft. Der Ort ist ein Zeugnis der Kraft der Natur, die sich ehemals kultivierte Flächen zurückerobert hat. In der Stille des Dorfes hört man nur den Wind in den Kakaobäumen und das ferne Grollen der Brandung, ein Ort für jene, die die wahre Einsamkeit und die rohe Kraft der Tropen suchen.",
       hu: "Dona Augusta rejtve fekszik a vad délkeleti parton, ahol az Obô-erdő és a megszelídíthetetlen Atlanti-óceán találkozik. A település a természet erejének tanúja, amely visszahódította az egykor művelt területeket. A falu csendjében csak a szél zúgását hallani a kakaófák között és a távoli hullámtörést; ideális hely azoknak, akik a valódi magányt és a trópusok nyers erejét keresik.",
@@ -568,9 +556,8 @@ image: "/poi-images/dona-augusta-cities-v2.webp"
       de: "Ribeira Peixe",
       hu: "Ribeira Peixe",
       ro: "Ribeira Peixe",
-      en: "Ribeira Peixe",
-image: "/poi-images/ribeira-peixe-cities-v2.webp"
-},
+      en: "Ribeira Peixe"},
+    image: "/poi-images/ribeira-peixe-cities-v2.webp",
     description: {
       de: "Ribeira Peixe ist eine lebendige Gemeinschaft im tiefen Süden, die sich um eine der geschäftigsten Ölpalmenplantagen des Landes entwickelt hat. Hier treffen industrielle Dynamik und ländliche Tradition aufeinander. Das Dorf ist von endlosen Palmenreihen umgeben, die sich bis zum Horizont erstrecken, während die Bewohner die reiche Erde nutzen, um ihre Familien zu ernähren und die Geheimnisse des Waldes zu bewahren.",
       hu: "Ribeira Peixe egy élénk közösség a mély délen, amely az ország egyik legforgalmasabb olajpálma-ültetvénye köré szerveződött. Itt találkozik az ipari dinamika és a vidéki hagyomány. A falut végtelen pálmasorok veszik körül, amelyek a horizontig nyúlnak, miközben a lakók a gazdag földet használják családjuk eltartására és az erdő titkainak megőrzésére.",
@@ -614,9 +601,8 @@ image: "/poi-images/ribeira-peixe-cities-v2.webp"
       de: "Neves",
       hu: "Neves",
       ro: "Neves",
-      en: "Neves",
-image: "/poi-images/neves-cities-v2.webp"
-},
+      en: "Neves"},
+    image: "/poi-images/neves-cities-v2.webp",
     description: {
       de: "Neves, das industrielle Kraftzentrum des Westens, ist eine Hafenstadt, in der das Echo der Geschichte laut nachhallt. Hier verbindet sich der Geruch von Diesel und Meer mit dem stolzen Erbe der Befreiungsbewegung. Zwischen den Fabrikschloten und den Wellen, die gegen die Hafenmauer klatschen, spürt man die Energie einer Stadt, die niemals schläft und in der jeder Hammerschlag vom Fortschritt kündet.",
       hu: "Neves, a nyugat ipari központja, egy olyan kikötőváros, ahol a történelem visszhangja hangosan cseng. Itt a gázolaj és a tenger illata keveredik a felszabadítási mozgalom büszke örökségével. A gyárkémények és a kikötőfalnak csapódó hullámok között érezhető egy soha nem alvó város energiája, ahol minden kalapácsütés a haladásról beszél.",
@@ -660,9 +646,8 @@ image: "/poi-images/neves-cities-v2.webp"
       de: "Santa Catarina",
       hu: "Santa Catarina",
       ro: "Santa Catarina",
-      en: "Santa Catarina",
-image: "/poi-images/santa-catarina-cities-v2.webp"
-},
+      en: "Santa Catarina"},
+    image: "/poi-images/santa-catarina-cities-v2.webp",
     description: {
       de: "Santa Catarina markiert das Ende der asphaltierten Straße an der Westküste, wo die Zivilisation dem majestätischen Obô-Wald die Hand reicht. In diesem abgelegenen Küstenort leben die Menschen im Einklang mit den Gezeiten und den Jahreszeiten des Waldes. Hier ist die Natur so gewaltig, dass die Häuser klein erscheinen, und der Blick auf die steilen Klippen lässt jeden Reisenden demütig werden vor der Schönheit dieser einsamen Welt.",
       hu: "Santa Catarina az aszfaltozott út végét jelzi a nyugati parton, ahol a civilizáció kezet nyújt a fenséges Obô-erdőnek. Ebben az eldugott parti faluban az emberek az árapály és az erdő évszakainak összhangjában élnek. Itt a természet olyan hatalmas, hogy a házak aprónak tűnnek, a meredek sziklákra nyíló kilátás pedig minden utazót alázatossá tesz e magányos világ szépsége előtt.",
@@ -706,9 +691,8 @@ image: "/poi-images/santa-catarina-cities-v2.webp"
       de: "Diogo Vaz",
       hu: "Diogo Vaz",
       ro: "Diogo Vaz",
-      en: "Diogo Vaz",
-image: "/poi-images/diogo-vaz-cities-v2.webp"
-},
+      en: "Diogo Vaz"},
+    image: "/poi-images/diogo-vaz-cities-v2.webp",
     description: {
       de: "Diogo Vaz ist ein Ort, der von der Schokolade träumt, denn hier wird einer der besten Kakaos der Welt mit Sorgfalt und Liebe verarbeitet. Die Plantage, die den Ort dominiert, ist ein lebendiges Museum der Landwirtschaft, in dem der Duft von fermentierten Bohnen die Luft sättigt. Zwischen den alten Trockengestellen und den Schatten der Bäume findet man die Hingabe der Menschen an ihr Handwerk und den Stolz auf ein Produkt, das die Welt verzaubert.",
       hu: "Diogo Vaz a csokoládéról álmodik, hiszen itt a világ egyik legjobb kakaóját dolgozzák fel gondossággal és szeretettel. A települést uraló ültetvény a mezőgazdaság élő múzeuma, ahol a fermentált babok illata telíti meg a levegőt. A régi szárítóállványok és a fák árnyéka között megtaláljuk az emberek elkötelezettségét mesterségük iránt és a büszkeséget egy olyan termékre, amely elvarázsolja a világot.",
@@ -752,9 +736,8 @@ image: "/poi-images/diogo-vaz-cities-v2.webp"
       de: "Henrique",
       hu: "Henrique",
       ro: "Henrique",
-      en: "Henrique",
-image: "/poi-images/henrique-cities-v2.webp"
-},
+      en: "Henrique"},
+    image: "/poi-images/henrique-cities-v2.webp",
     description: {
       de: "Henrique liegt hoch oben an den Hängen des Lembá-Bezirks, wo der Blick über die smaragdgrünen Wälder bis zum funkelnden Atlantik reicht. In diesem Bergdorf bestimmt der Nebel oft die Atmosphäre und verleiht den Gärten eine mystische Aura. Es ist ein Ort der Stille, an dem das Klopfen der Spechte und das Rauschen der Bergbäche die einzigen Geräusche sind, während die Bewohner die reiche Erde für den Anbau von Vanille und Gewürzen nutzen.",
       hu: "Henrique magasan a Lembá körzet lankáin fekszik, ahonnan a kilátás a smaragdzöld erdőkön át egészen a csillogó Atlanti-óceánig ér. Ebben a hegyi faluban gyakran a köd határozza meg a hangulatot, misztikus aurát kölcsönözve a kerteknek. A csend helye ez, ahol a harkályok kopogása és a hegyi patakok zúgása az egyetlen zaj, miközben a lakók a gazdag földet vanília és fűszerek termesztésére használják.",
@@ -798,9 +781,8 @@ image: "/poi-images/henrique-cities-v2.webp"
       de: "Ponta Figo",
       hu: "Ponta Figo",
       ro: "Ponta Figo",
-      en: "Ponta Figo",
-image: "/poi-images/ponta-figo-cities-v2.webp"
-},
+      en: "Ponta Figo"},
+    image: "/poi-images/ponta-figo-cities-v2.webp",
     description: {
       de: "Ponta Figo ist ein Ort der Begegnung zwischen Meer und Land, wo die Klippen wie steinerne Wächter über den Westen wachen. In diesem Küstendorf vermischen sich die salzige Luft und der Duft von trocknendem Mais zu einer einzigartigen Atmosphäre. Hier kann man beobachten, wie die Fischer ihre Boote durch die tückischen Riffe steuern, während am Abend das Licht der Leuchttürme den Weg in die sicheren Häfen weist.",
       hu: "Ponta Figo a tenger és a szárazföld találkozásának helye, ahol a sziklák kőőrként vigyázzák a nyugatot. Ebben a parti faluban a sós levegő és a száradó kukorica illata egyedülálló hangulattá olvad össze. Itt megfigyelhetjük, ahogy a halászok a csalóka zátonyokon keresztül navigálják hajóikat, miközben este a világítótornyok fénye mutatja az utat a biztonságos kikötőkbe.",
@@ -844,9 +826,8 @@ image: "/poi-images/ponta-figo-cities-v2.webp"
       de: "Generosa",
       hu: "Generosa",
       ro: "Generosa",
-      en: "Generosa",
-image: "/poi-images/generosa-cities-v2.webp"
-},
+      en: "Generosa"},
+    image: "/poi-images/generosa-cities-v2.webp",
     description: {
       de: "Generosa trägt ihren Namen zu Recht, denn die Erde hier ist so freigiebig, dass die Obstgärten fast das ganze Jahr über Früchte tragen. In diesem friedlichen Weiler im Westen leben die Menschen von dem, was sie mit eigenen Händen ernten, und teilen ihre Gaben großzügig mit den Reisenden. Hier scheint der Stress der Welt weit entfernt, während das sanfte Rauschen der Bananenblätter im Wind die einzige Uhr ist, die zählt.",
       hu: "Generosa méltán viseli nevét, hiszen a föld itt olyan bőkezű, hogy a gyümölcsöskertek szinte egész évben teremnek. Ebben a békés nyugati tanyán az emberek abból élnek, amit saját kezükkel aratnak, és ajándékaikat nagylelkűen megosztják az utazókkal. Itt a világ stressze távolinak tűnik, és a banánlevelek szélben való lágy zizegése az egyetlen óra, amely számít.",
@@ -890,9 +871,8 @@ image: "/poi-images/generosa-cities-v2.webp"
       de: "Guadalupe",
       hu: "Guadalupe",
       ro: "Guadalupe",
-      en: "Guadalupe",
-image: "/poi-images/guadalupe-cities-v2.webp"
-},
+      en: "Guadalupe"},
+    image: "/poi-images/guadalupe-cities-v2.webp",
     description: {
       de: "Guadalupe, die stolze Hauptstadt des Lobata-Bezirks, ist ein Ort der Geschichte und des Glaubens, dessen Herz die markante Kirche auf dem Platz ist. In den staubigen Gassen vermischt sich das Lachen der Kinder mit den Rufen der Straßenverkäufer, die frisches Obst und Brot anbieten. Hier spürt man den Puls des Nordens, wo die flachen Küstenlandschaften in sanfte Hügel übergehen und die Meeresbrise die Hitze des Tages lindert.",
       hu: "Guadalupe, Lobata körzet büszke fővárosa, a történelem és a hit helye, melynek szíve a főtéren álló jellegzetes templom. A poros utcákon a gyerekek nevetése keveredik az utcai árusok kiáltásaival, akik friss gyümölcsöt és kenyeret kínálnak. Itt érezhető az észak lüktetése, ahol a lapos parti tájak lágy dombokká szelídülnek, és a tengeri szellő enyhíti a nap hevét.",
@@ -936,9 +916,8 @@ image: "/poi-images/guadalupe-cities-v2.webp"
       de: "Santo Amaro",
       hu: "Santo Amaro",
       ro: "Santo Amaro",
-      en: "Santo Amaro",
-image: "/poi-images/santo-amaro-cities-v2.webp"
-},
+      en: "Santo Amaro"},
+    image: "/poi-images/santo-amaro-cities-v2.webp",
     description: {
       de: "Santo Amaro ist ein geschäftiger Ort an der Hauptstraße nach Norden, in dem der Handel und das Handwerk blühen. Hier findet man Werkstätten, in denen geschickte Hände aus Holz und Metall nützliche Dinge für den Alltag formen. Zwischen den kleinen Geschäften und den schattigen Veranden pulsieren das soziale Leben und der Austausch von Neuigkeiten, während der ferne Blick auf die Küste an die Freiheit des Ozeans erinnert.",
       hu: "Santo Amaro egy forgalmas település az északra vezető főút mentén, ahol a kereskedelem és a kézművesség virágzik. Itt olyan műhelyeket találunk, ahol ügyes kezek fából és fémből formálnak hasznos mindennapi tárgyakat. A kis üzletek és az árnyékos verandák között lüktet a társadalmi élet és a hírek cseréje, miközben a távoli kilátás a partra az óceán szabadságára emlékeztet.",
@@ -982,9 +961,8 @@ image: "/poi-images/santo-amaro-cities-v2.webp"
       de: "Conde",
       hu: "Conde",
       ro: "Conde",
-      en: "Conde",
-image: "/poi-images/conde-cities-v2.webp"
-},
+      en: "Conde"},
+    image: "/poi-images/conde-cities-v2.webp",
     description: {
       de: "Conde liegt eingebettet in die sanften Hügel von Lobata, wo der Boden besonders reich an Mineralien ist und den Pflanzen Kraft gibt. In diesem Ort spürt man die tiefe Verbindung der Menschen zur Erde, die seit Generationen bestellt wird. Die Gassen sind gesäumt von blühenden Hecken und kleinen Häusern, die Schutz vor der tropischen Sonne bieten, während der Wind die Geschichten der Vorfahren durch die Blätter flüstert.",
       hu: "Conde Lobata lágy dombjai között fekszik, ahol a talaj különösen gazdag ásványi anyagokban, erőt adva a növényeknek. Ebben a faluban érezhető az emberek mély kötődése a földhöz, amelyet generációk óta művelnek. Az utcákat virágzó sövények és kis házak szegélyezik, amelyek védelmet nyújtanak a trópusi nap elől, miközben a szél az ősök történeteit suttogja a levelek között.",
@@ -1028,9 +1006,8 @@ image: "/poi-images/conde-cities-v2.webp"
       de: "Micolo",
       hu: "Micolo",
       ro: "Micolo",
-      en: "Micolo",
-image: "/poi-images/micolo-cities-v2.webp"
-},
+      en: "Micolo"},
+    image: "/poi-images/micolo-cities-v2.webp",
     description: {
       de: "Micolo ist ein malerischer Küstenort im Norden, an dem der Sand so fein ist, dass er unter den Füßen singt. Hier treffen die Lagunen auf das Meer und schaffen ein Labyrinth aus Wasser und Mangroven. In diesem Fischerdorf ist der Rhythmus der Wellen der einzige Taktgeber, während die Bewohner ihre Netze auswerfen und die Schätze des Atlantiks in einer Atmosphäre der absoluten Ruhe bergen.",
       hu: "Micolo egy festői parti település északon, ahol a homok olyan finom, hogy énekel a lábak alatt. Itt a lagúnák találkoznak a tengerrel, víz és mangrove-erdők labirintusát alkotva. Ebben a halászfaluban a hullámok ritmusa az egyetlen ütemadó, miközben a lakók kivetik hálóikat és az Atlanti-óceán kincseit emelik ki a teljes nyugalom légkörében.",
@@ -1075,9 +1052,8 @@ image: "/poi-images/micolo-cities-v2.webp"
       de: "Fernão Dias",
       hu: "Fernão Dias",
       ro: "Fernão Dias",
-      en: "Fernão Dias",
-image: "/poi-images/fernao-dias-cities-v2.webp"
-},
+      en: "Fernão Dias"},
+    image: "/poi-images/fernao-dias-cities-v2.webp",
     description: {
       de: "Fernão Dias trägt den Namen eines Entdeckers und bewahrt bis heute den Geist der Abenteuerlust an der Nordküste. Der Ort liegt auf einem Plateau über dem Meer und bietet dramatische Ausblicke auf die Brandung, die gegen die dunklen Klippen schlägt. Hier erzählen die Ruinen alter Lagerhäuser von der Ära des Kakao-Booms, während die moderne Gemeinde mutig in die Zukunft blickt und die weiten Horizonte als Versprechen für neue Wege sieht.",
       hu: "Fernão Dias egy felfedező nevét viseli, és mindmáig őrzi a kalandvágy szellemét az északi parton. A település egy tenger feletti fennsíkon fekszik, drámai kilátást nyújtva a sötét szikláknak csapódó hullámokra. Itt a régi raktárak romjai a kakaó-bumm korszakáról mesélnek, miközben a modern közösség bátran tekint a jövőbe, a tágas horizontot az új utak ígéretének tekintve.",
@@ -1121,9 +1097,8 @@ image: "/poi-images/fernao-dias-cities-v2.webp"
       de: "Agostinho Neto",
       hu: "Agostinho Neto",
       ro: "Agostinho Neto",
-      en: "Agostinho Neto",
-image: "/poi-images/agostinho-neto-cities-v2.webp"
-},
+      en: "Agostinho Neto"},
+    image: "/poi-images/agostinho-neto-cities-v2.webp",
     description: {
       de: "Agostinho Neto, ehemals bekannt als Rio do Ouro, ist ein monumentales Zeugnis der Plantagenkultur, das wie eine eigene Stadt im Dschungel wirkt. Die gewaltigen Kolonialbauten und das Krankenhaus der Roça erzählen von Macht, Reichtum und harter Arbeit. In der Stille der weiten Höfe hört man das Echo einer vergangenen Ära, während die Natur sanft beginnt, die steinernen Mauern mit grünem Moos und Ranken zu schmücken, ein Ort des Innehaltens und Nachdenkens.",
       hu: "Agostinho Neto, korábbi nevén Rio do Ouro, az ültetvényes kultúra monumentális tanúja, amely szinte önálló városként hat a dzsungelben. A hatalmas gyarmati épületek és a roça kórháza hatalomról, gazdagságról és kemény munkáról mesélnek. A tágas udvarok csendjében egy letűnt korszak visszhangja hallható, miközben a természet lágyan kezdi zöld mohával és indákkal díszíteni a kőfalakat; a megállás és az elmélyülés helye ez.",
@@ -1167,9 +1142,8 @@ image: "/poi-images/agostinho-neto-cities-v2.webp"
       de: "Boa Entrada",
       hu: "Boa Entrada",
       ro: "Boa Entrada",
-      en: "Boa Entrada",
-image: "/poi-images/boa-entrada-cities-v2.webp"
-},
+      en: "Boa Entrada"},
+    image: "/poi-images/boa-entrada-cities-v2.webp",
     description: {
       de: "Boa Entrada macht ihrem Namen alle Ehre und empfängt Besucher mit einer Allee aus gigantischen Bäumen, die den Himmel zu berühren scheinen. In diesem Ort im Landesinneren von Lobata findet man die Seele des Kakao-Anbaus, wo die Schatten der Urriesen die jungen Pflanzen schützen. Die Häuser der Gemeinschaft schmiegen sich an die Hügel, während der Duft von feuchter Erde und blühendem Kaffee die Sinne berauscht und eine Welt der Fruchtbarkeit und des Friedens schafft.",
       hu: "Boa Entrada rászolgált a nevére: óriási fákból álló fasorral fogadja a látogatókat, amelyek szinte az eget érintik. Ebben a belső Lobata-i faluban megtaláljuk a kakaótermesztés lelkét, ahol az ősi óriások árnyéka védi a fiatal növényeket. A közösség házai a dombokhoz simulnak, miközben a nedves föld és a virágzó kávé illata mámorítja az érzékeket, a termékenység és a béke világát teremtve meg.",
@@ -1213,9 +1187,8 @@ image: "/poi-images/boa-entrada-cities-v2.webp"
       de: "Canavial",
       hu: "Canavial",
       ro: "Canavial",
-      en: "Canavial",
-image: "/poi-images/canavial-cities-v2.webp"
-},
+      en: "Canavial"},
+    image: "/poi-images/canavial-cities-v2.webp",
     description: {
       de: "Canavial ist ein Ort der Kontraste, wo die flachen Felder des Küstenstreifens auf die ersten Erhebungen des Nordens treffen. In diesem Weiler bestimmen der Anbau von Zuckerrohr und die Viehzucht das tägliche Leben, während die Meeresbrise das Gras sanft wiegt. Hier findet man die einfache Schönheit des ländlichen Lebens, in dem die Nachbarschaft eine Familie ist und die Arbeit auf den Feldern unter dem endlosen blauen Himmel verrichtet wird, weit weg vom Lärm der Zivilisation.",
       hu: "Canavial az ellentétek helye, ahol a parti sáv lapos mezői találkoznak az északi rész első magaslataival. Ebben a tanyavilágban a cukornádtermesztés és az állattenyésztés határozza meg a mindennapokat, miközben a tengeri szellő lágyan ringatja a füvet. Itt megtaláljuk a vidéki élet egyszerű szépségét, ahol a szomszédság egy nagy család, és a mezei munka a végtelen kék ég alatt folyik, távol a civilizáció zajától.",
@@ -1259,9 +1232,8 @@ image: "/poi-images/canavial-cities-v2.webp"
       de: "Blublu",
       hu: "Blublu",
       ro: "Blublu",
-      en: "Blublu",
-image: "/poi-images/blublu-cities-v2.webp"
-},
+      en: "Blublu"},
+    image: "/poi-images/blublu-cities-v2.webp",
     description: {
       de: "Blublu ist ein lebendiger Vorort von Guadalupe, in dem das Wasser des Flusses Lobata dem Ort seinen Namen und seinen Rhythmus gegeben hat. Hier vermischt sich das Geräusch des fließenden Wassers mit den Liedern der Frauen, die am Ufer ihre Wäsche waschen und Geschichten austauschen. Die üppigen Gemüsegärten, die den Fluss säumen, sind ein Beweis für die Kraft des Wassers, das diesen Ort zu einer grünen Lunge des Nordens macht, in der das Leben in einer friedlichen Beständigkeit fließt.",
       hu: "Blublu Guadalupe élénk elővárosa, ahol a Lobata-folyó vize adta a település nevét és ritmusát. Itt a folyó vízének csobogása keveredik az asszonyok énekével, akik a parton mosnak és történeteket mesélnek egymásnak. A folyót szegélyező dús zöldségeskertek a víz erejének bizonyítékai, amely észak zöld tüdejévé teszi ezt a helyet, ahol az élet békés állandóságban folyik.",
@@ -1306,9 +1278,8 @@ image: "/poi-images/blublu-cities-v2.webp"
       de: "Trindade",
       hu: "Trindade",
       ro: "Trindade",
-      en: "Trindade",
-image: "/poi-images/trindade-cities-v2.webp"
-},
+      en: "Trindade"},
+    image: "/poi-images/trindade-cities-v2.webp",
     description: {
       de: "Trindade, die Hauptstadt von Mé-Zóchi, liegt stolz im fruchtbaren Mittelland der Insel, wo die Luft kühler und der Boden tiefschwarz ist. In diesem Ort spürt man die geschichtliche Tiefe der Befreiungskämpfe, während die modernen Cafés und Schulen von einer neuen Hoffnung zeugen. Zwischen den Schatten der Kakaobäume und den gepflasterten Plätzen findet man eine Gemeinschaft, die stolz auf ihre Arbeit ist und in der die Tradition des 'Bula-Au'-Theaters die Abende in magische Erzählungen verwandelt.",
       hu: "Trindade, Mé-Zóchi fővárosa, büszkén fekszik a sziget termékeny középső területein, ahol a levegő hűvösebb, a talaj pedig mélyfekete. Ebben a városban érezhető a felszabadító harcok történelmi mélysége, miközben a modern kávézók és iskolák új reményről tanúskodnak. A kakaófák árnyéka és a kövezett terek között egy olyan közösséget találunk, amely büszke munkájára, és ahol a 'Bula-Au' színház hagyománya mágikus történetekké varázsolja az estéket.",
@@ -1352,9 +1323,8 @@ image: "/poi-images/trindade-cities-v2.webp"
       de: "Madalena",
       hu: "Madalena",
       ro: "Madalena",
-      en: "Madalena",
-image: "/poi-images/madalena-cities-v2.webp"
-},
+      en: "Madalena"},
+    image: "/poi-images/madalena-cities-v2.webp",
     description: {
       de: "Madalena ist ein ruhiger Vorort von Trindade, in dem die Gärten so üppig blühen, dass sie wie kleine Dschungel wirken. Hier vermischt sich das tägliche Leben der Bauern mit der spirituellen Ruhe der lokalen Kapelle, die dem Ort seinen Namen gab. In der Kühle des Morgens sieht man die Bewohner ihre Produkte zum Markt bringen, während der Duft von feuchter Rinde und Nelken die Luft erfüllt und eine Atmosphäre der tiefen Zufriedenheit schafft.",
       hu: "Madalena Trindade egy csendes elővárosa, ahol a kertek olyan dúsan virágoznak, hogy kis dzsungelnek tűnnek. Itt a parasztok mindennapi élete keveredik a helyi kápolna spirituális nyugalmával, amely a település nevét is adta. A reggeli hűvösben látni, ahogy a lakók termékeiket a piacra viszik, miközben a nedves kéreg és a szegfűszeg illata tölti meg a levegőt, a mély elégedettség hangulatát árasztva.",
@@ -1398,9 +1368,8 @@ image: "/poi-images/madalena-cities-v2.webp"
       de: "Bombom",
       hu: "Bombom",
       ro: "Bombom",
-      en: "Bombom",
-image: "/poi-images/bombom-cities-v2.webp"
-},
+      en: "Bombom"},
+    image: "/poi-images/bombom-cities-v2.webp",
     description: {
       de: "Bombom ist ein Ort der geschäftigen Betriebsamkeit am Rande der Hauptstadt, in dem sich das urbane Leben und die ländliche Ruhe die Waage halten. Hier findet man kleine Handwerksbetriebe und lebhafte Gassen, in denen der Austausch von Geschichten so wichtig ist wie der Handel selbst. Die Gärten sind voller Leben und die Farben der Blumen leuchten hier besonders hell, als wolle der Ort seine Besucher mit einer süßen Herzlichkeit empfangen, die seinem Namen alle Ehre macht.",
       hu: "Bombom a főváros szélén fekvő, nyüzsgő település, ahol a városi élet és a vidéki nyugalom egyensúlyban van. Itt kis kézműves üzemeket és élettel teli utcákat találunk, ahol a történetek mesélése éppolyan fontos, mint maga a kereskedelem. A kertek teli vannak élettel, a virágok színei pedig különösen élénken ragyognak, mintha a hely édes szívélyességgel akarná fogadni látogatóit, rászolgálva nevére.",
@@ -1444,9 +1413,8 @@ image: "/poi-images/bombom-cities-v2.webp"
       de: "Almas",
       hu: "Almas",
       ro: "Almas",
-      en: "Almas",
-image: "/poi-images/almas-cities-v2.webp"
-},
+      en: "Almas"},
+    image: "/poi-images/almas-cities-v2.webp",
     description: {
       de: "Almas liegt auf den sanften Plateaus von Mé-Zóchi, wo die Seelen der Vorfahren in den uralten Kaffeebäumen zu flüstern scheinen. In diesem Ort wird die Tradition der Kaffeekultur mit einer fast religiösen Hingabe gepflegt. Die Steinhäuser des Dorfes sind Zeugen einer Ära der Eleganz, während der Nebel, der oft über die Felder zieht, dem Ort eine mystische Stille verleiht, die zum Verweilen und Träumen einlädt.",
       hu: "Almas Mé-Zóchi lágy fennsíkjain fekszik, ahol az ősök lelke suttogni látszik az ősi kávéfák között. Ebben a faluban a kávékultúra hagyományát szinte vallásos odaadással ápolják. A falu kőházai az elegancia korszakának tanúi, miközben a mezők felett gyakran áthúzódó köd olyan misztikus csendet kölcsönöz a helynek, amely maradásra és álmodozásra késztet.",
@@ -1490,9 +1458,8 @@ image: "/poi-images/almas-cities-v2.webp"
       de: "Caixão Grande",
       hu: "Caixão Grande",
       ro: "Caixão Grande",
-      en: "Caixão Grande",
-image: "/poi-images/caixao-grande-cities-v2.webp"
-},
+      en: "Caixão Grande"},
+    image: "/poi-images/caixao-grande-cities-v2.webp",
     description: {
       de: "Caixão Grande ist ein geschäftiger Ort, der durch seine Lage an einem wichtigen Verkehrsknotenpunkt im Mittelland geprägt ist. Hier findet man eine bunte Mischung aus modernen Geschäften und traditionellen Wohnhäusern, in denen das Leben in einem zügigen Takt verläuft. Trotz des Namens ist der Ort voller Lebensfreude, mit blühenden Märkten und Gärten, die beweisen, dass die Erde hier bereit ist, jeden Samen in eine Pracht zu verwandeln.",
       hu: "Caixão Grande egy nyüzsgő település, amelynek jellegét a belső területek egyik fontos közlekedési csomópontja határozza meg. Itt modern üzletek és hagyományos lakóházak színes keverékét találjuk, ahol az élet gyors ütemben zajlik. A név ellenére a hely tele van életörömmel, virágzó piacokkal és kertekkel, amelyek bizonyítják, hogy a föld itt kész minden magot pompává varázsolni.",
@@ -1536,9 +1503,8 @@ image: "/poi-images/caixao-grande-cities-v2.webp"
       de: "Santa Margarida",
       hu: "Santa Margarida",
       ro: "Santa Margarida",
-      en: "Santa Margarida",
-image: "/poi-images/santa-margarida-cities-v2.webp"
-},
+      en: "Santa Margarida"},
+    image: "/poi-images/santa-margarida-cities-v2.webp",
     description: {
       de: "Santa Margarida liegt verborgen im grünen Labyrinth von Mé-Zóchi, ein Ort, an dem die Stille des Waldes nur durch das ferne Rauschen der Wasserfälle unterbrochen wird. In diesem Weiler scheinen die Häuser organisch aus dem Dschungel gewachsen zu sein, während die Bewohner die Schätze des Obô-Parks mit Respekt und Weisheit sammeln. Es ist ein Ort der Heilung und der Naturverbundenheit, an dem jeder Pfad tiefer in die Geheimnisse der Tropen führt.",
       hu: "Santa Margarida Mé-Zóchi zöld labirintusában rejtőzik, egy hely, ahol az erdő csendjét csak a távoli vízesések zúgása szakítja meg. Ebben a faluban a házak mintha szervesen nőttek volna ki a dzsungelből, miközben a lakók tisztelettel és bölcsességgel gyűjtik az Obô-park kincseit. A gyógyulás és a természetközelség helye ez, ahol minden ösvény mélyebbre vezet a trópusok titkaihoz.",
@@ -1582,9 +1548,8 @@ image: "/poi-images/santa-margarida-cities-v2.webp"
       de: "Milagrosa",
       hu: "Milagrosa",
       ro: "Milagrosa",
-      en: "Milagrosa",
-image: "/poi-images/milagrosa-cities-v2.webp"
-},
+      en: "Milagrosa"},
+    image: "/poi-images/milagrosa-cities-v2.webp",
     description: {
       de: "Milagrosa trägt ihren Namen als Hommage an das Wunder der Natur, die diesen Ort mit einer unglaublichen Fruchtbarkeit gesegnet hat. Hier, in den höheren Lagen von Mé-Zóchi, gedeihen Früchte und Blumen in einer Pracht, die fast überirdisch wirkt. Die Dorfgemeinschaft ist eng verbunden durch den gemeinsamen Anbau von Pfeffer und Kaffee, während die frische Bergluft und der klare Sternenhimmel den Ort zu einem Rückzugsort für die Seele machen.",
       hu: "Milagrosa a természet csodája előtti tisztelgésként viseli nevét, amely ezt a helyet hihetetlen termékenységgel áldotta meg. Itt, Mé-Zóchi magasabb vidékein a gyümölcsök és virágok olyan pompában díszlenek, amely szinte túlviláginak hat. A faluközösséget a közös bors- és kávétermesztés tartja össze, miközben a friss hegyi levegő és a tiszta csillagos égbolt a lélek menedékévé teszi a települést.",
@@ -1628,9 +1593,8 @@ image: "/poi-images/milagrosa-cities-v2.webp"
       de: "Batepá",
       hu: "Batepá",
       ro: "Batepá",
-      en: "Batepá",
-image: "/poi-images/batepa-cities-v2.webp"
-},
+      en: "Batepá"},
+    image: "/poi-images/batepa-cities-v2.webp",
     description: {
       de: "Batepá ist ein Ort von schmerzhafter historischer Bedeutung, an dem das Gedenken an das Massaker von 1953 die Identität der Menschen tief prägt. Doch heute ist das Dorf auch ein Symbol der Widerstandskraft und des neuen Lebens, wo die grünen Hügel von Mé-Zóchi Frieden ausstrahlen. In der Stille des Ortes findet man Denkmäler der Freiheit, während die Kakaobäume mit ihrer reichen Ernte zeigen, dass aus dem Schmerz der Vergangenheit die Frucht der Unabhängigkeit erwachsen ist.",
       hu: "Batepá fájdalmas történelmi jelentőségű hely, ahol az 1953-as mészárlás emléke mélyen meghatározza az emberek identitását. Ma azonban a falu az ellenállás és az új élet szimbóluma is, ahol Mé-Zóchi zöld dombjai békét árasztanak. A település csendjében a szabadság emlékművei találhatók, miközben a kakaófák gazdag termése mutatja, hogy a múlt fájdalmából a függetlenség gyümölcse sarjadt.",
@@ -1674,9 +1638,8 @@ image: "/poi-images/batepa-cities-v2.webp"
       de: "Monte Café",
       hu: "Monte Café",
       ro: "Monte Café",
-      en: "Monte Café",
-image: "/poi-images/monte-cafe-cities-v2.webp"
-},
+      en: "Monte Café"},
+    image: "/poi-images/monte-cafe-cities-v2.webp",
     description: {
       de: "Monte Café liegt majestätisch in den Wolkenbergen von Mé-Zóchi, ein historisches Zentrum der Kaffeeproduktion, das den Charme einer vergangenen Ära bewahrt hat. Die weiten Plantagen und die prächtigen Herrenhäuser der Roça erzählen von der goldenen Zeit des santomeischen Kaffees. Hier spürt man die kühle Gebirgsluft, die den Kaffeebohnen ihr einzigartiges Aroma verleiht, während die Gemeinschaft mit Stolz ihr Erbe hütet und Besucher einlädt, den Geist der Berge in jeder Tasse zu schmecken.",
       hu: "Monte Café fenségesen fekszik Mé-Zóchi felhőbe burkolózó hegyei között, a kávétermesztés történelmi központjaként, amely megőrizte egy letűnt korszak báját. A Roça tágas ültetvényei és pompás udvarházai a São Tomé-i kávé aranykoráról mesélnek. Itt érezhető a hűvös hegyi levegő, amely a kávébaboknak egyedülálló aromát kölcsönöz, miközben a közösség büszkén őrzi örökségét, és meghívja a látogatókat, hogy minden csészében érezzék a hegyek szellemét.",
@@ -1720,9 +1683,8 @@ image: "/poi-images/monte-cafe-cities-v2.webp"
       de: "Belém",
       hu: "Belém",
       ro: "Belém",
-      en: "Belém",
-image: "/poi-images/belem-cities-v2.webp"
-},
+      en: "Belém"},
+    image: "/poi-images/belem-cities-v2.webp",
     description: {
       de: "Belém ist ein friedlicher Ort in den grünen Weiten von Mé-Zóchi, in dem das Leben in einem harmonischen Einklang mit der Natur verläuft. Hier weichen die dichten Kakaowälder weiten Obstgärten, in denen Ananas und Maracuja unter der tropischen Sonne reifen. Die Dorfgemeinschaft ist klein und verschwiegen, bewahrt aber einen Schatz an Geschichten über die Geister des Waldes und die Kraft der Erde, während der ferne Blick auf die Gipfel des Obô-Nationalparks zur Kontemplation einlädt.",
       hu: "Belém egy békés település Mé-Zóchi zöld lankáin, ahol az élet harmóniában telik a természettel. Itt a sűrű kakaóerdők tágas gyümölcsösöknek adják át helyüket, ahol ananász és maracuja érik a trópusi nap alatt. A faluközösség kicsi és titokzatos, de kincsként őriz számos történetet az erdő szellemeiről és a föld erejéről, miközben a távoli kilátás az Obô Nemzeti Park csúcsaira elmélyülésre hív.",
@@ -1766,9 +1728,8 @@ image: "/poi-images/belem-cities-v2.webp"
       de: "Santo António",
       hu: "Santo António",
       ro: "Santo António",
-      en: "Santo António",
-image: "/poi-images/santo-antonio-cities-v2.webp"
-},
+      en: "Santo António"},
+    image: "/poi-images/santo-antonio-cities-v2.webp",
     description: {
       de: "Santo António, die charmante Hauptstadt der Insel Príncipe, ist eine Stadt, die sich sanft an die Ufer des Flusses Palhota schmiegt. Hier scheint die Zeit vor Jahrzehnten stehen geblieben zu sein, in einer Atmosphäre von kolonialer Eleganz und tropischer Lässigkeit. Die bunten Holzhäuser und die freundlichen Gesichter der Bewohner schaffen eine Welt, in der jeder Fremde schnell zum Teil der großen Familie wird und der ferne Ruf des Regenwaldes die Sinne ständig an die wilde Seele der Insel erinnert.",
       hu: "Santo António, Príncipe szigetének bájos fővárosa, a Palhota-folyó partjához simuló település. Itt az idő mintha évtizedekkel ezelőtt megállt volna, a gyarmati elegancia és a trópusi könnyedség légkörében. A színes faházak és a lakók barátságos arcai egy olyan világot teremtenek, ahol minden idegen gyorsan a nagy család részévé válik, az esőerdő távoli hívása pedig folyamatosan emlékeztet a sziget vad lelkére.",
@@ -1812,9 +1773,8 @@ image: "/poi-images/santo-antonio-cities-v2.webp"
       de: "Terreiro Velho",
       hu: "Terreiro Velho",
       ro: "Terreiro Velho",
-      en: "Terreiro Velho",
-image: "/poi-images/terreiro-velho-cities-v2.webp"
-},
+      en: "Terreiro Velho"},
+    image: "/poi-images/terreiro-velho-cities-v2.webp",
     description: {
       de: "Terreiro Velho ist der Ort, an dem der Schokoladen-Träume wahr werden, hoch oben auf den Hügeln von Príncipe mit Blick auf den weiten Ozean. Diese legendäre Plantage ist die Heimat eines der edelsten Kakaos der Welt, kultiviert unter dem schützenden Dach uralter Bäume. In der Stille des Ortes spürt man die Leidenschaft der Menschen, die jede Bohne wie einen kostbaren Edelstein behandeln, und der Duft von dunkler Schokolade, der durch die Gassen zieht, ist ein Versprechen von unvergleichlichem Genuss.",
       hu: "Terreiro Velho az a hely, ahol a csokoládéálmok valóra válnak, magasan Príncipe dombjai között, kilátással a végtelen óceánra. Ez a legendás ültetvény a világ egyik legnemesebb kakaójának otthona, amelyet ősi fák védelmező lombja alatt termesztenek. A település csendjében érezhető az emberek szenvedélye, akik minden egyes babot értékes drágakőként kezelnek, az utcákon terjengő étcsokoládé illata pedig páratlan élvezetet ígér.",
@@ -1858,9 +1818,8 @@ image: "/poi-images/terreiro-velho-cities-v2.webp"
       de: "Sundy",
       hu: "Sundy",
       ro: "Sundy",
-      en: "Sundy",
-image: "/poi-images/sundy-cities-v2.webp"
-},
+      en: "Sundy"},
+    image: "/poi-images/sundy-cities-v2.webp",
     description: {
       de: "Sundy ist ein Ort der Wissenschaft und der Sterne, eingebettet in die sanften Ebenen von Nord-Príncipe. Hier wurde 1919 Weltgeschichte geschrieben, als Sonnenstrahlen während einer Finsternis Einsteins Theorien bestätigten. Die Roça Sundy mit ihrem neoklassizistischen Herrenhaus atmet bis heute diesen Geist der Entdeckung, während die Palmenalleen und der nahegelegene Strand den Ort zu einer Bühne der zeitlosen Naturschönheit machen.",
       hu: "Sundy a tudomány és a csillagok helye, Észak-Príncipe lágy síkságai között. Itt írtak világtörténelmet 1919-ben, amikor egy napfogyatkozás során a napsugarak igazolták Einstein elméleteit. A Roça Sundy neoklasszicista udvarháza ma is ezt a felfedező szellemet árasztja, miközben a pálmafasorok és a közeli strand az időtlen természeti szépség színpadává teszik a települést.",
@@ -1904,9 +1863,8 @@ image: "/poi-images/sundy-cities-v2.webp"
       de: "Belo Monte",
       hu: "Belo Monte",
       ro: "Belo Monte",
-      en: "Belo Monte",
-image: "/poi-images/belo-monte-cities-v2.webp"
-},
+      en: "Belo Monte"},
+    image: "/poi-images/belo-monte-cities-v2.webp",
     description: {
       de: "Belo Monte thront auf einer Landzunge im Nordosten von Príncipe und bietet den wohl atemberaubendsten Blick der gesamten Inselgruppe. Hier trifft das satte Grün des Dschungels auf das tiefe Türkis der Banana Beach, während die historische Roça wie eine Festung über dem Paradies wacht. In der Stille des Ortes hört man nur das Rauschen des Windes in den Baumkronen und das ferne Branden der Wellen, ein Ort, der geschaffen wurde, um die Unendlichkeit des Ozeans zu bestaunen.",
       hu: "Belo Monte Príncipe északkeleti nyúlványán trónol, a szigetcsoport talán leglélegzetelállítóbb kilátását kínálva. Itt találkozik a dzsungel telt zöldje a Banana Beach mély türkizével, miközben a történelmi roça erődítményként vigyázza a paradicsomot. A hely csendjében csak a lombok közötti szél zúgását és a távoli hullámverést hallani; egy hely, amely azért született, hogy az óceán végtelenségében gyönyörködjünk.",
@@ -1950,9 +1908,8 @@ image: "/poi-images/belo-monte-cities-v2.webp"
       de: "Paciência",
       hu: "Paciência",
       ro: "Paciência",
-      en: "Paciência",
-image: "/poi-images/paciencia-cities-v2.webp"
-},
+      en: "Paciência"},
+    image: "/poi-images/paciencia-cities-v2.webp",
     description: {
       de: "Paciência liegt am Rande der Regenwälder von Príncipe, ein Ort, an dem der Name Programm ist und die Ruhe der Natur die Seele heilt. In diesem Weiler bestimmen die Zyklen des Waldes das Leben, während die Bewohner die reiche Erde nutzen, um Gewürze und Heilpflanzen zu sammeln. Hier scheint der Lärm der modernen Welt niemals angekommen zu sein, und das sanfte Licht, das durch das dichte Blätterdach fällt, schafft eine Atmosphäre der zeitlosen Geduld und Geborgenheit.",
       hu: "Paciência Príncipe esőerdőinek szélén fekszik, egy hely, ahol a név kötelez: a természet nyugalma gyógyítja a lelket. Ebben a faluban az erdő körforgása határozza meg az életet, miközben a lakók a gazdag földet használják fűszerek és gyógynövények gyűjtésére. Itt a modern világ zaja soha nem ért el, és a sűrű lombokon átszűrődő lágy fény az időtlen türelem és biztonság hangulatát árasztja.",
@@ -1996,9 +1953,8 @@ image: "/poi-images/paciencia-cities-v2.webp"
       de: "Ponta do Sol",
       hu: "Ponta do Sol",
       ro: "Ponta do Sol",
-      en: "Ponta do Sol",
-image: "/poi-images/ponta-do-sol-cities-v2.webp"
-},
+      en: "Ponta do Sol"},
+    image: "/poi-images/ponta-do-sol-cities-v2.webp",
     description: {
       de: "Ponta do Sol ist der nordwestlichste Punkt von Príncipe, wo die Sonne den Atlantik in ein goldenes Meer verwandelt, bevor sie hinter dem Horizont versinkt. In diesem einsamen Küstenort spürt man die Freiheit der See, während die salzige Brise die steilen Felsen umspielt. Hier erzählen die Leuchtturm-Wärter Geschichten von fernen Schiffen und unentdeckten Ländern, während die Natur mit einer Wildheit regiert, die diesen Ort zu einem Ende der Welt und gleichzeitig zu einem Neuanfang macht.",
       hu: "Ponta do Sol Príncipe legészaknyugatibb pontja, ahol a nap az Atlanti-óceánt aranyszínű tengerévé változtatja, mielőtt a horizont mögé süllyedne. Ebben a magányos parti faluban érezhető a tenger szabadsága, miközben a sós szellő a meredek sziklákat simogatja. Itt a világítótorony őrei távoli hajókról és felfedezetlen földekről mesélnek, miközben a természet olyan vadsággal uralkodik, amely ezt a helyet egyszerre teszi a világ végévé és egy új kezdet színhelyévé.",
@@ -2042,9 +1998,8 @@ image: "/poi-images/ponta-do-sol-cities-v2.webp"
       de: "Nova Estrela",
       hu: "Nova Estrela",
       ro: "Nova Estrela",
-      en: "Nova Estrela",
-image: "/poi-images/nova-estrela-cities-v2.webp"
-},
+      en: "Nova Estrela"},
+    image: "/poi-images/nova-estrela-cities-v2.webp",
     description: {
       de: "Nova Estrela liegt wie ein funkelndes Juwel auf den Klippen der Ostküste von Príncipe, ein Ort der neuen Hoffnung und der weiten Horizonte. In diesem modernen Fischerdorf mischen sich traditionelle Werte mit dem Streben nach Fortschritt, während das Meer unterhalb der Häuser sein ewiges Lied singt. Hier findet man die klarsten Nächte der Insel, in denen die Sterne so nah scheinen, als wolle der Himmel den Ort mit seinem Licht segnen und den Bewohnern den Weg in eine strahlende Zukunft weisen.",
       hu: "Nova Estrela úgy fekszik Príncipe keleti partjának szikláin, mint egy csillogó ékszer; az új remény és a tágas horizontok helye. Ebben a modern halászfaluban a hagyományos értékek keverednek a haladás vágyával, miközben a házak alatt a tenger énekli örök dalát. Itt találhatók a sziget legtisztább éjszakái, ahol a csillagok olyan közel látszanak, mintha az ég fényével akarná megáldani a települést, utat mutatva a lakóknak a ragyogó jövő felé.",
@@ -2088,9 +2043,8 @@ image: "/poi-images/nova-estrela-cities-v2.webp"
       de: "Picão",
       hu: "Picão",
       ro: "Picão",
-      en: "Picão",
-image: "/poi-images/picao-cities-v2.webp"
-},
+      en: "Picão"},
+    image: "/poi-images/picao-cities-v2.webp",
     description: {
       de: "Picão ist ein Ort der Farben und des dichten Grüns, versteckt im bergigen Hinterland von Príncipe. Hier scheinen die Häuser mit dem Regenwald zu verschmelzen, während die Gärten überquellen vor exotischen Blumen und Früchten. In der Kühle des Bergnebels findet man eine Gemeinschaft, die die Geheimnisse der Tropen hütet und in der das Rauschen der Blätter und der Gesang der Papageien die einzigen Nachrichten sind, die zählen, ein Ort der absoluten Naturverbundenheit.",
       hu: "Picão a színek és a dús zöld helye, Príncipe hegyvidéki hátországában rejtőzve. Itt a házak szinte eggyé válnak az esőerdővel, a kertek pedig túlcsordulnak az egzotikus virágoktól és gyümölcsöktől. A hegyi köd hűvösében egy olyan közösséget találunk, amely őrzi a trópusok titkait, és ahol a levelek zizegése és a papagájok éneke az egyetlen fontos hír; az abszolút természetközeliség helye ez.",
@@ -2134,9 +2088,8 @@ image: "/poi-images/picao-cities-v2.webp"
       de: "São Joaquim",
       hu: "São Joaquim",
       ro: "São Joaquim",
-      en: "São Joaquim",
-image: "/poi-images/sao-joaquim-cities-v2.webp"
-},
+      en: "São Joaquim"},
+    image: "/poi-images/sao-joaquim-cities-v2.webp",
     description: {
       de: "São Joaquim ist ein geschichtsträchtiger Weiler im Herzen von Príncipe, in dem die Ruinen einer alten Roça von der Kraft der Zeit erzählen. Hier erobert sich der Wald langsam den Raum zurück, während die Bewohner die fruchtbare Erde für den Anbau von Kakao und Pfeffer nutzen. In der Stille des Ortes spürt man die Melancholie der Vergangenheit und gleichzeitig die vitale Kraft des Neubeginns, während der Duft von feuchtem Holz und Jasmin die Luft erfüllt.",
       hu: "São Joaquim történelmi hangulatú tanya Príncipe szívében, ahol egy régi roça romjai az idő erejéről mesélnek. Itt az erdő lassan visszahódítja a teret, miközben a lakók a termékeny földet kakaó és bors termesztésére használják. A település csendjében érezhető a múlt melankóliája és egyben az újrakezdés életereje, miközben a nedves fa és a jázmin illata tölti meg a levegőt.",
@@ -2180,9 +2133,8 @@ image: "/poi-images/sao-joaquim-cities-v2.webp"
       de: "Esperança",
       hu: "Esperança",
       ro: "Esperança",
-      en: "Esperança",
-image: "/poi-images/esperanca-cities-v2.webp"
-},
+      en: "Esperança"},
+    image: "/poi-images/esperanca-cities-v2.webp",
     description: {
       de: "Esperança trägt den Namen der Hoffnung und ist ein leuchtendes Beispiel für die Lebensfreude im Landesinneren von Príncipe. In diesem Weiler blühen die Gärten in einer Farbenpracht, die jeden Besucher verzaubert, während die Dorfgemeinschaft mit einer Herzlichkeit zusammenhält, die beispielhaft ist. Hier findet man die Essenz des santomeischen Optimismus, wo die Arbeit auf den Feldern mit Gesang begleitet wird und die Natur den Menschen alles gibt, was sie für ein glückliches Leben brauchen.",
       hu: "Esperança a remény nevét viseli, és Príncipe belső területeinek életörömének ragyogó példája. Ebben a tanyavilágban a kertek olyan szinpompában díszlenek, amely minden látogatót elvarázsol, miközben a faluközösség példás szívélyességgel tart össze. Itt megtaláljuk a São Tomé-i optimizmus esszenciáját, ahol a mezei munkát ének kíséri, és a természet mindent megad az embereknek, amire a boldog élethez szükségük van.",
@@ -2226,9 +2178,8 @@ image: "/poi-images/esperanca-cities-v2.webp"
       de: "Abade",
       hu: "Abade",
       ro: "Abade",
-      en: "Abade",
-image: "/poi-images/abade-cities-v2.webp"
-},
+      en: "Abade"},
+    image: "/poi-images/abade-cities-v2.webp",
     description: {
       de: "Abade ist ein Fischerort an der Nordostküste von Príncipe, an dem der Atlantik mit einer Sanftheit an Land rollt, die selten ist. In diesem Dorf scheinen die Netze und Boote Teil der natürlichen Landschaft zu sein, während die Bewohner die Ruhe der See als Spiegel ihrer eigenen Seele sehen. Hier findet man die tiefste Verbindung zum Ozean, wo die Geschichten der Fischer die Nächte am Feuer füllen und der Geschmack von frischem Fisch direkt vom Grill die Sinne auf eine Reise ins Herz der Insel mitnimmt.",
       hu: "Abade egy halásztelepülés Príncipe északkeleti partján, ahol az Atlanti-óceán ritka szelídséggel gördül a partra. Ebben a faluban a hálók és a csónakok mintha a természetes táj részévé váltak volna, miközben a lakók a tenger nyugalmát saját lelkük tükrének tekintik. Itt a legmélyebb az óceánnal való kapcsolat, ahol a halászok történetei töltik meg a tüzek melletti éjszakákat, a friss sült hal íze pedig utazásra hívja az érzékeket a sziget szívébe.",
@@ -2272,9 +2223,8 @@ image: "/poi-images/abade-cities-v2.webp"
       de: "Maria Correia",
       hu: "Maria Correia",
       ro: "Maria Correia",
-      en: "Maria Correia",
-image: "/poi-images/maria-correia-cities-v2.webp"
-},
+      en: "Maria Correia"},
+    image: "/poi-images/maria-correia-cities-v2.webp",
     description: {
       de: "Maria Correia liegt an der rauen Westküste von Príncipe, wo die Kraft des Ozeans die Klippen über Jahrtausende geformt hat. In diesem einsamen Ort spürt man die unbändige Energie der Natur, während die Meeresgischt die hohen Farne benetzt. Hier erzählen die Legenden von starken Frauen, die einst die Geschicke der Küste leiteten, während die heutige Gemeinde mit Mut und Fleiß dem Land und dem Meer ihre Existenz abtrotzt, ein Ort der Stärke und der wilden Schönheit.",
       hu: "Maria Correia Príncipe vad nyugati partján fekszik, ahol az óceán ereje évezredek alatt formálta a sziklákat. Ebben a magányos faluban érezhető a természet zabolátlan energiája, miközben a tenger habjai benedvesítik a magas páfrányokat. Itt a legendák erős asszonyokról mesélnek, akik egykor a partvidék sorsát irányították, miközben a mai közösség bátorsággal és szorgalommal küzd meg a földdel és a tengerrel a megélhetésért; az erő és a vad szépség helye ez.",
@@ -2318,9 +2268,8 @@ image: "/poi-images/maria-correia-cities-v2.webp"
       de: "Pantufo (Vorort)",
       hu: "Pantufo (előváros)",
       ro: "Pantufo (suburbie)",
-      en: "Pantufo (Suburb)",
-image: "/poi-images/pantufo-sao-tome-cities-v2.webp"
-},
+      en: "Pantufo (Suburb)"},
+    image: "/poi-images/pantufo-sao-tome-cities-v2.webp",
     description: {
       de: "Dieser Teil von Pantufo ist die moderne Erweiterung des historischen Fischerdorfes, in dem sich das urbane Wachstum der Hauptstadt bemerkbar macht. Hier entstehen neue Wohnbauten neben kleinen Gärten, während die Nähe zum Meer immer noch den Lebensrhythmus bestimmt. Es ist ein Ort des Übergangs, an dem die Tradition der Seefahrt auf die Bedürfnisse einer wachsenden Stadtbevölkerung trifft und die Abende am Strand einen friedlichen Ausgleich zum geschäftigen Alltag bieten.",
       hu: "Pantufo ezen része a történelmi halászfalu modern kiterjesztése, ahol a főváros városi növekedése már érezhető. Itt új lakóépületek emelkednek kis kertek mellett, miközben a tenger közelsége még mindig meghatározza az élet ritmusát. Az átmenet helye ez, ahol a hajózási hagyomány találkozik egy növekvő városi lakosság igényeivel, és a tengerparti esték békés ellensúlyt nyújtanak a nyüzsgő mindennapokhoz.",
@@ -2365,9 +2314,8 @@ image: "/poi-images/pantufo-sao-tome-cities-v2.webp"
       de: "Henrique (Lembá)",
       hu: "Henrique (Lembá)",
       ro: "Henrique (Lembá)",
-      en: "Henrique (Lembá)",
-image: "/poi-images/henrique-lemba-cities-v2.webp"
-},
+      en: "Henrique (Lembá)"},
+    image: "/poi-images/henrique-lemba-cities-v2.webp",
     description: {
       de: "Diese Siedlung im Hochland von Lembá ist geprägt von der Wildheit der Berge und der harten Arbeit der Bauern, die dem Hang fruchtbare Felder abringen. Hier wachsen seltene Kräuter und Wurzeln, die für die traditionelle Medizin von unschätzbarem Wert sind. In der Abgeschiedenheit des Ortes wird die Gemeinschaft durch starke soziale Bande zusammengehalten, während die kühle Luft und das reine Wasser der Quellen den Bewohnern Kraft und Gesundheit schenken.",
       hu: "Ez a Lembá-felföldön található település a hegyek vadságáról és azon parasztok kemény munkájáról szól, akik termékeny mezőket hódítanak el a lejtőktől. Itt ritka gyógynövények és gyökerek nőnek, amelyek felbecsülhetetlen értékűek a hagyományos orvoslás számára. A település elszigeteltségében a közösséget erős szociális kötelékek tartják össze, miközben a hűvös levegő és a források tiszta vize erőt és egészséget ad a lakóknak.",
@@ -2411,9 +2359,8 @@ image: "/poi-images/henrique-lemba-cities-v2.webp"
       de: "Blublu (Oberstadt)",
       hu: "Blublu (felsőváros)",
       ro: "Blublu (orașul de sus)",
-      en: "Blublu (Upper Town)",
-image: "/poi-images/blublu-lobata-cities-v2.webp"
-},
+      en: "Blublu (Upper Town)"},
+    image: "/poi-images/blublu-lobata-cities-v2.webp",
     description: {
       de: "Dieser höher gelegene Teil von Blublu bietet einen weiten Blick über die fruchtbaren Ebenen von Lobata bis hin zum glitzernden Meer. Hier mischt sich das urbane Leben mit der Ruhe der Vorstadt, während kleine Märkte den Alltag mit Farben und Gerüchen bereichern. In den schattigen Gärten gedeihen exotische Blumen und die Bewohner genießen die sanfte Brise, die hier oben die Hitze des tropischen Tages mildert, ein Ort der Beständigkeit und des lokalen Flairs.",
       hu: "Blublu ezen magasabban fekvő része tágas kilátást nyújt Lobata termékeny síkságaitól egészen a csillogó tengerig. Itt a városi élet keveredik az elővárosi nyugalommal, miközben a kis piacok színekkel és illatokkal gazdagítják a mindennapokat. Az árnyékos kertekben egzotikus virágok díszlenek, a lakók pedig élvezik a lágy szellőt, amely itt fent enyhíti a trópusi nap hevét; az állandóság és a helyi hangulat helye ez.",
@@ -2458,9 +2405,8 @@ image: "/poi-images/blublu-lobata-cities-v2.webp"
       de: "Bombom (Mé-Zóchi)",
       hu: "Bombom (Mé-Zóchi)",
       ro: "Bombom (Mé-Zóchi)",
-      en: "Bombom (Mé-Zóchi)",
-image: "/poi-images/bombom-me-zochi-cities-v2.webp"
-},
+      en: "Bombom (Mé-Zóchi)"},
+    image: "/poi-images/bombom-me-zochi-cities-v2.webp",
     description: {
       de: "Bombom im Bezirk Mé-Zóchi ist ein Ort der fruchtbaren Hügel und der herzlichen Begegnungen. Hier bestimmt der Rhythmus der Kakaocrnte das Jahr, während die Gassen des Dorfes von den Liedern der Kinder erfüllt sind. In der Kühle des Mittellandes finden die Bewohner eine Oase der Zufriedenheit, in der die Natur ihre Gaben großzügig verteilt und die Geschichten der Vorfahren wie ein kostbarer Schatz von Generation zu Generation weitergegeben werden.",
       hu: "Mé-Zóchi körzet Bombom települése a termékeny dombok és a szívélyes találkozások helye. Itt a kakaóaratás ritmusa határozza meg az évet, miközben a falu utcáit gyermekdalok töltik meg. A középső vidék hűvösében a lakók az elégedettség oázisára lelnek, ahol a természet bőkezűen osztja ajándékait, az ősök történetei pedig értékes kincsként öröklődnek nemzedékről nemzedékre.",
@@ -2505,9 +2451,8 @@ image: "/poi-images/bombom-me-zochi-cities-v2.webp"
       de: "Belo Monte (Hinterland)",
       hu: "Belo Monte (hátország)",
       ro: "Belo Monte (interior)",
-      en: "Belo Monte (Hinterland)",
-image: "/poi-images/belo-monte-principe-cities-v2.webp"
-},
+      en: "Belo Monte (Hinterland)"},
+    image: "/poi-images/belo-monte-principe-cities-v2.webp",
     description: {
       de: "Dieser Teil von Belo Monte führt tiefer in das ungezähmte Innere von Príncipe, wo die Urwaldriesen den Himmel verdunkeln. Hier ist die Natur so gewaltig, dass die Spuren menschlicher Arbeit fast verschwinden, während die Bewohner die Schätze des Regenwaldes mit tiefer Demut sammeln. In der feuchten Kühle des Dschungels findet man eine Welt der Geheimnisse, in der jeder Schritt ein neues Wunder offenbart und die Zeit in den Zyklen von Wachstum und Vergehen gemessen wird.",
       hu: "Belo Monte ezen része mélyebbre vezet Príncipe zabolátlan belsejébe, ahol az őserdei óriásfák elsötétítik az eget. Itt a természet olyan hatalmas, hogy az emberi munka nyomai szinte eltűnnek, miközben a lakók mély alázattal gyűjtik az esőerdő kincseit. A dzsungel nedves hűvösében a titkok világa tárul fel, ahol minden lépés új csodát mutat, az időt pedig a növekedés és az elmúlás körforgása méri.",
@@ -2551,9 +2496,8 @@ image: "/poi-images/belo-monte-principe-cities-v2.webp"
       de: "Sundy (Küste)",
       hu: "Sundy (tengerpart)",
       ro: "Sundy (coastă)",
-      en: "Sundy (Coast)",
-image: "/poi-images/sandy-principe-cities-v2.webp"
-},
+      en: "Sundy (Coast)"},
+    image: "/poi-images/sandy-principe-cities-v2.webp",
     description: {
       de: "Der Küstenteil von Sundy ist ein Ort der weiten Strände und des tiefblauen Meeres, an dem der Atlantik seine ganze Schönheit offenbart. Hier treffen die Palmen auf den Sand und schaffen eine Kulisse, die wie aus einem Traum wirkt. In diesem Küstenort genießen die Menschen die Freiheit des Wassers, während die Fischer ihre Kanus durch die sanfte Brandung steuern und die Schätze des Meeres in einer Atmosphäre des vollkommenen Friedens bergen, weit weg von jeder Eile.",
       hu: "Sundy tengerparti része a tágas strandok és a mélykék tenger helye, ahol az Atlanti-óceán teljes szépségét megmutatja. Itt a pálmák találkoznak a homokkal, olyan díszletet alkotva, amely mintha egy álomból lépett volna elő. Ebben a parti faluban az emberek élvezik a víz szabadságát, miközben a halászok lágy hullámzásban navigálják kenujukat, és a tenger kincseit emelik ki a tökéletes béke légkörében, távol minden sietségtől.",
@@ -2598,9 +2542,8 @@ image: "/poi-images/sandy-principe-cities-v2.webp"
       de: "Paciência (Oberdorf)",
       hu: "Paciência (felsőfalu)",
       ro: "Paciência (satul de sus)",
-      en: "Paciência (Upper Village)",
-image: "/poi-images/paciencia-principe-interior-cities-v2.webp"
-},
+      en: "Paciência (Upper Village)"},
+    image: "/poi-images/paciencia-principe-interior-cities-v2.webp",
     description: {
       de: "Das Oberdorf von Paciência liegt am Fuße der steilen Berge von Príncipe, ein Ort der kühlen Morgen und der tiefen Stille. Hier ist die Verbindung zum Wald so eng, dass die Grenzen zwischen Garten und Dschungel verschwimmen. In dieser Gemeinschaft wird das Wissen über die Waldgeister und die heilenden Kräfte der Natur wie ein heiliges Erbe bewahrt, während die Bewohner die reiche Erde mit einer Geduld bestellen, die dem Namen ihres Dorfes eine tiefe Bedeutung gibt.",
       hu: "Paciência felső faluja Príncipe meredek hegyeinek lábánál fekszik, a hűvös reggelek és a mély csend helye. Itt az erdővel való kapcsolat olyan szoros, hogy a kert és a dzsungel közötti határok elmosódnak. Ebben a közösségben az erdő szellemeiről és a természet gyógyító erejéről szóló tudást szent örökségként őrzik, miközben a lakók olyan türelemmel művelik a gazdag földet, amely mély értelmet ad falujuk nevének.",
@@ -2645,9 +2588,8 @@ image: "/poi-images/paciencia-principe-interior-cities-v2.webp"
       de: "Ponta do Sol (Norden)",
       hu: "Ponta do Sol (észak)",
       ro: "Ponta do Sol (nord)",
-      en: "Ponta do Sol (North)",
-image: "/poi-images/ponta-do-sol-principe-north-cities-v2.webp"
-},
+      en: "Ponta do Sol (North)"},
+    image: "/poi-images/ponta-do-sol-principe-north-cities-v2.webp",
     description: {
       de: "Der nördliche Teil von Ponta do Sol ist ein Ort der weiten Ausblicke und der ungezähmten Seeluft, wo der Horizont grenzenlos scheint. Hier trotzen die Häuser auf dem Plateau dem ständigen Wind, während die Bewohner die Gaben der Natur mit einer rauen Herzlichkeit teilen. In dieser Küstenregion spürt man die Urgewalt des Atlantiks, der die Klippen formt und den Menschen eine Standhaftigkeit lehrt, die so fest ist wie der Fels, auf dem ihr Dorf erbaut wurde.",
       hu: "Ponta do Sol északi része a tágas kilátások és a zabolátlan tengeri levegő helye, ahol a horizont határtalannak tűnik. Itt a fennsíkon álló házak dacolnak az állandó széllel, miközben a lakók nyers szívélyességgel osztják meg a természet ajándékait. Ebben a parti régióban érezhető az Atlanti-óceán őserője, amely formálja a sziklákat, és olyan állhatatosságra tanítja az embereket, amely olyan szilárd, mint a szikla, amelyre falujuk épült.",
@@ -2691,9 +2633,8 @@ image: "/poi-images/ponta-do-sol-principe-north-cities-v2.webp"
       de: "Nova Estrela (Ost)",
       hu: "Nova Estrela (kelet)",
       ro: "Nova Estrela (est)",
-      en: "Nova Estrela (East)",
-image: "/poi-images/nova-estrela-principe-east-cities-v2.webp"
-},
+      en: "Nova Estrela (East)"},
+    image: "/poi-images/nova-estrela-principe-east-cities-v2.webp",
     description: {
       de: "Nova Estrela im Osten von Príncipe ist ein Ort des Lichts und der maritimen Vitalität, an dem der Tag mit dem Glitzern der Wellen beginnt. In diesem lebendigen Weiler sind die Bewohner eng mit dem Meer verbunden und feiern den Fang des Tages mit gemeinsamen Festen am Ufer. Die salzige Luft und der ferne Blick auf die aufgehende Sonne schaffen eine Atmosphäre der ständigen Erneuerung, in der die Gemeinschaft mit Fleiß und Freude die Zukunft gestaltet, inspiriert durch die unendliche Weite des Atlantiks.",
       hu: "Nova Estrela Príncipe keleti részén a fény és a tengeri életerő helye, ahol a nap a hullámok csillogásával kezdődik. Ebben az élénk tanyavilágban a lakók szorosan kötődnek a tengerhez, a napi fogást pedig közös parti ünnepekkel teszik emlékezetessé. A sós levegő és a felkelő nap távoli látványa az állandó megújulás hangulatát árasztja, ahol a közösség szorgalommal és örömmel építi a jövőt, az Atlanti-óceán végtelenségétől ihletve.",
@@ -2738,9 +2679,8 @@ image: "/poi-images/nova-estrela-principe-east-cities-v2.webp"
       de: "Picão (Hügelland)",
       hu: "Picão (dombvidék)",
       ro: "Picão (dealuri)",
-      en: "Picão (Hills)",
-image: "/poi-images/picao-principe-hills-cities-v2.webp"
-},
+      en: "Picão (Hills)"},
+    image: "/poi-images/picao-principe-hills-cities-v2.webp",
     description: {
       de: "Das Hügelland von Picão ist eine Oase des Grüns, in der die Wolken oft sanft über die Wipfel der Urwaldriesen streichen. Hier, in der Stille des Inselinneren, gedeihen exotische Gewürze unter dem schützenden Dach des Waldes. Die Häuser der Bewohner schmiegen sich an die steilen Hänge, während das sanfte Licht, das durch das dichte Laub fällt, eine Welt der Ruhe und Geborgenheit schafft, weit weg von der Hitze der Küstenebenen, ein Ort für Träumer und Entdecker.",
       hu: "Picão dombvidéke a zöld oázisa, ahol a felhők gyakran lágyan simogatják az őserdei óriások lombkoronáját. Itt, a sziget belsejének csendjében, egzotikus fűszerek díszlenek az erdő védelmező árnyékában. A lakók házai a meredek lejtőkhöz simulnak, miközben a sűrű lombozaton átszűrődő lágy fény a nyugalom és a biztonság világát teremti meg, távol a parti síkságok hőségétől; az álmodozók és felfedezők helye ez.",
@@ -2784,9 +2724,8 @@ image: "/poi-images/picao-principe-hills-cities-v2.webp"
       de: "São Joaquim (Waldrand)",
       hu: "São Joaquim (erdőszél)",
       ro: "São Joaquim (marginea pădurii)",
-      en: "São Joaquim (Forest Edge)",
-image: "/poi-images/sao-joaquim-principe-forest-cities-v2.webp"
-},
+      en: "São Joaquim (Forest Edge)"},
+    image: "/poi-images/sao-joaquim-principe-forest-cities-v2.webp",
     description: {
       de: "Der Waldrand von São Joaquim ist ein Ort des Übergangs, an dem die Zivilisation dem dichten Obô-Dschungel die Hand reicht. Hier findet man die Essenz des ländlichen Príncipe, wo die Bewohner in einem harmonischen Einklang mit den Jahreszeiten des Regenwaldes leben. In dieser Gemeinschaft wird das Wissen über die Gaben des Waldes wie ein kostbarer Schatz gehütet, während das ferne Rauschen der Wasserfälle und der Gesang der Tropenvögel die Sinne ständig an die wilde Schönheit der Insel erinnern.",
       hu: "São Joaquim erdőszéli része az átmenet helye, ahol a civilizáció kezet nyújt a sűrű Obô-dzsungelnek. Itt megtaláljuk a vidéki Príncipe esszenciáját, ahol a lakók összhangban élnek az esőerdő évszakaival. Ebben a közösségben az erdő ajándékairól szóló tudást értékes kincsként őrzik, miközben a távoli vízesések zúgása és a trópusi madarak éneke folyamatosan emlékeztet a sziget vad szépségére.",
@@ -2830,9 +2769,8 @@ image: "/poi-images/sao-joaquim-principe-forest-cities-v2.webp"
       de: "Esperança (Tal)",
       hu: "Esperança (völgy)",
       ro: "Esperança (vale)",
-      en: "Esperança (Valley)",
-image: "/poi-images/esperanca-principe-valley-cities-v2.webp"
-},
+      en: "Esperança (Valley)"},
+    image: "/poi-images/esperanca-principe-valley-cities-v2.webp",
     description: {
       de: "Das Tal von Esperança ist eine Oase der Ruhe und der Fruchtbarkeit, in der das Leben in einem gemächlichen Takt verläuft. Hier finden die Bewohner Schutz vor den Winden der Küste, während die üppigen Gärten alles bieten, was man für ein einfaches, glückliches Leben braucht. In dieser Gemeinschaft wird die Nachbarschaftshilfe großgeschrieben und die Geschichten der Alten werden am Abend wie ein kostbares Erbe geteilt, während das sanfte Licht der untergehenden Sonne das Tal in ein goldenes Meer verwandelt.",
       hu: "Esperança völgye a nyugalom és a termékenység oázisa, ahol az élet ráérős ütemben zajlik. Itt a lakók védelmet találnak a parti szelek elől, miközben a dús kertek mindent megadnak, ami egy egyszerű, boldog élethez kell. Ebben a közösségben a szomszédi segítség rendkívül fontos, az idősek történeteit pedig értékes örökségként osztják meg esténként, miközben a lemenő nap lágy fénye aranytengerré változtatja a völgyet.",
@@ -2877,9 +2815,8 @@ image: "/poi-images/esperanca-principe-valley-cities-v2.webp"
       de: "Abade (Nord)",
       hu: "Abade (észak)",
       ro: "Abade (nord)",
-      en: "Abade (North)",
-image: "/poi-images/abade-principe-north-cities-v2.webp"
-},
+      en: "Abade (North)"},
+    image: "/poi-images/abade-principe-north-cities-v2.webp",
     description: {
       de: "Der nördliche Teil von Abade ist ein Ort der weiten Horizonte und der maritimen Freiheit, an dem der Blick grenzenlos über den Atlantik schweift. In diesem Küstenweiler sind die Bewohner stolz auf ihre Seefahrertradition und feiern den Reichtum des Meeres mit täglicher Dankbarkeit. Hier findet man die raue Schönheit der Nordküste, wo die Wellen die Klippen formen und den Menschen eine Ausdauer lehren, die so tief ist wie der Ozean selbst, ein Ort für jene, die die Weite und das Abenteuer suchen.",
       hu: "Abade északi része a tágas horizontok és a tengeri szabadság helye, ahol a tekintet határtalanul kalandozhat az Atlanti-óceán felett. Ebben a parti tanyavilágban a lakók büszkék hajózási hagyományaikra, és napi hálával ünneplik a tenger gazdagságát. Itt megtaláljuk az északi part zord szépségét, ahol a hullámok formálják a sziklákat, és olyan kitartásra tanítják az embereket, amely mély, mint maga az óceán; a távlatokat és kalandot keresők helye ez.",
@@ -2923,9 +2860,8 @@ image: "/poi-images/abade-principe-north-cities-v2.webp"
       de: "Maria Correia (West)",
       hu: "Maria Correia (nyugat)",
       ro: "Maria Correia (vest)",
-      en: "Maria Correia (West)",
-image: "/poi-images/maria-correia-principe-west-cities-v2.webp"
-},
+      en: "Maria Correia (West)"},
+    image: "/poi-images/maria-correia-principe-west-cities-v2.webp",
     description: {
       de: "Maria Correia im Westen von Príncipe ist ein Ort der Wildheit und der ungezähmten Seeluft, an dem der Atlantik seine volle Urkraft offenbart. In diesem einsamen Küstenort trotzen die Bewohner dem ständigen Salzgehalt der Luft und der Kraft der Brandung mit einem Mut, der bewundernswert ist. Hier findet man die unberührte Schönheit der Westküste, wo die Farne und Bäume bis an den Rand der Klippen reichen und die Natur mit einer Entschlossenheit regiert, die diesen Ort zu einem wahren Ende der Welt macht.",
       hu: "Príncipe nyugati részén Maria Correia a vadság és a zabolátlan tengeri levegő helye, ahol az Atlanti-óceán teljes őserővel mutatkozik meg. Ebben a magányos parti faluban a lakók csodálatraméltó bátorsággal dacolnak a levegő állandó sótartalmával és a hullámverés erejével. Itt megtaláljuk a nyugati part érintetlen szépségét, ahol a páfrányok és fák a sziklák pereméig érnek, a természet pedig olyan elszántsággal uralkodik, amely ezt a helyet a világ valódi végévé teszi.",
@@ -2970,9 +2906,8 @@ image: "/poi-images/maria-correia-principe-west-cities-v2.webp"
       de: "Pantufo (Küste)",
       hu: "Pantufo (partvidék)",
       ro: "Pantufo (coastă)",
-      en: "Pantufo (Coast)",
-image: "/poi-images/pantufo-agua-grande-coast-cities-v2.webp"
-},
+      en: "Pantufo (Coast)"},
+    image: "/poi-images/pantufo-agua-grande-coast-cities-v2.webp",
     description: {
       de: "Die Küste von Pantufo ist das Herzstück der maritimen Identität von Água Grande, wo der Fang des Tages direkt am Ufer gefeiert wird. Hier vermischt sich das Lachen der Fischer mit dem Rauschen der Wellen, während die Sonne den Sand in ein goldenes Licht taucht. In diesem lebendigen Ort spürt man die tiefe Verbundenheit der Menschen mit dem Atlantik, der ihnen seit Generationen Nahrung und Geschichten schenkt, ein Ort der Lebensfreude und des ungezähmten maritimen Geistes.",
       hu: "Pantufo partvidéke Água Grande tengeri identitásának szíve, ahol a napi fogást közvetlenül a parton ünneplik. Itt a halászok nevetése keveredik a hullámok zúgásával, miközben a nap arany fénybe vonja a homokot. Ebben az élettel teli faluban érezhető az emberek mély kötődése az Atlanti-óceánhoz, amely generációk óta táplálékot és történeteket ad nekik; az életöröm és a zabolátlan tengeri szellem helye ez.",
@@ -3017,9 +2952,8 @@ image: "/poi-images/pantufo-agua-grande-coast-cities-v2.webp"
       de: "Henrique (Hochebene)",
       hu: "Henrique (fennsík)",
       ro: "Henrique (platou)",
-      en: "Henrique (Plateau)",
-image: "/poi-images/henrique-lemba-plateau-cities-v2.webp"
-},
+      en: "Henrique (Plateau)"},
+    image: "/poi-images/henrique-lemba-plateau-cities-v2.webp",
     description: {
       de: "Die Hochebene von Henrique bietet einen erhabenen Blick über den Westen von São Tomé, ein Ort der kühlen Luft und der weiten Ausblicke. Hier oben trotzen die Bauern den Elementen, um seltene Gewürze und Heilkräuter anzubauen, die unter dem klaren Himmel besonders kräftig gedeihen. In der Stille des Plateaus findet man eine Welt der Besinnung, in der die Zeit in den Zyklen von Saat und Ernte gemessen wird und der Wind die Geschichten der Berge über die Felder trägt, ein Ort der Ruhe und der hohen Horizonte.",
       hu: "Henrique fennsíkja fenséges kilátást nyújt São Tomé nyugati részére, a hűvös levegő és a tágas terek helye. Itt fent a parasztok dacolnak az elemekkel, hogy ritka fűszereket és gyógynövényeket termesszenek, amelyek a tiszta ég alatt különösen erőteljesen fejlődnek. A fennsík csendjében az elmélyülés világa tárul fel, ahol az időt a vetés és az aratás körforgása méri, a szél pedig a hegyek történeteit hordja a mezők felett; a nyugalom és a magas horizontok helye ez.",
@@ -3064,9 +2998,8 @@ image: "/poi-images/henrique-lemba-plateau-cities-v2.webp"
       de: "Blublu (Am Fluss)",
       hu: "Blublu (folyópart)",
       ro: "Blublu (la râu)",
-      en: "Blublu (By the River)",
-image: "/poi-images/blublu-lobata-river-cities-v2.webp"
-},
+      en: "Blublu (By the River)"},
+    image: "/poi-images/blublu-lobata-river-cities-v2.webp",
     description: {
       de: "Am Flussufer von Blublu pulsiert das Leben im Takt des fließenden Wassers, ein Ort der Vitalität und der natürlichen Gemeinschaft. Hier vermischt sich das Rauschen des Lobata-Flusses mit dem Lachen der Bewohner, die das Wasser für ihre Gärten und ihre tägliche Arbeit nutzen. In diesem fruchtbaren Weiler findet man die grüne Seele des Nordens, wo die Erde unter der tropischen Sonne ihre reichsten Gaben schenkt und die Gemeinschaft in einem harmonischen Einklang mit dem Wasser lebt, das ihr Dorf seit Generationen nährt.",
       hu: "Blublu folyópartján az élet a folyó vízének ütemére lüktet, a vitalitás és a természetes közösség helye. Itt a Lobata-folyó zúgása keveredik a lakók nevetésével, akik a vizet kertjeikhez és napi munkájukhoz használják. Ebben a termékeny faluban megtaláljuk észak zöld lelkét, ahol a föld a trópusi nap alatt legpompásabb ajándékait adja, a közösség pedig összhangban él a vízzel, amely generációk óta élteti falujukat.",
@@ -3110,9 +3043,8 @@ image: "/poi-images/blublu-lobata-river-cities-v2.webp"
       de: "Bombom (Plateau)",
       hu: "Bombom (fennsík)",
       ro: "Bombom (platou)",
-      en: "Bombom (Plateau)",
-image: "/poi-images/bombom-me-zochi-plateau-cities-v2.webp"
-},
+      en: "Bombom (Plateau)"},
+    image: "/poi-images/bombom-me-zochi-plateau-cities-v2.webp",
     description: {
       de: "Das Plateau von Bombom in Mé-Zóchi ist ein Ort der weiten Blicke und der fruchtbaren Hügel, an dem das Leben in einem stetigen Takt verläuft. Hier oben weichen die dichten Kakaowälder weitläufigen Plantagen, in denen der Duft von blühendem Kaffee die Sinne berauscht. In dieser Gemeinschaft wird die Tradition der Landwirtschaft mit Stolz gepflegt, während die frische Brise und das klare Licht der Hochebene den Ort zu einer Oase der Ruhe und der hohen Horizonte machen, weit weg von der geschäftigen Hauptstadt.",
       hu: "Mé-Zóchi Bombom-fennsíkja a tágas kilátások és a termékeny dombok helye, ahol az élet egyenletes ütemben zajlik. Itt fent a sűrű kakaóerdők tágas ültetvényeknek adják át helyüket, ahol a virágzó kávé illata mámorítja az érzékeket. Ebben a közösségben büszkén ápolják a mezőgazdaság hagyományait, miközben a fennsík friss szellője és tiszta fénye a nyugalom és a magas horizontok oázisává teszi a települést, távol a nyüzsgő fővárostól.",
@@ -3157,9 +3089,8 @@ image: "/poi-images/bombom-me-zochi-plateau-cities-v2.webp"
       de: "Belo Monte (Küste)",
       hu: "Belo Monte (tengerpart)",
       ro: "Belo Monte (coastă)",
-      en: "Belo Monte (Coast)",
-image: "/poi-images/belo-monte-principe-coast-cities-v2.webp"
-},
+      en: "Belo Monte (Coast)"},
+    image: "/poi-images/belo-monte-principe-coast-cities-v2.webp",
     description: {
       de: "Der Küstenteil von Belo Monte ist ein Ort der dramatischen Klippen und des azurblauen Meeres, an dem der Atlantik seine ganze Urgewalt offenbart. Hier treffen die steilen Felsen auf die tosenden Wellen und schaffen eine Kulisse von unvergleichlicher Wildheit. In diesem Küstenweiler spürt man die Freiheit der See, während die Bewohner die reichen Gaben des Ozeans mit Respekt und Mut bergen und der ferne Ruf der Meeresvögel die Sinne ständig an die ungezähmte Seele von Príncipe erinnert.",
       hu: "Belo Monte tengerparti része a drámai sziklák és az azúrkék tenger helye, ahol az Atlanti-óceán teljes őserővel mutatkozik meg. Itt a meredek sziklák találkoznak a zúgó hullámokkal, páratlan vadságú díszletet alkotva. Ebben a parti tanyavilágban érezhető a tenger szabadsága, miközben a lakók tisztelettel és bátorsággal emelik ki az óceán gazdag ajándékait, a tengeri madarak távoli hívása pedig folyamatosan emlékeztet Príncipe zabolátlan lelkére.",
@@ -3203,9 +3134,8 @@ image: "/poi-images/belo-monte-principe-coast-cities-v2.webp"
       de: "Sundy (Norden)",
       hu: "Sundy (észak)",
       ro: "Sundy (nord)",
-      en: "Sundy (North)",
-image: "/poi-images/sandy-principe-north-cities-v2.webp"
-},
+      en: "Sundy (North)"},
+    image: "/poi-images/sandy-principe-north-cities-v2.webp",
     description: {
       de: "Der nördliche Teil von Sundy ist ein Ort der weiten Ebenen und der wissenschaftlichen Neugier, an dem der Blick grenzenlos scheint. Hier, in der Stille der Hochebene, findet man die Spuren der berühmten Expeditionen, die diesen Ort weltberühmt machten. Die Bewohner pflegen die Tradition der Gastfreundschaft und teilen ihre Geschichten über die Sterne und den Wald mit einer Herzlichkeit, die beispielhaft ist, während die frische Brise des Nordens den Ort zu einer Oase der Klarheit und des Friedens macht.",
       hu: "Sundy északi része a tágas síkságok és a tudományos kíváncsiság helye, ahol a tekintet határtalannak tűnik. Itt, a fennsík csendjében megtalálhatók azoknak a híres expedícióknak a nyomai, amelyek világhírűvé tették ezt a helyet. A lakók ápolják a vendégszeretet hagyományát, és példás szívélyességgel osztják meg történeteiket a csillagokról és az erdőről, miközben az északi friss szellő a világosság és a béke oázisává teszi a települést.",
@@ -3249,9 +3179,8 @@ image: "/poi-images/sandy-principe-north-cities-v2.webp"
       de: "Paciência (Küste)",
       hu: "Paciência (tengerpart)",
       ro: "Paciência (coastă)",
-      en: "Paciência (Coast)",
-image: "/poi-images/paciencia-principe-coast-cities-v2.webp"
-},
+      en: "Paciência (Coast)"},
+    image: "/poi-images/paciencia-principe-coast-cities-v2.webp",
     description: {
       de: "Der Küstenteil von Paciência ist ein Ort der sanften Buchten und des rhythmischen Meeresrauschens, an dem die Zeit an den goldenen Stränden stillzustehen scheint. Hier treffen die Palmen auf den Atlantik und schaffen eine Atmosphäre der vollkommenen Entspannung. In diesem Küstenort genießen die Menschen die Schätze des Wassers, während die Fischer ihre Kanus durch die ruhige Brandung steuern und die Geschichten der See in einer Atmosphäre der zeitlosen Geduld bergen, weit weg von jedem Lärm der Welt.",
       hu: "Paciência tengerparti része a lágy öblök és a ritmikus tengerzúgás helye, ahol az idő megállni látszik az aranyszínű strandokon. Itt a pálmák találkoznak az Atlanti-óceánnal, a teljes ellazulás légkörét teremtve meg. Ebben a parti faluban az emberek élvezik a víz kincseit, miközben a halászok nyugodt hullámzásban navigálják kenujukat, és az óceán történeteit emelik ki az időtlen türelem légkörében, távol a világ minden zajától.",

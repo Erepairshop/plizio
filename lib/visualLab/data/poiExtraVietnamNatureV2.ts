@@ -11,9 +11,8 @@ export const poiExtraVietnamNatureV2: POI[] = [
       de: "Ba-Bể-Nationalpark",
       hu: "Ba Bể Nemzeti Park",
       ro: "Parcul Național Ba Bể",
-      en: "Ba Bể National Park",
-image: "/poi-images/ba-be-national-park-nature-v2.webp"
-},
+      en: "Ba Bể National Park"},
+    image: "/poi-images/ba-be-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in der Provinz Bắc Kạn, bekannt für den Ba-Bể-See, einen der größten natürlichen Süßwasserseen Vietnams, umgeben von Kalksteinbergen und Wäldern.",
       hu: "Nemzeti park Bắc Kạn tartományban, a Ba Bể-tóról ismert, amely Vietnám egyik legnagyobb természetes édesvizű tava, mészkőhegyekkel és erdőkkel körülvéve.",
@@ -48,9 +47,8 @@ image: "/poi-images/ba-be-national-park-nature-v2.webp"
       de: "Cúc-Phương-Nationalpark",
       hu: "Cúc Phương Nemzeti Park",
       ro: "Parcul Național Cúc Phương",
-      en: "Cúc Phương National Park",
-image: "/poi-images/cuc-phuong-national-park-nature-v2.webp"
-},
+      en: "Cúc Phương National Park"},
+    image: "/poi-images/cuc-phuong-national-park-nature-v2.webp",
     description: {
       de: "Vietnams ältester Nationalpark, gelegen in der Provinz Ninh Bình. Er ist ein wichtiges Zentrum für den Schutz der Artenvielfalt und beherbergt eine erstaunliche Vielfalt an Flora und Fauna.",
       hu: "Vietnám legrégebbi nemzeti parkja, Ninh Bình tartományban található. Fontos biodiverzitás-védelmi központ, amely a növény- és állatvilág lenyűgöző változatosságának ad otthont.",
@@ -85,9 +83,8 @@ image: "/poi-images/cuc-phuong-national-park-nature-v2.webp"
       de: "Cát-Tiên-Nationalpark",
       hu: "Cát Tiên Nemzeti Park",
       ro: "Parcul Național Cát Tiên",
-      en: "Cát Tiên National Park",
-image: "/poi-images/cat-tien-national-park-nature-v2.webp"
-},
+      en: "Cát Tiên National Park"},
+    image: "/poi-images/cat-tien-national-park-nature-v2.webp",
     description: {
       de: "Ein ausgedehnter Tiefland-Tropenwald im Süden Vietnams, der als Biosphärenreservat von der UNESCO anerkannt ist und eine immense Artenvielfalt schützt.",
       hu: "Kiterjedt alföldi trópusi erdő Vietnám déli részén, amelyet az UNESCO bioszféra-rezervátumként ismer el, és amely hatalmas biodiverzitást véd.",
@@ -122,9 +119,8 @@ image: "/poi-images/cat-tien-national-park-nature-v2.webp"
       de: "Hoan-Kiem-See",
       hu: "Hoan Kiem-tó",
       ro: "Lacul Hoan Kiem",
-      en: "Hoan Kiem Lake",
-image: "/poi-images/hoan-kiem-lake-nature-v2.webp"
-},
+      en: "Hoan Kiem Lake"},
+    image: "/poi-images/hoan-kiem-lake-nature-v2.webp",
     description: {
       de: "Ein historischer See im Herzen von Hanoi, der als 'See des zurückgegebenen Schwertes' bekannt ist und ein beliebter Ort für Einheimische und Touristen ist.",
       hu: "Történelmi tó Hanoi szívében, a 'Visszaadott kard tava'-ként ismert, népszerű hely a helyiek és a turisták körében.",
@@ -159,9 +155,8 @@ image: "/poi-images/hoan-kiem-lake-nature-v2.webp"
       de: "Westsee",
       hu: "Nyugati-tó",
       ro: "Lacul de Vest",
-      en: "West Lake",
-image: "/poi-images/west-lake-nature-v2.webp"
-},
+      en: "West Lake"},
+    image: "/poi-images/west-lake-nature-v2.webp",
     description: {
       de: "Der größte Süßwassersee in Hanoi, ein beliebter Erholungsort mit vielen Tempeln, Restaurants und Cafés entlang seiner Ufer.",
       hu: "Hanoi legnagyobb édesvizű tava, népszerű üdülőhely, partján számos templom, étterem és kávézó található.",
@@ -196,9 +191,8 @@ image: "/poi-images/west-lake-nature-v2.webp"
       de: "Roter Fluss",
       hu: "Vörös-folyó",
       ro: "Râul Roșu",
-      en: "Red River",
-image: "/poi-images/red-river-nature-v2.webp"
-},
+      en: "Red River"},
+    image: "/poi-images/red-river-nature-v2.webp",
     description: {
       de: "Ein großer Fluss, der von China nach Vietnam fließt und durch Hanoi fließt, bevor er im Golf von Tonkin mündet. Er bildet ein fruchtbares Delta, das eine wichtige landwirtschaftliche Region ist.",
       hu: "Nagy folyó, amely Kínából Vietnámba folyik, áthalad Hanoion, mielőtt a Tonkini-öbölbe ömlik. Termékeny deltát képez, amely fontos mezőgazdasági régió.",
@@ -233,9 +227,8 @@ image: "/poi-images/red-river-nature-v2.webp"
       de: "Parfüm-Fluss",
       hu: "Illatos-folyó",
       ro: "Râul Parfumului",
-      en: "Perfume River",
-image: "/poi-images/perfume-river-nature-v2.webp"
-},
+      en: "Perfume River"},
+    image: "/poi-images/perfume-river-nature-v2.webp",
     description: {
       de: "Ein Fluss, der durch die Stadt Huế fließt und nach den duftenden Blüten benannt ist, die im Herbst von den Obstgärten flussaufwärts ins Wasser fallen.",
       hu: "Folyó, amely áthalad Huế városán, és nevét az illatos virágokról kapta, amelyek ősszel a folyón felfelé lévő gyümölcsösökből a vízbe hullanak.",
@@ -270,9 +263,8 @@ image: "/poi-images/perfume-river-nature-v2.webp"
       de: "Ba-Vì-Nationalpark",
       hu: "Ba Vì Nemzeti Park",
       ro: "Parcul Național Ba Vì",
-      en: "Ba Vì National Park",
-image: "/poi-images/ba-vi-national-park-nature-v2.webp"
-},
+      en: "Ba Vì National Park"},
+    image: "/poi-images/ba-vi-national-park-nature-v2.webp",
     description: {
       de: "Ein Gebirge westlich von Hanoi, das als Nationalpark geschützt ist. Es bietet ein kühleres Klima, vielfältige Wälder und Panoramablicke auf das Delta des Roten Flusses.",
       hu: "Hegység Hanoitól nyugatra, amelyet nemzeti parkként védenek. Hűvösebb éghajlatot, változatos erdőket és panorámás kilátást kínál a Vörös-folyó deltájára.",
@@ -307,9 +299,8 @@ image: "/poi-images/ba-vi-national-park-nature-v2.webp"
       de: "Naturschutzgebiet Pù Luông",
       hu: "Pù Luông Természetvédelmi Terület",
       ro: "Rezervația Naturală Pù Luông",
-      en: "Pù Luông Nature Reserve",
-image: "/poi-images/pu-luong-nature-reserve-nature-v2.webp"
-},
+      en: "Pù Luông Nature Reserve"},
+    image: "/poi-images/pu-luong-nature-reserve-nature-v2.webp",
     description: {
       de: "Ein atemberaubendes Naturreservat, das für seine Reisterrassen, seine ethnischen Dörfer und seine unberührte Schönheit bekannt ist. Es bietet eine Mischung aus majestätischen Bergen und fruchtbaren Tälern.",
       hu: "Lenyűgöző természetvédelmi terület, amely rizsteraszairól, etnikai falvairól és érintetlen szépségéről ismert. Fenséges hegyek és termékeny völgyek keverékét kínálja.",
@@ -344,9 +335,8 @@ image: "/poi-images/pu-luong-nature-reserve-nature-v2.webp"
       de: "Bạch-Mã-Nationalpark",
       hu: "Bạch Mã Nemzeti Park",
       ro: "Parcul Național Bạch Mã",
-      en: "Bạch Mã National Park",
-image: "/poi-images/bach-ma-national-park-nature-v2.webp"
-},
+      en: "Bạch Mã National Park"},
+    image: "/poi-images/bach-ma-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark im zentralen Vietnam, der sich von der Küste bis zum Annamitengebirge erstreckt. Er ist bekannt für seine reiche Biodiversität und seine verlassenen französischen Villen.",
       hu: "Nemzeti park Közép-Vietnámban, amely a partvidéktől az Annamite-hegységig terjed. Gazdag biodiverzitásáról és elhagyatott francia villáiról ismert.",
@@ -381,9 +371,8 @@ image: "/poi-images/bach-ma-national-park-nature-v2.webp"
       de: "Geopark Dong Van Karstplateau",
       hu: "Đồng Văn Karsztplató Geopark",
       ro: "Geoparcul Platoul Carstic Đồng Văn",
-      en: "Đồng Văn Karst Plateau Geopark",
-image: "/poi-images/dong-van-karst-plateau-geopark-nature-v2.webp"
-},
+      en: "Đồng Văn Karst Plateau Geopark"},
+    image: "/poi-images/dong-van-karst-plateau-geopark-nature-v2.webp",
     description: {
       de: "Ein UNESCO Global Geopark in der Provinz Hà Giang, bekannt für seine dramatische Karstlandschaft, tiefen Schluchten und die Kultur der lokalen ethnischen Gruppen.",
       hu: "UNESCO Globális Geopark Hà Giang tartományban, drámai karszt tájáról, mély szurdokairól és a helyi etnikai csoportok kultúrájáról ismert.",
@@ -417,9 +406,8 @@ image: "/poi-images/dong-van-karst-plateau-geopark-nature-v2.webp"
       de: "Nho-Quế-Fluss",
       hu: "Nho Quế-folyó",
       ro: "Râul Nho Quế",
-      en: "Nho Quế River",
-image: "/poi-images/nho-que-river-nature-v2.webp"
-},
+      en: "Nho Quế River"},
+    image: "/poi-images/nho-que-river-nature-v2.webp",
     description: {
       de: "Ein Fluss, der durch die tiefste Schlucht Südostasiens, den Tu-San-Canyon, unterhalb des Ma-Pi-Leng-Passes in der Provinz Hà Giang fließt.",
       hu: "Folyó, amely Délkelet-Ázsia legmélyebb szurdokán, a Tu Sản-kanyonon folyik keresztül, a Ma Pi Leng-hágó alatt, Hà Giang tartományban.",
@@ -453,9 +441,8 @@ image: "/poi-images/nho-que-river-nature-v2.webp"
       de: "Tam-Đảo-Nationalpark",
       hu: "Tam Đảo Nemzeti Park",
       ro: "Parcul Național Tam Đảo",
-      en: "Tam Đảo National Park",
-image: "/poi-images/tam-dao-national-park-nature-v2.webp"
-},
+      en: "Tam Đảo National Park"},
+    image: "/poi-images/tam-dao-national-park-nature-v2.webp",
     description: {
       de: "Ein Gebirgszug, der sich über drei Provinzen erstreckt und für seine artenreichen Wälder, Wasserfälle und das kühle Klima bekannt ist. Tam Đảo bedeutet 'Drei Inseln', bezogen auf seine drei Gipfel.",
       hu: "Három tartományon átnyúló hegylánc, amely gazdag erdőiről, vízeséseiről és hűvös éghajlatáról ismert. A Tam Đảo jelentése 'Három sziget', utalva a három csúcsára.",
@@ -490,9 +477,8 @@ image: "/poi-images/tam-dao-national-park-nature-v2.webp"
       de: "Yok-Đôn-Nationalpark",
       hu: "Yok Đôn Nemzeti Park",
       ro: "Parcul Național Yok Đôn",
-      en: "Yok Đôn National Park",
-image: "/poi-images/yok-don-national-park-nature-v2.webp"
-},
+      en: "Yok Đôn National Park"},
+    image: "/poi-images/yok-don-national-park-nature-v2.webp",
     description: {
       de: "Vietnams größter Nationalpark, der hauptsächlich aus trockenem Dipterocarp-Wald besteht. Er ist bekannt für seine Populationen wilder Elefanten und anderer großer Säugetiere.",
       hu: "Vietnám legnagyobb nemzeti parkja, amely főként száraz dipterokarpusz erdőből áll. Ismert vadon élő elefánt populációiról és más nagyemlősökről.",
@@ -526,9 +512,8 @@ image: "/poi-images/yok-don-national-park-nature-v2.webp"
       de: "Côn-Đảo-Nationalpark",
       hu: "Côn Đảo Nemzeti Park",
       ro: "Parcul Național Côn Đảo",
-      en: "Côn Đảo National Park",
-image: "/poi-images/con-dao-national-park-nature-v2.webp"
-},
+      en: "Côn Đảo National Park"},
+    image: "/poi-images/con-dao-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark, der ein Archipel von 16 Inseln vor der Küste Südvietnams umfasst. Er schützt sowohl terrestrische als auch marine Ökosysteme, einschließlich Korallenriffen und Nistplätzen für Meeresschildkröten.",
       hu: "Nemzeti park, amely 16 szigetből álló szigetcsoportot foglal magában Dél-Vietnám partjainál. Védelmezi a szárazföldi és tengeri ökoszisztémákat, beleértve a korallzátonyokat és a tengeri teknősök fészkelőhelyeit.",
@@ -562,9 +547,8 @@ image: "/poi-images/con-dao-national-park-nature-v2.webp"
       de: "Phú-Quốc-Nationalpark",
       hu: "Phú Quốc Nemzeti Park",
       ro: "Parcul Național Phú Quốc",
-      en: "Phú Quốc National Park",
-image: "/poi-images/phu-quoc-national-park-nature-v2.webp"
-},
+      en: "Phú Quốc National Park"},
+    image: "/poi-images/phu-quoc-national-park-nature-v2.webp",
     description: {
       de: "Umfasst mehr als die Hälfte der Insel Phú Quốc und schützt eine reiche Vielfalt an Flora und Fauna, von dichten Dschungeln bis hin zu unberührten Küstenlebensräumen.",
       hu: "Több mint felét foglalja el Phú Quốc szigetének, és a flóra és fauna gazdag változatosságát védi, a sűrű dzsungelektől az érintetlen tengerparti élőhelyekig.",
@@ -598,9 +582,8 @@ image: "/poi-images/phu-quoc-national-park-nature-v2.webp"
       de: "Thác-Bà-See",
       hu: "Thác Bà-tó",
       ro: "Lacul Thác Bà",
-      en: "Thác Bà Lake",
-image: "/poi-images/thac-ba-lake-nature-v2.webp"
-},
+      en: "Thác Bà Lake"},
+    image: "/poi-images/thac-ba-lake-nature-v2.webp",
     description: {
       de: "Einer der größten künstlichen Seen Vietnams, entstanden durch den Bau des Thác-Bà-Wasserkraftwerks. Er ist übersät mit über 1.300 Inseln und wird als 'Halong-Bucht im Gebirge' bezeichnet.",
       hu: "Vietnám egyik legnagyobb mesterséges tava, a Thác Bà vízerőmű építésével jött létre. Több mint 1300 sziget tarkítja, és a 'hegyvidéki Halong-öbölként' emlegetik.",
@@ -634,9 +617,8 @@ image: "/poi-images/thac-ba-lake-nature-v2.webp"
       de: "Sơn-Trà-Halbinsel",
       hu: "Sơn Trà-félsziget",
       ro: "Peninsula Sơn Trà",
-      en: "Sơn Trà Peninsula",
-image: "/poi-images/son-tra-peninsula-nature-v2.webp"
-},
+      en: "Sơn Trà Peninsula"},
+    image: "/poi-images/son-tra-peninsula-nature-v2.webp",
     description: {
       de: "Eine bergige Halbinsel in Da Nang, die oft als 'Affenberg' bezeichnet wird. Sie ist ein Nationalpark, der für seine unberührten Strände und seine Population von seltenen Rotschenkligen Kleideraffen bekannt ist.",
       hu: "Hegyvidéki félsziget Da Nangban, amelyet gyakran 'Majom-hegynek' is neveznek. Nemzeti park, amely érintetlen strandjairól és a ritka vöröslábú karcsúmajom populációjáról ismert.",
@@ -670,9 +652,8 @@ image: "/poi-images/son-tra-peninsula-nature-v2.webp"
       de: "Tà-Đùng-See",
       hu: "Tà Đùng-tó",
       ro: "Lacul Tà Đùng",
-      en: "Tà Đùng Lake",
-image: "/poi-images/ta-dung-lake-nature-v2.webp"
-},
+      en: "Tà Đùng Lake"},
+    image: "/poi-images/ta-dung-lake-nature-v2.webp",
     description: {
       de: "Ein riesiger Stausee im zentralen Hochland, der wegen seiner zahlreichen kleinen Inseln als 'Halong-Bucht des zentralen Hochlands' bezeichnet wird. Er ist Teil des Tà-Đùng-Nationalparks.",
       hu: "Hatalmas víztározó a központi fennsíkon, amelyet számos kis szigete miatt a 'központi fennsík Halong-öblének' neveznek. A Tà Đùng Nemzeti Park része.",
@@ -707,9 +688,8 @@ image: "/poi-images/ta-dung-lake-nature-v2.webp"
       de: "Cần-Giờ-Mangrovenwald",
       hu: "Cần Giờ Mangrove Erdő",
       ro: "Pădurea de mangrove Cần Giờ",
-      en: "Cần Giờ Mangrove Forest",
-image: "/poi-images/can-gio-mangrove-forest-nature-v2.webp"
-},
+      en: "Cần Giờ Mangrove Forest"},
+    image: "/poi-images/can-gio-mangrove-forest-nature-v2.webp",
     description: {
       de: "Ein UNESCO-Biosphärenreservat am Rande von Ho-Chi-Minh-Stadt. Es ist ein riesiges Feuchtgebiet, das während des Krieges zerstört und danach wieder aufgeforstet wurde.",
       hu: "UNESCO bioszféra-rezervátum Ho Si Minh-város szélén. Hatalmas vizes élőhely, amelyet a háború alatt elpusztítottak, majd újraerdősítettek.",

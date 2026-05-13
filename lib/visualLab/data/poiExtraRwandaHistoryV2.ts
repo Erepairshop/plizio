@@ -10,9 +10,8 @@ export const poiExtraRwandaHistoryV2: POI[] = [
       de: "Genozid-Gedenkstätte Kigali",
       hu: "Kigali Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Kigali",
-      en: "Kigali Genocide Memorial",
-image: "/poi-images/kigali-genocide-memorial-history-v2.webp"
-},
+      en: "Kigali Genocide Memorial"},
+    image: "/poi-images/kigali-genocide-memorial-history-v2.webp",
     description: {
       de: "Eine der wichtigsten Gedenkstätten für die Opfer des Völkermords in Ruanda von 1994, wo über 250.000 Menschen begraben sind.",
       hu: "Az 1994-es ruandai népirtás áldozatainak egyik legfontosabb emlékhelye, ahol több mint 250 000 embert temettek el.",
@@ -47,9 +46,8 @@ image: "/poi-images/kigali-genocide-memorial-history-v2.webp"
       de: "Genozid-Gedenkstätte Murambi",
       hu: "Murambi Népirtás Emlékmu",
       ro: "Memorialul Genocidului din Murambi",
-      en: "Murambi Genocide Memorial",
-image: "/poi-images/murambi-memorial-history-v2.webp"
-},
+      en: "Murambi Genocide Memorial"},
+    image: "/poi-images/murambi-memorial-history-v2.webp",
     description: {
       de: "Ehemalige technische Schule, die zu einer bedeutenden Gedenkstätte für die Opfer des Völkermords wurde.",
       hu: "Egykori muszaki iskola, amely a népirtás áldozatainak jelentos emlékhelyévé vált.",
@@ -84,9 +82,8 @@ image: "/poi-images/murambi-memorial-history-v2.webp"
       de: "Nyamata Kirchen-Gedenkstätte",
       hu: "Nyamata Templom Emlékmu",
       ro: "Memorialul Bisericii Nyamata",
-      en: "Nyamata Church Memorial",
-image: "/poi-images/nyamata-church-memorial-history-v2.webp"
-},
+      en: "Nyamata Church Memorial"},
+    image: "/poi-images/nyamata-church-memorial-history-v2.webp",
     description: {
       de: "Eine katholische Kirche, in der Tausende von Menschen Zuflucht suchten und während des Völkermords ermordet wurden.",
       hu: "Egy katolikus templom, ahol több ezer ember keresett menedéket, és ahol a népirtás során meggyilkolták oket.",
@@ -121,9 +118,8 @@ image: "/poi-images/nyamata-church-memorial-history-v2.webp"
       de: "Ntarama Kirchen-Gedenkstätte",
       hu: "Ntarama Templom Emlékmu",
       ro: "Memorialul Bisericii Ntarama",
-      en: "Ntarama Church Memorial",
-image: "/poi-images/ntarama-church-memorial-history-v2.webp"
-},
+      en: "Ntarama Church Memorial"},
+    image: "/poi-images/ntarama-church-memorial-history-v2.webp",
     description: {
       de: "Eine weitere Kirche, die zum Schauplatz brutaler Morde wurde und heute als nationale Gedenkstätte dient.",
       hu: "Egy másik templom, amely brutális gyilkosságok helyszíne volt, és ma nemzeti emlékhelyként szolgál.",
@@ -158,9 +154,8 @@ image: "/poi-images/ntarama-church-memorial-history-v2.webp"
       de: "Genozid-Gedenkstätte Bisesero",
       hu: "Bisesero Népirtás Emlékmu",
       ro: "Memorialul Genocidului Bisesero",
-      en: "Bisesero Genocide Memorial",
-image: "/poi-images/bisesero-memorial-history-v2.webp"
-},
+      en: "Bisesero Genocide Memorial"},
+    image: "/poi-images/bisesero-memorial-history-v2.webp",
     description: {
       de: "Dieses Denkmal ehrt den heldenhaften Widerstand der Tutsi in der Region Bisesero gegen die Interahamwe-Milizen.",
       hu: "Ez az emlékmu a biseserói tuszik hosies ellenállását tiszteli az Interahamwe milíciákkal szemben.",
@@ -195,9 +190,8 @@ image: "/poi-images/bisesero-memorial-history-v2.webp"
       de: "Genozid-Gedenkstätte Nyarubuye",
       hu: "Nyarubuye Népirtás Emlékmu",
       ro: "Memorialul Genocidului Nyarubuye",
-      en: "Nyarubuye Genocide Memorial",
-image: "/poi-images/nyarubuye-memorial-history-v2.webp"
-},
+      en: "Nyarubuye Genocide Memorial"},
+    image: "/poi-images/nyarubuye-memorial-history-v2.webp",
     description: {
       de: "Ein ehemaliges Kloster, an dem Tausende von Flüchtlingen, die Zuflucht suchten, während des Völkermords getötet wurden.",
       hu: "Egy egykori kolostor, ahol menedéket kereso menekültek ezreit ölték meg a népirtás során.",
@@ -232,9 +226,8 @@ image: "/poi-images/nyarubuye-memorial-history-v2.webp"
       de: "Königspalast Nyanza",
       hu: "Nyanza Királyi Palota",
       ro: "Palatul Regal Nyanza",
-      en: "King's Palace Nyanza",
-image: "/poi-images/kings-palace-nyanza-history-v2.webp"
-},
+      en: "King's Palace Nyanza"},
+    image: "/poi-images/kings-palace-nyanza-history-v2.webp",
     description: {
       de: "Eine Rekonstruktion des traditionellen königlichen Palastes, die Einblicke in das Leben der ruandischen Könige gibt.",
       hu: "A hagyományos királyi palota rekonstrukciója, amely bepillantást enged a ruandai királyok életébe.",
@@ -269,9 +262,8 @@ image: "/poi-images/kings-palace-nyanza-history-v2.webp"
       de: "Ethnografisches Museum Huye",
       hu: "Huye Néprajzi Múzeum",
       ro: "Muzeul Etnografic Huye",
-      en: "Ethnographic Museum Huye",
-image: "/poi-images/ethnographic-museum-huye-history-v2.webp"
-},
+      en: "Ethnographic Museum Huye"},
+    image: "/poi-images/ethnographic-museum-huye-history-v2.webp",
     description: {
       de: "Eines der besten ethnografischen Museen Ostafrikas, das die reiche kulturelle Geschichte Ruandas zeigt.",
       hu: "Kelet-Afrika egyik legjobb néprajzi múzeuma, amely Ruanda gazdag kulturális történelmét mutatja be.",
@@ -306,9 +298,8 @@ image: "/poi-images/ethnographic-museum-huye-history-v2.webp"
       de: "Kandt-Haus-Museum",
       hu: "Kandt Ház Múzeum",
       ro: "Muzeul Casei Kandt",
-      en: "Kandt House Museum",
-image: "/poi-images/richard-kandt-house-history-v2.webp"
-},
+      en: "Kandt House Museum"},
+    image: "/poi-images/richard-kandt-house-history-v2.webp",
     description: {
       de: "Das ehemalige Zuhause des deutschen Forschers Richard Kandt, des ersten Residenten in Ruanda, heute ein naturhistorisches Museum.",
       hu: "Richard Kandt német felfedezo, Ruanda elso rezidensének egykori otthona, ma természettudományi múzeum.",
@@ -343,9 +334,8 @@ image: "/poi-images/richard-kandt-house-history-v2.webp"
       de: "Ndaba Felsen",
       hu: "Ndaba Szikla",
       ro: "Stânca Ndaba",
-      en: "Ndaba Rock",
-image: "/poi-images/ndaba-rock-history-v2.webp"
-},
+      en: "Ndaba Rock"},
+    image: "/poi-images/ndaba-rock-history-v2.webp",
     description: {
       de: "Ein historischer Felsen mit einem Wasserfall, der mit Legenden über einen mythischen Jäger namens Ndaba verbunden ist.",
       hu: "Egy történelmi szikla vízeséssel, amelyhez egy Ndaba nevu mitikus vadász legendái fuzodnek.",
@@ -380,9 +370,8 @@ image: "/poi-images/ndaba-rock-history-v2.webp"
       de: "Quelle des Rukarara",
       hu: "A Rukarara Forrása",
       ro: "Izvorul Rukarara",
-      en: "Rukarara River Source",
-image: "/poi-images/rukarara-river-source-history-v2.webp"
-},
+      en: "Rukarara River Source"},
+    image: "/poi-images/rukarara-river-source-history-v2.webp",
     description: {
       de: "Ein historisch bedeutender Ort, der von frühen Forschern als mögliche südlichste Quelle des Nils identifiziert wurde.",
       hu: "Történelmileg jelentos hely, amelyet a korai felfedezok a Nílus lehetséges legdélebbi forrásaként azonosítottak.",
@@ -417,9 +406,8 @@ image: "/poi-images/rukarara-river-source-history-v2.webp"
       de: "Der Felsen von Kamegeri",
       hu: "Kamegeri Sziklája",
       ro: "Stânca lui Kamegeri",
-      en: "Rock of Kamegeri",
-image: "/poi-images/urutare-rwa-kamegeri-history-v2.webp"
-},
+      en: "Rock of Kamegeri"},
+    image: "/poi-images/urutare-rwa-kamegeri-history-v2.webp",
     description: {
       de: "Ein legendärer Felsen in der ruandischen Geschichte, benannt nach einem Häuptling, der wegen seiner grausamen Ratschläge bestraft wurde.",
       hu: "A ruandai történelem egy legendás sziklája, amelyet egy fonökrol neveztek el, akit kegyetlen tanácsai miatt büntettek meg.",
@@ -454,9 +442,8 @@ image: "/poi-images/urutare-rwa-kamegeri-history-v2.webp"
       de: "Denkmal für belgische Friedenstruppen",
       hu: "Belga Békefenntartók Emlékmuve",
       ro: "Memorialul Forțelor de Menținere a Pacii Belgiene",
-      en: "Belgian Peacekeepers Memorial",
-image: "/poi-images/camp-kigali-memorial-history-v2.webp"
-},
+      en: "Belgian Peacekeepers Memorial"},
+    image: "/poi-images/camp-kigali-memorial-history-v2.webp",
     description: {
       de: "Ein Gedenkort an zehn belgische UN-Soldaten, die am ersten Tag des Völkermords von 1994 ermordet wurden.",
       hu: "Emlékhely annak a tíz belga ENSZ-katonának, akiket az 1994-es népirtás elso napján gyilkoltak meg.",
@@ -491,9 +478,8 @@ image: "/poi-images/camp-kigali-memorial-history-v2.webp"
       de: "Töpfe von Rubingo",
       hu: "Rubingo Edényei",
       ro: "Oalele din Rubingo",
-      en: "Pots of Rubingo",
-image: "/poi-images/utubindi-twa-rubingo-history-v2.webp"
-},
+      en: "Pots of Rubingo"},
+    image: "/poi-images/utubindi-twa-rubingo-history-v2.webp",
     description: {
       de: "Ein archäologischer Ort mit alten, in Stein gehauenen Mulden, die auf eine frühe Besiedlung der Region hinweisen.",
       hu: "Egy régészeti lelohely osi, kobe vájt mélyedésekkel, amelyek a régió korai betelepülésére utalnak.",
@@ -528,9 +514,8 @@ image: "/poi-images/utubindi-twa-rubingo-history-v2.webp"
       de: "Iby'Iwacu Kulturdorf",
       hu: "Iby'Iwacu Kulturális Falu",
       ro: "Satul Cultural Iby'Iwacu",
-      en: "Iby'Iwacu Cultural Village",
-image: "/poi-images/ibyiwacu-cultural-village-history-v2.webp"
-},
+      en: "Iby'Iwacu Cultural Village"},
+    image: "/poi-images/ibyiwacu-cultural-village-history-v2.webp",
     description: {
       de: "Ein rekonstruiertes Dorf, das die traditionelle ruandische Kultur, Tänze und Lebensweise bewahrt und präsentiert.",
       hu: "Egy rekonstruált falu, amely megorzi és bemutatja a hagyományos ruandai kultúrát, táncokat és életmódot.",
@@ -565,9 +550,8 @@ image: "/poi-images/ibyiwacu-cultural-village-history-v2.webp"
       de: "Rukari Museum für alte Geschichte",
       hu: "Rukari Ókori Történeti Múzeum",
       ro: "Muzeul de Istorie Antica Rukari",
-      en: "Rukari Ancient History Museum",
-image: "/poi-images/rukari-ancient-history-museum-history-v2.webp"
-},
+      en: "Rukari Ancient History Museum"},
+    image: "/poi-images/rukari-ancient-history-museum-history-v2.webp",
     description: {
       de: "Dieses Museum in Nyanza widmet sich der Geschichte Ruandas vor der Kolonialisierung und den Traditionen der Könige.",
       hu: "Ez a nyanzai múzeum a gyarmatosítás elotti Ruanda történetének és a királyok hagyományainak szenteli magát.",
@@ -602,9 +586,8 @@ image: "/poi-images/rukari-ancient-history-museum-history-v2.webp"
       de: "Mausoleum von Mwima",
       hu: "Mwima Mauzóleum",
       ro: "Mausoleul Mwima",
-      en: "Mwima Mausoleum",
-image: "/poi-images/mwima-mausoleum-history-v2.webp"
-},
+      en: "Mwima Mausoleum"},
+    image: "/poi-images/mwima-mausoleum-history-v2.webp",
     description: {
       de: "Die Ruhestätte von König Mutara III Rudahigwa und Königin Rosalie Gicanda, bedeutenden Figuren der jüngeren Geschichte.",
       hu: "Mutara III Rudahigwa király és Rosalie Gicanda királyné, a közelmúlt történelmének jelentos alakjainak végso nyughelye.",
@@ -639,9 +622,8 @@ image: "/poi-images/mwima-mausoleum-history-v2.webp"
       de: "Königliche Begräbnisstätte Nyanza",
       hu: "Nyanza Királyi Temeto",
       ro: "Terenul Regal de Înmormântare Nyanza",
-      en: "Nyanza Royal Burial Ground",
-image: "/poi-images/nyanza-royal-burial-ground-history-v2.webp"
-},
+      en: "Nyanza Royal Burial Ground"},
+    image: "/poi-images/nyanza-royal-burial-ground-history-v2.webp",
     description: {
       de: "Ein heiliger Ort, an dem mehrere Mitglieder der ruandischen Königsfamilie beerdigt sind.",
       hu: "Szent hely, ahol a ruandai királyi család több tagja van eltemetve.",
@@ -676,9 +658,8 @@ image: "/poi-images/nyanza-royal-burial-ground-history-v2.webp"
       de: "Ku Ndaro Höhlen",
       hu: "Ku Ndaro Barlangok",
       ro: "Peșterile Ku Ndaro",
-      en: "Ku Ndaro Caves",
-image: "/poi-images/ku-ndaro-history-v2.webp"
-},
+      en: "Ku Ndaro Caves"},
+    image: "/poi-images/ku-ndaro-history-v2.webp",
     description: {
       de: "Historische Höhlen, die in der Vergangenheit als Verstecke und Kultstätten für lokale Führer dienten.",
       hu: "Történelmi barlangok, amelyek a múltban a helyi vezetok búvóhelyeként és kultikus helyeként szolgáltak.",
@@ -713,9 +694,8 @@ image: "/poi-images/ku-ndaro-history-v2.webp"
       de: "Rwesero Kunstmuseum",
       hu: "Rwesero Muvészeti Múzeum",
       ro: "Muzeul de Arta Rwesero",
-      en: "Rwesero Art Museum",
-image: "/poi-images/rwesero-art-museum-history-v2.webp"
-},
+      en: "Rwesero Art Museum"},
+    image: "/poi-images/rwesero-art-museum-history-v2.webp",
     description: {
       de: "Ursprünglich als Palast für König Mutara III erbaut, dient das Gebäude heute als nationales Kunstmuseum.",
       hu: "Eredetileg III. Mutara király palotájának épült, ma nemzeti muvészeti múzeumként muködik az épület.",
@@ -750,9 +730,8 @@ image: "/poi-images/rwesero-art-museum-history-v2.webp"
       de: "Umweltmuseum Karongi",
       hu: "Karongi Környezetvédelmi Múzeum",
       ro: "Muzeul Mediului Karongi",
-      en: "Environment Museum Karongi",
-image: "/poi-images/environment-museum-karongi-history-v2.webp"
-},
+      en: "Environment Museum Karongi"},
+    image: "/poi-images/environment-museum-karongi-history-v2.webp",
     description: {
       de: "Ein Museum, das die historische Beziehung zwischen der Bevölkerung Ruandas und ihrer natürlichen Umgebung beleuchtet.",
       hu: "Múzeum, amely bemutatja Ruanda lakosságának és természeti környezetének történelmi kapcsolatát.",
@@ -787,9 +766,8 @@ image: "/poi-images/environment-museum-karongi-history-v2.webp"
       de: "Genozid-Gedenkstätte Rebero",
       hu: "Rebero Népirtás Emlékmu",
       ro: "Memorialul Genocidului Rebero",
-      en: "Rebero Genocide Memorial",
-image: "/poi-images/rebero-memorial-history-v2.webp"
-},
+      en: "Rebero Genocide Memorial"},
+    image: "/poi-images/rebero-memorial-history-v2.webp",
     description: {
       de: "Ein Denkmal für über 14.000 Opfer, darunter viele Politiker, die sich während des Völkermords gegen das Regime stellten.",
       hu: "Emlékmu több mint 14 000 áldozatnak, köztük sok politikusnak, akik a népirtás idején felléptek a rezsim ellen.",
@@ -824,9 +802,8 @@ image: "/poi-images/rebero-memorial-history-v2.webp"
       de: "Heiße Quellen von Bugarama",
       hu: "Bugarama Hoforrások",
       ro: "Izvoarele Termale Bugarama",
-      en: "Bugarama Hot Springs",
-image: "/poi-images/bugarama-hot-springs-history-v2.webp"
-},
+      en: "Bugarama Hot Springs"},
+    image: "/poi-images/bugarama-hot-springs-history-v2.webp",
     description: {
       de: "Historisch bedeutende Thermalquellen, die seit Generationen für Heilzwecke und als Versammlungsort genutzt werden.",
       hu: "Történelmileg jelentos hoforrások, amelyeket generációk óta gyógyászati ??célokra és gyülekezohelyként használnak.",
@@ -861,9 +838,8 @@ image: "/poi-images/bugarama-hot-springs-history-v2.webp"
       de: "Heiligtum von Kibeho",
       hu: "Kibeho Kegyhely",
       ro: "Sanctuarul Kibeho",
-      en: "Kibeho Sanctuary",
-image: "/poi-images/kibeho-sanctuary-history-v2.webp"
-},
+      en: "Kibeho Sanctuary"},
+    image: "/poi-images/kibeho-sanctuary-history-v2.webp",
     description: {
       de: "Der erste offiziell anerkannte Marienerscheinungsort in Afrika, der in den 1980er Jahren historische Bedeutung erlangte.",
       hu: "Az elso hivatalosan elismert Mária-jelenés helyszíne Afrikában, amely az 1980-as években kapott történelmi jelentoséget.",
@@ -898,9 +874,8 @@ image: "/poi-images/kibeho-sanctuary-history-v2.webp"
       de: "Versöhnungsdorf Mbyo",
       hu: "Mbyo Megbékélési Falu",
       ro: "Satul Reconcilierii Mbyo",
-      en: "Mbyo Reconciliation Village",
-image: "/poi-images/mbyo-reconciliation-village-history-v2.webp"
-},
+      en: "Mbyo Reconciliation Village"},
+    image: "/poi-images/mbyo-reconciliation-village-history-v2.webp",
     description: {
       de: "Ein historisch wichtiges Dorfprojekt, in dem Überlebende des Völkermords und Täter nach einem Versöhnungsprozess zusammenleben.",
       hu: "Egy történelmileg fontos faluprojekt, ahol a népirtás túléloi és az elkövetok egy megbékélési folyamat után együtt élnek.",
@@ -935,9 +910,8 @@ image: "/poi-images/mbyo-reconciliation-village-history-v2.webp"
       de: "Befreiungsmuseum Mulindi",
       hu: "Mulindi Felszabadítási Múzeum",
       ro: "Muzeul Eliberarii Mulindi",
-      en: "Liberation Museum Mulindi",
-image: "/poi-images/liberation-museum-mulindi-history-v2.webp"
-},
+      en: "Liberation Museum Mulindi"},
+    image: "/poi-images/liberation-museum-mulindi-history-v2.webp",
     description: {
       de: "Das ehemalige Hauptquartier der RPF (Ruandische Patriotische Front) während des Befreiungskrieges.",
       hu: "Az RPF (Ruandai Hazafias Front) egykori fohadiszállása a felszabadító háború alatt.",
@@ -972,9 +946,8 @@ image: "/poi-images/liberation-museum-mulindi-history-v2.webp"
       de: "Ehemaliger Präsidentenpalast Kanombe",
       hu: "Volt Elnöki Palota Kanombe",
       ro: "Fostul Palat Preziden?ial Kanombe",
-      en: "Former Presidential Palace Kanombe",
-image: "/poi-images/presidential-palace-museum-history-v2.webp"
-},
+      en: "Former Presidential Palace Kanombe"},
+    image: "/poi-images/presidential-palace-museum-history-v2.webp",
     description: {
       de: "Die frühere Residenz von Präsident Juvénal Habyarimana, auf dessen Grundstück sich die Trümmer seines abgestürzten Flugzeugs befinden.",
       hu: "Juvénal Habyarimana elnök egykori rezidenciája, akinek birtokán egy lezuhant repülogépének roncsai találhatók.",
@@ -1009,9 +982,8 @@ image: "/poi-images/presidential-palace-museum-history-v2.webp"
       de: "Gisozi Gedenkstätte",
       hu: "Gisozi Emlékhely",
       ro: "Memorialul Gisozi",
-      en: "Gisozi Memorial",
-image: "/poi-images/gisozi-memorial-history-v2.webp"
-},
+      en: "Gisozi Memorial"},
+    image: "/poi-images/gisozi-memorial-history-v2.webp",
     description: {
       de: "Ein wichtiger Bestandteil des Kigali Memorial Centers in Gisozi, der an die Tragödie der Hauptstadt erinnert.",
       hu: "A Gisozi-i Kigali Emlékközpont fontos része, amely a fováros tragédiájára emlékeztet.",
@@ -1046,9 +1018,8 @@ image: "/poi-images/gisozi-memorial-history-v2.webp"
       de: "Nyanza Gedenkstätte (Kigali)",
       hu: "Nyanza Emlékhely (Kigali)",
       ro: "Memorialul Nyanza (Kigali)",
-      en: "Nyanza Memorial (Kigali)",
-image: "/poi-images/nyanza-genocide-memorial-history-v2.webp"
-},
+      en: "Nyanza Memorial (Kigali)"},
+    image: "/poi-images/nyanza-genocide-memorial-history-v2.webp",
     description: {
       de: "Eine Stätte in Kicukiro, wo Tausende von Tutsi ermordet wurden, nachdem UN-Truppen ihr Lager verlassen hatten.",
       hu: "Egy hely Kicukiroban, ahol tuszik ezreit gyilkolták meg, miután az ENSZ-csapatok elhagyták táborukat.",
@@ -1083,9 +1054,8 @@ image: "/poi-images/nyanza-genocide-memorial-history-v2.webp"
       de: "Urugwiro Dorf (Historischer Ort)",
       hu: "Urugwiro Falu (Történelmi Hely)",
       ro: "Satul Urugwiro (Loc Istoric)",
-      en: "Urugwiro Village (Historical Site)",
-image: "/poi-images/urugwiro-village-history-v2.webp"
-},
+      en: "Urugwiro Village (Historical Site)"},
+    image: "/poi-images/urugwiro-village-history-v2.webp",
     description: {
       de: "Ein historisch relevanter Komplex in Kigali, der eng mit der politischen Geschichte und Verwaltung Ruandas verbunden ist.",
       hu: "Egy történelmileg releváns komplexum Kigaliban, amely szorosan kapcsolódik Ruanda politikai történetéhez és közigazgatásához.",

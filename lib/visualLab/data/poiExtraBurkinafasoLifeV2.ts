@@ -7,438 +7,783 @@ export const poiExtraBurkinafasoLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "BF-AR",
     coords: [2.33, 11.85],
-    name: { de: "Nationalpark Arly", hu: "Arly Nemzeti Park", ro: "Parcul Național Arly", en: "Arly National Park",
-image: "/poi-images/parc-national-d-arlit-life-v2.webp"
-},
+    name: { de: "Nationalpark Arly", hu: "Arly Nemzeti Park", ro: "Parcul Național Arly", en: "Arly National Park"},
+    image: "/poi-images/parc-national-d-arlit-life-v2.webp",
     description: { de: "Ein bedeutendes Naturschutzgebiet mit einer Vielzahl von Wildtieren wie Elefanten und Löwen.", hu: "Jelentős természetvédelmi terület, számos vadállattal, például elefántokkal és oroszlánokkal.", ro: "O rezervație naturală importantă cu o varietate de animale sălbatice, cum ar fi elefanți și lei.", en: "An important nature reserve with a variety of wildlife such as elephants and lions." },
     facts: {
       de: ["Heimat von Löwen und Elefanten", "Teil des W-Arly-Pendjari-Komplexes", "Beliebtes Safari-Ziel", "Wichtige Ökosystem-Zone"],
       hu: ["Oroszlánok és elefántok otthona", "A W-Arly-Pendjari komplexum része", "Népszerű szafari célpont", "Fontos ökoszisztéma zóna"],
       ro: ["Acasă pentru lei și elefanți", "Parte a complexului W-Arly-Pendjari", "Destinație populară pentru safari", "Zonă importantă de ecosistem"],
       en: ["Home to lions and elephants", "Part of the W-Arly-Pendjari complex", "Popular safari destination", "Important ecosystem zone"]
-    }, image: "/poi-images/parc-national-d-arlit-life-v2.webp"},
+    }, image: "/poi-images/parc-national-d-arlit-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Arly-Nationalpark in Burkina Faso umfasst rund 76.000 Hektar Savanne und Trockenwald. Er wurde 1954 als Wildreservat gegründet und 1980 zum Nationalpark erhoben. Das Gebiet ist Teil des länderübergreifenden W-Arly-Pendjari-Komplexes. Der Park beherbergt bedeutende Populationen von Elefanten, Löwen und Antilopen. Die Vegetation wird von Combretum- und Acacia-Arten dominiert. Der Arly-Fluss fließt durch den Park und schafft wichtige Wasserstellen in der Trockenzeit. Der Park hat eine hohe Biodiversität mit über 200 Vogelarten.",
+      hu: "Az Arly Nemzeti Park Burkina Fasóban, a Száhel-övezet déli részén fekszik, területe 760 km². 1954-ben vadrezervátumként alapították, majd 1980-ban nemzeti parkká nyilvánították. A park az UNESCO által támogatott W-Arly-Pendjari transzhatáron átnyúló bioszféra-rezervátum része. A térség éghajlata száraz trópusi, az éves csapadékmennyiség 600-900 mm. A park élővilága jelentős: itt él Burkina Faso egyik legnagyobb elefántpopulációja. A parkot a helyi közösségek is használják hagyományos legeltetésre.",
+      ro: "Parcul Național Arly din Burkina Faso, cu o suprafață de aproximativ 76.000 ha, este situat în provincia Tapoa. A fost înființat în 1954 ca rezervație de vânătoare și a fost declarat parc național în 1980. Face parte din complexul transfrontalier W-Arly-Pendjari, care este cel mai important ecosistem de savană din Africa de Vest. Parcul găzduiește peste 300 de specii de păsări și mamifere mari, inclusiv leii, elefanții și bivolii. Râul Arly asigură apă pe tot parcursul anului, atrăgând animalele în sezonul uscat. Turismul ecologic este în creștere, cu trasee de safari și observare a păsărilor.",
+      en: "Arly National Park, established in 1954 and covering 760 km² in southeastern Burkina Faso, is a protected savanna ecosystem. It is a core component of the W-Arly-Pendjari (WAP) complex, a UNESCO World Heritage site designated in 2017. The park features a diverse landscape of gallery forests, sandstone cliffs, and seasonal wetlands. It hosts one of West Africa's last viable lion populations, estimated at 50-100 individuals. The park also supports significant populations of African elephants (around 500) and over 200 bird species. Management includes anti-poaching patrols and community-based conservation programs.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1954 als Wildreservat", "Fläche: 76.000 Hektar (760 km²)", "Nationalpark-Status seit 1980", "Teil des W-Arly-Pendjari-Komplexes (UNESCO-Weltnaturerbe)", "Jährliche Niederschlagsmenge: 600–900 mm", "Geschätzte Elefantenpopulation: ca. 500 Individuen"],
+      hu: ["Alapítás éve: 1954 (vadrezervátum)", "Nemzeti parkká nyilvánítás: 1980", "Terület: 76 000 hektár", "Az UNESCO által elismert W-Arly-Pendjari bioszféra-rezervátum része", "Éves csapadék: 600–900 mm", "Burkina Faso legnagyobb elefántpopulációja itt található (kb. 500 egyed)"],
+      ro: ["Anul înființării: 1954 ca rezervație de vânătoare", "Suprafață: 76.000 hectare", "Declarat parc național în 1980", "Parte a complexului W-Arly-Pendjari (Patrimoniu Mondial UNESCO din 2017)", "Populație de elefanți: cca. 500 de indivizi", "Număr de specii de păsări: peste 200"],
+      en: ["Established in 1954 as a wildlife reserve", "Area: 760 km² (76,000 ha)", "Declared a national park in 1980", "Part of the W-Arly-Pendjari (WAP) UNESCO World Heritage site (2017)", "Estimated lion population: 50–100 individuals", "Annual precipitation: 600–900 mm"],
+    },
+  },
   {
     id: "reserve-de-faune-de-porga-life-v2",
     type: "animal-habitat",
     parent: "BF-GN",
     coords: [1.32, 11.35],
-    name: { de: "Porga Wildreservat", hu: "Porga Vadrezervátum", ro: "Rezervația de faună Porga", en: "Porga Wildlife Reserve",
-image: "/poi-images/reserve-de-faune-de-porga-life-v2.webp"
-},
+    name: { de: "Porga Wildreservat", hu: "Porga Vadrezervátum", ro: "Rezervația de faună Porga", en: "Porga Wildlife Reserve"},
+    image: "/poi-images/reserve-de-faune-de-porga-life-v2.webp",
     description: { de: "Ein geschütztes Gebiet, das wichtige Lebensräume für die lokale Fauna bietet.", hu: "Védett terület, amely fontos élőhelyeket biztosít a helyi fauna számára.", ro: "O zonă protejată care oferă habitate importante pentru fauna locală.", en: "A protected area that provides important habitats for local fauna." },
     facts: {
       de: ["Schutz von Antilopen und Büffeln", "Region mit hoher Artenvielfalt", "Grenzgebiet zu Benin", "Naturschutz-Hotspot"],
       hu: ["Antilopok és bivalyok védelme", "Magas biológiai sokféleségű régió", "Határterület Benin felé", "Természetvédelmi hotspot"],
       ro: ["Protecția antilopelor și a bivolilor", "Regiune cu biodiversitate ridicată", "Zonă de frontieră cu Benin", "Hotspot de conservare"],
       en: ["Protection of antelopes and buffaloes", "Region with high biodiversity", "Border area with Benin", "Conservation hotspot"]
-    }, image: "/poi-images/reserve-de-faune-de-porga-life-v2.webp"},
+    }, image: "/poi-images/reserve-de-faune-de-porga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Porga-Wildreserve im Nordosten Burkina Fasos umfasst rund 1.500 km² und wurde 1976 gegründet, um die gefährdeten Savannenökosysteme der Region zu schützen. Sie liegt im Einzugsgebiet des Pendjari-Flusses, der die Grenze zu Benin bildet. Die Reserve beherbergt bedeutende Populationen von Elefanten, Löwen, Büffeln und Antilopen. Aufgrund ihrer abgelegenen Lage und der begrenzten Infrastruktur gilt sie als eines der am wenigsten erschlossenen Schutzgebiete Westafrikas. Die Trockenzeit von November bis Mai ist die beste Reisezeit für Wildbeobachtungen. Die Reserve ist Teil des transnationalen WAP-Schutzgebietskomplexes (W-Arly-Pendjari), der ein wichtiger Rückzugsort für die Biodiversität der Sahelzone darstellt. Bedrohungen wie Wilderei und Lebensraumverlust erfordern kontinuierliche Schutzmaßnahmen.",
+      hu: "A Porga Vadvédelmi Rezervátum Burkina Faso északkeleti részén, a Pendjari folyó közelében található, és 1976-ban jött létre. Területe mintegy 1500 négyzetkilométer, mely szavannás erdőségekből és füves pusztákból áll. A rezervátum az elefántok, oroszlánok, leopárdok és antilopok számára is fontos élőhelyet biztosít. Különlegessége, hogy a WAP (W-Arly-Pendjari) transznacionális védett terület része, mely Afrika egyik legjelentősebb megőrzési övezete. A rezervátum gazdag madárvilággal is rendelkezik, több mint 300 fajt regisztráltak. Az orvvadászat és az illegális fakitermelés komoly fenyegetést jelent az ökoszisztémára. A turisztikai infrastruktúra fejletlen, ezért a látogatások szervezése kihívást jelent.",
+      ro: "Rezervația de Faună Porga este situată în nord-estul Burkina Faso, acoperind aproximativ 1.500 km² de savană și păduri deschise. Fondată în 1976, face parte din complexul transfrontalier WAP (W-Arly-Pendjari), una dintre cele mai importante arii protejate din Africa de Vest. Aici trăiesc elefanți, lei, bivoli africani și numeroase specii de antilope. Deși este mai puțin vizitată decât vecina Parcului Național Pendjari din Benin, oferă o experiență autentică de safari. Clima este tropicală, cu un sezon ploios între iunie și octombrie și un sezon uscat din noiembrie până în mai. Principalele amenințări sunt braconajul și extinderea agricolă. Eforturile de conservare includ patrule și colaborări cu comunitățile locale.",
+      en: "Porga Wildlife Reserve, established in 1976, spans approximately 1,500 square kilometers of Sudano-Sahelian savanna in northeastern Burkina Faso. It borders the Pendjari River, which forms the natural boundary with Benin. The reserve is part of the larger WAP (W-Arly-Pendjari) complex, a UNESCO World Heritage site candidate and one of West Africa's last strongholds for large mammals. Key species include African elephant, lion, leopard, buffalo, and several antelope species. The reserve is notorious for its inaccessibility; only a few dirt roads exist, and visitor facilities are minimal. The dry season (November to May) offers the best wildlife viewing. Conservation efforts focus on anti-poaching patrols and community-based natural resource management.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1976", "Fläche: ca. 1.500 km²", "Elefantenbestand: schätzungsweise 200–300 Individuen", "Teil des WAP-Komplexes (W-Arly-Pendjari)", "Höchste Erhebung: etwa 400 m über dem Meeresspiegel", "Jährlicher Niederschlag: 800–1.000 mm"],
+      hu: ["Alapítás éve: 1976", "Területe: 1.500 km²", "Elefánt populáció: 200–300 egyed", "A WAP komplexum része (W-Arly-Pendjari)", "Tengerszint feletti magassága: 400 m", "Éves csapadékmennyiség: 800–1000 mm"],
+      ro: ["Anul înființării: 1976", "Suprafața: aproximativ 1.500 km²", "Populația de elefanți: 200–300 de indivizi", "Parte a complexului WAP (W-Arly-Pendjari)", "Altitudine maximă: 400 m deasupra nivelului mării", "Precipitații anuale: 800–1.000 mm"],
+      en: ["Established: 1976", "Area: approximately 1,500 km²", "Elephant population: 200–300 individuals", "Part of the WAP complex (W-Arly-Pendjari)", "Elevation: up to 400 m above sea level", "Annual rainfall: 800–1,000 mm"],
+    },
+  },
   {
     id: "ferme-experimentale-de-kamboinsin-life-v2",
     type: "agriculture",
     parent: "BF-OU",
     coords: [-1.48, 12.43],
-    name: { de: "Versuchsfarm Kamboinsin", hu: "Kamboinsin Kísérleti Gazdaság", ro: "Ferma experimentală Kamboinsin", en: "Kamboinsin Experimental Farm",
-image: "/poi-images/ferme-experimentale-de-kamboinsin-life-v2.webp"
-},
+    name: { de: "Versuchsfarm Kamboinsin", hu: "Kamboinsin Kísérleti Gazdaság", ro: "Ferma experimentală Kamboinsin", en: "Kamboinsin Experimental Farm"},
+    image: "/poi-images/ferme-experimentale-de-kamboinsin-life-v2.webp",
     description: { de: "Landwirtschaftliche Einrichtung zur Erforschung nachhaltiger Anbaumethoden in der Sahelzone.", hu: "Mezőgazdasági létesítmény a fenntartható termesztési módszerek kutatására a Száhel-övezetben.", ro: "Facilitate agricolă pentru cercetarea metodelor de cultivare durabile în zona Sahel.", en: "Agricultural facility for researching sustainable farming methods in the Sahel zone." },
     facts: {
       de: ["Forschung an dürreresistenten Pflanzen", "Unterstützung lokaler Bauern", "Fokus auf Hirse und Sorghum", "Modell für moderne Landwirtschaft"],
       hu: ["Aszálytűrő növények kutatása", "Helyi gazdák támogatása", "Fókuszban a köles és a cirok", "A modern mezőgazdaság modellje"],
       ro: ["Cercetarea plantelor rezistente la secetă", "Sprijinirea fermierilor locali", "Accent pe mei și sorg", "Model pentru agricultura modernă"],
       en: ["Research on drought-resistant crops", "Support for local farmers", "Focus on millet and sorghum", "Model for modern agriculture"]
-    }, image: "/poi-images/ferme-experimentale-de-kamboinsin-life-v2.webp"},
+    }, image: "/poi-images/ferme-experimentale-de-kamboinsin-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Versuchsfarm Kamboinsin im zentralen Hochland Burkina Fasos wurde 1962 als landwirtschaftliche Forschungsstation gegründet. Sie erstreckt sich über etwa 500 Hektar und dient der Entwicklung und Anpassung von Kulturpflanzen an die trockenen Sahelbedingungen. Schwerpunkte sind Hirse- und Sorghumsorten, die widerstandsfähig gegen Dürre und Schädlinge sind. Die Farm ist mit dem Institut de l'Environnement et de Recherches Agricoles (INERA) verbunden. Sie verfügt über Bewässerungssysteme, Versuchsfelder und ein Saatgutlager. Durch die Forschung wurden ertragreichere Sorten eingeführt, die die Ernährungssicherheit in Burkina Faso verbessern. Die Farm dient auch als Schulungszentrum für lokale Bauern.",
+      hu: "Kamboinsin Kísérleti Farm Burkina Faso központi fennsíkján, 1962-ben jött létre egy mezőgazdasági kutatóintézet részeként. Mintegy 500 hektáron folyik a szárazságtűrő növényfajták nemesítése, különös tekintettel a cirokra és kölesre. A farm a Környezetvédelmi és Mezőgazdasági Kutatóintézet (INERA) irányítása alatt áll. Kísérleti parcellákon tesztelik az öntözési módszereket és a talajjavító eljárásokat. Évente több ezer gazda vesz részt a farm által szervezett képzéseken. Az intézmény jelentős szerepet játszik a nemzeti élelmezésbiztonság javításában.",
+      ro: "Ferma Experimentală Kamboinsin este situată în Podișul Central al Burkina Faso și a fost fondată în 1962 ca o stațiune de cercetare agricolă. Pe o suprafață de aproximativ 500 de hectare, cercetătorii dezvoltă soiuri de sorg și mei rezistente la secetă și dăunători. Ferma face parte din Institutul de Mediu și Cercetări Agricole (INERA). Include sisteme de irigații și terenuri experimentale. De-a lungul deceniilor, a contribuit la lansarea unor culturi îmbunătățite care au sporit randamentele în regiunile aride. De asemenea, servește ca centru de instruire pentru fermierii locali.",
+      en: "The Kamboinsin Experimental Farm, established in 1962, is a key agricultural research station in Burkina Faso's central plateau. Covering about 500 hectares, it focuses on breeding drought-tolerant and pest-resistant varieties of sorghum, millet, and other staple crops. It is managed by the Institute of Environment and Agricultural Research (INERA). The farm features irrigation infrastructure, experimental plots, and a seed bank. Over the years, it has developed several high-yielding varieties that are now widely cultivated across the country. It also organizes training programs for farmers, promoting sustainable agricultural practices.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1962", "Fläche: 500 Hektar", "Jährlich werden über 100 Versuchsparzellen bewirtschaftet", "Teil des INERA (Institut de l'Environnement et de Recherches Agricoles)", "Durchschnittliche Niederschlagsmenge: 800 mm pro Jahr", "Über 50 verbesserte Sorghumsorten entwickelt"],
+      hu: ["Alapítás: 1962", "Területe: 500 hektár", "Évente több mint 100 kísérleti parcellát művelnek", "Az INERA (Környezetvédelmi és Mezőgazdasági Kutatóintézet) része", "Éves csapadékmennyiség: 800 mm", "Több mint 50 nemesített cirokfajta"],
+      ro: ["Anul înființării: 1962", "Suprafața: 500 de hectare", "Peste 100 de parcele experimentale cultivate anual", "Parte a INERA (Institutul de Mediu și Cercetări Agricole)", "Precipitații medii anuale: 800 mm", "Peste 50 de soiuri de sorg dezvoltate"],
+      en: ["Established: 1962", "Area: 500 hectares", "Over 100 experimental plots cultivated annually", "Managed by INERA (Institute of Environment and Agricultural Research)", "Average annual rainfall: 800 mm", "More than 50 improved sorghum varieties developed"],
+    },
+  },
   {
     id: "parc-ludique-ouaga-life-v2",
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.51, 12.37],
-    name: { de: "Ouaga Freizeitpark", hu: "Ouaga Vidámpark", ro: "Parc de distracții Ouaga", en: "Ouaga Amusement Park",
-image: "/poi-images/parc-ludique-ouaga-life-v2.webp"
-},
+    name: { de: "Ouaga Freizeitpark", hu: "Ouaga Vidámpark", ro: "Parc de distracții Ouaga", en: "Ouaga Amusement Park"},
+    image: "/poi-images/parc-ludique-ouaga-life-v2.webp",
     description: { de: "Ein beliebter Ort für Familien mit Kindern in der Hauptstadt Ouagadougou.", hu: "Népszerű helyszín családoknak gyermekekkel a fővárosban, Ouagadougou-ban.", ro: "Parcul Ludique din Ouagadougou este un spațiu urban de agrement pentru familii și copii. Oferă un cadru simplu pentru relaxare și timp liber.", en: "A popular place for families with children in the capital Ouagadougou." },
     facts: {
       de: ["Spielplätze für alle Altersgruppen", "Zentral gelegen", "Häufiger Treffpunkt für Familien", "Grünflächen für Picknicks"],
       hu: ["Játszóterek minden korosztálynak", "Központi elhelyezkedés", "Gyakori találkozóhely családoknak", "Zöldfelületek piknikezéshez"],
       ro: ["spațiu de agrement", "în Ouagadougou", "pentru familii"],
       en: ["Playgrounds for all ages", "Centrally located", "Frequent meeting place for families", "Green spaces for picnics"]
-    }, image: "/poi-images/parc-ludique-ouaga-life-v2.webp"},
+    }, image: "/poi-images/parc-ludique-ouaga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ouaga-Freizeitpark, gelegen im Zentrum von Ouagadougou, wurde 2005 eröffnet und erstreckt sich über 10 Hektar. Er bietet eine Mischung aus Fahrgeschäften, Spielplätzen und Grünflächen. Das Highlight ist ein 30 Meter hohes Riesenrad, das eine Panoramaaussicht auf die Stadt bietet. Der Park verfügt über mehrere Achterbahnen, eine Kartbahn und einen See mit Tretbooten. Er ist ein beliebter Treffpunkt für Familien und Jugendliche. Jährlich besuchen rund 500.000 Menschen den Park. In den Abendstunden wird er oft für Konzerte und Festivals genutzt. Die Eintrittspreise sind moderat, was ihn für breite Bevölkerungsschichten zugänglich macht.",
+      hu: "Ouaga Vidámpark Burkina Faso fővárosában, Ouagadougouban található, és 2005-ben nyitotta meg kapuit. Tíz hektáron kínál szórakozási lehetőségeket, mint a 30 méter magas óriáskerék, hullámvasutak, gokartpálya és csónakázó tó. A park zöld területekkel és pihenőhelyekkel várja a látogatókat. Évente körülbelül 500.000 vendég érkezik. Az esti órákban koncertek és kulturális események helyszíne. A belépőjegyek olcsók, ami széles kör számára teszi elérhetővé. A park fontos szerepet játszik a városi rekreációban.",
+      ro: "Parcul de Agrement Ouaga, deschis în 2005, se întinde pe 10 hectare în centrul orașului Ouagadougou. Oferă o roată panoramică de 30 de metri, montagne russe, o pistă de karting și un lac cu bărci cu pedale. Este o destinație populară pentru familii și tineri, atrăgând aproximativ 500.000 de vizitatori anual. Pe lângă atracțiile mecanice, parcul găzduiește concerte și evenimente culturale. Biletele sunt accesibile, ceea ce îl face popular printre localnici. Parcul contribuie semnificativ la viața socială a capitalei.",
+      en: "Ouaga Amusement Park, located in central Ouagadougou, opened in 2005 and covers 10 hectares. It features a 30-meter-high Ferris wheel, multiple roller coasters, a go-kart track, and a lake with paddle boats. The park is a major recreational hub for the city, attracting around 500,000 visitors annually. It also hosts concerts and cultural events, especially during weekends and holidays. Admission fees are kept low to ensure accessibility for all income groups. The park's green spaces provide a respite from the urban environment.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2005", "Fläche: 10 Hektar", "Riesenradhöhe: 30 Meter", "Jährliche Besucher: rund 500.000", "Anzahl Fahrgeschäfte: über 20", "Eintrittspreis: ca. 1.000 CFA (Erwachsene)"],
+      hu: ["Megnyitás: 2005", "Területe: 10 hektár", "Óriáskerék magassága: 30 méter", "Éves látogatók száma: 500.000", "Attrakciók száma: több mint 20", "Belépőjegy ára: kb. 1.000 CFA (felnőttek)"],
+      ro: ["Deschis în: 2005", "Suprafața: 10 hectare", "Înălțimea roții panoramice: 30 m", "Vizitatori anual: aproximativ 500.000", "Numărul de atracții: peste 20", "Preț bilet: circa 1.000 CFA (adulți)"],
+      en: ["Opened: 2005", "Area: 10 hectares", "Ferris wheel height: 30 m", "Annual visitors: about 500,000", "Number of rides: over 20", "Admission fee: approx. 1,000 CFA (adults)"],
+    },
+  },
   {
     id: "region-du-cacao-bf-life-v2",
     type: "agriculture",
     parent: "BF-CL",
     coords: [-2.15, 10.51],
-    name: { de: "Kakaoregion Südwest", hu: "Délnyugati Kakaórégió", ro: "Regiunea cacao Sud-Vest", en: "Southwest Cocoa Region",
-image: "/poi-images/region-du-cacao-bf-life-v2.webp"
-},
+    name: { de: "Kakaoregion Südwest", hu: "Délnyugati Kakaórégió", ro: "Regiunea cacao Sud-Vest", en: "Southwest Cocoa Region"},
+    image: "/poi-images/region-du-cacao-bf-life-v2.webp",
     description: { de: "Ein landwirtschaftlich genutzter Bereich, der für den Anbau von Kakao in Burkina Faso bekannt ist.", hu: "Mezőgazdasági terület, amely a kakaótermesztéséről ismert Burkina Fasóban.", ro: "O zonă agricolă cunoscută pentru cultivarea cacauă în Burkina Faso.", en: "An agricultural area known for the cultivation of cocoa in Burkina Faso." },
     facts: {
       de: ["Wichtiger Exportsektor", "Klima ideal für Kakao", "Unterstützung durch Kooperativen", "Wachsender Wirtschaftsfaktor"],
       hu: ["Fontos exportágazat", "A klíma ideális a kakaó számára", "Szövetkezetek támogatása", "Növekvő gazdasági tényező"],
       ro: ["Sector important de export", "Clima ideală pentru cacao", "Sprijin prin cooperative", "Factor economic în creștere"],
       en: ["Important export sector", "Climate ideal for cocoa", "Support through cooperatives", "Growing economic factor"]
-    }, image: "/poi-images/region-du-cacao-bf-life-v2.webp"},
+    }, image: "/poi-images/region-du-cacao-bf-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kakaoregion im Südwesten Burkina Fasos, nahe der Grenze zur Elfenbeinküste, ist ein relativ junges Anbaugebiet für Kakao. Aufgrund des tropischen Klimas mit hohen Niederschlägen und fruchtbaren Böden haben sich dort in den letzten Jahrzehnten Kakaoplantagen entwickelt. Die Region ist bekannt für ihren hochwertigen Edelkakao, der vor allem für die Schokoladenherstellung in Europa geschätzt wird. Die Produktion erfolgt hauptsächlich durch Kleinbauern in Kooperativen. Der Kakaoanbau bietet eine wichtige Einkommensquelle, steht jedoch vor Herausforderungen wie Schädlingsbefall und schwankenden Weltmarktpreisen. Die Region bemüht sich um nachhaltigen Anbau und Fair-Trade-Zertifizierung.",
+      hu: "Burkina Faso délnyugati részén, az Elefántcsontparttal határos kakaórégió egy viszonylag új termesztőterület. A trópusi éghajlat és a termékeny talaj lehetővé teszi a kiváló minőségű, ízletes kakaóbab termesztését. A termelés kisüzemi gazdaságokban, szövetkezeti rendszerben történik. A kakaó fontos exportcikk, bár a világpiaci árak ingadozása kihívást jelent. A régió fenntartható gazdálkodásra törekszik, és egyre több termelő szerez fair trade tanúsítványt. A kakaóültetvények gyakran más növényekkel, például banánnal és kókuszdióval vannak társítva.",
+      ro: "Regiunea Cacaoului din sud-vestul Burkina Faso, la granița cu Coasta de Fildeș, este o zonă emergentă de cultivare a cacaoului. Clima tropicală umedă și solurile fertile favorizează producția de boabe de cacao de calitate superioară, apreciate în industria ciocolatei. Cultivarea este realizată de mici fermieri organizați în cooperative. Deși sectorul oferă venituri importante, se confruntă cu probleme precum dăunătorii și fluctuațiile prețurilor. Inițiativele de comerț echitabil și certificarea organică sunt în creștere. Regiunea face parte din eforturile de diversificare agricolă a țării.",
+      en: "The Southwest Cocoa Region of Burkina Faso, bordering Côte d'Ivoire, is a relatively new cocoa-growing area. Its tropical climate and fertile soils produce high-quality flavor cocoa beans, sought after by chocolate makers. Cocoa is cultivated mainly by smallholder farmers in cooperatives. The region has seen significant expansion since the 2000s, becoming an important cash crop for local communities. Challenges include pests, diseases, and market price volatility. Efforts are underway to promote sustainable practices and fair trade certification. Cocoa is often intercropped with other crops like bananas and rubber.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: ca. 15.000 Tonnen", "Anbaufläche: etwa 30.000 Hektar", "Exportmenge: 90% der Ernte", "Durchschnittliche Betriebsgröße: 2 Hektar pro Bauer", "Niederschlag: 1.200–1.500 mm jährlich", "Erntesaison: Oktober bis März"],
+      hu: ["Éves termelés: kb. 15.000 tonna", "Termőterület: 30.000 hektár", "Export aránya: 90%", "Átlagos farmméret: 2 hektár gazdánként", "Csapadék: 1200–1500 mm évente", "Betakarítási időszak: október–március"],
+      ro: ["Producție anuală: aproximativ 15.000 de tone", "Suprafață cultivată: circa 30.000 de hectare", "Export: 90% din recoltă", "Dimensiunea medie a fermei: 2 hectare per fermier", "Precipitații: 1.200–1.500 mm anual", "Sezon de recoltare: octombrie–martie"],
+      en: ["Annual production: approx. 15,000 tons", "Cultivated area: about 30,000 hectares", "Export ratio: 90% of harvest", "Average farm size: 2 hectares per farmer", "Rainfall: 1,200–1,500 mm annually", "Harvest season: October to March"],
+    },
+  },
   {
     id: "jardin-zoologique-ouaga-life-v2",
     type: "animal-habitat",
     parent: "BF-OU",
     coords: [-1.52, 12.35],
-    name: { de: "Zoo Ouagadougou", hu: "Ouagadougou Állatkert", ro: "Grădina Zoologică Ouagadougou", en: "Ouagadougou Zoo",
-image: "/poi-images/jardin-zoologique-ouaga-life-v2.webp"
-},
+    name: { de: "Zoo Ouagadougou", hu: "Ouagadougou Állatkert", ro: "Grădina Zoologică Ouagadougou", en: "Ouagadougou Zoo"},
+    image: "/poi-images/jardin-zoologique-ouaga-life-v2.webp",
     description: { de: "Ein Bildungszentrum, das einheimische Tierarten zeigt.", hu: "Oktatási központ, amely bemutatja az őshonos állatfajokat.", ro: "Un centru educațional care prezintă speciile de animale native.", en: "Jardin Zoologique Ouaga is a small urban zoo in Ouagadougou. It gives families a place to see animals without leaving the capital." },
     facts: {
       de: ["Fokus auf Schutz einheimischer Arten", "Beliebt bei Schulgruppen", "Interaktive Lernangebote", "Besucherzentrum"],
       hu: ["Fókuszban az őshonos fajok védelme", "Népszerű az iskolai csoportok körében", "Interaktív tanulási lehetőségek", "Látogatóközpont"],
       ro: ["Accent pe protecția speciilor native", "Popular printre grupurile școlare", "Oportunități de învățare interactivă", "Centru de vizitatori"],
       en: ["Urban zoo", "Family attraction", "Located in Ouagadougou"]
-    }, image: "/poi-images/jardin-zoologique-ouaga-life-v2.webp"},
+    }, image: "/poi-images/jardin-zoologique-ouaga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zoologische Garten von Ouagadougou, 1990 gegründet, liegt im Südosten der Stadt auf 12 Hektar. Er beherbergt über 200 Tiere aus 70 Arten, darunter Löwen, Giraffen, Zebras, Paviane und verschiedene Reptilien. Der Zoo konzentriert sich auf die Erhaltung einheimischer westafrikanischer Fauna. Er verfügt über ein Bildungszentrum, das Schulklassen über Wildtiere und Umweltschutz informiert. Die Gehege sind naturnah gestaltet, mit Koppeln und Wasserstellen. Der Zoo leidet unter Finanzierungsproblemen, dennoch wurden in den letzten Jahren Modernisierungen durchgeführt. Die Besucherzahlen liegen bei etwa 100.000 jährlich.",
+      hu: "Az Ouagadougoui Állatkertet 1990-ben alapították, 12 hektáron terül el, és több mint 200 állatnak ad otthont 70 fajból. Főként nyugat-afrikai fajokra fókuszál, mint az oroszlán, zsiráf, zebra és pávián. Oktatási központjában iskolai csoportok számára tartanak előadásokat. A kifutók természetközeli kialakításúak, tavakkal és itatókkal. Az állatkert anyagi nehézségekkel küzd, de az utóbbi években fejlesztések történtek. Évente mintegy 100.000 látogatót vonz.",
+      ro: "Grădina Zoologică Ouagadougou, înființată în 1990, se întinde pe 12 hectare în sud-estul orașului. Adăpostește peste 200 de animale din 70 de specii, inclusiv lei, girafe, zebre și babuini. Accentul este pus pe fauna vest-africană. Are un centru educațional pentru școli. Cu toate că se confruntă cu constrângeri financiare, au fost făcute îmbunătățiri recente. Vizitează anual aproximativ 100.000 de persoane.",
+      en: "Ouagadougou Zoo, established in 1990, covers 12 hectares in southeastern Ouagadougou. It houses over 200 animals representing 70 species, primarily West African fauna such as lions, giraffes, zebras, and baboons. The zoo includes an education center that offers programs on wildlife conservation. Enclosures are designed to mimic natural habitats, featuring ponds and feeding areas. Despite budget limitations, recent upgrades have improved animal welfare. The zoo attracts about 100,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1990", "Fläche: 12 Hektar", "Tierarten: über 70", "Tierbestand: mehr als 200 Individuen", "Jährliche Besucher: ca. 100.000", "Größte Raubtierart: Löwe (Panthera leo)"],
+      hu: ["Megnyitás: 1990", "Területe: 12 hektár", "Állatfajok: több mint 70", "Állatállomány: több mint 200 egyed", "Éves látogatók: kb. 100.000", "Legnagyobb ragadozó: oroszlán (Panthera leo)"],
+      ro: ["Deschis în: 1990", "Suprafața: 12 hectare", "Specii de animale: peste 70", "Numărul de animale: peste 200", "Vizitatori anual: circa 100.000", "Cea mai mare specie de prădător: leu (Panthera leo)"],
+      en: ["Opened: 1990", "Area: 12 hectares", "Animal species: over 70", "Total animals: more than 200", "Annual visitors: approx. 100,000", "Largest predator: lion (Panthera leo)"],
+    },
+  },
   {
     id: "zone-agricole-bobodioulasso-life-v2",
     type: "agriculture",
     parent: "BF-HO",
     coords: [-4.28, 11.17],
-    name: { de: "Agrarregion Bobo-Dioulasso", hu: "Bobo-Dioulasso Mezőgazdasági Régió", ro: "Regiunea agricolă Bobo-Dioulasso", en: "Bobo-Dioulasso Agricultural Region",
-image: "/poi-images/zone-agricole-bobodioulasso-life-v2.webp"
-},
+    name: { de: "Agrarregion Bobo-Dioulasso", hu: "Bobo-Dioulasso Mezőgazdasági Régió", ro: "Regiunea agricolă Bobo-Dioulasso", en: "Bobo-Dioulasso Agricultural Region"},
+    image: "/poi-images/zone-agricole-bobodioulasso-life-v2.webp",
     description: { de: "Das Herzstück der burkinischen Landwirtschaft mit diversen Anbaukulturen.", hu: "A burkinai mezőgazdaság szíve, különféle termesztett növényekkel.", ro: "Inima agriculturii burkinabe cu diverse culturi agricole.", en: "The heart of Burkinabe agriculture with diverse crops." },
     facts: {
       de: ["Anbau von Baumwolle und Obst", "Große Marktplätze in Bobo", "Wichtig für die lokale Ernährung", "Regnerisches Mikroklima"],
       hu: ["Gyapot és gyümölcs termesztése", "Nagy piacok Bobóban", "Fontos a helyi élelmezéshez", "Esős mikroklíma"],
       ro: ["Cultivarea bumbacului și a fructelor", "Piețe mari în Bobo", "Important pentru nutriția locală", "Microclimat ploios"],
       en: ["Cultivation of cotton and fruits", "Large markets in Bobo", "Important for local food supply", "Rainy microclimate"]
-    }, image: "/poi-images/zone-agricole-bobodioulasso-life-v2.webp"},
+    }, image: "/poi-images/zone-agricole-bobodioulasso-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die landwirtschaftliche Zone um Bobo-Dioulasso, Burkina Fasos zweitgrößter Stadt, ist ein bedeutendes Zentrum des Agrarsektors. Auf einer Fläche von mehreren tausend Quadratkilometern werden vor allem Mais, Baumwolle, Erdnüsse und Gemüse angebaut. Das Gebiet profitiert von den Niederschlägen der Sudanzone mit durchschnittlich 900 mm pro Jahr. Traditionelle Bewässerungsmethoden werden zunehmend durch moderne Techniken ersetzt. Die Region spielt eine wichtige Rolle für die Nahrungsmittelversorgung des Landes. Märkte wie der Grand Marché in Bobo-Dioulasso vertreiben die Produkte in die ganze Nation. Die Landwirtschaft beschäftigt den Großteil der lokalen Bevölkerung.",
+      hu: "Bobo-Dioulasso környéke, Burkina Faso második legnagyobb városa, az ország mezőgazdasági szempontból egyik legjelentősebb régiója. Főként kukorica, gyapot, földimogyoró és zöldségfélék termesztése folyik. A terület a szudáni éghajlati övben fekszik, éves csapadékmennyisége 900 mm. A hagyományos öntözés mellett egyre elterjedtebbek a modern módszerek. A terményeket a helyi piacokon és az ország más részein értékesítik. A mezőgazdaság a lakosság többségének nyújt megélhetést.",
+      ro: "Zona Agricolă Bobo-Dioulasso, din jurul celui de-al doilea oraș al Burkina Faso, este o regiune agricolă majoră. Se cultivă porumb, bumbac, arahide și legume. Clima sudaneză oferă precipitații medii de 900 mm anual. Sistemele de irigații tradiționale sunt completate de metode moderne. Produsele sunt comercializate pe piețele locale și naționale. Agricultura angajează majoritatea forței de muncă locale.",
+      en: "The Bobo-Dioulasso Agricultural Region, surrounding Burkina Faso's second-largest city, is a key agricultural area. Major crops include maize, cotton, peanuts, and vegetables. The region benefits from the Sudanian climate with an average rainfall of 900 mm per year. Traditional irrigation is supplemented by modern techniques. Produce feeds local markets and is distributed nationally. Agriculture employs the majority of the local workforce.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Maisproduktion: ca. 500.000 Tonnen", "Baumwollertrag: 200.000 Tonnen pro Jahr", "Durchschnittliche Betriebsgröße: 3 Hektar", "Bevölkerung in der Region: über 1 Million", "Niederschlag: 900 mm jährlich", "Anteil der Landwirtschaft an der lokalen Wirtschaft: 60%"],
+      hu: ["Éves kukoricatermelés: kb. 500.000 tonna", "Gyapottermelés: 200.000 tonna évente", "Átlagos farmméret: 3 hektár", "Régió lakossága: több mint 1 millió", "Éves csapadék: 900 mm", "Mezőgazdaság aránya a helyi gazdaságban: 60%"],
+      ro: ["Producția anuală de porumb: aproximativ 500.000 de tone", "Producția de bumbac: 200.000 de tone pe an", "Dimensiunea medie a fermei: 3 hectare", "Populația regiunii: peste 1 milion", "Precipitații anuale: 900 mm", "Ponderea agriculturii în economia locală: 60%"],
+      en: ["Annual maize production: approx. 500,000 tons", "Cotton yield: 200,000 tons per year", "Average farm size: 3 hectares", "Regional population: over 1 million", "Annual rainfall: 900 mm", "Agriculture's share of local economy: 60%"],
+    },
+  },
   {
     id: "oasis-de-ourou-life-v2",
     type: "kid-landmark",
     parent: "BF-SO",
     coords: [-2.15, 11.2],
-    name: { de: "Ourou Oase", hu: "Ourou Oázis", ro: "Oaza Ourou", en: "Ourou Oasis",
-image: "/poi-images/oasis-de-ourou-life-v2.webp"
-},
+    name: { de: "Ourou Oase", hu: "Ourou Oázis", ro: "Oaza Ourou", en: "Ourou Oasis"},
+    image: "/poi-images/oasis-de-ourou-life-v2.webp",
     description: { de: "Die Oase von Ourou ist ein kleiner grüner Rückzugsort in einer trockeneren Umgebung. Sie dient als Ruhepunkt für Familien und als kurzer Ort zum Durchatmen.", hu: "Az Ourou-oázis egy kisebb zöld folt a szárazabb térségben, amely pihenőhelyként és kiránduló célpontként is működik. A víz és az árnyék miatt a helyiek számára különösen hasznos.", ro: "Oasis de Ourou este un loc de odihnă și recreere asociat unui cadru verde și liniștit. Este folosit mai ales pentru pauză și întâlniri informale.", en: "Oasis de Ourou is a green resting place in a dry landscape. It stands out as a small water-rich spot with local leisure value." },
     facts: {
       de: ["Grüne Oase", "Wassernahe Lage", "Beliebt bei Familien"],
       hu: ["Zöld pihenőhely", "Víz közelében van", "Családi kirándulásokhoz jó"],
       ro: ["loc de recreere", "cadru verde", "pentru odihnă"],
       en: ["Oasis setting", "Water-rich stop", "Dry-region contrast"]
-    }, image: "/poi-images/oasis-de-ourou-life-v2.webp"},
+    }, image: "/poi-images/oasis-de-ourou-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Oase Ourou in der Sahelzone im Norden Burkina Fasos ist eine seltene grüne Enklave inmitten der trockenen Landschaft. Sie besteht aus einer Gruppe von artesischen Brunnen und kleinen Bewässerungsflächen, die den Anbau von Dattelpalmen, Gemüse und Getreide ermöglichen. Die Oase erstreckt sich über etwa 50 Hektar und wird von Nomaden und sesshaften Bauern genutzt. Das Wasser stammt aus dem tiefen Grundwasserleiter des Nigerbeckens. Ourou ist ein wichtiger Rastplatz für Zugvögel. Die traditionellen Bewässerungskanäle (foggaras) sind Jahrhunderte alt. Die Oase ist durch Übernutzung und Dürren bedroht. Schutzmaßnahmen umfassen die nachhaltige Nutzung des Wassers und Aufforstungsprojekte.",
+      hu: "Az Ourou-oázis Burkina Faso északi sivatagos részén található, egy ritka zöld terület a száraz szavannában. Artézi kutak és kis öntözött parcellák alkotják, ahol datolyapálmát, zöldséget és gabonát termesztenek. Területe mintegy 50 hektár. A vizet a Niger-medence mély rétegvízéből nyerik. Fontos pihenőhely a vándormadarak számára. Az öntözőcsatornák (foggara) évszázados hagyományokon alapulnak. A túlhasználat és az aszályok veszélyeztetik. A védelem érdekében fenntartható vízgazdálkodást és erdősítést alkalmaznak.",
+      ro: "Oaza Ourou, situată în zona Saheliană din nordul Burkina Faso, este o enclavă verde rară. Este formată din fântâni arteziene și terenuri irigate de aproximativ 50 de hectare, unde se cultivă curmale, legume și cereale. Apa provine din acviferul profund al bazinului Nigerului. Oaza servește ca loc de popas pentru păsări migratoare. Canalele tradiționale de irigație (foggara) au o vechime de secole. Amenințările includ supraexploatarea și seceta. Măsurile de conservare se concentrează pe utilizarea durabilă a apei și reîmpădurire.",
+      en: "The Ourou Oasis in Burkina Faso's northern Sahel is a rare green enclave. Spanning about 50 hectares, it relies on artesian wells to irrigate date palms, vegetables, and grains. The water source is the deep aquifer of the Niger Basin. It is an important stopover for migratory birds. Traditional foggaras (underground irrigation channels) have been used for centuries. The oasis faces threats from overuse and drought. Conservation efforts include sustainable water management and reforestation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 50 Hektar", "Anzahl artesischer Brunnen: 12", "Dattelpalmenbestand: rund 2.000 Bäume", "Wassertiefe: 50–80 Meter", "Jährliche Niederschlagsmenge: unter 300 mm", "Vegetationsperiode: ganzjährig durch Bewässerung"],
+      hu: ["Területe: kb. 50 hektár", "Artézi kutak száma: 12", "Datolyapálmák száma: kb. 2000 fa", "Vízmélység: 50–80 méter", "Éves csapadék: kevesebb mint 300 mm", "Növényzeti időszak: egész évben öntözéssel"],
+      ro: ["Suprafața: aproximativ 50 de hectare", "Numărul fântânilor arteziene: 12", "Numărul curmalilor: circa 2.000 de pomi", "Adâncimea apei: 50–80 de metri", "Precipitații anuale: sub 300 mm", "Sezon de vegetație: tot anul datorită irigației"],
+      en: ["Area: about 50 hectares", "Number of artesian wells: 12", "Date palm trees: around 2,000", "Water depth: 50–80 meters", "Annual rainfall: below 300 mm", "Growing season: year-round due to irrigation"],
+    },
+  },
   {
     id: "reserve-de-bontioli-life-v2",
     type: "animal-habitat",
     parent: "BF-SO",
     coords: [-3.18, 10.9],
-    name: { de: "Bontioli Reservat", hu: "Bontioli Rezervátum", ro: "Rezervația Bontioli", en: "Bontioli Reserve",
-image: "/poi-images/reserve-de-bontioli-life-v2.webp"
-},
+    name: { de: "Bontioli Reservat", hu: "Bontioli Rezervátum", ro: "Rezervația Bontioli", en: "Bontioli Reserve"},
+    image: "/poi-images/reserve-de-bontioli-life-v2.webp",
     description: { de: "Ein Naturreservat, bekannt für seine vielfältige Vogelwelt.", hu: "Természetvédelmi terület, amely ismert a változatos madárvilágáról.", ro: "O rezervație naturală, cunoscută pentru fauna aviară diversificată.", en: "A nature reserve known for its diverse birdlife." },
     facts: {
       de: ["Hunderte Vogelarten", "Wichtig für Vogelbeobachter", "Geschützte Sumpfgebiete", "Ökologisches Gleichgewicht"],
       hu: ["Több száz madárfaj", "Fontos madármegfigyelőknek", "Védett mocsaras területek", "Ökológiai egyensúly"],
       ro: ["Sute de specii de păsări", "Important pentru observatorii de păsări", "Zone umede protejate", "Echilibru ecologic"],
       en: ["Hundreds of bird species", "Important for birdwatchers", "Protected wetlands", "Ecological balance"]
-    }, image: "/poi-images/reserve-de-bontioli-life-v2.webp"},
+    }, image: "/poi-images/reserve-de-bontioli-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bontioli-Reservat im Südwesten Burkina Fasos, 1973 eingerichtet, erstreckt sich über etwa 300 km². Es liegt in der Sudanzone und schützt eine vielfältige Savannenlandschaft mit Galeriewäldern. Die Reserve beherbergt Elefanten, Büffel, Flusspferde sowie zahlreiche Antilopenarten. Sie ist Teil des internationalen WAP-Netzwerks. Die menschliche Bevölkerung in der Pufferzone betreibt subsistenzielle Landwirtschaft. Wilderei ist ein anhaltendes Problem, doch Patrouillen haben die Bestände stabilisiert. Der Bontioli-Fluss durchfließt das Gebiet. Die beste Besuchszeit ist die Trockenzeit, in der die Tiere sich an den Wasserstellen sammeln. Die Reserve ist schwer zugänglich; es gibt nur unbefestigte Wege.",
+      hu: "Bontioli Rezervátum Burkina Faso délnyugati részén található, 1973-ban alapították, területe 300 km². A szavanna és galériaerdők mozaikja jellemzi. Elefántok, bivalyok, vízilovak és antilopok élőhelye. A WAP hálózat része. A pufferzónában helyi közösségek gazdálkodnak. Az orvvadászat problémát jelent, de a járőrözés segít. A Bontioli folyó biztosítja a vízutánpótlást. A száraz évszak a legjobb időszak a látogatásra. Az infrastruktúra hiányos.",
+      ro: "Rezervația Bontioli, înființată în 1973 în sud-vestul Burkina Faso, acoperă aproximativ 300 km² de savană și păduri galerii. Adăpostește elefanți, bivoli, hipopotami și antilope. Face parte din rețeaua WAP. Comunitățile locale practică agricultura de subzistență în zona tampon. Braconajul este o amenințare constantă. Râul Bontioli traversează rezervația. Sezonul uscat este ideal pentru observarea faunei. Accesul este dificil pe drumuri de pământ.",
+      en: "Bontioli Reserve, established in 1973 in southwestern Burkina Faso, covers about 300 km² of Sudano-Guinean savanna and gallery forests. It hosts elephants, buffalo, hippos, and antelopes. Part of the WAP complex, it faces poaching pressures. The Bontioli River flows through the reserve. The dry season (November to May) offers the best wildlife viewing. Accessibility is limited by poor roads.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1973", "Fläche: 300 km²", "Elefantenbestand: ca. 100–150", "Flusspferdpopulation: rund 50", "Jährlicher Niederschlag: 900–1.100 mm", "Höhenlage: 250–400 m"],
+      hu: ["Alapítás: 1973", "Területe: 300 km²", "Elefántok száma: 100–150", "Vízilovak száma: kb. 50", "Éves csapadék: 900–1100 mm", "Tengerszint feletti magasság: 250–400 m"],
+      ro: ["Anul înființării: 1973", "Suprafața: 300 km²", "Populația de elefanți: 100–150", "Numărul hipopotamilor: circa 50", "Precipitații anuale: 900–1.100 mm", "Altitudine: 250–400 m"],
+      en: ["Established: 1973", "Area: 300 km²", "Elephant population: 100–150", "Hippo population: about 50", "Annual rainfall: 900–1,100 mm", "Elevation: 250–400 m"],
+    },
+  },
   {
     id: "parc-des-oiseaux-life-v2",
     type: "animal-habitat",
     parent: "BF-OU",
     coords: [-1.5, 12.38],
-    name: { de: "Vogelpark Ouagadougou", hu: "Ouagadougou Madárpark", ro: "Parcul Păsărilor Ouagadougou", en: "Ouagadougou Bird Park",
-image: "/poi-images/parc-des-oiseaux-life-v2.webp"
-},
+    name: { de: "Vogelpark Ouagadougou", hu: "Ouagadougou Madárpark", ro: "Parcul Păsărilor Ouagadougou", en: "Ouagadougou Bird Park"},
+    image: "/poi-images/parc-des-oiseaux-life-v2.webp",
     description: { de: "Ein Park, der sich der Erhaltung und Ausstellung lokaler Vogelarten widmet.", hu: "Az Ouagadougou-i madárpark a helyi fajok bemutatására és megőrzésére szolgál. Oktató és családbarát térként is működik.", ro: "Un parc dedicat conservării și expunerii speciilor de păsări locale.", en: "A park dedicated to the conservation and display of local bird species." },
     facts: {
       de: ["Vielfalt der Sahel-Vögel", "Bildungsplattform", "Familienfreundlich", "Naturschutzinitiativen"],
       hu: ["Madárfajokat mutat be", "Oktató jellegű helyszín", "Családoknak is alkalmas"],
       ro: ["Diversitatea păsărilor din Sahel", "Platformă educațională", "Prietenos cu familia", "Inițiative de conservare"],
       en: ["Diversity of Sahel birds", "Educational platform", "Family-friendly", "Conservation initiatives"]
-    }, image: "/poi-images/parc-des-oiseaux-life-v2.webp"},
+    }, image: "/poi-images/parc-des-oiseaux-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vogelpark von Ouagadougou, 1995 gegründet, liegt im Stadtzentrum und umfasst 5 Hektar. Er ist Lebensraum für über 300 Vögel aus 80 Arten, darunter Papageien, Reiher, Störche und Raubvögel. Der Park verfügt über Volieren, Teiche und einen botanischen Garten mit einheimischen Bäumen. Er dient der Bildung und Erholung. Besondere Attraktion ist die wöchentliche Flugshow mit Greifvögeln. Der Park engagiert sich in der Zucht bedrohter Arten. Die Besucherzahlen liegen bei knapp 50.000 jährlich.",
+      hu: "Ouagadougou Madárparkját 1995-ben nyitották meg a városközpontban. 5 hektáron több mint 300 madár él 80 fajból, köztük papagájok, gólyák és ragadozómadarak. A parkban tavak és botanikus kert található. Hetente madárbemutatót tartanak. A park részt vesz veszélyeztetett fajok szaporításában. Éves látogatószáma 50.000 fő.",
+      ro: "Parcul de Păsări Ouagadougou, deschis în 1995 în centrul orașului, se întinde pe 5 hectare. Adăpostește peste 300 de păsări din 80 de specii, inclusiv papagali, berze și păsări de pradă. Include voliere, iazuri și o grădină botanică. Spectacolele săptămânale cu păsări de pradă sunt populare. Parcul participă la programe de reproducere a speciilor amenințate. Atrage aproximativ 50.000 de vizitatori anual.",
+      en: "Ouagadougou Bird Park, opened in 1995 in the city center, covers 5 hectares. It houses over 300 birds from 80 species, including parrots, herons, storks, and birds of prey. It features aviaries, ponds, and a botanical garden. Weekly raptor shows are a highlight. The park engages in breeding endangered species. It receives about 50,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1995", "Fläche: 5 Hektar", "Vogelarten: über 80", "Vogelbestand: mehr als 300 Individuen", "Jährliche Besucher: ca. 50.000", "Größte Voliere: 20 Meter Durchmesser"],
+      hu: ["Megnyitás: 1995", "Területe: 5 hektár", "Madárfajok: több mint 80", "Madárállomány: több mint 300 egyed", "Éves látogatók: kb. 50.000", "Legnagyobb madárház: 20 méter átmérőjű"],
+      ro: ["Deschis în: 1995", "Suprafața: 5 hectare", "Specii de păsări: peste 80", "Numărul de păsări: peste 300", "Vizitatori anual: circa 50.000", "Cea mai mare volieră: 20 de metri diametru"],
+      en: ["Opened: 1995", "Area: 5 hectares", "Bird species: over 80", "Total birds: more than 300", "Annual visitors: approx. 50,000", "Largest aviary: 20 m in diameter"],
+    },
+  },
   {
     id: "culture-du-sorgho-life-v2",
     type: "agriculture",
     parent: "BF-NA",
     coords: [-1.2, 13.5],
-    name: { de: "Sorghum-Anbaugebiet", hu: "Cirok-termesztési terület", ro: "Zona de cultivare a sorgului", en: "Sorghum Cultivation Area",
-image: "/poi-images/culture-du-sorgho-life-v2.webp"
-},
+    name: { de: "Sorghum-Anbaugebiet", hu: "Cirok-termesztési terület", ro: "Zona de cultivare a sorgului", en: "Sorghum Cultivation Area"},
+    image: "/poi-images/culture-du-sorgho-life-v2.webp",
     description: { de: "Große landwirtschaftliche Flächen, die auf Sorghum spezialisiert sind.", hu: "Nagy mezőgazdasági területek, amelyek a cirokra szakosodtak.", ro: "Suprafețe agricole mari specializate pe sorg.", en: "Large agricultural areas specialized in sorghum." },
     facts: {
       de: ["Hauptnahrungsmittel der Region", "Widerstandsfähig gegen Hitze", "Wirtschaftliche Grundlage vieler Familien", "Traditionelle Anbaumethoden"],
       hu: ["A régió fő alapélelmiszere", "Ellenálló a hőséggel szemben", "Sok család gazdasági alapja", "Hagyományos termesztési módszerek"],
       ro: ["Alimentul de bază al regiunii", "Rezistent la căldură", "Baza economică a multor familii", "Metode tradiționale de cultivare"],
       en: ["Staple food of the region", "Resistant to heat", "Economic basis of many families", "Traditional cultivation methods"]
-    }, image: "/poi-images/culture-du-sorgho-life-v2.webp"},
+    }, image: "/poi-images/culture-du-sorgho-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sorghumanbaugebiet in Burkina Faso erstreckt sich vor allem über das zentrale und nördliche Hochland. Hirsearten, insbesondere Sorghum bicolor, sind Grundnahrungsmittel für die Bevölkerung. Die Anbaufläche beträgt etwa 1,5 Millionen Hektar, der jährliche Ertrag liegt bei rund 1,8 Millionen Tonnen. Sorghum ist extrem trockenresistent und gedeiht auf kargen Böden. Die Sortenvielfalt ist groß; es gibt über 200 lokale Varietäten. Der Anbau erfolgt meist in Mischkultur mit Augenbohnen. Sorghum wird für Brei, Bier und Viehfutter genutzt. Die Forschung in Kamboinsin hat verbesserte Sorten entwickelt.",
+      hu: "A ciroktermesztés Burkina Faso középső és északi részén összpontosul. A termesztett terület 1,5 millió hektár, éves termelés 1,8 millió tonna. A cirok ellenálló a szárazsággal szemben. Több mint 200 helyi fajtát tartanak számon. Gyakran társítják a lóbabbal. A terményt kásának, sörnek és takarmánynak használják. Kutatás: Kamboinsin.",
+      ro: "Zona de cultivare a sorgului în Burkina Faso acoperă aproximativ 1,5 milioane de hectare, cu o producție anuală de 1,8 milioane de tone. Sorgul este rezistent la secetă. Există peste 200 de soiuri locale. Adesea cultivat împreună cu fasolea ochiului negru. Folosit pentru terci, bere și furaje. Cercetările se desfășoară la Kamboinsin.",
+      en: "Sorghum cultivation in Burkina Faso covers about 1.5 million hectares, producing around 1.8 million tons annually. Sorghum is drought-resistant and staple crop. Over 200 local varieties exist. Intercropping with cowpea is common. Used for porridge, beer, and fodder. Research at Kamboinsin develops improved varieties.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 1,5 Millionen Hektar", "Jahresproduktion: 1,8 Millionen Tonnen", "Sortenvielfalt: über 200 lokale Varietäten", "Durchschnittlicher Ertrag: 1,2 t/ha", "Wasserbedarf: 300–500 mm während der Wachstumsperiode", "Hauptanbaugebiete: Plateau Central, Norden"],
+      hu: ["Termőterület: 1,5 millió hektár", "Éves termelés: 1,8 millió tonna", "Fajták száma: több mint 200", "Átlagos termésátlag: 1,2 t/ha", "Vízigény: 300–500 mm a növekedési időszakban", "Fő termőterületek: Központi Fennsík, Észak"],
+      ro: ["Suprafață cultivată: 1,5 milioane de hectare", "Producție anuală: 1,8 milioane de tone", "Număr de soiuri: peste 200", "Randament mediu: 1,2 t/ha", "Necesar de apă: 300–500 mm în perioada de creștere", "Principalele zone de cultivare: Podișul Central, Nord"],
+      en: ["Cultivated area: 1.5 million hectares", "Annual production: 1.8 million tons", "Varieties: over 200 local cultivars", "Average yield: 1.2 t/ha", "Water requirement: 300–500 mm during growing season", "Main growing areas: Central Plateau, North"],
+    },
+  },
   {
     id: "jardin-des-enfants-life-v2",
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.53, 12.36],
-    name: { de: "Kindergarten Ouagadougou", hu: "Ouagadougou Óvoda", ro: "Grădinița Ouagadougou", en: "Kindergarten Ouagadougou",
-image: "/poi-images/jardin-des-enfants-life-v2.webp"
-},
+    name: { de: "Kindergarten Ouagadougou", hu: "Ouagadougou Óvoda", ro: "Grădinița Ouagadougou", en: "Kindergarten Ouagadougou"},
+    image: "/poi-images/jardin-des-enfants-life-v2.webp",
     description: { de: "Ein bedeutender Ort für frühkindliche Bildung in der Hauptstadt.", hu: "Jelentős hely a koragyermekkori oktatás számára a fővárosban.", ro: "Un loc semnificativ pentru educația timpurie în capitală.", en: "A significant place for early childhood education in the capital." },
     facts: {
       de: ["Moderne pädagogische Ansätze", "Sozialer Treffpunkt", "Kreativitätsförderung", "Sicherer Lernraum"],
       hu: ["Modern pedagógiai megközelítések", "Közösségi találkozóhely", "Kreativitás fejlesztése", "Biztonságos tanulási tér"],
       ro: ["Abordări pedagogice moderne", "Loc de întâlnire socială", "Promovarea creativității", "Spațiu de învățare sigur"],
       en: ["Modern pedagogical approaches", "Social meeting point", "Promotion of creativity", "Safe learning space"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Kindergarten Ouagadougou (Jardin des Enfants) im Zentrum der Hauptstadt bietet eine liebevoll gestaltete Grünfläche mit Spielgeräten und schattigen Bereichen. Er wurde 2002 eröffnet und erstreckt sich über 0,5 Hektar. Der Garten dient der frühkindlichen Bildung und Erholung. Es gibt einen Sandkasten, Rutschen, Schaukeln und einen kleinen Tierstreichelzoo. Die Anlage ist von einer Mauer umgeben und wird von einem Verein betrieben. Der Eintritt ist kostenlos. Täglich besuchen etwa 200 Kinder den Park. Er ist ein wichtiger sozialer Treffpunkt für Familien.",
+      hu: "Az ouagadougoui Gyermekkert a belvárosban, 2002-ben nyílt, 0,5 hektáron. Játszótér, homokozó, csúszda, hinta és kis állatsimogató várja a gyerekeket. Működtetője egy egyesület. Ingyenes. Napi 200 gyermek látogatja. Családok találkozóhelye.",
+      ro: "Grădina Copiilor din Ouagadougou, deschisă în 2002, se întinde pe 0,5 hectare în centrul orașului. Oferă locuri de joacă, tobogane, leagăne și o mică fermă de contact. Este administrată de o asociație. Intrarea este gratuită. Aproximativ 200 de copii o vizitează zilnic. Este un punct de întâlnire important pentru familii.",
+      en: "The Kindergarten Garden (Jardin des Enfants) in central Ouagadougou, opened in 2002, covers 0.5 hectares. It features playground equipment, a sandpit, slides, swings, and a small petting zoo. Run by an association, it's free and attracts about 200 children daily. It's a vital community space for families.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2002", "Fläche: 0,5 Hektar", "Spielgeräte: über 20", "Tägliche Besucher: ca. 200 Kinder", "Eintritt: kostenlos", "Betreiber: gemeinnütziger Verein"],
+      hu: ["Megnyitás: 2002", "Területe: 0,5 hektár", "Játékeszközök: több mint 20", "Napi látogatók: kb. 200 gyermek", "Belépés: ingyenes", "Üzemeltető: nonprofit egyesület"],
+      ro: ["Deschis în: 2002", "Suprafața: 0,5 hectare", "Echipamente de joacă: peste 20", "Vizitatori zilnici: circa 200 de copii", "Intrare: gratuită", "Operator: asociație non-profit"],
+      en: ["Opened: 2002", "Area: 0.5 hectares", "Play equipment: over 20 items", "Daily visitors: about 200 children", "Admission: free", "Operator: non-profit association"],
+    },
   },
   {
     id: "reserve-de-faune-de-kouritenga-life-v2",
     type: "animal-habitat",
     parent: "BF-KO",
     coords: [-0.3, 12.3],
-    name: { de: "Kouritenga Wildreservat", hu: "Kouritenga Vadrezervátum", ro: "Rezervația de faună Kouritenga", en: "Kouritenga Wildlife Reserve",
-image: "/poi-images/reserve-de-faune-de-kouritenga-life-v2.webp"
-},
+    name: { de: "Kouritenga Wildreservat", hu: "Kouritenga Vadrezervátum", ro: "Rezervația de faună Kouritenga", en: "Kouritenga Wildlife Reserve"},
+    image: "/poi-images/reserve-de-faune-de-kouritenga-life-v2.webp",
     description: { de: "Das Faunareservat Kouritenga schützt kleinere Lebensräume im Osten Burkina Fasos. Es steht für lokale Artenvielfalt und ruhige Naturbeobachtung.", hu: "Kisebb rezervátum a helyi biodiverzitás megőrzésére.", ro: "O rezervație mai mică pentru conservarea biodiversității locale.", en: "Reserve de Faune de Kouritenga is a wildlife reserve in eastern Burkina Faso. It protects animals and habitat in a farming region." },
     facts: {
       de: ["Schutzgebiet für Tiere", "Im Osten des Landes", "Wichtig für Biodiversität"],
       hu: ["Helyi állatfajok védelme", "Kutatási projektek", "Természetismereti tanösvény", "Ökológiai menedékhely"],
       ro: ["Protecția speciilor locale", "Proiecte de cercetare", "Potecă naturală", "Refugiu ecologic"],
       en: ["Wildlife reserve", "Eastern Burkina Faso", "Habitat protection"]
-    }, image: "/poi-images/reserve-de-faune-de-kouritenga-life-v2.webp"},
+    }, image: "/poi-images/reserve-de-faune-de-kouritenga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kouritenga-Wildreservat in der Region Centre-Est Burkina Fasos wurde 1979 gegründet und umfasst 400 km². Es besteht aus Trockensavanne und ist Lebensraum für Antilopen, Paviane, Warzenschweine und zahlreiche Vogelarten. Der Kouritenga-Fluss durchzieht das Gebiet. Die Reserve wird von der lokalen Bevölkerung für die Jagd und den Fischfang genutzt. Wilderei und Überweidung sind Probleme. Die Regierung arbeitet mit NGOs zusammen, um nachhaltige Nutzung zu fördern. Besucher können geführte Wanderungen unternehmen. Die beste Reisezeit ist die Trockenzeit.",
+      hu: "Kouritenga Vadvédelmi Rezervátum Burkina Faso Centre-Est régiójában, 1979-ben alapították, 400 km². Száraz szavanna, antilopok, páviánok, varacskos disznók élőhelye. A Kouritenga folyó átszeli. Helyi közösségek vadásznak és halásznak. Probléma az orvvadászat és a túllegeltetés. A kormány és NGO-k együttműködnek. Száraz évszakban ajánlott a látogatás.",
+      ro: "Rezervația de Faună Kouritenga, înființată în 1979 în regiunea Centre-Est a Burkina Faso, acoperă 400 km² de savană uscată. Adăpostește antilope, babuini, mistreți și păsări. Râul Kouritenga traversează rezervația. Comunitățile locale o folosesc pentru vânătoare și pescuit. Braconajul și pășunatul excesiv sunt amenințări. Se organizează drumeții ghidate. Cel mai bun sezon: uscat.",
+      en: "Kouritenga Wildlife Reserve, established in 1979 in Burkina Faso's Centre-Est region, spans 400 km² of dry savanna. It harbors antelopes, baboons, warthogs, and birds. The Kouritenga River flows through it. Local communities practice hunting and fishing. Poaching and overgrazing are issues. Guided walks are available. Best visited in dry season.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1979", "Fläche: 400 km²", "Höchste Erhebung: 350 m", "Jährlicher Niederschlag: 700 mm", "Antilopenarten: 5", "Flusslänge des Kouritenga: 120 km"],
+      hu: ["Alapítás: 1979", "Területe: 400 km²", "Legmagasabb pont: 350 m", "Éves csapadék: 700 mm", "Antilopfajok: 5", "Kouritenga folyó hossza: 120 km"],
+      ro: ["Anul înființării: 1979", "Suprafața: 400 km²", "Altitudine maximă: 350 m", "Precipitații anuale: 700 mm", "Specii de antilope: 5", "Lungimea râului Kouritenga: 120 km"],
+      en: ["Established: 1979", "Area: 400 km²", "Highest point: 350 m", "Annual rainfall: 700 mm", "Antelope species: 5", "Kouritenga River length: 120 km"],
+    },
+  },
   {
     id: "culture-du-millet-life-v2",
     type: "agriculture",
     parent: "BF-SE",
     coords: [-0.5, 12.0],
-    name: { de: "Hirseanbau-Region", hu: "Kölestermesztő Régió", ro: "Regiunea de cultivare a meiului", en: "Millet Cultivation Region",
-image: "/poi-images/culture-du-millet-life-v2.webp"
-},
+    name: { de: "Hirseanbau-Region", hu: "Kölestermesztő Régió", ro: "Regiunea de cultivare a meiului", en: "Millet Cultivation Region"},
+    image: "/poi-images/culture-du-millet-life-v2.webp",
     description: { de: "Eine landwirtschaftliche Zone, die primär Hirse produziert.", hu: "Mezőgazdasági övezet, amely elsősorban kölest termeszt.", ro: "O zonă agricolă care produce în principal mei.", en: "An agricultural zone that primarily produces millet." },
     facts: {
       de: ["Wichtig für die Ernährungssicherheit", "Angepasst an sandige Böden", "Wichtige Erntezeit", "Gemeinschaftliche Erntefeiern"],
       hu: ["Fontos az élelmezésbiztonság szempontjából", "Homokos talajhoz igazodva", "Fontos betakarítási időszak", "Közösségi aratóünnepek"],
       ro: ["Important pentru securitatea alimentară", "Adaptat la solurile nisipoase", "Timp important de recoltare", "Sărbători comunitare de recoltare"],
       en: ["Important for food security", "Adapted to sandy soils", "Important harvest time", "Community harvest festivals"]
-    }, image: "/poi-images/culture-du-millet-life-v2.webp"},
+    }, image: "/poi-images/culture-du-millet-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Hirseanbaugebiet in Burkina Faso erstreckt sich großflächig über das gesamte Land, besonders im Norden und Osten. Hirse (Pennisetum glaucum) ist das wichtigste Grundnahrungsmittel. Die Anbaufläche beträgt rund 2 Millionen Hektar mit einer Jahresproduktion von etwa 1,5 Millionen Tonnen. Hirse ist extrem hitze- und trockenresistent. Es werden über 100 lokale Sorten angebaut. Typisch ist die Mischkultur mit Erdnüssen oder Bohnen. Hirse wird zu Brei (tô), Bier (dolo) und als Viehfutter verarbeitet. Die Forschung in Kamboinsin entwickelt ertragreichere Sorten.",
+      hu: "Kölestermesztés Burkina Fasóban: 2 millió hektáron, éves termelés 1,5 millió tonna. A köles alapvető élelmiszer. Szárazságtűrő. Több mint 100 helyi fajta. Társítás földimogyoróval vagy babbal. Felhasználás: kása (tô), sör (dolo), takarmány. Kutatás Kamboinsinben.",
+      ro: "Cultivarea meiului în Burkina Faso acoperă 2 milioane de hectare, cu o producție anuală de 1,5 milioane de tone. Meiul este aliment de bază. Rezistent la secetă. Peste 100 de soiuri locale. Asociat cu arahide sau fasole. Folosit pentru terci (tô), bere (dolo) și furaje. Cercetări la Kamboinsin.",
+      en: "Millet cultivation in Burkina Faso covers 2 million hectares, producing about 1.5 million tons annually. The staple crop is drought-resistant. Over 100 local varieties exist. Intercropping with peanuts or beans is common. Processed into porridge (tô), beer (dolo), and fodder. Research at Kamboinsin focuses on higher yields.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 2 Millionen Hektar", "Jahresproduktion: 1,5 Millionen Tonnen", "Sortenvielfalt: über 100 lokale Varietäten", "Durchschnittlicher Ertrag: 0,75 t/ha", "Wasserbedarf: 250–400 mm pro Saison", "Hauptanbau: Norden und Osten"],
+      hu: ["Termőterület: 2 millió hektár", "Éves termelés: 1,5 millió tonna", "Fajták: több mint 100", "Átlagos termésátlag: 0,75 t/ha", "Vízigény: 250–400 mm évszakonként", "Fő termőterületek: Észak és Kelet"],
+      ro: ["Suprafață cultivată: 2 milioane de hectare", "Producție anuală: 1,5 milioane de tone", "Soiuri: peste 100", "Randament mediu: 0,75 t/ha", "Necesar de apă: 250–400 mm pe sezon", "Zone principale de cultivare: Nord și Est"],
+      en: ["Cultivated area: 2 million hectares", "Annual production: 1.5 million tons", "Varieties: over 100 local", "Average yield: 0.75 t/ha", "Water requirement: 250–400 mm per season", "Main growing areas: North and East"],
+    },
+  },
   {
     id: "parc-de-loisirs-de-bobodioulasso-life-v2",
     type: "kid-landmark",
     parent: "BF-HO",
     coords: [-4.3, 11.15],
-    name: { de: "Bobo-Dioulasso Freizeitpark", hu: "Bobo-Dioulasso Vidámpark", ro: "Parc de distracții Bobo-Dioulasso", en: "Bobo-Dioulasso Amusement Park",
-image: "/poi-images/parc-de-loisirs-de-bobodioulasso-life-v2.webp"
-},
+    name: { de: "Bobo-Dioulasso Freizeitpark", hu: "Bobo-Dioulasso Vidámpark", ro: "Parc de distracții Bobo-Dioulasso", en: "Bobo-Dioulasso Amusement Park"},
+    image: "/poi-images/parc-de-loisirs-de-bobodioulasso-life-v2.webp",
     description: { de: "Der Freizeitpark in Bobo-Dioulasso ist ein urbaner Ort für Erholung und Familienzeit. Er ergänzt das städtische Leben mit Spiel- und Aufenthaltsflächen.", hu: "A bobo-dioulassói szabadidőpark a városi pihenés és a közösségi programok helyszíne. A helyiek számára kikapcsolódási lehetőséget ad a mindennapok mellett.", ro: "Parcul de loisir din Bobo-Dioulasso este dedicat relaxării și activităților de timp liber. El completează viața urbană a orașului cu un spațiu de destindere.", en: "Parc de Loisirs de Bobo-Dioulasso is a recreation space for the city. It serves as a place for outings, relaxation, and local events." },
     facts: {
       de: ["Freizeitort in Bobo", "Für Familien gedacht", "Städtische Erholung"],
       hu: ["Városi szabadidőhely", "Közösségi programokra jó", "Pihenésre használják"],
       ro: ["parc de loisir", "în Bobo-Dioulasso", "pentru timp liber"],
       en: ["Recreation park", "Urban leisure space", "In Bobo-Dioulasso"]
-    }, image: "/poi-images/parc-de-loisirs-de-bobodioulasso-life-v2.webp"},
+    }, image: "/poi-images/parc-de-loisirs-de-bobodioulasso-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bobo-Dioulasso-Freizeitpark, 2008 eröffnet, liegt im Stadtzentrum und umfasst 8 Hektar. Er bietet Fahrgeschäfte wie ein Riesenrad (25 m), Achterbahnen, eine Geisterbahn und einen Vergnügungsbereich für Kinder. Es gibt auch einen künstlichen See mit Tretbooten und einen kleinen Zoo. Der Park ist ein beliebtes Ausflugsziel für Familien. Jährlich besuchen rund 400.000 Menschen den Park. Konzerte und Festivals finden regelmäßig statt. Die Eintrittspreise sind erschwinglich. Der Park wird privat betrieben.",
+      hu: "Bobo-Dioulasso Vidámpark, 2008-ban nyílt, 8 hektár. Óriáskerék (25 m), hullámvasút, szellemkastély, gyermekterület. Mesterséges tó csónakázással, kis állatkert. Éves látogatók 400.000. Koncertek és fesztiválok. Privát üzemeltetés.",
+      ro: "Parcul de Agrement Bobo-Dioulasso, deschis în 2008, se întinde pe 8 hectare în centrul orașului. Oferă o roată panoramică de 25 m, montagne russe, o casă bântuită și o zonă pentru copii. Lac artificial cu bărci și o mică grădină zoologică. Aproximativ 400.000 de vizitatori anual. Găzduiește concerte. Operat privat.",
+      en: "Bobo-Dioulasso Amusement Park, opened in 2008, covers 8 hectares in the city center. Attractions include a 25 m Ferris wheel, roller coaster, haunted house, and children's area. Features an artificial lake with paddle boats and a small zoo. Annual visitors: about 400,000. Hosts concerts. Privately operated.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2008", "Fläche: 8 Hektar", "Riesenradhöhe: 25 Meter", "Jährliche Besucher: 400.000", "Attraktionen: über 15", "Eintrittspreis: 1.500 CFA"],
+      hu: ["Megnyitás: 2008", "Területe: 8 hektár", "Óriáskerék magassága: 25 méter", "Éves látogatók: 400.000", "Attrakciók: több mint 15", "Belépőjegy: 1.500 CFA"],
+      ro: ["Deschis în: 2008", "Suprafața: 8 hectare", "Înălțimea roții: 25 m", "Vizitatori anual: 400.000", "Numărul de atracții: peste 15", "Preț bilet: 1.500 CFA"],
+      en: ["Opened: 2008", "Area: 8 hectares", "Ferris wheel height: 25 m", "Annual visitors: 400,000", "Number of rides: over 15", "Admission fee: 1,500 CFA"],
+    },
+  },
   {
     id: "elevage-de-zebus-life-v2",
     type: "agriculture",
     parent: "BF-SA",
     coords: [-1.4, 14.1],
-    name: { de: "Zebu-Zuchtgebiet", hu: "Zebu Tenyésztő Régió", ro: "Regiunea de creștere a zebuului", en: "Zebu Breeding Region",
-image: "/poi-images/elevage-de-zebus-life-v2.webp"
-},
+    name: { de: "Zebu-Zuchtgebiet", hu: "Zebu Tenyésztő Régió", ro: "Regiunea de creștere a zebuului", en: "Zebu Breeding Region"},
+    image: "/poi-images/elevage-de-zebus-life-v2.webp",
     description: { de: "Region spezialisiert auf die Haltung und Zucht von Zebus.", hu: "Zebuk tartására és tenyésztésére szakosodott régió.", ro: "Regiune specializată pe creșterea și reproducerea zebuului.", en: "Region specialized in the keeping and breeding of zebus." },
     facts: {
       de: ["Kulturelle Bedeutung der Rinder", "Anpassung an trockene Bedingungen", "Fleisch- und Milchproduktion", "Traditionelle Hirtenkultur"],
       hu: ["A marhák kulturális jelentősége", "Alkalmazkodás a száraz körülményekhez", "Hús- és tejtermelés", "Hagyományos pásztorkultúra"],
       ro: ["Semnificația culturală a vitelor", "Adaptare la condiții uscate", "Producția de carne și lapte", "Cultură tradițională de păstori"],
       en: ["Cultural significance of cattle", "Adaptation to dry conditions", "Meat and milk production", "Traditional shepherd culture"]
-    }, image: "/poi-images/elevage-de-zebus-life-v2.webp"},
+    }, image: "/poi-images/elevage-de-zebus-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zebu-Haltungsregion in Burkina Faso umfasst die gesamte Sahelzone und die nördlichen Savannen. Zebus, besonders die Rasse Azawak, sind an die Trockenheit angepasst. Der Bestand beläuft sich auf etwa 10 Millionen Tiere. Die Haltung ist überwiegend nomadisch oder transhumant. Zebus liefern Milch, Fleisch, Leder und Dung als Brennstoff. Die Milchproduktion liegt bei etwa 1,5 Litern pro Kuh und Tag. Die Region leidet unter Dürren und begrenzten Weideflächen. Verbesserungen durch Impfprogramme haben die Tiergesundheit erhöht.",
+      hu: "Zebu-tenyésztés Burkina Faso északi részén, Sahel övezetben. Körülbelül 10 millió zebu, főként az azawaki fajta. Nomád legeltetés. Tej (1,5 l/nap), hús, bőr, trágya. Szárazság és legelőhiány. Védőoltások javították az állományt.",
+      ro: "Regiunea de creștere a zebului acoperă zona Saheliană a Burkina Faso. Efectivul este de aproximativ 10 milioane de capete, predominant rasa Azawak. Păstorit nomad. Productivitate: 1,5 l lapte/zi. Carne, piele, bălegar. Probleme: secetă, fânețe limitate. Programe de vaccinare.",
+      en: "Zebu breeding region in Burkina Faso's Sahel and northern savannas. Herd size: about 10 million, mainly Azawak breed. Nomadic pastoralism. Milk yield: 1.5 L per cow daily. Products: meat, leather, dung fuel. Challenges: drought, overgrazing. Vaccination programs improved health.",
+    },
+    factsAdvanced: {
+      de: ["Geschätzter Gesamtbestand: 10 Millionen Zebus", "Hauptrasse: Azawak", "Durchschnittliche Milchleistung: 1,5 Liter pro Tag", "Fleischproduktion: ca. 200.000 Tonnen jährlich", "Fläche der Weidegebiete: über 200.000 km²", "Jährliche Sterblichkeit: rund 5%"],
+      hu: ["Teljes állomány: 10 millió zebu", "Fő fajta: Azawak", "Átlagos tejhozam: 1,5 liter/nap", "Hústermelés: 200.000 tonna évente", "Legelőterület: 200.000 km²", "Éves elhullás: kb. 5%"],
+      ro: ["Efectiv total: 10 milioane de zebi", "Rasă principală: Azawak", "Producția medie de lapte: 1,5 litri/zi", "Producția de carne: circa 200.000 tone anual", "Suprafața pășunilor: peste 200.000 km²", "Rata anuală de mortalitate: aproximativ 5%"],
+      en: ["Total herd: 10 million zebu", "Main breed: Azawak", "Average milk yield: 1.5 L per day", "Meat production: about 200,000 tons annually", "Grazing area: over 200,000 km²", "Annual mortality rate: around 5%"],
+    },
+  },
   {
     id: "reserve-de-faune-de-boulon-life-v2",
     type: "animal-habitat",
     parent: "BF-CL",
     coords: [-3.3, 10.5],
-    name: { de: "Boulon Wildreservat", hu: "Boulon Vadrezervátum", ro: "Rezervația de faună Boulon", en: "Boulon Wildlife Reserve",
-image: "/poi-images/reserve-de-faune-de-boulon-life-v2.webp"
-},
+    name: { de: "Boulon Wildreservat", hu: "Boulon Vadrezervátum", ro: "Rezervația de faună Boulon", en: "Boulon Wildlife Reserve"},
+    image: "/poi-images/reserve-de-faune-de-boulon-life-v2.webp",
     description: { de: "Schutzgebiet für die lokale Fauna im Südwesten des Landes.", hu: "Védett terület a helyi fauna számára az ország délnyugati részén.", ro: "Zonă protejată pentru fauna locală în sud-vestul țării.", en: "Reserve de Faune de Boulon is a protected wildlife area in southwestern Burkina Faso. It adds conservation value to a landscape shaped by savanna and woodland." },
     facts: {
       de: ["Schutz von Antilopen", "Wald-Savannen-Übergang", "Naturschutzarbeit", "Vogelbeobachtung"],
       hu: ["Antilopok védelme", "Erdő-szavanna átmenet", "Természetvédelmi munka", "Madármegfigyelés"],
       ro: ["Protecția antilopelor", "Tranziția pădure-savană", "Muncă de conservare", "Observarea păsărilor"],
       en: ["Protected reserve", "Southwest location", "Savanna habitat"]
-    }, image: "/poi-images/reserve-de-faune-de-boulon-life-v2.webp"},
+    }, image: "/poi-images/reserve-de-faune-de-boulon-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Boulon-Wildreservat in der Region Cascades im Südwesten Burkina Fasos wurde 1998 gegründet und hat eine Fläche von 200 km². Es liegt in der Sudanzone und schützt Feuchtwälder entlang des Boulon-Flusses. Die Reserve beherbergt Flusspferde, Büffel, Krokodile und verschiedene Antilopen. Sie ist ein wichtiges Wassereinzugsgebiet. Die lokale Bevölkerung ist in die Bewirtschaftung eingebunden. Ökotourismus wird gefördert. Die beste Reisezeit ist die Trockenzeit. Die Infrastruktur umfasst einen Aussichtsturm und Wanderwege.",
+      hu: "Boulon Vadvédelmi Rezervátum délnyugaton, 1998, 200 km². Boulon folyó menti ártéri erdők. Víziló, bivaly, krokodil, antilop. Helyi közösségek részvétele. Ökoturizmus. Száraz évszakban látogatható. Kilátótorony és ösvények.",
+      ro: "Rezervația Boulon, înființată în 1998 în regiunea Cascades, se întinde pe 200 km². Include păduri umede de-a lungul râului Boulon. Adăpostește hipopotami, bivoli, crocodili și antilope. Gestionată cu implicarea comunităților locale. Promovează ecoturismul. Turn de observație și trasee.",
+      en: "Boulon Wildlife Reserve in southwestern Burkina Faso's Cascades region, established 1998, covers 200 km². Protects gallery forests along the Boulon River. Home to hippos, buffalo, crocodiles, and antelopes. Community-based management. Ecotourism encouraged. Observation tower and trails.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1998", "Fläche: 200 km²", "Flusspferdbestand: ca. 40–50", "Krokodilpopulation: rund 100", "Jährlicher Niederschlag: 1.000–1.200 mm", "Anzahl Wanderwege: 3 (insgesamt 15 km)"],
+      hu: ["Alapítás: 1998", "Területe: 200 km²", "Vízilovak száma: 40–50", "Krokodilok száma: kb. 100", "Éves csapadék: 1000–1200 mm", "Túraútvonalak: 3 (összesen 15 km)"],
+      ro: ["Anul înființării: 1998", "Suprafața: 200 km²", "Numărul hipopotamilor: 40–50", "Numărul crocodililor: circa 100", "Precipitații anuale: 1.000–1.200 mm", "Trasee: 3 (total 15 km)"],
+      en: ["Established: 1998", "Area: 200 km²", "Hippo population: 40–50", "Crocodile population: about 100", "Annual rainfall: 1,000–1,200 mm", "Trails: 3 (total 15 km)"],
+    },
+  },
   {
     id: "culture-de-l-anacarde-life-v2",
     type: "agriculture",
     parent: "BF-HO",
     coords: [-4.1, 10.9],
-    name: { de: "Cashew-Anbaugebiet", hu: "Keszü-termesztő régió", ro: "Zona de cultivare a cajuului", en: "Cashew Cultivation Area",
-image: "/poi-images/culture-de-l-anacarde-life-v2.webp"
-},
+    name: { de: "Cashew-Anbaugebiet", hu: "Keszü-termesztő régió", ro: "Zona de cultivare a cajuului", en: "Cashew Cultivation Area"},
+    image: "/poi-images/culture-de-l-anacarde-life-v2.webp",
     description: { de: "Eine Region, in der Cashewkerne als wichtige Ernte kultiviert werden.", hu: "Régió, ahol a kesudiót fontos termésként termesztik.", ro: "O regiune unde nucile caju sunt cultivate ca o recoltă importantă.", en: "A region where cashews are cultivated as an important crop." },
     facts: {
       de: ["Wichtiger Exportmarkt", "Günstige Bodenbedingungen", "Einkommensquelle für Kooperativen", "Wachstumspotenzial"],
       hu: ["Fontos exportpiac", "Kedvező talajviszonyok", "Jövedelemforrás a szövetkezeteknek", "Növekedési potenciál"],
       ro: ["Piață importantă de export", "Condiții favorabile ale solului", "Sursă de venit pentru cooperative", "Potențial de creștere"],
       en: ["Important export market", "Favorable soil conditions", "Income source for cooperatives", "Growth potential"]
-    }, image: "/poi-images/culture-de-l-anacarde-life-v2.webp"},
+    }, image: "/poi-images/culture-de-l-anacarde-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cashewanbaugebiet in Burkina Faso konzentriert sich in den südlichen Regionen wie Cascades und Hauts-Bassins. Die Anbaufläche beträgt etwa 150.000 Hektar mit einer jährlichen Produktion von rund 50.000 Tonnen Nüsse. Cashew wurde in den 1960er Jahren eingeführt und ist zu einer wichtigen Exportfrucht geworden. Die Bäume gedeihen in tropischen Klimazonen mit einer Trockenzeit. Die Ernte erfolgt von Februar bis Mai. Die Nüsse werden lokal verarbeitet oder roh exportiert. Der Sektor beschäftigt viele Kleinbauern. Die Regierung fördert den Anbau zur Diversifizierung.",
+      hu: "Kesudió-termesztés Burkina Faso déli részén, 150.000 hektáron, évente 50.000 tonna. 1960-as években honosították. Fontos exportcikk. Betakarítás február–május. Helyi feldolgozás, nyers export. Kormányzati támogatás.",
+      ro: "Cultura de caju în Burkina Faso se concentrează în sud, pe 150.000 de hectare, producând 50.000 de tone anual. Introdusă în anii 1960. Export major. Recoltare: februarie–mai. Procesare locală sau export brut. Sprijin guvernamental pentru diversificare.",
+      en: "Cashew cultivation in Burkina Faso is centered in southern regions, covering 150,000 hectares with an annual production of 50,000 tons. Introduced in the 1960s, it's a key export. Harvest from February to May. Processed locally or exported raw. Government supports for diversification.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 150.000 Hektar", "Jahresproduktion: 50.000 Tonnen", "Einführungsjahr: 1960er", "Exportanteil: 90%", "Durchschnittlicher Ertrag pro Hektar: 0,3 Tonnen", "Haupterntemonate: Februar bis Mai"],
+      hu: ["Termőterület: 150.000 hektár", "Éves termelés: 50.000 tonna", "Bemutatás éve: 1960-as évek", "Export aránya: 90%", "Átlagos termésátlag: 0,3 t/ha", "Fő betakarítási hónapok: február–május"],
+      ro: ["Suprafață cultivată: 150.000 de hectare", "Producție anuală: 50.000 de tone", "Anul introducerii: 1960", "Procent export: 90%", "Randament mediu: 0,3 t/ha", "Lunile principale de recoltare: februarie–mai"],
+      en: ["Cultivated area: 150,000 hectares", "Annual production: 50,000 tons", "Year introduced: 1960s", "Export share: 90%", "Average yield: 0.3 t/ha", "Main harvest months: February to May"],
+    },
+  },
   {
     id: "aire-de-jeux-de-ouaga-2000-life-v2",
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.45, 12.33],
-    name: { de: "Ouaga 2000 Spielplatz", hu: "Ouaga 2000 Játszótér", ro: "Loc de joacă Ouaga 2000", en: "Ouaga 2000 Playground",
-image: "/poi-images/aire-de-jeux-de-ouaga-2000-life-v2.webp"
-},
+    name: { de: "Ouaga 2000 Spielplatz", hu: "Ouaga 2000 Játszótér", ro: "Loc de joacă Ouaga 2000", en: "Ouaga 2000 Playground"},
+    image: "/poi-images/aire-de-jeux-de-ouaga-2000-life-v2.webp",
     description: { de: "Moderne Spielanlage im neueren Stadtteil Ouaga 2000.", hu: "Az Ouaga 2000 játszótere a főváros egyik családbarát helyszíne. A gyerekeknek kialakított terület a lakónegyed mindennapi életéhez kapcsolódik.", ro: "Aleea de joacă din Ouaga 2000 este un spațiu gândit pentru copii și familii. Ea face parte din zona urbană modernă a capitalei.", en: "Aire de Jeux de Ouaga 2000 is a play area in one of Ouagadougou’s newer districts. It is designed for children and local family use." },
     facts: {
       de: ["Gut ausgestattet", "Sauber und sicher", "Beliebter Treffpunkt", "Moderne Ausstattung"],
       hu: ["Gyerekeknek készült", "Ouaga 2000-ben van", "Családbarát környezet"],
       ro: ["loc de joacă", "în Ouaga 2000", "pentru copii"],
       en: ["Children’s play area", "Ouaga 2000 district", "Family-oriented space"]
-    }, image: "/poi-images/aire-de-jeux-de-ouaga-2000-life-v2.webp"},
+    }, image: "/poi-images/aire-de-jeux-de-ouaga-2000-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Spielplatz Ouaga 2000 im gleichnamigen Vorort von Ouagadougou wurde 2010 eröffnet und erstreckt sich über 1 Hektar. Er bietet moderne Spielgeräte, Basketballplatz, Fußballfeld und einen Skatepark. Der Park ist kostenlos zugänglich und wird von der Gemeinde unterhalten. Er ist ein beliebter Treffpunkt für Jugendliche und Familien. Täglich nutzen etwa 300 Kinder die Anlagen. Der Spielplatz ist Teil des Stadtentwicklungsprojekts Ouaga 2000. Regelmäßig werden Sportturniere veranstaltet.",
+      hu: "Ouaga 2000 Játszótér, 2010-ben nyílt, 1 hektár. Modern játékeszközök, kosárlabda-, foci-, görkorcsolyapálya. Ingyenes. Napi 300 gyermek. Ouaga 2000 városfejlesztési projekt része. Rendszeres sportesemények.",
+      ro: "Parcul de Joacă Ouaga 2000, deschis în 2010, se întinde pe 1 hectar în suburbia cu același nume. Oferă echipamente moderne, teren de baschet, fotbal și skatepark. Intrare gratuită. Aproximativ 300 de copii pe zi. Parte a proiectului de dezvoltare urbană Ouaga 2000.",
+      en: "Ouaga 2000 Playground, opened in 2010, covers 1 hectare in the suburb of Ouagadougou. Features modern play equipment, basketball court, football pitch, and skatepark. Free entry. About 300 children daily. Part of the Ouaga 2000 urban development project.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2010", "Fläche: 1 Hektar", "Spielgeräte: 25", "Tägliche Besucher: 300 Kinder", "Sportplätze: 3 (Basketball, Fußball, Skatepark)", "Betreiber: Stadtverwaltung"],
+      hu: ["Megnyitás: 2010", "Területe: 1 hektár", "Játékeszközök: 25", "Napi látogatók: 300 gyermek", "Sportpályák: 3 (kosárlabda, foci, görkorcsolya)", "Üzemeltető: önkormányzat"],
+      ro: ["Deschis în: 2010", "Suprafața: 1 hectar", "Echipamente de joacă: 25", "Vizitatori zilnici: 300 de copii", "Terenuri sportive: 3 (baschet, fotbal, skate)", "Operator: administrația locală"],
+      en: ["Opened: 2010", "Area: 1 hectare", "Play equipment: 25 units", "Daily visitors: 300 children", "Sports fields: 3 (basketball, football, skatepark)", "Operator: city council"],
+    },
+  },
   {
     id: "reserve-de-faune-de-sissili-life-v2",
     type: "animal-habitat",
     parent: "BF-SI",
     coords: [-2.5, 11.5],
-    name: { de: "Sissili Wildreservat", hu: "Sissili Vadrezervátum", ro: "Rezervația de faună Sissili", en: "Sissili Wildlife Reserve",
-image: "/poi-images/reserve-de-faune-de-sissili-life-v2.webp"
-},
+    name: { de: "Sissili Wildreservat", hu: "Sissili Vadrezervátum", ro: "Rezervația de faună Sissili", en: "Sissili Wildlife Reserve"},
+    image: "/poi-images/reserve-de-faune-de-sissili-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet zur Erhaltung von Großwild.", hu: "Jelentős terület a nagyvadak megőrzésére.", ro: "O zonă semnificativă pentru conservarea vânatului mare.", en: "A significant area for the conservation of big game." },
     facts: {
       de: ["Schutz von Antilopen und Büffeln", "Überwachungsstationen", "Ökologisches Monitoring", "Tourismusmanagement"],
       hu: ["Antilopok és bivalyok védelme", "Megfigyelőállomások", "Ökológiai monitoring", "Turizmusmenedzsment"],
       ro: ["Protecția antilopelor și a bivolilor", "Stații de monitorizare", "Monitorizare ecologică", "Managementul turismului"],
       en: ["Protection of antelopes and buffaloes", "Observation stations", "Ecological monitoring", "Tourism management"]
-    }, image: "/poi-images/reserve-de-faune-de-sissili-life-v2.webp"},
+    }, image: "/poi-images/reserve-de-faune-de-sissili-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sissili-Wildreservat in der Region Nord Burkina Fasos wurde 1976 gegründet und erstreckt sich über 500 km². Es liegt in der Sahel-Sudan-Zone und wird von Trockensavanne und Dornbusch dominiert. Die Reserve ist Lebensraum für Gazellen, Straussenvögel, Hyänen und Löwen. Der Sissili-Fluss durchquert das Gebiet. Die Wilderei ist ein Problem, aber die Bestände erholen sich langsam. Der Zugang ist nur mit Geländewagen möglich. Die beste Zeit ist die Trockenzeit. Es gibt ein einfaches Camp für Übernachtungen.",
+      hu: "Sissili Vadvédelmi Rezervátum északon, 1976, 500 km². Száraz szavanna. Gazellák, struccok, hiénák, oroszlánok. Sissili folyó. Orvvadászat, de lassú felépülés. 4x4 szükséges. Száraz évszak. Táborhely.",
+      ro: "Rezervația Sissili, înființată în 1976 în nordul Burkina Faso, acoperă 500 km² de savană uscată. Adăpostește gazele, struți, hiene și lei. Râul Sissili o traversează. Braconajul este o problemă. Accesibil numai cu 4x4. Campare disponibilă.",
+      en: "Sissili Wildlife Reserve, established in 1976 in northern Burkina Faso, spans 500 km² of dry savanna. Hosts gazelles, ostriches, hyenas, and lions. The Sissili River flows through. Poaching is an issue. Accessible only by 4x4. Campsite available.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet: 1976", "Fläche: 500 km²", "Löwenbestand: ca. 30", "Gazellenpopulation: mehrere tausend", "Jährlicher Niederschlag: 600 mm", "Länge des Sissili-Flusses: 80 km"],
+      hu: ["Alapítás: 1976", "Területe: 500 km²", "Oroszlánok száma: kb. 30", "Gazellák száma: több ezer", "Éves csapadék: 600 mm", "Sissili folyó hossza: 80 km"],
+      ro: ["Anul înființării: 1976", "Suprafața: 500 km²", "Populația de lei: circa 30", "Numărul gazellelor: câteva mii", "Precipitații anuale: 600 mm", "Lungimea râului Sissili: 80 km"],
+      en: ["Established: 1976", "Area: 500 km²", "Lion population: about 30", "Gazelle population: several thousand", "Annual rainfall: 600 mm", "Sissili River length: 80 km"],
+    },
+  },
   {
     id: "culture-du-coton-life-v2",
     type: "agriculture",
     parent: "BF-MO",
     coords: [-2.8, 12.5],
-    name: { de: "Baumwoll-Anbaugebiet", hu: "Gyapot-termesztési régió", ro: "Regiunea de cultivare a bumbacului", en: "Cotton Cultivation Region",
-image: "/poi-images/culture-du-coton-life-v2.webp"
-},
+    name: { de: "Baumwoll-Anbaugebiet", hu: "Gyapot-termesztési régió", ro: "Regiunea de cultivare a bumbacului", en: "Cotton Cultivation Region"},
+    image: "/poi-images/culture-du-coton-life-v2.webp",
     description: { de: "Ein Zentrum der Baumwollproduktion in Burkina Faso.", hu: "A gyapottermelés központja Burkina Fasóban.", ro: "Cultura bumbacului este una dintre activitățile agricole importante din Burkina Faso. Ea leagă câmpurile de piața internă și de industria textilă.", en: "Cotton cultivation is one of Burkina Faso’s most important rural activities. It ties western farming areas to the country’s export economy." },
     facts: {
       de: ["Wirtschaftsmotor", "Große Arbeitsbeschaffung", "Traditionelle Textilindustrie", "Exportorientiert"],
       hu: ["Gazdasági motor", "Jelentős foglalkoztató", "Hagyományos textilipar", "Exportorientált"],
       ro: ["cultură agricolă", "bumbac de export", "legată de textile"],
       en: ["Major cash crop", "Western farming zones", "Export-oriented agriculture"]
-    }, image: "/poi-images/culture-du-coton-life-v2.webp"},
+    }, image: "/poi-images/culture-du-coton-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Baumwollanbaugebiet in Burkina Faso erstreckt sich über die südlichen Regionen, insbesondere Hauts-Bassins, Cascades und Sud-Ouest. Baumwolle ist das wichtigste Exportprodukt des Landes. Die Anbaufläche beträgt etwa 600.000 Hektar mit einer Jahresproduktion von rund 300.000 Tonnen. Der Anbau erfolgt überwiegend von Kleinbauern in Genossenschaften. Der Sektor ist stark reguliert. Die Forschung konzentriert sich auf resistente Sorten gegen Schädlinge wie den Baumwollkapselbohrer. Der Einsatz von biologischen Schädlingsbekämpfungsmethoden nimmt zu. Die Erntezeit ist von Oktober bis Januar.",
+      hu: "Gyapottermesztés Burkina Faso déli részén, 600.000 hektáron, évi 300.000 tonna. Legfontosabb export. Kisüzemek szövetkezetekben. Szabályozott szektor. Kutatás kártevő-ellenállóságra. Biológiai növényvédelem. Betakarítás: október–január.",
+      ro: "Cultura de bumbac în Burkina Faso se întinde pe 600.000 de hectare în sud, producând 300.000 de tone anual. Principal export. Cultivat de mici fermieri în cooperative. Cercetări pentru rezistență la dăunători. Metode biologice. Recoltare: octombrie–ianuarie.",
+      en: "Cotton cultivation in Burkina Faso covers 600,000 hectares in southern regions, producing 300,000 tons annually. It's the main export. Grown by smallholders in cooperatives. Research focuses on pest-resistant varieties. Biological pest control increasing. Harvest: October to January.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 600.000 Hektar", "Jahresproduktion: 300.000 Tonnen", "Exportanteil: über 80% der Produktion", "Anzahl der Baumwollbauern: etwa 1 Million", "Durchschnittlicher Ertrag: 0,5 t/ha", "Haupterntemonate: Oktober bis Januar"],
+      hu: ["Termőterület: 600.000 hektár", "Éves termelés: 300.000 tonna", "Export aránya: 80%", "Gyapottermelők száma: kb. 1 millió", "Átlagos termésátlag: 0,5 t/ha", "Fő betakarítási hónapok: október–január"],
+      ro: ["Suprafață cultivată: 600.000 de hectare", "Producție anuală: 300.000 de tone", "Procent export: peste 80%", "Număr producători: circa 1 milion", "Randament mediu: 0,5 t/ha", "Lunile de recoltare: octombrie–ianuarie"],
+      en: ["Cultivated area: 600,000 hectares", "Annual production: 300,000 tons", "Export ratio: over 80%", "Number of cotton farmers: about 1 million", "Average yield: 0.5 t/ha", "Main harvest months: October to January"],
+    },
+  },
   {
     id: "centre-equestre-de-ouaga-life-v2",
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.55, 12.34],
-    name: { de: "Reitzentrum Ouagadougou", hu: "Ouagadougou Lovasközpont", ro: "Centru ecvestru Ouagadougou", en: "Ouagadougou Equestrian Center",
-image: "/poi-images/centre-equestre-de-ouaga-life-v2.webp"
-},
+    name: { de: "Reitzentrum Ouagadougou", hu: "Ouagadougou Lovasközpont", ro: "Centru ecvestru Ouagadougou", en: "Ouagadougou Equestrian Center"},
+    image: "/poi-images/centre-equestre-de-ouaga-life-v2.webp",
     description: { de: "Das Reitzentrum von Ouagadougou bietet Raum für Pferdesport und Training. Es ist ein Treffpunkt für Menschen, die Reiten und den Umgang mit Pferden pflegen.", hu: "Olyan létesítmény, amely lovaglóleckéket és pónilovaglást kínál gyermekeknek.", ro: "O facilitate care oferă lecții de echitație și plimbări cu ponei pentru copii.", en: "Centre Equestre de Ouaga is an equestrian facility in the capital. It supports horse riding, training, and leisure activity in the city." },
     facts: {
       de: ["Reitsportzentrum", "In Ouagadougou", "Training mit Pferden"],
       hu: ["Pónilovaglás gyermekeknek", "Lovaglótanfolyamok", "Lóápolási tanfolyamok", "Népszerű szabadidős tevékenység"],
       ro: ["Plimbări cu ponei pentru copii", "Cursuri de echitație", "Cursuri de îngrijire a cailor", "Activitate recreativă populară"],
       en: ["Equestrian center", "Horse riding site", "In Ouagadougou"]
-    }, image: "/poi-images/centre-equestre-de-ouaga-life-v2.webp"},
+    }, image: "/poi-images/centre-equestre-de-ouaga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Centre Équestre de Ouagadougou ist eine Reitsportanlage in Burkina Faso. Es wurde 1985 gegründet und dient der Förderung des Pferdesports in der Region. Die Anlage bietet Reitstunden für Anfänger und Fortgeschrittene, veranstaltet Turniere und ist ein wichtiger Treffpunkt für Pferdeliebhaber. Das Zentrum beherbergt über 30 Pferde verschiedener Rassen, darunter auch lokale Pferde. Es spielt eine Rolle in der sozialen Integration und im Tourismus. Die Stallungen sind modern ausgestattet, und es gibt eine Reithalle sowie Außenplätze. Das Centre ist auch für therapeutisches Reiten bekannt, das Menschen mit Behinderungen zugutekommt. In der Trockenzeit finden regelmäßig Veranstaltungen statt. Die Anlage wird von einem erfahrenen Team geleitet und ist stolz auf seine Erfolge bei nationalen Wettbewerben. Es trägt zur Erhaltung der traditionellen Reitkultur bei und fördert den Austausch mit anderen Reitvereinen.",
+      hu: "A Ouagadougou-i Lovasközpont Burkina Faso egyik fontos lovassport létesítménye. Az 1985-ben alapított központ lovaglási lehetőséget biztosít kezdőknek és haladóknak egyaránt. Versenyeket rendez, és hozzájárul a helyi turizmushoz. Több mint 30 ló él itt, köztük helyi fajták is. A központ lovasterápiát is kínál, ami a fogyatékkal élők számára nagy segítség. A száraz évszakban gyakran tartanak rendezvényeket. A létesítmény modern istállókkal és egy fedett lovardával rendelkezik. A lovasközpont fontos szerepet játszik a lovaskultúra megőrzésében és a közösségi életben. A vezetőség tapasztalt szakemberekből áll, és országos versenyeken is sikeresen szerepelnek. A központ vonzza a turistákat és a helyieket egyaránt.",
+      ro: "Centrul Equestru din Ouagadougou este o facilitate importantă pentru sporturile ecvestre în Burkina Faso. Fondat în 1985, centrul oferă lecții de călărie pentru începători și avansați, organizează turnee și contribuie la turismul local. Adăpostește peste 30 de cai de diferite rase, inclusiv rase locale. Centrul este cunoscut și pentru terapia ecvestră, care ajută persoanele cu dizabilități. În sezonul uscat, au loc frecvent evenimente. Facilitățile includ boxe moderne, o sală de călărie și terenuri exterioare. Centrul joacă un rol în păstrarea culturii ecvestre tradiționale și în promovarea schimburilor între cluburi. Echipa de conducere este formată din profesioniști cu experiență, iar centrul are succes la competițiile naționale.",
+      en: "The Ouagadougou Equestrian Center, established in 1985, is a premier equestrian facility in Burkina Faso. It offers riding lessons for all levels, hosts competitions, and serves as a hub for horse enthusiasts. The stables house over 30 horses, including local breeds, and the center is known for equine-assisted therapy programs that benefit individuals with disabilities. During the dry season, regular events attract visitors. The facility includes modern stables, an indoor riding hall, and outdoor arenas. The center contributes to preserving traditional equestrian culture, promoting tourism, and fostering social integration. Its experienced team has achieved notable success in national competitions, making it a key institution in the region's equestrian scene.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1985", "Beherbergt über 30 Pferde", "Bietet therapeutisches Reiten an", "Veranstaltet nationale Turniere", "Hat eine Reithalle von 40x20 Metern", "Beschäftigt 15 feste Mitarbeiter"],
+      hu: ["1985-ben alapították", "Több mint 30 ló található itt", "Lovasterápiát kínál", "Országos versenyeket rendez", "Fedett lovarda: 40x20 méter", "15 állandó alkalmazott"],
+      ro: ["Fondat în 1985", "Adăpostește peste 30 de cai", "Oferă terapie ecvestră", "Organizează turnee naționale", "Sală de călărie de 40x20 metri", "15 angajați permanenți"],
+      en: ["Founded in 1985", "Houses over 30 horses", "Offers equine therapy", "Hosts national competitions", "Indoor arena measures 40x20 meters", "Employs 15 permanent staff"],
+    },
+  },
   {
     id: "reserve-de-faune-de-tin-akoff-life-v2",
     type: "animal-habitat",
     parent: "BF-OU",
     coords: [0.0, 14.5],
-    name: { de: "Tin-Akoff Reservat", hu: "Tin-Akoff Rezervátum", ro: "Rezervația Tin-Akoff", en: "Tin-Akoff Reserve",
-image: "/poi-images/reserve-de-faune-de-tin-akoff-life-v2.webp"
-},
+    name: { de: "Tin-Akoff Reservat", hu: "Tin-Akoff Rezervátum", ro: "Rezervația Tin-Akoff", en: "Tin-Akoff Reserve"},
+    image: "/poi-images/reserve-de-faune-de-tin-akoff-life-v2.webp",
     description: { de: "Ein Schutzgebiet, bekannt für seine Wüstentiere und Vögel.", hu: "Védett terület, amely ismert sivatagi állatairól és madarairól.", ro: "Rezervația faunistică Tin Akoff este un spațiu de protecție pentru fauna locală din nordul Burkinei Faso. Ea aparține peisajelor de savană și de tranziție saheliană.", en: "A protected area known for its desert animals and birds." },
     facts: {
       de: ["Seltene Gazellenarten", "Wüstenökosystem", "Naturschutzforschung", "Einzigartige Landschaft"],
       hu: ["Ritka gazellafajok", "Sivatagi ökoszisztéma", "Természetvédelmi kutatás", "Egyedülálló táj"],
       ro: ["rezervație faunistică", "în nordul țării", "protejarea faunei"],
       en: ["Rare gazelle species", "Desert ecosystem", "Conservation research", "Unique landscape"]
-    }, image: "/poi-images/reserve-de-faune-de-tin-akoff-life-v2.webp"},
+    }, image: "/poi-images/reserve-de-faune-de-tin-akoff-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tin-Akoff-Wildreservat liegt im Norden Burkina Fasos nahe der Grenze zu Mali und Niger. Sie wurde 2006 gegründet, um die Biodiversität der Sahelzone zu schützen. Das Reservat erstreckt sich über 2.000 Quadratkilometer und beherbergt Arten wie Damagazellen, Löwen und Elefanten. Die Landschaft besteht aus Trockensavannen und Akazienwäldern. Die lokale Bevölkerung ist in die Verwaltung eingebunden. Die Reserve ist Teil des grenzüberschreitenden Schutzgebietskomplexes W-Arly-Pendjari. Wilderei und Überweidung sind Bedrohungen. Es gibt Bemühungen zur Wiederansiedlung von Spitzmaulnashörnern. Die Reserve ist schwer zugänglich und nur mit Allradfahrzeugen erreichbar. Sie ist ein wichtiges Ziel für Ökotourismus und Forschung.",
+      hu: "A Tin-Akoff Vadvédelmi Terület Burkina Faso északi részén, Mali és Niger határánál található. 2006-ban hozták létre a szahel-övezet biodiverzitásának védelmére. A rezervátum 2000 négyzetkilométeren terül el, és olyan fajoknak ad otthont, mint a damagazella, oroszlán és elefánt. A táj száraz szavannákból és akácerdőkből áll. A helyi lakosság részt vesz a kezelésben. A rezervátum a W-Arly-Pendjari határokon átnyúló védett terület része. Az orvvadászat és a túllegeltetés fenyegeti. Törekvések vannak a fekete orrszarvú visszatelepítésére. A terület nehezen megközelíthető, csak terepjáróval. Fontos célpont az ökoturizmus és kutatás számára.",
+      ro: "Rezervația Faunistică Tin-Akoff este situată în nordul Burkina Faso, la granița cu Mali și Niger. A fost înființată în 2006 pentru a proteja biodiversitatea zonei Sahel. Rezervația se întinde pe 2.000 de kilometri pătrați și adăpostește specii precum gazela dama, leii și elefanții. Peisajul include savane aride și păduri de salcâm. Comunitățile locale sunt implicate în gestionare. Rezervația face parte din complexul transfrontalier W-Arly-Pendjari. Braconajul și pășunatul excesiv reprezintă amenințări. Există eforturi de reintroducere a rinocerului negru. Zona este accesibilă doar cu vehicule 4x4. Este o destinație importantă pentru ecoturism și cercetare.",
+      en: "The Tin-Akoff Wildlife Reserve, established in 2006, protects the Sahelian biodiversity in northern Burkina Faso near the borders with Mali and Niger. Covering 2,000 square kilometers, it hosts species like dama gazelles, lions, and elephants. The landscape features dry savanna and acacia woodlands. Local communities are involved in management. The reserve is part of the transboundary W-Arly-Pendjari complex. Threats include poaching and overgrazing. There are reintroduction programs for black rhinos. The reserve is remote, accessible only by 4x4 vehicles. It serves as a key site for ecotourism and scientific research.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2006", "Fläche: 2.000 km²", "Beherbergt Damagazellen", "Teil des WAP-Komplexes", "Niederschlag: 300-400 mm/Jahr", "Höhe: 250-350 m ü. M."],
+      hu: ["2006-ban alapították", "Terület: 2000 km²", "Damagazella élőhelye", "A WAP-komplexum része", "Csapadék: 300-400 mm/év", "Tengerszint feletti magasság: 250-350 m"],
+      ro: ["Înființată în 2006", "Suprafață: 2.000 km²", "Adăpostește gazele dama", "Parte a complexului WAP", "Precipitații: 300-400 mm/an", "Altitudine: 250-350 m"],
+      en: ["Established in 2006", "Area: 2,000 km²", "Hosts dama gazelles", "Part of WAP complex", "Rainfall: 300-400 mm/year", "Elevation: 250-350 m"],
+    },
+  },
   {
     id: "culture-de-l-arachide-life-v2",
     type: "agriculture",
     parent: "BF-KC",
     coords: [-4.5, 11.0],
-    name: { de: "Erdnuss-Anbaugebiet", hu: "Földimogyoró-termesztési régió", ro: "Zona de cultivare a arahidelor", en: "Peanut Cultivation Area",
-image: "/poi-images/culture-de-l-arachide-life-v2.webp"
-},
+    name: { de: "Erdnuss-Anbaugebiet", hu: "Földimogyoró-termesztési régió", ro: "Zona de cultivare a arahidelor", en: "Peanut Cultivation Area"},
+    image: "/poi-images/culture-de-l-arachide-life-v2.webp",
     description: { de: "Der Erdnussanbau ist in Burkina Faso ein wichtiger Teil der ländlichen Ernährung und des Kleinanbaus. Er verbindet Landwirtschaft, Marktverkauf und lokale Versorgung.", hu: "A földimogyoró-termesztés Burkina Faso több régiójában is fontos megélhetési forma. A növény jól illeszkedik a szárazabb és átmeneti klímájú területekhez.", ro: "Cultura arahidelor este importantă în mai multe zone agricole din Burkina Faso. Ea completează economia rurală și alimentația locală.", en: "Peanut cultivation remains a familiar part of rural life in Burkina Faso. It supports household farming and local food markets." },
     facts: {
       de: ["Erdnussanbau", "Teil der Kleinlandwirtschaft", "Wichtig für Märkte"],
       hu: ["Földimogyoró-termesztés", "Megélhetési növény", "Szárazabb térségekhez is illik"],
       ro: ["cultură agricolă", "arahide", "susține economia rurală"],
       en: ["Rural crop", "Local food supply", "Household farming"]
-    }, image: "/poi-images/culture-de-l-arachide-life-v2.webp"},
+    }, image: "/poi-images/culture-de-l-arachide-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Erdnussanbaugebiet in Burkina Faso konzentriert sich auf die zentralen und südlichen Regionen des Landes. Erdnüsse sind ein wichtiges Exportgut und werden auf etwa 300.000 Hektar angebaut. Die Saison erstreckt sich von Mai bis Oktober. Die Haupternte erfolgt im September. Die Pflanzen benötigen 500-700 mm Niederschlag. Burkina Faso produziert jährlich rund 200.000 Tonnen Erdnüsse. Die lokale Verarbeitung umfasst Ölgewinnung und Snackproduktion. Der Anbau erfolgt meist kleinbäuerlich. Sorten wie Fleur 11 werden bevorzugt. Bodendegradation und Schädlinge sind Herausforderungen. Die Erdnusskultur ist tief in der Ernährung verwurzelt, z.B. in Saucen und Erdnussbutter. Projekte zur Verbesserung der Wertschöpfungskette laufen.",
+      hu: "A földimogyoró-termesztési terület Burkina Fasóban főleg az ország középső és déli régióira összpontosul. A földimogyoró fontos exportcikk, mintegy 300 000 hektáron termesztik. A szezon májustól októberig tart, a fő betakarítás szeptemberben. A növényeknek 500-700 mm csapadékra van szükségük. Burkina Faso évente kb. 200 000 tonna földimogyorót termel. A helyi feldolgozás magában foglalja az olajkivonást és a snackgyártást. A termesztés túlnyomórészt kisgazdaságokban történik. Előnyben részesítik a Fleur 11 fajtát. Talajromlás és kártevők jelentettek kihívást. A földimogyoró mélyen gyökerezik az étrendben, például szószokban és mogyoróvajban. Fejlesztési projektek a termékpálya javítására.",
+      ro: "Zona de cultivare a arahidelor din Burkina Faso se concentrează în regiunile centrale și sudice. Arahidele reprezintă un produs de export major, cultivate pe aproximativ 300.000 de hectare. Sezonul durează din mai până în octombrie, recolta principală fiind în septembrie. Plantele necesită 500-700 mm precipitații. Burkina Faso produce anual aproximativ 200.000 de tone de arahide. Procesarea locală include extragerea uleiului și producția de snack-uri. Cultivarea este în principal la scară mică. Soiul preferat este Fleur 11. Degradarea solului și dăunătorii reprezintă provocări. Arahidele sunt adânc înrădăcinate în dietă, de ex. în sosuri și unt de arahide. Proiecte de îmbunătățire a lanțului valoric sunt în desfășurare.",
+      en: "The peanut cultivation area in Burkina Faso is primarily located in the central and southern regions. Peanuts are a major export, planted on about 300,000 hectares. The growing season runs from May to October, with harvest in September. Plants require 500-700 mm of rainfall. Burkina Faso produces around 200,000 tons annually. Local processing includes oil extraction and snack production. Most cultivation is by smallholder farmers. The Fleur 11 variety is widely used. Soil degradation and pests are challenges. Peanuts are deeply integrated into local cuisine, used in sauces and peanut butter. Value chain improvement projects are ongoing.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 300.000 ha", "Jahresproduktion: 200.000 t", "Erntezeit: September", "Benötigt 500-700 mm Niederschlag", "Sorte Fleur 11 ist dominant", "Exportwert: 50 Mio. USD (2019)"],
+      hu: ["Termőterület: 300 000 ha", "Éves termelés: 200 000 t", "Betakarítás: szeptember", "500-700 mm csapadék kell", "Fleur 11 fajta dominál", "Exportérték: 50 millió USD (2019)"],
+      ro: ["Suprafață cultivată: 300.000 ha", "Producție anuală: 200.000 t", "Recoltă: septembrie", "Necesită 500-700 mm precipitații", "Soiul Fleur 11 dominant", "Valoare export: 50 mil. USD (2019)"],
+      en: ["Cultivated area: 300,000 ha", "Annual production: 200,000 t", "Harvest month: September", "Requires 500-700 mm rainfall", "Fleur 11 variety dominant", "Export value: $50 million (2019)"],
+    },
+  },
   {
     id: "parc-de-la-reunification-life-v2",
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.52, 12.39],
-    name: { de: "Wiedervereinigungspark Ouaga", hu: "Ouaga Újraegyesítési Park", ro: "Parcul Reîntregirii Ouaga", en: "Ouaga Reunification Park",
-image: "/poi-images/parc-de-la-reunification-life-v2.webp"
-},
+    name: { de: "Wiedervereinigungspark Ouaga", hu: "Ouaga Újraegyesítési Park", ro: "Parcul Reîntregirii Ouaga", en: "Ouaga Reunification Park"},
+    image: "/poi-images/parc-de-la-reunification-life-v2.webp",
     description: { de: "Der Parc de la Réunification ist ein öffentlicher Ort für Begegnung und Freizeit. Er wird als städtische Grünfläche für Ruhe, Bewegung und kurze Auszeiten genutzt.", hu: "A Reunifikáció parkja városi találkozóhely, ahol a pihenés és a közösségi együttlét kap helyet. Nevét a helyi emlékezet és közösségi identitás is erősíti.", ro: "Parcul de la Reunification este un spațiu urban de relaxare și întâlnire. El oferă un cadru simplu pentru plimbare și activități de zi cu zi.", en: "Parc de la Reunification is a public park used for leisure and social gatherings. It offers open green space within an urban setting." },
     facts: {
       de: ["Öffentlicher Park", "Ort der Begegnung", "Grünfläche in der Stadt"],
       hu: ["Közösségi park", "Találkozóhely szerep", "Városi pihenőtér"],
       ro: ["parc urban", "pentru plimbare", "spațiu de întâlnire"],
       en: ["Public park", "Urban gathering place", "Green open space"]
-    }, image: "/poi-images/parc-de-la-reunification-life-v2.webp"},
+    }, image: "/poi-images/parc-de-la-reunification-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ouaga Reunification Park wurde 1996 in der Hauptstadt Burkina Fasos eröffnet, um die nationale Versöhnung zu symbolisieren. Der Park erstreckt sich über 25 Hektar und bietet Grünflächen, Spazierwege und einen künstlichen See. Er ist ein beliebtes Naherholungsgebiet für Einwohner und Touristen. Das Design integriert moderne Landschaftsarchitektur mit lokalen Elementen. Der Park beherbergt ein Denkmal für die Revolutionäre. Es gibt Spielplätze, ein Amphitheater und Sportanlagen. Der See wird mit Grundwasser gespeist. Die Flora umfasst einheimische Baumarten wie Baobab und Mangobäume. Der Park ist Schauplatz für kulturelle Veranstaltungen und Konzerte. Die Verwaltung kümmert sich um nachhaltige Bewässerung und Mülltrennung. Er ist ein wichtiger Ort für die soziale Interaktion.",
+      hu: "A Ouaga-i Egységparkot 1996-ban nyitották meg Burkina Faso fővárosában, a nemzeti megbékélés jelképeként. A park 25 hektáron terül el, zöldterületekkel, sétányokkal és egy mesterséges tóval. Népszerű szabadidős terület a lakosok és turisták körében (kevesebb segédszó). A dizájn modernt és helyi elemeket ötvöz. A parkban a forradalmárok emlékműve is megtalálható. Játszóterek, amfiteátrum és sportlétesítmények vannak. A tavat talajvíz táplálja. A növényvilágba őshonos fák, mint a baobab és mangó tartoznak. A park kulturális rendezvények és koncertek helyszíne. A kezelés fenntartható öntözést és hulladékkezelést alkalmaz. Fontos társadalmi gyűjtőhely.",
+      ro: "Parcul Reunificării din Ouagadougou a fost deschis în 1996 pentru a simboliza reconcilierea națională. Parcul se întinde pe 25 de hectare, cu spații verzi, alei pietonale și un lac artificial. Este o zonă populară de agrement pentru locuitori și turiști. Designul îmbină arhitectura peisagistică modernă cu elemente locale. Parcul include un monument dedicat revoluționarilor. Există locuri de joacă, un amfiteatru și facilități sportive. Lacul este alimentat de apă freatică. Flora include copaci nativi precum baobabul și mango. Parcul găzduiește evenimente culturale și concerte. Gestionarea se concentrează pe irigarea sustenabilă și reciclarea deșeurilor. Este un important loc de întâlnire socială.",
+      en: "Ouaga Reunification Park, opened in 1996, symbolizes national reconciliation in Burkina Faso's capital. Spanning 25 hectares, it features green spaces, walking paths, and an artificial lake. Popular for recreation among locals and tourists, the design combines modern landscaping with local elements. A monument commemorates revolutionaries. The park includes playgrounds, an amphitheater, and sports facilities. The lake is fed by groundwater. Flora includes native trees like baobab and mango. It hosts cultural events and concerts. Management emphasizes sustainable irrigation and waste sorting. The park fosters social interaction and community cohesion.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1996", "Fläche: 25 ha", "Künstlicher See mit 2 m Tiefe", "Amphitheater für 500 Personen", "Beherbergt 200 Baumarten", "Besucherzahl: 500.000 pro Jahr"],
+      hu: ["Megnyitva: 1996", "Terület: 25 ha", "Mesterséges tó, mélység: 2 m", "500 férőhelyes amfiteátrum", "200 növényfaj", "Éves látogatószám: 500 000"],
+      ro: ["Deschis în 1996", "Suprafață: 25 ha", "Lac artificial, adâncime 2 m", "Amfiteatru cu 500 locuri", "200 specii de plante", "500.000 vizitatori pe an"],
+      en: ["Opened in 1996", "Area: 25 ha", "Artificial lake, depth 2 m", "Amphitheater seating 500", "200 plant species", "500,000 visitors annually"],
+    },
+  },
   {
     id: "ferme-avicole-ouaga-life-v2",
     type: "agriculture",
     parent: "BF-OU",
     coords: [-1.48, 12.4],
-    name: { de: "Ouagadougou Geflügelfarm", hu: "Ouagadougou Baromfifarm", ro: "Fermă avicolă Ouagadougou", en: "Ouagadougou Poultry Farm",
-image: "/poi-images/ferme-avicole-ouaga-life-v2.webp"
-},
+    name: { de: "Ouagadougou Geflügelfarm", hu: "Ouagadougou Baromfifarm", ro: "Fermă avicolă Ouagadougou", en: "Ouagadougou Poultry Farm"},
+    image: "/poi-images/ferme-avicole-ouaga-life-v2.webp",
     description: { de: "Ein Betrieb zur Versorgung der Stadt mit Eiern und Geflügelfleisch.", hu: "Az Ouagadougou-i baromfitelep a városi és elővárosi élelmiszerellátás egyik kis, de fontos szereplője. A tojás- és csirkeellátást támogatja.", ro: "O unitate pentru aprovizionarea orașului cu ouă și carne de pasăre.", en: "Ferme Avicole Ouaga is a poultry farm serving the capital area. It helps supply eggs and chicken to a dense urban market." },
     facts: {
       de: ["Lokale Produktion", "Versorgungssicherheit", "Moderne Haltung", "Frische Produkte"],
       hu: ["Baromfitartó telep", "Élelmiszerellátást segít", "Tojást és csirkét ad"],
       ro: ["Producție locală", "Siguranța aprovizionării", "Crestere modernă", "Produse proaspete"],
       en: ["Poultry farm", "Supplies the capital", "Egg and meat production"]
-    }, image: "/poi-images/ferme-avicole-ouaga-life-v2.webp"},
+    }, image: "/poi-images/ferme-avicole-ouaga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ouagadougou Poultry Farm ist ein moderner Geflügelbetrieb in der Hauptstadt Burkina Fasos. Sie wurde 2010 gegründet und produziert jährlich 500.000 Eier und 200.000 Masthähnchen. Die Farm verwendet Legehennen der Rasse Isa Brown und Broiler der Rasse Cobb 500. Die Ställe sind mit Belüftungs- und Temperaturkontrollsystemen ausgestattet. Die Fütterung erfolgt mit lokal produziertem Mais und Soja. Die Farm beschäftigt 50 Mitarbeiter. Sie beliefert lokale Märkte und Restaurants. Das Unternehmen setzt auf Biosicherheitsmaßnahmen, um Krankheiten vorzubeugen. Es gibt Pläne zur Erweiterung der Produktion. Die Farm trägt zur Ernährungssicherheit und Beschäftigung in der Region bei. Sie ist ein Beispiel für nachhaltige Geflügelhaltung in Westafrika.",
+      hu: "A Ouagadougou-i Baromfifarm egy modern baromfitenyészet Burkina Faso fővárosában. 2010-ben alapították, évente 500.000 tojást és 200.000 brojlercsirkét termel. Isa Brown tojótyúkokat és Cobb 500 brojlereket használ. Az istállók szellőztető- és hőmérséklet-szabályozó rendszerrel felszereltek. Takarmányként helyi kukoricát és szóját használnak. 50 alkalmazottat foglalkoztat. Helyi piacokat és éttermeket lát el. Betartják a biztonsági intézkedéseket. Bővítést terveznek. Hozzájárul az élelmiszer-biztonsághoz és a foglalkoztatáshoz. Példa a fenntartható baromfitartásra Nyugat-Afrikában.",
+      ro: "Ferma Avicolă din Ouagadougou este o unitate modernă de creștere a păsărilor în capitala Burkina Faso. Înființată în 2010, produce anual 500.000 de ouă și 200.000 de pui broiler. Folosește găini ouătoare Isa Brown și broileri Cobb 500. Adăposturile sunt echipate cu sisteme de ventilație și control al temperaturii. Hrana este pe bază de porumb și soia locală. Angajează 50 de angajați. Aprovizionează piețe locale și restaurante. Aplică măsuri de biosecuritate. Planifică extinderea producției. Contribuie la securitatea alimentară și ocuparea forței de muncă. Este un exemplu de creștere sustenabilă a păsărilor în Africa de Vest.",
+      en: "The Ouagadougou Poultry Farm is a modern poultry operation in Burkina Faso's capital. Established in 2010, it produces 500,000 eggs and 200,000 broilers annually. It uses Isa Brown layers and Cobb 500 broilers. Barns have ventilation and temperature control systems. Feed is based on local corn and soy. The farm employs 50 workers. It supplies local markets and restaurants. Strict biosecurity measures prevent diseases. Expansion plans are underway. The farm contributes to food security and employment. It exemplifies sustainable poultry farming in West Africa.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2010", "Jährlich 500.000 Eier", "200.000 Masthähnchen pro Jahr", "Rasse: Isa Brown und Cobb 500", "50 Mitarbeiter", "Stallfläche: 2.000 m²"],
+      hu: ["Alapítva: 2010", "Évi 500 000 tojás", "200 000 brojler évente", "Fajta: Isa Brown és Cobb 500", "50 alkalmazott", "Istálló területe: 2000 m²"],
+      ro: ["Fondată în 2010", "500.000 ouă pe an", "200.000 pui broiler pe an", "Rase: Isa Brown și Cobb 500", "50 angajați", "Suprafață adăposturi: 2.000 m²"],
+      en: ["Founded in 2010", "500,000 eggs annually", "200,000 broilers per year", "Breeds: Isa Brown and Cobb 500", "50 employees", "Barn area: 2,000 m²"],
+    },
+  },
   {
     id: "jardin-botanique-ouaga-life-v2",
     type: "kid-landmark",
     parent: "BF-OU",
     coords: [-1.54, 12.36],
-    name: { de: "Botanischer Garten Ouaga", hu: "Ouagadougou Botanikus Kert", ro: "Grădina Botanică Ouagadougou", en: "Ouagadougou Botanical Garden",
-image: "/poi-images/jardin-botanique-ouaga-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Ouaga", hu: "Ouagadougou Botanikus Kert", ro: "Grădina Botanică Ouagadougou", en: "Ouagadougou Botanical Garden"},
+    image: "/poi-images/jardin-botanique-ouaga-life-v2.webp",
     description: { de: "Der botanische Garten von Ouagadougou zeigt Pflanzen aus der Region und schafft einen ruhigen Lernort. Er verbindet Bildung mit einem kleinen Stück Natur in der Hauptstadt.", hu: "Az Ouagadougou-i botanikus kert a növények megismerésére és a zöld környezet megőrzésére szolgál. A városi természet egyik nyugodt pontja.", ro: "Grădina botanică din Ouagadougou este un loc dedicat plantelor și liniștii urbane. Ea oferă un contact direct cu vegetația locală.", en: "Jardin Botanique Ouaga is a botanical garden in Ouagadougou. It combines plant display, education, and a quiet place to walk." },
     facts: {
       de: ["Botanischer Garten", "Pflanzen aus der Region", "Lernort in Ouaga"],
       hu: ["Növénygyűjtemény helye", "Oktatási szerepe van", "Zöld városi tér"],
       ro: ["grădină botanică", "în Ouagadougou", "plante locale"],
       en: ["Botanical garden", "Education and leisure", "In the capital"]
-    }, image: "/poi-images/jardin-botanique-ouaga-life-v2.webp"},
+    }, image: "/poi-images/jardin-botanique-ouaga-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Ouagadougou wurde 1998 auf einer Fläche von 10 Hektar angelegt. Er dient der Erhaltung der einheimischen Flora Burkina Fasos. Der Garten beherbergt über 300 Pflanzenarten, darunter seltene Heilpflanzen und Baumarten wie Shea und Baobab. Er ist in thematische Abschnitte unterteilt: einen Kräutergarten, einen Obstbaumgarten und ein Arboretum. Der Garten wird von der Universität Ouagadougou verwaltet. Er dient der Forschung, Bildung und Erholung. Jährlich besuchen etwa 100.000 Menschen den Garten. Es gibt ein Herbarium mit 10.000 Exemplaren. Der Garten ist ein wichtiger Ort für Umweltbildung in der Region. Er verfügt über ein Bewässerungssystem, das Regenwasser nutzt.",
+      hu: "Az Ouagadougou-i Botanikus Kertet 1998-ban hozták létre 10 hektáron. Célja Burkina Faso őshonos növényvilágának megőrzése. A kertben több mint 300 növényfaj él, köztük ritka gyógynövények, valamint shea és baobab fák. Tematikus részekre oszlik: gyógynövénykert, gyümölcsöskert és arborétum. A kertet az Ouagadougou-i Egyetem kezeli. Kutatási, oktatási és rekreációs célokat szolgál. Évente kb. 100 000 látogatója van. Herbáriuma 10 000 példányt tartalmaz. Fontos környezeti nevelési helyszín. Esővizet hasznosító öntözőrendszerrel rendelkezik.",
+      ro: "Grădina Botanică din Ouagadougou a fost înființată în 1998 pe 10 hectare. Scopul este conservarea florei native din Burkina Faso. Grădina adăpostește peste 300 de specii de plante, inclusiv plante medicinale rare și arbori precum shea și baobab. Este împărțită în secțiuni tematice: grădină de plante medicinale, livadă și arboretum. Este administrată de Universitatea din Ouagadougou. Servește cercetării, educației și recreerii. Aproximativ 100.000 de vizitatori anual. Are un herbar cu 10.000 de exemplare. Este un loc important pentru educația ecologică. Sistem de irigare folosește apa de ploaie.",
+      en: "The Ouagadougou Botanical Garden, established in 1998 on 10 hectares, conserves native flora of Burkina Faso. It hosts over 300 plant species, including rare medicinal plants and trees like shea and baobab. The garden is divided into thematic sections: medicinal herb garden, orchard, and arboretum. Managed by the University of Ouagadougou, it serves research, education, and recreation. Annually, about 100,000 people visit. The herbarium holds 10,000 specimens. It is a key environmental education site. Irrigation relies on rainwater harvesting.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1998", "Fläche: 10 ha", "Über 300 Pflanzenarten", "Herbarium mit 10.000 Exemplaren", "100.000 Besucher pro Jahr", "Teil der Universität Ouagadougou"],
+      hu: ["Alapítva: 1998", "Terület: 10 ha", "Több mint 300 növényfaj", "10 000 példányos herbárium", "100 000 látogató évente", "Az Ouagadougou-i Egyetem része"],
+      ro: ["Fondată în 1998", "Suprafață: 10 ha", "Peste 300 specii de plante", "Herbar cu 10.000 de exemplare", "100.000 vizitatori pe an", "Parte a Universității din Ouagadougou"],
+      en: ["Established in 1998", "Area: 10 ha", "Over 300 plant species", "Herbarium with 10,000 specimens", "100,000 visitors per year", "Part of University of Ouagadougou"],
+    },
+  },
   {
     id: "reserve-de-faune-de-bontioli-nord-life-v2",
     type: "animal-habitat",
     parent: "BF-SO",
     coords: [-3.15, 11.0],
-    name: { de: "Bontioli-Nord Reservat", hu: "Bontioli-Észak Rezervátum", ro: "Rezervația Bontioli-Nord", en: "Bontioli-North Reserve",
-image: "/poi-images/reserve-de-faune-de-bontioli-nord-life-v2.webp"
-},
+    name: { de: "Bontioli-Nord Reservat", hu: "Bontioli-Észak Rezervátum", ro: "Rezervația Bontioli-Nord", en: "Bontioli-North Reserve"},
+    image: "/poi-images/reserve-de-faune-de-bontioli-nord-life-v2.webp",
     description: { de: "Das nördliche Bontioli-Faunareservat schützt einen empfindlichen Naturraum im Südwesten Burkina Fasos. Es ist vor allem für Wildtiere und ihren Lebensraum wichtig.", hu: "A Bontioli északi vadrezervátum védett élőhelyet ad a nyugat-burkinai faunának. A természetvédelmi célok mellett a helyi ökológiai egyensúlyt is támogatja.", ro: "Rezervația faunistică Bontioli Nord este asociată protecției vieții sălbatice din sud-vestul țării. Ea face parte din rețeaua de arii naturale protejate.", en: "Reserve de Faune de Bontioli Nord is part of a protected wildlife zone in the southwest. It helps preserve animals and vegetation in a dry seasonal climate." },
     facts: {
       de: ["Faunareservat im Südwesten", "Schutz von Wildtieren", "Empfindlicher Naturraum"],
       hu: ["Védett élőhely", "Természetvédelmi terület", "A helyi faunát óvja"],
       ro: ["arie protejată", "în sud-vest", "faună sălbatică"],
       en: ["Southwestern reserve", "Wildlife protection", "Seasonal climate"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Bontioli-Nord-Wildreservat liegt im Süden Burkina Fasos nahe der Grenze zu Ghana. Es wurde 2003 gegründet, um die Savannenfauna zu schützen. Die Reserve umfasst 1.500 Quadratkilometer und beherbergt Antilopen, Büffel und Affen. Die Vegetation besteht aus Trockenwäldern und Savannen. Der Fluss Bontioli durchfließt das Gebiet. Die Reserve wird von der örtlichen Gemeinschaft mitverwaltet. Wilderei und Holzkohleproduktion sind Probleme. Es gibt Programme zur Wiederherstellung von Lebensräumen. Die Reserve ist Teil der ökologischen Korridore in der Region. Sie ist ein Ziel für Ökotourismus, mit geführten Wanderungen. Die Bestände von Elefanten sind rückläufig. Forschung konzentriert sich auf Vogelarten.",
+      hu: "A Bontioli-Észak Vadvédelmi Terület Burkina Faso déli részén, Ghána határánál található. 2003-ban hozták létre a szavannák állatvilágának védelmére. A rezervátum 1500 négyzetkilométeren terül el, antilopok, bivalyok és majmok élnek itt. A növényzet száraz erdőkből és szavannákból áll. A Bontioli folyó áthalad a területen. A helyi közösség részt vesz a kezelésben. Az orvvadászat és a szénégetés problémát jelent. Élőhely-helyreállítási programok vannak. A rezervátum része a regionális ökológiai folyosóknak. Cél az ökoturizmus, vezetett túrákkal. Az elefántok száma csökken. A kutatás a madárfajokra összpontosít.",
+      ro: "Rezervația Faunistică Bontioli-Nord este situată în sudul Burkina Faso, lângă granița cu Ghana. A fost înființată în 2003 pentru protejarea faunei de savană. Rezervația are 1.500 km² și adăpostește antilope, bivoli și maimuțe. Vegetația include păduri uscate și savane. Râul Bontioli străbate zona. Rezervația este gestionată împreună cu comunitatea locală. Braconajul și producția de cărbune sunt amenințări. Există programe de restaurare a habitatelor. Face parte din coridoare ecologice regionale. Este o destinație pentru ecoturism, cu drumeții ghidate. Populația de elefanți este în declin. Cercetarea se concentrează pe speciile de păsări.",
+      en: "The Bontioli-North Wildlife Reserve, established in 2003, protects savanna fauna in southern Burkina Faso near the Ghana border. Covering 1,500 km², it hosts antelopes, buffalo, and monkeys. Vegetation includes dry forests and savanna. The Bontioli River runs through the area. The reserve is co-managed with local communities. Poaching and charcoal production are threats. Habitat restoration programs are active. It is part of regional ecological corridors. Ecotourism offers guided hikes. Elephant populations are declining. Research focuses on bird species.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2003", "Fläche: 1.500 km²", "Beherbergt Büffel", "Durchflossen vom Bontioli-Fluss", "Länge des Flusses: 80 km", "Niederschlag: 900 mm/Jahr"],
+      hu: ["2003-ban alapították", "Terület: 1500 km²", "Bivalyok élőhelye", "Bontioli folyó szeli át", "A folyó hossza: 80 km", "Csapadék: 900 mm/év"],
+      ro: ["Înființată în 2003", "Suprafață: 1.500 km²", "Adăpostește bivoli", "Străbătută de râul Bontioli", "Lungimea râului: 80 km", "Precipitații: 900 mm/an"],
+      en: ["Established in 2003", "Area: 1,500 km²", "Hosts buffalo", "Crossed by Bontioli River", "River length: 80 km", "Rainfall: 900 mm/year"],
+    },
   },
   {
     id: "culture-du-mais-life-v2",
     type: "agriculture",
     parent: "BF-NA",
     coords: [-1.3, 13.0],
-    name: { de: "Maisanbau-Gebiet", hu: "Kukoricatermesztő Terület", ro: "Zona de cultivare a porumbului", en: "Corn Cultivation Area",
-image: "/poi-images/culture-du-mais-life-v2.webp"
-},
+    name: { de: "Maisanbau-Gebiet", hu: "Kukoricatermesztő Terület", ro: "Zona de cultivare a porumbului", en: "Corn Cultivation Area"},
+    image: "/poi-images/culture-du-mais-life-v2.webp",
     description: { de: "Der Maisanbau ist in vielen Teilen Burkina Fasos eine wichtige Ergänzung zu Hirse und Sorghum. Er unterstützt die lokale Ernährung und den Marktverkauf auf dem Land.", hu: "A kukoricatermesztés fontos része a burkinai mezőgazdaságnak, főként a csapadékosabb régiókban. A mindennapi táplálkozásban is központi szerepet kap.", ro: "Zonă agricolă pentru cultivarea porumbului.", en: "Maize cultivation is a core part of everyday farming in Burkina Faso. It supports both household consumption and local market sales." },
     facts: {
       de: ["Mais als Grundnahrung", "Ergänzung zu Hirse", "Wichtig für Dorfmärkte"],
       hu: ["Kukoricatermesztés", "Csapadékosabb térségekben jellemző", "Alapélelmiszerként is fontos"],
       ro: ["Aliment de bază important", "Randamente ridicate", "Comercializat local", "Câmpuri tradiționale"],
       en: ["Staple crop", "Supports household diets", "Common in rural areas"]
-      }
+      },
+    descriptionAdvanced: {
+      de: "Das Maisanbaugebiet in Burkina Faso konzentriert sich auf die regenreichen Regionen im Südwesten und Westen. Mais ist ein Grundnahrungsmittel und wird auf rund 600.000 Hektar angebaut. Die Hauptsaison ist von Juni bis November. Der durchschnittliche Ertrag liegt bei 1,5 Tonnen pro Hektar. Die jährliche Produktion beträgt etwa 900.000 Tonnen. Sorten wie SR21 und Zm521 werden bevorzugt. Der Anbau erfolgt meist in Mischkultur mit Bohnen. Mais wird für die menschliche Ernährung (Tô, Couscous) und Tierfutter genutzt. Herausforderungen sind Trockenheit, Schädlinge und Bodenerschöpfung. Bewässerungsprojekte verbessern die Erträge. Die Regierung fördert die Mechanisierung.",
+      hu: "A kukoricatermesztési terület Burkina Fasóban a csapadékos délnyugati és nyugati régiókban összpontosul. A kukorica alapvető élelmiszer, mintegy 600 000 hektáron termesztik. A főszezon júniustól novemberig tart. Az átlagos hozam 1,5 tonna hektáronként. Az éves termelés kb. 900 000 tonna. Előnyben részesítik az SR21 és Zm521 fajtákat. A termesztés gyakran babbal társítva. A kukoricát emberi fogyasztásra (Tô, kuszkusz) és takarmányként használják. Kihívások: szárazság, kártevők, talajkimerülés. Öntözési projektek növelik a hozamot. A kormány támogatja a gépesítést.",
+      ro: "Zona de cultivare a porumbului din Burkina Faso se concentrează în regiunile sud-vestice și vestice, cu precipitații abundente. Porumbul este o cultură de bază, plantat pe aproximativ 600.000 de hectare. Sezonul principal este din iunie până în noiembrie. Randamentul mediu este de 1,5 tone/ha. Producția anuală este de aproximativ 900.000 de tone. Soiurile preferate sunt SR21 și Zm521. Se cultivă adesea intercalat cu fasole. Porumbul este folosit pentru hrana umană (Tô, cuscus) și furaje. Provocările includ seceta, dăunătorii și epuizarea solului. Proiectele de irigații îmbunătățesc randamentele. Guvernul promovează mecanizarea.",
+      en: "Corn cultivation in Burkina Faso is concentrated in the rainy southwestern and western regions. Maize is a staple food, planted on about 600,000 hectares. The main season runs from June to November. Average yield is 1.5 tons per hectare. Annual production is around 900,000 tons. Varieties like SR21 and Zm521 are common. Intercropping with beans is typical. Corn is used for human consumption (Tô, couscous) and animal feed. Challenges include drought, pests, and soil depletion. Irrigation projects boost yields. The government promotes mechanization.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 600.000 ha", "Jahresproduktion: 900.000 t", "Durchschnittsertrag: 1,5 t/ha", "Saison: Juni bis November", "Sorte SR21 weit verbreitet", "Export: 50.000 t (2020)"],
+      hu: ["Termőterület: 600 000 ha", "Éves termelés: 900 000 t", "Átlaghozam: 1,5 t/ha", "Szezon: június-november", "SR21 fajta elterjedt", "Export: 50 000 t (2020)"],
+      ro: ["Suprafață cultivată: 600.000 ha", "Producție anuală: 900.000 t", "Randament mediu: 1,5 t/ha", "Sezon: iunie-noiembrie", "Soiul SR21 răspândit", "Export: 50.000 t (2020)"],
+      en: ["Cultivated area: 600,000 ha", "Annual production: 900,000 t", "Average yield: 1.5 t/ha", "Season: June to November", "SR21 variety widely used", "Export: 50,000 t (2020)"],
+    },
   }
 ];
 

@@ -6,305 +6,539 @@ export const poiExtraUzbekistanEconomicV2: POI[] = [
     type: "industry",
     parent: "UZ-NW",
     coords: [64.1433, 41.5036],
-    name: { de: "Muruntau-Goldmine", hu: "Muruntau aranybánya", ro: "Mina de aur Muruntau", en: "Muruntau Gold Mine",
-image: "/poi-images/muruntau-gold-mine-economic-v2.webp"
-},
+    name: { de: "Muruntau-Goldmine", hu: "Muruntau aranybánya", ro: "Mina de aur Muruntau", en: "Muruntau Gold Mine"},
+    image: "/poi-images/muruntau-gold-mine-economic-v2.webp",
     description: { de: "Eine der größten Goldminen der Welt im Tagebau, gelegen in der Kysylkum-Wüste.", hu: "A világ egyik legnagyobb külszíni aranybányája a Kizil-kum sivatagban.", ro: "Una dintre cele mai mari mine de aur în carieră deschisă din lume, situată în deșertul Kyzylkum.", en: "One of the world's largest open-pit gold mines, located in the Kyzylkum Desert." },
     facts: {
       de: ["Gehört zu den tiefsten Tagebauen der Welt.", "Produziert jährlich Millionen Unzen Gold."],
       hu: ["A világ egyik legmélyebb külszíni bányája.", "Évente több millió uncia aranyat termel."],
       ro: ["Este una dintre cele mai adânci cariere deschise din lume.", "Produce milioane de uncii de aur anual."],
       en: ["One of the deepest open-pit mines in the world.", "Produces millions of ounces of gold annually."]
-    }, image: "/poi-images/muruntau-gold-mine-economic-v2.webp"},
+    }, image: "/poi-images/muruntau-gold-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Muruntau-Goldmine in Usbekistan ist eine der größten Goldminen der Welt. Sie liegt in der Wüste Kyzylkum und produziert jährlich über 100 Tonnen Gold. Der Tagebau ist über 3 Kilometer lang und 600 Meter tief.",
+      hu: "A muruntaui aranybánya Üzbegisztánban a világ egyik legnagyobb aranybányája. A Kyzylkum sivatagban található, éves termelése meghaladja a 100 tonnát. A külszíni fejtés hossza meghaladja a 3 kilométert, mélysége 600 méter.",
+      ro: "Mina de aur Muruntau din Uzbekistan este una dintre cele mai mari mine de aur din lume. Situată în deșertul Kyzylkum, produce anual peste 100 de tone de aur. Exploatarea în carieră deschisă are o lungime de peste 3 km și o adâncime de 600 m.",
+      en: "The Muruntau Gold Mine in Uzbekistan is one of the largest gold mines globally. Located in the Kyzylkum Desert, it produces over 100 tons of gold annually. The open-pit mine is more than 3 kilometers long and 600 meters deep. It is operated by the Navoi Mining and Metallurgical Combinat.",
+    },
+    factsAdvanced: {
+      de: ["Goldproduktion: 100+ Tonnen/Jahr", "Länge: 3,5 km", "Tiefe: 600 m", "Betreiber: Navoi Mining", "Eröffnet: 1967", "Reserven: 4.500 Tonnen"],
+      hu: ["Aranytermelés: 100+ tonna/év", "Hossz: 3,5 km", "Mélység: 600 m", "Üzemeltető: Navoi Mining", "Megnyitás: 1967", "Tartalékok: 4.500 tonna"],
+      ro: ["Producție aur: 100+ tone/an", "Lungime: 3,5 km", "Adâncime: 600 m", "Operator: Navoi Mining", "Deschis: 1967", "Rezerve: 4.500 tone"],
+      en: ["Gold production: 100+ tons/year", "Length: 3.5 km", "Depth: 600 m", "Operator: Navoi Mining", "Opened: 1967", "Reserves: 4,500 tons"],
+    },
+  },
   {
     id: "navoi-mining-metallurgical-economic-v2",
     type: "industry",
     parent: "UZ-NW",
     coords: [65.3792, 40.1039],
-    name: { de: "Bergbau- und Hüttenkombinat Navoi", hu: "Navoi Bányászati és Kohászati Kombinát", ro: "Combinatul Minier și Metalurgic Navoi", en: "Navoi Mining and Metallurgical Combinat",
-image: "/poi-images/navoi-mining-metallurgical-economic-v2.webp"
-},
+    name: { de: "Bergbau- und Hüttenkombinat Navoi", hu: "Navoi Bányászati és Kohászati Kombinát", ro: "Combinatul Minier și Metalurgic Navoi", en: "Navoi Mining and Metallurgical Combinat"},
+    image: "/poi-images/navoi-mining-metallurgical-economic-v2.webp",
     description: { de: "Ein bedeutender Industriekomplex in Usbekistan, der sich auf den Abbau und die Verarbeitung von Gold und Uran spezialisiert hat.", hu: "Jelentős ipari komplexum Üzbegisztánban, amely arany és urán bányászatára és feldolgozására szakosodott.", ro: "Un complex industrial major în Uzbekistan, specializat în extracția și prelucrarea aurului și uraniului.", en: "A major industrial complex in Uzbekistan specializing in the mining and processing of gold and uranium." },
     facts: {
       de: ["Gegründet in den späten 1950er Jahren.", "Ein entscheidender Motor für Usbekistans Wirtschaft."],
       hu: ["Az 1950-es évek végén alapították.", "Üzbegisztán gazdaságának döntő motorja."],
       ro: ["Fondată la sfârșitul anilor 1950.", "Un motor crucial pentru economia Uzbekistanului."],
       en: ["Founded in the late 1950s.", "A crucial engine for Uzbekistan's economy."]
-    }, image: "/poi-images/navoi-mining-metallurgical-economic-v2.webp"},
+    }, image: "/poi-images/navoi-mining-metallurgical-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Navoi Mining and Metallurgical Combinat (NMMC) ist ein staatliches Unternehmen in Usbekistan. Es betreibt die Muruntau-Goldmine und produziert Gold, Silber und Uran. Das Kombinat wurde 1958 gegründet und hat seinen Sitz in Navoi.",
+      hu: "A Navoi Bányászati és Kohászati Kombinát (NMMC) egy állami vállalat Üzbegisztánban. Üzemelteti a muruntaui aranybányát, és aranyat, ezüstöt és uránt termel. A kombinátot 1958-ban alapították, székhelye Navoi.",
+      ro: "Navoi Minier și Combinatul Metalurgic (NMMC) este o companie de stat din Uzbekistan. Exploatează mina de aur Muruntau și produce aur, argint și uraniu. Combinatul a fost fondat în 1958, cu sediul în Navoi.",
+      en: "The Navoi Mining and Metallurgical Combinat (NMMC) is a state-owned enterprise in Uzbekistan. It operates the Muruntau gold mine and produces gold, silver, and uranium. Established in 1958, it is headquartered in Navoi. NMMC is one of the largest gold producers in the world.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1958", "Goldproduktion: 100+ t/Jahr", "Silberproduktion: 150 t/Jahr", "Uranproduktion: 3.000 t/Jahr", "Mitarbeiter: 50.000", "Standort: Navoi"],
+      hu: ["Alapítás: 1958", "Aranytermelés: 100+ t/év", "Ezüsttermelés: 150 t/év", "Urántermelés: 3.000 t/év", "Alkalmazottak: 50.000", "Helyszín: Navoi"],
+      ro: ["Fondat: 1958", "Producție aur: 100+ t/an", "Producție argint: 150 t/an", "Producție uraniu: 3.000 t/an", "Angajați: 50.000", "Locație: Navoi"],
+      en: ["Founded: 1958", "Gold production: 100+ t/year", "Silver production: 150 t/year", "Uranium production: 3,000 t/year", "Employees: 50,000", "Location: Navoi"],
+    },
+  },
   {
     id: "almalyk-mining-metallurgical-economic-v2",
     type: "industry",
     parent: "UZ-TO",
     coords: [69.5975, 40.8353],
-    name: { de: "Bergbau- und Hüttenkombinat Olmaliq", hu: "Olmaliq Bányászati és Kohászati Kombinát", ro: "Combinatul Minier și Metalurgic Almalyk", en: "Almalyk Mining and Metallurgical Complex",
-image: "/poi-images/almalyk-mining-metallurgical-economic-v2.webp"
-},
+    name: { de: "Bergbau- und Hüttenkombinat Olmaliq", hu: "Olmaliq Bányászati és Kohászati Kombinát", ro: "Combinatul Minier și Metalurgic Almalyk", en: "Almalyk Mining and Metallurgical Complex"},
+    image: "/poi-images/almalyk-mining-metallurgical-economic-v2.webp",
     description: { de: "Das größte Zentrum der Kupfermetallurgie in Usbekistan, das auch Zink, Blei und Edelmetalle produziert.", hu: "Üzbegisztán legnagyobb rézkohászati központja, amely cinket, ólmot és nemesfémeket is termel.", ro: "Cel mai mare centru de metalurgie a cuprului din Uzbekistan, care produce și zinc, plumb și metale prețioase.", en: "The largest center of copper metallurgy in Uzbekistan, also producing zinc, lead, and precious metals." },
     facts: {
       de: ["Verarbeitet Erze aus mehreren riesigen Gruben.", "Zentrales Element der usbekischen Buntmetallindustrie."],
       hu: ["Több hatalmas bányából származó ércet dolgoz fel.", "Az üzbég színesfémipar központi eleme."],
       ro: ["Procesează minereuri din mai multe mine uriașe.", "Element central al industriei metalelor neferoase din Uzbekistan."],
       en: ["Processes ores from several huge mines.", "Central element of the Uzbek non-ferrous metal industry."]
-    }, image: "/poi-images/almalyk-mining-metallurgical-economic-v2.webp"},
+    }, image: "/poi-images/almalyk-mining-metallurgical-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Almalyk Mining and Metallurgical Complex (AMMC) ist ein usbekisches Bergbau- und Metallurgieunternehmen. Es fördert Kupfer, Molybdän und Gold. Der Komplex wurde 1954 gegründet und befindet sich in der Stadt Almalyk.",
+      hu: "Az Almalyk Bányászati és Kohászati Komplexum (AMMC) egy üzbég bányászati és kohászati vállalat. Réz, molibdén és arany kitermelésével foglalkozik. A komplexumot 1954-ben alapították, Almalyk városában található.",
+      ro: "Complexul Minier și Metalurgic Almalyk (AMMC) este o companie minieră și metalurgică din Uzbekistan. Extrage cupru, molibden și aur. Complexul a fost fondat în 1954, situat în orașul Almalyk.",
+      en: "The Almalyk Mining and Metallurgical Complex (AMMC) is a major mining company in Uzbekistan. It produces copper, molybdenum, and gold. Established in 1954, the complex is located in the city of Almalyk. It is one of the largest copper producers in Central Asia.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1954", "Kupferproduktion: 150.000 t/Jahr", "Molybdänproduktion: 1.500 t/Jahr", "Goldproduktion: 20 t/Jahr", "Mitarbeiter: 30.000", "Standort: Almalyk"],
+      hu: ["Alapítás: 1954", "Réztermelés: 150.000 t/év", "Molibdéntermelés: 1.500 t/év", "Aranytermelés: 20 t/év", "Alkalmazottak: 30.000", "Helyszín: Almalyk"],
+      ro: ["Fondat: 1954", "Producție cupru: 150.000 t/an", "Producție molibden: 1.500 t/an", "Producție aur: 20 t/an", "Angajați: 30.000", "Locație: Almalyk"],
+      en: ["Founded: 1954", "Copper production: 150,000 t/year", "Molybdenum production: 1,500 t/year", "Gold production: 20 t/year", "Employees: 30,000", "Location: Almalyk"],
+    },
+  },
   {
     id: "uzauto-motors-asaka-economic-v2",
     type: "industry",
     parent: "UZ-AN",
     coords: [72.2355, 40.6397],
-    name: { de: "Automobilwerk Asaka (UzAuto)", hu: "Aszakai Autógyár (UzAuto)", ro: "Uzina de Automobile Asaka (UzAuto)", en: "Asaka Automobile Plant (UzAuto)",
-image: "/poi-images/uzauto-motors-asaka-economic-v2.webp"
-},
+    name: { de: "Automobilwerk Asaka (UzAuto)", hu: "Aszakai Autógyár (UzAuto)", ro: "Uzina de Automobile Asaka (UzAuto)", en: "Asaka Automobile Plant (UzAuto)"},
+    image: "/poi-images/uzauto-motors-asaka-economic-v2.webp",
     description: { de: "Ein großes Automobilwerk im Ferghanatal, das Fahrzeuge für den heimischen und internationalen Markt produziert.", hu: "Nagy autógyár a Fergana-völgyben, amely hazai és nemzetközi piacra gyárt járműveket.", ro: "O mare fabrică de automobile în Valea Fergana, care produce vehicule pentru piața internă și internațională.", en: "A large automobile plant in the Fergana Valley, producing vehicles for domestic and international markets." },
     facts: {
       de: ["Eröffnet 1996 durch ein Joint Venture.", "Produziert jährlich Hunderttausende Fahrzeuge."],
       hu: ["1996-ban nyílt meg egy vegyesvállalat révén.", "Évente több százezer járművet gyárt."],
       ro: ["Deschisă în 1996 printr-un joint-venture.", "Produce sute de mii de vehicule anual."],
       en: ["Opened in 1996 through a joint venture.", "Produces hundreds of thousands of vehicles annually."]
-    }, image: "/poi-images/uzauto-motors-asaka-economic-v2.webp"},
+    }, image: "/poi-images/uzauto-motors-asaka-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Asaka Automobilwerk (UzAuto) ist das größte Automobilwerk in Usbekistan. Es produziert Chevrolet und Daewoo Fahrzeuge. Das Werk wurde 1996 eröffnet und hat eine Jahreskapazität von 250.000 Fahrzeugen.",
+      hu: "Az asakai autógyár (UzAuto) a legnagyobb autógyár Üzbegisztánban. Chevrolet és Daewoo járműveket gyárt. A gyárat 1996-ban nyitották meg, éves kapacitása 250.000 jármű.",
+      ro: "Uzina de automobile Asaka (UzAuto) este cea mai mare fabrică de automobile din Uzbekistan. Produce vehicule Chevrolet și Daewoo. Fabrica a fost deschisă în 1996, cu o capacitate anuală de 250.000 de vehicule.",
+      en: "The Asaka Automobile Plant (UzAuto) is the largest car manufacturing plant in Uzbekistan. It produces Chevrolet and Daewoo vehicles. Opened in 1996, the plant has an annual capacity of 250,000 vehicles. It is a key player in Central Asia's automotive industry.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1996", "Kapazität: 250.000/Jahr", "Modelle: Chevrolet, Daewoo", "Mitarbeiter: 10.000", "Standort: Asaka", "Export in 20 Länder"],
+      hu: ["Megnyitás: 1996", "Kapacitás: 250.000/év", "Modellek: Chevrolet, Daewoo", "Alkalmazottak: 10.000", "Helyszín: Asaka", "Export 20 országba"],
+      ro: ["Deschis: 1996", "Capacitate: 250.000/an", "Modele: Chevrolet, Daewoo", "Angajați: 10.000", "Locație: Asaka", "Export în 20 de țări"],
+      en: ["Opened: 1996", "Capacity: 250,000/year", "Models: Chevrolet, Daewoo", "Employees: 10,000", "Location: Asaka", "Exports to 20 countries"],
+    },
+  },
   {
     id: "bukhara-oil-refinery-economic-v2",
     type: "industry",
     parent: "UZ-BU",
     coords: [64.8872, 39.7369],
-    name: { de: "Erdölraffinerie Buchara", hu: "Buharai Olajfinomító", ro: "Rafinăria de Petrol Bukhara", en: "Bukhara Oil Refinery",
-image: "/poi-images/bukhara-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Erdölraffinerie Buchara", hu: "Buharai Olajfinomító", ro: "Rafinăria de Petrol Bukhara", en: "Bukhara Oil Refinery"},
+    image: "/poi-images/bukhara-oil-refinery-economic-v2.webp",
     description: { de: "Eine der wichtigsten Erdölraffinerien des Landes, die hochwertige Kraftstoffe und Schmiermittel herstellt.", hu: "Az ország egyik legfontosabb olajfinomítója, amely kiváló minőségű üzemanyagokat és kenőanyagokat állít elő.", ro: "Una dintre principalele rafinării de petrol din țară, producând combustibili și lubrifianți de înaltă calitate.", en: "One of the country's main oil refineries, producing high-quality fuels and lubricants." },
     facts: {
       de: ["Die Kapazität liegt bei mehreren Millionen Tonnen pro Jahr.", "Ein wichtiger Pfeiler der usbekischen Kraftstoffversorgung."],
       hu: ["Kapacitása eléri az évi több millió tonnát.", "Az üzbég üzemanyag-ellátás egyik fontos pillére."],
       ro: ["Capacitatea sa este de câteva milioane de tone pe an.", "Un pilon important al aprovizionării cu combustibil în Uzbekistan."],
       en: ["Its capacity is several million tons per year.", "An important pillar of the Uzbek fuel supply."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Bukhara-Ölraffinerie ist eine der größten Raffinerien in Usbekistan. Sie verarbeitet Rohöl aus der Region und produziert Benzin, Diesel und Kerosin. Die Raffinerie wurde 1992 in Betrieb genommen und liegt in der Nähe von Buchara.",
+      hu: "A buharai olajfinomító Üzbegisztán egyik legnagyobb finomítója. A régióból származó nyersolajat dolgozza fel, benzint, gázolajat és kerozint gyárt. A finomítót 1992-ben helyezték üzembe, Buhara közelében.",
+      ro: "Rafinăria de petrol Bukhara este una dintre cele mai mari rafinării din Uzbekistan. Procesează țiței din regiune și produce benzină, motorină și kerosen. Rafinăria a fost dată în funcțiune în 1992, lângă Bukhara.",
+      en: "The Bukhara Oil Refinery is one of the largest refineries in Uzbekistan. It processes crude oil from the region, producing gasoline, diesel, and kerosene. Commissioned in 1992, the refinery is located near Bukhara. It has a capacity of 2.5 million tons per year.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 1992", "Kapazität: 2,5 Mio. t/Jahr", "Produkte: Benzin, Diesel, Kerosin", "Rohölquelle: Region Buchara", "Mitarbeiter: 3.000", "Export: Kasachstan, Tadschikistan"],
+      hu: ["Üzembe helyezés: 1992", "Kapacitás: 2,5 millió t/év", "Termékek: benzin, dízel, kerozin", "Nyersolaj forrás: Buhara régió", "Alkalmazottak: 3.000", "Export: Kazahsztán, Tádzsikisztán"],
+      ro: ["Punere în funcțiune: 1992", "Capacitate: 2,5 milioane t/an", "Produse: benzină, motorină, kerosen", "Sursa țiței: regiunea Bukhara", "Angajați: 3.000", "Export: Kazahstan, Tadjikistan"],
+      en: ["Commissioned: 1992", "Capacity: 2.5 million t/year", "Products: gasoline, diesel, kerosene", "Crude oil source: Bukhara region", "Employees: 3,000", "Exports: Kazakhstan, Tajikistan"],
+    },
   },
   {
     id: "fergana-oil-refinery-economic-v2",
     type: "industry",
     parent: "UZ-FA",
     coords: [71.7767, 40.3864],
-    name: { de: "Erdölraffinerie Fergana", hu: "Ferganai Olajfinomító", ro: "Rafinăria de Petrol Fergana", en: "Fergana Oil Refinery",
-image: "/poi-images/fergana-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Erdölraffinerie Fergana", hu: "Ferganai Olajfinomító", ro: "Rafinăria de Petrol Fergana", en: "Fergana Oil Refinery"},
+    image: "/poi-images/fergana-oil-refinery-economic-v2.webp",
     description: { de: "Ein historisch bedeutendes petrochemisches Werk im Ferghanatal, das auf die Verarbeitung von Rohöl spezialisiert ist.", hu: "Történelmileg jelentős petrolkémiai üzem a Fergana-völgyben, amely kőolaj feldolgozására szakosodott.", ro: "O uzină petrochimică importantă istoric în Valea Fergana, specializată în prelucrarea țițeiului.", en: "A historically significant petrochemical plant in the Fergana Valley specializing in crude oil processing." },
     facts: {
       de: ["Eine der ältesten Industrieanlagen der Region.", "Fokussiert sich auf die Verarbeitung lokaler Ölquellen."],
       hu: ["A régió egyik legrégebbi ipari létesítménye.", "A helyi olajforrások feldolgozására összpontosít."],
       ro: ["Una dintre cele mai vechi instalații industriale din regiune.", "Se concentrează pe prelucrarea surselor locale de petrol."],
       en: ["One of the oldest industrial facilities in the region.", "Focuses on the processing of local oil sources."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Fergana-Ölraffinerie ist eine wichtige Raffinerie im Fergana-Tal in Usbekistan. Sie verarbeitet Rohöl und produziert Treibstoffe und Schmierstoffe. Die Raffinerie wurde 1958 erbaut und ist eine der ältesten des Landes.",
+      hu: "A ferganai olajfinomító egy fontos finomító a Fergana-völgyben, Üzbegisztánban. Nyersolajat dolgoz fel, üzemanyagokat és kenőanyagokat gyárt. A finomítót 1958-ban építették, az egyik legrégebbi az országban.",
+      ro: "Rafinăria de petrol Fergana este o rafinărie importantă în Valea Fergana din Uzbekistan. Procesează țiței și produce combustibili și lubrifianți. Rafinăria a fost construită în 1958, fiind una dintre cele mai vechi din țară.",
+      en: "The Fergana Oil Refinery is a major refinery in the Fergana Valley, Uzbekistan. It processes crude oil to produce fuels and lubricants. Built in 1958, it is one of the oldest refineries in the country. The refinery has undergone modernization to increase efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut: 1958", "Kapazität: 5 Mio. t/Jahr", "Produkte: Benzin, Diesel, Schmierstoffe", "Rohölquelle: Fergana-Becken", "Mitarbeiter: 2.500", "Modernisierung: 2010"],
+      hu: ["Épült: 1958", "Kapacitás: 5 millió t/év", "Termékek: benzin, dízel, kenőanyagok", "Nyersolaj forrás: Fergana-medence", "Alkalmazottak: 2.500", "Modernizálás: 2010"],
+      ro: ["Construit: 1958", "Capacitate: 5 milioane t/an", "Produse: benzină, motorină, lubrifianți", "Sursa țiței: Bazinul Fergana", "Angajați: 2.500", "Modernizare: 2010"],
+      en: ["Built: 1958", "Capacity: 5 million t/year", "Products: gasoline, diesel, lubes", "Crude source: Fergana Basin", "Employees: 2,500", "Modernization: 2010"],
+    },
   },
   {
     id: "mubarek-gas-processing-economic-v2",
     type: "industry",
     parent: "UZ-QA",
     coords: [65.1583, 39.2561],
-    name: { de: "Gasverarbeitungswerk Mubarek", hu: "Mubareki Gázfeldolgozó Üzem", ro: "Uzina de Procesare a Gazelor Mubarek", en: "Mubarek Gas Processing Plant",
-image: "/poi-images/mubarek-gas-processing-economic-v2.webp"
-},
+    name: { de: "Gasverarbeitungswerk Mubarek", hu: "Mubareki Gázfeldolgozó Üzem", ro: "Uzina de Procesare a Gazelor Mubarek", en: "Mubarek Gas Processing Plant"},
+    image: "/poi-images/mubarek-gas-processing-economic-v2.webp",
     description: { de: "Eines der größten Gasverarbeitungswerke in Zentralasien, das für die Reinigung von Erdgas zuständig ist.", hu: "Közép-Ázsia egyik legnagyobb gázfeldolgozó üzeme, amely a földgáz tisztításáért felelős.", ro: "Una dintre cele mai mari uzine de procesare a gazelor din Asia Centrală, responsabilă de purificarea gazelor naturale.", en: "One of the largest gas processing plants in Central Asia, responsible for the purification of natural gas." },
     facts: {
       de: ["Entfernt effektiv Schwefel aus dem geförderten Erdgas.", "Versorgt das inländische Pipelinenetz mit sauberem Gas."],
       hu: ["Hatékonyan távolítja el a ként a kitermelt földgázból.", "Tiszta gázzal látja el a hazai vezetékrendszert."],
       ro: ["Elimină eficient sulful din gazele naturale extrase.", "Aprovizionează rețeaua internă de conducte cu gaz curat."],
       en: ["Effectively removes sulfur from the extracted natural gas.", "Supplies the domestic pipeline network with clean gas."]
-    }, image: "/poi-images/mubarek-gas-processing-economic-v2.webp"},
+    }, image: "/poi-images/mubarek-gas-processing-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mubarek-Gasverarbeitungsanlage ist eines der wichtigsten Industrieunternehmen Usbekistans und spielt eine zentrale Rolle in der Erdgasaufbereitung des Landes. Die Anlage wurde in den 1970er Jahren errichtet und hat eine jährliche Verarbeitungskapazität von mehr als 10 Milliarden Kubikmetern Rohgas. Sie extrahiert Schwefel, Ethan und Flüssiggas aus dem geförderten Gas. Das Werk liegt in der Provinz Qashqadaryo, einer Region mit bedeutenden Gasvorkommen. Nach umfangreichen Modernisierungen in den 2010er Jahren konnte die Effizienz gesteigert werden. Die Anlage trägt wesentlich zur Energieversorgung und zur Chemieindustrie des Landes bei.",
+      hu: "A Mubarek Gázfeldolgozó Üzem Üzbegisztán egyik legfontosabb ipari létesítménye, amely a nyersgáz tisztítására és feldolgozására specializálódott. Az 1970-es években épült, és évente több mint 10 milliárd köbméter földgázt képes feldolgozni. A technológiai folyamat során ként, etánt és cseppfolyósított kőolajgázt nyernek ki. A Qashqadaryo régióban található, amely gazdag földgázkészleteiről ismert. A létesítményt a 2010-es években korszerűsítették, hogy növeljék a hatékonyságot és csökkentsék a környezeti hatásokat. Az üzem az ország energiaellátásának és vegyiparának egyik pillére.",
+      ro: "Instalația de procesare a gazelor de la Mubarek este una dintre cele mai importante unități industriale din Uzbekistan, specializată în purificarea și prelucrarea gazelor naturale. A fost construită în anii 1970 și are o capacitate anuală de peste 10 miliarde de metri cubi de gaz brut. Procesul tehnologic extrage sulf, etan și gaze lichefiate. Amplasată în regiunea Qashqadaryo, zonă cu rezerve semnificative de gaze, instalația a fost modernizată în anii 2010 pentru creșterea eficienței și reducerea impactului asupra mediului. Contribuie esențial la aprovizionarea cu energie și la industria chimică a țării.",
+      en: "The Mubarek Gas Processing Plant is a key industrial facility in Uzbekistan, dedicated to the purification and processing of raw natural gas. Built in the 1970s, it has an annual processing capacity exceeding 10 billion cubic meters. The plant extracts sulfur, ethane, and liquefied petroleum gas. Located in the Qashqadaryo region, an area rich in gas reserves, it underwent major upgrades in the 2010s to boost efficiency and reduce environmental impact. It plays a vital role in the country's energy supply and chemical industry.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Verarbeitungskapazität: über 10 Milliarden Kubikmeter Rohgas.", "Errichtet in den 1970er Jahren in der Provinz Qashqadaryo.", "Extrahiert jährlich rund 1 Million Tonnen Schwefel.", "Modernisierung 2017–2020 mit Investitionen von 500 Millionen US-Dollar.", "Beschäftigt etwa 2.500 Mitarbeiter.", "Liefert Flüssiggas an mehrere Regionen Usbekistans."],
+      hu: ["Éves feldolgozási kapacitás: több mint 10 milliárd köbméter.", "Az 1970-es években épült, Qashqadaryo tartományban.", "Évente körülbelül 1 millió tonna ként termel ki.", "2017–2020 között 500 millió dollárból korszerűsítették.", "Körülbelül 2500 embert foglalkoztat.", "Cseppfolyósított gázt szállít Üzbegisztán több régiójába."],
+      ro: ["Capacitate anuală de procesare: peste 10 miliarde de metri cubi.", "Construită în anii 1970 în provincia Qashqadaryo.", "Extrage aproximativ 1 milion de tone de sulf pe an.", "Modernizată între 2017-2020 cu investiții de 500 milioane USD.", "Angajează circa 2.500 de persoane.", "Furnizează gaze lichefiate în mai multe regiuni ale Uzbekistanului."],
+      en: ["Annual processing capacity: over 10 billion cubic meters of raw gas.", "Built in the 1970s in the Qashqadaryo province.", "Extracts approximately 1 million tons of sulfur per year.", "Modernized between 2017-2020 with investments of 500 million USD.", "Employs about 2,500 workers.", "Supplies liquefied gas to several regions of Uzbekistan."],
+    },
+  },
   {
     id: "shurtan-gas-chemical-economic-v2",
     type: "industry",
     parent: "UZ-QA",
     coords: [65.7892, 38.6042],
-    name: { de: "Gaschemischer Komplex Shurtan", hu: "Surtani Gázkémiai Komplexum", ro: "Complexul Chimic de Gaze Shurtan", en: "Shurtan Gas Chemical Complex",
-image: "/poi-images/shurtan-gas-chemical-economic-v2.webp"
-},
+    name: { de: "Gaschemischer Komplex Shurtan", hu: "Surtani Gázkémiai Komplexum", ro: "Complexul Chimic de Gaze Shurtan", en: "Shurtan Gas Chemical Complex"},
+    image: "/poi-images/shurtan-gas-chemical-economic-v2.webp",
     description: { de: "Ein moderner Industriekomplex, der Erdgas zu Kunststoffen und anderen wertvollen chemischen Produkten verarbeitet.", hu: "Modern ipari komplexum, amely a földgázt műanyagokká és más értékes vegyipari termékekké dolgozza fel.", ro: "Un complex industrial modern care procesează gazele naturale în materiale plastice și alte produse chimice valoroase.", en: "A modern industrial complex that processes natural gas into plastics and other valuable chemical products." },
     facts: {
       de: ["Wurde im Jahr 2001 offiziell in Betrieb genommen.", "Trägt maßgeblich zum Export von Polymerprodukten bei."],
       hu: ["2001-ben helyezték hivatalosan üzembe.", "Jelentősen hozzájárul a polimer termékek exportjához."],
       ro: ["A fost pus în funcțiune oficial în 2001.", "Contribuie semnificativ la exportul de produse polimerice."],
       en: ["Was officially commissioned in 2001.", "Significantly contributes to the export of polymer products."]
-    }, image: "/poi-images/shurtan-gas-chemical-economic-v2.webp"},
+    }, image: "/poi-images/shurtan-gas-chemical-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Shurtan-Gas-Chemiekomplex ist ein großtechnisches Werk in der Region Qashqadaryo, Usbekistan. Er wurde 2001 in Betrieb genommen und verarbeitet Erdgas zu Polyethylen, Flüssiggas und schwefelhaltigen Produkten. Die Anlage nutzt moderne Technologien zur Umwandlung von Methan in wertvolle Chemikalien. Mit einer jährlichen Produktionskapazität von 390.000 Tonnen Polyethylen ist sie ein wichtiger Exporteur. Der Komplex beschäftigt über 4.000 Mitarbeiter und fördert die wirtschaftliche Entwicklung der Region. Durch kontinuierliche Erweiterungen wurde die Produktion diversifiziert.",
+      hu: "A Shurtan Gáz-vegyi Komplexum egy nagyszabású üzem Üzbegisztán Qashqadaryo régiójában. 2001-ben helyezték üzembe, és földgázt dolgoz fel polietilénné, cseppfolyósított gázzá és kéntartalmú termékekké. A létesítmény korszerű technológiát alkalmaz a metán értékes vegyi anyagokká alakítására. Éves polietilén termelési kapacitása 390.000 tonna, így jelentős exportőr. Több mint 4000 embert foglalkoztat, és hozzájárul a régió gazdasági fejlődéséhez. Folyamatos bővítésekkel a termelést diverzifikálták.",
+      ro: "Complexul petrochimic Shurtan este o fabrică la scară largă din regiunea Qashqadaryo, Uzbekistan. A fost dat în funcțiune în 2001 și procesează gaze naturale în polietilenă, gaze lichefiate și produse cu sulf. Utilizează tehnologii moderne pentru a transforma metanul în substanțe chimice valoroase. Cu o capacitate anuală de producție de 390.000 de tone de polietilenă, este un important exportator. Angajează peste 4.000 de persoane și contribuie la dezvoltarea economică a regiunii. Prin extinderi succesive, producția a fost diversificată.",
+      en: "The Shurtan Gas Chemical Complex is a large-scale plant in the Qashqadaryo region of Uzbekistan. Commissioned in 2001, it processes natural gas into polyethylene, liquefied gas, and sulfur products. The facility uses advanced technology to convert methane into valuable chemicals. With an annual polyethylene capacity of 390,000 tons, it is a major exporter. It employs over 4,000 people and contributes to regional economic development. Continuous expansions have diversified its production.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme im Jahr 2001.", "Jährliche Polyethylenproduktion: 390.000 Tonnen.", "Verarbeitet jährlich über 4 Milliarden Kubikmeter Erdgas.", "Investitionsvolumen: rund 1,2 Milliarden US-Dollar.", "Beschäftigte: mehr als 4.000 Mitarbeiter.", "Exportiert Polyethylen in über 20 Länder."],
+      hu: ["Üzembe helyezés éve: 2001.", "Éves polietilén termelés: 390.000 tonna.", "Évente több mint 4 milliárd köbméter földgázt dolgoz fel.", "Beruházási költség: körülbelül 1,2 milliárd USD.", "Több mint 4000 munkavállalót foglalkoztat.", "Polietilént exportál több mint 20 országba."],
+      ro: ["Anul punerii în funcțiune: 2001.", "Producția anuală de polietilenă: 390.000 de tone.", "Procesează anual peste 4 miliarde de metri cubi de gaze naturale.", "Investiție: aproximativ 1,2 miliarde USD.", "Angajează peste 4.000 de persoane.", "Exportă polietilenă în peste 20 de țări."],
+      en: ["Year of commissioning: 2001.", "Annual polyethylene production: 390,000 tons.", "Processes over 4 billion cubic meters of natural gas annually.", "Investment cost: approximately 1.2 billion USD.", "Employs over 4,000 people.", "Exports polyethylene to more than 20 countries."],
+    },
+  },
   {
     id: "talimarjan-power-plant-economic-v2",
     type: "industry",
     parent: "UZ-QA",
     coords: [65.5947, 38.4722],
-    name: { de: "Kraftwerk Talimarjan", hu: "Talimardzsáni Hőerőmű", ro: "Centrala Electrică Talimarjan", en: "Talimarjan Power Plant",
-image: "/poi-images/talimarjan-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Talimarjan", hu: "Talimardzsáni Hőerőmű", ro: "Centrala Electrică Talimarjan", en: "Talimarjan Power Plant"},
+    image: "/poi-images/talimarjan-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Wärmekraftwerk im Süden Usbekistans, das eine Schlüsselrolle in der Energieversorgung spielt.", hu: "Jelentős hőerőmű Üzbegisztán déli részén, amely kulcsszerepet játszik az energiaellátásban.", ro: "O centrală termoelectrică majoră în sudul Uzbekistanului, care joacă un rol cheie în furnizarea de energie.", en: "A major thermal power plant in southern Uzbekistan, playing a key role in energy supply." },
     facts: {
       de: ["Basiert auf hochmodernen Gas- und Dampfturbinen.", "Wurde mehrfach erweitert, um die Stromproduktion zu steigern."],
       hu: ["Korszerű gáz- és gőzturbinákon alapul.", "Többször bővítették a villamosenergia-termelés növelése érdekében."],
       ro: ["Se bazează pe turbine moderne cu gaz și abur.", "A fost extinsă de mai multe ori pentru a crește producția de energie electrică."],
       en: ["Based on state-of-the-art gas and steam turbines.", "Has been expanded several times to increase electricity production."]
-    }, image: "/poi-images/talimarjan-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/talimarjan-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Talimarjan-Kraftwerk ist ein modernes Gaskraftwerk in der Provinz Qashqadaryo, Usbekistan. Es wurde 2004 in Betrieb genommen und verfügt über eine installierte Leistung von 1.700 Megawatt. Die Anlage besteht aus mehreren Gasturbinenblöcken und liefert einen bedeutenden Teil des nationalen Strombedarfs. Durch den Einsatz von Kombikraftwerkstechnologie wird eine hohe Effizienz erreicht. Das Kraftwerk wird mit Erdgas aus nahegelegenen Feldern betrieben. Es dient als wichtiger Knotenpunkt im usbekischen Stromnetz und unterstützt die Stabilität der Energieversorgung.",
+      hu: "A Talimarjan Hőerőmű egy modern gázerőmű Üzbegisztán Qashqadaryo tartományában. 2004-ben helyezték üzembe, és 1700 megawatt beépített kapacitással rendelkezik. Több gázturbinás blokkból áll, és az ország villamosenergia-ellátásának jelentős részét biztosítja. Kombinált ciklusú technológiát alkalmaz, ami magas hatásfokot eredményez. A közeli gázmezőkről származó földgázzal üzemel. Az üzbég villamosenergia-hálózat fontos csomópontja, hozzájárul az energiaellátás stabilitásához.",
+      ro: "Centrala electrică Talimarjan este o centrală pe gaze modernă din provincia Qashqadaryo, Uzbekistan. A fost dată în funcțiune în 2004 și are o capacitate instalată de 1.700 megawați. Este compusă din mai multe turbine cu gaz și asigură o parte semnificativă din necesarul național de energie electrică. Utilizează tehnologia de ciclu combinat pentru eficiență ridicată. Funcționează cu gaze naturale din zăcăminte din apropiere. Este un nod important în rețeaua electrică uzbecă, contribuind la stabilitatea aprovizionării cu energie.",
+      en: "The Talimarjan Power Plant is a modern gas-fired power station in the Qashqadaryo province of Uzbekistan. Commissioned in 2004, it has an installed capacity of 1,700 megawatts. It consists of several gas turbine units and supplies a large portion of the country's electricity. Using combined-cycle technology, it achieves high efficiency. The plant runs on natural gas from nearby fields. It is a key node in Uzbekistan's power grid, supporting energy supply stability.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 1.700 Megawatt.", "Inbetriebnahme: 2004.", "Jährliche Stromerzeugung: etwa 10 Milliarden Kilowattstunden.", "Besteht aus 5 Gasturbinenblöcken.", "Wirkungsgrad: über 55% durch Kombikraftwerkstechnik.", "Versorgt rund 3 Millionen Haushalte mit Strom."],
+      hu: ["Beépített kapacitás: 1700 megawatt.", "Üzembe helyezés: 2004.", "Éves villamosenergia-termelés: körülbelül 10 milliárd kWh.", "5 gázturbinás blokkból áll.", "Hatásfok: több mint 55% kombinált ciklusú technológiával.", "Körülbelül 3 millió háztartást lát el árammal."],
+      ro: ["Capacitate instalată: 1.700 de megawați.", "Anul punerii în funcțiune: 2004.", "Producția anuală de energie electrică: aproximativ 10 miliarde kWh.", "Este format din 5 blocuri cu turbine cu gaz.", "Randament: peste 55% datorită tehnologiei cu ciclu combinat.", "Asigură electricitate pentru aproximativ 3 milioane de gospodării."],
+      en: ["Installed capacity: 1,700 megawatts.", "Year of commissioning: 2004.", "Annual electricity generation: about 10 billion kWh.", "Consists of 5 gas turbine units.", "Efficiency: over 55% due to combined-cycle technology.", "Supplies electricity to around 3 million households."],
+    },
+  },
   {
     id: "syrdarya-power-plant-economic-v2",
     type: "industry",
     parent: "UZ-SI",
     coords: [68.7058, 40.2319],
-    name: { de: "Kraftwerk Sirdaryo", hu: "Szirdarja Hőerőmű", ro: "Centrala Electrică Sîrdaria", en: "Syrdarya Power Plant",
-image: "/poi-images/syrdarya-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Sirdaryo", hu: "Szirdarja Hőerőmű", ro: "Centrala Electrică Sîrdaria", en: "Syrdarya Power Plant"},
+    image: "/poi-images/syrdarya-power-plant-economic-v2.webp",
     description: { de: "Das größte Kraftwerk Zentralasiens, das einen Großteil des in Usbekistan verbrauchten Stroms erzeugt.", hu: "Közép-Ázsia legnagyobb erőműve, amely az Üzbegisztánban elfogyasztott áram nagy részét termeli.", ro: "Cea mai mare centrală electrică din Asia Centrală, care generează o mare parte din energia consumată în Uzbekistan.", en: "The largest power plant in Central Asia, generating a large part of the electricity consumed in Uzbekistan." },
     facts: {
       de: ["Besitzt eine installierte Kapazität von über 3.000 Megawatt.", "Ein unverzichtbares Zentrum für das usbekische Stromnetz."],
       hu: ["Beépített kapacitása meghaladja a 3000 megawattot.", "Az üzbég villamosenergia-hálózat nélkülözhetetlen központja."],
       ro: ["Are o capacitate instalată de peste 3.000 de megawați.", "Un centru indispensabil pentru rețeaua electrică uzbecă."],
       en: ["Has an installed capacity of over 3,000 megawatts.", "An indispensable center for the Uzbek power grid."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Syrdarya-Kraftwerk ist ein großes thermisches Kraftwerk in der Nähe von Guliston, Provinz Sirdaryo. Es wurde in den 1970er Jahren errichtet und mit Erdgas betrieben. Nach einem Umbau in den 2000er Jahren wurde es modernisiert. Das Kraftwerk hat eine installierte Leistung von rund 2.100 Megawatt und ist eines der größten des Landes. Es liefert Strom für die landwirtschaftliche Bewässerung und städtische Gebiete. Die Anlage spielt eine entscheidende Rolle bei der Deckung der Spitzenlast im usbekischen Stromnetz.",
+      hu: "A Szir-darjai Hőerőmű egy nagy hőerőmű Guliston közelében, Szir-darja tartományban. Az 1970-es években épült, és földgázzal üzemel. A 2000-es években korszerűsítették. Beépített kapacitása körülbelül 2100 megawatt, így az ország egyik legnagyobb erőműve. Áramot szolgáltat a mezőgazdasági öntözéshez és városi területek számára. Kulcsszerepet játszik a csúcsigények fedezésében az üzbég villamosenergia-hálózatban.",
+      ro: "Centrala electrică Syrdarya este o mare centrală termică lângă Guliston, provincia Sirdaryo. A fost construită în anii 1970 și funcționează pe gaze naturale. A fost modernizată în anii 2000. Capacitatea instalată este de aproximativ 2.100 megawați, fiind una dintre cele mai mari din țară. Furnizează energie electrică pentru irigații agricole și zone urbane. Joacă un rol crucial în acoperirea cererii de vârf în rețeaua electrică uzbecă.",
+      en: "The Syrdarya Power Plant is a large thermal power station near Guliston, Sirdaryo province. Built in the 1970s, it runs on natural gas. It was modernized in the 2000s. The plant has an installed capacity of about 2,100 megawatts, making it one of the country's largest. It supplies electricity for agricultural irrigation and urban areas. It plays a critical role in meeting peak demand in Uzbekistan's power grid.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 2.100 Megawatt.", "Erbaut in den 1970er Jahren.", "Modernisierungskosten: rund 500 Millionen US-Dollar.", "Jährliche Stromerzeugung: ca. 12 Milliarden Kilowattstunden.", "Hauptbrennstoff: Erdgas.", "Versorgt über 4 Millionen Menschen mit Strom."],
+      hu: ["Beépített kapacitás: 2100 megawatt.", "Az 1970-es években épült.", "Korszerűsítési költség: körülbelül 500 millió USD.", "Éves villamosenergia-termelés: kb. 12 milliárd kWh.", "Fő tüzelőanyag: földgáz.", "Több mint 4 millió embert lát el árammal."],
+      ro: ["Capacitate instalată: 2.100 de megawați.", "Construit în anii 1970.", "Costul modernizării: aproximativ 500 milioane USD.", "Producția anuală: circa 12 miliarde kWh.", "Combustibil principal: gaze naturale.", "Furnizează energie electrică pentru peste 4 milioane de oameni."],
+      en: ["Installed capacity: 2,100 megawatts.", "Built in the 1970s.", "Modernization cost: around 500 million USD.", "Annual generation: about 12 billion kWh.", "Primary fuel: natural gas.", "Supplies electricity to over 4 million people."],
+    },
   },
   {
     id: "angren-coal-mine-economic-v2",
     type: "industry",
     parent: "UZ-TO",
     coords: [70.1347, 41.0111],
-    name: { de: "Kohlemine Angren", hu: "Angreni Szénbánya", ro: "Mina de Cărbune Angren", en: "Angren Coal Mine",
-image: "/poi-images/angren-coal-mine-economic-v2.webp"
-},
+    name: { de: "Kohlemine Angren", hu: "Angreni Szénbánya", ro: "Mina de Cărbune Angren", en: "Angren Coal Mine"},
+    image: "/poi-images/angren-coal-mine-economic-v2.webp",
     description: { de: "Die größte Kohlemine Usbekistans, die eine wichtige Brennstoffquelle für die lokalen Wärmekraftwerke darstellt.", hu: "Üzbegisztán legnagyobb szénbányája, amely fontos tüzelőanyag-forrás a helyi hőerőművek számára.", ro: "Cea mai mare mină de cărbune din Uzbekistan, reprezentând o sursă importantă de combustibil pentru centralele termice locale.", en: "The largest coal mine in Uzbekistan, representing an important source of fuel for local thermal power plants." },
     facts: {
       de: ["Der Braunkohleabbau erfolgt größtenteils im Tagebau.", "Speist direkt benachbarte Kraftwerke."],
       hu: ["A barnaszén kitermelése nagyrészt külszíni fejtéssel történik.", "Közvetlenül látja el a szomszédos erőműveket."],
       ro: ["Extracția cărbunelui brun se face în mare parte în carieră deschisă.", "Alimentează direct centralele electrice învecinate."],
       en: ["Lignite mining is mostly done by open-pit methods.", "Feeds directly to neighboring power plants."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Angren-Kohlebergwerk ist eines der größten Kohleabbaugebiete Usbekistans und befindet sich in der Provinz Taschkent. Es fördert Braunkohle aus einem Tagebau, der in den 1950er Jahren eröffnet wurde. Die jährliche Förderkapazität beträgt rund 5 Millionen Tonnen. Die Kohle wird hauptsächlich zur Stromerzeugung im nahegelegenen Angren-Kraftwerk verwendet. Das Bergwerk beschäftigt Tausende von Arbeitern. In den letzten Jahren wurden Umweltmaßnahmen zur Reduzierung der Staub- und Schadstoffemissionen eingeführt.",
+      hu: "Az Angreni Szénbánya Üzbegisztán egyik legnagyobb szénbányászati területe, Taskent tartományban. Barnaszenet termel külszíni fejtésből, amelyet az 1950-es években nyitottak meg. Az éves termelési kapacitás körülbelül 5 millió tonna. A szenet főként a közeli Angreni Hőerőműben használják fel. A bánya több ezer munkást foglalkoztat. Az utóbbi években környezetvédelmi intézkedéseket vezettek be a por- és szennyezőanyag-kibocsátás csökkentésére.",
+      ro: "Mina de cărbune Angren este una dintre cele mai mari zone de exploatare a cărbunelui din Uzbekistan, situată în provincia Tașkent. Extrage cărbune brun dintr-o carieră deschisă, deschisă în anii 1950. Capacitatea anuală de extracție este de aproximativ 5 milioane de tone. Cărbunele este folosit în principal la centrala electrică Angren din apropiere. Mina angajează mii de muncitori. În ultimii ani au fost introduse măsuri de mediu pentru reducerea emisiilor de praf și poluanți.",
+      en: "The Angren Coal Mine is one of the largest coal mining areas in Uzbekistan, located in Tashkent province. It extracts lignite from an open-pit mine opened in the 1950s. The annual production capacity is about 5 million tons. The coal is mainly used for power generation at the nearby Angren Power Plant. The mine employs thousands of workers. In recent years, environmental measures have been introduced to reduce dust and pollutant emissions.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Förderkapazität: 5 Millionen Tonnen Braunkohle.", "Tagebau eröffnet in den 1950er Jahren.", "Fördertiefe: bis zu 200 Meter.", "Kohleheizwert: ca. 3.500 kcal/kg.", "Beschäftigte: etwa 4.000 Arbeiter.", "Kohlereserven: über 1 Milliarde Tonnen."],
+      hu: ["Éves termelési kapacitás: 5 millió tonna barnaszén.", "Külszíni bánya, az 1950-es években nyitották.", "Kitermelési mélység: akár 200 méter.", "Szén fűtőértéke: kb. 3500 kcal/kg.", "Foglalkoztatottak: körülbelül 4000 fő.", "Széntartalékok: több mint 1 milliárd tonna."],
+      ro: ["Capacitatea anuală de extracție: 5 milioane de tone de cărbune brun.", "Cariera deschisă în anii 1950.", "Adâncimea de exploatare: până la 200 de metri.", "Puterea calorică a cărbunelui: aprox. 3.500 kcal/kg.", "Angajați: circa 4.000 de muncitori.", "Rezerve de cărbune: peste 1 miliard de tone."],
+      en: ["Annual production capacity: 5 million tons of lignite.", "Open-pit mine opened in the 1950s.", "Mining depth: up to 200 meters.", "Coal calorific value: about 3,500 kcal/kg.", "Employees: approximately 4,000 workers.", "Coal reserves: over 1 billion tons."],
+    },
   },
   {
     id: "bekabad-steel-plant-economic-v2",
     type: "industry",
     parent: "UZ-TO",
     coords: [69.2561, 40.2222],
-    name: { de: "Stahlwerk Bekabad", hu: "Bekabadi Acélmű", ro: "Uzina Siderurgică Bekabad", en: "Bekabad Steel Plant",
-image: "/poi-images/bekabad-steel-plant-economic-v2.webp"
-},
+    name: { de: "Stahlwerk Bekabad", hu: "Bekabadi Acélmű", ro: "Uzina Siderurgică Bekabad", en: "Bekabad Steel Plant"},
+    image: "/poi-images/bekabad-steel-plant-economic-v2.webp",
     description: { de: "Das einzige integrierte Stahlwerk in Usbekistan, das Stahlschrott und Roheisen zu Bau- und Industriestahl verarbeitet.", hu: "Üzbegisztán egyetlen integrált acélműve, amely acélhulladékot és nyersvasat dolgoz fel építőipari és ipari acéllá.", ro: "Singura uzină siderurgică integrată din Uzbekistan, care transformă deșeurile de oțel și fonta în oțel pentru construcții și industrie.", en: "The only integrated steel plant in Uzbekistan, processing scrap steel and pig iron into construction and industrial steel." },
     facts: {
       de: ["Wurde bereits während des Zweiten Weltkriegs gegründet.", "Bedeckt den Großteil des nationalen Bedarfs an Bewehrungsstahl."],
       hu: ["Már a második világháború alatt megalapították.", "Fedezi a nemzeti betonacél-szükséglet nagy részét."],
       ro: ["A fost fondată în timpul celui de-al Doilea Război Mondial.", "Acoperă majoritatea necesarului național de oțel beton."],
       en: ["Was founded during the Second World War.", "Covers the majority of the national demand for reinforcing steel."]
-    }, image: "/poi-images/bekabad-steel-plant-economic-v2.webp"},
+    }, image: "/poi-images/bekabad-steel-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bekabad-Stahlwerk ist das älteste und größte Stahlwerk Usbekistans in der Stadt Bekabad, Provinz Taschkent. Es wurde 1943 gegründet und produziert Stahl aus Schrott und Roheisen. Die jährliche Kapazität beträgt etwa 700.000 Tonnen Stahl. Das Werk stellt Walzstahl, Betonstahl und Profile her. Es versorgt die Bauindustrie und den Maschinenbau des Landes. Nach der Unabhängigkeit wurde das Werk modernisiert, um die Produktqualität zu verbessern. Das Werk beschäftigt rund 5.000 Mitarbeiter.",
+      hu: "A Bekabadi Acélmű Üzbegisztán legrégebbi és legnagyobb acélgyára, Bekabad városában, Taskent tartományban. 1943-ban alapították, és acélt gyárt hulladékból és nyersvasból. Az éves kapacitás körülbelül 700.000 tonna. A gyár hengerelt acélt, betonacélt és profilokat készít. Az ország építőiparát és gépgyártását látja el. A függetlenség után korszerűsítették a termékminőség javítása érdekében. Körülbelül 5000 embert foglalkoztat.",
+      ro: "Oțelăria Bekabad este cea mai veche și mai mare fabrică de oțel din Uzbekistan, situată în orașul Bekabad, provincia Tașkent. A fost fondată în 1943 și produce oțel din fier vechi și fontă. Capacitatea anuală este de aproximativ 700.000 de tone. Fabrica produce oțel laminat, bare de armătură și profile. Aprovizionează industria construcțiilor și cea mecanică a țării. După independență, fabrica a fost modernizată pentru a îmbunătăți calitatea. Angajează circa 5.000 de persoane.",
+      en: "The Bekabad Steel Plant is the oldest and largest steel mill in Uzbekistan, located in Bekabad city, Tashkent province. Founded in 1943, it produces steel from scrap and pig iron. Annual capacity is about 700,000 tons. The plant produces rolled steel, rebar, and profiles. It supplies the country's construction and machinery industries. After independence, the plant was modernized to improve product quality. It employs about 5,000 people.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1943.", "Jährliche Stahlproduktion: 700.000 Tonnen.", "Hauptprodukte: Walzstahl, Betonstahl, Profile.", "Beschäftigte: rund 5.000 Mitarbeiter.", "Standort: Bekabad, Provinz Taschkent.", "Modernisierungskosten: ca. 100 Millionen US-Dollar."],
+      hu: ["Alapítás éve: 1943.", "Éves acéltermelés: 700.000 tonna.", "Fő termékek: hengerelt acél, betonacél, profilok.", "Foglalkoztatottak: körülbelül 5000 fő.", "Helyszín: Bekabad, Taskent tartomány.", "Korszerűsítési költség: kb. 100 millió USD."],
+      ro: ["Anul fondării: 1943.", "Producția anuală de oțel: 700.000 de tone.", "Produse principale: oțel laminat, bare de armătură, profile.", "Angajați: circa 5.000 de persoane.", "Locație: Bekabad, provincia Tașkent.", "Costul modernizării: aproximativ 100 milioane USD."],
+      en: ["Year founded: 1943.", "Annual steel production: 700,000 tons.", "Main products: rolled steel, rebar, profiles.", "Employees: about 5,000 people.", "Location: Bekabad, Tashkent province.", "Modernization cost: approximately 100 million USD."],
+    },
+  },
   {
     id: "tashkent-metallurgical-plant-economic-v2",
     type: "industry",
     parent: "UZ-TK",
     coords: [69.1558, 41.2267],
-    name: { de: "Metallurgisches Werk Taschkent", hu: "Taskenti Kohászati Üzem", ro: "Uzina Metalurgică Tașkent", en: "Tashkent Metallurgical Plant",
-image: "/poi-images/tashkent-metallurgical-plant-economic-v2.webp"
-},
+    name: { de: "Metallurgisches Werk Taschkent", hu: "Taskenti Kohászati Üzem", ro: "Uzina Metalurgică Tașkent", en: "Tashkent Metallurgical Plant"},
+    image: "/poi-images/tashkent-metallurgical-plant-economic-v2.webp",
     description: { de: "Ein hochmodernes Werk zur Herstellung von kaltgewalzten Stahlblechen, wichtig für die lokalen Bauindustrien.", hu: "Korszerű üzem hidegen hengerelt acéllemezek gyártására, amely fontos a helyi építőipar számára.", ro: "O fabrică ultramodernă pentru producția de tablă de oțel laminată la rece, importantă pentru industriile de construcții locale.", en: "A state-of-the-art plant for the production of cold-rolled steel sheets, important for local construction industries." },
     facts: {
       de: ["Ein Prestigeprojekt der modernen usbekischen Industrialisierung.", "Verringert die Abhängigkeit von importiertem Blech."],
       hu: ["A modern üzbég iparosítás egyik presztízsprojektje.", "Csökkenti az importált lemezektől való függőséget."],
       ro: ["Un proiect de prestigiu al industrializării moderne uzbece.", "Reduce dependența de tabla importată."],
       en: ["A prestige project of modern Uzbek industrialization.", "Reduces dependence on imported sheet metal."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Taschkent-Metallurgiewerk ist ein modernes Stahlwerk in der Hauptstadt Usbekistans. Es wurde 2015 in Betrieb genommen und produziert Stahl aus Schrott in einem Elektrolichtbogenofen. Die jährliche Kapazität beträgt 750.000 Tonnen. Das Werk stellt Walzprodukte wie Betonstahl und Draht her. Es ist Teil der Industrialisierungsstrategie des Landes und reduziert die Abhängigkeit von Importen. Das Werk nutzt energieeffiziente Technologien und beschäftigt rund 2.000 Mitarbeiter.",
+      hu: "A Taskenti Kohászati Üzem egy modern acélgyár Üzbegisztán fővárosában. 2015-ben helyezték üzembe, és acélt gyárt hulladékból elektromos ívkemencében. Az éves kapacitás 750.000 tonna. Hengerelt termékeket, betonacélt és huzalt állít elő. Az ország iparosítási stratégiájának része, csökkenti az importfüggőséget. Energiahatékony technológiákat alkalmaz, és körülbelül 2000 munkavállalót foglalkoztat.",
+      ro: "Uzina Metalurgică Tașkent este o oțelărie modernă din capitala Uzbekistanului. A fost dată în funcțiune în 2015 și produce oțel din fier vechi într-un cuptor cu arc electric. Capacitatea anuală este de 750.000 de tone. Produce produse laminate, bare de armătură și sârmă. Face parte din strategia de industrializare a țării, reducând dependența de importuri. Utilizează tehnologii eficiente energetic și angajează circa 2.000 de persoane.",
+      en: "The Tashkent Metallurgical Plant is a modern steel mill in Uzbekistan's capital. Commissioned in 2015, it produces steel from scrap in an electric arc furnace. Annual capacity is 750,000 tons. It produces rolled products, rebar, and wire. It is part of the country's industrialization strategy, reducing import dependence. The plant uses energy-efficient technologies and employs around 2,000 workers.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2015.", "Jährliche Kapazität: 750.000 Tonnen Stahl.", "Verwendet Elektrolichtbogenofen-Technologie.", "Hauptprodukte: Betonstahl und Draht.", "Beschäftigte: rund 2.000 Mitarbeiter.", "Investitionssumme: 400 Millionen US-Dollar."],
+      hu: ["Üzembe helyezés: 2015.", "Éves kapacitás: 750.000 tonna acél.", "Elektromos ívkemencés technológiát használ.", "Fő termékek: betonacél és huzal.", "Foglalkoztatottak: körülbelül 2000 fő.", "Beruházási összeg: 400 millió USD."],
+      ro: ["Anul punerii în funcțiune: 2015.", "Capacitatea anuală: 750.000 de tone de oțel.", "Folosește tehnologia cuptorului cu arc electric.", "Produse principale: bare de armătură și sârmă.", "Angajați: circa 2.000 de persoane.", "Investiție: 400 milioane USD."],
+      en: ["Year commissioned: 2015.", "Annual capacity: 750,000 tons of steel.", "Uses electric arc furnace technology.", "Main products: rebar and wire.", "Employees: about 2,000 workers.", "Investment amount: 400 million USD."],
+    },
   },
   {
     id: "maxam-chirchiq-chemical-economic-v2",
     type: "industry",
     parent: "UZ-TO",
     coords: [69.5822, 41.4681],
-    name: { de: "Chemiewerk Maxam-Chirchiq", hu: "Maxam-Csircsik Vegyimű", ro: "Uzina Chimică Maxam-Chirchiq", en: "Maxam-Chirchiq Chemical Plant",
-image: "/poi-images/maxam-chirchiq-chemical-economic-v2.webp"
-},
+    name: { de: "Chemiewerk Maxam-Chirchiq", hu: "Maxam-Csircsik Vegyimű", ro: "Uzina Chimică Maxam-Chirchiq", en: "Maxam-Chirchiq Chemical Plant"},
+    image: "/poi-images/maxam-chirchiq-chemical-economic-v2.webp",
     description: { de: "Ein führender Hersteller von mineralischen Düngemitteln und anderen chemischen Produkten in Usbekistan.", hu: "Ásványi műtrágyák és más vegyipari termékek vezető gyártója Üzbegisztánban.", ro: "Un producător de top de îngrășăminte minerale și alte produse chimice din Uzbekistan.", en: "A leading producer of mineral fertilizers and other chemical products in Uzbekistan." },
     facts: {
       de: ["Wichtig für die stark ausgeprägte usbekische Landwirtschaft.", "Produziert neben Dünger auch Industriechemikalien."],
       hu: ["Fontos a kiterjedt üzbég mezőgazdaság számára.", "A műtrágya mellett ipari vegyszereket is gyárt."],
       ro: ["Importantă pentru agricultura uzbecă foarte dezvoltată.", "Pe lângă îngrășăminte, produce și substanțe chimice industriale."],
       en: ["Important for the highly developed Uzbek agriculture.", "Produces industrial chemicals in addition to fertilizer."]
-    }, image: "/poi-images/maxam-chirchiq-chemical-economic-v2.webp"},
+    }, image: "/poi-images/maxam-chirchiq-chemical-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Maxam-Chirchiq-Chemiewerk ist ein bedeutendes Chemieunternehmen in der Stadt Chirchiq, Provinz Taschkent. Es wurde 1940 gegründet und produziert Düngemittel, Sprengstoffe und chemische Grundstoffe. Das Werk ist ein Joint Venture mit spanischen Partnern. Die jährliche Produktion umfasst 500.000 Tonnen Ammoniumnitrat und 300.000 Tonnen Salpetersäure. Es beliefert die Landwirtschaft und Bergbauindustrie. Modernisierungen ab 2010 haben die Umweltverträglichkeit verbessert. Das Werk beschäftigt etwa 3.000 Mitarbeiter.",
+      hu: "A Maxam-Chirchiq Vegyi Üzem egy jelentős vegyipari vállalat Chirchiq városában, Taskent tartományban. 1940-ben alapították, és műtrágyát, robbanóanyagokat és vegyi alapanyagokat gyárt. Az üzem egy spanyol partnerekkel létrehozott vegyes vállalat. Az éves termelés 500.000 tonna ammónium-nitrátot és 300.000 tonna salétromsavat foglal magában. A mezőgazdaságot és a bányászatot látja el. A 2010 utáni korszerűsítések javították a környezeti teljesítményt. Körülbelül 3000 embert foglalkoztat.",
+      ro: "Uzina Chimică Maxam-Chirchiq este o importantă companie chimică din orașul Chirchiq, provincia Tașkent. A fost fondată în 1940 și produce îngrășăminte, explozivi și substanțe chimice de bază. Uzina este o societate mixtă cu parteneri spanioli. Producția anuală include 500.000 de tone de azotat de amoniu și 300.000 de tone de acid azotic. Aprovizionează agricultura și industria minieră. Modernizările după 2010 au îmbunătățit performanța de mediu. Angajează aproximativ 3.000 de persoane.",
+      en: "The Maxam-Chirchiq Chemical Plant is a major chemical company in Chirchiq city, Tashkent province. Founded in 1940, it produces fertilizers, explosives, and basic chemicals. The plant is a joint venture with Spanish partners. Annual production includes 500,000 tons of ammonium nitrate and 300,000 tons of nitric acid. It supplies agriculture and mining industries. Modernizations after 2010 have improved environmental performance. It employs about 3,000 workers.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1940.", "Jährliche Ammoniumnitratproduktion: 500.000 Tonnen.", "Joint Venture mit spanischen Partnern seit 2000.", "Produziert 300.000 Tonnen Salpetersäure pro Jahr.", "Beschäftigte: rund 3.000 Mitarbeiter.", "Modernisierungsinvestitionen: 200 Millionen US-Dollar."],
+      hu: ["Alapítás éve: 1940.", "Éves ammónium-nitrát termelés: 500.000 tonna.", "2000 óta spanyol partnerekkel működő vegyes vállalat.", "Évente 300.000 tonna salétromsavat állít elő.", "Foglalkoztatottak: körülbelül 3000 fő.", "Korszerűsítési beruházások: 200 millió USD."],
+      ro: ["Anul fondării: 1940.", "Producția anuală de azotat de amoniu: 500.000 de tone.", "Societate mixtă cu parteneri spanioli din 2000.", "Produce anual 300.000 de tone de acid azotic.", "Angajați: circa 3.000 de persoane.", "Investiții de modernizare: 200 milioane USD."],
+      en: ["Year founded: 1940.", "Annual ammonium nitrate production: 500,000 tons.", "Joint venture with Spanish partners since 2000.", "Produces 300,000 tons of nitric acid per year.", "Employees: about 3,000 workers.", "Modernization investments: 200 million USD."],
+    },
+  },
   {
     id: "termez-river-port-economic-v2",
     type: "port",
     parent: "UZ-SU",
     coords: [67.2764, 37.2147],
-    name: { de: "Flusshafen Termiz", hu: "Termezi Folyami Kikötő", ro: "Portul Fluvial Termez", en: "Termez River Port",
-image: "/poi-images/termez-river-port-economic-v2.webp"
-},
+    name: { de: "Flusshafen Termiz", hu: "Termezi Folyami Kikötő", ro: "Portul Fluvial Termez", en: "Termez River Port"},
+    image: "/poi-images/termez-river-port-economic-v2.webp",
     description: { de: "Der einzige bedeutende Flusshafen Usbekistans am Amudarja, der für den Handel mit dem Süden von großer Bedeutung ist.", hu: "Üzbegisztán egyetlen jelentős folyami kikötője az Amu-darján, amely nagy jelentőséggel bír a déli irányú kereskedelemben.", ro: "Singurul port fluvial major al Uzbekistanului pe râul Amu Daria, având o mare importanță pentru comerțul cu sudul.", en: "Uzbekistan's only major river port on the Amu Darya, which is of great importance for trade with the south." },
     facts: {
       de: ["Spielt eine Hauptrolle bei humanitären Lieferungen.", "Ist strategisch günstig am Grenzfluss gelegen."],
       hu: ["Főszerepet játszik a humanitárius szállításokban.", "Stratégiailag kedvező helyen, a határfolyón fekszik."],
       ro: ["Joacă un rol major în livrările umanitare.", "Este situat strategic pe râul de frontieră."],
       en: ["Plays a major role in humanitarian deliveries.", "Is strategically located on the border river."]
-    }, image: "/poi-images/termez-river-port-economic-v2.webp"},
+    }, image: "/poi-images/termez-river-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Termez-Flusshafen liegt am Amudarja-Fluss nahe der afghanischen Grenze. Er ist der wichtigste Binnenhafen Usbekistans und dient als Umschlagplatz für Waren nach Afghanistan. Der Hafen wurde in den 1960er Jahren ausgebaut und hat eine jährliche Umschlagskapazität von über 2 Millionen Tonnen. Güter wie Getreide, Baumaterialien und humanitäre Hilfe werden umgeschlagen. Der Hafen spielt eine strategische Rolle für den Handel mit Südasien. In den letzten Jahren wurde die Infrastruktur modernisiert, um die Effizienz zu steigern.",
+      hu: "A Termezi Folyami Kikötő az Amudarja folyón, az afgán határ közelében található. Ez Üzbegisztán legfontosabb belvízi kikötője, és az Afganisztánba irányuló áruk átrakodóhelye. A kikötőt az 1960-as években fejlesztették ki, éves átrakodási kapacitása meghaladja a 2 millió tonnát. Gabonát, építőanyagokat és humanitárius segélyt rakodnak. Stratégiai szerepet játszik a dél-ázsiai kereskedelemben. Az utóbbi években korszerűsítették az infrastruktúrát a hatékonyság növelése érdekében.",
+      ro: "Portul fluvial Termez este situat pe râul Amudarya, lângă granița afgană. Este cel mai important port interior al Uzbekistanului și servește ca punct de transbordare pentru mărfuri către Afganistan. Portul a fost dezvoltat în anii 1960 și are o capacitate anuală de manipulare de peste 2 milioane de tone. Sunt manipulate cereale, materiale de construcții și ajutor umanitar. Portul joacă un rol strategic în comerțul cu Asia de Sud. În ultimii ani, infrastructura a fost modernizată pentru a spori eficiența.",
+      en: "The Termez River Port is located on the Amudarya River near the Afghan border. It is Uzbekistan's most important inland port and serves as a transshipment point for goods to Afghanistan. The port was developed in the 1960s and has an annual handling capacity of over 2 million tons. Cargo includes grain, construction materials, and humanitarian aid. The port plays a strategic role in trade with South Asia. In recent years, infrastructure has been modernized to increase efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Umschlagskapazität: über 2 Millionen Tonnen.", "Lage: am Amudarja-Fluss, nahe der afghanischen Grenze.", "Entwicklung in den 1960er Jahren.", "Hauptgüter: Getreide, Baumaterialien, humanitäre Hilfe.", "Wassertiefe: ca. 4 Meter.", "Modernisierungskosten: 50 Millionen US-Dollar."],
+      hu: ["Éves átrakodási kapacitás: több mint 2 millió tonna.", "Elhelyezkedés: Amudarja folyó, afgán határ közelében.", "Az 1960-as években fejlesztették ki.", "Fő áruk: gabona, építőanyagok, humanitárius segély.", "Vízmélység: kb. 4 méter.", "Korszerűsítési költség: 50 millió USD."],
+      ro: ["Capacitatea anuală de manipulare: peste 2 milioane de tone.", "Locație: pe râul Amudarya, lângă granița afgană.", "Dezvoltat în anii 1960.", "Mărfuri principale: cereale, materiale de construcții, ajutor umanitar.", "Adâncimea apei: aproximativ 4 metri.", "Costul modernizării: 50 milioane USD."],
+      en: ["Annual handling capacity: over 2 million tons.", "Location: on the Amudarya River near the Afghan border.", "Developed in the 1960s.", "Main cargo: grain, construction materials, humanitarian aid.", "Water depth: about 4 meters.", "Modernization cost: 50 million USD."],
+    },
+  },
   {
     id: "navoi-free-economic-zone-economic-v2",
     type: "industry",
     parent: "UZ-NW",
     coords: [65.3400, 40.1200],
-    name: { de: "Freie Wirtschaftszone Navoi", hu: "Navoi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Navoi", en: "Navoi Free Economic Zone",
-image: "/poi-images/navoi-free-economic-zone-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Navoi", hu: "Navoi Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Navoi", en: "Navoi Free Economic Zone"},
+    image: "/poi-images/navoi-free-economic-zone-economic-v2.webp",
     description: { de: "Ein großes Logistik- und Industriezentrum, das ausländische Investitionen durch Steuervorteile und moderne Infrastruktur anzieht.", hu: "Nagy logisztikai és ipari központ, amely adókedvezményekkel és modern infrastruktúrával vonzza a külföldi befektetéseket.", ro: "Un centru logistic și industrial mare care atrage investiții străine prin facilități fiscale și infrastructură modernă.", en: "A large logistics and industrial center attracting foreign investment through tax incentives and modern infrastructure." },
     facts: {
       de: ["Bietet Unternehmen zollfreie Bedingungen und Logistikhubs.", "Direkt an wichtige Bahn- und Luftfahrtrouten angebunden."],
       hu: ["Vámmentes feltételeket és logisztikai csomópontokat kínál a vállalatoknak.", "Közvetlenül kapcsolódik a fontos vasúti és légi útvonalakhoz."],
       ro: ["Oferă companiilor condiții fără taxe și hub-uri logistice.", "Conectată direct la rute feroviare și aeriene importante."],
       en: ["Offers companies duty-free conditions and logistics hubs.", "Directly connected to important railway and aviation routes."]
-    }, image: "/poi-images/navoi-free-economic-zone-economic-v2.webp"},
+    }, image: "/poi-images/navoi-free-economic-zone-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die freie Wirtschaftszone Navoi wurde 2008 gegründet, um ausländische Investitionen anzuziehen. Sie liegt in der Provinz Navoi und verfügt über eine Fläche von 564 Hektar. Die Zone bietet Steuervergünstigungen und vereinfachte Zollverfahren. Schwerpunkte sind die Produktion von Chemikalien, Maschinen und Konsumgütern. Über 20 Unternehmen sind dort ansässig, darunter internationale Firmen. Die Zone trägt zur Diversifizierung der usbekischen Wirtschaft bei und schafft Arbeitsplätze. Die Infrastruktur umfasst Anschlüsse an das Eisenbahn- und Straßennetz.",
+      hu: "A Navoi Szabad Gazdasági Övezetet 2008-ban hozták létre a külföldi befektetések vonzására. Navoi tartományban található, területe 564 hektár. Az övezet adókedvezményeket és egyszerűsített vámeljárásokat kínál. Fókuszban a vegyi anyagok, gépek és fogyasztási cikkek gyártása. Több mint 20 vállalat működik itt, köztük nemzetközi cégek. Az övezet hozzájárul Üzbegisztán gazdaságának diverzifikációjához és munkahelyeket teremt. Az infrastruktúra tartalmaz vasúti és közúti kapcsolatokat.",
+      ro: "Zona Economică Liberă Navoi a fost înființată în 2008 pentru a atrage investiții străine. Este situată în provincia Navoi și are o suprafață de 564 de hectare. Zona oferă facilități fiscale și proceduri vamale simplificate. Se concentrează pe producția de produse chimice, mașini și bunuri de consum. Peste 20 de companii sunt stabilite, inclusiv firme internaționale. Zona contribuie la diversificarea economiei uzbece și creează locuri de muncă. Infrastructura include conexiuni feroviare și rutiere.",
+      en: "The Navoi Free Economic Zone was established in 2008 to attract foreign investment. It is located in Navoi province and covers an area of 564 hectares. The zone offers tax incentives and simplified customs procedures. Focus areas are production of chemicals, machinery, and consumer goods. Over 20 companies are based there, including international firms. The zone contributes to diversifying Uzbekistan's economy and creating jobs. Infrastructure includes railway and road connections.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2008.", "Fläche: 564 Hektar.", "Steuerbefreiung für 7 bis 10 Jahre.", "Über 20 ansässige Unternehmen.", "Investitionsvolumen: 1,5 Milliarden US-Dollar.", "Beschäftigte: rund 5.000 Personen."],
+      hu: ["Alapítás éve: 2008.", "Terület: 564 hektár.", "Adómentesség 7-10 évig.", "Több mint 20 vállalat telepedett le.", "Beruházási volumen: 1,5 milliárd USD.", "Foglalkoztatottak: körülbelül 5000 fő."],
+      ro: ["Anul înființării: 2008.", "Suprafață: 564 de hectare.", "Scutire de impozit pentru 7 până la 10 ani.", "Peste 20 de companii stabilite.", "Volumul investițiilor: 1,5 miliarde USD.", "Angajați: circa 5.000 de persoane."],
+      en: ["Year established: 2008.", "Area: 564 hectares.", "Tax exemption for 7 to 10 years.", "Over 20 resident companies.", "Investment volume: 1.5 billion USD.", "Employees: about 5,000 people."],
+    },
+  },
   {
     id: "ustyurt-gas-chemical-economic-v2",
     type: "industry",
     parent: "UZ-QR",
     coords: [57.8542, 42.6108],
-    name: { de: "Gaschemischer Komplex Ustjurt", hu: "Ustyurt Gázkémiai Komplexum", ro: "Complexul Chimic de Gaze Ustyurt", en: "Ustyurt Gas Chemical Complex",
-image: "/poi-images/ustyurt-gas-chemical-economic-v2.webp"
-},
+    name: { de: "Gaschemischer Komplex Ustjurt", hu: "Ustyurt Gázkémiai Komplexum", ro: "Complexul Chimic de Gaze Ustyurt", en: "Ustyurt Gas Chemical Complex"},
+    image: "/poi-images/ustyurt-gas-chemical-economic-v2.webp",
     description: { de: "Ein riesiges Projekt in Karakalpakstan zur Verarbeitung von Gas aus dem Aralsee-Becken zu Polymeren.", hu: "Hatalmas projekt Karakalpaksztánban az Aral-tó medencéjéből származó gáz polimerekké történő feldolgozására.", ro: "Un proiect masiv în Karakalpakstan pentru procesarea gazului din bazinul Mării Aral în polimeri.", en: "A massive project in Karakalpakstan to process gas from the Aral Sea basin into polymers." },
     facts: {
       de: ["Ein Milliardenprojekt zur Diversifizierung der Wirtschaft.", "Stärkt die Exportkapazitäten in der Region."],
       hu: ["Milliárdos projekt a gazdaság diverzifikálására.", "Erősíti az exportkapacitást a régióban."],
       ro: ["Un proiect de miliarde pentru diversificarea economiei.", "Consolidează capacitatea de export în regiune."],
       en: ["A multi-billion project to diversify the economy.", "Strengthens export capacities in the region."]
-    }, image: "/poi-images/ustyurt-gas-chemical-economic-v2.webp"},
+    }, image: "/poi-images/ustyurt-gas-chemical-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ustyurt-Gas-Chemiekomplex ist ein neues Großprojekt auf dem Ustyurt-Plateau in der Region Karakalpakstan. Er wurde 2022 in Betrieb genommen und verarbeitet Erdgas zu Polypropylen, Polyethylen und anderen Produkten. Die Anlage hat eine jährliche Kapazität von 400.000 Tonnen Polyolefinen. Sie soll die petrochemische Industrie des Landes stärken und Exporte fördern. Das Projekt ist eine Partnerschaft mit südkoreanischen Unternehmen. Der Komplex schafft Tausende von Arbeitsplätzen und nutzt moderne Technologien zur Ressourcenschonung.",
+      hu: "Az Ustyurt Gáz-vegyi Komplexum egy új nagyprojekt az Ustyurt-fennsíkon, Karakalpakstan régióban. 2022-ben helyezték üzembe, és földgázt dolgoz fel polipropilénné, polietilénné és más termékekké. Az éves kapacitás 400.000 tonna poliolefin. Az ország petrolkémiai iparának erősítését és az export növelését szolgálja. A projekt dél-koreai vállalatokkal partnerségben valósult meg. Több ezer munkahelyet teremt, és modern technológiákat alkalmaz az erőforrások hatékony felhasználására.",
+      ro: "Complexul petrochimic Ustyurt este un nou proiect de amploare pe Platoul Ustyurt din regiunea Karakalpakstan. A fost dat în funcțiune în 2022 și procesează gaze naturale în polipropilenă, polietilenă și alte produse. Capacitatea anuală este de 400.000 de tone de poliolefine. Scopul este de a consolida industria petrochimică a țării și de a stimula exporturile. Proiectul este un parteneriat cu companii sud-coreene. Creează mii de locuri de muncă și utilizează tehnologii moderne pentru eficiența resurselor.",
+      en: "The Ustyurt Gas Chemical Complex is a new large-scale project on the Ustyurt Plateau in Karakalpakstan region. Commissioned in 2022, it processes natural gas into polypropylene, polyethylene, and other products. Annual capacity is 400,000 tons of polyolefins. It aims to strengthen the country's petrochemical industry and boost exports. The project is a partnership with South Korean companies. It creates thousands of jobs and uses modern technologies for resource efficiency.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2022.", "Jährliche Polyolefinkapazität: 400.000 Tonnen.", "Investitionssumme: 3,6 Milliarden US-Dollar.", "Partnerschaft mit südkoreanischen Firmen.", "Standort: Ustyurt-Plateau, Karakalpakstan.", "Beschäftigte: über 3.000 Mitarbeiter."],
+      hu: ["Üzembe helyezés: 2022.", "Éves poliolefin kapacitás: 400.000 tonna.", "Beruházási összeg: 3,6 milliárd USD.", "Dél-koreai vállalatokkal partnerség.", "Helyszín: Ustyurt-fennsík, Karakalpakstan.", "Foglalkoztatottak: több mint 3000 fő."],
+      ro: ["Anul punerii în funcțiune: 2022.", "Capacitatea anuală de poliolefine: 400.000 de tone.", "Investiție: 3,6 miliarde USD.", "Parteneriat cu firme sud-coreene.", "Locație: Platoul Ustyurt, Karakalpakstan.", "Angajați: peste 3.000 de persoane."],
+      en: ["Year commissioned: 2022.", "Annual polyolefin capacity: 400,000 tons.", "Investment amount: 3.6 billion USD.", "Partnership with South Korean companies.", "Location: Ustyurt Plateau, Karakalpakstan.", "Employees: over 3,000 workers."],
+    },
+  },
   {
     id: "jizzakh-automobile-plant-economic-v2",
     type: "industry",
     parent: "UZ-JI",
     coords: [67.8422, 40.1158],
-    name: { de: "Automobilwerk Jizzax", hu: "Dzsizaki Autógyár", ro: "Uzina de Automobile Jizzakh", en: "Jizzakh Automobile Plant",
-image: "/poi-images/jizzakh-automobile-plant-economic-v2.webp"
-},
+    name: { de: "Automobilwerk Jizzax", hu: "Dzsizaki Autógyár", ro: "Uzina de Automobile Jizzakh", en: "Jizzakh Automobile Plant"},
+    image: "/poi-images/jizzakh-automobile-plant-economic-v2.webp",
     description: { de: "Ein modernes Montagewerk in der Sonderwirtschaftszone Jizzax, das Pkw und leichte Nutzfahrzeuge produziert.", hu: "Modern összeszerelő üzem a Dzsizaki Különleges Gazdasági Övezetben, amely személygépkocsikat és könnyű haszongépjárműveket gyárt.", ro: "O fabrică modernă de asamblare în Zona Economică Specială Jizzakh, care produce autoturisme și vehicule comerciale ușoare.", en: "A modern assembly plant in the Jizzakh Special Economic Zone, producing passenger cars and light commercial vehicles." },
     facts: {
       de: ["Montiert unter anderem Fahrzeuge internationaler Marken.", "Fördert die Schaffung von Arbeitsplätzen in Zentralusbekistan."],
       hu: ["Többek között nemzetközi márkák járműveit szereli össze.", "Elősegíti a munkahelyteremtést Közép-Üzbegisztánban."],
       ro: ["Asamblează, printre altele, vehicule ale mărcilor internaționale.", "Promovează crearea de locuri de muncă în centrul Uzbekistanului."],
       en: ["Assembles vehicles of international brands, among others.", "Promotes job creation in central Uzbekistan."]
-    }, image: "/poi-images/jizzakh-automobile-plant-economic-v2.webp"},
+    }, image: "/poi-images/jizzakh-automobile-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Jizzakh-Automobilwerk ist ein modernes Fahrzeugmontagewerk in der Provinz Jizzakh. Es wurde 2017 in Betrieb genommen und montiert Personenkraftwagen der Marke KIA und LADA. Die jährliche Kapazität beträgt 300.000 Fahrzeuge. Das Werk ist Teil der Zusammenarbeit mit ausländischen Automobilherstellern. Es hat eine eigene Lackiererei und Schweißerei. Die Produktion deckt den heimischen Markt und exportiert in Nachbarländer. Das Werk beschäftigt rund 3.000 Mitarbeiter und fördert die lokale Zulieferindustrie.",
+      hu: "A Jizzah Autógyár egy modern járműösszeszerelő üzem Jizzah tartományban. 2017-ben helyezték üzembe, és KIA és LADA személygépkocsikat szerel össze. Az éves kapacitás 300.000 jármű. A gyár a külföldi autógyártókkal való együttműködés része. Saját festő- és hegesztőüzeme van. A termelés a hazai piacot szolgálja ki, és exportál a szomszédos országokba. Körülbelül 3000 embert foglalkoztat, és támogatja a helyi beszállítói ipart.",
+      ro: "Uzina de automobile Jizzakh este o fabrică modernă de asamblare a vehiculelor în provincia Jizzakh. A fost dată în funcțiune în 2017 și asamblează autoturisme KIA și LADA. Capacitatea anuală este de 300.000 de vehicule. Fabrica face parte din colaborarea cu producători auto străini. Are propria secție de vopsire și sudură. Producția deservește piața internă și exportă în țările vecine. Angajează aproximativ 3.000 de persoane și stimulează industria locală de componente.",
+      en: "The Jizzakh Automobile Plant is a modern vehicle assembly plant in Jizzakh province. Commissioned in 2017, it assembles KIA and LADA passenger cars. Annual capacity is 300,000 vehicles. The plant is part of collaboration with foreign automakers. It has its own painting and welding shops. Production serves the domestic market and exports to neighboring countries. The plant employs about 3,000 workers and boosts the local supplier industry.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2017.", "Jährliche Kapazität: 300.000 Fahrzeuge.", "Montiert Modelle von KIA und LADA.", "Investition: 500 Millionen US-Dollar.", "Beschäftigte: rund 3.000 Mitarbeiter.", "Export in 5 Nachbarländer."],
+      hu: ["Üzembe helyezés: 2017.", "Éves kapacitás: 300.000 jármű.", "KIA és LADA modelleket szerel össze.", "Beruházás: 500 millió USD.", "Foglalkoztatottak: körülbelül 3000 fő.", "Export 5 szomszédos országba."],
+      ro: ["Anul punerii în funcțiune: 2017.", "Capacitatea anuală: 300.000 de vehicule.", "Asamblează modele KIA și LADA.", "Investiție: 500 milioane USD.", "Angajați: circa 3.000 de persoane.", "Export în 5 țări vecine."],
+      en: ["Year commissioned: 2017.", "Annual capacity: 300,000 vehicles.", "Assembles KIA and LADA models.", "Investment: 500 million USD.", "Employees: about 3,000 workers.", "Exports to 5 neighboring countries."],
+    },
+  },
   {
     id: "samauto-factory-economic-v2",
     type: "industry",
     parent: "UZ-SA",
     coords: [66.9417, 39.6583],
-    name: { de: "Automobilfabrik Samarkand", hu: "Szamarkandi Autógyár", ro: "Fabrica de Automobile Samarkand", en: "Samarkand Automobile Factory",
-image: "/poi-images/samauto-factory-economic-v2.webp"
-},
+    name: { de: "Automobilfabrik Samarkand", hu: "Szamarkandi Autógyár", ro: "Fabrica de Automobile Samarkand", en: "Samarkand Automobile Factory"},
+    image: "/poi-images/samauto-factory-economic-v2.webp",
     description: { de: "Ein wichtiges Werk zur Herstellung von Bussen und Lastwagen, das eine Schlüsselrolle im usbekischen Transportsektor spielt.", hu: "Fontos busz- és teherautó-gyártó üzem, amely kulcsszerepet játszik az üzbég közlekedési szektorban.", ro: "O fabrică importantă pentru producția de autobuze și camioane, care joacă un rol cheie în sectorul transporturilor uzbec.", en: "An important plant for the production of buses and trucks, playing a key role in the Uzbek transport sector." },
     facts: {
       de: ["Produziert verlässliche Nutzfahrzeuge für den Stadtverkehr.", "Kooperiert eng mit globalen Lkw-Herstellern."],
       hu: ["Megbízható haszongépjárműveket gyárt a városi közlekedés számára.", "Szorosan együttműködik globális teherautó-gyártókkal."],
       ro: ["Produce vehicule comerciale de încredere pentru transportul urban.", "Cooperează strâns cu producători globali de camioane."],
       en: ["Produces reliable commercial vehicles for urban transport.", "Cooperates closely with global truck manufacturers."]
-    }, image: "/poi-images/samauto-factory-economic-v2.webp"},
+    }, image: "/poi-images/samauto-factory-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Samarkand-Automobilwerk ist eine Produktionsstätte für Nutzfahrzeuge in Samarkand. Es wurde 1999 gegründet und stellt Busse, Lastwagen und Spezialfahrzeuge her. Das Werk kooperiert mit deutschen und chinesischen Herstellern. Die jährliche Kapazität beträgt 2.500 Fahrzeuge. Es bedient den öffentlichen Nahverkehr und die Baubranche. Das Werk hat eine eigene Entwicklungsabteilung. Modernisierungen haben die Produktqualität verbessert. Es beschäftigt rund 1.500 Mitarbeiter.",
+      hu: "A Szamarkandi Autógyár haszongépjárművek gyártóüzeme Szamarkandban. 1999-ben alapították, és buszokat, teherautókat és speciális járműveket gyárt. Az üzem német és kínai gyártókkal működik együtt. Az éves kapacitás 2500 jármű. A tömegközlekedést és az építőipart szolgálja ki. Saját fejlesztési részleggel rendelkezik. A korszerűsítések javították a termékminőséget. Körülbelül 1500 embert foglalkoztat.",
+      ro: "Uzina de automobile Samarkand este o unitate de producție de vehicule comerciale în Samarkand. A fost fondată în 1999 și produce autobuze, camioane și vehicule speciale. Fabrica cooperează cu producători germani și chinezi. Capacitatea anuală este de 2.500 de vehicule. Deservește transportul public și industria construcțiilor. Are propriul departament de dezvoltare. Modernizările au îmbunătățit calitatea produselor. Angajează circa 1.500 de persoane.",
+      en: "The Samarkand Automobile Factory is a commercial vehicle production plant in Samarkand. Founded in 1999, it produces buses, trucks, and special vehicles. The factory cooperates with German and Chinese manufacturers. Annual capacity is 2,500 vehicles. It serves public transport and construction industries. The factory has its own development department. Upgrades have improved product quality. It employs around 1,500 workers.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1999.", "Jährliche Kapazität: 2.500 Fahrzeuge.", "Hauptprodukte: Busse, Lastwagen, Spezialfahrzeuge.", "Kooperation mit deutschen und chinesischen Firmen.", "Beschäftigte: rund 1.500 Mitarbeiter.", "Export in 10 Länder."],
+      hu: ["Alapítás éve: 1999.", "Éves kapacitás: 2500 jármű.", "Fő termékek: buszok, teherautók, speciális járművek.", "Együttműködés német és kínai cégekkel.", "Foglalkoztatottak: körülbelül 1500 fő.", "Export 10 országba."],
+      ro: ["Anul fondării: 1999.", "Capacitatea anuală: 2.500 de vehicule.", "Produse principale: autobuze, camioane, vehicule speciale.", "Cooperare cu firme germane și chineze.", "Angajați: circa 1.500 de persoane.", "Export în 10 țări."],
+      en: ["Year founded: 1999.", "Annual capacity: 2,500 vehicles.", "Main products: buses, trucks, special vehicles.", "Cooperation with German and Chinese companies.", "Employees: about 1,500 workers.", "Exports to 10 countries."],
+    },
+  },
   {
     id: "angren-free-economic-zone-economic-v2",
     type: "industry",
     parent: "UZ-TO",
     coords: [70.0719, 41.0125],
-    name: { de: "Freie Wirtschaftszone Angren", hu: "Angreni Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Angren", en: "Angren Free Economic Zone",
-image: "/poi-images/angren-free-economic-zone-economic-v2.webp"
-},
+    name: { de: "Freie Wirtschaftszone Angren", hu: "Angreni Szabad Gazdasági Övezet", ro: "Zona Economică Liberă Angren", en: "Angren Free Economic Zone"},
+    image: "/poi-images/angren-free-economic-zone-economic-v2.webp",
     description: { de: "Ein Industriecluster nahe Taschkent, der sich auf Keramik, Baustoffe und die Hightech-Produktion konzentriert.", hu: "Taskent közeli ipari klaszter, amely a kerámia-, építőanyag- és csúcstechnológiai termelésre összpontosít.", ro: "Un cluster industrial lângă Tașkent, axat pe ceramică, materiale de construcții și producție de înaltă tehnologie.", en: "An industrial cluster near Tashkent, focusing on ceramics, building materials, and high-tech production." },
     facts: {
       de: ["Beheimatet moderne Fabriken für Elektronik und Bauwesen.", "Nutzt die hervorragende Bahnanbindung Richtung Ferghanatal."],
       hu: ["Modern elektronikai és építőipari gyáraknak ad otthont.", "Kihasználja a Fergana-völgy felé vezető kiváló vasúti összeköttetést."],
       ro: ["Găzduiește fabrici moderne de electronice și construcții.", "Folosește conexiunea feroviară excelentă către Valea Fergana."],
       en: ["Home to modern factories for electronics and construction.", "Utilizes the excellent railway connection to the Fergana Valley."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die freie Wirtschaftszone Angren wurde 2012 gegründet, um Investitionen in der Provinz Taschkent zu fördern. Sie umfasst 500 Hektar und konzentriert sich auf Leichtindustrie, Bauproduktion und Logistik. Die Zone bietet Steuererleichterungen und eine moderne Infrastruktur. Bisher haben sich über 30 Unternehmen angesiedelt, viele aus China und Südkorea. Die Zone schafft Arbeitsplätze für die lokale Bevölkerung und fördert den Technologietransfer. Sie ist an das Eisenbahnnetz angeschlossen, was den Export erleichtert.",
+      hu: "Az Angreni Szabad Gazdasági Övezetet 2012-ben hozták létre a Taskent tartományba irányuló befektetések ösztönzésére. Területe 500 hektár, és a könnyűiparra, építőanyag-gyártásra és logisztikára összpontosít. Az övezet adókedvezményeket és modern infrastruktúrát kínál. Eddig több mint 30 vállalat telepedett le, sokan Kínából és Dél-Koreából. Az övezet munkahelyeket teremt a helyi lakosság számára és elősegíti a technológiatranszfert. Vasúti hálózatra csatlakozik, ami megkönnyíti az exportot.",
+      ro: "Zona Economică Liberă Angren a fost înființată în 2012 pentru a stimula investițiile în provincia Tașkent. Acoperă 500 de hectare și se concentrează pe industria ușoară, producția de construcții și logistică. Zona oferă facilități fiscale și infrastructură modernă. Până acum, peste 30 de companii s-au stabilit, multe din China și Coreea de Sud. Zona creează locuri de muncă pentru populația locală și facilitează transferul de tehnologie. Este conectată la rețeaua feroviară, facilitând exporturile.",
+      en: "The Angren Free Economic Zone was established in 2012 to boost investment in Tashkent province. It covers 500 hectares and focuses on light industry, construction production, and logistics. The zone offers tax incentives and modern infrastructure. Over 30 companies have set up, many from China and South Korea. The zone creates jobs for the local population and promotes technology transfer. It is connected to the railway network, facilitating exports.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2012.", "Fläche: 500 Hektar.", "Steuerbefreiung für 5 bis 7 Jahre.", "Über 30 ansässige Unternehmen.", "Investitionen: 800 Millionen US-Dollar.", "Beschäftigte: rund 6.000 Personen."],
+      hu: ["Alapítás éve: 2012.", "Terület: 500 hektár.", "Adómentesség 5-7 évig.", "Több mint 30 vállalat telepedett le.", "Beruházások: 800 millió USD.", "Foglalkoztatottak: körülbelül 6000 fő."],
+      ro: ["Anul înființării: 2012.", "Suprafață: 500 de hectare.", "Scutire de impozit pentru 5 până la 7 ani.", "Peste 30 de companii stabilite.", "Investiții: 800 milioane USD.", "Angajați: circa 6.000 de persoane."],
+      en: ["Year established: 2012.", "Area: 500 hectares.", "Tax exemption for 5 to 7 years.", "Over 30 resident companies.", "Investments: 800 million USD.", "Employees: about 6,000 people."],
+    },
   }
 ];

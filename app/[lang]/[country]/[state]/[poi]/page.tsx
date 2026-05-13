@@ -2,7 +2,11 @@ import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import Breadcrumb from "@/components/seo/Breadcrumb";
 import PoiGalleryCard from "@/components/seo/PoiGalleryCard";
+import PoiGameCta from "@/components/seo/PoiGameCta";
+import PoiDidYouKnow from "@/components/seo/PoiDidYouKnow";
+import PoiMiniMap from "@/components/seo/PoiMiniMap";
 import StructuredData, { createPoiStructuredData, createFaqStructuredData } from "@/components/seo/StructuredData";
+import { getRelatedPoisGrouped, getNearbyPois } from "@/lib/seo/relatedPoisGrouped";
 import {
   COUNTRY_COPY,
   getCountryCopy,
@@ -126,6 +130,9 @@ export default async function PoiPage({
   const copy = SEO_COPY[resolved.lang as Lang];
   const countryCopy = getCountryCopy(countryId, resolved.lang as Lang);
   const related = getRelatedPois(poi);
+  const grouped = getRelatedPoisGrouped(poi, 6);
+  const nearby = getNearbyPois(poi, 80, 24);
+  const nextHref = grouped.sameRegion[0] ? buildPoiPath(resolved.lang as Lang, grouped.sameRegion[0]) : undefined;
   const geoFacts = geographicFacts(poi);
   const description = (poi.description as Record<string, string> | undefined)?.[resolved.lang as Lang] || poi.description?.de || "";
   const advanced = (poi.descriptionAdvanced as Record<string, string> | undefined)?.[resolved.lang as Lang] || (poi.descriptionAdvanced as Record<string, string> | undefined)?.de || "";
@@ -210,7 +217,7 @@ export default async function PoiPage({
                       <h2 className="text-sm font-semibold uppercase tracking-[0.18em] text-white/55">{copy.geography}</h2>
                       <ul className="mt-3 space-y-2 text-white/80">
                         {geoFacts.map((item) => <li key={item}>{item}</li>)}
-                        <li>{poi.coords[1]}, {poi.coords[0]}</li>
+                        <li>{poi.coords![1]}, {poi.coords![0]}</li>
                       </ul>
                     </div>
                   ) : null}
@@ -266,11 +273,37 @@ export default async function PoiPage({
           );
         })()}
 
-        {related.length ? (
+        <PoiDidYouKnow poi={poi} lang={resolved.lang as Lang} nextHref={nextHref} />
+
+        <PoiGameCta poi={poi} lang={resolved.lang as Lang} />
+
+        <PoiMiniMap poi={poi} lang={resolved.lang as Lang} candidates={nearby} />
+
+        {grouped.sameRegion.length ? (
+          <section className="mt-10">
+            <h2 className="text-2xl font-semibold tracking-tight">{copy.related}</h2>
+            <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {grouped.sameRegion.map((item) => (
+                <PoiGalleryCard key={item.id} poi={item} lang={resolved.lang as Lang} />
+              ))}
+            </div>
+          </section>
+        ) : related.length ? (
           <section className="mt-10">
             <h2 className="text-2xl font-semibold tracking-tight">{copy.related}</h2>
             <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {related.map((item) => (
+                <PoiGalleryCard key={item.id} poi={item} lang={resolved.lang as Lang} />
+              ))}
+            </div>
+          </section>
+        ) : null}
+
+        {grouped.sameTopic.length ? (
+          <section className="mt-10">
+            <h2 className="text-2xl font-semibold tracking-tight">{poi.type} — {countryCopy.name}</h2>
+            <div className="mt-4 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+              {grouped.sameTopic.map((item) => (
                 <PoiGalleryCard key={item.id} poi={item} lang={resolved.lang as Lang} />
               ))}
             </div>

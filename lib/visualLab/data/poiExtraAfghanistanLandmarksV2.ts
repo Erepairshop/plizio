@@ -6,9 +6,8 @@ export const poiExtraAfghanistanLandmarksV2: POI[] = [
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.049, 34.549],
-    name: { de: "Qargha-Stausee", hu: "Karga-víztározó", ro: "Lacul de acumulare Qargha", en: "Qargha Reservoir",
-image: "/poi-images/qargha-reservoir-landmarks-v2.webp"
-},
+    name: { de: "Qargha-Stausee", hu: "Karga-víztározó", ro: "Lacul de acumulare Qargha", en: "Qargha Reservoir"},
+    image: "/poi-images/qargha-reservoir-landmarks-v2.webp",
     description: {
       de: "Dieses Reservoir und der dazugehörige Damm befinden sich westlich von Kabul und dienen der Bewässerung.",
       hu: "A Kabulhoz közeli Karga-víztározó népszerű családi kirándulóhely. Festői környezetben kínál csónakázási és piknikezési lehetőséget a látogatóknak.",
@@ -38,9 +37,8 @@ image: "/poi-images/qargha-reservoir-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.119, 34.466],
-    name: { de: "Nationalmuseum von Afghanistan", hu: "Afganisztán Nemzeti Múzeuma", ro: "Muzeul Național al Afganistanului", en: "National Museum of Afghanistan",
-image: "/poi-images/national-museum-afghanistan-landmarks-v2.webp"
-},
+    name: { de: "Nationalmuseum von Afghanistan", hu: "Afganisztán Nemzeti Múzeuma", ro: "Muzeul Național al Afganistanului", en: "National Museum of Afghanistan"},
+    image: "/poi-images/national-museum-afghanistan-landmarks-v2.webp",
     description: {
       de: "Dieses Museum in Kabul beherbergte einst eine der bedeutendsten Antiquitätensammlungen Zentralasiens. Viele Schätze wurden trotz Kriegswirren gerettet.",
       hu: "Ez a kabuli múzeum egykor Közép-Ázsia egyik legjelentősebb régiséggyűjteményének adott otthont. A háborúk ellenére sok kincset megmentettek.",
@@ -70,9 +68,8 @@ image: "/poi-images/national-museum-afghanistan-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AF-BAM",
     coords: [67.200, 34.833],
-    name: { de: "Nationalpark Band-e-Amir", hu: "Band-e-Amir Nemzeti Park", ro: "Parcul Național Band-e-Amir", en: "Band-e-Amir National Park",
-image: "/poi-images/band-e-amir-park-landmarks-v2.webp"
-},
+    name: { de: "Nationalpark Band-e-Amir", hu: "Band-e-Amir Nemzeti Park", ro: "Parcul Național Band-e-Amir", en: "Band-e-Amir National Park"},
+    image: "/poi-images/band-e-amir-park-landmarks-v2.webp",
     description: {
       de: "Band-e-Amir ist der erste Nationalpark Afghanistans und berühmt für seine tiefblauen Seen. Die atemberaubende Natur zieht zahlreiche Besucher an.",
       hu: "A Band-e-Amir Afganisztán első nemzeti parkja, mely mélykék tavairól híres. A lélegzetelállító természeti csoda számos látogatót vonz.",
@@ -102,9 +99,8 @@ image: "/poi-images/band-e-amir-park-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.133, 34.544],
-    name: { de: "Bagh-e Bala-Palast", hu: "Bagh-e Bala Palota", ro: "Palatul Bagh-e Bala", en: "Bagh-e Bala Palace",
-image: "/poi-images/bagh-e-bala-palace-landmarks-v2.webp"
-},
+    name: { de: "Bagh-e Bala-Palast", hu: "Bagh-e Bala Palota", ro: "Palatul Bagh-e Bala", en: "Bagh-e Bala Palace"},
+    image: "/poi-images/bagh-e-bala-palace-landmarks-v2.webp",
     description: {
       de: "Ein historischer Palast in Kabul, der Ende des 19. Jahrhunderts erbaut wurde. Er bietet einen herrlichen Blick über die Stadt und das Umland.",
       hu: "Egy történelmi palota Kabulban, amely a 19. század végén épült. Csodálatos kilátást nyújt a városra és a környező hegyekre.",
@@ -134,9 +130,8 @@ image: "/poi-images/bagh-e-bala-palace-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-PAR",
     coords: [69.033, 35.316],
-    name: { de: "Salangpass", hu: "Szalang-hágó", ro: "Pasul Salang", en: "Salang Pass",
-image: "/poi-images/salang-pass-landmarks-v2.webp"
-},
+    name: { de: "Salangpass", hu: "Szalang-hágó", ro: "Pasul Salang", en: "Salang Pass"},
+    image: "/poi-images/salang-pass-landmarks-v2.webp",
     description: {
       de: "Der Salangpass ist eine der wichtigsten Gebirgsstraßen im Hindukusch. Er verbindet Nord- und Südafghanistan durch einen langen Straßentunnel.",
       hu: "A Szalang-hágó a Hindukus egyik legfontosabb hegyi útvonala. Egy hosszú alagúton keresztül köti össze Észak- és Dél-Afganisztánt.",
@@ -166,9 +161,8 @@ image: "/poi-images/salang-pass-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.176, 34.535],
-    name: { de: "Wazir-Akbar-Khan-Moschee", hu: "Wazir Akbar Kán Mecset", ro: "Moscheea Wazir Akbar Khan", en: "Wazir Akbar Khan Mosque",
-image: "/poi-images/wazir-akbar-khan-mosque-landmarks-v2.webp"
-},
+    name: { de: "Wazir-Akbar-Khan-Moschee", hu: "Wazir Akbar Kán Mecset", ro: "Moscheea Wazir Akbar Khan", en: "Wazir Akbar Khan Mosque"},
+    image: "/poi-images/wazir-akbar-khan-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der markantesten Moscheen im diplomatischen Viertel von Kabul. Sie zeichnet sich durch ihr elegantes und modernes islamisches Design aus.",
       hu: "Kabul diplomáciai negyedének egyik legfeltűnőbb mecsetje. Elegáns és modern iszlám dizájnjával tűnik ki a környezetéből.",
@@ -199,9 +193,8 @@ image: "/poi-images/wazir-akbar-khan-mosque-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.174, 34.526],
-    name: { de: "Abdul-Rahman-Moschee", hu: "Abdul Rahman Mecset", ro: "Moscheea Abdul Rahman", en: "Abdul Rahman Mosque",
-image: "/poi-images/abdul-rahman-mosque-landmarks-v2.webp"
-},
+    name: { de: "Abdul-Rahman-Moschee", hu: "Abdul Rahman Mecset", ro: "Moscheea Abdul Rahman", en: "Abdul Rahman Mosque"},
+    image: "/poi-images/abdul-rahman-mosque-landmarks-v2.webp",
     description: {
       de: "Die Große Moschee von Kabul ist eines der größten religiösen Bauwerke in Afghanistan und wurde 2012 offiziell eröffnet.",
       hu: "A kabuli Nagy Mecsetként is ismert épület az ország egyik legnagyobb iszlám imahelye. Kupolái a főváros sziluettje fölé magasodnak.",
@@ -231,9 +224,8 @@ image: "/poi-images/abdul-rahman-mosque-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.186, 34.516],
-    name: { de: "Id-Gah-Moschee", hu: "Id Gah Mecset", ro: "Moscheea Id Gah", en: "Id Gah Mosque",
-image: "/poi-images/id-gah-mosque-landmarks-v2.webp"
-},
+    name: { de: "Id-Gah-Moschee", hu: "Id Gah Mecset", ro: "Moscheea Id Gah", en: "Id Gah Mosque"},
+    image: "/poi-images/id-gah-mosque-landmarks-v2.webp",
     description: {
       de: "Eine der ältesten und größten historischen Moscheen in Kabul. Hier finden traditionell große Gebetsversammlungen an islamischen Feiertagen statt.",
       hu: "Kabul egyik legrégebbi és legnagyobb történelmi mecsetje. Hagyományosan itt tartják a nagy imaösszejöveteleket az iszlám ünnepeken.",
@@ -263,9 +255,8 @@ image: "/poi-images/id-gah-mosque-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.178, 34.514],
-    name: { de: "Pul-e-Khishti-Moschee", hu: "Pul-e Khishti Mecset", ro: "Moscheea Pul-e Khishti", en: "Pul-e Khishti Mosque",
-image: "/poi-images/pul-e-khishti-mosque-landmarks-v2.webp"
-},
+    name: { de: "Pul-e-Khishti-Moschee", hu: "Pul-e Khishti Mecset", ro: "Moscheea Pul-e Khishti", en: "Pul-e Khishti Mosque"},
+    image: "/poi-images/pul-e-khishti-mosque-landmarks-v2.webp",
     description: {
       de: "Mit ihrer markanten blauen Kuppel ist diese Moschee im belebten Zentrum Kabuls nicht zu übersehen. Sie ist ein architektonisches Highlight der Altstadt.",
       hu: "Jellegzetes kék kupolájával ez a mecset Kabul nyüzsgő központjában azonnal szembetűnik. Az óváros építészeti fénypontja.",
@@ -295,9 +286,8 @@ image: "/poi-images/pul-e-khishti-mosque-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.172, 34.518],
-    name: { de: "Shah-Do-Schamschira-Moschee", hu: "Shah-Do Shamshira Mecset", ro: "Moscheea Shah-Do Shamshira", en: "Shah-Do Shamshira Mosque",
-image: "/poi-images/shah-do-shamshira-landmarks-v2.webp"
-},
+    name: { de: "Shah-Do-Schamschira-Moschee", hu: "Shah-Do Shamshira Mecset", ro: "Moscheea Shah-Do Shamshira", en: "Shah-Do Shamshira Mosque"},
+    image: "/poi-images/shah-do-shamshira-landmarks-v2.webp",
     description: {
       de: "Diese zweistöckige Moschee in Kabul sticht durch ihre europäisch inspirierte Architektur hervor. Der Name bedeutet „König der zwei Schwerter“.",
       hu: "Ez a kétszintes kabuli mecset európai ihletésű építészetével tűnik ki. A neve annyit jelent, hogy „A Két Kard Királya”.",
@@ -327,9 +317,8 @@ image: "/poi-images/shah-do-shamshira-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.162, 34.522],
-    name: { de: "Koh-e-Asamai (Fernsehberg)", hu: "Koh-e Asamai (Televízió-hegy)", ro: "Koh-e Asamai (Dealul Televiziunii)", en: "Koh-e Asamai (TV Hill)",
-image: "/poi-images/tv-hill-landmarks-v2.webp"
-},
+    name: { de: "Koh-e-Asamai (Fernsehberg)", hu: "Koh-e Asamai (Televízió-hegy)", ro: "Koh-e Asamai (Dealul Televiziunii)", en: "Koh-e Asamai (TV Hill)"},
+    image: "/poi-images/tv-hill-landmarks-v2.webp",
     description: {
       de: "Ein markanter Berg inmitten von Kabul, der mit zahlreichen Antennenmasten bestückt ist. Er dient als wichtiges Wahrzeichen zur Orientierung in der Stadt.",
       hu: "Kabul központjában emelkedő jellegzetes hegy, amelyet számos antennatorony borít. Fontos tájékozódási pontként szolgál a városban.",
@@ -360,9 +349,8 @@ image: "/poi-images/tv-hill-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.155, 34.482],
-    name: { de: "Chihil-Sutun-Palast", hu: "Chihil Sutun Palota", ro: "Palatul Chihil Sutun", en: "Chihil Sutun Palace",
-image: "/poi-images/chihil-sutun-palace-landmarks-v2.webp"
-},
+    name: { de: "Chihil-Sutun-Palast", hu: "Chihil Sutun Palota", ro: "Palatul Chihil Sutun", en: "Chihil Sutun Palace"},
+    image: "/poi-images/chihil-sutun-palace-landmarks-v2.webp",
     description: {
       de: "Der „Palast der vierzig Säulen“ liegt in einem weitläufigen Park im Süden Kabuls. Die restaurierte Anlage lädt zum Entspannen und Verweilen ein.",
       hu: "A „Negyven Oszlop Palotája” egy hatalmas parkban fekszik Kabul déli részén. A felújított komplexum pihenésre és kikapcsolódásra hívogat.",
@@ -392,9 +380,8 @@ image: "/poi-images/chihil-sutun-palace-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.114, 34.456],
-    name: { de: "Tadschbeg-Palast", hu: "Tádzsbek Palota", ro: "Palatul Tajbeg", en: "Tajbeg Palace",
-image: "/poi-images/tajbeg-palace-landmarks-v2.webp"
-},
+    name: { de: "Tadschbeg-Palast", hu: "Tádzsbek Palota", ro: "Palatul Tajbeg", en: "Tajbeg Palace"},
+    image: "/poi-images/tajbeg-palace-landmarks-v2.webp",
     description: {
       de: "Ein monumentaler Palast auf einem Hügel in Kabul, der als Königsresidenz diente. Er war Schauplatz wichtiger politischer Ereignisse in der jüngeren Geschichte.",
       hu: "Egy monumentális palota egy kabuli dombon, amely egykor királyi rezidencia volt. A közelmúlt történelmének fontos politikai eseményei zajlottak itt.",
@@ -424,9 +411,8 @@ image: "/poi-images/tajbeg-palace-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KAB",
     coords: [69.178, 34.525],
-    name: { de: "Arg (Präsidentenpalast)", hu: "Arg (Elnöki Palota)", ro: "Arg (Palatul Prezidențial)", en: "Arg (Presidential Palace)",
-image: "/poi-images/arg-presidential-palace-landmarks-v2.webp"
-},
+    name: { de: "Arg (Präsidentenpalast)", hu: "Arg (Elnöki Palota)", ro: "Arg (Palatul Prezidențial)", en: "Arg (Presidential Palace)"},
+    image: "/poi-images/arg-presidential-palace-landmarks-v2.webp",
     description: {
       de: "Der Arg ist der historische Präsidentenpalast in Kabul und dient seit dem späten 19. Jahrhundert als Regierungssitz.",
       hu: "Az Arg egy erősen őrzött erőd és az afgán államfők hagyományos székhelye. A 19. század végén építették egy korábbi vár helyén.",
@@ -456,9 +442,8 @@ image: "/poi-images/arg-presidential-palace-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.155, 34.508],
-    name: { de: "Zoo Kabul", hu: "Kabuli Állatkert", ro: "Grădina Zoologică din Kabul", en: "Kabul Zoo",
-image: "/poi-images/kabul-zoo-landmarks-v2.webp"
-},
+    name: { de: "Zoo Kabul", hu: "Kabuli Állatkert", ro: "Grădina Zoologică din Kabul", en: "Kabul Zoo"},
+    image: "/poi-images/kabul-zoo-landmarks-v2.webp",
     description: {
       de: "Der einzige Zoo des Landes bietet Einheimischen eine seltene Möglichkeit, heimische und exotische Tiere zu sehen. Er ist ein beliebtes Ziel für Schulausflüge.",
       hu: "Az ország egyetlen állatkertje ritka lehetőséget kínál a helyieknek hazai és egzotikus állatok megtekintésére. Kedvelt iskolai kirándulóhely.",
@@ -488,9 +473,8 @@ image: "/poi-images/kabul-zoo-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-KHO",
     coords: [69.925, 33.333],
-    name: { de: "Große Moschee von Chost", hu: "Hoszt Nagy Mecsetje", ro: "Marea Moschee din Khost", en: "Great Mosque of Khost",
-image: "/poi-images/khost-great-mosque-landmarks-v2.webp"
-},
+    name: { de: "Große Moschee von Chost", hu: "Hoszt Nagy Mecsetje", ro: "Marea Moschee din Khost", en: "Great Mosque of Khost"},
+    image: "/poi-images/khost-great-mosque-landmarks-v2.webp",
     description: {
       de: "Dieses eindrucksvolle islamische Bauwerk ist das religiöse Zentrum der Stadt Chost. Es zeichnet sich durch große Kuppeln und kunstvolle Details aus.",
       hu: "Ez a lenyűgöző iszlám épület Hoszt városának vallási központja. Nagy kupolái és művészi részletei különlegessé teszik.",
@@ -520,9 +504,8 @@ image: "/poi-images/khost-great-mosque-landmarks-v2.webp"
     type: "monument",
     parent: "AF-KAB",
     coords: [69.300, 34.433],
-    name: { de: "Minarett von Chakari", hu: "Csakari minaretje", ro: "Minaretul din Chakari", en: "Minaret of Chakari",
-image: "/poi-images/minaret-of-chakari-landmarks-v2.webp"
-},
+    name: { de: "Minarett von Chakari", hu: "Csakari minaretje", ro: "Minaretul din Chakari", en: "Minaret of Chakari"},
+    image: "/poi-images/minaret-of-chakari-landmarks-v2.webp",
     description: {
       de: "Ein buddhistisches Monument aus der Antike, das auf einem Gebirgskamm außerhalb von Kabul steht. Es diente einst als Wegweiser für Pilger und Händler.",
       hu: "Egy ókori buddhista emlékmű, amely egy Kabuli hegygerincen áll. Egykor útmutatóként szolgált zarándokok és kereskedők számára.",
@@ -552,9 +535,8 @@ image: "/poi-images/minaret-of-chakari-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [69.183, 34.538],
-    name: { de: "OMAR-Minenmuseum", hu: "OMAR Aknamúzeum", ro: "Muzeul Minelor OMAR", en: "OMAR Mine Museum",
-image: "/poi-images/omar-mine-museum-landmarks-v2.webp"
-},
+    name: { de: "OMAR-Minenmuseum", hu: "OMAR Aknamúzeum", ro: "Muzeul Minelor OMAR", en: "OMAR Mine Museum"},
+    image: "/poi-images/omar-mine-museum-landmarks-v2.webp",
     description: {
       de: "Dieses einzigartige Museum in Kabul klärt über die Gefahren von Landminen auf. Es zeigt eine Sammlung verschiedener militärischer Hinterlassenschaften.",
       hu: "Ez a különleges kabuli múzeum a taposóaknák veszélyeire hívja fel a figyelmet. Különféle katonai hagyatékok gyűjteményét mutatja be.",
@@ -584,9 +566,8 @@ image: "/poi-images/omar-mine-museum-landmarks-v2.webp"
     type: "tourist-attraction",
     parent: "AF-KAB",
     coords: [68.950, 34.583],
-    name: { de: "Gärten von Paghman", hu: "Paghman Kertek", ro: "Grădinile din Paghman", en: "Paghman Gardens",
-image: "/poi-images/paghman-gardens-landmarks-v2.webp"
-},
+    name: { de: "Gärten von Paghman", hu: "Paghman Kertek", ro: "Grădinile din Paghman", en: "Paghman Gardens"},
+    image: "/poi-images/paghman-gardens-landmarks-v2.webp",
     description: {
       de: "Ein traditioneller Erholungsort im Paghman-Tal in der Nähe von Kabul. Die Gärten sind bekannt für ihre frische Bergluft und den Siegessäulen-Bogen.",
       hu: "Hagyományos üdülőhely a Kabul közelében található Paghman-völgyben. A kertek a friss hegyi levegőről és a győzelmi boltívről ismertek.",
@@ -616,9 +597,8 @@ image: "/poi-images/paghman-gardens-landmarks-v2.webp"
     type: "landmark",
     parent: "AF-NAN",
     coords: [70.366, 34.466],
-    name: { de: "Darunta-Staudamm", hu: "Darunta-gát", ro: "Barajul Darunta", en: "Darunta Dam",
-image: "/poi-images/darunta-dam-landmarks-v2.webp"
-},
+    name: { de: "Darunta-Staudamm", hu: "Darunta-gát", ro: "Barajul Darunta", en: "Darunta Dam"},
+    image: "/poi-images/darunta-dam-landmarks-v2.webp",
     description: {
       de: "Dieser hydroelektrische Staudamm am Kabul-Fluss nahe Dschalalabad liefert nicht nur Energie, sondern schafft auch einen malerischen Stausee.",
       hu: "Ez a Kabul-folyón lévő vízerőmű Dzsalálábád közelében nemcsak energiát termel, hanem egy festői víztározót is létrehoz.",

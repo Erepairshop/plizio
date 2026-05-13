@@ -2308,45 +2308,6 @@ export const poiExtraRo2: POI[] = [
       en: []
     }, image: "/poi-images/animal-habitat-tm-zoo-extra.webp"},
   {
-    id: "kid-landmark-dino-parc-bv-extra",
-    type: "kid-landmark",
-    parent: "RO-BV",
-    coords: [25.46, 45.59],
-    name: { de: "Dino Parc Râșnov", hu: "Dino Parc Barcarozsnyó", ro: "Dino Parc Râșnov", en: "Dino Parc Râșnov" },
-    description: {
-      de: "Ein Freilichtmuseum mit lebensgroßen Dinosaurier-Modellen.",
-      hu: "Szabadtéri múzeum életnagyságú dinoszaurusz modellekkel.",
-      ro: "Un muzeu în aer liber cu modele de dinozauri în mărime naturală.",
-      en: "An open-air museum featuring life-sized dinosaur models."
-    },
-    facts: {
-      de: ["Über 100 Dinosaurier-Exponate.", "Abenteuerspielplätze."],
-      hu: ["Több mit 100 dinoszaurusz kiállítva.", "Kalandjátszóterek."],
-      ro: ["Peste 100 de dinozauri expuși.", "Locuri de joacă cu aventuri."],
-      en: ["Over 100 dinosaurs on display.", "Features adventure playgrounds."]
-    },
-    descriptionAdvanced: {
-      de: "Der Dino Parc Râșnov ist das größte Dinosaurier-Freilichtmuseum in Südosteuropa und ein absolutes Highlight für Familien in der Region Brașov. Auf einem weitläufigen Waldareal unterhalb der historischen Festung Râșnov können Besucher über 100 lebensgroße Dinosaurier-Modelle bestaunen, die nach neuesten wissenschaftlichen Erkenntnissen rekonstruiert wurden. Der Park bietet eine faszinierende Reise durch die Erdgeschichte, von den Anfängen der Dinosaurier bis zu ihrem Aussterben. Neben den beeindruckenden Exponaten verfügt der Dino Parc über zahlreiche Attraktionen wie Abenteuerspielplätze, Seilrutschen, ein 9D-Kino und interaktive Ausstellungsräume. Ein besonderes Highlight ist der Bereich mit fliegenden Dinosauriern und der riesige Seismosaurus, der mit seiner gewaltigen Größe alle Blicke auf sich zieht. Der Park verbindet geschickt Bildung mit Spaß und macht die Welt der Urzeit für Kinder und Erwachsene gleichermaßen greifbar. Die einzigartige Lage im dichten Wald verleiht dem Besuch eine zusätzliche, fast magische Atmosphäre.",
-      hu: "A barcarozsnyói (Râșnov) Dino Parc Románia és Délkelet-Európa legnagyobb dinoszaurusz-parkja, amely egy igazi időutazásra hívja a látogatókat a Rozsnyói-vár szomszédságában. A fenyőerdőben elhelyezett több mint 100 életnagyságú, tudományosan hiteles dinoszaurusz-modell között sétálva a gyerekek és felnőttek egyaránt megismerhetik a történelem előtti világ uralkodóit. A park nemcsak látványos szobrokkal, hanem interaktív múzeumi részekkel, vulkán-szimulációval és 9D-s mozival is rendelkezik, ahol minden érzékszervünket próbára tehetjük. Külön érdekesség a Seismosaurus, a világ egyik legnagyobb dinoszaurusza, amelynek monumentális méretei mindenkit lenyűgöznek. A Dino Parc az oktatást és a szórakozást mesterien ötvözi, így vált Románia egyik legkedveltebb családi úticéljává az elmúlt években.",
-      ro: "Dino Parc Râșnov este cel mai mare parc cu dinozauri din sud-estul Europei și o destinație legendară pentru micii exploratori și pasionații de paleontologie. Situat lângă Cetatea Râșnov, parcul se întinde pe o suprafață de 4 hectare și găzduiește peste 100 de dinozauri în mărime naturală, realizați din fibră de sticlă cu o precizie științifică uimitoare. Vizitatorii pot parcurge un traseu prin pădure unde descoperă specii gigantice precum celebrul T-Rex sau imensul Hatzegopteryx, descoperit chiar pe teritoriul României. Parcul oferă și numeroase facilități interactive: cinematografe 9D, trasee de aventură, un vulcan care erupe și un muzeu cu fosile autentice. Dino Parc reușește să combine perfect divertismentul cu educația, transformând o zi obișnuită într-o călătorie fascinantă în timpul preistoric, fiind una dintre cele mai iubite atracții turistice din județul Brașov.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Der Dino Parc Râșnov beherbergt über 100 lebensgroße Dinosaurier-Modelle.",
-        "Es ist das größte Dinosaurier-Freilichtmuseum in ganz Südosteuropa.",
-        "Die Exponate sind aus Glasfaserkunstharz gefertigt und sehr langlebig.",
-        "Ein 9D-Kino bietet virtuelle Reisen in die Urzeit für die Besucher.",
-        "Der Park liegt direkt am Weg zur berühmten Bauernburg von Râșnov.",
-        "Es gibt einen speziellen Bereich für den 'Transylvanosaurus', eine lokale Entdeckung.",
-        "Zahlreiche Kletterpfade und Seilrutschen sorgen für sportliche Abwechslung.",
-        "Der Park ist mehrfacher Gewinner von Preisen für die beste Familienattraktion."
-      ],
-      hu: ["A Dino Parc több mint 4 hektáros területen fekszik a rozsnyói erdőben.", "A modellek speciális üvegszálból készültek, és ellenállnak az időjárásnak.", "A parkban látható egy óriási Seismosaurus modell, amely 45 méter hosszú.", "Az összes kiállított dinoszauruszt paleontológusok szakértői véleménye alapján alkották meg.", "A területen kalandpályák, játszóterek és egy lézeres labirintus is található.", "A park múzeumi része eredeti dinoszaurusz-maradványokat és fosszíliákat is bemutat.", "A Dino Parc megkapta a TripAdvisor 'Travelers' Choice' elismerését.", "Rendszeresen szerveznek éjszakai felfedező túrákat és tematikus szülinapokat."],
-      ro: ["Dino Parc Râșnov a fost inaugurat în anul 2015 și are o suprafață de 4 hectare.", "Găzduiește peste 100 de dinozauri atestați științific, reproduși în mărime naturală.", "Aici se află reproducerea celui mai mare animal zburător din lume, Hatzegopteryx thambema.", "Parcul include un vulcan interactiv și o platformă care simulează cutremure.", "Exponatele sunt realizate dintr-un amestec special de rășini și fibră de sticlă rezistentă.", "Dino Parc a fost vizitat de peste 2 milioane de turiști de la deschidere până în prezent.", "Include cel mai mare traseu de aventură în copaci din regiunea Râșnovului.", "Colaborează cu paleontologi de prestigiu pentru acuratețea informațiilor prezentate."],
-      en: []
-    }, image: "/poi-images/kid-landmark-dino-parc-bv-extra.webp"},
-  {
     id: "kid-landmark-edenland-extra",
     type: "kid-landmark",
     parent: "RO-IF",
@@ -2814,45 +2775,6 @@ export const poiExtraRo2: POI[] = [
       ro: ["Aqua Magic Mamaia a fost inaugurat în anul 2003, fiind pionierul parcurilor acvatice din RO.", "Suprafața totală a parcului este de aproximativ 27.200 de metri pătrați.", "Dispune de 14 atracții acvatice, inclusiv celebrul tobogan 'Kamikaze'.", "Capacitatea de primire este de peste 9.000 de turiști în fiecare zi de vară.", "Include zone speciale pentru copii denumite 'Water Playground' și 'Baby Pool'.", "În interiorul parcului se găsesc restaurante, baruri și puncte de prim-ajutor specializate.", "Sistemul de filtrare a apei este unul de ultimă generație, asigurând puritatea continuă.", "Aqua Magic este adesea locația unor transmisiuni TV în direct și a unor concerte estivale."],
       en: []
     }, image: "/poi-images/kid-landmark-aqua-magic-ct-extra.webp"},
-  {
-    id: "kid-landmark-therme-b-extra",
-    type: "kid-landmark",
-    parent: "RO-B",
-    coords: [26.08, 44.60],
-    name: { de: "Therme Bukarest", hu: "Bukaresti Termálfürdő", ro: "Therme București", en: "Therme Bucharest" },
-    description: {
-      de: "Das größte Wellness- und Unterhaltungszentrum in Europa (nahe Otopeni).",
-      hu: "Európa legnagyobb wellness és szórakoztató központja (Otopeni közelében).",
-      ro: "Cel mai mare centru de wellness și relaxare din Europa.",
-      en: "The largest wellness and entertainment center in Europe (near Otopeni)."
-    },
-    facts: {
-      de: ["Tropische Pflanzenwelt.", "Riesige Wasserrutschen."],
-      hu: ["Trópusi növényvilág.", "Hatalmas vízi csúszdák."],
-      ro: ["Vegetație tropicală.", "Tobogane de apă uriașe."],
-      en: ["Tropical vegetation.", "Features massive water slides."]
-    },
-    descriptionAdvanced: {
-      de: "Die Therme Bukarest, gelegen in Balotești in der Nähe des Flughafens Otopeni, ist das größte Wellness- und Unterhaltungszentrum in Europa und eine architektonische Meisterleistung aus Glas und Stahl. Dieser spektakuläre Komplex bietet Besuchern eine einzigartige tropische Erfahrung mit einer konstanten Innentemperatur von 30 Grad Celsius, unabhängig von der Jahreszeit. Die Therme ist in verschiedene Bereiche unterteilt: 'Galaxy' für Familien mit beeindruckenden Wasserrutschen, 'The Palm' für Entspannung unter echten Palmen und 'Elysium' für gehobene Saunaerlebnisse und Wellness-Behandlungen. Mit über 800.000 Pflanzen, darunter die größte Sammlung von Palmen in Europa, fühlt man sich wie in einem botanischen Garten der Extraklasse. Das mineralhaltige Thermalwasser, das aus großer Tiefe gefördert wird, speist die zahlreichen Becken und bietet gesundheitsfördernde Vorteile. Die Therme Bukarest ist nicht nur ein Ort der Erholung, sondern auch ein Ort für Events, Konzerte und erstklassige Gastronomie, was sie zu einem der meistbesuchten touristischen Ziele in ganz Rumänien macht.",
-      hu: "A Bukarest melletti Therme București Európa legnagyobb és legmodernebb termálfürdő és wellness-központja, amely egy igazi trópusi paradicsomot varázsol a román főváros szomszédságába. A hatalmas üvegtető alatt több mint 800 ezer egzotikus növény, köztük igazi pálmaerdők között élvezhetjük a termálvizet egész évben. A Therme három fő zónára oszlik: a Galaxy a családok és a vízi kalandok világa látványos csúszdákkal, a The Palm a relaxáció és a pálmafás medencék birodalma, míg az Elysium a luxus szaunák és gyógykezelések helyszíne. A fenntartható és környezetbarát technológiákat alkalmazó komplexum a legmagasabb szintű pihenést kínálja, legyen szó egy pörgős családi napról vagy egy csendes wellness-hétvégéről. A Therme nemcsak egy fürdő, hanem egy életérzés, ahol a trópusi nyár sosem ér véget.",
-      ro: "Therme București este cel mai mare centru de wellness, relaxare și distracție din Europa construit de la zero, reprezentând un concept revoluționar care aduce atmosfera tropicală la porțile Capitalei. Situat în Balotești, complexul utilizează apă termală extrasă de la mare adâncime pentru a alimenta zeci de bazine situate sub o cupolă de sticlă spectaculoasă. Therme este împărțit în trei zone distincte: 'Galaxy' - paradisul toboganelor pentru familii, 'The Palm' - o grădină exotică cu sute de palmieri pentru relaxare și 'Elysium' - zona exclusivistă de saune și wellness. Cu cea mai mare grădină botanică din România, ce cuprinde peste 800.000 de plante exotice, Therme oferă o experiență senzorială unică. Este o destinație globală ce promovează sănătatea prin apă și oferă facilități ultra-moderne, de la restaurante gourmet la centre de masaj, funcționând 365 de zile pe an la o temperatură tropicală constantă.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Die Therme Bukarest beherbergt über 800.000 Pflanzen und 1.500 Palmen.",
-        "Sie verfügt über das größte System von Wasserrutschen in Zentral- und Osteuropa.",
-        "Das Gebäude hat eine der größten freitragenden Glaskuppeln der Welt.",
-        "Das Thermalwasser wird aus einer Tiefe von mehr als 3.100 Metern gewonnen.",
-        "Besucher können aus 9 verschiedenen Themen-Saunen mit unterschiedlichen Aufgüssen wählen.",
-        "Die Anlage bietet Platz für bis zu 4.000 Gäste gleichzeitig.",
-        "Es gibt spezielle Mineralbecken, die mit Salz aus dem Toten Meer angereichert sind.",
-        "Die Therme wurde mit prestigeträchtigen internationalen Design- und Architekturpreisen ausgezeichnet."
-      ],
-      hu: ["A Therme București Európa legnagyobb zöldmezős wellness-beruházása.", "A komplexum több mint 800 ezer növényével Románia legnagyobb botanikus kertje is egyben.", "A termálvizet több mint 3000 méter mélyről nyerik ki a földből.", "A Galaxy zónában Románia leghosszabb beltéri csúszdarendszere található.", "A tető szerkezete speciális üvegből készült, amely átereszti az UV sugárzást.", "Minden zónában különböző hőmérsékletű és ásványi anyag tartalmú medencék vannak.", "A Therme saját, ultramodern vízszűrő és tisztító technológiával rendelkezik.", "A helyszín mindössze 10 percre található a nemzetközi repülőtértől."],
-      ro: ["Therme București a fost deschis în ianuarie 2016 și este lider european în domeniul wellness.", "Apa termală este pompată de la o adâncime de peste 3.100 de metri.", "Complexul găzduiește peste 1.500 de palmieri adevărați aduși de pe trei continente.", "Zona Galaxy are cel mai lung sistem de tobogane interioare din Europa de Sud-Est (1,5 km).", "Clădirea deține o cupolă de sticlă mobilă de 900 de tone care se deschide în zilele însorite.", "Capacitatea de procesare a aerului asigură o temperatură constantă de 30°C și umiditate optimă.", "Elysium include 9 saune tematice, printre care și una inspirată de tradiția maiașă.", "Complexul a primit certificarea LEED Platinum pentru construcție verde și sustenabilă."],
-      en: []
-    }, image: "/poi-images/kid-landmark-therme-b-extra.webp"},
   {
     id: "kid-landmark-arka-park-sb-extra",
     type: "kid-landmark",
@@ -3406,45 +3328,6 @@ export const poiExtraRo2: POI[] = [
       ro: ["Techirghiol este un liman maritim cu o suprafață de aproximativ 10,7 kmp.", "Salinitatea apei este extrem de ridicată, atingând valori de peste 80-90 g/l.", "Nămolul sapropelic de aici a câștigat medalia de aur la Expoziția Universală de la Paris în 1924.", "Numele lacului provine din limba turcă și înseamnă 'Lacul Vărgat' (sau al lui Techir).", "Este cel mai adânc lac de tip liman maritim din România, atingând pe alocuri 9 metri.", "Techirghiol este o stație de tratament balnear funcțională de peste un secol.", "Aria lacului este protejată prin Convenția Ramsar datorită speciilor de păsări migratoare.", "Pe malul lacului se află mănăstirea Sfânta Maria din Techirghiol, un reper spiritual important."],
       en: []
     }, image: "/poi-images/lake-techirghiol-extra.webp"},
-  {
-    id: "forest-letea-extra",
-    type: "forest",
-    parent: "RO-TL",
-    coords: [29.52, 45.30],
-    name: { de: "Letea-Wald", hu: "Letea-erdő", ro: "Pădurea Letea", en: "Letea Forest" },
-    description: {
-      de: "Der nördlichste subtropische Wald Europas, im Donaudelta gelegen.",
-      hu: "Európa legészakibb szubtrópusi erdője a Duna-deltában.",
-      ro: "Cea mai nordică pădure subtropicală din Europa.",
-      en: "The northernmost subtropical forest in Europe, located in the Danube Delta."
-    },
-    facts: {
-      de: ["Berühmt für Wildpferde.", "Sanddünen und Lianen."],
-      hu: ["Híres a vadlovairól.", "Homokdűnék és liánok."],
-      ro: ["Faimoasă pentru caii sălbatici.", "Dune de nisip și liane."],
-      en: ["Famous for wild horses.", "Features sand dunes and lianas."]
-    },
-    descriptionAdvanced: {
-      de: "Der Letea-Wald ist ein Naturwunder von archaischer Schönheit und der nördlichste subtropische Wald Europas, tief im Herzen des Donaudeltas gelegen. Dieser einzigartige Urwald wächst in den Senken zwischen hohen Sanddünen und bietet einen Anblick, der eher an eine ferne Tropeninsel als an Osteuropa erinnert. Uralte Eichen, die teilweise über 500 Jahre alt sind, werden hier von exotischen Lianen (Wilder Wein und Waldreben) umschlungen, die von den Ästen herabhängen. Weltweit berühmt ist Letea jedoch für seine Wildpferde – hunderte von ihnen leben hier völlig frei und galoppieren über die Sandflächen, was dem Ort eine unvergleichliche Wildwest-Atmosphäre verleiht. Der Wald steht unter strengem Naturschutz und darf nur auf markierten Wegen und in Begleitung von Rangern besucht werden. Die Kombination aus Wüstenlandschaft (Sanddünen), üppigem Dschungel und einer reichen Fauna mit Seeadlern und Schildkröten macht Letea zu einem der faszinierendsten und mystischsten Orte Rumäniens, der die unbändige Kraft der unberührten Natur verkörpert.",
-      hu: "A Letea-erdő a Duna-delta legészakibb részén található, és Románia legrégebbi természeti rezervátuma, egyben Európa legészakibb szubtrópusi jellegű erdeje. A homokdűnék között elhelyezkedő erdő különlegessége a hatalmas, több száz éves tölgyfákra felfutó vadszőlő és liana-szerű növényzet, amely trópusi dzsungelre emlékeztető hangulatot áraszt. Letea leglátványosabb és egyben legvitatottabb lakói a vadlovak, amelyek az egykori házi lovak elvadult leszármazottai, és szabadon kóborolnak a dűnék között. Az erdő szigorúan védett terület, ahol ritka orchideafajok, különleges rovarok és számos ragadozó madár él háborítatlanul. Letea meglátogatása egyedülálló élmény: a homokbuckák vadsága, a sűrű erdők rejtelmei és a vadlovak látványa egy olyan világba kalauzol, ahol a természet az úr, és az idő megállt.",
-      ro: "Pădurea Letea este cea mai veche rezervație naturală din România și cea mai nordică pădure subtropicală din Europa, situată în inima Deltei Dunării pe grindul cu același nume. Acest peisaj de basm este marcat de alternanța între fâșiile de pădure (hasmace) ce cresc în depresiunile dintre dunele de nisip și peisajul deșertic al dunelor maritime. Letea este celebră pentru lianele sale mediteraneene care se înfășoară pe stejarii seculari, dar mai ales pentru populația de cai sălbăticiți (caii liberi de la Letea) care rătăcesc prin acest spațiu protejat. Rezervația adăpostește o biodiversitate incredibilă, cu specii rare de plante, reptile și insecte, fiind un loc unde natura a creat un microclimat unic, izolat de restul continentului. Vizitarea pădurii este o experiență mistică, oferind o perspectivă asupra modului în care viața poate înflori într-un contrast uimitor între nisipul fierbinte și umbra răcoroasă a arborilor uriași.",
-      en: ""
-    },
-    factsAdvanced: {
-      de: [
-        "Letea ist das älteste Naturreservat Rumäniens (geschützt seit 1938).",
-        "Hier wachsen subtropische Kletterpflanzen wie die Griechische Liane.",
-        "Die Wildpferde von Letea sind eine der letzten frei lebenden Populationen in Europa.",
-        "Der Wald wächst auf den Überresten antiker Sanddünen des Schwarzen Meeres.",
-        "Einige der Eichen im Wald haben einen Stammumfang von über zwei Metern.",
-        "Der Wald beherbergt seltene Reptilien wie die Maurische Landschildkröte.",
-        "Letea ist ein Rückzugsort für den majestätischen Seeadler.",
-        "Das Dorf Letea in der Nähe ist bekannt für seine traditionellen blau-weißen Holzhäuser."
-      ],
-      hu: ["A Letea-erdőt már 1938-ban természetvédelmi területté nyilvánították.", "Itt találhatók Románia egyetlen természetes homokdűnéi, amelyek magassága a 10 métert is elérheti.", "Az erdőben több mint 700 éves tölgyfák is élnek.", "A becslések szerint több ezer vadló él a Duna-delta ezen részén.", "Letea az UNESCO Világörökség és a Bioszféra Rezervátum része.", "Az erdő talaja tengeri eredetű homok, ami különleges növénytársulásokat tesz lehetővé.", "A területen ritka vipera- és sakálpopuláció is megfigyelhető.", "Látogatása csak engedéllyel és szakavatott vezető kíséretében lehetséges."],
-      ro: ["Pădurea Letea a fost declarată rezervație naturală în anul 1938.", "Este situată pe cel mai mare grind maritim din Deltă, între brațele Chilia și Sulina.", "Aici trăiesc faimoșii cai sălbăticiți, estimati la câteva sute de exemplare.", "Include stejari brumării cu vârste ce depășesc 500 de ani.", "Lianele (Vitis sylvestris) pot atinge lungimi de peste 25 de metri.", "Solul pădurii este format din dune de nisip fin, de origine marină.", "Este singurul loc din Europa unde se întâlnește vița-de-vie sălbatică în stare naturală.", "Vizitarea este permisă doar pe trasee marcate și însoțită de ghizi autorizați."],
-      en: []
-    }, image: "/poi-images/forest-letea-extra.webp"},
   {
     id: "mountain-semenic-extra",
     type: "mountain",

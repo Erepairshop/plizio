@@ -7,9 +7,8 @@ export const poiExtraHondurasCitiesV2: POI[] = [
     type: "state-capital",
     parent: "HN-CH",
     coords: [-87.1919, 13.3006],
-    name: { de: "Choluteca", hu: "Choluteca", ro: "Choluteca", en: "Choluteca",
-image: "/poi-images/choluteca-cities-v2.webp"
-},
+    name: { de: "Choluteca", hu: "Choluteca", ro: "Choluteca", en: "Choluteca"},
+    image: "/poi-images/choluteca-cities-v2.webp",
     description: { de: "Eine der heißesten und historisch bedeutendsten Städte im Süden von Honduras.", hu: "Honduras déli részének egyik legforróbb és történelmileg legjelentősebb városa.", ro: "Unul dintre cele mai fierbinți și mai importante orașe istorice din sudul Hondurasului.", en: "One of the hottest and most historically significant cities in southern Honduras." },
     facts: {
       de: ["Hauptstadt des Departements Choluteca", "Gegründet 1535", "Zentrum der Viehzucht", "Bekannt für heiße Temperaturen"],
@@ -34,9 +33,8 @@ image: "/poi-images/choluteca-cities-v2.webp"
     type: "state-capital",
     parent: "HN-OL",
     coords: [-86.2239, 14.6633],
-    name: { de: "Juticalpa", hu: "Juticalpa", ro: "Juticalpa", en: "Juticalpa",
-image: "/poi-images/juticalpa-cities-v2.webp"
-},
+    name: { de: "Juticalpa", hu: "Juticalpa", ro: "Juticalpa", en: "Juticalpa"},
+    image: "/poi-images/juticalpa-cities-v2.webp",
     description: { de: "Die Hauptstadt des größten Departements, Olancho, bekannt für Landwirtschaft und Viehzucht.", hu: "A legnagyobb megye, Olancho fővárosa, mely a mezőgazdaságról és az állattenyésztésről ismert.", ro: "Capitala celui mai mare departament, Olancho, cunoscută pentru agricultură și creșterea vitelor.", en: "The capital of the largest department, Olancho, known for agriculture and cattle ranching." },
     facts: {
       de: ["Hauptstadt des Departements Olancho", "Wichtiges landwirtschaftliches Zentrum", "Fluss Juticalpa fließt durch die Stadt", "Bevölkerungsreiches Gebiet"],
@@ -61,9 +59,8 @@ image: "/poi-images/juticalpa-cities-v2.webp"
     type: "state-capital",
     parent: "HN-EP",
     coords: [-86.5786, 14.0333],
-    name: { de: "Danlí", hu: "Danlí", ro: "Danlí", en: "Danlí",
-image: "/poi-images/danli-cities-v2.webp"
-},
+    name: { de: "Danlí", hu: "Danlí", ro: "Danlí", en: "Danlí"},
+    image: "/poi-images/danli-cities-v2.webp",
     description: { de: "Eine Stadt im Osten, berühmt für ihre Tabak- und Zigarrenproduktion.", hu: "Keleti város, amely dohány- és szivargyártásáról híres.", ro: "Un oraș din est, renumit pentru producția de tutun și trabucuri.", en: "A city in the east, famous for its tobacco and cigar production." },
     facts: {
       de: ["Zentrum der Zigarrenindustrie", "Gegründet 1678", "Umgeben von Pinienwäldern", "Hauptstadt des Departements El Paraíso"],
@@ -88,9 +85,8 @@ image: "/poi-images/danli-cities-v2.webp"
     type: "state-capital",
     parent: "HN-CP",
     coords: [-88.7758, 14.7708],
-    name: { de: "Santa Rosa de Copán", hu: "Santa Rosa de Copán", ro: "Santa Rosa de Copán", en: "Santa Rosa de Copán",
-image: "/poi-images/santa-rosa-de-copan-cities-v2.webp"
-},
+    name: { de: "Santa Rosa de Copán", hu: "Santa Rosa de Copán", ro: "Santa Rosa de Copán", en: "Santa Rosa de Copán"},
+    image: "/poi-images/santa-rosa-de-copan-cities-v2.webp",
     description: { de: "Eine charmante Kolonialstadt im Westen, das Handelszentrum der Kaffee-Region.", hu: "Bájos gyarmati város nyugaton, a kávérégió kereskedelmi központja.", ro: "Un oraș colonial fermecător în vest, centrul comercial al regiunii cafelei.", en: "A charming colonial city in the west, the commercial hub of the coffee region." },
     facts: {
       de: ["Hauptstadt des Departements Copán", "Koloniale Architektur", "Zentrum des Kaffeeanbaus", "Gepflasterte Straßen"],
@@ -115,9 +111,8 @@ image: "/poi-images/santa-rosa-de-copan-cities-v2.webp"
     type: "state-capital",
     parent: "HN-IN",
     coords: [-88.1786, 14.3092],
-    name: { de: "La Esperanza", hu: "La Esperanza", ro: "La Esperanza", en: "La Esperanza",
-image: "/poi-images/la-esperanza-cities-v2.webp"
-},
+    name: { de: "La Esperanza", hu: "La Esperanza", ro: "La Esperanza", en: "La Esperanza"},
+    image: "/poi-images/la-esperanza-cities-v2.webp",
     description: { de: "Die höchstgelegene Stadt in Honduras, bekannt für ihr kühles Klima und die Lenca-Kultur.", hu: "Honduras legmagasabban fekvő városa, hűvös éghajlatáról és a Lenca-kultúráról ismert.", ro: "Cel mai înalt oraș din Honduras, cunoscut pentru clima sa răcoroasă și cultura Lenca.", en: "The highest city in Honduras, known for its cool climate and Lenca culture." },
     facts: {
       de: ["Hauptstadt des Departements Intibucá", "Höhe ca. 1.700 m", "Zentrum der Lenca-Kultur", "Bekannt für Kartoffelanbau"],
@@ -142,9 +137,8 @@ image: "/poi-images/la-esperanza-cities-v2.webp"
     type: "state-capital",
     parent: "HN-LE",
     coords: [-88.5819, 14.5917],
-    name: { de: "Gracias", hu: "Gracias", ro: "Gracias", en: "Gracias",
-image: "/poi-images/gracias-cities-v2.webp"
-},
+    name: { de: "Gracias", hu: "Gracias", ro: "Gracias", en: "Gracias"},
+    image: "/poi-images/gracias-cities-v2.webp",
     description: { de: "Eine historische Stadt mit gut erhaltener Kolonialarchitektur und Thermalquellen.", hu: "Történelmi város jól megőrzött gyarmati építészettel és hőforrásokkal.", ro: "Un oraș istoric cu arhitectură colonială bine conservată și izvoare termale.", en: "A historic city with well-preserved colonial architecture and thermal springs." },
     facts: {
       de: ["Hauptstadt des Departements Lempira", "Gegründet 1536", "Nahe dem Celaque-Nationalpark", "San Cristóbal Fort"],
@@ -169,9 +163,8 @@ image: "/poi-images/gracias-cities-v2.webp"
     type: "state-capital",
     parent: "HN-VA",
     coords: [-87.4897, 13.5283],
-    name: { de: "Nacaome", hu: "Nacaome", ro: "Nacaome", en: "Nacaome",
-image: "/poi-images/nacaome-cities-v2.webp"
-},
+    name: { de: "Nacaome", hu: "Nacaome", ro: "Nacaome", en: "Nacaome"},
+    image: "/poi-images/nacaome-cities-v2.webp",
     description: { de: "Eine Stadt am Pazifik, die ein wichtiger Verkehrsknotenpunkt im Süden ist.", hu: "Csendes-óceáni város, amely fontos közlekedési csomópont délen.", ro: "Un oraș la Pacific, un nod de transport important în sud.", en: "A city on the Pacific, an important transportation hub in the south." },
     facts: {
       de: ["Hauptstadt des Departements Valle", "Handelszentrum", "Am Fluss Nacaome gelegen", "Tor zum Golf von Fonseca"],
@@ -196,9 +189,8 @@ image: "/poi-images/nacaome-cities-v2.webp"
     type: "state-capital",
     parent: "HN-SB",
     coords: [-88.2375, 14.9222],
-    name: { de: "Santa Bárbara", hu: "Santa Bárbara", ro: "Santa Bárbara", en: "Santa Bárbara",
-image: "/poi-images/santa-barbara-cities-v2.webp"
-},
+    name: { de: "Santa Bárbara", hu: "Santa Bárbara", ro: "Santa Bárbara", en: "Santa Bárbara"},
+    image: "/poi-images/santa-barbara-cities-v2.webp",
     description: { de: "Bekannt für seine Handwerkskunst, insbesondere die Herstellung von Hüten und Körben.", hu: "Kézművességéről ismert, különösen a kalap- és kosárkészítésről.", ro: "Cunoscut pentru artizanatul său, în special producția de pălării și coșuri.", en: "Known for its craftsmanship, especially the production of hats and baskets." },
     facts: {
       de: ["Hauptstadt des Departements Santa Bárbara", "Zentrum für Junco-Handwerk", "Umgeben von Hügeln", "Koloniale Kirche"],
@@ -223,9 +215,8 @@ image: "/poi-images/santa-barbara-cities-v2.webp"
     type: "state-capital",
     parent: "HN-YO",
     coords: [-87.1292, 15.1389],
-    name: { de: "Yoro", hu: "Yoro", ro: "Yoro", en: "Yoro",
-image: "/poi-images/yoro-cities-v2.webp"
-},
+    name: { de: "Yoro", hu: "Yoro", ro: "Yoro", en: "Yoro"},
+    image: "/poi-images/yoro-cities-v2.webp",
     description: { de: "Eine Stadt, die für das Phänomen des 'Fischregens' (Lluvia de Peces) bekannt ist.", hu: "Egy város, amely a \"hal-eső\" (Lluvia de Peces) jelenségéről ismert.", ro: "Un oraș cunoscut pentru fenomenul \"ploaia de pești\" (Lluvia de Peces).", en: "A city famous for the phenomenon of 'rain of fish' (Lluvia de Peces)." },
     facts: {
       de: ["Hauptstadt des Departements Yoro", "Jährlicher 'Fischregen'", "Landwirtschaftliches Zentrum", "Ländliche Umgebung"],
@@ -250,9 +241,8 @@ image: "/poi-images/yoro-cities-v2.webp"
     type: "state-capital",
     parent: "HN-EP",
     coords: [-86.85, 13.9333],
-    name: { de: "Yuscarán", hu: "Yuscarán", ro: "Yuscarán", en: "Yuscarán",
-image: "/poi-images/yuscaran-cities-v2.webp"
-},
+    name: { de: "Yuscarán", hu: "Yuscarán", ro: "Yuscarán", en: "Yuscarán"},
+    image: "/poi-images/yuscaran-cities-v2.webp",
     description: { de: "Eine historische Bergbaustadt, die zum Nationaldenkmal erklärt wurde.", hu: "Történelmi bányaváros, amelyet nemzeti emlékművé nyilvánítottak.", ro: "Un oraș minier istoric, declarat monument național.", en: "A historic mining town declared a National Monument." },
     facts: {
       de: ["Hauptstadt des Departements El Paraíso", "Ehemalige Bergbaustadt", "Produktion von Aguardiente", "Historische Architektur"],
@@ -277,9 +267,8 @@ image: "/poi-images/yuscaran-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-87.9553, 15.6175],
-    name: { de: "Choloma", hu: "Choloma", ro: "Choloma", en: "Choloma",
-image: "/poi-images/choloma-cities-v2.webp"
-},
+    name: { de: "Choloma", hu: "Choloma", ro: "Choloma", en: "Choloma"},
+    image: "/poi-images/choloma-cities-v2.webp",
     description: { de: "Eine schnell wachsende Industriestadt im Sula-Tal, nahe San Pedro Sula.", hu: "Gyorsan növekvő iparváros a Sula-völgyben, San Pedro Sula közelében.", ro: "Un oraș industrial în creștere rapidă în Valea Sula, lângă San Pedro Sula.", en: "A rapidly growing industrial city in the Sula Valley, near San Pedro Sula." },
     facts: {
       de: ["Drittgrößte Stadt in Honduras", "Wichtiges Industriezentrum", "Hohe Bevölkerungsdichte", "Textilfabriken (Maquilas)"],
@@ -304,9 +293,8 @@ image: "/poi-images/choloma-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-87.9786, 15.3183],
-    name: { de: "Villanueva", hu: "Villanueva", ro: "Villanueva", en: "Villanueva",
-image: "/poi-images/villanueva-cities-v2.webp"
-},
+    name: { de: "Villanueva", hu: "Villanueva", ro: "Villanueva", en: "Villanueva"},
+    image: "/poi-images/villanueva-cities-v2.webp",
     description: { de: "Eine Industriestadt, bekannt als 'die Stadt, die das Land versüßt' wegen ihrer Zuckerrohrplantagen.", hu: "Iparváros, melyet cukornádültetvényei miatt \"az országot megédesítő városként\" ismernek.", ro: "Un oraș industrial cunoscut ca \"orașul care îndulcește țara\" datorită plantațiilor sale de trestie de zahăr.", en: "An industrial city known as 'the city that sweetens the country' for its sugarcane plantations." },
     facts: {
       de: ["Zuckerrohranbau", "Industrieparks", "Nahe San Pedro Sula", "Wachsende Bevölkerung"],
@@ -331,9 +319,8 @@ image: "/poi-images/villanueva-cities-v2.webp"
     type: "city",
     parent: "HN-AT",
     coords: [-87.4667, 15.7747],
-    name: { de: "Tela", hu: "Tela", ro: "Tela", en: "Tela",
-image: "/poi-images/tela-cities-v2.webp"
-},
+    name: { de: "Tela", hu: "Tela", ro: "Tela", en: "Tela"},
+    image: "/poi-images/tela-cities-v2.webp",
     description: { de: "Eine Küstenstadt mit wunderschönen Stränden und einer reichen Garifuna-Kultur.", hu: "Tengerparti város gyönyörű strandokkal és gazdag garifuna kultúrával.", ro: "Un oraș de coastă cu plaje frumoase și o bogată cultură Garifuna.", en: "A coastal city with beautiful beaches and a rich Garifuna culture." },
     facts: {
       de: ["Karibische Küstenstadt", "Beliebtes Touristenziel", "Ehemaliger Hauptsitz der United Fruit Company", "Lancetilla Botanischer Garten"],
@@ -358,9 +345,8 @@ image: "/poi-images/tela-cities-v2.webp"
     type: "city",
     parent: "HN-CM",
     coords: [-87.8286, 14.6],
-    name: { de: "Siguatepeque", hu: "Siguatepeque", ro: "Siguatepeque", en: "Siguatepeque",
-image: "/poi-images/siguatepeque-cities-v2.webp"
-},
+    name: { de: "Siguatepeque", hu: "Siguatepeque", ro: "Siguatepeque", en: "Siguatepeque"},
+    image: "/poi-images/siguatepeque-cities-v2.webp",
     description: { de: "Eine Stadt im zentralen Hochland, bekannt für ihr angenehmes Klima und ihre Pinienwälder.", hu: "A központi felföldön fekvő város, kellemes éghajlatáról és fenyőerdőiről ismert.", ro: "Un oraș în zonele înalte centrale, cunoscut pentru clima sa plăcută și pădurile de pini.", en: "A city in the central highlands, known for its pleasant climate and pine forests." },
     facts: {
       de: ["'Stadt der Pinien'", "Angenehmes Klima", "Zwischen Tegucigalpa und San Pedro Sula", "Forstwirtschaftsschule"],
@@ -385,9 +371,8 @@ image: "/poi-images/siguatepeque-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-85.9283, 14.8467],
-    name: { de: "Catacamas", hu: "Catacamas", ro: "Catacamas", en: "Catacamas",
-image: "/poi-images/catacamas-cities-v2.webp"
-},
+    name: { de: "Catacamas", hu: "Catacamas", ro: "Catacamas", en: "Catacamas"},
+    image: "/poi-images/catacamas-cities-v2.webp",
     description: { de: "Eine der größten Städte in Olancho, ein Zentrum für Landwirtschaft und Handel.", hu: "Olancho egyik legnagyobb városa, a mezőgazdaság és a kereskedelem központja.", ro: "Unul dintre cele mai mari orașe din Olancho, un centru pentru agricultură și comerț.", en: "One of the largest cities in Olancho, a center for agriculture and commerce." },
     facts: {
       de: ["Größte Stadt in Olancho", "Viehzucht und Milchproduktion", "Nationale Landwirtschaftsuniversität", "Talgua-Höhlen in der Nähe"],
@@ -412,9 +397,8 @@ image: "/poi-images/catacamas-cities-v2.webp"
     type: "city",
     parent: "HN-CL",
     coords: [-86.0, 15.6833],
-    name: { de: "Tocoa", hu: "Tocoa", ro: "Tocoa", en: "Tocoa",
-image: "/poi-images/tocoa-cities-v2.webp"
-},
+    name: { de: "Tocoa", hu: "Tocoa", ro: "Tocoa", en: "Tocoa"},
+    image: "/poi-images/tocoa-cities-v2.webp",
     description: { de: "Eine wichtige Stadt im Aguán-Tal, einem bedeutenden landwirtschaftlichen Gebiet.", hu: "Fontos város az Aguán-völgyben, egy jelentős mezőgazdasági területen.", ro: "Un oraș important în Valea Aguán, o zonă agricolă semnificativă.", en: "An important city in the Aguán Valley, a significant agricultural area." },
     facts: {
       de: ["Im Aguán-Tal gelegen", "Zentrum der Palmölproduktion", "Wichtiger Verkehrsknotenpunkt", "Handelsstadt"],
@@ -439,9 +423,8 @@ image: "/poi-images/tocoa-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-87.9167, 15.4333],
-    name: { de: "La Lima", hu: "La Lima", ro: "La Lima", en: "La Lima",
-image: "/poi-images/la-lima-cities-v2.webp"
-},
+    name: { de: "La Lima", hu: "La Lima", ro: "La Lima", en: "La Lima"},
+    image: "/poi-images/la-lima-cities-v2.webp",
     description: { de: "Historisch bekannt als 'Hauptstadt der Banane', gegründet von der United Fruit Company.", hu: "Történelmileg a \"banán fővárosaként\" ismert, a United Fruit Company alapította.", ro: "Cunoscut istoric drept \"capitala bananelor\", fondat de United Fruit Company.", en: "Historically known as the 'Banana Capital', founded by the United Fruit Company." },
     facts: {
       de: ["Historisches Zentrum der Bananenindustrie", "Sitz der Tela Railroad Company", "Am Chamelecón-Fluss gelegen", "Fruchtbares Sula-Tal"],
@@ -466,9 +449,8 @@ image: "/poi-images/la-lima-cities-v2.webp"
     type: "city",
     parent: "HN-YO",
     coords: [-86.5731, 15.4806],
-    name: { de: "Olanchito", hu: "Olanchito", ro: "Olanchito", en: "Olanchito",
-image: "/poi-images/olanchito-cities-v2.webp"
-},
+    name: { de: "Olanchito", hu: "Olanchito", ro: "Olanchito", en: "Olanchito"},
+    image: "/poi-images/olanchito-cities-v2.webp",
     description: { de: "Eine Stadt im Aguán-Tal, die für ihre landwirtschaftliche Produktion bekannt ist.", hu: "Az Aguán-völgyben fekvő város, amely mezőgazdasági termeléséről ismert.", ro: "Un oraș din Valea Aguán, cunoscut pentru producția sa agricolă.", en: "A city in the Aguán Valley known for its agricultural production." },
     facts: {
       de: ["'Die bürgerliche Stadt'", "Landwirtschaftliches Zentrum", "Bananen- und Zitrusfruchtanbau", "Historische Bedeutung"],
@@ -494,9 +476,8 @@ image: "/poi-images/olanchito-cities-v2.webp"
     type: "city",
     parent: "HN-CL",
     coords: [-86.2333, 15.5],
-    name: { de: "Sabá", hu: "Sabá", ro: "Sabá", en: "Sabá",
-image: "/poi-images/saba-cities-v2.webp"
-},
+    name: { de: "Sabá", hu: "Sabá", ro: "Sabá", en: "Sabá"},
+    image: "/poi-images/saba-cities-v2.webp",
     description: { de: "Eine Stadt im Aguán-Tal, deren Wirtschaft stark von der Landwirtschaft abhängt.", hu: "Város az Aguán-völgyben, gazdasága nagymértékben a mezőgazdaságtól függ.", ro: "Un oraș din Valea Aguán, a cărui economie depinde în mare măsură de agricultură.", en: "A city in the Aguán Valley whose economy is highly dependent on agriculture." },
     facts: {
       de: ["Landwirtschaftliche Gemeinde", "Palmöl-Plantagen", "Verkehrsknotenpunkt", "Nahe Tocoa"],
@@ -521,9 +502,8 @@ image: "/poi-images/saba-cities-v2.webp"
     type: "city",
     parent: "HN-CH",
     coords: [-86.8, 13.1],
-    name: { de: "El Triunfo", hu: "El Triunfo", ro: "El Triunfo", en: "El Triunfo",
-image: "/poi-images/el-triunfo-cities-v2.webp"
-},
+    name: { de: "El Triunfo", hu: "El Triunfo", ro: "El Triunfo", en: "El Triunfo"},
+    image: "/poi-images/el-triunfo-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Choluteca, nahe der Grenze zu Nicaragua.", hu: "Község Choluteca megyében, Nicaragua határának közelében.", ro: "O municipalitate în departamentul Choluteca, aproape de granița cu Nicaragua.", en: "A municipality in the Choluteca department, near the border with Nicaragua." },
     facts: {
       de: ["Grenznahe Stadt", "Landwirtschaftliche Produktion", "Handel mit Nicaragua", "Südliche Region"],
@@ -548,9 +528,8 @@ image: "/poi-images/el-triunfo-cities-v2.webp"
     type: "city",
     parent: "HN-CH",
     coords: [-87.3, 13.2833],
-    name: { de: "Marcovia", hu: "Marcovia", ro: "Marcovia", en: "Marcovia",
-image: "/poi-images/marcovia-cities-v2.webp"
-},
+    name: { de: "Marcovia", hu: "Marcovia", ro: "Marcovia", en: "Marcovia"},
+    image: "/poi-images/marcovia-cities-v2.webp",
     description: { de: "Eine Küstengemeinde, bekannt für ihre Salzproduktion und Garnelenzucht.", hu: "Tengerparti község, amely sótermeléséről és garnélarák-tenyésztéséről ismert.", ro: "O municipalitate de coastă, cunoscută pentru producția de sare și creșterea creveților.", en: "A coastal municipality known for its salt production and shrimp farming." },
     facts: {
       de: ["Salzproduktion", "Garnelenzucht", "Am Golf von Fonseca", "Wichtiger Exporteur"],
@@ -569,9 +548,8 @@ image: "/poi-images/marcovia-cities-v2.webp"
     type: "state-capital",
     parent: "HN-LP",
     coords: [-87.6792, 14.325],
-    name: { de: "La Paz", hu: "La Paz", ro: "La Paz", en: "La Paz",
-image: "/poi-images/la-paz-cities-v2.webp"
-},
+    name: { de: "La Paz", hu: "La Paz", ro: "La Paz", en: "La Paz"},
+    image: "/poi-images/la-paz-cities-v2.webp",
     description: { de: "Die Hauptstadt des gleichnamigen Departements, ein landwirtschaftliches Zentrum.", hu: "Az azonos nevű megye fővárosa, mezőgazdasági központ.", ro: "Capitala departamentului cu același nume, un centru agricol.", en: "The capital of the department of the same name, an agricultural center." },
     facts: {
       de: ["Hauptstadt des Departements La Paz", "Landwirtschaftliche Region", "Kaffee- und Gemüseanbau", "Friedliche Atmosphäre"],
@@ -589,9 +567,8 @@ image: "/poi-images/la-paz-cities-v2.webp"
     type: "city",
     parent: "HN-VA",
     coords: [-87.65, 13.2833],
-    name: { de: "Amapala", hu: "Amapala", ro: "Amapala", en: "Amapala",
-image: "/poi-images/amapala-cities-v2.webp"
-},
+    name: { de: "Amapala", hu: "Amapala", ro: "Amapala", en: "Amapala"},
+    image: "/poi-images/amapala-cities-v2.webp",
     description: { de: "Ein historischer Hafen auf der Insel El Tigre im Golf von Fonseca.", hu: "Történelmi kikötő El Tigre szigetén, a Fonseca-öbölben.", ro: "Un port istoric pe Insula El Tigre în Golful Fonseca.", en: "A historic port on El Tigre Island in the Gulf of Fonseca." },
     facts: {
       de: ["Auf der Insel El Tigre gelegen", "Ehemaliger Haupthafen am Pazifik", "Vulkanische Insel", "Historische deutsche Präsenz"],
@@ -609,9 +586,8 @@ image: "/poi-images/amapala-cities-v2.webp"
     type: "city",
     parent: "HN-IN",
     coords: [-88.1667, 14.3167],
-    name: { de: "Intibucá", hu: "Intibucá", ro: "Intibucá", en: "Intibucá",
-image: "/poi-images/intibuca-cities-v2.webp"
-},
+    name: { de: "Intibucá", hu: "Intibucá", ro: "Intibucá", en: "Intibucá"},
+    image: "/poi-images/intibuca-cities-v2.webp",
     description: { de: "Zwillingsstadt von La Esperanza und Herz der Lenca-Kultur.", hu: "La Esperanza testvérvárosa és a Lenca-kultúra szíve.", ro: "Oraș geamăn cu La Esperanza și inima culturii Lenca.", en: "Twin city of La Esperanza and heart of the Lenca culture." },
     facts: {
       de: ["Bildet eine Einheit mit La Esperanza", "Lenca-Markt", "Hochlandkultur", "Anbau von Erdbeeren"],
@@ -629,9 +605,8 @@ image: "/poi-images/intibuca-cities-v2.webp"
     type: "state-capital",
     parent: "HN-GD",
     coords: [-83.7769, 15.2667],
-    name: { de: "Puerto Lempira", hu: "Puerto Lempira", ro: "Puerto Lempira", en: "Puerto Lempira",
-image: "/poi-images/puerto-lempira-cities-v2.webp"
-},
+    name: { de: "Puerto Lempira", hu: "Puerto Lempira", ro: "Puerto Lempira", en: "Puerto Lempira"},
+    image: "/poi-images/puerto-lempira-cities-v2.webp",
     description: { de: "Die abgelegene Hauptstadt der Region La Mosquitia an der Karibikküste.", hu: "La Mosquitia régió távoli fővárosa a Karib-tenger partján.", ro: "Capitala îndepărtată a regiunii La Mosquitia, pe coasta Caraibelor.", en: "The remote capital of the La Mosquitia region on the Caribbean coast." },
     facts: {
       de: ["Hauptstadt des Departements Gracias a Dios", "An der Caratasca-Lagune", "Tor zum Biosphärenreservat Río Plátano", "Miskito-Kultur"],
@@ -649,9 +624,8 @@ image: "/poi-images/puerto-lempira-cities-v2.webp"
     type: "city",
     parent: "HN-CP",
     coords: [-88.7333, 14.95],
-    name: { de: "La Entrada", hu: "La Entrada", ro: "La Entrada", en: "La Entrada",
-image: "/poi-images/la-entrada-cities-v2.webp"
-},
+    name: { de: "La Entrada", hu: "La Entrada", ro: "La Entrada", en: "La Entrada"},
+    image: "/poi-images/la-entrada-cities-v2.webp",
     description: { de: "Ein wichtiger Verkehrsknotenpunkt im Westen, der nach Copán Ruinas und Guatemala führt.", hu: "Fontos közlekedési csomópont nyugaton, amely Copán Ruinas és Guatemala felé vezet.", ro: "Un nod de transport important în vest, care duce la Copán Ruinas și Guatemala.", en: "An important transportation hub in the west, leading to Copán Ruinas and Guatemala." },
     facts: {
       de: ["Verkehrsknotenpunkt", "Handelsstadt", "Tor zur Maya-Route", "Landwirtschaftliche Umgebung"],
@@ -669,9 +643,8 @@ image: "/poi-images/la-entrada-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-87.0417, 14.1556],
-    name: { de: "Valle de Ángeles", hu: "Valle de Ángeles", ro: "Valle de Ángeles", en: "Valle de Ángeles",
-image: "/poi-images/valle-de-angeles-cities-v2.webp"
-},
+    name: { de: "Valle de Ángeles", hu: "Valle de Ángeles", ro: "Valle de Ángeles", en: "Valle de Ángeles"},
+    image: "/poi-images/valle-de-angeles-cities-v2.webp",
     description: { de: "Eine malerische ehemalige Bergbaustadt, die heute ein beliebtes Ziel für Touristen ist.", hu: "Festői egykori bányaváros, ma népszerű turisztikai célpont.", ro: "Un pitoresc fost oraș minier, acum o destinație turistică populară.", en: "A picturesque former mining town, now a popular tourist destination." },
     facts: {
       de: ["Touristenstadt", "Koloniale Architektur", "Handwerkskunst", "Nahe Tegucigalpa"],
@@ -689,9 +662,8 @@ image: "/poi-images/valle-de-angeles-cities-v2.webp"
     type: "city",
     parent: "HN-YO",
     coords: [-87.8833, 15.2],
-    name: { de: "Santa Rita", hu: "Santa Rita", ro: "Santa Rita", en: "Santa Rita",
-image: "/poi-images/santa-rita-cities-v2.webp"
-},
+    name: { de: "Santa Rita", hu: "Santa Rita", ro: "Santa Rita", en: "Santa Rita"},
+    image: "/poi-images/santa-rita-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Yoro, ein landwirtschaftliches und kommerzielles Zentrum.", hu: "Város Yoro megyében, mezőgazdasági és kereskedelmi központ.", ro: "Un oraș în departamentul Yoro, un centru agricol și comercial.", en: "A city in the Yoro department, an agricultural and commercial center." },
     facts: {
       de: ["Handelszentrum", "Am Fluss Humuya gelegen", "Landwirtschaftliche Produktion", "Verkehrsanbindung"],
@@ -709,9 +681,8 @@ image: "/poi-images/santa-rita-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-87.95, 15.25],
-    name: { de: "Potrerillos", hu: "Potrerillos", ro: "Potrerillos", en: "Potrerillos",
-image: "/poi-images/potrerillos-cities-v2.webp"
-},
+    name: { de: "Potrerillos", hu: "Potrerillos", ro: "Potrerillos", en: "Potrerillos"},
+    image: "/poi-images/potrerillos-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Cortés, die für ihre industrielle Aktivität bekannt ist.", hu: "Cortés megye városa, ipari tevékenységéről ismert.", ro: "Un oraș din departamentul Cortés, cunoscut pentru activitatea sa industrială.", en: "A city in the Cortés department known for its industrial activity." },
     facts: {
       de: ["Industriestadt", "Nahe dem Yojoa-See", "Verkehrsknotenpunkt", "Wachsende Gemeinde"],
@@ -729,9 +700,8 @@ image: "/poi-images/potrerillos-cities-v2.webp"
     type: "city",
     parent: "HN-YO",
     coords: [-87.6, 15.3167],
-    name: { de: "Morazán", hu: "Morazán", ro: "Morazán", en: "Morazán",
-image: "/poi-images/morazan-cities-v2.webp"
-},
+    name: { de: "Morazán", hu: "Morazán", ro: "Morazán", en: "Morazán"},
+    image: "/poi-images/morazan-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Yoro, benannt nach dem zentralamerikanischen Helden Francisco Morazán.", hu: "Yoro megye községe, a közép-amerikai hős, Francisco Morazán után elnevezve.", ro: "O municipalitate în departamentul Yoro, numită după eroul central-american Francisco Morazán.", en: "A municipality in the Yoro department, named after the Central American hero Francisco Morazán." },
     facts: {
       de: ["Benannt nach Francisco Morazán", "Landwirtschaftliche Region", "Bergige Umgebung", "Kaffeeanbau"],
@@ -749,9 +719,8 @@ image: "/poi-images/morazan-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-87.0833, 14.4],
-    name: { de: "Talanga", hu: "Talanga", ro: "Talanga", en: "Talanga",
-image: "/poi-images/talanga-cities-v2.webp"
-},
+    name: { de: "Talanga", hu: "Talanga", ro: "Talanga", en: "Talanga"},
+    image: "/poi-images/talanga-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Francisco Morazán, bekannt für ihre Zuckerrohr- und Backsteinproduktion.", hu: "Francisco Morazán megye városa, cukornád- és téglagyártásáról ismert.", ro: "Un oraș din departamentul Francisco Morazán, cunoscut pentru producția de trestie de zahăr și cărămizi.", en: "A city in the Francisco Morazán department, known for its sugarcane and brick production." },
     facts: {
       de: ["Zuckerrohranbau", "Backsteinherstellung (Ladrilleras)", "Landwirtschaftliches Zentrum", "Nahe Tegucigalpa"],
@@ -769,9 +738,8 @@ image: "/poi-images/talanga-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-88.15, 15.4333],
-    name: { de: "Cofradía", hu: "Cofradía", ro: "Cofradía", en: "Cofradía",
-image: "/poi-images/cofradia-cities-v2.webp"
-},
+    name: { de: "Cofradía", hu: "Cofradía", ro: "Cofradía", en: "Cofradía"},
+    image: "/poi-images/cofradia-cities-v2.webp",
     description: { de: "Eine schnell wachsende Stadt westlich von San Pedro Sula mit bedeutender Industrie.", hu: "Gyorsan növekvő város San Pedro Sulától nyugatra, jelentős iparral.", ro: "Un oraș în creștere rapidă la vest de San Pedro Sula, cu o industrie semnificativă.", en: "A rapidly growing city west of San Pedro Sula with significant industry." },
     facts: {
       de: ["Industrielle Vorstadt", "Teil der Metropolregion San Pedro Sula", "Wachsende Bevölkerung", "Maquila-Fabriken"],
@@ -789,9 +757,8 @@ image: "/poi-images/cofradia-cities-v2.webp"
     type: "city",
     parent: "HN-CL",
     coords: [-86.3, 15.6],
-    name: { de: "Sonaguera", hu: "Sonaguera", ro: "Sonaguera", en: "Sonaguera",
-image: "/poi-images/sonaguera-cities-v2.webp"
-},
+    name: { de: "Sonaguera", hu: "Sonaguera", ro: "Sonaguera", en: "Sonaguera"},
+    image: "/poi-images/sonaguera-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Colón, die für ihre Orangenproduktion bekannt ist.", hu: "Colón megye községe, narancstermeléséről ismert.", ro: "O municipalitate în departamentul Colón, cunoscută pentru producția de portocale.", en: "A municipality in the Colón department, known for its orange production." },
     facts: {
       de: ["Zentrum des Orangenanbaus", "Landwirtschaftliche Gemeinde", "Im Aguán-Tal", "Jährliches Orangenfest"],
@@ -809,9 +776,8 @@ image: "/poi-images/sonaguera-cities-v2.webp"
     type: "city",
     parent: "HN-LP",
     coords: [-87.7, 14.3667],
-    name: { de: "Cane", hu: "Cane", ro: "Cane", en: "Cane",
-image: "/poi-images/cane-cities-v2.webp"
-},
+    name: { de: "Cane", hu: "Cane", ro: "Cane", en: "Cane"},
+    image: "/poi-images/cane-cities-v2.webp",
     description: { de: "Eine kleine, malerische Gemeinde, bekannt für ihre Töpferei und Lenca-Kultur.", hu: "Kicsi, festői község, fazekasságáról és Lenca-kultúrájáról ismert.", ro: "O mică municipalitate pitorească, cunoscută pentru olărit și cultura Lenca.", en: "A small, picturesque municipality known for its pottery and Lenca culture." },
     facts: {
       de: ["Töpferhandwerk", "Lenca-Kultur", "Ruhige Atmosphäre", "Nahe La Paz"],
@@ -829,9 +795,8 @@ image: "/poi-images/cane-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-86.0833, 15.0667],
-    name: { de: "Gualaco", hu: "Gualaco", ro: "Gualaco", en: "Gualaco",
-image: "/poi-images/gualaco-cities-v2.webp"
-},
+    name: { de: "Gualaco", hu: "Gualaco", ro: "Gualaco", en: "Gualaco"},
+    image: "/poi-images/gualaco-cities-v2.webp",
     description: { de: "Eine Gemeinde in Olancho, umgeben von Bergen und bekannt für ihre Höhlen.", hu: "Olancho megye községe, hegyekkel körülvéve és barlangjairól ismert.", ro: "O municipalitate din Olancho, înconjurată de munți și cunoscută pentru peșterile sale.", en: "A municipality in Olancho, surrounded by mountains and known for its caves." },
     facts: {
       de: ["Susmay-Höhlen in der Nähe", "Bergige Landschaft", "Landwirtschaftliche Gemeinde", "Rinder- und Kaffeeproduktion"],
@@ -849,9 +814,8 @@ image: "/poi-images/gualaco-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-86.65, 15.0667],
-    name: { de: "La Unión", hu: "La Unión", ro: "La Unión", en: "La Unión",
-image: "/poi-images/la-union-cities-v2.webp"
-},
+    name: { de: "La Unión", hu: "La Unión", ro: "La Unión", en: "La Unión"},
+    image: "/poi-images/la-union-cities-v2.webp",
     description: { de: "Eine Bergbaugemeinde im Departement Olancho mit Vorkommen von Antimon.", hu: "Bányászközség Olancho megyében, antimonlelőhelyekkel.", ro: "O municipalitate minieră în departamentul Olancho, cu zăcăminte de antimoniu.", en: "A mining municipality in the Olancho department with deposits of antimony." },
     facts: {
       de: ["Antimonbergbau", "Bergige Region", "Landwirtschaftliche Aktivitäten", "Abgelegene Lage"],
@@ -869,9 +833,8 @@ image: "/poi-images/la-union-cities-v2.webp"
     type: "city",
     parent: "HN-LP",
     coords: [-88.0417, 14.15],
-    name: { de: "Marcala", hu: "Marcala", ro: "Marcala", en: "Marcala",
-image: "/poi-images/marcala-cities-v2.webp"
-},
+    name: { de: "Marcala", hu: "Marcala", ro: "Marcala", en: "Marcala"},
+    image: "/poi-images/marcala-cities-v2.webp",
     description: { de: "Eine Stadt in La Paz, die für ihren hochwertigen Kaffee mit Herkunftsbezeichnung bekannt ist.", hu: "La Paz megye városa, amely eredetmegjelöléssel ellátott, kiváló minőségű kávéjáról ismert.", ro: "Un oraș din La Paz, cunoscut pentru cafeaua sa de înaltă calitate cu denumire de origine.", en: "A city in La Paz known for its high-quality coffee with a designation of origin." },
     facts: {
       de: ["Kaffee mit Herkunftsbezeichnung", "'Hauptstadt des Kaffees'", "Kühles Bergklima", "Lenca-Gemeinschaften"],
@@ -889,9 +852,8 @@ image: "/poi-images/marcala-cities-v2.webp"
     type: "state-capital",
     parent: "HN-OC",
     coords: [-89.1833, 14.4333],
-    name: { de: "Ocotepeque", hu: "Ocotepeque", ro: "Ocotepeque", en: "Ocotepeque",
-image: "/poi-images/ocotepeque-cities-v2.webp"
-},
+    name: { de: "Ocotepeque", hu: "Ocotepeque", ro: "Ocotepeque", en: "Ocotepeque"},
+    image: "/poi-images/ocotepeque-cities-v2.webp",
     description: { de: "Eine Grenzstadt im Dreiländereck Honduras, Guatemala und El Salvador.", hu: "Határváros Honduras, Guatemala és Salvador hármashatáránál.", ro: "Un oraș de frontieră la punctul de întâlnire a Hondurasului, Guatemalei și El Salvadorului.", en: "A border city at the tri-point of Honduras, Guatemala, and El Salvador." },
     facts: {
       de: ["Hauptstadt des Departements Ocotepeque", "Trifinio-Biosphärenreservat in der Nähe", "Wichtiger Handelspunkt", "Fluss Lempa"],
@@ -909,9 +871,8 @@ image: "/poi-images/ocotepeque-cities-v2.webp"
     type: "city",
     parent: "HN-CM",
     coords: [-87.6167, 14.6167],
-    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad",
-image: "/poi-images/la-libertad-cities-v2.webp"
-},
+    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad"},
+    image: "/poi-images/la-libertad-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Comayagua, die sich der Landwirtschaft und Viehzucht widmet.", hu: "Comayagua megye községe, amely mezőgazdasággal és állattenyésztéssel foglalkozik.", ro: "O municipalitate în departamentul Comayagua, dedicată agriculturii și creșterii vitelor.", en: "A municipality in the Comayagua department dedicated to agriculture and livestock." },
     facts: {
       de: ["Landwirtschaftliche Gemeinde", "Rinderfarmen", "Kaffeeanbau", "Bergige Landschaft"],
@@ -929,9 +890,8 @@ image: "/poi-images/la-libertad-cities-v2.webp"
     type: "city",
     parent: "HN-CH",
     coords: [-86.8, 13.4333],
-    name: { de: "San Marcos de Colón", hu: "San Marcos de Colón", ro: "San Marcos de Colón", en: "San Marcos de Colón",
-image: "/poi-images/san-marcos-de-colon-cities-v2.webp"
-},
+    name: { de: "San Marcos de Colón", hu: "San Marcos de Colón", ro: "San Marcos de Colón", en: "San Marcos de Colón"},
+    image: "/poi-images/san-marcos-de-colon-cities-v2.webp",
     description: { de: "Eine Stadt im Süden mit kühlem Klima, bekannt für ihren Kaffee und ihre Milchprodukte.", hu: "Déli város hűvös éghajlattal, kávéjáról és tejtermékeiről ismert.", ro: "Un oraș în sud cu o climă răcoroasă, cunoscut pentru cafeaua și produsele lactate.", en: "A city in the south with a cool climate, known for its coffee and dairy products." },
     facts: {
       de: ["Grenze zu Nicaragua", "Kaffeeproduktion", "Milchwirtschaft", "Angenehmes Klima"],
@@ -949,9 +909,8 @@ image: "/poi-images/san-marcos-de-colon-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-87.25, 13.8],
-    name: { de: "Sabanagrande", hu: "Sabanagrande", ro: "Sabanagrande", en: "Sabanagrande",
-image: "/poi-images/sabanagrande-cities-v2.webp"
-},
+    name: { de: "Sabanagrande", hu: "Sabanagrande", ro: "Sabanagrande", en: "Sabanagrande"},
+    image: "/poi-images/sabanagrande-cities-v2.webp",
     description: { de: "Eine Stadt südlich von Tegucigalpa, bekannt für ihre 'Rosquillas' (Maiskekse).", hu: "Tegucigalpától délre fekvő város, amely a \"Rosquillas\" (kukoricakeksz) süteményéről ismert.", ro: "Un oraș la sud de Tegucigalpa, cunoscut pentru \"Rosquillas\" (biscuiți de porumb).", en: "A city south of Tegucigalpa known for its 'Rosquillas' (corn cookies)." },
     facts: {
       de: ["Herstellung von Rosquillas", "Traditionelle Gastronomie", "Landwirtschaftliche Gemeinde", "Koloniale Kirche"],
@@ -969,9 +928,8 @@ image: "/poi-images/sabanagrande-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.3333, 14.7333],
-    name: { de: "El Níspero", hu: "El Níspero", ro: "El Níspero", en: "El Níspero",
-image: "/poi-images/el-nispero-cities-v2.webp"
-},
+    name: { de: "El Níspero", hu: "El Níspero", ro: "El Níspero", en: "El Níspero"},
+    image: "/poi-images/el-nispero-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Santa Bárbara, umgeben von einer üppigen Naturlandschaft.", hu: "Santa Bárbara megye községe, buja természeti tájjal körülvéve.", ro: "O municipalitate în departamentul Santa Bárbara, înconjurată de un peisaj natural luxuriant.", en: "A municipality in the Santa Bárbara department, surrounded by a lush natural landscape." },
     facts: {
       de: ["Ländliche Gemeinde", "Kaffeeanbau", "Wasserfälle in der Nähe", "Bergige Umgebung"],
@@ -989,9 +947,8 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     type: "city",
     parent: "HN-SB",
     coords: [-88.3, 14.9333],
-    name: { de: "Trinidad", hu: "Trinidad", ro: "Trinidad", en: "Trinidad",
-image: "/poi-images/trinidad-cities-v2.webp"
-},
+    name: { de: "Trinidad", hu: "Trinidad", ro: "Trinidad", en: "Trinidad"},
+    image: "/poi-images/trinidad-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Santa Bárbara mit reicher Geschichte und Tradition.", hu: "Santa Bárbara megye városa gazdag történelemmel és hagyományokkal.", ro: "Un oraș din departamentul Santa Bárbara cu o istorie și tradiții bogate.", en: "A city in the Santa Bárbara department with a rich history and traditions." },
     facts: {
       de: ["Historische Gemeinde", "Landwirtschaftliche Produktion", "Koloniales Erbe", "Handwerksmärkte"],
@@ -1009,9 +966,8 @@ image: "/poi-images/trinidad-cities-v2.webp"
     type: "city",
     parent: "HN-LE",
     coords: [-88.3667, 14.1],
-    name: { de: "Piraera", hu: "Piraera", ro: "Piraera", en: "Piraera",
-image: "/poi-images/piraera-cities-v2.webp"
-},
+    name: { de: "Piraera", hu: "Piraera", ro: "Piraera", en: "Piraera"},
+    image: "/poi-images/piraera-cities-v2.webp",
     description: { de: "Eine abgelegene Gemeinde im gebirgigen Departement Lempira.", hu: "Félreeső község a hegyvidéki Lempira megyében.", ro: "O municipalitate izolată în departamentul muntos Lempira.", en: "A remote municipality in the mountainous Lempira department." },
     facts: {
       de: ["Lenca-Gemeinde", "Bergige Topographie", "Subsistenzlandwirtschaft", "Reiche Traditionen"],
@@ -1029,9 +985,8 @@ image: "/poi-images/piraera-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-87.3, 13.9333],
-    name: { de: "Ojojona", hu: "Ojojona", ro: "Ojojona", en: "Ojojona",
-image: "/poi-images/ojojona-cities-v2.webp"
-},
+    name: { de: "Ojojona", hu: "Ojojona", ro: "Ojojona", en: "Ojojona"},
+    image: "/poi-images/ojojona-cities-v2.webp",
     description: { de: "Eine malerische Kolonialstadt, berühmt für ihre schwarze Keramik und ihr Kunsthandwerk.", hu: "Festői gyarmati város, fekete kerámiájáról és kézművességéről híres.", ro: "Un oraș colonial pitoresc, renumit pentru ceramica neagră și artizanat.", en: "A picturesque colonial town, famous for its black pottery and handicrafts." },
     facts: {
       de: ["Nationaldenkmal", "Schwarze Keramik", "Koloniale Architektur", "Nahe Santa Ana"],
@@ -1049,9 +1004,8 @@ image: "/poi-images/ojojona-cities-v2.webp"
     type: "city",
     parent: "HN-IB",
     coords: [-85.9, 16.45],
-    name: { de: "Guanaja Stadt", hu: "Guanaja város", ro: "Orașul Guanaja", en: "Guanaja Town",
-image: "/poi-images/guanaja-city-cities-v2.webp"
-},
+    name: { de: "Guanaja Stadt", hu: "Guanaja város", ro: "Orașul Guanaja", en: "Guanaja Town"},
+    image: "/poi-images/guanaja-city-cities-v2.webp",
     description: { de: "Die Hauptsiedlung der Insel Guanaja, erbaut auf einem kleinen Cay mit Kanälen statt Straßen.", hu: "Guanaja sziget fő települése, egy kis szigeten (cay) épült, utcák helyett csatornákkal.", ro: "Așezarea principală a insulei Guanaja, construită pe o mică insuliță (cay) cu canale în loc de străzi.", en: "The main settlement of Guanaja island, built on a small cay with canals instead of streets." },
     facts: {
       de: ["'Venedig von Honduras'", "Auf Stelzen gebaut", "Keine Autos", "Fischerei und Tourismus"],
@@ -1069,9 +1023,8 @@ image: "/poi-images/guanaja-city-cities-v2.webp"
     type: "state-capital",
     parent: "HN-IB",
     coords: [-86.5333, 16.3167],
-    name: { de: "Roatán Stadt", hu: "Roatán város", ro: "Orașul Roatán", en: "Roatán Town",
-image: "/poi-images/roatan-city-cities-v2.webp"
-},
+    name: { de: "Roatán Stadt", hu: "Roatán város", ro: "Orașul Roatán", en: "Roatán Town"},
+    image: "/poi-images/roatan-city-cities-v2.webp",
     description: { de: "Die Hauptstadt des Departements Islas de la Bahía und das kommerzielle Zentrum der Insel.", hu: "Islas de la Bahía megye fővárosa és a sziget kereskedelmi központja.", ro: "Capitala departamentului Islas de la Bahía și centrul comercial al insulei.", en: "The capital of the Islas de la Bahía Department and the island's commercial center." },
     facts: {
       de: ["Früher Coxen Hole genannt", "Wichtigster Hafen der Insel", "Internationaler Flughafen", "Zentrum für Tourismus"],
@@ -1089,9 +1042,8 @@ image: "/poi-images/roatan-city-cities-v2.webp"
     type: "city",
     parent: "HN-LE",
     coords: [-88.65, 14.7333],
-    name: { de: "Lepaera", hu: "Lepaera", ro: "Lepaera", en: "Lepaera",
-image: "/poi-images/lepaera-cities-v2.webp"
-},
+    name: { de: "Lepaera", hu: "Lepaera", ro: "Lepaera", en: "Lepaera"},
+    image: "/poi-images/lepaera-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Lempira, bekannt für die Herstellung von Panamahüten.", hu: "Város Lempira megyében, amely a panamakalapok készítéséről ismert.", ro: "Un oraș din departamentul Lempira, cunoscut pentru producția de pălării Panama.", en: "A city in the Lempira department, known for the production of Panama hats." },
     facts: {
       de: ["Herstellung von Panamahüten", "Kaffeeanbau", "Lenca-Gemeinde", "Bergige Landschaft"],
@@ -1109,9 +1061,8 @@ image: "/poi-images/lepaera-cities-v2.webp"
     type: "city",
     parent: "HN-CP",
     coords: [-88.75, 14.8333],
-    name: { de: "San Juan de Opoa", hu: "San Juan de Opoa", ro: "San Juan de Opoa", en: "San Juan de Opoa",
-image: "/poi-images/san-juan-de-opoa-cities-v2.webp"
-},
+    name: { de: "San Juan de Opoa", hu: "San Juan de Opoa", ro: "San Juan de Opoa", en: "San Juan de Opoa"},
+    image: "/poi-images/san-juan-de-opoa-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Copán, nahe Santa Rosa de Copán gelegen.", hu: "Copán megye községe, Santa Rosa de Copán közelében.", ro: "O municipalitate în departamentul Copán, situată lângă Santa Rosa de Copán.", en: "A municipality in the Copán department, located near Santa Rosa de Copán." },
     facts: {
       de: ["Landwirtschaftliche Gemeinde", "Koloniale Kirche", "Fluss Higuito", "Ruhige ländliche Gegend"],
@@ -1129,9 +1080,8 @@ image: "/poi-images/san-juan-de-opoa-cities-v2.webp"
     type: "city",
     parent: "HN-LE",
     coords: [-88.45, 14.05],
-    name: { de: "Gualcinse", hu: "Gualcinse", ro: "Gualcinse", en: "Gualcinse",
-image: "/poi-images/gualcinse-cities-v2.webp"
-},
+    name: { de: "Gualcinse", hu: "Gualcinse", ro: "Gualcinse", en: "Gualcinse"},
+    image: "/poi-images/gualcinse-cities-v2.webp",
     description: { de: "Eine hochgelegene Lenca-Gemeinde im Departement Lempira mit starken indigenen Traditionen.", hu: "Magasan fekvő Lenca község Lempira megyében, erős őslakos hagyományokkal.", ro: "O municipalitate Lenca de mare altitudine în departamentul Lempira, cu tradiții indigene puternice.", en: "A high-altitude Lenca municipality in the Lempira department with strong indigenous traditions." },
     facts: {
       de: ["Starke Lenca-Traditionen", "Kaffee- und Gemüseanbau", "Kühles Klima", "Abgelegene Bergregion"],
@@ -1149,9 +1099,8 @@ image: "/poi-images/gualcinse-cities-v2.webp"
     type: "city",
     parent: "HN-VA",
     coords: [-87.65, 13.6167],
-    name: { de: "Langue", hu: "Langue", ro: "Langue", en: "Langue",
-image: "/poi-images/langue-cities-v2.webp"
-},
+    name: { de: "Langue", hu: "Langue", ro: "Langue", en: "Langue"},
+    image: "/poi-images/langue-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Valle, ein lokales Handelszentrum für die umliegenden Gemeinden.", hu: "Valle megye városa, a környező közösségek helyi kereskedelmi központja.", ro: "Un oraș din departamentul Valle, un centru comercial local pentru municipalitățile înconjurătoare.", en: "A city in the Valle department, a local commercial center for the surrounding municipalities." },
     facts: {
       de: ["Lokales Handelszentrum", "Landwirtschaftliche Produkte", "Viehmärkte", "An der Panamericana gelegen"],
@@ -1169,9 +1118,8 @@ image: "/poi-images/langue-cities-v2.webp"
     type: "city",
     parent: "HN-IN",
     coords: [-88.05, 14.5],
-    name: { de: "Jesús de Otoro", hu: "Jesús de Otoro", ro: "Jesús de Otoro", en: "Jesús de Otoro",
-image: "/poi-images/jesus-de-otoro-cities-v2.webp"
-},
+    name: { de: "Jesús de Otoro", hu: "Jesús de Otoro", ro: "Jesús de Otoro", en: "Jesús de Otoro"},
+    image: "/poi-images/jesus-de-otoro-cities-v2.webp",
     description: { de: "Eine wichtige Handelsstadt im Departement Intibucá, bekannt für ihren Getreideanbau.", hu: "Fontos kereskedőváros Intibucá megyében, gabonatermesztéséről ismert.", ro: "Un oraș comercial important în departamentul Intibucá, cunoscut pentru cultivarea cerealelor.", en: "An important commercial town in the Intibucá department, known for its grain cultivation." },
     facts: {
       de: ["'Kornkammer von Intibucá'", "Handelszentrum", "Reis- und Bohnenanbau", "Religiöse Feste"],
@@ -1189,9 +1137,8 @@ image: "/poi-images/jesus-de-otoro-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.5833, 14.8],
-    name: { de: "Protección", hu: "Protección", ro: "Protección", en: "Protección",
-image: "/poi-images/proteccion-cities-v2.webp"
-},
+    name: { de: "Protección", hu: "Protección", ro: "Protección", en: "Protección"},
+    image: "/poi-images/proteccion-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Santa Bárbara, die für ihren Kaffeeanbau bekannt ist.", hu: "Santa Bárbara megye községe, amely kávétermesztéséről ismert.", ro: "O municipalitate în departamentul Santa Bárbara, cunoscută pentru cultivarea cafelei.", en: "A municipality in the Santa Bárbara department, known for its coffee cultivation." },
     facts: {
       de: ["Kaffeeanbaugebiet", "Bergige Landschaft", "Ländliche Gemeinde", "Wachsende Bevölkerung"],
@@ -1209,9 +1156,8 @@ image: "/poi-images/proteccion-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-86.7833, 14.6167],
-    name: { de: "San Ignacio", hu: "San Ignacio", ro: "San Ignacio", en: "San Ignacio",
-image: "/poi-images/san-ignacio-cities-v2.webp"
-},
+    name: { de: "San Ignacio", hu: "San Ignacio", ro: "San Ignacio", en: "San Ignacio"},
+    image: "/poi-images/san-ignacio-cities-v2.webp",
     description: { de: "Eine Gemeinde nordöstlich von Tegucigalpa, die sich der Landwirtschaft widmet.", hu: "Tegucigalpától északkeletre fekvő község, amely mezőgazdasággal foglalkozik.", ro: "O municipalitate la nord-est de Tegucigalpa, dedicată agriculturii.", en: "A municipality northeast of Tegucigalpa dedicated to agriculture." },
     facts: {
       de: ["Landwirtschaftliche Produktion", "Gemüseanbau", "Viehzucht", "Bergige Umgebung"],
@@ -1229,9 +1175,8 @@ image: "/poi-images/san-ignacio-cities-v2.webp"
     type: "city",
     parent: "HN-VA",
     coords: [-87.6, 13.5667],
-    name: { de: "Aramecina", hu: "Aramecina", ro: "Aramecina", en: "Aramecina",
-image: "/poi-images/aramecina-cities-v2.webp"
-},
+    name: { de: "Aramecina", hu: "Aramecina", ro: "Aramecina", en: "Aramecina"},
+    image: "/poi-images/aramecina-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Valle, nahe der Grenze zu El Salvador.", hu: "Valle megye községe, El Salvador határának közelében.", ro: "O municipalitate în departamentul Valle, aproape de granița cu El Salvador.", en: "A municipality in the Valle department, near the border with El Salvador." },
     facts: {
       de: ["Grenznahe Gemeinde", "Landwirtschaft und Viehzucht", "Fluss Goascorán", "Trockenes Klima"],
@@ -1249,9 +1194,8 @@ image: "/poi-images/aramecina-cities-v2.webp"
     type: "city",
     parent: "HN-CP",
     coords: [-89.0667, 14.85],
-    name: { de: "San Agustín", hu: "San Agustín", ro: "San Agustín", en: "San Agustín",
-image: "/poi-images/san-agustin-cities-v2.webp"
-},
+    name: { de: "San Agustín", hu: "San Agustín", ro: "San Agustín", en: "San Agustín"},
+    image: "/poi-images/san-agustin-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde im Departement Copán, die sich dem Kaffeeanbau widmet.", hu: "Kicsi község Copán megyében, amely kávétermesztéssel foglalkozik.", ro: "O mică municipalitate în departamentul Copán, dedicată cultivării cafelei.", en: "A small municipality in the Copán department dedicated to coffee cultivation." },
     facts: {
       de: ["Kaffeeanbau", "Ländliche Umgebung", "Bergige Landschaft", "Ruhige Gemeinde"],
@@ -1269,9 +1213,8 @@ image: "/poi-images/san-agustin-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-86.8167, 14.5333],
-    name: { de: "Guaimaca", hu: "Guaimaca", ro: "Guaimaca", en: "Guaimaca",
-image: "/poi-images/guaimaca-cities-v2.webp"
-},
+    name: { de: "Guaimaca", hu: "Guaimaca", ro: "Guaimaca", en: "Guaimaca"},
+    image: "/poi-images/guaimaca-cities-v2.webp",
     description: { de: "Eine Stadt zwischen Tegucigalpa und Juticalpa, bekannt für Forstwirtschaft.", hu: "Tegucigalpa és Juticalpa között fekvő város, erdőgazdálkodásáról ismert.", ro: "Un oraș între Tegucigalpa și Juticalpa, cunoscut pentru silvicultură.", en: "A city between Tegucigalpa and Juticalpa, known for forestry." },
     facts: {
       de: ["Forstwirtschaft", "Holzindustrie", "Harzproduktion", "An der Hauptstraße gelegen"],
@@ -1289,9 +1232,8 @@ image: "/poi-images/guaimaca-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-86.6333, 14.5167],
-    name: { de: "Campamento", hu: "Campamento", ro: "Campamento", en: "Campamento",
-image: "/poi-images/campamento-cities-v2.webp"
-},
+    name: { de: "Campamento", hu: "Campamento", ro: "Campamento", en: "Campamento"},
+    image: "/poi-images/campamento-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Olancho, ein lokales Zentrum für Handel und Landwirtschaft.", hu: "Olancho megye városa, a kereskedelem és a mezőgazdaság helyi központja.", ro: "Un oraș din departamentul Olancho, un centru local pentru comerț și agricultură.", en: "A city in the Olancho department, a local center for commerce and agriculture." },
     facts: {
       de: ["Handelsstadt", "Viehzucht", "Kaffeeanbau", "An der Straße nach Juticalpa"],
@@ -1309,9 +1251,8 @@ image: "/poi-images/campamento-cities-v2.webp"
     type: "city",
     parent: "HN-FM",
     coords: [-87.21, 14.12],
-    name: { de: "Santo Domingo Savio", hu: "Santo Domingo Savio", ro: "Santo Domingo Savio", en: "Santo Domingo Savio",
-image: "/poi-images/santo-domingo-savio-cities-v2.webp"
-},
+    name: { de: "Santo Domingo Savio", hu: "Santo Domingo Savio", ro: "Santo Domingo Savio", en: "Santo Domingo Savio"},
+    image: "/poi-images/santo-domingo-savio-cities-v2.webp",
     description: { de: "Eine Gemeinde in der Nähe von Tegucigalpa.", hu: "Tegucigalpa közelében fekvő község.", ro: "O municipalitate în apropiere de Tegucigalpa.", en: "A municipality near Tegucigalpa." },
     facts: {
       de: ["Ländliche Gemeinde", "Landwirtschaft", "Nahe der Hauptstadt", "Wachsende Bevölkerung"],
@@ -1329,9 +1270,8 @@ image: "/poi-images/santo-domingo-savio-cities-v2.webp"
     type: "city",
     parent: "HN-CP",
     coords: [-88.85, 14.5667],
-    name: { de: "Corquín", hu: "Corquín", ro: "Corquín", en: "Corquín",
-image: "/poi-images/corquin-cities-v2.webp"
-},
+    name: { de: "Corquín", hu: "Corquín", ro: "Corquín", en: "Corquín"},
+    image: "/poi-images/corquin-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Copán, bekannt für ihren Kaffeeanbau.", hu: "Copán megye községe, kávétermesztéséről ismert.", ro: "O municipalitate în departamentul Copán, cunoscută pentru cultivarea cafelei.", en: "A municipality in the Copán department known for its coffee cultivation." },
     facts: {
       de: ["Kaffeeanbaugebiet", "Bergige Landschaft", "Ländliche Gemeinde", "Produziert Spezialitätenkaffee"],
@@ -1349,9 +1289,8 @@ image: "/poi-images/corquin-cities-v2.webp"
     type: "city",
     parent: "HN-EP",
     coords: [-86.55, 13.8667],
-    name: { de: "El Paraíso", hu: "El Paraíso", ro: "El Paraíso", en: "El Paraíso",
-image: "/poi-images/el-paraiso-cities-v2.webp"
-},
+    name: { de: "El Paraíso", hu: "El Paraíso", ro: "El Paraíso", en: "El Paraíso"},
+    image: "/poi-images/el-paraiso-cities-v2.webp",
     description: { de: "Eine Stadt nahe der nicaraguanischen Grenze, bekannt für Kaffee und Handel.", hu: "Város a nicaraguai határ közelében, kávéjáról és kereskedelméről ismert.", ro: "Un oraș aproape de granița cu Nicaragua, cunoscut pentru cafea și comerț.", en: "A city near the Nicaraguan border, known for coffee and commerce." },
     facts: {
       de: ["Grenze zu Nicaragua", "Kaffeeanbau", "Handelszentrum", "Tabakproduktion"],
@@ -1369,9 +1308,8 @@ image: "/poi-images/el-paraiso-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-87.9, 14.9833],
-    name: { de: "Santa Cruz de Yojoa", hu: "Santa Cruz de Yojoa", ro: "Santa Cruz de Yojoa", en: "Santa Cruz de Yojoa",
-image: "/poi-images/santa-cruz-de-yojoa-cities-v2.webp"
-},
+    name: { de: "Santa Cruz de Yojoa", hu: "Santa Cruz de Yojoa", ro: "Santa Cruz de Yojoa", en: "Santa Cruz de Yojoa"},
+    image: "/poi-images/santa-cruz-de-yojoa-cities-v2.webp",
     description: { de: "Eine Gemeinde am Yojoa-See, ein Zentrum für Tourismus, Fischerei und Wasserkraft.", hu: "A Yojoa-tó melletti község, a turizmus, a halászat és a vízenergia központja.", ro: "O municipalitate pe malul lacului Yojoa, un centru pentru turism, pescuit și energie hidroelectrică.", en: "A municipality on Lake Yojoa, a center for tourism, fishing, and hydroelectric power." },
     facts: {
       de: ["Am Yojoa-See gelegen", "Wasserkraftwerk El Cajón", "Tourismus und Fischerei", "Ananas-Plantagen"],
@@ -1389,9 +1327,8 @@ image: "/poi-images/santa-cruz-de-yojoa-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.45, 15.0667],
-    name: { de: "Azacualpa", hu: "Azacualpa", ro: "Azacualpa", en: "Azacualpa",
-image: "/poi-images/azacualpa-cities-v2.webp"
-},
+    name: { de: "Azacualpa", hu: "Azacualpa", ro: "Azacualpa", en: "Azacualpa"},
+    image: "/poi-images/azacualpa-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Santa Bárbara mit Bergbau- und Landwirtschaftstradition.", hu: "Santa Bárbara megye községe, bányászati és mezőgazdasági hagyományokkal.", ro: "O municipalitate în departamentul Santa Bárbara cu tradiții miniere și agricole.", en: "A municipality in the Santa Bárbara department with mining and agricultural traditions." },
     facts: {
       de: ["Bergbautradition", "Landwirtschaftliche Gemeinde", "Bergige Umgebung", "Handwerk"],
@@ -1409,9 +1346,8 @@ image: "/poi-images/azacualpa-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-87.9333, 15.35],
-    name: { de: "San Manuel", hu: "San Manuel", ro: "San Manuel", en: "San Manuel",
-image: "/poi-images/san-manuel-cities-v2.webp"
-},
+    name: { de: "San Manuel", hu: "San Manuel", ro: "San Manuel", en: "San Manuel"},
+    image: "/poi-images/san-manuel-cities-v2.webp",
     description: { de: "Eine Industriestadt im Sula-Tal, Teil des industriellen Korridors von Cortés.", hu: "Iparváros a Sula-völgyben, Cortés ipari folyosójának része.", ro: "Un oraș industrial în Valea Sula, parte a coridorului industrial din Cortés.", en: "An industrial city in the Sula Valley, part of the industrial corridor of Cortés." },
     facts: {
       de: ["Industrielle Gemeinde", "Nahe Villanueva", "Zuckerrohr- und Bananenanbau", "Maquilas"],
@@ -1429,9 +1365,8 @@ image: "/poi-images/san-manuel-cities-v2.webp"
     type: "city",
     parent: "HN-CP",
     coords: [-88.8, 15.0167],
-    name: { de: "Florida", hu: "Florida", ro: "Florida", en: "Florida",
-image: "/poi-images/florida-cities-v2.webp"
-},
+    name: { de: "Florida", hu: "Florida", ro: "Florida", en: "Florida"},
+    image: "/poi-images/florida-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Copán, deren Wirtschaft auf Landwirtschaft und Viehzucht basiert.", hu: "Copán megye községe, gazdasága a mezőgazdaságon és az állattenyésztésen alapul.", ro: "O municipalitate în departamentul Copán, a cărei economie se bazează pe agricultură și creșterea vitelor.", en: "A municipality in the Copán department whose economy is based on agriculture and livestock." },
     facts: {
       de: ["Viehzucht", "Kaffee- und Getreideanbau", "Ländliche Gemeinde", "Nahe der guatemaltekischen Grenze"],
@@ -1449,9 +1384,8 @@ image: "/poi-images/florida-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-86.2, 14.8667],
-    name: { de: "San Francisco de la Paz", hu: "San Francisco de la Paz", ro: "San Francisco de la Paz", en: "San Francisco de la Paz",
-image: "/poi-images/san-francisco-de-la-paz-cities-v2.webp"
-},
+    name: { de: "San Francisco de la Paz", hu: "San Francisco de la Paz", ro: "San Francisco de la Paz", en: "San Francisco de la Paz"},
+    image: "/poi-images/san-francisco-de-la-paz-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Olancho, bekannt für ihre Viehzucht.", hu: "Város Olancho megyében, állattenyésztéséről ismert.", ro: "Un oraș din departamentul Olancho, cunoscut pentru creșterea vitelor.", en: "A city in the Olancho department, known for its cattle ranching." },
     facts: {
       de: ["Zentrum der Viehzucht", "Landwirtschaftliche Gemeinde", "Ländliche Traditionen", "Nahe Juticalpa"],
@@ -1469,9 +1403,8 @@ image: "/poi-images/san-francisco-de-la-paz-cities-v2.webp"
     type: "city",
     parent: "HN-OC",
     coords: [-88.7833, 14.4833],
-    name: { de: "Belén Gualcho", hu: "Belén Gualcho", ro: "Belén Gualcho", en: "Belén Gualcho",
-image: "/poi-images/belen-gualcho-cities-v2.webp"
-},
+    name: { de: "Belén Gualcho", hu: "Belén Gualcho", ro: "Belén Gualcho", en: "Belén Gualcho"},
+    image: "/poi-images/belen-gualcho-cities-v2.webp",
     description: { de: "Eine hochgelegene Lenca-Gemeinde mit atemberaubender Landschaft und starker indigener Kultur.", hu: "Magasan fekvő Lenca község lenyűgöző tájjal és erős őslakos kultúrával.", ro: "O municipalitate Lenca de mare altitudine cu peisaje uimitoare și o cultură indigenă puternică.", en: "A high-altitude Lenca municipality with breathtaking landscapes and a strong indigenous culture." },
     facts: {
       de: ["Höchstgelegene Gemeinde in Honduras", "Starke Lenca-Kultur", "Wasserfall 'Cascada de la Lluvia'", "Anbau von Hochlandgemüse"],
@@ -1489,9 +1422,8 @@ image: "/poi-images/belen-gualcho-cities-v2.webp"
     type: "city",
     parent: "HN-CR",
     coords: [-88.0333, 15.1167],
-    name: { de: "San Antonio de Cortés", hu: "San Antonio de Cortés", ro: "San Antonio de Cortés", en: "San Antonio de Cortés",
-image: "/poi-images/san-antonio-de-cortes-cities-v2.webp"
-},
+    name: { de: "San Antonio de Cortés", hu: "San Antonio de Cortés", ro: "San Antonio de Cortés", en: "San Antonio de Cortés"},
+    image: "/poi-images/san-antonio-de-cortes-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Cortés mit einer Wirtschaft, die auf Kaffee und Viehzucht basiert.", hu: "Cortés megye községe, gazdasága a kávén és az állattenyésztésen alapul.", ro: "O municipalitate din departamentul Cortés, cu o economie bazată pe cafea și creșterea vitelor.", en: "A municipality in the Cortés department with an economy based on coffee and livestock." },
     facts: {
       de: ["Kaffeeanbau", "Viehzucht", "Bergige Landschaft", "Ländliche Gemeinde"],
@@ -1509,9 +1441,8 @@ image: "/poi-images/san-antonio-de-cortes-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.3667, 15.35],
-    name: { de: "Quimistán", hu: "Quimistán", ro: "Quimistán", en: "Quimistán",
-image: "/poi-images/quimistan-cities-v2.webp"
-},
+    name: { de: "Quimistán", hu: "Quimistán", ro: "Quimistán", en: "Quimistán"},
+    image: "/poi-images/quimistan-cities-v2.webp",
     description: { de: "Eine große Gemeinde in Santa Bárbara mit vielfältiger landwirtschaftlicher Produktion.", hu: "Nagy község Santa Bárbarában, változatos mezőgazdasági termeléssel.", ro: "O municipalitate mare în Santa Bárbara cu o producție agricolă diversă.", en: "A large municipality in Santa Bárbara with diverse agricultural production." },
     facts: {
       de: ["Kaffee, Getreide, Viehzucht", "Bergige und flache Gebiete", "Fluss Chamelecón", "Archäologische Stätten in der Nähe"],
@@ -1529,9 +1460,8 @@ image: "/poi-images/quimistan-cities-v2.webp"
     type: "city",
     parent: "HN-CL",
     coords: [-84.9333, 15.9],
-    name: { de: "Iriona", hu: "Iriona", ro: "Iriona", en: "Iriona",
-image: "/poi-images/iriona-cities-v2.webp"
-},
+    name: { de: "Iriona", hu: "Iriona", ro: "Iriona", en: "Iriona"},
+    image: "/poi-images/iriona-cities-v2.webp",
     description: { de: "Eine ausgedehnte, abgelegene Gemeinde an der Karibikküste mit Garifuna- und Miskito-Bevölkerung.", hu: "Kiterjedt, félreeső község a Karib-tenger partján, garifuna és miskito lakossággal.", ro: "O municipalitate extinsă și îndepărtată pe coasta Caraibelor, cu populație Garifuna și Miskito.", en: "An extensive, remote municipality on the Caribbean coast with Garifuna and Miskito populations." },
     facts: {
       de: ["Karibikküste", "Garifuna- und Miskito-Kultur", "Palmöl und Landwirtschaft", "Rio Sico und Paulaya"],
@@ -1549,9 +1479,8 @@ image: "/poi-images/iriona-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-85.7333, 15.2833],
-    name: { de: "San Esteban", hu: "San Esteban", ro: "San Esteban", en: "San Esteban",
-image: "/poi-images/san-esteban-cities-v2.webp"
-},
+    name: { de: "San Esteban", hu: "San Esteban", ro: "San Esteban", en: "San Esteban"},
+    image: "/poi-images/san-esteban-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Olancho, die für ihre Viehzucht und Holzindustrie bekannt ist.", hu: "Olancho megye községe, amely állattenyésztéséről és faiparáról ismert.", ro: "O municipalitate din departamentul Olancho, cunoscută pentru creșterea vitelor și industria lemnului.", en: "A municipality in the Olancho department known for its livestock and timber industry." },
     facts: {
       de: ["Viehzucht", "Holzindustrie", "Landwirtschaftliche Gemeinde", "Fluss Aguan"],
@@ -1577,9 +1506,8 @@ image: "/poi-images/san-esteban-cities-v2.webp"
     type: "city",
     parent: "HN-LE",
     coords: [-88.6167, 14.4833],
-    name: { de: "La Campa", hu: "La Campa", ro: "La Campa", en: "La Campa",
-image: "/poi-images/la-campa-cities-v2.webp"
-},
+    name: { de: "La Campa", hu: "La Campa", ro: "La Campa", en: "La Campa"},
+    image: "/poi-images/la-campa-cities-v2.webp",
     description: { de: "Eine Lenca-Gemeinde, berühmt für ihre Töpferei und die extremen Zipline-Überquerungen.", hu: "Lenca község, amely fazekasságáról és extrém kötélpályás átkeléseiről híres.", ro: "O municipalitate Lenca, renumită pentru olărit și traversările extreme cu tiroliana.", en: "A Lenca municipality famous for its pottery and extreme zip-line crossings." },
     facts: {
       de: ["Lenca-Töpferei", "Extreme Zipline", "Bergige Landschaft", "Starke indigene Kultur"],
@@ -1605,9 +1533,8 @@ image: "/poi-images/la-campa-cities-v2.webp"
     type: "city",
     parent: "HN-CH",
     coords: [-87.3667, 13.5833],
-    name: { de: "Pespire", hu: "Pespire", ro: "Pespire", en: "Pespire",
-image: "/poi-images/pespire-cities-v2.webp"
-},
+    name: { de: "Pespire", hu: "Pespire", ro: "Pespire", en: "Pespire"},
+    image: "/poi-images/pespire-cities-v2.webp",
     description: { de: "Eine Stadt im Departement Choluteca, bekannt für ihre Mango-Produktion.", hu: "Város Choluteca megyében, mangótermeléséről ismert.", ro: "Un oraș din departamentul Choluteca, cunoscut pentru producția sa de mango.", en: "A city in the Choluteca department, known for its mango production." },
     facts: {
       de: ["'Stadt der Mangos'", "Heißes, trockenes Klima", "Koloniale Architektur", "Landwirtschaftliches Zentrum"],
@@ -1633,9 +1560,8 @@ image: "/poi-images/pespire-cities-v2.webp"
     type: "city",
     parent: "HN-EP",
     coords: [-86.6333, 13.75],
-    name: { de: "Oropolí", hu: "Oropolí", ro: "Oropolí", en: "Oropolí",
-image: "/poi-images/oros-cities-v2.webp"
-},
+    name: { de: "Oropolí", hu: "Oropolí", ro: "Oropolí", en: "Oropolí"},
+    image: "/poi-images/oros-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement El Paraíso, in der Nähe der Grenze zu Nicaragua.", hu: "El Paraíso megye községe, Nicaragua határának közelében.", ro: "O municipalitate în departamentul El Paraíso, lângă granița cu Nicaragua.", en: "A municipality in the El Paraíso department, near the Nicaraguan border." },
     facts: {
       de: ["Grenznahe Gemeinde", "Landwirtschaft", "Bergige Region", "Trockenes Klima"],
@@ -1661,9 +1587,8 @@ image: "/poi-images/oros-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.4, 14.9833],
-    name: { de: "San José de Colinas", hu: "San José de Colinas", ro: "San José de Colinas", en: "San José de Colinas",
-image: "/poi-images/san-jose-de-colinas-cities-v2.webp"
-},
+    name: { de: "San José de Colinas", hu: "San José de Colinas", ro: "San José de Colinas", en: "San José de Colinas"},
+    image: "/poi-images/san-jose-de-colinas-cities-v2.webp",
     description: { de: "Eine Stadt in Santa Bárbara, die als Handelszentrum für die umliegenden Kaffeedörfer dient.", hu: "Város Santa Bárbarában, amely a környező kávéfalvak kereskedelmi központjaként szolgál.", ro: "Un oraș din Santa Bárbara, care servește drept centru comercial pentru satele de cafea din jur.", en: "A city in Santa Bárbara that serves as a commercial center for the surrounding coffee villages." },
     facts: {
       de: ["Handelszentrum für Kaffee", "Landwirtschaftliche Gemeinde", "Bergige Umgebung", "Lokaler Markt"],
@@ -1689,9 +1614,8 @@ image: "/poi-images/san-jose-de-colinas-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.4167, 14.9167],
-    name: { de: "Gualala", hu: "Gualala", ro: "Gualala", en: "Gualala",
-image: "/poi-images/gualala-cities-v2.webp"
-},
+    name: { de: "Gualala", hu: "Gualala", ro: "Gualala", en: "Gualala"},
+    image: "/poi-images/gualala-cities-v2.webp",
     description: { de: "Eine Gemeinde in Santa Bárbara, die für ihre Palmenhüte und ihr Kunsthandwerk bekannt ist.", hu: "Santa Bárbara megye községe, amely pálmalevélből készült kalapjairól és kézművességéről ismert.", ro: "O municipalitate din Santa Bárbara, cunoscută pentru pălăriile sale de palmier și artizanat.", en: "A municipality in Santa Bárbara known for its palm hats and handicrafts." },
     facts: {
       de: ["Herstellung von Palmenhüten", "Handwerksgemeinde", "Ländliche Traditionen", "Nahe Ilama"],
@@ -1717,9 +1641,8 @@ image: "/poi-images/gualala-cities-v2.webp"
     type: "city",
     parent: "HN-CP",
     coords: [-88.8, 15.0833],
-    name: { de: "Nueva Arcadia", hu: "Nueva Arcadia", ro: "Nueva Arcadia", en: "Nueva Arcadia",
-image: "/poi-images/nueva-arcadia-cities-v2.webp"
-},
+    name: { de: "Nueva Arcadia", hu: "Nueva Arcadia", ro: "Nueva Arcadia", en: "Nueva Arcadia"},
+    image: "/poi-images/nueva-arcadia-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Copán, die das wichtige Handelszentrum La Entrada umfasst.", hu: "Copán megye községe, amely magában foglalja a fontos kereskedelmi központot, La Entradát.", ro: "O municipalitate din departamentul Copán, care include importantul centru comercial La Entrada.", en: "A municipality in the Copán department that includes the important commercial center of La Entrada." },
     facts: {
       de: ["Umfasst die Stadt La Entrada", "Wichtiger Verkehrsknotenpunkt", "Handel und Landwirtschaft", "Tor zur Kaffee- und Tabakregion"],
@@ -1745,9 +1668,8 @@ image: "/poi-images/nueva-arcadia-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.3167, 14.9333],
-    name: { de: "San Nicolás", hu: "San Nicolás", ro: "San Nicolás", en: "San Nicolás",
-image: "/poi-images/san-nicolas-cities-v2.webp"
-},
+    name: { de: "San Nicolás", hu: "San Nicolás", ro: "San Nicolás", en: "San Nicolás"},
+    image: "/poi-images/san-nicolas-cities-v2.webp",
     description: { de: "Eine Gemeinde in Santa Bárbara, bekannt für ihren Kaffee und ihr Kunsthandwerk.", hu: "Santa Bárbara megye községe, kávéjáról és kézművességéről ismert.", ro: "O municipalitate din Santa Bárbara, cunoscută pentru cafeaua și artizanatul său.", en: "A municipality in Santa Bárbara known for its coffee and handicrafts." },
     facts: {
       de: ["Kaffeeanbau", "Handwerk aus Tule (Schilf)", "Koloniale Kirche", "Bergige Landschaft"],
@@ -1773,9 +1695,8 @@ image: "/poi-images/san-nicolas-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.4833, 14.8333],
-    name: { de: "Atima", hu: "Atima", ro: "Atima", en: "Atima",
-image: "/poi-images/atima-cities-v2.webp"
-},
+    name: { de: "Atima", hu: "Atima", ro: "Atima", en: "Atima"},
+    image: "/poi-images/atima-cities-v2.webp",
     description: { de: "Eine Gemeinde in Santa Bárbara, umgeben von Bergen und Wäldern.", hu: "Santa Bárbara megye községe, hegyekkel és erdőkkel körülvéve.", ro: "O municipalitate din Santa Bárbara, înconjurată de munți și păduri.", en: "A municipality in Santa Bárbara, surrounded by mountains and forests." },
     facts: {
       de: ["Bergige Gemeinde", "Kaffeeanbau", "Naturlandschaften", "Ländliche Atmosphäre"],
@@ -1801,9 +1722,8 @@ image: "/poi-images/atima-cities-v2.webp"
     type: "city",
     parent: "HN-AT",
     coords: [-87.5, 15.8],
-    name: { de: "Triunfo de la Cruz", hu: "Triunfo de la Cruz", ro: "Triunfo de la Cruz", en: "Triunfo de la Cruz",
-image: "/poi-images/el-triunfo-de-la-cruz-cities-v2.webp"
-},
+    name: { de: "Triunfo de la Cruz", hu: "Triunfo de la Cruz", ro: "Triunfo de la Cruz", en: "Triunfo de la Cruz"},
+    image: "/poi-images/el-triunfo-de-la-cruz-cities-v2.webp",
     description: { de: "Eine der größten Garifuna-Gemeinden in Honduras an der Bucht von Tela.", hu: "Honduras egyik legnagyobb garifuna közössége a Tela-öböl partján.", ro: "Una dintre cele mai mari comunități Garifuna din Honduras, pe Golful Tela.", en: "One of the largest Garifuna communities in Honduras, on the Bay of Tela." },
     facts: {
       de: ["Garifuna-Kultur", "Karibikküste", "Fischerei und Tourismus", "Traditionelle Musik und Tanz"],
@@ -1829,9 +1749,8 @@ image: "/poi-images/el-triunfo-de-la-cruz-cities-v2.webp"
     type: "city",
     parent: "HN-CL",
     coords: [-85.3, 15.8167],
-    name: { de: "Balfate", hu: "Balfate", ro: "Balfate", en: "Balfate",
-image: "/poi-images/balfate-cities-v2.webp"
-},
+    name: { de: "Balfate", hu: "Balfate", ro: "Balfate", en: "Balfate"},
+    image: "/poi-images/balfate-cities-v2.webp",
     description: { de: "Eine Küstengemeinde im Departement Colón mit Garifuna-Bevölkerung.", hu: "Tengerparti község Colón megyében, garifuna lakossággal.", ro: "O municipalitate de coastă în departamentul Colón, cu populație Garifuna.", en: "A coastal municipality in the Colón department with a Garifuna population." },
     facts: {
       de: ["Garifuna-Gemeinde", "Karibikküste", "Landwirtschaft und Fischerei", "Strände und Lagunen"],
@@ -1857,9 +1776,8 @@ image: "/poi-images/balfate-cities-v2.webp"
     type: "city",
     parent: "HN-CL",
     coords: [-86.0833, 15.9333],
-    name: { de: "Santa Fe", hu: "Santa Fe", ro: "Santa Fe", en: "Santa Fe",
-image: "/poi-images/santa-fe-cities-v2.webp"
-},
+    name: { de: "Santa Fe", hu: "Santa Fe", ro: "Santa Fe", en: "Santa Fe"},
+    image: "/poi-images/santa-fe-cities-v2.webp",
     description: { de: "Eine Garifuna-Gemeinde westlich von Trujillo an der Karibikküste.", hu: "Garifuna közösség Trujillótól nyugatra, a Karib-tenger partján.", ro: "O comunitate Garifuna la vest de Trujillo, pe coasta Caraibelor.", en: "A Garifuna community west of Trujillo on the Caribbean coast." },
     facts: {
       de: ["Garifuna-Kultur", "Nähe Trujillo", "Fischerei", "Karibische Strände"],
@@ -1885,9 +1803,8 @@ image: "/poi-images/santa-fe-cities-v2.webp"
     type: "city",
     parent: "HN-AT",
     coords: [-87.15, 15.65],
-    name: { de: "La Masica", hu: "La Masica", ro: "La Masica", en: "La Masica",
-image: "/poi-images/la-masica-cities-v2.webp"
-},
+    name: { de: "La Masica", hu: "La Masica", ro: "La Masica", en: "La Masica"},
+    image: "/poi-images/la-masica-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Atlántida, deren Wirtschaft von Landwirtschaft und Viehzucht geprägt ist.", hu: "Atlántida megye községe, gazdaságát a mezőgazdaság és az állattenyésztés jellemzi.", ro: "O municipalitate din departamentul Atlántida, a cărei economie este caracterizată de agricultură și creșterea vitelor.", en: "A municipality in the Atlántida department whose economy is characterized by agriculture and livestock." },
     facts: {
       de: ["Landwirtschaftliche Gemeinde", "Zitrusfrüchte und Bananen", "Viehzucht", "An der CA-13 Autobahn"],
@@ -1913,9 +1830,8 @@ image: "/poi-images/la-masica-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.2833, 14.8],
-    name: { de: "Arada", hu: "Arada", ro: "Arada", en: "Arada",
-image: "/poi-images/arada-cities-v2.webp"
-},
+    name: { de: "Arada", hu: "Arada", ro: "Arada", en: "Arada"},
+    image: "/poi-images/arada-cities-v2.webp",
     description: { de: "Eine kleine Gemeinde im Departement Santa Bárbara mit landwirtschaftlicher Ausrichtung.", hu: "Kicsi község Santa Bárbara megyében, mezőgazdasági irányultsággal.", ro: "O mică municipalitate în departamentul Santa Bárbara cu o orientare agricolă.", en: "A small municipality in the Santa Bárbara department with an agricultural focus." },
     facts: {
       de: ["Landwirtschaft", "Kaffeeanbau", "Ländliche Umgebung", "Traditionelle Lebensweise"],
@@ -1941,9 +1857,8 @@ image: "/poi-images/arada-cities-v2.webp"
     type: "city",
     parent: "HN-SB",
     coords: [-88.4, 14.7333],
-    name: { de: "San Luis", hu: "San Luis", ro: "San Luis", en: "San Luis",
-image: "/poi-images/san-luis-cities-v2.webp"
-},
+    name: { de: "San Luis", hu: "San Luis", ro: "San Luis", en: "San Luis"},
+    image: "/poi-images/san-luis-cities-v2.webp",
     description: { de: "Eine Gemeinde in Santa Bárbara, bekannt für ihren Kaffee und die umliegenden Berge.", hu: "Santa Bárbara megye községe, kávéjáról és a környező hegyekről ismert.", ro: "O municipalitate din Santa Bárbara, cunoscută pentru cafeaua și munții din jur.", en: "A municipality in Santa Bárbara known for its coffee and surrounding mountains." },
     facts: {
       de: ["Kaffeeanbau", "Bergige Landschaft", "Ländliche Gemeinde", "Naturpfade"],
@@ -1969,9 +1884,8 @@ image: "/poi-images/san-luis-cities-v2.webp"
     type: "city",
     parent: "HN-OC",
     coords: [-88.9833, 14.4],
-    name: { de: "San Marcos (Ocotepeque)", hu: "San Marcos (Ocotepeque)", ro: "San Marcos (Ocotepeque)", en: "San Marcos (Ocotepeque)",
-image: "/poi-images/san-marcos-cities-v2.webp"
-},
+    name: { de: "San Marcos (Ocotepeque)", hu: "San Marcos (Ocotepeque)", ro: "San Marcos (Ocotepeque)", en: "San Marcos (Ocotepeque)"},
+    image: "/poi-images/san-marcos-cities-v2.webp",
     description: { de: "Eine Gemeinde im Departement Ocotepeque, nahe der Grenze zu Guatemala.", hu: "Ocotepeque megye községe, Guatemala határának közelében.", ro: "O municipalitate în departamentul Ocotepeque, aproape de granița cu Guatemala.", en: "A municipality in the Ocotepeque department, near the border with Guatemala." },
     facts: {
       de: ["Grenznähe zu Guatemala", "Kaffeeanbau", "Handel", "Bergige Region"],
@@ -1997,9 +1911,8 @@ image: "/poi-images/san-marcos-cities-v2.webp"
     type: "city",
     parent: "HN-OL",
     coords: [-86.35, 14.75],
-    name: { de: "Guayape", hu: "Guayape", ro: "Guayape", en: "Guayape",
-image: "/poi-images/guayape-cities-v2.webp"
-},
+    name: { de: "Guayape", hu: "Guayape", ro: "Guayape", en: "Guayape"},
+    image: "/poi-images/guayape-cities-v2.webp",
     description: { de: "Eine Gemeinde in Olancho am gleichnamigen Fluss, bekannt für Landwirtschaft.", hu: "Olancho megye községe az azonos nevű folyó partján, mezőgazdaságáról ismert.", ro: "O municipalitate din Olancho pe râul cu același nume, cunoscută pentru agricultură.", en: "A municipality in Olancho on the river of the same name, known for agriculture." },
     facts: {
       de: ["Am Fluss Guayape", "Landwirtschaft und Viehzucht", "Ländliche Gemeinde", "Goldwaschen in der Geschichte"],

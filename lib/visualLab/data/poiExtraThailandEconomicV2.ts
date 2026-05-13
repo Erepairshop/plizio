@@ -11,9 +11,8 @@ export const poiExtraThailandEconomicV2: POI[] = [
       de: "Hafen Laem Chabang",
       hu: "Laem Chabang kikötő",
       ro: "Portul Laem Chabang",
-      en: "Laem Chabang Port",
-image: "/poi-images/laem-chabang-port-economic-v2.webp"
-},
+      en: "Laem Chabang Port"},
+    image: "/poi-images/laem-chabang-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "Laem Chabang Port is the primary engine of Thailand's international trade and one of the most significant maritime hubs in Southeast Asia. Located in Chonburi province, this deep-sea port was specifically designed to handle the world's largest container vessels, facilitating the massive exports of automobiles, electronics, and agricultural products. The port is the heart of the Eastern Economic Corridor (EEC), a strategic initiative aimed at transforming the region into an advanced technological and industrial center. Its modern infrastructure includes automated container terminals, cold storage facilities, and a dedicated passenger terminal for cruise ships, connecting Thailand with over 100 ports globally. Since its opening in 1991, Laem Chabang has largely replaced the river-bound Bangkok Port as the nation's main shipping gateway, consistently ranking among the top 20 busiest container ports in the world.",
       de: "Hafen Laem Chabang ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Thailands größter und wichtigster internationaler Hafen, ein wichtiger Knotenpunkt für den globalen Handel und die Logistik in Südostasien. Gehört zu den 20 größten Containerhäfen der Welt. Haupttor für den thailändischen Export. Befindet sich im Eastern Economic Corridor (EEC). Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -47,9 +46,8 @@ image: "/poi-images/laem-chabang-port-economic-v2.webp"
       de: "Industriegebiet Eastern Seaboard",
       hu: "Keleti Parti Ipari Zóna",
       ro: "Zona Industrială Eastern Seaboard",
-      en: "Eastern Seaboard Industrial Zone",
-image: "/poi-images/eastern-seaboard-industrial-zone-economic-v2.webp"
-},
+      en: "Eastern Seaboard Industrial Zone"},
+    image: "/poi-images/eastern-seaboard-industrial-zone-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Eastern Seaboard Industrial Zone is the cornerstone of Thailand's heavy industry and a global hub for automotive manufacturing, often referred to as the 'Detroit of Asia.' Spanning the provinces of Chonburi and Rayong, this massive industrial cluster was established in the 1980s to capitalize on the natural gas finds in the Gulf of Thailand. It hosts hundreds of factories from multinational giants, including Toyota, Ford, General Motors, and Mitsubishi, creating a sophisticated supply chain for the automotive and electronics sectors. The zone's success is driven by its strategic proximity to Laem Chabang Port and a robust infrastructure network. Beyond manufacturing, the Eastern Seaboard has transformed the local economy, creating millions of jobs and driving Thailand's status as the leading automotive exporter in Southeast Asia. It remains a primary target for foreign direct investment under the current Eastern Economic Corridor (EEC) development plan.",
       de: "Industriegebiet Eastern Seaboard ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Ein bedeutendes Industriegebiet, das als 'Detroit Asiens' bekannt ist und ein wichtiges Zentrum für die Automobil- und Elektronikfertigung darstellt. Beherbergt Fabriken großer Automobilhersteller wie Ford und Toyota. Spielt eine zentrale Rolle in der thailändischen Exportwirtschaft. Zieht erhebliche ausländische Investitionen an. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -84,9 +82,8 @@ image: "/poi-images/eastern-seaboard-industrial-zone-economic-v2.webp"
       de: "Industriegebiet Map Ta Phut",
       hu: "Map Ta Phut Ipari Park",
       ro: "Parcul Industrial Map Ta Phut",
-      en: "Map Ta Phut Industrial Estate",
-image: "/poi-images/map-ta-phut-industrial-estate-economic-v2.webp"
-},
+      en: "Map Ta Phut Industrial Estate"},
+    image: "/poi-images/map-ta-phut-industrial-estate-economic-v2.webp",
     descriptionAdvanced: {
       en: "Map Ta Phut Industrial Estate is Thailand's largest and most technologically advanced industrial park, specializing in petrochemicals, energy, and heavy industries. Located in Rayong province, it is a key component of the Eastern Economic Corridor (EEC). The estate was established to add value to the natural gas extracted from the Gulf of Thailand, housing massive refineries and chemical plants that produce raw materials for plastics, fertilizers, and textiles. Map Ta Phut features its own deep-sea port, dedicated to the handling of liquid and bulk chemicals. While a massive driver of economic growth and national energy security, the estate has also been a focal point for environmental discussions, leading to the implementation of some of the country's strictest pollution monitoring and community health programs. It remains a vital pillar of the Thai economy, supporting thousands of downstream industries.",
       de: "Industriegebiet Map Ta Phut ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Thailands größtes Industriegebiet, das sich auf die Petrochemie- und Schwerindustrie konzentriert, mit einem eigenen Tiefseehafen. Wichtiges Zentrum für die Produktion von Kunststoffen und Chemikalien. Hat Bedenken hinsichtlich der Umweltauswirkungen hervorgerufen. Ein wichtiger Motor des thailändischen Wirtschaftswachstums. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -120,9 +117,8 @@ image: "/poi-images/map-ta-phut-industrial-estate-economic-v2.webp"
       de: "Sriracha Tigerzoo (Landwirtschaft)",
       hu: "Sriracha Tigris Állatkert (Mezőgazdaság)",
       ro: "Grădina Zoologică de Tigri Sriracha (Agricultură)",
-      en: "Sriracha Tiger Zoo (Agriculture)",
-image: "/poi-images/sriracha-tiger-zoo-economic-v2.webp"
-},
+      en: "Sriracha Tiger Zoo (Agriculture)"},
+    image: "/poi-images/sriracha-tiger-zoo-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Sriracha Tiger Zoo, located in Chonburi province, was historically a unique and controversial agro-industrial enterprise that blended wildlife tourism with large-scale animal husbandry. While primarily known to the public for its spectacular tiger and crocodile shows, the zoo functioned as a massive breeding facility for Bengal tigers and saltwater crocodiles. At its peak, it housed one of the largest populations of tigers in captivity worldwide. The facility also served as an economic hub for the trade of animal-related products and was a major employer in the Sriracha district. The zoo became famous for its 'cross-species' social experiments, such as sows nursing tiger cubs, which were a hallmark of its marketing. However, following the global pandemic and increasing scrutiny over animal welfare and international trade regulations, the zoo closed its doors in 2021, marking the end of an era for Thailand's traditional animal-based tourism industry.",
       de: "Sriracha Tigerzoo (Landwirtschaft) ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Neben den Tiershows war der Zoo auch ein Wirtschaftsunternehmen, das in die Zucht von Tigern und Krokodilen für den Handel involviert war, was ihn zu einem umstrittenen Agrar-/Industriestandort machte. Bekannt für seine große Anzahl von Bengaltigern. Hatte Programme, bei denen sich Tigerjunge und Ferkel gegenseitig aufzogen. Stand wegen Tierschutzbedenken in der Kritik. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -157,9 +153,8 @@ image: "/poi-images/sriracha-tiger-zoo-economic-v2.webp"
       de: "Mae Moh Braunkohletagebau",
       hu: "Mae Moh lignitbánya",
       ro: "Mina de lignit Mae Moh",
-      en: "Mae Moh Lignite Mine",
-image: "/poi-images/mae-moh-lignite-mine-economic-v2.webp"
-},
+      en: "Mae Moh Lignite Mine"},
+    image: "/poi-images/mae-moh-lignite-mine-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Mae Moh Lignite Mine, located in Lampang province, is the largest open-pit coal mine in Southeast Asia and a critical pillar of Thailand's energy infrastructure. Operated by the Electricity Generating Authority of Thailand (EGAT), the mine produces millions of tons of lignite (brown coal) annually to fuel the adjacent Mae Moh Power Plant. This integrated complex provides approximately 10-15% of the country's total electricity supply, powering much of Northern and Central Thailand. The mine's scale is immense, spanning over 135 square kilometers and reaching depths of several hundred meters. While essential for national energy security and low-cost power, the mine has historically faced challenges related to air quality and local health, leading to the installation of advanced emission control systems and extensive environmental rehabilitation projects, including the creation of a massive botanical garden on former mining sites.",
       de: "Mae Moh Braunkohletagebau ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Thailands größter Tagebau für Braunkohle, der das angrenzende Kraftwerk versorgt und ein wichtiger Bestandteil der Energieinfrastruktur des Landes ist. Wird von der Electricity Generating Authority of Thailand (EGAT) betrieben. Verantwortlich für einen erheblichen Teil der Stromerzeugung Thailands. Hat zu erheblichen Umwelt- und Gesundheitsproblemen in der Region geführt. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -193,9 +188,8 @@ image: "/poi-images/mae-moh-lignite-mine-economic-v2.webp"
       de: "Hafen Bangkok (Khlong Toei)",
       hu: "Bangkok kikötő (Khlong Toei)",
       ro: "Portul Bangkok (Khlong Toei)",
-      en: "Bangkok Port (Khlong Toei)",
-image: "/poi-images/bangkok-port-khlong-toei-economic-v2.webp"
-},
+      en: "Bangkok Port (Khlong Toei)"},
+    image: "/poi-images/bangkok-port-khlong-toei-economic-v2.webp",
     descriptionAdvanced: {
       en: "Bangkok Port, commonly known as Khlong Toei Port, is the historic gateway for Thailand's international trade, situated on the banks of the Chao Phraya River in the heart of the capital. Established in 1947, it served as the nation's primary shipping hub for decades before the development of the deep-sea port at Laem Chabang. Despite the shift of large container vessels to the coast, Khlong Toei remains a vital logistics center, handling nearly 1.5 million TEUs annually. Its location within the city allows for efficient distribution of consumer goods and raw materials directly to the Bangkok metropolitan market. The port is a complex ecosystem of terminals, warehouses, and customs facilities, managed by the Port Authority of Thailand. It plays a dual role as an economic engine and a major employer, while also being a central part of the urban landscape and ongoing discussions about Bangkok's future waterfront development.",
       de: "Hafen Bangkok (Khlong Toei) ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Ein großer Seehafen am Chao Phraya Fluss, der historisch der wichtigste internationale Hafen Thailands war, bevor Laem Chabang gebaut wurde. Auch als Khlong Toei Port bekannt. Liegt zentral in Bangkok, was zu Verkehrsproblemen führt. Fertigt heute hauptsächlich Stückgut und Küstenhandel ab. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -230,9 +224,8 @@ image: "/poi-images/bangkok-port-khlong-toei-economic-v2.webp"
       de: "Chatuchak Wochenendmarkt",
       hu: "Chatuchak hétvégi piac",
       ro: "Piața de Weekend Chatuchak",
-      en: "Chatuchak Weekend Market",
-image: "/poi-images/chatuchak-weekend-market-economic-v2.webp"
-},
+      en: "Chatuchak Weekend Market"},
+    image: "/poi-images/chatuchak-weekend-market-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Chatuchak Weekend Market, also known as 'JJ Market,' is the ultimate symbol of Thailand's vibrant retail economy and the largest outdoor market in the world. Spanning over 35 acres and housing more than 15,000 stalls, it is an economic powerhouse that attracts over 200,000 visitors every weekend. The market is organized into 27 sections, offering an overwhelming variety of goods, including fashion, home decor, plants, antiques, books, and even exotic pets. Chatuchak is a vital incubator for Thailand's small and medium-sized enterprises (SMEs), where many local designers and artists launch their careers. It serves as a major export hub, with many international buyers sourcing unique Thai products for global distribution. Beyond its economic impact, Chatuchak is a cultural phenomenon, offering a sensory-rich experience that reflects the entrepreneurial spirit and diverse creative output of the Thai people.",
       de: "Chatuchak Wochenendmarkt ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Einer der größten Märkte der Welt, ein riesiger Handelsplatz, der eine unglaubliche Vielfalt an Waren von Kleidung bis hin zu Antiquitäten und Haustieren anbietet. Hat über 15.000 Stände. Zieht an einem Wochenende über 200.000 Besucher an. Ein wichtiger Wirtschaftsmotor für Kleinunternehmer. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -267,9 +260,8 @@ image: "/poi-images/chatuchak-weekend-market-economic-v2.webp"
       de: "Bo Sang Schirmdorf",
       hu: "Bo Sang esernyőfalu",
       ro: "Satul de umbrele Bo Sang",
-      en: "Bo Sang Umbrella Village",
-image: "/poi-images/bo-sang-umbrella-village-economic-v2.webp"
-},
+      en: "Bo Sang Umbrella Village"},
+    image: "/poi-images/bo-sang-umbrella-village-economic-v2.webp",
     descriptionAdvanced: {
       en: "Bo Sang Umbrella Village, located just outside Chiang Mai, is a world-renowned center for traditional Thai handicrafts and a prime example of a successful community-based industry. The village has specialized in the production of hand-painted paper umbrellas for over 200 years, a craft allegedly introduced by a monk who learned the technique in neighboring Burma. The umbrellas are made from 'Saa' paper (derived from the bark of the mulberry tree) and locally sourced bamboo and silk. Bo Sang is a unique economic ecosystem where nearly every household is involved in a specific part of the production process, from frame making to intricate floral painting. Today, the village is a major cultural tourism destination where visitors can witness the entire manufacturing cycle. Its products are exported globally, representing the artistic heritage of the Lanna Kingdom and providing a sustainable livelihood for hundreds of local families.",
       de: "Bo Sang Schirmdorf ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Ein Handwerksdorf in der Nähe von Chiang Mai, das für die Herstellung handgefertigter Sonnenschirme aus Saa-Papier und Seide bekannt ist, ein Beispiel für lokale, auf Tourismus ausgerichtete Industrie. Die Schirme sind oft mit bunten Blumenmustern bemalt. Besucher können den gesamten Herstellungsprozess beobachten. Ein Zentrum für Handwerkskunst und ein wichtiger Wirtschaftszweig für die Gemeinde. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -303,9 +295,8 @@ image: "/poi-images/bo-sang-umbrella-village-economic-v2.webp"
       de: "Tiefseehafen Songkhla",
       hu: "Songkhla mélytengeri kikötő",
       ro: "Portul de Mare Adâncime Songkhla",
-      en: "Songkhla Deep Sea Port",
-image: "/poi-images/songkhla-deep-sea-port-economic-v2.webp"
-},
+      en: "Songkhla Deep Sea Port"},
+    image: "/poi-images/songkhla-deep-sea-port-economic-v2.webp",
     descriptionAdvanced: {
       en: "Songkhla Deep Sea Port is the most critical maritime gateway for Southern Thailand, facilitating the region's vast exports of rubber, seafood, and agricultural products. Situated at the mouth of the Songkhla Lake, the port was developed in the late 1980s to support the economic growth of the southern provinces and reduce reliance on transport to Bangkok. It serves as a vital link for trade with neighboring Malaysia, Singapore, and East Asian markets. The port features modern container and general cargo terminals and is a primary hub for the export of concentrated latex and smoked rubber sheets, for which the region is world-famous. Beyond trade, the port is an essential logistics base for the offshore oil and gas industry in the Gulf of Thailand. Its presence has transformed Songkhla into a major maritime services center, driving local employment and supporting the industrial development of the Southern Seaboard.",
       de: "Tiefseehafen Songkhla ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Ein wichtiger Hafen im Süden Thailands, der den Handel mit Malaysia und anderen südostasiatischen Ländern erleichtert, insbesondere für Gummiexporte. Unterstützt die Gummi- und Meeresfrüchteindustrie der Region. Dient als Ergänzung zum überlasteten Hafen von Penang in Malaysia. Spielt eine strategische Rolle in der Entwicklung des Südens. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -340,9 +331,8 @@ image: "/poi-images/songkhla-deep-sea-port-economic-v2.webp"
       de: "Gasfelder im Golf von Thailand",
       hu: "A Thai-öböl gázmezői",
       ro: "Câmpurile de gaze din Golful Thailandei",
-      en: "Gulf of Thailand Gas Fields",
-image: "/poi-images/gulf-of-thailand-gas-fields-economic-v2.webp"
-},
+      en: "Gulf of Thailand Gas Fields"},
+    image: "/poi-images/gulf-of-thailand-gas-fields-economic-v2.webp",
     descriptionAdvanced: {
       en: "The Gulf of Thailand Gas Fields are the literal powerhouse of the Thai economy, providing the natural gas that generates more than half of the country's electricity. Since the first major discovery of natural gas in the 1970s, the offshore basins, particularly the Erawan and Bongkot fields, have transformed Thailand into a regional energy leader. This domestic resource was the primary catalyst for the development of the Eastern Seaboard's heavy industry and petrochemical sectors. Hundreds of offshore platforms are connected by a vast network of subsea pipelines to processing plants on the coast, particularly in Rayong and Songkhla. These fields not only provide fuel for power plants but also raw materials for a wide range of industries, from plastics to fertilizers. As these mature fields face natural decline, they continue to be a focus of strategic investment and a driver for the development of Thailand's advanced offshore engineering and service industries.",
       de: "Gasfelder im Golf von Thailand ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Ein riesiges Gebiet im Golf von Thailand mit zahlreichen Offshore-Erdgasfeldern, die das Rückgrat der thailändischen Energieversorgung bilden. Das Erawan-Gasfeld ist eines der größten. Das Gas wird über Pipelines an Land zu den Kraftwerken transportiert. Die Erschließung begann in den 1970er Jahren. Dieser Standort spielt eine Rolle in der Wirtschaft Thailands, geprägt von Reisanbau, Tourismus, Textil- und Elektronikindustrie. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -377,9 +367,8 @@ image: "/poi-images/gulf-of-thailand-gas-fields-economic-v2.webp"
       de: "Schwimmender Markt Damnoen Saduak",
       hu: "Damnoen Saduak úszópiac",
       ro: "Piața Plutitoare Damnoen Saduak",
-      en: "Damnoen Saduak Floating Market",
-image: "/poi-images/damnoen-saduak-floating-market-economic-v2.webp"
-},
+      en: "Damnoen Saduak Floating Market"},
+    image: "/poi-images/damnoen-saduak-floating-market-economic-v2.webp",
     description: {
       de: "Ein berühmter schwimmender Markt in Ratchaburi, wo Händler ihre Waren, insbesondere Lebensmittel und landwirtschaftliche Produkte, von kleinen Booten aus verkaufen. Heute ist er hauptsächlich eine Touristenattraktion.",
       hu: "Híres úszópiac Ratchaburiban, ahol az árusok kis csónakokból árulják portékáikat, különösen élelmiszereket és mezőgazdasági termékeket. Ma már főleg turisztikai látványosság.",
@@ -413,9 +402,8 @@ image: "/poi-images/damnoen-saduak-floating-market-economic-v2.webp"
       de: "Vogelnest-Industrie Phatthalung",
       hu: "Phatthalungi Fecskefészek-ipar",
       ro: "Industria cuiburilor de păsări Phatthalung",
-      en: "Phatthalung Bird's Nest Industry",
-image: "/poi-images/phatthalung-bird-nest-industry-economic-v2.webp"
-},
+      en: "Phatthalung Bird's Nest Industry"},
+    image: "/poi-images/phatthalung-bird-nest-industry-economic-v2.webp",
     description: {
       de: "Die Region um den Songkhla-See ist bekannt für die Ernte von essbaren Vogelnestern, die von Salanganen in Höhlen gebaut werden. Eine hochwertige, exportorientierte Luxusindustrie.",
       hu: "A Songkhla-tó környéke a szalangánák által barlangokban épített ehető madárfészkek begyűjtéséről ismert. Egy magas minőségű, exportorientált luxusiparág.",
@@ -450,9 +438,8 @@ image: "/poi-images/phatthalung-bird-nest-industry-economic-v2.webp"
       de: "Solarfarm Chachoengsao",
       hu: "Chachoengsao Naperőmű",
       ro: "Ferma Solară Chachoengsao",
-      en: "Chachoengsao Solar Farm",
-image: "/poi-images/chachoengsao-solar-farm-economic-v2.webp"
-},
+      en: "Chachoengsao Solar Farm"},
+    image: "/poi-images/chachoengsao-solar-farm-economic-v2.webp",
     description: {
       de: "Standort einer der größten Solarfarmen Thailands, die Teil der Bemühungen des Landes ist, den Anteil erneuerbarer Energien in seinem Energiemix zu erhöhen.",
       hu: "Thaiföld egyik legnagyobb naperőművének helyszíne, amely az ország azon törekvésének része, hogy növelje a megújuló energiaforrások arányát az energiamixében.",
@@ -486,9 +473,8 @@ image: "/poi-images/chachoengsao-solar-farm-economic-v2.webp"
       de: "Grenzübergang Sadao",
       hu: "Sadao határátkelő",
       ro: "Punctul de Trecere a Frontierei Sadao",
-      en: "Sadao Border Crossing",
-image: "/poi-images/sadao-border-crossing-economic-v2.webp"
-},
+      en: "Sadao Border Crossing"},
+    image: "/poi-images/sadao-border-crossing-economic-v2.webp",
     description: {
       de: "Der verkehrsreichste Landgrenzübergang zwischen Thailand und Malaysia, ein wichtiger Knotenpunkt für Handel und Tourismus.",
       hu: "A legforgalmasabb szárazföldi határátkelő Thaiföld és Malajzia között, a kereskedelem és a turizmus fontos csomópontja.",
@@ -522,9 +508,8 @@ image: "/poi-images/sadao-border-crossing-economic-v2.webp"
       de: "Siam Cement Group Hauptsitz",
       hu: "Siam Cement Group Székház",
       ro: "Sediul Central Siam Cement Group",
-      en: "Siam Cement Group Headquarters",
-image: "/poi-images/siam-cement-group-hq-economic-v2.webp"
-},
+      en: "Siam Cement Group Headquarters"},
+    image: "/poi-images/siam-cement-group-hq-economic-v2.webp",
     description: {
       de: "Hauptsitz eines der größten Zement- und Bauproduktkonglomerate in Südostasien, ein wichtiger Akteur in der thailändischen Wirtschaft seit über einem Jahrhundert.",
       hu: "Délkelet-Ázsia egyik legnagyobb cement- és építőanyag-konglomerátumának központja, amely több mint egy évszázada a thaiföldi gazdaság egyik kulcsszereplője.",
@@ -558,9 +543,8 @@ image: "/poi-images/siam-cement-group-hq-economic-v2.webp"
       de: "Hafen von Ranong",
       hu: "Ranong kikötő",
       ro: "Portul Ranong",
-      en: "Ranong Port",
-image: "/poi-images/ranong-port-economic-v2.webp"
-},
+      en: "Ranong Port"},
+    image: "/poi-images/ranong-port-economic-v2.webp",
     description: {
       de: "Ein Hafen an der Andamanenseeküste, der strategisch günstig für den Handel mit Südasien und dem Nahen Osten liegt und Teil der südlichen Wirtschaftskorridorpläne ist.",
       hu: "Kikötő az Andamán-tenger partján, amely stratégiailag kedvező helyen fekszik a Dél-Ázsiával és a Közel-Kelettel folytatott kereskedelem szempontjából, és a déli gazdasági folyosó terveinek része.",
@@ -594,9 +578,8 @@ image: "/poi-images/ranong-port-economic-v2.webp"
       de: "CentralWorld als Handelszentrum",
       hu: "CentralWorld mint Kereskedelmi Központ",
       ro: "CentralWorld ca Hub Comercial",
-      en: "CentralWorld as a Trade Hub",
-image: "/poi-images/central-world-trade-hub-economic-v2.webp"
-},
+      en: "CentralWorld as a Trade Hub"},
+    image: "/poi-images/central-world-trade-hub-economic-v2.webp",
     description: {
       de: "Ein riesiger Einkaufskomplex im Herzen von Bangkok, der als wichtiger Knotenpunkt für den nationalen und internationalen Einzelhandel und als Symbol für die moderne thailändische Konsumkultur dient.",
       hu: "Hatalmas bevásárlóközpont Bangkok szívében, amely a hazai és nemzetközi kiskereskedelem fontos csomópontja, és a modern thaiföldi fogyasztói kultúra szimbóluma.",
@@ -630,9 +613,8 @@ image: "/poi-images/central-world-trade-hub-economic-v2.webp"
       de: "Thai Beverage Hauptsitz",
       hu: "Thai Beverage Székház",
       ro: "Sediul Central Thai Beverage",
-      en: "Thai Beverage Headquarters",
-image: "/poi-images/thai-beverage-hq-economic-v2.webp"
-},
+      en: "Thai Beverage Headquarters"},
+    image: "/poi-images/thai-beverage-hq-economic-v2.webp",
     description: {
       de: "Hauptsitz von Thailands größtem und einem der größten Getränkeunternehmen Südostasiens. Produzent von Chang Bier, Spirituosen und alkoholfreien Getränken.",
       hu: "Thaiföld legnagyobb és Délkelet-Ázsia egyik legnagyobb italgyártó vállalatának központja. A Chang sör, szeszes italok és alkoholmentes italok gyártója.",
@@ -666,9 +648,8 @@ image: "/poi-images/thai-beverage-hq-economic-v2.webp"
       de: "Goldminen von Phichit",
       hu: "Phichit aranybányák",
       ro: "Minele de aur Phichit",
-      en: "Phichit Gold Mines",
-image: "/poi-images/phichit-gold-mines-economic-v2.webp"
-},
+      en: "Phichit Gold Mines"},
+    image: "/poi-images/phichit-gold-mines-economic-v2.webp",
     description: {
       de: "Standort von Thailands größter und einziger kommerzieller Goldmine, der Chatree-Mine. Der Betrieb war aufgrund von Umwelt- und Gesundheitsbedenken umstritten.",
       hu: "Thaiföld legnagyobb és egyetlen kereskedelmi aranybányájának, a Chatree bányának a helyszíne. Működése környezetvédelmi és egészségügyi aggályok miatt vitatott volt.",
@@ -702,9 +683,8 @@ image: "/poi-images/phichit-gold-mines-economic-v2.webp"
       de: "Bangkok Edelstein- und Schmuckmesse",
       hu: "Bangkok Drágakő és Ékszer Vásár",
       ro: "Târgul de Pietre Prețioase și Bijuterii din Bangkok",
-      en: "Bangkok Gems and Jewelry Fair",
-image: "/poi-images/bangkok-gems-and-jewelry-fair-economic-v2.webp"
-},
+      en: "Bangkok Gems and Jewelry Fair"},
+    image: "/poi-images/bangkok-gems-and-jewelry-fair-economic-v2.webp",
     description: {
       de: "Eine der weltweit führenden Handelsmessen für die Edelstein- und Schmuckindustrie, die zweimal jährlich stattfindet und die Rolle Thailands als globaler Handelsplatz unterstreicht.",
       hu: "A drágakő- és ékszeripar egyik vezető világvására, amelyet évente kétszer rendeznek meg, és amely hangsúlyozza Thaiföld globális kereskedelmi központként betöltött szerepét.",

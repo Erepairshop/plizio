@@ -7,379 +7,675 @@ export const poiExtraSouthafricaReliefV2: POI[] = [
     type: "mountain",
     parent: "ZA-KZN",
     coords: [29.288, -29.355],
-    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg",
-image: "/poi-images/drakensberg-relief-v2.webp"
-},
+    name: { de: "Drakensberge", hu: "Drakensberg", ro: "Munții Drakensberg", en: "Drakensberg"},
+    image: "/poi-images/drakensberg-relief-v2.webp",
     description: { de: "Das höchste Gebirge Südafrikas mit markanten Gipfeln.", hu: "Dél-Afrika legmagasabb hegysége látványos csúcsokkal.", ro: "Cel mai înalt lanț muntos din Africa de Sud cu vârfuri spectaculoase.", en: "The highest mountain range in South Africa with striking peaks." },
     facts: {
       de: ["Höchster Gipfel Thabana Ntlenyana.", "Teil des UNESCO-Welterbes.", "Bekannt als 'uKhahlamba'."],
       hu: ["Legmagasabb csúcs: Thabana Ntlenyana.", "UNESCO világörökség része.", "Ismert 'uKhahlamba'-ként is."],
       ro: ["Vârful cel mai înalt: Thabana Ntlenyana.", "Parte a Patrimoniului Mondial UNESCO.", "Cunoscut și ca 'uKhahlamba'."],
       en: ["Highest peak: Thabana Ntlenyana.", "Part of UNESCO World Heritage.", "Known as 'uKhahlamba'."]
-    }, image: "/poi-images/drakensberg-relief-v2.webp"},
+    }, image: "/poi-images/drakensberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Drakensberge im Osten Südafrikas sind das höchste Gebirge des Landes, mit Gipfeln über 3.000 m. Sie erstrecken sich über 1.000 km von Ostkap bis Mpumalanga. Der höchste Gipfel, der Mafadi, erreicht 3.450 m. Die Berge entstanden durch Vulkanismus vor 180 Millionen Jahren. Sie sind UNESCO-Weltkulturerbe für ihre San-Felsmalereien. Die Region ist reich an Flora mit endemischen Arten.",
+      hu: "A Drakensberg-hegység Dél-Afrika legmagasabb hegylánca, leghosszabb része 200 km. A legmagasabb csúcs a Thabana Ntlenyana (Lesotho) mellett a Mafadi (3450 m). A hegység vulkanikus eredetű, bazalt rétegekkel. Az UNESCO világörökség része (uKhahlamba park). A növényzet alpesi réteket és erdőket foglal magában. Itt él a veszélyeztetett fehérfarkú sas.",
+      ro: "Munții Dragonului (Drakensberg) formează o barieră naturală între Africa de Sud și Lesotho. Cel mai înalt vârf este Mafadi (3.450 m). Lanțul muntos se întinde pe 1.000 km. Este recunoscut de UNESCO pentru peisaj și picturile rupestre San. Clima variază de la subtropical la alpin. Specii endemice: țestoasa Drakensberg și 39 de specii de plante.",
+      en: "The Drakensberg Mountains extend over 1,000 km, forming the eastern escarpment. The highest peak Mafadi reaches 3,450 m. The range is a UNESCO World Heritage Site (Maloti-Drakensberg Park) for its natural beauty and San rock art. The vegetation includes Afro-alpine grasslands and forests. The mountains are a major source of water for the region, with many rivers rising here.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Mafadi (3.450 m)", "Länge: 1.000 km", "Alter: 180 Millionen Jahre", "UNESCO-Welterbe seit 2000", "San-Felsmalereien: über 35.000 Abbildungen", "Endemische Pflanzen: 146 Arten"],
+      hu: ["Legmagasabb: Mafadi (3450 m)", "Hossz: 200 km a lesothoi határ mentén", "Vulkanikus bazalt vastagság: 1.000 m", "UNESCO világörökség: uKhahlamba park (2000)", "San sziklarajzok: 35.000 darab", "Védett madárfajok: 45"],
+      ro: ["Vârf: Mafadi (3.450 m)", "Lungime: 1.000 km", "Altitudine medie: 2.000 m", "UNESCO din 2000", "Picturi rupestre: peste 35.000", "Parcul Maloti-Drakensberg: 2.428 km²"],
+      en: ["Highest peak: Mafadi at 3,450 m", "Total length: 1,000 km", "Part of the Great Escarpment", "UNESCO site since 2000", "San rock art: over 35,000 images", "Alpine zone above 2,800 m"],
+    },
+  },
   {
     id: "table-mountain-relief-v2",
     type: "mountain",
     parent: "ZA-WC",
     coords: [18.406, -33.963],
-    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain",
-image: "/poi-images/table-mountain-relief-v2.webp"
-},
+    name: { de: "Tafelberg", hu: "Tábla-hegy", ro: "Muntele Masă", en: "Table Mountain"},
+    image: "/poi-images/table-mountain-relief-v2.webp",
     description: { de: "Ein markanter, flacher Berg über Kapstadt.", hu: "Jellegzetes, lapos tetejű hegy Fokváros felett.", ro: "Un munte plat caracteristic deasupra orașului Cape Town.", en: "A striking, flat-topped mountain above Cape Town." },
     facts: {
       de: ["Höhe ca. 1086 m.", "Wahrzeichen Kapstadts.", "Nationalpark-Gebiet."],
       hu: ["Magassága kb. 1086 m.", "Fokváros jelképe.", "Nemzeti park terület."],
       ro: ["Înălțime aprox. 1086 m.", "Simbolul orașului Cape Town.", "Zonă de parc național."],
       en: ["Height approx. 1086 m.", "Cape Town's landmark.", "National Park area."]
-    }, image: "/poi-images/table-mountain-relief-v2.webp"},
+    }, image: "/poi-images/table-mountain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tafelberg in Kapstadt ist ein 1.085 m hoher Tafelberg mit einer 3 km langen flachen Spitze. Er ist das Wahrzeichen der Stadt und ein UNESCO-Welterbe. Die Felsen bestehen aus quarzitischem Sandstein (Ordovizium). Die Vegetation ist endemischer Kap-Fynbos mit über 1.400 Pflanzenarten. Die Tafelbucht und der City Bowl liegen zu seinen Füßen. Der Berg ist Teil des Tafelberg-Nationalparks.",
+      hu: "A Tábla-hegy (Table Mountain) Fokváros ikonikus hegye, 1085 m magas. A lapos tetejét gyakran felhők borítják (abrosz). A hegy geológiailag 500 millió éves tengeri üledékből áll. A fynbos növényzet 1470 fajt számlál. A hegycsúcsra siklóval lehet feljutni, 1929 óta működik. A parkba 1998-ban nyilvánították.",
+      ro: "Masa Table Mountain (Muntele Masa) are o altitudine de 1.085 m și o suprafață plată de 3 km. Este un simbol al orașului Cape Town, desemnat sit UNESCO în 1998. Formațiunea de gresie datează de 500 de milioane de ani. Endemismele vegetale sunt unice: 1.470 de specii de plante, majoritatea fynbos. Trasee de drumeție: 20. Telecabina transportă 2.000 de persoane pe oră.",
+      en: "Table Mountain rises 1,085 m above Cape Town, its flat top spanning 3 km. A UNESCO Global Geopark, it is composed of Cape Supergroup sandstone. The mountain hosts 1,470 floral species, many endemic. It was declared a national park in 1998. The iconic aerial cableway, operational since 1929, carries millions of visitors. Historically, the mountain was used as a navigation landmark by early explorers.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.085 m", "Länge der Spitze: 3 km", "Alter: 500 Millionen Jahre", "Pflanzenarten: über 1.400", "Sesselbahn: 1929 eröffnet", "Nationalpark seit 1998"],
+      hu: ["Magasság: 1085 m", "Lapos tetejű terület: 3 km × 0,5 km", "Kora: 500 millió év", "Növényfaj: 1470", "Siklóvasút hossza: 1,2 km", "Látogatók évente: 2 millió"],
+      ro: ["Înălțime: 1.085 m", "Suprafața plată: 3 km lungime", "Vârsta: 500 milioane de ani", "Specii de plante: 1.470", "Telecabina: lungime 1.220 m, cădere 792 m", "Parcul Național Table Mountain: 22.000 ha"],
+      en: ["Elevation: 1,085 m", "Tabletop area: 3 km long", "Geological age: 500 million years", "Cableway opened: 1929", "Plants: 1,470 species", "National park size: 22,000 ha"],
+    },
+  },
   {
     id: "cederberg-relief-v2",
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.25, -32.5],
-    name: { de: "Cederberge", hu: "Cederberg-hegység", ro: "Munții Cederberg", en: "Cederberg Mountains",
-image: "/poi-images/cederberg-relief-v2.webp"
-},
+    name: { de: "Cederberge", hu: "Cederberg-hegység", ro: "Munții Cederberg", en: "Cederberg Mountains"},
+    image: "/poi-images/cederberg-relief-v2.webp",
     description: { de: "Ein Gebirge bekannt für seine bizarren Felsformationen.", hu: "Bizarr sziklaformációiról ismert hegység.", ro: "Lanț muntos cunoscut pentru formațiunile sale stâncoase bizare.", en: "A mountain range known for its bizarre rock formations." },
     facts: {
       de: ["Bekannt für San-Felszeichnungen.", "Wildnisgebiet.", "Sandsteinformationen."],
       hu: ["Híres a szan sziklarajzokról.", "Vadvilági terület.", "Homokkő formációk."],
       ro: ["Faimos pentru picturile rupestre San.", "Zonă de sălbăticie.", "Formațiuni de gresie."],
       en: ["Known for San rock paintings.", "Wilderness area.", "Sandstone formations."]
-    }, image: "/poi-images/cederberg-relief-v2.webp"},
+    }, image: "/poi-images/cederberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Cederberg-Gebirge in der Westkap-Provinz ist bekannt für seine bizarre Felsformationen und San-Felsmalereien. Höchster Punkt ist der Sneeuberg (2.026 m). Das Gebirge besteht hauptsächlich aus Sandstein. Die Region ist berühmt für den gefährdeten Clanwilliam-Zeder (Widdringtonia cedarbergensis). Es gibt mehrere Naturschutzgebiete, darunter das Cederberg Wilderness Area (70.000 ha).",
+      hu: "A Cederberg-hegység a Nyugat-Fokföldön található, legismertebb része a Wolfberg Arch (természetes sziklaív). A hegység 400 millió éves tengeri üledékből áll. A terület 70.000 hektáros vadon. Itt él a veszélyeztetett cedervirág (Agathosma). Számos túraútvonal és mászóhely található. A Busman's Hole (Szentellátás) barlangban sziklarajzok láthatók.",
+      ro: "Munții Cederberg sunt formațiuni de gresie de 400 de milioane de ani. Cel mai înalt vârf este Sneeuberg la 2.026 m. Zona protejată Matroosterberg are 71.000 ha. Endemic aici se găsește cedrul Clanwilliam, o coniferă rară. Clima mediteraneană cu precipitații anuale de 800 mm. Peisajul include arcuri de stâncă și peșteri cu picturi rupestre.",
+      en: "The Cederberg Mountains, 200 km north of Cape Town, are famous for their sandstone formations and ancient San rock art. The highest point is Sneeuberg at 2,026 m. The area was declared a wilderness area in 1973. It is home to the endangered Clanwilliam cedar tree. The Cederberg is a popular destination for hiking, rock climbing, and stargazing.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Sneeuberg (2.026 m)", "Schutzgebietsgröße: 70.000 ha", "Alter: 400 Millionen Jahre", "Clanwilliam-Zeder: nur hier vorkommend", "San-Felsmalereien: über 2.000 Stätten", "Jährliche Besucher: 150.000"],
+      hu: ["Legmagasabb: Sneeuberg (2026 m)", "Vadon területe: 70.000 ha", "Wolfberg Arch magassága: 20 m", "Clanwilliam cédrus: 5 m magasra nő", "Túraútvonal: 200 km", "Barlangok: 30 ismert"],
+      ro: ["Vârf: Sneeuberg (2.026 m)", "Suprafață protejată: 71.000 ha", "Arc natural Wolfberg: 20 m înălțime", "Cedrul Clanwilliam: 2.000 de exemplare rămase", "Picturi rupestre: 2.500 de situri", "Precipitații: 600-1.000 mm/an"],
+      en: ["Highest peak: Sneeuberg at 2,026 m", "Protected area: 71,000 ha", "Established as wilderness: 1973", "Clanwilliam cedar: fewer than 2,000 individuals", "Rock art sites: over 2,500", "Hiking trails: 150 km total"],
+    },
+  },
   {
     id: "swartberg-relief-v2",
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.0, -33.3],
-    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg Mountains",
-image: "/poi-images/swartberg-relief-v2.webp"
-},
+    name: { de: "Swartberge", hu: "Swartberg-hegység", ro: "Munții Swartberg", en: "Swartberg Mountains"},
+    image: "/poi-images/swartberg-relief-v2.webp",
     description: { de: "Eine beeindruckende Bergkette in der Kleinen Karoo.", hu: "Lenyűgöző hegylánc a Kis-Karoo régióban.", ro: "Un lanț muntos impresionant în regiunea Little Karoo.", en: "An impressive mountain range in the Little Karoo." },
     facts: {
       de: ["Swartberg-Pass ist eine berühmte Route.", "Teil der Kap-Faltengebirge.", "Hohe geologische Vielfalt."],
       hu: ["A Swartberg-hágó híres útvonal.", "A Fokföldi-hegyrendszer része.", "Magas geológiai változatosság."],
       ro: ["Trecătoarea Swartberg este o rută celebră.", "Parte a lanțului muntos Cape Fold.", "Diversitate geologică mare."],
       en: ["Swartberg Pass is a famous route.", "Part of Cape Fold Belt.", "High geological diversity."]
-    }, image: "/poi-images/swartberg-relief-v2.webp"},
+    }, image: "/poi-images/swartberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Swartberg-Gebirge (Schwarzes Gebirge) in der Westkap-Provinz ist ein Teil der Kapfaltengebirge. Der höchste Gipfel ist der Seweweekspoort (2.325 m). Die Berge bestehen aus devonischem Quarzit und Schiefer. Der Swartberg-Pass (69 km) ist eine berühmte Schotterstraße, die Oudtshoorn verbindet. Die Flora umfasst den Fynbos-Busch. Das Gebirge ist Teil des Cape Floral Kingdom UNESCO-Welterbes.",
+      hu: "A Swartberg (Fekete-hegység) a Nyugat-Fokföldön húzódik, leghosszabb része 80 km. A legmagasabb csúcs a Seweweekspoort (2325 m). A hegységet a Swartberg-hágó szeli át, amely 69 km hosszú és 1922-ben épült. A növényzet fynbos, 500 fajjal. A terület a Fokföldi Virágzóna része. Az éghajlat mediterrán, télen havazás is előfordul.",
+      ro: "Munții Swartberg se întind pe 80 km, cu vârful Seweweekspoort la 2.325 m. Trece prin ei Pasul Swartberg, un drum de pietriș de 69 km construit în 1922. Zona face parte din Regiunea Floristică a Capului, sit UNESCO. Vegetația este fynbos, cu 500 de specii. Clima este mediteraneană, cu precipitații de 300-600 mm/an. În trecut, a fost exploatat pentru aur și șisturi bituminoase.",
+      en: "The Swartberg Mountains run roughly east-west for 80 km in the Western Cape. The highest point is Seweweekspoort Peak at 2,325 m. The Swartberg Pass, built by convicts between 1881 and 1888, is a gravel road connecting the Great Karoo to the Little Karoo. The mountains are part of the Cape Fold Belt. The area is rich in endemic plants and fossil evidence.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Seweweekspoort (2.325 m)", "Länge: 80 km", "Swartberg-Pass: 69 km Schotterstraße", "Baujahr: 1881-1888", "Teil des Kap-Faltengebirges", "Fynbos-Arten: 500"],
+      hu: ["Legmagasabb: Seweweekspoort (2325 m)", "Hossz: 80 km", "Swartberg-hágó: 69 km hossz, 1922-ben adták át", "Építők: 600 elítélt", "Átlagos magasság: 1500 m", "Téli hóvastagság: akár 30 cm"],
+      ro: ["Vârf: Seweweekspoort (2.325 m)", "Lungime: 80 km", "Pasul Swartberg: 69 km drum de pietriș", "Construit între 1881-1888", "Altitudine medie: 1.500 m", "Parte a Patrimoniului UNESCO Cape Floral Region"],
+      en: ["Highest peak: Seweweekspoort at 2,325 m", "Length of range: 80 km", "Swartberg Pass: 69 km gravel road", "Construction: 1881-1888 by convicts", "Part of Cape Fold Belt", "UNESCO World Heritage site (Cape Floral Kingdom)"],
+    },
+  },
   {
     id: "outeniqua-relief-v2",
     type: "mountain",
     parent: "ZA-WC",
     coords: [22.5, -33.9],
-    name: { de: "Outeniqua-Berge", hu: "Outeniqua-hegység", ro: "Munții Outeniqua", en: "Outeniqua Mountains",
-image: "/poi-images/outeniqua-relief-v2.webp"
-},
+    name: { de: "Outeniqua-Berge", hu: "Outeniqua-hegység", ro: "Munții Outeniqua", en: "Outeniqua Mountains"},
+    image: "/poi-images/outeniqua-relief-v2.webp",
     description: { de: "Ein Gebirgszug entlang der Gartenroute.", hu: "Hegylánc a Garden Route mentén.", ro: "Lanț muntos de-a lungul rutei Garden Route.", en: "A mountain range along the Garden Route." },
     facts: {
       de: ["Wichtige Wasserscheide.", "Feuchte, grüne Vegetation.", "Traditionelle Passstraßen."],
       hu: ["Fontos vízválasztó.", "Nedves, zöld növényzet.", "Tradicionális hágók."],
       ro: ["Importator cumpănă de ape.", "Vegetație umedă și verde.", "Drumuri de trecătoare tradiționale."],
       en: ["Important watershed.", "Moist, green vegetation.", "Traditional mountain passes."]
-    }, image: "/poi-images/outeniqua-relief-v2.webp"},
+    }, image: "/poi-images/outeniqua-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Outeniqua-Berge im Süden der Westkap-Provinz verlaufen parallel zur Küste. Der höchste Gipfel ist der Cradock Peak (1.577 m). Die Bergregion ist dicht bewaldet (Knysna-Wälder). Sie trennt die Garden Route vom Kleinen Karoo. Berühmt ist die historische Schmalspurbahn Outeniqua Choo-Tjoe, die von 1928 bis 2009 verkehrte. Die Berge sind reich an Goldvorkommen, was im 19. Jahrhundert zu einem kleinen Goldrausch führte.",
+      hu: "Az Outeniqua-hegység a Garden Route mentén húzódik, 250 km hosszan. Legmagasabb pontja a Cradock Peak (1577 m). A hegységben ered a Kaaimans-folyó. A terület híres a knysnai erdőkről, ahol a sárga fa (Afrocarpus falcatus) akár 60 m magasra is nő. A hegységet átszelő Montagu-hágó (1847-ben épült) fontos közlekedési útvonal. A turisták kedvelik a túrázást és a madármegfigyelést.",
+      ro: "Munții Outeniqua se întind pe 250 km de-a lungul coastei de sud. Vârful Cradock are 1.577 m. Pădurile temperate de Knysna sunt unice, cu copaci de până la 50 m înălțime. Pasul Montagu, construit în 1847, leagă George de Little Karoo. Clima este mediteraneană umedă, cu precipitații de 1.200 mm/an. Regiunea găzduiește ferme de struți și livezi de mere.",
+      en: "The Outeniqua Mountains form the northern boundary of the Garden Route, stretching 250 km. The highest point is Cradock Peak at 1,577 m. The mountains are covered in indigenous forests, notably the Knysna Forest. The Outeniqua Choo-Tjoe steam train ran along the foothills until 2009. Gold was discovered here in 1848, sparking a brief gold rush. The Montagu Pass (1847) is a gravel road with historical significance.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Cradock Peak (1.577 m)", "Länge: 250 km", "Waldfläche: 60.000 ha", "Goldrausch: 1848", "Montagu-Pass: 1847 erbaut", "Schmalspurbahn: 1928-2009"],
+      hu: ["Legmagasabb: Cradock Peak (1577 m)", "Hossz: 250 km", "Kaaimans-folyó hossza: 40 km", "Sárgafa (knysnai erdő) magasság: 60 m", "Montagu-hágó: 12 km hosszú", "Éves csapadék: 1200 mm"],
+      ro: ["Vârf: Cradock Peak (1.577 m)", "Lungime: 250 km", "Pădurea Knysna: 60.000 ha", "Pasul Montagu: construit 1847", "Cale ferată îngustă: 1928-2009", "Precipitații medii: 1.200 mm/an"],
+      en: ["Highest peak: Cradock Peak at 1,577 m", "Range length: 250 km", "Indigenous forest area: 60,000 ha", "Gold discovered: 1848", "Montagu Pass length: 12 km", "Outeniqua Choo-Tjoe operated 1928-2009"],
+    },
+  },
   {
     id: "zulu-highlands-relief-v2",
     type: "mountain",
     parent: "ZA-KZN",
     coords: [30.0, -29.0],
-    name: { de: "Zulu-Hochland", hu: "Zulu-felföld", ro: "Podișul Zulu", en: "Zulu Highlands",
-image: "/poi-images/zulu-highlands-relief-v2.webp"
-},
+    name: { de: "Zulu-Hochland", hu: "Zulu-felföld", ro: "Podișul Zulu", en: "Zulu Highlands"},
+    image: "/poi-images/zulu-highlands-relief-v2.webp",
     description: { de: "Hügeliges Hochland im Herzen von KwaZulu-Natal.", hu: "Dombos felföld KwaZulu-Natal szívében.", ro: "Podiș deluros în inima provinciei KwaZulu-Natal.", en: "Hilly highlands in the heart of KwaZulu-Natal." },
     facts: {
       de: ["Kulturelles Zentrum der Zulu.", "Strategisch wichtige Lage.", "Grüne Weideflächen."],
       hu: ["A zulu kultúra központja.", "Stratégiailag fontos hely.", "Zöld legelők."],
       ro: ["Centru cultural al zulușilor.", "Locație strategică.", "Pășuni verzi."],
       en: ["Cultural center of the Zulus.", "Strategically important location.", "Green grazing lands."]
-    }, image: "/poi-images/zulu-highlands-relief-v2.webp"},
+    }, image: "/poi-images/zulu-highlands-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Zulu-Hochland in KwaZulu-Natal ist eine hügelige Region mit Höhen von 1.000 bis 1.600 m. Es ist Teil des Great Escarpment und wird von traditionellen Zulu-Gemeinschaften bewohnt. Die Landschaft ist geprägt von saftigen Weiden, Tälern und Flüssen. Der Fluss Tugela entspringt hier und fließt zum Indischen Ozean. Die Region ist reich an Kultur und Geschichte, bekannt für den König-Shaka-Gedenkpark.",
+      hu: "A Zulu-felföld (Zulu Highlands) KwaZulu-Natalban található, átlagmagassága 1200 m. A terület híres a mezőgazdaságról: kukorica, cukornád, marhák. A tájat dombok és völgyek tarkítják. Itt van a Tugela folyó forrása. A helyi gazdaság a turizmusra és a mezőgazdaságra épül. Fontos történelmi helyszín: a véres Janusznál (Battle of Blood River) is itt található.",
+      ro: "Zulu Highlands este o regiune deluroasă din KwaZulu-Natal, la altitudini între 1.000 și 1.600 m. Aici se cultivă porumb, trestie de zahăr și se cresc vite. Râul Tugela izvorăște din aceste dealuri. Zona este populată de comunități zulu, conservând obiceiuri tradiționale. Parcul Memorial Regele Shaka atrage turiști. Clima este subtropicală umedă, cu precipitații de 800 mm/an.",
+      en: "The Zulu Highlands is a region of rolling hills in KwaZulu-Natal, elevation 1,000-1,600 m. It is part of the Great Escarpment and known for its fertile soils and pastoral landscapes. The Tugela River rises here. The area is culturally significant as the heartland of the Zulu nation. Agriculture dominates, with crops like maize and sugarcane. Tourism focuses on cultural heritage and battlefields.",
+    },
+    factsAdvanced: {
+      de: ["Höhenbereich: 1.000-1.600 m", "Fläche: ca. 15.000 km²", "Tugela-Quelle: 1.000 m ü. M.", "Bevölkerungsdichte: 80 Einwohner/km²", "Wichtigstes Anbauprodukt: Mais", "Jährlicher Niederschlag: 800 mm"],
+      hu: ["Átlagmagasság: 1200 m", "Terület: 15.000 km²", "Tugela folyó hossza: 560 km (itt ered)", "Népesség: 1,2 millió zulu", "Fő termények: kukorica, cukornád", "Csapadék: 800-1000 mm/év"],
+      ro: ["Altitudine: 1.000-1.600 m", "Suprafață: 15.000 km²", "Originea râului Tugela: 1.000 m", "Populație: predominant zulu, 2 milioane", "Culturi: porumb, trestie de zahăr", "Precipitații: 800 mm/an"],
+      en: ["Elevation range: 1,000-1,600 m", "Area: 15,000 km²", "Tugela River source: 1,000 m altitude", "Maize is the staple crop", "Rainfall: 800-1,000 mm annually", "Cultural site: King Shaka Memorial (2001)"],
+    },
+  },
   {
     id: "kalahari-basin-relief-v2",
     type: "relief",
     parent: "ZA-NC",
     coords: [22.0, -26.0],
-    name: { de: "Kalahari-Becken", hu: "Kalahári-medence", ro: "Bazinul Kalahari", en: "Kalahari Basin",
-image: "/poi-images/kalahari-basin-relief-v2.webp"
-},
+    name: { de: "Kalahari-Becken", hu: "Kalahári-medence", ro: "Bazinul Kalahari", en: "Kalahari Basin"},
+    image: "/poi-images/kalahari-basin-relief-v2.webp",
     description: { de: "Ein riesiges Becken, das den größten Teil Nordkap-Südafrikas bedeckt.", hu: "Hatalmas medence, amely Dél-Afrika Észak-Fokföldjének nagy részét borítja.", ro: "Un bazin vast care acoperă cea mai mare parte a provinciei Northern Cape din Africa de Sud.", en: "A vast basin covering much of Northern Cape, South Africa." },
     facts: {
       de: ["Halbwüste.", "Rote Sanddünen.", "Spärliche Vegetation."],
       hu: ["Félsivatag.", "Vörös homokdűnék.", "Ritka növényzet."],
       ro: ["Semi-deșert.", "Dune de nisip roșu.", "Vegetație rară."],
       en: ["Semi-desert.", "Red sand dunes.", "Sparse vegetation."]
-    }, image: "/poi-images/kalahari-basin-relief-v2.webp"},
+    }, image: "/poi-images/kalahari-basin-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kalahari-Becken erstreckt sich über Botswana, Namibia und Südafrika. In Südafrika bedeckt es den nördlichen Teil der Provinz Nordkap. Es ist eine semi-aride Region mit roten Sanddünen und Trockensavanne. Der Kgalagadi-Transfrontier-Nationalpark liegt hier. Die jährlichen Niederschläge betragen 100-500 mm. Die Vegetation besteht aus Gräsern und Akazien. Die Kalahari ist reich an Bodenschätzen wie Diamanten und Kupfer.",
+      hu: "A Kalahári-medence Dél-Afrika északi részén terül el, területe 2,5 millió km² (ebből Dél-Afrika 400.000 km²). A tájat vörös homokdűnék jellemzik, 30-100 m magasak. A Kgalagadi Nemzeti Park 38.000 km²-es. Csapadék évente 200-500 mm. Itt él a surikáta és a fehérhomlokú rőzsás. Gazdasági szempontból fontos a gyémántbányászat (Kimberley közelében).",
+      ro: "Bazinul Kalahari se întinde pe 2,5 milioane km² în Africa de Sud, Botswana și Namibia. În Africa de Sud, ocupă 400.000 km². Dunele de nisip roșu atinge 100 m înălțime. Parcul Transfrontalier Kgalagadi are 38.000 km². Precipitațiile medii sunt de 250 mm/an. Fauna include gnu, zebră și struți. Exploatarea diamantelor este principala activitate economică.",
+      en: "The Kalahari Basin covers 2.5 million km² across southern Africa. In South Africa, it spans the Northern Cape, characterized by red sand dunes and sparse savannah. The Kgalagadi Transfrontier Park (38,000 km²) spans Botswana and South Africa. Annual rainfall is 150-400 mm. The basin is rich in diamonds and copper. The San people have inhabited this area for thousands of years.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtfläche: 2,5 Mio. km²", "Niederschlag: 100-500 mm jährlich", "Dünenhöhe: bis 100 m", "Kgalagadi-Park: 38.000 km²", "Bevölkerung: San (Buschmänner)", "Diamantvorkommen seit 1867"],
+      hu: ["Teljes terület: 2,5 millió km²", "Dél-afrikai rész: 400.000 km²", "Átlagos dűnemagasság: 50 m", "Kgalagadi Nemzeti Park: 38.000 km²", "Éves csapadék: 200-500 mm", "Fő ásványi kincs: gyémánt"],
+      ro: ["Suprafață totală: 2,5 milioane km²", "Porțiunea sud-africană: 400.000 km²", "Înălțimea dunelor: 30-100 m", "Parcul Kgalagadi: 38.000 km²", "Precipitații: 150-400 mm/an", "Resurse: diamante, cupru"],
+      en: ["Total area: 2.5 million km²", "South African portion: 400,000 km²", "Dune height: up to 100 m", "Kgalagadi Park: 38,000 km²", "Rainfall: 150-400 mm per year", "First diamonds found: 1867"],
+    },
+  },
   {
     id: "karoo-relief-v2",
     type: "relief",
     parent: "ZA-EC",
     coords: [24.0, -32.0],
-    name: { de: "Karoo-Halbwüste", hu: "Karoo félsivatag", ro: "Semideșertul Karoo", en: "Karoo Semi-desert",
-image: "/poi-images/karoo-relief-v2.webp"
-},
+    name: { de: "Karoo-Halbwüste", hu: "Karoo félsivatag", ro: "Semideșertul Karoo", en: "Karoo Semi-desert"},
+    image: "/poi-images/karoo-relief-v2.webp",
     description: { de: "Ein riesiges arides Plateau im Landesinneren.", hu: "Hatalmas száraz fennsík az ország belsejében.", ro: "Un platou arid vast în interiorul țării.", en: "A vast arid plateau in the country's interior." },
     facts: {
       de: ["Große geologische Vielfalt.", "Bekannt für Fossilien.", "Trockene Buschlandschaft."],
       hu: ["Nagy geológiai változatosság.", "Híres a kövületekről.", "Száraz bozótos táj."],
       ro: ["Diversitate geologică mare.", "Cunoscut pentru fosile.", "Peisaj de tufișuri uscate."],
       en: ["Great geological diversity.", "Known for fossils.", "Dry shrubland."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Karoo ist eine ausgedehnte Halbwüste, die den größten Teil der Provinz Westkap und Nordkap bedeckt. Sie wird in Große und Kleine Karoo unterteilt. Die Große Karoo ist ein trockenes Hochplateau auf 1.000 m Höhe. Die Kleine Karoo liegt zwischen den Swartberg- und Outeniqua-Bergen. Die Karoo ist bekannt für Fossilfunde aus dem Perm und Trias. Die Vegetation besteht aus Sträuchern und Sukkulenten. Die Landschaft ist flach mit Tafelbergen.",
+      hu: "A Karoo egy hatalmas félsivatag Dél-Afrikában, területe 400.000 km². A Nagy-Karoo 1000 m magas fennsík, míg a Kis-Karoo a hegyek között fekszik. Az éves csapadék 100-400 mm. A Karoo híres az őslénytani leleteiről: 250 millió éves kétéltűek. A növényzet alacsony bokrok és pozsgások. Gazdaság: juh- és strucctenyésztés. Itt található a Karoo Nemzeti Park.",
+      ro: "Karoo este un semi-deșert vast de 400.000 km². Marea Karoo are altitudini de 1.000 m, iar Mica Karoo este înconjurată de munți. Precipitațiile sunt de 100-400 mm/an. Solurile sunt bogate în fosile din perioada Permiană. Vegetația constă din tufișuri și suculente. Activitățile economice includ creșterea oilor și a struților. Parcul Național Karoo (1994) protejează 83.000 ha.",
+      en: "The Karoo is a semi-desert region covering about 400,000 km². The Great Karoo is an elevated plateau at 600-1,200 m, while the Little Karoo lies in a valley. It is known for its rich fossil beds, including early reptiles and amphibians. The vegetation is mainly succulent Karoo and shrubland. The region is sparsely populated, with sheep farming being the main activity. The Karoo National Park (83,000 ha) conserves the unique biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Karoo: 400.000 km²", "Höhe der Großen Karoo: 600-1.200 m", "Niederschlag: 100-400 mm jährlich", "Älteste Fossilien: 250 Millionen Jahre", "Schaffarmen: 80% der Fläche", "Karoo-Nationalpark: 83.000 ha"],
+      hu: ["Terület: 400.000 km²", "Nagy-Karoo magasság: 1000 m", "Éves csapadék: 100-400 mm", "Fosszíliák: 250-300 millió éves", "Juhállomány: 10 millió birka", "Karoo Nemzeti Park: 83.000 ha"],
+      ro: ["Suprafață: 400.000 km²", "Altitudinea Marii Karoo: 600-1.200 m", "Precipitații: 100-400 mm/an", "Fosile permiere: 250 milioane ani", "Capete de oi: 10 milioane", "Parcul Național Karoo: 83.000 ha"],
+      en: ["Area: 400,000 km²", "Great Karoo elevation: 600-1,200 m", "Annual rainfall: 100-400 mm", "Fossil age: Permian (250-300 million years)", "Sheep population: 10 million", "Karoo National Park: 83,000 ha"],
+    },
   },
   {
     id: "limpopo-plains-relief-v2",
     type: "relief",
     parent: "ZA-LIM",
     coords: [29.5, -23.5],
-    name: { de: "Limpopo-Ebenen", hu: "Limpopo-síkság", ro: "Câmpiile Limpopo", en: "Limpopo Plains",
-image: "/poi-images/limpopo-plains-relief-v2.webp"
-},
+    name: { de: "Limpopo-Ebenen", hu: "Limpopo-síkság", ro: "Câmpiile Limpopo", en: "Limpopo Plains"},
+    image: "/poi-images/limpopo-plains-relief-v2.webp",
     description: { de: "Weite, tiefer gelegene Ebenen im Norden.", hu: "Széles, alacsonyan fekvő síkságok az északi részen.", ro: "Câmpii vaste, joase în partea de nord.", en: "Broad, lower-lying plains in the north." },
     facts: {
       de: ["Heißes Klima.", "Landwirtschaftlich genutzt.", "Buschsavanne."],
       hu: ["Forró éghajlat.", "Mezőgazdasági terület.", "Bozótos szavanna."],
       ro: ["Climă caldă.", "Folosit pentru agricultură.", "Savană cu tufișuri."],
       en: ["Hot climate.", "Used for agriculture.", "Bush savanna."]
-    }, image: "/poi-images/limpopo-plains-relief-v2.webp"},
+    }, image: "/poi-images/limpopo-plains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Limpopo-Ebene im Nordosten Südafrikas grenzt an Botswana, Simbabwe und Mosambik. Sie ist ein flaches, tief gelegenes Gebiet (200-600 m ü. M.), durch das der Limpopo-Fluss fließt. Die Region ist heiß und semiarid mit jährlichen Niederschlägen von 300-600 mm. Die Vegetation ist trockene Savanne mit Mopanebäumen. Die Wirtschaft ist von Wildtierfarmen und Tourismus geprägt, insbesondere im Kruger-Nationalpark.",
+      hu: "A Limpopo-síkság Dél-Afrika északkeleti részén található, tengerszint feletti magassága 200-600 m. A Limpopo folyó itt határt képez. Az évi csapadék 400 mm körüli. A növényzet mopanie és akácia. A terület fontos mezőgazdasági régió: cirok, kukorica, gyapot. Itt található a Kruger Nemzeti Park déli része is. Az éghajlat forró, nyári hőmérséklet gyakran meghaladja a 40°C-ot.",
+      ro: "Câmpia Limpopo se întinde pe 800 km de-a lungul râului Limpopo, la altitudini de 200-600 m. Clima este caldă și semi-aridă, cu precipitații de 300-600 mm/an. Vegetația este savană de mopane. Agricultura include porumb, bumbac și sorg. Regiunea este cunoscută pentru parcuri naturale precum Mapungubwe. Populația este diversă, cu comunități Pedi și Tsonga.",
+      en: "The Limpopo Plains form a broad region in northern South Africa, with elevations between 200 and 600 m. The Limpopo River flows along the border. The area is characterized by hot summers and moderate rainfall (400-600 mm). Vegetation is mainly Mopane bushveld. Agriculture and wildlife tourism are key economic activities. The Mapungubwe Cultural Landscape (UNESCO) is located here, reflecting a ancient kingdom.",
+    },
+    factsAdvanced: {
+      de: ["Höhenbereich: 200-600 m", "Limpopo-Flusslänge: 1.750 km (Gesamt)", "Niederschlag: 300-600 mm jährlich", "Mopanebäume: dominieren die Vegetation", "Durchschnittstemperatur: 25°C", "Mapungubwe: UNESCO-Welterbe seit 2003"],
+      hu: ["Magasság: 200-600 m", "Limpopo folyó hossza Dél-Afrikában: 800 km", "Éves csapadék: 400 mm", "Nyári max hőmérséklet: 45°C", "Mapungubwe kultúra: 1075-1220 AD", "Kruger Park határos a síksággal"],
+      ro: ["Altitudine: 200-600 m", "Lungimea râului Limpopo: 1.750 km (total)", "Precipitații: 300-600 mm/an", "Temperatură medie: 25°C", "Mapungubwe UNESCO: 2003", "Suprafață agricolă: 2 milioane ha"],
+      en: ["Elevation: 200-600 m", "Limpopo River length: 1,750 km", "Rainfall: 300-600 mm per year", "Average summer temp: 30°C", "Mapungubwe World Heritage Site: declared 2003", "Mopane tree coverage: 50% of area"],
+    },
+  },
   {
     id: "highveld-plateau-relief-v2",
     type: "relief",
     parent: "ZA-GP",
     coords: [28.5, -26.0],
-    name: { de: "Highveld-Plateau", hu: "Highveld-fennsík", ro: "Podișul Highveld", en: "Highveld Plateau",
-image: "/poi-images/highveld-plateau-relief-v2.webp"
-},
+    name: { de: "Highveld-Plateau", hu: "Highveld-fennsík", ro: "Podișul Highveld", en: "Highveld Plateau"},
+    image: "/poi-images/highveld-plateau-relief-v2.webp",
     description: { de: "Ein hochgelegenes, flaches Grasland-Plateau.", hu: "Magasan fekvő, lapos füves fennsík.", ro: "Un platou înalt de pajiști plate.", en: "A high-altitude, flat grassland plateau." },
     facts: {
       de: ["Durchschnittshöhe über 1500 m.", "Industrie- und Bevölkerungszentrum.", "Moderate Temperaturen."],
       hu: ["Átlagmagasság 1500 m felett.", "Ipari és népességi központ.", "Mérsékelt hőmérséklet."],
       ro: ["Înălțime medie peste 1500 m.", "Centru industrial și demografic.", "Temperaturi moderate."],
       en: ["Average elevation over 1500 m.", "Industrial and population hub.", "Moderate temperatures."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Highveld ist ein Hochplateau im zentralen Südafrika, das sich auf 1.200-1.800 m Höhe erstreckt. Es umfasst große Teile der Provinzen Gauteng, Mpumalanga und des Freistaates. Die Region ist das wirtschaftliche Herz Südafrikas, mit Johannesburg als Zentrum. Die Landschaft ist flach bis hügelig mit Grünland und Ackerbau. Die jährlichen Niederschläge betragen 600-900 mm. Der Highveld ist reich an Gold und Kohle.",
+      hu: "A Highveld egy hatalmas fennsík, 1.200-1.800 m tengerszint feletti magassággal. Területe 400.000 km². Itt található Johannesburg és Pretoria. A fennsíkon erednek a Vaal és Olifants folyók. A gazdaság alapja a bányászat (arany, szén) és a mezőgazdaság (kukorica, búza). A természetes növényzet a gyepek. Éghajlata mérsékelt, 500-700 mm csapadékkal.",
+      ro: "Highveld este un platou înalt de 1.200-1.800 m, acoperind 400.000 km². Include provincia Gauteng, unde se află Johannesburg. Clima este temperată, cu precipitații de 600-800 mm/an. Vegetația naturală este pajiște (grassveld). Resurse miniere: aur și cărbune. Agricultura produce porumb și grâu. Râurile Vaal și Olifants au originea aici. Cele mai mari orașe: Johannesburg, Pretoria.",
+      en: "The Highveld is a plateau region covering 400,000 km² at an altitude of 1,200-1,800 m. It is the economic powerhouse of South Africa, hosting Johannesburg (the largest city). The terrain is mostly flat to gently rolling grassland. The region contains vast coal deposits and gold reefs. The Vaal River is a major water source. Climate is temperate with summer rainfall of 600-800 mm.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.200-1.800 m", "Fläche: 400.000 km²", "Niederschlag: 600-900 mm jährlich", "Goldvorkommen: Witwatersrand (1886)", "Kohlereserven: 50 Milliarden Tonnen", "Vaal-Fluss: 1.200 km lang"],
+      hu: ["Magasság: 1200-1800 m", "Terület: 400.000 km²", "Éves csapadék: 600-800 mm", "Aranybányászás kezdete: 1886", "Szénkészlet: 50 milliárd tonna", "Vaal folyó hossza: 1200 km"],
+      ro: ["Altitudine: 1.200-1.800 m", "Suprafață: 400.000 km²", "Precipitații: 600-800 mm/an", "Aur: descoperit în 1886", "Cărbune: 50 miliarde de tone", "Râul Vaal: 1.200 km"],
+      en: ["Elevation: 1,200-1,800 m", "Area: 400,000 km²", "Annual rainfall: 600-800 mm", "Gold discovered: 1886", "Coal reserves: 50 billion tons", "Vaal River length: 1,200 km"],
+    },
   },
   {
     id: "lowveld-relief-v2",
     type: "relief",
     parent: "ZA-MP",
     coords: [31.5, -25.0],
-    name: { de: "Lowveld", hu: "Lowveld", ro: "Lowveld", en: "Lowveld",
-image: "/poi-images/lowveld-relief-v2.webp"
-},
+    name: { de: "Lowveld", hu: "Lowveld", ro: "Lowveld", en: "Lowveld"},
+    image: "/poi-images/lowveld-relief-v2.webp",
     description: { de: "Die tiefer gelegenen Regionen östlich des Highvelds.", hu: "Az alacsonyan fekvő régiók a Highveldtől keletre.", ro: "Regiunile joase la est de Highveld.", en: "The lower-lying regions east of the Highveld." },
     facts: {
       de: ["Subtropisches Klima.", "Reiche Tierwelt.", "Savannenlandschaft."],
       hu: ["Szubtrópusi éghajlat.", "Gazdag állatvilág.", "Szavannatáj."],
       ro: ["Climă subtropicală.", "Faună bogată.", "Peisaj de savană."],
       en: ["Subtropical climate.", "Rich wildlife.", "Savanna landscape."]
-    }, image: "/poi-images/lowveld-relief-v2.webp"},
+    }, image: "/poi-images/lowveld-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Lowveld ist eine tief liegende Region in Mpumalanga und Limpopo, östlich des Highveld. Die Höhe liegt zwischen 150 und 600 m. Die Region gehört zum Great Escarpment und grenzt an Mosambik. Der Kruger-Nationalpark liegt hier. Die Temperaturen sind hoch (bis 40°C im Sommer). Die Vegetation besteht aus Savanne mit Affenbrotbäumen und Mopanebäumen. Wirtschaft: Tourismus und Landwirtschaft (Zitrusfrüchte, Zuckerrohr).",
+      hu: "A Lowveld Dél-Afrika keleti részén fekszik, 150-600 m tengerszint felett. Területe 150.000 km². Itt van a Kruger Nemzeti Park (több mint 19.000 km²). Az éghajlat forró, a nyári hőmérséklet 40°C felett. A növényzet szavanna, baobab fákkal. A mezőgazdaság: citrusfélék, banán, cukornád. Itt található a Blyde River Canyon, a világ harmadik legnagyobb szurdoka.",
+      ro: "Lowveld este regiunea joasă de est, la 150-600 m altitudine, acoperind 150.000 km². Include Parcul Național Kruger (19.485 km²). Clima subtropicală umedă, cu ploi de vară, 600-800 mm/an. Vegetația este savană cu baobabi. Activitatea economică: turismul, agricultura de citrice și trestie de zahăr. Blyde River Canyon (26 km lungime) este o atracție majoră.",
+      en: "The Lowveld is a low-lying region (150-600 m) east of the Highveld, stretching along Mozambique border. It is home to the Kruger National Park (19,485 km²). The climate is hot and humid with summer rainfall. Vegetation is savannah and bushveld, including baobab trees. Agriculture produces citrus, subtropical fruits, and sugar cane. The Blyde River Canyon (26 km long, 800 m deep) is a notable landmark.",
+    },
+    factsAdvanced: {
+      de: ["Höhenbereich: 150-600 m", "Fläche: 150.000 km²", "Kruger-Nationalpark: 19.485 km²", "Höchste Temperatur: 45°C", "Blyde River Canyon: 26 km lang", "Niederschlag: 600-800 mm jährlich"],
+      hu: ["Magasság: 150-600 m", "Terület: 150.000 km²", "Kruger Park területe: 19.485 km²", "Nyári max hőmérséklet: 45°C", "Blyde River Canyon mélység: 800 m", "Baobab fák: akár 20 m magas"],
+      ro: ["Altitudine: 150-600 m", "Suprafață: 150.000 km²", "Parcul Kruger: 19.485 km²", "Temperatură maximă: 45°C", "Canionul Blyde: 26 km lungime, 800 m adâncime", "Precipitații: 600-800 mm/an"],
+      en: ["Elevation: 150-600 m", "Area: 150,000 km²", "Kruger National Park: 19,485 km²", "Record high temperature: 45°C", "Blyde River Canyon depth: 800 m", "Annual rainfall: 600-800 mm"],
+    },
+  },
   {
     id: "namib-fringe-relief-v2",
     type: "relief",
     parent: "ZA-NC",
     coords: [17.5, -29.0],
-    name: { de: "Namib-Randgebiet", hu: "Namib-peremvidék", ro: "Zona marginală Namib", en: "Namib fringe area",
-image: "/poi-images/namib-fringe-relief-v2.webp"
-},
+    name: { de: "Namib-Randgebiet", hu: "Namib-peremvidék", ro: "Zona marginală Namib", en: "Namib fringe area"},
+    image: "/poi-images/namib-fringe-relief-v2.webp",
     description: { de: "Die trockene Randzone der Namib-Wüste in Südafrika.", hu: "A Namib-sivatag száraz peremzónája Dél-Afrikában.", ro: "Zona aridă marginală a deșertului Namib în Africa de Sud.", en: "The arid fringe zone of the Namib Desert in South Africa." },
     facts: {
       de: ["Extrem aride Bedingungen.", "Wüstenartige Felslandschaften.", "Einzigartige Flora."],
       hu: ["Rendkívül száraz körülmények.", "Sivatagos sziklás tájak.", "Egyedi növényvilág."],
       ro: ["Condiții extrem de aride.", "Peisaje stâncoase deșertice.", "Floră unică."],
       en: ["Extremely arid conditions.", "Desert-like rocky landscapes.", "Unique flora."]
-    }, image: "/poi-images/namib-fringe-relief-v2.webp"},
+    }, image: "/poi-images/namib-fringe-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Namib-Fringestreifen in der Provinz Nordkap ist der südliche Ausläufer der Namib-Wüste. Es ist eine trockene Region mit jährlichen Niederschlägen unter 100 mm, bedeckt mit Sanddünen und Kiesflächen. Die Vegetation ist spärlich mit Sukkulenten und Sträuchern. Der Oranje-Fluss durchfließt den Randbereich. Die Wirtschaft basiert auf Diamantabbau und Tourismus (Richtersveld Nationalpark).",
+      hu: "A Namib-peremvidék Dél-Afrika északnyugati részén húzódik, az Atlanti-óceán partja mentén. Csapadék évente kevesebb mint 100 mm. A tájat homokdűnék és kősivatag jellemzi. A Richtersveld Nemzeti Park (162.000 ha) itt található, amelyet 2007-ben UNESCO világörökséggé nyilvánítottak. Gazdaság: gyémántbányászat, halászat, turizmus.",
+      ro: "Zona marginală a deșertului Namib (Namib Fringe) se află în provincia Northern Cape, la sud de râul Orange. Precipitațiile anual sub 100 mm. Dune de nisip și pietriș. Vegetația este de tip suculent. Parcul Național Richtersveld (162.000 ha) este un sit UNESCO din 2007. Economia: mineritul diamantelor și turismul. Clima este extrem de uscată, cu ceață de coastă.",
+      en: "The Namib fringe area in the Northern Cape is a hyper-arid region bordering Namibia. Annual rainfall is less than 100 mm, creating a barren landscape of dunes and gravel plains. The Richtersveld National Park (162,000 ha) is a UNESCO World Heritage Site known for its unique succulent flora. The Orange River forms the southern boundary. Diamond mining and tourism are the main economic activities.",
+    },
+    factsAdvanced: {
+      de: ["Niederschlag: unter 100 mm jährlich", "Richtersveld-Nationalpark: 162.000 ha", "UNESCO-Welterbe seit 2007", "Diamantabbau seit 1867", "Durchschnittstemperatur: 25°C", "Länge des Küstenstreifens: 500 km"],
+      hu: ["Éves csapadék: 50-100 mm", "Richtersveld Nemzeti Park: 162.000 ha", "UNESCO világörökség: 2007", "Gyémántbányászat kezdete: 1867", "Partvonal hossz: 500 km", "Homokdűnék magassága: 300 m (Namíbiában)"],
+      ro: ["Precipitații: sub 100 mm/an", "Parcul Richtersveld: 162.000 ha", "UNESCO din 2007", "Exploatarea diamantelor din 1867", "Temperatură medie: 25°C", "Lungimea zonei: 500 km"],
+      en: ["Rainfall: less than 100 mm per year", "Richtersveld National Park: 162,000 ha", "UNESCO designation: 2007", "Diamond mining began: 1867", "Coastal fog: 60 days per year", "Length of fringe zone: 500 km"],
+    },
+  },
   {
     id: "suurberg-relief-v2",
     type: "mountain",
     parent: "ZA-EC",
     coords: [25.5, -33.2],
-    name: { de: "Suurberge", hu: "Suurberg-hegység", ro: "Munții Suurberg", en: "Suurberg Mountains",
-image: "/poi-images/suurberg-relief-v2.webp"
-},
+    name: { de: "Suurberge", hu: "Suurberg-hegység", ro: "Munții Suurberg", en: "Suurberg Mountains"},
+    image: "/poi-images/suurberg-relief-v2.webp",
     description: { de: "Eine Bergkette im Addo-Elefanten-Nationalpark-Gebiet.", hu: "Hegylánc az Addo Elefánt Nemzeti Park területén.", ro: "Un lanț muntos în zona Parcului Național Addo Elephant.", en: "A mountain range in the Addo Elephant National Park area." },
     facts: {
       de: ["Steile Hänge.", "Fynbos-Vegetation.", "Schutzgebiet."],
       hu: ["Meredek lejtők.", "Fynbos növényzet.", "Védett terület."],
       ro: ["Pante abrupte.", "Vegetație Fynbos.", "Zonă protejată."],
       en: ["Steep slopes.", "Fynbos vegetation.", "Protected area."]
-    }, image: "/poi-images/suurberg-relief-v2.webp"},
+    }, image: "/poi-images/suurberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Suurberge sind ein Gebirgszug im Ostkap, südlich der Great Karoo. Der höchste Gipfel ist der 1.278 m hohe Mount Thomson. Die Berge bestehen aus Sandstein und Schiefer, die durch Faltung entstanden sind. Die Vegetation ist Fynbos und Buschland. Die Region ist dünn besiedelt und von Schafzucht geprägt. Die Suurberge sind Teil des Kap-Faltengebirges.",
+      hu: "A Suurberg-hegység a keleti Fokföldön található, legmagasabb csúcsa a Mount Thomson (1278 m). A hegység hossza 70 km. Kőzetei homokkő és pala. A növényzet fynbos és bozótos. A területet juhlegeltetésre használják. A hegységet átszelő hágók: Suurberg Pass és Bruintjiesrivier Pass. Itt található a Suurberg-vadon (12.000 ha).",
+      ro: "Munții Suurberg se întind pe 70 km în Eastern Cape, cu vârful Mount Thomson la 1.278 m. Formațiunile sunt de gresie și șist. Vegetația este fynbos și shrubland. Regiunea este puțin populată, cu creșterea oilor. Există două trecători importante: Suurberg Pass și Bruintjiesrivier Pass. Rezervația naturală Suurberg (12.000 ha) protejează flora endemică.",
+      en: "The Suurberg Mountains are a range in the Eastern Cape, reaching 1,278 m at Mount Thomson. They are part of the Cape Fold Belt, composed of sandstone and shale. The vegetation is mainly fynbos and succulent scrub. The area is used for sheep farming. The Suurberg Wilderness area (12,000 ha) was declared in 1974. The range provides a scenic backdrop along the N10 highway.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Mount Thomson (1.278 m)", "Länge: 70 km", "Suurberg-Wildnis: 12.000 ha", "Schafzucht: 90% der Landnutzung", "Suurberg-Pass: 1.200 m hoch", "Gestein: Sandstein und Schiefer"],
+      hu: ["Legmagasabb: Mount Thomson (1278 m)", "Hossz: 70 km", "Suurberg-vadon: 12.000 ha", "Juhállomány: 200.000 birka", "Hágók: Suurberg (1200 m), Bruintjiesrivier (1000 m)", "Fynbos fajok: 300 endemikus"],
+      ro: ["Vârf: Mount Thomson (1.278 m)", "Lungime: 70 km", "Rezervație Suurberg: 12.000 ha", "Activități: creșterea oilor", "Pasul Suurberg: altitudine 1.200 m", "Roci: gresie, șist"],
+      en: ["Highest peak: Mount Thomson at 1,278 m", "Range length: 70 km", "Suurberg Wilderness: 12,000 ha", "Main land use: sheep farming", "Suurberg Pass elevation: 1,200 m", "Geology: Cape Supergroup sandstone"],
+    },
+  },
   {
     id: "winterberg-relief-v2",
     type: "mountain",
     parent: "ZA-EC",
     coords: [26.5, -32.5],
-    name: { de: "Winterberg", hu: "Winterberg", ro: "Winterberg", en: "Winterberg",
-image: "/poi-images/winterberg-relief-v2.webp"
-},
+    name: { de: "Winterberg", hu: "Winterberg", ro: "Winterberg", en: "Winterberg"},
+    image: "/poi-images/winterberg-relief-v2.webp",
     description: { de: "Eine Bergregion im Ostkap mit kühleren Temperaturen.", hu: "Hegyvidék a Kelet-Fokföldön, hűvösebb hőmérséklettel.", ro: "Regiune muntoasă în Eastern Cape cu temperaturi mai reci.", en: "A mountain region in the Eastern Cape with cooler temperatures." },
     facts: {
       de: ["Gelegentlicher Schnee.", "Grasbedeckte Gipfel.", "Hohes Plateau."],
       hu: ["Időnkénti hóesés.", "Fűvel borított csúcsok.", "Magas fennsík."],
       ro: ["Ninsoare ocazională.", "Vârfuri acoperite cu iarbă.", "Platou înalt."],
       en: ["Occasional snow.", "Grass-covered peaks.", "High plateau."]
-    }, image: "/poi-images/winterberg-relief-v2.webp"},
+    }, image: "/poi-images/winterberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Winterberg-Gebirge in der Provinz Ostkap erstreckt sich nördlich der Amathole-Berge. Der höchste Gipfel ist der 2.372 m hohe Great Winterberg. Die Bergflanken sind steil mit tiefen Tälern. Die Vegetation ist alpine Graslandschaft und Fynbos. Die Region ist wichtig für die Wasserversorgung, Quellen des Kat River und des Great Fish River. Es gibt mehrere Wanderwege und Naturschutzgebiete.",
+      hu: "A Winterberg-hegység a Dél-Afrikai Köztársaságban, az Eastern Cape-ben található. Legmagasabb csúcsa a Great Winterberg (2372 m). A hegység hossza 100 km. Itt ered a Kat folyó és a Great Fish folyó. A növényzet alpesi rétek és fynbos. A terület népszerű túrázási célpont. A Kat River-völgy teatermeléséről ismert.",
+      ro: "Munții Winterberg se întind pe 100 km în Eastern Cape, vârful Great Winterberg atingând 2.372 m. Clima alpină, cu precipitații de 1.000 mm/an. Vegetația constă din pajiști alpine și fynbos. Râurile Kat și Great Fish izvorăsc aici. Regiunea este importantă pentru producția de ceai (Kat River). Există rezervații naturale precum Hogsback și Katberg.",
+      en: "The Winterberg range in the Eastern Cape reaches 2,372 m at Great Winterberg. It runs for 100 km, forming a wetter region with annual rainfall up to 1,000 mm. The mountains are a key water source for rivers like the Kat and Great Fish. Vegetation includes alpine grasslands and pockets of forest. The area is known for the Kat Valley tea plantations and outdoor activities.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Great Winterberg (2.372 m)", "Länge: 100 km", "Niederschlag: 1.000 mm jährlich", "Kat-Fluss: 100 km lang", "Teeplantagen seit 1876", "Naturschutzgebiet Katberg: 2.000 ha"],
+      hu: ["Legmagasabb: Great Winterberg (2372 m)", "Hossz: 100 km", "Csapadék: 1000 mm/év", "Kat folyó hossza: 100 km", "Teatermelés kezdete: 1876", "Hogsback Arborétum: 200 ha"],
+      ro: ["Vârf: Great Winterberg (2.372 m)", "Lungime: 100 km", "Precipitații: 1.000 mm/an", "Râul Kat: 100 km", "Cultura ceaiului: din 1876", "Rezervația Katberg: 2.000 ha"],
+      en: ["Highest peak: Great Winterberg at 2,372 m", "Range length: 100 km", "Annual rainfall: 1,000 mm", "Kat River length: 100 km", "Tea farming established: 1876", "Katberg Nature Reserve: 2,000 ha"],
+    },
+  },
   {
     id: "amathole-relief-v2",
     type: "mountain",
     parent: "ZA-EC",
     coords: [27.0, -32.5],
-    name: { de: "Amathole-Berge", hu: "Amathole-hegység", ro: "Munții Amathole", en: "Amathole Mountains",
-image: "/poi-images/amathole-relief-v2.webp"
-},
+    name: { de: "Amathole-Berge", hu: "Amathole-hegység", ro: "Munții Amathole", en: "Amathole Mountains"},
+    image: "/poi-images/amathole-relief-v2.webp",
     description: { de: "Eine bewaldete Bergkette im Ostkap.", hu: "Erdős hegylánc a Kelet-Fokföldön.", ro: "Un lanț muntos împădurit în Eastern Cape.", en: "A forested mountain range in the Eastern Cape." },
     facts: {
       de: ["Historisch bedeutsam.", "Nebelwälder.", "Wandergebiet."],
       hu: ["Történelmileg jelentős.", "Ködös erdők.", "Túrázóhely."],
       ro: ["Important din punct de vedere istoric.", "Păduri cețoase.", "Zonă de drumeții."],
       en: ["Historically significant.", "Mist forests.", "Hiking area."]
-    }, image: "/poi-images/amathole-relief-v2.webp"},
+    }, image: "/poi-images/amathole-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Amathole-Berge im Ostkap sind ein Teil des Great Escarpment. Der höchste Gipfel ist der 1.800 m hohe Gaikas Peak. Die Berge sind dicht bewaldet mit Afromontan-Wäldern. Die Region ist kulturell bedeutsam für die Xhosa und war Schauplatz der Grenzkriege. Wichtige Städte sind Hogsback und Stutterheim. Die Amathole-Berge sind ein wichtiges Wassereinzugsgebiet. Es gibt mehrere Wanderwege und Wasserfälle.",
+      hu: "Az Amathole-hegység az Eastern Cape-ben található, legmagasabb pontja a Gaikas Peak (1800 m). A hegység 70 km hosszú. Itt található a Hogsback település, amelyet 'mithrasz' erdők vesznek körül. A terület híres az Amathole izinyosi (méhek) és a madárvilág gazdagságáról. A folyók: Buffalo, Keiskamma. A hegység törékeny ökoszisztémáját természetvédelmi területek védik.",
+      ro: "Munții Amathole se întind pe 70 km, cu vârful Gaikas Peak la 1.800 m. Pădurile afro-montane sunt dense, cu copaci de 30 m înălțime. Clima este temperată umedă, precipitații 800-1.200 mm/an. Zona este importantă pentru cultura Xhosa. Rezervațiile naturale: Amathole Forest Reserve, Mpongo Game Reserve. Erau folosite ca refugiu în timpul războaielor de frontieră.",
+      en: "The Amathole Mountains in the Eastern Cape rise to 1,800 m at Gaikas Peak. The range is covered in indigenous Afro-montane forests, home to a rich biodiversity. The area is historically significant for the Xhosa people and the Frontier Wars. Hogsback village is famous for its forests and waterfalls. The mountains supply water to the Buffalo River. Conservation areas include the Amathole Forest Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: Gaikas Peak (1.800 m)", "Länge: 70 km", "Waldfläche: 50.000 ha", "Buffalo-Fluss: 310 km lang", "Hogsback: 1.200 m ü. M.", "Endemische Vögel: 30 Arten"],
+      hu: ["Legmagasabb: Gaikas Peak (1800 m)", "Hossz: 70 km", "Erdőterület: 50.000 ha", "Buffalo folyó hossza: 310 km", "Hogsback magasság: 1200 m", "Vízesések: 20 ismert"],
+      ro: ["Vârf: Gaikas Peak (1.800 m)", "Lungime: 70 km", "Păduri: 50.000 ha", "Râul Buffalo: 310 km", "Hogsback: 1.200 m altitudine", "Specii de păsări endemice: 30"],
+      en: ["Highest peak: Gaikas Peak at 1,800 m", "Range length: 70 km", "Forest area: 50,000 ha", "Buffalo River length: 310 km", "Hogsback elevation: 1,200 m", "Waterfalls: 20 major falls"],
+    },
+  },
   {
     id: "murchison-relief-v2",
     type: "relief",
     parent: "ZA-LIM",
     coords: [30.5, -24.0],
-    name: { de: "Murchison-Hügel", hu: "Murchison-dombok", ro: "Dealurile Murchison", en: "Murchison Hills",
-image: "/poi-images/murchison-relief-v2.webp"
-},
+    name: { de: "Murchison-Hügel", hu: "Murchison-dombok", ro: "Dealurile Murchison", en: "Murchison Hills"},
+    image: "/poi-images/murchison-relief-v2.webp",
     description: { de: "Eine Hügellandschaft im Nordosten Südafrikas.", hu: "Dombvidék Dél-Afrika északkeleti részén.", ro: "Un peisaj de dealuri în nord-estul Africii de Sud.", en: "A hilly landscape in the northeast of South Africa." },
     facts: {
       de: ["Geologisch alt.", "Mineralreiches Gebiet.", "Bushveld-Vegetation."],
       hu: ["Geológiailag ősi.", "Ásványokban gazdag terület.", "Bushveld növényzet."],
       ro: ["Geologic vechi.", "Zonă bogată în minerale.", "Vegetație Bushveld."],
       en: ["Geologically old.", "Mineral-rich area.", "Bushveld vegetation."]
-    }, image: "/poi-images/murchison-relief-v2.webp"},
+    }, image: "/poi-images/murchison-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Murchison-Hügel liegen in der Provinz Limpopo, in der Nähe von Gravelotte. Sie sind nach dem Geologen Roderick Murchison benannt. Die Hügel sind Teil des Greenstone-Gürtels und enthalten Goldvorkommen, die im 19. Jahrhundert abgebaut wurden. Die Höhen erreichen 600 m. Die Vegetation ist Savanne mit Mopanebäumen. Die Region ist dünn besiedelt, die Wirtschaft basiert auf Bergbau und Landwirtschaft.",
+      hu: "A Murchison-dombság Limpopo tartományban található, legmagasabb pontja 600 m. Nevét Sir Roderick Murchison geológusról kapta. A terület gazdag aranyban, amelyet 1872 óta bányásznak. A növényzet szavanna, mopanie erdőkkel. A falu, Gravelotte, a bányászat központja. A dombság hossza 30 km. A mai napig aktív aranybányászat folyik.",
+      ro: "Dealurile Murchison se găsesc în Limpopo, lângă Gravelotte. Altitudinea maximă este de 600 m. Denumite după geologul Roderick Murchison. Zona este cunoscută pentru aur, descoperit în 1872. Vegetația este savană cu mopane. Lungimea este de 30 km. Activități miniere au loc și astăzi. Populația este răspândită în sate mici.",
+      en: "The Murchison Hills in Limpopo Province are a low range rich in gold deposits. They rise to 600 m and cover 30 km. Named after Sir Roderick Murchison, they are part of the Greenstone Belt. Gold was discovered here in 1872, leading to the founding of Gravelotte. The hills are covered in Mopane bushveld. The area is still mined for gold and antimony.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 600 m", "Länge: 30 km", "Goldentdeckung: 1872", "Bergbau: Gold und Antimon", "Gravelotte: 1885 gegründet", "Vegetation: Mopanebaum-Savanne"],
+      hu: ["Legmagasabb: 600 m", "Hossz: 30 km", "Arany felfedezés: 1872", "Gravelotte alapítva: 1885", "Bányászat: arany, antimon", "Mopanie erdő: 80% borítottság"],
+      ro: ["Altitudine maximă: 600 m", "Lungime: 30 km", "Descoperirea aurului: 1872", "Oraș: Gravelotte, fondat 1885", "Minereuri: aur, antimon", "Vegetație: savană de mopane"],
+      en: ["Highest point: 600 m", "Length: 30 km", "Gold discovered: 1872", "Gravelotte founded: 1885", "Mining: gold and antimony", "Vegetation: Mopane savanna"],
+    },
+  },
   {
     id: "waterberg-relief-v2",
     type: "relief",
     parent: "ZA-LIM",
     coords: [28.0, -24.0],
-    name: { de: "Waterberg-Plateau", hu: "Waterberg-fennsík", ro: "Podișul Waterberg", en: "Waterberg Plateau",
-image: "/poi-images/waterberg-relief-v2.webp"
-},
+    name: { de: "Waterberg-Plateau", hu: "Waterberg-fennsík", ro: "Podișul Waterberg", en: "Waterberg Plateau"},
+    image: "/poi-images/waterberg-relief-v2.webp",
     description: { de: "Ein Sandstein-Plateau im Limpopo-Gebiet.", hu: "Homokkő-fennsík a Limpopo régióban.", ro: "Un platou de gresie în regiunea Limpopo.", en: "A sandstone plateau in the Limpopo region." },
     facts: {
       de: ["UNESCO-Biosphärenreservat.", "Steile Klippen.", "Reiche Flora."],
       hu: ["UNESCO bioszféra-rezervátum.", "Meredek sziklák.", "Gazdag növényvilág."],
       ro: ["Rezervație a biosferei UNESCO.", "Stânci abrupte.", "Floră bogată."],
       en: ["UNESCO Biosphere Reserve.", "Steep cliffs.", "Rich flora."]
-    }, image: "/poi-images/waterberg-relief-v2.webp"},
+    }, image: "/poi-images/waterberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Waterberg-Plateau in der Provinz Limpopo ist ein Sandsteinplateau, das sich über 100 km erstreckt. Der höchste Punkt ist der 1.300 m hohe Geelhoutkop. Das Plateau ist reich an Fossilien aus dem Perm und Trias. Die Vegetation ist Savanne mit dichten Wäldern in den Schluchten. Der Waterberg-Nationalpark (54.000 ha) schützt Nashörner und Giraffen. Die Region ist beliebt für Safaris und Wanderungen.",
+      hu: "A Waterberg-fennsík Limpopo tartományban található, átlagmagassága 1000 m. Területe 100 km hosszú. Kőzete homokkő, kora 250 millió év. Itt található a Waterberg Nemzeti Park (54.000 ha). A fennsík fontos archeológiai lelőhely, ősrégi dinoszaurusz lábnyomokkal. Növényzet: szavanna, erdőfoltok. Vadvilág: orrszarvú, zsiráf, leopárd.",
+      ro: "Podisul Waterberg din Limpopo are o altitudine medie de 1.000 m, cu maxime de 1.300 m. Se întinde pe 100 km. Roci de gresie de 250 de milioane de ani. Parcul Național Waterberg (54.000 ha) protejează rinoceri și girafe. Zona are urme de dinozauri descoperite. A fost declarat rezervă în 1981. Fauna include 300 de specii de păsări.",
+      en: "The Waterberg Plateau in Limpopo Province rises to 1,300 m and stretches 100 km. It is a sandstone formation dating back 250 million years. The Waterberg National Park (54,000 ha) is a conservation area for rhinos, giraffes, and antelopes. The plateau contains dinosaur footprints and fossilized plants. The area is known for malaria-free game viewing and hiking trails.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: Geelhoutkop (1.300 m)", "Länge: 100 km", "Waterberg-Nationalpark: 54.000 ha", "Fossilien: 250 Millionen Jahre alt", "Dinosaurier-Fußabdrücke gefunden", "Malaria-freie Zone"],
+      hu: ["Legmagasabb: Geelhoutkop (1300 m)", "Hossz: 100 km", "Waterberg Nemzeti Park: 54.000 ha", "Kőzetkora: 250 millió év", "Dinoszaurusz lábnyomok: 200 millió évesek", "Védett fajok: 300 madár, 50 emlős"],
+      ro: ["Altitudine maximă: 1.300 m", "Lungime: 100 km", "Parcul Național Waterberg: 54.000 ha", "Vârsta rocilor: 250 milioane ani", "Urme de dinozaur: 200 milioane ani", "Faună: 300 specii păsări"],
+      en: ["Highest point: Geelhoutkop at 1,300 m", "Plateau length: 100 km", "Waterberg National Park: 54,000 ha", "Geological age: 250 million years", "Dinosaur footprints: 200 million years old", "Malaria-free safari destination"],
+    },
+  },
   {
     id: "magaliesberg-relief-v2",
     type: "mountain",
     parent: "ZA-NW",
     coords: [27.5, -25.8],
-    name: { de: "Magaliesberge", hu: "Magaliesberg", ro: "Munții Magaliesberg", en: "Magaliesberg",
-image: "/poi-images/magaliesberg-relief-v2.webp"
-},
+    name: { de: "Magaliesberge", hu: "Magaliesberg", ro: "Munții Magaliesberg", en: "Magaliesberg"},
+    image: "/poi-images/magaliesberg-relief-v2.webp",
     description: { de: "Eines der ältesten Gebirge der Welt.", hu: "A világ egyik legrégebbi hegysége.", ro: "Unul dintre cele mai vechi lanțuri muntoase din lume.", en: "One of the oldest mountain ranges in the world." },
     facts: {
       de: ["Über 2 Milliarden Jahre alt.", "Beliebtes Erholungsgebiet.", "Sandstein- und Quarzitkämme."],
       hu: ["Több mint 2 milliárd éves.", "Népszerű üdülőövezet.", "Homokkő és kvarcit gerincek."],
       ro: ["Peste 2 miliarde de ani vechime.", "Zonă de agrement populară.", "Creste de gresie și cuarț."],
       en: ["Over 2 billion years old.", "Popular recreational area.", "Sandstone and quartzite ridges."]
-    }, image: "/poi-images/magaliesberg-relief-v2.webp"},
+    }, image: "/poi-images/magaliesberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Magaliesberg-Gebirge erstreckt sich über etwa 120 km von Pretoria bis Rustenburg in Südafrika und erreicht Höhen von bis zu 1.852 m. Es handelt sich um eines der ältesten Gebirge der Welt, entstanden vor etwa 2,3 Milliarden Jahren. Die Region ist bekannt für ihre reiche Biodiversität mit über 1.500 Pflanzenarten. Historisch diente das Gebirge den indigenen Völkern als Rückzugsgebiet. Im 19. Jahrhundert fanden hier Kämpfe während des Burenkriegs statt. Heute ist es ein beliebtes Ziel für Wanderer und Naturliebhaber, mit zahlreichen Flüssen und Wasserfällen wie den Cadacwafällen.",
+      hu: "A Magaliesberg-hegység Dél-Afrikában, Pretoria és Rustenburg között húzódik, hossza körülbelül 120 km, legmagasabb pontja 1.852 m. A hegység geológiai szempontból rendkívül ősi, körülbelül 2,3 milliárd éves kőzetekből áll. Itt található a Cradle of Humankind (Az emberiség bölcsője) világörökségi helyszín része, ahol fontos ősemberi leletekre bukkantak. A térség gazdag vas- és mangánlelőhelyekben, amelyeket a 20. század elején bányásztak. Az ökoszisztéma változatos, beleértve a leopárdokat és a fekete sasokat. A turizmus fontos gazdasági ág, számos szálláshellyel és túraútvonallal.",
+      ro: "Munții Magaliesberg se întind pe aproximativ 120 km în Africa de Sud, între Pretoria și Rustenburg, atingând altitudini de până la 1.852 m. Aceștia sunt formați din roci sedimentare și vulcanice vechi de 2,3 miliarde de ani. Regiunea este cunoscută pentru peisajele sale spectaculoase și biodiversitatea bogată, incluzând specii endemice de plante. Din punct de vedere economic, zona atrage turiști pentru drumeții, alpinism și observarea păsărilor. De asemenea, aici se află barajul Hartbeespoort, construit în 1923, care asigură irigații și apă potabilă. În trecut, Munții Magaliesberg au fost scena unor ciocniri între boeri și triburile locale.",
+      en: "The Magaliesberg mountain range in South Africa stretches approximately 120 km from Pretoria to Rustenburg, with its highest peak at 1,852 m. Geologically, it is one of the oldest mountain ranges on Earth, formed around 2.3 billion years ago from sedimentary and volcanic rocks. The area is part of the UNESCO Cradle of Humankind, yielding significant hominid fossils such as Australopithecus africanus. The range supports a diverse ecosystem, including over 130 mammal species like zebras and klipspringers. Economically, it contributes to tourism and agriculture, with the Hartbeespoort Dam (built 1923) providing irrigation for the region.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 120 km", "Höchster Gipfel: 1.852 m über dem Meeresspiegel", "Geologisches Alter: ~2,3 Milliarden Jahre", "Pflanzenarten: über 1.500", "Baujahr Hartbeespoort-Staudamm: 1923", "Niederschlag: jährlich ~700 mm"],
+      hu: ["Hossz: kb. 120 km", "Legmagasabb pont: 1.852 m", "Kőzetek kora: 2,3 milliárd év", "Védett terület: 1998-ban hozták létre a Magaliesberg Bioszféra Rezervátumot", "Állatfajok száma: 130 emlős", "Hartbeespoort-gát kapacitása: 200 millió m³"],
+      ro: ["Lungime: 120 km", "Altitudine maximă: 1.852 m", "Vârsta geologică: ~2,3 miliarde de ani", "Număr de specii de plante: peste 1.500", "Barajul Hartbeespoort: construit în 1923", "Suprafața rezervației biosferei: 360.000 ha"],
+      en: ["Length: ~120 km", "Highest point: 1,852 m", "Geological age: 2.3 billion years", "Plant species: over 1,500", "Hartbeespoort Dam built: 1923", "Mammal species: 130"],
+    },
+  },
   {
     id: "kharras-relief-v2",
     type: "relief",
     parent: "ZA-NC",
     coords: [19.0, -27.5],
-    name: { de: "Kharras-Berge", hu: "Kharras-hegység", ro: "Munții Kharras", en: "Kharras Mountains",
-image: "/poi-images/kharras-relief-v2.webp"
-},
+    name: { de: "Kharras-Berge", hu: "Kharras-hegység", ro: "Munții Kharras", en: "Kharras Mountains"},
+    image: "/poi-images/kharras-relief-v2.webp",
     description: { de: "Eine trockene Bergregion in der Nordkap-Provinz.", hu: "Száraz hegyvidék az Észak-Fokföld tartományban.", ro: "Regiune muntoasă aridă în provincia Northern Cape.", en: "An arid mountain region in the Northern Cape province." },
     facts: {
       de: ["Spärliche Vegetation.", "Felsiges Terrain.", "Wüstenklima."],
       hu: ["Ritka növényzet.", "Sziklás terep.", "Sivatagi éghajlat."],
       ro: ["Vegetație rară.", "Teren stâncos.", "Climă deșertică."],
       en: ["Sparse vegetation.", "Rocky terrain.", "Desert climate."]
-    }, image: "/poi-images/kharras-relief-v2.webp"},
+    }, image: "/poi-images/kharras-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kharras-Gebirge liegt im Süden Namibias, nahe der Grenze zu Südafrika, und erstreckt sich über eine Länge von etwa 100 km. Die höchste Erhebung erreicht 1.650 m. Die Region ist extrem trocken mit weniger als 100 mm Jahresniederschlag. Geologisch besteht das Gebirge aus metamorphen Gesteinen des Damara-Orogens. Es ist dünn besiedelt und wird von der Namibwüste umgeben. Traditionell wird das Gebiet von den Nama-Völkern genutzt. Wirtschaftlich spielt der Diamantenabbau eine Rolle. Die einzigartige Flora umfasst Sukkulenten wie den Quiver Tree.",
+      hu: "A Kharras-hegység Namíbia déli részén található, mintegy 100 km hosszan, legmagasabb pontja 1.650 m. A terület rendkívül száraz, évi csapadékmennyisége kevesebb mint 100 mm. A hegység a Damara orogénhez tartozó metamorf kőzetekből áll, és a Namib-sivatag veszi körül. Itt található néhány endemikus növényfaj, mint a kharrasi süketfa. A térség gazdasága a gyémántbányászatra épül, a Sperrgebiet (Tiltott övezet) részét képezi. Az emberi jelenlét ritka, főként nomád pásztorok használják.",
+      ro: "Munții Kharras sunt situați în sudul Namibiei, aproape de granița cu Africa de Sud, având o lungime de aproximativ 100 km și o altitudine maximă de 1.650 m. Climatul este deșertic, cu precipitații anuale sub 100 mm. Din punct de vedere geologic, muntele este format din roci metamorfice ale orogenului Damara. Flora include specii de aloe și plante suculente adaptate secetei. Zona face parte din Sperrgebiet, o regiune interzisă datorită diamantelor. Din punct de vedere istoric, a fost locuit de poporul Nama.",
+      en: "The Kharras Mountains in southern Namibia stretch about 100 km, with a maximum elevation of 1,650 m. They are part of the Damara Orogen, composed mainly of metamorphic rocks. The area receives less than 100 mm of rainfall annually, supporting sparse vegetation like succulents and the endemic Kharras quiver tree. The mountains are within the Sperrgebiet (Forbidden Zone), a diamond mining area established in 1908. Historically, the Nama people used the region for grazing. Today, mining remains the primary economic activity.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 100 km", "Höchster Gipfel: 1.650 m", "Jahresniederschlag: <100 mm", "Geologischer Ursprung: Damara-Orogen", "Endemische Bäume: Kharras-Köcherbaum", "Diamantenabbau: Beginn 1908"],
+      hu: ["Hossz: 100 km", "Legmagasabb pont: 1.650 m", "Évi csapadék: <100 mm", "Sperrgebiet kiterjedése: 26.000 km²", "Endemikus fajok: Aloe dichotoma", "Népesség: ritka, kb. 1 fő/100 km²"],
+      ro: ["Lungime: 100 km", "Altitudine maximă: 1.650 m", "Precipitații anuale: <100 mm", "Vârsta geologică: Precambrian", "Suprafața Sperrgebiet: 26.000 km²", "Anul descoperirii diamantelor: 1908"],
+      en: ["Length: 100 km", "Highest point: 1,650 m", "Annual rainfall: <100 mm", "Geological origin: Damara Orogen", "Sperrgebiet area: 26,000 km²", "Diamond discovery year: 1908"],
+    },
+  },
   {
     id: "komsberg-relief-v2",
     type: "mountain",
     parent: "ZA-NC",
     coords: [20.5, -32.0],
-    name: { de: "Komsberg", hu: "Komsberg", ro: "Komsberg", en: "Komsberg",
-image: "/poi-images/komsberg-relief-v2.webp"
-},
+    name: { de: "Komsberg", hu: "Komsberg", ro: "Komsberg", en: "Komsberg"},
+    image: "/poi-images/komsberg-relief-v2.webp",
     description: { de: "Teil des Großen Randstufen-Gebirges (Great Escarpment).", hu: "A Nagy-párkányhegység (Great Escarpment) része.", ro: "Parte a lanțului muntos Great Escarpment.", en: "Part of the Great Escarpment mountain range." },
     facts: {
       de: ["Große Höhenunterschiede.", "Wichtige geologische Formation.", "Trockene Hänge."],
       hu: ["Nagy magasságkülönbségek.", "Fontos geológiai képződmény.", "Száraz lejtők."],
       ro: ["Diferențe mari de altitudine.", "Formațiune geologică importantă.", "Pante uscate."],
       en: ["Large elevation differences.", "Important geological formation.", "Dry slopes."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Komsberg ist ein Gebirgszug in der südafrikanischen Provinz Westkap, etwa 60 km lang, mit Gipfeln bis zu 1.500 m. Er bildet eine Wasserscheide zwischen den Einzugsgebieten von Gouritz und Breede River. Die Region besteht hauptsächlich aus Sandstein und Schiefer des Kap-Systems. Das Klima ist halbtrocken mit Winterregen. Die Vegetation gehört zum Fynbos-Biom, reich an Protea-Arten. Wirtschaftlich wird Schafzucht betrieben. Der Komsberg ist Teil der Cape Fold Belt.",
+      hu: "A Komsberg-hegyvonulat a dél-afrikai Nyugat-Fokföldön húzódik, hossza kb. 60 km, csúcsai elérik az 1.500 métert. Választóvonalat képez a Gouritz és Breede folyók vízgyűjtői között. Geológiailag a Kap-hegységrendszer homokköve és palája alkotja. Az éghajlat mediterrán jellegű, a csapadék télen hullik. A növényzet fynbos bozót, amely a világ egyik legnagyobb biodiverzitású flórabiomja. A terület fontos szerepet játszik a vízháztartásban, forrásokkal táplálja a folyókat.",
+      ro: "Komsberg este un lanț muntos în provincia Western Cape din Africa de Sud, având aproximativ 60 km lungime și altitudini de până la 1.500 m. Acesta separă bazinele hidrografice ale râurilor Gouritz și Breede. Format din gresii și șisturi ale Sistemului Cape, climatul este semi-arid, cu precipitații preponderent iarna. Vegetația este de tip fynbos, cu specii endemice de Protea. Economic, zona este utilizată pentru creșterea oilor. Komsberg face parte din Centura de Plisare a Capului.",
+      en: "The Komsberg mountain range in the Western Cape of South Africa runs about 60 km, with peaks reaching 1,500 m. It forms a watershed between the Gouritz and Breede Rivers. Geologically, it consists of Cape Supergroup sandstones and shales. The climate is Mediterranean, with winter rainfall averaging 300 mm annually. The vegetation is predominantly fynbos, known for its high plant diversity including over 1,500 species. The range is part of the Cape Fold Belt, formed around 300 million years ago. Sheep farming is the main economic activity.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 60 km", "Höchster Gipfel: 1.500 m", "Jahresniederschlag: ~300 mm", "Gestein: Sandstein und Schiefer (Kap-System)", "Alter der Kap-Falten: ~300 Mio. Jahre", "Protea-Arten: über 100"],
+      hu: ["Hossz: 60 km", "Legmagasabb pont: 1.500 m", "Évi csapadék: 300 mm", "Vízválasztó területe: 2.000 km²", "Fynbos fajszám: 1.500+ növényfaj", "Juhállomány: kb. 50.000"],
+      ro: ["Lungime: 60 km", "Altitudine maximă: 1.500 m", "Precipitații anuale: 300 mm", "Vârsta formațiunii: ~300 milioane de ani", "Număr specii fynbos: peste 1.500", "Suprafața bazinului hidrografic: 2.000 km²"],
+      en: ["Length: 60 km", "Highest point: 1,500 m", "Annual rainfall: ~300 mm", "Rock type: Cape Supergroup sandstone", "Fold belt age: ~300 million years", "Fynbos species: over 1,500"],
+    },
   },
   {
     id: "sneeuberge-relief-v2",
     type: "mountain",
     parent: "ZA-EC",
     coords: [24.5, -32.0],
-    name: { de: "Sneeuberge", hu: "Sneeuberge", ro: "Sneeuberge", en: "Sneeuberge",
-image: "/poi-images/sneeuberge-relief-v2.webp"
-},
+    name: { de: "Sneeuberge", hu: "Sneeuberge", ro: "Sneeuberge", en: "Sneeuberge"},
+    image: "/poi-images/sneeuberge-relief-v2.webp",
     description: { de: "Gebirgszug bei Graaff-Reinet im Ostkap.", hu: "Hegylánc Graaff-Reinet mellett a Kelet-Fokföldön.", ro: "Lanț muntos lângă Graaff-Reinet în Eastern Cape.", en: "Mountain range near Graaff-Reinet in the Eastern Cape." },
     facts: {
       de: ["Name bedeutet 'Schneeberge'.", "Trockene Graslandschaften.", "Interessante Felsformationen."],
       hu: ["A név jelentése 'Havas-hegyek'.", "Száraz füves területek.", "Érdekes sziklaformációk."],
       ro: ["Numele înseamnă 'Munții Zăpezii'.", "Pajiști uscate.", "Formațiuni stâncoase interesante."],
       en: ["Name means 'Snow Mountains'.", "Dry grasslands.", "Interesting rock formations."]
-    }, image: "/poi-images/sneeuberge-relief-v2.webp"},
+    }, image: "/poi-images/sneeuberge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sneeuberge (Schneeberge) sind ein Gebirgszug in der südafrikanischen Provinz Ostkap, mit einer Länge von etwa 100 km. Der höchste Gipfel ist der Kompasberg mit 2.502 m. Die Berge bestehen aus Sandstein des Beaufort-Systems und sind für ihre fossilen Reptilien aus dem Perm bekannt. Die Region ist kalt und erhält im Winter oft Schnee. Die Vegetation umfasst Grasland und Sukkulenten. Wirtschaftlich dominiert die Schaf- und Ziegenzucht. Die Sneeuberge sind Teil der Great Escarpment.",
+      hu: "A Sneeuberge (Havas-hegység) a dél-afrikai Kelet-Fokföldön található, hossza kb. 100 km, legmagasabb csúcsa a Kompasberg (2.502 m). Geológiai szempontból a Beaufort-csoport homokköve építi fel, amely gazdag perm kori hüllőfosszíliákban. Az éghajlat hideg telekkel jár, gyakori a hóesés. A növényzet szavanna és fynbos keveréke. A térség híres barlangjairól és sziklarajzairól, amelyek a szanok alkotásai. A gazdaság a juhtenyésztésre és a turizmusra épül.",
+      ro: "Munții Sneeuberge (Muntii Zăpezii) sunt situați în provincia Eastern Cape din Africa de Sud, având o lungime de aproximativ 100 km. Cel mai înalt vârf este Kompasberg cu 2.502 m. Din punct de vedere geologic, sunt formați din gresii ale Grupului Beaufort, cunoscute pentru fosilele de reptile permiene. Climatul este rece, cu ninsori frecvente iarna. Vegetația constă în pajiști și plante suculente. Zona este importantă pentru creșterea oilor și caprelor, precum și pentru turism, oferind trasee de drumeție și peisaje spectaculoase.",
+      en: "The Sneeuberge (Snow Mountains) in South Africa's Eastern Cape stretch about 100 km, culminating at Kompasberg (2,502 m). The range is composed of Beaufort Group sandstones, rich in Permian reptile fossils. Winters are cold with regular snowfall, supporting grassland and succulent vegetation. Historically, the area was inhabited by San hunter-gatherers, evidenced by rock art. Today, sheep and goat farming are predominant. The Sneeuberge form part of the Great Escarpment, a major geological feature separating the high interior from the coastal plain.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km", "Höchster Gipfel Kompasberg: 2.502 m", "Gestein: Beaufort-Sandstein (Perm)", "Wintertemperatur: bis -10°C", "Fossilien: Perm-Reptilien wie Diictodon", "Schafbestand: über 100.000 Tiere"],
+      hu: ["Hossz: 100 km", "Kompasberg magassága: 2.502 m", "Perm időszak: 299-251 millió éve", "Évi havazás: kb. 30 nap", "Barlangok száma: több mint 50", "Szan sziklarajzok: kb. 200 helyszín"],
+      ro: ["Lungime: 100 km", "Vârful Kompasberg: 2.502 m", "Vârsta rocilor: Permian (299-251 milioane ani)", "Temperatură minimă iarna: -10°C", "Număr fosile reptile: sute de exemplare", "Suprafața: 5.000 km²"],
+      en: ["Length: 100 km", "Highest peak Kompasberg: 2,502 m", "Geological age: Permian", "Winter snowfall: ~30 days per year", "Fossil reptiles: Diictodon, Lystrosaurus", "Sheep population: >100,000"],
+    },
+  },
   {
     id: "rooge-relief-v2",
     type: "relief",
     parent: "ZA-NC",
     coords: [21.5, -30.0],
-    name: { de: "Rooge-Hügel", hu: "Rooge-dombok", ro: "Dealurile Rooge", en: "Rooge Hills",
-image: "/poi-images/rooge-relief-v2.webp"
-},
+    name: { de: "Rooge-Hügel", hu: "Rooge-dombok", ro: "Dealurile Rooge", en: "Rooge Hills"},
+    image: "/poi-images/rooge-relief-v2.webp",
     description: { de: "Hügellandschaft am Rande des Großen Randstufen-Gebirges.", hu: "Dombvidék a Nagy-párkányhegység peremén.", ro: "Podiș deluros la marginea Great Escarpment.", en: "Hilly landscape at the edge of the Great Escarpment." },
     facts: {
       de: ["Trockenheit.", "Felsige Hügel.", "Offene Landschaft."],
       hu: ["Szárazság.", "Sziklás dombok.", "Nyílt táj."],
       ro: ["Secetă.", "Dealuri stâncoase.", "Peisaj deschis."],
       en: ["Dryness.", "Rocky hills.", "Open landscape."]
-    }, image: "/poi-images/rooge-relief-v2.webp"},
+    }, image: "/poi-images/rooge-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Rooge Hills sind eine Hügelkette in der südafrikanischen Provinz Nordkap, die sich etwa 40 km erstreckt. Die höchsten Erhebungen erreichen 1.200 m. Die Hügel bestehen aus Dolerit und Sedimentgesteinen, die durch Erosion geformt wurden. Das Klima ist trocken mit weniger als 200 mm Regen pro Jahr. Die Vegetation ist spärlich, dominiert von Gräsern und Büschen. Die Region wird für extensive Viehzucht (Rinder, Schafe) genutzt. Historisch wurde hier nach Diamanten gesucht, aber ohne großen Erfolg.",
+      hu: "A Rooge-dombok a dél-afrikai Észak-Fokföldön találhatók, hosszuk kb. 40 km, legmagasabb pontjuk 1.200 m. Doleritból és üledékes kőzetekből állnak, amelyek a kora jura kori magmás tevékenység eredményei. Az éghajlat félsivatagi, évi 200 mm csapadékkal. A növényzet ritka fűfélékből és bokrokból áll. Gazdaságilag a szarvasmarha- és juhtenyésztés jellemző. A dombok fontos szerepet játszanak a helyi vízgyűjtésben, néhány időszakos patakkal.",
+      ro: "Dealurile Rooge sunt un lanț de coline în provincia Northern Cape din Africa de Sud, cu o lungime de aproximativ 40 km și altitudini de până la 1.200 m. Sunt formate din dolerit și roci sedimentare, rezultate din activitatea vulcanică din Jurasicul timpuriu. Climatul este semi-arid, cu precipitații anuale sub 200 mm. Vegetația este formată din ierburi și arbuști, iar zona este folosită pentru creșterea vitelor și oilor. Din punct de vedere istoric, au fost exploatate pentru diamante, dar fără succes major.",
+      en: "The Rooge Hills in South Africa's Northern Cape extend about 40 km, reaching heights of 1,200 m. Composed of dolerite and sedimentary rocks from Early Jurassic volcanic activity, they form part of the Karoo landscape. The climate is semi-arid with less than 200 mm annual precipitation. Vegetation is sparse, consisting of low shrubs and grasses. Livestock farming (cattle and sheep) is the primary economic activity. The hills are also a source of building materials like dolerite for local construction.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 40 km", "Höchster Punkt: 1.200 m", "Jahresniederschlag: <200 mm", "Gestein: Dolerit (Jura)", "Viehdichte: 1 Rind/10 ha", "Diamantenfunde: sporadisch ab 1870"],
+      hu: ["Hossz: 40 km", "Legmagasabb pont: 1.200 m", "Évi csapadék: <200 mm", "Dolerit kora: ~180 millió év", "Szarvasmarha: kb. 20.000", "Terület: 1.500 km²"],
+      ro: ["Lungime: 40 km", "Altitudine maximă: 1.200 m", "Precipitații anuale: <200 mm", "Vârsta doleritului: Jurasicul timpuriu (~180 milioane ani)", "Număr vite: 20.000 capete", "Suprafața: 1.500 km²"],
+      en: ["Length: 40 km", "Highest point: 1,200 m", "Annual rainfall: <200 mm", "Rock age: Early Jurassic (~180 Ma)", "Cattle population: ~20,000", "Area: 1,500 km²"],
+    },
+  },
   {
     id: "baviaanskloof-relief-v2",
     type: "relief",
     parent: "ZA-EC",
     coords: [24.0, -33.5],
-    name: { de: "Baviaanskloof-Tal", hu: "Baviaanskloof-völgy", ro: "Valea Baviaanskloof", en: "Baviaanskloof Valley",
-image: "/poi-images/baviaanskloof-relief-v2.webp"
-},
+    name: { de: "Baviaanskloof-Tal", hu: "Baviaanskloof-völgy", ro: "Valea Baviaanskloof", en: "Baviaanskloof Valley"},
+    image: "/poi-images/baviaanskloof-relief-v2.webp",
     description: { de: "Ein spektakuläres, tief eingeschnittenes Tal.", hu: "Látványos, mélyen bevágódott völgy.", ro: "O vale spectaculoasă, adânc incizată.", en: "A spectacular, deeply incised valley." },
     facts: {
       de: ["UNESCO-Welterbe.", "Reiche Biodiversität.", "Wildnisgebiet."],
       hu: ["UNESCO világörökség.", "Gazdag biodiverzitás.", "Vadvilági terület."],
       ro: ["Patrimoniul Mondial UNESCO.", "Biodiversitate bogată.", "Zonă de sălbăticie."],
       en: ["UNESCO World Heritage.", "Rich biodiversity.", "Wilderness area."]
-    }, image: "/poi-images/baviaanskloof-relief-v2.webp"},
+    }, image: "/poi-images/baviaanskloof-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Baviaanskloof ist ein Tal in der südafrikanischen Provinz Ostkap, das sich über etwa 100 km erstreckt. Es ist Teil des Baviaanskloof Mega-Reservats, das 2004 zum UNESCO-Weltkulturerbe erklärt wurde. Das Tal wird vom Baviaans River durchflossen und ist von steilen Felswänden aus Sandstein umgeben. Die Region beherbergt eine außergewöhnliche Biodiversität mit über 1.000 Pflanzenarten. Wirtschaftlich spielen Ökotourismus und Landwirtschaft (Zitrusfrüchte) eine Rolle. Das Tal ist auch als Heritage Site anerkannt.",
+      hu: "A Baviaanskloof (Pávián-szurdok) a dél-afrikai Kelet-Fokföldön található völgy, hossza kb. 100 km. 2004-ben az UNESCO Világörökség részévé nyilvánították, mint a Baviaanskloof Mega-rezervátum. A völgyet a Baviaans folyó szeli át, és homokkő szirtek határolják. A biodiverzitás rendkívül gazdag: több mint 1.000 növényfaj él itt, köztük endemikus fajok. A területen fokföldi páviánok, leopárdok és ritka madarak találhatók. A gazdaság a turizmusra és a citrusfélék termesztésére épül.",
+      ro: "Valea Baviaanskloof este situată în provincia Eastern Cape din Africa de Sud, având o lungime de aproximativ 100 km. Face parte din Rezervația Mega Baviaanskloof, declarată Patrimoniu Mondial UNESCO în 2004. Valea este străbătută de râul Baviaans și mărginită de stânci de gresie. Biodiversitatea este remarcabilă, cu peste 1.000 de specii de plante, inclusiv endemice. Fauna include babuini, leoparzi și păsări rare. Economic, se bazează pe turism ecologic și cultivarea citricelor.",
+      en: "The Baviaanskloof Valley in South Africa's Eastern Cape is about 100 km long. It is part of the Baviaanskloof Mega-Reserve, a UNESCO World Heritage Site since 2004, known for its exceptional biodiversity. The valley is carved by the Baviaans River through Cape Supergroup sandstones. It hosts over 1,000 plant species, including many endemics, and animals like the Cape mountain zebra and African fish eagle. The area is a hub for eco-tourism, hiking, and 4x4 trails. Citrus farming is also significant.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km", "UNESCO-Welterbe seit 2004", "Pflanzenarten: über 1.000", "Fluss: Baviaans River, Länge 80 km", "Höchster Wasserfall: 60 m", "Besucher pro Jahr: ca. 50.000"],
+      hu: ["Hossz: 100 km", "UNESCO státusz: 2004", "Növényfajok: 1.000+", "Citrusfélék területe: 500 ha", "Emberi populáció: kb. 2.000", "Rezervátum területe: 1.900 km²"],
+      ro: ["Lungime: 100 km", "Anul UNESCO: 2004", "Specii de plante: peste 1.000", "Suprafața rezervației: 1.900 km²", "Populație umană: ~2.000", "Număr vizitatori: 50.000/an"],
+      en: ["Length: 100 km", "UNESCO designation: 2004", "Plant species: over 1,000", "Reserve area: 1,900 km²", "River length: 80 km", "Annual visitors: 50,000"],
+    },
+  },
   {
     id: "kogelberg-relief-v2",
     type: "mountain",
     parent: "ZA-WC",
     coords: [19.0, -34.0],
-    name: { de: "Kogelberg-Berge", hu: "Kogelberg-hegység", ro: "Munții Kogelberg", en: "Kogelberg Mountains",
-image: "/poi-images/kogelberg-relief-v2.webp"
-},
+    name: { de: "Kogelberg-Berge", hu: "Kogelberg-hegység", ro: "Munții Kogelberg", en: "Kogelberg Mountains"},
+    image: "/poi-images/kogelberg-relief-v2.webp",
     description: { de: "Das Herzstück des Kap-Fynbos-Bioms.", hu: "A fynbos-biom szíve a Fokföldön.", ro: "Inima biomului Cape Fynbos.", en: "The heart of the Cape Fynbos biome." },
     facts: {
       de: ["Höchste Pflanzenvielfalt.", "Bergregion.", "Meerblick."],
       hu: ["Legmagasabb növényi sokféleség.", "Hegyvidék.", "Kilátás az óceánra."],
       ro: ["Cea mai mare diversitate de plante.", "Regiune muntoasă.", "Vedere la ocean."],
       en: ["Highest plant diversity.", "Mountain region.", "Ocean views."]
-    }, image: "/poi-images/kogelberg-relief-v2.webp"},
+    }, image: "/poi-images/kogelberg-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kogelberg-Gebirge liegt in der südafrikanischen Provinz Westkap, etwa 60 km südöstlich von Kapstadt. Es erstreckt sich über 30 km und erreicht Höhen bis zu 1.380 m. Das Gebirge ist Teil des Kogelberg-Biosphärenreservats, das 1998 von der UNESCO anerkannt wurde. Die Vegetation ist Fynbos mit über 1.800 Pflanzenarten, darunter viele Endemiten. Die Region ist ein wichtiges Wassereinzugsgebiet für Kapstadt. Der Kogelberg Dam (1986) versorgt die Metropole mit Trinkwasser. Die Berge sind bekannt für ihre steilen Klippen und tiefen Täler.",
+      hu: "A Kogelberg-hegység a dél-afrikai Nyugat-Fokföldön, Fokvárostól 60 km-re délkeletre található. Hossza 30 km, legmagasabb pontja 1.380 m. A hegység az UNESCO által 1998-ban elismert Kogelberg Bioszféra Rezervátum része. A fynbos növényzet rendkívül gazdag: 1.800 növényfaj él itt, közülük sok endemikus. A térség fontos vízgyűjtő terület, a Kogelberg-gát (1986) Fokváros vízellátását biztosítja. A geológia főként gránitból és homokkőből áll.",
+      ro: "Munții Kogelberg sunt situați în provincia Western Cape din Africa de Sud, la aproximativ 60 km sud-est de Cape Town. Se întind pe 30 km și ating altitudini de 1.380 m. Fac parte din Rezervația Biosferei Kogelberg, recunoscută de UNESCO în 1998. Vegetația fynbos este excepțional de diversă, cu peste 1.800 de specii de plante, multe endemice. Zona este un important bazin hidrografic, iar barajul Kogelberg (construit în 1986) furnizează apă potabilă pentru Cape Town. Munții sunt formați predominant din granit și gresie.",
+      en: "The Kogelberg Mountains in South Africa's Western Cape, 60 km southeast of Cape Town, run 30 km with peaks up to 1,380 m. They are part of the Kogelberg Biosphere Reserve (UNESCO, 1998), renowned for its fynbos vegetation—over 1,800 plant species, many endemic. The range supplies water via the Kogelberg Dam (built 1986) to Cape Town. Geologically, it comprises granite and Cape Supergroup sandstone. The area is a biodiversity hotspot and a key area for conservation, hosting rare species like the Kogelberg protea.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 30 km", "Höchster Punkt: 1.380 m", "Pflanzenarten: 1.800+", "UNESCO-Biosphärenreservat seit 1998", "Kogelberg Dam Baujahr: 1986", "Endemische Arten: über 100"],
+      hu: ["Hossz: 30 km", "Legmagasabb pont: 1.380 m", "Növényfajok: 1.800+", "UNESCO státusz: 1998", "Kogelberg-gát kapacitása: 100 millió m³", "Endemikus növények: ~150"],
+      ro: ["Lungime: 30 km", "Altitudine maximă: 1.380 m", "Specii plante: peste 1.800", "Anul UNESCO: 1998", "Capacitate baraj: 100 milioane m³", "Specii endemice: ~150"],
+      en: ["Length: 30 km", "Highest point: 1,380 m", "Plant species: over 1,800", "UNESCO Biosphere since 1998", "Kogelberg Dam volume: 100 million m³", "Endemic species: ~150"],
+    },
+  },
   {
     id: "blouberg-relief-v2",
     type: "mountain",
     parent: "ZA-LIM",
     coords: [28.8, -23.0],
-    name: { de: "Blouberg", hu: "Blouberg", ro: "Blouberg", en: "Blouberg",
-image: "/poi-images/blouberg-relief-v2.webp"
-},
+    name: { de: "Blouberg", hu: "Blouberg", ro: "Blouberg", en: "Blouberg"},
+    image: "/poi-images/blouberg-relief-v2.webp",
     description: { de: "Ein isolierter Bergmassiv in der Limpopo-Provinz.", hu: "Elszigetelt hegymasszívum Limpopo tartományban.", ro: "Masiv muntos izolat în provincia Limpopo.", en: "An isolated mountain massif in the Limpopo province." },
     facts: {
       de: ["Bekannt für Geier.", "Steile Wände.", "Wildnis."],
       hu: ["Híres a keselyűkről.", "Meredek falak.", "Vadvilág."],
       ro: ["Cunoscut pentru vulturi.", "Pereți abrupți.", "Sălbăticie."],
       en: ["Known for vultures.", "Steep walls.", "Wilderness."]
-      }
+      },
+    descriptionAdvanced: {
+      de: "Der Blouberg (Blauer Berg) ist ein markanter Berg in der südafrikanischen Provinz Limpopo, etwa 60 km nördlich von Polokwane. Er erreicht eine Höhe von 1.341 m und erstreckt sich über 10 km. Der Berg besteht aus Sandstein des Karoo-Systems. Er ist bekannt für seine bläuliche Färbung aufgrund der Vegetation und Gesteinsart. Die Region wird von der Venda-Kultur bewohnt. Wirtschaftlich bedeutsam sind Landwirtschaft und Tourismus. Am Fuße des Berges liegt die Stadt Blouberg.",
+      hu: "A Blouberg (Kék-hegy) a dél-afrikai Limpopo tartományban található, Polokwanétól 60 km-re északra. Magassága 1.341 m, hossza 10 km. A hegy a Karoo-rendszer homokkövéből épül fel. Kékes színét a növényzet és a kőzet ásványi összetétele adja. A térséget a venda nép lakja, akik a hegyet szent helyként tisztelik. A gazdaság a mezőgazdaságra (kukorica, gyapot) és a turizmusra épül. A hegyen található a Blouberg Természetvédelmi Terület.",
+      ro: "Blouberg (Muntele Albastru) este un munte proeminent în provincia Limpopo din Africa de Sud, la 60 km nord de Polokwane. Are o altitudine de 1.341 m și se întinde pe 10 km. Muntele este compus din gresii ale Sistemului Karoo. Culoarea sa albăstruie se datorează vegetației și mineralelor. Zona este locuită de poporul Venda, care consideră muntele sacru. Economia locală se bazează pe agricultură (porumb, bumbac) și turism. Rezervația Naturală Blouberg se întinde pe 1.200 ha.",
+      en: "Blouberg (Blue Mountain) is a prominent mountain in South Africa's Limpopo Province, 60 km north of Polokwane, reaching 1,341 m and stretching 10 km. It is composed of Karoo Supergroup sandstones, giving it a bluish hue. The mountain is sacred to the Venda people, who perform rituals there. The Blouberg Nature Reserve (1,200 ha) protects diverse wildlife including kudu and leopard. Agriculture (maize, cotton) and tourism sustain the local economy. The area also contains archaeological sites with San rock art.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.341 m", "Länge: 10 km", "Gestein: Karoo-Sandstein", "Schutzgebiet: Blouberg Nature Reserve, 1.200 ha", "Kulturell: Heiliger Berg der Venda", "Höchster Wasserfall: 30 m"],
+      hu: ["Magasság: 1.341 m", "Hossz: 10 km", "Rezervátum területe: 1.200 ha", "Népesség: ~30.000 venda", "Mezőgazdasági terület: 5.000 ha", "Sziklarajzok: 50+ lelőhely"],
+      ro: ["Altitudine: 1.341 m", "Lungime: 10 km", "Suprafața rezervației: 1.200 ha", "Populație Venda: ~30.000", "Cultură: porumb 4.000 ha", "Arte rupestre: 50 de situri"],
+      en: ["Height: 1,341 m", "Length: 10 km", "Reserve area: 1,200 ha", "Venda population: ~30,000", "Maize cultivation: 4,000 ha", "Rock art sites: 50+"],
+    },
   }
 ];
 

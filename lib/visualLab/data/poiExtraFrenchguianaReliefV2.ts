@@ -15,14 +15,10 @@ export const poiExtraFrenchguianaReliefV2: POI[] = [
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf mont itoupe relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mont-itoupe-relief-v2.webp"
-},
+      en: "The region surrounding gf mont itoupe relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mont-itoupe-relief-v2.webp",
     description: {
       de: "Einer der höchsten Gipfel in Französisch-Guayana mit 830 Metern Höhe.",
       hu: "Francia Guyana egyik legmagasabb csúcsa, amely 830 méter magasságba nyúlik.",
@@ -50,14 +46,10 @@ image: "/poi-images/gf-mont-itoupe-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf monts bakra relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-monts-bakra-relief-v2.webp"
-},
+      en: "The region surrounding gf monts bakra relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-monts-bakra-relief-v2.webp",
     description: {
       de: "Eine Gebirgskette im Südwesten von Französisch-Guayana nahe der brasilianischen Grenze.",
       hu: "Hegylánc Francia Guyana délnyugati részén, a brazil határ közelében.",
@@ -85,14 +77,10 @@ image: "/poi-images/gf-monts-bakra-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf massif dekou dekou relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-massif-dekou-dekou-relief-v2.webp"
-},
+      en: "The region surrounding gf massif dekou dekou relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-massif-dekou-dekou-relief-v2.webp",
     description: {
       de: "Ein bedeutendes Gebirgsmassiv und wichtiges Naturschutzgebiet im Westen des Landes.",
       hu: "Egy jelentős hegység és fontos természetvédelmi terület az ország nyugati részén.",
@@ -120,14 +108,10 @@ image: "/poi-images/gf-massif-dekou-dekou-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf montagnes de la trinite relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-montagnes-de-la-trinite-relief-v2.webp"
-},
+      en: "The region surrounding gf montagnes de la trinite relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-montagnes-de-la-trinite-relief-v2.webp",
     description: {
       de: "Ein isoliertes Gebirgsmassiv im Zentrum des Regenwaldes von Französisch-Guayana.",
       hu: "Egy elszigetelt hegység Francia Guyana esőerdejének közepén.",
@@ -155,14 +139,10 @@ image: "/poi-images/gf-montagnes-de-la-trinite-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf mont machalou relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mont-machalou-relief-v2.webp"
-},
+      en: "The region surrounding gf mont machalou relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mont-machalou-relief-v2.webp",
     description: {
       de: "Ein markanter Berg im südlichen Teil von Französisch-Guayana.",
       hu: "Egy jellegzetes hegy Francia Guyana déli részén.",
@@ -190,14 +170,10 @@ image: "/poi-images/gf-mont-machalou-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf montagne d argent relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-montagne-d-argent-relief-v2.webp"
-},
+      en: "The region surrounding gf montagne d argent relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-montagne-d-argent-relief-v2.webp",
     description: {
       de: "Eine historische und markante Erhebung nahe der Küste, die einst besiedelt war.",
       hu: "Egy történelmi és jellegzetes magaslat a part közelében, amely egykor lakott volt.",
@@ -225,14 +201,10 @@ image: "/poi-images/gf-montagne-d-argent-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf pic coudreau relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-pic-coudreau-relief-v2.webp"
-},
+      en: "The region surrounding gf pic coudreau relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-pic-coudreau-relief-v2.webp",
     description: {
       de: "Ein 711 Meter hoher Berggipfel, benannt nach dem Entdecker Henri Coudreau.",
       hu: "Egy 711 méter magas hegycsúcs, amelyet Henri Coudreau felfedezőről neveztek el.",
@@ -260,14 +232,10 @@ image: "/poi-images/gf-pic-coudreau-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf sommet maman relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-sommet-maman-relief-v2.webp"
-},
+      en: "The region surrounding gf sommet maman relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-sommet-maman-relief-v2.webp",
     description: {
       de: "Ein Berggipfel im tiefen Regenwald von Französisch-Guayana.",
       hu: "Hegycsúcs Francia Guyana mély esőerdejében.",
@@ -296,14 +264,10 @@ image: "/poi-images/gf-sommet-maman-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf monts tumuc humac relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-monts-tumuc-humac-relief-v2.webp"
-},
+      en: "The region surrounding gf monts tumuc humac relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-monts-tumuc-humac-relief-v2.webp",
     description: {
       de: "Eine ausgedehnte Hügel- und Bergkette an der südlichen Grenze zu Brasilien.",
       hu: "Kiterjedt domb- és hegylánc a déli határon Brazíliával.",
@@ -331,14 +295,10 @@ image: "/poi-images/gf-monts-tumuc-humac-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf monts d arawa relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-monts-d-arawa-relief-v2.webp"
-},
+      en: "The region surrounding gf monts d arawa relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-monts-d-arawa-relief-v2.webp",
     description: {
       de: "Eine Gebirgsformation im westlich-zentralen Teil des Überseedepartements.",
       hu: "Egy hegyképződmény a tengerentúli megye nyugati-középső részén.",
@@ -366,14 +326,10 @@ image: "/poi-images/gf-monts-d-arawa-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Acest obiectiv natural sau agricol evidențiază bogăția biodiversității și diversitatea practicilor de cultivare specifice Guyanei Franceze. Într-un mediu dominat de pădurea amazoniană, acest loc oferă o perspectivă asupra interacțiunii umane cu natura și a eforturilor de conservare a resurselor unice. Fie că este vorba despre o rezervație naturală sau o fermă ce cultivă produse exotice, locația subliniază importanța durabilității pentru viitorul regiunii. Vizitarea acestui sit permite înțelegerea ecosistemelor locale și a tradițiilor agricole ce susțin economia verde a departamentului. Științe ale Naturii K5/K6 — ecosisteme amazoniene și agricultură tropicală.",
-      en: "The region surrounding gf massif lucifer relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-massif-lucifer-relief-v2.webp"
-},
+      en: "The region surrounding gf massif lucifer relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-massif-lucifer-relief-v2.webp",
     description: {
       de: "Ein isoliertes Massiv und wichtiges ökologisches Reservat mit hoher Biodiversität.",
       hu: "Egy elszigetelt masszívum és fontos ökológiai rezervátum magas biológiai sokféleséggel.",
@@ -401,14 +357,10 @@ image: "/poi-images/gf-massif-lucifer-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf mont kotika relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mont-kotika-relief-v2.webp"
-},
+      en: "The region surrounding gf mont kotika relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mont-kotika-relief-v2.webp",
     description: {
       de: "Mit etwa 730 Metern eine der bemerkenswerten Erhebungen im Guayana-Schild.",
       hu: "Körülbelül 730 méteres magasságával a Guyanai-pajzs egyik figyelemre méltó kiemelkedése.",
@@ -436,14 +388,10 @@ image: "/poi-images/gf-mont-kotika-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf mont saint clair relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mont-saint-clair-relief-v2.webp"
-},
+      en: "The region surrounding gf mont saint clair relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mont-saint-clair-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg, der sich aus dem dichten Regenwald des Landesinneren erhebt.",
       hu: "Egy elszigetelt hegy, amely a belföld sűrű esőerdejéből emelkedik ki.",
@@ -471,14 +419,10 @@ image: "/poi-images/gf-mont-saint-clair-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf mont galbao relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mont-galbao-relief-v2.webp"
-},
+      en: "The region surrounding gf mont galbao relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mont-galbao-relief-v2.webp",
     description: {
       de: "Eine rund 700 Meter hohe Bergformation mit einem einzigartigen Ökosystem.",
       hu: "Egy mintegy 700 méter magas hegyképződmény egyedülálló ökoszisztémával.",
@@ -506,14 +450,10 @@ image: "/poi-images/gf-mont-galbao-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf foret de la crique voltaire relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-foret-de-la-crique-voltaire-relief-v2.webp"
-},
+      en: "The region surrounding gf foret de la crique voltaire relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-foret-de-la-crique-voltaire-relief-v2.webp",
     description: {
       de: "Ein dichtes Waldgebiet rund um den Flusslauf des Crique Voltaire.",
       hu: "Egy sűrű erdőterület a Crique Voltaire folyása körül.",
@@ -541,14 +481,10 @@ image: "/poi-images/gf-foret-de-la-crique-voltaire-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf foret de la montagne de plomb relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-foret-de-la-montagne-de-plomb-relief-v2.webp"
-},
+      en: "The region surrounding gf foret de la montagne de plomb relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-foret-de-la-montagne-de-plomb-relief-v2.webp",
     description: {
       de: "Ein bergiges Waldgebiet, das sich durch seine dichte tropische Vegetation auszeichnet.",
       hu: "Hegyvidéki erdőterület, amelyet sűrű trópusi növényzet jellemez.",
@@ -576,14 +512,10 @@ image: "/poi-images/gf-foret-de-la-montagne-de-plomb-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf foret de l acarouany relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-foret-de-l-acarouany-relief-v2.webp"
-},
+      en: "The region surrounding gf foret de l acarouany relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-foret-de-l-acarouany-relief-v2.webp",
     description: {
       de: "Ein bedeutendes Waldreservat im Nordwesten von Französisch-Guayana.",
       hu: "Egy jelentős erdőrezervátum Francia Guyana északnyugati részén.",
@@ -611,14 +543,10 @@ image: "/poi-images/gf-foret-de-l-acarouany-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf foret de regina relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-foret-de-regina-relief-v2.webp"
-},
+      en: "The region surrounding gf foret de regina relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-foret-de-regina-relief-v2.webp",
     description: {
       de: "Ausgedehnte Urwaldgebiete im Osten von Französisch-Guayana rund um die Gemeinde Régina.",
       hu: "Kiterjedt őserdők Francia Guyana keleti részén, Régina község körül.",
@@ -646,14 +574,10 @@ image: "/poi-images/gf-foret-de-regina-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf foret d organabo relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-foret-d-organabo-relief-v2.webp"
-},
+      en: "The region surrounding gf foret d organabo relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-foret-d-organabo-relief-v2.webp",
     description: {
       de: "Ein Wald- und Savannengebiet an der Nordküste zwischen Iracoubo und Mana.",
       hu: "Erdő- és szavannaterület az északi parton Iracoubo és Mana között.",
@@ -681,14 +605,10 @@ image: "/poi-images/gf-foret-d-organabo-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf chaine de l inini relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-chaine-de-l-inini-relief-v2.webp"
-},
+      en: "The region surrounding gf chaine de l inini relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-chaine-de-l-inini-relief-v2.webp",
     description: {
       de: "Eine gebirgige Zone im Herzen von Französisch-Guayana, historisch bedeutend für Goldgräber.",
       hu: "Egy hegyvidéki zóna Francia Guyana szívében, történelmileg jelentős az aranyásók számára.",
@@ -716,14 +636,10 @@ image: "/poi-images/gf-chaine-de-l-inini-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf mont leblond relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-mont-leblond-relief-v2.webp"
-},
+      en: "The region surrounding gf mont leblond relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-mont-leblond-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel von 736 Metern Höhe im schwer zugänglichen Landesinneren.",
       hu: "Egy 736 méter magas, nehezen megközelíthető, jellegzetes hegycsúcs a belföldön.",
@@ -751,14 +667,10 @@ image: "/poi-images/gf-mont-leblond-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf montagne plomb relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-montagne-plomb-relief-v2.webp"
-},
+      en: "The region surrounding gf montagne plomb relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-montagne-plomb-relief-v2.webp",
     description: {
       de: "Ein bewaldeter Berg in der Küstenebene, der sich deutlich von seiner Umgebung abhebt.",
       hu: "Egy erdős hegy a parti síkságon, amely egyértelműen kiemelkedik környezetéből.",
@@ -786,14 +698,10 @@ image: "/poi-images/gf-montagne-plomb-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf sommet emeric relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-sommet-emeric-relief-v2.webp"
-},
+      en: "The region surrounding gf sommet emeric relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-sommet-emeric-relief-v2.webp",
     description: {
       de: "Eine abgelegene Erhebung im tiefen Wald von Französisch-Guayana.",
       hu: "Egy elszigetelt kiemelkedés Francia Guyana mély erdejében.",
@@ -821,14 +729,10 @@ image: "/poi-images/gf-sommet-emeric-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf savane roche virginie relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-savane-roche-virginie-relief-v2.webp"
-},
+      en: "The region surrounding gf savane roche virginie relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-savane-roche-virginie-relief-v2.webp",
     description: {
       de: "Ein spektakulärer Inselberg aus Granit, der aus dem Baumkronendach hervorragt.",
       hu: "Egy látványos gránit szigethegy, amely kiemelkedik a lombkoronaszintből.",
@@ -856,14 +760,10 @@ image: "/poi-images/gf-savane-roche-virginie-relief-v2.webp"
     ,
     descriptionAdvanced: {
       ro: "Această formă de relief este o componentă esențială a peisajului geografic al Guyanei Franceze, ilustrând diversitatea geologică a regiunii. Aceste structuri muntoase sau masive forestiere contribuie la formarea microclimatelor unice și la menținerea echilibrului ecologic în interiorul pădurii amazoniene. Explorarea acestor zone oferă informații valoroase despre evoluția terenului și despre ecosistemele protejate ce s-au dezvoltat aici de-a lungul timpului. Valorificarea acestor repere geografice sprijină cunoașterea teritoriului și înțelegerea proceselor naturale care modelează acest departament francez. Geografie K7 — relief și ecosisteme amazoniene.",
-      en: "The region surrounding gf inselberg des nouragues relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development.",
-image: "/poi-images/gf-inselberg-des-nouragues-relief-v2.webp"
-},
+      en: "The region surrounding gf inselberg des nouragues relief v2 in French Guiana is a testament to the area's unique ecological and historical character. This site provides essential insights into the local development and natural preservation efforts that define the department. Visitors can explore the interplay between modern infrastructure and the lush Amazonian environment, reflecting the diverse heritage of the region. Geography K7 — ecosystems and industrial development."},
     factsAdvanced: {
-      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."]
-    },
-    
-  },
+      en: ["This location is central to understanding the region's growth.", "It showcases unique adaptations to the tropical environment.", "The site contributes to the ongoing conservation efforts in the Amazon.", "Industrial and natural elements coexist in this specific locale.", "Historical significance adds depth to the modern relevance of the area.", "It remains a key point of interest for researchers and visitors alike."] } },
+    image: "/poi-images/gf-inselberg-des-nouragues-relief-v2.webp",
     description: {
       de: "Ein riesiger Felsmonolith im Herzen des Nouragues-Naturschutzgebietes.",
       hu: "Egy hatalmas sziklamonolit a Nouragues Természetvédelmi Terület szívében.",

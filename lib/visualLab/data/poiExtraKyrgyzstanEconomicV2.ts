@@ -6,9 +6,8 @@ export const poiExtraKyrgyzstanEconomicV2: POI[] = [
     type: "mine",
     parent: "KG-Y",
     coords: [78.1833, 41.8667],
-    name: { de: "Kumtor-Goldmine", hu: "Kumtor aranybánya", ro: "Mina de aur Kumtor", en: "Kumtor Gold Mine",
-image: "/poi-images/kumtor-gold-mine-economic-v2.webp"
-},
+    name: { de: "Kumtor-Goldmine", hu: "Kumtor aranybánya", ro: "Mina de aur Kumtor", en: "Kumtor Gold Mine"},
+    image: "/poi-images/kumtor-gold-mine-economic-v2.webp",
     description: { de: "Eine der höchstgelegenen Goldminen der Welt im Tian-Shan-Gebirge.", hu: "A világ egyik legmagasabban fekvő aranybányája a Tien-san hegységben.", ro: "Una dintre minele de aur situate la cea mai mare altitudine din lume, în Munții Tian-Șan.", en: "One of the highest gold mines in the world, located in the Tian Shan mountains." },
     facts: {
       de: ["Liegt auf über 4.000 Metern Höhe.", "Produziert einen Großteil der kirgisischen Exporte."],
@@ -34,9 +33,8 @@ image: "/poi-images/kumtor-gold-mine-economic-v2.webp"
     type: "mine",
     parent: "KG-J",
     coords: [74.0167, 41.2000],
-    name: { de: "Makmal-Goldmine", hu: "Makmal aranybánya", ro: "Mina de aur Makmal", en: "Makmal Gold Mine",
-image: "/poi-images/makmal-gold-mine-economic-v2.webp"
-},
+    name: { de: "Makmal-Goldmine", hu: "Makmal aranybánya", ro: "Mina de aur Makmal", en: "Makmal Gold Mine"},
+    image: "/poi-images/makmal-gold-mine-economic-v2.webp",
     description: { de: "Ein bedeutender Goldbergbaukomplex in der Region Dschalal-Abad.", hu: "Jelentős aranybányászati komplexum Dzsalal-Abad tartományban.", ro: "Un complex important de extracție a aurului în regiunea Jalal-Abad.", en: "A significant gold mining complex in the Jalal-Abad Region." },
     facts: {
       de: ["Wichtiger Arbeitgeber der Region.", "Trägt zur nationalen Goldproduktion bei."],
@@ -62,9 +60,8 @@ image: "/poi-images/makmal-gold-mine-economic-v2.webp"
     type: "energy",
     parent: "KG-J",
     coords: [72.8767, 41.7708],
-    name: { de: "Toktogul-Wasserkraftwerk", hu: "Toktoguli vízerőmű", ro: "Hidrocentrala Toktogul", en: "Toktogul Hydroelectric Power Station",
-image: "/poi-images/toktogul-hpp-economic-v2.webp"
-},
+    name: { de: "Toktogul-Wasserkraftwerk", hu: "Toktoguli vízerőmű", ro: "Hidrocentrala Toktogul", en: "Toktogul Hydroelectric Power Station"},
+    image: "/poi-images/toktogul-hpp-economic-v2.webp",
     description: { de: "Das größte Wasserkraftwerk des Landes, das am Fluss Naryn liegt.", hu: "Az ország legnagyobb vízerőműve, amely a Narin folyón található.", ro: "Cea mai mare hidrocentrală din țară, situată pe râul Naryn.", en: "The largest hydroelectric power station in the country, located on the Naryn River." },
     facts: {
       de: ["Hat eine Kapazität von 1.200 Megawatt.", "Sichert einen Großteil der Stromversorgung Kirgisistans."],
@@ -90,9 +87,8 @@ image: "/poi-images/toktogul-hpp-economic-v2.webp"
     type: "energy",
     parent: "KG-J",
     coords: [72.3364, 41.5975],
-    name: { de: "Kurpsai-Wasserkraftwerk", hu: "Kurpszaj vízerőmű", ro: "Hidrocentrala Kurpsai", en: "Kurpsai Hydroelectric Power Station",
-image: "/poi-images/kurpsai-hpp-economic-v2.webp"
-},
+    name: { de: "Kurpsai-Wasserkraftwerk", hu: "Kurpszaj vízerőmű", ro: "Hidrocentrala Kurpsai", en: "Kurpsai Hydroelectric Power Station"},
+    image: "/poi-images/kurpsai-hpp-economic-v2.webp",
     description: { de: "Ein großes Wasserkraftwerk am Fluss Naryn in Kirgisistan.", hu: "Egy nagy vízerőmű Kirgizisztánban, a Narin folyón.", ro: "O mare hidrocentrală pe râul Naryn din Kârgâzstan.", en: "A large hydroelectric power station on the Naryn River in Kyrgyzstan." },
     facts: {
       de: ["Zweitgrößtes Kraftwerk der Naryn-Kaskade.", "Wurde 1981 in Betrieb genommen."],
@@ -118,9 +114,8 @@ image: "/poi-images/kurpsai-hpp-economic-v2.webp"
     type: "energy",
     parent: "KG-J",
     coords: [72.2222, 41.3411],
-    name: { de: "Tasch-Kümür-Wasserkraftwerk", hu: "Tas-Kümür vízerőmű", ro: "Hidrocentrala Tash-Kumyr", en: "Tash-Kumyr Hydroelectric Power Station",
-image: "/poi-images/tash-kumyr-hpp-economic-v2.webp"
-},
+    name: { de: "Tasch-Kümür-Wasserkraftwerk", hu: "Tas-Kümür vízerőmű", ro: "Hidrocentrala Tash-Kumyr", en: "Tash-Kumyr Hydroelectric Power Station"},
+    image: "/poi-images/tash-kumyr-hpp-economic-v2.webp",
     description: { de: "Wasserkraftwerk am Naryn, das zur Energiegewinnung der Region beiträgt.", hu: "Vízerőmű a Narin folyón, amely hozzájárul a régió energiatermeléséhez.", ro: "Hidrocentrală pe râul Naryn, care contribuie la producția de energie a regiunii.", en: "Hydroelectric power plant on the Naryn River, contributing to the region's energy production." },
     facts: {
       de: ["Teil der Naryn-Wasserkraftkaskade.", "Die Anlage hat drei Turbinen."],
@@ -146,9 +141,8 @@ image: "/poi-images/tash-kumyr-hpp-economic-v2.webp"
     type: "energy",
     parent: "KG-J",
     coords: [72.1750, 41.1969],
-    name: { de: "Schamaldy-Sai-Wasserkraftwerk", hu: "Samaldi-Szaj vízerőmű", ro: "Hidrocentrala Shamaldy-Say", en: "Shamaldy-Say Hydroelectric Power Station",
-image: "/poi-images/shamaldy-say-hpp-economic-v2.webp"
-},
+    name: { de: "Schamaldy-Sai-Wasserkraftwerk", hu: "Samaldi-Szaj vízerőmű", ro: "Hidrocentrala Shamaldy-Say", en: "Shamaldy-Say Hydroelectric Power Station"},
+    image: "/poi-images/shamaldy-say-hpp-economic-v2.webp",
     description: { de: "Ein weiteres Kraftwerk der Naryn-Kaskade in Kirgisistan.", hu: "Egy újabb erőmű a kirgizisztáni Narin-kaszkádban.", ro: "O altă centrală din cascada Naryn din Kârgâzstan.", en: "Another power plant of the Naryn cascade in Kyrgyzstan." },
     facts: {
       de: ["Befindet sich flussabwärts von Tasch-Kümür.", "Produziert erneuerbare Energie."],
@@ -174,9 +168,8 @@ image: "/poi-images/shamaldy-say-hpp-economic-v2.webp"
     type: "energy",
     parent: "KG-J",
     coords: [72.1333, 41.1667],
-    name: { de: "Utsch-Kurgan-Wasserkraftwerk", hu: "Ucs-Kurgan vízerőmű", ro: "Hidrocentrala Uch-Kurgan", en: "Uch-Kurgan Hydroelectric Power Station",
-image: "/poi-images/uch-kurgan-hpp-economic-v2.webp"
-},
+    name: { de: "Utsch-Kurgan-Wasserkraftwerk", hu: "Ucs-Kurgan vízerőmű", ro: "Hidrocentrala Uch-Kurgan", en: "Uch-Kurgan Hydroelectric Power Station"},
+    image: "/poi-images/uch-kurgan-hpp-economic-v2.webp",
     description: { de: "Das erste gebaute Kraftwerk der Naryn-Kaskade nahe der usbekischen Grenze.", hu: "A Narin-kaszkád elsőként épült erőműve az üzbég határ közelében.", ro: "Prima centrală construită din cascada Naryn, aproape de granița cu Uzbekistanul.", en: "The first built power plant of the Naryn cascade near the Uzbek border." },
     facts: {
       de: ["Eröffnet im Jahr 1961.", "Spielt eine wichtige Rolle bei der Bewässerung und Stromerzeugung."],
@@ -202,9 +195,8 @@ image: "/poi-images/uch-kurgan-hpp-economic-v2.webp"
     type: "energy",
     parent: "KG-J",
     coords: [73.0800, 41.8317],
-    name: { de: "Kambar-Ata-2-Wasserkraftwerk", hu: "Kambar-Ata-2 vízerőmű", ro: "Hidrocentrala Kambar-Ata-2", en: "Kambar-Ata-2 Hydroelectric Power Station",
-image: "/poi-images/kambar-ata-2-hpp-economic-v2.webp"
-},
+    name: { de: "Kambar-Ata-2-Wasserkraftwerk", hu: "Kambar-Ata-2 vízerőmű", ro: "Hidrocentrala Kambar-Ata-2", en: "Kambar-Ata-2 Hydroelectric Power Station"},
+    image: "/poi-images/kambar-ata-2-hpp-economic-v2.webp",
     description: { de: "Ein modernes Wasserkraftprojekt zur Steigerung der Energiekapazität Kirgisistans.", hu: "Modern vízerőműprojekt Kirgizisztán energiakapacitásának növelésére.", ro: "Un proiect hidroenergetic modern pentru creșterea capacității energetice a Kârgâzstanului.", en: "A modern hydroelectric project to increase Kyrgyzstan's energy capacity." },
     facts: {
       de: ["Der erste Block ging 2010 in Betrieb.", "Wurde teilweise mit einer kontrollierten Sprengung gebaut."],
@@ -230,9 +222,8 @@ image: "/poi-images/kambar-ata-2-hpp-economic-v2.webp"
     type: "energy",
     parent: "KG-GB",
     coords: [74.6542, 42.8778],
-    name: { de: "Heizkraftwerk Bischkek", hu: "Biskek hőerőmű", ro: "CET Bishkek", en: "Bishkek Thermal Power Plant",
-image: "/poi-images/bishkek-tpp-economic-v2.webp"
-},
+    name: { de: "Heizkraftwerk Bischkek", hu: "Biskek hőerőmű", ro: "CET Bishkek", en: "Bishkek Thermal Power Plant"},
+    image: "/poi-images/bishkek-tpp-economic-v2.webp",
     description: { de: "Das größte Wärmekraftwerk des Landes, das die Hauptstadt mit Strom und Wärme versorgt.", hu: "Az ország legnagyobb hőerőműve, amely a fővárost látja el árammal és távhővel.", ro: "Cea mai mare centrală termoelectrică din țară, furnizând energie și căldură capitalei.", en: "The largest thermal power plant in the country, providing electricity and heat to the capital." },
     facts: {
       de: ["Nutzt vorwiegend Kohle als Brennstoff.", "Wurde in den letzten Jahren umfassend modernisiert."],
@@ -258,9 +249,8 @@ image: "/poi-images/bishkek-tpp-economic-v2.webp"
     type: "trade-hub",
     parent: "KG-GB",
     coords: [74.6214, 42.9231],
-    name: { de: "Dordoi-Basar", hu: "Dordoj piac", ro: "Bazarul Dordoi", en: "Dordoi Bazaar",
-image: "/poi-images/dordoi-bazaar-economic-v2.webp"
-},
+    name: { de: "Dordoi-Basar", hu: "Dordoj piac", ro: "Bazarul Dordoi", en: "Dordoi Bazaar"},
+    image: "/poi-images/dordoi-bazaar-economic-v2.webp",
     description: { de: "Einer der größten Großhandelsmärkte in Zentralasien für Konsumgüter.", hu: "Közép-Ázsia egyik legnagyobb fogyasztásicikk-nagykereskedelmi piaca.", ro: "Unul dintre cele mai mari piețe en-gros din Asia Centrală pentru bunuri de consum.", en: "One of the largest wholesale markets in Central Asia for consumer goods." },
     facts: {
       de: ["Ein riesiger Umschlagplatz für Waren aus China.", "Bietet Zehntausenden Menschen Beschäftigung."],
@@ -286,9 +276,8 @@ image: "/poi-images/dordoi-bazaar-economic-v2.webp"
     type: "trade-hub",
     parent: "KG-O",
     coords: [72.8531, 40.7078],
-    name: { de: "Kara-Suu-Basar", hu: "Kara-Szuu piac", ro: "Bazarul Kara-Suu", en: "Kara-Suu Bazaar",
-image: "/poi-images/kara-suu-bazaar-economic-v2.webp"
-},
+    name: { de: "Kara-Suu-Basar", hu: "Kara-Szuu piac", ro: "Bazarul Kara-Suu", en: "Kara-Suu Bazaar"},
+    image: "/poi-images/kara-suu-bazaar-economic-v2.webp",
     description: { de: "Wichtiger Markt im Ferghanatal, nahe der Grenze zu Usbekistan.", hu: "Fontos piac a Fergana-völgyben, az üzbég határ közelében.", ro: "Piață importantă în Valea Fergana, aproape de granița cu Uzbekistan.", en: "Important market in the Fergana Valley, near the border with Uzbekistan." },
     facts: {
       de: ["Spielt eine zentrale Rolle im grenzüberschreitenden Handel.", "Ist einer der größten Märkte in Süd-Kirgisistan."],
@@ -314,9 +303,8 @@ image: "/poi-images/kara-suu-bazaar-economic-v2.webp"
     type: "trade-hub",
     parent: "KG-GB",
     coords: [74.5706, 42.8775],
-    name: { de: "Osch-Basar", hu: "Os piac (Biskek)", ro: "Bazarul Osh", en: "Osh Bazaar",
-image: "/poi-images/osh-bazaar-bishkek-economic-v2.webp"
-},
+    name: { de: "Osch-Basar", hu: "Os piac (Biskek)", ro: "Bazarul Osh", en: "Osh Bazaar"},
+    image: "/poi-images/osh-bazaar-bishkek-economic-v2.webp",
     description: { de: "Ein geschäftiger traditioneller Markt im Zentrum von Bischkek.", hu: "Nyüzsgő, hagyományos piac Biskek központjában.", ro: "O piață tradițională aglomerată în centrul orașului Bishkek.", en: "A bustling traditional market in the center of Bishkek." },
     facts: {
       de: ["Benannt nach der südkirgisischen Stadt Osch.", "Verkauft Lebensmittel, Kleidung und Handwerk."],
@@ -342,9 +330,8 @@ image: "/poi-images/osh-bazaar-bishkek-economic-v2.webp"
     type: "industry",
     parent: "KG-C",
     coords: [73.8472, 42.8250],
-    name: { de: "Urananreicherungsanlage Kara-Balta", hu: "Kara-Balta urándúsító üzem", ro: "Fabrica de minerit Kara-Balta", en: "Kara-Balta Mining Plant",
-image: "/poi-images/kara-balta-mining-plant-economic-v2.webp"
-},
+    name: { de: "Urananreicherungsanlage Kara-Balta", hu: "Kara-Balta urándúsító üzem", ro: "Fabrica de minerit Kara-Balta", en: "Kara-Balta Mining Plant"},
+    image: "/poi-images/kara-balta-mining-plant-economic-v2.webp",
     description: { de: "Ein bedeutender Industriekomplex zur Verarbeitung von Uranerz.", hu: "Jelentős ipari komplexum az uránérc feldolgozására.", ro: "Un complex industrial important pentru prelucrarea minereului de uraniu.", en: "A significant industrial complex for processing uranium ore." },
     facts: {
       de: ["Ursprünglich in der Sowjetzeit gegründet.", "Eines der größten Werke seiner Art in der Region."],
@@ -370,9 +357,8 @@ image: "/poi-images/kara-balta-mining-plant-economic-v2.webp"
     type: "industry",
     parent: "KG-B",
     coords: [71.3411, 39.9481],
-    name: { de: "Quecksilberwerk Chaidarkan", hu: "Hajdarkan higanyüzem", ro: "Fabrica de mercur Khaidarkan", en: "Khaidarkan Mercury Plant",
-image: "/poi-images/khaidarkan-mercury-plant-economic-v2.webp"
-},
+    name: { de: "Quecksilberwerk Chaidarkan", hu: "Hajdarkan higanyüzem", ro: "Fabrica de mercur Khaidarkan", en: "Khaidarkan Mercury Plant"},
+    image: "/poi-images/khaidarkan-mercury-plant-economic-v2.webp",
     description: { de: "Einer der wenigen weltweit verbliebenen primären Quecksilberproduzenten.", hu: "A világ kevés fennmaradó elsődleges higanytermelőinek egyike.", ro: "Unul dintre puținii producători primari de mercur rămași în lume.", en: "One of the few remaining primary mercury producers in the world." },
     facts: {
       de: ["Wurde während des Zweiten Weltkriegs eröffnet.", "Exportierte Quecksilber weltweit."],
@@ -398,9 +384,8 @@ image: "/poi-images/khaidarkan-mercury-plant-economic-v2.webp"
     type: "industry",
     parent: "KG-B",
     coords: [71.7258, 40.1278],
-    name: { de: "Antimonwerk Kadamdschai", hu: "Kadamdzsaj antimonüzem", ro: "Fabrica de antimoniu Kadamjay", en: "Kadamjay Antimony Plant",
-image: "/poi-images/kadamjay-antimony-plant-economic-v2.webp"
-},
+    name: { de: "Antimonwerk Kadamdschai", hu: "Kadamdzsaj antimonüzem", ro: "Fabrica de antimoniu Kadamjay", en: "Kadamjay Antimony Plant"},
+    image: "/poi-images/kadamjay-antimony-plant-economic-v2.webp",
     description: { de: "Ein großes metallurgisches Werk zur Herstellung von Antimon.", hu: "Egy nagy kohászati üzem antimon előállítására.", ro: "O mare fabrică metalurgică pentru producția de antimoniu.", en: "A large metallurgical plant for the production of antimony." },
     facts: {
       de: ["Das hier produzierte Antimon galt als Standard in der Sowjetunion.", "Ein zentraler Wirtschaftsmotor der Region Batken."],
@@ -426,9 +411,8 @@ image: "/poi-images/kadamjay-antimony-plant-economic-v2.webp"
     type: "mine",
     parent: "KG-B",
     coords: [72.1283, 40.2581],
-    name: { de: "Kohlemine Kysyl-Kyja", hu: "Kizil-Kija szénbánya", ro: "Mina de cărbune Kyzyl-Kiya", en: "Kyzyl-Kiya Coal Mine",
-image: "/poi-images/kyzyl-kiya-coal-mine-economic-v2.webp"
-},
+    name: { de: "Kohlemine Kysyl-Kyja", hu: "Kizil-Kija szénbánya", ro: "Mina de cărbune Kyzyl-Kiya", en: "Kyzyl-Kiya Coal Mine"},
+    image: "/poi-images/kyzyl-kiya-coal-mine-economic-v2.webp",
     description: { de: "Eines der ältesten Kohleabbaugebiete in Kirgisistan.", hu: "Kirgizisztán egyik legrégebbi szénbányászati területe.", ro: "Una dintre cele mai vechi zone de extracție a cărbunelui din Kârgâzstan.", en: "One of the oldest coal mining areas in Kyrgyzstan." },
     facts: {
       de: ["Der Kohleabbau begann hier 1898.", "Die Stadt wird oft als Heizer von Zentralasien bezeichnet."],
@@ -454,9 +438,8 @@ image: "/poi-images/kyzyl-kiya-coal-mine-economic-v2.webp"
     type: "mine",
     parent: "KG-B",
     coords: [69.5708, 39.9372],
-    name: { de: "Kohlemine Sülüktü", hu: "Szülüktü szénbánya", ro: "Mina de cărbune Sulukta", en: "Sulukta Coal Mine",
-image: "/poi-images/sulukta-coal-mine-economic-v2.webp"
-},
+    name: { de: "Kohlemine Sülüktü", hu: "Szülüktü szénbánya", ro: "Mina de cărbune Sulukta", en: "Sulukta Coal Mine"},
+    image: "/poi-images/sulukta-coal-mine-economic-v2.webp",
     description: { de: "Ein historisches Zentrum des Kohlebergbaus im extremen Südwesten Kirgisistans.", hu: "A szénbányászat történelmi központja Kirgizisztán legdélnyugatibb részén.", ro: "Un centru istoric al mineritului de cărbune în sud-vestul extrem al Kârgâzstanului.", en: "A historical center of coal mining in the extreme southwest of Kyrgyzstan." },
     facts: {
       de: ["Eines der ältesten Kohlezentren Zentralasiens.", "Die Kohle wird hauptsächlich lokal verbraucht."],
@@ -482,9 +465,8 @@ image: "/poi-images/sulukta-coal-mine-economic-v2.webp"
     type: "industry",
     parent: "KG-C",
     coords: [74.8467, 42.8872],
-    name: { de: "Zementfabrik Kant", hu: "Kant cementgyár", ro: "Fabrica de ciment Kant", en: "Kant Cement Plant",
-image: "/poi-images/kant-cement-plant-economic-v2.webp"
-},
+    name: { de: "Zementfabrik Kant", hu: "Kant cementgyár", ro: "Fabrica de ciment Kant", en: "Kant Cement Plant"},
+    image: "/poi-images/kant-cement-plant-economic-v2.webp",
     description: { de: "Ein bedeutender Hersteller von Baustoffen in der Tschüi-Ebene.", hu: "Jelentős építőanyag-gyártó a Csüj-síkságon.", ro: "Un important producător de materiale de construcție din Câmpia Chui.", en: "A major manufacturer of building materials in the Chuy Valley." },
     facts: {
       de: ["Produziert Zement für den heimischen Markt und Export.", "Wichtig für die Bauindustrie Kirgisistans."],
@@ -510,9 +492,8 @@ image: "/poi-images/kant-cement-plant-economic-v2.webp"
     type: "industry",
     parent: "KG-J",
     coords: [72.4578, 41.2597],
-    name: { de: "Glühlampenwerk Mailuu-Suu", hu: "Majluu-Szuu izzógyár", ro: "Fabrica de becuri Mailuu-Suu", en: "Mailuu-Suu Lightbulb Factory",
-image: "/poi-images/mailuu-suu-lightbulb-factory-economic-v2.webp"
-},
+    name: { de: "Glühlampenwerk Mailuu-Suu", hu: "Majluu-Szuu izzógyár", ro: "Fabrica de becuri Mailuu-Suu", en: "Mailuu-Suu Lightbulb Factory"},
+    image: "/poi-images/mailuu-suu-lightbulb-factory-economic-v2.webp",
     description: { de: "Eine der größten Fabriken für Glühlampen in Zentralasien.", hu: "Közép-Ázsia egyik legnagyobb izzólámpa gyára.", ro: "Una dintre cele mai mari fabrici de becuri din Asia Centrală.", en: "One of the largest lightbulb factories in Central Asia." },
     facts: {
       de: ["Gegründet, um die lokale Industrie nach dem Uranbergbau zu stärken.", "Produziert Millionen von Glühbirnen jährlich."],
@@ -538,9 +519,8 @@ image: "/poi-images/mailuu-suu-lightbulb-factory-economic-v2.webp"
     type: "port",
     parent: "KG-Y",
     coords: [76.1856, 42.4633],
-    name: { de: "Hafen Balyktschy", hu: "Balikcsi kikötő", ro: "Portul Balykchy", en: "Balykchy Port",
-image: "/poi-images/balykchy-port-economic-v2.webp"
-},
+    name: { de: "Hafen Balyktschy", hu: "Balikcsi kikötő", ro: "Portul Balykchy", en: "Balykchy Port"},
+    image: "/poi-images/balykchy-port-economic-v2.webp",
     description: { de: "Der wichtigste Hafen am Yssykköl-See, der früher ein bedeutender Transportknotenpunkt war.", hu: "Az Iszik-köl legfontosabb kikötője, amely korábban jelentős közlekedési csomópont volt.", ro: "Cel mai important port de pe lacul Issâk-Kul, care a fost un important nod de transport.", en: "The most important port on Lake Issyk-Kul, formerly a major transport hub." },
     facts: {
       de: ["War einst das Zentrum der Schifffahrt auf dem See.", "Verband den See mit dem Schienennetz."],

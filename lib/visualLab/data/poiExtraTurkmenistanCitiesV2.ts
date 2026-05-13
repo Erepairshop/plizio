@@ -6,9 +6,8 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TM-S",
     coords: [58.3833, 37.95],
-    name: { de: "Aşgabat", hu: "Aşgabat", ro: "Așgabat", en: "Ashgabat",
-image: "/poi-images/tm-ashgabat-cities-v2.webp"
-},
+    name: { de: "Aşgabat", hu: "Aşgabat", ro: "Așgabat", en: "Ashgabat"},
+    image: "/poi-images/tm-ashgabat-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Turkmenistan ist für ihre einzigartige Architektur mit weißem Marmor bekannt.",
       hu: "Türkmenisztán fővárosa, amely egyedülálló, fehér márványból épült építészetéről híres.",
@@ -32,9 +31,8 @@ image: "/poi-images/tm-ashgabat-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [63.565, 39.0833],
-    name: { de: "Türkmenabat", hu: "Türkmenabat", ro: "Türkmenabat", en: "Türkmenabat",
-image: "/poi-images/tm-turkmenabat-cities-v2.webp"
-},
+    name: { de: "Türkmenabat", hu: "Türkmenabat", ro: "Türkmenabat", en: "Türkmenabat"},
+    image: "/poi-images/tm-turkmenabat-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes liegt am Ufer des Amudarja-Flusses.",
       hu: "Az ország második legnagyobb városa, amely az Amu-darja folyó partján fekszik.",
@@ -58,9 +56,8 @@ image: "/poi-images/tm-turkmenabat-cities-v2.webp"
     type: "city",
     parent: "TM-D",
     coords: [59.9667, 41.8333],
-    name: { de: "Daşoguz", hu: "Daşoguz", ro: "Dașoguz", en: "Daşoguz",
-image: "/poi-images/tm-dasoguz-cities-v2.webp"
-},
+    name: { de: "Daşoguz", hu: "Daşoguz", ro: "Dașoguz", en: "Daşoguz"},
+    image: "/poi-images/tm-dasoguz-cities-v2.webp",
     description: {
       de: "Eine wichtige Stadt im Norden, die als Tor zu historischen Stätten dient.",
       hu: "Fontos északi város, amely a történelmi helyszínek kapujaként szolgál.",
@@ -84,9 +81,8 @@ image: "/poi-images/tm-dasoguz-cities-v2.webp"
     type: "city",
     parent: "TM-M",
     coords: [61.8333, 37.6],
-    name: { de: "Mary", hu: "Mary", ro: "Mary", en: "Mary",
-image: "/poi-images/tm-mary-cities-v2.webp"
-},
+    name: { de: "Mary", hu: "Mary", ro: "Mary", en: "Mary"},
+    image: "/poi-images/tm-mary-cities-v2.webp",
     description: {
       de: "Eine bedeutende Stadt in der Karakum-Wüste, die in der Nähe der antiken Ruinen von Merw liegt.",
       hu: "Jelentős város a Karakum-sivatagban, Merv ókori romjainak közelében.",
@@ -110,9 +106,8 @@ image: "/poi-images/tm-mary-cities-v2.webp"
     type: "city",
     parent: "TM-B",
     coords: [54.3667, 39.5167],
-    name: { de: "Balkanabat", hu: "Balkanabat", ro: "Balkanabat", en: "Balkanabat",
-image: "/poi-images/tm-balkanabat-cities-v2.webp"
-},
+    name: { de: "Balkanabat", hu: "Balkanabat", ro: "Balkanabat", en: "Balkanabat"},
+    image: "/poi-images/tm-balkanabat-cities-v2.webp",
     description: {
       de: "Das Zentrum der turkmenischen Öl- und Gasindustrie im Westen des Landes.",
       hu: "A türkmén olaj- és gázipar központja az ország nyugati részén.",
@@ -136,9 +131,8 @@ image: "/poi-images/tm-balkanabat-cities-v2.webp"
     type: "city",
     parent: "TM-M",
     coords: [62.1667, 37.6],
-    name: { de: "Baýramaly", hu: "Baýramaly", ro: "Baýramaly", en: "Baýramaly",
-image: "/poi-images/tm-bayramaly-cities-v2.webp"
-},
+    name: { de: "Baýramaly", hu: "Baýramaly", ro: "Baýramaly", en: "Baýramaly"},
+    image: "/poi-images/tm-bayramaly-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Mary, die für ihr trockenes Klima und Heiligtümer bekannt ist.",
       hu: "Város Mary tartományban, amely száraz klímájáról és szanatóriumairól híres.",
@@ -162,9 +156,8 @@ image: "/poi-images/tm-bayramaly-cities-v2.webp"
     type: "city",
     parent: "TM-B",
     coords: [52.9667, 40.0167],
-    name: { de: "Türkmenbaşy", hu: "Türkmenbaşy", ro: "Türkmenbașî", en: "Türkmenbaşy",
-image: "/poi-images/tm-turkmenbasy-cities-v2.webp"
-},
+    name: { de: "Türkmenbaşy", hu: "Türkmenbaşy", ro: "Türkmenbașî", en: "Türkmenbaşy"},
+    image: "/poi-images/tm-turkmenbasy-cities-v2.webp",
     description: {
       de: "Die wichtigste Hafenstadt des Landes an der Küste des Kaspischen Meeres.",
       hu: "Az ország legfontosabb kikötővárosa a Kaszpi-tenger partján.",
@@ -188,9 +181,8 @@ image: "/poi-images/tm-turkmenbasy-cities-v2.webp"
     type: "city",
     parent: "TM-A",
     coords: [60.5, 37.3833],
-    name: { de: "Tejen", hu: "Tejen", ro: "Tejen", en: "Tejen",
-image: "/poi-images/tm-tejen-cities-v2.webp"
-},
+    name: { de: "Tejen", hu: "Tejen", ro: "Tejen", en: "Tejen"},
+    image: "/poi-images/tm-tejen-cities-v2.webp",
     description: {
       de: "Eine Oasenstadt in der Karakum-Wüste, die ein wichtiger Verkehrsknotenpunkt ist.",
       hu: "Oázisváros a Karakum-sivatagban, amely fontos közlekedési csomópont.",
@@ -214,9 +206,8 @@ image: "/poi-images/tm-tejen-cities-v2.webp"
     type: "city",
     parent: "TM-S",
     coords: [58.2167, 38.05],
-    name: { de: "Büzmeýin", hu: "Büzmeýin", ro: "Büzmeýin", en: "Büzmeýin",
-image: "/poi-images/tm-abadan-cities-v2.webp"
-},
+    name: { de: "Büzmeýin", hu: "Büzmeýin", ro: "Büzmeýin", en: "Büzmeýin"},
+    image: "/poi-images/tm-abadan-cities-v2.webp",
     description: {
       de: "Ein wichtiger industrieller Vorort von Aşgabat, der heute zur Hauptstadt gehört.",
       hu: "Aşgabat fontos ipari külvárosa, amely ma már a főváros része.",
@@ -241,9 +232,8 @@ image: "/poi-images/tm-abadan-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [66.0333, 37.8],
-    name: { de: "Magdanly", hu: "Magdanly", ro: "Magdanly", en: "Magdanly",
-image: "/poi-images/tm-magdanly-cities-v2.webp"
-},
+    name: { de: "Magdanly", hu: "Magdanly", ro: "Magdanly", en: "Magdanly"},
+    image: "/poi-images/tm-magdanly-cities-v2.webp",
     description: {
       de: "Eine Industriestadt im Osten, bekannt für ihren Abbau von Mineralien.",
       hu: "Ipari város keleten, amely ásványkincseinek bányászatáról ismert.",
@@ -268,9 +258,8 @@ image: "/poi-images/tm-magdanly-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [65.2, 37.8333],
-    name: { de: "Kerki", hu: "Kerki", ro: "Kerki", en: "Kerki",
-image: "/poi-images/tm-kerki-cities-v2.webp"
-},
+    name: { de: "Kerki", hu: "Kerki", ro: "Kerki", en: "Kerki"},
+    image: "/poi-images/tm-kerki-cities-v2.webp",
     description: {
       de: "Eine historische Stadt am Amudarja im Osten von Turkmenistan.",
       hu: "Történelmi város az Amu-darja partján, Türkmenisztán keleti részén.",
@@ -294,9 +283,8 @@ image: "/poi-images/tm-kerki-cities-v2.webp"
     type: "city",
     parent: "TM-M",
     coords: [62.3667, 37.3],
-    name: { de: "Ýolöten", hu: "Ýolöten", ro: "Ýolöten", en: "Ýolöten",
-image: "/poi-images/tm-yoloten-cities-v2.webp"
-},
+    name: { de: "Ýolöten", hu: "Ýolöten", ro: "Ýolöten", en: "Ýolöten"},
+    image: "/poi-images/tm-yoloten-cities-v2.webp",
     description: {
       de: "Eine Stadt südlich von Mary, die für die nahe gelegenen großen Gasfelder bekannt ist.",
       hu: "Város Marytól délre, amely a közeli nagy gázmezőkről ismert.",
@@ -321,9 +309,8 @@ image: "/poi-images/tm-yoloten-cities-v2.webp"
     type: "city",
     parent: "TM-D",
     coords: [59.15, 42.3167],
-    name: { de: "Köneürgenç", hu: "Köneürgenç", ro: "Köneürgenç", en: "Köneürgenç",
-image: "/poi-images/tm-koneurgenc-cities-v2.webp"
-},
+    name: { de: "Köneürgenç", hu: "Köneürgenç", ro: "Köneürgenç", en: "Köneürgenç"},
+    image: "/poi-images/tm-koneurgenc-cities-v2.webp",
     description: {
       de: "Eine Stadt mit tiefen historischen Wurzeln, einst ein wichtiges Zentrum der islamischen Welt.",
       hu: "Mély történelmi gyökerekkel rendelkező város, egykor az iszlám világ egyik fontos központja.",
@@ -347,9 +334,8 @@ image: "/poi-images/tm-koneurgenc-cities-v2.webp"
     type: "city",
     parent: "TM-A",
     coords: [58.5333, 37.8833],
-    name: { de: "Änew", hu: "Änew", ro: "Änew", en: "Änew",
-image: "/poi-images/tm-anau-cities-v2.webp"
-},
+    name: { de: "Änew", hu: "Änew", ro: "Änew", en: "Änew"},
+    image: "/poi-images/tm-anau-cities-v2.webp",
     description: {
       de: "Eine Stadt östlich von Aşgabat, bekannt für ihre archäologischen Stätten.",
       hu: "Aşgabattól keletre fekvő város, amely régészeti lelőhelyeiről ismert.",
@@ -373,9 +359,8 @@ image: "/poi-images/tm-anau-cities-v2.webp"
     type: "city",
     parent: "TM-B",
     coords: [53.0667, 39.4333],
-    name: { de: "Hazar", hu: "Hazar", ro: "Hazar", en: "Hazar",
-image: "/poi-images/tm-hazar-cities-v2.webp"
-},
+    name: { de: "Hazar", hu: "Hazar", ro: "Hazar", en: "Hazar"},
+    image: "/poi-images/tm-hazar-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt auf der Tscheleken-Halbinsel am Kaspischen Meer.",
       hu: "Kikötőváros a Cseleken-félszigeten, a Kaszpi-tenger partján.",
@@ -399,9 +384,8 @@ image: "/poi-images/tm-hazar-cities-v2.webp"
     type: "city",
     parent: "TM-D",
     coords: [59.35, 41.8333],
-    name: { de: "Gurbansoltan Eje", hu: "Gurbansoltan Eje", ro: "Gurbansoltan Eje", en: "Gurbansoltan Eje",
-image: "/poi-images/tm-gurbansoltan-eje-cities-v2.webp"
-},
+    name: { de: "Gurbansoltan Eje", hu: "Gurbansoltan Eje", ro: "Gurbansoltan Eje", en: "Gurbansoltan Eje"},
+    image: "/poi-images/tm-gurbansoltan-eje-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt in der Daşoguz-Region im Norden.",
       hu: "Mezőgazdasági jellegű város a Daşoguz tartományban, északon.",
@@ -425,9 +409,8 @@ image: "/poi-images/tm-gurbansoltan-eje-cities-v2.webp"
     type: "city",
     parent: "TM-B",
     coords: [54.6, 39.2],
-    name: { de: "Gumdag", hu: "Gumdag", ro: "Gumdag", en: "Gumdag",
-image: "/poi-images/tm-gumdag-cities-v2.webp"
-},
+    name: { de: "Gumdag", hu: "Gumdag", ro: "Gumdag", en: "Gumdag"},
+    image: "/poi-images/tm-gumdag-cities-v2.webp",
     description: {
       de: "Eine Industriestadt in der Balkan-Region, die auf Öl und Gas spezialisiert ist.",
       hu: "Ipari város a Balkán tartományban, amely olajra és gázra specializálódott.",
@@ -452,9 +435,8 @@ image: "/poi-images/tm-gumdag-cities-v2.webp"
     type: "city",
     parent: "TM-A",
     coords: [57.4333, 38.4333],
-    name: { de: "Bäherden", hu: "Bäherden", ro: "Bäherden", en: "Bäherden",
-image: "/poi-images/tm-baharly-cities-v2.webp"
-},
+    name: { de: "Bäherden", hu: "Bäherden", ro: "Bäherden", en: "Bäherden"},
+    image: "/poi-images/tm-baharly-cities-v2.webp",
     description: {
       de: "Eine Stadt am Rande des Kopet-Dag-Gebirges, bekannt für eine unterirdische Höhle.",
       hu: "Város a Kopet-dag hegység szélén, amely egy földalatti barlangról híres.",
@@ -479,9 +461,8 @@ image: "/poi-images/tm-baharly-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [61.4, 41.1833],
-    name: { de: "Gazojak", hu: "Gazojak", ro: "Gazojak", en: "Gazojak",
-image: "/poi-images/tm-gazojak-cities-v2.webp"
-},
+    name: { de: "Gazojak", hu: "Gazojak", ro: "Gazojak", en: "Gazojak"},
+    image: "/poi-images/tm-gazojak-cities-v2.webp",
     description: {
       de: "Eine kleine Stadt nahe der usbekischen Grenze, wichtig für die Gasindustrie.",
       hu: "Kisváros az üzbég határ közelében, amely fontos a gázipar számára.",
@@ -505,9 +486,8 @@ image: "/poi-images/tm-gazojak-cities-v2.webp"
     type: "city",
     parent: "TM-B",
     coords: [55.5167, 39.2333],
-    name: { de: "Bereket", hu: "Bereket", ro: "Bereket", en: "Bereket",
-image: "/poi-images/tm-bereket-cities-v2.webp"
-},
+    name: { de: "Bereket", hu: "Bereket", ro: "Bereket", en: "Bereket"},
+    image: "/poi-images/tm-bereket-cities-v2.webp",
     description: {
       de: "Ein wichtiger Eisenbahnknotenpunkt in der Balkan-Region auf der Nord-Süd-Achse.",
       hu: "Fontos vasúti csomópont a Balkán tartományban az észak-dél tengelyen.",
@@ -531,9 +511,8 @@ image: "/poi-images/tm-bereket-cities-v2.webp"
     type: "city",
     parent: "TM-D",
     coords: [59.65, 42.1333],
-    name: { de: "Boldumsaz", hu: "Boldumsaz", ro: "Boldumsaz", en: "Boldumsaz",
-image: "/poi-images/tm-boldumsaz-cities-v2.webp"
-},
+    name: { de: "Boldumsaz", hu: "Boldumsaz", ro: "Boldumsaz", en: "Boldumsaz"},
+    image: "/poi-images/tm-boldumsaz-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftliche Siedlung im Norden des Landes.",
       hu: "Mezőgazdasági település az ország északi részén.",
@@ -558,9 +537,8 @@ image: "/poi-images/tm-boldumsaz-cities-v2.webp"
     type: "city",
     parent: "TM-A",
     coords: [57.9667, 38.15],
-    name: { de: "Gökdepe", hu: "Gökdepe", ro: "Gökdepe", en: "Gökdepe",
-image: "/poi-images/tm-gokdepe-cities-v2.webp"
-},
+    name: { de: "Gökdepe", hu: "Gökdepe", ro: "Gökdepe", en: "Gökdepe"},
+    image: "/poi-images/tm-gokdepe-cities-v2.webp",
     description: {
       de: "Eine historische Stadt, in der Ende des 19. Jahrhunderts eine bedeutende Schlacht stattfand.",
       hu: "Történelmi város, ahol a 19. század végén egy jelentős csata zajlott.",
@@ -584,9 +562,8 @@ image: "/poi-images/tm-gokdepe-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [63.8833, 38.7833],
-    name: { de: "Saýat", hu: "Saýat", ro: "Saýat", en: "Saýat",
-image: "/poi-images/tm-sayat-cities-v2.webp"
-},
+    name: { de: "Saýat", hu: "Saýat", ro: "Saýat", en: "Saýat"},
+    image: "/poi-images/tm-sayat-cities-v2.webp",
     description: {
       de: "Eine Stadt südöstlich von Türkmenabat, die vom Baumwollanbau geprägt ist.",
       hu: "Türkmenabattól délkeletre fekvő város, amelyet a gyapottermesztés jellemez.",
@@ -610,9 +587,8 @@ image: "/poi-images/tm-sayat-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [62.9, 39.4833],
-    name: { de: "Seýdi", hu: "Seýdi", ro: "Seýdi", en: "Seýdi",
-image: "/poi-images/tm-seydi-cities-v2.webp"
-},
+    name: { de: "Seýdi", hu: "Seýdi", ro: "Seýdi", en: "Seýdi"},
+    image: "/poi-images/tm-seydi-cities-v2.webp",
     description: {
       de: "Eine moderne Industriestadt, die für ihre Ölraffinerie bekannt ist.",
       hu: "Modern ipari város, amely olajfinomítójáról ismert.",
@@ -636,9 +612,8 @@ image: "/poi-images/tm-seydi-cities-v2.webp"
     type: "city",
     parent: "TM-A",
     coords: [59.6, 37.35],
-    name: { de: "Kaka", hu: "Kaka", ro: "Kaka", en: "Kaka",
-image: "/poi-images/tm-kaka-cities-v2.webp"
-},
+    name: { de: "Kaka", hu: "Kaka", ro: "Kaka", en: "Kaka"},
+    image: "/poi-images/tm-kaka-cities-v2.webp",
     description: {
       de: "Eine Kleinstadt an der Transkaspischen Eisenbahn, nahe der iranischen Grenze.",
       hu: "Kisváros a transzkaszpi vasútvonal mentén, az iráni határ közelében.",
@@ -662,9 +637,8 @@ image: "/poi-images/tm-kaka-cities-v2.webp"
     type: "city",
     parent: "TM-D",
     coords: [59.7667, 41.5833],
-    name: { de: "Görogly", hu: "Görogly", ro: "Görogly", en: "Görogly",
-image: "/poi-images/tm-tagta-cities-v2.webp"
-},
+    name: { de: "Görogly", hu: "Görogly", ro: "Görogly", en: "Görogly"},
+    image: "/poi-images/tm-tagta-cities-v2.webp",
     description: {
       de: "Eine wachsende landwirtschaftliche Stadt in der Region Daşoguz.",
       hu: "Egy növekvő mezőgazdasági város a Daşoguz tartományban.",
@@ -689,9 +663,8 @@ image: "/poi-images/tm-tagta-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [63.6, 39.1667],
-    name: { de: "Farap", hu: "Farap", ro: "Farap", en: "Farap",
-image: "/poi-images/tm-farap-cities-v2.webp"
-},
+    name: { de: "Farap", hu: "Farap", ro: "Farap", en: "Farap"},
+    image: "/poi-images/tm-farap-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Lebap, die ein wichtiger Grenzübergang zu Usbekistan ist.",
       hu: "Város a Lebap tartományban, amely egy fontos határátkelőhely Üzbegisztán felé.",
@@ -715,9 +688,8 @@ image: "/poi-images/tm-farap-cities-v2.webp"
     type: "city",
     parent: "TM-B",
     coords: [56.2833, 38.9833],
-    name: { de: "Serdar", hu: "Serdar", ro: "Serdar", en: "Serdar",
-image: "/poi-images/tm-serdar-cities-v2.webp"
-},
+    name: { de: "Serdar", hu: "Serdar", ro: "Serdar", en: "Serdar"},
+    image: "/poi-images/tm-serdar-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Balkan, die traditionell mit dem Handwerk verbunden ist.",
       hu: "Város a Balkán tartományban, amely hagyományosan a kézművességhez kapcsolódik.",
@@ -741,9 +713,8 @@ image: "/poi-images/tm-serdar-cities-v2.webp"
     type: "city",
     parent: "TM-D",
     coords: [59.4667, 42.0667],
-    name: { de: "Gubadag", hu: "Gubadag", ro: "Gubadag", en: "Gubadag",
-image: "/poi-images/tm-gubadag-cities-v2.webp"
-},
+    name: { de: "Gubadag", hu: "Gubadag", ro: "Gubadag", en: "Gubadag"},
+    image: "/poi-images/tm-gubadag-cities-v2.webp",
     description: {
       de: "Eine Stadt im Norden Turkmenistans, umgeben von großen landwirtschaftlichen Flächen.",
       hu: "Észak-Türkmenisztáni város, amelyet kiterjedt mezőgazdasági területek vesznek körül.",
@@ -767,9 +738,8 @@ image: "/poi-images/tm-gubadag-cities-v2.webp"
     type: "city",
     parent: "TM-L",
     coords: [62.2833, 40.4667],
-    name: { de: "Darganata", hu: "Darganata", ro: "Darganata", en: "Darganata",
-image: "/poi-images/tm-darganata-cities-v2.webp"
-},
+    name: { de: "Darganata", hu: "Darganata", ro: "Darganata", en: "Darganata"},
+    image: "/poi-images/tm-darganata-cities-v2.webp",
     description: {
       de: "Eine historische Siedlung am Amudarja, die heute landwirtschaftlich geprägt ist.",
       hu: "Történelmi település az Amu-darja mentén, amely ma mezőgazdasági jellegű.",

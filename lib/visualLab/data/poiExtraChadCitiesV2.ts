@@ -7,9 +7,8 @@ export const poiExtraChadCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TD-ND",
     coords: [15.0444, 12.1131],
-    name: { de: "N'Djamena", hu: "N'Djamena", ro: "N'Djamena", en: "N'Djamena",
-image: "/poi-images/ndjamena-cities-v2.webp"
-},
+    name: { de: "N'Djamena", hu: "N'Djamena", ro: "N'Djamena", en: "N'Djamena"},
+    image: "/poi-images/ndjamena-cities-v2.webp",
     description: {
       de: "Die Hauptstadt und größte Stadt des Tschad liegt strategisch günstig am Zusammenfluss von Chari und Logone.",
       hu: "Csád fővárosa és legnagyobb városa, amely stratégiai helyen, a Chari és a Logone folyók találkozásánál fekszik.",
@@ -38,9 +37,8 @@ image: "/poi-images/ndjamena-cities-v2.webp"
     type: "city",
     parent: "TD-LO",
     coords: [16.07, 8.56],
-    name: { de: "Moundou", hu: "Moundou", ro: "Moundou", en: "Moundou",
-image: "/poi-images/moundou-cities-v2.webp"
-},
+    name: { de: "Moundou", hu: "Moundou", ro: "Moundou", en: "Moundou"},
+    image: "/poi-images/moundou-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes ist ein bedeutendes Industriezentrum im Süden.",
       hu: "Az ország második legnagyobb városa jelentős ipari központ délen.",
@@ -68,9 +66,8 @@ image: "/poi-images/moundou-cities-v2.webp"
     type: "city",
     parent: "TD-MC",
     coords: [18.39, 9.14],
-    name: { de: "Sarh", hu: "Sarh", ro: "Sarh", en: "Sarh",
-image: "/poi-images/sarh-cities-v2.webp"
-},
+    name: { de: "Sarh", hu: "Sarh", ro: "Sarh", en: "Sarh"},
+    image: "/poi-images/sarh-cities-v2.webp",
     description: {
       de: "Eine wichtige Stadt im Süden des Tschad, bekannt für ihre Textilindustrie.",
       hu: "Fontos város Csád déli részén, amely textiliparáról ismert.",
@@ -98,9 +95,8 @@ image: "/poi-images/sarh-cities-v2.webp"
     type: "city",
     parent: "TD-OD",
     coords: [20.83, 13.83],
-    name: { de: "Abéché", hu: "Abéché", ro: "Abéché", en: "Abéché",
-image: "/poi-images/abeche-cities-v2.webp"
-},
+    name: { de: "Abéché", hu: "Abéché", ro: "Abéché", en: "Abéché"},
+    image: "/poi-images/abeche-cities-v2.webp",
     description: {
       de: "Die viertgrößte Stadt des Tschad war einst die Hauptstadt des Wadai-Sultanats.",
       hu: "Csád negyedik legnagyobb városa egykor a Wadai Szultanátus fővárosa volt.",
@@ -128,9 +124,8 @@ image: "/poi-images/abeche-cities-v2.webp"
     type: "city",
     parent: "TD-TA",
     coords: [15.31, 9.31],
-    name: { de: "Kélo", hu: "Kélo", ro: "Kélo", en: "Kélo",
-image: "/poi-images/kelo-cities-v2.webp"
-},
+    name: { de: "Kélo", hu: "Kélo", ro: "Kélo", en: "Kélo"},
+    image: "/poi-images/kelo-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt in der Region Tanjilé.",
       hu: "Mezőgazdasági jellegű város a Tanjilé régióban.",
@@ -158,9 +153,8 @@ image: "/poi-images/kelo-cities-v2.webp"
     type: "city",
     parent: "TD-MA",
     coords: [17.55, 8.91],
-    name: { de: "Koumra", hu: "Koumra", ro: "Koumra", en: "Koumra",
-image: "/poi-images/koumra-cities-v2.webp"
-},
+    name: { de: "Koumra", hu: "Koumra", ro: "Koumra", en: "Koumra"},
+    image: "/poi-images/koumra-cities-v2.webp",
     description: {
       de: "Hauptstadt der Region Mandoul im fruchtbaren Süden des Landes.",
       hu: "A Mandoul régió fővárosa az ország termékeny déli részén.",
@@ -189,9 +183,8 @@ image: "/poi-images/koumra-cities-v2.webp"
     type: "city",
     parent: "TD-MO",
     coords: [14.9, 9.36],
-    name: { de: "Pala", hu: "Pala", ro: "Pala", en: "Pala",
-image: "/poi-images/pala-cities-v2.webp"
-},
+    name: { de: "Pala", hu: "Pala", ro: "Pala", en: "Pala"},
+    image: "/poi-images/pala-cities-v2.webp",
     description: {
       de: "Eine Stadt im Südwesten, die als wichtiges Handelszentrum dient.",
       hu: "Város a délnyugati részen, amely fontos kereskedelmi központként szolgál.",
@@ -219,9 +212,8 @@ image: "/poi-images/pala-cities-v2.webp"
     type: "city",
     parent: "TD-SA",
     coords: [20.28, 11.03],
-    name: { de: "Am Timan", hu: "Am Timan", ro: "Am Timan", en: "Am Timan",
-image: "/poi-images/am-timan-cities-v2.webp"
-},
+    name: { de: "Am Timan", hu: "Am Timan", ro: "Am Timan", en: "Am Timan"},
+    image: "/poi-images/am-timan-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Salamat liegt in einer wildreichen Gegend.",
       hu: "A Salamat régió fővárosa vadvilágban gazdag területen fekszik.",
@@ -249,9 +241,8 @@ image: "/poi-images/am-timan-cities-v2.webp"
     type: "city",
     parent: "TD-ME",
     coords: [15.37, 10.28],
-    name: { de: "Bongor", hu: "Bongor", ro: "Bongor", en: "Bongor",
-image: "/poi-images/bongor-cities-v2.webp"
-},
+    name: { de: "Bongor", hu: "Bongor", ro: "Bongor", en: "Bongor"},
+    image: "/poi-images/bongor-cities-v2.webp",
     description: {
       de: "Eine Stadt am Ufer des Logone-Flusses an der Grenze zu Kamerun.",
       hu: "Város a Logone-folyó partján, a kameruni határ mentén.",
@@ -279,9 +270,8 @@ image: "/poi-images/bongor-cities-v2.webp"
     type: "city",
     parent: "TD-GR",
     coords: [18.69, 12.18],
-    name: { de: "Mongo", hu: "Mongo", ro: "Mongo", en: "Mongo",
-image: "/poi-images/mongo-cities-v2.webp"
-},
+    name: { de: "Mongo", hu: "Mongo", ro: "Mongo", en: "Mongo"},
+    image: "/poi-images/mongo-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Guéra liegt am Fuße des majestätischen Abou Telfane Gebirges.",
       hu: "A Guéra régió fővárosa a fenséges Abou Telfane hegység lábánál fekszik.",
@@ -309,9 +299,8 @@ image: "/poi-images/mongo-cities-v2.webp"
     type: "city",
     parent: "TD-LR",
     coords: [16.85, 8.66],
-    name: { de: "Doba", hu: "Doba", ro: "Doba", en: "Doba",
-image: "/poi-images/doba-cities-v2.webp"
-},
+    name: { de: "Doba", hu: "Doba", ro: "Doba", en: "Doba"},
+    image: "/poi-images/doba-cities-v2.webp",
     description: {
       de: "Eine Stadt im Süden, die durch die Entdeckung von Erdöl bekannt wurde.",
       hu: "Déli város, amely a kőolaj felfedezése révén vált ismertté.",
@@ -339,9 +328,8 @@ image: "/poi-images/doba-cities-v2.webp"
     type: "city",
     parent: "TD-BA",
     coords: [18.34, 13.21],
-    name: { de: "Ati", hu: "Ati", ro: "Ati", en: "Ati",
-image: "/poi-images/ati-cities-v2.webp"
-},
+    name: { de: "Ati", hu: "Ati", ro: "Ati", en: "Ati"},
+    image: "/poi-images/ati-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Batha liegt im Herzen des Tschad.",
       hu: "A Batha régió fővárosa Csád szívében fekszik.",
@@ -369,9 +357,8 @@ image: "/poi-images/ati-cities-v2.webp"
     type: "city",
     parent: "TD-KA",
     coords: [15.31, 14.12],
-    name: { de: "Mao", hu: "Mao", ro: "Mao", en: "Mao",
-image: "/poi-images/mao-cities-v2.webp"
-},
+    name: { de: "Mao", hu: "Mao", ro: "Mao", en: "Mao"},
+    image: "/poi-images/mao-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Kanem am Rande der Sahara-Wüste.",
       hu: "A Kanem régió fővárosa a Szahara sivatag szélén.",
@@ -400,9 +387,8 @@ image: "/poi-images/mao-cities-v2.webp"
     type: "city",
     parent: "TD-BO",
     coords: [19.12, 17.92],
-    name: { de: "Faya-Largeau", hu: "Faya-Largeau", ro: "Faya-Largeau", en: "Faya-Largeau",
-image: "/poi-images/faya-largeau-cities-v2.webp"
-},
+    name: { de: "Faya-Largeau", hu: "Faya-Largeau", ro: "Faya-Largeau", en: "Faya-Largeau"},
+    image: "/poi-images/faya-largeau-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Norden des Tschad, gelegen in einer riesigen Oase.",
       hu: "Csád északi részének legnagyobb városa, egy hatalmas oázisban fekszik.",
@@ -430,9 +416,8 @@ image: "/poi-images/faya-largeau-cities-v2.webp"
     type: "city",
     parent: "TD-HL",
     coords: [15.73, 13.0],
-    name: { de: "Massakory", hu: "Massakory", ro: "Massakory", en: "Massakory",
-image: "/poi-images/massakory-cities-v2.webp"
-},
+    name: { de: "Massakory", hu: "Massakory", ro: "Massakory", en: "Massakory"},
+    image: "/poi-images/massakory-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Hadjer-Lamis, nordöstlich von N'Djamena.",
       hu: "Hadjer-Lamis régió fővárosa, N'Djamenától északkeletre.",
@@ -460,9 +445,8 @@ image: "/poi-images/massakory-cities-v2.webp"
     type: "city",
     parent: "TD-BG",
     coords: [16.49, 13.64],
-    name: { de: "Moussoro", hu: "Moussoro", ro: "Moussoro", en: "Moussoro",
-image: "/poi-images/moussoro-cities-v2.webp"
-},
+    name: { de: "Moussoro", hu: "Moussoro", ro: "Moussoro", en: "Moussoro"},
+    image: "/poi-images/moussoro-cities-v2.webp",
     description: {
       de: "Eine strategisch wichtige Stadt in der Region Barh El Gazel.",
       hu: "Stratégiailag fontos város a Barh El Gazel régióban.",
@@ -490,9 +474,8 @@ image: "/poi-images/moussoro-cities-v2.webp"
     type: "city",
     parent: "TD-WF",
     coords: [20.92, 14.53],
-    name: { de: "Biltine", hu: "Biltine", ro: "Biltine", en: "Biltine",
-image: "/poi-images/biltine-cities-v2.webp"
-},
+    name: { de: "Biltine", hu: "Biltine", ro: "Biltine", en: "Biltine"},
+    image: "/poi-images/biltine-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Wadi Fira im Osten des Landes.",
       hu: "A Wadi Fira régió fővárosa az ország keleti részén.",
@@ -521,9 +504,8 @@ image: "/poi-images/biltine-cities-v2.webp"
     type: "city",
     parent: "TD-LC",
     coords: [14.71, 13.46],
-    name: { de: "Bol", hu: "Bol", ro: "Bol", en: "Bol",
-image: "/poi-images/bol-cities-v2.webp"
-},
+    name: { de: "Bol", hu: "Bol", ro: "Bol", en: "Bol"},
+    image: "/poi-images/bol-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Lac am Ufer des Tschadsees.",
       hu: "A Lac régió fővárosa a Csád-tó partján.",
@@ -551,9 +533,8 @@ image: "/poi-images/bol-cities-v2.webp"
     type: "city",
     parent: "TD-SI",
     coords: [21.41, 12.22],
-    name: { de: "Goz Beïda", hu: "Goz Beïda", ro: "Goz Beïda", en: "Goz Beïda",
-image: "/poi-images/goz-beida-cities-v2.webp"
-},
+    name: { de: "Goz Beïda", hu: "Goz Beïda", ro: "Goz Beïda", en: "Goz Beïda"},
+    image: "/poi-images/goz-beida-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Sila nahe der Grenze zum Sudan.",
       hu: "Sila régió fővárosa a szudáni határ közelében.",
@@ -581,9 +562,8 @@ image: "/poi-images/goz-beida-cities-v2.webp"
     type: "city",
     parent: "TD-BA",
     coords: [19.69, 13.29],
-    name: { de: "Oum Hadjer", hu: "Oum Hadjer", ro: "Oum Hadjer", en: "Oum Hadjer",
-image: "/poi-images/oum-hadjer-cities-v2.webp"
-},
+    name: { de: "Oum Hadjer", hu: "Oum Hadjer", ro: "Oum Hadjer", en: "Oum Hadjer"},
+    image: "/poi-images/oum-hadjer-cities-v2.webp",
     description: {
       de: "Eine wichtige Stadt in der Region Batha, am Batha-Fluss gelegen.",
       hu: "Fontos város a Batha régióban, a Batha-folyó partján.",
@@ -611,9 +591,8 @@ image: "/poi-images/oum-hadjer-cities-v2.webp"
     type: "city",
     parent: "TD-GR",
     coords: [18.78, 11.98],
-    name: { de: "Bitkine", hu: "Bitkine", ro: "Bitkine", en: "Bitkine",
-image: "/poi-images/bitkine-cities-v2.webp"
-},
+    name: { de: "Bitkine", hu: "Bitkine", ro: "Bitkine", en: "Bitkine"},
+    image: "/poi-images/bitkine-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Guéra, umgeben von beeindruckenden Granitfelsen.",
       hu: "Város a Guéra régióban, lenyűgöző gránitsziklákkal körülvéve.",
@@ -637,9 +616,8 @@ image: "/poi-images/bitkine-cities-v2.webp"
     type: "city",
     parent: "TD-HL",
     coords: [15.44, 12.47],
-    name: { de: "Massaguet", hu: "Massaguet", ro: "Massaguet", en: "Massaguet",
-image: "/poi-images/massaguet-cities-v2.webp"
-},
+    name: { de: "Massaguet", hu: "Massaguet", ro: "Massaguet", en: "Massaguet"},
+    image: "/poi-images/massaguet-cities-v2.webp",
     description: {
       de: "Eine Kleinstadt nördlich von N'Djamena, ein Tor in den Norden.",
       hu: "Kisváros N'Djamenától északra, kapu az északi területek felé.",
@@ -663,9 +641,8 @@ image: "/poi-images/massaguet-cities-v2.webp"
     type: "city",
     parent: "TD-CB",
     coords: [15.86, 11.81],
-    name: { de: "Dourbali", hu: "Dourbali", ro: "Dourbali", en: "Dourbali",
-image: "/poi-images/dourbali-cities-v2.webp"
-},
+    name: { de: "Dourbali", hu: "Dourbali", ro: "Dourbali", en: "Dourbali"},
+    image: "/poi-images/dourbali-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Chari-Baguirmi, südöstlich der Hauptstadt.",
       hu: "Város a Chari-Baguirmi régióban, a fővárostól délkeletre.",
@@ -690,9 +667,8 @@ image: "/poi-images/dourbali-cities-v2.webp"
     type: "city",
     parent: "TD-MO",
     coords: [14.15, 9.65],
-    name: { de: "Léré", hu: "Léré", ro: "Léré", en: "Léré",
-image: "/poi-images/lere-cities-v2.webp"
-},
+    name: { de: "Léré", hu: "Léré", ro: "Léré", en: "Léré"},
+    image: "/poi-images/lere-cities-v2.webp",
     description: {
       de: "Eine Stadt im Südwesten, gelegen am malerischen Léré-See.",
       hu: "Délnyugati város, amely a festői Léré-tó partján fekszik.",
@@ -716,9 +692,8 @@ image: "/poi-images/lere-cities-v2.webp"
     type: "city",
     parent: "TD-MC",
     coords: [18.94, 9.45],
-    name: { de: "Kyabé", hu: "Kyabé", ro: "Kyabé", en: "Kyabé",
-image: "/poi-images/kyabe-cities-v2.webp"
-},
+    name: { de: "Kyabé", hu: "Kyabé", ro: "Kyabé", en: "Kyabé"},
+    image: "/poi-images/kyabe-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Moyen-Chari, bekannt für ihre fruchtbaren Böden.",
       hu: "Város a Moyen-Chari régióban, amely termékeny talajáról ismert.",
@@ -742,9 +717,8 @@ image: "/poi-images/kyabe-cities-v2.webp"
     type: "city",
     parent: "TD-LO",
     coords: [16.32, 8.98],
-    name: { de: "Bénoye", hu: "Bénoye", ro: "Bénoye", en: "Bénoye",
-image: "/poi-images/benoye-cities-v2.webp"
-},
+    name: { de: "Bénoye", hu: "Bénoye", ro: "Bénoye", en: "Bénoye"},
+    image: "/poi-images/benoye-cities-v2.webp",
     description: {
       de: "Eine Stadt im Logone Occidental, ein wichtiges regionales Zentrum.",
       hu: "Város a Logone Occidental régióban, fontos regionális központ.",
@@ -768,9 +742,8 @@ image: "/poi-images/benoye-cities-v2.webp"
     type: "city",
     parent: "TD-ME",
     coords: [15.51, 9.63],
-    name: { de: "Gounou Gaya", hu: "Gounou Gaya", ro: "Gounou Gaya", en: "Gounou Gaya",
-image: "/poi-images/gounou-gaya-cities-v2.webp"
-},
+    name: { de: "Gounou Gaya", hu: "Gounou Gaya", ro: "Gounou Gaya", en: "Gounou Gaya"},
+    image: "/poi-images/gounou-gaya-cities-v2.webp",
     description: {
       de: "Eine Stadt in Mayo-Kebbi Est, nahe der Grenze zu Kamerun.",
       hu: "Város Mayo-Kebbi Est régióban, a kameruni határ közelében.",
@@ -794,9 +767,8 @@ image: "/poi-images/gounou-gaya-cities-v2.webp"
     type: "city",
     parent: "TD-LO",
     coords: [15.38, 8.67],
-    name: { de: "Beinamar", hu: "Beinamar", ro: "Beinamar", en: "Beinamar",
-image: "/poi-images/beinamar-cities-v2.webp"
-},
+    name: { de: "Beinamar", hu: "Beinamar", ro: "Beinamar", en: "Beinamar"},
+    image: "/poi-images/beinamar-cities-v2.webp",
     description: {
       de: "Eine Stadt im Süden des Tschad, in der Region Logone Occidental.",
       hu: "Dél-csádi város a Logone Occidental régióban.",
@@ -821,9 +793,8 @@ image: "/poi-images/beinamar-cities-v2.webp"
     type: "city",
     parent: "TD-LR",
     coords: [15.71, 7.76],
-    name: { de: "Baïbokoum", hu: "Baïbokoum", ro: "Baïbokoum", en: "Baïbokoum",
-image: "/poi-images/baibokoum-cities-v2.webp"
-},
+    name: { de: "Baïbokoum", hu: "Baïbokoum", ro: "Baïbokoum", en: "Baïbokoum"},
+    image: "/poi-images/baibokoum-cities-v2.webp",
     description: {
       de: "Eine Grenzstadt im äußersten Süden, nahe der Zentralafrikanischen Republik.",
       hu: "Határváros a távoli délen, a Közép-afrikai Köztársaság közelében.",
@@ -848,9 +819,8 @@ image: "/poi-images/baibokoum-cities-v2.webp"
     type: "city",
     parent: "TD-HL",
     coords: [17.06, 12.38],
-    name: { de: "Bokoro", hu: "Bokoro", ro: "Bokoro", en: "Bokoro",
-image: "/poi-images/bokoro-cities-v2.webp"
-},
+    name: { de: "Bokoro", hu: "Bokoro", ro: "Bokoro", en: "Bokoro"},
+    image: "/poi-images/bokoro-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Hadjer-Lamis, an der Straße nach Osten.",
       hu: "Város Hadjer-Lamis régióban, a keletre vezető út mentén.",
@@ -875,9 +845,8 @@ image: "/poi-images/bokoro-cities-v2.webp"
     type: "city",
     parent: "TD-MA",
     coords: [17.37, 9.36],
-    name: { de: "Goundi", hu: "Goundi", ro: "Goundi", en: "Goundi",
-image: "/poi-images/goundi-cities-v2.webp"
-},
+    name: { de: "Goundi", hu: "Goundi", ro: "Goundi", en: "Goundi"},
+    image: "/poi-images/goundi-cities-v2.webp",
     description: {
       de: "Eine Stadt in Mandoul, bekannt für ihre Gesundheitszentren.",
       hu: "Goundi a Mandoul régió egyik alprefektúrája Dél-Csádban. A település a helyi közigazgatási hálózat fontos pontja.",
@@ -901,9 +870,8 @@ image: "/poi-images/goundi-cities-v2.webp"
     type: "city",
     parent: "TD-MA",
     coords: [17.77, 8.34],
-    name: { de: "Moïssala", hu: "Moïssala", ro: "Moïssala", en: "Moïssala",
-image: "/poi-images/moissala-cities-v2.webp"
-},
+    name: { de: "Moïssala", hu: "Moïssala", ro: "Moïssala", en: "Moïssala"},
+    image: "/poi-images/moissala-cities-v2.webp",
     description: {
       de: "Eine Stadt im Süden des Mandoul, an der Grenze zur Zentralafrikanischen Republik.",
       hu: "Város Mandoul déli részén, a Közép-afrikai Köztársaság határán.",
@@ -927,9 +895,8 @@ image: "/poi-images/moissala-cities-v2.webp"
     type: "city",
     parent: "TD-OD",
     coords: [22.2, 13.47],
-    name: { de: "Adré", hu: "Adré", ro: "Adré", en: "Adré",
-image: "/poi-images/adre-cities-v2.webp"
-},
+    name: { de: "Adré", hu: "Adré", ro: "Adré", en: "Adré"},
+    image: "/poi-images/adre-cities-v2.webp",
     description: {
       de: "Die wichtigste Grenzstadt zum Sudan in der Region Ouaddaï.",
       hu: "A legfontosabb határváros Szudán felé az Ouaddaï régióban.",
@@ -953,9 +920,8 @@ image: "/poi-images/adre-cities-v2.webp"
     type: "city",
     parent: "TD-LR",
     coords: [16.15, 7.93],
-    name: { de: "Goré", hu: "Goré", ro: "Goré", en: "Goré",
-image: "/poi-images/gore-cities-v2.webp"
-},
+    name: { de: "Goré", hu: "Goré", ro: "Goré", en: "Goré"},
+    image: "/poi-images/gore-cities-v2.webp",
     description: {
       de: "Eine Stadt in Logone Oriental, bekannt für die Aufnahme von Flüchtlingen.",
       hu: "Város Logone Oriental régióban, menekültek befogadásáról ismert.",
@@ -979,9 +945,8 @@ image: "/poi-images/gore-cities-v2.webp"
     type: "city",
     parent: "TD-WF",
     coords: [22.2, 15.13],
-    name: { de: "Iriba", hu: "Iriba", ro: "Iriba", en: "Iriba",
-image: "/poi-images/iriba-cities-v2.webp"
-},
+    name: { de: "Iriba", hu: "Iriba", ro: "Iriba", en: "Iriba"},
+    image: "/poi-images/iriba-cities-v2.webp",
     description: {
       de: "Eine Stadt im Osten, ein wichtiges Zentrum in der Region Wadi Fira.",
       hu: "Keleti város, fontos központ a Wadi Fira régióban.",
@@ -1005,9 +970,8 @@ image: "/poi-images/iriba-cities-v2.webp"
     type: "city",
     parent: "TD-TI",
     coords: [17.00, 21.35],
-    name: { de: "Bardaï", hu: "Bardaï", ro: "Bardaï", en: "Bardaï",
-image: "/poi-images/bardai-cities-v2.webp"
-},
+    name: { de: "Bardaï", hu: "Bardaï", ro: "Bardaï", en: "Bardaï"},
+    image: "/poi-images/bardai-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Tibesti, tief im vulkanischen Gebirge gelegen.",
       hu: "A Tibesti régió fővárosa, mélyen a vulkáni hegységben.",
@@ -1031,9 +995,8 @@ image: "/poi-images/bardai-cities-v2.webp"
     type: "city",
     parent: "TD-EO",
     coords: [21.58, 17.18],
-    name: { de: "Fada", hu: "Fada", ro: "Fada", en: "Fada",
-image: "/poi-images/fada-cities-v2.webp"
-},
+    name: { de: "Fada", hu: "Fada", ro: "Fada", en: "Fada"},
+    image: "/poi-images/fada-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Ennedi-Ouest, berühmt für die umliegende Wüstenlandschaft.",
       hu: "Ennedi-Ouest régió fővárosa, híres a környező sivatagi tájról.",
@@ -1057,9 +1020,8 @@ image: "/poi-images/fada-cities-v2.webp"
     type: "city",
     parent: "TD-OD",
     coords: [20.9, 14.4],
-    name: { de: "Am Zoer", hu: "Am Zoer", ro: "Am Zoer", en: "Am Zoer",
-image: "/poi-images/am-zoer-cities-v2.webp"
-},
+    name: { de: "Am Zoer", hu: "Am Zoer", ro: "Am Zoer", en: "Am Zoer"},
+    image: "/poi-images/am-zoer-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Ouaddaï, nordöstlich von Abéché.",
       hu: "Város az Ouaddaï régióban, Abéchétől északkeletre.",
@@ -1083,9 +1045,8 @@ image: "/poi-images/am-zoer-cities-v2.webp"
     type: "city",
     parent: "TD-GR",
     coords: [19.61, 12.35],
-    name: { de: "Mangalmé", hu: "Mangalmé", ro: "Mangalmé", en: "Mangalmé",
-image: "/poi-images/mangalme-cities-v2.webp"
-},
+    name: { de: "Mangalmé", hu: "Mangalmé", ro: "Mangalmé", en: "Mangalmé"},
+    image: "/poi-images/mangalme-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Guéra, an der Hauptstraße nach Osten.",
       hu: "Város a Guéra régióban, a keletre vezető főút mentén.",
@@ -1109,9 +1070,8 @@ image: "/poi-images/mangalme-cities-v2.webp"
     type: "city",
     parent: "TD-WF",
     coords: [22.08, 14.51],
-    name: { de: "Guéréda", hu: "Guéréda", ro: "Guéréda", en: "Guéréda",
-image: "/poi-images/guereda-cities-v2.webp"
-},
+    name: { de: "Guéréda", hu: "Guéréda", ro: "Guéréda", en: "Guéréda"},
+    image: "/poi-images/guereda-cities-v2.webp",
     description: {
       de: "Eine Stadt in Wadi Fira, ein wichtiges humanitäres Zentrum.",
       hu: "Város Wadi Fira régióban, fontos humanitárius központ.",
@@ -1135,9 +1095,8 @@ image: "/poi-images/guereda-cities-v2.webp"
     type: "city",
     parent: "TD-SA",
     coords: [19.36, 11.47],
-    name: { de: "Abou-Deïa", hu: "Abou-Deïa", ro: "Abou-Deïa", en: "Abou-Deïa",
-image: "/poi-images/abou-deia-cities-v2.webp"
-},
+    name: { de: "Abou-Deïa", hu: "Abou-Deïa", ro: "Abou-Deïa", en: "Abou-Deïa"},
+    image: "/poi-images/abou-deia-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Salamat, gelegen in einer weiten Ebene.",
       hu: "Város a Salamat régióban, egy tágas síkságon fekszik.",
@@ -1161,9 +1120,8 @@ image: "/poi-images/abou-deia-cities-v2.webp"
     type: "city",
     parent: "TD-ME",
     coords: [15.14, 9.91],
-    name: { de: "Fianga", hu: "Fianga", ro: "Fianga", en: "Fianga",
-image: "/poi-images/fianga-cities-v2.webp"
-},
+    name: { de: "Fianga", hu: "Fianga", ro: "Fianga", en: "Fianga"},
+    image: "/poi-images/fianga-cities-v2.webp",
     description: {
       de: "Eine Stadt im Südwesten, bekannt für den Fianga-See.",
       hu: "Délnyugati város, a Fianga-tóról ismert.",
@@ -1187,9 +1145,8 @@ image: "/poi-images/fianga-cities-v2.webp"
     type: "city",
     parent: "TD-MO",
     coords: [14.17, 9.58],
-    name: { de: "Binder", hu: "Binder", ro: "Binder", en: "Binder",
-image: "/poi-images/binder-cities-v2.webp"
-},
+    name: { de: "Binder", hu: "Binder", ro: "Binder", en: "Binder"},
+    image: "/poi-images/binder-cities-v2.webp",
     description: {
       de: "Eine Stadt in Mayo-Kebbi Ouest, ein landwirtschaftlicher Knotenpunkt.",
       hu: "Város Mayo-Kebbi Ouest régióban, mezőgazdasági csomópont.",
@@ -1213,9 +1170,8 @@ image: "/poi-images/binder-cities-v2.webp"
     type: "city",
     parent: "TD-CB",
     coords: [15.8, 12.1],
-    name: { de: "Ngama", hu: "Ngama", ro: "Ngama", en: "Ngama",
-image: "/poi-images/ngama-cities-v2.webp"
-},
+    name: { de: "Ngama", hu: "Ngama", ro: "Ngama", en: "Ngama"},
+    image: "/poi-images/ngama-cities-v2.webp",
     description: {
       de: "Eine Stadt in Chari-Baguirmi, östlich von N'Djamena.",
       hu: "Város a Chari-Baguirmi régióban, N'Djamenától keletre.",
@@ -1240,9 +1196,8 @@ image: "/poi-images/ngama-cities-v2.webp"
     type: "city",
     parent: "TD-CB",
     coords: [16.17, 11.4],
-    name: { de: "Massenya", hu: "Massenya", ro: "Massenya", en: "Massenya",
-image: "/poi-images/massenya-cities-v2.webp"
-},
+    name: { de: "Massenya", hu: "Massenya", ro: "Massenya", en: "Massenya"},
+    image: "/poi-images/massenya-cities-v2.webp",
     description: {
       de: "Die historische Hauptstadt des Baguirmi-Königreichs.",
       hu: "A Baguirmi Királyság történelmi fővárosa.",
@@ -1267,9 +1222,8 @@ image: "/poi-images/massenya-cities-v2.webp"
     type: "city",
     parent: "TD-KA",
     coords: [14.8, 14.7],
-    name: { de: "Rig-Rig", hu: "Rig-Rig", ro: "Rig-Rig", en: "Rig-Rig",
-image: "/poi-images/rig-rig-cities-v2.webp"
-},
+    name: { de: "Rig-Rig", hu: "Rig-Rig", ro: "Rig-Rig", en: "Rig-Rig"},
+    image: "/poi-images/rig-rig-cities-v2.webp",
     description: {
       de: "Rig-Rig ist eine Oasenstadt in Kanem im trockenen Norden des Tschad. Sie dient als lokales Zentrum für Handel und Kamelzucht.",
       hu: "Rig-Rig a Kanem régióhoz tartozó észak-csádi alprefektúra. A száraz szaharai peremvidék települései közé tartozik.",
@@ -1293,9 +1247,8 @@ image: "/poi-images/rig-rig-cities-v2.webp"
     type: "city",
     parent: "TD-KA",
     coords: [14.78, 14.59],
-    name: { de: "Nokou", hu: "Nokou", ro: "Nokou", en: "Nokou",
-image: "/poi-images/nokou-cities-v2.webp"
-},
+    name: { de: "Nokou", hu: "Nokou", ro: "Nokou", en: "Nokou"},
+    image: "/poi-images/nokou-cities-v2.webp",
     description: {
       de: "Eine Stadt in Kanem, bekannt für ihre traditionelle Architektur.",
       hu: "Város Kanem régióban, hagyományos építészetéről ismert.",
@@ -1320,9 +1273,8 @@ image: "/poi-images/nokou-cities-v2.webp"
     type: "city",
     parent: "TD-TI",
     coords: [17.0, 20.4],
-    name: { de: "Zouar", hu: "Zouar", ro: "Zouar", en: "Zouar",
-image: "/poi-images/zouar-cities-v2.webp"
-},
+    name: { de: "Zouar", hu: "Zouar", ro: "Zouar", en: "Zouar"},
+    image: "/poi-images/zouar-cities-v2.webp",
     description: {
       de: "Eine entlegene Stadt im Tibesti-Gebirge, ein historischer Knotenpunkt.",
       hu: "Távoli város a Tibesti-hegységben, történelmi csomópont.",
@@ -1346,9 +1298,8 @@ image: "/poi-images/zouar-cities-v2.webp"
     type: "city",
     parent: "TD-TA",
     coords: [16.16, 9.32],
-    name: { de: "Béré", hu: "Béré", ro: "Béré", en: "Béré",
-image: "/poi-images/bere-cities-v2.webp"
-},
+    name: { de: "Béré", hu: "Béré", ro: "Béré", en: "Béré"},
+    image: "/poi-images/bere-cities-v2.webp",
     description: {
       de: "Eine Stadt in Tanjilé, bekannt für ihre landwirtschaftliche Produktion.",
       hu: "Város Tanjilé régióban, mezőgazdasági termeléséről ismert.",
@@ -1372,9 +1323,8 @@ image: "/poi-images/bere-cities-v2.webp"
     type: "city",
     parent: "TD-TA",
     coords: [16.29, 9.4],
-    name: { de: "Laï", hu: "Laï", ro: "Laï", en: "Laï",
-image: "/poi-images/lai-cities-v2.webp"
-},
+    name: { de: "Laï", hu: "Laï", ro: "Laï", en: "Laï"},
+    image: "/poi-images/lai-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Region Tanjilé am Fluss Logone.",
       hu: "A Tanjilé régió fővárosa a Logone-folyó mentén.",

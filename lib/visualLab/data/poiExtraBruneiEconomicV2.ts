@@ -6,9 +6,8 @@ export const poiExtraBruneiEconomicV2: POI[] = [
     type: "energy",
     parent: "BN-BE",
     coords: [114.475, 4.664],
-    name: { de: "Brunei LNG-Anlage", hu: "Brunei LNG Üzem", ro: "Fabrica de Gaze Naturale Lichefiate Brunei", en: "Brunei LNG Plant",
-image: "/poi-images/brunei-lng-plant-economic-v2.webp"
-},
+    name: { de: "Brunei LNG-Anlage", hu: "Brunei LNG Üzem", ro: "Fabrica de Gaze Naturale Lichefiate Brunei", en: "Brunei LNG Plant"},
+    image: "/poi-images/brunei-lng-plant-economic-v2.webp",
     description: {
       de: "Eine der ältesten Flüssiggasanlagen der Welt, die einen Großteil des bruneiischen Gases verarbeitet.",
       hu: "A világ egyik legrégebbi cseppfolyósított földgáz üzeme, amely Brunei gáztermelésének nagy részét feldolgozza.",
@@ -38,9 +37,8 @@ image: "/poi-images/brunei-lng-plant-economic-v2.webp"
     type: "energy",
     parent: "BN-BE",
     coords: [114.321, 4.606],
-    name: { de: "Ölfeld Seria", hu: "Seria Olajmező", ro: "Câmpul Petrolier Seria", en: "Seria Oil Field",
-image: "/poi-images/seria-oil-field-economic-v2.webp"
-},
+    name: { de: "Ölfeld Seria", hu: "Seria Olajmező", ro: "Câmpul Petrolier Seria", en: "Seria Oil Field"},
+    image: "/poi-images/seria-oil-field-economic-v2.webp",
     description: {
       de: "Das älteste und wichtigste kommerzielle Ölfeld in Brunei, das 1929 entdeckt wurde.",
       hu: "Brunei legrégebbi és legfontosabb kereskedelmi olajmezője, amelyet 1929-ben fedeztek fel.",
@@ -70,9 +68,8 @@ image: "/poi-images/seria-oil-field-economic-v2.webp"
     type: "port",
     parent: "BN-BM",
     coords: [115.067, 5.021],
-    name: { de: "Hafen von Muara", hu: "Muara Kikötő", ro: "Portul Muara", en: "Muara Port",
-image: "/poi-images/muara-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Muara", hu: "Muara Kikötő", ro: "Portul Muara", en: "Muara Port"},
+    image: "/poi-images/muara-port-economic-v2.webp",
     description: {
       de: "Der wichtigste Tiefwasserhafen Bruneis, der den Großteil des internationalen Seehandels abwickelt.",
       hu: "Brunei legfontosabb mélyvízi kikötője, amely a nemzetközi tengeri kereskedelem nagy részét bonyolítja.",
@@ -102,9 +99,8 @@ image: "/poi-images/muara-port-economic-v2.webp"
     type: "industry",
     parent: "BN-BM",
     coords: [115.066, 4.992],
-    name: { de: "Petrochemischer Komplex Pulau Muara Besar", hu: "Pulau Muara Besar Petrolkémiai Komplexum", ro: "Complexul Petrochimic Pulau Muara Besar", en: "Pulau Muara Besar Petrochemical Complex",
-image: "/poi-images/pulau-muara-besar-petrochemical-complex-economic-v2.webp"
-},
+    name: { de: "Petrochemischer Komplex Pulau Muara Besar", hu: "Pulau Muara Besar Petrolkémiai Komplexum", ro: "Complexul Petrochimic Pulau Muara Besar", en: "Pulau Muara Besar Petrochemical Complex"},
+    image: "/poi-images/pulau-muara-besar-petrochemical-complex-economic-v2.webp",
     description: {
       de: "Eine riesige Raffinerie- und Petrochemieanlage auf einer Insel, die ein Joint Venture mit China ist.",
       hu: "Hatalmas finomító és petrolkémiai üzem egy szigeten, amely Kínával közös vállalatként működik.",
@@ -134,9 +130,8 @@ image: "/poi-images/pulau-muara-besar-petrochemical-complex-economic-v2.webp"
     type: "industry",
     parent: "BN-BE",
     coords: [114.484, 4.654],
-    name: { de: "Industriepark Sungai Liang", hu: "Sungai Liang Ipari Park", ro: "Parcul Industrial Sungai Liang", en: "Sungai Liang Industrial Park",
-image: "/poi-images/sungai-liang-industrial-park-economic-v2.webp"
-},
+    name: { de: "Industriepark Sungai Liang", hu: "Sungai Liang Ipari Park", ro: "Parcul Industrial Sungai Liang", en: "Sungai Liang Industrial Park"},
+    image: "/poi-images/sungai-liang-industrial-park-economic-v2.webp",
     description: {
       de: "Ein Industriegebiet der Spitzenklasse, das speziell für die petrochemische Industrie entwickelt wurde.",
       hu: "Világszínvonalú ipari terület, amelyet kifejezetten a petrolkémiai ipar számára fejlesztettek ki.",
@@ -166,9 +161,8 @@ image: "/poi-images/sungai-liang-industrial-park-economic-v2.webp"
     type: "energy",
     parent: "BN-BM",
     coords: [114.750, 5.233],
-    name: { de: "Offshore-Ölfeld Champion", hu: "Champion Tengeri Olajmező", ro: "Câmpul Petrolier Offshore Champion", en: "Champion Offshore Oil Field",
-image: "/poi-images/champion-offshore-oil-field-economic-v2.webp"
-},
+    name: { de: "Offshore-Ölfeld Champion", hu: "Champion Tengeri Olajmező", ro: "Câmpul Petrolier Offshore Champion", en: "Champion Offshore Oil Field"},
+    image: "/poi-images/champion-offshore-oil-field-economic-v2.webp",
     description: {
       de: "Eines der größten und ältesten Offshore-Ölfelder vor der Küste Bruneis.",
       hu: "Az egyik legnagyobb és legrégebbi tengeri olajmező Brunei partjainál.",
@@ -198,9 +192,8 @@ image: "/poi-images/champion-offshore-oil-field-economic-v2.webp"
     type: "industry",
     parent: "BN-BE",
     coords: [114.298, 4.608],
-    name: { de: "Hauptsitz der Brunei Shell Petroleum", hu: "Brunei Shell Petroleum Központ", ro: "Sediul Central Brunei Shell Petroleum", en: "Brunei Shell Petroleum Headquarters",
-image: "/poi-images/brunei-shell-petroleum-headquarters-economic-v2.webp"
-},
+    name: { de: "Hauptsitz der Brunei Shell Petroleum", hu: "Brunei Shell Petroleum Központ", ro: "Sediul Central Brunei Shell Petroleum", en: "Brunei Shell Petroleum Headquarters"},
+    image: "/poi-images/brunei-shell-petroleum-headquarters-economic-v2.webp",
     description: {
       de: "Das Verwaltungszentrum des größten Energieunternehmens des Landes in Panaga.",
       hu: "Az ország legnagyobb energiaipari vállalatának igazgatási központja Panagában.",
@@ -230,9 +223,8 @@ image: "/poi-images/brunei-shell-petroleum-headquarters-economic-v2.webp"
     type: "industry",
     parent: "BN-BE",
     coords: [114.489, 4.656],
-    name: { de: "Brunei Düngemittelwerk", hu: "Brunei Műtrágyagyár", ro: "Fabrica de Îngrășăminte Brunei", en: "Brunei Fertilizer Industries Plant",
-image: "/poi-images/brunei-fertilizer-industries-plant-economic-v2.webp"
-},
+    name: { de: "Brunei Düngemittelwerk", hu: "Brunei Műtrágyagyár", ro: "Fabrica de Îngrășăminte Brunei", en: "Brunei Fertilizer Industries Plant"},
+    image: "/poi-images/brunei-fertilizer-industries-plant-economic-v2.webp",
     description: {
       de: "Eine hochmoderne Anlage zur Herstellung von Harnstoffdünger aus Erdgas.",
       hu: "Korszerű üzem, amely földgázból állít elő karbamid műtrágyát.",
@@ -262,9 +254,8 @@ image: "/poi-images/brunei-fertilizer-industries-plant-economic-v2.webp"
     type: "industry",
     parent: "BN-BM",
     coords: [115.008, 4.965],
-    name: { de: "Industriepark Salambigar", hu: "Salambigar Ipari Park", ro: "Parcul Industrial Salambigar", en: "Salambigar Industrial Park",
-image: "/poi-images/salambigar-industrial-park-economic-v2.webp"
-},
+    name: { de: "Industriepark Salambigar", hu: "Salambigar Ipari Park", ro: "Parcul Industrial Salambigar", en: "Salambigar Industrial Park"},
+    image: "/poi-images/salambigar-industrial-park-economic-v2.webp",
     description: {
       de: "Ein wichtiges Gewerbegebiet in der Nähe der Hauptstadt für leichte bis mittlere Industrie.",
       hu: "Fontos kereskedelmi terület a főváros közelében könnyű- és középipari vállalatok számára.",
@@ -294,9 +285,8 @@ image: "/poi-images/salambigar-industrial-park-economic-v2.webp"
     type: "industry",
     parent: "BN-BM",
     coords: [114.945, 4.954],
-    name: { de: "Industriegebiet Lambak Kanan", hu: "Lambak Kanan Ipartelep", ro: "Zona Industrială Lambak Kanan", en: "Lambak Kanan Industrial Estate",
-image: "/poi-images/lambak-kanan-industrial-estate-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Lambak Kanan", hu: "Lambak Kanan Ipartelep", ro: "Zona Industrială Lambak Kanan", en: "Lambak Kanan Industrial Estate"},
+    image: "/poi-images/lambak-kanan-industrial-estate-economic-v2.webp",
     description: {
       de: "Ein Zentrum für kleine und mittlere Unternehmen, insbesondere in der Lebensmittelverarbeitung.",
       hu: "Kis- és középvállalkozások központja, különösen az élelmiszer-feldolgozás területén.",
@@ -326,9 +316,8 @@ image: "/poi-images/lambak-kanan-industrial-estate-economic-v2.webp"
     type: "port",
     parent: "BN-BM",
     coords: [115.056, 4.987],
-    name: { de: "Fährterminal Serasa", hu: "Serasa Kompkikötő", ro: "Terminalul de Feriboturi Serasa", en: "Serasa Ferry Terminal",
-image: "/poi-images/serasa-ferry-terminal-economic-v2.webp"
-},
+    name: { de: "Fährterminal Serasa", hu: "Serasa Kompkikötő", ro: "Terminalul de Feriboturi Serasa", en: "Serasa Ferry Terminal"},
+    image: "/poi-images/serasa-ferry-terminal-economic-v2.webp",
     description: {
       de: "Der wichtigste Passagier- und Fahrzeughafen für Verbindungen nach Labuan und Malaysia.",
       hu: "A legfontosabb személy- és járműkikötő a Labuanba és Malajziába irányuló járatok számára.",
@@ -358,9 +347,8 @@ image: "/poi-images/serasa-ferry-terminal-economic-v2.webp"
     type: "port",
     parent: "BN-BE",
     coords: [114.195, 4.582],
-    name: { de: "Hafen von Kuala Belait", hu: "Kuala Belait Kikötő", ro: "Portul Kuala Belait", en: "Kuala Belait Port",
-image: "/poi-images/kuala-belait-port-economic-v2.webp"
-},
+    name: { de: "Hafen von Kuala Belait", hu: "Kuala Belait Kikötő", ro: "Portul Kuala Belait", en: "Kuala Belait Port"},
+    image: "/poi-images/kuala-belait-port-economic-v2.webp",
     description: {
       de: "Ein kleiner Hafen am Belait-Fluss, der hauptsächlich die lokale Öl- und Gasindustrie versorgt.",
       hu: "Kisebb kikötő a Belait-folyón, amely főként a helyi olaj- és gázipart szolgálja ki.",
@@ -390,9 +378,8 @@ image: "/poi-images/kuala-belait-port-economic-v2.webp"
     type: "energy",
     parent: "BN-BM",
     coords: [114.945, 4.968],
-    name: { de: "Kraftwerk Berakas", hu: "Berakas Erőmű", ro: "Centrala Electrică Berakas", en: "Berakas Power Station",
-image: "/poi-images/berakas-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Berakas", hu: "Berakas Erőmű", ro: "Centrala Electrică Berakas", en: "Berakas Power Station"},
+    image: "/poi-images/berakas-power-station-economic-v2.webp",
     description: {
       de: "Eines der Hauptkraftwerke, die Strom für die Hauptstadtregion liefern.",
       hu: "Az egyik fő erőmű, amely a fővárosi régió áramellátását biztosítja.",
@@ -422,9 +409,8 @@ image: "/poi-images/berakas-power-station-economic-v2.webp"
     type: "energy",
     parent: "BN-TU",
     coords: [114.675, 4.802],
-    name: { de: "Kraftwerk Bukit Panggal", hu: "Bukit Panggal Erőmű", ro: "Centrala Electrică Bukit Panggal", en: "Bukit Panggal Power Station",
-image: "/poi-images/bukit-panggal-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Bukit Panggal", hu: "Bukit Panggal Erőmű", ro: "Centrala Electrică Bukit Panggal", en: "Bukit Panggal Power Station"},
+    image: "/poi-images/bukit-panggal-power-station-economic-v2.webp",
     description: {
       de: "Ein modernes und effizientes Gasturbinenkraftwerk im Tutong-Distrikt.",
       hu: "Modern és hatékony gázturbinás erőmű a Tutong körzetben.",
@@ -454,9 +440,8 @@ image: "/poi-images/bukit-panggal-power-station-economic-v2.webp"
     type: "energy",
     parent: "BN-BE",
     coords: [114.471, 4.655],
-    name: { de: "Kraftwerk Lumut", hu: "Lumut Erőmű", ro: "Centrala Electrică Lumut", en: "Lumut Power Station",
-image: "/poi-images/lumut-power-station-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Lumut", hu: "Lumut Erőmű", ro: "Centrala Electrică Lumut", en: "Lumut Power Station"},
+    image: "/poi-images/lumut-power-station-economic-v2.webp",
     description: {
       de: "Ein Kraftwerk, das einen großen Teil des Strombedarfs der industriellen und zivilen Bereiche im Belait-Distrikt deckt.",
       hu: "Egy erőmű, amely a Belait körzet ipari és lakossági áramszükségletének nagy részét fedezi.",
@@ -486,9 +471,8 @@ image: "/poi-images/lumut-power-station-economic-v2.webp"
     type: "industry",
     parent: "BN-BE",
     coords: [114.482, 4.651],
-    name: { de: "Brunei Methanol-Anlage", hu: "Brunei Metanol Üzem", ro: "Fabrica de Metanol Brunei", en: "Brunei Methanol Plant",
-image: "/poi-images/brunei-methanol-plant-economic-v2.webp"
-},
+    name: { de: "Brunei Methanol-Anlage", hu: "Brunei Metanol Üzem", ro: "Fabrica de Metanol Brunei", en: "Brunei Methanol Plant"},
+    image: "/poi-images/brunei-methanol-plant-economic-v2.webp",
     description: {
       de: "Eine große Anlage im SPARK-Industriepark, die Methanol für den weltweiten Export herstellt.",
       hu: "Nagyüzem a SPARK ipari parkban, amely metanolt állít elő globális exportra.",
@@ -519,9 +503,8 @@ image: "/poi-images/brunei-methanol-plant-economic-v2.webp"
     type: "industry",
     parent: "BN-BM",
     coords: [114.945, 4.935],
-    name: { de: "Technologiepark Anggerek Desa", hu: "Anggerek Desa Technológiai Park", ro: "Parcul Tehnologic Anggerek Desa", en: "Anggerek Desa Technology Park",
-image: "/poi-images/anggerek-desa-technology-park-economic-v2.webp"
-},
+    name: { de: "Technologiepark Anggerek Desa", hu: "Anggerek Desa Technológiai Park", ro: "Parcul Tehnologic Anggerek Desa", en: "Anggerek Desa Technology Park"},
+    image: "/poi-images/anggerek-desa-technology-park-economic-v2.webp",
     description: {
       de: "Ein Zentrum für Forschung, Entwicklung und IT-Startups in Brunei.",
       hu: "Kutatási, fejlesztési és IT startup központ Bruneiben.",
@@ -551,9 +534,8 @@ image: "/poi-images/anggerek-desa-technology-park-economic-v2.webp"
     type: "industry",
     parent: "BN-BM",
     coords: [114.912, 4.918],
-    name: { de: "Industriekomplex Beribi", hu: "Beribi Ipari Komplexum", ro: "Complexul Industrial Beribi", en: "Beribi Industrial Complex",
-image: "/poi-images/beribi-industrial-complex-economic-v2.webp"
-},
+    name: { de: "Industriekomplex Beribi", hu: "Beribi Ipari Komplexum", ro: "Complexul Industrial Beribi", en: "Beribi Industrial Complex"},
+    image: "/poi-images/beribi-industrial-complex-economic-v2.webp",
     description: {
       de: "Ein vielseitiges Gewerbegebiet in der Nähe von Gadong, das produzierendes Gewerbe und Dienstleister beherbergt.",
       hu: "Sokoldalú kereskedelmi terület Gadong közelében, amely feldolgozóipari és szolgáltató cégeknek ad otthont.",
@@ -583,9 +565,8 @@ image: "/poi-images/beribi-industrial-complex-economic-v2.webp"
     type: "mine",
     parent: "BN-TE",
     coords: [115.150, 4.600],
-    name: { de: "Steinbruch Temburong", hu: "Temburong Kőbánya", ro: "Cariera de Piatră Temburong", en: "Temburong Stone Quarry",
-image: "/poi-images/temburong-stone-quarry-economic-v2.webp"
-},
+    name: { de: "Steinbruch Temburong", hu: "Temburong Kőbánya", ro: "Cariera de Piatră Temburong", en: "Temburong Stone Quarry"},
+    image: "/poi-images/temburong-stone-quarry-economic-v2.webp",
     description: {
       de: "Eine der wenigen Bergbauaktivitäten in Brunei, die Baumaterial für die Infrastruktur des Landes liefert.",
       hu: "A kevés brunei bányászati tevékenység egyike, amely építőanyagot biztosít az ország infrastruktúrájához.",
@@ -615,9 +596,8 @@ image: "/poi-images/temburong-stone-quarry-economic-v2.webp"
     type: "trade-hub",
     parent: "BN-BM",
     coords: [115.060, 5.015],
-    name: { de: "Fischanlandeplatz Muara", hu: "Muara Halászati Központ", ro: "Complexul de Debarcare a Peștelui Muara", en: "Muara Fish Landing Complex",
-image: "/poi-images/muara-fish-landing-complex-economic-v2.webp"
-},
+    name: { de: "Fischanlandeplatz Muara", hu: "Muara Halászati Központ", ro: "Complexul de Debarcare a Peștelui Muara", en: "Muara Fish Landing Complex"},
+    image: "/poi-images/muara-fish-landing-complex-economic-v2.webp",
     description: {
       de: "Das kommerzielle Zentrum der bruneiischen Fischereiindustrie, wo der frische Fang angelandet und gehandelt wird.",
       hu: "A brunei halászati ipar kereskedelmi központja, ahol a friss fogást partra teszik és forgalmazzák.",

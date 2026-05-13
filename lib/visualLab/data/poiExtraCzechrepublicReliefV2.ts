@@ -5,9 +5,8 @@ export const czechrepublicReliefV2: POI[] = [
     id: "czechrepublic-snezka-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Snezka", en: "Snezka",
-image: "/poi-images/czechrepublic-snezka-relief-v2.webp"
-},
+    name: { de: "Schneekoppe", hu: "Sněžka", ro: "Snezka", en: "Snezka"},
+    image: "/poi-images/czechrepublic-snezka-relief-v2.webp",
     coords: [15.7402, 50.7361],
     coordinates: { lat: 50.7361, lng: 15.7402 },
     description: {
@@ -41,9 +40,8 @@ image: "/poi-images/czechrepublic-snezka-relief-v2.webp"
     id: "czechrepublic-praded-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Altvater", hu: "Praděd", ro: "Praded", en: "Praded",
-image: "/poi-images/czechrepublic-praded-relief-v2.webp"
-},
+    name: { de: "Altvater", hu: "Praděd", ro: "Praded", en: "Praded"},
+    image: "/poi-images/czechrepublic-praded-relief-v2.webp",
     coords: [17.2311, 50.0831],
     coordinates: { lat: 50.0831, lng: 17.2311 },
     description: {
@@ -77,9 +75,8 @@ image: "/poi-images/czechrepublic-praded-relief-v2.webp"
     id: "czechrepublic-lysa-hora-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Kahlberg", hu: "Lysá hora", ro: "Lysa hora", en: "Lysa hora",
-image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"
-},
+    name: { de: "Kahlberg", hu: "Lysá hora", ro: "Lysa hora", en: "Lysa hora"},
+    image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp",
     coords: [18.4475, 49.5461],
     coordinates: { lat: 49.5461, lng: 18.4475 },
     description: {
@@ -113,9 +110,8 @@ image: "/poi-images/czechrepublic-lysa-hora-relief-v2.webp"
     id: "czechrepublic-klinovec-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Keilberg", hu: "Klínovec", ro: "Klinovec", en: "Klinovec",
-image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"
-},
+    name: { de: "Keilberg", hu: "Klínovec", ro: "Klinovec", en: "Klinovec"},
+    image: "/poi-images/czechrepublic-klinovec-relief-v2.webp",
     coords: [12.9675, 50.3958],
     coordinates: { lat: 50.3958, lng: 12.9675 },
     description: {
@@ -149,9 +145,8 @@ image: "/poi-images/czechrepublic-klinovec-relief-v2.webp"
     id: "czechrepublic-milesovka-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Milleschauer", hu: "Milešovka", ro: "Milesovka", en: "Milesovka",
-image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"
-},
+    name: { de: "Milleschauer", hu: "Milešovka", ro: "Milesovka", en: "Milesovka"},
+    image: "/poi-images/czechrepublic-milesovka-relief-v2.webp",
     coords: [13.9312, 50.5552],
     coordinates: { lat: 50.5552, lng: 13.9312 },
     description: {
@@ -185,9 +180,8 @@ image: "/poi-images/czechrepublic-milesovka-relief-v2.webp"
     id: "czechrepublic-velka-destna-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Deschneyer Großkoppe", hu: "Velká Deštná", ro: "Velka Destna", en: "Velka Destna",
-image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"
-},
+    name: { de: "Deschneyer Großkoppe", hu: "Velká Deštná", ro: "Velka Destna", en: "Velka Destna"},
+    image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp",
     coords: [16.3842, 50.3015],
     coordinates: { lat: 50.3015, lng: 16.3842 },
     description: {
@@ -221,9 +215,8 @@ image: "/poi-images/czechrepublic-velka-destna-relief-v2.webp"
     id: "czechrepublic-plechy-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Plöckenstein", hu: "Plechý", ro: "Plechy", en: "Plechy",
-image: "/poi-images/czechrepublic-plechy-relief-v2.webp"
-},
+    name: { de: "Plöckenstein", hu: "Plechý", ro: "Plechy", en: "Plechy"},
+    image: "/poi-images/czechrepublic-plechy-relief-v2.webp",
     coords: [13.8542, 48.7711],
     coordinates: { lat: 48.7711, lng: 13.8542 },
     description: {
@@ -257,9 +250,8 @@ image: "/poi-images/czechrepublic-plechy-relief-v2.webp"
     id: "czechrepublic-smrk-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Tafelfichte", hu: "Smrk", ro: "Smrk", en: "Smrk",
-image: "/poi-images/czechrepublic-smrk-relief-v2.webp"
-},
+    name: { de: "Tafelfichte", hu: "Smrk", ro: "Smrk", en: "Smrk"},
+    image: "/poi-images/czechrepublic-smrk-relief-v2.webp",
     coords: [15.2711, 50.8889],
     coordinates: { lat: 50.8889, lng: 15.2711 },
     description: {
@@ -293,9 +285,8 @@ image: "/poi-images/czechrepublic-smrk-relief-v2.webp"
     id: "czechrepublic-luz-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Lausche", hu: "Luž", ro: "Luz", en: "Luz",
-image: "/poi-images/czechrepublic-luz-relief-v2.webp"
-},
+    name: { de: "Lausche", hu: "Luž", ro: "Luz", en: "Luz"},
+    image: "/poi-images/czechrepublic-luz-relief-v2.webp",
     coords: [14.6475, 50.8492],
     coordinates: { lat: 50.8492, lng: 14.6475 },
     description: {
@@ -329,9 +320,8 @@ image: "/poi-images/czechrepublic-luz-relief-v2.webp"
     id: "czechrepublic-devet-skal-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Neun Felsen", hu: "Devět skal", ro: "Devet skal", en: "Devet skal",
-image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"
-},
+    name: { de: "Neun Felsen", hu: "Devět skal", ro: "Devet skal", en: "Devet skal"},
+    image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp",
     coords: [16.0319, 49.6703],
     coordinates: { lat: 49.6703, lng: 16.0319 },
     description: {
@@ -365,9 +355,8 @@ image: "/poi-images/czechrepublic-devet-skal-relief-v2.webp"
     id: "czechrepublic-velka-javorina-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Großer Jauerling", hu: "Velká Javořina", ro: "Velka Javorina", en: "Velka Javorina",
-image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"
-},
+    name: { de: "Großer Jauerling", hu: "Velká Javořina", ro: "Velka Javorina", en: "Velka Javorina"},
+    image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp",
     coords: [17.6758, 48.8578],
     coordinates: { lat: 48.8578, lng: 17.6758 },
     description: {
@@ -401,9 +390,8 @@ image: "/poi-images/czechrepublic-velka-javorina-relief-v2.webp"
     id: "czechrepublic-tok-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Tok", hu: "Tok", ro: "Tok", en: "Tok",
-image: "/poi-images/czechrepublic-tok-relief-v2.webp"
-},
+    name: { de: "Tok", hu: "Tok", ro: "Tok", en: "Tok"},
+    image: "/poi-images/czechrepublic-tok-relief-v2.webp",
     coords: [13.8403, 49.7028],
     coordinates: { lat: 49.7028, lng: 13.8403 },
     description: {
@@ -437,9 +425,8 @@ image: "/poi-images/czechrepublic-tok-relief-v2.webp"
     id: "czechrepublic-radhost-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Radhost", hu: "Radhošť", ro: "Radhost", en: "Radhost",
-image: "/poi-images/czechrepublic-radhost-relief-v2.webp"
-},
+    name: { de: "Radhost", hu: "Radhošť", ro: "Radhost", en: "Radhost"},
+    image: "/poi-images/czechrepublic-radhost-relief-v2.webp",
     coords: [18.2197, 49.4853],
     coordinates: { lat: 49.4853, lng: 18.2197 },
     description: {
@@ -473,9 +460,8 @@ image: "/poi-images/czechrepublic-radhost-relief-v2.webp"
     id: "czechrepublic-serak-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Hochschar", hu: "Šerák", ro: "Serak", en: "Serak",
-image: "/poi-images/czechrepublic-serak-relief-v2.webp"
-},
+    name: { de: "Hochschar", hu: "Šerák", ro: "Serak", en: "Serak"},
+    image: "/poi-images/czechrepublic-serak-relief-v2.webp",
     coords: [17.1083, 50.1872],
     coordinates: { lat: 50.1872, lng: 17.1083 },
     description: {
@@ -509,9 +495,8 @@ image: "/poi-images/czechrepublic-serak-relief-v2.webp"
     id: "czechrepublic-rip-relief-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Georgsberg", hu: "Říp", ro: "Rip", en: "Rip",
-image: "/poi-images/czechrepublic-rip-relief-v2.webp"
-},
+    name: { de: "Georgsberg", hu: "Říp", ro: "Rip", en: "Rip"},
+    image: "/poi-images/czechrepublic-rip-relief-v2.webp",
     coords: [14.2894, 50.3861],
     coordinates: { lat: 50.3861, lng: 14.2894 },
     description: {
@@ -545,9 +530,8 @@ image: "/poi-images/czechrepublic-rip-relief-v2.webp"
     id: "czechrepublic-pravcicka-brana-relief-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravcicka", en: "Pravcicka brana",
-image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"
-},
+    name: { de: "Prebischtor", hu: "Pravčická brána", ro: "Poarta Pravcicka", en: "Pravcicka brana"},
+    image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp",
     coords: [14.2814, 50.8842],
     coordinates: { lat: 50.8842, lng: 14.2814 },
     description: {
@@ -581,9 +565,8 @@ image: "/poi-images/czechrepublic-pravcicka-brana-relief-v2.webp"
     id: "czechrepublic-podyji-relief-v2",
     parent: "CZ",
     type: "valley",
-    name: { de: "Thayatal", hu: "Podyjí", ro: "Valea Thaya", en: "Podyji Valley",
-image: "/poi-images/czechrepublic-podyji-relief-v2.webp"
-},
+    name: { de: "Thayatal", hu: "Podyjí", ro: "Valea Thaya", en: "Podyji Valley"},
+    image: "/poi-images/czechrepublic-podyji-relief-v2.webp",
     coords: [15.9, 48.85],
     coordinates: { lat: 48.85, lng: 15.9 },
     description: {
@@ -617,9 +600,8 @@ image: "/poi-images/czechrepublic-podyji-relief-v2.webp"
     id: "czechrepublic-palava-relief-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Pollauer Berge", hu: "Pálava", ro: "Dealurile Palava", en: "Palava Hills",
-image: "/poi-images/czechrepublic-palava-relief-v2.webp"
-},
+    name: { de: "Pollauer Berge", hu: "Pálava", ro: "Dealurile Palava", en: "Palava Hills"},
+    image: "/poi-images/czechrepublic-palava-relief-v2.webp",
     coords: [16.65, 48.8333],
     coordinates: { lat: 48.8333, lng: 16.65 },
     description: {
@@ -653,9 +635,8 @@ image: "/poi-images/czechrepublic-palava-relief-v2.webp"
     id: "czechrepublic-tiske-steny-relief-v2",
     parent: "CZ",
     type: "landmark",
-    name: { de: "Tyssaer Wände", hu: "Tisái-falak", ro: "Stancile Tisa", en: "Tisa Walls",
-image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"
-},
+    name: { de: "Tyssaer Wände", hu: "Tisái-falak", ro: "Stancile Tisa", en: "Tisa Walls"},
+    image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp",
     coords: [14.0306, 50.7889],
     coordinates: { lat: 50.7889, lng: 14.0306 },
     description: {
@@ -689,9 +670,8 @@ image: "/poi-images/czechrepublic-tiske-steny-relief-v2.webp"
     id: "czechrepublic-hruby-jesenik-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Altvatergebirge", hu: "Hrubý Jeseník", ro: "Hruby Jesenik", en: "Hruby Jesenik",
-image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"
-},
+    name: { de: "Altvatergebirge", hu: "Hrubý Jeseník", ro: "Hruby Jesenik", en: "Hruby Jesenik"},
+    image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp",
     coords: [17.2, 50.1],
     coordinates: { lat: 50.1, lng: 17.2 },
     description: {
@@ -725,9 +705,8 @@ image: "/poi-images/czechrepublic-hruby-jesenik-relief-v2.webp"
     id: "czechrepublic-krkonose-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Riesengebirge", hu: "Óriás-hegység", ro: "Muntii Karkonosze", en: "Giant Mountains",
-image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"
-},
+    name: { de: "Riesengebirge", hu: "Óriás-hegység", ro: "Muntii Karkonosze", en: "Giant Mountains"},
+    image: "/poi-images/czechrepublic-krkonose-relief-v2.webp",
     coords: [15.6, 50.75],
     coordinates: { lat: 50.75, lng: 15.6 },
     description: {
@@ -761,9 +740,8 @@ image: "/poi-images/czechrepublic-krkonose-relief-v2.webp"
     id: "czechrepublic-ceske-stredohori-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Böhmisches Mittelgebirge", hu: "Cseh-középhegység", ro: "Munții Centrali Boemi", en: "Central Bohemian Uplands",
-image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp"
-},
+    name: { de: "Böhmisches Mittelgebirge", hu: "Cseh-középhegység", ro: "Munții Centrali Boemi", en: "Central Bohemian Uplands"},
+    image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp",
     coords: [14.0, 50.5],
     coordinates: { lat: 50.5, lng: 14 },
     description: {
@@ -796,9 +774,8 @@ image: "/poi-images/czechrepublic-ceske-stredohori-relief-v2.webp"
     id: "czechrepublic-polabi-relief-v2",
     parent: "CZ",
     type: "valley",
-    name: { de: "Elbeniederung", hu: "Polabí", ro: "Câmpia Elbei", en: "Elbe Lowlands",
-image: "/poi-images/czechrepublic-polabi-relief-v2.webp"
-},
+    name: { de: "Elbeniederung", hu: "Polabí", ro: "Câmpia Elbei", en: "Elbe Lowlands"},
+    image: "/poi-images/czechrepublic-polabi-relief-v2.webp",
     coords: [15.0, 50.1],
     coordinates: { lat: 50.1, lng: 15 },
     description: {
@@ -833,9 +810,8 @@ image: "/poi-images/czechrepublic-polabi-relief-v2.webp"
     id: "czechrepublic-mount-klet-relief-v2",
     parent: "CZ",
     type: "peak",
-    name: { de: "Kleť", hu: "Kleť-hegy", ro: "Muntele Kleť", en: "Mount Kleť",
-image: "/poi-images/czechrepublic-mount-klet-relief-v2.webp"
-},
+    name: { de: "Kleť", hu: "Kleť-hegy", ro: "Muntele Kleť", en: "Mount Kleť"},
+    image: "/poi-images/czechrepublic-mount-klet-relief-v2.webp",
     coordinates: { lat: 48.864, lng: 14.283 },
     description: {
       de: "Der Berg Kleť ist der höchste Gipfel des Blanský les in Südböhmen. Er ist bekannt für seinen markanten Fernsehturm und den ältesten Aussichtsturm des Landes.",
@@ -867,9 +843,8 @@ image: "/poi-images/czechrepublic-mount-klet-relief-v2.webp"
     id: "czechrepublic-upper-palatine-forest-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Oberpfälzer Wald", hu: "Cseh-erdő", ro: "Pădurea Boemiei Superioare", en: "Upper Palatine Forest",
-image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"
-},
+    name: { de: "Oberpfälzer Wald", hu: "Cseh-erdő", ro: "Pădurea Boemiei Superioare", en: "Upper Palatine Forest"},
+    image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp",
     coordinates: { lat: 49.6, lng: 12.6 },
     description: {
       de: "Der Oberpfälzer Wald, in Tschechien Český les genannt, erstreckt sich entlang der westlichen Grenze zu Bayern. Er ist ein waldreiches Mittelgebirge mit sanften Bergrücken.",
@@ -902,9 +877,8 @@ image: "/poi-images/czechrepublic-upper-palatine-forest-relief-v2.webp"
     id: "czechrepublic-iron-mountains-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Eisengebirge", hu: "Vas-hegység", ro: "Munții Železné", en: "Iron Mountains",
-image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"
-},
+    name: { de: "Eisengebirge", hu: "Vas-hegység", ro: "Munții Železné", en: "Iron Mountains"},
+    image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp",
     coordinates: { lat: 49.85, lng: 15.6 },
     description: {
       de: "Das Eisengebirge ist ein geologisch vielfältiges Gebirge in Ostböhmen. Die Region ist als nationaler Geopark anerkannt und für ihre tiefen Täler und Stauseen bekannt.",
@@ -937,9 +911,8 @@ image: "/poi-images/czechrepublic-iron-mountains-relief-v2.webp"
     id: "czechrepublic-chriby-mountains-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Marsgebirge", hu: "Chřiby-hegység", ro: "Munții Chřiby", en: "Chřiby Mountains",
-image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"
-},
+    name: { de: "Marsgebirge", hu: "Chřiby-hegység", ro: "Munții Chřiby", en: "Chřiby Mountains"},
+    image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp",
     coordinates: { lat: 49.15, lng: 17.25 },
     description: {
       de: "Die Chřiby sind ein bewaldetes Bergland in Mähren, das für seine Sandsteinfelsen und historischen Denkmäler bekannt ist. Sie bilden den höchsten Teil der Mittelmährischen Karpaten.",
@@ -972,9 +945,8 @@ image: "/poi-images/czechrepublic-chriby-mountains-relief-v2.webp"
     id: "czechrepublic-hostyn-hills-relief-v2",
     parent: "CZ",
     type: "mountain",
-    name: { de: "Hosteiner Berge", hu: "Hostýni-hegyek", ro: "Munții Hostýn", en: "Hostýn Hills",
-image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
-},
+    name: { de: "Hosteiner Berge", hu: "Hostýni-hegyek", ro: "Munții Hostýn", en: "Hostýn Hills"},
+    image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp",
     coordinates: { lat: 49.38, lng: 17.7 },
     description: {
       de: "Die Hostýnské vrchy sind ein malerisches Gebirge im Osten Mährens. Der namensgebende Berg Hostýn ist einer der bedeutendsten Wallfahrtsorte des Landes.",
@@ -1022,6 +994,18 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
       en: ["Max elevation 310 meters", "Length about 65 kilometers", "European watershed", "Ancient trade route"],
     },
     imageHint: "Moravian Gate landscape near Hranice",
+    descriptionAdvanced: {
+      de: "Die Mährische Pforte ist ein bedeutender geografischer Korridor, der historisch als Teil der Bernsteinstraße diente. Diese natürliche Senke verbindet die Nordeuropäische Tiefebene mit dem Donaubecken und trennt die Westkarpaten von den Sudeten. Ihre strategische Bedeutung zeigt sich in den zahlreichen Burgen und Befestigungen, die das Tal säumen. Die Landschaft ist geprägt von den Flüssen Oder und Bečva, deren Wasserscheide hier verläuft. Heute ist die Pforte eine wichtige Verkehrsachse für Autobahnen und Eisenbahnlinien, die Polen mit Österreich und Südeuropa verbinden, und bleibt ein Schlüsselpunkt für den transeuropäischen Handel und Verkehr.",
+      hu: "A Morva-kapu egy természetes átjáró, amely elválasztja a Kárpátokat a Szudétáktól, és összeköti az Odera és a Bečva folyók völgyét. Ez a geológiai süllyedék ősidők óta fontos kereskedelmi és katonai útvonal, része volt a híres Borostyánútnak is, amely a Baltikumot kötötte össze a Földközi-tengerrel. A területen az európai fő vízválasztó is áthalad, ami a Balti-tenger és a Fekete-tenger vízgyűjtőjét választja el. A kapu stratégiai szerepét a környéken található számos várrom és erődítmény is bizonyítja. Napjainkban modern autópályák és vasútvonalak szelik át, fenntartva évezredes szerepét mint Európa egyik közlekedési ütőere.",
+      ro: "Poarta Moraviei este o depresiune joasă care servește drept coridor natural între Munții Sudeți și Carpații Occidentali. Acest pasaj geologic a avut o importanță strategică de-a lungul istoriei, fiind o componentă cheie a Drumului Chihlimbarului, care lega Marea Baltică de Marea Mediterană. Aici se află cumpăna apelor europeană, care separă bazinul hidrografic al Mării Baltice de cel al Mării Negre. Zona este caracterizată de văile râurilor Odra și Bečva. Astăzi, importanța sa este subliniată de prezența unor autostrăzi și căi ferate majore, care conectează Polonia de sudul Europei, menținându-și rolul de axă de transport vitală.",
+      en: "The Moravian Gate is a natural lowland corridor that separates the Carpathian Mountains from the Sudetes, connecting the Oder and Bečva river valleys. This geological depression has been a vital trade and military route since ancient times, forming part of the historic Amber Road linking the Baltic Sea to the Mediterranean. The European watershed also runs through this area, dividing the drainage basins of the Baltic and Black Seas. Its strategic importance is marked by numerous castle ruins. Today, it remains a crucial transport artery, with major highways and railways crossing it, connecting Poland with Southern Europe and sustaining its age-old role as a key European passageway."
+    },
+    factsAdvanced: {
+      de: ["Separates the Carpathians and Sudetes", "Part of the ancient Amber Road", "Contains the European watershed", "Connects Oder and Bečva river valleys", "Strategic corridor since antiquity", "Key route for modern highways", "Lined with historical fortifications", "Maximum elevation is 310 meters"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "czechrepublic-bohemian-moravian-highlands-relief-v2",
@@ -1042,6 +1026,18 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
       en: ["Area 11,750 km²", "Highest peak Devět skal (836 m)", "Granite and gneiss bedrock", "Source region for many rivers"],
     },
     imageHint: "Bohemian-Moravian Highlands rolling hills and fields",
+    descriptionAdvanced: {
+      de: "Die Böhmisch-Mährische Höhe ist ein ausgedehntes und sanft gewelltes Hochland, das die historische Grenze zwischen Böhmen und Mähren bildet. Mit einer Fläche von über 11.000 Quadratkilometern ist es eines der größten Gebirgsmassive Tschechiens. Die Landschaft ist geprägt von einem Mosaik aus Wäldern, Wiesen und Feldern, durchzogen von zahlreichen kleinen Flüssen und Teichen. Geologisch besteht sie hauptsächlich aus alten, kristallinen Gesteinen wie Granit und Gneis. Die höchsten Erhebungen, wie der Devět skal (Neun Felsen), sind beliebte Ziele für Wanderer und bieten weite Ausblicke über die ruhige und dünn besiedelte Region, die oft als das „grüne Herz“ Tschechiens bezeichnet wird.",
+      hu: "A Cseh–Morva-dombság egy kiterjedt, lankás felföld, amely Csehország és Morvaország történelmi határán terül el. Több mint 11 000 négyzetkilométeres területével Csehország egyik legnagyobb hegyvidéki egysége. A tájat erdők, rétek és szántóföldek mozaikja alkotja, amelyet számos kisebb folyó és tó szel át. Geológiai alapját ősi kristályos kőzetek, például gránit és gneisz képezik. Legmagasabb csúcsai, mint a Devět skal (Kilenc szikla), kedvelt túracélpontok, ahonnan gyönyörű kilátás nyílik a csendes és ritkán lakott vidékre. Gyakran emlegetik Csehország „zöld szíveként” is, mivel fontos vízválasztó és forrásvidék.",
+      ro: "Podișul Boemo-Morav este o regiune montană vastă și ondulată, care formează granița istorică dintre Boemia și Moravia. Cu o suprafață de peste 11.000 de kilometri pătrați, este unul dintre cele mai mari masive din Republica Cehă. Peisajul este un mozaic de păduri, pajiști și terenuri agricole, traversat de numeroase râuri și iazuri. Din punct de vedere geologic, este compus în principal din roci cristaline vechi, precum granit și gnais. Cele mai înalte vârfuri, cum ar fi Devět skal (Nouă Stânci), sunt destinații populare pentru drumeții, oferind panorame largi asupra acestei regiuni liniștite și slab populate, adesea numită „inima verde” a Cehiei.",
+      en: "The Bohemian-Moravian Highlands are a vast and gently rolling upland area that forms the historical border between Bohemia and Moravia. Covering over 11,000 square kilometers, it is one of the largest mountain massifs in the Czech Republic. The landscape is a mosaic of forests, meadows, and fields, interspersed with numerous small rivers and ponds. Geologically, it consists mainly of ancient crystalline rocks such as granite and gneiss. Its highest peaks, like Devět skal (Nine Rocks), are popular hiking destinations offering wide views over the quiet and sparsely populated region. It is often referred to as the 'green heart' of the Czech Republic, serving as a significant watershed."
+    },
+    factsAdvanced: {
+      de: ["Area of over 11,750 km²", "Forms the border of Bohemia and Moravia", "Highest peak is Devět skal (836 m)", "Composed of granite and gneiss", "Source of many rivers like Sázava and Jihlava", "Known as the 'Green Heart of Czechia'", "Sparsely populated region", "Features thousands of ponds"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "czechrepublic-broumov-highlands-relief-v2",
@@ -1062,6 +1058,18 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
       en: ["Part of the Sudetes system", "Sandstone plateaus", "Volcanic Javoří Mountains", "Border with Poland"],
     },
     imageHint: "Broumov Highlands sandstone rock towers",
+    descriptionAdvanced: {
+      de: "Das Braunauer Bergland ist eine bemerkenswerte Landschaft im Nordosten Böhmens, die für ihre beeindruckenden Sandstein-Felsstädte bekannt ist. Die Adersbach-Weckelsdorfer Felsenstadt und die Braunauer Wände bilden ein Labyrinth aus tiefen Schluchten, hoch aufragenden Türmen und bizarren Felsformationen. Dieses Gebiet ist Teil der Mittelsudeten und grenzt an Polen. Neben den Sandsteinplateaus gibt es auch vulkanische Formationen, wie das Javoří-Gebirge, die der Landschaft weitere Vielfalt verleihen. Die Region ist ein geschütztes Landschaftsgebiet und ein Paradies für Kletterer, Wanderer und Naturliebhaber, das durch seine einzigartige Geologie und unberührte Natur besticht. Das barocke Kloster in Broumov ist das kulturelle Zentrum der Region.",
+      hu: "A Broumovi-felföld egy lenyűgöző tájegység Északkelet-Csehországban, amely elsősorban homokkő sziklavárosairól híres. Az Adršpach-Teplicei sziklák és a Broumovi-falak mély szurdokokból, magasba nyúló tornyokból és különleges sziklaalakzatokból álló labirintust alkotnak. A terület a Középső-Szudéták része és Lengyelországgal határos. A homokkő fennsíkok mellett vulkanikus képződmények, mint például a Javoří-hegység is színesítik a tájat. A régió védett tájvédelmi körzet, a hegymászók, túrázók és természetkedvelők paradicsoma, amely egyedülálló geológiájával és érintetlen természetével vonzza a látogatókat. A broumovi barokk kolostor a vidék kulturális központja.",
+      ro: "Podișul Broumov este o regiune remarcabilă în nord-estul Boemiei, renumită pentru impresionantele sale orașe de piatră din gresie. Stâncile Adršpach-Teplice și Zidurile Broumov formează un labirint de chei adânci, turnuri înalte și formațiuni stâncoase bizare. Această zonă face parte din Sudeții Centrali și se învecinează cu Polonia. Pe lângă platourile de gresie, există și formațiuni vulcanice, precum Munții Javoří, care adaugă diversitate peisajului. Regiunea este o arie peisagistică protejată și un paradis pentru alpiniști, drumeți și iubitorii de natură, captivând prin geologia sa unică și natura sa neatinsă. Mănăstirea barocă din Broumov este centrul cultural al zonei.",
+      en: "The Broumov Highlands is a remarkable landscape in northeastern Bohemia, famous for its impressive sandstone rock cities. The Adršpach-Teplice Rocks and the Broumov Walls form a labyrinth of deep gorges, soaring towers, and bizarre rock formations. This area is part of the Central Sudetes and borders Poland. In addition to the sandstone plateaus, there are also volcanic formations, such as the Javoří Mountains, which add further diversity to the landscape. The region is a protected landscape area and a paradise for climbers, hikers, and nature lovers, captivating with its unique geology and untouched nature. The Baroque monastery in Broumov serves as the cultural heart of the region."
+    },
+    factsAdvanced: {
+      de: ["Home to Adršpach-Teplice Rocks", "Features Broumov Walls rock formations", "Part of the Central Sudetes range", "Borders with Poland", "Protected Landscape Area (CHKO Broumovsko)", "Includes the volcanic Javoří Mountains", "Cultural center is the Broumov Monastery", "A popular destination for rock climbing"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "czechrepublic-upper-morava-valley-relief-v2",
@@ -1082,6 +1090,18 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
       en: ["Tectonic origin", "Elevation 190-250 meters", "Extremely fertile loess soils", "Central Moravian location"],
     },
     imageHint: "Upper Morava Valley fertile plains and river",
+    descriptionAdvanced: {
+      de: "Die Obermährische Senke ist eine ausgedehnte und fruchtbare Ebene in Zentralmähren, die entlang des Flusses March (Morava) verläuft. Sie ist besser bekannt als die Region Haná (oder Hanna), die als Kornkammer der Tschechischen Republik gilt. Die Landschaft ist flach bis sanft hügelig und wird von fruchtbaren Lössböden dominiert, die intensive Landwirtschaft ermöglichen. Historisch gesehen ist die Haná-Region reich an Kultur und Traditionen, mit eigenen Dialekten, Trachten und Volksfesten. Wichtige Städte wie Olmütz (Olomouc) und Kremsier (Kroměříž) liegen in diesem Tal und zeugen von seiner historischen Bedeutung und seinem kulturellen Reichtum. Die Senke ist ein Kernland der mährischen Geschichte und Identität.",
+      hu: "A Felső-Morva-völgy egy kiterjedt és termékeny síkság Közép-Morvaországban, amely a Morva folyó mentén húzódik. Ismertebb nevén Haná (vagy Hanna) régió, amelyet Csehország magtárának is neveznek. A táj sík vagy enyhén dombos, és a termékeny lösz talajok uralják, amelyek intenzív mezőgazdaságot tesznek lehetővé. A Haná régió történelmileg gazdag kultúrával és hagyományokkal rendelkezik, saját nyelvjárással, népviselettel és népi fesztiválokkal. Olyan fontos városok, mint Olomouc és Kroměříž fekszenek a völgyben, tanúsítva annak történelmi jelentőségét és kulturális gazdagságát. A völgy a morva történelem és identitás egyik központi területe.",
+      ro: "Depresiunea Moravei Superioare este o câmpie extinsă și fertilă în Moravia Centrală, care se întinde de-a lungul râului Morava. Este mai bine cunoscută sub numele de regiunea Haná (sau Hanna), considerată grânarul Republicii Cehe. Peisajul este plat sau ușor deluros și este dominat de soluri fertile de loess, care permit o agricultură intensivă. Din punct de vedere istoric, regiunea Haná este bogată în cultură și tradiții, cu dialecte, costume populare și festivaluri proprii. Orașe importante precum Olomouc și Kroměříž sunt situate în această vale, mărturisind importanța sa istorică și bogăția culturală. Depresiunea este o zonă centrală a istoriei și identității morave.",
+      en: "The Upper Morava Valley is an extensive and fertile plain in Central Moravia, running along the Morava River. It is better known as the Haná (or Hanna) region, considered the granary of the Czech Republic. The landscape is flat to gently rolling and is dominated by fertile loess soils, which allow for intensive agriculture. Historically, the Haná region is rich in culture and traditions, with its own dialects, folk costumes, and festivals. Important cities such as Olomouc and Kroměříž are located in this valley, testifying to its historical importance and cultural wealth. The valley is a core area of Moravian history and identity."
+    },
+    factsAdvanced: {
+      de: ["Also known as the Haná region", "Considered the 'granary' of Czechia", "Follows the course of the Morava River", "Characterized by fertile loess soils", "Center of unique folklore and dialects", "Home to the UNESCO city of Olomouc", "Location of the historic city Kroměříž", "Average elevation around 200-250 meters"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "czechrepublic-trebon-basin-relief-v2",
@@ -1102,6 +1122,18 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
       en: ["Area approx 1,360 km²", "Elevation around 420 meters", "Axis of the Lužnice river", "Center of Czech pond farming"],
     },
     imageHint: "Třeboň Basin landscape with fishponds",
+    descriptionAdvanced: {
+      de: "Das Wittingauer Becken ist eine flache Landschaft in Südböhmen, die für ihr einzigartiges System von Fischteichen bekannt ist, das seit dem Mittelalter besteht. Mit einer Fläche von rund 1.360 Quadratkilometern ist es ein Mosaik aus Wasserflächen, Feuchtwiesen, Wäldern und Mooren. Das Gebiet wurde von der UNESCO als Biosphärenreservat ausgewiesen, um seine harmonische, vom Menschen geschaffene Landschaft zu schützen. Der Fluss Lužnice (Lainsitz) durchfließt das Becken. Die Teiche, wie der Rožmberk-Teich – der größte in Tschechien –, sind nicht nur für die Karpfenzucht von Bedeutung, sondern auch wichtige Lebensräume für Wasservögel und seltene Pflanzen. Die Region ist ein beliebtes Ziel für Radfahrer und Naturliebhaber.",
+      hu: "A Třeboni-medence egy sík vidék Dél-Csehországban, amely a középkor óta létező, egyedülálló halastórendszeréről ismert. Mintegy 1360 négyzetkilométeres területe vízfelületek, nedves rétek, erdők és lápok mozaikja. A területet az UNESCO bioszféra-rezervátummá nyilvánította, hogy megvédje ezt a harmonikus, ember által alkotott tájat. A Lužnice folyó szeli át a medencét. A tavak, mint például a Rožmberk-tó – Csehország legnagyobb tava –, nemcsak a pontytenyésztés szempontjából fontosak, hanem a vízimadarak és ritka növények fontos élőhelyei is. A régió kedvelt célpontja a kerékpárosoknak és a természetbarátoknak.",
+      ro: "Depresiunea Třeboň este un peisaj plat în Boemia de Sud, renumit pentru sistemul său unic de iazuri piscicole, care datează din Evul Mediu. Cu o suprafață de aproximativ 1.360 de kilometri pătrați, este un mozaic de întinderi de apă, pajiști umede, păduri și mlaștini. Zona a fost desemnată de UNESCO drept rezervație a biosferei pentru a proteja peisajul său armonios, creat de om. Râul Lužnice traversează depresiunea. Iazurile, precum iazul Rožmberk – cel mai mare din Cehia – nu sunt importante doar pentru creșterea crapului, ci și habitate vitale pentru păsările acvatice și plante rare. Regiunea este o destinație populară pentru cicliști și iubitorii de natură.",
+      en: "The Třeboň Basin is a flat landscape in South Bohemia, renowned for its unique system of fishponds dating back to the Middle Ages. Covering an area of around 1,360 square kilometers, it is a mosaic of water bodies, wet meadows, forests, and peat bogs. The area has been designated a UNESCO Biosphere Reserve to protect its harmonious man-made landscape. The Lužnice River flows through the basin. The ponds, such as the Rožmberk Pond – the largest in the Czech Republic – are not only important for carp farming but are also vital habitats for waterfowl and rare plants. The region is a popular destination for cyclists and nature lovers."
+    },
+    factsAdvanced: {
+      de: ["UNESCO Biosphere Reserve since 1977", "Center of Czech freshwater fish farming", "Features Rožmberk, the largest pond in Czechia", "Landscape shaped by humans since the Middle Ages", "Characterized by thousands of ponds", "The Lužnice river is the main water axis", "Important bird and wetland habitat", "Area is approximately 1,360 km²"],
+      hu: [],
+      ro: [],
+      en: []
+    }
   },
   {
     id: "czechrepublic-low-jesenik-relief-v2",
@@ -1122,5 +1154,50 @@ image: "/poi-images/czechrepublic-hostyn-hills-relief-v2.webp"
       en: ["Elevation 400-600 meters", "Highest peak Slunečná (800 m)", "Shale and greywacke rocks", "Extinct volcano Velký Roudný"],
     },
     imageHint: "Low Jeseník extinct volcano Velky Roudny",
+    descriptionAdvanced: {
+      de: "Das Niedere Gesenke ist ein ausgedehntes Hochplateau, das den östlichsten Ausläufer der Sudeten bildet. Im Gegensatz zum Hohen Gesenke ist es flacher und sanfter gewellt, mit einer durchschnittlichen Höhe von 400 bis 600 Metern. Eine geologische Besonderheit sind die Überreste mehrerer erloschener Vulkane aus dem Quartär, wie der Velký Roudný, der heute als Naturdenkmal geschützt ist. Die Landschaft ist geprägt von tiefen Wäldern, landwirtschaftlichen Flächen und dem Slezská Harta-Stausee. Die Region ist reich an Schiefervorkommen, die historisch abgebaut wurden und heute in Museen wie in Budišov nad Budičovkou dokumentiert sind.",
+      hu: "Az Alacsony-Jeseník egy kiterjedt, dombos fennsík, amely a Szudéták legkeletibb nyúlványát képezi. A Magas-Jeseníkkel ellentétben lankásabb és alacsonyabb, átlagos magassága 400-600 méter. Geológiai különlegessége a negyedkori, kialudt vulkánok maradványa, mint például a Velký Roudný, amely ma természetvédelmi emlékhely. A tájat mély erdők, mezőgazdasági területek és a Slezská Harta víztározó jellemzi. A régió gazdag pala lelőhelyekben, amelyeket történelmileg bányásztak, és ma olyan múzeumokban mutatnak be, mint a Budišov nad Budičovkou-i. A terület a cseh palaipar központja volt.",
+      ro: "Jeseník de Jos este un platou extins care formează extremitatea estică a munților Sudeți. Spre deosebire de Jeseník de Sus, este mai plat și mai puțin accidentat, cu o altitudine medie de 400-600 de metri. O caracteristică geologică specială o reprezintă rămășițele mai multor vulcani stinși din cuaternar, precum Velký Roudný, care este astăzi protejat ca monument natural. Peisajul este definit de păduri adânci, terenuri agricole și lacul de acumulare Slezská Harta. Regiunea este bogată în zăcăminte de ardezie, care au fost exploatate istoric și sunt acum documentate în muzee precum cel din Budišov nad Budičovkou.",
+      en: "The Low Jeseník is an extensive highland plateau that forms the easternmost part of the Sudetes mountain range. In contrast to the High Jeseník, it is flatter and more gently undulating, with an average elevation of 400 to 600 meters. A special geological feature is the presence of several extinct Quaternary volcanoes, such as Velký Roudný, which is now a protected natural monument. The landscape is characterized by deep forests, agricultural land, and the Slezská Harta Reservoir. The region is rich in slate deposits, which were historically mined and are now documented in museums like the one in Budišov nad Budičovkou, showcasing the area's industrial heritage."
+    },
+    factsAdvanced: {
+      de: ["Easternmost part of the Sudetes", "Average elevation of 400-600 m", "Features extinct volcanoes like Velký Roudný", "Home to the large Slezská Harta Reservoir", "Historically significant for slate mining", "Highest peak is Slunečná (800 m)", "Geologically part of the Bohemian Massif", "The Oder river originates here"],
+      hu: [],
+      ro: [],
+      en: []
+    }
+  }
+,
+  {
+    id: "czechrepublic-dyje-svratka-basin-relief-v2",
+    type: "valley",
+    parent: "CZ",
+    name: { de: "Thaya-Schwarza-Becken", hu: "Thaya-Svratka-medence", ro: "Bazinul Dyje-Svratka", en: "Dyje-Svratka Basin" },
+    coordinates: { lat: 48.9833, lng: 16.6333 },
+    description: {
+      de: "Das Thaya-Schwarza-Becken ist eine geomorphologische Region im südlichen Mähren. Es zeichnet sich durch flaches Gelände und fruchtbare Böden aus.",
+      hu: "A Thaya-Svratka-medence egy geomorfológiai régió Dél-Morvaországban. Sík terep és termékeny talaj jellemzi.",
+      ro: "Bazinul Dyje-Svratka este o regiune geomorfologică în sudul Moraviei. Se caracterizează printr-un teren plat și soluri fertile.",
+      en: "The Dyje-Svratka Basin is a geomorphological region in southern Moravia. It is characterized by flat terrain and fertile soil.",
+    },
+    facts: {
+      de: ["Gehört zum Äußeren Wiener Becken.", "Wichtige landwirtschaftliche Region in Mähren.", "Das Becken wird von den Flüssen Dyje und Svratka entwässert.", "Höhe variiert zwischen 170 und 300 Metern."],
+      hu: ["A külső Bécsi-medence része.", "Fontos mezőgazdasági régió Morvaországban.", "A medencét a Dyje és a Svratka folyók vizezi.", "A magasság 170 és 300 méter között mozog."],
+      ro: ["Face parte din Bazinul Vienei Exterioare.", "Regiune agricolă importantă din Moravia.", "Bazinul este drenat de râurile Dyje și Svratka.", "Altitudinea variază între 170 și 300 de metri."],
+      en: ["Part of the Outer Vienna Basin.", "Important agricultural region in Moravia.", "The basin is drained by the Dyje and Svratka rivers.", "Elevation varies between 170 and 300 meters."],
+    },
+    imageHint: "South Moravian landscape farmland",
+    descriptionAdvanced: {
+      de: "Das Dyje-Svratka-Becken ist eine geomorphologische Einheit in Südmähren, Tschechien. Es erstreckt sich über eine Fläche von etwa 2500 Quadratkilometern. Die Landschaft ist geprägt von flachen Tälern der Flüsse Dyje und Svratka sowie von Auenwäldern und Teichen. Das Becken entstand im Tertiär und wurde später durch Flusssedimente aufgefüllt. Es ist eine wichtige landwirtschaftliche Region mit intensivem Ackerbau. Das Gebiet ist auch für seine Weine bekannt. Die tiefste Stelle des Beckens liegt rund 200 Meter über dem Meeresspiegel.",
+      hu: "A Dyje-Svratka-medence geomorfológiai egység Dél-Morvaországban, Csehországban. Területe körülbelül 2500 négyzetkilométer. Táját a Dyje és a Svratka folyók lapos völgyei, ártéri erdők és tavak jellemzik. A medence a harmadidőszakban keletkezett, később folyami üledékekkel töltődött fel. Fontos mezőgazdasági régió, intenzív szántóföldi műveléssel. A terület borairól is híres. Legmélyebb pontja körülbelül 200 méterrel van a tengerszint felett.",
+      ro: "Bazinul Dyje-Svratka este o unitate geomorfologică în Moravia de Sud, Cehia. Se întinde pe o suprafață de aproximativ 2500 de kilometri pătrați. Peisajul este caracterizat de văi plate ale râurilor Dyje și Svratka, păduri de luncă și iazuri. Bazinul s-a format în Terțiar și a fost ulterior umplut cu sedimente fluviale. Este o regiune agricolă importantă, cu culturi intensive. Zona este cunoscută și pentru vinurile sale. Cel mai jos punct se află la aproximativ 200 de metri deasupra nivelului mării.",
+      en: "The Dyje-Svratka Basin is a geomorphological unit in South Moravia, Czech Republic. It covers an area of about 2500 square kilometers. The landscape features flat valleys of the Dyje and Svratka rivers, floodplain forests, and ponds. The basin formed during the Tertiary period and was later filled with fluvial sediments. It is an important agricultural region with intensive crop farming. The area is also known for its wines. The lowest point is around 200 meters above sea level.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 2500 km²", "Höchster Punkt: 400 m ü. M.", "Tiefster Punkt: 200 m ü. M.", "Entstehung: Tertiär", "Länge der Dyje im Becken: 120 km", "Länge der Svratka im Becken: 100 km"],
+      hu: ["Terület: 2500 km²", "Legmagasabb pont: 400 m tszf.", "Legmélyebb pont: 200 m tszf.", "Kialakulás: harmadidőszak", "A Dyje hossza a medencében: 120 km", "A Svratka hossza a medencében: 100 km"],
+      ro: ["Suprafață: 2500 km²", "Cel mai înalt punct: 400 m deasupra n.m.", "Cel mai jos punct: 200 m deasupra n.m.", "Formare: Terțiar", "Lungimea râului Dyje în bazin: 120 km", "Lungimea râului Svratka în bazin: 100 km"],
+      en: ["Area: 2500 km²", "Highest point: 400 m above sea level", "Lowest point: 200 m above sea level", "Formation: Tertiary period", "Length of Dyje in basin: 120 km", "Length of Svratka in basin: 100 km"],
+    },
   }
 ];

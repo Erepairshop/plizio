@@ -6,9 +6,8 @@ export const poiExtraSrilankaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "LK-1",
     coords: [79.8612, 6.9271],
-    name: { de: "Colombo", hu: "Colombo", ro: "Colombo", en: "Colombo",
-image: "/poi-images/colombo-cities-v2.webp"
-},
+    name: { de: "Colombo", hu: "Colombo", ro: "Colombo", en: "Colombo"},
+    image: "/poi-images/colombo-cities-v2.webp",
     description: {
       de: "Colombo ist die kommerzielle Hauptstadt und größte Stadt Sri Lankas, ein lebhaftes Zentrum für Kultur und Handel am Indischen Ozean.",
       hu: "Colombo Srí Lanka kereskedelmi fővárosa és legnagyobb városa, nyüzsgő kulturális és kereskedelmi központ az Indiai-óceán partján.",
@@ -61,9 +60,8 @@ image: "/poi-images/colombo-cities-v2.webp"
     type: "state-capital",
     parent: "LK-2",
     coords: [80.6366, 7.2906],
-    name: { de: "Kandy", hu: "Kandy", ro: "Kandy", en: "Kandy",
-image: "/poi-images/kandy-cities-v2.webp"
-},
+    name: { de: "Kandy", hu: "Kandy", ro: "Kandy", en: "Kandy"},
+    image: "/poi-images/kandy-cities-v2.webp",
     description: {
       de: "Kandy, tief in den üppigen Hügeln Zentral-Sri Lankas gelegen, ist berühmt für den Zahntempel und seine buddhistische Tradition.",
       hu: "Kandy Srí Lanka középső részének buja dombjai között fekszik, és a Szent Fog Templomáról, valamint buddhista hagyományairól híres.",
@@ -116,9 +114,8 @@ image: "/poi-images/kandy-cities-v2.webp"
     type: "state-capital",
     parent: "LK-3",
     coords: [80.2170, 6.0328],
-    name: { de: "Galle", hu: "Galle", ro: "Galle", en: "Galle",
-image: "/poi-images/galle-cities-v2.webp"
-},
+    name: { de: "Galle", hu: "Galle", ro: "Galle", en: "Galle"},
+    image: "/poi-images/galle-cities-v2.webp",
     description: {
       de: "Galle ist eine historische Hafenstadt an der Südwestküste, bekannt für ihr gut erhaltenes niederländisches Fort aus dem 17. Jahrhundert.",
       hu: "Galle egy történelmi kikötőváros a délnyugati parton, amely kiválóan megőrzött 17. századi holland erődjéről ismert.",
@@ -171,9 +168,8 @@ image: "/poi-images/galle-cities-v2.webp"
     type: "state-capital",
     parent: "LK-4",
     coords: [80.0255, 9.6615],
-    name: { de: "Jaffna", hu: "Jaffna", ro: "Jaffna", en: "Jaffna",
-image: "/poi-images/jaffna-cities-v2.webp"
-},
+    name: { de: "Jaffna", hu: "Jaffna", ro: "Jaffna", en: "Jaffna"},
+    image: "/poi-images/jaffna-cities-v2.webp",
     description: {
       de: "Jaffna liegt auf einer Halbinsel im Norden Sri Lankas und ist das kulturelle Zentrum der tamilischen Bevölkerung der Insel.",
       hu: "Jaffna Srí Lanka északi részén, egy félszigeten fekszik, és a sziget tamil lakosságának kulturális központja.",
@@ -226,9 +222,8 @@ image: "/poi-images/jaffna-cities-v2.webp"
     type: "state-capital",
     parent: "LK-5",
     coords: [81.2335, 8.5874],
-    name: { de: "Trincomalee", hu: "Trincomalee", ro: "Trincomalee", en: "Trincomalee",
-image: "/poi-images/trincomalee-cities-v2.webp"
-},
+    name: { de: "Trincomalee", hu: "Trincomalee", ro: "Trincomalee", en: "Trincomalee"},
+    image: "/poi-images/trincomalee-cities-v2.webp",
     description: {
       de: "Trincomalee ist eine große Hafenstadt an der Ostküste Sri Lankas und verfügt über einen der weltbesten natürlichen Tiefwasserhäfen.",
       hu: "Trincomalee egy nagy kikötőváros Srí Lanka keleti partján, amely a világ egyik legjobb természetes mélyvízi kikötőjével rendelkezik.",
@@ -281,9 +276,8 @@ image: "/poi-images/trincomalee-cities-v2.webp"
     type: "state-capital",
     parent: "LK-6",
     coords: [80.3667, 7.4833],
-    name: { de: "Kurunegala", hu: "Kurunegala", ro: "Kurunegala", en: "Kurunegala",
-image: "/poi-images/kurunegala-cities-v2.webp"
-},
+    name: { de: "Kurunegala", hu: "Kurunegala", ro: "Kurunegala", en: "Kurunegala"},
+    image: "/poi-images/kurunegala-cities-v2.webp",
     description: {
       de: "Kurunegala ist ein wichtiger Verkehrsknotenpunkt, umgeben von riesigen, tierförmigen Felsformationen in der Nordwestprovinz.",
       hu: "Kurunegala fontos közlekedési csomópont, amelyet hatalmas, állat alakú sziklaformációk vesznek körül az Északnyugati Tartományban.",
@@ -336,9 +330,8 @@ image: "/poi-images/kurunegala-cities-v2.webp"
     type: "state-capital",
     parent: "LK-7",
     coords: [80.4167, 8.3333],
-    name: { de: "Anuradhapura", hu: "Anuradhapura", ro: "Anuradhapura", en: "Anuradhapura",
-image: "/poi-images/anuradhapura-cities-v2.webp"
-},
+    name: { de: "Anuradhapura", hu: "Anuradhapura", ro: "Anuradhapura", en: "Anuradhapura"},
+    image: "/poi-images/anuradhapura-cities-v2.webp",
     description: {
       de: "Anuradhapura ist eine der alten Hauptstädte Sri Lankas und berühmt für die gut erhaltenen Ruinen einer antiken singhalesischen Zivilisation.",
       hu: "Anuradhapura Srí Lanka egyik ősi fővárosa, amely az ókori szingaléz civilizáció kiválóan megőrzött romjairól híres.",
@@ -391,9 +384,8 @@ image: "/poi-images/anuradhapura-cities-v2.webp"
     type: "state-capital",
     parent: "LK-8",
     coords: [81.0500, 6.9833],
-    name: { de: "Badulla", hu: "Badulla", ro: "Badulla", en: "Badulla",
-image: "/poi-images/badulla-cities-v2.webp"
-},
+    name: { de: "Badulla", hu: "Badulla", ro: "Badulla", en: "Badulla"},
+    image: "/poi-images/badulla-cities-v2.webp",
     description: {
       de: "Badulla liegt in einem malerischen Tal in der Uva-Provinz und ist von nebelverhangenen Bergen und Teeblättern umgeben.",
       hu: "Badulla egy festői völgyben fekszik az Uva tartományban, ködös hegyekkel és teaültetvényekkel körülvéve.",
@@ -446,9 +438,8 @@ image: "/poi-images/badulla-cities-v2.webp"
     type: "state-capital",
     parent: "LK-9",
     coords: [80.4000, 6.6833],
-    name: { de: "Ratnapura", hu: "Ratnapura", ro: "Ratnapura", en: "Ratnapura",
-image: "/poi-images/ratnapura-cities-v2.webp"
-},
+    name: { de: "Ratnapura", hu: "Ratnapura", ro: "Ratnapura", en: "Ratnapura"},
+    image: "/poi-images/ratnapura-cities-v2.webp",
     description: {
       de: "Ratnapura, wörtlich 'Stadt der Edelsteine', ist das Zentrum der traditionellen srilankischen Edelsteinindustrie.",
       hu: "Ratnapura, szó szerint a 'Drágakövek városa', a hagyományos srí lankai drágakőbányászat és -kereskedelem központja.",
@@ -501,9 +492,8 @@ image: "/poi-images/ratnapura-cities-v2.webp"
     type: "city",
     parent: "LK-1",
     coords: [79.8712, 6.8415],
-    name: { de: "Dehiwala-Mount Lavinia", hu: "Dehiwala-Mount Lavinia", ro: "Dehiwala-Mount Lavinia", en: "Dehiwala-Mount Lavinia",
-image: "/poi-images/dehiwala-mount-lavinia-cities-v2.webp"
-},
+    name: { de: "Dehiwala-Mount Lavinia", hu: "Dehiwala-Mount Lavinia", ro: "Dehiwala-Mount Lavinia", en: "Dehiwala-Mount Lavinia"},
+    image: "/poi-images/dehiwala-mount-lavinia-cities-v2.webp",
     description: {
       de: "Dehiwala-Mount Lavinia liegt unmittelbar südlich von Colombo und ist bekannt für seine Strände und den großen zoologischen Garten.",
       hu: "A Colombótól közvetlenül délre fekvő Dehiwala-Mount Lavinia strandjairól és a nagy állatkertjéről ismert.",
@@ -556,9 +546,8 @@ image: "/poi-images/dehiwala-mount-lavinia-cities-v2.webp"
     type: "city",
     parent: "LK-1",
     coords: [79.8805, 6.7730],
-    name: { de: "Moratuwa", hu: "Moratuwa", ro: "Moratuwa", en: "Moratuwa",
-image: "/poi-images/moratuwa-cities-v2.webp"
-},
+    name: { de: "Moratuwa", hu: "Moratuwa", ro: "Moratuwa", en: "Moratuwa"},
+    image: "/poi-images/moratuwa-cities-v2.webp",
     description: {
       de: "Moratuwa ist ein großer Vorort von Colombo, der auf drei Seiten von Wasser umgeben ist und für seine Möbelindustrie bekannt ist.",
       hu: "Moratuwa Colombo egy nagy elővárosa, amelyet három oldalról víz vesz körül, és bútoriparáról ismert.",
@@ -611,9 +600,8 @@ image: "/poi-images/moratuwa-cities-v2.webp"
     type: "city",
     parent: "LK-1",
     coords: [79.9075, 6.8984],
-    name: { de: "Sri Jayawardenepura Kotte", hu: "Sri Jayawardenepura Kotte", ro: "Sri Jayawardenepura Kotte", en: "Sri Jayawardenepura Kotte",
-image: "/poi-images/sri-jayawardenepura-kotte-cities-v2.webp"
-},
+    name: { de: "Sri Jayawardenepura Kotte", hu: "Sri Jayawardenepura Kotte", ro: "Sri Jayawardenepura Kotte", en: "Sri Jayawardenepura Kotte"},
+    image: "/poi-images/sri-jayawardenepura-kotte-cities-v2.webp",
     description: {
       de: "Sri Jayawardenepura Kotte ist die administrative Hauptstadt Sri Lankas und liegt im östlichen Vorortgebiet von Colombo.",
       hu: "Sri Jayawardenepura Kotte Srí Lanka adminisztratív fővárosa, amely Colombo keleti elővárosi részén található.",
@@ -666,9 +654,8 @@ image: "/poi-images/sri-jayawardenepura-kotte-cities-v2.webp"
     type: "city",
     parent: "LK-1",
     coords: [79.8358, 7.2081],
-    name: { de: "Negombo", hu: "Negombo", ro: "Negombo", en: "Negombo",
-image: "/poi-images/negombo-cities-v2.webp"
-},
+    name: { de: "Negombo", hu: "Negombo", ro: "Negombo", en: "Negombo"},
+    image: "/poi-images/negombo-cities-v2.webp",
     description: {
       de: "Negombo ist eine große Stadt an der Westküste, berühmt für ihren alten Fischmarkt und ihre historische Kanalanlage.",
       hu: "Negombo egy nagy város a nyugati parton, amely a régi halpiacáról és a történelmi csatornarendszeréről híres.",
@@ -721,9 +708,8 @@ image: "/poi-images/negombo-cities-v2.webp"
     type: "city",
     parent: "LK-5",
     coords: [81.6924, 7.7102],
-    name: { de: "Batticaloa", hu: "Batticaloa", ro: "Batticaloa", en: "Batticaloa",
-image: "/poi-images/batticaloa-cities-v2.webp"
-},
+    name: { de: "Batticaloa", hu: "Batticaloa", ro: "Batticaloa", en: "Batticaloa"},
+    image: "/poi-images/batticaloa-cities-v2.webp",
     description: {
       de: "Batticaloa ist eine wichtige Stadt an der Ostküste, umgeben von einem riesigen Lagunensystem und bekannt für 'singende Fische'.",
       hu: "Batticaloa egy fontos város a keleti parton, amelyet hatalmas lagúnarendszer vesz körül, és híres a 'éneklő halairól'.",
@@ -776,9 +762,8 @@ image: "/poi-images/batticaloa-cities-v2.webp"
     type: "city",
     parent: "LK-1",
     coords: [79.9996, 7.0911],
-    name: { de: "Gampaha", hu: "Gampaha", ro: "Gampaha", en: "Gampaha",
-image: "/poi-images/gampaha-cities-v2.webp"
-},
+    name: { de: "Gampaha", hu: "Gampaha", ro: "Gampaha", en: "Gampaha"},
+    image: "/poi-images/gampaha-cities-v2.webp",
     description: {
       de: "Gampaha ist eine wachsende städtische Region und Verwaltungshauptstadt des gleichnamigen Distrikts im Westen Sri Lankas.",
       hu: "Gampaha egy növekvő városi régió és az azonos nevű körzet közigazgatási központja Srí Lanka nyugati részén.",
@@ -831,9 +816,8 @@ image: "/poi-images/gampaha-cities-v2.webp"
     type: "city",
     parent: "LK-3",
     coords: [80.5483, 5.9483],
-    name: { de: "Matara", hu: "Matara", ro: "Matara", en: "Matara",
-image: "/poi-images/matara-cities-v2.webp"
-},
+    name: { de: "Matara", hu: "Matara", ro: "Matara", en: "Matara"},
+    image: "/poi-images/matara-cities-v2.webp",
     description: {
       de: "Matara ist eine wichtige Handelsstadt an der Südküste Sri Lankas, reich an kolonialer Geschichte und vom Nilwala-Fluss durchquert.",
       hu: "Matara egy fontos kereskedelmi város Srí Lanka déli partján, amely gazdag gyarmati történelemmel rendelkezik és a Nilwala-folyó szeli ketté.",
@@ -886,9 +870,8 @@ image: "/poi-images/matara-cities-v2.webp"
     type: "city",
     parent: "LK-2",
     coords: [80.7829, 6.9497],
-    name: { de: "Nuwara Eliya", hu: "Nuwara Eliya", ro: "Nuwara Eliya", en: "Nuwara Eliya",
-image: "/poi-images/nuwara-eliya-cities-v2.webp"
-},
+    name: { de: "Nuwara Eliya", hu: "Nuwara Eliya", ro: "Nuwara Eliya", en: "Nuwara Eliya"},
+    image: "/poi-images/nuwara-eliya-cities-v2.webp",
     description: {
       de: "Nuwara Eliya, oft 'Klein-England' genannt, ist eine Stadt im Hochland mit kühlem Klima, bekannt für den Teeanbau und koloniale Architektur.",
       hu: "Nuwara Eliya, amelyet gyakran 'Kis-Angliának' hívnak, egy hegyvidéki város hűvös éghajlattal, amely a teatermesztésről és gyarmati építészetéről ismert.",
@@ -941,9 +924,8 @@ image: "/poi-images/nuwara-eliya-cities-v2.webp"
     type: "city",
     parent: "LK-1",
     coords: [79.9607, 6.5854],
-    name: { de: "Kalutara", hu: "Kalutara", ro: "Kalutara", en: "Kalutara",
-image: "/poi-images/kalutara-cities-v2.webp"
-},
+    name: { de: "Kalutara", hu: "Kalutara", ro: "Kalutara", en: "Kalutara"},
+    image: "/poi-images/kalutara-cities-v2.webp",
     description: {
       de: "Kalutara ist eine Küstenstadt südlich von Colombo, wo der Kalu Ganga ins Meer mündet, bekannt für Kautschuk und Mangostane.",
       hu: "Kalutara egy tengerparti város Colombótól délre, ahol a Kalu Ganga a tengerbe torkollik, és a gumiiparáról, valamint mangosztánjáról ismert.",
@@ -996,9 +978,8 @@ image: "/poi-images/kalutara-cities-v2.webp"
     type: "city",
     parent: "LK-6",
     coords: [79.8283, 8.0362],
-    name: { de: "Puttalam", hu: "Puttalam", ro: "Puttalam", en: "Puttalam",
-image: "/poi-images/puttalam-cities-v2.webp"
-},
+    name: { de: "Puttalam", hu: "Puttalam", ro: "Puttalam", en: "Puttalam"},
+    image: "/poi-images/puttalam-cities-v2.webp",
     description: {
       de: "Puttalam ist eine Stadt an der Westküste in der Nähe einer großen Lagune, bekannt für Salzproduktion und Windparks.",
       hu: "Puttalam egy város a nyugati parton egy nagy lagúna közelében, amely a sótermelésről és a szélerőműparkokról ismert.",
@@ -1051,9 +1032,8 @@ image: "/poi-images/puttalam-cities-v2.webp"
     type: "city",
     parent: "LK-7",
     coords: [81.0000, 7.9333],
-    name: { de: "Polonnaruwa", hu: "Polonnaruwa", ro: "Polonnaruwa", en: "Polonnaruwa",
-image: "/poi-images/polonnaruwa-cities-v2.webp"
-},
+    name: { de: "Polonnaruwa", hu: "Polonnaruwa", ro: "Polonnaruwa", en: "Polonnaruwa"},
+    image: "/poi-images/polonnaruwa-cities-v2.webp",
     description: {
       de: "Polonnaruwa war die zweite Hauptstadt des alten Sri Lanka und beeindruckt durch ihre gewaltigen archäologischen Monumente.",
       hu: "Polonnaruwa az ősi Srí Lanka második fővárosa volt, és lenyűgöző régészeti műemlékeivel vonzza a látogatókat.",
@@ -1106,9 +1086,8 @@ image: "/poi-images/polonnaruwa-cities-v2.webp"
     type: "city",
     parent: "LK-2",
     coords: [80.6234, 7.4724],
-    name: { de: "Matale", hu: "Matale", ro: "Matale", en: "Matale",
-image: "/poi-images/matale-cities-v2.webp"
-},
+    name: { de: "Matale", hu: "Matale", ro: "Matale", en: "Matale"},
+    image: "/poi-images/matale-cities-v2.webp",
     description: {
       de: "Matale ist eine landwirtschaftliche Stadt, eingebettet in ein Tal im Zentrum der Insel, umgeben von Gewürzgärten.",
       hu: "Matale egy mezőgazdasági város a sziget központjában egy völgyben, amelyet fűszerkertek vesznek körül.",
@@ -1161,9 +1140,8 @@ image: "/poi-images/matale-cities-v2.webp"
     type: "city",
     parent: "LK-4",
     coords: [80.4971, 8.7514],
-    name: { de: "Vavuniya", hu: "Vavuniya", ro: "Vavuniya", en: "Vavuniya",
-image: "/poi-images/vavuniya-cities-v2.webp"
-},
+    name: { de: "Vavuniya", hu: "Vavuniya", ro: "Vavuniya", en: "Vavuniya"},
+    image: "/poi-images/vavuniya-cities-v2.webp",
     description: {
       de: "Vavuniya ist das Tor zur Nordprovinz Sri Lankas und ein wichtiges Handelszentrum, in dem sich verschiedene Kulturen treffen.",
       hu: "Vavuniya Srí Lanka Északi Tartományának kapuja, és egy fontos kereskedelmi központ, ahol különböző kultúrák találkoznak.",
@@ -1216,9 +1194,8 @@ image: "/poi-images/vavuniya-cities-v2.webp"
     type: "city",
     parent: "LK-4",
     coords: [79.9044, 8.9810],
-    name: { de: "Mannar", hu: "Mannar", ro: "Mannar", en: "Mannar",
-image: "/poi-images/mannar-cities-v2.webp"
-},
+    name: { de: "Mannar", hu: "Mannar", ro: "Mannar", en: "Mannar"},
+    image: "/poi-images/mannar-cities-v2.webp",
     description: {
       de: "Mannar liegt auf einer Insel, die durch einen Damm mit dem Festland verbunden ist, und ist berühmt für Baobab-Bäume und Esel.",
       hu: "Mannar egy szigeten fekszik, amelyet gát köt össze a szárazfölddel, és a baobabfáiról, valamint a szamarairól híres.",
@@ -1271,9 +1248,8 @@ image: "/poi-images/mannar-cities-v2.webp"
     type: "city",
     parent: "LK-6",
     coords: [79.7944, 7.5758],
-    name: { de: "Chilaw", hu: "Chilaw", ro: "Chilaw", en: "Chilaw",
-image: "/poi-images/chilaw-cities-v2.webp"
-},
+    name: { de: "Chilaw", hu: "Chilaw", ro: "Chilaw", en: "Chilaw"},
+    image: "/poi-images/chilaw-cities-v2.webp",
     description: {
       de: "Chilaw ist eine Küstenstadt im Nordwesten, die für ihre starke Fischereiindustrie und ihren kulturellen Reichtum bekannt ist.",
       hu: "Chilaw egy tengerparti város északnyugaton, amely erős halászati iparáról és kulturális gazdagságáról ismert.",
@@ -1326,9 +1302,8 @@ image: "/poi-images/chilaw-cities-v2.webp"
     type: "city",
     parent: "LK-3",
     coords: [81.1185, 6.1248],
-    name: { de: "Hambantota", hu: "Hambantota", ro: "Hambantota", en: "Hambantota",
-image: "/poi-images/hambantota-cities-v2.webp"
-},
+    name: { de: "Hambantota", hu: "Hambantota", ro: "Hambantota", en: "Hambantota"},
+    image: "/poi-images/hambantota-cities-v2.webp",
     description: {
       de: "Hambantota ist eine Stadt im tiefen Süden, die sich dank neuer Infrastrukturprojekte schnell zu einem Wirtschaftszentrum entwickelt.",
       hu: "Hambantota egy város a mély délen, amely az új infrastrukturális projekteknek köszönhetően gyorsan gazdasági központtá fejlődik.",
@@ -1381,9 +1356,8 @@ image: "/poi-images/hambantota-cities-v2.webp"
     type: "city",
     parent: "LK-5",
     coords: [81.6747, 7.2975],
-    name: { de: "Ampara", hu: "Ampara", ro: "Ampara", en: "Ampara",
-image: "/poi-images/ampara-cities-v2.webp"
-},
+    name: { de: "Ampara", hu: "Ampara", ro: "Ampara", en: "Ampara"},
+    image: "/poi-images/ampara-cities-v2.webp",
     description: {
       de: "Ampara ist eine landwirtschaftlich geprägte Stadt in der Ostprovinz, umgeben von Reisfeldern und großen Wasserreservoirs.",
       hu: "Ampara egy mezőgazdasági jellegű város a Keleti Tartományban, amelyet rizsföldek és nagy víztározók vesznek körül.",
@@ -1436,9 +1410,8 @@ image: "/poi-images/ampara-cities-v2.webp"
     type: "city",
     parent: "LK-4",
     coords: [80.3982, 9.3961],
-    name: { de: "Kilinochchi", hu: "Kilinochchi", ro: "Kilinochchi", en: "Kilinochchi",
-image: "/poi-images/kilinochchi-cities-v2.webp"
-},
+    name: { de: "Kilinochchi", hu: "Kilinochchi", ro: "Kilinochchi", en: "Kilinochchi"},
+    image: "/poi-images/kilinochchi-cities-v2.webp",
     description: {
       de: "Kilinochchi ist eine wichtige Stadt in der Nordprovinz und dient als landwirtschaftliches Zentrum für die Region Vanni.",
       hu: "Kilinochchi egy fontos város az Északi Tartományban, amely a Vanni régió mezőgazdasági központjaként szolgál.",
@@ -1491,9 +1464,8 @@ image: "/poi-images/kilinochchi-cities-v2.webp"
     type: "city",
     parent: "LK-4",
     coords: [80.8142, 9.2671],
-    name: { de: "Mullaitivu", hu: "Mullaitivu", ro: "Mullaitivu", en: "Mullaitivu",
-image: "/poi-images/mullaitivu-cities-v2.webp"
-},
+    name: { de: "Mullaitivu", hu: "Mullaitivu", ro: "Mullaitivu", en: "Mullaitivu"},
+    image: "/poi-images/mullaitivu-cities-v2.webp",
     description: {
       de: "Mullaitivu ist eine Küstenstadt im Nordosten, bekannt für ihre langen Strände, dichten Wälder und reiche Fischerei.",
       hu: "Mullaitivu egy tengerparti város északkeleten, amely hosszú strandjairól, sűrű erdeiről és gazdag halászatáról ismert.",
@@ -1546,9 +1518,8 @@ image: "/poi-images/mullaitivu-cities-v2.webp"
     type: "city",
     parent: "LK-9",
     coords: [80.3462, 7.2513],
-    name: { de: "Kegalle", hu: "Kegalle", ro: "Kegalle", en: "Kegalle",
-image: "/poi-images/kegalle-cities-v2.webp"
-},
+    name: { de: "Kegalle", hu: "Kegalle", ro: "Kegalle", en: "Kegalle"},
+    image: "/poi-images/kegalle-cities-v2.webp",
     description: {
       de: "Kegalle ist eine malerische Stadt im Sabaragamuwa-Hochland, berühmt für Elefantenwaisenhäuser und Kautschukplantagen.",
       hu: "Kegalle egy festői város a Sabaragamuwa hegyvidéken, amely az elefántárvaházakról és a gumiültetvényekről híres.",
@@ -1601,9 +1572,8 @@ image: "/poi-images/kegalle-cities-v2.webp"
     type: "city",
     parent: "LK-8",
     coords: [81.3487, 6.8728],
-    name: { de: "Moneragala", hu: "Moneragala", ro: "Moneragala", en: "Moneragala",
-image: "/poi-images/moneragala-cities-v2.webp"
-},
+    name: { de: "Moneragala", hu: "Moneragala", ro: "Moneragala", en: "Moneragala"},
+    image: "/poi-images/moneragala-cities-v2.webp",
     description: {
       de: "Moneragala ist eine abgelegene Stadt in der Uva-Provinz, geprägt von trockenen Landschaften, Nationalparks und Landwirtschaft.",
       hu: "Moneragala egy elszigetelt város az Uva Tartományban, amelyet száraz tájak, nemzeti parkok és mezőgazdaság jellemez.",

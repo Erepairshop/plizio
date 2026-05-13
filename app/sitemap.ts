@@ -12,6 +12,20 @@ import {
 
 export const dynamic = "force-static";
 
+// Google: 50,000 URLs MAX per sitemap. Chunk to 40k to leave safety margin.
+const CHUNK_SIZE = 40_000;
+
+export async function generateSitemaps() {
+  // Compute how many chunks are needed (rough estimate; safe upper bound).
+  // root + countries + states + indexable POIs × 4 langs
+  const indexablePois = pois.filter(
+    (poi) => poi && poi.type !== "region" && poi.type !== "country" && hasIndexableContent(poi),
+  );
+  const totalUrls = 100 /* roots+countries+states */ + indexablePois.length * SUPPORTED_LANGS.length;
+  const n = Math.max(1, Math.ceil(totalUrls / CHUNK_SIZE));
+  return Array.from({ length: n }, (_, id) => ({ id }));
+}
+
 function createEntry(url: string, sourceFile: string, priority: number) {
   return {
     url: `${SITE_URL}${url === "/" ? "" : url}`,
@@ -20,7 +34,7 @@ function createEntry(url: string, sourceFile: string, priority: number) {
   };
 }
 
-export default function sitemap(): MetadataRoute.Sitemap {
+export default function sitemap({ id }: { id: number }): MetadataRoute.Sitemap {
   const countryUrls = SUPPORTED_LANGS.flatMap((lang) => [
     createEntry(buildCountryPath(lang, "germany"), "app/[lang]/[country]/page.tsx", 1),
     createEntry(buildCountryPath(lang, "romania"), "app/[lang]/[country]/page.tsx", 1),
@@ -77,5 +91,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ),
   );
 
-  return [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];
+  const all = [...rootUrls, ...countryUrls, ...stateUrls, ...poiUrls];
+  // Chunk: id 0 = first 40k URLs, id 1 = next 40k, etc.
+  const start = id * CHUNK_SIZE;
+  return all.slice(start, start + CHUNK_SIZE);
 }

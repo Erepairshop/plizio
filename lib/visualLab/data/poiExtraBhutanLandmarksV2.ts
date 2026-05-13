@@ -7,7 +7,6 @@ export const poiExtraBhutanLandmarksV2: POI[] = [
     parent: "BT-15",
     coords: [89.6465, 27.4415],
     name: { de: "Buddha Dordenma", hu: "Buddha Dordenma", ro: "Buddha Dordenma", en: "Buddha Dordenma",
-image: "/poi-images/buddha-dordenma-landmarks-v2.webp"
 },
     description: {
       de: "Eine gigantische Buddha-Statue, die über Thimphu thront. Sie beherbergt im Inneren 125.000 kleinere Buddha-Statuen und strahlt Frieden aus.",
@@ -21,9 +20,19 @@ image: "/poi-images/buddha-dordenma-landmarks-v2.webp"
       ro: ["Are 51,5 metri înălțime.", "Construită pentru a 60-a aniversare a celui de-al patrulea rege.", "Realizată din bronz și suflată cu aur."],
       en: ["Is 51.5 meters tall.", "Built for the fourth King's 60th birthday.", "Made of bronze and gilded in gold."]
     },
+    image: "/poi-images/buddha-dordenma-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Buddha Dordenma ist eine riesige Buddha-Statue in den Hügeln von Thimphu, Bhutan. Sie ist 51,5 Meter hoch und besteht aus Bronze, vergoldet mit 22-karätigem Gold. Die Statue wurde errichtet, um den 60. Geburtstag des vierten bhutanesischen Königs Jigme Singye Wangchuck zu ehren und als Symbol des Friedens und der Harmonie. Der Bau begann 2006 und wurde 2015 abgeschlossen. Im Inneren der Statue befinden sich 125.000 kleine Buddha-Statuen. Die Statue steht auf einem Meditationsplatz, der mit buddhistischen Gebetsfahnen geschmückt ist. Sie bietet einen Panoramablick auf das Thimphu-Tal. Der Buddha Dordenma ist eines der größten Buddha-Bilder der Welt und eine bedeutende Pilgerstätte.",
+      hu: "A Buddha Dordenma egy hatalmas Buddha-szobor Thimphu dombjain, Bhutánban. Magassága 51,5 méter, anyaga bronz, 22 karátos arannyal bevonva. A szobrot a negyedik bhutáni király, Jigme Singye Wangchuck 60. születésnapja tiszteletére emelték, a béke és harmónia jelképeként. Az építkezés 2006-ban kezdődött és 2015-ben fejeződött be. A szobor belsejében 125.000 kicsi Buddha-szobor található. A szobor egy meditációs téren áll, amelyet buddhista imazászlók díszítenek. Panorámás kilátást nyújt a Thimphu-völgyre. A Buddha Dordenma a világ egyik legnagyobb Buddha-ábrázolása és fontos zarándokhely.",
+      ro: "Buddha Dordenma este o statuie uriașă a lui Buddha situată pe dealurile din Thimphu, Bhutan. Are o înălțime de 51,5 metri și este realizată din bronz, placată cu aur de 22 de karate. Statuia a fost construită pentru a onora cea de-a 60-a aniversare a celui de-al patrulea rege al Bhutanului, Jigme Singye Wangchuck, și ca simbol al păcii și armoniei. Construcția a început în 2006 și s-a finalizat în 2015. În interiorul statuii se află 125.000 de statui mici ale lui Buddha. Statuia este așezată pe o platformă de meditație decorată cu steaguri de rugăciune budiste. Oferă o vedere panoramică asupra văii Thimphu. Buddha Dordenma este una dintre cele mai mari reprezentări ale lui Buddha din lume și un important loc de pelerinaj.",
+      en: "Buddha Dordenma is a giant Buddha statue located in the hills of Thimphu, Bhutan. It stands 51.5 meters tall and is made of bronze, gilded with 22-karat gold. The statue was built to commemorate the 60th birthday of the fourth King of Bhutan, Jigme Singye Wangchuck, and as a symbol of peace and harmony. Construction began in 2006 and was completed in 2015. Inside the statue, there are 125,000 small Buddha statues. The statue sits on a meditation platform adorned with Buddhist prayer flags. It offers panoramic views of the Thimphu valley. Buddha Dordenma is one of the largest Buddha images in the world and a major pilgrimage site.",
+    },
     factsAdvanced: {
-      multi4: ["Die Statue wurde 2015 fertiggestellt.", "Das Gesamtprojekt kostete fast 100 Millionen US-Dollar.", "Sie befindet sich auf einer Höhe von 2500 Metern.", "Die vergoldete Bronze wurde aus China importiert.", "Der Bau wurde von Aerosun Corporation aus Nanjing, China, durchgeführt.", "Die Statue blickt nach Osten, um Segen zu verbreiten.", "Der Thron, auf dem der Buddha sitzt, ist eine große Meditationshalle.", "Die Finanzierung erfolgte hauptsächlich durch Spenden aus der ganzen Welt."]
-    }
+      de: ["Höhe: 51,5 Meter", "Material: Bronze mit 22-karätiger Goldauflage", "Bauzeit: 2006 bis 2015", "Anzahl der kleinen Buddha-Statuen im Inneren: 125.000", "Gewidmet dem 60. Geburtstag von König Jigme Singye Wangchuck", "Standorthöhe: etwa 2.500 m über dem Meeresspiegel"],
+      hu: ["Magasság: 51,5 méter", "Anyag: bronz, 22 karátos aranyozással", "Építési idő: 2006-tól 2015-ig", "Belső kis Buddha-szobrok száma: 125.000", "Jigme Singye Wangchuck király 60. születésnapjának ajánlva", "Elhelyezkedés magassága: kb. 2.500 m tengerszint felett"],
+      ro: ["Înălțime: 51,5 metri", "Material: bronz placat cu aur de 22 de karate", "Perioada de construcție: 2006–2015", "Numărul de statui mici ale lui Buddha în interior: 125.000", "Dedicată celei de-a 60-a aniversări a regelui Jigme Singye Wangchuck", "Altitudinea amplasamentului: aproximativ 2.500 m deasupra nivelului mării"],
+      en: ["Height: 51.5 meters", "Material: bronze with 22-carat gold gilding", "Construction period: 2006–2015", "Number of small Buddha statues inside: 125,000", "Dedicated to the 60th birthday of King Jigme Singye Wangchuck", "Site elevation: approx. 2,500 m above sea level"],
+    },
   },
   {
     id: "taktsang-palphug-landmarks-v2",
@@ -31,7 +40,6 @@ image: "/poi-images/buddha-dordenma-landmarks-v2.webp"
     parent: "BT-11",
     coords: [89.3633, 27.4919],
     name: { de: "Taktsang-Kloster", hu: "Taktsang kolostor", ro: "Mănăstirea Taktsang", en: "Taktsang Monastery",
-image: "/poi-images/taktsang-palphug-landmarks-v2.webp"
 },
     description: {
       de: "Das als Tigernest bekannte Kloster klammert sich an eine steile Klippe über dem Paro-Tal. Es ist das ikonischste Wahrzeichen und heiligste Stätte Bhutans.",
@@ -45,16 +53,14 @@ image: "/poi-images/taktsang-palphug-landmarks-v2.webp"
       ro: ["Situată la 3120 de metri deasupra nivelului mării.", "Conform legendei, Guru Rinpoche a zburat aici pe un tigru.", "Construită în 1692."],
       en: ["Located 3120 meters above sea level.", "Guru Rinpoche is said to have flown here on a tiger.", "Built in 1692."]
     },
-    factsAdvanced: {
-      multi4: ["Die Höhe des Klosters beträgt 3120 Meter über dem Meeresspiegel.", "Guru Rinpoche ist auch als Padmasambhava bekannt.", "Das Feuer von 1998 wurde vermutlich durch eine Butterlampe verursacht.", "Der Wiederaufbau kostete über 2 Millionen US-Dollar.", "Fotografieren ist in den Tempeln streng verboten.", "Der Weg zum Kloster ist etwa 4 Kilometer lang.", "Es gibt eine Cafeteria auf halbem Weg für eine Pause.", "Das Kloster wurde bewusst an diesem abgelegenen Ort für die Meditation gebaut."]
-    }, image: "/poi-images/taktsang-palphug-landmarks-v2.webp"},
+    image: "/poi-images/taktsang-palphug-landmarks-v2.webp",
+  },
   {
     id: "dochula-pass-landmarks-v2",
     type: "landmark",
     parent: "BT-15",
     coords: [89.7497, 27.4833],
     name: { de: "Dochula-Pass", hu: "Dochula-hágó", ro: "Pasul Dochula", en: "Dochula Pass",
-image: "/poi-images/dochula-pass-landmarks-v2.webp"
 },
     description: {
       de: "Ein malerischer Gebirgspass mit 108 Gedenk-Chortens. Bei klarem Wetter bietet er einen atemberaubenden Blick auf den schneebedeckten Himalaya.",
@@ -68,16 +74,14 @@ image: "/poi-images/dochula-pass-landmarks-v2.webp"
       ro: ["Altitudinea pasului este de 3100 de metri.", "A fost donat de Regina Mamă.", "Onorează soldații bhutanezi căzuți."],
       en: ["The pass elevation is 3100 meters.", "Was commissioned by the Queen Mother.", "Honors fallen Bhutanese soldiers."]
     },
-    factsAdvanced: {
-      multi4: ["Die 108 Chortens sind in drei Ebenen angeordnet.", "Die Militäroperation richtete sich gegen Aufständische aus Assam.", "Das jährliche Dochula Druk Wangyel Festival findet hier im Dezember statt.", "Die Chortens wurden gebaut, um die Geister der Gefallenen zu besänftigen.", "Gangkhar Puensum ist der höchste unbestiegene Berg der Welt.", "Der Pass ist oft in Nebel gehüllt, besonders während des Monsuns.", "Die Königinmutter ist eine von vier Schwestern, die den vierten König heirateten.", "Der Tempel zeigt Malereien der bhutanischen Geschichte."]
-    }, image: "/poi-images/dochula-pass-landmarks-v2.webp"},
+    image: "/poi-images/dochula-pass-landmarks-v2.webp",
+  },
   {
     id: "chele-la-pass-landmarks-v2",
     type: "landmark",
     parent: "BT-11",
     coords: [89.3167, 27.3667],
     name: { de: "Chele-La-Pass", hu: "Chele La-hágó", ro: "Pasul Chele La", en: "Chele La Pass",
-image: "/poi-images/chele-la-pass-landmarks-v2.webp"
 },
     description: {
       de: "Der höchste befahrbare Pass in Bhutan. Er ist berühmt für seine wehenden Gebetsfahnen und bietet spektakuläre Ausblicke auf das Paro- und Haa-Tal.",
@@ -91,16 +95,14 @@ image: "/poi-images/chele-la-pass-landmarks-v2.webp"
       ro: ["Atinge o altitudine de aproape 3988 de metri.", "Separă văile Haa și Paro.", "Popular printre bicicliști și drumeți."],
       en: ["Reaches an elevation of almost 3988 meters.", "Separates the Haa and Paro valleys.", "Popular among cyclists and hikers."]
     },
-    factsAdvanced: {
-      multi4: ["Die Straße zum Pass wurde in den 2000er Jahren gebaut.", "Das Haa-Tal wurde erst 2002 für Touristen geöffnet.", "Der Pass ist im Winter oft wegen Schneefalls gesperrt.", "Der Name 'Chele La' bedeutet 'Pass über den Felsen'.", "Es ist ein beliebter Ort für Vogelbeobachtung.", "Die Temperatur auf dem Pass kann auch im Sommer nahe dem Gefrierpunkt liegen.", "Man findet hier den seltenen Blauen Mohn, Bhutans Nationalblume.", "Die Gebetsfahnen werden in fünf Farben gedruckt, die die fünf Elemente symbolisieren."]
-    }, image: "/poi-images/chele-la-pass-landmarks-v2.webp"},
+    image: "/poi-images/chele-la-pass-landmarks-v2.webp",
+  },
   {
     id: "tango-monastery-landmarks-v2",
     type: "landmark",
     parent: "BT-15",
     coords: [89.6385, 27.5750],
     name: { de: "Tango-Kloster", hu: "Tango kolostor", ro: "Mănăstirea Tango", en: "Tango Monastery",
-image: "/poi-images/tango-monastery-landmarks-v2.webp"
 },
     description: {
       de: "Ein hoch gelegenes buddhistisches Zentrum, das im 15. Jahrhundert gegründet wurde. Es dient heute als wichtige Hochschule für buddhistische Studien.",
@@ -114,16 +116,14 @@ image: "/poi-images/tango-monastery-landmarks-v2.webp"
       ro: ["Fondat secolul XIII", "Situat la nord de Thimphu", "Centru de studii", "Arhitectură monastică"],
       en: ["The name means \"Horse Head\".", "Was built in its current form in 1689.", "Accessible only by a hike."]
     },
-    factsAdvanced: {
-      multi4: ["Die Wanderung zum Kloster überwindet etwa 400 Höhenmeter.", "Das Kloster wurde 1689 von Gyalse Tenzin Rabgye erbaut.", "Die Felsformation soll eine Manifestation des zornigen Gottes Hayagriva sein.", "Das Kloster ist von einer Reihe von Gebetsmühlen umgeben.", "Frauen ist der Zutritt zum Haupttempel nicht gestattet.", "Jedes Jahr findet hier das Yarney-Festival statt, eine Sommer-Retraite für Mönche.", "Das nahegelegene Cheri-Kloster wurde von demselben Gründer erbaut.", "Die Bibliothek des Klosters enthält wertvolle alte Manuskripte."]
-    }, image: "/poi-images/tango-monastery-landmarks-v2.webp"},
+    image: "/poi-images/tango-monastery-landmarks-v2.webp",
+  },
   {
     id: "cheri-monastery-landmarks-v2",
     type: "landmark",
     parent: "BT-15",
     coords: [89.6358, 27.5855],
     name: { de: "Cheri-Kloster", hu: "Cheri kolostor", ro: "Mănăstirea Cheri", en: "Cheri Monastery",
-image: "/poi-images/cheri-monastery-landmarks-v2.webp"
 },
     description: {
       de: "Das erste Kloster in Bhutan, das 1620 erbaut wurde. Es ist ein wichtiger Meditationsort und wird oft von Mönchen für lange Rückzüge genutzt.",
@@ -137,16 +137,14 @@ image: "/poi-images/cheri-monastery-landmarks-v2.webp"
       ro: ["A fost fondată de Ngawang Namgyal.", "Găzduiește cenușa tatălui său.", "Situată într-o zonă forestieră liniștită."],
       en: ["Founded by Ngawang Namgyal.", "Houses the ashes of his father.", "Located in a quiet forested area."]
     },
-    factsAdvanced: {
-      multi4: ["Der vollständige Name bedeutet 'Eiserne Burg des Felsens'.", "Die Brücke zum Kloster wurde im traditionellen Stil erbaut.", "Der Gründer war erst 27 Jahre alt, als er das Kloster baute.", "Das Kloster ist ein wichtiger Lebensraum für den Goral, eine Ziegenantilope.", "Pilger umrunden das Kloster oft im Uhrzeigersinn und murmeln Mantras.", "Es ist ein Zentrum für die Drukpa-Kagyü-Schule des tibetischen Buddhismus.", "Es wird gesagt, dass der Ort von Guru Rinpoche im 8. Jahrhundert gesegnet wurde.", "Im Inneren befinden sich wunderschöne Wandmalereien, die buddhistische Gottheiten darstellen."]
-    }, image: "/poi-images/cheri-monastery-landmarks-v2.webp"},
+    image: "/poi-images/cheri-monastery-landmarks-v2.webp",
+  },
   {
     id: "sangchhen-dorji-lhuendrup-landmarks-v2",
     type: "landmark",
     parent: "BT-23",
     coords: [89.8488, 27.5516],
     name: { de: "Sangchhen-Dorji-Lhuendrup-Nonnenkloster", hu: "Sangchhen Dorji Lhuendrup apácakolostor", ro: "Mănăstirea de maici Sangchhen Dorji Lhuendrup", en: "Sangchhen Dorji Lhuendrup Nunnery",
-image: "/poi-images/sangchhen-dorji-lhuendrup-landmarks-v2.webp"
 },
     description: {
       de: "Ein beeindruckender Tempel- und Nonnenklosterkomplex auf einem Bergrücken. Es bietet einen fantastischen Blick auf das Punakha- und Wangdue-Tal.",
@@ -160,16 +158,14 @@ image: "/poi-images/sangchhen-dorji-lhuendrup-landmarks-v2.webp"
       ro: ["Găzduiește o statuie a lui Avalokiteshvara înaltă de 14 metri.", "Este un centru de studii budiste superioare.", "A fost susținută de familia regală."],
       en: ["Houses a 14-meter tall Avalokiteshvara statue.", "It is a center for higher Buddhist studies.", "Was supported by the royal family."]
     },
-    factsAdvanced: {
-      multi4: ["Der Name bedeutet 'Tempel des spontanen Lichts des unzerstörbaren Diamanten'.", "Die Avalokiteshvara-Statue wurde von lokalen Handwerkern hergestellt.", "Der Komplex beherbergt etwa 120 Nonnen.", "Der Tempel hat eine nepalesische Stupa-ähnliche Struktur.", "Er bietet einen 360-Grad-Blick auf die umliegende Landschaft.", "Die Königinmutter ist die Mutter des derzeitigen fünften Königs.", "Die Nonnen praktizieren den Nyingma- und Kagyü-Buddhismus.", "Der Ort ist auch bei Einheimischen für Picknicks beliebt."]
-    }, image: "/poi-images/sangchhen-dorji-lhuendrup-landmarks-v2.webp"},
+    image: "/poi-images/sangchhen-dorji-lhuendrup-landmarks-v2.webp",
+  },
   {
     id: "kila-nunnery-landmarks-v2",
     type: "landmark",
     parent: "BT-11",
     coords: [89.3361, 27.3822],
     name: { de: "Kila-Nonnenkloster", hu: "Kila apácakolostor", ro: "Mănăstirea de maici Kila", en: "Kila Nunnery",
-image: "/poi-images/kila-nunnery-landmarks-v2.webp"
 },
     description: {
       de: "Das älteste Nonnenkloster Bhutans, das oft als weibliches Tigernest bezeichnet wird. Es besteht aus mehreren Tempeln, die in eine steile Klippe gebaut sind.",
@@ -183,16 +179,14 @@ image: "/poi-images/kila-nunnery-landmarks-v2.webp"
       ro: ["Situată la o altitudine de aproximativ 3500 de metri.", "Fondată la începutul secolului al IX-lea.", "Cămin pentru aproximativ 60 de maici."],
       en: ["Located at an altitude of about 3500 meters.", "Established in the early 9th century.", "Home to around 60 nuns."]
     },
-    factsAdvanced: {
-      multi4: ["Der ursprüngliche Name war Kila Gompa, was 'Kloster des Kiels' bedeutet.", "Es wurde von Dupthob Chhoeje Norbu, einem tibetischen Heiligen, gegründet.", "Einige der Gebäude stammen aus dem 15. Jahrhundert.", "Es wird oft als das 'weibliche Tigernest' bezeichnet.", "Die Nonnen sind für ihre Kenntnisse der traditionellen Medizin bekannt.", "Das Kloster wurde kürzlich renoviert, um die Lebensbedingungen zu verbessern.", "Es ist ein Ort der Stille und Kontemplation.", "Die Aussicht vom Kloster auf das Paro-Tal ist atemberaubend."]
-    }, image: "/poi-images/kila-nunnery-landmarks-v2.webp"},
+    image: "/poi-images/kila-nunnery-landmarks-v2.webp",
+  },
   {
     id: "tamshing-lhakhang-landmarks-v2",
     type: "landmark",
     parent: "BT-31",
     coords: [90.7322, 27.5817],
     name: { de: "Tamshing Lhakhang", hu: "Tamshing Lhakhang", ro: "Tamshing Lhakhang", en: "Tamshing Lhakhang",
-image: "/poi-images/tamshing-lhakhang-landmarks-v2.webp"
 },
     description: {
       de: "Dieser Tempel im Chokhor-Tal ist für seine alten Wandmalereien bekannt. Er wurde 1501 vom großen Heiligen Pema Lingpa erbaut.",
@@ -206,16 +200,14 @@ image: "/poi-images/tamshing-lhakhang-landmarks-v2.webp"
       ro: ["Găzduiește opere de artă budistă rare.", "Are o cămașă de zale forjată de Pema Lingpa.", "Este candidat la Patrimoniul Mondial UNESCO."],
       en: ["Houses rare Buddhist artworks.", "Features a chainmail armor forged by Pema Lingpa.", "Is a candidate for UNESCO World Heritage."]
     },
-    factsAdvanced: {
-      multi4: ["Pema Lingpa war eine Reinkarnation von Longchenpa.", "Der Name 'Tamshing' bedeutet 'Tempel des guten Zeichens'.", "Die ursprünglichen Malereien wurden nie restauriert.", "Der Tempel steht auf der Tentativliste des UNESCO-Weltkulturerbes.", "Pema Lingpa war auch ein begabter Schmied und Künstler.", "Der Tempel veranstaltet jährlich ein farbenfrohes Festival (Tshechu).", "Die Architektur des Tempels ist einzigartig und weicht vom Standard ab.", "Es beherbergt eine Statue von Guru Rinpoche und Pema Lingpa."]
-    }, image: "/poi-images/tamshing-lhakhang-landmarks-v2.webp"},
+    image: "/poi-images/tamshing-lhakhang-landmarks-v2.webp",
+  },
   {
     id: "mebar-tsho-landmarks-v2",
     type: "landmark",
     parent: "BT-31",
     coords: [90.7816, 27.5511],
     name: { de: "Mebar Tsho (Brennender See)", hu: "Mebar Tsho (Égő-tó)", ro: "Mebar Tsho (Lacul arzând)", en: "Mebar Tsho (Burning Lake)",
-image: "/poi-images/mebar-tsho-landmarks-v2.webp"
 },
     description: {
       de: "Eine heilige Stätte, die eigentlich eine Schlucht im Fluss Tang Chhu ist. Hier soll Pema Lingpa versteckte Schätze von Guru Rinpoche entdeckt haben.",
@@ -229,9 +221,7 @@ image: "/poi-images/mebar-tsho-landmarks-v2.webp"
       ro: ["Este unul dintre cele mai sfinte locuri de pelerinaj.", "Pema Lingpa s-a scufundat aici cu o lampă de unt aprinsă.", "Vizitatorii aprind adesea lumini lângă apă."],
       en: ["One of the most sacred pilgrimage sites.", "Pema Lingpa dove in here with a burning butter lamp.", "Visitors often light lamps by the water."]
     },
-    factsAdvanced: {
-      multi4: ["Der Ort liegt nur wenige Autominuten von der Hauptstraße entfernt.", "Pema Lingpa entdeckte hier mehrere 'Termas' (heilige Texte und Objekte).", "Der See ist eigentlich ein sich erweiternder Teil des Flusses.", "Der Fels, von dem Pema Lingpa sprang, ist markiert.", "Es ist ein Ort von großer natürlicher Schönheit und Ruhe.", "Viele bunte Gebetsfahnen schmücken die Felsen und Bäume rund um den Pool.", "Es wird als gefährlich angesehen, im Pool zu schwimmen.", "Das Wasser gilt als heilig und wird für Rituale verwendet."]
-    }
+    image: "/poi-images/mebar-tsho-landmarks-v2.webp",
   },
   {
     id: "zangto-pelri-lhakhang-landmarks-v2",
@@ -239,7 +229,6 @@ image: "/poi-images/mebar-tsho-landmarks-v2.webp"
     parent: "BT-12",
     coords: [89.3852, 26.8524],
     name: { de: "Zangto Pelri Lhakhang", hu: "Zangto Pelri Lhakhang", ro: "Zangto Pelri Lhakhang", en: "Zangto Pelri Lhakhang",
-image: "/poi-images/zangto-pelri-lhakhang-landmarks-v2.webp"
 },
     description: {
       de: "Ein kleiner Tempel im Herzen von Phuntsholing, der den himmlischen Wohnsitz von Guru Rinpoche darstellt. Er ist von einem schönen Park umgeben.",
@@ -253,9 +242,19 @@ image: "/poi-images/zangto-pelri-lhakhang-landmarks-v2.webp"
       ro: ["Situat în centrul orașului.", "Loc de întâlnire popular pentru localnici.", "Construit în 1990."],
       en: ["Located in the city center.", "Popular gathering place for locals.", "Built in 1990."]
     },
+    image: "/poi-images/zangto-pelri-lhakhang-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zangto Pelri Lhakhang ist ein buddhistischer Tempel in Thimphu, Bhutan, der 1999 erbaut wurde. Der Tempel ist eine Nachbildung des mythologischen Palastes von Guru Rinpoche (Padmasambhava) auf dem Zangto Pelri, dem legendären Reinen Land. Der Tempel hat drei Stockwerke, die die verschiedenen Bereiche des Reinen Landes darstellen. Im Erdgeschoss befindet sich eine Darstellung des Guru Rinpoche, im ersten Stock die Buddhas der Vergangenheit, Gegenwart und Zukunft, und im obersten Stockwerk Amitabha. Der Tempel ist reich mit Wandgemälden und Thangkas verziert. Er ist ein wichtiges Pilgerziel und wird besonders während des Thimphu Tshechu besucht. Der Tempel ist von einem Kloster umgeben, in dem Mönche leben.",
+      hu: "A Zangto Pelri Lhakhang egy buddhista templom Thimphuban, Bhutánban, amelyet 1999-ben építettek. A templom Guru Rinpoche (Padmasambhava) mitológiai palotájának másolata a Zangto Pelrin, a legendás Tiszta Földön. A templom három szintből áll, amelyek a Tiszta Föld különböző területeit képviselik. A földszinten Guru Rinpoche ábrázolása található, az első emeleten a múlt, jelen és jövő Buddhái, a legfelső szinten pedig Amitabha. A templomot gazdagon díszítik falfestmények és thangkák. Fontos zarándokhely, különösen a Thimphu Tshechu idején. A templomot egy kolostor veszi körül, ahol szerzetesek élnek.",
+      ro: "Zangto Pelri Lhakhang este un templu budist din Thimphu, Bhutan, construit în 1999. Templul este o replică a palatului mitologic al lui Guru Rinpoche (Padmasambhava) din Zangto Pelri, Țara Pură legendară. Templul are trei etaje care reprezintă diferitele zone ale Țării Pure. La parter se află o reprezentare a lui Guru Rinpoche, la primul etaj Buddhații trecutului, prezentului și viitorului, iar la ultimul etaj Amitabha. Templul este bogat decorat cu picturi murale și thangka. Este un important loc de pelerinaj, vizitat mai ales în timpul Thimphu Tshechu. Templul este înconjurat de o mănăstire unde locuiesc călugări.",
+      en: "Zangto Pelri Lhakhang is a Buddhist temple in Thimphu, Bhutan, built in 1999. It is a replica of the mythological palace of Guru Rinpoche (Padmasambhava) on Zangto Pelri, the legendary Pure Land. The temple has three floors representing different realms of the Pure Land. The ground floor features an image of Guru Rinpoche, the first floor the Buddhas of past, present, and future, and the top floor Amitabha. The temple is richly decorated with murals and thangkas. It is an important pilgrimage site, especially visited during the Thimphu Tshechu. The temple is surrounded by a monastery where monks reside.",
+    },
     factsAdvanced: {
-      multi4: ["Der Tempel ist ein wichtiger Ort für religiöse Feste in Phuntsholing.", "Die Architektur ist typisch für die bhutanische Tempelbauweise.", "Der Bau wurde durch öffentliche Spenden finanziert.", "Phuntsholing ist das wirtschaftliche Zentrum Bhutans.", "Der Tempel ist ein beliebter Ort für Fotos.", "Die Gebetsmühlen werden im Uhrzeigersinn gedreht, um Verdienste zu erlangen.", "Guru Rinpoche führte den Buddhismus in Bhutan ein.", "Amitabha ist der Buddha des unendlichen Lichts."]
-    }
+      de: ["Baujahr: 1999", "Anzahl der Stockwerke: 3", "Höhe des Tempels: etwa 20 Meter", "Standort: Thimphu, Bhutan", "Material: Stein, Holz und vergoldetes Kupfer", "Guru Rinpoche Darstellung: 3 Meter hoch"],
+      hu: ["Építés éve: 1999", "Szintek száma: 3", "Templom magassága: kb. 20 méter", "Elhelyezkedés: Thimphu, Bhután", "Anyag: kő, fa és aranyozott réz", "Guru Rinpoche ábrázolás: 3 méter magas"],
+      ro: ["Anul construcției: 1999", "Număr de etaje: 3", "Înălțimea templului: aproximativ 20 de metri", "Locație: Thimphu, Bhutan", "Material: piatră, lemn și cupru aurit", "Reprezentarea lui Guru Rinpoche: 3 metri înălțime"],
+      en: ["Year built: 1999", "Number of floors: 3", "Temple height: about 20 meters", "Location: Thimphu, Bhutan", "Material: stone, wood, and gilded copper", "Guru Rinpoche statue: 3 meters tall"],
+    },
   },
   {
     id: "karbandi-monastery-landmarks-v2",
@@ -263,7 +262,6 @@ image: "/poi-images/zangto-pelri-lhakhang-landmarks-v2.webp"
     parent: "BT-12",
     coords: [89.3865, 26.8700],
     name: { de: "Karbandi-Kloster", hu: "Karbandi kolostor", ro: "Mănăstirea Karbandi", en: "Karbandi Monastery",
-image: "/poi-images/karbandi-monastery-landmarks-v2.webp"
 },
     description: {
       de: "Das Kloster thront auf einem Hügel über Phuntsholing und bietet einen Panoramablick auf die bengalische Ebene und die Stadt.",
@@ -277,16 +275,14 @@ image: "/poi-images/karbandi-monastery-landmarks-v2.webp"
       ro: ["Construită de familia regală în 1967.", "Renumită printre cuplurile care se roagă pentru copii.", "Prezintă statui impresionante ale lui Buddha."],
       en: ["Built by the royal family in 1967.", "Famous among couples praying for children.", "Features impressive Buddha statues."]
     },
-    factsAdvanced: {
-      multi4: ["Die königliche Großmutter war die Mutter des dritten Königs von Bhutan.", "Der Name 'Karbandi' bedeutet 'Hügel der Felsen'.", "Der Garten des Klosters ist sehr gepflegt und hat eine Vielzahl von Blumen.", "Es ist einer der ersten Orte, die Besucher sehen, wenn sie von Indien nach Bhutan kommen.", "Der Tempel ist ein gutes Beispiel für traditionelle bhutanische Architektur.", "Viele Einheimische kommen am Wochenende hierher, um zu entspannen.", "Die Statuen im Tempel sind besonders fein gearbeitet.", "Von hier aus kann man das Tor sehen, das Bhutan von Indien trennt."]
-    }, image: "/poi-images/karbandi-monastery-landmarks-v2.webp"},
+    image: "/poi-images/karbandi-monastery-landmarks-v2.webp",
+  },
   {
     id: "chorten-kora-landmarks-v2",
     type: "landmark",
     parent: "BT-46",
     coords: [91.4988, 27.6080],
     name: { de: "Chorten Kora", hu: "Chorten Kora", ro: "Chorten Kora", en: "Chorten Kora",
-image: "/poi-images/chorten-kora-landmarks-v2.webp"
 },
     description: {
       de: "Ein bedeutender Stupa in Ostbhutan, der nach dem Vorbild des Boudhanath-Stupa in Nepal gestaltet wurde. Er zieht jährlich Tausende Pilger an.",
@@ -300,16 +296,14 @@ image: "/poi-images/chorten-kora-landmarks-v2.webp"
       ro: ["Construită în 1740.", "Se crede că suprimă spiritele rele.", "Găzduiește un mare festival de primăvară."],
       en: ["Built in 1740.", "Believed to suppress evil spirits.", "Hosts a large spring festival."]
     },
-    factsAdvanced: {
-      multi4: ["Der Bau der Stupa dauerte 12 Jahre.", "Der Lama war der Neffe von Ngawang Namgyal.", "Die Feste finden im ersten und dritten Mondmonat statt.", "Pilger umrunden die Stupa (Kora), um Verdienste zu erlangen.", "Die Stupa wurde 2016 nach einem Erdbeben renoviert.", "Trashiyangtse ist bekannt für seine Holzarbeiten und Papierherstellung.", "Es ist eine der wenigen Stupas in Bhutan, die nicht im bhutanischen Stil gebaut ist.", "Die Geschichte der Prinzessin symbolisiert die engen Beziehungen zwischen den Völkern der Region."]
-    }, image: "/poi-images/chorten-kora-landmarks-v2.webp"},
+    image: "/poi-images/chorten-kora-landmarks-v2.webp",
+  },
   {
     id: "drametse-lhakhang-landmarks-v2",
     type: "landmark",
     parent: "BT-41",
     coords: [91.4644, 27.2794],
     name: { de: "Drametse Lhakhang", hu: "Drametse Lhakhang", ro: "Drametse Lhakhang", en: "Drametse Lhakhang",
-image: "/poi-images/drametse-lhakhang-landmarks-v2.webp"
 },
     description: {
       de: "Eines der größten und wichtigsten Klöster im Osten Bhutans. Es ist der Ursprungsort des berühmten Trommeltanzes von Drametse.",
@@ -323,16 +317,14 @@ image: "/poi-images/drametse-lhakhang-landmarks-v2.webp"
       ro: ["Fondată în secolul al XVI-lea.", "Dansul este în Patrimoniul Cultural Imaterial UNESCO.", "Situată pe un deal abrupt."],
       en: ["Founded in the 16th century.", "The dance is a UNESCO Intangible Cultural Heritage.", "Located on a steep hill."]
     },
-    factsAdvanced: {
-      multi4: ["Ani Cheten Zangmo gründete das Kloster nach einer Vision.", "Der Tanz symbolisiert die Unterwerfung von Dämonen.", "Das Kloster wurde durch ein Erdbeben im Jahr 2009 schwer beschädigt.", "Der Wiederaufbau wurde von der bhutanischen Regierung und internationalen Partnern unterstützt.", "Es beherbergt eine Gemeinschaft von etwa 80 Mönchen.", "Der Haupttempel enthält Statuen von Guru Rinpoche, Pema Lingpa und Ani Cheten Zangmo.", "Drametse ist ein abgelegenes Kloster, das eine lange Fahrt erfordert.", "Der Tanz wird bei Festivals immer am Ende aufgeführt, um Segen zu spenden."]
-    }, image: "/poi-images/drametse-lhakhang-landmarks-v2.webp"},
+    image: "/poi-images/drametse-lhakhang-landmarks-v2.webp",
+  },
   {
     id: "gasa-dzong-landmarks-v2",
     type: "landmark",
     parent: "BT-GA",
     coords: [89.7267, 27.9042],
     name: { de: "Gasa Dzong", hu: "Gasa Dzong", ro: "Gasa Dzong", en: "Gasa Dzong",
-image: "/poi-images/gasa-dzong-landmarks-v2.webp"
 },
     description: {
       de: "Eine historische Bergfestung, die im 17. Jahrhundert zum Schutz vor Angriffen aus dem Norden erbaut wurde. Sie zeichnet sich durch ihre runde Form aus.",
@@ -346,16 +338,14 @@ image: "/poi-images/gasa-dzong-landmarks-v2.webp"
       ro: ["Situată la o altitudine de 2850 de metri.", "Are trei turnuri de veghe.", "A servit drept avanpost de apărare împotriva Tibetului."],
       en: ["Located at an altitude of 2850 meters.", "Has three watchtowers.", "Served as a defense post against Tibet."]
     },
-    factsAdvanced: {
-      multi4: ["Der Name Tashi Thongmoen bedeutet 'Festung des guten Schicksals'.", "Der Dzong liegt in der Nähe der berühmten heißen Quellen von Gasa.", "Die Region ist bekannt für ihre Nomadenkultur und Yak-Herden.", "Der Wiederaufbau des Dzongs ist ein nationales Projekt.", "Der Dzong war historisch schwer zugänglich, was seine Verteidigung erleichterte.", "Gasa hat die kleinste Bevölkerung aller Distrikte in Bhutan.", "Der Dzong hat eine einzigartige Architektur mit drei 'Ta Dzongs' (Wachtürmen).", "Das Gasa Tshechu ist bekannt für seine einzigartigen Maskentänze."]
-    }, image: "/poi-images/gasa-dzong-landmarks-v2.webp"},
+    image: "/poi-images/gasa-dzong-landmarks-v2.webp",
+  },
   {
     id: "gangtey-monastery-landmarks-v2",
     type: "landmark",
     parent: "BT-24",
     coords: [90.1706, 27.4642],
     name: { de: "Gangtey-Kloster", hu: "Gangtey kolostor", ro: "Mănăstirea Gangtey", en: "Gangtey Monastery",
-image: "/poi-images/gangtey-monastery-landmarks-v2.webp"
 },
     description: {
       de: "Das größte Nyingma-Kloster Bhutans überblickt das malerische Phobjikha-Tal. Es ist ein architektonisches Meisterwerk mit aufwendigen Holzschnitzereien.",
@@ -369,16 +359,14 @@ image: "/poi-images/gangtey-monastery-landmarks-v2.webp"
       ro: ["Fondată în 1613.", "Loc important pentru protecția cocorilor.", "Restaurată extensiv recent."],
       en: ["Founded in 1613.", "Important site for crane conservation.", "Recently underwent extensive restoration."]
     },
-    factsAdvanced: {
-      multi4: ["Die Restaurierung dauerte von 2001 bis 2008.", "Das Kloster beherbergt eine Gemeinschaft von etwa 100 Mönchen.", "Der Gründer war die erste Reinkarnation des Gangtey Tulku.", "Die Schwarzhalskraniche kommen jedes Jahr im Oktober aus Tibet.", "Das Phobjikha-Tal ist ein geschütztes Naturschutzgebiet.", "Die Architektur des Klosters ist eine Mischung aus tibetischem und bhutanischem Stil.", "Der Haupttempel ist bekannt für seine exquisiten Holzschnitzereien.", "Vom Kloster aus hat man einen Panoramablick über das gesamte Tal."]
-    }, image: "/poi-images/gangtey-monastery-landmarks-v2.webp"},
+    image: "/poi-images/gangtey-monastery-landmarks-v2.webp",
+  },
   {
     id: "talo-dzong-landmarks-v2",
     type: "landmark",
     parent: "BT-23",
     coords: [89.8333, 27.5667],
     name: { de: "Talo Dzong", hu: "Talo Dzong", ro: "Talo Dzong", en: "Talo Dzong",
-image: "/poi-images/talo-dzong-landmarks-v2.webp"
 },
     description: {
       de: "Das Talo-Kloster liegt hoch oben in den Hügeln von Punakha. Das Dorf und der Dzong sind für ihre Sauberkeit und die schönen Gärten bekannt.",
@@ -392,9 +380,19 @@ image: "/poi-images/talo-dzong-landmarks-v2.webp"
       ro: ["Construită în 1767.", "Satul natal al celor patru regine ale celui de-al patrulea rege.", "Oferă vederi ample asupra văii."],
       en: ["Built in 1767.", "Home village of the four queens of the fourth King.", "Offers expansive views of the valley."]
     },
+    image: "/poi-images/talo-dzong-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Talo Dzong ist eine Festung im Punakha-Distrikt in Bhutan, die im 19. Jahrhundert erbaut wurde. Der Dzong dient als Verwaltungszentrum und Kloster und ist bekannt für seine traditionelle Architektur mit weißen Mauern und roten Dächern. Er liegt auf einem Hügel mit Blick auf das Punakha-Tal. Der Dzong beherbergt eine bedeutende Sammlung buddhistischer Reliquien und Manuskripte. Jährlich findet hier das Talo Tshechu statt, ein religiöses Festival mit maskierten Tänzen und Musik. Der Dzong wurde 1997 renoviert. Er ist ein wichtiges kulturelles und religiöses Zentrum für die Region. Die umliegende Landschaft ist geprägt von Reisterrassen und Pinienwäldern.",
+      hu: "Talo Dzong egy erődítmény a punakhai körzetben, Bhutánban, amely a 19. században épült. A dzong közigazgatási központként és kolostorként szolgál, hagyományos építészeti stílusban fehér falakkal és vörös tetőkkel. Egy dombon fekszik, rálátással a Punakha-völgyre. A dzong jelentős buddhista ereklye- és kéziratgyűjteménnyel rendelkezik. Évente itt rendezik a Talo Tshechu vallási fesztivált, maszkos táncokkal és zenével. A dzongot 1997-ben újították fel. Fontos kulturális és vallási központ a régióban. A környező tájat rizsteraszok és fenyőerdők jellemzik.",
+      ro: "Talo Dzong este o fortăreață în districtul Punakha, Bhutan, construită în secolul al XIX-lea. Dzongul servește ca centru administrativ și mănăstire, având arhitectură tradițională cu pereți albi și acoperișuri roșii. Este situat pe un deal cu vedere spre valea Punakha. Dzongul deține o colecție importantă de relicve budiste și manuscrise. În fiecare an, aici are loc Talo Tshechu, un festival religios cu dansuri mascate și muzică. Dzongul a fost renovat în 1997. Este un centru cultural și religios important pentru regiune. Peisajul din jur este caracterizat de terase de orez și păduri de pini.",
+      en: "Talo Dzong is a fortress in Punakha District, Bhutan, built in the 19th century. It serves as an administrative center and monastery, featuring traditional architecture with white walls and red roofs. Perched on a hill overlooking the Punakha valley, the dzong houses a significant collection of Buddhist relics and manuscripts. Annually, the Talo Tshechu festival is held here, featuring masked dances and music. The dzong was renovated in 1997. It is an important cultural and religious center for the region. The surrounding landscape is characterized by rice terraces and pine forests.",
+    },
     factsAdvanced: {
-      multi4: ["Das Dorf Talo ist bekannt für den Anbau von Süßerbsen.", "Der Dzong wurde 1767 erbaut.", "Der Zhabdrung ist eine wichtige reinkarnierte Linie in Bhutan.", "Das Talo Tshechu ist eines der beliebtesten Feste in der Region Punakha.", "Ein Thongdrel soll durch bloßen Anblick von Sünden befreien.", "Das Kloster hat eine Schule für junge Mönche.", "Die Königinnenmütter sind Gönnerinnen vieler religiöser und sozialer Projekte.", "Die Sauberkeit des Dorfes wird oft als vorbildlich für das ganze Land hervorgehoben."]
-    }
+      de: ["Baujahr: 19. Jahrhundert", "Höhe über dem Meeresspiegel: etwa 1.200 m", "Renovierung: 1997", "Anzahl der Mönche: etwa 100", "Jährliches Festival: Talo Tshechu", "Lage: Punakha-Distrikt, Bhutan"],
+      hu: ["Építés éve: 19. század", "Tengerszint feletti magasság: kb. 1.200 m", "Felújítás: 1997", "Szerzetesek száma: kb. 100", "Éves fesztivál: Talo Tshechu", "Elhelyezkedés: Punakha körzet, Bhután"],
+      ro: ["Anul construcției: secolul al XIX-lea", "Altitudine: aproximativ 1.200 m", "Renovare: 1997", "Număr de călugări: cca. 100", "Festival anual: Talo Tshechu", "Locație: districtul Punakha, Bhutan"],
+      en: ["Year built: 19th century", "Elevation: approx. 1,200 m", "Renovation: 1997", "Number of monks: about 100", "Annual festival: Talo Tshechu", "Location: Punakha District, Bhutan"],
+    },
   },
   {
     id: "tharpaling-monastery-landmarks-v2",
@@ -402,7 +400,6 @@ image: "/poi-images/talo-dzong-landmarks-v2.webp"
     parent: "BT-31",
     coords: [90.7214, 27.5186],
     name: { de: "Tharpaling-Kloster", hu: "Tharpaling kolostor", ro: "Mănăstirea Tharpaling", en: "Tharpaling Monastery",
-image: "/poi-images/tharpaling-monastery-landmarks-v2.webp"
 },
     description: {
       de: "Ein ruhiges Kloster an einem steilen Berghang im Chokhor-Tal. Es war ein wichtiger Meditationsort für den Gelehrten Longchenpa im 14. Jahrhundert.",
@@ -416,16 +413,14 @@ image: "/poi-images/tharpaling-monastery-landmarks-v2.webp"
       ro: ["Situată la aproximativ 3600 de metri altitudine.", "Adăpostește peșteri de meditație.", "Prezintă mai multe statui istorice."],
       en: ["Located at an altitude of about 3600 meters.", "Houses meditation caves.", "Features several historical statues."]
     },
-    factsAdvanced: {
-      multi4: ["Der Name 'Tharpaling' bedeutet 'Ort der Befreiung'.", "Longchenpa schrieb hier einige seiner wichtigsten Werke, die 'Sieben Schätze'.", "Das Kloster wurde im Laufe der Jahrhunderte mehrmals erweitert.", "Es gibt eine Höhle, in der Guru Rinpoche meditiert haben soll.", "Die Wanderung zum Kloster dauert etwa 2-3 Stunden.", "Viele berühmte buddhistische Meister haben Tharpaling besucht.", "Das Kloster beherbergt eine kleine Gemeinschaft von Mönchen und Einsiedlern.", "Der Ort ist bekannt für seine friedliche und kontemplative Atmosphäre."]
-    }, image: "/poi-images/tharpaling-monastery-landmarks-v2.webp"},
+    image: "/poi-images/tharpaling-monastery-landmarks-v2.webp",
+  },
   {
     id: "ogyen-choling-palace-landmarks-v2",
     type: "landmark",
     parent: "BT-31",
     coords: [90.8167, 27.5667],
     name: { de: "Ogyen-Choling-Palast", hu: "Ogyen Choling palota", ro: "Palatul Ogyen Choling", en: "Ogyen Choling Palace",
-image: "/poi-images/ogyen-choling-palace-landmarks-v2.webp"
 },
     description: {
       de: "Ein historisches Herrenhaus im Tang-Tal, das in ein faszinierendes Museum umgewandelt wurde. Es bietet einen Einblick in das Leben der bhutanischen Adligen.",
@@ -439,16 +434,14 @@ image: "/poi-images/ogyen-choling-palace-landmarks-v2.webp"
       ro: ["Construit în secolul al XIX-lea.", "Expune articole de uz casnic tradiționale.", "A fost odată un centru administrativ important."],
       en: ["Built in the 19th century.", "Displays traditional household items.", "Once served as a major administrative center."]
     },
-    factsAdvanced: {
-      multi4: ["Das Museum wurde 1999 gegründet.", "Der Name Ogyen Choling bedeutet 'Das Heiligtum von Guru Rinpoche'.", "Der zentrale Turm (Utse) ist das älteste Gebäude des Komplexes.", "Die Familie, der der Palast gehört, kann ihre Abstammung bis zu Dorje Lingpa zurückverfolgen.", "Das Museum hat eine beeindruckende Sammlung von traditionellen Masken.", "Die Einnahmen aus dem Museum und den Gästezimmern fließen in die Erhaltung des Palastes.", "Das Tang-Tal ist eines der abgelegensten Täler in Bumthang.", "Das Museum zeigt auch, wie bhutanischer Schnaps (Ara) hergestellt wurde."]
-    }, image: "/poi-images/ogyen-choling-palace-landmarks-v2.webp"},
+    image: "/poi-images/ogyen-choling-palace-landmarks-v2.webp",
+  },
   {
     id: "phajoding-monastery-landmarks-v2",
     type: "landmark",
     parent: "BT-15",
     coords: [89.5889, 27.4650],
     name: { de: "Phajoding-Kloster", hu: "Phajoding kolostor", ro: "Mănăstirea Phajoding", en: "Phajoding Monastery",
-image: "/poi-images/phajoding-monastery-landmarks-v2.webp"
 },
     description: {
       de: "Ein riesiger Klosterkomplex hoch über Thimphu, der durch eine steile Wanderung erreicht wird. Es war einst eines der reichsten Klöster des Landes.",
@@ -462,8 +455,18 @@ image: "/poi-images/phajoding-monastery-landmarks-v2.webp"
       ro: ["Fondată în secolul al XIII-lea.", "Cuprinde zece temple.", "Oferă adăpost călugărilor dezavantajați."],
       en: ["Founded in the 13th century.", "Comprises ten temples.", "Provides refuge for disadvantaged monks."]
     },
+    image: "/poi-images/phajoding-monastery-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Phajoding-Kloster ist ein historisches buddhistisches Kloster in den Hügeln oberhalb von Thimphu, Bhutan. Es wurde im 13. Jahrhundert gegründet und ist eines der ältesten Klöster der Region. Das Kloster besteht aus mehreren Tempeln und Wohngebäuden, die auf verschiedenen Ebenen an einem Berghang erbaut sind. Es beherbergt etwa 70 Mönche und ist bekannt für seine Wandmalereien und Statuen. Der Legende nach wurde das Kloster von Phajo Drugom Zhigpo, einem tibetischen Lama, gegründet. Es ist ein wichtiges Zentrum für die Drugpa-Kagyü-Schule des Buddhismus. Das Kloster bietet einen spektakulären Blick auf das Thimphu-Tal. Wanderer erreichen es über einen anspruchsvollen Pfad von Thimphu aus.",
+      hu: "A Phajoding kolostor egy történelmi buddhista kolostor a Thimphu feletti dombokon, Bhutánban. A 13. században alapították, és a régió egyik legrégebbi kolostora. Több templomból és lakóépületből áll, amelyek egy hegyoldal különböző szintjein épültek. Körülbelül 70 szerzetes lakja, és híres falfestményeiről és szoboralkotásairól. A legenda szerint a kolostort Phajo Drugom Zhigpo tibeti láma alapította. A buddhizmus Drugpa Kagyü iskolájának fontos központja. A kolostorból lenyűgöző kilátás nyílik a Thimphu-völgyre. Túrázók egy nehéz ösvényen érhetik el Thimphuból.",
+      ro: "Mănăstirea Phajoding este o mănăstire budistă istorică situată pe dealurile deasupra Thimphu, Bhutan. A fost fondată în secolul al XIII-lea și este una dintre cele mai vechi mănăstiri din regiune. Mănăstirea cuprinde mai multe temple și clădiri de locuit, construite pe diferite niveluri pe un versant de munte. Găzduiește aproximativ 70 de călugări și este cunoscută pentru picturile sale murale și statui. Conform legendei, mănăstirea a fost fondată de Phajo Drugom Zhigpo, un lama tibetan. Este un centru important al școlii Drugpa Kagyu a budismului. Mănăstirea oferă o vedere spectaculoasă asupra văii Thimphu. Drumeții o pot accesa pe un traseu dificil din Thimphu.",
+      en: "Phajoding Monastery is a historic Buddhist monastery in the hills above Thimphu, Bhutan. Founded in the 13th century, it is one of the oldest monasteries in the region. The monastery comprises several temples and residential buildings built on different levels on a mountainside. It houses around 70 monks and is known for its murals and statues. Legend holds that the monastery was founded by Phajo Drugom Zhigpo, a Tibetan lama. It is an important center for the Drugpa Kagyu school of Buddhism. The monastery offers spectacular views of the Thimphu valley. Hikers can reach it via a challenging trail from Thimphu.",
+    },
     factsAdvanced: {
-      multi4: ["Der Gründer, Phajo Drugom Zhigpo, ist in Bhutan als 'der bärtige Lama' bekannt.", "Das Kloster war ein wichtiger Haltepunkt auf dem alten 'Druk Path' Trek.", "2010 wurde Phajoding in die Liste der 5 am stärksten gefährdeten Kulturdenkmäler des World Monuments Fund aufgenommen.", "Eine Stiftung wurde gegründet, um die Mönche zu unterstützen und das Kloster zu erhalten.", "Das Kloster beherbergt mehrere heilige Reliquien.", "Die Wanderung beginnt am Motithang Takin Preserve.", "Im Winter ist das Kloster oft von Schnee bedeckt.", "Die Stille und Abgeschiedenheit des Ortes sind tiefgreifend."]
-    }
+      de: ["Gründung: 13. Jahrhundert", "Anzahl der Mönche: ca. 70", "Höhe: etwa 3.000 m über dem Meeresspiegel", "Gründer: Phajo Drugom Zhigpo", "Wanderweg von Thimphu: ca. 2 Stunden", "Zugehörigkeit: Drugpa-Kagyü-Schule"],
+      hu: ["Alapítás: 13. század", "Szerzetesek száma: kb. 70", "Tengerszint feletti magasság: kb. 3.000 m", "Alapító: Phajo Drugom Zhigpo", "Túraútvonal Thimphuból: kb. 2 óra", "Hovatartozás: Drugpa Kagyü iskola"],
+      ro: ["Fondare: secolul al XIII-lea", "Număr de călugări: cca. 70", "Altitudine: aproximativ 3.000 m", "Fondator: Phajo Drugom Zhigpo", "Traseu de drumeție din Thimphu: cca. 2 ore", "Afiliație: școala Drugpa Kagyu"],
+      en: ["Founded: 13th century", "Number of monks: approx. 70", "Elevation: about 3,000 m above sea level", "Founder: Phajo Drugom Zhigpo", "Hiking trail from Thimphu: about 2 hours", "Affiliation: Drugpa Kagyu school"],
+    },
   }
 ];

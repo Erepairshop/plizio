@@ -7,219 +7,386 @@ export const poiExtraZimbabweLifeV2: POI[] = [
     type: "kid-landmark",
     parent: "ZW-HA",
     coords: [31.0494, -17.8174],
-    name: { de: "Harare Botanischer Garten", hu: "Hararei Botanikus Kert", ro: "Grădina Botanică din Harare", en: "Harare Botanical Gardens",
-image: "/poi-images/harare-botanical-gardens-life-v2.webp"
-},
+    name: { de: "Harare Botanischer Garten", hu: "Hararei Botanikus Kert", ro: "Grădina Botanică din Harare", en: "Harare Botanical Gardens"},
+    image: "/poi-images/harare-botanical-gardens-life-v2.webp",
     description: { de: "Ein großer botanischer Garten in Harare mit vielen heimischen Pflanzen.", hu: "Egy nagy botanikus kert Hararében, sok őshonos növénnyel.", ro: "O grădină botanică mare din Harare cu multe plante native.", en: "A large botanical garden in Harare with many native plants." },
     facts: {
       de: ["Beheimatet über 900 Pflanzenarten.", "Beliebt für Picknicks."],
       hu: ["Több mint 900 növényfajnak ad otthont.", "Népszerű piknikezőhely."],
       ro: ["Găzduiește peste 900 de specii de plante.", "Popular pentru picnicuri."],
       en: ["Home to over 900 plant species.", "Popular for picnics."]
-    }, image: "/poi-images/harare-botanical-gardens-life-v2.webp"},
+    }, image: "/poi-images/harare-botanical-gardens-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Harare Botanical Gardens, auch bekannt als die National Botanic Gardens of Zimbabwe, wurden 1909 angelegt und erstrecken sich über 58 Hektar im Norden der Hauptstadt. Sie beherbergen über 1.000 Pflanzenarten, darunter viele endemische Bäume, Sträucher und Sukkulenten. Die Gärten sind in thematische Abschnitte gegliedert, wie den Rosengarten, den Farnwald und das Alpinum. Besonders sehenswert ist die Sammlung afrikanischer Aloe-Arten. Die Anlage dient auch der Forschung und Bildung, mit einem Herbarium, das über 50.000 Exemplare enthält. Die Gärten bieten Lebensraum für Vögel wie den Afrikanischen Eisvogel und den Bülbül. Trotz urbaner Umgebung sind sie ein wichtiges Refugium für die Biodiversität. Regelmäßig finden Führungen und Workshops statt. Die Gärten sind ein beliebtes Ausflugsziel für Einheimische und Touristen.",
+      hu: "A Harare Botanikus Kert Zimbabwe legrégebbi botanikus kertje, amelyet 1909-ben alapítottak. Területe 58 hektár, és több mint 1000 növényfajnak ad otthont. A kert gyűjteménye különösen gazdag afrikai orchideákban és aloékban. A létesítmény fontos szerepet játszik a növénytani kutatásban, és együttműködik nemzetközi intézményekkel. A kertben található egy gyógynövénykert is, ahol hagyományos afrikai gyógynövényeket mutatnak be. A látogatók megtekinthetik a sziklakerteket, a bambuszligetet és a pálmaházat. A kert madárvilága is gazdag, több mint 100 fajjal. Évente körülbelül 100 000 látogató érkezik ide. A botanikus kert oktatási programokat is kínál iskolások számára, és helyet ad tudományos konferenciáknak.",
+      ro: "Grădinile Botanice Harare, cunoscute și sub numele de Grădinile Botanice Naționale din Zimbabwe, au fost înființate în 1909 pe o suprafață de 58 de hectare. Colecția cuprinde peste 1.000 de specii de plante, inclusiv copaci indigeni, arbuști și suculente. Grădinile sunt împărțite în secțiuni tematice: grădina de trandafiri, pădurea de ferigi, grădina alpină și o colecție remarcabilă de aloe africane. De asemenea, există un herbariu cu peste 50.000 de exemplare. Grădinile oferă habitat pentru păsări precum pescărușul african și bulbuc. În ciuda amplasării urbane, ele constituie un refugiu important pentru biodiversitate. Vizitatorii pot participa la tururi ghidate și ateliere educative. Grădinile sunt o destinație populară atât pentru localnici, cât și pentru turiști, contribuind la conștientizarea conservării plantelor.",
+      en: "Harare Botanical Gardens, established in 1909, span 58 hectares in the northern part of Zimbabwe's capital. They house over 1,000 plant species, with a strong focus on indigenous flora. The gardens feature distinct sections including a rose garden, fern forest, rock garden, and a specialized aloe collection. The herbarium holds more than 50,000 preserved plant specimens, supporting research and conservation. The gardens serve as a green lung for Harare, attracting diverse birdlife. They also host educational programs for schools and public workshops on horticulture. Despite funding challenges, the gardens remain a vital center for botanical science and a peaceful retreat for city dwellers. Annual visitation is approximately 100,000 people. The gardens collaborate with international botanical networks for seed exchange and research.",
+    },
+    factsAdvanced: {
+      de: ["Die Gärten wurden 1909 angelegt.", "Die Fläche beträgt 58 Hektar.", "Über 1.000 Pflanzenarten sind vertreten.", "Das Herbarium enthält mehr als 50.000 Exemplare.", "Jährlich besuchen etwa 100.000 Menschen die Gärten.", "Die Sammlung umfasst 120 Aloe-Arten."],
+      hu: ["A kertet 1909-ben alapították.", "Területe 58 hektár.", "Több mint 1000 növényfaj található itt.", "A herbárium 50 000 példányt őriz.", "Évente körülbelül 100 000 látogató érkezik.", "A kertben 100 madárfaj figyelhető meg."],
+      ro: ["Grădinile au fost înființate în 1909.", "Suprafața totală este de 58 de hectare.", "Colecția include peste 1.000 de specii de plante.", "Herbariul conține peste 50.000 de probe.", "Aproximativ 100.000 de vizitatori vin anual.", "Grădinile găzduiesc 120 de specii de aloe."],
+      en: ["Harare Botanical Gardens were established in 1909.", "The gardens cover 58 hectares (143 acres).", "They contain over 1,000 plant species.", "The herbarium houses 50,000+ specimens.", "Annual visitor numbers exceed 100,000.", "The aloe collection includes 120 species."],
+    },
+  },
   {
     id: "kuimba-shiri-bird-park-life-v2",
     type: "animal-habitat",
     parent: "ZW-HA",
     coords: [30.8524, -17.9254],
-    name: { de: "Kuimba Shiri Vogelpark", hu: "Kuimba Shiri Madárpark", ro: "Parcul de Păsări Kuimba Shiri", en: "Kuimba Shiri Bird Park",
-image: "/poi-images/kuimba-shiri-bird-park-life-v2.webp"
-},
+    name: { de: "Kuimba Shiri Vogelpark", hu: "Kuimba Shiri Madárpark", ro: "Parcul de Păsări Kuimba Shiri", en: "Kuimba Shiri Bird Park"},
+    image: "/poi-images/kuimba-shiri-bird-park-life-v2.webp",
     description: { de: "Ein Vogelschutzgebiet am Lake Chivero.", hu: "Madárvédelmi terület a Chivero-tónál.", ro: "O rezervație de păsări pe malul lacului Chivero.", en: "A bird sanctuary on the shores of Lake Chivero." },
     facts: {
       de: ["Rettungsstation für verletzte Vögel.", "Über 400 Vogelarten in der Region."],
       hu: ["Mentőállomás sérült madaraknak.", "Több mint 400 madárfaj a régióban."],
       ro: ["Centru de salvare pentru păsări rănite.", "Peste 400 de specii de păsări în regiune."],
       en: ["Rescue center for injured birds.", "Over 400 bird species in the region."]
-    }, image: "/poi-images/kuimba-shiri-bird-park-life-v2.webp"},
+    }, image: "/poi-images/kuimba-shiri-bird-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kuimba Shiri Bird Park liegt am Ufer des Manyame-Sees, etwa 20 Kilometer westlich von Harare. Der 1987 gegründete Park beherbergt über 400 Vögel aus mehr als 100 Arten, darunter viele seltene und bedrohte Arten wie den afrikanischen Graupapagei und den Sekretär. Besucher können bei täglichen Flugshows die Greifvögel in Aktion erleben. Der Park hat sich auf die Zucht von Wasservögeln spezialisiert und betreibt ein erfolgreiches Auswilderungsprogramm für den Marabu. Die Anlage umfasst Volieren, einen Streichelzoo und einen botanischen Garten mit einheimischen Pflanzen. Der Park dient auch als Auffangstation für beschlagnahmte Wildvögel. Jährlich kommen etwa 50.000 Besucher. Die Einnahmen unterstützen den Artenschutz und die Aufklärung der Öffentlichkeit. Der Name 'Kuimba Shiri' bedeutet in der Shona-Sprache 'singende Vögel'.",
+      hu: "A Kuimba Shiri Bird Park Harare közelében, a Manyame-tó partján található. 1987-ben alapították, és több mint 400 madárnak ad otthont, 100 különböző fajból. A park specializálódott a ragadozó madarak bemutatására, és napi repülőshow-kat tart. Kiemelkedő a fehér gólyák és a marabuk tenyésztése. A park menedéket nyújt elkobzott vadmadarak számára is. A létesítményben található egy kis állatkert és egy botanikus kert. A park fontos szerepet játszik a madárvédelemben és a környezeti nevelésben. Évente mintegy 50 000 látogatót vonz. A park neve a shona nyelvből származik, jelentése 'éneklő madarak'. A park ad otthont a Zimbabwe Madárfesztiválnak is.",
+      ro: "Kuimba Shiri Bird Park este situat pe malul lacului Manyame, la aproximativ 20 km vest de Harare. Înființat în 1987, parcul adăpostește peste 400 de păsări din peste 100 de specii, inclusiv papagali cenușii africani și secretari. Parcul organizează spectacole zilnice cu păsări de pradă, demonstrând zborul șoimilor și vulturilor. De asemenea, parcul desfășoară programe de reproducere pentru specii amenințate, cum ar fi marabu. Instalațiile includ voliere, o grădină botanică și o zonă de contact. Parcul servește ca centru de reabilitare pentru păsări confiscate. Vizitarea anuală este de aproximativ 50.000 de persoane. Numele 'Kuimba Shiri' înseamnă 'păsări cântătoare' în limba shona. Parcul contribuie la conservarea păsărilor prin educație și cercetare.",
+      en: "Kuimba Shiri Bird Park, established in 1987, is located on the shores of Lake Manyame, 20 kilometers west of Harare. The park houses over 400 birds representing more than 100 species, with a focus on African raptors and waterfowl. Daily flight shows demonstrate the hunting skills of eagles, hawks, and owls. The park runs successful breeding programs for threatened species like the marabou stork and the African grey parrot. It also serves as a rescue center for illegally traded birds. The facility includes landscaped aviaries, a petting zoo, and a nature trail. With around 50,000 annual visitors, the park plays a key role in avian conservation education. The name 'Kuimba Shiri' means 'singing birds' in the Shona language. The park is a member of the Pan-African Association of Zoos and Aquaria.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1987 gegründet.", "Er beherbergt über 400 Vögel aus 100 Arten.", "Die Fläche beträgt 12 Hektar.", "Jährlich finden über 300 Flugshows statt.", "Das Auswilderungsprogramm hat 50 Marabus freigelassen.", "Die Besucherzahl liegt bei etwa 50.000 pro Jahr."],
+      hu: ["A parkot 1987-ben alapították.", "Több mint 400 madár él itt 100 fajból.", "A park területe 12 hektár.", "Évente 300 repülőshow-t tartanak.", "A marabu-tenyésztési program sikeres.", "A látogatók száma évente 50 000."],
+      ro: ["Parcul a fost fondat în 1987.", "Adăpostește peste 400 de păsări din 100 de specii.", "Suprafața parcului este de 12 hectare.", "Se organizează peste 300 de spectacole de zbor pe an.", "Programul de reproducere a marabu a eliberat 50 de păsări.", "Aproximativ 50.000 de vizitatori anual."],
+      en: ["Kuimba Shiri Bird Park was founded in 1987.", "It houses over 400 birds from 100 species.", "The park covers 12 hectares (30 acres).", "Daily flight shows occur 365 days a year.", "The breeding program has released 50 marabou storks.", "Annual visitation is about 50,000 people."],
+    },
+  },
   {
     id: "chipinge-coffee-region-life-v2",
     type: "agriculture",
     parent: "ZW-MA",
     coords: [32.6288, -20.1917],
-    name: { de: "Chipinge Kaffeeregion", hu: "Chipinge Kávé Régió", ro: "Regiunea de Cafea Chipinge", en: "Chipinge Coffee Region",
-image: "/poi-images/chipinge-coffee-region-life-v2.webp"
-},
+    name: { de: "Chipinge Kaffeeregion", hu: "Chipinge Kávé Régió", ro: "Regiunea de Cafea Chipinge", en: "Chipinge Coffee Region"},
+    image: "/poi-images/chipinge-coffee-region-life-v2.webp",
     description: { de: "Ein bekanntes landwirtschaftliches Gebiet für den Kaffeeanbau.", hu: "Ismert mezőgazdasági terület a kávétermesztéshez.", ro: "O zonă agricolă cunoscută pentru cultivarea cafelei.", en: "A well-known agricultural area for coffee cultivation." },
     facts: {
       de: ["Ideal für hochwertigen Arabica-Kaffee.", "Hochlandklima begünstigt das Wachstum."],
       hu: ["Ideális kiváló minőségű Arabica kávéhoz.", "A felföldi éghajlat kedvez a növekedésnek."],
       ro: ["Ideală pentru cafea Arabica de înaltă calitate.", "Clima de deal favorizează creșterea."],
       en: ["Ideal for high-quality Arabica coffee.", "Highland climate favors growth."]
-    }, image: "/poi-images/chipinge-coffee-region-life-v2.webp"},
+    }, image: "/poi-images/chipinge-coffee-region-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kaffeeanbauregion Chipinge liegt im Osten Simbabwes nahe der Grenze zu Mosambik, in den Ausläufern des Hochlands. Auf Höhen zwischen 1.000 und 1.500 Metern wird hier Arabica-Kaffee angebaut, der für sein mildes Aroma bekannt ist. Die Region profitierte von günstigen klimatischen Bedingungen mit jährlichen Niederschlägen von 1.200 mm. Der Kaffeeanbau begann in den 1950er Jahren und erreichte in den 1990er Jahren seinen Höhepunkt. Heute bewirtschaften etwa 500 Kleinbauern Kaffeeplantagen. Die Verarbeitung erfolgt meist nass, und die Bohnen werden lokal geröstet. Chipinge-Kaffee wird in Spezialitätencafés weltweit geschätzt. Die Region leidet jedoch unter schwankenden Weltmarktpreisen und dem Klimawandel. Dennoch bietet der Kaffeeanbau wirtschaftliche Chancen und trägt zur Erhaltung der Wälder bei.",
+      hu: "Chipinge kávétermő régió Zimbabwe keleti részén, a mozambiki határ közelében található. A terület 1000-1500 méteres tengerszint feletti magasságban fekszik, ami ideális az arabica kávé számára. A kávétermesztés az 1950-es években kezdődött, és az 1990-es években virágzott. Ma mintegy 500 kisgazda foglalkozik kávétermesztéssel. A régió éves csapadékmennyisége 1200 mm. A chipinge-i kávé jellegzetes, enyhén gyümölcsös ízvilágáról ismert. A feldolgozás hagyományos nedves eljárással történik. A kávét helyi pörkölők dolgozzák fel, és exportálják Európába és Amerikába. A kávétermesztés fontos bevételi forrás a helyi közösségek számára, de kihívásokat is jelent a piaci árak ingadozása.",
+      ro: "Regiunea cafelei Chipinge este situată în estul Zimbabwe, aproape de granița cu Mozambic, la altitudini cuprinse între 1.000 și 1.500 de metri. Aici se cultivă cafea Arabica, cunoscută pentru aroma sa blândă, cu note de ciocolată și fructe. Cultivarea cafelei a început în anii 1950 și a atins apogeul în anii 1990. Aproximativ 500 de fermieri mici cultivă cafea pe plantații de 1-2 hectare fiecare. Precipitațiile anuale de 1.200 mm și solurile vulcanice favorizează creșterea. Cafeaua este procesată prin metoda umedă și uscată la soare. Regiunea exportă în principal către Europa și Statele Unite. Cafenelele de specialitate apreciază profilul unic al boabelor. Cu toate acestea, sectorul se confruntă cu provocări legate de schimbările climatice și fluctuațiile prețurilor.",
+      en: "The Chipinge coffee region, located in eastern Zimbabwe near the Mozambique border, sits at elevations of 1,000 to 1,500 meters. It is known for producing high-quality Arabica coffee with a smooth, fruity profile. Coffee cultivation began in the 1950s and expanded significantly in the 1990s. Today, around 500 smallholder farmers grow coffee on plots averaging 1–2 hectares. Annual rainfall of 1,200 mm and well-drained soils create ideal growing conditions. Processing is predominantly wet, and beans are sun-dried. Chipinge coffee is exported to specialty markets in Europe and North America. The region faces challenges from climate variability and price volatility, but coffee remains a key cash crop. Cooperative initiatives help farmers access better prices and training. The sector employs thousands and supports rural livelihoods.",
+    },
+    factsAdvanced: {
+      de: ["Die Anbauhöhe liegt zwischen 1.000 und 1.500 Metern.", "Die jährlichen Niederschläge betragen 1.200 mm.", "Der Kaffeeanbau begann in den 1950er Jahren.", "Etwa 500 Kleinbauern bewirtschaften die Plantagen.", "Die Region produziert jährlich 300 Tonnen Kaffee.", "Der Export erfolgt hauptsächlich nach Europa und Nordamerika."],
+      hu: ["A termőterület 1000-1500 méter magasan fekszik.", "Az éves csapadékmennyiség 1200 mm.", "A kávétermesztés az 1950-es években indult.", "Körülbelül 500 kisgazda foglalkozik kávéval.", "Évente 300 tonna kávét termelnek.", "A kávét Európába és Észak-Amerikába exportálják."],
+      ro: ["Altitudinea de cultivare este între 1.000 și 1.500 m.", "Precipitațiile anuale sunt de 1.200 mm.", "Cultivarea cafelei a început în anii 1950.", "Aproximativ 500 de fermieri mici cultivă cafea.", "Producția anuală este de 300 de tone.", "Exportul principal este către Europa și SUA."],
+      en: ["Coffee is grown at altitudes of 1,000–1,500 meters.", "Annual rainfall averages 1,200 mm.", "Coffee cultivation started in the 1950s.", "Around 500 smallholder farmers are involved.", "Annual production is about 300 tons.", "Main export destinations are Europe and North America."],
+    },
+  },
   {
     id: "lowveld-sugar-plantations-life-v2",
     type: "agriculture",
     parent: "ZW-MV",
     coords: [31.5000, -21.0000],
-    name: { de: "Lowveld Zuckerrohrplantagen", hu: "Lowveld Cukornád Ültetvények", ro: "Plantațiile de Trestie de Zahăr Lowveld", en: "Lowveld Sugar Plantations",
-image: "/poi-images/lowveld-sugar-plantations-life-v2.webp"
-},
+    name: { de: "Lowveld Zuckerrohrplantagen", hu: "Lowveld Cukornád Ültetvények", ro: "Plantațiile de Trestie de Zahăr Lowveld", en: "Lowveld Sugar Plantations"},
+    image: "/poi-images/lowveld-sugar-plantations-life-v2.webp",
     description: { de: "Große Plantagen für den Zuckerrohranbau im Südosten.", hu: "Nagy ültetvények a cukornád termesztéséhez délkeleten.", ro: "Plantații mari pentru cultivarea trestiei de zahăr în sud-est.", en: "Large plantations for sugar cane cultivation in the southeast." },
     facts: {
       de: ["Wichtigster Zuckerproduzent Zimbabwes.", "Bewässerung durch große Staudämme."],
       hu: ["Zimbabwe legfontosabb cukortermelője.", "Öntözés nagy gátakból."],
       ro: ["Cel mai important producător de zahăr din Zimbabwe.", "Irigare prin baraje mari."],
       en: ["Zimbabwe's most important sugar producer.", "Irrigation via large dams."]
-    }, image: "/poi-images/lowveld-sugar-plantations-life-v2.webp"},
+    }, image: "/poi-images/lowveld-sugar-plantations-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lowveld-Zuckerplantagen erstrecken sich über die fruchtbaren Ebenen im Südosten Simbabwes, hauptsächlich in der Provinz Masvingo und entlang des Runde-Flusses. Auf einer Fläche von rund 40.000 Hektar wird Zuckerrohr angebaut, bewässert durch das Runde-Bewässerungssystem, eines der größten im Land. Die Ernte erfolgt maschinell und manuell während der Trockenzeit von Mai bis November. Die Zuckerrohrproduktion begann in den 1960er Jahren und ist heute ein wichtiger Wirtschaftszweig. Die Plantagen liefern Rohrzucker an die Zuckerfabriken in Triangle und Hippo Valley. Diese Fabriken verarbeiten jährlich über 2 Millionen Tonnen Zuckerrohr. Die Lowveld-Region trägt wesentlich zur nationalen Zuckerproduktion bei, die etwa 500.000 Tonnen pro Jahr beträgt. Neben Zucker wird auch Melasse und Bagasse produziert. Die Plantagen beschäftigen tausende Arbeiter und sind integraler Bestandteil der lokalen Wirtschaft.",
+      hu: "A Lowveld cukornádültetvényei Zimbabwe délkeleti részén, a Runde folyó mentén terülnek el. Körülbelül 40 000 hektáron termesztenek cukornádat, amelyet a Runde öntözőrendszer lát el vízzel. A cukornádtermesztés az 1960-as években kezdődött, mára az ország egyik legfontosabb mezőgazdasági ágazatává vált. A betakarítás májustól novemberig tart. A termést a Triangle és Hippo Valley cukorgyárak dolgozzák fel, amelyek évente több mint 2 millió tonna cukornádat dolgoznak fel. Zimbabwe éves cukortermelése körülbelül 500 000 tonna, ennek nagy része a Lowveldből származik. A melasz és a bagasz fontos melléktermékek. Az ültetvények több ezer embernek adnak munkát, és hozzájárulnak a helyi gazdasághoz. A régió a turisták számára is vonzó a vadrezervátumok közelsége miatt.",
+      ro: "Plantațiile de trestie de zahăr din Lowveld sunt situate în sud-estul Zimbabwe, de-a lungul râului Runde, pe o suprafață de aproximativ 40.000 de hectare. Acestea beneficiază de sistemul de irigații Runde, unul dintre cele mai mari din țară. Cultivarea trestiei de zahăr a început în anii 1960. Recoltarea are loc în sezonul uscat, din mai până în noiembrie. Trestia este procesată în fabricile din Triangle și Hippo Valley, care produc împreună peste 500.000 de tone de zahăr pe an. Melasa și bagasa sunt subproduse utilizate pentru producerea de etanol și energie. Plantațiile angajează mii de lucrători sezonieri și permanenți. Regiunea contribuie semnificativ la exporturile agricole ale Zimbabwe. În plus, zona este importantă pentru fauna sălbatică, cu rezervații naturale în apropiere.",
+      en: "The Lowveld sugar plantations cover approximately 40,000 hectares in southeastern Zimbabwe, centered on the Runde River. The Runde Irrigation Scheme, one of the largest in the country, supplies water for sugarcane cultivation. Sugar farming began in the 1960s and now dominates the local economy. Harvesting runs from May to November, with yields averaging 100 tons per hectare. The cane is processed at the Triangle and Hippo Valley sugar mills, which together produce around 500,000 tons of sugar annually. Byproducts include molasses and bagasse, used for ethanol and electricity generation. The plantations employ 15,000 workers during peak season. The industry is a major foreign exchange earner for Zimbabwe. The Lowveld's hot climate and fertile soils make it ideal for sugarcane, though water scarcity poses challenges.",
+    },
+    factsAdvanced: {
+      de: ["Die Plantagen bedecken 40.000 Hektar.", "Das Bewässerungssystem Runde versorgt die Felder.", "Die Zuckerrohrproduktion begann in den 1960er Jahren.", "Jährlich werden über 2 Millionen Tonnen Zuckerrohr verarbeitet.", "Die nationale Zuckerproduktion beträgt etwa 500.000 Tonnen.", "Die Plantagen beschäftigen 15.000 Saisonarbeiter."],
+      hu: ["Az ültetvények területe 40 000 hektár.", "A Runde öntözőrendszer biztosítja a vizet.", "A cukornádtermesztés az 1960-as években kezdődött.", "Évente több mint 2 millió tonna cukornádat dolgoznak fel.", "Az ország éves cukortermelése 500 000 tonna.", "A csúcsszezonban 15 000 munkás dolgozik az ültetvényeken."],
+      ro: ["Plantațiile acoperă 40.000 de hectare.", "Sistemul de irigații Runde este principalul furnizor de apă.", "Cultivarea trestiei a început în anii 1960.", "Peste 2 milioane de tone de trestie sunt procesate anual.", "Producția națională de zahăr este de 500.000 de tone pe an.", "Angajează 15.000 de muncitori sezonieri."],
+      en: ["The plantations cover 40,000 hectares (99,000 acres).", "The Runde Irrigation Scheme supplies water.", "Sugarcane farming started in the 1960s.", "Over 2 million tons of cane are processed annually.", "National sugar production is about 500,000 tons per year.", "The industry employs 15,000 seasonal workers."],
+    },
+  },
   {
     id: "drakensberg-conservation-center-life-v2",
     type: "animal-habitat",
     parent: "ZW-MV",
     coords: [30.9, -20.5],
-    name: { de: "Drakensberg Naturschutzzentrum", hu: "Drakensberg Természetvédelmi Központ", ro: "Centrul de Conservare Drakensberg", en: "Drakensberg Conservation Center",
-image: "/poi-images/drakensberg-conservation-center-life-v2.webp"
-},
+    name: { de: "Drakensberg Naturschutzzentrum", hu: "Drakensberg Természetvédelmi Központ", ro: "Centrul de Conservare Drakensberg", en: "Drakensberg Conservation Center"},
+    image: "/poi-images/drakensberg-conservation-center-life-v2.webp",
     description: { de: "Ein Schutzzentrum für Wildtiere in der Region.", hu: "Vadvédelmi központ a régióban.", ro: "Un centru de conservare a faunei sălbatice în regiune.", en: "A wildlife conservation center in the region." },
     facts: {
       de: ["Fokus auf Schutz bedrohter Arten.", "Bildungsprogramme für Schüler."],
       hu: ["Fókuszban a veszélyeztetett fajok védelme.", "Oktatási programok diákoknak."],
       ro: ["Accent pe protejarea speciilor amenințate.", "Programe educaționale pentru elevi."],
       en: ["Focus on protecting endangered species.", "Educational programs for students."]
-    }, image: "/poi-images/drakensberg-conservation-center-life-v2.webp"},
+    }, image: "/poi-images/drakensberg-conservation-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Drakensberg Conservation Center liegt im östlichen Hochland Simbabwes, in der Nähe der Stadt Nyanga, an den Ausläufern des Drakensberges. Das Zentrum wurde 1995 gegründet und widmet sich dem Schutz der Biodiversität der Region, insbesondere der endemischen Flora und Fauna. Auf einer Fläche von 200 Hektar werden Wiederaufforstungsprojekte durchgeführt und bedrohte Pflanzenarten wie die Wildbanane und der Baumfarn kultiviert. Das Zentrum betreibt auch eine Auffangstation für verletzte Wildtiere, darunter Paviane, Antilopen und Greifvögel. Besucher können an geführten Wanderungen teilnehmen und die einzigartige Berglandschaft erleben. Das Zentrum arbeitet eng mit lokalen Gemeinden zusammen, um nachhaltige Landnutzung zu fördern. Es ist ein wichtiger Bestandteil des Ökotourismus in der Region Nyanga. Jährlich werden etwa 10.000 Besucher gezählt.",
+      hu: "A Drakensberg Természetvédelmi Központ Zimbabwe keleti felvidékén, Nyanga közelében található. 1995-ben alapították, és a régió biológiai sokféleségének védelmére összpontosít. A 200 hektáros területen erdősítési programokat végeznek, és veszélyeztetett növényfajokat nevelnek, mint a vadbanán és a páfrányfa. A központ állatmenhelyként is működik, ahol sérült állatokat, például páviánokat, antilopokat és ragadozó madarakat ápolnak. A látogatók vezetett túrákon vehetnek részt. A központ együttműködik a helyi közösségekkel a fenntartható földhasználat előmozdításában. Évente mintegy 10 000 látogató érkezik. A központ fontos szerepet játszik a nyangai ökoturizmusban.",
+      ro: "Centrul de Conservare Drakensberg este situat în zonele înalte din estul Zimbabwe, lângă orașul Nyanga, la poalele Munților Drakensberg. Înființat în 1995, se concentrează pe protejarea biodiversității locale. Pe o suprafață de 200 de hectare, desfășoară proiecte de reîmpădurire și cultivă specii vegetale amenințate, precum banana sălbatică și ferigile arborescente. Centrul servește și ca sanctuar pentru animale sălbatice rănite, inclusiv babuini, antilope și păsări de pradă. Vizitatorii pot participa la drumeții ghidate pentru a observa peisajul montan. Centrul colaborează cu comunitățile locale pentru promovarea utilizării durabile a terenurilor. Contribuie la ecoturismul din regiunea Nyanga. Aproximativ 10.000 de vizitatori sunt înregistrați anual.",
+      en: "The Drakensberg Conservation Center, established in 1995, is located in Zimbabwe's Eastern Highlands near Nyanga. It spans 200 hectares and focuses on preserving the region's unique biodiversity, including montane forests and endemic species. The center runs reforestation programs and cultivates rare plants such as the wild banana and tree fern. It also operates a wildlife rehabilitation facility for injured animals like baboons, duikers, and eagles. Guided hikes allow visitors to explore the pristine landscape. The center engages local communities in sustainable agriculture and conservation education. It attracts around 10,000 visitors annually and supports ecotourism in Nyanga. Research projects monitor bird and mammal populations. The center is part of a network of conservation areas in the Eastern Highlands.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 1995 gegründet.", "Die Fläche beträgt 200 Hektar.", "Es werden Wiederaufforstungsprojekte auf 50 Hektar durchgeführt.", "Die Auffangstation versorgt jährlich 200 verletzte Tiere.", "Besucherzahl: etwa 10.000 pro Jahr.", "Die Höhe liegt zwischen 1.800 und 2.000 Metern."],
+      hu: ["A központot 1995-ben alapították.", "Területe 200 hektár.", "50 hektáron végeznek erdősítést.", "Évente 200 sérült állatot ápolnak.", "A látogatók száma évente 10 000.", "A terület tengerszint feletti magassága 1800-2000 méter."],
+      ro: ["Centrul a fost fondat în 1995.", "Suprafața este de 200 de hectare.", "Proiecte de reîmpădurire pe 50 de hectare.", "Sanctuarul tratează 200 de animale anual.", "Aproximativ 10.000 de vizitatori pe an.", "Altitudinea variază între 1.800 și 2.000 m."],
+      en: ["The center was founded in 1995.", "It covers 200 hectares (494 acres).", "Reforestation projects cover 50 hectares.", "The wildlife rehab center treats 200 animals annually.", "Annual visitation is about 10,000.", "Elevation ranges from 1,800 to 2,000 meters."],
+    },
+  },
   {
     id: "matobo-rhino-habitat-life-v2",
     type: "animal-habitat",
     parent: "ZW-MN",
     coords: [28.5, -20.5],
-    name: { de: "Matobo Nashorn-Lebensraum", hu: "Matobo Orrszarvú Élőhely", ro: "Habitatul de Rinoceri Matobo", en: "Matobo Rhino Habitat",
-image: "/poi-images/matobo-rhino-habitat-life-v2.webp"
-},
+    name: { de: "Matobo Nashorn-Lebensraum", hu: "Matobo Orrszarvú Élőhely", ro: "Habitatul de Rinoceri Matobo", en: "Matobo Rhino Habitat"},
+    image: "/poi-images/matobo-rhino-habitat-life-v2.webp",
     description: { de: "Ein bekanntes Reservat zum Schutz des Breit- und Spitzmaulnashorns.", hu: "Ismert rezervátum a széles- és keskenyszájú orrszarvú védelmére.", ro: "O rezervație cunoscută pentru protejarea rinocerului alb și negru.", en: "A known reserve for protecting white and black rhinos." },
     facts: {
       de: ["Weltweit wichtiges Schutzgebiet für Nashörner.", "Teil des Matobo-Nationalparks."],
       hu: ["Világszinten fontos védett terület orrszarvúaknak.", "A Matobo Nemzeti Park része."],
       ro: ["Zonă de conservare importantă la nivel mondial pentru rinoceri.", "Parte din Parcul Național Matobo."],
       en: ["Globally important reserve for rhinos.", "Part of Matobo National Park."]
-    }, image: "/poi-images/matobo-rhino-habitat-life-v2.webp"},
+    }, image: "/poi-images/matobo-rhino-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Matobo-Rhino-Lebensraum liegt im Matobo-Nationalpark in der Provinz Matabeleland South, etwa 35 Kilometer südlich von Bulawayo. Das Gebiet ist bekannt für seine Population des Breitmaulnashorns, die in den geschützten Tälern lebt. Der Nationalpark wurde 1953 gegründet und umfasst 427 Quadratkilometer. Die felsige Landschaft mit Granitformationen bietet ideale Bedingungen für Nashörner. Dank intensiver Schutzmaßnahmen, darunter bewaffnete Patrouillen und Überwachung, ist die Nashornpopulation von 30 Tieren in den 1990er Jahren auf über 100 angewachsen. Besucher können an geführten Pirschfahrten teilnehmen, um Nashörner aus nächster Nähe zu beobachten. Der Lebensraum ist auch Lebensraum für Leoparden, Hyänen und über 300 Vogelarten. Die Matobo-Hügel sind zudem kulturell bedeutsam, da sie Felsmalereien der San beherbergen. Der Schutz der Nashörner hat Priorität, und der Park arbeitet mit internationalen Organisationen zusammen.",
+      hu: "A Matobo Rhino Habitat a Matobo Nemzeti Parkban található, Bulawayótól 35 km-re délre. A parkot 1953-ban alapították, területe 427 négyzetkilométer. A sziklás táj és a völgyek ideális élőhelyet biztosítanak a szélesszájú orrszarvúak számára. A védelmi erőfeszítéseknek köszönhetően az orrszarvúk száma az 1990-es évek 30 egyedéről 100 fölé emelkedett. A parkban vezetett szafarik során lehet megfigyelni az állatokat. A terület leopárdoknak, hiénáknak és 300 madárfajnak is otthont ad. A Matobo-dombok sziklarajzairól is híresek. Az orrszarvú-védelem kiemelt fontosságú, nemzetközi együttműködéssel.",
+      ro: "Habitatul Rinocerilor Matobo este situat în Parcul Național Matobo, în provincia Matabeleland South, la aproximativ 35 km sud de Bulawayo. Parcul a fost înființat în 1953 și se întinde pe 427 km². Peisajul stâncos, cu formațiuni de granit, oferă un habitat excelent pentru rinocerii albi. Datorită măsurilor stricte de conservare, populația de rinoceri a crescut de la 30 de indivizi în anii 1990 la peste 100 în prezent. Vizitatorii pot participa la safari ghidate pentru a observa rinocerii. Parcul găzduiește, de asemenea, lei, leoparzi, hiene și peste 300 de specii de păsări. Dealurile Matobo sunt cunoscute pentru picturile rupestre ale poporului San. Protejarea rinocerilor este o prioritate, iar parcul colaborează cu organizații internaționale pentru combaterea braconajului.",
+      en: "The Matobo Rhino Habitat is part of Matobo National Park, 35 kilometers south of Bulawayo. Established in 1953, the park covers 427 square kilometers of granite kopjes and valleys. It is a stronghold for the white rhinoceros, with the population recovering from 30 individuals in the 1990s to over 100 today. Anti-poaching units monitor the rhinos closely, using tracking devices and patrols. Visitors can view rhinos on guided game drives. The park also hosts leopards, hyenas, and over 300 bird species. The Matobo Hills are a UNESCO World Heritage site for their rock art. The habitat is critical for rhino conservation in Zimbabwe, and the park engages in community-based conservation programs to reduce human-wildlife conflict.",
+    },
+    factsAdvanced: {
+      de: ["Der Matobo-Nationalpark wurde 1953 gegründet.", "Der Park umfasst 427 Quadratkilometer.", "Die Nashornpopulation stieg von 30 auf über 100 Tiere.", "Es gibt über 300 Vogelarten im Park.", "Die Felsmalereien sind bis zu 2.000 Jahre alt.", "Die Höhe der Granitformationen beträgt bis zu 100 Meter."],
+      hu: ["A Matobo Nemzeti Parkot 1953-ban alapították.", "Területe 427 négyzetkilométer.", "Az orrszarvúk száma 30-ról 100 fölé emelkedett.", "Több mint 300 madárfaj él itt.", "A sziklarajzok akár 2000 évesek is lehetnek.", "A gránitképződmények magassága eléri a 100 métert."],
+      ro: ["Parcul Național Matobo a fost înființat în 1953.", "Suprafața parcului este de 427 km².", "Populația de rinoceri a crescut de la 30 la peste 100.", "Peste 300 de specii de păsări sunt prezente.", "Picturile rupestre au până la 2.000 de ani vechime.", "Formațiunile de granit ajung la 100 m înălțime."],
+      en: ["Matobo National Park was established in 1953.", "The park covers 427 square kilometers (165 sq mi).", "Rhino population increased from 30 to over 100.", "Over 300 bird species have been recorded.", "Rock paintings date back up to 2,000 years.", "Granite formations reach 100 meters (330 ft) in height."],
+    },
+  },
   {
     id: "hwedza-farming-district-life-v2",
     type: "agriculture",
     parent: "ZW-ME",
     coords: [31.5, -18.5],
-    name: { de: "Hwedza Landwirtschaftsgebiet", hu: "Hwedza Mezőgazdasági Régió", ro: "Regiunea Agricolă Hwedza", en: "Hwedza Farming District",
-image: "/poi-images/hwedza-farming-district-life-v2.webp"
-},
+    name: { de: "Hwedza Landwirtschaftsgebiet", hu: "Hwedza Mezőgazdasági Régió", ro: "Regiunea Agricolă Hwedza", en: "Hwedza Farming District"},
+    image: "/poi-images/hwedza-farming-district-life-v2.webp",
     description: { de: "Ein landwirtschaftlich intensiv genutztes Gebiet mit Fokus auf Mais und Tabak.", hu: "Intenzíven mezőgazdasági terület, kukorica és dohánytermesztéssel.", ro: "O zonă agricolă intens utilizată, cu accent pe porumb și tutun.", en: "An intensely farmed district with focus on maize and tobacco." },
     facts: {
       de: ["Traditionelle Tabakanbaugebiete.", "Wichtige Nahrungsmittelquelle."],
       hu: ["Hagyományos dohánytermesztő régiók.", "Fontos élelmiszerforrás."],
       ro: ["Regiuni tradiționale de cultivare a tutunului.", "Sursă importantă de hrană."],
       en: ["Traditional tobacco growing regions.", "Important food source."]
-    }, image: "/poi-images/hwedza-farming-district-life-v2.webp"},
+    }, image: "/poi-images/hwedza-farming-district-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Landwirtschaftsdistrikt Hwedza liegt in der Provinz Mashonaland East im Nordosten Simbabwes, etwa 120 Kilometer östlich von Harare. Die Region ist bekannt für den Anbau von Mais, Tabak und Baumwolle. Die durchschnittliche Niederschlagsmenge beträgt 800 mm pro Jahr, was den Regenfeldbau begünstigt. Die Landwirtschaft begann in den 1920er Jahren mit der Besiedlung durch europäische Farmer. Heute bewirtschaften sowohl Großfarmen als auch Kleinbauern das Land. Der Distrikt ist auch für seine Viehzucht bekannt, insbesondere für Rinder. Hwedza hat eine Bevölkerung von etwa 100.000 Menschen, die hauptsächlich in der Landwirtschaft tätig sind. Trotz Herausforderungen wie Dürren und wirtschaftlicher Instabilität bleibt die Region ein wichtiger Nahrungsmittelproduzent. Genossenschaften helfen Kleinbauern beim Zugang zu Märkten. Der Distrikt spielt eine Rolle in der nationalen Ernährungssicherheit.",
+      hu: "Hwedza mezőgazdasági körzet Zimbabwe keleti részén, Mashonaland East tartományban található, Harare-től 120 km-re keletre. A régió fő terményei a kukorica, a dohány és a gyapot. Az éves csapadékmennyiség 800 mm. A mezőgazdaság az 1920-as években kezdődött európai telepesekkel. Ma nagyüzemek és kisgazdák egyaránt gazdálkodnak itt. A körzet híres szarvasmarha-tenyésztéséről is. Hwedza lakossága mintegy 100 000 fő, akik többsége mezőgazdaságból él. A régió fontos élelmiszer-termelő, bár aszályokkal és gazdasági nehézségekkel küzd. A szövetkezetek segítik a kisgazdákat a piacra jutásban.",
+      ro: "Districtul agricol Hwedza este situat în provincia Mashonaland East, la aproximativ 120 km est de Harare. Regiunea este cunoscută pentru cultivarea porumbului, tutunului și bumbacului. Precipitațiile anuale medii sunt de 800 mm. Agricultura a început în anii 1920 odată cu colonizarea europeană. Astăzi, atât fermele mari, cât și micii fermieri cultivă pământul. Hwedza este, de asemenea, importantă pentru creșterea vitelor. Populația de aproximativ 100.000 de locuitori depinde în principal de agricultură. În ciuda provocărilor precum seceta și instabilitatea economică, districtul rămâne un producător agricol cheie. Cooperativele sprijină fermierii mici în accesarea piețelor.",
+      en: "Hwedza Farming District, located in Mashonaland East province, 120 kilometers east of Harare, is an important agricultural area. The district grows maize, tobacco, and cotton under rain-fed conditions, with average annual rainfall of 800 mm. Farming started in the 1920s with white settlers, and today the land is farmed by both commercial estates and smallholders. Hwedza also has significant cattle ranching. The population of around 100,000 is predominantly engaged in agriculture. The district contributes to national food security, but faces challenges from erratic rainfall and economic pressures. Farmer cooperatives and extension services help improve productivity. Hwedza's tobacco is particularly prized for its flavor. The district also produces groundnuts and vegetables for local markets.",
+    },
+    factsAdvanced: {
+      de: ["Die jährliche Niederschlagsmenge beträgt 800 mm.", "Der Distrikt hat eine Bevölkerung von etwa 100.000.", "Die Landwirtschaft begann in den 1920er Jahren.", "Mais, Tabak und Baumwolle sind die Hauptkulturen.", "Die Fläche des Distrikts beträgt 2.500 Quadratkilometer.", "Es gibt 500 landwirtschaftliche Betriebe."],
+      hu: ["Az éves csapadékmennyiség 800 mm.", "A körzet lakossága mintegy 100 000 fő.", "A mezőgazdaság az 1920-as években indult.", "Fő termények: kukorica, dohány, gyapot.", "A körzet területe 2500 négyzetkilométer.", "500 mezőgazdasági üzem működik itt."],
+      ro: ["Precipitațiile anuale sunt de 800 mm.", "Populația districtului este de aproximativ 100.000.", "Agricultura a început în anii 1920.", "Principalele culturi sunt porumbul, tutunul și bumbacul.", "Suprafața districtului este de 2.500 km².", "Există 500 de ferme înregistrate."],
+      en: ["Average annual rainfall is 800 mm.", "The district has a population of about 100,000.", "Farming began in the 1920s.", "Main crops: maize, tobacco, cotton.", "The district covers 2,500 square kilometers.", "There are 500 registered farming units."],
+    },
+  },
   {
     id: "nyanga-trout-farm-life-v2",
     type: "agriculture",
     parent: "ZW-MA",
     coords: [32.7, -18.2],
-    name: { de: "Nyanga Forellenfarm", hu: "Nyanga Pisztráng Farm", ro: "Ferma de Păstrăvi Nyanga", en: "Nyanga Trout Farm",
-image: "/poi-images/nyanga-trout-farm-life-v2.webp"
-},
+    name: { de: "Nyanga Forellenfarm", hu: "Nyanga Pisztráng Farm", ro: "Ferma de Păstrăvi Nyanga", en: "Nyanga Trout Farm"},
+    image: "/poi-images/nyanga-trout-farm-life-v2.webp",
     description: { de: "Forellenzucht in den kühlen Höhenlagen von Nyanga.", hu: "Pisztrángtenyésztés Nyanga hűvös magaslataiban.", ro: "Păstrăvărie în zonele înalte și răcoroase din Nyanga.", en: "Trout farming in the cool highlands of Nyanga." },
     facts: {
       de: ["Beliebtes Ziel für Angler.", "Frisches Bergwasser aus den Flüssen."],
       hu: ["Kedvelt célpont horgászoknak.", "Friss hegyi víz a folyókból."],
       ro: ["Destinație populară pentru pescari.", "Apă proaspătă de munte din râuri."],
       en: ["Popular destination for anglers.", "Fresh mountain water from rivers."]
-    }, image: "/poi-images/nyanga-trout-farm-life-v2.webp"},
+    }, image: "/poi-images/nyanga-trout-farm-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Nyanga-Forellenfarm liegt im östlichen Hochland Simbabwes, in der Nähe des Nyanga-Dorfes, auf einer Höhe von 1.800 Metern. Die Farm wurde in den 1950er Jahren gegründet und nutzt das klare, kalte Wasser der Nyanga-Bäche für die Aufzucht von Regenbogenforellen. Die jährliche Produktion beträgt etwa 50 Tonnen Forellen. Die Farm ist eine der wenigen Forellenzuchten in Simbabwe und beliefert vor allem Hotels und Restaurants in Harare. Die Forellen werden in Teichen und Durchflusskanälen gehalten. Das Wasser stammt aus den nahegelegenen Bergen und ist reich an Sauerstoff. Besucher können angeln oder die Farm besichtigen. Die Farm ist auch ein beliebtes Ziel für Wochenendausflüge. Das kühle Klima der Region begünstigt die Fischzucht. Die Farm beschäftigt rund 30 Mitarbeiter. Sie trägt zur lokalen Wirtschaft bei und bietet frische Produkte für die regionale Gastronomie.",
+      hu: "A Nyanga Pisztrángfarm Zimbabwe keleti felvidékén, Nyanga közelében, 1800 méteres tengerszint feletti magasságban található. Az 1950-es években alapították, és a tiszta, hideg hegyi patakok vizét használja a szivárványos pisztráng tenyésztésére. Az éves termelés mintegy 50 tonna. A farm az egyik kevés pisztrángtenyészet az országban, főként hararei szállodákba és éttermekbe szállít. A halakat tavakban és átfolyó csatornákban nevelik. A víz a közeli hegyekből származik, oxigénben gazdag. A látogatók horgászhatnak vagy megtekinthetik a farmot. A farm népszerű hétvégi kirándulóhely. A hűvös éghajlat kedvez a haltenyésztésnek. A farm mintegy 30 alkalmazottat foglalkoztat.",
+      ro: "Ferma de păstrăvi Nyanga este situată în zonele înalte din estul Zimbabwe, lângă satul Nyanga, la o altitudine de 1.800 de metri. Înființată în anii 1950, folosește apa rece și limpede a pârâurilor pentru creșterea păstrăvilor curcubeu. Producția anuală este de aproximativ 50 de tone. Ferma este una dintre puținele crescătorii de păstrăv din Zimbabwe, aprovizionând în principal hoteluri și restaurante din Harare. Păstrăvii sunt crescuți în iazuri și canale cu apă curgătoare. Apa provine din munții din apropiere, bogată în oxigen. Vizitatorii pot pescui sau vizita ferma. Este o destinație populară pentru excursii de weekend. Clima rece favorizează acvacultura. Ferma angajează aproximativ 30 de persoane.",
+      en: "Nyanga Trout Farm, located in Zimbabwe's Eastern Highlands near Nyanga village at 1,800 meters elevation, was established in the 1950s. It cultivates rainbow trout in cold, oxygen-rich water from mountain streams. Annual production is around 50 tons, supplying hotels and restaurants in Harare and local lodges. The farm uses raceways and ponds with a constant flow of fresh water. It is one of the few trout farms in the country. Visitors can fish, with a catch-and-release option, or tour the facilities. The cool climate and pristine water make it ideal for trout farming. The farm employs about 30 people and supports agro-tourism. It also sells smoked trout and other products. The farm plays a role in diversifying Zimbabwe's aquaculture sector.",
+    },
+    factsAdvanced: {
+      de: ["Die Farm liegt auf 1.800 Metern Höhe.", "Sie wurde in den 1950er Jahren gegründet.", "Die jährliche Produktion beträgt 50 Tonnen.", "Es werden Regenbogenforellen gezüchtet.", "Die Wassertemperatur beträgt das ganze Jahr 12 °C.", "Die Farm beschäftigt 30 Mitarbeiter."],
+      hu: ["A farm 1800 méteres magasságban fekszik.", "Az 1950-es években alapították.", "Az éves termelés 50 tonna.", "Szivárványos pisztrángot tenyésztenek.", "A víz hőmérséklete egész évben 12 °C.", "30 alkalmazottat foglalkoztat."],
+      ro: ["Ferma este situată la 1.800 m altitudine.", "A fost înființată în anii 1950.", "Producția anuală este de 50 de tone.", "Se cultivă păstrăv curcubeu.", "Temperatura apei este constantă de 12 °C.", "Angajează 30 de persoane."],
+      en: ["The farm sits at an elevation of 1,800 meters.", "It was established in the 1950s.", "Annual production is 50 tons of trout.", "Rainbow trout is the main species raised.", "Water temperature stays at 12°C year-round.", "It employs 30 full-time staff."],
+    },
+  },
   {
     id: "gweru-antelope-park-life-v2",
     type: "animal-habitat",
     parent: "ZW-MI",
     coords: [29.8, -19.4],
-    name: { de: "Gweru Antilopenpark", hu: "Gweru Antilop Park", ro: "Parcul Antilopelor Gweru", en: "Gweru Antelope Park",
-image: "/poi-images/gweru-antelope-park-life-v2.webp"
-},
+    name: { de: "Gweru Antilopenpark", hu: "Gweru Antilop Park", ro: "Parcul Antilopelor Gweru", en: "Gweru Antelope Park"},
+    image: "/poi-images/gweru-antelope-park-life-v2.webp",
     description: { de: "Ein Schutzgebiet, das sich auf Löwen und andere Wildtiere konzentriert.", hu: "Védett terület, amely oroszlánokra és más vadvilágra fókuszál.", ro: "O zonă de conservare care se concentrează pe lei și alte animale sălbatice.", en: "A sanctuary focusing on lions and other wildlife." },
     facts: {
       de: ["Bietet Löwen-Auswilderungsprogramme.", "Sehr bekannt für Tierbeobachtungen."],
       hu: ["Oroszlán-visszatelepítési programokat kínál.", "Nagyon ismert vadvilág megfigyelésére."],
       ro: ["Oferă programe de reintroducere a leilor în sălbăticie.", "Foarte cunoscut pentru observarea animalelor."],
       en: ["Offers lion release programs.", "Very well known for wildlife viewing."]
-    }, image: "/poi-images/gweru-antelope-park-life-v2.webp"},
+    }, image: "/poi-images/gweru-antelope-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gweru Antelope Park liegt am Rande der Stadt Gweru in der Provinz Midlands und erstreckt sich über 50 Hektar. Der Park wurde 1995 gegründet und beherbergt über 200 Antilopen verschiedener Arten, darunter die Große Kudu, der Nyala und der Wasserbock. Die Tiere leben in naturnah gestalteten Gehegen. Der Park dient auch als Zuchtstation für bedrohte Antilopenarten. Besucher können auf geführten Touren die Tiere beobachten und füttern. Der Park hat ein Bildungsprogramm für Schulen entwickelt. Er ist ein beliebtes Ausflugsziel für Familien und Touristen. Der Park beschäftigt 15 Mitarbeiter und wird durch Eintrittsgelder finanziert. Die Tiere erhalten eine ausgewogene Ernährung und tierärztliche Betreuung. Der Park arbeitet mit dem Umweltministerium zusammen, um den Artenschutz zu fördern.",
+      hu: "A Gweru Antilop Park Gweru város szélén található, a Midlands tartományban, 50 hektáron. 1995-ben alapították, és több mint 200 antilopnak ad otthont, köztük nagykudu, nyala és víziantilop fajoknak. Az állatok természetközeli kifutókban élnek. A park veszélyeztetett fajok tenyésztésével is foglalkozik. A látogatók vezetett túrákon figyelhetik meg az állatokat és etethetik őket. A park iskolai oktatási programokat is kínál. Családok és turisták körében népszerű. 15 alkalmazottat foglalkoztat, és a belépőjegyekből tartja fenn magát.",
+      ro: "Parcul Antilopelor din Gweru este situat la marginea orașului Gweru, în provincia Midlands, pe o suprafață de 50 de hectare. A fost înființat în 1995 și găzduiește peste 200 de antilope de diverse specii, inclusiv kudu mare, nyala și antilopă de apă. Animalele trăiesc în incinte naturale. Parcul servește și ca centru de reproducere pentru specii amenințate. Vizitatorii pot face tururi ghidate pentru a observa și hrăni antilopele. Parcul oferă programe educaționale pentru școli. Este o destinație populară pentru familii și turiști. Angajează 15 persoane și se finanțează din taxe de intrare.",
+      en: "Gweru Antelope Park, located on the outskirts of Gweru in Zimbabwe's Midlands province, covers 50 hectares. Established in 1995, it houses over 200 antelopes representing species such as greater kudu, nyala, and waterbuck. The park provides spacious, naturalistic enclosures and runs a breeding program for endangered antelope. Guided tours allow visitors to observe and feed the animals. The park also hosts school groups for conservation education. It is a popular family attraction, with picnic areas and a playground. The park employs 15 staff and relies on visitor fees. It collaborates with wildlife authorities to support antelope conservation. The park has a veterinary clinic on site.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde 1995 gegründet.", "Die Fläche beträgt 50 Hektar.", "Es leben über 200 Antilopen im Park.", "Es gibt 10 verschiedene Antilopenarten.", "Der Park beschäftigt 15 Mitarbeiter.", "Jährlich werden 20.000 Besucher gezählt."],
+      hu: ["A parkot 1995-ben alapították.", "Területe 50 hektár.", "Több mint 200 antilop él itt.", "10 antilopfaj található a parkban.", "15 alkalmazottat foglalkoztat.", "Évente 20 000 látogató érkezik."],
+      ro: ["Parcul a fost fondat în 1995.", "Suprafața este de 50 de hectare.", "Adăpostește peste 200 de antilope.", "Parcul are 10 specii de antilope.", "Angajează 15 angajați.", "Numărul anual de vizitatori este de 20.000."],
+      en: ["The park was established in 1995.", "It covers 50 hectares (124 acres).", "Over 200 antelopes reside here.", "There are 10 antelope species represented.", "The park employs 15 staff members.", "Annual visitation is about 20,000."],
+    },
+  },
   {
     id: "zambezi-valley-habitat-life-v2",
     type: "animal-habitat",
     parent: "ZW-MN",
     coords: [29.5, -16.5],
-    name: { de: "Sambezi-Tal Lebensraum", hu: "Zambézi-völgy Élőhely", ro: "Habitatul din Valea Zambezi", en: "Zambezi Valley Habitat",
-image: "/poi-images/zambezi-valley-habitat-life-v2.webp"
-},
+    name: { de: "Sambezi-Tal Lebensraum", hu: "Zambézi-völgy Élőhely", ro: "Habitatul din Valea Zambezi", en: "Zambezi Valley Habitat"},
+    image: "/poi-images/zambezi-valley-habitat-life-v2.webp",
     description: { de: "Ein reiches Ökosystem entlang des Sambesi-Flusses.", hu: "Gazdag ökoszisztéma a Zambézi folyó mentén.", ro: "Un ecosistem bogat de-a lungul râului Zambezi.", en: "A rich ecosystem along the Zambezi River." },
     facts: {
       de: ["Beheimatet Elefanten und Flusspferde.", "Wichtige Wanderroute für Tiere."],
       hu: ["Elefántoknak és vízilovaknak ad otthont.", "Fontos vándorlási útvonal az állatoknak."],
       ro: ["Găzduiește elefanți și hipopotami.", "Rută importantă de migrație pentru animale."],
       en: ["Home to elephants and hippos.", "Important migration route for animals."]
-    }, image: "/poi-images/zambezi-valley-habitat-life-v2.webp"},
+    }, image: "/poi-images/zambezi-valley-habitat-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sambesi-Tal-Lebensraum erstreckt sich entlang des Sambesi-Flusses im Norden Simbabwes, zwischen den Städten Kariba und Victoria Falls. Die Region umfasst eine Fläche von etwa 10.000 Quadratkilometern und ist bekannt für ihre reiche Tierwelt, darunter Elefanten, Büffel, Löwen und über 400 Vogelarten. Der Lebensraum besteht aus Mopane-Wäldern, Überschwemmungsgebieten und Flussufern. Die jährliche Niederschlagsmenge beträgt 700 mm, mit einer ausgeprägten Trockenzeit. Das Gebiet ist Teil des Kavango-Sambesi-Grenzüberschreitenden Schutzgebiets. Die Wilderei ist eine ständige Bedrohung, aber Schutzprogramme haben die Bestände stabilisiert. Der Tourismus ist eine wichtige Einnahmequelle, mit Lodges und Safarianbietern. Der Lebensraum ist auch für seine Fischbestände bekannt, insbesondere für den Tigerfisch. Die lokalen Gemeinden sind in gemeinschaftsbasierte Naturschutzprojekte eingebunden.",
+      hu: "A Zambézi-völgyi élőhely Zimbabwe északi részén, a Zambézi folyó mentén húzódik, Kariba és Victoria Falls között. Területe mintegy 10 000 négyzetkilométer, és gazdag vadállományáról ismert: elefántok, bivalyok, oroszlánok és 400 madárfaj él itt. Az élőhely mopánerdőkből, ártéri területekből és folyópartokból áll. Az éves csapadékmennyiség 700 mm. A terület a Kavango-Zambézi Határokon Átnyúló Védett Terület része. Az orvvadászat állandó fenyegetés, de a védelmi programok stabilizálták az állományokat. A turizmus fontos bevételi forrás, számos szálláshellyel és szafarilehetőséggel. A folyó híres a tigris halról. A helyi közösségek részt vesznek a természetvédelmi projektekben.",
+      ro: "Habitatul Văii Zambezi se întinde de-a lungul râului Zambezi în nordul Zimbabwe, între orașele Kariba și Victoria Falls. Regiunea acoperă aproximativ 10.000 km² și este renumită pentru fauna bogată, inclusiv elefanți, bivoli, lei și peste 400 de specii de păsări. Habitatul include păduri de mopane, zone inundabile și maluri de râu. Precipitațiile anuale sunt de 700 mm. Zona face parte din zona de conservare transfrontalieră Kavango-Zambezi. Braconajul reprezintă o amenințare, dar programele de conservare au stabilizat populațiile. Turismul este o sursă majoră de venit, cu cabane și safariuri. Râul este renumit pentru peștele tigru. Comunitățile locale sunt implicate în proiecte de conservare comunitară.",
+      en: "The Zambezi Valley Habitat stretches along the Zambezi River in northern Zimbabwe, between Kariba and Victoria Falls. It covers approximately 10,000 square kilometers and supports diverse wildlife including elephants, buffalo, lions, and over 400 bird species. The habitat comprises mopane woodlands, floodplains, and riverine forests. Annual rainfall is around 700 mm, with a distinct dry season. The area is part of the Kavango-Zambezi Transfrontier Conservation Area. Poaching remains a challenge, but anti-poaching patrols and community programs have helped stabilize populations. Tourism drives the local economy, with numerous lodges and safari operators. The river is famous for tiger fishing. Local communities benefit from revenue-sharing schemes. The valley also hosts archaeological sites.",
+    },
+    factsAdvanced: {
+      de: ["Die Region umfasst etwa 10.000 Quadratkilometer.", "Es gibt über 400 Vogelarten.", "Die jährliche Niederschlagsmenge beträgt 700 mm.", "Der Sambesi ist der viertlängste Fluss Afrikas.", "Die Elefantenpopulation wird auf 10.000 geschätzt.", "Der Kavango-Sambesi-Schutzgebiet ist 520.000 km² groß."],
+      hu: ["A régió területe mintegy 10 000 négyzetkilométer.", "Több mint 400 madárfaj él itt.", "Az éves csapadékmennyiség 700 mm.", "A Zambézi Afrika negyedik leghosszabb folyója.", "Az elefántok számát 10 000-re becsülik.", "A Kavango-Zambézi védett terület 520 000 km²."],
+      ro: ["Regiunea acoperă aproximativ 10.000 km².", "Peste 400 de specii de păsări sunt prezente.", "Precipitațiile anuale sunt de 700 mm.", "Zambezi este al patrulea râu ca lungime din Africa.", "Populația de elefanți este estimată la 10.000.", "Zona de conservare Kavango-Zambezi are 520.000 km²."],
+      en: ["The region covers approximately 10,000 square kilometers.", "Over 400 bird species are recorded.", "Average annual rainfall is 700 mm.", "The Zambezi River is the fourth longest in Africa.", "Elephant population is estimated at 10,000.", "Kavango-Zambezi TFCA spans 520,000 square kilometers."],
+    },
+  },
   {
     id: "victoria-falls-wildlife-center-life-v2",
     type: "animal-habitat",
     parent: "ZW-MN",
     coords: [25.8, -17.9],
-    name: { de: "Victoria Falls Wildtierzentrum", hu: "Victoria Falls Vadvédelmi Központ", ro: "Centrul de Faună Sălbatică Victoria Falls", en: "Victoria Falls Wildlife Center",
-image: "/poi-images/victoria-falls-wildlife-center-life-v2.webp"
-},
+    name: { de: "Victoria Falls Wildtierzentrum", hu: "Victoria Falls Vadvédelmi Központ", ro: "Centrul de Faună Sălbatică Victoria Falls", en: "Victoria Falls Wildlife Center"},
+    image: "/poi-images/victoria-falls-wildlife-center-life-v2.webp",
     description: { de: "Ein Zentrum in der Nähe der Wasserfälle zur Hilfe für Wildtiere.", hu: "Központ a vízesések közelében a vadvilág segítésére.", ro: "Un centru în apropierea cascadei pentru ajutorarea faunei sălbatice.", en: "A center near the falls for assisting wildlife." },
     facts: {
       de: ["Hilfe bei verletzten Tieren der Umgebung.", "Bildungszentrum für Ökologie."],
       hu: ["Segítség a környékbeli sérült állatoknak.", "Ökológiai oktatási központ."],
       ro: ["Ajutor pentru animalele rănite din împrejurimi.", "Centru educațional pentru ecologie."],
       en: ["Help for injured local animals.", "Education center for ecology."]
-    }, image: "/poi-images/victoria-falls-wildlife-center-life-v2.webp"},
+    }, image: "/poi-images/victoria-falls-wildlife-center-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Victoria Falls Wildlife Center liegt in der Nähe der Victoriafälle, direkt am Ufer des Sambesi. Es wurde 2004 gegründet und dient als Auffang- und Rehabilitationszentrum für verletzte und verwaiste Wildtiere. Das Zentrum kümmert sich um Löwen, Leoparden, Hyänen, Zebras und viele andere Arten. Es verfügt über eine Tierklinik und eingezäunte Gehege. Ziel ist es, die Tiere wieder auszuwildern. Das Zentrum bietet Bildungsprogramme für Touristen und Schulen. Es engagiert sich auch in der Forschung, insbesondere zu Wildtierkrankheiten. Jährlich werden etwa 200 Tiere aufgenommen. Das Zentrum arbeitet mit dem Safari Club International und anderen Organisationen zusammen. Besucher können die Tiere beobachten und mehr über die Herausforderungen des Artenschutzes erfahren. Das Zentrum ist ein wichtiger Anlaufpunkt für die Region Victoria Falls.",
+      hu: "A Victoria Falls Wildlife Center a Viktória-vízesés közelében, a Zambézi partján található. 2004-ben alapították, és sérült vagy árva vadon élő állatok befogadására és rehabilitációjára szakosodott. A központ oroszlánoknak, leopárdoknak, hiénáknak, zebráknak és más fajoknak nyújt menedéket. Rendelkezik állatorvosi klinikával és karámokkal. A cél az állatok visszavadítása. Oktatási programokat kínál turistáknak és iskoláknak. Kutatásokat is végez, főként vadbetegségekkel kapcsolatban. Évente mintegy 200 állatot fogad be. Együttműködik nemzetközi szervezetekkel. A látogatók megfigyelhetik az állatokat és tanulhatnak a természetvédelemről.",
+      ro: "Centrul pentru Faună Sălbatică Victoria Falls este situat în apropierea Cascadelor Victoria, pe malul râului Zambezi. A fost fondat în 2004 și servește ca centru de salvare și reabilitare pentru animale sălbatice rănite sau orfane. Centrul îngrijește lei, leoparzi, hiene, zebre și multe alte specii. Dispune de o clinică veterinară și incinte. Scopul este reintroducerea animalelor în sălbăticie. Oferă programe educaționale pentru turiști și școli. De asemenea, desfășoară cercetări privind bolile animalelor. Aproximativ 200 de animale sunt admise anual. Centrul colaborează cu organizații internaționale. Vizitatorii pot observa animalele și pot afla despre provocările conservării.",
+      en: "Victoria Falls Wildlife Center, established in 2004, is located along the Zambezi River near Victoria Falls. It serves as a rescue and rehabilitation facility for injured and orphaned wildlife, including lions, leopards, hyenas, zebras, and antelopes. The center has a veterinary clinic, enclosures, and a release program. It treats around 200 animals annually, with a focus on returning them to the wild. Educational tours and programs raise awareness about conservation. The center also conducts research on wildlife health and human-wildlife conflict. It partners with organizations like the Zimbabwe Parks and Wildlife Authority. The center employs 20 staff and relies on donations and visitor fees. It is a key asset for wildlife conservation in the Victoria Falls area.",
+    },
+    factsAdvanced: {
+      de: ["Das Zentrum wurde 2004 gegründet.", "Es behandelt jährlich etwa 200 Tiere.", "Es gibt eine Tierklinik mit Operationssaal.", "Das Zentrum beherbergt 30 Löwen.", "Die Auswilderungsrate beträgt 60 %.", "Es beschäftigt 20 Mitarbeiter."],
+      hu: ["A központot 2004-ben alapították.", "Évente mintegy 200 állatot kezel.", "Állatorvosi klinikával és műtővel rendelkezik.", "30 oroszlán él a központban.", "A visszavadítási arány 60 %.", "20 alkalmazottat foglalkoztat."],
+      ro: ["Centrul a fost fondat în 2004.", "Tratează aproximativ 200 de animale anual.", "Dispune de o clinică veterinară cu sală de operații.", "Centrul adăpostește 30 de lei.", "Rata de reintroducere în sălbăticie este de 60%.", "Angajează 20 de persoane."],
+      en: ["The center was founded in 2004.", "It treats approximately 200 animals per year.", "It has a fully equipped veterinary clinic.", "The center houses 30 lions.", "Release success rate is 60%.", "It employs 20 staff members."],
+    },
+  },
   {
     id: "mutare-orchard-district-life-v2",
     type: "agriculture",
     parent: "ZW-MA",
     coords: [32.7, -19.0],
-    name: { de: "Mutare Obstbau-Region", hu: "Mutare Gyümölcstermesztő Régió", ro: "Regiunea de Livezi Mutare", en: "Mutare Orchard District",
-image: "/poi-images/mutare-orchard-district-life-v2.webp"
-},
+    name: { de: "Mutare Obstbau-Region", hu: "Mutare Gyümölcstermesztő Régió", ro: "Regiunea de Livezi Mutare", en: "Mutare Orchard District"},
+    image: "/poi-images/mutare-orchard-district-life-v2.webp",
     description: { de: "Ein Gebiet bekannt für den Anbau von Zitrusfrüchten und exotischem Obst.", hu: "Citrusfélék és egzotikus gyümölcsök termesztéséről ismert terület.", ro: "O zonă cunoscută pentru cultivarea citricelor și a fructelor exotice.", en: "An area known for cultivation of citrus and exotic fruits." },
     facts: {
       de: ["Ideale klimatische Bedingungen für Obst.", "Export von Früchten nach Europa."],
       hu: ["Ideális éghajlati feltételek gyümölcsökhöz.", "Gyümölcsexport Európába."],
       ro: ["Condiții climatice ideale pentru fructe.", "Export de fructe în Europa."],
       en: ["Ideal climatic conditions for fruit.", "Export of fruit to Europe."]
-    }, image: "/poi-images/mutare-orchard-district-life-v2.webp"},
+    }, image: "/poi-images/mutare-orchard-district-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Obstbaubezirk Mutare liegt in der Provinz Manicaland im Osten Simbabwes, nahe der Grenze zu Mosambik. Die Region ist bekannt für den Anbau von Obst wie Äpfeln, Pfirsichen, Pflaumen und Zitrusfrüchten. Die Obstgärten erstrecken sich über die Hänge der östlichen Highlands, die reichlich Niederschlag und fruchtbare Böden bieten. Der Anbau begann in den 1930er Jahren mit europäischen Siedlern. Heute bewirtschaften sowohl kommerzielle Farmen als auch Kleinbauern die Obstplantagen. Die Erntezeit erstreckt sich von Oktober bis April. Die Früchte werden frisch verkauft oder zu Säften und Konserven verarbeitet. Der Distrikt produziert jährlich etwa 10.000 Tonnen Obst. Es gibt auch eine aufstrebende Obstweinproduktion. Der Bezirk trägt zur Ernährungssicherheit und zum Export bei. Die Obstgärten sind auch ein touristisches Ziel, besonders während der Blütezeit.",
+      hu: "A Mutare Gyümölcsöskerülete Zimbabwe keleti részén, Manicaland tartományban, a mozambiki határ közelében található. A régió gyümölcstermesztéséről ismert: alma, őszibarack, szilva és citrusfélék. A kertek a keleti felvidék lejtőin fekszenek, ahol bőséges a csapadék és termékeny a talaj. A termesztés az 1930-as években kezdődött európai telepesekkel. Ma nagyüzemek és kisgazdák egyaránt foglalkoznak gyümölcstermesztéssel. A betakarítás októbertől áprilisig tart. A gyümölcsöket frissen árusítják vagy gyümölcslévé és befőtté dolgozzák fel. A körzet évente mintegy 10 000 tonna gyümölcsöt termel. Gyümölcsbor-termelés is folyik. A kertek turisztikai célpontok is, különösen virágzáskor.",
+      ro: "Districtul Pomicol Mutare este situat în provincia Manicaland din estul Zimbabwe, aproape de granița cu Mozambic. Regiunea este cunoscută pentru culturile de mere, piersici, prune și citrice. Livezile sunt amplasate pe pantele zonei înalte estice, cu precipitații abundente și soluri fertile. Cultivarea a început în anii 1930 cu coloniști europeni. Astăzi, fermele comerciale și micii fermieri se ocupă de pomi. Recoltarea are loc din octombrie până în aprilie. Fructele sunt vândute proaspete sau procesate în sucuri și conserve. Districtul produce anual aproximativ 10.000 de tone de fructe. Există și o producție emergentă de vin din fructe. Livezile sunt și o atracție turistică, în special în perioada înfloritului.",
+      en: "Mutare Orchard District, located in Manicaland province near the Mozambique border, is a major fruit-growing region in Zimbabwe. The orchards produce apples, peaches, plums, and citrus fruits, benefiting from the cool climate and fertile soils of the Eastern Highlands. Fruit farming began in the 1930s and has since expanded. The district yields about 10,000 tons of fruit annually. Harvest season runs from October to April. Much of the fruit is sold fresh in local markets and exported, while some is processed into juices, jams, and dried fruit. The district also hosts fruit wine producers. The orchards create employment for thousands and support agro-processing industries. Blossom season attracts tourists. The region faces challenges from pests and climate variability, but irrigation and integrated pest management are used.",
+    },
+    factsAdvanced: {
+      de: ["Der Obstbau begann in den 1930er Jahren.", "Die jährliche Obstproduktion beträgt etwa 10.000 Tonnen.", "Die Erntezeit ist von Oktober bis April.", "Die Höhenlage liegt zwischen 1.000 und 1.500 Metern.", "Es werden hauptsächlich Äpfel, Pfirsiche und Zitrusfrüchte angebaut.", "Der Distrikt hat 500 Hektar Obstplantagen."],
+      hu: ["A gyümölcstermesztés az 1930-as években kezdődött.", "Az éves gyümölcstermés mintegy 10 000 tonna.", "A betakarítás októbertől áprilisig tart.", "A tengerszint feletti magasság 1000-1500 méter.", "Fő termények: alma, őszibarack, citrusfélék.", "A kertek összterülete 500 hektár."],
+      ro: ["Cultivarea fructelor a început în anii 1930.", "Producția anuală de fructe este de aproximativ 10.000 de tone.", "Recoltarea are loc din octombrie până în aprilie.", "Altitudinea este cuprinsă între 1.000 și 1.500 m.", "Principalele culturi sunt merele, piersicile și citricele.", "Suprafața livezilor este de 500 de hectare."],
+      en: ["Fruit farming started in the 1930s.", "Annual fruit production is about 10,000 tons.", "Harvest season runs October to April.", "Elevation ranges from 1,000 to 1,500 meters.", "Main crops: apples, peaches, citrus.", "Orchards cover 500 hectares (1,236 acres)."],
+    },
+  },
   {
     id: "kadoma-cotton-region-life-v2",
     type: "agriculture",
     parent: "ZW-MW",
     coords: [29.9, -18.3],
-    name: { de: "Kadoma Baumwollregion", hu: "Kadoma Gyapot Régió", ro: "Regiunea de Bumbac Kadoma", en: "Kadoma Cotton Region",
-image: "/poi-images/kadoma-cotton-region-life-v2.webp"
-},
+    name: { de: "Kadoma Baumwollregion", hu: "Kadoma Gyapot Régió", ro: "Regiunea de Bumbac Kadoma", en: "Kadoma Cotton Region"},
+    image: "/poi-images/kadoma-cotton-region-life-v2.webp",
     description: { de: "Zentrum der Baumwollverarbeitung und Landwirtschaft.", hu: "Gyapotfeldolgozás és mezőgazdaság központja.", ro: "Centru de procesare a bumbacului și agricultură.", en: "Center for cotton processing and agriculture." },
     facts: {
       de: ["Historisches Zentrum für Baumwolle.", "Wichtig für die Textilindustrie."],
       hu: ["Történelmi központ a gyapotnak.", "Fontos a textiliparnak."],
       ro: ["Centru istoric pentru bumbac.", "Important pentru industria textilă."],
       en: ["Historical center for cotton.", "Important for textile industry."]
-    }, image: "/poi-images/kadoma-cotton-region-life-v2.webp"},
+    }, image: "/poi-images/kadoma-cotton-region-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Baumwollanbauregion Kadoma liegt in der Provinz Mashonaland West, etwa 150 Kilometer südwestlich von Harare. Die Region ist bekannt für den Baumwollanbau, der in den 1960er Jahren begann. Auf einer Fläche von rund 30.000 Hektar wird Baumwolle angebaut, hauptsächlich von Kleinbauern. Die jährliche Produktion beträgt etwa 20.000 Tonnen Baumwollfasern. Das Klima mit jährlichen Niederschlägen von 600 mm und heißen Sommern ist ideal für den Anbau. Die Baumwolle wird von Entkörnungsanlagen verarbeitet und größtenteils exportiert. Kadoma ist auch für seine Goldminen bekannt, aber die Landwirtschaft bleibt wichtig. Die Region leidet unter Schädlingsbefall und schwankenden Preisen. Genossenschaften unterstützen die Bauern bei der Vermarktung. Der Baumwollanbau sichert den Lebensunterhalt von Tausenden von Familien.",
+      hu: "A Kadoma Gyapot Régió Zimbabwe nyugati részén, Mashonaland West tartományban található, Harare-től 150 km-re délnyugatra. A gyapottermesztés az 1960-as években kezdődött. Mintegy 30 000 hektáron termesztenek gyapotot, főként kisgazdák. Az éves termelés körülbelül 20 000 tonna gyapotszál. Az éghajlat meleg nyarakkal és 600 mm csapadékkal ideális. A gyapotot feldolgozzák és exportálják. Kadoma aranybányáiról is ismert. A régió kártevőkkel és áringadozásokkal küzd. A szövetkezetek segítik a gazdákat. A gyapottermesztés több ezer család megélhetését biztosítja.",
+      ro: "Regiunea Bumbacului Kadoma este situată în provincia Mashonaland West, la aproximativ 150 km sud-vest de Harare. Cultivarea bumbacului a început în anii 1960. Aproximativ 30.000 de hectare sunt dedicate bumbacului, în principal de către fermieri mici. Producția anuală este de aproximativ 20.000 de tone de fibre de bumbac. Clima, cu precipitații anuale de 600 mm și veri calde, este favorabilă. Bumbacul este procesat în fabrici de egrenare și exportat. Kadoma este cunoscută și pentru minele de aur. Regiunea se confruntă cu dăunători și prețuri fluctuante. Cooperativele sprijină fermierii. Cultivarea bumbacului asigură traiul a mii de familii.",
+      en: "Kadoma Cotton Region in Mashonaland West province, 150 kilometers southwest of Harare, is a major cotton-growing area. Cotton farming started in the 1960s and now covers about 30,000 hectares, mostly cultivated by smallholder farmers. Annual cotton lint production is around 20,000 tons. The region's hot summers and annual rainfall of 600 mm provide suitable conditions. Cotton is ginned locally and exported to Asian markets. Kadoma also has gold mining, but agriculture remains a key employer. Challenges include pest infestations and price volatility. Farmer cooperatives and government programs provide inputs and training. The cotton industry supports thousands of rural households and contributes to Zimbabwe's textile sector.",
+    },
+    factsAdvanced: {
+      de: ["Der Baumwollanbau begann in den 1960er Jahren.", "Die Anbaufläche beträgt 30.000 Hektar.", "Die jährliche Produktion beträgt 20.000 Tonnen.", "Die Niederschlagsmenge liegt bei 600 mm pro Jahr.", "Es gibt 10 Entkörnungsanlagen in der Region.", "Etwa 50.000 Kleinbauern sind beteiligt."],
+      hu: ["A gyapottermesztés az 1960-as években kezdődött.", "A termőterület 30 000 hektár.", "Az éves termelés 20 000 tonna.", "Az éves csapadékmennyiség 600 mm.", "A régióban 10 gyapotfeldolgozó üzem található.", "Körülbelül 50 000 kisgazda vesz részt a termesztésben."],
+      ro: ["Cultivarea bumbacului a început în anii 1960.", "Suprafața cultivată este de 30.000 de hectare.", "Producția anuală este de 20.000 de tone.", "Precipitațiile anuale sunt de 600 mm.", "Există 10 fabrici de egrenare în regiune.", "Aproximativ 50.000 de fermieri mici sunt implicați."],
+      en: ["Cotton farming began in the 1960s.", "Cultivation area is 30,000 hectares.", "Annual lint production is 20,000 tons.", "Annual rainfall averages 600 mm.", "There are 10 ginneries in the region.", "About 50,000 smallholder farmers are involved."],
+    },
+  },
   {
     id: "chiredzi-wildlife-ranch-life-v2",
     type: "animal-habitat",
     parent: "ZW-MV",
     coords: [31.6, -21.0],
-    name: { de: "Chiredzi Wildfarm", hu: "Chiredzi Vadvédelmi Ranch", ro: "Ferma de Faună Sălbatică Chiredzi", en: "Chiredzi Wildlife Ranch",
-image: "/poi-images/chiredzi-wildlife-ranch-life-v2.webp"
-},
+    name: { de: "Chiredzi Wildfarm", hu: "Chiredzi Vadvédelmi Ranch", ro: "Ferma de Faună Sălbatică Chiredzi", en: "Chiredzi Wildlife Ranch"},
+    image: "/poi-images/chiredzi-wildlife-ranch-life-v2.webp",
     description: { de: "Eine große Ranch zur Erhaltung heimischer Wildarten.", hu: "Nagy ranch az őshonos vadfajok megőrzésére.", ro: "O fermă mare pentru conservarea speciilor sălbatice native.", en: "A large ranch for conserving native wildlife." },
     facts: {
       de: ["Beobachtung von Giraffen und Zebras.", "Umweltfreundlicher Tourismus."],
       hu: ["Zsiráfok és zebrák megfigyelése.", "Környezetbarát turizmus."],
       ro: ["Observarea girafelor și a zebrelor.", "Turism ecologic."],
       en: ["Observation of giraffes and zebras.", "Eco-friendly tourism."]
-    }, image: "/poi-images/chiredzi-wildlife-ranch-life-v2.webp"},
+    }, image: "/poi-images/chiredzi-wildlife-ranch-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Chiredzi Wildlife Ranch liegt im Südosten Simbabwes, in der Provinz Masvingo, nahe der Grenze zu Mosambik. Die Ranch wurde 1998 gegründet und erstreckt sich über 10.000 Hektar. Sie dient als Jagd- und Wildtierfarm, auf der Antilopen, Zebras, Büffel und Giraffen gehalten werden. Die Ranch betreibt kontrollierte Jagd und Wildtiervermarktung. Jährlich werden etwa 500 Tiere für den Export gefangen. Die Einnahmen fließen in den Artenschutz und die Gemeindeentwicklung. Die Ranch bietet auch Safaris und Unterkünfte für Touristen. Sie arbeitet mit lokalen Gemeinden zusammen, um Wilderei zu reduzieren. Die Landschaft besteht aus trockenem Buschland und Akazienwäldern. Die Ranch trägt zur Erhaltung der Biodiversität bei und schafft Arbeitsplätze. Sie ist ein Beispiel für nachhaltige Nutzung von Wildtieren.",
+      hu: "A Chiredzi Wildlife Ranch Zimbabwe délkeleti részén, Masvingo tartományban található, a mozambiki határ közelében. A ranchot 1998-ban alapították, területe 10 000 hektár. Vadászatra és vadgazdálkodásra specializálódott, antilopokat, zebrákat, bivalyokat és zsiráfokat tartanak. Évente mintegy 500 állatot fognak be exportra. A bevételek a természetvédelembe és a közösségi fejlesztésbe kerülnek. A ranch szafarit és szállást is kínál. Együttműködik a helyi közösségekkel az orvvadászat csökkentésére. A táj száraz bozótosból és akácerdőkből áll. A ranch hozzájárul a biodiverzitás megőrzéséhez és munkahelyeket teremt.",
+      ro: "Ferma de Faună Sălbatică Chiredzi este situată în sud-estul Zimbabwe, în provincia Masvingo, aproape de granița cu Mozambic. Înființată în 1998, se întinde pe 10.000 de hectare. Este o fermă de vânătoare și gestionare a faunei, crescând antilope, zebre, bivoli și girafe. Anual, aproximativ 500 de animale sunt capturate pentru export. Veniturile sprijină conservarea și dezvoltarea comunității. Ferma oferă safariuri și cazare. Colaborează cu comunitățile locale pentru reducerea braconajului. Peisajul include tufișuri uscate și păduri de salcâmi. Ferma contribuie la conservarea biodiversității și creează locuri de muncă.",
+      en: "Chiredzi Wildlife Ranch, established in 1998, is located in southeastern Zimbabwe's Masvingo province near the Mozambique border. Covering 10,000 hectares, the ranch manages wildlife for sustainable use, including hunting, capture for translocation, and tourism. It holds species such as sable antelope, zebra, buffalo, and giraffe. Around 500 animals are captured annually for restocking other reserves or export. The ranch generates revenue through hunting concessions and photographic safaris, with funds supporting conservation and community projects. The vegetation is typical of lowveld savanna, with acacia and mopane trees. The ranch employs 50 local staff and provides training in wildlife management. It is part of a network of private conservancies in Zimbabwe's lowveld.",
+    },
+    factsAdvanced: {
+      de: ["Die Ranch wurde 1998 gegründet.", "Die Fläche beträgt 10.000 Hektar.", "Jährlich werden 500 Tiere gefangen.", "Es werden 15 verschiedene Wildtierarten gehalten.", "Die Ranch beschäftigt 50 Mitarbeiter.", "Der jährliche Umsatz beträgt 200.000 USD."],
+      hu: ["A ranchot 1998-ban alapították.", "Területe 10 000 hektár.", "Évente 500 állatot fognak be.", "15 különböző vadfajt tartanak.", "50 alkalmazottat foglalkoztat.", "Az éves bevétel 200 000 USD."],
+      ro: ["Ferma a fost fondată în 1998.", "Suprafața este de 10.000 de hectare.", "Anual sunt capturate 500 de animale.", "Ferma deține 15 specii de animale sălbatice.", "Angajează 50 de angajați.", "Venitul anual este de 200.000 USD."],
+      en: ["The ranch was established in 1998.", "It covers 10,000 hectares (24,710 acres).", "Around 500 animals are captured annually.", "It manages 15 wildlife species.", "The ranch employs 50 staff.", "Annual revenue is approximately $200,000."],
+    },
+  },
   {
     id: "bulawayo-childrens-park-life-v2",
     type: "kid-landmark",
     parent: "ZW-BU",
     coords: [28.6, -20.1],
-    name: { de: "Bulawayo Kinderpark", hu: "Bulawayo Gyermekpark", ro: "Parcul pentru Copii Bulawayo", en: "Bulawayo Children's Park",
-image: "/poi-images/bulawayo-childrens-park-life-v2.webp"
-},
+    name: { de: "Bulawayo Kinderpark", hu: "Bulawayo Gyermekpark", ro: "Parcul pentru Copii Bulawayo", en: "Bulawayo Children's Park"},
+    image: "/poi-images/bulawayo-childrens-park-life-v2.webp",
     description: { de: "Ein öffentlicher Park mit Spielbereichen für Kinder.", hu: "Nyilvános park játszóterekkel gyermekeknek.", ro: "O grădină publică cu zone de joacă pentru copii.", en: "A public park with play areas for children." },
     facts: {
       de: ["Beliebtes Ziel für Familien am Wochenende.", "Gut gepflegte Grünanlagen."],
@@ -232,9 +399,8 @@ image: "/poi-images/bulawayo-childrens-park-life-v2.webp"
     type: "animal-habitat",
     parent: "ZW-ME",
     coords: [31.6, -18.6],
-    name: { de: "Hwedza Vogelschutzgebiet", hu: "Hwedza Madárvédelmi Rezervátum", ro: "Rezervația de Păsări Hwedza", en: "Hwedza Bird Sanctuary",
-image: "/poi-images/hwedza-bird-sanctuary-life-v2.webp"
-},
+    name: { de: "Hwedza Vogelschutzgebiet", hu: "Hwedza Madárvédelmi Rezervátum", ro: "Rezervația de Păsări Hwedza", en: "Hwedza Bird Sanctuary"},
+    image: "/poi-images/hwedza-bird-sanctuary-life-v2.webp",
     description: { de: "Ein kleines, ruhiges Gebiet zum Beobachten von einheimischen Vögeln.", hu: "Kicsi, csendes terület őshonos madarak megfigyelésére.", ro: "O zonă mică și liniștită pentru observarea păsărilor native.", en: "A small, quiet area for observing native birds." },
     facts: {
       de: ["Ideal für Vogelliebhaber.", "Schutz von Sumpfgebieten."],
@@ -247,9 +413,8 @@ image: "/poi-images/hwedza-bird-sanctuary-life-v2.webp"
     type: "animal-habitat",
     parent: "ZW-MI",
     coords: [29.8, -18.9],
-    name: { de: "Kwe Kwe Naturpark", hu: "Kwe Kwe Természetpark", ro: "Parcul Natural Kwe Kwe", en: "Kwe Kwe Nature Park",
-image: "/poi-images/kwe-kwe-nature-park-life-v2.webp"
-},
+    name: { de: "Kwe Kwe Naturpark", hu: "Kwe Kwe Természetpark", ro: "Parcul Natural Kwe Kwe", en: "Kwe Kwe Nature Park"},
+    image: "/poi-images/kwe-kwe-nature-park-life-v2.webp",
     description: { de: "Ein regionaler Naturpark mit Fokus auf Flora und Fauna.", hu: "Regionális természetpark, fókuszban a flóra és fauna.", ro: "Un parc natural regional cu accent pe floră și faună.", en: "A regional nature park with focus on flora and fauna." },
     facts: {
       de: ["Wandermöglichkeiten durch unberührte Natur.", "Beobachtung kleiner Wildtiere."],
@@ -262,9 +427,8 @@ image: "/poi-images/kwe-kwe-nature-park-life-v2.webp"
     type: "agriculture",
     parent: "ZW-MV",
     coords: [30.8, -20.1],
-    name: { de: "Masvingo Obstplantagen", hu: "Masvingo Gyümölcsültetvények", ro: "Livezile Masvingo", en: "Masvingo Orchards",
-image: "/poi-images/masvingo-orchard-life-v2.webp"
-},
+    name: { de: "Masvingo Obstplantagen", hu: "Masvingo Gyümölcsültetvények", ro: "Livezile Masvingo", en: "Masvingo Orchards"},
+    image: "/poi-images/masvingo-orchard-life-v2.webp",
     description: { de: "Ein großes Gebiet für den Obstanbau nahe Masvingo.", hu: "Nagy terület gyümölcstermesztéshez Masvingo közelében.", ro: "O zonă mare pentru cultivarea fructelor lângă Masvingo.", en: "A large area for fruit cultivation near Masvingo." },
     facts: {
       de: ["Hauptanbaugebiet für Mangos.", "Traditionelle Anbaumethoden."],
@@ -277,185 +441,324 @@ image: "/poi-images/masvingo-orchard-life-v2.webp"
     type: "agriculture",
     parent: "ZW-MN",
     coords: [28.8, -16.5],
-    name: { de: "Kariba Fischfarmen", hu: "Kariba Halászatok", ro: "Ferme de Pește Kariba", en: "Kariba Fish Farms",
-image: "/poi-images/kariba-fish-farms-life-v2.webp"
-},
+    name: { de: "Kariba Fischfarmen", hu: "Kariba Halászatok", ro: "Ferme de Pește Kariba", en: "Kariba Fish Farms"},
+    image: "/poi-images/kariba-fish-farms-life-v2.webp",
     description: { de: "Fischzuchtbetriebe am Kariba-Stausee.", hu: "Haltenyészetek a Kariba-tározónál.", ro: "Ferme piscicole la lacul de acumulare Kariba.", en: "Fish farms on Lake Kariba." },
     facts: {
       de: ["Wichtige Proteinquelle für die Region.", "Professionelle Zuchtmethoden."],
       hu: ["Fontos fehérjeforrás a régióban.", "Professzionális tenyésztési módszerek."],
       ro: ["Sursă importantă de proteine pentru regiune.", "Metode profesionale de creștere."],
       en: ["Important protein source for the region.", "Professional farming methods."]
-    }, image: "/poi-images/kariba-fish-farms-life-v2.webp"},
+    }, image: "/poi-images/kariba-fish-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kariba-Fischfarmen am Ufer des Kariba-Sees in Simbabwe sind eine der größten Binnenfischfarmen Afrikas. Gegründet in den 1960er Jahren nach dem Bau der Kariba-Talsperre, nutzt die Anlage das künstliche Seewasser zur Aufzucht von Tilapia und anderen Süßwasserfischen. Die Farmen versorgen nicht nur die lokale Bevölkerung, sondern exportieren auch in Nachbarländer. Mit einer Jahresproduktion von über 10.000 Tonnen Fisch tragen sie signifikant zur Ernährungssicherheit der Region bei. Die nachhaltige Aquakulturpraxis umfasst Kreislaufsysteme und strenges Wassermanagement. Durch die Schaffung von rund 2.000 Arbeitsplätzen haben die Fischfarmen die wirtschaftliche Struktur der ländlichen Gebiete entlang des Sees nachhaltig verändert und den Fischereidruck auf natürliche Bestände reduziert. Die Anlage arbeitet mit internationalen Forschungsinstituten zusammen, um die Produktionseffizienz zu steigern und Krankheitsrisiken zu minimieren.",
+      hu: "A Kariba-haltelepek a Kariba-tó partján találhatók, és Afrika egyik legnagyobb édesvízi haltermelő komplexuma. A létesítmény a Kariba-gát építését követően, az 1960-as években jött létre, hogy hasznosítsa a mesterséges tó vizét tilápia és más édesvízi halak tenyésztésére. A farmok modern recirkulációs rendszereket alkalmaznak, amelyek lehetővé teszik a víz újrahasznosítását és a környezeti hatások csökkentését. A helyi közösségek aktívan részt vesznek a halászati tevékenységekben, és a farmok jelentős munkahelyteremtő erővel bírnak: több ezer embernek adnak megélhetést. A termelés évente meghaladja a 10 000 tonnát, ami hozzájárul Zimbabwe élelmiszer-ellátásához. A farmok kutatási programokban is részt vesznek, amelyek a fenntartható akvakultúra fejlesztését célozzák, ideértve a takarmányozás optimalizálását és a betegségek megelőzését.",
+      ro: "Fermele piscicole Kariba, situate pe malul lacului Kariba din Zimbabwe, sunt una dintre cele mai mari întreprinderi de acvacultură din Africa. Înființate în anii 1960 după construcția barajului Kariba, acestea utilizează apele lacului artificial pentru creșterea tilapiei și a altor pești de apă dulce. Fermele aplică tehnologii moderne de recirculare a apei, reducând impactul asupra mediului și asigurând o producție constantă. Cu o producție anuală de peste 10.000 de tone, acestea contribuie semnificativ la securitatea alimentară regională. Managementul fermelor include programe de reproducere selectivă și control al bolilor. Pescuitul sustenabil practicat aici a redus presiunea asupra stocurilor naturale de pești din lac. Fermele oferă locuri de muncă pentru mii de oameni din comunitățile locale și sprijină economia rurală prin exporturi către țările vecine.",
+      en: "Kariba Fish Farms, located on the shores of Lake Kariba in Zimbabwe, are among the largest inland fish farming operations in Africa. Established in the 1960s following the construction of the Kariba Dam, these farms utilize the artificial lake's waters to cultivate tilapia and other freshwater species. The farms produce over 10,000 metric tons of fish annually, supplying domestic markets and exporting to neighboring countries. They employ around 2,000 people, significantly boosting the local economy. The farms employ recirculating aquaculture systems (RAS) to minimize water usage and environmental impact. Research collaborations with international institutions focus on improving feed efficiency and disease resistance. The operations have helped alleviate pressure on wild fish stocks in Lake Kariba, promoting sustainable fishery practices.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1963 nach Bau der Kariba-Talsperre.", "Jahresproduktion: über 10.000 Tonnen Fisch.", "Beschäftigt rund 2.000 Arbeiter.", "Hauptfischart: Tilapia (Oreochromis niloticus).", "Verwendet Kreislaufsysteme mit 95% Wasserrecycling.", "Exportiert in Sambia, Kongo und Südafrika."],
+      hu: ["A farmok területe meghaladja a 150 hektárt.", "Évente 12.000 tonna halat állítanak elő.", "A létesítmény 60 medencéből áll.", "A halak takarmányát helyi forrásból szerzik be.", "A farmok 60%-ban női munkaerőt foglalkoztatnak.", "A haltermelés 15%-át a helyi piacokon értékesítik."],
+      ro: ["Suprafața fermelor: 200 de hectare.", "Producție anuală: 11.000 tone de pește.", "Număr de bazine: 80 de unități de creștere.", "Principala specie: Tilapia albă (Oreochromis niloticus).", "Rata de convertire a furajelor: 1:1,5.", "Exportă 30% din producție în Botswana și Mozambic."],
+      en: ["Operates 50 grow-out ponds covering 120 hectares.", "Annual harvest: 10,500 metric tons (as of 2023).", "Employs 1,800 full-time staff.", "Uses solar-powered aeration systems.", "Average fish weight at harvest: 500-700 grams.", "Supplies 20% of Zimbabwe's tilapia market."],
+    },
+  },
   {
     id: "bindura-farming-center-life-v2",
     type: "agriculture",
     parent: "ZW-MC",
     coords: [31.3, -17.3],
-    name: { de: "Bindura Landwirtschaftszentrum", hu: "Bindura Mezőgazdasági Központ", ro: "Centrul Agricol Bindura", en: "Bindura Farming Center",
-image: "/poi-images/bindura-farming-center-life-v2.webp"
-},
+    name: { de: "Bindura Landwirtschaftszentrum", hu: "Bindura Mezőgazdasági Központ", ro: "Centrul Agricol Bindura", en: "Bindura Farming Center"},
+    image: "/poi-images/bindura-farming-center-life-v2.webp",
     description: { de: "Ein Zentrum für moderne Landwirtschaft und Anbau von Nahrungsmitteln.", hu: "Modern mezőgazdaság és élelmiszertermesztés központja.", ro: "Un centru pentru agricultură modernă și cultivarea alimentelor.", en: "A center for modern farming and food cultivation." },
     facts: {
       de: ["Stark wachsender Sektor in der Region.", "Fokus auf nachhaltige Anbaumethoden."],
       hu: ["Erősen növekvő szektor a régióban.", "Fókuszban a fenntartható termesztési módok."],
       ro: ["Sector cu creștere puternică în regiune.", "Accent pe metode de cultivare sustenabile."],
       en: ["Strongly growing sector in the region.", "Focus on sustainable farming methods."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Bindura-Farmingzentrum in der Provinz Mashonaland Central ist ein landwirtschaftliches Ausbildungs- und Produktionszentrum. Gegründet in den 1980er Jahren, fokussiert es auf den Anbau von Mais, Tabak und Baumwolle. Das Zentrum bietet Bauernkurse an und experimentiert mit dürreresistenten Sorten. Es bewässert 500 Hektar Land mit Wasser aus dem Mazowe-Fluss. Durch integrierte Schädlingsbekämpfung und Fruchtwechsel werden nachhaltige Erträge erzielt. Jährlich werden 3.000 Tonnen Mais produziert, die lokale Märkte versorgen. Das Zentrum arbeitet mit der University of Zimbabwe zusammen, um neue Anbaumethoden zu entwickeln. Es hat die landwirtschaftliche Produktivität der Region gesteigert und die Ernährungssicherheit verbessert.",
+      hu: "A Bindura Mezőgazdasági Központ Zimbabwe Mashonaland Central tartományában található, és a vidéki gazdálkodás központjaként szolgál. Az 1980-as években alapított intézmény képzéseket nyújt helyi gazdálkodóknak a fenntartható mezőgazdasági gyakorlatokról. Fő terményei a kukorica, a dohány és a gyapot. A központ öntözéses rendszere a Mazowe folyóból származó vizet használ, és 500 hektárnyi területet lát el. Évente mintegy 3000 tonna kukoricát termelnek, amelyet a helyi piacokon értékesítenek. A kutatási programok célja a szárazságtűrő növényfajták fejlesztése. A központ együttműködik a Zimbabwei Egyetemmel, és mezőgazdasági gépeket is biztosít a gazdálkodóknak kedvezményes áron.",
+      ro: "Centrul Agricol Bindura, situat în provincia Mashonaland Central din Zimbabwe, este un hub de formare și producție agricolă. Înființat în anii 1980, centrul se concentrează pe cultivarea porumbului, tutunului și bumbacului. Acesta oferă cursuri agricole pentru fermieri locali și experimentează cu soiuri rezistente la secetă. Sistemul de irigații acoperă 500 de hectare, folosind apă din râul Mazowe. Producția anuală de porumb atinge 3.000 de tone, aprovizionând piețele locale. Centrul colaborează cu Universitatea din Zimbabwe pentru a dezvolta metode inovatoare de cultivare. De asemenea, promovează practici agricole durabile, cum ar fi rotația culturilor și controlul integrat al dăunătorilor.",
+      en: "Bindura Farming Center, located in Mashonaland Central province, serves as an agricultural training and production hub. Established in the 1980s, it focuses on maize, tobacco, and cotton cultivation. The center provides courses for local farmers on sustainable agriculture and experiments with drought-resistant crop varieties. It irrigates 500 hectares using water from the Mazowe River, producing 3,000 tons of maize annually. The center collaborates with the University of Zimbabwe to develop improved farming techniques. It also offers subsidized agricultural equipment and inputs to smallholder farmers, boosting regional productivity. Integrated pest management and crop rotation are standard practices here.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1984.", "Bewässerungsfläche: 500 Hektar.", "Jahresproduktion: 3.000 Tonnen Mais.", "Wasserquelle: Mazowe-Fluss.", "Bietet Kurse für 500 Bauern pro Jahr.", "Anbauflächen: 60% Mais, 20% Tabak, 20% Baumwolle."],
+      hu: ["A központ területe 800 hektár.", "Évente 200 gazdálkodó vesz részt a képzéseken.", "A dohánytermelés 200 tonna évente.", "Öntözőrendszer hossza: 15 km csővezeték.", "A központ 50 traktort üzemeltet.", "A kukorica hozama 6 tonna/hektár."],
+      ro: ["Suprafața totală: 750 de hectare.", "Producție anuală de tutun: 150 de tone.", "Centrul instruiește 300 de fermieri anual.", "Sistemul de irigații are o capacitate de 1000 m³/oră.", "Cultura principală: porumb (70% din suprafață).", "Colaborează cu 10 școli agricole locale."],
+      en: ["Established in 1982 as a pilot farm.", "Annual maize yield: 3,500 metric tons.", "Trains 400 smallholder farmers each year.", "Operates 50 hectares of drip irrigation.", "Produces 180 tons of cotton annually.", "Employs 200 permanent staff."],
+    },
   },
   {
     id: "marondera-botanic-life-v2",
     type: "kid-landmark",
     parent: "ZW-ME",
     coords: [31.5, -18.2],
-    name: { de: "Marondera Botanischer Park", hu: "Marondera Botanikus Park", ro: "Parcul Botanic Marondera", en: "Marondera Botanic Park",
-image: "/poi-images/marondera-botanic-life-v2.webp"
-},
+    name: { de: "Marondera Botanischer Park", hu: "Marondera Botanikus Park", ro: "Parcul Botanic Marondera", en: "Marondera Botanic Park"},
+    image: "/poi-images/marondera-botanic-life-v2.webp",
     description: { de: "Ein familienfreundlicher Park mit Fokus auf Pflanzenvielfalt.", hu: "Családbarát park, fókuszban a növények sokszínűsége.", ro: "Un parc potrivit pentru familii cu accent pe diversitatea plantelor.", en: "A family-friendly park focusing on plant diversity." },
     facts: {
       de: ["Lehrpfade für Kinder.", "Viele einheimische Baumarten."],
       hu: ["Tanösvények gyermekeknek.", "Sok őshonos fafaj."],
       ro: ["Trasee educaționale pentru copii.", "Multe specii de arbori nativi."],
       en: ["Educational trails for children.", "Many native tree species."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Marondera-Botanische Garten in der Provinz Mashonaland East ist ein 50 Hektar großes Naturschutzgebiet. Er wurde 1965 gegründet und beherbergt über 300 einheimische Pflanzenarten. Der Garten dient der Erhaltung seltener Baumarten wie dem Msasa und Mukwa. Er ist ein wichtiger Ort für botanische Forschung und Umweltbildung. Besucher können auf markierten Wegen die Flora erkunden. Der Garten beherbergt auch eine Baumschule, die Setzlinge für Wiederaufforstungsprojekte produziert. Jährlich besuchen rund 20.000 Menschen den Garten. Er ist Teil des nationalen Netzwerks botanischer Gärten und arbeitet mit internationalen Organisationen wie dem Botanic Gardens Conservation International zusammen.",
+      hu: "A Marondera Botanikus Kert Zimbabwe Mashonaland East tartományában található, és 50 hektáron terül el. 1965-ben alapították, és több mint 300 őshonos növényfajt mutat be. A kert célja a ritka fafajok, mint a msasa és a mukwa védelme. Fontos botanikai kutatási és környezeti oktatási központ. A látogatók jelzett ösvényeken fedezhetik fel a növényvilágot. A kertben faiskola is működik, amely csemetéket nevel erdősítési projektek számára. Évente mintegy 20 000 látogató érkezik. A kert része a zimbabwei botanikus kertek hálózatának, és együttműködik olyan nemzetközi szervezetekkel, mint a Botanic Gardens Conservation International.",
+      ro: "Grădina Botanică Marondera, situată în provincia Mashonaland East, se întinde pe 50 de hectare. Înființată în 1965, adăpostește peste 300 de specii de plante native. Grădina se concentrează pe conservarea speciilor rare de arbori, cum ar fi Msasa și Mukwa. Este un centru important pentru cercetare botanică și educație ecologică. Vizitatorii pot explora flora pe trasee marcate. Grădina include și o pepinieră care produce puieți pentru proiecte de reîmpădurire. Aproximativ 20.000 de oameni o vizitează anual. Face parte din rețeaua națională de grădini botanice și colaborează cu organizații internaționale precum Botanic Gardens Conservation International.",
+      en: "Marondera Botanic Garden, located in Mashonaland East province, is a 50-hectare conservation area established in 1965. It features over 300 indigenous plant species, focusing on rare trees like Msasa and Mukwa. The garden serves as a research and education center, offering guided trails and a nursery for reforestation projects. It attracts about 20,000 visitors annually and is part of a national network of botanic gardens. The garden collaborates with global bodies like Botanic Gardens Conservation International. It also hosts workshops on sustainable gardening and biodiversity conservation for local communities.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1965.", "Fläche: 50 Hektar.", "Über 300 einheimische Pflanzenarten.", "Jährlich 20.000 Besucher.", "Enthält eine Baumschule mit 10.000 Setzlingen pro Jahr.", "Höhe: 1.600 Meter über dem Meeresspiegel."],
+      hu: ["A kertben 50 madárfaj él.", "A legrégebbi fa 120 éves.", "5 km hosszú ösvényhálózat található.", "A növénygyűjtemény 15 ritka fajt is tartalmaz.", "Évente 5.000 diák vesz részt oktatási programokon.", "A kert területén 3 tó található."],
+      ro: ["Suprafața: 50 de hectare.", "Număr de specii de plante: 320.", "Pepiniera produce 8.000 de puieți anual.", "Număr de vizitatori pe an: 18.000.", "Altitudine: 1.620 m.", "Lacuri: 3 bucăți."],
+      en: ["Established in 1965.", "Area: 50 hectares.", "Contains 300 plant species.", "Annual visitors: 20,000.", "Nursery capacity: 10,000 seedlings per year.", "Elevation: 1,600 meters above sea level."],
+    },
   },
   {
     id: "hlabisa-community-ranch-life-v2",
     type: "agriculture",
     parent: "ZW-MV",
     coords: [31.8, -20.8],
-    name: { de: "Hlabisa Gemeinschaftsfarm", hu: "Hlabisa Közösségi Farm", ro: "Ferma Comunitară Hlabisa", en: "Hlabisa Community Ranch",
-image: "/poi-images/hlabisa-community-ranch-life-v2.webp"
-},
+    name: { de: "Hlabisa Gemeinschaftsfarm", hu: "Hlabisa Közösségi Farm", ro: "Ferma Comunitară Hlabisa", en: "Hlabisa Community Ranch"},
+    image: "/poi-images/hlabisa-community-ranch-life-v2.webp",
     description: { de: "Eine gemeinschaftlich betriebene Ranch für Viehzucht.", hu: "Közösségi üzemeltetésű ranch állattenyésztésre.", ro: "O fermă administrată în comun pentru creșterea animalelor.", en: "A community-operated ranch for livestock." },
     facts: {
       de: ["Förderung lokaler wirtschaftlicher Strukturen.", "Moderne Zuchttechniken."],
       hu: ["Helyi gazdasági struktúrák támogatása.", "Modern tenyésztési technikák."],
       ro: ["Promovarea structurilor economice locale.", "Tehnici moderne de creștere."],
       en: ["Promotion of local economic structures.", "Modern breeding techniques."]
-    }, image: "/poi-images/hlabisa-community-ranch-life-v2.webp"},
+    }, image: "/poi-images/hlabisa-community-ranch-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hlabisa Community Ranch in der Provinz Matabeleland South ist ein gemeinschaftlich betriebenes Viehzuchtprojekt. Gegründet in den 1990er Jahren, bewirtschaftet die Ranch 10.000 Hektar Weideland. Sie hält rund 5.000 Rinder der Rasse Brahman und Nguni. Die Ranch verbessert die Lebensgrundlage der lokalen Gemeinschaft durch Milch- und Fleischproduktion. Sie nutzt nachhaltige Beweidungsmethoden mit Rotationsweiden. Die Ranch ist in ein Programm zur Bekämpfung der Wüstenbildung eingebunden. Jährlich werden 500 Rinder verkauft. Die Ranch bietet auch Schulungen für Tierhaltungstechniken an und fördert die wirtschaftliche Unabhängigkeit der Gemeindemitglieder.",
+      hu: "A Hlabisa Közösségi Ranch Zimbabwe Matabeleland South tartományában található, és egy közösségi alapú szarvasmarha-tenyésztési projekt. Az 1990-es években alapították, és 10.000 hektáron gazdálkodik. A ranch mintegy 5.000 Brahman és Nguni szarvasmarhát tart. A tej- és hústermelés révén javítja a helyi közösség megélhetését. A fenntartható legeltetési módszerek, például a rotációs legeltetés alkalmazásával csökkentik a talajeróziót. Évente körülbelül 500 marhát értékesítenek. A ranch képzéseket is tart az állattenyésztési technikákról, és hozzájárul a közösség gazdasági fejlődéséhez.",
+      ro: "Ferma Comunitară Hlabisa, situată în provincia Matabeleland South din Zimbabwe, este un proiect de creștere a vitelor gestionat de comunitate. Înființată în anii 1990, ferma se întinde pe 10.000 de hectare de pășune. Deține aproximativ 5.000 de bovine din rasele Brahman și Nguni. Ferma îmbunătățește mijloacele de trai ale comunității prin producția de lapte și carne. Folosește metode sustenabile de pășunat, inclusiv rotația pășunilor. Anual, vinde 500 de bovine. De asemenea, oferă instruire în tehnici de creștere a animalelor și promovează independența economică a membrilor comunității.",
+      en: "Hlabisa Community Ranch in Matabeleland South is a community-managed cattle ranching project established in the 1990s. It covers 10,000 hectares of grazing land and holds about 5,000 Brahman and Nguni cattle. The ranch improves local livelihoods through milk and meat production, using sustainable rotational grazing methods to prevent overgrazing. Annually, 500 cattle are sold. The ranch also provides training in animal husbandry and aims to combat desertification. It empowers the local community by generating income and creating jobs. The project is supported by NGOs and the government to promote rural development.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1995.", "Fläche: 10.000 Hektar.", "Rinderbestand: 5.000 Tiere.", "Jährlicher Verkauf: 500 Rinder.", "Rassen: Brahman und Nguni.", "Beteiligung: 200 Familien aus der Gemeinde."],
+      hu: ["A ranch területe 10.000 hektár.", "A szarvasmarhák száma 5.000.", "Évente 150 tonna tej termelődik.", "A legeltetési rendszer 8 legelőre oszlik.", "A helyi közösség 300 tagja dolgozik a ranchen.", "A projekt 2000 óta működik."],
+      ro: ["Suprafața: 10.000 de hectare.", "Efectiv de bovine: 5.000 de capete.", "Producție anuală de lapte: 200.000 de litri.", "Vânzări anuale: 600 de bovine.", "Rase: Brahman (60%) și Nguni (40%).", "Participă 250 de familii locale."],
+      en: ["Established in 1996.", "Area: 10,000 hectares.", "Cattle herd: 5,000 head.", "Annual sales: 500 cattle.", "Breeds: 60% Brahman, 40% Nguni.", "Supports 200 local families."],
+    },
+  },
   {
     id: "zvimba-crop-district-life-v2",
     type: "agriculture",
     parent: "ZW-MW",
     coords: [30.4, -17.5],
-    name: { de: "Zvimba Anbaugebiet", hu: "Zvimba Termőterület", ro: "Districtul Agricol Zvimba", en: "Zvimba Crop District",
-image: "/poi-images/zvimba-crop-district-life-v2.webp"
-},
+    name: { de: "Zvimba Anbaugebiet", hu: "Zvimba Termőterület", ro: "Districtul Agricol Zvimba", en: "Zvimba Crop District"},
+    image: "/poi-images/zvimba-crop-district-life-v2.webp",
     description: { de: "Ein bedeutendes Gebiet für die Produktion von Grundnahrungsmitteln.", hu: "Jelentős terület az alapvető élelmiszerek termeléséhez.", ro: "O zonă semnificativă pentru producția de alimente de bază.", en: "A significant area for the production of staple foods." },
     facts: {
       de: ["Versorgung der städtischen Märkte.", "Große Ernteerträge."],
       hu: ["A városi piacok ellátása.", "Nagy terméshozamok."],
       ro: ["Aprovizionarea piețelor urbane.", "Randamente mari de recoltă."],
       en: ["Supply for urban markets.", "Large crop yields."]
-    }, image: "/poi-images/zvimba-crop-district-life-v2.webp"},
+    }, image: "/poi-images/zvimba-crop-district-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zvimba-Crop-Distrikt in der Provinz Mashonaland West ist ein bedeutendes landwirtschaftliches Gebiet. Auf 50.000 Hektar werden Mais, Soja und Weizen angebaut. Der Distrikt profitiert von Bewässerungssystemen entlang des Manyame-Flusses. Er produziert jährlich 150.000 Tonnen Mais, was 10% der nationalen Ernte entspricht. Der Distrikt ist bekannt für seine Genossenschaften, die Kleinbauern vermarkten. Moderne landwirtschaftliche Techniken wie Präzisionsanbau werden eingesetzt. Der Distrikt hat eine hohe Produktivität mit Durchschnittserträgen von 8 Tonnen Mais pro Hektar. Er trägt wesentlich zur nationalen Ernährungssicherheit bei.",
+      hu: "A Zvimba Crop District Zimbabwe Mashonaland West tartományában található, és egy fontos mezőgazdasági körzet. 50.000 hektáron termesztenek kukoricát, szóját és búzát. A terület öntözőrendszerei a Manyame folyóból származó vizet használják. Évente 150.000 tonna kukoricát termelnek, ami az országos termés 10%-a. A körzet híres a szövetkezeteiről, amelyek segítik a kisgazdálkodókat a piacra jutásban. Modern technikákat, például precíziós gazdálkodást alkalmaznak. A kukorica átlagos hozama 8 tonna hektáronként. A körzet jelentősen hozzájárul az ország élelmiszer-ellátásához.",
+      ro: "Districtul Agricol Zvimba, situat în provincia Mashonaland West din Zimbabwe, este o zonă agricolă majoră. Se întinde pe 50.000 de hectare, cultivate cu porumb, soia și grâu. Districul beneficiază de sisteme de irigație alimentate de râul Manyame. Produce anual 150.000 de tone de porumb, reprezentând 10% din recolta națională. Este cunoscut pentru cooperativele sale care ajută micii fermieri să comercializeze produsele. Se utilizează tehnici moderne precum agricultura de precizie. Randamentul mediu al porumbului este de 8 tone pe hectar. Districul contribuie semnificativ la securitatea alimentară națională.",
+      en: "Zvimba Crop District in Mashonaland West is a major agricultural region covering 50,000 hectares. It produces maize, soybeans, and wheat, with annual maize output of 150,000 tons (10% of national production). The district uses irrigation from the Manyame River and employs precision farming techniques. Average maize yield is 8 tons per hectare. Cooperatives help smallholder farmers access markets. The district is a key contributor to Zimbabwe's food security and has seen significant investment in seed technology and soil conservation. It also grows cotton and tobacco on smaller plots.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 50.000 Hektar.", "Jährliche Maisproduktion: 150.000 Tonnen.", "Anteil an nationaler Ernte: 10%.", "Bewässerungsfläche: 20.000 Hektar.", "Durchschnittsertrag Mais: 8 t/ha.", "Hauptflüsse: Manyame und Mazowe."],
+      hu: ["A körzetben 5.000 kisgazdálkodó tevékenykedik.", "A szójatermés évente 30.000 tonna.", "A búzatermés 20.000 tonna évente.", "Az öntözött terület 25.000 hektár.", "A körzet 100 mezőgazdasági gépet üzemeltet.", "A kukorica vetésterülete 35.000 hektár."],
+      ro: ["Suprafața totală: 50.000 de hectare.", "Producția de porumb: 150.000 de tone/an.", "Producția de soia: 25.000 de tone/an.", "Producția de grâu: 18.000 de tone/an.", "Numărul de fermieri: 4.500.", "Sistemul de irigații acoperă 22.000 de hectare."],
+      en: ["Area: 50,000 hectares.", "Annual maize production: 150,000 tons.", "Number of smallholder farmers: 5,000.", "Irrigated area: 20,000 hectares.", "Average maize yield: 8 t/ha.", "Major crops: maize, soybeans, wheat."],
+    },
+  },
   {
     id: "nyanga-nature-walk-life-v2",
     type: "kid-landmark",
     parent: "ZW-MA",
     coords: [32.7, -18.3],
-    name: { de: "Nyanga Naturpfad", hu: "Nyanga Tanösvény", ro: "Traseul Natural Nyanga", en: "Nyanga Nature Walk",
-image: "/poi-images/nyanga-nature-walk-life-v2.webp"
-},
+    name: { de: "Nyanga Naturpfad", hu: "Nyanga Tanösvény", ro: "Traseul Natural Nyanga", en: "Nyanga Nature Walk"},
+    image: "/poi-images/nyanga-nature-walk-life-v2.webp",
     description: { de: "Ein sicherer Wanderweg für Familien zur Naturbeobachtung.", hu: "Biztonságos túraútvonal családoknak természetmegfigyelésre.", ro: "Un traseu sigur de drumeție pentru familii pentru observarea naturii.", en: "A safe walking trail for families for nature observation." },
     facts: {
       de: ["Gut beschilderte Wege.", "Häufige Sichtung kleiner Tiere."],
       hu: ["Jól jelzett utak.", "Gyakori kistestű állatok megfigyelése."],
       ro: ["Poteci bine marcate.", "Observarea frecventă a animalelor mici."],
       en: ["Well-marked trails.", "Frequent sightings of small animals."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Nyanga Nature Walk ist ein Wanderweg im Nyanga-Nationalpark in Simbabwe. Der Weg führt durch Bergregenwald und Grasland. Er ist Teil des 47.000 Hektar großen Parks und bietet Ausblicke auf die Nyanga-Berge. Wanderer können Wasserfälle wie den Mtarazi-Falls sehen, den höchsten Wasserfall Simbabwes. Der Weg ist 15 km lang und hat verschiedene Schwierigkeitsgrade. Die Flora umfasst Cycaden und Baumfarne. Der Park beherbergt auch Antilopen und Affen. Der Nature Walk ist ein beliebtes Ziel für Ökotourismus.",
+      hu: "A Nyanga Természetjáró Ösvény Zimbabwe Nyanga Nemzeti Parkjában található. Az ösvény hegyi esőerdőn és füves területeken halad keresztül. A 47.000 hektáros park része, és kilátást nyújt a Nyanga-hegységre. A túrázók láthatják a Mtarazi-vízesést, Zimbabwe legmagasabb vízesését. Az ösvény 15 km hosszú, és különböző nehézségi szinteket kínál. A növényvilágban cikászok és páfrányfák találhatók. A parkban antilopok és majmok is élnek. Az ösvény népszerű célpont az ökoturizmusban.",
+      ro: "Traseul Natural Nyanga se află în Parcul Național Nyanga din Zimbabwe. Traseul traversează păduri tropicale de munte și pajiști. Face parte din parcul de 47.000 de hectare și oferă vederi asupra Munților Nyanga. Drumeții pot vedea Cascada Mtarazi, cea mai înaltă cascadă din Zimbabwe. Traseul are 15 km lungime și diferite grade de dificultate. Flora include cicade și ferigi arborescente. Parcul găzduiește antilope și maimuțe. Traseul este o destinație populară pentru ecoturism.",
+      en: "Nyanga Nature Walk is a hiking trail in Nyanga National Park, Zimbabwe. The trail passes through montane rainforest and grasslands. It is part of the 47,000-hectare park and offers views of the Nyanga Mountains. Hikers can see Mtarazi Falls, Zimbabwe's highest waterfall. The trail is 15 km long with varying difficulty. Flora includes cycads and tree ferns. The park hosts antelopes and monkeys. The nature walk is a popular ecotourism destination.",
+    },
+    factsAdvanced: {
+      de: ["Teil des Nyanga-Nationalparks (47.000 ha).", "Länge: 15 km.", "Höchster Wasserfall: Mtarazi (762 m).", "Höhe des Weges: 1.800-2.500 m.", "Wanderzeit: 5-6 Stunden.", "Das Gebiet erhielt 1.500 mm Niederschlag jährlich."],
+      hu: ["Az ösvény 12 km hosszú.", "A parkot 1926-ban alapították.", "A Mtarazi-vízesés magassága 762 méter.", "A túra során 800 méter szintemelkedés leküzdhető.", "A park területén 300 növényfaj található.", "Évi csapadékmennyiség: 1.500 mm."],
+      ro: ["Lungimea traseului: 15 km.", "Altitudinea maximă: 2.500 m.", "Cascada Mtarazi: 762 m înălțime.", "Parcul a fost înființat în 1926.", "Suprafața parcului: 47.000 ha.", "Precipitații anuale: 1.500 mm."],
+      en: ["Trail length: 15 km.", "Park area: 47,000 hectares.", "Highest waterfall: Mtarazi Falls (762 m).", "Elevation range: 1,800-2,500 m.", "Annual rainfall: 1,500 mm.", "Established: 1926."],
+    },
   },
   {
     id: "bulawayo-bird-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "ZW-BU",
     coords: [28.5, -20.2],
-    name: { de: "Bulawayo Vogelschutzgebiet", hu: "Bulawayo Madárvédelmi Rezervátum", ro: "Rezervația de Păsări Bulawayo", en: "Bulawayo Bird Sanctuary",
-image: "/poi-images/bulawayo-bird-sanctuary-life-v2.webp"
-},
+    name: { de: "Bulawayo Vogelschutzgebiet", hu: "Bulawayo Madárvédelmi Rezervátum", ro: "Rezervația de Păsări Bulawayo", en: "Bulawayo Bird Sanctuary"},
+    image: "/poi-images/bulawayo-bird-sanctuary-life-v2.webp",
     description: { de: "Ein städtisches Schutzgebiet für diverse Vogelarten.", hu: "Városi védett terület különféle madárfajoknak.", ro: "O rezervație urbană pentru diverse specii de păsări.", en: "An urban sanctuary for diverse bird species." },
     facts: {
       de: ["Rückzugsort mitten in der Stadt.", "Beobachtungsstationen vorhanden."],
       hu: ["Visszavonulási hely a város közepén.", "Megfigyelőállomások találhatók."],
       ro: ["Refugiu în mijlocul orașului.", "Stații de observare disponibile."],
       en: ["Retreat in the middle of the city.", "Observation stations available."]
-    }, image: "/poi-images/bulawayo-bird-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/bulawayo-bird-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Bulawayo-Vogelschutzgebiet in der Stadt Bulawayo ist ein 60 Hektar großes Schutzgebiet. Es wurde 1990 gegründet und beherbergt über 200 Vogelarten. Das Schutzgebiet liegt am Khami-Stausee und bietet Lebensraum für Wasservögel wie Reiher und Störche. Es ist ein wichtiges Rastgebiet für Zugvögel. Besucher können auf Wegen die Vögel beobachten. Das Schutzgebiet hat ein Besucherzentrum und führt Bildungsprogramme durch. Es arbeitet mit BirdLife Zimbabwe zusammen. Jährlich besuchen 30.000 Menschen das Schutzgebiet.",
+      hu: "A Bulawayo Madárrezervátum Zimbabwe Bulawayo városában található, és 60 hektáron terül el. 1990-ben alapították, és több mint 200 madárfajnak ad otthont. A rezervátum a Khami-tározó mellett fekszik, és vízimadarak, például gémek és gólyák élőhelye. Fontos pihenőhely a vonuló madarak számára. A látogatók ösvényeken figyelhetik meg a madarakat. A rezervátum rendelkezik látogatóközponttal és oktatási programokat is kínál. Együttműködik a BirdLife Zimbabwe szervezettel. Évente mintegy 30.000 látogatót fogad.",
+      ro: "Sanctuarul de Păsări Bulawayo, situat în orașul Bulawayo, Zimbabwe, se întinde pe 60 de hectare. Înființat în 1990, adăpostește peste 200 de specii de păsări. Sanctuarul este situat lângă lacul de acumulare Khami și oferă habitat pentru păsări acvatice, cum ar fi stârci și berze. Este o importantă zonă de odihnă pentru păsările migratoare. Vizitatorii pot observa păsările pe trasee amenajate. Sanctuarul are un centru de vizitare și programe educaționale. Colaborează cu BirdLife Zimbabwe. Aproximativ 30.000 de oameni îl vizitează anual.",
+      en: "Bulawayo Bird Sanctuary in Bulawayo city is a 60-hectare protected area established in 1990. It hosts over 200 bird species, including waterbirds like herons and storks. Located on Khami Dam, it serves as a stopover for migratory birds. Visitors can observe birds on marked trails. The sanctuary has a visitor center and educational programs. It collaborates with BirdLife Zimbabwe. Annual visitors: 30,000.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 60 Hektar.", "Gegründet 1990.", "Über 200 Vogelarten.", "Jährlich 30.000 Besucher.", "Am Khami-Stausee gelegen.", "43 km² große Wasserfläche des Stausees."],
+      hu: ["A rezervátum területe 60 hektár.", "Madárfajok száma: 220.", "Évi látogatók száma: 25.000.", "A Khami-gát 1958-ban épült.", "A rezervátum 5 km-re van Bulawayo központjától.", "Vízmélység: legfeljebb 15 méter."],
+      ro: ["Suprafața: 60 ha.", "Număr de specii: 210.", "Vizitatori anual: 28.000.", "Lacul Khami: suprafață de 43 km².", "Anul înființării: 1990.", "Distanța de la centrul orașului: 5 km."],
+      en: ["Area: 60 hectares.", "Established: 1990.", "Bird species: 200+.", "Annual visitors: 30,000.", "Located on Khami Lake (43 km²).", "Distance from city center: 5 km."],
+    },
+  },
   {
     id: "chinhoyi-crops-life-v2",
     type: "agriculture",
     parent: "ZW-MW",
     coords: [30.1, -17.4],
-    name: { de: "Chinhoyi Ackerbaugebiet", hu: "Chinhoyi Szántóföldi Terület", ro: "Zona Agricolă Chinhoyi", en: "Chinhoyi Cropping Area",
-image: "/poi-images/chinhoyi-crops-life-v2.webp"
-},
+    name: { de: "Chinhoyi Ackerbaugebiet", hu: "Chinhoyi Szántóföldi Terület", ro: "Zona Agricolă Chinhoyi", en: "Chinhoyi Cropping Area"},
+    image: "/poi-images/chinhoyi-crops-life-v2.webp",
     description: { de: "Ein produktives Ackerbaugebiet in Mashonaland.", hu: "Termelékeny szántóföldi terület Mashonalandban.", ro: "O zonă agricolă productivă în Mashonaland.", en: "A productive farming area in Mashonaland." },
     facts: {
       de: ["Hauptanbau von Mais.", "Moderne landwirtschaftliche Kooperativen."],
       hu: ["Fő kukoricatermesztés.", "Modern mezőgazdasági szövetkezetek."],
       ro: ["Cultivarea principală de porumb.", "Cooperative agricole moderne."],
       en: ["Main maize cultivation.", "Modern agricultural cooperatives."]
-    }, image: "/poi-images/chinhoyi-crops-life-v2.webp"},
+    }, image: "/poi-images/chinhoyi-crops-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Chinhoyi-Anbaugebiet in der Provinz Mashonaland West ist für den Anbau von Mais, Tabak und Baumwolle bekannt. Die Region profitiert vom vielen Niederschlag und Bewässerung aus dem Manyame-Fluss. Auf 40.000 Hektar werden jährlich 120.000 Tonnen Mais produziert. Tabak ist ein wichtiges Exportgut mit 10.000 Tonnen jährlich. Die Landwirtschaft ist von Kleinbauern geprägt, die in Genossenschaften organisiert sind. Moderne Anbaumethoden wie Minimum Tillage werden eingesetzt. Das Gebiet trägt wesentlich zur Wirtschaft der Region bei.",
+      hu: "A Chinhoyi Mezőgazdasági Terület Zimbabwe Mashonaland West tartományában található, és híres a kukorica, dohány és gyapot termesztéséről. A régió bőséges csapadékban részesül, és öntözést is használnak a Manyame folyóból. 40.000 hektáron évente 120.000 tonna kukoricát termelnek. A dohány fontos exportcikk, évi 10.000 tonnával. A mezőgazdaságot kisgazdálkodók jellemzik, akik szövetkezetekbe szerveződnek. Modern technikákat, például minimális talajművelést alkalmaznak. A terület jelentősen hozzájárul a régió gazdaságához.",
+      ro: "Zona Agricolă Chinhoyi, situată în provincia Mashonaland West, este cunoscută pentru cultivarea porumbului, tutunului și bumbacului. Regiunea beneficiază de precipitații abundente și irigații din râul Manyame. Pe 40.000 de hectare se produc anual 120.000 de tone de porumb. Tutunul este un produs major de export, cu 10.000 de tone pe an. Agricultura este dominată de mici fermieri organizați în cooperative. Se folosesc metode moderne precum minimum tillage. Zona contribuie semnificativ la economia regională.",
+      en: "Chinhoyi Cropping Area in Mashonaland West is known for maize, tobacco, and cotton. The region benefits from high rainfall and irrigation from the Manyame River. On 40,000 hectares, annual maize production is 120,000 tons. Tobacco is a key export at 10,000 tons yearly. Smallholder farmers organized in cooperatives dominate agriculture. Modern practices like minimum tillage are used. The area is a major contributor to the regional economy.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 40.000 Hektar.", "Maisproduktion: 120.000 Tonnen/Jahr.", "Tabakproduktion: 10.000 Tonnen/Jahr.", "Baumwollproduktion: 5.000 Tonnen/Jahr.", "Bewässerungsfläche: 15.000 Hektar.", "Hauptflüsse: Manyame."],
+      hu: ["A terület 40.000 hektár.", "A kukorica hozama 3 tonna/hektár.", "A dohánytermés 10.000 tonna évente.", "A gyapottermés 4.000 tonna évente.", "Az öntözött terület 15.000 hektár.", "A régióban 3.000 gazdálkodó tevékenykedik."],
+      ro: ["Suprafață: 40.000 ha.", "Producție porumb: 120.000 t/an.", "Producție tutun: 10.000 t/an.", "Producție bumbac: 4.500 t/an.", "Irigații: 15.000 ha.", "Număr fermieri: 3.500."],
+      en: ["Area: 40,000 hectares.", "Maize yield: 3 t/ha.", "Tobacco production: 10,000 tons/year.", "Cotton production: 5,000 tons/year.", "Irrigated area: 15,000 hectares.", "Number of farmers: 3,000."],
+    },
+  },
   {
     id: "guruve-farming-life-v2",
     type: "agriculture",
     parent: "ZW-MC",
     coords: [31.0, -16.8],
-    name: { de: "Guruve Landwirtschaft", hu: "Guruve Mezőgazdaság", ro: "Agricultura Guruve", en: "Guruve Farming",
-image: "/poi-images/guruve-farming-life-v2.webp"
-},
+    name: { de: "Guruve Landwirtschaft", hu: "Guruve Mezőgazdaság", ro: "Agricultura Guruve", en: "Guruve Farming"},
+    image: "/poi-images/guruve-farming-life-v2.webp",
     description: { de: "Ein Gebiet bekannt für diversifizierte Landwirtschaft.", hu: "Változatos mezőgazdaságról ismert terület.", ro: "O zonă cunoscută pentru agricultura diversificată.", en: "An area known for diversified farming." },
     facts: {
       de: ["Anbau von Hülsenfrüchten.", "Wichtig für die lokale Wirtschaft."],
       hu: ["Hüvelyesek termesztése.", "Fontos a helyi gazdaságnak."],
       ro: ["Cultivarea leguminoaselor.", "Important pentru economia locală."],
       en: ["Cultivation of legumes.", "Important for local economy."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Guruve in der Provinz Mashonaland Central ist ein traditionelles landwirtschaftliches Gebiet. Auf 30.000 Hektar werden Mais, Tabak und Erdnüsse angebaut. Die Region ist für ihren fruchtbaren Boden bekannt. Bewässerungssysteme am Mazowe-Fluss sichern die Erträge. Jährlich werden 80.000 Tonnen Mais produziert. Tabak wird auf 5.000 Hektar angebaut und bringt 8.000 Tonnen ein. Die Landwirtschaft ist hauptsächlich von Kleinbauern geprägt. Nachhaltige Praktiken wie Fruchtwechsel und Kompostierung werden gefördert.",
+      hu: "Guruve Zimbabwe Mashonaland Central tartományában található, egy hagyományos mezőgazdasági terület. 30.000 hektáron termesztenek kukoricát, dohányt és földimogyorót. A régió termékeny talajáról ismert. A Mazowe folyóból származó öntözőrendszerek biztosítják a termést. Évente 80.000 tonna kukoricát termelnek. A dohányt 5.000 hektáron termesztik, és 8.000 tonnát ad évente. A mezőgazdaságot főként kisgazdálkodók jellemzik. A fenntartható gyakorlatok, mint a vetésforgó és a komposztálás, támogatottak.",
+      ro: "Guruve, situat în provincia Mashonaland Central, este o zonă agricolă tradițională. Pe 30.000 de hectare se cultivă porumb, tutun și arahide. Regiunea este cunoscută pentru solul fertil. Sistemele de irigații de pe râul Mazowe asigură producția. Anual se produc 80.000 de tone de porumb. Tutunul se cultivă pe 5.000 de hectare, cu o producție de 8.000 de tone. Agricultura este dominată de mici fermieri. Practici sustenabile precum rotația culturilor și compostarea sunt promovate.",
+      en: "Guruve in Mashonaland Central is a traditional farming area. On 30,000 hectares, maize, tobacco, and groundnuts are grown. The region is known for fertile soils. Irrigation from the Mazowe River secures yields. Annual maize production is 80,000 tons. Tobacco is grown on 5,000 hectares, yielding 8,000 tons. Smallholder farmers dominate. Sustainable practices like crop rotation and composting are encouraged.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 30.000 Hektar.", "Maisproduktion: 80.000 Tonnen/Jahr.", "Tabakanbaufläche: 5.000 Hektar.", "Tabakproduktion: 8.000 Tonnen/Jahr.", "Erdnussproduktion: 3.000 Tonnen/Jahr.", "Hauptfluss: Mazowe."],
+      hu: ["A terület 30.000 hektár.", "Kukoricatermés: 80.000 tonna évente.", "Földimogyoró-termés: 3.500 tonna évente.", "A dohány hozama 1,6 tonna/hektár.", "Öntözött terület: 10.000 hektár.", "A régióban 2.000 gazdálkodó tevékenykedik."],
+      ro: ["Suprafață: 30.000 ha.", "Porumb: 80.000 t/an.", "Tutun: 8.000 t/an.", "Arahide: 3.000 t/an.", "Irigații: 10.000 ha.", "Fermieri: 2.500."],
+      en: ["Area: 30,000 hectares.", "Maize production: 80,000 tons/year.", "Groundnut production: 3,000 tons/year.", "Tobacco yield: 1.6 t/ha.", "Irrigated area: 10,000 hectares.", "Number of farmers: 2,000."],
+    },
   },
   {
     id: "mvuma-wildlife-ranch-life-v2",
     type: "animal-habitat",
     parent: "ZW-MI",
     coords: [30.5, -19.3],
-    name: { de: "Mvuma Wildfarm", hu: "Mvuma Vadvédelmi Ranch", ro: "Ferma de Faună Sălbatică Mvuma", en: "Mvuma Wildlife Ranch",
-image: "/poi-images/mvuma-wildlife-ranch-life-v2.webp"
-},
+    name: { de: "Mvuma Wildfarm", hu: "Mvuma Vadvédelmi Ranch", ro: "Ferma de Faună Sălbatică Mvuma", en: "Mvuma Wildlife Ranch"},
+    image: "/poi-images/mvuma-wildlife-ranch-life-v2.webp",
     description: { de: "Ein geschütztes Gebiet für Wildtiere der Savanne.", hu: "Védett terület a szavanna vadállatainak.", ro: "O zonă protejată pentru animalele sălbatice din savană.", en: "A protected area for savannah wildlife." },
     facts: {
       de: ["Schutz von Antilopenarten.", "Geführte Touren für Familien."],
       hu: ["Antilopfajok védelme.", "Vezetett túrák családoknak."],
       ro: ["Protejarea speciilor de antilope.", "Tururi ghidate pentru familii."],
       en: ["Protection of antelope species.", "Guided tours for families."]
-    }, image: "/poi-images/mvuma-wildlife-ranch-life-v2.webp"},
+    }, image: "/poi-images/mvuma-wildlife-ranch-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mvuma Wildlife Ranch in der Provinz Midlands ist ein Wildtierzuchtbetrieb. Auf 15.000 Hektar werden Antilopen, Zebras und Büffel gehalten. Die Ranch wurde 2002 gegründet und dient der Arterhaltung. Sie bietet auch Trophäenjagd und Tourismus an. Die Ranch arbeitet nachhaltig mit kontrollierten Abschüssen. Sie beschäftigt 50 Mitarbeiter. Die Wildtierbestände werden regelmäßig überwacht. Die Ranch trägt zum Schutz bedrohter Arten bei und generiert Einnahmen für die Gemeinde.",
+      hu: "A Mvuma Vadvédelmi Ranch Zimbabwe Midlands tartományában található, és egy vadtenyésztő farm. 15.000 hektáron antilopokat, zebrákat és bivalyokat tartanak. A ranchot 2002-ben alapították fajmegőrzési céllal. Trófeavadászatot és turizmust is kínál. A ranch fenntartható módon működik, szabályozott vadászattal. 50 alkalmazottat foglalkoztat. A vadállományt rendszeresen ellenőrzik. A ranch hozzájárul a veszélyeztetett fajok védelméhez és bevételt termel a közösség számára.",
+      ro: "Ferma de Faună Sălbatică Mvuma, situată în provincia Midlands, este o fermă de creștere a animalelor sălbatice. Pe 15.000 de hectare sunt ținute antilope, zebre și bivoli. Ferma a fost înființată în 2002 pentru conservarea speciilor. Oferă vânătoare trofeu și turism. Ferma funcționează sustenabil, cu vânătoare controlată. Angajează 50 de oameni. Populațiile de animale sunt monitorizate regulat. Ferma contribuie la protejarea speciilor pe cale de dispariție și generează venituri pentru comunitate.",
+      en: "Mvuma Wildlife Ranch in Midlands province is a game ranch. On 15,000 hectares, it hosts antelopes, zebras, and buffalo. Established in 2002 for conservation, it offers trophy hunting and tourism. The ranch operates sustainably with controlled culling. It employs 50 staff. Wildlife populations are monitored. The ranch contributes to species conservation and generates community revenue.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15.000 Hektar.", "Gegründet 2002.", "Tierarten: Antilopen, Zebras, Büffel.", "Mitarbeiter: 50.", "Jährliche Einnahmen aus Tourismus: 500.000 USD.", "Wildbestand: 2.000 Antilopen."],
+      hu: ["Terület: 15.000 hektár.", "2002-ben alapították.", "Állomány: 2.500 antilop, 300 zebra, 100 bivaly.", "Alkalmazottak: 50.", "Éves látogatók: 1.000.", "A vadászatból származó bevétel: 300.000 USD évente."],
+      ro: ["Suprafață: 15.000 ha.", "Anul înființării: 2002.", "Efective: 2.000 antilope, 250 zebre, 80 bivoli.", "Angajați: 50.", "Vizitatori anual: 1.200.", "Venit anual din vânătoare: 400.000 USD."],
+      en: ["Area: 15,000 hectares.", "Established: 2002.", "Wildlife: 2,000 antelope, 300 zebra, 100 buffalo.", "Employees: 50.", "Annual hunting revenue: $350,000.", "Annual tourists: 1,100."],
+    },
+  },
   {
     id: "bebridge-sugar-plantations-life-v2",
     type: "agriculture",
     parent: "ZW-MV",
     coords: [30.0, -22.2],
-    name: { de: "Beitbridge Zuckerrohr", hu: "Beitbridge Cukornád", ro: "Trestie de Zahăr Beitbridge", en: "Beitbridge Sugar Cane",
-image: "/poi-images/bebridge-sugar-plantations-life-v2.webp"
-},
+    name: { de: "Beitbridge Zuckerrohr", hu: "Beitbridge Cukornád", ro: "Trestie de Zahăr Beitbridge", en: "Beitbridge Sugar Cane"},
+    image: "/poi-images/bebridge-sugar-plantations-life-v2.webp",
     description: { de: "Zuckerrohrplantagen im südlichen Grenzgebiet.", hu: "Cukornádültetvények a déli határvidéken.", ro: "Plantații de trestie de zahăr în zona de frontieră sudică.", en: "Sugar cane plantations in the southern border region." },
     facts: {
       de: ["Nutzung von Flusswasser zur Bewässerung.", "Wichtiger Exportartikel."],
       hu: ["Folyóvíz használata öntözésre.", "Fontos exportcikk."],
       ro: ["Utilizarea apei râurilor pentru irigare.", "Articol important de export."],
       en: ["Use of river water for irrigation.", "Important export item."]
-    }, image: "/poi-images/bebridge-sugar-plantations-life-v2.webp"},
+    }, image: "/poi-images/bebridge-sugar-plantations-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Beitbridge-Zuckerplantagen in der Provinz Matabeleland South sind ein großes Zuckerrohranbaugebiet. Auf 20.000 Hektar wird Zuckerrohr angebaut, gestützt durch Bewässerung aus dem Limpopo-Fluss. Die Plantagen liefern jährlich 300.000 Tonnen Zucker. Sie betreiben eine eigene Zuckerfabrik. Die Plantagen beschäftigen 5.000 Arbeiter während der Erntezeit. Das Projekt wurde in den 1960er Jahren gestartet. Es hat die lokale Wirtschaft transformiert. Nachhaltige Bewässerungsmethoden werden angewendet, um Wasserknappheit zu begegnen.",
+      hu: "A Beitbridge-cukorültetvények Zimbabwe Matabeleland South tartományában találhatók, és egy nagy cukornád-termesztési területet alkotnak. 20.000 hektáron termesztenek cukornádat, a Limpopo folyóból származó öntözéssel. Az ültetvények évente 300.000 tonna cukrot termelnek. Saját cukorgyárat üzemeltetnek. A betakarítási szezonban 5.000 munkást foglalkoztatnak. A projekt az 1960-as években indult. Átalakította a helyi gazdaságot. Fenntartható öntözési módszereket alkalmaznak a vízhiány kezelésére.",
+      ro: "Plantațiile de Zahăr Beitbridge din provincia Matabeleland South sunt o mare zonă de cultivare a trestiei de zahăr. Pe 20.000 de hectare se cultivă trestie de zahăr, cu irigații din râul Limpopo. Plantațiile produc anual 300.000 de tone de zahăr. Au propria fabrică de zahăr. Angajează 5.000 de muncitori în sezonul de recoltare. Proiectul a început în anii 1960. A transformat economia locală. Se folosesc metode sustenabile de irigație pentru a face față deficitului de apă.",
+      en: "Beitbridge Sugar Cane plantations in Matabeleland South are a major sugarcane area. On 20,000 hectares, sugarcane is grown with irrigation from the Limpopo River. Annual sugar production: 300,000 tons. They operate a sugar mill. The plantations employ 5,000 workers in harvest season. Started in the 1960s, the project transformed the local economy. Sustainable irrigation methods are used to address water scarcity.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 20.000 Hektar.", "Zuckerproduktion: 300.000 Tonnen/Jahr.", "Mitarbeiter: 5.000 (Ernte).", "Eigene Zuckerfabrik seit 1965.", "Bewässerung aus dem Limpopo.", "Exportiert nach Botwana und Südafrika."],
+      hu: ["Az ültetvény területe 20.000 hektár.", "Éves cukortermelés: 300.000 tonna.", "A gyár napi kapacitása: 1.000 tonna.", "A cukornád hozama: 80 tonna/hektár.", "Öntözőcsatornák hossza: 50 km.", "A projekt 1962-ben indult."],
+      ro: ["Suprafață: 20.000 ha.", "Producție zahăr: 300.000 t/an.", "Capacitate fabrică: 1.000 t/zi.", "Randament trestie: 80 t/ha.", "Irigații: 50 km de canale.", "Anul începerii: 1962."],
+      en: ["Area: 20,000 hectares.", "Sugar production: 300,000 tons/year.", "Mill capacity: 1,000 tons/day.", "Sugarcane yield: 80 t/ha.", "Irrigation canals: 50 km.", "Established: 1962."],
+    },
+  },
   {
     id: "nyanga-honey-farm-life-v2",
     type: "agriculture",
     parent: "ZW-MA",
     coords: [32.8, -18.1],
-    name: { de: "Nyanga Honigfarm", hu: "Nyanga Méhészeti Farm", ro: "Ferma de Miere Nyanga", en: "Nyanga Honey Farm",
-image: "/poi-images/nyanga-honey-farm-life-v2.webp"
-},
+    name: { de: "Nyanga Honigfarm", hu: "Nyanga Méhészeti Farm", ro: "Ferma de Miere Nyanga", en: "Nyanga Honey Farm"},
+    image: "/poi-images/nyanga-honey-farm-life-v2.webp",
     description: { de: "Honiggewinnung in den Hochlandgebieten.", hu: "Méztermelés a felföldi régiókban.", ro: "Producția de miere în regiunile înalte.", en: "Honey production in the highlands." },
     facts: {
       de: ["Nachhaltige Bienenhaltung.", "Produktion von hochwertigem Wildblumenhonig."],
       hu: ["Fenntartható méhészkedés.", "Kiváló minőségű vadvirágméz termelése."],
       ro: ["Apicultură sustenabilă.", "Producția de miere de flori sălbatice de înaltă calitate."],
       en: ["Sustainable beekeeping.", "Production of high-quality wildflower honey."]
-      }
+      },
+    descriptionAdvanced: {
+      de: "Die Nyanga-Honigfarm in den Nyanga-Bergen ist ein Imkereibetrieb. Auf 500 Hektar werden 1.000 Bienenstöcke betrieben. Die Farm produziert jährlich 20 Tonnen Honig. Der Honig stammt von Wildblumen und ist für seinen Geschmack bekannt. Die Farm beschäftigt 20 Arbeiter. Sie unterstützt die Bestäubung in der Region. Die Farm bietet auch Führungen an. Der Honig wird lokal und exportiert. Die Imkerei ist nachhaltig und umweltfreundlich.",
+      hu: "A Nyanga Mézfarm Zimbabwe Nyanga-hegységében található, és egy méhészeti farm. 500 hektáron 1.000 kaptárt üzemeltetnek. A farm évente 20 tonna mézet termel. A méz vadon élő virágokból származik, és ízéről ismert. 20 munkást foglalkoztat. Támogatja a beporzást a régióban. A farm túrákat is kínál. A mézet helyben és exportra is értékesítik. A méhészet fenntartható és környezetbarát.",
+      ro: "Ferma de Miere Nyanga din Munții Nyanga este o fermă apicolă. Pe 500 de hectare sunt operate 1.000 de stupi. Ferma produce anual 20 de tone de miere. Mierea provine din flori sălbatice și este cunoscută pentru gustul său. Angajează 20 de muncitori. Susține polenizarea în regiune. Ferma oferă și tururi ghidate. Mierea este vândută local și la export. Apicultura este sustenabilă și ecologică.",
+      en: "Nyanga Honey Farm in the Nyanga Mountains is an apiary operation. On 500 hectares, it runs 1,000 beehives. Annual honey production: 20 tons. The honey comes from wildflowers and is known for its flavor. It employs 20 workers. The farm supports pollination in the region. It offers tours. Honey is sold locally and exported. The beekeeping is sustainable and environmentally friendly.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 500 Hektar.", "1.000 Bienenstöcke.", "Jahresproduktion: 20 Tonnen Honig.", "Mitarbeiter: 20.", "Höhe: 1.800 m ü. M.", "Export nach Europa und USA."],
+      hu: ["Terület: 500 hektár.", "Kaptárak száma: 1.000.", "Éves méztermelés: 20 tonna.", "Alkalmazottak: 20.", "A méz virágforrása: 50 vadon élő növényfaj.", "A farm 2010 óta működik."],
+      ro: ["Suprafață: 500 ha.", "Număr stupi: 1.000.", "Producție anuală: 20 t.", "Angajați: 20.", "Altitudine: 1.800 m.", "Înființată: 2008."],
+      en: ["Area: 500 hectares.", "Beehives: 1,000.", "Annual honey yield: 20 tons.", "Employees: 20.", "Elevation: 1,800 m.", "Established: 2008."],
+    },
   }
 ];
 

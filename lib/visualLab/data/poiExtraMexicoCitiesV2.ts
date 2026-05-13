@@ -7,9 +7,8 @@ export const poiExtraMexicoCitiesV2: POI[] = [
     type: "state-capital",
     parent: "MX-NLE",
     coords: [-100.3161, 25.6866],
-    name: { de: "Monterrey", hu: "Monterrey", ro: "Monterrey", en: "Monterrey",
-image: "/poi-images/monterrey-cities-v2.webp"
-},
+    name: { de: "Monterrey", hu: "Monterrey", ro: "Monterrey", en: "Monterrey"},
+    image: "/poi-images/monterrey-cities-v2.webp",
     description: { de: "Die Hauptstadt des Bundesstaates Nuevo León und ein bedeutendes Industriezentrum.", hu: "Nuevo León állam fővárosa és egy fontos ipari központ.", ro: "Capitala statului Nuevo León și un important centru industrial.", en: "The capital of the state of Nuevo León and a major industrial center." },
     facts: { de: ["Umgeben von Bergen", "Wirtschaftliches Zentrum im Norden", "Starke Industriekultur"], hu: ["Hegyekkel körülvéve", "Észak-Mexikó gazdasági központja", "Erős ipari kultúra"], ro: ["Înconjurat de munți", "Centru economic în nord", "Cultură industrială puternică"], en: ["Surrounded by mountains", "Northern economic hub", "Strong industrial culture"] },
     descriptionAdvanced: {
@@ -29,9 +28,8 @@ image: "/poi-images/monterrey-cities-v2.webp"
     type: "state-capital",
     parent: "MX-PUE",
     coords: [-98.2063, 19.0414],
-    name: { de: "Puebla", hu: "Puebla", ro: "Puebla", en: "Puebla",
-image: "/poi-images/puebla-cities-v2.webp"
-},
+    name: { de: "Puebla", hu: "Puebla", ro: "Puebla", en: "Puebla"},
+    image: "/poi-images/puebla-cities-v2.webp",
     description: { de: "Bekannt für seine koloniale Architektur, Talavera-Keramik und kulinarische Geschichte.", hu: "Híres gyarmati építészetéről, Talavera kerámiáiról és kulináris történelméről.", ro: "Renumit pentru arhitectura sa colonială, ceramica Talavera și istoria culinară.", en: "Known for its colonial architecture, Talavera pottery, and culinary history." },
     facts: { de: ["Historisches Zentrum ist UNESCO-Welterbe", "Berühmt für Mole Poblano", "Nahe dem Vulkan Popocatépetl"], hu: ["Történelmi központja UNESCO Világörökség", "Híres a Mole Poblano-ról", "A Popocatépetl vulkán közelében"], ro: ["Centrul istoric este patrimoniu mondial UNESCO", "Renumit pentru Mole Poblano", "Aproape de vulcanul Popocatépetl"], en: ["Historic center is a UNESCO World Heritage site", "Famous for Mole Poblano", "Near the Popocatépetl volcano"] },
     descriptionAdvanced: {
@@ -51,9 +49,8 @@ image: "/poi-images/puebla-cities-v2.webp"
     type: "city",
     parent: "MX-BCN",
     coords: [-117.0382, 32.5149],
-    name: { de: "Tijuana", hu: "Tijuana", ro: "Tijuana", en: "Tijuana",
-image: "/poi-images/tijuana-cities-v2.webp"
-},
+    name: { de: "Tijuana", hu: "Tijuana", ro: "Tijuana", en: "Tijuana"},
+    image: "/poi-images/tijuana-cities-v2.webp",
     description: { de: "Eine dynamische Grenzstadt an der Grenze zu den Vereinigten Staaten, bekannt für ihre Kultur und Industrie.", hu: "Dinamikus határváros az Egyesült Államok határán, kultúrájáról és iparáról ismert.", ro: "Un oraș de frontieră dinamic la granița cu Statele Unite, cunoscut pentru cultura și industria sa.", en: "A dynamic border city on the United States border, known for its culture and industry." },
     facts: { de: ["Meistbesuchte Grenzstadt der Welt", "Wichtiges medizinisches Tourismusziel", "Kultureller Schmelztiegel"], hu: ["A világ leglátogatottabb határvárosa", "Fontos orvosi turisztikai célpont", "Kulturális olvasztótégely"], ro: ["Cel mai vizitat oraș de frontieră din lume", "Destinație importantă pentru turismul medical", "Creuzet cultural"], en: ["Most visited border city in the world", "Major medical tourism destination", "Cultural melting pot"] },
     descriptionAdvanced: {
@@ -73,9 +70,8 @@ image: "/poi-images/tijuana-cities-v2.webp"
     type: "city",
     parent: "MX-CHH",
     coords: [-106.4850, 31.7393],
-    name: { de: "Ciudad Juárez", hu: "Ciudad Juárez", ro: "Ciudad Juárez", en: "Ciudad Juárez",
-image: "/poi-images/ciudad-juarez-cities-v2.webp"
-},
+    name: { de: "Ciudad Juárez", hu: "Ciudad Juárez", ro: "Ciudad Juárez", en: "Ciudad Juárez"},
+    image: "/poi-images/ciudad-juarez-cities-v2.webp",
     description: { de: "Eine bedeutende Industriestadt an der Grenze zu den USA, gegenüber von El Paso gelegen.", hu: "Nagy ipari város a Rio Grande partján, a texasi El Pasóval szemben.", ro: "Un mare oraș industrial pe Rio Grande, vizavi de El Paso, Texas.", en: "A large industrial city on the Rio Grande, opposite El Paso, Texas." },
     facts: { de: ["Grenzstadt am Rio Grande", "Zentrum der Maquiladora-Industrie", "Gegründet im Jahr 1659"], hu: ["Fontos gyártási központ (Maquiladoras)", "Erős kereskedelmi kapcsolatok az USA-val", "Sivatagi éghajlat"], ro: ["Centru de producție important (Maquiladoras)", "Relații comerciale puternice cu SUA", "Climat deșertic"], en: ["Major manufacturing center (Maquiladoras)", "Strong trade ties with the US", "Desert climate"] },
     descriptionAdvanced: {
@@ -95,9 +91,8 @@ image: "/poi-images/ciudad-juarez-cities-v2.webp"
     type: "city",
     parent: "MX-GUA",
     coords: [-101.6853, 21.1250],
-    name: { de: "León", hu: "León", ro: "León", en: "León",
-image: "/poi-images/leon-cities-v2.webp"
-},
+    name: { de: "León", hu: "León", ro: "León", en: "León"},
+    image: "/poi-images/leon-cities-v2.webp",
     description: { de: "Bekannt als die 'Schuhhauptstadt der Welt' wegen ihrer Leder- und Schuhindustrie.", hu: "A 'világ cipőfővárosaként' ismert bőr- és cipőipara miatt.", ro: "Cunoscut drept 'capitala mondială a încălțămintei' pentru industria sa de piele și încălțăminte.", en: "Known as the 'Shoe Capital of the World' for its leather and footwear industry." },
     facts: { de: ["Zentrum der Lederverarbeitung", "Wirtschaftlich wichtige Stadt in der Bajío-Region", "Jährliches internationales Ballonfestival"], hu: ["Bőrfeldolgozás központja", "Gazdaságilag fontos város a Bajío régióban", "Éves nemzetközi hőlégballon-fesztivál"], ro: ["Centru de prelucrare a pielii", "Oraș important economic în regiunea Bajío", "Festival internațional anual de baloane"], en: ["Center of leather processing", "Economically important city in the Bajío region", "Annual international balloon festival"] },
     descriptionAdvanced: {
@@ -117,9 +112,8 @@ image: "/poi-images/leon-cities-v2.webp"
     type: "city",
     parent: "MX-JAL",
     coords: [-103.3918, 20.7202],
-    name: { de: "Zapopan", hu: "Zapopan", ro: "Zapopan", en: "Zapopan",
-image: "/poi-images/zapopan-cities-v2.webp"
-},
+    name: { de: "Zapopan", hu: "Zapopan", ro: "Zapopan", en: "Zapopan"},
+    image: "/poi-images/zapopan-cities-v2.webp",
     description: { de: "Eine Stadt, die Teil der Metropolregion Guadalajara ist und für ihre Basilika bekannt ist.", hu: "Guadalajara nagyvárosi területének része, bazilikájáról ismert.", ro: "Un oraș care face parte din zona metropolitană Guadalajara, renumit pentru bazilica sa.", en: "A city that is part of the Guadalajara metropolitan area, famous for its basilica." },
     facts: { de: ["Basilika von Zapopan ist ein wichtiger Wallfahrtsort", "Moderne Geschäftsviertel", "Teil des 'Silicon Valley' von Mexiko"], hu: ["A Zapopani Bazilika fontos zarándokhely", "Modern üzleti negyedek", "Mexikó 'Szilícium-völgyének' része"], ro: ["Bazilica din Zapopan este un important loc de pelerinaj", "Cartiere de afaceri moderne", "Parte a 'Silicon Valley' din Mexic"], en: ["Basilica of Zapopan is a major pilgrimage site", "Modern business districts", "Part of Mexico's 'Silicon Valley'"] },
     descriptionAdvanced: {
@@ -139,9 +133,8 @@ image: "/poi-images/zapopan-cities-v2.webp"
     type: "city",
     parent: "MX-MEX",
     coords: [-99.0181, 19.4031],
-    name: { de: "Nezahualcóyotl", hu: "Nezahualcóyotl", ro: "Nezahualcóyotl", en: "Nezahualcóyotl",
-image: "/poi-images/nezahualcoyotl-cities-v2.webp"
-},
+    name: { de: "Nezahualcóyotl", hu: "Nezahualcóyotl", ro: "Nezahualcóyotl", en: "Nezahualcóyotl"},
+    image: "/poi-images/nezahualcoyotl-cities-v2.webp",
     description: { de: "Eine dicht besiedelte Stadt und Gemeinde im Bundesstaat Mexiko, Teil der Metropolregion Mexiko-Stadt.", hu: "Sűrűn lakott város és település Mexikó államban, Mexikóváros nagyvárosi területének része.", ro: "Un oraș și o municipalitate dens populată în statul Mexic, parte a zonei metropolitane Mexico City.", en: "A densely populated city and municipality in the State of Mexico, part of the Mexico City metropolitan area." },
     facts: { de: ["Eine der bevölkerungsreichsten Gemeinden Mexikos", "Schnelles Wachstum im 20. Jahrhundert", "Benannt nach einem Dichter-König der Acolhua"], hu: ["Mexikó egyik legnépesebb települése", "Gyors növekedés a 20. században", "Egy Acolhua költő-királyról nevezték el"], ro: ["Una dintre cele mai populate municipalități din Mexic", "Creștere rapidă în secolul al XX-lea", "Numit după un rege-poet Acolhua"], en: ["One of Mexico's most populous municipalities", "Rapid growth in the 20th century", "Named after an Acolhua poet-king"] },
     descriptionAdvanced: {
@@ -161,9 +154,8 @@ image: "/poi-images/nezahualcoyotl-cities-v2.webp"
     type: "state-capital",
     parent: "MX-YUC",
     coords: [-89.6236, 20.9676],
-    name: { de: "Mérida", hu: "Mérida", ro: "Mérida", en: "Mérida",
-image: "/poi-images/merida-cities-v2.webp"
-},
+    name: { de: "Mérida", hu: "Mérida", ro: "Mérida", en: "Mérida"},
+    image: "/poi-images/merida-cities-v2.webp",
     description: { de: "Die Hauptstadt von Yucatán, bekannt für ihr reiches Maya- und Kolonialerbe.", hu: "Yucatán fővárosa, gazdag maja és gyarmati örökségéről ismert.", ro: "Capitala Yucatánului, cunoscută pentru bogata sa moștenire mayașă și colonială.", en: "The capital of Yucatán, known for its rich Mayan and colonial heritage." },
     facts: { de: ["'Die weiße Stadt' genannt", "Kulturelles Zentrum der Halbinsel Yucatán", "Starke kulinarische Tradition"], hu: ["'A fehér városnak' hívják", "A Yucatán-félsziget kulturális központja", "Erős kulináris hagyomány"], ro: ["Numit 'Orașul Alb'", "Centrul cultural al Peninsulei Yucatán", "Tradiție culinară puternică"], en: ["Called 'The White City'", "Cultural hub of the Yucatán Peninsula", "Strong culinary tradition"] },
     descriptionAdvanced: {
@@ -183,9 +175,8 @@ image: "/poi-images/merida-cities-v2.webp"
     type: "city",
     parent: "MX-ROO",
     coords: [-86.8515, 21.1619],
-    name: { de: "Cancún", hu: "Cancún", ro: "Cancún", en: "Cancún",
-image: "/poi-images/cancun-cities-v2.webp"
-},
+    name: { de: "Cancún", hu: "Cancún", ro: "Cancún", en: "Cancún"},
+    image: "/poi-images/cancun-cities-v2.webp",
     description: { de: "Ein weltberühmtes Touristenziel an der Karibikküste, bekannt für seine Strände und sein Nachtleben.", hu: "Világhírű turisztikai célpont a Karib-tenger partján, strandjairól és éjszakai életéről ismert.", ro: "O destinație turistică de renume mondial pe coasta Caraibelor, cunoscută pentru plajele și viața de noapte.", en: "A world-famous tourist destination on the Caribbean coast, known for its beaches and nightlife." },
     facts: { de: ["Liegt an der Riviera Maya", "Wichtiger Anlaufpunkt für internationale Touristen", "Zugang zum Mesoamerikanischen Riff"], hu: ["A Riviera Maya-n található", "Fontos célpont a nemzetközi turisták számára", "Hozzáférés a Mezoamerikai korallzátonyhoz"], ro: ["Situat pe Riviera Maya", "Punct de intrare major pentru turiștii internaționali", "Acces la Reciful Barieră Mezoamerican"], en: ["Located on the Riviera Maya", "Major entry point for international tourists", "Gateway to the Mesoamerican Barrier Reef"] },
     descriptionAdvanced: {
@@ -205,9 +196,8 @@ image: "/poi-images/cancun-cities-v2.webp"
     type: "state-capital",
     parent: "MX-QUE",
     coords: [-100.3899, 20.5888],
-    name: { de: "Santiago de Querétaro", hu: "Santiago de Querétaro", ro: "Santiago de Querétaro", en: "Santiago de Querétaro",
-image: "/poi-images/queretaro-city-cities-v2.webp"
-},
+    name: { de: "Santiago de Querétaro", hu: "Santiago de Querétaro", ro: "Santiago de Querétaro", en: "Santiago de Querétaro"},
+    image: "/poi-images/queretaro-city-cities-v2.webp",
     description: { de: "Eine Stadt mit einem gut erhaltenen historischen Zentrum, das zum UNESCO-Weltkulturerbe gehört.", hu: "Jól megőrzött történelmi központtal rendelkező város, amely az UNESCO Világörökség része.", ro: "Un oraș cu un centru istoric bine conservat, un sit al Patrimoniului Mondial UNESCO.", en: "A city with a well-preserved historic center, a UNESCO World Heritage site." },
     facts: { de: ["Wichtiger Ort in der mexikanischen Geschichte", "Wachsendes Industrie- und Geschäftszentrum", "Berühmt für sein Aquädukt"], hu: ["Fontos hely a mexikói történelemben", "Növekvő ipari és üzleti központ", "Híres a vízvezetékéről"], ro: ["Loc important în istoria mexicană", "Centru industrial și de afaceri în creștere", "Renumit pentru apeductul său"], en: ["Important site in Mexican history", "Growing industrial and business center", "Famous for its aqueduct"] },
     descriptionAdvanced: {
@@ -227,9 +217,8 @@ image: "/poi-images/queretaro-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-AGU",
     coords: [-102.2960, 21.8853],
-    name: { de: "Aguascalientes", hu: "Aguascalientes", ro: "Aguascalientes", en: "Aguascalientes",
-image: "/poi-images/aguascalientes-cities-v2.webp"
-},
+    name: { de: "Aguascalientes", hu: "Aguascalientes", ro: "Aguascalientes", en: "Aguascalientes"},
+    image: "/poi-images/aguascalientes-cities-v2.webp",
     description: { de: "Hauptstadt des gleichnamigen Bundesstaates, bekannt für ihre Textilindustrie und das San-Marcos-Fest.", hu: "Az azonos nevű állam fővárosa, textiliparáról és a San Marcos vásárról ismert.", ro: "Capitala statului cu același nume, cunoscută pentru industria sa textilă și Târgul San Marcos.", en: "The capital of the state of the same name, known for its textile industry and the San Marcos Fair." },
     facts: { de: ["'Feria Nacional de San Marcos' ist eines der größten Feste Mexikos", "Starke Automobilindustrie", "Hohe Lebensqualität"], hu: ["A 'Feria Nacional de San Marcos' Mexikó egyik legnagyobb vására", "Erős autóipar", "Magas életminőség"], ro: ["'Feria Nacional de San Marcos' este unul dintre cele mai mari târguri din Mexic", "Industrie auto puternică", "Calitate înaltă a vieții"], en: ["'Feria Nacional de San Marcos' is one of Mexico's largest fairs", "Strong automotive industry", "High quality of life"] },
     descriptionAdvanced: {
@@ -249,9 +238,8 @@ image: "/poi-images/aguascalientes-cities-v2.webp"
     type: "state-capital",
     parent: "MX-CHH",
     coords: [-106.0691, 28.6328],
-    name: { de: "Chihuahua", hu: "Chihuahua", ro: "Chihuahua", en: "Chihuahua",
-image: "/poi-images/chihuahua-city-cities-v2.webp"
-},
+    name: { de: "Chihuahua", hu: "Chihuahua", ro: "Chihuahua", en: "Chihuahua"},
+    image: "/poi-images/chihuahua-city-cities-v2.webp",
     description: { de: "Die Hauptstadt des größten Bundesstaates Mexikos, ein wichtiges Handels- und Industriezentrum.", hu: "Mexikó legnagyobb államának fővárosa, fontos kereskedelmi és ipari központ.", ro: "Capitala celui mai mare stat din Mexic, un important centru comercial și industrial.", en: "The capital of Mexico's largest state, a major commercial and industrial center." },
     facts: { de: ["Umgeben von der Chihuahua-Wüste", "Wichtige Rolle in der mexikanischen Revolution", "Moderne Industriestadt"], hu: ["A Chihuahua-sivatag veszi körül", "Fontos szerep a mexikói forradalomban", "Modern ipari város"], ro: ["Înconjurat de Deșertul Chihuahua", "Rol important în Revoluția Mexicană", "Oraș industrial modern"], en: ["Surrounded by the Chihuahuan Desert", "Important role in the Mexican Revolution", "Modern industrial city"] },
     descriptionAdvanced: {
@@ -271,9 +259,8 @@ image: "/poi-images/chihuahua-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-SON",
     coords: [-110.9739, 29.0730],
-    name: { de: "Hermosillo", hu: "Hermosillo", ro: "Hermosillo", en: "Hermosillo",
-image: "/poi-images/hermosillo-cities-v2.webp"
-},
+    name: { de: "Hermosillo", hu: "Hermosillo", ro: "Hermosillo", en: "Hermosillo"},
+    image: "/poi-images/hermosillo-cities-v2.webp",
     description: { de: "Die Hauptstadt von Sonora, bekannt als 'Die Sonnenstadt' aufgrund ihres heißen und sonnigen Klimas.", hu: "Sonora fővárosa, a forró és napos éghajlata miatt 'A Nap Városaként' ismert.", ro: "Capitala Sonorei, cunoscută drept 'Orașul Soarelui' datorită climei sale calde și însorite.", en: "The capital of Sonora, known as 'The Sun City' due to its hot and sunny climate." },
     facts: { de: ["Wichtiges Zentrum für Automobil- und Elektronikfertigung", "Landwirtschaftliches Zentrum", "Moderne Stadtentwicklung"], hu: ["Fontos autó- és elektronikai gyártóközpont", "Mezőgazdasági központ", "Modern városfejlesztés"], ro: ["Centru important pentru producția de automobile și electronice", "Centru agricol", "Dezvoltare urbană modernă"], en: ["Major center for automotive and electronics manufacturing", "Agricultural hub", "Modern urban development"] },
     descriptionAdvanced: {
@@ -293,9 +280,8 @@ image: "/poi-images/hermosillo-cities-v2.webp"
     type: "state-capital",
     parent: "MX-COA",
     coords: [-100.9925, 25.4232],
-    name: { de: "Saltillo", hu: "Saltillo", ro: "Saltillo", en: "Saltillo",
-image: "/poi-images/saltillo-cities-v2.webp"
-},
+    name: { de: "Saltillo", hu: "Saltillo", ro: "Saltillo", en: "Saltillo"},
+    image: "/poi-images/saltillo-cities-v2.webp",
     description: { de: "Die Hauptstadt des Bundesstaates Coahuila, bekannt für ihre koloniale Architektur und Textiltradition.", hu: "Coahuila fővárosa, erős autóipara miatt 'Mexikó Detroitjának' is nevezik.", ro: "Capitala statului Coahuila, cunoscută drept 'Detroitul Mexicului' datorită industriei sale auto puternice.", en: "The capital of Coahuila, known as the 'Detroit of Mexico' due to its strong automotive industry." },
     facts: { de: ["Berühmt für bunte Serape-Decken", "Spitzname 'Athen des Nordens'", "Wichtiges Automobilzentrum"], hu: ["Fontos Chrysler és General Motors telephely", "Saltillo szőnyegek készítése", "Sivatagi éghajlat"], ro: ["Locație importantă pentru Chrysler și General Motors", "Producția de sarapes Saltillo", "Climat deșertic"], en: ["Major site for Chrysler and General Motors", "Production of Saltillo serapes", "Desert climate"] },
     descriptionAdvanced: {
@@ -315,9 +301,8 @@ image: "/poi-images/saltillo-cities-v2.webp"
     type: "state-capital",
     parent: "MX-SIN",
     coords: [-107.3940, 24.8096],
-    name: { de: "Culiacán", hu: "Culiacán", ro: "Culiacán", en: "Culiacán",
-image: "/poi-images/culiacan-cities-v2.webp"
-},
+    name: { de: "Culiacán", hu: "Culiacán", ro: "Culiacán", en: "Culiacán"},
+    image: "/poi-images/culiacan-cities-v2.webp",
     description: { de: "Die Hauptstadt von Sinaloa, ein wichtiges landwirtschaftliches Zentrum in Mexiko.", hu: "Sinaloa fővárosa, Mexikó egyik fontos mezőgazdasági központja.", ro: "Capitala statului Sinaloa, un important centru agricol în Mexic.", en: "The capital of Sinaloa, a major agricultural center in Mexico." },
     facts: { de: ["Führend in der Tomatenproduktion", "Botanischer Garten von Culiacán", "Reiche Folklore und Musik"], hu: ["Vezető a paradicsomtermesztésben", "Culiacáni Botanikus Kert", "Gazdag folklór és zene"], ro: ["Lider în producția de roșii", "Grădina Botanică din Culiacán", "Folclor și muzică bogată"], en: ["A leader in tomato production", "Culiacán Botanical Garden", "Rich folklore and music"] },
     descriptionAdvanced: {
@@ -337,9 +322,8 @@ image: "/poi-images/culiacan-cities-v2.webp"
     type: "city",
     parent: "MX-GRO",
     coords: [-99.8901, 16.8634],
-    name: { de: "Acapulco", hu: "Acapulco", ro: "Acapulco", en: "Acapulco",
-image: "/poi-images/acapulco-cities-v2.webp"
-},
+    name: { de: "Acapulco", hu: "Acapulco", ro: "Acapulco", en: "Acapulco"},
+    image: "/poi-images/acapulco-cities-v2.webp",
     description: { de: "Ein berühmter Badeort am Pazifik, bekannt für sein Nachtleben und die Klippenspringer von La Quebrada.", hu: "Híres csendes-óceáni üdülőhely, éjszakai életéről és a La Quebrada sziklaugróiról ismert.", ro: "O renumită stațiune balneară la Pacific, cunoscută pentru viața de noapte și scafandrii de la La Quebrada.", en: "A famous Pacific resort town, known for its nightlife and the La Quebrada cliff divers." },
     facts: { de: ["Eines der ersten großen Urlaubsziele Mexikos", "Goldene Zone (Zona Dorada)", "Wichtiger Kreuzfahrthafen"], hu: ["Mexikó egyik első nagy üdülőhelye", "Arany Zóna (Zona Dorada)", "Fontos tengerjáró kikötő"], ro: ["Una dintre primele destinații majore de vacanță din Mexic", "Zona de Aur (Zona Dorada)", "Port important de croazieră"], en: ["One of Mexico's first major vacation destinations", "Golden Zone (Zona Dorada)", "Important cruise ship port"] },
     descriptionAdvanced: {
@@ -359,9 +343,8 @@ image: "/poi-images/acapulco-cities-v2.webp"
     type: "city",
     parent: "MX-MEX",
     coords: [-99.1953, 19.5367],
-    name: { de: "Tlalnepantla de Baz", hu: "Tlalnepantla de Baz", ro: "Tlalnepantla de Baz", en: "Tlalnepantla de Baz",
-image: "/poi-images/tlalnepantla-de-baz-cities-v2.webp"
-},
+    name: { de: "Tlalnepantla de Baz", hu: "Tlalnepantla de Baz", ro: "Tlalnepantla de Baz", en: "Tlalnepantla de Baz"},
+    image: "/poi-images/tlalnepantla-de-baz-cities-v2.webp",
     description: { de: "Eine wichtige Industriestadt im Bundesstaat Mexiko, Teil der Metropolregion Mexiko-Stadt.", hu: "Fontos ipari város Mexikó államban, Mexikóváros nagyvárosi területének része.", ro: "Un oraș industrial important în statul Mexic, parte a zonei metropolitane Mexico City.", en: "An important industrial city in the State of Mexico, part of the Mexico City metropolitan area." },
     facts: { de: ["Bedeutendes Industriegebiet", "Gute Verkehrsanbindung", "Mischung aus Wohn- und Industriegebieten"], hu: ["Jelentős ipari terület", "Jó közlekedési kapcsolatok", "Lakó- és ipari területek keveréke"], ro: ["Zonă industrială semnificativă", "Conexiuni bune de transport", "Amestec de zone rezidențiale și industriale"], en: ["Significant industrial area", "Good transportation links", "Mix of residential and industrial zones"] },
     descriptionAdvanced: {
@@ -381,9 +364,8 @@ image: "/poi-images/tlalnepantla-de-baz-cities-v2.webp"
     type: "city",
     parent: "MX-MEX",
     coords: [-98.9667, 19.4333],
-    name: { de: "Chimalhuacán", hu: "Chimalhuacán", ro: "Chimalhuacán", en: "Chimalhuacán",
-image: "/poi-images/chimalhuacan-cities-v2.webp"
-},
+    name: { de: "Chimalhuacán", hu: "Chimalhuacán", ro: "Chimalhuacán", en: "Chimalhuacán"},
+    image: "/poi-images/chimalhuacan-cities-v2.webp",
     description: { de: "Eine Stadt und Gemeinde östlich von Mexiko-Stadt, bekannt für ihre Steinmetztradition.", hu: "Mexikóvárostól keletre fekvő város és település, kőfaragó hagyományairól ismert.", ro: "Un oraș și o municipalitate la est de Mexico City, cunoscut pentru tradiția sa în cioplirea pietrei.", en: "A city and municipality east of Mexico City, known for its stone carving tradition." },
     facts: { de: ["Lange Geschichte, die bis in die vorspanische Zeit zurückreicht", "Starkes Bevölkerungswachstum", "Karneval von Chimalhuacán"], hu: ["Hosszú történelem, amely a prehispán korig nyúlik vissza", "Erős népességnövekedés", "Chimalhuacáni karnevál"], ro: ["Istorie lungă datând din perioada pre-hispanică", "Creștere demografică puternică", "Carnavalul din Chimalhuacán"], en: ["Long history dating back to the pre-Hispanic period", "Strong population growth", "Carnival of Chimalhuacán"] },
     descriptionAdvanced: {
@@ -403,9 +385,8 @@ image: "/poi-images/chimalhuacan-cities-v2.webp"
     type: "city",
     parent: "MX-TAM",
     coords: [-98.2736, 26.0917],
-    name: { de: "Reynosa", hu: "Reynosa", ro: "Reynosa", en: "Reynosa",
-image: "/poi-images/reynosa-cities-v2.webp"
-},
+    name: { de: "Reynosa", hu: "Reynosa", ro: "Reynosa", en: "Reynosa"},
+    image: "/poi-images/reynosa-cities-v2.webp",
     description: { de: "Eine Industriestadt an der Grenze zu den USA im Bundesstaat Tamaulipas.", hu: "Ipari város az USA határán, Tamaulipas államban.", ro: "Un oraș industrial la granița cu SUA, în statul Tamaulipas.", en: "An industrial city on the US border in the state of Tamaulipas." },
     facts: { de: ["Wichtiges Zentrum der Maquiladora-Industrie", "Grenzt an McAllen, Texas", "Erdgasverarbeitung"], hu: ["A maquiladora ipar fontos központja", "A texasi McAllen mellett fekszik", "Földgázfeldolgozás"], ro: ["Centru important al industriei maquiladora", "Se învecinează cu McAllen, Texas", "Procesarea gazelor naturale"], en: ["Major center of the maquiladora industry", "Borders McAllen, Texas", "Natural gas processing"] },
     descriptionAdvanced: {
@@ -425,9 +406,8 @@ image: "/poi-images/reynosa-cities-v2.webp"
     type: "city",
     parent: "MX-COA",
     coords: [-103.4068, 25.5428],
-    name: { de: "Torreón", hu: "Torreón", ro: "Torreón", en: "Torreón",
-image: "/poi-images/torreon-cities-v2.webp"
-},
+    name: { de: "Torreón", hu: "Torreón", ro: "Torreón", en: "Torreón"},
+    image: "/poi-images/torreon-cities-v2.webp",
     description: { de: "Eine relativ junge, aber wichtige Industrie- und Landwirtschaftsstadt in der Comarca Lagunera.", hu: "Viszonylag fiatal, de fontos ipari és mezőgazdasági város a Comarca Lagunera régióban.", ro: "Un oraș relativ tânăr, dar important din punct de vedere industrial și agricol în Comarca Lagunera.", en: "A relatively young but important industrial and agricultural city in the Comarca Lagunera." },
     facts: { de: ["Wichtig für Baumwoll- und Milchproduktion", "Christus der Nicht-Mehr-Verlassenen Statue", "Teil einer Metropolregion mit Gómez Palacio und Lerdo"], hu: ["Fontos a gyapot- és tejtermelésben", "Krisztus a Nincs Többé Elhagyatva szobor", "Gómez Palacio és Lerdo nagyvárosi régiójának része"], ro: ["Important pentru producția de bumbac și lactate", "Statuia lui Hristos al Nimănui", "Parte a unei zone metropolitane cu Gómez Palacio și Lerdo"], en: ["Important for cotton and dairy production", "Christ of the Noas statue", "Part of a metropolitan area with Gómez Palacio and Lerdo"] },
     descriptionAdvanced: {
@@ -447,9 +427,8 @@ image: "/poi-images/torreon-cities-v2.webp"
     type: "state-capital",
     parent: "MX-MIC",
     coords: [-101.1921, 19.7028],
-    name: { de: "Morelia", hu: "Morelia", ro: "Morelia", en: "Morelia",
-image: "/poi-images/morelia-cities-v2.webp"
-},
+    name: { de: "Morelia", hu: "Morelia", ro: "Morelia", en: "Morelia"},
+    image: "/poi-images/morelia-cities-v2.webp",
     description: { de: "Die Hauptstadt von Michoacán mit einem beeindruckenden historischen Zentrum aus rosa Stein.", hu: "Michoacán fővárosa, lenyűgöző rózsaszín kőből épült történelmi központtal.", ro: "Capitala statului Michoacán, cu un centru istoric impresionant din piatră roz.", en: "The capital of Michoacán, with a stunning historic center made of pink stone." },
     facts: { de: ["Historisches Zentrum ist UNESCO-Welterbe", "Berühmt für sein internationales Filmfestival", "Kathedrale von Morelia"], hu: ["Történelmi központja UNESCO Világörökség", "Híres nemzetközi filmfesztiváljáról", "Moreliai katedrális"], ro: ["Centrul istoric este patrimoniu mondial UNESCO", "Renumit pentru festivalul său internațional de film", "Catedrala din Morelia"], en: ["Historic center is a UNESCO World Heritage site", "Famous for its international film festival", "Morelia Cathedral"] },
     descriptionAdvanced: {
@@ -469,9 +448,8 @@ image: "/poi-images/morelia-cities-v2.webp"
     type: "city",
     parent: "MX-VER",
     coords: [-96.1342, 19.1738],
-    name: { de: "Veracruz", hu: "Veracruz", ro: "Veracruz", en: "Veracruz",
-image: "/poi-images/veracruz-city-cities-v2.webp"
-},
+    name: { de: "Veracruz", hu: "Veracruz", ro: "Veracruz", en: "Veracruz"},
+    image: "/poi-images/veracruz-city-cities-v2.webp",
     description: { de: "Mexikos ältester und wichtigster Hafen, reich an Geschichte und Kultur.", hu: "Mexikó legrégebbi és legfontosabb kikötője, gazdag történelemmel és kultúrával.", ro: "Cel mai vechi și mai important port din Mexic, bogat în istorie și cultură.", en: "Mexico's oldest and most important port, rich in history and culture." },
     facts: { de: ["Gegründet von Hernán Cortés", "Berühmt für seinen Karneval", "Starker afro-karibischer Einfluss"], hu: ["Hernán Cortés alapította", "Híres a karneváljáról", "Erős afro-karibi befolyás"], ro: ["Fondat de Hernán Cortés", "Renumit pentru carnavalul său", "Influență puternică afro-caraibiană"], en: ["Founded by Hernán Cortés", "Famous for its carnival", "Strong Afro-Caribbean influence"] },
     descriptionAdvanced: {
@@ -491,9 +469,8 @@ image: "/poi-images/veracruz-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-TAB",
     coords: [-92.9300, 17.9869],
-    name: { de: "Villahermosa", hu: "Villahermosa", ro: "Villahermosa", en: "Villahermosa",
-image: "/poi-images/villahermosa-cities-v2.webp"
-},
+    name: { de: "Villahermosa", hu: "Villahermosa", ro: "Villahermosa", en: "Villahermosa"},
+    image: "/poi-images/villahermosa-cities-v2.webp",
     description: { de: "Die Hauptstadt von Tabasco, das Zentrum der mexikanischen Ölindustrie.", hu: "Tabasco fővárosa, a mexikói olajipar központja.", ro: "Capitala statului Tabasco, centrul industriei petroliere mexicane.", en: "The capital of Tabasco, the center of the Mexican oil industry." },
     facts: { de: ["La Venta Park-Museum mit olmekischen Köpfen", "Feuchtes, tropisches Klima", "Wichtiger Wirtschaftsstandort"], hu: ["La Venta Park-Múzeum olmék fejekkel", "Nedves, trópusi éghajlat", "Fontos gazdasági helyszín"], ro: ["Parcul-muzeu La Venta cu capete olmece", "Climat umed, tropical", "Locație economică importantă"], en: ["La Venta Park-Museum with Olmec heads", "Humid, tropical climate", "Important economic location"] },
     descriptionAdvanced: {
@@ -513,9 +490,8 @@ image: "/poi-images/villahermosa-cities-v2.webp"
     type: "state-capital",
     parent: "MX-VER",
     coords: [-96.9281, 19.5437],
-    name: { de: "Xalapa", hu: "Xalapa", ro: "Xalapa", en: "Xalapa",
-image: "/poi-images/xalapa-cities-v2.webp"
-},
+    name: { de: "Xalapa", hu: "Xalapa", ro: "Xalapa", en: "Xalapa"},
+    image: "/poi-images/xalapa-cities-v2.webp",
     description: { de: "Die Hauptstadt von Veracruz, bekannt für ihre Kultur, Gärten und das Anthropologiemuseum.", hu: "Veracruz fővárosa, kultúrájáról, kertjeiről és antropológiai múzeumáról ismert.", ro: "Capitala statului Veracruz, cunoscută pentru cultura, grădinile și muzeul său de antropologie.", en: "The capital of Veracruz, known for its culture, gardens, and anthropology museum." },
     facts: { de: ["'Stadt der Blumen'", "Wichtiges Zentrum für Kaffeeanbau", "Museo de Antropología de Xalapa (MAX)"], hu: ["'A virágok városa'", "Fontos kávétermesztési központ", "Xalapai Antropológiai Múzeum (MAX)"], ro: ["'Orașul Florilor'", "Centru important pentru cultivarea cafelei", "Muzeul de Antropologie din Xalapa (MAX)"], en: ["'City of Flowers'", "Important center for coffee cultivation", "Museum of Anthropology of Xalapa (MAX)"] },
     descriptionAdvanced: {
@@ -535,9 +511,8 @@ image: "/poi-images/xalapa-cities-v2.webp"
     type: "city",
     parent: "MX-SIN",
     coords: [-106.4244, 23.2238],
-    name: { de: "Mazatlán", hu: "Mazatlán", ro: "Mazatlán", en: "Mazatlán",
-image: "/poi-images/mazatlan-cities-v2.webp"
-},
+    name: { de: "Mazatlán", hu: "Mazatlán", ro: "Mazatlán", en: "Mazatlán"},
+    image: "/poi-images/mazatlan-cities-v2.webp",
     description: { de: "Ein beliebter pazifischer Ferienort mit einem renovierten historischen Zentrum.", hu: "Népszerű csendes-óceáni üdülőhely felújított történelmi központtal.", ro: "O stațiune populară la Pacific, cu un centru istoric renovat.", en: "A popular Pacific resort town with a renovated historic center." },
     facts: { de: ["Lange Strandpromenade (Malecón)", "Wichtiger Hafen für Garnelenfischerei", "Lebhafter Karneval"], hu: ["Hosszú tengerparti sétány (Malecón)", "Fontos garnélarák-halászati kikötő", "Élénk karnevál"], ro: ["Promenadă lungă pe malul mării (Malecón)", "Port important pentru pescuitul de creveți", "Carnaval plin de viață"], en: ["Long boardwalk (Malecón)", "Major shrimp fishing port", "Lively carnival"] },
     descriptionAdvanced: {
@@ -557,9 +532,8 @@ image: "/poi-images/mazatlan-cities-v2.webp"
     type: "state-capital",
     parent: "MX-SLP",
     coords: [-100.9750, 22.1565],
-    name: { de: "San Luis Potosí", hu: "San Luis Potosí", ro: "San Luis Potosí", en: "San Luis Potosí",
-image: "/poi-images/san-luis-potosi-cities-v2.webp"
-},
+    name: { de: "San Luis Potosí", hu: "San Luis Potosí", ro: "San Luis Potosí", en: "San Luis Potosí"},
+    image: "/poi-images/san-luis-potosi-cities-v2.webp",
     description: { de: "Eine Kolonialstadt, die einst ein wichtiges Zentrum für den Silberabbau war.", hu: "Gyarmati város, amely egykor a bányászat, különösen az ezüstbányászat fontos központja volt.", ro: "Un oraș colonial care a fost odată un important centru minier de argint.", en: "A colonial city that was once an important silver mining center." },
     facts: { de: ["Historisches Zentrum ist UNESCO-Welterbe", "Wachsender Industriestandort", "Strategische Lage im Zentrum Mexikos"], hu: ["Történelmi központja UNESCO Világörökség", "Növekvő ipari helyszín", "Stratégiai elhelyezkedés Mexikó központjában"], ro: ["Centrul istoric este patrimoniu mondial UNESCO", "Locație industrială în creștere", "Poziție strategică în centrul Mexicului"], en: ["Historic center is a UNESCO World Heritage site", "Growing industrial location", "Strategic location in central Mexico"] },
     descriptionAdvanced: {
@@ -579,9 +553,8 @@ image: "/poi-images/san-luis-potosi-cities-v2.webp"
     type: "state-capital",
     parent: "MX-CHP",
     coords: [-93.1156, 16.7538],
-    name: { de: "Tuxtla Gutiérrez", hu: "Tuxtla Gutiérrez", ro: "Tuxtla Gutiérrez", en: "Tuxtla Gutiérrez",
-image: "/poi-images/tuxtla-gutierrez-cities-v2.webp"
-},
+    name: { de: "Tuxtla Gutiérrez", hu: "Tuxtla Gutiérrez", ro: "Tuxtla Gutiérrez", en: "Tuxtla Gutiérrez"},
+    image: "/poi-images/tuxtla-gutierrez-cities-v2.webp",
     description: { de: "Die Hauptstadt von Chiapas und das verkehrsreichste städtische Zentrum des Bundesstaates.", hu: "Chiapas fővárosa és az állam legforgalmasabb városi központja.", ro: "Capitala statului Chiapas și cel mai aglomerat centru urban al statului.", en: "The capital of Chiapas and the state's busiest urban center." },
     facts: { de: ["Tor zum Sumidero-Canyon", "Miguel Álvarez del Toro Zoo (ZOOMAT)", "Modernes Handelszentrum"], hu: ["Kapu a Sumidero-kanyonhoz", "Miguel Álvarez del Toro Állatkert (ZOOMAT)", "Modern kereskedelmi központ"], ro: ["Poarta de acces către Canionul Sumidero", "Grădina Zoologică Miguel Álvarez del Toro (ZOOMAT)", "Centru comercial modern"], en: ["Gateway to the Sumidero Canyon", "Miguel Álvarez del Toro Zoo (ZOOMAT)", "Modern commercial center"] },
     descriptionAdvanced: {
@@ -601,9 +574,8 @@ image: "/poi-images/tuxtla-gutierrez-cities-v2.webp"
     type: "city",
     parent: "MX-GUA",
     coords: [-101.3470, 20.6720],
-    name: { de: "Irapuato", hu: "Irapuato", ro: "Irapuato", en: "Irapuato",
-image: "/poi-images/irapuato-cities-v2.webp"
-},
+    name: { de: "Irapuato", hu: "Irapuato", ro: "Irapuato", en: "Irapuato"},
+    image: "/poi-images/irapuato-cities-v2.webp",
     description: { de: "Bekannt als die 'Welthauptstadt der Erdbeeren'.", hu: "'A világ eperfővárosaként' ismert.", ro: "Cunoscut drept 'Capitala Mondială a Căpșunilor'.", en: "Known as the 'World Capital of Strawberries'." },
     facts: { de: ["Wichtiges landwirtschaftliches Zentrum", "Wachsende Industrie", "Strategische Lage in der Bajío-Region"], hu: ["Fontos mezőgazdasági központ", "Növekvő ipar", "Stratégiai elhelyezkedés a Bajío régióban"], ro: ["Centru agricol important", "Industrie în creștere", "Poziție strategică în regiunea Bajío"], en: ["Major agricultural center", "Growing industry", "Strategic location in the Bajío region"] },
     descriptionAdvanced: {
@@ -623,9 +595,8 @@ image: "/poi-images/irapuato-cities-v2.webp"
     type: "state-capital",
     parent: "MX-OAX",
     coords: [-96.7266, 17.0732],
-    name: { de: "Oaxaca de Juárez", hu: "Oaxaca de Juárez", ro: "Oaxaca de Juárez", en: "Oaxaca de Juárez",
-image: "/poi-images/oaxaca-city-cities-v2.webp"
-},
+    name: { de: "Oaxaca de Juárez", hu: "Oaxaca de Juárez", ro: "Oaxaca de Juárez", en: "Oaxaca de Juárez"},
+    image: "/poi-images/oaxaca-city-cities-v2.webp",
     description: { de: "Eine Stadt mit reicher indigener Kultur, bekannt für Mezcal, Mole und Kunsthandwerk.", hu: "Gazdag őslakos kultúrával rendelkező város, ismert a mezcalról, a mole-ról és a kézművességről.", ro: "Un oraș cu o bogată cultură indigenă, cunoscut pentru mezcal, mole și artizanat.", en: "A city with a rich indigenous culture, known for mezcal, mole, and handicrafts." },
     facts: { de: ["Historisches Zentrum ist UNESCO-Welterbe", "Tor zur archäologischen Stätte Monte Albán", "Guelaguetza-Festival"], hu: ["Történelmi központja UNESCO Világörökség", "Kapu a Monte Albán régészeti lelőhelyhez", "Guelaguetza fesztivál"], ro: ["Centrul istoric este patrimoniu mondial UNESCO", "Poarta de acces la situl arheologic Monte Albán", "Festivalul Guelaguetza"], en: ["Historic center is a UNESCO World Heritage site", "Gateway to the Monte Albán archaeological site", "Guelaguetza festival"] },
     descriptionAdvanced: {
@@ -645,9 +616,8 @@ image: "/poi-images/oaxaca-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-DUR",
     coords: [-104.6533, 24.0277],
-    name: { de: "Victoria de Durango", hu: "Victoria de Durango", ro: "Victoria de Durango", en: "Victoria de Durango",
-image: "/poi-images/durango-city-cities-v2.webp"
-},
+    name: { de: "Victoria de Durango", hu: "Victoria de Durango", ro: "Victoria de Durango", en: "Victoria de Durango"},
+    image: "/poi-images/durango-city-cities-v2.webp",
     description: { de: "Die Hauptstadt von Durango, umgeben von einer Landschaft, die oft als Drehort für Westernfilme genutzt wurde.", hu: "Durango fővárosa, olyan tájjal körülvéve, amelyet gyakran használtak westernfilmek forgatási helyszínéül.", ro: "Capitala statului Durango, înconjurată de un peisaj adesea folosit ca locație pentru filmele western.", en: "The capital of Durango, surrounded by a landscape often used as a location for Western films." },
     facts: { de: ["Historisches Zentrum mit Barockarchitektur", "Wichtiger Bergbaustaat", "'Land des Kinos'"], hu: ["Történelmi központ barokk építészettel", "Fontos bányászati állam", "'A mozi földje'"], ro: ["Centru istoric cu arhitectură barocă", "Stat minier important", "'Țara cinematografiei'"], en: ["Historic center with baroque architecture", "Important mining state", "'Land of Cinema'"] },
     descriptionAdvanced: {
@@ -667,9 +637,8 @@ image: "/poi-images/durango-city-cities-v2.webp"
     type: "city",
     parent: "MX-TAM",
     coords: [-97.5028, 25.8675],
-    name: { de: "Matamoros", hu: "Matamoros", ro: "Matamoros", en: "Matamoros",
-image: "/poi-images/matamoros-cities-v2.webp"
-},
+    name: { de: "Matamoros", hu: "Matamoros", ro: "Matamoros", en: "Matamoros"},
+    image: "/poi-images/matamoros-cities-v2.webp",
     description: { de: "Eine Grenzstadt in Tamaulipas gegenüber von Brownsville, Texas, mit einem wichtigen Hafen.", hu: "Határváros Tamaulipasban, a texasi Brownsville-lel szemben, fontos kikötővel.", ro: "Un oraș de frontieră în Tamaulipas, vizavi de Brownsville, Texas, cu un port important.", en: "A border city in Tamaulipas across from Brownsville, Texas, with a major port." },
     facts: { de: ["Wichtiger internationaler Handelspunkt", "Landwirtschaft und Industrie", "Historische Bedeutung in mehreren Kriegen"], hu: ["Fontos nemzetközi kereskedelmi pont", "Mezőgazdaság és ipar", "Történelmi jelentőség több háborúban"], ro: ["Punct comercial internațional important", "Agricultură și industrie", "Semnificație istorică în mai multe războaie"], en: ["Important international trade point", "Agriculture and industry", "Historical significance in several wars"] },
     descriptionAdvanced: {
@@ -689,9 +658,8 @@ image: "/poi-images/matamoros-cities-v2.webp"
     type: "state-capital",
     parent: "MX-MOR",
     coords: [-99.2345, 18.9220],
-    name: { de: "Cuernavaca", hu: "Cuernavaca", ro: "Cuernavaca", en: "Cuernavaca",
-image: "/poi-images/cuernavaca-cities-v2.webp"
-},
+    name: { de: "Cuernavaca", hu: "Cuernavaca", ro: "Cuernavaca", en: "Cuernavaca"},
+    image: "/poi-images/cuernavaca-cities-v2.webp",
     description: { de: "Bekannt als die 'Stadt des ewigen Frühlings' wegen ihres milden Klimas.", hu: "Enyhe éghajlata miatt az 'örök tavasz városaként' ismert.", ro: "Cunoscut drept 'Orașul Primăverii Eterne' datorită climei sale blânde.", en: "Known as the 'City of Eternal Spring' for its mild climate." },
     facts: { de: ["Beliebter Zufluchtsort für Einwohner von Mexiko-Stadt", "Palast von Cortés", "Zahlreiche Gärten und Spas"], hu: ["Népszerű menedékhely Mexikóváros lakói számára", "Cortés palotája", "Számos kert és gyógyfürdő"], ro: ["Refugiu popular pentru locuitorii din Mexico City", "Palatul lui Cortés", "Numeroase grădini și spa-uri"], en: ["Popular getaway for Mexico City residents", "Palace of Cortés", "Numerous gardens and spas"] },
     descriptionAdvanced: {
@@ -711,9 +679,8 @@ image: "/poi-images/cuernavaca-cities-v2.webp"
     type: "city",
     parent: "MX-GUA",
     coords: [-100.8122, 20.5213],
-    name: { de: "Celaya", hu: "Celaya", ro: "Celaya", en: "Celaya",
-image: "/poi-images/celaya-cities-v2.webp"
-},
+    name: { de: "Celaya", hu: "Celaya", ro: "Celaya", en: "Celaya"},
+    image: "/poi-images/celaya-cities-v2.webp",
     description: { de: "Eine Stadt in Guanajuato, berühmt für ihre 'Cajeta', eine Art Karamell aus Ziegenmilch.", hu: "Város Guanajuatóban, híres a 'Cajeta'-ról, egyfajta kecsketejből készült karamellről.", ro: "Un oraș din Guanajuato, renumit pentru 'cajeta', un tip de caramel din lapte de capră.", en: "A city in Guanajuato famous for its 'cajeta', a type of goat's milk caramel." },
     facts: { de: ["Wichtiger Eisenbahnknotenpunkt", "Wachsende Automobilindustrie", "'Goldenes Tor des Bajío'"], hu: ["Fontos vasúti csomópont", "Növekvő autóipar", "'A Bajío aranykapuja'"], ro: ["Nod feroviar important", "Industrie auto în creștere", "'Poarta de Aur a Bajío'"], en: ["Important railway hub", "Growing automotive industry", "'Golden Gate of the Bajío'"] },
     descriptionAdvanced: {
@@ -733,9 +700,8 @@ image: "/poi-images/celaya-cities-v2.webp"
     type: "state-capital",
     parent: "MX-HID",
     coords: [-98.7375, 20.1213],
-    name: { de: "Pachuca", hu: "Pachuca", ro: "Pachuca", en: "Pachuca",
-image: "/poi-images/pachuca-cities-v2.webp"
-},
+    name: { de: "Pachuca", hu: "Pachuca", ro: "Pachuca", en: "Pachuca"},
+    image: "/poi-images/pachuca-cities-v2.webp",
     description: { de: "Die Hauptstadt von Hidalgo, mit einer langen Geschichte im Silberbergbau.", hu: "Hidalgo fővárosa, hosszú ezüstbányászati múlttal.", ro: "Capitala statului Hidalgo, cu o lungă istorie în mineritul de argint.", en: "The capital of Hidalgo, with a long history of silver mining." },
     facts: { de: ["'La Bella Airosa' (Die schöne Windige) genannt", "Monumentaler Uhrturm von Pachuca", "Starker kornischer Einfluss durch Bergleute"], hu: ["'La Bella Airosa'-nak (A szép szeles) hívják", "Monumentális pachucai óratorony", "Erős korni befolyás a bányászok miatt"], ro: ["Numit 'La Bella Airosa' (Frumosul Vântos)", "Turnul cu ceas monumental din Pachuca", "Influență puternică cornică datorită minerilor"], en: ["Called 'La Bella Airosa' (The Beautiful Windy One)", "Monumental Clock Tower of Pachuca", "Strong Cornish influence from miners"] },
     descriptionAdvanced: {
@@ -755,9 +721,8 @@ image: "/poi-images/pachuca-cities-v2.webp"
     type: "state-capital",
     parent: "MX-CAM",
     coords: [-90.5349, 19.8301],
-    name: { de: "San Francisco de Campeche", hu: "San Francisco de Campeche", ro: "San Francisco de Campeche", en: "San Francisco de Campeche",
-image: "/poi-images/campeche-city-cities-v2.webp"
-},
+    name: { de: "San Francisco de Campeche", hu: "San Francisco de Campeche", ro: "San Francisco de Campeche", en: "San Francisco de Campeche"},
+    image: "/poi-images/campeche-city-cities-v2.webp",
     description: { de: "Eine befestigte Hafenstadt am Golf von Mexiko mit gut erhaltenen Stadtmauern.", hu: "Erődített kikötőváros a Mexikói-öböl partján, jól megőrzött városfalakkal.", ro: "Un oraș portuar fortificat la Golful Mexic, cu ziduri ale orașului bine conservate.", en: "A fortified port city on the Gulf of Mexico with well-preserved city walls." },
     facts: { de: ["Historische befestigte Stadt ist UNESCO-Welterbe", "Pastellfarbene Kolonialhäuser", "Verteidigungsanlagen gegen Piraten"], hu: ["A történelmi erődített város UNESCO Világörökség", "Pasztellszínű gyarmati házak", "Kalózok elleni védelmi rendszerek"], ro: ["Orașul fortificat istoric este patrimoniu mondial UNESCO", "Case coloniale în culori pastelate", "Sisteme de apărare împotriva piraților"], en: ["Historic fortified city is a UNESCO World Heritage site", "Pastel-colored colonial houses", "Defenses against pirates"] },
     descriptionAdvanced: {
@@ -777,9 +742,8 @@ image: "/poi-images/campeche-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-BCS",
     coords: [-110.3128, 24.1424],
-    name: { de: "La Paz", hu: "La Paz", ro: "La Paz", en: "La Paz",
-image: "/poi-images/la-paz-cities-v2.webp"
-},
+    name: { de: "La Paz", hu: "La Paz", ro: "La Paz", en: "La Paz"},
+    image: "/poi-images/la-paz-cities-v2.webp",
     description: { de: "Die Hauptstadt von Baja California Sur, bekannt für ihre malerische Uferpromenade und Meeresökologie.", hu: "Baja California Sur fővárosa, festői tengerparti sétányáról és tengeri ökológiájáról ismert.", ro: "Capitala statului Baja California Sur, cunoscută pentru faleza sa pitorească și ecologia marină.", en: "The capital of Baja California Sur, known for its scenic waterfront and marine ecology." },
     facts: { de: ["Tor zum Golf von Kalifornien", "Beliebt für Ökotourismus", "Schwimmen mit Walhaien und Seelöwen"], hu: ["Kapu a Kaliforniai-öbölhöz", "Népszerű az ökoturizmusban", "Úszás cetcápákkal és oroszlánfókákkal"], ro: ["Poarta de acces către Golful Californiei", "Popular pentru ecoturism", "Înot cu rechini-balenă și lei de mare"], en: ["Gateway to the Gulf of California", "Popular for ecotourism", "Swimming with whale sharks and sea lions"] },
     descriptionAdvanced: {
@@ -799,9 +763,8 @@ image: "/poi-images/la-paz-cities-v2.webp"
     type: "state-capital",
     parent: "MX-NAY",
     coords: [-104.8948, 21.5061],
-    name: { de: "Tepic", hu: "Tepic", ro: "Tepic", en: "Tepic",
-image: "/poi-images/tepic-cities-v2.webp"
-},
+    name: { de: "Tepic", hu: "Tepic", ro: "Tepic", en: "Tepic"},
+    image: "/poi-images/tepic-cities-v2.webp",
     description: { de: "Die Hauptstadt von Nayarit, in einer landwirtschaftlichen Region gelegen.", hu: "Nayarit fővárosa, mezőgazdasági régióban található.", ro: "Capitala statului Nayarit, situată într-o regiune agricolă.", en: "The capital of Nayarit, located in an agricultural region." },
     facts: { de: ["Anbau von Zuckerrohr, Tabak und Zitrusfrüchten", "Kathedrale von Tepic", "Nähe zur Pazifikküste"], hu: ["Cukornád-, dohány- és citrusfélék termesztése", "Tepici katedrális", "A Csendes-óceán partjának közelsége"], ro: ["Cultivarea trestiei de zahăr, tutunului și citricelor", "Catedrala din Tepic", "Apropierea de coasta Pacificului"], en: ["Cultivation of sugarcane, tobacco, and citrus fruits", "Tepic Cathedral", "Proximity to the Pacific coast"] },
     descriptionAdvanced: {
@@ -821,9 +784,8 @@ image: "/poi-images/tepic-cities-v2.webp"
     type: "state-capital",
     parent: "MX-ZAC",
     coords: [-102.5714, 22.7709],
-    name: { de: "Zacatecas", hu: "Zacatecas", ro: "Zacatecas", en: "Zacatecas",
-image: "/poi-images/zacatecas-city-cities-v2.webp"
-},
+    name: { de: "Zacatecas", hu: "Zacatecas", ro: "Zacatecas", en: "Zacatecas"},
+    image: "/poi-images/zacatecas-city-cities-v2.webp",
     description: { de: "Eine historische Bergbaustadt mit einer beeindruckenden Barockfassade an ihrer Kathedrale.", hu: "Történelmi bányászváros, amelynek katedrálisa lenyűgöző barokk homlokzattal rendelkezik.", ro: "Un oraș minier istoric, cu o fațadă barocă impresionantă la catedrala sa.", en: "A historic mining city with a stunning baroque facade on its cathedral." },
     facts: { de: ["Historisches Zentrum ist UNESCO-Welterbe", "Reiche Silbervorkommen in der Geschichte", "Seilbahn 'El Teleférico'"], hu: ["Történelmi központja UNESCO Világörökség", "Gazdag ezüstlelőhelyek a történelemben", "Sikló 'El Teleférico'"], ro: ["Centrul istoric este patrimoniu mondial UNESCO", "Zăcăminte bogate de argint în istorie", "Telecabina 'El Teleférico'"], en: ["Historic center is a UNESCO World Heritage site", "Rich silver mining history", "'El Teleférico' cable car"] },
     descriptionAdvanced: {
@@ -843,9 +805,8 @@ image: "/poi-images/zacatecas-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-COL",
     coords: [-103.7249, 19.2433],
-    name: { de: "Colima", hu: "Colima", ro: "Colima", en: "Colima",
-image: "/poi-images/colima-city-cities-v2.webp"
-},
+    name: { de: "Colima", hu: "Colima", ro: "Colima", en: "Colima"},
+    image: "/poi-images/colima-city-cities-v2.webp",
     description: { de: "Die Hauptstadt des Bundesstaates Colima, in der Nähe eines aktiven Vulkans gelegen.", hu: "Colima állam fővárosa, egy aktív vulkán közelében található.", ro: "Capitala statului Colima, situată în apropierea unui vulcan activ.", en: "The capital of Colima state, located near an active volcano." },
     facts: { de: ["Volcán de Fuego de Colima ist einer der aktivsten Vulkane Mexikos", "Produktion von Limetten und Kokosnüssen", "'Stadt der Palmen'"], hu: ["A Volcán de Fuego de Colima Mexikó egyik legaktívabb vulkánja", "Limetta- és kókuszdió-termesztés", "'A pálmák városa'"], ro: ["Vulcanul de Foc din Colima este unul dintre cei mai activi vulcani din Mexic", "Producția de lime și nuci de cocos", "'Orașul palmierilor'"], en: ["Volcán de Fuego de Colima is one of Mexico's most active volcanoes", "Production of limes and coconuts", "'City of Palms'"] },
     descriptionAdvanced: {
@@ -865,9 +826,8 @@ image: "/poi-images/colima-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-TAM",
     coords: [-99.1332, 23.7369],
-    name: { de: "Ciudad Victoria", hu: "Ciudad Victoria", ro: "Ciudad Victoria", en: "Ciudad Victoria",
-image: "/poi-images/ciudad-victoria-cities-v2.webp"
-},
+    name: { de: "Ciudad Victoria", hu: "Ciudad Victoria", ro: "Ciudad Victoria", en: "Ciudad Victoria"},
+    image: "/poi-images/ciudad-victoria-cities-v2.webp",
     description: { de: "Die Hauptstadt von Tamaulipas, ein landwirtschaftliches und pädagogisches Zentrum.", hu: "Tamaulipas fővárosa, mezőgazdasági és oktatási központ.", ro: "Capitala statului Tamaulipas, un centru agricol și educațional.", en: "The capital of Tamaulipas, an agricultural and educational center." },
     facts: { de: ["Benannt nach Guadalupe Victoria, dem ersten Präsidenten Mexikos", "Wichtig für Viehzucht und Geflügel", "Universität von Tamaulipas"], hu: ["Guadalupe Victoria, Mexikó első elnöke után nevezték el", "Fontos az állattenyésztés és a baromfi számára", "Tamaulipasi Egyetem"], ro: ["Numit după Guadalupe Victoria, primul președinte al Mexicului", "Important pentru creșterea vitelor și a păsărilor de curte", "Universitatea din Tamaulipas"], en: ["Named after Guadalupe Victoria, the first president of Mexico", "Important for livestock and poultry", "University of Tamaulipas"] },
     descriptionAdvanced: {
@@ -887,9 +847,8 @@ image: "/poi-images/ciudad-victoria-cities-v2.webp"
     type: "state-capital",
     parent: "MX-ROO",
     coords: [-88.3050, 18.5035],
-    name: { de: "Chetumal", hu: "Chetumal", ro: "Chetumal", en: "Chetumal",
-image: "/poi-images/chetumal-cities-v2.webp"
-},
+    name: { de: "Chetumal", hu: "Chetumal", ro: "Chetumal", en: "Chetumal"},
+    image: "/poi-images/chetumal-cities-v2.webp",
     description: { de: "Die Hauptstadt von Quintana Roo, an der Grenze zu Belize gelegen.", hu: "Quintana Roo fővárosa, Belize határán található.", ro: "Capitala statului Quintana Roo, situată la granița cu Belize.", en: "The capital of Quintana Roo, located on the border with Belize." },
     facts: { de: ["Wichtiger Handelshafen", "Museum der Maya-Kultur", "Freihandelszone"], hu: ["Fontos kereskedelmi kikötő", "A Maja Kultúra Múzeuma", "Szabadkereskedelmi övezet"], ro: ["Port comercial important", "Muzeul Culturii Maya", "Zonă de liber schimb"], en: ["Important trading port", "Museum of Mayan Culture", "Free-trade zone"] },
     descriptionAdvanced: {
@@ -909,9 +868,8 @@ image: "/poi-images/chetumal-cities-v2.webp"
     type: "state-capital",
     parent: "MX-TLA",
     coords: [-98.2384, 19.3146],
-    name: { de: "Tlaxcala", hu: "Tlaxcala", ro: "Tlaxcala", en: "Tlaxcala",
-image: "/poi-images/tlaxcala-city-cities-v2.webp"
-},
+    name: { de: "Tlaxcala", hu: "Tlaxcala", ro: "Tlaxcala", en: "Tlaxcala"},
+    image: "/poi-images/tlaxcala-city-cities-v2.webp",
     description: { de: "Die Hauptstadt des kleinsten Bundesstaates Mexikos, mit einer reichen vorspanischen Geschichte.", hu: "Mexikó legkisebb államának fővárosa, gazdag prehispán történelemmel.", ro: "Capitala celui mai mic stat din Mexic, cu o bogată istorie pre-hispanică.", en: "The capital of Mexico's smallest state, with a rich pre-Hispanic history." },
     facts: { de: ["Die Tlaxcalteken waren Verbündete der Spanier gegen die Azteken", "Gut erhaltenes historisches Zentrum", "Basilika von Ocotlán"], hu: ["A tlaxcaltékok a spanyolok szövetségesei voltak az aztékok ellen", "Jól megőrzött történelmi központ", "Ocotláni bazilika"], ro: ["Tlaxcalanii au fost aliații spaniolilor împotriva aztecilor", "Centru istoric bine conservat", "Bazilica din Ocotlán"], en: ["The Tlaxcalans were allies of the Spanish against the Aztecs", "Well-preserved historic center", "Basilica of Ocotlán"] },
     descriptionAdvanced: {
@@ -931,9 +889,8 @@ image: "/poi-images/tlaxcala-city-cities-v2.webp"
     type: "state-capital",
     parent: "MX-GUA",
     coords: [-101.2591, 21.0190],
-    name: { de: "Guanajuato", hu: "Guanajuato", ro: "Guanajuato", en: "Guanajuato",
-image: "/poi-images/guanajuato-city-cities-v2.webp"
-},
+    name: { de: "Guanajuato", hu: "Guanajuato", ro: "Guanajuato", en: "Guanajuato"},
+    image: "/poi-images/guanajuato-city-cities-v2.webp",
     description: { de: "Eine malerische Kolonialstadt, die für ihre engen Gassen, Tunnel und farbenfrohen Häuser bekannt ist.", hu: "Festői gyarmati város, amely szűk utcáiról, alagútjairól és színes házairól ismert.", ro: "Un oraș colonial pitoresc, cunoscut pentru străzile sale înguste, tuneluri și case colorate.", en: "A picturesque colonial city known for its narrow alleyways, tunnels, and colorful houses." },
     facts: { de: ["Historische Stadt und angrenzende Minen sind UNESCO-Welterbe", "Callejón del Beso (Gasse des Kusses)", "Internationales Cervantes-Festival"], hu: ["A történelmi város és a szomszédos bányák UNESCO Világörökség", "Callejón del Beso (A csók sikátora)", "Nemzetközi Cervantes Fesztivál"], ro: ["Orașul istoric și minele adiacente sunt patrimoniu mondial UNESCO", "Callejón del Beso (Aleea Sărutului)", "Festivalul Internațional Cervantino"], en: ["Historic town and adjacent mines are a UNESCO World Heritage site", "Callejón del Beso (Alley of the Kiss)", "International Cervantino Festival"] },
     descriptionAdvanced: {
@@ -953,9 +910,8 @@ image: "/poi-images/guanajuato-city-cities-v2.webp"
     type: "city",
     parent: "MX-ROO",
     coords: [-87.0811, 20.6274],
-    name: { de: "Playa del Carmen", hu: "Playa del Carmen", ro: "Playa del Carmen", en: "Playa del Carmen",
-image: "/poi-images/playa-del-carmen-cities-v2.webp"
-},
+    name: { de: "Playa del Carmen", hu: "Playa del Carmen", ro: "Playa del Carmen", en: "Playa del Carmen"},
+    image: "/poi-images/playa-del-carmen-cities-v2.webp",
     description: { de: "Ein schnell wachsender Küstenort an der Riviera Maya mit einer lebhaften Fußgängerzone.", hu: "Gyorsan növekvő tengerparti üdülőhely a Riviera Maya-n, élénk sétálóutcával.", ro: "O stațiune de coastă în creștere rapidă pe Riviera Maya, cu o stradă pietonală plină de viață.", en: "A rapidly growing coastal resort town on the Riviera Maya with a vibrant pedestrian street." },
     facts: { de: ["Fährhafen zur Insel Cozumel", "Quinta Avenida (Fünfte Allee) ist das Herz der Stadt", "Cenoten und Themenparks in der Nähe"], hu: ["Kompkikötő Cozumel szigetére", "Quinta Avenida (Ötödik sugárút) a város szíve", "Cenoték és vidámparkok a közelben"], ro: ["Port de feribot spre insula Cozumel", "Quinta Avenida (A cincea alee) este inima orașului", "Cenote și parcuri tematice în apropiere"], en: ["Ferry port to Cozumel island", "Quinta Avenida (Fifth Avenue) is the heart of the town", "Cenotes and theme parks nearby"] },
     descriptionAdvanced: {
@@ -975,9 +931,8 @@ image: "/poi-images/playa-del-carmen-cities-v2.webp"
     type: "city",
     parent: "MX-JAL",
     coords: [-105.2173, 20.6534],
-    name: { de: "Puerto Vallarta", hu: "Puerto Vallarta", ro: "Puerto Vallarta", en: "Puerto Vallarta",
-image: "/poi-images/puerto-vallarta-cities-v2.webp"
-},
+    name: { de: "Puerto Vallarta", hu: "Puerto Vallarta", ro: "Puerto Vallarta", en: "Puerto Vallarta"},
+    image: "/poi-images/puerto-vallarta-cities-v2.webp",
     description: { de: "Ein beliebter Ferienort an der Pazifikküste, umgeben von Bergen und der Banderas-Bucht.", hu: "Népszerű üdülőhely a Csendes-óceán partján, hegyekkel és a Banderas-öböllel körülvéve.", ro: "O stațiune populară pe coasta Pacificului, înconjurată de munți și Golful Banderas.", en: "A popular resort city on the Pacific coast, surrounded by mountains and the Bay of Banderas." },
     facts: { de: ["Berühmt geworden durch den Film 'Die Nacht des Leguan'", "Malerische Altstadt (Zona Romántica)", "El Malecón mit Skulpturen"], hu: ["'Az iguána éjszakája' című film tette híressé", "Festői óváros (Zona Romántica)", "El Malecón szobrokkal"], ro: ["A devenit faimos datorită filmului 'Noaptea iguanei'", "Oraș vechi pitoresc (Zona Romántica)", "El Malecón cu sculpturi"], en: ["Made famous by the film 'The Night of the Iguana'", "Picturesque Old Town (Zona Romántica)", "El Malecón with sculptures"] },
     descriptionAdvanced: {
@@ -997,9 +952,8 @@ image: "/poi-images/puerto-vallarta-cities-v2.webp"
     type: "city",
     parent: "MX-HID",
     coords: [-99.3411, 20.0575],
-    name: { de: "Tula de Allende", hu: "Tula de Allende", ro: "Tula de Allende", en: "Tula de Allende",
-image: "/poi-images/tula-de-allende-cities-v2.webp"
-},
+    name: { de: "Tula de Allende", hu: "Tula de Allende", ro: "Tula de Allende", en: "Tula de Allende"},
+    image: "/poi-images/tula-de-allende-cities-v2.webp",
     description: { de: "Eine Stadt in Hidalgo, die für die nahegelegene mesoamerikanische Stätte Tollan, die Hauptstadt der Tolteken, bekannt ist.", hu: "Város Hidalgóban, amely a közeli Tollan mezoamerikai lelőhelyről, a toltékok fővárosáról ismert.", ro: "Un oraș din Hidalgo, cunoscut pentru situl mezoamerican din apropiere, Tollan, capitala toltecilor.", en: "A city in Hidalgo known for the nearby Mesoamerican site of Tollan, the capital of the Toltecs." },
     facts: { de: ["Berühmt für die 'Atlantiden' von Tula (Kriegerstatuen)", "Wichtiges Zentrum der Tolteken-Kultur", "Archäologische Zone"], hu: ["Híres a tulai 'atlantiszokról' (harcos szobrok)", "A tolték kultúra fontos központja", "Régészeti zóna"], ro: ["Renumit pentru 'Atlanții' din Tula (statui de războinici)", "Centru important al culturii toltece", "Zonă arheologică"], en: ["Famous for the 'Atlantean' figures of Tula (warrior statues)", "Important center of the Toltec culture", "Archaeological zone"] },
     descriptionAdvanced: {
@@ -1019,9 +973,8 @@ image: "/poi-images/tula-de-allende-cities-v2.webp"
     type: "city",
     parent: "MX-MIC",
     coords: [-102.0628, 19.4206],
-    name: { de: "Uruapan", hu: "Uruapan", ro: "Uruapan", en: "Uruapan",
-image: "/poi-images/uruapan-cities-v2.webp"
-},
+    name: { de: "Uruapan", hu: "Uruapan", ro: "Uruapan", en: "Uruapan"},
+    image: "/poi-images/uruapan-cities-v2.webp",
     description: { de: "Bekannt als die 'Welthauptstadt der Avocado', in einer fruchtbaren Region von Michoacán gelegen.", hu: "Az 'avokádó világfővárosaként' ismert, Michoacán termékeny régiójában található.", ro: "Cunoscută drept 'Capitala Mondială a Avocado-ului', situată într-o regiune fertilă din Michoacán.", en: "Known as the 'World Capital of the Avocado', located in a fertile region of Michoacán." },
     facts: { de: ["Nationalpark Barranca del Cupatitzio", "Zentrum des Avocadoanbaus", "Reiche Purépecha-Kultur"], hu: ["Barranca del Cupatitzio Nemzeti Park", "Az avokádótermesztés központja", "Gazdag Purépecha kultúra"], ro: ["Parcul Național Barranca del Cupatitzio", "Centrul cultivării de avocado", "Cultură bogată Purépecha"], en: ["Barranca del Cupatitzio National Park", "Center of avocado cultivation", "Rich Purépecha culture"] },
     descriptionAdvanced: {
@@ -1041,9 +994,8 @@ image: "/poi-images/uruapan-cities-v2.webp"
     type: "city",
     parent: "MX-DUR",
     coords: [-103.4988, 25.5681],
-    name: { de: "Gómez Palacio", hu: "Gómez Palacio", ro: "Gómez Palacio", en: "Gómez Palacio",
-image: "/poi-images/gomez-palacio-cities-v2.webp"
-},
+    name: { de: "Gómez Palacio", hu: "Gómez Palacio", ro: "Gómez Palacio", en: "Gómez Palacio"},
+    image: "/poi-images/gomez-palacio-cities-v2.webp",
     description: { de: "Eine Industriestadt in Durango, die Teil der Metropolregion La Laguna ist.", hu: "Ipari város Durangóban, a La Laguna nagyvárosi régió része.", ro: "Un oraș industrial din Durango, parte a zonei metropolitane La Laguna.", en: "An industrial city in Durango, part of the La Laguna metropolitan area." },
     facts: { de: ["Bildet eine Metropolregion mit Torreón und Lerdo", "Wichtige Industrie- und Handelsaktivitäten", "Wüstenlandschaft"], hu: ["Torreónnal és Lerdo-val alkot nagyvárosi régiót", "Fontos ipari és kereskedelmi tevékenységek", "Sivatagi táj"], ro: ["Formează o zonă metropolitană cu Torreón și Lerdo", "Activități industriale și comerciale importante", "Peisaj deșertic"], en: ["Forms a metropolitan area with Torreón and Lerdo", "Important industrial and commercial activities", "Desert landscape"] },
     descriptionAdvanced: {
@@ -1063,9 +1015,8 @@ image: "/poi-images/gomez-palacio-cities-v2.webp"
     type: "city",
     parent: "MX-SIN",
     coords: [-108.9946, 25.7928],
-    name: { de: "Los Mochis", hu: "Los Mochis", ro: "Los Mochis", en: "Los Mochis",
-image: "/poi-images/los-mochis-cities-v2.webp"
-},
+    name: { de: "Los Mochis", hu: "Los Mochis", ro: "Los Mochis", en: "Los Mochis"},
+    image: "/poi-images/los-mochis-cities-v2.webp",
     description: { de: "Eine Küstenstadt in Sinaloa, die als Ausgangspunkt für die Kupfercanyon-Bahn dient.", hu: "Sinaloa tengerparti városa, a Réz-kanyon vasút kiindulópontja.", ro: "Un oraș de coastă din Sinaloa, care servește drept punct de plecare pentru trenul Copper Canyon.", en: "A coastal city in Sinaloa, serving as the starting point for the Copper Canyon railway." },
     facts: { de: ["Wichtiges landwirtschaftliches Zentrum (Zuckerrohr)", "Tor zur Kupferschlucht", "Hafen von Topolobampo in der Nähe"], hu: ["Fontos mezőgazdasági központ (cukornád)", "Kapu a Réz-kanyonhoz", "Topolobampo kikötője a közelben"], ro: ["Centru agricol important (trestie de zahăr)", "Poarta de acces către Canionul de Cupru", "Portul Topolobampo în apropiere"], en: ["Major agricultural center (sugarcane)", "Gateway to the Copper Canyon", "Port of Topolobampo nearby"] },
     descriptionAdvanced: {
@@ -1085,9 +1036,8 @@ image: "/poi-images/los-mochis-cities-v2.webp"
     type: "city",
     parent: "MX-CHP",
     coords: [-92.2675, 14.9075],
-    name: { de: "Tapachula", hu: "Tapachula", ro: "Tapachula", en: "Tapachula",
-image: "/poi-images/tapachula-cities-v2.webp"
-},
+    name: { de: "Tapachula", hu: "Tapachula", ro: "Tapachula", en: "Tapachula"},
+    image: "/poi-images/tapachula-cities-v2.webp",
     description: { de: "Eine Stadt in Chiapas nahe der Grenze zu Guatemala, ein wichtiges landwirtschaftliches Zentrum.", hu: "Város Chiapasban, Guatemala határának közelében, fontos mezőgazdasági központ.", ro: "Un oraș din Chiapas, aproape de granița cu Guatemala, un important centru agricol.", en: "A city in Chiapas near the Guatemala border, an important agricultural center." },
     facts: { de: ["Anbau von Kaffee, Bananen und Mangos", "Wichtiger Grenzübergang", "Multikulturelle Bevölkerung"], hu: ["Kávé-, banán- és mangótermesztés", "Fontos határátkelőhely", "Multikulturális lakosság"], ro: ["Cultivarea cafelei, bananelor și mangoului", "Punct de trecere a frontierei important", "Populație multiculturală"], en: ["Cultivation of coffee, bananas, and mangoes", "Major border crossing point", "Multicultural population"] },
     descriptionAdvanced: {
@@ -1107,9 +1057,8 @@ image: "/poi-images/tapachula-cities-v2.webp"
     type: "city",
     parent: "MX-TAM",
     coords: [-99.5078, 27.4865],
-    name: { de: "Nuevo Laredo", hu: "Nuevo Laredo", ro: "Nuevo Laredo", en: "Nuevo Laredo",
-image: "/poi-images/nuevo-laredo-cities-v2.webp"
-},
+    name: { de: "Nuevo Laredo", hu: "Nuevo Laredo", ro: "Nuevo Laredo", en: "Nuevo Laredo"},
+    image: "/poi-images/nuevo-laredo-cities-v2.webp",
     description: { de: "Eine der wichtigsten Grenzstädte Mexikos, gegenüber von Laredo, Texas.", hu: "Mexikó egyik legfontosabb határvárosa, a texasi Laredóval szemben.", ro: "Unul dintre cele mai importante orașe de frontieră din Mexic, vizavi de Laredo, Texas.", en: "One of Mexico's most important border cities, across from Laredo, Texas." },
     facts: { de: ["Größter Binnenhafen Lateinamerikas", "Extrem hohes Handelsvolumen mit den USA", "Strategischer Punkt für den internationalen Handel"], hu: ["Latin-Amerika legnagyobb belföldi kikötője", "Rendkívül magas kereskedelmi forgalom az USA-val", "Stratégiai pont a nemzetközi kereskedelemben"], ro: ["Cel mai mare port interior din America Latină", "Volum comercial extrem de mare cu SUA", "Punct strategic pentru comerțul internațional"], en: ["Largest inland port in Latin America", "Extremely high trade volume with the US", "Strategic point for international trade"] },
     descriptionAdvanced: {
@@ -1129,9 +1078,8 @@ image: "/poi-images/nuevo-laredo-cities-v2.webp"
     type: "city",
     parent: "MX-CHP",
     coords: [-92.6376, 16.7370],
-    name: { de: "San Cristóbal de las Casas", hu: "San Cristóbal de las Casas", ro: "San Cristóbal de las Casas", en: "San Cristóbal de las Casas",
-image: "/poi-images/san-cristobal-de-las-casas-cities-v2.webp"
-},
+    name: { de: "San Cristóbal de las Casas", hu: "San Cristóbal de las Casas", ro: "San Cristóbal de las Casas", en: "San Cristóbal de las Casas"},
+    image: "/poi-images/san-cristobal-de-las-casas-cities-v2.webp",
     description: { de: "Eine malerische Kolonialstadt im Hochland von Chiapas mit starker indigener Kultur.", hu: "Festői gyarmati város Chiapas felföldjén, erős őslakos kultúrával.", ro: "Un oraș colonial pitoresc în ținuturile înalte din Chiapas, cu o puternică cultură indigenă.", en: "A picturesque colonial city in the highlands of Chiapas with a strong indigenous culture." },
     facts: { de: ["Kulturelle Hauptstadt von Chiapas", "Umgeben von indigenen Tzotzil- und Tzeltal-Dörfern", "Kopfsteinpflasterstraßen und Kolonialarchitektur"], hu: ["Chiapas kulturális fővárosa", "Őslakos tzotzil és tzeltal falvak veszik körül", "Macskaköves utcák és gyarmati építészet"], ro: ["Capitala culturală a statului Chiapas", "Înconjurat de sate indigene Tzotzil și Tzeltal", "Străzi pavate și arhitectură colonială"], en: ["Cultural capital of Chiapas", "Surrounded by indigenous Tzotzil and Tzeltal villages", "Cobblestone streets and colonial architecture"] },
     descriptionAdvanced: {
@@ -1151,9 +1099,8 @@ image: "/poi-images/san-cristobal-de-las-casas-cities-v2.webp"
     type: "city",
     parent: "MX-VER",
     coords: [-94.4333, 18.1500],
-    name: { de: "Coatzacoalcos", hu: "Coatzacoalcos", ro: "Coatzacoalcos", en: "Coatzacoalcos",
-image: "/poi-images/coatzacoalcos-cities-v2.webp"
-},
+    name: { de: "Coatzacoalcos", hu: "Coatzacoalcos", ro: "Coatzacoalcos", en: "Coatzacoalcos"},
+    image: "/poi-images/coatzacoalcos-cities-v2.webp",
     description: { de: "Eine wichtige Hafen- und Industriestadt im Bundesstaat Veracruz am Golf von Mexiko.", hu: "Fontos kikötő és petrolkémiai központ a Mexikói-öböl partján.", ro: "Un port important și un centru petrochimic la Golful Mexic.", en: "A major port and petrochemical center on the Gulf of Mexico." },
     facts: { de: ["Bedeutender Erdölhafen", "Mündung des Rio Coatzacoalcos", "Industrielles Zentrum der Region"], hu: ["Ipari kikötő", "Fontos az olaj- és gázipar számára", "A Transz-Isztmusz-folyosó része"], ro: ["Port industrial", "Important pentru industria petrolieră și a gazelor", "Parte a Coridorului Trans-Istmic"], en: ["Industrial port", "Important for the oil and gas industry", "Part of the Trans-Isthmus Corridor"] },
     descriptionAdvanced: {
@@ -1173,9 +1120,8 @@ image: "/poi-images/coatzacoalcos-cities-v2.webp"
     type: "city",
     parent: "MX-SON",
     coords: [-109.9403, 27.4942],
-    name: { de: "Ciudad Obregón", hu: "Ciudad Obregón", ro: "Ciudad Obregón", en: "Ciudad Obregón",
-image: "/poi-images/ciudad-obregon-cities-v2.webp"
-},
+    name: { de: "Ciudad Obregón", hu: "Ciudad Obregón", ro: "Ciudad Obregón", en: "Ciudad Obregón"},
+    image: "/poi-images/ciudad-obregon-cities-v2.webp",
     description: { de: "Eine wichtige landwirtschaftliche Stadt im Yaqui-Tal in Sonora.", hu: "Fontos mezőgazdasági város a Yaqui-völgyben, Sonorában.", ro: "Un oraș agricol important în Valea Yaqui din Sonora.", en: "An important agricultural city in the Yaqui Valley of Sonora." },
     facts: { de: ["Zentrum der 'Grünen Revolution' in der Landwirtschaft", "Produktion von Weizen und anderen Getreiden", "Moderne, geplante Stadt"], hu: ["A 'Zöld Forradalom' központja a mezőgazdaságban", "Búza és más gabonafélék termelése", "Modern, tervezett város"], ro: ["Centrul 'Revoluției Verzi' în agricultură", "Producția de grâu și alte cereale", "Oraș modern, planificat"], en: ["Center of the 'Green Revolution' in agriculture", "Production of wheat and other grains", "Modern, planned city"] },
     descriptionAdvanced: {
@@ -1195,9 +1141,8 @@ image: "/poi-images/ciudad-obregon-cities-v2.webp"
     type: "city",
     parent: "MX-BCN",
     coords: [-116.5964, 31.8664],
-    name: { de: "Ensenada", hu: "Ensenada", ro: "Ensenada", en: "Ensenada",
-image: "/poi-images/ensenada-cities-v2.webp"
-},
+    name: { de: "Ensenada", hu: "Ensenada", ro: "Ensenada", en: "Ensenada"},
+    image: "/poi-images/ensenada-cities-v2.webp",
     description: { de: "Eine Hafenstadt in Baja California, bekannt für Weinproduktion und als Kreuzfahrthafen.", hu: "Kikötőváros Alsó-Kaliforniában, bortermeléséről és tengerjáró kikötőjéről ismert.", ro: "Un oraș portuar din Baja California, cunoscut pentru producția de vin și ca port de croazieră.", en: "A port city in Baja California, known for wine production and as a cruise ship port." },
     facts: { de: ["Mexikos Weinanbaugebiet 'Valle de Guadalupe' in der Nähe", "Wichtiger Fischereihafen", "Wissenschaftliche Forschungszentren"], hu: ["Mexikó 'Valle de Guadalupe' borvidéke a közelben", "Fontos halászkikötő", "Tudományos kutatóközpontok"], ro: ["Regiunea viticolă a Mexicului 'Valle de Guadalupe' în apropiere", "Port de pescuit important", "Centre de cercetare științifică"], en: ["Mexico's 'Valle de Guadalupe' wine country is nearby", "Important fishing port", "Scientific research centers"] },
     descriptionAdvanced: {
@@ -1217,9 +1162,8 @@ image: "/poi-images/ensenada-cities-v2.webp"
     type: "city",
     parent: "MX-VER",
     coords: [-97.4575, 20.5283],
-    name: { de: "Poza Rica", hu: "Poza Rica", ro: "Poza Rica", en: "Poza Rica",
-image: "/poi-images/poza-rica-cities-v2.webp"
-},
+    name: { de: "Poza Rica", hu: "Poza Rica", ro: "Poza Rica", en: "Poza Rica"},
+    image: "/poi-images/poza-rica-cities-v2.webp",
     description: { de: "Eine Stadt in Veracruz, die historisch mit der Erdölförderung verbunden ist.", hu: "Veracruz állambeli város, amely történelmileg a kőolaj-kitermeléshez kötődik.", ro: "Un oraș din Veracruz, legat istoric de extracția petrolului.", en: "A city in Veracruz historically linked to petroleum extraction." },
     facts: { de: ["Wichtiges Zentrum für Pemex (staatliche Ölgesellschaft)", "Nähe zur archäologischen Stätte El Tajín", "Wirtschaft durch Ölindustrie geprägt"], hu: ["A Pemex (állami olajvállalat) fontos központja", "Az El Tajín régészeti lelőhely közelsége", "Gazdaságát az olajipar határozza meg"], ro: ["Centru important pentru Pemex (compania petrolieră de stat)", "Apropierea de situl arheologic El Tajín", "Economie modelată de industria petrolieră"], en: ["Important center for Pemex (state oil company)", "Proximity to the El Tajín archaeological site", "Economy shaped by the oil industry"] },
     descriptionAdvanced: {
@@ -1239,9 +1183,8 @@ image: "/poi-images/poza-rica-cities-v2.webp"
     type: "city",
     parent: "MX-BCS",
     coords: [-109.9167, 22.8905],
-    name: { de: "Los Cabos", hu: "Los Cabos", ro: "Los Cabos", en: "Los Cabos",
-image: "/poi-images/los-cabos-cities-v2.webp"
-},
+    name: { de: "Los Cabos", hu: "Los Cabos", ro: "Los Cabos", en: "Los Cabos"},
+    image: "/poi-images/los-cabos-cities-v2.webp",
     description: { de: "Eine Gemeinde, die die Städte Cabo San Lucas und San José del Cabo umfasst, ein erstklassiges Urlaubsziel.", hu: "Cabo San Lucas és San José del Cabo városokat magában foglaló település, első osztályú üdülőhely.", ro: "O municipalitate care include orașele Cabo San Lucas și San José del Cabo, o destinație de vacanță de primă clasă.", en: "A municipality that includes the towns of Cabo San Lucas and San José del Cabo, a premier vacation destination." },
     facts: { de: ["Bekannt für Luxusresorts und Golfplätze", "Walbeobachtung im Winter", "El Arco (Der Bogen) Felsformation"], hu: ["Híres luxusüdülőiről és golfpályáiról", "Bálnalesés télen", "El Arco (Az Ív) sziklaképződmény"], ro: ["Renumit pentru stațiunile de lux și terenurile de golf", "Observarea balenelor în timpul iernii", "Formațiunea stâncoasă El Arco (Arcul)"], en: ["Known for luxury resorts and golf courses", "Whale watching in winter", "El Arco (The Arch) rock formation"] },
     descriptionAdvanced: {
@@ -1261,9 +1204,8 @@ image: "/poi-images/los-cabos-cities-v2.webp"
     type: "city",
     parent: "MX-MOR",
     coords: [-98.9567, 18.8094],
-    name: { de: "Cuautla", hu: "Cuautla", ro: "Cuautla", en: "Cuautla",
-image: "/poi-images/cuautla-cities-v2.webp"
-},
+    name: { de: "Cuautla", hu: "Cuautla", ro: "Cuautla", en: "Cuautla"},
+    image: "/poi-images/cuautla-cities-v2.webp",
     description: { de: "Eine historische Stadt in Morelos, die eine wichtige Rolle im mexikanischen Unabhängigkeitskrieg spielte.", hu: "Történelmi város Morelosban, amely fontos szerepet játszott a mexikói függetlenségi háborúban.", ro: "Un oraș istoric din Morelos, care a jucat un rol important în Războiul de Independență al Mexicului.", en: "A historical city in Morelos that played an important role in the Mexican War of Independence." },
     facts: { de: ["Ort einer berühmten Belagerung im Unabhängigkeitskrieg", "Thermalquellen in der Umgebung (Agua Hedionda)", "Zentrum einer landwirtschaftlichen Region"], hu: ["Egy híres ostrom helyszíne a függetlenségi háborúban", "Hőforrások a környéken (Agua Hedionda)", "Mezőgazdasági régió központja"], ro: ["Locul unui faimos asediu în Războiul de Independență", "Izvoare termale în zonă (Agua Hedionda)", "Centrul unei regiuni agricole"], en: ["Site of a famous siege in the War of Independence", "Thermal springs in the area (Agua Hedionda)", "Center of an agricultural region"] },
     descriptionAdvanced: {
@@ -1283,9 +1225,8 @@ image: "/poi-images/cuautla-cities-v2.webp"
     type: "city",
     parent: "MX-MEX",
     coords: [-98.8969, 19.2636],
-    name: { de: "Chalco", hu: "Chalco", ro: "Chalco", en: "Chalco",
-image: "/poi-images/chalco-cities-v2.webp"
-},
+    name: { de: "Chalco", hu: "Chalco", ro: "Chalco", en: "Chalco"},
+    image: "/poi-images/chalco-cities-v2.webp",
     description: { de: "Eine Stadt im Bundesstaat Mexiko, die historisch am Ufer des Chalco-Sees lag.", hu: "Város Mexikó államban, amely történelmileg a Chalco-tó partján feküdt.", ro: "Un oraș în statul Mexic, situat istoric pe malul lacului Chalco.", en: "A city in the State of Mexico, historically located on the shore of Lake Chalco." },
     facts: { de: ["Vorspanische Geschichte als unabhängiges Königreich", "Heute Teil der Metropolregion Mexiko-Stadt", "Städtisches und ländliches Gebiet"], hu: ["Prehispán történelem mint független királyság", "Ma Mexikóváros nagyvárosi területének része", "Városi és vidéki terület"], ro: ["Istorie pre-hispanică ca regat independent", "Astăzi parte a zonei metropolitane Mexico City", "Zonă urbană și rurală"], en: ["Pre-Hispanic history as an independent kingdom", "Now part of the Mexico City metropolitan area", "Urban and rural area"] },
     descriptionAdvanced: {
@@ -1305,9 +1246,8 @@ image: "/poi-images/chalco-cities-v2.webp"
     type: "city",
     parent: "MX-TLA",
     coords: [-98.1408, 19.4142],
-    name: { de: "Apizaco", hu: "Apizaco", ro: "Apizaco", en: "Apizaco",
-image: "/poi-images/apizaco-cities-v2.webp"
-},
+    name: { de: "Apizaco", hu: "Apizaco", ro: "Apizaco", en: "Apizaco"},
+    image: "/poi-images/apizaco-cities-v2.webp",
     description: { de: "Eine wichtige Handels- und Eisenbahnstadt im Bundesstaat Tlaxcala.", hu: "Fontos kereskedelmi és vasúti város Tlaxcala államban.", ro: "Un important oraș comercial și feroviar în statul Tlaxcala.", en: "An important commercial and railway city in the state of Tlaxcala." },
     facts: { de: ["Wichtiger Eisenbahnknotenpunkt in der Geschichte", "Basilika Unserer Lieben Frau der Barmherzigkeit", "Industrielle Entwicklung"], hu: ["Fontos vasúti csomópont a történelemben", "Miasszonyunk Irgalmasság Bazilikája", "Ipari fejlődés"], ro: ["Nod feroviar important în istorie", "Bazilica Maicii Domnului a Milostivirii", "Dezvoltare industrială"], en: ["Important railway hub in history", "Basilica of Our Lady of Mercy", "Industrial development"] },
     descriptionAdvanced: {
@@ -1327,9 +1267,8 @@ image: "/poi-images/apizaco-cities-v2.webp"
     type: "city",
     parent: "MX-SON",
     coords: [-110.9453, 31.3283],
-    name: { de: "Nogales", hu: "Nogales", ro: "Nogales", en: "Nogales",
-image: "/poi-images/nogales-cities-v2.webp"
-},
+    name: { de: "Nogales", hu: "Nogales", ro: "Nogales", en: "Nogales"},
+    image: "/poi-images/nogales-cities-v2.webp",
     description: { de: "Eine Grenzstadt in Sonora, die an Nogales, Arizona, angrenzt.", hu: "Határváros Sonorában, az arizonai Nogales mellett.", ro: "Un oraș de frontieră în Sonora, adiacent la Nogales, Arizona.", en: "A border city in Sonora, adjacent to Nogales, Arizona." },
     facts: { de: ["Wichtiger Grenzübergang für Handel und Personen", "Maquiladora-Industrie", "Geteilt durch eine Grenzmauer"], hu: ["Fontos határátkelőhely a kereskedelem és a személyek számára", "Maquiladora ipar", "Határfallal elválasztva"], ro: ["Punct de trecere a frontierei important pentru comerț și persoane", "Industria Maquiladora", "Împărțit de un zid de frontieră"], en: ["Major border crossing for trade and people", "Maquiladora industry", "Divided by a border wall"] },
     descriptionAdvanced: {
@@ -1349,9 +1288,8 @@ image: "/poi-images/nogales-cities-v2.webp"
     type: "city",
     parent: "MX-MEX",
     coords: [-98.8833, 19.5167],
-    name: { de: "Texcoco", hu: "Texcoco", ro: "Texcoco", en: "Texcoco",
-image: "/poi-images/tezcoco-cities-v2.webp"
-},
+    name: { de: "Texcoco", hu: "Texcoco", ro: "Texcoco", en: "Texcoco"},
+    image: "/poi-images/tezcoco-cities-v2.webp",
     description: { de: "Eine historische Stadt, die in vorspanischer Zeit ein wichtiges Kulturzentrum und Mitglied der Azteken-Dreibund war.", hu: "Történelmi város, amely a prehispán időkben fontos kulturális központ és az Azték Hármas Szövetség tagja volt.", ro: "Un oraș istoric care a fost un centru cultural major în perioada pre-hispanică și membru al Triplei Alianțe Aztece.", en: "A historical city that was a major cultural center in the pre-Hispanic period and a member of the Aztec Triple Alliance." },
     facts: { de: ["Heimat des berühmten Dichterkönigs Nezahualcóyotl", "Ehemalige Lage des Texcoco-Sees", "Chapingo Autonome Universität"], hu: ["A híres költő-király, Nezahualcóyotl otthona", "Az egykori Texcoco-tó helye", "Chapingo Autonóm Egyetem"], ro: ["Casa faimosului rege-poet Nezahualcóyotl", "Fosta locație a lacului Texcoco", "Universitatea Autonomă Chapingo"], en: ["Home of the famous poet-king Nezahualcóyotl", "Former site of Lake Texcoco", "Chapingo Autonomous University"] },
     descriptionAdvanced: {
@@ -1371,9 +1309,8 @@ image: "/poi-images/tezcoco-cities-v2.webp"
     type: "city",
     parent: "MX-PUE",
     coords: [-97.3931, 18.4625],
-    name: { de: "Tehuacán", hu: "Tehuacán", ro: "Tehuacán", en: "Tehuacán",
-image: "/poi-images/tehuacan-cities-v2.webp"
-},
+    name: { de: "Tehuacán", hu: "Tehuacán", ro: "Tehuacán", en: "Tehuacán"},
+    image: "/poi-images/tehuacan-cities-v2.webp",
     description: { de: "Bekannt für seine Mineralwasserquellen und als Ort der frühesten Domestizierung von Mais.", hu: "Ásványvízforrásairól és a kukorica legkorábbi háziasításának helyszínéről ismert.", ro: "Cunoscut pentru izvoarele sale de apă minerală și ca loc al celei mai vechi domesticiri a porumbului.", en: "Known for its mineral water springs and as the site of the earliest domestication of maize." },
     facts: { de: ["Zweitgrößte Stadt im Bundesstaat Puebla", "Wichtige Geflügelindustrie", "Biosphärenreservat Tehuacán-Cuicatlán"], hu: ["Puebla állam második legnagyobb városa", "Fontos baromfiipar", "Tehuacán-Cuicatlán Bioszféra Rezervátum"], ro: ["Al doilea cel mai mare oraș din statul Puebla", "Industrie avicolă importantă", "Rezervația Biosferei Tehuacán-Cuicatlán"], en: ["Second largest city in the state of Puebla", "Important poultry industry", "Tehuacán-Cuicatlán Biosphere Reserve"] },
     descriptionAdvanced: {
@@ -1393,9 +1330,8 @@ image: "/poi-images/tehuacan-cities-v2.webp"
     type: "city",
     parent: "MX-COL",
     coords: [-104.3150, 19.0536],
-    name: { de: "Manzanillo", hu: "Manzanillo", ro: "Manzanillo", en: "Manzanillo",
-image: "/poi-images/manzanillo-cities-v2.webp"
-},
+    name: { de: "Manzanillo", hu: "Manzanillo", ro: "Manzanillo", en: "Manzanillo"},
+    image: "/poi-images/manzanillo-cities-v2.webp",
     description: { de: "Beherbergt den verkehrsreichsten Hafen Mexikos und ist ein beliebtes Touristenziel.", hu: "Mexikó legforgalmasabb kikötőjének ad otthont, és népszerű turisztikai célpont.", ro: "Găzduiește cel mai aglomerat port din Mexic și este o destinație turistică populară.", en: "Home to Mexico's busiest port and a popular tourist destination." },
     facts: { de: ["Wichtigster Handelshafen an der Pazifikküste", "Bekannt für Segelfisch-Angeln", "Doppelbucht mit Sandstränden"], hu: ["A csendes-óceáni partvidék legfontosabb kereskedelmi kikötője", "Híres a vitorláshal-horgászatról", "Dupla öböl homokos strandokkal"], ro: ["Cel mai important port comercial de pe coasta Pacificului", "Renumit pentru pescuitul la peștele-velă", "Golf dublu cu plaje de nisip"], en: ["Most important commercial port on the Pacific coast", "Known for sailfish fishing", "Twin bay with sandy beaches"] },
     descriptionAdvanced: {
@@ -1415,9 +1351,8 @@ image: "/poi-images/manzanillo-cities-v2.webp"
     type: "city",
     parent: "MX-VER",
     coords: [-96.9350, 18.8939],
-    name: { de: "Córdoba", hu: "Córdoba", ro: "Córdoba", en: "Córdoba",
-image: "/poi-images/cordoba-ver-cities-v2.webp"
-},
+    name: { de: "Córdoba", hu: "Córdoba", ro: "Córdoba", en: "Córdoba"},
+    image: "/poi-images/cordoba-ver-cities-v2.webp",
     description: { de: "Eine Stadt in Veracruz, die für ihren Kaffeeanbau und ihre historische Bedeutung bei der Unterzeichnung der mexikanischen Unabhängigkeit bekannt ist.", hu: "Veracruz állambeli város, amely kávétermesztéséről és a mexikói függetlenség aláírásában játszott történelmi szerepéről ismert.", ro: "Un oraș din Veracruz, cunoscut pentru cultivarea cafelei și importanța sa istorică în semnarea independenței Mexicului.", en: "A city in Veracruz known for its coffee cultivation and historical importance in the signing of Mexican independence." },
     facts: { de: ["Ort der Unterzeichnung des Vertrags von Córdoba 1821", "Wichtige Kaffeeanbauregion", "Koloniale Architektur"], hu: ["A Córdobai Szerződés 1821-es aláírásának helyszíne", "Fontos kávétermesztő régió", "Gyarmati építészet"], ro: ["Locul semnării Tratatului de la Córdoba în 1821", "Regiune importantă de cultivare a cafelei", "Arhitectură colonială"], en: ["Site of the signing of the Treaty of Córdoba in 1821", "Major coffee-growing region", "Colonial architecture"] },
     descriptionAdvanced: {
@@ -1437,9 +1372,8 @@ image: "/poi-images/cordoba-ver-cities-v2.webp"
     type: "city",
     parent: "MX-CAM",
     coords: [-91.8317, 18.6369],
-    name: { de: "Ciudad del Carmen", hu: "Ciudad del Carmen", ro: "Ciudad del Carmen", en: "Ciudad del Carmen",
-image: "/poi-images/ciudad-del-carmen-cities-v2.webp"
-},
+    name: { de: "Ciudad del Carmen", hu: "Ciudad del Carmen", ro: "Ciudad del Carmen", en: "Ciudad del Carmen"},
+    image: "/poi-images/ciudad-del-carmen-cities-v2.webp",
     description: { de: "Eine Stadt auf einer Insel, die ein wichtiges Zentrum für die Offshore-Ölindustrie in der Bucht von Campeche ist.", hu: "Egy szigeten fekvő város, amely a Campeche-öböl tengeri olajiparának fontos központja.", ro: "Un oraș pe o insulă, care este un centru major pentru industria petrolieră offshore din Golful Campeche.", en: "A city on an island that is a major hub for the offshore oil industry in the Bay of Campeche." },
     facts: { de: ["Wichtiger Stützpunkt für die Erdölförderung", "Längste Brücke Mexikos (Puente El Zacatal)", "Garnelenfischerei-Industrie"], hu: ["Fontos támaszpont a kőolaj-kitermeléshez", "Mexikó leghosszabb hídja (Puente El Zacatal)", "Garnélarák-halászati ipar"], ro: ["Bază importantă pentru extracția de petrol", "Cel mai lung pod din Mexic (Puente El Zacatal)", "Industria pescuitului de creveți"], en: ["Major base for petroleum extraction", "Mexico's longest bridge (Puente El Zacatal)", "Shrimping industry"] },
     descriptionAdvanced: {
@@ -1459,9 +1393,8 @@ image: "/poi-images/ciudad-del-carmen-cities-v2.webp"
     type: "city",
     parent: "MX-GUA",
     coords: [-100.7436, 20.9142],
-    name: { de: "San Miguel de Allende", hu: "San Miguel de Allende", ro: "San Miguel de Allende", en: "San Miguel de Allende",
-image: "/poi-images/san-miguel-de-allende-cities-v2.webp"
-},
+    name: { de: "San Miguel de Allende", hu: "San Miguel de Allende", ro: "San Miguel de Allende", en: "San Miguel de Allende"},
+    image: "/poi-images/san-miguel-de-allende-cities-v2.webp",
     description: { de: "Eine Kolonialstadt, die für ihre Barockarchitektur, ihre Kunstszene und ihre große Expat-Gemeinde bekannt ist.", hu: "Gyarmati város, amely barokk építészetéről, művészeti életéről és nagy külföldi közösségéről ismert.", ro: "Un oraș colonial cunoscut pentru arhitectura sa barocă, scena artistică și comunitatea mare de expatriați.", en: "A colonial town known for its baroque architecture, arts scene, and large expat community." },
     facts: { de: ["UNESCO-Weltkulturerbe", "Parroquia de San Miguel Arcángel mit neugotischer Fassade", "Beliebt bei Künstlern und Rentnern"], hu: ["UNESCO Világörökség", "Parroquia de San Miguel Arcángel neogótikus homlokzattal", "Népszerű a művészek és nyugdíjasok körében"], ro: ["Patrimoniu mondial UNESCO", "Parroquia de San Miguel Arcángel cu fațadă neogotică", "Popular printre artiști și pensionari"], en: ["UNESCO World Heritage site", "Parroquia de San Miguel Arcángel with neo-Gothic facade", "Popular with artists and retirees"] },
     descriptionAdvanced: {
@@ -1481,9 +1414,8 @@ image: "/poi-images/san-miguel-de-allende-cities-v2.webp"
     type: "city",
     parent: "MX-GRO",
     coords: [-99.6050, 18.5564],
-    name: { de: "Taxco", hu: "Taxco", ro: "Taxco", en: "Taxco",
-image: "/poi-images/taxco-cities-v2.webp"
-},
+    name: { de: "Taxco", hu: "Taxco", ro: "Taxco", en: "Taxco"},
+    image: "/poi-images/taxco-cities-v2.webp",
     description: { de: "Eine malerische Bergstadt, die für ihre Silberminen und die Herstellung von Silberschmuck berühmt ist.", hu: "Festői hegyi város, amely ezüstbányáiról és ezüstékszerek készítéséről híres.", ro: "Un oraș montan pitoresc, renumit pentru minele sale de argint și producția de bijuterii din argint.", en: "A picturesque mountain town famous for its silver mines and production of silver jewelry." },
     facts: { de: ["'Silberhauptstadt' Mexikos", "Kirche Santa Prisca ist ein Meisterwerk des Churriguerismus", "Enge, verwinkelte Kopfsteinpflasterstraßen"], hu: ["Mexikó 'ezüstfővárosa'", "A Santa Prisca templom a churriguereszk stílus mesterműve", "Szűk, kanyargós macskaköves utcák"], ro: ["'Capitala argintului' a Mexicului", "Biserica Santa Prisca este o capodoperă a stilului churrigueresc", "Străzi înguste și sinuoase, pavate cu piatră cubică"], en: ["'Silver Capital' of Mexico", "Santa Prisca Church is a Churrigueresque masterpiece", "Narrow, winding cobblestone streets"] },
     descriptionAdvanced: {
@@ -1503,9 +1435,8 @@ image: "/poi-images/taxco-cities-v2.webp"
     type: "city",
     parent: "MX-VER",
     coords: [-97.1008, 18.8483],
-    name: { de: "Orizaba", hu: "Orizaba", ro: "Orizaba", en: "Orizaba",
-image: "/poi-images/orizaba-cities-v2.webp"
-},
+    name: { de: "Orizaba", hu: "Orizaba", ro: "Orizaba", en: "Orizaba"},
+    image: "/poi-images/orizaba-cities-v2.webp",
     description: { de: "Eine Stadt in einem Tal, umgeben von Bergen, einschließlich des Pico de Orizaba, des höchsten Berges Mexikos.", hu: "Egy völgyben fekvő város, amelyet hegyek vesznek körül, köztük a Pico de Orizaba, Mexikó legmagasabb hegye.", ro: "Un oraș într-o vale înconjurat de munți, inclusiv Pico de Orizaba, cel mai înalt munte din Mexic.", en: "A city in a valley surrounded by mountains, including Pico de Orizaba, Mexico's highest peak." },
     facts: { de: ["Historisch wichtige Industriestadt (Bier, Textilien)", "Seilbahn zum Cerro del Borrego", "Palacio de Hierro (Eisenpalast), entworfen von Eiffel"], hu: ["Történelmileg fontos ipari város (sör, textilek)", "Sikló a Cerro del Borrego-ra", "Palacio de Hierro (Vas palota), Eiffel tervezte"], ro: ["Oraș industrial important din punct de vedere istoric (bere, textile)", "Telecabină spre Cerro del Borrego", "Palacio de Hierro (Palatul de Fier), proiectat de Eiffel"], en: ["Historically important industrial city (beer, textiles)", "Cable car to Cerro del Borrego", "Palacio de Hierro (Iron Palace), designed by Eiffel"] },
     descriptionAdvanced: {
@@ -1525,9 +1456,8 @@ image: "/poi-images/orizaba-cities-v2.webp"
     type: "city",
     parent: "MX-GUA",
     coords: [-101.1969, 20.5708],
-    name: { de: "Salamanca", hu: "Salamanca", ro: "Salamanca", en: "Salamanca",
-image: "/poi-images/salamanca-gua-cities-v2.webp"
-},
+    name: { de: "Salamanca", hu: "Salamanca", ro: "Salamanca", en: "Salamanca"},
+    image: "/poi-images/salamanca-gua-cities-v2.webp",
     description: { de: "Eine Industriestadt in Guanajuato mit einer der größten Ölraffinerien Mexikos.", hu: "Ipari város Guanajuatóban, Mexikó egyik legnagyobb olajfinomítójával.", ro: "Un oraș industrial din Guanajuato, cu una dintre cele mai mari rafinării de petrol din Mexic.", en: "An industrial city in Guanajuato with one of Mexico's largest oil refineries." },
     facts: { de: ["Wichtiger Standort für Pemex", "Petrochemische Industrie", "Landwirtschaftliche Umgebung"], hu: ["Fontos Pemex telephely", "Petrolkémiai ipar", "Mezőgazdasági környezet"], ro: ["Locație importantă pentru Pemex", "Industrie petrochimică", "Mediu agricol"], en: ["Major site for Pemex", "Petrochemical industry", "Agricultural surroundings"] },
     descriptionAdvanced: {
@@ -1547,9 +1477,8 @@ image: "/poi-images/salamanca-gua-cities-v2.webp"
     type: "city",
     parent: "MX-MIC",
     coords: [-101.6094, 19.5133],
-    name: { de: "Pátzcuaro", hu: "Pátzcuaro", ro: "Pátzcuaro", en: "Pátzcuaro",
-image: "/poi-images/patzcuaro-cities-v2.webp"
-},
+    name: { de: "Pátzcuaro", hu: "Pátzcuaro", ro: "Pátzcuaro", en: "Pátzcuaro"},
+    image: "/poi-images/patzcuaro-cities-v2.webp",
     description: { de: "Eine Kolonialstadt am Pátzcuaro-See, bekannt für ihre indigene Kultur und die Feierlichkeiten zum Tag der Toten.", hu: "Gyarmati város a Pátzcuaro-tó partján, ismert őslakos kultúrájáról és a halottak napi ünnepségeiről.", ro: "Un oraș colonial pe malul lacului Pátzcuaro, cunoscut pentru cultura sa indigenă și sărbătorile Zilei Morților.", en: "A colonial town on Lake Pátzcuaro, known for its indigenous culture and Day of the Dead celebrations." },
     facts: { de: ["Plaza Vasco de Quiroga ist einer der schönsten Plätze Amerikas", "Insel Janitzio mit Morelos-Statue", "Zentrum der Purépecha-Region"], hu: ["A Plaza Vasco de Quiroga Amerika egyik legszebb tere", "Janitzio-sziget Morelos-szoborral", "A Purépecha régió központja"], ro: ["Plaza Vasco de Quiroga este una dintre cele mai frumoase piețe din America", "Insula Janitzio cu statuia lui Morelos", "Centrul regiunii Purépecha"], en: ["Plaza Vasco de Quiroga is one of the most beautiful plazas in the Americas", "Island of Janitzio with Morelos statue", "Center of the Purépecha region"] },
     descriptionAdvanced: {
@@ -1569,9 +1498,8 @@ image: "/poi-images/patzcuaro-cities-v2.webp"
     type: "city",
     parent: "MX-PUE",
     coords: [-98.3020, 19.0620],
-    name: { de: "Cholula", hu: "Cholula", ro: "Cholula", en: "Cholula",
-image: "/poi-images/cholula-cities-v2.webp"
-},
+    name: { de: "Cholula", hu: "Cholula", ro: "Cholula", en: "Cholula"},
+    image: "/poi-images/cholula-cities-v2.webp",
     description: { de: "Bekannt für die Große Pyramide von Cholula, die größte Pyramide der Welt nach Volumen.", hu: "Híres a Cholulai Nagy Piramisról, amely térfogatát tekintve a világ legnagyobb piramisa.", ro: "Cunoscut pentru Marea Piramidă din Cholula, cea mai mare piramidă din lume ca volum.", en: "Known for the Great Pyramid of Cholula, the largest pyramid in the world by volume." },
     facts: { de: ["Auf der Spitze der Pyramide steht eine Kirche", "Historisch wichtige Stadt", "Lebendige Studentenstadt"], hu: ["A piramis tetején egy templom áll", "Történelmileg fontos város", "Élénk egyetemi város"], ro: ["O biserică se află în vârful piramidei", "Oraș important din punct de vedere istoric", "Oraș universitar plin de viață"], en: ["A church sits atop the pyramid", "Historically important city", "Vibrant university town"] },
     descriptionAdvanced: {
@@ -1591,9 +1519,8 @@ image: "/poi-images/cholula-cities-v2.webp"
     type: "city",
     parent: "MX-QUE",
     coords: [-99.9936, 20.3872],
-    name: { de: "San Juan del Río", hu: "San Juan del Río", ro: "San Juan del Río", en: "San Juan del Río",
-image: "/poi-images/san-juan-del-rio-cities-v2.webp"
-},
+    name: { de: "San Juan del Río", hu: "San Juan del Río", ro: "San Juan del Río", en: "San Juan del Río"},
+    image: "/poi-images/san-juan-del-rio-cities-v2.webp",
     description: { de: "Eine Industriestadt in Querétaro, bekannt für Wein- und Käseproduktion.", hu: "Ipari város Querétaróban, amely bor- és sajttermeléséről ismert.", ro: "Un oraș industrial din Querétaro, cunoscut pentru producția de vin și brânză.", en: "An industrial city in Querétaro, known for wine and cheese production." },
     facts: { de: ["Teil der Wein- und Käsestraße", "Wichtiger Verkehrsknotenpunkt", "Historisches Zentrum"], hu: ["A Bor és Sajt Út része", "Fontos közlekedési csomópont", "Történelmi központ"], ro: ["Parte a Drumului Vinului și Brânzei", "Nod important de transport", "Centru istoric"], en: ["Part of the Wine and Cheese Route", "Important transportation hub", "Historic center"] },
     descriptionAdvanced: {
@@ -1613,9 +1540,8 @@ image: "/poi-images/san-juan-del-rio-cities-v2.webp"
     type: "city",
     parent: "MX-GRO",
     coords: [-99.5394, 18.3444],
-    name: { de: "Iguala", hu: "Iguala", ro: "Iguala", en: "Iguala",
-image: "/poi-images/iguala-cities-v2.webp"
-},
+    name: { de: "Iguala", hu: "Iguala", ro: "Iguala", en: "Iguala"},
+    image: "/poi-images/iguala-cities-v2.webp",
     description: { de: "Bekannt als die Wiege der mexikanischen Flagge, wo der Plan von Iguala verkündet wurde.", hu: "A mexikói zászló bölcsőjeként ismert, ahol kihirdették az Igualai Tervet.", ro: "Cunoscut ca leagănul steagului mexican, unde a fost proclamat Planul de la Iguala.", en: "Known as the cradle of the Mexican flag, where the Plan of Iguala was proclaimed." },
     facts: { de: ["Historisch bedeutsam für die Unabhängigkeit Mexikos", "Landwirtschaftliches Zentrum", "Herstellung der Nationalflagge"], hu: ["Történelmileg jelentős Mexikó függetlensége szempontjából", "Mezőgazdasági központ", "A nemzeti zászló megalkotása"], ro: ["Semnificativ din punct de vedere istoric pentru independența Mexicului", "Centru agricol", "Crearea steagului național"], en: ["Historically significant for Mexican independence", "Agricultural center", "Creation of the national flag"] },
     descriptionAdvanced: {
@@ -1635,9 +1561,8 @@ image: "/poi-images/iguala-cities-v2.webp"
     type: "city",
     parent: "MX-SLP",
     coords: [-99.0153, 21.9822],
-    name: { de: "Ciudad Valles", hu: "Ciudad Valles", ro: "Ciudad Valles", en: "Ciudad Valles",
-image: "/poi-images/ciudad-valles-cities-v2.webp"
-},
+    name: { de: "Ciudad Valles", hu: "Ciudad Valles", ro: "Ciudad Valles", en: "Ciudad Valles"},
+    image: "/poi-images/ciudad-valles-cities-v2.webp",
     description: { de: "Das Tor zur Huasteca Potosina, einer Region mit Wasserfällen, Flüssen und reicher Natur.", hu: "A Huasteca Potosina kapuja, egy vízesésekkel, folyókkal és gazdag természettel rendelkező régió.", ro: "Poarta de acces către Huasteca Potosina, o regiune cu cascade, râuri și natură bogată.", en: "The gateway to the Huasteca Potosina, a region of waterfalls, rivers, and rich nature." },
     facts: { de: ["Zentrum für Abenteuertourismus", "Anbau von Zuckerrohr und Zitrusfrüchten", "Archäologische Stätten in der Nähe"], hu: ["A kalandturizmus központja", "Cukornád- és citrusfélék termesztése", "Régészeti lelőhelyek a közelben"], ro: ["Centru pentru turismul de aventură", "Cultivarea trestiei de zahăr și a citricelor", "Siturilor arheologice în apropiere"], en: ["Center for adventure tourism", "Cultivation of sugarcane and citrus fruits", "Nearby archaeological sites"] },
     descriptionAdvanced: {
@@ -1657,9 +1582,8 @@ image: "/poi-images/ciudad-valles-cities-v2.webp"
     type: "city",
     parent: "MX-MIC",
     coords: [-102.2850, 19.9842],
-    name: { de: "Zamora de Hidalgo", hu: "Zamora de Hidalgo", ro: "Zamora de Hidalgo", en: "Zamora de Hidalgo",
-image: "/poi-images/zamora-de-hidalgo-cities-v2.webp"
-},
+    name: { de: "Zamora de Hidalgo", hu: "Zamora de Hidalgo", ro: "Zamora de Hidalgo", en: "Zamora de Hidalgo"},
+    image: "/poi-images/zamora-de-hidalgo-cities-v2.webp",
     description: { de: "Eine Stadt in Michoacán, die für ihre neugotische Kathedrale und ihre landwirtschaftliche Produktion bekannt ist.", hu: "Város Michoacánban, neogótikus katedrálisáról és mezőgazdasági termeléséről ismert.", ro: "Un oraș din Michoacán, cunoscut pentru catedrala sa neogotică și producția sa agricolă.", en: "A city in Michoacán known for its neo-gothic cathedral and its agricultural production." },
     facts: { de: ["Einer der größten Produzenten von Brombeeren", "Unvollendete Kathedrale ist eine der größten der Welt", "Wichtiges Handelszentrum"], hu: ["A szeder egyik legnagyobb termelője", "A befejezetlen katedrális a világ egyik legnagyobbja", "Fontos kereskedelmi központ"], ro: ["Unul dintre cei mai mari producători de mure", "Catedrala neterminată este una dintre cele mai mari din lume", "Centru comercial important"], en: ["One of the largest producers of blackberries", "Unfinished cathedral is one of the world's largest", "Important commercial center"] },
     descriptionAdvanced: {
@@ -1679,9 +1603,8 @@ image: "/poi-images/zamora-de-hidalgo-cities-v2.webp"
     type: "city",
     parent: "MX-ROO",
     coords: [-87.4654, 20.2114],
-    name: { de: "Tulum", hu: "Tulum", ro: "Tulum", en: "Tulum",
-image: "/poi-images/tulum-cities-v2.webp"
-},
+    name: { de: "Tulum", hu: "Tulum", ro: "Tulum", en: "Tulum"},
+    image: "/poi-images/tulum-cities-v2.webp",
     description: { de: "Bekannt für seine gut erhaltenen Maya-Ruinen an einer Klippe über dem Karibischen Meer.", hu: "Jól megőrzött maja romjairól ismert, amelyek egy sziklán helyezkednek el a Karib-tenger felett.", ro: "Cunoscut pentru ruinele sale mayașe bine conservate pe o stâncă deasupra Mării Caraibelor.", en: "Known for its well-preserved Mayan ruins on a cliff above the Caribbean Sea." },
     facts: { de: ["Maya-Hafenstadt", "Beliebtes Ziel für Yoga und Wellness", "Cenoten und weiße Sandstrände"], hu: ["Maja kikötőváros", "Népszerű jóga- és wellness-célpont", "Cenoték és fehér homokos strandok"], ro: ["Oraș portuar mayaș", "Destinație populară pentru yoga și wellness", "Cenote și plaje cu nisip alb"], en: ["Mayan port city", "Popular yoga and wellness destination", "Cenotes and white sand beaches"] },
     descriptionAdvanced: {

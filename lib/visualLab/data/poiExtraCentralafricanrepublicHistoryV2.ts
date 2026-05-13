@@ -11,9 +11,8 @@ export const poiExtraCentralafricanrepublicHistoryV2: POI[] = [
       de: "Sultanat von Senoussi",
       hu: "Senoussi Szultanátus",
       ro: "Sultanatul lui Senoussi",
-      en: "Sultanate of Senoussi",
-image: "/poi-images/sultanat-senoussi-history-v2.webp"
-},
+      en: "Sultanate of Senoussi"},
+    image: "/poi-images/sultanat-senoussi-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Sultanat Senoussi war eine bedeutende politische Einheit im Norden der Zentralafrikanischen Republik, die im 19. Jahrhundert eine Schlüsselrolle bei der Kontrolle über Handelswege in der Region spielte. Als Teil der islamischen Sultanate, die den transsaharischen Handel beeinflussten, hinterließ es Spuren in der kulturellen Identität der dort lebenden Gemeinschaften. Die Geschichte des Sultanats ist eng mit den lokalen Machtverhältnissen und dem Widerstand gegen koloniale Expansion verknüpft. Geschichte K8 – Sultanate und regionale Macht.",
       ro: "Sultanatul Senoussi a fost o entitate politică importantă în regiunea de nord-est, influențând istoria, cultura și structura socială a popoarelor locale în perioada precolonială. Importanța sa rezidă în rețelele comerciale și diplomatice stabilite. Geografie K7 – Istoria entităților politice.",
@@ -65,9 +64,8 @@ image: "/poi-images/sultanat-senoussi-history-v2.webp"
       de: "Fort Crampel",
       hu: "Fort Crampel",
       ro: "Fort Crampel",
-      en: "Fort Crampel",
-image: "/poi-images/fort-crampel-history-v2.webp"
-},
+      en: "Fort Crampel"},
+    image: "/poi-images/fort-crampel-history-v2.webp",
     descriptionAdvanced: {
       de: "Fort Crampel war ein wichtiger Stützpunkt für die französische Kolonialverwaltung im Zentrum des Landes. Es diente als administrativer Ankerpunkt zur Kontrolle der Region und zur Sicherung der Handelsrouten. Die Gründung und Nutzung von Fort Crampel markiert den Beginn der direkten kolonialen Einflussnahme in einer Region, die zuvor durch lokale Strukturen geprägt war, und spiegelt die koloniale Verwaltungslogik wider. Geschichte K8 – Koloniale Strukturen.",
       ro: "Fortul Crampel, situat în zona centrală, a fost un punct strategic al administrației coloniale franceze, jucând un rol cheie în controlul administrativ și militar al regiunii în secolul trecut. Importanța sa istorică este legată de expansiunea administrativă. Geografie K7 – Istoria colonială.",
@@ -119,9 +117,8 @@ image: "/poi-images/fort-crampel-history-v2.webp"
       de: "Fort Sibut",
       hu: "Fort Sibut",
       ro: "Fort Sibut",
-      en: "Fort Sibut",
-image: "/poi-images/fort-sibut-history-v2.webp"
-},
+      en: "Fort Sibut"},
+    image: "/poi-images/fort-sibut-history-v2.webp",
     descriptionAdvanced: {
       de: "Fort Sibut entwickelte sich aus einem wichtigen kolonialen Stützpunkt zu einem zentralen Ort der administrativen Organisation in der Präfektur Kémo. Die Anlage war ein Pfeiler der kolonialen Infrastruktur, die darauf ausgerichtet war, das Hinterland zu kontrollieren und den Warenfluss Richtung Hauptstadt zu sichern. Das Fort ist ein Zeugnis der administrativen und militärischen Strategien der damaligen Machthaber in Zentralafrika. Geschichte K8 – Militärstrategie im Kolonialismus.",
       ro: "Fortul Sibut a servit ca bază administrativă și militară pe parcursul perioadei coloniale, fiind situat strategic pe rutele de transport ce legau regiunile țării. Sibut a devenit un punct de referință în evoluția structurilor administrative moderne. Geografie K7 – Istoria așezărilor.",
@@ -173,9 +170,8 @@ image: "/poi-images/fort-sibut-history-v2.webp"
       de: "Megalithen von Bouar",
       hu: "Bouari megalitok",
       ro: "Megaliții din Bouar",
-      en: "Bouar Megaliths",
-image: "/poi-images/megalithen-bouar-history-v2.webp"
-},
+      en: "Bouar Megaliths"},
+    image: "/poi-images/megalithen-bouar-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Megalithanlagen bei Bouar sind präkoloniale Steindenkmäler, die eine geheimnisvolle und kulturell bedeutsame Seite der Geschichte der Zentralafrikanischen Republik beleuchten. Als monumentale Strukturen aus Stein zeugen sie von frühen menschlichen Gesellschaften, deren genaue Lebensweise und spirituelle Praktiken noch immer Gegenstand historischer und archäologischer Forschung sind. Sie sind ein kulturelles Erbe von großer Bedeutung für die regionale Identität. Geschichte K5 – Prähistorische Kulturen.",
       ro: "Megaliții de la Bouar reprezintă un sit arheologic misterios și fascinant, compus din structuri de piatră gigantice ce mărturisesc despre civilizațiile străvechi care au locuit regiunea. Acestea oferă informații valoroase despre preistoria locală. Geografie K7 – Situri arheologice și preistorie.",
@@ -227,9 +223,8 @@ image: "/poi-images/megalithen-bouar-history-v2.webp"
       de: "Sultanat von Bangassou",
       hu: "Bangassou Szultanátus",
       ro: "Sultanatul din Bangassou",
-      en: "Sultanate of Bangassou",
-image: "/poi-images/sultanat-bangassou-history-v2.webp"
-},
+      en: "Sultanate of Bangassou"},
+    image: "/poi-images/sultanat-bangassou-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Sultanat Bangassou war eine bedeutende Macht im Südosten der Zentralafrikanischen Republik, die durch ihren Handel und ihre diplomatischen Beziehungen zu Nachbarregionen eine prägende Rolle spielte. Als lokales Zentrum der islamischen Kultur und Macht im Mbomou-Gebiet trug es zur gesellschaftlichen Strukturierung vor und während der kolonialen Ära bei. Die Geschichte des Sultanats ist Teil einer komplexen regionalen Vergangenheit, die verschiedene Einflüsse vereint. Geschichte K8 – Regionale Sultanats-Macht.",
       ro: "Sultanatul Bangassou a fost un centru putere regional în estul țării, jucând un rol semnificativ în dinamica politică și comercială înainte de perioada colonială. Bangassou a menținut legături diplomatice și comerciale vaste. Geografie K7 – Istoria puterii regionale.",
@@ -281,9 +276,8 @@ image: "/poi-images/sultanat-bangassou-history-v2.webp"
       de: "Sultanat von Rafaï",
       hu: "Rafaï Szultanátus",
       ro: "Sultanatul din Rafaï",
-      en: "Sultanate of Rafaï",
-image: "/poi-images/sultanat-rafai-history-v2.webp"
-},
+      en: "Sultanate of Rafaï"},
+    image: "/poi-images/sultanat-rafai-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Sultanat Rafai war ein weiteres bedeutendes politisches Zentrum im Südosten des heutigen Landes. Es war wie andere Sultanate der Region ein Akteur in einem Netzwerk aus Handel und lokaler Verwaltung, das die politische Landschaft vor der Kolonialisierung maßgeblich mitgestaltete. Die Existenz des Sultanats unterstreicht die historische Präsenz organisierter Machtstrukturen im entlegenen Osten Zentralafrikas. Geschichte K8 – Regionale politische Entwicklung.",
       ro: "Sultanatul Rafaï a fost o putere locală semnificativă în regiunea estică, exercitându-și influența asupra rutelor comerciale și a populațiilor din bazinul fluviului Mbomou. Aceasta a reprezentat un centru de organizare politică și culturală precolonială. Geografie K7 – Istoria regiunilor.",
@@ -335,9 +329,8 @@ image: "/poi-images/sultanat-rafai-history-v2.webp"
       de: "Sultanat von Zémio",
       hu: "Zémio Szultanátus",
       ro: "Sultanatul din Zémio",
-      en: "Sultanate of Zémio",
-image: "/poi-images/sultanat-zemio-history-v2.webp"
-},
+      en: "Sultanate of Zémio"},
+    image: "/poi-images/sultanat-zemio-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Sultanat Zemio spielte eine wichtige Rolle bei der Konsolidierung lokaler Machtstrukturen im äußersten Südosten. Durch seine geografische Lage war es in Handels- und Machtkämpfe involviert, die die Region vor und während der Kolonialisierung prägten. Als Zentrum für lokale Verwaltung und Handel ist die Geschichte von Zemio ein wichtiges Beispiel für die Vielfalt der politischen Einheiten, die in der Zentralafrikanischen Republik koexistierten. Geschichte K8 – Vielfalt politischer Strukturen.",
       ro: "Sultanatul Zémio a jucat un rol crucial în stabilizarea și coordonarea zonelor de frontieră în estul Republicii Centrafricane, acționând ca un mediator între puterile locale și rețelele comerciale regionale. Geografie K7 – Istoria frontierelor.",
@@ -389,9 +382,8 @@ image: "/poi-images/sultanat-zemio-history-v2.webp"
       de: "Fort de l'Ouham",
       hu: "Fort de l'Ouham",
       ro: "Fort de l'Ouham",
-      en: "Fort de l'Ouham",
-image: "/poi-images/fort-ouham-history-v2.webp"
-},
+      en: "Fort de l'Ouham"},
+    image: "/poi-images/fort-ouham-history-v2.webp",
     descriptionAdvanced: {
       de: "Fort Ouham fungierte als militärischer Außenposten im Norden des Landes und diente dazu, den französischen kolonialen Anspruch in einer landschaftlich herausfordernden und weitläufigen Region zu wahren. Die Errichtung solcher Forts war entscheidend für die koloniale Landnahme und Kontrolle. Heute sind diese ehemaligen Standorte Zeugnisse einer Epoche, die das Land tiefgreifend verändert und die Grenzen des heutigen Staates geformt hat. Geschichte K8 – Koloniale Landnahme.",
       ro: "Fortul Ouham, situat într-o zonă strategică din nordul țării, a fost un punct de control militar francez în perioada colonială, având rolul de a monitoriza mișcările de populație și resursele regionale. Geografie K7 – Istoria colonială.",
@@ -443,9 +435,8 @@ image: "/poi-images/fort-ouham-history-v2.webp"
       de: "Kolonialviertel von Bangui",
       hu: "Bangui gyarmati negyede",
       ro: "Cartierul Colonial din Bangui",
-      en: "Colonial Quarter of Bangui",
-image: "/poi-images/bangui-kolonialviertel-history-v2.webp"
-},
+      en: "Colonial Quarter of Bangui"},
+    image: "/poi-images/bangui-kolonialviertel-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Kolonialviertel in Bangui bewahrt ein Stück der Architekturgeschichte, die das Gesicht der Hauptstadt zu Beginn des 20. Jahrhunderts prägte. Diese Bauten zeigen den französischen Einfluss auf die städtische Entwicklung und sind Teil des kulturellen Erbes der Stadt. Die Erhaltung dieser Gebäude ermöglicht Einblicke in die koloniale Vergangenheit und städtische Entwicklung Bangui, wobei sie heute oft als öffentliche Gebäude genutzt werden. Geschichte K8 – Architekturgeschichte des 20. Jahrhunderts.",
       ro: "Cartierul colonial din Bangui păstrează elemente arhitecturale care mărturisesc despre perioada administrației franceze și evoluția urbană a capitalei. Acesta este un martor viu al istoriei coloniale urbane. Geografie K7 – Urbanism istoric.",
@@ -498,9 +489,8 @@ image: "/poi-images/bangui-kolonialviertel-history-v2.webp"
       de: "Historische Brücke von Bambari",
       hu: "Bambari történelmi hídja",
       ro: "Podul Istoric din Bambari",
-      en: "Bambari Historic Bridge",
-image: "/poi-images/bambari-bruecke-history-v2.webp"
-},
+      en: "Bambari Historic Bridge"},
+    image: "/poi-images/bambari-bruecke-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Brücke in Bambari ist ein historisch bedeutendes Infrastrukturwerk, das die koloniale Erschließung des Landes und die Verbindung der Regionen widerspiegelt. Solche Brückenbauten waren essenziell, um die großen Flusslandschaften zu überqueren und die logistischen Routen zwischen den Präfekturen und der Hauptstadt Bangui zu stabilisieren. Sie ist heute ein Symbol für die infrastrukturelle Entwicklung, die in den 1950er Jahren die wirtschaftliche Anbindung des Zentralraums stärkte. Geschichte K8 – Infrastrukturelle Erschließung.",
       ro: "Podul din Bambari este un simbol al infrastructurii istorice, facilitând circulația pe rutele comerciale centrale și conectând regiunea Ouaka cu restul țării. Acesta a jucat un rol cheie în dezvoltarea transportului regional. Geografie K7 – Infrastructură istorică.",
@@ -552,9 +542,8 @@ image: "/poi-images/bambari-bruecke-history-v2.webp"
       de: "Kolonialpräfektur von Mbaïki",
       hu: "Mbaïki gyarmati prefektúrája",
       ro: "Prefectura Colonială din Mbaïki",
-      en: "Colonial Prefecture of Mbaïki",
-image: "/poi-images/mbaiki-kolonialpraefektur-history-v2.webp"
-},
+      en: "Colonial Prefecture of Mbaïki"},
+    image: "/poi-images/mbaiki-kolonialpraefektur-history-v2.webp",
     descriptionAdvanced: {
       de: "Das ehemalige Gebäude der Kolonialpräfektur in Mbaiki ist ein Zeugnis für die verwaltungstechnische Organisation, die die Franzosen in der Region Lobaye etablierten. Als Zentrum der lokalen Verwaltung und der Organisation des Kaffeeanbaus unterstrich es die koloniale Kontrolle über die wirtschaftlich lukrativen Waldgebiete. Heute steht es als historisches Mahnmal für die administrativen Strukturen, die den Grundstein für die moderne Präfekturverwaltung legten. Geschichte K8 – Verwaltung im Kolonialismus.",
       ro: "Prefectura colonială din Mbaïki reprezintă centrul administrativ istoric în care se concentrau deciziile de gestionare a resurselor forestiere în perioada franceză, fiind un punct de control cheie în sud-vest. Geografie K7 – Administrația colonială."
@@ -604,9 +593,8 @@ image: "/poi-images/mbaiki-kolonialpraefektur-history-v2.webp"
       de: "Kolonialerbe von Mobaye",
       hu: "Mobaye gyarmati öröksége",
       ro: "Moștenirea Colonială din Mobaye",
-      en: "Colonial Heritage of Mobaye",
-image: "/poi-images/mobaye-kolonialerbe-history-v2.webp"
-},
+      en: "Colonial Heritage of Mobaye"},
+    image: "/poi-images/mobaye-kolonialerbe-history-v2.webp",
     descriptionAdvanced: {
       de: "Das koloniale Erbe in Mobaye, das sich in der Architektur am Flusslauf zeigt, verdeutlicht die historische Rolle der Stadt als Handels- und Verwaltungsstandort am Ubangi. Durch die Nähe zum Wasser war Mobaye ein wichtiger Punkt für den Transport und die Präsenz der kolonialen Macht. Das Erbe dieser Zeit prägt das heutige Stadtbild von Mobaye und erinnert an die Ära des regionalen Handels, die für den Südosten des Landes so entscheidend war. Geschichte K8 – Handel und Kolonialisierung.",
       ro: "Mobaye păstrează moștenirea colonială sub forma unor clădiri și structuri care marchează istoria sa de port fluvial de importanță strategică în perioada administrației franceze. Geografie K7 – Istoria localităților fluviale."
@@ -656,9 +644,8 @@ image: "/poi-images/mobaye-kolonialerbe-history-v2.webp"
       de: "Diamanten-Erbe von Berbérati",
       hu: "Berbérati gyémánt-öröksége",
       ro: "Moștenirea Diamantelor din Berbérati",
-      en: "Diamond Heritage of Berbérati",
-image: "/poi-images/berberati-diamanten-erbe-history-v2.webp"
-},
+      en: "Diamond Heritage of Berbérati"},
+    image: "/poi-images/berberati-diamanten-erbe-history-v2.webp",
     descriptionAdvanced: {
       de: "Das Erbe der Diamantengewinnung in Berbérati ist tief in der Geschichte der Stadt verwurzelt, die durch die Entdeckung und den Abbau von Diamanten während der Kolonialzeit eine enorme wirtschaftliche Aufwertung erlebte. Diese Historie erklärt die industrielle Entwicklung der Stadt und ihre Stellung als Handelszentrum für Edelsteine. Der historische Prozess der Ausbeutung und Erschließung dieser Ressourcen hat Berbérati zu dem gemacht, was es heute ist. Geschichte K8 – Wirtschaftliche Erschließung.",
       ro: "Moștenirea legată de diamante din Berbérati reflectă istoria exploatării acestor resurse prețioase încă din perioada colonială, influențând dezvoltarea economică și socială a orașului. Geografie K7 – Istorie economică."
@@ -709,9 +696,8 @@ image: "/poi-images/berberati-diamanten-erbe-history-v2.webp"
       de: "Goldgräber-Erbe von Carnot",
       hu: "Carnot aranyásó-öröksége",
       ro: "Moștenirea Aurului din Carnot",
-      en: "Gold Mining Heritage of Carnot",
-image: "/poi-images/carnot-gold-erbe-history-v2.webp"
-},
+      en: "Gold Mining Heritage of Carnot"},
+    image: "/poi-images/carnot-gold-erbe-history-v2.webp",
     descriptionAdvanced: {
       de: "Das goldene Erbe von Carnot geht auf die frühen Zeiten der industriellen Ausbeutung durch koloniale Firmen zurück, die die Region systematisch auf Rohstoffe untersuchten. Die industrielle Geschichte der Stadt, verbunden mit der Förderung von Bodenschätzen, hat in Carnot eine spezifische städtische Identität geschaffen, die stark von der Vergangenheit als Bergbauzentrum geprägt ist. Die Stadt ist somit ein historischer Repräsentant für den Bergbausektor im Südwesten Zentralafrikas. Geschichte K8 – Bergbaugeschichte.",
       ro: "Carnot deține o istorie legată de extracția aurului, o resursă care a atras interesul administrației coloniale și a modelat peisajul economic al regiunii Mambéré-Kadéï. Geografie K7 – Istoria resurselor."
@@ -762,9 +748,8 @@ image: "/poi-images/carnot-gold-erbe-history-v2.webp"
       de: "Historischer Zusammenfluss von Nola",
       hu: "Nola történelmi összefolyása",
       ro: "Confluența Istorică din Nola",
-      en: "Historic Confluence of Nola",
-image: "/poi-images/nola-zusammenfluss-history-v2.webp"
-},
+      en: "Historic Confluence of Nola"},
+    image: "/poi-images/nola-zusammenfluss-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Geschichte von Nola am Zusammenfluss der Flüsse ist durch die strategische Bedeutung des Ortes für den Handel und den Holztransport geprägt. Seit Jahrhunderten als Knotenpunkt genutzt, erlebte der Ort während der Kolonialzeit eine Intensivierung der Aktivitäten durch die Forstwirtschaft. Nola fungierte dabei stets als Ankerpunkt für die Bewegung von Waren und Menschen im dichten Waldgürtel des Südens, was den Zusammenfluss zu einem geschichtsträchtigen Ort machte. Geschichte K8 – Handelswege.",
       ro: "Nola, situat la confluența râurilor, are o istorie strâns legată de explorarea fluvială și comerțul colonial, fiind un punct strategic de monitorizare a mișcărilor pe rutele de apă. Geografie K7 – Istoria explorării."
@@ -814,9 +799,8 @@ image: "/poi-images/nola-zusammenfluss-history-v2.webp"
       de: "Historische Mission von Bozoum",
       hu: "Bozoum történelmi missziója",
       ro: "Misiunea Istorică din Bozoum",
-      en: "Historic Mission of Bozoum",
-image: "/poi-images/bozoum-mission-history-v2.webp"
-},
+      en: "Historic Mission of Bozoum"},
+    image: "/poi-images/bozoum-mission-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Missionsstation in Bozoum hat die lokale Geschichte maßgeblich beeinflusst, indem sie Bildung, Gesundheit und soziale Dienstleistungen in den Nordwesten brachte. Die missionarische Tätigkeit war oft eng mit der kolonialen Entwicklung verknüpft, bot jedoch auch neue Perspektiven und Strukturen für die lokale Bevölkerung. Die Station ist bis heute ein wichtiger Ort für das gesellschaftliche Leben und die christliche Tradition in der Präfektur Ouham-Pendé. Geschichte K8 – Missionierung und gesellschaftlicher Wandel.",
       ro: "Misiunea de la Bozoum este o așezare istorică ce reflectă influența misionară europeană în regiunile centrale, jucând un rol important în educația și sănătatea populației locale de-a lungul secolului. Geografie K7 – Istoria instituțiilor sociale."
@@ -867,9 +851,8 @@ image: "/poi-images/bozoum-mission-history-v2.webp"
       de: "Handelsposten von Ouadda",
       hu: "Ouadda kereskedelmi állomása",
       ro: "Postul Comercial din Ouadda",
-      en: "Trading Post of Ouadda",
-image: "/poi-images/ouadda-handelsposten-history-v2.webp"
-},
+      en: "Trading Post of Ouadda"},
+    image: "/poi-images/ouadda-handelsposten-history-v2.webp",
     descriptionAdvanced: {
       de: "Ouadda diente als wichtiger Handelsposten im Osten des Landes, der für die Kontrolle und den Austausch von Waren in entlegenen Regionen von großer Bedeutung war. Die Geschichte der Stadt als Knotenpunkt für den Handel unterstreicht die Rolle, die abgelegene Orte in der Strukturierung des Handelsnetzes der Zentralafrikanischen Republik spielten. Heute dient der historische Handelsposten als Erinnerung an eine Ära, in der Handelsrouten das Rückgrat der regionalen Entwicklung bildeten. Geschichte K8 – Handelsnetze.",
       ro: "Postul comercial din Ouadda a fost un pilon pentru schimbul de mărfuri din zonele izolate ale nord-estului, facilitând accesul la produsele europene și exportul resurselor locale. Geografie K7 – Istoria comerțului."
@@ -919,9 +902,8 @@ image: "/poi-images/ouadda-handelsposten-history-v2.webp"
       de: "Karawanenweg von Birao",
       hu: "Biraoi karavánút",
       ro: "Drumul Caravanelor din Birao",
-      en: "Caravan Route of Birao",
-image: "/poi-images/birao-karawanenweg-history-v2.webp"
-},
+      en: "Caravan Route of Birao"},
+    image: "/poi-images/birao-karawanenweg-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Geschichte von Birao als Knotenpunkt für die transsaharischen Karawanenwege im hohen Norden unterstreicht die historische Verbindung der Region zum Mittelmeerraum und dem Sudan. Die Stadt war eine der wichtigsten Stationen für den Austausch von Gütern über Tausende Kilometer hinweg. Diese historische Dimension macht Birao zu einem Ort, an dem sich die Geschichte des überregionalen Handels mit der lokalen Identität verbindet. Geschichte K8 – Transsahara-Handel.",
       ro: "Drumul caravanelor din Birao a fost o rută esențială pentru negoțul trans-saharian care lega regiunile centrafricane de statele din nord, fiind un vector de schimb cultural și economic. Geografie K7 – Rute comerciale antice."
@@ -971,9 +953,8 @@ image: "/poi-images/birao-karawanenweg-history-v2.webp"
       de: "Grenzposten von Obo",
       hu: "Obo határposztja",
       ro: "Postul de Frontieră din Obo",
-      en: "Frontier Post of Obo",
-image: "/poi-images/obo-grenzposten-history-v2.webp"
-},
+      en: "Frontier Post of Obo"},
+    image: "/poi-images/obo-grenzposten-history-v2.webp",
     descriptionAdvanced: {
       de: "Obo hat eine lange Geschichte als Grenzposten im Südosten, der zur Kontrolle des Handels und der Bewegung von Menschen zwischen den heutigen Staatsgebieten diente. Seine Rolle als vorgeschobener Außenposten war besonders während der Kolonialzeit für die Sicherung der imperialen Grenzen entscheidend. Diese historische Funktion als Grenzstandort prägt bis heute die Identität und strategische Bedeutung der Stadt Obo in der Region. Geschichte K8 – Grenzsicherung.",
       ro: "Postul de frontieră de la Obo a fost un punct militar și administrativ strategic în estul țării, utilizat pentru securizarea granițelor și gestionarea fluxurilor de populație și bunuri. Geografie K7 – Securitate istorică."
@@ -1023,9 +1004,8 @@ image: "/poi-images/obo-grenzposten-history-v2.webp"
       de: "Altes Kraftwerk von Boali",
       hu: "Boali régi erőműve",
       ro: "Vechea Centrală din Boali",
-      en: "Old Power Station of Boali",
-image: "/poi-images/boali-kraftwerk-history-v2.webp"
-},
+      en: "Old Power Station of Boali"},
+    image: "/poi-images/boali-kraftwerk-history-v2.webp",
     descriptionAdvanced: {
       de: "Die Geschichte des Boali-Kraftwerks ist eng mit der industriellen Modernisierung Bangui verknüpft, die in den 1950er Jahren begann. Die Wasserkraftnutzung war ein Meilenstein für die Energiepolitik und ermöglichte den Aufbau einer stabilen industriellen Basis in der Hauptstadt. Die technische Geschichte der Anlage steht für den Wunsch nach Entwicklung und technologischem Fortschritt im 20. Jahrhundert und bildet das Fundament der heutigen Energieinfrastruktur. Geschichte K5 – Technische Innovation.",
       ro: "Construcția hidrocentralei Boali a marcat începutul modernizării infrastructurii energetice a țării, fiind un proiect ambițios ce a schimbat capacitatea de dezvoltare a capitalei Bangui. Geografie K7 – Istoria dezvoltării."

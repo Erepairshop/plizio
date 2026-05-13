@@ -6,9 +6,8 @@ export const poiExtraUaeLandmarksV2: POI[] = [
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2744, 25.1972],
-    name: { de: "Burj Khalifa", hu: "Burdzs Kalifa", ro: "Burj Khalifa", en: "Burj Khalifa",
-image: "/poi-images/burj-khalifa-landmarks-v2.webp"
-},
+    name: { de: "Burj Khalifa", hu: "Burdzs Kalifa", ro: "Burj Khalifa", en: "Burj Khalifa"},
+    image: "/poi-images/burj-khalifa-landmarks-v2.webp",
     description: {
       de: "Das höchste Gebäude der Welt ragt majestätisch über der Skyline von Dubai empor und bietet unvergleichliche Ausblicke.",
       hu: "A világ legmagasabb épülete lenyűgöző látványt nyújt Dubaj felett, és páratlan panorámával várja a látogatókat.",
@@ -40,15 +39,27 @@ image: "/poi-images/burj-khalifa-landmarks-v2.webp"
         "It features the highest observation deck globally.",
         "The entire construction process took six years."
       ]
-    }, image: "/poi-images/burj-khalifa-landmarks-v2.webp"},
+    }, image: "/poi-images/burj-khalifa-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Burj Khalifa in Dubai ist mit 828 Metern das höchste Bauwerk der Welt. Die Bauarbeiten begannen 2004 und wurden 2010 abgeschlossen. Das Design von Adrian Smith orientiert sich an der islamischen Architektur, insbesondere an der Spirale der Minarette. Der Turm beherbergt Büros, Wohnungen und das Armani Hotel. Die Aussichtsplattform 'At the Top' auf Ebene 148 bietet einen Panoramablick über die Stadt. Der Burj Khalifa ist das Zentrum des Downtown Dubai, eines der größten Bauprojekte der Welt.",
+      hu: "A burdzs Kalifa 828 méteres magasságával a világ legmagasabb épülete, amely Dubaj központjában áll. Az építkezés 2004-ben kezdődött és 2010-ben fejeződött be. A torony 163 emeletes, és lakásokat, irodákat, valamint szállodákat foglal magában. Az épület a dubaji gazdasági növekedés szimbóluma, és évente több millió turistát vonz. A Burj Khalifa a Downtown Dubai nevű fejlett városrész része, amely luxusbevásárlóközpontokat és parkokat is magában foglal.",
+      ro: "Burj Khalifa, cu o înălțime de 828 de metri, este cea mai înaltă clădire din lume, situată în Dubai. Proiectat de arhitectul Adrian Smith, turnul are 163 de etaje și a fost deschis în 2010. Structura sa iconică este inspirată de formele arhitecturii islamice. Clădirea include apartamente rezidențiale, birouri și hoteluri de lux. De asemenea, găzduiește cea mai înaltă observație panoramică, situată la etajul 148, oferind vederi spectaculoase asupra orașului și deșertului din jur.",
+      en: "The Burj Khalifa is the world's tallest building, standing at 828 meters in Dubai, United Arab Emirates. Opened in 2010 as part of the Downtown Dubai development, it was designed by Skidmore, Owings & Merrill. The tower holds numerous records, including the highest number of stories (163) and the highest occupied floor. It features residential, commercial, and hospitality spaces, including the Armani Hotel. The observation deck 'At the Top' attracts over 1.8 million visitors annually, making it one of Dubai's premier tourist attractions.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 828 Meter", "163 Stockwerke", "Bauzeit: 2004–2010", "Kosten: ca. 1,5 Milliarden US-Dollar", "Größte Aussichtsplattform auf Ebene 148", "Über 300.000 Quadratmeter Nutzfläche"],
+      hu: ["Magassága: 828 méter", "Emeletek száma: 163", "Építés kezdete: 2004", "Megnyitás: 2010", "Teljes beruházási költség: 1,5 milliárd USD", "A világ legmagasabb lakóépülete"],
+      ro: ["Înălțime: 828 de metri", "Număr de etaje: 163", "Deschis în 2010", "Cost total: 1,5 miliarde USD", "Suprafața totală: 309.473 m²", "Număr de lifturi: 57"],
+      en: ["Height: 828 meters (2,717 feet)", "Floors: 163 above ground", "Construction cost: $1.5 billion", "Opened: January 4, 2010", "Total floor area: 309,473 m²", "Observation deck at level 148: 555 meters high"],
+    },
+  },
   {
     id: "sheikh-zayed-grand-mosque-landmarks-v2",
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.4750, 24.4128],
-    name: { de: "Scheich-Zayid-Moschee", hu: "Zájed sejk mecset", ro: "Marea Moschee Sheikh Zayed", en: "Sheikh Zayed Grand Mosque",
-image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp"
-},
+    name: { de: "Scheich-Zayid-Moschee", hu: "Zájed sejk mecset", ro: "Marea Moschee Sheikh Zayed", en: "Sheikh Zayed Grand Mosque"},
+    image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp",
     description: {
       de: "Dieses prächtige Meisterwerk islamischer Architektur aus weißem Marmor beeindruckt mit riesigen Kuppeln und feinen Details.",
       hu: "A fehér márványból épült iszlám építészeti remekmű hatalmas kupoláival és finom díszítéseivel varázsolja el a nézőt.",
@@ -80,15 +91,27 @@ image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp"
         "The chandeliers are adorned with sparkling Swarovski crystals.",
         "The construction took over a decade until 2007."
       ]
-    }, image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/sheikh-zayed-grand-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Scheich-Zayid-Moschee in Abu Dhabi ist eine der größten Moscheen der Welt. Sie wurde nach dem ersten Präsidenten der VAE, Scheich Zayid bin Sultan Al Nahyan, benannt. Der Bau begann 1996 und wurde 2007 abgeschlossen. Die Moschee fasst über 40.000 Gläubige. Sie ist bekannt für ihre weiße Marmorarchitektur, die größte handgeknüpfte Teppich der Welt und einen der größten Kronleuchter. Die 82 Kuppeln und vier Minarette sind von traditioneller islamischer, persischer und mogulischer Architektur inspiriert.",
+      hu: "A Sheikh Zayed Nagymecset Abu Dhabiban található, és kapacitása meghaladja a 40.000 hívőt. Az építkezés 1996-ban kezdődött és 2007-ben fejeződött be. A mecset tiszta fehér márványból épült, és a világ legnagyobb kézzel szőtt szőnyegének ad otthont. A 82 kupolát és a négy minaretet látványos világítás díszíti. A mecset az iszlám építészet egyik legszebb példája, amely évente több millió turistát vonz.",
+      ro: "Marea Moschee Sheikh Zayed din Abu Dhabi este una dintre cele mai mari lăcașuri de cult islamic din lume, cu o capacitate de peste 40.000 de credincioși. Construcția a început în 1996 și s-a finalizat în 2007. Este construită din marmură albă și are 82 de domuri și patru minarete. Moscheea găzduiește cel mai mare covor țesut manual din lume, cu o suprafață de 5.627 m². De asemenea, are un candelabru impresionant, cu cristale Swarovski, care cântărește 12 tone.",
+      en: "The Sheikh Zayed Grand Mosque is the largest mosque in the United Arab Emirates, located in Abu Dhabi. It was constructed between 1996 and 2007 and named after the late UAE president. The mosque can accommodate over 40,000 worshippers. Its design blends Mamluk, Ottoman, and Fatimid architectural styles. Notable features include the world's largest hand-knotted carpet (5,627 m²) and seven gold-plated chandeliers imported from Germany. The mosque is open to non-Muslim visitors and is a major cultural landmark.",
+    },
+    factsAdvanced: {
+      de: ["Fassungsvermögen: über 40.000 Gläubige", "Bauzeit: 1996–2007", "82 Kuppeln", "Vier Minarette", "Größter handgeknüpfter Teppich der Welt: 5.627 m²", "Kosten: ca. 2 Milliarden US-Dollar"],
+      hu: ["Befogadóképesség: 40.000 hívő", "Építés évei: 1996–2007", "82 kupola", "4 minaret", "Legnagyobb kézzel készült szőnyeg: 5.627 m²", "Csillár súlya: 12 tonna"],
+      ro: ["Capacitate: 40.000 de credincioși", "Construit între 1996 și 2007", "82 de domuri", "4 minarete", "Covorul cel mai mare: 5.627 m²", "Cost total: 2 miliarde USD"],
+      en: ["Capacity: 40,000 worshippers", "Construction period: 1996–2007", "Number of domes: 82", "Minarets: 4, each 107 meters high", "World's largest hand-knotted carpet: 5,627 m²", "Main chandelier weight: 12 tons"],
+    },
+  },
   {
     id: "burj-al-arab-landmarks-v2",
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1852, 25.1412],
-    name: { de: "Burj Al Arab", hu: "Burdzs al-Arab", ro: "Burj Al Arab", en: "Burj Al Arab",
-image: "/poi-images/burj-al-arab-landmarks-v2.webp"
-},
+    name: { de: "Burj Al Arab", hu: "Burdzs al-Arab", ro: "Burj Al Arab", en: "Burj Al Arab"},
+    image: "/poi-images/burj-al-arab-landmarks-v2.webp",
     description: {
       de: "Das weltberühmte Luxushotel in Form eines riesigen Segels steht auf einer künstlichen Insel vor der Küste.",
       hu: "A világhírű, hatalmas vitorlát formázó luxusszálloda egy mesterséges szigeten áll a tengerpart közelében.",
@@ -120,15 +143,27 @@ image: "/poi-images/burj-al-arab-landmarks-v2.webp"
         "It stands on its own artificial island in the sea.",
         "It features a spectacular helipad on the roof."
       ]
-    }, image: "/poi-images/burj-al-arab-landmarks-v2.webp"},
+    }, image: "/poi-images/burj-al-arab-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Burj Al Arab ist ein luxuriöses Hotel in Dubai, das auf einer künstlichen Insel vor dem Jumeirah-Strand liegt. Mit einer Höhe von 321 Metern war es bei seiner Eröffnung 1999 das höchste Hotel der Welt. Das Segeldesign des Gebäudes ist zu einem Wahrzeichen Dubais geworden. Das Hotel verfügt über 202 Suiten, einen Hubschrauberlandeplatz und ein Unterwasserrestaurant. Die Inneneinrichtung ist mit 24-karätigem Gold verziert. Es wird oft als das einzige 7-Sterne-Hotel der Welt bezeichnet.",
+      hu: "A Burdzs al-Arab Dubaj ikonikus szállodája, amelyet egy mesterséges szigeten építettek a Jumeirah partjánál. Az épület 321 méter magas, és vitorla formájú szerkezete a város jelképévé vált. 1999-ben nyitották meg, és 202 szuperluxus lakosztállyal rendelkezik. A szálloda híres a helikopter-leszállóról és az Al Mahara nevű víz alatti étterméről. A belső dekoráció gazdagon használ aranyat és márványt.",
+      ro: "Burj Al Arab este un hotel de lux situat pe o insulă artificială în largul coastei Jumeirah din Dubai. Cu o înălțime de 321 de metri, a fost cel mai înalt hotel din lume când a fost deschis în 1999. Forma sa de pânză este un simbol al orașului. Hotelul are 202 de apartamente de lux, un heliport și un restaurant subacvatic. Interiorul este decorat cu marmură și aur, fiind considerat unul dintre cele mai opulente hoteluri din lume.",
+      en: "Burj Al Arab is a luxury hotel in Dubai, standing on an artificial island 280 meters offshore. At 321 meters, it was the tallest hotel in the world upon opening in 1999. The sail-shaped silhouette was designed by architect Tom Wright. The hotel features 202 duplex suites, a helipad for arrivals, and the underwater Al Mahara restaurant. It is managed by Jumeirah Group and is known for offering some of the most expensive hotel accommodations globally, with nightly rates starting at several thousand dollars.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 321 Meter", "Eröffnung: 1999", "202 Suiten", "Helikopterlandeplatz auf dem Dach", "Restaurant Al Mahara 10 Meter unter dem Meeresspiegel", "Kosten: ca. 1 Milliarde US-Dollar"],
+      hu: ["Magasság: 321 méter", "Megnyitás: 1999", "202 lakosztály", "Helikopter-leszálló", "Víz alatti étterem 10 méter mélyen", "Építési költség: 1 milliárd USD"],
+      ro: ["Înălțime: 321 de metri", "Deschis în 1999", "202 de apartamente", "Heliport pe acoperiș", "Restaurant subacvatic la 10 metri adâncime", "Cost: 1 miliard USD"],
+      en: ["Height: 321 meters (1,053 feet)", "Opened: December 1, 1999", "Number of suites: 202", "Helipad on the roof, 210 meters high", "Underwater restaurant: Al Mahara, accessible via simulated submarine", "Construction cost: $1 billion"],
+    },
+  },
   {
     id: "louvre-abu-dhabi-landmarks-v2",
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.4000, 24.5333],
-    name: { de: "Louvre Abu Dhabi", hu: "Louvre Abu-Dzabi", ro: "Louvre Abu Dhabi", en: "Louvre Abu Dhabi",
-image: "/poi-images/louvre-abu-dhabi-landmarks-v2.webp"
-},
+    name: { de: "Louvre Abu Dhabi", hu: "Louvre Abu-Dzabi", ro: "Louvre Abu Dhabi", en: "Louvre Abu Dhabi"},
+    image: "/poi-images/louvre-abu-dhabi-landmarks-v2.webp",
     description: {
       de: "Dieses spektakuläre Kunstmuseum verbindet französisches Design mit arabischem Erbe unter einer faszinierenden Metallkuppel.",
       hu: "Ez a látványos művészeti múzeum egy lenyűgöző fémkupola alatt ötvözi a francia dizájnt az arab örökséggel.",
@@ -166,9 +201,8 @@ image: "/poi-images/louvre-abu-dhabi-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2785, 25.1975],
-    name: { de: "The Dubai Mall", hu: "Dubai Mall", ro: "Dubai Mall", en: "The Dubai Mall",
-image: "/poi-images/the-dubai-mall-landmarks-v2.webp"
-},
+    name: { de: "The Dubai Mall", hu: "Dubai Mall", ro: "Dubai Mall", en: "The Dubai Mall"},
+    image: "/poi-images/the-dubai-mall-landmarks-v2.webp",
     description: {
       de: "Eines der größten Einkaufszentren der Welt bietet neben unzähligen Geschäften auch ein riesiges Aquarium und eine Eislaufbahn.",
       hu: "A világ egyik legnagyobb bevásárlóközpontja a számtalan üzlet mellett egy hatalmas akváriumot és jégpályát is rejt.",
@@ -206,9 +240,8 @@ image: "/poi-images/the-dubai-mall-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1390, 25.1124],
-    name: { de: "Palm Jumeirah", hu: "Palm Jumeirah", ro: "Palm Jumeirah", en: "Palm Jumeirah",
-image: "/poi-images/palm-jumeirah-landmarks-v2.webp"
-},
+    name: { de: "Palm Jumeirah", hu: "Palm Jumeirah", ro: "Palm Jumeirah", en: "Palm Jumeirah"},
+    image: "/poi-images/palm-jumeirah-landmarks-v2.webp",
     description: {
       de: "Diese künstliche Inselgruppe in Form einer riesigen Palme ist ein weltweites Meisterwerk der modernen Ingenieurskunst.",
       hu: "Ez a hatalmas pálmafát formázó mesterséges szigetcsoport a modern mérnöki tudomány lenyűgöző remekműve.",
@@ -246,9 +279,8 @@ image: "/poi-images/palm-jumeirah-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.3167, 24.4614],
-    name: { de: "Qasr Al Watan", hu: "Qasr Al Watan", ro: "Qasr Al Watan", en: "Qasr Al Watan",
-image: "/poi-images/qasr-al-watan-landmarks-v2.webp"
-},
+    name: { de: "Qasr Al Watan", hu: "Qasr Al Watan", ro: "Qasr Al Watan", en: "Qasr Al Watan"},
+    image: "/poi-images/qasr-al-watan-landmarks-v2.webp",
     description: {
       de: "Dieser prächtige Präsidentenpalast öffnet seine Türen für die Öffentlichkeit und zeigt das reiche arabische Erbe.",
       hu: "Ez a pompás elnöki palota megnyitotta kapuit a nagyközönség előtt, bemutatva a gazdag arab örökséget.",
@@ -286,9 +318,8 @@ image: "/poi-images/qasr-al-watan-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.6069, 24.4836],
-    name: { de: "Ferrari World", hu: "Ferrari World", ro: "Ferrari World", en: "Ferrari World",
-image: "/poi-images/ferrari-world-landmarks-v2.webp"
-},
+    name: { de: "Ferrari World", hu: "Ferrari World", ro: "Ferrari World", en: "Ferrari World"},
+    image: "/poi-images/ferrari-world-landmarks-v2.webp",
     description: {
       de: "Der erste Ferrari-Themenpark der Welt bietet rasanten Nervenkitzel unter einem gigantischen roten Dach auf der Yas-Insel.",
       hu: "A világ első Ferrari vidámparkja szédületes izgalmakat kínál egy gigantikus piros tető alatt a Yas-szigeten.",
@@ -326,9 +357,8 @@ image: "/poi-images/ferrari-world-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.3003, 25.2355],
-    name: { de: "Dubai Frame", hu: "Dubai Frame", ro: "Dubai Frame", en: "Dubai Frame",
-image: "/poi-images/dubai-frame-landmarks-v2.webp"
-},
+    name: { de: "Dubai Frame", hu: "Dubai Frame", ro: "Dubai Frame", en: "Dubai Frame"},
+    image: "/poi-images/dubai-frame-landmarks-v2.webp",
     description: {
       de: "Das monumentale Bauwerk in Form eines riesigen Bilderrahmens verbindet die historische und moderne Seite der Stadt.",
       hu: "A hatalmas képkeretet formázó monumentális építmény összeköti a város történelmi és modern oldalát.",
@@ -366,9 +396,8 @@ image: "/poi-images/dubai-frame-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1228, 25.0797],
-    name: { de: "Ain Dubai", hu: "Ain Dubai", ro: "Ain Dubai", en: "Ain Dubai",
-image: "/poi-images/ain-dubai-landmarks-v2.webp"
-},
+    name: { de: "Ain Dubai", hu: "Ain Dubai", ro: "Ain Dubai", en: "Ain Dubai"},
+    image: "/poi-images/ain-dubai-landmarks-v2.webp",
     description: {
       de: "Das größte und höchste Riesenrad der Welt steht auf der künstlichen Insel Bluewaters und bietet fantastische Ausblicke.",
       hu: "A világ legnagyobb és legmagasabb óriáskereke a Bluewaters mesterséges szigeten áll, fantasztikus kilátást nyújtva.",
@@ -406,9 +435,8 @@ image: "/poi-images/ain-dubai-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2818, 25.2192],
-    name: { de: "Zukunftsmuseum", hu: "A Jövő Múzeuma", ro: "Muzeul Viitorului", en: "Museum of the Future",
-image: "/poi-images/museum-of-the-future-landmarks-v2.webp"
-},
+    name: { de: "Zukunftsmuseum", hu: "A Jövő Múzeuma", ro: "Muzeul Viitorului", en: "Museum of the Future"},
+    image: "/poi-images/museum-of-the-future-landmarks-v2.webp",
     description: {
       de: "Dieses architektonische Wunderwerk in Ringform präsentiert innovative Technologien und visionäre Konzepte für die Menschheit.",
       hu: "Ez a gyűrű alakú építészeti csoda innovatív technológiákat és vizionárius koncepciókat mutat be az emberiség számára.",
@@ -446,9 +474,8 @@ image: "/poi-images/museum-of-the-future-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.3175, 24.4617],
-    name: { de: "Emirates Palace", hu: "Emirates Palace", ro: "Emirates Palace", en: "Emirates Palace",
-image: "/poi-images/emirates-palace-landmarks-v2.webp"
-},
+    name: { de: "Emirates Palace", hu: "Emirates Palace", ro: "Emirates Palace", en: "Emirates Palace"},
+    image: "/poi-images/emirates-palace-landmarks-v2.webp",
     description: {
       de: "Das luxuriöse Palasthotel an der Küste besticht durch seine vergoldeten Kuppeln und weitläufigen grünen Gärten.",
       hu: "A tengerparti luxus palotaszálló aranyozott kupoláival és kiterjedt zöldellő kertjeivel bűvöli el a látogatókat.",
@@ -486,9 +513,8 @@ image: "/poi-images/emirates-palace-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.3044, 25.0673],
-    name: { de: "Global Village", hu: "Global Village", ro: "Global Village", en: "Global Village",
-image: "/poi-images/global-village-landmarks-v2.webp"
-},
+    name: { de: "Global Village", hu: "Global Village", ro: "Global Village", en: "Global Village"},
+    image: "/poi-images/global-village-landmarks-v2.webp",
     description: {
       de: "Dieser riesige Kultur- und Unterhaltungspark vereint Traditionen, Essen und Architektur aus Dutzenden von Ländern.",
       hu: "Ez a hatalmas kulturális és szórakoztató park több tucat ország hagyományait, ételeit és építészetét ötvözi.",
@@ -526,9 +552,8 @@ image: "/poi-images/global-village-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-AZ",
     coords: [54.3564, 24.4815],
-    name: { de: "Qasr Al Hosn", hu: "Qasr Al Hosn", ro: "Qasr Al Hosn", en: "Qasr Al Hosn",
-image: "/poi-images/qasr-al-hosn-landmarks-v2.webp"
-},
+    name: { de: "Qasr Al Hosn", hu: "Qasr Al Hosn", ro: "Qasr Al Hosn", en: "Qasr Al Hosn"},
+    image: "/poi-images/qasr-al-hosn-landmarks-v2.webp",
     description: {
       de: "Das älteste Steingebäude von Abu Dhabi war einst eine Wachturmfestung und ist heute ein tiefgründiges historisches Museum.",
       hu: "Abu-Dzabi legrégebbi kőépülete egykor őrtoronyként és erődként szolgált, ma pedig mélyreható történelmi múzeum.",
@@ -566,9 +591,8 @@ image: "/poi-images/qasr-al-hosn-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.2444, 25.0598],
-    name: { de: "Dubai Miracle Garden", hu: "Dubaji Csodakert", ro: "Dubai Miracle Garden", en: "Dubai Miracle Garden",
-image: "/poi-images/dubai-miracle-garden-landmarks-v2.webp"
-},
+    name: { de: "Dubai Miracle Garden", hu: "Dubaji Csodakert", ro: "Dubai Miracle Garden", en: "Dubai Miracle Garden"},
+    image: "/poi-images/dubai-miracle-garden-landmarks-v2.webp",
     description: {
       de: "Ein farbenfroher Wüstengarten, in dem Millionen blühender Pflanzen atemberaubende Skulpturen und Landschaften bilden.",
       hu: "Színpompás sivatagi kert, ahol több millió virágzó növény lenyűgöző szobrokat és tájakat alkot.",
@@ -606,9 +630,8 @@ image: "/poi-images/dubai-miracle-garden-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.1172, 25.1304],
-    name: { de: "Atlantis, The Palm", hu: "Atlantis, The Palm", ro: "Atlantis, The Palm", en: "Atlantis, The Palm",
-image: "/poi-images/atlantis-the-palm-landmarks-v2.webp"
-},
+    name: { de: "Atlantis, The Palm", hu: "Atlantis, The Palm", ro: "Atlantis, The Palm", en: "Atlantis, The Palm"},
+    image: "/poi-images/atlantis-the-palm-landmarks-v2.webp",
     description: {
       de: "Das ozeanbezogene Luxusresort auf der Palm Jumeirah bietet nicht nur traumhafte Zimmer, sondern auch einen riesigen Wasserpark.",
       hu: "A Palm Jumeirah-n található óceáni luxusüdülő nemcsak álomszép szobákat, hanem egy hatalmas víziparkot is kínál.",
@@ -646,9 +669,8 @@ image: "/poi-images/atlantis-the-palm-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-SH",
     coords: [55.3850, 25.3644],
-    name: { de: "Museum der islamischen Zivilisation", hu: "Iszlám Civilizáció Múzeuma", ro: "Muzeul Civilizației Islamice", en: "Sharjah Museum of Islamic Civilization",
-image: "/poi-images/sharjah-museum-of-islamic-civilization-landmarks-v2.webp"
-},
+    name: { de: "Museum der islamischen Zivilisation", hu: "Iszlám Civilizáció Múzeuma", ro: "Muzeul Civilizației Islamice", en: "Sharjah Museum of Islamic Civilization"},
+    image: "/poi-images/sharjah-museum-of-islamic-civilization-landmarks-v2.webp",
     description: {
       de: "Ein ehemaliger traditioneller Markt am Ufer beherbergt heute Tausende von Artefakten aus der Geschichte des Islam.",
       hu: "A folyóparton álló egykori hagyományos piac ma az iszlám történelmének több ezer műtárgyát őrzi.",
@@ -686,9 +708,8 @@ image: "/poi-images/sharjah-museum-of-islamic-civilization-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-AZ",
     coords: [55.7519, 24.2155],
-    name: { de: "Al Jahili Fort", hu: "Al Jahili erőd", ro: "Fortul Al Jahili", en: "Al Jahili Fort",
-image: "/poi-images/al-jahili-fort-landmarks-v2.webp"
-},
+    name: { de: "Al Jahili Fort", hu: "Al Jahili erőd", ro: "Fortul Al Jahili", en: "Al Jahili Fort"},
+    image: "/poi-images/al-jahili-fort-landmarks-v2.webp",
     description: {
       de: "Diese historische Lehmfestung in der Oasenstadt Al Ain ist eines der größten und bedeutendsten Bauwerke der Region.",
       hu: "Ez a történelmi vályogerőd Al Ain oázisvárosában a régió egyik legnagyobb és legjelentősebb építménye.",
@@ -726,9 +747,8 @@ image: "/poi-images/al-jahili-fort-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-DU",
     coords: [55.3000, 25.2636],
-    name: { de: "Historisches Viertel Al Fahidi", hu: "Al Fahidi történelmi negyed", ro: "Cartierul istoric Al Fahidi", en: "Al Fahidi Historical Neighbourhood",
-image: "/poi-images/al-fahidi-historical-neighbourhood-landmarks-v2.webp"
-},
+    name: { de: "Historisches Viertel Al Fahidi", hu: "Al Fahidi történelmi negyed", ro: "Cartierul istoric Al Fahidi", en: "Al Fahidi Historical Neighbourhood"},
+    image: "/poi-images/al-fahidi-historical-neighbourhood-landmarks-v2.webp",
     description: {
       de: "Die engen Gassen und Windtürme dieses alten Viertels bieten einen Einblick in das traditionelle Leben vor dem Ölboom.",
       hu: "A régi negyed szűk sikátorai és széltornyai bepillantást engednek az olajkorszak előtti hagyományos életbe.",
@@ -766,9 +786,8 @@ image: "/poi-images/al-fahidi-historical-neighbourhood-landmarks-v2.webp"
     type: "landmark",
     parent: "AE-RK",
     coords: [56.0461, 25.8814],
-    name: { de: "Dhayah Fort", hu: "Dhayah erőd", ro: "Fortul Dhayah", en: "Dhayah Fort",
-image: "/poi-images/dhayah-fort-landmarks-v2.webp"
-},
+    name: { de: "Dhayah Fort", hu: "Dhayah erőd", ro: "Fortul Dhayah", en: "Dhayah Fort"},
+    image: "/poi-images/dhayah-fort-landmarks-v2.webp",
     description: {
       de: "Die einzige noch erhaltene Bergfestung des Landes thront majestätisch auf einem spitzen Hügel und bietet weite Ausblicke.",
       hu: "Az ország egyetlen fennmaradt hegyi erődje fenségesen magasodik egy meredek dombon, széles kilátást nyújtva.",

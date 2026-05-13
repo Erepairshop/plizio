@@ -7,9 +7,8 @@ export const poiExtraTrinidadHistoryV2: POI[] = [
     type: "historical",
     parent: "TT",
     coords: [-61.50, 10.65],
-    name: { de: "Fort Gros Islet", hu: "Gros Islet erőd", ro: "Fortul Gros Islet", en: "Fort Gros Islet",
-image: "/poi-images/tt-fort-gros-islet-history-v2.webp"
-},
+    name: { de: "Fort Gros Islet", hu: "Gros Islet erőd", ro: "Fortul Gros Islet", en: "Fort Gros Islet"},
+    image: "/poi-images/tt-fort-gros-islet-history-v2.webp",
     description: { de: "Historische Befestigung bei Port of Spain.", hu: "Történelmi erődítmény Port of Spain közelében.", ro: "Fortificație istorică lângă Port of Spain.", en: "Historic fortification near Port of Spain." },
     facts: {
       de: ["Erbaut im 18. Jahrhundert", "Diente der Verteidigung", "Strategische Lage am Hafen", "Heute ein historisches Denkmal"],
@@ -35,9 +34,8 @@ image: "/poi-images/tt-fort-gros-islet-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.40, 10.65],
-    name: { de: "St. Joseph Ruinen", hu: "St. Joseph romok", ro: "Ruinele St. Joseph", en: "St. Joseph Ruins",
-image: "/poi-images/tt-st-joseph-ruins-history-v2.webp"
-},
+    name: { de: "St. Joseph Ruinen", hu: "St. Joseph romok", ro: "Ruinele St. Joseph", en: "St. Joseph Ruins"},
+    image: "/poi-images/tt-st-joseph-ruins-history-v2.webp",
     description: { de: "Überreste der ersten spanischen Hauptstadt von Trinidad.", hu: "Trinidad első spanyol fővárosának maradványai.", ro: "Rămășițele primei capitale spaniole a Trinidadului.", en: "Remains of the first Spanish capital of Trinidad." },
     facts: {
       de: ["Gegründet 1592", "Älteste europäische Siedlung", "Einstiges administratives Zentrum", "Archäologische Stätte"],
@@ -63,9 +61,8 @@ image: "/poi-images/tt-st-joseph-ruins-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.46, 10.28],
-    name: { de: "San Fernando Befestigungen", hu: "San Fernando erődítések", ro: "Fortificațiile San Fernando", en: "San Fernando Fortifications",
-image: "/poi-images/tt-san-fernando-fort-history-v2.webp"
-},
+    name: { de: "San Fernando Befestigungen", hu: "San Fernando erődítések", ro: "Fortificațiile San Fernando", en: "San Fernando Fortifications"},
+    image: "/poi-images/tt-san-fernando-fort-history-v2.webp",
     description: { de: "Historische Verteidigungslinien in San Fernando.", hu: "Történelmi védvonalak San Fernandóban.", ro: "Linii defensive istorice în San Fernando.", en: "Historic defensive lines in San Fernando." },
     facts: {
       de: ["Schutz vor Überfällen", "Beobachtungsposten", "Erbaut im 18. Jahrhundert", "Blick auf den Golf"],
@@ -91,9 +88,8 @@ image: "/poi-images/tt-san-fernando-fort-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.20, 10.60],
-    name: { de: "Missionsruinen Arima", hu: "Arima missziós romok", ro: "Ruinele misiunii Arima", en: "Arima Mission Ruins",
-image: "/poi-images/tt-mission-ruins-history-v2.webp"
-},
+    name: { de: "Missionsruinen Arima", hu: "Arima missziós romok", ro: "Ruinele misiunii Arima", en: "Arima Mission Ruins"},
+    image: "/poi-images/tt-mission-ruins-history-v2.webp",
     description: { de: "Überreste alter spanischer Missionsstationen.", hu: "Régi spanyol missziós állomások maradványai.", ro: "Rămășițele vechilor stații misionare spaniole.", en: "Remains of old Spanish mission stations." },
     facts: {
       de: ["Christianisierung der Ureinwohner", "Erbaut durch Kapuziner", "Koloniale Architekturspuren", "Historisches Kulturerbe"],
@@ -119,9 +115,8 @@ image: "/poi-images/tt-mission-ruins-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.57, 10.67],
-    name: { de: "Carenage Verteidigungsanlage", hu: "Carenage védelmi létesítmény", ro: "Facilitatea defensivă Carenage", en: "Carenage Defensive Site",
-image: "/poi-images/tt-carenage-fort-history-v2.webp"
-},
+    name: { de: "Carenage Verteidigungsanlage", hu: "Carenage védelmi létesítmény", ro: "Facilitatea defensivă Carenage", en: "Carenage Defensive Site"},
+    image: "/poi-images/tt-carenage-fort-history-v2.webp",
     description: { de: "Küstenbefestigung westlich von Port of Spain.", hu: "Parti erődítmény Port of Spaintől nyugatra.", ro: "Fortificație de coastă la vest de Port of Spain.", en: "Coastal fortification west of Port of Spain." },
     facts: {
       de: ["Schutz der Küstenlinie", "Teil des kolonialen Abwehrsystems", "Blick auf das Meer", "Historische Ruinen"],
@@ -147,9 +142,8 @@ image: "/poi-images/tt-carenage-fort-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.40, 10.45],
-    name: { de: "Historische Zuckerrohrmühle", hu: "Történelmi cukornádmalom", ro: "Moara istorică de trestie", en: "Historic Sugar Mill",
-image: "/poi-images/tt-trinidad-sugar-mill-history-v2.webp"
-},
+    name: { de: "Historische Zuckerrohrmühle", hu: "Történelmi cukornádmalom", ro: "Moara istorică de trestie", en: "Historic Sugar Mill"},
+    image: "/poi-images/tt-trinidad-sugar-mill-history-v2.webp",
     description: { de: "Alte Mühle einer Zuckerplantage.", hu: "Egy cukornádültetvény régi malma.", ro: "Moara veche a unei plantații de zahăr.", en: "Old mill of a sugar plantation." },
     facts: {
       de: ["Verarbeitung von Zuckerrohr", "Industrielle Geschichte", "Erbaut im 19. Jahrhundert", "Landwirtschaftliches Relikt"],
@@ -175,9 +169,8 @@ image: "/poi-images/tt-trinidad-sugar-mill-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.35, 10.60],
-    name: { de: "Spanische Siedlungsruinen", hu: "Spanyol település romok", ro: "Ruinele așezării spaniole", en: "Spanish Settlement Ruins",
-image: "/poi-images/tt-spanishtown-ruins-history-v2.webp"
-},
+    name: { de: "Spanische Siedlungsruinen", hu: "Spanyol település romok", ro: "Ruinele așezării spaniole", en: "Spanish Settlement Ruins"},
+    image: "/poi-images/tt-spanishtown-ruins-history-v2.webp",
     description: { de: "Ausgrabungsstätte einer frühen Siedlung.", hu: "Egy korai település ásatási helyszíne.", ro: "Situl arheologic al unei așezări timpurii.", en: "Excavation site of an early settlement." },
     facts: {
       de: ["Frühe Kolonialgeschichte", "Handelsplatz", "Archäologische Funde", "17. Jahrhundert"],
@@ -203,9 +196,8 @@ image: "/poi-images/tt-spanishtown-ruins-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.75, 11.15],
-    name: { de: "Französisches Fort Tobago", hu: "Francia erőd Tobago", ro: "Fortul francez Tobago", en: "French Fort Tobago",
-image: "/poi-images/tt-tobago-french-fort-history-v2.webp"
-},
+    name: { de: "Französisches Fort Tobago", hu: "Francia erőd Tobago", ro: "Fortul francez Tobago", en: "French Fort Tobago"},
+    image: "/poi-images/tt-tobago-french-fort-history-v2.webp",
     description: { de: "Historische Befestigung auf Tobago.", hu: "Történelmi erődítmény Tobagón.", ro: "Fortificație istorică în Tobago.", en: "Historic fortification in Tobago." },
     facts: {
       de: ["Kolonialer Konfliktpunkt", "Erbaut durch Franzosen", "Strategische Küstenlage", "Überbleibsel des 18. Jahrhunderts"],
@@ -231,9 +223,8 @@ image: "/poi-images/tt-tobago-french-fort-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.50, 10.65],
-    name: { de: "Altes Gerichtsgebäude", hu: "Régi bírósági épület", ro: "Vechea clădire a tribunalului", en: "Old Courthouse",
-image: "/poi-images/tt-old-courthouse-history-v2.webp"
-},
+    name: { de: "Altes Gerichtsgebäude", hu: "Régi bírósági épület", ro: "Vechea clădire a tribunalului", en: "Old Courthouse"},
+    image: "/poi-images/tt-old-courthouse-history-v2.webp",
     description: { de: "Historisches Justizgebäude aus der Kolonialzeit.", hu: "Történelmi igazságügyi épület a gyarmati időkből.", ro: "Clădire istorică a justiției din perioada colonială.", en: "Historic justice building from colonial times." },
     facts: {
       de: ["Rechtsprechung im 19. Jahrhundert", "Architekturdenkmal", "Zentraler Regierungsort", "Restauriertes Erbe"],
@@ -259,9 +250,8 @@ image: "/poi-images/tt-old-courthouse-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.52, 10.67],
-    name: { de: "Zitadelle Port of Spain", hu: "Port of Spain citadella", ro: "Citadela Port of Spain", en: "Port of Spain Citadel",
-image: "/poi-images/tt-port-of-spain-citadel-history-v2.webp"
-},
+    name: { de: "Zitadelle Port of Spain", hu: "Port of Spain citadella", ro: "Citadela Port of Spain", en: "Port of Spain Citadel"},
+    image: "/poi-images/tt-port-of-spain-citadel-history-v2.webp",
     description: { de: "Ehemalige Verteidigungszitadelle der Stadt.", hu: "A város egykori védelmi citadellája.", ro: "Fosta citadelă defensivă a orașului.", en: "Former defensive citadel of the city." },
     facts: {
       de: ["Schutz der Hauptstadt", "Überblick über den Golf", "Historisches Bauwerk", "Erbaut um 1800"],
@@ -287,9 +277,8 @@ image: "/poi-images/tt-port-of-spain-citadel-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.70, 11.20],
-    name: { de: "Holländische Siedlungsstätte", hu: "Holland településhely", ro: "Situl așezării olandeze", en: "Dutch Settlement Site",
-image: "/poi-images/tt-dutch-settlement-site-history-v2.webp"
-},
+    name: { de: "Holländische Siedlungsstätte", hu: "Holland településhely", ro: "Situl așezării olandeze", en: "Dutch Settlement Site"},
+    image: "/poi-images/tt-dutch-settlement-site-history-v2.webp",
     description: { de: "Archäologischer Fundort einer niederländischen Kolonie.", hu: "Egy holland kolónia régészeti ásatási helyszíne.", ro: "Situl arheologic al unei colonii olandeze.", en: "Archaeological site of a Dutch colony." },
     facts: {
       de: ["Frühe Handelserfolge", "Koloniales Erbe", "Archäologische Ausgrabungen", "17. Jahrhundert"],
@@ -315,9 +304,8 @@ image: "/poi-images/tt-dutch-settlement-site-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.30, 10.55],
-    name: { de: "Herrenhaus-Ruinen", hu: "Kúria-romok", ro: "Ruinele conacului", en: "Manor Ruins",
-image: "/poi-images/tt-plantation-manor-ruins-history-v2.webp"
-},
+    name: { de: "Herrenhaus-Ruinen", hu: "Kúria-romok", ro: "Ruinele conacului", en: "Manor Ruins"},
+    image: "/poi-images/tt-plantation-manor-ruins-history-v2.webp",
     description: { de: "Überreste eines alten Plantagen-Herrenhauses.", hu: "Egy régi ültetvény kúriájának maradványai.", ro: "Rămășițele conacului unei vechi plantații.", en: "Remains of an old plantation manor." },
     facts: {
       de: ["Soziales Zentrum der Plantage", "Architektonische Details", "Koloniale Lebensweise", "Historische Fundstätte"],
@@ -343,9 +331,8 @@ image: "/poi-images/tt-plantation-manor-ruins-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.72, 11.19],
-    name: { de: "Historische Signalstation", hu: "Történelmi jelzőállomás", ro: "Stație istorică de semnalizare", en: "Historic Signal Station",
-image: "/poi-images/tt-signal-station-history-v2.webp"
-},
+    name: { de: "Historische Signalstation", hu: "Történelmi jelzőállomás", ro: "Stație istorică de semnalizare", en: "Historic Signal Station"},
+    image: "/poi-images/tt-signal-station-history-v2.webp",
     description: { de: "Ehemalige Station zur Kommunikation der Schiffe.", hu: "A hajók kommunikációjára szolgáló egykori állomás.", ro: "Fosta stație pentru comunicarea navelor.", en: "Former station for ship communication." },
     facts: {
       de: ["Überwachung der Küste", "Frühe Telekommunikation", "Strategische Funktion", "Erbaut im 19. Jahrhundert"],
@@ -371,9 +358,8 @@ image: "/poi-images/tt-signal-station-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.33, 10.70],
-    name: { de: "Zentrum für Parang-Musik", hu: "Parang zenei központ", ro: "Centrul muzicii Parang", en: "Parang Music Center",
-image: "/poi-images/tt-parang-centre-history-v2.webp"
-},
+    name: { de: "Zentrum für Parang-Musik", hu: "Parang zenei központ", ro: "Centrul muzicii Parang", en: "Parang Music Center"},
+    image: "/poi-images/tt-parang-centre-history-v2.webp",
     description: { de: "Historischer Ort der Bewahrung lokaler Musik.", hu: "A helyi zene megőrzésének történelmi helyszíne.", ro: "Loc istoric pentru conservarea muzicii locale.", en: "Historic site for the preservation of local music." },
     facts: {
       de: ["Kulturelles Erbe", "Traditionelle Instrumente", "Musikalische Geschichte", "Bewahrung von Bräuchen"],
@@ -399,9 +385,8 @@ image: "/poi-images/tt-parang-centre-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.53, 10.68],
-    name: { de: "Militärkrankenhaus-Ruinen", hu: "Katonai kórház romok", ro: "Ruinele spitalului militar", en: "Military Hospital Ruins",
-image: "/poi-images/tt-military-hospital-ruins-history-v2.webp"
-},
+    name: { de: "Militärkrankenhaus-Ruinen", hu: "Katonai kórház romok", ro: "Ruinele spitalului militar", en: "Military Hospital Ruins"},
+    image: "/poi-images/tt-military-hospital-ruins-history-v2.webp",
     description: { de: "Überreste eines alten Krankenhauses für Soldaten.", hu: "Egy régi katonai kórház maradványai.", ro: "Rămășițele unui vechi spital pentru soldați.", en: "Remains of an old hospital for soldiers." },
     facts: {
       de: ["Versorgung von Militärpersonal", "Koloniale Medizin", "Architekturgeschichte", "Ruinenstätte"],
@@ -427,9 +412,8 @@ image: "/poi-images/tt-military-hospital-ruins-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.50, 10.66],
-    name: { de: "Sklavenmarkt-Stätte", hu: "Rabszolgapiac helyszíne", ro: "Locul pieței de sclavi", en: "Slave Market Site",
-image: "/poi-images/tt-slave-market-site-history-v2.webp"
-},
+    name: { de: "Sklavenmarkt-Stätte", hu: "Rabszolgapiac helyszíne", ro: "Locul pieței de sclavi", en: "Slave Market Site"},
+    image: "/poi-images/tt-slave-market-site-history-v2.webp",
     description: { de: "Denkmalgeschützter Ort der Sklavenzeit.", hu: "A rabszolgatartás korának emlékműhelye.", ro: "Loc protejat al erei sclaviei.", en: "Memorialized site of the slave era." },
     facts: {
       de: ["Dunkles Kapitel der Geschichte", "Historische Erinnerung", "Ort der Mahnung", "Kolonialer Handel"],
@@ -455,9 +439,8 @@ image: "/poi-images/tt-slave-market-site-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.42, 10.50],
-    name: { de: "Historische Zuckerraffinerie", hu: "Történelmi cukorfinomító", ro: "Rafinărie istorică de zahăr", en: "Historic Sugar Refinery",
-image: "/poi-images/tt-sugar-refinery-history-v2.webp"
-},
+    name: { de: "Historische Zuckerraffinerie", hu: "Történelmi cukorfinomító", ro: "Rafinărie istorică de zahăr", en: "Historic Sugar Refinery"},
+    image: "/poi-images/tt-sugar-refinery-history-v2.webp",
     description: { de: "Überreste einer Raffinerie.", hu: "Egy finomító maradványai.", ro: "Rămășițele unei rafinării.", en: "Remains of a refinery." },
     facts: {
       de: ["Zuckerproduktion", "Industrielle Architektur", "19. Jahrhundert", "Historisches Relikt"],
@@ -483,9 +466,8 @@ image: "/poi-images/tt-sugar-refinery-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.76, 11.21],
-    name: { de: "Holländisches Fort Tobago", hu: "Holland erőd Tobago", ro: "Fortul olandez Tobago", en: "Dutch Fort Tobago",
-image: "/poi-images/tt-dutch-fort-tobago-history-v2.webp"
-},
+    name: { de: "Holländisches Fort Tobago", hu: "Holland erőd Tobago", ro: "Fortul olandez Tobago", en: "Dutch Fort Tobago"},
+    image: "/poi-images/tt-dutch-fort-tobago-history-v2.webp",
     description: { de: "Befestigungsanlage der Niederländer.", hu: "Holland erődítmény.", ro: "Fortificație olandeză.", en: "Dutch fortification." },
     facts: {
       de: ["Kolonialstrategie", "Erbaut im 17. Jahrhundert", "Befestigung der Küste", "Trockenmauern"],
@@ -511,9 +493,8 @@ image: "/poi-images/tt-dutch-fort-tobago-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.31, 10.68],
-    name: { de: "Kakaotrockenplatz", hu: "Kakaószárító", ro: "Loc de uscare a cacao-ului", en: "Cocoa Drying Floor",
-image: "/poi-images/tt-cocoa-drying-floor-history-v2.webp"
-},
+    name: { de: "Kakaotrockenplatz", hu: "Kakaószárító", ro: "Loc de uscare a cacao-ului", en: "Cocoa Drying Floor"},
+    image: "/poi-images/tt-cocoa-drying-floor-history-v2.webp",
     description: { de: "Traditioneller Platz zum Trocknen von Kakao.", hu: "Hagyományos kakaószárító hely.", ro: "Loc tradițional pentru uscarea cacao-ului.", en: "Traditional floor for drying cocoa." },
     facts: {
       de: ["Landwirtschaftliche Tradition", "Kakao-Vorbereitung", "Historische Anlage", "Kulturelles Erbe"],
@@ -539,9 +520,8 @@ image: "/poi-images/tt-cocoa-drying-floor-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.40, 10.60],
-    name: { de: "Spanische Garnison", hu: "Spanyol helyőrség", ro: "Garnizoana spaniolă", en: "Spanish Garrison",
-image: "/poi-images/tt-spanish-garrison-history-v2.webp"
-},
+    name: { de: "Spanische Garnison", hu: "Spanyol helyőrség", ro: "Garnizoana spaniolă", en: "Spanish Garrison"},
+    image: "/poi-images/tt-spanish-garrison-history-v2.webp",
     description: { de: "Historische Station spanischer Soldaten.", hu: "Spanyol katonák történelmi állomása.", ro: "Stație istorică a soldaților spanioli.", en: "Historic station for Spanish soldiers." },
     facts: {
       de: ["Militärpräsenz", "Koloniale Sicherung", "Historische Gebäude", "18. Jahrhundert"],
@@ -567,9 +547,8 @@ image: "/poi-images/tt-spanish-garrison-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.25, 10.55],
-    name: { de: "Indigofärbebecken", hu: "Indigófestő kád", ro: "Cuva de vopsit indigo", en: "Indigo Dye Vat",
-image: "/poi-images/tt-indigo-vat-history-v2.webp"
-},
+    name: { de: "Indigofärbebecken", hu: "Indigófestő kád", ro: "Cuva de vopsit indigo", en: "Indigo Dye Vat"},
+    image: "/poi-images/tt-indigo-vat-history-v2.webp",
     description: { de: "Historische Anlage zur Indigo-Herstellung.", hu: "Történelmi létesítmény indigó gyártásához.", ro: "Instalație istorică pentru producția de indigo.", en: "Historic facility for indigo production." },
     facts: {
       de: ["Farbstoffherstellung", "Frühe Industrie", "Koloniales Erbe", "Traditionelle Techniken"],
@@ -595,9 +574,8 @@ image: "/poi-images/tt-indigo-vat-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.70, 11.15],
-    name: { de: "Zuckerwerkstätten Tobago", hu: "Tobago cukorműhelyek", ro: "Atelierele de zahăr Tobago", en: "Tobago Sugar Works",
-image: "/poi-images/tt-tobago-sugar-works-history-v2.webp"
-},
+    name: { de: "Zuckerwerkstätten Tobago", hu: "Tobago cukorműhelyek", ro: "Atelierele de zahăr Tobago", en: "Tobago Sugar Works"},
+    image: "/poi-images/tt-tobago-sugar-works-history-v2.webp",
     description: { de: "Überreste einer Zuckermanufaktur.", hu: "Egy cukormanufaktúra maradványai.", ro: "Rămășițele unei manufacturi de zahăr.", en: "Remains of a sugar manufactory." },
     facts: {
       de: ["Produktionsstätten", "Historische Maschinen", "Zuckerverarbeitung", "Landwirtschaftliche Geschichte"],
@@ -623,9 +601,8 @@ image: "/poi-images/tt-tobago-sugar-works-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.80, 11.20],
-    name: { de: "Spanisches Fort Tobago", hu: "Spanyol erőd Tobago", ro: "Fortul spaniol Tobago", en: "Spanish Fort Tobago",
-image: "/poi-images/tt-spanish-fort-tobago-history-v2.webp"
-},
+    name: { de: "Spanisches Fort Tobago", hu: "Spanyol erőd Tobago", ro: "Fortul spaniol Tobago", en: "Spanish Fort Tobago"},
+    image: "/poi-images/tt-spanish-fort-tobago-history-v2.webp",
     description: { de: "Befestigung der Spanier.", hu: "Spanyol erődítmény.", ro: "Fortificație spaniolă.", en: "Spanish fortification." },
     facts: {
       de: ["Strategische Präsenz", "Koloniales Abwehrwerk", "Historische Fundstätte", "18. Jahrhundert"],
@@ -651,9 +628,8 @@ image: "/poi-images/tt-spanish-fort-tobago-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.35, 10.65],
-    name: { de: "Plantagen-Krankenhaus", hu: "Ültetvénykórház", ro: "Spitalul plantației", en: "Plantation Hospital",
-image: "/poi-images/tt-plantation-hospital-history-v2.webp"
-},
+    name: { de: "Plantagen-Krankenhaus", hu: "Ültetvénykórház", ro: "Spitalul plantației", en: "Plantation Hospital"},
+    image: "/poi-images/tt-plantation-hospital-history-v2.webp",
     description: { de: "Historische Einrichtung für Plantagenarbeiter.", hu: "Történelmi intézmény az ültetvényi munkások számára.", ro: "Instituție istorică pentru muncitorii de pe plantații.", en: "Historic facility for plantation workers." },
     facts: {
       de: ["Medizinische Versorgung", "Koloniale Fürsorge", "Architekturzeugnis", "Historische Aufarbeitung"],
@@ -679,9 +655,8 @@ image: "/poi-images/tt-plantation-hospital-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.51, 10.65],
-    name: { de: "Altes Hafenamt", hu: "Régi kikötői iroda", ro: "Vechea clădire a portului", en: "Old Port Office",
-image: "/poi-images/tt-old-port-office-history-v2.webp"
-},
+    name: { de: "Altes Hafenamt", hu: "Régi kikötői iroda", ro: "Vechea clădire a portului", en: "Old Port Office"},
+    image: "/poi-images/tt-old-port-office-history-v2.webp",
     description: { de: "Historisches Verwaltungsgebäude am Hafen.", hu: "Történelmi adminisztrációs épület a kikötőben.", ro: "Clădire administrativă istorică în port.", en: "Historic administration building at the harbor." },
     facts: {
       de: ["Hafenverwaltung", "Handelsgeschichte", "Koloniale Architektur", "Restauriertes Bauwerk"],
@@ -707,9 +682,8 @@ image: "/poi-images/tt-old-port-office-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.45, 10.60],
-    name: { de: "Spanische Kapelle", hu: "Spanyol kápolna", ro: "Capela spaniolă", en: "Spanish Chapel",
-image: "/poi-images/tt-spanish-chapel-history-v2.webp"
-},
+    name: { de: "Spanische Kapelle", hu: "Spanyol kápolna", ro: "Capela spaniolă", en: "Spanish Chapel"},
+    image: "/poi-images/tt-spanish-chapel-history-v2.webp",
     description: { de: "Historische religiöse Stätte.", hu: "Történelmi vallási helyszín.", ro: "Situl religios istoric.", en: "Historic religious site." },
     facts: {
       de: ["Religiöse Mission", "Koloniales Erbe", "Erbaut im 18. Jahrhundert", "Kulturelles Zentrum"],
@@ -735,9 +709,8 @@ image: "/poi-images/tt-spanish-chapel-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.73, 11.18],
-    name: { de: "Ehemalige Schatzkammer Tobago", hu: "Tobago egykori kincstára", ro: "Fosta trezorerie Tobago", en: "Former Tobago Treasury",
-image: "/poi-images/tt-old-tobago-treasury-history-v2.webp"
-},
+    name: { de: "Ehemalige Schatzkammer Tobago", hu: "Tobago egykori kincstára", ro: "Fosta trezorerie Tobago", en: "Former Tobago Treasury"},
+    image: "/poi-images/tt-old-tobago-treasury-history-v2.webp",
     description: { de: "Historisches Finanzgebäude.", hu: "Történelmi pénzügyi épület.", ro: "Clădire financiară istorică.", en: "Historic financial building." },
     facts: {
       de: ["Finanzverwaltung", "Koloniale Macht", "Historische Architektur", "Touristenattraktion"],
@@ -763,9 +736,8 @@ image: "/poi-images/tt-old-tobago-treasury-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-60.78, 11.20],
-    name: { de: "Fort James", hu: "James erőd", ro: "Fortul James", en: "Fort James",
-image: "/poi-images/tt-fort-james-history-v2.webp"
-},
+    name: { de: "Fort James", hu: "James erőd", ro: "Fortul James", en: "Fort James"},
+    image: "/poi-images/tt-fort-james-history-v2.webp",
     description: { de: "Befestigungsanlage bei Plymouth.", hu: "Erődítmény Plymouth közelében.", ro: "Fortificație lângă Plymouth.", en: "Fortification near Plymouth." },
     facts: {
       de: ["Schutz der Küste", "Historische Kanonen", "Überblick über Plymouth", "Erbaut im 18. Jahrhundert"],
@@ -791,9 +763,8 @@ image: "/poi-images/tt-fort-james-history-v2.webp"
     type: "historical",
     parent: "TT",
     coords: [-61.30, 10.65],
-    name: { de: "Kakaoplantagen-Büro", hu: "Kakaóültetvény iroda", ro: "Biroul plantației de cacao", en: "Cocoa Estate Office",
-image: "/poi-images/tt-cocoa-estate-office-history-v2.webp"
-},
+    name: { de: "Kakaoplantagen-Büro", hu: "Kakaóültetvény iroda", ro: "Biroul plantației de cacao", en: "Cocoa Estate Office"},
+    image: "/poi-images/tt-cocoa-estate-office-history-v2.webp",
     description: { de: "Historisches Bürogebäude für die Plantagenverwaltung.", hu: "Történelmi irodaépület az ültetvény igazgatásához.", ro: "Clădire de birouri istorică pentru administrarea plantației.", en: "Historic office building for plantation administration." },
     facts: {
       de: ["Verwaltung der Plantage", "Handelsgeschichte", "Koloniale Struktur", "Historisches Denkmal"],

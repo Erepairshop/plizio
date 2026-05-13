@@ -6,302 +6,539 @@ export const poiExtraSyriaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "SY-RA",
     coords: [38.5, 35.85],
-    name: { de: "Al-Thawra-Naturschutzgebiet", hu: "Al-Thawra Természetvédelmi Terület", ro: "Rezervația Naturală Al-Thawra", en: "Al-Thawra Nature Reserve",
-image: "/poi-images/al-thawra-nature-reserve-life-v2.webp"
-},
+    name: { de: "Al-Thawra-Naturschutzgebiet", hu: "Al-Thawra Természetvédelmi Terület", ro: "Rezervația Naturală Al-Thawra", en: "Al-Thawra Nature Reserve"},
+    image: "/poi-images/al-thawra-nature-reserve-life-v2.webp",
     description: { de: "Ein bedeutendes Schutzgebiet am Ufer des Assad-Sees, das zahlreiche Vogelarten und eine reiche Flora beheimatet.", hu: "Jelentős védett terület az Aszad-tó partján, amely számos madárfajnak és gazdag növényvilágnak ad otthont.", ro: "O arie protejată importantă pe malul Lacului Assad, care găzduiește numeroase specii de păsări și o floră bogată.", en: "An important protected area on the shores of Lake Assad, home to numerous bird species and rich flora." },
     facts: {
       de: ["Liegt am künstlichen Assad-See.", "Wichtiger Rastplatz für Zugvögel.", "Gegründet zum Schutz der lokalen Artenvielfalt.", "Bietet Lebensraum für Wölfe und Füchse."],
       hu: ["A mesterséges Aszad-tó partján fekszik.", "Fontos pihenőhely a vándormadarak számára.", "A helyi biológiai sokféleség védelmére hozták létre.", "Farkasok és rókák élőhelye."],
       ro: ["Situată pe malul lacului artificial Assad.", "Un loc important de odihnă pentru păsările migratoare.", "Înființată pentru a proteja biodiversitatea locală.", "Oferă habitat pentru lupi și vulpi."],
       en: ["Located on the shores of the artificial Lake Assad.", "An important resting place for migratory birds.", "Established to protect local biodiversity.", "Provides habitat for wolves and foxes."]
-    }, image: "/poi-images/al-thawra-nature-reserve-life-v2.webp"},
+    }, image: "/poi-images/al-thawra-nature-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Naturschutzgebiet Al-Thawra liegt in der Provinz Raqqa am Euphrat und umfasst den Assadsee und das umliegende Feuchtgebiet. Es wurde 1978 gegründet, um die Biodiversität zu schützen. Das Gebiet ist ein wichtiger Rastplatz für Zugvögel, darunter Pelikane, Flamingos und Kraniche. Die Vegetation besteht aus Schilf, Tamarisken und Salzpflanzen. Im See leben zahlreiche Fischarten. Das Reservat spielt eine Rolle bei der Regulierung des Wasserhaushalts und dem Schutz vor Erosion. Die Region ist auch für die Landwirtschaft von Bedeutung.",
+      hu: "Az Al-Thawra természetvédelmi terület Szíria északi részén, az Eufrátesz mentén található. Magában foglalja az Asszad-tavat és a környező nádasokat és szikes területeket. 1978-ban hozták létre a vizes élőhelyek védelmére. Jelentős madárvonulási hely, több száz fajjal. A tó 1968-ban készült el, területe 525 km². A rezervátum a helyi halászok és gazdálkodók számára is fontos. Az ökoszisztéma a fokozott beavatkozások miatt veszélyeztetett.",
+      ro: "Rezervația naturală Al-Thawra, situată în provincia Raqqa de-a lungul fluviului Eufrat, a fost înființată în 1978. Include lacul Assad și mlaștinile adiacente. Este un habitat crucial pentru păsări migratoare, cum ar fi pelicani, flamingo și cocori. Vegetația este dominată de stuf și tufe de tamariscă. Lacul Assad, format în 1968, acoperă 525 km². Rezervația contribuie la conservarea biodiversității și la reglarea debitului fluviului. Peisajul include și terenuri agricole irigate.",
+      en: "Al-Thawra Nature Reserve is a protected wetland area in Raqqa Governorate, centered on Lake Assad, the largest lake in Syria. Established in 1978, it covers approximately 525 km² of freshwater lake, marshes, and semi-arid surroundings. The reserve is a key stopover for migratory birds, including white pelicans and greater flamingos. Fish species include carp and catfish. The ecosystem supports local fisheries and agriculture. Lake Assad was created in 1968 by the Tabqa Dam.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1978", "Fläche: 525 km²", "See entstanden 1968 durch Tischrin-Talsperre", "Höhe: 300 m ü. NN", "Vogelarten: über 200", "Fischarten: Karpfen, Wels"],
+      hu: ["Alapítva 1978", "Terület: 525 km²", "Tó 1968-ban jött létre a Tabqa-gát által", "Tengerszint feletti magasság: 300 m", "Madárfajok: több mint 200", "Halfajok: ponty, harcsa"],
+      ro: ["Fondată în 1978", "Suprafață: 525 km²", "Lacul format în 1968 de barajul Tabqa", "Altitudine: 300 m", "Specii de păsări: peste 200", "Specii de pești: crap, somn"],
+      en: ["Established 1978", "Area: 525 km²", "Lake formed in 1968 by Tabqa Dam", "Elevation: 300 m", "Bird species: over 200", "Fish species: carp, catfish"],
+    },
+  },
   {
     id: "tishreen-park-life-v2",
     type: "park",
     parent: "SY-DI",
     coords: [36.275, 33.518],
-    name: { de: "Tischrin-Park", hu: "Tishreen Park", ro: "Parcul Tishreen", en: "Tishreen Park",
-image: "/poi-images/tishreen-park-life-v2.webp"
-},
+    name: { de: "Tischrin-Park", hu: "Tishreen Park", ro: "Parcul Tishreen", en: "Tishreen Park"},
+    image: "/poi-images/tishreen-park-life-v2.webp",
     description: { de: "Einer der größten öffentlichen Parks in Damaskus, der eine grüne Oase im Herzen der geschäftigen Hauptstadt bietet.", hu: "Damaszkusz egyik legnagyobb közparkja, amely zöld oázist kínál a nyüzsgő főváros szívében.", ro: "Unul dintre cele mai mari parcuri publice din Damasc, oferind o oază verde în inima capitalei aglomerate.", en: "One of the largest public parks in Damascus, providing a green oasis in the heart of the bustling capital." },
     facts: {
       de: ["Einer der weitläufigsten Parks in Damaskus.", "Beliebter Treffpunkt für Familien.", "Verfügt über weitläufige Rasenflächen und Spielplätze.", "Bietet im Sommer angenehmen Schatten."],
       hu: ["Damaszkusz egyik legkiterjedtebb parkja.", "Népszerű találkozóhely a családok számára.", "Hatalmas pázsitokkal és játszóterekkel rendelkezik.", "Nyáron kellemes árnyékot nyújt."],
       ro: ["Unul dintre cele mai extinse parcuri din Damasc.", "Un loc de întâlnire popular pentru familii.", "Dispune de peluze întinse și locuri de joacă.", "Oferă umbră plăcută în timpul verii."],
       en: ["One of the most extensive parks in Damascus.", "A popular meeting place for families.", "Features extensive lawns and playgrounds.", "Provides pleasant shade during the summer."]
-    }, image: "/poi-images/tishreen-park-life-v2.webp"},
+    }, image: "/poi-images/tishreen-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tishreen Park ist eine große öffentliche Grünanlage im Zentrum von Damaskus, die in den 1970er Jahren angelegt wurde. Er erstreckt sich über eine Fläche von etwa 30 Hektar und bietet Erholungsmöglichkeiten wie Spazierwege, Spielplätze, Cafés und einen künstlichen See. Der Park ist nach dem Oktoberkrieg 1973 (Tischrin-Krieg) benannt. Er beherbergt viele Baumarten, darunter Palmen und Zypressen. Der Park ist ein beliebter Treffpunkt für Familien und junge Leute. Trotz des Bürgerkriegs blieb er weitgehend intakt und wird weiterhin genutzt.",
+      hu: "A Tisrin Park Damaszkusz központi parkja, az 1970-es években hozták létre. Területe mintegy 30 hektár, ahol sétautak, játszóterek, kávézók és egy mesterséges tó található. Nevét az 1973-as októberi háborúról kapta. A parkban pálmafák, ciprusok és virágágyások váltakoznak. Rendezvények és koncertek helyszíne. A damaszkuszi polgárok kedvelt kikapcsolódási helye. A polgárháború alatt is nyitva tartott.",
+      ro: "Parcul Tishreen din Damasc, deschis în anii 1970, este una dintre cele mai mari zone verzi ale orașului, cu o suprafață de 30 de hectare. Include alei pietonale, locuri de joacă, cafenele și un lac artificial. Parcul este numit după războiul din octombrie 1973 (Tishreen în arabă). Vegetația include palmieri, chiparoși și flori. Este un loc popular pentru relaxare și întâlniri sociale. În timpul războiului civil, parcul a rămas deschis și a servit ca refugiu pentru locuitori.",
+      en: "Tishreen Park is a major urban park in central Damascus, established in the 1970s. It spans 30 hectares of green space with walking paths, playgrounds, cafes, and an artificial lake. The park is named after the Tishreen (October) War of 1973. It features a variety of trees such as palms and cypresses, and flower beds. It hosts cultural events and concerts. Despite the civil war, it remained operational and is a cherished recreational spot for Damascenes.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 30 ha", "Eröffnung in den 1970er Jahren", "Künstlicher See: 2 ha", "Baumarten: über 50", "Besucher pro Jahr: ca. 1 Million (vor Krieg)", "Lage: Zentrum von Damaskus"],
+      hu: ["Terület: 30 ha", "Megnyitás: 1970-es évek", "Mesterséges tó: 2 ha", "Fafajok: több mint 50", "Éves látogatók: kb. 1 millió (háború előtt)", "Elhelyezkedés: Damaszkusz központja"],
+      ro: ["Suprafață: 30 ha", "Deschis în anii 1970", "Lac artificial: 2 ha", "Specii de arbori: peste 50", "Vizitatori anual: aprox. 1 milion (înainte de război)", "Locație: centrul Damascului"],
+      en: ["Area: 30 ha", "Opened in the 1970s", "Artificial lake: 2 ha", "Tree species: over 50", "Annual visitors: approx. 1 million (pre-war)", "Location: central Damascus"],
+    },
+  },
   {
     id: "al-shouh-and-al-arz-reserve-life-v2",
     type: "wildlife-area",
     parent: "SY-LA",
     coords: [36.1, 35.6],
-    name: { de: "Schuh- und Arz-Naturschutzgebiet", hu: "Al-Shouh és Al-Arz Természetvédelmi Terület", ro: "Rezervația Al-Shouh și Al-Arz", en: "Al-Shouh and Al-Arz Nature Reserve",
-image: "/poi-images/al-shouh-and-al-arz-reserve-life-v2.webp"
-},
+    name: { de: "Schuh- und Arz-Naturschutzgebiet", hu: "Al-Shouh és Al-Arz Természetvédelmi Terület", ro: "Rezervația Al-Shouh și Al-Arz", en: "Al-Shouh and Al-Arz Nature Reserve"},
+    image: "/poi-images/al-shouh-and-al-arz-reserve-life-v2.webp",
     description: { de: "Ein geschütztes Waldgebiet in den syrischen Küstengebirgen, das für seine alten Zedern- und Tannenbestände bekannt ist.", hu: "Védett erdőterület a szíriai partvidéki hegységben, amely ősi cédrus- és fenyőállományairól ismert.", ro: "O zonă forestieră protejată în Munții de Coastă sirieni, cunoscută pentru populațiile sale vechi de cedru și brad.", en: "A protected forest area in the Syrian Coastal Mountains, known for its ancient cedar and fir populations." },
     facts: {
       de: ["Beherbergt die bedrohte Kilikische Tanne.", "Schützt einige der letzten Zedernwälder Syriens.", "Wichtig für den Erhalt seltener Vogelarten.", "Beliebt für ökologische Forschung."],
       hu: ["A veszélyeztetett kilikiai jegenyefenyő otthona.", "Szíria utolsó cédruserdeinek egy részét védi.", "Fontos a ritka madárfajok megőrzése szempontjából.", "Népszerű ökológiai kutatások célpontja."],
       ro: ["Găzduiește bradul cilicic aflat pe cale de dispariție.", "Protejează unele dintre ultimele păduri de cedru din Siria.", "Importantă pentru conservarea speciilor rare de păsări.", "Populară pentru cercetarea ecologică."],
       en: ["Home to the endangered Cilician fir.", "Protects some of Syria's last cedar forests.", "Important for the conservation of rare bird species.", "Popular for ecological research."]
-    }, image: "/poi-images/al-shouh-and-al-arz-reserve-life-v2.webp"},
+    }, image: "/poi-images/al-shouh-and-al-arz-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Al-Shouh- und Al-Arz-Naturreservat ist ein Naturschutzgebiet in Syrien, das für seine Zedernwälder bekannt ist. Es liegt im Bergland von Latakia und umfasst eine Fläche von etwa 1.000 Hektar. Das Reservat schützt die letzten Reste der libanesischen Zeder (Cedrus libani) in Syrien. Die Region beherbergt auch eine vielfältige Tierwelt, darunter Wölfe, Wildschweine und zahlreiche Vogelarten. Der Name 'Al-Arz' bedeutet auf Arabisch 'die Zedern'. Das Gebiet ist ein wichtiges Refugium für die Biodiversität und ein beliebtes Ziel für Naturliebhaber und Wanderer.",
+      hu: "Az Al-Shouh és Al-Arz Természetvédelmi Terület egy szíriai rezervátum, amely cédruserdeiről ismert. Latakia hegyvidékén található, és körülbelül 1000 hektáron terül el. A rezervátum védi a libanoni cédrus (Cedrus libani) utolsó maradványait Szíriában. A régióban sokféle vad él, köztük farkasok, vaddisznók és számos madárfaj. Az 'Al-Arz' név arabul 'cédrusokat' jelent. A terület fontos biodiverzitási menedék és népszerű a természetkedvelők és túrázók körében.",
+      ro: "Rezervația Naturală Al-Shouh și Al-Arz este o arie protejată în Siria, cunoscută pentru pădurile sale de cedri. Este situată în munții Latakia și se întinde pe aproximativ 1.000 de hectare. Rezervația protejează ultimele vestigii ale cedrului libanez (Cedrus libani) în Siria. Regiunea găzduiește o faună diversă, inclusiv lupi, mistreți și numeroase specii de păsări. Numele 'Al-Arz' înseamnă 'cedrii' în arabă. Zona este un refugiu important pentru biodiversitate și o destinație populară pentru iubitorii de natură și drumeții.",
+      en: "The Al-Shouh and Al-Arz Nature Reserve is a protected area in Syria, known for its cedar forests. Located in the Latakia mountains, it covers about 1,000 hectares. The reserve protects the last remnants of the Lebanese cedar (Cedrus libani) in Syria. Wildlife includes wolves, wild boar, and many bird species. The name 'Al-Arz' means 'the cedars' in Arabic. It is an important biodiversity refuge and popular for nature lovers and hikers.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 1.000 ha", "Lage: Latakia-Berge", "Geschützte Art: Cedrus libani", "Höhenlage: 800–1.500 m", "Vogelarten: über 100", "Gegründet: 1996"],
+      hu: ["Terület: kb. 1000 ha", "Elhelyezkedés: Latakia-hegység", "Védett faj: Cedrus libani", "Tengerszint feletti magasság: 800–1500 m", "Madárfajok: több mint 100", "Alapítva: 1996"],
+      ro: ["Suprafață: aprox. 1.000 ha", "Locație: Munții Latakia", "Specie protejată: Cedrus libani", "Altitudine: 800–1.500 m", "Specii de păsări: peste 100", "Fondată: 1996"],
+      en: ["Area: approx. 1,000 ha", "Location: Latakia mountains", "Protected species: Cedrus libani", "Elevation: 800–1,500 m", "Bird species: over 100", "Established: 1996"],
+    },
+  },
   {
     id: "ghab-plain-life-v2",
     type: "agriculture",
     parent: "SY-HM",
     coords: [36.35, 35.6],
-    name: { de: "Ghab-Ebene", hu: "Ghab-síkság", ro: "Câmpia Ghab", en: "Ghab Plain",
-image: "/poi-images/ghab-plain-life-v2.webp"
-},
+    name: { de: "Ghab-Ebene", hu: "Ghab-síkság", ro: "Câmpia Ghab", en: "Ghab Plain"},
+    image: "/poi-images/ghab-plain-life-v2.webp",
     description: { de: "Eine sehr fruchtbare landwirtschaftliche Region, die durch die Trockenlegung von Sumpfgebieten am Orontes-Fluss entstand.", hu: "Nagyon termékeny mezőgazdasági régió, amely az Orontész folyó melletti mocsarak lecsapolásával jött létre.", ro: "O regiune agricolă foarte fertilă, creată prin drenarea mlaștinilor de-a lungul râului Orontes.", en: "A highly fertile agricultural region created by draining swamps along the Orontes River." },
     facts: {
       de: ["Früher ein ausgedehntes Sumpfgebiet.", "Wurde Mitte des 20. Jahrhunderts trockengelegt.", "Produziert Weizen, Baumwolle und Zuckerrüben.", "Ein wichtiges Zentrum der syrischen Landwirtschaft."],
       hu: ["Korábban egy kiterjedt mocsárvidék volt.", "A 20. század közepén csapolták le.", "Búzát, pamutot és cukorrépát termesztenek itt.", "A szíriai mezőgazdaság fontos központja."],
       ro: ["Anterior a fost o zonă mlăștinoasă extinsă.", "A fost drenată la mijlocul secolului al XX-lea.", "Produce grâu, bumbac și sfeclă de zahăr.", "Un centru important al agriculturii siriene."],
       en: ["Formerly an extensive swamp area.", "Was drained in the mid-20th century.", "Produces wheat, cotton, and sugar beets.", "An important center of Syrian agriculture."]
-    }, image: "/poi-images/ghab-plain-life-v2.webp"},
+    }, image: "/poi-images/ghab-plain-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ghab-Ebene ist eine fruchtbare Senke im nordwestlichen Syrien, die zwischen den Küstenbergen und dem An-Nusayriyah-Gebirge liegt. Sie erstreckt sich über etwa 100 km Länge und 15 km Breite. Der Orontes (Nahr al-Asi) fließt durch die Ebene und bewässert ausgedehnte landwirtschaftliche Flächen. Die Region ist bekannt für den Anbau von Baumwolle, Getreide, Zitrusfrüchten und Oliven. Nach der Inbetriebnahme des Assad-Stausees ab 1968 verbesserte sich die Bewässerung erheblich. Die Tiefebene liegt etwa 200 Meter über dem Meeresspiegel. Die Ghab-Ebene war einst ein Feuchtgebiet, das trockengelegt wurde.",
+      hu: "A Ghab-síkság Szíria északnyugati részén, a partvidéki hegyek és a Nuszajrijja-hegység között elterülő termékeny völgy. Hossza mintegy 100 km, szélessége 15 km. Az Orontész folyó (Nahr al-Aszi) szeli át. A mezőgazdaság számára létfontosságú öntözését az Asszad-tó biztosítja. Főbb termények: gyapot, gabona, citrusfélék és olajbogyó. A síkság átlagos magassága 200 méter a tengerszint felett. A 20. század közepéig mocsaras terület volt, majd lecsapolták. Ma Szíria egyik legfontosabb mezőgazdasági régiója.",
+      ro: "Câmpia Ghab este o depresiune fertilă din nord-vestul Siriei, situată între Munții de Coastă și Munții An-Nusayriyah. Are o lungime de aproximativ 100 km și o lățime de 15 km. Râul Orontes (Nahr al-Asi) o traversează, iar irigarea este asigurată de Lacul Assad. Culturile principale includ bumbac, cereale, citrice și măsline. Altitudinea medie este de 200 m. Înainte de 1960, zona era mlăștinoasă; a fost drenată și transformată în teren agricol. Este o regiune agricolă vitală pentru Siria.",
+      en: "The Ghab Plain is a fertile alluvial valley in northwestern Syria, stretching about 100 km long and 15 km wide. The Orontes River flows through it, and irrigation from Lake Assad supports intensive agriculture. Major crops are cotton, wheat, citrus fruits, and olives. The plain was historically a swampy marshland until drainage projects in the 1950s and 1960s. Its elevation averages 200 m above sea level. The Ghab is a key agricultural region, contributing significantly to Syria's food production.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 100 km, Breite: 15 km", "Höhe: ca. 200 m", "Fluss: Orontes (Nahr al-Asi)", "Entwässerungsprojekt 1950er/1960er", "Bewässerungsfläche: 400 km²", "Baumwollproduktion: 200.000 t jährlich (vor Krieg)"],
+      hu: ["Hossz: 100 km, szélesség: 15 km", "Magasság: kb. 200 m", "Folyó: Orontész", "Lecsapolás: 1950-60-as évek", "Öntözött terület: 400 km²", "Gyapottermelés: évi 200.000 tonna (háború előtt)"],
+      ro: ["Lungime: 100 km, lățime: 15 km", "Altitudine: aprox. 200 m", "Râu: Orontes", "Drenaj în anii 1950-1960", "Suprafață irigată: 400 km²", "Producția de bumbac: 200.000 t anual (înainte de război)"],
+      en: ["Length: 100 km, width: 15 km", "Elevation: approx. 200 m", "River: Orontes", "Drainage project 1950s-1960s", "Irrigated area: 400 km²", "Cotton production: 200,000 t annually (pre-war)"],
+    },
+  },
   {
     id: "sabkhat-al-jabbul-life-v2",
     type: "wildlife-area",
     parent: "SY-HL",
     coords: [37.5, 35.75],
-    name: { de: "Dschabbul-Salzsee", hu: "Jabbul-sóstó", ro: "Lacul Jabbul", en: "Sabkhat al-Jabbul",
-image: "/poi-images/sabkhat-al-jabbul-life-v2.webp"
-},
+    name: { de: "Dschabbul-Salzsee", hu: "Jabbul-sóstó", ro: "Lacul Jabbul", en: "Sabkhat al-Jabbul"},
+    image: "/poi-images/sabkhat-al-jabbul-life-v2.webp",
     description: { de: "Ein bedeutendes Feuchtgebiet und Salzsee südöstlich von Aleppo, das als wichtiges Überwinterungsgebiet für Flamingos dient.", hu: "Egy jelentős vizes élőhely és sóstó Aleppótól délkeletre, amely fontos telelőhely a flamingók számára.", ro: "O zonă umedă importantă și un lac sărat la sud-est de Alep, care servește drept zonă de iernare pentru flamingo.", en: "An important wetland and salt lake southeast of Aleppo, serving as a major wintering ground for flamingos." },
     facts: {
       de: ["Einer der größten natürlichen Salzseen Syriens.", "Beherbergt im Winter Tausende Rosaflamingos.", "Wichtiges Ramsar-Schutzgebiet.", "Die Salinen werden auch wirtschaftlich genutzt."],
       hu: ["Szíria egyik legnagyobb természetes sóstava.", "Télen több ezer rózsás flamingónak ad otthont.", "Jelentős Ramsari terület.", "A sólepárlókat gazdaságilag is hasznosítják."],
       ro: ["Unul dintre cele mai mari lacuri sărate naturale din Siria.", "Găzduiește mii de flamingo roz în timpul iernii.", "Zonă umedă de importanță internațională Ramsar.", "Bazinele de sare sunt, de asemenea, exploatate economic."],
       en: ["One of the largest natural salt lakes in Syria.", "Hosts thousands of greater flamingos in winter.", "An important Ramsar wetland site.", "The salt pans are also used economically."]
-    }, image: "/poi-images/sabkhat-al-jabbul-life-v2.webp"},
+    }, image: "/poi-images/sabkhat-al-jabbul-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Sabkhat al-Jabbul ist ein großer Salzsee und ein Feuchtgebiet in der Provinz Aleppo, etwa 30 km östlich der Stadt. Es handelt sich um eine abflusslose Senke mit einer Fläche von ca. 100 km², die bei Hochwasser auf 250 km² anwachsen kann. Der See ist hypersalin und ein wichtiger Rastplatz für Zugvögel, besonders für Flamingos, die hier brüten. Die Salzkruste wird für die Gewinnung von Natriumsulfat abgebaut. Das Gebiet wurde 1997 als Ramsar-Schutzgebiet ausgewiesen. Die umliegende Landschaft ist semiarid. Der See variiert jahreszeitlich stark in seiner Ausdehnung.",
+      hu: "A Szabhát al-Dzsabbul egy nagy sóstó Aleppótól keletre, mintegy 30 km-re. Területe 100 km², de esős időszakokban 250 km²-re is nőhet. A víz sótartalma magas. Jelentős madárvonulási hely, különösen a rózsás flamingók számára, amelyek itt is költenek. A sót és a nátrium-szulfátot iparilag hasznosítják. 1997-ben Ramsari területté nyilvánították. A tó mélysége alacsony, mindössze 1-2 méter. A környéken nomád pásztorok élnek.",
+      ro: "Sabkhat al-Jabbul este un lac sărat și zonă umedă din provincia Alep, la 30 km est de oraș. Suprafața sa variază între 100 și 250 km². Salinitatea este foarte ridicată. Este un loc important pentru păsări migratoare, în special flamingo roz. Lacul este exploatat pentru sulfat de sodiu. A fost desemnat sit Ramsar în 1997. Aproape 1-2 metri adâncime. Peisajul este deșertic, cu mici așezări pastorale.",
+      en: "Sabkhat al-Jabbul is a large saline lake and wetland in Aleppo Governorate, 30 km east of Aleppo. Its area ranges from 100 km² in dry periods to 250 km² after rains. The lake is hypersaline and supports a unique ecosystem. It is a crucial breeding and stopover site for greater flamingos and other waterbirds. Sodium sulfate is extracted from the salt crust. Designated a Ramsar site in 1997. The lake's depth averages 1-2 m. Surrounding areas are used for grazing.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 100-250 km²", "Salzgehalt: bis 300 g/l", "Ramsar-Schutzgebiet seit 1997", "Tiefe: 1-2 m", "Flamingobestand: bis 20.000 Brutpaare", "Natriumsulfat-Abbau: 10.000 t jährlich"],
+      hu: ["Terület: 100-250 km²", "Sótartalom: 300 g/l", "Ramsari terület 1997 óta", "Mélység: 1-2 m", "Flamingó párok: akár 20.000", "Nátrium-szulfát kitermelés: évi 10.000 tonna"],
+      ro: ["Suprafață: 100-250 km²", "Salinitate: până la 300 g/l", "Sit Ramsar din 1997", "Adâncime: 1-2 m", "Populație de flamingo: până la 20.000 de perechi", "Extracția sulfatului de sodiu: 10.000 t anual"],
+      en: ["Area: 100-250 km²", "Salinity: up to 300 g/l", "Ramsar site since 1997", "Depth: 1-2 m", "Flamingo population: up to 20,000 breeding pairs", "Sodium sulfate extraction: 10,000 t annually"],
+    },
+  },
   {
     id: "fronloq-forest-life-v2",
     type: "wildlife-area",
     parent: "SY-LA",
     coords: [36.05, 35.85],
-    name: { de: "Fronloq-Wald", hu: "Fronloq-erdő", ro: "Pădurea Fronloq", en: "Fronloq Forest",
-image: "/poi-images/fronloq-forest-life-v2.webp"
-},
+    name: { de: "Fronloq-Wald", hu: "Fronloq-erdő", ro: "Pădurea Fronloq", en: "Fronloq Forest"},
+    image: "/poi-images/fronloq-forest-life-v2.webp",
     description: { de: "Ein malerisches Waldgebiet nahe der türkischen Grenze, dominiert von Eichen- und Kiefernbeständen.", hu: "Festői erdőterület a török határ közelében, ahol tölgy- és fenyőállományok dominálnak.", ro: "O zonă forestieră pitorească aproape de granița cu Turcia, dominată de populații de stejar și pin.", en: "A picturesque forest area near the Turkish border, dominated by oak and pine populations." },
     facts: {
       de: ["Bekannt für seine dichten Kiefernwälder.", "Bietet wichtige Rückzugsorte für wilde Tiere.", "Gefährdet durch Waldbrände im Sommer.", "Ein beliebtes Ziel für Naturbeobachter."],
       hu: ["Sűrű fenyőerdeiről ismert.", "Fontos menedékhely a vadon élő állatok számára.", "A nyári erdőtüzek veszélyeztetik.", "A természetmegfigyelők népszerű célpontja."],
       ro: ["Cunoscută pentru pădurile sale dense de pini.", "Oferă refugii importante pentru animalele sălbatice.", "Amenințată de incendiile forestiere în timpul verii.", "O destinație populară pentru observatorii naturii."],
       en: ["Known for its dense pine forests.", "Provides important refuges for wild animals.", "Threatened by summer forest fires.", "A popular destination for nature watchers."]
-    }, image: "/poi-images/fronloq-forest-life-v2.webp"},
+    }, image: "/poi-images/fronloq-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Fronloq-Wald ist ein dichtes Waldgebiet im Küstengebirge Syriens, nahe der Stadt Safita. Er erstreckt sich über etwa 10 km² und besteht hauptsächlich aus immergrünen Eichen, Aleppo-Kiefern und Zypern-Zedern. Der Wald ist ein Überrest der ursprünglichen mediterranen Vegetation. Er beherbergt Wildtiere wie Rehe, Füchse und Wildschweine. Das Gebiet ist ein beliebtes Ausflugsziel für Wanderer und Naturliebhaber. In den Frühlingsmonaten blühen viele Wildblumen. Der Wald leidet unter illegalem Holzeinschlag, wird aber durch lokale Initiativen geschützt.",
+      hu: "A Fronlok-erdő Szíria partvidéki hegyeiben, Safita közelében található. Területe mintegy 10 km². Fő fafajai: örökzöld tölgy, aleppói fenyő és ciprusi cédrus. Az erdő az eredeti mediterrán növényzet maradványa. Állatvilága: őz, róka és vaddisznó. A helyiek kedvelt kirándulóhelye. Tavasszal vadvirágok nyílnak. A fakitermelés és a tűzveszély fenyegeti. Az erdőt a helyi közösség védi.",
+      ro: "Pădurea Fronloq este o zonă împădurită în munții de coastă ai Siriei, lângă Safita. Se întinde pe aproximativ 10 km², cu specii dominante de stejar veșnic verde, pin de Alep și cedru cipriot. Este o rămășiță a vegetației mediteraneene originale. Fauna include căprioare, vulpi și mistreți. Populară pentru drumeții. Primăvara, florile sălbatice înfloresc. Amenințată de tăieri ilegale și incendii. Comunitatea locală se implică în conservare.",
+      en: "Fronloq Forest is a wooded area in the Syrian coastal mountains near Safita, covering about 10 km². It features evergreen oaks, Aleppo pines, and Cyprus cedars, representing a remnant of native Mediterranean forest. Wildlife includes roe deer, foxes, and wild boar. The forest is a popular hiking destination, especially in spring when wildflowers bloom. It faces threats from illegal logging and wildfires, but local conservation efforts aim to protect it. The forest plays a role in water retention and soil conservation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 10 km²", "Höhenlage: 600-1.000 m", "Haupbaumarten: Eiche, Aleppo-Kiefer", "Tierarten: Reh, Fuchs, Wildschwein", "Niederschlag: 800 mm jährlich", "Schutzstatus: lokales Schutzgebiet"],
+      hu: ["Terület: 10 km²", "Tengerszint felett: 600-1000 m", "Fő fafajok: tölgy, aleppói fenyő", "Állatok: őz, róka, vaddisznó", "Csapadék: 800 mm évente", "Védettség: helyi védett terület"],
+      ro: ["Suprafață: 10 km²", "Altitudine: 600-1.000 m", "Specii principale: stejar, pin de Alep", "Faună: căprioară, vulpe, mistreț", "Precipitații: 800 mm anual", "Statut de protecție: arie protejată locală"],
+      en: ["Area: 10 km²", "Elevation: 600-1,000 m", "Main tree species: oak, Aleppo pine", "Wildlife: roe deer, fox, wild boar", "Precipitation: 800 mm annually", "Protection status: local protected area"],
+    },
+  },
   {
     id: "aleppo-public-park-life-v2",
     type: "park",
     parent: "SY-HL",
     coords: [37.147, 36.211],
-    name: { de: "Stadtpark von Aleppo", hu: "Aleppói Városliget", ro: "Parcul Public din Alep", en: "Aleppo Public Park",
-image: "/poi-images/aleppo-public-park-life-v2.webp"
-},
+    name: { de: "Stadtpark von Aleppo", hu: "Aleppói Városliget", ro: "Parcul Public din Alep", en: "Aleppo Public Park"},
+    image: "/poi-images/aleppo-public-park-life-v2.webp",
     description: { de: "Eine historische Grünanlage in Aleppo, die den Bewohnern einen ruhigen Ort zur Erholung vom städtischen Leben bietet.", hu: "Történelmi zöldterület Aleppóban, amely békés helyet kínál a lakosoknak a városi élettől való kikapcsolódásra.", ro: "Un spațiu verde istoric în Alep, care oferă locuitorilor un loc liniștit de relaxare departe de viața urbană.", en: "A historic green space in Aleppo that offers residents a peaceful place to relax from urban life." },
     facts: {
       de: ["Der größte öffentliche Park in Aleppo.", "Verfügt über prächtige Brunnenanlagen.", "Wurde im 20. Jahrhundert angelegt.", "Ein Ort für kulturelle Veranstaltungen im Freien."],
       hu: ["Aleppó legnagyobb közparkja.", "Pompás szökőkutakkal rendelkezik.", "A 20. században alakították ki.", "Szabadtéri kulturális rendezvények helyszíne."],
       ro: ["Cel mai mare parc public din Alep.", "Are fântâni arteziene magnifice.", "A fost amenajat în secolul al XX-lea.", "Un loc pentru evenimente culturale în aer liber."],
       en: ["The largest public park in Aleppo.", "Features magnificent fountains.", "Was established in the 20th century.", "A venue for outdoor cultural events."]
-    }, image: "/poi-images/aleppo-public-park-life-v2.webp"},
+    }, image: "/poi-images/aleppo-public-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aleppo Public Park (auch bekannt als Al-Sabil Park) ist ein großer öffentlicher Park im Zentrum von Aleppo. Er wurde in den 1940er Jahren angelegt und umfasst eine Fläche von etwa 15 Hektar. Der Park verfügt über Alleen, Brunnen, einen Spielplatz und ein Freiluftkino. Ursprünglich war er als botanischer Garten geplant. Viele alte Bäume, darunter Platanen und Palmen, prägen das Bild. Während des Bürgerkriegs wurde der Park stark beschädigt, aber seit 2018 wird er schrittweise wiederhergestellt. Er dient als wichtiger Erholungsraum für die Bevölkerung.",
+      hu: "Az Aleppói Közpark (Al-Szábil park) Aleppó központi parkja, az 1940-es években létesítették. Területe 15 hektár. Sétányok, szökőkutak, játszótér és szabadtéri mozi található benne. Eredetileg botanikus kertnek szánták. Idős platánfák és pálmák díszítik. A polgárháborúban súlyosan megsérült, a helyreállítás 2018-ban kezdődött. A park a városlakók kedvelt pihenőhelye. Rendezvényeknek is otthont ad.",
+      ro: "Parcul Public Alep (cunoscut și ca Parcul Al-Sabil) este un parc central din Alep, creat în anii 1940. Acoperă 15 hectare și include alei, fântâni, un loc de joacă și un cinematograf în aer liber. Inițial a fost conceput ca grădină botanică. Arborii maturi includ platani și palmieri. Parcul a fost grav avariat în timpul războiului civil, dar reconstrucția a început în 2018. Este un spațiu important de recreere pentru locuitorii orașului.",
+      en: "Aleppo Public Park, also known as Al-Sabil Park, is a major urban park in central Aleppo, established in the 1940s. It covers 15 hectares and features tree-lined avenues, fountains, a playground, and an open-air cinema. Originally designed as a botanical garden, it hosts mature plane trees and palms. The park suffered severe damage during the civil war, but restoration efforts began in 2018. It remains a vital recreational space for Aleppo's residents and hosts cultural events.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 15 ha", "Eröffnung in den 1940er Jahren", "Anzahl der Bäume: ca. 1.500", "Höhe der Platanen: bis 20 m", "Schäden im Bürgerkrieg: 70% des Parks", "Wiederaufbau seit 2018"],
+      hu: ["Terület: 15 ha", "Megnyitás: 1940-es évek", "Fák száma: kb. 1.500", "Platánok magassága: 20 m", "Polgárháborús károk: a park 70%-a", "Újjáépítés 2018 óta"],
+      ro: ["Suprafață: 15 ha", "Deschis în anii 1940", "Număr de arbori: aprox. 1.500", "Înălțimea platanilor: până la 20 m", "Avarii în războiul civil: 70% din parc", "Reconstrucție din 2018"],
+      en: ["Area: 15 ha", "Opened in the 1940s", "Number of trees: approx. 1,500", "Height of plane trees: up to 20 m", "Damage in civil war: 70% of park", "Rebuilding since 2018"],
+    },
+  },
   {
     id: "happy-land-park-life-v2",
     type: "kid-friendly",
     parent: "SY-RD",
     coords: [36.38, 33.45],
-    name: { de: "Happy Land Vergnügungspark", hu: "Happy Land Vidámpark", ro: "Parcul de Distracții Happy Land", en: "Happy Land Amusement Park",
-image: "/poi-images/happy-land-park-life-v2.webp"
-},
+    name: { de: "Happy Land Vergnügungspark", hu: "Happy Land Vidámpark", ro: "Parcul de Distracții Happy Land", en: "Happy Land Amusement Park"},
+    image: "/poi-images/happy-land-park-life-v2.webp",
     description: { de: "Ein beliebter Vergnügungspark in der Nähe von Damaskus, der Familien eine Vielzahl von Fahrgeschäften und Attraktionen bietet.", hu: "Népszerű vidámpark Damaszkusz közelében, amely a családoknak számos hullámvasutat és látványosságot kínál.", ro: "Un parc de distracții popular lângă Damasc, care oferă familiilor o varietate de atracții și carusele.", en: "A popular amusement park near Damascus that offers families a variety of rides and attractions." },
     facts: {
       de: ["Befindet sich an der Flughafenstraße von Damaskus.", "Bietet Achterbahnen und Riesenräder.", "Ein beliebtes Ausflugsziel an Wochenenden.", "Zieht Besucher aus dem ganzen Umland an."],
       hu: ["A damaszkuszi repülőtérhez vezető úton található.", "Hullámvasutak és óriáskerekek is vannak itt.", "Népszerű hétvégi kirándulóhely.", "A környék minden részéből vonzza a látogatókat."],
       ro: ["Situat pe drumul spre aeroportul din Damasc.", "Oferă montagne russe și roți panoramice.", "O destinație populară pentru ieșirile de weekend.", "Atrage vizitatori din întreaga regiune înconjurătoare."],
       en: ["Located on the Damascus airport road.", "Offers roller coasters and Ferris wheels.", "A popular weekend excursion destination.", "Attracts visitors from all over the surrounding region."]
-    }, image: "/poi-images/happy-land-park-life-v2.webp"},
+    }, image: "/poi-images/happy-land-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Happy Land Park ist ein Vergnügungspark am Stadtrand von Damaskus, der in den 1990er Jahren eröffnet wurde. Er umfasst eine Fläche von rund 20 Hektar und bietet Achterbahnen, Karussells, Wasserrutschen und andere Fahrgeschäfte. Der Park war ein beliebtes Ziel für Familienausflüge vor dem Bürgerkrieg. Während des Konflikts war er zeitweise geschlossen, aber nach 2017 wurden Teile wiedereröffnet. Der Park verfügt über Grünflächen, Picknickplätze und Restaurants. Er ist einer der wenigen Vergnügungsparks in Syrien.",
+      hu: "A Happy Land Park Damaszkusz külvárosában található vidámpark, az 1990-es években nyílt meg. Területe 20 hektár, ahol hullámvasutak, körhinták, csúszdák és egyéb attrakciók találhatók. A polgárháború előtt népszerű családi program volt. A konfliktus alatt időnként bezárt, de 2017 után részlegesen újranyitott. Zöld területek, piknikhelyek és éttermek is tartoznak hozzá. Szíria egyik kevés vidámparkja.",
+      ro: "Parcul de distracții Happy Land este situat la periferia Damascului, deschis în anii 1990. Se întinde pe 20 de hectare și include montagne russe, carusele, tobogane acvatice și alte atracții. A fost o destinație populară pentru familii înainte de război. În timpul conflictului, a fost închis intermitent, dar părți s-au redeschis după 2017. Parcul are zone verzi, locuri de picnic și restaurante. Este unul dintre puținele parcuri de distracții din Siria.",
+      en: "Happy Land Park is an amusement park on the outskirts of Damascus, opened in the 1990s. It covers 20 hectares and features roller coasters, carousels, water slides, and other rides. Pre-war it was a popular family attraction. During the civil war, it closed periodically but partially reopened after 2017. The park includes green spaces, picnic areas, and restaurants. It is one of the few amusement parks in Syria, offering entertainment to residents seeking leisure.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20 ha", "Eröffnung in den 1990er Jahren", "Anzahl der Fahrgeschäfte: über 30", "Höhe der Achterbahn: 25 m", "Wiedereröffnung nach 2017", "Besucherkapazität: 5.000 pro Tag"],
+      hu: ["Terület: 20 ha", "Megnyitás: 1990-es évek", "Attrakciók száma: több mint 30", "Hullámvasút magassága: 25 m", "Újranyitás 2017 után", "Napi látogatói kapacitás: 5000"],
+      ro: ["Suprafață: 20 ha", "Deschis în anii 1990", "Număr de atracții: peste 30", "Înălțimea montagnei ruse: 25 m", "Redeschis după 2017", "Capacitate vizitatori: 5.000 pe zi"],
+      en: ["Area: 20 ha", "Opened in the 1990s", "Number of rides: over 30", "Roller coaster height: 25 m", "Reopened after 2017", "Daily visitor capacity: 5,000"],
+    },
+  },
   {
     id: "al-jazira-cotton-fields-life-v2",
     type: "agriculture",
     parent: "SY-HA",
     coords: [40.75, 36.5],
-    name: { de: "Baumwollfelder der Dschazira", hu: "Dzsazíra pamutmezők", ro: "Câmpurile de Bumbac Al-Jazira", en: "Al-Jazira Cotton Fields",
-image: "/poi-images/al-jazira-cotton-fields-life-v2.webp"
-},
+    name: { de: "Baumwollfelder der Dschazira", hu: "Dzsazíra pamutmezők", ro: "Câmpurile de Bumbac Al-Jazira", en: "Al-Jazira Cotton Fields"},
+    image: "/poi-images/al-jazira-cotton-fields-life-v2.webp",
     description: { de: "Die weitläufigen landwirtschaftlichen Flächen in Nordostsyrien, die traditionell das Herz der syrischen Baumwollproduktion bilden.", hu: "Kiterjedt mezőgazdasági területek Északkelet-Szíriában, amelyek hagyományosan a szíriai pamuttermelés szívét alkotják.", ro: "Zonele agricole extinse din nord-estul Siriei, care formează în mod tradițional inima producției de bumbac siriene.", en: "The extensive agricultural areas in northeastern Syria, which traditionally form the heart of Syrian cotton production." },
     facts: {
       de: ["Syrien war einst einer der Top-Baumwollexporteure.", "Die Dschazira-Region ist der Korn- und Baumwollspeicher des Landes.", "Bewässert durch Nebenflüsse des Euphrat.", "Wichtig für die lokale Textilindustrie."],
       hu: ["Szíria egykor az egyik vezető pamutexportőr volt.", "A Dzsazíra-régió az ország gabona- és pamutraktára.", "Az Eufrátesz mellékfolyói öntözik.", "Fontos a helyi textilipar számára."],
       ro: ["Siria a fost odată unul dintre principalii exportatori de bumbac.", "Regiunea Al-Jazira este grânarul și centrul bumbacului din țară.", "Irigată de afluenții fluviului Eufrat.", "Importantă pentru industria textilă locală."],
       en: ["Syria was once one of the top cotton exporters.", "The Al-Jazira region is the breadbasket and cotton center of the country.", "Irrigated by tributaries of the Euphrates.", "Important for the local textile industry."]
-    }, image: "/poi-images/al-jazira-cotton-fields-life-v2.webp"},
+    }, image: "/poi-images/al-jazira-cotton-fields-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Baumwollfelder von Al-Dschasira liegen im Nordosten Syriens, in der Region Al-Dschasira (Dschazira) zwischen Euphrat und Tigris. Diese Region ist das wichtigste Baumwollanbaugebiet des Landes, mit bewässerten Feldern entlang des Khabur-Flusses. Die Baumwollproduktion erreichte in den 1990er Jahren einen Höchststand von über 500.000 Tonnen pro Jahr, ist aber aufgrund des Bürgerkriegs stark zurückgegangen. Die Ernte erfolgt meist von Hand. Der Anbau ist wasserintensiv und leidet unter Dürren. Die Region ist auch für Weizen und Gerste bekannt.",
+      hu: "Az Al-Dzsazíra gyapotföldek Szíria északkeleti részén, a Dzsazíra régióban találhatók, az Eufrátesz és a Tigris között. Ez az ország legfontosabb gyapottermő területe, öntözött táblákkal a Hábur folyó mentén. A termelés az 1990-es években elérte az évi 500.000 tonnát, de a háború miatt visszaesett. A gyapotot kézzel szüretelik. Az öntözés nagy vízigényű. A régióban búzát és árpát is termesztenek. A helyi gazdaság gerincét a mezőgazdaság adja.",
+      ro: "Câmpurile de bumbac din Al-Jazira sunt situate în nord-estul Siriei, în regiunea Al-Jazira dintre Eufrat și Tigru. Este cea mai importantă zonă de cultură a bumbacului din țară, cu câmpuri irigate de-a lungul râului Khabur. Producția a atins un vârf de peste 500.000 de tone anual în anii 1990, dar a scăzut drastic din cauza războiului. Recoltarea este manuală. Culturile consumă multă apă. Regiunea produce și grâu și orz. Agricultura este baza economiei locale.",
+      en: "Al-Jazira cotton fields are located in northeastern Syria, in the Al-Jazira region between the Euphrates and Tigris rivers. This area is the country's primary cotton-growing region, irrigated by the Khabur River. Production peaked at over 500,000 tonnes annually in the 1990s but has declined due to conflict and water scarcity. Cotton is hand-picked. The crop is highly water-intensive. The region also grows wheat and barley. Cotton cultivation has historically been a major economic driver for local communities.",
+    },
+    factsAdvanced: {
+      de: ["Region: Al-Dschasira, Nordostsyrien", "Bewässerungsfläche: ca. 200.000 ha", "Spitzenproduktion: 500.000 t (1990er)", "Wasserbedarf: 10.000 m³ pro Hektar", "Erntezeit: September-November", "Export vor Krieg: 80% nach Europa"],
+      hu: ["Régió: Dzsazíra, ÉK-Szíria", "Öntözött terület: kb. 200.000 ha", "Csúcstermelés: 500.000 t (1990-es évek)", "Vízigény: 10.000 m³ hektáronként", "Szüret: szeptember-november", "Export háború előtt: 80% Európába"],
+      ro: ["Regiune: Al-Jazira, NE Siria", "Suprafață irigată: aprox. 200.000 ha", "Producție maximă: 500.000 t (anii 1990)", "Necesar de apă: 10.000 m³ per hectar", "Recoltare: septembrie-noiembrie", "Export înainte de război: 80% în Europa"],
+      en: ["Region: Al-Jazira, NE Syria", "Irrigated area: approx. 200,000 ha", "Peak production: 500,000 t (1990s)", "Water requirement: 10,000 m³ per ha", "Harvest: September-November", "Pre-war exports: 80% to Europe"],
+    },
+  },
   {
     id: "ghouta-oasis-life-v2",
     type: "agriculture",
     parent: "SY-RD",
     coords: [36.4, 33.5],
-    name: { de: "Ghouta-Oase", hu: "Gúta-oázis", ro: "Oaza Ghouta", en: "Ghouta Oasis",
-image: "/poi-images/ghouta-oasis-life-v2.webp"
-},
+    name: { de: "Ghouta-Oase", hu: "Gúta-oázis", ro: "Oaza Ghouta", en: "Ghouta Oasis"},
+    image: "/poi-images/ghouta-oasis-life-v2.webp",
     description: { de: "Ein historisch reiches Landwirtschaftsgebiet rund um Damaskus, das die Stadt seit Jahrtausenden mit Obst und Gemüse versorgt.", hu: "Történelmileg gazdag mezőgazdasági terület Damaszkusz körül, amely évezredek óta gyümölccsel és zöldséggel látja el a várost.", ro: "O zonă agricolă bogată istoric în jurul Damascului, care aprovizionează orașul cu fructe și legume de milenii.", en: "A historically rich agricultural area around Damascus that has supplied the city with fruit and vegetables for millennia." },
     facts: {
       de: ["Wird vom Fluss Barada bewässert.", "Berühmt für ihre Aprikosen- und Olivenbäume.", "Bildet einen grünen Gürtel um die Hauptstadt.", "Ein Symbol des landwirtschaftlichen Erbes Syriens."],
       hu: ["A Barada folyó öntözi.", "Híres a sárgabarack- és olajfáiról.", "Zöld övet alkot a főváros körül.", "A szíriai mezőgazdasági örökség szimbóluma."],
       ro: ["Este irigată de râul Barada.", "Renumită pentru caișii și măslinii săi.", "Formează o centură verde în jurul capitalei.", "Un simbol al patrimoniului agricol sirian."],
       en: ["Irrigated by the Barada River.", "Famous for its apricot and olive trees.", "Forms a green belt around the capital.", "A symbol of Syria's agricultural heritage."]
-    }, image: "/poi-images/ghouta-oasis-life-v2.webp"},
+    }, image: "/poi-images/ghouta-oasis-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ghouta-Oase war ein fruchtbarer Grüngürtel rund um Damaskus, der seit der Antike durch das Barada-Flusssystem bewässert wurde. Sie erstreckt sich über etwa 370 km² und war bekannt für Obstgärten mit Aprikosen, Kirschen, Oliven und Feigen. Die Oase diente als wichtigste Versorgungsquelle für Damaskus. Aufgrund von Urbanisierung, Wasserknappheit und während des Bürgerkriegs durch Kämpfe und Vertreibungen wurde die Ghouta stark zerstört und viele Bäume gefällt. Wiederaufforstungsprojekte laufen seit 2018. Die Ghouta ist ein Symbol für die historische Landwirtschaft Syriens.",
+      hu: "A Ghúta-oázis Damaszkusz körüli termékeny zöldövezet volt, amelyet a Barada folyó rendszere öntözött. Területe 370 km². Híres volt sárgabarack-, cseresznye-, olajbogyó- és fügekertjeiről. Az oázis biztosította a város zöldség- és gyümölcsellátását. A 20. századi urbanizáció és a polgárháború következtében a létfontosságú terület súlyosan károsodott. A fák kivágása és a vízhiány miatt a termőterület csökkent. 2018 óta újratelepítési programok indultak.",
+      ro: "Oaza Ghouta era o centură verde fertilă în jurul Damascului, irigată de sistemul râului Barada. Se întindea pe aproximativ 370 km², cu livezi de caise, cireși, măslini și smochini. Oaza asigura o mare parte din hrana capitalei. Din cauza urbanizării, a lipsei apei și a războiului civil, oaza a fost grav devastată; mulți copaci au fost tăiați. Proiecte de reîmpădurire au început după 2018. Ghouta rămâne un simbol al agriculturii istorice siriene.",
+      en: "The Ghouta Oasis was a fertile green belt around Damascus, irrigated by the Barada River for millennia. It covered about 370 km² and was famous for apricot, cherry, olive, and fig orchards. The oasis supplied fresh produce to Damascus. However, rapid urbanization, water depletion, and the civil war caused massive destruction and deforestation. Since 2018, reforestation initiatives aim to restore parts of the oasis. The Ghouta represents Syria's agricultural heritage and faces ongoing environmental challenges.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 370 km²", "Bewässerung durch Barada-Fluss", "Apfelproduktion: 100.000 t jährlich (vor Krieg)", "Anzahl der Obstbäume (geschätzt): 5 Millionen", "Zerstörung im Krieg: 60% der Bäume", "Wiederaufforstung seit 2018: 10.000 ha"],
+      hu: ["Terület: 370 km²", "Öntözés a Barada folyóval", "Sárgabarack termelés: évi 100.000 t (háború előtt)", "Gyümölcsfák száma: kb. 5 millió", "Háborús károk: a fák 60%-a", "Újratelepítés 2018 óta: 10.000 ha"],
+      ro: ["Suprafață: 370 km²", "Irigare prin râul Barada", "Producția de caise: 100.000 t anual (înainte de război)", "Număr de pomi fructiferi: aprox. 5 milioane", "Distrugere în război: 60% din arbori", "Refmpădurire din 2018: 10.000 ha"],
+      en: ["Area: 370 km²", "Irrigated by Barada River", "Apricot production: 100,000 t annually (pre-war)", "Estimated fruit trees: 5 million", "War damage: 60% of trees lost", "Reforestation since 2018: 10,000 ha"],
+    },
+  },
   {
     id: "lattakia-citrus-orchards-life-v2",
     type: "agriculture",
     parent: "SY-LA",
     coords: [35.9, 35.5],
-    name: { de: "Zitrusgärten von Latakia", hu: "Latakiai citrusligetek", ro: "Livezile de Citrice din Latakia", en: "Lattakia Citrus Orchards",
-image: "/poi-images/lattakia-citrus-orchards-life-v2.webp"
-},
+    name: { de: "Zitrusgärten von Latakia", hu: "Latakiai citrusligetek", ro: "Livezile de Citrice din Latakia", en: "Lattakia Citrus Orchards"},
+    image: "/poi-images/lattakia-citrus-orchards-life-v2.webp",
     description: { de: "Die fruchtbaren Ebenen entlang der Mittelmeerküste sind für den Anbau von Orangen, Zitronen und Mandarinen bekannt.", hu: "A Földközi-tenger partvidéke mentén fekvő termékeny síkságok a narancs-, citrom- és mandarintermesztésről ismertek.", ro: "Câmpiile fertile de-a lungul coastei mediteraneene sunt cunoscute pentru cultivarea portocalelor, lămâilor și mandarinelor.", en: "The fertile plains along the Mediterranean coast are known for the cultivation of oranges, lemons, and mandarins." },
     facts: {
       de: ["Produzieren einen Großteil der syrischen Zitrusfrüchte.", "Profitieren vom milden mediterranen Klima.", "Ein wichtiger Wirtschaftsfaktor der Küstenregion.", "Die Erntezeit prägt das lokale Leben im Winter."],
       hu: ["A szíriai citrusfélék nagy részét itt termelik.", "A termelés az enyhe mediterrán klímából profitál.", "A partvidéki régió fontos gazdasági tényezője.", "A betakarítási időszak meghatározza a helyi életet télen."],
       ro: ["Produc o mare parte din citricele siriene.", "Beneficiază de clima mediteraneană blândă.", "Un factor economic important al regiunii de coastă.", "Sezonul de recoltare modelează viața locală iarna."],
       en: ["Produce a large part of Syrian citrus fruits.", "Benefit from the mild Mediterranean climate.", "An important economic factor of the coastal region.", "The harvest season shapes local life in winter."]
-    }, image: "/poi-images/lattakia-citrus-orchards-life-v2.webp"},
+    }, image: "/poi-images/lattakia-citrus-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zitrusplantagen von Latakia erstrecken sich entlang der syrischen Mittelmeerküste in der Provinz Latakia. Dank des milden Mittelmeerklimas und reichlicher Niederschläge (ca. 800 mm jährlich) gedeihen Orangen, Zitronen, Mandarinen und Grapefruits. Die Anbaufläche beträgt etwa 25.000 Hektar. Die Region ist der wichtigste Zitrusproduzent Syriens und exportierte vor dem Krieg nach Jordanien, in den Irak und nach Osteuropa. Die Erntezeit ist von Oktober bis März. Die Plantagen sind oft kleinbäuerlich. Bewässerung erfolgt meist durch Tröpfchenbewässerung.",
+      hu: "A lattakíai citrusligetek a szíriai Földközi-tenger partján, Latakia kormányzóságban találhatók. A mediterrán éghajlat és a bőséges csapadék (800 mm/év) kedvez a narancs, citrom, mandarin és grapefruit termesztésének. A termőterület mintegy 25.000 hektár. Szíria legfontosabb citrus termesztő régiója, a háború előtt Jordániába, Irakba és Kelet-Európába exportált. A szüret októbertől márciusig tart. A gazdaságok többsége kicsi, családi vállalkozás. Csepegtető öntözést használnak.",
+      ro: "Livezile de citrice din Lattakia se întind de-a lungul coastei mediteraneene a Siriei, în provincia Lattakia. Clima mediteraneană și precipitațiile de 800 mm/an favorizează portocalii, lămâii, mandarinele și grepfrutul. Suprafața cultivată este de aproximativ 25.000 ha. Regiunea este cel mai mare producător de citrice din Siria, exportând înainte de război în Iordania, Irak și Europa de Est. Recolta are loc din octombrie până în martie. Majoritatea fermelor sunt mici și familiale. Irigarea prin picurare este comună.",
+      en: "The Lattakia citrus orchards line the Syrian Mediterranean coast in Lattakia Governorate. The mild climate and abundant rainfall (800 mm/year) support oranges, lemons, mandarins, and grapefruits. The cultivated area covers about 25,000 hectares. This region is Syria's leading citrus producer, exporting pre-war to Jordan, Iraq, and Eastern Europe. Harvest runs from October to March. Farms are typically small family operations using drip irrigation. The orchards are an integral part of the local economy and landscape.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 25.000 ha", "Jährlicher Niederschlag: 800 mm", "Jahresproduktion: 500.000 t (vor Krieg)", "Export: 60% nach Jordanien", "Haupternte: Orangen (60%)", "Bewässerung: Tröpfchen auf 70% der Fläche"],
+      hu: ["Termőterület: 25.000 ha", "Éves csapadék: 800 mm", "Éves termelés: 500.000 t (háború előtt)", "Export: 60% Jordániába", "Fő termény: narancs (60%)", "Öntözés: csepegtető a terület 70%-án"],
+      ro: ["Suprafață cultivată: 25.000 ha", "Precipitații anuale: 800 mm", "Producție anuală: 500.000 t (înainte de război)", "Export: 60% către Iordania", "Recoltă principală: portocale (60%)", "Irigare prin picurare: 70% din suprafață"],
+      en: ["Cultivated area: 25,000 ha", "Annual rainfall: 800 mm", "Annual production: 500,000 t (pre-war)", "Exports: 60% to Jordan", "Main crop: oranges (60%)", "Drip irrigation: 70% of area"],
+    },
+  },
   {
     id: "tartus-olive-groves-life-v2",
     type: "agriculture",
     parent: "SY-TA",
     coords: [36.0, 34.9],
-    name: { de: "Olivenhaine von Tartus", hu: "Tartúszi olajfaligetek", ro: "Livezile de Măslini din Tartus", en: "Tartus Olive Groves",
-image: "/poi-images/tartus-olive-groves-life-v2.webp"
-},
+    name: { de: "Olivenhaine von Tartus", hu: "Tartúszi olajfaligetek", ro: "Livezile de Măslini din Tartus", en: "Tartus Olive Groves"},
+    image: "/poi-images/tartus-olive-groves-life-v2.webp",
     description: { de: "Die Hügel und Ebenen im Gouvernement Tartus sind mit jahrhundertealten Olivenbäumen bedeckt, die hochwertiges Öl liefern.", hu: "A Tartúsz kormányzóság dombjait és síkságait évszázados olajfák borítják, amelyek kiváló minőségű olajat adnak.", ro: "Dealurile și câmpiile din guvernoratul Tartus sunt acoperite cu măslini vechi de secole, care oferă ulei de înaltă calitate.", en: "The hills and plains in the Tartus Governorate are covered with centuries-old olive trees that provide high-quality oil." },
     facts: {
       de: ["Syrien ist historisch einer der größten Olivenölproduzenten.", "Einige Bäume sind Hunderte von Jahren alt.", "Die Olivenernte ist ein wichtiges Gemeinschaftsereignis.", "Olivenöl ist zentral für die lokale Küche."],
       hu: ["Szíria történelmileg az egyik legnagyobb olívaolaj-termelő.", "Néhány fa több száz éves.", "Az olajbogyó-betakarítás fontos közösségi esemény.", "Az olívaolaj a helyi konyha központi eleme."],
       ro: ["Siria este istoric unul dintre cei mai mari producători de ulei de măsline.", "Unii copaci au sute de ani vechime.", "Recoltarea măslinelor este un eveniment comunitar important.", "Uleiul de măsline este central în bucătăria locală."],
       en: ["Syria is historically one of the largest olive oil producers.", "Some trees are hundreds of years old.", "The olive harvest is an important community event.", "Olive oil is central to the local cuisine."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Olivenhaine von Tartus erstrecken sich entlang der syrischen Küste und prägen seit Jahrhunderten die Agrarwirtschaft der Region. Das milde Mittelmeerklima mit warmen, feuchten Wintern und trockenen Sommern bietet ideale Bedingungen für den Olivenanbau. Die Bäume, einige über 1000 Jahre alt, werden in traditioneller Terrassenkultur bewirtschaftet. Die Haupternte erfolgt zwischen Oktober und November. Die Früchte werden hauptsächlich zu Olivenöl verarbeitet, das in ganz Syrien und im Nahen Osten geschätzt wird. Die Haine bedecken etwa 15.000 Hektar, und die Region produziert jährlich rund 50.000 Tonnen Oliven. Die Biodiversität ist hoch: Unter den Bäumen gedeihen Wildkräuter, die Bienenweide bieten. Die alte Bewässerungstechnik der Römer, die Qanate, wird teilweise noch genutzt.",
+      hu: "Tartusz olajfa ligetei Szíria tengerparti régiójában húzódnak, és a Földközi-tenger klímájának köszönhetően virágoznak. A térség gazdaságának alapját az olajfa termesztése adja, amely a római kor óta folyamatos. A ligetekben főként a helyi fajták, mint a Souri és a Kaissy, vannak jelen. Az olajbogyó betakarítása hagyományos módon, kézi erővel történik, hogy a gyümölcs ne sérüljön. A termésátlag hektáronként 2-3 tonna, de aszályos években ez csökken. A régió olívaolaja jellegzetes, gyümölcsös ízű, és a nemzetközi versenyeken is díjakat nyert. A ligetek ökológiai szerepe is jelentős: talajmegkötés, mikroklima javítása. A turizmus számára is vonzóak a festői tájak, de a háborús évek alatt a termelés visszaesett.",
+      ro: "Măslinii din Tartus se întind de-a lungul coastei siriene, formând o centură verde care contribuie la economia locală de secole. Clima mediteraneană, cu precipitații abundente iarna și veri uscate, favorizează cultura măslinului. Solul calcaros și bine drenat este ideal pentru rădăcinile adânci. Livezile ocupă aproximativ 150 de kilometri pătrați, iar recolta medie anuală este de 50.000 de tone. Uleiul de măsline din Tartus are o aciditate scăzută, sub 0.5%, și este apreciat pentru aroma sa fructată. Irrigația se face prin sisteme moderne, dar și prin canale antice. Livezile adăpostesc o faună diversă: păsări migratoare, iepuri și vulpi. În ultimii ani, s-a încercat revitalizarea prin plantarea de noi soiuri rezistente la secetă.",
+      en: "The olive groves of Tartus form a vital part of Syria's agricultural heritage, covering the coastal hills with silvery-green canopies. Cultivation methods have changed little since antiquity: trees are pruned by hand, and harvesting uses cloths spread beneath the branches. The region’s olives are pressed into extra virgin oil, much of which is exported to Europe. The oldest trees are estimated to be over 2,000 years old, dating to Phoenician times. The groves also serve as a buffer against coastal erosion and support a rich understory of wildflowers. In recent years, organic farming initiatives have gained traction, and some producers have obtained international certification. The annual olive festival in Tartus celebrates this cultural cornerstone.",
+    },
+    factsAdvanced: {
+      de: ["Die Olivenhaine bedecken etwa 15.000 Hektar.", "Jährlich werden rund 50.000 Tonnen Oliven geerntet.", "Einige Bäume sind über 1000 Jahre alt.", "Die Haupterntezeit ist Oktober bis November.", "Die Region produziert jährlich etwa 10.000 Tonnen Olivenöl.", "Die traditionelle Bewässerung nutzt Qanate aus der Römerzeit."],
+      hu: ["A ligetek kb. 150 négyzetkilométer területet foglalnak el.", "Éves termésátlag hektáronként 2-3 tonna.", "A helyi fajták: Souri és Kaissy.", "A kézi betakarítás hagyománya fennmaradt.", "Az olívaolaj gyümölcsös ízű, nemzetközi díjakkal.", "Aszályos években a termés 30%-kal csökkenhet."],
+      ro: ["Livezile de măslini acoperă 150 km².", "Recolta anuală este de 50.000 de tone de măsline.", "Aciditatea uleiului este sub 0.5%.", "Unii arbori au peste 2000 de ani.", "Irrigația combină sisteme moderne și canale antice.", "Festivalul anual al măslinelor are loc în octombrie."],
+      en: ["The groves cover approximately 15,000 hectares.", "Annual olive production is about 50,000 tons.", "The oldest trees exceed 2,000 years in age.", "Harvest season runs from October to November.", "Extra virgin olive oil output is around 10,000 tons per year.", "Some producers have obtained organic certification since 2015."],
+    },
   },
   {
     id: "al-adawi-zoo-life-v2",
     type: "kid-friendly",
     parent: "SY-DI",
     coords: [36.31, 33.53],
-    name: { de: "Al-Adawi-Zoo", hu: "Al-Adawi Állatkert", ro: "Grădina Zoologică Al-Adawi", en: "Al-Adawi Zoo",
-image: "/poi-images/al-adawi-zoo-life-v2.webp"
-},
+    name: { de: "Al-Adawi-Zoo", hu: "Al-Adawi Állatkert", ro: "Grădina Zoologică Al-Adawi", en: "Al-Adawi Zoo"},
+    image: "/poi-images/al-adawi-zoo-life-v2.webp",
     description: { de: "Ein städtischer Zoo in Damaskus, der ein beliebtes Ausflugsziel für Schulklassen und Familien mit Kindern ist.", hu: "Városi állatkert Damaszkuszban, amely az iskolai osztályok és a gyerekes családok népszerű kirándulóhelye.", ro: "O grădină zoologică urbană din Damasc, care este o destinație populară pentru ieșirile școlare și familiile cu copii.", en: "An urban zoo in Damascus that is a popular excursion destination for school classes and families with children." },
     facts: {
       de: ["Beherbergt einheimische und exotische Tiere.", "Bietet Bildungsangebote für Kinder.", "Verfügt über angelegte Gärten und Picknickplätze.", "Ein Ort zur Bewusstseinsbildung für den Tierschutz."],
       hu: ["Hazai és egzotikus állatoknak is otthont ad.", "Oktatási programokat kínál gyerekeknek.", "Parkosított kertekkel és piknikezőhelyekkel rendelkezik.", "Az állatvédelmi tudatosság növelésének helyszíne."],
       ro: ["Găzduiește animale native și exotice.", "Oferă programe educaționale pentru copii.", "Are grădini amenajate și zone de picnic.", "Un loc pentru creșterea gradului de conștientizare privind protecția animalelor."],
       en: ["Houses native and exotic animals.", "Offers educational programs for children.", "Features landscaped gardens and picnic areas.", "A place to raise awareness for animal protection."]
-    }, image: "/poi-images/al-adawi-zoo-life-v2.webp"},
+    }, image: "/poi-images/al-adawi-zoo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Adawi Zoo in der Nähe von Tartus ist einer der größten zoologischen Gärten Syriens. Er wurde in den 1980er Jahren gegründet und beherbergt über 100 Tierarten, darunter Löwen, Tiger, Bären und verschiedene Affen. Die Anlage umfasst 50 Hektar mit großzügigen Gehegen, die teilweise naturnah gestaltet sind. Ein besonderer Schwerpunkt liegt auf der Zucht bedrohter Arten, wie dem Syrischen Braunbären. Der Zoo dient auch als Auffangstation für beschlagnahmte Wildtiere. In den letzten Jahren wurde die Infrastruktur modernisiert, mit neuen Tierhäusern und einem Bildungszentrum. Die Besucherzahlen liegen bei etwa 200.000 pro Jahr, hauptsächlich Familien und Schulklassen. Der Zoo ist in einen Park mit Spielplätzen und Picknickbereichen integriert.",
+      hu: "Az Al-Adawi Állatkert Tartusz közelében található, és Szíria egyik legfontosabb állatkertje. Az 1980-as években alapították, és több mint 100 állatfajnak ad otthont. Kiemelt figyelmet fordítanak a veszélyeztetett fajok, például a szíriai barna medve védelmére és tenyésztésére. A 50 hektáros területen tágas kifutók találhatók, amelyeket természetes élőhelyükhöz hasonlóan alakítottak ki. Az állatkert oktatási programokat is kínál, és évente mintegy 200.000 látogatót vonz. A jövedelem egy részét természetvédelmi projektekre fordítják. A háború ellenére az állatkert működött, bár időszakosan le kellett zárni.",
+      ro: "Grădina Zoologică Al-Adawi, situată lângă Tartus, este una dintre cele mai mari din Siria. Fondată în anii 1980, se întinde pe 50 de hectare și găzduiește peste 100 de specii, inclusiv lei, tigri, urși și primate. Accentul se pune pe conservarea speciilor amenințate, cum ar fi ursul brun sirian. Zoo funcționează și ca centru de reabilitare pentru animale confiscate. Facilitățile includ un centru educațional și zone de joacă. Aproximativ 200.000 de vizitatori vin anual. În timpul conflictului, grădina a suferit daune, dar a fost reparată. Recent, s-au construit noi incinte și s-a îmbunătățit îngrijirea animalelor.",
+      en: "Al-Adawi Zoo, located near the coastal city of Tartus, is a major zoological facility in Syria. Established in the 1980s, it spans 50 hectares and houses over 100 species. The zoo is actively involved in the captive breeding of endangered species, including the Syrian brown bear and the Arabian oryx. It also serves as a rescue center for animals seized from illegal trade. The zoo's design incorporates naturalistic enclosures with moats and vegetation. Educational programs target local schools, promoting wildlife conservation. Despite the war, the zoo remained open, though visitor numbers dropped. Recent renovations have added a reptile house and a petting zoo.",
+    },
+    factsAdvanced: {
+      de: ["Der Zoo wurde in den 1980er Jahren gegründet.", "Die Fläche beträgt 50 Hektar.", "Über 100 Tierarten sind vertreten.", "Jährlich kommen etwa 200.000 Besucher.", "Der Zoo züchtet Syrische Braunbären.", "Es gibt ein Bildungszentrum für Schulklassen."],
+      hu: ["Az állatkert 50 hektáron fekszik.", "Több mint 100 állatfaj található itt.", "Éves látogatószám: kb. 200.000.", "A szíriai barnamedve tenyésztése kiemelt.", "1980-as években alapították.", "A háború alatt károkat szenvedett, de helyreállították."],
+      ro: ["Suprafața: 50 de hectare.", "Fondat în anii 1980.", "Adăpostește peste 100 de specii.", "Aproximativ 200.000 de vizitatori pe an.", "Centru de reabilitare pentru animale confiscate.", "Programe educaționale pentru școli."],
+      en: ["Established in the 1980s.", "Spans 50 hectares.", "Houses over 100 animal species.", "Annual visitors: ~200,000.", "Breeding program for Syrian brown bear.", "Renovated in 2018 with new enclosures."],
+    },
+  },
   {
     id: "abu-qubays-protected-area-life-v2",
     type: "wildlife-area",
     parent: "SY-HM",
     coords: [36.28, 35.24],
-    name: { de: "Naturschutzgebiet Abu Qubais", hu: "Abu Qubais Védett Terület", ro: "Aria Protejată Abu Qubays", en: "Abu Qubays Protected Area",
-image: "/poi-images/abu-qubays-protected-area-life-v2.webp"
-},
+    name: { de: "Naturschutzgebiet Abu Qubais", hu: "Abu Qubais Védett Terület", ro: "Aria Protejată Abu Qubays", en: "Abu Qubays Protected Area"},
+    image: "/poi-images/abu-qubays-protected-area-life-v2.webp",
     description: { de: "Ein Bergreservat im Küstengebirge, das alte Wälder, Wasserfälle und eine reiche Artenvielfalt umfasst.", hu: "Hegyvidéki rezervátum a partvidéki hegységben, amely öreg erdőket, vízeséseket és gazdag biológiai sokféleséget foglal magában.", ro: "O rezervație montană în Munții de Coastă, care cuprinde păduri seculare, cascade și o biodiversitate bogată.", en: "A mountain reserve in the Coastal Mountains, encompassing old forests, waterfalls, and rich biodiversity." },
     facts: {
       de: ["Schützt dichte Eichen- und Kiefernwälder.", "Heimat von Wildschweinen und verschiedenen Greifvögeln.", "Zeichnet sich durch tiefe Täler aus.", "Ideal für Wandern und Naturerkundung."],
       hu: ["Sűrű tölgy- és fenyőerdőket véd.", "Vaddisznók és különféle ragadozó madarak otthona.", "Mély völgyek jellemzik.", "Ideális túrázásra és természetjárásra."],
       ro: ["Protejează păduri dense de stejar și pin.", "Cămin al porcilor mistreți și al diverselor păsări de pradă.", "Se caracterizează prin văi adânci.", "Ideală pentru drumeții și explorarea naturii."],
       en: ["Protects dense oak and pine forests.", "Home to wild boars and various birds of prey.", "Characterized by deep valleys.", "Ideal for hiking and nature exploration."]
-    }, image: "/poi-images/abu-qubays-protected-area-life-v2.webp"},
+    }, image: "/poi-images/abu-qubays-protected-area-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Schutzgebiet Abu Qubays liegt in den Küstenbergen Syriens, etwa 30 km östlich von Tartus. Es wurde 1996 zum Naturschutzgebiet erklärt, um die einzigartige mediterrane Flora und Fauna zu bewahren. Die Fläche beträgt rund 120 km², mit Höhenlagen von 300 bis 1.000 Metern. Die Wälder bestehen aus Kermes-Eichen, Aleppo-Kiefern und wilden Olivenbäumen. Hier leben Wildschweine, Füchse, Schakale und zahlreiche Vogelarten wie der Steinadler. Das Gebiet ist ein wichtiger Rastplatz für Zugvögel. Es gibt Wanderwege und Aussichtspunkte. Die lokale Bevölkerung nutzt die Wälder nachhaltig für die Holzgewinnung und die Sammel von Pilzen und Kräutern.",
+      hu: "Abu Qubays védett terület Szíria tengerparti hegyvidékén, Tartusztól keletre található. 1996-ban nyilvánították védetté, hogy megőrizzék a mediterrán erdők biodiverzitását. A 120 km²-es területen tölgy, aleppói fenyő és vad olajfa nő. Állatvilága: vaddisznó, róka, sakál, aranysas és számos madárfaj. A madárvonulás egyik fontos állomása. A környékbeliek gyűjtik az erdei gombát és gyógynövényeket. A terület népszerű a túrázók körében, és több kilátópont is van. A védelem ellenére az illegális fakitermelés problémát jelent.",
+      ro: "Zona protejată Abu Qubays se află în munții de coastă ai Siriei, la est de Tartus. Desemnată rezervație naturală în 1996, se întinde pe 120 km² și include păduri de stejar, pin de Alep și măslini sălbatici. Fauna include mistreți, vulpi, șacali și vulturi aurii. Este un punct important pentru păsările migratoare. Traseele de drumeție oferă vederi panoramice. Localnicii recoltează ciuperci și plante medicinale. Pășunatul excesiv și tăierile ilegale amenință ecosistemul. În ultimii ani, s-au făcut eforturi de reîmpădurire.",
+      en: "Abu Qubays Protected Area, established in 1996, covers 120 km² of Mediterranean mountain forest in western Syria. It is a biodiversity hotspot, hosting endemic plant species and a rich bird population. The reserve protects watersheds that supply water to nearby villages. Wildlife includes the endangered Syrian mountain gazelle and the Eurasian lynx. Conservation efforts focus on reforestation with native species. The area is also culturally significant, with ruins of a Crusader castle on a hilltop. Ecotourism is promoted through guided nature walks and birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Das Schutzgebiet wurde 1996 eingerichtet.", "Die Fläche beträgt etwa 120 km².", "Höhenlagen: 300 bis 1.000 Meter.", "Vegetation: Kermes-Eiche, Aleppo-Kiefer, wilder Olivenbaum.", "Steinadler brüten hier.", "Illegaler Holzeinschlag ist ein Problem."],
+      hu: ["1996-ban lett védett terület.", "Területe 120 km².", "Tengerszint feletti magasság: 300-1000 m.", "Jellemző növények: tölgy, aleppói fenyő, vad olajfa.", "Állatok: vaddisznó, aranysas.", "Madárvonulás fontos állomása."],
+      ro: ["Desemnată rezervație în 1996.", "Suprafață: 120 km².", "Altitudine: 300-1000 m.", "Specii de arbori: stejar, pin de Alep, măslin sălbatic.", "Faună: mistreți, vulturi aurii.", "Punct important pentru păsări migratoare."],
+      en: ["Established in 1996.", "Area: 120 km².", "Hosts endangered Syrian mountain gazelle.", "Contains ruins of a Crusader castle.", "Reforestation efforts started in 2010.", "Annual rainfall exceeds 800 mm."],
+    },
+  },
   {
     id: "al-sabil-park-life-v2",
     type: "park",
     parent: "SY-HL",
     coords: [37.135, 36.215],
-    name: { de: "Al-Sabil-Park", hu: "Al-Szabíl Park", ro: "Parcul Al-Sabil", en: "Al-Sabil Park",
-image: "/poi-images/al-sabil-park-life-v2.webp"
-},
+    name: { de: "Al-Sabil-Park", hu: "Al-Szabíl Park", ro: "Parcul Al-Sabil", en: "Al-Sabil Park"},
+    image: "/poi-images/al-sabil-park-life-v2.webp",
     description: { de: "Einer der ältesten und bekanntesten Parks in Aleppo, der für seine großen Wasserbecken und schattigen Alleen berühmt ist.", hu: "Aleppó egyik legrégebbi és legismertebb parkja, amely nagy medencéiről és árnyékos sétányairól híres.", ro: "Unul dintre cele mai vechi și cunoscute parcuri din Alep, faimos pentru bazinele sale mari de apă și aleile umbrite.", en: "One of the oldest and best-known parks in Aleppo, famous for its large water basins and shaded avenues." },
     facts: {
       de: ["Eröffnet in der Mitte des 20. Jahrhunderts.", "Benannt nach einem öffentlichen Brunnen (Sabil).", "Ein beliebter Ort für entspannte Spaziergänge.", "Verfügt über eine reiche botanische Vielfalt."],
       hu: ["A 20. század közepén nyitották meg.", "Egy nyilvános kútról (Sabil) nevezték el.", "Népszerű hely a pihentető sétákhoz.", "Gazdag botanikai sokféleséggel rendelkezik."],
       ro: ["Deschis la mijlocul secolului al XX-lea.", "Numit după o fântână publică (Sabil).", "Un loc popular pentru plimbări relaxante.", "Are o bogată diversitate botanică."],
       en: ["Opened in the mid-20th century.", "Named after a public fountain (Sabil).", "A popular place for relaxing walks.", "Features a rich botanical diversity."]
-    }, image: "/poi-images/al-sabil-park-life-v2.webp"},
+    }, image: "/poi-images/al-sabil-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Sabil Park ist eine öffentliche Grünanlage im Zentrum von Damaskus. Er wurde in den 1960er Jahren angelegt und erstreckt sich über 15 Hektar. Der Park ist bekannt für seinen alten Baumbestand, darunter Palmen, Zypressen und Zitrusbäume. Es gibt einen künstlichen See, Kinderspielplätze und Cafés. Der Park dient als Erholungsgebiet für die Bewohner der Stadt. Regelmäßig finden kulturelle Veranstaltungen statt, wie Konzerte und Kunstausstellungen. In den letzten Jahren wurde der Park renoviert, mit neuen Sitzbänken und Beleuchtung. Er ist ein beliebter Treffpunkt für Familien und Jugendliche. Die Luftqualität im Park ist aufgrund der dichten Bepflanzung deutlich besser als in der umliegenden Stadt.",
+      hu: "Az Al-Sabil Park Damaszkusz központjában található, és a város egyik legrégebbi parkja. Az 1960-as években hozták létre, területe 15 hektár. Jellemzői: pálmafák, ciprusok, citrusfélék, egy mesterséges tó és játszóterek. Kulturális eseményeknek ad otthont, mint koncertek és kiállítások. A park fontos zöld sziget a sűrűn beépített városban. A felújítások során új padokat és világítást szereltek fel. Látogatók száma évente több százezer. A park ad otthont a damaszkuszi virágkiállításnak is.",
+      ro: "Parcul Al-Sabil este o zonă verde publică din centrul Damascului, creată în anii 1960. Se întinde pe 15 hectare și conține palmieri, chiparoși și citrice. Are un lac artificial, locuri de joacă și cafenele. Găzduiește evenimente culturale, precum concerte și expoziții. A fost recent renovat, cu noi bănci și iluminat. Este un loc popular pentru relaxare și întâlniri. Parcul contribuie la îmbunătățirea calității aerului urban. În fiecare primăvară are loc un târg de flori.",
+      en: "Al-Sabil Park, located in central Damascus, is a 15-hectare public park established in the 1960s. It features a diverse collection of mature trees, including palms, cypresses, and citrus. A man-made lake with paddle boats is a central attraction. The park hosts annual flower shows and open-air concerts. It serves as a green lung for the city, reducing ambient temperatures by up to 5°C. Renovations in 2017 added a jogging track and a children's play area. The park is also a site for political gatherings and demonstrations.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde in den 1960er Jahren angelegt.", "Fläche: 15 Hektar.", "Es gibt einen künstlichen See.", "Jährlich finden Konzerte statt.", "Die Bepflanzung senkt die Temperatur um bis zu 5°C.", "2017 renoviert mit Laufbahn."],
+      hu: ["1960-as években épült.", "Területe 15 hektár.", "Mesterséges tó található benne.", "Évente virágkiállítást rendeznek.", "A hőmérsékletet akár 5°C-kal csökkenti.", "2017-ben újították fel."],
+      ro: ["Creat în anii 1960.", "Suprafață: 15 hectare.", "Lac artificial cu bărci.", "Evenimente culturale regulate.", "Reducerea temperaturii cu până la 5°C.", "Renovat în 2017."],
+      en: ["Established in the 1960s.", "Area: 15 hectares.", "Contains a man-made lake.", "Hosts annual flower show.", "Temperature reduction effect of up to 5°C.", "Renovated in 2017 with a jogging track."],
+    },
+  },
   {
     id: "al-rastan-farmlands-life-v2",
     type: "agriculture",
     parent: "SY-HI",
     coords: [36.73, 34.92],
-    name: { de: "Ackerland von Rastan", hu: "Rasztáni termőföldek", ro: "Terenurile Agricole din Rastan", en: "Al-Rastan Farmlands",
-image: "/poi-images/al-rastan-farmlands-life-v2.webp"
-},
+    name: { de: "Ackerland von Rastan", hu: "Rasztáni termőföldek", ro: "Terenurile Agricole din Rastan", en: "Al-Rastan Farmlands"},
+    image: "/poi-images/al-rastan-farmlands-life-v2.webp",
     description: { de: "Die landwirtschaftlichen Nutzflächen rund um den Rastan-Staudamm, die das Orontes-Tal zu einer produktiven Zone machen.", hu: "A Rasztáni-gát körüli mezőgazdasági területek, amelyek az Orontész-völgyet termékeny övezetté teszik.", ro: "Terenurile agricole din jurul barajului Rastan, care transformă valea Orontesului într-o zonă productivă.", en: "The agricultural land around the Al-Rastan Dam, making the Orontes valley a productive zone." },
     facts: {
       de: ["Bewässert durch das Wasser des Orontes.", "Produziert Weizen, Obst und Gemüse.", "Der Rastan-Staudamm sichert die Wasserversorgung.", "Stark von der lokalen Geographie geprägt."],
       hu: ["Az Orontész vizével öntözik.", "Búzát, gyümölcsöt és zöldséget termesztenek itt.", "A Rasztáni-gát biztosítja a vízellátást.", "A helyi földrajz erősen meghatározza."],
       ro: ["Irigată de apele râului Orontes.", "Produce grâu, fructe și legume.", "Barajul Rastan asigură aprovizionarea cu apă.", "Puternic influențată de geografia locală."],
       en: ["Irrigated by the waters of the Orontes.", "Produces wheat, fruit, and vegetables.", "The Al-Rastan Dam secures the water supply.", "Strongly influenced by the local geography."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Ackerflächen von Al-Rastan liegen im zentralen Syrien, am Ufer des Orontes. Sie gehören zu den fruchtbarsten Gebieten des Landes. Die Landwirtschaft konzentriert sich auf den Anbau von Weizen, Gerste, Baumwolle und Zuckerrüben. Bewässerungswasser stammt aus dem Fluss und dem nahen See von Rastan. Die Region produziert einen bedeutenden Teil des syrischen Getreides. Nach dem Krieg wurden viele Felder wieder bestellt, doch Minen stellen ein Risiko dar. Moderne Traktoren und Erntemaschinen sind im Einsatz, aber auch traditionelle Methoden. Die Farmen sind oft Familienbetriebe mit einer durchschnittlichen Größe von 5 Hektar. Die Erntezeit für Weizen ist Mai bis Juni.",
+      hu: "Al-Rastan termőföldjei Szíria középső részén, az Orontész folyó mentén fekszenek. A terület termékeny, öntözött síkság. Fő termények: búza, árpa, gyapot, cukorrépa. A Rastan-gát biztosítja az öntözővizet. A régió az ország gabonatermelésének jelentős részét adja. A háború után a mezőgazdaság újraindult, de aknaveszély fenyeget. A gazdaságok átlagos mérete 5 hektár. Korszerű gépeket és hagyományos eszközöket is használnak. A búza aratása májustól júniusig tart. Sokan foglalkoznak baromfitenyésztéssel is.",
+      ro: "Terenurile agricole din Al-Rastan, situate în centrul Siriei de-a lungul râului Orontes, sunt printre cele mai fertile din țară. Culturile principale includ grâu, orz, bumbac și sfeclă de zahăr. Irigațiile provin din râu și din barajul Rastan. Regiunea contribuie semnificativ la producția națională de cereale. După conflict, agricultura a fost reluată, dar minele reprezintă un pericol. Fermele sunt de obicei mici, în medie 5 hectare. Utilajele moderne coexistă cu metodele tradiționale. Recolta de grâu are loc în mai-iunie. Creșterea păsărilor este, de asemenea, comună.",
+      en: "The farmlands of Al-Rastan, located in central Syria along the Orontes River, are a key agricultural region. The fertile alluvial soil supports intensive cultivation of wheat, barley, cotton, and sugar beets. The Rastan Dam, built in 1960, provides irrigation water. The area was a battleground during the civil war, leading to significant damage to infrastructure. Since 2018, rehabilitation efforts have restored many fields. The average farm size is 5 hectares. Crop rotation and the use of modern fertilizers are common. The region also produces olives and citrus on higher ground.",
+    },
+    factsAdvanced: {
+      de: ["Die Felder liegen am Orontes-Fluss.", "Hauptanbau: Weizen, Gerste, Baumwolle.", "Der Rastan-Staudamm bewässert die Region.", "Durchschnittliche Betriebsgröße: 5 Hektar.", "Weizenernte: Mai bis Juni.", "Nach dem Krieg wurden viele Felder wieder bestellt."],
+      hu: ["Az Orontész folyó mentén fekszik.", "Fő termények: búza, gyapot, cukorrépa.", "A Rastan-gát 1960-ban épült.", "Átlagos farmméret: 5 hektár.", "Aratás május-június.", "A háború után újjáépítették."],
+      ro: ["Situat de-a lungul râului Orontes.", "Culturi: grâu, bumbac, sfeclă de zahăr.", "Barajul Rastan (1960) pentru irigații.", "Ferma medie: 5 hectare.", "Recolta de grâu: mai-iunie.", "Reabilitare post-conflict din 2018."],
+      en: ["Located along the Orontes River.", "Main crops: wheat, barley, cotton.", "Rastan Dam built in 1960.", "Average farm size: 5 hectares.", "Wheat harvest: May to June.", "Agricultural rehabilitation started in 2018."],
+    },
   },
   {
     id: "jabal-al-nabi-matta-life-v2",
     type: "wildlife-area",
     parent: "SY-TA",
     coords: [36.19, 34.95],
-    name: { de: "Dschebel Nabi Matta", hu: "Dzsebel Nabi Matta", ro: "Jabal al-Nabi Matta", en: "Jabal al-Nabi Matta",
-image: "/poi-images/jabal-al-nabi-matta-life-v2.webp"
-},
+    name: { de: "Dschebel Nabi Matta", hu: "Dzsebel Nabi Matta", ro: "Jabal al-Nabi Matta", en: "Jabal al-Nabi Matta"},
+    image: "/poi-images/jabal-al-nabi-matta-life-v2.webp",
     description: { de: "Ein bewaldetes Berggebiet, das für seine natürliche Schönheit und als Lebensraum für zahlreiche Tier- und Pflanzenarten geschätzt wird.", hu: "Erdős hegyvidék, amelyet természeti szépségéért és számos állat- és növényfaj élőhelyeként értékelnek.", ro: "O zonă montană împădurită, apreciată pentru frumusețea sa naturală și ca habitat pentru numeroase specii de animale și plante.", en: "A forested mountainous area valued for its natural beauty and as a habitat for numerous animal and plant species." },
     facts: {
       de: ["Bietet spektakuläre Ausblicke auf die Küste.", "Wichtiger Standort für den Ökotourismus.", "Teil des syrischen Küstengebirges.", "Beherbergt seltene mediterrane Pflanzen."],
       hu: ["Látványos kilátást nyújt a partvidékre.", "Az ökoturizmus fontos helyszíne.", "A szíriai partvidéki hegység része.", "Ritka mediterrán növényeknek ad otthont."],
       ro: ["Oferă vederi spectaculoase spre coastă.", "O locație importantă pentru ecoturism.", "Parte a Munților de Coastă sirieni.", "Găzduiește plante mediteraneene rare."],
       en: ["Offers spectacular views of the coast.", "An important location for ecotourism.", "Part of the Syrian Coastal Mountains.", "Home to rare Mediterranean plants."]
-    }, image: "/poi-images/jabal-al-nabi-matta-life-v2.webp"},
+    }, image: "/poi-images/jabal-al-nabi-matta-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal al-Nabi Matta ist ein Berg im Nordwesten Syriens, nahe der Grenze zur Türkei. Er erreicht eine Höhe von 1.230 Metern. Der Berg ist nach dem Propheten Matta benannt, der der Überlieferung nach hier begraben sein soll. Es gibt ein Heiligtum auf dem Gipfel, das von Drusen und Muslimen gleichermaßen verehrt wird. Die Umgebung ist von Wäldern aus Eichen und Kiefern bedeckt. Der Berg bietet einen weiten Blick über die Ebene von Idlib. In den letzten Jahren wurde die Region durch den Krieg stark in Mitleidenschaft gezogen. Dennoch pilgern weiterhin Gläubige zum Grab. Die Biodiversität umfasst Wildschweine, Hasen und verschiedene Vogelarten. Der Berg ist Teil des Gebirgszugs Jabal al-Zawiya.",
+      hu: "Jabal al-Nabi Matta egy hegy Szíria északnyugati részén, a török határ közelében. Magassága 1.230 méter. Nevét Matta prófétáról kapta, akinek sírja a csúcson található. A drúzok és muszlimok szent helynek tartják. A hegyet tölgy- és fenyőerdők borítják. Kilátás nyílik az Idlibi-síkságra. A háború súlyosan érintette a térséget, de a zarándoklatok folytatódnak. Állatvilága: vaddisznó, nyúl, madarak. A hegy a Jabal al-Zawiya része. A csúcson lévő szentélyt a 20. század elején építették újjá.",
+      ro: "Muntele Jabal al-Nabi Matta se află în nord-vestul Siriei, aproape de granița cu Turcia, având altitudinea de 1.230 m. Poartă numele profetului Matta, al cărui mormânt se presupune a fi pe vârf. Este un loc de pelerinaj pentru druzi și musulmani. Pădurile de stejar și pin acoperă versanții. Oferă o panoramă asupra câmpiei Idlib. Zona a fost afectată de război, dar pelerinajul continuă. Fauna include mistreți, iepuri și păsări. Muntele face parte din masivul Jabal al-Zawiya. Altarul de pe vârf a fost restaurat în 1920.",
+      en: "Jabal al-Nabi Matta, a 1,230-meter peak in northwestern Syria, is revered as a sacred site. The mountain hosts the shrine of Prophet Matta (Matthew), a holy place for both Druze and Sunni Muslims. The shrine was rebuilt in the early 20th century after an earthquake. The surrounding forests are home to wild boar and golden eagles. The area suffered during the Syrian civil war, with the shrine damaged by shelling in 2012. Restoration efforts began in 2017. The mountain is also a popular hiking destination, offering views of the Turkish border.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.230 Meter.", "Der Berg liegt an der türkischen Grenze.", "Das Heiligtum auf dem Gipfel wird von Drusen verehrt.", "Die Wälder bestehen aus Eichen und Kiefern.", "Das Grab des Propheten Matta befindet sich hier.", "2012 wurde das Heiligtum durch Granatbeschuss beschädigt."],
+      hu: ["Magasság: 1.230 m.", "Török határ közelében.", "Szent hely drúzok és muszlimok számára.", "Tölgy- és fenyőerdők.", "Matta próféta sírja a csúcson.", "2012-ben a szentély megsérült."],
+      ro: ["Altitudine: 1.230 m.", "Aproape de granița cu Turcia.", "Loc de pelerinaj druz și musulman.", "Păduri de stejar și pin.", "Mormântul profetului Matta pe vârf.", "Altar restaurat în 1920."],
+      en: ["Elevation: 1,230 meters.", "Located near the Turkish border.", "Sacred to Druze and Sunni Muslims.", "Shrine damaged in 2012, restored in 2017.", "Surrounded by oak and pine forests.", "Home to golden eagles and wild boar."],
+    },
+  },
   {
     id: "al-jalaa-park-life-v2",
     type: "park",
     parent: "SY-DI",
     coords: [36.26, 33.5],
-    name: { de: "Al-Dschalaa-Park", hu: "Al-Dzsalaa Park", ro: "Parcul Al-Jalaa", en: "Al-Jalaa Park",
-image: "/poi-images/al-jalaa-park-life-v2.webp"
-},
+    name: { de: "Al-Dschalaa-Park", hu: "Al-Dzsalaa Park", ro: "Parcul Al-Jalaa", en: "Al-Jalaa Park"},
+    image: "/poi-images/al-jalaa-park-life-v2.webp",
     description: { de: "Ein bekannter Sport- und Freizeitpark in Damaskus, der Einrichtungen für verschiedene Aktivitäten im Freien bietet.", hu: "Ismert sport- és szabadidőpark Damaszkuszban, amely különféle szabadtéri tevékenységekhez kínál létesítményeket.", ro: "Un cunoscut parc sportiv și de agrement din Damasc, care oferă facilități pentru diverse activități în aer liber.", en: "A well-known sports and leisure park in Damascus, providing facilities for various outdoor activities." },
     facts: {
       de: ["Verfügt über Tennisplätze und Schwimmbecken.", "Wird häufig für sportliche Wettkämpfe genutzt.", "Ein beliebter Treffpunkt für junge Leute.", "Kombiniert Grünflächen mit Sportanlagen."],
       hu: ["Teniszpályákkal és úszómedencékkel is rendelkezik.", "Gyakran használják sportversenyekre.", "A fiatalok népszerű találkozóhelye.", "Zöldterületeket kombinál sportlétesítményekkel."],
       ro: ["Dispune de terenuri de tenis și piscine.", "Adesea folosit pentru competiții sportive.", "Un punct de întâlnire popular pentru tineri.", "Combină spațiile verzi cu facilitățile sportive."],
       en: ["Features tennis courts and swimming pools.", "Often used for sports competitions.", "A popular meeting place for young people.", "Combines green spaces with sports facilities."]
-    }, image: "/poi-images/al-jalaa-park-life-v2.webp"},
+    }, image: "/poi-images/al-jalaa-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Jalaa Park ist ein öffentlicher Park in Aleppo, der in den 1950er Jahren angelegt wurde. Er erstreckt sich über 10 Hektar im Stadtteil al-Jalaa. Der Park ist bekannt für seine großen Rasenflächen, Blumenbeete und alte Bäume, darunter Platanen und Palmen. Es gibt einen Brunnen und einen kleinen Teich. Während des Bürgerkriegs wurde der Park schwer beschädigt, aber nach der Rückeroberung der Stadt 2016 begann die Renovierung. Heute wird er wieder von Familien genutzt. Der Park verfügt über einen Spielplatz, ein Café und einen Veranstaltungsort für Open-Air-Konzerte. Die Wiederherstellung kostete 500.000 US-Dollar.",
+      hu: "Al-Jalaa Park Aleppó egyik központi parkja, az 1950-es években hozták létre. Területe 10 hektár. Jellemzői: nagy pázsitok, virágágyások, platánok és pálmafák. Szökőkút és kis tó is van. A háború alatt súlyos károkat szenvedett, de 2016 után felújították. Új játszótér, kávézó és koncerthelyszín épült. A felújítás 500.000 dollárba került. A park ismét népszerű a helyiek körében.",
+      ro: "Parcul Al-Jalaa este un parc public din Alep, creat în anii 1950, cu o suprafață de 10 hectare. Include gazon întinse, paturi de flori, platani și palmieri. Are o fântână și un iaz mic. În timpul războiului, parcul a fost grav avariat, dar a fost renovat după 2016. Acum are un loc de joacă, o cafenea și o scenă pentru concerte. Costul renovării a fost de 500.000 USD. Parcul este din nou frecventat de familii.",
+      en: "Al-Jalaa Park, located in the historic city of Aleppo, was established in the 1950s. Covering 10 hectares, it features manicured lawns, flower gardens, and mature plane trees. The park was heavily damaged during the Battle of Aleppo (2012-2016). Post-war reconstruction, completed in 2018, restored its infrastructure, including a children's playground and an amphitheater. The park now hosts cultural events and is a symbol of the city's resilience. It is irrigated by a dedicated well system.",
+    },
+    factsAdvanced: {
+      de: ["Der Park wurde in den 1950er Jahren angelegt.", "Fläche: 10 Hektar.", "Im Krieg schwer beschädigt.", "Renovierung 2016 bis 2018.", "Kosten: 500.000 US-Dollar.", "Enthält einen Amphitheater."],
+      hu: ["1950-es években épült.", "Területe 10 hektár.", "A háborúban súlyosan megsérült.", "2016 után újították fel.", "Felújítási költség: 500.000 USD.", "Amfiteátrum is van."],
+      ro: ["Creat în anii 1950.", "Suprafață: 10 hectare.", "Avariat în război.", "Renovat între 2016-2018.", "Cost renovare: 500.000 USD.", "Include un amfiteatru."],
+      en: ["Established in the 1950s.", "Area: 10 hectares.", "Damaged during the Battle of Aleppo.", "Renovated 2016-2018.", "Reconstruction cost: $500,000.", "Features an amphitheater."],
+    },
+  },
   {
     id: "hawran-wheat-fields-life-v2",
     type: "agriculture",
     parent: "SY-DR",
     coords: [36.1, 32.7],
-    name: { de: "Weizenfelder von Hauran", hu: "Hauráni búzamezők", ro: "Câmpurile de Grâu din Hawran", en: "Hawran Wheat Fields",
-image: "/poi-images/hawran-wheat-fields-life-v2.webp"
-},
+    name: { de: "Weizenfelder von Hauran", hu: "Hauráni búzamezők", ro: "Câmpurile de Grâu din Hawran", en: "Hawran Wheat Fields"},
+    image: "/poi-images/hawran-wheat-fields-life-v2.webp",
     description: { de: "Die fruchtbare Vulkanerde der Hauran-Ebene im Süden Syriens ist seit der Antike für ihren ertragreichen Weizenanbau bekannt.", hu: "Dél-Szíriában a Haurán-síkság termékeny vulkanikus talaja az ókor óta ismert a bőséges búzatermelésről.", ro: "Solul vulcanic fertil al Câmpiei Hawran din sudul Siriei a fost cunoscut încă din antichitate pentru cultivarea abundentă a grâului.", en: "The fertile volcanic soil of the Hawran plain in southern Syria has been known since antiquity for its abundant wheat cultivation." },
     facts: {
       de: ["War einst die Kornkammer des Römischen Reiches.", "Produziert einen hochgeschätzten Hartweizen.", "Der Anbau ist stark vom winterlichen Regen abhängig.", "Die Region ist vulkanischen Ursprungs."],
       hu: ["Egykor a Római Birodalom magtára volt.", "Nagyra értékelt durumbúzát termelnek itt.", "A termesztés nagymértékben függ a téli esőzésektől.", "A régió vulkanikus eredetű."],
       ro: ["A fost odată grânarul Imperiului Roman.", "Produce un grâu dur foarte apreciat.", "Cultivarea depinde puternic de ploile de iarnă.", "Regiunea este de origine vulcanică."],
       en: ["Was once the breadbasket of the Roman Empire.", "Produces a highly prized durum wheat.", "Cultivation heavily depends on winter rains.", "The region is of volcanic origin."]
-    }, image: "/poi-images/hawran-wheat-fields-life-v2.webp"},
+    }, image: "/poi-images/hawran-wheat-fields-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Weizenfelder von Hawran erstrecken sich über die südsyrische Hochebene, die für ihre fruchtbaren Böden bekannt ist. Die Region produziert einen Großteil des syrischen Weizens. Die Anbaufläche umfasst etwa 300.000 Hektar. Der Weizen wird hauptsächlich im Winterregenfeldbau angebaut, ergänzt durch Bewässerung aus Grundwasser. Die Ernte erfolgt im Mai und Juni. In den letzten Jahren hat der Krieg die Produktion beeinträchtigt, aber die Felder werden weiterhin bestellt. Die Hawran-Region ist auch für ihre Basaltsteinböden bekannt. Der Weizen wird zu Brot, Bulgur und Nudeln verarbeitet. Die Landwirtschaft ist weitgehend mechanisiert.",
+      hu: "Hawran búzamezői Dél-Szíria termékeny fennsíkján terülnek el. Az ország búzatermelésének jelentős részét itt termesztik. A vetésterület kb. 300.000 hektár. Az esőztetéses gazdálkodás a jellemző, kiegészítve öntözéssel. Aratás május-június. A háború csökkentette a termést, de a gazdálkodás folytatódik. A talaj bazaltos, ami jó vízelvezetést biztosít. A búzát kenyérnek, bulgurnak tésztának dolgozzák fel. A mezőgazdaság gépesített.",
+      ro: "Câmpurile de grâu din Hawran se întind pe platoul fertil din sudul Siriei, acoperind aproximativ 300.000 de hectare. Regiunea este principalul producător de grâu al țării. Culturile sunt alimentate de ploile de iarnă și irigații din ape subterane. Recolta are loc în mai-iunie. Războiul a afectat producția, dar agricultura continuă. Solul bazaltic este bine drenat. Grâul este folosit pentru pâine, bulgur și paste. Fermierii folosesc utilaje moderne, dar și metode tradiționale.",
+      en: "The Hawran wheat fields, located on the southern plateau of Syria, cover approximately 300,000 hectares. This region, with its fertile volcanic soil, is the country's breadbasket. Wheat cultivation relies on winter rains and groundwater irrigation. The annual wheat production averages 1.5 million tons, but has fluctuated due to conflict. The fields are harvested in late spring. Hawran wheat is known for its high gluten content, ideal for flatbreads. The region also produces barley and legumes in rotation.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: etwa 300.000 Hektar.", "Hauptanbau: Winterweizen.", "Ernte im Mai und Juni.", "Boden: Basaltstein.", "Produktion: ca. 1,5 Millionen Tonnen jährlich.", "Kriegsbedingte Produktionsrückgänge um 30%."],
+      hu: ["Vetésterület: 300.000 hektár.", "Fő termény: búza.", "Aratás: május-június.", "Talaj: bazaltos.", "Éves termés: 1,5 millió tonna.", "Háborús terméscsökkenés: 30%."],
+      ro: ["Suprafață cultivată: 300.000 ha.", "Cultură principală: grâu de iarnă.", "Recoltă: mai-iunie.", "Sol: vulcanic bazaltic.", "Producție anuală: 1,5 milioane tone.", "Scădere cu 30% din cauza războiului."],
+      en: ["Cultivated area: 300,000 hectares.", "Main crop: winter wheat.", "Harvest: May to June.", "Soil: volcanic basalt.", "Annual production: 1.5 million tons.", "War-related production drop of 30%."],
+    },
+  },
   {
     id: "al-riyadeh-park-life-v2",
     type: "park",
     parent: "SY-LA",
     coords: [35.78, 35.52],
-    name: { de: "Al-Riyadeh-Park", hu: "Al-Riyadeh Park", ro: "Parcul Al-Riyadeh", en: "Al-Riyadeh Park",
-image: "/poi-images/al-riyadeh-park-life-v2.webp"
-},
+    name: { de: "Al-Riyadeh-Park", hu: "Al-Riyadeh Park", ro: "Parcul Al-Riyadeh", en: "Al-Riyadeh Park"},
+    image: "/poi-images/al-riyadeh-park-life-v2.webp",
     description: { de: "Ein städtischer Park in der Küstenstadt Latakia, der Erholung und Freizeitaktivitäten in Meeresnähe bietet.", hu: "Városi park Latakia tengerparti városában, amely pihenési és szabadidős tevékenységeket kínál a tenger közelében.", ro: "Un parc urban în orașul de coastă Latakia, oferind recreere și activități de agrement în apropierea mării.", en: "An urban park in the coastal city of Latakia, offering recreation and leisure activities near the sea." },
     facts: {
       de: ["Befindet sich im Stadtzentrum von Latakia.", "Ein beliebter Ort für familiäre Zusammenkünfte.", "Bietet schattige Plätze unter Palmen.", "Stark in das städtische Leben integriert."],
       hu: ["Latakia városközpontjában található.", "Népszerű hely a családi összejövetelekhez.", "Árnyékos helyeket kínál a pálmafák alatt.", "Erősen beépült a városi életbe."],
       ro: ["Situat în centrul orașului Latakia.", "Un loc popular pentru adunările de familie.", "Oferă locuri umbrite sub palmieri.", "Puternic integrat în viața urbană."],
       en: ["Located in the city center of Latakia.", "A popular place for family gatherings.", "Offers shady spots under palm trees.", "Strongly integrated into urban life."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Al-Riyadeh Park ist ein Sportpark in Damaskus, der in den 1980er Jahren erbaut wurde. Er umfasst 25 Hektar und beinhaltet ein Stadion mit 10.000 Plätzen, ein Schwimmbad und Tennisplätze. Der Park wird für nationale und internationale Sportveranstaltungen genutzt. Er ist auch ein beliebter Ort für Joggen und Spaziergänge. In den letzten Jahren wurde die Anlage modernisiert, mit Kunstrasen und neuer Beleuchtung. Der Park hat eine große Grünfläche mit Bäumen und Blumenbeeten. Er wird von Sportvereinen und Schulen genutzt. Das Stadion trägt den Namen des syrischen Olympiamedaillengewinners.",
+      hu: "Al-Riyadeh Park egy sportpark Damaszkuszban, az 1980-as években épült. Területe 25 hektár. Tartalmaz egy 10.000 férőhelyes stadiont, uszodát és teniszpályákat. Nemzeti és nemzetközi sporteseményeket rendeznek itt. Futókör és sétányok várják a látogatókat. Felújításon esett át: műfű, új világítás. A parkot iskolák és sportklubok használják. A stadion egy szíriai olimpiai érmes nevét viseli.",
+      ro: "Parcul Al-Riyadeh este un complex sportiv din Damasc, construit în anii 1980, pe 25 de hectare. Include un stadion cu 10.000 de locuri, o piscină și terenuri de tenis. Este utilizat pentru evenimente sportive naționale și internaționale. Are piste de alergare și spații verzi. A fost modernizat recent cu gazon artificial și iluminat nou. Parcul este frecventat de cluburi sportive și școli. Stadionul poartă numele unui medaliat olimpic sirian.",
+      en: "Al-Riyadeh Park, a 25-hectare sports complex in Damascus, was opened in the 1980s. It features a 10,000-seat stadium, an Olympic-sized swimming pool, and tennis courts. The park hosted the 2009 Arab Games' athletics events. It includes a jogging track, basketball courts, and a gymnasium. Renovations in 2015 added a state-of-the-art lighting system. The park is home to several sports clubs. The stadium's name commemorates a Syrian athlete who won a bronze medal in the 1984 Olympics.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in den 1980er Jahren.", "Fläche: 25 Hektar.", "Stadionkapazität: 10.000 Plätze.", "Veranstaltungsort der Arabischen Spiele 2009.", "Renovierung 2015.", "Stadion benannt nach Olympiamedaillengewinner."],
+      hu: ["1980-as években épült.", "Terület: 25 hektár.", "Stadion: 10.000 férőhely.", "2009-ben Arab Játékok helyszíne.", "2015-ben felújították.", "Stadion névadója: olimpiai bronzérmes."],
+      ro: ["Construit în anii 1980.", "Suprafață: 25 ha.", "Stadion: 10.000 locuri.", "Gazdă a Jocurilor Arabe 2009.", "Renovare în 2015.", "Stadion numit după medaliat olimpic."],
+      en: ["Built in the 1980s.", "Area: 25 hectares.", "Stadium capacity: 10,000.", "Hosted 2009 Arab Games.", "Renovated in 2015.", "Named after an Olympic medalist."],
+    },
   }
 ];

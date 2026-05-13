@@ -221,9 +221,8 @@ image: "/poi-images/kakaoplantage-sampaka-life-v2.webp"
       de: "Kaffeegärten von Moca",
       hu: "Mocai kávékertek",
       ro: "Grădinile de cafea din Moca",
-      en: "Moca Coffee Gardens",
-image: "/poi-images/kaffeegaerten-moca-life-v2.webp"
-},
+      en: "Moca Coffee Gardens"},
+    image: "/poi-images/kaffeegaerten-moca-life-v2.webp",
     description: {
       de: "Das kühle Hochland von Moca bietet ideale Bedingungen für den Anbau von Kaffee auf vulkanischen Böden.",
       hu: "Moca hűvös felföldje ideális feltételeket biztosít a kávétermesztéshez a vulkáni talajon.",
@@ -256,9 +255,8 @@ image: "/poi-images/kaffeegaerten-moca-life-v2.webp"
       de: "Palmöl-Farmen von Mbini",
       hu: "Mbini pálmaolaj-farmok",
       ro: "Fermele de ulei de palmier din Mbini",
-      en: "Mbini Palm Oil Farms",
-image: "/poi-images/palmoel-farmen-mbini-life-v2.webp"
-},
+      en: "Mbini Palm Oil Farms"},
+    image: "/poi-images/palmoel-farmen-mbini-life-v2.webp",
     description: {
       de: "Weite Gebiete um Mbini werden für die Gewinnung von Palmöl genutzt, einem wichtigen lokalen Agrarprodukt.",
       hu: "Mbini körüli hatalmas területeket pálmaolaj előállítására használnak, amely fontos helyi mezőgazdasági termék.",
@@ -291,9 +289,8 @@ image: "/poi-images/palmoel-farmen-mbini-life-v2.webp"
       de: "Maniok-Felder von Evinayong",
       hu: "Evinayongi maniokmezők",
       ro: "Câmpurile de manioc din Evinayong",
-      en: "Evinayong Cassava Fields",
-image: "/poi-images/maniokanbau-evinayong-life-v2.webp"
-},
+      en: "Evinayong Cassava Fields"},
+    image: "/poi-images/maniokanbau-evinayong-life-v2.webp",
     description: {
       de: "Die Region um Evinayong ist das Zentrum für den Maniokanbau, das Grundnahrungsmittel der lokalen Bevölkerung.",
       hu: "Evinayong régiója a manioktermesztés központja, amely a helyi lakosság alapvető élelmiszere.",
@@ -326,9 +323,8 @@ image: "/poi-images/maniokanbau-evinayong-life-v2.webp"
       de: "Bananenhaine von Baney",
       hu: "Baneyi banánligetek",
       ro: "Livezile de banani din Baney",
-      en: "Baney Banana Groves",
-image: "/poi-images/bananenhaine-baney-life-v2.webp"
-},
+      en: "Baney Banana Groves"},
+    image: "/poi-images/bananenhaine-baney-life-v2.webp",
     description: {
       de: "In den fruchtbaren Gebieten von Baney wachsen verschiedene Bananen- und Kochbananensorten für den lokalen Markt.",
       hu: "Baney termékeny területein különféle banán- és főzőbanánfajták nőnek a helyi piac számára.",
@@ -361,9 +357,8 @@ image: "/poi-images/bananenhaine-baney-life-v2.webp"
       de: "Nationalpark von Malabo (Freizeitpark)",
       hu: "Malabói Nemzeti Park (szabadidőpark)",
       ro: "Parcul Național din Malabo (parc de agrement)",
-      en: "National Park of Malabo (Leisure Park)",
-image: "/poi-images/nationalpark-malabo-kids-life-v2.webp"
-},
+      en: "National Park of Malabo (Leisure Park)"},
+    image: "/poi-images/nationalpark-malabo-kids-life-v2.webp",
     description: {
       de: "Ein großer, modern gestalteter Stadtpark in Malabo mit Grünflächen, Seen und Spielplätzen für Familien.",
       hu: "Egy nagy, modern kialakítású városi park Malabóban, zöldfelületekkel, tavakkal és játszóterekkel a családok számára.",
@@ -396,9 +391,8 @@ image: "/poi-images/nationalpark-malabo-kids-life-v2.webp"
       de: "Kinderpark an der Bata-Promenade",
       hu: "Bata sétány gyerekpark",
       ro: "Parcul copiilor de pe faleza din Bata",
-      en: "Bata Promenade Kids Park",
-image: "/poi-images/promenaden-spielplatz-bata-life-v2.webp"
-},
+      en: "Bata Promenade Kids Park"},
+    image: "/poi-images/promenaden-spielplatz-bata-life-v2.webp",
     description: {
       de: "Ein bunter Spielplatz an der Uferpromenade von Bata, der Kindern einen sicheren Ort zum Spielen am Meer bietet.",
       hu: "Színes játszótér Bata tengerparti sétányán, amely biztonságos helyet kínál a gyerekeknek a játékhoz a tengernél.",
@@ -431,9 +425,8 @@ image: "/poi-images/promenaden-spielplatz-bata-life-v2.webp"
       de: "Abenteuerspielplatz Sipopo",
       hu: "Sipopo kalandjátszótér",
       ro: "Locul de joacă de aventură Sipopo",
-      en: "Sipopo Adventure Playground",
-image: "/poi-images/freizeitpark-sipopo-life-v2.webp"
-},
+      en: "Sipopo Adventure Playground"},
+    image: "/poi-images/freizeitpark-sipopo-life-v2.webp",
     description: {
       de: "In der luxuriösen Zone von Sipopo gibt es gepflegte Freizeitanlagen für Kinder in Strandnähe.",
       hu: "Sipopo luxusövezetében jól karbantartott szabadidős létesítmények találhatók a gyerekek számára a tengerpart közelében.",
@@ -466,9 +459,8 @@ image: "/poi-images/freizeitpark-sipopo-life-v2.webp"
       de: "Vogelreservat Rio Campo",
       hu: "Rio Campo madárrezervátum",
       ro: "Rezervația de păsări Rio Campo",
-      en: "Rio Campo Bird Sanctuary",
-image: "/poi-images/vogelreservat-riocampo-life-v2.webp"
-},
+      en: "Rio Campo Bird Sanctuary"},
+    image: "/poi-images/vogelreservat-riocampo-life-v2.webp",
     description: {
       de: "Das Mündungsgebiet des Rio Campo im Norden bietet zahlreichen Zugvögeln und einheimischen Arten Schutz.",
       hu: "A Rio Campo északi torkolatvidéke számos vándormadárnak és őshonos fajnak nyújt menedéket.",
@@ -501,9 +493,8 @@ image: "/poi-images/vogelreservat-riocampo-life-v2.webp"
       de: "Seekuh-Lagunen von Cogo",
       hu: "Cogói manátusz-lagúnák",
       ro: "Lagunele lamantinilor din Cogo",
-      en: "Cogo Manatee Lagoons",
-image: "/poi-images/seekuh-habitat-cogo-life-v2.webp"
-},
+      en: "Cogo Manatee Lagoons"},
+    image: "/poi-images/seekuh-habitat-cogo-life-v2.webp",
     description: {
       de: "In den ruhigen Gewässern des Muni-Ästuars bei Cogo leben afrikanische Seekühe in den Mangroven.",
       hu: "A Cogó melletti Muni-torkolat nyugodt vizeiben afrikai manátuszok élnek a mangrovék között.",
@@ -536,9 +527,8 @@ image: "/poi-images/seekuh-habitat-cogo-life-v2.webp"
       de: "Gemüsegärten von Mongomo",
       hu: "Mongomói zöldségeskertek",
       ro: "Grădinile de legume din Mongomo",
-      en: "Mongomo Vegetable Gardens",
-image: "/poi-images/gemuesezentrum-mongomo-life-v2.webp"
-},
+      en: "Mongomo Vegetable Gardens"},
+    image: "/poi-images/gemuesezentrum-mongomo-life-v2.webp",
     description: {
       de: "Die fruchtbaren Böden um Mongomo werden intensiv für den Anbau von Tomaten, Paprika und anderem Gemüse genutzt.",
       hu: "Mongomo körüli termékeny talajt intenzíven használják paradicsom, paprika és egyéb zöldségek termesztésére.",
@@ -571,9 +561,8 @@ image: "/poi-images/gemuesezentrum-mongomo-life-v2.webp"
       de: "Zuckerrohr-Felder von Añisoc",
       hu: "Añisoci cukornádmezők",
       ro: "Câmpurile de trestie de zahăr din Añisoc",
-      en: "Añisoc Sugarcane Fields",
-image: "/poi-images/zuckerrohr-anisoc-life-v2.webp"
-},
+      en: "Añisoc Sugarcane Fields"},
+    image: "/poi-images/zuckerrohr-anisoc-life-v2.webp",
     description: {
       de: "Rund um Añisoc gibt es bedeutende Flächen für den Zuckerrohranbau, der oft zur Herstellung lokaler Getränke dient.",
       hu: "Añisoc körül jelentős területek vannak a cukornádtermesztésre, amelyet gyakran helyi italok készítésére használnak.",
@@ -606,9 +595,8 @@ image: "/poi-images/zuckerrohr-anisoc-life-v2.webp"
       de: "Jugendzentrum Malabo",
       hu: "Malabói ifjúsági központ",
       ro: "Centrul pentru tineret din Malabo",
-      en: "Malabo Youth Center",
-image: "/poi-images/jugendzentrum-malabo-life-v2.webp"
-},
+      en: "Malabo Youth Center"},
+    image: "/poi-images/jugendzentrum-malabo-life-v2.webp",
     description: {
       de: "Ein Ort für Bildung und Freizeit, der speziell auf die Bedürfnisse von Kindern und Jugendlichen in der Hauptstadt zugeschnitten ist.",
       hu: "Oktatási és szabadidős helyszín, amely kifejezetten a fővárosi gyermekek és fiatalok igényeihez igazodik.",
@@ -641,9 +629,8 @@ image: "/poi-images/jugendzentrum-malabo-life-v2.webp"
       de: "Strandspielplatz von Corisco",
       hu: "Corisco tengerparti játszótér",
       ro: "Locul de joacă de pe plaja din Corisco",
-      en: "Corisco Beach Playground",
-image: "/poi-images/strandspielplatz-corisco-life-v2.webp"
-},
+      en: "Corisco Beach Playground"},
+    image: "/poi-images/strandspielplatz-corisco-life-v2.webp",
     description: {
       de: "Auf der Insel Corisco gibt es speziell für Kinder eingerichtete Zonen an den weißen Sandstränden.",
       hu: "Corisco-szigeten kifejezetten gyerekeknek kialakított zónák találhatók a fehér homokos strandokon.",
@@ -677,9 +664,8 @@ image: "/poi-images/strandspielplatz-corisco-life-v2.webp"
       de: "Kinderfreizeitzentrum Ebebiyín",
       hu: "Ebebiyíni gyermek szabadidőközpont",
       ro: "Centrul de agrement pentru copii din Ebebiyín",
-      en: "Ebebiyín Kids Leisure Center",
-image: "/poi-images/kinderfreizeitzentrum-ebebiyin-life-v2.webp"
-},
+      en: "Ebebiyín Kids Leisure Center"},
+    image: "/poi-images/kinderfreizeitzentrum-ebebiyin-life-v2.webp",
     description: {
       de: "Eine städtische Einrichtung im Norden, die Freizeitaktivitäten und Spielmöglichkeiten für Kinder bietet.",
       hu: "Északi városi létesítmény, amely szabadidős tevékenységeket és játéklehetőségeket kínál gyermekeknek.",

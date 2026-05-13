@@ -11,9 +11,8 @@ export const poiExtraGuineabissauCitiesV2: POI[] = [
       de: "Bissau",
       hu: "Bissau",
       ro: "Bissau",
-      en: "Bissau",
-image: "/poi-images/bissau-cities-v2.webp"
-},
+      en: "Bissau"},
+    image: "/poi-images/bissau-cities-v2.webp",
     description: {
       de: "Bissau ist die Hauptstadt und größte Stadt von Guinea-Bissau, gelegen an der Mündung des Geba-Flusses in den Atlantik.",
       hu: "Bissau Bissau-Guinea fővárosa és legnagyobb városa, a Geba-folyó torkolatánál, az Atlanti-óceán partján fekszik.",
@@ -63,9 +62,8 @@ image: "/poi-images/bissau-cities-v2.webp"
       de: "Bafatá",
       hu: "Bafatá",
       ro: "Bafatá",
-      en: "Bafatá",
-image: "/poi-images/bafata-cities-v2.webp"
-},
+      en: "Bafatá"},
+    image: "/poi-images/bafata-cities-v2.webp",
     description: {
       de: "Bafatá ist eine wichtige Stadt im zentralen Guinea-Bissau, bekannt als Geburtsort des Unabhängigkeitshelden Amílcar Cabral.",
       hu: "Bafatá egy fontos város Közép-Bissau-Guineában, Amílcar Cabral függetlenségi hős szülőhelyeként ismert.",
@@ -93,7 +91,20 @@ image: "/poi-images/bafata-cities-v2.webp"
         "Is a significant center for the trade of peanuts and livestock.",
         "The birthplace of Amílcar Cabral is now a museum."
       ]
-    }, image: "/poi-images/bafata-cities-v2.webp"},
+    }, image: "/poi-images/bafata-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bafatá ist eine Stadt in Guinea-Bissau und Hauptstadt der gleichnamigen Region. Sie liegt am Ufer des Gêba-Flusses und ist ein bedeutendes landwirtschaftliches Zentrum. Die Region produziert vor allem Cashewnüsse, Reis und Erdnüsse. Die Stadt wurde im 18. Jahrhundert gegründet und hat sich zu einem wichtigen Handelsplatz entwickelt. Bafatá ist bekannt für seine koloniale Architektur und den lokalen Markt. Die Bevölkerungszahl wird auf rund 30.000 geschätzt. Die Stadt verfügt über einen Flughafen und ist ein Verkehrsknotenpunkt für die Umgebung.",
+      hu: "Bafatá város Bissau-Guineában, a Bafatá régió fővárosa. A Gêba folyó partján fekszik, és fontos mezőgazdasági központ. A régió elsősorban kesudiót, rizst és földimogyorót termel. A várost a 18. században alapították, és jelentős kereskedelmi központtá fejlődött. Bafatá híres gyarmati építészetéről és helyi piacáról. Lakossága körülbelül 30.000 fő. A város repülőtérrel rendelkezik, és közlekedési csomópont a környék számára.",
+      ro: "Bafatá este un oraș din Guinea-Bissau, capitala regiunii Bafatá. Este situat pe malul râului Gêba și este un important centru agricol. Regiunea produce în principal nuci de caju, orez și arahide. Orașul a fost fondat în secolul al XVIII-lea și a devenit un centru comercial important. Bafatá este cunoscut pentru arhitectura sa colonială și pentru piața locală. Populația este estimată la aproximativ 30.000 de locuitori. Orașul are un aeroport și constituie un nod de transport pentru zonă.",
+      en: "Bafatá is a city in Guinea-Bissau and the capital of the Bafatá Region. It lies on the banks of the Gêba River and is a major agricultural center. The region primarily produces cashew nuts, rice, and peanuts. The city was founded in the 18th century and has developed into an important trading hub. Bafatá is known for its colonial architecture and local market. The population is estimated at around 30,000. The city has an airport and serves as a transportation hub for the surrounding area.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 30.000", "Höhe über dem Meeresspiegel: 30 m", "Gründungsjahr: 18. Jahrhundert", "Fläche der Region: 5.914 km²", "Wichtigstes Exportprodukt: Cashewnüsse", "Anzahl der Gesundheitseinrichtungen: 2 Krankenhäuser"],
+      hu: ["Lakosság: kb. 30.000 fő", "Tengerszint feletti magasság: 30 m", "Alapítás éve: 18. század", "A régió területe: 5.914 km²", "Fő exportcikk: kesudió", "Kórházak száma: 2"],
+      ro: ["Populație: aproximativ 30.000", "Altitudine: 30 m", "Anul fondării: secolul al XVIII-lea", "Suprafața regiunii: 5.914 km²", "Principalul produs de export: nuci de caju", "Număr de spitale: 2"],
+      en: ["Population: approximately 30,000", "Elevation: 30 m (98 ft)", "Founded: 18th century", "Area of region: 5,914 km²", "Main export: cashew nuts", "Number of hospitals: 2"],
+    },
+  },
   {
     id: "gabu-cities-v2",
     type: "city",
@@ -103,9 +114,8 @@ image: "/poi-images/bafata-cities-v2.webp"
       de: "Gabú",
       hu: "Gabú",
       ro: "Gabú",
-      en: "Gabú",
-image: "/poi-images/gabu-cities-v2.webp"
-},
+      en: "Gabú"},
+    image: "/poi-images/gabu-cities-v2.webp",
     description: {
       de: "Gabú ist die größte Stadt im Osten Guinea-Bissaus und ein wichtiges Handelszentrum nahe der Grenze zu Guinea und Senegal.",
       hu: "Gabú Kelet-Bissau-Guinea legnagyobb városa, fontos kereskedelmi központ Guinea és Szenegál határának közelében.",
@@ -133,7 +143,19 @@ image: "/poi-images/gabu-cities-v2.webp"
         "The population is predominantly from the Fula ethnic group.",
         "A key transit point for cross-border goods."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Gabú ist eine Stadt in Guinea-Bissau und Hauptstadt der Region Gabú. Sie liegt im Osten des Landes nahe der Grenze zu Guinea und ist ein wichtiges Handelszentrum für landwirtschaftliche Produkte. Die Region produziert vor allem Cashewnüsse, Mais und Hirse. Gabú wurde im 19. Jahrhundert gegründet und hat eine multiethnische Bevölkerung, darunter Fulbe und Mandinka. Die Stadt verfügt über einen Wochenmarkt, der zahlreiche Händler anzieht. Gabú hat etwa 14.000 Einwohner und ist ein Knotenpunkt für den regionalen Verkehr.",
+      hu: "Gabú város Bissau-Guineában, a Gabú régió fővárosa. Az ország keleti részén, a guineai határ közelében fekszik, és fontos mezőgazdasági kereskedelmi központ. A régió kesudiót, kukoricát és kölest termel. Gabút a 19. században alapították, lakossága multietnikus, fulani és mandinka népek alkotják. A város heti piaca sok kereskedőt vonz. Gabú lakossága kb. 14.000 fő, és regionális közlekedési csomópont.",
+      ro: "Gabú este un oraș din Guinea-Bissau, capitala regiunii Gabú. Este situat în estul țării, aproape de granița cu Guineea, și este un important centru comercial pentru produse agricole. Regiunea produce nuci de caju, porumb și mei. Orașul a fost fondat în secolul al XIX-lea și are o populație multi-etnică, incluzând fulani și mandinka. Piața săptămânală atrage numeroși comercianți. Gabú are aproximativ 14.000 de locuitori și constituie un nod de transport regional.",
+      en: "Gabú is a city in Guinea-Bissau and the capital of the Gabú Region. Located in the eastern part of the country near the border with Guinea, it is an important trading center for agricultural products. The region produces cashew nuts, maize, and millet. Gabú was founded in the 19th century and has a multi-ethnic population including Fulbe and Mandinka. The city hosts a weekly market that attracts many traders. Gabú has about 14,000 inhabitants and is a regional transportation hub.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 14.000", "Höhe über dem Meeresspiegel: 20 m", "Gründungsjahr: 19. Jahrhundert", "Entfernung zur Hauptstadt Bissau: 200 km", "Anzahl der ethnischen Gruppen: über 5", "Jährliche Regenmenge: 1.200 mm"],
+      hu: ["Lakosság: kb. 14.000 fő", "Tengerszint feletti magasság: 20 m", "Alapítás éve: 19. század", "Távolság Bissautól: 200 km", "Etnikai csoportok száma: több mint 5", "Éves csapadékmennyiség: 1.200 mm"],
+      ro: ["Populație: aproximativ 14.000", "Altitudine: 20 m", "Anul fondării: secolul al XIX-lea", "Distanța până la Bissau: 200 km", "Număr de grupuri etnice: peste 5", "Precipitații anuale: 1.200 mm"],
+      en: ["Population: approximately 14,000", "Elevation: 20 m (66 ft)", "Founded: 19th century", "Distance to Bissau: 200 km", "Ethnic groups: over 5", "Annual rainfall: 1,200 mm"],
+    },
   },
   {
     id: "bissora-cities-v2",
@@ -144,9 +166,8 @@ image: "/poi-images/gabu-cities-v2.webp"
       de: "Bissora",
       hu: "Bissora",
       ro: "Bissora",
-      en: "Bissora",
-image: "/poi-images/bissora-cities-v2.webp"
-},
+      en: "Bissora"},
+    image: "/poi-images/bissora-cities-v2.webp",
     description: {
       de: "Bissora ist eine Stadt in der Oio-Region, nördlich der Hauptstadt Bissau gelegen.",
       hu: "Bissora egy város az Oio régióban, a fővárostól, Bissautól északra helyezkedik el.",
@@ -174,7 +195,20 @@ image: "/poi-images/bissora-cities-v2.webp"
         "A regional center for agriculture and local commerce.",
         "Houses a memorial to those killed in the colonial war."
       ]
-    }, image: "/poi-images/bissora-cities-v2.webp"},
+    }, image: "/poi-images/bissora-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bissora ist eine Stadt in Guinea-Bissau in der Region Oio. Sie liegt am Ufer des Cacheu-Flusses und ist ein bedeutendes Zentrum für den Reisanbau. Die Stadt wurde im 17. Jahrhundert als portugiesischer Handelsposten gegründet. Bissora hat eine reiche Geschichte, die mit dem Sklavenhandel verbunden ist. Heute ist die Landwirtschaft der wichtigste Wirtschaftszweig. Die Bevölkerung wird auf etwa 12.000 geschätzt. Bissora verfügt über einen kleinen Hafen und ist über die Straße mit der Hauptstadt verbunden.",
+      hu: "Bissora város Bissau-Guineában, az Oio régióban. A Cacheu folyó partján fekszik, és fontos rizstermesztő központ. A várost a 17. században portugál kereskedelmi állomásként alapították. Bissora gazdag történelemmel rendelkezik, amely a rabszolga-kereskedelemhez kapcsolódik. Ma a mezőgazdaság a fő gazdasági ág. Lakossága kb. 12.000 fő. Bissora kis kikötővel rendelkezik, és közúton kapcsolódik a fővároshoz.",
+      ro: "Bissora este un oraș din Guinea-Bissau, în regiunea Oio. Este situat pe malul râului Cacheu și este un important centru de cultivare a orezului. Orașul a fost fondat în secolul al XVII-lea ca post comercial portughez. Bissora are o istorie bogată legată de comerțul cu sclavi. Astăzi, agricultura este principala activitate economică. Populația este estimată la aproximativ 12.000 de locuitori. Bissora are un mic port și este conectată pe șosea cu capitala.",
+      en: "Bissora is a city in Guinea-Bissau in the Oio Region. It lies on the banks of the Cacheu River and is a major center for rice cultivation. The city was founded in the 17th century as a Portuguese trading post. Bissora has a rich history tied to the slave trade. Today, agriculture is the main economic activity. The population is estimated at about 12,000. Bissora has a small port and is connected by road to the capital.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 12.000", "Höhe über dem Meeresspiegel: 10 m", "Gründungsjahr: 17. Jahrhundert", "Flusslänge des Cacheu: 257 km", "Hauptanbauprodukt: Reis", "Anzahl der Schulen: 5"],
+      hu: ["Lakosság: kb. 12.000 fő", "Tengerszint feletti magasság: 10 m", "Alapítás éve: 17. század", "Cacheu folyó hossza: 257 km", "Fő termény: rizs", "Iskolák száma: 5"],
+      ro: ["Populație: aproximativ 12.000", "Altitudine: 10 m", "Anul fondării: secolul al XVII-lea", "Lungimea râului Cacheu: 257 km", "Produs principal: orez", "Număr de școli: 5"],
+      en: ["Population: approximately 12,000", "Elevation: 10 m (33 ft)", "Founded: 17th century", "Cacheu River length: 257 km", "Main crop: rice", "Number of schools: 5"],
+    },
+  },
   {
     id: "bolama-cities-v2",
     type: "city",
@@ -184,9 +218,8 @@ image: "/poi-images/bissora-cities-v2.webp"
       de: "Bolama",
       hu: "Bolama",
       ro: "Bolama",
-      en: "Bolama",
-image: "/poi-images/bolama-cities-v2.webp"
-},
+      en: "Bolama"},
+    image: "/poi-images/bolama-cities-v2.webp",
     description: {
       de: "Bolama ist die ehemalige Hauptstadt von Portugiesisch-Guinea und liegt auf der gleichnamigen Insel im Bijagós-Archipel.",
       hu: "Bolama Portugál-Guinea egykori fővárosa, a Bijagós-szigetcsoport azonos nevű szigetén fekszik.",
@@ -214,7 +247,20 @@ image: "/poi-images/bolama-cities-v2.webp"
         "Features numerous decaying colonial-era buildings in neoclassical style.",
         "Is known for its cashew nut production."
       ]
-    }, image: "/poi-images/bolama-cities-v2.webp"},
+    }, image: "/poi-images/bolama-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bolama ist eine Stadt auf einer gleichnamigen Insel in Guinea-Bissau und war früher die Hauptstadt des Landes. Sie liegt im Archipel der Bijagós-Inseln und hat historische Bedeutung als ehemalige portugiesische Kolonialhauptstadt. Die Stadt ist bekannt für ihre koloniale Architektur, darunter die Kathedrale von Bolama. Heute ist die Wirtschaft von Fischerei und Landwirtschaft geprägt. Die Bevölkerung beträgt etwa 5.000. Bolama ist per Fähre von Bissau erreichbar.",
+      hu: "Bolama város egy azonos nevű szigeten Bissau-Guineában, és az ország korábbi fővárosa volt. A Bijagós-szigetcsoportban található, történelmi jelentőségű, mint egykori portugál gyarmati főváros. Híres gyarmati építészetéről, köztük a bolamai székesegyházról. Ma a gazdaságot a halászat és a mezőgazdaság jellemzi. Lakossága kb. 5.000 fő. Bolama komppal érhető el Bissau-ból.",
+      ro: "Bolama este un oraș pe insula cu același nume din Guinea-Bissau și a fost fostă capitală a țării. Situat în arhipelagul Insulelor Bijagós, are semnificație istorică drept fostă capitală colonială portugheză. Orașul este cunoscut pentru arhitectura colonială, inclusiv Catedrala din Bolama. Astăzi, economia se bazează pe pescuit și agricultură. Populația este de aproximativ 5.000. Bolama este accesibilă cu feribotul din Bissau.",
+      en: "Bolama is a city on an island of the same name in Guinea-Bissau and was formerly the capital of the country. Located in the Bijagós Archipelago, it has historical significance as a former Portuguese colonial capital. The city is known for its colonial architecture, including the Bolama Cathedral. Today, the economy is based on fishing and agriculture. The population is about 5,000. Bolama is reachable by ferry from Bissau.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 5.000", "Hauptstadt von 1879 bis 1941", "Inselfläche: 65 km²", "Anzahl der Kolonialgebäude: über 20", "Höhe über dem Meeresspiegel: 5 m", "Fährverbindung nach Bissau: täglich"],
+      hu: ["Lakosság: kb. 5.000 fő", "Főváros 1879-től 1941-ig", "Sziget területe: 65 km²", "Gyarmati épületek száma: több mint 20", "Tengerszint feletti magasság: 5 m", "Kompiárat Bissau-ba: naponta"],
+      ro: ["Populație: aproximativ 5.000", "Capitală între 1879 și 1941", "Suprafața insulei: 65 km²", "Număr de clădiri coloniale: peste 20", "Altitudine: 5 m", "Feribot zilnic către Bissau"],
+      en: ["Population: approximately 5,000", "Capital from 1879 to 1941", "Island area: 65 km²", "Number of colonial buildings: over 20", "Elevation: 5 m (16 ft)", "Daily ferry to Bissau"],
+    },
+  },
   {
     id: "cacheu-cities-v2",
     type: "city",
@@ -224,9 +270,8 @@ image: "/poi-images/bolama-cities-v2.webp"
       de: "Cacheu",
       hu: "Cacheu",
       ro: "Cacheu",
-      en: "Cacheu",
-image: "/poi-images/cacheu-cities-v2.webp"
-},
+      en: "Cacheu"},
+    image: "/poi-images/cacheu-cities-v2.webp",
     description: {
       de: "Cacheu ist eine historische Stadt am Ufer des Cacheu-Flusses und eine der ältesten europäischen Siedlungen in Subsahara-Afrika.",
       hu: "Cacheu egy történelmi város a Cacheu-folyó partján, és a szubszaharai Afrika egyik legrégebbi európai települése.",
@@ -254,7 +299,20 @@ image: "/poi-images/cacheu-cities-v2.webp"
         "Houses an old Portuguese fort dating back to 1588.",
         "Located within the Cacheu River National Park, known for its mangroves."
       ]
-    }, image: "/poi-images/cacheu-cities-v2.webp"},
+    }, image: "/poi-images/cacheu-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cacheu ist eine Stadt in Guinea-Bissau an der Mündung des Cacheu-Flusses. Sie hat eine bedeutende Geschichte als Zentrum des portugiesischen Sklavenhandels. Die Stadt wurde im 16. Jahrhundert gegründet und beherbergt die historische Festung von Cacheu. Heute ist Cacheu ein wichtiges Fischereizentrum und bekannt für seine Mangrovenwälder. Die Bevölkerung wird auf etwa 10.000 geschätzt. Cacheu ist Teil des Cacheu-Fluss-Nationalparks, einem bedeutenden Naturschutzgebiet.",
+      hu: "Cacheu város Bissau-Guineában, a Cacheu folyó torkolatánál. Jelentős története van a portugál rabszolga-kereskedelem központjaként. A várost a 16. században alapították, és itt található a cacheui erőd. Ma Cacheu fontos halászati központ, és híres mangroveerdőiről. Lakossága kb. 10.000 fő. Cacheu része a Cacheu folyó Nemzeti Parknak, egy jelentős természetvédelmi területnek.",
+      ro: "Cacheu este un oraș din Guinea-Bissau la vărsarea râului Cacheu. Are o istorie importantă ca centru al comerțului portughez cu sclavi. Orașul a fost fondat în secolul al XVI-lea și găzduiește fortăreața istorică Cacheu. Astăzi, Cacheu este un important centru de pescuit și cunoscut pentru pădurile sale de mangrove. Populația este estimată la aproximativ 10.000. Cacheu face parte din Parcul Național al Râului Cacheu, o arie protejată importantă.",
+      en: "Cacheu is a city in Guinea-Bissau at the mouth of the Cacheu River. It has a significant history as a center of the Portuguese slave trade. The city was founded in the 16th century and houses the historic Cacheu Fortress. Today, Cacheu is an important fishing center and known for its mangrove forests. The population is estimated at about 10,000. Cacheu is part of the Cacheu River National Park, a major protected area.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 10.000", "Gründungsjahr: 16. Jahrhundert", "Fläche des Nationalparks: 886 km²", "Höhe über dem Meeresspiegel: 5 m", "Anzahl der Mangrovenarten: 8", "Entfernung zur Grenze des Senegal: 30 km"],
+      hu: ["Lakosság: kb. 10.000 fő", "Alapítás éve: 16. század", "Nemzeti park területe: 886 km²", "Tengerszint feletti magasság: 5 m", "Mangrovefajok száma: 8", "Távolság a szenegáli határtól: 30 km"],
+      ro: ["Populație: aproximativ 10.000", "Anul fondării: secolul al XVI-lea", "Suprafața parcului național: 886 km²", "Altitudine: 5 m", "Număr de specii de mangrove: 8", "Distanța până la granița cu Senegal: 30 km"],
+      en: ["Population: approximately 10,000", "Founded: 16th century", "National Park area: 886 km²", "Elevation: 5 m (16 ft)", "Mangrove species: 8", "Distance to Senegal border: 30 km"],
+    },
+  },
   {
     id: "buba-cities-v2",
     type: "city",
@@ -264,9 +322,8 @@ image: "/poi-images/cacheu-cities-v2.webp"
       de: "Buba",
       hu: "Buba",
       ro: "Buba",
-      en: "Buba",
-image: "/poi-images/buba-cities-v2.webp"
-},
+      en: "Buba"},
+    image: "/poi-images/buba-cities-v2.webp",
     description: {
       de: "Buba ist eine Hafenstadt im Süden Guinea-Bissaus, gelegen am Rio Grande de Buba.",
       hu: "Buba egy kikötőváros Bissau-Guinea déli részén, a Rio Grande de Buba partján.",
@@ -294,7 +351,20 @@ image: "/poi-images/buba-cities-v2.webp"
         "Nearby is the Cufada Lakes National Park.",
         "Serves as a vital transport hub for travel to the south of the country."
       ]
-    }, image: "/poi-images/buba-cities-v2.webp"},
+    }, image: "/poi-images/buba-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Buba ist eine Stadt in Guinea-Bissau in der Region Quinara. Sie liegt am Ufer des Rio Grande de Buba und ist ein wichtiges Zentrum für die Fischerei und Landwirtschaft. Die Stadt wurde im 19. Jahrhundert gegründet und hat sich zu einem regionalen Handelsplatz entwickelt. Die Bevölkerung wird auf etwa 7.000 geschätzt. Buba ist bekannt für seinen Markt, auf dem lokale Produkte wie Cashewnüsse und Fisch gehandelt werden. Die Stadt verfügt über einen kleinen Fischereihafen.",
+      hu: "Buba város Bissau-Guineában, a Quinara régióban. A Rio Grande de Buba partján fekszik, és fontos halászati és mezőgazdasági központ. A várost a 19. században alapították, és regionális kereskedelmi központtá fejlődött. Lakossága kb. 7.000 fő. Buba híres piacáról, ahol helyi termékeket, például kesudiót és halat árusítanak. A város rendelkezik egy kis halászkikötővel.",
+      ro: "Buba este un oraș din Guinea-Bissau, în regiunea Quinara. Este situat pe malul râului Rio Grande de Buba și este un important centru de pescuit și agricultură. Orașul a fost fondat în secolul al XIX-lea și a devenit un centru comercial regional. Populația este estimată la aproximativ 7.000. Buba este cunoscut pentru piața sa, unde se comercializează produse locale precum nuci de caju și pește. Orașul are un mic port de pescuit.",
+      en: "Buba is a city in Guinea-Bissau in the Quinara Region. It lies on the banks of the Rio Grande de Buba and is an important center for fishing and agriculture. The city was founded in the 19th century and has developed into a regional trading hub. The population is estimated at about 7,000. Buba is known for its market where local products such as cashew nuts and fish are traded. The city has a small fishing port.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 7.000", "Höhe über dem Meeresspiegel: 10 m", "Gründungsjahr: 19. Jahrhundert", "Flusslänge des Rio Grande de Buba: 100 km", "Jährlicher Fischfang: etwa 500 Tonnen", "Anzahl der Marktstände: über 100"],
+      hu: ["Lakosság: kb. 7.000 fő", "Tengerszint feletti magasság: 10 m", "Alapítás éve: 19. század", "Rio Grande de Buba hossza: 100 km", "Éves halfogás: kb. 500 tonna", "Piacos standok száma: több mint 100"],
+      ro: ["Populație: aproximativ 7.000", "Altitudine: 10 m", "Anul fondării: secolul al XIX-lea", "Lungimea râului Rio Grande de Buba: 100 km", "Captură anuală de pește: aproximativ 500 tone", "Număr de tarabe la piață: peste 100"],
+      en: ["Population: approximately 7,000", "Elevation: 10 m (33 ft)", "Founded: 19th century", "Rio Grande de Buba length: 100 km", "Annual fish catch: about 500 tons", "Number of market stalls: over 100"],
+    },
+  },
   {
     id: "catio-cities-v2",
     type: "city",
@@ -304,9 +374,8 @@ image: "/poi-images/buba-cities-v2.webp"
       de: "Catió",
       hu: "Catió",
       ro: "Catió",
-      en: "Catió",
-image: "/poi-images/catio-cities-v2.webp"
-},
+      en: "Catió"},
+    image: "/poi-images/catio-cities-v2.webp",
     description: {
       de: "Catió ist die Hauptstadt der Tombali-Region im Südwesten von Guinea-Bissau.",
       hu: "Catió a délnyugat-bissau-guineai Tombali régió fővárosa.",
@@ -334,7 +403,20 @@ image: "/poi-images/catio-cities-v2.webp"
         "The town is surrounded by dense mangrove forests and waterways.",
         "Strategically located for trade with the Republic of Guinea."
       ]
-    }, image: "/poi-images/catio-cities-v2.webp"},
+    }, image: "/poi-images/catio-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Catió ist eine Stadt in Guinea-Bissau und Hauptstadt der Region Tombali. Sie liegt im Süden des Landes nahe der Grenze zu Guinea. Die Stadt ist ein wichtiges landwirtschaftliches Zentrum für den Anbau von Cashewnüssen, Reis und Palmöl. Catió wurde im 19. Jahrhundert gegründet und hat eine multiethnische Bevölkerung. Die Bevölkerungszahl wird auf etwa 9.000 geschätzt. Catió verfügt über einen Markt und ein Krankenhaus. Die Stadt ist über die Straße mit anderen Regionen verbunden.",
+      hu: "Catió város Bissau-Guineában, a Tombali régió fővárosa. Az ország déli részén, a guineai határ közelében fekszik. Fontos mezőgazdasági központ, kesudiót, rizst és pálmaolajat termelnek. Catiót a 19. században alapították, lakossága multietnikus. Lakossága kb. 9.000 fő. Catió piaccal és kórházzal rendelkezik. A város közúton kapcsolódik más régiókhoz.",
+      ro: "Catió este un oraș din Guinea-Bissau, capitala regiunii Tombali. Este situat în sudul țării, aproape de granița cu Guineea. Orașul este un important centru agricol pentru culturi de nuci de caju, orez și ulei de palmier. Catió a fost fondat în secolul al XIX-lea și are o populație multi-etnică. Populația este estimată la aproximativ 9.000. Catió are o piață și un spital. Orașul este conectat pe șosea cu alte regiuni.",
+      en: "Catió is a city in Guinea-Bissau and the capital of the Tombali Region. It is located in the south of the country near the border with Guinea. The city is an important agricultural center for cashew nuts, rice, and palm oil. Catió was founded in the 19th century and has a multi-ethnic population. The population is estimated at about 9,000. Catió has a market and a hospital. The city is connected by road to other regions.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 9.000", "Höhe über dem Meeresspiegel: 15 m", "Gründungsjahr: 19. Jahrhundert", "Fläche der Region Tombali: 3.366 km²", "Hauptanbauprodukt: Cashewnüsse", "Anzahl der Gesundheitsposten: 3"],
+      hu: ["Lakosság: kb. 9.000 fő", "Tengerszint feletti magasság: 15 m", "Alapítás éve: 19. század", "Tombali régió területe: 3.366 km²", "Fő termény: kesudió", "Egészségügyi állomások száma: 3"],
+      ro: ["Populație: aproximativ 9.000", "Altitudine: 15 m", "Anul fondării: secolul al XIX-lea", "Suprafața regiunii Tombali: 3.366 km²", "Produs principal: nuci de caju", "Număr de posturi de sănătate: 3"],
+      en: ["Population: approximately 9,000", "Elevation: 15 m (49 ft)", "Founded: 19th century", "Area of Tombali Region: 3,366 km²", "Main crop: cashew nuts", "Number of health posts: 3"],
+    },
+  },
   {
     id: "farim-cities-v2",
     type: "city",
@@ -344,9 +426,8 @@ image: "/poi-images/catio-cities-v2.webp"
       de: "Farim",
       hu: "Farim",
       ro: "Farim",
-      en: "Farim",
-image: "/poi-images/farim-cities-v2.webp"
-},
+      en: "Farim"},
+    image: "/poi-images/farim-cities-v2.webp",
     description: {
       de: "Farim ist eine Stadt im Norden Guinea-Bissaus am Ufer des Farim-Flusses.",
       hu: "Farim egy város Bissau-Guinea északi részén, a Farim-folyó partján.",
@@ -374,7 +455,20 @@ image: "/poi-images/farim-cities-v2.webp"
         "Is known for the large phosphate deposits in the surrounding area.",
         "The name derives from a Mandinka title for a local ruler."
       ]
-    }, image: "/poi-images/farim-cities-v2.webp"},
+    }, image: "/poi-images/farim-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Farim ist eine Stadt in Guinea-Bissau in der Region Oio. Sie liegt am Ufer des Farim-Flusses, einem Nebenfluss des Cacheu. Die Stadt ist ein bedeutendes Zentrum für den Reisanbau und die Fischerei. Farim wurde im 17. Jahrhundert als portugiesische Siedlung gegründet. Die Bevölkerung wird auf etwa 8.000 geschätzt. Farim hat einen kleinen Hafen und ist bekannt für seinen traditionellen Markt. Die Stadt ist über die Straße mit der Hauptstadt Bissau verbunden.",
+      hu: "Farim város Bissau-Guineában, az Oio régióban. A Farim folyó partján fekszik, amely a Cacheu mellékfolyója. Fontos rizstermesztő és halászati központ. Farimot a 17. században alapították portugál településként. Lakossága kb. 8.000 fő. Farimnak kis kikötője van, és híres hagyományos piacáról. A város közúton kapcsolódik Bissau fővároshoz.",
+      ro: "Farim este un oraș din Guinea-Bissau, în regiunea Oio. Este situat pe malul râului Farim, afluent al Cacheu-ului. Orașul este un important centru de cultivare a orezului și de pescuit. Farim a fost fondat în secolul al XVII-lea ca așezare portugheză. Populația este estimată la aproximativ 8.000. Farim are un mic port și este cunoscut pentru piața sa tradițională. Orașul este conectat pe șosea cu capitala Bissau.",
+      en: "Farim is a city in Guinea-Bissau in the Oio Region. It lies on the banks of the Farim River, a tributary of the Cacheu. The city is an important center for rice cultivation and fishing. Farim was founded in the 17th century as a Portuguese settlement. The population is estimated at about 8,000. Farim has a small port and is known for its traditional market. The city is connected by road to the capital Bissau.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 8.000", "Höhe über dem Meeresspiegel: 10 m", "Gründungsjahr: 17. Jahrhundert", "Länge des Farim-Flusses: 70 km", "Jährliche Reisproduktion: etwa 10.000 Tonnen", "Anzahl der Fischereigenossenschaften: 5"],
+      hu: ["Lakosság: kb. 8.000 fő", "Tengerszint feletti magasság: 10 m", "Alapítás éve: 17. század", "Farim folyó hossza: 70 km", "Éves rizstermelés: kb. 10.000 tonna", "Halászati szövetkezetek száma: 5"],
+      ro: ["Populație: aproximativ 8.000", "Altitudine: 10 m", "Anul fondării: secolul al XVII-lea", "Lungimea râului Farim: 70 km", "Producția anuală de orez: aproximativ 10.000 tone", "Număr de cooperative de pescuit: 5"],
+      en: ["Population: approximately 8,000", "Elevation: 10 m (33 ft)", "Founded: 17th century", "Farim River length: 70 km", "Annual rice production: about 10,000 tons", "Number of fishing cooperatives: 5"],
+    },
+  },
   {
     id: "quinhamel-cities-v2",
     type: "city",
@@ -384,9 +478,8 @@ image: "/poi-images/farim-cities-v2.webp"
       de: "Quinhámel",
       hu: "Quinhámel",
       ro: "Quinhámel",
-      en: "Quinhámel",
-image: "/poi-images/quinhamel-cities-v2.webp"
-},
+      en: "Quinhámel"},
+    image: "/poi-images/quinhamel-cities-v2.webp",
     description: {
       de: "Quinhámel ist die Hauptstadt der Biombo-Region, westlich der Hauptstadt Bissau gelegen.",
       hu: "Quinhámel a Biombo régió fővárosa, a fővárostól, Bissautól nyugatra fekszik.",
@@ -414,7 +507,20 @@ image: "/poi-images/quinhamel-cities-v2.webp"
         "Known for its traditional weaving and textile production.",
         "A popular destination for weekenders from Bissau due to its coastal location."
       ]
-    }, image: "/poi-images/quinhamel-cities-v2.webp"},
+    }, image: "/poi-images/quinhamel-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Quinhámel ist eine Stadt in Guinea-Bissau und Hauptstadt der Region Biombo. Sie liegt im Westen des Landes nahe der Küste. Die Stadt ist ein wichtiges Zentrum für die Landwirtschaft, insbesondere für den Anbau von Cashewnüssen und Obst. Quinhámel wurde im 19. Jahrhundert gegründet und hat eine Bevölkerung von etwa 3.000. Die Stadt ist bekannt für ihre traditionelle Architektur und den nahe gelegenen Strand von Biombo. Quinhámel verfügt über einen Markt und eine Grundschule.",
+      hu: "Quinhámel város Bissau-Guineában, a Biombo régió fővárosa. Az ország nyugati részén, a tengerpart közelében fekszik. Fontos mezőgazdasági központ, különösen a kesudió és gyümölcs termelésében. Quinhámelt a 19. században alapították, lakossága kb. 3.000 fő. A város híres hagyományos építészetéről és a közeli Biombo-strandról. Quinhámel piaccal és általános iskolával rendelkezik.",
+      ro: "Quinhámel este un oraș din Guinea-Bissau, capitala regiunii Biombo. Este situat în vestul țării, aproape de coastă. Orașul este un important centru agricol, în special pentru nuci de caju și fructe. Quinhámel a fost fondat în secolul al XIX-lea și are o populație de aproximativ 3.000. Orașul este cunoscut pentru arhitectura sa tradițională și pentru plaja Biombo din apropiere. Quinhámel are o piață și o școală primară.",
+      en: "Quinhámel is a city in Guinea-Bissau and the capital of the Biombo Region. It is located in the west of the country near the coast. The city is an important agricultural center, especially for cashew nuts and fruit. Quinhámel was founded in the 19th century and has a population of about 3,000. The city is known for its traditional architecture and the nearby Biombo Beach. Quinhámel has a market and a primary school.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 3.000", "Höhe über dem Meeresspiegel: 5 m", "Gründungsjahr: 19. Jahrhundert", "Fläche der Region Biombo: 838 km²", "Jährliche Cashewproduktion: etwa 2.000 Tonnen", "Entfernung zur Küste: 2 km"],
+      hu: ["Lakosság: kb. 3.000 fő", "Tengerszint feletti magasság: 5 m", "Alapítás éve: 19. század", "Biombo régió területe: 838 km²", "Éves kesudió-termelés: kb. 2.000 tonna", "Távolság a parttól: 2 km"],
+      ro: ["Populație: aproximativ 3.000", "Altitudine: 5 m", "Anul fondării: secolul al XIX-lea", "Suprafața regiunii Biombo: 838 km²", "Producția anuală de nuci de caju: aproximativ 2.000 tone", "Distanța până la coastă: 2 km"],
+      en: ["Population: approximately 3,000", "Elevation: 5 m (16 ft)", "Founded: 19th century", "Area of Biombo Region: 838 km²", "Annual cashew production: about 2,000 tons", "Distance to coast: 2 km"],
+    },
+  },
   {
     id: "mansoa-cities-v2",
     type: "city",
@@ -424,9 +530,8 @@ image: "/poi-images/quinhamel-cities-v2.webp"
       de: "Mansôa",
       hu: "Mansôa",
       ro: "Mansôa",
-      en: "Mansôa",
-image: "/poi-images/mansoa-cities-v2.webp"
-},
+      en: "Mansôa"},
+    image: "/poi-images/mansoa-cities-v2.webp",
     description: {
       de: "Mansôa ist eine strategisch wichtige Stadt im Zentrum Guinea-Bissaus in der Oio-Region.",
       hu: "Mansôa egy stratégiailag fontos város Bissau-Guinea központjában, az Oio régióban.",
@@ -454,7 +559,20 @@ image: "/poi-images/mansoa-cities-v2.webp"
         "Known for rice and cashew nut cultivation.",
         "Houses a significant Catholic mission."
       ]
-    }, image: "/poi-images/mansoa-cities-v2.webp"},
+    }, image: "/poi-images/mansoa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mansôa ist eine Stadt in Guinea-Bissau in der Region Oio. Sie liegt am Ufer des Mansôa-Flusses und ist ein wichtiges Zentrum für die Landwirtschaft, insbesondere für den Anbau von Cashewnüssen und Reis. Die Stadt wurde im 18. Jahrhundert gegründet und hat eine Bevölkerung von etwa 6.000. Mansôa ist bekannt für seinen traditionellen Markt und die nahe gelegenen Reisfelder. Die Stadt verfügt über eine Grundschule und ein Gesundheitszentrum.",
+      hu: "Mansôa város Bissau-Guineában, az Oio régióban. A Mansôa folyó partján fekszik, és fontos mezőgazdasági központ, különösen a kesudió és rizs termesztésében. A várost a 18. században alapították, lakossága kb. 6.000 fő. Mansôa híres hagyományos piacáról és a közeli rizsföldekről. A város általános iskolával és egészségügyi központtal rendelkezik.",
+      ro: "Mansôa este un oraș din Guinea-Bissau, în regiunea Oio. Este situat pe malul râului Mansôa și este un important centru agricol, în special pentru nuci de caju și orez. Orașul a fost fondat în secolul al XVIII-lea și are o populație de aproximativ 6.000. Mansôa este cunoscută pentru piața sa tradițională și pentru câmpurile de orez din apropiere. Orașul are o școală primară și un centru de sănătate.",
+      en: "Mansôa is a city in Guinea-Bissau in the Oio Region. It lies on the banks of the Mansôa River and is an important agricultural center, especially for cashew nuts and rice. The city was founded in the 18th century and has a population of about 6,000. Mansôa is known for its traditional market and nearby rice paddies. The city has a primary school and a health center.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 6.000", "Höhe über dem Meeresspiegel: 10 m", "Gründungsjahr: 18. Jahrhundert", "Länge des Mansôa-Flusses: 50 km", "Jährliche Cashewproduktion: etwa 3.000 Tonnen", "Anzahl der Reisfelder: über 500"],
+      hu: ["Lakosság: kb. 6.000 fő", "Tengerszint feletti magasság: 10 m", "Alapítás éve: 18. század", "Mansôa folyó hossza: 50 km", "Éves kesudió-termelés: kb. 3.000 tonna", "Rizsföldek száma: több mint 500"],
+      ro: ["Populație: aproximativ 6.000", "Altitudine: 10 m", "Anul fondării: secolul al XVIII-lea", "Lungimea râului Mansôa: 50 km", "Producția anuală de nuci de caju: aproximativ 3.000 tone", "Număr de orezării: peste 500"],
+      en: ["Population: approximately 6,000", "Elevation: 10 m (33 ft)", "Founded: 18th century", "Mansôa River length: 50 km", "Annual cashew production: about 3,000 tons", "Number of rice paddies: over 500"],
+    },
+  },
   {
     id: "bambadinca-cities-v2",
     type: "city",
@@ -464,9 +582,8 @@ image: "/poi-images/mansoa-cities-v2.webp"
       de: "Bambadinca",
       hu: "Bambadinca",
       ro: "Bambadinca",
-      en: "Bambadinca",
-image: "/poi-images/bambadinca-cities-v2.webp"
-},
+      en: "Bambadinca"},
+    image: "/poi-images/bambadinca-cities-v2.webp",
     description: {
       de: "Bambadinca ist ein bedeutender Ort in der Bafatá-Region, gelegen am Geba-Fluss.",
       hu: "Bambadinca egy jelentős település a Bafatá régióban, a Geba-folyó partján.",
@@ -494,7 +611,20 @@ image: "/poi-images/bambadinca-cities-v2.webp"
         "Features an innovative hybrid solar power plant.",
         "An important local center for agricultural trade."
       ]
-    }, image: "/poi-images/bambadinca-cities-v2.webp"},
+    }, image: "/poi-images/bambadinca-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bambadinca ist eine Stadt in Guinea-Bissau in der Region Bafatá. Sie liegt am Ufer des Gêba-Flusses und ist ein wichtiges Zentrum für die Landwirtschaft, insbesondere für den Anbau von Cashewnüssen und Reis. Die Stadt wurde im 19. Jahrhundert gegründet und hat eine Bevölkerung von etwa 4.000. Bambadinca ist bekannt für seinen Markt und die traditionelle Fischerei. Die Stadt verfügt über eine Grundschule und einen kleinen Hafen.",
+      hu: "Bambadinca város Bissau-Guineában, a Bafatá régióban. A Gêba folyó partján fekszik, és fontos mezőgazdasági központ, különösen a kesudió és rizs termesztésében. A várost a 19. században alapították, lakossága kb. 4.000 fő. Bambadinca híres piacáról és hagyományos halászatáról. A város általános iskolával és kis kikötővel rendelkezik.",
+      ro: "Bambadinca este un oraș din Guinea-Bissau, în regiunea Bafatá. Este situat pe malul râului Gêba și este un important centru agricol, în special pentru nuci de caju și orez. Orașul a fost fondat în secolul al XIX-lea și are o populație de aproximativ 4.000. Bambadinca este cunoscută pentru piața sa și pescuitul tradițional. Orașul are o școală primară și un mic port.",
+      en: "Bambadinca is a city in Guinea-Bissau in the Bafatá Region. It lies on the banks of the Gêba River and is an important agricultural center, especially for cashew nuts and rice. The city was founded in the 19th century and has a population of about 4,000. Bambadinca is known for its market and traditional fishing. The city has a primary school and a small port.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 4.000", "Höhe über dem Meeresspiegel: 10 m", "Gründungsjahr: 19. Jahrhundert", "Entfernung zur Regionalhauptstadt Bafatá: 30 km", "Jährliche Reisproduktion: etwa 5.000 Tonnen", "Anzahl der Fischerboote: etwa 100"],
+      hu: ["Lakosság: kb. 4.000 fő", "Tengerszint feletti magasság: 10 m", "Alapítás éve: 19. század", "Távolság Bafatá-tól: 30 km", "Éves rizstermelés: kb. 5.000 tonna", "Halászhajók száma: kb. 100"],
+      ro: ["Populație: aproximativ 4.000", "Altitudine: 10 m", "Anul fondării: secolul al XIX-lea", "Distanța până la Bafatá: 30 km", "Producția anuală de orez: aproximativ 5.000 tone", "Număr de bărci de pescuit: aproximativ 100"],
+      en: ["Population: approximately 4,000", "Elevation: 10 m (33 ft)", "Founded: 19th century", "Distance to Bafatá: 30 km", "Annual rice production: about 5,000 tons", "Number of fishing boats: about 100"],
+    },
+  },
   {
     id: "canchungo-cities-v2",
     type: "city",
@@ -504,9 +634,8 @@ image: "/poi-images/bambadinca-cities-v2.webp"
       de: "Canchungo",
       hu: "Canchungo",
       ro: "Canchungo",
-      en: "Canchungo",
-image: "/poi-images/canchungo-cities-v2.webp"
-},
+      en: "Canchungo"},
+    image: "/poi-images/canchungo-cities-v2.webp",
     description: {
       de: "Canchungo ist eine Stadt in der Cacheu-Region im Nordwesten Guinea-Bissaus.",
       hu: "Canchungo egy város a Cacheu régióban, Bissau-Guinea északnyugati részén.",
@@ -534,7 +663,20 @@ image: "/poi-images/canchungo-cities-v2.webp"
         "Known for its lively markets and traditional ceremonies.",
         "Was called Vila Teixeira Pinto during the colonial era."
       ]
-    }, image: "/poi-images/canchungo-cities-v2.webp"},
+    }, image: "/poi-images/canchungo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Canchungo ist eine Stadt in Guinea-Bissau in der Region Cacheu. Sie liegt im Nordwesten des Landes und ist ein wichtiges Zentrum für die Landwirtschaft und Fischerei. Die Stadt wurde im 18. Jahrhundert gegründet und hat eine Bevölkerung von etwa 5.000. Canchungo ist bekannt für seinen Wochenmarkt und die traditionelle Töpferei. Die Stadt verfügt über eine Grundschule und ein Gesundheitszentrum. Canchungo ist über die Straße mit der Hauptstadt Bissau verbunden.",
+      hu: "Canchungo város Bissau-Guineában, a Cacheu régióban. Az ország északnyugati részén fekszik, fontos mezőgazdasági és halászati központ. A várost a 18. században alapították, lakossága kb. 5.000 fő. Canchungo híres heti piacáról és hagyományos fazekasságáról. A város általános iskolával és egészségügyi központtal rendelkezik. Canchungo közúton kapcsolódik Bissau fővároshoz.",
+      ro: "Canchungo este un oraș din Guinea-Bissau, în regiunea Cacheu. Este situat în nord-vestul țării și este un important centru agricol și pescuit. Orașul a fost fondat în secolul al XVIII-lea și are o populație de aproximativ 5.000. Canchungo este cunoscut pentru piața săptămânală și olăritul tradițional. Orașul are o școală primară și un centru de sănătate. Canchungo este conectat pe șosea cu capitala Bissau.",
+      en: "Canchungo is a city in Guinea-Bissau in the Cacheu Region. It is located in the northwest of the country and is an important center for agriculture and fishing. The city was founded in the 18th century and has a population of about 5,000. Canchungo is known for its weekly market and traditional pottery. The city has a primary school and a health center. Canchungo is connected by road to the capital Bissau.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 5.000", "Höhe über dem Meeresspiegel: 5 m", "Gründungsjahr: 18. Jahrhundert", "Fläche der Region Cacheu: 5.175 km²", "Jährliche Cashewproduktion: etwa 1.500 Tonnen", "Anzahl der Töpfereien: über 20"],
+      hu: ["Lakosság: kb. 5.000 fő", "Tengerszint feletti magasság: 5 m", "Alapítás éve: 18. század", "Cacheu régió területe: 5.175 km²", "Éves kesudió-termelés: kb. 1.500 tonna", "Fazekasműhelyek száma: több mint 20"],
+      ro: ["Populație: aproximativ 5.000", "Altitudine: 5 m", "Anul fondării: secolul al XVIII-lea", "Suprafața regiunii Cacheu: 5.175 km²", "Producția anuală de nuci de caju: aproximativ 1.500 tone", "Număr de ateliere de olărit: peste 20"],
+      en: ["Population: approximately 5,000", "Elevation: 5 m (16 ft)", "Founded: 18th century", "Area of Cacheu Region: 5,175 km²", "Annual cashew production: about 1,500 tons", "Number of pottery workshops: over 20"],
+    },
+  },
   {
     id: "quebo-cities-v2",
     type: "city",
@@ -544,9 +686,8 @@ image: "/poi-images/canchungo-cities-v2.webp"
       de: "Quebo",
       hu: "Quebo",
       ro: "Quebo",
-      en: "Quebo",
-image: "/poi-images/quebo-cities-v2.webp"
-},
+      en: "Quebo"},
+    image: "/poi-images/quebo-cities-v2.webp",
     description: {
       de: "Quebo ist eine Stadt in der Quínara-Region im Süden des Landes.",
       hu: "Quebo egy város az ország déli részén, a Quínara régióban.",
@@ -574,7 +715,20 @@ image: "/poi-images/quebo-cities-v2.webp"
         "Surrounded by forest areas and agricultural land.",
         "Formerly known as Aldeia Formosa."
       ]
-    }, image: "/poi-images/quebo-cities-v2.webp"},
+    }, image: "/poi-images/quebo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Quebo ist eine Stadt in Guinea-Bissau in der Region Tombali. Sie liegt im Süden des Landes nahe der Grenze zu Guinea. Die Stadt ist ein wichtiges Zentrum für die Landwirtschaft, insbesondere für den Anbau von Cashewnüssen und Palmöl. Quebo wurde im 19. Jahrhundert gegründet und hat eine Bevölkerung von etwa 7.000. Die Stadt ist bekannt für ihren Markt und die traditionellen Feste. Quebo verfügt über eine Grundschule und ein Gesundheitszentrum.",
+      hu: "Quebo város Bissau-Guineában, a Tombali régióban. Az ország déli részén, a guineai határ közelében fekszik. Fontos mezőgazdasági központ, különösen a kesudió és pálmaolaj termelésében. Quebot a 19. században alapították, lakossága kb. 7.000 fő. A város híres piacáról és hagyományos ünnepeiről. Quebo általános iskolával és egészségügyi központtal rendelkezik.",
+      ro: "Quebo este un oraș din Guinea-Bissau, în regiunea Tombali. Este situat în sudul țării, aproape de granița cu Guineea. Orașul este un important centru agricol, în special pentru nuci de caju și ulei de palmier. Quebo a fost fondat în secolul al XIX-lea și are o populație de aproximativ 7.000. Orașul este cunoscut pentru piața sa și sărbătorile tradiționale. Quebo are o școală primară și un centru de sănătate.",
+      en: "Quebo is a city in Guinea-Bissau in the Tombali Region. It is located in the south of the country near the border with Guinea. The city is an important agricultural center, especially for cashew nuts and palm oil. Quebo was founded in the 19th century and has a population of about 7,000. The city is known for its market and traditional festivals. Quebo has a primary school and a health center.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 7.000", "Höhe über dem Meeresspiegel: 15 m", "Gründungsjahr: 19. Jahrhundert", "Entfernung zur Grenze Guinea: 10 km", "Jährliche Palmölproduktion: etwa 500 Tonnen", "Anzahl der Markttage pro Woche: 2"],
+      hu: ["Lakosság: kb. 7.000 fő", "Tengerszint feletti magasság: 15 m", "Alapítás éve: 19. század", "Távolság a guineai határtól: 10 km", "Éves pálmaolaj-termelés: kb. 500 tonna", "Piacos napok száma hetente: 2"],
+      ro: ["Populație: aproximativ 7.000", "Altitudine: 15 m", "Anul fondării: secolul al XIX-lea", "Distanța până la granița cu Guineea: 10 km", "Producția anuală de ulei de palmier: aproximativ 500 tone", "Număr de zile de piață pe săptămână: 2"],
+      en: ["Population: approximately 7,000", "Elevation: 15 m (49 ft)", "Founded: 19th century", "Distance to Guinea border: 10 km", "Annual palm oil production: about 500 tons", "Number of market days per week: 2"],
+    },
+  },
   {
     id: "bedanda-cities-v2",
     type: "city",
@@ -584,9 +738,8 @@ image: "/poi-images/quebo-cities-v2.webp"
       de: "Bedanda",
       hu: "Bedanda",
       ro: "Bedanda",
-      en: "Bedanda",
-image: "/poi-images/bedanda-cities-v2.webp"
-},
+      en: "Bedanda"},
+    image: "/poi-images/bedanda-cities-v2.webp",
     description: {
       de: "Bedanda ist ein Ort in der Tombali-Region im tiefen Süden Guinea-Bissaus.",
       hu: "Bedanda egy település a Tombali régióban, Bissau-Guinea távoli déli részén.",
@@ -614,7 +767,20 @@ image: "/poi-images/bedanda-cities-v2.webp"
         "Agriculture here focuses mainly on rice and palm oil.",
         "Important for local cross-border traffic with Guinea."
       ]
-    }, image: "/poi-images/bedanda-cities-v2.webp"},
+    }, image: "/poi-images/bedanda-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bedanda ist eine Stadt in Guinea-Bissau in der Region Tombali. Sie liegt im Süden des Landes nahe der Küste. Die Stadt ist ein wichtiges Zentrum für die Landwirtschaft und Fischerei. Bedanda wurde im 19. Jahrhundert gegründet und hat eine Bevölkerung von etwa 4.000. Die Stadt ist bekannt für ihre traditionellen Tänze und Musik. Bedanda verfügt über eine Grundschule und einen kleinen Fischereihafen.",
+      hu: "Bedanda város Bissau-Guineában, a Tombali régióban. Az ország déli részén, a tengerpart közelében fekszik. Fontos mezőgazdasági és halászati központ. Bedandát a 19. században alapították, lakossága kb. 4.000 fő. A város híres hagyományos táncairól és zenéjéről. Bedanda általános iskolával és kis halászkikötővel rendelkezik.",
+      ro: "Bedanda este un oraș din Guinea-Bissau, în regiunea Tombali. Este situat în sudul țării, aproape de coastă. Orașul este un important centru agricol și de pescuit. Bedanda a fost fondat în secolul al XIX-lea și are o populație de aproximativ 4.000. Orașul este cunoscut pentru dansurile și muzica tradițională. Bedanda are o școală primară și un mic port de pescuit.",
+      en: "Bedanda is a city in Guinea-Bissau in the Tombali Region. It is located in the south of the country near the coast. The city is an important center for agriculture and fishing. Bedanda was founded in the 19th century and has a population of about 4,000. The city is known for its traditional dances and music. Bedanda has a primary school and a small fishing port.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 4.000", "Höhe über dem Meeresspiegel: 5 m", "Gründungsjahr: 19. Jahrhundert", "Entfernung zur Küste: 5 km", "Jährlicher Fischfang: etwa 300 Tonnen", "Anzahl der traditionellen Musikgruppen: 10"],
+      hu: ["Lakosság: kb. 4.000 fő", "Tengerszint feletti magasság: 5 m", "Alapítás éve: 19. század", "Távolság a parttól: 5 km", "Éves halfogás: kb. 300 tonna", "Hagyományos zenei csoportok száma: 10"],
+      ro: ["Populație: aproximativ 4.000", "Altitudine: 5 m", "Anul fondării: secolul al XIX-lea", "Distanța până la coastă: 5 km", "Captură anuală de pește: aproximativ 300 tone", "Număr de grupuri muzicale tradiționale: 10"],
+      en: ["Population: approximately 4,000", "Elevation: 5 m (16 ft)", "Founded: 19th century", "Distance to coast: 5 km", "Annual fish catch: about 300 tons", "Number of traditional music groups: 10"],
+    },
+  },
   {
     id: "nhacra-cities-v2",
     type: "city",
@@ -624,9 +790,8 @@ image: "/poi-images/bedanda-cities-v2.webp"
       de: "Nhacra",
       hu: "Nhacra",
       ro: "Nhacra",
-      en: "Nhacra",
-image: "/poi-images/nhacra-cities-v2.webp"
-},
+      en: "Nhacra"},
+    image: "/poi-images/nhacra-cities-v2.webp",
     description: {
       de: "Nhacra ist eine Stadt in der Oio-Region, nordöstlich von Bissau gelegen.",
       hu: "Nhacra egy város az Oio régióban, Bissautól északkeletre fekszik.",
@@ -654,7 +819,19 @@ image: "/poi-images/nhacra-cities-v2.webp"
         "A center for the production of charcoal and agricultural products.",
         "Important stop on the main road to the north."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Nhacra ist eine Stadt in Guinea-Bissau in der Region Oio. Sie liegt im Zentrum des Landes und ist ein wichtiges landwirtschaftliches Zentrum, insbesondere für den Anbau von Cashewnüssen und Reis. Die Stadt wurde im 19. Jahrhundert gegründet und hat eine Bevölkerung von etwa 2.000. Nhacra ist bekannt für seinen friedlichen Charakter und die umliegenden grünen Felder. Die Stadt verfügt über eine Grundschule und einen Markt.",
+      hu: "Nhacra város Bissau-Guineában, az Oio régióban. Az ország középpontjában fekszik, és fontos mezőgazdasági központ, különösen a kesudió és rizs termesztésében. A várost a 19. században alapították, lakossága kb. 2.000 fő. Nhacra híres békés jellegéről és a környező zöld mezőkről. A város általános iskolával és piaccal rendelkezik.",
+      ro: "Nhacra este un oraș din Guinea-Bissau, în regiunea Oio. Este situat în centrul țării și este un important centru agricol, în special pentru nuci de caju și orez. Orașul a fost fondat în secolul al XIX-lea și are o populație de aproximativ 2.000. Nhacra este cunoscut pentru caracterul său pașnic și câmpurile verzi din jur. Orașul are o școală primară și o piață.",
+      en: "Nhacra is a city in Guinea-Bissau in the Oio Region. It is located in the center of the country and is an important agricultural center, especially for cashew nuts and rice. The city was founded in the 19th century and has a population of about 2,000. Nhacra is known for its peaceful character and the surrounding green fields. The city has a primary school and a market.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 2.000", "Höhe über dem Meeresspiegel: 10 m", "Gründungsjahr: 19. Jahrhundert", "Entfernung zur Hauptstadt Bissau: 50 km", "Jährliche Cashewproduktion: etwa 800 Tonnen", "Anzahl der Wasserbrunnen: 5"],
+      hu: ["Lakosság: kb. 2.000 fő", "Tengerszint feletti magasság: 10 m", "Alapítás éve: 19. század", "Távolság Bissautól: 50 km", "Éves kesudió-termelés: kb. 800 tonna", "Vízkutak száma: 5"],
+      ro: ["Populație: aproximativ 2.000", "Altitudine: 10 m", "Anul fondării: secolul al XIX-lea", "Distanța până la Bissau: 50 km", "Producția anuală de nuci de caju: aproximativ 800 tone", "Număr de fântâni de apă: 5"],
+      en: ["Population: approximately 2,000", "Elevation: 10 m (33 ft)", "Founded: 19th century", "Distance to Bissau: 50 km", "Annual cashew production: about 800 tons", "Number of water wells: 5"],
+    },
   },
   {
     id: "safim-cities-v2",
@@ -665,9 +842,8 @@ image: "/poi-images/nhacra-cities-v2.webp"
       de: "Safim",
       hu: "Safim",
       ro: "Safim",
-      en: "Safim",
-image: "/poi-images/safim-cities-v2.webp"
-},
+      en: "Safim"},
+    image: "/poi-images/safim-cities-v2.webp",
     description: {
       de: "Safim ist eine wachsende Stadt in der Biombo-Region, direkt vor den Toren der Hauptstadt Bissau.",
       hu: "Safim egy növekvő város a Biombo régióban, közvetlenül a főváros, Bissau kapujában.",
@@ -695,7 +871,20 @@ image: "/poi-images/safim-cities-v2.webp"
         "Increasingly developing into a residential and commercial area for Bissau.",
         "Located near the Mansôa River."
       ]
-    }, image: "/poi-images/safim-cities-v2.webp"},
+    }, image: "/poi-images/safim-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Safim ist eine Stadt in Guinea-Bissau in der Region Biombo. Sie liegt im Westen des Landes nahe der Küste und der Hauptstadt Bissau. Die Stadt ist ein wichtiges Zentrum für die Landwirtschaft und den Handel. Safim wurde im 20. Jahrhundert gegründet und hat eine Bevölkerung von etwa 1.500. Die Stadt ist bekannt für ihre Nähe zu den Bijagós-Inseln und den Stränden. Safim verfügt über eine Grundschule und einen Markt.",
+      hu: "Safim város Bissau-Guineában, a Biombo régióban. Az ország nyugati részén, a tengerpart és a főváros Bissau közelében fekszik. Fontos mezőgazdasági és kereskedelmi központ. Safim a 20. században alapították, lakossága kb. 1.500 fő. A város híres a Bijagós-szigetek és a strandok közelségéről. Safim általános iskolával és piaccal rendelkezik.",
+      ro: "Safim este un oraș din Guinea-Bissau, în regiunea Biombo. Este situat în vestul țării, aproape de coastă și de capitala Bissau. Orașul este un important centru agricol și comercial. Safim a fost fondat în secolul al XX-lea și are o populație de aproximativ 1.500. Orașul este cunoscut pentru apropierea de Insulele Bijagós și de plaje. Safim are o școală primară și o piață.",
+      en: "Safim is a city in Guinea-Bissau in the Biombo Region. It is located in the west of the country near the coast and the capital Bissau. The city is an important center for agriculture and trade. Safim was founded in the 20th century and has a population of about 1,500. The city is known for its proximity to the Bijagós Islands and beaches. Safim has a primary school and a market.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: ca. 1.500", "Höhe über dem Meeresspiegel: 5 m", "Gründungsjahr: 20. Jahrhundert", "Entfernung zur Hauptstadt Bissau: 10 km", "Anzahl der Strände in der Umgebung: 3", "Jährliche Besucherzahl: etwa 5.000"],
+      hu: ["Lakosság: kb. 1.500 fő", "Tengerszint feletti magasság: 5 m", "Alapítás éve: 20. század", "Távolság Bissautól: 10 km", "Környékbeli strandok száma: 3", "Éves látogatók száma: kb. 5.000"],
+      ro: ["Populație: aproximativ 1.500", "Altitudine: 5 m", "Anul fondării: secolul al XX-lea", "Distanța până la Bissau: 10 km", "Număr de plaje în apropiere: 3", "Vizitatori anual: aproximativ 5.000"],
+      en: ["Population: approximately 1,500", "Elevation: 5 m (16 ft)", "Founded: 20th century", "Distance to Bissau: 10 km", "Number of nearby beaches: 3", "Annual visitors: about 5,000"],
+    },
+  },
   {
     id: "bubaque-cities-v2",
     type: "city",
@@ -705,9 +894,8 @@ image: "/poi-images/safim-cities-v2.webp"
       de: "Bubaque",
       hu: "Bubaque",
       ro: "Bubaque",
-      en: "Bubaque",
-image: "/poi-images/bubaque-cities-v2.webp"
-},
+      en: "Bubaque"},
+    image: "/poi-images/bubaque-cities-v2.webp",
     description: {
       de: "Bubaque ist die wichtigste Stadt auf den Bijagós-Inseln und ein Zentrum für Tourismus.",
       hu: "Bubaque a legfontosabb város a Bijagós-szigeteken, és a turizmus központja.",
@@ -735,7 +923,20 @@ image: "/poi-images/bubaque-cities-v2.webp"
         "Is the starting point for exploring the Orango National Park.",
         "Known for its beautiful beaches and rich Bijagó culture."
       ]
-    }, image: "/poi-images/bubaque-cities-v2.webp"},
+    }, image: "/poi-images/bubaque-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bubaque ist der Hauptort der Bissagos-Inseln in Guinea-Bissau und bekannt für seine traditionelle Architektur aus Lehm und Palmblättern. Die Stadt liegt auf der gleichnamigen Insel, die zu den Biosphärenreservaten der UNESCO gehört. Wirtschaftlich ist Bubaque stark vom Fischfang und Tourismus geprägt, wobei der Markt ein Zentrum für lokale Handwerkskunst darstellt. Die Bevölkerung besteht hauptsächlich aus dem Volk der Bijagós, das seine matriarchalischen Traditionen bis heute bewahrt hat.",
+      hu: "Bubaque a Bissagos-szigetek fő települése Bissau-Guineában, melyet a helyi bijagó közösség matriarchális társadalmi szerkezete tesz egyedivé. A település gazdaságát a halászat és a turizmus határozza meg, a sziget bioszféra-rezervátumként védett. Bubaque építészetére a vályogból és pálmalevelekből készült házak jellemzőek. A helyi piac a kézműves termékek, például szőttesek és fafaragások központja. A sziget 1996 óta az UNESCO védelme alatt áll.",
+      ro: "Bubaque este localitatea principală a arhipelagului Bijagós din Guineea-Bissau, recunoscută pentru rezervația biosferei UNESCO. Portul său facilitează transportul dintre insule și continent, fiind esențial pentru comerțul regional. Populația, majoritar bijagós, păstrează obiceiuri străvechi, precum cultul strămoșilor. Arhitectura locală folosește materiale tradiționale, iar economia se bazează pe pescuit și agricultura de subzistență. Turismul ecoturistic este în creștere datorită peisajelor naturale.",
+      en: "Bubaque serves as the administrative hub of the Bissagos Islands, part of Guinea-Bissau, and functions as a gateway for travelers to the archipelago. Its economy is primarily driven by fishing, with a significant portion of the population engaged in subsistence agriculture. The island's biodiversity is protected under the UNESCO Biosphere Reserve designation, supporting unique flora and fauna. Local customs, including ritual ceremonies and mask dances, remain integral to daily life. The town's market offers traditional crafts such as woven baskets and carved wooden figures.",
+    },
+    factsAdvanced: {
+      de: ["Bubaque hat etwa 9.000 Einwohner.", "Die Inselfläche beträgt rund 18 km².", "Der Ort liegt auf 11° nördlicher Breite.", "Die UNESCO-Biosphärenreservat-Ausweisung erfolgte 1996.", "Die traditionelle Architektur verwendet überwiegend Lehm.", "Der Fischmarkt existiert seit den 1970er Jahren."],
+      hu: ["Bubaque lakossága hozzávetőleg 9000 fő.", "A sziget területe 18 négyzetkilométer.", "A település 11° északi szélességen fekszik.", "Az UNESCO bioszféra-rezervátum címet 1996-ban kapta.", "A helyi építészet vályogot és pálmaleveleket használ.", "A halpiac az 1970-es évek óta működik."],
+      ro: ["Bubaque are aproximativ 9.000 de locuitori.", "Insula măsoară 18 km².", "Localitatea se află la 11° latitudine nordică.", "Statutul de rezervație al biosferei UNESCO este din 1996.", "Arhitectura tradițională folosește predominant lut.", "Piața de pește există încă din anii 1970."],
+      en: ["Bubaque has an estimated population of 9,000.", "The island covers an area of 18 km².", "The town is located at 11° North latitude.", "UNESCO Biosphere Reserve designation was in 1996.", "Traditional architecture primarily uses mud and clay.", "The fish market has been operational since the 1970s."],
+    },
+  },
   {
     id: "fulacunda-cities-v2",
     type: "city",
@@ -745,9 +946,8 @@ image: "/poi-images/bubaque-cities-v2.webp"
       de: "Fulacunda",
       hu: "Fulacunda",
       ro: "Fulacunda",
-      en: "Fulacunda",
-image: "/poi-images/fulacunda-cities-v2.webp"
-},
+      en: "Fulacunda"},
+    image: "/poi-images/fulacunda-cities-v2.webp",
     description: {
       de: "Fulacunda ist eine Stadt in der Quínara-Region im Süden Guinea-Bissaus.",
       hu: "Fulacunda egy város a Quínara régióban, Bissau-Guinea déli részén.",
@@ -775,7 +975,20 @@ image: "/poi-images/fulacunda-cities-v2.webp"
         "The region is rich in natural beauty and watercourses.",
         "Known for the production of palm wine."
       ]
-    }, image: "/poi-images/fulacunda-cities-v2.webp"},
+    }, image: "/poi-images/fulacunda-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Fulacunda ist eine Stadt in der Region Quinara im Süden Guinea-Bissaus. Sie liegt am Rio Grande de Buba, einem wichtigen Wasserweg für den Transport von landwirtschaftlichen Produkten wie Cashewnüssen und Reis. Die Stadt ist ein Handelszentrum für die umliegenden Dörfer und bekannt für ihre multikulturelle Bevölkerung, die aus verschiedenen ethnischen Gruppen wie den Balanta und Fulbe besteht. Die Infrastruktur ist begrenzt, aber der Markt ist lebhaft.",
+      hu: "Fulacunda Bissau-Guinea déli részén, Quinara régióban található, a Rio Grande de Buba folyó mentén. A település a mezőgazdasági termékek, különösen a kesudió és a rizs kereskedelmének központja. Népessége sokszínű, balanta és fulbe etnikumok keverednek. Az infrastruktúra fejletlen, az utak nagy része földút. A helyi piac a régió árucikkeinek fontos csomópontja. Az oktatási és egészségügyi szolgáltatások korlátozottak.",
+      ro: "Fulacunda este un oraș din regiunea Quinara, sudul Guineei-Bissau, situat pe râul Rio Grande de Buba. Economia locală se bazează pe agricultură, în special nuci de caju și orez, iar râul facilitează transportul fluvial. Populația este diversă din punct de vedere etnic, incluzând balanta și fulbe. Piața centrală este un punct de schimb important pentru produsele locale. Infrastructura rutieră este precară, iar accesul la apă potabilă este limitat.",
+      en: "Fulacunda lies in southern Guinea-Bissau along the Rio Grande de Buba, serving as a commercial node for agricultural trade. The region's economy hinges on cashew production, with the river enabling transport to coastal markets. The town's population reflects ethnic diversity, predominantly Balanta and Fulani groups. Basic services like healthcare and education are sparse, and roads are largely unpaved. The weekly market attracts traders from surrounding villages.",
+    },
+    factsAdvanced: {
+      de: ["Fulacunda hat etwa 6.000 Einwohner.", "Die Stadt liegt auf einer Höhe von 5 Metern.", "Der Rio Grande de Buba ist 80 km lang.", "Die Cashew-Produktion beträgt jährlich ca. 200 Tonnen.", "Die Analphabetenrate liegt bei über 60%.", "Die Region Quinara hat eine Fläche von 3.138 km²."],
+      hu: ["Fulacunda lakossága hozzávetőleg 6000 fő.", "A város 5 méter tengerszint feletti magasságban fekszik.", "A Rio Grande de Buba folyó hossza 80 km.", "Az éves kesudió-termelés kb. 200 tonna.", "Az írástudatlansági arány meghaladja a 60%-ot.", "Quinara régió területe 3138 km²."],
+      ro: ["Fulacunda are aproximativ 6.000 de locuitori.", "Orașul este situat la 5 metri altitudine.", "Râul Rio Grande de Buba are 80 km lungime.", "Producția anuală de nuci de caju este de circa 200 de tone.", "Rata de alfabetizare este sub 40%.", "Regiunea Quinara are o suprafață de 3.138 km²."],
+      en: ["Fulacunda's population is approximately 6,000.", "The town sits at an elevation of 5 meters.", "The Rio Grande de Buba river is 80 km long.", "Annual cashew production is around 200 tons.", "Literacy rate is below 40%.", "Quinara region covers an area of 3,138 km²."],
+    },
+  },
   {
     id: "bigene-cities-v2",
     type: "city",
@@ -785,9 +998,8 @@ image: "/poi-images/fulacunda-cities-v2.webp"
       de: "Bigene",
       hu: "Bigene",
       ro: "Bigene",
-      en: "Bigene",
-image: "/poi-images/bigene-cities-v2.webp"
-},
+      en: "Bigene"},
+    image: "/poi-images/bigene-cities-v2.webp",
     description: {
       de: "Bigene ist eine Stadt in der Cacheu-Region, nahe der Grenze zum Senegal.",
       hu: "Bigene egy város a Cacheu régióban, a szenegáli határ közelében.",
@@ -815,7 +1027,20 @@ image: "/poi-images/bigene-cities-v2.webp"
         "Agriculture is characterized by the cultivation of grains and cashews.",
         "Home to various ethnic groups, including Balanta and Mandinka."
       ]
-    }, image: "/poi-images/bigene-cities-v2.webp"},
+    }, image: "/poi-images/bigene-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bigene ist eine Stadt in der Region Oio im Nordwesten Guinea-Bissaus. Sie liegt nahe der Grenze zu Senegal und spielt eine Rolle im grenzüberschreitenden Handel, insbesondere mit landwirtschaftlichen Erzeugnissen. Die Region ist flach und von Savanne geprägt. Die Bevölkerung besteht hauptsächlich aus den Volksgruppen der Balanta und Mandinka. Der Ort ist für sein traditionelles Kunsthandwerk bekannt, darunter Korbflechterei und Töpferei.",
+      hu: "Bigene a északnyugat-bissau-guineai Oio régióban fekszik, Szenegál határának közelében. A település fontos szerepet játszik a határon átnyúló kereskedelemben, különösen a mezőgazdasági termékek, mint a földimogyoró és a köles terén. A tájat szavanna jellemzi. A lakosság balanta és mandinka etnikumokból tevődik össze. Híres a kézműves termékeiről, például a kosarakról és agyagedényekről.",
+      ro: "Bigene este un oraș din regiunea Oio, nord-vestul Guineei-Bissau, aproape de granița cu Senegal. Comerțul transfrontalier cu produse agricole, precum arahide și mei, domină economia locală. Regiunea este caracterizată de savane și terenuri plane. Populația este majoritar balanta și mandinka. Meșteșugurile tradiționale, cum ar fi țesutul coșurilor și olăritul, sunt practicate în mod obișnuit.",
+      en: "Bigene is located in the Oio region of Guinea-Bissau, near the Senegalese border. Its economy is largely based on cross-border trade and subsistence farming. The landscape is flat savannah, supporting crops like peanuts and millet. The population is ethnically mixed, with Balanta and Mandinka groups predominant. Traditional crafts, especially basketry and pottery, are preserved in local workshops.",
+    },
+    factsAdvanced: {
+      de: ["Bigene hat etwa 5.000 Einwohner.", "Die Entfernung zur senegalesischen Grenze beträgt 15 km.", "Die Region Oio hat eine Fläche von 5.403 km².", "Die jährliche Niederschlagsmenge liegt bei 1.500 mm.", "Der Haupterwerbszweig ist die Landwirtschaft mit 70% der Bevölkerung.", "Der Markt existiert seit den 1960er Jahren."],
+      hu: ["Bigene lakossága hozzávetőleg 5000 fő.", "A szenegáli határtól 15 km-re fekszik.", "Oio régió területe 5403 km².", "Az éves csapadékmennyiség 1500 mm.", "A lakosság 70%-a mezőgazdaságból él.", "A piac az 1960-as évek óta működik."],
+      ro: ["Bigene are aproximativ 5.000 de locuitori.", "Distanța până la granița cu Senegal este de 15 km.", "Regiunea Oio are o suprafață de 5.403 km².", "Precipitațiile anuale sunt de 1.500 mm.", "70% din populație lucrează în agricultură.", "Piața funcționează încă din anii 1960."],
+      en: ["Bigene's population is about 5,000.", "The town is 15 km from the Senegal border.", "Oio region covers 5,403 km².", "Annual rainfall averages 1,500 mm.", "70% of the population depends on agriculture.", "The market has been operating since the 1960s."],
+    },
+  },
   {
     id: "ingore-cities-v2",
     type: "city",
@@ -825,9 +1050,8 @@ image: "/poi-images/bigene-cities-v2.webp"
       de: "Ingoré",
       hu: "Ingoré",
       ro: "Ingoré",
-      en: "Ingoré",
-image: "/poi-images/ingore-cities-v2.webp"
-},
+      en: "Ingoré"},
+    image: "/poi-images/ingore-cities-v2.webp",
     description: {
       de: "Ingoré ist eine bedeutende Kleinstadt in der Cacheu-Region im Norden des Landes.",
       hu: "Ingoré egy jelentős kisváros a Cacheu régióban, az ország északi részén.",
@@ -855,7 +1079,19 @@ image: "/poi-images/ingore-cities-v2.webp"
         "A center for regional trade in agricultural products.",
         "Known for its lively market atmosphere."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Ingoré ist eine Stadt in der Region Tombali, im Süden Guinea-Bissaus, nahe der Grenze zu Guinea. Die Region ist von Mangrovenwäldern und Reisfeldern geprägt. Die Stadt ist ein Zentrum für den Reisanbau, der die Hauptnahrungsquelle darstellt. Die Bevölkerung gehört hauptsächlich zu den Balanta und Nalu. Der Ort hat einen kleinen Hafen am Rio Cacine, der für den Transport genutzt wird.",
+      hu: "Ingoré Bissau-Guinea déli részén, Tombali régióban található, Guinea határának közelében. A tájat mangroveerdők és rizsföldek uralják. A város a rizstermesztés központja, amely a helyi élelemellátás alapja. A lakosság balanta és nalu etnikumú. A Rio Cacine folyón lévő kikötő lehetővé teszi az áruszállítást. Az infrastruktúra fejletlen, az egészségügyi ellátás korlátozott.",
+      ro: "Ingoré este un oraș din regiunea Tombali, sudul Guineei-Bissau, lângă granița cu Guineea. Economia se bazează pe cultivarea orezului, în câmpii inundabile. Pădurile de mangrove oferă lemn de foc și protejează coasta. Populația este în principal balanta și nalu. Portul fluvial de pe râul Cacine facilitează comerțul. Accesul la apă potabilă și electricitate este limitat în zonele rurale.",
+      en: "Ingoré lies in Guinea-Bissau's Tombali region, close to the border with Guinea. It is an agricultural hub for rice farming, using traditional floodplain techniques. The surrounding mangrove forests are vital for local ecosystems and provide resources. The population is predominantly Balanta and Nalu. The town has a small river port on the Cacine River, which supports local trade. Basic amenities remain scarce.",
+    },
+    factsAdvanced: {
+      de: ["Ingoré hat etwa 3.500 Einwohner.", "Die Entfernung zur Grenze Guineas beträgt 20 km.", "Die durchschnittliche Reisernte pro Hektar liegt bei 2 Tonnen.", "Die Region Tombali hat eine Fläche von 6.237 km².", "Die Regenzeit dauert von Juni bis Oktober.", "Der Rio Cacine ist 150 km lang."],
+      hu: ["Ingoré lakossága kb. 3500 fő.", "A guineai határtól 20 km-re található.", "Az átlagos rizstermés hektáronként 2 tonna.", "Tombali régió területe 6237 km².", "Az esős évszak júniustól októberig tart.", "A Rio Cacine folyó hossza 150 km."],
+      ro: ["Ingoré are aproximativ 3.500 de locuitori.", "Distanța până la granița cu Guineea este de 20 km.", "Recolta medie de orez este de 2 tone per hectar.", "Regiunea Tombali are o suprafață de 6.237 km².", "Sezonul ploios durează din iunie până în octombrie.", "Râul Cacine are 150 km lungime."],
+      en: ["Ingoré's population is about 3,500.", "It is 20 km from the Guinea border.", "Average rice yield is 2 tons per hectare.", "Tombali region covers 6,237 km².", "Rainy season runs from June to October.", "The Cacine River is 150 km long."],
+    },
   },
   {
     id: "pirada-cities-v2",
@@ -866,9 +1102,8 @@ image: "/poi-images/ingore-cities-v2.webp"
       de: "Pirada",
       hu: "Pirada",
       ro: "Pirada",
-      en: "Pirada",
-image: "/poi-images/pirada-cities-v2.webp"
-},
+      en: "Pirada"},
+    image: "/poi-images/pirada-cities-v2.webp",
     description: {
       de: "Pirada ist eine Grenzstadt im Nordosten Guinea-Bissaus in der Gabú-Region.",
       hu: "Pirada egy határváros Bissau-Guinea északkeleti részén, a Gabú régióban.",
@@ -896,7 +1131,20 @@ image: "/poi-images/pirada-cities-v2.webp"
         "Trade and livestock farming are the primary sources of income.",
         "The population is largely composed of Fula people."
       ]
-    }, image: "/poi-images/pirada-cities-v2.webp"},
+    }, image: "/poi-images/pirada-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pirada ist eine Stadt in der Region Gabu im Osten Guinea-Bissaus, nahe der Grenze zu Senegal. Sie ist ein wichtiger Handelsort für Vieh und landwirtschaftliche Produkte. Die Region ist Teil der Sudanzone mit Trockenwäldern und Savanne. Die Bevölkerung setzt sich aus Fulbe, Mandinka und Balanta zusammen. Der Ort hat eine Moschee, die den islamischen Einfluss der Fulbe widerspiegelt.",
+      hu: "Pirada Bissau-Guinea keleti részén, Gabu régióban fekszik, Szenegál határához közel. A város a marha- és mezőgazdasági kereskedelem fontos csomópontja. A tájat száraz erdők és szavanna jellemzi. A lakosság fulbe, mandinka és balanta etnikumú. Az iszlám vallás erős befolyással bír, amit a helyi mecset is jelez. A település a transzszaharai kereskedelmi útvonalak közelében található.",
+      ro: "Pirada este un oraș din estul Guineei-Bissau, în regiunea Gabu, aproape de granița cu Senegal. Este un centru comercial important pentru vite și produse agricole. Vegetația este de tip savană și păduri uscate. Populația include fulani, mandinka și balanta. Influența islamică este vizibilă, cu o moschee în centrul orașului. Drumurile sunt în mare parte nepavate, iar accesul la apă este limitat.",
+      en: "Pirada is located in eastern Guinea-Bissau's Gabu region, near the Senegalese border. The town functions as a regional market for livestock, especially cattle, and crops like millet and peanuts. The area is characterized by dry savannah and woodland. The population is ethnically diverse, with Fulani herders and Mandinka traders. A central mosque underscores the Islamic cultural influence. Infrastructure remains underdeveloped.",
+    },
+    factsAdvanced: {
+      de: ["Pirada hat etwa 7.000 Einwohner.", "Die Entfernung zur senegalesischen Grenze beträgt 10 km.", "Die Region Gabu hat eine Fläche von 9.150 km².", "Der Viehbestand beträgt rund 20.000 Rinder.", "Die jährliche Niederschlagsmenge liegt bei 1.200 mm.", "Der Markt findet jeden Mittwoch statt."],
+      hu: ["Pirada lakossága kb. 7000 fő.", "A szenegáli határtól 10 km-re található.", "Gabu régió területe 9150 km².", "A szarvasmarha-állomány kb. 20.000 egyed.", "Az éves csapadékmennyiség 1200 mm.", "A piac minden szerdán működik."],
+      ro: ["Pirada are aproximativ 7.000 de locuitori.", "Distanța până la granița senegaleză este de 10 km.", "Regiunea Gabu se întinde pe 9.150 km².", "Efectivele de bovine sunt de aproximativ 20.000.", "Precipitațiile anuale sunt de 1.200 mm.", "Piața are loc în fiecare miercuri."],
+      en: ["Pirada's population is about 7,000.", "It is 10 km from the Senegal border.", "Gabu region covers 9,150 km².", "Cattle population is around 20,000.", "Annual rainfall is 1,200 mm.", "The market is held every Wednesday."],
+    },
+  },
   {
     id: "pitche-cities-v2",
     type: "city",
@@ -906,9 +1154,8 @@ image: "/poi-images/pirada-cities-v2.webp"
       de: "Pitche",
       hu: "Pitche",
       ro: "Pitche",
-      en: "Pitche",
-image: "/poi-images/pitche-cities-v2.webp"
-},
+      en: "Pitche"},
+    image: "/poi-images/pitche-cities-v2.webp",
     description: {
       de: "Pitche ist eine Stadt im äußersten Osten Guinea-Bissaus, nahe der Grenze zur Republik Guinea.",
       hu: "Pitche egy város Bissau-Guinea legkeletibb részén, a Guineai Köztársaság határának közelében.",
@@ -936,7 +1183,20 @@ image: "/poi-images/pitche-cities-v2.webp"
         "Characterized by a mountainous and forested landscape.",
         "A center for Fula culture in the east."
       ]
-    }, image: "/poi-images/pitche-cities-v2.webp"},
+    }, image: "/poi-images/pitche-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pitche ist eine Stadt in der Region Gabu im Osten Guinea-Bissaus, nahe der Grenze zu Guinea. Sie ist ein Knotenpunkt für den grenzüberschreitenden Handel und bekannt für ihre Cashewproduktion. Die Landschaft ist flach mit Savannenvegetation. Die Bevölkerung besteht vorwiegend aus Fulbe und Mandinka. Der Ort hat eine Grundschule und ein Gesundheitszentrum, aber die medizinische Versorgung ist begrenzt.",
+      hu: "Pitche Bissau-Guinea keleti részén, Gabu régióban, Guinea határához közel helyezkedik el. A város a kesudió-termeléséről híres, és fontos határon átnyúló kereskedelmi központ. A tájat szavanna borítja. A lakosság túlnyomórészt fulbe és mandinka. Az oktatási és egészségügyi infrastruktúra hiányos, csak egy iskola és egy kis klinika működik. A település a Casamance régióhoz közeli fekvése miatt stratégiai jelentőségű.",
+      ro: "Pitche este un oraș din estul Guineei-Bissau, în regiunea Gabu, lângă granița cu Guineea. Este renumit pentru producția de nuci de caju și comerțul transfrontalier. Peisajul este format din savană. Populația este predominant fulani și mandinka. Infrastructura este slabă, cu o singură școală primară și un centru de sănătate. Drumurile sunt impracticabile în sezonul ploios.",
+      en: "Pitche is situated in Gabu region, eastern Guinea-Bissau, near the Guinea border. The town's economy revolves around cashew farming and cross-border trade. The terrain is flat savannah. The population is mainly Fulani and Mandinka. Public services are minimal, with one primary school and a basic health post. The road network is unpaved, making access difficult during the rainy season.",
+    },
+    factsAdvanced: {
+      de: ["Pitche hat etwa 4.000 Einwohner.", "Die Entfernung zur Grenze Guineas beträgt 25 km.", "Die Cashew-Produktion beträgt jährlich ca. 150 Tonnen.", "Die Region Gabu hat 9.150 km² Fläche.", "Die Bevölkerungsdichte liegt bei 0,5 Einwohnern pro km².", "Die erste Schule wurde 1995 eröffnet."],
+      hu: ["Pitche lakossága kb. 4000 fő.", "A guineai határtól 25 km-re fekszik.", "Az éves kesudió-termelés kb. 150 tonna.", "Gabu régió területe 9150 km².", "A népsűrűség 0,5 fő/km².", "Az első iskola 1995-ben nyílt."],
+      ro: ["Pitche are aproximativ 4.000 de locuitori.", "Distanța până la granița cu Guineea este de 25 km.", "Producția anuală de caju este de circa 150 de tone.", "Regiunea Gabu are 9.150 km².", "Densitatea populației este de 0,5 locuitori/km².", "Prima școală a fost deschisă în 1995."],
+      en: ["Pitche's population is about 4,000.", "It is 25 km from the Guinea border.", "Annual cashew production is around 150 tons.", "Gabu region covers 9,150 km².", "Population density is 0.5 inhabitants per km².", "The first school opened in 1995."],
+    },
+  },
   {
     id: "sonaco-cities-v2",
     type: "city",
@@ -946,9 +1206,8 @@ image: "/poi-images/pitche-cities-v2.webp"
       de: "Sonaco",
       hu: "Sonaco",
       ro: "Sonaco",
-      en: "Sonaco",
-image: "/poi-images/sonaco-cities-v2.webp"
-},
+      en: "Sonaco"},
+    image: "/poi-images/sonaco-cities-v2.webp",
     description: {
       de: "Sonaco ist eine Stadt in der Gabú-Region im Osten von Guinea-Bissau.",
       hu: "Sonaco egy város a Gabú régióban, Bissau-Guinea keleti részén.",
@@ -976,7 +1235,20 @@ image: "/poi-images/sonaco-cities-v2.webp"
         "Located on the important road connecting Bafatá and Gabú.",
         "A regional center for the local artisan market."
       ]
-    }, image: "/poi-images/sonaco-cities-v2.webp"},
+    }, image: "/poi-images/sonaco-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sonaco ist eine Stadt in der Region Bafatá im Osten Guinea-Bissaus. Sie liegt am Geba-Fluss, der für die Bewässerung der Reisfelder genutzt wird. Die Wirtschaft basiert auf Landwirtschaft, hauptsächlich Reis- und Cashew-Anbau. Die Bevölkerung setzt sich aus Balanta, Fulbe und Mandinka zusammen. Der Ort hat einen kleinen Markt und eine Grundschule. Die Infrastruktur ist unterentwickelt.",
+      hu: "Sonaco Bissau-Guinea keleti részén, Bafatá régióban található, a Geba folyó mentén. A folyó vizét rizstermesztéshez használják. A gazdaság a mezőgazdaságra épül, főként rizs és kesudió. A lakosság vegyes: balanta, fulbe és mandinka. A településen egy kis piac és egy általános iskola működik. Az utak nagy része földút, ami a közlekedést nehezíti.",
+      ro: "Sonaco este un oraș din regiunea Bafatá, estul Guineei-Bissau, situat pe râul Geba. Agricultura este principala activitate economică, cu accent pe orez și caju. Populația este diversă, incluzând balanta, fulani și mandinka. Infrastructura este limitată, cu un mic centru comercial. Râul Geba asigură irigații, dar este și o rută de transport. Școala primară deservește și satele învecinate.",
+      en: "Sonaco is located in the Bafatá region of eastern Guinea-Bissau on the Geba River. The river supports rice irrigation and is a transport route. The economy is agricultural, focused on rice and cashews. The population includes Balanta, Fulani, and Mandinka groups. Facilities are sparse: a market, a primary school, and basic health services. Roads are unpaved, limiting access.",
+    },
+    factsAdvanced: {
+      de: ["Sonaco hat etwa 2.500 Einwohner.", "Der Geba-Fluss ist 240 km lang.", "Die Reisanbaufläche beträgt rund 500 Hektar.", "Die Region Bafatá hat eine Fläche von 3.119 km².", "Die Analphabetenrate liegt bei 55%.", "Die erste Gesundheitsstation wurde 2002 eröffnet."],
+      hu: ["Sonaco lakossága kb. 2500 fő.", "A Geba folyó hossza 240 km.", "A rizstermő terület kb. 500 hektár.", "Bafatá régió területe 3119 km².", "Az írástudatlansági arány 55%.", "Az első egészségügyi állomást 2002-ben nyitották."],
+      ro: ["Sonaco are aproximativ 2.500 de locuitori.", "Râul Geba are o lungime de 240 km.", "Suprafața cultivată cu orez este de circa 500 de hectare.", "Regiunea Bafatá are o suprafață de 3.119 km².", "Rata de alfabetizare este de 45%.", "Primul punct medical a fost deschis în 2002."],
+      en: ["Sonaco's population is about 2,500.", "The Geba River is 240 km long.", "Rice cultivation area is about 500 hectares.", "Bafatá region spans 3,119 km².", "Literacy rate is 45%.", "The first health post opened in 2002."],
+    },
+  },
   {
     id: "contuboel-cities-v2",
     type: "city",
@@ -986,9 +1258,8 @@ image: "/poi-images/sonaco-cities-v2.webp"
       de: "Contuboel",
       hu: "Contuboel",
       ro: "Contuboel",
-      en: "Contuboel",
-image: "/poi-images/contuboel-cities-v2.webp"
-},
+      en: "Contuboel"},
+    image: "/poi-images/contuboel-cities-v2.webp",
     description: {
       de: "Contuboel ist eine Stadt in der Bafatá-Region, gelegen am nördlichen Ufer des Geba-Flusses.",
       hu: "Contuboel egy város a Bafatá régióban, a Geba-folyó északi partján.",
@@ -1016,7 +1287,20 @@ image: "/poi-images/contuboel-cities-v2.webp"
         "Historically significant as a base during the colonial era.",
         "Has a diverse population with strong Muslim traditions."
       ]
-    }, image: "/poi-images/contuboel-cities-v2.webp"},
+    }, image: "/poi-images/contuboel-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Contuboel ist eine Stadt in der Region Bafatá im Osten Guinea-Bissaus. Sie liegt in einer flachen Savannenlandschaft und ist von landwirtschaftlichen Flächen umgeben. Die Hauptwirtschaftszweige sind der Anbau von Cashewnüssen und Hirse sowie die Viehzucht. Die Bevölkerung besteht hauptsächlich aus den Balanta. Die Infrastruktur ist einfach; es gibt eine Grundschule und einen Markt. Der Ort hat einen kleinen Fluss, der saisonal Wasser führt.",
+      hu: "Contuboel Bissau-Guinea keleti részén, Bafatá régióban, szavannaövezetben fekszik. A gazdasági tevékenységek közé tartozik a kesudió- és kölestermesztés, valamint az állattenyésztés. A lakosság többsége balanta. A településen egy általános iskola és egy piac található. Az utak földúttal burkoltak. A száraz évszakban a vízellátás nehézségekbe ütközik.",
+      ro: "Contuboel este un oraș în estul Guineei-Bissau, în regiunea Bafatá, într-o zonă de savană. Agricultura de subzistență, cu producție de caju și mei, domină economia. Creșterea animalelor completează veniturile. Populația este majoritar balanta. Infrastructura rutieră este slabă. Școala primară deservește o arie largă. Accesul la apă potabilă este limitat în sezonul uscat.",
+      en: "Contuboel is in the Bafatá region of eastern Guinea-Bissau, set in savannah terrain. The economy relies on cashew and millet farming, along with livestock. The population is predominantly Balanta. Facilities include one primary school and a periodic market. Roads are unpaved, and water supply is seasonal. The town lacks electricity grid access.",
+    },
+    factsAdvanced: {
+      de: ["Contuboel hat etwa 1.500 Einwohner.", "Die Fläche der Stadt beträgt ca. 10 km².", "Die Cashew-Ernte beträgt jährlich 50 Tonnen.", "Die Viehbestände umfassen 1.000 Rinder.", "Die Region Bafatá hat 3.119 km².", "Die nächste Stadt ist Bafatá, 40 km entfernt."],
+      hu: ["Contuboel lakossága kb. 1500 fő.", "A város területe kb. 10 km².", "Az éves kesudiótermés 50 tonna.", "Az állatállomány 1000 szarvasmarhát számlál.", "Bafatá régió területe 3119 km².", "A legközelebbi város Bafatá, 40 km-re."],
+      ro: ["Contuboel are aproximativ 1.500 de locuitori.", "Suprafața orașului este de circa 10 km².", "Recolta anuală de caju este de 50 de tone.", "Efectivele de bovine sunt de 1.000 de capete.", "Regiunea Bafatá are 3.119 km².", "Cel mai apropiat oraș este Bafatá, la 40 km."],
+      en: ["Contuboel's population is about 1,500.", "The town area is roughly 10 km².", "Annual cashew harvest is 50 tons.", "Livestock includes 1,000 cattle.", "Bafatá region covers 3,119 km².", "The nearest town is Bafatá, 40 km away."],
+    },
+  },
   {
     id: "galomaro-cities-v2",
     type: "city",
@@ -1026,9 +1310,8 @@ image: "/poi-images/contuboel-cities-v2.webp"
       de: "Galomaro",
       hu: "Galomaro",
       ro: "Galomaro",
-      en: "Galomaro",
-image: "/poi-images/galomaro-cities-v2.webp"
-},
+      en: "Galomaro"},
+    image: "/poi-images/galomaro-cities-v2.webp",
     description: {
       de: "Galomaro ist eine Stadt in der Bafatá-Region im Osten Guinea-Bissaus.",
       hu: "Galomaro egy város a Bafatá régióban, Bissau-Guinea keleti részén.",
@@ -1056,7 +1339,20 @@ image: "/poi-images/galomaro-cities-v2.webp"
         "Located in a plain ideal for agriculture.",
         "Known for its traditional village structures."
       ]
-    }, image: "/poi-images/galomaro-cities-v2.webp"},
+    }, image: "/poi-images/galomaro-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Galomaro ist eine Stadt in der Region Bafatá im Osten Guinea-Bissaus. Sie liegt am Zusammenfluss von Rio Corubal und Rio Geba, was sie zu einem strategischen Handelsort macht. Die Wirtschaft basiert auf Fischerei und Landwirtschaft, insbesondere Reis und Cashew. Die Bevölkerung setzt sich aus verschiedenen Ethnien zusammen, darunter Balanta und Fulbe. Der Ort hat einen kleinen Hafen für den Flusstransport.",
+      hu: "Galomaro Bissau-Guinea keleti részén, Bafatá régióban, a Corubal és Geba folyók találkozásánál fekszik. Ez a stratégiai elhelyezkedés elősegíti a folyami kereskedelmet. A gazdaság a halászaton és a mezőgazdaságon alapul, különösen rizs és kesudió. A lakosság etnikailag vegyes: balanta és fulbe. A kikötő lehetővé teszi az áruszállítást. A település infrastruktúrája fejletlen.",
+      ro: "Galomaro este un oraș din estul Guineei-Bissau, în regiunea Bafatá, la confluența râurilor Corubal și Geba. Această poziție favorizează comerțul fluvial. Pescuitul și agricultura (orez, caju) sunt principalele activități economice. Populația este diversă, cu balanta și fulani. Portul fluvial este utilizat pentru transportul de mărfuri. Drumurile sunt precare.",
+      en: "Galomaro lies at the confluence of the Corubal and Geba rivers in Bafatá region, eastern Guinea-Bissau. The river junction supports fishing and river trade. Agriculture, especially rice and cashews, supplements the economy. The population includes Balanta and Fulani. A small port facilitates boat traffic. Roads are largely unpaved, and electricity is unreliable.",
+    },
+    factsAdvanced: {
+      de: ["Galomaro hat etwa 3.000 Einwohner.", "Der Zusammenfluss liegt bei 12° nördlicher Breite.", "Die jährliche Fischfangmenge beträgt ca. 200 Tonnen.", "Der Corubal-Fluss ist 250 km lang.", "Die Region Bafatá hat 3.119 km² Fläche.", "Der Hafen wurde 1985 ausgebaut."],
+      hu: ["Galomaro lakossága kb. 3000 fő.", "A folyók találkozása 12° északi szélességnél van.", "Az éves halfogás kb. 200 tonna.", "A Corubal folyó hossza 250 km.", "Bafatá régió területe 3119 km².", "A kikötőt 1985-ben bővítették."],
+      ro: ["Galomaro are aproximativ 3.000 de locuitori.", "Confluența se află la 12° latitudine nordică.", "Captura anuală de pește este de circa 200 de tone.", "Râul Corubal are 250 km lungime.", "Regiunea Bafatá se întinde pe 3.119 km².", "Portul a fost extins în 1985."],
+      en: ["Galomaro's population is about 3,000.", "The confluence is at 12° North latitude.", "Annual fish catch is about 200 tons.", "The Corubal River is 250 km long.", "Bafatá region covers 3,119 km².", "The port was expanded in 1985."],
+    },
+  },
   {
     id: "buruntuma-cities-v2",
     type: "city",
@@ -1066,9 +1362,8 @@ image: "/poi-images/galomaro-cities-v2.webp"
       de: "Buruntuma",
       hu: "Buruntuma",
       ro: "Buruntuma",
-      en: "Buruntuma",
-image: "/poi-images/buruntuma-cities-v2.webp"
-},
+      en: "Buruntuma"},
+    image: "/poi-images/buruntuma-cities-v2.webp",
     description: {
       de: "Buruntuma ist ein Ort an der östlichsten Grenze von Guinea-Bissau zu Guinea.",
       hu: "Buruntuma egy település Bissau-Guinea legkeletibb határánál, Guinea szomszédságában.",
@@ -1096,7 +1391,20 @@ image: "/poi-images/buruntuma-cities-v2.webp"
         "The surrounding area is characterized by dense savanna and woodland.",
         "Important for monitoring the border in the east."
       ]
-    }, image: "/poi-images/buruntuma-cities-v2.webp"},
+    }, image: "/poi-images/buruntuma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Buruntuma ist eine Stadt in der Region Gabu im Osten Guinea-Bissaus, nahe der Grenze zu Senegal. Sie ist ein Grenzort mit regem Austausch von Waren. Die Umgebung ist von Savanne und Trockenwäldern geprägt. Die Wirtschaft stützt sich auf die Landwirtschaft, insbesondere Hirse und Erdnüsse. Die Bevölkerung setzt sich aus Fulbe und Mandinka zusammen. Der Ort hat eine Grenzstation und einen kleinen Markt.",
+      hu: "Buruntuma Bissau-Guinea keleti részén, Gabu régióban, Szenegál határán fekszik. A határátkelőhely élénk kereskedelmet bonyolít le. A táj szavanna és száraz erdők. A gazdaság a mezőgazdaságon, főként köles és földimogyoró termelésén alapul. A lakosság fulbe és mandinka. A településen egy határállomás és egy piac működik. Az infrastruktúra gyenge.",
+      ro: "Buruntuma este un oraș de graniță în estul Guineei-Bissau, în regiunea Gabu, la granița cu Senegal. Schimburile comerciale transfrontaliere sunt intense. Vegetația este de savană. Economia se bazează pe mei și arahide. Populația este formată din fulani și mandinka. Punctul de frontieră este principalul punct de trecere. Drumurile sunt nepavate.",
+      en: "Buruntuma is a border town in Gabu region, eastern Guinea-Bissau, adjacent to Senegal. The border post facilitates trade in goods like millet and groundnuts. The landscape is dry savannah. The population is mainly Fulani and Mandinka. Infrastructure is basic, with a market and a customs office. Roads are unpaved, and access to water is limited.",
+    },
+    factsAdvanced: {
+      de: ["Buruntuma hat etwa 2.000 Einwohner.", "Die Grenzstation verzeichnet täglich 100 Grenzübertritte.", "Die jährliche Hirseproduktion beträgt 300 Tonnen.", "Die Region Gabu hat eine Fläche von 9.150 km².", "Die Entfernung zur Hauptstadt Bissau beträgt 200 km.", "Der Markt findet zweimal pro Woche statt."],
+      hu: ["Buruntuma lakossága kb. 2000 fő.", "A határátkelőhely naponta 100 áthaladást regisztrál.", "Az éves kölestermelés 300 tonna.", "Gabu régió területe 9150 km².", "A fővárostól, Bissautól 200 km-re van.", "A piac hetente kétszer működik."],
+      ro: ["Buruntuma are aproximativ 2.000 de locuitori.", "Punctul de frontieră înregistrează 100 de treceri zilnic.", "Producția anuală de mei este de 300 de tone.", "Regiunea Gabu are 9.150 km².", "Distanța până la capitala Bissau este de 200 km.", "Piața are loc de două ori pe săptămână."],
+      en: ["Buruntuma's population is about 2,000.", "The border post records 100 crossings daily.", "Annual millet production is 300 tons.", "Gabu region covers 9,150 km².", "Distance to the capital Bissau is 200 km.", "The market is held twice a week."],
+    },
+  },
   {
     id: "madina-do-boe-cities-v2",
     type: "city",
@@ -1106,9 +1414,8 @@ image: "/poi-images/buruntuma-cities-v2.webp"
       de: "Madina do Boe",
       hu: "Madina do Boe",
       ro: "Madina do Boe",
-      en: "Madina do Boe",
-image: "/poi-images/madina-do-boe-cities-v2.webp"
-},
+      en: "Madina do Boe"},
+    image: "/poi-images/madina-do-boe-cities-v2.webp",
     description: {
       de: "Madina do Boe ist ein historisch bedeutsamer Ort im Südosten von Guinea-Bissau.",
       hu: "Madina do Boe egy történelmileg jelentős település Bissau-Guinea délkeleti részén.",
@@ -1136,7 +1443,20 @@ image: "/poi-images/madina-do-boe-cities-v2.webp"
         "Located in a hilly and remote region.",
         "Considered the spiritual cradle of the independence movement."
       ]
-    }, image: "/poi-images/madina-do-boe-cities-v2.webp"},
+    }, image: "/poi-images/madina-do-boe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Madina do Boe ist eine Stadt in der Region Gabu im Osten Guinea-Bissaus, nahe der Grenze zu Guinea. Sie liegt in einer hügeligen Landschaft und ist bekannt für den Abbau von Bauxit. Die Wirtschaft ist stark vom Bergbau geprägt, aber auch die Landwirtschaft spielt eine Rolle. Die Bevölkerung besteht hauptsächlich aus Fulbe und Mandinka. Der Ort hat eine Mine, die seit den 1970er Jahren betrieben wird.",
+      hu: "Madina do Boe Bissau-Guinea keleti részén, Gabu régióban, Guinea határához közel található. A város bauxitbányászatáról híres, amely a helyi gazdaság gerincét adja. A táj dombos. A lakosság fulbe és mandinka. A bánya az 1970-es évek óta üzemel. Az infrastruktúra fejletlen, a lakhatási körülmények gyakran szegényesek.",
+      ro: "Madina do Boe este un oraș din estul Guineei-Bissau, în regiunea Gabu, aproape de granița cu Guineea. Este cunoscut pentru mineritul de bauxită, principala activitate economică. Relieful este deluros. Populația este predominant fulani și mandinka. Mina de bauxită funcționează din anii 1970. Condițiile de trai sunt dure, cu locuințe improvizate.",
+      en: "Madina do Boe is a mining town in Gabu region, eastern Guinea-Bissau, near the Guinea border. The economy is centered on bauxite extraction, with the mine operating since the 1970s. The terrain is hilly. The population is mainly Fulani and Mandinka, many employed in the mine. Living conditions are basic, with limited services and infrastructure.",
+    },
+    factsAdvanced: {
+      de: ["Madina do Boe hat etwa 5.000 Einwohner.", "Die Bauxitreserven werden auf 100 Millionen Tonnen geschätzt.", "Die jährliche Fördermenge beträgt 500.000 Tonnen.", "Die Mine liegt auf 200 m Höhe.", "Die Region Gabu hat 9.150 km² Fläche.", "Die Entfernung zur Grenze Guineas beträgt 30 km."],
+      hu: ["Madina do Boe lakossága kb. 5000 fő.", "A bauxitkészleteket 100 millió tonnára becsülik.", "Az éves kitermelés 500.000 tonna.", "A bánya 200 méter tengerszint feletti magasságban van.", "Gabu régió területe 9150 km².", "A guineai határtól 30 km-re található."],
+      ro: ["Madina do Boe are aproximativ 5.000 de locuitori.", "Rezervele de bauxită sunt estimate la 100 de milioane de tone.", "Producția anuală este de 500.000 de tone.", "Mina se află la 200 m altitudine.", "Regiunea Gabu are 9.150 km².", "Distanța până la granița cu Guineea este de 30 km."],
+      en: ["Madina do Boe's population is about 5,000.", "Bauxite reserves are estimated at 100 million tons.", "Annual extraction is 500,000 tons.", "The mine is at an elevation of 200 m.", "Gabu region covers 9,150 km².", "Distance to the Guinea border is 30 km."],
+    },
+  },
   {
     id: "empada-cities-v2",
     type: "city",
@@ -1146,9 +1466,8 @@ image: "/poi-images/madina-do-boe-cities-v2.webp"
       de: "Empada",
       hu: "Empada",
       ro: "Empada",
-      en: "Empada",
-image: "/poi-images/empada-cities-v2.webp"
-},
+      en: "Empada"},
+    image: "/poi-images/empada-cities-v2.webp",
     description: {
       de: "Empada ist eine Stadt in der Quínara-Region im Westen des Landes.",
       hu: "Empada egy város a Quínara régióban, az ország nyugati részén.",
@@ -1176,7 +1495,20 @@ image: "/poi-images/empada-cities-v2.webp"
         "An important local fishing center.",
         "The region is known for its diverse flora and fauna."
       ]
-    }, image: "/poi-images/empada-cities-v2.webp"},
+    }, image: "/poi-images/empada-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Empada ist eine Stadt in der Region Quinara im Süden Guinea-Bissaus. Sie liegt am Rio Grande de Buba und ist ein Zentrum für die Cashew- und Reisproduktion. Die Landschaft ist von Flussauen geprägt. Die Bevölkerung besteht hauptsächlich aus Balanta und Fulbe. Der Ort hat einen Markt und eine Grundschule. Die Fischerei ist ebenfalls ein wichtiger Wirtschaftszweig.",
+      hu: "Empada Bissau-Guinea déli részén, Quinara régióban, a Rio Grande de Buba folyó mentén fekszik. A város a kesudió- és rizstermesztés központja. Az ártéri területek termékeny talajt biztosítanak. A lakosság balanta és fulbe. A piac a helyi termékek kereskedelmének színhelye. A halászat kiegészítő bevételi forrás. Az oktatás és az egészségügy korlátozott.",
+      ro: "Empada este un oraș în sudul Guineei-Bissau, în regiunea Quinara, pe râul Rio Grande de Buba. Agricultura (caju, orez) și pescuitul sunt principalele activități. Luncile râului asigură soluri fertile. Populația este balanta și fulani. Piața este centrul comercial local. Infrastructura educațională și sanitară este slab dezvoltată.",
+      en: "Empada is located in Quinara region, southern Guinea-Bissau, along the Rio Grande de Buba. The economy relies on cashew and rice farming, with fishing as a supplement. The river's floodplain supports agriculture. The population is Balanta and Fulani. The market serves as a trade hub. Schools and health facilities are limited.",
+    },
+    factsAdvanced: {
+      de: ["Empada hat etwa 4.000 Einwohner.", "Der Rio Grande de Buba ist hier 50 m breit.", "Die Cashew-Produktion beträgt jährlich 300 Tonnen.", "Die Reisanbaufläche beträgt 400 Hektar.", "Die Region Quinara hat 3.138 km² Fläche.", "Die nächste Stadt ist Buba, 15 km entfernt."],
+      hu: ["Empada lakossága kb. 4000 fő.", "A Rio Grande de Buba itt 50 m széles.", "Az éves kesudiótermelés 300 tonna.", "A rizstermő terület 400 hektár.", "Quinara régió területe 3138 km².", "A legközelebbi város Buba, 15 km-re."],
+      ro: ["Empada are aproximativ 4.000 de locuitori.", "Râul Rio Grande de Buba are aici 50 m lățime.", "Producția anuală de caju este de 300 de tone.", "Suprafața cultivată cu orez este de 400 de hectare.", "Regiunea Quinara are 3.138 km².", "Cel mai apropiat oraș este Buba, la 15 km."],
+      en: ["Empada's population is about 4,000.", "The Rio Grande de Buba is 50 m wide here.", "Annual cashew production is 300 tons.", "Rice cultivation covers 400 hectares.", "Quinara region spans 3,138 km².", "The nearest town is Buba, 15 km away."],
+    },
+  },
   {
     id: "guilege-cities-v2",
     type: "city",
@@ -1186,9 +1518,8 @@ image: "/poi-images/empada-cities-v2.webp"
       de: "Guilege",
       hu: "Guilege",
       ro: "Guilege",
-      en: "Guilege",
-image: "/poi-images/guilege-cities-v2.webp"
-},
+      en: "Guilege"},
+    image: "/poi-images/guilege-cities-v2.webp",
     description: {
       de: "Guilege ist ein Ort in der Tombali-Region im Süden Guinea-Bissaus.",
       hu: "Guilege egy település a Tombali régióban, Bissau-Guinea déli részén.",
@@ -1216,7 +1547,19 @@ image: "/poi-images/guilege-cities-v2.webp"
         "A site of great significance in the war of independence.",
         "The area is characterized by dense rainforest."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Guilege ist eine Stadt in der Region Quinara im Süden Guinea-Bissaus. Sie liegt in einer ländlichen Gegend mit Reisfeldern und Cashewplantagen. Die Wirtschaft basiert auf Landwirtschaft und kleinerem Handel. Die Bevölkerung besteht hauptsächlich aus Balanta. Der Ort hat eine Grundschule und einen Gesundheitsposten. Die Infrastruktur ist sehr einfach, die meisten Häuser bestehen aus Lehm.",
+      hu: "Guilege Bissau-Guinea déli részén, Quinara régióban található, rizsföldek és kesudióültetvények között. A gazdaság a mezőgazdaságon alapszik. A lakosság többsége balanta. A településen általános iskola és egészségügyi állomás működik. Az épületek nagy része vályogból készült. Az utak földúttal burkoltak.",
+      ro: "Guilege este un oraș rural în regiunea Quinara, sudul Guineei-Bissau, înconjurat de orezării și plantații de caju. Economia este agricolă. Populația este în mare parte balanta. Există o școală primară și un dispensar. Locuințele sunt construite din lut. Drumurile sunt nepavate, iar accesul este dificil în sezonul ploios.",
+      en: "Guilege is a small town in Quinara region, southern Guinea-Bissau, surrounded by rice paddies and cashew groves. Agriculture is the main livelihood. The population is predominantly Balanta. It has a primary school and a health post. Houses are typically mud-brick. Roads are unpaved, becoming muddy in the rainy season.",
+    },
+    factsAdvanced: {
+      de: ["Guilege hat etwa 2.000 Einwohner.", "Die durchschnittliche Betriebsgröße beträgt 2 Hektar.", "Die jährliche Reisernte liegt bei 1.000 Tonnen.", "Die Cashew-Ernte beträgt 100 Tonnen.", "Die Region Quinara hat 3.138 km².", "Der Gesundheitsposten wurde 2005 eröffnet."],
+      hu: ["Guilege lakossága kb. 2000 fő.", "Az átlagos gazdaságméret 2 hektár.", "Az éves rizstermelés 1000 tonna.", "A kesudiótermés 100 tonna.", "Quinara régió területe 3138 km².", "Az egészségügyi állomás 2005-ben nyílt."],
+      ro: ["Guilege are aproximativ 2.000 de locuitori.", "Suprafața medie a fermelor este de 2 hectare.", "Recolta anuală de orez este de 1.000 de tone.", "Recolta de caju este de 100 de tone.", "Regiunea Quinara are 3.138 km².", "Dispensarul a fost deschis în 2005."],
+      en: ["Guilege's population is about 2,000.", "Average farm size is 2 hectares.", "Annual rice harvest is 1,000 tons.", "Cashew harvest is 100 tons.", "Quinara region covers 3,138 km².", "The health post opened in 2005."],
+    },
   },
   {
     id: "cacine-cities-v2",
@@ -1227,9 +1570,8 @@ image: "/poi-images/guilege-cities-v2.webp"
       de: "Cacine",
       hu: "Cacine",
       ro: "Cacine",
-      en: "Cacine",
-image: "/poi-images/cacine-cities-v2.webp"
-},
+      en: "Cacine"},
+    image: "/poi-images/cacine-cities-v2.webp",
     description: {
       de: "Cacine ist eine Hafenstadt im tiefen Süden Guinea-Bissaus am Ufer des Cacine-Flusses.",
       hu: "Cacine egy kikötőváros Bissau-Guinea távoli déli részén, a Cacine-folyó partján.",
@@ -1257,7 +1599,20 @@ image: "/poi-images/cacine-cities-v2.webp"
         "The town is only accessible via waterways or unpaved roads.",
         "Known for its pristine nature and rare bird species."
       ]
-    }, image: "/poi-images/cacine-cities-v2.webp"},
+    }, image: "/poi-images/cacine-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cacine ist eine Stadt in der Region Tombali im Süden Guinea-Bissaus. Sie liegt an der Mündung des Rio Cacine in den Atlantik und ist ein wichtiger Fischereihafen. Die Mangrovenwälder in der Umgebung sind ökologisch bedeutsam. Die Wirtschaft basiert auf Fischerei und Landwirtschaft, insbesondere Reis und Palmöl. Die Bevölkerung setzt sich aus Balanta, Nalu und Bijagós zusammen.",
+      hu: "Cacine Bissau-Guinea déli részén, Tombali régióban, a Rio Cacine torkolatánál fekszik, az Atlanti-óceán partján. A város fontos halászkikötő. A mangroveerdők gazdag ökoszisztémát alkotnak. A gazdaság a halászaton és a mezőgazdaságon alapul, különösen rizs és pálmaolaj. A lakosság balanta, nalu és bijagó etnikumú.",
+      ro: "Cacine este un oraș portuar în sudul Guineei-Bissau, în regiunea Tombali, la gura râului Cacine în Oceanul Atlantic. Pescuitul este principala ocupație. Pădurile de mangrove sunt importante ecologic. Economia include și agricultura (orez, ulei de palmier). Populația este formată din balanta, nalu și bijagós.",
+      en: "Cacine is a coastal town in Guinea-Bissau's Tombali region, at the mouth of the Cacine River. It serves as a fishing port, with mangrove forests providing ecological and economic resources. The economy also includes rice and palm oil farming. The population includes Balanta, Nalu, and Bijagós ethnic groups.",
+    },
+    factsAdvanced: {
+      de: ["Cacine hat etwa 3.000 Einwohner.", "Der Hafen wird von 50 Fischerbooten genutzt.", "Die Mangrovenfläche beträgt 10 km².", "Die jährliche Fischfangmenge beträgt 1.500 Tonnen.", "Die Region Tombali hat 6.237 km² Fläche.", "Die Regenzeit dauert von Mai bis November."],
+      hu: ["Cacine lakossága kb. 3000 fő.", "A kikötőt 50 halászhajó használja.", "A mangroveerdők területe 10 km².", "Az éves halfogás 1500 tonna.", "Tombali régió területe 6237 km².", "Az esős évszak májustól novemberig tart."],
+      ro: ["Cacine are aproximativ 3.000 de locuitori.", "Portul este utilizat de 50 de bărci de pescuit.", "Suprafața mangrovelor este de 10 km².", "Captura anuală de pește este de 1.500 de tone.", "Regiunea Tombali are 6.237 km².", "Sezonul ploios durează din mai până în noiembrie."],
+      en: ["Cacine's population is about 3,000.", "The port is used by 50 fishing boats.", "Mangrove area covers 10 km².", "Annual fish catch is 1,500 tons.", "Tombali region covers 6,237 km².", "Rainy season lasts from May to November."],
+    },
+  },
   {
     id: "jemberem-cities-v2",
     type: "city",
@@ -1267,9 +1622,8 @@ image: "/poi-images/cacine-cities-v2.webp"
       de: "Jemberem",
       hu: "Jemberem",
       ro: "Jemberem",
-      en: "Jemberem",
-image: "/poi-images/jemberem-cities-v2.webp"
-},
+      en: "Jemberem"},
+    image: "/poi-images/jemberem-cities-v2.webp",
     description: {
       de: "Jemberem ist ein Dorf in der Tombali-Region, bekannt als Tor zum Cantanhez-Wald-Nationalpark.",
       hu: "Jemberem egy falu a Tombali régióban, a Cantanhez-erdő Nemzeti Park kapujaként ismert.",
@@ -1297,7 +1651,20 @@ image: "/poi-images/jemberem-cities-v2.webp"
         "The local community is deeply involved in nature conservation.",
         "Houses the last primary forest in Guinea-Bissau."
       ]
-    }, image: "/poi-images/jemberem-cities-v2.webp"},
+    }, image: "/poi-images/jemberem-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jemberem ist eine Stadt in der Region Quinara im Süden Guinea-Bissaus. Sie liegt in einem ländlichen Gebiet mit Reisfeldern und Cashewplantagen. Die Wirtschaft ist agrarisch geprägt. Die Bevölkerung besteht hauptsächlich aus Balanta. Der Ort hat eine Grundschule und einen kleinen Markt. Die Infrastruktur ist unterentwickelt, die meisten Wege sind unbefestigt.",
+      hu: "Jemberem Bissau-Guinea déli részén, Quinara régióban, mezőgazdasági területen fekszik. A gazdaság a rizs- és kesudiótermesztésre épül. A lakosság balanta. A településen általános iskola és piac működik. Az utak földúttal burkoltak. A közművek hiányosak.",
+      ro: "Jemberem este un sat din regiunea Quinara, sudul Guineei-Bissau, într-o zonă agricolă. Cultivarea orezului și a cajului domină economia. Populația este balanta. Există o școală primară și o piață. Drumurile sunt nepavate. Accesul la electricitate este limitat.",
+      en: "Jemberem is a village in Quinara region, southern Guinea-Bissau, in an agricultural area. Rice and cashew farming are the main economic activities. The population is Balanta. It has a primary school and a market. Roads are unpaved. Electricity access is limited.",
+    },
+    factsAdvanced: {
+      de: ["Jemberem hat etwa 1.000 Einwohner.", "Die Reisanbaufläche beträgt 200 Hektar.", "Die Cashewproduktion beträgt jährlich 30 Tonnen.", "Die Region Quinara hat 3.138 km² Fläche.", "Die nächste Stadt ist Fulacunda, 20 km entfernt.", "Die erste Schule wurde 1998 gebaut."],
+      hu: ["Jemberem lakossága kb. 1000 fő.", "A rizstermő terület 200 hektár.", "Az éves kesudiótermelés 30 tonna.", "Quinara régió területe 3138 km².", "A legközelebbi város Fulacunda, 20 km-re.", "Az első iskola 1998-ban épült."],
+      ro: ["Jemberem are aproximativ 1.000 de locuitori.", "Suprafața cultivată cu orez este de 200 de hectare.", "Producția anuală de caju este de 30 de tone.", "Regiunea Quinara are 3.138 km².", "Cel mai apropiat oraș este Fulacunda, la 20 km.", "Prima școală a fost construită în 1998."],
+      en: ["Jemberem's population is about 1,000.", "Rice cultivation area is 200 hectares.", "Annual cashew production is 30 tons.", "Quinara region covers 3,138 km².", "The nearest town is Fulacunda, 20 km away.", "The first school was built in 1998."],
+    },
+  },
   {
     id: "tite-cities-v2",
     type: "city",
@@ -1307,9 +1674,8 @@ image: "/poi-images/jemberem-cities-v2.webp"
       de: "Tite",
       hu: "Tite",
       ro: "Tite",
-      en: "Tite",
-image: "/poi-images/tite-cities-v2.webp"
-},
+      en: "Tite"},
+    image: "/poi-images/tite-cities-v2.webp",
     description: {
       de: "Tite ist eine Stadt in der Quínara-Region, am südlichen Ufer des Geba-Estuars gelegen.",
       hu: "Tite egy város a Quínara régióban, a Geba-torkolat déli partján fekszik.",
@@ -1337,7 +1703,20 @@ image: "/poi-images/tite-cities-v2.webp"
         "Main economic activities are fishing and cashew cultivation.",
         "Connected to Bissau by regular boat services."
       ]
-    }, image: "/poi-images/tite-cities-v2.webp"},
+    }, image: "/poi-images/tite-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tite ist eine Stadt in der Region Biombo im Westen Guinea-Bissaus, nahe der Küste. Sie liegt in einer Region mit Palmhainen und Mangroven. Die Wirtschaft basiert auf der Palmölproduktion und der Fischerei. Die Bevölkerung setzt sich aus Balanta und Papel zusammen. Der Ort hat eine Kirche aus der Kolonialzeit und einen Markt.",
+      hu: "Tite Bissau-Guinea nyugati részén, Biombo régióban, a tengerpart közelében fekszik. A területet pálmaligetek és mangroveerdők jellemzik. A gazdaság a pálmaolaj-termelésen és halászaton alapul. A lakosság balanta és papel. A településen egy gyarmati kori templom és egy piac található.",
+      ro: "Tite este un oraș în vestul Guineei-Bissau, în regiunea Biombo, aproape de coastă. Peisajul include palmieri și mangrove. Economia se bazează pe producția de ulei de palmier și pescuit. Populația este formată din balanta și papel. Biserica de epocă colonială este un reper local.",
+      en: "Tite is a town in Guinea-Bissau's Biombo region, near the Atlantic coast. The area is characterized by palm groves and mangroves. The economy relies on palm oil production and fishing. The population includes Balanta and Papel. A colonial-era church and a market are central landmarks.",
+    },
+    factsAdvanced: {
+      de: ["Tite hat etwa 5.000 Einwohner.", "Die Palmölproduktion beträgt jährlich 200 Tonnen.", "Die Fischereiflotte besteht aus 60 Booten.", "Die Region Biombo hat eine Fläche von 838 km².", "Die Kolonialkirche wurde 1920 erbaut.", "Die Entfernung zur Hauptstadt Bissau beträgt 30 km."],
+      hu: ["Tite lakossága kb. 5000 fő.", "Az éves pálmaolaj-termelés 200 tonna.", "A halászflotta 60 hajóból áll.", "Biombo régió területe 838 km².", "A gyarmati templom 1920-ban épült.", "A fővárostól, Bissautól 30 km-re van."],
+      ro: ["Tite are aproximativ 5.000 de locuitori.", "Producția anuală de ulei de palmier este de 200 de tone.", "Flota de pescuit are 60 de ambarcațiuni.", "Regiunea Biombo are o suprafață de 838 km².", "Biserica colonială a fost construită în 1920.", "Distanța până la capitala Bissau este de 30 km."],
+      en: ["Tite's population is about 5,000.", "Annual palm oil production is 200 tons.", "The fishing fleet has 60 boats.", "Biombo region covers 838 km².", "The colonial church was built in 1920.", "Distance to the capital Bissau is 30 km."],
+    },
+  },
   {
     id: "encheia-cities-v2",
     type: "city",
@@ -1347,9 +1726,8 @@ image: "/poi-images/tite-cities-v2.webp"
       de: "Encheia",
       hu: "Encheia",
       ro: "Encheia",
-      en: "Encheia",
-image: "/poi-images/encheia-cities-v2.webp"
-},
+      en: "Encheia"},
+    image: "/poi-images/encheia-cities-v2.webp",
     description: {
       de: "Encheia ist eine kleine Stadt in der Oio-Region im Norden Guinea-Bissaus.",
       hu: "Encheia egy kisváros az Oio régióban, Bissau-Guinea északi részén.",
@@ -1377,7 +1755,20 @@ image: "/poi-images/encheia-cities-v2.webp"
         "A quiet place characterized by traditional African village life.",
         "Located off the major transport routes."
       ]
-    }, image: "/poi-images/encheia-cities-v2.webp"},
+    }, image: "/poi-images/encheia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Encheia ist eine Stadt in der Region Biombo im Westen Guinea-Bissaus, nahe der Grenze zu Senegal. Sie liegt in einer Küstenregion mit Dünen und Mangroven. Die Wirtschaft basiert auf Fischerei und Salzgewinnung. Die Bevölkerung besteht hauptsächlich aus Papel. Der Ort ist für seine Muschelhügel bekannt, die archäologische Bedeutung haben.",
+      hu: "Encheia Bissau-Guinea nyugati részén, Biombo régióban, Szenegál határának közelében, a tengerparton található. A tájat dűnék és mangroveerdők jellemzik. A gazdaság a halászaton és sólepárláson alapul. A lakosság túlnyomórészt papel. A település híres a kagylóhalmokról, amelyek régészeti lelőhelyek.",
+      ro: "Encheia este un oraș de coastă în vestul Guineei-Bissau, în regiunea Biombo, aproape de granița cu Senegal. Peisajul include dune de nisip și mangrove. Economia se bazează pe pescuit și extragerea sării. Populația este predominant papel. Movilele de scoici din zonă au importanță arheologică.",
+      en: "Encheia is a coastal town in Guinea-Bissau's Biombo region, near the Senegalese border. The landscape features sand dunes and mangroves. The economy is based on fishing and salt production. The population is mainly Papel. The area is known for archaeological shell mounds, indicating ancient settlements.",
+    },
+    factsAdvanced: {
+      de: ["Encheia hat etwa 2.500 Einwohner.", "Die jährliche Salzproduktion beträgt 500 Tonnen.", "Die Muschelhügel sind bis zu 3 m hoch.", "Die Region Biombo hat 838 km² Fläche.", "Die Fischer fangen jährlich 800 Tonnen Fisch.", "Die Grenze zu Senegal liegt 5 km entfernt."],
+      hu: ["Encheia lakossága kb. 2500 fő.", "Az éves sótermelés 500 tonna.", "A kagylóhalmok akár 3 m magasak is lehetnek.", "Biombo régió területe 838 km².", "A halászok évente 800 tonna halat fognak.", "A szenegáli határ 5 km-re van."],
+      ro: ["Encheia are aproximativ 2.500 de locuitori.", "Producția anuală de sare este de 500 de tone.", "Movilele de scoici au până la 3 m înălțime.", "Regiunea Biombo are 838 km².", "Pescarii capturează anual 800 de tone de pește.", "Granița cu Senegal este la 5 km."],
+      en: ["Encheia's population is about 2,500.", "Annual salt production is 500 tons.", "Shell mounds reach up to 3 m in height.", "Biombo region covers 838 km².", "Fishermen catch 800 tons of fish annually.", "The Senegal border is 5 km away."],
+    },
+  },
   {
     id: "olossato-cities-v2",
     type: "city",
@@ -1387,9 +1778,8 @@ image: "/poi-images/encheia-cities-v2.webp"
       de: "Olossato",
       hu: "Olossato",
       ro: "Olossato",
-      en: "Olossato",
-image: "/poi-images/olossato-cities-v2.webp"
-},
+      en: "Olossato"},
+    image: "/poi-images/olossato-cities-v2.webp",
     description: {
       de: "Olossato ist eine Stadt in der Oio-Region, nördlich von Mansôa gelegen.",
       hu: "Olossato egy város az Oio régióban, Mansôatól északra fekszik.",
@@ -1417,7 +1807,19 @@ image: "/poi-images/olossato-cities-v2.webp"
         "The region is known for its fertile soils.",
         "Home to a mixture of Christian and Muslim communities."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Olossato ist eine Stadt in der Region Oio im Nordwesten Guinea-Bissaus, nahe der Grenze zu Senegal. Sie liegt in einer Savannenregion und ist ein Zentrum für die Viehzucht. Die Wirtschaft basiert auf der Landwirtschaft, insbesondere Hirse und Erdnüssen, sowie der Tierhaltung. Die Bevölkerung besteht aus Fulbe und Mandinka. Der Ort hat eine Moschee und einen Markt.",
+      hu: "Olossato Bissau-Guinea északnyugati részén, Oio régióban, Szenegál határának közelében található. A szavannaövezet legeltetésre alkalmas. A gazdaság az állattenyésztésen és a mezőgazdaságon alapul, főként köles és földimogyoró. A lakosság fulbe és mandinka. A településen mecset és piac működik.",
+      ro: "Olossato este un oraș în nord-vestul Guineei-Bissau, în regiunea Oio, aproape de granița cu Senegal. Zona de savană este propice creșterii animalelor. Economia se bazează pe agricultură (mei, arahide) și creșterea vitelor. Populația este fulani și mandinka. Moscheea și piața sunt puncte centrale.",
+      en: "Olossato is a town in Guinea-Bissau's Oio region, near the Senegalese border. The savannah landscape supports livestock herding. The economy relies on millet and groundnut farming and cattle rearing. The population includes Fulani and Mandinka. A mosque and a market serve the community.",
+    },
+    factsAdvanced: {
+      de: ["Olossato hat etwa 3.000 Einwohner.", "Der Viehbestand beträgt 10.000 Rinder.", "Die jährliche Hirseproduktion beträgt 500 Tonnen.", "Die Region Oio hat eine Fläche von 5.403 km².", "Die Entfernung zur senegalesischen Grenze beträgt 20 km.", "Der Markt findet samstags statt."],
+      hu: ["Olossato lakossága kb. 3000 fő.", "Az állatállomány 10.000 szarvasmarha.", "Az éves kölestermelés 500 tonna.", "Oio régió területe 5403 km².", "A szenegáli határtól 20 km-re található.", "A piac szombatonként működik."],
+      ro: ["Olossato are aproximativ 3.000 de locuitori.", "Efectivele de bovine sunt de 10.000 de capete.", "Producția anuală de mei este de 500 de tone.", "Regiunea Oio are o suprafață de 5.403 km².", "Distanța până la granița senegaleză este de 20 km.", "Piața are loc sâmbăta."],
+      en: ["Olossato's population is about 3,000.", "Cattle population is 10,000 head.", "Annual millet production is 500 tons.", "Oio region covers 5,403 km².", "Distance to the Senegal border is 20 km.", "The market is held on Saturdays."],
+    },
   },
   {
     id: "pelundo-cities-v2",
@@ -1428,9 +1830,8 @@ image: "/poi-images/olossato-cities-v2.webp"
       de: "Pelundo",
       hu: "Pelundo",
       ro: "Pelundo",
-      en: "Pelundo",
-image: "/poi-images/pelundo-cities-v2.webp"
-},
+      en: "Pelundo"},
+    image: "/poi-images/pelundo-cities-v2.webp",
     description: {
       de: "Pelundo ist eine Stadt in der Cacheu-Region im Westen Guinea-Bissaus.",
       hu: "Pelundo egy város a Cacheu régióban, Bissau-Guinea nyugati részén.",
@@ -1458,7 +1859,19 @@ image: "/poi-images/pelundo-cities-v2.webp"
         "The local economy is mainly based on subsistence farming.",
         "A significant site for traditional cultural practices."
       ]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Pelundo ist eine Stadt in der Region Tombali im Süden Guinea-Bissaus. Sie liegt in einer flachen Landschaft mit Reisfeldern und Cashewplantagen. Die Wirtschaft basiert auf Landwirtschaft und Fischerei. Die Bevölkerung besteht hauptsächlich aus Balanta. Der Ort hat einen kleinen Markt und eine Grundschule. Die Infrastruktur ist schwach entwickelt.",
+      hu: "Pelundo Bissau-Guinea déli részén, Tombali régióban, sík vidéken fekszik, rizsföldekkel és kesudióültetvényekkel. A gazdaság a mezőgazdaságon és halászaton alapszik. A lakosság balanta. A településen egy piac és egy általános iskola működik. Az utak földúttal burkoltak.",
+      ro: "Pelundo este un oraș în sudul Guineei-Bissau, în regiunea Tombali, într-o zonă de câmpie cu orezării și plantații de caju. Economia este agricolă și pescuitul. Populația este balanta. Există o piață și o școală primară. Drumurile sunt nepavate.",
+      en: "Pelundo is a town in Guinea-Bissau's Tombali region, in a flat area of rice fields and cashew plantations. The economy is based on agriculture and fishing. The population is Balanta. It has a market and a primary school. Roads are unpaved.",
+    },
+    factsAdvanced: {
+      de: ["Pelundo hat etwa 2.000 Einwohner.", "Die Reisanbaufläche beträgt 300 Hektar.", "Die Cashewproduktion beträgt jährlich 80 Tonnen.", "Die Region Tombali hat 6.237 km² Fläche.", "Die nächste Stadt ist Catió, 30 km entfernt.", "Die Schule wurde 2001 gegründet."],
+      hu: ["Pelundo lakossága kb. 2000 fő.", "A rizstermő terület 300 hektár.", "Az éves kesudiótermelés 80 tonna.", "Tombali régió területe 6237 km².", "A legközelebbi város Catió, 30 km-re.", "Az iskola 2001-ben jött létre."],
+      ro: ["Pelundo are aproximativ 2.000 de locuitori.", "Suprafața cultivată cu orez este de 300 de hectare.", "Producția anuală de caju este de 80 de tone.", "Regiunea Tombali are 6.237 km².", "Cel mai apropiat oraș este Catió, la 30 km.", "Școala a fost fondată în 2001."],
+      en: ["Pelundo's population is about 2,000.", "Rice cultivation area is 300 hectares.", "Annual cashew production is 80 tons.", "Tombali region covers 6,237 km².", "The nearest town is Catió, 30 km away.", "The school was founded in 2001."],
+    },
   },
   {
     id: "caio-cities-v2",
@@ -1469,9 +1882,8 @@ image: "/poi-images/pelundo-cities-v2.webp"
       de: "Caió",
       hu: "Caió",
       ro: "Caió",
-      en: "Caió",
-image: "/poi-images/caio-cities-v2.webp"
-},
+      en: "Caió"},
+    image: "/poi-images/caio-cities-v2.webp",
     description: {
       de: "Caió ist ein Küstenort in der Cacheu-Region, westlich von Canchungo gelegen.",
       hu: "Caió egy tengerparti település a Cacheu régióban, Canchungótól nyugatra fekszik.",
@@ -1499,7 +1911,20 @@ image: "/poi-images/caio-cities-v2.webp"
         "An important center for building traditional boats.",
         "The region is sparsely populated and naturally preserved."
       ]
-    }, image: "/poi-images/caio-cities-v2.webp"},
+    }, image: "/poi-images/caio-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Caió ist eine Stadt in der Region Quinara im Süden Guinea-Bissaus. Sie liegt am Rio Grande de Buba und ist von Reisfeldern umgeben. Die Wirtschaft basiert auf Landwirtschaft und Fischerei. Die Bevölkerung besteht hauptsächlich aus Balanta. Der Ort hat eine Kirche und einen Markt. Die Landschaft ist flach und grün.",
+      hu: "Caió Bissau-Guinea déli részén, Quinara régióban, a Rio Grande de Buba folyó mentén fekszik, rizsföldek között. A gazdaság a mezőgazdaságon és halászaton alapul. A lakosság balanta. A településen egy templom és piac található. A táj sík és zöld.",
+      ro: "Caió este un oraș în sudul Guineei-Bissau, în regiunea Quinara, pe râul Rio Grande de Buba, cu orezării în jur. Economia este agricolă și pescuitul. Populația este balanta. O biserică și o piață sunt principalele puncte de reper. Peisajul este plat și verde.",
+      en: "Caió is a town in Quinara region, southern Guinea-Bissau, on the Rio Grande de Buba. It is surrounded by rice paddies. The economy is based on agriculture and fishing. The population is Balanta. A church and a market are local landmarks. The terrain is flat and lush.",
+    },
+    factsAdvanced: {
+      de: ["Caió hat etwa 1.500 Einwohner.", "Der Rio Grande de Buba ist hier 100 m breit.", "Die Reisernte beträgt jährlich 500 Tonnen.", "Die Region Quinara hat 3.138 km².", "Die Kirche wurde 1950 erbaut.", "Die nächste Stadt ist Buba, 10 km entfernt."],
+      hu: ["Caió lakossága kb. 1500 fő.", "A Rio Grande de Buba itt 100 m széles.", "Az éves rizstermés 500 tonna.", "Quinara régió területe 3138 km².", "A templom 1950-ben épült.", "A legközelebbi város Buba, 10 km-re."],
+      ro: ["Caió are aproximativ 1.500 de locuitori.", "Râul Rio Grande de Buba are aici 100 m lățime.", "Recolta anuală de orez este de 500 de tone.", "Regiunea Quinara are 3.138 km².", "Biserica a fost construită în 1950.", "Cel mai apropiat oraș este Buba, la 10 km."],
+      en: ["Caió's population is about 1,500.", "The Rio Grande de Buba is 100 m wide here.", "Annual rice harvest is 500 tons.", "Quinara region covers 3,138 km².", "The church was built in 1950.", "The nearest town is Buba, 10 km away."],
+    },
+  },
   {
     id: "bulula-cities-v2",
     type: "city",
@@ -1509,9 +1934,8 @@ image: "/poi-images/caio-cities-v2.webp"
       de: "Bulula",
       hu: "Bulula",
       ro: "Bulula",
-      en: "Bulula",
-image: "/poi-images/bulula-cities-v2.webp"
-},
+      en: "Bulula"},
+    image: "/poi-images/bulula-cities-v2.webp",
     description: {
       de: "Bulula ist eine kleine Siedlung in der Quínara-Region im Süden des Landes.",
       hu: "Bulula egy kis település a Quínara régióban, az ország déli részén.",
@@ -1562,9 +1986,8 @@ image: "/poi-images/bulula-cities-v2.webp"
       de: "Uno",
       hu: "Uno",
       ro: "Uno",
-      en: "Uno",
-image: "/poi-images/uno-cities-v2.webp"
-},
+      en: "Uno"},
+    image: "/poi-images/uno-cities-v2.webp",
     description: {
       de: "Uno ist die Hauptsiedlung auf der Insel Uno im Bijagós-Archipel.",
       hu: "Uno az Uno-sziget legfontosabb települése a Bijagós-szigetcsoportban.",
@@ -1615,9 +2038,8 @@ image: "/poi-images/uno-cities-v2.webp"
       de: "Caravela",
       hu: "Caravela",
       ro: "Caravela",
-      en: "Caravela",
-image: "/poi-images/caravela-cities-v2.webp"
-},
+      en: "Caravela"},
+    image: "/poi-images/caravela-cities-v2.webp",
     description: {
       de: "Caravela ist eine Insel und Siedlung im nördlichen Teil des Bijagós-Archipels.",
       hu: "Caravela egy sziget és település a Bijagós-szigetcsoport északi részén.",
@@ -1668,9 +2090,8 @@ image: "/poi-images/caravela-cities-v2.webp"
       de: "Formosa",
       hu: "Formosa",
       ro: "Formosa",
-      en: "Formosa",
-image: "/poi-images/formosa-cities-v2.webp"
-},
+      en: "Formosa"},
+    image: "/poi-images/formosa-cities-v2.webp",
     description: {
       de: "Formosa ist eine der größten Inseln des Bijagós-Archipels mit mehreren kleinen Siedlungen.",
       hu: "Formosa a Bijagós-szigetcsoport egyik legnagyobb szigete, több kisebb településsel.",
@@ -1721,9 +2142,8 @@ image: "/poi-images/formosa-cities-v2.webp"
       de: "Eticoga",
       hu: "Eticoga",
       ro: "Eticoga",
-      en: "Eticoga",
-image: "/poi-images/eticoga-cities-v2.webp"
-},
+      en: "Eticoga"},
+    image: "/poi-images/eticoga-cities-v2.webp",
     description: {
       de: "Eticoga ist die größte Siedlung auf der Insel Orango im Bijagós-Archipel.",
       hu: "Eticoga az Orango-sziget legnagyobb települése a Bijagós-szigetcsoportban.",
@@ -1774,9 +2194,8 @@ image: "/poi-images/eticoga-cities-v2.webp"
       de: "Abu",
       hu: "Abu",
       ro: "Abu",
-      en: "Abu",
-image: "/poi-images/abu-cities-v2.webp"
-},
+      en: "Abu"},
+    image: "/poi-images/abu-cities-v2.webp",
     description: {
       de: "Abu ist ein kleiner Ort auf den nördlichen Bijagós-Inseln.",
       hu: "Abu egy kis település az északi Bijagós-szigeteken.",
@@ -1827,9 +2246,8 @@ image: "/poi-images/abu-cities-v2.webp"
       de: "Prabis",
       hu: "Prabis",
       ro: "Prabis",
-      en: "Prabis",
-image: "/poi-images/prabis-cities-v2.webp"
-},
+      en: "Prabis"},
+    image: "/poi-images/prabis-cities-v2.webp",
     description: {
       de: "Prabis ist eine Küstenstadt in der Biombo-Region, südwestlich von Bissau.",
       hu: "Prabis egy tengerparti város a Biombo régióban, Bissautól délnyugatra.",
@@ -1880,9 +2298,8 @@ image: "/poi-images/prabis-cities-v2.webp"
       de: "Biombo",
       hu: "Biombo",
       ro: "Biombo",
-      en: "Biombo",
-image: "/poi-images/biombo-cities-v2.webp"
-},
+      en: "Biombo"},
+    image: "/poi-images/biombo-cities-v2.webp",
     description: {
       de: "Biombo ist ein historischer Ort in der gleichnamigen Region an der Atlantikküste.",
       hu: "Biombo egy történelmi település az azonos nevű régióban, az Atlanti-óceán partján.",
@@ -1933,9 +2350,8 @@ image: "/poi-images/biombo-cities-v2.webp"
       de: "Cumura",
       hu: "Cumura",
       ro: "Cumura",
-      en: "Cumura",
-image: "/poi-images/cumura-cities-v2.webp"
-},
+      en: "Cumura"},
+    image: "/poi-images/cumura-cities-v2.webp",
     description: {
       de: "Cumura ist ein bekannter Ort in der Biombo-Region, nahe der Hauptstadt Bissau.",
       hu: "Cumura egy jól ismert település a Biombo régióban, a főváros, Bissau közelében.",
@@ -1986,9 +2402,8 @@ image: "/poi-images/cumura-cities-v2.webp"
       de: "São Domingos",
       hu: "São Domingos",
       ro: "São Domingos",
-      en: "São Domingos",
-image: "/poi-images/sao-domingos-cities-v2.webp"
-},
+      en: "São Domingos"},
+    image: "/poi-images/sao-domingos-cities-v2.webp",
     description: {
       de: "São Domingos ist eine Stadt im Nordwesten von Guinea-Bissau, direkt an der Grenze zum Senegal.",
       hu: "São Domingos egy város Bissau-Guinea északnyugati részén, közvetlenül a szenegáli határon.",
@@ -2039,9 +2454,8 @@ image: "/poi-images/sao-domingos-cities-v2.webp"
       de: "Varela",
       hu: "Varela",
       ro: "Varela",
-      en: "Varela",
-image: "/poi-images/varela-cities-v2.webp"
-},
+      en: "Varela"},
+    image: "/poi-images/varela-cities-v2.webp",
     description: {
       de: "Varela ist ein entlegener Küstenort im Nordwesten von Guinea-Bissau, nahe der senegalesischen Grenze.",
       hu: "Varela egy távoli tengerparti település Bissau-Guinea északnyugati részén, a szenegáli határ közelében.",
@@ -2092,9 +2506,8 @@ image: "/poi-images/varela-cities-v2.webp"
       de: "Bula",
       hu: "Bula",
       ro: "Bula",
-      en: "Bula",
-image: "/poi-images/bula-cities-v2.webp"
-},
+      en: "Bula"},
+    image: "/poi-images/bula-cities-v2.webp",
     description: {
       de: "Bula ist eine Stadt in der Cacheu-Region, gelegen an der Hauptstraße nördlich von Bissau.",
       hu: "Bula egy város a Cacheu régióban, a Bissautól északra vezető főút mentén fekszik.",
@@ -2145,9 +2558,8 @@ image: "/poi-images/bula-cities-v2.webp"
       de: "Jolmete",
       hu: "Jolmete",
       ro: "Jolmete",
-      en: "Jolmete",
-image: "/poi-images/jolmete-cities-v2.webp"
-},
+      en: "Jolmete"},
+    image: "/poi-images/jolmete-cities-v2.webp",
     description: {
       de: "Jolmete ist eine kleine Stadt in der Cacheu-Region im Nordwesten des Landes.",
       hu: "Jolmete egy kisváros a Cacheu régióban, az ország északi-nyugati részén.",

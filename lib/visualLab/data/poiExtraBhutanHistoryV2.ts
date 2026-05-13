@@ -7,7 +7,6 @@ export const poiExtraBhutanHistoryV2: POI[] = [
     parent: "BT-11",
     coords: [89.3211, 27.5019],
     name: { de: "Drukgyel-Dzong-Ruine", hu: "Drukgyel Dzong romjai", ro: "Ruinele Drukgyel Dzong", en: "Drukgyel Dzong Ruins",
-image: "/poi-images/drukgyel-dzong-history-v2.webp"
 },
     description: {
       de: "Diese im 17. Jahrhundert erbaute Festung diente als Verteidigungsanlage gegen tibetische Invasionen. Sie brannte 1951 ab und wird heute als wichtiges Denkmal erhalten.",
@@ -21,16 +20,14 @@ image: "/poi-images/drukgyel-dzong-history-v2.webp"
       ro: ["Construită în 1649.", "A fost distrusă de un incendiu.", "Situată în valea superioară Paro."],
       en: ["Constructed in 1649.", "Was destroyed by a fire.", "Located in the upper Paro Valley."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1649 auf Befehl von Ngawang Namgyal.", "Diente der Abwehr tibetischer Invasionen.", "Der Name bedeutet 'Festung des siegreichen Drukpa'.", "1951 durch ein Feuer fast vollständig zerstört.", "Der Wiederaufbau begann 2016.", "Liegt auf einer Höhe von ca. 2.580 Metern.", "Strategische Lage im Paro-Tal.", "Ein wichtiges nationales Symbol Bhutans."]
-    }, image: "/poi-images/drukgyel-dzong-history-v2.webp"},
+    image: "/poi-images/drukgyel-dzong-history-v2.webp",
+  },
   {
     id: "kyichu-lhakhang-history-v2",
     type: "historical-site",
     parent: "BT-11",
     coords: [89.4140, 27.4285],
     name: { de: "Kyichu Lhakhang", hu: "Kyichu Lhakhang templom", ro: "Templul Kyichu Lhakhang", en: "Kyichu Lhakhang",
-image: "/poi-images/kyichu-lhakhang-history-v2.webp"
 },
     description: {
       de: "Einer der ältesten Tempel Bhutans, der der Legende nach im 7. Jahrhundert vom tibetischen König Songtsen Gampo erbaut wurde. Er ist ein bedeutendes spirituelles Zentrum.",
@@ -44,16 +41,14 @@ image: "/poi-images/kyichu-lhakhang-history-v2.webp"
       ro: ["Datează din secolul al VII-lea.", "Face parte din 108 temple.", "Adăpostește relicve sacre."],
       en: ["Dates back to the 7th century.", "Part of 108 temples.", "Houses sacred relics."]
     },
-    factsAdvanced: {
-      multi4: ["Gegründet im 7. Jahrhundert von König Songtsen Gampo.", "Einer von 108 Tempeln zur Unterwerfung einer Dämonin.", "Beherbergt eine Statue des Jowo Jamba aus dem 7. Jh.", "1968 durch die königliche Großmutter erweitert.", "Der Guru Lhakhang beherbergt eine 5m hohe Guru Rinpoche Statue.", "Zwei Orangenbäume im Hof sollen ganzjährig Früchte tragen.", "Wichtiger Pilgerort für bhutanische Buddhisten.", "Renoviert im Jahr 1830 von Je Khenpo Sherab Gyaltshen."]
-    }, image: "/poi-images/kyichu-lhakhang-history-v2.webp"},
+    image: "/poi-images/kyichu-lhakhang-history-v2.webp",
+  },
   {
     id: "rinpung-dzong-history-v2",
     type: "monument",
     parent: "BT-11",
     coords: [89.4267, 27.4272],
     name: { de: "Rinpung Dzong", hu: "Rinpung Dzong", ro: "Rinpung Dzong", en: "Rinpung Dzong",
-image: "/poi-images/rinpung-dzong-history-v2.webp"
 },
     description: {
       de: "Eine riesige Festung und Klosteranlage im Paro-Tal, erbaut 1646. Sie ist ein hervorragendes Beispiel für die traditionelle bhutanische Architektur.",
@@ -67,16 +62,14 @@ image: "/poi-images/rinpung-dzong-history-v2.webp"
       ro: ["Construit în 1644", "Situat în Paro", "Arhitectură tradițională", "Centru monastic"],
       en: ["Built in 1646.", "Means \"Fortress on a heap of jewels\".", "Filming location for \"Little Buddha\"."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1646 von Ngawang Namgyal.", "Der Name bedeutet 'Festung auf einem Juwelenhaufen'.", "Beherbergt die Verwaltung des Paro-Distrikts.", "Heimat von etwa 200 Mönchen.", "Austragungsort des jährlichen Paro Tshechu Festivals.", "Erreichbar über die traditionelle Nyamai Zam Brücke.", "Drehort für Bernardo Bertoluccis Film 'Little Buddha' (1993).", "Schützte erfolgreich gegen Invasionen aus Tibet."]
-    }, image: "/poi-images/rinpung-dzong-history-v2.webp"},
+    image: "/poi-images/rinpung-dzong-history-v2.webp",
+  },
   {
     id: "ta-dzong-paro-history-v2",
     type: "historical-site",
     parent: "BT-11",
     coords: [89.4277, 27.4258],
     name: { de: "Ta Dzong (Nationalmuseum)", hu: "Ta Dzong (Nemzeti Múzeum)", ro: "Ta Dzong (Muzeul Național)", en: "Ta Dzong (National Museum)",
-image: "/poi-images/ta-dzong-paro-history-v2.webp"
 },
     description: {
       de: "Dieser ehemalige Wachturm oberhalb des Rinpung Dzong wurde 1968 in das Nationalmuseum von Bhutan umgewandelt und beherbergt historische Artefakte.",
@@ -90,16 +83,14 @@ image: "/poi-images/ta-dzong-paro-history-v2.webp"
       ro: ["Construit ca turn de veghe.", "Transformat în muzeu în 1968.", "Are o formă rotundă neobișnuită."],
       en: ["Built as a watchtower.", "Converted to a museum in 1968.", "Has an unusual round shape."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1649 als Wachturm für den Rinpung Dzong.", "Ungewöhnliche runde, zylindrische Form.", "Die Mauern sind bis zu 2,5 Meter dick.", "Hat insgesamt sieben Stockwerke.", "1968 in das Nationalmuseum von Bhutan umgewandelt.", "Beherbergt über 3.000 bhutanische Artefakte.", "Dokumentiert 1.500 Jahre bhutanischer Geschichte.", "Bietet einen Panoramablick auf das Paro-Tal."]
-    }, image: "/poi-images/ta-dzong-paro-history-v2.webp"},
+    image: "/poi-images/ta-dzong-paro-history-v2.webp",
+  },
   {
     id: "punakha-dzong-history-v2",
     type: "monument",
     parent: "BT-23",
     coords: [89.8633, 27.5833],
     name: { de: "Punakha Dzong", hu: "Punakha Dzong", ro: "Punakha Dzong", en: "Punakha Dzong",
-image: "/poi-images/punakha-dzong-history-v2.webp"
 },
     description: {
       de: "Die zweitälteste und zweitgrößte Festung Bhutans, erbaut 1637. Sie diente bis 1955 als administrative und religiöse Hauptstadt des Landes.",
@@ -113,16 +104,14 @@ image: "/poi-images/punakha-dzong-history-v2.webp"
       ro: ["Construită în 1637.", "Situată la confluența a două râuri.", "Locul de încoronare a regilor."],
       en: ["Built in 1637.", "Located at the confluence of two rivers.", "Coronation site of kings."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1637-38 von Ngawang Namgyal.", "Zweitältester und zweitgrößter Dzong in Bhutan.", "War bis 1955 die Hauptstadt von Bhutan.", "Krönungsort des ersten Königs im Jahr 1907.", "Liegt am Zusammenfluss der Flüsse Pho Chhu und Mo Chhu.", "Beherbergt die heiligsten Reliquien des Landes.", "Schwer beschädigt durch Gletscherfluten 1994.", "Winterresidenz des Je Khenpo (geistliches Oberhaupt)."]
-    }, image: "/poi-images/punakha-dzong-history-v2.webp"},
+    image: "/poi-images/punakha-dzong-history-v2.webp",
+  },
   {
     id: "chimi-lhakhang-history-v2",
     type: "historical-site",
     parent: "BT-23",
     coords: [89.8735, 27.5312],
     name: { de: "Chimi Lhakhang", hu: "Chimi Lhakhang", ro: "Chimi Lhakhang", en: "Chimi Lhakhang",
-image: "/poi-images/chimi-lhakhang-history-v2.webp"
 },
     description: {
       de: "Ein buddhistisches Kloster im Punakha-Distrikt, das 1499 erbaut wurde. Es ist berühmt als der Tempel der Fruchtbarkeit und wird von vielen Pilgern besucht.",
@@ -136,16 +125,14 @@ image: "/poi-images/chimi-lhakhang-history-v2.webp"
       ro: ["Construită în 1499.", "Dedicată lui Drukpa Kunley.", "Cunoscută ca templu al fertilității."],
       en: ["Built in 1499.", "Dedicated to Drukpa Kunley.", "Known as the fertility temple."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut im Jahr 1499 von Ngawang Chogyel.", "Gewidmet dem 'Göttlichen Verrückten', Drukpa Kunley.", "Bekannt als der Tempel der Fruchtbarkeit.", "Pilger erhalten Segen durch einen hölzernen Phallus.", "Legende besagt, dass hier ein Dämon begraben liegt.", "Häuser in der Umgebung sind mit Phallussymbolen bemalt.", "Die ursprüngliche Stupa wurde von Drukpa Kunley selbst errichtet.", "Beherbergt eine Statue von Kunley und seinem Hund Sachi."]
-    }, image: "/poi-images/chimi-lhakhang-history-v2.webp"},
+    image: "/poi-images/chimi-lhakhang-history-v2.webp",
+  },
   {
     id: "khamsum-yulley-namgyal-chorten-history-v2",
     type: "monument",
     parent: "BT-23",
     coords: [89.8544, 27.6339],
     name: { de: "Khamsum Yulley Namgyal Chorten", hu: "Khamsum Yulley Namgyal Chorten", ro: "Khamsum Yulley Namgyal Chorten", en: "Khamsum Yulley Namgyal Chorten",
-image: "/poi-images/khamsum-yulley-namgyal-chorten-history-v2.webp"
 },
     description: {
       de: "Dieser beeindruckende Tempel wurde 2004 fertiggestellt, um den Frieden und die Stabilität in Bhutan zu fördern. Er thront auf einem Bergrücken im Punakha-Tal.",
@@ -159,16 +146,14 @@ image: "/poi-images/khamsum-yulley-namgyal-chorten-history-v2.webp"
       ro: ["Finalizat în 2004.", "Oferă vederi superbe asupra văii.", "Construit în stil tradițional."],
       en: ["Completed in 2004.", "Offers great valley views.", "Built in traditional style."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut über einen Zeitraum von 9 Jahren.", "2004 von der Königinmutter geweiht.", "Dient dem Schutz vor negativen Kräften.", "Einzigartig, da es zornvollen Gottheiten gewidmet ist.", "Die Pläne basieren auf den Lehren des Dudjom Lingpa.", "Vier Stockwerke mit komplexen tantrischen Statuen.", "Der Aufstieg dauert etwa 45-60 Minuten.", "Bietet eine spektakuläre Aussicht auf das Punakha-Tal."]
-    }, image: "/poi-images/khamsum-yulley-namgyal-chorten-history-v2.webp"},
+    image: "/poi-images/khamsum-yulley-namgyal-chorten-history-v2.webp",
+  },
   {
     id: "tashichho-dzong-history-v2",
     type: "monument",
     parent: "BT-15",
     coords: [89.6272, 27.4897],
     name: { de: "Tashichho Dzong", hu: "Tashichho Dzong", ro: "Tashichho Dzong", en: "Tashichho Dzong",
-image: "/poi-images/tashichho-dzong-history-v2.webp"
 },
     description: {
       de: "Eine buddhistische Klosterfestung am nördlichen Rand von Thimphu, die seit 1952 als Sitz der bhutanischen Regierung dient.",
@@ -182,16 +167,14 @@ image: "/poi-images/tashichho-dzong-history-v2.webp"
       ro: ["Construită inițial în 1216.", "Sediul guvernului civil.", "Găzduiește sala tronului."],
       en: ["Originally built in 1216.", "Seat of the civil government.", "Houses the throne room."]
     },
-    factsAdvanced: {
-      multi4: ["Ursprünglicher Bau aus dem Jahr 1216 (Dho-Ngyen Dzong).", "1641 von Ngawang Namgyal neu erbaut.", "Sitz der bhutanischen Regierung seit 1952.", "Renoviert und erweitert von 1962 bis 1969.", "Beherbergt den Thronsaal und königliche Büros.", "Sommersitz des Je Khenpo und der zentralen Mönchskörperschaft.", "Wurde ohne architektonische Pläne oder Nägel erbaut.", "Der ursprüngliche Dzong wurde 1772 durch ein Feuer zerstört."]
-    }, image: "/poi-images/tashichho-dzong-history-v2.webp"},
+    image: "/poi-images/tashichho-dzong-history-v2.webp",
+  },
   {
     id: "national-memorial-chorten-history-v2",
     type: "monument",
     parent: "BT-15",
     coords: [89.6416, 27.4667],
     name: { de: "Nationaler Gedenk-Chorten", hu: "Nemzeti Emlék Chorten", ro: "Chorten-ul Memorial Național", en: "National Memorial Chorten",
-image: "/poi-images/national-memorial-chorten-history-v2.webp"
 },
     description: {
       de: "Ein markantes Denkmal in Thimphu, das 1974 zu Ehren des dritten Königs von Bhutan erbaut wurde. Es ist ein zentrales spirituelles Wahrzeichen der Stadt.",
@@ -205,16 +188,14 @@ image: "/poi-images/national-memorial-chorten-history-v2.webp"
       ro: ["Construit în 1974.", "Centrul devotamentului zilnic.", "Îl onorează pe al treilea rege."],
       en: ["Built in 1974.", "Center of daily devotion.", "Honors the third King."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1974 zum Gedenken an König Jigme Dorji Wangchuck.", "Konzipiert von Thinley Norbu Rinpoche.", "Repräsentiert den Geist (Geist) des Buddha.", "Enthält keine menschlichen Überreste.", "Ein zentraler Ort für tägliche Gebete in Thimphu.", "Verfügt über vier Stockwerke mit verschiedenen Schreinen.", "Die Außenseite ist mit Mandalas und Statuen geschmückt.", "Die Baukosten beliefen sich auf etwa 1,4 Millionen Ngultrum (1974)."]
-    }, image: "/poi-images/national-memorial-chorten-history-v2.webp"},
+    image: "/poi-images/national-memorial-chorten-history-v2.webp",
+  },
   {
     id: "changangkha-lhakhang-history-v2",
     type: "historical-site",
     parent: "BT-15",
     coords: [89.6366, 27.4764],
     name: { de: "Changangkha Lhakhang", hu: "Changangkha Lhakhang", ro: "Changangkha Lhakhang", en: "Changangkha Lhakhang",
-image: "/poi-images/changangkha-lhakhang-history-v2.webp"
 },
     description: {
       de: "Einer der ältesten Tempel in Thimphu, der im 12. Jahrhundert gegründet wurde. Eltern bringen oft ihre Neugeborenen hierher, um Segen zu erhalten.",
@@ -228,16 +209,14 @@ image: "/poi-images/changangkha-lhakhang-history-v2.webp"
       ro: ["Fondat în secolul al XII-lea.", "Situat pe o creastă.", "Cunoscut pentru binecuvântarea nou-născuților."],
       en: ["Established in the 12th century.", "Located on a ridge.", "Known for newborn blessings."]
     },
-    factsAdvanced: {
-      multi4: ["Gegründet im 12. Jahrhundert von Lama Phajo Drugom Shigpo.", "Ältester Tempel im Thimphu-Tal.", "Zentrum für die Namensgebung von Neugeborenen.", "Die Schutzgottheit ist Tamdrin (Hayagriva).", "Beherbergt eine Statue des 11-köpfigen Avalokiteshvara.", "Bietet einen Panoramablick auf Thimphu.", "Lama Phajo Drugom Shigpo hat den Drukpa-Kagyü-Buddhismus eingeführt.", "Die ursprüngliche Struktur wurde über die Jahrhunderte erweitert."]
-    }, image: "/poi-images/changangkha-lhakhang-history-v2.webp"},
+    image: "/poi-images/changangkha-lhakhang-history-v2.webp",
+  },
   {
     id: "semtokha-dzong-history-v2",
     type: "historical-site",
     parent: "BT-15",
     coords: [89.6739, 27.4336],
     name: { de: "Semtokha Dzong", hu: "Semtokha Dzong", ro: "Semtokha Dzong", en: "Semtokha Dzong",
-image: "/poi-images/semtokha-dzong-history-v2.webp"
 },
     description: {
       de: "Die älteste noch erhaltene Festung in Bhutan, erbaut 1629 von Zhabdrung Ngawang Namgyal. Sie beherbergt heute ein Institut für Sprache und Kultur.",
@@ -251,16 +230,14 @@ image: "/poi-images/semtokha-dzong-history-v2.webp"
       ro: ["Construită în 1629.", "Cea mai veche fortăreață din Bhutan.", "Promovează limba Dzongkha."],
       en: ["Built in 1629.", "The oldest fortress in Bhutan.", "Promotes the Dzongkha language."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1629 von Zhabdrung Ngawang Namgyal.", "Gilt als der erste und älteste Dzong in Bhutan.", "Der Name bedeutet 'Palast der tiefgründigen geheimen Mantras'.", "Überlebte 1630 einen Angriff von fünf rivalisierenden Lamas.", "Beherbergt heute das Institut für Sprach- und Kulturstudien.", "Strategisch günstig gelegen, um das Thimphu-Tal zu kontrollieren.", "Enthält einige der ältesten Wandmalereien des Landes.", "Wurde 1961 vom dritten König renoviert."]
-    }, image: "/poi-images/semtokha-dzong-history-v2.webp"},
+    image: "/poi-images/semtokha-dzong-history-v2.webp",
+  },
   {
     id: "trongsa-dzong-history-v2",
     type: "monument",
     parent: "BT-32",
     coords: [90.5081, 27.5025],
     name: { de: "Trongsa Dzong", hu: "Trongsa Dzong", ro: "Trongsa Dzong", en: "Trongsa Dzong",
-image: "/poi-images/trongsa-dzong-history-v2.webp"
 },
     description: {
       de: "Die größte Festung in Bhutan, strategisch über der Schlucht des Mangde Chhu gelegen. Sie war der historische Sitz der Wangchuck-Dynastie.",
@@ -274,16 +251,14 @@ image: "/poi-images/trongsa-dzong-history-v2.webp"
       ro: ["Fondată în 1543.", "A controlat comerțul est-vest.", "Are o arhitectură complexă."],
       en: ["Founded in 1543.", "Controlled east-west trade.", "Features complex architecture."]
     },
-    factsAdvanced: {
-      multi4: ["Erster Tempel an dieser Stelle wurde 1543 gegründet.", "Ausbau zum heutigen Dzong im Jahr 1644.", "Größter Dzong in Bhutan.", "Stammsitz der Wangchuck-Dynastie.", "Zukünftige Könige mussten hier als Gouverneur dienen.", "Kontrollierte den Handel zwischen Ost- und Westbhutan.", "Beherbergt 25 Tempel (Lhakhangs).", "Der Bau erstreckt sich über mehrere Ebenen eines Bergrückens."]
-    }, image: "/poi-images/trongsa-dzong-history-v2.webp"},
+    image: "/poi-images/trongsa-dzong-history-v2.webp",
+  },
   {
     id: "ta-dzong-trongsa-history-v2",
     type: "historical-site",
     parent: "BT-32",
     coords: [90.5055, 27.5050],
     name: { de: "Ta Dzong (Trongsa)", hu: "Ta Dzong (Trongsa)", ro: "Ta Dzong (Trongsa)", en: "Ta Dzong (Trongsa)",
-image: "/poi-images/ta-dzong-trongsa-history-v2.webp"
 },
     description: {
       de: "Ein historischer Wachturm, der den Trongsa Dzong schützte. Er wurde in ein hervorragendes Museum umgewandelt, das die Geschichte Bhutans zeigt.",
@@ -297,16 +272,14 @@ image: "/poi-images/ta-dzong-trongsa-history-v2.webp"
       ro: ["A servit ca turn de veghe.", "Expune artefacte ale monarhiei.", "Oferă vederi minunate."],
       en: ["Served as a watchtower.", "Displays monarchy artifacts.", "Offers great views."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut im 17. Jahrhundert als Wachturm.", "Diente dem Schutz des Trongsa Dzong.", "2008 in ein Museum umgewandelt.", "Gewidmet der Geschichte der Wangchuck-Dynastie.", "Beherbergt die originale Rabenkrone des ersten Königs.", "Das Museum erstreckt sich über 11 Galerien und 5 Stockwerke.", "Zeigt Artefakte aus über 100 Jahren Monarchie.", "Bietet einen 360-Grad-Blick auf das Mangde-Tal."]
-    }, image: "/poi-images/ta-dzong-trongsa-history-v2.webp"},
+    image: "/poi-images/ta-dzong-trongsa-history-v2.webp",
+  },
   {
     id: "kurjey-lhakhang-history-v2",
     type: "historical-site",
     parent: "BT-33",
     coords: [90.7225, 27.5833],
     name: { de: "Kurjey Lhakhang", hu: "Kurjey Lhakhang", ro: "Kurjey Lhakhang", en: "Kurjey Lhakhang",
-image: "/poi-images/kurjey-lhakhang-history-v2.webp"
 },
     description: {
       de: "Ein wichtiger Tempelkomplex im Bumthang-Tal, in dem Guru Rinpoche im 8. Jahrhundert meditierte und seinen Körperabdruck in einem Felsen hinterließ.",
@@ -320,16 +293,14 @@ image: "/poi-images/kurjey-lhakhang-history-v2.webp"
       ro: ["Loc important de pelerinaj.", "Conține amprenta lui Guru Rinpoche.", "Este format din trei temple."],
       en: ["Significant pilgrimage site.", "Contains Guru Rinpoche's imprint.", "Consists of three temples."]
     },
-    factsAdvanced: {
-      multi4: ["Guru Rinpoche meditierte hier im 8. Jahrhundert.", "Beherbergt den Körperabdruck von Guru Rinpoche in einem Felsen.", "Der erste Tempel wurde 1652 erbaut.", "Der Komplex besteht aus drei separaten Tempeln.", "Umgeben von einer Mauer mit 108 Chorten.", "Eine Zypresse soll aus Guru Rinpoches Stock gewachsen sein.", "Der zweite Tempel wurde von König Ugyen Wangchuck erbaut (1900).", "Ein wichtiger Pilgerort für bhutanische Buddhisten."]
-    }, image: "/poi-images/kurjey-lhakhang-history-v2.webp"},
+    image: "/poi-images/kurjey-lhakhang-history-v2.webp",
+  },
   {
     id: "jambay-lhakhang-history-v2",
     type: "historical-site",
     parent: "BT-33",
     coords: [90.7208, 27.5769],
     name: { de: "Jambay Lhakhang", hu: "Jambay Lhakhang", ro: "Jambay Lhakhang", en: "Jambay Lhakhang",
-image: "/poi-images/jambay-lhakhang-history-v2.webp"
 },
     description: {
       de: "Einer der 108 Tempel, die der tibetische König Songtsen Gampo im 7. Jahrhundert erbaut haben soll. Ein historisches Juwel in Bumthang.",
@@ -343,16 +314,14 @@ image: "/poi-images/jambay-lhakhang-history-v2.webp"
       ro: ["Construit în secolul al VII-lea.", "Cunoscut pentru festivalul său anual.", "Face parte dintr-o veche legendă."],
       en: ["Built in the 7th century.", "Known for its annual festival.", "Part of an ancient legend."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut im 7. Jahrhundert von König Songtsen Gampo.", "Einer von 108 Tempeln zur Zähmung einer Dämonin.", "Auf dem linken Knie der Dämonin erbaut.", "Beherbergt eine Statue des zukünftigen Buddha Maitreya.", "Austragungsort des Jambay Lhakhang Drup Festivals.", "Berühmt für den 'Tercham' (Nackttanz) und 'Mewang' (Feuersegen).", "Im 8. Jahrhundert von Guru Rinpoche besucht.", "Unter dem Haupttempel befinden sich drei heilige Steinstufen."]
-    }, image: "/poi-images/jambay-lhakhang-history-v2.webp"},
+    image: "/poi-images/jambay-lhakhang-history-v2.webp",
+  },
   {
     id: "jakar-dzong-history-v2",
     type: "monument",
     parent: "BT-33",
     coords: [90.7330, 27.5492],
     name: { de: "Jakar Dzong", hu: "Jakar Dzong", ro: "Jakar Dzong", en: "Jakar Dzong",
-image: "/poi-images/jakar-dzong-history-v2.webp"
 },
     description: {
       de: "Auch bekannt als die \"Festung des weißen Vogels\", wurde sie im 16. Jahrhundert erbaut und beherrscht das Chokhor-Tal in Bumthang.",
@@ -366,16 +335,14 @@ image: "/poi-images/jakar-dzong-history-v2.webp"
       ro: ["Fondată în 1549.", "Circumferința este de 1,5 km.", "Sediul administrației din Bumthang."],
       en: ["Founded in 1549.", "Circumference is 1.5 km.", "Seat of Bumthang's administration."]
     },
-    factsAdvanced: {
-      multi4: ["Gründung auf ein Omen eines weißen Vogels im 16. Jh. zurückgeführt.", "Der heutige Dzong wurde 1667 erbaut.", "Umfang von über 1.500 Metern.", "Der Name bedeutet 'Festung des weißen Vogels'.", "Administratives Zentrum des Bumthang Distrikts.", "Der zentrale Turm (Utse) ist ungewöhnlich positioniert.", "Historischer Sitz der Könige der Wangchuck-Dynastie.", "Wurde im 19. Jahrhundert durch ein Erdbeben beschädigt und wiederaufgebaut."]
-    }, image: "/poi-images/jakar-dzong-history-v2.webp"},
+    image: "/poi-images/jakar-dzong-history-v2.webp",
+  },
   {
     id: "wangdue-phodrang-dzong-history-v2",
     type: "monument",
     parent: "BT-24",
     coords: [89.8974, 27.4725],
     name: { de: "Wangdue Phodrang Dzong", hu: "Wangdue Phodrang Dzong", ro: "Wangdue Phodrang Dzong", en: "Wangdue Phodrang Dzong",
-image: "/poi-images/wangdue-phodrang-dzong-history-v2.webp"
 },
     description: {
       de: "Eine historische Festung aus dem Jahr 1638, die auf einem Bergrücken liegt. Nach einem verheerenden Brand im Jahr 2012 wurde sie vollständig restauriert.",
@@ -389,16 +356,14 @@ image: "/poi-images/wangdue-phodrang-dzong-history-v2.webp"
       ro: ["Construită în 1638.", "A ars aproape complet în 2012.", "A fost reconstruită în detaliu."],
       en: ["Built in 1638.", "Burned almost completely in 2012.", "Was reconstructed in detail."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut 1638 von Zhabdrung Ngawang Namgyal.", "Strategisch günstig an einer wichtigen Straßenkreuzung gelegen.", "Der Name bedeutet 'Palast der Macht'.", "Am 24. Juni 2012 durch ein Feuer zerstört.", "Der Wiederaufbau wurde 2014 begonnen und 2022 abgeschlossen.", "Der ursprüngliche Bau soll nur ein Jahr gedauert haben.", "Wurde auf einem Bergrücken in Form eines Elefanten erbaut.", "Vor dem Brand beherbergte er 10 Tempel."]
-    }, image: "/poi-images/wangdue-phodrang-dzong-history-v2.webp"},
+    image: "/poi-images/wangdue-phodrang-dzong-history-v2.webp",
+  },
   {
     id: "lhuentse-dzong-history-v2",
     type: "monument",
     parent: "BT-44",
     coords: [91.1558, 27.6681],
     name: { de: "Lhuentse Dzong", hu: "Lhuentse Dzong", ro: "Lhuentse Dzong", en: "Lhuentse Dzong",
-image: "/poi-images/lhuentse-dzong-history-v2.webp"
 },
     description: {
       de: "Die angestammte Heimat der königlichen Familie von Bhutan. Die Festung im abgelegenen Osten des Landes thront majestätisch auf einem felsigen Hügel.",
@@ -412,16 +377,14 @@ image: "/poi-images/lhuentse-dzong-history-v2.webp"
       ro: ["Originea familiei regale.", "Fondată în secolul al XVII-lea.", "Situată în valea Kuri Chhu."],
       en: ["Origin of the royal family.", "Founded in the 17th century.", "Located in the Kuri Chhu Valley."]
     },
-    factsAdvanced: {
-      multi4: ["Stammsitz der königlichen Wangchuck-Dynastie.", "Ursprünglicher Tempel 1552 von Kuenga Wangpo erbaut.", "Der heutige Dzong wurde 1654 erbaut.", "Liegt im historisch isolierten Kurtoe-Tal.", "Berühmt für die besten Textilweber des Landes.", "Beherbergt heilige Reliquien, die von Pema Lingpa entdeckt wurden.", "Verwaltungszentrum für den Distrikt Lhuentse.", "Bietet einen strategischen Blick über den Kuri Chhu Fluss."]
-    }, image: "/poi-images/lhuentse-dzong-history-v2.webp"},
+    image: "/poi-images/lhuentse-dzong-history-v2.webp",
+  },
   {
     id: "trashigang-dzong-history-v2",
     type: "monument",
     parent: "BT-41",
     coords: [91.5542, 27.3325],
     name: { de: "Trashigang Dzong", hu: "Trashigang Dzong", ro: "Trashigang Dzong", en: "Trashigang Dzong",
-image: "/poi-images/trashigang-dzong-history-v2.webp"
 },
     description: {
       de: "Die \"Festung des glückverheißenden Berges\", erbaut 1659, verteidigte den Osten Bhutans gegen tibetische Invasionen und dominiert die Region Trashigang.",
@@ -435,16 +398,14 @@ image: "/poi-images/trashigang-dzong-history-v2.webp"
       ro: ["Construită în 1659.", "Situată pe o pantă abruptă.", "Centru administrativ în est."],
       en: ["Built in 1659.", "Located on a steep slope.", "Administrative center in the east."]
     },
-    factsAdvanced: {
-      multi4: ["Erbaut im Jahr 1659 von Minjur Tenpa.", "Der Name bedeutet 'Festung des glückverheißenden Berges'.", "Wurde nie durch Feuer oder Erdbeben zerstört.", "Strategische Lage über dem Zusammenfluss zweier Flüsse.", "War das administrative Zentrum für ganz Ost-Bhutan.", "Beherbergt ein großes jährliches Tshechu-Festival.", "Diente der Abwehr von Invasionen aus Tibet.", "Die Restaurierungsarbeiten wurden 2019 abgeschlossen."]
-    }, image: "/poi-images/trashigang-dzong-history-v2.webp"},
+    image: "/poi-images/trashigang-dzong-history-v2.webp",
+  },
   {
     id: "dechen-phodrang-monastery-history-v2",
     type: "historical-site",
     parent: "BT-15",
     coords: [89.6360, 27.4878],
     name: { de: "Dechen-Phodrang-Kloster", hu: "Dechen Phodrang kolostor", ro: "Mănăstirea Dechen Phodrang", en: "Dechen Phodrang Monastery",
-image: "/poi-images/dechen-phodrang-monastery-history-v2.webp"
 },
     description: {
       de: "Dieses historische Kloster war der ursprüngliche Standort des Tashichho Dzong, bis es verlegt wurde. Heute dient es als staatliche Klosterschule.",
@@ -458,8 +419,18 @@ image: "/poi-images/dechen-phodrang-monastery-history-v2.webp"
       ro: ["Situat în Thimphu", "Centru de învățământ", "Picturi murale vechi", "Fondat istoric"],
       en: ["Means \"Palace of Great Bliss\".", "Former site of the fortress.", "Houses old paintings."]
     },
+    image: "/poi-images/dechen-phodrang-monastery-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Dechen Phodrang Kloster in Thimphu, Bhutan, ist ein bedeutendes buddhistisches Kloster mit einer reichen Geschichte. Es wurde im 12. Jahrhundert gegründet und diente ursprünglich als Rückzugsort für Mönche. Der Legende nach wurde der Ort von Shabdrung Ngawang Namgyal im 17. Jahrhundert als einer der wichtigsten religiösen Stätten Bhutans etabliert. Das Kloster beherbergt über 300 Mönche und ist bekannt für seine traditionelle Architektur mit kunstvollen Holzschnitzereien und Gemälden. Es ist auch Sitz der staatlichen buddhistischen Schule, die Mönche in buddhistischer Philosophie und Kunst ausbildet. Während des Erdbebens von 1897 wurde das Kloster beschädigt, aber später restauriert. Heute ist es ein aktives Zentrum des Buddhismus und ein beliebtes Ziel für Pilger und Touristen.",
+      hu: "A Dechen Phodrang kolostor Thimphuban, Bhutánban található, és a buddhista kolostorok egyik legfontosabb példája. Építészetileg a hagyományos bhutáni stílust képviseli, fehér falakkal és aranyozott tetőkkel. A kolostor a 12. században épült, de a 17. században Shabdrung Ngawang Namgyal újíttatta fel. Belső tereit gazdag freskók és thangkák díszítik, amelyek Buddha életét és a buddhista tantételket ábrázolják. A kolostorudvaron évente megrendezésre kerül a tshechu fesztivál, amely maszkos táncokkal és vallási szertartásokkal várja a híveket. A kolostor könyvtára ősi szövegeket tartalmaz, amelyek közül néhány a 18. századból származik. A kolostor ma is aktív oktatási központ, ahol szerzetesek tanulnak.",
+      ro: "Mănăstirea Dechen Phodrang din Thimphu, Bhutan, este o mănăstire budistă istorică, fondată în secolul al XII-lea. A fost un refugiu pentru călugări și a fost consolidată de Shabdrung Ngawang Namgyal în secolul al XVII-lea. Clădirea principală este construită în stil tradițional bhutanez, cu pereți albi și acoperișuri aurite. Interiorul este decorat cu picturi murale și thangka care ilustrează scene din viața lui Buddha. Mănăstirea găzduiește peste 300 de călugări și include o școală budistă unde se studiază filosofia și artele. În fiecare an, are loc un tshechu (festival religios) cu dansuri mascate. Cutremurul din 1897 a avariat clădirea, dar aceasta a fost restaurată. Mănăstirea rămâne un centru spiritual important și o atracție turistică.",
+      en: "Dechen Phodrang Monastery in Thimphu, Bhutan, is a historic Buddhist monastery founded in the 12th century. It originally served as a retreat for monks and was later established as a key religious site by Shabdrung Ngawang Namgyal in the 17th century. The monastery houses over 300 monks and features traditional Bhutanese architecture with intricate wood carvings and paintings. It is also home to the state Buddhist school, training monks in philosophy and art. The monastery was damaged in the 1897 earthquake but was subsequently restored. Today, it remains an active center of Buddhism and a popular pilgrimage and tourist destination.",
+    },
     factsAdvanced: {
-      multi4: ["Standort des ursprünglichen Tashichho Dzong aus dem 12. Jahrhundert.", "Der Name bedeutet 'Palast der großen Glückseligkeit'.", "Dient seit 1971 als staatliche Klosterschule.", "Bildet über 450 Mönche in einem 8-jährigen Kurs aus.", "Beherbergt wichtige Artefakte aus dem 12. Jahrhundert.", "Der Hauptschrein ist den Gottheiten Palden Lhamo und Manjushri gewidmet.", "Die Wandmalereien wurden 1995 restauriert.", "Gegründet als Dzong von Lama Phajo Drugom Shigpo."]
-    }
+      de: ["Gründung: 12. Jahrhundert", "Anzahl der Mönche: über 300", "Renovierung durch Shabdrung Ngawang Namgyal: 17. Jahrhundert", "Erdbebenschaden: 1897", "Höhe: etwa 2.400 m über dem Meeresspiegel", "Jährliches Tshechu-Festival: findet im Herbst statt"],
+      hu: ["Alapítás: 12. század", "Szerzetesek száma: több mint 300", "Felújítás Shabdrung Ngawang Namgyal által: 17. század", "Földrengés kár: 1897", "Tengerszint feletti magasság: kb. 2.400 m", "Éves Tshechu fesztivál: ősszel"],
+      ro: ["Fondare: secolul al XII-lea", "Număr de călugări: peste 300", "Renovare de Shabdrung Ngawang Namgyal: secolul al XVII-lea", "Daune cutremur: 1897", "Altitudine: aproximativ 2.400 m deasupra nivelului mării", "Festivalul anual Tshechu: are loc toamna"],
+      en: ["Founded: 12th century", "Number of monks: over 300", "Renovated by Shabdrung Ngawang Namgyal: 17th century", "Earthquake damage: 1897", "Elevation: approx. 2,400 m above sea level", "Annual Tshechu festival: held in autumn"],
+    },
   }
 ];

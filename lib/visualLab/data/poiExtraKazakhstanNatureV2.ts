@@ -7,9 +7,8 @@ export const poiExtraKazakhstanNatureV2: POI[] = [
     type: "national-park",
     parent: "KZ-ALM",
     coords: [79.2291, 43.3516],
-    name: { de: "Scharyn-Nationalpark", hu: "Sarin Nemzeti Park", ro: "Parcul Național Charyn", en: "Charyn National Park",
-image: "/poi-images/charyn-national-park-nature-v2.webp"
-},
+    name: { de: "Scharyn-Nationalpark", hu: "Sarin Nemzeti Park", ro: "Parcul Național Charyn", en: "Charyn National Park"},
+    image: "/poi-images/charyn-national-park-nature-v2.webp",
     description: {
       de: "Der Nationalpark ist berühmt für seine tiefen, rot gefärbten Schluchten, die über Millionen von Jahren geformt wurden. Die bekannteste Formation ist das Tal der Burgen.",
       hu: "A nemzeti park vörös szikláiról és mély kanyonjairól híres, amelyeket millió évek alatt vájt ki a folyó. Leghíresebb része a Kastélyok Völgye.",
@@ -60,9 +59,8 @@ image: "/poi-images/charyn-national-park-nature-v2.webp"
     type: "lake",
     parent: "KZ-KAR",
     coords: [74.4533, 46.5416],
-    name: { de: "Balchaschsee", hu: "Balkas-tó", ro: "Lacul Balhaș", en: "Lake Balkhash",
-image: "/poi-images/lake-balkhash-nature-v2.webp"
-},
+    name: { de: "Balchaschsee", hu: "Balkas-tó", ro: "Lacul Balhaș", en: "Lake Balkhash"},
+    image: "/poi-images/lake-balkhash-nature-v2.webp",
     description: {
       de: "Dieser riesige See ist ein Naturwunder, da seine westliche Hälfte aus Süßwasser und die östliche aus Salzwasser besteht. Er ist der zweitgrößte See in Zentralasien.",
       hu: "Ez a hatalmas tó igazi természeti csoda, mivel nyugati fele édesvizű, míg a keleti sós. Közép-Ázsia második legnagyobb tava.",
@@ -113,9 +111,8 @@ image: "/poi-images/lake-balkhash-nature-v2.webp"
     type: "national-park",
     parent: "KZ-ALM",
     coords: [77.0333, 43.0667],
-    name: { de: "Ile-Alatau-Nationalpark", hu: "Ile-Alatau Nemzeti Park", ro: "Parcul Național Ile-Alatau", en: "Ile-Alatau National Park",
-image: "/poi-images/ile-alatau-national-park-nature-v2.webp"
-},
+    name: { de: "Ile-Alatau-Nationalpark", hu: "Ile-Alatau Nemzeti Park", ro: "Parcul Național Ile-Alatau", en: "Ile-Alatau National Park"},
+    image: "/poi-images/ile-alatau-national-park-nature-v2.webp",
     description: {
       de: "Ein malerischer Park im Transili-Alatau-Gebirge, der die Stadt Almaty südlich umrahmt. Er schützt alpine Wiesen, tiefe Wälder und den bedrohten Schneeleoparden.",
       hu: "Festői nemzeti park az Ili-Alatau-hegységben, amely Almati városát délről öleli körül. Alpesi réteket, fenyveseket és a hópárducokat védi.",
@@ -166,9 +163,8 @@ image: "/poi-images/ile-alatau-national-park-nature-v2.webp"
     type: "national-park",
     parent: "KZ-JET",
     coords: [78.5000, 44.3333],
-    name: { de: "Altyn-Emel-Nationalpark", hu: "Altin-Emel Nemzeti Park", ro: "Parcul Național Altyn-Emel", en: "Altyn-Emel National Park",
-image: "/poi-images/altyn-emel-national-park-nature-v2.webp"
-},
+    name: { de: "Altyn-Emel-Nationalpark", hu: "Altin-Emel Nemzeti Park", ro: "Parcul Național Altyn-Emel", en: "Altyn-Emel National Park"},
+    image: "/poi-images/altyn-emel-national-park-nature-v2.webp",
     description: {
       de: "Dieser riesige Park ist berühmt für die Singende Düne, die bei Wind ein tiefes, orgelähnliches Geräusch erzeugt. Die Landschaft variiert von Wüsten bis zu bunten Bergen.",
       hu: "Ez a hatalmas park az Éneklő dűnéjéről híres, amely szeles időben mély, orgonaszerű hangot ad. A táj a sivatagoktól a színes hegyekig változik.",
@@ -219,9 +215,8 @@ image: "/poi-images/altyn-emel-national-park-nature-v2.webp"
     type: "lake",
     parent: "KZ-ALM",
     coords: [78.4658, 42.9825],
-    name: { de: "Kaindysee", hu: "Kaindy-tó", ro: "Lacul Kaindy", en: "Lake Kaindy",
-image: "/poi-images/lake-kaindy-nature-v2.webp"
-},
+    name: { de: "Kaindysee", hu: "Kaindy-tó", ro: "Lacul Kaindy", en: "Lake Kaindy"},
+    image: "/poi-images/lake-kaindy-nature-v2.webp",
     description: {
       de: "Ein surreales Naturwunder, das durch ein Erdbeben im Jahr 1911 entstand. Abgestorbene Fichtenstämme ragen wie Geisterschiffe aus dem eiskalten, türkisblauen Wasser.",
       hu: "Szürreális természeti csoda, amely egy 1911-es földrengés során keletkezett. Az elpusztult fenyőfák törzsei kísértethajókként nyúlnak ki a jéghideg, türkizkék vízből.",
@@ -272,9 +267,8 @@ image: "/poi-images/lake-kaindy-nature-v2.webp"
     type: "lake",
     parent: "KZ-ALM",
     coords: [78.3188, 42.9897],
-    name: { de: "Kolsai-Seen", hu: "Kolsai-tavak", ro: "Lacurile Kolsai", en: "Kolsai Lakes",
-image: "/poi-images/kolsai-lakes-nature-v2.webp"
-},
+    name: { de: "Kolsai-Seen", hu: "Kolsai-tavak", ro: "Lacurile Kolsai", en: "Kolsai Lakes"},
+    image: "/poi-images/kolsai-lakes-nature-v2.webp",
     description: {
       de: "Ein System aus drei tiefblauen Bergseen, die wie Perlen in einer bewaldeten Schlucht aufgereiht sind. Sie werden oft als die Perlen des nördlichen Tian Shan bezeichnet.",
       hu: "Három mélykék hegyi tóból álló rendszer, amelyek gyöngyszemekként sorakoznak egy erdős szurdokban. Gyakran az északi Tien-san gyöngyszemeinek hívják őket.",
@@ -325,9 +319,8 @@ image: "/poi-images/kolsai-lakes-nature-v2.webp"
     type: "national-park",
     parent: "KZ-AKM",
     coords: [70.2177, 53.0783],
-    name: { de: "Burabai-Nationalpark", hu: "Burabaj Nemzeti Park", ro: "Parcul Național Burabay", en: "Burabay National Park",
-image: "/poi-images/burabay-national-park-nature-v2.webp"
-},
+    name: { de: "Burabai-Nationalpark", hu: "Burabaj Nemzeti Park", ro: "Parcul Național Burabay", en: "Burabay National Park"},
+    image: "/poi-images/burabay-national-park-nature-v2.webp",
     description: {
       de: "Diese grüne Oase inmitten der nordkasachischen Steppe ist geprägt von dichten Kiefernwäldern und kristallklaren Seen. Die markanten Granitfelsen verleihen der Landschaft ein mystisches Aussehen.",
       hu: "Ez a zöld oázis Észak-Kazahsztán sztyeppéinek közepén fenyvesekkel és kristálytiszta tavakkal van tele. A jellegzetes gránitsziklák misztikus megjelenést kölcsönöznek a tájnak.",
@@ -378,9 +371,8 @@ image: "/poi-images/burabay-national-park-nature-v2.webp"
     type: "river",
     parent: "KZ-VOS",
     coords: [79.9141, 50.4136],
-    name: { de: "Irtysch", hu: "Irtis", ro: "Râul Irtîș", en: "Irtysh River",
-image: "/poi-images/irtysh-river-nature-v2.webp"
-},
+    name: { de: "Irtysch", hu: "Irtis", ro: "Râul Irtîș", en: "Irtysh River"},
+    image: "/poi-images/irtysh-river-nature-v2.webp",
     description: {
       de: "Einer der längsten Flüsse Asiens, der vom Altai-Gebirge durch Kasachstan in Richtung Sibirien fließt. Er ist eine lebenswichtige Wasserquelle und ein wichtiger Verkehrsweg.",
       hu: "Ázsia egyik leghosszabb folyója, amely az Altaj-hegységből Kazahsztánon át Szibéria felé folyik. Létfontosságú vízforrás és fontos közlekedési útvonal.",
@@ -431,9 +423,8 @@ image: "/poi-images/irtysh-river-nature-v2.webp"
     type: "river",
     parent: "KZ-ATY",
     coords: [51.5833, 47.1000],
-    name: { de: "Ural", hu: "Urál", ro: "Râul Ural", en: "Ural River",
-image: "/poi-images/ural-river-nature-v2.webp"
-},
+    name: { de: "Ural", hu: "Urál", ro: "Râul Ural", en: "Ural River"},
+    image: "/poi-images/ural-river-nature-v2.webp",
     description: {
       de: "Dieser geschichtsträchtige Fluss bildet die traditionelle Grenze zwischen Europa und Asien. Er mündet im Kaspischen Meer und ist für seinen Störreichtum bekannt.",
       hu: "Ez a történelmi jelentőségű folyó alkotja a hagyományos határt Európa és Ázsia között. A Kaszpi-tengerbe torkollik, és tokhalállományáról híres.",
@@ -485,9 +476,8 @@ image: "/poi-images/ural-river-nature-v2.webp"
     type: "river",
     parent: "KZ-KZY",
     coords: [61.1666, 46.1500],
-    name: { de: "Syrdarja", hu: "Szirdarja", ro: "Sîrdaria", en: "Syr Darya",
-image: "/poi-images/syr-darya-nature-v2.webp"
-},
+    name: { de: "Syrdarja", hu: "Szirdarja", ro: "Sîrdaria", en: "Syr Darya"},
+    image: "/poi-images/syr-darya-nature-v2.webp",
     description: {
       de: "Einer der beiden Hauptflüsse Zentralasiens, der historisch als Jaxartes bekannt war. Er fließt durch die Wüste bis zum stark geschrumpften Aralsee.",
       hu: "Közép-Ázsia két fő folyójának egyike, amelyet történelmileg Iaxartész néven ismertek. A sivatagon keresztül folyik az erősen összezsugorodott Aral-tó felé.",
@@ -538,9 +528,8 @@ image: "/poi-images/syr-darya-nature-v2.webp"
     type: "mountain",
     parent: "KZ-VOS",
     coords: [86.5913, 49.8077],
-    name: { de: "Belucha", hu: "Beluha", ro: "Muntele Beluha", en: "Mount Belukha",
-image: "/poi-images/mount-belukha-nature-v2.webp"
-},
+    name: { de: "Belucha", hu: "Beluha", ro: "Muntele Beluha", en: "Mount Belukha"},
+    image: "/poi-images/mount-belukha-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel des Altai-Gebirges liegt direkt auf der Grenze zwischen Kasachstan und Russland. Seine markanten Zwillingsgipfel sind dauerhaft von Gletschern bedeckt.",
       hu: "Az Altaj-hegység legmagasabb csúcsa, amely közvetlenül Kazahsztán és Oroszország határán fekszik. Jellegzetes ikercsúcsait állandóan gleccserek borítják.",
@@ -591,9 +580,8 @@ image: "/poi-images/mount-belukha-nature-v2.webp"
     type: "mountain",
     parent: "KZ-ALM",
     coords: [80.1744, 42.2108],
-    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Han Tengri", en: "Khan Tengri",
-image: "/poi-images/khan-tengri-nature-v2.webp"
-},
+    name: { de: "Khan Tengri", hu: "Hantengri", ro: "Han Tengri", en: "Khan Tengri"},
+    image: "/poi-images/khan-tengri-nature-v2.webp",
     description: {
       de: "Dieser majestätische, pyramidenförmige Berg ist einer der höchsten Gipfel des Tian Shan. Bei Sonnenuntergang leuchtet der Marmorgipfel intensiv rot, was ihm den Namen Blutberg einbrachte.",
       hu: "Ez a fenséges, piramis alakú hegy a Tien-san egyik legmagasabb csúcsa. Naplementekor a márványcsúcs intenzív vörös színben ragyog, ezért Vérhegynek is hívják.",
@@ -644,9 +632,8 @@ image: "/poi-images/khan-tengri-nature-v2.webp"
     type: "national-park",
     parent: "KZ-TUR",
     coords: [70.5333, 42.3333],
-    name: { de: "Naturreservat Aksu-Dschabagly", hu: "Akszu-Zsabagli Természetvédelmi Terület", ro: "Rezervația Naturală Aksu-Zhabagly", en: "Aksu-Zhabagly Nature Reserve",
-image: "/poi-images/aksu-zhabagly-nature-v2.webp"
-},
+    name: { de: "Naturreservat Aksu-Dschabagly", hu: "Akszu-Zsabagli Természetvédelmi Terület", ro: "Rezervația Naturală Aksu-Zhabagly", en: "Aksu-Zhabagly Nature Reserve"},
+    image: "/poi-images/aksu-zhabagly-nature-v2.webp",
     description: {
       de: "Das älteste Naturschutzgebiet in Kasachstan umfasst atemberaubende Schluchten und alpine Landschaften im westlichen Tian Shan. Es ist berühmt für seine Tulpenvielfalt und Bären.",
       hu: "Kazahsztán legrégebbi természetvédelmi területe, amely lenyűgöző szurdokokat és alpesi tájakat foglal magában a nyugati Tien-sanban. Híres tulipánjairól és medvéiről.",
@@ -697,9 +684,8 @@ image: "/poi-images/aksu-zhabagly-nature-v2.webp"
     type: "national-park",
     parent: "KZ-KAR",
     coords: [75.4000, 49.4166],
-    name: { de: "Karkaraly-Nationalpark", hu: "Karkaralinsk Nemzeti Park", ro: "Parcul Național Karkaraly", en: "Karkaraly National Park",
-image: "/poi-images/karkaraly-national-park-nature-v2.webp"
-},
+    name: { de: "Karkaraly-Nationalpark", hu: "Karkaralinsk Nemzeti Park", ro: "Parcul Național Karkaraly", en: "Karkaraly National Park"},
+    image: "/poi-images/karkaraly-national-park-nature-v2.webp",
     description: {
       de: "Ein dicht bewaldetes Bergmassiv, das sich dramatisch aus der trockenen kasachischen Steppe erhebt. Es verbirgt heilige Höhlen, alte Felszeichnungen und malerische Seen.",
       hu: "Sűrűn erdősített hegymasszívum, amely drámaian emelkedik ki a száraz kazah sztyeppéből. Szent barlangokat, ősi sziklarajzokat és festői tavakat rejt.",
@@ -750,9 +736,8 @@ image: "/poi-images/karkaraly-national-park-nature-v2.webp"
     type: "lake",
     parent: "KZ-VOS",
     coords: [83.9166, 47.9166],
-    name: { de: "Saisansee", hu: "Zajszan-tó", ro: "Lacul Zaisan", en: "Lake Zaysan",
-image: "/poi-images/lake-zaysan-nature-v2.webp"
-},
+    name: { de: "Saisansee", hu: "Zajszan-tó", ro: "Lacul Zaisan", en: "Lake Zaysan"},
+    image: "/poi-images/lake-zaysan-nature-v2.webp",
     description: {
       de: "Ein uralter Süßwassersee im Osten Kasachstans, der oft als einer der ältesten Seen der Welt bezeichnet wird. Er wird vom Schwarzen Irtysch gespeist und liegt in einer malerischen Talsenke.",
       hu: "Egy ősi édesvizű tó Kelet-Kazahsztánban, amelyet gyakran a világ egyik legrégebbi tavának tartanak. A Fekete-Irtis táplálja, és egy festői völgyben fekszik.",
@@ -803,9 +788,8 @@ image: "/poi-images/lake-zaysan-nature-v2.webp"
     type: "national-park",
     parent: "KZ-PAV",
     coords: [75.6500, 50.8000],
-    name: { de: "Bajanauyl-Nationalpark", hu: "Bajanauil Nemzeti Park", ro: "Parcul Național Bayanaul", en: "Bayanaul National Park",
-image: "/poi-images/bayanaul-national-park-nature-v2.webp"
-},
+    name: { de: "Bajanauyl-Nationalpark", hu: "Bajanauil Nemzeti Park", ro: "Parcul Național Bayanaul", en: "Bayanaul National Park"},
+    image: "/poi-images/bayanaul-national-park-nature-v2.webp",
     description: {
       de: "Kasachstans erster Nationalpark ist eine faszinierende Oase aus Kiefernwäldern, bizarren Felsformationen und klaren Seen inmitten der weiten Steppe. Ein Paradies für Kletterer und Naturfreunde.",
       hu: "Kazahsztán első nemzeti parkja fenyőerdők, bizarr sziklaalakzatok és tiszta tavak lenyűgöző oázisa a végtelen sztyeppe közepén. A sziklamászók és a természetbarátok paradicsoma.",
@@ -856,9 +840,8 @@ image: "/poi-images/bayanaul-national-park-nature-v2.webp"
     type: "lake",
     parent: "KZ-ABA",
     coords: [81.7666, 46.1333],
-    name: { de: "Alaköl-See", hu: "Alaköl", ro: "Lacul Alakol", en: "Lake Alakol",
-image: "/poi-images/lake-alakol-nature-v2.webp"
-},
+    name: { de: "Alaköl-See", hu: "Alaköl", ro: "Lacul Alakol", en: "Lake Alakol"},
+    image: "/poi-images/lake-alakol-nature-v2.webp",
     description: {
       de: "Ein einzigartiger abflussloser See, dessen Name so viel wie bunter See bedeutet, da das Wasser je nach Wetterlage seine Farbe ändert. Er ist bekannt für sein heilendes, mineralreiches Wasser.",
       hu: "Egyedülálló lefolyástalan tó, amelynek neve színes tavat jelent, mivel a víz az időjárástól függően változtatja a színét. Gyógyító, ásványi anyagokban gazdag vizéről ismert.",
@@ -909,9 +892,8 @@ image: "/poi-images/lake-alakol-nature-v2.webp"
     type: "river",
     parent: "KZ-ALM",
     coords: [74.5333, 45.4000],
-    name: { de: "Ili", hu: "Ili", ro: "Râul Ili", en: "Ili River",
-image: "/poi-images/ili-river-nature-v2.webp"
-},
+    name: { de: "Ili", hu: "Ili", ro: "Râul Ili", en: "Ili River"},
+    image: "/poi-images/ili-river-nature-v2.webp",
     description: {
       de: "Dieser mächtige Fluss entspringt in den Bergen von Xinjiang und durchfließt den Südosten Kasachstans, bevor er im Balchaschsee mündet. Sein fruchtbares Delta ist ein Paradies für Wildtiere.",
       hu: "Ez a hatalmas folyó a Hszincsiang-hegységben ered, és Délkelet-Kazahsztánon folyik keresztül, mielőtt a Balkas-tóba ömlik. Termékeny deltája a vadon élő állatok paradicsoma.",
@@ -962,9 +944,8 @@ image: "/poi-images/ili-river-nature-v2.webp"
     type: "national-park",
     parent: "KZ-KUS",
     coords: [64.3166, 51.5000],
-    name: { de: "Naturreservat Naurzum", hu: "Naurzum Természetvédelmi Terület", ro: "Rezervația Naturală Naurzum", en: "Naurzum Nature Reserve",
-image: "/poi-images/naurzum-nature-reserve-nature-v2.webp"
-},
+    name: { de: "Naturreservat Naurzum", hu: "Naurzum Természetvédelmi Terület", ro: "Rezervația Naturală Naurzum", en: "Naurzum Nature Reserve"},
+    image: "/poi-images/naurzum-nature-reserve-nature-v2.webp",
     description: {
       de: "Ein bedeutendes Feucht- und Steppengebiet im Norden Kasachstans, das als wichtigster Rastplatz für Millionen von Zugvögeln dient. Es gehört zum UNESCO-Weltnaturerbe.",
       hu: "Jelentős vizes- és sztyeppei terület Észak-Kazahsztánban, amely több millió vándormadár legfontosabb pihenőhelyéül szolgál. Az UNESCO világörökség része.",
@@ -1015,9 +996,8 @@ image: "/poi-images/naurzum-nature-reserve-nature-v2.webp"
     type: "mountain",
     parent: "KZ-ALM",
     coords: [80.0000, 42.0000],
-    name: { de: "Tian Shan", hu: "Tien-san", ro: "Tian-Șan", en: "Tien Shan",
-image: "/poi-images/tien-shan-nature-v2.webp"
-},
+    name: { de: "Tian Shan", hu: "Tien-san", ro: "Tian-Șan", en: "Tien Shan"},
+    image: "/poi-images/tien-shan-nature-v2.webp",
     description: {
       de: "Die sogenannten Himmelsgebirge erstrecken sich über weite Teile Zentralasiens und bieten dramatische Landschaften mit tiefen Tälern, Gletschern und schneebedeckten Gipfeln. Ein Zentrum der biologischen Vielfalt.",
       hu: "Az úgynevezett Mennyei-hegység Közép-Ázsia nagy részén végighúzódik, mély völgyekkel, gleccserekkel és hófedte csúcsokkal teli drámai tájakat kínálva. A biológiai sokféleség központja.",

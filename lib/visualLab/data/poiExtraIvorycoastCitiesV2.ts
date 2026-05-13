@@ -11,9 +11,8 @@ export const poiExtraIvorycoastCitiesV2: POI[] = [
       de: "Abidjan",
       hu: "Abidjan",
       ro: "Abidjan",
-      en: "Abidjan",
-image: "/poi-images/abidjan-cities-v2.webp"
-},
+      en: "Abidjan"},
+    image: "/poi-images/abidjan-cities-v2.webp",
     description: {
       de: "Wirtschaftsmetropole der Elfenbeinküste.",
       hu: "Elefántcsontpart gazdasági központja.",
@@ -47,9 +46,8 @@ image: "/poi-images/abidjan-cities-v2.webp"
       de: "Yamoussoukro",
       hu: "Yamoussoukro",
       ro: "Yamoussoukro",
-      en: "Yamoussoukro",
-image: "/poi-images/yamoussoukro-cities-v2.webp"
-},
+      en: "Yamoussoukro"},
+    image: "/poi-images/yamoussoukro-cities-v2.webp",
     description: {
       de: "Die politische Hauptstadt des Landes.",
       hu: "Az ország politikai fővárosa.",
@@ -83,9 +81,8 @@ image: "/poi-images/yamoussoukro-cities-v2.webp"
       de: "Bouaké",
       hu: "Bouaké",
       ro: "Bouaké",
-      en: "Bouaké",
-image: "/poi-images/bouak-cities-v2.webp"
-},
+      en: "Bouaké"},
+    image: "/poi-images/bouak-cities-v2.webp",
     description: {
       de: "Die zweitgrößte Stadt des Landes.",
       hu: "Az ország második legnagyobb városa.",
@@ -117,9 +114,8 @@ image: "/poi-images/bouak-cities-v2.webp"
       de: "Daloa",
       hu: "Daloa",
       ro: "Daloa",
-      en: "Daloa",
-image: "/poi-images/daloa-cities-v2.webp"
-},
+      en: "Daloa"},
+    image: "/poi-images/daloa-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für den Kakaoanbau.",
       hu: "Fontos központja a kakaótermesztésnek.",
@@ -152,9 +148,8 @@ image: "/poi-images/daloa-cities-v2.webp"
       de: "San-Pédro",
       hu: "San-Pédro",
       ro: "San-Pédro",
-      en: "San-Pédro",
-image: "/poi-images/san-p-dro-cities-v2.webp"
-},
+      en: "San-Pédro"},
+    image: "/poi-images/san-p-dro-cities-v2.webp",
     description: {
       de: "Besitzt den zweitgrößten Hafen der Elfenbeinküste.",
       hu: "Elefántcsontpart második legnagyobb kikötőjével rendelkezik.",
@@ -186,9 +181,8 @@ image: "/poi-images/san-p-dro-cities-v2.webp"
       de: "Korhogo",
       hu: "Korhogo",
       ro: "Korhogo",
-      en: "Korhogo",
-image: "/poi-images/korhogo-cities-v2.webp"
-},
+      en: "Korhogo"},
+    image: "/poi-images/korhogo-cities-v2.webp",
     description: {
       de: "Die größte Stadt im Norden des Landes.",
       hu: "Az ország északi részének legnagyobb városa.",
@@ -221,9 +215,8 @@ image: "/poi-images/korhogo-cities-v2.webp"
       de: "Man",
       hu: "Man",
       ro: "Man",
-      en: "Man",
-image: "/poi-images/man-cities-v2.webp"
-},
+      en: "Man"},
+    image: "/poi-images/man-cities-v2.webp",
     description: {
       de: "Bekannt als die Stadt der 18 Berge.",
       hu: "A 18 hegy városaként ismert.",
@@ -256,9 +249,8 @@ image: "/poi-images/man-cities-v2.webp"
       de: "Divo",
       hu: "Divo",
       ro: "Divo",
-      en: "Divo",
-image: "/poi-images/divo-cities-v2.webp"
-},
+      en: "Divo"},
+    image: "/poi-images/divo-cities-v2.webp",
     description: {
       de: "Ein regionales Zentrum in der Gôh-Djiboua-Region.",
       hu: "Regionális központ a Gôh-Djiboua régióban.",
@@ -291,9 +283,8 @@ image: "/poi-images/divo-cities-v2.webp"
       de: "Gagnoa",
       hu: "Gagnoa",
       ro: "Gagnoa",
-      en: "Gagnoa",
-image: "/poi-images/gagnoa-cities-v2.webp"
-},
+      en: "Gagnoa"},
+    image: "/poi-images/gagnoa-cities-v2.webp",
     description: {
       de: "Ein bedeutendes landwirtschaftliches Zentrum im Süden.",
       hu: "Jelentős mezőgazdasági központ délen.",
@@ -326,9 +317,8 @@ image: "/poi-images/gagnoa-cities-v2.webp"
       de: "Abengourou",
       hu: "Abengourou",
       ro: "Abengourou",
-      en: "Abengourou",
-image: "/poi-images/abengourou-cities-v2.webp"
-},
+      en: "Abengourou"},
+    image: "/poi-images/abengourou-cities-v2.webp",
     description: {
       de: "Der historische Sitz des Indénié-Königreichs.",
       hu: "Az Indénié királyság történelmi központja.",
@@ -361,9 +351,8 @@ image: "/poi-images/abengourou-cities-v2.webp"
       de: "Agboville",
       hu: "Agboville",
       ro: "Agboville",
-      en: "Agboville",
-image: "/poi-images/agboville-cities-v2.webp"
-},
+      en: "Agboville"},
+    image: "/poi-images/agboville-cities-v2.webp",
     description: {
       de: "Ehemalige Kolonialstadt und Zentrum der Abbey-Kultur.",
       hu: "Korábbi gyarmati város és az Abbey kultúra központja.",
@@ -396,9 +385,8 @@ image: "/poi-images/agboville-cities-v2.webp"
       de: "Grand-Bassam",
       hu: "Grand-Bassam",
       ro: "Grand-Bassam",
-      en: "Grand-Bassam",
-image: "/poi-images/grand-bassam-cities-v2.webp"
-},
+      en: "Grand-Bassam"},
+    image: "/poi-images/grand-bassam-cities-v2.webp",
     description: {
       de: "Die historische erste Hauptstadt der Elfenbeinküste.",
       hu: "Elefántcsontpart történelmi első fővárosa.",
@@ -431,9 +419,8 @@ image: "/poi-images/grand-bassam-cities-v2.webp"
       de: "Anyama",
       hu: "Anyama",
       ro: "Anyama",
-      en: "Anyama",
-image: "/poi-images/anyama-cities-v2.webp"
-},
+      en: "Anyama"},
+    image: "/poi-images/anyama-cities-v2.webp",
     description: {
       de: "Ein nördlicher Vorort von Abidjan.",
       hu: "Abidjan egyik északi külvárosa.",
@@ -466,9 +453,8 @@ image: "/poi-images/anyama-cities-v2.webp"
       de: "Dabou",
       hu: "Dabou",
       ro: "Dabou",
-      en: "Dabou",
-image: "/poi-images/dabou-cities-v2.webp"
-},
+      en: "Dabou"},
+    image: "/poi-images/dabou-cities-v2.webp",
     description: {
       de: "Eine Stadt westlich von Abidjan nahe der Küste.",
       hu: "Város Abidjantól nyugatra a part közelében.",
@@ -501,9 +487,8 @@ image: "/poi-images/dabou-cities-v2.webp"
       de: "Soubré",
       hu: "Soubré",
       ro: "Soubré",
-      en: "Soubré",
-image: "/poi-images/soubr-cities-v2.webp"
-},
+      en: "Soubré"},
+    image: "/poi-images/soubr-cities-v2.webp",
     description: {
       de: "Zentrum der größten Kakaoproduktionsregion des Landes.",
       hu: "Az ország legnagyobb kakaótermelő régiójának központja.",
@@ -535,9 +520,8 @@ image: "/poi-images/soubr-cities-v2.webp"
       de: "Ferkessédougou",
       hu: "Ferkessédougou",
       ro: "Ferkessédougou",
-      en: "Ferkessédougou",
-image: "/poi-images/ferkess-dougou-cities-v2.webp"
-},
+      en: "Ferkessédougou"},
+    image: "/poi-images/ferkess-dougou-cities-v2.webp",
     description: {
       de: "Ein wichtiger Verkehrsknotenpunkt im Norden.",
       hu: "Fontos közlekedési csomópont északon.",
@@ -569,9 +553,8 @@ image: "/poi-images/ferkess-dougou-cities-v2.webp"
       de: "Tiassalé",
       hu: "Tiassalé",
       ro: "Tiassalé",
-      en: "Tiassalé",
-image: "/poi-images/tiassal-cities-v2.webp"
-},
+      en: "Tiassalé"},
+    image: "/poi-images/tiassal-cities-v2.webp",
     description: {
       de: "Bekannt für seine Brücke über den Bandama-Fluss.",
       hu: "A Bandama-folyó feletti hídjáról ismert.",
@@ -603,9 +586,8 @@ image: "/poi-images/tiassal-cities-v2.webp"
       de: "Issia",
       hu: "Issia",
       ro: "Issia",
-      en: "Issia",
-image: "/poi-images/issia-cities-v2.webp"
-},
+      en: "Issia"},
+    image: "/poi-images/issia-cities-v2.webp",
     description: {
       de: "Eine aufstrebende Stadt in der Region Haut-Sassandra.",
       hu: "Feltörekvő város a Haut-Sassandra régióban.",
@@ -637,9 +619,8 @@ image: "/poi-images/issia-cities-v2.webp"
       de: "Séguéla",
       hu: "Séguéla",
       ro: "Séguéla",
-      en: "Séguéla",
-image: "/poi-images/s-gu-la-cities-v2.webp"
-},
+      en: "Séguéla"},
+    image: "/poi-images/s-gu-la-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für den Diamantenabbau.",
       hu: "Fontos központja a gyémántbányászatnak.",
@@ -671,9 +652,8 @@ image: "/poi-images/s-gu-la-cities-v2.webp"
       de: "Guiglo",
       hu: "Guiglo",
       ro: "Guiglo",
-      en: "Guiglo",
-image: "/poi-images/guiglo-cities-v2.webp"
-},
+      en: "Guiglo"},
+    image: "/poi-images/guiglo-cities-v2.webp",
     description: {
       de: "Liegt in einer waldreichen Region im Westen.",
       hu: "Egy erdős régióban fekszik nyugaton.",
@@ -706,9 +686,8 @@ image: "/poi-images/guiglo-cities-v2.webp"
       de: "Odienné",
       hu: "Odienné",
       ro: "Odienné",
-      en: "Odienné",
-image: "/poi-images/odienn-cities-v2.webp"
-},
+      en: "Odienné"},
+    image: "/poi-images/odienn-cities-v2.webp",
     description: {
       de: "Die bedeutendste Stadt im Nordwesten.",
       hu: "A legjelentősebb város északnyugaton.",
@@ -740,9 +719,8 @@ image: "/poi-images/odienn-cities-v2.webp"
       de: "Katiola",
       hu: "Katiola",
       ro: "Katiola",
-      en: "Katiola",
-image: "/poi-images/katiola-cities-v2.webp"
-},
+      en: "Katiola"},
+    image: "/poi-images/katiola-cities-v2.webp",
     description: {
       de: "Berühmt für seine traditionelle Töpferei.",
       hu: "Hagyományos fazekasságáról híres.",
@@ -775,9 +753,8 @@ image: "/poi-images/katiola-cities-v2.webp"
       de: "Boundiali",
       hu: "Boundiali",
       ro: "Boundiali",
-      en: "Boundiali",
-image: "/poi-images/boundiali-cities-v2.webp"
-},
+      en: "Boundiali"},
+    image: "/poi-images/boundiali-cities-v2.webp",
     description: {
       de: "Ein landwirtschaftliches Zentrum im Savannen-Distrikt.",
       hu: "Mezőgazdasági központ a szavanna térségben.",
@@ -810,9 +787,8 @@ image: "/poi-images/boundiali-cities-v2.webp"
       de: "Toumodi",
       hu: "Toumodi",
       ro: "Toumodi",
-      en: "Toumodi",
-image: "/poi-images/toumodi-cities-v2.webp"
-},
+      en: "Toumodi"},
+    image: "/poi-images/toumodi-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in der Bélier-Region.",
       hu: "Történelmi város a Bélier régióban.",
@@ -844,9 +820,8 @@ image: "/poi-images/toumodi-cities-v2.webp"
       de: "Bingerville",
       hu: "Bingerville",
       ro: "Bingerville",
-      en: "Bingerville",
-image: "/poi-images/bingerville-cities-v2.webp"
-},
+      en: "Bingerville"},
+    image: "/poi-images/bingerville-cities-v2.webp",
     description: {
       de: "Ehemalige Hauptstadt der Kolonialzeit.",
       hu: "Korábbi gyarmati főváros.",
@@ -878,9 +853,8 @@ image: "/poi-images/bingerville-cities-v2.webp"
       de: "Danané",
       hu: "Danané",
       ro: "Danané",
-      en: "Danané",
-image: "/poi-images/danan-cities-v2.webp"
-},
+      en: "Danané"},
+    image: "/poi-images/danan-cities-v2.webp",
     description: {
       de: "Eine Grenzstadt nahe Liberia und Guinea.",
       hu: "Határváros Libéria és Guinea közelében.",
@@ -912,9 +886,8 @@ image: "/poi-images/danan-cities-v2.webp"
       de: "Bouna",
       hu: "Bouna",
       ro: "Bouna",
-      en: "Bouna",
-image: "/poi-images/bouna-cities-v2.webp"
-},
+      en: "Bouna"},
+    image: "/poi-images/bouna-cities-v2.webp",
     description: {
       de: "Liegt nahe dem Comoé-Nationalpark im Osten.",
       hu: "A keleten fekvő Comoé Nemzeti Park közelében található.",
@@ -947,9 +920,8 @@ image: "/poi-images/bouna-cities-v2.webp"
       de: "Oumé",
       hu: "Oumé",
       ro: "Oumé",
-      en: "Oumé",
-image: "/poi-images/oum-cities-v2.webp"
-},
+      en: "Oumé"},
+    image: "/poi-images/oum-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Region Gôh mit landwirtschaftlicher Prägung.",
       hu: "Mezőgazdasági jellegű város a Gôh régióban.",
@@ -981,9 +953,8 @@ image: "/poi-images/oum-cities-v2.webp"
       de: "Duékoué",
       hu: "Duékoué",
       ro: "Duékoué",
-      en: "Duékoué",
-image: "/poi-images/du-kou-cities-v2.webp"
-},
+      en: "Duékoué"},
+    image: "/poi-images/du-kou-cities-v2.webp",
     description: {
       de: "Ein Handelsknotenpunkt im Westen des Landes.",
       hu: "Kereskedelmi csomópont az ország nyugati részén.",
@@ -1015,9 +986,8 @@ image: "/poi-images/du-kou-cities-v2.webp"
       de: "Tengréla",
       hu: "Tengréla",
       ro: "Tengréla",
-      en: "Tengréla",
-image: "/poi-images/tengr-la-cities-v2.webp"
-},
+      en: "Tengréla"},
+    image: "/poi-images/tengr-la-cities-v2.webp",
     description: {
       de: "Die nördlichste Stadt der Elfenbeinküste an der Grenze zu Mali.",
       hu: "Elefántcsontpart legészakibb városa, a mali határnál.",
@@ -1049,9 +1019,8 @@ image: "/poi-images/tengr-la-cities-v2.webp"
       de: "Arrah",
       hu: "Arrah",
       ro: "Arrah",
-      en: "Arrah",
-image: "/poi-images/arrah-cities-v2.webp"
-},
+      en: "Arrah"},
+    image: "/poi-images/arrah-cities-v2.webp",
     description: {
       de: "Eine Stadt in der Moronou-Region.",
       hu: "Város a Moronou régióban.",
@@ -1083,9 +1052,8 @@ image: "/poi-images/arrah-cities-v2.webp"
       de: "Sinfra",
       hu: "Sinfra",
       ro: "Sinfra",
-      en: "Sinfra",
-image: "/poi-images/sinfra-cities-v2.webp"
-},
+      en: "Sinfra"},
+    image: "/poi-images/sinfra-cities-v2.webp",
     description: {
       de: "Eine multiethnische Stadt in der Marahoué-Region.",
       hu: "Többnemzetiségű város a Marahoué régióban.",
@@ -1117,9 +1085,8 @@ image: "/poi-images/sinfra-cities-v2.webp"
       de: "M'Batto",
       hu: "M'Batto",
       ro: "M'Batto",
-      en: "M'Batto",
-image: "/poi-images/m-batto-cities-v2.webp"
-},
+      en: "M'Batto"},
+    image: "/poi-images/m-batto-cities-v2.webp",
     description: {
       de: "Bekannt für seine vielfältige Landwirtschaft.",
       hu: "Sokszínű mezőgazdaságáról ismert.",
@@ -1151,9 +1118,8 @@ image: "/poi-images/m-batto-cities-v2.webp"
       de: "Zuénoula",
       hu: "Zuénoula",
       ro: "Zuénoula",
-      en: "Zuénoula",
-image: "/poi-images/zu-noula-cities-v2.webp"
-},
+      en: "Zuénoula"},
+    image: "/poi-images/zu-noula-cities-v2.webp",
     description: {
       de: "Eine der wichtigsten Städte für die Zuckerproduktion.",
       hu: "A cukortermelés egyik legfontosabb városa.",
@@ -1185,9 +1151,8 @@ image: "/poi-images/zu-noula-cities-v2.webp"
       de: "Aboisso",
       hu: "Aboisso",
       ro: "Aboisso",
-      en: "Aboisso",
-image: "/poi-images/aboisso-cities-v2.webp"
-},
+      en: "Aboisso"},
+    image: "/poi-images/aboisso-cities-v2.webp",
     description: {
       de: "Eine Grenzstadt auf dem Weg nach Ghana.",
       hu: "Határváros a Ghána felé vezető úton.",
@@ -1219,9 +1184,8 @@ image: "/poi-images/aboisso-cities-v2.webp"
       de: "Afféry",
       hu: "Afféry",
       ro: "Afféry",
-      en: "Afféry",
-image: "/poi-images/aff-ry-cities-v2.webp"
-},
+      en: "Afféry"},
+    image: "/poi-images/aff-ry-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für die Kaffeeproduktion.",
       hu: "A kávétermelés egyik fontos központja.",
@@ -1253,9 +1217,8 @@ image: "/poi-images/aff-ry-cities-v2.webp"
       de: "Bonoua",
       hu: "Bonoua",
       ro: "Bonoua",
-      en: "Bonoua",
-image: "/poi-images/bonoua-cities-v2.webp"
-},
+      en: "Bonoua"},
+    image: "/poi-images/bonoua-cities-v2.webp",
     description: {
       de: "Berühmt für ihr jährliches Popo-Karnevalsfest.",
       hu: "Az éves Popo karneváli fesztiváljáról híres.",
@@ -1287,9 +1250,8 @@ image: "/poi-images/bonoua-cities-v2.webp"
       de: "Tabou",
       hu: "Tabou",
       ro: "Tabou",
-      en: "Tabou",
-image: "/poi-images/tabou-cities-v2.webp"
-},
+      en: "Tabou"},
+    image: "/poi-images/tabou-cities-v2.webp",
     description: {
       de: "Die westlichste Stadt an der ivorischen Küste.",
       hu: "Az elefántcsontparti partvidék legnyugatibb városa.",
@@ -1321,9 +1283,8 @@ image: "/poi-images/tabou-cities-v2.webp"
       de: "Grand-Lahou",
       hu: "Grand-Lahou",
       ro: "Grand-Lahou",
-      en: "Grand-Lahou",
-image: "/poi-images/grand-lahou-cities-v2.webp"
-},
+      en: "Grand-Lahou"},
+    image: "/poi-images/grand-lahou-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt zwischen Ozean und Lagune.",
       hu: "Festői város az óceán és a lagúna között.",
@@ -1355,9 +1316,8 @@ image: "/poi-images/grand-lahou-cities-v2.webp"
       de: "Béoumi",
       hu: "Béoumi",
       ro: "Béoumi",
-      en: "Béoumi",
-image: "/poi-images/b-oumi-cities-v2.webp"
-},
+      en: "Béoumi"},
+    image: "/poi-images/b-oumi-cities-v2.webp",
     description: {
       de: "Am Kossou-See gelegen, einem großen Stausee.",
       hu: "A Kossou-tónál, egy nagy víztározónál fekszik.",
@@ -1389,9 +1349,8 @@ image: "/poi-images/b-oumi-cities-v2.webp"
       de: "Mankono",
       hu: "Mankono",
       ro: "Mankono",
-      en: "Mankono",
-image: "/poi-images/mankono-cities-v2.webp"
-},
+      en: "Mankono"},
+    image: "/poi-images/mankono-cities-v2.webp",
     description: {
       de: "Ein traditionelles Handelszentrum im Béré-Gebiet.",
       hu: "Hagyományos kereskedelmi központ a Béré térségben.",
@@ -1424,9 +1383,8 @@ image: "/poi-images/mankono-cities-v2.webp"
       de: "Taabo",
       hu: "Taabo",
       ro: "Taabo",
-      en: "Taabo",
-image: "/poi-images/taabo-cities-v2.webp"
-},
+      en: "Taabo"},
+    image: "/poi-images/taabo-cities-v2.webp",
     description: {
       de: "Bekannt für seinen großen Wasserkraft-Staudamm.",
       hu: "Nagy vízerőművi gátjáról ismert.",
@@ -1458,9 +1416,8 @@ image: "/poi-images/taabo-cities-v2.webp"
       de: "Jacqueville",
       hu: "Jacqueville",
       ro: "Jacqueville",
-      en: "Jacqueville",
-image: "/poi-images/jacqueville-cities-v2.webp"
-},
+      en: "Jacqueville"},
+    image: "/poi-images/jacqueville-cities-v2.webp",
     description: {
       de: "Eine Halbinselstadt in der Region der Lagunen.",
       hu: "Félszigeti város a lagúnák régiójában.",
@@ -1492,9 +1449,8 @@ image: "/poi-images/jacqueville-cities-v2.webp"
       de: "Kouto",
       hu: "Kouto",
       ro: "Kouto",
-      en: "Kouto",
-image: "/poi-images/kouto-cities-v2.webp"
-},
+      en: "Kouto"},
+    image: "/poi-images/kouto-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im Norden mit traditioneller Architektur.",
       hu: "Történelmi város északon, hagyományos építészettel.",
@@ -1526,9 +1482,8 @@ image: "/poi-images/kouto-cities-v2.webp"
       de: "Mbengue",
       hu: "Mbengue",
       ro: "Mbengue",
-      en: "Mbengue",
-image: "/poi-images/mbengue-cities-v2.webp"
-},
+      en: "Mbengue"},
+    image: "/poi-images/mbengue-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für den Erdnuss- und Baumwollanbau.",
       hu: "A földimogyoró- és gyapottermesztés fontos központja.",
@@ -1560,9 +1515,8 @@ image: "/poi-images/mbengue-cities-v2.webp"
       de: "Ouangolodougou",
       hu: "Ouangolodougou",
       ro: "Ouangolodougou",
-      en: "Ouangolodougou",
-image: "/poi-images/ouangolodougou-cities-v2.webp"
-},
+      en: "Ouangolodougou"},
+    image: "/poi-images/ouangolodougou-cities-v2.webp",
     description: {
       de: "Eine wichtige Kreuzungsstadt nahe der Grenze zu Burkina Faso.",
       hu: "Fontos kereszteződési város Burkina Faso határa közelében.",
@@ -1594,9 +1548,8 @@ image: "/poi-images/ouangolodougou-cities-v2.webp"
       de: "Sikensi",
       hu: "Sikensi",
       ro: "Sikensi",
-      en: "Sikensi",
-image: "/poi-images/sikensi-cities-v2.webp"
-},
+      en: "Sikensi"},
+    image: "/poi-images/sikensi-cities-v2.webp",
     description: {
       de: "Eine Stadt, die für ihre landwirtschaftlichen Produkte bekannt ist.",
       hu: "Mezőgazdasági termékeiről ismert város.",
@@ -1628,9 +1581,8 @@ image: "/poi-images/sikensi-cities-v2.webp"
       de: "Touba",
       hu: "Touba",
       ro: "Touba",
-      en: "Touba",
-image: "/poi-images/touba-cities-v2.webp"
-},
+      en: "Touba"},
+    image: "/poi-images/touba-cities-v2.webp",
     description: {
       de: "Die Hauptstadt der Bafing-Region.",
       hu: "A Bafing régió fővárosa.",
@@ -1663,9 +1615,8 @@ image: "/poi-images/touba-cities-v2.webp"
       de: "Vavoua",
       hu: "Vavoua",
       ro: "Vavoua",
-      en: "Vavoua",
-image: "/poi-images/vavoua-cities-v2.webp"
-},
+      en: "Vavoua"},
+    image: "/poi-images/vavoua-cities-v2.webp",
     description: {
       de: "Ein wichtiges Zentrum für die Kaffeeproduktion in Haut-Sassandra.",
       hu: "A Haut-Sassandra kávétermelésének fontos központja.",
@@ -1697,9 +1648,8 @@ image: "/poi-images/vavoua-cities-v2.webp"
       de: "Agnibilékrou",
       hu: "Agnibilékrou",
       ro: "Agnibilékrou",
-      en: "Agnibilékrou",
-image: "/poi-images/agnibil-krou-cities-v2.webp"
-},
+      en: "Agnibilékrou"},
+    image: "/poi-images/agnibil-krou-cities-v2.webp",
     description: {
       de: "Eine lebhafte Handelsstadt nahe der Grenze zu Ghana.",
       hu: "Élénk kereskedőváros Ghána határa közelében.",
@@ -1731,9 +1681,8 @@ image: "/poi-images/agnibil-krou-cities-v2.webp"
       de: "Bettié",
       hu: "Bettié",
       ro: "Bettié",
-      en: "Bettié",
-image: "/poi-images/betti-cities-v2.webp"
-},
+      en: "Bettié"},
+    image: "/poi-images/betti-cities-v2.webp",
     description: {
       de: "Eine Stadt im Indénié-Djuablin-Gebiet.",
       hu: "Város az Indénié-Djuablin térségben.",
@@ -1765,9 +1714,8 @@ image: "/poi-images/betti-cities-v2.webp"
       de: "Bocanda",
       hu: "Bocanda",
       ro: "Bocanda",
-      en: "Bocanda",
-image: "/poi-images/bocanda-cities-v2.webp"
-},
+      en: "Bocanda"},
+    image: "/poi-images/bocanda-cities-v2.webp",
     description: {
       de: "Bekannt als regionales Bildungszentrum in N'zi.",
       hu: "Regionális oktatási központként ismert N'zi-ben.",
@@ -1799,9 +1747,8 @@ image: "/poi-images/bocanda-cities-v2.webp"
       de: "Daoukro",
       hu: "Daoukro",
       ro: "Daoukro",
-      en: "Daoukro",
-image: "/poi-images/daoukro-cities-v2.webp"
-},
+      en: "Daoukro"},
+    image: "/poi-images/daoukro-cities-v2.webp",
     description: {
       de: "Heimat vieler ivorischer politischer Persönlichkeiten.",
       hu: "Számos elefántcsontparti politikai személyiség otthona.",
@@ -1833,9 +1780,8 @@ image: "/poi-images/daoukro-cities-v2.webp"
       de: "Sakassou",
       hu: "Sakassou",
       ro: "Sakassou",
-      en: "Sakassou",
-image: "/poi-images/sakassou-cities-v2.webp"
-},
+      en: "Sakassou"},
+    image: "/poi-images/sakassou-cities-v2.webp",
     description: {
       de: "Das historische Zentrum des Baoulé-Königreichs.",
       hu: "A Baoulé királyság történelmi központja.",
@@ -1867,9 +1813,8 @@ image: "/poi-images/sakassou-cities-v2.webp"
       de: "Prikro",
       hu: "Prikro",
       ro: "Prikro",
-      en: "Prikro",
-image: "/poi-images/prikro-cities-v2.webp"
-},
+      en: "Prikro"},
+    image: "/poi-images/prikro-cities-v2.webp",
     description: {
       de: "Eine kleine, aber wichtige Stadt im Iffou-Gebiet.",
       hu: "Kis, de fontos város az Iffou térségben.",
@@ -1901,9 +1846,8 @@ image: "/poi-images/prikro-cities-v2.webp"
       de: "Ouellé",
       hu: "Ouellé",
       ro: "Ouellé",
-      en: "Ouellé",
-image: "/poi-images/ouell-cities-v2.webp"
-},
+      en: "Ouellé"},
+    image: "/poi-images/ouell-cities-v2.webp",
     description: {
       de: "Ein ländliches Zentrum im Osten.",
       hu: "Vidéki központ a keleti részen.",
@@ -1935,9 +1879,8 @@ image: "/poi-images/ouell-cities-v2.webp"
       de: "Dianra",
       hu: "Dianra",
       ro: "Dianra",
-      en: "Dianra",
-image: "/poi-images/dianra-cities-v2.webp"
-},
+      en: "Dianra"},
+    image: "/poi-images/dianra-cities-v2.webp",
     description: {
       de: "Ein Agrarzentrum in der Béré-Region.",
       hu: "Agrárközpont a Béré régióban.",
@@ -1969,9 +1912,8 @@ image: "/poi-images/dianra-cities-v2.webp"
       de: "Kani",
       hu: "Kani",
       ro: "Kani",
-      en: "Kani",
-image: "/poi-images/kani-cities-v2.webp"
-},
+      en: "Kani"},
+    image: "/poi-images/kani-cities-v2.webp",
     description: {
       de: "Eine Marktstadt in der Worodougou-Region.",
       hu: "Piacváros a Worodougou régióban.",
@@ -2003,9 +1945,8 @@ image: "/poi-images/kani-cities-v2.webp"
       de: "Madinani",
       hu: "Madinani",
       ro: "Madinani",
-      en: "Madinani",
-image: "/poi-images/madinani-cities-v2.webp"
-},
+      en: "Madinani"},
+    image: "/poi-images/madinani-cities-v2.webp",
     description: {
       de: "Ein wichtiger Außenposten im Nordwesten.",
       hu: "Fontos előretolt helyőrség északnyugaton.",
@@ -2037,9 +1978,8 @@ image: "/poi-images/madinani-cities-v2.webp"
       de: "Bako",
       hu: "Bako",
       ro: "Bako",
-      en: "Bako",
-image: "/poi-images/bako-cities-v2.webp"
-},
+      en: "Bako"},
+    image: "/poi-images/bako-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt nahe Odienné.",
       hu: "Mezőgazdasági jellegű város Odienné közelében.",

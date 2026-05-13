@@ -11,9 +11,8 @@ export const poiExtraMauritiusLifeV2: POI[] = [
       de: "Casela Naturparks",
       hu: "Casela Natúrpark",
       ro: "Casela Nature Parks",
-      en: "Casela Nature Parks",
-image: "/poi-images/casela-nature-parks-life-v2.webp"
-},
+      en: "Casela Nature Parks"},
+    image: "/poi-images/casela-nature-parks-life-v2.webp",
     description: {
       de: "Ein riesiger Freizeit- und Wildtierpark, in dem Besucher Safaris unternehmen, mit Löwen spazieren gehen und exotische Vögel beobachten können.",
       hu: "Egy hatalmas szabadidő- és vadaspark, ahol a látogatók szafarikon vehetnek részt, oroszlánokkal sétálhatnak és egzotikus madarakat figyelhetnek meg.",
@@ -48,9 +47,8 @@ image: "/poi-images/casela-nature-parks-life-v2.webp"
       de: "La Vanille Naturpark",
       hu: "La Vanille Natúrpark",
       ro: "Parcul Natural La Vanille",
-      en: "La Vanille Nature Park",
-image: "/poi-images/la-vanille-nature-park-life-v2.webp"
-},
+      en: "La Vanille Nature Park"},
+    image: "/poi-images/la-vanille-nature-park-life-v2.webp",
     description: {
       de: "Dieser Park ist bekannt für seine Tausenden von Nilkrokodilen und riesigen Aldabra-Schildkröten, die Besucher füttern können.",
       hu: "Ez a park a több ezer nílusi krokodiljáról és óriási Aldabra-teknőseiről ismert, amelyeket a látogatók meg is etethetnek.",
@@ -85,9 +83,8 @@ image: "/poi-images/la-vanille-nature-park-life-v2.webp"
       de: "Mauritius Aquarium",
       hu: "Mauritius Akvárium",
       ro: "Acvariul din Mauritius",
-      en: "Mauritius Aquarium",
-image: "/poi-images/mauritius-aquarium-life-v2.webp"
-},
+      en: "Mauritius Aquarium"},
+    image: "/poi-images/mauritius-aquarium-life-v2.webp",
     description: {
       de: "In einem kleinen Dorf im Norden gelegen, beherbergt dieses Aquarium Hunderte von Meeresbewohnern der lokalen Korallenriffe.",
       hu: "A sziget északi részén található akvárium több száz helyi korallzátonyokon élő tengeri élőlénynek ad otthont.",
@@ -122,9 +119,8 @@ image: "/poi-images/mauritius-aquarium-life-v2.webp"
       de: "Odysseo Ozeanarium",
       hu: "Odysseo Óceanárium",
       ro: "Oceanariul Odysseo",
-      en: "Odysseo Oceanarium",
-image: "/poi-images/odysseo-oceanarium-life-v2.webp"
-},
+      en: "Odysseo Oceanarium"},
+    image: "/poi-images/odysseo-oceanarium-life-v2.webp",
     description: {
       de: "Das größte Ozeanarium im Indischen Ozean bietet einen faszinierenden Einblick in die Meeresökosysteme rund um Mauritius.",
       hu: "Az Indiai-óceán legnagyobb óceanáriuma lenyűgöző betekintést nyújt a Mauritius körüli tengeri ökoszisztémákba.",
@@ -159,9 +155,8 @@ image: "/poi-images/odysseo-oceanarium-life-v2.webp"
       de: "Curious Corner von Chamarel",
       hu: "Curious Corner of Chamarel",
       ro: "Curious Corner of Chamarel",
-      en: "Curious Corner of Chamarel",
-image: "/poi-images/curious-corner-life-v2.webp"
-},
+      en: "Curious Corner of Chamarel"},
+    image: "/poi-images/curious-corner-life-v2.webp",
     description: {
       de: "Ein Haus voller optischer Täuschungen und interaktiver Rätsel, das Besucher jeden Alters zum Staunen bringt.",
       hu: "Optikai csalódásokkal és interaktív rejtvényekkel teli ház, amely minden korosztályt lenyűgöz.",
@@ -196,9 +191,8 @@ image: "/poi-images/curious-corner-life-v2.webp"
       de: "Gros Cailloux Freizeitpark",
       hu: "Gros Cailloux Szabadidőpark",
       ro: "Parcul de Agrement Gros Cailloux",
-      en: "Gros Cailloux Leisure Park",
-image: "/poi-images/gros-cailloux-leisure-park-life-v2.webp"
-},
+      en: "Gros Cailloux Leisure Park"},
+    image: "/poi-images/gros-cailloux-leisure-park-life-v2.webp",
     description: {
       de: "Ein weitläufiger Park, der Landwirtschaft mit Freizeitaktivitäten wie Bootfahren, Quadfahren und einem Streichelzoo verbindet.",
       hu: "Hatalmas park, amely a mezőgazdaságot ötvözi szabadidős tevékenységekkel, mint a csónakázás, quadozás és egy állatsimogató.",
@@ -233,9 +227,8 @@ image: "/poi-images/gros-cailloux-leisure-park-life-v2.webp"
       de: "Domaine de l'Etoile",
       hu: "Domaine de l'Etoile",
       ro: "Domaine de l'Etoile",
-      en: "Domaine de l'Etoile",
-image: "/poi-images/domaine-de-letoile-life-v2.webp"
-},
+      en: "Domaine de l'Etoile"},
+    image: "/poi-images/domaine-de-letoile-life-v2.webp",
     description: {
       de: "Ein privates Naturreservat, das für seine reiche Flora und Fauna bekannt ist und zahlreiche Outdoor-Aktivitäten anbietet.",
       hu: "Magán természetvédelmi terület, amely gazdag flórájáról és faunájáról ismert, és számos szabadtéri tevékenységet kínál.",
@@ -270,9 +263,8 @@ image: "/poi-images/domaine-de-letoile-life-v2.webp"
       de: "Ile aux Aigrettes",
       hu: "Ile aux Aigrettes (Kócsagok szigete)",
       ro: "Ile aux Aigrettes",
-      en: "Ile aux Aigrettes",
-image: "/poi-images/ile-aux-aigrettes-life-v2.webp"
-},
+      en: "Ile aux Aigrettes"},
+    image: "/poi-images/ile-aux-aigrettes-life-v2.webp",
     description: {
       de: "Eine kleine Koralleninsel, die als Naturschutzgebiet dient und Heimat für seltene Vögel und Riesenschildkröten ist.",
       hu: "Egy kis korallsziget, amely természetvédelmi területként szolgál, és ritka madaraknak és óriásteknősöknek ad otthont.",
@@ -307,9 +299,8 @@ image: "/poi-images/ile-aux-aigrettes-life-v2.webp"
       de: "Ebony Forest Reservat",
       hu: "Ebony Forest Rezervátum",
       ro: "Rezervația Ebony Forest",
-      en: "Ebony Forest Reserve",
-image: "/poi-images/ebony-forest-life-v2.webp"
-},
+      en: "Ebony Forest Reserve"},
+    image: "/poi-images/ebony-forest-life-v2.webp",
     description: {
       de: "Ein Naturschutzprojekt zur Wiederherstellung der ursprünglichen Ebenholzwälder von Mauritius, das seltene Tierarten beherbergt.",
       hu: "Természetvédelmi projekt Mauritius eredeti ébenfaerdőinek helyreállítására, amely ritka állatfajoknak ad otthont.",
@@ -344,9 +335,8 @@ image: "/poi-images/ebony-forest-life-v2.webp"
       de: "Takamaka Boutique Weingut",
       hu: "Takamaka Boutique Borászat",
       ro: "Vinăria Takamaka",
-      en: "Takamaka Boutique Winery",
-image: "/poi-images/takamaka-winery-life-v2.webp"
-},
+      en: "Takamaka Boutique Winery"},
+    image: "/poi-images/takamaka-winery-life-v2.webp",
     description: {
       de: "Das einzige Weingut der Welt, das Wein ausschließlich aus Litschis herstellt und Einblicke in diesen speziellen Prozess bietet.",
       hu: "A világ egyetlen borászata, amely kizárólag licsiből készít bort, és betekintést nyújt ebbe a különleges folyamatba.",
@@ -381,9 +371,8 @@ image: "/poi-images/takamaka-winery-life-v2.webp"
       de: "Rhumerie de Chamarel",
       hu: "Rhumerie de Chamarel",
       ro: "Rhumerie de Chamarel",
-      en: "Rhumerie de Chamarel",
-image: "/poi-images/rhumerie-de-chamarel-life-v2.webp"
-},
+      en: "Rhumerie de Chamarel"},
+    image: "/poi-images/rhumerie-de-chamarel-life-v2.webp",
     description: {
       de: "Eine erstklassige Rum-Destillerie, die inmitten von Zuckerrohrplantagen liegt und traditionelle Destillationsmethoden zeigt.",
       hu: "Kiváló rumlepárló, amely cukornádültetvények közepén található, és hagyományos lepárlási módszereket mutat be.",
@@ -418,9 +407,8 @@ image: "/poi-images/rhumerie-de-chamarel-life-v2.webp"
       de: "Chamarel Kaffeeplantage",
       hu: "Chamareli Kávéültetvény",
       ro: "Plantația de Cafea Chamarel",
-      en: "Chamarel Coffee Plantation",
-image: "/poi-images/chamarel-coffee-plantation-life-v2.webp"
-},
+      en: "Chamarel Coffee Plantation"},
+    image: "/poi-images/chamarel-coffee-plantation-life-v2.webp",
     description: {
       de: "Die einzige Kaffeeproduktionsstätte auf Mauritius, die die berühmte Arabica-Bohne in der fruchtbaren Erde von Chamarel anbaut.",
       hu: "Mauritius egyetlen kávétermesztő helye, ahol a híres Arabica kávét termesztik Chamarel termékeny földjén.",
@@ -455,9 +443,8 @@ image: "/poi-images/chamarel-coffee-plantation-life-v2.webp"
       de: "Heritage Naturreservat",
       hu: "Heritage Természetvédelmi Terület",
       ro: "Rezervația Naturală Heritage",
-      en: "Heritage Nature Reserve",
-image: "/poi-images/heritage-nature-reserve-life-v2.webp"
-},
+      en: "Heritage Nature Reserve"},
+    image: "/poi-images/heritage-nature-reserve-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet im Süden, das eine Mischung aus Küstenwald und Berglandschaft bietet und Heimat für Hirsche und Wildschweine ist.",
       hu: "Déli természetvédelmi terület, amely tengerparti erdők és hegyi tájak keverékét kínálja, szarvasok és vaddisznók otthona.",
@@ -492,9 +479,8 @@ image: "/poi-images/heritage-nature-reserve-life-v2.webp"
       de: "Splash N Fun Freizeitpark",
       hu: "Splash N Fun Szabadidőpark",
       ro: "Parcul de Agrement Splash N Fun",
-      en: "Splash N Fun Leisure Park",
-image: "/poi-images/splash-n-fun-life-v2.webp"
-},
+      en: "Splash N Fun Leisure Park"},
+    image: "/poi-images/splash-n-fun-life-v2.webp",
     description: {
       de: "Der größte Wasserpark auf Mauritius mit zahlreichen Rutschen und Pools, ideal für einen Familienausflug.",
       hu: "Mauritius legnagyobb víziparkja számos csúszdával és medencével, ideális családi kirándulásokhoz.",
@@ -529,9 +515,8 @@ image: "/poi-images/splash-n-fun-life-v2.webp"
       de: "Mauritius Pferdepfade",
       hu: "Mauritius Lovasutak",
       ro: "Trasee Ecvestre Mauritius",
-      en: "Mauritius Horse Trails",
-image: "/poi-images/mauritius-horse-trails-life-v2.webp"
-},
+      en: "Mauritius Horse Trails"},
+    image: "/poi-images/mauritius-horse-trails-life-v2.webp",
     description: {
       de: "Ein Reitzentrum im Norden, das Ausritte entlang der Strände und durch wunderschöne Landschaften anbietet.",
       hu: "Északi lovasközpont, amely lovaglást kínál a strandok mentén és gyönyörű tájakon keresztül.",
@@ -566,9 +551,8 @@ image: "/poi-images/mauritius-horse-trails-life-v2.webp"
       de: "Belle Mare Obstgärten",
       hu: "Belle Mare Gyümölcsöskertek",
       ro: "Livezile din Belle Mare",
-      en: "Belle Mare Fruit Orchards",
-image: "/poi-images/belle-mare-fruit-orchards-life-v2.webp"
-},
+      en: "Belle Mare Fruit Orchards"},
+    image: "/poi-images/belle-mare-fruit-orchards-life-v2.webp",
     description: {
       de: "Weite Obstgärten im Osten der Insel, in denen eine Vielzahl von tropischen Früchten wie Mangos und Papayas angebaut werden.",
       hu: "Hatalmas gyümölcsöskertek a sziget keleti részén, ahol számos trópusi gyümölcsöt, például mangót és papaját termesztenek.",
@@ -603,9 +587,8 @@ image: "/poi-images/belle-mare-fruit-orchards-life-v2.webp"
       de: "Flacq Zuckerrohrfelder",
       hu: "Flacq Cukornádültetvények",
       ro: "Câmpurile de Trestie de Zahăr din Flacq",
-      en: "Flacq Sugar Cane Fields",
-image: "/poi-images/flacq-sugar-cane-life-v2.webp"
-},
+      en: "Flacq Sugar Cane Fields"},
+    image: "/poi-images/flacq-sugar-cane-life-v2.webp",
     description: {
       de: "Das Herzland der Zuckerindustrie auf Mauritius mit endlosen Feldern aus grünem Zuckerrohr, die die Landschaft prägen.",
       hu: "Mauritius cukoriparának központja, ahol a végtelen zöld cukornádültetvények meghatározzák a tájat.",
@@ -640,9 +623,8 @@ image: "/poi-images/flacq-sugar-cane-life-v2.webp"
       de: "Pamplemousses Hirschpark",
       hu: "Pamplemousses Szarvaspark",
       ro: "Parcul de Căprioare Pamplemousses",
-      en: "Pamplemousses Deer Park",
-image: "/poi-images/pamplemousses-deer-park-life-v2.webp"
-},
+      en: "Pamplemousses Deer Park"},
+    image: "/poi-images/pamplemousses-deer-park-life-v2.webp",
     description: {
       de: "Ein kleiner Park innerhalb des Botanischen Gartens, in dem Javanerhirsche in einer geschützten Umgebung leben.",
       hu: "A botanikus kertben található kis park, ahol jávai szarvasok élnek védett környezetben.",
@@ -677,9 +659,8 @@ image: "/poi-images/pamplemousses-deer-park-life-v2.webp"
       de: "Vallee des Couleurs Naturpark",
       hu: "Vallee des Couleurs Natúrpark",
       ro: "Parcul Natural Vallee des Couleurs",
-      en: "Vallee des Couleurs Nature Park",
-image: "/poi-images/vallee-des-couleurs-life-v2.webp"
-},
+      en: "Vallee des Couleurs Nature Park"},
+    image: "/poi-images/vallee-des-couleurs-life-v2.webp",
     description: {
       de: "Ein Abenteuerpark, der für seine 23-farbige Erde bekannt ist und zahlreiche Aktivitäten wie Ziplining und Quadfahren bietet.",
       hu: "Kalandpark, amely a 23 színű földjéről ismert, és számos tevékenységet kínál, például drótkötélpályát és quadozást.",
@@ -714,9 +695,8 @@ image: "/poi-images/vallee-des-couleurs-life-v2.webp"
       de: "Pangia Kinderpark",
       hu: "Pangia Gyerekpark",
       ro: "Parcul pentru Copii Pangia",
-      en: "Pangia Kids Park",
-image: "/poi-images/pangia-kids-park-life-v2.webp"
-},
+      en: "Pangia Kids Park"},
+    image: "/poi-images/pangia-kids-park-life-v2.webp",
     description: {
       de: "Ein spezialisierter Vergnügungspark für Kinder innerhalb von Casela, mit sicheren Fahrgeschäften und Spielbereichen.",
       hu: "Speciális vidámpark gyerekeknek a Casela területén belül, biztonságos játékokkal és játszóterekkel.",

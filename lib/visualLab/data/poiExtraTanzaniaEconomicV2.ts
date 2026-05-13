@@ -11,9 +11,8 @@ export const poiExtraTanzaniaEconomicV2: POI[] = [
       de: "Hafen von Daressalam",
       hu: "Dar es-Salaam kikötője",
       ro: "Portul Dar es Salaam",
-      en: "Dar es Salaam Port",
-image: "/poi-images/tz-port-dar-es-salaam-economic-v2.webp"
-},
+      en: "Dar es Salaam Port"},
+    image: "/poi-images/tz-port-dar-es-salaam-economic-v2.webp",
     description: {
       de: "Der größte und wichtigste Hafen Tansanias, der einen Großteil des internationalen Handels abwickelt.",
       hu: "Tanzánia legnagyobb és legfontosabb kikötője, amely a nemzetközi kereskedelem nagy részét bonyolítja.",
@@ -48,9 +47,8 @@ image: "/poi-images/tz-port-dar-es-salaam-economic-v2.webp"
       de: "Hafen von Tanga",
       hu: "Tanga kikötője",
       ro: "Portul Tanga",
-      en: "Tanga Port",
-image: "/poi-images/tz-port-tanga-economic-v2.webp"
-},
+      en: "Tanga Port"},
+    image: "/poi-images/tz-port-tanga-economic-v2.webp",
     description: {
       de: "Ein bedeutender Hafen im Norden Tansanias, der historisch für den Export von Sisal und Kaffee wichtig war.",
       hu: "Jelentős kikötő Észak-Tanzániában, amely történelmileg a szizál és a kávé exportjáról volt ismert.",
@@ -85,9 +83,8 @@ image: "/poi-images/tz-port-tanga-economic-v2.webp"
       de: "Hafen von Mtwara",
       hu: "Mtwara kikötője",
       ro: "Portul Mtwara",
-      en: "Mtwara Port",
-image: "/poi-images/tz-port-mtwara-economic-v2.webp"
-},
+      en: "Mtwara Port"},
+    image: "/poi-images/tz-port-mtwara-economic-v2.webp",
     description: {
       de: "Ein tiefer Seehafen im Süden Tansanias, der zunehmend für den Export von Cashewnüssen und Gas genutzt wird.",
       hu: "Mélyvízi kikötő Dél-Tanzániában, amelyet egyre inkább kesudió- és gázexportra használnak.",
@@ -122,9 +119,8 @@ image: "/poi-images/tz-port-mtwara-economic-v2.webp"
       de: "Hafen von Kigoma",
       hu: "Kigoma kikötője",
       ro: "Portul Kigoma",
-      en: "Kigoma Port",
-image: "/poi-images/tz-port-kigoma-economic-v2.webp"
-},
+      en: "Kigoma Port"},
+    image: "/poi-images/tz-port-kigoma-economic-v2.webp",
     description: {
       de: "Der wichtigste Hafen am Tanganjikasee, der den Handel mit den Nachbarländern Burundi, Ruanda und der DR Kongo erleichtert.",
       hu: "A Tanganyika-tó legfontosabb kikötője, amely megkönnyíti a kereskedelmet Burundival, Ruandával és a Kongói DK-val.",
@@ -159,9 +155,8 @@ image: "/poi-images/tz-port-kigoma-economic-v2.webp"
       de: "Hafen von Mwanza South",
       hu: "Mwanza South kikötője",
       ro: "Portul Mwanza South",
-      en: "Mwanza South Port",
-image: "/poi-images/tz-port-mwanza-south-economic-v2.webp"
-},
+      en: "Mwanza South Port"},
+    image: "/poi-images/tz-port-mwanza-south-economic-v2.webp",
     description: {
       de: "Ein wichtiger Binnenhafen am Viktoriasee, der den Güterverkehr zwischen Tansania, Uganda und Kenia abwickelt.",
       hu: "Fontos belföldi kikötő a Viktória-tavon, amely Tanzánia, Uganda és Kenya között bonyolít áruforgalmat.",
@@ -196,9 +191,8 @@ image: "/poi-images/tz-port-mwanza-south-economic-v2.webp"
       de: "Malindi Hafen (Sansibar)",
       hu: "Malindi kikötő (Zanzibár)",
       ro: "Portul Malindi (Zanzibar)",
-      en: "Malindi Port (Zanzibar)",
-image: "/poi-images/tz-port-malindi-economic-v2.webp"
-},
+      en: "Malindi Port (Zanzibar)"},
+    image: "/poi-images/tz-port-malindi-economic-v2.webp",
     description: {
       de: "Der Haupthafen von Stone Town, der den Personen- und Güterverkehr zur Insel Sansibar (Unguja) steuert.",
       hu: "Stone Town fő kikötője, amely a Zanzibár (Unguja) szigetére irányuló személy- és áruforgalmat irányítja.",
@@ -233,9 +227,8 @@ image: "/poi-images/tz-port-malindi-economic-v2.webp"
       de: "Hafen Kemondo Bay",
       hu: "Kemondo Bay kikötő",
       ro: "Portul Kemondo Bay",
-      en: "Kemondo Bay Port",
-image: "/poi-images/tz-port-kemondo-bay-economic-v2.webp"
-},
+      en: "Kemondo Bay Port"},
+    image: "/poi-images/tz-port-kemondo-bay-economic-v2.webp",
     description: {
       de: "Ein bedeutender Hafen am Viktoriasee, der speziell für den Transport von RoRo-Fähren und Eisenbahnwaggons gebaut wurde.",
       hu: "Jelentős kikötő a Viktória-tavon, amelyet kifejezetten RoRo kompok és vasúti kocsik szállítására építettek.",
@@ -270,9 +263,8 @@ image: "/poi-images/tz-port-kemondo-bay-economic-v2.webp"
       de: "Trockenhafen Isaka",
       hu: "Isaka szárazföldi kikötő",
       ro: "Portul uscat Isaka",
-      en: "Isaka Dry Port",
-image: "/poi-images/tz-port-isaka-dry-economic-v2.webp"
-},
+      en: "Isaka Dry Port"},
+    image: "/poi-images/tz-port-isaka-dry-economic-v2.webp",
     description: {
       de: "Ein strategisches Frachtzentrum im Landesinneren, das als Umschlagplatz für Waren auf dem Weg nach Binnenländern dient.",
       hu: "Stratégiai fontosságú belföldi teherközpont, amely átrakodóhelyként szolgál a tengerparttal nem rendelkező országok felé tartó áruk számára.",
@@ -307,9 +299,8 @@ image: "/poi-images/tz-port-isaka-dry-economic-v2.webp"
       de: "Hafen von Lindi",
       hu: "Lindi kikötője",
       ro: "Portul Lindi",
-      en: "Lindi Port",
-image: "/poi-images/tz-port-lindi-economic-v2.webp"
-},
+      en: "Lindi Port"},
+    image: "/poi-images/tz-port-lindi-economic-v2.webp",
     description: {
       de: "Ein historischer Küstenhafen im Südosten Tansanias, der lokale Handelsrouten und den Fischfang unterstützt.",
       hu: "Történelmi parti kikötő Délkelet-Tanzániában, amely támogatja a helyi kereskedelmi útvonalakat és a halászatot.",
@@ -344,9 +335,8 @@ image: "/poi-images/tz-port-lindi-economic-v2.webp"
       de: "Hafen von Bukoba",
       hu: "Bukoba kikötője",
       ro: "Portul Bukoba",
-      en: "Bukoba Port",
-image: "/poi-images/tz-port-bukoba-economic-v2.webp"
-},
+      en: "Bukoba Port"},
+    image: "/poi-images/tz-port-bukoba-economic-v2.webp",
     description: {
       de: "Der primäre Seehafen der Kagera-Region am Viktoriasee, der den regionalen Handel mit Bananen und Kaffee erleichtert.",
       hu: "A Kagera régió elsődleges tavi kikötője a Viktória-tavon, amely megkönnyíti a banán és a kávé regionális kereskedelmét.",
@@ -381,9 +371,8 @@ image: "/poi-images/tz-port-bukoba-economic-v2.webp"
       de: "Geita Goldmine",
       hu: "Geita aranybánya",
       ro: "Mina de aur Geita",
-      en: "Geita Gold Mine",
-image: "/poi-images/tz-industry-geita-gold-economic-v2.webp"
-},
+      en: "Geita Gold Mine"},
+    image: "/poi-images/tz-industry-geita-gold-economic-v2.webp",
     description: {
       de: "Eine der größten Goldminen Afrikas im Tagebau, die einen erheblichen Teil der Exporteinnahmen Tansanias erwirtschaftet.",
       hu: "Afrika egyik legnagyobb nyíltvízi aranybányája, amely Tanzánia exportbevételeinek jelentős részét termeli.",
@@ -418,9 +407,8 @@ image: "/poi-images/tz-industry-geita-gold-economic-v2.webp"
       de: "Bulyanhulu Goldmine",
       hu: "Bulyanhulu aranybánya",
       ro: "Mina de aur Bulyanhulu",
-      en: "Bulyanhulu Gold Mine",
-image: "/poi-images/tz-industry-bulyanhulu-gold-economic-v2.webp"
-},
+      en: "Bulyanhulu Gold Mine"},
+    image: "/poi-images/tz-industry-bulyanhulu-gold-economic-v2.webp",
     description: {
       de: "Eine tiefe Untertage-Goldmine im Shinyanga-Gebiet, bekannt für ihre enormen Goldreserven und moderne Abbautechniken.",
       hu: "Mély földalatti aranybánya a Shinyanga régióban, amely hatalmas aranytartalékairól és modern bányászati technikáiról ismert.",
@@ -455,9 +443,8 @@ image: "/poi-images/tz-industry-bulyanhulu-gold-economic-v2.webp"
       de: "North Mara Goldmine",
       hu: "North Mara aranybánya",
       ro: "Mina de aur North Mara",
-      en: "North Mara Gold Mine",
-image: "/poi-images/tz-industry-north-mara-gold-economic-v2.webp"
-},
+      en: "North Mara Gold Mine"},
+    image: "/poi-images/tz-industry-north-mara-gold-economic-v2.webp",
     description: {
       de: "Eine große Goldmine im Tarime-Distrikt, die sowohl Tagebau als auch Untertagebau für die Goldgewinnung nutzt.",
       hu: "Nagy aranybánya a Tarime körzetben, amely mind külszíni, mind földalatti művelést alkalmaz arany kinyerésére.",
@@ -492,9 +479,8 @@ image: "/poi-images/tz-industry-north-mara-gold-economic-v2.webp"
       de: "Buzwagi Goldmine",
       hu: "Buzwagi aranybánya",
       ro: "Mina de aur Buzwagi",
-      en: "Buzwagi Gold Mine",
-image: "/poi-images/tz-industry-buzwagi-gold-economic-v2.webp"
-},
+      en: "Buzwagi Gold Mine"},
+    image: "/poi-images/tz-industry-buzwagi-gold-economic-v2.webp",
     description: {
       de: "Eine ehemalige Tagebau-Goldmine, die sich nun in der Schließungsphase befindet und eine Vorreiterrolle bei der Minenrekultivierung einnimmt.",
       hu: "Egykori nyíltvízi aranybánya, amely jelenleg a bezárási szakaszban van, és úttörő szerepet játszik a bányarekultivációban.",
@@ -529,9 +515,8 @@ image: "/poi-images/tz-industry-buzwagi-gold-economic-v2.webp"
       de: "New Luika Goldmine",
       hu: "New Luika aranybánya",
       ro: "Mina de aur New Luika",
-      en: "New Luika Gold Mine",
-image: "/poi-images/tz-industry-new-luika-gold-economic-v2.webp"
-},
+      en: "New Luika Gold Mine"},
+    image: "/poi-images/tz-industry-new-luika-gold-economic-v2.webp",
     description: {
       de: "Eine erfolgreiche Goldmine im Chunya-Distrikt im Südwesten Tansanias, die maßgeblich zur regionalen Wirtschaft beiträgt.",
       hu: "Sikeres aranybánya Délnyugat-Tanzánia Chunya körzetében, amely jelentősen hozzájárul a regionális gazdasághoz.",
@@ -566,9 +551,8 @@ image: "/poi-images/tz-industry-new-luika-gold-economic-v2.webp"
       de: "Williamson Diamantenmine",
       hu: "Williamson gyémántbánya",
       ro: "Mina de diamante Williamson",
-      en: "Williamson Diamond Mine",
-image: "/poi-images/tz-industry-williamson-diamonds-economic-v2.webp"
-},
+      en: "Williamson Diamond Mine"},
+    image: "/poi-images/tz-industry-williamson-diamonds-economic-v2.webp",
     description: {
       de: "Eine historische Diamantenmine in Mwadui, die als eine der ältesten kontinuierlich betriebenen Diamantenminen der Welt gilt.",
       hu: "Történelmi gyémántbánya Mwadui-ban, amelyet a világ egyik legrégebbi, folyamatosan működő gyémántbányájának tartanak.",
@@ -603,9 +587,8 @@ image: "/poi-images/tz-industry-williamson-diamonds-economic-v2.webp"
       de: "Merelani Tanzanit-Mine",
       hu: "Merelani tanzanit bánya",
       ro: "Mina de tanzanit Merelani",
-      en: "Merelani Tanzanite Mine",
-image: "/poi-images/tz-industry-merelani-tanzanite-economic-v2.webp"
-},
+      en: "Merelani Tanzanite Mine"},
+    image: "/poi-images/tz-industry-merelani-tanzanite-economic-v2.webp",
     description: {
       de: "Der weltweit einzige Ort für den Abbau von Tanzanit, einem seltenen blauen Edelstein, der am Fuße des Kilimandscharo abgebaut wird.",
       hu: "A tanzanit, a Kilimandzsáró lábánál bányászott ritka kék drágakő bányászatának egyetlen helyszíne a világon.",
@@ -640,9 +623,8 @@ image: "/poi-images/tz-industry-merelani-tanzanite-economic-v2.webp"
       de: "Mchuchuma Kohlemine",
       hu: "Mchuchuma szénbánya",
       ro: "Mina de cărbune Mchuchuma",
-      en: "Mchuchuma Coal Mine",
-image: "/poi-images/tz-industry-mchuchuma-coal-economic-v2.webp"
-},
+      en: "Mchuchuma Coal Mine"},
+    image: "/poi-images/tz-industry-mchuchuma-coal-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Kohlebergbauprojekt in den südlichen Hochländern Tansanias, das zur Stromerzeugung und Industrialisierung beitragen soll.",
       hu: "Jelentős szénbányászati projekt Tanzánia déli hegyvidékén, amelynek célja a villamosenergia-termelés és az iparosítás elősegítése.",
@@ -677,9 +659,8 @@ image: "/poi-images/tz-industry-mchuchuma-coal-economic-v2.webp"
       de: "Liganga Eisenerzmine",
       hu: "Liganga vasércbánya",
       ro: "Mina de minereu de fier Liganga",
-      en: "Liganga Iron Ore Mine",
-image: "/poi-images/tz-industry-liganga-iron-economic-v2.webp"
-},
+      en: "Liganga Iron Ore Mine"},
+    image: "/poi-images/tz-industry-liganga-iron-economic-v2.webp",
     description: {
       de: "Das größte Eisenerzvorkommen Tansanias, das zusammen mit Mchuchuma entwickelt wird, um eine nationale Stahlindustrie aufzubauen.",
       hu: "Tanzánia legnagyobb vasérclelőhelye, amelyet Mchuchumával együtt fejlesztenek egy nemzeti acélipar kiépítése érdekében.",
@@ -714,9 +695,8 @@ image: "/poi-images/tz-industry-liganga-iron-economic-v2.webp"
       de: "Songo Songo Gasfeld",
       hu: "Songo Songo gázmező",
       ro: "Câmpul de gaze Songo Songo",
-      en: "Songo Songo Gas Field",
-image: "/poi-images/tz-industry-songo-songo-gas-economic-v2.webp"
-},
+      en: "Songo Songo Gas Field"},
+    image: "/poi-images/tz-industry-songo-songo-gas-economic-v2.webp",
     description: {
       de: "Ein bedeutendes Offshore-Erdgasfeld nahe der Insel Songo Songo, das Erdgas zur Stromerzeugung nach Daressalam liefert.",
       hu: "Jelentős tengeri földgázmező Songo Songo szigete közelében, amely földgázt szállít Dar es-Salaamba áramtermelés céljából.",
@@ -751,9 +731,8 @@ image: "/poi-images/tz-industry-songo-songo-gas-economic-v2.webp"
       de: "Mnazi Bay Gasfeld",
       hu: "Mnazi Bay gázmező",
       ro: "Câmpul de gaze Mnazi Bay",
-      en: "Mnazi Bay Gas Field",
-image: "/poi-images/tz-industry-mnazi-bay-gas-economic-v2.webp"
-},
+      en: "Mnazi Bay Gas Field"},
+    image: "/poi-images/tz-industry-mnazi-bay-gas-economic-v2.webp",
     description: {
       de: "Ein Onshore- und Offshore-Gasfeld im Süden Tansanias, das entscheidend zur wachsenden Energieunabhängigkeit des Landes beiträgt.",
       hu: "Dél-Tanzániában található szárazföldi és tengeri gázmező, amely döntően hozzájárul az ország növekvő energiafüggetlenségéhez.",
@@ -788,9 +767,8 @@ image: "/poi-images/tz-industry-mnazi-bay-gas-economic-v2.webp"
       de: "Twiga Zementfabrik Daressalam",
       hu: "Twiga cementgyár Dar es-Salaam",
       ro: "Fabrica de ciment Twiga Dar es Salaam",
-      en: "Twiga Cement Factory Dar es Salaam",
-image: "/poi-images/tz-industry-twiga-cement-dar-economic-v2.webp"
-},
+      en: "Twiga Cement Factory Dar es Salaam"},
+    image: "/poi-images/tz-industry-twiga-cement-dar-economic-v2.webp",
     description: {
       de: "Das größte Zementwerk in Tansania, das in Daressalam produziert und maßgeblich den rasanten Bauboom des Landes unterstützt.",
       hu: "Tanzánia legnagyobb cementgyára Dar es-Salaamban, amely jelentősen támogatja az ország gyors építőipari fellendülését.",
@@ -825,9 +803,8 @@ image: "/poi-images/tz-industry-twiga-cement-dar-economic-v2.webp"
       de: "Tanga Zementfabrik",
       hu: "Tanga cementgyár",
       ro: "Fabrica de ciment Tanga",
-      en: "Tanga Cement Factory",
-image: "/poi-images/tz-industry-tanga-cement-economic-v2.webp"
-},
+      en: "Tanga Cement Factory"},
+    image: "/poi-images/tz-industry-tanga-cement-economic-v2.webp",
     description: {
       de: "Ein bedeutender Hersteller von Zement im Norden Tansanias, der Baumaterialien für inländische und ostafrikanische Märkte liefert.",
       hu: "Jelentős cementgyártó Észak-Tanzániában, amely építőanyagokat szállít a hazai és kelet-afrikai piacokra.",
@@ -862,9 +839,8 @@ image: "/poi-images/tz-industry-tanga-cement-economic-v2.webp"
       de: "Mbeya Zementfabrik",
       hu: "Mbeya cementgyár",
       ro: "Fabrica de ciment Mbeya",
-      en: "Mbeya Cement Factory",
-image: "/poi-images/tz-industry-mbeya-cement-economic-v2.webp"
-},
+      en: "Mbeya Cement Factory"},
+    image: "/poi-images/tz-industry-mbeya-cement-economic-v2.webp",
     description: {
       de: "Eine Zementfabrik im Südwesten Tansanias, die die südlichen Regionen und die angrenzenden Länder mit Baustoffen versorgt.",
       hu: "Délnyugat-Tanzániában található cementgyár, amely a déli régiókat és a szomszédos országokat látja el építőanyaggal.",
@@ -899,9 +875,8 @@ image: "/poi-images/tz-industry-mbeya-cement-economic-v2.webp"
       de: "Morogoro Textilfabrik",
       hu: "Morogoro Textilgyár",
       ro: "Fabrica de textile Morogoro",
-      en: "Morogoro Textile Mill",
-image: "/poi-images/tz-industry-morogoro-canvas-mill-economic-v2.webp"
-},
+      en: "Morogoro Textile Mill"},
+    image: "/poi-images/tz-industry-morogoro-canvas-mill-economic-v2.webp",
     description: {
       de: "Ein großes Textil- und Leinwandwerk in Morogoro, das heimische Baumwolle zu Industriestoffen und Textilien verarbeitet.",
       hu: "Nagy textil- és vászongyár Morogoróban, amely hazai pamutot dolgoz fel ipari szövetekké és textíliákká.",
@@ -936,9 +911,8 @@ image: "/poi-images/tz-industry-morogoro-canvas-mill-economic-v2.webp"
       de: "Kagera Zuckerfabrik",
       hu: "Kagera Cukorgyár",
       ro: "Fabrica de zahăr Kagera",
-      en: "Kagera Sugar Factory",
-image: "/poi-images/tz-industry-kagera-sugar-economic-v2.webp"
-},
+      en: "Kagera Sugar Factory"},
+    image: "/poi-images/tz-industry-kagera-sugar-economic-v2.webp",
     description: {
       de: "Eines der größten agro-industriellen Projekte in Tansania, das in der nordwestlichen Region großen Zuckerrohranbau betreibt.",
       hu: "Tanzánia egyik legnagyobb agráripari projektje, amely az északnyugati régióban kiterjedt cukornádtermesztést folytat.",
@@ -973,9 +947,8 @@ image: "/poi-images/tz-industry-kagera-sugar-economic-v2.webp"
       de: "Mtibwa Zuckerfabrik",
       hu: "Mtibwa Cukorgyár",
       ro: "Fabrica de zahăr Mtibwa",
-      en: "Mtibwa Sugar Estates",
-image: "/poi-images/tz-industry-mtibwa-sugar-economic-v2.webp"
-},
+      en: "Mtibwa Sugar Estates"},
+    image: "/poi-images/tz-industry-mtibwa-sugar-economic-v2.webp",
     description: {
       de: "Eine bedeutende Zuckerrohrplantage und Fabrik im Morogoro-Gebiet, die erheblich zur Zuckerversorgung des Landes beiträgt.",
       hu: "Jelentős cukornádültetvény és -gyár a Morogoro régióban, amely jelentősen hozzájárul az ország cukorellátásához.",
@@ -1010,9 +983,8 @@ image: "/poi-images/tz-industry-mtibwa-sugar-economic-v2.webp"
       de: "Kilombero Zuckerfabrik",
       hu: "Kilombero Cukorgyár",
       ro: "Fabrica de zahăr Kilombero",
-      en: "Kilombero Sugar Company",
-image: "/poi-images/tz-industry-kilombero-sugar-economic-v2.webp"
-},
+      en: "Kilombero Sugar Company"},
+    image: "/poi-images/tz-industry-kilombero-sugar-economic-v2.webp",
     description: {
       de: "Der größte Zuckerproduzent Tansanias, eingebettet in das fruchtbare Tal des Rufiji-Flussbeckens mit umfangreichen Plantagen.",
       hu: "Tanzánia legnagyobb cukortermelője, amely a Rufiji folyómedence termékeny völgyében fekszik, kiterjedt ültetvényekkel.",
@@ -1047,9 +1019,8 @@ image: "/poi-images/tz-industry-kilombero-sugar-economic-v2.webp"
       de: "ALAF Stahlfabrik Daressalam",
       hu: "ALAF Acélgyár Dar es-Salaam",
       ro: "Fabrica de oțel ALAF Dar es Salaam",
-      en: "ALAF Steel Factory Dar es Salaam",
-image: "/poi-images/tz-industry-alaf-steel-dar-economic-v2.webp"
-},
+      en: "ALAF Steel Factory Dar es Salaam"},
+    image: "/poi-images/tz-industry-alaf-steel-dar-economic-v2.webp",
     description: {
       de: "Ein führender Hersteller von Stahldächern und Bauprodukten, der eine wichtige Rolle in der Bauindustrie Ostafrikas spielt.",
       hu: "Acéltetők és építőipari termékek vezető gyártója, amely fontos szerepet játszik Kelet-Afrika építőiparában.",
@@ -1084,9 +1055,8 @@ image: "/poi-images/tz-industry-alaf-steel-dar-economic-v2.webp"
       de: "Ubungo Kraftwerk",
       hu: "Ubungo Erőmű",
       ro: "Centrala electrică Ubungo",
-      en: "Ubungo Power Plant",
-image: "/poi-images/tz-industry-ubungo-power-plant-economic-v2.webp"
-},
+      en: "Ubungo Power Plant"},
+    image: "/poi-images/tz-industry-ubungo-power-plant-economic-v2.webp",
     description: {
       de: "Ein wichtiger Energiekomplex in Daressalam, der mit Erdgas aus Songo Songo betrieben wird und die wirtschaftliche Hauptstadt versorgt.",
       hu: "Fontos energiaközpont Dar es-Salaamban, amely a Songo Songo-i földgázzal működik, és a gazdasági fővárost látja el árammal.",

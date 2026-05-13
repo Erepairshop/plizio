@@ -19,9 +19,8 @@ export const poiExtraBeninHistoryV2: POI[] = [
       de: "Königspaläste von Abomey",
       hu: "Abomey királyi palotái",
       ro: "Palatele regale din Abomey",
-      en: "Royal Palaces of Abomey",
-image: "/poi-images/royal-palaces-abomey-history-v2.webp"
-},
+      en: "Royal Palaces of Abomey"},
+    image: "/poi-images/royal-palaces-abomey-history-v2.webp",
     descriptionAdvanced: {
         en: "The Royal Palaces of Abomey are a UNESCO World Heritage site and served as the residence for twelve kings of the Kingdom of Dahomey from 1625 to 1900. Today, the complex houses a significant museum that provides insight into the courtly culture, religious practices, and military history of the state. Architecturally, the complex is characterized by the use of earthen construction and elaborate bas-reliefs depicting historical events. This site is key to understanding the colonial history of West Africa and the local kingdoms.",
         ro: "Palatele Regale din Abomey sunt un sit al Patrimoniului Mondial UNESCO și au servit drept reședință pentru doisprezece regi ai Regatului Dahomey, între 1625 și 1900. Astăzi, complexul găzduiește un muzeu important care oferă o perspectivă asupra culturii curții, practicilor religioase și istoriei militare a statului. Din punct de vedere arhitectural, complexul este caracterizat de utilizarea construcțiilor din lut și a basoreliefurilor elaborate care descriu evenimente istorice. Acest sit este esențial pentru înțelegerea istoriei coloniale a Africii de Vest și a regatelor locale.",
@@ -61,9 +60,8 @@ image: "/poi-images/royal-palaces-abomey-history-v2.webp"
       de: "Pforte ohne Wiederkehr",
       hu: "A visszatérés nélküli kapu",
       ro: "Poarta fără întoarcere",
-      en: "The Door of No Return",
-image: "/poi-images/door-no-return-ouidah-history-v2.webp"
-},
+      en: "The Door of No Return"},
+    image: "/poi-images/door-no-return-ouidah-history-v2.webp",
     descriptionAdvanced: {
         en: "The Door of No Return (Porte du Non-Retour) in Ouidah is a memorial to the transatlantic slave trade. It commemorates the place from which thousands of people were shipped to the Americas. Ouidah was one of the most significant centers for this cruel trade on the Slave Coast. Inaugurated in 1995, the monument now serves as an important place of remembrance and historical processing. The gate symbolizes the final point in Africa before captives were forced onto ships for a journey from which most would never return. It is a powerful symbol of dignity and human suffering.",
         ro: "Poarta fără Întoarcere (Porte du Non-Retour) din Ouidah este un memorial al comerțului transatlantic cu sclavi. Acesta comemorează locul de unde mii de oameni au fost expediați în Americi. Ouidah a fost unul dintre cele mai importante centre pentru acest comerț crud de pe Coasta Sclavilor. Inaugurat în 1995, monumentul servește astăzi ca un important loc de memorie și de confruntare cu istoria. Poarta simbolizează punctul final în Africa înainte ca prizonierii să fie forțați să urce pe nave pentru o călătorie din care majoritatea nu s-au mai întors. Este un simbol puternic al demnității și suferinței umane.",
@@ -103,9 +101,8 @@ image: "/poi-images/door-no-return-ouidah-history-v2.webp"
       de: "Tempel der Pythons",
       hu: "A pitonok temploma",
       ro: "Templul Pitonilor",
-      en: "Temple of Pythons",
-image: "/poi-images/temple-pythons-ouidah-history-v2.webp"
-},
+      en: "Temple of Pythons"},
+    image: "/poi-images/temple-pythons-ouidah-history-v2.webp",
     descriptionAdvanced: {
         en: "The Temple of Pythons in Ouidah is a significant religious center of the Voodoo faith. Dozens of live pythons are kept here, revered as sacred animals and symbols of the god Dan. Priests care for the animals, which move freely within the temple and are seen as a link between humans and the spiritual world. Visitors can witness daily rituals and learn about the deep-rooted traditions of the local form of Voodoo. This site is a central aspect of local culture in Benin, offering insight into the diversity of world religions and belief systems.",
         ro: "Templul Pitonilor din Ouidah este un centru religios important al credinței Voodoo. Aici sunt ținuți zeci de pitoni vii, care sunt considerați animale sacre și simboluri ale zeului Dan. Preoții se ocupă de animale, care se mișcă liber în templu și sunt văzute ca o legătură între oameni și lumea spirituală. Vizitatorii pot asista la ritualurile zilnice și pot învăța despre tradițiile adânc înrădăcinate ale formei locale de Voodoo. Acest sit este un aspect central al culturii locale din Benin, oferind o perspectivă asupra diversității religiilor și sistemelor de credință din lume.",
@@ -145,9 +142,8 @@ image: "/poi-images/temple-pythons-ouidah-history-v2.webp"
       de: "Portugiesisches Fort",
       hu: "Portugál erőd",
       ro: "Fortul Portughez",
-      en: "Portuguese Fort",
-image: "/poi-images/portuguese-fort-ouidah-history-v2.webp"
-},
+      en: "Portuguese Fort"},
+    image: "/poi-images/portuguese-fort-ouidah-history-v2.webp",
     descriptionAdvanced: {
         en: "The Portuguese Fort of São João Baptista d'Ajuda in Ouidah is a historical symbol of the European presence in West Africa. Built in the 18th century, it served as a trading post and later as a base for the slave trade. Today, it houses the Museum of Ouidah, which explores the colonial period and the local population's resistance to the slave trade. It is a place of great historical significance for processing the past. The fort's architecture testifies to the military and commercial needs of the time, while also serving as a reminder of the region's complex and often painful history.",
         ro: "Fortul portughez São João Baptista d'Ajuda din Ouidah este un simbol istoric al prezenței europene în Africa de Vest. Construit în secolul al XVIII-lea, a servit drept post comercial și mai târziu ca bază pentru comerțul cu sclavi. Astăzi, găzduiește Muzeul din Ouidah, care explorează perioada colonială și rezistența populației locale împotriva comerțului cu sclavi. Este un loc de mare importanță istorică pentru procesarea trecutului. Arhitectura fortului este o mărturie a nevoilor militare și comerciale ale vremii, fiind în același timp un memento al istoriei complexe și adesea dureroase a regiunii.",
@@ -187,9 +183,8 @@ image: "/poi-images/portuguese-fort-ouidah-history-v2.webp"
       de: "Musée Honmè",
       hu: "Honmè Múzeum",
       ro: "Muzeul Honmè",
-      en: "Musée Honmè",
-image: "/poi-images/musee-honme-porto-novo-history-v2.webp"
-},
+      en: "Musée Honmè"},
+    image: "/poi-images/musee-honme-porto-novo-history-v2.webp",
     descriptionAdvanced: {
         en: "The Musée Honmè in Porto-Novo is the former palace of King Toffa I and an outstanding example of the traditional architecture of the Gungbe culture. As a museum, it preserves the royal history of the Kingdom of Hogbonou. Visitors can see the king's personal belongings, historical weapons, and sacred artifacts that provide deep insight into 19th-century court life. The palace's structure and its exhibits reveal the political and social organization of the kingdom, as well as the importance of traditional ruling structures in the region.",
         ro: "Muzeul Honmè din Porto-Novo este fostul palat al regelui Toffa I și un exemplu remarcabil al arhitecturii tradiționale a culturii Gungbe. Ca muzeu, acesta păstrează istoria regală a Regatului Hogbonou. Vizitatorii pot vedea obiectele personale ale regelui, arme istorice și artefacte sacre care oferă o perspectivă profundă asupra vieții de la curte în secolul al XIX-lea. Structura palatului și exponatele sale dezvăluie organizarea politică și socială a regatului, precum și importanța structurilor tradiționale de guvernare în regiune.",
@@ -229,9 +224,8 @@ image: "/poi-images/musee-honme-porto-novo-history-v2.webp"
       de: "Große Moschee von Porto-Novo",
       hu: "Porto-Novo-i nagy mecset",
       ro: "Marea Moschee din Porto-Novo",
-      en: "Great Mosque of Porto-Novo",
-image: "/poi-images/great-mosque-porto-novo-history-v2.webp"
-},
+      en: "Great Mosque of Porto-Novo"},
+    image: "/poi-images/great-mosque-porto-novo-history-v2.webp",
     descriptionAdvanced: {
         en: "The Great Mosque of Porto-Novo is a fascinating structure that highlights the Afro-Brazilian influence in local architecture. It was built in the late 19th century by descendants of freed slaves who had returned from Brazil. The style combines elements of classical Muslim architecture with baroque details and vibrant colors. This demonstrates the cultural diversity and syncretic character of Porto-Novo. The building was originally a church before being converted into a mosque, adding layers to its history and culture and symbolizing the religious transformations in the region.",
         ro: "Marea Moschee din Porto-Novo este o structură fascinantă care reflectă influența afro-braziliană în arhitectura locală. A fost construită la sfârșitul secolului al XIX-lea de către descendenții sclavilor eliberați care s-au întors din Brazilia. Stilul combină elemente de arhitectură musulmană clasică cu detalii baroce și culori vibrante. Aceasta demonstrează diversitatea culturală și caracterul sincretic al orașului Porto-Novo. Clădirea a fost inițial o biserică înainte de a fi transformată în moschee, adăugând straturi la istoria și cultura sa și simbolizând transformările religioase din regiune.",
@@ -271,9 +265,8 @@ image: "/poi-images/great-mosque-porto-novo-history-v2.webp"
       de: "Untergrundstadt von Agongointo",
       hu: "Agongointo föld alatti város",
       ro: "Orașul subteran Agongointo",
-      en: "Agongointo Underground Town",
-image: "/poi-images/agongointo-underground-history-v2.webp"
-},
+      en: "Agongointo Underground Town"},
+    image: "/poi-images/agongointo-underground-history-v2.webp",
     descriptionAdvanced: {
         en: "The underground villages of Agongointo are an archaeological discovery of great importance in Benin. These structures, estimated to date from the 16th or 17th century, consist of a network of underground chambers and tunnels. It is believed that they served as shelters for the local population during armed conflicts in the Kingdom of Dahomey. Located about 10 meters underground and comprising 52 houses, the complex was discovered by accident in 1998 during road construction. These mysterious structures continue to puzzle scientists and provide a unique insight into the military and social history of the region.",
         ro: "Satele subterane din Agongointo reprezintă o descoperire arheologică de mare importanță în Benin. Aceste structuri, care se estimează că datează din secolul al XVI-lea sau al XVII-lea, constau dintr-o rețea de camere și tuneluri subterane. Se crede că au servit drept adăposturi pentru populația locală în timpul conflictelor armate din Regatul Dahomey. Situate la aproximativ 10 metri sub pământ și formate din 52 de case, complexul a fost descoperit accidental în 1998, în timpul construcției unui drum. Aceste structuri misterioase continuă să îi intrige pe oamenii de știință și oferă o perspectivă unică asupra istoriei militare și sociale a regiunii.",
@@ -313,9 +306,8 @@ image: "/poi-images/agongointo-underground-history-v2.webp"
       de: "Palast des Königs von Nikki",
       hu: "Nikki királyának palotája",
       ro: "Palatul Regelui din Nikki",
-      en: "Palace of the King of Nikki",
-image: "/poi-images/palace-king-nikki-history-v2.webp"
-},
+      en: "Palace of the King of Nikki"},
+    image: "/poi-images/palace-king-nikki-history-v2.webp",
     descriptionAdvanced: {
         en: "The Palace of the King of Nikki is the center of political and spiritual power for the Bariba people in northern Benin. Nikki is the historical capital of this empire and is known for its vibrant traditions. The palace is where the royal rites and the Bariba cultural heritage are maintained, including the famous Gani festival. This equestrian festival attracts visitors annually and showcases the rich history and horse-riding culture of the Bariba people. The palace is not just a building but a living institution that ensures the continuity of the kingdom's traditions and social structure in the modern era.",
         ro: "Palatul Regelui din Nikki este centrul puterii politice și spirituale a poporului Bariba din nordul Beninului. Nikki este capitala istorică a acestui imperiu și este cunoscut pentru tradițiile sale vibrante. Palatul este locul unde se mențin riturile regale și moștenirea culturală Bariba, inclusiv celebrul festival Gani. Acest festival ecvestru atrage vizitatori anual și prezintă istoria bogată și cultura ecvestră a poporului Bariba. Palatul nu este doar o clădire, ci o instituție vie care asigură continuitatea tradițiilor și structurii sociale a regatului în epoca modernă.",
@@ -355,9 +347,8 @@ image: "/poi-images/palace-king-nikki-history-v2.webp"
       de: "Akaba Idenan (Magische Pforte)",
       hu: "Akaba Idenan (Mágikus kapu)",
       ro: "Akaba Idenan (Poarta Magică)",
-      en: "Akaba Idenan (Magic Gate)",
-image: "/poi-images/akaba-idenan-ketou-history-v2.webp"
-},
+      en: "Akaba Idenan (Magic Gate)"},
+    image: "/poi-images/akaba-idenan-ketou-history-v2.webp",
     descriptionAdvanced: {
         en: "The Akaba Idenan in Kétou is a historic gate that once formed the entrance to the ancient city wall. Kétou was an important center of Yoruba culture in Benin and is famous for its well-preserved history. The gate itself, whose name translates to 'magic gate,' is a symbol of the city's strength and independence, as well as an important cultural heritage for the Yoruba people in the region. The gate is shrouded in legend and was believed to offer magical protection to the city. Although the walls have long since disappeared, the gate still stands today, a reminder of the city's glorious past and the rich heritage of the Yoruba civilization.",
         ro: "Akaba Idenan din Kétou este o poartă istorică ce forma odată intrarea în vechiul zid al orașului. Kétou a fost un centru important al culturii Yoruba în Benin și este renumit pentru istoria sa bine conservată. Poarta însăși, al cărei nume se traduce prin 'poarta magică', este un simbol al puterii și independenței orașului, precum și o moștenire culturală importantă pentru poporul Yoruba din regiune. Poarta este învăluită în legende și se credea că oferea protecție magică orașului. Deși zidurile au dispărut de mult, poarta stă încă în picioare, amintind de trecutul glorios al orașului și de moștenirea bogată a civilizației Yoruba.",
@@ -397,9 +388,8 @@ image: "/poi-images/akaba-idenan-ketou-history-v2.webp"
       de: "Tata-Somba-Häuser",
       hu: "Tata Somba házak",
       ro: "Casele Tata Somba",
-      en: "Tata Somba Houses",
-image: "/poi-images/tata-somba-houses-history-v2.webp"
-},
+      en: "Tata Somba Houses"},
+    image: "/poi-images/tata-somba-houses-history-v2.webp",
     descriptionAdvanced: {
         en: "The Tata Somba houses are traditional residential towers built by the Somba and Betamaribé peoples in northwestern Benin and neighboring Togo. These architectural masterpieces are made of clay and look like small fortresses. Each house is divided into two levels: the ground floor houses the animals and the kitchen, while the upper floor contains the sleeping areas. The houses are closely linked to the community's spiritual beliefs and social organization. The region, known as Koutammakou, the Land of the Batammariba, is a UNESCO World Heritage site, recognizing the unique cultural value of this architectural style and its associated way of life.",
         ro: "Casele Tata Somba sunt turnuri de locuit tradiționale construite de popoarele Somba și Betamaribé în nord-vestul Beninului și în Togo învecinat. Aceste capodopere arhitecturale sunt făcute din lut și arată ca niște mici fortărețe. Fiecare casă este împărțită pe două niveluri: la parter se află animalele și bucătăria, în timp ce la etaj sunt dormitoarele. Casele sunt strâns legate de credințele spirituale și de organizarea socială a comunității. Regiunea, cunoscută sub numele de Koutammakou, Țara Batammariba, este un sit al Patrimoniului Mondial UNESCO, recunoscând valoarea culturală unică a acestui stil arhitectural și a modului de viață asociat.",
@@ -431,9 +421,8 @@ image: "/poi-images/tata-somba-houses-history-v2.webp"
       de: "Zomachi-Denkmal",
       hu: "Zomachi emlékmű",
       ro: "Monumentul Zomachi",
-      en: "Zomachi Monument",
-image: "/poi-images/zomachi-monument-ouidah-history-v2.webp"
-},
+      en: "Zomachi Monument"},
+    image: "/poi-images/zomachi-monument-ouidah-history-v2.webp",
     description: {
       de: "Ein Denkmal in Ouidah, das Versöhnung und die ewige Flamme der Erinnerung an den Sklavenhandel symbolisiert.",
       hu: "Ouidah-ban található emlékmű, amely a megbékélést és a rabszolga-kereskedelemre való emlékezés örök lángját jelképezi.",
@@ -463,9 +452,8 @@ image: "/poi-images/zomachi-monument-ouidah-history-v2.webp"
       de: "Sklavenroute",
       hu: "Rabszolgák útja",
       ro: "Ruta Sclavilor",
-      en: "Slave Route",
-image: "/poi-images/slave-route-ouidah-history-v2.webp"
-},
+      en: "Slave Route"},
+    image: "/poi-images/slave-route-ouidah-history-v2.webp",
     description: {
       de: "Ein 4 km langer historischer Pfad in Ouidah, den Gefangene zurücklegen mussten, bevor sie nach Amerika verschifft wurden.",
       hu: "Ouidah-ban található 4 km hosszú történelmi útvonal, amelyet a foglyoknak meg kellett tenniük, mielőtt Amerikába hajózták őket.",
@@ -495,9 +483,8 @@ image: "/poi-images/slave-route-ouidah-history-v2.webp"
       de: "Toussaint-Louverture-Denkmal",
       hu: "Toussaint Louverture emlékmű",
       ro: "Monumentul Toussaint Louverture",
-      en: "Toussaint Louverture Monument",
-image: "/poi-images/toussaint-louverture-allada-history-v2.webp"
-},
+      en: "Toussaint Louverture Monument"},
+    image: "/poi-images/toussaint-louverture-allada-history-v2.webp",
     description: {
       de: "Ein Denkmal zu Ehren des haitianischen Revolutionsführers Toussaint Louverture, dessen Wurzeln in der Region Allada liegen.",
       hu: "Emlékmű a haiti forradalmi vezető, Toussaint Louverture tiszteletére, akinek gyökerei Allada régiójába nyúlnak vissza.",
@@ -527,9 +514,8 @@ image: "/poi-images/toussaint-louverture-allada-history-v2.webp"
       de: "Denkmal der Dahomey-Amazonen",
       hu: "Dahomey amazonok emlékműve",
       ro: "Monumentul Amazonelor din Dahomey",
-      en: "Dahomey Amazon Monument",
-image: "/poi-images/dahomey-amazon-monument-history-v2.webp"
-},
+      en: "Dahomey Amazon Monument"},
+    image: "/poi-images/dahomey-amazon-monument-history-v2.webp",
     description: {
       de: "Dieses Denkmal in Cotonou ehrt die tapferen Kriegerinnen des Königreichs Dahomey, bekannt als die Mino oder Dahomey-Amazonen.",
       hu: "Hatalmas szobor Cotonouban, amely a Dahomey Királyság legendás női harcosai előtt tiszteleg.",
@@ -559,9 +545,8 @@ image: "/poi-images/dahomey-amazon-monument-history-v2.webp"
       de: "Basilika der Unbefleckten Empfängnis",
       hu: "Szeplőtelen Fogantatás bazilika",
       ro: "Bazilica Neprihănitei Zămisliri",
-      en: "Basilica of the Immaculate Conception",
-image: "/poi-images/basilica-immaculate-ouidah-history-v2.webp"
-},
+      en: "Basilica of the Immaculate Conception"},
+    image: "/poi-images/basilica-immaculate-ouidah-history-v2.webp",
     description: {
       de: "Die erste katholische Basilika Westafrikas, ein bedeutendes religiöses und historisches Bauwerk in Ouidah.",
       hu: "Nyugat-Afrika első katolikus bazilikája, jelentős vallási és történelmi épület Ouidah-ban.",
@@ -591,9 +576,8 @@ image: "/poi-images/basilica-immaculate-ouidah-history-v2.webp"
       de: "Ethnographisches Museum Porto-Novo",
       hu: "Porto-Novo-i Néprajzi Múzeum",
       ro: "Muzeul de Etnografie din Porto-Novo",
-      en: "Ethnographic Museum of Porto-Novo",
-image: "/poi-images/ethnographic-museum-porto-novo-history-v2.webp"
-},
+      en: "Ethnographic Museum of Porto-Novo"},
+    image: "/poi-images/ethnographic-museum-porto-novo-history-v2.webp",
     description: {
       de: "Ein Museum, das eine reiche Sammlung an Masken, Waffen und Alltagsgegenständen der verschiedenen ethnischen Gruppen Benins zeigt.",
       hu: "Múzeum, amely Benin különböző etnikai csoportjainak maszkjait, fegyvereit és mindennapi tárgyait mutatja be gazdag gyűjteményében.",
@@ -623,9 +607,8 @@ image: "/poi-images/ethnographic-museum-porto-novo-history-v2.webp"
       de: "Da-Silva-Museum",
       hu: "Da Silva Múzeum",
       ro: "Muzeul Da Silva",
-      en: "Da Silva Museum",
-image: "/poi-images/da-silva-museum-porto-novo-history-v2.webp"
-},
+      en: "Da Silva Museum"},
+    image: "/poi-images/da-silva-museum-porto-novo-history-v2.webp",
     description: {
       de: "Ein privates Museum in einem historischen brasilianischen Herrenhaus, das die Geschichte der afro-brasilianischen Gemeinschaft in Benin dokumentiert.",
       hu: "Egy történelmi brazil kúriában található magánmúzeum, amely a benini afro-brazil közösség történetét dokumentálja.",
@@ -655,9 +638,8 @@ image: "/poi-images/da-silva-museum-porto-novo-history-v2.webp"
       de: "Königspalast von Kouandé",
       hu: "Kouandé királyi palotája",
       ro: "Palatul Regal din Kouandé",
-      en: "Royal Palace of Kouandé",
-image: "/poi-images/royal-palace-kouande-history-v2.webp"
-},
+      en: "Royal Palace of Kouandé"},
+    image: "/poi-images/royal-palace-kouande-history-v2.webp",
     description: {
       de: "Der historische Palast des Königreichs Kouandé, ein wichtiges Zeugnis der traditionellen Machtstrukturen im Norden Benins.",
       hu: "A Kouandé Királyság történelmi palotája, Észak-Benin hagyományos hatalmi struktúráinak fontos tanúja.",
@@ -688,9 +670,8 @@ image: "/poi-images/royal-palace-kouande-history-v2.webp"
       de: "Tanéka-Dörfer",
       hu: "Tanéka falvak",
       ro: "Satele Tanéka",
-      en: "Tanéka Villages",
-image: "/poi-images/taneka-villages-history-v2.webp"
-},
+      en: "Tanéka Villages"},
+    image: "/poi-images/taneka-villages-history-v2.webp",
     description: {
       de: "Historische Dörfer an den Hängen des Atakora-Gebirges, bekannt für ihre Bewahrung uralter Traditionen und Lebensweisen.",
       hu: "Történelmi falvak az Atakora-hegység lejtőin, amelyek ősi hagyományaik és életmódjuk megőrzéséről ismertek.",
@@ -720,9 +701,8 @@ image: "/poi-images/taneka-villages-history-v2.webp"
       de: "Heiliger Hügel von Savalou",
       hu: "Savalou szent dombja",
       ro: "Dealul Sacru din Savalou",
-      en: "Sacred Hill of Savalou",
-image: "/poi-images/sacred-hill-savalou-history-v2.webp"
-},
+      en: "Sacred Hill of Savalou"},
+    image: "/poi-images/sacred-hill-savalou-history-v2.webp",
     description: {
       de: "Ein historisch und spirituell bedeutender Hügel in Savalou, der eng mit der Gründung der Stadt und Voodoo-Riten verbunden ist.",
       hu: "Történelmileg és spirituálisan jelentős domb Savalouban, amely szorosan kötődik a város alapításához és a vudu rítusokhoz.",

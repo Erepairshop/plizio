@@ -11,9 +11,8 @@ export const poiExtraJamaicaHistoryV2: POI[] = [
       de: "Ruinen von Sevilla la Nueva",
       hu: "Sevilla la Nueva romjai",
       ro: "Ruinele Sevilla la Nueva",
-      en: "Seville la Nueva Ruins",
-image: "/poi-images/seville-la-nueva-ruins-history-v2.webp"
-},
+      en: "Seville la Nueva Ruins"},
+    image: "/poi-images/seville-la-nueva-ruins-history-v2.webp",
     descriptionAdvanced: { en: "Seville la Nueva (New Seville) is the site of the first Spanish capital of Jamaica, founded by Juan de Esquivel in 1509 on the orders of Diego Columbus. Located near modern-day Saint Ann's Bay, this archaeological site is one of the most significant in the Caribbean, representing the first sustained contact between Europeans, the indigenous Taino people, and eventually enslaved Africans. Excavations have revealed the foundations of a 16th-century fortress, a governor's castle, and a sugar mill, providing a rare glimpse into early colonial life and the origins of the plantation system. The site also commemorates the final year of Christopher Columbus's fourth voyage, as his ships were beached here for twelve months between 1503 and 1504. Today, Seville Heritage Park serves as an educational center and a candidate for UNESCO World Heritage status, standing as a silent witness to the complex and often tragic beginnings of modern Jamaican history.", ro: "Sevilla la Nueva, situată în Saint Ann, este cel mai important sit arheologic spaniol din Jamaica, marcând locul primei capitale a insulei, fondată în 1509 de Juan de Esquivel. Ruinele cuprind vestigiile unei fortărețe spaniole, ale unei biserici și ale unui castel guvernamental, oferind o perspectivă rară asupra primei întâlniri dintre Vechea și Noua Lume. Locația este încărcată de istorie, fiind locul unde Cristofor Columb a rămas naufragiat timp de un an între 1503 și 1504. Ulterior, zona s-a dezvoltat într-o vastă plantație britanică, al cărei conac, Seville Great House, servește astăzi drept muzeu. Săpăturile arheologice au scos la lumină artefacte valoroase care atestă viața cotidiană și interacțiunile dintre coloniștii spanioli și populația indigenă Taino.",
       hu: "Sevilla la Nueva, azaz Új-Sevilla, Jamaica első spanyol fővárosának régészeti lelőhelye. A települést 1509-ben alapította Juan de Esquivel, az első spanyol kormányzó, Kolumbusz Kristóf fia, Diego Kolumbusz megbízásából. A helyszín, ahol Kolumbusz 1503-ban egy évre hajótörést szenvedett, az európaiak első állandó jelenlétét jelöli a szigeten. A spanyolok egy várost kezdtek építeni templommal, erőddel és cukormalommal, de a mocsaras, egészségtelen környezet és a taino indiánokkal való konfliktusok miatt a település hanyatlásnak indult. 1534-re a fővárost áthelyezték a déli partra, a mai Spanish Town helyére. Ma a romok, köztük egy félkész templom alapjai és a kormányzói ház maradványai, a Jamaica National Heritage Trust gondozásában állnak, és a sziget legfontosabb történelmi emlékhelyei közé tartoznak. Történelem K6 – Gyarmatosítás kezdetei.",
       de: "Seville la Nueva in Saint Ann ist eine der bedeutendsten archäologischen Stätten Jamaikas und markiert den Ort der ersten spanischen Hauptstadt der Insel, die 1509 von Juan de Esquivel gegründet wurde. Die Ruinen umfassen die Überreste einer spanischen Festung, einer Kirche und eines Schlosses sowie Artefakte aus der Zeit der Taino-Indianer, die hier lange vor den Europäern lebten. Die Stätte bietet einen tiefen Einblick in die frühe Kolonialgeschichte und die tragische Begegnung zwischen der Alten und der Neuen Welt. Christoph Kolumbus verbrachte hier ein Jahr (1503-1504), als seine Schiffe strandeten. Später entwickelte sich Seville zu einer bedeutenden britischen Zuckerplantage, deren Herrenhaus (Seville Great House) heute als Museum dient. Die Ausgrabungen haben wertvolle Erkenntnisse über das tägliche Leben, die Architektur und den Sklavenhandel im 16. und 17. Jahrhundert geliefert."
@@ -44,9 +43,8 @@ image: "/poi-images/seville-la-nueva-ruins-history-v2.webp"
       de: "Taíno-Abfallhaufen bei White Marl",
       hu: "Taíno szemétdombok White Marlnál",
       ro: "Gropile de gunoi Taíno de la White Marl",
-      en: "Taíno Middens at White Marl",
-image: "/poi-images/taino-middens-white-marl-history-v2.webp"
-},
+      en: "Taíno Middens at White Marl"},
+    image: "/poi-images/taino-middens-white-marl-history-v2.webp",
     description: {
       de: "Eine bedeutende archäologische Stätte, die aus großen Haufen von Muschelschalen, Töpferwaren und anderen Artefakten besteht und das Leben der indigenen Taíno-Bevölkerung vor Kolumbus dokumentiert.",
       hu: "Jelentős régészeti lelőhely, amely nagy kagylóhéj-, kerámia- és egyéb lelethalmokból áll, dokumentálva a Kolumbusz előtti őslakos taíno lakosság életét.",
@@ -77,9 +75,8 @@ image: "/poi-images/taino-middens-white-marl-history-v2.webp"
       de: "Ruinen von Nanny Town",
       hu: "Nanny Town romjai",
       ro: "Ruinele Nanny Town",
-      en: "Nanny Town Ruins",
-image: "/poi-images/nanny-town-ruins-history-v2.webp"
-},
+      en: "Nanny Town Ruins"},
+    image: "/poi-images/nanny-town-ruins-history-v2.webp",
     description: {
       de: "Die legendäre Siedlung der Windward Maroons, angeführt von der Nationalheldin Nanny. Die schwer zugängliche Stätte in den Blue Mountains war ein Symbol des Widerstands gegen die britische Kolonialmacht.",
       hu: "A Windward Maroons legendás települése, amelyet Nanny nemzeti hősnő vezetett. A Blue Mountains-ben nehezen megközelíthető hely a brit gyarmati uralom elleni ellenállás szimbóluma volt.",
@@ -110,9 +107,8 @@ image: "/poi-images/nanny-town-ruins-history-v2.webp"
       de: "Gerichtsgebäude von Morant Bay",
       hu: "Morant Bay-i bíróság",
       ro: "Tribunalul din Morant Bay",
-      en: "Morant Bay Courthouse",
-image: "/poi-images/morant-bay-courthouse-history-v2.webp"
-},
+      en: "Morant Bay Courthouse"},
+    image: "/poi-images/morant-bay-courthouse-history-v2.webp",
     description: {
       de: "Der historische Ort des Morant Bay Aufstands von 1865, eines entscheidenden Ereignisses in der jamaikanischen Geschichte, das zu bedeutenden politischen Veränderungen führte. Das Gebäude ist ein Symbol des Kampfes für Gerechtigkeit.",
       hu: "Az 1865-ös Morant Bay-i lázadás történelmi helyszíne, amely Jamaica történelmének meghatározó eseménye volt és jelentős politikai változásokhoz vezetett. Az épület az igazságért folytatott harc szimbóluma.",
@@ -143,9 +139,8 @@ image: "/poi-images/morant-bay-courthouse-history-v2.webp"
       de: "Halse Hall Great House",
       hu: "Halse Hall udvarház",
       ro: "Conacul Halse Hall",
-      en: "Halse Hall Great House",
-image: "/poi-images/halse-hall-great-house-history-v2.webp"
-},
+      en: "Halse Hall Great House"},
+    image: "/poi-images/halse-hall-great-house-history-v2.webp",
     description: {
       de: "Eines der ältesten Herrenhäuser Jamaikas, dessen Ursprünge bis ins späte 17. Jahrhundert zurückreichen. Es wurde auf dem Land errichtet, das einem Major der britischen Invasionsarmee von 1655 gewährt wurde.",
       hu: "Jamaica egyik legrégebbi udvarháza, amelynek eredete a 17. század végére nyúlik vissza. Az 1655-ös brit inváziós hadsereg egyik őrnagyának adományozott földön épült.",
@@ -176,9 +171,8 @@ image: "/poi-images/halse-hall-great-house-history-v2.webp"
       de: "St. Peter's Church, Port Royal",
       hu: "Szent Péter-templom, Port Royal",
       ro: "Biserica Sf. Petru, Port Royal",
-      en: "St. Peter's Church, Port Royal",
-image: "/poi-images/st-peters-church-port-royal-history-v2.webp"
-},
+      en: "St. Peter's Church, Port Royal"},
+    image: "/poi-images/st-peters-church-port-royal-history-v2.webp",
     description: {
       de: "Eine historische anglikanische Kirche, die 1726 erbaut wurde, um die beim Erdbeben von 1692 zerstörte Kirche zu ersetzen. Sie beherbergt das kunstvolle Grab von Lewis Galdy, der das Erdbeben überlebte.",
       hu: "Történelmi anglikán templom, amelyet 1726-ban építettek az 1692-es földrengésben elpusztult templom helyére. Itt található Lewis Galdy díszes sírja, aki túlélte a földrengést.",
@@ -209,9 +203,8 @@ image: "/poi-images/st-peters-church-port-royal-history-v2.webp"
       de: "Colbeck Castle",
       hu: "Colbeck-kastély",
       ro: "Castelul Colbeck",
-      en: "Colbeck Castle",
-image: "/poi-images/colbeck-castle-history-v2.webp"
-},
+      en: "Colbeck Castle"},
+    image: "/poi-images/colbeck-castle-history-v2.webp",
     description: {
       de: "Die imposanten Ruinen eines riesigen Gebäudes aus dem 17. Jahrhundert, das eher einer Festung als einem Wohnhaus glich. Es wurde von Colonel John Colbeck erbaut, einem Offizier in der Armee, die Jamaika eroberte.",
       hu: "Egy hatalmas, 17. századi épület impozáns romjai, amely inkább erődre, mint lakóházra hasonlított. John Colbeck ezredes építtette, aki a Jamaicát meghódító hadsereg tisztje volt.",
@@ -242,9 +235,8 @@ image: "/poi-images/colbeck-castle-history-v2.webp"
       de: "Ruinen von Stewart Castle",
       hu: "Stewart-kastély romjai",
       ro: "Ruinele Castelului Stewart",
-      en: "Stewart Castle Ruins",
-image: "/poi-images/stewart-castle-ruins-history-v2.webp"
-},
+      en: "Stewart Castle Ruins"},
+    image: "/poi-images/stewart-castle-ruins-history-v2.webp",
     description: {
       de: "Die Überreste einer befestigten Plantagenresidenz aus der Mitte des 18. Jahrhunderts. Die Burg wurde als Verteidigungsanlage gegen Sklavenaufstände und mögliche Angriffe von See gebaut.",
       hu: "Egy 18. század közepéről származó, erődített ültetvényesi rezidencia maradványai. A kastélyt a rabszolgafelkelések és az esetleges tengeri támadások elleni védelemként építették.",
@@ -275,9 +267,8 @@ image: "/poi-images/stewart-castle-ruins-history-v2.webp"
       de: "Good Hope Great House",
       hu: "Good Hope udvarház",
       ro: "Conacul Good Hope",
-      en: "Good Hope Great House",
-image: "/poi-images/good-hope-great-house-history-v2.webp"
-},
+      en: "Good Hope Great House"},
+    image: "/poi-images/good-hope-great-house-history-v2.webp",
     description: {
       de: "Ein wunderschön restauriertes Herrenhaus aus dem 18. Jahrhundert, das einst das Herz einer wohlhabenden Zuckerplantage war. Es ist ein erstklassiges Beispiel für die georgianische Architektur Jamaikas.",
       hu: "Egy gyönyörűen felújított, 18. századi udvarház, amely egykor egy virágzó cukorültetvény központja volt. Jamaica györgy korabeli építészetének elsőrangú példája.",
@@ -308,9 +299,8 @@ image: "/poi-images/good-hope-great-house-history-v2.webp"
       de: "Fort Haldane",
       hu: "Haldane-erőd",
       ro: "Fortul Haldane",
-      en: "Fort Haldane",
-image: "/poi-images/fort-haldane-history-v2.webp"
-},
+      en: "Fort Haldane"},
+    image: "/poi-images/fort-haldane-history-v2.webp",
     description: {
       de: "Eine kleine Küstenfestung aus dem 18. Jahrhundert mit Blick auf Port Maria. Es wurde gebaut, um den Hafen vor Piraten und feindlichen Schiffen zu schützen und beherbergte eine kleine Garnison.",
       hu: "Egy kis, 18. századi tengerparti erőd, amely Port Mariára néz. A kalózok és ellenséges hajók elleni védelem céljából épült, és egy kis helyőrségnek adott otthont.",
@@ -341,9 +331,8 @@ image: "/poi-images/fort-haldane-history-v2.webp"
       de: "Ruinen von Edinburgh Castle (Jamaika)",
       hu: "Edinburgh-kastély romjai (Jamaica)",
       ro: "Ruinele Castelului Edinburgh (Jamaica)",
-      en: "Edinburgh Castle Ruins (Jamaica)",
-image: "/poi-images/edinburgh-castle-ruins-jamaica-history-v2.webp"
-},
+      en: "Edinburgh Castle Ruins (Jamaica)"},
+    image: "/poi-images/edinburgh-castle-ruins-jamaica-history-v2.webp",
     description: {
       de: "Die unheimlichen Ruinen eines Hauses aus dem 18. Jahrhundert, das von Lewis Hutchinson, Jamaikas berüchtigstem Serienmörder, dem 'verrückten Doktor', erbaut wurde. Die Legende besagt, dass er Reisende aus dem Hinterhalt überfiel und in ein Erdloch warf.",
       hu: "Egy 18. századi ház kísérteties romjai, amelyet Lewis Hutchinson, Jamaica leghírhedtebb sorozatgyilkosa, az 'őrült doktor' épített. A legenda szerint lesből támadt az utazókra, és egy verembe dobta őket.",
@@ -374,9 +363,8 @@ image: "/poi-images/edinburgh-castle-ruins-jamaica-history-v2.webp"
       de: "Rockfort Mineralbad",
       hu: "Rockfort ásványfürdő",
       ro: "Băile minerale Rockfort",
-      en: "Rockfort Mineral Bath",
-image: "/poi-images/rockfort-mineral-bath-history-v2.webp"
-},
+      en: "Rockfort Mineral Bath"},
+    image: "/poi-images/rockfort-mineral-bath-history-v2.webp",
     description: {
       de: "Ein historisches Mineralbad, das nach dem Erdbeben von 1907 entstand, als eine Mineralquelle aus dem Boden sprudelte. Es befindet sich neben den Ruinen von Fort Rock, einer alten britischen Festung.",
       hu: "Történelmi ásványfürdő, amely az 1907-es földrengés után jött létre, amikor egy ásványvízforrás tört a felszínre. A Fort Rock, egy régi brit erőd romjai mellett található.",
@@ -407,9 +395,8 @@ image: "/poi-images/rockfort-mineral-bath-history-v2.webp"
       de: "Altes Marinekrankenhaus Port Royal",
       hu: "Régi haditengerészeti kórház, Port Royal",
       ro: "Vechiul Spital Naval din Port Royal",
-      en: "Old Naval Hospital, Port Royal",
-image: "/poi-images/old-naval-hospital-port-royal-history-v2.webp"
-},
+      en: "Old Naval Hospital, Port Royal"},
+    image: "/poi-images/old-naval-hospital-port-royal-history-v2.webp",
     description: {
       de: "Ein historisches Gebäude aus dem 19. Jahrhundert, das als eines der ersten Fertigbau-Gebäude der Welt gilt. Die gusseisernen Rahmenelemente wurden in England hergestellt und vor Ort montiert.",
       hu: "Egy 19. századi történelmi épület, amelyet a világ egyik első előregyártott épületeként tartanak számon. Az öntöttvas váz elemeit Angliában gyártották és a helyszínen szerelték össze.",
@@ -440,9 +427,8 @@ image: "/poi-images/old-naval-hospital-port-royal-history-v2.webp"
       de: "Rodney-Denkmal, Spanish Town",
       hu: "Rodney-emlékmű, Spanish Town",
       ro: "Memorialul Rodney, Spanish Town",
-      en: "Rodney Memorial, Spanish Town",
-image: "/poi-images/rodney-memorial-spanish-town-history-v2.webp"
-},
+      en: "Rodney Memorial, Spanish Town"},
+    image: "/poi-images/rodney-memorial-spanish-town-history-v2.webp",
     description: {
       de: "Ein Denkmal in einem tempelartigen Gebäude am Spanish Town Square, das Admiral Lord Rodney ehrt, der die britische Flotte 1782 zum Sieg über die Franzosen in der Schlacht von Les Saintes führte.",
       hu: "Egy templomszerű épületben található emlékmű a Spanish Town téren, amely Lord Rodney admirálist tiszteli, aki 1782-ben a Les Saintes-i csatában győzelemre vezette a brit flottát a franciák felett.",
@@ -473,9 +459,8 @@ image: "/poi-images/rodney-memorial-spanish-town-history-v2.webp"
       de: "Hibbert House, Kingston",
       hu: "Hibbert-ház, Kingston",
       ro: "Casa Hibbert, Kingston",
-      en: "Hibbert House, Kingston",
-image: "/poi-images/hibbert-house-kingston-history-v2.webp"
-},
+      en: "Hibbert House, Kingston"},
+    image: "/poi-images/hibbert-house-kingston-history-v2.webp",
     description: {
       de: "Ein elegantes georgianisches Stadthaus aus dem Jahr 1755, das als Hauptquartier der jamaikanischen Nationalen Erb-Stiftung dient. Es wurde von einem wohlhabenden Kaufmann erbaut und war einst Sitz der Legislative Jamaikas.",
       hu: "Egy elegáns, 1755-ben épült György-korabeli városi ház, amely a Jamaica-i Nemzeti Örökségvédelmi Alapítvány székhelyeként szolgál. Egy gazdag kereskedő építtette, és egykor Jamaica törvényhozásának székhelye volt.",
@@ -506,9 +491,8 @@ image: "/poi-images/hibbert-house-kingston-history-v2.webp"
       de: "Alte Eisenbrücke, Spanish Town",
       hu: "Régi vashíd, Spanish Town",
       ro: "Vechiul pod de fier, Spanish Town",
-      en: "Old Iron Bridge, Spanish Town",
-image: "/poi-images/old-iron-bridge-spanish-town-history-v2.webp"
-},
+      en: "Old Iron Bridge, Spanish Town"},
+    image: "/poi-images/old-iron-bridge-spanish-town-history-v2.webp",
     description: {
       de: "Eine der ersten Gusseisenbrücken der Welt, die 1801 über den Rio Cobre errichtet wurde. Sie wurde in England entworfen und in Teilen nach Jamaika verschifft, um vor Ort montiert zu werden.",
       hu: "A világ egyik első öntöttvas hídja, amelyet 1801-ben építettek a Rio Cobre folyón. Angliában tervezték, és darabokban szállították Jamaicába, hogy a helyszínen szereljék össze.",
@@ -539,9 +523,8 @@ image: "/poi-images/old-iron-bridge-spanish-town-history-v2.webp"
       de: "Fort Augusta",
       hu: "Augusta-erőd",
       ro: "Fortul Augusta",
-      en: "Fort Augusta",
-image: "/poi-images/fort-augusta-history-v2.webp"
-},
+      en: "Fort Augusta"},
+    image: "/poi-images/fort-augusta-history-v2.webp",
     description: {
       de: "Eine große Festung aus dem 18. Jahrhundert, die an der Mündung des Hafens von Kingston erbaut wurde, um die Stadt vor Seeangriffen zu schützen. Sie war eine der wichtigsten militärischen Anlagen der Insel.",
       hu: "Egy nagy, 18. századi erőd, amelyet a kingstoni kikötő torkolatánál építettek a város tengeri támadások elleni védelmére. A sziget egyik legfontosabb katonai létesítménye volt.",
@@ -572,9 +555,8 @@ image: "/poi-images/fort-augusta-history-v2.webp"
       de: "Historisches Gerichtsgebäude von Falmouth",
       hu: "Falmouth-i történelmi bíróság",
       ro: "Tribunalul istoric din Falmouth",
-      en: "Falmouth Historic Courthouse",
-image: "/poi-images/falmouth-historic-courthouse-history-v2.webp"
-},
+      en: "Falmouth Historic Courthouse"},
+    image: "/poi-images/falmouth-historic-courthouse-history-v2.webp",
     description: {
       de: "Ein prächtiges Gerichtsgebäude aus dem Jahr 1815, das die georgianische Pracht von Falmouth zur Zeit seines Wohlstands als Zuckerhafen widerspiegelt. Das Gebäude ist ein zentrales Element des historischen Stadtbildes.",
       hu: "Egy csodálatos, 1815-ben épült bírósági épület, amely Falmouth György-korabeli pompáját tükrözi a cukorkikötőként való virágzása idején. Az épület a történelmi városkép központi eleme.",
@@ -605,9 +587,8 @@ image: "/poi-images/falmouth-historic-courthouse-history-v2.webp"
       de: "Liberty Hall: Das Erbe von Marcus Garvey",
       hu: "Liberty Hall: Marcus Garvey öröksége",
       ro: "Liberty Hall: Moștenirea lui Marcus Garvey",
-      en: "Liberty Hall: The Legacy of Marcus Garvey",
-image: "/poi-images/liberty-hall-legacy-of-marcus-garvey-history-v2.webp"
-},
+      en: "Liberty Hall: The Legacy of Marcus Garvey"},
+    image: "/poi-images/liberty-hall-legacy-of-marcus-garvey-history-v2.webp",
     description: {
       de: "Das ehemalige Hauptquartier der Universal Negro Improvement Association (UNIA) in Kingston. Es ist ein Museum, das dem Leben und Werk des jamaikanischen Nationalhelden Marcus Garvey gewidmet ist.",
       hu: "Az Universal Negro Improvement Association (UNIA) egykori kingstoni székhelye. Ez egy múzeum, amelyet Marcus Garvey jamaicai nemzeti hős életének és munkásságának szenteltek.",
@@ -638,9 +619,8 @@ image: "/poi-images/liberty-hall-legacy-of-marcus-garvey-history-v2.webp"
       de: "Blenheim, Geburtsort von Alexander Bustamante",
       hu: "Blenheim, Alexander Bustamante szülőhelye",
       ro: "Blenheim, locul de naștere al lui Alexander Bustamante",
-      en: "Blenheim, Birthplace of Alexander Bustamante",
-image: "/poi-images/blenheim-birthplace-alexander-bustamante-history-v2.webp"
-},
+      en: "Blenheim, Birthplace of Alexander Bustamante"},
+    image: "/poi-images/blenheim-birthplace-alexander-bustamante-history-v2.webp",
     description: {
       de: "Die bescheidene Stätte in Hanover, wo Sir Alexander Bustamante, der erste Premierminister Jamaikas und Nationalheld, geboren wurde. Eine Nachbildung seines Geburtshauses steht heute dort.",
       hu: "Szerény hely Hanoverben, ahol Sir Alexander Bustamante, Jamaica első miniszterelnöke és nemzeti hőse született. Szülőházának másolata ma ott áll.",
@@ -671,9 +651,8 @@ image: "/poi-images/blenheim-birthplace-alexander-bustamante-history-v2.webp"
       de: "Lover's Leap",
       hu: "Szerelmesek ugrása",
       ro: "Saltul Iubiților",
-      en: "Lover's Leap",
-image: "/poi-images/lover-s-leap-history-v2.webp"
-},
+      en: "Lover's Leap"},
+    image: "/poi-images/lover-s-leap-history-v2.webp",
     description: {
       de: "Eine dramatische Klippe mit einer Höhe von 520 Metern, die nach der Legende zweier Sklavenliebender benannt ist, die lieber in den Tod sprangen, als getrennt zu werden. Die Stätte hat auch eine historische Bedeutung als Navigationspunkt.",
       hu: "Egy drámai, 520 méter magas szikla, amely két rabszolgaszerelmes legendájáról kapta a nevét, akik inkább a halálba ugrottak, minthogy elválasszák őket egymástól. A hely történelmi jelentőséggel is bír mint navigációs pont.",
@@ -708,9 +687,8 @@ image: "/poi-images/lover-s-leap-history-v2.webp"
       de: "Trench Town Culture Yard",
       hu: "Trench Town Kulturális Udvar",
       ro: "Curtea Culturală Trench Town",
-      en: "Trench Town Culture Yard",
-image: "/poi-images/trench-town-culture-yard-history-v2.webp"
-},
+      en: "Trench Town Culture Yard"},
+    image: "/poi-images/trench-town-culture-yard-history-v2.webp",
     description: {
       de: "Ein Regierungshof in Trenchtown, der in den 1960er Jahren die Heimat von Bob Marley war. Hier schrieb er einige seiner berühmtesten Lieder. Heute ist es ein Museum und eine Gemeinschaftseinrichtung.",
       hu: "Egy kormányzati udvar Trenchtownban, amely az 1960-as években Bob Marley otthona volt. Itt írta néhány leghíresebb dalát. Ma múzeum és közösségi létesítmény.",
@@ -745,9 +723,8 @@ image: "/poi-images/trench-town-culture-yard-history-v2.webp"
       de: "Grabsteine von Lacovia",
       hu: "Lacovia sírkövei",
       ro: "Pietrele funerare din Lacovia",
-      en: "Lacovia Tombstones",
-image: "/poi-images/lacovia-tombstones-history-v2.webp"
-},
+      en: "Lacovia Tombstones"},
+    image: "/poi-images/lacovia-tombstones-history-v2.webp",
     description: {
       de: "Zwei alte Grabsteine am Straßenrand, die an einen lokalen Gutsherrn und seinen Duellgegner aus dem 17. Jahrhundert erinnern. Die Legende besagt, dass beide Männer im Duell starben.",
       hu: "Két régi sírkő az út mentén, amelyek egy helyi földesúrnak és 17. századi párbajellenfelének állítanak emléket. A legenda szerint mindkét férfi a párbajban halt meg.",
@@ -782,9 +759,8 @@ image: "/poi-images/lacovia-tombstones-history-v2.webp"
       de: "George Liele Denkmal",
       hu: "George Liele emlékmű",
       ro: "Memorialul George Liele",
-      en: "George Liele Memorial",
-image: "/poi-images/georg-liele-memorial-history-v2.webp"
-},
+      en: "George Liele Memorial"},
+    image: "/poi-images/georg-liele-memorial-history-v2.webp",
     description: {
       de: "Ein Denkmal in Kingston, das George Liele ehrt, einen befreiten amerikanischen Sklaven, der 1782 nach Jamaika kam und die erste baptistische Kirche auf der Insel gründete.",
       hu: "Egy emlékmű Kingstonban, amely George Liele-nek, egy felszabadított amerikai rabszolgának állít emléket, aki 1782-ben érkezett Jamaicába és megalapította az első baptista gyülekezetet a szigeten.",
@@ -819,9 +795,8 @@ image: "/poi-images/georg-liele-memorial-history-v2.webp"
       de: "Nationalheldenpark",
       hu: "Nemzeti Hősök Parkja",
       ro: "Parcul Eroilor Naționali",
-      en: "National Heroes Park",
-image: "/poi-images/national-heroes-park-history-v2.webp"
-},
+      en: "National Heroes Park"},
+    image: "/poi-images/national-heroes-park-history-v2.webp",
     description: {
       de: "Einst ein Rennplatz, heute ein botanischer Garten und die Begräbnisstätte der Nationalhelden Jamaikas sowie vieler ehemaliger Premierminister. Es ist ein heiliger Ort nationaler Bedeutung.",
       hu: "Egykor versenypálya, ma botanikus kert és Jamaica nemzeti hőseinek, valamint számos volt miniszterelnökének temetkezési helye. Ez egy szent, nemzeti jelentőségű hely.",
@@ -856,9 +831,8 @@ image: "/poi-images/national-heroes-park-history-v2.webp"
       de: "Der Käfig, Montego Bay",
       hu: "A ketrec, Montego Bay",
       ro: "Cușca, Montego Bay",
-      en: "The Cage, Montego Bay",
-image: "/poi-images/the-cage-montego-bay-history-v2.webp"
-},
+      en: "The Cage, Montego Bay"},
+    image: "/poi-images/the-cage-montego-bay-history-v2.webp",
     description: {
       de: "Ein kleines, weiß getünchtes Gebäude aus dem Jahr 1806, das als vorübergehendes Gefängnis für weggelaufene Sklaven, betrunkene Seeleute und andere Kleinkriminelle diente. Es steht mitten auf dem Sam Sharpe Square.",
       hu: "Egy kis, 1806-ban épült, fehérre meszelt épület, amely ideiglenes börtönként szolgált szökevény rabszolgák, részeg tengerészek és más apró bűnözők számára. A Sam Sharpe téren áll.",
@@ -893,9 +867,8 @@ image: "/poi-images/the-cage-montego-bay-history-v2.webp"
       de: "Sam Sharpe Square",
       hu: "Sam Sharpe tér",
       ro: "Piața Sam Sharpe",
-      en: "Sam Sharpe Square",
-image: "/poi-images/sam-sharpe-square-history-v2.webp"
-},
+      en: "Sam Sharpe Square"},
+    image: "/poi-images/sam-sharpe-square-history-v2.webp",
     description: {
       de: "Der Hauptplatz von Montego Bay, benannt nach dem Nationalhelden Samuel Sharpe, der hier 1832 wegen seiner Rolle im 'Baptistenkrieg', einem großen Sklavenaufstand, gehängt wurde.",
       hu: "Montego Bay főtere, amelyet Samuel Sharpe nemzeti hős után neveztek el, akit itt akasztottak fel 1832-ben a 'baptista háborúban', egy nagy rabszolgafelkelésben játszott szerepe miatt.",
@@ -930,9 +903,8 @@ image: "/poi-images/sam-sharpe-square-history-v2.webp"
       de: "Tryall Great House",
       hu: "Tryall udvarház",
       ro: "Conacul Tryall",
-      en: "Tryall Great House",
-image: "/poi-images/tryall-great-house-history-v2.webp"
-},
+      en: "Tryall Great House"},
+    image: "/poi-images/tryall-great-house-history-v2.webp",
     description: {
       de: "Ein Herrenhaus aus dem 19. Jahrhundert auf einem Hügel mit Blick auf das Karibische Meer. Es ist das Herzstück des exklusiven Tryall Club und bewahrt die Geschichte der ehemaligen Zuckerplantage.",
       hu: "Egy 19. századi udvarház egy dombon, kilátással a Karib-tengerre. Az exkluzív Tryall Club központja, és megőrzi az egykori cukorültetvény történetét.",
@@ -967,9 +939,8 @@ image: "/poi-images/tryall-great-house-history-v2.webp"
       de: "Cinnamon Hill Great House",
       hu: "Cinnamon Hill udvarház",
       ro: "Conacul Cinnamon Hill",
-      en: "Cinnamon Hill Great House",
-image: "/poi-images/cinnamon-hill-great-house-history-v2.webp"
-},
+      en: "Cinnamon Hill Great House"},
+    image: "/poi-images/cinnamon-hill-great-house-history-v2.webp",
     description: {
       de: "Ein historisches Plantagenhaus, das einst der Familie von Elizabeth Barrett Browning gehörte und später das jamaikanische Zuhause der Country-Musik-Legende Johnny Cash war. Es ist voller Geschichte und persönlicher Erinnerungsstücke.",
       hu: "Történelmi ültetvényház, amely egykor Elizabeth Barrett Browning családjának tulajdonában volt, később pedig Johnny Cash country-legenda jamaicai otthona lett. Tele van történelemmel és személyes emléktárgyakkal.",
@@ -1004,9 +975,8 @@ image: "/poi-images/cinnamon-hill-great-house-history-v2.webp"
       de: "Ruinen des Stokes Hall Great House",
       hu: "Stokes Hall udvarház romjai",
       ro: "Ruinele conacului Stokes Hall",
-      en: "Stokes Hall Great House Ruins",
-image: "/poi-images/stokes-hall-great-house-ruins-history-v2.webp"
-},
+      en: "Stokes Hall Great House Ruins"},
+    image: "/poi-images/stokes-hall-great-house-ruins-history-v2.webp",
     description: {
       de: "Die Ruinen eines der ältesten und am stärksten befestigten Herrenhäuser Jamaikas. Es wurde im 17. Jahrhundert erbaut und hatte vier Türme, um sich gegen Angriffe zu verteidigen.",
       hu: "Jamaica egyik legrégebbi és legerősebben erődített udvarházának romjai. A 17. században épült, és négy tornya volt a támadások elleni védelem érdekében.",
@@ -1041,9 +1011,8 @@ image: "/poi-images/stokes-hall-great-house-ruins-history-v2.webp"
       de: "Black River Spa Mineralquelle",
       hu: "Black River gyógyfürdő ásványforrás",
       ro: "Izvorul mineral Black River Spa",
-      en: "Black River Spa Mineral Spring",
-image: "/poi-images/black-river-spa-mineral-spring-history-v2.webp"
-},
+      en: "Black River Spa Mineral Spring"},
+    image: "/poi-images/black-river-spa-mineral-spring-history-v2.webp",
     description: {
       de: "Eine historische Mineralquelle, die im 18. Jahrhundert als Heilbad populär wurde. Das Wasser, das in ein steinernes Becken fließt, sollte bei verschiedenen Krankheiten helfen.",
       hu: "Történelmi ásványforrás, amely a 18. században gyógyfürdőként vált népszerűvé. A kőmedencébe folyó víz állítólag különböző betegségeken segített.",
@@ -1078,9 +1047,8 @@ image: "/poi-images/black-river-spa-mineral-spring-history-v2.webp"
       de: "Lyssons Beach Öffentlicher Park",
       hu: "Lyssons Beach nyilvános park",
       ro: "Parcul Public Lyssons Beach",
-      en: "Lyssons Beach Public Park",
-image: "/poi-images/lyssons-beach-public-park-history-v2.webp"
-},
+      en: "Lyssons Beach Public Park"},
+    image: "/poi-images/lyssons-beach-public-park-history-v2.webp",
     description: {
       de: "Ein Strand in der Nähe von Morant Bay, der eine Rolle im Aufstand von 1865 spielte. Rebellen zogen durch dieses Gebiet auf ihrem Marsch zum Gerichtsgebäude von Morant Bay.",
       hu: "Egy strand Morant Bay közelében, amely szerepet játszott az 1865-ös felkelésben. A lázadók ezen a területen vonultak keresztül a Morant Bay-i bírósághoz vezető útjukon.",

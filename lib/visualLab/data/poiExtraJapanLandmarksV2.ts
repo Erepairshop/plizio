@@ -11,9 +11,8 @@ export const poiExtraJapanLandmarksV2: POI[] = [
       de: "Kaiserpalast Tokio",
       hu: "Tokiói császári palota",
       ro: "Palatul Imperial din Tokyo",
-      en: "Tokyo Imperial Palace",
-image: "/poi-images/imperial-palace-tokyo-landmarks-v2.webp"
-},
+      en: "Tokyo Imperial Palace"},
+    image: "/poi-images/imperial-palace-tokyo-landmarks-v2.webp",
     description: {
       de: "Die Hauptresidenz des Kaisers von Japan. Es handelt sich um einen großen parkähnlichen Bereich im Zentrum von Tokio, der die Überreste der Burg Edo enthält.",
       hu: "A japán császár elsődleges rezidenciája. Ez egy nagy, parkszerű terület Tokió központjában, amely magában foglalja az Edo-kastély maradványait.",
@@ -47,9 +46,8 @@ image: "/poi-images/imperial-palace-tokyo-landmarks-v2.webp"
       de: "Hakone-Freilichtmuseum",
       hu: "Hakone Szabadtéri Múzeum",
       ro: "Muzeul în aer liber Hakone",
-      en: "Hakone Open-Air Museum",
-image: "/poi-images/hakone-open-air-museum-landmarks-v2.webp"
-},
+      en: "Hakone Open-Air Museum"},
+    image: "/poi-images/hakone-open-air-museum-landmarks-v2.webp",
     description: {
       de: "Japans erstes Freilichtmuseum, das eine harmonische Balance zwischen Natur und Kunst schafft und Skulpturen in einer malerischen Umgebung mit Blick auf die Berge von Hakone präsentiert.",
       hu: "Japán első szabadtéri múzeuma, amely harmonikus egyensúlyt teremt a természet és a művészet között, szobrokat mutat be festői környezetben, kilátással a Hakone-hegységre.",
@@ -83,9 +81,8 @@ image: "/poi-images/hakone-open-air-museum-landmarks-v2.webp"
       de: "Nachi-Wasserfall",
       hu: "Nacsi-vízesés",
       ro: "Cascada Nachi",
-      en: "Nachi Falls",
-image: "/poi-images/nachi-falls-landmarks-v2.webp"
-},
+      en: "Nachi Falls"},
+    image: "/poi-images/nachi-falls-landmarks-v2.webp",
     description: {
       de: "Einer der bekanntesten Wasserfälle Japans mit einer Höhe von 133 Metern. Er ist Teil des heiligen Kumano-Kodo-Pilgerwegs und wird als Gottheit verehrt.",
       hu: "Japán egyik legismertebb vízesése, 133 méteres magasságával. A szent Kumano Kodo zarándokút része, és istenségként tisztelik.",
@@ -119,9 +116,8 @@ image: "/poi-images/nachi-falls-landmarks-v2.webp"
       de: "Takeda Burgruine (Schloss im Himmel)",
       hu: "Takeda várrom (Kastély az égben)",
       ro: "Ruinele Castelului Takeda (Castelul de pe Cer)",
-      en: "Takeda Castle Ruins (Castle in the Sky)",
-image: "/poi-images/un-chastel-en-le-ciel-landmarks-v2.webp"
-},
+      en: "Takeda Castle Ruins (Castle in the Sky)"},
+    image: "/poi-images/un-chastel-en-le-ciel-landmarks-v2.webp",
     description: {
       de: "Diese Bergspitzenruinen sind als 'Machu Picchu Japans' bekannt und berühmt für das 'Meer aus Wolken' (unkai), das sie an Herbstmorgen umgibt und sie wie schwebend erscheinen lässt.",
       hu: "Ezek a hegycsúcson lévő romok 'Japán Machu Picchu'-jaként ismertek, és híresek a 'felhőtengerről' (unkai), amely őszi reggeleken körülveszi őket, lebegőnek tűnve.",
@@ -155,9 +151,8 @@ image: "/poi-images/un-chastel-en-le-ciel-landmarks-v2.webp"
       de: "Regierungsgebäude der Präfektur Tokio",
       hu: "Tokiói Kormányzati Székház",
       ro: "Clădirea Guvernului Metropolitan din Tokyo",
-      en: "Tokyo Metropolitan Government Building",
-image: "/poi-images/tokyo-metropolitan-gov-bldg-landmarks-v2.webp"
-},
+      en: "Tokyo Metropolitan Government Building"},
+    image: "/poi-images/tokyo-metropolitan-gov-bldg-landmarks-v2.webp",
     description: {
       de: "Ein hoch aufragender Komplex in Shinjuku, der als Rathaus von Tokio dient. Seine beiden Türme verfügen über kostenlose Aussichtsplattformen, die einen Panoramablick auf die Stadt bieten.",
       hu: "Egy toronymagas komplexum Sindzsukuban, amely Tokió városházájaként szolgál. Két tornya ingyenes kilátóteraszokkal rendelkezik, amelyek panorámás kilátást nyújtanak a városra.",
@@ -191,9 +186,8 @@ image: "/poi-images/tokyo-metropolitan-gov-bldg-landmarks-v2.webp"
       de: "Regenbogenbrücke",
       hu: "Szivárvány-híd",
       ro: "Podul Curcubeu",
-      en: "Rainbow Bridge",
-image: "/poi-images/rainbow-bridge-tokyo-landmarks-v2.webp"
-},
+      en: "Rainbow Bridge"},
+    image: "/poi-images/rainbow-bridge-tokyo-landmarks-v2.webp",
     description: {
       de: "Eine massive Hängebrücke, die die Bucht von Tokio überquert und das Shibaura-Pier mit der künstlichen Insel Odaiba verbindet. Nachts wird sie in regenbogenfarbenen Lichtern beleuchtet.",
       hu: "Egy hatalmas függőhíd, amely a Tokiói-öblön ível át, összekötve a Sibaura-mólót az Odaiba mesterséges szigettel. Éjjel szivárványszínű fényekkel van kivilágítva.",
@@ -227,9 +221,8 @@ image: "/poi-images/rainbow-bridge-tokyo-landmarks-v2.webp"
       de: "Gundam Factory Yokohama",
       hu: "Gundam Gyár Jokohama",
       ro: "Fabrica Gundam Yokohama",
-      en: "Gundam Factory Yokohama",
-image: "/poi-images/gundam-factory-yokohama-landmarks-v2.webp"
-},
+      en: "Gundam Factory Yokohama"},
+    image: "/poi-images/gundam-factory-yokohama-landmarks-v2.webp",
     description: {
       de: "Eine zeitlich begrenzte Attraktion mit einem riesigen, beweglichen Gundam-Roboter in Lebensgröße. Der 18 Meter hohe Roboter kann laufen, knien und andere Posen einnehmen.",
       hu: "Egy ideiglenes látványosság, amely egy hatalmas, életnagyságú, mozgó Gundam robotot mutat be. A 18 méter magas robot képes járni, térdelni és más pózokat felvenni.",
@@ -263,9 +256,8 @@ image: "/poi-images/gundam-factory-yokohama-landmarks-v2.webp"
       de: "Usuki-Steinbuddhas",
       hu: "Uszuki kőbuddhák",
       ro: "Buddha de piatră din Usuki",
-      en: "Usuki Stone Buddhas",
-image: "/poi-images/usuki-stone-buddhas-landmarks-v2.webp"
-},
+      en: "Usuki Stone Buddhas"},
+    image: "/poi-images/usuki-stone-buddhas-landmarks-v2.webp",
     description: {
       de: "Eine Sammlung von Dutzenden von Steinbuddhas aus der Heian- und Kamakura-Zeit, die in weichen Vulkangesteinsklippen gehauen wurden. Sie sind als Nationalschatz Japans ausgewiesen.",
       hu: "Több tucat Heian- és Kamakura-kori kőbuddha gyűjteménye, amelyeket puha vulkáni kőzet szikláiba faragtak. Japán nemzeti kincseként tartják számon őket.",
@@ -299,9 +291,8 @@ image: "/poi-images/usuki-stone-buddhas-landmarks-v2.webp"
       de: "Tottori-Sanddünen",
       hu: "Tottori homokdűnék",
       ro: "Dunele de nisip Tottori",
-      en: "Tottori Sand Dunes",
-image: "/poi-images/tottori-sand-dunes-landmarks-v2.webp"
-},
+      en: "Tottori Sand Dunes"},
+    image: "/poi-images/tottori-sand-dunes-landmarks-v2.webp",
     description: {
       de: "Ein einzigartiges geologisches Merkmal, diese großen Sanddünen erstrecken sich entlang der Küste des Japanischen Meeres und schaffen eine wüstenähnliche Landschaft.",
       hu: "Egy egyedülálló geológiai képződmény, ezek a nagy homokdűnék a Japán-tenger partja mentén húzódnak, sivatagszerű tájat hozva létre.",
@@ -336,9 +327,8 @@ image: "/poi-images/tottori-sand-dunes-landmarks-v2.webp"
       de: "Ise-Großschrein",
       hu: "Iszei nagyszentély",
       ro: "Marele Sanctuar Ise",
-      en: "Ise Grand Shrine",
-image: "/poi-images/ise-grand-shrine-landmarks-v2.webp"
-},
+      en: "Ise Grand Shrine"},
+    image: "/poi-images/ise-grand-shrine-landmarks-v2.webp",
     description: {
       de: "Der heiligste Shinto-Schrein Japans, gewidmet der Sonnengöttin Amaterasu. Er besteht aus zwei Hauptschreinen, Naiku und Geku, sowie 123 Hilfsschreinen.",
       hu: "Japán legszentebb sintó szentélye, amelyet Amateraszu napistennőnek szenteltek. Két fő szentélyből, a Naiku-ból és a Geku-ból, valamint 123 mellékszentélyből áll.",
@@ -372,9 +362,8 @@ image: "/poi-images/ise-grand-shrine-landmarks-v2.webp"
       de: "Ashi-See",
       hu: "Asi-tó",
       ro: "Lacul Ashinoko",
-      en: "Lake Ashinoko",
-image: "/poi-images/lake-ashinoko-landmarks-v2.webp"
-},
+      en: "Lake Ashinoko"},
+    image: "/poi-images/lake-ashinoko-landmarks-v2.webp",
     description: {
       de: "Ein malerischer Kratersee in Hakone, der an klaren Tagen einen atemberaubenden Blick auf den Berg Fuji bietet. Piratenschiff-Kreuzfahrten sind eine beliebte Möglichkeit, den See zu erkunden.",
       hu: "Egy festői krátertó Hakonéban, amely tiszta napokon lenyűgöző kilátást nyújt a Fudzsi-hegyre. A kalózhajós túrák népszerű módja a tó felfedezésének.",
@@ -408,9 +397,8 @@ image: "/poi-images/lake-ashinoko-landmarks-v2.webp"
       de: "teamLab Borderless",
       hu: "teamLab Borderless",
       ro: "teamLab Borderless",
-      en: "teamLab Borderless",
-image: "/poi-images/teamlab-borderless-landmarks-v2.webp"
-},
+      en: "teamLab Borderless"},
+    image: "/poi-images/teamlab-borderless-landmarks-v2.webp",
     description: {
       de: "Ein bahnbrechendes digitales Kunstmuseum, in dem Kunstwerke sich frei bewegen, miteinander interagieren und neue Werke schaffen. Es bietet ein immersives und sich ständig veränderndes Erlebnis.",
       hu: "Egy úttörő digitális művészeti múzeum, ahol a műalkotások szabadon mozognak, kölcsönhatásba lépnek egymással és új műveket hoznak létre. Magával ragadó és folyamatosan változó élményt nyújt.",
@@ -444,9 +432,8 @@ image: "/poi-images/teamlab-borderless-landmarks-v2.webp"
       de: "Historisches Viertel Kurashiki Bikan",
       hu: "Kurasiki Bikan történelmi negyed",
       ro: "Cartierul istoric Kurashiki Bikan",
-      en: "Kurashiki Bikan Historical Quarter",
-image: "/poi-images/kurashiki-bikan-historical-quarter-landmarks-v2.webp"
-},
+      en: "Kurashiki Bikan Historical Quarter"},
+    image: "/poi-images/kurashiki-bikan-historical-quarter-landmarks-v2.webp",
     description: {
       de: "Ein wunderschön erhaltenes Kaufmannsviertel aus der Edo-Zeit entlang eines malerischen Kanals. Viele der alten Lagerhäuser wurden in Museen, Boutiquen und Cafés umgewandelt.",
       hu: "Egy gyönyörűen megőrzött Edo-kori kereskedőnegyed egy festői csatorna mentén. Sok régi raktárépületet múzeumokká, butikokká és kávézókká alakítottak át.",
@@ -480,9 +467,8 @@ image: "/poi-images/kurashiki-bikan-historical-quarter-landmarks-v2.webp"
       de: "Kunstinsel Naoshima",
       hu: "Naosima művészeti sziget",
       ro: "Insula de Artă Naoshima",
-      en: "Naoshima Art Island",
-image: "/poi-images/naoshima-art-island-landmarks-v2.webp"
-},
+      en: "Naoshima Art Island"},
+    image: "/poi-images/naoshima-art-island-landmarks-v2.webp",
     description: {
       de: "Eine kleine Insel im Seto-Binnenmeer, die für ihre modernen Kunstmuseen, Architektur und Skulpturen im Freien bekannt ist. Ein Muss für Kunstliebhaber.",
       hu: "Egy kis sziget a Szeto-beltengerben, amely modern művészeti múzeumairól, építészetéről és szabadtéri szobrairól ismert. A művészet kedvelőinek kötelező látnivaló.",
@@ -516,9 +502,8 @@ image: "/poi-images/naoshima-art-island-landmarks-v2.webp"
       de: "Poststation Magome-juku",
       hu: "Magome-dzsuku postaállomás",
       ro: "Stația de poștă Magome-juku",
-      en: "Magome-juku Post Town",
-image: "/poi-images/magome-juku-post-town-landmarks-v2.webp"
-},
+      en: "Magome-juku Post Town"},
+    image: "/poi-images/magome-juku-post-town-landmarks-v2.webp",
     description: {
       de: "Eine wunderschön restaurierte Poststation im Kiso-Tal, die die Nakasendo-Route bediente. Die Stadt erstreckt sich entlang eines gepflasterten Hangs und bewahrt eine Edo-zeitliche Atmosphäre.",
       hu: "Egy gyönyörűen helyreállított postaállomás a Kiszo-völgyben, amely a Nakaszendo útvonalat szolgálta ki. A város egy kövezett lejtő mentén terül el, megőrizve az Edo-kori hangulatot.",
@@ -552,9 +537,8 @@ image: "/poi-images/magome-juku-post-town-landmarks-v2.webp"
       de: "Berg Kōya (Kōyasan)",
       hu: "Kója-hegy (Kójaszan)",
       ro: "Muntele Kōya (Kōyasan)",
-      en: "Mount Kōya (Kōyasan)",
-image: "/poi-images/mount-koya-landmarks-v2.webp"
-},
+      en: "Mount Kōya (Kōyasan)"},
+    image: "/poi-images/mount-koya-landmarks-v2.webp",
     description: {
       de: "Das Zentrum des Shingon-Buddhismus, einer wichtigen buddhistischen Sekte. Kōyasan ist ein abgeschiedener Tempelberg mit über 100 Tempeln und Klöstern.",
       hu: "A singon buddhizmus, egy fontos buddhista szekta központja. A Kójaszan egy elzárt templomhegy, több mint 100 templommal és kolostorral.",
@@ -588,9 +572,8 @@ image: "/poi-images/mount-koya-landmarks-v2.webp"
       de: "Onomichi-Tempelweg",
       hu: "Onomicsi templomösvény",
       ro: "Plimbarea prin templele din Onomichi",
-      en: "Onomichi Temple Walk",
-image: "/poi-images/onomichi-temple-walk-landmarks-v2.webp"
-},
+      en: "Onomichi Temple Walk"},
+    image: "/poi-images/onomichi-temple-walk-landmarks-v2.webp",
     description: {
       de: "Ein Wanderweg, der sich durch die Hügel von Onomichi schlängelt und etwa 25 Tempel miteinander verbindet. Er bietet malerische Ausblicke auf die Stadt und das Seto-Binnenmeer.",
       hu: "Egy túraútvonal, amely Onomicsi dombjain kanyarog, mintegy 25 templomot kötve össze. Festői kilátást nyújt a városra és a Szeto-beltengerre.",
@@ -624,9 +607,8 @@ image: "/poi-images/onomichi-temple-walk-landmarks-v2.webp"
       de: "Höllen von Beppu (Jigoku)",
       hu: "Beppu poklai (Dzsigoku)",
       ro: "Iadurile din Beppu (Jigoku)",
-      en: "Hells of Beppu (Jigoku)",
-image: "/poi-images/beppu-hells-landmarks-v2.webp"
-},
+      en: "Hells of Beppu (Jigoku)"},
+    image: "/poi-images/beppu-hells-landmarks-v2.webp",
     description: {
       de: "Eine Reihe von spektakulären heißen Quellen zum Betrachten, nicht zum Baden. Jede 'Hölle' hat ein einzigartiges Erscheinungsbild, von kochendem Schlamm bis hin zu leuchtend blauem oder blutrotem Wasser.",
       hu: "Látványos forró források sorozata, amelyek megtekintésre, nem pedig fürdésre szolgálnak. Minden 'pokol' egyedi megjelenésű, a forrásban lévő iszaptól a ragyogó kék vagy vérvörös vízig.",
@@ -661,9 +643,8 @@ image: "/poi-images/beppu-hells-landmarks-v2.webp"
       de: "Takachiho-Schlucht",
       hu: "Takacsiho-szurdok",
       ro: "Cheile Takachiho",
-      en: "Takachiho Gorge",
-image: "/poi-images/takachiho-gorge-landmarks-v2.webp"
-},
+      en: "Takachiho Gorge"},
+    image: "/poi-images/takachiho-gorge-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende Schlucht, die vom Gokase-Fluss geformt wurde, mit steilen vulkanischen Basaltwänden. Eine Bootsfahrt durch die Schlucht ist eine beliebte Möglichkeit, die Landschaft zu genießen.",
       hu: "A Gokasze folyó által formált lenyűgöző szurdok meredek vulkáni bazaltfalakkal. A szurdokon keresztüli csónakázás népszerű módja a táj élvezetének.",
@@ -698,9 +679,8 @@ image: "/poi-images/takachiho-gorge-landmarks-v2.webp"
       de: "Mori-Kunstmuseum",
       hu: "Mori Művészeti Múzeum",
       ro: "Muzeul de Artă Mori",
-      en: "Mori Art Museum",
-image: "/poi-images/mori-art-museum-landmarks-v2.webp"
-},
+      en: "Mori Art Museum"},
+    image: "/poi-images/mori-art-museum-landmarks-v2.webp",
     description: {
       de: "Ein Museum für zeitgenössische Kunst auf den obersten Etagen des Roppongi Hills Mori Tower. Es ist bekannt für seine erstklassigen Ausstellungen internationaler Künstler.",
       hu: "Egy kortárs művészeti múzeum a Roppongi Hills Mori Tower legfelső emeletein. Híres a nemzetközi művészek világszínvonalú kiállításairól.",

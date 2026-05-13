@@ -6,9 +6,8 @@ export const poiExtraTurkeyNatureV2: POI[] = [
     type: "lake",
     parent: "TR-68",
     coords: [33.3333, 38.8333],
-    name: { de: "Tuz Gölü", hu: "Tuz-tó", ro: "Lacul Tuz", en: "Lake Tuz",
-image: "/poi-images/turkey-lake-tuz-nature-v2.webp"
-},
+    name: { de: "Tuz Gölü", hu: "Tuz-tó", ro: "Lacul Tuz", en: "Lake Tuz"},
+    image: "/poi-images/turkey-lake-tuz-nature-v2.webp",
     description: {
       de: "Der Tuz Gölü ist der zweitgrößte See der Türkei und einer der größten hypersalinen Seen der Welt.",
       hu: "A Tuz-tó Törökország második legnagyobb tava, és a világ egyik legnagyobb hipersós tava.",
@@ -39,9 +38,8 @@ image: "/poi-images/turkey-lake-tuz-nature-v2.webp"
     type: "lake",
     parent: "TR-32",
     coords: [30.8667, 38.0500],
-    name: { de: "Eğirdir-See", hu: "Eğirdir-tó", ro: "Lacul Eğirdir", en: "Lake Eğirdir",
-image: "/poi-images/turkey-lake-egirdir-nature-v2.webp"
-},
+    name: { de: "Eğirdir-See", hu: "Eğirdir-tó", ro: "Lacul Eğirdir", en: "Lake Eğirdir"},
+    image: "/poi-images/turkey-lake-egirdir-nature-v2.webp",
     description: {
       de: "Der Eğirdir-See ist ein Süßwassersee in der türkischen Seenregion, umgeben von malerischen Bergen.",
       hu: "Az Eğirdir-tó egy édesvizű tó a török tóvidéken, amelyet festői hegyek vesznek körül.",
@@ -72,9 +70,8 @@ image: "/poi-images/turkey-lake-egirdir-nature-v2.webp"
     type: "river",
     parent: "TR-58",
     coords: [35.9500, 41.7167],
-    name: { de: "Kızılırmak", hu: "Kızılırmak", ro: "Râul Kızılırmak", en: "Kızılırmak River",
-image: "/poi-images/turkey-kizilirmak-river-nature-v2.webp"
-},
+    name: { de: "Kızılırmak", hu: "Kızılırmak", ro: "Râul Kızılırmak", en: "Kızılırmak River"},
+    image: "/poi-images/turkey-kizilirmak-river-nature-v2.webp",
     description: {
       de: "Der Kızılırmak ist der längste ausschließlich auf türkischem Gebiet fließende Fluss und mündet ins Schwarze Meer.",
       hu: "A Kızılırmak a leghosszabb, kizárólag török területen folyó folyó, amely a Fekete-tengerbe ömlik.",
@@ -105,9 +102,8 @@ image: "/poi-images/turkey-kizilirmak-river-nature-v2.webp"
     type: "river",
     parent: "TR-54",
     coords: [30.6500, 41.1167],
-    name: { de: "Sakarya", hu: "Sakarya", ro: "Râul Sakarya", en: "Sakarya River",
-image: "/poi-images/turkey-sakarya-river-nature-v2.webp"
-},
+    name: { de: "Sakarya", hu: "Sakarya", ro: "Râul Sakarya", en: "Sakarya River"},
+    image: "/poi-images/turkey-sakarya-river-nature-v2.webp",
     description: {
       de: "Der Sakarya ist der drittlängste Fluss der Türkei und fließt durch die historische Region Phrygien ins Schwarze Meer.",
       hu: "A Sakarya Törökország harmadik leghosszabb folyója, és a történelmi Phrügia régión keresztül folyik a Fekete-tengerbe.",
@@ -138,9 +134,8 @@ image: "/poi-images/turkey-sakarya-river-nature-v2.webp"
     type: "lake",
     parent: "TR-42",
     coords: [31.5333, 37.7833],
-    name: { de: "Beyşehir-See", hu: "Beyşehir-tó", ro: "Lacul Beyşehir", en: "Lake Beyşehir",
-image: "/poi-images/turkey-lake-beysehir-nature-v2.webp"
-},
+    name: { de: "Beyşehir-See", hu: "Beyşehir-tó", ro: "Lacul Beyşehir", en: "Lake Beyşehir"},
+    image: "/poi-images/turkey-lake-beysehir-nature-v2.webp",
     description: {
       de: "Der Beyşehir-See ist der größte Süßwassersee in der Türkei und ein wichtiges Vogelschutzgebiet.",
       hu: "A Beyşehir-tó Törökország legnagyobb édesvizű tava és egy fontos madárvédelmi terület.",
@@ -171,9 +166,8 @@ image: "/poi-images/turkey-lake-beysehir-nature-v2.webp"
     type: "mountain",
     parent: "TR-38",
     coords: [35.4833, 38.5333],
-    name: { de: "Erciyes Dağı", hu: "Erciyes-hegy", ro: "Muntele Erciyes", en: "Mount Erciyes",
-image: "/poi-images/turkey-mount-erciyes-nature-v2.webp"
-},
+    name: { de: "Erciyes Dağı", hu: "Erciyes-hegy", ro: "Muntele Erciyes", en: "Mount Erciyes"},
+    image: "/poi-images/turkey-mount-erciyes-nature-v2.webp",
     description: {
       de: "Der Erciyes Dağı ist ein massiver Stratovulkan und der höchste Berg in Zentralanatolien.",
       hu: "Az Erciyes-hegy egy hatalmas rétegvulkán, és Közép-Anatólia legmagasabb hegye.",
@@ -204,9 +198,8 @@ image: "/poi-images/turkey-mount-erciyes-nature-v2.webp"
     type: "mountain",
     parent: "TR-53",
     coords: [41.1667, 40.8333],
-    name: { de: "Kaçkar-Gebirge", hu: "Kaçkar-hegység", ro: "Munții Kaçkar", en: "Kaçkar Mountains",
-image: "/poi-images/turkey-kackar-mountains-nature-v2.webp"
-},
+    name: { de: "Kaçkar-Gebirge", hu: "Kaçkar-hegység", ro: "Munții Kaçkar", en: "Kaçkar Mountains"},
+    image: "/poi-images/turkey-kackar-mountains-nature-v2.webp",
     description: {
       de: "Das Kaçkar-Gebirge ist ein eiszeitlich geprägtes Gebirgsmassiv in der östlichen Schwarzmeerregion mit dichten Wäldern und Almen.",
       hu: "A Kaçkar-hegység egy jégkorszaki eredetű hegytömb a keleti fekete-tengeri régióban, sűrű erdőkkel és havasi legelőkkel.",
@@ -237,9 +230,8 @@ image: "/poi-images/turkey-kackar-mountains-nature-v2.webp"
     type: "lake",
     parent: "TR-75",
     coords: [43.2500, 41.0500],
-    name: { de: "Çıldır-See", hu: "Çıldır-tó", ro: "Lacul Çıldır", en: "Lake Çıldır",
-image: "/poi-images/turkey-lake-cildir-nature-v2.webp"
-},
+    name: { de: "Çıldır-See", hu: "Çıldır-tó", ro: "Lacul Çıldır", en: "Lake Çıldır"},
+    image: "/poi-images/turkey-lake-cildir-nature-v2.webp",
     description: {
       de: "Der Çıldır-See ist ein großer Alpensee im Nordosten der Türkei, der im Winter komplett zufriert.",
       hu: "A Çıldır-tó egy nagy alpesi tó Törökország északkeleti részén, amely télen teljesen befagy.",
@@ -270,9 +262,8 @@ image: "/poi-images/turkey-lake-cildir-nature-v2.webp"
     type: "national-park",
     parent: "TR-14",
     coords: [31.7500, 40.9333],
-    name: { de: "Yedigöller-Nationalpark", hu: "Yedigöller Nemzeti Park", ro: "Parcul Național Yedigöller", en: "Yedigöller National Park",
-image: "/poi-images/turkey-yedigoller-national-park-nature-v2.webp"
-},
+    name: { de: "Yedigöller-Nationalpark", hu: "Yedigöller Nemzeti Park", ro: "Parcul Național Yedigöller", en: "Yedigöller National Park"},
+    image: "/poi-images/turkey-yedigoller-national-park-nature-v2.webp",
     description: {
       de: "Der Yedigöller-Nationalpark, auch Sieben Seen genannt, ist berühmt für seine farbenprächtigen Laubwälder im Herbst.",
       hu: "A Yedigöller Nemzeti Park, vagyis a Hét-tó a gyönyörű, színes őszi lombhullató erdeiről híres.",
@@ -303,9 +294,8 @@ image: "/poi-images/turkey-yedigoller-national-park-nature-v2.webp"
     type: "national-park",
     parent: "TR-07",
     coords: [31.1833, 37.1833],
-    name: { de: "Köprülü-Kanyon-Nationalpark", hu: "Köprülü-kanyon Nemzeti Park", ro: "Parcul Național Canionul Köprülü", en: "Köprülü Canyon National Park",
-image: "/poi-images/turkey-koprulu-canyon-nature-v2.webp"
-},
+    name: { de: "Köprülü-Kanyon-Nationalpark", hu: "Köprülü-kanyon Nemzeti Park", ro: "Parcul Național Canionul Köprülü", en: "Köprülü Canyon National Park"},
+    image: "/poi-images/turkey-koprulu-canyon-nature-v2.webp",
     description: {
       de: "Ein atemberaubendes Flusstal im Taurusgebirge, das für Wildwasser-Rafting und römische Steinbrücken bekannt ist.",
       hu: "Egy lélegzetelállító folyóvölgy a Torosz-hegységben, amely a vadvízi evezésről és a római kőhidakról ismert.",
@@ -336,9 +326,8 @@ image: "/poi-images/turkey-koprulu-canyon-nature-v2.webp"
     type: "national-park",
     parent: "TR-62",
     coords: [39.5000, 39.3333],
-    name: { de: "Munzur-Tal-Nationalpark", hu: "Munzur-völgy Nemzeti Park", ro: "Parcul Național Valea Munzur", en: "Munzur Valley National Park",
-image: "/poi-images/turkey-munzur-valley-nature-v2.webp"
-},
+    name: { de: "Munzur-Tal-Nationalpark", hu: "Munzur-völgy Nemzeti Park", ro: "Parcul Național Valea Munzur", en: "Munzur Valley National Park"},
+    image: "/poi-images/turkey-munzur-valley-nature-v2.webp",
     description: {
       de: "Der Munzur-Tal-Nationalpark in Ostanatolien ist geprägt von schroffen Bergen, tiefen Schluchten und seltenen Wildtierarten.",
       hu: "A kelet-anatóliai Munzur-völgy Nemzeti Parkot zord hegyek, mély szurdokok és ritka vadon élő állatok jellemzik.",
@@ -369,9 +358,8 @@ image: "/poi-images/turkey-munzur-valley-nature-v2.webp"
     type: "mountain",
     parent: "TR-13",
     coords: [42.8167, 38.9333],
-    name: { de: "Süphan Dağı", hu: "Süphan-hegy", ro: "Muntele Süphan", en: "Mount Süphan",
-image: "/poi-images/turkey-mount-suphan-nature-v2.webp"
-},
+    name: { de: "Süphan Dağı", hu: "Süphan-hegy", ro: "Muntele Süphan", en: "Mount Süphan"},
+    image: "/poi-images/turkey-mount-suphan-nature-v2.webp",
     description: {
       de: "Der Süphan Dağı ist ein ruhender Vulkan und der dritthöchste Berg der Türkei, gelegen am nördlichen Ufer des Vansees.",
       hu: "A Süphan-hegy egy szunnyadó vulkán és Törökország harmadik legmagasabb hegye, a Van-tó északi partján.",
@@ -402,9 +390,8 @@ image: "/poi-images/turkey-mount-suphan-nature-v2.webp"
     type: "forest",
     parent: "TR-34",
     coords: [28.9667, 41.2000],
-    name: { de: "Belgrader Wald", hu: "Belgrádi erdő", ro: "Pădurea Belgrad", en: "Belgrad Forest",
-image: "/poi-images/turkey-belgrad-forest-nature-v2.webp"
-},
+    name: { de: "Belgrader Wald", hu: "Belgrádi erdő", ro: "Pădurea Belgrad", en: "Belgrad Forest"},
+    image: "/poi-images/turkey-belgrad-forest-nature-v2.webp",
     description: {
       de: "Ein ausgedehnter Mischwald im Nordwesten von Istanbul, der als wichtige Frischluftquelle und Erholungsgebiet für die Stadt dient.",
       hu: "Egy kiterjedt vegyes erdő Isztambul északnyugati részén, amely fontos friss levegőforrásként és rekreációs területként szolgál a város számára.",
@@ -435,9 +422,8 @@ image: "/poi-images/turkey-belgrad-forest-nature-v2.webp"
     type: "lake",
     parent: "TR-09",
     coords: [27.4667, 37.5000],
-    name: { de: "Bafa-See", hu: "Bafa-tó", ro: "Lacul Bafa", en: "Lake Bafa",
-image: "/poi-images/turkey-lake-bafa-nature-v2.webp"
-},
+    name: { de: "Bafa-See", hu: "Bafa-tó", ro: "Lacul Bafa", en: "Lake Bafa"},
+    image: "/poi-images/turkey-lake-bafa-nature-v2.webp",
     description: {
       de: "Der Bafa-See ist ein Flachwassersee in der Ägäisregion, der einst ein Golf der Ägäis war, bevor er durch Sedimente abgetrennt wurde.",
       hu: "A Bafa-tó egy sekély vizű tó az égei-tengeri régióban, amely egykor az Égei-tenger öble volt, mielőtt üledékek elzárták volna.",
@@ -468,9 +454,8 @@ image: "/poi-images/turkey-lake-bafa-nature-v2.webp"
     type: "river",
     parent: "TR-01",
     coords: [34.9000, 36.7167],
-    name: { de: "Seyhan", hu: "Seyhan", ro: "Râul Seyhan", en: "Seyhan River",
-image: "/poi-images/turkey-seyhan-river-nature-v2.webp"
-},
+    name: { de: "Seyhan", hu: "Seyhan", ro: "Râul Seyhan", en: "Seyhan River"},
+    image: "/poi-images/turkey-seyhan-river-nature-v2.webp",
     description: {
       de: "Der Seyhan ist der längste Fluss, der in der Türkei ins Mittelmeer mündet, und durchfließt die fruchtbare Çukurova-Ebene.",
       hu: "A Seyhan a leghosszabb Törökországban a Földközi-tengerbe ömlő folyó, és a termékeny Çukurova-síkságon folyik keresztül.",
@@ -501,9 +486,8 @@ image: "/poi-images/turkey-seyhan-river-nature-v2.webp"
     type: "national-park",
     parent: "TR-51",
     coords: [35.1500, 37.8333],
-    name: { de: "Aladağlar-Nationalpark", hu: "Aladağlar Nemzeti Park", ro: "Parcul Național Aladağlar", en: "Aladağlar National Park",
-image: "/poi-images/turkey-aladaglar-nature-v2.webp"
-},
+    name: { de: "Aladağlar-Nationalpark", hu: "Aladağlar Nemzeti Park", ro: "Parcul Național Aladağlar", en: "Aladağlar National Park"},
+    image: "/poi-images/turkey-aladaglar-nature-v2.webp",
     description: {
       de: "Dieses bergige Wunderland wird oft als die Alpen der Türkei bezeichnet und bietet steile Klippen und tiefe Täler.",
       hu: "Ezt a hegyvidéki csodavilágot gyakran Törökország Alpokjának nevezik, és meredek sziklákat és mély völgyeket kínál.",
@@ -534,9 +518,8 @@ image: "/poi-images/turkey-aladaglar-nature-v2.webp"
     type: "mountain",
     parent: "TR-68",
     coords: [34.1667, 38.1333],
-    name: { de: "Hasan Dağı", hu: "Hasan-hegy", ro: "Muntele Hasan", en: "Mount Hasan",
-image: "/poi-images/turkey-mount-hasan-nature-v2.webp"
-},
+    name: { de: "Hasan Dağı", hu: "Hasan-hegy", ro: "Muntele Hasan", en: "Mount Hasan"},
+    image: "/poi-images/turkey-mount-hasan-nature-v2.webp",
     description: {
       de: "Der Hasan Dağı ist ein ruhender Doppelgipfel-Vulkan, dessen Silhouette die Landschaft von Aksaray und Niğde dominiert.",
       hu: "A Hasan-hegy egy szunnyadó, kétcsúcsú vulkán, amelynek sziluettje uralja Aksaray és Niğde táját.",
@@ -567,9 +550,8 @@ image: "/poi-images/turkey-mount-hasan-nature-v2.webp"
     type: "national-park",
     parent: "TR-10",
     coords: [26.8500, 39.7000],
-    name: { de: "Kaz Dağları Nationalpark", hu: "Kaz Dağları Nemzeti Park", ro: "Parcul Național Kaz Dağları", en: "Kaz Dağları National Park",
-image: "/poi-images/turkey-kaz-daglari-nature-v2.webp"
-},
+    name: { de: "Kaz Dağları Nationalpark", hu: "Kaz Dağları Nemzeti Park", ro: "Parcul Național Kaz Dağları", en: "Kaz Dağları National Park"},
+    image: "/poi-images/turkey-kaz-daglari-nature-v2.webp",
     description: {
       de: "Der Kaz Dağları Nationalpark, bekannt als das antike Berg Ida, ist eine üppig bewaldete Region mit reicher Mythologie.",
       hu: "A Kaz Dağları Nemzeti Park, az ókori Ida-hegyként is ismert terület egy dús erdőkkel borított régió, amely gazdag mitológiával rendelkezik.",
@@ -600,9 +582,8 @@ image: "/poi-images/turkey-kaz-daglari-nature-v2.webp"
     type: "river",
     parent: "TR-09",
     coords: [27.1833, 37.5333],
-    name: { de: "Büyük Menderes", hu: "Nagy-Menderes", ro: "Marele Meandru", en: "Büyük Menderes River",
-image: "/poi-images/turkey-buyuk-menderes-nature-v2.webp"
-},
+    name: { de: "Büyük Menderes", hu: "Nagy-Menderes", ro: "Marele Meandru", en: "Büyük Menderes River"},
+    image: "/poi-images/turkey-buyuk-menderes-nature-v2.webp",
     description: {
       de: "Der Große Mäander ist ein bedeutender Fluss in Westanatolien, der für seine stark gewundenen Kurven, die sogenannten Mäander, berühmt ist.",
       hu: "A Nagy-Menderes egy jelentős folyó Nyugat-Anatóliában, amely erősen kanyargós íveiről, az úgynevezett meanderekről híres.",
@@ -633,9 +614,8 @@ image: "/poi-images/turkey-buyuk-menderes-nature-v2.webp"
     type: "lake",
     parent: "TR-15",
     coords: [29.6833, 37.5500],
-    name: { de: "Salda-See", hu: "Salda-tó", ro: "Lacul Salda", en: "Lake Salda",
-image: "/poi-images/turkey-lake-salda-nature-v2.webp"
-},
+    name: { de: "Salda-See", hu: "Salda-tó", ro: "Lacul Salda", en: "Lake Salda"},
+    image: "/poi-images/turkey-lake-salda-nature-v2.webp",
     description: {
       de: "Der Salda-See ist ein mittelgroßer Kratersee, der wegen seines türkisfarbenen Wassers und weißen Sandes oft als die türkischen Malediven bezeichnet wird.",
       hu: "A Salda-tó egy közepes méretű krátertó, amelyet türkizkék vize és fehér homokja miatt gyakran a török Maldív-szigeteknek neveznek.",

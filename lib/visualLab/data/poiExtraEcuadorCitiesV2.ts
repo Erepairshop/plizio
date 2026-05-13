@@ -7,9 +7,8 @@ export const poiExtraEcuadorCitiesV2: POI[] = [
     type: "city",
     parent: "EC-G",
     coords: [-79.8862, -2.1961],
-    name: { de: "Guayaquil", hu: "Guayaquil", ro: "Guayaquil", en: "Guayaquil",
-image: "/poi-images/guayaquil-cities-v2.webp"
-},
+    name: { de: "Guayaquil", hu: "Guayaquil", ro: "Guayaquil", en: "Guayaquil"},
+    image: "/poi-images/guayaquil-cities-v2.webp",
     description: {
       de: "Die größte Stadt Ecuadors und das wichtigste Wirtschaftszentrum an der Pazifikküste.",
       hu: "Ecuador legnagyobb városa és legfontosabb gazdasági központja a csendes-óceáni partvidéken.",
@@ -38,9 +37,8 @@ image: "/poi-images/guayaquil-cities-v2.webp"
     type: "state-capital",
     parent: "EC-P",
     coords: [-78.5022, -0.2186],
-    name: { de: "Quito", hu: "Quito", ro: "Quito", en: "Quito",
-image: "/poi-images/quito-cities-v2.webp"
-},
+    name: { de: "Quito", hu: "Quito", ro: "Quito", en: "Quito"},
+    image: "/poi-images/quito-cities-v2.webp",
     description: {
       de: "Die hochgelegene Hauptstadt Ecuadors, bekannt für ihre gut erhaltene koloniale Altstadt.",
       hu: "Ecuador magasan fekvő fővárosa, amely jól megőrzött gyarmati óvárosáról híres.",
@@ -69,9 +67,8 @@ image: "/poi-images/quito-cities-v2.webp"
     type: "state-capital",
     parent: "EC-A",
     coords: [-79.0045, -2.9001],
-    name: { de: "Cuenca", hu: "Cuenca", ro: "Cuenca", en: "Cuenca",
-image: "/poi-images/cuenca-cities-v2.webp"
-},
+    name: { de: "Cuenca", hu: "Cuenca", ro: "Cuenca", en: "Cuenca"},
+    image: "/poi-images/cuenca-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt in den Anden, berühmt für ihre Kopfsteinpflasterstraßen und historischen Kirchen.",
       hu: "Festői andesi város, amely macskaköves utcáiról és történelmi templomairól híres.",
@@ -100,9 +97,8 @@ image: "/poi-images/cuenca-cities-v2.webp"
     type: "state-capital",
     parent: "EC-SD",
     coords: [-79.1753, -0.2530],
-    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo",
-image: "/poi-images/santo-domingo-cities-v2.webp"
-},
+    name: { de: "Santo Domingo", hu: "Santo Domingo", ro: "Santo Domingo", en: "Santo Domingo"},
+    image: "/poi-images/santo-domingo-cities-v2.webp",
     description: {
       de: "Ein wichtiger Handelsknotenpunkt zwischen der Küste und dem Hochland Ecuadors.",
       hu: "Fontos kereskedelmi csomópont Ecuador partvidéke és a hegyvidék között.",
@@ -129,9 +125,8 @@ image: "/poi-images/santo-domingo-cities-v2.webp"
     type: "state-capital",
     parent: "EC-O",
     coords: [-79.9592, -3.2581],
-    name: { de: "Machala", hu: "Machala", ro: "Machala", en: "Machala",
-image: "/poi-images/machala-cities-v2.webp"
-},
+    name: { de: "Machala", hu: "Machala", ro: "Machala", en: "Machala"},
+    image: "/poi-images/machala-cities-v2.webp",
     description: {
       de: "Wird oft als die Bananen-Hauptstadt der Welt bezeichnet.",
       hu: "Gyakran a világ banánfővárosaként is emlegetik.",
@@ -158,9 +153,8 @@ image: "/poi-images/machala-cities-v2.webp"
     type: "city",
     parent: "EC-G",
     coords: [-79.8228, -2.1704],
-    name: { de: "Durán", hu: "Durán", ro: "Durán", en: "Durán",
-image: "/poi-images/duran-cities-v2.webp"
-},
+    name: { de: "Durán", hu: "Durán", ro: "Durán", en: "Durán"},
+    image: "/poi-images/duran-cities-v2.webp",
     description: {
       de: "Eine Industriestadt, die durch eine Brücke über den Río Guayas mit Guayaquil verbunden ist.",
       hu: "Ipari város, amelyet egy híd köt össze Guayaquillal a Guayas folyó felett.",
@@ -187,9 +181,8 @@ image: "/poi-images/duran-cities-v2.webp"
     type: "city",
     parent: "EC-M",
     coords: [-80.7259, -0.9496],
-    name: { de: "Manta", hu: "Manta", ro: "Manta", en: "Manta",
-image: "/poi-images/manta-cities-v2.webp"
-},
+    name: { de: "Manta", hu: "Manta", ro: "Manta", en: "Manta"},
+    image: "/poi-images/manta-cities-v2.webp",
     description: {
       de: "Eine der größten Hafenstädte Ecuadors, berühmt für den Thunfischfang und schöne Strände.",
       hu: "Ecuador egyik legnagyobb kikötővárosa, amely a tonhalhalászatról és szép strandjairól híres.",
@@ -216,9 +209,8 @@ image: "/poi-images/manta-cities-v2.webp"
     type: "state-capital",
     parent: "EC-M",
     coords: [-80.4542, -1.0545],
-    name: { de: "Portoviejo", hu: "Portoviejo", ro: "Portoviejo", en: "Portoviejo",
-image: "/poi-images/portoviejo-cities-v2.webp"
-},
+    name: { de: "Portoviejo", hu: "Portoviejo", ro: "Portoviejo", en: "Portoviejo"},
+    image: "/poi-images/portoviejo-cities-v2.webp",
     description: {
       de: "Bekannt als die Stadt der Königlichen Tamarinden wegen der vielen Bäume in der Gegend.",
       hu: "A királyi tamarinduszok városaként is ismert a környéken található sok fa miatt.",
@@ -245,9 +237,8 @@ image: "/poi-images/portoviejo-cities-v2.webp"
     type: "state-capital",
     parent: "EC-I",
     coords: [-78.1189, 0.3517],
-    name: { de: "Ibarra", hu: "Ibarra", ro: "Ibarra", en: "Ibarra",
-image: "/poi-images/ibarra-cities-v2.webp"
-},
+    name: { de: "Ibarra", hu: "Ibarra", ro: "Ibarra", en: "Ibarra"},
+    image: "/poi-images/ibarra-cities-v2.webp",
     description: {
       de: "Die weiße Stadt wird für ihre kolonialen weißen Fassaden und das angenehme Klima geschätzt.",
       hu: "A fehér várost gyarmati fehér homlokzatai és kellemes klímája miatt kedvelik.",
@@ -274,9 +265,8 @@ image: "/poi-images/ibarra-cities-v2.webp"
     type: "city",
     parent: "EC-R",
     coords: [-79.4635, -1.0286],
-    name: { de: "Quevedo", hu: "Quevedo", ro: "Quevedo", en: "Quevedo",
-image: "/poi-images/quevedo-cities-v2.webp"
-},
+    name: { de: "Quevedo", hu: "Quevedo", ro: "Quevedo", en: "Quevedo"},
+    image: "/poi-images/quevedo-cities-v2.webp",
     description: {
       de: "Ein dynamisches Handelszentrum, das tief in einer reichen Agrarregion liegt.",
       hu: "Dinamikus kereskedelmi központ, amely egy gazdag mezőgazdasági régió mélyén fekszik.",
@@ -303,9 +293,8 @@ image: "/poi-images/quevedo-cities-v2.webp"
     type: "state-capital",
     parent: "EC-L",
     coords: [-79.2042, -3.9931],
-    name: { de: "Loja", hu: "Loja", ro: "Loja", en: "Loja",
-image: "/poi-images/loja-cities-v2.webp"
-},
+    name: { de: "Loja", hu: "Loja", ro: "Loja", en: "Loja"},
+    image: "/poi-images/loja-cities-v2.webp",
     description: {
       de: "Gilt als die Musik- und Kulturhauptstadt Ecuadors.",
       hu: "Ecuador zenei és kulturális fővárosának tartják.",
@@ -332,9 +321,8 @@ image: "/poi-images/loja-cities-v2.webp"
     type: "state-capital",
     parent: "EC-T",
     coords: [-78.6167, -1.2416],
-    name: { de: "Ambato", hu: "Ambato", ro: "Ambato", en: "Ambato",
-image: "/poi-images/ambato-cities-v2.webp"
-},
+    name: { de: "Ambato", hu: "Ambato", ro: "Ambato", en: "Ambato"},
+    image: "/poi-images/ambato-cities-v2.webp",
     description: {
       de: "Die Stadt der Blumen und Früchte, berühmt für ihr gleichnamiges jährliches Fest.",
       hu: "A virágok és gyümölcsök városa, amely az azonos nevű éves fesztiváljáról híres.",
@@ -361,9 +349,8 @@ image: "/poi-images/ambato-cities-v2.webp"
     type: "state-capital",
     parent: "EC-E",
     coords: [-79.6542, 0.9592],
-    name: { de: "Esmeraldas", hu: "Esmeraldas", ro: "Esmeraldas", en: "Esmeraldas",
-image: "/poi-images/esmeraldas-cities-v2.webp"
-},
+    name: { de: "Esmeraldas", hu: "Esmeraldas", ro: "Esmeraldas", en: "Esmeraldas"},
+    image: "/poi-images/esmeraldas-cities-v2.webp",
     description: {
       de: "Ein wichtiger Küstenort, der für seine afro-ecuadorianische Kultur und Raffinerien bekannt ist.",
       hu: "Fontos tengerparti város, amely afro-ecuadori kultúrájáról és olajfinomítóiról ismert.",
@@ -388,9 +375,8 @@ image: "/poi-images/esmeraldas-cities-v2.webp"
     type: "state-capital",
     parent: "EC-H",
     coords: [-78.6521, -1.6709],
-    name: { de: "Riobamba", hu: "Riobamba", ro: "Riobamba", en: "Riobamba",
-image: "/poi-images/riobamba-cities-v2.webp"
-},
+    name: { de: "Riobamba", hu: "Riobamba", ro: "Riobamba", en: "Riobamba"},
+    image: "/poi-images/riobamba-cities-v2.webp",
     description: {
       de: "Wird oft Sultanin der Anden genannt, umgeben von schneebedeckten Vulkanen.",
       hu: "Gyakran az Andok szultánájának nevezik, amelyet hóval borított vulkánok vesznek körül.",
@@ -415,9 +401,8 @@ image: "/poi-images/riobamba-cities-v2.webp"
     type: "city",
     parent: "EC-G",
     coords: [-79.5956, -2.1338],
-    name: { de: "Milagro", hu: "Milagro", ro: "Milagro", en: "Milagro",
-image: "/poi-images/milagro-cities-v2.webp"
-},
+    name: { de: "Milagro", hu: "Milagro", ro: "Milagro", en: "Milagro"},
+    image: "/poi-images/milagro-cities-v2.webp",
     description: {
       de: "Die süßeste Stadt Ecuadors, benannt nach der ausgedehnten Zuckerrohrproduktion.",
       hu: "Ecuador legédesebb városa, amelyet a kiterjedt cukornádtermesztésről neveztek el így.",
@@ -442,9 +427,8 @@ image: "/poi-images/milagro-cities-v2.webp"
     type: "state-capital",
     parent: "EC-X",
     coords: [-78.6155, -0.9315],
-    name: { de: "Latacunga", hu: "Latacunga", ro: "Latacunga", en: "Latacunga",
-image: "/poi-images/latacunga-cities-v2.webp"
-},
+    name: { de: "Latacunga", hu: "Latacunga", ro: "Latacunga", en: "Latacunga"},
+    image: "/poi-images/latacunga-cities-v2.webp",
     description: {
       de: "Eine koloniale Stadt nahe dem Vulkan Cotopaxi, bekannt für das Fest der Mama Negra.",
       hu: "Gyarmati város a Cotopaxi vulkán közelében, amely a Mama Negra fesztiválról ismert.",
@@ -469,9 +453,8 @@ image: "/poi-images/latacunga-cities-v2.webp"
     type: "city",
     parent: "EC-SE",
     coords: [-80.9080, -2.2330],
-    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad",
-image: "/poi-images/la-libertad-cities-v2.webp"
-},
+    name: { de: "La Libertad", hu: "La Libertad", ro: "La Libertad", en: "La Libertad"},
+    image: "/poi-images/la-libertad-cities-v2.webp",
     description: {
       de: "Das wirtschaftliche Zentrum der Halbinsel Santa Elena und ein wichtiger Knotenpunkt an der Küste.",
       hu: "A Santa Elena-félsziget gazdasági központja és a tengerpart fontos csomópontja.",
@@ -496,9 +479,8 @@ image: "/poi-images/la-libertad-cities-v2.webp"
     type: "state-capital",
     parent: "EC-R",
     coords: [-79.5305, -1.8021],
-    name: { de: "Babahoyo", hu: "Babahoyo", ro: "Babahoyo", en: "Babahoyo",
-image: "/poi-images/babahoyo-cities-v2.webp"
-},
+    name: { de: "Babahoyo", hu: "Babahoyo", ro: "Babahoyo", en: "Babahoyo"},
+    image: "/poi-images/babahoyo-cities-v2.webp",
     description: {
       de: "Eine Flussstadt umgeben von üppiger Natur und großen Reisfeldern.",
       hu: "Folyóparti város, amelyet buja természet és nagy rizsföldek vesznek körül.",
@@ -523,9 +505,8 @@ image: "/poi-images/babahoyo-cities-v2.webp"
     type: "city",
     parent: "EC-P",
     coords: [-78.4485, -0.3340],
-    name: { de: "Sangolquí", hu: "Sangolquí", ro: "Sangolquí", en: "Sangolquí",
-image: "/poi-images/sangolqui-cities-v2.webp"
-},
+    name: { de: "Sangolquí", hu: "Sangolquí", ro: "Sangolquí", en: "Sangolquí"},
+    image: "/poi-images/sangolqui-cities-v2.webp",
     description: {
       de: "Ein ruhiger Vorort von Quito, berühmt für sein traditionelles Schweinefleischgericht Hornado.",
       hu: "Quito csendes külvárosa, amely hagyományos sertéshúsételéről, a Hornadóról híres.",
@@ -550,9 +531,8 @@ image: "/poi-images/sangolqui-cities-v2.webp"
     type: "city",
     parent: "EC-G",
     coords: [-79.9774, -1.8617],
-    name: { de: "Daule", hu: "Daule", ro: "Daule", en: "Daule",
-image: "/poi-images/daule-cities-v2.webp"
-},
+    name: { de: "Daule", hu: "Daule", ro: "Daule", en: "Daule"},
+    image: "/poi-images/daule-cities-v2.webp",
     description: {
       de: "Bekannt als die Reishauptstadt Ecuadors wegen der enormen Produktion dieses Getreides.",
       hu: "Ecuador rizsfővárosaként ismert e gabona hatalmas termelése miatt.",
@@ -577,9 +557,8 @@ image: "/poi-images/daule-cities-v2.webp"
     type: "state-capital",
     parent: "EC-C",
     coords: [-77.7170, 0.8123],
-    name: { de: "Tulcán", hu: "Tulcán", ro: "Tulcán", en: "Tulcán",
-image: "/poi-images/tulcan-cities-v2.webp"
-},
+    name: { de: "Tulcán", hu: "Tulcán", ro: "Tulcán", en: "Tulcán"},
+    image: "/poi-images/tulcan-cities-v2.webp",
     description: {
       de: "Die nördlichste Stadt Ecuadors an der Grenze zu Kolumbien, bekannt für ihren einzigartigen Friedhof.",
       hu: "Ecuador legészakibb városa a kolumbiai határon, amely egyedülálló temetőjéről ismert.",
@@ -591,15 +570,27 @@ image: "/poi-images/tulcan-cities-v2.webp"
       hu: ["A tulcáni temetőben művészi sövényszobrok találhatók.", "A legmagasabban fekvő tartományi főváros Ecuadorban (2950 m).", "Fontos határátkelőhely a kereskedelem számára.", "Az éghajlat egész évben hűvös."],
       ro: ["Cimitirul din Tulcán prezintă sculpturi vegetale artistice.", "Cea mai înaltă capitală de provincie din Ecuador (2.950 m).", "Un post de frontieră important pentru comerț.", "Clima este răcoroasă pe tot parcursul anului."],
       en: ["The cemetery of Tulcán features artistic topiary.", "Highest provincial capital in Ecuador (2,950 m).", "An important border crossing for trade.", "The climate is cool year-round."]
-    }, image: "/poi-images/tulcan-cities-v2.webp"},
+    }, image: "/poi-images/tulcan-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tulcán ist die Hauptstadt der Provinz Carchi in Ecuador, nahe der Grenze zu Kolumbien. Die Stadt liegt auf 2.950 Metern Höhe in den Anden. Sie wurde 1852 gegründet und hat etwa 90.000 Einwohner. Tulcán ist bekannt für seinen Friedhof mit kunstvoll geschnittenen Zypressenhecken. Die Wirtschaft basiert auf Landwirtschaft (Kartoffeln, Gerste) und Handel mit Kolumbien. Die Stadt war vom Grenzkonflikt zwischen Ecuador und Kolumbien betroffen. Tulcán hat ein kaltes Andenklima mit durchschnittlich 10°C. Der Fluss Chico fließt durch die Stadt. Sehenswürdigkeiten sind die Kathedrale San Miguel und das Museo de la Ciudad.",
+      hu: "Tulcán Ecuador északi határvárosa, a Carchi tartomány székhelye. A város 2.950 méteres tengerszint feletti magasságban fekszik. Lakossága körülbelül 90.000 fő. Gazdaságát a mezőgazdaság és a határ menti kereskedelem jellemzi. A város híres a Cementerio de Tulcán temetőről, ahol a ciprusfákat állat- és emberformákra nyírják. Az éghajlat hideg, évi 800 mm csapadékkal. A város fontos közlekedési csomópont, itt halad át a Panamerikai főút. A környéken termálforrások találhatók. Tulcánban számos katonai bázis is van a határ miatt.",
+      ro: "Tulcán este un oraș din nordul Ecuadorului, capitala provinciei Carchi, situat la o altitudine de 2.950 m în Anzi. Populația este de aproximativ 90.000 de locuitori. Orașul este cunoscut pentru cimitirul său cu garduri vii de chiparoși tăiate artistic. Economia se bazează pe agricultură (cartofi, orz) și comerțul transfrontalier cu Columbia. Clima este rece, cu o medie de 10°C. Tulcán a fost afectat de conflictul armat columbian, primind refugiați. Atracțiile includ Catedrala San Miguel și Muzeul orașului. Transportul rutier este bine dezvoltat, cu autobuze regulate spre Quito.",
+      en: "Tulcán is the capital of Carchi Province in northern Ecuador, located in the Andes at 2,950 m elevation. It is the northernmost city in Ecuador, just 7 km from the Colombia border. The population is around 90,000. The city is famous for the Tulcán Cemetery, where cypress trees are sculpted into intricate shapes. The economy is driven by agriculture and border trade. Tulcán experiences a cold highland climate with an average temperature of 10°C. The city was founded in 1852 and has a grid layout. Significant earthquakes have struck the area, including a 7.2 magnitude quake in 2010. The nearby El Ángel Ecological Reserve protects páramo grasslands.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.950 m", "Einwohnerzahl: 90.000", "Gründungsjahr: 1852", "Durchschnittstemperatur: 10°C", "Entfernung zur kolumbianischen Grenze: 7 km", "Fläche des Friedhofs: 8 Hektar"],
+      hu: ["Tengerszint feletti magasság: 2.950 m", "Lakosság: 90.000 fő", "Alapítás éve: 1852", "Átlaghőmérséklet: 10°C", "Távolság a kolumbiai határtól: 7 km", "Temető területe: 8 hektár"],
+      ro: ["Altitudine: 2.950 m", "Populație: 90.000 locuitori", "Anul înființării: 1852", "Temperatura medie: 10°C", "Distanța până la granița columbiană: 7 km", "Suprafața cimitirului: 8 ha"],
+      en: ["Elevation: 2,950 m", "Population: 90,000", "Founded: 1852", "Average temperature: 10°C", "Distance to Colombian border: 7 km", "Cemetery area: 8 ha"],
+    },
+  },
   {
     id: "chone-cities-v2",
     type: "city",
     parent: "EC-M",
     coords: [-80.0934, -0.6981],
-    name: { de: "Chone", hu: "Chone", ro: "Chone", en: "Chone",
-image: "/poi-images/chone-cities-v2.webp"
-},
+    name: { de: "Chone", hu: "Chone", ro: "Chone", en: "Chone"},
+    image: "/poi-images/chone-cities-v2.webp",
     description: {
       de: "Ein Zentrum für Rinderzucht und landwirtschaftliche Traditionen in Manabí.",
       hu: "A szarvasmarha-tenyésztés és a mezőgazdasági hagyományok központja Manabíban.",
@@ -611,15 +602,27 @@ image: "/poi-images/chone-cities-v2.webp"
       hu: ["Híres a kiváló minőségű kakaó termeléséről.", "A helyi sajtgyártás nagyon ismert.", "Az ecuadori Montubio örökség központja.", "A város a múltban súlyos áradásokat élt át."],
       ro: ["Faimos pentru producția de cacao de înaltă calitate.", "Producția locală de brânză este foarte cunoscută.", "Centrul patrimoniului montubio ecuadorian.", "Orașul a suferit inundații puternice în trecut."],
       en: ["Famous for the production of high-quality cocoa.", "Local cheese production is highly renowned.", "Center of the Ecuadorian Montubio heritage.", "The city has experienced severe flooding in the past."]
-    }, image: "/poi-images/chone-cities-v2.webp"},
+    }, image: "/poi-images/chone-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chone ist eine Stadt in der Provinz Manabí in Ecuador, etwa 150 km nordwestlich von Guayaquil. Sie liegt im Tal des Flusses Chone auf 80 Metern Höhe. Die Stadt hat etwa 80.000 Einwohner und ist ein landwirtschaftliches Zentrum. Angebaut werden Kakao, Kaffee und tropische Früchte. Chone ist bekannt für seine traditionellen Holzhäuser mit Balustraden. Das Klima ist tropisch feucht, mit einer Regenzeit von Januar bis Mai. Die Stadt hat einen kleinen Flughafen. In der Umgebung gibt es Wasserfälle und Naturreservate. Die Wirtschaft wird auch von der Fischerei im nahen Pazifik beeinflusst.",
+      hu: "Chone város Ecuador Manabí tartományában, a Chone folyó völgyében fekszik. Lakossága 80.000 fő. A város fontos mezőgazdasági központ, főként kakaó- és kávétermesztéssel. A trópusi éghajlat meleg és párás, az éves csapadék 1.500 mm. Chone építészetét a gyarmati stílusú faházak jellemzik. A közeli Paseo de la Chorrera vízesés népszerű turistacélpont. A város a Manabí-vidék kulturális központja, híres a helyi zenéről és táncokról. A gazdaságban a mezőgazdaság mellett a halászat is jelentős.",
+      ro: "Chone este un oraș în provincia Manabí, Ecuador, situat în valea râului Chone, la o altitudine de 80 m. Populația este de aproximativ 80.000 de locuitori. Economia se bazează pe agricultură, în special cacao, cafea și fructe. Clima este tropicală umedă, cu precipitații de 1.500 mm anual. Orașul este cunoscut pentru arhitectura sa colonială din lemn. Atracțiile includ Cascada La Chorrera și Rezervația Naturală La Perla. Chone este un nod rutier important, conectat la Guayaquil și Manta. Festivalurile locale celebrează cultura montubia.",
+      en: "Chone is a city in Manabí Province, Ecuador, located in the Chone River valley at 80 m elevation. It has a population of approximately 80,000. The city serves as an agricultural hub for the region, producing cocoa, coffee, and tropical fruits. Chone experiences a tropical wet climate with 1,500 mm of rainfall annually. The city's architecture features traditional wooden houses with overhanging eaves. Nearby attractions include the La Chorrera waterfall and the Machalilla National Park on the coast. Chone is connected by road to major cities and has a regional airport. The economy also benefits from fishing and small-scale industries.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 80 m", "Einwohner: 80.000", "Jährlicher Niederschlag: 1.500 mm", "Entfernung zu Guayaquil: 150 km", "Kakaoproduktion jährlich: 10.000 Tonnen", "Anzahl der historischen Holzhäuser: 200"],
+      hu: ["Tengerszint feletti magasság: 80 m", "Lakosság: 80.000 fő", "Éves csapadék: 1.500 mm", "Távolság Guayaquiltől: 150 km", "Éves kakaótermelés: 10.000 tonna", "Múltbéli faházak száma: 200"],
+      ro: ["Altitudine: 80 m", "Populație: 80.000 locuitori", "Precipitații anuale: 1.500 mm", "Distanța până la Guayaquil: 150 km", "Producție cacao: 10.000 tone/an", "Număr case istorice din lemn: 200"],
+      en: ["Elevation: 80 m", "Population: 80,000", "Annual rainfall: 1,500 mm", "Distance to Guayaquil: 150 km", "Cocoa production: 10,000 tons/year", "Number of historical wooden houses: 200"],
+    },
+  },
   {
     id: "pasaje-cities-v2",
     type: "city",
     parent: "EC-O",
     coords: [-79.8055, -3.3255],
-    name: { de: "Pasaje", hu: "Pasaje", ro: "Pasaje", en: "Pasaje",
-image: "/poi-images/pasaje-cities-v2.webp"
-},
+    name: { de: "Pasaje", hu: "Pasaje", ro: "Pasaje", en: "Pasaje"},
+    image: "/poi-images/pasaje-cities-v2.webp",
     description: {
       de: "Eine sonnige Stadt, deren Wirtschaft stark vom Bananen- und Kakaoanbau abhängt.",
       hu: "Napfényes város, amelynek gazdasága erősen függ a banán- és kakaótermesztéstől.",
@@ -631,15 +634,27 @@ image: "/poi-images/pasaje-cities-v2.webp"
       hu: ["Nevét az Andokba vezető természetes átjáróról kapta.", "A Jubones folyó mentén található.", "Fontos csomópont a mezőgazdasági termékek szállításában.", "A mezőgazdaság határozza meg a város ritmusát."],
       ro: ["Numit după trecerea naturală către Anzi.", "Situat pe râul Jubones.", "Un nod important pentru transportul produselor agricole.", "Agricultura determină ritmul orașului."],
       en: ["Named after the natural passage into the Andes.", "Located on the Jubones River.", "An important hub for the transport of agricultural goods.", "Agriculture dictates the rhythm of the city."]
-    }, image: "/poi-images/pasaje-cities-v2.webp"},
+    }, image: "/poi-images/pasaje-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pasaje ist eine Stadt in der Provinz El Oro im Süden Ecuadors, etwa 20 km nördlich von Machala. Sie liegt auf 20 Metern Höhe im Tal des Flusses Pasaje. Die Stadt hat etwa 80.000 Einwohner und ist ein Zentrum des Bananenanbaus. Das Klima ist tropisch mit einer Durchschnittstemperatur von 25°C. Pasaje wurde 1824 gegründet und hat einen kolonialen Stadtkern. Die Wirtschaft basiert auf Landwirtschaft und Handel. Der Fluss ist schiffbar für kleine Boote. In der Umgebung gibt es Mangrovenwälder. Die Stadt ist durch die Autobahn mit Guayaquil verbunden.",
+      hu: "Pasaje város Ecuador déli részén, El Oro tartományban. Tengerszint feletti magassága 20 m. A város lakossága kb. 80.000 fő. A térség a banántermesztés egyik központja, évi 500.000 tonna termeléssel. Az éghajlat forró és párás, az éves csapadék 1.000 mm. A város neve spanyolul 'átjáró'-t jelent, ami a folyón való átkelésre utal. A helyi gazdaságban a mezőgazdaság mellett a haltenyésztés is fontos. Pasajénak van kórháza, egyeteme és stadionja. A közeli Jambelí-sziget turisztikai célpont.",
+      ro: "Pasaje este un oraș în provincia El Oro, Ecuador, situat pe malul râului Pasaje, la 20 m altitudine. Populația este de aproximativ 80.000 de locuitori. Orașul este un centru major de producție a bananelor, cu o producție anuală de 500.000 tone. Clima este tropicală, cu temperaturi medii de 25°C. Fondat în 1824, Pasaje are o arhitectură colonială. Economia include agricultura, pescuitul și comerțul. Râul este navigabil pentru nave mici. Atracțiile includ Insula Jambelí și plajele din apropiere. Transportul se face pe drumul național Machala-Guayaquil.",
+      en: "Pasaje is a city in El Oro Province, southern Ecuador, located on the Pasaje River at 20 m elevation. The population is around 80,000. It is a major banana-producing center, with over 500,000 tons annually. The climate is warm and humid, averaging 25°C. Founded in 1824, the city retains colonial charm. The economy relies on agriculture, including bananas, shrimp farming, and coffee. The Pasaje River serves as a waterway for local transport. Nearby attractions include the Jambelí archipelago and Arenillas Ecological Reserve. The city has a university and a stadium. The main road connects to Machala and Guayaquil.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 20 m", "Einwohner: 80.000", "Durchschnittstemperatur: 25°C", "Jährliche Bananenproduktion: 500.000 Tonnen", "Gründungsjahr: 1824", "Fläche des Stadtgebiets: 15 km²"],
+      hu: ["Tengerszint feletti magasság: 20 m", "Lakosság: 80.000 fő", "Átlaghőmérséklet: 25°C", "Éves banántermelés: 500.000 tonna", "Alapítás éve: 1824", "Város területe: 15 km²"],
+      ro: ["Altitudine: 20 m", "Populație: 80.000 locuitori", "Temperatura medie: 25°C", "Producția anuală de banane: 500.000 tone", "Anul înființării: 1824", "Suprafața orașului: 15 km²"],
+      en: ["Elevation: 20 m", "Population: 80,000", "Average temperature: 25°C", "Annual banana production: 500,000 tons", "Founded: 1824", "City area: 15 km²"],
+    },
+  },
   {
     id: "santa-rosa-cities-v2",
     type: "city",
     parent: "EC-O",
     coords: [-79.9588, -3.4488],
-    name: { de: "Santa Rosa", hu: "Santa Rosa", ro: "Santa Rosa", en: "Santa Rosa",
-image: "/poi-images/santa-rosa-cities-v2.webp"
-},
+    name: { de: "Santa Rosa", hu: "Santa Rosa", ro: "Santa Rosa", en: "Santa Rosa"},
+    image: "/poi-images/santa-rosa-cities-v2.webp",
     description: {
       de: "Bekannt für seine exzellente Garnelenzucht und den kleinen regionalen Flughafen.",
       hu: "Kiváló garnélarák-tenyésztéséről és kis regionális repülőteréről ismert.",
@@ -651,15 +666,27 @@ image: "/poi-images/santa-rosa-cities-v2.webp"
       hu: ["Ecuador garnélarák-fővárosának tartják.", "Itt található a Santa Rosa repülőtér.", "Fontos mezőgazdasági termelő El Oróban.", "A város évente nagy rákfesztivált ünnepel."],
       ro: ["Considerată capitala creveților din Ecuador.", "Aici se află aeroportul Santa Rosa.", "Un producător agricol important în El Oro.", "Orașul sărbătorește anual un mare festival al crabilor."],
       en: ["Considered the shrimp capital of Ecuador.", "The Santa Rosa airport is located here.", "An important agricultural producer in El Oro.", "The city celebrates a large crab festival annually."]
-    }, image: "/poi-images/santa-rosa-cities-v2.webp"},
+    }, image: "/poi-images/santa-rosa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Santa Rosa ist eine Stadt in der Provinz El Oro im Südwesten Ecuadors, nahe der peruanischen Grenze. Sie liegt auf 50 Metern Höhe und hat etwa 70.000 Einwohner. Die Stadt ist ein wichtiger Grenzübergang für den Handel mit Peru. Die Wirtschaft basiert auf Landwirtschaft (Bananen, Kaffee) und Fischerei. Santa Rosa wurde 1858 gegründet. Das Klima ist tropisch mit einer Regenzeit von Januar bis Mai. Die Stadt hat einen Flughafen (Santa Rosa International Airport) und ist durch die Panamericana verbunden. Sehenswürdigkeiten sind die Kirche Unbefleckte Empfängnis und das Museum der Stadt.",
+      hu: "Santa Rosa Ecuador délnyugati részén, El Oro tartományban, a perui határ közelében fekszik. A város 50 m magasan van, lakossága kb. 70.000 fő. A határátkelő forgalmas, évi 1 millió ember lépi át itt a határt. A gazdaság a mezőgazdaságon (banán, kávé) és a halászaton alapul. Santa Rosa repülőtere nemzetközi járatokat is fogad. Az éghajlat trópusi, évi 1.200 mm csapadékkal. A városban egyetem is működik. A közeli Arenillas-víztározó öntözési célokat szolgál.",
+      ro: "Santa Rosa este un oraș în provincia El Oro, Ecuador, aproape de granița cu Peru, la 50 m altitudine. Populația este de aproximativ 70.000 de locuitori. Orașul este un punct de frontieră important, cu un trafic anual de peste 1 milion de persoane. Economia se bazează pe agricultură (banane, cafea) și pescuit. Aeroportul Internațional Santa Rosa deservește orașul. Clima este tropicală, cu precipitații de 1.200 mm anual. Fondat în 1858, orașul are o arhitectură modernă. Atracțiile includ Catedrala Santa Rosa și Malecónul de pe râul Jubones.",
+      en: "Santa Rosa is a city in El Oro Province, southwestern Ecuador, near the Peruvian border at 50 m elevation. It has a population of about 70,000. The city is a key border crossing, with over 1 million people crossing annually. The economy depends on agriculture (bananas, coffee) and fishing. Santa Rosa International Airport connects to Quito and Guayaquil. The climate is tropical, with 1,200 mm of rain per year. Founded in 1858, the city has grown due to trade. The Jubones River runs through the city. Nearby attractions include the Arenillas Reservoir and the beaches of Puerto Bolívar.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 50 m", "Einwohner: 70.000", "Jährliche Grenzübertritte: 1 Million", "Gründungsjahr: 1858", "Jährlicher Niederschlag: 1.200 mm", "Flughafen: Santa Rosa International"],
+      hu: ["Tengerszint feletti magasság: 50 m", "Lakosság: 70.000 fő", "Éves határátlépések: 1 millió", "Alapítás éve: 1858", "Éves csapadék: 1.200 mm", "Repülőtér: Santa Rosa nemzetközi repülőtér"],
+      ro: ["Altitudine: 50 m", "Populație: 70.000 locuitori", "Tranzacții anuale la frontieră: 1 milion", "Anul înființării: 1858", "Precipitații anuale: 1.200 mm", "Aeroport: Santa Rosa Internațional"],
+      en: ["Elevation: 50 m", "Population: 70,000", "Annual border crossings: 1 million", "Founded: 1858", "Annual rainfall: 1,200 mm", "Airport: Santa Rosa International"],
+    },
+  },
   {
     id: "nueva-loja-cities-v2",
     type: "state-capital",
     parent: "EC-U",
     coords: [-76.8828, 0.0847],
-    name: { de: "Nueva Loja", hu: "Nueva Loja", ro: "Nueva Loja", en: "Nueva Loja",
-image: "/poi-images/nueva-loja-cities-v2.webp"
-},
+    name: { de: "Nueva Loja", hu: "Nueva Loja", ro: "Nueva Loja", en: "Nueva Loja"},
+    image: "/poi-images/nueva-loja-cities-v2.webp",
     description: {
       de: "Auch bekannt als Lago Agrio, ist es die wichtigste Ölstadt im ecuadorianischen Amazonasgebiet.",
       hu: "Lago Agrio néven is ismert, az ecuadori Amazonas-medence legfontosabb olajvárosa.",
@@ -671,15 +698,27 @@ image: "/poi-images/nueva-loja-cities-v2.webp"
       hu: ["Sucumbíos tartomány fővárosa.", "Az 1960-as évek olajbúmja hozta létre.", "A Cuyabeno Természetvédelmi Terület kapuja.", "Nagyon sokszínű bevándorló lakossággal rendelkezik."],
       ro: ["Capitala provinciei Sucumbíos.", "A fost înființat în anii 1960 datorită boom-ului petrolier.", "Poarta către Rezervația Naturală Cuyabeno.", "Are o populație de migranți foarte diversă."],
       en: ["Capital of the Sucumbíos province.", "Established in the 1960s due to the oil boom.", "The gateway to the Cuyabeno Nature Reserve.", "Has a very diverse migrant population."]
-    }, image: "/poi-images/nueva-loja-cities-v2.webp"},
+    }, image: "/poi-images/nueva-loja-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nueva Loja (auch Lago Agrio) ist die Hauptstadt der Provinz Sucumbíos im Amazonasbecken Ecuadors. Sie liegt auf 300 Metern Höhe am Fluss Aguarico. Die Stadt hat etwa 100.000 Einwohner und ist das Zentrum der ecuadorianischen Erdölförderung. Nueva Loja wurde 1970 gegründet und wuchs schnell durch den Ölboom. Das Klima ist tropisch feucht mit bis zu 3.000 mm Niederschlag jährlich. Die Stadt hat einen Flughafen. Die Umgebung ist von Regenwald geprägt, aber die Ölförderung hat zu Umweltproblemen geführt. Sehenswürdigkeiten sind der See Lago Agrio und das Museo Amazónico. Die Bevölkerung ist multikulturell, mit indigenen und zugewanderten Gruppen.",
+      hu: "Nueva Loja Ecuador Amazonas-medencéjének központja, Sucumbíos tartomány székhelye. A város 300 m magasan fekszik, lakossága 100.000 fő. A gazdaságot az olajkitermelés uralja, a város az 1970-es évek olajlázában nőtt ki. A csapadék évi 3.000 mm, az éghajlat párás. A környező esőerdők biológiailag rendkívül gazdagok. Az olajtermelés azonban szennyezést okozott. A városban van egyetem és repülőtér. A közeli Cuyabeno-rezervátum turisztikai célpont. Nueva Loja multikulturális város, számos etnikai csoporttal.",
+      ro: "Nueva Loja, cunoscut și ca Lago Agrio, este capitala provinciei Sucumbíos din Ecuador, situată în bazinul Amazonului la 300 m altitudine. Populația este de aproximativ 100.000 de locuitori. Orașul este centrul extracției de petrol din Ecuador, înființat în 1970. Clima este tropicală umedă, cu precipitații de 3.000 mm anual. Aeroportul Nueva Loja asigură legături aeriene. Împrejurimile sunt acoperite de păduri tropicale, dar poluarea cu petrol a afectat mediul. Atracțiile includ Rezervația Cuyabeno și laguna Lago Agrio. Populația include grupuri indigene Cofán și coloniști.",
+      en: "Nueva Loja, also known as Lago Agrio, is the capital of Sucumbíos Province in the Ecuadorian Amazon, at 300 m elevation. It has a population of 100,000. The city was founded in 1970 and grew rapidly as the center of Ecuador's oil industry. The climate is tropical rainforest, with 3,000 mm of rain annually. The Aguarico River passes through the city. Nueva Loja has an airport and a university. The surrounding rainforest is biodiversity hotspot, but oil extraction has caused environmental damage. Key attractions include the Cuyabeno Wildlife Reserve and local indigenous communities. The population is diverse, with mestizos and indigenous groups like the Cofán and Secoya.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 300 m", "Einwohner: 100.000", "Gründungsjahr: 1970", "Jährlicher Niederschlag: 3.000 mm", "Tägliche Erdölproduktion: 500.000 Barrel", "Flughafen: Nueva Loja Airport"],
+      hu: ["Tengerszint feletti magasság: 300 m", "Lakosság: 100.000 fő", "Alapítás éve: 1970", "Éves csapadék: 3.000 mm", "Napi olajtermelés: 500.000 hordó", "Repülőtér: Nueva Loja repülőtér"],
+      ro: ["Altitudine: 300 m", "Populație: 100.000 locuitori", "Anul înființării: 1970", "Precipitații anuale: 3.000 mm", "Producție zilnică de petrol: 500.000 barili", "Aeroport: Nueva Loja"],
+      en: ["Elevation: 300 m", "Population: 100,000", "Founded: 1970", "Annual rainfall: 3,000 mm", "Daily oil production: 500,000 barrels", "Airport: Nueva Loja Airport"],
+    },
+  },
   {
     id: "huaquillas-cities-v2",
     type: "city",
     parent: "EC-O",
     coords: [-80.2307, -3.4752],
-    name: { de: "Huaquillas", hu: "Huaquillas", ro: "Huaquillas", en: "Huaquillas",
-image: "/poi-images/huaquillas-cities-v2.webp"
-},
+    name: { de: "Huaquillas", hu: "Huaquillas", ro: "Huaquillas", en: "Huaquillas"},
+    image: "/poi-images/huaquillas-cities-v2.webp",
     description: {
       de: "Eine geschäftige Grenzstadt, die den Haupthandelsübergang zwischen Ecuador und Peru darstellt.",
       hu: "Forgalmas határváros, amely Ecuador és Peru közötti fő kereskedelmi átkelőhely.",
@@ -691,15 +730,27 @@ image: "/poi-images/huaquillas-cities-v2.webp"
       hu: ["A Zarumilla folyó választja el Perutól.", "A kereskedelem a fő bevételi forrás.", "Sok perui vásárlót vonz.", "A két ország kultúrájának olvasztótégelye."],
       ro: ["Separat de Peru prin râul Zarumilla.", "Comerțul este principala sursă de venit.", "Atrage mulți cumpărători peruvieni.", "Un creuzet al culturilor din ambele țări."],
       en: ["Separated from Peru by the Zarumilla River.", "Commerce is the main source of income.", "Attracts many Peruvian shoppers.", "A melting pot of cultures from both countries."]
-    }, image: "/poi-images/huaquillas-cities-v2.webp"},
+    }, image: "/poi-images/huaquillas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Huaquillas ist eine Stadt in der Provinz El Oro im Südwesten Ecuadors, direkt an der Grenze zu Peru. Sie liegt auf 10 Metern Höhe und hat etwa 50.000 Einwohner. Die Stadt ist ein wichtiger Handelsknotenpunkt, mit einem regen Grenzverkehr. Die Wirtschaft basiert auf Handel, Dienstleistungen und Fischerei. Huaquillas wurde 1934 gegründet. Das Klima ist tropisch trocken, mit einer Durchschnittstemperatur von 27°C. Der Fluss Zarumilla bildet die Grenze zu Peru. Die Stadt hat einen busigen Grenzmarkt. Sehenswürdigkeiten sind die Strandpromenade und die internationale Brücke.",
+      hu: "Huaquillas Ecuador délnyugati határvárosa, El Oro tartományban. Tengerszint feletti magassága 10 m. Lakossága 50.000 fő. A város a perui határátkelőhely, ahol élénk a kereskedelem. Az éghajlat forró és száraz, évi 500 mm csapadékkal. Az átlaghőmérséklet 27°C. A Zarumilla folyó választja el Perutól. Huaquillasban számos vámraktár található. 1934-ben alapították. A közeli Puerto Bolívar halászati kikötő. A városban egyetemi kar is működik. A turizmus a határ miatt jelentős.",
+      ro: "Huaquillas este un oraș de frontieră în provincia El Oro, Ecuador, la altitudinea de 10 m, cu o populație de 50.000 de locuitori. Orașul este un punct comercial activ între Ecuador și Peru. Clima este tropicală uscată, cu precipitații de 500 mm anual. Temperatura medie este de 27°C. Fondat în 1934, orașul s-a dezvoltat datorită comerțului. Râul Zarumilla marchează granița. Huaquillas are un pod internațional și o piață liberă. Economia se bazează pe comerț, pescuit și servicii. Atracțiile includ plajele din apropiere și centrul comercial de frontieră.",
+      en: "Huaquillas is a border city in El Oro Province, southwestern Ecuador, located at 10 m elevation. Population is approximately 50,000. It sits on the Zarumilla River, which forms the border with Peru. The city is a major crossing point for trade and tourism. Climate is hot and arid, with only 500 mm of rain per year. Average temperature is 27°C. Founded in 1934, Huaquillas has grown into a bustling commercial hub. The economy is driven by cross-border commerce, including a duty-free zone. Nearby attractions include the beaches of Puerto Bolívar and the international bridge. The city has a university campus and a hospital.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 10 m", "Einwohner: 50.000", "Gründungsjahr: 1934", "Durchschnittstemperatur: 27°C", "Jährlicher Niederschlag: 500 mm", "Länge der Grenzbrücke: 200 m"],
+      hu: ["Tengerszint feletti magasság: 10 m", "Lakosság: 50.000 fő", "Alapítás éve: 1934", "Átlaghőmérséklet: 27°C", "Éves csapadék: 500 mm", "Határhíd hossza: 200 m"],
+      ro: ["Altitudine: 10 m", "Populație: 50.000 locuitori", "Anul înființării: 1934", "Temperatura medie: 27°C", "Precipitații anuale: 500 mm", "Lungimea podului internațional: 200 m"],
+      en: ["Elevation: 10 m", "Population: 50,000", "Founded: 1934", "Average temperature: 27°C", "Annual rainfall: 500 mm", "International bridge length: 200 m"],
+    },
+  },
   {
     id: "el-carmen-cities-v2",
     type: "city",
     parent: "EC-M",
     coords: [-79.4589, -0.2741],
-    name: { de: "El Carmen", hu: "El Carmen", ro: "El Carmen", en: "El Carmen",
-image: "/poi-images/el-carmen-cities-v2.webp"
-},
+    name: { de: "El Carmen", hu: "El Carmen", ro: "El Carmen", en: "El Carmen"},
+    image: "/poi-images/el-carmen-cities-v2.webp",
     description: {
       de: "Bekannt als das Goldene Tor zu Manabí und berühmt für die Produktion von Kochbananen.",
       hu: "Manabí aranykapujaként ismert, és a főzőbanán termeléséről híres.",
@@ -711,15 +762,27 @@ image: "/poi-images/el-carmen-cities-v2.webp"
       hu: ["A Barraganete főzőbanán legnagyobb termelője Ecuadorban.", "Fontos közlekedési csomópont a partvidék és a hegyvidék között.", "A mezőgazdaság a legfontosabb gazdasági ágazat.", "A város évente megünnepli a főzőbanán fesztiválját."],
       ro: ["Cel mai mare producător de pătlagini Barraganete din Ecuador.", "Un nod important de transport între coastă și zona montană.", "Agricultura este cea mai importantă ramură economică.", "Orașul sărbătorește anual festivalul pătlaginii."],
       en: ["Largest producer of the Barraganete plantain in Ecuador.", "An important transport hub between the coast and the highlands.", "Agriculture is the most important economic sector.", "The city annually celebrates the Plantain Festival."]
-    }, image: "/poi-images/el-carmen-cities-v2.webp"},
+    }, image: "/poi-images/el-carmen-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "El Carmen ist eine Stadt in der Provinz Manabí im Westen Ecuadors. Sie liegt auf 100 Metern Höhe und hat etwa 70.000 Einwohner. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Kaffee, Kakao und tropischen Früchten. El Carmen wurde 1925 gegründet. Das Klima ist tropisch feucht mit einer Regenzeit von Januar bis Mai. Die Stadt hat eine Kathedrale, einen Markt und ein Kulturzentrum. In der Umgebung gibt es Wanderwege und Wasserfälle. Die Wirtschaft wird auch von der Viehzucht geprägt. El Carmen ist durch die Straße mit Chone und Santo Domingo verbunden.",
+      hu: "El Carmen Ecuador Manabí tartományában található, 100 m tengerszint feletti magasságban. Lakossága kb. 70.000 fő. A város mezőgazdasági központ, fő terményei a kávé és a kakaó. 1925-ben alapították. Az éghajlat trópusi, évi 1.200 mm csapadékkal. A városban modern infrastruktúra van, kórház, egyetem és stadion. A környék erdeiben számos madárfaj él. A helyi gazdaságban a mezőgazdaság mellett a turizmus is szerepet játszik. El Carmen híres a kézműves termékekről és a helyi konyháról.",
+      ro: "El Carmen este un oraș în provincia Manabí, Ecuador, la 100 m altitudine, cu o populație de 70.000 de locuitori. Orașul este un centru agricol, specializat în cafea, cacao și fructe. Fondat în 1925, are un climat tropical umed cu 1.200 mm precipitații anuale. Economia include agricultura și turismul. Atracțiile includ Cascada El Salto și Rezervația Naturală La Muralla. Orașul este conectat prin drumuri asfaltate la Chone și Santo Domingo. El Carmen are o catedrală și un muzeu. Populația este predominant mestizo.",
+      en: "El Carmen is a city in Manabí Province, Ecuador, located at 100 m elevation. Population is around 70,000. It is an agricultural hub, producing coffee, cocoa, and fruits. The city was founded in 1925. Climate is tropical wet, with 1,200 mm of rain annually. El Carmen has a cathedral, a university, and a stadium. The surrounding area includes mountains and waterfalls. The economy relies on agriculture and livestock. Nearby attractions include the La Muralla nature reserve and the El Salto waterfall. The city is connected by road to major Manabí towns. Local crafts include woodwork and ceramics.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 100 m", "Einwohner: 70.000", "Gründungsjahr: 1925", "Jährlicher Niederschlag: 1.200 mm", "Kaffeeproduktion jährlich: 5.000 Tonnen", "Entfernung zu Chone: 30 km"],
+      hu: ["Tengerszint feletti magasság: 100 m", "Lakosság: 70.000 fő", "Alapítás éve: 1925", "Éves csapadék: 1.200 mm", "Éves kávétermelés: 5.000 tonna", "Távolság Chonétől: 30 km"],
+      ro: ["Altitudine: 100 m", "Populație: 70.000 locuitori", "Anul înființării: 1925", "Precipitații anuale: 1.200 mm", "Producție cafea: 5.000 tone/an", "Distanța până la Chone: 30 km"],
+      en: ["Elevation: 100 m", "Population: 70,000", "Founded: 1925", "Annual rainfall: 1,200 mm", "Annual coffee production: 5,000 tons", "Distance to Chone: 30 km"],
+    },
+  },
   {
     id: "montecristi-cities-v2",
     type: "city",
     parent: "EC-M",
     coords: [-80.6588, -1.0458],
-    name: { de: "Montecristi", hu: "Montecristi", ro: "Montecristi", en: "Montecristi",
-image: "/poi-images/montecristi-cities-v2.webp"
-},
+    name: { de: "Montecristi", hu: "Montecristi", ro: "Montecristi", en: "Montecristi"},
+    image: "/poi-images/montecristi-cities-v2.webp",
     description: {
       de: "Die wahre Heimat des Panama-Huts und der Geburtsort des ecuadorianischen Präsidenten Eloy Alfaro.",
       hu: "A panamakalap igazi hazája és Eloy Alfaro ecuadori elnök szülőhelye.",
@@ -737,9 +800,8 @@ image: "/poi-images/montecristi-cities-v2.webp"
     type: "city",
     parent: "EC-G",
     coords: [-79.7214, -1.9567],
-    name: { de: "Samborondón", hu: "Samborondón", ro: "Samborondón", en: "Samborondón",
-image: "/poi-images/samborondon-cities-v2.webp"
-},
+    name: { de: "Samborondón", hu: "Samborondón", ro: "Samborondón", en: "Samborondón"},
+    image: "/poi-images/samborondon-cities-v2.webp",
     description: {
       de: "Eine wohlhabende Vorstadtgemeinde, die für ihre exklusiven Wohnanlagen und historischen Reisfelder bekannt ist.",
       hu: "Jómódú külvárosi közösség, amely exkluzív lakóparkjairól és történelmi rizsföldjeiről ismert.",
@@ -751,15 +813,27 @@ image: "/poi-images/samborondon-cities-v2.webp"
       hu: ["A település a régi vidéki részre és az új műholdvárosra van osztva.", "Ecuador legmagasabb egy főre jutó jövedelmű területei közé tartozik.", "A Babahoyo folyó szegélyezi.", "A hagyományos rizsültetésről és kerámiaművészetről híres."],
       ro: ["Comunitatea este împărțită în partea rurală veche și noul oraș satelit.", "Este una dintre zonele cu cel mai mare venit pe cap de locuitor din Ecuador.", "Flancat de râul Babahoyo.", "Faimos pentru plantarea tradițională a orezului și arta ceramicii."],
       en: ["The municipality is divided into the old rural part and the new satellite city.", "Ranks among the areas with the highest per capita income in Ecuador.", "Flanked by the Babahoyo River.", "Famous for traditional rice planting and ceramic art."]
-    }, image: "/poi-images/samborondon-cities-v2.webp"},
+    }, image: "/poi-images/samborondon-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Samborondón ist eine Stadt in der Provinz Guayas in Ecuador, etwa 15 km nordöstlich von Guayaquil. Sie liegt auf 10 Metern Höhe am Fluss Babahoyo. Die Stadt hat etwa 70.000 Einwohner und ist ein Vorort von Guayaquil. Samborondón ist bekannt für seine traditionellen Holzhäuser auf Stelzen und seine maritime Atmosphäre. Die Stadt wurde 1780 gegründet. Das Klima ist tropisch feucht mit einer Regenzeit von Januar bis Mai. Die Wirtschaft basiert auf Fischerei, Tourismus und Nahversorgung. In der Umgebung gibt es Mangroven und Feuchtgebiete. Der Río Babahoyo ist schiffbar. Die Stadt hat eine Universität.",
+      hu: "Samborondón Ecuador Guayas tartományában, Guayaquil agglomerációjában fekszik, 10 m magasan. Lakossága 70.000 fő. A város híres a cölöpökre épült faházairól és a folyami életmódról. 1780-ban alapították. Az éghajlat trópusi párás, évi 1.000 mm csapadékkal. A gazdaság a halászatra és a turizmusra épül. A város csatornákkal szabdalt, népszerűek a csónaktúrák. A közeli Isla Trinitaria mangróvelápja természetvédelmi terület. Samborondón népszerű hétvégi üdülőhely. A városban egyetemi kar is működik.",
+      ro: "Samborondón este un oraș în provincia Guayas, Ecuador, la 10 m altitudine, cu o populație de 70.000 de locuitori. Este o suburbie a Guayaquilului, situat pe malul râului Babahoyo. Orașul este cunoscut pentru casele sale tradiționale din lemn pe piloni și pentru canale. Fondat în 1780, are un climat tropical umed cu 1.000 mm precipitații anuale. Economia se bazează pe pescuit, turism și servicii. Atracțiile includ plimbări cu barca pe râu și restaurante pe mal. Samborondón găzduiește un muzeu și o universitate. Zona înconjurătoare include păduri de mangrove.",
+      en: "Samborondón is a city in Guayas Province, Ecuador, located at 10 m elevation on the Babahoyo River, 15 km from Guayaquil. It has a population of 70,000. The city is famous for its historic stilt houses and canal-side lifestyle. Founded in 1780, it has a tropical humid climate with 1,000 mm of rain annually. The economy depends on fishing, tourism, and services. Samborondón is a popular weekend destination for Guayaquil residents, known for its seafood restaurants and boat tours. The surrounding wetlands are home to diverse bird species. The city has a university and a small museum of local history.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 10 m", "Einwohner: 70.000", "Gründungsjahr: 1780", "Jährlicher Niederschlag: 1.000 mm", "Entfernung zu Guayaquil: 15 km", "Anzahl der Kanäle: 5"],
+      hu: ["Tengerszint feletti magasság: 10 m", "Lakosság: 70.000 fő", "Alapítás éve: 1780", "Éves csapadék: 1.000 mm", "Távolság Guayaquiltől: 15 km", "Csatornák száma: 5"],
+      ro: ["Altitudine: 10 m", "Populație: 70.000 locuitori", "Anul înființării: 1780", "Precipitații anuale: 1.000 mm", "Distanța până la Guayaquil: 15 km", "Număr de canale: 5"],
+      en: ["Elevation: 10 m", "Population: 70,000", "Founded: 1780", "Annual rainfall: 1,000 mm", "Distance to Guayaquil: 15 km", "Number of canals: 5"],
+    },
+  },
   {
     id: "puerto-francisco-de-orellana-cities-v2",
     type: "state-capital",
     parent: "EC-D",
     coords: [-76.9871, -0.4664],
-    name: { de: "Puerto Francisco de Orellana", hu: "Puerto Francisco de Orellana", ro: "Puerto Francisco de Orellana", en: "Puerto Francisco de Orellana",
-image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp"
-},
+    name: { de: "Puerto Francisco de Orellana", hu: "Puerto Francisco de Orellana", ro: "Puerto Francisco de Orellana", en: "Puerto Francisco de Orellana"},
+    image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp",
     description: {
       de: "Auch El Coca genannt, ist sie ein Tor zum tiefen Amazonas und zur Yasuní-Region.",
       hu: "Az El Coca néven is ismert város az Amazonas mélyébe és a Yasuní régióba vezető kapu.",
@@ -771,15 +845,27 @@ image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp"
       hu: ["Orellana tartomány fővárosa.", "A Napo és a Coca folyók összefolyásánál fekszik.", "Fontos kiindulópont a dzsungeltúrákhoz.", "Az olajkitermelés központi szerepet játszik a gazdaságban."],
       ro: ["Capitala provinciei Orellana.", "Situat la confluența râurilor Napo și Coca.", "Un punct de plecare important pentru excursiile în junglă.", "Extracția petrolului joacă un rol central în economie."],
       en: ["Capital of the Orellana province.", "Located at the confluence of the Napo and Coca rivers.", "An important starting point for jungle tours.", "Oil extraction plays a central role in the economy."]
-    }, image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp"},
+    }, image: "/poi-images/puerto-francisco-de-orellana-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Puerto Francisco de Orellana (auch bekannt als Coca) ist die Hauptstadt der Provinz Orellana im Amazonasbecken Ecuadors. Sie liegt am Zusammenfluss der Flüsse Coca und Napo auf 250 Metern Höhe. Die Stadt hat etwa 80.000 Einwohner und ist ein Zentrum der Erdölförderung und der Amazonas-Tourismus. Sie wurde 1954 gegründet und nach dem Entdecker Francisco de Orellana benannt. Das Klima ist tropisch feucht mit durchschnittlich 3.500 mm Niederschlag jährlich. Die Stadt hat einen Flughafen und eine Universität. Von hier aus starten Touren in den Yasuni-Nationalpark. Die Wirtschaft basiert auf Öl, Tourismus und Landwirtschaft.",
+      hu: "Puerto Francisco de Orellana, ismertebb nevén Coca, Ecuador Amazonas-medencéjének kapuja, Orellana tartomány székhelye. 250 m magasan fekszik, a Coca és Napo folyók találkozásánál. Lakossága 80.000 fő. 1954-ben alapították. A város az olajkitermelés és az ökoturizmus központja. Az éves csapadék 3.500 mm. Innen indulnak a Yasuni Nemzeti Parkba vezető expedíciók. A város repülőterével és egyetemével rendelkezik. A gazdaságot az olaj és a turizmus dominálja. A Coca folyón rafting túrák is indulnak.",
+      ro: "Puerto Francisco de Orellana, cunoscut ca Coca, este capitala provinciei Orellana din Ecuador, situată la confluența râurilor Coca și Napo, la 250 m altitudine. Populația este de 80.000 de locuitori. Fondat în 1954, orașul este un centru al extracției de petrol și al turismului amazonian. Clima este tropicală umedă, cu precipitații de 3.500 mm anual. Aeroportul Coca deservește orașul. De aici se organizează excursii în Parcul Național Yasuní. Economia se bazează pe petrol, turism și agricultură. Orașul are o universitate și un muzeu al culturii amazoniene.",
+      en: "Puerto Francisco de Orellana, commonly known as Coca, is the capital of Orellana Province in the Ecuadorian Amazon, at 250 m elevation. It lies at the confluence of the Coca and Napo rivers. Population is about 80,000. Founded in 1954, the city is a hub for oil extraction and Amazon ecotourism. The climate is tropical rainforest, with 3,500 mm of rain per year. The city has an airport and a university. Coca is the gateway to the Yasuní National Park, one of the world's most biodiverse areas. The economy is driven by oil, tourism, and agriculture (coffee, cocoa, corn). The Napo River is a major transportation route.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 250 m", "Einwohner: 80.000", "Gründungsjahr: 1954", "Jährlicher Niederschlag: 3.500 mm", "Länge der Coca-Brücke: 300 m", "Fläche des Yasuni-Nationalparks: 9.800 km²"],
+      hu: ["Tengerszint feletti magasság: 250 m", "Lakosság: 80.000 fő", "Alapítás éve: 1954", "Éves csapadék: 3.500 mm", "Coca híd hossza: 300 m", "Yasuni Nemzeti Park területe: 9.800 km²"],
+      ro: ["Altitudine: 250 m", "Populație: 80.000 locuitori", "Anul înființării: 1954", "Precipitații anuale: 3.500 mm", "Lungimea podului Coca: 300 m", "Suprafața Parcului Național Yasuní: 9.800 km²"],
+      en: ["Elevation: 250 m", "Population: 80,000", "Founded: 1954", "Annual rainfall: 3,500 mm", "Length of Coca Bridge: 300 m", "Yasuní National Park area: 9,800 km²"],
+    },
+  },
   {
     id: "jipijapa-cities-v2",
     type: "city",
     parent: "EC-M",
     coords: [-80.5794, -1.3330],
-    name: { de: "Jipijapa", hu: "Jipijapa", ro: "Jipijapa", en: "Jipijapa",
-image: "/poi-images/jipijapa-cities-v2.webp"
-},
+    name: { de: "Jipijapa", hu: "Jipijapa", ro: "Jipijapa", en: "Jipijapa"},
+    image: "/poi-images/jipijapa-cities-v2.webp",
     description: {
       de: "Die Sultanin des Kaffees, historisch berühmt für den Kaffeeanbau an der ecuadorianischen Küste.",
       hu: "A kávé szultánája, amely történelmileg az ecuadori partvidék kávétermesztéséről híres.",
@@ -791,15 +877,27 @@ image: "/poi-images/jipijapa-cities-v2.webp"
       hu: ["A toquilla-kalap kereskedelem egykori központja.", "Kiváló minőségű Arabica kávéjáról jelentős.", "A régió egyik legrégebbi őslakos települése.", "Trópusi száraz erdők veszik körül."],
       ro: ["Fostul centru al comerțului cu pălării de toquilla.", "Semnificativ pentru cafeaua sa Arabica de înaltă calitate.", "Este una dintre cele mai vechi așezări indigene din regiune.", "Înconjurat de păduri tropicale uscate."],
       en: ["Former center of the toquilla hat trade.", "Significant for its high-quality Arabica coffee.", "It is one of the oldest indigenous settlements in the region.", "Surrounded by tropical dry forests."]
-    }, image: "/poi-images/jipijapa-cities-v2.webp"},
+    }, image: "/poi-images/jipijapa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jipijapa ist eine Stadt in der Provinz Manabí in Ecuador, im Landesinneren auf 200 Metern Höhe gelegen. Sie hat etwa 60.000 Einwohner. Die Stadt ist bekannt für ihre handgewebten Panama-Hüte und ihre archäologischen Stätten. Jipijapa wurde 1535 gegründet. Das Klima ist tropisch trocken, mit einer durchschnittlichen Temperatur von 24°C. Die Wirtschaft basiert auf Landwirtschaft (Kaffee, Kakao) und Handwerk. Die Stadt hat eine Kathedrale und mehrere Museen. In der Umgebung gibt es Höhlen und Wasserfälle. Jipijapa ist ein Zentrum der cholo-Kultur. Die Straßenverbindung zur Küste führt über bergiges Gelände.",
+      hu: "Jipijapa Ecuador Manabí tartományának egyik városa, 200 m magasan a hegyekben. Lakossága 60.000 fő. A város a panamakalapok egyik hagyományos előállítási helye. 1535-ben alapították. Az éghajlat trópusi száraz, évi 600 mm csapadékkal. A helyi gazdaság a mezőgazdaságra (kávé, kakaó) és a kézművességre épül. Jipijapa híres a régészeti leleteiről, a Cerro de Hojas korábbi korszakából. A városban múzeum és kulturális központ is található. A környező dombokon túraútvonalak vezetnek.",
+      ro: "Jipijapa este un oraș în provincia Manabí, Ecuador, la 200 m altitudine, cu o populație de 60.000 de locuitori. Orașul este cunoscut pentru pălăriile Panama și siturile arheologice. Fondat în 1535, are un climat tropical uscat, cu 600 mm precipitații anuale. Economia se bazează pe agricultură (cafea, cacao) și meșteșuguri. Atracțiile includ Muzeul Pălăriilor Panama și situl Cerro de Hojas. Orașul are o catedrală și o piață centrală. Jipijapa este un centru al culturii cholo. Împrejurimile oferă peșteri și cascade.",
+      en: "Jipijapa is a city in Manabí Province, Ecuador, located at 200 m elevation in the coastal mountains. It has a population of 60,000. The city is a historic center of Panama hat weaving and has archaeological sites dating to pre-Columbian times. Founded in 1535, it has a dry tropical climate with 600 mm of rain annually. The economy relies on agriculture (coffee, cocoa) and handicrafts. Jipijapa has a cathedral, a museum, and a cultural center. Nearby attractions include the Cerro de Hojas archaeological zone and natural caves. The city is known for its traditional music and dance.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 200 m", "Einwohner: 60.000", "Gründungsjahr: 1535", "Jährlicher Niederschlag: 600 mm", "Anzahl der Panama-Hut-Werkstätten: 30", "Durchschnittstemperatur: 24°C"],
+      hu: ["Tengerszint feletti magasság: 200 m", "Lakosság: 60.000 fő", "Alapítás éve: 1535", "Éves csapadék: 600 mm", "Panamakalap-műhelyek száma: 30", "Átlaghőmérséklet: 24°C"],
+      ro: ["Altitudine: 200 m", "Populație: 60.000 locuitori", "Anul înființării: 1535", "Precipitații anuale: 600 mm", "Număr ateliere de pălării Panama: 30", "Temperatura medie: 24°C"],
+      en: ["Elevation: 200 m", "Population: 60,000", "Founded: 1535", "Annual rainfall: 600 mm", "Number of Panama hat workshops: 30", "Average temperature: 24°C"],
+    },
+  },
   {
     id: "santa-elena-cities-v2",
     type: "state-capital",
     parent: "EC-SE",
     coords: [-80.8587, -2.2262],
-    name: { de: "Santa Elena", hu: "Santa Elena", ro: "Santa Elena", en: "Santa Elena",
-image: "/poi-images/santa-elena-cities-v2.webp"
-},
+    name: { de: "Santa Elena", hu: "Santa Elena", ro: "Santa Elena", en: "Santa Elena"},
+    image: "/poi-images/santa-elena-cities-v2.webp",
     description: {
       de: "Das administrative Zentrum der gleichnamigen Provinz, das reich an archäologischen Funden ist.",
       hu: "Az azonos nevű tartomány közigazgatási központja, amely régészeti leletekben gazdag.",
@@ -817,9 +915,8 @@ image: "/poi-images/santa-elena-cities-v2.webp"
     type: "city",
     parent: "EC-I",
     coords: [-78.2625, 0.2345],
-    name: { de: "Otavalo", hu: "Otavalo", ro: "Otavalo", en: "Otavalo",
-image: "/poi-images/otavalo-cities-v2.webp"
-},
+    name: { de: "Otavalo", hu: "Otavalo", ro: "Otavalo", en: "Otavalo"},
+    image: "/poi-images/otavalo-cities-v2.webp",
     description: {
       de: "Die indigene Hauptstadt Ecuadors, weltweit bekannt für ihren farbenfrohen Handwerksmarkt.",
       hu: "Ecuador őslakos fővárosa, amely világszerte ismert színes kézműves piacáról.",
@@ -831,15 +928,27 @@ image: "/poi-images/otavalo-cities-v2.webp"
       hu: ["A Plaza de Ponchos Dél-Amerika legnagyobb őslakos piaca.", "Az otavaleñók szövéstudományukról híresek.", "Vulkánok közötti völgyben fekszik.", "A hagyományos zene az élet szerves része."],
       ro: ["Plaza de Ponchos este cea mai mare piață indigenă din America de Sud.", "Locuitorii Otavaleños sunt faimoși pentru abilitățile lor de țesut.", "Situat într-o vale între vulcani.", "Muzica tradițională face parte integrantă din viață."],
       en: ["The Plaza de Ponchos is the largest indigenous market in South America.", "The Otavaleños are famous for their weaving skills.", "Located in a valley between volcanoes.", "Traditional music is an integral part of life."]
-    }, image: "/poi-images/otavalo-cities-v2.webp"},
+    }, image: "/poi-images/otavalo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Otavalo ist eine Stadt in der Provinz Imbabura im Norden Ecuadors, in den Anden auf 2.550 Metern Höhe. Sie hat etwa 50.000 Einwohner. Die Stadt ist weltberühmt für ihren Markt (Otavalo-Markt), einen der größten Kunsthandwerksmärkte Südamerikas. Die indigene Bevölkerung der Otavalos ist bekannt für ihre Weberei. Otavalo wurde 1534 gegründet. Das Klima ist gemäßigt, mit einer Durchschnittstemperatur von 14°C. Die Wirtschaft basiert auf Tourismus, Handwerk und Landwirtschaft. Sehenswürdigkeiten sind der Marktplatz, die Kirche San Luis und der nahegelegene Berg Imbabura. Der San-Pablo-See ist ein beliebtes Ausflugsziel.",
+      hu: "Otavalo Ecuador Imbabura tartományában, az Andokban, 2.550 m magasan fekszik. Lakossága 50.000 fő. A város híres a nagyméretű kézműves piacáról, ahol szőtteseket és ékszereket árulnak. 1534-ben alapították. Az éghajlat hűvös, évi 800 mm csapadékkal. A gazdaság a turizmusra és a textilkészítésre épül. A közeli San Pablo-tó és a Imbabura vulkán népszerű célpontok. Otavalo az ecuadori indián kultúra egyik központja. A városban számos múzeum és galéria található.",
+      ro: "Otavalo este un oraș în provincia Imbabura, Ecuador, în Anzi, la 2.550 m altitudine, cu o populație de 50.000 de locuitori. Orașul este faimos pentru piața sa de artizanat, una dintre cele mai mari din America de Sud. Populația indigenă Otavalo este renumită pentru țesut. Fondat în 1534, are un climat temperat, cu o medie de 14°C. Economia se bazează pe turism, meșteșuguri și agricultură. Atracțiile includ piața centrală, Biserica San Luis și Lacul San Pablo. Vârful Imbabura (4.630 m) domină peisajul.",
+      en: "Otavalo is a city in Imbabura Province, northern Ecuador, located in the Andes at 2,550 m elevation. It has a population of 50,000. The city is world-renowned for its indigenous market, one of the largest artisan markets in South America. Founded in 1534, it has a cool climate with average temperature 14°C. The economy is driven by tourism, handicrafts (especially textiles), and agriculture. The Otavalo people are known for their weaving traditions. Nearby attractions include the San Pablo Lake and Imbabura Volcano (4,630 m). The city has a rich indigenous culture and several museums.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.550 m", "Einwohner: 50.000", "Gründungsjahr: 1534", "Durchschnittstemperatur: 14°C", "Marktfläche: 2 Hektar", "Höhe des Imbabura: 4.630 m"],
+      hu: ["Tengerszint feletti magasság: 2.550 m", "Lakosság: 50.000 fő", "Alapítás éve: 1534", "Átlaghőmérséklet: 14°C", "Piac területe: 2 hektár", "Imbabura magassága: 4.630 m"],
+      ro: ["Altitudine: 2.550 m", "Populație: 50.000 locuitori", "Anul înființării: 1534", "Temperatura medie: 14°C", "Suprafața pieței: 2 ha", "Înălțimea vulcanului Imbabura: 4.630 m"],
+      en: ["Elevation: 2,550 m", "Population: 50,000", "Founded: 1534", "Average temperature: 14°C", "Market area: 2 ha", "Imbabura volcano height: 4,630 m"],
+    },
+  },
   {
     id: "cayambe-cities-v2",
     type: "city",
     parent: "EC-P",
     coords: [-78.1452, 0.0427],
-    name: { de: "Cayambe", hu: "Cayambe", ro: "Cayambe", en: "Cayambe",
-image: "/poi-images/cayambe-cities-v2.webp"
-},
+    name: { de: "Cayambe", hu: "Cayambe", ro: "Cayambe", en: "Cayambe"},
+    image: "/poi-images/cayambe-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftliche Stadt am Fuße des mächtigen Vulkans Cayambe, bekannt für ihre Blumen und Käse.",
       hu: "Mezőgazdasági város a hatalmas Cayambe vulkán lábánál, amely virágairól és sajtjairól ismert.",
@@ -851,15 +960,27 @@ image: "/poi-images/cayambe-cities-v2.webp"
       hu: ["Az exportra szánt rózsák fontos termelője.", "A sajtos Bizcochos (keksz) a helyi specialitás.", "Az Egyenlítő a várostól délre halad el.", "A San Pedro-ünnepségek mélyen gyökereznek."],
       ro: ["Un producător important de trandafiri pentru export.", "Biscuiții Bizcochos cu brânză sunt specialitatea locală.", "Ecuatorul trece la sud de oraș.", "Festivitățile din San Pedro sunt adânc înrădăcinate."],
       en: ["An important producer of roses for export.", "The Bizcochos (biscuits) with cheese are the local specialty.", "The Equator runs south of the city.", "The festivities of San Pedro are deeply rooted."]
-    }, image: "/poi-images/cayambe-cities-v2.webp"},
+    }, image: "/poi-images/cayambe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cayambe ist eine Stadt in der Provinz Pichincha in Ecuador, am Fuße des Vulkans Cayambe. Sie liegt auf 2.850 Metern Höhe und hat etwa 40.000 Einwohner. Die Stadt ist ein landwirtschaftliches Zentrum, bekannt für den Anbau von Blumen, Milchprodukten und Kartoffeln. Cayambe wurde 1823 gegründet. Das Klima ist kaltgemäßigt, mit einer Durchschnittstemperatur von 10°C. Die Wirtschaft basiert auf Landwirtschaft und Viehzucht. Der Vulkan Cayambe (5.790 m) ist ein Ziel für Bergsteiger. Die Stadt hat eine Kirche und ein Museum. In der Umgebung gibt es den Cayambe-Coca-Nationalpark. Die indigene Bevölkerung spielt eine wichtige Rolle.",
+      hu: "Cayambe Ecuador Pichincha tartományában, a Cayambe vulkán lábánál, 2.850 m magasan fekszik. Lakossága 40.000 fő. A város mezőgazdasági központ, virágtermesztéséről és tejtermékeiről ismert. 1823-ban alapították. Az éghajlat hideg, évi 700 mm csapadékkal. A gazdaság a mezőgazdaságra és a tejiparra épül. A Cayambe vulkán 5.790 m magas, gleccserekkel. A város a Cayambe-Coca Nemzeti Park kapuja. A helyi indiánok hagyományos mezőgazdaságot folytatnak.",
+      ro: "Cayambe este un oraș în provincia Pichincha, Ecuador, la poalele vulcanului Cayambe, la 2.850 m altitudine, cu o populație de 40.000 de locuitori. Orașul este un centru agricol, specializat în flori, lactate și cartofi. Fondat în 1823, are un climat rece, cu o medie de 10°C. Economia se bazează pe agricultură și creșterea animalelor. Vulcanul Cayambe (5.790 m) este un popular traseu de alpinism. Orașul are o biserică colonială și un muzeu. Parcul Național Cayambe-Coca protejează ecosistemele locale.",
+      en: "Cayambe is a city in Pichincha Province, Ecuador, situated at 2,850 m elevation on the slopes of the Cayambe volcano. It has a population of 40,000. The city is an agricultural hub, known for flower farming, dairy products, and potatoes. Founded in 1823, it has a cold climate averaging 10°C. The economy relies on agriculture and livestock. Cayambe volcano, at 5,790 m, is the highest point on the Equator and a climber's destination. The Cayambe-Coca National Park protects páramo and cloud forest. The city has a 17th-century church and a local museum.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.850 m", "Einwohner: 40.000", "Gründungsjahr: 1823", "Durchschnittstemperatur: 10°C", "Höhe des Vulkans Cayambe: 5.790 m", "Jährlicher Niederschlag: 700 mm"],
+      hu: ["Tengerszint feletti magasság: 2.850 m", "Lakosság: 40.000 fő", "Alapítás éve: 1823", "Átlaghőmérséklet: 10°C", "Cayambe vulkán magassága: 5.790 m", "Éves csapadék: 700 mm"],
+      ro: ["Altitudine: 2.850 m", "Populație: 40.000 locuitori", "Anul înființării: 1823", "Temperatura medie: 10°C", "Înălțimea vulcanului Cayambe: 5.790 m", "Precipitații anuale: 700 mm"],
+      en: ["Elevation: 2,850 m", "Population: 40,000", "Founded: 1823", "Average temperature: 10°C", "Cayambe volcano height: 5,790 m", "Annual rainfall: 700 mm"],
+    },
+  },
   {
     id: "buena-fe-cities-v2",
     type: "city",
     parent: "EC-R",
     coords: [-79.4897, -0.8986],
-    name: { de: "Buena Fe", hu: "Buena Fe", ro: "Buena Fe", en: "Buena Fe",
-image: "/poi-images/buena-fe-cities-v2.webp"
-},
+    name: { de: "Buena Fe", hu: "Buena Fe", ro: "Buena Fe", en: "Buena Fe"},
+    image: "/poi-images/buena-fe-cities-v2.webp",
     description: {
       de: "Ein stark landwirtschaftlich geprägter Knotenpunkt im Herzen der Provinz Los Ríos.",
       hu: "Erősen mezőgazdasági jellegű csomópont a Los Ríos tartomány szívében.",
@@ -871,15 +992,27 @@ image: "/poi-images/buena-fe-cities-v2.webp"
       hu: ["Az olajpálma és a kakaó egyik legfontosabb termelője.", "A város az autópálya mentén fejlődött ki.", "Gyors népességnövekedést tapasztal.", "Az éghajlat egész évben trópusi és meleg."],
       ro: ["Unul dintre cei mai importanți producători de palmier de ulei și cacao.", "Orașul s-a dezvoltat de-a lungul autostrăzii.", "Cunoaște o creștere rapidă a populației.", "Clima este tropicală caldă pe tot parcursul anului."],
       en: ["One of the most important producers of oil palm and cocoa.", "The city developed along the highway.", "Experiencing rapid population growth.", "The climate is tropical and warm year-round."]
-    }, image: "/poi-images/buena-fe-cities-v2.webp"},
+    }, image: "/poi-images/buena-fe-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Buena Fe ist eine Stadt in der Provinz Los Ríos im zentralen Tiefland Ecuadors. Sie liegt am Río Quijos und ist ein wichtiges Zentrum für die landwirtschaftliche Produktion, insbesondere von Reis, Bananen und Kakao. Die Stadt wurde 1949 gegründet und hat sich seitdem zu einem Knotenpunkt für den Handel mit Agrarprodukten entwickelt. Ihre Wirtschaft basiert auf der Verarbeitung von Rohstoffen und der Versorgung der umliegenden ländlichen Gebiete. Buena Fe verfügt über eine Reihe von Bildungseinrichtungen und Gesundheitseinrichtungen, die die Region bedienen. Die durchschnittliche Jahrestemperatur beträgt etwa 24 °C, und die Regenzeit dauert von Januar bis Mai. Die Bevölkerungszahl lag 2010 bei rund 45.000 Einwohnern. Die Stadt ist durch die Fernstraße E30 mit anderen Zentren verbunden.",
+      hu: "Buena Fe város Ecuador Los Ríos tartományában, az ország középső alföldjén található. A város a Quijos folyó partján fekszik, és fontos mezőgazdasági központ: rizst, banánt és kakaót termesztenek a környéken. A települést 1949-ben alapították, és azóta a régió agrárkereskedelmének egyik központjává vált. Gazdasága a nyersanyagfeldolgozásra és a vidéki területek ellátására épül. Buena Fe számos oktatási és egészségügyi intézménnyel rendelkezik, amelyek a környék lakóit szolgálják ki. Az éves középhőmérséklet körülbelül 24 °C, a csapadékos évszak januártól májusig tart. A 2010-es népszámlálás szerint a város lakossága hozzávetőleg 45 000 fő volt. A várost az E30-as főút köti össze a régió más településeivel.",
+      ro: "Buena Fe este un oraș din provincia Los Ríos, situat în câmpia centrală a Ecuadorului. Este așezat pe malul râului Quijos și reprezintă un centru important pentru producția agricolă, în special orez, banane și cacao. Orașul a fost fondat în 1949 și de atunci a devenit un nod comercial pentru produsele agricole din regiune. Economia sa se bazează pe procesarea materiilor prime și pe aprovizionarea zonelor rurale înconjurătoare. Buena Fe dispune de instituții de învățământ și unități medicale care deservesc întreaga regiune. Temperatura medie anuală este de aproximativ 24 °C, iar sezonul ploios durează din ianuarie până în mai. Conform recensământului din 2010, populația orașului era de circa 45.000 de locuitori. Orașul este conectat prin drumul național E30 cu alte centre urbane.",
+      en: "Buena Fe is a city in Los Ríos Province, Ecuador, located in the central lowlands. It lies along the Quijos River and serves as a key agricultural hub, producing rice, bananas, and cocoa. Founded in 1949, it has grown into a commercial center for the region's agricultural trade. The economy relies on raw material processing and supplying surrounding rural areas. Buena Fe houses several educational and healthcare facilities that serve the wider district. The average annual temperature is around 24 °C, with a rainy season from January to May. The population was approximately 45,000 as of the 2010 census. The city is accessible via the E30 highway, linking it to other major towns.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt Buena Fe wurde 1949 gegründet.", "Die Bevölkerungszahl betrug 2010 ca. 45.000 Einwohner.", "Die durchschnittliche Jahrestemperatur liegt bei 24 °C.", "Die Stadt liegt auf einer Höhe von 120 m über dem Meeresspiegel.", "Die Fläche des Kantons Buena Fe beträgt 1.039 km².", "Die Fernstraße E30 verbindet Buena Fe mit Santo Domingo und Quevedo."],
+      hu: ["Buena Fe várost 1949-ben alapították.", "A 2010-es népszámlálás szerint a lakosság kb. 45 000 fő volt.", "Az éves középhőmérséklet 24 °C.", "A város tengerszint feletti magassága 120 m.", "Buena Fe kanton területe 1 039 km².", "Az E30-as főút köti össze Santo Domingóval és Quevedóval."],
+      ro: ["Orașul Buena Fe a fost fondat în 1949.", "Populația la recensământul din 2010 era de aproximativ 45.000 de locuitori.", "Temperatura medie anuală este de 24 °C.", "Orașul se află la o altitudine de 120 m deasupra nivelului mării.", "Suprafața cantonului Buena Fe este de 1.039 km².", "Drumul național E30 leagă Buena Fe de Santo Domingo și Quevedo."],
+      en: ["Buena Fe was founded in 1949.", "The population was approximately 45,000 in the 2010 census.", "Average annual temperature is 24 °C.", "The city sits at an elevation of 120 m above sea level.", "The canton of Buena Fe covers an area of 1,039 km².", "The E30 highway connects Buena Fe to Santo Domingo and Quevedo."],
+    },
+  },
   {
     id: "ventanas-cities-v2",
     type: "city",
     parent: "EC-R",
     coords: [-79.4594, -1.4422],
-    name: { de: "Ventanas", hu: "Ventanas", ro: "Ventanas", en: "Ventanas",
-image: "/poi-images/ventanas-cities-v2.webp"
-},
+    name: { de: "Ventanas", hu: "Ventanas", ro: "Ventanas", en: "Ventanas"},
+    image: "/poi-images/ventanas-cities-v2.webp",
     description: {
       de: "Das wirtschaftliche Zentrum der Maisproduktion in Ecuador, oft als Hauptstadt des gelben Goldes bezeichnet.",
       hu: "Az ecuadori kukoricatermesztés gazdasági központja, amelyet gyakran a sárga arany fővárosának neveznek.",
@@ -891,15 +1024,27 @@ image: "/poi-images/ventanas-cities-v2.webp"
       hu: ["Ecuador legnagyobb kukoricatermelője.", "A Zapotal folyó partján fekszik.", "Az éves kukoricafesztivál hatalmas látványosság.", "A mezőgazdasági örökség mindenhol jelen van."],
       ro: ["Cel mai mare producător de porumb din Ecuador.", "Situat pe malul râului Zapotal.", "Festivalul anual al porumbului este o atracție majoră.", "Patrimoniul agricol este omniprezent."],
       en: ["The largest corn producer in Ecuador.", "Located on the banks of the Zapotal River.", "The annual corn festival is a major attraction.", "The agricultural heritage is ubiquitous."]
-    }, image: "/poi-images/ventanas-cities-v2.webp"},
+    }, image: "/poi-images/ventanas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ventanas ist eine Stadt in der Provinz Los Ríos im Tiefland Ecuadors. Sie ist bekannt als landwirtschaftliches Zentrum, insbesondere für den Anbau von Reis, Mais und Sojabohnen. Die Stadt wurde 1952 gegründet und hat sich zu einem wichtigen Handelsknotenpunkt entwickelt. Durch ihre Lage am Fluss Ventanas ist die Region für die Fischerei bekannt. Die Bevölkerungszahl liegt bei etwa 52.000 (2010). Die Wirtschaft wird von der Agrarindustrie dominiert, darunter Reismühlen und Futtermittelwerke. Ventanas verfügt über mehrere Schulen, ein Krankenhaus und einen Busbahnhof. Die jährliche Regenzeit von Januar bis Mai prägt den Anbauzyklus. Die Stadt ist über die E30 und die E38 an das nationale Straßennetz angebunden.",
+      hu: "Ventanas város Ecuador Los Ríos tartományában, az alföldön fekszik. Híres mezőgazdasági központ, főként rizst, kukoricát és szóját termesztenek a környéken. A települést 1952-ben alapították, és fontos kereskedelmi csomóponttá vált. A Ventanas folyó melletti fekvése miatt a régió híres a halászatról is. A lakosság száma 2010-ben körülbelül 52 000 fő volt. A gazdaságot a mezőgazdasági ipar, például rizsmalmok és takarmánygyárak uralják. Ventanasban több iskola, egy kórház és egy buszpályaudvar található. Az éves csapadékos évszak januártól májusig tart, ami meghatározza a termelési ciklusokat. A várost az E30-as és E38-as utak kötik össze az országos úthálózattal.",
+      ro: "Ventanas este un oraș în provincia Los Ríos, în câmpia Ecuadorului. Este cunoscut ca un centru agricol, în special pentru cultivarea orezului, porumbului și soiei. Orașul a fost fondat în 1952 și a devenit un important nod comercial. Datorită așezării pe râul Ventanas, regiunea este renumită pentru pescuit. Populația era de aproximativ 52.000 de locuitori în 2010. Economia este dominată de industria agroalimentară, inclusiv mori de orez și fabrici de furaje. Ventanas are mai multe școli, un spital și o stație de autobuz. Sezonul ploios anual din ianuarie până în mai influențează ciclurile de cultură. Orașul este conectat la rețeaua națională de drumuri prin E30 și E38.",
+      en: "Ventanas is a city in Los Ríos Province, Ecuador, located in the lowlands. It is known as an agricultural center for rice, corn, and soybeans. Founded in 1952, it has become a key trading hub. Its location on the Ventanas River makes the region notable for fishing. The population was around 52,000 in 2010. The economy is dominated by agribusiness, including rice mills and feed plants. Ventanas has several schools, a hospital, and a bus terminal. The annual rainy season from January to May shapes the crop cycles. The city is connected to the national road network via the E30 and E38 highways.",
+    },
+    factsAdvanced: {
+      de: ["Ventanas wurde 1952 gegründet.", "Die Bevölkerungszahl lag 2010 bei rund 52.000.", "Die Stadt liegt auf einer Höhe von 30 m über dem Meeresspiegel.", "Der Kanton Ventanas hat eine Fläche von 282 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die E38 verbindet Ventanas mit El Carmen und Quevedo."],
+      hu: ["Ventanas-t 1952-ben alapították.", "A lakosság 2010-ben kb. 52 000 fő volt.", "A város tengerszint feletti magassága 30 m.", "Ventanas kanton területe 282 km².", "Az éves középhőmérséklet 25 °C.", "Az E38-as út köti össze El Carmennel és Quevedóval."],
+      ro: ["Ventanas a fost fondat în 1952.", "Populația în 2010 era de aproximativ 52.000 de locuitori.", "Orașul se află la o altitudine de 30 m deasupra nivelului mării.", "Suprafața cantonului Ventanas este de 282 km².", "Temperatura medie anuală este de 25 °C.", "Drumul E38 leagă Ventanas de El Carmen și Quevedo."],
+      en: ["Ventanas was founded in 1952.", "The population in 2010 was approximately 52,000.", "The city is at an elevation of 30 m above sea level.", "The canton of Ventanas covers 282 km².", "Average annual temperature is 25 °C.", "The E38 highway connects Ventanas to El Carmen and Quevedo."],
+    },
+  },
   {
     id: "velasco-ibarra-cities-v2",
     type: "city",
     parent: "EC-G",
     coords: [-79.6386, -1.0452],
-    name: { de: "Velasco Ibarra", hu: "Velasco Ibarra", ro: "Velasco Ibarra", en: "Velasco Ibarra",
-image: "/poi-images/velasco-ibarra-cities-v2.webp"
-},
+    name: { de: "Velasco Ibarra", hu: "Velasco Ibarra", ro: "Velasco Ibarra", en: "Velasco Ibarra"},
+    image: "/poi-images/velasco-ibarra-cities-v2.webp",
     description: {
       de: "Allgemein als El Empalme bekannt, ist es ein strategischer Verkehrsknotenpunkt zwischen drei Provinzen.",
       hu: "Általában El Empalme néven ismert, stratégiai közlekedési csomópont három tartomány között.",
@@ -911,15 +1056,27 @@ image: "/poi-images/velasco-ibarra-cities-v2.webp"
       hu: ["Összeköti Guayas, Los Ríos és Manabí tartományokat.", "Jelentős piactér a régió mezőgazdászai számára.", "A kávé- és kakaókereskedelem uralja a helyi gazdaságot.", "A közeli Daule-Peripa gát nagy jelentőséggel bír."],
       ro: ["Conectează provinciile Guayas, Los Ríos și Manabí.", "Un oraș de piață semnificativ pentru fermierii din regiune.", "Comerțul cu cafea și cacao domină economia locală.", "Barajul Daule-Peripa din apropiere are o mare importanță."],
       en: ["Connects the provinces of Guayas, Los Ríos, and Manabí.", "A significant market town for farmers in the region.", "Coffee and cocoa trade dominate the local economy.", "The nearby Daule-Peripa dam is of great importance."]
-    }, image: "/poi-images/velasco-ibarra-cities-v2.webp"},
+    }, image: "/poi-images/velasco-ibarra-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Velasco Ibarra, auch bekannt als El Carmen, ist eine Stadt in der Provinz Manabí, Ecuador. Sie ist nach dem ehemaligen Präsidenten José María Velasco Ibarra benannt. Die Stadt liegt im Tiefland und ist ein wichtiges landwirtschaftliches Zentrum, spezialisiert auf den Anbau von Kakao, Kaffee und tropischen Früchten. Sie wurde 1956 gegründet. Die Bevölkerung beträgt etwa 45.000 (2010). Die Wirtschaft basiert auf der Verarbeitung von Kakao und Kaffee sowie auf der Viehzucht. Velasco Ibarra verfügt über ein Krankenhaus, mehrere Schulen und einen Busbahnhof. Die durchschnittliche Jahrestemperatur liegt bei 26 °C. Die Stadt ist über die E15 an die Küstenstraße angebunden.",
+      hu: "Velasco Ibarra, más néven El Carmen, Ecuador Manabí tartományában található. A várost José María Velasco Ibarra volt elnökről nevezték el. Az alföldön fekszik, és fontos mezőgazdasági központ, amely kakaóra, kávéra és trópusi gyümölcsökre specializálódott. 1956-ban alapították. Lakossága 2010-ben kb. 45 000 fő. Gazdasága a kakaó- és kávéfeldolgozáson, valamint állattenyésztésen alapul. Velasco Ibarra rendelkezik kórházzal, iskolákkal és buszpályaudvarral. Az éves középhőmérséklet 26 °C. A várost az E15-ös út köti össze a parti útvonallal.",
+      ro: "Velasco Ibarra, cunoscut și sub numele de El Carmen, este un oraș în provincia Manabí, Ecuador. Este numit după fostul președinte José María Velasco Ibarra. Orașul este situat în câmpie și este un important centru agricol, specializat în cultivarea cacăului, cafelei și fructelor tropicale. A fost fondat în 1956. Populația este de aproximativ 45.000 de locuitori (2010). Economia se bazează pe procesarea cacăului și cafelei, precum și pe creșterea animalelor. Velasco Ibarra are un spital, mai multe școli și o stație de autobuz. Temperatura medie anuală este de 26 °C. Orașul este conectat prin drumul E15 la drumul de coastă.",
+      en: "Velasco Ibarra, also known as El Carmen, is a city in Manabí Province, Ecuador. It is named after former president José María Velasco Ibarra. Located in the lowlands, it is an important agricultural center specializing in cocoa, coffee, and tropical fruits. It was founded in 1956. The population is about 45,000 (2010). The economy relies on cocoa and coffee processing, as well as livestock. Velasco Ibarra has a hospital, several schools, and a bus terminal. The average annual temperature is 26 °C. The city is connected by the E15 highway to the coastal route.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1956 gegründet.", "Die Bevölkerung beträgt etwa 45.000 (2010).", "Die Höhe über dem Meeresspiegel liegt bei 50 m.", "Der Kanton El Carmen hat eine Fläche von 1.245 km².", "Die durchschnittliche Jahrestemperatur beträgt 26 °C.", "Die E15 verbindet Velasco Ibarra mit Chone und Jipijapa."],
+      hu: ["A várost 1956-ban alapították.", "A lakosság kb. 45 000 fő (2010).", "Tengerszint feletti magassága 50 m.", "El Carmen kanton területe 1 245 km².", "Az éves középhőmérséklet 26 °C.", "Az E15-ös út köti össze Chone-nal és Jipijapával."],
+      ro: ["Orașul a fost fondat în 1956.", "Populația este de aproximativ 45.000 (2010).", "Altitudinea este de 50 m deasupra nivelului mării.", "Cantonul El Carmen are o suprafață de 1.245 km².", "Temperatura medie anuală este de 26 °C.", "Drumul E15 leagă Velasco Ibarra de Chone și Jipijapa."],
+      en: ["The city was founded in 1956.", "The population is approximately 45,000 (2010).", "Elevation is 50 m above sea level.", "El Carmen canton covers 1,245 km².", "Average annual temperature is 26 °C.", "The E15 highway connects Velasco Ibarra to Chone and Jipijapa."],
+    },
+  },
   {
     id: "la-troncal-cities-v2",
     type: "city",
     parent: "EC-F",
     coords: [-79.3361, -2.4255],
-    name: { de: "La Troncal", hu: "La Troncal", ro: "La Troncal", en: "La Troncal",
-image: "/poi-images/la-troncal-cities-v2.webp"
-},
+    name: { de: "La Troncal", hu: "La Troncal", ro: "La Troncal", en: "La Troncal"},
+    image: "/poi-images/la-troncal-cities-v2.webp",
     description: {
       de: "Die süßeste Stadt der Provinz Cañar aufgrund ihrer riesigen Zuckerrohrfelder und Mühlen.",
       hu: "Cañar tartomány legédesebb városa hatalmas cukornádföldjei és malmai miatt.",
@@ -931,15 +1088,27 @@ image: "/poi-images/la-troncal-cities-v2.webp"
       hu: ["Az AZTRA cukormalom vállalat határozta meg a város fejlődését.", "Az egyetlen város Cañar tartomány trópusi tengerparti síkságán.", "Meleg termálforrások veszik körül.", "Az egész országból vonzza a munkásokat."],
       ro: ["Compania de morărit zahăr AZTRA a modelat dezvoltarea orașului.", "Singurul oraș din zona joasă tropicală de coastă a provinciei Cañar.", "Înconjurat de izvoare termale calde.", "Atrage muncitori din toată țara."],
       en: ["The sugar mill company AZTRA shaped the city's development.", "The only city in the tropical coastal lowlands of the Cañar province.", "Surrounded by hot thermal springs.", "Attracts workers from all over the country."]
-    }, image: "/poi-images/la-troncal-cities-v2.webp"},
+    }, image: "/poi-images/la-troncal-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "La Troncal ist eine Stadt in der Provinz Cañar, Ecuador. Sie liegt im südlichen Tiefland und ist ein Zentrum der Zuckerrohr- und Bananenproduktion. Die Stadt wurde 1881 gegründet und wuchs durch die Landwirtschaft. Die Bevölkerungszahl beträgt etwa 54.000 (2010). La Troncal beherbergt eine große Zuckerfabrik, die den regionalen Zucker produziert. Die Wirtschaft wird von der Agrarindustrie dominiert, einschließlich Bananenplantagen und Milchviehhaltung. Die Stadt hat mehrere Schulen, ein Krankenhaus und eine Polizeistation. Die durchschnittliche Jahrestemperatur liegt bei 24 °C. Die Fernstraße E35 verbindet La Troncal mit Cuenca und Guayaquil.",
+      hu: "La Troncal város Ecuador Cañar tartományában, az ország déli alföldjén található. Cukornád- és banántermesztésének központja. A települést 1881-ben alapították, és a mezőgazdaság révén növekedett. Lakossága 2010-ben kb. 54 000 fő. La Troncalban található egy nagy cukorgyár, amely a regionális cukrot termeli. A gazdaságot a mezőgazdasági ipar, banánültetvények és tejtermelés jellemzi. A város iskolákkal, kórházzal és rendőrőrssel rendelkezik. Az éves középhőmérséklet 24 °C. Az E35-ös főút köti össze Cuencával és Guayaquillel.",
+      ro: "La Troncal este un oraș în provincia Cañar, Ecuador. Este situat în câmpia sudică și este un centru de producție de trestie de zahăr și banane. Orașul a fost fondat în 1881 și a crescut datorită agriculturii. Populația este de aproximativ 54.000 (2010). La Troncal găzduiește o mare fabrică de zahăr care produce zahăr regional. Economia este dominată de agroindustria, inclusiv plantații de banane și creșterea vitelor de lapte. Orașul are școli, un spital și o secție de poliție. Temperatura medie anuală este de 24 °C. Drumul național E35 leagă La Troncal de Cuenca și Guayaquil.",
+      en: "La Troncal is a city in Cañar Province, Ecuador. Located in the southern lowlands, it is a center for sugarcane and banana production. Founded in 1881, it grew due to agriculture. Population is about 54,000 (2010). La Troncal houses a large sugar mill producing regional sugar. The economy is dominated by agribusiness, including banana plantations and dairy farming. The city has schools, a hospital, and a police station. Average annual temperature is 24 °C. The E35 highway connects La Troncal to Cuenca and Guayaquil.",
+    },
+    factsAdvanced: {
+      de: ["La Troncal wurde 1881 gegründet.", "Die Bevölkerung beträgt etwa 54.000 (2010).", "Die Stadt liegt auf einer Höhe von 40 m.", "Der Kanton La Troncal hat eine Fläche von 317 km².", "Die durchschnittliche Jahrestemperatur beträgt 24 °C.", "Die E35 verbindet La Troncal mit Cuenca (120 km) und Guayaquil (150 km)."],
+      hu: ["La Troncal-t 1881-ben alapították.", "Lakossága kb. 54 000 fő (2010).", "A város tengerszint feletti magassága 40 m.", "La Troncal kanton területe 317 km².", "Az éves középhőmérséklet 24 °C.", "Az E35-ös út köti össze Cuencával (120 km) és Guayaquillel (150 km)."],
+      ro: ["La Troncal a fost fondat în 1881.", "Populația este de aproximativ 54.000 (2010).", "Altitudinea orașului este de 40 m.", "Cantonul La Troncal are o suprafață de 317 km².", "Temperatura medie anuală este de 24 °C.", "Drumul E35 leagă La Troncal de Cuenca (120 km) și Guayaquil (150 km)."],
+      en: ["La Troncal was founded in 1881.", "Population is about 54,000 (2010).", "Elevation is 40 m above sea level.", "The canton of La Troncal covers 317 km².", "Average annual temperature is 24 °C.", "The E35 highway connects La Troncal to Cuenca (120 km) and Guayaquil (150 km)."],
+    },
+  },
   {
     id: "el-triunfo-cities-v2",
     type: "city",
     parent: "EC-G",
     coords: [-79.4005, -2.3316],
-    name: { de: "El Triunfo", hu: "El Triunfo", ro: "El Triunfo", en: "El Triunfo",
-image: "/poi-images/el-triunfo-cities-v2.webp"
-},
+    name: { de: "El Triunfo", hu: "El Triunfo", ro: "El Triunfo", en: "El Triunfo"},
+    image: "/poi-images/el-triunfo-cities-v2.webp",
     description: {
       de: "Ein landwirtschaftlicher Knotenpunkt, der die Provinzen Guayas und Chimborazo verbindet.",
       hu: "Mezőgazdasági csomópont, amely összeköti Guayas és Chimborazo tartományokat.",
@@ -970,9 +1139,8 @@ image: "/poi-images/el-triunfo-cities-v2.webp"
     type: "city",
     parent: "EC-SE",
     coords: [-80.9758, -2.2145],
-    name: { de: "Salinas", hu: "Salinas", ro: "Salinas", en: "Salinas",
-image: "/poi-images/salinas-cities-v2.webp"
-},
+    name: { de: "Salinas", hu: "Salinas", ro: "Salinas", en: "Salinas"},
+    image: "/poi-images/salinas-cities-v2.webp",
     description: {
       de: "Ecuadors bekanntester Badeort, berühmt für seine Hochhäuser, Strände und das Nachtleben.",
       hu: "Ecuador legismertebb tengerparti üdülőhelye, amely felhőkarcolóiról, strandjairól és éjszakai életéről híres.",
@@ -984,15 +1152,27 @@ image: "/poi-images/salinas-cities-v2.webp"
       hu: ["Itt található Ecuador legnyugatibb szárazföldi pontja (La Chocolatera).", "Népszerű bálnaleső túráiról.", "Gyakran Ecuador Miami Beach-eként emlegetik.", "Hagyományosan a sókitermelés központja."],
       ro: ["Cel mai vestic punct continental al Ecuadorului (La Chocolatera) se află aici.", "Popular pentru excursiile de observare a balenelor.", "Adesea numit Miami Beach al Ecuadorului.", "În mod tradițional un centru de extracție a sării."],
       en: ["The westernmost mainland point of Ecuador (La Chocolatera) is located here.", "Popular for whale-watching tours.", "Often referred to as the Miami Beach of Ecuador.", "Traditionally a center of salt extraction."]
-    }, image: "/poi-images/salinas-cities-v2.webp"},
+    }, image: "/poi-images/salinas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Salinas ist eine Küstenstadt in der Provinz Santa Elena, Ecuador. Sie ist eines der wichtigsten touristischen Ziele des Landes, bekannt für seine Strände wie San Lorenzo und Chipipe. Die Stadt hat einen wichtigen Fischereihafen und eine Salzgewinnungsindustrie. Salinas wurde 1824 gegründet. Die Bevölkerung beträgt etwa 50.000 (2010). Die Wirtschaft basiert auf Tourismus, Fischerei und Salzproduktion. Salinas beherbergt Luxushotels, Einkaufszentren und ein Yachthafen. Die durchschnittliche Jahrestemperatur liegt bei 25 °C. Die Stadt ist über die E15 mit Guayaquil verbunden.",
+      hu: "Salinas tengerparti város Ecuador Santa Elena tartományában. Az ország egyik legfontosabb turisztikai célpontja, híres strandokkal, mint San Lorenzo és Chipipe. A város fontos halászkikötővel és sókitermelő iparral rendelkezik. Salinast 1824-ben alapították. Lakossága kb. 50 000 fő (2010). Gazdasága a turizmuson, halászaton és sótermelésen alapul. Salinas luxusszállodákkal, bevásárlóközpontokkal és jachtkikötővel rendelkezik. Az éves középhőmérséklet 25 °C. A várost az E15-ös út köti össze Guayaquillel.",
+      ro: "Salinas este un oraș de coastă în provincia Santa Elena, Ecuador. Este una dintre cele mai importante destinații turistice ale țării, cunoscut pentru plajele sale, precum San Lorenzo și Chipipe. Orașul are un port de pescuit important și o industrie de extracție a sării. Salinas a fost fondat în 1824. Populația este de aproximativ 50.000 (2010). Economia se bazează pe turism, pescuit și producția de sare. Salinas are hoteluri de lux, centre comerciale și o marina. Temperatura medie anuală este de 25 °C. Orașul este conectat prin drumul E15 la Guayaquil.",
+      en: "Salinas is a coastal city in Santa Elena Province, Ecuador. It is one of the country's top tourist destinations, known for beaches like San Lorenzo and Chipipe. The city has an important fishing port and salt extraction industry. Salinas was founded in 1824. Population is about 50,000 (2010). Economy relies on tourism, fishing, and salt production. Salinas features luxury hotels, shopping centers, and a marina. Average annual temperature is 25 °C. The city is connected via the E15 highway to Guayaquil.",
+    },
+    factsAdvanced: {
+      de: ["Salinas wurde 1824 gegründet.", "Die Bevölkerung beträgt etwa 50.000 (2010).", "Die Stadt liegt auf Meereshöhe.", "Der Kanton Salinas hat eine Fläche von 69 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Der Fischereihafen von Salinas ist einer der größten in Ecuador."],
+      hu: ["Salinast 1824-ben alapították.", "Lakossága kb. 50 000 fő (2010).", "A város tengerszinten fekszik.", "Salinas kanton területe 69 km².", "Az éves középhőmérséklet 25 °C.", "Salinas halászkikötője Ecuador egyik legnagyobbja."],
+      ro: ["Salinas a fost fondat în 1824.", "Populația este de aproximativ 50.000 (2010).", "Orașul se află la nivelul mării.", "Cantonul Salinas are o suprafață de 69 km².", "Temperatura medie anuală este de 25 °C.", "Portul de pescuit din Salinas este unul dintre cele mai mari din Ecuador."],
+      en: ["Salinas was founded in 1824.", "Population is about 50,000 (2010).", "The city is at sea level.", "The canton of Salinas covers 69 km².", "Average annual temperature is 25 °C.", "The fishing port of Salinas is one of the largest in Ecuador."],
+    },
+  },
   {
     id: "general-villamil-playas-cities-v2",
     type: "city",
     parent: "EC-G",
     coords: [-80.3809, -2.6319],
-    name: { de: "General Villamil Playas", hu: "General Villamil Playas", ro: "General Villamil Playas", en: "General Villamil Playas",
-image: "/poi-images/general-villamil-playas-cities-v2.webp"
-},
+    name: { de: "General Villamil Playas", hu: "General Villamil Playas", ro: "General Villamil Playas", en: "General Villamil Playas"},
+    image: "/poi-images/general-villamil-playas-cities-v2.webp",
     description: {
       de: "Ein sehr beliebtes Strandziel, das aufgrund seiner Nähe zu Guayaquil floriert.",
       hu: "Nagyon népszerű tengerparti célpont, amely Guayaquil közelsége miatt virágzik.",
@@ -1004,15 +1184,27 @@ image: "/poi-images/general-villamil-playas-cities-v2.webp"
       hu: ["Kivételesen kellemes mikroklímával rendelkezik.", "Többnyire egyszerűen Playas néven ismert.", "Híres a helyi halászok hagyományos balsafa tutajairól.", "A szörfturizmus egyik fontos központja."],
       ro: ["Are un microclimat excepțional de plăcut.", "Cunoscută în mare parte pur și simplu ca Playas.", "Faimoasă pentru plutele tradiționale de balsa ale pescarilor locali.", "Un centru important pentru turismul de surfing."],
       en: ["Has an exceptionally pleasant microclimate.", "Mostly known simply as Playas.", "Famous for the traditional balsa rafts of local fishermen.", "An important center for surf tourism."]
-    }, image: "/poi-images/general-villamil-playas-cities-v2.webp"},
+    }, image: "/poi-images/general-villamil-playas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "General Villamil Playas, oft nur Playas genannt, ist eine Küstenstadt in der Provinz Guayas, Ecuador. Sie liegt an der Pazifikküste und ist ein beliebtes Touristenziel für Einheimische. Der Strand von Playas erstreckt sich über mehrere Kilometer. Die Stadt wurde 1834 gegründet. Die Bevölkerung beträgt etwa 40.000 (2010). Die Wirtschaft basiert auf Tourismus, Fischerei und Landwirtschaft. Playas hat eine Fischfabrik und mehrere Hotels. Die durchschnittliche Jahrestemperatur liegt bei 26 °C. Die Stadt ist über die E25 mit Guayaquil verbunden, etwa 90 km entfernt.",
+      hu: "General Villamil Playas, gyakran Playas, egy tengerparti város Ecuador Guayas tartományában. A Csendes-óceán partján fekszik, és népszerű turisztikai célpont a helyiek körében. A playasi strand több kilométer hosszan húzódik. A várost 1834-ben alapították. Lakossága kb. 40 000 fő (2010). Gazdasága a turizmuson, halászaton és mezőgazdaságon alapul. Playasban halfeldolgozó üzem és szállodák találhatók. Az éves középhőmérséklet 26 °C. A várost az E25-ös út köti össze Guayaquillel, ami kb. 90 km-re van.",
+      ro: "General Villamil Playas, adesea numit Playas, este un oraș de coastă în provincia Guayas, Ecuador. Este situat pe coasta Pacificului și este o destinație turistică populară pentru localnici. Plaja Playas se întinde pe câțiva kilometri. Orașul a fost fondat în 1834. Populația este de aproximativ 40.000 (2010). Economia se bazează pe turism, pescuit și agricultură. Playas are o fabrică de procesare a peștelui și mai multe hoteluri. Temperatura medie anuală este de 26 °C. Orașul este conectat prin drumul E25 la Guayaquil, la aproximativ 90 km distanță.",
+      en: "General Villamil Playas, often simply Playas, is a coastal city in Guayas Province, Ecuador. It lies on the Pacific coast and is a popular tourist destination for locals. The beach of Playas stretches for several kilometers. The city was founded in 1834. Population is about 40,000 (2010). Economy relies on tourism, fishing, and agriculture. Playas has a fish processing plant and several hotels. Average annual temperature is 26 °C. The city is connected via the E25 highway to Guayaquil, about 90 km away.",
+    },
+    factsAdvanced: {
+      de: ["Playas wurde 1834 gegründet.", "Die Bevölkerung beträgt etwa 40.000 (2010).", "Die Stadt liegt auf Meereshöhe.", "Der Kanton Playas hat eine Fläche von 269 km².", "Die durchschnittliche Jahrestemperatur beträgt 26 °C.", "Die Entfernung nach Guayaquil beträgt 90 km."],
+      hu: ["Playas-t 1834-ben alapították.", "Lakossága kb. 40 000 fő (2010).", "A város tengerszinten fekszik.", "Playas kanton területe 269 km².", "Az éves középhőmérséklet 26 °C.", "Távolság Guayaquiltől 90 km."],
+      ro: ["Playas a fost fondat în 1834.", "Populația este de aproximativ 40.000 (2010).", "Orașul se află la nivelul mării.", "Cantonul Playas are o suprafață de 269 km².", "Temperatura medie anuală este de 26 °C.", "Distanța până la Guayaquil este de 90 km."],
+      en: ["Playas was founded in 1834.", "Population is about 40,000 (2010).", "The city is at sea level.", "The canton of Playas covers 269 km².", "Average annual temperature is 26 °C.", "Distance to Guayaquil is 90 km."],
+    },
+  },
   {
     id: "azogues-cities-v2",
     type: "state-capital",
     parent: "EC-F",
     coords: [-78.8485, -2.7396],
-    name: { de: "Azogues", hu: "Azogues", ro: "Azogues", en: "Azogues",
-image: "/poi-images/azogues-cities-v2.webp"
-},
+    name: { de: "Azogues", hu: "Azogues", ro: "Azogues", en: "Azogues"},
+    image: "/poi-images/azogues-cities-v2.webp",
     description: {
       de: "Eine koloniale Stadt in den Anden, die für ihre majestätische Franziskanerkirche bekannt ist.",
       hu: "Gyarmati város az Andokban, amely fenséges ferences templomáról ismert.",
@@ -1024,15 +1216,27 @@ image: "/poi-images/azogues-cities-v2.webp"
       hu: ["Cañar tartomány fővárosa.", "A Virgen de la Nube zarándoktemploma meghatározza a városképet.", "A panamakalap-gyártás andoki központja.", "A 16. században alapították a spanyolok."],
       ro: ["Capitala provinciei Cañar.", "Biserica de pelerinaj Virgen de la Nube domină peisajul orașului.", "Un centru al producției de pălării Panama în Anzi.", "Fondat în secolul al XVI-lea de spanioli."],
       en: ["Capital of the Cañar province.", "The pilgrimage church of the Virgen de la Nube dominates the cityscape.", "An Andean center of Panama hat production.", "Founded in the 16th century by the Spanish."]
-    }, image: "/poi-images/azogues-cities-v2.webp"},
+    }, image: "/poi-images/azogues-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Azogues ist die Hauptstadt der Provinz Cañar in Ecuador. Sie liegt in den Anden auf einer Höhe von etwa 2.500 m. Die Stadt ist bekannt für ihre koloniale Architektur und die Iglesia de San Francisco. Azogues wurde 1560 gegründet. Die Bevölkerung beträgt rund 40.000 (2010). Die Wirtschaft basiert auf Landwirtschaft (Mais, Kartoffeln) und Viehzucht. Die Stadt ist auch für ihre Kunsthandwerk aus Keramik und Textilien bekannt. Azogues liegt nahe dem Nationalpark Cajas. Die durchschnittliche Jahrestemperatur liegt bei 14 °C. Die Fernstraße E35 verbindet Azogues mit Cuenca.",
+      hu: "Azogues Ecuador Cañar tartományának fővárosa. Az Andokban fekszik, kb. 2500 m tengerszint feletti magasságban. A város híres gyarmati építészetéről és a San Francisco-templomról. Azoguest 1560-ban alapították. Lakossága kb. 40 000 fő (2010). Gazdasága mezőgazdaságon (kukorica, burgonya) és állattenyésztésen alapul. A város híres kerámia- és textil kézművességéről is. Azogues közel van a Cajas Nemzeti Parkhoz. Az éves középhőmérséklet 14 °C. Az E35-ös út köti össze Cuencával.",
+      ro: "Azogues este capitala provinciei Cañar din Ecuador. Este situat în Anzi, la o altitudine de aproximativ 2.500 m. Orașul este cunoscut pentru arhitectura sa colonială și Biserica San Francisco. Azogues a fost fondat în 1560. Populația este de aproximativ 40.000 (2010). Economia se bazează pe agricultură (porumb, cartofi) și creșterea animalelor. Orașul este, de asemenea, renumit pentru meșteșugurile din ceramică și textile. Azogues este aproape de Parcul Național Cajas. Temperatura medie anuală este de 14 °C. Drumul E35 leagă Azogues de Cuenca.",
+      en: "Azogues is the capital of Cañar Province, Ecuador. It is located in the Andes at an elevation of about 2,500 m. The city is known for its colonial architecture and the San Francisco Church. Azogues was founded in 1560. Population is around 40,000 (2010). Economy relies on agriculture (corn, potatoes) and livestock. The city is also known for its handicrafts in ceramics and textiles. Azogues is near Cajas National Park. Average annual temperature is 14 °C. The E35 highway connects Azogues to Cuenca.",
+    },
+    factsAdvanced: {
+      de: ["Azogues wurde 1560 gegründet.", "Die Bevölkerung beträgt etwa 40.000 (2010).", "Die Stadt liegt auf 2.500 m Höhe.", "Der Kanton Azogues hat eine Fläche von 595 km².", "Die durchschnittliche Jahrestemperatur beträgt 14 °C.", "Die Entfernung nach Cuenca beträgt 30 km."],
+      hu: ["Azoguest 1560-ban alapították.", "Lakossága kb. 40 000 fő (2010).", "A város 2500 m magasan fekszik.", "Azogues kanton területe 595 km².", "Az éves középhőmérséklet 14 °C.", "Távolság Cuencától 30 km."],
+      ro: ["Azogues a fost fondat în 1560.", "Populația este de aproximativ 40.000 (2010).", "Orașul se află la 2.500 m altitudine.", "Cantonul Azogues are o suprafață de 595 km².", "Temperatura medie anuală este de 14 °C.", "Distanța până la Cuenca este de 30 km."],
+      en: ["Azogues was founded in 1560.", "Population is about 40,000 (2010).", "The city is at 2,500 m elevation.", "The canton of Azogues covers 595 km².", "Average annual temperature is 14 °C.", "Distance to Cuenca is 30 km."],
+    },
+  },
   {
     id: "puyo-cities-v2",
     type: "state-capital",
     parent: "EC-Y",
     coords: [-78.0001, -1.4836],
-    name: { de: "Puyo", hu: "Puyo", ro: "Puyo", en: "Puyo",
-image: "/poi-images/puyo-cities-v2.webp"
-},
+    name: { de: "Puyo", hu: "Puyo", ro: "Puyo", en: "Puyo"},
+    image: "/poi-images/puyo-cities-v2.webp",
     description: {
       de: "Das dynamische kommerzielle Zentrum an der Schwelle zum ecuadorianischen Amazonasregenwald.",
       hu: "Dinamikus kereskedelmi központ az ecuadori amazonasi esőerdő kapujában.",
@@ -1044,15 +1248,27 @@ image: "/poi-images/puyo-cities-v2.webp"
       hu: ["Pastaza tartomány fővárosa.", "Az Omaere etnobotanikai park őslakos hagyományokat őriz.", "A balsafa fafaragás tipikus helyi kézműves foglalkozás.", "Bázistáborként szolgál az esőerdei kirándulásokhoz."],
       ro: ["Capitala provinciei Pastaza.", "Parcul etnobotanic Omaere păstrează tradițiile indigene.", "Sculptura în lemn de balsa este un meșteșug local tipic.", "Servește drept tabără de bază pentru excursiile în pădurea tropicală."],
       en: ["Capital of the Pastaza province.", "The Omaere Ethnobotanical Park preserves indigenous traditions.", "Balsa wood carving is a typical local craft.", "Serves as a base camp for rainforest excursions."]
-    }, image: "/poi-images/puyo-cities-v2.webp"},
+    }, image: "/poi-images/puyo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Puyo ist die Hauptstadt der Provinz Pastaza in Ecuador und liegt im Amazonasbecken. Die Stadt ist ein Tor zum Amazonas-Regenwald und bekannt für ihre Biodiversität. Puyo wurde 1899 gegründet. Die Bevölkerung beträgt etwa 40.000 (2010). Die Wirtschaft basiert auf Tourismus, Landwirtschaft (Yuca, Bananen) und der Ölförderung. Puyo bietet Zugang zu Wasserfällen, Naturparks und indigenen Gemeinschaften. Die durchschnittliche Jahrestemperatur liegt bei 22 °C. Die Stadt ist über die E30 an das Straßennetz angebunden.",
+      hu: "Puyo Ecuador Pastaza tartományának fővárosa, az Amazonas-medencében fekszik. A város kapu az amazonasi esőerdőhöz, és híres biológiai sokféleségéről. Puyot 1899-ben alapították. Lakossága kb. 40 000 fő (2010). Gazdasága a turizmuson, mezőgazdaságon (yuca, banán) és olajkitermelésen alapul. Puyo vízeséseket, természeti parkokat és őslakos közösségeket kínál. Az éves középhőmérséklet 22 °C. A várost az E30-as út köti össze az úthálózattal.",
+      ro: "Puyo este capitala provinciei Pastaza din Ecuador, situată în bazinul Amazonului. Orașul este o poartă către pădurea tropicală amazoniană și este cunoscut pentru biodiversitatea sa. Puyo a fost fondat în 1899. Populația este de aproximativ 40.000 (2010). Economia se bazează pe turism, agricultură (yuca, banane) și exploatarea petrolului. Puyo oferă acces la cascade, parcuri naturale și comunități indigene. Temperatura medie anuală este de 22 °C. Orașul este conectat prin drumul E30 la rețeaua rutieră.",
+      en: "Puyo is the capital of Pastaza Province, Ecuador, located in the Amazon basin. The city is a gateway to the Amazon rainforest and known for its biodiversity. Puyo was founded in 1899. Population is about 40,000 (2010). Economy relies on tourism, agriculture (yucca, bananas), and oil extraction. Puyo offers access to waterfalls, nature parks, and indigenous communities. Average annual temperature is 22 °C. The city is connected via the E30 highway to the road network.",
+    },
+    factsAdvanced: {
+      de: ["Puyo wurde 1899 gegründet.", "Die Bevölkerung beträgt etwa 40.000 (2010).", "Die Stadt liegt auf 900 m Höhe.", "Der Kanton Pastaza hat eine Fläche von 29.520 km².", "Die durchschnittliche Jahrestemperatur beträgt 22 °C.", "Die E30 verbindet Puyo mit Tena und Macas."],
+      hu: ["Puyot 1899-ben alapították.", "Lakossága kb. 40 000 fő (2010).", "A város 900 m magasan fekszik.", "Pastaza kanton területe 29 520 km².", "Az éves középhőmérséklet 22 °C.", "Az E30-as út köti össze Tenával és Macasszal."],
+      ro: ["Puyo a fost fondat în 1899.", "Populația este de aproximativ 40.000 (2010).", "Orașul se află la 900 m altitudine.", "Cantonul Pastaza are o suprafață de 29.520 km².", "Temperatura medie anuală este de 22 °C.", "Drumul E30 leagă Puyo de Tena și Macas."],
+      en: ["Puyo was founded in 1899.", "Population is about 40,000 (2010).", "The city is at 900 m elevation.", "Pastaza canton covers 29,520 km².", "Average annual temperature is 22 °C.", "The E30 highway connects Puyo to Tena and Macas."],
+    },
+  },
   {
     id: "vinces-cities-v2",
     type: "city",
     parent: "EC-R",
     coords: [-79.7516, -1.5544],
-    name: { de: "Vinces", hu: "Vinces", ro: "Vinces", en: "Vinces",
-image: "/poi-images/vinces-cities-v2.webp"
-},
+    name: { de: "Vinces", hu: "Vinces", ro: "Vinces", en: "Vinces"},
+    image: "/poi-images/vinces-cities-v2.webp",
     description: {
       de: "Bekannt als das Paris in Kleinformat wegen seines architektonischen Einflusses aus der Kakaoboom-Zeit.",
       hu: "Párizs miniatűr változatának hívják a kakaóbúm idejéből származó építészeti hatásai miatt.",
@@ -1070,9 +1286,8 @@ image: "/poi-images/vinces-cities-v2.webp"
     type: "city",
     parent: "EC-SD",
     coords: [-79.3980, 0.0122],
-    name: { de: "La Concordia", hu: "La Concordia", ro: "La Concordia", en: "La Concordia",
-image: "/poi-images/la-concordia-cities-v2.webp"
-},
+    name: { de: "La Concordia", hu: "La Concordia", ro: "La Concordia", en: "La Concordia"},
+    image: "/poi-images/la-concordia-cities-v2.webp",
     description: {
       de: "Eine junge und aufstrebende Agrarstadt an der Grenze zwischen Küste und Anden.",
       hu: "Fiatal és feltörekvő mezőgazdasági város a partvidék és az Andok határán.",
@@ -1084,15 +1299,27 @@ image: "/poi-images/la-concordia-cities-v2.webp"
       hu: ["Évekig tartó viták után Santo Domingo de los Tsáchilas tartományhoz csatolták.", "A környéket hatalmas pálmaolaj-ültetvények jellemzik.", "A város a belső migráció révén erősen fejlődött.", "Nagyon termékeny vulkanikus talajokkal rendelkezik."],
       ro: ["A fost atribuit provinciei Santo Domingo de los Tsáchilas după ani de dispute.", "Împrejurimile sunt dominate de mari plantații de ulei de palmier.", "Orașul s-a dezvoltat puternic datorită migrației interne.", "Are soluri vulcanice foarte fertile."],
       en: ["Was awarded to the Santo Domingo de los Tsáchilas province after years of disputes.", "Large oil palm plantations characterize the surroundings.", "The city developed strongly due to internal migration.", "Has very fertile volcanic soils."]
-    }, image: "/poi-images/la-concordia-cities-v2.webp"},
+    }, image: "/poi-images/la-concordia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "La Concordia ist eine Stadt in der Provinz Santo Domingo de los Tsáchilas, Ecuador. Sie liegt im Tiefland und ist ein landwirtschaftliches Zentrum, besonders für Palmöl und Bananen. Die Stadt wurde 1952 gegründet. Die Bevölkerung beträgt etwa 40.000 (2010). Die Wirtschaft basiert auf Agrarindustrie und Handel. La Concordia hat mehrere Schulen und ein Krankenhaus. Die durchschnittliche Jahrestemperatur liegt bei 26 °C. Die Stadt ist über die E30 mit Santo Domingo verbunden.",
+      hu: "La Concordia város Ecuador Santo Domingo de los Tsáchilas tartományában. Az alföldön fekszik, és mezőgazdasági központ, különösen pálmaolaj és banán termesztésében. A várost 1952-ben alapították. Lakossága kb. 40 000 fő (2010). Gazdasága mezőgazdasági iparon és kereskedelemén alapul. La Concordia iskolákkal és kórházzal rendelkezik. Az éves középhőmérséklet 26 °C. A várost az E30-as út köti össze Santo Domingóval.",
+      ro: "La Concordia este un oraș în provincia Santo Domingo de los Tsáchilas, Ecuador. Este situat în câmpie și este un centru agricol, în special pentru ulei de palmier și banane. Orașul a fost fondat în 1952. Populația este de aproximativ 40.000 (2010). Economia se bazează pe agroindustrie și comerț. La Concordia are școli și un spital. Temperatura medie anuală este de 26 °C. Orașul este conectat prin drumul E30 la Santo Domingo.",
+      en: "La Concordia is a city in Santo Domingo de los Tsáchilas Province, Ecuador. Located in the lowlands, it is an agricultural center, especially for palm oil and bananas. The city was founded in 1952. Population is about 40,000 (2010). Economy relies on agribusiness and commerce. La Concordia has schools and a hospital. Average annual temperature is 26 °C. The city is connected via the E30 highway to Santo Domingo.",
+    },
+    factsAdvanced: {
+      de: ["La Concordia wurde 1952 gegründet.", "Die Bevölkerung beträgt etwa 40.000 (2010).", "Die Stadt liegt auf 100 m Höhe.", "Der Kanton La Concordia hat eine Fläche von 325 km².", "Die durchschnittliche Jahrestemperatur beträgt 26 °C.", "Die Entfernung nach Santo Domingo beträgt 30 km."],
+      hu: ["La Concordiát 1952-ben alapították.", "Lakossága kb. 40 000 fő (2010).", "A város 100 m magasan fekszik.", "La Concordia kanton területe 325 km².", "Az éves középhőmérséklet 26 °C.", "Távolság Santo Domingótól 30 km."],
+      ro: ["La Concordia a fost fondat în 1952.", "Populația este de aproximativ 40.000 (2010).", "Orașul se află la 100 m altitudine.", "Cantonul La Concordia are o suprafață de 325 km².", "Temperatura medie anuală este de 26 °C.", "Distanța până la Santo Domingo este de 30 km."],
+      en: ["La Concordia was founded in 1952.", "Population is about 40,000 (2010).", "The city is at 100 m elevation.", "The canton of La Concordia covers 325 km².", "Average annual temperature is 26 °C.", "Distance to Santo Domingo is 30 km."],
+    },
+  },
   {
     id: "quininde-cities-v2",
     type: "city",
     parent: "EC-E",
     coords: [-79.4660, 0.3275],
-    name: { de: "Quinindé", hu: "Quinindé", ro: "Quinindé", en: "Quinindé",
-image: "/poi-images/quininde-cities-v2.webp"
-},
+    name: { de: "Quinindé", hu: "Quinindé", ro: "Quinindé", en: "Quinindé"},
+    image: "/poi-images/quininde-cities-v2.webp",
     description: {
       de: "Ein bedeutender Palmöl-Knotenpunkt im Herzen der üppigen Provinz Esmeraldas.",
       hu: "Jelentős pálmaolaj-csomópont a buja Esmeraldas tartomány szívében.",
@@ -1104,15 +1331,27 @@ image: "/poi-images/quininde-cities-v2.webp"
       hu: ["Hivatalosan Rosa Zárate néven ismert.", "A Blanco és a Quinindé folyók itt találkoznak.", "A trópusi éghajlat kedvez a buja növényzetnek.", "Fontos megálló az északi part felé vezető úton."],
       ro: ["Cunoscut oficial sub numele de Rosa Zárate.", "Râurile Blanco și Quinindé se întâlnesc aici.", "Clima tropicală favorizează o vegetație luxuriantă.", "O oprire importantă pe drumul spre coasta de nord."],
       en: ["Officially known as Rosa Zárate.", "The Blanco and Quinindé rivers meet here.", "The tropical climate favors lush vegetation.", "An important stop on the way to the northern coast."]
-    }, image: "/poi-images/quininde-cities-v2.webp"},
+    }, image: "/poi-images/quininde-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Quinindé, auch bekannt als Rosa Zarate, ist eine Stadt in der Provinz Esmeraldas, Ecuador. Sie liegt im Tiefland und ist ein Zentrum der Landwirtschaft, insbesondere für Palmöl, Bananen und Kakao. Die Stadt wurde 1955 gegründet. Die Bevölkerung beträgt etwa 70.000 (2010). Die Wirtschaft basiert auf Agrarindustrie und Holzwirtschaft. Quinindé hat mehrere Bildungseinrichtungen und ein Krankenhaus. Die durchschnittliche Jahrestemperatur liegt bei 25 °C. Die Stadt ist über die E15 mit Esmeraldas verbunden.",
+      hu: "Quinindé, más néven Rosa Zarate, Ecuador Esmeraldas tartományában található. Az alföldön fekszik, és mezőgazdasági központ, különösen pálmaolaj, banán és kakaó termesztésében. A várost 1955-ben alapították. Lakossága kb. 70 000 fő (2010). Gazdasága mezőgazdasági iparon és fafeldolgozáson alapul. Quinindé iskolákkal és kórházzal rendelkezik. Az éves középhőmérséklet 25 °C. A várost az E15-ös út köti össze Esmeraldasszal.",
+      ro: "Quinindé, cunoscut și sub numele de Rosa Zarate, este un oraș în provincia Esmeraldas, Ecuador. Este situat în câmpie și este un centru agricol, în special pentru ulei de palmier, banane și cacao. Orașul a fost fondat în 1955. Populația este de aproximativ 70.000 (2010). Economia se bazează pe agroindustrie și exploatarea lemnului. Quinindé are instituții de învățământ și un spital. Temperatura medie anuală este de 25 °C. Orașul este conectat prin drumul E15 la Esmeraldas.",
+      en: "Quinindé, also known as Rosa Zarate, is a city in Esmeraldas Province, Ecuador. Located in the lowlands, it is a center for agriculture, especially palm oil, bananas, and cocoa. The city was founded in 1955. Population is about 70,000 (2010). Economy relies on agribusiness and timber. Quinindé has educational institutions and a hospital. Average annual temperature is 25 °C. The city is connected via the E15 highway to Esmeraldas.",
+    },
+    factsAdvanced: {
+      de: ["Quinindé wurde 1955 gegründet.", "Die Bevölkerung beträgt etwa 70.000 (2010).", "Die Stadt liegt auf 30 m Höhe.", "Der Kanton Quinindé hat eine Fläche von 3.795 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die E15 verbindet Quinindé mit Esmeraldas (80 km) und Santo Domingo."],
+      hu: ["Quinindét 1955-ben alapították.", "Lakossága kb. 70 000 fő (2010).", "A város 30 m magasan fekszik.", "Quinindé kanton területe 3 795 km².", "Az éves középhőmérséklet 25 °C.", "Az E15-ös út köti össze Esmeraldasszal (80 km) és Santo Domingóval."],
+      ro: ["Quinindé a fost fondat în 1955.", "Populația este de aproximativ 70.000 (2010).", "Orașul se află la 30 m altitudine.", "Cantonul Quinindé are o suprafață de 3.795 km².", "Temperatura medie anuală este de 25 °C.", "Drumul E15 leagă Quinindé de Esmeraldas (80 km) și Santo Domingo."],
+      en: ["Quinindé was founded in 1955.", "Population is about 70,000 (2010).", "The city is at 30 m elevation.", "The canton of Quinindé covers 3,795 km².", "Average annual temperature is 25 °C.", "The E15 highway connects Quinindé to Esmeraldas (80 km) and Santo Domingo."],
+    },
+  },
   {
     id: "balzar-cities-v2",
     type: "city",
     parent: "EC-G",
     coords: [-79.9052, -1.3644],
-    name: { de: "Balzar", hu: "Balzar", ro: "Balzar", en: "Balzar",
-image: "/poi-images/balzar-cities-v2.webp"
-},
+    name: { de: "Balzar", hu: "Balzar", ro: "Balzar", en: "Balzar"},
+    image: "/poi-images/balzar-cities-v2.webp",
     description: {
       de: "Zentrum der Viehzucht und Teakholzproduktion im ländlichen Guayas.",
       hu: "A szarvasmarha-tenyésztés és a teakfa termelésének központja a vidéki Guayas területén.",
@@ -1124,15 +1363,27 @@ image: "/poi-images/balzar-cities-v2.webp"
       hu: ["Kiváló tejtermékeiről, különösen sajtjairól híres.", "Nagy teakfaültetvények veszik körül a települést.", "A Montubio lovas hagyományokat itt is őrzik.", "A Daule folyó partján fekszik."],
       ro: ["Faimos pentru produsele lactate excelente, în special brânză.", "Mari plantații de lemn de tec înconjoară comunitatea.", "Tradițiile ecvestre ale Montubio sunt menținute aici.", "Situat pe râul Daule."],
       en: ["Famous for excellent dairy products, especially cheese.", "Large teak plantations surround the municipality.", "The equestrian traditions of the Montubios are maintained here.", "Located on the Daule River."]
-    }, image: "/poi-images/balzar-cities-v2.webp"},
+    }, image: "/poi-images/balzar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Balzar ist eine Stadt in der Provinz Guayas, Ecuador. Sie liegt im Tiefland und ist ein landwirtschaftliches Zentrum, spezialisiert auf Reis, Mais und Baumwolle. Die Stadt wurde 1824 gegründet. Die Bevölkerung beträgt etwa 53.000 (2010). Die Wirtschaft basiert auf Landwirtschaft und Handel. Balzar hat mehrere Schulen, ein Krankenhaus und einen Busbahnhof. Die durchschnittliche Jahrestemperatur liegt bei 25 °C. Die Stadt ist über die E25 mit Guayaquil verbunden.",
+      hu: "Balzar város Ecuador Guayas tartományában, az alföldön fekszik. Mezőgazdasági központ, rizsre, kukoricára és gyapotra specializálódott. A várost 1824-ben alapították. Lakossága kb. 53 000 fő (2010). Gazdasága mezőgazdaságon és kereskedelemén alapul. Balzar iskolákkal, kórházzal és buszpályaudvarral rendelkezik. Az éves középhőmérséklet 25 °C. A várost az E25-ös út köti össze Guayaquillel.",
+      ro: "Balzar este un oraș în provincia Guayas, Ecuador. Este situat în câmpie și este un centru agricol specializat în orez, porumb și bumbac. Orașul a fost fondat în 1824. Populația este de aproximativ 53.000 (2010). Economia se bazează pe agricultură și comerț. Balzar are școli, un spital și o stație de autobuz. Temperatura medie anuală este de 25 °C. Orașul este conectat prin drumul E25 la Guayaquil.",
+      en: "Balzar is a city in Guayas Province, Ecuador. Located in the lowlands, it is an agricultural center specializing in rice, corn, and cotton. The city was founded in 1824. Population is about 53,000 (2010). Economy relies on agriculture and commerce. Balzar has schools, a hospital, and a bus terminal. Average annual temperature is 25 °C. The city is connected via the E25 highway to Guayaquil.",
+    },
+    factsAdvanced: {
+      de: ["Balzar wurde 1824 gegründet.", "Die Bevölkerung beträgt etwa 53.000 (2010).", "Die Stadt liegt auf 20 m Höhe.", "Der Kanton Balzar hat eine Fläche von 1.306 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die Entfernung nach Guayaquil beträgt 120 km."],
+      hu: ["Balzart 1824-ben alapították.", "Lakossága kb. 53 000 fő (2010).", "A város 20 m magasan fekszik.", "Balzar kanton területe 1 306 km².", "Az éves középhőmérséklet 25 °C.", "Távolság Guayaquiltől 120 km."],
+      ro: ["Balzar a fost fondat în 1824.", "Populația este de aproximativ 53.000 (2010).", "Orașul se află la 20 m altitudine.", "Cantonul Balzar are o suprafață de 1.306 km².", "Temperatura medie anuală este de 25 °C.", "Distanța până la Guayaquil este de 120 km."],
+      en: ["Balzar was founded in 1824.", "Population is about 53,000 (2010).", "The city is at 20 m elevation.", "The canton of Balzar covers 1,306 km².", "Average annual temperature is 25 °C.", "Distance to Guayaquil is 120 km."],
+    },
+  },
   {
     id: "naranjito-cities-v2",
     type: "city",
     parent: "EC-G",
     coords: [-79.4646, -2.1672],
-    name: { de: "Naranjito", hu: "Naranjito", ro: "Naranjito", en: "Naranjito",
-image: "/poi-images/naranjito-cities-v2.webp"
-},
+    name: { de: "Naranjito", hu: "Naranjito", ro: "Naranjito", en: "Naranjito"},
+    image: "/poi-images/naranjito-cities-v2.webp",
     description: {
       de: "Eine lebendige kleine Stadt, die von ausgedehnten Bananen- und Kakaofeldern geprägt ist.",
       hu: "Élénk kisváros, amelyet kiterjedt banán- és kakaóültetvények jellemeznek.",
@@ -1144,15 +1395,27 @@ image: "/poi-images/naranjito-cities-v2.webp"
       hu: ["Történelmileg profitált a Quitóba vezető vasútépítésből.", "Gazdaságilag szorosan kötődik a közeli Milagróhoz.", "A mezőgazdaság a legfontosabb foglalkoztatási forrás.", "A helyi gasztronómiát tengeri és folyami halak jellemzik."],
       ro: ["A profitat istoric de pe urma construcției căii ferate către Quito.", "Strâns legat economic de Milagro din apropiere.", "Agricultura este cea mai importantă sursă de locuri de muncă.", "Gastronomia locală se caracterizează prin peștele de mare și de râu."],
       en: ["Historically benefited from the railway construction to Quito.", "Economically strongly linked to nearby Milagro.", "Agriculture is the most important source of employment.", "Local gastronomy is characterized by sea and river fish."]
-    }, image: "/poi-images/naranjito-cities-v2.webp"},
+    }, image: "/poi-images/naranjito-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Naranjito ist eine Stadt in der Provinz Guayas, Ecuador. Sie liegt im Tiefland und ist ein Zentrum für den Anbau von Zuckerrohr, Bananen und Kakao. Die Stadt wurde 1830 gegründet. Die Bevölkerung beträgt etwa 50.000 (2010). Die Wirtschaft basiert auf Landwirtschaft und der Zuckerproduktion. Naranjito hat eine große Zuckerfabrik. Die durchschnittliche Jahrestemperatur liegt bei 25 °C. Die Stadt ist über die E25 mit Guayaquil verbunden.",
+      hu: "Naranjito város Ecuador Guayas tartományában, az alföldön fekszik. Cukornád-, banán- és kakaótermesztésének központja. A várost 1830-ban alapították. Lakossága kb. 50 000 fő (2010). Gazdasága mezőgazdaságon és cukortermelésen alapul. Naranjitóban nagy cukorgyár található. Az éves középhőmérséklet 25 °C. A várost az E25-ös út köti össze Guayaquillel.",
+      ro: "Naranjito este un oraș în provincia Guayas, Ecuador. Este situat în câmpie și este un centru pentru cultivarea trestiei de zahăr, bananelor și cacăului. Orașul a fost fondat în 1830. Populația este de aproximativ 50.000 (2010). Economia se bazează pe agricultură și producția de zahăr. Naranjito are o mare fabrică de zahăr. Temperatura medie anuală este de 25 °C. Orașul este conectat prin drumul E25 la Guayaquil.",
+      en: "Naranjito is a city in Guayas Province, Ecuador. Located in the lowlands, it is a center for sugarcane, banana, and cocoa cultivation. The city was founded in 1830. Population is about 50,000 (2010). Economy relies on agriculture and sugar production. Naranjito has a large sugar mill. Average annual temperature is 25 °C. The city is connected via the E25 highway to Guayaquil.",
+    },
+    factsAdvanced: {
+      de: ["Naranjito wurde 1830 gegründet.", "Die Bevölkerung beträgt etwa 50.000 (2010).", "Die Stadt liegt auf 15 m Höhe.", "Der Kanton Naranjito hat eine Fläche von 226 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die Entfernung nach Guayaquil beträgt 60 km."],
+      hu: ["Naranjitot 1830-ban alapították.", "Lakossága kb. 50 000 fő (2010).", "A város 15 m magasan fekszik.", "Naranjito kanton területe 226 km².", "Az éves középhőmérséklet 25 °C.", "Távolság Guayaquiltől 60 km."],
+      ro: ["Naranjito a fost fondat în 1830.", "Populația este de aproximativ 50.000 (2010).", "Orașul se află la 15 m altitudine.", "Cantonul Naranjito are o suprafață de 226 km².", "Temperatura medie anuală este de 25 °C.", "Distanța până la Guayaquil este de 60 km."],
+      en: ["Naranjito was founded in 1830.", "Population is about 50,000 (2010).", "The city is at 15 m elevation.", "The canton of Naranjito covers 226 km².", "Average annual temperature is 25 °C.", "Distance to Guayaquil is 60 km."],
+    },
+  },
   {
     id: "naranjal-cities-v2",
     type: "city",
     parent: "EC-G",
     coords: [-79.6174, -2.6736],
-    name: { de: "Naranjal", hu: "Naranjal", ro: "Naranjal", en: "Naranjal",
-image: "/poi-images/naranjal-cities-v2.webp"
-},
+    name: { de: "Naranjal", hu: "Naranjal", ro: "Naranjal", en: "Naranjal"},
+    image: "/poi-images/naranjal-cities-v2.webp",
     description: {
       de: "Der Ausgangspunkt für Ausflüge zu indigenen Gemeinschaften und den heißen Quellen von Churute.",
       hu: "Az őslakos közösségekhez és a Churute meleg forrásokhoz vezető kirándulások kiindulópontja.",
@@ -1164,15 +1427,27 @@ image: "/poi-images/naranjal-cities-v2.webp"
       hu: ["A Churute mangrove rezervátum kapuja.", "A vörös kakaó termesztésének központja.", "A város a vörösrák fesztiváljáról híres.", "A fontos Ruta del Sol mentén fekszik."],
       ro: ["Poarta către Rezervația de mangrove Churute.", "Centru pentru cultivarea cacaoului roșu.", "Orașul este faimos pentru Festivalul Crabului Roșu.", "Situat pe importanta Ruta del Sol."],
       en: ["Gateway to the Churute Mangrove Reserve.", "Center for the cultivation of red cocoa.", "The city is famous for the Red Crab Festival.", "Located on the important Ruta del Sol."]
-    }, image: "/poi-images/naranjal-cities-v2.webp"},
+    }, image: "/poi-images/naranjal-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Naranjal ist eine Stadt in der Provinz Guayas, Ecuador. Sie liegt im Tiefland und ist ein Zentrum für die Landwirtschaft, insbesondere für Reis, Bananen und Kakao. Die Stadt wurde 1824 gegründet. Die Bevölkerung beträgt etwa 45.000 (2010). Die Wirtschaft basiert auf Landwirtschaft und Handel. Naranjal hat mehrere Schulen, ein Krankenhaus und eine Polizeistation. Die durchschnittliche Jahrestemperatur liegt bei 24 °C. Die Stadt ist über die E25 mit Guayaquil verbunden.",
+      hu: "Naranjal város Ecuador Guayas tartományában, az alföldön fekszik. Mezőgazdasági központ, különösen rizs, banán és kakaó termesztésében. A várost 1824-ben alapították. Lakossága kb. 45 000 fő (2010). Gazdasága mezőgazdaságon és kereskedelemén alapul. Naranjal iskolákkal, kórházzal és rendőrőrssel rendelkezik. Az éves középhőmérséklet 24 °C. A várost az E25-ös út köti össze Guayaquillel.",
+      ro: "Naranjal este un oraș în provincia Guayas, Ecuador. Este situat în câmpie și este un centru agricol, în special pentru orez, banane și cacao. Orașul a fost fondat în 1824. Populația este de aproximativ 45.000 (2010). Economia se bazează pe agricultură și comerț. Naranjal are școli, un spital și o secție de poliție. Temperatura medie anuală este de 24 °C. Orașul este conectat prin drumul E25 la Guayaquil.",
+      en: "Naranjal is a city in Guayas Province, Ecuador. Located in the lowlands, it is an agricultural center for rice, bananas, and cocoa. The city was founded in 1824. Population is about 45,000 (2010). Economy relies on agriculture and commerce. Naranjal has schools, a hospital, and a police station. Average annual temperature is 24 °C. The city is connected via the E25 highway to Guayaquil.",
+    },
+    factsAdvanced: {
+      de: ["Naranjal wurde 1824 gegründet.", "Die Bevölkerung beträgt etwa 45.000 (2010).", "Die Stadt liegt auf 20 m Höhe.", "Der Kanton Naranjal hat eine Fläche von 2.015 km².", "Die durchschnittliche Jahrestemperatur beträgt 24 °C.", "Die Entfernung nach Guayaquil beträgt 80 km."],
+      hu: ["Naranjalt 1824-ben alapították.", "Lakossága kb. 45 000 fő (2010).", "A város 20 m magasan fekszik.", "Naranjal kanton területe 2 015 km².", "Az éves középhőmérséklet 24 °C.", "Távolság Guayaquiltől 80 km."],
+      ro: ["Naranjal a fost fondat în 1824.", "Populația este de aproximativ 45.000 (2010).", "Orașul se află la 20 m altitudine.", "Cantonul Naranjal are o suprafață de 2.015 km².", "Temperatura medie anuală este de 24 °C.", "Distanța până la Guayaquil este de 80 km."],
+      en: ["Naranjal was founded in 1824.", "Population is about 45,000 (2010).", "The city is at 20 m elevation.", "The canton of Naranjal covers 2,015 km².", "Average annual temperature is 24 °C.", "Distance to Guayaquil is 80 km."],
+    },
+  },
   {
     id: "guaranda-cities-v2",
     type: "state-capital",
     parent: "EC-B",
     coords: [-79.0022, -1.5930],
-    name: { de: "Guaranda", hu: "Guaranda", ro: "Guaranda", en: "Guaranda",
-image: "/poi-images/guaranda-cities-v2.webp"
-},
+    name: { de: "Guaranda", hu: "Guaranda", ro: "Guaranda", en: "Guaranda"},
+    image: "/poi-images/guaranda-cities-v2.webp",
     description: {
       de: "Die Stadt der sieben Hügel, eingebettet in die steilen Täler der ecuadorianischen Anden.",
       hu: "A hét domb városa, amely az ecuadori Andok meredek völgyeiben fekszik.",
@@ -1184,15 +1459,27 @@ image: "/poi-images/guaranda-cities-v2.webp"
       hu: ["Bolívar tartomány fővárosa.", "Nagyon hagyományos karneváljáról híres.", "Drámai hegyvidéki tájak veszik körül.", "Az őslakos kereskedelem központja a régióban."],
       ro: ["Capitala provinciei Bolívar.", "Renumit pentru carnavalul său foarte tradițional.", "Înconjurat de peisaje montane dramatice.", "Centrul comerțului indigen din regiune."],
       en: ["Capital of the Bolívar province.", "Famous for its very traditional carnival.", "Surrounded by dramatic mountain landscapes.", "Center of indigenous trade in the region."]
-    }, image: "/poi-images/guaranda-cities-v2.webp"},
+    }, image: "/poi-images/guaranda-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Guaranda ist die Hauptstadt der Provinz Bolívar in Ecuador. Sie liegt in den Anden auf einer Höhe von etwa 2.700 m. Die Stadt ist bekannt für ihre koloniale Architektur und das Fest der Heiligen Jungfrau von Guaranda. Guaranda wurde 1571 gegründet. Die Bevölkerung beträgt rund 30.000 (2010). Die Wirtschaft basiert auf Landwirtschaft (Kartoffeln, Mais) und Viehzucht. Guaranda ist auch für seine Textilindustrie bekannt. Die durchschnittliche Jahrestemperatur liegt bei 13 °C. Die Stadt ist über die E35 mit Ambato verbunden.",
+      hu: "Guaranda Ecuador Bolívar tartományának fővárosa. Az Andokban fekszik, kb. 2700 m tengerszint feletti magasságban. A város híres gyarmati építészetéről és a Guarandai Szűz ünnepéről. Guarandát 1571-ben alapították. Lakossága kb. 30 000 fő (2010). Gazdasága mezőgazdaságon (burgonya, kukorica) és állattenyésztésen alapul. Guaranda híres textiliparáról is. Az éves középhőmérséklet 13 °C. A várost az E35-ös út köti össze Ambatóval.",
+      ro: "Guaranda este capitala provinciei Bolívar din Ecuador. Este situat în Anzi, la o altitudine de aproximativ 2.700 m. Orașul este cunoscut pentru arhitectura sa colonială și pentru festivalul Sfintei Fecioare din Guaranda. Guaranda a fost fondat în 1571. Populația este de aproximativ 30.000 (2010). Economia se bazează pe agricultură (cartofi, porumb) și creșterea animalelor. Guaranda este cunoscut și pentru industria textilă. Temperatura medie anuală este de 13 °C. Orașul este conectat prin drumul E35 la Ambato.",
+      en: "Guaranda is the capital of Bolívar Province, Ecuador. It is located in the Andes at an elevation of about 2,700 m. The city is known for its colonial architecture and the festival of the Holy Virgin of Guaranda. Guaranda was founded in 1571. Population is around 30,000 (2010). Economy relies on agriculture (potatoes, corn) and livestock. Guaranda is also known for its textile industry. Average annual temperature is 13 °C. The city is connected via the E35 highway to Ambato.",
+    },
+    factsAdvanced: {
+      de: ["Guaranda wurde 1571 gegründet.", "Die Bevölkerung beträgt etwa 30.000 (2010).", "Die Stadt liegt auf 2.700 m Höhe.", "Der Kanton Guaranda hat eine Fläche von 1.888 km².", "Die durchschnittliche Jahrestemperatur beträgt 13 °C.", "Die Entfernung nach Ambato beträgt 60 km."],
+      hu: ["Guarandát 1571-ben alapították.", "Lakossága kb. 30 000 fő (2010).", "A város 2700 m magasan fekszik.", "Guaranda kanton területe 1 888 km².", "Az éves középhőmérséklet 13 °C.", "Távolság Ambatótól 60 km."],
+      ro: ["Guaranda a fost fondat în 1571.", "Populația este de aproximativ 30.000 (2010).", "Orașul se află la 2.700 m altitudine.", "Cantonul Guaranda are o suprafață de 1.888 km².", "Temperatura medie anuală este de 13 °C.", "Distanța până la Ambato este de 60 km."],
+      en: ["Guaranda was founded in 1571.", "Population is about 30,000 (2010).", "The city is at 2,700 m elevation.", "The canton of Guaranda covers 1,888 km².", "Average annual temperature is 13 °C.", "Distance to Ambato is 60 km."],
+    },
+  },
   {
     id: "la-mana-cities-v2",
     type: "city",
     parent: "EC-X",
     coords: [-79.2272, -0.9419],
-    name: { de: "La Maná", hu: "La Maná", ro: "La Maná", en: "La Maná",
-image: "/poi-images/la-mana-cities-v2.webp"
-},
+    name: { de: "La Maná", hu: "La Maná", ro: "La Maná", en: "La Maná"},
+    image: "/poi-images/la-mana-cities-v2.webp",
     description: {
       de: "Ein Kanton, in dem das tropische Klima auf den Fuß der Anden trifft, bekannt für Wasserfälle.",
       hu: "Olyan kanton, ahol a trópusi éghajlat az Andok lábával találkozik, vízeséseiről ismert.",
@@ -1204,15 +1491,27 @@ image: "/poi-images/la-mana-cities-v2.webp"
       hu: ["Ecuador egyik legfontosabb aranybányászati helye.", "Buja köderdő található a környéken.", "A Las Pirámides vízesések népszerű célpontok.", "Gazdaságilag a mezőgazdaság dominál (banán, dohány)."],
       ro: ["Unul dintre cele mai importante situri de exploatare a aurului din Ecuador.", "Are o pădure de nori luxuriantă în împrejurimi.", "Cascadele Las Pirámides sunt o destinație populară.", "Dominată economic de agricultură (banane, tutun)."],
       en: ["One of the most important gold mining sites in Ecuador.", "Has lush cloud forest in the surroundings.", "The Las Pirámides waterfalls are a popular destination.", "Economically dominated by agriculture (bananas, tobacco)."]
-    }, image: "/poi-images/la-mana-cities-v2.webp"},
+    }, image: "/poi-images/la-mana-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "La Maná ist eine Stadt in der Provinz Cotopaxi, Ecuador. Sie liegt im Tiefland und ist ein landwirtschaftliches Zentrum für Zuckerrohr, Bananen und Kakao. Die Stadt wurde 1900 gegründet. Die Bevölkerung beträgt etwa 45.000 (2010). Die Wirtschaft basiert auf Landwirtschaft und der Zuckerproduktion. La Maná hat eine große Zuckerfabrik und mehrere Bildungseinrichtungen. Die durchschnittliche Jahrestemperatur liegt bei 25 °C. Die Stadt ist über die E30 mit Latacunga verbunden.",
+      hu: "La Maná város Ecuador Cotopaxi tartományában, az alföldön fekszik. Cukornád-, banán- és kakaótermesztésének mezőgazdasági központja. A várost 1900-ban alapították. Lakossága kb. 45 000 fő (2010). Gazdasága mezőgazdaságon és cukortermelésen alapul. La Manában nagy cukorgyár és iskolák találhatók. Az éves középhőmérséklet 25 °C. A várost az E30-as út köti össze Latacungával.",
+      ro: "La Maná este un oraș în provincia Cotopaxi, Ecuador. Este situat în câmpie și este un centru agricol pentru trestie de zahăr, banane și cacao. Orașul a fost fondat în 1900. Populația este de aproximativ 45.000 (2010). Economia se bazează pe agricultură și producția de zahăr. La Maná are o mare fabrică de zahăr și mai multe instituții de învățământ. Temperatura medie anuală este de 25 °C. Orașul este conectat prin drumul E30 la Latacunga.",
+      en: "La Maná is a city in Cotopaxi Province, Ecuador. Located in the lowlands, it is an agricultural center for sugarcane, bananas, and cocoa. The city was founded in 1900. Population is about 45,000 (2010). Economy relies on agriculture and sugar production. La Maná has a large sugar mill and several educational institutions. Average annual temperature is 25 °C. The city is connected via the E30 highway to Latacunga.",
+    },
+    factsAdvanced: {
+      de: ["La Maná wurde 1900 gegründet.", "Die Bevölkerung beträgt etwa 45.000 (2010).", "Die Stadt liegt auf 150 m Höhe.", "Der Kanton La Maná hat eine Fläche von 663 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die Entfernung nach Latacunga beträgt 80 km."],
+      hu: ["La Manát 1900-ban alapították.", "Lakossága kb. 45 000 fő (2010).", "A város 150 m magasan fekszik.", "La Maná kanton területe 663 km².", "Az éves középhőmérséklet 25 °C.", "Távolság Latacungától 80 km."],
+      ro: ["La Maná a fost fondat în 1900.", "Populația este de aproximativ 45.000 (2010).", "Orașul se află la 150 m altitudine.", "Cantonul La Maná are o suprafață de 663 km².", "Temperatura medie anuală este de 25 °C.", "Distanța până la Latacunga este de 80 km."],
+      en: ["La Maná was founded in 1900.", "Population is about 45,000 (2010).", "The city is at 150 m elevation.", "The canton of La Maná covers 663 km².", "Average annual temperature is 25 °C.", "Distance to Latacunga is 80 km."],
+    },
+  },
   {
     id: "tena-cities-v2",
     type: "state-capital",
     parent: "EC-N",
     coords: [-77.8138, -0.9937],
-    name: { de: "Tena", hu: "Tena", ro: "Tena", en: "Tena",
-image: "/poi-images/tena-cities-v2.webp"
-},
+    name: { de: "Tena", hu: "Tena", ro: "Tena", en: "Tena"},
+    image: "/poi-images/tena-cities-v2.webp",
     description: {
       de: "Das Herz des Amazonas-Tourismus, bekannt für erstklassiges Wildwasser-Rafting und Dschungeltouren.",
       hu: "Az amazóniai turizmus szíve, amely elsőrangú vadvízi evezéséről és dzsungeltúráiról ismert.",
@@ -1224,15 +1523,27 @@ image: "/poi-images/tena-cities-v2.webp"
       hu: ["Napo tartomány fővárosa.", "A Tena és a Pano folyók összefolyásánál fekszik.", "Ecuador fahéjfővárosa (Capital de la Canela).", "A Llanganates Nemzeti Park régiójának kapuja."],
       ro: ["Capitala provinciei Napo.", "Situat la confluența râurilor Tena și Pano.", "Capitala scorțișoarei (Capital de la Canela) din Ecuador.", "Poarta către regiunea Parcului Național Llanganates."],
       en: ["Capital of the Napo province.", "Located at the confluence of the Tena and Pano rivers.", "The Cinnamon Capital (Capital de la Canela) of Ecuador.", "The gateway to the Llanganates National Park region."]
-    }, image: "/poi-images/tena-cities-v2.webp"},
+    }, image: "/poi-images/tena-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tena ist die Hauptstadt der Provinz Napo in Ecuador und liegt im Amazonasbecken. Sie ist ein wichtiges Tor zum Amazonas-Regenwald und bekannt für ihre Flüsse, die zum Kajakfahren und Rafting genutzt werden. Tena wurde 1560 gegründet. Die Bevölkerung beträgt etwa 30.000 (2010). Die Wirtschaft basiert auf Tourismus, Landwirtschaft (Yuca, Bananen) und Holzwirtschaft. Tena hat mehrere Hotels, Restaurants und Reiseveranstalter. Die durchschnittliche Jahrestemperatur liegt bei 25 °C. Die Stadt ist über die E45 mit Puyo verbunden.",
+      hu: "Tena Ecuador Napo tartományának fővárosa, az Amazonas-medencében fekszik. Fontos kapu az amazonasi esőerdőhöz, és híres folyóiról, amelyek alkalmasak kajakozásra és raftingra. Tenát 1560-ban alapították. Lakossága kb. 30 000 fő (2010). Gazdasága a turizmuson, mezőgazdaságon (yuca, banán) és fafeldolgozáson alapul. Tena szállodákkal, éttermekkel és utazási irodákkal rendelkezik. Az éves középhőmérséklet 25 °C. A várost az E45-ös út köti össze Puyóval.",
+      ro: "Tena este capitala provinciei Napo din Ecuador, situată în bazinul Amazonului. Este o poartă importantă către pădurea tropicală amazoniană și este cunoscută pentru râurile sale, folosite pentru caiac și rafting. Tena a fost fondat în 1560. Populația este de aproximativ 30.000 (2010). Economia se bazează pe turism, agricultură (yuca, banane) și exploatarea lemnului. Tena are hoteluri, restaurante și agenții de turism. Temperatura medie anuală este de 25 °C. Orașul este conectat prin drumul E45 la Puyo.",
+      en: "Tena is the capital of Napo Province, Ecuador, located in the Amazon basin. It is an important gateway to the Amazon rainforest and known for its rivers used for kayaking and rafting. Tena was founded in 1560. Population is about 30,000 (2010). Economy relies on tourism, agriculture (yucca, bananas), and timber. Tena has hotels, restaurants, and tour operators. Average annual temperature is 25 °C. The city is connected via the E45 highway to Puyo.",
+    },
+    factsAdvanced: {
+      de: ["Tena wurde 1560 gegründet.", "Die Bevölkerung beträgt etwa 30.000 (2010).", "Die Stadt liegt auf 500 m Höhe.", "Der Kanton Tena hat eine Fläche von 3.904 km².", "Die durchschnittliche Jahrestemperatur beträgt 25 °C.", "Die E45 verbindet Tena mit Puyo (60 km) und Archidona."],
+      hu: ["Tenát 1560-ban alapították.", "Lakossága kb. 30 000 fő (2010).", "A város 500 m magasan fekszik.", "Tena kanton területe 3 904 km².", "Az éves középhőmérséklet 25 °C.", "Az E45-ös út köti össze Puyóval (60 km) és Archidonával."],
+      ro: ["Tena a fost fondat în 1560.", "Populația este de aproximativ 30.000 (2010).", "Orașul se află la 500 m altitudine.", "Cantonul Tena are o suprafață de 3.904 km².", "Temperatura medie anuală este de 25 °C.", "Drumul E45 leagă Tena de Puyo (60 km) și Archidona."],
+      en: ["Tena was founded in 1560.", "Population is about 30,000 (2010).", "The city is at 500 m elevation.", "The canton of Tena covers 3,904 km².", "Average annual temperature is 25 °C.", "The E45 highway connects Tena to Puyo (60 km) and Archidona."],
+    },
+  },
   {
     id: "san-lorenzo-cities-v2",
     type: "city",
     parent: "EC-E",
     coords: [-78.8351, 1.2865],
-    name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo",
-image: "/poi-images/san-lorenzo-cities-v2.webp"
-},
+    name: { de: "San Lorenzo", hu: "San Lorenzo", ro: "San Lorenzo", en: "San Lorenzo"},
+    image: "/poi-images/san-lorenzo-cities-v2.webp",
     description: {
       de: "Eine Hafenstadt nahe der kolumbianischen Grenze, umgeben von unberührten Mangrovenwäldern.",
       hu: "A kolumbiai határ közelében fekvő kikötőváros, amelyet érintetlen mangroveerdők vesznek körül.",
@@ -1244,15 +1555,27 @@ image: "/poi-images/san-lorenzo-cities-v2.webp"
       hu: ["Korábban egy Ibarrából induló fontos vasútvonal végállomása volt.", "A Cayapas-Mataje Ökológiai Rezervátum a közelben található.", "A marimba kultúra egyik központja.", "A gazdaság a halászaton és a fán alapul."],
       ro: ["Fostul capăt al unei importante linii ferate din Ibarra.", "Rezervația Ecologică Cayapas-Mataje se află în apropiere.", "Un centru al culturii marimba.", "Economia se bazează pe pescuit și lemn."],
       en: ["Formerly the terminus of an important railway line from Ibarra.", "The Cayapas-Mataje Ecological Reserve is nearby.", "A center of Marimba culture.", "The economy is based on fishing and timber."]
-    }, image: "/poi-images/san-lorenzo-cities-v2.webp"},
+    }, image: "/poi-images/san-lorenzo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "San Lorenzo ist eine Stadt in der Provinz Esmeraldas, Ecuador, nahe der Grenze zu Kolumbien. Sie liegt an der Küste und ist ein wichtiger Hafen für den Handel und die Fischerei. Die Stadt wurde 1900 gegründet. Die Bevölkerung beträgt etwa 40.000 (2010). Die Wirtschaft basiert auf dem Hafen, Fischerei und Landwirtschaft (Palmöl, Bananen). San Lorenzo hat einen internationalen Hafen und mehrere Bildungseinrichtungen. Die durchschnittliche Jahrestemperatur liegt bei 26 °C. Die Stadt ist über die E15 mit Esmeraldas verbunden.",
+      hu: "San Lorenzo város Ecuador Esmeraldas tartományában, a kolumbiai határ közelében. A parton fekszik, és fontos kikötő a kereskedelem és halászat számára. A várost 1900-ban alapították. Lakossága kb. 40 000 fő (2010). Gazdasága a kikötőn, halászaton és mezőgazdaságon (pálmaolaj, banán) alapul. San Lorenzónak nemzetközi kikötője és iskolái vannak. Az éves középhőmérséklet 26 °C. A várost az E15-ös út köti össze Esmeraldasszal.",
+      ro: "San Lorenzo este un oraș în provincia Esmeraldas, Ecuador, aproape de granița cu Columbia. Este situat pe coastă și este un port important pentru comerț și pescuit. Orașul a fost fondat în 1900. Populația este de aproximativ 40.000 (2010). Economia se bazează pe port, pescuit și agricultură (ulei de palmier, banane). San Lorenzo are un port internațional și mai multe instituții de învățământ. Temperatura medie anuală este de 26 °C. Orașul este conectat prin drumul E15 la Esmeraldas.",
+      en: "San Lorenzo is a city in Esmeraldas Province, Ecuador, near the Colombian border. It lies on the coast and is an important port for trade and fishing. The city was founded in 1900. Population is about 40,000 (2010). Economy relies on the port, fishing, and agriculture (palm oil, bananas). San Lorenzo has an international port and several educational institutions. Average annual temperature is 26 °C. The city is connected via the E15 highway to Esmeraldas.",
+    },
+    factsAdvanced: {
+      de: ["San Lorenzo wurde 1900 gegründet.", "Die Bevölkerung beträgt etwa 40.000 (2010).", "Die Stadt liegt auf Meereshöhe.", "Der Kanton San Lorenzo hat eine Fläche von 3.106 km².", "Die durchschnittliche Jahrestemperatur beträgt 26 °C.", "Der Hafen von San Lorenzo ist einer der wichtigsten in Ecuador."],
+      hu: ["San Lorenzót 1900-ban alapították.", "Lakossága kb. 40 000 fő (2010).", "A város tengerszinten fekszik.", "San Lorenzo kanton területe 3 106 km².", "Az éves középhőmérséklet 26 °C.", "San Lorenzo kikötője Ecuador egyik legfontosabb kikötője."],
+      ro: ["San Lorenzo a fost fondat în 1900.", "Populația este de aproximativ 40.000 (2010).", "Orașul se află la nivelul mării.", "Cantonul San Lorenzo are o suprafață de 3.106 km².", "Temperatura medie anuală este de 26 °C.", "Portul San Lorenzo este unul dintre cele mai importante din Ecuador."],
+      en: ["San Lorenzo was founded in 1900.", "Population is about 40,000 (2010).", "The city is at sea level.", "The canton of San Lorenzo covers 3,106 km².", "Average annual temperature is 26 °C.", "The port of San Lorenzo is one of the most important in Ecuador."],
+    },
+  },
   {
     id: "catamayo-cities-v2",
     type: "city",
     parent: "EC-L",
     coords: [-79.3563, -3.9856],
-    name: { de: "Catamayo", hu: "Catamayo", ro: "Catamayo", en: "Catamayo",
-image: "/poi-images/catamayo-cities-v2.webp"
-},
+    name: { de: "Catamayo", hu: "Catamayo", ro: "Catamayo", en: "Catamayo"},
+    image: "/poi-images/catamayo-cities-v2.webp",
     description: {
       de: "Das sonnige Tal von Loja, bekannt für seine Zuckerrohrfelder und den regionalen Flughafen.",
       hu: "Loja napos völgye, amely cukornádföldjeiről és a regionális repülőtérről ismert.",
@@ -1264,15 +1587,27 @@ image: "/poi-images/catamayo-cities-v2.webp"
       hu: ["Loja város legfontosabb repülőterének helyszíne.", "Az éghajlat egész évben kellemesen meleg.", "A déli országrész cukortermelésének nagy részét adja.", "A helyi gasztronómia kiváló hagyományos ételeket kínál."],
       ro: ["Locația celui mai important aeroport pentru orașul Loja.", "Clima este plăcut caldă pe tot parcursul anului.", "Produce majoritatea zahărului din sudul țării.", "Gastronomia locală oferă o mâncare tradițională excelentă."],
       en: ["Location of the most important airport for the city of Loja.", "The climate is pleasantly warm all year round.", "Produces most of the sugar in the south of the country.", "Local gastronomy offers excellent traditional food."]
-    }, image: "/poi-images/catamayo-cities-v2.webp"},
+    }, image: "/poi-images/catamayo-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Catamayo ist eine Stadt in der Provinz Loja, Ecuador. Sie liegt im südlichen Hochland auf etwa 1.250 m Höhe. Catamayo ist bekannt für die Landwirtschaft, insbesondere für Zuckerrohr, Kaffee und Obst. Die Stadt wurde 1952 gegründet. Die Bevölkerung beträgt etwa 30.000 (2010). Die Wirtschaft basiert auf Landwirtschaft und der Zuckerproduktion. Catamayo hat einen Flughafen (Aeropuerto Camilo Ponce Enríquez) und mehrere Schulen. Die durchschnittliche Jahrestemperatur liegt bei 22 °C. Die Stadt ist über die E35 mit Loja verbunden.",
+      hu: "Catamayo város Ecuador Loja tartományában, a déli hegyvidéken, kb. 1250 m tengerszint feletti magasságban. Híres a mezőgazdaságról, különösen a cukornád, kávé és gyümölcsök termesztéséről. A várost 1952-ben alapították. Lakossága kb. 30 000 fő (2010). Gazdasága mezőgazdaságon és cukortermelésen alapul. Catamayo repülőtérrel (Camilo Ponce Enríquez repülőtér) és iskolákkal rendelkezik. Az éves középhőmérséklet 22 °C. A várost az E35-ös út köti össze Lojával.",
+      ro: "Catamayo este un oraș în provincia Loja, Ecuador. Este situat în sudul Podișului Andin, la o altitudine de aproximativ 1.250 m. Catamayo este cunoscut pentru agricultură, în special trestie de zahăr, cafea și fructe. Orașul a fost fondat în 1952. Populația este de aproximativ 30.000 (2010). Economia se bazează pe agricultură și producția de zahăr. Catamayo are un aeroport (Aeroportul Camilo Ponce Enríquez) și mai multe școli. Temperatura medie anuală este de 22 °C. Orașul este conectat prin drumul E35 la Loja.",
+      en: "Catamayo is a city in Loja Province, Ecuador. It is located in the southern highlands at about 1,250 m elevation. Catamayo is known for agriculture, particularly sugarcane, coffee, and fruits. The city was founded in 1952. Population is about 30,000 (2010). Economy relies on agriculture and sugar production. Catamayo has an airport (Camilo Ponce Enríquez Airport) and several schools. Average annual temperature is 22 °C. The city is connected via the E35 highway to Loja.",
+    },
+    factsAdvanced: {
+      de: ["Catamayo wurde 1952 gegründet.", "Die Bevölkerung beträgt etwa 30.000 (2010).", "Die Stadt liegt auf 1.250 m Höhe.", "Der Kanton Catamayo hat eine Fläche von 645 km².", "Die durchschnittliche Jahrestemperatur beträgt 22 °C.", "Der Flughafen Camilo Ponce Enríquez liegt in Catamayo."],
+      hu: ["Catamayot 1952-ben alapították.", "Lakossága kb. 30 000 fő (2010).", "A város 1250 m magasan fekszik.", "Catamayo kanton területe 645 km².", "Az éves középhőmérséklet 22 °C.", "A Camilo Ponce Enríquez repülőtér Catamayóban található."],
+      ro: ["Catamayo a fost fondat în 1952.", "Populația este de aproximativ 30.000 (2010).", "Orașul se află la 1.250 m altitudine.", "Cantonul Catamayo are o suprafață de 645 km².", "Temperatura medie anuală este de 22 °C.", "Aeroportul Camilo Ponce Enríquez este situat în Catamayo."],
+      en: ["Catamayo was founded in 1952.", "Population is about 30,000 (2010).", "The city is at 1,250 m elevation.", "The canton of Catamayo covers 645 km².", "Average annual temperature is 22 °C.", "Camilo Ponce Enríquez Airport is located in Catamayo."],
+    },
+  },
   {
     id: "el-guabo-cities-v2",
     type: "city",
     parent: "EC-O",
     coords: [-79.8291, -3.2452],
-    name: { de: "El Guabo", hu: "El Guabo", ro: "El Guabo", en: "El Guabo",
-image: "/poi-images/el-guabo-cities-v2.webp"
-},
+    name: { de: "El Guabo", hu: "El Guabo", ro: "El Guabo", en: "El Guabo"},
+    image: "/poi-images/el-guabo-cities-v2.webp",
     description: {
       de: "Ein landwirtschaftliches Zentrum, das sich durch seine kooperativen Bananenbauern auszeichnet.",
       hu: "Mezőgazdasági központ, amely a banántermesztő szövetkezetekről nevezetes.",
@@ -1284,16 +1619,27 @@ image: "/poi-images/el-guabo-cities-v2.webp"
       hu: ["Az El Guabo Kistermelők Szövetségének (Fairtrade) otthona.", "A kakaó- és banánbúm tette naggyá.", "Csendes, hagyományos ecuadori város.", "Összeköti Machalát az Andokkal."],
       ro: ["Căminul Asociației Mici Producătorilor El Guabo (Fairtrade).", "A devenit mare prin boom-ul cacaoului și bananelor.", "Un oraș liniștit, tradițional ecuadorian.", "Conectează Machala cu Anzii."],
       en: ["Home of the Asociación de Pequeños Productores El Guabo (Fairtrade).", "Grew large through the cocoa and banana boom.", "A quiet, traditional Ecuadorian town.", "Connects Machala with the Andes."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "El Guabo ist eine Stadt in der Provinz El Oro, Ecuador. Sie liegt im südlichen Tiefland nahe der peruanischen Grenze und ist ein Zentrum für den Bananen- und Kaffeeanbau. Die Stadt wurde 1824 gegründet. Die Bevölkerung beträgt etwa 50.000 (2010). Die Wirtschaft basiert auf Landwirtschaft und Handel. El Guabo hat mehrere Schulen, ein Krankenhaus und einen Busbahnhof. Die durchschnittliche Jahrestemperatur liegt bei 26 °C. Die Stadt ist über die E25 mit Machala verbunden.",
+      hu: "El Guabo város Ecuador El Oro tartományában, a déli alföldön, a perui határ közelében fekszik. Banán- és kávétermesztésének központja. A várost 1824-ben alapították. Lakossága kb. 50 000 fő (2010). Gazdasága mezőgazdaságon és kereskedelemén alapul. El Guabo iskolákkal, kórházzal és buszpályaudvarral rendelkezik. Az éves középhőmérséklet 26 °C. A várost az E25-ös út köti össze Machalával.",
+      ro: "El Guabo este un oraș în provincia El Oro, Ecuador. Este situat în câmpia sudică, aproape de granița cu Peru, și este un centru pentru cultivarea bananelor și cafelei. Orașul a fost fondat în 1824. Populația este de aproximativ 50.000 (2010). Economia se bazează pe agricultură și comerț. El Guabo are școli, un spital și o stație de autobuz. Temperatura medie anuală este de 26 °C. Orașul este conectat prin drumul E25 la Machala.",
+      en: "El Guabo is a city in El Oro Province, Ecuador. It is located in the southern lowlands near the Peruvian border and is a center for banana and coffee cultivation. The city was founded in 1824. Population is about 50,000 (2010). Economy relies on agriculture and commerce. El Guabo has schools, a hospital, and a bus terminal. Average annual temperature is 26 °C. The city is connected via the E25 highway to Machala.",
+    },
+    factsAdvanced: {
+      de: ["El Guabo wurde 1824 gegründet.", "Die Bevölkerung beträgt etwa 50.000 (2010).", "Die Stadt liegt auf 10 m Höhe.", "Der Kanton El Guabo hat eine Fläche von 603 km².", "Die durchschnittliche Jahrestemperatur beträgt 26 °C.", "Die Entfernung nach Machala beträgt 20 km."],
+      hu: ["El Guabót 1824-ben alapították.", "Lakossága kb. 50 000 fő (2010).", "A város 10 m magasan fekszik.", "El Guabo kanton területe 603 km².", "Az éves középhőmérséklet 26 °C.", "Távolság Machalától 20 km."],
+      ro: ["El Guabo a fost fondat în 1824.", "Populația este de aproximativ 50.000 (2010).", "Orașul se află la 10 m altitudine.", "Cantonul El Guabo are o suprafață de 603 km².", "Temperatura medie anuală este de 26 °C.", "Distanța până la Machala este de 20 km."],
+      en: ["El Guabo was founded in 1824.", "Population is about 50,000 (2010).", "The city is at 10 m elevation.", "The canton of El Guabo covers 603 km².", "Average annual temperature is 26 °C.", "Distance to Machala is 20 km."],
+    },
   },
   {
     id: "pedernales-cities-v2",
     type: "city",
     parent: "EC-M",
     coords: [-80.0519, 0.0716],
-    name: { de: "Pedernales", hu: "Pedernales", ro: "Pedernales", en: "Pedernales",
-image: "/poi-images/pedernales-cities-v2.webp"
-},
+    name: { de: "Pedernales", hu: "Pedernales", ro: "Pedernales", en: "Pedernales"},
+    image: "/poi-images/pedernales-cities-v2.webp",
     description: {
       de: "Der Ort, an dem die erste französische geodätische Mission die Äquatorlinie in Ecuador bestimmte.",
       hu: "Az a hely, ahol az első francia geodéziai misszió meghatározta az Egyenlítő vonalát Ecuadorban.",
@@ -1305,15 +1651,27 @@ image: "/poi-images/pedernales-cities-v2.webp"
       hu: ["A 2016-os földrengés súlyosan érintette, de újjáépítették.", "Gyönyörű homokos strandjairól ismert.", "A nulladik szélességi fok keresztezi a régiót.", "A garnélarák-tenyésztés a fő gazdasági ágazat."],
       ro: ["A fost puternic lovit de cutremurul din 2016 și reconstruit.", "Cunoscut pentru plajele sale frumoase de nisip.", "Latitudinea zero traversează regiunea.", "Creșterea creveților este o industrie majoră."],
       en: ["Was severely hit by the 2016 earthquake and rebuilt.", "Known for its beautiful sandy beaches.", "The zero latitude crosses the region.", "Shrimp farming is a major industry."]
-    }, image: "/poi-images/pedernales-cities-v2.webp"},
+    }, image: "/poi-images/pedernales-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pedernales liegt im Nordwesten Ecuadors, in der Provinz Manabí, nahe der Grenze zu Esmeraldas. Die Stadt wurde 1952 gegründet und entwickelte sich zu einem bedeutenden Zentrum für Landwirtschaft und Fischerei. Hauptanbauprodukte sind Kaffee, Kakao und Bananen. Der gleichnamige Kanton hat eine Fläche von etwa 1.932 km². Die Küste ist geprägt von Mangrovenwäldern, die wichtige Ökosysteme darstellen. Der Tourismus gewinnt an Bedeutung, insbesondere an den Stränden wie Playa de Pedernales. Die Region war stark vom Erdbeben 2016 betroffen, aber der Wiederaufbau hat Fortschritte gemacht.",
+      hu: "Pedernales Ecuador északnyugati részén, Manabí tartományban helyezkedik el. A város gazdaságát a mezőgazdaság és a halászat jellemzi. A környék híres kávé- és kakaóültetvényeiről. Pedernales strandjai népszerűek a turisták körében, különösen a hosszú homokos partszakaszok. A település közelében található a Jama-Coaque természetvédelmi terület, amely gazdag biodiverzitással bír. Az évi átlaghőmérséklet 25 °C körül van. A város infrastruktúrája az elmúlt évtizedekben sokat fejlődött, bár a 2016-os földrengés jelentős károkat okozott.",
+      ro: "Pedernales este un oraș din provincia Manabí, Ecuador, situat pe coasta Pacificului. Economia locală se bazează pe agricultură, pescuit și turism. Culturile principale includ cafeaua, cacao și bananele. Orașul a fost fondat în anul 1952 și are o populație de aproximativ 55.000 de locuitori. Plajele sale, cum ar fi Playa de Pedernales, atrag vizitatori datorită nisipului fin și apelor calde. Regiunea este cunoscută pentru pădurile de mangrove care adăpostesc o varietate de specii. După cutremurul din 2016, orașul a fost reconstruit, iar acum dispune de facilități moderne.",
+      en: "Pedernales is a coastal city in Manabí province, Ecuador, located near the border with Esmeraldas. It serves as a commercial hub for agriculture, notably coffee, cocoa, and bananas. The city's beaches, including Playa de Pedernales, are popular for surfing and relaxation. The surrounding area features mangrove forests and the Jama-Coaque Ecological Reserve, which protects diverse wildlife. Pedernales was severely affected by the 2016 earthquake, but reconstruction efforts have improved infrastructure. The city has a population of around 55,000 and experiences a tropical climate with average temperatures of 25°C.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt Pedernales wurde 1952 gegründet.", "Der Kanton Pedernales umfasst eine Fläche von 1.932 Quadratkilometern.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt etwa 500 Millimeter.", "Die höchste Erhebung in der Region liegt bei 200 Metern über dem Meeresspiegel.", "Der Fischereihafen von Pedernales verarbeitet jährlich rund 1.500 Tonnen Fisch.", "Die Einwohnerzahl des Kantons beträgt etwa 55.000 (Schätzung 2022)."],
+      hu: ["Pedernales tengerszint feletti magassága körülbelül 10 méter.", "A város éves átlaghőmérséklete 25 °C.", "A Pedernalesi strand hossza meghaladja a 10 kilométert.", "A kantont 1976-ban hozták létre.", "A kávétermelés évente mintegy 2.000 tonnát tesz ki.", "A 2016-os földrengés Richter-skála szerinti erőssége 7,8 volt."],
+      ro: ["Populația orașului Pedernales este de aproximativ 55.000 de locuitori.", "Suprafața cantonului Pedernales este de 1.932 km².", "Altitudinea medie a orașului este de 10 metri deasupra nivelului mării.", "Temperatura medie anuală este de 25 °C.", "Producția anuală de cacao în regiune este de aproximativ 1.200 de tone.", "Portul local deservește peste 300 de vase de pescuit anual."],
+      en: ["Pedernales was founded in 1952.", "The canton covers an area of 1,932 km².", "The city has a population of approximately 55,000.", "Average annual rainfall is 500 mm.", "The highest point in the area is 200 meters above sea level.", "The 2016 earthquake measured 7.8 on the Richter scale."],
+    },
+  },
   {
     id: "atuntaqui-cities-v2",
     type: "city",
     parent: "EC-I",
     coords: [-78.2144, 0.3322],
-    name: { de: "Atuntaqui", hu: "Atuntaqui", ro: "Atuntaqui", en: "Atuntaqui",
-image: "/poi-images/atuntaqui-cities-v2.webp"
-},
+    name: { de: "Atuntaqui", hu: "Atuntaqui", ro: "Atuntaqui", en: "Atuntaqui"},
+    image: "/poi-images/atuntaqui-cities-v2.webp",
     description: {
       de: "Die Textilhauptstadt Ecuadors, wo Handwerk und Industrie aufeinandertreffen.",
       hu: "Ecuador textilfővárosa, ahol a kézművesség és az ipar találkozik.",
@@ -1331,9 +1689,8 @@ image: "/poi-images/atuntaqui-cities-v2.webp"
     type: "city",
     parent: "EC-M",
     coords: [-80.4236, -0.5979],
-    name: { de: "Bahía de Caráquez", hu: "Bahía de Caráquez", ro: "Bahía de Caráquez", en: "Bahía de Caráquez",
-image: "/poi-images/bahia-de-caraquez-cities-v2.webp"
-},
+    name: { de: "Bahía de Caráquez", hu: "Bahía de Caráquez", ro: "Bahía de Caráquez", en: "Bahía de Caráquez"},
+    image: "/poi-images/bahia-de-caraquez-cities-v2.webp",
     description: {
       de: "Eine der ersten als ökologisch deklarierten Städte der Welt mit einer wunderschönen Bucht.",
       hu: "A világ egyik első ökológiaivá nyilvánított városa, amely gyönyörű öböllel rendelkezik.",
@@ -1351,9 +1708,8 @@ image: "/poi-images/bahia-de-caraquez-cities-v2.webp"
     type: "city",
     parent: "EC-O",
     coords: [-79.6808, -3.6811],
-    name: { de: "Piñas", hu: "Piñas", ro: "Piñas", en: "Piñas",
-image: "/poi-images/pinas-cities-v2.webp"
-},
+    name: { de: "Piñas", hu: "Piñas", ro: "Piñas", en: "Piñas"},
+    image: "/poi-images/pinas-cities-v2.webp",
     description: {
       de: "Die Orchideenstadt der Anden, berühmt für ihre Blumenvielfalt und nebligen Wälder.",
       hu: "Az Andok orchideavárosa, amely a virágok sokszínűségéről és ködös erdőiről híres.",
@@ -1371,9 +1727,8 @@ image: "/poi-images/pinas-cities-v2.webp"
     type: "city",
     parent: "EC-C",
     coords: [-77.8300, 0.5938],
-    name: { de: "San Gabriel", hu: "San Gabriel", ro: "San Gabriel", en: "San Gabriel",
-image: "/poi-images/san-gabriel-cities-v2.webp"
-},
+    name: { de: "San Gabriel", hu: "San Gabriel", ro: "San Gabriel", en: "San Gabriel"},
+    image: "/poi-images/san-gabriel-cities-v2.webp",
     description: {
       de: "Eine historische Stadt in der Provinz Carchi, die zum Nationalen Kulturerbe Ecuadors gehört.",
       hu: "Történelmi város Carchi tartományban, amely Ecuador Nemzeti Kulturális Örökségének része.",
@@ -1391,9 +1746,8 @@ image: "/poi-images/san-gabriel-cities-v2.webp"
     type: "city",
     parent: "EC-A",
     coords: [-78.7758, -2.8888],
-    name: { de: "Gualaceo", hu: "Gualaceo", ro: "Gualaceo", en: "Gualaceo",
-image: "/poi-images/gualaceo-cities-v2.webp"
-},
+    name: { de: "Gualaceo", hu: "Gualaceo", ro: "Gualaceo", en: "Gualaceo"},
+    image: "/poi-images/gualaceo-cities-v2.webp",
     description: {
       de: "Das Tor zum Osten aus Cuenca, bekannt für handgewebte Ikat-Textilien und Lederwaren.",
       hu: "Cuenca keleti kapuja, amely kézzel szőtt ikat textíliáiról és bőráruiról ismert.",
@@ -1411,9 +1765,8 @@ image: "/poi-images/gualaceo-cities-v2.webp"
     type: "state-capital",
     parent: "EC-S",
     coords: [-78.1158, -2.3025],
-    name: { de: "Macas", hu: "Macas", ro: "Macas", en: "Macas",
-image: "/poi-images/macas-cities-v2.webp"
-},
+    name: { de: "Macas", hu: "Macas", ro: "Macas", en: "Macas"},
+    image: "/poi-images/macas-cities-v2.webp",
     description: {
       de: "Die Smaragd-Stadt des Ostens, eine Amazonas-Siedlung, die lange Zeit isoliert war.",
       hu: "A Kelet Smaragdvárosa, egy amazóniai település, amely hosszú ideig elszigetelt volt.",
@@ -1431,9 +1784,8 @@ image: "/poi-images/macas-cities-v2.webp"
     type: "city",
     parent: "EC-G",
     coords: [-79.6952, -2.0963],
-    name: { de: "Yaguachi", hu: "Yaguachi", ro: "Yaguachi", en: "Yaguachi",
-image: "/poi-images/yaguachi-cities-v2.webp"
-},
+    name: { de: "Yaguachi", hu: "Yaguachi", ro: "Yaguachi", en: "Yaguachi"},
+    image: "/poi-images/yaguachi-cities-v2.webp",
     description: {
       de: "Ein wichtiger religiöser Wallfahrtsort für die Verehrung des San Jacinto in Ecuador.",
       hu: "Ecuador fontos vallási zarándokhelye, ahol San Jacintót tisztelik.",
@@ -1451,9 +1803,8 @@ image: "/poi-images/yaguachi-cities-v2.webp"
     type: "city",
     parent: "EC-M",
     coords: [-80.1633, -0.8441],
-    name: { de: "Calceta", hu: "Calceta", ro: "Calceta", en: "Calceta",
-image: "/poi-images/calceta-cities-v2.webp"
-},
+    name: { de: "Calceta", hu: "Calceta", ro: "Calceta", en: "Calceta"},
+    image: "/poi-images/calceta-cities-v2.webp",
     description: {
       de: "Eine traditionelle landwirtschaftliche Stadt in Manabí, geprägt von Flüssen und Kakao-Haciendas.",
       hu: "Hagyományos mezőgazdasági város Manabíban, amelyet folyók és kakaóhaciendák jellemeznek.",
@@ -1471,9 +1822,8 @@ image: "/poi-images/calceta-cities-v2.webp"
     type: "city",
     parent: "EC-O",
     coords: [-80.0683, -3.5530],
-    name: { de: "Arenillas", hu: "Arenillas", ro: "Arenillas", en: "Arenillas",
-image: "/poi-images/arenillas-cities-v2.webp"
-},
+    name: { de: "Arenillas", hu: "Arenillas", ro: "Arenillas", en: "Arenillas"},
+    image: "/poi-images/arenillas-cities-v2.webp",
     description: {
       de: "Eine trockene, vom Militär geprägte Stadt nahe der peruanischen Grenze in El Oro.",
       hu: "Száraz, katonai jellegű város az El Oro-i perui határ közelében.",
@@ -1485,15 +1835,27 @@ image: "/poi-images/arenillas-cities-v2.webp"
       hu: ["Az Arenillas Ökológiai Rezervátum védi a trópusi száraz erdőt.", "A Peruval vívott konfliktusok idején fontos támaszpont volt.", "A mezőgazdaság mesterséges öntözésre támaszkodik.", "A part mentén garnélarákot tenyésztenek."],
       ro: ["Rezervația Ecologică Arenillas protejează pădurea tropicală uscată.", "A fost o bază importantă în timpul conflictelor cu Peru.", "Agricultura se bazează pe irigații artificiale.", "Creșterea creveților se practică pe coastă."],
       en: ["The Arenillas Ecological Reserve protects the tropical dry forest.", "Was an important base during the conflicts with Peru.", "Agriculture relies on artificial irrigation.", "Shrimp farming is practiced on the coast."]
-    }, image: "/poi-images/arenillas-cities-v2.webp"},
+    }, image: "/poi-images/arenillas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Arenillas ist eine Stadt im Süden Ecuadors in der Provinz El Oro, nahe der peruanischen Grenze. Gegründet im 16. Jahrhundert, entwickelte sie sich dank fruchtbarer Böden zu einem Zentrum des Bananen- und Kaffeeanbaus. Die Stadt liegt auf einer Höhe von etwa 30 Metern über dem Meeresspiegel im tropischen Tiefland. Während des peruanisch-ecuadorianischen Grenzkonflikts von 1941 war Arenillas ein strategischer Punkt. Heute profitiert die Wirtschaft von der Landwirtschaft und dem Handel mit Peru. Der Río Arenillas fließt durch die Stadt und bewässert die umliegenden Plantagen. Die Bevölkerung besteht hauptsächlich aus Mestizen und indigenen Gruppen. Die Stadt feiert jährlich ihre Gründung mit kulturellen Festen.",
+      hu: "Arenillas város Ecuador déli részén, El Oro tartományban, a perui határ közelében. Gazdasága a mezőgazdaságra épül, elsősorban banán, kávé és kakaó termesztésére. A város fontos kereskedelmi központ a határ menti régióban. Az 1941-es perui-ecuadori háború során Arenillas strategiai jelentőségű volt. A város infrastruktúrája az elmúlt évtizedekben fejlődött, új utak és iskolák épültek. A mezőgazdaság mellett a halászat is jelentős, mivel a Pacifikus óceán viszonylag közel van. Arenillas lakossága vegyes, spanyol és indián gyökerekkel. A helyi piacokon friss termékeket árulnak, ami vonzza a környékbeli vásárlókat.",
+      ro: "Arenillas este un oraș în sudul Ecuadorului, în provincia El Oro, aproape de granița cu Peru. Fondat în secolul al XVI-lea, orașul s-a dezvoltat ca centru agricol, datorită solurilor fertile. Culturile principale sunt bananele, cafeaua și cacao. Clima tropicală favorizează agricultura pe tot parcursul anului. Arenillas a jucat un rol în conflictul de frontieră dintre Ecuador și Peru din 1941. Astăzi, orașul are o populație de aproximativ 25.000 de locuitori. Infrastructura include un spital, școli și o piață centrală. Festivalul anual al orașului celebrează moștenirea culturală cu dansuri și muzică tradițională. Río Arenillas este o sursă importantă de apă pentru irigații.",
+      en: "Arenillas is a city in southern Ecuador, El Oro Province, near the Peruvian border. Its economy is based on agriculture, primarily bananas, coffee, and cacao. The city lies in the tropical lowlands at an elevation of 30 meters. The fertile soil and warm climate allow year-round farming. Arenillas was founded in the 16th century and later became a strategic location during the 1941 Ecuadorian–Peruvian War. Today, it serves as a commercial hub for cross-border trade. The population is around 25,000, mostly mestizo. The city has a small airport and is connected by road to major cities. Local cuisine includes ceviche and plantain dishes.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 24.512 (Volkszählung 2010)", "Fläche: ca. 503 km² (Kanton)", "Höhe: 30 m über dem Meeresspiegel", "Gründungsjahr: 1560 (spanische Siedlung)", "Durchschnittstemperatur: 25 °C", "Länge des Río Arenillas: 75 km"],
+      hu: ["Népesség: 24.512 fő (2010-es népszámlálás)", "Terület: 503 km² (kanton)", "Tengerszint feletti magasság: 30 m", "Alapítás éve: 1560", "Éves csapadékmennyiség: 1000 mm", "Bananatermelés: évi 50.000 tonna (becslés)"],
+      ro: ["Populație: 24.512 locuitori (recensământ 2010)", "Suprafață: 503 km² (canton)", "Altitudine: 30 m deasupra nivelului mării", "Anul înființării: 1560", "Distanța până la granița cu Peru: 15 km", "Producția de cafea: 2.000 tone pe an"],
+      en: ["Population: 24,512 (2010 census)", "Elevation: 30 m (98 ft)", "Founded: 1560 as a Spanish settlement", "Annual rainfall: 1,000 mm", "Main export: bananas, over 50,000 tons per year", "Distance to Peruvian border: 15 km"],
+    },
+  },
   {
     id: "macara-cities-v2",
     type: "city",
     parent: "EC-L",
     coords: [-79.9430, -4.3783],
-    name: { de: "Macará", hu: "Macará", ro: "Macará", en: "Macará",
-image: "/poi-images/macara-cities-v2.webp"
-},
+    name: { de: "Macará", hu: "Macará", ro: "Macará", en: "Macará"},
+    image: "/poi-images/macara-cities-v2.webp",
     description: {
       de: "Ein wichtiger und warmer Grenzübergang zu Peru im südlichsten Teil von Loja.",
       hu: "Fontos és meleg határátkelőhely Peru felé Loja legdélebbi részén.",
@@ -1505,15 +1867,27 @@ image: "/poi-images/macara-cities-v2.webp"
       hu: ["A macarái rizsről ismert, amelyet az ország legjobbjának tartanak.", "A nemzetközi híd köti össze Ecuadort Peruval.", "Az éghajlat félszáraz és nagyon meleg.", "A festőfák és guayacanok sárgán virágoznak a környéken."],
       ro: ["Cunoscut pentru orezul Macará, considerat cel mai bun din țară.", "Podul internațional leagă Ecuador de Peru.", "Clima este semiaridă și foarte caldă.", "Copacii de vopsea și guayacanii înfloresc galben în zonă."],
       en: ["Known for Macará rice, considered the best in the country.", "The international bridge connects Ecuador with Peru.", "The climate is semi-arid and very warm.", "Dye trees and guayacans bloom yellow in the area."]
-    }, image: "/poi-images/macara-cities-v2.webp"},
+    }, image: "/poi-images/macara-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Macará ist eine Stadt in der Provinz Loja im Süden Ecuadors, direkt an der Grenze zu Peru. Der Río Macará bildet die natürliche Grenze. Die Stadt ist ein wichtiger Grenzübergang für den Handel zwischen Ecuador und Peru. Die Wirtschaft basiert auf Landwirtschaft (Reis, Mais, Baumwolle) und Viehzucht. Macará hat ein warmes, trockenes Klima mit Durchschnittstemperaturen um 24 °C. Die Stadt wurde 1904 gegründet und hat rund 20.000 Einwohner. Kulturell ist Macará von der Mestizen-Bevölkerung geprägt, mit traditionellen Festen wie der Feria de la Integración. Die Brücke über den Río Macará verbindet die beiden Länder und ist ein Symbol der Freundschaft.",
+      hu: "Macará Ecuador déli részén, Loja tartományban található, közvetlenül a perui határon. A város fontos határátkelőhely, ahol élénk a kereskedelem. A mezőgazdaság fő termékei a rizs, a kukorica és a pamut. Az éghajlat meleg és száraz, ami kedvez a gyapottermesztésnek. Macarát 1904-ben alapították, és azóta folyamatosan növekszik. A lakosság többsége mezőgazdaságból él. A városban számos iskola és egy kórház található. Az éves Feria de la Integración kulturális és kereskedelmi esemény, amely vonzza a látogatókat. A határhíd, a Puente Internacional, összeköti Macarát a perui Suyo városával.",
+      ro: "Macará este un oraș în sudul Ecuadorului, în provincia Loja, la granița cu Peru. Râul Macará marchează frontiera. Orașul este un punct important de trecere a frontierei, facilitând comerțul bilateral. Economia locală se bazează pe agricultură: orez, porumb, bumbac și creșterea animalelor. Clima este caldă și semi-uscată, cu precipitații reduse. Macará a fost fondat în 1904 și are aproximativ 20.000 de locuitori. Infrastructura include un pod internațional care leagă Ecuadorul de Peru. Festivalul Feria de la Integración celebrează uniunea dintre cele două țări. Orașul dispune de un mic aeroport și de drumuri asfaltate.",
+      en: "Macará is a border city in Loja Province, southern Ecuador, separated from Peru by the Macará River. It serves as a major border crossing for trade and travel. The economy is agricultural, focusing on rice, corn, cotton, and livestock. The climate is warm and dry, with average temperatures around 24°C. Founded in 1904, Macará has a population of approximately 20,000. The International Bridge connects Macará to the Peruvian town of Suyo. The annual Feria de la Integración promotes cultural exchange. The city is a gateway to the Podocarpus National Park.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 18.352 (Volkszählung 2010)", "Fläche: ca. 575 km² (Kanton)", "Höhe: 450 m über dem Meeresspiegel", "Gründungsjahr: 1904", "Durchschnittstemperatur: 24 °C", "Länge der Grenzbrücke: 250 m"],
+      hu: ["Népesség: 18.352 fő (2010)", "Terület: 575 km²", "Tengerszint feletti magasság: 450 m", "Éves csapadék: 500 mm", "Rizstermelés: évi 10.000 tonna", "Határátkelő forgalma: napi 500 jármű"],
+      ro: ["Populație: 18.352 locuitori (2010)", "Suprafață: 575 km²", "Altitudine: 450 m", "Anul înființării: 1904", "Podul internațional: construit în 2000", "Distanța până la Loja: 200 km"],
+      en: ["Population: 18,352 (2010 census)", "Elevation: 450 m (1,476 ft)", "Founded: 1904", "Annual rainfall: 500 mm", "Border crossing traffic: 500 vehicles per day", "Cotton production: 3,000 tons annually"],
+    },
+  },
   {
     id: "zaruma-cities-v2",
     type: "city",
     parent: "EC-O",
     coords: [-79.6119, -3.6913],
-    name: { de: "Zaruma", hu: "Zaruma", ro: "Zaruma", en: "Zaruma",
-image: "/poi-images/zaruma-cities-v2.webp"
-},
+    name: { de: "Zaruma", hu: "Zaruma", ro: "Zaruma", en: "Zaruma"},
+    image: "/poi-images/zaruma-cities-v2.webp",
     description: {
       de: "Eine malerische historische Goldgräberstadt, die auf steilen Hügeln gebaut wurde.",
       hu: "Festői történelmi aranyásó város, amely meredek dombokra épült.",
@@ -1525,15 +1899,27 @@ image: "/poi-images/zaruma-cities-v2.webp"
       hu: ["A faépítészet egyedülálló Ecuadorban.", "A zarumai kávé ínyenc terméknek számít.", "A város alatt egy régi aranybánya-hálózat húzódik.", "Szerepel az UNESCO világörökségi javaslati listáján."],
       ro: ["Arhitectura din lemn este unică în Ecuador.", "Cafeaua Zaruma este considerată un produs gourmet.", "Sub oraș se întinde o rețea veche de mine de aur.", "Se află pe lista tentativă pentru Patrimoniul Mondial UNESCO."],
       en: ["The wooden architecture is unique in Ecuador.", "Zaruma coffee is considered a gourmet product.", "An old network of gold mines runs under the city.", "Is on the tentative list for UNESCO World Heritage."]
-    }, image: "/poi-images/zaruma-cities-v2.webp"},
+    }, image: "/poi-images/zaruma-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Zaruma ist eine Stadt in der Provinz El Oro, Ecuador, bekannt für ihren Goldabbau seit der Kolonialzeit. Die Stadt liegt auf etwa 1.200 Metern Höhe in den Anden. Zaruma wurde 1549 gegründet und ist eine der ältesten Städte Ecuadors. Die Architektur umfasst koloniale Holzhäuser mit bunten Fassaden. Der Bergbau prägt die Wirtschaft, aber auch Landwirtschaft (Kaffee, Zuckerrohr) ist wichtig. Zaruma ist als nationales Kulturerbe anerkannt. Die Stadt leidet unter Umweltproblemen durch den Bergbau. Die Bevölkerung beträgt rund 24.000. Jährlich findet die Feria del Oro statt.",
+      hu: "Zaruma Ecuador El Oro tartományában található, híres aranybányászati múltjáról. A város 1200 méter magasan fekszik az Andokban. 1549-ben alapították, és gyarmati kori építészete miatt nemzeti örökség. A gazdaságban a bányászat dominál, de a kávé- és cukornádtermesztés is jelentős. Zaruma utcái macskakövesek, a házak színes fafaragásokkal díszítettek. A környezeti terhelés nagy az aranykitermelés miatt. A város évente megrendezi az Arany Vásárt, ami turistákat vonz. Lakossága körülbelül 24.000 fő.",
+      ro: "Zaruma este un oraș în provincia El Oro, Ecuador, cunoscut pentru exploatarea aurului din perioada colonială. Situat la 1.200 m altitudine în Anzi, a fost fondat în 1549. Arhitectura colonială din lemn, cu case viu colorate, este atracția principală. Economia se bazează pe minerit și agricultură (cafea, trestie de zahăr). Zaruma este declarat patrimoniu național. Exploatarea aurului a dus la contaminarea solului și a apei. Orașul are o populație de aproximativ 24.000 de locuitori. Festivalul anual al aurului include parade și târguri. Zaruma este unul dintre cele mai vechi orașe miniere din Ecuador.",
+      en: "Zaruma is a historic mining town in El Oro Province, Ecuador, founded in 1549. It sits at 1,200 meters elevation in the Andes. Known for its well-preserved colonial architecture, featuring wooden balconies and colorful facades, it is a national heritage site. The economy has been driven by gold mining since Spanish times, though agriculture (coffee, sugarcane) also contributes. Environmental degradation from mining is a concern. Population is around 24,000. The annual Feria del Oro celebrates mining heritage. Zaruma is part of the 'Ruta del Oro' tourist circuit.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 24.097 (Volkszählung 2010)", "Höhe: 1.200 m über dem Meeresspiegel", "Gründungsjahr: 1549", "Goldproduktion seit 1549: über 100 Tonnen geschätzt", "Anzahl der kolonialen Holzhäuser: etwa 100", "Durchschnittstemperatur: 20 °C"],
+      hu: ["Népesség: 24.097 fő (2010)", "Terület: 645 km² (kanton)", "Tengerszint feletti magasság: 1200 m", "Aranybányák száma: több mint 50", "Kávétermelés: évi 500 tonna", "Éves csapadékmennyiség: 1500 mm"],
+      ro: ["Populație: 24.097 locuitori (2010)", "Altitudine: 1.200 m", "Anul fondării: 1549", "Producția anuală de aur: 2 tone (estimat)", "Numărul de case coloniale: peste 100", "Suprafața cantonului: 645 km²"],
+      en: ["Population: 24,097 (2010 census)", "Elevation: 1,200 m (3,937 ft)", "Founded: 1549", "Gold production: estimated 2 tons per year", "Colonial houses: over 100 protected", "Canton area: 645 km²"],
+    },
+  },
   {
     id: "zamora-cities-v2",
     type: "state-capital",
     parent: "EC-Z",
     coords: [-78.9566, -4.0692],
-    name: { de: "Zamora", hu: "Zamora", ro: "Zamora", en: "Zamora",
-image: "/poi-images/zamora-cities-v2.webp"
-},
+    name: { de: "Zamora", hu: "Zamora", ro: "Zamora", en: "Zamora"},
+    image: "/poi-images/zamora-cities-v2.webp",
     description: {
       de: "Das Zentrum von Bergbau und Naturtourismus am Rande des südlichen Amazonas.",
       hu: "A bányászat és a természeti turizmus központja a déli Amazonas szélén.",
@@ -1545,15 +1931,27 @@ image: "/poi-images/zamora-cities-v2.webp"
       hu: ["Zamora Chinchipe tartomány fővárosa.", "A madarak és vízesések fővárosának hívják.", "A Podocarpus Nemzeti Park közvetlenül a város mellett kezdődik.", "A shuar őslakosok hagyományos települése."],
       ro: ["Capitala provinciei Zamora Chinchipe.", "Este numită capitala păsărilor și cascadelor.", "Parcul Național Podocarpus începe chiar în afara orașului.", "Așezarea tradițională a indigenilor Shuar."],
       en: ["Capital of the Zamora Chinchipe province.", "Is called the capital of birds and waterfalls.", "Podocarpus National Park starts just outside the city.", "Traditional settlement of the Shuar indigenous people."]
-    }, image: "/poi-images/zamora-cities-v2.webp"},
+    }, image: "/poi-images/zamora-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Zamora ist die Hauptstadt der Provinz Zamora Chinchipe im Südosten Ecuadors. Sie liegt im Amazonas-Tiefland am Fuß der Anden. Die Stadt wurde 1549 gegründet und ist ein Zentrum für Gold- und Kupferbergbau. Die Umgebung ist geprägt von Regenwald und Biodiversität. Zamora ist Ausgangspunkt für Ausflüge in den Podocarpus-Nationalpark. Die Wirtschaft basiert auf Bergbau, Landwirtschaft (Yuca, Reis) und Tourismus. Die Bevölkerung beträgt ca. 15.000. Das Klima ist feucht und warm. Die Stadt hat eine Universität und mehrere Museen.",
+      hu: "Zamora Ecuador délkeleti részén, Zamora Chinchipe tartomány fővárosa. Az Andok lábánál, amazóniai síkságon fekszik. 1549-ben alapították, fontos bányászati központ (arany, réz). A környező erdők gazdag élővilága vonzza a turistákat. A Podocarpus Nemzeti Park közeli látnivaló. A gazdaságban a bányászat mellett a mezőgazdaság (manióka, rizs) is szerepet játszik. A lakosság körülbelül 15.000 fő. A városban egyetem és múzeumok működnek. Az éghajlat párás, meleg.",
+      ro: "Zamora este capitala provinciei Zamora Chinchipe din sud-estul Ecuadorului. Situată la poalele Anzilor, în câmpia amazoniană, a fost fondată în 1549. Orașul este un centru minier important pentru aur și cupru. În apropiere se află Parcul Național Podocarpus. Economia se bazează pe minerit, agricultură (manioc, orez) și turism. Populația este de aproximativ 15.000 de locuitori. Clima este umedă și caldă. Zamora are o universitate și muzee. Orașul a suferit daune în urma unui cutremur în 2019.",
+      en: "Zamora is the capital of Zamora Chinchipe Province in southeastern Ecuador, located at the eastern foothills of the Andes in the Amazon basin. Founded in 1549, it is a mining hub for gold and copper. The surrounding rainforest hosts immense biodiversity. Zamora is the gateway to Podocarpus National Park. The economy relies on mining, agriculture (yuca, rice), and ecotourism. Population is around 15,000. The climate is humid and tropical. Zamora has a university (Universidad Nacional de Loja branch) and several museums. A 2019 earthquake caused damage.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 12.386 (Volkszählung 2010)", "Fläche der Provinz: 10.456 km²", "Höhe: 970 m über dem Meeresspiegel", "Gründungsjahr: 1549", "Jährliche Goldproduktion: ca. 3 Tonnen", "Entfernung zum Podocarpus-Nationalpark: 15 km"],
+      hu: ["Népesség: 12.386 fő (2010)", "Tengerszint feletti magasság: 970 m", "Réztermelés: évi 50.000 tonna (projekt)", "Éves csapadék: 2000 mm", "Egyetemek száma: 1", "Földrengés 2019: 6,8 magnitúdó"],
+      ro: ["Populație: 12.386 locuitori (2010)", "Altitudine: 970 m", "Anul înființării: 1549", "Producția de cupru: 50.000 tone pe an (proiect Fruta del Norte)", "Precipitații anuale: 2.000 mm", "Distanța până la Loja: 150 km"],
+      en: ["Population: 12,386 (2010 census)", "Elevation: 970 m (3,182 ft)", "Founded: 1549", "Copper production: 50,000 tons per year (Fruta del Norte mine)", "Annual rainfall: 2,000 mm", "Distance to Loja: 150 km"],
+    },
+  },
   {
     id: "puerto-ayora-cities-v2",
     type: "city",
     parent: "EC-W",
     coords: [-90.3138, -0.7401],
-    name: { de: "Puerto Ayora", hu: "Puerto Ayora", ro: "Puerto Ayora", en: "Puerto Ayora",
-image: "/poi-images/puerto-ayora-cities-v2.webp"
-},
+    name: { de: "Puerto Ayora", hu: "Puerto Ayora", ro: "Puerto Ayora", en: "Puerto Ayora"},
+    image: "/poi-images/puerto-ayora-cities-v2.webp",
     description: {
       de: "Die bevölkerungsreichste Stadt der Galapagos-Inseln und das Hauptzentrum für Touristen.",
       hu: "A Galápagos-szigetek legnépesebb városa és a turisták fő központja.",
@@ -1565,15 +1963,27 @@ image: "/poi-images/puerto-ayora-cities-v2.webp"
       hu: ["A Santa Cruz-szigeten található.", "Itt található a Charles Darwin Kutatóállomás.", "A legtöbb szigettengeri körutazás kiindulópontja.", "Az óriásteknősök gyakran szabadon kószálnak a környéken."],
       ro: ["Situat pe insula Santa Cruz.", "Stația de Cercetare Charles Darwin se află aici.", "Punctul de plecare pentru majoritatea croazierelor din arhipelag.", "Broaștele țestoase uriașe se plimbă adesea liber în zonă."],
       en: ["Located on Santa Cruz Island.", "The Charles Darwin Research Station is located here.", "Starting point for most cruises in the archipelago.", "Giant tortoises often roam freely in the area."]
-    }, image: "/poi-images/puerto-ayora-cities-v2.webp"},
+    }, image: "/poi-images/puerto-ayora-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Puerto Ayora ist die größte Stadt der Galápagos-Inseln, gelegen auf der Insel Santa Cruz. Sie wurde 1926 gegründet und ist das wirtschaftliche Zentrum des Archipels. Der Tourismus dominiert, mit Kreuzfahrtschiffen und Tauchausflügen. Die Charles-Darwin-Forschungsstation befindet sich hier und betreibt Artenschutz. Die Bevölkerung beträgt ca. 12.000. Die Stadt bietet zahlreiche Restaurants, Hotels und Tauchschulen. Die Bucht Academy Bay ist ein beliebter Ankerplatz. Die Wirtschaft profitiert von Fischerei und Tourismus. Umweltauflagen schützen die einzigartige Natur.",
+      hu: "Puerto Ayora a Galápagos-szigetek legnagyobb városa, Santa Cruz szigetén. 1926-ban alapították, ma a turizmus központja. Itt található a Charles Darwin Kutatóállomás. A város gazdasága a turizmusra és a halászatra épül. A lakosság körülbelül 12.000 fő. A kikötőben hajók és jachtok állomásoznak. Számos búvárkodási lehetőség van. A környezetvédelmi szabályok szigorúak. Puerto Ayora a szigetek kapuja a turisták számára. Az Academy Bay festői öböl.",
+      ro: "Puerto Ayora este cel mai mare oraș din Insulele Galápagos, situat pe insula Santa Cruz. Fondat în 1926, este centrul economic al arhipelagului. Turismul este principala activitate, cu multe vase de croazieră. Aici se află Stația de Cercetare Charles Darwin. Populația este de aproximativ 12.000 de locuitori. Orașul are restaurante, hoteluri și școli de scufundări. Golful Academy Bay oferă adăpost pentru ambarcațiuni. Pescuitul și turismul susțin economia. Reglementările de mediu protejează fauna unică.",
+      en: "Puerto Ayora is the largest town in the Galápagos Islands, located on Santa Cruz Island. Founded in 1926, it is the economic and tourism hub. The Charles Darwin Research Station is based here, focusing on conservation. The population is around 12,000. Tourism drives the economy, with diving tours and cruises. Academy Bay is a scenic anchorage. The town has a variety of restaurants, shops, and hotels. Fishing is also important. Strict environmental regulations protect the fragile ecosystem. Puerto Ayora serves as the main gateway for visitors to the archipelago.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 11.974 (Volkszählung 2010)", "Gründungsjahr: 1926", "Fläche der Insel Santa Cruz: 986 km²", "Anzahl der Touristen jährlich: ca. 200.000", "Entfernung nach Quito: ca. 1.000 km", "Durchschnittstemperatur: 25 °C"],
+      hu: ["Népesség: 11.974 fő (2010)", "Charles Darwin Kutatóállomás: 1964-ben alapították", "Akadémia-öböl hossza: 2 km", "Éves csapadék: 500 mm", "Búvárhelyek száma: 10+", "Repülőtér távolsága: 45 km (Baltra)"],
+      ro: ["Populație: 11.974 locuitori (2010)", "Anul înființării: 1926", "Suprafața insulei Santa Cruz: 986 km²", "Numărul de turiști pe an: 200.000", "Temperatura medie: 25°C", "Distanța până la Baltra (aeroport): 45 km"],
+      en: ["Population: 11,974 (2010 census)", "Founded: 1926", "Santa Cruz Island area: 986 km² (381 sq mi)", "Annual tourists: 200,000+", "Research station established: 1964", "Average temperature: 25°C (77°F)"],
+    },
+  },
   {
     id: "puerto-baquerizo-moreno-cities-v2",
     type: "state-capital",
     parent: "EC-W",
     coords: [-89.6015, -0.9016],
-    name: { de: "Puerto Baquerizo Moreno", hu: "Puerto Baquerizo Moreno", ro: "Puerto Baquerizo Moreno", en: "Puerto Baquerizo Moreno",
-image: "/poi-images/puerto-baquerizo-moreno-cities-v2.webp"
-},
+    name: { de: "Puerto Baquerizo Moreno", hu: "Puerto Baquerizo Moreno", ro: "Puerto Baquerizo Moreno", en: "Puerto Baquerizo Moreno"},
+    image: "/poi-images/puerto-baquerizo-moreno-cities-v2.webp",
     description: {
       de: "Die politische Hauptstadt der Galapagos-Inseln, berühmt für ihre Seelöwenkolonien.",
       hu: "A Galápagos-szigetek politikai fővárosa, amely oroszlánfóka-kolóniáiról híres.",
@@ -1585,7 +1995,19 @@ image: "/poi-images/puerto-baquerizo-moreno-cities-v2.webp"
       hu: ["A Galápagos tartomány fővárosa.", "A San Cristóbal-szigeten található.", "Az oroszlánfókák gyakran a móló padjain pihennek.", "A szigetek második legfontosabb repülőtere itt található."],
       ro: ["Capitala provinciei Galapagos.", "Situat pe insula San Cristóbal.", "Leii de mare se odihnesc adesea pe băncile de pe dig.", "Are al doilea aeroport ca importanță din insule."],
       en: ["Capital of the Galapagos province.", "Located on San Cristóbal Island.", "Sea lions often rest on the benches at the pier.", "Has the second most important airport on the islands."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Puerto Baquerizo Moreno ist die Hauptstadt der Provinz Galápagos, gelegen auf der Insel San Cristóbal. Sie wurde 1860 gegründet und beherbergt das Interpretationszentrum der Galápagos. Der Tourismus ist wichtig, aber auch Fischerei und Verwaltung. Die Stadt hat etwa 7.000 Einwohner. Am Strand La Lobería leben Seelöwen. Das Klima ist angenehm warm. Die Wirtschaft profitiert von der Nähe zum Meer und den Naturschutzgebieten. Die Stadt hat einen Flughafen und einen Hafen für Kreuzfahrtschiffe.",
+      hu: "Puerto Baquerizo Moreno a Galápagos-szigetek fővárosa, San Cristóbal szigetén. 1860-ban alapították. Itt található a Galápagos Interpretációs Központ. A gazdaság a turizmusra és a halászatra épül. A lakosság körülbelül 7.000 fő. A város strandjain oroszlánfókák pihennek. Az éghajlat mérsékelten meleg. A kikötőt hajók használják. Puerto Baquerizo Moreno a szigetek közigazgatási központja. A repülőtér összeköttetést biztosít a kontinenssel.",
+      ro: "Puerto Baquerizo Moreno este capitala provinciei Galápagos, pe insula San Cristóbal. Fondat în 1860, găzduiește Centrul de Interpretare Galápagos. Economia se bazează pe turism, pescuit și administrație. Populația este de aproximativ 7.000 de locuitori. Plaja La Lobería este habitat pentru lei de mare. Clima este caldă. Orașul are aeroport și port. Puerto Baquerizo Moreno este centrul politic al arhipelagului. A fost numit după un fost președinte ecuadorian.",
+      en: "Puerto Baquerizo Moreno is the capital of Galápagos Province, located on San Cristóbal Island. Founded in 1860, it hosts the Galápagos Interpretation Center. The economy relies on tourism, fishing, and government services. Population is about 7,000. La Lobería beach is home to sea lions. The climate is warm and pleasant. The city has an airport and a port. It serves as the administrative hub of the archipelago. Named after a former Ecuadorian president, it offers a quieter alternative to Puerto Ayora.",
+    },
+    factsAdvanced: {
+      de: ["Einwohnerzahl: 6.672 (Volkszählung 2010)", "Gründungsjahr: 1860", "Fläche der Insel San Cristóbal: 558 km²", "Höchster Punkt: 730 m über dem Meeresspiegel", "Anzahl der Seelöwen am Strand: ca. 50", "Entfernung nach Puerto Ayora: 80 km (Seeweg)"],
+      hu: ["Népesség: 6.672 fő (2010)", "Interpretációs Központ: 1999-ben nyílt", "Repülőtér kifutópálya hossza: 2.500 m", "Éves csapadék: 400 mm", "Kormányzati épületek száma: 5", "Lakosság növekedése 2001-2010: 15%"],
+      ro: ["Populație: 6.672 locuitori (2010)", "Anul înființării: 1860", "Suprafața insulei San Cristóbal: 558 km²", "Altitudine maximă: 730 m", "Numărul de lei de mare estimat: 1.000 pe insulă", "Distanța până la Guayaquil: 1.200 km"],
+      en: ["Population: 6,672 (2010 census)", "Founded: 1860", "San Cristóbal Island area: 558 km² (215 sq mi)", "Interpretation Center opened: 1999", "Highest point: Cerro San Joaquín at 730 m", "Distance to Guayaquil: 1,200 km (746 mi)"],
+    },
   }
 ];
 

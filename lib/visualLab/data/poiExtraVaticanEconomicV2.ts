@@ -5,9 +5,8 @@ export const vaticanEconomicV2: POI[] = [
     id: "vatican-philatelic-numismatic-office-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Amt für Philatelie und Numismatik", hu: "Bélyeg- és Érmehivatal", ro: "Biroul Filatelic și Numismatic", en: "Philatelic and Numismatic Office",
-image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp"
-},
+    name: { de: "Amt für Philatelie und Numismatik", hu: "Bélyeg- és Érmehivatal", ro: "Biroul Filatelic și Numismatic", en: "Philatelic and Numismatic Office"},
+    image: "/poi-images/vatican-philatelic-numismatic-office-economic-v2.webp",
     coords: [12.4534, 41.9056],
     coordinates: { lat: 41.9056, lng: 12.4534 },
     description: {
@@ -40,9 +39,8 @@ imageHint: "Vatican coins and stamps display",
     id: "vatican-supermarket-annona-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Vatikan-Supermarkt (Annona)", hu: "Vatikáni Szupermarket (Annona)", ro: "Supermarketul Vatican (Annona)", en: "Vatican Supermarket (Annona)",
-image: "/poi-images/vatican-supermarket-annona-economic-v2.webp"
-},
+    name: { de: "Vatikan-Supermarkt (Annona)", hu: "Vatikáni Szupermarket (Annona)", ro: "Supermarketul Vatican (Annona)", en: "Vatican Supermarket (Annona)"},
+    image: "/poi-images/vatican-supermarket-annona-economic-v2.webp",
     coords: [12.4552, 41.9055],
     coordinates: { lat: 41.9055, lng: 12.4552 },
     description: {
@@ -75,9 +73,8 @@ image: "/poi-images/vatican-supermarket-annona-economic-v2.webp"
     id: "vatican-printing-press-economic-v2",
     parent: "VA",
     type: "factory",
-    name: { de: "Vatikanische Druckerei", hu: "Vatikáni Nyomda", ro: "Tipografia Vaticană", en: "Vatican Printing Press",
-image: "/poi-images/vatican-printing-press-economic-v2.webp"
-},
+    name: { de: "Vatikanische Druckerei", hu: "Vatikáni Nyomda", ro: "Tipografia Vaticană", en: "Vatican Printing Press"},
+    image: "/poi-images/vatican-printing-press-economic-v2.webp",
     coords: [12.4538, 41.9058],
     coordinates: { lat: 41.9058, lng: 12.4538 },
     description: {
@@ -110,9 +107,8 @@ imageHint: "Vatican printing press machinery",
     id: "vatican-publishing-house-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Vatikanischer Buchverlag (LEV)", hu: "Vatikáni Könyvkiadó (LEV)", ro: "Editura Vaticană (LEV)", en: "Vatican Publishing House (LEV)",
-image: "/poi-images/vatican-publishing-house-economic-v2.webp"
-},
+    name: { de: "Vatikanischer Buchverlag (LEV)", hu: "Vatikáni Könyvkiadó (LEV)", ro: "Editura Vaticană (LEV)", en: "Vatican Publishing House (LEV)"},
+    image: "/poi-images/vatican-publishing-house-economic-v2.webp",
     coords: [12.4571, 41.9024],
     coordinates: { lat: 41.9024, lng: 12.4571 },
     description: {
@@ -145,9 +141,8 @@ image: "/poi-images/vatican-publishing-house-economic-v2.webp"
     id: "vatican-paul-vi-hall-solar-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Solaranlage der Aula Paolo VI", hu: "VI. Pál terem napelemei", ro: "Panourile solare de pe Aula Paul al VI-lea", en: "Paul VI Hall Solar Panels",
-image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp"
-},
+    name: { de: "Solaranlage der Aula Paolo VI", hu: "VI. Pál terem napelemei", ro: "Panourile solare de pe Aula Paul al VI-lea", en: "Paul VI Hall Solar Panels"},
+    image: "/poi-images/vatican-paul-vi-hall-solar-economic-v2.webp",
     coords: [12.4535, 41.9006],
     coordinates: { lat: 41.9006, lng: 12.4535 },
     description: {
@@ -180,9 +175,8 @@ imageHint: "Paul VI Hall solar panels roof view",
     id: "vatican-post-office-main-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Vatikanische Post (Hauptsitz)", hu: "Vatikáni Posta (Főépület)", ro: "Poșta Vaticană (Sediu Central)", en: "Vatican Post Office (Main)",
-image: "/poi-images/vatican-post-office-main-economic-v2.webp"
-},
+    name: { de: "Vatikanische Post (Hauptsitz)", hu: "Vatikáni Posta (Főépület)", ro: "Poșta Vaticană (Sediu Central)", en: "Vatican Post Office (Main)"},
+    image: "/poi-images/vatican-post-office-main-economic-v2.webp",
     coords: [12.4541, 41.9054],
     coordinates: { lat: 41.9054, lng: 12.4541 },
     description: {
@@ -215,9 +209,8 @@ imageHint: "Vatican Post Office yellow mailbox",
     id: "vatican-gas-station-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Vatikanische Tankstelle", hu: "Vatikáni Benzinkút", ro: "Benzinăria Vatican", en: "Vatican Gas Station",
-image: "/poi-images/vatican-gas-station-economic-v2.webp"
-},
+    name: { de: "Vatikanische Tankstelle", hu: "Vatikáni Benzinkút", ro: "Benzinăria Vatican", en: "Vatican Gas Station"},
+    image: "/poi-images/vatican-gas-station-economic-v2.webp",
     coords: [12.4502, 41.9029],
     coordinates: { lat: 41.9029, lng: 12.4502 },
     description: {
@@ -250,9 +243,8 @@ image: "/poi-images/vatican-gas-station-economic-v2.webp"
     id: "vatican-apsa-headquarters-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Verwaltung des Erbes des Apostolischen Stuhls (APSA)", hu: "Az Apostoli Szék Vagyonkezelősége (APSA)", ro: "Administrarea Patrimoniului Scaunului Apostolic (APSA)", en: "Administration of the Patrimony of the Apostolic See (APSA)",
-image: "/poi-images/vatican-apsa-headquarters-economic-v2.webp"
-},
+    name: { de: "Verwaltung des Erbes des Apostolischen Stuhls (APSA)", hu: "Az Apostoli Szék Vagyonkezelősége (APSA)", ro: "Administrarea Patrimoniului Scaunului Apostolic (APSA)", en: "Administration of the Patrimony of the Apostolic See (APSA)"},
+    image: "/poi-images/vatican-apsa-headquarters-economic-v2.webp",
     coords: [12.4525, 41.9035],
     coordinates: { lat: 41.9035, lng: 12.4525 },
     description: {
@@ -285,9 +277,8 @@ image: "/poi-images/vatican-apsa-headquarters-economic-v2.webp"
     id: "vatican-museum-ticket-office-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Kasse der Vatikanischen Museen", hu: "Vatikáni Múzeumok jegypénztára", ro: "Casieria Muzeelor Vaticane", en: "Vatican Museums Ticket Office",
-image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp"
-},
+    name: { de: "Kasse der Vatikanischen Museen", hu: "Vatikáni Múzeumok jegypénztára", ro: "Casieria Muzeelor Vaticane", en: "Vatican Museums Ticket Office"},
+    image: "/poi-images/vatican-museum-ticket-office-economic-v2.webp",
     coords: [12.4536, 41.9068],
     coordinates: { lat: 41.9068, lng: 12.4536 },
     description: {
@@ -320,9 +311,8 @@ imageHint: "Vatican Museums entrance queue",
     id: "vatican-mosaic-studio-economic-v2",
     parent: "VA",
     type: "factory",
-    name: { de: "Vatikanisches Mosaikstudio", hu: "Vatikáni Mozaikstúdió", ro: "Studioul de Mozaic al Vaticanului", en: "Vatican Mosaic Studio",
-image: "/poi-images/vatican-mosaic-studio-economic-v2.webp"
-},
+    name: { de: "Vatikanisches Mosaikstudio", hu: "Vatikáni Mozaikstúdió", ro: "Studioul de Mozaic al Vaticanului", en: "Vatican Mosaic Studio"},
+    image: "/poi-images/vatican-mosaic-studio-economic-v2.webp",
     coords: [12.4515, 41.9028],
     coordinates: { lat: 41.9028, lng: 12.4515 },
     description: {
@@ -355,9 +345,8 @@ imageHint: "Vatican Mosaic Studio workshop",
     id: "vatican-central-heating-plant-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Zentrale Heizanlage", hu: "Központi Fűtőmű", ro: "Centrala Termică Centrală", en: "Central Heating Plant",
-image: "/poi-images/vatican-central-heating-plant-economic-v2.webp"
-},
+    name: { de: "Zentrale Heizanlage", hu: "Központi Fűtőmű", ro: "Centrala Termică Centrală", en: "Central Heating Plant"},
+    image: "/poi-images/vatican-central-heating-plant-economic-v2.webp",
     coords: [12.452, 41.9045],
     coordinates: { lat: 41.9045, lng: 12.452 },
     description: {
@@ -390,9 +379,8 @@ imageHint: "Vatican central heating industrial pipes",
     id: "vatican-governorate-palace-admin-economic-v2",
     parent: "VA",
     type: "palace",
-    name: { de: "Palast des Governatorats", hu: "Kormányzói Palota", ro: "Palatul Guvernatoratului", en: "Governorate Palace",
-image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp"
-},
+    name: { de: "Palast des Governatorats", hu: "Kormányzói Palota", ro: "Palatul Guvernatoratului", en: "Governorate Palace"},
+    image: "/poi-images/vatican-governorate-palace-admin-economic-v2.webp",
     coords: [12.4522, 41.9037],
     coordinates: { lat: 41.9037, lng: 12.4522 },
     description: {
@@ -425,9 +413,8 @@ imageHint: "Vatican Governorate Palace facade",
     id: "vatican-mint-building-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Vatikanische Münze (Palazzo della Zecca)", hu: "Vatikáni Pénzverde", ro: "Monetăria Vaticanului", en: "Vatican Mint (Palazzo della Zecca)",
-image: "/poi-images/vatican-mint-building-economic-v2.webp"
-},
+    name: { de: "Vatikanische Münze (Palazzo della Zecca)", hu: "Vatikáni Pénzverde", ro: "Monetăria Vaticanului", en: "Vatican Mint (Palazzo della Zecca)"},
+    image: "/poi-images/vatican-mint-building-economic-v2.webp",
     coords: [12.453, 41.9048],
     coordinates: { lat: 41.9048, lng: 12.453 },
     description: {
@@ -460,9 +447,8 @@ imageHint: "Palazzo della Zecca Vatican exterior",
     id: "vatican-garage-autoparco-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Zentralgarage (Autoparco)", hu: "Központi Autópark (Autoparco)", ro: "Garajul Central (Autoparco)", en: "Central Garage (Autoparco)",
-image: "/poi-images/vatican-garage-autoparco-economic-v2.webp"
-},
+    name: { de: "Zentralgarage (Autoparco)", hu: "Központi Autópark (Autoparco)", ro: "Garajul Central (Autoparco)", en: "Central Garage (Autoparco)"},
+    image: "/poi-images/vatican-garage-autoparco-economic-v2.webp",
     coords: [12.4505, 41.903],
     coordinates: { lat: 41.903, lng: 12.4505 },
     description: {
@@ -495,9 +481,8 @@ image: "/poi-images/vatican-garage-autoparco-economic-v2.webp"
     id: "vatican-osserrvatore-romano-office-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Redaktion L'Osservatore Romano", hu: "L'Osservatore Romano szerkesztősége", ro: "Redacția L'Osservatore Romano", en: "L'Osservatore Romano Editorial Office",
-image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp"
-},
+    name: { de: "Redaktion L'Osservatore Romano", hu: "L'Osservatore Romano szerkesztősége", ro: "Redacția L'Osservatore Romano", en: "L'Osservatore Romano Editorial Office"},
+    image: "/poi-images/vatican-osserrvatore-romano-office-economic-v2.webp",
     coords: [12.4543, 41.9057],
     coordinates: { lat: 41.9057, lng: 12.4543 },
     description: {
@@ -530,9 +515,8 @@ imageHint: "L'Osservatore Romano newspaper office",
     id: "vatican-radio-management-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Vatikan Radio (Verwaltung)", hu: "Vatikáni Rádió (Központ)", ro: "Radio Vatican (Administrație)", en: "Vatican Radio (Management)",
-image: "/poi-images/vatican-radio-management-economic-v2.webp"
-},
+    name: { de: "Vatikan Radio (Verwaltung)", hu: "Vatikáni Rádió (Központ)", ro: "Radio Vatican (Administrație)", en: "Vatican Radio (Management)"},
+    image: "/poi-images/vatican-radio-management-economic-v2.webp",
     coords: [12.4518, 41.9032],
     coordinates: { lat: 41.9032, lng: 12.4518 },
     description: {
@@ -565,9 +549,8 @@ image: "/poi-images/vatican-radio-management-economic-v2.webp"
     id: "vatican-museum-bookstore-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Hauptbuchhandlung der Museen", hu: "Múzeumi Főkönyvesbolt", ro: "Librăria Principală a Muzeelor", en: "Museum Main Bookstore",
-image: "/poi-images/vatican-museum-bookstore-economic-v2.webp"
-},
+    name: { de: "Hauptbuchhandlung der Museen", hu: "Múzeumi Főkönyvesbolt", ro: "Librăria Principală a Muzeelor", en: "Museum Main Bookstore"},
+    image: "/poi-images/vatican-museum-bookstore-economic-v2.webp",
     coords: [12.454, 41.9065],
     coordinates: { lat: 41.9065, lng: 12.454 },
     description: {
@@ -600,9 +583,8 @@ imageHint: "Vatican Museums bookstore interior",
     id: "vatican-floreria-apostolica-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Floreria Apostolica (Möbelmagazin)", hu: "Floreria Apostolica (Logisztika)", ro: "Floreria Apostolica (Logistică)", en: "Floreria Apostolica (Logistics)",
-image: "/poi-images/vatican-floreria-apostolica-economic-v2.webp"
-},
+    name: { de: "Floreria Apostolica (Möbelmagazin)", hu: "Floreria Apostolica (Logisztika)", ro: "Floreria Apostolica (Logistică)", en: "Floreria Apostolica (Logistics)"},
+    image: "/poi-images/vatican-floreria-apostolica-economic-v2.webp",
     coords: [12.455, 41.905],
     coordinates: { lat: 41.905, lng: 12.455 },
     description: {
@@ -635,9 +617,8 @@ image: "/poi-images/vatican-floreria-apostolica-economic-v2.webp"
     id: "vatican-st-peters-dome-shop-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Souvenirshop der Kuppel", hu: "Kupolabolt", ro: "Magazinul Cupolei", en: "St. Peter's Dome Gift Shop",
-image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp"
-},
+    name: { de: "Souvenirshop der Kuppel", hu: "Kupolabolt", ro: "Magazinul Cupolei", en: "St. Peter's Dome Gift Shop"},
+    image: "/poi-images/vatican-st-peters-dome-shop-economic-v2.webp",
     coords: [12.4545, 41.902],
     coordinates: { lat: 41.902, lng: 12.4545 },
     description: {
@@ -670,9 +651,8 @@ imageHint: "St Peter's Basilica roof gift shop",
     id: "vatican-library-bookshop-economic-v2",
     parent: "VA",
     type: "landmark",
-    name: { de: "Shop der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár boltja", ro: "Magazinul Bibliotecii Vaticane", en: "Vatican Library Bookshop",
-image: "/poi-images/vatican-library-bookshop-economic-v2.webp"
-},
+    name: { de: "Shop der Vatikanischen Bibliothek", hu: "Vatikáni Könyvtár boltja", ro: "Magazinul Bibliotecii Vaticane", en: "Vatican Library Bookshop"},
+    image: "/poi-images/vatican-library-bookshop-economic-v2.webp",
     coords: [12.4544, 41.9046],
     coordinates: { lat: 41.9046, lng: 12.4544 },
     description: {
@@ -705,9 +685,8 @@ imageHint: "Vatican Library shop display",
     id: "vatican-telephone-service-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Vatikanischer Telefonservice", hu: "Vatikáni Telefonszolgálat", ro: "Serviciul Telefonic Vatican", en: "Vatican Telephone Service",
-image: "/poi-images/vatican-telephone-service-economic-v2.webp"
-},
+    name: { de: "Vatikanischer Telefonservice", hu: "Vatikáni Telefonszolgálat", ro: "Serviciul Telefonic Vatican", en: "Vatican Telephone Service"},
+    image: "/poi-images/vatican-telephone-service-economic-v2.webp",
     coords: [12.4539, 41.9051],
     coordinates: { lat: 41.9051, lng: 12.4539 },
     description: {
@@ -740,9 +719,8 @@ imageHint: "Vatican telephone service cards",
     id: "vatican-secretariat-for-economy-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Sekretariat für die Wirtschaft", hu: "Gazdasági Titkárság", ro: "Secretariatul pentru Economie", en: "Secretariat for the Economy",
-image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp"
-},
+    name: { de: "Sekretariat für die Wirtschaft", hu: "Gazdasági Titkárság", ro: "Secretariatul pentru Economie", en: "Secretariat for the Economy"},
+    image: "/poi-images/vatican-secretariat-for-economy-economic-v2.webp",
     coords: [12.4528, 41.9038],
     coordinates: { lat: 41.9038, lng: 12.4528 },
     description: {
@@ -775,9 +753,8 @@ imageHint: "Tower of John XXIII Vatican",
     id: "vatican-clothing-service-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Vatikanischer Bekleidungsservice", hu: "Vatikáni Ruházati Szolgálat", ro: "Serviciul de Îmbrăcăminte al Vaticanului", en: "Vatican Clothing Service",
-image: "/poi-images/vatican-clothing-service-economic-v2.webp"
-},
+    name: { de: "Vatikanischer Bekleidungsservice", hu: "Vatikáni Ruházati Szolgálat", ro: "Serviciul de Îmbrăcăminte al Vaticanului", en: "Vatican Clothing Service"},
+    image: "/poi-images/vatican-clothing-service-economic-v2.webp",
     coords: [12.4555, 41.9053],
     coordinates: { lat: 41.9053, lng: 12.4555 },
     description: {
@@ -810,9 +787,8 @@ image: "/poi-images/vatican-clothing-service-economic-v2.webp"
     id: "vatican-caritas-office-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Caritas Internationalis (Zentrale)", hu: "Caritas Internationalis Központ", ro: "Caritas Internationalis (Sediu)", en: "Caritas Internationalis (Headquarters)",
-image: "/poi-images/vatican-caritas-office-economic-v2.webp"
-},
+    name: { de: "Caritas Internationalis (Zentrale)", hu: "Caritas Internationalis Központ", ro: "Caritas Internationalis (Sediu)", en: "Caritas Internationalis (Headquarters)"},
+    image: "/poi-images/vatican-caritas-office-economic-v2.webp",
     coords: [12.4558, 41.9025],
     coordinates: { lat: 41.9025, lng: 12.4558 },
     description: {
@@ -845,9 +821,8 @@ image: "/poi-images/vatican-caritas-office-economic-v2.webp"
     id: "vatican-gendarmerie-logistics-economic-v2",
     parent: "VA",
     type: "industry",
-    name: { de: "Logistikzentrum der Gendarmerie", hu: "Csendőrségi Logisztikai Központ", ro: "Centrul Logistic al Jandarmeriei", en: "Gendarmerie Logistics Center",
-image: "/poi-images/vatican-gendarmerie-logistics-economic-v2.webp"
-},
+    name: { de: "Logistikzentrum der Gendarmerie", hu: "Csendőrségi Logisztikai Központ", ro: "Centrul Logistic al Jandarmeriei", en: "Gendarmerie Logistics Center"},
+    image: "/poi-images/vatican-gendarmerie-logistics-economic-v2.webp",
     coords: [12.4555, 41.9053],
     coordinates: { lat: 41.9053, lng: 12.4555 },
     description: {
@@ -880,9 +855,8 @@ image: "/poi-images/vatican-gendarmerie-logistics-economic-v2.webp"
     id: "vatican-academy-social-sciences-economic-v2",
     parent: "VA",
     type: "university",
-    name: { de: "Päpstliche Akademie der Sozialwissenschaften", hu: "Pápai Társadalomtudományi Akadémia", ro: "Academia Pontificală de Științe Sociale", en: "Pontifical Academy of Social Sciences",
-image: "/poi-images/vatican-academy-social-sciences-economic-v2.webp"
-},
+    name: { de: "Päpstliche Akademie der Sozialwissenschaften", hu: "Pápai Társadalomtudományi Akadémia", ro: "Academia Pontificală de Științe Sociale", en: "Pontifical Academy of Social Sciences"},
+    image: "/poi-images/vatican-academy-social-sciences-economic-v2.webp",
     coords: [12.4516, 41.904],
     coordinates: { lat: 41.904, lng: 12.4516 },
     description: {

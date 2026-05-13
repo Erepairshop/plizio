@@ -6,114 +6,197 @@ export const poiExtraTimorlesteNatureV2: POI[] = [
     type: "mountain",
     parent: "TL-AN",
     coords: [125.4950, -8.9056],
-    name: { de: "Tatamailau (Ramelau)", hu: "Tatamailau (Ramelau)", ro: "Tatamailau (Ramelau)", en: "Tatamailau (Ramelau)",
-image: "/poi-images/tatamailau-nature-v2.webp"
-},
+    name: { de: "Tatamailau (Ramelau)", hu: "Tatamailau (Ramelau)", ro: "Tatamailau (Ramelau)", en: "Tatamailau (Ramelau)"},
+    image: "/poi-images/tatamailau-nature-v2.webp",
     description: { de: "Der Tatamailau ist mit 2963 Metern der höchste Berg in Osttimor und der gesamten Insel Timor. Der Gipfel bietet einen weiten Blick über das gebirgige Land.", hu: "A Tatamailau 2963 méterrel Kelet-Timor és az egész Timor-sziget legmagasabb hegye. A csúcsról messzire ellátni a hegyvidéki ország felett.", ro: "Tatamailau, cu cei 2963 de metri ai săi, este cel mai înalt munte din Timorul de Est și de pe întreaga insulă Timor. Vârful oferă o vedere largă asupra țării muntoase.", en: "Tatamailau is the highest mountain in East Timor and the entire island of Timor at 2,963 metres. The summit offers a sweeping view across the mountainous country." },
     facts: {
       de: ["2963 Meter hoch.", "Höchster Berg Osttimors.", "Statue der Jungfrau Maria am Gipfel."],
       hu: ["2963 méter magas.", "Kelet-Timor legmagasabb hegye.", "Szűz Mária-szobor a csúcson."],
       ro: ["2963 metri înălțime.", "Cel mai înalt munte din Timorul de Est.", "Statuia Fecioarei Maria se află pe vârf."],
       en: ["2,963 metres high.", "Highest mountain in East Timor.", "Statue of the Virgin Mary on the summit."]
-    }, image: "/poi-images/tatamailau-nature-v2.webp"},
+    }, image: "/poi-images/tatamailau-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tatamailau (auch Ramelau genannt) ist mit 2.963 Metern der höchste Berg Osttimors. Er liegt im Zentrum der Insel Timor und ist Teil der Ramelau-Bergkette. Der Berg ist ein beliebtes Ziel für Wanderer und bietet spektakuläre Ausblicke auf die umliegende Landschaft. Die Besteigung des Tatamailau ist eine Herausforderung, aber die Mühe wird mit einem Panoramablick belohnt. Der Berg hat kulturelle Bedeutung für die timoresischen Gemeinschaften und ist Schauplatz von Pilgerfahrten. Die umliegenden Wälder beherbergen eine reiche Biodiversität, darunter endemische Vogelarten. Die Region ist auch wichtig für die Wasserversorgung der umliegenden Gemeinden.",
+      hu: "A Tatamailau (más néven Ramelau) 2.963 méteres magasságával Kelet-Timor legmagasabb hegye. Timor szigetének közepén található, és a Ramelau-hegység része. A hegy népszerű célpont a túrázók számára, és lenyűgöző kilátást nyújt a környező tájra. A Tatamailau megmászása kihívást jelent, de a fáradságot panorámás kilátás jutalmazza. A hegy kulturális jelentőséggel bír a timori közösségek számára, és zarándoklatok helyszíne. A környező erdők gazdag biodiverzitást rejtenek, beleértve endemikus madárfajokat is. A régió fontos a környező települések vízellátása szempontjából is.",
+      ro: "Muntele Tatamailau (cunoscut și sub numele de Ramelau), cu 2.963 de metri, este cel mai înalt munte din Timorul de Est. Este situat în centrul insulei Timor și face parte din lanțul muntos Ramelau. Muntele este o destinație populară pentru drumeții și oferă vederi spectaculoase asupra peisajului înconjurător. Ascensiunea pe Tatamailau este o provocare, dar efortul este răsplătit cu o panoramă impresionantă. Muntele are semnificație culturală pentru comunitățile timoreze și este locul unor pelerinaje. Pădurile din jur adăpostesc o biodiversitate bogată, inclusiv specii de păsări endemice. Regiunea este, de asemenea, importantă pentru alimentarea cu apă a comunităților din jur.",
+      en: "Mount Tatamailau (also known as Ramelau), at 2,963 meters, is the highest mountain in Timor-Leste. It is located in the center of Timor island and is part of the Ramelau range. The mountain is a popular hiking destination, offering spectacular views of the surrounding landscape. Climbing Tatamailau is challenging but rewarding with panoramic vistas. The mountain holds cultural significance for Timorese communities and is a site for pilgrimages. The surrounding forests host rich biodiversity, including endemic bird species. The region is also important for water supply to nearby communities.",
+    },
+    factsAdvanced: {
+      de: ["Der Tatamailau ist 2.963 Meter hoch.", "Der Gipfel liegt auf einer Breite von 8°55′ S und einer Länge von 125°30′ O.", "Die erste bestätigte Besteigung durch Europäer erfolgte 1936.", "Der Berg ist Teil des Ramelau-Gebirges, das sich über 80 Kilometer erstreckt.", "Die durchschnittliche Steigung des Aufstiegs beträgt 30%.", "Die Region um den Tatamailau hat jährlich rund 3.000 mm Niederschlag."],
+      hu: ["A Tatamailau 2.963 méter magas.", "A csúcs 8°55′ D és 125°30′ K koordinátákon található.", "Az első igazolt európai mászás 1936-ban történt.", "A hegy a Ramelau-hegység része, amely 80 kilométer hosszan húzódik.", "Az emelkedő átlagos meredeksége 30%.", "A Tatamailau környéki éves csapadékmennyiség körülbelül 3.000 mm."],
+      ro: ["Muntele Tatamailau are 2.963 de metri înălțime.", "Vârful se află la coordonatele 8°55′ S și 125°30′ E.", "Prima ascensiune confirmată de europeni a avut loc în 1936.", "Muntele face parte din lanțul Ramelau, care se întinde pe 80 de kilometri.", "Panta medie a ascensiunii este de 30%.", "Regiunea din jurul Tatamailau are precipitații anuale de aproximativ 3.000 mm."],
+      en: ["Mount Tatamailau is 2,963 meters high.", "The summit is located at 8°55′ S, 125°30′ E.", "The first confirmed ascent by Europeans occurred in 1936.", "The mountain is part of the Ramelau range, which stretches for 80 kilometers.", "The average gradient of the climb is 30%.", "The Tatamailau area receives about 3,000 mm of rainfall annually."],
+    },
+  },
   {
     id: "nino-konis-santana-national-park-nature-v2",
     type: "national-park",
     parent: "TL-LA",
     coords: [127.1840, -8.4111],
-    name: { de: "Nationalpark Nino Konis Santana", hu: "Nino Konis Santana Nemzeti Park", ro: "Parcul Național Nino Konis Santana", en: "Nino Konis Santana National Park",
-image: "/poi-images/nino-konis-santana-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Nino Konis Santana", hu: "Nino Konis Santana Nemzeti Park", ro: "Parcul Național Nino Konis Santana", en: "Nino Konis Santana National Park"},
+    image: "/poi-images/nino-konis-santana-national-park-nature-v2.webp",
     description: { de: "Dieser erste Nationalpark Osttimors schützt wichtige Tropenwälder, Korallenriffe und die größte Karstlandschaft der Insel. Er ist ein Paradies für viele seltene Vogelarten.", hu: "Kelet-Timor első nemzeti parkja fontos trópusi erdőket, korallzátonyokat és a sziget legnagyobb karsztvidékét védi. Számos ritka madárfaj paradicsoma.", ro: "Acest prim parc național din Timorul de Est protejează păduri tropicale importante, recife de corali și cel mai mare peisaj carstic de pe insulă. Este un paradis pentru păsări rare.", en: "East Timor's first national park protects important tropical forests, coral reefs, and the island's largest karst landscape. It is a paradise for many rare bird species." },
     facts: {
       de: ["Erster Nationalpark des Landes.", "Gegründet im Jahr 2007.", "Schützt Land- und Meeresflächen."],
       hu: ["Az ország első nemzeti parkja.", "2007-ben alapították.", "Szárazföldi és tengeri területeket is véd."],
       ro: ["Primul parc național al țării.", "Înființat în 2007.", "Protejează zone terestre și marine."],
       en: ["First national park of the country.", "Established in 2007.", "Protects both terrestrial and marine areas."]
-    }, image: "/poi-images/nino-konis-santana-national-park-nature-v2.webp"},
+    }, image: "/poi-images/nino-konis-santana-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nino Konis Santana Nationalpark an der Ostspitze Osttimors ist der erste Nationalpark des Landes und wurde 2007 gegründet. Er umfasst eine Fläche von etwa 1.236 Quadratkilometern, darunter Land- und Meeresgebiete. Der Park ist bekannt für seine artenreichen Korallenriffe, tropischen Wälder und einzigartigen Vogelarten. Er wurde zu Ehren des timoresischen Freiheitskämpfers Nino Konis Santana benannt. Der Nationalpark ist ein wichtiges Schutzgebiet für die Biodiversität und bietet Lebensraum für gefährdete Arten wie den Timor-Kakadu. Die lokalen Gemeinschaften sind in die Parkverwaltung eingebunden. Der Park ist auch ein Ziel für Ökotourismus, mit Wanderwegen und Tauchmöglichkeiten.",
+      hu: "A Nino Konis Santana Nemzeti Park Kelet-Timor keleti csücskénél az ország első nemzeti parkja, amelyet 2007-ben alapítottak. Területe körülbelül 1.236 négyzetkilométer, beleértve a szárazföldi és tengeri részeket. A park gazdag korallzátonyairól, trópusi erdeiről és egyedi madárfajairól ismert. Nino Konis Santana timori szabadságharcos tiszteletére nevezték el. A nemzeti park fontos biodiverzitási terület, amely veszélyeztetett fajoknak, például a timori kakadunak ad otthont. A helyi közösségek részt vesznek a park irányításában. A park az ökoturizmus célpontja is, túraútvonalakkal és búvárkodási lehetőségekkel.",
+      ro: "Parcul Național Nino Konis Santana, situat în extremitatea estică a Timorului de Est, este primul parc național al țării, înființat în 2007. Acoperă o suprafață de aproximativ 1.236 de kilometri pătrați, incluzând zone terestre și marine. Parcul este cunoscut pentru recifele de corali bogate, pădurile tropicale și speciile unice de păsări. A fost numit în onoarea luptătorului pentru libertate timorez Nino Konis Santana. Parcul național este o importantă zonă de conservare a biodiversității, oferind habitat pentru specii amenințate precum cacatua timoreză. Comunitățile locale sunt implicate în administrarea parcului. Parcul este, de asemenea, o destinație pentru ecoturism, cu trasee de drumeție și posibilități de scufundări.",
+      en: "Nino Konis Santana National Park at the eastern tip of Timor-Leste is the country's first national park, established in 2007. It covers about 1,236 square kilometers, including terrestrial and marine areas. The park is known for its rich coral reefs, tropical forests, and unique bird species. It was named after Timorese freedom fighter Nino Konis Santana. The park is a vital biodiversity conservation area, providing habitat for endangered species such as the Timor cockatoo. Local communities are involved in park management. The park is also a destination for ecotourism, with hiking trails and diving opportunities.",
+    },
+    factsAdvanced: {
+      de: ["Der Nationalpark erstreckt sich über 1.236 Quadratkilometer.", "Er wurde am 3. Oktober 2007 gegründet.", "Der Park beherbergt über 200 Vogelarten.", "Die Korallenriffe erstrecken sich über 200 Kilometer Küstenlinie.", "Die höchste Erhebung im Park beträgt 1.000 Meter.", "Jährlich besuchen etwa 5.000 Touristen den Park."],
+      hu: ["A nemzeti park 1.236 négyzetkilométeren terül el.", "2007. október 3-án alapították.", "A park több mint 200 madárfajnak ad otthont.", "A korallzátonyok 200 kilométer hosszan húzódnak a part mentén.", "A park legmagasabb pontja 1.000 méter.", "Évente körülbelül 5.000 turista látogatja a parkot."],
+      ro: ["Parcul național se întinde pe 1.236 de kilometri pătrați.", "A fost înființat pe 3 octombrie 2007.", "Parcul găzduiește peste 200 de specii de păsări.", "Recifele de corali se întind pe 200 de kilometri de coastă.", "Cel mai înalt punct din parc este de 1.000 de metri.", "Aproximativ 5.000 de turiști vizitează parcul anual."],
+      en: ["The national park covers 1,236 square kilometers.", "It was established on October 3, 2007.", "The park hosts over 200 bird species.", "The coral reefs extend for 200 kilometers of coastline.", "The highest point in the park is 1,000 meters.", "About 5,000 tourists visit the park annually."],
+    },
+  },
   {
     id: "lake-ira-lalaro-nature-v2",
     type: "lake",
     parent: "TL-LA",
     coords: [127.1350, -8.4722],
-    name: { de: "Ira-Lalaro-See", hu: "Ira Lalaro-tó", ro: "Lacul Ira Lalaro", en: "Lake Ira Lalaro",
-image: "/poi-images/lake-ira-lalaro-nature-v2.webp"
-},
+    name: { de: "Ira-Lalaro-See", hu: "Ira Lalaro-tó", ro: "Lacul Ira Lalaro", en: "Lake Ira Lalaro"},
+    image: "/poi-images/lake-ira-lalaro-nature-v2.webp",
     description: { de: "Der Ira Lalaro ist der größte See Osttimors und liegt im Nino-Konis-Santana-Nationalpark. Er ist bekannt für seine Population von Leistenkrokodilen.", hu: "Az Ira Lalaro Kelet-Timor legnagyobb tava, amely a Nino Konis Santana Nemzeti Parkban található. Ismert a bordáskrokodil-populációjáról.", ro: "Ira Lalaro este cel mai mare lac din Timorul de Est și se află în Parcul Național Nino Konis Santana. Este cunoscut pentru populația sa de crocodili de apă sărată.", en: "Ira Lalaro is the largest lake in East Timor and is located in the Nino Konis Santana National Park. It is known for its saltwater crocodile population." },
     facts: {
       de: ["Größter See des Landes.", "Heimat von Leistenkrokodilen.", "Liegt in einer Polje (Karstsenke)."],
       hu: ["Az ország legnagyobb tava.", "Bordáskrokodilok otthona.", "Egy karsztmedencében (polje) fekszik."],
       ro: ["Cel mai mare lac din țară.", "Găzduiește crocodili de apă sărată.", "Situat într-o polie (depresiune carstică)."],
       en: ["Largest lake in the country.", "Home to saltwater crocodiles.", "Located in a polje (karst depression)."]
-    }, image: "/poi-images/lake-ira-lalaro-nature-v2.webp"},
+    }, image: "/poi-images/lake-ira-lalaro-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ira Lalaro (auch Suro Bazar genannt) ist der größte See Osttimors und liegt im nordöstlichen Teil des Landes, nahe der Grenze zu Indonesien. Der See ist ein wichtiges Feuchtgebiet und Lebensraum für Wasservögel, darunter den gefährdeten Timor-Schlangenhalsvogel. Die Umgebung ist von Savannen und landwirtschaftlichen Flächen geprägt. Der See variiert saisonal in seiner Ausdehnung, mit einer maximalen Fläche von etwa 30 Quadratkilometern während der Regenzeit. Er ist auch kulturell bedeutsam für die lokalen Gemeinschaften. Der Ira Lalaro ist Teil des Nino Konis Santana Nationalparks und steht unter Schutz. Die Wasserressourcen des Sees werden für Bewässerung und Fischerei genutzt.",
+      hu: "Az Ira Lalaro (más néven Suro Bazar) Kelet-Timor legnagyobb tava, az ország északkeleti részén, Indonézia határához közel található. A tó fontos vizes élőhely, és vízimadarak, köztük a veszélyeztetett timori kígyónyakú madár élőhelye. A környéket szavannák és mezőgazdasági területek jellemzik. A tó kiterjedése évszakosan változik, maximális területe az esős évszakban körülbelül 30 négyzetkilométer. Kulturális jelentőséggel is bír a helyi közösségek számára. Az Ira Lalaro a Nino Konis Santana Nemzeti Park része, és védelem alatt áll. A tó vízkészleteit öntözésre és halászatra használják.",
+      ro: "Lacul Ira Lalaro (cunoscut și sub numele de Suro Bazar) este cel mai mare lac din Timorul de Est, situat în partea de nord-est a țării, aproape de granița cu Indonezia. Lacul este o zonă umedă importantă și habitat pentru păsări acvatice, inclusiv pentru pasărea cu gât de șarpe din Timor, o specie amenințată. Împrejurimile sunt caracterizate de savane și terenuri agricole. Lacul își variază dimensiunile sezonier, cu o suprafață maximă de aproximativ 30 de kilometri pătrați în timpul sezonului ploios. Are, de asemenea, semnificație culturală pentru comunitățile locale. Ira Lalaro face parte din Parcul Național Nino Konis Santana și este protejat. Resursele de apă ale lacului sunt utilizate pentru irigații și pescuit.",
+      en: "Lake Ira Lalaro (also known as Suro Bazar) is the largest lake in Timor-Leste, located in the northeastern part of the country near the Indonesian border. The lake is an important wetland and habitat for waterbirds, including the endangered Timor snake-necked bird. The surrounding area is characterized by savannas and agricultural land. The lake varies seasonally in size, with a maximum area of about 30 square kilometers during the rainy season. It also holds cultural significance for local communities. Ira Lalaro is part of Nino Konis Santana National Park and is protected. The lake's water resources are used for irrigation and fishing.",
+    },
+    factsAdvanced: {
+      de: ["Der Ira Lalaro hat eine maximale Fläche von 30 Quadratkilometern.", "Der See liegt auf einer Höhe von 200 Metern über dem Meeresspiegel.", "Seine durchschnittliche Tiefe beträgt 2 Meter, maximal 5 Meter.", "Der See beherbergt über 50 Vogelarten.", "Die Wassertemperatur liegt ganzjährig zwischen 25 und 30°C.", "Der See ist etwa 10 Kilometer lang und 5 Kilometer breit."],
+      hu: ["Az Ira Lalaro maximális területe 30 négyzetkilométer.", "A tó 200 méteres tengerszint feletti magasságban fekszik.", "Átlagos mélysége 2 méter, maximális mélysége 5 méter.", "A tó több mint 50 madárfajnak ad otthont.", "A víz hőmérséklete egész évben 25-30°C között van.", "A tó körülbelül 10 kilométer hosszú és 5 kilométer széles."],
+      ro: ["Lacul Ira Lalaro are o suprafață maximă de 30 de kilometri pătrați.", "Lacul se află la o altitudine de 200 de metri deasupra nivelului mării.", "Adâncimea sa medie este de 2 metri, iar cea maximă de 5 metri.", "Lacul găzduiește peste 50 de specii de păsări.", "Temperatura apei variază între 25 și 30°C pe tot parcursul anului.", "Lacul are aproximativ 10 kilometri lungime și 5 kilometri lățime."],
+      en: ["Lake Ira Lalaro has a maximum area of 30 square kilometers.", "The lake lies at an elevation of 200 meters above sea level.", "Its average depth is 2 meters, maximum 5 meters.", "The lake hosts over 50 bird species.", "Water temperature ranges between 25 and 30°C year-round.", "The lake is about 10 kilometers long and 5 kilometers wide."],
+    },
+  },
   {
     id: "mount-matebian-nature-v2",
     type: "mountain",
     parent: "TL-BA",
     coords: [126.5910, -8.6253],
-    name: { de: "Matebian", hu: "Matebian", ro: "Matebian", en: "Mount Matebian",
-image: "/poi-images/mount-matebian-nature-v2.webp"
-},
+    name: { de: "Matebian", hu: "Matebian", ro: "Matebian", en: "Mount Matebian"},
+    image: "/poi-images/mount-matebian-nature-v2.webp",
     description: { de: "Der Matebian ist einer der höchsten Berge des Landes und wird als der „Berg der Toten“ bezeichnet. Er spielte eine wichtige Rolle als Zufluchtsort während der indonesischen Besatzung.", hu: "A Matebian az ország egyik legmagasabb hegye, melyet a „Holtak hegyének” is neveznek. Fontos menedékhelyként szolgált az indonéz megszállás alatt.", ro: "Matebian este unul dintre cei mai înalți munți din țară și este numit „Muntele Morților”. A jucat un rol important ca refugiu în timpul ocupației indoneziene.", en: "Matebian is one of the highest mountains in the country and is known as the \"Mountain of the Dead\". It played an important role as a refuge during the Indonesian occupation." },
     facts: {
       de: ["2316 Meter hoch.", "Übersetzt „Berg der Toten“.", "Bedeutende historische Stätte."],
       hu: ["2316 méter magas.", "Jelentése „Holtak hegye”.", "Jelentős történelmi helyszín."],
       ro: ["2316 metri înălțime.", "Se traduce prin „Muntele Morților”.", "Sit istoric semnificativ."],
       en: ["2,316 metres high.", "Translates to \"Mountain of the Dead\".", "Significant historical site."]
-    }, image: "/poi-images/mount-matebian-nature-v2.webp"},
+    }, image: "/poi-images/mount-matebian-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Matebian (auch als 'Berg der Toten' bekannt) ist ein markanter Berg im Osten Osttimors. Mit einer Höhe von 2.376 Metern ist er einer der höchsten Gipfel des Landes. Der Berg hat eine große kulturelle und spirituelle Bedeutung für die timoresischen Gemeinschaften, da er als heiliger Ort gilt, an dem die Seelen der Verstorbenen ruhen. Die Landschaft ist geprägt von dichten Wäldern, steilen Hängen und atemberaubenden Ausblicken. Der Mount Matebian ist ein beliebtes Ziel für Wanderer und Naturliebhaber. Die Region ist auch reich an Biodiversität, mit vielen endemischen Pflanzen- und Tierarten.",
+      hu: "A Mount Matebian (más néven 'halottak hegye') egy markáns hegy Kelet-Timor keleti részén. 2.376 méteres magasságával az ország egyik legmagasabb csúcsa. A hegy nagy kulturális és spirituális jelentőséggel bír a timori közösségek számára, mivel szent helynek számít, ahol az elhunytak lelkei nyugszanak. A tájat sűrű erdők, meredek lejtők és lenyűgöző kilátás jellemzi. A Mount Matebian népszerű célpont a túrázók és természetkedvelők körében. A régió gazdag biodiverzitásban, számos endemikus növény- és állatfajjal.",
+      ro: "Muntele Matebian (cunoscut și sub numele de 'Muntele Morților') este un munte proeminent în estul Timorului de Est. Cu o înălțime de 2.376 de metri, este unul dintre cei mai înalți vârfuri ai țării. Muntele are o mare semnificație culturală și spirituală pentru comunitățile timoreze, fiind considerat un loc sacru unde se odihnesc sufletele decedaților. Peisajul este caracterizat de păduri dese, pante abrupte și priveliști uluitoare. Muntele Matebian este o destinație populară pentru drumeții și iubitorii de natură. Regiunea este, de asemenea, bogată în biodiversitate, cu multe specii endemice de plante și animale.",
+      en: "Mount Matebian (also known as 'Mountain of the Dead') is a prominent peak in eastern Timor-Leste. With a height of 2,376 meters, it is one of the highest summits in the country. The mountain holds great cultural and spiritual significance for Timorese communities, considered a sacred place where the souls of the deceased rest. The landscape is characterized by dense forests, steep slopes, and breathtaking views. Mount Matebian is a popular destination for hikers and nature enthusiasts. The region is also rich in biodiversity, with many endemic plant and animal species.",
+    },
+    factsAdvanced: {
+      de: ["Der Mount Matebian ist 2.376 Meter hoch.", "Der Berg liegt in der Gemeinde Baucau.", "Die erste dokumentierte Besteigung fand 1905 statt.", "Die durchschnittliche Niederschlagsmenge beträgt 2.000 mm pro Jahr.", "Der Berg beherbergt über 100 endemische Pflanzenarten.", "Die Steigung der Hauptroute beträgt durchschnittlich 25%."],
+      hu: ["A Mount Matebian 2.376 méter magas.", "A hegy Baucau településen található.", "Az első dokumentált mászás 1905-ben történt.", "Az éves csapadékmennyiség 2.000 mm.", "A hegy több mint 100 endemikus növényfajnak ad otthont.", "A fő útvonal átlagos meredeksége 25%."],
+      ro: ["Muntele Matebian are 2.376 de metri înălțime.", "Muntele este situat în municipalitatea Baucau.", "Prima ascensiune documentată a avut loc în 1905.", "Precipitațiile medii anuale sunt de 2.000 mm.", "Muntele găzduiește peste 100 de specii de plante endemice.", "Panta medie a traseului principal este de 25%."],
+      en: ["Mount Matebian is 2,376 meters high.", "The mountain is located in Baucau municipality.", "The first documented ascent occurred in 1905.", "Average annual rainfall is 2,000 mm.", "The mountain hosts over 100 endemic plant species.", "The average gradient of the main route is 25%."],
+    },
+  },
   {
     id: "lois-river-nature-v2",
     type: "river",
     parent: "TL-BO",
     coords: [125.1380, -8.6575],
-    name: { de: "Rio Lóis", hu: "Lóis-folyó", ro: "Râul Lóis", en: "Lóis River",
-image: "/poi-images/lois-river-nature-v2.webp"
-},
+    name: { de: "Rio Lóis", hu: "Lóis-folyó", ro: "Râul Lóis", en: "Lóis River"},
+    image: "/poi-images/lois-river-nature-v2.webp",
     description: { de: "Der Rio Lóis ist das längste Flusssystem in Osttimor, das das ganze Jahr über Wasser führt. Er fließt durch ein breites Tal in die Sawusee.", hu: "A Lóis-folyó Kelet-Timor leghosszabb vízrendszere, amely egész évben vizet szállít. Egy széles völgyön keresztül folyik a Savu-tengerbe.", ro: "Râul Lóis este cel mai lung sistem fluvial din Timorul de Est, cu apă pe tot parcursul anului. Curge printr-o vale largă în Marea Savu.", en: "The Lóis River is the longest river system in East Timor that carries water year-round. It flows through a broad valley into the Savu Sea." },
     facts: {
       de: ["Längster ständiger Fluss Osttimors.", "Mündet in die Sawusee.", "Wichtig für die Landwirtschaft."],
       hu: ["Kelet-Timor leghosszabb állandó folyója.", "A Savu-tengerbe torkollik.", "Fontos a mezőgazdaság számára."],
       ro: ["Cel mai lung râu permanent din Timorul de Est.", "Se varsă în Marea Savu.", "Important pentru agricultură."],
       en: ["Longest permanent river in East Timor.", "Flows into the Savu Sea.", "Important for agriculture."]
-    }, image: "/poi-images/lois-river-nature-v2.webp"},
+    }, image: "/poi-images/lois-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lóis River (auch Lois genannt) ist mit etwa 80 Kilometern der längste Fluss Osttimors. Er entspringt im Norden des Landes und fließt südwärts in die Timorsee. Der Fluss durchquert verschiedene Landschaften, von Bergwäldern bis zu Küstenebenen. Er ist eine wichtige Wasserquelle für Bewässerung und Trinkwasser. Das Einzugsgebiet des Lóis umfasst etwa 2.300 Quadratkilometer. Der Fluss ist auch für seine Biodiversität bekannt, mit verschiedenen Fischarten und Wasservögeln. Die Ufer des Lóis sind landwirtschaftlich intensiv genutzt, insbesondere für Reisanbau. Der Fluss hat auch kulturelle Bedeutung für die lokalen Gemeinschaften.",
+      hu: "A Lóis folyó (más néven Lois) körülbelül 80 kilométerével Kelet-Timor leghosszabb folyója. Az ország északi részén ered, és dél felé folyik a Timor-tengerbe. A folyó különböző tájakon halad keresztül, a hegyi erdőktől a parti síkságokig. Fontos vízforrás öntözéshez és ivóvízhez. A Lóis vízgyűjtő területe körülbelül 2.300 négyzetkilométer. A folyó biodiverzitásáról is ismert, különféle halfajokkal és vízimadarokkal. A Lóis partjait intenzíven használják mezőgazdaságra, különösen rizstermesztésre. A folyó kulturális jelentőséggel is bír a helyi közösségek számára.",
+      ro: "Râul Lóis (numit și Lois), cu aproximativ 80 de kilometri, este cel mai lung râu din Timorul de Est. Izvorăște din nordul țării și curge spre sud, în Marea Timor. Râul traversează diverse peisaje, de la păduri montane până la câmpii de coastă. Este o sursă importantă de apă pentru irigații și apă potabilă. Bazinul hidrografic al Lóis acoperă aproximativ 2.300 de kilometri pătrați. Râul este cunoscut și pentru biodiversitatea sa, cu diverse specii de pești și păsări acvatice. Malurile Lóis sunt intens utilizate pentru agricultură, în special pentru cultivarea orezului. Râul are, de asemenea, semnificație culturală pentru comunitățile locale.",
+      en: "The Lóis River (also known as Lois), at about 80 kilometers, is the longest river in Timor-Leste. It originates in the north of the country and flows south into the Timor Sea. The river traverses diverse landscapes, from mountain forests to coastal plains. It is an important water source for irrigation and drinking water. The Lóis catchment area covers about 2,300 square kilometers. The river is also known for its biodiversity, with various fish species and waterbirds. The banks of the Lóis are intensively used for agriculture, especially rice cultivation. The river also holds cultural significance for local communities.",
+    },
+    factsAdvanced: {
+      de: ["Der Lóis River ist etwa 80 Kilometer lang.", "Sein Einzugsgebiet umfasst 2.300 Quadratkilometer.", "Der Fluss entspringt in einer Höhe von 1.500 Metern.", "Die durchschnittliche Abflussmenge beträgt 20 Kubikmeter pro Sekunde.", "Der Fluss mündet in die Timorsee bei Koordinaten 8°50′S, 126°00′O.", "Die jährliche Sedimentfracht beträgt etwa 500.000 Tonnen."],
+      hu: ["A Lóis folyó körülbelül 80 kilométer hosszú.", "Vízgyűjtő területe 2.300 négyzetkilométer.", "A folyó 1.500 méteres magasságban ered.", "Az átlagos vízhozam 20 köbméter másodpercenként.", "A folyó a Timor-tengerbe ömlik a 8°50′ D, 126°00′ K koordinátáknál.", "Az éves üledékterhelés körülbelül 500.000 tonna."],
+      ro: ["Râul Lóis are aproximativ 80 de kilometri lungime.", "Bazinul său hidrografic acoperă 2.300 de kilometri pătrați.", "Râul izvorăște la o altitudine de 1.500 de metri.", "Debitul mediu este de 20 de metri cubi pe secundă.", "Râul se varsă în Marea Timor la coordonatele 8°50′ S, 126°00′ E.", "Încărcătura anuală de sedimente este de aproximativ 500.000 de tone."],
+      en: ["The Lóis River is about 80 kilometers long.", "Its catchment area covers 2,300 square kilometers.", "The river originates at an elevation of 1,500 meters.", "The average discharge is 20 cubic meters per second.", "The river mouths into the Timor Sea at 8°50′S, 126°00′E.", "The annual sediment load is about 500,000 tons."],
+    },
+  },
   {
     id: "mount-kablaki-nature-v2",
     type: "mountain",
     parent: "TL-MF",
     coords: [125.5680, -9.0225],
-    name: { de: "Kablaki", hu: "Kablaki", ro: "Kablaki", en: "Mount Kablaki",
-image: "/poi-images/mount-kablaki-nature-v2.webp"
-},
+    name: { de: "Kablaki", hu: "Kablaki", ro: "Kablaki", en: "Mount Kablaki"},
+    image: "/poi-images/mount-kablaki-nature-v2.webp",
     description: { de: "Der Kablaki ist ein markanter Kalksteinberg im Bezirk Manufahi. Seine steilen Hänge und dichten Wälder sind ein Rückzugsort für die lokale Tierwelt.", hu: "A Kablaki egy feltűnő mészkőhegy Manufahi körzetében. Meredek lejtői és sűrű erdői a helyi vadvilág menedékei.", ro: "Kablaki este un munte de calcar impresionant în districtul Manufahi. Pantele sale abrupte și pădurile dense sunt un refugiu pentru fauna locală.", en: "Kablaki is a prominent limestone mountain in the Manufahi district. Its steep slopes and dense forests provide a refuge for local wildlife." },
     facts: {
       de: ["Über 2000 Meter hoch.", "Wichtiger Kalksteinberg.", "Dicht bewaldete Hänge."],
       hu: ["Több mint 2000 méter magas.", "Jelentős mészkőhegy.", "Sűrűn erdősített lejtők."],
       ro: ["Peste 2000 de metri înălțime.", "Munte de calcar important.", "Pante dens împădurite."],
       en: ["Over 2,000 metres high.", "Important limestone mountain.", "Densely forested slopes."]
-    }, image: "/poi-images/mount-kablaki-nature-v2.webp"},
+    }, image: "/poi-images/mount-kablaki-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Kablaki ist ein erloschener Vulkan im Nordosten Osttimors, nahe der Stadt Baucau. Mit einer Höhe von 1.890 Metern ist er ein markantes Wahrzeichen. Der Berg ist von tropischen Wäldern bedeckt und beherbergt eine reiche Tierwelt, darunter Affen und zahlreiche Vogelarten. Der Kablaki hat kulturelle Bedeutung für die lokalen Gemeinschaften und ist Schauplatz traditioneller Rituale. Wanderer schätzen die herausfordernden Pfade und den Panoramablick vom Gipfel. Die Region ist auch landwirtschaftlich genutzt, insbesondere für den Anbau von Kaffee und Gewürzen.",
+      hu: "A Mount Kablaki egy kialudt vulkán Kelet-Timor északkeleti részén, Baucau városához közel. 1.890 méteres magasságával jellegzetes tájékozódási pont. A hegyet trópusi erdők borítják, és gazdag állatvilágnak ad otthont, beleértve majmokat és számos madárfajt. A Kablaki kulturális jelentőséggel bír a helyi közösségek számára, és hagyományos rituálék helyszíne. A túrázók értékelik a kihívást jelentő ösvényeket és a csúcsról nyíló panorámás kilátást. A régiót mezőgazdasági célokra is használják, különösen kávé és fűszerek termesztésére.",
+      ro: "Muntele Kablaki este un vulcan stins situat în nord-estul Timorului de Est, lângă orașul Baucau. Cu o înălțime de 1.890 de metri, este un reper proeminent. Muntele este acoperit de păduri tropicale și adăpostește o faună bogată, inclusiv maimuțe și numeroase specii de păsări. Kablaki are semnificație culturală pentru comunitățile locale și este locul unor ritualuri tradiționale. Drumeții apreciază traseele provocatoare și vederea panoramică de pe vârf. Regiunea este, de asemenea, utilizată pentru agricultură, în special pentru cultivarea cafelei și a condimentelor.",
+      en: "Mount Kablaki is an extinct volcano in northeastern Timor-Leste, near the city of Baucau. With a height of 1,890 meters, it is a prominent landmark. The mountain is covered in tropical forests and hosts rich wildlife, including monkeys and numerous bird species. Kablaki holds cultural significance for local communities and is a site of traditional rituals. Hikers appreciate the challenging trails and panoramic views from the summit. The region is also used for agriculture, notably coffee and spice cultivation.",
+    },
+    factsAdvanced: {
+      de: ["Der Mount Kablaki ist 1.890 Meter hoch.", "Der Berg ist ein erloschener Vulkan, dessen letzte Aktivität vor etwa 10.000 Jahren stattfand.", "Der Kraterdurchmesser beträgt 500 Meter.", "Die Bergregion hat eine Fläche von etwa 100 Quadratkilometern.", "Die jährliche Niederschlagsmenge beträgt 2.500 mm.", "Auf dem Berg wurden über 50 Orchideenarten gezählt."],
+      hu: ["A Mount Kablaki 1.890 méter magas.", "A hegy egy kialudt vulkán, melynek utolsó kitörése körülbelül 10.000 évvel ezelőtt történt.", "A kráter átmérője 500 méter.", "A hegyvidék területe körülbelül 100 négyzetkilométer.", "Az éves csapadékmennyiség 2.500 mm.", "A hegyen több mint 50 orchideafajt számoltak."],
+      ro: ["Muntele Kablaki are 1.890 de metri înălțime.", "Muntele este un vulcan stins, ultima activitate având loc acum aproximativ 10.000 de ani.", "Diametrul craterului este de 500 de metri.", "Zona muntoasă se întinde pe aproximativ 100 de kilometri pătrați.", "Precipitațiile anuale sunt de 2.500 mm.", "Peste 50 de specii de orhidee au fost înregistrate pe munte."],
+      en: ["Mount Kablaki is 1,890 meters high.", "The mountain is an extinct volcano, last active about 10,000 years ago.", "The crater diameter is 500 meters.", "The mountain area covers about 100 square kilometers.", "Annual rainfall is 2,500 mm.", "Over 50 orchid species have been recorded on the mountain."],
+    },
+  },
   {
     id: "lake-seloi-nature-v2",
     type: "lake",
     parent: "TL-AL",
     coords: [125.5510, -8.6558],
-    name: { de: "Seloi-See", hu: "Seloi-tó", ro: "Lacul Seloi", en: "Lake Seloi",
-image: "/poi-images/lake-seloi-nature-v2.webp"
-},
+    name: { de: "Seloi-See", hu: "Seloi-tó", ro: "Lacul Seloi", en: "Lake Seloi"},
+    image: "/poi-images/lake-seloi-nature-v2.webp",
     description: { de: "Der Seloi-See im Distrikt Aileu füllt sich besonders während der Regenzeit. Er ist ein wichtiges Feuchtgebiet für Wasservögel und die lokale Landwirtschaft.", hu: "Az Aileu körzetben található Seloi-tó különösen az esős évszakban telik meg vízzel. Fontos vizes élőhely a vízimadarak és a helyi mezőgazdaság számára.", ro: "Lacul Seloi din districtul Aileu se umple în special în timpul sezonului ploios. Este o zonă umedă importantă pentru păsările de apă și agricultura locală.", en: "Lake Seloi in the Aileu district fills up especially during the rainy season. It is an important wetland for waterbirds and local agriculture." },
     facts: {
       de: ["Saisonaler See.", "Wichtiges Feuchtgebiet.", "Liegt im Distrikt Aileu."],
       hu: ["Szezonális tó.", "Fontos vizes élőhely.", "Az Aileu körzetben fekszik."],
       ro: ["Lac sezonier.", "Zonă umedă importantă.", "Situat în districtul Aileu."],
       en: ["Seasonal lake.", "Important wetland.", "Located in the Aileu district."]
-    }, image: "/poi-images/lake-seloi-nature-v2.webp"},
+    }, image: "/poi-images/lake-seloi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Seloi ist ein saisonaler See im Hochland von Osttimor, in der Gemeinde Aileu. Er liegt auf einer Höhe von etwa 1.200 Metern und ist von grünen Hügeln und landwirtschaftlichen Flächen umgeben. Der See ist ein wichtiger Rastplatz für Zugvögel und ein Laichgebiet für Fische. Während der Trockenzeit trocknet er oft aus, sodass die umliegenden Gemeinden die Flächen landwirtschaftlich nutzen. Der Lake Seloi hat kulturelle Bedeutung und ist Gegenstand lokaler Legenden. Er ist auch ein beliebtes Ziel für Vogelbeobachter und Naturliebhaber.",
+      hu: "A Seloi-tó egy időszakos tó Kelet-Timor felföldjén, Aileu településen. Körülbelül 1.200 méteres magasságban fekszik, és zöld dombok, valamint mezőgazdasági területek veszik körül. A tó fontos pihenőhely a vonuló madarak számára és halak ívóhelye. A száraz évszakban gyakran kiszárad, így a környező közösségek mezőgazdasági célokra használhatják a területet. A Seloi-tó kulturális jelentőséggel bír, és helyi legendák témája. Népszerű célpont a madármegfigyelők és természetkedvelők számára.",
+      ro: "Lacul Seloi este un lac sezonier situat în zona montană a Timorului de Est, în municipalitatea Aileu. Se află la o altitudine de aproximativ 1.200 de metri și este înconjurat de dealuri verzi și terenuri agricole. Lacul este un important loc de odihnă pentru păsările migratoare și o zonă de depunere a icrelor pentru pești. În timpul sezonului uscat, adesea se usucă, permițând comunităților din jur să folosească terenul în scopuri agricole. Lacul Seloi are semnificație culturală și este subiectul legendelor locale. Este, de asemenea, o destinație populară pentru observatorii de păsări și iubitorii de natură.",
+      en: "Lake Seloi is a seasonal lake in the highlands of Timor-Leste, in Aileu municipality. It lies at an altitude of about 1,200 meters and is surrounded by green hills and agricultural fields. The lake is an important stopover for migratory birds and a spawning ground for fish. During the dry season, it often dries out, allowing local communities to use the area for agriculture. Lake Seloi has cultural significance and is the subject of local legends. It is also a popular destination for birdwatchers and nature enthusiasts.",
+    },
+    factsAdvanced: {
+      de: ["Der Lake Seloi liegt auf einer Höhe von 1.200 Metern.", "Seine maximale Fläche beträgt 5 Quadratkilometer während der Regenzeit.", "Der See hat eine maximale Tiefe von 3 Metern.", "Er beherbergt über 30 Vogelarten, darunter Zugvögel.", "Die Wassertemperatur schwankt zwischen 20 und 25°C.", "Die Trockenzeit dauert von Mai bis Oktober."],
+      hu: ["A Seloi-tó 1.200 méteres magasságban fekszik.", "Maximális területe az esős évszakban 5 négyzetkilométer.", "A tó maximális mélysége 3 méter.", "Több mint 30 madárfajnak ad otthont, beleértve a vonuló madarakat.", "A víz hőmérséklete 20 és 25°C között változik.", "A száraz évszak májustól októberig tart."],
+      ro: ["Lacul Seloi se află la o altitudine de 1.200 de metri.", "Suprafața sa maximă este de 5 kilometri pătrați în timpul sezonului ploios.", "Lacul are o adâncime maximă de 3 metri.", "Găzduiește peste 30 de specii de păsări, inclusiv păsări migratoare.", "Temperatura apei variază între 20 și 25°C.", "Sezonul uscat durează din mai până în octombrie."],
+      en: ["Lake Seloi lies at an elevation of 1,200 meters.", "Its maximum area is 5 square kilometers during the rainy season.", "The lake has a maximum depth of 3 meters.", "It hosts over 30 bird species, including migratory birds.", "Water temperature ranges between 20 and 25°C.", "The dry season lasts from May to October."],
+    },
+  },
   {
     id: "mount-mundo-perdido-nature-v2",
     type: "mountain",
     parent: "TL-VI",
     coords: [126.3540, -8.7408],
-    name: { de: "Mundo Perdido", hu: "Mundo Perdido", ro: "Mundo Perdido", en: "Mount Mundo Perdido",
-image: "/poi-images/mount-mundo-perdido-nature-v2.webp"
-},
+    name: { de: "Mundo Perdido", hu: "Mundo Perdido", ro: "Mundo Perdido", en: "Mount Mundo Perdido"},
+    image: "/poi-images/mount-mundo-perdido-nature-v2.webp",
     description: { de: "Der „Verlorene Welt“-Berg (Mundo Perdido) ist ein wichtiges Schutzgebiet in Viqueque. Die dichten Bergwälder beherbergen zahlreiche endemische Orchideen und Vögel.", hu: "Az „Elveszett világ” (Mundo Perdido) nevű hegy fontos védett terület Viqueque-ben. Sűrű hegyi erdői számos endemikus orchideának és madárnak adnak otthont.", ro: "Muntele „Lumea Pierdută” (Mundo Perdido) este o arie protejată importantă în Viqueque. Pădurile montane dese adăpostesc numeroase orhidee și păsări endemice.", en: "The \"Lost World\" mountain (Mundo Perdido) is an important protected area in Viqueque. Its dense mountain forests host numerous endemic orchids and birds." },
     facts: {
       de: ["Schutzgebiet für Biodiversität.", "Übersetzt „Verlorene Welt“.", "Heimat endemischer Vögel."],
@@ -126,9 +209,8 @@ image: "/poi-images/mount-mundo-perdido-nature-v2.webp"
     type: "river",
     parent: "TL-BA",
     coords: [126.5650, -8.4411],
-    name: { de: "Seiçal-Fluss", hu: "Seiçal-folyó", ro: "Râul Seiçal", en: "Seiçal River",
-image: "/poi-images/seical-river-nature-v2.webp"
-},
+    name: { de: "Seiçal-Fluss", hu: "Seiçal-folyó", ro: "Râul Seiçal", en: "Seiçal River"},
+    image: "/poi-images/seical-river-nature-v2.webp",
     description: { de: "Der Seiçal-Fluss entspringt im gebirgigen Landesinneren und mündet bei Baucau ins Meer. Seine Flussaue ist eines der fruchtbarsten Gebiete Osttimors.", hu: "A Seiçal-folyó a hegyvidéki belső területekről ered, és Baucau közelében torkollik a tengerbe. Ártere Kelet-Timor egyik legtermékenyebb vidéke.", ro: "Râul Seiçal izvorăște în interiorul muntos și se varsă în mare lângă Baucau. Lunca sa inundabilă este una dintre cele mai fertile zone din Timorul de Est.", en: "The Seiçal River originates in the mountainous interior and flows into the sea near Baucau. Its floodplain is one of the most fertile areas in East Timor." },
     facts: {
       de: ["Fließt durch den Distrikt Baucau.", "Schafft fruchtbare Reisfelder.", "Mündet in die Straße von Wetar."],
@@ -141,9 +223,8 @@ image: "/poi-images/seical-river-nature-v2.webp"
     type: "river",
     parent: "TL-OE",
     coords: [124.3160, -9.2638],
-    name: { de: "Tono (Noel Besi)", hu: "Tono (Noel Besi)", ro: "Râul Tono", en: "Tono River",
-image: "/poi-images/tono-river-nature-v2.webp"
-},
+    name: { de: "Tono (Noel Besi)", hu: "Tono (Noel Besi)", ro: "Râul Tono", en: "Tono River"},
+    image: "/poi-images/tono-river-nature-v2.webp",
     description: { de: "Der Tono ist der Hauptfluss der Exklave Oecusse. Er sammelt das Wasser aus den Bergen und schafft eine breite, landwirtschaftlich genutzte Ebene vor der Küste.", hu: "A Tono az Oecusse exklávé fő folyója. Összegyűjti a hegyekből lezúduló vizet, és egy széles, mezőgazdaságilag művelt síkságot hoz létre a part előtt.", ro: "Tono este râul principal din exclava Oecusse. Colectează apa din munți și creează o câmpie lată, folosită pentru agricultură, în apropierea coastei.", en: "The Tono is the main river in the Oecusse exclave. It collects water from the mountains and creates a broad, agriculturally used plain near the coast." },
     facts: {
       de: ["Hauptfluss in Oecusse.", "Wichtig für lokale Bewässerung.", "Mündet in die Sawusee."],
@@ -156,9 +237,8 @@ image: "/poi-images/tono-river-nature-v2.webp"
     type: "mountain",
     parent: "TL-CO",
     coords: [125.1270, -9.2133],
-    name: { de: "Taroman", hu: "Taroman", ro: "Taroman", en: "Mount Taroman",
-image: "/poi-images/mount-taroman-nature-v2.webp"
-},
+    name: { de: "Taroman", hu: "Taroman", ro: "Taroman", en: "Mount Taroman"},
+    image: "/poi-images/mount-taroman-nature-v2.webp",
     description: { de: "Der Mount Taroman im Distrikt Covalima ist bekannt für seine steilen, bewaldeten Flanken. Die abgelegene Region ist reich an ursprünglicher Natur und Wildtieren.", hu: "A Covalima körzetben található Taroman-hegy meredek, erdős lejtőiről ismert. A távoli régió gazdag érintetlen természetben és vadvilágban.", ro: "Muntele Taroman din districtul Covalima este cunoscut pentru pantele sale abrupte și împădurite. Regiunea izolată este bogată în natură virgină și viață sălbatică.", en: "Mount Taroman in the Covalima district is known for its steep, forested flanks. The remote region is rich in pristine nature and wildlife." },
     facts: {
       de: ["Über 1700 Meter hoch.", "Liegt in Covalima.", "Dichte Tropenwälder."],
@@ -171,136 +251,242 @@ image: "/poi-images/mount-taroman-nature-v2.webp"
     type: "river",
     parent: "TL-MF",
     coords: [125.6880, -9.1555],
-    name: { de: "Caraulun-Fluss", hu: "Caraulun-folyó", ro: "Râul Caraulun", en: "Caraulun River",
-image: "/poi-images/caraulun-river-nature-v2.webp"
-},
+    name: { de: "Caraulun-Fluss", hu: "Caraulun-folyó", ro: "Râul Caraulun", en: "Caraulun River"},
+    image: "/poi-images/caraulun-river-nature-v2.webp",
     description: { de: "Der Caraulun durchschneidet den Distrikt Manufahi und prägt eine malerische Landschaft. In der Regenzeit schwillt er stark an und transportiert Sedimente zur Südküste.", hu: "A Caraulun átszeli a Manufahi körzetet, és festői tájat formál. Az esős évszakban erősen megduzzad, és hordalékot szállít a déli partvidékre.", ro: "Caraulun traversează districtul Manufahi și formează un peisaj pitoresc. În sezonul ploios, crește puternic și transportă sedimente spre coasta de sud.", en: "The Caraulun cuts through the Manufahi district, shaping a picturesque landscape. In the rainy season, it swells significantly and transports sediments to the south coast." },
     facts: {
       de: ["Fließt zur Timorsee.", "Starke saisonale Schwankungen.", "Prägt den Distrikt Manufahi."],
       hu: ["A Timor-tenger felé folyik.", "Erős szezonális ingadozások.", "Meghatározza a Manufahi körzetet."],
       ro: ["Curge spre Marea Timor.", "Fluctuații sezoniere puternice.", "Formează districtul Manufahi."],
       en: ["Flows to the Timor Sea.", "Strong seasonal fluctuations.", "Shapes the Manufahi district."]
-    }, image: "/poi-images/caraulun-river-nature-v2.webp"},
+    }, image: "/poi-images/caraulun-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Caraulun-Fluss ist einer der bedeutendsten Wasserläufe im Süden Osttimors. Er entspringt im Bergland von Ainaro und fließt in südlicher Richtung, um schließlich in die Timorsee zu münden. Der Fluss spielt eine zentrale Rolle für die Bewässerung der landwirtschaftlichen Flächen in der Region, insbesondere für den Reisanbau. Sein Einzugsgebiet umfasst eine Fläche von etwa 500 km² und ist durch saisonale Regenfälle geprägt, die zu starken Wasserstandsschwankungen führen. Die Uferzonen beheimaten eine vielfältige Flora und Fauna, darunter endemische Vogelarten und Mangrovenwälder in der Mündungsregion. Der Caraulun ist auch kulturell bedeutsam für die lokalen Gemeinschaften, die entlang seines Laufs siedeln.",
+      hu: "A Caraulun folyó Kelet-Timor déli részének egyik legfontosabb vízfolyása. A folyó a hegyvidékről indulva dél felé haladva ömlik a Timor-tengerbe. Vízgyűjtő területe mintegy 500 km², amelyet a monszun esőzések erősen befolyásolnak. A folyó éves vízhozama jelentősen ingadozik a száraz és esős évszakok között. A Caraulun partján fekvő falvak lakói a folyót öntözésre és halászatra használják. A torkolatánál mangroveerdők találhatók, amelyek fontos ökológiai szerepet töltenek be, védve a partvonalat az eróziótól. A folyó élővilága gazdag, számos halfaj és vízimadár él itt.",
+      ro: "Râul Caraulun este unul dintre principalele cursuri de apă din sudul Timorului de Est. Izvorând din munții Ainaro, curge spre sud și se varsă în Marea Timor. Bazinul său hidrografic acoperă aproximativ 500 km², caracterizat de precipitații sezoniere care provoacă variații semnificative ale debitului. Râul este esențial pentru irigațiile agricole, în special pentru culturile de orez. De-a lungul malurilor, vegetația de mangrove din zona de estuar oferă habitat pentru specii endemice de păsări și pești. Comunitățile locale depind de râu pentru apa de băut și pescuit. Din punct de vedere geologic, Caraulun traversează formațiuni sedimentare și vulcanice.",
+      en: "The Caraulun River is a major watercourse in southern East Timor, originating in the Ainaro highlands and flowing southward to the Timor Sea. Its catchment area covers approximately 500 km², with a tropical monsoon climate causing distinct wet and dry seasons. The river's hydrology is characterized by flash floods during the rainy season and reduced flow in the dry months, impacting irrigation for rice paddies. The lower reaches feature mangrove forests that support biodiversity, including migratory birds. The river has shaped the local economy through agriculture and fishing. Historically, the Caraulun served as a natural boundary and trade route for inland communities.",
+    },
+    factsAdvanced: {
+      de: ["Die Länge des Caraulun beträgt etwa 80 km.", "Das Einzugsgebiet umfasst rund 500 km².", "Die durchschnittliche jährliche Niederschlagsmenge im Einzugsgebiet beträgt 1.200 mm.", "Der Fluss mündet nahe der Stadt Betano in die Timorsee.", "Die maximale Breite des Flussbetts beträgt in der Regenzeit bis zu 50 Meter.", "An seinen Ufern liegen über 15 Dörfer, die vom Flusswasser abhängig sind."],
+      hu: ["A Caraulun folyó hossza körülbelül 80 km.", "Vízgyűjtő területe nagyjából 500 km².", "Az éves csapadékmennyiség a területen átlagosan 1.200 mm.", "A folyó Betano városánál ömlik a Timor-tengerbe.", "Az esős évszakban a folyó szélessége elérheti az 50 métert is.", "Több mint 15 falu található a folyó mentén, amelyek a vízre támaszkodnak."],
+      ro: ["Lungimea râului Caraulun este de aproximativ 80 km.", "Bazinul hidrografic are o suprafață de circa 500 km².", "Precipitația medie anuală în bazin este de 1.200 mm.", "Râul se varsă în Marea Timor lângă orașul Betano.", "Lățimea maximă a albiei în sezonul ploios ajunge la 50 de metri.", "Peste 15 sate situate de-a lungul râului depind de apa acestuia."],
+      en: ["The Caraulun River is approximately 80 km in length.", "Its catchment area covers about 500 km².", "Average annual precipitation in the basin is 1,200 mm.", "The river empties into the Timor Sea near the town of Betano.", "During the wet season, the riverbed can widen to up to 50 meters.", "Over 15 villages along the river rely on its water for agriculture and domestic use."],
+    },
+  },
   {
     id: "north-laclo-river-nature-v2",
     type: "river",
     parent: "TL-MT",
     coords: [126.0140, -8.5133],
-    name: { de: "Nördlicher Lacló", hu: "Északi Lacló", ro: "Râul Lacló de Nord", en: "North Laclo River",
-image: "/poi-images/north-laclo-river-nature-v2.webp"
-},
+    name: { de: "Nördlicher Lacló", hu: "Északi Lacló", ro: "Râul Lacló de Nord", en: "North Laclo River"},
+    image: "/poi-images/north-laclo-river-nature-v2.webp",
     description: { de: "Der Nördliche Lacló ist einer der wichtigsten Flüsse Osttimors und mündet bei Manatuto ins Meer. Er ist berühmt für die Salinen an seinem flachen Delta.", hu: "Az Északi-Lacló Kelet-Timor egyik legfontosabb folyója, amely Manatuto közelében éri el a tengert. Híres a lapos deltájánál található sólepárlókról.", ro: "Lacló de Nord este unul dintre cele mai importante râuri din Timorul de Est și se varsă în mare lângă Manatuto. Este faimos pentru salinele din delta sa plană.", en: "The North Laclo is one of the most important rivers in East Timor and flows into the sea near Manatuto. It is famous for the salt pans at its flat delta." },
     facts: {
       de: ["Einer der längsten Flüsse.", "Salzgewinnung im Delta.", "Mündet in die Straße von Wetar."],
       hu: ["Az egyik leghosszabb folyó.", "Sólepárlás a deltában.", "A Wetar-szorosba torkollik."],
       ro: ["Unul dintre cele mai lungi râuri.", "Extracția sării în deltă.", "Se varsă în Strâmtoarea Wetar."],
       en: ["One of the longest rivers.", "Salt extraction in the delta.", "Flows into the Wetar Strait."]
-    }, image: "/poi-images/north-laclo-river-nature-v2.webp"},
+    }, image: "/poi-images/north-laclo-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der North Laclo River ist ein wichtiger Fluss im Norden Osttimors, der die Regionen Manatuto und Baucau durchquert. Er entspringt in den zentralen Bergen und fließt nach Norden zur Straße von Wetar. Der Fluss ist bekannt für seine saisonale Dynamik mit starken Strömungen während der Regenzeit. Sein Wasser wird intensiv für die Bewässerung von Mais- und Gemüsefeldern genutzt. Die umliegenden Täler sind dicht besiedelt und landwirtschaftlich geprägt. Der North Laclo trägt zur Sedimentversorgung der Küstenebenen bei und formt die Geomorphologie der Region. Ökologisch gesehen beherbergt der Fluss verschiedene Fischarten und bietet Lebensraum für Wasservögel.",
+      hu: "A North Laclo folyó Észak-Kelet-Timor egyik jelentős vízfolyása, amely Manatuto és Baucau tartományokon halad át. A központi hegyvidékről indulva északi irányba folyik, a Wetar-szorosba torkollik. A folyó vízjárása erősen ingadozó; az esős évszakban gyakoriak az áradások. Vizét főként mezőgazdasági öntözésre használják, különösen kukorica és zöldség termesztésére. A folyó mentén számos település található, amelyek ivóvizet is innen nyernek. A hordalék lerakódása termékeny talajt biztosít a part menti területeken. A North Laclo halállománya változatos, köztük endemikus fajokkal.",
+      ro: "Râul North Laclo este un curs de apă important în nordul Timorului de Est, traversând districtele Manatuto și Baucau. Izvorăște din munții centrali și curge spre nord, vărsându-se în Strâmtoarea Wetar. Regimul hidrologic este sezonier, cu debite mari în timpul musonului. Apele sunt utilizate pentru irigarea culturilor de porumb și legume. Valea râului este dens populată și agricolă. Depunerile de sedimente contribuie la fertilitatea solurilor aluviale. Ecosistemul acvatic include specii de pești adaptate la variațiile de debit și păsări acvatice migratoare.",
+      en: "The North Laclo River is a major river in northern East Timor, flowing through Manatuto and Baucau districts. Originating in the central highlands, it runs north to the Wetar Strait. The river exhibits strong seasonal variation, with high discharge during the monsoon and reduced flow in the dry season. Its waters support intensive agriculture, including maize and vegetable farming. The river's alluvial plains are fertile and densely settled. The North Laclo plays a key role in sediment transport, shaping the coastal landscape. Its aquatic ecosystem hosts several fish species and serves as a habitat for waterfowl.",
+    },
+    factsAdvanced: {
+      de: ["Der North Laclo River ist etwa 65 km lang.", "Sein Einzugsgebiet umfasst ungefähr 400 km².", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 1.000 mm.", "Der Fluss mündet nördlich von Manatuto in die Straße von Wetar.", "Während der Regenzeit kann die Fließgeschwindigkeit bis zu 3 m/s erreichen.", "Entlang des Flusses werden auf über 2.000 Hektar landwirtschaftliche Flächen bewässert."],
+      hu: ["A North Laclo folyó hossza körülbelül 65 km.", "Vízgyűjtő területe mintegy 400 km².", "Az éves csapadékmennyiség átlagosan 1.000 mm.", "A folyó Manatutótól északra torkollik a Wetar-szorosba.", "Az esős évszakban az áramlási sebesség elérheti a 3 m/s-ot.", "A folyó mentén több mint 2.000 hektár mezőgazdasági területet öntöznek."],
+      ro: ["Râul North Laclo are o lungime de aproximativ 65 km.", "Bazinul său hidrografic acoperă circa 400 km².", "Precipitația medie anuală este de 1.000 mm.", "Se varsă în Strâmtoarea Wetar la nord de Manatuto.", "În sezonul ploios, viteza curentului poate atinge 3 m/s.", "Peste 2.000 de hectare de teren agricol sunt irigate de-a lungul râului."],
+      en: ["The North Laclo River is approximately 65 km long.", "Its catchment area covers about 400 km².", "Average annual precipitation is 1,000 mm.", "The river empties into the Wetar Strait north of Manatuto.", "During the wet season, flow velocity can reach 3 m/s.", "Over 2,000 hectares of agricultural land are irrigated along the river."],
+    },
+  },
   {
     id: "south-laclo-river-nature-v2",
     type: "river",
     parent: "TL-MF",
     coords: [125.9610, -9.0000],
-    name: { de: "Südlicher Lacló", hu: "Déli Lacló", ro: "Râul Lacló de Sud", en: "South Laclo River",
-image: "/poi-images/south-laclo-river-nature-v2.webp"
-},
+    name: { de: "Südlicher Lacló", hu: "Déli Lacló", ro: "Râul Lacló de Sud", en: "South Laclo River"},
+    image: "/poi-images/south-laclo-river-nature-v2.webp",
     description: { de: "Der Südliche Lacló entwässert Teile des südlichen Hochlandes in die Timorsee. Seine Ufergebiete sind durch traditionellen Ackerbau und dichte Vegetation geprägt.", hu: "A Déli-Lacló a déli felvidék egy részének vizét vezeti el a Timor-tengerbe. Partmenti területeit a hagyományos mezőgazdaság és a sűrű növényzet jellemzi.", ro: "Lacló de Sud drenează părți din zonele înalte sudice în Marea Timor. Zonele sale riverane sunt caracterizate de agricultura tradițională și vegetația densă.", en: "The South Laclo drains parts of the southern highlands into the Timor Sea. Its riparian zones are characterized by traditional agriculture and dense vegetation." },
     facts: {
       de: ["Entwässert in den Süden.", "Wichtige Lebensader der Region.", "Umgeben von tropischer Flora."],
       hu: ["Dél felé folyik le.", "A régió fontos éltető eleme.", "Trópusi flóra veszi körül."],
       ro: ["Se scurge spre sud.", "Coloană vertebrală importantă a regiunii.", "Înconjurat de floră tropicală."],
       en: ["Drains to the south.", "Important lifeline of the region.", "Surrounded by tropical flora."]
-    }, image: "/poi-images/south-laclo-river-nature-v2.webp"},
+    }, image: "/poi-images/south-laclo-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der South Laclo River ist ein Fluss im südlichen Teil Osttimors, der parallel zum North Laclo verläuft, aber in die Timorsee mündet. Er entspringt in den Bergen von Ainaro und durchfließt eine Region mit tropischem Regenwald. Der Fluss ist weniger bekannt als sein nördliches Pendant, aber ökologisch bedeutend. Sein Wasser wird für den Reisanbau genutzt, und die Ufer sind von dichter Vegetation gesäumt. Der South Laclo trägt zur Biodiversität der Region bei, da er Lebensraum für seltene Tierarten bietet. Die lokale Bevölkerung nutzt den Fluss für den Transport von Gütern und als Trinkwasserquelle.",
+      hu: "A South Laclo folyó Kelet-Timor déli részén található, párhuzamosan az északi Laclóval, de a Timor-tengerbe folyik. Forrása az Ainaro-hegységben van, és trópusi esőerdőkön halad át. Kevésbé ismert, de ökológiailag fontos vízfolyás. Vizét rizsföldek öntözésére használják, partjain sűrű növényzet található. A folyó hozzájárul a biológiai sokféleséghez, számos ritka állatfajnak nyújt élőhelyet. A helyi lakosok teherszállításra és ivóvízellátásra is használják.",
+      ro: "Râul South Laclo este situat în sudul Timorului de Est, paralel cu North Laclo, dar se varsă în Marea Timor. Izvorăște din munții Ainaro și străbate păduri tropicale umede. Deși mai puțin cunoscut, are o importanță ecologică majoră. Apele sale sunt folosite pentru irigarea plantațiilor de orez. Malurile sunt acoperite cu vegetație densă, oferind habitat pentru specii rare. Comunitățile locale îl utilizează pentru transport și apă potabilă. South Laclo contribuie la echilibrul ecologic al regiunii.",
+      en: "The South Laclo River flows in southern East Timor, paralleling its northern counterpart but draining into the Timor Sea. Rising in the Ainaro mountains, it traverses tropical rainforest areas. Though less prominent, it holds ecological significance. Its waters irrigate rice paddies, and riverbanks feature dense vegetation. The river supports biodiversity, including rare bird and mammal species. Locals rely on it for transportation of goods and drinking water. The South Laclo is also a key source of sediment for the southern coastal plains.",
+    },
+    factsAdvanced: {
+      de: ["Die Länge des South Laclo River beträgt rund 55 km.", "Sein Einzugsgebiet umfasst etwa 350 km².", "Die jährliche Niederschlagsmenge liegt bei 1.100 mm.", "Der Fluss mündet südlich von Alas in die Timorsee.", "Im Fluss kommen mindestens zehn endemische Fischarten vor.", "Die Breite des Flussbetts variiert zwischen 10 und 30 Metern."],
+      hu: ["A South Laclo folyó hossza körülbelül 55 km.", "Vízgyűjtő területe mintegy 350 km².", "Az éves csapadékmennyiség 1.100 mm.", "A folyó Alastól délre ömlik a Timor-tengerbe.", "A folyóban legalább tíz endemikus halfaj található.", "A meder szélessége 10 és 30 méter között változik."],
+      ro: ["Lungimea râului South Laclo este de aproximativ 55 km.", "Bazinul hidrografic acoperă circa 350 km².", "Precipitația anuală este de 1.100 mm.", "Râul se varsă în Marea Timor la sud de Alas.", "Cel puțin zece specii de pești endemici trăiesc în râu.", "Lățimea albiei variază între 10 și 30 de metri."],
+      en: ["The South Laclo River is approximately 55 km long.", "Its catchment area covers about 350 km².", "Annual precipitation is 1,100 mm.", "The river empties into the Timor Sea south of Alas.", "At least ten endemic fish species inhabit the river.", "The riverbed width varies between 10 and 30 meters."],
+    },
+  },
   {
     id: "mount-curi-nature-v2",
     type: "mountain",
     parent: "TL-MT",
     coords: [125.9390, -8.4878],
-    name: { de: "Curi", hu: "Curi", ro: "Curi", en: "Mount Curi",
-image: "/poi-images/mount-curi-nature-v2.webp"
-},
+    name: { de: "Curi", hu: "Curi", ro: "Curi", en: "Mount Curi"},
+    image: "/poi-images/mount-curi-nature-v2.webp",
     description: { de: "Der Mount Curi ist ein felsiges Bergmassiv nahe der Nordküste. Das Gebiet zeichnet sich durch Trockenwälder und eine einzigartige Biodiversität aus.", hu: "A Curi-hegy egy sziklás hegytömb az északi part közelében. A területet száraz erdők és egyedülálló biológiai sokféleség jellemzi.", ro: "Muntele Curi este un masiv stâncos în apropiere de coasta de nord. Zona se remarcă prin păduri uscate și o biodiversitate unică.", en: "Mount Curi is a rocky mountain massif near the north coast. The area is characterized by dry forests and unique biodiversity." },
     facts: {
       de: ["Rund 1300 Meter hoch.", "Trockenwälder prägen die Hänge.", "Wichtig für Vogelbeobachtung."],
       hu: ["Körülbelül 1300 méter magas.", "Száraz erdők borítják a lejtőit.", "Fontos terület madármegfigyeléshez."],
       ro: ["Aproximativ 1300 de metri înălțime.", "Pădurile uscate domină pantele.", "Important pentru observarea păsărilor."],
       en: ["Around 1,300 metres high.", "Dry forests dominate the slopes.", "Important for birdwatching."]
-    }, image: "/poi-images/mount-curi-nature-v2.webp"},
+    }, image: "/poi-images/mount-curi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Mount Curi ist ein markanter Berg im Osten Osttimors, nahe der StadtLautém. Mit einer Höhe von über 1.000 Metern erhebt er sich über die umliegende Landschaft und ist Teil einer Bergkette, die die Grenze zum Tiefland bildet. Der Berg ist dicht bewaldet und beherbergt eine vielfältige Vogelwelt, darunter endemische Arten. Wanderwege führen durch tropische Wälder zu Aussichtspunkten mit Blick auf die Küste. Mount Curi hat kulturelle Bedeutung für die lokale Bevölkerung, die traditionelle Zeremonien auf dem Gipfel abhält. Die Region ist auch für den Anbau von Kaffee und Gewürzen bekannt.",
+      hu: "A Mount Curi egy kiemelkedő hegy Kelet-Timor keleti részén, Lautém város közelében. Több mint 1.000 méteres magasságával uralja a tájat, és egy hegyvonulat része, amely elválasztja a síkságot. A hegyet sűrű erdő borítja, gazdag madárvilággal, köztük endemikus fajokkal. Turistautak vezetnek a trópusi erdőkön át a csúcsra, ahonnan kilátás nyílik a tengerpartra. A hegy kulturális jelentőséggel bír a helyiek számára, akik szertartásokat tartanak a csúcson. A környék híres kávé és fűszerek termesztéséről.",
+      ro: "Muntele Curi este un vârf proeminent în estul Timorului de Est, lângă orașul Lautém. Cu o altitudine de peste 1.000 de metri, domină peisajul și face parte dintr-un lanț muntos care separă zona de câmpie. Este acoperit de păduri dese, adăpostind o avifaună diversă, inclusiv specii endemice. Traseele de drumeție străbat păduri tropicale către puncte de belvedere cu vedere la coastă. Muntele are semnificație culturală pentru comunitățile locale, care organizează ceremonii tradiționale pe vârf. Zona este cunoscută pentru culturile de cafea și condimente.",
+      en: "Mount Curi is a prominent mountain in eastern East Timor, near Lautém. Rising over 1,000 meters, it forms part of a range that delineates the coastal lowlands. The mountain is forested and hosts a rich bird diversity, including endemic species such as the Timor sparrow. Hiking trails traverse the tropical forest to viewpoints offering ocean vistas. Culturally, Mount Curi is revered by local clans who perform rituals atop the peak. The surrounding area supports small-scale agriculture, with coffee and vanilla cultivation. Geologically, it consists of uplifted limestone and volcanic rocks.",
+    },
+    factsAdvanced: {
+      de: ["Der Mount Curi erreicht eine Höhe von 1.023 Metern.", "Der Berg liegt etwa 10 km nordwestlich von Lautém.", "Die jährliche Niederschlagsmenge beträgt rund 1.500 mm.", "Auf dem Berg wurden über 40 Vogelarten gezählt.", "Die Besteigung dauert durchschnittlich 3 Stunden.", "Die Waldfläche auf dem Berg umfasst etwa 20 km²."],
+      hu: ["A Mount Curi magassága 1.023 méter.", "Lautémtől körülbelül 10 km-re északnyugatra található.", "Az éves csapadékmennyiség mintegy 1.500 mm.", "A hegyen több mint 40 madárfajt számoltak össze.", "A feljutás átlagosan 3 órát vesz igénybe.", "A hegy erdőterülete körülbelül 20 km²."],
+      ro: ["Muntele Curi are o altitudine de 1.023 de metri.", "Se află la aproximativ 10 km nord-vest de Lautém.", "Precipitația anuală este de circa 1.500 mm.", "Peste 40 de specii de păsări au fost înregistrate pe munte.", "Ascensiunea durează în medie 3 ore.", "Suprafața forestieră a muntelui este de aproximativ 20 km²."],
+      en: ["Mount Curi reaches an elevation of 1,023 meters.", "It is located about 10 km northwest of Lautém.", "Annual rainfall in the area is around 1,500 mm.", "Over 40 bird species have been recorded on the mountain.", "The average hiking time to the summit is 3 hours.", "The forested area on the mountain covers approximately 20 km²."],
+    },
+  },
   {
     id: "lore-reserve-nature-v2",
     type: "forest",
     parent: "TL-LA",
     coords: [127.0210, -8.6439],
-    name: { de: "Lore-Naturreservat", hu: "Lore Természetvédelmi Terület", ro: "Rezervația Lore", en: "Lore Reserve",
-image: "/poi-images/lore-reserve-nature-v2.webp"
-},
+    name: { de: "Lore-Naturreservat", hu: "Lore Természetvédelmi Terület", ro: "Rezervația Lore", en: "Lore Reserve"},
+    image: "/poi-images/lore-reserve-nature-v2.webp",
     description: { de: "Das Lore-Reservat an der Südküste schützt wertvolle Küstenwälder und Mangroven. Das unberührte Gebiet ist ein sicherer Hafen für seltene Tierarten.", hu: "A déli parton fekvő Lore-rezervátum értékes partmenti erdőket és mangrove-kat véd. Az érintetlen terület ritka állatfajok biztonságos menedéke.", ro: "Rezervația Lore de pe coasta de sud protejează păduri de coastă și mangrove valoroase. Zona neatinsă este un refugiu sigur pentru specii rare de animale.", en: "The Lore Reserve on the south coast protects valuable coastal forests and mangroves. The pristine area is a safe haven for rare animal species." },
     facts: {
       de: ["Schützt Mangrovenwälder.", "Liegt in der Gemeinde Lautém.", "Sehr abgelegen und unberührt."],
       hu: ["Mangroveerdőket véd.", "Lautém községben található.", "Nagyon elszigetelt és érintetlen."],
       ro: ["Protejează pădurile de mangrove.", "Situată în municipalitatea Lautém.", "Foarte izolată și neatinsă."],
       en: ["Protects mangrove forests.", "Located in the Lautém municipality.", "Very remote and pristine."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Lore-Reservat ist ein Naturschutzgebiet in der Gemeinde Manufahi, Osttimor. Es wurde zum Schutz der einzigartigen Biodiversität der Region eingerichtet, insbesondere der endemischen Vogelarten. Das Reservat umfasst eine Fläche von etwa 3.000 Hektar und erstreckt sich über verschiedene Lebensräume wie tropische Trockenwälder, Savannen und Feuchtgebiete. Es ist ein wichtiges Rückzugsgebiet für den Timor-Waran und den Gelbwangenkakadu. Das Gebiet wird von den lokalen Gemeinschaften nachhaltig genutzt, die traditionelle Jagd- und Sammelpraktiken betreiben. Das Lore-Reservat ist auch ein Ziel für Ökotourismus und Vogelbeobachtung.",
+      hu: "A Lore-rezervátum egy természetvédelmi terület Manufahi községben, Kelet-Timorban. A régió egyedülálló biodiverzitásának védelmére hozták létre, különös tekintettel az endemikus madárfajokra. A rezervátum körülbelül 3.000 hektáron terül el, és különböző élőhelyeket foglal magában, mint trópusi száraz erdők, szavannák és vizes élőhelyek. Fontos menedék a timori varánusz és a sárgaarcú kakadu számára. A területet a helyi közösségek fenntartható módon használják, hagyományos vadászati és gyűjtögetési gyakorlatokkal. A Lore-rezervátum az ökoturizmus és madármegfigyelés célpontja is.",
+      ro: "Rezervația Lore este o arie protejată în districtul Manufahi, Timorul de Est. A fost înființată pentru a proteja biodiversitatea unică, în special speciile de păsări endemice. Rezervația acoperă aproximativ 3.000 de hectare și include habitate variate: păduri tropicale uscate, savane și zone umede. Este un refugiu pentru varanul din Timor și cacatua cu obraji galbeni. Comunitățile locale practică utilizarea durabilă a resurselor, menținând vânătoarea și culegerea tradițională. Rezervația este o destinație pentru ecoturism și observarea păsărilor.",
+      en: "The Lore Reserve is a protected area in Manufahi municipality, East Timor, established to conserve endemic biodiversity. Covering about 3,000 hectares, it encompasses tropical dry forest, savanna, and wetlands. The reserve is a stronghold for the Timor monitor lizard and the yellow-crested cockatoo, both threatened species. It supports over 100 bird species, including the Timor sparrow. Local communities engage in sustainable traditional practices within the reserve. Lore is also used for research and eco-tourism, with guided birdwatching tours. The area is part of the Timor and Wetar Deciduous Forests ecoregion.",
+    },
+    factsAdvanced: {
+      de: ["Das Lore-Reservat umfasst eine Fläche von 3.000 Hektar.", "Es beheimatet über 100 Vogelarten.", "Die jährliche Niederschlagsmenge beträgt etwa 1.200 mm.", "Das Reservat wurde im Jahr 2000 offiziell ausgewiesen.", "Die Höhenlage reicht von 50 bis 500 Metern über dem Meeresspiegel.", "Im Reservat leben schätzungsweise 20 Reptilienarten."],
+      hu: ["A Lore-rezervátum területe 3.000 hektár.", "Több mint 100 madárfajnak ad otthont.", "Az éves csapadékmennyiség mintegy 1.200 mm.", "A rezervátumot 2000-ben hozták létre hivatalosan.", "A tengerszint feletti magasság 50 és 500 méter között változik.", "A rezervátumban becslések szerint 20 hüllőfaj él."],
+      ro: ["Rezervația Lore se întinde pe 3.000 de hectare.", "Adăpostește peste 100 de specii de păsări.", "Precipitația anuală este de circa 1.200 mm.", "Rezervația a fost înființată oficial în anul 2000.", "Altitudinea variază între 50 și 500 de metri deasupra nivelului mării.", "În rezervație trăiesc aproximativ 20 de specii de reptile."],
+      en: ["The Lore Reserve covers an area of 3,000 hectares.", "It hosts over 100 bird species.", "Annual rainfall is approximately 1,200 mm.", "The reserve was officially established in 2000.", "Elevation ranges from 50 to 500 meters above sea level.", "An estimated 20 reptile species inhabit the reserve."],
+    },
   },
   {
     id: "lake-maubara-nature-v2",
     type: "lake",
     parent: "TL-LI",
     coords: [125.1970, -8.6111],
-    name: { de: "Maubara-See", hu: "Maubara-tó", ro: "Lacul Maubara", en: "Lake Maubara",
-image: "/poi-images/lake-maubara-nature-v2.webp"
-},
+    name: { de: "Maubara-See", hu: "Maubara-tó", ro: "Lacul Maubara", en: "Lake Maubara"},
+    image: "/poi-images/lake-maubara-nature-v2.webp",
     description: { de: "Der Maubara-See ist ein Küstensee westlich von Dili. Er ist von dichtem Wald umgeben und ein beliebter Nistplatz für unzählige Wasservögel.", hu: "A Maubara-tó egy partmenti tó Dilitől nyugatra. Sűrű erdő veszi körül, és számtalan vízimadár kedvelt fészkelőhelye.", ro: "Lacul Maubara este un lac de coastă la vest de Dili. Este înconjurat de păduri dense și este un loc popular de cuibărit pentru nenumărate păsări de apă.", en: "Lake Maubara is a coastal lake west of Dili. It is surrounded by dense forest and is a popular nesting site for countless waterbirds." },
     facts: {
       de: ["Bedeutendes Vogelschutzgebiet.", "Küstensee bei Maubara.", "Umgeben von tropischer Vegetation."],
       hu: ["Jelentős madárvédelmi terület.", "Partmenti tó Maubara közelében.", "Trópusi növényzet veszi körül."],
       ro: ["Zonă importantă pentru păsări.", "Lac de coastă lângă Maubara.", "Înconjurat de vegetație tropicală."],
       en: ["Important bird sanctuary.", "Coastal lake near Maubara.", "Surrounded by tropical vegetation."]
-    }, image: "/poi-images/lake-maubara-nature-v2.webp"},
+    }, image: "/poi-images/lake-maubara-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake Maubara ist ein Küstensee im Westen Osttimors, in der Gemeinde Liquiçá. Er liegt nahe der Stadt Maubara und ist bekannt für seine ruhigen Gewässer und die umgebende Palmenlandschaft. Der See ist durch einen schmalen Kanal mit dem Meer verbunden, was zu brackigem Wasser führt. Er dient als wichtiger Lebensraum für Wasservögel, darunter Reiher und Seeschwalben. Der See wird von den Einheimischen für die Fischerei genutzt, und seine Ufer sind mit Cashew- und Kokospalmen bepflanzt. Lake Maubara ist auch ein beliebtes Ausflugsziel zum Baden und Picknicken. Die Region hat eine reiche Geschichte, da Maubara während der portugiesischen Kolonialzeit ein wichtiger Hafen war.",
+      hu: "A Maubara-tó egy parti tó Nyugat-Kelet-Timorban, Liquiçá községben. Maubara város közelében fekszik, és nyugodt vizéről, valamint a környező pálmafás tájról ismert. A tavat egy keskeny csatorna köti össze a tengerrel, így vize brakkvíz. Fontos élőhely a vízimadarak, például gémek és csérek számára. A helyiek halászatra használják, partjain kesu- és kókuszpálmák nőnek. A Maubara-tó népszerű kirándulóhely fürdőzésre és piknikezésre. A régiónak gazdag történelme van, mivel Maubara a portugál gyarmati időszakban fontos kikötő volt.",
+      ro: "Lacul Maubara este un lac de coastă în vestul Timorului de Est, în districtul Liquiçá. Situat lângă orașul Maubara, este cunoscut pentru apele sale liniștite și peisajul cu palmieri. Un canal îngust îl leagă de mare, rezultând apă salmastră. Lacul reprezintă un habitat important pentru păsări acvatice, cum ar fi stârcii și pescărușii. Localnicii îl folosesc pentru pescuit, iar malurile sunt plantate cu caju și nuci de cocos. Lacul Maubara este o destinație populară pentru înot și picnicuri. Zona are o istorie bogată, Maubara fiind un port important în perioada colonială portugheză.",
+      en: "Lake Maubara is a coastal lake in western East Timor, Liquiçá municipality, near the town of Maubara. It is a brackish lagoon connected to the sea by a narrow channel. The lake is fringed by coconut palms and cashew trees, providing a scenic landscape. It serves as a critical habitat for waterbirds, including egrets and terns. The lake supports small-scale fisheries and is used for recreation. Historically, Maubara was a Portuguese colonial port, and the lake area contains remnants of fortifications. The lake's water level fluctuates with tides and seasonal rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Der Lake Maubara hat eine Fläche von etwa 1,5 km².", "Die maximale Tiefe beträgt rund 3 Meter.", "Der See liegt weniger als 1 km von der Küste entfernt.", "Während der Trockenzeit nimmt der Salzgehalt des Wassers zu.", "Die Wassertemperatur schwankt zwischen 25 °C und 30 °C.", "Es wurden über 30 Vogelarten am See beobachtet."],
+      hu: ["A Maubara-tó területe körülbelül 1,5 km².", "Maximális mélysége megközelítőleg 3 méter.", "A tó kevesebb mint 1 km-re van a parttól.", "A száraz évszakban a víz sótartalma növekszik.", "A víz hőmérséklete 25 °C és 30 °C között ingadozik.", "Több mint 30 madárfajt figyeltek meg a tónál."],
+      ro: ["Lacul Maubara are o suprafață de aproximativ 1,5 km².", "Adâncimea maximă este de circa 3 metri.", "Lacul se află la mai puțin de 1 km de coastă.", "În sezonul uscat, salinitatea apei crește.", "Temperatura apei variază între 25 °C și 30 °C.", "Peste 30 de specii de păsări au fost observate la lac."],
+      en: ["Lake Maubara covers an area of about 1.5 km².", "Its maximum depth is around 3 meters.", "The lake is less than 1 km from the coast.", "Water salinity increases during the dry season.", "Water temperature ranges between 25 °C and 30 °C.", "Over 30 bird species have been observed at the lake."],
+    },
+  },
   {
     id: "be-malae-lake-nature-v2",
     type: "lake",
     parent: "TL-BO",
     coords: [125.0450, -8.8572],
-    name: { de: "Be-Malae-See", hu: "Be Malae-tó", ro: "Lacul Be Malae", en: "Be Malae Lake",
-image: "/poi-images/be-malae-lake-nature-v2.webp"
-},
+    name: { de: "Be-Malae-See", hu: "Be Malae-tó", ro: "Lacul Be Malae", en: "Be Malae Lake"},
+    image: "/poi-images/be-malae-lake-nature-v2.webp",
     description: { de: "Der Be-Malae-See ist ein heiliger See im Distrikt Bobonaro. Lokale Legenden ranken sich um dieses stehende Gewässer, das kulturell von hoher Bedeutung ist.", hu: "A Be Malae-tó egy szent tó Bobonaro körzetben. Helyi legendák fonódnak e kulturálisan nagy jelentőségű állóvíz köré.", ro: "Lacul Be Malae este un lac sacru în districtul Bobonaro. Legende locale înconjoară acest corp de apă, care este de mare importanță culturală.", en: "Be Malae Lake is a sacred lake in the Bobonaro district. Local legends surround this body of water, which is of great cultural importance." },
     facts: {
       de: ["Gilt als heiliger See.", "Liegt im Distrikt Bobonaro.", "Wichtig für traditionelle Riten."],
       hu: ["Szent tóként tisztelik.", "Bobonaro körzetben található.", "Fontos a hagyományos rítusokhoz."],
       ro: ["Considerat un lac sacru.", "Situat în districtul Bobonaro.", "Important pentru riturile tradiționale."],
       en: ["Considered a sacred lake.", "Located in the Bobonaro district.", "Important for traditional rites."]
-    }, image: "/poi-images/be-malae-lake-nature-v2.webp"},
+    }, image: "/poi-images/be-malae-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Be Malae Lake ist ein kleiner Kratersee im Hochland von Osttimor, in der Gemeinde Ermera. Er liegt auf einer Höhe von etwa 1.200 Metern und ist von dichten Nebelwäldern umgeben. Der See ist vulkanischen Ursprungs und zeichnet sich durch klares, kaltes Wasser aus. Er ist ein wichtiges Wasserreservoir für die umliegenden Kaffeeplantagen. Die Region ist bekannt für ihren hochwertigen Arabica-Kaffee. Der See ist auch ein kultureller Ort, da er in lokalen Mythen als Wohnsitz von Geistern gilt. Die Ufer sind unbewohnt, aber Zugangspfade führen von nahegelegenen Dörfern zum See. Be Malae ist ein Ziel für Wanderer und Naturliebhaber.",
+      hu: "A Be Malae-tó egy kis krátertó Kelet-Timor felföldjén, Ermera községben. Körülbelül 1.200 méter magasan fekszik, sűrű köderdők veszik körül. A tó vulkáni eredetű, vize tiszta és hideg. Fontos víztározó a környező kávéültetvények számára. A régió kiváló minőségű arabica kávéjáról ismert. A tó kulturális jelentőséggel is bír, a helyi hiedelmek szerint szellemek lakhelye. A partok lakatlanok, de ösvények vezetnek a közeli falvakból a tóhoz. A Be Malae népszerű a túrázók és természetkedvelők körében.",
+      ro: "Lacul Be Malae este un mic lac de crater în zonele înalte ale Timorului de Est, în districtul Ermera. Situat la aproximativ 1.200 de metri altitudine, este înconjurat de păduri de ceață. Lacul are origini vulcanice, cu apă limpede și rece. Servește ca rezervor de apă pentru plantațiile de cafea din jur. Regiunea este renumită pentru cafeaua Arabica de înaltă calitate. Lacul are și semnificație culturală, fiind considerat în miturile locale locuința spiritelor. Malurile sunt nelocuite, dar există poteci de acces din satele apropiate. Be Malae este o destinație pentru drumeți și iubitori de natură.",
+      en: "Be Malae Lake is a small crater lake in the highlands of East Timor, Ermera municipality, at an elevation of about 1,200 meters. Surrounded by cloud forest, the lake is of volcanic origin, featuring clear, cold water. It serves as a water source for nearby coffee plantations, which produce high-quality Arabica beans. The lake is considered sacred in local folklore, believed to be inhabited by ancestral spirits. The area is pristine, with limited human impact. Hiking trails from nearby villages lead to the lake, making it a destination for eco-tourism. The lake's water level remains relatively stable year-round due to high rainfall.",
+    },
+    factsAdvanced: {
+      de: ["Der Be Malae Lake liegt auf 1.200 Metern über dem Meeresspiegel.", "Der See hat eine Fläche von etwa 0,15 km².", "Die durchschnittliche Tiefe beträgt 2,5 Meter.", "Die jährliche Niederschlagsmenge am See beträgt etwa 2.000 mm.", "Die Wassertemperatur liegt ganzjährig unter 20 °C.", "Der See ist von einer Fläche von etwa 5 km² Nebelwald umgeben."],
+      hu: ["A Be Malae-tó 1.200 méterrel a tengerszint felett található.", "A tó területe körülbelül 0,15 km².", "Átlagos mélysége 2,5 méter.", "Az éves csapadékmennyiség a tónál mintegy 2.000 mm.", "A víz hőmérséklete egész évben 20 °C alatt van.", "A tavat körülbelül 5 km² köderdő veszi körül."],
+      ro: ["Lacul Be Malae este situat la 1.200 de metri deasupra nivelului mării.", "Suprafața lacului este de aproximativ 0,15 km².", "Adâncimea medie este de 2,5 metri.", "Precipitația anuală la lac este de circa 2.000 mm.", "Temperatura apei este sub 20 °C pe tot parcursul anului.", "Lacul este înconjurat de o pădure de ceață de aproximativ 5 km²."],
+      en: ["Be Malae Lake is located at 1,200 meters above sea level.", "The lake covers an area of about 0.15 km².", "Its average depth is 2.5 meters.", "Annual rainfall at the lake is about 2,000 mm.", "Water temperature remains below 20 °C year-round.", "The lake is surrounded by approximately 5 km² of cloud forest."],
+    },
+  },
   {
     id: "belulik-river-nature-v2",
     type: "river",
     parent: "TL-AN",
     coords: [125.5160, -9.1833],
-    name: { de: "Belulik", hu: "Belulik", ro: "Râul Belulik", en: "Belulik River",
-image: "/poi-images/belulik-river-nature-v2.webp"
-},
+    name: { de: "Belulik", hu: "Belulik", ro: "Râul Belulik", en: "Belulik River"},
+    image: "/poi-images/belulik-river-nature-v2.webp",
     description: { de: "Der Fluss Belulik entwässert das zentrale Hochland in Richtung Timorsee. In der Trockenzeit ist sein steiniges Bett oft sichtbar, während er im Monsun mächtig anschwillt.", hu: "A Belulik-folyó a központi hegyvidék vizét szállítja a Timor-tenger felé. Száraz évszakban gyakran látható a köves medre, míg a monszun idején hatalmasra duzzad.", ro: "Râul Belulik drenează zonele înalte centrale spre Marea Timor. În sezonul uscat, albia sa pietroasă este adesea vizibilă, în timp ce în muson crește masiv.", en: "The Belulik River drains the central highlands towards the Timor Sea. In the dry season, its stony bed is often visible, while it swells massively during the monsoon." },
     facts: {
       de: ["Fließt an der Südküste ins Meer.", "Typischer Monsunfluss.", "Breites, steiniges Flussbett."],
       hu: ["A déli parton folyik a tengerbe.", "Tipikus monszunfolyó.", "Széles, köves folyómeder."],
       ro: ["Se varsă în mare pe coasta de sud.", "Râu tipic musonic.", "Albie lată și pietroasă."],
       en: ["Flows into the sea on the south coast.", "Typical monsoon river.", "Broad, stony riverbed."]
-    }, image: "/poi-images/belulik-river-nature-v2.webp"},
+    }, image: "/poi-images/belulik-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Belulik River ist ein Fluss im Osten Osttimors, der durch die Gemeinde Lautém fließt. Er entspringt in den Bergen nahe dem Mount Paitchau und mündet nach etwa 70 km in die Timorsee. Der Fluss ist für seine klaren Gewässer und felsigen Abschnitte bekannt, die Stromschnellen bilden. Er ist ein wichtiger Lebensraum für Süßwasserfische und Krustentiere. Die Umgebung ist dünn besiedelt und von Trockenwald geprägt. Der Belulik wird für die Bewässerung kleiner landwirtschaftlicher Flächen genutzt. In der Trockenzeit nimmt seine Wasserführung stark ab, und an manchen Stellen trocknet er ganz aus. Kulturell ist der Fluss für die lokalen Fataluku-Gemeinschaften bedeutsam.",
+      hu: "A Belulik folyó Kelet-Timor keleti részén, Lautém községben folyik. A Mount Paitchau közelében ered, és körülbelül 70 km után ömlik a Timor-tengerbe. Tiszta vizéről és sziklás szakaszairól ismert, amelyek zuhatagokat alkotnak. Édesvízi halak és rákok élőhelye. A környék gyéren lakott, száraz erdők jellemzik. A folyót kis mezőgazdasági területek öntözésére használják. A száraz évszakban vízhozama erősen lecsökken, egyes helyeken ki is szárad. Kulturálisan fontos a helyi fataluku közösségek számára.",
+      ro: "Râul Belulik este un curs de apă în estul Timorului de Est, în districtul Lautém. Izvorăște din munții de lângă Muntele Paitchau și se varsă în Marea Timor după aproximativ 70 km. Este cunoscut pentru apele limpezi și sectoarele stâncoase care formează repezi. Constituie un habitat pentru pești de apă dulce și crustacee. Zona este slab populată, cu păduri uscate. Râul este folosit pentru irigarea micilor suprafețe agricole. În sezonul uscat, debitul scade puternic, iar în unele locuri seacă complet. Cultural, este important pentru comunitatea Fataluku.",
+      en: "The Belulik River flows in eastern East Timor, Lautém municipality, originating near Mount Paitchau and running about 70 km to the Timor Sea. It features clear water and rocky rapids, supporting a freshwater ecosystem with fish and crustaceans. The river traverses dry forest landscapes, with sparse population. It provides irrigation for small-scale agriculture, primarily subsistence farming. During the dry season, the river experiences reduced flow, sometimes drying up in parts. The Belulik holds cultural significance for the Fataluku people, who use it for traditional rituals. Geologically, it cuts through limestone and volcanic formations.",
+    },
+    factsAdvanced: {
+      de: ["Der Belulik River ist etwa 70 km lang.", "Sein Einzugsgebiet umfasst rund 200 km².", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 800 mm.", "Der Fluss mündet in der Nähe des Dorfes Tutuala in die See.", "Im Fluss wurden 15 Fischarten identifiziert.", "Die maximale Tiefe beträgt an einigen Stellen bis zu 5 Meter."],
+      hu: ["A Belulik folyó hossza körülbelül 70 km.", "Vízgyűjtő területe mintegy 200 km².", "Az éves csapadékmennyiség átlagosan 800 mm.", "A folyó Tutuala falu közelében ömlik a tengerbe.", "A folyóban 15 halfajt azonosítottak.", "A maximális mélység helyenként eléri az 5 métert."],
+      ro: ["Râul Belulik are o lungime de aproximativ 70 km.", "Bazinul hidrografic acoperă circa 200 km².", "Precipitația medie anuală este de 800 mm.", "Râul se varsă în mare lângă satul Tutuala.", "Au fost identificate 15 specii de pești în râu.", "Adâncimea maximă atinge local 5 metri."],
+      en: ["The Belulik River is about 70 km long.", "Its catchment area covers about 200 km².", "Average annual precipitation is 800 mm.", "The river empties into the sea near Tutuala village.", "15 fish species have been identified in the river.", "Maximum depth reaches up to 5 meters in some places."],
+    },
+  },
   {
     id: "irabere-river-nature-v2",
     type: "river",
     parent: "TL-VI",
     coords: [126.7320, -8.7611],
-    name: { de: "Irabere", hu: "Irabere", ro: "Râul Irabere", en: "Irabere River",
-image: "/poi-images/irabere-river-nature-v2.webp"
-},
+    name: { de: "Irabere", hu: "Irabere", ro: "Râul Irabere", en: "Irabere River"},
+    image: "/poi-images/irabere-river-nature-v2.webp",
     description: { de: "Der Irabere bildet eine natürliche Grenze zwischen den Distrikten Viqueque und Lautém. Er ist ein wichtiger Lebensraum für Süßwasserfische und Krokodile.", hu: "Az Irabere természetes határt képez Viqueque és Lautém körzetek között. Fontos élőhelye az édesvízi halaknak és a krokodiloknak.", ro: "Irabere formează o graniță naturală între districtele Viqueque și Lautém. Este un habitat important pentru peștii de apă dulce și crocodili.", en: "The Irabere forms a natural border between the Viqueque and Lautém districts. It is an important habitat for freshwater fish and crocodiles." },
     facts: {
       de: ["Grenzfluss zweier Distrikte.", "Mündet in die Timorsee.", "Krokodile in der Flussmündung."],
       hu: ["Két körzet határfolyója.", "A Timor-tengerbe torkollik.", "Krokodilok a folyótorkolatban."],
       ro: ["Râu de graniță a două districte.", "Se varsă în Marea Timor.", "Crocodili în estuar."],
       en: ["Border river of two districts.", "Flows into the Timor Sea.", "Crocodiles in the estuary."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Irabere River ist ein Fluss im Südosten Osttimors, in der Gemeinde Viqueque. Er entspringt im Bergland von Bibileo und fließt in südlicher Richtung zur Timorsee. Der Fluss ist relativ kurz, aber wasserreich aufgrund der hohen Niederschläge in der Region. Er durchquert Gebiete mit tropischem Regenwald und Savanne. Der Irabere wird für den Reisanbau genutzt und ist eine wichtige Trinkwasserquelle. In der Mündungsregion gibt es Mangrovenwälder, die als Kinderstube für Fische dienen. Der Fluss ist auch für seine Vogelvielfalt bekannt, darunter der Timorregenpfeifer. Die lokale Bevölkerung betreibt traditionelle Fischerei.",
+      hu: "Az Irabere folyó Kelet-Timor délkeleti részén, Viqueque községben található. A Bibileo-hegységben ered, és dél felé haladva ömlik a Timor-tengerbe. Viszonylag rövid, de vízhozama magas a régió bőséges csapadéka miatt. Trópusi esőerdőkön és szavannákon halad át. Vizét rizstermesztésre és ivóvízként használják. A torkolatnál mangroveerdők találhatók, amelyek halak ívóhelyei. A folyó gazdag madárvilággal rendelkezik, köztük a timori lile. A helyi lakosság hagyományos halászatot folytat.",
+      ro: "Râul Irabere se află în sud-estul Timorului de Est, în districtul Viqueque. Izvorăște din munții Bibileo și curge spre sud, vărsându-se în Marea Timor. Este relativ scurt, dar cu un debit ridicat datorită precipitațiilor abundente. Străbate păduri tropicale umede și savane. Este utilizat pentru irigarea orezăriilor și ca sursă de apă potabilă. La vărsare, mangrovele oferă habitat pentru pești. Râul este cunoscut pentru diversitatea avifaunei, inclusiv prundașul din Timor. Pescuitul tradițional este practicat de comunitățile locale.",
+      en: "The Irabere River is located in southeastern East Timor, Viqueque municipality. Rising in the Bibileo mountains, it flows south to the Timor Sea. Though short, it carries substantial water due to high rainfall. It passes through rainforest and savanna ecosystems. The river is vital for irrigation of rice paddies and drinking water. Its estuary features mangroves that serve as nursery grounds for fish. The Irabere supports a diverse bird population, including the Timor plover. Traditional fishing is common. The river's hydrology is influenced by seasonal monsoon rains, leading to flooding during the wet season.",
+    },
+    factsAdvanced: {
+      de: ["Der Irabere River ist etwa 45 km lang.", "Das Einzugsgebiet umfasst rund 120 km².", "Die jährliche Niederschlagsmenge beträgt etwa 1.800 mm.", "Die maximale Breite des Flusses beträgt 20 Meter.", "An seiner Mündung erstreckt sich ein Mangrovenwald von 2 km².", "Der Fluss führt während der Trockenzeit etwa 3 m³/s Wasser."],
+      hu: ["Az Irabere folyó hossza körülbelül 45 km.", "Vízgyűjtő területe mintegy 120 km².", "Az éves csapadékmennyiség körülbelül 1.800 mm.", "A folyó maximális szélessége 20 méter.", "Torkolatánál egy 2 km²-es mangroveerdő található.", "A száraz évszakban a folyó vízhozama körülbelül 3 m³/s."],
+      ro: ["Râul Irabere are o lungime de aproximativ 45 km.", "Bazinul hidrografic acoperă circa 120 km².", "Precipitația anuală este de aproximativ 1.800 mm.", "Lățimea maximă a râului este de 20 de metri.", "La vărsare, o pădure de mangrove se întinde pe 2 km².", "Debitul în sezonul uscat este de aproximativ 3 m³/s."],
+      en: ["The Irabere River is about 45 km long.", "Its catchment area covers about 120 km².", "Annual precipitation is about 1,800 mm.", "The river's maximum width is 20 meters.", "A mangrove forest of 2 km² extends at its mouth.", "Dry season discharge is about 3 m³/s."],
+    },
   }
 ];

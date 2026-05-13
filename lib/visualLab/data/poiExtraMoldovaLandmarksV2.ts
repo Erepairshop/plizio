@@ -5,9 +5,8 @@ export const moldovaLandmarksV2: POI[] = [
     id: "moldova-old-orhei-cave-monastery-landmarks-v2",
     parent: "MD",
     type: "monastery",
-    name: { de: "Höhlenkloster von Orheiul Vechi", hu: "Orheiul Vechi sziklatemplom", ro: "Mănăstirea rupestră Orheiul Vechi", en: "Old Orhei Cave Monastery",
-image: "/poi-images/moldova-old-orhei-cave-monastery-landmarks-v2.webp"
-},
+    name: { de: "Höhlenkloster von Orheiul Vechi", hu: "Orheiul Vechi sziklatemplom", ro: "Mănăstirea rupestră Orheiul Vechi", en: "Old Orhei Cave Monastery"},
+    image: "/poi-images/moldova-old-orhei-cave-monastery-landmarks-v2.webp",
     coords: [28.9722, 47.3039],
     coordinates: { lat: 47.3039, lng: 28.9722 },
     description: {
@@ -40,9 +39,8 @@ image: "/poi-images/moldova-old-orhei-cave-monastery-landmarks-v2.webp"
     id: "moldova-hancu-monastery-landmarks-v2",
     parent: "MD",
     type: "monastery",
-    name: { de: "Kloster Hâncu", hu: "Hancu kolostor", ro: "Mănăstirea Hâncu", en: "Hâncu Monastery",
-image: "/poi-images/moldova-hancu-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Hâncu", hu: "Hancu kolostor", ro: "Mănăstirea Hâncu", en: "Hâncu Monastery"},
+    image: "/poi-images/moldova-hancu-monastery-landmarks-v2.webp",
     coords: [28.3303, 47.0594],
     coordinates: { lat: 47.0594, lng: 28.3303 },
     description: {
@@ -75,9 +73,8 @@ image: "/poi-images/moldova-hancu-monastery-landmarks-v2.webp"
     id: "moldova-tipova-monastery-landmarks-v2",
     parent: "MD",
     type: "monastery",
-    name: { de: "Kloster Țipova", hu: "Tipova sziklakolostor", ro: "Mănăstirea Țipova", en: "Țipova Monastery",
-image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp"
-},
+    name: { de: "Kloster Țipova", hu: "Tipova sziklakolostor", ro: "Mănăstirea Țipova", en: "Țipova Monastery"},
+    image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp",
     coords: [28.9819, 47.6044],
     coordinates: { lat: 47.6044, lng: 28.9819 },
     description: {
@@ -111,9 +108,8 @@ image: "/poi-images/moldova-tipova-monastery-landmarks-v2.webp"
     id: "moldova-manuc-bey-mansion-landmarks-v2",
     parent: "MD",
     type: "palace",
-    name: { de: "Herrenhaus Manuc Bey", hu: "Manuc Bey udvarház", ro: "Conacul Manuc Bey", en: "Manuc Bey Mansion",
-image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp"
-},
+    name: { de: "Herrenhaus Manuc Bey", hu: "Manuc Bey udvarház", ro: "Conacul Manuc Bey", en: "Manuc Bey Mansion"},
+    image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp",
     coords: [28.5919, 46.8272],
     coordinates: { lat: 46.8272, lng: 28.5919 },
     description: {
@@ -147,9 +143,8 @@ image: "/poi-images/moldova-manuc-bey-mansion-landmarks-v2.webp"
     id: "moldova-nativity-cathedral-chisinau-landmarks-v2",
     parent: "MD",
     type: "cathedral",
-    name: { de: "Kathedrale der Geburt des Herrn", hu: "Krisztus születése székesegyház", ro: "Catedrala Mitropolitană Nașterea Domnului", en: "Nativity Cathedral (Chișinău)",
-image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp"
-},
+    name: { de: "Kathedrale der Geburt des Herrn", hu: "Krisztus születése székesegyház", ro: "Catedrala Mitropolitană Nașterea Domnului", en: "Nativity Cathedral (Chișinău)"},
+    image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp",
     coords: [28.835, 47.0256],
     coordinates: { lat: 47.0256, lng: 28.835 },
     description: {
@@ -183,9 +178,8 @@ image: "/poi-images/moldova-nativity-cathedral-chisinau-landmarks-v2.webp"
     id: "moldova-national-history-museum-landmarks-v2",
     parent: "MD",
     type: "museum",
-    name: { de: "Nationalmuseum für Geschichte Moldawiens", hu: "Moldovai Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie a Moldovei", en: "National Museum of History of Moldova",
-image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp"
-},
+    name: { de: "Nationalmuseum für Geschichte Moldawiens", hu: "Moldovai Nemzeti Történeti Múzeum", ro: "Muzeul Național de Istorie a Moldovei", en: "National Museum of History of Moldova"},
+    image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp",
     coords: [28.8286, 47.0225],
     coordinates: { lat: 47.0225, lng: 28.8286 },
     description: {
@@ -204,7 +198,7 @@ image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp"
     image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp",
     descriptionAdvanced: {
       de: "Das Nationalmuseum für Geschichte von Moldau beherbergt über 348.000 Exponate, die die Entwicklung der Region von der Antike bis in die moderne Zeit dokumentieren.",
-      hu: "A Moldovai Nemzeti Történeti Múzeum több mint 348 000 kiállítási tárggyal mutatja be a régió fejlődését az őskortól egészen a modern korig, Chișinău belvárosában.",
+      hu: "A Moldovai Nemzeti Történeti Múzeum több mint 348 000 kiállítási tárgyal mutatja be a régió fejlődését az őskortól egészen a modern korig, Chișinău belvárosában.",
       ro: "Muzeul Național de Istorie a Moldovei deține un patrimoniu de peste 348.000 de piese, ilustrând evoluția societății de la preistorie până în epoca contemporană.",
       en: "Housing over 348,000 artifacts, the National Museum of History of Moldova chronicles the region's development from prehistoric times to the modern era.",
     },
@@ -219,9 +213,8 @@ image: "/poi-images/moldova-national-history-museum-landmarks-v2.webp"
     id: "moldova-ethnography-museum-landmarks-v2",
     parent: "MD",
     type: "museum",
-    name: { de: "Nationalmuseum für Ethnographie und Naturgeschichte", hu: "Nemzeti Néprajzi és Természettudományi Múzeum", ro: "Muzeul Național de Etnografie și Istorie Naturală", en: "National Museum of Ethnography and Natural History",
-image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp"
-},
+    name: { de: "Nationalmuseum für Ethnographie und Naturgeschichte", hu: "Nemzeti Néprajzi és Természettudományi Múzeum", ro: "Muzeul Național de Etnografie și Istorie Naturală", en: "National Museum of Ethnography and Natural History"},
+    image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp",
     coords: [28.8203, 47.0247],
     coordinates: { lat: 47.0247, lng: 28.8203 },
     description: {
@@ -255,9 +248,8 @@ image: "/poi-images/moldova-ethnography-museum-landmarks-v2.webp"
     id: "moldova-mimi-castle-landmarks-v2",
     parent: "MD",
     type: "palace",
-    name: { de: "Schloss Mimi", hu: "Mimi-kastély", ro: "Castel Mimi", en: "Mimi Castle",
-image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Mimi", hu: "Mimi-kastély", ro: "Castel Mimi", en: "Mimi Castle"},
+    image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp",
     coords: [29.1725, 46.8294],
     coordinates: { lat: 46.8294, lng: 29.1725 },
     description: {
@@ -291,9 +283,8 @@ image: "/poi-images/moldova-mimi-castle-landmarks-v2.webp"
     id: "moldova-purcari-castle-landmarks-v2",
     parent: "MD",
     type: "palace",
-    name: { de: "Château Purcari", hu: "Purcari-birtok", ro: "Castelul Purcari", en: "Purcari Castle",
-image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp"
-},
+    name: { de: "Château Purcari", hu: "Purcari-birtok", ro: "Castelul Purcari", en: "Purcari Castle"},
+    image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp",
     coords: [29.8661, 46.5322],
     coordinates: { lat: 46.5322, lng: 29.8661 },
     description: {
@@ -327,9 +318,8 @@ image: "/poi-images/moldova-purcari-castle-landmarks-v2.webp"
     id: "moldova-bender-fortress-landmarks-v2",
     parent: "MD",
     type: "castle",
-    name: { de: "Festung Bender (Tighina)", hu: "Benderi (Tighinai) erőd", ro: "Cetatea Bender (Tighina)", en: "Bender Fortress (Tighina)",
-image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Bender (Tighina)", hu: "Benderi (Tighinai) erőd", ro: "Cetatea Bender (Tighina)", en: "Bender Fortress (Tighina)"},
+    image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp",
     coords: [29.4892, 46.8381],
     coordinates: { lat: 46.8381, lng: 29.4892 },
     description: {
@@ -363,9 +353,8 @@ image: "/poi-images/moldova-bender-fortress-landmarks-v2.webp"
     id: "moldova-transfiguration-cathedral-bender-landmarks-v2",
     parent: "MD",
     type: "cathedral",
-    name: { de: "Verklärungskathedrale Bender", hu: "Urunk színeváltozása székesegyház (Bender)", ro: "Catedrala Schimbarea la Față din Bender", en: "Transfiguration Cathedral (Bender)",
-image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp"
-},
+    name: { de: "Verklärungskathedrale Bender", hu: "Urunk színeváltozása székesegyház (Bender)", ro: "Catedrala Schimbarea la Față din Bender", en: "Transfiguration Cathedral (Bender)"},
+    image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp",
     coords: [29.48, 46.8242],
     coordinates: { lat: 46.8242, lng: 29.48 },
     description: {
@@ -399,9 +388,8 @@ image: "/poi-images/moldova-transfiguration-cathedral-bender-landmarks-v2.webp"
     id: "moldova-struve-geodetic-arc-rudi-landmarks-v2",
     parent: "MD",
     type: "landmark",
-    name: { de: "Struve-Bogen in Rudi", hu: "Struve földmérő ív (Rudi)", ro: "Arcul Geodezic Struve de la Rudi", en: "Struve Geodetic Arc (Rudi)",
-image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp"
-},
+    name: { de: "Struve-Bogen in Rudi", hu: "Struve földmérő ív (Rudi)", ro: "Arcul Geodezic Struve de la Rudi", en: "Struve Geodetic Arc (Rudi)"},
+    image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp",
     coords: [27.8767, 48.32],
     coordinates: { lat: 48.32, lng: 27.8767 },
     description: {
@@ -435,9 +423,8 @@ image: "/poi-images/moldova-struve-geodetic-arc-rudi-landmarks-v2.webp"
     id: "moldova-chisinau-water-tower-landmarks-v2",
     parent: "MD",
     type: "tower",
-    name: { de: "Wasserturm von Chișinău", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Water Tower (Chișinău)",
-image: "/poi-images/moldova-chisinau-water-tower-landmarks-v2.webp"
-},
+    name: { de: "Wasserturm von Chișinău", hu: "Kisinyovi víztorony", ro: "Turnul de apă din Chișinău", en: "Water Tower (Chișinău)"},
+    image: "/poi-images/moldova-chisinau-water-tower-landmarks-v2.webp",
     coords: [28.8236, 47.0189],
     coordinates: { lat: 47.0189, lng: 28.8236 },
     description: {
@@ -470,9 +457,8 @@ image: "/poi-images/moldova-chisinau-water-tower-landmarks-v2.webp"
     id: "moldova-pushkin-museum-chisinau-landmarks-v2",
     parent: "MD",
     type: "museum",
-    name: { de: "Alexander-Puschkin-Museum", hu: "Puskin Múzeum (Kisinyov)", ro: "Muzeul Alexandr Pușkin din Chișinău", en: "Alexander Pushkin Museum",
-image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp"
-},
+    name: { de: "Alexander-Puschkin-Museum", hu: "Puskin Múzeum (Kisinyov)", ro: "Muzeul Alexandr Pușkin din Chișinău", en: "Alexander Pushkin Museum"},
+    image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp",
     coords: [28.8344, 47.0317],
     coordinates: { lat: 47.0317, lng: 28.8344 },
     description: {
@@ -506,9 +492,8 @@ image: "/poi-images/moldova-pushkin-museum-chisinau-landmarks-v2.webp"
     id: "moldova-organ-hall-chisinau-landmarks-v2",
     parent: "MD",
     type: "theater",
-    name: { de: "Orgelsaal Chișinău", hu: "Orgona-terem (Kisinyov)", ro: "Sala cu Orgă din Chișinău", en: "Organ Hall (Chișinău)",
-image: "/poi-images/moldova-organ-hall-chisinau-landmarks-v2.webp"
-},
+    name: { de: "Orgelsaal Chișinău", hu: "Orgona-terem (Kisinyov)", ro: "Sala cu Orgă din Chișinău", en: "Organ Hall (Chișinău)"},
+    image: "/poi-images/moldova-organ-hall-chisinau-landmarks-v2.webp",
     coords: [28.8358, 47.0225],
     coordinates: { lat: 47.0225, lng: 28.8358 },
     description: {
@@ -541,9 +526,8 @@ image: "/poi-images/moldova-organ-hall-chisinau-landmarks-v2.webp"
     id: "moldova-national-opera-theater-landmarks-v2",
     parent: "MD",
     type: "theater",
-    name: { de: "Nationaltheater für Oper und Ballett", hu: "Nemzeti Opera- és Balettszínház", ro: "Teatrul Național de Operă și Balet Maria Bieșu", en: "National Opera and Ballet Theater",
-image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp"
-},
+    name: { de: "Nationaltheater für Oper und Ballett", hu: "Nemzeti Opera- és Balettszínház", ro: "Teatrul Național de Operă și Balet Maria Bieșu", en: "National Opera and Ballet Theater"},
+    image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp",
     coords: [28.8289, 47.0283],
     coordinates: { lat: 47.0283, lng: 28.8289 },
     description: {
@@ -577,9 +561,8 @@ image: "/poi-images/moldova-national-opera-theater-landmarks-v2.webp"
     id: "moldova-pommer-mansion-taul-landmarks-v2",
     parent: "MD",
     type: "palace",
-    name: { de: "Herrenhaus Pommer in Taul", hu: "Pommer-kastély (Țaul)", ro: "Conacul Pommer din Țaul", en: "Pommer Mansion (Țaul)",
-image: "/poi-images/moldova-pommer-mansion-taul-landmarks-v2.webp"
-},
+    name: { de: "Herrenhaus Pommer in Taul", hu: "Pommer-kastély (Țaul)", ro: "Conacul Pommer din Țaul", en: "Pommer Mansion (Țaul)"},
+    image: "/poi-images/moldova-pommer-mansion-taul-landmarks-v2.webp",
     coords: [27.6711, 48.225],
     coordinates: { lat: 48.225, lng: 27.6711 },
     description: {
@@ -613,9 +596,8 @@ image: "/poi-images/moldova-pommer-mansion-taul-landmarks-v2.webp"
     id: "moldova-chisinau-city-hall-landmarks-v2",
     parent: "MD",
     type: "landmark",
-    name: { de: "Rathaus von Chișinău", hu: "Kisinyovi városháza", ro: "Primăria Chișinău", en: "Chisinau City Hall",
-image: "/poi-images/moldova-chisinau-city-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Chișinău", hu: "Kisinyovi városháza", ro: "Primăria Chișinău", en: "Chisinau City Hall"},
+    image: "/poi-images/moldova-chisinau-city-hall-landmarks-v2.webp",
     coordinates: { lat: 47.0227, lng: 28.8353 },
     description: {
       de: "Das Rathaus von Chișinău ist ein historisches Denkmal, das 1901 im gotisch-venezianischen Stil erbaut wurde. Es wurde von den Architekten Mitrofan Elladi und Alexandru Bernardazzi entworfen.",
@@ -647,9 +629,8 @@ image: "/poi-images/moldova-chisinau-city-hall-landmarks-v2.webp"
     id: "moldova-national-museum-of-art-landmarks-v2",
     parent: "MD",
     type: "museum",
-    name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă", en: "National Museum of Art",
-image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp"
-},
+    name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă", en: "National Museum of Art"},
+    image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp",
     coordinates: { lat: 47.0222, lng: 28.8283 },
     description: {
       de: "Das Nationalmuseum für Kunst beherbergt eine Sammlung von über 30.000 Werken der moldauischen und europäischen Kunst. Es befindet sich im historischen Dadiani-Gebäude von 1901.",
@@ -682,9 +663,8 @@ image: "/poi-images/moldova-national-museum-of-art-landmarks-v2.webp"
     id: "moldova-eiffel-bridge-ungheni-landmarks-v2",
     parent: "MD",
     type: "bridge",
-    name: { de: "Eiffel-Brücke Ungheni", hu: "Ungheni-i Eiffel-híd", ro: "Podul Eiffel din Ungheni", en: "Ungheni Eiffel Bridge",
-image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp"
-},
+    name: { de: "Eiffel-Brücke Ungheni", hu: "Ungheni-i Eiffel-híd", ro: "Podul Eiffel din Ungheni", en: "Ungheni Eiffel Bridge"},
+    image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp",
     coordinates: { lat: 47.2008, lng: 27.7878 },
     description: {
       de: "Die Eiffel-Brücke in Ungheni ist eine Eisenbahnbrücke über den Pruth, die 1877 fertiggestellt wurde. Sie wurde von dem berühmten französischen Ingenieur Gustave Eiffel entworfen.",
@@ -717,9 +697,8 @@ image: "/poi-images/moldova-eiffel-bridge-ungheni-landmarks-v2.webp"
     id: "moldova-mazarache-church-landmarks-v2",
     parent: "MD",
     type: "church",
-    name: { de: "Mazarache-Kirche", hu: "Mazarache-templom", ro: "Biserica Mazarache", en: "Mazarache Church",
-image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp"
-},
+    name: { de: "Mazarache-Kirche", hu: "Mazarache-templom", ro: "Biserica Mazarache", en: "Mazarache Church"},
+    image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp",
     coordinates: { lat: 47.0308, lng: 28.8456 },
     description: {
       de: "Die Mazarache-Kirche ist das älteste erhaltene Gebäude in Chișinău und stammt aus dem Jahr 1752. Sie ist ein bedeutendes Beispiel für die spätmittelalterliche moldauische Architektur.",
@@ -752,9 +731,8 @@ image: "/poi-images/moldova-mazarache-church-landmarks-v2.webp"
     id: "moldova-chisinau-railway-station-landmarks-v2",
     parent: "MD",
     type: "landmark",
-    name: { de: "Bahnhof Chișinău", hu: "Kisinyovi vasútállomás", ro: "Gara din Chișinău", en: "Chisinau Railway Station",
-image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp"
-},
+    name: { de: "Bahnhof Chișinău", hu: "Kisinyovi vasútállomás", ro: "Gara din Chișinău", en: "Chisinau Railway Station"},
+    image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp",
     coordinates: { lat: 47.0131, lng: 28.8597 },
     description: {
       de: "Der Bahnhof von Chișinău wurde 1948 im Stil des sozialistischen Realismus nach Plänen von Alexei Schtschussew erbaut. Er ist der wichtigste Verkehrsknotenpunkt der moldauischen Hauptstadt.",
@@ -787,9 +765,8 @@ image: "/poi-images/moldova-chisinau-railway-station-landmarks-v2.webp"
     id: "moldova-national-library-landmarks-v2",
     parent: "MD",
     type: "landmark",
-    name: { de: "Nationalbibliothek von Moldau", hu: "Moldovai Nemzeti Könyvtár", ro: "Biblioteca Națională", en: "National Library of Moldova",
-image: "/poi-images/moldova-national-library-landmarks-v2.webp"
-},
+    name: { de: "Nationalbibliothek von Moldau", hu: "Moldovai Nemzeti Könyvtár", ro: "Biblioteca Națională", en: "National Library of Moldova"},
+    image: "/poi-images/moldova-national-library-landmarks-v2.webp",
     coordinates: { lat: 47.0233, lng: 28.8289 },
     description: {
       de: "Die Nationalbibliothek der Republik Moldau wurde 1832 gegründet und beherbergt über 2,5 Millionen Medieneinheiten. Sie ist das wichtigste bibliografische Zentrum des Landes.",
@@ -822,9 +799,8 @@ image: "/poi-images/moldova-national-library-landmarks-v2.webp"
     id: "moldova-besalma-museum-landmarks-v2",
     parent: "MD",
     type: "museum",
-    name: { de: "Gagauzien-Museum Beșalma", hu: "Beșalmai Gagauz Múzeum", ro: "Muzeul din Beșalma", en: "Besalma Gagauz Museum",
-image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
-},
+    name: { de: "Gagauzien-Museum Beșalma", hu: "Beșalmai Gagauz Múzeum", ro: "Muzeul din Beșalma", en: "Besalma Gagauz Museum"},
+    image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp",
     coordinates: { lat: 46.1736, lng: 28.6475 },
     description: {
       de: "Das Museum in Beșalma wurde 1966 gegründet und ist das weltweit erste Museum für gagauisische Kultur. Die Sammlung umfasst über 20.000 Exponate zur Geschichte dieses Volkes.",
@@ -851,8 +827,7 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       ro: ["Înființat în anul 1966", "Dedicat culturii găgăuze", "Localizat în satul Beșalma", "Peste 6.000 de exponate"],
       en: ["Founded in 1966", "Focus on Gagauz heritage", "Located in Besalma village", "Over 6,000 unique artifacts"],
     },
-  }
-,
+  },
   {
     id: "moldova-noul-neamt-monastery-landmarks-v2",
     parent: "MD",
@@ -872,6 +847,18 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Tallest bell tower in Moldova", "Founded in 1861", "Consists of four churches", "Located in Chițcani village"],
     },
     imageHint: "Noul Neamt Monastery bell tower and white cathedral",
+    descriptionAdvanced: {
+      de: "Das Kloster Noul Neamț in Chițcani ist eines der wichtigsten orthodoxen spirituellen Zentren in der Region Transnistrien. Es wurde 1861 von Mönchen gegründet, die aus dem rumänischen Neamț-Kloster kamen, um dem Einfluss der Säkularisierung zu entgehen. Der Komplex ist bekannt für seinen beeindruckenden, 69 Meter hohen Glockenturm, der als der höchste in Moldawien gilt und eine weite Aussicht über das Dnister-Tal bietet. Die Architektur des Klosters spiegelt den russisch-byzantinischen Stil wider und umfasst vier separate Kirchen, die verschiedenen Heiligen gewidmet sind. Nach einer Zeit der Schließung während der Sowjetära wurde das Kloster 1990 wiedereröffnet und beherbergt heute eine aktive Mönchsgemeinschaft sowie ein Priesterseminar, das Geistliche für die Region ausbildet.",
+      hu: "A Chițcani faluban található Noul Neamț-kolostor Transznisztria egyik legfontosabb ortodox spirituális központja. A kolostort 1861-ben alapították a romániai Neamț-kolostorból érkező szerzetesek, akik a szekularizáció elől menekültek. A komplexum a lenyűgöző, 69 méter magas harangtornyáról ismert, amely Moldova legmagasabbjának számít, és pazar kilátást nyújt a Dnyeszter völgyére. Az épületegyüttes orosz-bizánci stílusjegyeket visel, és négy különálló, különböző szenteknek szentelt templomot foglal magában. A szovjet idők alatti bezárást követően a kolostort 1990-ben nyitották meg újra, ma pedig aktív szerzetesi közösségnek és egy papneveldének ad otthont, amely a régió számára képez lelkészeket.",
+      ro: "Mănăstirea Noul Neamț din Chițcani este unul dintre cele mai importante centre spirituale ortodoxe din regiunea transnistreană. A fost fondată în 1861 de călugări veniți de la Mănăstirea Neamț din România, pentru a scăpa de secularizarea averilor mănăstirești. Complexul este renumit pentru impunătoarea sa clopotniță, înaltă de 69 de metri, considerată cea mai înaltă din Moldova, oferind o priveliște vastă asupra văii Nistrului. Arhitectura mănăstirii reflectă stilul ruso-bizantin și include patru biserici separate, dedicate diferiților sfinți. După o perioadă de închidere în epoca sovietică, mănăstirea a fost redeschisă în 1990 și găzduiește astăzi o comunitate activă de călugări și un seminar teologic care pregătește clerici pentru regiune.",
+      en: "The Noul Neamț Monastery in Chițcani is one of the most important Orthodox spiritual centers in the Transnistria region. It was founded in 1861 by monks who came from the Neamț Monastery in Romania to escape the secularization of monastic properties. The complex is renowned for its impressive 69-meter-high bell tower, considered the tallest in Moldova, which offers expansive views over the Dniester valley. The monastery's architecture reflects the Russian-Byzantine style and includes four separate churches dedicated to different saints. After a period of closure during the Soviet era, the monastery was reopened in 1990 and today houses an active monastic community and a theological seminary that trains clergy for the region."
+    },
+    factsAdvanced: {
+        de: ["Gegründet 1861 von Mönchen aus dem Neamț-Kloster.", "Der 69 Meter hohe Glockenturm ist der höchste in Moldawien.", "Der Komplex umfasst vier separate Kirchen.", "War während der Sowjetzeit geschlossen und wurde 1990 wiedereröffnet.", "Beherbergt ein Priesterseminar.", "Architektur im russisch-byzantinischen Stil.", "Liegt im Dorf Chițcani am Dnister."],
+        hu: ["1861-ben alapították a Neamț-kolostor szerzetesei.", "A 69 méter magas harangtorony a legmagasabb Moldovában.", "A komplexum négy különálló templomból áll.", "A szovjet korszakban bezárták, 1990-ben nyitották meg újra.", "Papnevelde is működik benne.", "Orosz-bizánci építészeti stílus jellemzi.", "Chițcani faluban, a Dnyeszter partján található."],
+        ro: ["Fondată în 1861 de călugări de la Mănăstirea Neamț.", "Clopotnița de 69 de metri este cea mai înaltă din Moldova.", "Complexul include patru biserici separate.", "A fost închisă în perioada sovietică și redeschisă în 1990.", "Găzduiește un seminar teologic.", "Arhitectură în stil ruso-bizantin.", "Situată în satul Chițcani, pe malul Nistrului."],
+        en: ["Founded in 1861 by monks from Neamț Monastery.", "The 69-meter bell tower is the tallest in Moldova.", "The complex includes four separate churches.", "Was closed during the Soviet era and reopened in 1990.", "It hosts a theological seminary.", "Architecture is in the Russian-Byzantine style.", "Located in the village of Chițcani on the Dniester river."]
+    }
   },
   {
     id: "moldova-chisinau-circus-landmarks-v2",
@@ -892,6 +879,18 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Opened in 1981", "Seating capacity of 1,900", "Architect was Semyon Shoikhet", "Soviet Brutalist architectural style"],
     },
     imageHint: "Chisinau Circus brutalist building exterior",
+    descriptionAdvanced: {
+      de: "Der Zirkus von Chișinău, 1981 eröffnet, ist ein herausragendes Beispiel der Architektur des sowjetischen Brutalismus. Entworfen von den Architekten Semyon Shoikhet und Ala Kirilenko, war das Gebäude einst eine der führenden Unterhaltungsstätten der UdSSR, bekannt für seine hochmoderne Akustik und Beleuchtung. Die Arena bot Platz für 1.900 Zuschauer und war für ihre Vielseitigkeit bekannt, die es ermöglichte, sowohl traditionelle Zirkusnummern als auch Wasser-Ballette aufzuführen. Das skulpturale Relief an der Fassade, das Clowns und Akrobaten darstellt, unterstreicht die verspielte Funktion des monumentalen Baus. Nach Jahren des Verfalls wurde das Gebäude teilweise renoviert und beherbergt heute wieder gelegentlich Veranstaltungen, bleibt aber ein starkes Symbol für die architektonischen Ambitionen der späten Sowjetzeit.",
+      hu: "Az 1981-ben megnyitott Kisinyovi Cirkusz a szovjet brutalista építészet kiemelkedő példája. A Semyon Shoikhet és Ala Kirilenko által tervezett épület egykor a Szovjetunió egyik vezető szórakoztató központja volt, amely a legmodernebb akusztikájáról és világításáról volt híres. Az aréna 1900 néző befogadására volt alkalmas, és sokoldalúságáról volt ismert, lehetővé téve a hagyományos cirkuszi számok és a vízi balettek bemutatását is. A homlokzaton található, bohócokat és akrobatákat ábrázoló szobrászati dombormű a monumentális épület játékos funkcióját hangsúlyozza. Az évekig tartó pusztulás után az épületet részben felújították, és ma már alkalmanként újra otthont ad rendezvényeknek, de továbbra is a késő szovjet korszak építészeti ambícióinak erőteljes szimbóluma marad.",
+      ro: "Circul din Chișinău, inaugurat în 1981, este un exemplu remarcabil al arhitecturii brutalismului sovietic. Proiectat de arhitecții Semion Șoihet și Ala Kirilenko, clădirea a fost una dintre cele mai importante arene de divertisment din URSS, renumită pentru acustica și sistemul de iluminat de ultimă generație. Arena avea o capacitate de 1.900 de spectatori și era cunoscută pentru versatilitatea sa, permițând atât spectacole de circ tradiționale, cât și balet pe apă. Relieful sculptural de pe fațadă, reprezentând clovni și acrobați, subliniază funcția ludică a edificiului monumental. După ani de degradare, clădirea a fost parțial renovată și găzduiește ocazional evenimente, rămânând un simbol puternic al ambițiilor arhitecturale din perioada sovietică târzie.",
+      en: "The Chișinău Circus, opened in 1981, is an outstanding example of Soviet Brutalist architecture. Designed by architects Semyon Shoikhet and Ala Kirilenko, the building was once one of the leading entertainment venues in the USSR, renowned for its state-of-the-art acoustics and lighting. The arena had a capacity of 1,900 spectators and was known for its versatility, allowing for both traditional circus acts and water ballets. The sculptural relief on the facade, depicting clowns and acrobats, emphasizes the playful function of the monumental structure. After years of decay, the building has been partially renovated and now occasionally hosts events, but it remains a powerful symbol of the architectural ambitions of the late Soviet era."
+    },
+    factsAdvanced: {
+          de: ["Eröffnet am 25. April 1981.", "Architekten: Semyon Shoikhet und Ala Kirilenko.", "Kapazität für 1.900 Zuschauer.", "Galt als viertbester Zirkus der UdSSR.", "Stil: Sowjetischer Brutalismus.", "Fassade verziert mit Akrobaten-Reliefs.", "Verfügte über eine wandelbare Wasserarena.", "Eine kleinere Arena wurde 2014 wiedereröffnet."],
+          hu: ["1981. április 25-én nyílt meg.", "Tervezők: Szemjon Sojhet és Ala Kirilenko.", "Nézőtér kapacitása: 1900 fő.", "A Szovjetunió negyedik legjobb cirkuszának számított.", "Stílus: szovjet brutalizmus.", "Homlokzatát akrobata domborművek díszítik.", "Átalakítható vízi arénával rendelkezett.", "2014-ben egy kisebb arénát újra megnyitottak."],
+          ro: ["Inaugurat la 25 aprilie 1981.", "Arhitecți: Semion Șoihet și Ala Kirilenko.", "Capacitate de 1.900 de spectatori.", "Considerat al patrulea cel mai bun circ din URSS.", "Stil: brutalism sovietic.", "Fațadă decorată cu reliefuri de acrobați.", "Dispunea de o arenă transformabilă în bazin acvatic.", "O arenă mai mică a fost redeschisă în 2014."],
+          en: ["Opened on April 25, 1981.", "Architects: Semyon Shoikhet and Ala Kirilenko.", "Seating capacity of 1,900.", "Considered the fourth best circus in the USSR.", "Style: Soviet Brutalism.", "Facade decorated with acrobat reliefs.", "Featured a convertible water arena.", "A smaller arena was reopened in 2014."]
+    }
   },
   {
     id: "moldova-ciuflea-monastery-landmarks-v2",
@@ -912,6 +911,18 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Built between 1854 and 1858", "Russian Eclectic architectural style", "Funded by the Ciufli brothers", "Located in the city center"],
     },
     imageHint: "Ciuflea Monastery Chisinau blue church with gold domes",
+    descriptionAdvanced: {
+      de: "Das Ciuflea-Kloster, offiziell die Kathedrale des Heiligen Großmärtyrers Theodor Tiron, ist ein markantes Wahrzeichen von Chișinău mit seinen leuchtend blauen Kuppeln und goldenen Sternen. Es wurde zwischen 1854 und 1858 erbaut und von den wohlhabenden mazedo-rumänischen Brüdern Teodor und Anastasie Ciufli finanziert. Die Architektur ist ein Beispiel des russischen Eklektizismus mit starken byzantinischen Einflüssen. Ursprünglich als Pfarrkirche konzipiert, wurde sie 2002 in den Rang eines Klosters erhoben und dient heute als wichtige spirituelle Stätte für die orthodoxe Gemeinschaft der Stadt. Der Kontrast zwischen den blauen Mauern und den vergoldeten Zwiebeltürmen macht es zu einem der fotogensten Sakralbauten in der moldauischen Hauptstadt.",
+      hu: "A Ciuflea-kolostor, hivatalos nevén Szent Theodor Tiron nagyvértanú székesegyháza, Kisinyov egyik jellegzetes épülete élénk kék kupoláival és arany csillagaival. 1854 és 1858 között épült a gazdag macedo-román testvérek, Teodor és Anastasie Ciufli finanszírozásával. Az építészet az orosz eklektika példája, erős bizánci hatásokkal. Eredetileg plébániatemplomnak tervezték, 2002-ben emelték kolostori rangra, és ma a város ortodox közösségének fontos spirituális helyszíne. A kék falak és az aranyozott hagymakupolák kontrasztja a moldovai főváros egyik legfotogénebb szakrális épületévé teszi.",
+      ro: "Mănăstirea Ciuflea, cu hramul Sfântul Mare Mucenic Teodor Tiron, este un punct de reper distinctiv în Chișinău, cu cupolele sale de un albastru vibrant și stele aurii. A fost construită între anii 1854 și 1858, fiind finanțată de frații aromâni Teodor și Anastasie Ciufli. Arhitectura este un exemplu de eclectism rusesc, cu puternice influențe bizantine. Concepută inițial ca biserică de enorie, a fost ridicată la rang de mănăstire în 2002 și servește astăzi ca un important centru spiritual pentru comunitatea ortodoxă din oraș. Contrastul dintre zidurile albastre și turlele aurite o transformă într-una dintre cele mai fotogenice clădiri de cult din capitala Moldovei.",
+      en: "Ciuflea Monastery, officially the Cathedral of Saint Great Martyr Theodore Tiron, is a distinctive landmark in Chișinău with its vibrant blue domes and golden stars. It was built between 1854 and 1858, funded by the wealthy Macedo-Romanian brothers Teodor and Anastasie Ciufli. The architecture is an example of Russian Eclecticism with strong Byzantine influences. Originally designed as a parish church, it was elevated to the status of a monastery in 2002 and now serves as an important spiritual site for the city's Orthodox community. The contrast between the blue walls and the gilded onion domes makes it one of the most photogenic religious buildings in the Moldovan capital."
+    },
+    factsAdvanced: {
+          de: ["Erbaut zwischen 1854 und 1858.", "Finanziert von den Brüdern Teodor und Anastasie Ciufli.", "Stil: Russischer Eklektizismus.", "Gewidmet dem Heiligen Theodor Tiron.", "Wurde 2002 zu einem Kloster.", "Bekannt für seine acht goldenen Kuppeln.", "Markante blaue Farbe symbolisiert den Himmel.", "Liegt an einer belebten Kreuzung in Chișinău."],
+          hu: ["1854 és 1858 között épült.", "A Ciufli testvérek finanszírozták.", "Stílus: orosz eklektika.", "Szent Theodor Tironnak szentelték.", "2002-ben lett kolostor.", "Nyolc aranykupolájáról ismert.", "Jellegzetes kék színe az eget szimbolizálja.", "Kisinyov egyik forgalmas kereszteződésében található."],
+          ro: ["Construită între 1854 și 1858.", "Finanțată de frații Teodor și Anastasie Ciufli.", "Stil: eclectism rusesc.", "Hramul: Sfântul Teodor Tiron.", "A devenit mănăstire în 2002.", "Renumită pentru cele opt cupole aurite.", "Culoarea albastră distinctivă simbolizează cerul.", "Situată la o intersecție aglomerată din Chișinău."],
+          en: ["Built between 1854 and 1858.", "Funded by the brothers Teodor and Anastasie Ciufli.", "Style: Russian Eclecticism.", "Dedicated to Saint Theodore Tiron.", "Became a monastery in 2002.", "Known for its eight golden domes.", "Distinctive blue color symbolizes the sky.", "Located at a busy intersection in Chișinău."]
+    }
   },
   {
     id: "moldova-candle-of-gratitude-landmarks-v2",
@@ -932,6 +943,18 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Height of 29.5 meters", "Inaugurated in March 2004", "600 steps lead up to it", "Based on an idea by Ion Druță"],
     },
     imageHint: "Lumânarea Recunoștinței Soroca monument on hill",
+    descriptionAdvanced: {
+      de: "Die „Kerze der Dankbarkeit“ ist ein monumentales Denkmal, das hoch über dem Fluss Dnister in der Nähe von Soroca thront. Es wurde auf Initiative des berühmten moldauischen Schriftstellers Ion Druță errichtet und im Jahr 2004 eingeweiht. Das Denkmal hat die Form einer riesigen Kerze und symbolisiert die Anerkennung für alle unbekannten Helden, die die Kultur, Sprache und Geschichte Moldawiens über die Jahrhunderte bewahrt haben. Besucher müssen einen Aufstieg über rund 600 Stufen bewältigen, um die Spitze des Hügels zu erreichen, wo sie mit einer spektakulären Panoramaaussicht belohnt werden. Im Inneren der kapellenartigen Basis befindet sich eine Hommage an die reiche literarische und folkloristische Tradition des Landes. Das Denkmal ist zu einem nationalen Symbol der Hoffnung und des kulturellen Fortbestands geworden.",
+      hu: "„A Hála Gyertyája” egy monumentális emlékmű, amely magasan a Dnyeszter folyó felett tornyosul Soroca közelében. A híres moldáv író, Ion Druță kezdeményezésére épült, és 2004-ben avatták fel. Az emlékmű egy hatalmas gyertya alakját formázza, és mindazon ismeretlen hősök iránti elismerést szimbolizálja, akik évszázadokon át megőrizték Moldova kultúráját, nyelvét és történelmét. A látogatóknak mintegy 600 lépcsőfokot kell megmászniuk, hogy elérjék a domb tetejét, ahol látványos panoráma jutalmazza őket. A kápolnaszerű alap belsejében az ország gazdag irodalmi és folklór hagyományai előtt tisztelegnek. Az emlékmű a remény és a kulturális fennmaradás nemzeti szimbólumává vált.",
+      ro: "„Lumânarea Recunoștinței” este un monument impunător, înălțat pe o stâncă deasupra fluviului Nistru, lângă Soroca. A fost ridicat la inițiativa celebrului scriitor moldovean Ion Druță și inaugurat în 2004. Monumentul are forma unei lumânări uriașe și simbolizează recunoștința pentru toți eroii anonimi care au păstrat cultura, limba și istoria Moldovei de-a lungul secolelor. Vizitatorii trebuie să urce aproximativ 600 de trepte pentru a ajunge în vârful dealului, unde sunt recompensați cu o priveliște panoramică spectaculoasă. În interiorul bazei, asemănătoare unei capele, se aduce un omagiu bogatei tradiții literare și folclorice a țării. Monumentul a devenit un simbol național al speranței și al continuității culturale.",
+      en: "The 'Candle of Gratitude' is a monumental memorial perched high above the Dniester River near Soroca. It was erected on the initiative of the famous Moldovan writer Ion Druță and inaugurated in 2004. The monument takes the form of a giant candle, symbolizing appreciation for all the unknown heroes who have preserved Moldova's culture, language, and history throughout the centuries. Visitors must climb approximately 600 steps to reach the top of the hill, where they are rewarded with a spectacular panoramic view. Inside the chapel-like base, there is a tribute to the country's rich literary and folkloric tradition. The monument has become a national symbol of hope and cultural continuity."
+    },
+    factsAdvanced: {
+          de: ["Initiiert vom Schriftsteller Ion Druță.", "Eingeweiht im Jahr 2004.", "Höhe: 29,5 Meter.", "Ca. 600 Stufen führen zum Denkmal.", "Symbolisiert Dankbarkeit gegenüber den Bewahrern der Kultur.", "Bietet Panoramablick auf den Dnister.", "Stellt eine riesige Kerze dar.", "In der Nähe der Stadt Soroca gelegen."],
+          hu: ["Ion Druță író kezdeményezte.", "2004-ben avatták fel.", "Magassága 29,5 méter.", "Kb. 600 lépcső vezet fel hozzá.", "A kultúra megőrzői iránti hálát szimbolizálja.", "Panorámás kilátást nyújt a Dnyeszterre.", "Egy hatalmas gyertyát formáz.", "Soroca városa közelében található."],
+          ro: ["Inițiat de scriitorul Ion Druță.", "Inaugurat în anul 2004.", "Înălțime: 29,5 metri.", "Aproximativ 600 de trepte duc la monument.", "Simbolizează recunoștința față de păstrătorii culturii.", "Oferă o vedere panoramică asupra Nistrului.", "Reprezintă o lumânare uriașă.", "Situat lângă orașul Soroca."],
+          en: ["Initiated by writer Ion Druță.", "Inaugurated in 2004.", "Height: 29.5 meters.", "Approx. 600 steps lead to the monument.", "Symbolizes gratitude to the preservers of culture.", "Offers a panoramic view of the Dniester River.", "Represents a giant candle.", "Located near the city of Soroca."]
+    }
   },
   {
     id: "moldova-st-teodora-de-la-sihla-landmarks-v2",
@@ -952,12 +975,24 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Built in 1895", "Designed by architect Alexander Bernardazzi", "Byzantine architectural style", "Originally a chapel for a girls' gymnasium"],
     },
     imageHint: "Sfanta Teodora de la Sihla church Chisinau architecture",
+    descriptionAdvanced: {
+      de: "Die Kirche St. Teodora de la Sihla im Herzen von Chișinău ist ein architektonisches Meisterwerk, das Ende des 19. Jahrhunderts vom berühmten Architekten Alexandru Bernardazzi entworfen wurde. Das Gebäude, ursprünglich als Kapelle für das örtliche Mädchengymnasium erbaut, besticht durch seinen neobyzantinischen Stil mit eleganten Steinfassaden und kunstvollen Verzierungen. Die Kirche wurde nach der Heiligen Teodora de la Sihla benannt, einer rumänischen Asketin aus dem 17. Jahrhundert. Nach der Restaurierung wurde sie zu einer wichtigen Pfarrkirche und ist heute für ihre feierliche Atmosphäre und ihre hervorragende Akustik bekannt. Ihre zentrale Lage und die beeindruckende Architektur machen sie zu einem beliebten Ort für Gottesdienste und zu einem bedeutenden historischen Denkmal der moldauischen Hauptstadt.",
+      hu: "A Szent Teodora de la Sihla-templom Kisinyov szívében egy építészeti remekmű, amelyet a 19. század végén a híres építész, Alexandru Bernardazzi tervezett. Az eredetileg a helyi leánygimnázium kápolnájaként épült épület neobizánci stílusával, elegáns kőhomlokzatával és művészi díszítésével tűnik ki. A templomot Szent Teodora de la Sihla-ról, egy 17. századi román aszkétáról nevezték el. A helyreállítás után fontos plébániatemplommá vált, ma pedig ünnepélyes hangulatáról és kiváló akusztikájáról ismert. Központi elhelyezkedése és lenyűgöző építészete népszerűvé teszi az istentiszteletek számára, és a moldovai főváros jelentős történelmi emlékműve.",
+      ro: "Biserica Sfânta Teodora de la Sihla, situată în inima Chișinăului, este o capodoperă arhitecturală proiectată la sfârșitul secolului al XIX-lea de renumitul arhitect Alexandru Bernardazzi. Clădirea, construită inițial drept capelă pentru gimnaziul de fete din localitate, impresionează prin stilul său neobizantin, cu fațade elegante din piatră și decorațiuni artistice. Biserica a fost numită după Sfânta Teodora de la Sihla, o ascetă româncă din secolul al XVII-lea. După restaurare, a devenit o importantă biserică parohială și este astăzi cunoscută pentru atmosfera sa solemnă și acustica excelentă. Amplasarea sa centrală și arhitectura impresionantă o fac un loc popular pentru slujbe și un monument istoric important al capitalei Republicii Moldova.",
+      en: "The Church of St. Teodora de la Sihla, located in the heart of Chișinău, is an architectural masterpiece designed in the late 19th century by the famous architect Alexandru Bernardazzi. The building, originally constructed as a chapel for the local girls' gymnasium, stands out with its Neo-Byzantine style, elegant stone facades, and artistic decorations. The church was named after Saint Teodora de la Sihla, a 17th-century Romanian ascetic. After its restoration, it became an important parish church and is now known for its solemn atmosphere and excellent acoustics. Its central location and impressive architecture make it a popular place for worship and a significant historical monument in the Moldovan capital."
+    },
+    factsAdvanced: {
+          de: ["Entworfen von Architekt Alexandru Bernardazzi.", "Erbaut im Jahr 1895.", "Stil: Neobyzantinisch.", "Ursprünglich Kapelle eines Mädchengymnasiums.", "Benannt nach der Heiligen Teodora de la Sihla.", "Befindet sich im Zentrum von Chișinău.", "Umfassend restauriert und als Pfarrkirche wiedereröffnet.", "Bekannt für detaillierte Steinschnitzereien."],
+          hu: ["Alexandru Bernardazzi építész tervezte.", "1895-ben épült.", "Stílus: neobizánci.", "Eredetileg egy leánygimnázium kápolnája volt.", "Szent Teodora de la Sihla nevét viseli.", "Kisinyov központjában található.", "Teljeskörűen felújították és plébániatemplomként nyitották meg újra.", "Részletes kőfaragásairól ismert."],
+          ro: ["Proiectată de arhitectul Alexandru Bernardazzi.", "Construită în anul 1895.", "Stil: neobizantin.", "Inițial capela unui gimnaziu de fete.", "Numită după Sfânta Teodora de la Sihla.", "Situată în centrul Chișinăului.", "Restaurată complet și redeschisă ca biserică parohială.", "Renumită pentru sculpturile detaliate în piatră."],
+          en: ["Designed by architect Alexandru Bernardazzi.", "Built in 1895.", "Style: Neo-Byzantine.", "Originally the chapel of a girls' gymnasium.", "Named after Saint Teodora de la Sihla.", "Located in the center of Chișinău.", "Comprehensively restored and reopened as a parish church.", "Known for its detailed stone carvings."]
+    }
   },
   {
     id: "moldova-mihai-eminescu-theatre-landmarks-v2",
     parent: "MD",
     type: "theater",
-    name: { de: "Nationaltheater \"Mihai Eminescu\"", hu: "Mihai Eminescu Nemzeti Színház", ro: "Teatrul Național \"Mihai Eminescu\"", en: "National Theatre \"Mihai Eminescu\"" },
+    name: { de: "Nationaltheater \"Mihai Eminescu\"", hu: "Mihai Eminescu Nemzeti Sz�nh�z", ro: "Teatrul Na?ional \"Mihai Eminescu\"", en: "National Theatre \"Mihai Eminescu\"" },
     coordinates: { lat: 47.0232, lng: 28.8375 },
     description: {
       de: "Ein prächtiges Gebäude des Neoklassizismus im Herzen von Chișinău. Es ist die führende Bühne für rumänischsprachige Theaterkunst in Moldawien.",
@@ -972,6 +1007,18 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Founded in 1921", "The building was completed in 1954", "Soviet Neoclassical architectural style", "Named after the poet Mihai Eminescu"],
     },
     imageHint: "Mihai Eminescu National Theatre Chisinau exterior",
+    descriptionAdvanced: {
+      de: "Das Nationaltheater „Mihai Eminescu“ in Chișinău ist die führende Institution für rumänischsprachige Schauspielkunst in Moldawien. Das heutige Gebäude wurde zwischen 1949 und 1954 im Stil des sowjetischen Neoklassizismus errichtet und ersetzte das im Zweiten Weltkrieg zerstörte Theater. Benannt nach dem rumänischen Nationaldichter Mihai Eminescu, hat das Theater eine reiche Geschichte, die bis ins Jahr 1921 zurückreicht. Die monumentale Fassade mit ihren massiven Säulen und dem klassischen Portikus dominiert den Platz im Stadtzentrum. Im Inneren bietet der prunkvolle Saal Platz für Hunderte von Zuschauern. Das Theater spielt eine entscheidende Rolle bei der Förderung der nationalen Identität und der rumänischen Sprache durch sein vielfältiges Repertoire an klassischen und modernen Stücken.",
+      hu: "A kisinyovi „Mihai Eminescu” Nemzeti Színház a román nyelvű színművészet vezető intézménye Moldovában. A mai épület 1949 és 1954 között épült a szovjet neoklasszicizmus stílusában, a második világháborúban elpusztult színházat helyettesítve. A román nemzeti költőről, Mihai Eminescuról elnevezett színház gazdag, 1921-ig visszanyúló történelemmel rendelkezik. A monumentális homlokzat masszív oszlopaival és klasszikus portikuszával uralja a városközpont terét. Belül a pazar terem több száz nézőt tud befogadni. A színház döntő szerepet játszik a nemzeti identitás és a román nyelv ápolásában a klasszikus és modern darabokból álló változatos repertoárja révén.",
+      ro: "Teatrul Național „Mihai Eminescu” din Chișinău este principala instituție a artei dramatice de limbă română din Republica Moldova. Clădirea actuală a fost construită între 1949 și 1954 în stilul neoclasicismului sovietic, înlocuind teatrul distrus în al Doilea Război Mondial. Numit după poetul național român Mihai Eminescu, teatrul are o istorie bogată ce datează din 1921. Fațada monumentală, cu coloanele sale masive și porticul clasic, domină piața din centrul orașului. În interior, sala somptuoasă poate găzdui sute de spectatori. Teatrul joacă un rol crucial în promovarea identității naționale și a limbii române prin repertoriul său variat de piese clasice și moderne.",
+      en: "The 'Mihai Eminescu' National Theatre in Chișinău is the leading institution for Romanian-language dramatic art in Moldova. The current building was constructed between 1949 and 1954 in the Soviet Neoclassical style, replacing the theatre destroyed in World War II. Named after the Romanian national poet Mihai Eminescu, the theatre has a rich history dating back to 1921. The monumental facade, with its massive columns and classical portico, dominates the square in the city center. Inside, the lavish hall can accommodate hundreds of spectators. The theatre plays a crucial role in promoting national identity and the Romanian language through its diverse repertoire of classical and modern plays."
+    },
+    factsAdvanced: {
+          de: ["Die Theatertruppe wurde 1921 gegründet.", "Das aktuelle Gebäude wurde 1954 fertiggestellt.", "Architektur im Stil des sowjetischen Neoklassizismus.", "Benannt nach dem Dichter Mihai Eminescu.", "Führende Bühne für rumänisches Theater in Moldawien.", "Befindet sich am Ștefan-cel-Mare-Boulevard.", "Nach dem Zweiten Weltkrieg wiederaufgebaut.", "Spielt eine zentrale Rolle im Kulturleben der Hauptstadt."],
+          hu: ["A társulatot 1921-ben alapították.", "A jelenlegi épület 1954-ben készült el.", "Szovjet neoklasszicista építészeti stílus.", "Mihai Eminescu költőről nevezték el.", "A román nyelvű színházművészet vezető színpada Moldovában.", "A Ștefan cel Mare sugárúton található.", "A második világháború után épült újjá.", "Központi szerepet játszik a főváros kulturális életében."],
+          ro: ["Trupa de teatru a fost fondată în 1921.", "Clădirea actuală a fost finalizată în 1954.", "Arhitectură în stilul neoclasicismului sovietic.", "Numit după poetul Mihai Eminescu.", "Scena principală pentru teatrul în limba română din Moldova.", "Situat pe bulevardul Ștefan cel Mare.", "Reconstruit după al Doilea Război Mondial.", "Joacă un rol central în viața culturală a capitalei."],
+          en: ["The theatre troupe was founded in 1921.", "The current building was completed in 1954.", "Soviet Neoclassical architectural style.", "Named after the poet Mihai Eminescu.", "Leading stage for Romanian-language theatre in Moldova.", "Located on Ștefan cel Mare Boulevard.", "Rebuilt after World War II.", "Plays a central role in the capital's cultural life."]
+    }
   },
   {
     id: "moldova-balti-cathedral-landmarks-v2",
@@ -992,5 +1039,17 @@ image: "/poi-images/moldova-besalma-museum-landmarks-v2.webp"
       en: ["Built between 1924 and 1934", "Neo-Byzantine architectural style", "Largest church in Bălți", "Consecrated in 1935"],
     },
     imageHint: "Cathedral of Saints Constantine and Helen Balti Moldova",
+    descriptionAdvanced: {
+      de: "Die Kathedrale der Heiligen Konstantin und Helena ist das wichtigste orthodoxe Gotteshaus in Bălți, der zweitgrößten Stadt Moldawiens. Sie wurde zwischen 1924 und 1934 erbaut, in einer Zeit, als die Region zu Großrumänien gehörte. Die Architektur ist im neobyzantinischen Stil gehalten, der für rumänische Kirchen dieser Epoche charakteristisch ist, mit monumentalen Kuppeln und aufwendigen Fassadendetails. Die Kathedrale wurde von den Architekten Adrian Gabrielescu und Andrei Ivanov entworfen und 1935 geweiht. Als eines der bedeutendsten religiösen und architektonischen Denkmäler im Norden des Landes, dient sie als Bischofssitz der Diözese Bălți und Fălești. Ihre imposante Erscheinung dominiert das Stadtzentrum und ist ein Symbol für den orthodoxen Glauben und die rumänische Kultur in der Region.",
+      hu: "A Szent Konstantin és Ilona-székesegyház Bălți, Moldova második legnagyobb városának legfontosabb ortodox temploma. 1924 és 1934 között épült, abban az időszakban, amikor a régió Nagy-Románia része volt. Az építészet a neobizánci stílust követi, amely a korszak román templomaira jellemző, monumentális kupolákkal és bonyolult homlokzati részletekkel. A székesegyházat Adrian Gabrielescu és Andrei Ivanov építészek tervezték, és 1935-ben szentelték fel. Az ország északi részének egyik legjelentősebb vallási és építészeti emlékmékeként a Bălți és Fălești egyházmegye püspöki székhelyéül szolgál. Impozáns megjelenése uralja a városközpontot, és az ortodox hit és a román kultúra szimbóluma a régióban.",
+      ro: "Catedrala Sfinții Împărați Constantin și Elena este principalul lăcaș de cult ortodox din Bălți, al doilea oraș ca mărime din Moldova. A fost construită între anii 1924 și 1934, într-o perioadă în care regiunea făcea parte din România Mare. Arhitectura este în stil neobizantin, caracteristic bisericilor românești din acea epocă, cu cupole monumentale și detalii elaborate pe fațadă. Catedrala a fost proiectată de arhitecții Adrian Gabrielescu și Andrei Ivanov și sfințită în 1935. Fiind unul dintre cele mai importante monumente religioase și arhitecturale din nordul țării, servește drept sediu episcopal al Episcopiei de Bălți și Fălești. Aspectul său impunător domină centrul orașului și este un simbol al credinței ortodoxe și al culturii românești din regiune.",
+      en: "The Cathedral of Saints Constantine and Helen is the most important Orthodox place of worship in Bălți, the second-largest city in Moldova. It was built between 1924 and 1934, during a period when the region was part of Greater Romania. The architecture is in the Neo-Byzantine style, characteristic of Romanian churches of that era, with monumental domes and elaborate facade details. The cathedral was designed by architects Adrian Gabrielescu and Andrei Ivanov and consecrated in 1935. As one of the most significant religious and architectural monuments in the north of the country, it serves as the episcopal seat of the Diocese of Bălți and Fălești. Its imposing appearance dominates the city center and is a symbol of the Orthodox faith and Romanian culture in the region."
+    },
+    factsAdvanced: {
+          de: ["Erbaut zwischen 1924 und 1934.", "Architekten: Adrian Gabrielescu, Andrei Ivanov.", "Stil: Neorumänisch/Neobyzantinisch.", "Geweiht im Jahr 1935.", "Hauptkathedrale der Stadt Bălți.", "Sitz der Diözese Bălți und Fălești.", "Wichtiges Denkmal in Nordmoldawien.", "Dominiert das Stadtbild von Bălți."],
+          hu: ["1924 és 1934 között épült.", "Tervezők: Adrian Gabrielescu, Andrei Ivanov.", "Stílus: neoromán/neobizánci.", "1935-ben szentelték fel.", "Bălți város fő katedrálisa.", "A Bălți és Fălești egyházmegye székhelye.", "Észak-Moldova fontos műemléke.", "Meghatározza Bălți városképét."],
+          ro: ["Construită între 1924 și 1934.", "Arhitecți: Adrian Gabrielescu, Andrei Ivanov.", "Stil: neoromânesc/neobizantin.", "Sfințită în anul 1935.", "Catedrala principală din orașul Bălți.", "Sediul Episcopiei de Bălți și Fălești.", "Monument important în nordul Moldovei.", "Domină peisajul urban din Bălți."],
+          en: ["Built between 1924 and 1934.", "Architects: Adrian Gabrielescu, Andrei Ivanov.", "Style: Neo-Romanian/Neo-Byzantine.", "Consecrated in 1935.", "Main cathedral of the city of Bălți.", "Seat of the Diocese of Bălți and Fălești.", "Important monument in northern Moldova.", "Dominates the cityscape of Bălți."]
+    }
   }
 ];

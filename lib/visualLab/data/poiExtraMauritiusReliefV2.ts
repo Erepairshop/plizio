@@ -11,9 +11,8 @@ export const poiExtraMauritiusReliefV2: POI[] = [
       de: "Piton de la Petite Rivière Noire",
       hu: "Piton de la Petite Rivière Noire",
       ro: "Piton de la Petite Rivière Noire",
-      en: "Piton de la Petite Rivière Noire",
-image: "/poi-images/piton-de-la-petite-riviere-noire-relief-v2.webp"
-},
+      en: "Piton de la Petite Rivière Noire"},
+    image: "/poi-images/piton-de-la-petite-riviere-noire-relief-v2.webp",
     description: {
       de: "Der höchste Gipfel von Mauritius bietet einen atemberaubenden Rundblick über die Insel und ist Teil des Black River Gorges Nationalparks.",
       hu: "Mauritius legmagasabb csúcsa, amely lélegzetelállító körpanorámát kínál a szigetre, és a Black River Gorges Nemzeti Park része.",
@@ -48,9 +47,8 @@ image: "/poi-images/piton-de-la-petite-riviere-noire-relief-v2.webp"
       de: "Pieter Both Berg",
       hu: "Pieter Both-hegy",
       ro: "Muntele Pieter Both",
-      en: "Pieter Both Mountain",
-image: "/poi-images/pieter-both-relief-v2.webp"
-},
+      en: "Pieter Both Mountain"},
+    image: "/poi-images/pieter-both-relief-v2.webp",
     description: {
       de: "Ein ikonischer Berg, der für den riesigen, balancierenden Felsbrocken an seinem Gipfel bekannt ist, der einem menschlichen Kopf ähnelt.",
       hu: "Ikonikus hegy, amely a csúcsán egyensúlyozó hatalmas szikláról ismert, amely egy emberi fejre emlékeztet.",
@@ -85,9 +83,8 @@ image: "/poi-images/pieter-both-relief-v2.webp"
       de: "Le Pouce",
       hu: "Le Pouce (Hüvelykujj-hegy)",
       ro: "Le Pouce",
-      en: "Le Pouce Mountain",
-image: "/poi-images/le-pouce-relief-v2.webp"
-},
+      en: "Le Pouce Mountain"},
+    image: "/poi-images/le-pouce-relief-v2.webp",
     description: {
       de: "Dieser Berg hat die Form eines Daumens und bietet einen der besten Panoramablicke auf Port Louis und den Norden der Insel.",
       hu: "Ez a hegy hüvelykujj alakú, és az egyik legjobb panorámát nyújtja Port Louis-ra és a sziget északi részére.",
@@ -122,9 +119,8 @@ image: "/poi-images/le-pouce-relief-v2.webp"
       de: "Trou aux Cerfs",
       hu: "Trou aux Cerfs",
       ro: "Trou aux Cerfs",
-      en: "Trou aux Cerfs",
-image: "/poi-images/trou-aux-cerfs-relief-v2.webp"
-},
+      en: "Trou aux Cerfs"},
+    image: "/poi-images/trou-aux-cerfs-relief-v2.webp",
     description: {
       de: "Ein schlafender Vulkankrater in Curepipe, der heute mit dichtem Wald bedeckt ist und einen kleinen See in seiner Mitte birgt.",
       hu: "Egy Curepipe-ben található alvó vulkáni kráter, amelyet ma sűrű erdő borít, közepén pedig egy kis tó található.",
@@ -159,9 +155,8 @@ image: "/poi-images/trou-aux-cerfs-relief-v2.webp"
       de: "Siebenfarbige Erde von Chamarel",
       hu: "Chamareli hétszínű föld",
       ro: "Pământul celor șapte culori din Chamarel",
-      en: "Seven Coloured Earths of Chamarel",
-image: "/poi-images/chamarel-seven-coloured-earths-relief-v2.webp"
-},
+      en: "Seven Coloured Earths of Chamarel"},
+    image: "/poi-images/chamarel-seven-coloured-earths-relief-v2.webp",
     description: {
       de: "Ein geologisches Phänomen aus Dünen in sieben verschiedenen Farben, das durch die Umwandlung von Basaltlava in Tonminerale entstand.",
       hu: "Hét különböző színű dűnékből álló geológiai jelenség, amely a bazaltláva agyagásványokká történő átalakulásával jött létre.",
@@ -196,9 +191,8 @@ image: "/poi-images/chamarel-seven-coloured-earths-relief-v2.webp"
       de: "Grand Bassin (Ganga Talao)",
       hu: "Grand Bassin (Ganga Talao)",
       ro: "Grand Bassin (Ganga Talao)",
-      en: "Grand Bassin (Ganga Talao)",
-image: "/poi-images/grand-bassin-relief-v2.webp"
-},
+      en: "Grand Bassin (Ganga Talao)"},
+    image: "/poi-images/grand-bassin-relief-v2.webp",
     description: {
       de: "Ein Kratersee im Hochland von Mauritius, der in einem erloschenen Vulkan liegt und als heiligste hinduistische Stätte der Insel gilt.",
       hu: "Mauritius felföldjén található krátertó, amely egy kialudt vulkánban fekszik, és a sziget legszentebb hindu helyszíne.",
@@ -233,9 +227,8 @@ image: "/poi-images/grand-bassin-relief-v2.webp"
       de: "Black River Gorges Nationalpark",
       hu: "Black River Gorges Nemzeti Park",
       ro: "Parcul Național Black River Gorges",
-      en: "Black River Gorges National Park",
-image: "/poi-images/black-river-gorges-relief-v2.webp"
-},
+      en: "Black River Gorges National Park"},
+    image: "/poi-images/black-river-gorges-relief-v2.webp",
     description: {
       de: "Das größte Schutzgebiet von Mauritius bewahrt die letzten Reste des ursprünglichen Regenwaldes und spektakuläre Schluchten.",
       hu: "Mauritius legnagyobb védett területe, amely megőrzi az eredeti esőerdő utolsó maradványait és látványos szurdokait.",
@@ -270,9 +263,8 @@ image: "/poi-images/black-river-gorges-relief-v2.webp"
       de: "Le Morne Brabant",
       hu: "Le Morne Brabant",
       ro: "Le Morne Brabant",
-      en: "Le Morne Brabant",
-image: "/poi-images/le-morne-brabant-relief-v2.webp"
-},
+      en: "Le Morne Brabant"},
+    image: "/poi-images/le-morne-brabant-relief-v2.webp",
     description: {
       de: "Ein majestätischer Basaltfelsen auf einer Halbinsel im Südwesten, der als UNESCO-Welterbe und Symbol des Widerstands gegen die Sklaverei gilt.",
       hu: "Fenséges bazalthegy a délnyugati félszigeten, amely az UNESCO Világörökség része és a rabszolgaság elleni ellenállás szimbóluma.",
@@ -307,9 +299,8 @@ image: "/poi-images/le-morne-brabant-relief-v2.webp"
       de: "Corps de Garde",
       hu: "Corps de Garde",
       ro: "Corps de Garde",
-      en: "Corps de Garde",
-image: "/poi-images/corps-de-garde-relief-v2.webp"
-},
+      en: "Corps de Garde"},
+    image: "/poi-images/corps-de-garde-relief-v2.webp",
     description: {
       de: "Ein markanter Berg mit einer Silhouette, die an einen schlafenden Wachposten erinnert und die Zentralebene überragt.",
       hu: "Jellegzetes hegy, amelynek sziluettje egy alvó őrszemre emlékeztet, és a középső síkság fölé magasodik.",
@@ -344,9 +335,8 @@ image: "/poi-images/corps-de-garde-relief-v2.webp"
       de: "Signal Mountain",
       hu: "Signal Mountain",
       ro: "Muntele Signal",
-      en: "Signal Mountain",
-image: "/poi-images/signal-mountain-relief-v2.webp"
-},
+      en: "Signal Mountain"},
+    image: "/poi-images/signal-mountain-relief-v2.webp",
     description: {
       de: "Dieser Berg in Port Louis diente früher der Signalübermittlung für ankommende Schiffe und bietet heute einen einfachen Aufstieg.",
       hu: "Ez a Port Louis-i hegy korábban a beérkező hajók jelzésére szolgált, ma pedig könnyű túraútvonalat kínál.",
@@ -381,9 +371,8 @@ image: "/poi-images/signal-mountain-relief-v2.webp"
       de: "Bras d'Eau Nationalpark",
       hu: "Bras d'Eau Nemzeti Park",
       ro: "Parcul Național Bras d'Eau",
-      en: "Bras d'Eau National Park",
-image: "/poi-images/bras-deau-forest-relief-v2.webp"
-},
+      en: "Bras d'Eau National Park"},
+    image: "/poi-images/bras-deau-forest-relief-v2.webp",
     description: {
       de: "Ein Trockenwald-Nationalpark im Osten der Insel, der sich durch seine reiche Vogelwelt und Wanderwege auszeichnet.",
       hu: "Száraz erdei nemzeti park a sziget keleti részén, amely gazdag madárvilágával és túraútvonalaival tűnik ki.",
@@ -418,9 +407,8 @@ image: "/poi-images/bras-deau-forest-relief-v2.webp"
       de: "Macchabée Wald",
       hu: "Macchabée-erdő",
       ro: "Pădurea Macchabée",
-      en: "Macchabée Forest",
-image: "/poi-images/macchabee-forest-relief-v2.webp"
-},
+      en: "Macchabée Forest"},
+    image: "/poi-images/macchabee-forest-relief-v2.webp",
     description: {
       de: "Ein Teil des Hochland-Regenwaldes im Black River Gorges Park, der für seine uralten Ebenholzbäume bekannt ist.",
       hu: "A Black River Gorges Park felföldi esőerdejének része, amely ősi ébenfáiról ismert.",
@@ -455,9 +443,8 @@ image: "/poi-images/macchabee-forest-relief-v2.webp"
       de: "Plaine Champagne",
       hu: "Plaine Champagne",
       ro: "Plaine Champagne",
-      en: "Plaine Champagne",
-image: "/poi-images/plaine-champagne-relief-v2.webp"
-},
+      en: "Plaine Champagne"},
+    image: "/poi-images/plaine-champagne-relief-v2.webp",
     description: {
       de: "Das höchste Plateau von Mauritius, bekannt für seine kühleren Temperaturen und die Ernte von wilden Guaven.",
       hu: "Mauritius legmagasabb fennsíkja, amely hűvösebb hőmérsékletéről és a vadguajáva betakarításáról ismert.",
@@ -492,9 +479,8 @@ image: "/poi-images/plaine-champagne-relief-v2.webp"
       de: "Mont Limon",
       hu: "Mont Limon",
       ro: "Muntele Limon",
-      en: "Mont Limon",
-image: "/poi-images/mont-limon-relief-v2.webp"
-},
+      en: "Mont Limon"},
+    image: "/poi-images/mont-limon-relief-v2.webp",
     description: {
       de: "Der höchste Punkt der Insel Rodrigues bietet einen beeindruckenden 360-Grad-Blick auf die Lagune und das Korallenriff.",
       hu: "Rodrigues szigetének legmagasabb pontja, amely lenyűgöző 360 fokos kilátást nyújt a lagúnára és a korallzátonyra.",
@@ -529,9 +515,8 @@ image: "/poi-images/mont-limon-relief-v2.webp"
       de: "Mont Malartic",
       hu: "Mont Malartic",
       ro: "Muntele Malartic",
-      en: "Mont Malartic",
-image: "/poi-images/mont-malartic-relief-v2.webp"
-},
+      en: "Mont Malartic"},
+    image: "/poi-images/mont-malartic-relief-v2.webp",
     description: {
       de: "Der zweithöchste Gipfel von Rodrigues liegt im zentralen Gebirge und ist ein wichtiger trigonometrischer Punkt.",
       hu: "Rodrigues második legmagasabb csúcsa a központi hegységben található, és fontos geodéziai pont.",
@@ -566,9 +551,8 @@ image: "/poi-images/mont-malartic-relief-v2.webp"
       de: "Chamarel Wasserfall",
       hu: "Chamarel-vízesés",
       ro: "Cascada Chamarel",
-      en: "Chamarel Waterfall",
-image: "/poi-images/chamarel-waterfall-relief-v2.webp"
-},
+      en: "Chamarel Waterfall"},
+    image: "/poi-images/chamarel-waterfall-relief-v2.webp",
     description: {
       de: "Der höchste Wasserfall von Mauritius stürzt über eine steile Basaltklippe in ein hufeisenförmiges Becken.",
       hu: "Mauritius legmagasabb vízesése, amely egy meredek bazaltszikláról zúdul le egy patkó alakú medencébe.",
@@ -603,9 +587,8 @@ image: "/poi-images/chamarel-waterfall-relief-v2.webp"
       de: "Bassin Blanc",
       hu: "Bassin Blanc",
       ro: "Bassin Blanc",
-      en: "Bassin Blanc",
-image: "/poi-images/bassin-blanc-relief-v2.webp"
-},
+      en: "Bassin Blanc"},
+    image: "/poi-images/bassin-blanc-relief-v2.webp",
     description: {
       de: "Ein weiterer vulkanischer Kratersee im Süden, der von dichtem Wald umgeben ist und als wichtiges Vogelschutzgebiet gilt.",
       hu: "Egy másik vulkáni krátertó délen, amelyet sűrű erdő vesz körül, és fontos madárvédelmi terület.",
@@ -640,9 +623,8 @@ image: "/poi-images/bassin-blanc-relief-v2.webp"
       de: "Lion Mountain",
       hu: "Oroszlán-hegy",
       ro: "Muntele Leului",
-      en: "Lion Mountain",
-image: "/poi-images/lion-mountain-relief-v2.webp"
-},
+      en: "Lion Mountain"},
+    image: "/poi-images/lion-mountain-relief-v2.webp",
     description: {
       de: "Ein Berg im Südosten, dessen Umrisse an einen liegenden Löwen erinnern und einen Blick auf die Bucht von Grand Port bieten.",
       hu: "Hegy a délkeleti részen, amelynek körvonalai egy fekvő oroszlánra emlékeztetnek, és kilátást nyújtanak a Grand Port-öbölre.",
@@ -677,9 +659,8 @@ image: "/poi-images/lion-mountain-relief-v2.webp"
       de: "Coin de Mire (Gunner's Quoin)",
       hu: "Coin de Mire",
       ro: "Coin de Mire",
-      en: "Coin de Mire (Gunner's Quoin)",
-image: "/poi-images/coin-de-mire-relief-v2.webp"
-},
+      en: "Coin de Mire (Gunner's Quoin)"},
+    image: "/poi-images/coin-de-mire-relief-v2.webp",
     description: {
       de: "Eine markante Vulkaninsel vor der Nordküste, die durch ihre keilförmige Form und ihre steilen Klippen auffällt.",
       hu: "Jellegzetes vulkáni sziget az északi partoknál, amely ék alakjáról és meredek szikláiról ismert.",
@@ -714,9 +695,8 @@ image: "/poi-images/coin-de-mire-relief-v2.webp"
       de: "Kanaka Krater",
       hu: "Kanaka-kráter",
       ro: "Craterul Kanaka",
-      en: "Kanaka Crater",
-image: "/poi-images/kanaka-crater-relief-v2.webp"
-},
+      en: "Kanaka Crater"},
+    image: "/poi-images/kanaka-crater-relief-v2.webp",
     description: {
       de: "Ein erloschener Vulkankrater im Zentralplateau, der Einblicke in die vulkanische Entstehungsgeschichte der Insel gibt.",
       hu: "Kialudt vulkáni kráter a központi fennsíkon, amely betekintést nyújt a sziget vulkáni eredetébe.",

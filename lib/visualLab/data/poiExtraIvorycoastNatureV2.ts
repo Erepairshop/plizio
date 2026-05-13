@@ -7,9 +7,8 @@ export const poiExtraIvorycoastNatureV2: POI[] = [
     type: "river",
     parent: "CI-CI",
     coords: [-5.9, 5.0],
-    name: { de: "Sassandra", hu: "Sassandra", ro: "Sassandra", en: "Sassandra",
-image: "/poi-images/sassandra-river-nature-v2.webp"
-},
+    name: { de: "Sassandra", hu: "Sassandra", ro: "Sassandra", en: "Sassandra"},
+    image: "/poi-images/sassandra-river-nature-v2.webp",
     description: { de: "Der Fluss entspringt im Norden und mündet bei der Stadt Sassandra in den Atlantik.", hu: "A folyó északról ered és Sassandra városánál ömlik az Atlanti-óceánba.", ro: "Râul izvorăște din nord și se varsă în Oceanul Atlantic lângă orașul Sassandra.", en: "The river originates in the north and flows into the Atlantic Ocean near the city of Sassandra." },
     facts: {
       de: ["Länge ca. 650 km.", "Wichtige Lebensader des Landes.", "Fließt durch tropische Gebiete.", "Bietet Wasserkraftpotenzial."],
@@ -34,9 +33,8 @@ image: "/poi-images/sassandra-river-nature-v2.webp"
     type: "river",
     parent: "CI-CI",
     coords: [-7.5, 4.4],
-    name: { de: "Cavally", hu: "Cavally", ro: "Cavally", en: "Cavally",
-image: "/poi-images/cavally-river-nature-v2.webp"
-},
+    name: { de: "Cavally", hu: "Cavally", ro: "Cavally", en: "Cavally"},
+    image: "/poi-images/cavally-river-nature-v2.webp",
     description: { de: "Dieser Grenzfluss zwischen Elfenbeinküste und Liberia mündet in den Golf von Guinea.", hu: "Ez a határfolyó Elefántcsontpart és Libéria között a Guineai-öbölbe ömlik.", ro: "Acest râu de frontieră dintre Coasta de Fildeș și Liberia se varsă în Golful Guineei.", en: "This border river between Ivory Coast and Liberia flows into the Gulf of Guinea." },
     facts: {
       de: ["Grenzfluss zu Liberia.", "Mündet in den Golf von Guinea.", "Reich an Artenvielfalt.", "Wichtige Wasserstraße für den lokalen Handel."],
@@ -61,9 +59,8 @@ image: "/poi-images/cavally-river-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-8.4, 7.6],
-    name: { de: "Mont Nimba", hu: "Nimba-hegy", ro: "Muntele Nimba", en: "Mount Nimba",
-image: "/poi-images/mount-nimba-nature-v2.webp"
-},
+    name: { de: "Mont Nimba", hu: "Nimba-hegy", ro: "Muntele Nimba", en: "Mount Nimba"},
+    image: "/poi-images/mount-nimba-nature-v2.webp",
     description: { de: "Das Nimba-Massiv ist die höchste Erhebung des Landes und ein bedeutendes Schutzgebiet.", hu: "A Nimba-hegység az ország legmagasabb pontja és jelentős természetvédelmi terület.", ro: "Masivul Nimba este cea mai înaltă zonă a țării și o arie protejată importantă.", en: "The Nimba massif is the country's highest peak and an important nature reserve." },
     facts: {
       de: ["Höchste Erhebung der Elfenbeinküste.", "UNESCO-Welterbe.", "Einzigartige Flora und Fauna.", "Liegt im Dreiländereck."],
@@ -88,9 +85,8 @@ image: "/poi-images/mount-nimba-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-4.0, 5.2],
-    name: { de: "Lagune Ébrié", hu: "Ébrié-lagúna", ro: "Laguna Ébrié", en: "Ébrié Lagoon",
-image: "/poi-images/lagune-ebrie-nature-v2.webp"
-},
+    name: { de: "Lagune Ébrié", hu: "Ébrié-lagúna", ro: "Laguna Ébrié", en: "Ébrié Lagoon"},
+    image: "/poi-images/lagune-ebrie-nature-v2.webp",
     description: { de: "Diese Lagune verbindet Abidjan mit dem Atlantischen Ozean.", hu: "Ez a lagúna köti össze Abidjan városát az Atlanti-óceánnal.", ro: "Această lagună conectează orașul Abidjan cu Oceanul Atlantic.", en: "This lagoon connects the city of Abidjan to the Atlantic Ocean." },
     facts: {
       de: ["Wichtige Wasserstraße für den Hafen von Abidjan.", "Trennt die Stadtviertel.", "Große ökologische Bedeutung.", "Touristisches Zentrum."],
@@ -110,9 +106,8 @@ image: "/poi-images/lagune-ebrie-nature-v2.webp"
     type: "river",
     parent: "CI-CI",
     coords: [-5.0, 5.1],
-    name: { de: "Bandama", hu: "Bandama", ro: "Bandama", en: "Bandama",
-image: "/poi-images/bandama-river-nature-v2.webp"
-},
+    name: { de: "Bandama", hu: "Bandama", ro: "Bandama", en: "Bandama"},
+    image: "/poi-images/bandama-river-nature-v2.webp",
     description: { de: "Der längste Fluss der Elfenbeinküste durchquert das Land von Norden nach Süden.", hu: "Elefántcsontpart leghosszabb folyója északról délre szeli át az országot.", ro: "Cel mai lung râu din Coasta de Fildeș traversează țara de la nord la sud.", en: "The longest river in Ivory Coast flows through the country from north to south." },
     facts: {
       de: ["Längster Fluss des Landes.", "Speist den Kossou-Stausee.", "Wichtig für die Bewässerung.", "Natürliche Grenze für einige Regionen."],
@@ -132,9 +127,8 @@ image: "/poi-images/bandama-river-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-5.0, 5.2],
-    name: { de: "Lagune Grand-Lahou", hu: "Grand-Lahou lagúna", ro: "Laguna Grand-Lahou", en: "Grand-Lahou Lagoon",
-image: "/poi-images/lagune-grand-lahou-nature-v2.webp"
-},
+    name: { de: "Lagune Grand-Lahou", hu: "Grand-Lahou lagúna", ro: "Laguna Grand-Lahou", en: "Grand-Lahou Lagoon"},
+    image: "/poi-images/lagune-grand-lahou-nature-v2.webp",
     description: { de: "Eine bedeutende Lagune im Südwesten des Landes, bekannt für ihre Tierwelt.", hu: "Jelentős lagúna az ország délnyugati részén, gazdag élővilágáról ismert.", ro: "O lagună importantă în sud-vestul țării, cunoscută pentru biodiversitate.", en: "An important lagoon in the southwest of the country, known for its wildlife." },
     facts: {
       de: ["Schutzgebiet für zahlreiche Vögel.", "Teil eines ausgedehnten Feuchtgebietes.", "Wichtige Fischgründe.", "Nahe dem Azagny-Nationalpark."],
@@ -154,9 +148,8 @@ image: "/poi-images/lagune-grand-lahou-nature-v2.webp"
     type: "river",
     parent: "CI-CI",
     coords: [-3.3, 5.1],
-    name: { de: "Comoé", hu: "Comoé", ro: "Comoé", en: "Comoé",
-image: "/poi-images/comoe-river-nature-v2.webp"
-},
+    name: { de: "Comoé", hu: "Comoé", ro: "Comoé", en: "Comoé"},
+    image: "/poi-images/comoe-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss im Osten des Landes, der den Komoé-Nationalpark durchfließt.", hu: "Jelentős folyó az ország keleti részén, amely átfolyik a Comoé Nemzeti Parkon.", ro: "Un râu important în estul țării, care traversează Parcul Național Comoé.", en: "A major river in the east of the country that flows through Comoé National Park." },
     facts: {
       de: ["Fließt durch den Comoé-Nationalpark.", "Lebensraum für viele Wildtiere.", "Wichtig für das Ökosystem.", "Speist den Atlantik im Osten."],
@@ -176,9 +169,8 @@ image: "/poi-images/comoe-river-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.5, 8.1],
-    name: { de: "Mont Poko", hu: "Poko-hegy", ro: "Muntele Poko", en: "Mount Poko",
-image: "/poi-images/mount-poko-nature-v2.webp"
-},
+    name: { de: "Mont Poko", hu: "Poko-hegy", ro: "Muntele Poko", en: "Mount Poko"},
+    image: "/poi-images/mount-poko-nature-v2.webp",
     description: { de: "Ein markanter Berg im westlichen Hochland des Landes.", hu: "Kisebb kiemelkedés az ország nyugati részén, amely a sűrű trópusi erdők és a változatos állatvilág egyik élőhelye.", ro: "Un munte distinctiv în zonele înalte din vestul țării.", en: "A prominent mountain in the country's western highlands." },
     facts: {
       de: ["Teil des westlichen Berglandes.", "Umgeben von tropischen Wäldern.", "Relativ unerschlossen.", "Landschaftlich reizvoll."],
@@ -198,9 +190,8 @@ image: "/poi-images/mount-poko-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-4.5, 5.2],
-    name: { de: "Lagune La Maho", hu: "La Maho lagúna", ro: "Laguna La Maho", en: "La Maho Lagoon",
-image: "/poi-images/la-maho-lagoon-nature-v2.webp"
-},
+    name: { de: "Lagune La Maho", hu: "La Maho lagúna", ro: "Laguna La Maho", en: "La Maho Lagoon"},
+    image: "/poi-images/la-maho-lagoon-nature-v2.webp",
     description: { de: "Ein ruhiges Gewässer im Küstenstreifen, ideal für die Tierbeobachtung.", hu: "Csendes vízfelület a partvidéken, ideális az állatok megfigyelésére.", ro: "Un corp de apă liniștit de pe coastă, ideal pentru observarea faunei.", en: "A quiet body of water on the coast, ideal for wildlife viewing." },
     facts: {
       de: ["Ruhige Wasserlage.", "Heimat seltener Fischarten.", "Wichtiges lokales Ökosystem.", "Gut für Ökotourismus."],
@@ -220,9 +211,8 @@ image: "/poi-images/la-maho-lagoon-nature-v2.webp"
     type: "forest",
     parent: "CI-CI",
     coords: [-7.3, 5.8],
-    name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest",
-image: "/poi-images/forest-ta-i-nature-v2.webp"
-},
+    name: { de: "Taï-Wald", hu: "Taï-erdő", ro: "Pădurea Taï", en: "Taï Forest"},
+    image: "/poi-images/forest-ta-i-nature-v2.webp",
     description: { de: "Einer der letzten großen Primärregenwälder Westafrikas und Heimat zahlreicher seltener Tierarten.", hu: "Nyugat-Afrika egyik utolsó nagy őserdeje és UNESCO világörökségi helyszíne.", ro: "Una dintre ultimele mari păduri primare din Africa de Vest și sit al Patrimoniului Mondial UNESCO.", en: "One of the last major primary forests in West Africa and a UNESCO World Heritage site." },
     facts: {
       de: ["UNESCO-Welterbe seit 1982", "Fläche ca. 3.300 km²", "Heimat von Zwergflusspferden"],
@@ -242,9 +232,8 @@ image: "/poi-images/forest-ta-i-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-3.8, 5.3],
-    name: { de: "Lagune Abidjan Ost", hu: "Abidjan-keleti lagúna", ro: "Laguna Abidjan Est", en: "Abidjan East Lagoon",
-image: "/poi-images/lagune-abidjan-est-nature-v2.webp"
-},
+    name: { de: "Lagune Abidjan Ost", hu: "Abidjan-keleti lagúna", ro: "Laguna Abidjan Est", en: "Abidjan East Lagoon"},
+    image: "/poi-images/lagune-abidjan-est-nature-v2.webp",
     description: { de: "Ein ökologisch wichtiger Teil des Lagunensystems im Osten Abidjans.", hu: "Az abidjani lagúnarendszer ökológiailag fontos része keleten.", ro: "O parte importantă din punct de vedere ecologic a sistemului de lagune din estul Abidjanului.", en: "An ecologically important part of the lagoon system in eastern Abidjan." },
     facts: {
       de: ["Schutz von Mangroven.", "Teil des Ébrié-Systems.", "Wichtig für lokale Fischer.", "Hohe Artenvielfalt."],
@@ -264,9 +253,8 @@ image: "/poi-images/lagune-abidjan-est-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.6, 7.7],
-    name: { de: "Mont Biankouma", hu: "Biankouma-hegy", ro: "Muntele Biankouma", en: "Mount Biankouma",
-image: "/poi-images/mount-biankouma-nature-v2.webp"
-},
+    name: { de: "Mont Biankouma", hu: "Biankouma-hegy", ro: "Muntele Biankouma", en: "Mount Biankouma"},
+    image: "/poi-images/mount-biankouma-nature-v2.webp",
     description: { de: "Ein Gebirgszug nahe der Grenze zu Guinea, bekannt für seine Wälder.", hu: "Hegyvonulat Guinea határának közelében, erdőiről ismert.", ro: "Muntele Biankouma domină regiunea vestică, fiind înconjurat de păduri dense și sate tradiționale ale poporului Dan.", en: "A mountain range near the border with Guinea, known for its forests." },
     facts: {
       de: ["Teil des westlichen Hochlandes.", "Dicht bewaldete Hänge.", "Wichtiges Einzugsgebiet.", "Reiches Tierleben."],
@@ -286,9 +274,8 @@ image: "/poi-images/mount-biankouma-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-5.1, 5.2],
-    name: { de: "Lagune Yocoboué", hu: "Yocoboué lagúna", ro: "Laguna Yocoboué", en: "Yocoboué Lagoon",
-image: "/poi-images/lagune-yocoboue-nature-v2.webp"
-},
+    name: { de: "Lagune Yocoboué", hu: "Yocoboué lagúna", ro: "Laguna Yocoboué", en: "Yocoboué Lagoon"},
+    image: "/poi-images/lagune-yocoboue-nature-v2.webp",
     description: { de: "Ein ökologisch wertvolles Küstengewässer, das durch seine reiche Biodiversität und Mangroven geprägt ist.", hu: "További természetes lagúna az ország partvidékén.", ro: "O altă lagună naturală în zona de coastă a țării.", en: "Another natural lagoon in the coastal area of the country." },
     facts: {
       de: ["Küstenlagune", "Nahe der Stadt Yocoboué", "Wichtiger Lebensraum für Fische"],
@@ -308,9 +295,8 @@ image: "/poi-images/lagune-yocoboue-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.7, 7.4],
-    name: { de: "Mont Tonkpi", hu: "Tonkpi-hegy", ro: "Muntele Tonkpi", en: "Mount Tonkpi",
-image: "/poi-images/mount-tonkpi-nature-v2.webp"
-},
+    name: { de: "Mont Tonkpi", hu: "Tonkpi-hegy", ro: "Muntele Tonkpi", en: "Mount Tonkpi"},
+    image: "/poi-images/mount-tonkpi-nature-v2.webp",
     description: { de: "Der höchste Gipfel der Bergregion um Man bietet einen weiten Panoramablick über das westliche Hochland.", hu: "A Man városa melletti 1189 méteres csúcs az ország egyik legmagasabb pontja, lenyűgöző panorámát nyújtva a környékre.", ro: "Unul dintre mulții munți din regiunea Tonkpi din vestul Coastei de Fildeș.", en: "Mount Tonkpi is the highest peak in the Man mountain range, rising to 1,189 meters. It is famous for its cool climate and lush coffee and cocoa plantations." },
     facts: {
       de: ["Höhe 1.189 Meter", "Teil der Monts du Toura", "Wanderziel bei Man"],
@@ -330,9 +316,8 @@ image: "/poi-images/mount-tonkpi-nature-v2.webp"
     type: "sea",
     parent: "CI-CI",
     coords: [-5.9, 4.9],
-    name: { de: "Sassandra-Mündung", hu: "Sassandra-torkolat", ro: "Estuarul Sassandra", en: "Sassandra Estuary",
-image: "/poi-images/sassandra-river-estuary-nature-v2.webp"
-},
+    name: { de: "Sassandra-Mündung", hu: "Sassandra-torkolat", ro: "Estuarul Sassandra", en: "Sassandra Estuary"},
+    image: "/poi-images/sassandra-river-estuary-nature-v2.webp",
     description: { de: "Der Ort, an dem der Sassandra-Fluss in den Atlantik mündet.", hu: "Az a hely, ahol a Sassandra folyó az Atlanti-óceánba torkollik.", ro: "Locul unde râul Sassandra se varsă în Atlantic.", en: "The place where the Sassandra River flows into the Atlantic." },
     facts: {
       de: ["Wichtiger Brackwasserbereich.", "Nährstoffreiches Wasser.", "Wichtiger Ort für Fischer.", "Besondere Tierwelt."],
@@ -352,9 +337,8 @@ image: "/poi-images/sassandra-river-estuary-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-5.5, 5.2],
-    name: { de: "Lagune Fresco", hu: "Fresco lagúna", ro: "Laguna Fresco", en: "Fresco Lagoon",
-image: "/poi-images/lagune-fresco-nature-v2.webp"
-},
+    name: { de: "Lagune Fresco", hu: "Fresco lagúna", ro: "Laguna Fresco", en: "Fresco Lagoon"},
+    image: "/poi-images/lagune-fresco-nature-v2.webp",
     description: { de: "Eine Küstenlagune nahe der Stadt Fresco.", hu: "A tengerparti Fresco közelében elterülő lagúna-rendszer fontos ökológiai terület, amely számos vízi madárnak ad otthont.", ro: "O lagună de coastă lângă orașul Fresco.", en: "A coastal lagoon near the town of Fresco." },
     facts: {
       de: ["Mangrovenwälder.", "Beliebt bei Touristen.", "Wichtig für die lokale Fischerei.", "Schöne natürliche Umgebung."],
@@ -374,9 +358,8 @@ image: "/poi-images/lagune-fresco-nature-v2.webp"
     type: "forest",
     parent: "CI-CI",
     coords: [-5.8, 7.3],
-    name: { de: "Marahoué-Wald", hu: "Marahoué-erdő", ro: "Pădurea Marahoué", en: "Marahoué Forest",
-image: "/poi-images/forest-marahoue-nature-v2.webp"
-},
+    name: { de: "Marahoué-Wald", hu: "Marahoué-erdő", ro: "Pădurea Marahoué", en: "Marahoué Forest"},
+    image: "/poi-images/forest-marahoue-nature-v2.webp",
     description: { de: "Ein Nationalpark im Zentrum des Landes, der den Übergang zwischen Regenwald und Savanne markiert.", hu: "Jelentős erdős terület az ország középnyugati részén.", ro: "O zonă forestieră importantă în centrul-vestul țării.", en: "A significant forest area in the country's central west." },
     facts: {
       de: ["Gegründet 1968", "Fläche ca. 1.000 km²", "Vorkommen von Elefanten"],
@@ -396,9 +379,8 @@ image: "/poi-images/forest-marahoue-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-4.2, 5.2],
-    name: { de: "Lagune Abidjan West", hu: "Abidjan-nyugati lagúna", ro: "Laguna Abidjan Vest", en: "Abidjan West Lagoon",
-image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp"
-},
+    name: { de: "Lagune Abidjan West", hu: "Abidjan-nyugati lagúna", ro: "Laguna Abidjan Vest", en: "Abidjan West Lagoon"},
+    image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp",
     description: { de: "Der westliche Teil der Lagune Ébrié bei Abidjan.", hu: "Az Ébrié-lagúna nyugati része Abidjan mellett.", ro: "Partea de vest a lagunei Ébrié lângă Abidjan.", en: "The western part of the Ébrié Lagoon near Abidjan." },
     facts: {
       de: ["Wichtige Wasserstraße.", "Ökologisch sensible Zone.", "Teil des Lagunensystems.", "Nahe dem Stadtzentrum."],
@@ -418,9 +400,8 @@ image: "/poi-images/lagune-abidjan-ouest-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.5, 7.5],
-    name: { de: "Mont Mambl", hu: "Mambl-hegy", ro: "Muntele Mambl", en: "Mount Mambl",
-image: "/poi-images/mount-mambl-nature-v2.webp"
-},
+    name: { de: "Mont Mambl", hu: "Mambl-hegy", ro: "Muntele Mambl", en: "Mount Mambl"},
+    image: "/poi-images/mount-mambl-nature-v2.webp",
     description: { de: "Ein weiterer Gipfel in den westlichen Bergregionen der Elfenbeinküste.", hu: "Egy elszigetelt hegycsúcs, amely a helyi biodiverzitás szempontjából jelentős és különleges mikroklímával rendelkezik.", ro: "Un alt vârf din zonele montane vestice ale Coastei de Fildeș.", en: "Another peak in the western mountain regions of Ivory Coast." },
     facts: {
       de: ["Schöne Wanderwege.", "Dichte Vegetation.", "Ein Teil der westlichen Kette.", "Sehr malerisch."],
@@ -440,9 +421,8 @@ image: "/poi-images/mount-mambl-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-3.7, 5.2],
-    name: { de: "Lagune Grand-Bassam", hu: "Grand-Bassam lagúna", ro: "Laguna Grand-Bassam", en: "Grand-Bassam Lagoon",
-image: "/poi-images/lagune-grand-bassam-nature-v2.webp"
-},
+    name: { de: "Lagune Grand-Bassam", hu: "Grand-Bassam lagúna", ro: "Laguna Grand-Bassam", en: "Grand-Bassam Lagoon"},
+    image: "/poi-images/lagune-grand-bassam-nature-v2.webp",
     description: { de: "Ein Teil des Ebrié-Lagunensystems, das die historische Stadt vom Atlantischen Ozean trennt.", hu: "A történelmi város melletti kiterjedt lagúna, ahol az édesvíz és a sós óceáni víz keveredik, gazdag élővilágot teremtve.", ro: "O lagună istorică în apropierea fostei capitale.", en: "A historic lagoon near the former capital." },
     facts: {
       de: ["Teil des Ebrié-Systems", "Östlich von Abidjan", "Mischwasser-Ökosystem"],
@@ -462,9 +442,8 @@ image: "/poi-images/lagune-grand-bassam-nature-v2.webp"
     type: "forest",
     parent: "CI-CI",
     coords: [-7.4, 5.9],
-    name: { de: "Cavally-Wald", hu: "Cavally-erdő", ro: "Pădurea Cavally", en: "Cavally Forest",
-image: "/poi-images/cavally-forest-nature-v2.webp"
-},
+    name: { de: "Cavally-Wald", hu: "Cavally-erdő", ro: "Pădurea Cavally", en: "Cavally Forest"},
+    image: "/poi-images/cavally-forest-nature-v2.webp",
     description: { de: "Ein bedeutendes Waldschutzgebiet im Westen des Landes am Cavally-Fluss.", hu: "A libériai határ közelében fekvő Cavally-erdő az ország egyik utolsó érintetlen trópusi esőerdője, veszélyeztetett fajokkal.", ro: "O arie forestieră protejată importantă în vestul țării, lângă râul Cavally.", en: "An important forest protected area in the west of the country along the Cavally River." },
     facts: {
       de: ["Wichtiges Schutzgebiet.", "Dichter Regenwald.", "Hohe Biodiversität.", "Schutz für bedrohte Tierarten."],
@@ -484,9 +463,8 @@ image: "/poi-images/cavally-forest-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.8, 7.2],
-    name: { de: "Mont Ni", hu: "Ni-hegy", ro: "Muntele Ni", en: "Mount Ni",
-image: "/poi-images/mount-ni-nature-v2.webp"
-},
+    name: { de: "Mont Ni", hu: "Ni-hegy", ro: "Muntele Ni", en: "Mount Ni"},
+    image: "/poi-images/mount-ni-nature-v2.webp",
     description: { de: "Ein kleinerer, aber bedeutender Berg in der westlichen Region.", hu: "Kisebb, de jelentős hegy a nyugati régióban.", ro: "Muntele Ni oferă peisaje montane spectaculoase și un climat mai răcoros, fiind o destinație populară pentru drumeții în vestul țării.", en: "A smaller but significant mountain in the western region." },
     facts: {
       de: ["Gute Wandermöglichkeiten.", "Grüne Umgebung.", "Kühlere Temperaturen.", "Teil der Tonkpi-Berge."],
@@ -506,9 +484,8 @@ image: "/poi-images/mount-ni-nature-v2.webp"
     type: "lake",
     parent: "CI-CI",
     coords: [-4.1, 5.4],
-    name: { de: "Lagune Abidjan Nord", hu: "Abidjan-északi lagúna", ro: "Laguna Abidjan Nord", en: "Abidjan North Lagoon",
-image: "/poi-images/lagune-abidjan-nord-nature-v2.webp"
-},
+    name: { de: "Lagune Abidjan Nord", hu: "Abidjan-északi lagúna", ro: "Laguna Abidjan Nord", en: "Abidjan North Lagoon"},
+    image: "/poi-images/lagune-abidjan-nord-nature-v2.webp",
     description: { de: "Der nördliche Bereich der Lagune Ébrié bei Abidjan.", hu: "Az Ébrié-lagúna északi területe Abidjan mellett.", ro: "Zona de nord a lagunei Ébrié lângă Abidjan.", en: "The northern area of the Ébrié Lagoon near Abidjan." },
     facts: {
       de: ["Wichtige Wasserstraße.", "Wichtig für lokale Fischer.", "Gute ökologische Wasserqualität.", "Touristisch genutzt."],
@@ -528,106 +505,189 @@ image: "/poi-images/lagune-abidjan-nord-nature-v2.webp"
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.3, 7.9],
-    name: { de: "Mont Gouane", hu: "Gouane-hegy", ro: "Muntele Gouane", en: "Mount Gouane",
-image: "/poi-images/mount-gouane-nature-v2.webp"
-},
+    name: { de: "Mont Gouane", hu: "Gouane-hegy", ro: "Muntele Gouane", en: "Mount Gouane"},
+    image: "/poi-images/mount-gouane-nature-v2.webp",
     description: { de: "Ein markanter Gipfel in der hügeligen Landschaft der Region Tonkpi im Westen der Elfenbeinküste.", hu: "A nyugati régió egyik jellegzetes hegye, amely a helyi közösségek számára spirituális jelentőséggel is bír.", ro: "Muntele Gouane este un reper natural impresionant în regiunea Tonkpi, având o importanță spirituală majoră pentru comunitățile locale.", en: "Located near the city of Man, Mount Gouane offers spectacular views of the surrounding mountainous landscape. The area is covered in dense tropical rainforest and granite outcrops." },
     facts: {
       de: ["Region Tonkpi", "Westliches Hochland", "Vulkanischen Ursprungs"],
       hu: ["Man régiójának része", "Meredek sziklás oldalak", "Spirituális zarándokhely"],
       ro: ["Vârf stâncos proeminent", "Semnificație spirituală", "Vederi panoramice", "Vegetație montană specifică"],
       en: ["Granite mountain peak", "Located in western Ivory Coast", "Dense tropical rainforest", "Popular hiking destination"]
-    }, image: "/poi-images/mount-gouane-nature-v2.webp"},
+    }, image: "/poi-images/mount-gouane-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Mount Gouane ist ein Berg in der Elfenbeinküste, in der Region Denguélé. Mit 1.380 m ist er einer der höchsten Gipfel des Landes. Der Berg ist Teil des Monts Koura-Bergzuges. Die Region ist bekannt für ihre Savannenvegetation und die reiche Vogelwelt. Der Berg hat eine kulturelle Bedeutung für die lokalen Senufo-Gemeinschaften. Der Aufstieg ist anspruchsvoll aufgrund der dichten Vegetation.",
+      hu: "A Mount Gouane (1380 m) Elefántcsontpart egyik legmagasabb hegye, a Denguélé régióban. A Monts Koura része. A hegyet szavanna növényzet borítja, és gazdag madárvilággal rendelkezik. A helyi senufo közösségek számára szent hely. A csúcsra vezető út nehéz, mivel sűrű bozótoson kell áthatolni. A térségben aranybányászat is folyik.",
+      ro: "Mount Gouane, cu 1.380 m, este unul dintre cei mai înalți munți din Coasta de Fildeș, în regiunea Denguélé. Face parte din masivul Monts Koura. Vegetația este de savană, cu o faună aviară diversă. Muntele este sacru pentru comunitățile senufo. Ascensiunea este dificilă din cauza vegetației dese. Zona este exploatată pentru aur.",
+      en: "Mount Gouane reaches 1,380 m in Ivory Coast's Denguélé region, part of the Monts Koura range. It is one of the country's highest peaks, with savanna vegetation and rich birdlife. The mountain holds spiritual significance for the Senufo people. Due to dense bush, climbing is challenging. The region also has gold mining activities. It offers panoramic views of the surrounding plains.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.380 m", "Land: Elfenbeinküste", "Region: Denguélé", "Gebirge: Monts Koura", "Vegetation: Savanne", "Bedeutung: heilig für Senufo"],
+      hu: ["Magasság: 1380 m", "Ország: Elefántcsontpart", "Régió: Denguélé", "Hegység: Monts Koura", "Növényzet: szavanna", "Jelentőség: szent a senufo nép számára"],
+      ro: ["Altitudine: 1.380 m", "Țară: Coasta de Fildeș", "Regiune: Denguélé", "Masiv: Monts Koura", "Vegetație: savană", "Semnificație: sacru pentru senufo"],
+      en: ["Elevation: 1,380 m", "Country: Ivory Coast", "Region: Denguélé", "Range: Monts Koura", "Vegetation: savanna", "Cultural significance: sacred to Senufo"],
+    },
+  },
   {
     id: "lagune-assinie-nature-v2",
     type: "lake",
     parent: "CI-CI",
     coords: [-3.2, 5.1],
-    name: { de: "Lagune Assinie", hu: "Assinie lagúna", ro: "Laguna Assinie", en: "Assinie Lagoon",
-image: "/poi-images/lagune-assinie-nature-v2.webp"
-},
+    name: { de: "Lagune Assinie", hu: "Assinie lagúna", ro: "Laguna Assinie", en: "Assinie Lagoon"},
+    image: "/poi-images/lagune-assinie-nature-v2.webp",
     description: { de: "Eine beliebte Lagune im Osten nahe der Grenze zu Ghana.", hu: "Elefántcsontpart egyik legnépszerűbb üdülőhelye, ahol a kristálytiszta lagúna és az óceánpart luxus környezetet kínál.", ro: "O lagună populară în est, aproape de granița cu Ghana.", en: "A popular lagoon in the east near the border with Ghana." },
     facts: {
       de: ["Sehr beliebtes Touristenziel.", "Wassersportmöglichkeiten.", "Schöne Strände.", "Große Biodiversität."],
       hu: ["Prémium turisztikai desztináció", "Vízi sportok központja", "Közel a ghánai határhoz"],
       ro: ["Destinație turistică foarte populară.", "Posibilități de sporturi acvatice.", "Plaje frumoase.", "Biodiversitate mare."],
       en: ["Very popular tourist destination.", "Water sports opportunities.", "Beautiful beaches.", "Great biodiversity."]
-    }, image: "/poi-images/lagune-assinie-nature-v2.webp"},
+    }, image: "/poi-images/lagune-assinie-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Lagune von Assinie liegt an der Elfenbeinküste, südöstlich von Abidjan. Sie ist durch eine schmale Sandbank vom Atlantik getrennt. Die Lagune ist ein wichtiges Ökosystem mit Mangrovenwäldern und einer vielfältigen Vogelwelt. Sie ist auch ein beliebtes Touristenziel für Wassersport. Die Region hat historische Bedeutung als ehemalige französische Kolonialsiedlung. Die Lagune erstreckt sich über 30 km².",
+      hu: "Az Assinie-lagúna Elefántcsontpart déli részén, Abidjantól délkeletre található. Egy keskeny homokpad választja el az Atlanti-óceántól. A lagúna mangroveerdőknek ad otthont, és gazdag madárvilággal rendelkezik. Népszerű turisztikai célpont, ahol vízi sportokat lehet űzni. Történelmi szempontból fontos, mert az első francia gyarmati települések egyike volt. Területe 30 km².",
+      ro: "Laguna Assinie este situată în Coasta de Fildeș, sud-est de Abidjan, separatată de Atlantic printr-o fâșie de nisip. Ecosistemul include păduri de mangrove și păsări diverse. Este o destinație turistică populară pentru sporturi nautice. Din punct de vedere istoric, a fost una dintre primele așezări coloniale franceze. Laguna se întinde pe 30 km².",
+      en: "Assinie Lagoon lies in southeastern Ivory Coast, separated from the Atlantic Ocean by a sandbar. It covers 30 km² and features mangrove forests and rich birdlife. The area is a tourist hub for water sports like jet skiing and boat tours. Historically, it hosted early French colonial settlements. The lagoon is part of the Grands Ponts region, known for its seafood and eco-tourism.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 30 km²", "Land: Elfenbeinküste", "Trennung: Sandbank vom Atlantik", "Ökosystem: Mangroven", "Tourismus: Wassersport", "Geschichte: französische Kolonie"],
+      hu: ["Terület: 30 km²", "Ország: Elefántcsontpart", "Elválasztás: homokpad az Atlanti-óceántól", "Ökoszisztéma: mangrove", "Turizmus: vízi sportok", "Történelem: francia gyarmat"],
+      ro: ["Suprafață: 30 km²", "Țară: Coasta de Fildeș", "Separare: banc de nisip de Atlantic", "Ecosistem: mangrove", "Turism: sporturi nautice", "Istorie: colonie franceză"],
+      en: ["Area: 30 km²", "Country: Ivory Coast", "Separation: sandbar from Atlantic", "Ecosystem: mangroves", "Tourism: water sports", "History: French colonial settlement"],
+    },
+  },
   {
     id: "forest-azagny-nature-v2",
     type: "forest",
     parent: "CI-CI",
     coords: [-4.9, 5.2],
-    name: { de: "Azagny-Wald", hu: "Azagny-erdő", ro: "Pădurea Azagny", en: "Azagny Forest",
-image: "/poi-images/forest-azagny-nature-v2.webp"
-},
+    name: { de: "Azagny-Wald", hu: "Azagny-erdő", ro: "Pădurea Azagny", en: "Azagny Forest"},
+    image: "/poi-images/forest-azagny-nature-v2.webp",
     description: { de: "Ein wichtiger Waldabschnitt im Azagny-Nationalpark.", hu: "Fontos erdőszakasz az Azagny Nemzeti Parkban.", ro: "O secțiune forestieră importantă din Parcul Național Azagny.", en: "An important forest section in the Azagny National Park." },
     facts: {
       de: ["Teil des Nationalparks.", "Heimat vieler Arten.", "Wichtiger Schutzbereich.", "Sehr grün und üppig."],
       hu: ["A nemzeti park része.", "Számos faj otthona.", "Fontos védelmi terület.", "Nagyon zöld és buja."],
       ro: ["Parte a parcului național.", "Habitat pentru multe specii.", "Zonă de protecție importantă.", "Foarte verde și luxuriantă."],
       en: ["Part of the national park.", "Home to many species.", "Important protected area.", "Very green and lush."]
-    }, image: "/poi-images/forest-azagny-nature-v2.webp"},
+    }, image: "/poi-images/forest-azagny-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Azagny-Wald im Süden der Elfenbeinküste erstreckt sich über rund 20.000 Hektar und ist ein geschütztes Regenwaldgebiet. Er beherbergt eine hohe Biodiversität mit über 200 Vogelarten, darunter der seltene Schuhschnabel. Der Wald liegt im Einzugsgebiet des Azagny-Flusses und dient als wichtiges Wassereinzugsgebiet. Die Region ist von tropischem Klima mit jährlichen Niederschlägen von über 2.000 mm geprägt. In den 1970er Jahren wurde ein Teil des Waldes zum Nationalpark erklärt, um die einzigartige Flora und Fauna zu schützen. Der Boden besteht hauptsächlich aus Ferraliten, die nährstoffarm sind. Die Gegend ist auch für ihre traditionellen Dörfer bekannt, die nachhaltige Jagd- und Sammelmethoden praktizieren.",
+      hu: "Az Azagny-erdő Elefántcsontpart déli részén található, kiterjedése körülbelül 20 000 hektár. Ez egy védett esőerdő, amely gazdag biodiverzitással rendelkezik. Több mint 200 madárfaj él itt, köztük a ritka cipőcsőrű gólya. Az erdő az Azagny folyó vízgyűjtő területén fekszik, és fontos szerepet játszik a vízháztartásban. Az éghajlat trópusi, az éves csapadék meghaladja a 2000 mm-t. Az 1970-es években a terület egy részét nemzeti parkká nyilvánították a növény- és állatvilág védelme érdekében. A talaj főként ferralit, amely tápanyagszegény. A környék hagyományos falvai fenntartható vadászati és gyűjtögetési módszereket alkalmaznak.",
+      ro: "Pădurea Azagny din sudul Coastei de Fildeș se întinde pe aproximativ 20.000 de hectare și este o zonă protejată de pădure tropicală. Adăpostește o biodiversitate ridicată, cu peste 200 de specii de păsări, inclusiv rarul becat. Pădurea se află în bazinul hidrografic al râului Azagny și servește ca important bazin de captare a apei. Clima este tropicală, cu precipitații anuale de peste 2.000 mm. În anii 1970, o parte a pădurii a fost declarată parc național pentru a proteja flora și fauna unică. Solul este format în principal din ferraliți, săraci în nutrienți. Zona este cunoscută și pentru satele tradiționale care practică metode sustenabile de vânătoare și cules.",
+      en: "Azagny Forest in southern Ivory Coast spans about 20,000 hectares and is a protected rainforest area. It hosts high biodiversity with over 200 bird species, including the rare shoebill. The forest lies in the catchment of the Azagny River and serves as a crucial watershed. The climate is tropical with annual rainfall exceeding 2,000 mm. In the 1970s, part of the forest was declared a national park to protect its unique flora and fauna. The soil consists mainly of ferralitic, nutrient-poor types. The area is also known for traditional villages practicing sustainable hunting and gathering methods.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20.000 Hektar", "Niederschlag: über 2.000 mm/Jahr", "Gegründet als Nationalpark: 1970er Jahre", "Anzahl Vogelarten: über 200", "Höchste Erhebung: ca. 100 m über NN", "Bodenart: Ferralite"],
+      hu: ["Kiterjedés: 20 000 hektár", "Éves csapadék: több mint 2000 mm", "Nemzeti parkká nyilvánítva: 1970-es évek", "Madárfajok száma: több mint 200", "Legmagasabb pont: kb. 100 m tszf.", "Talajtípus: ferralit"],
+      ro: ["Suprafață: 20.000 de hectare", "Precipitații: peste 2.000 mm/an", "Declarat parc național: anii 1970", "Număr de specii de păsări: peste 200", "Altitudine maximă: aprox. 100 m", "Tip sol: ferraliți"],
+      en: ["Area: 20,000 hectares", "Rainfall: over 2,000 mm/year", "Established as national park: 1970s", "Bird species: over 200", "Highest elevation: approx. 100 m", "Soil type: ferralitic"],
+    },
+  },
   {
     id: "sassandra-coastal-nature-v2",
     type: "sea",
     parent: "CI-CI",
     coords: [-6.0, 4.8],
-    name: { de: "Sassandra-Küste", hu: "Sassandra-part", ro: "Coasta Sassandra", en: "Sassandra Coast",
-image: "/poi-images/sassandra-coastal-nature-v2.webp"
-},
+    name: { de: "Sassandra-Küste", hu: "Sassandra-part", ro: "Coasta Sassandra", en: "Sassandra Coast"},
+    image: "/poi-images/sassandra-coastal-nature-v2.webp",
     description: { de: "Ein malerischer Küstenabschnitt am Atlantik bei Sassandra.", hu: "Festői partszakasz az Atlanti-óceánon Sassandra mellett.", ro: "Coasta Sassandra este renumită pentru plajele sale sălbatice și stâncoase, unde râul Sassandra se întâlnește cu apele Atlanticului.", en: "A scenic stretch of coast on the Atlantic near Sassandra." },
     facts: {
       de: ["Wunderschöne Strände.", "Ideal für Erholung.", "Reiche Meeresfauna.", "Besondere Küstenformationen."],
       hu: ["Csodálatos strandok.", "Ideális kikapcsolódásra.", "Gazdag tengeri élővilág.", "Különleges partvonalak."],
       ro: ["Plaje sălbatice pitorești", "Gură de vărsare a râului", "Peisaj costier stâncos", "Destinație de relaxare"],
       en: ["Beautiful beaches.", "Ideal for relaxation.", "Rich marine wildlife.", "Special coastal formations."]
-    }, image: "/poi-images/sassandra-coastal-nature-v2.webp"},
+    }, image: "/poi-images/sassandra-coastal-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sassandra-Küste im Südwesten der Elfenbeinküste erstreckt sich entlang des Atlantiks und ist bekannt für ihre langen Sandstrände und Felsformationen. Die Region umfasst die Mündung des Sassandra-Flusses, die ein wichtiges Ökosystem für Mangroven und Meeresschildkröten darstellt. Der Küstenstreifen ist von einer hohen Luftfeuchtigkeit und tropischem Klima geprägt. In der Trockenzeit von November bis April sinkt die Niederschlagsmenge. Die Fischerei ist ein bedeutender Wirtschaftszweig; traditionelle Fischerdörfer säumen die Küste. Der Sassandra-Leuchtturm aus der Kolonialzeit dient als Navigation. Die Küste ist auch ein Ziel für Surfer aufgrund der Wellen.",
+      hu: "A Sassandra-part Elefántcsontpart délnyugati részén húzódik az Atlanti-óceán mentén, és hosszú homokos strandjairól és sziklaformációiról ismert. A terület magában foglalja a Sassandra folyó torkolatát, amely fontos ökoszisztémát biztosít mangroveerdők és tengeri teknősök számára. A partszakasz magas páratartalmú, trópusi éghajlatú. A száraz évszak novembertől áprilisig tart, amikor kevesebb csapadék esik. A halászat fontos gazdasági ágazat; hagyományos halászfalvak szegélyezik a partot. A gyarmati korból származó Sassandra világítótorony navigációs segédeszköz. A partszakasz a hullámok miatt szörfösök célpontja is.",
+      ro: "Coasta Sassandra din sud-vestul Coastei de Fildeș se întinde de-a lungul Atlanticului și este cunoscută pentru plajele lungi de nisip și formațiunile stâncoase. Regiunea include gura râului Sassandra, care oferă un ecosistem important pentru mangrove și țestoase marine. Fâșia de coastă are o umiditate ridicată și un climat tropical. Sezonul uscat, din noiembrie până în aprilie, aduce precipitații mai reduse. Pescuitul este o ramură economică semnificativă; sate tradiționale de pescari se aliniază de-a lungul coastei. Farul Sassandra din perioada colonială servește la navigație. Coasta este și o destinație pentru surferi datorită valurilor.",
+      en: "The Sassandra Coast in southwestern Ivory Coast stretches along the Atlantic, known for long sandy beaches and rock formations. The region includes the Sassandra River estuary, a vital ecosystem for mangroves and sea turtles. The coastal strip has high humidity and a tropical climate. The dry season from November to April brings reduced rainfall. Fishing is a major economic activity; traditional fishing villages line the coast. The colonial-era Sassandra Lighthouse serves navigation. The coast is also a surfing destination due to the waves.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Küste: ca. 100 km", "Höhe der Wellen: bis zu 3 m", "Niederschlag: ca. 1.500 mm/Jahr", "Wassertemperatur: ganzjährig um 27°C", "Anzahl der Fischerdörfer: etwa 15", "Erbauter Leuchtturm: 1905"],
+      hu: ["Part hossza: kb. 100 km", "Hullámmagasság: akár 3 m", "Éves csapadék: kb. 1500 mm", "Víz hőmérséklete: egész évben 27°C körül", "Halászfalvak száma: kb. 15", "Világítótorony építése: 1905"],
+      ro: ["Lungimea coastei: aprox. 100 km", "Înălțimea valurilor: până la 3 m", "Precipitații: aprox. 1.500 mm/an", "Temperatura apei: în jur de 27°C tot anul", "Numărul satelor de pescari: aproximativ 15", "Far construit: 1905"],
+      en: ["Coast length: approx. 100 km", "Wave height: up to 3 m", "Rainfall: approx. 1,500 mm/year", "Water temperature: around 27°C year-round", "Number of fishing villages: about 15", "Lighthouse built: 1905"],
+    },
+  },
   {
     id: "lagune-fresco-est-nature-v2",
     type: "lake",
     parent: "CI-CI",
     coords: [-5.4, 5.3],
-    name: { de: "Lagune Fresco Ost", hu: "Fresco-keleti lagúna", ro: "Laguna Fresco Est", en: "Fresco East Lagoon",
-image: "/poi-images/lagune-fresco-est-nature-v2.webp"
-},
+    name: { de: "Lagune Fresco Ost", hu: "Fresco-keleti lagúna", ro: "Laguna Fresco Est", en: "Fresco East Lagoon"},
+    image: "/poi-images/lagune-fresco-est-nature-v2.webp",
     description: { de: "Die östliche Lagune bei Fresco ist ein ruhiges Gewässer, das von dichten Mangrovenwäldern gesäumt wird.", hu: "A Fresco-lagúna keleti szakasza, amely érintetlen környezetével és vadvilágával tűnik ki a parti régióban.", ro: "Laguna Fresco Est este un ecosistem umed protejat, caracterizat prin păduri de mangrove și o bogată faună aviară.", en: "The eastern Fresco lagoon is a vital coastal ecosystem where freshwater rivers meet the Atlantic Ocean. It provides essential nesting grounds for various bird species and marine life." },
     facts: {
       de: ["Küstenregion Fresco", "Vorkommen von Rundschwanzseekühen", "Mangroven-Lebensraum"],
       hu: ["Érintetlen mocsárvidék", "Ritka madárfajok fészkelőhelye", "Fontos természetvédelmi zóna"],
       ro: ["Păduri de mangrove dense", "Habitat pentru păsări rare", "Zonă umedă protejată", "Pescuit tradițional"],
       en: ["Coastal lagoon system", "Rich marine biodiversity", "Important bird habitat", "Mangrove ecosystem"]
-    }, image: "/poi-images/lagune-fresco-est-nature-v2.webp"},
+    }, image: "/poi-images/lagune-fresco-est-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fresco-Ostlagune im Süden der Elfenbeinküste ist ein brackiges Küstengewässer, das durch eine schmale Landzunge vom Atlantik getrennt ist. Sie erstreckt sich über etwa 30 km² und ist Teil des lagunaren Systems der Region. Die Lagune beherbergt eine vielfältige Vogelwelt und ist ein wichtiger Rastplatz für Zugvögel. Umgeben von Palmenhainen und Sümpfen, wird die Gegend von Fischern für ihre reichen Fischgründe geschätzt. Der Wasserspiegel schwankt saisonal mit den Gezeiten und der Süßwasserzufuhr. Die nahegelegene Stadt Fresco (ca. 15.000 Einwohner) profitiert wirtschaftlich von der Lagune. Die Mangrovenbestände filtern Schadstoffe und schützen die Küste.",
+      hu: "A Fresco-keleti lagúna Elefántcsontpart déli részén egy félsós parti víz, amelyet egy keskeny földnyelv választ el az Atlanti-óceántól. Kiterjedése kb. 30 km², és a régió lagúnarendszerének része. A lagúna gazdag madárvilágnak ad otthont, és fontos pihenőhely a vonuló madarak számára. Pálmaligetek és mocsarak veszik körül, a halászok gazdag halászati területként értékelik. A vízszint évszakosan változik az árapály és az édesvíz beáramlás függvényében. A közeli Fresco város (kb. 15.000 lakos) gazdaságilag profitál a lagúnából. A mangroveállományok szűrik a szennyeződéseket és védik a partot.",
+      ro: "Laguna Fresco Est din sudul Coastei de Fildeș este o apă salmastră de coastă, separată de Atlantic printr-o fâșie îngustă de pământ. Se întinde pe aproximativ 30 km² și face parte din sistemul lagunar al regiunii. Laguna găzduiește o avifaună diversă și este un important loc de popas pentru păsările migratoare. Înconjurată de palmieri și mlaștini, zona este apreciată de pescari pentru resursele piscicole bogate. Nivelul apei variază sezonier cu mareele și aportul de apă dulce. Orașul apropiat Fresco (aproximativ 15.000 de locuitori) beneficiază economic de pe urma lagunei. Pădurile de mangrove filtrează poluanții și protejează țărmul.",
+      en: "The Fresco East Lagoon in southern Ivory Coast is a brackish coastal water body separated from the Atlantic by a narrow sandbar. It covers about 30 km² and is part of the region's lagoon system. The lagoon hosts diverse birdlife and is an important stopover for migratory birds. Surrounded by palm groves and swamps, it is valued by fishermen for rich fishing grounds. Water levels fluctuate seasonally with tides and freshwater inflow. The nearby town of Fresco (about 15,000 inhabitants) benefits economically from the lagoon. Mangrove stands filter pollutants and protect the coast.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 30 km²", "Salzgehalt: 5-15 ppt", "Tiefe: maximal 2 m", "Zugvogelarten: über 50", "Einwohner Fresco: 15.000", "Mangrovenfläche: 5 km²"],
+      hu: ["Terület: 30 km²", "Sósság: 5-15 ppt", "Mélység: maximum 2 m", "Vonuló madárfajok: több mint 50", "Fresco lakossága: 15.000", "Mangrove terület: 5 km²"],
+      ro: ["Suprafață: 30 km²", "Salinitate: 5-15 ppt", "Adâncime: maxim 2 m", "Specii de păsări migratoare: peste 50", "Populația orașului Fresco: 15.000", "Suprafață mangrove: 5 km²"],
+      en: ["Area: 30 km²", "Salinity: 5-15 ppt", "Depth: maximum 2 m", "Migratory bird species: over 50", "Population of Fresco: 15,000", "Mangrove area: 5 km²"],
+    },
+  },
   {
     id: "mount-niam-nature-v2",
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.2, 7.7],
-    name: { de: "Mont Niam", hu: "Niam-hegy", ro: "Muntele Niam", en: "Mount Niam",
-image: "/poi-images/mount-niam-nature-v2.webp"
-},
+    name: { de: "Mont Niam", hu: "Niam-hegy", ro: "Muntele Niam", en: "Mount Niam"},
+    image: "/poi-images/mount-niam-nature-v2.webp",
     description: { de: "Ein Bergmassiv im Westen des Landes, das Teil der geologischen Formationen nahe der Grenze zu Guinea ist.", hu: "Az északi szavannás területeken magasodó izolált hegy, amely látványos kontrasztot alkot a sík vidékkel.", ro: "Muntele Niam este o formațiune granitică izolată în vestul țării, oferind un habitat unic pentru numeroase specii endemice.", en: "Mount Niam is a significant rocky outcrop located in the northern savanna region near Boundiali. It stands as a prominent landmark in an otherwise flat landscape." },
     facts: {
       de: ["Westliche Elfenbeinküste", "Granitische Felsformationen", "Bedeutendes Wassereinzugsgebiet"],
       hu: ["Északi szavanna régió", "Magányos kiemelkedés", "Panoráma a szavannára"],
       ro: ["Formațiune de granit", "Vederi asupra savanei", "Habitat pentru specii rare", "Zonă de drumeție liniștită"],
       en: ["Northern savanna landmark", "Granite rock formation", "Near the town of Boundiali", "Local spiritual significance"]
-    }, image: "/poi-images/mount-niam-nature-v2.webp"},
+    }, image: "/poi-images/mount-niam-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Niam (auch Niam-Berg) ist ein markanter Gipfel im westlichen Teil der Elfenbeinküste, nahe der Grenze zu Guinea. Er erhebt sich auf etwa 1.200 Meter über dem Meeresspiegel und ist Teil des Hochlandes von Guinea. Die Region ist dicht bewaldet und gehört zum Ökosystem des westafrikanischen Regenwaldes. Der Berg ist bekannt für seine Artenvielfalt, insbesondere für endemische Vogel- und Schmetterlingsarten. In der Umgebung leben traditionelle Gemeinschaften, die Landwirtschaft und Jagd betreiben. Der Mount Niam ist ein wichtiges Wassereinzugsgebiet; zahlreiche kleine Flüsse entspringen an seinen Hängen. Aufgrund seiner Abgeschiedenheit ist der Berg kaum erschlossen, aber ein Ziel für Ökotourismus.",
+      hu: "A Mount Niam (más néven Niam-hegy) egy kiemelkedő hegycsúcs Elefántcsontpart nyugati részén, a guineai határ közelében. Magassága körülbelül 1200 méter tengerszint felett. A hegyet sűrű trópusi esőerdő borítja, amely gazdag biodiverzitásáról ismert. Endemikus madár- és rovarfajok élnek itt. A helyi lakosság főként mezőgazdaságból él, termesztenek kávét, kakaót és gumit. A hegy fontos vízgyűjtő terület, forrásai táplálják a Niam folyót. A turizmus még gyerekcipőben jár, de a természetjárók és madármegfigyelők egyre gyakrabban keresik fel. A régióban található arany- és gyémántbányák is gazdasági jelentőséggel bírnak.",
+      ro: "Muntele Niam este un vârf proeminent situat în vestul Coastei de Fildeș, aproape de granița cu Guineea. Altitudinea sa este de aproximativ 1.200 de metri. Muntele face parte din Podișul Guineei și este acoperit de păduri tropicale dense, care adăpostesc o diversitate biologică remarcabilă, inclusiv specii endemice de păsări și fluturi. Comunitățile locale practică agricultura de subzistență, cultivând caféa, cacao și cauciuc. Muntele este o sursă importantă de apă, alimentând râul Niam. Zona are potențial pentru ecoturism, dar rămâne în mare parte neexploatată. Resursele minerale includ aur și diamante, care contribuie la economia locală.",
+      en: "Mount Niam is a prominent peak in western Côte d'Ivoire, near the border with Guinea, reaching about 1,200 meters in elevation. It is part of the Guinea Highlands and covered by dense tropical rainforest, hosting a rich biodiversity including endemic bird and butterfly species. The local economy is based on subsistence farming (coffee, cocoa, rubber) and small-scale mining of gold and diamonds. The mountain serves as a crucial watershed for the Niam River. Ecotourism is emerging but limited due to remote access. The area is also known for its cultural heritage of the Dan people.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.200 m.", "Fläche des Bergmassivs: ca. 50 km².", "Jährlicher Niederschlag: über 2.000 mm.", "Endemische Vogelarten: mindestens 5.", "Bevölkerungsdichte: unter 10 Einwohner/km².", "Durchschnittstemperatur: 24 °C."],
+      hu: ["Magasság: kb. 1200 m.", "Terület: körülbelül 50 km².", "Éves csapadék: 2000 mm felett.", "Endemikus madárfajok száma: legalább 5.", "Népesség: kevesebb mint 10 fő/km².", "Átlaghőmérséklet: 24 °C."],
+      ro: ["Altitudine: aproximativ 1.200 m.", "Suprafața masivului: circa 50 km².", "Precipitații anuale: peste 2.000 mm.", "Specii endemice de păsări: cel puțin 5.", "Densitatea populației: sub 10 locuitori/km².", "Temperatura medie: 24 °C."],
+      en: ["Elevation: about 1,200 m.", "Area of massif: approx. 50 km².", "Annual rainfall: over 2,000 mm.", "Endemic bird species: at least 5.", "Population density: under 10 per km².", "Average temperature: 24 °C."],
+    },
+  },
   {
     id: "mount-toura-nature-v2",
     type: "mountain",
     parent: "CI-CI",
     coords: [-7.4, 7.8],
-    name: { de: "Mont Toura", hu: "Toura-hegy", ro: "Muntele Toura", en: "Mount Toura",
-image: "/poi-images/mount-toura-nature-v2.webp"
-},
+    name: { de: "Mont Toura", hu: "Toura-hegy", ro: "Muntele Toura", en: "Mount Toura"},
+    image: "/poi-images/mount-toura-nature-v2.webp",
     description: { de: "Ein Berg in der Toura-Region im Westen des Landes.", hu: "Hegy a nyugati Toura-régióban.", ro: "Munții Toura reprezintă un lanț muntos împădurit în vest, esențial pentru reglarea climatului local și a resurselor de apă.", en: "A mountain in the Toura region in the west of the country." },
     facts: {
       de: ["Schöne Wanderwege.", "Grüne Umgebung.", "Kühlere Temperaturen.", "Teil des westlichen Berglandes."],
       hu: ["Szép túraútvonalak.", "Zöld környezet.", "Hűvösebb hőmérséklet.", "A nyugati hegyvidék része."],
       ro: ["Lanț muntos împădurit", "Sursă importantă de apă", "Biodiversitate tropicală", "Climat montan umed"],
       en: ["Beautiful hiking trails.", "Green surroundings.", "Cooler temperatures.", "Part of the western mountain region."]
-      }
+      },
+    descriptionAdvanced: {
+      de: "Der Mount Toura (auch Toura-Berg) ist ein Berg im Westen der Elfenbeinküste, Teil des Toura-Massivs. Mit einer Höhe von etwa 1.200 Metern dominiert er die umliegende Savanne. Der Berg ist bekannt für seine reiche Flora und Fauna, darunter seltene Affenarten und zahlreiche Vogelarten. Die Hänge sind mit Trockenwäldern und Galeriewäldern entlang der Flüsse bedeckt. Die lokale Wirtschaft basiert auf Landwirtschaft (Mais, Maniok) und Viehzucht. Der Mount Toura hat kulturelle Bedeutung für die Toura-Ethnie, die an den Hängen siedelt. Es gibt Bestrebungen, das Gebiet als Naturschutzgebiet auszuweisen, um die Biodiversität zu schützen. Der Berg ist auch ein wichtiger Orientierungspunkt für die Region.",
+      hu: "A Mount Toura Elefántcsontpart nyugati részén található, a Toura-masszívum része. Magassága körülbelül 1200 méter, így uralja a környező szavannát. A hegy változatos élőhelyekkel rendelkezik: száraz erdők, galériaerdők és szavannás területek. Állatvilága gazdag, többek között páviánok, antilopok és számos madárfaj él itt. A helyi gazdaság a mezőgazdaságra (kukorica, manióka) és az állattenyésztésre épül. A Toura népi csoport számára a hegy szent hely. A térségben található vasérc-lelőhelyek is gazdasági potenciált jelenthetnek. A turizmus fejletlen, de a természetjárók felfedezhetik a vidéket.",
+      ro: "Muntele Toura este situat în vestul Coastei de Fildeș, făcând parte din masivul Toura. Cu o altitudine de aproximativ 1.200 m, domină savana înconjurătoare. Muntele este acoperit de păduri uscate și păduri-galerie de-a lungul râurilor, adăpostind o faună variată, inclusiv maimuțe, antilope și păsări. Economia locală se bazează pe agricultură (porumb, manioc) și creșterea animalelor. Muntele are semnificație culturală pentru etnia Toura. Există zăcăminte de minereu de fier în regiune, care ar putea fi exploatate. Zona este puțin populată, cu densitate sub 15 locuitori/km².",
+      en: "Mount Toura is a mountain in western Côte d'Ivoire, part of the Toura Massif, rising to about 1,200 m. It overlooks the surrounding savanna and is characterized by dry forests and gallery forests. Wildlife includes baboons, antelopes, and over 200 bird species. The local Toura people consider the mountain sacred. The economy relies on subsistence farming and cattle herding. The region has iron ore deposits, though mining is limited. Ecotourism is minimal but has potential for hiking and birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: etwa 1.200 m.", "Fläche des Massivs: ca. 100 km².", "Jährlicher Niederschlag: 1.500 mm.", "Anzahl Vogelarten: über 200.", "Einwohner: rund 20.000 in der Region.", "Höchste Temperatur: 35 °C."],
+      hu: ["Magasság: kb. 1200 m.", "Terület: kb. 100 km².", "Éves csapadék: 1500 mm.", "Madárfajok száma: több mint 200.", "Lakosság: kb. 20.000 fő a régióban.", "Legmagasabb hőmérséklet: 35 °C."],
+      ro: ["Altitudine: aproximativ 1.200 m.", "Suprafața masivului: circa 100 km².", "Precipitații anuale: 1.500 mm.", "Număr de specii de păsări: peste 200.", "Populație: circa 20.000 în regiune.", "Temperatura maximă: 35 °C."],
+      en: ["Elevation: about 1,200 m.", "Area of massif: approx. 100 km².", "Annual rainfall: 1,500 mm.", "Bird species: over 200.", "Population: about 20,000 in region.", "Maximum temperature: 35 °C."],
+    },
   }
 ];
 

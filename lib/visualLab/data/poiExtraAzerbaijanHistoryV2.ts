@@ -6,9 +6,8 @@ export const poiExtraAzerbaijanHistoryV2: POI[] = [
     type: "historical-site",
     parent: "AZ-ABS",
     coords: [49.3833, 39.9961],
-    name: { de: "Felszeichnungen von Qobustan", hu: "Qobustáni sziklarajzok", ro: "Petroglifele din Gobustan", en: "Gobustan Rock Art",
-image: "/poi-images/gobustan-rock-art-history-v2.webp"
-},
+    name: { de: "Felszeichnungen von Qobustan", hu: "Qobustáni sziklarajzok", ro: "Petroglifele din Gobustan", en: "Gobustan Rock Art"},
+    image: "/poi-images/gobustan-rock-art-history-v2.webp",
     description: {
       de: "Ein UNESCO-Weltkulturerbe mit alten Felszeichnungen, die prähistorisches Leben, Jagdszenen und Tänze darstellen.",
       hu: "Az UNESCO Világörökség része, amely őskori életet, vadászjeleneteket és táncokat ábrázoló sziklarajzairól ismert.",
@@ -34,9 +33,8 @@ image: "/poi-images/gobustan-rock-art-history-v2.webp"
     type: "monument",
     parent: "AZ-BA",
     coords: [49.8372, 40.3661],
-    name: { de: "Jungfrauenturm", hu: "Szűz-torony", ro: "Turnul Fecioarei", en: "Maiden Tower",
-image: "/poi-images/maiden-tower-history-v2.webp"
-},
+    name: { de: "Jungfrauenturm", hu: "Szűz-torony", ro: "Turnul Fecioarei", en: "Maiden Tower"},
+    image: "/poi-images/maiden-tower-history-v2.webp",
     description: {
       de: "Ein ikonisches Wahrzeichen in der Altstadt von Baku aus dem 12. Jahrhundert, dessen ursprünglicher Zweck immer noch debattiert wird.",
       hu: "Egy ikonikus műemlék Baku óvárosában a 12. századból, amelynek eredeti funkciója ma is vitatott.",
@@ -62,9 +60,8 @@ image: "/poi-images/maiden-tower-history-v2.webp"
     type: "historical-site",
     parent: "AZ-BA",
     coords: [49.8336, 40.3661],
-    name: { de: "Palast der Schirwanschahs", hu: "Sirvánsah-palota", ro: "Palatul Șirvanșahilor", en: "Palace of the Shirvanshahs",
-image: "/poi-images/shirvanshahs-palace-history-v2.webp"
-},
+    name: { de: "Palast der Schirwanschahs", hu: "Sirvánsah-palota", ro: "Palatul Șirvanșahilor", en: "Palace of the Shirvanshahs"},
+    image: "/poi-images/shirvanshahs-palace-history-v2.webp",
     description: {
       de: "Ein Meisterwerk der aserbaidschanischen Architektur des 15. Jahrhunderts, das den Herrschern der Schirwan-Region diente.",
       hu: "A 15. századi azerbajdzsáni építészet remekműve, amely a sirváni uralkodók rezidenciája volt.",
@@ -90,9 +87,8 @@ image: "/poi-images/shirvanshahs-palace-history-v2.webp"
     type: "historical-site",
     parent: "AZ-BA",
     coords: [50.0058, 40.4154],
-    name: { de: "Feuertempel von Baku", hu: "Baku Tűztemploma", ro: "Templul Focului din Baku", en: "Ateshgah of Baku",
-image: "/poi-images/ateshgah-baku-history-v2.webp"
-},
+    name: { de: "Feuertempel von Baku", hu: "Baku Tűztemploma", ro: "Templul Focului din Baku", en: "Ateshgah of Baku"},
+    image: "/poi-images/ateshgah-baku-history-v2.webp",
     description: {
       de: "Ein historischer Tempel, der von zoroastrischen, hinduistischen und sikhischen Gläubigen aufgrund seiner natürlichen Erdgasflammen genutzt wurde.",
       hu: "Történelmi templom, amelyet zoroasztriánus, hindu és szikh hívők is használtak a földgáz által táplált lángok miatt.",
@@ -118,9 +114,8 @@ image: "/poi-images/ateshgah-baku-history-v2.webp"
     type: "monument",
     parent: "AZ-NX",
     coords: [45.4055, 39.2069],
-    name: { de: "Momine-Khatun-Mausoleum", hu: "Mömine Hatun-mauzóleum", ro: "Mausoleul Momine Khatun", en: "Momine Khatun Mausoleum",
-image: "/poi-images/momine-khatun-history-v2.webp"
-},
+    name: { de: "Momine-Khatun-Mausoleum", hu: "Mömine Hatun-mauzóleum", ro: "Mausoleul Momine Khatun", en: "Momine Khatun Mausoleum"},
+    image: "/poi-images/momine-khatun-history-v2.webp",
     description: {
       de: "Ein prächtiges, zehneckiges Backsteinmausoleum in Nachitschewan, das 1186 für die Ehefrau eines lokalen Herrschers erbaut wurde.",
       hu: "Egy csodálatos, tízszögletű tégla mauzóleum Nahicsevánban, amelyet 1186-ban építettek egy helyi uralkodó feleségének.",
@@ -146,9 +141,8 @@ image: "/poi-images/momine-khatun-history-v2.webp"
     type: "historical-site",
     parent: "AZ-SA",
     coords: [47.1977, 41.2052],
-    name: { de: "Palast der Khane von Şəki", hu: "Şəki kánok palotája", ro: "Palatul Hanilor din Shaki", en: "Palace of Shaki Khans",
-image: "/poi-images/shaki-khans-palace-history-v2.webp"
-},
+    name: { de: "Palast der Khane von Şəki", hu: "Şəki kánok palotája", ro: "Palatul Hanilor din Shaki", en: "Palace of Shaki Khans"},
+    image: "/poi-images/shaki-khans-palace-history-v2.webp",
     description: {
       de: "Eine Sommerresidenz aus dem 18. Jahrhundert, berühmt für ihre farbenprächtigen Buntglasfenster und aufwendigen Wandmalereien.",
       hu: "Egy 18. századi nyári rezidencia, amely híres színes üvegablakairól és bonyolult falfestményeiről.",
@@ -174,9 +168,8 @@ image: "/poi-images/shaki-khans-palace-history-v2.webp"
     type: "historical-site",
     parent: "AZ-JAB",
     coords: [46.9427, 39.1558],
-    name: { de: "Chudaferin-Brücken", hu: "Xudafərin-hidak", ro: "Podurile Khudafarin", en: "Khudafarin Bridges",
-image: "/poi-images/khudafarin-bridges-history-v2.webp"
-},
+    name: { de: "Chudaferin-Brücken", hu: "Xudafərin-hidak", ro: "Podurile Khudafarin", en: "Khudafarin Bridges"},
+    image: "/poi-images/khudafarin-bridges-history-v2.webp",
     description: {
       de: "Zwei historische Steinbogenbrücken über den Aras-Fluss, die im 11. und 13. Jahrhundert die Seidenstraße verbanden.",
       hu: "Két történelmi kőhíd az Araksz folyó felett, amelyek a 11. és 13. században a Selyemutat kötötték össze.",
@@ -202,9 +195,8 @@ image: "/poi-images/khudafarin-bridges-history-v2.webp"
     type: "ruin",
     parent: "AZ-SMI",
     coords: [48.6186, 40.6380],
-    name: { de: "Festung Gulistan", hu: "Gülisztán-erőd", ro: "Cetatea Gulistan", en: "Gulistan Fortress",
-image: "/poi-images/gulistan-fortress-history-v2.webp"
-},
+    name: { de: "Festung Gulistan", hu: "Gülisztán-erőd", ro: "Cetatea Gulistan", en: "Gulistan Fortress"},
+    image: "/poi-images/gulistan-fortress-history-v2.webp",
     description: {
       de: "Die Ruinen einer mittelalterlichen Verteidigungsanlage nahe Şamaxı, die einst als Rückzugsort der Schirwanschahs diente.",
       hu: "Egy középkori védelmi erődítmény romjai Şamaxı közelében, amely egykor a sirváni sahok menedéke volt.",
@@ -230,9 +222,8 @@ image: "/poi-images/gulistan-fortress-history-v2.webp"
     type: "ruin",
     parent: "AZ-SAB",
     coords: [48.9482, 41.0792],
-    name: { de: "Tschirag Gala", hu: "Çıraqqala", ro: "Chirag Gala", en: "Chirag Gala",
-image: "/poi-images/chirag-gala-history-v2.webp"
-},
+    name: { de: "Tschirag Gala", hu: "Çıraqqala", ro: "Chirag Gala", en: "Chirag Gala"},
+    image: "/poi-images/chirag-gala-history-v2.webp",
     description: {
       de: "Eine verfallene Festung auf einem Berggipfel aus dem 5. Jahrhundert, die als Signalfeuerstation der kaspischen Verteidigungslinie genutzt wurde.",
       hu: "Egy 5. századi hegytetői erőd romja, amelyet a kászpi védelmi vonal jelzőtüzeinek állomásaként használtak.",
@@ -258,9 +249,8 @@ image: "/poi-images/chirag-gala-history-v2.webp"
     type: "historical-site",
     parent: "AZ-SMI",
     coords: [48.6416, 40.6277],
-    name: { de: "Dschuma-Moschee von Şamaxı", hu: "Şamaxı Juma-mecset", ro: "Moscheea Juma din Shamakhi", en: "Shamakhi Juma Mosque",
-image: "/poi-images/shamakhi-juma-mosque-history-v2.webp"
-},
+    name: { de: "Dschuma-Moschee von Şamaxı", hu: "Şamaxı Juma-mecset", ro: "Moscheea Juma din Shamakhi", en: "Shamakhi Juma Mosque"},
+    image: "/poi-images/shamakhi-juma-mosque-history-v2.webp",
     description: {
       de: "Eine der ältesten und größten Moscheen im Kaukasus, die ursprünglich 743 erbaut und nach Erdbeben mehrfach wiederaufgebaut wurde.",
       hu: "A Kaukázus egyik legrégebbi és legnagyobb mecsete, amelyet eredetileg 743-ban építettek, majd földrengések után többször újjáépítettek.",
@@ -286,9 +276,8 @@ image: "/poi-images/shamakhi-juma-mosque-history-v2.webp"
     type: "monument",
     parent: "AZ-QOB",
     coords: [48.9242, 40.5318],
-    name: { de: "Diri-Baba-Mausoleum", hu: "Diri Baba-mauzóleum", ro: "Mausoleul Diri Baba", en: "Diri Baba Mausoleum",
-image: "/poi-images/diri-baba-mausoleum-history-v2.webp"
-},
+    name: { de: "Diri-Baba-Mausoleum", hu: "Diri Baba-mauzóleum", ro: "Mausoleul Diri Baba", en: "Diri Baba Mausoleum"},
+    image: "/poi-images/diri-baba-mausoleum-history-v2.webp",
     description: {
       de: "Ein zweistöckiges Mausoleum aus dem Jahr 1402, das scheinbar in die Klippenfelsen von Maraza eingehauen ist und als heilige Stätte verehrt wird.",
       hu: "Egy 1402-ből származó kétszintes mauzóleum, amelyet látszólag Maráza sziklafalaiba vájtak, és szent helyként tisztelnek.",
@@ -314,9 +303,8 @@ image: "/poi-images/diri-baba-mausoleum-history-v2.webp"
     type: "historical-site",
     parent: "AZ-BA",
     coords: [50.1691, 40.4419],
-    name: { de: "Archäologisches Reservat Qala", hu: "Qala Régészeti Komplexum", ro: "Rezervația Arheologică Gala", en: "Gala Archaeological Reserve",
-image: "/poi-images/gala-archaeological-history-v2.webp"
-},
+    name: { de: "Archäologisches Reservat Qala", hu: "Qala Régészeti Komplexum", ro: "Rezervația Arheologică Gala", en: "Gala Archaeological Reserve"},
+    image: "/poi-images/gala-archaeological-history-v2.webp",
     description: {
       de: "Ein Freilichtmuseum auf der Abşeron-Halbinsel, das archäologische Funde, historische Wohnstätten und Artefakte vom 3. Jahrtausend v. Chr. präsentiert.",
       hu: "Egy szabadtéri múzeum az Absheron-félszigeten, amely régészeti leleteket, történelmi lakóhelyeket és leleteket mutat be a Kr. e. 3. évezredből.",
@@ -342,9 +330,8 @@ image: "/poi-images/gala-archaeological-history-v2.webp"
     type: "historical-site",
     parent: "AZ-BA",
     coords: [49.9796, 40.4578],
-    name: { de: "Burg Ramana", hu: "Ramana-kastély", ro: "Castelul Ramana", en: "Ramana Castle",
-image: "/poi-images/ramana-castle-history-v2.webp"
-},
+    name: { de: "Burg Ramana", hu: "Ramana-kastély", ro: "Castelul Ramana", en: "Ramana Castle"},
+    image: "/poi-images/ramana-castle-history-v2.webp",
     description: {
       de: "Ein Wachturm und eine Festung aus dem 14. Jahrhundert in der Nähe von Baku, Teil des historischen Verteidigungsnetzwerks der Halbinsel.",
       hu: "Egy 14. századi őrtorony és erőd Baku közelében, amely a félsziget történelmi védelmi hálózatának része volt.",
@@ -370,9 +357,8 @@ image: "/poi-images/ramana-castle-history-v2.webp"
     type: "historical-site",
     parent: "AZ-BA",
     coords: [50.1417, 40.4930],
-    name: { de: "Festung von Mərdəkan", hu: "Mərdəkan-erőd", ro: "Castelul Mardakan", en: "Mardakan Castle",
-image: "/poi-images/mardakan-castle-history-v2.webp"
-},
+    name: { de: "Festung von Mərdəkan", hu: "Mərdəkan-erőd", ro: "Castelul Mardakan", en: "Mardakan Castle"},
+    image: "/poi-images/mardakan-castle-history-v2.webp",
     description: {
       de: "Eine mittelalterliche Festungsanlage in Quadratform, die im 12. Jahrhundert von den Schirwanschahs zur Verteidigung gegen Feinde vom Meer errichtet wurde.",
       hu: "Egy középkori, négyzet alakú erődítmény, amelyet a 12. században a sirváni sahok építettek a tengeri ellenségekkel szembeni védekezésként.",
@@ -398,9 +384,8 @@ image: "/poi-images/mardakan-castle-history-v2.webp"
     type: "monument",
     parent: "AZ-GA",
     coords: [46.3572, 40.6806],
-    name: { de: "Dschawad-Khan-Mausoleum", hu: "Cavad kán-mauzóleum", ro: "Mausoleul lui Javad Han", en: "Javad Khan Mausoleum",
-image: "/poi-images/javad-khan-mausoleum-history-v2.webp"
-},
+    name: { de: "Dschawad-Khan-Mausoleum", hu: "Cavad kán-mauzóleum", ro: "Mausoleul lui Javad Han", en: "Javad Khan Mausoleum"},
+    image: "/poi-images/javad-khan-mausoleum-history-v2.webp",
     description: {
       de: "Die Grabstätte des letzten Khans von Gandscha, der 1804 beim heldenhaften Versuch starb, seine Stadt gegen russische Truppen zu verteidigen.",
       hu: "Ganja utolsó kánjának nyughelye, aki 1804-ben halt meg, miközben hősiesen védte városát az orosz csapatokkal szemben.",
@@ -426,9 +411,8 @@ image: "/poi-images/javad-khan-mausoleum-history-v2.webp"
     type: "ruin",
     parent: "AZ-NX",
     coords: [45.7161, 39.1916],
-    name: { de: "Alindscha-Gala", hu: "Alinja-erőd", ro: "Castelul Alinja", en: "Alinja Castle",
-image: "/poi-images/alinja-castle-history-v2.webp"
-},
+    name: { de: "Alindscha-Gala", hu: "Alinja-erőd", ro: "Castelul Alinja", en: "Alinja Castle"},
+    image: "/poi-images/alinja-castle-history-v2.webp",
     description: {
       de: "Eine unbezwingbare Bergfestung in Nachitschewan, oft als 'aserbaidschanisches Machu Picchu' bezeichnet, die 14 Jahre lang der Belagerung durch Timur standhielt.",
       hu: "Egy bevehetetlen hegyi erőd Nahicsevánban, amelyet gyakran 'azerbajdzsáni Machu Picchunak' hívnak, és 14 évig ellenállt Timur seregének.",
@@ -454,9 +438,8 @@ image: "/poi-images/alinja-castle-history-v2.webp"
     type: "historical-site",
     parent: "AZ-SA",
     coords: [47.1936, 41.2483],
-    name: { de: "Kirche von Kisch", hu: "Kişi albán templom", ro: "Biserica Albaneză din Kiș", en: "Kish Albanian Church",
-image: "/poi-images/kish-albanian-church-history-v2.webp"
-},
+    name: { de: "Kirche von Kisch", hu: "Kişi albán templom", ro: "Biserica Albaneză din Kiș", en: "Kish Albanian Church"},
+    image: "/poi-images/kish-albanian-church-history-v2.webp",
     description: {
       de: "Eine der ältesten christlichen Kirchen im Kaukasus, gelegen im Dorf Kiş, die der kaukasischen albanischen Architekturtradition zugeschrieben wird.",
       hu: "A Kaukázus egyik legrégebbi keresztény temploma Kiş faluban, amely a kaukázusi albán építészeti hagyományokat képviseli.",
@@ -482,9 +465,8 @@ image: "/poi-images/kish-albanian-church-history-v2.webp"
     type: "monument",
     parent: "AZ-GA",
     coords: [46.4326, 40.6772],
-    name: { de: "Nizami-Mausoleum", hu: "Nizámi-mauzóleum", ro: "Mausoleul lui Nizami", en: "Nizami Mausoleum",
-image: "/poi-images/nizami-mausoleum-history-v2.webp"
-},
+    name: { de: "Nizami-Mausoleum", hu: "Nizámi-mauzóleum", ro: "Mausoleul lui Nizami", en: "Nizami Mausoleum"},
+    image: "/poi-images/nizami-mausoleum-history-v2.webp",
     description: {
       de: "Ein elegantes Denkmal in der Nähe von Gandscha zu Ehren von Nizami Gandschawi, einem der größten persischsprachigen Dichter des 12. Jahrhunderts.",
       hu: "Elegáns emlékmű Ganja közelében Nizami Ganjavi, a 12. század egyik legnagyobb perzsa nyelvű költőjének tiszteletére.",
@@ -510,9 +492,8 @@ image: "/poi-images/nizami-mausoleum-history-v2.webp"
     type: "ruin",
     parent: "AZ-QAB",
     coords: [47.8105, 40.8927],
-    name: { de: "Ruinen von Alt-Qəbələ", hu: "Ó-Qəbələ romjai", ro: "Ruinele Vechii Gabala", en: "Old Gabala Ruins",
-image: "/poi-images/gebele-archaeological-site-history-v2.webp"
-},
+    name: { de: "Ruinen von Alt-Qəbələ", hu: "Ó-Qəbələ romjai", ro: "Ruinele Vechii Gabala", en: "Old Gabala Ruins"},
+    image: "/poi-images/gebele-archaeological-site-history-v2.webp",
     description: {
       de: "Die Ausgrabungsstätte der alten Hauptstadt des Königreichs von Kaukasus-Albanien mit Resten von Festungsmauern und Toren aus der Antike.",
       hu: "A kaukázusi Albánia ősi fővárosának ásatási területe, amely az ókorból származó várfalak és kapuk maradványait rejti.",
@@ -538,9 +519,8 @@ image: "/poi-images/gebele-archaeological-site-history-v2.webp"
     type: "monument",
     parent: "AZ-NX",
     coords: [45.4055, 39.1983],
-    name: { de: "Mausoleum von Noah", hu: "Noé mauzóleuma", ro: "Mausoleul lui Noe", en: "Noah's Mausoleum",
-image: "/poi-images/noahs-mausoleum-history-v2.webp"
-},
+    name: { de: "Mausoleum von Noah", hu: "Noé mauzóleuma", ro: "Mausoleul lui Noe", en: "Noah's Mausoleum"},
+    image: "/poi-images/noahs-mausoleum-history-v2.webp",
     description: {
       de: "Ein heiliger Schrein in Nachitschewan, der nach lokaler Überlieferung die Grabstätte der biblischen Figur Noah sein soll.",
       hu: "Egy szentély Nahicsevánban, amely a helyi hagyomány szerint a bibliai Noé nyughelye.",

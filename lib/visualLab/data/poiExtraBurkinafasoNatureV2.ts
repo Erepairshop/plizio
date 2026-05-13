@@ -7,454 +7,810 @@ export const poiExtraBurkinafasoNatureV2: POI[] = [
     type: "river",
     parent: "BF-04",
     coords: [-3.8, 11.5],
-    name: { de: "Schwarzer Volta", hu: "Fekete-Volta", ro: "Volta Neagră", en: "Black Volta",
-image: "/poi-images/volta-noire-river-nature-v2.webp"
-},
+    name: { de: "Schwarzer Volta", hu: "Fekete-Volta", ro: "Volta Neagră", en: "Black Volta"},
+    image: "/poi-images/volta-noire-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss in Westafrika, der durch Burkina Faso fließt.", hu: "Jelentős nyugat-afrikai folyó, amely átfolyik Burkina Fasón.", ro: "Un râu important în Africa de Vest care curge prin Burkina Faso.", en: "A significant river in West Africa flowing through Burkina Faso." },
     facts: {
       de: ["Entspringt in Burkina Faso", "Wichtige Wasserquelle"],
       hu: ["Burkina Fasóban ered", "Fontos vízforrás"],
       ro: ["Izvorăște din Burkina Faso", "Sursă importantă de apă"],
       en: ["Originates in Burkina Faso", "Important water source"]
-    }, image: "/poi-images/volta-noire-river-nature-v2.webp"},
+    }, image: "/poi-images/volta-noire-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Schwarze Volta (Volta Noire) ist ein bedeutender Fluss in Westafrika, der Burkina Faso durchfließt. Er entspringt in der Provinz Houet und fließt in südlicher Richtung, um später in den Voltasee in Ghana zu münden. Der Fluss ist etwa 1.350 Kilometer lang, wovon 800 Kilometer auf Burkina Faso entfallen. Er bildet teilweise die Grenze zu Ghana und zur Elfenbeinküste. Der Schwarze Volta ist nicht schiffbar, aber wichtig für die Bewässerung. An seinen Ufern werden Reis und Gemüse angebaut. Der Fluss hat saisonale Hochwasser in der Regenzeit. Er beherbergt Fischarten wie Tilapia und Welse. Die Wasserqualität ist durch Aktivitäten bedroht. Der Name leitet sich von den dunklen Gesteinen im Flussbett ab.",
+      hu: "A Fekete Volta (Volta Noire) egy jelentős nyugat-afrikai folyó, amely átfolyik Burkina Fasón. A Houet tartományban ered, és dél felé haladva Ghánában a Volta-tóba torkollik. Hossza körülbelül 1350 km, ebből 800 km Burkina Fasóban található. Részben határt képez Ghána és Elefántcsontpart felé. A Fekete Volta nem hajózható, de fontos az öntözésben. Partjain rizst és zöldséget termesztenek. Az esős évszakban időszakos áradások jellemzik. Halfajok, mint a tilápia és harcsa élnek benne. A vízminőséget tevékenységek fenyegetik. Nevét a meder sötét szikláiról kapta.",
+      ro: "Râul Volta Negru (Volta Noire) este un fluviu important în Africa de Vest, care traversează Burkina Faso. Izvorăște din provincia Houet și curge spre sud, vărsându-se în Lacul Volta din Ghana. Are aproximativ 1.350 km lungime, dintre care 800 km în Burkina Faso. În parte, formează granița cu Ghana și Coasta de Fildeș. Volta Negru nu este navigabil, dar important pentru irigații. Pe malurile sale se cultivă orez și legume. Are inundații sezoniere în sezonul ploios. Găzduiește pești precum tilapia și somnul. Calitatea apei este amenințată de activități. Numele provine de la rocile întunecate din albie.",
+      en: "The Black Volta (Volta Noire) is a major river in West Africa flowing through Burkina Faso. It rises in Houet Province and flows south into Lake Volta in Ghana. The river is about 1,350 km long, with 800 km in Burkina Faso. It partially forms the border with Ghana and Ivory Coast. The Black Volta is not navigable but crucial for irrigation; rice and vegetables are grown along its banks. It has seasonal floods during the rainy season. The river hosts fish species like tilapia and catfish. Water quality is threatened by human activities. Its name comes from dark rocks in the riverbed.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 1.350 km", "Davon 800 km in Burkina Faso", "Mündet in den Voltasee (Ghana)", "Einzugsgebiet: 140.000 km²", "maximale Breite: 200 m", "Durchfluss: 250 m³/s"],
+      hu: ["Hossz: 1350 km", "Ebből 800 km Burkina Fasóban", "A Volta-tóba torkollik (Ghána)", "Vízgyűjtő terület: 140 000 km²", "Maximális szélesség: 200 m", "Vízhozam: 250 m³/s"],
+      ro: ["Lungime: 1.350 km", "Din care 800 km în Burkina Faso", "Se varsă în Lacul Volta (Ghana)", "Bazin hidrografic: 140.000 km²", "Lățime maximă: 200 m", "Debit: 250 m³/s"],
+      en: ["Length: 1,350 km", "800 km within Burkina Faso", "Empties into Lake Volta (Ghana)", "Basin area: 140,000 km²", "Max width: 200 m", "Discharge: 250 m³/s"],
+    },
+  },
   {
     id: "lac-tengrela-nature-v2",
     type: "lake",
     parent: "BF-04",
     coords: [-4.6, 10.6],
-    name: { de: "Tengrela-See", hu: "Tengrela-tó", ro: "Lacul Tengrela", en: "Tengrela Lake",
-image: "/poi-images/lac-tengrela-nature-v2.webp"
-},
+    name: { de: "Tengrela-See", hu: "Tengrela-tó", ro: "Lacul Tengrela", en: "Tengrela Lake"},
+    image: "/poi-images/lac-tengrela-nature-v2.webp",
     description: { de: "Ein bedeutender See in Burkina Faso, bekannt für seine Nilpferdpopulation.", hu: "Jelentős tó Burkina Fasóban, amely a vízilópopulációjáról ismert.", ro: "Un lac important în Burkina Faso, cunoscut pentru populația sa de hipopotami.", en: "Lac Tengrela is a lake near Banfora in southwestern Burkina Faso. It is known for its calm water, hippos, and boat outings." },
     facts: {
       de: ["Heimat von Nilpferden", "Touristenattraktion"],
       hu: ["Vízilovak otthona", "Turistalátványosság"],
       ro: ["Casă pentru hipopotami", "Atracție turistică"],
       en: ["Near Banfora", "Known for hippos", "Popular nature stop"]
-    }, image: "/poi-images/lac-tengrela-nature-v2.webp"},
+    }, image: "/poi-images/lac-tengrela-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tengrela-See liegt im Südwesten Burkina Fasos, nahe der Stadt Banfora. Er ist ein natürlicher See mit einer Fläche von etwa 10 Quadratkilometern. Der See ist bekannt für seine Population von Flusspferden (Hippopotamus amphibius). In der Trockenzeit konzentrieren sich die Tiere im verbleibenden Wasser. Der See ist von Savannen und Galeriewäldern umgeben. Er ist ein wichtiger Rastplatz für Zugvögel. Die lokale Bevölkerung nutzt den See für Fischerei und Landwirtschaft. Der See ist durch Sedimentation und invasive Wasserhyazinthen bedroht. Es gibt Initiativen zum Schutz der Flusspferde. Der See ist ein beliebtes Ausflugsziel für Touristen. Die umliegenden Dörfer profitieren vom Tourismus. Der Wasserstand schwankt saisonal.",
+      hu: "A Tengrela-tó Burkina Faso délnyugati részén, Banfora városa közelében található. Természetes tó, területe körülbelül 10 négyzetkilométer. Híres a vízilovak (Hippopotamus amphibius) populációjáról. A száraz évszakban az állatok a megmaradt vízben összpontosulnak. A tavat szavannák és galériaerdők veszik körül. Fontos pihenőhely a vonuló madarak számára. A helyi lakosság halászat és mezőgazdaság céljára használja. A tavat fenyegeti az üledékképződés és a vízijácint inváziója. Vannak kezdeményezések a vízilovak védelmére. A tó népszerű turistacélpont. A környező falvak profitálnak a turizmusból. A vízszint évszakosan ingadozik.",
+      ro: "Lacul Tengrela este situat în sud-vestul Burkina Faso, lângă orașul Banfora. Este un lac natural cu o suprafață de aproximativ 10 km². Lacul este renumit pentru populația de hipopotami (Hippopotamus amphibius). În sezonul uscat, animalele se concentrează în apa rămasă. Lacul este înconjurat de savane și păduri-galerie. Este un loc important de popas pentru păsările migratoare. Comunitățile locale folosesc lacul pentru pescuit și agricultură. Lacul este amenințat de sedimentare și de invazia zambilelor de apă. Există inițiative de protecție a hipopotamilor. Lacul este o destinație turistică populară. Satele din jur beneficiază de turism. Nivelul apei variază sezonier.",
+      en: "Lake Tengrela is located in southwestern Burkina Faso near Banfora. This natural lake covers about 10 km². It is famous for its population of hippopotamuses (Hippopotamus amphibius). During the dry season, the animals concentrate in the remaining water. The lake is surrounded by savanna and gallery forests. It is an important stopover for migratory birds. Local communities use the lake for fishing and agriculture. Threats include sedimentation and invasive water hyacinths. Conservation initiatives protect the hippos. The lake is a popular tourist destination. Surrounding villages benefit from tourism. Water levels fluctuate seasonally.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 10 km²", "Tiefe: max. 5 m", "Populationsgröße Flusspferde: 50-100", "Höhe: 300 m ü. M.", "Wassertemperatur: 25-30 °C", "Vogelarten: über 150"],
+      hu: ["Terület: 10 km²", "Mélység: max. 5 m", "Vízilovak száma: 50-100", "Tengerszint feletti magasság: 300 m", "Vízhőmérséklet: 25-30 °C", "Madárfajok: több mint 150"],
+      ro: ["Suprafață: 10 km²", "Adâncime: max. 5 m", "Populație hipopotami: 50-100", "Altitudine: 300 m", "Temperatura apei: 25-30 °C", "Specii de păsări: peste 150"],
+      en: ["Area: 10 km²", "Max depth: 5 m", "Hippo population: 50-100", "Elevation: 300 m", "Water temperature: 25-30 °C", "Bird species: over 150"],
+    },
+  },
   {
     id: "bale-foret-nature-v2",
     type: "forest",
     parent: "BF-11",
     coords: [-3.0, 11.6],
-    name: { de: "Forêt Classée de Balé", hu: "Balé-erdő", ro: "Pădurea Balé", en: "Balé Forest",
-image: "/poi-images/bale-foret-nature-v2.webp"
-},
+    name: { de: "Forêt Classée de Balé", hu: "Balé-erdő", ro: "Pădurea Balé", en: "Balé Forest"},
+    image: "/poi-images/bale-foret-nature-v2.webp",
     description: { de: "Die Balé-Waldzone ist ein geschützter Naturraum im Südwesten Burkina Fasos. Sie steht für dichte Vegetation und einen wichtigen Lebensraum für viele Arten.", hu: "A Balé-erdő védett erdős terület Burkina Faso nyugati részén. A sűrű növényzet és a természetes élővilág miatt fontos ökológiai helyszín.", ro: "Pădurea Bâle este un masiv forestier din Burkina Faso, legat de peisajele de savană din sud-vest. Ea oferă un habitat important pentru vegetație și animale.", en: "Bale Forest is a wooded area in Burkina Faso’s southwest. It represents the country’s savanna woodland landscape rather than dense rainforest." },
     facts: {
       de: ["Geschützter Wald", "Im Südwesten", "Reiche Vegetation"],
       hu: ["Védett erdőterület", "Gazdag növényvilág", "Ökológiai jelentőségű"],
       ro: ["masiv forestier", "în sud-vest", "habitat natural"],
       en: ["Southwestern woodland", "Savanna vegetation", "Forest landscape"]
-    }, image: "/poi-images/bale-foret-nature-v2.webp"},
+    }, image: "/poi-images/bale-foret-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Balé-Wald ist ein geschütztes Waldgebiet im Südwesten Burkina Fasos, nahe der Stadt Léo. Er wurde 1954 als Forêt Classée eingestuft und umfasst etwa 1.600 Quadratkilometer. Der Wald ist Teil des größeren Schutzgebietskomplexes WAP. Er beherbergt eine vielfältige Tierwelt, darunter Elefanten, Löwen und Antilopen. Die Vegetation besteht aus Trockenwäldern, Savannen und Galeriewäldern. Der Wald ist wichtig für den Wasserschutz und die Kohlenstoffspeicherung. Bedrohungen sind Wilderei, Holzeinschlag und Landwirtschaft. Es gibt Gemeindeprogramme zur nachhaltigen Bewirtschaftung. Der Wald ist ein Ziel für Ökotourismus. Die Forschung konzentriert sich auf Elefantenpopulationen. Der Balé-Wald ist ein wichtiger Teil der regionalen Biodiversität.",
+      hu: "A Balé-erdő védett erdőség Burkina Faso délnyugati részén, Léo város közelében. 1954-ben nyilvánították védetté (Forêt Classée), területe mintegy 1600 négyzetkilométer. Az erdő a WAP védett területi komplexum része. Változatos állatvilágnak ad otthont, mint elefántok, oroszlánok és antilopok. A növényzet száraz erdőkből, szavannákból és galériaerdőkből áll. Az erdő fontos a vízvédelem és a szén-dioxid tárolás szempontjából. Fenyegetik az orvvadászat, az erdőirtás és a mezőgazdaság. Vannak közösségi programok a fenntartható kezelésre. Az erdő az ökoturizmus célpontja. A kutatás az elefántpopulációkra összpontosít. A Balé-erdő a regionális biodiverzitás fontos része.",
+      ro: "Pădurea Balé este o arie protejată din sud-vestul Burkina Faso, lângă orașul Léo. A fost clasată în 1954 ca pădure clasată (Forêt Classée) și se întinde pe aproximativ 1.600 km². Pădurea face parte din complexul WAP. Adăpostește o faună diversă, inclusiv elefanți, lei și antilope. Vegetația include păduri uscate, savane și păduri-galerie. Pădurea este importantă pentru protecția apei și stocarea carbonului. Amenințări: braconaj, tăieri ilegale și agricultură. Există programe comunitare de gestionare durabilă. Este o destinație pentru ecoturism. Cercetarea se concentrează pe populațiile de elefanți. Pădurea Balé este o parte importantă a biodiversității regionale.",
+      en: "The Balé Forest is a protected forest area in southwestern Burkina Faso near Léo. Classified as a Forêt Classée in 1954, it covers about 1,600 km². The forest is part of the WAP complex. It hosts diverse wildlife including elephants, lions, and antelopes. Vegetation includes dry forests, savannas, and gallery forests. The forest is crucial for water protection and carbon storage. Threats include poaching, logging, and agriculture. Community-based programs promote sustainable management. It is an ecotourism destination. Research focuses on elephant populations. Balé Forest is key to regional biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Schutzstatus: Forêt Classée seit 1954", "Fläche: 1.600 km²", "Teil des WAP-Komplexes", "Beherbergt Elefanten (ca. 300)", "Niederschlag: 800-1000 mm/Jahr", "Erstklassifizierung: 1954"],
+      hu: ["Védetté nyilvánítva: 1954 (Forêt Classée)", "Terület: 1600 km²", "A WAP-komplexum része", "Elefántok élőhelye (kb. 300)", "Csapadék: 800-1000 mm/év", "Osztályozás éve: 1954"],
+      ro: ["Statut: Forêt Classée din 1954", "Suprafață: 1.600 km²", "Parte a complexului WAP", "Adăpostește elefanți (cca 300)", "Precipitații: 800-1000 mm/an", "Clasificată în 1954"],
+      en: ["Protected since 1954 (Forêt Classée)", "Area: 1,600 km²", "Part of WAP complex", "Hosts elephants (approx. 300)", "Rainfall: 800-1000 mm/year", "First classified in 1954"],
+    },
+  },
   {
     id: "parc-national-w-nature-v2",
     type: "forest",
     parent: "BF-09",
     coords: [2.5, 11.9],
-    name: { de: "W-Nationalpark", hu: "W Nemzeti Park", ro: "Parcul Național W", en: "W National Park",
-image: "/poi-images/parc-national-w-nature-v2.webp"
-},
+    name: { de: "W-Nationalpark", hu: "W Nemzeti Park", ro: "Parcul Național W", en: "W National Park"},
+    image: "/poi-images/parc-national-w-nature-v2.webp",
     description: { de: "Ein grenzüberschreitender Nationalpark zwischen Burkina Faso, Benin und Niger.", hu: "Határokon átnyúló nemzeti park Burkina Faso, Benin és Niger között.", ro: "Un parc național transfrontalier între Burkina Faso, Benin și Niger.", en: "A transboundary national park between Burkina Faso, Benin, and Niger." },
     facts: {
       de: ["UNESCO-Welterbe", "Hohe Artenvielfalt"],
       hu: ["UNESCO Világörökség", "Magas biodiverzitás"],
       ro: ["Patrimoniul Mondial UNESCO", "Biodiversitate ridicată"],
       en: ["UNESCO World Heritage", "High biodiversity"]
-    }, image: "/poi-images/parc-national-w-nature-v2.webp"},
+    }, image: "/poi-images/parc-national-w-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der W-Nationalpark ist ein länderübergreifendes Schutzgebiet in Niger, Burkina Faso und Benin und gehört zum UNESCO-Weltnaturerbe. Sein Name leitet sich von der mäanderförmigen Flussschleife des Niger ab. Der Park umfasst 10.000 km² und ist ein Kerngebiet des W-Arly-Pendjari-Komplexes. Die Savannen- und Waldlandschaft beherbergt Afrikas letzte große Elefantenherden in Westafrika sowie Löwen, Geparden und Leoparden. Der Park ist auch ein wichtiges RAMSAR-Gebiet für Zugvögel. Die menschliche Bevölkerung in der Pufferzone betreibt traditionelle Landwirtschaft.",
+      hu: "A W Nemzeti Park három ország (Niger, Burkina Faso, Benin) területén fekszik, és 1996 óta része az UNESCO világörökségének. Nevét a Niger folyó „W” alakú kanyarulatáról kapta. A park teljes területe 10 000 km², amely a szudáni-száhel-övezetben található. Élővilága rendkívül gazdag: több mint 350 madárfaj, 70 emlősfaj (köztük afrikai elefánt, oroszlán, gepárd). A park kezelése összehangolt a szomszédos országokkal. A turizmus fejlesztése fenntartható módon történik, a helyi közösségek bevonásával.",
+      ro: "Parcul Național W se întinde pe teritoriul a trei țări: Niger, Burkina Faso și Benin, cu o suprafață totală de aproximativ 10.000 km². Este un sit al Patrimoniului Mondial UNESCO din 1996 și face parte din rețeaua mondială de rezervații ale biosferei. Denumirea provine de la meandrele în formă de W ale râului Niger. Parcul adăpostește o populație semnificativă de elefanți africani (cca. 800 de exemplare), precum și leii, leoparzii și hienele. Ecosistemele variază de la savană arborată la păduri de galerie. Anual, peste 30.000 de vizitatori vin în parc pentru safari.",
+      en: "W National Park, a transboundary UNESCO World Heritage site since 1996, spans Niger, Burkina Faso, and Benin, covering 10,000 km². Its name derives from the W-shaped bends of the Niger River. The park is the largest protected area in West Africa's savanna belt and harbors the region's last viable populations of large mammals, including about 800 elephants, 100 lions, and 500 hippos. It is also a critical bird area, hosting over 350 species. The park's management involves a collaborative framework among the three countries, with support from international conservation organizations.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Weltnaturerbe seit 1996", "Gesamtfläche: 10.000 km²", "Länder: Niger, Burkina Faso, Benin", "Elefantenpopulation: ca. 800 Individuen", "Vogelarten: über 350", "Niger-Fluss bildet die charakteristischen W-Schleifen"],
+      hu: ["UNESCO világörökség: 1996", "Teljes terület: 10 000 km²", "Három ország: Niger, Burkina Faso, Benin", "Elefántpopuláció: kb. 800 példány", "Madárfajok száma: több mint 350", "A Niger folyó W alakú kanyarulatairól kapta a nevét"],
+      ro: ["Anul înscrierii în Patrimoniul Mondial UNESCO: 1996", "Suprafața totală: 10.000 km²", "Țări implicate: Niger, Burkina Faso, Benin", "Populația de elefanți: cca. 800 de exemplare", "Numărul de specii de păsări: peste 350", "Forma de W a râului Niger dă numele parcului"],
+      en: ["UNESCO World Heritage designation: 1996", "Total area: 10,000 km² (1 million ha)", "Spans three countries: Niger, Burkina Faso, Benin", "Elephant population: approximately 800", "Bird species: over 350", "Niger River meanders in a W shape"],
+    },
+  },
   {
     id: "pic-de-nazinga-nature-v2",
     type: "mountain",
     parent: "BF-45",
     coords: [-1.6, 11.2],
-    name: { de: "Nazinga-Hügel", hu: "Nazinga-dombság", ro: "Dealurile Nazinga", en: "Nazinga Hills",
-image: "/poi-images/pic-de-nazinga-nature-v2.webp"
-},
+    name: { de: "Nazinga-Hügel", hu: "Nazinga-dombság", ro: "Dealurile Nazinga", en: "Nazinga Hills"},
+    image: "/poi-images/pic-de-nazinga-nature-v2.webp",
     description: { de: "Ein landschaftlich reizvolles Gebiet im Nazinga-Reservat.", hu: "A Nazinga-dombok a táj enyhe magaslatait adják a rezervátum térségében. A pont a vadon és a szárazföldi táj határát mutatja meg.", ro: "O zonă pitorească în rezervația Nazinga.", en: "Pic de Nazinga is a rocky high point in the Nazinga area. It adds a notable rise to a landscape better known for wildlife and dry savanna." },
     facts: {
       de: ["Wildtierreservat", "Schöne Aussicht"],
       hu: ["Magasabb tájforma", "A Nazinga térségéhez tartozik", "Kilátópont jellegű hely"],
       ro: ["Rezervație de animale sălbatice", "Vedere frumoasă"],
       en: ["Nazinga area", "Rocky high point", "Savanna setting"]
-    }, image: "/poi-images/pic-de-nazinga-nature-v2.webp"},
+    }, image: "/poi-images/pic-de-nazinga-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pic de Nazinga ist ein Bergmassiv in Burkina Faso, das etwa 500 Meter über dem Meeresspiegel liegt. Es befindet sich in der Region Centre-Sud, nahe der Grenze zu Ghana. Das Gebiet ist bekannt für seine granitenen Felsformationen und die reiche Vogelwelt, darunter der Weißbauchsegler. Die umliegende Savanne ist Lebensraum für Paviane und Antilopen. Der Pic de Nazinga ist Teil des gleichnamigen Forstreservats, das 1954 eingerichtet wurde. Wanderungen auf den Gipfel bieten einen Panoramablick über die Region.",
+      hu: "A Pic de Nazinga egy gránit hegycsúcs Burkina Faso déli részén, magassága kb. 500 m. A környező erdős szavanna gazdag biológiai sokféleséggel rendelkezik. A terület népszerű a madármegfigyelők körében, mivel ritka fajok, például a fehérhasú sarlósfecske is előfordul. A hegyet 1954 óta védett erdőterület övezi. A túrázók számára kijelölt ösvények vezetnek a csúcsra, ahonnan a Volta-medence látképe nyílik. A helyi közösségek hagyományosan gyűjtögetéssel foglalkoznak az erdőben.",
+      ro: "Vârful Nazinga, cu o altitudine de aproximativ 500 m, este situat în sudul Burkina Faso, lângă granița cu Ghana. Este parte a Rezervației Forestiere Nazinga, înființată în 1954. Zona este cunoscută pentru formațiunile granitice și peisajele de savană. Fauna include babuini, antilope și peste 100 de specii de păsări. Traseele de drumeție duc la vârf, oferind vederi panoramice asupra câmpiei. Rezervația este gestionată împreună cu comunitățile locale pentru a proteja resursele naturale.",
+      en: "Pic de Nazinga, at 500 m elevation, is a prominent granite inselberg in southern Burkina Faso, within the Nazinga Forest Reserve established in 1954. The reserve covers 67,000 ha of Sudano-Sahelian savanna. The hill is a key birding site, hosting species like the white-bellied swift and brown-backed woodpecker. The area also supports populations of olive baboons, warthogs, and several antelope species. The summit provides a 360-degree view of the surrounding plains. Conservation efforts focus on sustainable forest management and ecotourism.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: ca. 500 m ü. M.", "Forstreservat seit 1954", "Teil der Region Centre-Sud", "Granitfelsen prägen die Landschaft", "Vorkommen des Weißbauchseglers", "Blick auf die Volta-Ebene"],
+      hu: ["Magasság: kb. 500 m", "Védett erdőterület 1954 óta", "Gránit hegység", "Madárfajok: fehérhasú sarlósfecske", "Páviánok élőhelye", "Túraösvények a csúcsra"],
+      ro: ["Altitudine: 500 m", "Rezervație forestieră din 1954", "Suprafața rezervației: 67.000 ha", "Formațiuni granitice", "Peste 100 de specii de păsări", "Granita cu Ghana în apropiere"],
+      en: ["Elevation: 500 m (1,640 ft)", "Forest reserve established in 1954", "Reserve area: 67,000 ha", "Granite inselberg formation", "Notable bird: white-bellied swift (Tachymarptis melba)", "Located near Ghana border"],
+    },
+  },
   {
     id: "fleuve-niger-nature-v2",
     type: "river",
     parent: "BF-05",
     coords: [2.0, 14.5],
-    name: { de: "Nigerfluss", hu: "Niger folyó", ro: "Râul Niger", en: "Niger River",
-image: "/poi-images/fleuve-niger-nature-v2.webp"
-},
+    name: { de: "Nigerfluss", hu: "Niger folyó", ro: "Râul Niger", en: "Niger River"},
+    image: "/poi-images/fleuve-niger-nature-v2.webp",
     description: { de: "Der drittlängste Fluss Afrikas, der auch in Burkina Faso verläuft.", hu: "Afrika harmadik leghosszabb folyója, amely Burkina Fasón is áthalad.", ro: "Al treilea cel mai lung râu din Africa, care trece și prin Burkina Faso.", en: "The third longest river in Africa, which also passes through Burkina Faso." },
     facts: {
       de: ["Große Bedeutung", "Wirtschaftszentrum"],
       hu: ["Nagy jelentőség", "Gazdasági központ"],
       ro: ["Semnificație mare", "Centru economic"],
       en: ["Great importance", "Economic center"]
-    }, image: "/poi-images/fleuve-niger-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-niger-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Niger ist nach Nil und Kongo der drittlängste Fluss Afrikas mit einer Länge von 4.180 km. Er entspringt im Hochland von Guinea und mündet in den Golf von Guinea. Der Fluss durchquert Mali, Niger, Benin und Nigeria. Seine charakteristische Bogenform verleiht ihm den Namen „Nigerbogen“. Der Fluss ist lebenswichtig für die Landwirtschaft, Fischerei und den Transport in der Region. Die jährliche Überschwemmung im inneren Nigerdelta schafft fruchtbare Böden und Lebensraum für Wasservögel.",
+      hu: "A Niger folyó Afrika harmadik leghosszabb folyója, hossza 4180 km. Guinea felföldjén ered, és a Guineai-öbölbe torkollik. Különlegessége, hogy útja során hatalmas ívet tesz, a Niger-kanyart. A folyó éves áradása belső deltát hoz létre Mali területén, amely fontos mezőgazdasági terület. A Niger vízgyűjtő területe mintegy 2,1 millió km². Gazdasági szerepe kiemelkedő: öntözés, halászat és vízi szállítás. A Jemaa-híd Nigériában 2018-ban készült el, 1,6 km hosszú.",
+      ro: "Râul Niger, cu o lungime de 4.180 km, este al treilea fluviu ca lungime din Africa. Izvorăște din Podișul Fouta Djallon din Guineea și se varsă în Golful Guineei. Bazinul său hidrografic acoperă 2,1 milioane km². Râul străbate cinci țări: Guineea, Mali, Niger, Benin și Nigeria. Delta interioară a Nigerului din Mali este o zonă umedă vitală pentru mii de păsări migratoare. Aproximativ 110 milioane de oameni trăiesc în bazinul Nigerului, care este esențial pentru agricultură și energie hidroelectrică.",
+      en: "The Niger River, Africa's third-longest at 4,180 km, originates in the Fouta Djallon highlands of Guinea and discharges into the Gulf of Guinea. Its distinctive course forms a boomerang shape, creating the vast Inner Niger Delta in Mali. The river basin spans 2.1 million km² across five countries. It supports 110 million people through irrigation, fishing, and hydroelectric power. Major dams include the Kainji Dam in Nigeria (1968) and the Sélingué Dam in Mali (1982). Annual flooding replenishes soil fertility and provides critical wetlands for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 4.180 km", "Drittlängster Fluss Afrikas", "Quelle: Hochland von Guinea", "Mündung: Golf von Guinea", "Einzugsgebiet: 2,1 Mio. km²", "Anrainerstaaten: Guinea, Mali, Niger, Benin, Nigeria"],
+      hu: ["Hossz: 4180 km", "Afrika harmadik leghosszabb folyója", "Ered: Guinea felföldjén", "Torkolat: Guineai-öböl", "Vízgyűjtő terület: 2,1 millió km²", "Öt országon folyik keresztül"],
+      ro: ["Lungime: 4.180 km", "Al treilea fluviu ca lungime din Africa", "Izvor: Podișul Fouta Djallon (Guineea)", "Vărsare: Golful Guineei", "Suprafața bazinului: 2,1 milioane km²", "Țări traversate: 5 (Guineea, Mali, Niger, Benin, Nigeria)"],
+      en: ["Length: 4,180 km (2,597 miles)", "Africa's third-longest river", "Source: Fouta Djallon plateau, Guinea", "Mouth: Gulf of Guinea, Atlantic Ocean", "Basin area: 2.1 million km²", "Countries: Guinea, Mali, Niger, Benin, Nigeria"],
+    },
+  },
   {
     id: "mare-aux-hippopotames-nature-v2",
     type: "lake",
     parent: "BF-10",
     coords: [-4.2, 11.6],
-    name: { de: "Nilpferd-See", hu: "Víziló-tó", ro: "Lacul Hipopotamilor", en: "Hippo Lake",
-image: "/poi-images/mare-aux-hippopotames-nature-v2.webp"
-},
+    name: { de: "Nilpferd-See", hu: "Víziló-tó", ro: "Lacul Hipopotamilor", en: "Hippo Lake"},
+    image: "/poi-images/mare-aux-hippopotames-nature-v2.webp",
     description: { de: "Die Mare aux Hippopotames ist ein bekanntes Feuchtgebiet und Lebensraum für Flusspferde. Das Naturgebiet gehört zu den wichtigsten Wasserflächen des Landes.", hu: "A Víziló-tó egy ismert vizes élőhely Burkina Fasóban. A vízhez kötődő élővilág és a tájvédelmi szerep miatt különösen fontos.", ro: "Marea cu hipopotami este un luciu de apă cunoscut pentru fauna sa și pentru atmosfera de zonă umedă. Este un punct natural asociat observației animalelor.", en: "Mare aux Hippopotames is a wetland area near Bobo-Dioulasso. It is one of Burkina Faso’s best-known places for seeing hippos in the wild." },
     facts: {
       de: ["Feuchtgebiet", "Nilpferde als Merkmal", "Wichtiger Lebensraum"],
       hu: ["Vizes élőhely", "Vízilovakhoz kötődik", "Természetvédelmi érték"],
       ro: ["luciu de apă", "hipopotami", "zonă umedă"],
       en: ["Wetland reserve", "Near Bobo-Dioulasso", "Hippo habitat"]
-    }, image: "/poi-images/mare-aux-hippopotames-nature-v2.webp"},
+    }, image: "/poi-images/mare-aux-hippopotames-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mare aux Hippopotames ist ein See in der Region Hauts-Bassins in Burkina Faso, etwa 30 km von Bobo-Dioulasso entfernt. Der See ist Teil des Flusssystems des Volta und bekannt für seine Flusspferdpopulation. Das Gebiet wurde 1937 zum Naturreservat erklärt und ist seit 1990 ein RAMSAR-Gebiet. Der See und die umliegenden Feuchtgebiete bieten Lebensraum für zahlreiche Wasservögel, darunter Reiher und Störche. Die Flusspferde zählen zwischen 20 und 40 Individuen. Der See ist auch ein wichtiger Wasserspeicher für die lokale Landwirtschaft.",
+      hu: "A Mare aux Hippopotames egy tó Burkina Faso délnyugati részén, a Mouhoun folyó közelében. 1937 óta védett természeti rezervátum, 1990-től RAMSAR-terület. A tó névadója a víziló, melyből jelenleg kb. 30 egyed él itt. A tó környéke gazdag madárvilággal rendelkezik, több mint 150 fajt jegyeztek fel. A halászat és a mezőgazdaság a helyi közösségek fő megélhetési forrása. A tó vízszintje a száraz és esős évszakok között jelentősen ingadozik.",
+      ro: "Mare aux Hippopotames (Lacul Hipopotamilor) este un lac natural situat în provincia Houet, Burkina Faso, la aproximativ 30 km de Bobo-Dioulasso. A fost declarat rezervație naturală în 1937 și sit Ramsar în 1990. Lacul are o suprafață de aproximativ 1.000 ha și adăpostește o populație de 20-30 de hipopotami. Este un habitat important pentru păsări acvatice, inclusiv pelicani și cormorani. Zona este utilizată pentru pescuit și agricultură de către comunitățile locale. Ecoturismul este în curs de dezvoltare.",
+      en: "Mare aux Hippopotames (Hippopotamus Lake) is a 1,000 ha lake in southwestern Burkina Faso, near Bobo-Dioulasso. It was designated a nature reserve in 1937 and a Ramsar site in 1990. The lake supports a population of 20-30 hippos, along with over 150 bird species including pelicans and storks. The surrounding area features guinea savanna and gallery forests. The lake's water levels fluctuate seasonally, peaking during the rainy season (June–October). It provides water for irrigation and fishing, sustaining local livelihoods.",
+    },
+    factsAdvanced: {
+      de: ["Schutzstatus: Naturreservat seit 1937", "RAMSAR-Gebiet seit 1990", "Fläche: ca. 1.000 ha", "Flusspferdpopulation: 20–40 Tiere", "Vogelarten: über 150", "Entfernung zu Bobo-Dioulasso: 30 km"],
+      hu: ["Természetvédelmi terület 1937 óta", "RAMSAR-terület 1990 óta", "Terület: kb. 1000 hektár", "Víziló-populáció: kb. 30 egyed", "Madárfajok: több mint 150", "Bobo-Dioulassótól 30 km-re található"],
+      ro: ["Rezervație naturală din 1937", "Sit Ramsar din 1990", "Suprafața lacului: 1.000 ha", "Populația de hipopotami: 20-30 de indivizi", "Peste 150 de specii de păsări", "Distanța față de Bobo-Dioulasso: 30 km"],
+      en: ["Nature reserve status since 1937", "Ramsar designation: 1990", "Lake area: 1,000 ha", "Hippo population: 20–30 individuals", "Bird species: over 150", "Distance from Bobo-Dioulasso: 30 km (19 miles)"],
+    },
+  },
   {
     id: "foret-kourou-nature-v2",
     type: "forest",
     parent: "BF-03",
     coords: [-4.4, 11.2],
-    name: { de: "Kourou-Wald", hu: "Kourou-erdő", ro: "Pădurea Kourou", en: "Kourou Forest",
-image: "/poi-images/foret-kourou-nature-v2.webp"
-},
+    name: { de: "Kourou-Wald", hu: "Kourou-erdő", ro: "Pădurea Kourou", en: "Kourou Forest"},
+    image: "/poi-images/foret-kourou-nature-v2.webp",
     description: { de: "Ein dichter Wald in der Region Kourou.", hu: "A Kourou-erdő sűrű növényzettel borított természetes terület. A helyi klímában menedéket ad több állat- és növényfajnak.", ro: "Pădurea Kourou este o zonă împădurită din peisajul Burkina Fasoului. Ea aparține ecosistemelor de tranziție dintre savană și vegetația mai densă.", en: "Foret Kourou is a forested area in Burkina Faso. It adds tree cover and habitat to a landscape that is often dry for much of the year." },
     facts: {
       de: ["Naturschutzgebiet", "Vielfältige Bäume"],
       hu: ["Sűrű erdő", "Helyi élőhely", "Természetes menedék"],
       ro: ["zonă împădurită", "ecosistem de tranziție", "vegetație locală"],
       en: ["Forest area", "Dry-season habitat", "Adds local greenery"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Forêt de Kourou ist ein geschütztes Waldgebiet in Burkina Faso, in der Region Centre-Nord. Er erstreckt sich über etwa 7.000 Hektar und besteht aus Trockenwald und Savanne. Das Reservat wurde 1954 geschaffen und dient dem Erhalt der Biodiversität. Hier leben Antilopen, Warzenschweine und verschiedene Affenarten. Der Wald ist auch für seine traditionellen Heilpflanzen bekannt. Die umliegenden Dörfer nutzen den Wald für die Sammelwirtschaft. Der Forêt de Kourou ist Teil des nationalen Netzwerks von Forstreservaten.",
+      hu: "A Kourou-erdő Burkina Faso észak-középső részén található, védett erdőterület, területe körülbelül 7000 hektár. 1954-ben hozták létre, fő célja a szudáni szavannaerdők megőrzése. Az erdőben antilopok, varacskos disznók és majmok élnek. A helyi közösségek hagyományosan gyűjtögetnek itt (méz, gyógynövények). Az erdőt a túllegeltetés és az erdőtüzek veszélyeztetik. A természetvédelmi kezelés magában foglalja a tűzvédelmi sávok kialakítását és a fásítási projekteket.",
+      ro: "Pădurea Kourou este o rezervație forestieră din Burkina Faso, situată în regiunea Centre-Nord. Întinsă pe aproximativ 7.000 ha, a fost înființată în 1954 pentru a proteja pădurea tropicală uscată și savana. Fauna include antilope, mistreți și maimuțe. Pădurea este o sursă importantă de plante medicinale și produse forestiere nelemnoase pentru comunitățile locale. Amenințările includ incendiile și pășunatul excesiv. Eforturile de conservare se concentrează pe gestionarea durabilă și reîmpădurire.",
+      en: "Kourou Forest, a 7,000 ha protected area in north-central Burkina Faso, was established in 1954 as a forest reserve. It consists of dry deciduous woodland and shrub savanna, typical of the Sudano-Sahelian zone. The forest is home to mammals such as the oribi, warthog, and patas monkey, as well as over 50 bird species. Local communities rely on the forest for non-timber products like shea nuts, honey, and medicinal plants. Management includes fire prevention and controlled grazing to maintain ecological balance.",
+    },
+    factsAdvanced: {
+      de: ["Schutzstatus: Forstreservat seit 1954", "Fläche: ca. 7.000 ha", "Lage: Region Centre-Nord", "Vegetation: Trockenwald und Savanne", "Tierarten: Antilopen, Warzenschweine, Affen", "Nutzung durch lokale Gemeinschaften"],
+      hu: ["Védett erdő 1954 óta", "Terület: kb. 7000 hektár", "Régió: Centre-Nord", "Növényzet: száraz erdő és szavanna", "Állatvilág: antilopok, varacskos disznók, majmok", "Helyi közösségek használják gyűjtögetésre"],
+      ro: ["Rezervație forestieră din 1954", "Suprafața: 7.000 ha", "Regiune: Centre-Nord", "Tip de vegetație: pădure uscată și savană", "Mamifere: antilope, mistreți, maimuțe", "Produse forestiere: shea, miere, plante medicinale"],
+      en: ["Forest reserve created in 1954", "Area: 7,000 ha (70 km²)", "Location: Centre-Nord region", "Habitat: dry deciduous forest and savanna", "Key mammals: oribi, warthog, patas monkey", "Local use: shea nuts, honey, medicinal plants"],
+    },
   },
   {
     id: "monts-diossor-nature-v2",
     type: "mountain",
     parent: "BF-04",
     coords: [-4.5, 11.3],
-    name: { de: "Diossor-Berge", hu: "Diossor-hegyek", ro: "Munții Diossor", en: "Diossor Mountains",
-image: "/poi-images/monts-diossor-nature-v2.webp"
-},
+    name: { de: "Diossor-Berge", hu: "Diossor-hegyek", ro: "Munții Diossor", en: "Diossor Mountains"},
+    image: "/poi-images/monts-diossor-nature-v2.webp",
     description: { de: "Eine bergige Region im westlichen Burkina Faso.", hu: "A Diossor-hegység kisebb hegyvidéki táj Burkina Faso nyugati részén. A dombos felszín és a szárazabb környezet együtt alakítja a területet.", ro: "Munții Diossor reprezintă o formă de relief din vestul țării. Ei adaugă diversitate peisajului dintre câmpii și zonele de deal.", en: "A mountainous region in western Burkina Faso." },
     facts: {
       de: ["Bergige Landschaft", "Ideal zum Wandern"],
       hu: ["Hegyvidéki táj", "Dombos felszín", "Nyugati fekvésű"],
       ro: ["formă de relief", "în vestul țării", "peisaj de deal"],
       en: ["Mountainous landscape", "Ideal for hiking"]
-    }, image: "/poi-images/monts-diossor-nature-v2.webp"},
+    }, image: "/poi-images/monts-diossor-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Monts Diossor sind eine Bergkette in Burkina Faso, nahe der Grenze zu Mali. Sie erreichen Höhen von bis zu 800 Metern und bestehen hauptsächlich aus Sandstein. Das Gebiet ist von trockener Savanne umgeben und weist eine einzigartige Flora auf, darunter endemische Pflanzenarten. Die Berge sind Lebensraum für Vögel wie den Felsenadler und Säugetiere wie Klippschliefer. Historisch dienten die Höhlen als Zufluchtsorte. Die Region ist dünn besiedelt, hauptsächlich von Fulbe-Hirten.",
+      hu: "A Diossor-hegység Burkina Faso északnyugati részén, a mali határ közelében található. Legmagasabb csúcsa mintegy 800 m. A homokkőből álló hegyek a Száhel-övezet részét képezik. A területet száraz szavanna borítja, ahol jellegzetes növények, például akáciafajok élnek. A hegyek fontos madármegfigyelőhelyek, ahol szirti sasok is előfordulnak. A helyi pásztorok évszakosan legeltetik állataikat a hegyek lábánál. A turizmus fejletlen, de a túrázás lehetősége vonzó a kalandvágyók számára.",
+      ro: "Munții Diossor sunt un lanț muntos situat în nord-vestul Burkina Faso, aproape de granița cu Mali. Altitudinea maximă este de aproximativ 800 m, iar roca predominantă este gresia. Regiunea face parte din zona Sahel, cu vegetație de savană arbuștită. Fauna include vulturi și iepuri de stâncă. Peisajul este accidentat, cu platouri și chei. Zona este slab populată, comunitățile fiind în principal pastorale. Potențialul turistic este neexploatat, dar drumețiile sunt posibile.",
+      en: "The Diossor Mountains, reaching 800 m in elevation, are a sandstone range in northwestern Burkina Faso near the Mali border. They form part of the Sahelian zone, characterized by dry savanna and scrub. The mountains feature cliffs, plateaus, and caves. Vegetation includes acacias and baobab trees. Birdlife includes the Verreaux's eagle and various raptors. The area is sparsely populated by Fulani herders, who practice transhumance. The mountains are a potential site for ecotourism with hiking trails and panoramic views.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: ca. 800 m", "Gestein: Sandstein", "Lage: Nordwest-Burkina Faso, nahe Mali", "Vegetation: Sahel-Savanne", "Tierarten: Klippschliefer, Felsenadler", "Bevölkerung: Fulbe-Hirten"],
+      hu: ["Legmagasabb csúcs: kb. 800 m", "Kőzet: homokkő", "Fekvés: Burkina Faso északnyugati része, Mali közelében", "Növényzet: száraz szavanna", "Madárvilág: szirti sas", "Lakosság: fulbe pásztorok"],
+      ro: ["Altitudine maximă: 800 m", "Rocă: gresie", "Locație: nord-vestul Burkina Faso, lângă Mali", "Vegetație: savană saheliană", "Faună: vulturi, iepuri de stâncă", "Populație: păstori fulani"],
+      en: ["Maximum elevation: 800 m (2,625 ft)", "Rock type: sandstone", "Location: northwestern Burkina Faso, near Mali border", "Ecosystem: Sahelian savanna", "Characteristic bird: Verreaux's eagle (Aquila verreauxii)", "Primary inhabitants: Fulani pastoralists"],
+    },
+  },
   {
     id: "fleuve-volta-rouge-nature-v2",
     type: "river",
     parent: "BF-06",
     coords: [-1.2, 12.0],
-    name: { de: "Roter Volta", hu: "Vörös-Volta", ro: "Volta Roșie", en: "Red Volta",
-image: "/poi-images/fleuve-volta-rouge-nature-v2.webp"
-},
+    name: { de: "Roter Volta", hu: "Vörös-Volta", ro: "Volta Roșie", en: "Red Volta"},
+    image: "/poi-images/fleuve-volta-rouge-nature-v2.webp",
     description: { de: "Der Fleuve Volta Rouge ist ein wichtiger Wasserlauf im burkinischen Flusssystem. Entlang seines Verlaufs liegen landwirtschaftlich genutzte und ökologisch wertvolle Räume.", hu: "A Vörös-Volta folyó a térség vízhálózatának egyik fontos eleme. A folyó menti élőhelyek a szárazabb időszakokban is sokat jelentenek.", ro: "Volta Roșie este un curs de apă important în sistemul hidrografic al Burkinei Faso. El susține zonele rurale și echilibrul ecologic local.", en: "Fleuve Volta Rouge is part of the Volta river system in eastern Burkina Faso. It supports drainage and seasonal water flows across the region." },
     facts: {
       de: ["Fluss in Burkina Faso", "Teil des Voltabeckens", "Wasser für Dörfer"],
       hu: ["Folyó Burkina Fasóban", "A vízhálózat része", "Part menti élőhelyet ad"],
       ro: ["curs de apă", "parte din sistemul Voltei", "rol ecologic"],
       en: ["Eastern river system", "Seasonal flows", "Part of the Volta basin"]
-    }, image: "/poi-images/fleuve-volta-rouge-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-volta-rouge-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Rote Volta ist ein Fluss in Burkina Faso und Ghana, der zum Volta-Flusssystem gehört. Er entspringt im Süden Burkina Fasos und fließt nach Süden, wo er sich mit dem Weißen Volta zum Volta-Stausee vereinigt. Der Fluss hat eine Länge von etwa 320 km. Sein Name leitet sich von den rötlichen Sedimenten ab, die er transportiert. Das Einzugsgebiet wird für die Landwirtschaft genutzt. In der Regenzeit führt der Fluss viel Wasser und überschwemmt angrenzende Gebiete.",
+      hu: "A Vörös Volta folyó Burkina Faso és Ghána területén folyik, hossza kb. 320 km. A Felső-Volta-medence része, és a Fehér Volta mellékfolyója. Nevét a vöröses agyagos üledékről kapta. A folyó vízgyűjtő területén mezőgazdaságot folytatnak, főként gyapotot és kukoricát termesztenek. Az esős évszakban (június-október) a vízhozam jelentősen megnő. A folyó ökológiai szempontból fontos élőhely a vízimadarak számára. A Ghánában található voltaini duzzasztógát érinti a folyó alsó szakaszát.",
+      ro: "Râul Volta Roșu (Red Volta) este un afluent al Voltei Albe, având o lungime de aproximativ 320 km. Izvorăște din Burkina Faso și curge spre sud în Ghana. Numele provine de la culoarea roșiatică a sedimentelor transportate. Bazinul său hidrografic este intens cultivat cu porumb și bumbac. Debitul fluctuează sezonier, cu inundații în timpul ploilor. Râul susține ecosisteme de zonă umedă. Este important pentru pescuitul local și pentru alimentarea lacului de acumulare Volta din Ghana.",
+      en: "The Red Volta River, approximately 320 km long, rises in southern Burkina Faso and flows into Ghana, where it joins the White Volta. Its reddish-brown color comes from suspended sediments. The river's basin supports rain-fed agriculture, primarily cotton and maize cultivation. Seasonal flooding occurs from June to October. The river provides habitat for waterbirds and fish species. The lower course is affected by the Akosombo Dam on the Volta River. The Red Volta is a key water source for pastoralist communities during the dry season.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 320 km", "Quelle: Süden Burkina Fasos", "Mündung: in den Weißen Volta (Ghana)", "Namenherkunft: rötliche Sedimente", "Hauptanbauprodukte im Einzugsgebiet: Baumwolle, Mais", "Teil des Volta-Flusssystems"],
+      hu: ["Hossz: kb. 320 km", "Ered: Burkina Faso déli része", "Torkolat: Fehér Volta (Ghána)", "Név eredete: vöröses üledék", "Mezőgazdaság: gyapot, kukorica", "A Volta-vízrendszer része"],
+      ro: ["Lungime: 320 km", "Izvor: sudul Burkina Faso", "Vărsare: Volta Albă, Ghana", "Culoarea roșiatică datorată sedimentelor", "Culturi principale: porumb, bumbac", "Parte a bazinului Volta"],
+      en: ["Length: 320 km (200 miles)", "Source: southern Burkina Faso", "Confluence: White Volta in Ghana", "Sediment gives red color", "Agriculture: cotton, maize", "Part of Volta River system"],
+    },
+  },
   {
     id: "mare-de-oursi-nature-v2",
     type: "lake",
     parent: "BF-12",
     coords: [-0.4, 14.7],
-    name: { de: "Oursi-See", hu: "Oursi-tó", ro: "Lacul Oursi", en: "Oursi Lake",
-image: "/poi-images/mare-de-oursi-nature-v2.webp"
-},
+    name: { de: "Oursi-See", hu: "Oursi-tó", ro: "Lacul Oursi", en: "Oursi Lake"},
+    image: "/poi-images/mare-de-oursi-nature-v2.webp",
     description: { de: "Ein saisonaler See in der Sahel-Region.", hu: "Szezonális tó a Száhel-régióban.", ro: "Un lac sezonier în regiunea Sahel.", en: "Mare de Oursi is a seasonal lake in the Sahel zone of northern Burkina Faso. It is an important water point in a very dry environment." },
     facts: {
       de: ["Vogelbeobachtung", "Wichtiges Feuchtgebiet"],
       hu: ["Madármegfigyelés", "Fontos vizes élőhely"],
       ro: ["Observarea păsărilor", "Zonă umedă importantă"],
       en: ["Sahel location", "Seasonal lake", "Important water source"]
-    }, image: "/poi-images/mare-de-oursi-nature-v2.webp"},
+    }, image: "/poi-images/mare-de-oursi-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mare d'Oursi ist ein saisonaler See im Norden Burkina Fasos, in der Region Sahel. Sie liegt in der Gemeinde Oursi und ist ein wichtiges RAMSAR-Gebiet. Der See hat eine maximale Ausdehnung von etwa 7.000 Hektar während der Regenzeit. Während der Trockenzeit trocknet er fast vollständig aus. Er ist Lebensraum für Zugvögel, darunter Flamingos und Pelikane. Die umliegenden Dörfer nutzen den See für die Viehtränke und die Fischerei. Die Mare d'Oursi ist auch für ihre Salzpfannen bekannt.",
+      hu: "A Mare d'Oursi egy időszakos tó Burkina Faso északi részén, a Száhel-övezetben. Területe az esős évszakban elérheti a 7000 hektárt, a száraz évszakban azonban kiszárad. 1990 óta RAMSAR-terület. Jelentős madárvonulási hely, ahol többek között rózsás flamingók és pelikánok is megfigyelhetők. A tó körül nomád pásztorok élnek, akik állataikat itatják. A tó medrében sólepárlás is folyik. Az éghajlat száraz, éves csapadék 300-500 mm.",
+      ro: "Mare d'Oursi este un lac sezonier situat în nordul Burkina Faso, în regiunea Sahel. Are o suprafață maximă de 7.000 ha în timpul sezonului ploios, dar seacă aproape complet în sezonul uscat. A fost declarat sit Ramsar în 1990, fiind un habitat crucial pentru păsări migratoare, cum ar fi flamingii și pelicanii. Lacul este folosit de comunitățile locale pentru adăparea vitelor și pescuit. În apropiere se află depozite de sare. Regiunea este una dintre cele mai aride din Burkina Faso, cu precipitații anuale sub 500 mm.",
+      en: "Mare d'Oursi is a seasonal lake in the Sahel region of northern Burkina Faso, covering up to 7,000 ha in the wet season. Designated a Ramsar wetland of international importance in 1990, it provides critical stopover habitat for migratory waterbirds, including greater flamingos and great white pelicans. The lake's water levels vary dramatically, often drying completely by April. The surrounding area is used for salt extraction and livestock watering. The local population, primarily Fulani herders, depends on the lake for dry-season grazing.",
+    },
+    factsAdvanced: {
+      de: ["RAMSAR-Gebiet seit 1990", "Maximale Fläche: 7.000 ha (Regenzeit)", "Lage: Region Sahel, Norden Burkina Fasos", "Vogelarten: Flamingos, Pelikane", "Nutzung: Viehtränke, Fischerei, Salzgewinnung", "Niederschlag: 300–500 mm/Jahr"],
+      hu: ["RAMSAR-terület 1990 óta", "Maximális terület: 7000 ha (esős évszakban)", "Fekvés: Száhel-övezet, Észak-Burkina Faso", "Madárvilág: flamingó, pelikán", "Hasznosítás: állatok itatása, halászat, sólepárlás", "Éves csapadék: 300–500 mm"],
+      ro: ["Sit Ramsar din 1990", "Suprafața maximă: 7.000 ha", "Regiune: Sahel, nordul Burkina Faso", "Specii de păsări: flamingo, pelican", "Utilizări: adăpare vite, pescuit, sare", "Precipitații anuale: 300–500 mm"],
+      en: ["Ramsar designation: 1990", "Maximum area: 7,000 ha (rainy season)", "Region: Sahel, northern Burkina Faso", "Key birds: greater flamingo, great white pelican", "Uses: livestock watering, fishing, salt pans", "Annual rainfall: 300–500 mm (12–20 inches)"],
+    },
+  },
   {
     id: "foret-tengrela-nature-v2",
     type: "forest",
     parent: "BF-04",
     coords: [-4.7, 10.7],
-    name: { de: "Tengrela-Wald", hu: "Tengrela-erdő", ro: "Pădurea Tengrela", en: "Tengrela Forest",
-image: "/poi-images/foret-tengrela-nature-v2.webp"
-},
+    name: { de: "Tengrela-Wald", hu: "Tengrela-erdő", ro: "Pădurea Tengrela", en: "Tengrela Forest"},
+    image: "/poi-images/foret-tengrela-nature-v2.webp",
     description: { de: "Der Wald von Tengrela liegt in einer grünen Zone nahe dem bekannten Seegebiet. Er ergänzt die Landschaft um einen ruhigen Naturraum mit hoher ökologischer Bedeutung.", hu: "A Tengrela-erdő a nyugat-burkinai természet mozaikos részét képviseli. A környék zöldfoltjaként a biodiverzitás megőrzésében is szerepe van.", ro: "Pădurea Tengrela este o zonă naturală din vestul Burkinei Faso. Ea face parte din peisajul de savană împădurită al regiunii.", en: "Foret Tengrela is a forested landscape near Tengrela in southwestern Burkina Faso. It adds shade, habitat, and local biodiversity to the area." },
     facts: {
       de: ["Wald nahe Tengrela", "Grüne Landschaft", "Ökologisch wichtig"],
       hu: ["Nyugati erdőterület", "Zöld folt a tájban", "Biodiverzitást támogat"],
       ro: ["zonă naturală", "în vestul țării", "savană împădurită"],
       en: ["Near Tengrela", "Forest habitat", "Supports biodiversity"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Forêt de Tengrela ist ein geschütztes Waldgebiet im Südwesten Burkina Fasos, nahe der Grenze zur Elfenbeinküste. Er bedeckt etwa 2.500 Hektar und zeichnet sich durch dichten Feuchtwald aus. Das Reservat wurde 1955 eingerichtet. Im Wald leben Schimpansen, Paviane und verschiedene Vogelarten. Der Tengrela-Fluss fließt durch das Gebiet. Die lokale Bevölkerung sammelt traditionell Früchte und Heilpflanzen. Das Reservat ist auch für seine hohen Bäume bekannt, darunter der Ceiba pentandra.",
+      hu: "A Tengrela-erdő Burkina Faso délnyugati részén, az elefántcsontparti határ közelében található védett terület. Területe hozzávetőleg 2500 hektár. 1955-ben nyilvánították védett erdővé. Az erdő trópusi esőerdő jellegű, magas fákkal, például gyapotfákkal. Állatvilága jelentős: csimpánzok, páviánok és számos madárfaj él itt. A helyi közösségek hagyományosan gyűjtögetnek, és az erdő szent forrásokat is rejt. A területet a mezőgazdasági terjeszkedés veszélyezteti.",
+      ro: "Pădurea Tengrela este o rezervație forestieră de aproximativ 2.500 de hectare din sud-vestul Burkina Faso, lângă granița cu Coasta de Fildeș. Înființată în 1955, adăpostește o pădure tropicală umedă, cu arbori impunători de kapok. Fauna include cimpanzei, babuini și peste 100 de specii de păsări. Râul Tengrela străbate rezervația. Localnicii culeg fructe și plante medicinale. Presiunile antropice includ tăierile ilegale și extinderea agricolă.",
+      en: "Tengrela Forest is a 2,500 ha protected area in southwestern Burkina Faso, established in 1955. It features semi-deciduous rainforest with emergent trees such as kapok (Ceiba pentandra). The forest supports a population of western chimpanzees (Pan troglodytes verus), olive baboons, and numerous forest birds. The Tengrela River provides water year-round. Local communities gather non-timber products and consider some sites sacred. Conservation efforts include community patrols and reforestation projects.",
+    },
+    factsAdvanced: {
+      de: ["Schutzstatus: Forstreservat seit 1955", "Fläche: ca. 2.500 ha", "Lage: Südwesten Burkina Fasos", "Vegetation: Feuchtwald mit Kapokbäumen", "Tierarten: Schimpansen, Paviane", "Bedrohung: Abholzung, Landwirtschaft"],
+      hu: ["Védett erdő 1955 óta", "Terület: kb. 2500 hektár", "Fekvés: Délnyugat-Burkina Faso", "Növényzet: trópusi esőerdő, gyapotfák", "Állatvilág: csimpánz, pávián", "Veszélyeztetettség: erdőirtás, mezőgazdaság"],
+      ro: ["Rezervație forestieră din 1955", "Suprafața: 2.500 ha", "Locație: sud-vestul Burkina Faso", "Tip de pădure: tropicală umedă", "Faună: cimpanzei, babuini", "Amenințări: tăieri ilegale, agricultură"],
+      en: ["Forest reserve since 1955", "Area: 2,500 ha (25 km²)", "Location: southwestern Burkina Faso, near Ivory Coast", "Forest type: semi-deciduous rainforest", "Listed species: western chimpanzee (endangered)", "Number of bird species: over 100"],
+    },
   },
   {
     id: "monts-kanala-nature-v2",
     type: "mountain",
     parent: "BF-09",
     coords: [1.1, 11.4],
-    name: { de: "Kanala-Berge", hu: "Kanala-hegyek", ro: "Munții Kanala", en: "Kanala Mountains",
-image: "/poi-images/monts-kanala-nature-v2.webp"
-},
+    name: { de: "Kanala-Berge", hu: "Kanala-hegyek", ro: "Munții Kanala", en: "Kanala Mountains"},
+    image: "/poi-images/monts-kanala-nature-v2.webp",
     description: { de: "Die Monts Kanala bilden eine hügelige Landschaft in Burkina Faso. Das Relief sorgt für Abwechslung im sonst oft flachen savannenartigen Gelände.", hu: "A Kanala-hegység kisebb, tagolt domborzati elemként jelenik meg a burkinai tájban. A magasabb pontok és a környező szárazföld együtt adják a karakterét.", ro: "Munții Kanala sunt o zonă de relief care pune în valoare peisajul local. Ei aparțin reliefului ondulat specific unor regiuni din Burkina Faso.", en: "Monts Kanala are a small mountain area in Burkina Faso. Their low ridges shape the local landscape and break up the surrounding plain." },
     facts: {
       de: ["Hügelige Landschaft", "Im Osten gelegen", "Prägt das Relief"],
       hu: ["Tagolt domborzat", "Hegyes tájrész", "Természetes határvonal"],
       ro: ["zonă de relief", "relief ondulat", "peisaj local"],
       en: ["Mountain area", "Low ridges", "Landscape feature"]
-    }, image: "/poi-images/monts-kanala-nature-v2.webp"},
+    }, image: "/poi-images/monts-kanala-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kanala-Berge im Südwesten Burkina Fasos sind ein stark erodiertes Sandsteinmassiv, das sich über etwa 80 Kilometer erstreckt. Die höchste Erhebung erreicht 749 Meter. Die Berge sind von Trockensavannen und Galeriewäldern bedeckt, die eine einzigartige Biodiversität beherbergen. Die Region ist dünn besiedelt, hauptsächlich von den Lobi, die traditionelle Siedlungen auf den Hügeln errichten. Die Böden sind nährstoffarm, daher spielt der Bergbau auf Gold und Mangan eine wichtige Rolle. Die Kanala-Berge sind auch ein wichtiges Wassereinzugsgebiet für den Mouhoun-Fluss.",
+      hu: "A Kanala-hegység Burkina Faso délnyugati részén található, és egy erózió által erősen átalakított homokkő masszívum. A terület 80 kilométer hosszan húzódik, legmagasabb pontja 749 méter. A hegyvidéket száraz szavanna és gallériaerdők borítják, melyek ritka növény- és állatfajoknak adnak otthont. A régió ritkán lakott, főként a lobi népcsoport él itt, akik a dombokon építik hagyományos településeiket. A talaj tápanyagszegény, így a bányászat (arany, mangán) fontos gazdasági tevékenység. A Kanala-hegység fontos vízgyűjtő terület a Mouhoun folyó számára.",
+      ro: "Munții Kanala, situați în sud-vestul Burkina Faso, reprezintă un masiv de gresie puternic erodat, care se întinde pe aproximativ 80 de kilometri. Cel mai înalt punct atinge 749 de metri. Munții sunt acoperiți de savane uscate și păduri-galerie, adăpostind o biodiversitate unică. Regiunea este slab populată, în principal de etnia Lobi, care își construiesc așezări tradiționale pe dealuri. Solurile sunt sărace în nutrienți, astfel că mineritul (aur, mangan) joacă un rol economic important. Munții Kanala sunt și un important bazin hidrografic pentru râul Mouhoun.",
+      en: "The Kanala Mountains in southwestern Burkina Faso are a heavily eroded sandstone massif stretching about 80 kilometers. The highest peak reaches 749 meters. The mountains are covered with dry savannas and gallery forests, hosting unique biodiversity. The region is sparsely populated, mainly by the Lobi people, who build traditional settlements on the hills. Soils are nutrient-poor, so mining for gold and manganese is a key economic activity. The Kanala Mountains also form an important watershed for the Mouhoun River.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Punkt: 749 m über dem Meeresspiegel", "Ausdehnung: ca. 80 km von Nordwest nach Südost", "Gesteinsart: überwiegend Sandstein aus dem Präkambrium", "Bevölkerungsdichte: unter 5 Einwohner pro km²", "Jährliche Niederschlagsmenge: 800-1000 mm", "Wichtige Mineralien: Gold, Mangan und Kalkstein"],
+      hu: ["Legmagasabb pont: 749 m tengerszint feletti magasság", "Hosszúság: kb. 80 km északnyugat-délkelet irányban", "Kőzettípus: túlnyomórészt prekambriumi homokkő", "Népsűrűség: kevesebb mint 5 fő/km²", "Éves csapadékmennyiség: 800-1000 mm", "Fontos ásványok: arany, mangán és mészkő"],
+      ro: ["Altitudine maximă: 749 m deasupra nivelului mării", "Lungime: aproximativ 80 km de la nord-vest la sud-est", "Tip de rocă: predominant gresie precambriană", "Densitatea populației: sub 5 locuitori pe km²", "Precipitații anuale: 800-1000 mm", "Resurse minerale importante: aur, mangan și calcar"],
+      en: ["Highest point: 749 m above sea level", "Length: approximately 80 km from northwest to southeast", "Rock type: predominantly Precambrian sandstone", "Population density: under 5 inhabitants per km²", "Annual rainfall: 800-1000 mm", "Key mineral resources: gold, manganese, and limestone"],
+    },
+  },
   {
     id: "fleuve-volta-blanche-nature-v2",
     type: "river",
     parent: "BF-06",
     coords: [-1.4, 12.1],
-    name: { de: "Weißer Volta", hu: "Fehér-Volta", ro: "Volta Albă", en: "White Volta",
-image: "/poi-images/fleuve-volta-blanche-nature-v2.webp"
-},
+    name: { de: "Weißer Volta", hu: "Fehér-Volta", ro: "Volta Albă", en: "White Volta"},
+    image: "/poi-images/fleuve-volta-blanche-nature-v2.webp",
     description: { de: "Ein bedeutender Flussarm in Burkina Faso.", hu: "A Fehér-Volta folyó a Burkina Faso-i vízrendszer fontos ága. A folyóvölgyek mentén mezőgazdasági és ökológiai szerepe is van.", ro: "Un braț important al râului în Burkina Faso.", en: "A major river branch in Burkina Faso." },
     facts: {
       de: ["Wichtiger Wasserlauf", "Landschaftsprägend"],
       hu: ["Fontos folyóág", "Vízelosztó szerep", "Völgyekhez kapcsolódik"],
       ro: ["Curs de apă important", "Formator de peisaj"],
       en: ["Important watercourse", "Landscape shaping"]
-    }, image: "/poi-images/fleuve-volta-blanche-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-volta-blanche-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der White Volta (Weiße Volta) ist ein bedeutender Fluss in Westafrika, der in Burkina Faso entspringt und nach Süden durch Ghana fließt. In Burkina Faso durchquert er die Regionen Nord und Ost und ist ein wichtiger Nebenfluss des Volta-Flusses. Der Fluss ist etwa 1.140 km lang, wovon rund 400 km in Burkina Faso liegen. Er wird stark durch saisonale Regenfälle beeinflusst, mit hohen Wasserständen von Juni bis Oktober. Der White Volta wird für Bewässerung, Fischerei und als Trinkwasserquelle genutzt. Der Bau des Bagré-Staudamms hat die Hydrologie des Flusses erheblich verändert.",
+      hu: "A Fehér Volta (White Volta) Nyugat-Afrika egyik jelentős folyója, amely Burkina Fasóban ered, és déli irányba haladva Ghánán keresztül ömlik a Volta-tóba. Burkina Fasóban az északi és keleti régiókat szeli át. A folyó teljes hossza körülbelül 1.140 km, ebből mintegy 400 km Burkina Fasóban található. Vízhozama erősen ingadozik az évszakos csapadék függvényében; június és október között magas a vízállás. A folyót öntözésre, halászatra és ivóvízellátásra használják. A Bagré-gát építése jelentősen megváltoztatta a folyó hidrológiai viszonyait.",
+      ro: "Râul Volta Alb (White Volta) este un fluviu important din Africa de Vest, care izvorăște în Burkina Faso și curge spre sud prin Ghana. În Burkina Faso traversează regiunile de Nord și Est. Lungimea totală este de aproximativ 1.140 km, dintre care circa 400 km se află în Burkina Faso. Debitul este puternic influențat de ploile sezoniere, cu niveluri ridicate între iunie și octombrie. Râul este folosit pentru irigații, pescuit și ca sursă de apă potabilă. Construcția barajului Bagré a modificat semnificativ hidrologia râului.",
+      en: "The White Volta is a major river in West Africa originating in Burkina Faso and flowing south through Ghana. In Burkina Faso, it traverses the Nord and Est regions. The river is approximately 1,140 km long, with about 400 km within Burkina Faso. Its flow is highly seasonal, with high water from June to October. The White Volta is used for irrigation, fishing, and drinking water. The construction of the Bagré Dam has significantly altered the river's hydrology.",
+    },
+    factsAdvanced: {
+      de: ["Länge gesamt: ca. 1.140 km", "Länge in Burkina Faso: ca. 400 km", "Einzugsgebiet: etwa 106.000 km²", "Mittlere Abflussmenge: 260 m³/s (an der Mündung)", "Wichtigster Nebenfluss: Roter Volta", "Bagré-Staudamm: Fertigstellung 1994, Kapazität 1.700 Millionen m³"],
+      hu: ["Teljes hossz: kb. 1.140 km", "Hossz Burkina Fasóban: kb. 400 km", "Vízgyűjtő terület: kb. 106.000 km²", "Átlagos vízhozam: 260 m³/s (a torkolatnál)", "Legfontosabb mellékfolyó: Vörös Volta", "Bagré-gát: 1994-ben készült, tározókapacitás 1.700 millió m³"],
+      ro: ["Lungime totală: aprox. 1.140 km", "Lungime în Burkina Faso: aprox. 400 km", "Bazin hidrografic: circa 106.000 km²", "Debit mediu: 260 m³/s (la vărsare)", "Principal afluent: Volta Roșu", "Barajul Bagré: finalizat în 1994, capacitate de 1.700 milioane m³"],
+      en: ["Total length: approx. 1,140 km", "Length in Burkina Faso: approx. 400 km", "Catchment area: about 106,000 km²", "Average discharge: 260 m³/s (at mouth)", "Main tributary: Red Volta", "Bagré Dam: completed 1994, storage capacity 1,700 million m³"],
+    },
+  },
   {
     id: "mare-de-gourou-nature-v2",
     type: "lake",
     parent: "BF-09",
     coords: [1.2, 11.5],
-    name: { de: "Gourou-See", hu: "Gourou-tó", ro: "Lacul Gourou", en: "Gourou Lake",
-image: "/poi-images/mare-de-gourou-nature-v2.webp"
-},
+    name: { de: "Gourou-See", hu: "Gourou-tó", ro: "Lacul Gourou", en: "Gourou Lake"},
+    image: "/poi-images/mare-de-gourou-nature-v2.webp",
     description: { de: "Die Mare de Gourou ist ein kleines Gewässer in der östlichen Landeshälfte. In der Trockenzeit kann es als wichtiger Punkt für Tiere und Vögel dienen.", hu: "Kis tó Burkina Faso keleti részén.", ro: "Un lac mic în estul Burkina Faso.", en: "Mare de Gourou is a water body in northern Burkina Faso. In the dry season it becomes a valuable place for people, livestock, and wildlife." },
     facts: {
       de: ["Kleines Gewässer", "In Ostburkina", "Für Vögel wichtig"],
       hu: ["Csendes helyszín", "Élmény a természetben"],
       ro: ["Locație liniștită", "Experiență în natură"],
       en: ["Northern water body", "Dry-season importance", "Used by people and animals"]
-    }, image: "/poi-images/mare-de-gourou-nature-v2.webp"},
+    }, image: "/poi-images/mare-de-gourou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Gourou-See ist ein temporärer See im Norden Burkina Fasos in der Region Sahel. Er entsteht während der Regenzeit und trocknet in der Trockenzeit oft vollständig aus. Der See liegt in einer flachen Senke, die von Dünen und Savanne umgeben ist. Er ist ein wichtiges Feuchtgebiet für Zugvögel und eine Trinkwasserquelle für Nomaden. Der Gourou-See ist auch für die lokale Fischerei von Bedeutung, obwohl die Fangmengen stark schwanken. Die Ufer sind spärlich bewachsen mit Akazien und Gräsern.",
+      hu: "A Gourou-tó egy időszakos tó Burkina Faso északi részén, a Száhel régióban. Az esős évszakban alakul ki, és a száraz évszakban gyakran teljesen kiszárad. A tó egy sekély medencében fekszik, amelyet dűnék és szavanna vesznek körül. Fontos vizes élőhely a vándormadarak számára, és ivóvízforrásként szolgál a nomádoknak. A Gourou-tó a helyi halászat számára is jelentős, bár a fogás mennyisége erősen ingadozik. A partokat ritkás akáciafák és füvek borítják.",
+      ro: "Lacul Gourou este un lac temporar situat în nordul Burkina Faso, în regiunea Sahel. Se formează în timpul sezonului ploios și adesea seacă complet în sezonul uscat. Lacul este așezat într-o depresiune puțin adâncă, înconjurată de dune și savană. Este o zonă umedă importantă pentru păsările migratoare și o sursă de apă potabilă pentru nomazi. Lacul Gourou are, de asemenea, o importanță pentru pescuitul local, deși cantitățile capturate variază foarte mult. Malurile sunt acoperite cu salcâmi rari și ierburi.",
+      en: "Lake Gourou is a seasonal lake in northern Burkina Faso in the Sahel region. It forms during the rainy season and often dries up completely in the dry season. The lake lies in a shallow depression surrounded by dunes and savanna. It is an important wetland for migratory birds and a source of drinking water for nomads. Lake Gourou also supports local fishing, though catches vary greatly. The shores are sparsely vegetated with acacia trees and grasses.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Ausdehnung: ca. 15 km² während der Regenzeit", "Tiefe: maximal 3 m", "Niederschlag: etwa 400 mm jährlich", "Verdunstungsrate: hoch, bis zu 2.000 mm pro Jahr", "Wassertemperatur: 25-30 °C", "Fischarten: vor allem Tilapia und Welse"],
+      hu: ["Maximális kiterjedés: kb. 15 km² az esős évszakban", "Mélység: maximum 3 m", "Csapadék: kb. 400 mm évente", "Párolgási ráta: magas, akár 2.000 mm évente", "Vízhőmérséklet: 25-30 °C", "Halfajták: főként tilápia és harcsa"],
+      ro: ["Întindere maximă: aprox. 15 km² în sezonul ploios", "Adâncime: maxim 3 m", "Precipitații: circa 400 mm anual", "Rată de evaporare: ridicată, până la 2.000 mm pe an", "Temperatura apei: 25-30 °C", "Specii de pești: în principal tilapia și somn"],
+      en: ["Maximum extent: approx. 15 km² during rainy season", "Depth: maximum 3 m", "Rainfall: about 400 mm annually", "Evaporation rate: high, up to 2,000 mm per year", "Water temperature: 25-30 °C", "Fish species: mainly tilapia and catfish"],
+    },
+  },
   {
     id: "foret-dindivier-nature-v2",
     type: "forest",
     parent: "BF-04",
     coords: [-4.2, 10.9],
-    name: { de: "Dindivier-Wald", hu: "Dindivier-erdő", ro: "Pădurea Dindivier", en: "Dindivier Forest",
-image: "/poi-images/foret-dindivier-nature-v2.webp"
-},
+    name: { de: "Dindivier-Wald", hu: "Dindivier-erdő", ro: "Pădurea Dindivier", en: "Dindivier Forest"},
+    image: "/poi-images/foret-dindivier-nature-v2.webp",
     description: { de: "Der Dindivier-Wald ist ein bewaldetes Gebiet mit lokaler Bedeutung für Natur und Klima. Er bietet Schatten, Schutz und einen ruhigen Lebensraum für die Fauna.", hu: "A Dindivier-erdő egy kevésbé ismert, de értékes természetes terület. A helyi élővilág számára menedéket és árnyékos környezetet biztosít.", ro: "Pădurea Dindivier este o zonă împădurită din Burkina Faso, importantă pentru vegetație și echilibrul local al mediului. Ea aparține peisajelor naturale de tranziție dintre savană și zone mai dense.", en: "Foret Dindivier is a forest area in Burkina Faso’s interior. It reflects the patchwork of wooded zones that remain outside the driest plains." },
     facts: {
       de: ["Bewaldetes Gebiet", "Lokaler Lebensraum", "Schutz für Tiere"],
       hu: ["Természetes erdő", "Helyi élőhely", "Menedéket nyújt"],
       ro: ["zonă împădurită", "vegetație locală", "peisaj de tranziție"],
       en: ["Interior forest", "Wooded zone", "Patchy natural cover"]
-    }, image: "/poi-images/foret-dindivier-nature-v2.webp"},
+    }, image: "/poi-images/foret-dindivier-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dindivier-Wald ist ein geschütztes Waldgebiet im Süden Burkina Fasos in der Region Cascades. Er bedeckt eine Fläche von etwa 150 km² und besteht aus trockenen Laubwäldern und Galeriewäldern entlang von Flussläufen. Der Wald ist ein wichtiger Lebensraum für Elefanten, Flusspferde und viele Vogelarten. Er liegt im Einzugsgebiet des Comoé-Flusses. Die lokale Bevölkerung nutzt den Wald für die Sammlung von Wildfrüchten, Honig und Medizinalpflanzen. Der Wald wird durch Brandrodung und Holzeinschlag bedroht.",
+      hu: "A Dindivier-erdő egy védett erdőterület Burkina Faso déli részén, a Cascades régióban. Területe körülbelül 150 km², és száraz lombhullató erdőkből, valamint folyók menti galériaerdőkből áll. Az erdő fontos élőhelye az elefántoknak, vízilovaknak és számos madárfajnak. A Comoé folyó vízgyűjtő területéhez tartozik. A helyi lakosság vadgyümölcsöket, mézet és gyógynövényeket gyűjt az erdőben. Az erdőt veszélyezteti az égetéses mezőgazdaság és a fakitermelés.",
+      ro: "Pădurea Dindivier este o arie forestieră protejată din sudul Burkina Faso, în regiunea Cascades. Acoperă o suprafață de aproximativ 150 km² și este formată din păduri uscate de foioase și păduri-galerie de-a lungul cursurilor de apă. Pădurea este un habitat important pentru elefanți, hipopotami și multe specii de păsări. Se află în bazinul hidrografic al râului Comoé. Populația locală folosește pădurea pentru culegerea fructelor sălbatice, a mierii și a plantelor medicinale. Pădurea este amenințată de agricultura pe bază de tăiere și ardere și de exploatarea lemnului.",
+      en: "The Dindivier Forest is a protected forest area in southern Burkina Faso in the Cascades region. It covers about 150 km² and consists of dry deciduous forests and gallery forests along watercourses. The forest is an important habitat for elephants, hippos, and many bird species. It lies in the Comoé River catchment. Local people use the forest for collecting wild fruits, honey, and medicinal plants. The forest is threatened by slash-and-burn agriculture and logging.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 150 km²", "Höhe: 200-400 m über dem Meeresspiegel", "Jährliche Niederschlagsmenge: 1.100 mm", "Baumarten: Shea-Bäume, Affenbrotbäume, Mahagoni", "Geschätzte Elefantenpopulation: 50-100 Individuen", "Schutzstatus: Forstreservat seit 1955"],
+      hu: ["Terület: kb. 150 km²", "Magasság: 200-400 m tengerszint felett", "Éves csapadékmennyiség: 1.100 mm", "Fafajok: shea-fák, majomkenyérfák, mahagóni", "Becsült elefántpopuláció: 50-100 egyed", "Védettségi státusz: erdőrezervátum 1955 óta"],
+      ro: ["Suprafață: circa 150 km²", "Altitudine: 200-400 m deasupra nivelului mării", "Precipitații anuale: 1.100 mm", "Specii de arbori: shea, baobab, mahon", "Populația estimată de elefanți: 50-100 de indivizi", "Statut de protecție: rezervație forestieră din 1955"],
+      en: ["Area: about 150 km²", "Elevation: 200-400 m above sea level", "Annual rainfall: 1,100 mm", "Tree species: shea, baobab, mahogany", "Estimated elephant population: 50-100 individuals", "Protection status: forest reserve since 1955"],
+    },
+  },
   {
     id: "monts-kole-nature-v2",
     type: "mountain",
     parent: "BF-02",
     coords: [-2.5, 12.8],
-    name: { de: "Kole-Berge", hu: "Kole-hegyek", ro: "Munții Kole", en: "Kole Mountains",
-image: "/poi-images/monts-kole-nature-v2.webp"
-},
+    name: { de: "Kole-Berge", hu: "Kole-hegyek", ro: "Munții Kole", en: "Kole Mountains"},
+    image: "/poi-images/monts-kole-nature-v2.webp",
     description: { de: "Die Monts Kole gehören zu den kleineren Berg- und Hügelformen Burkina Fasos. Sie setzen einen markanten Punkt im Landschaftsbild des Westens.", hu: "A Kôlé-hegység kisebb magaslatokból álló táj, amely megtöri a síkabb vidékek ritmusát. A domborzat a helyi vízgyűjtést is befolyásolja.", ro: "Munții Kôle sunt o formă de relief care adaugă variație peisajului local. Ei fac parte din zonele de deal și stâncă din vestul țării.", en: "Monts Kole are a set of hills or low mountains in Burkina Faso. They add relief variation to a mostly flat country landscape." },
     facts: {
       de: ["Kleinere Bergkette", "Im Westen des Landes", "Markantes Relief"],
       hu: ["Kisebb hegyvonulat", "A táj domborzatát formálja", "Vízgyűjtésre is hat"],
       ro: ["formă de relief", "zone de deal", "în vestul țării"],
       en: ["Hill or mountain group", "Relief variation", "Mostly flat surroundings"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Kole-Berge sind eine Hügelkette im Zentrum Burkina Fasos in der Region Plateau Central. Sie erreichen Höhen von bis zu 500 Metern und bestehen aus Granit und Gneis. Die Landschaft ist geprägt von felsigen Kuppen und Trockentälern. Die Böden sind flach und steinig, was die Landwirtschaft erschwert. Die Region ist dünn besiedelt, hauptsächlich von Mossi-Bauern. Die Berge bieten Schutz vor Erosion und sind ein wichtiges Wassereinzugsgebiet für lokale Flüsse. In der Trockenzeit dienen die Felsspalten als Wasserreservoir.",
+      hu: "A Kole-hegység egy dombvonulat Burkina Faso középső részén, a Plateau Central régióban. Magasságuk elérheti az 500 métert, és gránitból, valamint gneiszből állnak. A tájat sziklás kupolák és száraz völgyek jellemzik. A talaj sekély és köves, ami megnehezíti a mezőgazdaságot. A régió ritkán lakott, főként mosszi földművesek lakják. A hegyek védelmet nyújtanak az erózió ellen, és fontos vízgyűjtő területet képeznek a helyi folyók számára. A száraz évszakban a sziklarepedések víztározóként szolgálnak.",
+      ro: "Munții Kole sunt un lanț de dealuri din centrul Burkina Faso, în regiunea Plateau Central. Atitudinile ajung până la 500 de metri și sunt compuși din granit și gneiss. Peisajul este caracterizat de cupole stâncoase și văi uscate. Solurile sunt superficiale și pietroase, îngreunând agricultura. Regiunea este slab populată, în principal de țărani Mossi. Munții oferă protecție împotriva eroziunii și constituie un bazin hidrografic important pentru râurile locale. În sezonul uscat, crăpăturile din stânci servesc ca rezervoare de apă.",
+      en: "The Kole Mountains are a hill range in central Burkina Faso in the Plateau Central region. They reach heights up to 500 meters and consist of granite and gneiss. The landscape features rocky domes and dry valleys. Soils are shallow and stony, making agriculture difficult. The region is sparsely populated, mainly by Mossi farmers. The mountains provide protection against erosion and are an important watershed for local rivers. During the dry season, rock crevices serve as water reservoirs.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: 502 m", "Gesteinsart: Granit und Gneis aus dem Paläoproterozoikum", "Fläche des Massivs: ca. 200 km²", "Bevölkerung: weniger als 10 Einwohner pro km²", "Jährliche Niederschlagsmenge: 700-900 mm", "Hauptanbauprodukte: Hirse, Sorghum, Erdnüsse"],
+      hu: ["Legmagasabb pont: 502 m", "Kőzettípus: gránit és gneisz a paleoproterozoikumból", "A masszívum területe: kb. 200 km²", "Népesség: kevesebb mint 10 fő/km²", "Éves csapadék: 700-900 mm", "Fő termények: köles, cirok, földimogyoró"],
+      ro: ["Altitudine maximă: 502 m", "Tip de rocă: granit și gneiss din Paleoproterozoic", "Suprafața masivului: circa 200 km²", "Populație: mai puțin de 10 locuitori pe km²", "Precipitații anuale: 700-900 mm", "Culturi principale: mei, sorg, arahide"],
+      en: ["Highest point: 502 m", "Rock type: granite and gneiss from Paleoproterozoic", "Area of the massif: about 200 km²", "Population: less than 10 inhabitants per km²", "Annual rainfall: 700-900 mm", "Main crops: millet, sorghum, peanuts"],
+    },
   },
   {
     id: "mare-de-kourou-nature-v2",
     type: "lake",
     parent: "BF-03",
     coords: [-4.5, 11.3],
-    name: { de: "Kourou-See", hu: "Kourou-tó", ro: "Lacul Kourou", en: "Kourou Lake",
-image: "/poi-images/mare-de-kourou-nature-v2.webp"
-},
+    name: { de: "Kourou-See", hu: "Kourou-tó", ro: "Lacul Kourou", en: "Kourou Lake"},
+    image: "/poi-images/mare-de-kourou-nature-v2.webp",
     description: { de: "Die Mare de Kourou ist ein natürliches Wasserbecken in einer trockeneren Umgebung. Es spielt eine Rolle als Sammelpunkt für Wasser und Tierleben.", hu: "A Kourou-mocsár vagy tómeder vízhez kötődő természetes élőhely. A szárazabb időszakban is fontos szerepe van a környék ökológiájában.", ro: "Mlaștina sau ochiul de apă de la Kourou este un punct natural legat de apă și de fauna locală. Astfel de locuri sunt importante pentru biodiversitate și pentru comunitățile din jur.", en: "Mare de Kourou is a seasonal water body in Burkina Faso. It becomes more important during the dry months when surface water is scarce." },
     facts: {
       de: ["Natürliches Wasserbecken", "Sammelpunkt für Tiere", "In trockener Umgebung"],
       hu: ["Vizes élőhely", "Időszakos vízfelület", "Ökológiai tartalék"],
       ro: ["ochi de apă", "faună locală", "biodiversitate"],
       en: ["Seasonal wetland", "Dry-season value", "Local water point"]
-    }, image: "/poi-images/mare-de-kourou-nature-v2.webp"},
+    }, image: "/poi-images/mare-de-kourou-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kourou-See ist ein künstlicher Stausee im Norden Burkina Fasos in der Region Sahel. Er wurde in den 1990er Jahren zur Bewässerung und Trinkwasserversorgung angelegt. Der See hat eine Fläche von etwa 10 km² und eine maximale Tiefe von 8 Metern. Er wird vom Kourou-Fluss gespeist, der saisonal Wasser führt. Der See ist ein wichtiger Rastplatz für Zugvögel und dient der Fischerei. Die Ufer sind von Dünen und Savanne umgeben. Der See leidet unter starker Verdunstung und Verschlammung.",
+      hu: "A Kourou-tó egy mesterséges tározó Burkina Faso északi részén, a Száhel régióban. Az 1990-es években hozták létre öntözési és ivóvízellátási célokra. A tó területe körülbelül 10 km², maximális mélysége 8 méter. Vízellátását a Kourou-folyó biztosítja, amely időszakos vízfolyás. A tó fontos pihenőhely a vándormadarak számára, és halászati célokat szolgál. A partokat dűnék és szavanna veszik körül. A tó erős párolgástól és feliszapolódástól szenved.",
+      ro: "Lacul Kourou este un lac de acumulare artificial situat în nordul Burkina Faso, în regiunea Sahel. A fost construit în anii 1990 pentru irigații și alimentare cu apă potabilă. Lacul are o suprafață de aproximativ 10 km² și o adâncime maximă de 8 metri. Este alimentat de râul Kourou, care are un debit sezonier. Lacul este un important loc de popas pentru păsările migratoare și este folosit pentru pescuit. Malurile sunt înconjurate de dune și savană. Lacul suferă de evaporare puternică și colmatare.",
+      en: "Lake Kourou is an artificial reservoir in northern Burkina Faso in the Sahel region. It was built in the 1990s for irrigation and drinking water supply. The lake covers about 10 km² and has a maximum depth of 8 meters. It is fed by the Kourou River, which carries seasonal flow. The lake is an important stopover for migratory birds and supports fishing. The shores are surrounded by dunes and savanna. The lake suffers from high evaporation and siltation.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 10 km²", "Maximale Tiefe: 8 m", "Stauvolumen: 25 Millionen m³", "Baujahr: 1995", "Jährliche Verdunstung: 2.500 mm", "Fischproduktion: etwa 50 Tonnen pro Jahr"],
+      hu: ["Terület: kb. 10 km²", "Maximális mélység: 8 m", "Tározótérfogat: 25 millió m³", "Építés éve: 1995", "Éves párolgás: 2.500 mm", "Halfogás: évi kb. 50 tonna"],
+      ro: ["Suprafață: circa 10 km²", "Adâncime maximă: 8 m", "Volum de acumulare: 25 milioane m³", "Anul construcției: 1995", "Evaporare anuală: 2.500 mm", "Producție piscicolă: circa 50 tone pe an"],
+      en: ["Area: about 10 km²", "Maximum depth: 8 m", "Storage volume: 25 million m³", "Year built: 1995", "Annual evaporation: 2,500 mm", "Fish production: about 50 tons per year"],
+    },
+  },
   {
     id: "foret-boulon-nature-v2",
     type: "forest",
     parent: "BF-04",
     coords: [-3.8, 10.4],
-    name: { de: "Boulon-Wald", hu: "Boulon-erdő", ro: "Pădurea Boulon", en: "Boulon Forest",
-image: "/poi-images/foret-boulon-nature-v2.webp"
-},
+    name: { de: "Boulon-Wald", hu: "Boulon-erdő", ro: "Pădurea Boulon", en: "Boulon Forest"},
+    image: "/poi-images/foret-boulon-nature-v2.webp",
     description: { de: "Die Boulon-Waldzone liegt im Übergang zwischen Wald und Savanne. Sie ist wichtig für die lokale Biodiversität und die Beobachtung von Wildtieren.", hu: "A Boulon-erdő egy helyi természeti terület, amely a vidéki táj zöldebb részei közé tartozik. Élőhelyet ad a környék növény- és állatvilágának.", ro: "Pădurea Boulon este o zonă naturală din Burkina Faso, cu rol în menținerea vegetației și a microclimatului local. Ea oferă un habitat pentru specii specifice savanei împădurite.", en: "Foret Boulon is a forested area linked to the Boulon landscape in southwestern Burkina Faso. It helps preserve woodland habitat in the savanna zone." },
     facts: {
       de: ["Wald-Savannen-Übergang", "Wichtig für Biodiversität", "Lebensraum für Tiere"],
       hu: ["Erdős természetvédelmi terület", "Helyi élőhely", "Zöldebb tájfolt"],
       ro: ["zonă naturală", "habitat pentru specii", "microclimat local"],
       en: ["Southwest woodland", "Savanna habitat", "Supports biodiversity"]
-    }, image: "/poi-images/foret-boulon-nature-v2.webp"},
+    }, image: "/poi-images/foret-boulon-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Boulon-Wald ist ein geschütztes Waldgebiet im Süden Burkina Fasos in der Region Cascades. Er erstreckt sich über etwa 100 km² und besteht aus trockenen Miombo-Wäldern und Galeriewäldern. Der Wald ist ein wichtiger Lebensraum für Antilopen, Büffel und Leoparden. Er liegt nahe der Grenze zur Elfenbeinküste. Die lokale Bevölkerung sammelt Shea-Nüsse und Honig im Wald. Der Wald wird durch Wilderei und landwirtschaftliche Expansion bedroht. Er ist Teil des transnationalen Schutzgebietskomplexes Comoé-Leraba.",
+      hu: "A Boulon-erdő egy védett erdőterület Burkina Faso déli részén, a Cascades régióban. Kiterjedése körülbelül 100 km², és száraz miombó-erdőkből, valamint galériaerdőkből áll. Az erdő fontos élőhelye az antilopoknak, bivalyoknak és leopárdoknak. Az Elefántcsontpart határához közel fekszik. A helyi lakosság shea-diót és mézet gyűjt az erdőben. Az erdőt veszélyezteti az orvvadászat és a mezőgazdasági terjeszkedés. Része a Comoé-Leraba határon átnyúló védett terület komplexumnak.",
+      ro: "Pădurea Boulon este o arie forestieră protejată din sudul Burkina Faso, în regiunea Cascades. Se întinde pe aproximativ 100 km² și este formată din păduri uscate de miombo și păduri-galerie. Pădurea este un habitat important pentru antilope, bivoli și leoparzi. Se află aproape de granița cu Coasta de Fildeș. Populația locală culege nuci de shea și miere din pădure. Pădurea este amenințată de braconaj și expansiunea agricolă. Face parte din complexul transfrontalier de arii protejate Comoé-Leraba.",
+      en: "The Boulon Forest is a protected forest area in southern Burkina Faso in the Cascades region. It covers about 100 km² and consists of dry miombo woodlands and gallery forests. The forest is an important habitat for antelopes, buffaloes, and leopards. It lies near the border with Côte d'Ivoire. Local people collect shea nuts and honey in the forest. The forest is threatened by poaching and agricultural expansion. It is part of the Comoé-Leraba transboundary protected area complex.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 100 km²", "Höhenlage: 250-400 m", "Jährlicher Niederschlag: 1.200 mm", "Baumarten: Brachystegia, Isoberlinia", "Tierarten: Buschbock, Kronenducker, Paviane", "Schutzstatus: Forstreservat seit 1960"],
+      hu: ["Terület: kb. 100 km²", "Magasság: 250-400 m", "Éves csapadék: 1.200 mm", "Fafajok: Brachystegia, Isoberlinia", "Állatfajok: bokorantilop, kékduiker, páviánok", "Védettségi státusz: erdőrezervátum 1960 óta"],
+      ro: ["Suprafață: circa 100 km²", "Altitudine: 250-400 m", "Precipitații anuale: 1.200 mm", "Specii de arbori: Brachystegia, Isoberlinia", "Specii de animale: antilopă de tufiș, duiker albastru, babuini", "Statut de protecție: rezervație forestieră din 1960"],
+      en: ["Area: about 100 km²", "Elevation: 250-400 m", "Annual rainfall: 1,200 mm", "Tree species: Brachystegia, Isoberlinia", "Animal species: bushbuck, blue duiker, baboons", "Protection status: forest reserve since 1960"],
+    },
+  },
   {
     id: "monts-diapaga-nature-v2",
     type: "mountain",
     parent: "BF-09",
     coords: [1.8, 12.0],
-    name: { de: "Diapaga-Hügel", hu: "Diapaga-dombság", ro: "Dealurile Diapaga", en: "Diapaga Hills",
-image: "/poi-images/monts-diapaga-nature-v2.webp"
-},
+    name: { de: "Diapaga-Hügel", hu: "Diapaga-dombság", ro: "Dealurile Diapaga", en: "Diapaga Hills"},
+    image: "/poi-images/monts-diapaga-nature-v2.webp",
     description: { de: "Die Monts Diapaga markieren ein felsigeres Relief im Osten Burkina Fasos. Sie ergänzen die trockene Landschaft um Höhenzüge und natürliche Aussichtspunkte.", hu: "A Diapaga-hegység a keleti országrész tagoltabb domborzatát képviseli. A magasabb pontok a száraz síkságok között jól elkülönülnek.", ro: "Munții Diapaga reprezintă un sector de relief din estul Burkinei Faso. Ei fac parte din peisajul mai accidentat al regiunii și marchează clar terenul.", en: "Monts Diapaga are a hill area in eastern Burkina Faso. They add broken relief to a region that is otherwise dominated by open plains." },
     facts: {
       de: ["Felsiges Relief", "Im Osten des Landes", "Höhenzüge im Gelände"],
       hu: ["Keleti dombvidék", "Tagoltabb felszín", "A síkságból kiemelkedik"],
       ro: ["relief estic", "teren accidentat", "marchează peisajul"],
       en: ["Eastern hills", "Broken relief", "Plain-country contrast"]
-    }, image: "/poi-images/monts-diapaga-nature-v2.webp"},
+    }, image: "/poi-images/monts-diapaga-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Diapaga-Hügel liegen im Osten Burkina Fasos in der Region Est, nahe der Grenze zu Niger. Sie sind Teil des Gourma-Massivs und bestehen aus Sandstein und Quarzit. Die Hügel erreichen Höhen von bis zu 400 Metern. Die Vegetation besteht aus Dornsavanne und Trockenwäldern. Die Region ist dünn besiedelt, hauptsächlich von Fulbe-Viehzüchtern. Die Hügel sind ein wichtiges Weidegebiet für Rinder. In der Regenzeit sammelt sich Wasser in Senken, das für die Viehtränke genutzt wird.",
+      hu: "A Diapaga-dombság Burkina Faso keleti részén, az Est régióban, Niger határához közel található. A Gourma-masszívum része, és homokkőből, valamint kvarcitból áll. A dombok magassága elérheti a 400 métert. A növényzet tövises szavannából és száraz erdőkből áll. A régió ritkán lakott, főként fulbe pásztorok lakják. A dombok fontos legelőterületet biztosítanak a szarvasmarhák számára. Az esős évszakban a mélyedésekben összegyűlő vizet itatásra használják.",
+      ro: "Dealurile Diapaga sunt situate în estul Burkina Faso, în regiunea Est, aproape de granița cu Niger. Fac parte din masivul Gourma și sunt compuse din gresie și cuarțit. Dealurile ating altitudini de până la 400 de metri. Vegetația constă în savană spinoasă și păduri uscate. Regiunea este slab populată, în principal de păstori Fulani. Dealurile constituie o importantă zonă de pășunat pentru bovine. În sezonul ploios, apa se adună în depresiuni, fiind folosită pentru adăparea vitelor.",
+      en: "The Diapaga Hills are located in eastern Burkina Faso in the Est region, near the border with Niger. They are part of the Gourma Massif and consist of sandstone and quartzite. The hills reach heights up to 400 meters. Vegetation consists of thorn savanna and dry forests. The region is sparsely populated, mainly by Fulani herders. The hills provide important grazing land for cattle. During the rainy season, water collects in depressions, used for livestock watering.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: 412 m", "Gesteinsarten: Sandstein, Quarzit", "Fläche: ca. 300 km²", "Bevölkerungsdichte: unter 5 Einwohner pro km²", "Jährliche Niederschlagsmenge: 500-700 mm", "Viehdichte: etwa 20.000 Rinder in der Region"],
+      hu: ["Legmagasabb pont: 412 m", "Kőzettípusok: homokkő, kvarcit", "Terület: kb. 300 km²", "Népsűrűség: kevesebb mint 5 fő/km²", "Éves csapadék: 500-700 mm", "Állatsűrűség: kb. 20.000 szarvasmarha a régióban"],
+      ro: ["Altitudine maximă: 412 m", "Tipuri de roci: gresie, cuarțit", "Suprafață: circa 300 km²", "Densitatea populației: sub 5 locuitori/km²", "Precipitații anuale: 500-700 mm", "Densitatea vitelor: circa 20.000 de bovine în regiune"],
+      en: ["Highest point: 412 m", "Rock types: sandstone, quartzite", "Area: about 300 km²", "Population density: under 5 inhabitants/km²", "Annual rainfall: 500-700 mm", "Cattle density: about 20,000 head in the region"],
+    },
+  },
   {
     id: "fleuve-pendjari-nature-v2",
     type: "river",
     parent: "BF-09",
     coords: [1.5, 11.0],
-    name: { de: "Pendjari-Fluss", hu: "Pendjari folyó", ro: "Râul Pendjari", en: "Pendjari River",
-image: "/poi-images/fleuve-pendjari-nature-v2.webp"
-},
+    name: { de: "Pendjari-Fluss", hu: "Pendjari folyó", ro: "Râul Pendjari", en: "Pendjari River"},
+    image: "/poi-images/fleuve-pendjari-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss im Pendjari-Nationalpark.", hu: "A Pendjari folyó a déli és keleti vízhálózat fontos eleme lehet a térségben. A folyó menti zónák a természetes élőhelyek megőrzésében is szerepet kapnak.", ro: "Râul Pendjari este un curs de apă important în sud-vestul regiunii saheliene. El are valoare ecologică și susține ecosisteme locale de apă dulce.", en: "An important river in the Pendjari National Park." },
     facts: {
       de: ["Wichtiger Fluss", "Tierbeobachtung"],
       hu: ["Folyó a térségben", "Vízfolyási tengely", "Élőhelyeket kapcsol össze"],
       ro: ["curs de apă", "valoare ecologică", "apă dulce"],
       en: ["Important river", "Animal watching"]
-    }, image: "/poi-images/fleuve-pendjari-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-pendjari-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pendjari-Fluss ist ein wichtiger Nebenfluss des Volta-Flusses im Westen Burkina Fasos. Er entspringt in Benin und fließt durch Burkina Faso, wo er die Grenze zu Benin bildet. Der Fluss ist etwa 400 km lang, wovon 200 km in Burkina Faso liegen. Er durchfließt den Pendjari-Nationalpark, der für seine Tierwelt bekannt ist. Der Fluss führt saisonal Wasser, mit Hochwasser von August bis Oktober. Er wird für Bewässerung und Fischerei genutzt. Der Bau des Pendjari-Staudamms hat die Wasserführung reguliert.",
+      hu: "A Pendjari-folyó a Volta folyó fontos mellékfolyója Burkina Faso nyugati részén. Beninnben ered, és áthalad Burkina Fasón, ahol határt képez Benin felé. A folyó hossza körülbelül 400 km, ebből 200 km Burkina Fasóban található. Átszeli a Pendjari Nemzeti Parkot, amely a vadállományáról híres. A folyó időszakos vízfolyás, augusztustól októberig van áradás. Öntözésre és halászatra használják. A Pendjari-gát építése szabályozta a vízhozamot.",
+      ro: "Râul Pendjari este un important afluent al fluviului Volta din vestul Burkina Faso. Izvorăște în Benin și curge prin Burkina Faso, unde formează granița cu Benin. Râul are o lungime de aproximativ 400 km, dintre care 200 km în Burkina Faso. Traversează Parcul Național Pendjari, cunoscut pentru fauna sa sălbatică. Râul are un debit sezonier, cu viituri din august până în octombrie. Este folosit pentru irigații și pescuit. Construcția barajului Pendjari a reglementat debitul.",
+      en: "The Pendjari River is an important tributary of the Volta River in western Burkina Faso. It originates in Benin and flows through Burkina Faso, where it forms the border with Benin. The river is about 400 km long, with 200 km in Burkina Faso. It traverses Pendjari National Park, known for its wildlife. The river has seasonal flow, with floods from August to October. It is used for irrigation and fishing. The construction of the Pendjari Dam has regulated the flow.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: ca. 400 km", "Länge in Burkina Faso: 200 km", "Einzugsgebiet: 25.000 km²", "Mittlere Abflussmenge: 50 m³/s", "Höchststand: August-Oktober", "Pendjari-Staudamm: Baujahr 1988, Kapazität 100 Millionen m³"],
+      hu: ["Teljes hossz: kb. 400 km", "Hossz Burkina Fasóban: 200 km", "Vízgyűjtő terület: 25.000 km²", "Átlagos vízhozam: 50 m³/s", "Legmagasabb vízállás: augusztus-október", "Pendjari-gát: 1988-ban épült, kapacitása 100 millió m³"],
+      ro: ["Lungime totală: circa 400 km", "Lungime în Burkina Faso: 200 km", "Bazin hidrografic: 25.000 km²", "Debit mediu: 50 m³/s", "Nivel maxim: august-octombrie", "Barajul Pendjari: construit în 1988, capacitate 100 milioane m³"],
+      en: ["Total length: about 400 km", "Length in Burkina Faso: 200 km", "Catchment area: 25,000 km²", "Average discharge: 50 m³/s", "Highest flow: August-October", "Pendjari Dam: built 1988, capacity 100 million m³"],
+    },
+  },
   {
     id: "mare-de-bale-nature-v2",
     type: "lake",
     parent: "BF-11",
     coords: [-2.8, 11.5],
-    name: { de: "Balé-See", hu: "Balé-tó", ro: "Lacul Balé", en: "Balé Lake",
-image: "/poi-images/mare-de-bale-nature-v2.webp"
-},
+    name: { de: "Balé-See", hu: "Balé-tó", ro: "Lacul Balé", en: "Balé Lake"},
+    image: "/poi-images/mare-de-bale-nature-v2.webp",
     description: { de: "Die Mare de Balé ist ein kleines, saisonales Gewässer in der Balé-Region. Es ist besonders in der Regenzeit ein wichtiger Punkt im Naturraum.", hu: "A Balé-mocsár vagy tómeder vízhez kötődő természeti helyszín. A száraz évszakban is fontos marad a környék ökológiai egyensúlyához.", ro: "Mlaștina sau lacul de la Bâle este un element natural legat de apă și de viața sălbatică. Astfel de locuri au un rol important pentru echilibrul mediului.", en: "Mare de Bale is a wetland or seasonal lake in Burkina Faso. It is part of the country’s network of small water points in the south and west." },
     facts: {
       de: ["Saisonales Gewässer", "In der Balé-Region", "Wichtig in der Regenzeit"],
       hu: ["Vizes élőhely", "Balé térségéhez kötődik", "Száraz időben is fontos"],
       ro: ["zonă umedă", "viață sălbatică", "rol ecologic"],
       en: ["Seasonal lake", "South-western water zone", "Used in the dry season"]
-    }, image: "/poi-images/mare-de-bale-nature-v2.webp"},
+    }, image: "/poi-images/mare-de-bale-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Balé-See ist ein saisonaler See in der Region Centre-Nord in Burkina Faso. Er liegt im Tal des Weißen Volta und entsteht während der Regenzeit. Der See hat eine maximale Ausdehnung von etwa 20 km² und eine Tiefe von bis zu 4 Metern. Er ist ein wichtiges Feuchtgebiet für Wasservögel und dient der lokalen Fischerei. Die Ufer sind von Galeriewäldern und landwirtschaftlichen Flächen umgeben. Der See ist stark von Verdunstung und Sedimentation betroffen.",
+      hu: "A Balé-tó egy időszakos tó Burkina Faso Centre-Nord régiójában. A Fehér Volta völgyében fekszik, és az esős évszakban alakul ki. A tó maximális kiterjedése körülbelül 20 km², mélysége elérheti a 4 métert. Fontos vizes élőhely a vízimadarak számára, és a helyi halászatot szolgálja. Partjait galériaerdők és mezőgazdasági területek veszik körül. A tavat erősen érinti a párolgás és az üledéklerakódás.",
+      ro: "Lacul Balé este un lac sezonier situat în regiunea Centre-Nord din Burkina Faso. Se află în valea Voltei Albe și se formează în sezonul ploios. Lacul are o întindere maximă de aproximativ 20 km² și o adâncime de până la 4 metri. Este o zonă umedă importantă pentru păsările acvatice și susține pescuitul local. Malurile sunt înconjurate de păduri-galerie și terenuri agricole. Lacul este puternic afectat de evaporare și sedimentare.",
+      en: "Lake Balé is a seasonal lake in the Centre-Nord region of Burkina Faso. It lies in the White Volta valley and forms during the rainy season. The lake has a maximum extent of about 20 km² and a depth of up to 4 meters. It is an important wetland for waterbirds and supports local fishing. The shores are surrounded by gallery forests and agricultural fields. The lake is heavily affected by evaporation and sedimentation.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Ausdehnung: 20 km²", "Maximale Tiefe: 4 m", "Entstehungszeit: Juni bis Oktober", "Wichtige Vogelarten: Reiher, Störche, Enten", "Jährlicher Fischfang: 30 Tonnen", "Wasserqualität: hoher Sedimentgehalt"],
+      hu: ["Maximális kiterjedés: 20 km²", "Maximális mélység: 4 m", "Kialakulás ideje: júniustól októberig", "Fontos madárfajok: gémek, gólyák, kacsák", "Éves halfogás: 30 tonna", "Vízminőség: magas üledéktartalom"],
+      ro: ["Întindere maximă: 20 km²", "Adâncime maximă: 4 m", "Perioadă de formare: iunie-octombrie", "Specii importante de păsări: stârci, berze, rațe", "Captură anuală de pește: 30 tone", "Calitatea apei: conținut ridicat de sedimente"],
+      en: ["Maximum extent: 20 km²", "Maximum depth: 4 m", "Formation period: June to October", "Important bird species: herons, storks, ducks", "Annual fish catch: 30 tons", "Water quality: high sediment content"],
+    },
+  },
   {
     id: "foret-sissili-nature-v2",
     type: "forest",
     parent: "BF-11",
     coords: [-2.2, 11.2],
-    name: { de: "Sissili-Wald", hu: "Sissili-erdő", ro: "Pădurea Sissili", en: "Sissili Forest",
-image: "/poi-images/foret-sissili-nature-v2.webp"
-},
+    name: { de: "Sissili-Wald", hu: "Sissili-erdő", ro: "Pădurea Sissili", en: "Sissili Forest"},
+    image: "/poi-images/foret-sissili-nature-v2.webp",
     description: { de: "Der Wald von Sissili ist ein Naturraum mit dichterer Vegetation als die umliegende Savanne. Er bietet Schutz für Pflanzen, Vögel und kleinere Wildtiere.", hu: "A Sissili-erdő a középső-délies zóna természetes növényzetének része. A helyi erdős foltok a talaj és a víz megőrzését is segítik.", ro: "Pădurea Sissili este o zonă naturală din sudul Burkinei Faso. Ea susține peisajul de savană și diversitatea biologică locală.", en: "Foret Sissili is a wooded area in south-central Burkina Faso. It reflects the more wooded Sudanian zone before the landscape becomes drier to the north." },
     facts: {
       de: ["Dichterer Wald", "Schutzraum für Tiere", "Mehr Vegetation als Savanne"],
       hu: ["Középső térségi erdő", "Talajvédelmi szerep", "Vízmegőrzéshez is hozzájárul"],
       ro: ["zonă naturală", "în sudul țării", "diversitate biologică"],
       en: ["South-central forest", "Sudanian zone", "Wooded landscape"]
-    }, image: "/poi-images/foret-sissili-nature-v2.webp"},
+    }, image: "/poi-images/foret-sissili-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sissili-Wald ist ein geschütztes Waldgebiet im Südwesten Burkina Fasos in der Region Sud-Ouest. Er bedeckt eine Fläche von etwa 80 km² und besteht aus trockenen Wäldern mit Shea-Bäumen und Baobabs. Der Wald ist ein wichtiger Lebensraum für Affen, Warzenschweine und viele Vogelarten. Er liegt im Einzugsgebiet des Mouhoun-Flusses. Die lokale Bevölkerung sammelt Shea-Nüsse und Gummi arabicum. Der Wald wird durch Überweidung und Holzkohleproduktion bedroht.",
+      hu: "A Sissili-erdő egy védett erdőterület Burkina Faso délnyugati részén, a Sud-Ouest régióban. Területe körülbelül 80 km², és shea-fákból, valamint baobabfákból álló száraz erdők alkotják. Az erdő fontos élőhelye a majmoknak, varacskosdisznóknak és számos madárfajnak. A Mouhoun folyó vízgyűjtő területén fekszik. A helyi lakosság shea-diót és gumiarábikumot gyűjt. Az erdőt veszélyezteti a túllegeltetés és a faszéntermelés.",
+      ro: "Pădurea Sissili este o arie forestieră protejată din sud-vestul Burkina Faso, în regiunea Sud-Ouest. Acoperă o suprafață de aproximativ 80 km² și constă în păduri uscate cu arbori de shea și baobabi. Pădurea este un habitat important pentru maimuțe, porci mistreți și multe specii de păsări. Se află în bazinul hidrografic al râului Mouhoun. Populația locală culege nuci de shea și gumă arabică. Pădurea este amenințată de pășunatul excesiv și producția de cărbune.",
+      en: "The Sissili Forest is a protected forest area in southwestern Burkina Faso in the Sud-Ouest region. It covers about 80 km² and consists of dry forests with shea trees and baobabs. The forest is an important habitat for monkeys, warthogs, and many bird species. It lies in the Mouhoun River catchment. Local people collect shea nuts and gum arabic. The forest is threatened by overgrazing and charcoal production.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 80 km²", "Höhenlage: 200-350 m", "Jährlicher Niederschlag: 900 mm", "Baumarten: Shea-Baum, Baobab, Tamarinde", "Tierarten: Grüne Meerkatze, Pinselohrschwein, Turakos", "Schutzstatus: Forstreservat seit 1965"],
+      hu: ["Terület: kb. 80 km²", "Magasság: 200-350 m", "Éves csapadék: 900 mm", "Fafajok: shea-fa, baobab, tamarindusz", "Állatfajok: zöld cerkófmajom, bozontos fülű disznó, turákók", "Védettségi státusz: erdőrezervátum 1965 óta"],
+      ro: ["Suprafață: circa 80 km²", "Altitudine: 200-350 m", "Precipitații anuale: 900 mm", "Specii de arbori: shea, baobab, tamarind", "Specii de animale: maimuță verde, porc mistreț cu smocuri, turaci", "Statut de protecție: rezervație forestieră din 1965"],
+      en: ["Area: about 80 km²", "Elevation: 200-350 m", "Annual rainfall: 900 mm", "Tree species: shea, baobab, tamarind", "Animal species: green monkey, warthog, turacos", "Protection status: forest reserve since 1965"],
+    },
+  },
   {
     id: "monts-gorom-nature-v2",
     type: "mountain",
     parent: "BF-12",
     coords: [-0.3, 14.4],
-    name: { de: "Gorom-Hügel", hu: "Gorom-dombság", ro: "Dealurile Gorom", en: "Gorom Hills",
-image: "/poi-images/monts-gorom-nature-v2.webp"
-},
+    name: { de: "Gorom-Hügel", hu: "Gorom-dombság", ro: "Dealurile Gorom", en: "Gorom Hills"},
+    image: "/poi-images/monts-gorom-nature-v2.webp",
     description: { de: "Die Monts Gorom sind ein hügeliger Naturraum im Norden des Landes. Sie prägen die trockene Sahel-Landschaft mit kleinen Erhebungen.", hu: "A Gorom-hegység kisebb magaslati tájként jelenik meg a száraz északi vidékeken. A domborzat a sivatagosabb környezetet tagolja.", ro: "Munții Gorom aduc relief într-o regiune altfel dominată de câmpii și savană. Ei fac parte din reperele naturale ale zonei nordice.", en: "Monts Gorom are a small mountain area near Gorom-Gorom in the far north. They stand out in a region better known for flat Sahel plains." },
     facts: {
       de: ["Hügel im Norden", "Sahel-Landschaft", "Karge Umgebung"],
       hu: ["Északi magaslatok", "Sivatagosabb környezetben", "Tagolja a tájat"],
       ro: ["formă de relief", "în nordul țării", "repere naturale"],
       en: ["Far-north hills", "Near Gorom-Gorom", "Sahel landscape"]
-    }, image: "/poi-images/monts-gorom-nature-v2.webp"},
+    }, image: "/poi-images/monts-gorom-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Gorom-Hügel liegen im Norden Burkina Fasos in der Region Sahel, nahe der Grenze zu Mali. Sie sind Teil der Dünenlandschaft des Gourma. Die Hügel erreichen Höhen von bis zu 350 Metern und bestehen aus Sand und Sandstein. Die Vegetation ist spärlich, mit Akazien und Gräsern. Die Region ist extrem trocken, mit weniger als 400 mm Niederschlag pro Jahr. Die Hügel sind ein wichtiges Weidegebiet für Kamele und Ziegen. In den Hügeln gibt es flache Senken, in denen sich Regenwasser sammelt.",
+      hu: "A Gorom-dombság Burkina Faso északi részén, a Száhel régióban, Mali határához közel található. A Gourma dűnévidékének része. A dombok magassága elérheti a 350 métert, és homokból, valamint homokkőből állnak. A növényzet ritka, akáciafákkal és füvekkel. A régió rendkívül száraz, éves csapadékmennyisége kevesebb mint 400 mm. A dombok fontos legelőterületet biztosítanak a tevék és kecskék számára. A dombokban sekély mélyedések találhatók, ahol összegyűlik az esővíz.",
+      ro: "Dealurile Gorom sunt situate în nordul Burkina Faso, în regiunea Sahel, aproape de granița cu Mali. Fac parte din peisajul de dune al Gourma. Dealurile ating altitudini de până la 350 de metri și sunt compuse din nisip și gresie. Vegetația este rară, cu salcâmi și ierburi. Regiunea este extrem de uscată, cu mai puțin de 400 mm precipitații pe an. Dealurile constituie o importantă zonă de pășunat pentru cămile și capre. În dealuri există depresiuni puțin adânci în care se adună apa ploilor.",
+      en: "The Gorom Hills are located in northern Burkina Faso in the Sahel region, near the border with Mali. They are part of the Gourma dune landscape. The hills reach heights up to 350 meters and consist of sand and sandstone. Vegetation is sparse, with acacias and grasses. The region is extremely dry, with less than 400 mm rainfall per year. The hills provide important grazing land for camels and goats. Shallow depressions in the hills collect rainwater.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: 348 m", "Jährliche Niederschlagsmenge: 350 mm", "Bevölkerungsdichte: weniger als 2 Einwohner pro km²", "Hauptlebensgrundlage: nomadische Viehzucht", "Tierarten: Kamele, Ziegen, Schafe", "Vegetationstyp: Dornbuschsavanne"],
+      hu: ["Legmagasabb pont: 348 m", "Éves csapadék: 350 mm", "Népsűrűség: kevesebb mint 2 fő/km²", "Fő megélhetési forrás: nomád állattartás", "Állatfajok: tevék, kecskék, juhok", "Növényzettípus: tövises bozótszavanna"],
+      ro: ["Altitudine maximă: 348 m", "Precipitații anuale: 350 mm", "Densitatea populației: mai puțin de 2 locuitori/km²", "Principalul mod de trai: păstorit nomad", "Specii de animale: cămile, capre, oi", "Tip de vegetație: savană cu tufișuri spinoase"],
+      en: ["Highest point: 348 m", "Annual rainfall: 350 mm", "Population density: less than 2 inhabitants per km²", "Main livelihood: nomadic pastoralism", "Animal species: camels, goats, sheep", "Vegetation type: thorn bush savanna"],
+    },
+  },
   {
     id: "mare-de-arbinda-nature-v2",
     type: "lake",
     parent: "BF-12",
     coords: [-0.9, 14.5],
-    name: { de: "Arbinda-See", hu: "Arbinda-tó", ro: "Lacul Arbinda", en: "Arbinda Lake",
-image: "/poi-images/mare-de-arbinda-nature-v2.webp"
-},
+    name: { de: "Arbinda-See", hu: "Arbinda-tó", ro: "Lacul Arbinda", en: "Arbinda Lake"},
+    image: "/poi-images/mare-de-arbinda-nature-v2.webp",
     description: { de: "Die Mare de Arbinda ist eine Wasserstelle in der nördlichen Sahelzone. In einer trockenen Region ist sie für Menschen, Tiere und den Alltag besonders wichtig.", hu: "Az Arbinda-mocsár vízhez kötődő élőhely a Száhel peremén. A helyiek számára az időszakos vízgyűjtés és a természet szempontjából is fontos.", ro: "Zona umedă de la Arbinda este legată de apă și de resursele naturale din nord. Ea contează pentru faună, vegetație și folosirea locală a terenului.", en: "Mare de Arbinda is a seasonal wetland in the northern Sahel zone. It is a valuable water point for people and livestock." },
     facts: {
       de: ["Wasserstelle im Norden", "In der Sahelzone", "Wichtig in der Trockenzeit"],
       hu: ["Saheli vizes élőhely", "Időszakos vízgyűjtő", "Helyi ökológiai tartalék"],
       ro: ["zonă umedă", "în nord", "resursă naturală"],
       en: ["Northern wetland", "Livestock water point", "Sahel setting"]
-    }, image: "/poi-images/mare-de-arbinda-nature-v2.webp"},
+    }, image: "/poi-images/mare-de-arbinda-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Arbinda-See ist ein künstlicher Stausee im Norden Burkina Fasos in der Region Sahel. Er wurde in den 1980er Jahren zur Wasserversorgung der Stadt Arbinda und zur Bewässerung angelegt. Der See hat eine Fläche von etwa 5 km² und eine maximale Tiefe von 6 Metern. Er wird vom Arbinda-Fluss gespeist, der nur saisonal Wasser führt. Der See ist ein wichtiger Lebensraum für Wasservögel und Reptilien. Die Ufer sind stark von Erosion betroffen. Der See dient auch der Fischerei, die jedoch rückläufig ist.",
+      hu: "Az Arbinda-tó egy mesterséges tározó Burkina Faso északi részén, a Száhel régióban. Az 1980-as években hozták létre Arbinda város vízellátására és öntözésre. A tó területe körülbelül 5 km², maximális mélysége 6 méter. Vízellátását az Arbinda-folyó biztosítja, amely csak időszakos vízfolyás. A tó fontos élőhelye a vízimadaraknak és hüllőknek. A partokat erősen érinti az erózió. A tó halászati célokat is szolgál, de a fogás csökkenő tendenciát mutat.",
+      ro: "Lacul Arbinda este un lac artificial situat în nordul Burkina Faso, în regiunea Sahel. A fost construit în anii 1980 pentru alimentarea cu apă a orașului Arbinda și pentru irigații. Lacul are o suprafață de aproximativ 5 km² și o adâncime maximă de 6 metri. Este alimentat de râul Arbinda, care are un debit sezonier. Lacul este un habitat important pentru păsările acvatice și reptile. Malurile sunt puternic afectate de eroziune. Lacul este folosit și pentru pescuit, însă capturile sunt în scădere.",
+      en: "Lake Arbinda is an artificial reservoir in northern Burkina Faso in the Sahel region. It was built in the 1980s to supply water to the town of Arbinda and for irrigation. The lake covers about 5 km² and has a maximum depth of 6 meters. It is fed by the Arbinda River, which is seasonal. The lake is an important habitat for waterbirds and reptiles. The shores are heavily affected by erosion. The lake also supports fishing, though catches are declining.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 5 km²", "Maximale Tiefe: 6 m", "Stauvolumen: 10 Millionen m³", "Baujahr: 1985", "Wichtige Vogelarten: Flamingos, Pelikane", "Fischproduktion: 10 Tonnen pro Jahr"],
+      hu: ["Terület: kb. 5 km²", "Maximális mélység: 6 m", "Tározótérfogat: 10 millió m³", "Építés éve: 1985", "Fontos madárfajok: flamingók, pelikánok", "Halfogás: évi 10 tonna"],
+      ro: ["Suprafață: circa 5 km²", "Adâncime maximă: 6 m", "Volum de acumulare: 10 milioane m³", "Anul construcției: 1985", "Specii importante de păsări: flamingo, pelicani", "Producție piscicolă: 10 tone pe an"],
+      en: ["Area: about 5 km²", "Maximum depth: 6 m", "Storage volume: 10 million m³", "Year built: 1985", "Important bird species: flamingos, pelicans", "Fish production: 10 tons per year"],
+    },
+  },
   {
     id: "foret-pama-nature-v2",
     type: "forest",
     parent: "BF-09",
     coords: [1.6, 11.4],
-    name: { de: "Pama-Wald", hu: "Pama-erdő", ro: "Pădurea Pama", en: "Pama Forest",
-image: "/poi-images/foret-pama-nature-v2.webp"
-},
+    name: { de: "Pama-Wald", hu: "Pama-erdő", ro: "Pădurea Pama", en: "Pama Forest"},
+    image: "/poi-images/foret-pama-nature-v2.webp",
     description: { de: "Der Wald von Pama liegt im Südosten Burkina Fasos und ergänzt dort die offenen Savannenräume. Er ist ein wichtiger Naturraum für Pflanzen und Tiere.", hu: "A Pama-erdő a keleti országrész természetes vegetációjának egyik darabja. A védett környezet a nagyobb vadonrészekhez is kapcsolódik.", ro: "Pădurea Pama este o zonă naturală din estul Burkinei Faso. Ea contribuie la biodiversitatea unei regiuni cu savane și spații deschise.", en: "Foret Pama is part of the wooded landscape in southeastern Burkina Faso. It sits in one of the country’s better known conservation zones." },
     facts: {
       de: ["Wald im Südosten", "Teil der Savannenlandschaft", "Schutzraum für Tiere"],
       hu: ["Keleti erdőterület", "Védett természet", "Vadonhoz kapcsolódik"],
       ro: ["zonă naturală", "în estul țării", "biodiversitate locală"],
       en: ["Southeastern woodland", "Conservation area", "Tree cover"]
-    }, image: "/poi-images/foret-pama-nature-v2.webp"},
+    }, image: "/poi-images/foret-pama-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Pama-Wald ist ein geschütztes Waldgebiet im Südosten Burkina Fasos in der Region Centre-Est. Er bedeckt eine Fläche von etwa 120 km² und besteht aus Trockenwäldern und Savannen. Der Wald ist ein wichtiger Lebensraum für Büffel, Antilopen und Paviane. Er liegt im Einzugsgebiet des Pendjari-Flusses. Die lokale Bevölkerung betreibt Jagd und sammelt Waldprodukte. Der Wald wird durch Wilderei und landwirtschaftliche Nutzung bedroht. Er ist als Forstreservat ausgewiesen und wird von der Forstverwaltung überwacht.",
+      hu: "A Pama-erdő egy védett erdőterület Burkina Faso délkeleti részén, a Centre-Est régióban. Területe körülbelül 120 km², és száraz erdőkből, valamint szavannákból áll. Az erdő fontos élőhelye a bivalyoknak, antilopoknak és páviánoknak. A Pendjari folyó vízgyűjtő területén fekszik. A helyi lakosság vadászik és erdei termékeket gyűjt. Az erdőt veszélyezteti az orvvadászat és a mezőgazdasági hasznosítás. Erdőrezervátumnak nyilvánították, és az erdészeti hivatal felügyeli.",
+      ro: "Pădurea Pama este o arie forestieră protejată din sud-estul Burkina Faso, în regiunea Centre-Est. Acoperă o suprafață de aproximativ 120 km² și constă în păduri uscate și savane. Pădurea este un habitat important pentru bivoli, antilope și babuini. Se află în bazinul hidrografic al râului Pendjari. Populația locală practică vânătoarea și culege produse forestiere. Pădurea este amenințată de braconaj și de utilizarea agricolă. Este desemnată ca rezervație forestieră și este monitorizată de administrația silvică.",
+      en: "The Pama Forest is a protected forest area in southeastern Burkina Faso in the Centre-Est region. It covers about 120 km² and consists of dry forests and savannas. The forest is an important habitat for buffalo, antelopes, and baboons. It lies in the Pendjari River catchment. Local people hunt and collect forest products. The forest is threatened by poaching and agricultural use. It is designated as a forest reserve and monitored by the forestry administration.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 120 km²", "Höhenlage: 200-300 m", "Jährlicher Niederschlag: 800 mm", "Baumarten: Afzelia, Khaya, Isoberlinia", "Tierarten: Kuhantilope, Wasserbock, Warzenschwein", "Schutzstatus: Forstreservat seit 1950"],
+      hu: ["Terület: kb. 120 km²", "Magasság: 200-300 m", "Éves csapadék: 800 mm", "Fafajok: Afzelia, Khaya, Isoberlinia", "Állatfajok: tehénantilop, víziantilop, varacskosdisznó", "Védettségi státusz: erdőrezervátum 1950 óta"],
+      ro: ["Suprafață: circa 120 km²", "Altitudine: 200-300 m", "Precipitații anuale: 800 mm", "Specii de arbori: Afzelia, Khaya, Isoberlinia", "Specii de animale: antilopă de stepă, antilopă de apă, porc mistreț", "Statut de protecție: rezervație forestieră din 1950"],
+      en: ["Area: about 120 km²", "Elevation: 200-300 m", "Annual rainfall: 800 mm", "Tree species: Afzelia, Khaya, Isoberlinia", "Animal species: hartebeest, waterbuck, warthog", "Protection status: forest reserve since 1950"],
+    },
+  },
   {
     id: "monts-banfora-nature-v2",
     type: "mountain",
     parent: "BF-04",
     coords: [-4.7, 10.6],
-    name: { de: "Banfora-Felsen", hu: "Banfora-sziklák", ro: "Stâncile Banfora", en: "Banfora Cliffs",
-image: "/poi-images/monts-banfora-nature-v2.webp"
-},
+    name: { de: "Banfora-Felsen", hu: "Banfora-sziklák", ro: "Stâncile Banfora", en: "Banfora Cliffs"},
+    image: "/poi-images/monts-banfora-nature-v2.webp",
     description: { de: "Die Monts Banfora prägen die grüne Landschaft rund um Banfora im Südwesten des Landes. Die Fels- und Hügelformen gehören zu den bekanntesten Naturkulissen der Region.", hu: "A Banfora-hegység látványos domb- és sziklaformáival ismert táj Burkina Faso délnyugati részén. A kőzetformák a régió egyik legfelismerhetőbb elemei.", ro: "Munții Banfora sunt unul dintre cele mai cunoscute elemente de relief din sud-vestul țării. Ei dau un caracter aparte peisajului din jurul Banforei.", en: "Monts Banfora are the scenic hills and escarpments around Banfora. They are one of the country’s most recognizable relief features." },
     facts: {
       de: ["Bei Banfora", "Felsige Hügel", "Bekannte Naturkulisse"],
       hu: ["Délnyugati tájforma", "Sziklás-hegyvidék", "Ismert látképi elem"],
       ro: ["formă de relief", "în sud-vest", "peisaj cunoscut"],
       en: ["Around Banfora", "Scenic escarpments", "Well-known relief feature"]
-    }, image: "/poi-images/monts-banfora-nature-v2.webp"},
+    }, image: "/poi-images/monts-banfora-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Banfora-Klippen sind eine beeindruckende Felsformation im Südwesten Burkina Fasos in der Region Cascades. Sie bestehen aus Sandstein und erreichen Höhen von bis zu 600 Metern. Die Klippen sind Teil des Banfora-Massivs und bieten spektakuläre Ausblicke auf die umliegende Savanne. In der Nähe befinden sich die Banfora-Wasserfälle, die eine wichtige Touristenattraktion darstellen. Die Region ist landwirtschaftlich geprägt mit Anbau von Zuckerrohr und Mais. Die Klippen sind ein wichtiges Wassereinzugsgebiet und Lebensraum für Klippspringer und Paviane.",
+      hu: "A Banfora-sziklák lenyűgöző sziklaformációk Burkina Faso délnyugati részén, a Cascades régióban. Homokkőből állnak, és magasságuk elérheti a 600 métert. A sziklák a Banfora-masszívum részét képezik, és látványos kilátást nyújtanak a környező szavannára. A közelben találhatók a Banfora-vízesések, amelyek fontos turisztikai attrakciók. A régió mezőgazdasági jellegű, főként cukornád és kukorica termesztése folyik. A sziklák fontos vízgyűjtő területek és élőhelyet biztosítanak a sziklazergének és páviánok számára.",
+      ro: "Stâncile Banfora sunt o formațiune impresionantă de stânci din sud-vestul Burkina Faso, în regiunea Cascades. Sunt compuse din gresie și ating înălțimi de până la 600 de metri. Stâncile fac parte din masivul Banfora și oferă priveliști spectaculoase asupra savanei înconjurătoare. În apropiere se află cascadele Banfora, o atracție turistică importantă. Regiunea este predominant agricolă, cu culturi de trestie de zahăr și porumb. Stâncile constituie un important bazin hidrografic și habitat pentru antilope și babuini.",
+      en: "The Banfora Cliffs are an impressive rock formation in southwestern Burkina Faso in the Cascades region. They consist of sandstone and reach heights up to 600 meters. The cliffs are part of the Banfora Massif and offer spectacular views of the surrounding savanna. Nearby are the Banfora Waterfalls, a major tourist attraction. The region is agricultural, with sugarcane and maize cultivation. The cliffs are an important watershed and habitat for klipspringer and baboons.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Klippe: 598 m", "Gesteinsart: Sandstein", "Entstehungszeit: Präkambrium", "Jährliche Niederschlagsmenge: 1.200 mm", "Wichtige Wasserfälle: Banfora-Fälle, Höhe 30 m", "Touristenbesuche: ca. 50.000 pro Jahr"],
+      hu: ["Legmagasabb szikla: 598 m", "Kőzettípus: homokkő", "Kialakulás ideje: prekambrium", "Éves csapadék: 1.200 mm", "Fontos vízesések: Banfora-vízesés, magasság 30 m", "Turisták száma: kb. 50.000 évente"],
+      ro: ["Stâncă cea mai înaltă: 598 m", "Tip de rocă: gresie", "Perioada de formare: Precambrian", "Precipitații anuale: 1.200 mm", "Cascade principale: Cascadele Banfora, înălțime 30 m", "Vizite turistice: circa 50.000 pe an"],
+      en: ["Highest cliff: 598 m", "Rock type: sandstone", "Formation period: Precambrian", "Annual rainfall: 1,200 mm", "Main waterfalls: Banfora Falls, height 30 m", "Tourist visits: about 50,000 per year"],
+    },
+  },
   {
     id: "fleuve-sirba-nature-v2",
     type: "river",
     parent: "BF-08",
     coords: [1.2, 13.5],
-    name: { de: "Sirba-Fluss", hu: "Sirba folyó", ro: "Râul Sirba", en: "Sirba River",
-image: "/poi-images/fleuve-sirba-nature-v2.webp"
-},
+    name: { de: "Sirba-Fluss", hu: "Sirba folyó", ro: "Râul Sirba", en: "Sirba River"},
+    image: "/poi-images/fleuve-sirba-nature-v2.webp",
     description: { de: "Die Sirba ist ein Fluss im Osten Burkina Fasos und Teil des regionalen Wassersystems. Er ist für Felder, Vieh und lokale Lebensräume von Bedeutung.", hu: "A Sirba folyó a keleti vízhálózat egyik fontos eleme. A folyóparti területek a mezőgazdaság és a természetes élőhelyek számára is jelentősek.", ro: "Râul Sirba este un curs de apă important pentru zonele nord-estice ale Burkinei Faso. El are rol ecologic și sprijină viața locală.", en: "Fleuve Sirba is a river in eastern Burkina Faso. It contributes to drainage and seasonal water movement across the savanna belt." },
     facts: {
       de: ["Fluss im Osten", "Teil des Wassersystems", "Wichtig für Landwirtschaft"],
       hu: ["Keleti folyó", "Part menti zóna", "Mezőgazdasághoz is kötődik"],
       ro: ["curs de apă", "în nord-est", "rol ecologic"],
       en: ["Eastern river", "Seasonal drainage", "Savanna water system"]
-    }, image: "/poi-images/fleuve-sirba-nature-v2.webp"},
+    }, image: "/poi-images/fleuve-sirba-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sirba-Fluss ist ein Nebenfluss des Volta-Flusses im Südwesten Burkina Fasos. Er entspringt in der Region Cascades und fließt in südwestlicher Richtung. Der Fluss ist etwa 250 km lang und hat ein Einzugsgebiet von 10.000 km². Er führt saisonal Wasser, mit Hochwasser von Juli bis September. Der Sirba wird für Bewässerung und als Trinkwasserquelle genutzt. Die Ufer sind landwirtschaftlich intensiv genutzt, vor allem für Mais und Baumwolle. Der Fluss ist Lebensraum für Nilpferde und Krokodile.",
+      hu: "A Sirba-folyó a Volta folyó mellékfolyója Burkina Faso délnyugati részén. A Cascades régióban ered, és délnyugati irányba folyik. Hossza körülbelül 250 km, vízgyűjtő területe 10.000 km². Időszakos vízfolyás, júniustól szeptemberig van áradás. A Sirbát öntözésre és ivóvízforrásként használják. A partok mezőgazdasági szempontból intenzíven hasznosítottak, főként kukorica és gyapot termesztése folyik. A folyó élőhelye a vízilovaknak és krokodiloknak.",
+      ro: "Râul Sirba este un afluent al fluviului Volta din sud-vestul Burkina Faso. Izvorăște în regiunea Cascades și curge în direcția sud-vest. Râul are o lungime de aproximativ 250 km și un bazin hidrografic de 10.000 km². Are un debit sezonier, cu viituri din iulie până în septembrie. Sirba este folosit pentru irigații și ca sursă de apă potabilă. Malurile sunt intens cultivate, în principal cu porumb și bumbac. Râul este habitat pentru hipopotami și crocodili.",
+      en: "The Sirba River is a tributary of the Volta River in southwestern Burkina Faso. It originates in the Cascades region and flows southwest. The river is about 250 km long and has a catchment area of 10,000 km². It has seasonal flow, with floods from July to September. The Sirba is used for irrigation and drinking water. The banks are intensively farmed, mainly for maize and cotton. The river is habitat for hippos and crocodiles.",
+    },
+    factsAdvanced: {
+      de: ["Länge: ca. 250 km", "Einzugsgebiet: 10.000 km²", "Mittlere Abflussmenge: 30 m³/s", "Höchststand: Juli-September", "Wichtige Anbauprodukte: Mais, Baumwolle", "Geschätzte Nilpferdpopulation: 50-100"],
+      hu: ["Hossz: kb. 250 km", "Vízgyűjtő terület: 10.000 km²", "Átlagos vízhozam: 30 m³/s", "Legmagasabb vízállás: július-szeptember", "Fontos termények: kukorica, gyapot", "Becsült vízilópopuláció: 50-100"],
+      ro: ["Lungime: circa 250 km", "Bazin hidrografic: 10.000 km²", "Debit mediu: 30 m³/s", "Nivel maxim: iulie-septembrie", "Culturi importante: porumb, bumbac", "Populația estimată de hipopotami: 50-100"],
+      en: ["Length: about 250 km", "Catchment area: 10,000 km²", "Average discharge: 30 m³/s", "Highest flow: July-September", "Main crops: maize, cotton", "Estimated hippo population: 50-100"],
+    },
+  },
   {
     id: "mare-de-dori-nature-v2",
     type: "lake",
     parent: "BF-07",
     coords: [0.0, 14.0],
-    name: { de: "Dori-See", hu: "Dori-tó", ro: "Lacul Dori", en: "Dori Lake",
-image: "/poi-images/mare-de-dori-nature-v2.webp"
-},
+    name: { de: "Dori-See", hu: "Dori-tó", ro: "Lacul Dori", en: "Dori Lake"},
+    image: "/poi-images/mare-de-dori-nature-v2.webp",
     description: { de: "Die Mare de Dori ist eine Wasserstelle in der nördlichen Sahelzone. In einer trockenen Umgebung spielt sie für Menschen und Tiere eine wichtige Rolle.", hu: "A Dori-mocsár vagy tómeder a száraz északi térség egyik fontos vízpontja. A víz jelenléte itt különösen sokat számít az élővilág számára.", ro: "Zona umedă de la Dori este legată de apa disponibilă într-o regiune aridă. Ea contează pentru faună, vegetație și utilizarea terenurilor.", en: "Mare de Dori is a water body in the Sahel town of Dori. It is especially important when rainfall is low and water is limited." },
     facts: {
       de: ["Wasserstelle im Norden", "Sahel-Umgebung", "Wichtig in der Trockenzeit"],
       hu: ["Északi vizes hely", "A száraz térségben fontos", "Élővilágot támogat"],
       ro: ["zonă umedă", "în regiunea Dori", "importantă pentru faună"],
       en: ["In Dori", "Sahel water source", "Important in dry periods"]
-    }, image: "/poi-images/mare-de-dori-nature-v2.webp"},
+    }, image: "/poi-images/mare-de-dori-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Dori-See ist ein saisonaler See im Norden Burkina Fasos in der Region Sahel, nahe der Stadt Dori. Er entsteht während der Regenzeit und hat eine maximale Ausdehnung von etwa 12 km². Der See ist ein wichtiges Feuchtgebiet für Vögel und dient der lokalen Bevölkerung als Wasserquelle für Vieh und Haushalt. Die Ufer sind von Dünen und Savanne umgeben. In der Trockenzeit trocknet der See aus und hinterlässt Salzkrusten. Der See ist auch für die Gewinnung von Natron bekannt.",
+      hu: "A Dori-tó egy időszakos tó Burkina Faso északi részén, a Száhel régióban, Dori városához közel. Az esős évszakban alakul ki, maximális kiterjedése körülbelül 12 km². A tó fontos vizes élőhely a madarak számára, és a helyi lakosság vízforrásként használja az állatok itatására és háztartási célokra. A partokat dűnék és szavanna veszik körül. A száraz évszakban a tó kiszárad, és sókérgek maradnak vissza. A tó a szóda kitermeléséről is ismert.",
+      ro: "Lacul Dori este un lac sezonier situat în nordul Burkina Faso, în regiunea Sahel, lângă orașul Dori. Se formează în sezonul ploios și are o întindere maximă de aproximativ 12 km². Lacul este o zonă umedă importantă pentru păsări și servește ca sursă de apă pentru animale și uz casnic pentru populația locală. Malurile sunt înconjurate de dune și savană. În sezonul uscat, lacul seacă, lăsând cruste de sare. Lacul este cunoscut și pentru extragerea de natron.",
+      en: "Lake Dori is a seasonal lake in northern Burkina Faso in the Sahel region, near the town of Dori. It forms during the rainy season and has a maximum extent of about 12 km². The lake is an important wetland for birds and provides water for livestock and domestic use for local people. The shores are surrounded by dunes and savanna. In the dry season, the lake dries up, leaving salt crusts. The lake is also known for natron extraction.",
+    },
+    factsAdvanced: {
+      de: ["Maximale Ausdehnung: 12 km²", "Maximale Tiefe: 2 m", "Jährliche Niederschlagsmenge: 400 mm", "Salzgehalt: hoch, bis zu 50 g/l", "Wichtige Vogelarten: Flamingos, Seeschwalben", "Nutzung: Viehtränke, Salzgewinnung"],
+      hu: ["Maximális kiterjedés: 12 km²", "Maximális mélység: 2 m", "Éves csapadék: 400 mm", "Sótartalom: magas, akár 50 g/l", "Fontos madárfajok: flamingók, csérek", "Hasznosítás: állatok itatása, sókitermelés"],
+      ro: ["Întindere maximă: 12 km²", "Adâncime maximă: 2 m", "Precipitații anuale: 400 mm", "Salinitate: ridicată, până la 50 g/l", "Specii importante de păsări: flamingo, pescăruși", "Utilizare: adăpatul vitelor, extragerea sării"],
+      en: ["Maximum extent: 12 km²", "Maximum depth: 2 m", "Annual rainfall: 400 mm", "Salinity: high, up to 50 g/l", "Important bird species: flamingos, terns", "Uses: livestock watering, salt extraction"],
+    },
+  },
   {
     id: "foret-arbinda-nature-v2",
     type: "forest",
     parent: "BF-12",
     coords: [-0.9, 14.6],
-    name: { de: "Arbinda-Wald", hu: "Arbinda-erdő", ro: "Pădurea Arbinda", en: "Arbinda Forest",
-image: "/poi-images/foret-arbinda-nature-v2.webp"
-},
+    name: { de: "Arbinda-Wald", hu: "Arbinda-erdő", ro: "Pădurea Arbinda", en: "Arbinda Forest"},
+    image: "/poi-images/foret-arbinda-nature-v2.webp",
     description: { de: "Die Waldzone von Arbinda gehört zu den seltenen grüneren Räumen im nördlichen Burkina Faso. Sie bietet Schutz und etwas kühlere Bedingungen als die Umgebung.", hu: "Az Arbinda-erdő a Sahel peremének ritkább zöldfoltjai közé tartozik. A növényzet menedéket ad a környék természetes élővilágának.", ro: "Pădurea Arbinda este o zonă naturală din nordul țării, unde vegetația joacă un rol esențial. Ea aparține peisajului sahelian al regiunii.", en: "Foret Arbinda is a forested area in the far north of Burkina Faso. It provides rare tree cover in a dry Sahel environment." },
     facts: {
       de: ["Wald im Norden", "Seltene Vegetation", "Schutzraum mit Schatten"],
       hu: ["Saheli erdőfolt", "Ritkább zöld terület", "Menedék a faunának"],
       ro: ["zonă naturală", "în nord", "peisaj sahelian"],
       en: ["Far-north forest", "Rare tree cover", "Dry Sahel zone"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Arbinda-Wald ist ein geschütztes Waldgebiet im Norden Burkina Fasos in der Region Sahel. Er bedeckt eine Fläche von etwa 200 km² und besteht aus Dornbuschsavanne und Trockenwäldern. Der Wald ist ein wichtiger Lebensraum für Gazellen, Strauße und Hyänen. Er liegt in einer trockenen Region mit weniger als 500 mm Niederschlag pro Jahr. Die lokale Bevölkerung nutzt den Wald für Viehweide und Sammlung von Brennholz. Der Wald ist durch Überweidung und Dürren gefährdet.",
+      hu: "Az Arbinda-erdő egy védett erdőterület Burkina Faso északi részén, a Száhel régióban. Területe körülbelül 200 km², és tövises bozótszavannából, valamint száraz erdőkből áll. Az erdő fontos élőhelye a gazelláknak, struccoknak és hiénáknak. Száraz régióban fekszik, éves csapadékmennyisége kevesebb mint 500 mm. A helyi lakosság legeltetésre és tűzifa gyűjtésére használja az erdőt. Az erdőt veszélyezteti a túllegeltetés és az aszályok.",
+      ro: "Pădurea Arbinda este o arie forestieră protejată din nordul Burkina Faso, în regiunea Sahel. Acoperă o suprafață de aproximativ 200 km² și constă în savană spinoasă și păduri uscate. Pădurea este un habitat important pentru gazele, struți și hiene. Se află într-o regiune uscată, cu mai puțin de 500 mm precipitații pe an. Populația locală folosește pădurea pentru pășunatul vitelor și culegerea lemnului de foc. Pădurea este amenințată de pășunatul excesiv și de secete.",
+      en: "The Arbinda Forest is a protected forest area in northern Burkina Faso in the Sahel region. It covers about 200 km² and consists of thorn bush savanna and dry forests. The forest is an important habitat for gazelles, ostriches, and hyenas. It lies in a dry region with less than 500 mm rainfall per year. Local people use the forest for livestock grazing and firewood collection. The forest is threatened by overgrazing and droughts.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 200 km²", "Höhenlage: 250-350 m", "Jährlicher Niederschlag: 450 mm", "Baumarten: Akazien, Balaniten", "Tierarten: Dorkasgazelle, Strauß, Tüpfelhyäne", "Schutzstatus: Forstreservat seit 1970"],
+      hu: ["Terület: kb. 200 km²", "Magasság: 250-350 m", "Éves csapadék: 450 mm", "Fafajok: akácia, balanita", "Állatfajok: dorkász gazella, strucc, foltos hiéna", "Védettségi státusz: erdőrezervátum 1970 óta"],
+      ro: ["Suprafață: circa 200 km²", "Altitudine: 250-350 m", "Precipitații anuale: 450 mm", "Specii de arbori: salcâmi, balaniți", "Specii de animale: gazelă dorcas, struț, hienă pătată", "Statut de protecție: rezervație forestieră din 1970"],
+      en: ["Area: about 200 km²", "Elevation: 250-350 m", "Annual rainfall: 450 mm", "Tree species: acacias, balanites", "Animal species: dorcas gazelle, ostrich, spotted hyena", "Protection status: forest reserve since 1970"],
+    },
   }
 ];
 

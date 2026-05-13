@@ -6,304 +6,539 @@ export const poiExtraJordanEconomicV2: POI[] = [
     type: "port",
     parent: "JO-AQ",
     coords: [34.9983, 29.4739],
-    name: { de: "Containerterminal Akaba", hu: "Akabai Konténerterminál", ro: "Terminalul de Containere Aqaba", en: "Aqaba Container Terminal",
-image: "/poi-images/aqaba-container-terminal-economic-v2.webp"
-},
+    name: { de: "Containerterminal Akaba", hu: "Akabai Konténerterminál", ro: "Terminalul de Containere Aqaba", en: "Aqaba Container Terminal"},
+    image: "/poi-images/aqaba-container-terminal-economic-v2.webp",
     description: { de: "Einer der wichtigsten Häfen am Roten Meer, der Jordanien mit dem globalen Handel verbindet.", hu: "A Vörös-tenger egyik legfontosabb kikötője, amely összeköti Jordániát a globális kereskedelemmel.", ro: "Unul dintre cele mai importante porturi la Marea Roșie, conectând Iordania la comerțul global.", en: "One of the most important ports on the Red Sea, connecting Jordan to global trade." },
     facts: {
       de: ["Wichtiger Knotenpunkt für den regionalen Handel.", "Gilt als logistisches Tor zur Levante."],
       hu: ["Fontos kereskedelmi csomópont a régióban.", "A levantei térség logisztikai kapujának számít."],
       ro: ["Hub important pentru comerțul regional.", "Considerat poarta logistică către Levant."],
       en: ["Important hub for regional trade.", "Considered the logistical gateway to the Levant."]
-    }, image: "/poi-images/aqaba-container-terminal-economic-v2.webp"},
+    }, image: "/poi-images/aqaba-container-terminal-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Aqaba Container Terminal in Jordanien ist ein wichtiger Hafen am Roten Meer. Es wurde 2004 eröffnet und hat eine Kapazität von 1,5 Millionen TEU pro Jahr. Das Terminal ist ein Joint Venture zwischen der jordanischen Regierung und der APM Terminals. Es dient als Umschlagplatz für den Irak und andere Nachbarländer. Die Ausstattung umfasst 8 Containerbrücken. Der Hafen trägt erheblich zur jordanischen Wirtschaft bei.",
+      hu: "Az Aqaba konténerterminál Jordánia egyetlen tengeri kikötője, a Vörös-tenger partján. 2004-ben nyitották meg, éves kapacitása 1,5 millió TEU. A terminál a jordán kormány és az APM Terminals közös vállalkozása. Fontos tranzitpont Irak számára. A kikötő 8 darab konténerdarut üzemeltet. A terminál jelentős munkahelyteremtő és devizabevételi forrás.",
+      ro: "Terminalul de containere Aqaba din Iordania este situat pe Marea Roșie. A fost deschis în 2004 și are o capacitate de 1,5 milioane TEU anual. Terminalul este o societate mixtă între guvernul iordanian și APM Terminals. Joacă un rol crucial în comerțul cu Irak. Echipamentul include 8 macarale pentru containere. Contribuie semnificativ la PIB-ul Iordaniei.",
+      en: "The Aqaba Container Terminal is Jordan's main port on the Red Sea. Opened in 2004, it has an annual capacity of 1.5 million TEUs. It is a joint venture between the Jordanian government and APM Terminals. The terminal serves as a key transshipment hub for Iraq. It features 8 ship-to-shore cranes. The terminal is vital for Jordan's economy, handling over 90% of its maritime container trade.",
+    },
+    factsAdvanced: {
+      de: ["Das Terminal wurde 2004 eröffnet.", "Die Kapazität beträgt 1,5 Millionen TEU pro Jahr.", "Es verfügt über 8 Containerbrücken.", "Die Gesamtfläche beträgt 68 Hektar.", "Der Umschlag lag 2022 bei 1,2 Millionen TEU.", "Das Terminal beschäftigt 500 Mitarbeiter."],
+      hu: ["A terminált 2004-ben nyitották meg.", "Éves kapacitása 1,5 millió TEU.", "8 konténerdaruval rendelkezik.", "Teljes területe 68 hektár.", "2022-ben 1,2 millió TEU-t kezelt.", "500 alkalmazottat foglalkoztat."],
+      ro: ["Terminalul a fost deschis în 2004.", "Capacitatea anuală este de 1,5 milioane TEU.", "Are 8 macarale de chei.", "Suprafața totală este de 68 de hectare.", "În 2022 a manipulat 1,2 milioane TEU.", "Angajează 500 de persoane."],
+      en: ["The terminal opened in 2004.", "Annual capacity is 1.5 million TEUs.", "It has 8 ship-to-shore cranes.", "Total area is 68 hectares.", "In 2022 it handled 1.2 million TEUs.", "It employs 500 people."],
+    },
+  },
   {
     id: "arab-potash-company-economic-v2",
     type: "mine",
     parent: "JO-KA",
     coords: [35.5342, 31.0366],
-    name: { de: "Arabische Kali-Gesellschaft", hu: "Arab Kálisó Társaság (APC)", ro: "Compania Arabă de Potasiu", en: "Arab Potash Company",
-image: "/poi-images/arab-potash-company-economic-v2.webp"
-},
+    name: { de: "Arabische Kali-Gesellschaft", hu: "Arab Kálisó Társaság (APC)", ro: "Compania Arabă de Potasiu", en: "Arab Potash Company"},
+    image: "/poi-images/arab-potash-company-economic-v2.webp",
     description: { de: "Ein bedeutendes Bergbauunternehmen am Toten Meer, das Mineralien gewinnt und weltweit exportiert.", hu: "Jelentős bányászati vállalat a Holt-tengernél, amely ásványi anyagokat termel ki és exportál világszerte.", ro: "O companie minieră importantă la Marea Moartă, care extrage minerale și le exportă la nivel mondial.", en: "A major mining company on the Dead Sea that extracts minerals and exports them worldwide." },
     facts: {
       de: ["Gehört zu den größten Produzenten von Kaliumchlorid.", "Nutzt die Verdunstung des Toten Meeres zur Gewinnung."],
       hu: ["A legnagyobb kálium-klorid-gyártók közé tartozik.", "A Holt-tenger párolgását hasznosítja a kitermeléshez."],
       ro: ["Printre cei mai mari producători de clorură de potasiu.", "Folosește evaporarea Mării Moarte pentru extracție."],
       en: ["Among the largest producers of potassium chloride.", "Uses the evaporation of the Dead Sea for extraction."]
-    }, image: "/poi-images/arab-potash-company-economic-v2.webp"},
+    }, image: "/poi-images/arab-potash-company-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Arab Potash Company (APC) in Jordanien wurde 1956 gegründet und produziert Kalidünger aus dem Toten Meer. Das Werk liegt in Safi und nutzt die Solen des Toten Meeres. Die Jahresproduktion beträgt ca. 2,5 Millionen Tonnen Kaliumchlorid. APC ist einer der größten Düngemittelproduzenten der Region. Das Unternehmen beschäftigt über 2.000 Mitarbeiter und exportiert in über 50 Länder.",
+      hu: "Az Arab Potash Company (APC) Jordániában 1956-ban alakult, a Holt-tengerből nyer ki káliumsókat. A gyár Safiban található. Éves termelése 2,5 millió tonna kálium-klorid. Az APC a térség egyik legnagyobb műtrágyagyártója. Több mint 2000 főt foglalkoztat, és 50 országba exportál. A vállalat fontos szerepet játszik a jordán gazdaságban.",
+      ro: "Arab Potash Company (APC) din Iordania a fost fondată în 1956 și produce îngrășăminte cu potasiu din Marea Moartă. Fabrica este situată în Safi. Producția anuală este de aproximativ 2,5 milioane de tone de clorură de potasiu. APC este unul dintre cei mai mari producători de potasiu din regiune, exportând în peste 50 de țări și având peste 2.000 de angajați.",
+      en: "The Arab Potash Company (APC) was established in 1956 to produce potash from the Dead Sea. Its plant in Safi extracts minerals through solar evaporation. Annual production exceeds 2.5 million tons of potassium chloride. APC is a major global supplier, exporting to over 50 countries. It employs around 2,000 workers and is a pillar of Jordan's economy.",
+    },
+    factsAdvanced: {
+      de: ["APC wurde 1956 gegründet.", "Die Jahresproduktion beträgt 2,5 Millionen Tonnen Kaliumchlorid.", "Das Werk liegt in Safi am Toten Meer.", "APC exportiert in über 50 Länder.", "Das Unternehmen beschäftigt 2.000 Mitarbeiter.", "Der Umsatz beträgt jährlich etwa 1 Milliarde US-Dollar."],
+      hu: ["Az APC 1956-ban alakult.", "Éves termelése 2,5 millió tonna kálium-klorid.", "A gyár Safiban található a Holt-tenger partján.", "Az APC 50 országba exportál.", "A vállalat 2000 főt foglalkoztat.", "Éves bevétele körülbelül 1 milliárd USD."],
+      ro: ["APC a fost fondată în 1956.", "Producția anuală este de 2,5 milioane de tone de clorură de potasiu.", "Fabrica este situată în Safi, lângă Marea Moartă.", "APC exportă în peste 50 de țări.", "Compania angajează 2.000 de persoane.", "Venitul anual este de aproximativ 1 miliard USD."],
+      en: ["APC was founded in 1956.", "Annual production is 2.5 million tons of potassium chloride.", "The plant is located in Safi on the Dead Sea.", "APC exports to over 50 countries.", "The company employs 2,000 people.", "Annual revenue is about $1 billion."],
+    },
+  },
   {
     id: "zarqa-petroleum-refinery-economic-v2",
     type: "industry",
     parent: "JO-AZ",
     coords: [36.1245, 32.1158],
-    name: { de: "Erdölraffinerie Zarqa", hu: "Zarkai Olajfinomító", ro: "Rafinăria de Petrol Zarqa", en: "Zarqa Petroleum Refinery",
-image: "/poi-images/zarqa-petroleum-refinery-economic-v2.webp"
-},
+    name: { de: "Erdölraffinerie Zarqa", hu: "Zarkai Olajfinomító", ro: "Rafinăria de Petrol Zarqa", en: "Zarqa Petroleum Refinery"},
+    image: "/poi-images/zarqa-petroleum-refinery-economic-v2.webp",
     description: { de: "Die einzige Erdölraffinerie Jordaniens, die eine strategische Rolle bei der Energieversorgung des Landes spielt.", hu: "Jordánia egyetlen olajfinomítója, amely stratégiai szerepet játszik az ország energiaellátásában.", ro: "Singura rafinărie de petrol din Iordania, jucând un rol strategic în aprovizionarea cu energie a țării.", en: "Jordan's only oil refinery, playing a strategic role in the country's energy supply." },
     facts: {
       de: ["Deckte historisch den Großteil des jordanischen Kraftstoffbedarfs.", "Verarbeitet Rohöl zu Benzin, Diesel und Kerosin."],
       hu: ["Történelmileg a jordán üzemanyagigény nagy részét fedezte.", "Nyersolajat dolgoz fel benzinné, gázolajjá és kerozinná."],
       ro: ["Istoric, a acoperit cea mai mare parte a necesarului iordanian de combustibil.", "Procesează țițeiul în benzină, motorină și kerosen."],
       en: ["Historically covered most of Jordan's fuel needs.", "Processes crude oil into gasoline, diesel, and kerosene."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Zarqa-Raffinerie in Jordanien ist die einzige Erdölraffinerie des Landes und wurde 1980 in Betrieb genommen. Sie hat eine Kapazität von 100.000 Barrel pro Tag. Die Raffinerie verarbeitet Rohöl aus dem Irak und aus anderen Ländern. Sie liegt in der Stadt Zarqa, etwa 20 km nordöstlich von Amman. Die Anlage deckt einen Großteil des jordanischen Bedarfs an Erdölprodukten. Sie beschäftigt etwa 3.000 Mitarbeiter.",
+      hu: "A zarqai olajfinomító Jordánia egyetlen finomítója, 1980-ban kezdte meg működését. Napi kapacitása 100 000 hordó. A finomító iraki és más forrásból származó kőolajat dolgoz fel. Zarqa városában található, Ammantól 20 km-re északkeletre. Kiterjedt termékvezeték-hálózattal rendelkezik. A finomító a jordán kőolajtermék-szükséglet nagy részét kielégíti, és mintegy 3000 alkalmazottat foglalkoztat.",
+      ro: "Rafinăria Zarqa din Iordania este singura rafinărie de petrol a țării, inaugurată în 1980. Are o capacitate de 100.000 de barili pe zi. Procesează țiței din Irak și alte surse. Este situată în orașul Zarqa, la 20 km nord-est de Amman. Rafinăria acoperă majoritatea necesarului intern de produse petroliere și angajează aproximativ 3.000 de persoane.",
+      en: "The Zarqa Petroleum Refinery is Jordan's only oil refinery, commissioned in 1980. It has a capacity of 100,000 barrels per day. The refinery processes crude oil imported via pipeline from Iraq and other sources. Located in Zarqa city, 20 km northeast of Amman, it supplies most of Jordan's refined petroleum products. It employs around 3,000 workers.",
+    },
+    factsAdvanced: {
+      de: ["Die Raffinerie wurde 1980 in Betrieb genommen.", "Die Kapazität beträgt 100.000 Barrel pro Tag.", "Sie liegt in Zarqa, 20 km von Amman entfernt.", "Die Verarbeitungskapazität beträgt 3,2 Millionen Tonnen pro Jahr.", "Sie beschäftigt 3.000 Mitarbeiter.", "Die Raffinerie deckt 70% des jordanischen Bedarfs an Diesel."],
+      hu: ["A finomító 1980-ban kezdte meg működését.", "Napi kapacitása 100 000 hordó.", "Zarqa városában található, Ammantól 20 km-re.", "Éves feldolgozási kapacitása 3,2 millió tonna.", "3000 alkalmazottat foglalkoztat.", "A finomító fedezi a jordán dízeligény 70%-át."],
+      ro: ["Rafinăria a fost dată în funcțiune în 1980.", "Capacitatea este de 100.000 de barili pe zi.", "Este situată în Zarqa, la 20 km de Amman.", "Capacitatea anuală de prelucrare este de 3,2 milioane de tone.", "Angajează 3.000 de persoane.", "Acoperă 70% din necesarul de motorină al Iordaniei."],
+      en: ["The refinery was commissioned in 1980.", "Capacity is 100,000 barrels per day.", "It is located in Zarqa, 20 km from Amman.", "Annual processing capacity is 3.2 million tons.", "It employs 3,000 people.", "It covers 70% of Jordan's diesel demand."],
+    },
   },
   {
     id: "eshidiya-phosphate-mine-economic-v2",
     type: "mine",
     parent: "JO-MN",
     coords: [36.1600, 29.7400],
-    name: { de: "Phosphatmine Eshidiya", hu: "Esidijai Foszfátbánya", ro: "Mina de Fosfat Eshidiya", en: "Eshidiya Phosphate Mine",
-image: "/poi-images/eshidiya-phosphate-mine-economic-v2.webp"
-},
+    name: { de: "Phosphatmine Eshidiya", hu: "Esidijai Foszfátbánya", ro: "Mina de Fosfat Eshidiya", en: "Eshidiya Phosphate Mine"},
+    image: "/poi-images/eshidiya-phosphate-mine-economic-v2.webp",
     description: { de: "Jordaniens größte Phosphatmine im Gouvernement Ma'an, die große Mengen an Rohstoffen für Düngemittel liefert.", hu: "Jordánia legnagyobb foszfátbányája Ma'án kormányzóságban, amely nagy mennyiségű nyersanyagot biztosít a műtrágyagyártáshoz.", ro: "Cea mai mare mină de fosfat din Iordania în guvernoratul Ma'an, furnizând cantități mari de materii prime pentru îngrășăminte.", en: "Jordan's largest phosphate mine in the Ma'an Governorate, providing large quantities of raw materials for fertilizers." },
     facts: {
       de: ["Wichtig für Jordaniens Agrarexporte.", "Beschäftigt Tausende von Arbeitern in der Region."],
       hu: ["Fontos a jordán agrárexport szempontjából.", "Több ezer munkavállalót foglalkoztat a régióban."],
       ro: ["Important pentru exporturile agricole ale Iordaniei.", "Angajează mii de muncitori în regiune."],
       en: ["Important for Jordan's agricultural exports.", "Employs thousands of workers in the region."]
-    }, image: "/poi-images/eshidiya-phosphate-mine-economic-v2.webp"},
+    }, image: "/poi-images/eshidiya-phosphate-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Eshidiya-Phosphatmine in Jordanien ist die größte Phosphatmine des Landes. Sie liegt in der Nähe von Ma'an in der südlichen Wüste. Die Mine begann 1988 mit der Produktion und hat Reserven von über 1 Milliarde Tonnen. Die jährliche Produktion beträgt etwa 6 Millionen Tonnen Phosphatgestein. Jordanien ist einer der größten Exporteure von Phosphat weltweit. Die Mine beschäftigt über 2.000 Arbeiter.",
+      hu: "Az Eshidiya-foszfátbánya Jordánia legnagyobb foszfátbányája, Ma'an közelében található a déli sivatagban. 1988-ban kezdte meg a termelést, készletei meghaladják az 1 milliárd tonnát. Éves termelése kb. 6 millió tonna foszfátkőzet. Jordánia a világ egyik legnagyobb foszfátexportőre. A bánya több mint 2000 embert foglalkoztat.",
+      ro: "Mina de fosfat Eshidiya din Iordania este cea mai mare mină de fosfat a țării, situată lângă Ma'an, în deșertul sudic. A început producția în 1988 și are rezerve de peste 1 miliard de tone. Producția anuală este de aproximativ 6 milioane de tone de rocă fosfatică. Iordania este unul dintre cei mai mari exportatori de fosfat din lume. Mina angajează peste 2.000 de persoane.",
+      en: "The Eshidiya Phosphate Mine in Jordan is the country's largest phosphate mine, located near Ma'an in the southern desert. It began production in 1988 with proven reserves exceeding 1 billion tons. Annual output is around 6 million tons of phosphate rock. Jordan is a top global phosphate exporter. The mine employs over 2,000 workers and is operated by Jordan Phosphate Mines Company.",
+    },
+    factsAdvanced: {
+      de: ["Die Eshidiya-Mine begann 1988 mit der Produktion.", "Die Reserven betragen über 1 Milliarde Tonnen.", "Die jährliche Produktion liegt bei 6 Millionen Tonnen.", "Die Mine erstreckt sich über 250 km².", "Sie beschäftigt 2.000 Mitarbeiter.", "Phosphat ist Jordaniens drittgrößtes Exportgut."],
+      hu: ["Az Eshidiya-bánya 1988-ban kezdett termelni.", "Készletei meghaladják az 1 milliárd tonnát.", "Éves termelése 6 millió tonna.", "A bánya területe 250 km².", "2000 alkalmazottat foglalkoztat.", "A foszfát Jordánia harmadik legnagyobb exportcikke."],
+      ro: ["Mina Eshidiya a început producția în 1988.", "Rezervele depășesc 1 miliard de tone.", "Producția anuală este de 6 milioane de tone.", "Mina se întinde pe 250 km².", "Angajează 2.000 de persoane.", "Fosfatul este al treilea cel mai mare export al Iordaniei."],
+      en: ["Eshidiya mine started production in 1988.", "Reserves exceed 1 billion tons.", "Annual production is 6 million tons.", "The mine spans 250 km².", "It employs 2,000 people.", "Phosphate is Jordan's third largest export."],
+    },
+  },
   {
     id: "al-hassan-industrial-estate-economic-v2",
     type: "industry",
     parent: "JO-IR",
     coords: [35.9628, 32.4839],
-    name: { de: "Industriegebiet Al-Hassan", hu: "Al-Hassan Ipari Park", ro: "Parcul Industrial Al-Hassan", en: "Al-Hassan Industrial Estate",
-image: "/poi-images/al-hassan-industrial-estate-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Al-Hassan", hu: "Al-Hassan Ipari Park", ro: "Parcul Industrial Al-Hassan", en: "Al-Hassan Industrial Estate"},
+    image: "/poi-images/al-hassan-industrial-estate-economic-v2.webp",
     description: { de: "Eine der wichtigsten Industriezonen im Norden Jordaniens, die Unternehmen aus verschiedenen Sektoren anzieht.", hu: "Jordánia északi részének egyik legfontosabb ipari övezete, amely különböző ágazatok vállalatait vonzza.", ro: "Una dintre cele mai importante zone industriale din nordul Iordaniei, atrăgând companii din diverse sectoare.", en: "One of the most important industrial zones in northern Jordan, attracting companies from various sectors." },
     facts: {
       de: ["Schwerpunkt auf Textil- und Bekleidungsindustrie.", "Erste qualifizierte Industriezone (QIZ) im Land."],
       hu: ["Főleg a textil- és ruhaiparra összpontosít.", "Az ország első minősített ipari zónája (QIZ)."],
       ro: ["Se concentrează pe industria textilă și de îmbrăcăminte.", "Prima zonă industrială calificată (QIZ) din țară."],
       en: ["Focuses on the textile and apparel industry.", "The country's first Qualified Industrial Zone (QIZ)."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Al-Hassan Industrial Estate in Jordanien ist eine Sonderwirtschaftszone in der Stadt Irbid. Es wurde 1991 gegründet und erstreckt sich über 1,5 km². Der Industriepark beherbergt über 100 Unternehmen, die Textilien, Elektronik und Lebensmittel produzieren. Er bietet etwa 30.000 Arbeitsplätze und exportiert hauptsächlich in die USA. Das Estate ist Teil des Qualifizierenden Industriegebietes (QIZ).",
+      hu: "Az Al-Hassan Ipari Park Jordániában, Irbid városában található. 1991-ben hozták létre, területe 1,5 km². Több mint 100 vállalat működik itt, főként textil- és elektronikai gyártás. A park mintegy 30 000 munkahelyet teremt, exportja főként az USA-ba irányul. A Képesített Ipari Övezet (QIZ) része, ami vámmentes hozzáférést biztosít az amerikai piachoz.",
+      ro: "Parcul Industrial Al-Hassan din Iordania este situat în orașul Irbid. A fost înființat în 1991 pe o suprafață de 1,5 km². Găzduiește peste 100 de companii, specializate în textile, electronică și alimentație. Oferă aproximativ 30.000 de locuri de muncă, exportând în principal în SUA. Face parte din Zonele Industriale Calificate (QIZ), beneficiind de acces fără taxe vamale pe piața americană.",
+      en: "The Al-Hassan Industrial Estate in Irbid, Jordan, was established in 1991. It covers 1.5 km² and houses over 100 companies. The estate specializes in textiles, electronics, and food processing. It provides around 30,000 jobs and exports mainly to the US under the Qualified Industrial Zone (QIZ) agreement, which offers duty-free access.",
+    },
+    factsAdvanced: {
+      de: ["Der Industriepark wurde 1991 gegründet.", "Die Fläche beträgt 1,5 km².", "Über 100 Unternehmen haben sich dort angesiedelt.", "Die Beschäftigtenzahl beträgt 30.000.", "Exporte in die USA machen 80% der Produktion aus.", "Die Investitionen belaufen sich auf 500 Millionen US-Dollar."],
+      hu: ["Az ipari parkot 1991-ben alapították.", "Területe 1,5 km².", "Több mint 100 cég települt ide.", "30 000 ember dolgozik itt.", "A termelés 80%-át az USA-ba exportálják.", "A beruházások értéke 500 millió USD."],
+      ro: ["Parcul industrial a fost înființat în 1991.", "Suprafața este de 1,5 km².", "Peste 100 de companii s-au stabilit aici.", "Numărul angajaților este de 30.000.", "Exporturile către SUA reprezintă 80% din producție.", "Investițiile se ridică la 500 de milioane USD."],
+      en: ["The estate was established in 1991.", "It covers 1.5 km².", "Over 100 companies are located there.", "Employment is 30,000.", "Exports to the US account for 80% of production.", "Investment totals $500 million."],
+    },
   },
   {
     id: "mafraq-development-area-economic-v2",
     type: "industry",
     parent: "JO-MA",
     coords: [36.2705, 32.2798],
-    name: { de: "Entwicklungszone Mafraq", hu: "Mafraki Fejlesztési Zóna", ro: "Zona de Dezvoltare Mafraq", en: "Mafraq Development Area",
-image: "/poi-images/mafraq-development-area-economic-v2.webp"
-},
+    name: { de: "Entwicklungszone Mafraq", hu: "Mafraki Fejlesztési Zóna", ro: "Zona de Dezvoltare Mafraq", en: "Mafraq Development Area"},
+    image: "/poi-images/mafraq-development-area-economic-v2.webp",
     description: { de: "Eine Sonderwirtschaftszone, die als Logistik- und Industriezentrum zur Förderung von Investitionen konzipiert ist.", hu: "Különleges gazdasági övezet, amelyet logisztikai és ipari központként hoztak létre a beruházások ösztönzésére.", ro: "O zonă economică specială concepută ca un centru logistic și industrial pentru a promova investițiile.", en: "A special economic zone designed as a logistics and industrial center to promote investments." },
     facts: {
       de: ["Nutzt die Nähe zu Syrien und dem Irak.", "Konzentriert sich auf Transport und Leichtindustrie."],
       hu: ["Kihasználja Szíria és Irak közelségét.", "A közlekedésre és a könnyűiparra koncentrál."],
       ro: ["Profită de proximitatea cu Siria și Irak.", "Se concentrează pe transport și industria ușoară."],
       en: ["Capitalizes on its proximity to Syria and Iraq.", "Focuses on transportation and light industry."]
-    }, image: "/poi-images/mafraq-development-area-economic-v2.webp"},
+    }, image: "/poi-images/mafraq-development-area-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Mafraq Development Area ist ein Industriepark im Norden Jordaniens. Es wurde 1998 gegründet und erstreckt sich über 2 km². Der Park konzentriert sich auf Leichtindustrie, Logistik und Dienstleistungen. Er liegt in der Nähe der syrischen Grenze und profitiert von der Lage an der Autobahn Amman-Damaskus. Die Zone bietet Steueranreize und zollfreie Importe. Etwa 50 Unternehmen sind ansässig, die rund 10.000 Arbeitsplätze bieten.",
+      hu: "A Mafraq Fejlesztési Terület egy ipari park Jordánia északi részén. 1998-ban hozták létre, területe 2 km². A park könnyűiparra, logisztikára és szolgáltatásokra specializálódott. A szíriai határ közelében fekszik, az Amman-Damaskus autópálya mentén. Adókedvezményeket és vámmentes importot kínál. Mintegy 50 vállalat működik itt, amelyek 10 000 munkahelyet biztosítanak.",
+      ro: "Zona de Dezvoltare Mafraq este un parc industrial în nordul Iordaniei. A fost înființată în 1998 pe o suprafață de 2 km². Parcul se concentrează pe industria ușoară, logistică și servicii. Este situat lângă granița cu Siria, pe autostrada Amman-Damasc. Oferă stimulente fiscale și importuri fără taxe vamale. Aproximativ 50 de companii sunt instalate, oferind 10.000 de locuri de muncă.",
+      en: "The Mafraq Development Area in northern Jordan was established in 1998. It covers 2 km² and focuses on light industry, logistics, and services. Located near the Syrian border on the Amman-Damascus highway, it offers tax incentives and duty-free imports. About 50 companies operate there, providing around 10,000 jobs.",
+    },
+    factsAdvanced: {
+      de: ["Das Entwicklungsgebiet wurde 1998 gegründet.", "Es umfasst 2 km².", "Etwa 50 Unternehmen sind angesiedelt.", "Die Beschäftigtenzahl beträgt 10.000.", "Die Investitionen belaufen sich auf 200 Millionen US-Dollar.", "Die Zone ist 20 km von der syrischen Grenze entfernt."],
+      hu: ["A fejlesztési területet 1998-ban alapították.", "Területe 2 km².", "Mintegy 50 vállalat telepedett le itt.", "A foglalkoztatottak száma 10 000.", "A beruházások értéke 200 millió USD.", "A szíriai határtól 20 km-re található."],
+      ro: ["Zona de dezvoltare a fost înființată în 1998.", "Se întinde pe 2 km².", "Aproximativ 50 de companii s-au stabilit.", "Numărul angajaților este de 10.000.", "Investițiile totale se ridică la 200 de milioane USD.", "Se află la 20 km de granița cu Siria."],
+      en: ["The development area was established in 1998.", "It covers 2 km².", "About 50 companies are located.", "Employment is 10,000.", "Total investment is $200 million.", "It is 20 km from the Syrian border."],
+    },
+  },
   {
     id: "tafilah-wind-farm-economic-v2",
     type: "energy",
     parent: "JO-TA",
     coords: [35.6322, 30.7303],
-    name: { de: "Windpark Tafilah", hu: "Tafilai Szélerőműpark", ro: "Parcul Eolian Tafilah", en: "Tafilah Wind Farm",
-image: "/poi-images/tafilah-wind-farm-economic-v2.webp"
-},
+    name: { de: "Windpark Tafilah", hu: "Tafilai Szélerőműpark", ro: "Parcul Eolian Tafilah", en: "Tafilah Wind Farm"},
+    image: "/poi-images/tafilah-wind-farm-economic-v2.webp",
     description: { de: "Das erste kommerzielle Windenergieprojekt im Nahen Osten, das saubere Energie für das jordanische Netz produziert.", hu: "A Közel-Kelet első kereskedelmi szélerőmű-projektje, amely tiszta energiát termel a jordán hálózat számára.", ro: "Primul proiect comercial de energie eoliană din Orientul Mijlociu, producând energie curată pentru rețeaua iordaniană.", en: "The first commercial wind energy project in the Middle East, producing clean energy for the Jordanian grid." },
     facts: {
       de: ["Hat eine Kapazität von 117 Megawatt.", "Reduziert den CO2-Ausstoß des Landes erheblich."],
       hu: ["Kapacitása 117 megawatt.", "Jelentősen csökkenti az ország szén-dioxid-kibocsátását."],
       ro: ["Are o capacitate de 117 megawați.", "Reduce semnificativ emisiile de CO2 ale țării."],
       en: ["Has a capacity of 117 megawatts.", "Significantly reduces the country's CO2 emissions."]
-    }, image: "/poi-images/tafilah-wind-farm-economic-v2.webp"},
+    }, image: "/poi-images/tafilah-wind-farm-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tafilah-Windpark in Jordanien ist das erste kommerzielle Windkraftwerk des Landes. Er wurde 2015 in Betrieb genommen und liegt in der Provinz Tafilah. Die Anlage besteht aus 41 Windturbinen mit einer Gesamtkapazität von 117 MW. Der Park produziert jährlich etwa 350 GWh Strom und deckt den Bedarf von 30.000 Haushalten. Das Projekt wurde von der jordanischen Regierung unterstützt, um die Abhängigkeit von fossilen Brennstoffen zu verringern.",
+      hu: "A Tafilah-i szélerőműpark Jordánia első kereskedelmi szélenergia-projektje. 2015-ben helyezték üzembe Tafilah tartományban. 41 szélturbinából áll, összkapacitása 117 MW. Évente mintegy 350 GWh áramot termel, ami 30 000 háztartás ellátásához elegendő. A projekt csökkenti az ország fosszilis tüzelőanyag-függőségét.",
+      ro: "Parcul eolian Tafilah din Iordania este prima centrală eoliană comercială a țării. A fost pus în funcțiune în 2015 în provincia Tafilah. Este compus din 41 de turbine eoliene, cu o capacitate totală de 117 MW. Produce anual aproximativ 350 GWh de electricitate, suficient pentru 30.000 de locuințe. Proiectul sprijină diversificarea surselor de energie.",
+      en: "The Tafilah Wind Farm in Jordan is the country's first commercial wind power plant. Commissioned in 2015, it is located in Tafilah Governorate. The farm consists of 41 wind turbines with a total capacity of 117 MW. It generates about 350 GWh of electricity annually, enough to power 30,000 homes. The project reduces reliance on imported fossil fuels.",
+    },
+    factsAdvanced: {
+      de: ["Der Windpark wurde 2015 in Betrieb genommen.", "Die installierte Leistung beträgt 117 MW.", "41 Windturbinen sind installiert.", "Die jährliche Stromerzeugung beträgt 350 GWh.", "Der Park versorgt 30.000 Haushalte.", "Die CO2-Einsparung beträgt 250.000 Tonnen pro Jahr."],
+      hu: ["A szélerőműparkot 2015-ben helyezték üzembe.", "A beépített kapacitás 117 MW.", "41 szélturbina található itt.", "Az éves áramtermelés 350 GWh.", "30 000 háztartást lát el árammal.", "A CO2-megtakarítás évi 250 000 tonna."],
+      ro: ["Parcul eolian a fost pus în funcțiune în 2015.", "Capacitatea instalată este de 117 MW.", "Sunt instalate 41 de turbine eoliene.", "Producția anuală de electricitate este de 350 GWh.", "Furnizează energie pentru 30.000 de locuințe.", "Reducerea emisiilor de CO2 este de 250.000 de tone anual."],
+      en: ["The wind farm was commissioned in 2015.", "Installed capacity is 117 MW.", "It has 41 wind turbines.", "Annual electricity generation is 350 GWh.", "It powers 30,000 homes.", "CO2 savings are 250,000 tons per year."],
+    },
+  },
   {
     id: "shams-maan-solar-plant-economic-v2",
     type: "energy",
     parent: "JO-MN",
     coords: [35.7925, 30.1261],
-    name: { de: "Solarpark Shams Ma'an", hu: "Shams Ma'an Naperőmű", ro: "Centrala Solară Shams Ma'an", en: "Shams Ma'an Solar Power Plant",
-image: "/poi-images/shams-maan-solar-plant-economic-v2.webp"
-},
+    name: { de: "Solarpark Shams Ma'an", hu: "Shams Ma'an Naperőmű", ro: "Centrala Solară Shams Ma'an", en: "Shams Ma'an Solar Power Plant"},
+    image: "/poi-images/shams-maan-solar-plant-economic-v2.webp",
     description: { de: "Eine der größten Photovoltaikanlagen in der Region, die zur Verringerung der Energieabhängigkeit Jordaniens beiträgt.", hu: "A régió egyik legnagyobb fotovoltaikus erőműve, amely hozzájárul Jordánia energiafüggőségének csökkentéséhez.", ro: "Una dintre cele mai mari centrale fotovoltaice din regiune, contribuind la reducerea dependenței energetice a Iordaniei.", en: "One of the largest photovoltaic plants in the region, helping to reduce Jordan's energy dependence." },
     facts: {
       de: ["Produziert etwa ein Prozent der gesamten Energie Jordaniens.", "Verwendet Millionen von Solarmodulen."],
       hu: ["Jordánia teljes energiájának mintegy egy százalékát termeli.", "Több millió napelemet használ."],
       ro: ["Produce aproximativ unu la sută din energia totală a Iordaniei.", "Folosește milioane de panouri solare."],
       en: ["Produces about one percent of Jordan's total energy.", "Uses millions of solar panels."]
-    }, image: "/poi-images/shams-maan-solar-plant-economic-v2.webp"},
+    }, image: "/poi-images/shams-maan-solar-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Shams Ma'an Solarkraftwerk in Jordanien ist eines der größten Photovoltaik-Kraftwerke der Region. Es wurde 2016 in Betrieb genommen und liegt in der Nähe von Ma'an. Die Anlage hat eine Kapazität von 52,5 MW und besteht aus über 200.000 Solarmodulen. Jährlich produziert sie etwa 160 GWh Strom. Das Projekt ist Teil der jordanischen Energiestrategie, den Anteil erneuerbarer Energien zu erhöhen.",
+      hu: "A Shams Ma'an naperőmű Jordánia egyik legnagyobb napelemparkja. Ma'an közelében található, 2016-ban helyezték üzembe. Kapacitása 52,5 MW, több mint 200 000 napelemből áll. Éves termelése kb. 160 GWh. A projekt hozzájárul Jordánia megújuló energia céljaihoz, csökkentve a fosszilis tüzelőanyag-felhasználást.",
+      ro: "Centrala solară Shams Ma'an din Iordania este una dintre cele mai mari instalații fotovoltaice din regiune. A fost inaugurată în 2016 lângă orașul Ma'an. Are o capacitate de 52,5 MW, compusă din peste 200.000 de panouri solare. Produce anual aproximativ 160 GWh de electricitate. Proiectul face parte din strategia energetică a Iordaniei.",
+      en: "Shams Ma'an solar plant in Jordan is one of the largest photovoltaic installations in the region. Commissioned in 2016 near Ma'an city, it has a capacity of 52.5 MW, using over 200,000 solar panels. It generates around 160 GWh of electricity annually. The plant supports Jordan's target of 20% renewable energy by 2025.",
+    },
+    factsAdvanced: {
+      de: ["Das Kraftwerk wurde 2016 in Betrieb genommen.", "Die Kapazität beträgt 52,5 MW.", "Über 200.000 Solarmodule sind installiert.", "Die jährliche Stromerzeugung beträgt 160 GWh.", "Die Anlage bedeckt eine Fläche von 1 km².", "Die Investition betrug 150 Millionen US-Dollar."],
+      hu: ["Az erőművet 2016-ban helyezték üzembe.", "Kapacitása 52,5 MW.", "Több mint 200 000 napelemet szereltek fel.", "Éves áramtermelése 160 GWh.", "Az erőmű területe 1 km².", "A beruházás 150 millió USD volt."],
+      ro: ["Centrala a fost dată în funcțiune în 2016.", "Capacitatea este de 52,5 MW.", "Peste 200.000 de panouri solare sunt instalate.", "Producția anuală de electricitate este de 160 GWh.", "Suprafața centralei este de 1 km².", "Investiția a fost de 150 de milioane USD."],
+      en: ["The plant was commissioned in 2016.", "Capacity is 52.5 MW.", "Over 200,000 solar panels are installed.", "Annual electricity generation is 160 GWh.", "The plant covers an area of 1 km².", "Investment was $150 million."],
+    },
+  },
   {
     id: "king-hussein-airport-economic-v2",
     type: "trade-hub",
     parent: "JO-AQ",
     coords: [35.0181, 29.6116],
-    name: { de: "King Hussein International Airport", hu: "Közép-Keleti Logisztikai Repülőtér (Aqaba)", ro: "Aeroportul Internațional King Hussein", en: "King Hussein International Airport",
-image: "/poi-images/king-hussein-airport-economic-v2.webp"
-},
+    name: { de: "King Hussein International Airport", hu: "Közép-Keleti Logisztikai Repülőtér (Aqaba)", ro: "Aeroportul Internațional King Hussein", en: "King Hussein International Airport"},
+    image: "/poi-images/king-hussein-airport-economic-v2.webp",
     description: { de: "Der Flughafen von Akaba, der als wichtiges Zentrum für Tourismus und Luftfracht im Süden dient.", hu: "Az akabai repülőtér, amely a turizmus és a légi árufuvarozás fontos központja délen.", ro: "Aeroportul din Aqaba, care servește ca un centru important pentru turism și marfă aeriană în sud.", en: "The airport in Aqaba, serving as an important center for tourism and air cargo in the south." },
     facts: {
       de: ["Verfügt über eine Freihandelszone für Luftfracht.", "Wichtig für die Sonderwirtschaftszone Akaba."],
       hu: ["Légi árufuvarozási szabadkereskedelmi övezettel rendelkezik.", "Fontos az Akabai Különleges Gazdasági Övezet számára."],
       ro: ["Are o zonă de liber schimb pentru mărfurile aeriene.", "Important pentru Zona Economică Specială Aqaba."],
       en: ["Has a free trade zone for air cargo.", "Important for the Aqaba Special Economic Zone."]
-    }, image: "/poi-images/king-hussein-airport-economic-v2.webp"},
+    }, image: "/poi-images/king-hussein-airport-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der King Hussein International Airport in Aqaba, Jordanien, wurde 1972 eröffnet und ist ein wichtiger Verkehrsknotenpunkt für den Süden des Landes. Er hat eine Landebahn von 3.000 Metern Länge. Der Flughafen wickelt jährlich über 500.000 Passagiere ab. Er dient als Tor zu den Touristenorten am Roten Meer und zum Tafelberg. Der Flughafen wurde 2014 modernisiert und erweitert.",
+      hu: "A King Hussein nemzetközi repülőtér Aqabában, Jordániában, 1972-ben nyílt meg. Egy 3000 méteres kifutópályával rendelkezik. Évente több mint 500 000 utast kezel. Fontos kapu a Vörös-tenger üdülőhelyeihez és Petra felé. 2014-ben felújították és bővítették. A repülőtér szerepe növekszik a turizmusban.",
+      ro: "Aeroportul Internațional King Hussein din Aqaba, Iordania, a fost deschis în 1972. Are o pistă de 3.000 de metri. Manipulează peste 500.000 de pasageri anual. Este o poartă de acces către stațiunile de la Marea Roșie și Petra. Aeroportul a fost modernizat în 2014. Acesta contribuie semnificativ la turismul regiunii.",
+      en: "King Hussein International Airport in Aqaba, Jordan, opened in 1972. It has a single 3,000-meter runway. The airport handles over 500,000 passengers annually, primarily tourists visiting the Red Sea resorts and Petra. It underwent major upgrades in 2014 to increase capacity. The airport is a key economic driver for southern Jordan.",
+    },
+    factsAdvanced: {
+      de: ["Der Flughafen wurde 1972 eröffnet.", "Die Landebahn ist 3.000 Meter lang.", "Das Passagieraufkommen beträgt 500.000 pro Jahr.", "Der Flughafen liegt 5 km nördlich von Aqaba.", "Das Terminal hat eine Fläche von 15.000 m².", "Es gibt 8 Flugsteige."],
+      hu: ["A repülőtér 1972-ben nyílt meg.", "A kifutópálya hossza 3000 méter.", "Éves utasforgalma 500 000 fő.", "A repülőtér Aqabától 5 km-re északra található.", "A terminál területe 15 000 m².", "8 beszállókapuval rendelkezik."],
+      ro: ["Aeroportul a fost deschis în 1972.", "Pista are 3.000 de metri lungime.", "Traficul de pasageri este de 500.000 anual.", "Aeroportul se află la 5 km nord de Aqaba.", "Terminalul are o suprafață de 15.000 m².", "Există 8 porți de îmbarcare."],
+      en: ["The airport opened in 1972.", "Runway length is 3,000 meters.", "Passenger traffic is 500,000 per year.", "The airport is 5 km north of Aqaba.", "Terminal area is 15,000 m².", "It has 8 boarding gates."],
+    },
+  },
   {
     id: "queen-alia-airport-economic-v2",
     type: "trade-hub",
     parent: "JO-AM",
     coords: [35.9868, 31.7226],
-    name: { de: "Queen Alia International Airport", hu: "Alia Királyné Nemzetközi Repülőtér", ro: "Aeroportul Internațional Queen Alia", en: "Queen Alia International Airport",
-image: "/poi-images/queen-alia-airport-economic-v2.webp"
-},
+    name: { de: "Queen Alia International Airport", hu: "Alia Királyné Nemzetközi Repülőtér", ro: "Aeroportul Internațional Queen Alia", en: "Queen Alia International Airport"},
+    image: "/poi-images/queen-alia-airport-economic-v2.webp",
     description: { de: "Das wichtigste Tor Jordaniens für internationale Passagiere und ein zentraler Knotenpunkt für den globalen Handel.", hu: "Jordánia legfontosabb kapuja a nemzetközi utasok számára és a globális kereskedelem központi csomópontja.", ro: "Principala poartă de acces a Iordaniei pentru pasagerii internaționali și un hub central pentru comerțul global.", en: "Jordan's main gateway for international passengers and a central hub for global trade." },
     facts: {
       de: ["Verwaltet den Großteil der jordanischen Luftfracht.", "Wurde mehrfach für sein modernes Design ausgezeichnet."],
       hu: ["A jordán légi árufuvarozás nagy részét kezeli.", "Többször díjazták modern kialakításáért."],
       ro: ["Gestionează cea mai mare parte a mărfurilor aeriene iordaniene.", "A fost premiat de mai multe ori pentru designul său modern."],
       en: ["Manages the majority of Jordanian air cargo.", "Has been awarded multiple times for its modern design."]
-    }, image: "/poi-images/queen-alia-airport-economic-v2.webp"},
+    }, image: "/poi-images/queen-alia-airport-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Queen Alia International Airport in Amman, Jordanien, ist der größte Flughafen des Landes. Er wurde 1983 eröffnet und nach der Königin Alia benannt. Das Passagieraufkommen liegt bei über 8 Millionen pro Jahr. Der Flughafen hat zwei Start- und Landebahnen. Er ist das Drehkreuz der Royal Jordanian Airlines. Ein neues Terminal wurde 2013 fertiggestellt, das die Kapazität auf 12 Millionen Passagiere erhöht hat.",
+      hu: "A Queen Alia nemzetközi repülőtér Ammanban, Jordániában, az ország legnagyobb repülőtere. 1983-ban nyitották meg, Alia királynőről nevezték el. Éves utasforgalma meghaladja a 8 milliót. Két kifutópályával rendelkezik. A Royal Jordanian Airlines bázisa. 2013-ban új terminált adtak át, ami 12 millió utas kapacitását teszi lehetővé.",
+      ro: "Aeroportul Internațional Queen Alia din Amman, Iordania, este cel mai mare aeroport al țării. A fost deschis în 1983 și poartă numele reginei Alia. Traficul anual depășește 8 milioane de pasageri. Are două piste. Este hub-ul companiei Royal Jordanian. Un nou terminal a fost finalizat în 2013, crescând capacitatea la 12 milioane de pasageri.",
+      en: "Queen Alia International Airport in Amman, Jordan, is the country's largest airport. Opened in 1983, it serves over 8 million passengers annually. It has two runways and is the hub for Royal Jordanian Airlines. A new terminal was completed in 2013, raising capacity to 12 million passengers annually.",
+    },
+    factsAdvanced: {
+      de: ["Der Flughafen wurde 1983 eröffnet.", "Die Passagierzahl beträgt über 8 Millionen pro Jahr.", "Es gibt zwei Start- und Landebahnen.", "Das neue Terminal hat eine Kapazität von 12 Millionen Passagieren.", "Der Flughafen liegt 30 km südlich von Amman.", "Die Fläche des Terminals beträgt 100.000 m²."],
+      hu: ["A repülőtér 1983-ban nyílt meg.", "Éves utasforgalma meghaladja a 8 milliót.", "Két kifutópályával rendelkezik.", "Az új terminál kapacitása 12 millió utas.", "Amman központjától 30 km-re délre található.", "A terminál területe 100 000 m²."],
+      ro: ["Aeroportul a fost deschis în 1983.", "Traficul depășește 8 milioane de pasageri anual.", "Are două piste.", "Noul terminal are o capacitate de 12 milioane de pasageri.", "Aeroportul se află la 30 km sud de Amman.", "Suprafața terminalului este de 100.000 m²."],
+      en: ["The airport opened in 1983.", "Passenger traffic exceeds 8 million annually.", "It has two runways.", "The new terminal capacity is 12 million passengers.", "The airport is 30 km south of Amman.", "Terminal area is 100,000 m²."],
+    },
+  },
   {
     id: "sahab-industrial-estate-economic-v2",
     type: "industry",
     parent: "JO-AM",
     coords: [36.0094, 31.8681],
-    name: { de: "Industriegebiet Sahab", hu: "Szahab Ipari Park", ro: "Parcul Industrial Sahab", en: "Sahab Industrial Estate",
-image: "/poi-images/sahab-industrial-estate-economic-v2.webp"
-},
+    name: { de: "Industriegebiet Sahab", hu: "Szahab Ipari Park", ro: "Parcul Industrial Sahab", en: "Sahab Industrial Estate"},
+    image: "/poi-images/sahab-industrial-estate-economic-v2.webp",
     description: { de: "Eines der ältesten und größten Industriegebiete in Jordanien, das Hunderte von Produktionsstätten beherbergt.", hu: "Jordánia egyik legrégebbi és legnagyobb ipari területe, amely több száz termelőüzemnek ad otthont.", ro: "Una dintre cele mai vechi și mai mari zone industriale din Iordania, găzduind sute de unități de producție.", en: "One of the oldest and largest industrial areas in Jordan, housing hundreds of manufacturing facilities." },
     facts: {
       de: ["Bekannt für Lebensmittel-, Chemie- und Kunststoffproduktion.", "Bietet Arbeitsplätze für Zehntausende Menschen."],
       hu: ["Az élelmiszer-, vegy- és műanyagiparáról ismert.", "Több tízezer embernek biztosít munkát."],
       ro: ["Cunoscut pentru producția de alimente, chimicale și plastice.", "Oferă locuri de muncă pentru zeci de mii de oameni."],
       en: ["Known for food, chemical, and plastics production.", "Provides jobs for tens of thousands of people."]
-    }, image: "/poi-images/sahab-industrial-estate-economic-v2.webp"},
+    }, image: "/poi-images/sahab-industrial-estate-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sahab Industrial Estate in Jordanien liegt in der Nähe von Amman und wurde 2002 gegründet. Es erstreckt sich über 3 km² und beherbergt über 150 Unternehmen. Die Schwerpunkte liegen auf der Lebensmittel-, Textil- und Maschinenbauindustrie. Der Park bietet etwa 20.000 Arbeitsplätze. Er profitiert von der Nähe zum Flughafen und zu Autobahnen. Sahab ist eines der wichtigsten Industriegebiete Jordaniens.",
+      hu: "A Sahab Ipari Park Jordániában, Amman közelében található, 2002-ben alapították. Területe 3 km², több mint 150 cég működik itt. Specializációi: élelmiszeripar, textilipar és géppyártás. A park mintegy 20 000 munkahelyet biztosít. A repülőtérhez és autópályákhoz való közelsége előnyt jelent. Sahab Jordánia egyik legfontosabb ipari övezete.",
+      ro: "Parcul Industrial Sahab din Iordania, lângă Amman, a fost înființat în 2002. Se întinde pe 3 km² și găzduiește peste 150 de companii. Se concentrează pe industria alimentară, textilă și de mașini. Oferă aproximativ 20.000 de locuri de muncă. Beneficiază de apropierea de aeroport și autostrăzi. Sahab este una dintre cele mai importante zone industriale ale Iordaniei.",
+      en: "Sahab Industrial Estate in Jordan, near Amman, was established in 2002. It covers 3 km² and hosts over 150 companies. The estate focuses on food processing, textiles, and machinery. It provides about 20,000 jobs. Its proximity to the airport and highways makes it attractive. Sahab is a key industrial zone in Jordan.",
+    },
+    factsAdvanced: {
+      de: ["Der Industriepark wurde 2002 gegründet.", "Die Fläche beträgt 3 km².", "Über 150 Unternehmen sind ansässig.", "20.000 Arbeitsplätze werden geboten.", "Die Investitionen betragen 800 Millionen US-Dollar.", "Der Park liegt 15 km südöstlich von Amman."],
+      hu: ["Az ipari parkot 2002-ben alapították.", "Területe 3 km².", "Több mint 150 vállalat található itt.", "20 000 munkahelyet biztosít.", "A beruházások értéke 800 millió USD.", "A park Ammantól 15 km-re délkeletre található."],
+      ro: ["Parcul industrial a fost înființat în 2002.", "Suprafața este de 3 km².", "Peste 150 de companii sunt instalate.", "Oferă 20.000 de locuri de muncă.", "Investițiile se ridică la 800 de milioane USD.", "Parcul se află la 15 km sud-est de Amman."],
+      en: ["The estate was established in 2002.", "It covers 3 km².", "Over 150 companies are located.", "20,000 jobs are provided.", "Investment totals $800 million.", "The estate is 15 km southeast of Amman."],
+    },
+  },
   {
     id: "aqaba-special-economic-zone-economic-v2",
     type: "trade-hub",
     parent: "JO-AQ",
     coords: [35.0116, 29.5319],
-    name: { de: "Sonderwirtschaftszone Akaba (ASEZA)", hu: "Akabai Különleges Gazdasági Övezet", ro: "Zona Economică Specială Aqaba (ASEZA)", en: "Aqaba Special Economic Zone (ASEZA)",
-image: "/poi-images/aqaba-special-economic-zone-economic-v2.webp"
-},
+    name: { de: "Sonderwirtschaftszone Akaba (ASEZA)", hu: "Akabai Különleges Gazdasági Övezet", ro: "Zona Economică Specială Aqaba (ASEZA)", en: "Aqaba Special Economic Zone (ASEZA)"},
+    image: "/poi-images/aqaba-special-economic-zone-economic-v2.webp",
     description: { de: "Eine zollfreie Zone, die Investoren mit niedrigen Steuern und vereinfachten Vorschriften am Roten Meer anzieht.", hu: "Vámmentes övezet, amely alacsony adókkal és egyszerűsített szabályozásokkal vonzza a befektetőket a Vörös-tengernél.", ro: "O zonă fără taxe vamale care atrage investitori cu impozite mici și reglementări simplificate la Marea Roșie.", en: "A duty-free zone that attracts investors with low taxes and simplified regulations on the Red Sea." },
     facts: {
       de: ["Fördert Tourismus, Industrie und Logistik.", "Erstreckt sich über fast das gesamte Stadtgebiet von Akaba."],
       hu: ["Támogatja a turizmust, az ipart és a logisztikát.", "Majdnem a teljes akabai városi területre kiterjed."],
       ro: ["Promovează turismul, industria și logistica.", "Se întinde pe aproape întreaga zonă urbană din Aqaba."],
       en: ["Promotes tourism, industry, and logistics.", "Spans almost the entire urban area of Aqaba."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Aqaba Special Economic Zone (ASEZA) in Jordanien wurde 2001 gegründet, um Investitionen zu fördern. Sie umfasst eine Fläche von 375 km², einschließlich der Stadt Aqaba. Die Zone bietet Steuerbefreiungen, vereinfachte Zollabfertigung und flexible Arbeitsgesetze. Sie beherbergt den Hafen, Industrie- und Tourismusprojekte. ASEZA hat zur wirtschaftlichen Entwicklung der Region beigetragen, mit über 10 Milliarden US-Dollar an Investitionen.",
+      hu: "Az Aqaba Különleges Gazdasági Övezetet (ASEZA) 2001-ben hozták létre Jordániában, területe 375 km². Magában foglalja Aqaba városát. Adómentességet, egyszerűsített vámeljárást és rugalmas munkaügyi szabályokat kínál. A kikötő, ipari és turisztikai projektek találhatók itt. Az ASEZA több mint 10 milliárd USD beruházást vonzott, és jelentősen növelte a foglalkoztatást.",
+      ro: "Zona Economică Specială Aqaba (ASEZA) din Iordania a fost înființată în 2001, acoperind 375 km², inclusiv orașul Aqaba. Oferă scutiri fiscale, proceduri vamale simplificate și legi flexibile ale muncii. Găzduiește portul, proiecte industriale și turistice. ASEZA a atras investiții de peste 10 miliarde de dolari, stimulând creșterea economică.",
+      en: "The Aqaba Special Economic Zone (ASEZA) in Jordan was established in 2001, covering 375 km² including the city of Aqaba. It offers tax exemptions, simplified customs, and flexible labor laws. The zone hosts the port, industrial, and tourism projects. ASEZA has attracted over $10 billion in investment, boosting employment and economic growth in southern Jordan.",
+    },
+    factsAdvanced: {
+      de: ["ASEZA wurde 2001 gegründet.", "Die Zone umfasst 375 km².", "Die Bevölkerung innerhalb der Zone beträgt 150.000.", "Über 10 Milliarden US-Dollar wurden investiert.", "Mehr als 500 Unternehmen sind ansässig.", "Die Arbeitslosenquote in Aqaba sank auf 12%."],
+      hu: ["Az ASEZA-t 2001-ben hozták létre.", "A zóna területe 375 km².", "A zónán belüli lakosság 150 000 fő.", "Több mint 10 milliárd USD beruházás történt.", "Több mint 500 vállalat működik itt.", "A munkanélküliség Aqabában 12%-ra csökkent."],
+      ro: ["ASEZA a fost înființată în 2001.", "Zona acoperă 375 km².", "Populația din zonă este de 150.000.", "Peste 10 miliarde USD au fost investiți.", "Peste 500 de companii sunt active.", "Rata șomajului în Aqaba a scăzut la 12%."],
+      en: ["ASEZA was established in 2001.", "The zone covers 375 km².", "Population within the zone is 150,000.", "Over $10 billion has been invested.", "More than 500 companies operate.", "Unemployment in Aqaba fell to 12%."],
+    },
   },
   {
     id: "attarat-oil-shale-power-plant-economic-v2",
     type: "energy",
     parent: "JO-AM",
     coords: [36.2417, 31.2583],
-    name: { de: "Ölschiefer-Kraftwerk Attarat", hu: "Attarat Olajpala Erőmű", ro: "Centrala de Șist Bituminos Attarat", en: "Attarat Oil Shale Power Plant",
-image: "/poi-images/attarat-oil-shale-power-plant-economic-v2.webp"
-},
+    name: { de: "Ölschiefer-Kraftwerk Attarat", hu: "Attarat Olajpala Erőmű", ro: "Centrala de Șist Bituminos Attarat", en: "Attarat Oil Shale Power Plant"},
+    image: "/poi-images/attarat-oil-shale-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes Energieprojekt, das lokale Ölschiefervorkommen zur Stromerzeugung nutzt.", hu: "Jelentős energiaprojekt, amely a helyi olajpala-készleteket használja fel villamosenergia-termelésre.", ro: "Un proiect energetic major care utilizează depozitele locale de șist bituminos pentru a genera electricitate.", en: "A major energy project that uses local oil shale deposits to generate electricity." },
     facts: {
       de: ["Trägt zur Diversifizierung der Energiequellen bei.", "Eines der größten Investitionsprojekte im Land."],
       hu: ["Hozzájárul az energiaforrások diverzifikálásához.", "Az ország egyik legnagyobb beruházási projektje."],
       ro: ["Contribuie la diversificarea surselor de energie.", "Unul dintre cele mai mari proiecte de investiții din țară."],
       en: ["Contributes to the diversification of energy sources.", "One of the largest investment projects in the country."]
-    }, image: "/poi-images/attarat-oil-shale-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/attarat-oil-shale-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Attarat Oil Shale Power Plant in Jordanien ist ein Kraftwerk zur Stromerzeugung aus Ölschiefer. Es liegt in der Region Attarat, etwa 40 km südöstlich von Amman. Das Kraftwerk hat eine Kapazität von 470 MW und wurde 2020 in Betrieb genommen. Es ist das erste seiner Art im Land und nutzt Jordaniens reiche Ölschiefervorkommen. Das Projekt kostete etwa 2,1 Milliarden US-Dollar und schafft 1.000 Arbeitsplätze.",
+      hu: "Az Attarat olajpala-erőmű Jordániában található, Ammantól 40 km-re délkeletre. Kapacitása 470 MW, 2020-ban helyezték üzembe. Ez az első ilyen típusú erőmű az országban, amely az olajpala készleteket használja. A projekt 2,1 milliárd USD-ba került, és 1000 munkahelyet teremtett. Az erőmű hozzájárul Jordánia energiafüggetlenségéhez.",
+      ro: "Centrala electrică Attarat Oil Shale din Iordania este situată în regiunea Attarat, la 40 km sud-est de Amman. Are o capacitate de 470 MW și a fost pusă în funcțiune în 2020. Este prima centrală de acest tip din țară, utilizând șisturile bituminoase. Proiectul a costat 2,1 miliarde USD și a creat 1.000 de locuri de muncă. Contribuie la securitatea energetică a Iordaniei.",
+      en: "The Attarat Oil Shale Power Plant in Jordan is located in the Attarat region, 40 km southeast of Amman. It has a capacity of 470 MW and was commissioned in 2020. It is the first oil shale-fired power plant in the country, utilizing Jordan's vast oil shale reserves. The project cost $2.1 billion and created 1,000 jobs, enhancing energy independence.",
+    },
+    factsAdvanced: {
+      de: ["Das Kraftwerk hat eine Kapazität von 470 MW.", "Es wurde 2020 in Betrieb genommen.", "Die Kosten beliefen sich auf 2,1 Milliarden US-Dollar.", "Es ist 40 km von Amman entfernt.", "1.000 Arbeitsplätze wurden geschaffen.", "Jährlich werden 2 Millionen Tonnen Ölschiefer verbraucht."],
+      hu: ["Az erőmű kapacitása 470 MW.", "2020-ban helyezték üzembe.", "A költségek 2,1 milliárd USD-t tettek ki.", "Ammantól 40 km-re található.", "1000 munkahely jött létre.", "Évente 2 millió tonna olajpalát használ fel."],
+      ro: ["Centrala are o capacitate de 470 MW.", "A fost pusă în funcțiune în 2020.", "Costul a fost de 2,1 miliarde USD.", "Se află la 40 km de Amman.", "Au fost create 1.000 de locuri de muncă.", "Consumă anual 2 milioane de tone de șist bituminos."],
+      en: ["The plant has a capacity of 470 MW.", "It was commissioned in 2020.", "Cost was $2.1 billion.", "It is 40 km from Amman.", "1,000 jobs were created.", "It consumes 2 million tons of oil shale annually."],
+    },
+  },
   {
     id: "samra-electric-power-plant-economic-v2",
     type: "energy",
     parent: "JO-AZ",
     coords: [36.1517, 32.1481],
-    name: { de: "Samra-Kraftwerk", hu: "Samra Erőmű", ro: "Centrala Electrică Samra", en: "Samra Electric Power Plant",
-image: "/poi-images/samra-electric-power-plant-economic-v2.webp"
-},
+    name: { de: "Samra-Kraftwerk", hu: "Samra Erőmű", ro: "Centrala Electrică Samra", en: "Samra Electric Power Plant"},
+    image: "/poi-images/samra-electric-power-plant-economic-v2.webp",
     description: { de: "Ein modernes Gasturbinenkraftwerk, das eine Schlüsselrolle bei der Deckung des jordanischen Strombedarfs spielt.", hu: "Modern gázturbinás erőmű, amely kulcsszerepet játszik a jordániai villamosenergia-szükséglet fedezésében.", ro: "O centrală modernă pe gaz, care joacă un rol cheie în satisfacerea cererii de energie electrică a Iordaniei.", en: "A modern gas turbine power plant that plays a key role in meeting Jordan's electricity demand." },
     facts: {
       de: ["Nutzt Erdgas als primären Brennstoff.", "Wurde mehrmals erweitert, um die Kapazität zu erhöhen."],
       hu: ["Földgázt használ elsődleges tüzelőanyagként.", "Többször bővítették a kapacitás növelése érdekében."],
       ro: ["Folosește gazele naturale ca combustibil principal.", "A fost extinsă de mai multe ori pentru a crește capacitatea."],
       en: ["Uses natural gas as its primary fuel.", "Has been expanded several times to increase capacity."]
-    }, image: "/poi-images/samra-electric-power-plant-economic-v2.webp"},
+    }, image: "/poi-images/samra-electric-power-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Samra-Kraftwerk ist Jordaniens größtes und modernstes Gaskraftwerk, etwa 40 km östlich von Amman gelegen. Es wurde 2003 in Betrieb genommen und später erweitert, um eine installierte Leistung von rund 740 MW zu erreichen. Das Kraftwerk nutzt Erdgas aus dem Risha-Feld und importiertes LNG über den Hafen von Aqaba. Es versorgt etwa 25% des jordanischen Strombedarfs und ist ein Schlüsselprojekt zur Diversifizierung der Energiequellen. Die Anlage spielt eine zentrale Rolle bei der Stabilisierung des nationalen Stromnetzes und der Reduzierung von Stromausfällen. Betreiber ist die Samra Electric Power Company, ein Konsortium mit jordanischen und internationalen Anteilen. Die Investitionen beliefen sich auf über 700 Millionen US-Dollar.",
+      hu: "A Samra Elektromű Jordánia legnagyobb gázerőműve, Ammántól keletre, mintegy 40 km-re található. Az üzem 2003-ban kezdte meg a működését, és azóta bővítették, jelenlegi kapacitása 740 MW körüli. Földgázt használ a Risha mezőről és cseppfolyósított földgázt importál Aqabán keresztül. Az erőmű az ország villamosenergia-szükségletének mintegy 25%-át fedezi, kulcsszerepet játszik az energiaellátás diverzifikálásában és a hálózat stabilitásában. A létesítményt a Samra Electric Power Company üzemelteti, amely vegyesvállalat jordán és nemzetközi részvétellel. A beruházás meghaladta a 700 millió amerikai dollárt.",
+      ro: "Centrala electrică Samra este cea mai mare și mai modernă centrală pe gaz din Iordania, situată la aproximativ 40 km est de Amman. A intrat în funcțiune în 2003 și a fost extinsă ulterior, ajungând la o capacitate instalată de aproximativ 740 MW. Folosește gaze naturale din câmpul Risha și GNL importat prin portul Aqaba. Alimentează aproximativ 25% din necesarul de electricitate al Iordaniei și este esențială pentru stabilizarea rețelei naționale și reducerea întreruperilor. Operatorul este Samra Electric Power Company, un consorțiu cu participare iordaniană și internațională. Investițiile au depășit 700 de milioane de dolari americani.",
+      en: "The Samra Electric Power Plant is Jordan's largest and most modern gas-fired power station, located about 40 km east of Amman. Commissioned in 2003 and later expanded, it has an installed capacity of approximately 740 MW. It utilizes natural gas from the Risha field and imported LNG via the port of Aqaba. The plant supplies about 25% of Jordan's electricity demand, playing a key role in diversifying energy sources and stabilizing the national grid. It is operated by the Samra Electric Power Company, a consortium with Jordanian and international shareholders. Total investment exceeded $700 million.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: etwa 740 MW (Stand 2023).", "Inbetriebnahme: 2003, Erweiterung 2009 und 2015.", "Hauptbrennstoff: Erdgas, ergänzt durch leichtes Heizöl.", "Jährliche Stromproduktion: rund 4,5 Mrd. kWh.", "Versorgt etwa 2,5 Millionen Menschen mit Strom.", "CO2-Emissionen: etwa 3,5 Millionen Tonnen pro Jahr."],
+      hu: ["Beépített teljesítmény: kb. 740 MW (2023-as adat).", "Üzembe helyezés: 2003, bővítések 2009-ben és 2015-ben.", "Fő tüzelőanyag: földgáz, kiegészítésképpen könnyű fűtőolaj.", "Éves villamosenergia-termelés: kb. 4,5 milliárd kWh.", "Kb. 2,5 millió ember áramellátását biztosítja.", "CO2-kibocsátás: évente kb. 3,5 millió tonna."],
+      ro: ["Capacitate instalată: aproximativ 740 MW (începând cu 2023).", "Data punerii în funcțiune: 2003, extinderi în 2009 și 2015.", "Combustibil principal: gaze naturale, ușor ulei de încălzire ca rezervă.", "Producție anuală de energie electrică: circa 4,5 miliarde kWh.", "Alimentează cu electricitate aproximativ 2,5 milioane de persoane.", "Emisii de CO2: circa 3,5 milioane de tone pe an."],
+      en: ["Installed capacity: approximately 740 MW (as of 2023).", "Commissioned in 2003, with expansions in 2009 and 2015.", "Primary fuel: natural gas, with light fuel oil as backup.", "Annual electricity output: around 4.5 billion kWh.", "Supplies power to about 2.5 million people.", "CO2 emissions: about 3.5 million tonnes per year."],
+    },
+  },
   {
     id: "risha-gas-field-economic-v2",
     type: "energy",
     parent: "JO-MA",
     coords: [38.9886, 32.5592],
-    name: { de: "Risha-Gasfeld", hu: "Risha Gázmező", ro: "Câmpul de Gaze Risha", en: "Risha Gas Field",
-image: "/poi-images/risha-gas-field-economic-v2.webp"
-},
+    name: { de: "Risha-Gasfeld", hu: "Risha Gázmező", ro: "Câmpul de Gaze Risha", en: "Risha Gas Field"},
+    image: "/poi-images/risha-gas-field-economic-v2.webp",
     description: { de: "Jordaniens einziges produzierendes Erdgasfeld, gelegen in der östlichen Wüste nahe der irakischen Grenze.", hu: "Jordánia egyetlen termelő földgázmezője a keleti sivatagban, az iraki határ közelében.", ro: "Singurul câmp de gaze naturale în producție din Iordania, situat în deșertul estic, lângă granița cu Irak.", en: "Jordan's only producing natural gas field, located in the eastern desert near the Iraqi border." },
     facts: {
       de: ["Wird von der National Petroleum Company betrieben.", "Liefert Gas direkt an ein nahegelegenes Kraftwerk."],
       hu: ["A Nemzeti Kőolajtársaság üzemelteti.", "Közvetlenül egy közeli erőművet lát el gázzal."],
       ro: ["Este operat de Compania Națională de Petrol.", "Furnizează gaz direct unei centrale electrice din apropiere."],
       en: ["Operated by the National Petroleum Company.", "Supplies gas directly to a nearby power plant."]
-    }, image: "/poi-images/risha-gas-field-economic-v2.webp"},
+    }, image: "/poi-images/risha-gas-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Risha-Gasfeld im Nordosten Jordaniens, nahe der Grenze zu Syrien und dem Irak, ist das einzige bedeutende Erdgasvorkommen des Landes. Es wurde 1987 entdeckt und 2000 in Produktion genommen. Die geschätzten Reserven betragen etwa 10 Mrd. Kubikmeter, die Förderung liegt bei rund 1 Mrd. Kubikmeter jährlich. Das Gas wird hauptsächlich zur Stromerzeugung genutzt, insbesondere im Samra-Kraftwerk. Die Erschließung des Feldes reduzierte Jordaniens Abhängigkeit von Energieimporten erheblich. Die National Petroleum Company (NPC) betreibt die Anlage. Trotz seiner Bedeutung deckt das Feld nur einen Teil des nationalen Gasbedarfs, weshalb Jordanien auch LNG importiert.",
+      hu: "A Risha-gázmező Jordánia északkeleti részén, Szíria és Irak határa közelében található. Ez az ország egyetlen jelentős földgázlelőhelye. 1987-ben fedezték fel, és 2000-ben kezdték meg a kitermelést. A becsült készletek mintegy 10 milliárd köbmétert tesznek ki, az éves kitermelés körülbelül 1 milliárd köbméter. A gázt főként áramtermelésre használják, különösen a Samra erőműben. A mező kiaknázása jelentősen csökkentette Jordánia energiaimport-függőségét. Az üzemeltető a National Petroleum Company (NPC). Jelentősége ellenére a mező csak részben fedezi az ország gázigényét, ezért Jordánia LNG-t is importál.",
+      ro: "Câmpul de gaze Risha, situat în nord-estul Iordaniei, aproape de granița cu Siria și Irak, este singurul zăcământ semnificativ de gaze naturale al țării. A fost descoperit în 1987 și a intrat în producție în 2000. Rezervele estimate sunt de aproximativ 10 miliarde de metri cubi, iar producția anuală este de circa 1 miliard de metri cubi. Gazul este utilizat în principal pentru generarea de electricitate, în special la centrala Samra. Exploatarea acestui câmp a redus semnificativ dependența Iordaniei de importurile de energie. Operatorul este National Petroleum Company (NPC). În ciuda importanței sale, câmpul acoperă doar o parte din necesarul național de gaze, motiv pentru care Iordania importă și GNL.",
+      en: "The Risha Gas Field, located in northeastern Jordan near the Syrian and Iraqi borders, is the country's only significant natural gas reserve. Discovered in 1987 and brought into production in 2000, its estimated reserves are about 10 billion cubic meters, with annual production around 1 billion cubic meters. The gas is primarily used for electricity generation, notably at the Samra power plant. Development of the field has significantly reduced Jordan's dependence on energy imports. The National Petroleum Company (NPC) operates the facility. Despite its importance, the field covers only part of national gas demand, prompting Jordan to also import LNG.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckt: 1987, Produktionsbeginn 2000.", "Geschätzte Reserven: 10 Mrd. Kubikmeter Erdgas.", "Jährliche Förderung: etwa 1 Mrd. Kubikmeter.", "Lage: 300 km nordöstlich von Amman, nahe der Dreiländerecke.", "Fördertiefe: zwischen 2.500 und 3.000 Metern.", "Anteil am jordanischen Gasverbrauch: etwa 20% (Stand 2022)."],
+      hu: ["Felfedezés: 1987, termelés kezdete 2000.", "Becsült készletek: 10 milliárd köbméter földgáz.", "Éves kitermelés: kb. 1 milliárd köbméter.", "Elhelyezkedés: 300 km-re északkeletre Ammantól, a hármas határ közelében.", "Kitermelési mélység: 2500-3000 méter.", "Részesedés Jordánia gázfogyasztásában: kb. 20% (2022-es adat)."],
+      ro: ["Descoperit: 1987, producția a început în 2000.", "Rezerve estimate: 10 miliarde de metri cubi de gaze naturale.", "Producție anuală: aproximativ 1 miliard de metri cubi.", "Locație: 300 km nord-est de Amman, aproape de granița triplă.", "Adâncimea de producție: între 2.500 și 3.000 de metri.", "Ponderea în consumul de gaze al Iordaniei: aproximativ 20% (în 2022)."],
+      en: ["Discovered: 1987, production started in 2000.", "Estimated reserves: 10 billion cubic meters of natural gas.", "Annual production: approximately 1 billion cubic meters.", "Location: 300 km northeast of Amman, near the triple border.", "Production depth: between 2,500 and 3,000 meters.", "Share of Jordan's gas consumption: about 20% (as of 2022)."],
+    },
+  },
   {
     id: "al-hasa-phosphate-mine-economic-v2",
     type: "mine",
     parent: "JO-TA",
     coords: [35.9725, 30.8258],
-    name: { de: "Phosphatmine Al Hasa", hu: "Al Hasa Foszfátbánya", ro: "Mina de Fosfat Al Hasa", en: "Al Hasa Phosphate Mine",
-image: "/poi-images/al-hasa-phosphate-mine-economic-v2.webp"
-},
+    name: { de: "Phosphatmine Al Hasa", hu: "Al Hasa Foszfátbánya", ro: "Mina de Fosfat Al Hasa", en: "Al Hasa Phosphate Mine"},
+    image: "/poi-images/al-hasa-phosphate-mine-economic-v2.webp",
     description: { de: "Ein bedeutender Bergbaustandort in Zentralsüdjordanien, der stark zur Wirtschaft der Region Tafilah beiträgt.", hu: "Jelentős bányászati telephely Közép-Dél-Jordániában, amely erősen hozzájárul Tafila régió gazdaságához.", ro: "Un sit minier major în centrul și sudul Iordaniei, care contribuie puternic la economia regiunii Tafilah.", en: "A major mining site in central-south Jordan, contributing heavily to the economy of the Tafilah region." },
     facts: {
       de: ["Gilt als eine der ältesten Phosphatminen des Landes.", "Wird kontinuierlich modernisiert, um die Effizienz zu steigern."],
       hu: ["Az ország egyik legrégebbi foszfátbányája.", "Folyamatosan modernizálják a hatékonyság növelése érdekében."],
       ro: ["Considerată una dintre cele mai vechi mine de fosfat din țară.", "Este modernizată continuu pentru a crește eficiența."],
       en: ["Considered one of the oldest phosphate mines in the country.", "Continuously modernized to increase efficiency."]
-    }, image: "/poi-images/al-hasa-phosphate-mine-economic-v2.webp"},
+    }, image: "/poi-images/al-hasa-phosphate-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Hasa-Phosphatmine im Süden Jordaniens ist eine der größten Phosphatminen der Welt und ein zentraler Bestandteil der jordanischen Bergbauindustrie. Sie liegt etwa 200 km südlich von Amman und wird von der Jordan Phosphate Mines Company (JPMC) betrieben. Die Mine fördert jährlich rund 7 Millionen Tonnen Phosphat, das überwiegend exportiert wird, vor allem nach Indien, China und in die USA. Jordanien verfügt über die drittgrößten Phosphatreserven weltweit, die meisten davon im Raum Al-Hasa. Der Abbau erfolgt im Tagebau. Die Phosphatförderung trägt wesentlich zum Bruttoinlandsprodukt bei und schafft Tausende Arbeitsplätze in der Region.",
+      hu: "Az Al-Hasa foszfátbánya Jordánia déli részén, Ammantól mintegy 200 km-re található. Ez a világ egyik legnagyobb foszfátbányája, és a jordán bányászat központi eleme. A Jordan Phosphate Mines Company (JPMC) üzemelteti. A bánya évente körülbelül 7 millió tonna foszfátot termel, amelyet többnyire exportálnak, főként Indiába, Kínába és az USA-ba. Jordánia a harmadik legnagyobb foszfátkészlettel rendelkezik a világon, ezek nagy része az Al-Hasa térségben található. A kitermelés külszíni fejtéssel történik. A foszfátbányászat jelentősen hozzájárul a GDP-hez és több ezer munkahelyet teremt a régióban.",
+      ro: "Mina de fosfat Al-Hasa, situată în sudul Iordaniei, la aproximativ 200 km sud de Amman, este una dintre cele mai mari mine de fosfat din lume și o componentă centrală a industriei miniere iordaniene. Este operată de Jordan Phosphate Mines Company (JPMC). Mina produce anual aproximativ 7 milioane de tone de fosfat, majoritatea fiind exportată, în principal în India, China și SUA. Iordania deține a treia cea mai mare rezervă de fosfat din lume, cea mai mare parte în zona Al-Hasa. Exploatarea se face în carieră deschisă. Mineritul de fosfat contribuie semnificativ la PIB și creează mii de locuri de muncă în regiune.",
+      en: "The Al-Hasa Phosphate Mine in southern Jordan, about 200 km south of Amman, is one of the world's largest phosphate mines and a cornerstone of Jordan's mining industry. Operated by the Jordan Phosphate Mines Company (JPMC), it produces approximately 7 million tonnes of phosphate annually, mostly for export to India, China, and the USA. Jordan holds the world's third-largest phosphate reserves, most concentrated in the Al-Hasa area. Mining is conducted via open-pit methods. Phosphate extraction significantly contributes to the GDP and provides thousands of jobs in the region.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Produktion: 7 Millionen Tonnen (Stand 2023).", "Reserven: über 1,2 Milliarden Tonnen Phosphatgestein.", "Gründung der Mine: 1960er Jahre, systematischer Abbau seit 1970.", "Mitarbeiterzahl: rund 4.000 direkte Arbeitsplätze.", "Exportanteil: etwa 80% der Produktion wird exportiert.", "Niederschlagsmenge in der Region: unter 100 mm pro Jahr, arides Klima."],
+      hu: ["Éves termelés: 7 millió tonna (2023-as adat).", "Készletek: több mint 1,2 milliárd tonna foszfátkőzet.", "A bánya alapítása: az 1960-as évek, rendszeres kitermelés 1970-től.", "Alkalmazottak száma: kb. 4000 közvetlen munkahely.", "Export aránya: a termelés kb. 80%-a kerül exportra.", "A régió éves csapadékmennyisége: kevesebb mint 100 mm, száraz éghajlat."],
+      ro: ["Producție anuală: 7 milioane de tone (începând cu 2023).", "Rezerve: peste 1,2 miliarde de tone de rocă fosfatică.", "Înființarea minei: anii 1960, exploatare sistematică din 1970.", "Număr de angajați: aproximativ 4.000 de locuri de muncă directe.", "Ponderea exportului: circa 80% din producție este exportată.", "Precipitații anuale în regiune: sub 100 mm, climat arid."],
+      en: ["Annual production: 7 million tonnes (as of 2023).", "Reserves: over 1.2 billion tonnes of phosphate rock.", "Mine established: 1960s, systematic mining since 1970.", "Workforce: approximately 4,000 direct jobs.", "Export share: about 80% of production is exported.", "Annual rainfall in the region: less than 100 mm, arid climate."],
+    },
+  },
   {
     id: "jifco-fertilizer-plant-economic-v2",
     type: "industry",
     parent: "JO-MN",
     coords: [36.1700, 29.7420],
-    name: { de: "Jordan India Fertilizer Company (JIFCO)", hu: "Jordán-Indiai Műtrágyagyár (JIFCO)", ro: "Fabrica de Îngrășăminte JIFCO", en: "Jordan India Fertilizer Company (JIFCO)",
-image: "/poi-images/jifco-fertilizer-plant-economic-v2.webp"
-},
+    name: { de: "Jordan India Fertilizer Company (JIFCO)", hu: "Jordán-Indiai Műtrágyagyár (JIFCO)", ro: "Fabrica de Îngrășăminte JIFCO", en: "Jordan India Fertilizer Company (JIFCO)"},
+    image: "/poi-images/jifco-fertilizer-plant-economic-v2.webp",
     description: { de: "Ein Joint Venture, das Phosphorsäure aus lokalen Phosphaterzen für den Export nach Indien herstellt.", hu: "Egy vegyesvállalat, amely foszforsavat állít elő helyi foszfátércekből indiai exportra.", ro: "Un joint venture care produce acid fosforic din minereuri locale de fosfat pentru export în India.", en: "A joint venture that produces phosphoric acid from local phosphate ores for export to India." },
     facts: {
       de: ["Beispiel für erfolgreiche internationale Wirtschaftskooperation.", "Liegt strategisch günstig nahe der Eshidiya-Mine."],
       hu: ["A sikeres nemzetközi gazdasági együttműködés példája.", "Stratégiailag az Esidija bánya közelében helyezkedik el."],
       ro: ["Exemplu de cooperare economică internațională de succes.", "Situat strategic lângă mina Eshidiya."],
       en: ["Example of successful international economic cooperation.", "Strategically located near the Eshidiya mine."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das JIFCO-Düngemittelwerk (Jordan India Fertilizer Company) ist ein Gemeinschaftsunternehmen zwischen Jordanien und Indien in Aqaba. Es wurde 2008 gegründet und produziert jährlich rund 4 Millionen Tonnen Düngemittel, hauptsächlich Di-Ammoniumphosphat (DAP) und Harnstoff. Das Werk nutzt jordanisches Phosphat und importierten Schwefel sowie Erdgas zur Herstellung. JIFCO ist eines der größten Düngemittelwerke im Nahen Osten und exportiert seine Produkte weltweit, besonders nach Indien und in asiatische Märkte. Die Anlage beschäftigt etwa 1.500 Mitarbeiter und trägt zur wirtschaftlichen Diversifizierung Jordaniens bei.",
+      hu: "A JIFCO (Jordan India Fertilizer Company) műtrágyagyár egy közös vállalkozás Jordánia és India között Aqabában. 2008-ban alapították, éves kapacitása mintegy 4 millió tonna műtrágya, főként diammónium-foszfát (DAP) és karbamid. A gyár jordán foszfátot, importált ként és földgázt használ fel. A JIFCO a Közel-Kelet egyik legnagyobb műtrágyagyára, termékeit világszerte exportálja, különösen Indiába és más ázsiai piacokra. A létesítmény mintegy 1500 főt foglalkoztat, és hozzájárul Jordánia gazdasági diverzifikációjához.",
+      ro: "Fabrica de îngrășăminte JIFCO (Jordan India Fertilizer Company) este o întreprindere comună între Iordania și India, situată în Aqaba. A fost înființată în 2008 și produce anual aproximativ 4 milioane de tone de îngrășăminte, în principal fosfat diamoniu (DAP) și uree. Fabrica utilizează fosfat iordanian, sulf importat și gaze naturale. JIFCO este una dintre cele mai mari fabrici de îngrășăminte din Orientul Mijlociu, exportând produsele la nivel global, în special în India și piețele asiatice. Unitatea angajează aproximativ 1.500 de persoane și contribuie la diversificarea economică a Iordaniei.",
+      en: "The JIFCO (Jordan India Fertilizer Company) plant is a joint venture between Jordan and India located in Aqaba. Established in 2008, it produces approximately 4 million tonnes of fertilizers annually, mainly diammonium phosphate (DAP) and urea. The plant uses Jordanian phosphate, imported sulfur, and natural gas. JIFCO is one of the largest fertilizer plants in the Middle East, exporting globally, especially to India and Asian markets. It employs around 1,500 people and contributes to Jordan's economic diversification.",
+    },
+    factsAdvanced: {
+      de: ["Produktionskapazität: 4 Millionen Tonnen Dünger pro Jahr.", "Investitionskosten: über 1 Milliarde US-Dollar.", "Eigentümer: Jordan Phosphate Mines Co. (50%) und indische Unternehmen (50%).", "Hauptprodukte: DAP (2,2 Mio. t) und Harnstoff (1,8 Mio. t).", "Standort: Hafen von Aqaba, Nutzung von Schüttgutverladeanlagen.", "Inbetriebnahme: 2010, volle Kapazität 2012 erreicht."],
+      hu: ["Termelési kapacitás: évi 4 millió tonna műtrágya.", "Beruházási költségek: több mint 1 milliárd amerikai dollár.", "Tulajdonosok: Jordan Phosphate Mines Co. (50%) és indiai vállalatok (50%).", "Fő termékek: DAP (2,2 millió t) és karbamid (1,8 millió t).", "Helyszín: Aqabai kikötő, ömlesztettáru-rakodó létesítményekkel.", "Üzembe helyezés: 2010, teljes kapacitás 2012-ben."],
+      ro: ["Capacitate de producție: 4 milioane de tone de îngrășăminte pe an.", "Costul investiției: peste 1 miliard de dolari SUA.", "Proprietari: Jordan Phosphate Mines Co. (50%) și companii indiene (50%).", "Produse principale: DAP (2,2 milioane t) și uree (1,8 milioane t).", "Locație: Portul Aqaba, utilizând instalații de încărcare vrac.", "Punerea în funcțiune: 2010, capacitate maximă atinsă în 2012."],
+      en: ["Production capacity: 4 million tonnes of fertilizer per year.", "Investment cost: over $1 billion USD.", "Owners: Jordan Phosphate Mines Co. (50%) and Indian companies (50%).", "Main products: DAP (2.2 million t) and urea (1.8 million t).", "Location: Port of Aqaba, utilizing bulk loading facilities.", "Commissioned: 2010, full capacity reached in 2012."],
+    },
   },
   {
     id: "aqaba-new-port-economic-v2",
     type: "port",
     parent: "JO-AQ",
     coords: [34.9786, 29.4311],
-    name: { de: "Neuer Hafen von Akaba", hu: "Akabai Új Kikötő", ro: "Noul Port Aqaba", en: "Aqaba New Port",
-image: "/poi-images/aqaba-new-port-economic-v2.webp"
-},
+    name: { de: "Neuer Hafen von Akaba", hu: "Akabai Új Kikötő", ro: "Noul Port Aqaba", en: "Aqaba New Port"},
+    image: "/poi-images/aqaba-new-port-economic-v2.webp",
     description: { de: "Eine hochmoderne Hafenanlage, die gebaut wurde, um die maritimen Kapazitäten Jordaniens zu erweitern.", hu: "Korszerű kikötői létesítmény, amely Jordánia tengeri kapacitásának bővítésére épült.", ro: "O facilitate portuară de ultimă generație construită pentru a extinde capacitățile maritime ale Iordaniei.", en: "A state-of-the-art port facility built to expand Jordan's maritime capacities." },
     facts: {
       de: ["Ersetzte den alten Haupthafen in der Innenstadt.", "Umfasst spezialisierte Terminals für verschiedene Güter."],
       hu: ["Felváltotta a régi belvárosi fő kikötőt.", "Speciális terminálokkal rendelkezik a különböző áruk számára."],
       ro: ["A înlocuit vechiul port principal din centrul orașului.", "Include terminale specializate pentru diferite mărfuri."],
       en: ["Replaced the old main port in the city center.", "Includes specialized terminals for various goods."]
-    }, image: "/poi-images/aqaba-new-port-economic-v2.webp"},
+    }, image: "/poi-images/aqaba-new-port-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der neue Hafen von Aqaba, auch bekannt als Aqaba New Port, ist ein moderner Container- und Frachthafen am Roten Meer, etwa 15 km südlich der Innenstadt von Aqaba. Er wurde 2014 eröffnet und ersetzt den alten Hafen, um steigende Handelsvolumen zu bewältigen. Der Hafen hat eine Kapazität von über 1,5 Millionen TEU pro Jahr und dient als wichtigster Seehafen Jordaniens für Im- und Exporte, insbesondere für Phosphat, Kali und Düngemittel. Er ist Teil der Aqaba Special Economic Zone (ASEZ) und bietet direkte Anbindung an das Schienennetz. Der Hafen beschäftigt direkt und indirekt Tausende von Menschen und ist ein zentraler Knotenpunkt für den Handel mit dem Irak und anderen Nachbarländern.",
+      hu: "Az új aqabai kikötő, más néven Aqaba New Port, egy modern konténer- és teherkikötő a Vörös-tengeren, Aqaba belvárosától mintegy 15 km-re délre. 2014-ben nyitották meg, hogy lecserélje a régi kikötőt, és kezelje a növekvő kereskedelmi forgalmat. A kikötő évi 1,5 millió TEU kapacitással rendelkezik, és Jordánia legfontosabb tengeri kikötője az import és export számára, különösen foszfát, káli só és műtrágyák tekintetében. Az Aqaba Special Economic Zone (ASEZ) része, és közvetlen vasúti kapcsolattal rendelkezik. A kikötő közvetlenül és közvetve több ezer embert foglalkoztat, és kulcsfontosságú csomópont az Irakkal és más szomszédos országokkal folytatott kereskedelemben.",
+      ro: "Noul port Aqaba, cunoscut și ca Aqaba New Port, este un port modern de containere și mărfuri situat pe Marea Roșie, la aproximativ 15 km sud de centrul orașului Aqaba. A fost deschis în 2014 pentru a înlocui portul vechi și a face față volumelor comerciale în creștere. Portul are o capacitate de peste 1,5 milioane TEU pe an și servește drept principalul port maritim al Iordaniei pentru importuri și exporturi, în special fosfat, potasă și îngrășăminte. Face parte din Zona Economică Specială Aqaba (ASEZ) și are conexiune directă la rețeaua feroviară. Portul angajează direct și indirect mii de oameni și este un hub central pentru comerțul cu Irak și alte țări vecine.",
+      en: "The Aqaba New Port, located on the Red Sea about 15 km south of central Aqaba, is a modern container and cargo port opened in 2014 to replace the old port and handle growing trade volumes. It has a capacity of over 1.5 million TEUs per year and serves as Jordan's primary seaport for imports and exports, especially phosphate, potash, and fertilizers. It is part of the Aqaba Special Economic Zone (ASEZ) and connects directly to the railway network. The port employs thousands directly and indirectly and is a central hub for trade with Iraq and other neighboring countries.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 2014, Baukosten 650 Millionen US-Dollar.", "Jährliche Container-Kapazität: 1,5 Millionen TEU.", "Gesamtfläche: 700 Hektar.", "Wassertiefe: bis zu 18 Meter, geeignet für Großcontainerschiffe.", "Jährlicher Frachtumschlag: über 20 Millionen Tonnen (2022).", "Anschluss an die nationale Eisenbahn: seit 2017."],
+      hu: ["Megnyitás: 2014, építési költség 650 millió USD.", "Éves konténerkapacitás: 1,5 millió TEU.", "Teljes terület: 700 hektár.", "Vízmélység: akár 18 méter, alkalmas nagy konténerhajók számára.", "Éves áruforgalom: több mint 20 millió tonna (2022).", "Kapcsolat a nemzeti vasúttal: 2017 óta."],
+      ro: ["Deschidere: 2014, cost de construcție 650 milioane dolari SUA.", "Capacitate anuală de containere: 1,5 milioane TEU.", "Suprafață totală: 700 de hectare.", "Adâncimea apei: până la 18 metri, potrivită pentru nave container mari.", "Manipulare anuală de marfă: peste 20 de milioane de tone (2022).", "Conexiune la calea ferată națională: din 2017."],
+      en: ["Opened: 2014, construction cost $650 million USD.", "Annual container capacity: 1.5 million TEU.", "Total area: 700 hectares.", "Water depth: up to 18 meters, suitable for large container ships.", "Annual cargo throughput: over 20 million tonnes (2022).", "Rail connection to national network: since 2017."],
+    },
+  },
   {
     id: "baynouna-solar-power-project-economic-v2",
     type: "energy",
     parent: "JO-AM",
     coords: [36.1283, 31.7456],
-    name: { de: "Solarpark Baynouna", hu: "Baynouna Naperőmű", ro: "Proiectul Solar Baynouna", en: "Baynouna Solar Power Project",
-image: "/poi-images/baynouna-solar-power-project-economic-v2.webp"
-},
+    name: { de: "Solarpark Baynouna", hu: "Baynouna Naperőmű", ro: "Proiectul Solar Baynouna", en: "Baynouna Solar Power Project"},
+    image: "/poi-images/baynouna-solar-power-project-economic-v2.webp",
     description: { de: "Das größte Solarenergieprojekt in Jordanien, gelegen östlich von Amman, das erheblich zur grünen Wende beiträgt.", hu: "A legnagyobb napenergia-projekt Jordániában, Ammántól keletre, amely jelentősen hozzájárul a zöld átálláshoz.", ro: "Cel mai mare proiect de energie solară din Iordania, situat la est de Amman, contribuind semnificativ la tranziția verde.", en: "The largest solar energy project in Jordan, located east of Amman, contributing significantly to the green transition." },
     facts: {
       de: ["Erzeugt genug Strom, um Tausende Haushalte zu versorgen.", "Wurde von einem internationalen Konsortium finanziert."],
       hu: ["Elegendő áramot termel több ezer háztartás ellátásához.", "Egy nemzetközi konzorcium finanszírozta."],
       ro: ["Generează suficientă energie electrică pentru a alimenta mii de gospodării.", "A fost finanțat de un consorțiu internațional."],
       en: ["Generates enough electricity to power thousands of homes.", "Was financed by an international consortium."]
-    }, image: "/poi-images/baynouna-solar-power-project-economic-v2.webp"},
+    }, image: "/poi-images/baynouna-solar-power-project-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Baynouna-Solarkraftwerk ist ein 200-MW-Photovoltaik-Projekt in Zentraljordanien, etwa 20 km südöstlich von Amman. Es wurde 2020 in Betrieb genommen und ist eines der größten Solarkraftwerke im Nahen Osten. Das Projekt wurde im Rahmen der jordanischen Energiewende entwickelt, um den Anteil erneuerbarer Energien am Strommix zu erhöhen. Betreiber ist die Baynouna Solar Energy Company, ein Joint Venture mit Beteiligung des jordanischen Stromunternehmens NEPCO und internationalen Investoren. Die Anlage erstreckt sich über 4 Quadratkilometer und produziert jährlich rund 400 GWh sauberen Strom, genug für 160.000 Haushalte. Das Projekt reduziert die CO2-Emissionen um etwa 260.000 Tonnen pro Jahr.",
+      hu: "A Baynouna naperőmű egy 200 MW teljesítményű fotovoltaikus projekt Közép-Jordániában, Ammantól mintegy 20 km-re délkeletre. 2020-ban helyezték üzembe, és a Közel-Kelet egyik legnagyobb naperőműve. A projekt Jordánia energiaátállásának része, célja a megújuló energiaforrások arányának növelése az áramtermelésben. Az üzemeltető a Baynouna Solar Energy Company, amelyben a jordán NEPCO és nemzetközi befektetők is részt vesznek. A létesítmény 4 négyzetkilométeren terül el, éves termelése kb. 400 GWh tiszta áram, ami 160 000 háztartás számára elegendő. A projekt évente mintegy 260 000 tonna CO2-kibocsátást takarít meg.",
+      ro: "Centrala solară Baynouna este un proiect fotovoltaic de 200 MW situat în centrul Iordaniei, la aproximativ 20 km sud-est de Amman. A fost pusă în funcțiune în 2020 și este una dintre cele mai mari centrale solare din Orientul Mijlociu. Proiectul face parte din tranziția energetică a Iordaniei, vizând creșterea ponderii energiei regenerabile. Operatorul este Baynouna Solar Energy Company, un joint venture cu participarea NEPCO și a investitorilor internaționali. Instalația se întinde pe 4 kilometri pătrați și produce anual aproximativ 400 GWh de energie curată, suficientă pentru 160.000 de gospodării. Proiectul reduce emisiile de CO2 cu aproximativ 260.000 de tone pe an.",
+      en: "The Baynouna Solar Power Project is a 200 MW photovoltaic installation in central Jordan, about 20 km southeast of Amman. Commissioned in 2020, it is one of the largest solar plants in the Middle East. The project is part of Jordan's energy transition to increase renewable energy share. Operated by Baynouna Solar Energy Company, a joint venture including Jordan's NEPCO and international investors, the facility covers 4 square kilometers and generates about 400 GWh annually, enough for 160,000 homes. It reduces CO2 emissions by approximately 260,000 tonnes per year.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 200 MW (Gleichstromseite 240 MWp).", "Jährliche Stromproduktion: 400 GWh.", "Reduktion der CO2-Emissionen: 260.000 Tonnen pro Jahr.", "Investitionsvolumen: 300 Millionen US-Dollar.", "Anzahl der Solarmodule: rund 600.000.", "Baubeginn: 2018, Netzsynchronisation: Februar 2020."],
+      hu: ["Beépített teljesítmény: 200 MW (egyenáramú oldal 240 MWp).", "Éves villamosenergia-termelés: 400 GWh.", "CO2-kibocsátás csökkentése: 260 000 tonna évente.", "Beruházási összeg: 300 millió USD.", "Napelemek száma: kb. 600 000.", "Építés kezdete: 2018, hálózatra kapcsolás: 2020. február."],
+      ro: ["Capacitate instalată: 200 MW (partea de curent continuu 240 MWp).", "Producție anuală de electricitate: 400 GWh.", "Reducerea emisiilor de CO2: 260.000 de tone pe an.", "Volumul investiției: 300 de milioane de dolari SUA.", "Număr de panouri solare: aproximativ 600.000.", "Începutul construcției: 2018, sincronizare la rețea: februarie 2020."],
+      en: ["Installed capacity: 200 MW (DC side 240 MWp).", "Annual electricity generation: 400 GWh.", "CO2 emission reduction: 260,000 tonnes per year.", "Investment volume: $300 million USD.", "Number of solar panels: approximately 600,000.", "Construction start: 2018, grid connection: February 2020."],
+    },
+  },
   {
     id: "zarqa-free-zone-economic-v2",
     type: "trade-hub",
     parent: "JO-AZ",
     coords: [36.1605, 32.0911],
-    name: { de: "Freihandelszone Zarqa", hu: "Zarkai Szabadkereskedelmi Övezet", ro: "Zona Liberă Zarqa", en: "Zarqa Free Zone",
-image: "/poi-images/zarqa-free-zone-economic-v2.webp"
-},
+    name: { de: "Freihandelszone Zarqa", hu: "Zarkai Szabadkereskedelmi Övezet", ro: "Zona Liberă Zarqa", en: "Zarqa Free Zone"},
+    image: "/poi-images/zarqa-free-zone-economic-v2.webp",
     description: { de: "Ein bedeutendes Logistikzentrum für den regionalen Handel, insbesondere für den Import und Export von Fahrzeugen.", hu: "Jelentős logisztikai központ a regionális kereskedelem számára, különösen a járművek importja és exportja terén.", ro: "Un centru logistic major pentru comerțul regional, în special pentru importul și exportul de vehicule.", en: "A major logistics center for regional trade, especially for the import and export of vehicles." },
     facts: {
       de: ["Einer der größten Automärkte im Nahen Osten.", "Bietet steuerliche Anreize für in- und ausländische Investoren."],
       hu: ["A Közel-Kelet egyik legnagyobb autópiaca.", "Adókedvezményeket kínál a hazai és külföldi befektetőknek."],
       ro: ["Una dintre cele mai mari piețe auto din Orientul Mijlociu.", "Oferă stimulente fiscale pentru investitorii interni și străini."],
       en: ["One of the largest car markets in the Middle East.", "Offers tax incentives for domestic and foreign investors."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Zarqa Free Zone (ZFZ) ist eine der ältesten und größten Freihandelszonen Jordaniens, etwa 30 km nordöstlich von Amman gelegen. Sie wurde 1983 gegründet und erstreckt sich über 3 Quadratkilometer. Die Zone bietet Steuerbefreiungen, zollfreie Importe und vereinfachte Verfahren für Unternehmen aus den Bereichen Logistik, Leichtindustrie und Handel. Über 500 Unternehmen sind dort ansässig, darunter viele internationale Firmen. Der Binnenhafen von Zarqa (Dry Port) ist ein wichtiger Logistikknotenpunkt für den Warenverkehr zwischen Jordanien, dem Irak und Syrien. Die ZFZ beschäftigt tausende Arbeitskräfte und trägt erheblich zur Wirtschaft bei.",
+      hu: "A Zarqa Free Zone (ZFZ) Jordánia egyik legrégebbi és legnagyobb szabadkereskedelmi övezete, Ammantól mintegy 30 km-re északkeletre. 1983-ban alapították, területe 3 négyzetkilométer. Az övezet adómentességet, vámmentes importot és egyszerűsített eljárásokat kínál a logisztikai, könnyűipari és kereskedelmi vállalatok számára. Több mint 500 cég telepedett itt meg, köztük sok nemzetközi. A zarqai szárazkikötő (Dry Port) fontos logisztikai csomópont a Jordánia, Irak és Szíria közötti áruforgalomban. A ZFZ több ezer munkahelyet teremt, és jelentősen hozzájárul a gazdasághoz.",
+      ro: "Zona Liberă Zarqa (ZFZ) este una dintre cele mai vechi și mai mari zone libere din Iordania, situată la aproximativ 30 km nord-est de Amman. A fost înființată în 1983 și se întinde pe 3 kilometri pătrați. Zona oferă scutiri de taxe, importuri fără taxe vamale și proceduri simplificate pentru companii din domeniul logisticii, industriei ușoare și comerțului. Peste 500 de companii sunt stabilite acolo, inclusiv multe firme internaționale. Portul uscat Zarqa este un nod logistic important pentru fluxul de mărfuri între Iordania, Irak și Siria. ZFZ angajează mii de oameni și contribuie semnificativ la economie.",
+      en: "The Zarqa Free Zone (ZFZ) is one of Jordan's oldest and largest free trade zones, located about 30 km northeast of Amman. Established in 1983, it covers 3 square kilometers. The zone offers tax exemptions, duty-free imports, and simplified procedures for logistics, light industry, and trading companies. Over 500 companies are based there, including many international firms. The Zarqa Dry Port serves as a major logistics hub for goods movement between Jordan, Iraq, and Syria. ZFZ employs thousands and contributes substantially to the economy.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1983.", "Gesamtfläche: 3 km².", "Im Freihafen befinden sich über 500 Unternehmen.", "Jährliches Handelsvolumen: über 5 Milliarden US-Dollar.", "Mitarbeiterzahl: rund 10.000 Beschäftigte.", "Entfernung zum jordanischen Hauptseehafen Aqaba: 320 km."],
+      hu: ["Alapítás éve: 1983.", "Teljes terület: 3 km².", "Több mint 500 vállalat működik a szabadövezetben.", "Éves kereskedelmi forgalom: több mint 5 milliárd USD.", "Foglalkoztatottak száma: kb. 10 000 fő.", "Távolság a jordán fő tengeri kikötőtől, Aqabától: 320 km."],
+      ro: ["Anul înființării: 1983.", "Suprafață totală: 3 km².", "Peste 500 de companii activează în zona liberă.", "Volum anual de comerț: peste 5 miliarde de dolari SUA.", "Număr de angajați: aproximativ 10.000 de persoane.", "Distanța față de principalul port maritim al Iordaniei, Aqaba: 320 km."],
+      en: ["Year established: 1983.", "Total area: 3 km².", "Over 500 companies operate in the free zone.", "Annual trade volume: over $5 billion USD.", "Employment: approximately 10,000 workers.", "Distance to Jordan's main seaport Aqaba: 320 km."],
+    },
   }
 ];

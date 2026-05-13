@@ -10,9 +10,8 @@ export const poiExtraSeychellesCitiesV2: POI[] = [
       de: "Victoria",
       hu: "Victoria",
       ro: "Victoria",
-      en: "Victoria",
-image: "/poi-images/sc-victoria-cities-v2.webp"
-},
+      en: "Victoria"},
+    image: "/poi-images/sc-victoria-cities-v2.webp",
     description: {
       de: "Victoria ist die Hauptstadt der Seychellen und eine der kleinsten Hauptstädte der Welt, bekannt für ihren britischen Kolonialcharme.",
       hu: "Victoria a Seychelle-szigetek fővárosa és a világ egyik legkisebb fővárosa, amely brit gyarmati bájáról ismert.",
@@ -40,9 +39,8 @@ image: "/poi-images/sc-victoria-cities-v2.webp"
       de: "Anse Boileau",
       hu: "Anse Boileau",
       ro: "Anse Boileau",
-      en: "Anse Boileau",
-image: "/poi-images/sc-anse-boileau-cities-v2.webp"
-},
+      en: "Anse Boileau"},
+    image: "/poi-images/sc-anse-boileau-cities-v2.webp",
     description: {
       de: "Ein ruhiges Küstendorf an der Westküste von Mahé, eingebettet zwischen Bergen und dem Meer.",
       hu: "Egy csendes tengerparti falu Mahé nyugati partján, a hegyek és a tenger közé ékelődve.",
@@ -70,9 +68,8 @@ image: "/poi-images/sc-anse-boileau-cities-v2.webp"
       de: "Beau Vallon",
       hu: "Beau Vallon",
       ro: "Beau Vallon",
-      en: "Beau Vallon",
-image: "/poi-images/sc-beau-vallon-cities-v2.webp"
-},
+      en: "Beau Vallon"},
+    image: "/poi-images/sc-beau-vallon-cities-v2.webp",
     description: {
       de: "Einer der beliebtesten Touristenorte auf Mahé, bekannt für seinen langen Sandstrand und Wassersport.",
       hu: "Mahé egyik legnépszerűbb turisztikai célpontja, amely hosszú homokos strandjáról és vízi sportjairól ismert.",
@@ -100,9 +97,8 @@ image: "/poi-images/sc-beau-vallon-cities-v2.webp"
       de: "Anse Royale",
       hu: "Anse Royale",
       ro: "Anse Royale",
-      en: "Anse Royale",
-image: "/poi-images/sc-anse-royale-cities-v2.webp"
-},
+      en: "Anse Royale"},
+    image: "/poi-images/sc-anse-royale-cities-v2.webp",
     description: {
       de: "Ein bedeutendes regionales Zentrum im Süden von Mahé mit einer reichen Geschichte und schönen Stränden.",
       hu: "Fontos regionális központ Mahé déli részén, gazdag történelemmel és gyönyörű strandokkal.",
@@ -130,9 +126,8 @@ image: "/poi-images/sc-anse-royale-cities-v2.webp"
       de: "Cascade",
       hu: "Cascade",
       ro: "Cascade",
-      en: "Cascade",
-image: "/poi-images/sc-cascade-cities-v2.webp"
-},
+      en: "Cascade"},
+    image: "/poi-images/sc-cascade-cities-v2.webp",
     description: {
       de: "Ein Bezirk an der Ostküste von Mahé, benannt nach den Wasserfällen, die aus den Hügeln herabstürzen.",
       hu: "Mahé keleti partján fekvő körzet, amely a dombokról lezúduló vízesésekről kapta a nevét.",
@@ -160,9 +155,8 @@ image: "/poi-images/sc-cascade-cities-v2.webp"
       de: "Anse Etoile",
       hu: "Anse Etoile",
       ro: "Anse Etoile",
-      en: "Anse Etoile",
-image: "/poi-images/sc-anse-etoile-cities-v2.webp"
-},
+      en: "Anse Etoile"},
+    image: "/poi-images/sc-anse-etoile-cities-v2.webp",
     description: {
       de: "Ein bevölkerungsreicher Bezirk nördlich von Victoria mit Blick auf den Indischen Ozean.",
       hu: "Népes körzet Victoriától északra, kilátással az Indiai-óceánra.",
@@ -190,9 +184,8 @@ image: "/poi-images/sc-anse-etoile-cities-v2.webp"
       de: "Glacis",
       hu: "Glacis",
       ro: "Glacis",
-      en: "Glacis",
-image: "/poi-images/sc-glacis-cities-v2.webp"
-},
+      en: "Glacis"},
+    image: "/poi-images/sc-glacis-cities-v2.webp",
     description: {
       de: "Ein malerischer Bezirk an der Nordspitze von Mahé, bekannt für seine Granitfelsen und versteckten Buchten.",
       hu: "Gleccseres tájra emlékeztető gránitszikláiról és rejtett öbleiről ismert festői körzet Mahé északi csúcsán.",
@@ -220,9 +213,8 @@ image: "/poi-images/sc-glacis-cities-v2.webp"
       de: "Bel Ombre",
       hu: "Bel Ombre",
       ro: "Bel Ombre",
-      en: "Bel Ombre",
-image: "/poi-images/sc-bel-ombre-cities-v2.webp"
-},
+      en: "Bel Ombre"},
+    image: "/poi-images/sc-bel-ombre-cities-v2.webp",
     description: {
       de: "Ein Küstendorf im Nordwesten von Mahé, Ausgangspunkt für Wanderungen zum abgelegenen Strand Anse Major.",
       hu: "Kustmenti falu Mahé északnyugati részén, az elszigetelt Anse Major strandhoz vezető túrák kiindulópontja.",
@@ -250,9 +242,8 @@ image: "/poi-images/sc-bel-ombre-cities-v2.webp"
       de: "Grand Anse (Praslin)",
       hu: "Grand Anse (Praslin)",
       ro: "Grand Anse (Praslin)",
-      en: "Grand Anse (Praslin)",
-image: "/poi-images/sc-grand-anse-praslin-cities-v2.webp"
-},
+      en: "Grand Anse (Praslin)"},
+    image: "/poi-images/sc-grand-anse-praslin-cities-v2.webp",
     description: {
       de: "Die größte Siedlung auf der Insel Praslin mit einem langen Sandstrand und dem Inselflughafen.",
       hu: "Praslin szigetének legnagyobb települése, hosszú homokos stranddal és a sziget repülőterével.",
@@ -281,9 +272,8 @@ image: "/poi-images/sc-grand-anse-praslin-cities-v2.webp"
       de: "Baie Sainte Anne",
       hu: "Baie Sainte Anne",
       ro: "Baie Sainte Anne",
-      en: "Baie Sainte Anne",
-image: "/poi-images/sc-baie-sainte-anne-cities-v2.webp"
-},
+      en: "Baie Sainte Anne"},
+    image: "/poi-images/sc-baie-sainte-anne-cities-v2.webp",
     description: {
       de: "Das Tor zur Insel Praslin, wo die meisten Fähren anlegen, und ein wichtiges Handelszentrum.",
       hu: "Praslin szigetének kapuja, ahol a legtöbb komp kiköt, és fontos kereskedelmi központ.",
@@ -312,9 +302,8 @@ image: "/poi-images/sc-baie-sainte-anne-cities-v2.webp"
       de: "La Passe",
       hu: "La Passe",
       ro: "La Passe",
-      en: "La Passe",
-image: "/poi-images/sc-la-passe-cities-v2.webp"
-},
+      en: "La Passe"},
+    image: "/poi-images/sc-la-passe-cities-v2.webp",
     description: {
       de: "Das Hauptdorf auf La Digue, wo sich der Hafen befindet und das Inselleben pulsiert.",
       hu: "La Digue fő faluja, ahol a kikötő található, és ahol a szigeti élet lüktet.",
@@ -342,9 +331,8 @@ image: "/poi-images/sc-la-passe-cities-v2.webp"
       de: "Port Glaud",
       hu: "Port Glaud",
       ro: "Port Glaud",
-      en: "Port Glaud",
-image: "/poi-images/sc-port-glaud-cities-v2.webp"
-},
+      en: "Port Glaud"},
+    image: "/poi-images/sc-port-glaud-cities-v2.webp",
     description: {
       de: "Ein ruhiges Dorf an der Westküste von Mahé mit wunderschönen Ausblicken auf die vorgelagerten Inseln.",
       hu: "Csendes falu Mahé nyugati partján, csodálatos kilátással a közeli szigetekre.",
@@ -372,9 +360,8 @@ image: "/poi-images/sc-port-glaud-cities-v2.webp"
       de: "Takamaka",
       hu: "Takamaka",
       ro: "Takamaka",
-      en: "Takamaka",
-image: "/poi-images/sc-takamaka-cities-v2.webp"
-},
+      en: "Takamaka"},
+    image: "/poi-images/sc-takamaka-cities-v2.webp",
     description: {
       de: "Ein Bezirk im äußersten Süden von Mahé, benannt nach den charakteristischen Takamaka-Bäumen.",
       hu: "Mahé legdélebbi körzete, amely a jellegzetes takamaka fákról kapta a nevét.",
@@ -402,9 +389,8 @@ image: "/poi-images/sc-takamaka-cities-v2.webp"
       de: "Baie Lazare",
       hu: "Baie Lazare",
       ro: "Baie Lazare",
-      en: "Baie Lazare",
-image: "/poi-images/sc-baie-lazare-cities-v2.webp"
-},
+      en: "Baie Lazare"},
+    image: "/poi-images/sc-baie-lazare-cities-v2.webp",
     description: {
       de: "Benannt nach dem Entdecker Lazare Picault, ist dieser Ort für seine historische Kirche und türkisfarbenen Buchten bekannt.",
       hu: "Lazare Picault felfedezőről kapta a nevét, ez a hely történelmi templomáról és türkizkék öbleiről ismert.",
@@ -432,9 +418,8 @@ image: "/poi-images/sc-baie-lazare-cities-v2.webp"
       de: "Pointe Larue",
       hu: "Pointe Larue",
       ro: "Pointe Larue",
-      en: "Pointe Larue",
-image: "/poi-images/sc-pointe-larue-cities-v2.webp"
-},
+      en: "Pointe Larue"},
+    image: "/poi-images/sc-pointe-larue-cities-v2.webp",
     description: {
       de: "Hier befindet sich der internationale Flughafen der Seychellen, was es zum ersten Ankunftspunkt für viele Besucher macht.",
       hu: "Itt található a Seychelle-szigetek nemzetközi repülőtere, így sok látogató számára ez az első érkezési pont.",
@@ -462,9 +447,8 @@ image: "/poi-images/sc-pointe-larue-cities-v2.webp"
       de: "Au Cap",
       hu: "Au Cap",
       ro: "Au Cap",
-      en: "Au Cap",
-image: "/poi-images/sc-au-cap-cities-v2.webp"
-},
+      en: "Au Cap"},
+    image: "/poi-images/sc-au-cap-cities-v2.webp",
     description: {
       de: "Ein malerischer Küstenabschnitt im Südosten von Mahé mit flachem Wasser und Korallenriffen.",
       hu: "Festői tengerparti szakasz Mahé délkeleti részén, sekély vízzel és korallzátonyokkal.",
@@ -492,9 +476,8 @@ image: "/poi-images/sc-au-cap-cities-v2.webp"
       de: "Anse aux Pins",
       hu: "Anse aux Pins",
       ro: "Anse aux Pins",
-      en: "Anse aux Pins",
-image: "/poi-images/sc-anse-aux-pins-cities-v2.webp"
-},
+      en: "Anse aux Pins"},
+    image: "/poi-images/sc-anse-aux-pins-cities-v2.webp",
     description: {
       de: "Ein geschäftiger Küstenort an der Ostküste von Mahé mit Märkten und Handwerkszentren.",
       hu: "Nyüzsgő tengerparti település Mahé keleti partján, piacokkal és kézműves központokkal.",
@@ -522,9 +505,8 @@ image: "/poi-images/sc-anse-aux-pins-cities-v2.webp"
       de: "English River",
       hu: "English River",
       ro: "English River",
-      en: "English River",
-image: "/poi-images/sc-english-river-cities-v2.webp"
-},
+      en: "English River"},
+    image: "/poi-images/sc-english-river-cities-v2.webp",
     description: {
       de: "Ein zentraler Bezirk von Victoria, der wichtige Regierungsgebäude und Schulen beherbergt.",
       hu: "Victoria központi körzete, amely fontos kormányzati épületeknek és iskoláknak ad otthont.",
@@ -552,9 +534,8 @@ image: "/poi-images/sc-english-river-cities-v2.webp"
       de: "Mont Fleuri",
       hu: "Mont Fleuri",
       ro: "Mont Fleuri",
-      en: "Mont Fleuri",
-image: "/poi-images/sc-mont-fleuri-cities-v2.webp"
-},
+      en: "Mont Fleuri"},
+    image: "/poi-images/sc-mont-fleuri-cities-v2.webp",
     description: {
       de: "Ein Bezirk am Rande von Victoria, bekannt für den Botanischen Garten der Seychellen.",
       hu: "Victoria szélén fekvő körzet, amely a Seychelle-szigetek botanikus kertjéről ismert.",
@@ -582,9 +563,8 @@ image: "/poi-images/sc-mont-fleuri-cities-v2.webp"
       de: "Plaisance",
       hu: "Plaisance",
       ro: "Plaisance",
-      en: "Plaisance",
-image: "/poi-images/sc-plaisance-cities-v2.webp"
-},
+      en: "Plaisance"},
+    image: "/poi-images/sc-plaisance-cities-v2.webp",
     description: {
       de: "Ein bevölkerungsreicher Vorort von Victoria mit Blick auf die künstliche Insel Eden Island.",
       hu: "Victoria népes külvárosa, kilátással a mesterséges Eden-szigetre.",
@@ -612,9 +592,8 @@ image: "/poi-images/sc-plaisance-cities-v2.webp"
       de: "Les Mamelles",
       hu: "Les Mamelles",
       ro: "Les Mamelles",
-      en: "Les Mamelles",
-image: "/poi-images/sc-les-mamelles-cities-v2.webp"
-},
+      en: "Les Mamelles"},
+    image: "/poi-images/sc-les-mamelles-cities-v2.webp",
     description: {
       de: "Ein Küstenbezirk südöstlich von Victoria, geprägt durch seine Hanglage und moderne Infrastruktur.",
       hu: "Victoriától délkeletre fekvő tengerparti körzet, amelyet domboldali elhelyezkedése és modern infrastruktúrája jellemez.",
@@ -642,9 +621,8 @@ image: "/poi-images/sc-les-mamelles-cities-v2.webp"
       de: "Roche Caiman",
       hu: "Roche Caiman",
       ro: "Roche Caiman",
-      en: "Roche Caiman",
-image: "/poi-images/sc-roche-caiman-cities-v2.webp"
-},
+      en: "Roche Caiman"},
+    image: "/poi-images/sc-roche-caiman-cities-v2.webp",
     description: {
       de: "Ein Bezirk, der auf durch Landgewinnung entstandenem Boden liegt und das nationale Sportstadion beherbergt.",
       hu: "Feltöltött területen fekvő körzet, amely a nemzeti sportstadionnak ad otthont.",
@@ -672,9 +650,8 @@ image: "/poi-images/sc-roche-caiman-cities-v2.webp"
       de: "Saint Louis",
       hu: "Saint Louis",
       ro: "Saint Louis",
-      en: "Saint Louis",
-image: "/poi-images/sc-saint-louis-cities-v2.webp"
-},
+      en: "Saint Louis"},
+    image: "/poi-images/sc-saint-louis-cities-v2.webp",
     description: {
       de: "Ein steiler Hügelbezirk in Victoria mit beeindruckendem Panoramablick über die Stadt und den Hafen.",
       hu: "Victoria meredek domboldali körzete, lenyűgöző panorámával a városra és a kikötőre.",
@@ -702,9 +679,8 @@ image: "/poi-images/sc-saint-louis-cities-v2.webp"
       de: "Bel Air",
       hu: "Bel Air",
       ro: "Bel Air",
-      en: "Bel Air",
-image: "/poi-images/sc-bel-air-cities-v2.webp"
-},
+      en: "Bel Air"},
+    image: "/poi-images/sc-bel-air-cities-v2.webp",
     description: {
       de: "Einer der ältesten Bezirke der Hauptstadt, bekannt für seinen historischen Friedhof und koloniale Denkmäler.",
       hu: "A főváros egyik legrégebbi körzete, amely történelmi temetőjéről és gyarmati emlékműveiről ismert.",
@@ -732,9 +708,8 @@ image: "/poi-images/sc-bel-air-cities-v2.webp"
       de: "Mont Buxton",
       hu: "Mont Buxton",
       ro: "Mont Buxton",
-      en: "Mont Buxton",
-image: "/poi-images/sc-mont-buxton-cities-v2.webp"
-},
+      en: "Mont Buxton"},
+    image: "/poi-images/sc-mont-buxton-cities-v2.webp",
     description: {
       de: "Ein Wohnbezirk auf den Hügeln über Victoria, der eng mit der Geschichte der Arbeiterklasse der Stadt verbunden ist.",
       hu: "Victoria feletti dombokon fekvő lakónegyed, amely szorosan kötődik a város munkásosztályának történetéhez.",
@@ -762,9 +737,8 @@ image: "/poi-images/sc-mont-buxton-cities-v2.webp"
       de: "Perseverance I",
       hu: "Perseverance I",
       ro: "Perseverance I",
-      en: "Perseverance I",
-image: "/poi-images/sc-perseverance-i-cities-v2.webp"
-},
+      en: "Perseverance I"},
+    image: "/poi-images/sc-perseverance-i-cities-v2.webp",
     description: {
       de: "Ein moderner, künstlich angelegter Wohnbezirk auf Landgewinnung, konzipiert für die wachsende Bevölkerung.",
       hu: "Modern, mesterségesen kialakított lakónegyed feltöltött területen, a növekvő lakosság számára tervezve.",
@@ -792,9 +766,8 @@ image: "/poi-images/sc-perseverance-i-cities-v2.webp"
       de: "Perseverance II",
       hu: "Perseverance II",
       ro: "Perseverance II",
-      en: "Perseverance II",
-image: "/poi-images/sc-perseverance-ii-cities-v2.webp"
-},
+      en: "Perseverance II"},
+    image: "/poi-images/sc-perseverance-ii-cities-v2.webp",
     description: {
       de: "Die zweite Phase des Perseverance-Projekts, die weiteren Wohnraum und Gemeinschaftseinrichtungen bietet.",
       hu: "A Perseverance projekt második fázisa, amely további lakóhelyeket és közösségi létesítményeket kínál.",
@@ -822,9 +795,8 @@ image: "/poi-images/sc-perseverance-ii-cities-v2.webp"
       de: "Anse Kerlan",
       hu: "Anse Kerlan",
       ro: "Anse Kerlan",
-      en: "Anse Kerlan",
-image: "/poi-images/sc-anse-kerlan-cities-v2.webp"
-},
+      en: "Anse Kerlan"},
+    image: "/poi-images/sc-anse-kerlan-cities-v2.webp",
     description: {
       de: "Ein ruhiges Küstengebiet im Nordwesten von Praslin, bekannt für seine schönen Strände und Schildkröten-Nistplätze.",
       hu: "Csendes tengerparti terület Praslin északnyugati részén, szép strandjairól és teknősfészkelő helyeiről ismert.",
@@ -853,9 +825,8 @@ image: "/poi-images/sc-anse-kerlan-cities-v2.webp"
       de: "Amitié",
       hu: "Amitié",
       ro: "Amitié",
-      en: "Amitié",
-image: "/poi-images/sc-amitie-cities-v2.webp"
-},
+      en: "Amitié"},
+    image: "/poi-images/sc-amitie-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf auf Praslin direkt neben dem Inselflughafen, geprägt von lokalen Pensionen.",
       hu: "Kis falu Praslinon, közvetlenül a sziget repülőtere mellett, helyi vendégházakkal.",
@@ -883,9 +854,8 @@ image: "/poi-images/sc-amitie-cities-v2.webp"
       de: "Consolation",
       hu: "Consolation",
       ro: "Consolation",
-      en: "Consolation",
-image: "/poi-images/sc-consolation-cities-v2.webp"
-},
+      en: "Consolation"},
+    image: "/poi-images/sc-consolation-cities-v2.webp",
     description: {
       de: "Ein abgelegenes Küstengebiet im Süden von Praslin mit wilden Stränden und Granitfelsen.",
       hu: "Elszigetelt tengerparti terület Praslin déli részén, vadregényes strandokkal és gránitsziklákkal.",
@@ -913,9 +883,8 @@ image: "/poi-images/sc-consolation-cities-v2.webp"
       de: "Cote d'Or",
       hu: "Cote d'Or",
       ro: "Cote d'Or",
-      en: "Cote d'Or",
-image: "/poi-images/sc-cote-dor-cities-v2.webp"
-},
+      en: "Cote d'Or"},
+    image: "/poi-images/sc-cote-dor-cities-v2.webp",
     description: {
       de: "Das touristische Zentrum von Praslin mit dem berühmten Strand Anse Volbert und vielen Wassersportmöglichkeiten.",
       hu: "Praslin turisztikai központja a híres Anse Volbert stranddal és számos vízi sport lehetőséggel.",
@@ -944,9 +913,8 @@ image: "/poi-images/sc-cote-dor-cities-v2.webp"
       de: "Grand Anse (Mahé)",
       hu: "Grand Anse (Mahé)",
       ro: "Grand Anse (Mahé)",
-      en: "Grand Anse (Mahé)",
-image: "/poi-images/sc-grand-anse-mahe-cities-v2.webp"
-},
+      en: "Grand Anse (Mahé)"},
+    image: "/poi-images/sc-grand-anse-mahe-cities-v2.webp",
     description: {
       de: "Ein weiter Sandstrand und Bezirk an der Westküste von Mahé, bekannt für seine beeindruckenden Wellen.",
       hu: "Széles homokos strand és körzet Mahé nyugati partján, lenyűgöző hullámairól ismert.",
@@ -974,9 +942,8 @@ image: "/poi-images/sc-grand-anse-mahe-cities-v2.webp"
       de: "Barbarons",
       hu: "Barbarons",
       ro: "Barbarons",
-      en: "Barbarons",
-image: "/poi-images/sc-barbarons-cities-v2.webp"
-},
+      en: "Barbarons"},
+    image: "/poi-images/sc-barbarons-cities-v2.webp",
     description: {
       de: "Ein ruhiges Küstengebiet im Westen von Mahé mit exklusiven Resorts und dem Vacoa Nature Trail.",
       hu: "Csendes tengerparti terület Mahé nyugati részén, exkluzív üdülőhelyekkel és a Vacoa tanösvénnyel.",
@@ -1004,9 +971,8 @@ image: "/poi-images/sc-barbarons-cities-v2.webp"
       de: "Misere",
       hu: "Misere",
       ro: "Misere",
-      en: "Misere",
-image: "/poi-images/sc-misere-cities-v2.webp"
-},
+      en: "Misere"},
+    image: "/poi-images/sc-misere-cities-v2.webp",
     description: {
       de: "Ein Bergdorf im Zentrum von Mahé, das einen der besten Aussichtspunkte über die Ostküste und die Hauptstadt bietet.",
       hu: "Hegyi falu Mahé központjában, amely az egyik legjobb kilátást nyújtja a keleti partra és a fővárosra.",
@@ -1034,9 +1000,8 @@ image: "/poi-images/sc-misere-cities-v2.webp"
       de: "Foret Noire",
       hu: "Foret Noire",
       ro: "Foret Noire",
-      en: "Foret Noire",
-image: "/poi-images/sc-foret-noire-cities-v2.webp"
-},
+      en: "Foret Noire"},
+    image: "/poi-images/sc-foret-noire-cities-v2.webp",
     description: {
       de: "Ein bewaldeter Bezirk im Landesinneren, durch den die wichtige Verbindungsstraße zwischen Victoria und Port Glaud führt.",
       hu: "Erdős belső körzet, amelyen keresztülhalad a Victoriát és Port Glaudot összekötő fontos út.",
@@ -1064,9 +1029,8 @@ image: "/poi-images/sc-foret-noire-cities-v2.webp"
       de: "Port Launay",
       hu: "Port Launay",
       ro: "Port Launay",
-      en: "Port Launay",
-image: "/poi-images/sc-port-launay-cities-v2.webp"
-},
+      en: "Port Launay"},
+    image: "/poi-images/sc-port-launay-cities-v2.webp",
     description: {
       de: "Ein malerischer Ort im Westen von Mahé, bekannt für seinen Meeresnationalpark und ruhiges Badewasser.",
       hu: "Festői hely Mahé nyugati részén, tengeri nemzeti parkjáról és nyugodt vizéről ismert.",
@@ -1094,9 +1058,8 @@ image: "/poi-images/sc-port-launay-cities-v2.webp"
       de: "Baie Ternay",
       hu: "Baie Ternay",
       ro: "Baie Ternay",
-      en: "Baie Ternay",
-image: "/poi-images/sc-baie-ternay-cities-v2.webp"
-},
+      en: "Baie Ternay"},
+    image: "/poi-images/sc-baie-ternay-cities-v2.webp",
     description: {
       de: "Eine abgelegene Bucht und Siedlung am westlichen Ende von Mahé, berühmt für Schnorcheln und unberührte Natur.",
       hu: "Elszigetelt öböl és település Mahé nyugati végén, híres a sznorkelezésről és az érintetlen természetről.",
@@ -1124,9 +1087,8 @@ image: "/poi-images/sc-baie-ternay-cities-v2.webp"
       de: "Danzil",
       hu: "Danzil",
       ro: "Danzil",
-      en: "Danzil",
-image: "/poi-images/sc-danzil-cities-v2.webp"
-},
+      en: "Danzil"},
+    image: "/poi-images/sc-danzil-cities-v2.webp",
     description: {
       de: "Das Ende der Straße im Nordwesten von Mahé, bekannt als Startpunkt für den Wanderweg nach Anse Major.",
       hu: "Az út vége Mahé északnyugati részén, az Anse Major felé vezető túraútvonal kiindulópontjaként ismert.",
@@ -1155,9 +1117,8 @@ image: "/poi-images/sc-danzil-cities-v2.webp"
       de: "Mare Anglaise",
       hu: "Mare Anglaise",
       ro: "Mare Anglaise",
-      en: "Mare Anglaise",
-image: "/poi-images/sc-mare-anglaise-cities-v2.webp"
-},
+      en: "Mare Anglaise"},
+    image: "/poi-images/sc-mare-anglaise-cities-v2.webp",
     description: {
       de: "Ein Wohngebiet in der Nähe von Beau Vallon, das bei Einheimischen und Touristen gleichermaßen beliebt ist.",
       hu: "Beau Vallon közelében fekvő lakónegyed, amely a helyiek és a turisták körében egyaránt népszerű.",
@@ -1185,9 +1146,8 @@ image: "/poi-images/sc-mare-anglaise-cities-v2.webp"
       de: "Machabee",
       hu: "Machabee",
       ro: "Machabee",
-      en: "Machabee",
-image: "/poi-images/sc-machabee-cities-v2.webp"
-},
+      en: "Machabee"},
+    image: "/poi-images/sc-machabee-cities-v2.webp",
     description: {
       de: "Ein ruhiger Bezirk an der Nordküste von Mahé, bekannt für seine raue Küstenlinie und klares Wasser.",
       hu: "Csendes körzet Mahé északi partján, vadregényes partvonaláról és tiszta vizéről ismert.",
@@ -1215,9 +1175,8 @@ image: "/poi-images/sc-machabee-cities-v2.webp"
       de: "De Quincey",
       hu: "De Quincey",
       ro: "De Quincey",
-      en: "De Quincey",
-image: "/poi-images/sc-de-quincey-cities-v2.webp"
-},
+      en: "De Quincey"},
+    image: "/poi-images/sc-de-quincey-cities-v2.webp",
     description: {
       de: "Ein erhöht gelegenes Wohngebiet nördlich von Victoria mit Blick auf den Hafen.",
       hu: "Victoria felett északra elhelyezkedő lakónegyed, kilátással a kikötőre.",
@@ -1245,9 +1204,8 @@ image: "/poi-images/sc-de-quincey-cities-v2.webp"
       de: "Petit Paris",
       hu: "Petit Paris",
       ro: "Petit Paris",
-      en: "Petit Paris",
-image: "/poi-images/sc-petit-paris-cities-v2.webp"
-},
+      en: "Petit Paris"},
+    image: "/poi-images/sc-petit-paris-cities-v2.webp",
     description: {
       de: "Ein kleines Dorf an der Ostküste von Mahé, das zwischen dem Meer und den steilen Bergen liegt.",
       hu: "Kis falu Mahé keleti partján, a tenger és a meredek hegyek közé szorulva.",
@@ -1275,9 +1233,8 @@ image: "/poi-images/sc-petit-paris-cities-v2.webp"
       de: "Brillant",
       hu: "Brillant",
       ro: "Brillant",
-      en: "Brillant",
-image: "/poi-images/sc-brillant-cities-v2.webp"
-},
+      en: "Brillant"},
+    image: "/poi-images/sc-brillant-cities-v2.webp",
     description: {
       de: "Ein Wohn- und Industriegebiet in der Nähe des internationalen Flughafens an der Ostküste.",
       hu: "Lakó- és ipari terület a nemzetközi repülőtér közelében a keleti parton.",
@@ -1305,9 +1262,8 @@ image: "/poi-images/sc-brillant-cities-v2.webp"
       de: "Providence",
       hu: "Providence",
       ro: "Providence",
-      en: "Providence",
-image: "/poi-images/sc-providence-cities-v2.webp"
-},
+      en: "Providence"},
+    image: "/poi-images/sc-providence-cities-v2.webp",
     description: {
       de: "Das wichtigste Industrie- und Gewerbegebiet der Seychellen, auf Landgewinnung zwischen Victoria und dem Flughafen erbaut.",
       hu: "A Seychelle-szigetek legfontosabb ipari és kereskedelmi területe, Victoria és a repülőtér között, feltöltött területen.",
@@ -1335,9 +1291,8 @@ image: "/poi-images/sc-providence-cities-v2.webp"
       de: "Turtle Bay",
       hu: "Turtle Bay",
       ro: "Turtle Bay",
-      en: "Turtle Bay",
-image: "/poi-images/sc-turtle-bay-cities-v2.webp"
-},
+      en: "Turtle Bay"},
+    image: "/poi-images/sc-turtle-bay-cities-v2.webp",
     description: {
       de: "Ein malerischer Küstenabschnitt in Au Cap, benannt nach den Meeresschildkröten, die hier früher häufiger zu finden waren.",
       hu: "Festői tengerparti szakasz Au Capban, az itt egykor gyakori tengeri teknősökről kapta a nevét.",
@@ -1365,9 +1320,8 @@ image: "/poi-images/sc-turtle-bay-cities-v2.webp"
       de: "Val d'Endore",
       hu: "Val d'Endore",
       ro: "Val d'Endore",
-      en: "Val d'Endore",
-image: "/poi-images/sc-val-dendore-cities-v2.webp"
-},
+      en: "Val d'Endore"},
+    image: "/poi-images/sc-val-dendore-cities-v2.webp",
     description: {
       de: "Ein fruchtbares Tal im Süden von Mahé, bekannt für seine landwirtschaftliche Nutzung und üppige Natur.",
       hu: "Termékeny völgy Mahé déli részén, mezőgazdasági hasznosításáról és buja természetéről ismert.",
@@ -1395,9 +1349,8 @@ image: "/poi-images/sc-val-dendore-cities-v2.webp"
       de: "Quatre Bornes",
       hu: "Quatre Bornes",
       ro: "Quatre Bornes",
-      en: "Quatre Bornes",
-image: "/poi-images/sc-quatre-bornes-cities-v2.webp"
-},
+      en: "Quatre Bornes"},
+    image: "/poi-images/sc-quatre-bornes-cities-v2.webp",
     description: {
       de: "Ein ländliches Dorf im Süden von Mahé, das als Ausgangspunkt für Entdeckungen der unberührten Südküste dient.",
       hu: "Vidéki falu Mahé déli részén, amely kiindulópontként szolgál az érintetlen déli part felfedezéséhez.",
@@ -1425,9 +1378,8 @@ image: "/poi-images/sc-quatre-bornes-cities-v2.webp"
       de: "Sans Souci",
       hu: "Sans Souci",
       ro: "Sans Souci",
-      en: "Sans Souci",
-image: "/poi-images/sc-sans-souci-cities-v2.webp"
-},
+      en: "Sans Souci"},
+    image: "/poi-images/sc-sans-souci-cities-v2.webp",
     description: {
       de: "Ein exklusives Wohngebiet an den Hängen des Morne Seychellois Nationalparks mit kühlerem Bergklima.",
       hu: "Exkluzív lakóövezet a Morne Seychellois Nemzeti Park lejtőin, hűvösebb hegyi éghajlattal.",
@@ -1455,9 +1407,8 @@ image: "/poi-images/sc-sans-souci-cities-v2.webp"
       de: "Vista Do Mar",
       hu: "Vista Do Mar",
       ro: "Vista Do Mar",
-      en: "Vista Do Mar",
-image: "/poi-images/sc-vista-do-mar-cities-v2.webp"
-},
+      en: "Vista Do Mar"},
+    image: "/poi-images/sc-vista-do-mar-cities-v2.webp",
     description: {
       de: "Ein ruhiges Wohngebiet im Bezirk Glacis, bekannt für seine spektakulären Ausblicke auf das Meer.",
       hu: "Csendes lakóövezet Glacis körzetében, amely látványos tengeri kilátásáról ismert.",
@@ -1485,9 +1436,8 @@ image: "/poi-images/sc-vista-do-mar-cities-v2.webp"
       de: "Quincy Village",
       hu: "Quincy Village",
       ro: "Quincy Village",
-      en: "Quincy Village",
-image: "/poi-images/sc-quincy-village-cities-v2.webp"
-},
+      en: "Quincy Village"},
+    image: "/poi-images/sc-quincy-village-cities-v2.webp",
     description: {
       de: "Ein Vorort nördlich von Victoria, der eine Mischung aus Wohngebieten und lokalen Geschäften bietet.",
       hu: "Victoriától északra fekvő külváros, amely lakóövezetek és helyi üzletek keverékét kínálja.",

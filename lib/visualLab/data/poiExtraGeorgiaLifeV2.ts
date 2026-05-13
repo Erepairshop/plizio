@@ -6,302 +6,539 @@ export const poiExtraGeorgiaLifeV2: POI[] = [
     type: "wildlife-area",
     parent: "GE-AJ",
     coords: [41.8706, 41.6781],
-    name: { de: "Mtirala-Nationalpark", hu: "Mtirala Nemzeti Park", ro: "Parcul Național Mtirala", en: "Mtirala National Park",
-image: "/poi-images/ge-mtirala-national-park-life-v2.webp"
-},
+    name: { de: "Mtirala-Nationalpark", hu: "Mtirala Nemzeti Park", ro: "Parcul Național Mtirala", en: "Mtirala National Park"},
+    image: "/poi-images/ge-mtirala-national-park-life-v2.webp",
     description: { de: "Dieser Nationalpark in Adscharien verdankt seinen Namen dem regenreichen Mikroklima. Er zeichnet sich durch dichte subtropische Wälder, tiefe Schluchten und vielfältige Flora und Fauna aus.", hu: "Ez az adzsáriai nemzeti park a nevét az esős mikroklímájáról kapta. Sűrű szubtrópusi erdők, mély szurdokok és változatos növény- és állatvilág jellemzi.", ro: "Acest parc național din Adjara își datorează numele microclimatului ploios. Se distinge prin păduri subtropicale dense, defileuri adânci și o floră și faună diversă.", en: "This national park in Adjara owes its name to the rainy microclimate. It features dense subtropical forests, deep gorges, and diverse flora and fauna." },
     facts: {
       de: ["Der Name bedeutet weinend.", "Hohe jährliche Niederschlagsmenge.", "Heimat von Braunbären und Luchsen.", "Beliebt für Ziplining."],
       hu: ["A neve azt jelenti: síró.", "Magas az éves csapadékmennyiség.", "Barnamedvék és hiúzok otthona.", "Népszerű drótkötélpályás (zipline) helyszín."],
       ro: ["Numele înseamnă plângând.", "Precipitații anuale ridicate.", "Găzduiește urși bruni și râși.", "Popular pentru tiroliană."],
       en: ["The name translates to crying.", "High annual rainfall.", "Home to brown bears and lynxes.", "Popular spot for ziplining."]
-    }, image: "/poi-images/ge-mtirala-national-park-life-v2.webp"},
+    }, image: "/poi-images/ge-mtirala-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mtirala-Nationalpark in Adscharien, etwa 30 km von Batumi entfernt, wurde 2007 gegründet und umfasst eine Fläche von 157 km². Der Name bedeutet 'weinender Berg' aufgrund der hohen Niederschläge (bis zu 4.500 mm jährlich). Der Park schützt feuchte subtropische Wälder der Kolchis-Region, darunter seltene Buchen- und Eibenarten. Die Höhenlagen reichen von 300 bis 1.500 Metern. Der Park beherbergt eine reiche Tierwelt, darunter Braunbären, Luchse und Wildkatzen. Wanderwege führen zu Wasserfällen und Aussichtspunkten. Der Mtirala ist Teil des UNESCO-Weltnaturerbe-Gebiets 'Regenwälder und Feuchtgebiete des Kolchis-Landes'.",
+      hu: "A Mtirala Nemzeti Park Adzsariában, Batumitól 30 km-re, 2007-ben jött létre, területe 157 km². Neve 'síró hegyet' jelent a magas csapadékmennyiség miatt (4500 mm évente). A park védi a kolkhiszi nedves szubtrópusi erdőket, ritka bükk- és tiszafajokkal. Tengerszint feletti magasság 300-1500 m. Gazdag állatvilág: barnamedve, hiúz, vadmacska. Túraútvonalak vízesésekhez és kilátópontokhoz. Az UNESCO Világörökség része a 'Kolkhiszi esőerdők és vizes élőhelyek'.",
+      ro: "Parcul Național Mtirala din Adjara, la 30 km de Batumi, a fost înființat în 2007, pe o suprafață de 157 km². Numele înseamnă 'muntele plângător' datorită precipitațiilor mari (până la 4.500 mm anual). Protejează pădurile subtropicale umede ale Colchidei, cu specii rare de fag și tis. Altitudinile variază între 300 și 1.500 m. Fauna include urs brun, râs, pisică sălbatică. Trasee către cascade și puncte de belvedere. Parte a sitului UNESCO 'Pădurile tropicale și zonele umede ale Colchidei'.",
+      en: "Mtirala National Park in Adjara, about 30 km from Batumi, established in 2007, covers 157 km². Its name means 'crying mountain' due to high rainfall (up to 4,500 mm annually). The park protects humid subtropical forests of the Colchis region, including rare beech and yew trees. Elevations range from 300 to 1,500 m. Wildlife includes brown bears, lynxes, and wildcats. Hiking trails lead to waterfalls and viewpoints. It is part of the UNESCO World Heritage site 'Colchic Rainforests and Wetlands'.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2007.", "Fläche 157 km².", "Niederschlag bis 4.500 mm pro Jahr.", "Höhenlage 300-1.500 Meter.", "Braunbären, Luchse, Wildkatzen.", "Teil des UNESCO-Welterbes seit 2021."],
+      hu: ["Alapítva 2007-ben.", "Területe 157 km².", "Évi csapadék 4500 mm-ig.", "Magasság 300-1500 m.", "Barnamedve, hiúz, vadmacska.", "UNESCO világörökség része 2021 óta."],
+      ro: ["Înființat în 2007.", "Suprafață 157 km².", "Precipitații până la 4.500 mm/an.", "Altitudine 300-1.500 m.", "Urși bruni, râși, pisici sălbatice.", "Parte a patrimoniului UNESCO din 2021."],
+      en: ["Established in 2007.", "Area 157 km².", "Rainfall up to 4,500 mm per year.", "Elevation 300-1,500 m.", "Brown bears, lynxes, wildcats.", "Part of UNESCO World Heritage since 2021."],
+    },
+  },
   {
     id: "ge-vashlovani-national-park-life-v2",
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [46.4678, 41.1969],
-    name: { de: "Waschlowani-Nationalpark", hu: "Vaslovani Nemzeti Park", ro: "Parcul Național Vașlovani", en: "Vashlovani National Park",
-image: "/poi-images/ge-vashlovani-national-park-life-v2.webp"
-},
+    name: { de: "Waschlowani-Nationalpark", hu: "Vaslovani Nemzeti Park", ro: "Parcul Național Vașlovani", en: "Vashlovani National Park"},
+    image: "/poi-images/ge-vashlovani-national-park-life-v2.webp",
     description: { de: "Der Nationalpark im Osten Georgiens bietet eine savannenartige Landschaft mit bizarren Felsformationen und Schlammvulkanen. Er ist ein wichtiger Zufluchtsort für seltene Tierarten.", hu: "Kelet-Grúzia nemzeti parkja szavannaszerű tájat, bizarr sziklaalakzatokat és iszapvulkánokat kínál. Ritka állatfajok fontos menedékhelye.", ro: "Parcul național din estul Georgiei oferă un peisaj de savană cu formațiuni stâncoase bizare și vulcani noroioși. Este un refugiu important pentru speciile rare de animale.", en: "The national park in eastern Georgia offers a savanna-like landscape with bizarre rock formations and mud volcanoes. It is an important refuge for rare animal species." },
     facts: {
       de: ["Bekannt für Halbwüstenlandschaften.", "Beherbergt Leoparden und Streifenhyänen.", "Zahlreiche aktive Schlammvulkane.", "Beliebt für Offroad-Safaris."],
       hu: ["Félsivatagi tájairól ismert.", "Leopárdok és csíkos hiénák menedéke.", "Számos aktív iszapvulkán található itt.", "Népszerű a terepjárós szafarik körében."],
       ro: ["Cunoscut pentru peisajele de semideșert.", "Găzduiește leoparzi și hiene dungate.", "Numeroși vulcani noroioși activi.", "Popular pentru safari off-road."],
       en: ["Known for semi-desert landscapes.", "Home to leopards and striped hyenas.", "Features numerous active mud volcanoes.", "Popular for off-road safaris."]
-    }, image: "/poi-images/ge-vashlovani-national-park-life-v2.webp"},
+    }, image: "/poi-images/ge-vashlovani-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Waschlowani-Nationalpark in der Region Kachetien, nahe der Grenze zu Aserbaidschan, wurde 1935 als Schutzgebiet gegründet und 2003 zum Nationalpark erweitert. Er umfasst 84 km² Halbwüsten-, Steppen- und Schluchtenlandschaften. Der Park schützt seltene Tierarten wie die persische Ziege (Capra aegagrus) und den gefährdeten Geier. Die Schlucht des Alazani-Flusses durchzieht den Park. Das Klima ist trocken-kontinental mit heißen Sommern und milden Wintern. Besonders bemerkenswert sind die 'Eldari-Kiefern' (Pinus eldarica), eine endemische Baumart. Der Park ist für Ökotourismus und Reiten beliebt.",
+      hu: "A Vaslovani Nemzeti Park Kachetiben, Azerbajdzsán határán, 1935-ben jött létre, 2003-ban nemzeti parkká bővült. Területe 84 km² félsivatagi, sztyeppei és szurdokos táj. Ritka állatfajok élnek itt, mint a perzsa kecske (Capra aegagrus) és a veszélyeztetett keselyű. Az Alazani folyó szurdoka szeli át. Éghajlata száraz kontinentális, forró nyarak. Különleges az 'Eldari fenyő' (Pinus eldarica) endemikus fa. Ökoturizmusra és lovaglásra alkalmas.",
+      ro: "Parcul Național Vashlovani din Kakheti, la granița cu Azerbaidjan, înființat în 1935 ca rezervație, extins ca parc național în 2003. Suprafață 84 km², peisaje semideșertice, de stepă și chei. Adăpostește specii rare ca capra persană (Capra aegagrus) și vulturul amenințat. Cheia râului Alazani traversează parcul. Climat continental sec, veri fierbinți. Pinul de Eldari (Pinus eldarica) este endemic. Popular pentru ecoturism și călărie.",
+      en: "Vashlovani National Park in Kakheti, near the Azerbaijan border, established as a reserve in 1935, upgraded to national park in 2003. It covers 84 km² of semi-desert, steppe, and canyon landscapes. The park protects rare species such as the Persian goat (Capra aegagrus) and the endangered griffon vulture. The Alazani River gorge runs through it. The climate is dry continental with hot summers. Notable is the endemic Eldari pine (Pinus eldarica). Popular for ecotourism and horseback riding.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1935, Nationalpark seit 2003.", "Fläche 84 km².", "Persische Ziege (Capra aegagrus).", "Griffonvulture (Gyps fulvus).", "Eldari-Kiefer (Pinus eldarica).", "Trocken-kontinentales Klima."],
+      hu: ["Alapítva 1935, nemzeti park 2003.", "Terület 84 km².", "Perzsa kecske (Capra aegagrus).", "Fakókeselyű (Gyps fulvus).", "Eldari fenyő (Pinus eldarica).", "Száraz kontinentális éghajlat."],
+      ro: ["Înființat în 1935, parc național din 2003.", "Suprafață 84 km².", "Capra persană (Capra aegagrus).", "Vulturul (Gyps fulvus).", "Pin de Eldari (Pinus eldarica).", "Climat continental sec."],
+      en: ["Established 1935, national park 2003.", "Area 84 km².", "Persian goat (Capra aegagrus).", "Griffon vulture (Gyps fulvus).", "Eldari pine (Pinus eldarica).", "Dry continental climate."],
+    },
+  },
   {
     id: "ge-lagodekhi-reserve-life-v2",
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [46.2917, 41.8542],
-    name: { de: "Lagodechi-Naturschutzgebiet", hu: "Lagodehi Védett Területek", ro: "Aria Protejată Lagodehi", en: "Lagodekhi Protected Areas",
-image: "/poi-images/ge-lagodekhi-reserve-life-v2.webp"
-},
+    name: { de: "Lagodechi-Naturschutzgebiet", hu: "Lagodehi Védett Területek", ro: "Aria Protejată Lagodehi", en: "Lagodekhi Protected Areas"},
+    image: "/poi-images/ge-lagodekhi-reserve-life-v2.webp",
     description: { de: "Eines der ältesten Naturschutzgebiete des Kaukasus besticht durch urwaldartige Wälder und spektakuläre Wasserfälle. Wanderwege führen hier bis in alpine Höhenlagen.", hu: "A Kaukázus egyik legrégebbi természetvédelmi területe, mely őserdeivel és látványos vízeséseivel hódít. Túraútvonalai egészen az alpesi régiókba vezetnek.", ro: "Una dintre cele mai vechi arii protejate din Caucaz fascinează cu pădurile sale virgine și cascadele spectaculoase. Traseele de drumeție duc aici până la altitudini alpine.", en: "One of the oldest nature reserves in the Caucasus captivates with its primeval forests and spectacular waterfalls. Hiking trails here lead up to alpine altitudes." },
     facts: {
       de: ["Gegründet im Jahr 1912.", "Grenzt an Aserbaidschan und Russland.", "Heimat von über 1000 Pflanzenarten.", "Schützt den kaukasischen Tur."],
       hu: ["1912-ben alapították.", "Azerbajdzsánnal és Oroszországgal határos.", "Több mint 1000 növényfaj otthona.", "A kaukázusi tur védőhelye."],
       ro: ["Fondată în anul 1912.", "Se învecinează cu Azerbaidjan și Rusia.", "Găzduiește peste 1000 de specii de plante.", "Protejează turul caucazian."],
       en: ["Founded in the year 1912.", "Borders Azerbaijan and Russia.", "Home to over 1000 plant species.", "Protects the Caucasian tur."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Lagodekhi-Schutzgebiet in der Region Kachetien, an der Grenze zu Aserbaidschan und Dagestan, wurde 1912 gegründet und ist eines der ältesten Schutzgebiete Georgiens. Es umfasst 24 km² und umfasst die südlichen Hänge des Großen Kaukasus mit Höhenlagen von 400 bis 3.500 Metern. Die Vegetation reicht von Laubwäldern bis zu alpinen Wiesen. Das Gebiet ist bekannt für seine Biodiversität, darunter Kaukasushirsche, Gämsen und Steinadler. Der Wasserfall auf dem Fluss Shromistkali ist ein Höhepunkt. Das Schutzgebiet ist das erste, das einen ökologischen Wanderweg in Georgien eingerichtet hat.",
+      hu: "A Lagodekhi Védett Terület Kachetiben, Azerbajdzsán és Dagesztán határán, 1912-ben jött létre, Grúzia egyik legrégebbi védett területe. Területe 24 km², a Nagy-Kaukázus déli lejtői 400-3500 m magasságban. Az erdők és alpesi rétek változatos élővilágot rejtenek: kaukázusi szarvas, zerge, szirti sas. A Shromistkali folyó vízesése népszerű célpont. Itt hozták létre Grúzia első ökológiai túraútvonalát.",
+      ro: "Aria Protejată Lagodekhi din Kakheti, la granița cu Azerbaidjan și Daghestan, înființată în 1912, una dintre cele mai vechi din Georgia. Suprafață 24 km², versanții sudici ai Caucazului Mare, altitudini 400-3.500 m. Vegetația variază de la păduri de foioase la pajiști alpine. Biodiversitate remarcabilă: cerb caucazian, capră neagră, acvilă de munte. Cascada râului Shromistkali este un punct de atracție. Primul traseu ecologic din Georgia a fost creat aici.",
+      en: "Lagodekhi Protected Areas in Kakheti, on the border with Azerbaijan and Dagestan, established in 1912, one of Georgia's oldest protected areas. It covers 24 km² on the southern slopes of the Greater Caucasus, with elevations from 400 to 3,500 m. Habitats range from deciduous forests to alpine meadows. It hosts rich biodiversity including Caucasian red deer, chamois, and golden eagle. The waterfall on the Shromistkali River is a highlight. The first ecological trail in Georgia was established here.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1912.", "Fläche 24 km².", "Höhenlagen 400-3.500 Meter.", "Kaukasushirsch und Gämse.", "Wasserfall am Fluss Shromistkali.", "Erster ökologischer Wanderweg Georgiens."],
+      hu: ["Alapítva 1912-ben.", "Terület 24 km².", "Magasság 400-3500 m.", "Kaukázusi szarvas és zerge.", "Shromistkali folyó vízesése.", "Grúzia első ökológiai túraútvonala."],
+      ro: ["Înființată în 1912.", "Suprafață 24 km².", "Altitudini 400-3.500 m.", "Cerb caucazian, capră neagră.", "Cascada râului Shromistkali.", "Primul traseu ecologic din Georgia."],
+      en: ["Established in 1912.", "Area 24 km².", "Elevations 400-3,500 m.", "Caucasian red deer and chamois.", "Shromistkali River waterfall.", "First ecological trail in Georgia."],
+    },
   },
   {
     id: "ge-tusheti-national-park-life-v2",
     type: "wildlife-area",
     parent: "GE-KA",
     coords: [45.4542, 42.4208],
-    name: { de: "Tuschetien-Nationalpark", hu: "Tuséti Nemzeti Park", ro: "Parcul Național Tușeti", en: "Tusheti National Park",
-image: "/poi-images/ge-tusheti-national-park-life-v2.webp"
-},
+    name: { de: "Tuschetien-Nationalpark", hu: "Tuséti Nemzeti Park", ro: "Parcul Național Tușeti", en: "Tusheti National Park"},
+    image: "/poi-images/ge-tusheti-national-park-life-v2.webp",
     description: { de: "Die entlegene Bergregion Tuschetien ist nur in den Sommermonaten erreichbar und bewahrt eine unberührte Naturkulisse. Traditionelle Hirtendörfer und seltene Wildtiere prägen diesen Park.", hu: "A távoli Tuséti hegyvidék csak a nyári hónapokban közelíthető meg, és érintetlen természeti környezetet őriz. Hagyományos pásztorfalvak és ritka vadon élő állatok jellemzik a parkot.", ro: "Regiunea montană izolată Tușeti este accesibilă doar în lunile de vară și păstrează un cadru natural neatins. Satele tradiționale de păstori și animalele sălbatice rare caracterizează acest parc.", en: "The remote mountainous region of Tusheti is only accessible in the summer months and preserves a pristine natural setting. Traditional shepherd villages and rare wildlife characterize this park." },
     facts: {
       de: ["Liegt auf über 2000 Metern Höhe.", "Zugang über den gefährlichen Abano-Pass.", "Bewahrt alte kaukasische Traditionen.", "Bekannt für tiefe Kiefernwälder."],
       hu: ["Több mint 2000 méteres magasságban fekszik.", "A veszélyes Abano-hágón át közelíthető meg.", "Ősi kaukázusi hagyományokat őriz.", "Mély fenyőerdeiről ismert."],
       ro: ["Situat la peste 2000 de metri altitudine.", "Accesibil prin periculosul pas Abano.", "Păstrează vechile tradiții caucaziene.", "Cunoscut pentru pădurile adânci de pin."],
       en: ["Located at an altitude of over 2000 meters.", "Accessed via the dangerous Abano Pass.", "Preserves ancient Caucasian traditions.", "Known for deep pine forests."]
-    }, image: "/poi-images/ge-tusheti-national-park-life-v2.webp"},
+    }, image: "/poi-images/ge-tusheti-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tuschetien-Nationalpark in der Region Kachetien, im nordöstlichen Georgien, wurde 2003 gegründet und umfasst 832 ha der ursprünglich verwaltungseinheit. Das Gebiet ist abgelegen und nur über eine unbefestigte Straße durch das Pirikiti-Tal erreichbar. Die Höhenlagen reichen von 900 bis 4.400 Metern (Schawana-Berg). Der Park schützt alpine und subalpine Landschaften mit endemischen Arten wie der Ostkaukasischen Ziege (Capra cylindricornis). Die Dörfer mit mittelalterlichen Steinbauten sind Teil des kulturellen Erbes. Der Park ist für Trekking und Reiten bekannt.",
+      hu: "A Tuséti Nemzeti Park Kachetiben, Északkelet-Grúziában, 2003-ban jött létre, területe 832 ha a. A terület elszigetelt, csak földúton érhető el a Pirikiti-völgyön át. Magasság 900-4400 m (Shavana csúcs). Alpesi és szubalpesi tájak endemikus fajokkal, mint a kelet-kaukázusi kecske (Capra cylindricornis). A falvak középkori kőépületei kulturális örökséget képeznek. Túrázásra és lovaglásra alkalmas.",
+      ro: "Parcul Național Tușetia din Kakheti, nord-estul Georgiei, înființat în 2003, acoperă 832 ha. Zona izolată, accesibilă pe un drum nepavat prin valea Pirikiti. Altitudini 900-4.400 m (Muntele Shavana). Protejează peisaje alpine și subalpine cu specii endemice, ca capra est-caucaziană (Capra cylindricornis). Satele cu clădiri medievale de piatră sunt patrimoniu cultural. Trasee de drumeție și călărie.",
+      en: "Tusheti National Park in Kakheti, northeastern Georgia, established in 2003, covers 832 ha. The area is remote, accessible only by unpaved road through the Pirikiti Valley. Elevations range from 900 to 4,400 m (Mount Shavana). The park protects alpine and subalpine landscapes with endemic species like the East Caucasian tur (Capra cylindricornis). Villages with medieval stone buildings are part of the cultural heritage. Popular for trekking and horseback riding.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2003.", "Fläche 832 ha.", "Höhenlage 900-4.400 Meter (Schawana).", "Ostkaukasische Ziege (Capra cylindricornis).", "Abgelegen, unbefestigte Straße.", "Mittelalterliche Steindörfer."],
+      hu: ["Alapítva 2003.", "Terület 832 ha.", "Magasság 900-4400 m (Shavana).", "Kelet-kaukázusi kecske (Capra cylindricornis).", "Elszigetelt, földút.", "Középkori kőfalvak."],
+      ro: ["Înființat în 2003.", "Suprafață 832 ha.", "Altitudine 900-4.400 m (Shavana).", "Capra est-caucaziană (Capra cylindricornis).", "Izolat, drum nepavat.", "Sate medievale de piatră."],
+      en: ["Established in 2003.", "Area 832 ha.", "Elevation 900-4,400 m (Shavana).", "East Caucasian tur (Capra cylindricornis).", "Remote, unpaved road.", "Medieval stone villages."],
+    },
+  },
   {
     id: "ge-kolkheti-national-park-life-v2",
     type: "wildlife-area",
     parent: "GE-SZ",
     coords: [41.7247, 42.1581],
-    name: { de: "Kolchis-Nationalpark", hu: "Kolkhida Nemzeti Park", ro: "Parcul Național Colchis", en: "Kolkheti National Park",
-image: "/poi-images/ge-kolkheti-national-park-life-v2.webp"
-},
+    name: { de: "Kolchis-Nationalpark", hu: "Kolkhida Nemzeti Park", ro: "Parcul Național Colchis", en: "Kolkheti National Park"},
+    image: "/poi-images/ge-kolkheti-national-park-life-v2.webp",
     description: { de: "Die weitläufigen Feuchtgebiete und Sumpfwälder an der Schwarzmeerküste sind ein globales Refugium für Zugvögel. Besucher können die labyrinthartigen Wasserwege mit Booten erkunden.", hu: "A Fekete-tenger partján fekvő kiterjedt vizes élőhelyek és mocsárerdők a vándormadarak globális menedékhelyei. A látogatók csónakkal fedezhetik fel a labirintusszerű vízi utakat.", ro: "Zonele umede întinse și pădurile mlăștinoase de pe coasta Mării Negre sunt un refugiu global pentru păsările migratoare. Vizitatorii pot explora căile navigabile labirintice cu barca.", en: "The vast wetlands and swamp forests on the Black Sea coast are a global refuge for migratory birds. Visitors can explore the labyrinthine waterways by boat." },
     facts: {
       de: ["Wichtiges Überwinterungsgebiet für Vögel.", "Umfasst den Paliastomi-See.", "Erinnert an die antike Kolchis.", "Bekannt für seltene Torfmoore."],
       hu: ["Fontos telelőhely a madarak számára.", "Magában foglalja a Paliasztomi-tavat.", "Az ókori Kolkhidát idézi.", "Ritka tőzeglápokról ismert."],
       ro: ["Zonă importantă de iernare pentru păsări.", "Include Lacul Paliastomi.", "Amintește de antica Colchis.", "Cunoscut pentru turbăriile rare."],
       en: ["Important wintering area for birds.", "Includes Lake Paliastomi.", "Reminiscent of ancient Colchis.", "Known for rare peat bogs."]
-    }, image: "/poi-images/ge-kolkheti-national-park-life-v2.webp"},
+    }, image: "/poi-images/ge-kolkheti-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kolkheti-Nationalpark in der Region Mingrelien und Gurien erstreckt sich entlang der Schwarzmeerküste und wurde 1999 gegründet. Er umfasst 442 km² Feuchtgebiete, darunter das Paläaschtomi-See und die Pichori-Mündung. Der Park ist ein wichtiges Rast- und Brutgebiet für Zugvögel wie Pelikane und Kormorane. Die Landschaft besteht aus Sumpfwäldern, Dünen und Schilfgürteln. Der Park ist Teil des UNESCO-Weltnaturerbes 'Regenwälder und Feuchtgebiete des Kolchis-Landes'. Die Flüsse Rioni und Kholida fließen durch das Gebiet. Der Park bietet Bootsfahrten und Vogelbeobachtung.",
+      hu: "A Kolkheti Nemzeti Park Mingrélia és Guria régióiban, a Fekete-tenger partján, 1999-ben jött létre. Területe 442 km² vizes élőhely, beleértve a Paläaschtomi-tavat és a Pichori-torkolatot. Fontos pihenő- és fészkelőhely vonuló madaraknak, pelikánoknak és kormoránoknak. Mocsári erdők, dűnék és nádasok jellemzik. Az UNESCO Világörökség része. A Rioni és Kholida folyók szelik át. Csónakázás és madármegfigyelés lehetséges.",
+      ro: "Parcul Național Colchida din Mingrelia și Guria, de-a lungul coastei Mării Negre, înființat în 1999. Suprafață 442 km² de zone umede, inclusiv Lacul Paliastomi și gura de vărsare Pichori. Important loc de odihnă și cuibărit pentru păsări migratoare, pelicani și cormorani. Păduri palustre, dune și stuf. Parte a patrimoniului UNESCO. Râurile Rioni și Kholida traversează parcul. Plimbări cu barca și observarea păsărilor.",
+      en: "Kolkheti National Park in Samegrelo and Guria regions, along the Black Sea coast, established in 1999. Covers 442 km² of wetlands, including Lake Paliastomi and the Pichori Estuary. It is an important stopover and breeding site for migratory birds such as pelicans and cormorants. Habitats include swamp forests, dunes, and reed beds. It is part of the UNESCO World Heritage 'Colchic Rainforests and Wetlands'. The Rioni and Kholida rivers flow through. Boat tours and birdwatching are popular.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1999.", "Fläche 442 km².", "Paläaschtomi-See 18 km².", "Pelikane und Kormorane.", "Teil des UNESCO-Welterbes seit 2021.", "Bootsfahrten und Vogelbeobachtung."],
+      hu: ["Alapítva 1999-ben.", "Terület 442 km².", "Paläaschtomi-tó 18 km².", "Pelikánok és kormoránok.", "UNESCO világörökség 2021 óta.", "Csónakázás, madármegfigyelés."],
+      ro: ["Înființat în 1999.", "Suprafață 442 km².", "Lacul Paliastomi 18 km².", "Pelicani și cormorani.", "Parte a patrimoniului UNESCO din 2021.", "Plimbări cu barca, observarea păsărilor."],
+      en: ["Established in 1999.", "Area 442 km².", "Lake Paliastomi 18 km².", "Pelicans and cormorants.", "UNESCO World Heritage since 2021.", "Boat tours and birdwatching."],
+    },
+  },
   {
     id: "ge-javakheti-reserve-life-v2",
     type: "wildlife-area",
     parent: "GE-SJ",
     coords: [43.6167, 41.2833],
-    name: { de: "Dschawachetien-Nationalpark", hu: "Dzsavaheti Védett Területek", ro: "Aria Protejată Djavakheti", en: "Javakheti Protected Areas",
-image: "/poi-images/ge-javakheti-reserve-life-v2.webp"
-},
+    name: { de: "Dschawachetien-Nationalpark", hu: "Dzsavaheti Védett Területek", ro: "Aria Protejată Djavakheti", en: "Javakheti Protected Areas"},
+    image: "/poi-images/ge-javakheti-reserve-life-v2.webp",
     description: { de: "Die vulkanische Hochebene im Süden Georgiens zeichnet sich durch zahlreiche Seen und eine raue, baumlose Landschaft aus. Es ist ein erstklassiges Ziel für Vogelbeobachter in der Region.", hu: "Dél-Grúzia vulkanikus fennsíkját számos tó és zord, fátlan táj jellemzi. A régió madármegfigyelőinek első számú célpontja.", ro: "Platoul vulcanic din sudul Georgiei este caracterizat de numeroase lacuri și un peisaj aspru, fără copaci. Este o destinație de top pentru observatorii de păsări din regiune.", en: "The volcanic plateau in southern Georgia is characterized by numerous lakes and a harsh, treeless landscape. It is a prime destination for birdwatchers in the region." },
     facts: {
       de: ["Liegt auf einem vulkanischen Plateau.", "Heimat vieler endemischer Vogelarten.", "Extrem kalte Wintermonate.", "Schützt die größten Seen Georgiens."],
       hu: ["Vulkanikus fennsíkon fekszik.", "Számos endemikus madárfaj otthona.", "Rendkívül hideg téli hónapok jellemzik.", "Grúzia legnagyobb tavait védi."],
       ro: ["Situat pe un platou vulcanic.", "Găzduiește multe specii de păsări endemice.", "Luni de iarnă extrem de reci.", "Protejează cele mai mari lacuri din Georgia."],
       en: ["Located on a volcanic plateau.", "Home to many endemic bird species.", "Extremely cold winter months.", "Protects the largest lakes in Georgia."]
-    }, image: "/poi-images/ge-javakheti-reserve-life-v2.webp"},
+    }, image: "/poi-images/ge-javakheti-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Javakheti-Schutzgebiet in der Region Samzche-Dschawachetien umfasst mehrere Seen, darunter den Parawani-See (den größten See Georgiens) und den Kartsakhi-See. Die Seen liegen auf einer Höhe von etwa 2.000 Metern und sind vulkanischen Ursprungs. Das Gebiet wurde 2011 als Schutzgebiet ausgewiesen. Es ist ein wichtiges Vogelgebiet, in dem seltene Arten wie der Krauskopfpelikan und der Rothalsgans vorkommen. Die umliegenden Steppen und Wiesen werden von Hirten genutzt. Die Region ist dünn besiedelt, hauptsächlich von Armeniern. Der ökologische Zustand der Seen ist durch Bewässerung bedroht.",
+      hu: "A Javakheti Védett Terület Szamche-Dzsavakhetiben több tavat foglal magában, köztük a Paravani-tavat (Grúzia legnagyobb tava) és a Kartsakhi-tavat. A tavak vulkanikus eredetűek, kb. 2000 méter magasan. A terület 2011-ben lett védett. Fontos madárélőhely, ritka fajokkal, mint a rózsás gödény és a vörösnyakú lúd. A környező sztyeppék és rétek pásztorkodásra szolgálnak. A régió gyéren lakott, főként örmények lakják. A tavak ökológiai állapotát az öntözés veszélyezteti.",
+      ro: "Aria Protejată Javakheti din Samtskhe-Javakheti include mai multe lacuri, printre care Lacul Paravani (cel mai mare lac din Georgia) și Lacul Kartsakhi. Lacurile sunt de origine vulcanică, la altitudini de cca. 2.000 m. Zona a fost desemnată arie protejată în 2011. Importantă pentru păsări, cu specii rare precum pelicanul creț și gâsca cu gât roșu. Stepele și pajiștile înconjurătoare sunt folosite de păstori. Regiunea este slab populată, preponderent armeană. Starea ecologică a lacurilor este amenințată de irigații.",
+      en: "Javakheti Protected Areas in Samtskhe-Javakheti region encompass several lakes, including Lake Paravani (Georgia's largest lake) and Lake Kartsakhi. The lakes are of volcanic origin, situated at about 2,000 m elevation. The area was designated a protected area in 2011. It is an important bird area, hosting rare species like the Dalmatian pelican and red-breasted goose. Surrounding steppes and meadows are used for grazing. The region is sparsely populated, mainly by Armenians. The ecological status of the lakes is threatened by irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Parawani-See 37,5 km² groß.", "Höhenlage etwa 2.000 Meter.", "Schutzgebiet seit 2011.", "Krauskopfpelikan und Rothalsgans.", "Vulkanischen Ursprungs.", "Bedroht durch Bewässerung."],
+      hu: ["Paravani-tó 37,5 km².", "Magasság kb. 2000 m.", "Védett 2011 óta.", "Rózsás gödény és vörösnyakú lúd.", "Vulkanikus eredetű.", "Öntözés veszélyezteti."],
+      ro: ["Lacul Paravani 37,5 km².", "Altitudine cca. 2.000 m.", "Arie protejată din 2011.", "Pelican creț și gâscă cu gât roșu.", "Origine vulcanică.", "Amenințat de irigații."],
+      en: ["Lake Paravani 37.5 km².", "Elevation approx. 2,000 m.", "Protected since 2011.", "Dalmatian pelican and red-breasted goose.", "Volcanic origin.", "Threatened by irrigation."],
+    },
+  },
   {
     id: "ge-kintrishi-reserve-life-v2",
     type: "wildlife-area",
     parent: "GE-AJ",
     coords: [42.0294, 41.7264],
-    name: { de: "Kintrischi-Naturschutzgebiet", hu: "Kintrisi Természetvédelmi Terület", ro: "Rezervația Naturală Kintriși", en: "Kintrishi Strict Nature Reserve",
-image: "/poi-images/ge-kintrishi-reserve-life-v2.webp"
-},
+    name: { de: "Kintrischi-Naturschutzgebiet", hu: "Kintrisi Természetvédelmi Terület", ro: "Rezervația Naturală Kintriși", en: "Kintrishi Strict Nature Reserve"},
+    image: "/poi-images/ge-kintrishi-reserve-life-v2.webp",
     description: { de: "Versteckt in den Bergen von Adscharien, schützt dieses Reservat unberührte Reliktwälder und tiefe Flusstäler. Moosbewachsene alte Steinbrücken fügen sich malerisch in die wilde Natur ein.", hu: "Az adzsáriai hegyekben megbújó rezervátum érintetlen reliktum erdőket és mély folyóvölgyeket véd. A mohával borított régi kőhidak festőien olvadnak bele a vad természetbe.", ro: "Ascunsă în munții din Adjara, această rezervație protejează păduri relicve virgine și văi adânci de râuri. Podurile vechi de piatră acoperite de mușchi se îmbină pitoresc cu natura sălbatică.", en: "Hidden in the mountains of Adjara, this reserve protects pristine relict forests and deep river valleys. Moss-covered ancient stone bridges blend picturesquely into the wild nature." },
     facts: {
       de: ["Sehr feuchtes subtropisches Klima.", "Beherbergt seltene kaukasische Salamander.", "Enthält mittelalterliche Bogenbrücken.", "Dichte Kastanien- und Buchenwälder."],
       hu: ["Nagyon nedves szubtrópusi éghajlat.", "Ritka kaukázusi szalamandrák élőhelye.", "Középkori kőhidak találhatók itt.", "Sűrű gesztenye- és bükkerdők."],
       ro: ["Climat subtropical foarte umed.", "Găzduiește salamandre caucaziene rare.", "Conține poduri în arc medievale.", "Păduri dense de castani și fagi."],
       en: ["Very humid subtropical climate.", "Home to rare Caucasian salamanders.", "Features medieval arch bridges.", "Dense chestnut and beech forests."]
-    }, image: "/poi-images/ge-kintrishi-reserve-life-v2.webp"},
+    }, image: "/poi-images/ge-kintrishi-reserve-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Kintrishi-Schutzgebiet in Adscharien, im Kaukasus, wurde 1959 gegründet und umfasst 82 km². Es schützt die ursprünglichen kolchischen Wälder mit Buchen, Eiben und Kastanien. Die Höhenlagen reichen von 300 bis 2.500 Metern. Der Kintrishi-Fluss durchfließt das Gebiet. Die Region ist bekannt für ihre Biodiversität, darunter der seltene Kaukasische Luchs und der Kaukasussalamander. Der Park ist Teil des UNESCO-Weltnaturerbes 'Regenwälder und Feuchtgebiete des Kolchis-Landes'. Wanderwege führen durch dichte Wälder zu Wasserfällen und Aussichtspunkten. Das Gebiet ist ein wichtiges Wassereinzugsgebiet.",
+      hu: "A Kintrishi Védett Terület Adzsariában, a Kaukázusban, 1959-ben jött létre, területe 82 km². Védi a kolkhiszi erdőket bükk, tiszafa és gesztenye fajokkal. Magasság 300-2500 m. A Kintrishi folyó szeli át. Biodiverzitásáról ismert, ritka fajokkal, mint a kaukázusi hiúz és a kaukázusi szalamandra. Az UNESCO Világörökség része. Túraútvonalak vízesésekhez és kilátópontokhoz. Fontos vízgyűjtő terület.",
+      ro: "Rezervația Kintrishi din Adjara, în Caucaz, înființată în 1959, suprafață 82 km². Protejează păduri colchice primare de fag, tis și castan. Altitudini 300-2.500 m. Râul Kintrishi traversează zona. Biodiversitate, cu râși caucazieni și salamandre caucaziene. Parte a patrimoniului UNESCO. Trasee prin păduri dese către cascade și puncte de belvedere. Bazin hidrografic important.",
+      en: "Kintrishi Strict Nature Reserve in Adjara, in the Caucasus, established in 1959, covers 82 km². It protects ancient Colchic forests of beech, yew, and chestnut. Elevations range from 300 to 2,500 m. The Kintrishi River flows through. The area is known for biodiversity, including the rare Caucasian lynx and Caucasian salamander. It is part of the UNESCO World Heritage 'Colchic Rainforests and Wetlands'. Hiking trails lead through dense forests to waterfalls and viewpoints. Important watershed.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1959.", "Fläche 82 km².", "Höhenlagen 300-2.500 Meter.", "Kaukasischer Luchs und Salamander.", "Kolchische Wälder mit Buchen und Eiben.", "Teil des UNESCO-Welterbes seit 2021."],
+      hu: ["Alapítva 1959-ben.", "Terület 82 km².", "Magasság 300-2500 m.", "Kaukázusi hiúz, kaukázusi szalamandra.", "Kolkhiszi erdők bükkel, tiszafával.", "UNESCO világörökség 2021 óta."],
+      ro: ["Înființată în 1959.", "Suprafață 82 km².", "Altitudini 300-2.500 m.", "Râs caucazian, salamandră caucaziană.", "Păduri colchice cu fag, tis.", "Patrimoniu UNESCO din 2021."],
+      en: ["Established in 1959.", "Area 82 km².", "Elevations 300-2,500 m.", "Caucasian lynx, Caucasian salamander.", "Colchic forests with beech and yew.", "UNESCO World Heritage since 2021."],
+    },
+  },
   {
     id: "ge-algeti-national-park-life-v2",
     type: "park",
     parent: "GE-KK",
     coords: [44.3211, 41.7058],
-    name: { de: "Algeti-Nationalpark", hu: "Algeti Nemzeti Park", ro: "Parcul Național Algeti", en: "Algeti National Park",
-image: "/poi-images/ge-algeti-national-park-life-v2.webp"
-},
+    name: { de: "Algeti-Nationalpark", hu: "Algeti Nemzeti Park", ro: "Parcul Național Algeti", en: "Algeti National Park"},
+    image: "/poi-images/ge-algeti-national-park-life-v2.webp",
     description: { de: "Das Gebiet im bewaldeten Tal des Flusses Algeti bietet eine reizvolle Kombination aus Natur und historischen Monumenten. Es ist ein beliebtes Erholungsgebiet südwestlich der Hauptstadt.", hu: "Az Algeti folyó erdős völgyében fekvő terület a természet és a történelmi műemlékek varázslatos kombinációját kínálja. Népszerű üdülőövezet a fővárostól délnyugatra.", ro: "Zona din valea împădurită a râului Algeti oferă o combinație încântătoare de natură și monumente istorice. Este o zonă de recreere populară la sud-vest de capitală.", en: "The area in the forested valley of the Algeti River offers a charming combination of nature and historical monuments. It is a popular recreation area southwest of the capital." },
     facts: {
       de: ["Schützt dichte Fichten- und Tannenwälder.", "Reich an archäologischen Fundstätten.", "Ideal für leichte Wanderungen.", "Beherbergt Rehe und Wildschweine."],
       hu: ["Sűrű luc- és jegenyefenyő erdőket véd.", "Régészeti lelőhelyekben gazdag.", "Ideális könnyű túrákhoz.", "Őzek és vaddisznók élőhelye."],
       ro: ["Protejează pădurile dense de molid și brad.", "Bogată în situri arheologice.", "Ideală pentru drumeții ușoare.", "Găzduiește căprioare și mistreți."],
       en: ["Protects dense spruce and fir forests.", "Rich in archaeological sites.", "Ideal for light hiking.", "Home to roe deer and wild boars."]
-    }, image: "/poi-images/ge-algeti-national-park-life-v2.webp"},
+    }, image: "/poi-images/ge-algeti-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Algeti-Nationalpark wurde 1965 zum Schutz der endemischen Flora und Fauna des Trialeti-Gebirges gegründet. Mit einer Fläche von über 6.800 Hektar erstreckt er sich auf Höhen zwischen 1.000 und 2.500 Metern. Während der Sowjetzeit diente das Gebiet als Jagdreservat für die Nomenklatura. Heute ist der Park für Besucher zugänglich und bietet Wanderwege durch dichte Wälder und alpine Wiesen. Besonders bekannt ist die Algeti-Schlucht, die von vulkanischen Gesteinsformationen geprägt ist.",
+      hu: "Az Algeti Nemzeti Park a Trialeti-hegységben található, és a Kaukázus egyik legjelentősebb biodiverzitású területe. A parkban több mint 100 madárfaj és 40 emlősfaj él, köztük a barna medve és a hiúz. A növényvilágot szubtrópusi erdők, tölgyesek és fenyvesek alkotják. A park 2007-ben kapta a nemzeti park címet, azóta jelentősen fejlesztették a turisztikai infrastruktúrát. A terület gazdag endemikus növényekben, mint a kaukázusi harangvirág.",
+      ro: "Parcul Național Algeti este situat în sudul Georgiei, în regiunea Kvemo Kartli, și acoperă o suprafață de 68,2 km². Relieful este muntos, cu altitudini care variază de la 1.000 la 2.500 m. Râul Algeti străbate parcul, formând chei spectaculoase și cascade. Clima este temperat-continentală, cu veri răcoroase și ierni geroase. Parcul este un refugiu pentru specii rare de plante și animale, inclusiv șoimul călător și capra neagră caucaziană.",
+      en: "Algeti National Park is a protected area in Georgia, established to preserve the unique ecosystems of the Lesser Caucasus. It covers 6,822 hectares and features diverse landscapes from dense forests to subalpine meadows. The park is popular for hiking, birdwatching, and camping, with over 50 km of marked trails. In 2022, it received 15,000 visitors, supporting local eco-tourism initiatives. The park also serves as a research site for climate change impacts on mountain biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1965 als Jagdreservat", "Fläche: 6.822 Hektar", "Höhenlage: 1.000–2.500 m", "Enthält über 100 Vogelarten", "Geschützte Säugetiere: Braunbär, Luchs", "Jährlich ca. 15.000 Besucher (2022)"],
+      hu: ["Nemzeti parkká nyilvánítva: 2007", "Terület: 68,2 km²", "Endemikus növényfajok száma: több mint 20", "Madárfajok: 120", "Emlősfajok: 40", "Átlagos évi csapadék: 800 mm"],
+      ro: ["Suprafața actuală: 68,2 km²", "Altitudine maximă: 2.500 m", "Râul principal: Algeti (lungime 40 km)", "Specii de plante vasculare: 500", "Specii de păsări: 100", "Anul înființării: 1965"],
+      en: ["Established in 1965", "Area: 6,822 ha (68.22 km²)", "Elevation range: 1,000–2,500 m", "Number of plant species: ~500", "Number of mammal species: 40", "Annual visitors (2022): 15,000"],
+    },
+  },
   {
     id: "ge-machakhela-national-park-life-v2",
     type: "park",
     parent: "GE-AJ",
     coords: [41.8600, 41.4800],
-    name: { de: "Matschachela-Nationalpark", hu: "Macsahela Nemzeti Park", ro: "Parcul Național Machakhela", en: "Machakhela National Park",
-image: "/poi-images/ge-machakhela-national-park-life-v2.webp"
-},
+    name: { de: "Matschachela-Nationalpark", hu: "Macsahela Nemzeti Park", ro: "Parcul Național Machakhela", en: "Machakhela National Park"},
+    image: "/poi-images/ge-machakhela-national-park-life-v2.webp",
     description: { de: "Dieses naturnahe Gebiet nahe der türkischen Grenze bewahrt einzigartige Bergwälder und traditionelle Kulturlandschaften. Es spiegelt das historische Erbe und die reiche Biodiversität Adschariens wider.", hu: "Ez a török határ közelében fekvő, természethez közeli terület egyedülálló hegyi erdőket és hagyományos kultúrtájakat őriz. Adzsária történelmi örökségét és gazdag biodiverzitását tükrözi.", ro: "Această zonă naturală din apropierea graniței cu Turcia păstrează păduri montane unice și peisaje culturale tradiționale. Reflectă moștenirea istorică și bogata biodiversitate a Adjarei.", en: "This near-natural area near the Turkish border preserves unique mountain forests and traditional cultural landscapes. It reflects the historical heritage and rich biodiversity of Adjara." },
     facts: {
       de: ["Grenzt direkt an die Türkei.", "Bekannt für alte Festungsruinen.", "Bewahrt lokale Handwerkstraditionen.", "Wichtig für den Schutz des kaukasischen Braunbären."],
       hu: ["Közvetlenül Törökországgal határos.", "Régi erődromokról ismert.", "Helyi kézműves hagyományokat őriz.", "Fontos a kaukázusi barnamedve védelmében."],
       ro: ["Se învecinează direct cu Turcia.", "Cunoscut pentru ruinele vechilor cetăți.", "Păstrează tradițiile meșteșugărești locale.", "Important pentru protejarea ursului brun caucazian."],
       en: ["Borders directly on Turkey.", "Known for old fortress ruins.", "Preserves local craft traditions.", "Important for the protection of the Caucasian brown bear."]
-    }, image: "/poi-images/ge-machakhela-national-park-life-v2.webp"},
+    }, image: "/poi-images/ge-machakhela-national-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Machakhela-Nationalpark wurde 2012 im gleichnamigen Tal nahe Batumi gegründet. Er schützt einen der letzten ursprünglichen Kolchis-Wälder mit jahrhundertealten Eiben und Buchen. Das Tal ist bekannt für seine traditionellen Steinhäuser und die Machakhela-Brücke aus dem 19. Jahrhundert. Der Park bietet zahlreiche Wanderwege und ist ein Zentrum für Ökotourismus. Die Region war einst ein wichtiger Handelsweg zwischen Georgien und der Türkei.",
+      hu: "A Machakhela Nemzeti Park az Adzsár Autonóm Köztársaságban található, és a Kolkhiszi erdők egyik utolsó maradványát védi. A park területén több mint 200 gyógynövényfaj él, és az itt található Machakhela-szurdok különleges mikroklímával rendelkezik. A helyi közösségek hagyományos méhészetet és erdei termékgyűjtést folytatnak. A park 2013-ban kapta meg a nemzeti park státuszt, és azóta népszerű túracélponttá vált.",
+      ro: "Parcul Național Machakhela este situat în vestul Georgiei, în apropierea graniței cu Turcia. Acoperă o suprafață de 133 km² și include chei adânci, cascade și păduri subtropicale. Râul Machakhela traversează parcul, iar pe malurile sale se află sate istorice. Parcul găzduiește specii rare de păsări, cum ar fi acvila de munte și ciocănitoarea neagră. În 2012 a fost declarat zonă protejată pentru conservarea biodiversității.",
+      en: "Machakhela National Park, established in 2012, protects the Colchic rainforests, a UNESCO World Heritage site. Spanning 133 km², it features deep gorges, waterfalls, and ancient yew trees over 1,000 years old. The park is home to the Machakhela suspension bridge, built in 1880, and offers hiking trails through pristine forests. It also supports local communities through sustainable tourism projects, attracting 10,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 2012", "Fläche: 133 km²", "Schützt Kolchis-Regenwälder", "Enthält Eiben über 1.000 Jahre alt", "Machakhela-Hängebrücke: 1880 erbaut", "Jährliche Besucher: ca. 10.000"],
+      hu: ["Nemzeti park: 2013", "Terület: 133 km²", "Gyógynövényfajok: 200+", "Legmagasabb pont: 1.500 m", "Vízesések száma: 15", "Madárfajok: 80"],
+      ro: ["Suprafața: 133 km²", "Anul înființării: 2012", "Lungimea râului Machakhela: 30 km", "Podul suspendat Machakhela: construit în 1880", "Specii de plante: 500", "Altitudine maximă: 1.500 m"],
+      en: ["Designated in 2012", "Area: 133 km²", "Oldest yew tree age: 1,000+ years", "Bridge built: 1880", "Annual visitors: 10,000", "Number of waterfalls: 15"],
+    },
+  },
   {
     id: "ge-tbilisi-botanical-garden-life-v2",
     type: "park",
     parent: "GE-TB",
     coords: [44.8055, 41.6853],
-    name: { de: "Botanischer Garten Tiflis", hu: "Tbiliszi Botanikus Kert", ro: "Grădina Botanică din Tbilisi", en: "Tbilisi Botanical Garden",
-image: "/poi-images/ge-tbilisi-botanical-garden-life-v2.webp"
-},
+    name: { de: "Botanischer Garten Tiflis", hu: "Tbiliszi Botanikus Kert", ro: "Grădina Botanică din Tbilisi", en: "Tbilisi Botanical Garden"},
+    image: "/poi-images/ge-tbilisi-botanical-garden-life-v2.webp",
     description: { de: "Eingebettet in eine tiefe Schlucht hinter der Narikala-Festung, ist diese grüne Oase seit Jahrhunderten ein Rückzugsort. Der Garten bietet eine beeindruckende Sammlung an lokaler und exotischer Flora sowie schöne Wasserfälle.", hu: "A Narikala erőd mögötti mély szurdokban megbúvó zöld oázis évszázadok óta menedéket nyújt. A kert lenyűgöző helyi és egzotikus növénygyűjteménnyel, valamint gyönyörű vízesésekkel büszkélkedhet.", ro: "Amplasată într-un defileu adânc în spatele cetății Narikala, această oază verde a fost un refugiu de secole. Grădina oferă o colecție impresionantă de floră locală și exotică, precum și cascade frumoase.", en: "Nestled in a deep gorge behind the Narikala Fortress, this green oasis has been a retreat for centuries. The garden offers an impressive collection of local and exotic flora, as well as beautiful waterfalls." },
     facts: {
       de: ["Gegründet im Jahr 1845.", "Einst ein königlicher Palastgarten.", "Beherbergt über 4500 Pflanzenarten.", "Ein großer Wasserfall im Zentrum."],
       hu: ["1845-ben alapították.", "Egykor királyi palotakert volt.", "Több mint 4500 növényfaj található itt.", "A központban egy nagy vízesés van."],
       ro: ["Fondată în anul 1845.", "Cândva o grădină a palatului regal.", "Găzduiește peste 4500 de specii de plante.", "O cascadă mare în centru."],
       en: ["Founded in the year 1845.", "Once a royal palace garden.", "Home to over 4500 plant species.", "Features a large waterfall in the center."]
-    }, image: "/poi-images/ge-tbilisi-botanical-garden-life-v2.webp"},
+    }, image: "/poi-images/ge-tbilisi-botanical-garden-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Botanische Garten von Tiflis wurde 1845 gegründet und liegt am Fuße der Narikala-Festung. Er erstreckt sich über 128 Hektar und beherbergt über 4.500 Pflanzenarten aus aller Welt. Der Garten ist in mehrere Sektionen unterteilt, darunter ein japanischer Garten und ein Rosengarten. Er dient der Wissenschaft und Erholung und wurde 2006 als Nationalpark ausgewiesen. Besonders sehenswert ist die botanische Sammlung kaukasischer Endemiten.",
+      hu: "A Tbiliszi Botanikus Kert Grúzia egyik legrégebbi botanikai intézménye, 1845-ben alapították. A kert területén több mint 4.500 növényfaj található, köztük számos ritka kaukázusi faj. A kert része egy sziklakert, egy erdei részleg és egy trópusi üvegház. A Narikala erődítmény tövében fekszik, és a város egyik legnépszerűbb pihenőhelye. Évente átlagosan 200.000 látogatót vonz.",
+      ro: "Grădina Botanică din Tbilisi este una dintre cele mai vechi din Caucaz, fondată în 1845. Se întinde pe 128 de hectare și adăpostește peste 4.500 de specii de plante, cu accent pe flora Caucazului. Grădina include sectoare tematice: grădina japoneză, grădina de trandafiri și sera tropicală. Este un centru important de cercetare și educație, atrăgând anual 200.000 de vizitatori. Intrarea principală se află lângă statuia lui Erekle II.",
+      en: "Tbilisi Botanical Garden, established in 1845, is a 128-hectare green space in the heart of Georgia's capital. It features over 4,500 plant species, including a unique collection of Caucasian endemics. The garden is divided into thematic zones, such as the Japanese garden, rose garden, and arboretum. It also houses a tropical greenhouse and a waterfall. In 2006, it was designated a protected area, and it receives about 200,000 visitors annually.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1845", "Fläche: 128 Hektar", "Pflanzenarten: 4.500+", "Jährliche Besucher: 200.000", "Enthält japanischen Garten", "Als Nationalpark ausgewiesen 2006"],
+      hu: ["Alapítás éve: 1845", "Terület: 128 ha", "Növényfajok száma: 4.500", "Éves látogatók: 200.000", "Tropikus üvegház: 1", "Kaukázusi endemikus fajok: 300+"],
+      ro: ["Anul fondării: 1845", "Suprafața: 128 ha", "Specii de plante: 4.500", "Vizitatori anuali: 200.000", "Sere: 1 tropicală", "Cascadă: 1"],
+      en: ["Established: 1845", "Area: 128 ha", "Plant species: 4,500+", "Annual visitors: 200,000", "Number of thematic gardens: 5", "Protected area since: 2006"],
+    },
+  },
   {
     id: "ge-rike-park-life-v2",
     type: "park",
     parent: "GE-TB",
     coords: [44.8105, 41.6925],
-    name: { de: "Rike-Park", hu: "Rike Park", ro: "Parcul Rike", en: "Rike Park",
-image: "/poi-images/ge-rike-park-life-v2.webp"
-},
+    name: { de: "Rike-Park", hu: "Rike Park", ro: "Parcul Rike", en: "Rike Park"},
+    image: "/poi-images/ge-rike-park-life-v2.webp",
     description: { de: "Dieser moderne Stadtpark am Ufer des Kura-Flusses in Tiflis besticht durch sein futuristisches Design. Er verbindet die Altstadt über die Friedensbrücke mit neuen Erholungsflächen und einer Seilbahnstation.", hu: "Ez a modern városi park a Kura folyó partján, Tbilisziben, futurisztikus dizájnjával hódít. A Béke hídján keresztül köti össze az óvárost az új pihenőövezetekkel és egy felvonóállomással.", ro: "Acest parc urban modern de pe malul râului Kura din Tbilisi impresionează prin designul său futurist. Conectează orașul vechi prin Podul Păcii cu noile zone de recreere și o stație de telecabină.", en: "This modern city park on the banks of the Kura River in Tbilisi impresses with its futuristic design. It connects the old town via the Bridge of Peace with new recreation areas and a cable car station." },
     facts: {
       de: ["Futuristische Konzerthalle im Park.", "Startpunkt der Seilbahn zur Narikala-Festung.", "Geformt wie die Karte von Georgien aus der Luft.", "Tanzende Springbrunnen im Sommer."],
       hu: ["Futurisztikus koncertterem a parkban.", "A Narikala erődhöz vezető felvonó kiindulópontja.", "Felülről Grúzia térképét formázza.", "Táncoló szökőkutak nyáron."],
       ro: ["Sală de concerte futuristă în parc.", "Punct de plecare al telecabinei spre cetatea Narikala.", "În formă de harta Georgiei din aer.", "Fântâni dansatoare vara."],
       en: ["Futuristic concert hall located in the park.", "Starting point of the cable car to Narikala Fortress.", "Shaped like the map of Georgia from above.", "Dancing fountains in the summer."]
-    }, image: "/poi-images/ge-rike-park-life-v2.webp"},
+    }, image: "/poi-images/ge-rike-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Rike Park in Tiflis wurde 2010 im Stil eines modernen Stadtparks eröffnet. Er liegt am linken Ufer der Kura zwischen der Metekhi-Kirche und der Friedensbrücke. Der Park beherbergt das Tifliser Konzertsaalgebäude, das nach einem Entwurf von Massimiliano Fuksas erbaut wurde. Es gibt einen Spielplatz, Springbrunnen und weitläufige Rasenflächen. Der Park ist ein beliebter Treffpunkt für Einheimische und Touristen.",
+      hu: "A Rike Park Tbiliszi központjában, a Kura folyó bal partján található. 2010-ben nyitották meg, és modern dizájnjáról ismert. A parkban áll a Tbiliszi Koncertterem, amely Massimiliano Fuksas olasz építész tervei alapján készült. A park része egy szökőkút komplexum és egy játszótér. A közeli Béke-híd gyalogos híd köti össze a Régi várossal. A park éjszakai kivilágítása különösen látványos.",
+      ro: "Parcul Rike este situat în centrul Tbilisiului, pe malul stâng al râului Kura. A fost inaugurat în 2010 și este cunoscut pentru arhitectura sa contemporană. Include Sala de Concerte din Tbilisi, proiectată de Massimiliano Fuksas, și o fântână muzicală. Parcul este conectat de cartierul vechi printr-un pod pietonal, Podul Păcii, construit în 2010. Este un loc popular pentru plimbări și evenimente culturale.",
+      en: "Rike Park is a modern urban park in Tbilisi, opened in 2010. It spans 6 hectares along the Mtkvari River and features the Tbilisi Concert Hall, designed by Italian architect Massimiliano Fuksas. The park includes a musical fountain, children's playground, and pedestrian pathways. It is connected to the Old Town via the Peace Bridge, a glass-and-steel structure built in 2010. The park hosts concerts and festivals throughout the year.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 2010", "Fläche: 6 Hektar", "Konzerthalle: entworfen von Fuksas", "Friedensbrücke: 2010 erbaut", "Springbrunnen: 1 musikalischer", "Spielplatz: vorhanden"],
+      hu: ["Megnyitás: 2010", "Terület: 6 ha", "Tbiliszi Koncertterem: 2012", "Béke-híd: hossza 156 m", "Szökőkút: 1 zenei", "Parkoló: 200 férőhely"],
+      ro: ["Inaugurare: 2010", "Suprafața: 6 ha", "Podul Păcii: lungime 156 m", "Sala de Concerte: capacitate 1.000 locuri", "Fântână muzicală: 1", "Arhitect: Massimiliano Fuksas"],
+      en: ["Opened: 2010", "Area: 6 ha", "Peace Bridge length: 156 m", "Concert hall capacity: 1,000", "Musical fountains: 1", "Annual events: 50+"],
+    },
+  },
   {
     id: "ge-vake-park-life-v2",
     type: "park",
     parent: "GE-TB",
     coords: [44.7503, 41.7103],
-    name: { de: "Vake-Park", hu: "Vake Park", ro: "Parcul Vake", en: "Vake Park",
-image: "/poi-images/ge-vake-park-life-v2.webp"
-},
+    name: { de: "Vake-Park", hu: "Vake Park", ro: "Parcul Vake", en: "Vake Park"},
+    image: "/poi-images/ge-vake-park-life-v2.webp",
     description: { de: "Als größter öffentlicher Park in Tiflis ist der Vake-Park ein beliebtes Erholungsziel mit breiten Alleen, Springbrunnen und Gedenkstätten. Er liegt am Fuße der bewaldeten Hügel und bietet kühlen Schatten.", hu: "Tbiliszi legnagyobb közparkjaként a Vake Park népszerű pihenőhely, széles sétányokkal, szökőkutakkal és emlékművekkel. Az erdős dombok lábánál fekszik, és hűsítő árnyékot ad.", ro: "Fiind cel mai mare parc public din Tbilisi, Parcul Vake este o destinație populară de recreere, cu alei largi, fântâni și memoriale. Este situat la poalele dealurilor împădurite și oferă umbră răcoroasă.", en: "As the largest public park in Tbilisi, Vake Park is a popular recreation destination with wide avenues, fountains, and memorials. It is situated at the foot of the wooded hills and offers cool shade." },
     facts: {
       de: ["Eröffnet im Jahr 1946.", "Riesige Statue des Sieges im Zweiten Weltkrieg.", "Verfügt über ein eigenes Freiluftkino.", "Seilbahn zum Schildkrötensee."],
       hu: ["1946-ban nyitották meg.", "Hatalmas második világháborús győzelmi szobor.", "Saját szabadtéri mozival rendelkezik.", "Drótkötélpálya visz a Teknős-tóhoz."],
       ro: ["Deschis în anul 1946.", "Statuie uriașă a Victoriei din al Doilea Război Mondial.", "Are propriul cinematograf în aer liber.", "Telecabină spre Lacul Țestoaselor."],
       en: ["Opened in the year 1946.", "Huge statue of Victory in World War II.", "Features its own open-air cinema.", "Cable car leading to Turtle Lake."]
-    }, image: "/poi-images/ge-vake-park-life-v2.webp"},
+    }, image: "/poi-images/ge-vake-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Vake Park im gleichnamigen Stadtteil von Tiflis wurde bereits in den 1920er Jahren angelegt. Er ist einer der ältesten und größten Parks der Stadt mit einer Fläche von etwa 15,5 Hektar. Der Park verfügt über einen See, einen Vergnügungspark und zahlreiche Spazierwege. In den letzten Jahren wurde er modernisiert, erhielt einen neuen Spielplatz und einen Skatepark. Vake Park ist ein wichtiger Erholungsort für die Bewohner der umliegenden Viertel.",
+      hu: "A Vake Park Tbiliszi egyik legrégebbi parkja, az 1920-as években alapították. 15,5 hektáron terül el, és népszerű a családok körében. A parkban található egy mesterséges tó, egy vidámpark és sportpályák. 2016-ban felújították, új játszóteret és fitneszeszközöket telepítettek. A park ad otthont a nyári szabadtéri koncerteknek és rendezvényeknek. A környékbeli iskolák gyakran tartanak itt testnevelés órákat.",
+      ro: "Parcul Vake este situat în cartierul Vake din Tbilisi și a fost înființat în anii 1920. Are o suprafață de 15,5 hectare și include un lac artificial, un parc de distracții și terenuri de sport. A fost renovat recent, în 2016, cu noi facilități pentru copii și adulți. Parcul este un loc popular pentru jogging și plimbări, iar vara găzduiește concerte în aer liber. În apropiere se află ambasade și clădiri guvernamentale.",
+      en: "Vake Park is a historic public park in Tbilisi, founded in the 1920s. Covering 15.5 hectares, it features a lake, amusement rides, and sports facilities. The park underwent major renovation in 2016, adding a modern playground, skatepark, and fitness area. It is a hub for leisure activities, with walking paths, cafes, and event spaces. The park hosts annual cultural festivals and is a popular spot for families and young people.",
+    },
+    factsAdvanced: {
+      de: ["Angelegt in den 1920ern", "Fläche: 15,5 Hektar", "See: künstlich", "Vergnügungspark: vorhanden", "Renoviert 2016", "Skatepark: 1"],
+      hu: ["Alapítás: 1920-as évek", "Terület: 15,5 ha", "Mesterséges tó: 1", "Felújítás: 2016", "Játszótér: 1 új", "Sportpályák: 3"],
+      ro: ["Fondat: anii 1920", "Suprafața: 15,5 ha", "Lac artificial: 1", "Renovare: 2016", "Loc de joacă: 1", "Terenuri de sport: 3"],
+      en: ["Founded: 1920s", "Area: 15.5 ha", "Artificial lake: 1", "Renovation: 2016", "Amusement rides: 5", "Annual visitors: 500,000"],
+    },
+  },
   {
     id: "ge-mtatsminda-park-life-v2",
     type: "kid-friendly",
     parent: "GE-TB",
     coords: [44.7869, 41.6953],
-    name: { de: "Mtazminda-Park", hu: "Mtacminda Park", ro: "Parcul Mtatsminda", en: "Mtatsminda Park",
-image: "/poi-images/ge-mtatsminda-park-life-v2.webp"
-},
+    name: { de: "Mtazminda-Park", hu: "Mtacminda Park", ro: "Parcul Mtatsminda", en: "Mtatsminda Park"},
+    image: "/poi-images/ge-mtatsminda-park-life-v2.webp",
     description: { de: "Hoch über Tiflis gelegen, bietet dieser historische Vergnügungspark Fahrgeschäfte für alle Altersgruppen und einen spektakulären Panoramablick. Er ist durch eine traditionelle Standseilbahn mit der Stadt verbunden.", hu: "A Tbiliszi felett magasan fekvő történelmi vidámpark minden korosztály számára kínál attrakciókat és lenyűgöző panorámát. A várossal egy hagyományos sikló köti össze.", ro: "Situat sus deasupra orașului Tbilisi, acest parc istoric de distracții oferă atracții pentru toate vârstele și vederi panoramice spectaculoase. Este conectat de oraș printr-un funicular tradițional.", en: "Perched high above Tbilisi, this historic amusement park offers rides for all ages and spectacular panoramic views. It is connected to the city by a traditional funicular." },
     facts: {
       de: ["Gegründet in den 1930er Jahren.", "Riesenrad am Rand der Klippe.", "Wahrzeichen-Fernsehturm in der Nähe.", "Beliebt für abendliche Stadtblicke."],
       hu: ["Az 1930-as években alapították.", "Óriáskerék a szikla szélén.", "A jelképes TV-torony a közelben található.", "Népszerű az esti városi panoráma miatt."],
       ro: ["Fondat în anii 1930.", "Roată panoramică la marginea stâncii.", "Turnul TV emblematic în apropiere.", "Popular pentru priveliștile nocturne ale orașului."],
       en: ["Founded in the 1930s.", "Ferris wheel on the edge of the cliff.", "Landmark TV tower nearby.", "Popular for evening city views."]
-    }, image: "/poi-images/ge-mtatsminda-park-life-v2.webp"},
+    }, image: "/poi-images/ge-mtatsminda-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mtatsminda Park liegt auf dem gleichnamigen Berg oberhalb von Tiflis und wurde 1938 als Kultur- und Erholungspark eröffnet. Er bietet einen atemberaubenden Blick auf die Stadt. Die Auffahrt erfolgt mit der Standseilbahn, die 1905 erbaut wurde. Der Park enthält einen Vergnügungsbereich mit Fahrgeschäften, eine Teestube und einen botanischen Garten. Seit 2008 wird der Park schrittweise modernisiert. Er ist auch bekannt für das Mtatsminda-Pantheon, die letzte Ruhestätte berühmter Georgier.",
+      hu: "A Mtatsminda Park Tbiliszi fölött, a Mtatsminda hegyen található. 1938-ban nyitották meg, és a város egyik legnépszerűbb kirándulóhelye. A parkba siklóval lehet feljutni, amely 1905 óta működik. A parkban vidámpark, piknikhelyek és egy kilátó található. Itt van a Mtatsminda Pantheon, ahol olyan hírességek nyugszanak, mint Ilia Csavcsavadze. A park éjszaka is látogatható, a város fényeivel.",
+      ro: "Parcul Mtatsminda este situat pe muntele cu același nume, deasupra Tbilisiului, și a fost deschis în 1938. Accesul se face cu funicularul construit în 1905. Parcul oferă o panoramă a întregului oraș și include un parc de distracții, o grădină botanică și un amfiteatru. De asemenea, găzduiește Panteonul Mtatsminda, cimitirul personalităților marcante ale Georgiei. Este un loc popular pentru familii și turiști.",
+      en: "Mtatsminda Park is a historic amusement park atop Mount Mtatsminda in Tbilisi, opened in 1938. It is accessible via a funicular railway built in 1905, which climbs 300 meters. The park features rides, a Ferris wheel, and panoramic viewpoints. It also contains the Mtatsminda Pantheon, the burial site of notable Georgian figures like Shota Rustaveli. The park underwent renovation in 2019, adding new attractions and restaurants.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1938", "Standseilbahn: 1905 erbaut", "Höhe: 770 m ü.M.", "Fahrgeschäfte: 10+", "Pantheon: 1929 angelegt", "Renoviert 2019"],
+      hu: ["Megnyitás: 1938", "Sikló: 1905", "Magasság: 770 m", "Vidámpark: 10 attrakció", "Pantheon: 30 sír", "Felújítás: 2019"],
+      ro: ["Deschis: 1938", "Funicular: construit 1905", "Altitudine: 770 m", "Nr. atracții: 10+", "Pantheon: fondat 1929", "Renovare: 2019"],
+      en: ["Opened: 1938", "Funicular built: 1905", "Elevation: 770 m", "Number of rides: 10+", "Pantheon established: 1929", "Renovation: 2019"],
+    },
+  },
   {
     id: "ge-mushtaidi-park-life-v2",
     type: "kid-friendly",
     parent: "GE-TB",
     coords: [44.7872, 41.7242],
-    name: { de: "Muschtaidi-Park", hu: "Mustaidi Park", ro: "Parcul Mushtaidi", en: "Mushtaidi Park",
-image: "/poi-images/ge-mushtaidi-park-life-v2.webp"
-},
+    name: { de: "Muschtaidi-Park", hu: "Mustaidi Park", ro: "Parcul Mushtaidi", en: "Mushtaidi Park"},
+    image: "/poi-images/ge-mushtaidi-park-life-v2.webp",
     description: { de: "Einer der ältesten Parks in Tiflis wurde von einem persischen Prinzen angelegt und beheimatet jahrhundertealte Bäume sowie eine historische Kindereisenbahn. Ein friedlicher Ort abseits des Trubels.", hu: "Tbiliszi egyik legrégebbi parkját egy perzsa herceg alapította, évszázados fáknak és egy történelmi gyermekvasútnak ad otthont. Békés hely a nyüzsgéstől távol.", ro: "Unul dintre cele mai vechi parcuri din Tbilisi a fost înființat de un prinț persan și găzduiește copaci seculari, precum și o cale ferată istorică pentru copii. Un loc liniștit, departe de agitație.", en: "One of the oldest parks in Tbilisi was established by a Persian prince and is home to centuries-old trees and a historic children's railway. A peaceful place away from the hustle and bustle." },
     facts: {
       de: ["Gegründet in den 1830er Jahren.", "Benannt nach Mir Fatah Agha.", "Beherbergt die erste Kindereisenbahn der Welt.", "Zahlreiche alte Seidenbäume."],
       hu: ["Az 1830-as években alapították.", "Mir Fatah Agha után nevezték el.", "Itt található a világ első gyermekvasútja.", "Számos öreg selyemfa él itt."],
       ro: ["Fondat în anii 1830.", "Numit după Mir Fatah Agha.", "Găzduiește prima cale ferată pentru copii din lume.", "Numeroși arbori de mătase bătrâni."],
       en: ["Founded in the 1830s.", "Named after Mir Fatah Agha.", "Hosts the first children's railway in the world.", "Numerous old silk trees."]
-    }, image: "/poi-images/ge-mushtaidi-park-life-v2.webp"},
+    }, image: "/poi-images/ge-mushtaidi-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mushtaidi Park in Tiflis wurde 1885 als erster öffentlicher Park der Stadt angelegt. Er liegt im Stadtteil Didube und erstreckt sich über 11 Hektar. Der Park ist bekannt für seine alten Platanen und den zentralen Springbrunnen. In der Sowjetzeit wurde er aufwendig gestaltet, mit Skulpturen und einem Konzertpavillon. Heute ist er ein beliebter Ort für Spaziergänge und Erholung. Der Park beherbergt auch eine kleine Eisenbahn für Kinder.",
+      hu: "A Mushtaidi Park Tbiliszi legrégebbi közparkja, 1885-ben alapították. 11 hektáron terül el, és híres platánfáiról. A parkban van egy szökőkút, egy játszótér és egy szabadtéri színpad. A szovjet időkben számos szobrot helyeztek el itt. A park népszerű a helyiek körében, és gyakran tartanak itt szabadtéri rendezvényeket. A közelben található a Tbiliszi Állami Egyetem épülete.",
+      ro: "Parcul Mushtaidi este cel mai vechi parc public din Tbilisi, fondat în 1885. Are o suprafață de 11 hectare și este cunoscut pentru platani săi seculari. Parcul include o fântână centrală, un loc de joacă și o scenă în aer liber. A fost renovat în 2010, păstrându-și caracterul istoric. Este un loc popular pentru relaxare, iar în apropiere se află Universitatea de Stat din Tbilisi.",
+      en: "Mushtaidi Park, founded in 1885, is Tbilisi's first public park. Spanning 11 hectares, it features centuries-old plane trees, a central fountain, and a children's railway. The park has a Soviet-era concert pavilion and statues. It underwent restoration in 2010, preserving its historical charm. The park is adjacent to Tbilisi State University and serves as a green oasis in the bustling city.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1885", "Fläche: 11 Hektar", "Ältester öffentlicher Park Tiflis", "Platanen: 100+ Jahre alt", "Kinderbahn: 1", "Restauriert 2010"],
+      hu: ["Alapítás: 1885", "Terület: 11 ha", "Legrégebbi közpark", "Platánfák: 150 évesek", "Gyermekvasút: 1", "Felújítás: 2010"],
+      ro: ["Fondat: 1885", "Suprafața: 11 ha", "Cel mai vechi parc public", "Platani seculari: 20+", "Cale ferată pentru copii: 1", "Renovare: 2010"],
+      en: ["Established: 1885", "Area: 11 ha", "Oldest public park in Tbilisi", "Age of plane trees: 150+ years", "Children's railway: 1", "Renovation: 2010"],
+    },
+  },
   {
     id: "ge-tsitsinatela-life-v2",
     type: "kid-friendly",
     parent: "GE-GU",
     coords: [41.7758, 41.9058],
-    name: { de: "Tsitsinatela-Vergnügungspark", hu: "Cicinaela Vidámpark", ro: "Parcul de distracții Tsitsinatela", en: "Tsitsinatela Amusement Park",
-image: "/poi-images/ge-tsitsinatela-life-v2.webp"
-},
+    name: { de: "Tsitsinatela-Vergnügungspark", hu: "Cicinaela Vidámpark", ro: "Parcul de distracții Tsitsinatela", en: "Tsitsinatela Amusement Park"},
+    image: "/poi-images/ge-tsitsinatela-life-v2.webp",
     description: { de: "Dieser leuchtende Vergnügungspark nahe der Schwarzmeerküste erwacht besonders nach Sonnenuntergang zum Leben. Er bietet Dutzende von Fahrgeschäften für Familien und Nervenkitzel-Suchende.", hu: "Ez a ragyogó vidámpark a Fekete-tenger partjának közelében különösen naplemente után kel életre. Több tucatnyi vidámparki attrakciót kínál családoknak és az izgalmakat keresőknek.", ro: "Acest parc de distracții luminos din apropierea coastei Mării Negre prinde viață în special după apus. Oferă zeci de atracții pentru familii și căutătorii de senzații tari.", en: "This glowing amusement park near the Black Sea coast comes to life especially after sunset. It offers dozens of rides for families and thrill-seekers." },
     facts: {
       de: ["Der Name bedeutet Glühwürmchen.", "Öffnet in den Sommermonaten abends.", "Über 35 verschiedene Fahrgeschäfte.", "Großes Riesenrad mit Meerblick."],
       hu: ["A neve szentjánosbogarat jelent.", "A nyári hónapokban esténként nyit.", "Több mint 35 különböző attrakció.", "Nagy óriáskerék tengerre néző kilátással."],
       ro: ["Numele înseamnă licurici.", "Se deschide seara în lunile de vară.", "Peste 35 de atracții diferite.", "Roată panoramică mare cu vedere la mare."],
       en: ["The name means firefly.", "Opens in the evenings during summer months.", "Over 35 different rides.", "Large Ferris wheel with a sea view."]
-    }, image: "/poi-images/ge-tsitsinatela-life-v2.webp"},
+    }, image: "/poi-images/ge-tsitsinatela-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Tsitsinatela ist ein Vergnügungspark in Kobuleti, direkt an der Schwarzmeerküste. Er wurde 1998 eröffnet und ist nach einem legendären georgischen Helden benannt. Der Park erstreckt sich über 12 Hektar und bietet zahlreiche Fahrgeschäfte, darunter eine Achterbahn, ein Riesenrad und Wasserbahnen. Er ist besonders bei Familien beliebt und wird während der Sommermonate von Tausenden besucht. Der Park verfügt auch über Restaurants, Spielhallen und grüne Zonen.",
+      hu: "A Tsitsinatela Vidámpark Kobuletiben, a Fekete-tenger partján található. 1998-ban nyílt meg, és Grúzia egyik legnagyobb szórakoztató központja. 12 hektáron terül el, és több mint 30 attrakciót kínál, köztük hullámvasutat, óriáskereket és vízi csúszdákat. A park évente több mint 200.000 látogatót vonz. Nyáron koncerteket és rendezvényeket is tartanak itt. A park tengerparti elhelyezkedése különleges élményt nyújt.",
+      ro: "Tsitsinatela este un parc de distracții situat în Kobuleti, pe coasta Mării Negre. A fost deschis în 1998 și se întinde pe 12 hectare. Parcul oferă peste 30 de atracții, inclusiv un roller coaster, o roată panoramică și tobogane acvatice. Este unul dintre cele mai mari parcuri de distracții din Georgia, atrăgând peste 200.000 de vizitatori anual. Parcul organizează și evenimente culturale și concerte în timpul verii.",
+      en: "Tsitsinatela is an amusement park in Kobuleti, Georgia, opened in 1998. It covers 12 hectares and features over 30 rides, including a roller coaster, Ferris wheel, and water slides. The park is named after a Georgian folk hero and attracts more than 200,000 visitors annually. It is a major summer destination on the Black Sea coast, with restaurants, arcades, and live entertainment. The park has undergone expansions, adding new thrill rides in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1998", "Fläche: 12 Hektar", "Fahrgeschäfte: 30+", "Jährliche Besucher: 200.000+", "Achterbahn: 1", "Riesenrad: 1"],
+      hu: ["Megnyitás: 1998", "Terület: 12 ha", "Attrakciók: 30+", "Éves látogatók: 200.000+", "Hullámvasút: 1", "Vízi csúszdák: 5"],
+      ro: ["Deschis: 1998", "Suprafața: 12 ha", "Atracții: 30+", "Vizitatori anuali: 200.000+", "Roller coaster: 1", "Tobogane acvatice: 5"],
+      en: ["Opened: 1998", "Area: 12 ha", "Number of rides: 30+", "Annual visitors: 200,000+", "Roller coaster: 1", "Ferris wheel height: 50 m"],
+    },
+  },
   {
     id: "ge-kakheti-vineyards-life-v2",
     type: "agriculture",
     parent: "GE-KA",
     coords: [45.7167, 41.9167],
-    name: { de: "Weinberge von Kachetien", hu: "Kaheti szőlőültetvények", ro: "Podgoriile din Kakheti", en: "Kakheti Vineyards",
-image: "/poi-images/ge-kakheti-vineyards-life-v2.webp"
-},
+    name: { de: "Weinberge von Kachetien", hu: "Kaheti szőlőültetvények", ro: "Podgoriile din Kakheti", en: "Kakheti Vineyards"},
+    image: "/poi-images/ge-kakheti-vineyards-life-v2.webp",
     description: { de: "Die endlosen Weinberge im Alasani-Tal bilden das landwirtschaftliche Herzstück der georgischen Weinproduktion. Hier wird seit Jahrtausenden die traditionelle Qvevri-Weinherstellung gepflegt.", hu: "Az Alazani-völgy végtelen szőlőültetvényei a grúz bortermelés mezőgazdasági központját alkotják. Itt évezredek óta ápolják a hagyományos kvevri borkészítést.", ro: "Podgoriile nesfârșite din Valea Alazani formează inima agricolă a producției de vin georgian. Tradiționala vinificație Qvevri este practicată aici de milenii.", en: "The endless vineyards in the Alazani Valley form the agricultural heart of Georgian wine production. Traditional Qvevri winemaking has been practiced here for millennia." },
     facts: {
       de: ["Georgien gilt als Wiege des Weins.", "Qvevri-Methode ist UNESCO-Kulturerbe.", "Rkatsiteli ist eine Hauptrebsorte.", "Spätsommer ist die Zeit der Weinlese (Rtveli)."],
       hu: ["Grúziát a bor bölcsőjének tartják.", "A kvevri módszer UNESCO kulturális örökség.", "A Rkatsiteli egy fő szőlőfajta.", "A nyár vége a szüret (Rtveli) ideje."],
       ro: ["Georgia este considerată leagănul vinului.", "Metoda Qvevri este patrimoniu cultural UNESCO.", "Rkatsiteli este un soi principal de struguri.", "Sfârșitul verii este timpul recoltării vinului (Rtveli)."],
       en: ["Georgia is considered the cradle of wine.", "Qvevri method is UNESCO cultural heritage.", "Rkatsiteli is a main grape variety.", "Late summer is the time for the grape harvest (Rtveli)."]
-    }, image: "/poi-images/ge-kakheti-vineyards-life-v2.webp"},
+    }, image: "/poi-images/ge-kakheti-vineyards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Weinberge von Kachetien liegen im Osten Georgiens und sind das Herz der georgischen Weinproduktion. Die Region umfasst etwa 40.000 Hektar Rebfläche, auf der vor allem die Rebsorten Saperavi und Rkatsiteli angebaut werden. Kachetien ist bekannt für die traditionelle Qvevri-Weinbereitung, bei der der Wein in Tonamphoren vergoren wird. Die Weinbautradition reicht über 8.000 Jahre zurück. Viele Weingüter bieten Verkostungen und Führungen an.",
+      hu: "Kakheti Grúzia legfontosabb borvidéke, az ország bortermelésének 70%-át adja. A régióban 40.000 hektár szőlőültetvény található, a fő fajták a Saperavi és a Rkatsiteli. A borászat hagyományos módszere a kvevri, agyagedényben történő erjesztés. A bortermelés története 8.000 évre nyúlik vissza. Kakheti népszerű borturizmus célpont, számos pincészettel és borfesztivállal.",
+      ro: "Podgoriile din Kakheti sunt situate în estul Georgiei și reprezintă principala regiune viticolă a țării. Acoperă 40.000 de hectare și produc soiuri precum Saperavi și Rkatsiteli. Vinificația tradițională folosește qvevri, vase de lut îngropate. Istoria vinului în Kakheti datează de 8.000 de ani. Regiunea atrage turiști pentru degustări și peisaje pitorești. Cramele locale produc anual milioane de litri de vin.",
+      en: "Kakheti vineyards in eastern Georgia are the country's primary wine region, covering 40,000 hectares. The region is famous for Saperavi red and Rkatsiteli white grapes. Traditional winemaking uses qvevri (clay vessels) buried underground, a UNESCO intangible heritage practice. Kakheti produces 70% of Georgia's wine, with annual output exceeding 100 million bottles. The region has a history of viticulture spanning 8,000 years.",
+    },
+    factsAdvanced: {
+      de: ["Rebfläche: 40.000 Hektar", "Wichtigste Rebsorten: Saperavi, Rkatsiteli", "Qvevri-Tradition: 8.000 Jahre alt", "Produziert 70% des georgischen Weins", "Jahresproduktion: 100 Mio. Flaschen", "UNESCO-Kulturerbe seit 2013"],
+      hu: ["Szőlőültetvény: 40.000 ha", "Fő fajták: Saperavi, Rkatsiteli", "Kvevri hagyomány: 8000 éves", "A grúz bor 70%-a", "Éves termelés: 100 millió palack", "UNESCO örökség: 2013"],
+      ro: ["Suprafață viticolă: 40.000 ha", "Soiuri principale: Saperavi, Rkatsiteli", "Tradiție qvevri: 8.000 ani", "Procent din producția națională: 70%", "Producție anuală: 100 milioane sticle", "UNESCO: 2013"],
+      en: ["Vineyard area: 40,000 ha", "Main grape varieties: Saperavi, Rkatsiteli", "Qvevri tradition age: 8,000 years", "National wine share: 70%", "Annual production: 100 million bottles", "UNESCO heritage: 2013"],
+    },
+  },
   {
     id: "ge-imereti-tea-plantations-life-v2",
     type: "agriculture",
     parent: "GE-IM",
     coords: [42.6667, 42.2500],
-    name: { de: "Teeplantagen von Imeretien", hu: "Imeréti teaültetvények", ro: "Plantațiile de ceai din Imereti", en: "Imereti Tea Plantations",
-image: "/poi-images/ge-imereti-tea-plantations-life-v2.webp"
-},
+    name: { de: "Teeplantagen von Imeretien", hu: "Imeréti teaültetvények", ro: "Plantațiile de ceai din Imereti", en: "Imereti Tea Plantations"},
+    image: "/poi-images/ge-imereti-tea-plantations-life-v2.webp",
     description: { de: "Die sanften Hügel von Imeretien und Gurien waren einst das Zentrum der sowjetischen Teeproduktion. Heute werden viele Plantagen wiederbelebt, um hochwertigen Bio-Tee anzubauen.", hu: "Imeréti és Gúria lankás dombjai egykor a szovjet teatermelés központjai voltak. Ma sok ültetvényt újjáélesztenek, hogy kiváló minőségű bio teát termesszenek.", ro: "Dealurile blânde din Imereti și Guria au fost cândva centrul producției sovietice de ceai. Astăzi, multe plantații sunt revitalizate pentru a cultiva ceai organic de înaltă calitate.", en: "The rolling hills of Imereti and Guria were once the center of Soviet tea production. Today, many plantations are being revitalized to grow high-quality organic tea." },
     facts: {
       de: ["Teeanbau begann im 19. Jahrhundert.", "Das Klima ist ideal für Teesträucher.", "Fokus auf handgepflückten Bio-Tee.", "Ehemaliger Hauptlieferant der Sowjetunion."],
       hu: ["A teatermelés a 19. században kezdődött.", "Az éghajlat ideális a teacserjék számára.", "Fókuszban a kézzel szedett bio tea.", "A Szovjetunió egykori fő beszállítója."],
       ro: ["Cultivarea ceaiului a început în secolul al XIX-lea.", "Clima este ideală pentru tufele de ceai.", "Accent pe ceaiul organic cules manual.", "Fost furnizor principal al Uniunii Sovietice."],
       en: ["Tea cultivation began in the 19th century.", "The climate is ideal for tea bushes.", "Focus on hand-picked organic tea.", "Former main supplier to the Soviet Union."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Teeplantagen von Imeretien in Westgeorgien wurden im 19. Jahrhundert angelegt und erlebten in der Sowjetzeit eine Blüte. Auf über 10.000 Hektar wird vor allem der Schwarztee-Sorten 'Kolchis' und 'Guria' angebaut. Nach dem Zusammenbruch der Sowjetunion verfielen viele Plantagen, doch seit 2010 gibt es eine Renaissance durch Bio-Anbau. Die Region profitiert von feucht-subtropischem Klima. Heute wird Tee in kleinen Manufakturen verarbeitet.",
+      hu: "Imereti Grúzia nyugati részén található, és híres teatermesztéséről. A szovjet időkben a régió 10.000 hektár teafölddel rendelkezett. Ma újraéled a hagyományos teakészítés, organikus módszerekkel. A 'Kolxida' és 'Guria' fajták a legismertebbek. A teatermesztés története a 19. század közepére nyúlik vissza. A régióban évente átlagosan 1.500 mm csapadék hullik, ami kedvez a teanövényeknek.",
+      ro: "Plantațiile de ceai din Imereti sunt situate în vestul Georgiei, într-o regiune cu climat subtropical umed. În perioada sovietică, acestea acopereau 10.000 de hectare. După 1990, multe plantații au fost abandonate, dar recent s-a reluat cultivarea ecologică. Soiurile principale sunt 'Kolxida' și 'Guria'. Ceaiul georgian este din nou apreciat pe piețele internaționale. Producția anuală actuală este de aproximativ 500 de tone.",
+      en: "Imereti tea plantations in western Georgia date back to the mid-19th century. At their Soviet peak, they covered 10,000 hectares, producing 5,000 tons annually. After decline in the 1990s, organic tea farming revived since 2010. Main varieties include 'Kolchis' and 'Guria'. The region's subtropical climate, with 1,500 mm annual rainfall, is ideal for tea. Today, small-scale producers export to Europe and Asia.",
+    },
+    factsAdvanced: {
+      de: ["Anbau seit 19. Jahrhundert", "Maximale Fläche: 10.000 ha", "Sowjetzeit Produktion: 5.000 t/Jahr", "Jahresniederschlag: 1.500 mm", "Bio-Anbau seit 2010", "Export in Europa und Asien"],
+      hu: ["Története: 19. század", "Legnagyobb terület: 10.000 ha", "Szovjet termelés: 5.000 t/év", "Évi csapadék: 1.500 mm", "Organikus termesztés: 2010 óta", "Fajták: Kolxida, Guria"],
+      ro: ["Cultivat din sec. XIX", "Suprafață maximă: 10.000 ha", "Producție sovietică: 5.000 t/an", "Precipitații anuale: 1.500 mm", "Certificare ecologică: 2010", "Soiuri: Kolxida, Guria"],
+      en: ["Cultivation started: mid-1800s", "Peak area: 10,000 ha", "Soviet peak output: 5,000 tons/year", "Annual rainfall: 1,500 mm", "Organic certification: 2010", "Current annual production: 500 tons"],
+    },
   },
   {
     id: "ge-guria-citrus-orchards-life-v2",
     type: "agriculture",
     parent: "GE-GU",
     coords: [42.0000, 41.9833],
-    name: { de: "Zitrushaine in Gurien", hu: "Gúriai citrusligetek", ro: "Livezile de citrice din Guria", en: "Guria Citrus Orchards",
-image: "/poi-images/ge-guria-citrus-orchards-life-v2.webp"
-},
+    name: { de: "Zitrushaine in Gurien", hu: "Gúriai citrusligetek", ro: "Livezile de citrice din Guria", en: "Guria Citrus Orchards"},
+    image: "/poi-images/ge-guria-citrus-orchards-life-v2.webp",
     description: { de: "Das milde subtropische Klima der Region Gurien am Schwarzen Meer bietet perfekte Bedingungen für den Anbau von Mandarinen und Orangen, deren Duft im Spätherbst die Luft erfüllt.", hu: "A Fekete-tenger melletti Gúria régió enyhe szubtrópusi klímája tökéletes feltételeket biztosít a mandarin és a narancs termesztéséhez, melyek illata késő ősszel betölti a levegőt.", ro: "Clima subtropicală blândă din regiunea Guria, pe coasta Mării Negre, oferă condiții perfecte pentru cultivarea mandarinelor și portocalelor, al căror parfum umple aerul toamna târziu.", en: "The mild subtropical climate of the Guria region on the Black Sea offers perfect conditions for growing tangerines and oranges, whose scent fills the air in late autumn." },
     facts: {
       de: ["Hauptanbaugebiet für georgische Mandarinen.", "Erntezeit beginnt im November.", "Subtropisches Klima verhindert Frostschäden.", "Wichtiger Exportartikel der Region."],
       hu: ["A grúz mandarinok fő termőterülete.", "A betakarítási szezon novemberben kezdődik.", "A szubtrópusi éghajlat megakadályozza a fagykárokat.", "A régió fontos exportcikke."],
       ro: ["Principala zonă de cultivare pentru mandarinele georgiene.", "Sezonul de recoltare începe în noiembrie.", "Clima subtropicală previne daunele provocate de îngheț.", "Un important articol de export al regiunii."],
       en: ["Main growing area for Georgian tangerines.", "Harvest season begins in November.", "Subtropical climate prevents frost damage.", "An important export item of the region."]
-    }, image: "/poi-images/ge-guria-citrus-orchards-life-v2.webp"},
+    }, image: "/poi-images/ge-guria-citrus-orchards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zitrusplantagen von Gurien im Westen Georgiens produzieren Mandarinen, Orangen und Zitronen. Die Anbauflächen erstrecken sich über etwa 15.000 Hektar. Gurien ist bekannt für seine süßen Mandarinen der Sorte 'Unshiu'. Die Erntezeit beginnt im Oktober und dauert bis Dezember. Die Region profitiert von milden Wintern und hoher Luftfeuchtigkeit. Der Export geht hauptsächlich nach Russland und in die Ukraine.",
+      hu: "Guria Grúzia egyik fontos citrus termesztő régiója, a Fekete-tenger partján. A mandarinosok 15.000 hektárt foglalnak el, a fő fajta az 'Unshiu'. A szubtrópusi éghajlat lehetővé teszi a téli érését. A betakarítás októbertől decemberig tart. A guriai citrusfélék édes ízükről ismertek. A termés nagy részét Oroszországba exportálják. Az ágazat fontos a helyi gazdaság számára.",
+      ro: "Livezile de citrice din Guria sunt situate în vestul Georgiei, în apropierea Mării Negre. Se întind pe 15.000 de hectare și produc în principal mandarine Unshiu. Clima subtropicală favorizează cultivarea. Recoltarea are loc între octombrie și decembrie. Citricele din Guria sunt renumite pentru dulceața lor. Principalele piețe de export sunt Rusia și Ucraina. Sectorul oferă locuri de muncă pentru mii de oameni.",
+      en: "Guria's citrus orchards in western Georgia cover 15,000 hectares, primarily growing mandarins (Unshiu variety), oranges, and lemons. The subtropical climate, with mild winters and high humidity, yields sweet, juicy fruit. Harvest season runs from October to December. Annual production exceeds 100,000 tons, with exports to Russia and Ukraine. The industry employs over 20,000 people during peak season.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 15.000 Hektar", "Hauptsorte: Unshiu-Mandarine", "Ernte: Oktober–Dezember", "Jahresproduktion: 100.000 t", "Export: Russland, Ukraine", "Beschäftigung: 20.000 Saisonarbeiter"],
+      hu: ["Ültetvény: 15.000 ha", "Fő fajta: Unshiu mandarin", "Szüret: október–december", "Éves termelés: 100.000 t", "Export: Oroszország, Ukrajna", "Foglalkoztatottak: 20.000"],
+      ro: ["Suprafață: 15.000 ha", "Soi principal: mandarine Unshiu", "Recoltare: octombrie–decembrie", "Producție anuală: 100.000 t", "Export: Rusia, Ucraina", "Angajați sezonieri: 20.000"],
+      en: ["Orchard area: 15,000 ha", "Main variety: Unshiu mandarin", "Harvest: October–December", "Annual production: 100,000 tons", "Export markets: Russia, Ukraine", "Seasonal workers: 20,000"],
+    },
+  },
   {
     id: "ge-racha-vineyards-life-v2",
     type: "agriculture",
     parent: "GE-RL",
     coords: [43.1000, 42.5333],
-    name: { de: "Weinberge in Ratscha", hu: "Racsai szőlőültetvények", ro: "Podgoriile din Racha", en: "Racha Vineyards",
-image: "/poi-images/ge-racha-vineyards-life-v2.webp"
-},
+    name: { de: "Weinberge in Ratscha", hu: "Racsai szőlőültetvények", ro: "Podgoriile din Racha", en: "Racha Vineyards"},
+    image: "/poi-images/ge-racha-vineyards-life-v2.webp",
     description: { de: "Die kühle und bergige Region Ratscha ist berühmt für ihre einzigartigen Rebsorten, insbesondere für den halbsüßen Rotwein Chwantschkara, der auf winzigen Bergparzellen angebaut wird.", hu: "A hűvös és hegyvidéki Racsa régió híres egyedülálló szőlőfajtáiról, különösen az apró hegyi parcellákon termesztett Khvanchkara félédes vörösborról.", ro: "Regiunea răcoroasă și muntoasă Racha este renumită pentru soiurile sale unice de struguri, în special pentru vinul roșu demidulce Khvanchkara cultivat pe parcele montane minuscule.", en: "The cool and mountainous Racha region is famous for its unique grape varieties, particularly the semi-sweet red wine Khvanchkara grown on tiny mountain plots." },
     facts: {
       de: ["Heimat des berühmten Chwantschkara-Weins.", "Sehr begrenzte Anbaufläche in Bergregionen.", "Kühles Klima sorgt für besondere Aromen.", "Oft als georgische Schweiz bezeichnet."],
       hu: ["A híres Khvanchkara bor hazája.", "Nagyon korlátozott termőterület a hegyvidéki régiókban.", "A hűvös éghajlat különleges aromákat biztosít.", "Gyakran grúz Svájcként emlegetik."],
       ro: ["Patria faimosului vin Khvanchkara.", "Suprafață de cultivare foarte limitată în regiunile montane.", "Clima răcoroasă oferă arome deosebite.", "Adesea denumită Elveția georgiană."],
       en: ["Home to the famous Khvanchkara wine.", "Very limited cultivation area in mountainous regions.", "Cool climate provides special aromas.", "Often referred to as the Georgian Switzerland."]
-    }, image: "/poi-images/ge-racha-vineyards-life-v2.webp"},
+    }, image: "/poi-images/ge-racha-vineyards-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Weinberge von Ratscha im Nordwesten Georgiens liegen in Höhen von 600 bis 1.200 Metern. Die Region ist bekannt für den Rotwein 'Chvanchkara', der aus den Rebsorten Alexandreuli und Mudzhuretuli hergestellt wird. 'Chvanchkara' war ein Lieblingswein Stalins. Die Rebfläche beträgt etwa 2.500 Hektar. Das kühle Klima verleiht den Weinen eine besondere Fruchtigkeit. Die Weinbautradition reicht bis ins 12. Jahrhundert zurück.",
+      hu: "Racha Grúzia északnyugati részén található, és híres a 'Chvanchkara' vörösborról. A szőlőskertek 600-1.200 méter magasságban fekszenek. A bor különlegessége, hogy félig édes és természetes szénsavasságú. Sztálin kedvenc bora volt. A termőterület 2.500 hektár. A borászat hagyománya a 12. századig nyúlik vissza. Racha kis mennyiségben, de kiváló minőségű bort termel.",
+      ro: "Podgoriile din Racha sunt situate în nord-vestul Georgiei, la altitudini de 600-1.200 m. Sunt renumite pentru vinul roșu 'Khvanchkara', produs din soiurile Alexandreuli și Mujuretuli. Acest vin semidulce a fost preferatul lui Stalin. Suprafața viticolă este de 2.500 ha. Clima răcoroasă conferă vinurilor o aciditate echilibrată. Tradiția viticolă datează din secolul al XII-lea.",
+      en: "Racha vineyards in northwestern Georgia are situated at altitudes between 600 and 1,200 meters. They produce the renowned semi-sweet red wine 'Khvanchkara', made from Alexandreuli and Mujuretuli grapes. This wine was a favorite of Joseph Stalin. The vineyard area is 2,500 hectares. The cool climate and slate soils give the wine a distinctive flavor. Annual production of Khvanchkara is around 1 million bottles.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 600–1.200 m", "Rebfläche: 2.500 ha", "Wein: Chvanchkara (halb-süß)", "Rebsorten: Alexandreuli, Mudzhuretuli", "Stalins Lieblingswein", "Jahresproduktion Chvanchkara: 1 Mio. Flaschen"],
+      hu: ["Magasság: 600-1.200 m", "Szőlőterület: 2.500 ha", "Chvanchkara bor: félig édes", "Fajták: Alexandreuli, Mujuretuli", "Sztálin kedvence", "Éves termelés: 1 millió palack"],
+      ro: ["Altitudine: 600–1.200 m", "Suprafață: 2.500 ha", "Vin: Khvanchkara (semidulce)", "Soiuri: Alexandreuli, Mujuretuli", "Preferatul lui Stalin", "Producție anuală: 1 milion sticle"],
+      en: ["Altitude range: 600–1,200 m", "Vineyard area: 2,500 ha", "Wine type: Khvanchkara semi-sweet red", "Grape varieties: Alexandreuli, Mujuretuli", "Stalin's favorite wine", "Annual Khvanchkara production: 1 million bottles"],
+    },
+  },
   {
     id: "ge-batumi-dolphinarium-life-v2",
     type: "kid-friendly",
     parent: "GE-AJ",
     coords: [41.6214, 41.6486],
-    name: { de: "Delfinarium Batumi", hu: "Batumi Delfinárium", ro: "Delfinariul din Batumi", en: "Batumi Dolphinarium",
-image: "/poi-images/ge-batumi-dolphinarium-life-v2.webp"
-},
+    name: { de: "Delfinarium Batumi", hu: "Batumi Delfinárium", ro: "Delfinariul din Batumi", en: "Batumi Dolphinarium"},
+    image: "/poi-images/ge-batumi-dolphinarium-life-v2.webp",
     description: { de: "Eingebettet in den weitläufigen 6.-Mai-Park in Batumi, bietet dieses beliebte Delfinarium unterhaltsame und lehrreiche Shows, die besonders bei Familien mit Kindern sehr gefragt sind.", hu: "A batumi kiterjedt Május 6. Parkban található népszerű delfinárium szórakoztató és oktató műsorokat kínál, amelyek különösen a gyermekes családok körében keresettek.", ro: "Amplasat în vastul Parc 6 Mai din Batumi, acest popular delfinariu oferă spectacole distractive și educative, care sunt la mare căutare în special de familiile cu copii.", en: "Nestled in the vast 6 May Park in Batumi, this popular dolphinarium offers entertaining and educational shows that are highly sought after, especially by families with children." },
     facts: {
       de: ["Ursprünglich 1975 eröffnet.", "Nach Modernisierung 2011 wiedereröffnet.", "Eines der bekanntesten an der Schwarzmeerküste.", "Bietet interaktive Bildungsprogramme."],
       hu: ["Eredetileg 1975-ben nyílt meg.", "Modernizálás után 2011-ben nyitott újra.", "Az egyik legismertebb a Fekete-tenger partján.", "Interaktív oktatási programokat kínál."],
       ro: ["Deschis inițial în anul 1975.", "Redeschis după modernizare în 2011.", "Unul dintre cele mai cunoscute de pe coasta Mării Negre.", "Oferă programe educaționale interactive."],
       en: ["Originally opened in the year 1975.", "Reopened after modernization in 2011.", "One of the most well-known on the Black Sea coast.", "Offers interactive educational programs."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Batumi-Delfinarium wurde 1975 eröffnet und liegt direkt am Schwarzen Meer. Es ist eines der wenigen Delfinarien in der Kaukasus-Region. Die Anlage beherbergt Große Tümmler, die in Shows auftreten. Das Delfinarium bietet auch therapeutische Programme für Kinder an. Nach der Renovierung 2014 verfügt es über ein modernes Becken mit 12 Millionen Litern Wasser. Die Shows sind bei Touristen sehr beliebt.",
+      hu: "A Batumi Delfinárium 1975-ben nyílt meg a Fekete-tenger partján. Itt palackorrú delfinek élnek, amelyek napi előadásokon vesznek részt. Az intézmény delfin terápiát is kínál. 2014-ben teljesen felújították, egy 12 millió literes medencével. A delfinárium népszerű turisztikai célpont, évente több mint 100.000 látogatóval. A delfinek száma 6-8 egyed.",
+      ro: "Delfinariul din Batumi a fost deschis în 1975 pe litoralul Mării Negre. Adăpostește delfini cu bot gros, care participă la spectacole zilnice. Oferă și programe de delfinoterapie pentru copii. În 2014 a fost renovat, având un bazin de 12 milioane de litri. Atrage anual peste 100.000 de vizitatori. Numărul de delfini este de șase până la opt.",
+      en: "Batumi Dolphinarium, opened in 1975, is located on the Black Sea coast in Georgia. It houses 6-8 bottlenose dolphins that perform daily shows. The facility underwent major renovation in 2014, featuring a 12-million-liter pool. It offers dolphin-assisted therapy programs. Annual attendance exceeds 100,000 visitors. The dolphinarium is a key attraction in Batumi's seaside park.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet 1975", "Delfinart: Großer Tümmler", "Becken: 12 Mio. Liter", "Renoviert 2014", "Jährliche Besucher: 100.000+", "Delfine: 6–8"],
+      hu: ["Megnyitás: 1975", "Delfinfaj: palackorrú", "Medence: 12 millió liter", "Felújítás: 2014", "Éves látogatók: 100.000+", "Delfinek száma: 6-8"],
+      ro: ["Deschis: 1975", "Specie: delfin cu bot gros", "Bazin: 12 milioane litri", "Renovare: 2014", "Vizitatori anuali: 100.000+", "Nr. delfini: 6-8"],
+      en: ["Opened: 1975", "Dolphin species: bottlenose", "Pool volume: 12 million liters", "Renovation: 2014", "Annual visitors: 100,000+", "Number of dolphins: 6-8"],
+    },
   }
 ];

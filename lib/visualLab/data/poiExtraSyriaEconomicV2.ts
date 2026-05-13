@@ -6,305 +6,539 @@ export const poiExtraSyriaEconomicV2: POI[] = [
     type: "industry",
     parent: "SY-TA",
     coords: [35.95, 35.21],
-    name: { de: "Raffinerie Baniyas", hu: "Banjász Finomító", ro: "Rafinăria Baniyas", en: "Baniyas Refinery",
-image: "/poi-images/baniyas-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Baniyas", hu: "Banjász Finomító", ro: "Rafinăria Baniyas", en: "Baniyas Refinery"},
+    image: "/poi-images/baniyas-refinery-economic-v2.webp",
     description: { de: "Eine der größten Erdölraffinerien Syriens an der Mittelmeerküste, die für die Energieversorgung des Landes von zentraler Bedeutung ist.", hu: "Szíria egyik legnagyobb kőolajfinomítója a Földközi-tenger partján, amely központi jelentőségű az ország energiaellátásában.", ro: "Una dintre cele mai mari rafinării de petrol din Siria, pe coasta mediteraneană, cu o importanță centrală pentru aprovizionarea cu energie a țării.", en: "One of Syria's largest oil refineries on the Mediterranean coast, central to the country's energy supply." },
     facts: {
       de: ["Wurde 1964 in Betrieb genommen.", "Wichtiger Knotenpunkt für Rohölexporte.", "Befindet sich nördlich von Tartus.", "Verarbeitet sowohl lokales als auch importiertes Öl."],
       hu: ["1964-ben helyezték üzembe.", "Fontos csomópont a kőolajexport számára.", "Tartúsztól északra található.", "Helyi és importált olajat is feldolgoz."],
       ro: ["A fost pusă în funcțiune în 1964.", "Nod important pentru exporturile de țiței.", "Situată la nord de Tartus.", "Procesează atât petrol local, cât și importat."],
       en: ["Commissioned in 1964.", "Important hub for crude oil exports.", "Located north of Tartus.", "Processes both local and imported oil."]
-    }, image: "/poi-images/baniyas-refinery-economic-v2.webp"},
+    }, image: "/poi-images/baniyas-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Baniyas-Raffinerie ist eine Ölraffinerie in der Stadt Baniyas an der syrischen Mittelmeerküste. Sie wurde 1979 in Betrieb genommen und hat eine Kapazität von etwa 130.000 Barrel pro Tag. Die Anlage verarbeitet Rohöl aus den syrischen Ölfeldern sowie importiertes Rohöl über den Hafen von Baniyas. Die Raffinerie produziert Treibstoffe, Heizöl und Schmierstoffe. Sie ist ein wichtiger Bestandteil der syrischen Energieinfrastruktur. Während des Bürgerkriegs wurde sie mehrmals beschädigt, aber teilweise repariert.",
+      hu: "A Baniyas-i olajfinomító egy olajfinomító Baniyas városában, a szíriai Földközi-tenger partján. 1979-ben helyezték üzembe, kapacitása körülbelül 130 000 hordó naponta. Az üzem a szíriai olajmezőkről származó nyersolajat, valamint a Baniyas-i kikötőn keresztül importált nyersolajat dolgoz fel. A finomító üzemanyagokat, fűtőolajat és kenőanyagokat gyárt. Fontos része a szíriai energia-infrastruktúrának. A polgárháború alatt többször megsérült, de részben megjavították.",
+      ro: "Rafinăria Baniyas este o rafinărie de petrol din orașul Baniyas, pe coasta siriană a Mării Mediterane. A fost pusă în funcțiune în 1979 și are o capacitate de aproximativ 130.000 de barili pe zi. Instalația procesează țiței din câmpurile petroliere siriene, precum și țiței importat prin portul Baniyas. Rafinăria produce carburanți, păcură și lubrifianți. Este o componentă importantă a infrastructurii energetice siriene. În timpul războiului civil, a fost avariată de mai multe ori, dar parțial reparată.",
+      en: "The Baniyas Refinery is an oil refinery located in the city of Baniyas on the Syrian Mediterranean coast. It was commissioned in 1979 and has a capacity of approximately 130,000 barrels per day. The facility processes crude oil from Syrian oil fields as well as imported crude oil via the Port of Baniyas. The refinery produces fuels, heating oil, and lubricants. It is a key component of Syria's energy infrastructure. During the civil war, it was damaged multiple times but partially repaired.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 130.000 Barrel pro Tag", "Inbetriebnahme: 1979", "Standort: Baniyas, Syrien", "Verarbeitetes Öl: Syrisches Rohöl und Importe", "Produkte: Diesel, Benzin, Heizöl", "Eigentümer: Syrian Petroleum Company (staatlich)"],
+      hu: ["Kapacitás: 130 000 hordó naponta", "Üzembe helyezés: 1979", "Helyszín: Baniyas, Szíria", "Feldolgozott olaj: Szír nyersolaj és import", "Termékek: dízel, benzin, fűtőolaj", "Tulajdonos: Syrian Petroleum Company (állami)"],
+      ro: ["Capacitate: 130.000 de barili pe zi", "Punere în funcțiune: 1979", "Locație: Baniyas, Siria", "Țiței procesat: țiței sirian și import", "Produse: motorină, benzină, păcură", "Proprietar: Syrian Petroleum Company (de stat)"],
+      en: ["Capacity: 130,000 barrels per day", "Commissioned: 1979", "Location: Baniyas, Syria", "Crude processed: Syrian and imported", "Products: diesel, gasoline, fuel oil", "Owner: Syrian Petroleum Company (state-owned)"],
+    },
+  },
   {
     id: "homs-refinery-economic-v2",
     type: "industry",
     parent: "SY-HO",
     coords: [36.68, 34.72],
-    name: { de: "Raffinerie Homs", hu: "Homsz Finomító", ro: "Rafinăria Homs", en: "Homs Refinery",
-image: "/poi-images/homs-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Homs", hu: "Homsz Finomító", ro: "Rafinăria Homs", en: "Homs Refinery"},
+    image: "/poi-images/homs-refinery-economic-v2.webp",
     description: { de: "Die älteste Raffinerie Syriens, die im Zentrum des Landes liegt und hauptsächlich für den inländischen Kraftstoffbedarf produziert.", hu: "Szíria legrégebbi finomítója, amely az ország központjában fekszik, és főként a hazai üzemanyagigényt elégíti ki.", ro: "Cea mai veche rafinărie din Siria, situată în centrul țării, care produce în principal pentru necesarul intern de combustibil.", en: "Syria's oldest refinery, located in the center of the country, producing mainly for domestic fuel needs." },
     facts: {
       de: ["1959 erbaut und mehrfach erweitert.", "Versorgt die zentralen und südlichen Provinzen.", "Wurde während des Konflikts beschädigt.", "Verfügt über ein eigenes Kraftwerk."],
       hu: ["1959-ben épült és többször kibővítették.", "A középső és déli tartományokat látja el.", "A konfliktus során megsérült.", "Saját erőművel rendelkezik."],
       ro: ["Construită în 1959 și extinsă de mai multe ori.", "Aprovizionează provinciile centrale și sudice.", "A fost avariată în timpul conflictului.", "Dispune de propria sa centrală electrică."],
       en: ["Built in 1959 and expanded several times.", "Supplies the central and southern provinces.", "Was damaged during the conflict.", "Has its own power plant."]
-    }, image: "/poi-images/homs-refinery-economic-v2.webp"},
+    }, image: "/poi-images/homs-refinery-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Homs-Raffinerie ist eine Ölraffinerie in Homs, Syrien. Sie wurde 1959 erbaut und ist eine der ältesten Raffinerien des Landes. Die Kapazität beträgt rund 100.000 Barrel pro Tag. Die Anlage verarbeitet Rohöl aus dem Osten Syriens. Sie produziert hauptsächlich Treibstoffe und Asphalt. Die Raffinerie wurde während des syrischen Bürgerkriegs schwer beschädigt und mehrmals stillgelegt. Nach Reparaturen ist sie wieder in Betrieb, arbeitet aber unter Kapazität.",
+      hu: "A Homszi olajfinomító egy olajfinomító Homszban, Szíriában. 1959-ben épült, és az ország egyik legrégebbi finomítója. Kapacitása körülbelül 100 000 hordó naponta. Az üzem a kelet-szíriai nyersolajat dolgozza fel. Főként üzemanyagokat és aszfaltot gyárt. A finomító súlyosan megrongálódott a szíriai polgárháborúban, és többször leállították. Javítások után újra üzemel, de kapacitás alatt dolgozik.",
+      ro: "Rafinăria Homs este o rafinărie de petrol din Homs, Siria. A fost construită în 1959 și este una dintre cele mai vechi rafinării din țară. Capacitatea este de aproximativ 100.000 de barili pe zi. Instalația procesează țiței din estul Siriei. Produce în principal carburanți și asfalt. Rafinăria a fost grav avariată în timpul războiului civil sirian și oprită de mai multe ori. După reparații, este din nou operațională, dar funcționează sub capacitate.",
+      en: "The Homs Refinery is an oil refinery in Homs, Syria. It was built in 1959 and is one of the oldest refineries in the country. The capacity is about 100,000 barrels per day. The facility processes crude oil from eastern Syria. It produces mainly fuels and asphalt. The refinery was heavily damaged during the Syrian civil war and shut down multiple times. After repairs, it is operational again but running below capacity.",
+    },
+    factsAdvanced: {
+      de: ["Kapazität: 100.000 Barrel pro Tag", "Inbetriebnahme: 1959", "Standort: Homs, Syrien", "Rohölquelle: Ostsyrien", "Produkte: Benzin, Diesel, Asphalt", "Eigentümer: General Establishment for Refining (staatlich)"],
+      hu: ["Kapacitás: 100 000 hordó naponta", "Üzembe helyezés: 1959", "Helyszín: Homsz, Szíria", "Nyersolaj forrás: Kelet-Szíria", "Termékek: benzin, dízel, aszfalt", "Tulajdonos: General Establishment for Refining (állami)"],
+      ro: ["Capacitate: 100.000 de barili pe zi", "Punere în funcțiune: 1959", "Locație: Homs, Siria", "Sursa țițeiului: Siria de est", "Produse: benzină, motorină, asfalt", "Proprietar: General Establishment for Refining (de stat)"],
+      en: ["Capacity: 100,000 barrels per day", "Commissioned: 1959", "Location: Homs, Syria", "Crude source: Eastern Syria", "Products: gasoline, diesel, asphalt", "Owner: General Establishment for Refining (state-owned)"],
+    },
+  },
   {
     id: "port-of-latakia-economic-v2",
     type: "port",
     parent: "SY-LA",
     coords: [35.77, 35.53],
-    name: { de: "Hafen von Latakia", hu: "Latakia Kikötője", ro: "Portul Latakia", en: "Port of Latakia",
-image: "/poi-images/port-of-latakia-economic-v2.webp"
-},
+    name: { de: "Hafen von Latakia", hu: "Latakia Kikötője", ro: "Portul Latakia", en: "Port of Latakia"},
+    image: "/poi-images/port-of-latakia-economic-v2.webp",
     description: { de: "Der größte und wichtigste Seehafen Syriens am Mittelmeer, der den Hauptteil des internationalen Handels des Landes abwickelt.", hu: "Szíria legnagyobb és legfontosabb tengeri kikötője a Földközi-tengeren, amely az ország nemzetközi kereskedelmének nagy részét bonyolítja.", ro: "Cel mai mare și mai important port maritim al Siriei la Marea Mediterană, care gestionează cea mai mare parte a comerțului internațional al țării.", en: "Syria's largest and most important seaport on the Mediterranean, handling the majority of the country's international trade." },
     facts: {
       de: ["Besitzt ein großes Containerterminal.", "Wichtiges Tor für Importgüter.", "Direkt an das nationale Eisenbahnnetz angebunden.", "Wurde in den 1950er Jahren stark ausgebaut."],
       hu: ["Nagy konténerterminállal rendelkezik.", "Fontos kapu az importáruk számára.", "Közvetlenül csatlakozik az országos vasúthálózathoz.", "Az 1950-es években jelentősen kibővítették."],
       ro: ["Deține un terminal mare de containere.", "Poartă importantă pentru bunurile de import.", "Conectat direct la rețeaua feroviară națională.", "A fost extins masiv în anii 1950."],
       en: ["Has a large container terminal.", "Important gateway for imported goods.", "Directly connected to the national railway network.", "Was massively expanded in the 1950s."]
-    }, image: "/poi-images/port-of-latakia-economic-v2.webp"},
+    }, image: "/poi-images/port-of-latakia-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Hafen von Latakia ist der wichtigste Seehafen Syriens an der Mittelmeerküste. Er wurde in den 1950er Jahren ausgebaut und dient als Hauptumschlagplatz für Container- und Stückgut. Der Hafen hat eine jährliche Kapazität von etwa 8 Millionen Tonnen. Er ist ein wichtiger Knotenpunkt für den internationalen Handel Syriens. Während des Bürgerkriegs blieb der Hafen weitgehend funktionsfähig, unterbrochen durch gelegentliche Angriffe. Die Hafenanlagen umfassen Containerterminals, Getreidesilos und Öltanks.",
+      hu: "A Latakia-i kikötő Szíria legfontosabb tengeri kikötője a Földközi-tenger partján. Az 1950-es években fejlesztették ki, és a konténeres és darabáruk fő átrakodóhelye. A kikötő éves kapacitása körülbelül 8 millió tonna. Fontos csomópont Szíria nemzetközi kereskedelmében. A polgárháború alatt a kikötő nagyrészt működőképes maradt, időnkénti támadásokkal megszakítva. A kikötő létesítményei közé tartoznak konténerterminálok, gabonasilók és olajtartályok.",
+      ro: "Portul Latakia este cel mai important port maritim al Siriei, pe coasta Mării Mediterane. A fost dezvoltat în anii 1950 și servește ca principal punct de transbordare pentru containere și mărfuri generale. Portul are o capacitate anuală de aproximativ 8 milioane de tone. Este un nod crucial pentru comerțul internațional al Siriei. În timpul războiului civil, portul a rămas în mare parte funcțional, întrerupt de atacuri ocazionale. Facilitățile includ terminale de containere, silozuri de cereale și rezervoare de petrol.",
+      en: "The Port of Latakia is Syria's primary seaport on the Mediterranean coast. It was expanded in the 1950s and serves as the main transshipment point for containers and general cargo. The port has an annual capacity of about 8 million tons. It is a crucial hub for Syria's international trade. During the civil war, the port remained largely operational, interrupted by occasional attacks. Facilities include container terminals, grain silos, and oil tanks.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Kapazität: 8 Millionen Tonnen", "Ausbau: 1950er Jahre", "Standort: Latakia, Syrien", "Hauptgüter: Container, Getreide, Öl", "Wassertiefe: bis zu 16 m", "Betreiber: General Ports Authority of Syria (staatlich)"],
+      hu: ["Éves kapacitás: 8 millió tonna", "Fejlesztés: 1950-es évek", "Helyszín: Latakia, Szíria", "Fő áruk: konténerek, gabona, olaj", "Vízmélység: akár 16 m", "Üzemeltető: General Ports Authority of Syria (állami)"],
+      ro: ["Capacitate anuală: 8 milioane de tone", "Dezvoltare: anii 1950", "Locație: Latakia, Siria", "Mărfuri principale: containere, cereale, petrol", "Adâncimea apei: până la 16 m", "Operator: General Ports Authority of Syria (de stat)"],
+      en: ["Annual capacity: 8 million tons", "Expansion: 1950s", "Location: Latakia, Syria", "Main cargo: containers, grain, oil", "Water depth: up to 16 m", "Operator: General Ports Authority of Syria (state-owned)"],
+    },
+  },
   {
     id: "port-of-tartus-economic-v2",
     type: "port",
     parent: "SY-TA",
     coords: [35.87, 34.90],
-    name: { de: "Hafen von Tartus", hu: "Tartúsz Kikötője", ro: "Portul Tartus", en: "Port of Tartus",
-image: "/poi-images/port-of-tartus-economic-v2.webp"
-},
+    name: { de: "Hafen von Tartus", hu: "Tartúsz Kikötője", ro: "Portul Tartus", en: "Port of Tartus"},
+    image: "/poi-images/port-of-tartus-economic-v2.webp",
     description: { de: "Der zweitgrößte syrische Hafen, der neben Handelsgütern auch eine strategisch wichtige russische Marinebasis beherbergt.", hu: "A második legnagyobb szíriai kikötő, amely a kereskedelmi áruk mellett egy stratégiailag fontos orosz haditengerészeti bázisnak is otthont ad.", ro: "Al doilea port ca mărime din Siria, care, pe lângă bunurile comerciale, găzduiește o bază navală rusă de importanță strategică.", en: "The second largest Syrian port, which, in addition to commercial goods, hosts a strategically important Russian naval base." },
     facts: {
       de: ["Wichtig für den Export von Phosphat.", "Beherbergt militärische und zivile Anlagen.", "Wurde 1965 offiziell eröffnet.", "Tiefwasserhafen an der Mittelmeerküste."],
       hu: ["Fontos a foszfátexport szempontjából.", "Katonai és polgári létesítményeknek is otthont ad.", "1965-ben nyitották meg hivatalosan.", "Mélyvízi kikötő a Földközi-tenger partján."],
       ro: ["Important pentru exportul de fosfat.", "Găzduiește instalații militare și civile.", "A fost deschis oficial în 1965.", "Port de apă adâncă pe coasta mediteraneană."],
       en: ["Important for phosphate export.", "Houses military and civilian facilities.", "Was officially opened in 1965.", "Deep-water port on the Mediterranean coast."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Hafen von Tartus ist der zweitgrößte Seehafen Syriens und liegt südlich von Latakia. Er wurde in den 1970er Jahren erweitert und dient hauptsächlich als Öl- und Containerhafen. Der Hafen hat eine jährliche Kapazität von etwa 5 Millionen Tonnen. Er ist auch ein wichtiger Stützpunkt der russischen Marine. Während des Bürgerkriegs wurde der Hafen von Tartus für humanitäre Hilfe und militärische Logistik genutzt. Die Anlagen umfassen einen Ölterminal und einen Containerterminal.",
+      hu: "A Tartus-i kikötő Szíria második legnagyobb tengeri kikötője, Latakiától délre. Az 1970-es években bővítették, és főként olaj- és konténerkikötőként szolgál. A kikötő éves kapacitása körülbelül 5 millió tonna. Szintén fontos bázisa az orosz haditengerészetnek. A polgárháború alatt a tartuszi kikötőt humanitárius segélyre és katonai logisztikára használták. A létesítmények közé tartozik egy olajterminál és egy konténerterminál.",
+      ro: "Portul Tartus este al doilea cel mai mare port maritim al Siriei, situat la sud de Latakia. A fost extins în anii 1970 și servește în principal ca port petrolier și de containere. Portul are o capacitate anuală de aproximativ 5 milioane de tone. Este, de asemenea, o bază importantă a marinei ruse. În timpul războiului civil, portul Tartus a fost utilizat pentru ajutor umanitar și logistică militară. Facilitățile includ un terminal petrolier și un terminal de containere.",
+      en: "The Port of Tartus is Syria's second-largest seaport, located south of Latakia. It was expanded in the 1970s and serves mainly as an oil and container port. The port has an annual capacity of about 5 million tons. It is also an important base for the Russian Navy. During the civil war, the Port of Tartus was used for humanitarian aid and military logistics. Facilities include an oil terminal and a container terminal.",
+    },
+    factsAdvanced: {
+      de: ["Jährliche Kapazität: 5 Millionen Tonnen", "Erweiterung: 1970er Jahre", "Standort: Tartus, Syrien", "Hauptfunktion: Öl- und Containerumschlag", "Russische Marinebasis: seit 1971", "Wassertiefe: bis zu 14 m"],
+      hu: ["Éves kapacitás: 5 millió tonna", "Bővítés: 1970-es évek", "Helyszín: Tartus, Szíria", "Fő funkció: olaj- és konténerátrakás", "Orosz haditengerészeti bázis: 1971 óta", "Vízmélység: akár 14 m"],
+      ro: ["Capacitate anuală: 5 milioane de tone", "Extindere: anii 1970", "Locație: Tartus, Siria", "Funcție principală: transbordare petrol și containere", "Bază navală rusă: din 1971", "Adâncimea apei: până la 14 m"],
+      en: ["Annual capacity: 5 million tons", "Expansion: 1970s", "Location: Tartus, Syria", "Primary function: oil and container handling", "Russian naval base: since 1971", "Water depth: up to 14 m"],
+    },
   },
   {
     id: "tabqa-dam-hydroelectric-plant-economic-v2",
     type: "energy",
     parent: "SY-RA",
     coords: [38.56, 35.83],
-    name: { de: "Tabqa-Talsperre", hu: "Tabka-gát Erőműve", ro: "Barajul Tabqa", en: "Tabqa Dam Hydroelectric Plant",
-image: "/poi-images/tabqa-dam-hydroelectric-plant-economic-v2.webp"
-},
+    name: { de: "Tabqa-Talsperre", hu: "Tabka-gát Erőműve", ro: "Barajul Tabqa", en: "Tabqa Dam Hydroelectric Plant"},
+    image: "/poi-images/tabqa-dam-hydroelectric-plant-economic-v2.webp",
     description: { de: "Der größte Staudamm Syriens am Euphrat, der den Assad-See staut und einen erheblichen Teil der elektrischen Energie des Landes erzeugt.", hu: "Szíria legnagyobb gátja az Eufráteszen, amely az Asszad-tavat duzzasztja, és az ország villamosenergiájának jelentős részét termeli.", ro: "Cel mai mare baraj din Siria pe Eufrat, care formează Lacul Assad și generează o parte semnificativă a energiei electrice a țării.", en: "Syria's largest dam on the Euphrates, which forms Lake Assad and generates a significant portion of the country's electrical energy." },
     facts: {
       de: ["Baubeginn war 1968, Fertigstellung 1973.", "Verfügt über acht Turbinen.", "Erzeugt bis zu 824 Megawatt Strom.", "Sichert auch die Bewässerung landwirtschaftlicher Flächen."],
       hu: ["Építése 1968-ban kezdődött, 1973-ban fejeződött be.", "Nyolc turbinával rendelkezik.", "Akár 824 megawatt áramot is termel.", "A mezőgazdasági területek öntözését is biztosítja."],
       ro: ["Construcția a început în 1968, finalizată în 1973.", "Dispune de opt turbine.", "Generează până la 824 megawați de energie electrică.", "Asigură și irigarea terenurilor agricole."],
       en: ["Construction began in 1968, completed in 1973.", "Has eight turbines.", "Generates up to 824 megawatts of electricity.", "Also ensures irrigation of agricultural land."]
-    }, image: "/poi-images/tabqa-dam-hydroelectric-plant-economic-v2.webp"},
+    }, image: "/poi-images/tabqa-dam-hydroelectric-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tabqa-Damm-Wasserkraftwerk (auch als Euphrat-Staudamm bekannt) ist ein Wasserkraftwerk in Syrien, nahe der Stadt Tabqa. Es wurde 1973 fertiggestellt und hat eine installierte Leistung von 800 Megawatt. Der Damm staut den Euphrat zum Assad-See, dem größten Stausee Syriens. Das Kraftwerk versorgt weite Teile Syriens mit Elektrizität. Während des Bürgerkriegs wurde die Anlage zeitweise durch Kampfhandlungen beschädigt. Der Damm dient auch der Bewässerung landwirtschaftlicher Flächen.",
+      hu: "A Tabqa-gát vízerőmű (más néven Eufrátesz-gát) egy vízerőmű Szíriában, Tabqa város közelében. 1973-ban készült el, beépített teljesítménye 800 megawatt. A gát duzzasztja az Eufráteszt az Assad-tóba, Szíria legnagyobb víztározójába. Az erőmű Szíria nagy részét látja el árammal. A polgárháború alatt a létesítmény időnként megsérült a harcokban. A gát öntözési célokat is szolgál.",
+      ro: "Centrala hidroelectrică Tabqa (cunoscută și ca Barajul Eufrat) este o centrală hidroelectrică din Siria, lângă orașul Tabqa. A fost finalizată în 1973 și are o capacitate instalată de 800 de megawați. Barajul formează lacul de acumulare Assad, cel mai mare lac de acumulare din Siria. Centrala furnizează electricitate pentru o mare parte a Siriei. În timpul războiului civil, instalația a fost avariată ocazional de lupte. Barajul servește și la irigarea terenurilor agricole.",
+      en: "The Tabqa Dam Hydroelectric Plant (also known as the Euphrates Dam) is a hydroelectric power station in Syria, near the town of Tabqa. It was completed in 1973 and has an installed capacity of 800 megawatts. The dam impounds the Euphrates River to create Lake Assad, the largest reservoir in Syria. The plant supplies electricity to much of Syria. During the civil war, the facility was occasionally damaged by fighting. The dam also serves irrigation purposes.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 800 MW", "Fertigstellung: 1973", "Stausee: Assad-See (630 km²)", "Standort: Tabqa, Syrien", "Fluss: Euphrat", "Höhe: 60 m"],
+      hu: ["Beépített teljesítmény: 800 MW", "Befejezés: 1973", "Víztározó: Assad-tó (630 km²)", "Helyszín: Tabqa, Szíria", "Folyó: Eufrátesz", "Magasság: 60 m"],
+      ro: ["Capacitate instalată: 800 MW", "Finalizare: 1973", "Lac de acumulare: Lacul Assad (630 km²)", "Locație: Tabqa, Siria", "Râu: Eufrat", "Înălțime: 60 m"],
+      en: ["Installed capacity: 800 MW", "Completion: 1973", "Reservoir: Lake Assad (630 km²)", "Location: Tabqa, Syria", "River: Euphrates", "Height: 60 m"],
+    },
+  },
   {
     id: "tishrin-dam-hydroelectric-plant-economic-v2",
     type: "energy",
     parent: "SY-HL",
     coords: [38.18, 36.38],
-    name: { de: "Tischrin-Talsperre", hu: "Tisrin-gát Erőműve", ro: "Barajul Tishrin", en: "Tishrin Dam",
-image: "/poi-images/tishrin-dam-hydroelectric-plant-economic-v2.webp"
-},
+    name: { de: "Tischrin-Talsperre", hu: "Tisrin-gát Erőműve", ro: "Barajul Tishrin", en: "Tishrin Dam"},
+    image: "/poi-images/tishrin-dam-hydroelectric-plant-economic-v2.webp",
     description: { de: "Ein wichtiger Staudamm und Wasserkraftwerk am Euphrat, das sich nördlich der Tabqa-Talsperre in der Nähe von Manbidsch befindet.", hu: "Fontos gát és vízerőmű az Eufráteszen, amely a Tabka-gáttól északra, Manbidzs közelében található.", ro: "Un baraj și o hidrocentrală importantă pe Eufrat, situată la nord de Barajul Tabqa, lângă Manbij.", en: "An important dam and hydroelectric power plant on the Euphrates, located north of the Tabqa Dam near Manbij." },
     facts: {
       de: ["Wurde 1999 fertiggestellt.", "Besitzt eine Kapazität von 630 Megawatt.", "Der Stausee bedeckt über 160 Quadratkilometer.", "Wichtige Quelle für erneuerbare Energie in Nord-Syrien."],
       hu: ["1999-ben készült el.", "Kapacitása 630 megawatt.", "A víztározó több mint 160 négyzetkilométert fed le.", "A megújuló energia fontos forrása Észak-Szíriában."],
       ro: ["A fost finalizat în 1999.", "Are o capacitate de 630 de megawați.", "Lacul de acumulare acoperă peste 160 de kilometri pătrați.", "O sursă importantă de energie regenerabilă în nordul Siriei."],
       en: ["Completed in 1999.", "Has a capacity of 630 megawatts.", "The reservoir covers over 160 square kilometers.", "An important source of renewable energy in northern Syria."]
-    }, image: "/poi-images/tishrin-dam-hydroelectric-plant-economic-v2.webp"},
+    }, image: "/poi-images/tishrin-dam-hydroelectric-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tishrin-Damm ist ein Wasserkraftwerk am Euphrat in Syrien, nördlich von Tabqa. Er wurde 1999 fertiggestellt und hat eine Leistung von 630 Megawatt. Der Damm ist 40 Meter hoch und staut den Fluss zu einem Stausee. Die Anlage ist Teil des syrischen Wasserkraftprogramms. Während des Bürgerkriegs war der Damm umkämpft und zeitweise beschädigt. Er trägt zur Elektrizitätsversorgung Nordsyriens bei.",
+      hu: "A Tishrin-gát egy vízerőmű az Eufráteszen, Szíriában, Tabqától északra. 1999-ben készült el, teljesítménye 630 megawatt. A gát 40 méter magas, és duzzasztja a folyót egy víztározóvá. A létesítmény a szíriai vízerőmű-program része. A polgárháború alatt a gátat harcok övezték és időnként megsérült. Hozzájárul Észak-Szíria áramellátásához.",
+      ro: "Barajul Tishrin este o centrală hidroelectrică pe Eufrat în Siria, la nord de Tabqa. A fost finalizat în 1999 și are o capacitate de 630 de megawați. Barajul are 40 de metri înălțime și formează un lac de acumulare. Instalația face parte din programul sirian de hidroenergie. În timpul războiului civil, barajul a fost contestat și ocazional avariat. Contribuie la alimentarea cu electricitate a nordului Siriei.",
+      en: "The Tishrin Dam is a hydroelectric plant on the Euphrates in Syria, north of Tabqa. It was completed in 1999 and has a capacity of 630 megawatts. The dam is 40 meters high and impounds a reservoir. The facility is part of Syria's hydroelectric program. During the civil war, the dam was contested and occasionally damaged. It contributes to electricity supply in northern Syria.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 630 MW", "Fertigstellung: 1999", "Höhe: 40 m", "Standort: Nordsyrien, am Euphrat", "Stausee: Tishrin-Stausee", "Bauzeit: 10 Jahre (1989-1999)"],
+      hu: ["Beépített teljesítmény: 630 MW", "Befejezés: 1999", "Magasság: 40 m", "Helyszín: Észak-Szíria, az Eufráteszen", "Víztározó: Tishrin-víztározó", "Építési idő: 10 év (1989-1999)"],
+      ro: ["Capacitate instalată: 630 MW", "Finalizare: 1999", "Înălțime: 40 m", "Locație: Nordul Siriei, pe Eufrat", "Lac de acumulare: Lacul Tishrin", "Durata construcției: 10 ani (1989-1999)"],
+      en: ["Installed capacity: 630 MW", "Completion: 1999", "Height: 40 m", "Location: Northern Syria, on Euphrates", "Reservoir: Tishrin Reservoir", "Construction time: 10 years (1989-1999)"],
+    },
+  },
   {
     id: "baath-dam-economic-v2",
     type: "energy",
     parent: "SY-RA",
     coords: [38.74, 35.86],
-    name: { de: "Baath-Talsperre", hu: "Baasz-gát Erőműve", ro: "Barajul Baath", en: "Baath Dam",
-image: "/poi-images/baath-dam-economic-v2.webp"
-},
+    name: { de: "Baath-Talsperre", hu: "Baasz-gát Erőműve", ro: "Barajul Baath", en: "Baath Dam"},
+    image: "/poi-images/baath-dam-economic-v2.webp",
     description: { de: "Eine Regulierungstalsperre am Euphrat unterhalb des Tabqa-Staudamms, die zur Stromerzeugung und zur Kontrolle des Wasserflusses dient.", hu: "Szabályozó gát az Eufráteszen a Tabka-gát alatt, amely áramtermelésre és a vízáramlás szabályozására szolgál.", ro: "Un baraj de reglare pe Eufrat, sub Barajul Tabqa, utilizat pentru generarea de energie și controlul debitului de apă.", en: "A regulating dam on the Euphrates below the Tabqa Dam, used for power generation and water flow control." },
     facts: {
       de: ["Erzeugt 81 Megawatt Strom.", "Die Bauarbeiten endeten 1986.", "Verhindert Überschwemmungen stromabwärts.", "Unterstützt die lokale Landwirtschaft in Ar-Raqqa."],
       hu: ["81 megawatt áramot termel.", "Az építési munkálatok 1986-ban fejeződtek be.", "Megakadályozza a lefolyás menti áradásokat.", "Támogatja a helyi mezőgazdaságot Rakkában."],
       ro: ["Generează 81 de megawați de energie electrică.", "Lucrările de construcție s-au încheiat în 1986.", "Previne inundațiile în aval.", "Sprijină agricultura locală în Ar-Raqqah."],
       en: ["Generates 81 megawatts of electricity.", "Construction work ended in 1986.", "Prevents downstream flooding.", "Supports local agriculture in Ar-Raqqah."]
-    }, image: "/poi-images/baath-dam-economic-v2.webp"},
+    }, image: "/poi-images/baath-dam-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Baath-Damm ist ein Staudamm am Euphrat in Syrien, zwischen Tabqa und Tishrin. Er wurde 1985 fertiggestellt und dient der Bewässerung und Stromerzeugung. Die installierte Leistung beträgt 75 Megawatt. Der Damm ist 21 Meter hoch und erzeugt einen kleinen Stausee. Er reguliert den Abfluss aus dem Assad-See. Die Anlage ist weniger bedeutend als die benachbarten großen Dämme. Während des Bürgerkriegs blieb sie weitgehend intakt.",
+      hu: "A Baath-gát egy duzzasztógát az Eufráteszen, Szíriában, Tabqa és Tishrin között. 1985-ben készült el, és öntözést és áramtermelést szolgál. A beépített teljesítmény 75 megawatt. A gát 21 méter magas, és egy kis víztározót hoz létre. Szabályozza az Assad-tóból való kiáramlást. A létesítmény kevésbé jelentős, mint a szomszédos nagy gátak. A polgárháború alatt nagyrészt sértetlen maradt.",
+      ro: "Barajul Baath este un baraj pe Eufrat în Siria, între Tabqa și Tishrin. A fost finalizat în 1985 și servește pentru irigații și generare de electricitate. Capacitatea instalată este de 75 de megawați. Barajul are 21 de metri înălțime și creează un mic lac de acumulare. Reglează debitul din Lacul Assad. Instalația este mai puțin importantă decât marile baraje vecine. În timpul războiului civil, a rămas în mare parte intact.",
+      en: "The Baath Dam is a dam on the Euphrates in Syria, between Tabqa and Tishrin. It was completed in 1985 and serves for irrigation and power generation. The installed capacity is 75 megawatts. The dam is 21 meters high and creates a small reservoir. It regulates the outflow from Lake Assad. The facility is less significant than the neighboring large dams. During the civil war, it remained largely intact.",
+    },
+    factsAdvanced: {
+      de: ["Installierte Leistung: 75 MW", "Fertigstellung: 1985", "Höhe: 21 m", "Standort: Syrien, am Euphrat", "Funktion: Bewässerung und Strom", "Länge: 500 m"],
+      hu: ["Beépített teljesítmény: 75 MW", "Befejezés: 1985", "Magasság: 21 m", "Helyszín: Szíria, az Eufráteszen", "Funkció: öntözés és áramtermelés", "Hossz: 500 m"],
+      ro: ["Capacitate instalată: 75 MW", "Finalizare: 1985", "Înălțime: 21 m", "Locație: Siria, pe Eufrat", "Funcție: irigații și electricitate", "Lungime: 500 m"],
+      en: ["Installed capacity: 75 MW", "Completion: 1985", "Height: 21 m", "Location: Syria, on Euphrates", "Function: irrigation and power", "Length: 500 m"],
+    },
+  },
   {
     id: "omar-oil-field-economic-v2",
     type: "energy",
     parent: "SY-DY",
     coords: [40.58, 35.03],
-    name: { de: "Omar-Ölfeld", hu: "Omar Olajmező", ro: "Câmpul Petrolier Omar", en: "Omar Oil Field",
-image: "/poi-images/omar-oil-field-economic-v2.webp"
-},
+    name: { de: "Omar-Ölfeld", hu: "Omar Olajmező", ro: "Câmpul Petrolier Omar", en: "Omar Oil Field"},
+    image: "/poi-images/omar-oil-field-economic-v2.webp",
     description: { de: "Das größte und produktivste Ölfeld Syriens, gelegen im Gouvernement Deir ez-Zor in der Nähe der irakischen Grenze.", hu: "Szíria legnagyobb és legtermékenyebb olajmezője, amely a Deir ez-Zór kormányzóságban, az iraki határ közelében található.", ro: "Cel mai mare și mai productiv câmp petrolier din Siria, situat în guvernoratul Deir ez-Zor, aproape de granița cu Irakul.", en: "Syria's largest and most productive oil field, located in the Deir ez-Zor Governorate near the Iraqi border." },
     facts: {
       de: ["Wurde in den 1980er Jahren entdeckt.", "Hat eine strategische Bedeutung für die Wirtschaft.", "Verfügt über ein eigenes Gasverarbeitungswerk.", "Produzierte vor dem Krieg den Großteil des syrischen Öls."],
       hu: ["Az 1980-as években fedezték fel.", "Stratégiai jelentőséggel bír a gazdaság számára.", "Saját gázfeldolgozó üzemmel rendelkezik.", "A háború előtt a szíriai olaj nagy részét itt termelték."],
       ro: ["A fost descoperit în anii 1980.", "Are o importanță strategică pentru economie.", "Dispune de propria stație de procesare a gazelor.", "Producea majoritatea petrolului sirian înainte de război."],
       en: ["Discovered in the 1980s.", "Has strategic importance for the economy.", "Has its own gas processing plant.", "Produced the majority of Syrian oil before the war."]
-    }, image: "/poi-images/omar-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/omar-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Omar-Ölfeld ist ein bedeutendes Ölfeld im Osten Syriens, in der Provinz Deir ez-Zor. Es wurde in den 1980er Jahren entdeckt und gefördert. Die geschätzten Reserven betragen mehrere hundert Millionen Barrel. Das Feld gehörte zu den größten in Syrien. Während des Bürgerkriegs fiel es unter die Kontrolle verschiedener Gruppen. Die Produktion wurde zeitweise eingestellt. Das Ölfeld ist Teil des größeren Konzessionsgebiets am mittleren Euphrat.",
+      hu: "Az Omar olajmező egy jelentős olajmező Kelet-Szíriában, Deir ez-Zor tartományban. Az 1980-as években fedezték fel és kezdték kitermelni. A becsült készletek több száz millió hordó. A mező Szíria egyik legnagyobbja volt. A polgárháború alatt különböző csoportok ellenőrzése alá került. A termelést időnként leállították. Az olajmező a középső Eufrátesz nagyobb koncessziós területének része.",
+      ro: "Câmpul petrolier Omar este un câmp petrolier important din estul Siriei, în provincia Deir ez-Zor. A fost descoperit în anii 1980 și exploatat. Rezervele estimate sunt de câteva sute de milioane de barili. Câmpul a fost unul dintre cele mai mari din Siria. În timpul războiului civil, a căzut sub controlul diferitelor grupuri. Producția a fost oprită temporar. Câmpul face parte din perimetrul mai mare de concesiune de pe Eufratul Mijlociu.",
+      en: "The Omar Oil Field is a major oil field in eastern Syria, in Deir ez-Zor province. It was discovered in the 1980s and brought into production. Estimated reserves are several hundred million barrels. The field was among the largest in Syria. During the civil war, it came under the control of various groups. Production was intermittently halted. The oil field is part of the larger Middle Euphrates concession area.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1980er Jahre", "Geschätzte Reserven: > 500 Mio. Barrel", "Standort: Deir ez-Zor, Syrien", "Förderung: vor Krieg ca. 100.000 Barrel/Tag", "Eigentümer: Syrian Petroleum Company", "Teil des Konzessionsgebiets Mid-Euphrates"],
+      hu: ["Felfedezés: 1980-as évek", "Becsült készletek: > 500 millió hordó", "Helyszín: Deir ez-Zor, Szíria", "Kitermelés: háború előtt kb. 100 000 hordó/nap", "Tulajdonos: Syrian Petroleum Company", "A Középső-Eufrátesz koncessziós terület része"],
+      ro: ["Descoperire: anii 1980", "Rezerve estimate: > 500 milioane de barili", "Locație: Deir ez-Zor, Siria", "Producție: înainte de război aprox. 100.000 barili/zi", "Proprietar: Syrian Petroleum Company", "Parte a perimetrului de concesiune Middle Euphrates"],
+      en: ["Discovery: 1980s", "Estimated reserves: > 500 million barrels", "Location: Deir ez-Zor, Syria", "Output: pre-war ~100,000 bpd", "Owner: Syrian Petroleum Company", "Part of Mid-Euphrates concession"],
+    },
+  },
   {
     id: "conoco-gas-plant-economic-v2",
     type: "energy",
     parent: "SY-DY",
     coords: [40.35, 35.32],
-    name: { de: "Conoco-Gasanlage", hu: "Conoco Gázüzem", ro: "Uzina de Gaze Conoco", en: "Conoco Gas Plant",
-image: "/poi-images/conoco-gas-plant-economic-v2.webp"
-},
+    name: { de: "Conoco-Gasanlage", hu: "Conoco Gázüzem", ro: "Uzina de Gaze Conoco", en: "Conoco Gas Plant"},
+    image: "/poi-images/conoco-gas-plant-economic-v2.webp",
     description: { de: "Eine der größten Gasverarbeitungsanlagen Syriens, die im Osten des Landes liegt und Erdgas für die Stromerzeugung aufbereitet.", hu: "Szíria egyik legnagyobb gázfeldolgozó üzeme, amely az ország keleti részén található, és áramtermeléshez készít elő földgázt.", ro: "Una dintre cele mai mari uzine de procesare a gazelor din Siria, situată în estul țării, care pregătește gaze naturale pentru generarea de energie.", en: "One of Syria's largest gas processing plants, located in the east of the country, preparing natural gas for power generation." },
     facts: {
       de: ["Verarbeitet Gas aus den umliegenden Ölfeldern.", "Im Gouvernement Deir ez-Zor gelegen.", "Wurde von internationalen Energiekonzernen errichtet.", "Stellt Gas für syrische Kraftwerke bereit."],
       hu: ["A környező olajmezők gázát dolgozza fel.", "A Deir ez-Zór kormányzóságban található.", "Nemzetközi energetikai vállalatok építették.", "Gázt biztosít a szíriai erőművek számára."],
       ro: ["Procesează gazele din câmpurile petroliere înconjurătoare.", "Situată în guvernoratul Deir ez-Zor.", "A fost construită de companii internaționale de energie.", "Furnizează gaze pentru centralele electrice siriene."],
       en: ["Processes gas from surrounding oil fields.", "Located in the Deir ez-Zor Governorate.", "Was built by international energy companies.", "Provides gas for Syrian power plants."]
-    }, image: "/poi-images/conoco-gas-plant-economic-v2.webp"},
+    }, image: "/poi-images/conoco-gas-plant-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Conoco-Gas-Anlage ist eine Erdgasverarbeitungsanlage im Osten Syriens, nahe der Stadt Deir ez-Zor. Sie wurde 2005 von der US-Firma ConocoPhillips in Betrieb genommen und später von der syrischen Regierung übernommen. Die Anlage verarbeitet Erdgas aus den umliegenden Gasfeldern für den Export und inländischen Gebrauch. Während des Bürgerkriegs wurde sie beschädigt und stillgelegt. Die Kapazität betrug etwa 1,5 Milliarden Kubikmeter pro Jahr.",
+      hu: "A Conoco gázüzem egy földgázfeldolgozó üzem Kelet-Szíriában, Deir ez-Zor város közelében. 2005-ben helyezte üzembe az amerikai ConocoPhillips cég, majd később a szíriai kormány vette át. Az üzem a környező gázmezőkről származó földgázt dolgozza fel exportra és belföldi felhasználásra. A polgárháború alatt megsérült és leállították. Kapacitása évi körülbelül 1,5 milliárd köbméter volt.",
+      ro: "Instalația de gaze Conoco este o instalație de procesare a gazelor naturale din estul Siriei, lângă orașul Deir ez-Zor. A fost pusă în funcțiune în 2005 de compania americană ConocoPhillips și ulterior preluată de guvernul sirian. Instalația procesează gaze naturale din câmpurile înconjurătoare pentru export și uz intern. În timpul războiului civil, a fost avariată și oprită. Capacitatea era de aproximativ 1,5 miliarde de metri cubi pe an.",
+      en: "The Conoco Gas Plant is a natural gas processing facility in eastern Syria, near the city of Deir ez-Zor. It was commissioned in 2005 by the US firm ConocoPhillips and later taken over by the Syrian government. The plant processes natural gas from surrounding gas fields for export and domestic use. During the civil war, it was damaged and shut down. Capacity was about 1.5 billion cubic meters per year.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2005", "Kapazität: 1,5 Mrd. m³/Jahr", "Standort: Deir ez-Zor, Syrien", "Betreiber: Syrian Gas Company (staatlich)", "Ursprünglicher Eigentümer: ConocoPhillips", "Stilllegung: 2011 (Bürgerkrieg)"],
+      hu: ["Üzembe helyezés: 2005", "Kapacitás: 1,5 milliárd m³/év", "Helyszín: Deir ez-Zor, Szíria", "Üzemeltető: Syrian Gas Company (állami)", "Eredeti tulajdonos: ConocoPhillips", "Leállítás: 2011 (polgárháború)"],
+      ro: ["Punere în funcțiune: 2005", "Capacitate: 1,5 miliarde m³/an", "Locație: Deir ez-Zor, Siria", "Operator: Syrian Gas Company (de stat)", "Proprietar inițial: ConocoPhillips", "Oprire: 2011 (război civil)"],
+      en: ["Commissioned: 2005", "Capacity: 1.5 billion m³/year", "Location: Deir ez-Zor, Syria", "Operator: Syrian Gas Company (state-owned)", "Original owner: ConocoPhillips", "Shut down: 2011 (civil war)"],
+    },
+  },
   {
     id: "shaer-gas-field-economic-v2",
     type: "energy",
     parent: "SY-HO",
     coords: [37.95, 34.82],
-    name: { de: "Schaar-Gasfeld", hu: "Saar Gázmező", ro: "Câmpul de Gaze Shaer", en: "Shaer Gas Field",
-image: "/poi-images/shaer-gas-field-economic-v2.webp"
-},
+    name: { de: "Schaar-Gasfeld", hu: "Saar Gázmező", ro: "Câmpul de Gaze Shaer", en: "Shaer Gas Field"},
+    image: "/poi-images/shaer-gas-field-economic-v2.webp",
     description: { de: "Ein bedeutendes Erdgasfeld in der syrischen Wüste nahe Palmyra, das entscheidend für die Energieversorgung Westsyriens ist.", hu: "Jelentős földgázmező a Szíriai-sivatagban, Palmüra közelében, amely kulcsfontosságú Nyugat-Szíria energiaellátásában.", ro: "Un câmp important de gaze naturale în deșertul sirian, lângă Palmira, crucial pentru aprovizionarea cu energie a vestului Siriei.", en: "A major natural gas field in the Syrian Desert near Palmyra, crucial for the energy supply of western Syria." },
     facts: {
       de: ["Gehört zu den größten Gasreserven des Landes.", "Versorgt die Kraftwerke in Homs und Damaskus.", "War Schauplatz schwerer Kämpfe.", "Liegt in einer kargen Wüstenregion."],
       hu: ["Az ország legnagyobb gáztartalékai közé tartozik.", "A homszi és damaszkuszi erőműveket látja el.", "Heves harcok színhelye volt.", "Kietlen sivatagi régióban fekszik."],
       ro: ["Este una dintre cele mai mari rezerve de gaze din țară.", "Aprovizionează centralele electrice din Homs și Damasc.", "A fost scena unor lupte grele.", "Situat într-o regiune deșertică aridă."],
       en: ["One of the country's largest gas reserves.", "Supplies the power plants in Homs and Damascus.", "Was the scene of heavy fighting.", "Located in a barren desert region."]
-    }, image: "/poi-images/shaer-gas-field-economic-v2.webp"},
+    }, image: "/poi-images/shaer-gas-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Shaer-Gasfeld ist ein Erdgasfeld in Zentralsyrien, in der Provinz Homs. Es wurde 2009 entdeckt und 2011 in Produktion genommen. Das Feld versorgte das nationale Gasnetz. Während des Bürgerkriegs wurde es mehrmals von verschiedenen Gruppen erobert und die Infrastruktur beschädigt. Die Produktion wurde mehrfach unterbrochen. Die Reserven werden auf etwa 3 Billionen Kubikfuß geschätzt. Das Feld ist wichtig für die syrische Energieversorgung.",
+      hu: "A Shaer gázmező egy földgázmező Közép-Szíriában, Homsz tartományban. 2009-ben fedezték fel, és 2011-ben kezdték kitermelni. A mező látta el a nemzeti gázhálózatot. A polgárháború alatt többször elfoglalták különböző csoportok, és az infrastruktúra megsérült. A termelést többször megszakították. A készleteket körülbelül 3 billió köblábra becsülik. A mező fontos Szíria energiaellátásában.",
+      ro: "Câmpul de gaze Shaer este un câmp de gaze naturale din centrul Siriei, în provincia Homs. A fost descoperit în 2009 și pus în producție în 2011. Câmpul alimenta rețeaua națională de gaze. În timpul războiului civil, a fost cucerit de mai multe ori de diferite grupuri, iar infrastructura a fost avariată. Producția a fost întreruptă de mai multe ori. Rezervele sunt estimate la aproximativ 3 trilioane de picioare cubice. Câmpul este important pentru aprovizionarea cu energie a Siriei.",
+      en: "The Shaer Gas Field is a natural gas field in central Syria, in Homs province. It was discovered in 2009 and brought into production in 2011. The field supplied the national gas network. During the civil war, it was captured multiple times by various groups and infrastructure was damaged. Production was interrupted several times. Reserves are estimated at about 3 trillion cubic feet. The field is important for Syria's energy supply.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 2009", "Produktionsbeginn: 2011", "Geschätzte Reserven: 3 Billionen Kubikfuß", "Standort: Homs, Syrien", "Betreiber: Syrian Gas Company", "Förderung: vor Krieg ca. 10 Mio. m³/Tag"],
+      hu: ["Felfedezés: 2009", "Kitermelés kezdete: 2011", "Becsült készletek: 3 billió köbláb", "Helyszín: Homsz, Szíria", "Üzemeltető: Syrian Gas Company", "Kitermelés: háború előtt kb. 10 millió m³/nap"],
+      ro: ["Descoperire: 2009", "Începerea producției: 2011", "Rezerve estimate: 3 trilioane de picioare cubice", "Locație: Homs, Siria", "Operator: Syrian Gas Company", "Producție: înainte de război aprox. 10 milioane m³/zi"],
+      en: ["Discovery: 2009", "Production start: 2011", "Estimated reserves: 3 trillion cubic feet", "Location: Homs, Syria", "Operator: Syrian Gas Company", "Output: pre-war ~10 million m³/day"],
+    },
+  },
   {
     id: "khunayfis-phosphate-mine-economic-v2",
     type: "mine",
     parent: "SY-HO",
     coords: [37.82, 34.05],
-    name: { de: "Phosphatmine Khunayfis", hu: "Hnajfisz Foszfátbánya", ro: "Mina de Fosfat Khunayfis", en: "Khunayfis Phosphate Mine",
-image: "/poi-images/khunayfis-phosphate-mine-economic-v2.webp"
-},
+    name: { de: "Phosphatmine Khunayfis", hu: "Hnajfisz Foszfátbánya", ro: "Mina de Fosfat Khunayfis", en: "Khunayfis Phosphate Mine"},
+    image: "/poi-images/khunayfis-phosphate-mine-economic-v2.webp",
     description: { de: "Eine der wichtigsten Minen Syriens zur Förderung von Phosphat, das ein Hauptexportgut der syrischen Wirtschaft darstellt.", hu: "Szíria egyik legfontosabb bányája a foszfát kitermelésére, amely a szíriai gazdaság egyik fő exportcikke.", ro: "Una dintre cele mai importante mine din Siria pentru extracția fosfatului, care este un export principal al economiei siriene.", en: "One of Syria's most important mines for the extraction of phosphate, which is a main export product of the Syrian economy." },
     facts: {
       de: ["Befindet sich südwestlich von Palmyra.", "Produziert Rohphosphat für Düngemittel.", "Das Material wird zum Hafen von Tartus transportiert.", "Trägt erheblich zum Staatseinkommen bei."],
       hu: ["Palmürától délnyugatra található.", "Nyers foszfátot termel műtrágyákhoz.", "Az anyagot a tartúszi kikötőbe szállítják.", "Jelentősen hozzájárul az állami bevételekhez."],
       ro: ["Situată la sud-vest de Palmira.", "Produce fosfat brut pentru îngrășăminte.", "Materialul este transportat în portul Tartus.", "Contribuie semnificativ la veniturile statului."],
       en: ["Located southwest of Palmyra.", "Produces raw phosphate for fertilizers.", "The material is transported to the Port of Tartus.", "Contributes significantly to state revenue."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Khunayfis-Phosphatmine ist eine bedeutende Phosphatmine in Zentralsyrien, in der Provinz Homs. Sie wurde 1980 eröffnet und gehört zu den größten Phosphatlagerstätten der Welt. Die Reserven werden auf über 1 Milliarde Tonnen geschätzt. Die Mine produziert Phosphatgestein für die Düngemittelherstellung. Syrien war vor dem Krieg einer der größten Exporteure von Phosphaten. Die Mine wurde durch den Bürgerkrieg schwer beschädigt und die Produktion eingestellt.",
+      hu: "A Khunayfis-foszfátbánya egy jelentős foszfátbánya Közép-Szíriában, Homsz tartományban. 1980-ban nyitották meg, és a világ egyik legnagyobb foszfátlelőhelye. A készleteket több mint 1 milliárd tonnára becsülik. A bánya foszfátkőzetet termel műtrágyagyártáshoz. Szíria a háború előtt a foszfátok egyik legnagyobb exportőre volt. A bánya súlyosan megrongálódott a polgárháborúban, és a termelés leállt.",
+      ro: "Mina de fosfat Khunayfis este o mină importantă de fosfat în centrul Siriei, în provincia Homs. A fost deschisă în 1980 și este una dintre cele mai mari zăcăminte de fosfat din lume. Rezervele sunt estimate la peste 1 miliard de tone. Mina produce rocă fosfatică pentru fabricarea îngrășămintelor. Siria a fost unul dintre cei mai mari exportatori de fosfați înainte de război. Mina a fost grav avariată de războiul civil, iar producția a încetat.",
+      en: "The Khunayfis Phosphate Mine is a major phosphate mine in central Syria, in Homs province. It was opened in 1980 and is one of the largest phosphate deposits in the world. Reserves are estimated at over 1 billion tons. The mine produces phosphate rock for fertilizer manufacturing. Syria was one of the top exporters of phosphates before the war. The mine was heavily damaged by the civil war and production halted.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung: 1980", "Geschätzte Reserven: > 1 Mrd. Tonnen", "Standort: Homs, Syrien", "Produktion: vor Krieg ca. 3 Mio. Tonnen/Jahr", "Export: Hauptabnehmer waren Indien und China", "Besitzer: Syrian Phosphate Company (staatlich)"],
+      hu: ["Megnyitás: 1980", "Becsült készletek: > 1 milliárd tonna", "Helyszín: Homsz, Szíria", "Termelés: háború előtt kb. 3 millió tonna/év", "Export: fő vásárlók India és Kína", "Tulajdonos: Syrian Phosphate Company (állami)"],
+      ro: ["Deschidere: 1980", "Rezerve estimate: > 1 miliard de tone", "Locație: Homs, Siria", "Producție: înainte de război aprox. 3 milioane tone/an", "Export: principalii cumpărători India și China", "Proprietar: Syrian Phosphate Company (de stat)"],
+      en: ["Opened: 1980", "Estimated reserves: > 1 billion tons", "Location: Homs, Syria", "Output: pre-war ~3 million tons/year", "Export: major buyers India and China", "Owner: Syrian Phosphate Company (state-owned)"],
+    },
   },
   {
     id: "al-sharqiyeh-phosphate-mine-economic-v2",
     type: "mine",
     parent: "SY-HO",
     coords: [38.35, 34.33],
-    name: { de: "Phosphatmine Al-Scharqiyeh", hu: "As-Sarkija Foszfátbánya", ro: "Mina de Fosfat Al-Sharqiyeh", en: "Al-Sharqiyeh Phosphate Mine",
-image: "/poi-images/al-sharqiyeh-phosphate-mine-economic-v2.webp"
-},
+    name: { de: "Phosphatmine Al-Scharqiyeh", hu: "As-Sarkija Foszfátbánya", ro: "Mina de Fosfat Al-Sharqiyeh", en: "Al-Sharqiyeh Phosphate Mine"},
+    image: "/poi-images/al-sharqiyeh-phosphate-mine-economic-v2.webp",
     description: { de: "Ein riesiges Abbaugebiet für Phosphatgestein in der zentralen syrischen Wüste, eng angebunden an das Eisenbahnnetz.", hu: "Hatalmas foszfátkő-kitermelő terület a központi Szíriai-sivatagban, amely szorosan kapcsolódik a vasúthálózathoz.", ro: "O vastă zonă de extracție a rocii fosfatice în deșertul central sirian, strâns legată de rețeaua feroviară.", en: "A massive mining area for phosphate rock in the central Syrian desert, closely connected to the railway network." },
     facts: {
       de: ["Zählt zu den größten Phosphatminen im Nahen Osten.", "Wurde durch russische Investitionen modernisiert.", "Liefert Rohstoffe für die globale Landwirtschaft.", "Die Mine ist im Tagebau erschlossen."],
       hu: ["A Közel-Kelet legnagyobb foszfátbányái közé tartozik.", "Orosz befektetések révén korszerűsítették.", "Nyersanyagot biztosít a globális mezőgazdaság számára.", "A bányát külszíni fejtéssel művelik."],
       ro: ["Printre cele mai mari mine de fosfat din Orientul Mijlociu.", "Modernizată prin investiții rusești.", "Furnizează materii prime pentru agricultura globală.", "Mina este exploatată la suprafață."],
       en: ["Among the largest phosphate mines in the Middle East.", "Modernized through Russian investments.", "Supplies raw materials for global agriculture.", "The mine is operated as an open-pit mine."]
-    }, image: "/poi-images/al-sharqiyeh-phosphate-mine-economic-v2.webp"},
+    }, image: "/poi-images/al-sharqiyeh-phosphate-mine-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Al-Sharqiyeh-Phosphatmine in Zentralsyrien ist eines der bedeutendsten Bergbauprojekte des Landes. Entdeckt in den 1960er Jahren, begann die kommerzielle Förderung 1971. Die Mine erstreckt sich über eine Fläche von rund 25 km² und fördert Phosphatgestein aus dem Paläogen. Die Lagerstätte enthält schätzungsweise 1,2 Milliarden Tonnen Rohphosphat mit einem durchschnittlichen P2O5-Gehalt von 25–30 %. Die jährliche Produktion beträgt etwa 3–4 Millionen Tonnen, hauptsächlich für die lokale Düngemittelindustrie und den Export. Die Mine wird von der General Company for Phosphate and Mines betrieben und beschäftigt rund 1.500 Arbeiter. Der Abbau erfolgt im Tagebau, gefolgt von Aufbereitungsanlagen vor Ort. Die wirtschaftliche Bedeutung liegt in der Deckung des nationalen Düngemittelbedarfs und der Generierung von Devisen. Politische Instabilität und Sanktionen haben jedoch die Produktion in den letzten Jahren beeinträchtigt.",
+      hu: "Az Al-Sharqiyeh foszfátbánya Szíria középső részén található, és az ország egyik legfontosabb ásványi erőforrás projekije. A bánya az 1960-as években felfedezett, paleogén kori üledékes kőzetekben gazdag lelőhelyen működik, amely a szíriai foszfátkészletek jelentős részét adja. A bánya éves termelése 2010 előtt elérte a 4 millió tonnát, de a konfliktus hatására ez 2 millió tonnára csökkent. A kitermelt foszfátot elsősorban műtrágyagyártásra használják, és exportálják is. A bánya hozzájárul a helyi foglalkoztatáshoz: mintegy 2000 ember dolgozik közvetlenül a kitermelésben és a feldolgozásban. A terület geológiai adottságai lehetővé teszik a hosszú távú kitermelést, a becsült készletek több évtizedre elegendőek. Az Al-Sharqiyeh stratégiai jelentőségű a szíriai gazdaság számára, mivel csökkenti a műtrágyaimporttól való függőséget.",
+      ro: "Mina de fosfat Al-Sharqiyeh, situată în centrul Siriei, este una dintre cele mai mari exploat miniere din țară. Descoperită în anii 1960, exploatarea a început în 1971. Zăcământul este de origine sedimentară, format în perioada Paleogenului, având o grosime medie de 10-15 metri. Rezervele sunt estimate la 1,2 miliarde de tone, cu un conținut mediu de 28% P2O5. Miniera funcționează în carieră deschisă, iar minereul este prelucrat prin spălare, calcinare și flotație pentru a îndepărta impuritățile. Producția anuală actuală este de aproximativ 2 milioane de tone, mult redusă față de capacitatea maximă de 4 milioane. Miniera angajează aproximativ 1.500 de persoane și este gestionată de Compania Generală pentru Fosfat și Mine. Exporturile vizează în principal India și Pakistan. Conflictul sirian a deteriorat infrastructura și a redus investițiile străine.",
+      en: "Al-Sharqiyeh Phosphate Mine, located near Palmyra in central Syria, is a major source of phosphate rock for the country. Discovered in the 1960s, it began commercial production in 1971. The ore body consists of Paleogene sedimentary deposits with an average thickness of 10–15 meters. Proven reserves exceed 1 billion tons, with annual production currently around 2–3 million tons, down from 4 million tons before the civil war. The extracted phosphate is processed locally into fertilizers and exported mainly to South Asia. The mine employs roughly 1,500 workers and is operated by the state-owned General Company for Phosphate and Mines. The site includes beneficiation plants that use flotation and calcination to upgrade the ore. Challenges include aging equipment, electricity shortages, and sanctions affecting exports.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung im Jahr 1965 durch geologische Erkundung.", "Tagebaufläche: ca. 25 km².", "Jährliche Fördermenge: 3–4 Millionen Tonnen (vor 2011).", "Durchschnittlicher P2O5-Gehalt: 25–30 %.", "Tiefe der Lagerstätte: 10–15 Meter.", "Anzahl der Beschäftigten: rund 1.500 (Stand 2023)."],
+      hu: ["A bánya területe: 25 négyzetkilométer.", "Az éves termelés csúcsa: 4 millió tonna (2010).", "A foszfátkoncentráció: 28% P2O5.", "A bánya mélysége: 10–15 méter.", "A tartalék becsült mennyisége: 1,2 milliárd tonna.", "A bánya 1971-ben kezdte meg a működését."],
+      ro: ["Zăcământ descoperit în 1965.", "Producția anuală maximă: 4 milioane tone (2010).", "Conținut mediu de P2O5: 28%.", "Grosimea stratului: 10–15 metri.", "Rezerve estimate: 1,2 miliarde tone.", "Minieră operată din 1971."],
+      en: ["Discovered in 1965.", "Peak annual production: 4 million tons (2010).", "Average phosphate grade: 28% P2O5.", "Thickness of ore body: 10–15 meters.", "Estimated reserves: 1.2 billion tons.", "Mine started operations in 1971."],
+    },
+  },
   {
     id: "adra-industrial-city-economic-v2",
     type: "industry",
     parent: "SY-RD",
     coords: [36.50, 33.62],
-    name: { de: "Industriestadt Adra", hu: "Adra Ipari Város", ro: "Orașul Industrial Adra", en: "Adra Industrial City",
-image: "/poi-images/adra-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industriestadt Adra", hu: "Adra Ipari Város", ro: "Orașul Industrial Adra", en: "Adra Industrial City"},
+    image: "/poi-images/adra-industrial-city-economic-v2.webp",
     description: { de: "Ein riesiger Industriekomplex nordöstlich von Damaskus, der Tausende von Fabriken und Werkstätten aus verschiedenen Sektoren beherbergt.", hu: "Hatalmas ipari komplexum Damaszkusztól északkeletre, amely különböző ágazatokból származó gyárak és műhelyek ezreinek ad otthont.", ro: "Un complex industrial uriaș la nord-est de Damasc, care găzduiește mii de fabrici și ateliere din diverse sectoare.", en: "A massive industrial complex northeast of Damascus, housing thousands of factories and workshops from various sectors." },
     facts: {
       de: ["Eine der größten Industriezonen in Syrien.", "Schwerpunkt auf Textilien, Chemie und Lebensmittel.", "Bietet Arbeitsplätze für das Umland von Damaskus.", "Direkt an die Hauptverkehrsstraßen angebunden."],
       hu: ["Szíria egyik legnagyobb ipari övezete.", "Főként textil-, vegyi- és élelmiszeriparra fókuszál.", "Munkahelyeket biztosít Damaszkusz környékének.", "Közvetlenül kapcsolódik a főútvonalakhoz."],
       ro: ["Una dintre cele mai mari zone industriale din Siria.", "Axată pe textile, produse chimice și alimente.", "Oferă locuri de muncă pentru împrejurimile Damascului.", "Conectată direct la principalele drumuri de trafic."],
       en: ["One of the largest industrial zones in Syria.", "Focuses on textiles, chemicals, and food.", "Provides jobs for the Damascus area.", "Directly connected to main traffic routes."]
-    }, image: "/poi-images/adra-industrial-city-economic-v2.webp"},
+    }, image: "/poi-images/adra-industrial-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Adra Industrial City liegt etwa 30 km nordöstlich von Damaskus und ist eines der wichtigsten Industriezentren Syriens. Gegründet in den 1970er Jahren, erstreckt sich die Stadt über eine Fläche von rund 25 km². Sie beherbergt über 1.000 Fabriken, die eine Vielzahl von Produkten herstellen, darunter Textilien, Lebensmittel, Baumaterialien, Chemikalien und Elektronik. Die Stadt wurde als Teil der staatlichen Dezentralisierungspolitik entwickelt, um die Industrialisierung zu fördern und Arbeitsplätze zu schaffen. Vor dem Bürgerkrieg beschäftigte die Adra Industrial City etwa 50.000 Arbeiter. Die Infrastruktur umfasst Strom-, Wasser- und Abwassersysteme sowie Straßen und Eisenbahnanschlüsse. Aufgrund der strategischen Lage nahe der Hauptstadt und der Autobahn nach Damaskus ist die Stadt ein wichtiger Knotenpunkt für den Handel. Der Krieg hat jedoch viele Fabriken beschädigt oder zerstört, und die Produktion ist stark zurückgegangen.",
+      hu: "Az Adra Ipari Város Szíria egyik legnagyobb ipari övezete, Damaszkusztól 30 km-re északkeletre. Az 1970-es években alapították, területe kb. 25 négyzetkilométer. Több mint ezer gyár található itt, amelyek textilt, élelmiszert, építőanyagokat, vegyi anyagokat és elektronikát gyártanak. Az ipari parkot az állam hozta létre a vidéki iparosítás elősegítésére. A konfliktus előtt mintegy 50 000 embert foglalkoztatott. Az infrastruktúra magában foglalja az utakat, vasúti összeköttetést és közműveket. A város stratégiai elhelyezkedése miatt logisztikai központ is. A háború súlyos károkat okozott; sok gyár leállt vagy megsemmisült. A helyreállítás lassan halad.",
+      ro: "Orașul Industrial Adra, situat la 30 km nord-est de Damasc, este unul dintre principalele centre industriale ale Siriei. Fondat în anii 1970, se întinde pe 25 km² și găzduiește peste 1.000 de fabrici. Producția acoperă textile, alimente, materiale de construcții, produse chimice și electronice. Parcul industrial a fost creat de stat pentru a descentraliza industria și a crea locuri de muncă. Înainte de război, angaja aproximativ 50.000 de muncitori. Infrastructura include drumuri, căi ferate și utilități. Orașul beneficia de apropierea de autostrada Damasc și de aeroport. Conflictul a distrus parțial facilitățile; multe fabrici sunt nefuncționale din cauza daunelor și a lipsei de materii prime.",
+      en: "Adra Industrial City, located 30 km northeast of Damascus, is a major industrial hub in Syria. Established in the 1970s, it covers 25 km² and houses over 1,000 factories. Industries include textiles, food processing, construction materials, chemicals, and electronics. The city was part of a state initiative to decentralize industry and stimulate employment. Before the civil war, it employed around 50,000 workers. The infrastructure includes dedicated power supply, water treatment, and rail links. Its proximity to Damascus and major highways made it a logistics center. The war severely damaged many factories; some have resumed partial operations, but overall output remains a fraction of pre-war levels. Reconstruction faces challenges due to sanctions and lack of investment.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1974.", "Fläche: 25 km².", "Anzahl der Fabriken: über 1.000.", "Beschäftigte vor dem Krieg: 50.000.", "Entfernung zu Damaskus: 30 km.", "Industriezweige: Textilien, Lebensmittel, Chemie, Elektronik."],
+      hu: ["Alapítás éve: 1974.", "Területe: 25 négyzetkilométer.", "Gyárak száma: több mint 1000.", "Foglalkoztatottak száma: 50 000 (háború előtt).", "Távolság Damaszkusztól: 30 km.", "Fő iparágak: textil, élelmiszer, építőanyag, vegyipar."],
+      ro: ["Anul înființării: 1974.", "Suprafață: 25 km².", "Număr fabrici: peste 1.000.", "Angajați înainte de război: 50.000.", "Distanță față de Damasc: 30 km.", "Sectoare principale: textile, alimentație, chimie, electronice."],
+      en: ["Established in 1974.", "Area: 25 square kilometers.", "Number of factories: over 1,000.", "Pre-war workforce: 50,000.", "Distance from Damascus: 30 km.", "Key industries: textiles, food, construction materials, chemicals."],
+    },
+  },
   {
     id: "sheikh-najjar-industrial-city-economic-v2",
     type: "industry",
     parent: "SY-HL",
     coords: [37.25, 36.28],
-    name: { de: "Industriestadt Scheich Nadschar", hu: "Sejk Naddzsár Ipari Város", ro: "Orașul Industrial Sheikh Najjar", en: "Sheikh Najjar Industrial City",
-image: "/poi-images/sheikh-najjar-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industriestadt Scheich Nadschar", hu: "Sejk Naddzsár Ipari Város", ro: "Orașul Industrial Sheikh Najjar", en: "Sheikh Najjar Industrial City"},
+    image: "/poi-images/sheikh-najjar-industrial-city-economic-v2.webp",
     description: { de: "Das industrielle Herz von Aleppo und eines der wichtigsten Wirtschaftszentren Syriens, bekannt für seine Textil- und Pharmaproduktion.", hu: "Aleppó ipari szíve és Szíria egyik legfontosabb gazdasági központja, amely textil- és gyógyszergyártásáról ismert.", ro: "Inima industrială a orașului Alep și unul dintre cele mai importante centre economice ale Siriei, cunoscut pentru producția sa textilă și farmaceutică.", en: "The industrial heart of Aleppo and one of Syria's most important economic centers, known for its textile and pharmaceutical production." },
     facts: {
       de: ["Umfasst Tausende von Produktionsstätten.", "Vor dem Krieg Motor der syrischen Exportwirtschaft.", "Ist in drei Hauptsektoren unterteilt.", "Besitzt eine moderne Infrastruktur."],
       hu: ["Több ezer termelőüzemet foglal magában.", "A háború előtt a szíriai exportgazdaság motorja volt.", "Három fő szektorra oszlik.", "Modern infrastruktúrával rendelkezik."],
       ro: ["Include mii de unități de producție.", "Motor al economiei siriene de export înainte de război.", "Este împărțit în trei sectoare principale.", "Deține o infrastructură modernă."],
       en: ["Includes thousands of production facilities.", "Engine of the Syrian export economy before the war.", "Is divided into three main sectors.", "Has a modern infrastructure."]
-    }, image: "/poi-images/sheikh-najjar-industrial-city-economic-v2.webp"},
+    }, image: "/poi-images/sheikh-najjar-industrial-city-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sheikh Najjar Industrial City befindet sich in der Nähe von Aleppo im Norden Syriens. Sie wurde 2007 gegründet und erstreckt sich über eine Fläche von etwa 30 km². Die Stadt ist ein wichtiges Zentrum für die Leichtindustrie, mit Schwerpunkt auf Textilien, Bekleidung, Lederwaren, Kunststoff und Metallverarbeitung. Sie beherbergt etwa 800 Fabriken und Werkstätten. Vor dem Bürgerkrieg bot sie Arbeitsplätze für rund 40.000 Menschen. Die Infrastruktur umfasst Straßen, Strom, Wasser und Abwasserentsorgung. Die Lage nahe der türkischen Grenze machte sie zu einem Knotenpunkt für den Export. Der Krieg hat jedoch die Produktion stark beeinträchtigt; viele Fabriken wurden geplündert oder zerstört. Seit 2020 gibt es Bemühungen zur Wiederbelebung, aber die Wirtschaftskrise und Sanktionen behindern den Fortschritt.",
+      hu: "A Sheikh Najjar Ipari Város Aleppó közelében, Észak-Szíriában található. 2007-ben alapították, területe kb. 30 négyzetkilométer. A könnyűiparra specializálódott: textil, ruházat, bőr, műanyag és fémfeldolgozás. Mintegy 800 üzem és gyár működik itt. A háború előtt 40 000 embert foglalkoztatott. Az infrastruktúra magában foglalja az utakat, közműveket és vasúti kapcsolatot. A török határ közelsége exportlehetőségeket biztosított. A konfliktus során súlyos károkat szenvedett; számos gyárat kifosztottak. Az újjáépítés lassú, részben a gazdasági szankciók miatt.",
+      ro: "Orașul Industrial Sheikh Najjar, situat lângă Alep în nordul Siriei, a fost fondat în 2007. Se întinde pe 30 km² și găzduiește aproximativ 800 de fabrici și ateliere. Este specializat în industria ușoară: textile, îmbrăcăminte, piele, materiale plastice și prelucrarea metalelor. Înainte de război, oferea locuri de muncă pentru 40.000 de persoane. Infrastructura cuprinde drumuri, electricitate, apă și canalizare. Apropierea de granița turcă a facilitat exporturile. Conflictul a dus la jefuirea și distrugerea multor unități. Începând cu 2020, unele fabrici s-au redeschis, dar producția rămâne redusă.",
+      en: "Sheikh Najjar Industrial City, located near Aleppo in northern Syria, was established in 2007. It covers an area of 30 km² and hosts around 800 factories and workshops. The industrial park focuses on light manufacturing: textiles, garments, leather goods, plastics and metalworking. Before the civil war, it employed approximately 40,000 workers. Its proximity to the Turkish border made it a hub for export-oriented production. The war caused extensive damage; many facilities were looted or destroyed. Since 2020, there have been efforts to revive the zone, but sanctions and economic crisis limit recovery. Current occupancy is low, and many buildings await rebuilding.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2007.", "Fläche: 30 km².", "Anzahl der Fabriken: ca. 800.", "Beschäftigte vor dem Krieg: 40.000.", "Entfernung zur türkischen Grenze: ca. 50 km.", "Schwerpunkt: Textilien und Kunststoffverarbeitung."],
+      hu: ["Alapítás éve: 2007.", "Területe: 30 négyzetkilométer.", "Gyárak száma: kb. 800.", "Foglalkoztatottak száma: 40 000.", "Távolság a török határtól: kb. 50 km.", "Fő iparágak: textil, bőr, műanyag."],
+      ro: ["Anul înființării: 2007.", "Suprafață: 30 km².", "Număr fabrici: aprox. 800.", "Angajați înainte de război: 40.000.", "Distanță până la granița turcă: 50 km.", "Specializare: textile, piele, materiale plastice."],
+      en: ["Established in 2007.", "Area: 30 square kilometers.", "Number of factories: approximately 800.", "Pre-war employment: 40,000.", "Distance to Turkish border: 50 km.", "Key sectors: textiles, garments, plastics."],
+    },
+  },
   {
     id: "hassia-industrial-city-economic-v2",
     type: "industry",
     parent: "SY-HO",
     coords: [36.72, 34.45],
-    name: { de: "Industriestadt Hassia", hu: "Hasszia Ipari Város", ro: "Orașul Industrial Hassia", en: "Hassia Industrial City",
-image: "/poi-images/hassia-industrial-city-economic-v2.webp"
-},
+    name: { de: "Industriestadt Hassia", hu: "Hasszia Ipari Város", ro: "Orașul Industrial Hassia", en: "Hassia Industrial City"},
+    image: "/poi-images/hassia-industrial-city-economic-v2.webp",
     description: { de: "Eine strategisch günstig gelegene Industriezone südlich von Homs, die auf Schwerindustrie und Automobilmontage spezialisiert ist.", hu: "Stratégiailag kedvező fekvésű ipari övezet Homsztól délre, amely a nehéziparra és az autó-összeszerelésre specializálódott.", ro: "O zonă industrială situată strategic la sud de Homs, specializată în industria grea și asamblarea auto.", en: "A strategically located industrial zone south of Homs, specializing in heavy industry and automotive assembly." },
     facts: {
       de: ["Gegründet um die wirtschaftliche Dezentralisierung zu fördern.", "Beherbergt Anlagen für Metallverarbeitung.", "Liegt an der internationalen Autobahn M5.", "Zieht viele ausländische Direktinvestitionen an."],
       hu: ["A gazdasági decentralizáció elősegítésére alapították.", "Fémfeldolgozó üzemeknek ad otthont.", "Az M5-ös nemzetközi autópálya mentén fekszik.", "Sok közvetlen külföldi tőkebefektetést vonz."],
       ro: ["Fondată pentru a promova descentralizarea economică.", "Găzduiește facilități de prelucrare a metalelor.", "Situată pe autostrada internațională M5.", "Atrage multe investiții străine directe."],
       en: ["Founded to promote economic decentralization.", "Houses metal processing facilities.", "Located on the M5 international highway.", "Attracts many foreign direct investments."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Hassia Industrial City liegt westlich von Homs, etwa 180 km nördlich von Damaskus. Sie wurde 2008 gegründet und umfasst eine Fläche von rund 27 km². Die Stadt ist auf die petrochemische Industrie und die Herstellung von Düngemitteln spezialisiert, da sie in der Nähe von Öl- und Gasfeldern liegt. Sie beherbergt etwa 600 Fabriken, darunter große Anlagen zur Ammoniak-, Harnstoff- und Methanolproduktion. Vor dem Krieg waren hier rund 30.000 Menschen beschäftigt. Die Infrastruktur umfasst ein eigenes Kraftwerk, Wasseraufbereitungsanlagen und ein Logistikzentrum. Die strategische Lage an der Autobahn Damaskus-Aleppo macht sie zu einem wichtigen Verkehrsknotenpunkt. Der Bürgerkrieg hat die Produktion stark beeinträchtigt; viele Anlagen wurden beschädigt oder sind aufgrund von Treibstoffmangel außer Betrieb.",
+      hu: "A Hassia Ipari Város Homsztól nyugatra, Damaszkusztól 180 km-re északra található. 2008-ban alapították, területe 27 négyzetkilométer. A petrolkémiai iparra és műtrágyagyártásra szakosodott, mivel közel van az olaj- és gázmezőkhöz. Kb. 600 gyárat foglal magában, amelyek ammóniát, karbamidot és metanolt állítanak elő. A háború előtt 30 000 embert foglalkoztatott. Az infrastruktúrához erőmű, víztisztító és logisztikai központ tartozik. A Damaszkusz-Aleppó autópálya melletti elhelyezkedése előnyös a szállítás szempontjából. A konfliktus súlyos károkat okozott; a termelés töredékére esett vissza.",
+      ro: "Orașul Industrial Hassia, situat la vest de Homs, la 180 km nord de Damasc, a fost fondat în 2008. Se întinde pe 27 km² și este specializat în industria petrochimică și îngrășăminte, datorită proximității de câmpurile de petrol și gaze. Conține aproximativ 600 de fabrici, inclusiv unități de amoniac, uree și metanol. Înainte de război, angaja 30.000 de muncitori. Infrastructura include o centrală electrică proprie, stație de epurare a apei și centru logistic. Aflat pe autostrada Damasc-Alep, orașul are o poziție strategică. Războiul a redus dramatic producția; multe facilități sunt avariate sau oprite.",
+      en: "Hassia Industrial City, located west of Homs, 180 km north of Damascus, was established in 2008. Covering 27 km², the city is a center for petrochemical and fertilizer industries, leveraging nearby oil and gas fields. It hosts about 600 factories, producing ammonia, urea, and methanol. Pre-war employment was around 30,000. The city has its own power plant, water treatment facilities, and a logistics hub. Its location on the Damascus-Aleppo highway facilitates transportation. The civil war caused severe disruption; many plants operate at reduced capacity or are idle due to feedstock shortages. Some production has resumed since 2020 but remains below 50% of capacity.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2008.", "Fläche: 27 km².", "Anzahl der Fabriken: ca. 600.", "Beschäftigte vor dem Krieg: 30.000.", "Entfernung zu Homs: ca. 20 km.", "Hauptprodukte: Ammoniak, Harnstoff, Methanol."],
+      hu: ["Alapítás éve: 2008.", "Területe: 27 négyzetkilométer.", "Gyárak száma: kb. 600.", "Foglalkoztatottak száma: 30 000.", "Távolság Homstól: kb. 20 km.", "Fő termékek: ammónia, karbamid, metanol."],
+      ro: ["Anul înființării: 2008.", "Suprafață: 27 km².", "Număr fabrici: aprox. 600.", "Angajați înainte de război: 30.000.", "Distanță până la Homs: aproximativ 20 km.", "Produse principale: amoniac, uree, metanol."],
+      en: ["Established in 2008.", "Area: 27 square kilometers.", "Number of factories: approximately 600.", "Pre-war employment: 30,000.", "Distance to Homs: 20 km.", "Main products: ammonia, urea, methanol."],
+    },
   },
   {
     id: "al-thaim-oil-field-economic-v2",
     type: "energy",
     parent: "SY-DY",
     coords: [40.06, 35.15],
-    name: { de: "Al-Thaim-Ölfeld", hu: "Al-Thajm Olajmező", ro: "Câmpul Petrolier Al-Thaim", en: "Al-Thaim Oil Field",
-image: "/poi-images/al-thaim-oil-field-economic-v2.webp"
-},
+    name: { de: "Al-Thaim-Ölfeld", hu: "Al-Thajm Olajmező", ro: "Câmpul Petrolier Al-Thaim", en: "Al-Thaim Oil Field"},
+    image: "/poi-images/al-thaim-oil-field-economic-v2.webp",
     description: { de: "Ein bedeutendes Ölfeld südlich von Deir ez-Zor, das einen wichtigen Beitrag zur syrischen Ölproduktion leistet.", hu: "Jelentős olajmező Deir ez-Zórtól délre, amely fontos szerepet játszik a szíriai olajtermelésben.", ro: "Un câmp petrolier important la sud de Deir ez-Zor, care aduce o contribuție semnificativă la producția de petrol sirian.", en: "An important oil field south of Deir ez-Zor, making a significant contribution to Syrian oil production." },
     facts: {
       de: ["Das Feld ist seit den 1980er Jahren aktiv.", "Befindet sich in einer wüstenartigen Umgebung.", "Verfügt über Pipelines zur Raffinerie in Homs.", "Wichtiger Arbeitgeber in der Deir ez-Zor-Region."],
       hu: ["A mező az 1980-as évek óta aktív.", "Sivatagos környezetben található.", "Csővezetékekkel rendelkezik a homszi finomító felé.", "Fontos munkaadó a Deir ez-Zór régióban."],
       ro: ["Câmpul este activ încă din anii 1980.", "Situat într-un mediu deșertic.", "Dispune de conducte către rafinăria din Homs.", "Angajator important în regiunea Deir ez-Zor."],
       en: ["The field has been active since the 1980s.", "Located in a desert-like environment.", "Has pipelines to the Homs refinery.", "Important employer in the Deir ez-Zor region."]
-    }, image: "/poi-images/al-thaim-oil-field-economic-v2.webp"},
+    }, image: "/poi-images/al-thaim-oil-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Al-Thaim-Ölfeld liegt im Nordosten Syriens, in der Provinz Hasaka, nahe der irakischen Grenze. Es wurde 1995 entdeckt und 1998 in Produktion genommen. Das Feld fördert aus der oberkreidezeitlichen Sirwan-Formation in einer Tiefe von 2.500 bis 3.000 Metern. Die geschätzten Reserven belaufen sich auf etwa 200 Millionen Barrel. Die tägliche Förderung vor dem Krieg betrug rund 15.000 Barrel pro Tag. Das Öl ist leicht und schwefelarm, was es für Raffinerien wertvoll macht. Das Feld wird von der syrischen staatlichen Gesellschaft Al-Furat Petroleum Company betrieben, einem Joint Venture mit ausländischen Partnern. Der Bürgerkrieg hat die Produktion stark beeinträchtigt, da das Gebiet zeitweise unter der Kontrolle verschiedener bewaffneter Gruppen stand. Seit 2019 wird die Förderung langsam wieder hochgefahren, liegt aber noch unter 10.000 Barrel täglich.",
+      hu: "Az Al-Thaim olajmező Szíria északkeleti részén, Hasaka kormányzóságban, az iraki határ közelében található. 1995-ben fedezték fel, a kitermelés 1998-ban kezdődött. Az olaj a felső kréta Sirwan formációból származik, 2500–3000 méter mélységből. Becsült készlete 200 millió hordó. A háború előtti napi termelés 15 000 hordó volt. A könnyű, alacsony kéntartalmú olaj értékes. Az Al-Furat Petroleum Company üzemelteti, amely külföldi partnerekkel közös vállalat. A konfliktus során a termelés visszaesett, mivel a terület különböző csoportok irányítása alá került. 2019 óta lassú helyreállítás tapasztalható, a napi termelés 10 000 hordó alatt van.",
+      ro: "Câmpul petrolifer Al-Thaim este situat în nord-estul Siriei, în provincia Hasaka, aproape de granița irakiană. Descoperit în 1995, a început producția în 1998. Țițeiul provine din formațiunea Sirwan din Cretacicul superior, la adâncimi de 2.500–3.000 m. Rezervele estimate sunt de 200 de milioane de barili. Producția zilnică înainte de război era de 15.000 de barili. Petrolul este ușor, cu conținut scăzut de sulf. Câmpul este operat de Al-Furat Petroleum Company, un joint venture cu parteneri străini. Războiul civil a întrerupt producția din cauza instabilității; în 2022, producția a scăzut sub 8.000 de barili pe zi.",
+      en: "Al-Thaim oil field is located in northeastern Syria, in Hasaka province, near the Iraqi border. Discovered in 1995, it started production in 1998. The oil is extracted from the Upper Cretaceous Sirwan formation at depths of 2,500–3,000 meters. Estimated reserves are 200 million barrels. Pre-war production averaged 15,000 barrels per day (bpd). The oil is light and low in sulfur. The field is operated by the Al-Furat Petroleum Company, a joint venture between the Syrian government and foreign companies. The civil war severely disrupted operations, with production dropping to around 5,000 bpd in 2016. Since 2019, gradual recovery has raised output to about 8,000 bpd.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1995.", "Produktionsbeginn: 1998.", "Fördertiefe: 2.500–3.000 m.", "Geschätzte Reserven: 200 Millionen Barrel.", "Tägliche Förderung vor dem Krieg: 15.000 Barrel.", "Betreiber: Al-Furat Petroleum Company."],
+      hu: ["Felfedezés: 1995.", "Kitermelés kezdete: 1998.", "Mélység: 2500–3000 m.", "Becsült készlet: 200 millió hordó.", "Napi termelés (háború előtt): 15 000 hordó.", "Üzemeltető: Al-Furat Petroleum Company."],
+      ro: ["Descoperit: 1995.", "Început producție: 1998.", "Adâncime: 2.500–3.000 m.", "Rezerve estimate: 200 milioane barili.", "Producție zilnică pre-război: 15.000 barili.", "Operator: Al-Furat Petroleum Company."],
+      en: ["Discovered in 1995.", "Production start: 1998.", "Depth: 2,500–3,000 meters.", "Estimated reserves: 200 million barrels.", "Pre-war daily output: 15,000 barrels.", "Operator: Al-Furat Petroleum Company."],
+    },
+  },
   {
     id: "jbissa-gas-field-economic-v2",
     type: "energy",
     parent: "SY-HI",
     coords: [40.67, 36.08],
-    name: { de: "Jbissa-Gasfeld", hu: "Dzsbissza Gázmező", ro: "Câmpul de Gaze Jbissa", en: "Jbissa Gas Field",
-image: "/poi-images/jbissa-gas-field-economic-v2.webp"
-},
+    name: { de: "Jbissa-Gasfeld", hu: "Dzsbissza Gázmező", ro: "Câmpul de Gaze Jbissa", en: "Jbissa Gas Field"},
+    image: "/poi-images/jbissa-gas-field-economic-v2.webp",
     description: { de: "Eines der ältesten und größten Erdgasfelder Syriens im Gouvernement Al-Hasakah, das auch eine eigene Gasverarbeitungsanlage umfasst.", hu: "Szíria egyik legrégebbi és legnagyobb földgázmezője Al-Haszaka kormányzóságban, amely saját gázfeldolgozó üzemmel is rendelkezik.", ro: "Unul dintre cele mai vechi și mai mari câmpuri de gaze naturale din Siria, în guvernoratul Al-Hasakah, care include și o uzină proprie de procesare a gazelor.", en: "One of Syria's oldest and largest natural gas fields in the Al-Hasakah Governorate, which also includes its own gas processing plant." },
     facts: {
       de: ["Produziert hauptsächlich süßes Erdgas.", "Versorgt das nationale Pipelinenetz.", "Liegt nahe der Stadt Al-Schaddadi.", "Zentrale Säule der ostsyrischen Wirtschaft."],
       hu: ["Főként kénesmentes földgázt termel.", "Ellátja az országos csővezeték-hálózatot.", "As-Saddádi városának közelében fekszik.", "A kelet-szíriai gazdaság központi pillére."],
       ro: ["Produce în principal gaze naturale dulci.", "Aprovizionează rețeaua națională de conducte.", "Situat lângă orașul Al-Shaddadi.", "Pilon central al economiei siriene de est."],
       en: ["Produces mainly sweet natural gas.", "Supplies the national pipeline network.", "Located near the town of Al-Shaddadi.", "Central pillar of the eastern Syrian economy."]
-    }, image: "/poi-images/jbissa-gas-field-economic-v2.webp"},
+    }, image: "/poi-images/jbissa-gas-field-economic-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Jbissa-Gasfeld liegt in der Provinz Deir ez-Zor im Osten Syriens, nahe der irakischen Grenze. Es wurde 2003 entdeckt und 2007 in Produktion genommen. Das Feld fördert Erdgas aus der Paläogen-Zeit in einer Tiefe von 3.000 bis 3.500 Metern. Die geschätzten Reserven betragen etwa 3 Billionen Kubikfuß. Die tägliche Produktion vor dem Krieg lag bei rund 500 Millionen Kubikfuß. Das Gas wird hauptsächlich für die Stromerzeugung und in der petrochemischen Industrie genutzt. Das Feld wird von der Syrian Gas Company betrieben. Der Bürgerkrieg hat die Produktion beeinträchtigt, da das Gebiet zeitweise von ISIS kontrolliert wurde. Nach der Rückeroberung 2017 wurden die Anlagen repariert, aber die Produktion erreicht noch nicht das Vorkriegsniveau.",
+      hu: "A Jbissa gázmező Szíria keleti részén, Deir ez-Zor kormányzóságban, az iraki határ közelében található. 2003-ban fedezték fel, a termelés 2007-ben indult. A földgáz paleogén kori rétegekből származik, 3000–3500 méter mélységből. Becsült készlete 3 billió köbláb. A háború előtti napi termelés 500 millió köbláb volt. A gázt főként áramtermelésre és petrolkémiai célokra használják. A Syrian Gas Company üzemelteti. Az ISIS 2014–2017 között ellenőrizte a területet, ami súlyos károkat okozott. A helyreállítás után a termelés a háború előtti szint 60%-át éri el.",
+      ro: "Câmpul de gaze Jbissa este situat în estul Siriei, în provincia Deir ez-Zor, lângă granița irakiană. Descoperit în 2003, a început producția în 2007. Gazele provin din formațiuni paleogene la adâncimi de 3.000–3.500 m. Rezervele estimate sunt de 3 trilioane de picioare cubice. Producția zilnică pre-război era de 500 de milioane de picioare cubice. Gazele sunt utilizate pentru generarea de electricitate și în petrochimie. Câmpul este operat de Syrian Gas Company. Zona a fost controlată de ISIS între 2014 și 2017, cauzând daune infrastructurii. După recapturare, producția a fost reluată, dar nu a atins nivelul anterior.",
+      en: "Jbissa gas field is located in Deir ez-Zor province, eastern Syria, near the Iraqi border. Discovered in 2003, production started in 2007. Natural gas is extracted from Paleogene reservoirs at depths of 3,000–3,500 meters. Estimated reserves are 3 trillion cubic feet (tcf). Pre-war daily production was about 500 million cubic feet (mmcf). The gas supplies power plants and petrochemical industries. The field is operated by the Syrian Gas Company. The area was under ISIS control from 2014 to 2017, causing significant damage. After recovery, production resumed, but as of 2023 it remains around 300 mmcf per day.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 2003.", "Produktionsbeginn: 2007.", "Fördertiefe: 3.000–3.500 m.", "Geschätzte Reserven: 3 Billionen Kubikfuß.", "Tägliche Produktion vor dem Krieg: 500 Millionen Kubikfuß.", "Betreiber: Syrian Gas Company."],
+      hu: ["Felfedezés: 2003.", "Kitermelés kezdete: 2007.", "Mélység: 3000–3500 m.", "Becsült készlet: 3 billió köbláb.", "Napi termelés (háború előtt): 500 millió köbláb.", "Üzemeltető: Syrian Gas Company."],
+      ro: ["Descoperit: 2003.", "Început producție: 2007.", "Adâncime: 3.000–3.500 m.", "Rezerve estimate: 3 trilioane de picioare cubice.", "Producție zilnică pre-război: 500 milioane de picioare cubice.", "Operator: Syrian Gas Company."],
+      en: ["Discovered in 2003.", "Production start: 2007.", "Depth: 3,000–3,500 meters.", "Estimated reserves: 3 trillion cubic feet.", "Pre-war daily output: 500 million cubic feet.", "Operator: Syrian Gas Company."],
+    },
+  },
   {
     id: "suwaydiya-oil-field-economic-v2",
     type: "energy",
     parent: "SY-HI",
     coords: [42.06, 36.95],
-    name: { de: "Suwaydiya-Ölfeld", hu: "Szuvajdija Olajmező", ro: "Câmpul Petrolier Suwaydiya", en: "Suwaydiya Oil Field",
-image: "/poi-images/suwaydiya-oil-field-economic-v2.webp"
-},
+    name: { de: "Suwaydiya-Ölfeld", hu: "Szuvajdija Olajmező", ro: "Câmpul Petrolier Suwaydiya", en: "Suwaydiya Oil Field"},
+    image: "/poi-images/suwaydiya-oil-field-economic-v2.webp",
     description: { de: "Ein riesiges Ölfeld im äußersten Nordosten Syriens, das zu den ältesten in Betrieb befindlichen Feldern des Landes gehört.", hu: "Hatalmas olajmező Szíria legészakkeletibb részén, amely az ország legrégebben működő mezői közé tartozik.", ro: "Un câmp petrolier uriaș în extremitatea nord-estică a Siriei, unul dintre cele mai vechi câmpuri în funcțiune din țară.", en: "A massive oil field in the extreme northeast of Syria, one of the oldest operating fields in the country." },
     facts: {
       de: ["Wurde in den späten 1950er Jahren entdeckt.", "Produziert schweres Rohöl.", "Die Förderanlagen sind eng mit Rumeilan verbunden.", "Spielt eine Schlüsselrolle für die lokale Autonomieverwaltung."],
       hu: ["Az 1950-es évek végén fedezték fel.", "Nehéz kőolajat termel.", "A kitermelő létesítmények szorosan kapcsolódnak Rumeilánhoz.", "Kulcsszerepet játszik a helyi autonóm adminisztráció számára."],
       ro: ["Descoperit la sfârșitul anilor 1950.", "Produce țiței greu.", "Facilitățile de extracție sunt strâns legate de Rumeilan.", "Joacă un rol cheie pentru administrația locală autonomă."],
       en: ["Discovered in the late 1950s.", "Produces heavy crude oil.", "Extraction facilities are closely linked to Rumeilan.", "Plays a key role for the local autonomous administration."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Suwaydiya-Ölfeld liegt im Nordosten Syriens, in der Provinz Hasaka, nahe der türkischen Grenze. Es wurde 1959 entdeckt, aber erst 1970 in Produktion genommen. Das Feld fördert aus der unterkreidezeitlichen Kurachina-Formation in einer Tiefe von 2.000 bis 2.500 Metern. Die geschätzten Reserven liegen bei etwa 300 Millionen Barrel. Die tägliche Förderung vor dem Krieg betrug rund 20.000 Barrel pro Tag. Das Öl ist mittelschwer mit einer API-Dichte von 34°. Das Feld wird von der syrischen staatlichen Shell-Gesellschaft betrieben. Aufgrund der Nähe zur türkischen Grenze war das Gebiet während des Bürgerkriegs stark umkämpft. Die Produktion fiel zeitweise auf unter 5.000 Barrel täglich. Seit 2020 wird eine langsame Erholung verzeichnet.",
+      hu: "A Suwaydiya olajmező Északkelet-Szíriában, Hasaka kormányzóságban, a török határ közelében található. 1959-ben fedezték fel, a termelés 1970-ben kezdődött. Az olaj az alsó kréta Kurachina formációból származik, 2000–2500 méter mélységből. Becsült készlete 300 millió hordó. A háború előtti napi termelés 20 000 hordó volt. Az olaj közepes sűrűségű, API 34°. A terület a konfliktus során többször gazdát cserélt, ami a termelés drasztikus csökkenéséhez vezetett. 2022-ben a napi termelés kb. 10 000 hordó volt.",
+      ro: "Câmpul petrolifer Suwaydiya este situat în nord-estul Siriei, în provincia Hasaka, lângă granița turcă. Descoperit în 1959, a început producția în 1970. Petrolul provine din formațiunea Kurachina (Cretacicul inferior) la adâncimi de 2.000–2.500 m. Rezervele sunt estimate la 300 de milioane de barili. Producția zilnică pre-război era de 20.000 de barili. Petrolul are o densitate API de 34°. Câmpul este operat de compania mixtă siriano-elvețiană. Zona a fost afectată de conflict, producția scăzând la 5.000 barili/zi în 2016. În 2023, producția a ajuns la 12.000 barili/zi.",
+      en: "Suwaydiya oil field is located in northeastern Syria, Hasaka province, near the Turkish border. Discovered in 1959, it began production in 1970. Oil is produced from the Lower Cretaceous Kurachina formation at depths of 2,000–2,500 meters. Estimated reserves are 300 million barrels. Pre-war daily production was 20,000 barrels. The oil has an API gravity of 34°, making it medium crude. The field is operated by a Syrian-Swiss joint venture. During the civil war, the area saw heavy fighting; production dropped to 5,000 bpd. By 2023, output had recovered to around 12,000 bpd.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1959.", "Produktionsbeginn: 1970.", "Fördertiefe: 2.000–2.500 m.", "Geschätzte Reserven: 300 Millionen Barrel.", "Tägliche Förderung vor dem Krieg: 20.000 Barrel.", "API-Dichte: 34°."],
+      hu: ["Felfedezés: 1959.", "Kitermelés kezdete: 1970.", "Mélység: 2000–2500 m.", "Becsült készlet: 300 millió hordó.", "Napi termelés (háború előtt): 20 000 hordó.", "API sűrűség: 34°."],
+      ro: ["Descoperit: 1959.", "Început producție: 1970.", "Adâncime: 2.000–2.500 m.", "Rezerve estimate: 300 milioane barili.", "Producție zilnică pre-război: 20.000 barili.", "Densitate API: 34°."],
+      en: ["Discovered in 1959.", "Production start: 1970.", "Depth: 2,000–2,500 meters.", "Estimated reserves: 300 million barrels.", "Pre-war daily output: 20,000 barrels.", "API gravity: 34°."],
+    },
   },
   {
     id: "rumeilan-oil-field-economic-v2",
     type: "energy",
     parent: "SY-HI",
     coords: [41.97, 36.99],
-    name: { de: "Rumeilan-Ölfeld", hu: "Rumeilán Olajmező", ro: "Câmpul Petrolier Rumeilan", en: "Rumeilan Oil Field",
-image: "/poi-images/rumeilan-oil-field-economic-v2.webp"
-},
+    name: { de: "Rumeilan-Ölfeld", hu: "Rumeilán Olajmező", ro: "Câmpul Petrolier Rumeilan", en: "Rumeilan Oil Field"},
+    image: "/poi-images/rumeilan-oil-field-economic-v2.webp",
     description: { de: "Ein ausgedehnter Ölfeldkomplex in der Region Al-Hasakah, der aus Hunderten von aktiven Bohrlöchern besteht.", hu: "Kiterjedt olajmező-komplexum Al-Haszaka régióban, amely több száz aktív fúrólyukból áll.", ro: "Un complex extins de câmpuri petroliere în regiunea Al-Hasakah, format din sute de sonde active.", en: "An extensive oil field complex in the Al-Hasakah region, consisting of hundreds of active oil wells." },
     facts: {
       de: ["Umfasst über 1.300 Ölquellen.", "Ist das wichtigste Ölzentrum in der Jazira-Region.", "Die Verwaltung erfolgt größtenteils lokal.", "Fördert Öl seit über 60 Jahren."],
       hu: ["Több mint 1300 olajkutat foglal magában.", "A legfontosabb olajipari központ a Dzsazíra régióban.", "Adminisztrációja nagyrészt helyi szinten történik.", "Több mint 60 éve termel olajat."],
       ro: ["Include peste 1.300 de sonde de petrol.", "Cel mai important centru petrolier din regiunea Jazira.", "Administrarea este în mare parte locală.", "Extrage petrol de peste 60 de ani."],
       en: ["Includes over 1,300 oil wells.", "Most important oil center in the Jazira region.", "Administration is largely local.", "Has been pumping oil for over 60 years."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Rumeilan-Ölfeld liegt ebenfalls in der Provinz Hasaka, nahe der irakischen Grenze. Es wurde 1956 entdeckt und 1960 in Produktion genommen. Das Feld fördert aus der oberkreidezeitlichen Kurachina-Formation in einer Tiefe von 2.600 bis 3.000 Metern. Mit geschätzten Reserven von 500 Millionen Barrel ist es eines der größten Ölfelder Syriens. Die tägliche Förderung vor dem Krieg betrug 30.000 Barrel pro Tag. Das Öl ist leicht mit einer API-Dichte von 36°. Das Feld wird von der Al-Furat Petroleum Company betrieben. Während des Bürgerkriegs fiel das Gebiet unter die Kontrolle der AANES (Autonomous Administration of North and East Syria), was zu Produktionsschwankungen führte. Die Förderung wird von lokalen Akteuren aufrechterhalten, liegt aber unter dem Vorkriegsniveau.",
+      hu: "A Rumeilan olajmező szintén Hasaka kormányzóságban, az iraki határ közelében található. 1956-ban fedezték fel, a termelés 1960-ban kezdődött. Az olaj a felső kréta Kurachina formációból származik, 2600–3000 méter mélységből. Becsült készlete 500 millió hordó, ezzel Szíria egyik legnagyobb olajmezője. A háború előtti napi termelés 30 000 hordó volt. Az olaj könnyű, API 36°. Az Al-Furat Petroleum Company üzemelteti. A konfliktus során az AANES irányítása alá került. 2022-ben a napi termelés kb. 15 000 hordó volt.",
+      ro: "Câmpul petrolifer Rumeilan este situat în provincia Hasaka, lângă granița irakiană. Descoperit în 1956, producția a început în 1960. Țițeiul provine din formațiunea Kurachina (Cretacicul superior) la adâncimi de 2.600–3.000 m. Rezervele sunt estimate la 500 de milioane de barili, făcându-l unul dintre cele mai mari câmpuri din Siria. Producția zilnică pre-război era de 30.000 de barili. Petrolul este ușor, cu API 36°. Câmpul este operat de Al-Furat Petroleum Company. Zona este controlată de Administrația Autonomă a Nordului și Estului Siriei (AANES). Producția a scăzut la 15.000 barili/zi în 2022.",
+      en: "Rumeilan oil field is located in Hasaka province near the Iraqi border. Discovered in 1956, production began in 1960. The field produces from the Upper Cretaceous Kurachina formation at depths of 2,600–3,000 meters. With estimated reserves of 500 million barrels, it is one of Syria's largest oil fields. Pre-war daily output was 30,000 barrels. The oil is light, with an API gravity of 36°. It is operated by Al-Furat Petroleum Company. During the civil war, the area came under the control of the AANES. As of 2023, production is around 15,000 bpd, limited by infrastructure damage and lack of investment.",
+    },
+    factsAdvanced: {
+      de: ["Entdeckung: 1956.", "Produktionsbeginn: 1960.", "Fördertiefe: 2.600–3.000 m.", "Geschätzte Reserven: 500 Millionen Barrel.", "Tägliche Förderung vor dem Krieg: 30.000 Barrel.", "API-Dichte: 36°."],
+      hu: ["Felfedezés: 1956.", "Kitermelés kezdete: 1960.", "Mélység: 2600–3000 m.", "Becsült készlet: 500 millió hordó.", "Napi termelés (háború előtt): 30 000 hordó.", "API sűrűség: 36°."],
+      ro: ["Descoperit: 1956.", "Început producție: 1960.", "Adâncime: 2.600–3.000 m.", "Rezerve estimate: 500 milioane barili.", "Producție zilnică pre-război: 30.000 barili.", "Densitate API: 36°."],
+      en: ["Discovered in 1956.", "Production start: 1960.", "Depth: 2,600–3,000 meters.", "Estimated reserves: 500 million barrels.", "Pre-war daily output: 30,000 barrels.", "API gravity: 36°."],
+    },
   },
   {
     id: "zara-power-plant-economic-v2",
     type: "energy",
     parent: "SY-HA",
     coords: [36.80, 34.90],
-    name: { de: "Kraftwerk Zara", hu: "Zara Erőmű", ro: "Centrala Electrică Zara", en: "Zara Power Plant",
-image: "/poi-images/zara-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Zara", hu: "Zara Erőmű", ro: "Centrala Electrică Zara", en: "Zara Power Plant"},
+    image: "/poi-images/zara-power-plant-economic-v2.webp",
     description: { de: "Ein bedeutendes thermisches Kraftwerk in der Provinz Hama, das mit Erdgas betrieben wird und einen wichtigen Teil zur nationalen Stromversorgung beiträgt.", hu: "Jelentős hőerőmű Hama tartományban, amely földgázzal működik, és fontos szerepet játszik az országos áramellátásban.", ro: "O centrală termică majoră în provincia Hama, alimentată cu gaze naturale, care contribuie important la aprovizionarea națională cu energie electrică.", en: "A major thermal power plant in the Hama province, powered by natural gas, contributing significantly to the national electricity supply." },
     facts: {
       de: ["Erbaut mit internationaler Unterstützung.", "Liegt strategisch günstig in Mittelsyrien.", "Wurde trotz der Krise weiter betrieben.", "Trägt zur Stabilisierung des syrischen Stromnetzes bei."],
       hu: ["Nemzetközi támogatással épült.", "Stratégiailag kedvező helyen, Közép-Szíriában található.", "A válság ellenére is tovább üzemelt.", "Hozzájárul a szíriai villamosenergia-hálózat stabilizálásához."],
       ro: ["Construită cu sprijin internațional.", "Situată strategic în centrul Siriei.", "A continuat să funcționeze în ciuda crizei.", "Contribuie la stabilizarea rețelei electrice siriene."],
       en: ["Built with international support.", "Strategically located in central Syria.", "Continued to operate despite the crisis.", "Contributes to the stabilization of the Syrian power grid."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Zara-Kraftwerk liegt in der Provinz Homs, etwa 100 km östlich von Homs. Es handelt sich um ein Gaskraftwerk mit einer installierten Leistung von 600 MW, das 2007 in Betrieb genommen wurde. Das Kraftwerk besteht aus drei 200-MW-Blöcken und nutzt Erdgas aus den nahegelegenen Feldern. Es ist eines der wichtigsten Kraftwerke Syriens und versorgt einen Großteil des zentralen und östlichen Landes mit Strom. Vor dem Krieg deckte es etwa 10 % des nationalen Strombedarfs. Aufgrund von Treibstoffmangel und Beschädigungen während des Bürgerkriegs arbeitet das Kraftwerk derzeit nur mit etwa 30 % seiner Kapazität. Reparaturen wurden mit iranischer Hilfe durchgeführt. Das Kraftwerk ist an das nationale Hochspannungsnetz angeschlossen.",
+      hu: "A Zara erőmű Homsz kormányzóságban található, Homstól kb. 100 km-re keletre. Ez egy 600 MW teljesítményű gázerőmű, amely 2007-ben kezdte meg a működését. Három 200 MW-os blokkból áll, és a közeli gázmezők földgázát hasznosítja. Szíria egyik legfontosabb erőműve, a középső és keleti országrészt látja el árammal. A háború előtt a nemzeti áramtermelés kb. 10%-át adta. Az üzemanyaghiány és a háborús károk miatt jelenleg csak 30%-os kapacitással működik. Iráni segítséggel végeztek javításokat.",
+      ro: "Centrala electrică Zara este situată în provincia Homs, la aproximativ 100 km est de Homs. Este o centrală pe gaz natural cu o capacitate instalată de 600 MW, pusă în funcțiune în 2007. Are trei unități de 200 MW și utilizează gaz din câmpurile apropiate. Este una dintre cele mai importante centrale electrice din Siria, alimentând zonele centrale și estice. Înainte de război, asigura 10% din necesarul național de electricitate. Din cauza lipsei de combustibil și a daunelor, funcționează la 30% din capacitate. Reparațiile au fost sprijinite de Iran.",
+      en: "Zara power plant is located in Homs province, about 100 km east of Homs. It is a natural gas-fired power station with an installed capacity of 600 MW, commissioned in 2007. The plant comprises three 200 MW units and uses gas from nearby fields. It is a key power station for central and eastern Syria, supplying about 10% of national electricity before the war. Due to fuel shortages and war damage, the plant now operates at around 30% capacity. Repairs have been carried out with Iranian assistance. The plant is connected to the national grid via 400 kV lines.",
+    },
+    factsAdvanced: {
+      de: ["Inbetriebnahme: 2007.", "Installierte Leistung: 600 MW.", "Anzahl der Blöcke: 3 × 200 MW.", "Brennstoff: Erdgas.", "Anteil an der nationalen Stromerzeugung vor dem Krieg: ca. 10 %.", "Aktuelle Kapazitätsauslastung: ca. 30 %."],
+      hu: ["Üzembe helyezés: 2007.", "Beépített teljesítmény: 600 MW.", "Blokkok száma: 3 × 200 MW.", "Tüzelőanyag: földgáz.", "A nemzeti áramtermelésből való részesedés: 10%.", "Jelenlegi kihasználtság: 30%."],
+      ro: ["Punere în funcțiune: 2007.", "Capacitate instalată: 600 MW.", "Număr unități: 3 × 200 MW.", "Combustibil: gaz natural.", "Contribuție la producția națională de electricitate: 10%.", "Capacitate actuală de operare: 30%."],
+      en: ["Commissioned in 2007.", "Installed capacity: 600 MW.", "Number of units: 3 × 200 MW.", "Fuel type: natural gas.", "Share of national electricity generation: 10% pre-war.", "Current operating capacity: 30%."],
+    },
   }
 ];

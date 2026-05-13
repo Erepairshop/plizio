@@ -7,9 +7,8 @@ export const poiExtraGuatemalaNatureV2: POI[] = [
     type: "river",
     parent: "GT-PE",
     coords: [-90.963, 17.801],
-    name: { de: "Río Usumacinta", hu: "Usumacinta-folyó", ro: "Râul Usumacinta", en: "Usumacinta River",
-image: "/poi-images/rio-usumacinta-guatemala-nature-v2.webp"
-},
+    name: { de: "Río Usumacinta", hu: "Usumacinta-folyó", ro: "Râul Usumacinta", en: "Usumacinta River"},
+    image: "/poi-images/rio-usumacinta-guatemala-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der die Grenze zwischen Guatemala und Mexiko bildet und für seine Maya-Stätten an den Ufern bekannt ist.", hu: "Jelentős folyó, amely Guatemala és Mexikó határát képezi, és a partjainál lévő maja lelőhelyekről ismert.", ro: "Un râu important care formează granița dintre Guatemala și Mexic, cunoscut pentru siturile mayașe de pe malurile sale.", en: "A major river forming the border between Guatemala and Mexico, known for Maya sites along its banks." },
     facts: {
       de: ["Bildet Grenze zu Mexiko", "Passiert Yaxchilán", "Wasserreichster Fluss Mittelamerikas", "Wichtig für Biodiversität"],
@@ -32,9 +31,8 @@ image: "/poi-images/rio-usumacinta-guatemala-nature-v2.webp"
     type: "lake",
     parent: "GT-PE",
     coords: [-89.833, 16.983],
-    name: { de: "Petén-Itzá-See", hu: "Petén Itzá-tó", ro: "Lacul Petén Itzá", en: "Lake Petén Itzá",
-image: "/poi-images/lago-peten-itza-nature-v2.webp"
-},
+    name: { de: "Petén-Itzá-See", hu: "Petén Itzá-tó", ro: "Lacul Petén Itzá", en: "Lake Petén Itzá"},
+    image: "/poi-images/lago-peten-itza-nature-v2.webp",
     description: { de: "Ein großer, tiefer See im Herzen des Petén-Beckens, auf einer Insel liegt die Stadt Flores.", hu: "Nagy, mély tó a Petén-medence szívében, egy szigetén található Flores városa.", ro: "Un lac mare și adânc în inima bazinului Petén, cu orașul Flores situat pe o insulă.", en: "A large, deep lake in the heart of the Petén Basin, with the city of Flores on an island." },
     facts: {
       de: ["Zweitgrößter See Guatemalas", "Inselstadt Flores", "Tiefe bis zu 160m", "Krokodile und reiche Vogelwelt"],
@@ -57,9 +55,8 @@ image: "/poi-images/lago-peten-itza-nature-v2.webp"
     type: "river",
     parent: "GT-IZ",
     coords: [-88.833, 15.75],
-    name: { de: "Río Dulce", hu: "Río Dulce", ro: "Río Dulce", en: "Río Dulce",
-image: "/poi-images/rio-dulce-guatemala-nature-v2.webp"
-},
+    name: { de: "Río Dulce", hu: "Río Dulce", ro: "Río Dulce", en: "Río Dulce"},
+    image: "/poi-images/rio-dulce-guatemala-nature-v2.webp",
     description: { de: "Ein Fluss, der den Izabal-See mit der Karibik verbindet, bekannt für seine beeindruckende Schlucht.", hu: "Az Izabal-tavat a Karib-tengerrel összekötő folyó, amely lenyűgöző szurdokáról ismert.", ro: "Un râu care leagă Lacul Izabal de Marea Caraibilor, cunoscut pentru canionul său impresionant.", en: "A river connecting Lake Izabal to the Caribbean, known for its impressive gorge." },
     facts: {
       de: ["Verbindet Izabalsee und Karibik", "Tiefe Schlucht (Cañón del Río Dulce)", "Manati-Schutzgebiet", "Beliebt bei Seglern"],
@@ -82,9 +79,8 @@ image: "/poi-images/rio-dulce-guatemala-nature-v2.webp"
     type: "mountain",
     parent: "GT-SA",
     coords: [-90.743, 14.465],
-    name: { de: "Volcán de Agua", hu: "Agua-vulkán", ro: "Vulcanul de Apă", en: "Volcán de Agua",
-image: "/poi-images/volcan-de-agua-nature-v2.webp"
-},
+    name: { de: "Volcán de Agua", hu: "Agua-vulkán", ro: "Vulcanul de Apă", en: "Volcán de Agua"},
+    image: "/poi-images/volcan-de-agua-nature-v2.webp",
     description: { de: "Ein markanter, symmetrischer Vulkan, der die Landschaft bei Antigua Guatemala dominiert.", hu: "Jellegzetes, szimmetrikus vulkán, amely Antigua Guatemala tájképét uralja.", ro: "Un vulcan proeminent și simetric care domină peisajul de lângă Antigua Guatemala.", en: "A prominent, symmetrical volcano that dominates the landscape near Antigua Guatemala." },
     facts: {
       de: ["Höhe: 3760 m", "Perfekt konische Form", "Dominante Erscheinung bei Antigua", "Letzter Ausbruch unbekannt"],
@@ -107,9 +103,8 @@ image: "/poi-images/volcan-de-agua-nature-v2.webp"
     type: "river",
     parent: "GT-AV",
     coords: [-89.816, 15.583],
-    name: { de: "Río Cahabón", hu: "Cahabón-folyó", ro: "Râul Cahabón", en: "Cahabón River",
-image: "/poi-images/rio-cahabon-nature-v2.webp"
-},
+    name: { de: "Río Cahabón", hu: "Cahabón-folyó", ro: "Râul Cahabón", en: "Cahabón River"},
+    image: "/poi-images/rio-cahabon-nature-v2.webp",
     description: { de: "Ein Fluss in Alta Verapaz, berühmt für die Kaskaden von Semuc Champey und für Rafting.", hu: "Folyó Alta Verapazban, híres a Semuc Champey vízeséseiről és a vadvízi evezésről.", ro: "Un râu în Alta Verapaz, renumit pentru cascadele de la Semuc Champey și pentru rafting.", en: "A river in Alta Verapaz, famous for the cascades of Semuc Champey and for rafting." },
     facts: {
       de: ["Fließt unter Semuc Champey", "Beliebt für Wildwasser-Rafting", "Türkisfarbenes Wasser", "Entspringt in der Sierra de las Minas"],
@@ -132,9 +127,8 @@ image: "/poi-images/rio-cahabon-nature-v2.webp"
     type: "lake",
     parent: "GT-AV",
     coords: [-90.672, 15.91],
-    name: { de: "Laguna Lachuá", hu: "Lachuá-lagúna", ro: "Laguna Lachuá", en: "Laguna Lachuá",
-image: "/poi-images/laguna-lachua-nature-v2.webp"
-},
+    name: { de: "Laguna Lachuá", hu: "Lachuá-lagúna", ro: "Laguna Lachuá", en: "Laguna Lachuá"},
+    image: "/poi-images/laguna-lachua-nature-v2.webp",
     description: { de: "Ein fast perfekt kreisrunder, klarer See inmitten eines Nationalparks und Dschungels.", hu: "Majdnem tökéletesen kör alakú, tiszta vizű tó egy nemzeti park és dzsungel közepén.", ro: "Un lac carstic aproape perfect circular și limpede, în mijlocul unui parc național și al junglei.", en: "A nearly perfect circular, clear karst lake in the middle of a national park and jungle." },
     facts: {
       de: ["Nationalpark", "Kreisrunde Form", "Sehr klares Wasser", "Hohe Biodiversität"],
@@ -157,9 +151,8 @@ image: "/poi-images/laguna-lachua-nature-v2.webp"
     type: "mountain",
     parent: "GT-PE",
     coords: [-89.25, 16.5],
-    name: { de: "Maya-Gebirge", hu: "Maja-hegység", ro: "Munții Maya", en: "Maya Mountains",
-image: "/poi-images/montanas-mayas-nature-v2.webp"
-},
+    name: { de: "Maya-Gebirge", hu: "Maja-hegység", ro: "Munții Maya", en: "Maya Mountains"},
+    image: "/poi-images/montanas-mayas-nature-v2.webp",
     description: { de: "Ein Gebirgszug, der sich von Belize bis in den Osten Guatemalas erstreckt und reich an unberührter Natur ist.", hu: "Hegylánc, amely Belize-től Kelet-Guatemaláig terjed, és érintetlen természeti értékekben gazdag.", ro: "Un lanț muntos care se întinde din Belize până în estul Guatemalei, bogat în natură neatinsă.", en: "A mountain range extending from Belize into eastern Guatemala, rich in pristine nature." },
     facts: {
       de: ["Grenzüberschreitendes Gebirge", "Geringe Bevölkerungsdichte", "Wichtige Wasserscheide", "Enthält viele Höhlen"],
@@ -182,9 +175,8 @@ image: "/poi-images/montanas-mayas-nature-v2.webp"
     type: "forest",
     parent: "GT-BV",
     coords: [-90.208, 15.215],
-    name: { de: "Biotopo del Quetzal", hu: "Kvézál Biotóp", ro: "Biotopul Quetzalului", en: "Quetzal Biotope",
-image: "/poi-images/biotopo-del-quetzal-nature-v2.webp"
-},
+    name: { de: "Biotopo del Quetzal", hu: "Kvézál Biotóp", ro: "Biotopul Quetzalului", en: "Quetzal Biotope"},
+    image: "/poi-images/biotopo-del-quetzal-nature-v2.webp",
     description: { de: "Ein geschütztes Nebelwaldreservat, das dem Schutz des Nationalvogels, des Quetzals, gewidmet ist.", hu: "Védett köderdő-rezervátum, amelyet a nemzeti madár, a kvézál védelmére hoztak létre.", ro: "O rezervație protejată de pădure noroasă dedicată protecției păsării naționale, quetzalul.", en: "A protected cloud forest reserve dedicated to the conservation of the national bird, the Quetzal." },
     facts: {
       de: ["Schutzgebiet für den Quetzal", "Nebelwald-Ökosystem", "Wasserfälle und Wanderwege", "Reich an Epiphyten"],
@@ -207,9 +199,8 @@ image: "/poi-images/biotopo-del-quetzal-nature-v2.webp"
     type: "river",
     parent: "GT-PE",
     coords: [-90.25, 16.5],
-    name: { de: "Río de la Pasión", hu: "La Pasión-folyó", ro: "Râul Pasión", en: "Pasión River",
-image: "/poi-images/rio-la-pasion-nature-v2.webp"
-},
+    name: { de: "Río de la Pasión", hu: "La Pasión-folyó", ro: "Râul Pasión", en: "Pasión River"},
+    image: "/poi-images/rio-la-pasion-nature-v2.webp",
     description: { de: "Ein wichtiger Fluss im Petén, der als Verkehrsweg zu vielen Maya-Stätten wie Ceibal und Aguateca dient.", hu: "Fontos folyó Peténben, amely közlekedési útvonalként szolgál számos maja lelőhelyhez, mint Ceibal és Aguateca.", ro: "Un râu important în Petén, care servește drept cale de transport către multe situri mayașe, cum ar fi Ceibal și Aguateca.", en: "An important river in Petén, serving as a transport route to many Maya sites like Ceibal and Aguateca." },
     facts: {
       de: ["Wichtiger Wasserweg im Petén", "Verbindet archäologische Stätten", "Mündet in den Usumacinta", "Lebensraum für Krokodile"],
@@ -232,9 +223,8 @@ image: "/poi-images/rio-la-pasion-nature-v2.webp"
     type: "forest",
     parent: "GT-ES",
     coords: [-91.083, 13.917],
-    name: { de: "Nationalpark Sipacate-Naranjo", hu: "Sipacate-Naranjo Nemzeti Park", ro: "Parcul Național Sipacate-Naranjo", en: "Sipacate-Naranjo National Park",
-image: "/poi-images/sipacate-naranjo-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Sipacate-Naranjo", hu: "Sipacate-Naranjo Nemzeti Park", ro: "Parcul Național Sipacate-Naranjo", en: "Sipacate-Naranjo National Park"},
+    image: "/poi-images/sipacate-naranjo-national-park-nature-v2.webp",
     description: { de: "Ein Küstenschutzgebiet mit Mangrovenwäldern, wichtig für die Meeresschildkröten-Nistplätze.", hu: "Part menti védett terület mangrovéerdőkkel, fontos a tengeri teknősök fészkelőhelyei számára.", ro: "O arie protejată de coastă cu păduri de mangrove, importantă pentru locurile de cuibărit ale țestoaselor marine.", en: "A coastal protected area with mangrove forests, important for sea turtle nesting sites." },
     facts: {
       de: ["Mangrovenwälder", "Nistplätze für Meeresschildkröten", "Küstenschutz", "Reiche Vogelwelt"],
@@ -257,9 +247,8 @@ image: "/poi-images/sipacate-naranjo-national-park-nature-v2.webp"
     type: "lake",
     parent: "GT-HU",
     coords: [-91.6, 16.15],
-    name: { de: "Laguna Brava (Yolnabaj)", hu: "Laguna Brava (Yolnabaj)", ro: "Laguna Brava (Yolnabaj)", en: "Laguna Brava (Yolnabaj)",
-image: "/poi-images/laguna-brava-yolnabaj-nature-v2.webp"
-},
+    name: { de: "Laguna Brava (Yolnabaj)", hu: "Laguna Brava (Yolnabaj)", ro: "Laguna Brava (Yolnabaj)", en: "Laguna Brava (Yolnabaj)"},
+    image: "/poi-images/laguna-brava-yolnabaj-nature-v2.webp",
     description: { de: "Ein abgelegener, malerischer See nahe der mexikanischen Grenze, bekannt für sein türkisfarbenes Wasser.", hu: "Elzárt, festői tó a mexikói határ közelében, türkizkék vizéről ismert.", ro: "Un lac pitoresc și izolat lângă granița cu Mexic, cunoscut pentru apa sa turcoaz.", en: "A remote, picturesque lake near the Mexican border, known for its turquoise waters." },
     facts: {
       de: ["Türkisfarbenes Wasser", "Nahe der mexikanischen Grenze", "Karstsee mit Cenoten", "Schwer zugänglich"],
@@ -282,9 +271,8 @@ image: "/poi-images/laguna-brava-yolnabaj-nature-v2.webp"
     type: "mountain",
     parent: "GT-JU",
     coords: [-89.728, 14.12],
-    name: { de: "Volcán Chingo", hu: "Chingo-vulkán", ro: "Vulcanul Chingo", en: "Chingo Volcano",
-image: "/poi-images/volcan-chingo-nature-v2.webp"
-},
+    name: { de: "Volcán Chingo", hu: "Chingo-vulkán", ro: "Vulcanul Chingo", en: "Chingo Volcano"},
+    image: "/poi-images/volcan-chingo-nature-v2.webp",
     description: { de: "Ein Vulkan, dessen Gipfel genau auf der Grenze zwischen Guatemala und El Salvador liegt.", hu: "Vulkán, amelynek csúcsa pontosan Guatemala és El Salvador határán fekszik.", ro: "Un vulcan al cărui vârf se află exact la granița dintre Guatemala și El Salvador.", en: "A volcano whose summit lies exactly on the border between Guatemala and El Salvador." },
     facts: {
       de: ["Gipfel auf der Staatsgrenze", "Teil der zentralamerikanischen Vulkankette", "Relativ einfacher Aufstieg", "Schlafender Vulkan"],
@@ -307,9 +295,8 @@ image: "/poi-images/volcan-chingo-nature-v2.webp"
     type: "sea",
     parent: "GT-IZ",
     coords: [-88.65, 15.8],
-    name: { de: "Karibikküste", hu: "Karib-tengerpart", ro: "Coasta Caraibelor", en: "Caribbean Coast",
-image: "/poi-images/caribbean-sea-coast-nature-v2.webp"
-},
+    name: { de: "Karibikküste", hu: "Karib-tengerpart", ro: "Coasta Caraibelor", en: "Caribbean Coast"},
+    image: "/poi-images/caribbean-sea-coast-nature-v2.webp",
     description: { de: "Guatemalas kurzer, aber vielfältiger Küstenabschnitt am Karibischen Meer.", hu: "Guatemala rövid, de változatos tengerparti szakasza a Karib-tengernél.", ro: "Secțiunea de coastă scurtă, dar diversă, a Guatemalei la Marea Caraibilor.", en: "Guatemala's short but diverse coastal section on the Caribbean Sea." },
     facts: {
       de: ["Einziger Zugang zum Atlantik", "Heimat der Garifuna-Kultur", "Hafenstädte Puerto Barrios und Livingston", "Tropisches Klima"],
@@ -332,9 +319,8 @@ image: "/poi-images/caribbean-sea-coast-nature-v2.webp"
     type: "sea",
     parent: "GT-ES",
     coords: [-91.5, 13.85],
-    name: { de: "Pazifikküste", hu: "Csendes-óceáni partvidék", ro: "Coasta Pacificului", en: "Pacific Coast",
-image: "/poi-images/pacific-coast-guatemala-nature-v2.webp"
-},
+    name: { de: "Pazifikküste", hu: "Csendes-óceáni partvidék", ro: "Coasta Pacificului", en: "Pacific Coast"},
+    image: "/poi-images/pacific-coast-guatemala-nature-v2.webp",
     description: { de: "Die lange Pazifikküste Guatemalas mit schwarzen Sandstränden und starken Wellen.", hu: "Guatemala hosszú csendes-óceáni partvidéke fekete homokos strandokkal és erős hullámokkal.", ro: "Coasta lungă a Pacificului din Guatemala, cu plaje de nisip negru și valuri puternice.", en: "The long Pacific coast of Guatemala, with black sand beaches and strong waves." },
     facts: {
       de: ["Schwarze Vulkansandstrände", "Wichtig für Fischerei und Salzgewinnung", "Starke Brandung", "Hafen von Puerto Quetzal"],
@@ -357,9 +343,8 @@ image: "/poi-images/pacific-coast-guatemala-nature-v2.webp"
     type: "forest",
     parent: "GT-PE",
     coords: [-90.057, 16.516],
-    name: { de: "Waldreservat Ceibal", hu: "Ceibal Erdőrezervátum", ro: "Rezervația forestieră Ceibal", en: "Ceibal Forest Reserve",
-image: "/poi-images/ceibal-forest-reserve-nature-v2.webp"
-},
+    name: { de: "Waldreservat Ceibal", hu: "Ceibal Erdőrezervátum", ro: "Rezervația forestieră Ceibal", en: "Ceibal Forest Reserve"},
+    image: "/poi-images/ceibal-forest-reserve-nature-v2.webp",
     description: { de: "Das Waldgebiet um die archäologische Stätte Ceibal, reich an Ceiba-Bäumen.", hu: "A Ceibal régészeti lelőhely körüli erdőterület, amely gazdag ceiba fákban.", ro: "Zona împădurită din jurul sitului arheologic Ceibal, bogată în copaci Ceiba.", en: "The forest area surrounding the Ceibal archaeological site, rich in ceiba trees." },
     facts: {
       de: ["Schützt die Maya-Stätte Ceibal", "Hohe Ceiba-Bäume (Nationalbaum)", "Tropischer Regenwald", "An den Ufern des Río de la Pasión"],
@@ -382,9 +367,8 @@ image: "/poi-images/ceibal-forest-reserve-nature-v2.webp"
     type: "lake",
     parent: "GT-SR",
     coords: [-90.13, 14.42],
-    name: { de: "Laguna de Ayarza", hu: "Ayarza-lagúna", ro: "Laguna de Ayarza", en: "Laguna de Ayarza",
-image: "/poi-images/laguna-de-ayarza-nature-v2.webp"
-},
+    name: { de: "Laguna de Ayarza", hu: "Ayarza-lagúna", ro: "Laguna de Ayarza", en: "Laguna de Ayarza"},
+    image: "/poi-images/laguna-de-ayarza-nature-v2.webp",
     description: { de: "Ein tiefblauer Kratersee, der in einer Zwillingscaldera vulkanischen Ursprungs liegt.", hu: "Mélykék krátertó, amely egy vulkanikus eredetű ikerkalderában fekszik.", ro: "Un lac de crater de un albastru intens, situat într-o calderă dublă de origine vulcanică.", en: "A deep blue crater lake located in a twin caldera of volcanic origin." },
     facts: {
       de: ["Vulkanische Caldera", "Sehr tief (bis zu 230m)", "Klares, blaues Wasser", "Wenig touristisch erschlossen"],
@@ -407,9 +391,8 @@ image: "/poi-images/laguna-de-ayarza-nature-v2.webp"
     type: "river",
     parent: "GT-IZ",
     coords: [-89.35, 15.46],
-    name: { de: "Polochic-Flussdelta", hu: "Polochic-folyó deltája", ro: "Delta râului Polochic", en: "Polochic River Delta",
-image: "/poi-images/rio-polochic-delta-nature-v2.webp"
-},
+    name: { de: "Polochic-Flussdelta", hu: "Polochic-folyó deltája", ro: "Delta râului Polochic", en: "Polochic River Delta"},
+    image: "/poi-images/rio-polochic-delta-nature-v2.webp",
     description: { de: "Ein wichtiges Feuchtgebiet und Delta, wo der Polochic-Fluss in den Izabal-See mündet.", hu: "Fontos vizes élőhely és delta, ahol a Polochic-folyó az Izabal-tóba torkollik.", ro: "O zonă umedă și o deltă importantă, unde râul Polochic se varsă în Lacul Izabal.", en: "An important wetland and delta where the Polochic River flows into Lake Izabal." },
     facts: {
       de: ["Mündet in den Izabalsee", "Wichtiges Feuchtgebiet", "Lebensraum für Wasservögel", "Alluviale Ebenen"],
@@ -432,9 +415,8 @@ image: "/poi-images/rio-polochic-delta-nature-v2.webp"
     type: "mountain",
     parent: "GT-JA",
     coords: [-89.95, 14.75],
-    name: { de: "Cerro Miramundo", hu: "Cerro Miramundo", ro: "Cerro Miramundo", en: "Cerro Miramundo",
-image: "/poi-images/cerro-miramundo-nature-v2.webp"
-},
+    name: { de: "Cerro Miramundo", hu: "Cerro Miramundo", ro: "Cerro Miramundo", en: "Cerro Miramundo"},
+    image: "/poi-images/cerro-miramundo-nature-v2.webp",
     description: { de: "Ein Berg im Departement Jalapa, Teil des zentralen Hochlandes von Guatemala.", hu: "Hegy Jalapa megyében, Guatemala központi felföldjének része.", ro: "Un munte în departamentul Jalapa, parte a zonelor înalte centrale ale Guatemalei.", en: "A mountain in the Jalapa department, part of the central highlands of Guatemala." },
     facts: {
       de: ["Teil des Hochlandes", "Gemischter Kiefern-Eichen-Wald", "Wichtige Wasserquelle", "Landwirtschaft an den Hängen"],
@@ -457,9 +439,8 @@ image: "/poi-images/cerro-miramundo-nature-v2.webp"
     type: "island",
     parent: "GT-PE",
     coords: [-89.891, 16.929],
-    name: { de: "Insel Flores", hu: "Flores-sziget", ro: "Insula Flores", en: "Flores Island",
-image: "/poi-images/isla-de-flores-nature-v2.webp"
-},
+    name: { de: "Insel Flores", hu: "Flores-sziget", ro: "Insula Flores", en: "Flores Island"},
+    image: "/poi-images/isla-de-flores-nature-v2.webp",
     description: { de: "Eine Insel im Petén-Itzá-See, auf der sich die historische Stadt Flores befindet.", hu: "Sziget a Petén Itzá-tóban, amelyen a történelmi Flores város található.", ro: "O insulă în Lacul Petén Itzá care găzduiește orașul istoric Flores.", en: "An island in Lake Petén Itzá which is home to the historic town of Flores." },
     facts: {
       de: ["Insel im Petén-Itzá-See", "Historisches Zentrum", "Mit einem Damm verbunden", "Touristenattraktion"],
@@ -482,9 +463,8 @@ image: "/poi-images/isla-de-flores-nature-v2.webp"
     type: "river",
     parent: "GT-QC",
     coords: [-90.8, 15.85],
-    name: { de: "Río Chixoy oder Negro", hu: "Chixoy vagy Negro-folyó", ro: "Râul Chixoy sau Negro", en: "Chixoy or Negro River",
-image: "/poi-images/rio-chixoy-negro-nature-v2.webp"
-},
+    name: { de: "Río Chixoy oder Negro", hu: "Chixoy vagy Negro-folyó", ro: "Râul Chixoy sau Negro", en: "Chixoy or Negro River"},
+    image: "/poi-images/rio-chixoy-negro-nature-v2.webp",
     description: { de: "Ein großer Fluss, der durch das Hochland fließt und für den Chixoy-Staudamm bekannt ist.", hu: "Nagy folyó, amely áthalad a felföldön, és a Chixoy-gátról ismert.", ro: "Un râu mare care curge prin zonele înalte, cunoscut pentru barajul Chixoy.", en: "A large river flowing through the highlands, known for the Chixoy hydroelectric dam." },
     facts: {
       de: ["Wichtiger Nebenfluss des Usumacinta", "Chixoy-Wasserkraftwerk", "Tiefe Schluchten", "Herausforderndes Wildwasser"],
@@ -507,9 +487,8 @@ image: "/poi-images/rio-chixoy-negro-nature-v2.webp"
     type: "mountain",
     parent: "GT-QZ",
     coords: [-91.552, 14.756],
-    name: { de: "Volcán Santa María", hu: "Santa María-vulkán", ro: "Vulcanul Santa María", en: "Santa María Volcano",
-image: "/poi-images/volcan-santa-maria-nature-v2.webp"
-},
+    name: { de: "Volcán Santa María", hu: "Santa María-vulkán", ro: "Vulcanul Santa María", en: "Santa María Volcano"},
+    image: "/poi-images/volcan-santa-maria-nature-v2.webp",
     description: { de: "Ein großer aktiver Vulkan bei Quetzaltenango, dessen Ausbruch 1902 einer der größten des 20. Jahrhunderts war.", hu: "Nagy aktív vulkán Quetzaltenango közelében, amelynek 1902-es kitörése a 20. század egyik legnagyobbja volt.", ro: "Un vulcan activ mare lângă Quetzaltenango, a cărui erupție din 1902 a fost una dintre cele mai mari din secolul al XX-lea.", en: "A large active volcano near Quetzaltenango whose 1902 eruption was one of the largest of the 20th century." },
     facts: {
       de: ["Höhe: 3772 m", "Großer Ausbruch 1902", "Aktiver Lavadom (Santiaguito)", "Beliebtes Wanderziel"],
@@ -532,9 +511,8 @@ image: "/poi-images/volcan-santa-maria-nature-v2.webp"
     type: "mountain",
     parent: "GT-QZ",
     coords: [-91.556, 14.743],
-    name: { de: "Santiaguito Lavadom", hu: "Santiaguito lávadóm", ro: "Domul de lavă Santiaguito", en: "Santiaguito Lava Dome",
-image: "/poi-images/santiaguito-lava-dome-nature-v2.webp"
-},
+    name: { de: "Santiaguito Lavadom", hu: "Santiaguito lávadóm", ro: "Domul de lavă Santiaguito", en: "Santiaguito Lava Dome"},
+    image: "/poi-images/santiaguito-lava-dome-nature-v2.webp",
     description: { de: "Ein aktiver Komplex von vier Lavadomen am Fuße des Vulkans Santa María.", hu: "Négy lávadómból álló aktív komplexum a Santa María vulkán lábánál.", ro: "Un complex activ de patru domuri de lavă la poalele vulcanului Santa María.", en: "An active complex of four lava domes at the foot of the Santa María volcano." },
     facts: {
       de: ["Ständig aktiv seit 1922", "Wächst am Hang des Santa María", "Gefährliche pyroklastische Ströme", "Von Aussichtspunkten beobachtbar"],
@@ -557,9 +535,8 @@ image: "/poi-images/santiaguito-lava-dome-nature-v2.webp"
     type: "river",
     parent: "GT-IZ",
     coords: [-88.92, 15.88],
-    name: { de: "Río Sarstún", hu: "Sarstún-folyó", ro: "Râul Sarstoon", en: "Sarstoon River",
-image: "/poi-images/rio-sarstun-nature-v2.webp"
-},
+    name: { de: "Río Sarstún", hu: "Sarstún-folyó", ro: "Râul Sarstoon", en: "Sarstoon River"},
+    image: "/poi-images/rio-sarstun-nature-v2.webp",
     description: { de: "Ein Fluss, der die südliche Grenze zwischen Guatemala und Belize bildet.", hu: "Folyó, amely a déli határt képezi Guatemala és Belize között.", ro: "Un râu care formează granița de sud dintre Guatemala și Belize.", en: "A river that forms the southern border between Guatemala and Belize." },
     facts: {
       de: ["Grenze zwischen Guatemala und Belize", "Mündet in die Bucht von Amatique", "Umstrittener Grenzverlauf", "Wichtige Feuchtgebiete"],
@@ -582,9 +559,8 @@ image: "/poi-images/rio-sarstun-nature-v2.webp"
     type: "forest",
     parent: "GT-PE",
     coords: [-90.8, 17.4],
-    name: { de: "Nationalpark Laguna del Tigre", hu: "Laguna del Tigre Nemzeti Park", ro: "Parcul Național Laguna del Tigre", en: "Laguna del Tigre National Park",
-image: "/poi-images/laguna-del-tigre-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Laguna del Tigre", hu: "Laguna del Tigre Nemzeti Park", ro: "Parcul Național Laguna del Tigre", en: "Laguna del Tigre National Park"},
+    image: "/poi-images/laguna-del-tigre-national-park-nature-v2.webp",
     description: { de: "Das größte Feuchtgebiet und Schutzgebiet in Guatemala, Teil des Maya-Biosphärenreservats.", hu: "Guatemala legnagyobb vizes élőhelye és védett területe, a Maja Bioszféra-rezervátum része.", ro: "Cea mai mare zonă umedă și arie protejată din Guatemala, parte a Rezervației Biosferei Maya.", en: "The largest wetland and protected area in Guatemala, part of the Maya Biosphere Reserve." },
     facts: {
       de: ["Größtes Schutzgebiet Guatemalas", "Wichtiges Ramsar-Feuchtgebiet", "Hohe Jaguar-Population", "Bedroht durch Waldbrände und Besiedlung"],
@@ -607,9 +583,8 @@ image: "/poi-images/laguna-del-tigre-national-park-nature-v2.webp"
     type: "forest",
     parent: "GT-AV",
     coords: [-90.3, 15.85],
-    name: { de: "Candelaria-Höhlen", hu: "Candelaria-barlangok", ro: "Peșterile Candelaria", en: "Candelaria Caves",
-image: "/poi-images/cuevas-de-candelaria-nature-v2.webp"
-},
+    name: { de: "Candelaria-Höhlen", hu: "Candelaria-barlangok", ro: "Peșterile Candelaria", en: "Candelaria Caves"},
+    image: "/poi-images/cuevas-de-candelaria-nature-v2.webp",
     description: { de: "Ein riesiges Höhlensystem in Alta Verapaz, das von den Maya als heilig angesehen wurde.", hu: "Hatalmas barlangrendszer Alta Verapazban, amelyet a maják szentnek tartottak.", ro: "Un sistem vast de peșteri în Alta Verapaz, considerat sacru de către mayași.", en: "A vast cave system in Alta Verapaz, considered sacred by the Maya." },
     facts: {
       de: ["Großes unterirdisches Flusssystem", "Heiliger Ort für die Maya", "Teilweise mit dem Boot befahrbar", "Nationalpark"],
@@ -632,9 +607,8 @@ image: "/poi-images/cuevas-de-candelaria-nature-v2.webp"
     type: "forest",
     parent: "GT-IZ",
     coords: [-88.9, 15.7],
-    name: { de: "Nationalpark Río Dulce", hu: "Río Dulce Nemzeti Park", ro: "Parcul Național Río Dulce", en: "Río Dulce National Park",
-image: "/poi-images/parque-nacional-rio-dulce-nature-v2.webp"
-},
+    name: { de: "Nationalpark Río Dulce", hu: "Río Dulce Nemzeti Park", ro: "Parcul Național Río Dulce", en: "Río Dulce National Park"},
+    image: "/poi-images/parque-nacional-rio-dulce-nature-v2.webp",
     description: { de: "Ein Nationalpark, der den Río Dulce und Teile des Izabal-Sees schützt, inklusive der Schlucht.", hu: "Nemzeti park, amely védi a Río Dulcét és az Izabal-tó egyes részeit, beleértve a szurdokot is.", ro: "Un parc național care protejează Río Dulce și părți ale Lacului Izabal, inclusiv canionul.", en: "A national park protecting the Río Dulce and parts of Lake Izabal, including the gorge." },
     facts: {
       de: ["Schützt den Río Dulce Canyon", "Heimat von Manatis", "Tropischer Regenwald und Feuchtgebiete", "Castillo de San Felipe"],
@@ -657,9 +631,8 @@ image: "/poi-images/parque-nacional-rio-dulce-nature-v2.webp"
     type: "lake",
     parent: "GT-AV",
     coords: [-90.47, 15.37],
-    name: { de: "Laguna Chichoj", hu: "Chichoj-lagúna", ro: "Laguna Chichoj", en: "Laguna Chichoj",
-image: "/poi-images/laguna-chichoj-nature-v2.webp"
-},
+    name: { de: "Laguna Chichoj", hu: "Chichoj-lagúna", ro: "Laguna Chichoj", en: "Laguna Chichoj"},
+    image: "/poi-images/laguna-chichoj-nature-v2.webp",
     description: { de: "Ein kleiner See bei San Cristóbal Verapaz, der jedoch ökologisch bedroht ist.", hu: "Kis tó San Cristóbal Verapaz közelében, amely azonban ökológiailag veszélyeztetett.", ro: "Un lac mic lângă San Cristóbal Verapaz, dar care este amenințat ecologic.", en: "A small lake near San Cristóbal Verapaz which is, however, ecologically threatened." },
     facts: {
       de: ["Nahe San Cristóbal Verapaz", "Ökologisch bedroht", "Wichtig für die lokale Gemeinschaft", "Poqomchi'-Maya-Region"],
@@ -682,9 +655,8 @@ image: "/poi-images/laguna-chichoj-nature-v2.webp"
     type: "mountain",
     parent: "GT-SA",
     coords: [-90.725, 14.565],
-    name: { de: "Cerro de la Cruz", hu: "Cerro de la Cruz", ro: "Cerro de la Cruz", en: "Hill of the Cross",
-image: "/poi-images/cerro-de-la-cruz-nature-v2.webp"
-},
+    name: { de: "Cerro de la Cruz", hu: "Cerro de la Cruz", ro: "Cerro de la Cruz", en: "Hill of the Cross"},
+    image: "/poi-images/cerro-de-la-cruz-nature-v2.webp",
     description: { de: "Ein Hügel mit einem Kreuz nördlich von Antigua, der eine berühmte Aussicht auf die Stadt bietet.", hu: "Hegy kereszttel Antiguától északra, amely híres kilátást nyújt a városra.", ro: "Un deal cu o cruce la nord de Antigua, care oferă o priveliște renumită asupra orașului.", en: "A hill with a cross north of Antigua, offering a famous viewpoint of the city." },
     facts: {
       de: ["Aussichtspunkt über Antigua", "Großes Kreuz auf dem Gipfel", "Leichte Wanderung", "Blick auf den Volcán de Agua"],
@@ -707,9 +679,8 @@ image: "/poi-images/cerro-de-la-cruz-nature-v2.webp"
     type: "forest",
     parent: "GT-SR",
     coords: [-90.28, 13.88],
-    name: { de: "Naturreservat Monterrico", hu: "Monterrico Természetvédelmi Terület", ro: "Rezervația Naturală Monterrico", en: "Monterrico Nature Reserve",
-image: "/poi-images/monterrico-nature-reserve-nature-v2.webp"
-},
+    name: { de: "Naturreservat Monterrico", hu: "Monterrico Természetvédelmi Terület", ro: "Rezervația Naturală Monterrico", en: "Monterrico Nature Reserve"},
+    image: "/poi-images/monterrico-nature-reserve-nature-v2.webp",
     description: { de: "Ein Küstenreservat mit Mangroven und Kanälen, bekannt für seine Meeresschildkröten-Schutzprojekte.", hu: "Part menti rezervátum mangrovékkal és csatornákkal, ismert a tengeri teknősök védelmi projektjeiről.", ro: "O rezervație de coastă cu mangrove și canale, cunoscută pentru proiectele sale de conservare a țestoaselor marine.", en: "A coastal reserve with mangroves and canals, known for its sea turtle conservation projects." },
     facts: {
       de: ["Schutz von Meeresschildkröten", "Schwarze Sandstrände", "Mangroven-Feuchtgebiete", "Vogelbeobachtung"],
@@ -732,9 +703,8 @@ image: "/poi-images/monterrico-nature-reserve-nature-v2.webp"
     type: "river",
     parent: "GT-QZ",
     coords: [-91.47, 14.78],
-    name: { de: "Fuentes Georginas", hu: "Fuentes Georginas", ro: "Fuentes Georginas", en: "Fuentes Georginas",
-image: "/poi-images/fuentes-georginas-nature-v2.webp"
-},
+    name: { de: "Fuentes Georginas", hu: "Fuentes Georginas", ro: "Fuentes Georginas", en: "Fuentes Georginas"},
+    image: "/poi-images/fuentes-georginas-nature-v2.webp",
     description: { de: "Natürliche heiße Schwefelquellen an den Hängen des Zunil-Vulkans.", hu: "Természetes, forró kénes források a Zunil-vulkán lejtőin.", ro: "Izvoare termale naturale sulfuroase pe versanții vulcanului Zunil.", en: "Natural hot sulfur springs on the slopes of the Zunil volcano." },
     facts: {
       de: ["Heiße Thermalquellen", "Vulkanischer Ursprung", "Umgeben von Nebelwald", "Beliebtes Erholungsbad"],

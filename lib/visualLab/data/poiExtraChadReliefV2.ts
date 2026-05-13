@@ -11,9 +11,8 @@ export const poiExtraChadReliefV2: POI[] = [
       de: "Bodélé-Depression",
       hu: "Bodélé-mélyföld",
       ro: "Depresiunea Bodélé",
-      en: "Bodélé Depression",
-image: "/poi-images/bodele-depression-relief-v2.webp"
-},
+      en: "Bodélé Depression"},
+    image: "/poi-images/bodele-depression-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Bodélé-Depression ist das geologische Herzstück des Tschadbeckens und ein Ort von globaler Bedeutung. Als tiefster Punkt des Beckens fungiert sie als eine der aktivsten Staubquellen der Erde, deren feiner Mineralstaub durch Wind bis nach Amazonien getragen wird. Diese dynamische Senke ist ein Paradebeispiel für wüstenbildende Prozesse und die Wechselwirkung zwischen Klima und Geologie. Wer die Bodélé-Depression betrachtet, sieht eine lebensfeindliche, aber faszinierend aktive Wüstenlandschaft, die das Klima auf der ganzen Welt beeinflusst. Geografie K9 — Klimafaktoren und Staubbildung.",
       ro: "Depresiunea Bodélé este cea mai joasă zonă din Ciad, situată la sud de Munții Tibesti, fiind o sursă majoră de praf atmosferic care ajunge până în America de Sud. Această regiune aridă deține un rol climatic esențial pentru Oceanul Atlantic, fertilizând solurile prin depunerile de praf mineral purtate de vânturile harmattan. Făcând parte din bazinul endoreic al Lacului Ciad, zona prezintă un interes științific deosebit pentru studiul schimbărilor climatice globale și dinamica deșertului Sahara. Geografie K7 — relief și climă.",
@@ -47,9 +46,8 @@ image: "/poi-images/bodele-depression-relief-v2.webp"
       de: "Erdi-Plateau",
       hu: "Erdi-fennsík",
       ro: "Podișul Erdi",
-      en: "Erdi Plateau",
-image: "/poi-images/erdi-plateau-relief-v2.webp"
-},
+      en: "Erdi Plateau"},
+    image: "/poi-images/erdi-plateau-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Erdi-Plateau im Nordosten des Tschad ist eine isolierte Sandsteinlandschaft, die den Reisenden in eine Welt der Stille und bizarren Formen führt. Die Region ist berühmt für ihre fossilen Funde, die aus einer Ära stammen, in der die Sahara ein weit fruchtbareres Gebiet war. Durch Wind und Erosion geformt, präsentieren sich die Gesteinsschichten als ein offenes Buch der Erdgeschichte. Das Plateau bietet eine Einsamkeit, die typisch für die entlegensten Teile des Tschad ist, und ist ein Muss für Entdecker, die geologische Raritäten in unberührter Wüstennatur suchen. Geografie K8 — Erosion.",
       ro: "Platoul Erdi reprezintă o formă de relief spectaculoasă în nord-estul Ciadului, caracterizată prin structuri de gresie și dune de nisip ce se întind spre frontiera cu Libia. Acesta face parte din ansamblul geologic vast al Saharei, oferind un peisaj de tip deșertic pur, unde eroziunea eoliană a sculptat formațiuni unice de-a lungul mileniilor. Zona rămâne una dintre cele mai izolate și mai puțin explorate regiuni ale țării, atrăgând totuși cercetători geologi interesați de evoluția geologică a Podișului Sahara. Geografie K7 — formarea continentelor.",
@@ -83,9 +81,8 @@ image: "/poi-images/erdi-plateau-relief-v2.webp"
       de: "Mourdi-Senke",
       hu: "Mourdi-mélyedés",
       ro: "Depresiunea Mourdi",
-      en: "Mourdi Depression",
-image: "/poi-images/mourdi-depression-relief-v2.webp"
-},
+      en: "Mourdi Depression"},
+    image: "/poi-images/mourdi-depression-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Mourdi-Senke erstreckt sich als weites, trockenes Becken zwischen dem Ennedi-Massiv und dem Erdi-Plateau. Sie ist das klassische Bild einer Wüste, gezeichnet durch ausgedehnte Wanderdünen und extreme Temperaturschwankungen. Die Senke fungiert als natürliche Barriere und Pufferzone zwischen den geologischen Schwergewichten der Region. Für die wenigen nomadischen Gruppen, die durch das Gebiet ziehen, ist die Mourdi-Senke eine Herausforderung der Navigation. Die wüstenähnliche Strenge der Landschaft macht sie zu einem Ort, der nur mit extremer Vorsicht durchquert werden sollte. Geografie K7 — Wüsten-Navigation.",
       ro: "Depresiunea Mourdi este o zonă geografică distinctă în nordul Ciadului, care marchează tranziția dintre masivele muntoase și întinderile de nisip ale deșertului. Această regiune joasă a foi modelată de acțiunea apelor în perioadele paleoclimatice când Sahara era mult mai umedă, iar astăzi oferă adăpost unor mici oaze și vegetație adaptată condițiilor extreme de ariditate. Depresiunea constituie un reper important pentru călătorii trans-saharieni, fiind un punct strategic de trecere între zonele muntoase din nord și platourile estice. Geografie K7 — peisaje geografice.",
@@ -119,9 +116,8 @@ image: "/poi-images/mourdi-depression-relief-v2.webp"
       de: "Tarso Ahon",
       hu: "Tarso Ahon",
       ro: "Tarso Ahon",
-      en: "Tarso Ahon",
-image: "/poi-images/tarso-ahon-relief-v2.webp"
-},
+      en: "Tarso Ahon"},
+    image: "/poi-images/tarso-ahon-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das markante Vulkanplateau des Tarso Ahon bildet einen spektakulären Teil des Tibesti-Vulkankomplexes. Die ausgedehnte Kaldera auf seinem Gipfel ist ein stiller Zeuge der gewaltigen vulkanischen Energie, die einst den Norden des Tschad umgestaltete. Von den Rändern des Plateaus hat man einen beispiellosen Ausblick auf die geologische Vielfalt des Tibesti. Tarso Ahon ist ein Ort, an dem die Erde ihre Geschichte in Stein gemeißelt hat und Besucher zur Bewunderung ihrer geologischen Kraft einlädt. Geografie K8 — Kalderen.",
       ro: "Tarso Ahon este un masiv vulcanic mai puțin cunoscut din regiunea Tibesti, situat în nordul Ciadului, care adaugă o diversitate geologică remarcabilă peisajului montan saharian. Acest vulcan stins este acoperit de un strat de bazalt și alte roci vulcanice care atestă o activitate geologică intensă în urmă cu câteva milioane de ani. Deși Tibesti este dominat de Emi Koussi, Tarso Ahon reprezintă o unitate morfologică de sine stătătoare, vitală pentru înțelegerea proceselor de formare a reliefului saharian. Geografie K7 — vulcani și munți.",
@@ -155,9 +151,8 @@ image: "/poi-images/tarso-ahon-relief-v2.webp"
       de: "Tarso Emissti",
       hu: "Tarso Emissti",
       ro: "Tarso Emissti",
-      en: "Tarso Emissti",
-image: "/poi-images/tarso-emissti-relief-v2.webp"
-},
+      en: "Tarso Emissti"},
+    image: "/poi-images/tarso-emissti-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Tarso Emissti ist ein raues, zerklüftetes Massiv im Herzen des Tibesti, das sich durch eine fast unzugängliche Schönheit auszeichnet. Seine schroffen Hänge sind eine Herausforderung für Geologen und Bergsteiger zugleich. In der Isolation des Hochgebirges präsentiert sich das Emissti als ein geologisches Monument, das die Entwicklung der Region durch vulkanische Prozesse dokumentiert. Wer hier unterwegs ist, erlebt eine Einsamkeit, die nur in den Gipfelregionen der Sahara zu finden ist. Es ist ein Ort der geologischen Strenge und unberührten Natur. Geografie K8 — Hochgebirgsgeologie.",
       ro: "Tarso Emissti reprezintă un alt complex vulcanic important în nordul Ciadului, adăugând complexitate masivului Tibesti prin formațiunile sale geologice unice și peisajul dramatic. Această zonă montană este caracterizată prin pante abrupte și depozite vulcanice care au modelat relieful regiunii timp de milenii, fiind un punct de interes pentru geologii care studiază structura internă a munților Saharei. Aspectul său impunător subliniază caracterul vulcanic al nordului țării. Geografie K7 — munți și relief.",
@@ -191,9 +186,8 @@ image: "/poi-images/tarso-emissti-relief-v2.webp"
       de: "Tarso Ourari",
       hu: "Tarso Ourari",
       ro: "Tarso Ourari",
-      en: "Tarso Ourari",
-image: "/poi-images/tarso-ourari-relief-v2.webp"
-},
+      en: "Tarso Ourari"},
+    image: "/poi-images/tarso-ourari-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Tarso Ourari im nördlichen Tibesti ist ein Bergmassiv, das die Weite der Zentralsahara von einem erhöhten Standpunkt aus überblickt. Seine Steilwände und tiefen Einschnitte machen es zu einer imposanten Landmarke, die für die Navigation in dieser rauen Region von Bedeutung ist. Das Ourari steht stellvertretend für die archaische und massive Gestalt des Tibesti, das die Sahara wie eine natürliche Festung überragt. Ein Besuch am Ourari bietet eine Perspektive, die das gigantische Ausmaß dieser Wüsten- und Gebirgslandschaften erst begreifbar macht. Geografie K7 — Gebirgs-Perspektiven.",
       ro: "Tarso Ourari este o unitate montană vulcanică notabilă în nordul Ciadului, parte a sistemului muntos Tibesti, fiind o dovadă a vulcanismului activ care a definit cândva această regiune deșertică. Platoul vulcanic oferă un peisaj de tip lunar, unde roca neagră de origine magmatică se îmbină cu nisipul Saharei, creând un contrast vizual spectaculos și un mediu geologic fascinant. Studiul acestui masiv oferă indicii prețioase despre istoria geologică a continentului african. Geografie K7 — istorie geologică.",
@@ -225,9 +219,8 @@ image: "/poi-images/tarso-ourari-relief-v2.webp"
       de: "Borkou-Dünen",
       hu: "Borkou-dűnék",
       ro: "Dunele Borkou",
-      en: "Borkou Dunes",
-image: "/poi-images/borkou-dunes-relief-v2.webp"
-},
+      en: "Borkou Dunes"},
+    image: "/poi-images/borkou-dunes-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Borkou-Dünen sind ein dynamisches Feld aus Sicheldünen (Barkane), die sich wie ein wandelndes Meer durch die Region ziehen. Unter dem Einfluss der beständigen Nordostwinde verändern sie ständig ihre Form und Lage, was die Borkou-Region zu einer lebendigen Wüstenlandschaft macht. Diese Windskulpturen sind ein faszinierendes Beispiel für äolische Prozesse und die Macht der Elemente in der Sahara. Die Borkou-Dünen sind nicht nur für Geologen spannend, sondern auch ein ästhetisches Highlight, das die raue Schönheit des nordöstlichen Tschad verkörpert. Geografie K6 — Äolische Prozesse.",
       ro: "Dunele Borkou reprezintă una dintre cele mai întinse și dinamice regiuni de nisip din nordul Ciadului, unde vântul modelează permanent peisajul într-un proces continuu de transformare. Aceste acumulări eoliene sunt celebre pentru formele lor variate, de la dune barcane la dune stelate, creând un labirint de nisip auriu care se întinde pe mii de kilometri pătrați. Regiunea Borkou este un centru important pentru studiul geomorfologiei deșertice și al impactului vânturilor asupra reliefului saharian. Geografie K7 — deșerturi.",
@@ -260,9 +253,8 @@ image: "/poi-images/borkou-dunes-relief-v2.webp"
       de: "Hadjer-el-Hamis",
       hu: "Hadjer-el-Hamis",
       ro: "Hadjer-el-Hamis",
-      en: "Hadjer-el-Hamis",
-image: "/poi-images/hadjer-el-hamis-relief-v2.webp"
-},
+      en: "Hadjer-el-Hamis"},
+    image: "/poi-images/hadjer-el-hamis-relief-v2.webp",
     descriptionAdvanced: {
       de: "Hadjer-el-Hamis, die 'Felsen der fünf' oder die Drei Gipfel nahe des Tschadsees, sind ein geologisches Kuriosum in einer sonst vollkommen flachen Landschaft. Wie versteinerte Inseln ragen sie aus der Ebene auf und bilden einen markanten Kontrast zur Umgebung. Sie sind vulkanische Intrusionskörper, die dem Wetter seit Jahrmillionen standgehalten haben. Für Reisende in der Nähe des Sees bilden sie eine unverzichtbare Orientierungshilfe und ein schönes Ziel für kurze Wanderungen. Die Felsen sind ein Symbol für die geologische Vielfalt im Flachland des Tschad. Geografie K7 — Intrusionskörper.",
       ro: "Hadjer el-Hamis reprezintă un masiv muntos izolat, situat în zona central-vestică a Ciadului, care iese în evidență prin forma sa caracteristică și rolul său de punct de reper în peisajul de câmpie. Această formațiune muntoasă, mai veche din punct de vedere geologic față de vulcanii din nord, oferă o altă perspectivă asupra diversității reliefului țării, fiind un punct de atracție pentru cercetătorii care studiază structurile geologice din interiorul Africii. Masivul domină câmpiile din jur, fiind vizibil de la distanțe mari. Geografie K7 — munți.",
@@ -294,9 +286,8 @@ image: "/poi-images/hadjer-el-hamis-relief-v2.webp"
       de: "Era-Kohor-Krater",
       hu: "Era Kohor-kráter",
       ro: "Craterul Era Kohor",
-      en: "Era Kohor Crater",
-image: "/poi-images/era-kohor-crater-relief-v2.webp"
-},
+      en: "Era Kohor Crater"},
+    image: "/poi-images/era-kohor-crater-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Era-Kohor-Krater, eingebettet im gigantischen Emi-Koussi-Massiv, ist ein Ort der absoluten geologischen Faszination. Die weißen Natronschichten, die sich an seinem Grund abgelagert haben, erzeugen in der ansonsten dunklen Vulkanlandschaft eine fast unwirkliche Optik. Er ist einer der am schwersten zugänglichen, aber gleichzeitig spektakulärsten Punkte im gesamten Tschad. Der Krater ist ein Zeugnis einer Zeit, in der hier intensive hydrothermale Prozesse abliefen, die die heute sichtbaren Mineralschichten hervorbrachten. Geografie K8 — Hydrothermale Prozesse.",
       ro: "Era Kohor este un crater vulcanic spectaculos situat în inima Munților Tibesti, în nordul Ciadului, reprezentând una dintre cele mai remarcabile structuri geologice din întreaga Sahară. Craterul, rezultat al unei colapsări vulcanice masive, adăpostește în interiorul său un peisaj unic, fiind înconjurat de pereți stâncoși impunători care oferă o privire în interiorul activității magmatice străvechi. Acest loc este un punct de referință pentru studiile geologice care analizează evoluția munților vulcanici din regiune. Geografie K7 — vulcani.",
@@ -328,9 +319,8 @@ image: "/poi-images/era-kohor-crater-relief-v2.webp"
       de: "Aozou-Hochland",
       hu: "Aozou-felföld",
       ro: "Podișul Aozou",
-      en: "Aozou Highlands",
-image: "/poi-images/aozou-highlands-relief-v2.webp"
-},
+      en: "Aozou Highlands"},
+    image: "/poi-images/aozou-highlands-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Aozou-Hochland an der nördlichsten Spitze des Tschad ist eine Region, die durch ihre schroffen Täler und ihre strategische Lage gezeichnet ist. Über Jahrzehnte war das Gebiet Schauplatz von Grenzkonflikten, die heute nur noch in den historischen Erzählungen und den Überbleibseln von Grenzbefestigungen präsent sind. Heute ist es eine einsame Berglandschaft, die durch ihre rohe, karge Schönheit besticht. Aozou ist ein Symbol für die Grenze zwischen der Sahara und den politischen Herausforderungen, die diese abgelegene Welt über Jahre hinweg begleiteten. Geschichte K9 — Grenzkonflikte.",
       ro: "Podisurile Aozou reprezintă o zonă montană strategică în extremitatea nordică a Ciadului, situată la granița cu Libia, cunoscută atât pentru peisajul său arid și accidentat, cât și pentru istoria sa geopolitică turbulentă. Regiunea este formată din roci dure, erodate de vânturi, creând platouri ridicate și văi adânci care au marcat frontiera naturală a țării. Din punct de vedere geologic, această zonă este legată de masivul Tibesti, prezentând aceleași caracteristici de ariditate și duritate a reliefului. Geografie K7 — relief.",
@@ -362,9 +352,8 @@ image: "/poi-images/aozou-highlands-relief-v2.webp"
       de: "Abou-Telfane-Massiv",
       hu: "Abou Telfane-masszívum",
       ro: "Masivul Abou Telfane",
-      en: "Abou Telfane Massif",
-image: "/poi-images/abou-telfane-massif-relief-v2.webp"
-},
+      en: "Abou Telfane Massif"},
+    image: "/poi-images/abou-telfane-massif-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Abou-Telfane-Massiv in der Guéra-Region ragt wie eine Festung aus den umgebenden Ebenen hervor. Es ist nicht nur ein geologisches Monument, sondern auch ein ökologischer Ankerpunkt, der in seiner Höhe ein kühleres Mikroklima bietet. Diese Berge sind für die lokale Bevölkerung ein heiliger Ort und eine wichtige Quelle für das Wasser, das in die umliegenden Ebenen abfließt. Abou Telfane zeigt eindrucksvoll, wie ein Bergmassiv die ökologische und soziale Struktur einer ganzen Region beeinflussen kann. Geografie K7 — Mikroklima.",
       ro: "Masivul Abou Telfane este o formațiune muntoasă distinctă situată în centrul Ciadului, care marchează un punct de tranziție geografică între câmpiile sudice și zonele deșertice ale nordului. Această structură cristalină oferă un refugiu pentru biodiversitate locală și joacă un rol important în echilibrul ecologic al regiunii Guéra. Masivul este venerat de comunitățile locale pentru semnificația sa culturală și servește drept punct de reper în peisajul vast și arid. Geografie K7 — relief montan și biodiversitate.",
@@ -396,9 +385,8 @@ image: "/poi-images/abou-telfane-massif-relief-v2.webp"
       de: "Bahr-el-Ghazal-Senke",
       hu: "Bahr el Ghazal-mélyedés",
       ro: "Depresiunea Bahr el Ghazal",
-      en: "Bahr el Ghazal Depression",
-image: "/poi-images/bahr-el-ghazal-depression-relief-v2.webp"
-},
+      en: "Bahr el Ghazal Depression"},
+    image: "/poi-images/bahr-el-ghazal-depression-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Bahr-el-Ghazal-Senke ist das historische Flussbett, das einst die Verbindung zwischen dem Mega-Tschad und dem Norden darstellte. Heute ist es ein ausgetrocknetes Zeugnis dafür, wie sich die Hydrologie der Sahara radikal gewandelt hat. Das Tal dient als wichtige Route durch den Tschad und lässt die einstige Macht des Wassers noch immer erahnen. Wer heute durch dieses Tal reist, folgt einem Pfad, der die Geschichte der Region von einem blühenden Wasserparadies zu einem der trockensten Orte der Erde erzählt. Geografie K6 — Hydrologischer Wandel.",
       ro: "Depresiunea Bahr el-Ghazal, cunoscută istoric ca 'Râul Gazelelor', este o vale fosilă care odinioară conecta Lacul Ciad cu bazinele hidrografice mai nordice, astăzi fiind un culoar arid care traversează deșertul. Această vale constituie o mărturie vie a perioadelor în care Ciadul avea o rețea hidrografică complexă, fiind astăzi un ecosistem adaptat aridității. Depresiunea joacă un rol vital pentru comunitățile de nomazi care o traversează în căutare de pășuni și resurse limitate. Geografie K7 — paleogeografie.",
@@ -430,9 +418,8 @@ image: "/poi-images/bahr-el-ghazal-depression-relief-v2.webp"
       de: "Angamma-Kante",
       hu: "Angamma-perem",
       ro: "Abruptul Angamma",
-      en: "Angamma Escarpment",
-image: "/poi-images/angamma-escarpment-relief-v2.webp"
-},
+      en: "Angamma Escarpment"},
+    image: "/poi-images/angamma-escarpment-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Angamma-Kante ist ein geologisches Monument in der Borkou-Region, das die schiere Kraft der Krustenbewegungen demonstriert. Diese markante Geländestufe trennt unterschiedliche Landschaftseinheiten voneinander und bildet ein natürliches Hindernis für die Fortbewegung. Die Schichtenbildung entlang der Kante ist ein ideales Objekt für Geologen, um die verschiedenen Ablagerungsphasen der Sahara zu verstehen. Sie ist ein stummes, aber mächtiges Zeugnis für die geologische Dynamik, die den Norden des Tschad seit Jahrmillionen formt. Geografie K9 — Krustenbewegungen.",
       ro: "Escarpamentul Angamma este o formațiune geologică impresionantă care mărginește Podișul Ennedi, oferind o priveliște dramatică asupra câmpiilor deșertice care se întind la baza sa. Această barieră naturală, modelată de forțele tectonice și de eroziunea îndelungată, constituie o trăsătură distinctă a reliefului estic al Ciadului. Escarpamentul nu este doar un element estetic, ci și o zonă de importanță ecologică unde se găsesc microclimate ce susțin forme de viață specifice. Geografie K7 — geologie și relief.",
@@ -464,9 +451,8 @@ image: "/poi-images/angamma-escarpment-relief-v2.webp"
       de: "Djoli-Hügelland",
       hu: "Djoli-dombság",
       ro: "Dealurile Djoli",
-      en: "Djoli Hills",
-image: "/poi-images/djoli-hills-relief-v2.webp"
-},
+      en: "Djoli Hills"},
+    image: "/poi-images/djoli-hills-relief-v2.webp",
     descriptionAdvanced: {
       de: "Die Djoli-Hügel im Osten des Tschad markieren den Übergang zwischen der Sahelzone und den trockeneren Ebenen des Sudan. Sie sind ein welliges Landschaftsbild, das sich sanft erhebt und einen Kontrast zur flachen Wüste bietet. Die Hügel sind wichtige Weidegebiete für die Hirten, die in diesen Grenzregionen leben. In dieser Umgebung zeigt sich eine subtile Schönheit, die oft übersehen wird, aber für das Überleben der nomadischen Herden von großer Bedeutung ist. Die Djoli-Hügel sind ein Ort der Sanftheit in einer sonst oft harschen Umgebung. Geografie K6 — Landschaftsübergänge.",
       ro: "Dealurile Djoli fac parte dintr-un complex de relief mai mic situat în regiunea centrală a Ciadului, care contribuie la diversitatea peisajului prin formele sale ondulate și structura geologică diversă. Aceste dealuri sunt rezultatul proceselor complexe de eroziune care au acționat asupra platourilor din jurul lor, creând un mediu favorabil pentru activitățile pastorale locale. Deși modeste ca altitudine, ele reprezintă un reper geografic esențial pentru comunitățile care trăiesc în această zonă de tranziție. Geografie K7 — forme de relief.",
@@ -498,9 +484,8 @@ image: "/poi-images/djoli-hills-relief-v2.webp"
       de: "Kapka-Massiv",
       hu: "Kapka-masszívum",
       ro: "Masivul Kapka",
-      en: "Kapka Massif",
-image: "/poi-images/kapka-massif-relief-v2.webp"
-},
+      en: "Kapka Massif"},
+    image: "/poi-images/kapka-massif-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Kapka-Massiv im Wadi-Fira-Gebiet ist eine zerklüftete Berglandschaft, die durch ihre karge Schönheit besticht. Die Lage des Massivs war historisch oft von Bedeutung, da es als natürlicher Schutz und Orientierungspunkt diente. Die rauen Gipfel und die einsamen Täler bieten einen Rückzugsort für diejenigen, die die Stille suchen. Heute wird das Gebiet durch eine Mischung aus nomadischer Weidewirtschaft und der Suche nach geologischen Schätzen bestimmt. Das Kapka-Massiv ist eine der vielen unentdeckten Perlen im östlichen Tschad, die von ihrer strategischen Lage zeugen. Geografie K8 — Strategische Geografie.",
       ro: "Masivul Kapka reprezintă o regiune muntoasă situată în estul Ciadului, caracterizată prin structuri geologice robuste și un peisaj accidentat care sfidează ariditatea din jur. Acest masiv servește drept bazin hidrografic local pentru wadi-urile care se formează în timpul raraselor ploi, susținând vegetația de savană și comunitățile de crescători de animale. Masivul Kapka este un element de importanță locală majoră, fiind recunoscut pentru peisajele sale neatinse și diversitatea geologică. Geografie K7 — masive muntoase.",
@@ -533,9 +518,8 @@ image: "/poi-images/kapka-massif-relief-v2.webp"
       de: "Biltine-Plateau",
       hu: "Biltine-fennsík",
       ro: "Podișul Biltine",
-      en: "Biltine Plateau",
-image: "/poi-images/biltine-plateau-relief-v2.webp"
-},
+      en: "Biltine Plateau"},
+    image: "/poi-images/biltine-plateau-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Biltine-Plateau im Osten des Tschad ist ein trockenes Hochland, das ein hartes Leben in Abgeschiedenheit fordert. Es ist das Land der Hirten, die mit ihren Herden auf die kargen Weideflächen angewiesen sind. Die Weite der Landschaft und die Unberechenbarkeit des Wetters sind das Fundament für die Resilienz der Menschen, die hier ihre Heimat gefunden haben. Das Biltine-Plateau ist ein Ort der geologischen Beständigkeit, der die Herausforderungen der sahelischen Natur in einer beindruckenden Klarheit zeigt. Geografie K7 — Hochland-Ökologie.",
       ro: "Platoul Biltine este o regiune geografică notabilă în estul Ciadului, care se distinge prin formațiunile sale stâncoase și relieful arid, reprezentând un punct de legătură între deșertul Sahara și zonele de savană din sud. Această zonă oferă un ecosistem unic, adaptat condițiilor climatice extreme, și joacă un rol important în viața comunităților locale de crescători de animale. Peisajul este marcat de văi uscate și platouri care oferă o perspectivă vastă asupra mediului înconjurător. Geografie K7 — platouri și relief.",
@@ -567,9 +551,8 @@ image: "/poi-images/biltine-plateau-relief-v2.webp"
       de: "Tchigai-Plateau",
       hu: "Tchigai-fennsík",
       ro: "Podișul Tchigai",
-      en: "Tchigai Plateau",
-image: "/poi-images/tchigai-plateau-relief-v2.webp"
-},
+      en: "Tchigai Plateau"},
+    image: "/poi-images/tchigai-plateau-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Tchigai-Plateau liegt an der äußersten nördlichen Grenze des Tibesti und ist eine der einsamsten Wüstenregionen überhaupt. Hier gibt es fast keine Vegetation und die Stille ist absolut, unterbrochen nur durch das Heulen der Wüstenwinde über den Steinboden. Es ist ein Ort für Entdecker, die bis an die Grenzen des Machbaren gehen möchten. Die völlige Vegetationslosigkeit und die karge Steinwelt machen das Tchigai zu einem Labor der Wüstenforschung. Es ist das Ende der Welt, ein Ort, an dem die Geologie ungeschminkt ihre raue Sprache spricht. Geografie K9 — Wüstenökologie.",
       ro: "Platoul Tchigai este o formațiune geologică impresionantă în nordul Ciadului, care contribuie la complexitatea peisajului muntos al regiunii Ennedi prin structurile sale de gresie erodată. Această zonă este un exemplu de geomorfologie deșertică, unde procesele naturale au creat peisaje fascinante ce atrag atenția pasionaților de geologie și exploratorilor. Platoul este un element cheie în arhitectura naturală a nord-estului, oferind un mediu unic și izolat. Geografie K7 — geologie și deșert.",
@@ -601,9 +584,8 @@ image: "/poi-images/tchigai-plateau-relief-v2.webp"
       de: "Gere-Massiv",
       hu: "Gere-masszívum",
       ro: "Masivul Gere",
-      en: "Gere Massif",
-image: "/poi-images/gere-massif-relief-v2.webp"
-},
+      en: "Gere Massif"},
+    image: "/poi-images/gere-massif-relief-v2.webp",
     descriptionAdvanced: {
       de: "Das Gere-Massiv, ein Gebirgszug im Herzen der Guéra-Region, zeichnet sich durch seine markanten Granitfelsen aus, die wie Skulpturen in die Landschaft gesetzt wurden. Diese Gesteinsformationen sind ein geologisches Highlight und geben der Region ihr unverwechselbares Gesicht. Das Massiv bietet nicht nur eine beeindruckende Kulisse, sondern spielt eine zentrale Rolle für die ökologische Stabilität des Umlandes. Die Berge von Gere sind ein geschützter Raum für die lokale Flora und Fauna und ein Beweis für die Kraft der geologischen Prozesse in der Guéra-Region. Geografie K7 — Granitformationen.",
       ro: "Masivul Gere este o formațiune muntoasă situată în regiunea centrală a Ciadului, reprezentând o insulă de relief mai înalt într-un peisaj dominat de câmpii și deșerturi. Această structură geologică oferă un microclimat diferit față de zonele înconjurătoare, susținând o vegetație mai bogată în perioadele ploioase și oferind resurse esențiale pentru animale. Masivul servește, de asemenea, drept punct de reper important pentru navigația prin zonele îndepărtate ale țării. Geografie K7 — munți și peisaje.",
@@ -636,9 +618,8 @@ image: "/poi-images/gere-massif-relief-v2.webp"
       de: "Dougui-Wald",
       hu: "Dougui-erdő",
       ro: "Pădurea Dougui",
-      en: "Dougui Forest",
-image: "/poi-images/dougui-forest-relief-v2.webp"
-},
+      en: "Dougui Forest"},
+    image: "/poi-images/dougui-forest-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Dougui-Wald ist ein seltener, dichter Waldbestand im Süden des Tschad, der eine wichtige ökologische Nische für tropische Arten bildet. In einem Land, das sonst stark von Wüste oder Savanne geprägt ist, ist dieser Wald eine lebenswichtige Oase der Artenvielfalt. Seine Dichte schützt den Boden vor Erosion und stabilisiert das lokale Mikroklima. Der Schutz des Dougui-Waldes ist ein vorrangiges Anliegen, da er ein fragiles Rückzugsort für bedrohte tropische Fauna darstellt und als grünes Herz des Südens fungiert. Biologie K7 — Tropische Ökosysteme.",
       ro: "Pădurea Dougui, deși situată într-o regiune care se luptă cu deșertificarea, reprezintă o zonă cu o importanță ecologică majoră pentru sudul Ciadului. Această formațiune forestieră adaptată condițiilor locale joacă un rol crucial în protejarea solului împotriva eroziunii și oferă adăpost pentru diverse specii de faună locală. Protejarea unor astfel de zone este esențială pentru menținerea biodiversității și combaterea efectelor schimbărilor climatice la nivel regional. Sachkunde K3 — importanța pădurilor.",
@@ -670,9 +651,8 @@ image: "/poi-images/dougui-forest-relief-v2.webp"
       de: "Kyabé-Wald",
       hu: "Kyabé-erdő",
       ro: "Pădurea Kyabé",
-      en: "Kyabé Forest",
-image: "/poi-images/kyabe-forest-relief-v2.webp"
-},
+      en: "Kyabé Forest"},
+    image: "/poi-images/kyabe-forest-relief-v2.webp",
     descriptionAdvanced: {
       de: "Der Kyabé-Wald in der Moyen-Chari-Region ist ein Schlüsselschutzgebiet für die Bewahrung der biologischen Vielfalt und das lokale Klima. Er ist ein komplexes Gefüge aus Flora und Fauna, das in dieser subtropischen Zone eine entscheidende Rolle für den Wasserhaushalt spielt. Der Wald dient als natürlicher Puffer und verhindert durch sein dichtes Blätterdach die Austrocknung der Region. Das Management dieses Waldes ist eine Herausforderung, die zeigt, wie wichtig lokale Schutzgebiete für den Klimaschutz und den Erhalt der Artenpracht im Tschad sind. Biologie K6 — Waldschutz.",
       ro: "Pădurea Kyabe este un ecosistem forestier important în sudul Ciadului, care contribuie semnificativ la menținerea echilibrului ecologic într-o regiune caracterizată prin activități agricole intense. Această zonă forestieră servește drept tampon pentru biodiversitatea regională și oferă resurse vitale pentru comunitățile locale care depind de mediul înconjurător pentru subzistență. Gestionarea durabilă a acestei păduri este crucială pentru viitorul resurselor naturale ale sudului țării. Sachkunde K3 — ecosisteme locale.",

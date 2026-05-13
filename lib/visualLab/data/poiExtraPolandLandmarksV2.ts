@@ -6,9 +6,8 @@ export const polandLandmarksV2: POI[] = [
     id: "poland-warsaw-royal-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw",
-image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"
-},
+    name: { de: "Königsschloss Warschau", hu: "Varsói királyi vár", ro: "Castelul Regal din Varșovia", en: "Royal Castle in Warsaw"},
+    image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp",
     coords: [21.0142, 52.2478],
     coordinates: { lat: 52.2478, lng: 21.0142 },
     description: {
@@ -40,9 +39,8 @@ image: "/poi-images/poland-warsaw-royal-castle-landmarks-v2.webp"
     id: "poland-palace-culture-science-landmarks-v2",
     parent: "PL",
     type: "monument",
-    name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science",
-image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"
-},
+    name: { de: "Kultur- und Wissenschaftspalast", hu: "Kultúra és Tudomány Palotája", ro: "Palatul Culturii și Științei", en: "Palace of Culture and Science"},
+    image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp",
     coords: [21.0061, 52.2317],
     coordinates: { lat: 52.2317, lng: 21.0061 },
     description: {
@@ -74,9 +72,8 @@ image: "/poi-images/poland-palace-culture-science-landmarks-v2.webp"
     id: "poland-mariacka-basilica-krakow-landmarks-v2",
     parent: "PL",
     type: "cathedral",
-    name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica",
-image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"
-},
+    name: { de: "Marienkirche Krakau", hu: "Mária-templom (Krakkó)", ro: "Biserica Sfânta Maria din Cracovia", en: "St. Mary's Basilica"},
+    image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp",
     coords: [19.9392, 50.0617],
     coordinates: { lat: 50.0617, lng: 19.9392 },
     description: {
@@ -108,9 +105,8 @@ image: "/poi-images/poland-mariacka-basilica-krakow-landmarks-v2.webp"
     id: "poland-gdansk-crane-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk",
-image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"
-},
+    name: { de: "Krantor Danzig", hu: "Danzigi daru", ro: "Macaraua din Gdańsk", en: "The Crane in Gdańsk"},
+    image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp",
     coords: [18.6575, 54.3512],
     coordinates: { lat: 54.3512, lng: 18.6575 },
     description: {
@@ -142,9 +138,8 @@ image: "/poi-images/poland-gdansk-crane-landmarks-v2.webp"
     id: "poland-wroclaw-centennial-hall-landmarks-v2",
     parent: "PL",
     type: "monument",
-    name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall",
-image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"
-},
+    name: { de: "Jahrhunderthalle Breslau", hu: "Centenáriumi Csarnok", ro: "Hala Centenarului din Wrocław", en: "Centennial Hall"},
+    image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp",
     coords: [17.0772, 51.1069],
     coordinates: { lat: 51.1069, lng: 17.0772 },
     description: {
@@ -176,9 +171,8 @@ image: "/poi-images/poland-wroclaw-centennial-hall-landmarks-v2.webp"
     id: "poland-cloth-hall-krakow-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)",
-image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"
-},
+    name: { de: "Krakauer Tuchhallen", hu: "Posztócsarnok (Krakkó)", ro: "Hala de Pânzeturi din Cracovia", en: "Cloth Hall (Sukiennice)"},
+    image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp",
     coords: [19.9373, 50.0617],
     coordinates: { lat: 50.0617, lng: 19.9373 },
     description: {
@@ -210,9 +204,8 @@ image: "/poi-images/poland-cloth-hall-krakow-landmarks-v2.webp"
     id: "poland-neptune-fountain-gdansk-landmarks-v2",
     parent: "PL",
     type: "monument",
-    name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain",
-image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"
-},
+    name: { de: "Neptunbrunnen Danzig", hu: "Neptun-kút (Gdańsk)", ro: "Fântâna lui Neptun din Gdańsk", en: "Neptune's Fountain"},
+    image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp",
     coords: [18.6533, 54.3486],
     coordinates: { lat: 54.3486, lng: 18.6533 },
     description: {
@@ -244,9 +237,8 @@ image: "/poi-images/poland-neptune-fountain-gdansk-landmarks-v2.webp"
     id: "poland-zamosc-town-hall-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall",
-image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Zamość", hu: "Zamośći városháza", ro: "Primăria din Zamość", en: "Zamość Town Hall"},
+    image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp",
     coords: [23.2524, 50.7169],
     coordinates: { lat: 50.7169, lng: 23.2524 },
     description: {
@@ -278,9 +270,8 @@ image: "/poi-images/poland-zamosc-town-hall-landmarks-v2.webp"
     id: "poland-niedzica-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle",
-image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Niedzica", hu: "Nedec vára", ro: "Castelul Niedzica", en: "Niedzica Castle"},
+    image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp",
     coords: [20.3208, 49.4225],
     coordinates: { lat: 49.4225, lng: 20.3208 },
     description: {
@@ -312,9 +303,8 @@ image: "/poi-images/poland-niedzica-castle-landmarks-v2.webp"
     id: "poland-poznan-town-hall-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall",
-image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Posen", hu: "Poznańi városháza", ro: "Primăria din Poznań", en: "Poznań Town Hall"},
+    image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp",
     coords: [16.9342, 52.4085],
     coordinates: { lat: 52.4085, lng: 16.9342 },
     description: {
@@ -346,9 +336,8 @@ image: "/poi-images/poland-poznan-town-hall-landmarks-v2.webp"
     id: "poland-raclawice-panorama-landmarks-v2",
     parent: "PL",
     type: "museum",
-    name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama",
-image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"
-},
+    name: { de: "Panorama von Racławice", hu: "Racławicei körkép", ro: "Panorama de la Racławice", en: "Racławice Panorama"},
+    image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp",
     coords: [17.0442, 51.1102],
     coordinates: { lat: 51.1102, lng: 17.0442 },
     description: {
@@ -380,9 +369,8 @@ image: "/poi-images/poland-raclawice-panorama-landmarks-v2.webp"
     id: "poland-ogrodzieniec-castle-landmarks-v2",
     parent: "PL",
     type: "ruins",
-    name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle",
-image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Ogrodzieniec", hu: "Ogrodzieniec vára", ro: "Castelul Ogrodzieniec", en: "Ogrodzieniec Castle"},
+    image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp",
     coords: [19.5517, 50.4533],
     coordinates: { lat: 50.4533, lng: 19.5517 },
     description: {
@@ -414,9 +402,8 @@ image: "/poi-images/poland-ogrodzieniec-castle-landmarks-v2.webp"
     id: "poland-czocha-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle",
-image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Tzschocha", hu: "Czocha vára", ro: "Castelul Czocha", en: "Czocha Castle"},
+    image: "/poi-images/poland-czocha-castle-landmarks-v2.webp",
     coords: [15.3039, 51.0311],
     coordinates: { lat: 51.0311, lng: 15.3039 },
     description: {
@@ -448,9 +435,8 @@ image: "/poi-images/poland-czocha-castle-landmarks-v2.webp"
     id: "poland-moszna-castle-landmarks-v2",
     parent: "PL",
     type: "palace",
-    name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle",
-image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Moschen", hu: "Moszna-kastély", ro: "Castelul Moszna", en: "Moszna Castle"},
+    image: "/poi-images/poland-moszna-castle-landmarks-v2.webp",
     coords: [17.7686, 50.4447],
     coordinates: { lat: 50.4447, lng: 17.7686 },
     description: {
@@ -483,9 +469,8 @@ image: "/poi-images/poland-moszna-castle-landmarks-v2.webp"
     id: "poland-kornik-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle",
-image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Kórnik", hu: "Kórniki vár", ro: "Castelul Kórnik", en: "Kórnik Castle"},
+    image: "/poi-images/poland-kornik-castle-landmarks-v2.webp",
     coords: [17.0911, 52.2444],
     coordinates: { lat: 52.2444, lng: 17.0911 },
     description: {
@@ -517,9 +502,8 @@ image: "/poi-images/poland-kornik-castle-landmarks-v2.webp"
     id: "poland-gdansk-artus-court-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court",
-image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"
-},
+    name: { de: "Artushof Danzig", hu: "Artus-udvar (Gdańsk)", ro: "Curtea lui Artus din Gdańsk", en: "Artus Court"},
+    image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp",
     coords: [18.6536, 54.3486],
     coordinates: { lat: 54.3486, lng: 18.6536 },
     description: {
@@ -551,9 +535,8 @@ image: "/poi-images/poland-gdansk-artus-court-landmarks-v2.webp"
     id: "poland-pieskowa-skala-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle",
-image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Pieskowa Skała", hu: "Pieskowa Skała vára", ro: "Castelul Pieskowa Skała", en: "Pieskowa Skała Castle"},
+    image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp",
     coords: [19.7806, 50.2444],
     coordinates: { lat: 50.2444, lng: 19.7806 },
     description: {
@@ -585,9 +568,8 @@ image: "/poi-images/poland-pieskowa-skala-castle-landmarks-v2.webp"
     id: "poland-lublin-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle",
-image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Lublin", hu: "Lublini vár", ro: "Castelul din Lublin", en: "Lublin Castle"},
+    image: "/poi-images/poland-lublin-castle-landmarks-v2.webp",
     coords: [22.5719, 51.2503],
     coordinates: { lat: 51.2503, lng: 22.5719 },
     description: {
@@ -619,9 +601,8 @@ image: "/poi-images/poland-lublin-castle-landmarks-v2.webp"
     id: "poland-klodzko-gothic-bridge-landmarks-v2",
     parent: "PL",
     type: "bridge",
-    name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko",
-image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"
-},
+    name: { de: "Gotische Brücke in Kłodzko", hu: "Kłodzkói gótikus híd", ro: "Podul Gotic din Kłodzko", en: "Gothic Bridge in Kłodzko"},
+    image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp",
     coords: [16.6547, 50.4389],
     coordinates: { lat: 50.4389, lng: 16.6547 },
     description: {
@@ -653,9 +634,8 @@ image: "/poi-images/poland-klodzko-gothic-bridge-landmarks-v2.webp"
     id: "poland-vistulamouth-fortress-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress",
-image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Weichselmünde", hu: "Wisłoujście-erőd", ro: "Fortăreața Wisłoujście", en: "Vistulamouth Fortress"},
+    image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp",
     coords: [18.6797, 54.3947],
     coordinates: { lat: 54.3947, lng: 18.6797 },
     description: {
@@ -687,9 +667,8 @@ image: "/poi-images/poland-vistulamouth-fortress-landmarks-v2.webp"
     id: "poland-warsaw-barbican-landmarks-v2",
     parent: "PL",
     type: "monument",
-    name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican",
-image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"
-},
+    name: { de: "Warschauer Barbakane", hu: "Varsói Barbakán", ro: "Barbicana din Varșovia", en: "Warsaw Barbican"},
+    image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp",
     coords: [21.0103, 52.2503],
     coordinates: { lat: 52.2503, lng: 21.0103 },
     description: {
@@ -721,9 +700,8 @@ image: "/poi-images/poland-warsaw-barbican-landmarks-v2.webp"
     id: "poland-szczecin-cathedral-landmarks-v2",
     parent: "PL",
     type: "cathedral",
-    name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin",
-image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp"
-},
+    name: { de: "Jakobskathedrale Stettin", hu: "Szent Jakab-székesegyház (Szczecin)", ro: "Catedrala Sfântul Iacob din Szczecin", en: "St. James' Cathedral in Szczecin"},
+    image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp",
     coords: [14.5556, 53.4247],
     coordinates: { lat: 53.4247, lng: 14.5556 },
     description: {
@@ -756,9 +734,8 @@ image: "/poi-images/poland-szczecin-cathedral-landmarks-v2.webp"
     id: "poland-branicki-palace-landmarks-v2",
     parent: "PL",
     type: "palace",
-    name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace",
-image: "/poi-images/poland-branicki-palace-landmarks-v2.webp"
-},
+    name: { de: "Branicki-Palast", hu: "Branicki-palota", ro: "Palatul Branicki", en: "Branicki Palace"},
+    image: "/poi-images/poland-branicki-palace-landmarks-v2.webp",
     coords: [23.1651, 53.1302],
     coordinates: { lat: 53.1302, lng: 23.1651 },
     description: {
@@ -774,14 +751,25 @@ image: "/poi-images/poland-branicki-palace-landmarks-v2.webp"
       en: ["Built in the 18th century", "Former seat of the Branicki family", "9.7 hectares of gardens", "Home to the Medical University"],
     },
     imageHint: "Branicki Palace in Bialystok and gardens",
+    descriptionAdvanced: {
+      de: "Das Versaille von Polen in Białystok ist eine der am besten erhaltenen sächsischen Magnatenresidenzen des Spätbarock mit prächtigen französischen Gärten und Pavillons.",
+      hu: "A białystoki Branicki-palota a 18. századi lengyel főúri pompa jelképe, melynek kertjei és homlokzata a francia Versailles mintáját követik az északkeleti végeken.",
+      ro: "Palatul Branicki din Białystok reprezintă o capodoperă a barocului târziu, fiind supranumit Versailles-ul Poloniei datorită arhitecturii sale simetrice și grădinilor vaste.",
+      en: "This late Baroque residence in Białystok was built in the 18th century for Hetman Jan Klemens Branicki, featuring a grand courtyard and sophisticated geometric gardens.",
+    },
+    factsAdvanced: {
+      de: ["Baubeginn der barocken Form im Jahr 1728", "Die Gartenanlage umfasst etwa 9,7 Hektar", "Im Jahr 1944 zu fast 70 Prozent zerstört", "Wiederaufbau in der Nachkriegszeit bis 1960", "Sitz der Medizinischen Universität Białystok", "Beherbergt wertvolle Skulpturen von Redler"],
+      hu: ["1728-ban kezdték el a barokk átépítést", "A park területe meghaladja a 9 hektárt", "A II. világháború alatt súlyosan megrongálódott", "A rekonstrukció az 1950-es években zajlott", "Ma a Białystoki Orvostudományi Egyetem székhelye", "Jan Klemens Branicki hetman fő rezidenciája volt"],
+      ro: ["Construcția actuală a început în anul 1728", "Suprafața grădinilor este de circa 9,7 hectare", "Complexul a fost distrus în proporție de 70% în 1944", "Restaurarea completă a fost finalizată în 1960", "Găzduiește în prezent Universitatea de Medicină", "Include o poartă monumentală numită Gryf"],
+      en: ["Baroque reconstruction started in 1728", "Gardens cover an area of 9.7 hectares", "The palace was 70% destroyed in 1944", "Full restoration was completed by 1960", "Currently serves as the Medical University seat", "Features sculptures by Jan Chryzostom Redler"],
+    },
   },
   {
     id: "poland-baranow-sandomierski-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle",
-image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Baranów Sandomierski", hu: "Baranów sandomierski-i várkastély", ro: "Castelul Baranów Sandomierski", en: "Baranow Sandomierski Castle"},
+    image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp",
     coords: [21.5342, 50.4994],
     coordinates: { lat: 50.4994, lng: 21.5342 },
     description: {
@@ -797,14 +785,26 @@ image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"
       en: ["Built between 1591 and 1606", "Designed by Santi Gucci", "Courtyard with magnificent cloisters", "Surrounded by a 2.5-hectare park"],
     },
     imageHint: "Baranow Sandomierski Castle courtyard cloisters",
-    image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp"},
+    image: "/poi-images/poland-baranow-sandomierski-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Dieses als Kleiner Wawel bekannte Renaissanceschloss besticht durch seinen arkadengefüllten Innenhof und die Architektur von Santi Gucci aus dem späten 16. Jahrhundert.",
+      hu: "A Kis-Wawelnek nevezett baranów sandomierski kastély a késő reneszánsz építészet remeke, melynek oszlopos udvara a krakkói királyi vár eleganciáját idézi fel.",
+      ro: "Castelul din Baranów Sandomierski este un exemplu strălucit de arhitectură manieristă, remarcându-se prin curtea sa interioară cu arcade duble și decorațiunile bogate.",
+      en: "Often called Little Wawel, this 16th-century Mannerist castle features a stunning arcaded courtyard and was a primary residence for the influential Leszczyński family.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut zwischen 1591 und 1606 für die Leszczyńskis", "Entworfen vom italienischen Architekten Santi Gucci", "Verfügt über vier markante Ecktürme", "Großer Brand im Jahr 1898 beschädigte das Schloss", "Umfassende Restaurierung nach dem Jahr 1945", "Beherbergt heute ein Museum und ein Hotel"],
+      hu: ["1591 és 1606 között épült reneszánsz stílusban", "A Leszczyński család egyik legfontosabb székhelye", "Santi Gucci olasz építész tervezte a várat", "Az udvar árkádjai a krakkói Wawelt mintázzák", "1898-ban egy tűzvész pusztította el a belsőteret", "A 20. század második felében teljesen felújították"],
+      ro: ["Construit între anii 1591 și 1606", "Arhitectul principal a fost italianul Santi Gucci", "Are patru turnuri de colț cu acoperișuri baroce", "A aparținut familiei Leszczyński timp de un secol", "Incendiul din 1898 a distrus majoritatea decorului", "Curtea interioară are arcade pe două niveluri"],
+      en: ["Built between 1591 and 1606 for the Leszczyńskis", "Designed by the famous architect Santi Gucci", "Features a distinctive two-story arcaded courtyard", "The castle has four cylindrical corner towers", "Severely damaged by fires in 1849 and 1898", "Fully restored to its former glory after 1945"],
+    },
+  },
   {
     id: "poland-swidnica-church-peace-landmarks-v2",
     parent: "PL",
     type: "church",
-    name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica",
-image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"
-},
+    name: { de: "Friedenskirche Świdnica", hu: "Świdnicai béketemplom", ro: "Biserica Păcii din Świdnica", en: "Church of Peace in Świdnica"},
+    image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp",
     coords: [16.4913, 50.8465],
     coordinates: { lat: 50.8465, lng: 16.4913 },
     description: {
@@ -820,14 +820,26 @@ image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"
       en: ["Completed in the year 1657", "Built without using metal nails", "Accommodates up to 7500 people", "UNESCO World Heritage since 2001"],
     },
     imageHint: "Church of Peace in Swidnica interior baroque",
-    image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp"},
+    image: "/poi-images/poland-swidnica-church-peace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Friedenskirche in Świdnica ist eines der bedeutendsten protestantischen Sakralbauten Europas und Teil des UNESCO-Weltkulturerbes. Sie wurde 1656–1658 nach dem Westfälischen Frieden als Notkirche aus Holz und Lehm errichtet, da die protestantische Gemeinde keine steinernen Kirchen bauen durfte. Das Gotteshaus bietet Platz für 7.500 Menschen und beeindruckt durch seine barocke Innenausstattung mit einer prachtvollen Orgel von 1666. Die Kirche ist ein Symbol religiöser Toleranz und der handwerklichen Kunst des 17. Jahrhunderts. Sie verfügt über eine einzigartige Konstruktion aus Holzfachwerk.",
+      hu: "A Świdnicai Béke Temploma az UNESCO világörökség része, Európa legnagyobb fakazettás temploma. 1656–1658 között épült a vesztfáliai béke után, amikor a protestánsok csak fából és vályogból építhettek templomot. A barokk belső tér 7500 férőhelyes, a mennyezetet gazdag festmények díszítik. Az 1666-ban készült orgona hangszerei között 60 regiszter található. A templom a sziléziai tolerancia és a faépítészet remeke. A harangtorony 50 méter magas, és 1669-ben épült.",
+      ro: "Biserica Păcii din Świdnica este una dintre cele mai mari biserici de lemn din Europa, inclusă în Patrimoniul Mondial UNESCO. Construită între 1656 și 1658 din lemn și lut, după Pacea Westfalică, a fost singura biserică protestantă permisă în Silezia catolică. Interiorul baroc poate găzdui 7.500 de persoane, cu un altar sculptat și o orgă magnifică din 1666. Turnul clopotniță, adăugat în 1669, are 50 m înălțime. Biserica simbolizează toleranța religioasă și ingeniozitatea arhitecturală a secolului al XVII-lea.",
+      en: "The Church of Peace in Świdnica is a UNESCO World Heritage site and the largest timber-framed religious building in Europe. Built between 1656 and 1658 using wood and clay due to restrictions on Protestant construction after the Peace of Westphalia, it seats 7,500 people. Its Baroque interior features a 1666 organ with 60 stops, intricate paintings, and a pulpit carved by local masters. The bell tower, added in 1669, stands 50 meters high. The church is a testament to religious tolerance and Baroque craftsmanship.",
+    },
+    factsAdvanced: {
+      de: ["Die Kirche wurde 1656–1658 aus Holz und Lehm erbaut.", "Sie bietet Platz für 7.500 Menschen.", "Die Orgel wurde 1666 von Gottfried Anders gebaut und hat 60 Register.", "Der Kirchturm wurde 1669 errichtet und ist 50 Meter hoch.", "Die Kirche ist Teil des UNESCO-Weltkulturerbes seit 2001.", "Die Baukosten betrugen 12.000 Taler."],
+      hu: ["A templom 1656–1658 között épült fából és vályogból.", "Kapacitása 7500 fő, ebből 3500 ülőhely.", "Az orgonát 1666-ban építette Gottfried Anders, 60 regiszteres.", "A harangtorony 1669-ben készült el, magassága 50 m.", "2001 óta az UNESCO világörökség része.", "Az építési költség 12 000 tallér volt."],
+      ro: ["Biserica a fost construită între 1656 și 1658 din lemn și lut.", "Are o capacitate de 7.500 de persoane, dintre care 3.500 pe scaune.", "Orga construită de Gottfried Anders în 1666 are 60 de registre.", "Turnul clopotniță, înalt de 50 m, a fost adăugat în 1669.", "A fost inclusă în Patrimoniul Mondial UNESCO în 2001.", "Costul construcției a fost de 12.000 de taleri."],
+      en: ["The church was built 1656–1658 using wood and clay.", "It accommodates 7,500 people, with 3,500 seats.", "The organ built by Gottfried Anders in 1666 has 60 stops.", "The bell tower, completed in 1669, is 50 meters tall.", "It became a UNESCO World Heritage site in 2001.", "Construction cost was 12,000 thalers."],
+    },
+  },
   {
     id: "poland-lidzbark-warminski-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle",
-image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"
-},
+    name: { de: "Burg Heilsberg", hu: "Lidzbark Warmiński vára", ro: "Castelul Lidzbark Warmiński", en: "Lidzbark Warminski Castle"},
+    image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp",
     coords: [20.5825, 54.1265],
     coordinates: { lat: 54.1265, lng: 20.5825 },
     description: {
@@ -843,14 +855,26 @@ image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"
       en: ["Built between 1350 and 1401", "Copernicus lived here (1503-1510)", "Square floor plan with courtyard", "14th-century Gothic frescoes"],
     },
     imageHint: "Lidzbark Warminski Castle gothic brick exterior",
-    image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp"},
+    image: "/poi-images/poland-lidzbark-warminski-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Burg in Lidzbark Warmiński ist ein herausragendes Beispiel gotischer Backsteinarchitektur im Ermland. Sie wurde 1350–1401 als Sitz der ermländischen Bischöfe errichtet. Die Anlage besteht aus vier Flügeln um einen rechteckigen Innenhof, mit einem 45 Meter hohen Turm. Im 18. Jahrhundert im Barock umgestaltet, beherbergt sie heute ein Museum mit Kunstschätzen. Die Burg war Schauplatz wichtiger historischer Ereignisse, darunter Friedensverhandlungen 1411. Der Kapitelsaal mit gotischem Sterngewölbe und die Kapelle sind besonders sehenswert.",
+      hu: "A lidzbark warmiński püspökvár a gótikus téglaépítészet egyik kiemelkedő példája Kelet-Európában. 1350–1401 között épült a warmiai püspökök rezidenciájaként. A négyszárnyú, belső udvaros vár egyik sarkában 45 méteres torony magasodik. A 18. századi barokk átépítés során dísztermek és freskók készültek. A várban 1946 óta múzeum működik, amely gótikus és barokk műtárgyakat mutat be. Történelmi jelentőségét az 1411-es béketárgyalások is emelik.",
+      ro: "Castelul din Lidzbark Warmiński este un exemplu remarcabil de arhitectură gotică din cărămidă, construit între 1350 și 1401 ca reședință a episcopilor de Warmia. Are un plan patrulater cu curte interioară și un turn de 45 m înălțime. În secolul al XVIII-lea a fost remodelat în stil baroc. Astăzi găzduiește un muzeu cu colecții de artă religioasă și istorică. Aici au avut loc negocieri de pace în 1411. Sala capitulară cu boltă stelată și capela gotică sunt puncte de interes major.",
+      en: "Lidzbark Warmiński Castle is a prime example of Gothic brick architecture in Poland, built from 1350 to 1401 as the seat of the Bishops of Warmia. The four-wing structure surrounds a courtyard, with a 45-meter tower. Baroque modifications in the 18th century added ornate interiors. Now a museum, it displays Gothic and Baroque art. The castle hosted important peace negotiations in 1411. The chapter house with its star vault and the Gothic chapel are highlights.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau der Burg begann 1350 und wurde 1401 abgeschlossen.", "Der Hauptturm ist 45 Meter hoch.", "Die Burg hat einen rechteckigen Grundriss von 56 mal 48 Metern.", "Im 18. Jahrhundert wurden barocke Elemente hinzugefügt.", "Die Burg war ab 1901 ein Museum.", "1411 fanden hier Verhandlungen zum Thorner Frieden statt."],
+      hu: ["A várat 1350–1401 között építették gótikus stílusban.", "A torony magassága 45 méter.", "A vár alaprajza 56x48 méteres négyszög.", "A barokk átépítés 18. századi, a belső terek freskókat kaptak.", "1901 óta múzeumként szolgál.", "1411-ben béketárgyalások helyszíne volt."],
+      ro: ["Construcția castelului a început în 1350 și s-a finalizat în 1401.", "Turnul principal are 45 m înălțime.", "Planul castelului este un dreptunghi de 56 x 48 m.", "Modificările baroce datează din secolul al XVIII-lea.", "Muzeul funcționează din 1901.", "În 1411 aici au avut loc negocieri pentru Pacea de la Toruń."],
+      en: ["Construction began in 1350 and finished in 1401.", "The main tower is 45 meters high.", "The castle layout is a rectangle measuring 56 by 48 meters.", "Baroque modifications date from the 18th century.", "The castle has been a museum since 1901.", "Peace negotiations of Thorn took place here in 1411."],
+    },
+  },
   {
     id: "poland-krasiczyn-castle-landmarks-v2",
     parent: "PL",
     type: "castle",
-    name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle",
-image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Krasiczyn", hu: "Krasiczyni várkastély", ro: "Castelul Krasiczyn", en: "Krasiczyn Castle"},
+    image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp",
     coords: [22.6502, 49.7766],
     coordinates: { lat: 49.7766, lng: 22.6502 },
     description: {
@@ -866,14 +890,26 @@ image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"
       en: ["Built between 1580 and 1631", "7000 sqm of sgraffito decoration", "Four distinct corner towers", "14.5-hectare landscape park"],
     },
     imageHint: "Krasiczyn Castle towers and sgraffito walls",
-    image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp"},
+    image: "/poi-images/poland-krasiczyn-castle-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Schloss Krasiczyn ist ein architektonisches Juwel der Spätrenaissance in Polen, erbaut 1580–1633 für die Adelsfamilie Krasicki. Die Anlage vereint Merkmale einer Burg und einer Residenz mit vier Flügeln und fünf Ecktürmen. Die Fassaden sind reich mit Sgraffito-Dekorationen verziert, die biblische und mythologische Szenen darstellen. Im Inneren befinden sich prächtige Säle mit Stuckarbeiten und Kaminen. Der Schlosspark umfasst 12 Hektar. Das Schloss überstand Kriege und Brände und wurde im 20. Jahrhundert restauriert.",
+      hu: "A krasiczyni kastély a lengyel reneszánsz egyik legszebb példája, 1580–1633 között épült a Krasicki család számára. Négyszárnyas épület öt tornyával és sgraffito díszítésű homlokzatával lenyűgöző. A belső terekben reneszánsz stukkók és kandallók találhatók. A kastélyt 12 hektáros park övezi. Története során túlélte a háborúkat; a második világháború után államosították, majd az 1990-es években magántulajdonba került és felújították.",
+      ro: "Castelul Krasiczyn este o capodoperă a Renașterii târzii în Polonia, construit între 1580 și 1633 pentru familia Krasicki. Are un plan patrulater cu cinci turnuri de colț și fațade decorate cu sgraffito reprezentând scene biblice. Interioarele păstrează stucaturi și seminee renascentiste. Parcul castelului se întinde pe 12 hectare. După al Doilea Război Mondial a fost naționalizat, iar din 1990 a fost restaurat și redat funcțiunii de muzeu și hotel.",
+      en: "Krasiczyn Castle is a masterpiece of Late Renaissance architecture in Poland, built between 1580 and 1633 for the Krasicki noble family. The four-wing structure features five corner towers and elaborate sgraffito decorations on its facades, depicting biblical and mythological scenes. Inside, Renaissance stuccoes and fireplaces adorn the halls. The castle is surrounded by a 12-hectare park. After WWII it was nationalized, but since the 1990s it has been restored and serves as a museum and hotel.",
+    },
+    factsAdvanced: {
+      de: ["Der Bau dauerte von 1580 bis 1633.", "Das Schloss hat fünf Ecktürme.", "Die Sgraffito-Dekorationen bedecken eine Fläche von über 1.000 Quadratmetern.", "Der Schlosspark ist 12 Hektar groß.", "Das Schloss wurde 1993–2004 umfassend restauriert.", "Es beherbergt 15 Prunkräume."],
+      hu: ["Építése 1580-tól 1633-ig tartott.", "A kastélynak öt tornya van.", "A sgraffito díszítések 1000 négyzetméternél is nagyobb felületet fednek.", "A park 12 hektáros.", "1993–2004 között teljesen felújították.", "15 reprezentatív termet tartalmaz."],
+      ro: ["Construcția a durat din 1580 până în 1633.", "Castelul are cinci turnuri de colț.", "Decorațiile sgraffito acoperă peste 1.000 m².", "Parcul castelului are 12 hectare.", "A fost restaurat complet între 1993 și 2004.", "Conține 15 săli de paradă."],
+      en: ["Construction lasted from 1580 to 1633.", "The castle has five corner towers.", "Sgraffito decorations cover over 1,000 square meters.", "The park surrounding the castle is 12 hectares.", "Full restoration took place between 1993 and 2004.", "It houses 15 state rooms."],
+    },
+  },
   {
     id: "poland-rogalin-palace-landmarks-v2",
     parent: "PL",
     type: "palace",
-    name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace",
-image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"
-},
+    name: { de: "Palais Rogalin", hu: "Rogalini palota", ro: "Palatul Rogalin", en: "Rogalin Palace"},
+    image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp",
     coords: [16.9312, 52.2345],
     coordinates: { lat: 52.2345, lng: 16.9312 },
     description: {
@@ -889,14 +925,26 @@ image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"
       en: ["Built between 1770 and 1776", "Seat of the Raczyński family", "Nearly 2000 ancient oak trees", "Notable painting gallery on site"],
     },
     imageHint: "Rogalin Palace facade and old oaks",
-    image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp"},
+    image: "/poi-images/poland-rogalin-palace-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rogalin Palais in der Woiwodschaft Großpolen, Polen, ist ein barockes Herrenhaus aus dem 18. Jahrhundert, das von der Familie Raczyński erbaut wurde. Es liegt in einem malerischen Landschaftspark an der Warthe. Das Palais beherbergt eine bedeutende Kunstsammlung, darunter Werke von Jacek Malczewski und Stanisław Wyspiański. Berühmt sind auch die monumentalen Eichen im Park, von denen einige über 700 Jahre alt sind. Die Anlage war ein Treffpunkt polnischer Aristokratie und Künstler im 19. Jahrhundert.",
+      hu: "A rogalin-i kastély Nagy-Lengyelország vajdaságban, Lengyelországban, egy barokk stílusú kúria a 18. századból, amelyet a Raczyński család építtetett. A Warta folyó mellett festői tájparkban található. A kastély jelentős műgyűjteményt őriz, köztük Jacek Malczewski és Stanisław Wyspiański alkotásait. Híresek a park monumentális tölgyfái is, amelyek közül néhány több mint 700 éves. Az együttes a lengyel arisztokrácia és művészek találkozóhelye volt a 19. században.",
+      ro: "Palatul Rogalin din voievodatul Polonia Mare, Polonia, este un conac baroc din secolul al XVIII-lea, construit de familia Raczyński. Este situat într-un parc peisagistic pitoresc, pe malul râului Warta. Palatul găzduiește o colecție de artă semnificativă, inclusiv opere de Jacek Malczewski și Stanisław Wyspiański. Sunt renumiți și stejarii monumentali din parc, unii având peste 700 de ani. Ansamblul a fost un loc de întâlnire al aristocrației și artiștilor polonezi în secolul al XIX-lea.",
+      en: "Rogalin Palace in Greater Poland Voivodeship, Poland, is a Baroque manor house from the 18th century built by the Raczyński family. It lies in a picturesque landscape park on the Warta River. The palace houses a significant art collection, including works by Jacek Malczewski and Stanisław Wyspiański. The park's monumental oaks are famous, some over 700 years old. The estate was a meeting place for Polish aristocracy and artists in the 19th century.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1768", "Architekt: Jan Christian Kamsetzer", "Parkfläche: 12 ha", "Älteste Eiche: 700 Jahre", "Gemäldesammlung: 300 Werke", "Einwohner Rogalin: 500"],
+      hu: ["Építés éve: 1768", "Építész: Jan Christian Kamsetzer", "Park területe: 12 ha", "Legidősebb tölgy: 700 éves", "Festménygyűjtemény: 300 darab", "Rogalin lakossága: 500"],
+      ro: ["Anul construirii: 1768", "Arhitect: Jan Christian Kamsetzer", "Suprafața parcului: 12 ha", "Cel mai bătrân stejar: 700 ani", "Colecția de picturi: 300 de lucrări", "Populația Rogalin: 500"],
+      en: ["Year built: 1768", "Architect: Jan Christian Kamsetzer", "Park area: 12 ha", "Oldest oak: 700 years", "Painting collection: 300 works", "Rogalin population: 500"],
+    },
+  },
   {
     id: "poland-solidarity-centre-landmarks-v2",
     parent: "PL",
     type: "museum",
-    name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre",
-image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"
-},
+    name: { de: "Europäisches Zentrum der Solidarność", hu: "Európai Szolidaritás Központ", ro: "Centrul European de Solidaritate", en: "European Solidarity Centre"},
+    image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp",
     coords: [18.6493, 54.3606],
     coordinates: { lat: 54.3606, lng: 18.6493 },
     description: {
@@ -912,14 +960,26 @@ image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"
       en: ["Opened in the year 2014", "25,000 square meters of space", "Located near the Gdańsk Shipyard", "2016 Council of Europe Museum Prize"],
     },
     imageHint: "European Solidarity Centre Gdansk building exterior",
-    image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp"},
+    image: "/poi-images/poland-solidarity-centre-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Museum in Danzig erinnert an den Sieg der Gewerkschaft Solidarność über den Kommunismus und beeindruckt durch seine Fassade aus rostbraunem Cor-Ten-Stahl.",
+      hu: "A gdański hajógyár szomszédságában álló központ a lengyel rendszerváltás és a Solidarność mozgalom történetét mutatja be egy modern, rozsdás acélburkolatú épületben.",
+      ro: "Centrul European al Solidarității din Gdańsk este un simbol al luptei anticomuniste, găzduit într-o clădire modernă a cărei formă amintește de carena unei nave.",
+      en: "Located near the historic shipyard gates, this museum honors the trade union movement that ended communist rule in Poland, featuring industrial-inspired architecture.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 31. August 2014 zum Jubiläum", "Baukosten beliefen sich auf ca. 229 Millionen PLN", "Gesamtfläche des Gebäudes beträgt 25.000 m2", "Die Fassade besteht aus 4.000 Tonnen Cor-Ten-Stahl", "Dauerausstellung umfasst 7 thematische Säle", "Befindet sich direkt neben dem Denkmal der Werftarbeiter"],
+      hu: ["2014. augusztus 31-én nyitotta meg kapuit", "A beruházás költsége 229 millió zloty volt", "Az épület alapterülete eléri a 25 000 négyzetmétert", "A külső borítást 4000 tonna rozsdás acél alkotja", "7 állandó kiállítási terem mutatja be a történelmet", "Könyvtára több mint 45 000 kötetet őriz"],
+      ro: ["Inaugurat oficial pe 31 august 2014", "Costul construcției a fost de 229 milioane PLN", "Suprafața totală utilă este de 25.000 m2", "Fațada folosește 4.000 de tone de oțel Cor-Ten", "Include 7 săli de expoziție permanentă", "Găzduiește biroul fostului președinte Lech Wałęsa"],
+      en: ["Opened on August 31, 2014, for the anniversary", "The construction cost was 229 million PLN", "Total floor area spans 25,000 square meters", "Façade is made of 4,000 tons of rusted Cor-Ten steel", "Features 7 themed permanent exhibition halls", "Library contains over 45,000 historical books"],
+    },
+  },
   {
     id: "poland-wroclaw-town-hall-landmarks-v2",
     parent: "PL",
     type: "landmark",
-    name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall",
-image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Altes Rathaus Breslau", hu: "Wrocław-i városháza", ro: "Primăria Veche din Wrocław", en: "Wroclaw Old Town Hall"},
+    image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp",
     coords: [17.0322, 51.1095],
     coordinates: { lat: 51.1095, lng: 17.0322 },
     description: {
@@ -935,5 +995,17 @@ image: "/poi-images/poland-wroclaw-town-hall-landmarks-v2.webp"
       en: ["Built between 13th-16th centuries", "66-meter high town hall tower", "Astronomical clock from 1580", "Houses the City Museum"],
     },
     imageHint: "Wroclaw Old Town Hall market square facade",
+    descriptionAdvanced: {
+      de: "Das spätgotische Rathaus am Marktplatz von Breslau ist eines der Wahrzeichen der Stadt und beherbergt die Piwnica Świdnicka, eine der ältesten Gaststätten Europas.",
+      hu: "Wrocław főterének ékköve a gótikus városháza, melynek díszes homlokzata és csillagászati órája a középkori kereskedőváros gazdagságát hirdeti.",
+      ro: "Vechea Primărie din Wrocław este un monument gotic impresionant situat în piața centrală, faimos pentru ceasul său astronomic din 1580 și pivnițele istorice.",
+      en: "Dominating the Market Square, this 13th-century Gothic masterpiece evolved over 250 years, featuring intricate stone carvings and a historic 66-meter high tower.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut in verschiedenen Phasen von 1299 bis 1504", "Der Rathausturm hat eine Höhe von 66 Metern", "Die astronomische Uhr stammt aus dem Jahr 1580", "Beherbergt die Piwnica Świdnicka, gegründet 1273", "Sitz des städtischen Kunstmuseums von Breslau", "Verfügt über drei prachtvolle östliche Giebel"],
+      hu: ["A városháza 1299 és 1504 között épült fokozatosan", "A központi torony magassága pontosan 66 méter", "Csillagászati órája 1580-ban készült el", "A pincében működik az 1273-ban alapított étterem", "Jelenleg a Városi Művészeti Múzeumnak ad otthont", "Keleti homlokzatát három gazdagon díszített oromzat uralja"],
+      ro: ["Construcția s-a desfășurat între 1299 și 1504", "Turnul primăriei măsoară 66 de metri înălțime", "Ceasul astronomic a fost instalat în anul 1580", "Include Piwnica Świdnicka, deschisă din 1273", "Adăpostește Muzeul de Artă Orășenească", "Are fațade bogat ornamentate cu sculpturi în piatră"],
+      en: ["Constructed in stages between 1299 and 1504", "The town hall tower stands 66 meters tall", "Features a famous astronomical clock from 1580", "Home to Piwnica Świdnicka, founded in 1273", "Now houses the Museum of City Art", "The roof features three decorative eastern gables"],
+    },
   }
 ];

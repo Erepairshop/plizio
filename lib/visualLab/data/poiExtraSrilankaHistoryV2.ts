@@ -6,301 +6,539 @@ export const poiExtraSrilankaHistoryV2: POI[] = [
     type: "ruin",
     parent: "LK-21",
     coords: [80.7597, 7.9570],
-    name: { de: "Sigiriya Felsenfestung", hu: "Sigiriya sziklaerőd", ro: "Fortăreața de piatră Sigiriya", en: "Sigiriya Rock Fortress",
-image: "/poi-images/sigiriya-history-v2.webp"
-},
+    name: { de: "Sigiriya Felsenfestung", hu: "Sigiriya sziklaerőd", ro: "Fortăreața de piatră Sigiriya", en: "Sigiriya Rock Fortress"},
+    image: "/poi-images/sigiriya-history-v2.webp",
     description: { de: "Eine alte Felsenfestung und Palastruine, die für ihre Fresken berühmt ist.", hu: "Egy ősi sziklaerőd és palotarom, amely a freskóiról híres.", ro: "O veche fortăreață stâncoasă și ruine de palat, faimoasă pentru frescele sale.", en: "An ancient rock fortress and palace ruin renowned for its frescoes." },
     facts: {
       de: ["Im 5. Jahrhundert erbaut.", "UNESCO-Weltkulturerbe."],
       hu: ["Az 5. században épült.", "UNESCO Világörökség része."],
       ro: ["Construită în secolul al V-lea.", "Sit al Patrimoniului Mondial UNESCO."],
       en: ["Built in the 5th century.", "UNESCO World Heritage Site."]
-    }, image: "/poi-images/sigiriya-history-v2.webp"},
+    }, image: "/poi-images/sigiriya-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Sigiriya, auch bekannt als Löwenfelsen, ist ein UNESCO-Weltkulturerbe in der Zentralprovinz Sri Lankas. Die Festung wurde im 5. Jahrhundert n. Chr. von König Kasyapa erbaut. Sie ist berühmt für ihre Fresken, die als die schönsten Asiens gelten, ihre Wassergärten und die gigantische Löwentatze am Eingang. Der Felsen ragt 200 Meter über die umliegende Ebene. Sigiriya ist ein Meisterwerk der Stadtplanung und Architektur. Die Stätte zieht jährlich über eine Million Touristen an. Sie ist ein Symbol für die srilankische Kultur und Geschichte.",
+      hu: "Sigiriya, más néven Oroszlán-szikla, az UNESCO Világörökség része Srí Lanka Középső Tartományában. Az erődöt Kasyapa király építette az 5. században. Híres freskóiról, amelyek Ázsia legszebbjei közé tartoznak, vízkertjeiről és a bejáratnál lévő hatalmas oroszlánmancsról. A szikla 200 méterrel magasodik a síkság fölé. Várostervezés és építészet remeke. Évente egymillió turista keresi fel. Srí Lanka kultúrájának és történelmének szimbóluma.",
+      ro: "Sigiriya, cunoscută și sub numele de Stânca Leului, este un sit al Patrimoniului Mondial UNESCO în provincia centrală a Sri Lankă. Fortăreața a fost construită în secolul al V-lea de regele Kasyapa. Este renumită pentru frescele sale, considerate printre cele mai frumoase din Asia, grădinile sale cu apă și laba de leu gigantică de la intrare. Stânca se înalță la 200 de metri deasupra câmpiei. Este o capodoperă de planificare urbană. Atrage peste un milion de turiști anual. Simbol al culturii și istoriei srilankeze.",
+      en: "Sigiriya, or Lion Rock, is an ancient rock fortress and UNESCO World Heritage site in Sri Lanka's Central Province. Built in the 5th century AD by King Kasyapa, it served as a royal palace and fortified city. The site features sophisticated water gardens, mirror walls, and stunning frescoes of celestial maidens. The rock rises 200 meters above the surrounding plains. Sigiriya is considered one of the best-preserved examples of ancient urban planning. It attracts over 1 million visitors annually. The site also holds archaeological significance, with remains of palaces and temples.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 200 Meter", "Erbaut im 5. Jahrhundert n. Chr.", "UNESCO-Welterbe seit 1982", "Anzahl der Fresken: 21 originale", "Wassergärten: 3 Terrassen", "Jährliche Besucher: 1,2 Millionen"],
+      hu: ["Magasság: 200 m", "Épült: i.sz. 5. század", "UNESCO Világörökség: 1982", "Freskók: 21 eredeti", "Vízkert: 3 szint", "Éves látogatók: 1,2 millió"],
+      ro: ["Înălțime: 200 m", "Construită în secolul V d.Hr.", "Patrimoniu UNESCO din 1982", "Număr de fresce: 21 originale", "Grădini de apă: 3 terase", "Vizitatori anual: 1,2 milioane"],
+      en: ["Height: 200 meters (660 feet)", "Built in the 5th century AD", "UNESCO World Heritage site since 1982", "Number of surviving frescoes: 21", "Water gardens: 3 distinct terraces", "Annual visitors: 1.2 million"],
+    },
+  },
   {
     id: "polonnaruwa-history-v2",
     type: "ruin",
     parent: "LK-71",
     coords: [81.0028, 7.9403],
-    name: { de: "Antike Stadt Polonnaruwa", hu: "Polonnaruwa ősi városa", ro: "Orașul antic Polonnaruwa", en: "Ancient City of Polonnaruwa",
-image: "/poi-images/polonnaruwa-history-v2.webp"
-},
+    name: { de: "Antike Stadt Polonnaruwa", hu: "Polonnaruwa ősi városa", ro: "Orașul antic Polonnaruwa", en: "Ancient City of Polonnaruwa"},
+    image: "/poi-images/polonnaruwa-history-v2.webp",
     description: { de: "Die zweitälteste aller srilankischen Königsstädte mit zahlreichen Tempelruinen.", hu: "Srí Lanka második legrégebbi királyi városa számos templomrommal.", ro: "Al doilea cel mai vechi dintre regatele srilankeze, cu numeroase ruine de temple.", en: "The second most ancient of Sri Lanka's kingdoms with numerous temple ruins." },
     facts: {
       de: ["Blütezeit im 12. Jahrhundert.", "Bekannt für den Gal Vihara."],
       hu: ["Virágkorát a 12. században élte.", "A Gal Vihara kőszobrairól ismert."],
       ro: ["A înflorit în secolul al XII-lea.", "Cunoscut pentru sculpturile Gal Vihara."],
       en: ["Flourished in the 12th century.", "Known for the Gal Vihara rock sculptures."]
-    }, image: "/poi-images/polonnaruwa-history-v2.webp"},
+    }, image: "/poi-images/polonnaruwa-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Polonnaruwa war nach Anuradhapura die zweite Hauptstadt Sri Lankas und blühte vom 11. bis 13. Jahrhundert unter König Vijayabahu I. und Parakramabahu I. Die Ruinenstadt ist bekannt für ihre gut erhaltenen Paläste, Tempel und Stupas, darunter den Gal Vihara mit vier monumentalen Buddha-Statuen, die in Granit gehauen sind. Das Königreich Polonnaruwa kontrollierte den Norden der Insel und trieb intensiven Bewässerungsfeldbau mit riesigen Stauseen wie dem Parakrama Samudra. Der Niedergang der Stadt begann mit Invasionen aus Südindien und der Verlagerung der Macht nach Süden. Die archäologische Stätte wurde 1982 zum UNESCO-Weltkulturerbe erklärt und zeigt eine Mischung aus sinhalesischer und hinduistischer Kunst.",
+      hu: "Polonnaruwa Srí Lanka második királyi fővárosa volt, amely a 11. századtól a 13. századig virágzott. A város építészeti remekei közé tartozik a Téglából épült Királyi Palota, amely egykor hét emelet magas lehetett, és a Lankatilaka-templom, amelynek hatalmas álló Buddha-szobra ma is lenyűgöző. Parakramabahu király uralma alatt a város kiterjedt öntözőrendszert épített ki, amely lehetővé tette a rizstermesztést az aszályos területeken is. Polonnaruwa hanyatlása a 13. században kezdődött, amikor a tamil csapatok többször megtámadták, és a szingaléz királyság délre költözött. A romváros ma is fontos zarándokhely és turisztikai célpont, amelyet 1982-ben vettek fel a Világörökség listájára.",
+      ro: "Polonnaruwa a fost a doua capitală regală a Sri Lankai, înflorind între secolele XI și XIII sub conducerea regilor Vijayabahu I și Parakramabahu I. Orașul este renumit pentru ruinele sale bine conservate, inclusiv Palatul Regal cu săli de audiență și băi regale. Complexul Gal Vihara prezintă patru statui ale lui Buddha sculptate în stâncă de granit, reprezentând capodopere ale artei sinhaleze. Sistemul de irigații din Polonnaruwa, cu rezervoare masive precum Parakrama Samudra, a susținut o populație densă și agricultura intensivă. Declinul a venit odată cu invaziile Chola și mutarea capitalei la Kurunegala. Situl este protejat de UNESCO din 1982 și oferă o imagine a planificării urbane medievale avansate.",
+      en: "Polonnaruwa served as the second capital of Sri Lanka from the 11th to 13th centuries, succeeding Anuradhapura. King Parakramabahu I transformed it into a fortified city with extensive irrigation systems, including the Parakrama Samudra reservoir covering 2,500 hectares. The royal palace complex once rose seven stories high, as described in historical chronicles. The Gal Vihara rock temple features four Buddha images carved from a single granite outcrop, including a 14-meter-long reclining Buddha. Polonnaruwa's economy relied on rice cultivation supported by canals and tanks. After repeated invasions from South India, the kingdom moved to safer regions, leaving the city abandoned. Today, it is a UNESCO World Heritage Site and a key archaeological treasure.",
+    },
+    factsAdvanced: {
+      de: ["Polonnaruwa wurde 1070 n. Chr. von König Vijayabahu I. zur Hauptstadt ernannt.", "Der Parakrama Samudra umfasst eine Fläche von ca. 2.500 Hektar.", "Die Gal-Vihara-Buddhastatuen wurden im 12. Jahrhundert aus Granit gehauen.", "Der Königspalast von Parakramabahu I. war ursprünglich sieben Stockwerke hoch.", "Polonnaruwa war von 993 bis 1070 n. Chr. zeitweise unter Herrschaft der Chola.", "Die Stätte wurde 1982 in die UNESCO-Welterbeliste aufgenommen."],
+      hu: ["Polonnaruwa 1070-től 1236-ig volt Srí Lanka fővárosa.", "A Királyi Palota hétemeletes volt, de ma csak a falmaradványok láthatók.", "A Lankatilaka-templom 17 méter magas téglaboltíve ma is áll.", "Parakramabahu király uralma alatt 165 km hosszú csatornát építettek.", "A város elnéptelenedése a 13. században kezdődött tamil inváziók miatt.", "Polonnaruwa romváros 1982 óta UNESCO Világörökség része."],
+      ro: ["Polonnaruwa a fost capitala între 1070 și 1236 d.Hr.", "Parakrama Samudra este un rezervor artificial care acoperă 2.500 de hectare.", "Statuia lui Buddha întins la Gal Vihara măsoară 14 metri lungime.", "Palatul Regal avea inițial șapte etaje, conform cronicilor.", "Dominația Chola asupra Polonnaruwa a durat din 993 până în 1070.", "Situl a fost declarat patrimoniu UNESCO în 1982."],
+      en: ["Polonnaruwa became capital in 1070 CE under King Vijayabahu I.", "The Parakrama Samudra reservoir has a circumference of about 14 km.", "Gal Vihara includes four Buddha statues carved from a single granite rock.", "The Royal Palace originally stood seven stories high.", "Polonnaruwa was ruled by the Chola dynasty from 993 to 1070 CE.", "It was designated a UNESCO World Heritage Site in 1982."],
+    },
+  },
   {
     id: "anuradhapura-history-v2",
     type: "ruin",
     parent: "LK-71",
     coords: [80.3956, 8.3114],
-    name: { de: "Heilige Stadt Anuradhapura", hu: "Anuradhapura szent városa", ro: "Orașul sacru Anuradhapura", en: "Sacred City of Anuradhapura",
-image: "/poi-images/anuradhapura-history-v2.webp"
-},
+    name: { de: "Heilige Stadt Anuradhapura", hu: "Anuradhapura szent városa", ro: "Orașul sacru Anuradhapura", en: "Sacred City of Anuradhapura"},
+    image: "/poi-images/anuradhapura-history-v2.webp",
     description: { de: "Eine der alten Hauptstädte Sri Lankas, berühmt für ihre gut erhaltenen Ruinen.", hu: "Srí Lanka egyik ősi fővárosa, amely jól karbantartott romjairól híres.", ro: "Una dintre vechile capitale ale Sri Lankăi, faimoasă pentru ruinele sale bine conservate.", en: "One of the ancient capitals of Sri Lanka, famous for its well-preserved ruins." },
     facts: {
       de: ["Gegründet im 4. Jahrhundert v. Chr.", "Heimat des Sri Maha Bodhi Baumes."],
       hu: ["Kr. e. 4. században alapították.", "A Sri Maha Bodhi fa otthona."],
       ro: ["Fondat în secolul al IV-lea î.Hr.", "Adăpostește copacul Sri Maha Bodhi."],
       en: ["Founded in the 4th century BC.", "Home to the Sri Maha Bodhi tree."]
-    }, image: "/poi-images/anuradhapura-history-v2.webp"},
+    }, image: "/poi-images/anuradhapura-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Anuradhapura war über ein Jahrtausend die Hauptstadt des sinhalesischen Königreichs und ist eine der ältesten kontinuierlich bewohnten Städte der Welt. Gegründet im 4. Jahrhundert v. Chr., erreichte die Stadt ihren Höhepunkt ab dem 3. Jahrhundert v. Chr. mit der Einführung des Buddhismus. Die riesigen Stupas wie Ruwanwelisaya und Jetavanaramaya zeugen von der Ingenieurskunst der Antike. Anuradhapura war ein bedeutendes Handelszentrum mit Verbindungen nach China und Rom. Die Stadt verfügte über ein fortschrittliches Bewässerungssystem mit künstlichen Seen wie dem Tissa Wewa. Nach Invasionen aus Südindien wurde die Hauptstadt im 10. Jahrhundert nach Polonnaruwa verlegt. Heute ist die heilige Stadt ein UNESCO-Weltkulturerbe und ein wichtiger Pilgerort.",
+      hu: "Anuradhapura Srí Lanka első nagy királyi fővárosa volt, amelyet a Kr. e. 4. században alapítottak. A város a buddhizmus felvétele után (Kr. e. 3. század) vált vallási központtá, és itt található a Szent Fügefa (Sri Maha Bodhi), amelyet a megvilágosodás fájának egy hajtásából neveltek. Anuradhapura óriási sztúpái, mint a Ruwanwelisaya (55 m magas) és a Jetavanaramaya (70 m), a korai sinhala építészet csúcsát képviselik. Vízgazdálkodási rendszere csatornákkal és tározókkal (pl. Basawakkulam) tette lehetővé a mezőgazdaságot. A város hanyatlása a 10. században kezdődött tamil támadások következtében. Ma zarándokhely és turisztikai célpont, 1982 óta UNESCO világörökségi helyszín.",
+      ro: "Anuradhapura este un oraș sacru din Sri Lanka, care a fost capitala regatului sinhalez timp de peste un mileniu, începând cu secolul IV î.Hr. Introducerea budismului în secolul III î.Hr. a transformat orașul într-un centru religios major. Printre cele mai importante monumente se numără stupa Ruwanwelisaya, cu o înălțime de 55 m, și stupa Jetavanaramaya, care la construcție a fost cea mai înaltă structură de cărămidă din lume cu 70 m. Orașul avea un sistem avansat de irigații, cu rezervoare precum Tissa Wewa. Anuradhapura a fost abandonată ca capitală în jurul anului 1017 d.Hr., după invazii chola. În prezent, este un sit UNESCO (1982) și un important loc de pelerinaj budist.",
+      en: "Anuradhapura was the first major capital of Sri Lanka, founded in the 4th century BCE. It became a major Buddhist center after the arrival of Buddhism in the 3rd century BCE, housing the sacred Sri Maha Bodhi tree, a sapling from the Bodhi tree under which Buddha attained enlightenment. The city's colossal stupas, such as Jetavanaramaya (70 m high), were among the tallest brick structures of the ancient world. Anuradhapura had a sophisticated irrigation system with reservoirs like Abhaya Wewa, enabling rice cultivation. The city declined after repeated Chola invasions and was abandoned as capital in 1017 CE. Today, it is a UNESCO World Heritage Site and a living pilgrimage city.",
+    },
+    factsAdvanced: {
+      de: ["Anuradhapura wurde im 4. Jahrhundert v. Chr. gegründet.", "Der Jetavanaramaya-Stupa hat eine Höhe von 70 Metern.", "Der Sri Maha Bodhi-Baum wurde im 3. Jahrhundert v. Chr. gepflanzt.", "Das Tissa Wewa-Reservoir wurde im 3. Jahrhundert v. Chr. erbaut.", "Anuradhapura war von 377 v. Chr. bis 1017 n. Chr. Hauptstadt.", "Die Stätte wurde 1982 zum UNESCO-Weltkulturerbe erklärt."],
+      hu: ["Anuradhapura a Kr. e. 4. századtól a Kr. u. 11. századig volt lakott.", "A Jetavanaramaya sztúpa 70 méter magas, és egykor a világ legmagasabb téglaszerkezete volt.", "A Sri Maha Bodhi fa több mint 2300 éves.", "A Ruwanwelisaya sztúpát Kr. u. 140 körül építették.", "A város vízellátását 16 tározó biztosította.", "A város 10. századi hanyatlása után a királyi udvar Polonnaruwa-ba költözött."],
+      ro: ["Anuradhapura a fost fondată în secolul IV î.Hr.", "Stupa Jetavanaramaya atinge 70 m înălțime.", "Sri Maha Bodhi este un arbore plantat în anul 288 î.Hr.", "Rezervorul Tissa Wewa a fost construit în secolul III î.Hr.", "Orașul a fost capitală timp de 1.400 de ani.", "Anuradhapura este sit UNESCO din 1982."],
+      en: ["Anuradhapura was founded in the 4th century BCE.", "Jetavanaramaya stupa is 70 m high, made of brick.", "Sri Maha Bodhi tree was planted in 288 BCE.", "Ruwanwelisaya stupa has a diameter of 90 m.", "The city had 16 major reservoirs for irrigation.", "Anuradhapura was abandoned as capital in 1017 CE."],
+    },
+  },
   {
     id: "tooth-relic-temple-history-v2",
     type: "historical-site",
     parent: "LK-21",
     coords: [80.6415, 7.2936],
-    name: { de: "Zahntempel", hu: "Szent Fog Temploma", ro: "Templul Dintelui Sacru", en: "Temple of the Sacred Tooth Relic",
-image: "/poi-images/tooth-relic-temple-history-v2.webp"
-},
+    name: { de: "Zahntempel", hu: "Szent Fog Temploma", ro: "Templul Dintelui Sacru", en: "Temple of the Sacred Tooth Relic"},
+    image: "/poi-images/tooth-relic-temple-history-v2.webp",
     description: { de: "Ein buddhistischer Tempel in Kandy, der die Reliquie des Zahns Buddhas beherbergt.", hu: "Buddhista templom Kandyben, amely Buddha fogereklyéjét őrzi.", ro: "Un templu budist din Kandy care adăpostește relicva dintelui lui Buddha.", en: "A Buddhist temple in Kandy housing the relic of the tooth of the Buddha." },
     facts: {
       de: ["Befindet sich im königlichen Palastkomplex.", "Wichtiger Pilgerort."],
       hu: ["A királyi palotakomplexumban található.", "Fontos zarándokhely."],
       ro: ["Situat în complexul palatului regal.", "Important loc de pelerinaj."],
       en: ["Located in the royal palace complex.", "Major pilgrimage site."]
-    }, image: "/poi-images/tooth-relic-temple-history-v2.webp"},
+    }, image: "/poi-images/tooth-relic-temple-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zahntempel in Kandy, Sri Lanka, ist einer der heiligsten buddhistischen Tempel der Welt. Er beherbergt eine Reliquie des Zahns des Buddha, die im 4. Jahrhundert nach Sri Lanka gebracht wurde. Der Tempel wurde im 16. Jahrhundert erbaut und im Laufe der Zeit mehrmals renoviert. Er liegt im königlichen Palastkomplex von Kandy. Die Architektur ist eine Mischung aus singhalesischem und südindischem Stil. Der Tempel ist von einem Wassergraben umgeben. Täglich werden Zeremonien zu Ehren der Reliquie abgehalten. Der Tempel ist ein UNESCO-Weltkulturerbe und ein wichtiges Pilgerziel.",
+      hu: "A kandy-i fogszentély Srí Lanka egyik legszentebb buddhista temploma. Őrzi Buddha fogának ereklyéjét, amelyet a 4. században hoztak Srí Lankára. A templomot a 16. században építették, és az idők során többször felújították. Kandy királyi palotaegyüttesében található. Építészete a szingaléz és a dél-indiai stílus keveréke. A templomot árok veszi körül. Naponta tartanak szertartásokat az ereklye tiszteletére. A templom az UNESCO világörökség része és fontos zarándokhely.",
+      ro: "Templul Relicvei Dentare din Kandy, Sri Lanka, este unul dintre cele mai sfinte temple budiste din lume. Adăpostește o relicvă a dintelui lui Buddha, adusă în Sri Lanka în secolul al IV-lea. Templul a fost construit în secolul al XVI-lea și renovat de mai multe ori de-a lungul timpului. Este situat în complexul palatului regal din Kandy. Arhitectura este un amestec de stil singalez și sud-indian. Templul este înconjurat de un șanț cu apă. În fiecare zi au loc ceremonii în cinstea relicvei. Templul este Patrimoniu Mondial UNESCO și o destinație importantă de pelerinaj.",
+      en: "The Temple of the Sacred Tooth Relic in Kandy, Sri Lanka, is one of the holiest Buddhist temples in the world. It houses a relic of the tooth of the Buddha, brought to Sri Lanka in the 4th century. The temple was built in the 16th century and renovated several times over time. It is located within the royal palace complex of Kandy. The architecture is a blend of Sinhalese and South Indian styles. The temple is surrounded by a moat. Daily ceremonies are held in honor of the relic. The temple is a UNESCO World Heritage Site and an important pilgrimage destination.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 16. Jahrhundert", "Höhe des Tempels: 20 m", "Länge des Wassergrabens: 500 m", "Anzahl der täglichen Zeremonien: 3", "UNESCO-Weltkulturerbe seit: 1988", "Besucher pro Jahr: über 1 Million"],
+      hu: ["Építés éve: 16. század", "Templom magassága: 20 m", "Árok hossza: 500 m", "Napi szertartások száma: 3", "UNESCO világörökség 1988 óta", "Éves látogatók száma: több mint 1 millió"],
+      ro: ["Anul construcției: secolul al XVI-lea", "Înălțimea templului: 20 m", "Lungimea șanțului: 500 m", "Număr de ceremonii zilnice: 3", "Patrimoniu UNESCO din: 1988", "Vizitatori pe an: peste 1 milion"],
+      en: ["Year built: 16th century", "Temple height: 20 m", "Moat length: 500 m", "Number of daily ceremonies: 3", "UNESCO World Heritage since: 1988", "Annual visitors: over 1 million"],
+    },
+  },
   {
     id: "dambulla-cave-history-v2",
     type: "historical-site",
     parent: "LK-21",
     coords: [80.6485, 7.8566],
-    name: { de: "Höhlentempel von Dambulla", hu: "Dambulla barlangtemplom", ro: "Templul Peșterii Dambulla", en: "Dambulla Cave Temple",
-image: "/poi-images/dambulla-cave-history-v2.webp"
-},
+    name: { de: "Höhlentempel von Dambulla", hu: "Dambulla barlangtemplom", ro: "Templul Peșterii Dambulla", en: "Dambulla Cave Temple"},
+    image: "/poi-images/dambulla-cave-history-v2.webp",
     description: { de: "Die größte und am besten erhaltene Höhlentempelanlage in Sri Lanka.", hu: "Srí Lanka legnagyobb és legjobb állapotban fennmaradt barlangtemplom-együttese.", ro: "Cel mai mare și cel mai bine conservat complex de temple în peșteră din Sri Lanka.", en: "The largest and best-preserved cave temple complex in Sri Lanka." },
     facts: {
       de: ["Beinhaltet über 150 Buddha-Statuen.", "Wird seit über 22 Jahrhunderten genutzt."],
       hu: ["Több mint 150 Buddha-szobrot tartalmaz.", "Több mint 22 évszázada használják."],
       ro: ["Conține peste 150 de statui ale lui Buddha.", "Folosit de peste 22 de secole."],
       en: ["Contains over 150 Buddha statues.", "In use for over 22 centuries."]
-    }, image: "/poi-images/dambulla-cave-history-v2.webp"},
+    }, image: "/poi-images/dambulla-cave-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dambulla-Höhlentempel sind der größte und am besten erhaltene Höhlenklosterkomplex Sri Lankas. Die fünf Haupthöhlen beherbergen über 150 Buddha-Statuen und farbenfrohe Wandmalereien, die Szenen aus dem Leben Buddhas und die Geschichte des Buddhismus darstellen. Der Komplex stammt aus dem 1. Jahrhundert v. Chr., als König Valagamba hier Zuflucht suchte. Spätere Herrscher fügten Verzierungen hinzu. Die Höhlen sind in eine 160 Meter hohe Felswand gehauen und bieten einen weiten Blick auf die Umgebung. Die Fresken bedecken eine Fläche von über 2.000 Quadratmetern. Der Tempel ist ein beliebtes Pilgerziel und wurde 1991 zum UNESCO-Weltkulturerbe erklärt.",
+      hu: "A dambullai barlangtemplom Srí Lanka legnagyobb és legjobban megőrzött barlangkolostora. Öt fő barlangban található több mint 150 Buddha-szobor és színes falfestmény, amelyek Buddha életét és a buddhizmus történetét ábrázolják. A komplexum az 1. században épült, amikor Valagamba király itt keresett menedéket. Későbbi uralkodók, például Nissankamalla díszítették a barlangokat. A falakat borító freskók összterülete több mint 2000 négyzetméter. A templomkészlet 1991 óta az UNESCO Világörökség része. A zarándokok és turisták körében is népszerű.",
+      ro: "Templele rupestre de la Dambulla reprezintă cel mai mare complex de mănăstiri rupestre din Sri Lanka, bine conservat. Cele cinci peșteri principale adăpostesc peste 150 de statui ale lui Buddha și picturi murale vibrante care ilustrează scene din viața lui Buddha și istoria budismului. Complexul datează din secolul I î.Hr., când regele Valagamba s-a refugiat aici. Ulterior, regi precum Nissankamalla au adăugat decorațiuni. Peșterile sunt sculptate într-un perete de stâncă de 160 m înălțime. Suprafața frescelor depășește 2000 mp. Situl este Patrimoniu UNESCO din 1991.",
+      en: "The Dambulla Cave Temple is the largest and best-preserved cave temple complex in Sri Lanka, dating back to the 1st century BCE. It consists of five caves containing over 150 Buddha statues and intricate murals covering 2,100 square meters. The temple was built by King Valagamba, who sought refuge here during an invasion. Later kings, including Nissankamalla, added gilded Buddha images and paintings. The caves are carved into a granite rock 160 meters high. The site is a major pilgrimage center and was declared a UNESCO World Heritage Site in 1991.",
+    },
+    factsAdvanced: {
+      de: ["Die Dambulla-Höhlen stammen aus dem 1. Jahrhundert v. Chr.", "Der Komplex umfasst fünf Höhlen.", "Die Wandmalereien bedecken eine Fläche von 2.100 Quadratmetern.", "Es gibt über 150 Buddha-Statuen in den Höhlen.", "Der Felsen, in den die Höhlen gehauen sind, ist 160 Meter hoch.", "Die Stätte wurde 1991 zum UNESCO-Weltkulturerbe erklärt."],
+      hu: ["A barlangtemplom az 1. században épült.", "Öt barlangból áll, mindegyiknek saját neve van.", "A freskók összterülete 2100 négyzetméter.", "A szobrok között van egy 14 méteres fekvő Buddha is.", "A sziklafal 160 méter magas.", "1991-ben lett UNESCO Világörökség."],
+      ro: ["Templele datează din secolul I î.Hr.", "Complexul cuprinde cinci peșteri.", "Picturile acoperă 2.100 mp.", "Există 153 de statui ale lui Buddha.", "Stânca are 160 m înălțime.", "Situl este UNESCO din 1991."],
+      en: ["The caves date back to the 1st century BCE.", "There are five caves in the complex.", "Murals cover 2,100 square meters.", "Over 150 Buddha statues are housed here.", "The rock face is 160 m high.", "Designated a UNESCO World Heritage Site in 1991."],
+    },
+  },
   {
     id: "galle-fort-history-v2",
     type: "monument",
     parent: "LK-11",
     coords: [80.2170, 6.0258],
-    name: { de: "Galle Fort", hu: "Galle erőd", ro: "Fortul Galle", en: "Galle Fort",
-image: "/poi-images/galle-fort-history-v2.webp"
-},
+    name: { de: "Galle Fort", hu: "Galle erőd", ro: "Fortul Galle", en: "Galle Fort"},
+    image: "/poi-images/galle-fort-history-v2.webp",
     description: { de: "Eine Festung, die zuerst von den Portugiesen erbaut und später von den Niederländern erweitert wurde.", hu: "Egy erődítmény, amelyet először a portugálok építettek, majd a hollandok bővítettek ki.", ro: "O fortăreață construită inițial de portughezi și extinsă ulterior de olandezi.", en: "A fort first built by the Portuguese and later extensively fortified by the Dutch." },
     facts: {
       de: ["Im Jahr 1588 erbaut.", "Zeigt europäische architektonische Einflüsse."],
       hu: ["1588-ban épült.", "Európai építészeti hatásokat mutat."],
       ro: ["Construit în anul 1588.", "Prezintă influențe arhitecturale europene."],
       en: ["Built in 1588.", "Shows European architectural influences."]
-    }, image: "/poi-images/galle-fort-history-v2.webp"},
+    }, image: "/poi-images/galle-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Galle Fort in Sri Lanka ist eine niederländische Festung aus dem 17. Jahrhundert an der Südküste. Es wurde ursprünglich von den Portugiesen im 16. Jahrhundert erbaut, dann von den Niederländern erweitert und später von den Briten genutzt. Die Festung umfasst eine Altstadt mit engen Gassen, Kirchen, Moscheen, einem Leuchtturm und Kolonialgebäuden. Sie ist ein UNESCO-Weltkulturerbe und ein bedeutendes Beispiel der europäischen Kolonialarchitektur in Asien. Die Festungsmauern erstrecken sich über 3 Kilometer. Innerhalb der Mauern leben noch viele Menschen. Galle Fort ist ein beliebtes Touristen- und Kulturzentrum.",
+      hu: "A Srí Lanka-i Galle-erőd egy 17. századi holland erődítmény a déli parton. Eredetileg a portugálok építették a 16. században, majd a hollandok bővítették, később a britek használták. Az erőd magában foglal egy óvárost szűk utcákkal, templomokkal, mecsetekkel, egy világítótoronnyal és gyarmati épületekkel. Az UNESCO világörökség része, és az európai gyarmati építészet jelentős példája Ázsiában. A várfalak 3 kilométeren át húzódnak. A falakon belül ma is sokan élnek. Galle erőd népszerű turisztikai és kulturális központ.",
+      ro: "Fortul Galle din Sri Lanka este o fortăreață olandeză din secolul al XVII-lea pe coasta de sud. A fost construită inițial de portughezi în secolul al XVI-lea, apoi extinsă de olandezi și ulterior folosită de britanici. Fortul include un oraș vechi cu străzi înguste, biserici, moschei, un far și clădiri coloniale. Este Patrimoniu Mondial UNESCO și un exemplu important de arhitectură colonială europeană în Asia. Zidurile fortului se întind pe 3 kilometri. În interiorul zidurilor locuiesc încă mulți oameni. Fortul Galle este un centru turistic și cultural popular.",
+      en: "Galle Fort in Sri Lanka is a 17th-century Dutch fortress on the southern coast. It was originally built by the Portuguese in the 16th century, then expanded by the Dutch, and later used by the British. The fort includes an old town with narrow streets, churches, mosques, a lighthouse, and colonial buildings. It is a UNESCO World Heritage Site and a significant example of European colonial architecture in Asia. The fort walls stretch over 3 kilometers. Many people still live within the walls. Galle Fort is a popular tourist and cultural hub.",
+    },
+    factsAdvanced: {
+      de: ["Bau durch Portugiesen: 1588", "Ausbau durch Niederländer: 1640", "Länge der Festungsmauern: 3 km", "Höhe der Mauern: 12 m", "UNESCO-Weltkulturerbe seit: 1988", "Anzahl der historischen Gebäude: über 400"],
+      hu: ["Portugál építés: 1588", "Holland bővítés: 1640", "Várfalak hossza: 3 km", "Falak magassága: 12 m", "UNESCO világörökség 1988 óta", "Történelmi épületek száma: több mint 400"],
+      ro: ["Construcție portugheză: 1588", "Extindere olandeză: 1640", "Lungimea zidurilor fortului: 3 km", "Înălțimea zidurilor: 12 m", "Patrimoniu UNESCO din: 1988", "Număr de clădiri istorice: peste 400"],
+      en: ["Portuguese construction: 1588", "Dutch expansion: 1640", "Fort wall length: 3 km", "Wall height: 12 m", "UNESCO World Heritage since: 1988", "Number of historic buildings: over 400"],
+    },
+  },
   {
     id: "ruwanwelisaya-history-v2",
     type: "monument",
     parent: "LK-71",
     coords: [80.3965, 8.3500],
-    name: { de: "Ruwanwelisaya Stupa", hu: "Ruwanwelisaya sztúpa", ro: "Stupa Ruwanwelisaya", en: "Ruwanwelisaya",
-image: "/poi-images/ruwanwelisaya-history-v2.webp"
-},
+    name: { de: "Ruwanwelisaya Stupa", hu: "Ruwanwelisaya sztúpa", ro: "Stupa Ruwanwelisaya", en: "Ruwanwelisaya"},
+    image: "/poi-images/ruwanwelisaya-history-v2.webp",
     description: { de: "Eine halbkugelförmige Struktur mit Reliquien, eines der höchsten Bauwerke der antiken Welt.", hu: "Egy félgömb alakú, ereklyéket őrző építmény, az ókori világ egyik legmagasabb épülete.", ro: "O structură emisferică ce conține relicve, una dintre cele mai înalte clădiri din lumea antică.", en: "A hemispherical structure containing relics, one of the tallest ancient monuments." },
     facts: {
       de: ["Erbaut von König Dutugemunu.", "Ist 103 Meter hoch."],
       hu: ["Dutugemunu király építtette.", "103 méter magas."],
       ro: ["Construită de regele Dutugemunu.", "Are 103 metri înălțime."],
       en: ["Built by King Dutugemunu.", "Stands 103 meters tall."]
-    }, image: "/poi-images/ruwanwelisaya-history-v2.webp"},
+    }, image: "/poi-images/ruwanwelisaya-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Ruwanwelisaya ist ein großer Stupa in Anuradhapura, Sri Lanka, der im 2. Jahrhundert v. Chr. von König Dutugamunu erbaut wurde. Er ist einer der größten Stupas der Welt mit einem Durchmesser von etwa 90 Metern. Der Stupa symbolisiert den Buddhismus und beherbergt Reliquien. Er wurde im Laufe der Jahrhunderte mehrmals renoviert. Die weiße Kuppel ist ein markantes Wahrzeichen. Der Stupa ist von einem Säulengang umgeben. Er ist ein wichtiger Pilgerort für Buddhisten. Die Höhe beträgt etwa 55 Meter. Ruwanwelisaya ist Teil des UNESCO-Weltkulturerbes von Anuradhapura.",
+      hu: "A Ruwanwelisaya egy hatalmas sztúpa Srí Lanka-i Anuradhapurában, amelyet i. e. 2. században építtetett Dutugamunu király. A világ egyik legnagyobb sztúpája, átmérője kb. 90 méter. A sztúpa a buddhizmust szimbolizálja és ereklyéket őriz. Az évszázadok során többször felújították. Fehér kupolája jellegzetes látványosság. A sztúpát oszlopcsarnok veszi körül. Fontos buddhista zarándokhely. Magassága kb. 55 méter. A Ruwanwelisaya az anuradhapurai UNESCO világörökség része.",
+      ro: "Ruwanwelisaya este un mare stupa din Anuradhapura, Sri Lanka, construit în secolul al II-lea î.Hr. de regele Dutugamunu. Este unul dintre cei mai mari stupa din lume, cu un diametru de aproximativ 90 de metri. Stupa simbolizează budismul și adăpostește relicve. A fost renovat de mai multe ori de-a lungul secolelor. Domul alb este un reper distinctiv. Stupa este înconjurat de un portic cu coloane. Este un important loc de pelerinaj budist. Înălțimea este de aproximativ 55 de metri. Ruwanwelisaya face parte din Patrimoniul Mondial UNESCO din Anuradhapura.",
+      en: "Ruwanwelisaya is a large stupa in Anuradhapura, Sri Lanka, built in the 2nd century BC by King Dutugamunu. It is one of the largest stupas in the world, with a diameter of about 90 meters. The stupa symbolizes Buddhism and houses relics. It has been renovated several times over the centuries. The white dome is a distinctive landmark. The stupa is surrounded by a colonnade. It is an important pilgrimage site for Buddhists. Its height is about 55 meters. Ruwanwelisaya is part of the UNESCO World Heritage Site of Anuradhapura.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 2. Jahrhundert v. Chr.", "Durchmesser: 90 m", "Höhe: 55 m", "Umfang: 290 m", "Anzahl der Säulen im Hof: 1.600", "UNESCO-Weltkulturerbe seit: 1982"],
+      hu: ["Építés éve: i. e. 2. század", "Átmérő: 90 m", "Magasság: 55 m", "Kerület: 290 m", "Oszlopok száma az udvaron: 1600", "UNESCO világörökség 1982 óta"],
+      ro: ["Anul construcției: secolul al II-lea î.Hr.", "Diametru: 90 m", "Înălțime: 55 m", "Circumferință: 290 m", "Număr de coloane în curte: 1.600", "Patrimoniu UNESCO din: 1982"],
+      en: ["Year built: 2nd century BC", "Diameter: 90 m", "Height: 55 m", "Circumference: 290 m", "Number of columns in courtyard: 1,600", "UNESCO World Heritage since: 1982"],
+    },
+  },
   {
     id: "jetavanaramaya-history-v2",
     type: "ruin",
     parent: "LK-71",
     coords: [80.4036, 8.3516],
-    name: { de: "Jetavanaramaya", hu: "Jetavanaramaya sztúpa", ro: "Jetavanaramaya", en: "Jetavanaramaya",
-image: "/poi-images/jetavanaramaya-history-v2.webp"
-},
+    name: { de: "Jetavanaramaya", hu: "Jetavanaramaya sztúpa", ro: "Jetavanaramaya", en: "Jetavanaramaya"},
+    image: "/poi-images/jetavanaramaya-history-v2.webp",
     description: { de: "Die Ruinen einer massiven Stupa in Anuradhapura, die einst eines der höchsten Bauwerke der Welt war.", hu: "Egy hatalmas anuradhapurai sztúpa romjai, amely egykor a világ egyik legmagasabb építménye volt.", ro: "Ruinele unei stupe masive din Anuradhapura, odată una dintre cele mai înalte structuri din lume.", en: "The ruins of a massive stupa in Anuradhapura, once one of the tallest structures in the world." },
     facts: {
       de: ["Ursprünglich 122 Meter hoch.", "Im 3. Jahrhundert erbaut."],
       hu: ["Eredetileg 122 méter magas volt.", "A 3. században épült."],
       ro: ["Inițial avea 122 de metri înălțime.", "Construită în secolul al III-lea."],
       en: ["Originally 122 meters tall.", "Constructed in the 3rd century."]
-    }, image: "/poi-images/jetavanaramaya-history-v2.webp"},
+    }, image: "/poi-images/jetavanaramaya-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Jetavanaramaya ist ein Stupa in Anuradhapura, Sri Lanka, der im 3. Jahrhundert von König Mahasena erbaut wurde. Er war mit einer Höhe von 122 Metern einst das höchste Bauwerk der antiken Welt. Der Stupa hat einen Durchmesser von etwa 113 Metern. Er wurde aus Backsteinen errichtet, die mit Mörtel verbunden sind. Jetavanaramaya war ein Zentrum des buddhistischen Mönchstums und beherbergte Tausende von Mönchen. Der Stupa wurde im Laufe der Zeit beschädigt und restauriert. Heute ist er eine wichtige archäologische Stätte. Er gehört zum UNESCO-Weltkulturerbe.",
+      hu: "A Jetavanaramaya egy sztúpa Srí Lanka-i Anuradhapurában, amelyet a 3. században építtetett Mahasena király. 122 méteres magasságával egykor a világ legmagasabb építménye volt. A sztúpa átmérője kb. 113 méter. Téglából épült, amelyet habarccsal kötöttek össze. A Jetavanaramaya a buddhista szerzetesség központja volt, és több ezer szerzetesnek adott otthont. A sztúpa az idők során megsérült és felújították. Ma fontos régészeti lelőhely. Az UNESCO világörökség része.",
+      ro: "Jetavanaramaya este un stupa din Anuradhapura, Sri Lanka, construit în secolul al III-lea de regele Mahasena. Cu o înălțime de 122 de metri, a fost cândva cea mai înaltă structură din lumea antică. Stupa are un diametru de aproximativ 113 metri. A fost construit din cărămidă legată cu mortar. Jetavanaramaya a fost un centru al monahismului budist, găzduind mii de călugări. Stupa a fost deteriorată și restaurată de-a lungul timpului. Astăzi este un important sit arheologic. Face parte din Patrimoniul Mondial UNESCO.",
+      en: "Jetavanaramaya is a stupa in Anuradhapura, Sri Lanka, built in the 3rd century by King Mahasena. At 122 meters high, it was once the tallest structure in the ancient world. The stupa has a diameter of about 113 meters. It was built from bricks bonded with mortar. Jetavanaramaya was a center of Buddhist monasticism, housing thousands of monks. The stupa has been damaged and restored over time. Today it is an important archaeological site. It is part of the UNESCO World Heritage Site.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 3. Jahrhundert", "Ursprüngliche Höhe: 122 m", "Durchmesser: 113 m", "Anzahl der verwendeten Ziegel: 93 Millionen", "Fläche der Basis: 5,6 Hektar", "UNESCO-Weltkulturerbe seit: 1982"],
+      hu: ["Építés éve: 3. század", "Eredeti magasság: 122 m", "Átmérő: 113 m", "Felhasznált téglák száma: 93 millió", "Alapterület: 5,6 hektár", "UNESCO világörökség 1982 óta"],
+      ro: ["Anul construcției: secolul al III-lea", "Înălțimea originală: 122 m", "Diametru: 113 m", "Număr de cărămizi utilizate: 93 milioane", "Suprafața bazei: 5,6 hectare", "Patrimoniu UNESCO din: 1982"],
+      en: ["Year built: 3rd century", "Original height: 122 m", "Diameter: 113 m", "Number of bricks used: 93 million", "Base area: 5.6 hectares", "UNESCO World Heritage since: 1982"],
+    },
+  },
   {
     id: "yapahuwa-history-v2",
     type: "ruin",
     parent: "LK-31",
     coords: [80.3013, 7.7667],
-    name: { de: "Yapahuwa Felsenfestung", hu: "Yapahuwa sziklaerőd", ro: "Fortăreața stâncoasă Yapahuwa", en: "Yapahuwa Rock Fortress",
-image: "/poi-images/yapahuwa-history-v2.webp"
-},
+    name: { de: "Yapahuwa Felsenfestung", hu: "Yapahuwa sziklaerőd", ro: "Fortăreața stâncoasă Yapahuwa", en: "Yapahuwa Rock Fortress"},
+    image: "/poi-images/yapahuwa-history-v2.webp",
     description: { de: "Eine majestätische Festung, die im 13. Jahrhundert kurzzeitig als Hauptstadt Sri Lankas diente.", hu: "Fenséges erőd, amely a 13. században rövid ideig Srí Lanka fővárosaként szolgált.", ro: "O fortăreață maiestuoasă care a servit scurt timp ca și capitală a Sri Lankăi în secolul al XIII-lea.", en: "A majestic fortress that briefly served as the capital of Sri Lanka in the 13th century." },
     facts: {
       de: ["Berühmt für ihre steile Ziertreppe.", "Errichtet von König Bhuvenakabahu I."],
       hu: ["Meredek, díszes lépcsőjéről híres.", "I. Bhuvenakabahu király építtette."],
       ro: ["Faimoasă pentru scara sa ornamentală abruptă.", "Construită de regele Bhuvenakabahu I."],
       en: ["Famous for its steep ornamental staircase.", "Built by King Bhuvenakabahu I."]
-    }, image: "/poi-images/yapahuwa-history-v2.webp"},
+    }, image: "/poi-images/yapahuwa-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Yapahuwa ist eine antike Felsenfestung in Sri Lanka, die im 13. Jahrhundert für kurze Zeit die Hauptstadt des Königreichs war. Sie liegt auf einem 90 Meter hohen Felsen. Die Festung wurde von König Buvanekabahu I. erbaut, um die Heilige Zahnreliquie des Buddha zu schützen. Die Stätte umfasst eine Treppe mit kunstvollen Schnitzereien, einen Palast, einen Tempel und Verteidigungsanlagen. Der Aufstieg zum Gipfel führt über eine monumentale Treppe. Yapahuwa wurde später aufgegeben und verfiel. Heute sind die Ruinen eine wichtige archäologische Stätte. Sie zeigen eine Mischung aus singhalesischer und südindischer Architektur.",
+      hu: "Yapahuwa egy ősi sziklai erőd Srí Lankán, amely a 13. században rövid ideig a királyság fővárosa volt. Egy 90 méter magas sziklán található. Az erődöt I. Buvanekabahu király építtette Buddha szent fogának védelmére. A helyszín egy díszes faragványokkal ellátott lépcsőt, palotát, templomot és védműveket foglal magában. A csúcsra vezető út egy monumentális lépcsőn át vezet. Yapahuwa később elhagyatottá vált és romba dőlt. Ma a romok fontos régészeti lelőhelyek. A szingaléz és dél-indiai építészet keverékét mutatják.",
+      ro: "Yapahuwa este o veche fortăreață pe stâncă din Sri Lanka, care a fost capitala regatului pentru o scurtă perioadă în secolul al XIII-lea. Este situată pe o stâncă de 90 de metri înălțime. Fortăreața a fost construită de regele Buvanekabahu I pentru a proteja relicva dintelui sacru al lui Buddha. Situl include o scară cu sculpturi ornamentate, un palat, un templu și fortificații. Urcarea spre vârf se face pe o scară monumentală. Yapahuwa a fost ulterior abandonată și a căzut în ruină. Astăzi, ruinele sunt un important sit arheologic. Ele prezintă un amestec de arhitectură singaleză și sud-indiană.",
+      en: "Yapahuwa is an ancient rock fortress in Sri Lanka, briefly the capital of the kingdom in the 13th century. It is situated on a 90-meter-high rock. The fortress was built by King Buvanekabahu I to protect the Sacred Tooth Relic of the Buddha. The site includes a staircase with ornate carvings, a palace, a temple, and fortifications. The ascent to the summit is via a monumental staircase. Yapahuwa was later abandoned and fell into ruin. Today the ruins are an important archaeological site, showing a blend of Sinhalese and South Indian architecture.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Felsens: 90 m", "Anzahl der Stufen: 1.000", "Hauptstadtzeit: 1273–1284", "Länge der Verteidigungsmauern: 500 m", "Fläche: 2 Hektar", "Archäologische Ausgrabungen seit: 1890"],
+      hu: ["Szikla magassága: 90 m", "Lépcsők száma: 1000", "Fővárosi időszak: 1273–1284", "Védőfalak hossza: 500 m", "Terület: 2 hektár", "Régészeti feltárások kezdete: 1890"],
+      ro: ["Înălțimea stâncii: 90 m", "Număr de trepte: 1.000", "Perioada capitalei: 1273–1284", "Lungimea zidurilor de apărare: 500 m", "Suprafață: 2 hectare", "Săpături arheologice din: 1890"],
+      en: ["Rock height: 90 m", "Number of steps: 1,000", "Capital period: 1273–1284", "Defensive wall length: 500 m", "Area: 2 hectares", "Archaeological excavations since: 1890"],
+    },
+  },
   {
     id: "mihintale-history-v2",
     type: "historical-site",
     parent: "LK-71",
     coords: [80.5168, 8.3516],
-    name: { de: "Mihintale", hu: "Mihintale hegy", ro: "Vârful Mihintale", en: "Mihintale",
-image: "/poi-images/mihintale-history-v2.webp"
-},
+    name: { de: "Mihintale", hu: "Mihintale hegy", ro: "Vârful Mihintale", en: "Mihintale"},
+    image: "/poi-images/mihintale-history-v2.webp",
     description: { de: "Ein Berggipfel, der als der Ort gilt, an dem der Buddhismus in Sri Lanka eingeführt wurde.", hu: "Egy hegycsúcs, amely arról nevezetes, hogy itt vezették be a buddhizmust Srí Lankán.", ro: "Un vârf de munte considerat a fi locul unde a fost introdus budismul în Sri Lanka.", en: "A mountain peak believed to be the site where Buddhism was introduced to Sri Lanka." },
     facts: {
       de: ["Besteht aus mehreren Tempeln und Schreinen.", "Verfügt über 1840 Granitstufen."],
       hu: ["Számos templomból és szentélyből áll.", "1840 gránitlépcső vezet fel rá."],
       ro: ["Este format din numeroase temple și sanctuare.", "Are 1840 de trepte din granit."],
       en: ["Consists of multiple temples and shrines.", "Features 1840 granite steps."]
-    }, image: "/poi-images/mihintale-history-v2.webp"},
+    }, image: "/poi-images/mihintale-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Mihintale ist ein Berggipfel in Sri Lanka, der als Geburtsort des Buddhismus auf der Insel gilt. Laut Überlieferung traf dort im 3. Jahrhundert v. Chr. der Mönch Mahinda auf König Devanampiya Tissa. Die Stätte umfasst einen Stupa, einen Felsentempel, Klosteranlagen und eine Treppe mit 1.840 Stufen. Mihintale ist ein wichtiger Pilgerort. Der Berg ist 300 Meter hoch. Die Architektur umfasst Inschriften und Steinbecken. Das jährliche Pilgerfest im Juni zieht Tausende an. Mihintale ist ein archäologisches Schutzgebiet.",
+      hu: "Mihintale egy hegycsúcs Srí Lankán, amely a buddhizmus szülőhelyének számít a szigeten A hagyomány szerint itt találkozott Mahinda szerzetes Devanampiya Tissa királlyal az i. e. 3. században. A helyszín egy sztúpát, egy sziklába vájt templomot, kolostoregyütteseket és egy 1840 lépcsőfokból álló lépcsőt foglal magában. Mihintale fontos zarándokhely. A hegy 300 méter magas. Az építészet feliratokkal és kőmedencékkel gazdagított. A júniusi éves zarándokünnep több ezer embert vonz. Mihintale régészeti védett terület.",
+      ro: "Mihintale este un vârf de munte din Sri Lanka, considerat locul de naștere al budismului pe insulă. Conform tradiției, călugărul Mahinda l-a întâlnit pe regele Devanampiya Tissa acolo în secolul al III-lea î.Hr. Situl include un stupa, un templu săpat în stâncă, complexe monahale și o scară cu 1.840 de trepte. Mihintale este un important loc de pelerinaj. Muntele are 300 de metri înălțime. Arhitectura include inscripții și bazine de piatră. Festivalul anual de pelerinaj din iunie atrage mii de oameni. Mihintale este o arie protejată arheologic.",
+      en: "Mihintale is a mountain peak in Sri Lanka considered the birthplace of Buddhism on the island. According to tradition, monk Mahinda met King Devanampiya Tissa there in the 3rd century BC. The site includes a stupa, a rock temple, monastic complexes, and a staircase of 1,840 steps. Mihintale is an important pilgrimage site. The mountain is 300 meters high. The architecture includes inscriptions and stone basins. The annual pilgrimage festival in June draws thousands. Mihintale is an archaeological protected area.",
+    },
+    factsAdvanced: {
+      de: ["Höhe des Berges: 300 m", "Anzahl der Stufen: 1.840", "Jahr des Treffens: 247 v. Chr.", "Alter des Stupa: 3. Jahrhundert v. Chr.", "Anzahl der Inschriften: 30", "Besucher beim Pilgerfest: über 500.000"],
+      hu: ["Hegy magassága: 300 m", "Lépcsők száma: 1840", "Találkozás éve: i. e. 247", "Sztúpa kora: i. e. 3. század", "Feliratok száma: 30", "Zarándokünnep látogatói: több mint 500.000"],
+      ro: ["Înălțimea muntelui: 300 m", "Număr de trepte: 1.840", "Anul întâlnirii: 247 î.Hr.", "Vechimea stupei: secolul al III-lea î.Hr.", "Număr de inscripții: 30", "Vizitatori la festivalul de pelerinaj: peste 500.000"],
+      en: ["Mountain height: 300 m", "Number of steps: 1,840", "Year of meeting: 247 BC", "Age of stupa: 3rd century BC", "Number of inscriptions: 30", "Pilgrimage festival visitors: over 500,000"],
+    },
+  },
   {
     id: "independence-memorial-history-v2",
     type: "monument",
     parent: "LK-11",
     coords: [79.8679, 6.9042],
-    name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi Emlékcsarnok", ro: "Sala Memorială a Independenței", en: "Independence Memorial Hall",
-image: "/poi-images/independence-memorial-history-v2.webp"
-},
+    name: { de: "Unabhängigkeitsdenkmal", hu: "Függetlenségi Emlékcsarnok", ro: "Sala Memorială a Independenței", en: "Independence Memorial Hall"},
+    image: "/poi-images/independence-memorial-history-v2.webp",
     description: { de: "Ein nationales Denkmal in Colombo, das zur Erinnerung an die Unabhängigkeit Sri Lankas erbaut wurde.", hu: "Egy nemzeti emlékmű Colombóban, amelyet Srí Lanka függetlenségének emlékére építettek.", ro: "Un monument național în Colombo, construit pentru a comemora independența Sri Lankăi.", en: "A national monument in Colombo built for commemoration of the independence of Sri Lanka." },
     facts: {
       de: ["Unabhängigkeit von den Briten 1948.", "Architektur basiert auf dem Königlichen Publikums-Saal."],
       hu: ["Függetlenedés a britektől 1948-ban.", "Építészete a Királyi Kihallgatási Csarnokon alapul."],
       ro: ["Independența față de britanici în 1948.", "Arhitectura se bazează pe Sala Regală de Audiențe."],
       en: ["Independence from the British in 1948.", "Architecture is based on the Royal Audience Hall."]
-    }, image: "/poi-images/independence-memorial-history-v2.webp"},
+    }, image: "/poi-images/independence-memorial-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Independence Memorial Hall in Colombo, Sri Lanka, wurde 1948 zur Feier der Unabhängigkeit von Großbritannien erbaut. Sie befindet sich im Independence Square und ist ein nationales Denkmal. Das Gebäude ist im traditionellen singhalesischen Stil mit einer großen offenen Halle und einem Dach mit Holzschnitzereien. Es beherbergt eine Bibliothek und ein Museum. Der Gedenkort umfasst Statuen und Gedenktafeln. Jährlich finden hier die Unabhängigkeitsfeiern statt. Die Halle ist ein Symbol der nationalen Identität und Souveränität.",
+      hu: "A colombói Függetlenség Emlékcsarnok Srí Lankán 1948-ban épült a brit uralom alóli függetlenség ünneplésére. A Függetlenség terén található, és nemzeti emlékhely. Az épület hagyományos szingaléz stílusú, nagy nyitott csarnokkal és faragott fa tetővel. Könyvtárat és múzeumot foglal magában. Az emlékhely szobrokat és emléktáblákat foglal magában. Évente itt tartják a függetlenség ünnepségeit. A csarnok a nemzeti identitás és szuverenitás szimbóluma.",
+      ro: "Sala Memorială a Independenței din Colombo, Sri Lanka, a fost construită în 1948 pentru a sărbători independența față de Marea Britanie. Este situată în Piața Independenței și este un monument național. Clădirea este în stil tradițional singalez, cu o sală mare deschisă și un acoperiș cu sculpturi din lemn. Adăpostește o bibliotecă și un muzeu. Locul memorial include statui și plăci comemorative. Aici au loc anual sărbătorile independenței. Sala este un simbol al identității naționale și suveranității.",
+      en: "The Independence Memorial Hall in Colombo, Sri Lanka, was built in 1948 to celebrate independence from Britain. It is located on Independence Square and is a national monument. The building is in traditional Sinhalese style, with a large open hall and a roof with wood carvings. It houses a library and a museum. The memorial grounds include statues and commemorative plaques. Annual independence celebrations are held here. The hall is a symbol of national identity and sovereignty.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1948", "Fläche: 5 Hektar", "Höhe des Dachs: 15 m", "Anzahl der Säulen: 40", "Anzahl der Statuen: 8", "Architekt: Tom Neville Wynne-Jones"],
+      hu: ["Építés éve: 1948", "Terület: 5 hektár", "Tetőszerkezet magassága: 15 m", "Oszlopok száma: 40", "Szobrok száma: 8", "Építész: Tom Neville Wynne-Jones"],
+      ro: ["Anul construcției: 1948", "Suprafață: 5 hectare", "Înălțimea acoperișului: 15 m", "Număr de coloane: 40", "Număr de statui: 8", "Arhitect: Tom Neville Wynne-Jones"],
+      en: ["Year built: 1948", "Area: 5 hectares", "Roof height: 15 m", "Number of columns: 40", "Number of statues: 8", "Architect: Tom Neville Wynne-Jones"],
+    },
+  },
   {
     id: "mulkirigala-history-v2",
     type: "historical-site",
     parent: "LK-81",
     coords: [80.7410, 6.0967],
-    name: { de: "Mulkirigala Felsentempel", hu: "Mulkirigala sziklatemplom", ro: "Templul de piatră Mulkirigala", en: "Mulkirigala Raja Maha Vihara",
-image: "/poi-images/mulkirigala-history-v2.webp"
-},
+    name: { de: "Mulkirigala Felsentempel", hu: "Mulkirigala sziklatemplom", ro: "Templul de piatră Mulkirigala", en: "Mulkirigala Raja Maha Vihara"},
+    image: "/poi-images/mulkirigala-history-v2.webp",
     description: { de: "Ein alter buddhistischer Tempel, der auf einem riesigen Felsen im Süden Sri Lankas erbaut wurde.", hu: "Egy ősi buddhista templom, amelyet egy hatalmas sziklára építettek Srí Lanka déli részén.", ro: "Un vechi templu budist construit pe o stâncă masivă în sudul Sri Lankăi.", en: "An ancient Buddhist temple built on a massive rock in southern Sri Lanka." },
     facts: {
       de: ["Verfügt über sieben Höhlentempel.", "Stammt aus dem 3. Jahrhundert."],
       hu: ["Hét barlangtemplommal rendelkezik.", "A 3. századból származik."],
       ro: ["Dispune de șapte temple în peșteră.", "Datează din secolul al III-lea."],
       en: ["Features seven cave temples.", "Dates back to the 3rd century."]
-    }, image: "/poi-images/mulkirigala-history-v2.webp"},
+    }, image: "/poi-images/mulkirigala-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Mulkirigala Raja Maha Vihara ist ein buddhistischer Tempelkomplex in Sri Lanka, der auf einem Felsen erbaut wurde. Die Stätte stammt aus dem 3. Jahrhundert v. Chr. und wurde im Laufe der Zeit erweitert. Sie umfasst mehrere Höhlentempel, Stupas und Buddha-Statuen. Der Komplex liegt in der Provinz Sabaragamuwa. Die Tempel sind mit Wandmalereien aus dem 18. und 19. Jahrhundert verziert. Mulkirigala war ein Zentrum des Buddhismus und der Bildung. Der Felsen ist 150 Meter hoch. Die Anlage ist ein wichtiges Pilgerziel. Sie zeigt eine Mischung aus natürlicher Höhlenarchitektur und künstlichen Bauten.",
+      hu: "A Mulkirigala Raja Maha Vihara egy buddhista templomegyüttes Srí Lankán, amely egy sziklára épült. A helyszín az i. e. 3. századból származik, és az idők során bővült. Több barlangtemplomot, sztúpát és Buddha-szobrot foglal magában. Az együttes Sabaragamuwa tartományban található. A templomok falait a 18. és 19. századi falfestmények díszítik. Mulkirigala a buddhizmus és az oktatás központja volt. A szikla 150 méter magas. A komplexum fontos zarándokhely. Természetes barlangépítészet és mesterséges építmények keverékét mutatja.",
+      ro: "Mulkirigala Raja Maha Vihara este un complex de temple budiste din Sri Lanka, construit pe o stâncă. Situl datează din secolul al III-lea î.Hr. și a fost extins de-a lungul timpului. Include mai multe temple rupestre, stupe și statui ale lui Buddha. Complexul se află în provincia Sabaragamuwa. Templele sunt decorate cu picturi murale din secolele al XVIII-lea și al XIX-lea. Mulkirigala a fost un centru al budismului și al educației. Stânca are 150 de metri înălțime. Complexul este o destinație importantă de pelerinaj. Prezintă un amestec de arhitectură naturală a peșterilor și construcții artificiale.",
+      en: "Mulkirigala Raja Maha Vihara is a Buddhist temple complex in Sri Lanka built on a rock. The site dates from the 3rd century BC and was expanded over time. It includes several cave temples, stupas, and Buddha statues. The complex is in Sabaragamuwa Province. The temples are adorned with murals from the 18th and 19th centuries. Mulkirigala was a center of Buddhism and education. The rock is 150 meters high. The complex is an important pilgrimage destination. It shows a mix of natural cave architecture and man-made structures.",
+    },
+    factsAdvanced: {
+      de: ["Alter: 3. Jahrhundert v. Chr.", "Höhe des Felsens: 150 m", "Anzahl der Höhlentempel: 5", "Anzahl der Stupas: 3", "Höhe der größten Buddha-Statue: 10 m", "Anzahl der Wandmalereien: 12 Szenen"],
+      hu: ["Kor: i. e. 3. század", "Szikla magassága: 150 m", "Barlangtemplomok száma: 5", "Sztúpák száma: 3", "Legnagyobb Buddha-szobor magassága: 10 m", "Falfestmények száma: 12 jelenet"],
+      ro: ["Vechime: secolul al III-lea î.Hr.", "Înălțimea stâncii: 150 m", "Număr de temple rupestre: 5", "Număr de stupe: 3", "Înălțimea celei mai mari statui Buddha: 10 m", "Număr de picturi murale: 12 scene"],
+      en: ["Age: 3rd century BC", "Rock height: 150 m", "Number of cave temples: 5", "Number of stupas: 3", "Height of largest Buddha statue: 10 m", "Number of mural scenes: 12"],
+    },
+  },
   {
     id: "abhayagiri-vihara-history-v2",
     type: "ruin",
     parent: "LK-71",
     coords: [80.3956, 8.3664],
-    name: { de: "Abhayagiri Vihara", hu: "Abhayagiri Vihara", ro: "Abhayagiri Vihara", en: "Abhayagiri Vihara",
-image: "/poi-images/abhayagiri-vihara-history-v2.webp"
-},
+    name: { de: "Abhayagiri Vihara", hu: "Abhayagiri Vihara", ro: "Abhayagiri Vihara", en: "Abhayagiri Vihara"},
+    image: "/poi-images/abhayagiri-vihara-history-v2.webp",
     description: { de: "Die Ruinen eines der größten buddhistischen Klöster der antiken Welt in Anuradhapura.", hu: "Az ókori világ egyik legnagyobb buddhista kolostorának romjai Anuradhapurában.", ro: "Ruinele uneia dintre cele mai mari mănăstiri budiste din lumea antică în Anuradhapura.", en: "The ruins of one of the largest Buddhist monasteries of the ancient world in Anuradhapura." },
     facts: {
       de: ["Gegründet im 2. Jahrhundert v. Chr.", "War ein wichtiges spirituelles Zentrum."],
       hu: ["A Kr. e. 2. században alapították.", "Fontos szellemi központ volt."],
       ro: ["Fondat în secolul al II-lea î.Hr.", "A fost un centru spiritual major."],
       en: ["Founded in the 2nd century BC.", "Was a major spiritual and educational center."]
-    }, image: "/poi-images/abhayagiri-vihara-history-v2.webp"},
+    }, image: "/poi-images/abhayagiri-vihara-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Abhayagiri Vihara ist ein bedeutendes buddhistisches Kloster in Anuradhapura, Sri Lanka, das im 1. Jahrhundert v. Chr. von König Valagamba gegründet wurde. Es war ein Zentrum des Mahayana-Buddhismus. Das Kloster erstreckt sich über eine große Fläche mit Stupas, Klostergebäuden und Teichen. Der Abhayagiri-Stupa hat einen Durchmesser von etwa 110 Metern. Das Kloster beherbergte Tausende von Mönchen. Es war ein wichtiges Bildungszentrum. Nach dem Niedergang verfiel es. Heute ist es eine archäologische Stätte. Es gehört zum UNESCO-Weltkulturerbe von Anuradhapura.",
+      hu: "Az Abhayagiri Vihara egy jelentős buddhista kolostor Srí Lanka-i Anuradhapurában, amelyet I. Valagamba király alapított az i. e. 1. században. A mahájána buddhizmus központja volt. A kolostor nagy területen fekszik sztúpákkal, kolostorépületekkel és tavakkal. Az Abhayagiri-sztúpa átmérője kb. 110 méter. A kolostor több ezer szerzetesnek adott otthont. Fontos oktatási központ volt. Hanyatlása után romba dőlt. Ma régészeti lelőhely. Az anuradhapurai UNESCO világörökség része.",
+      ro: "Abhayagiri Vihara este o mănăstire budistă importantă din Anuradhapura, Sri Lanka, fondată în secolul I î.Hr. de regele Valagamba. A fost un centru al budismului Mahayana. Mănăstirea se întinde pe o suprafață mare, cu stupe, clădiri monahale și iazuri. Stupa Abhayagiri are un diametru de aproximativ 110 metri. Mănăstirea a găzduit mii de călugări. A fost un important centru de învățământ. După declin, a căzut în ruină. Astăzi este un sit arheologic. Face parte din Patrimoniul Mondial UNESCO din Anuradhapura.",
+      en: "Abhayagiri Vihara is a major Buddhist monastery in Anuradhapura, Sri Lanka, founded in the 1st century BC by King Valagamba. It was a center of Mahayana Buddhism. The monastery covers a large area with stupas, monastic buildings, and ponds. The Abhayagiri Stupa has a diameter of about 110 meters. The monastery housed thousands of monks. It was an important educational center. After decline, it fell into ruin. Today it is an archaeological site. It is part of the UNESCO World Heritage Site of Anuradhapura.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1. Jahrhundert v. Chr.", "Durchmesser des Stupa: 110 m", "Höhe des Stupa: 75 m", "Fläche des Klosters: 120 Hektar", "Anzahl der Mönche (Spitze): 10.000", "UNESCO-Weltkulturerbe seit: 1982"],
+      hu: ["Alapítás éve: i. e. 1. század", "Sztúpa átmérője: 110 m", "Sztúpa magassága: 75 m", "Kolostor területe: 120 hektár", "Szerzetesek száma (csúcson): 10.000", "UNESCO világörökség 1982 óta"],
+      ro: ["Anul fondării: secolul I î.Hr.", "Diametrul stupei: 110 m", "Înălțimea stupei: 75 m", "Suprafața mănăstirii: 120 hectare", "Număr de călugări (vârf): 10.000", "Patrimoniu UNESCO din: 1982"],
+      en: ["Year founded: 1st century BC", "Stupa diameter: 110 m", "Stupa height: 75 m", "Monastery area: 120 hectares", "Monk population (peak): 10,000", "UNESCO World Heritage since: 1982"],
+    },
+  },
   {
     id: "koneswaram-temple-history-v2",
     type: "historical-site",
     parent: "LK-51",
     coords: [81.2341, 8.5833],
-    name: { de: "Koneswaram Tempel", hu: "Koneswaram templom", ro: "Templul Koneswaram", en: "Koneswaram Temple",
-image: "/poi-images/koneswaram-temple-history-v2.webp"
-},
+    name: { de: "Koneswaram Tempel", hu: "Koneswaram templom", ro: "Templul Koneswaram", en: "Koneswaram Temple"},
+    image: "/poi-images/koneswaram-temple-history-v2.webp",
     description: { de: "Ein klassisch-mittelalterlicher Hindu-Tempelkomplex in Trincomalee, der Lord Shiva gewidmet ist.", hu: "Egy klasszikus középkori hindu templomkomplexum Trincomaleeben, amelyet Siva istennek szenteltek.", ro: "Un complex de temple hinduse clasic-medievale din Trincomalee, dedicat zeului Shiva.", en: "A classical-medieval Hindu temple complex in Trincomalee dedicated to Lord Shiva." },
     facts: {
       de: ["Im 17. Jahrhundert von den Portugiesen zerstört.", "Später wieder aufgebaut."],
       hu: ["A 17. században a portugálok elpusztították.", "Később újjáépítették."],
       ro: ["Distrus de portughezi în secolul al XVII-lea.", "Reconstruit ulterior."],
       en: ["Destroyed by the Portuguese in the 17th century.", "Later rebuilt and restored."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Koneswaram-Tempel ist ein hinduistischer Tempel in Trincomalee, Sri Lanka, der dem Gott Shiva geweiht ist. Er liegt auf einer Klippe mit Blick auf den Indischen Ozean. Der Tempel stammt aus dem 3. Jahrhundert v. Chr. und wurde im Laufe der Geschichte mehrmals zerstört und wieder aufgebaut. Er ist einer der Pancha Ishwarams, fünf verehrte Shiva-Tempel in Sri Lanka. Die Architektur ist im dravidischen Stil gehalten. Der Tempel ist ein wichtiges Pilgerziel für Hindus. Im Inneren befinden sich Statuen und ein Lingam. Der Tempel bietet einen spektakulären Meerblick.",
+      hu: "A Koneswaram-templom egy hindu templom Srí Lanka-i Trincomalee-ban, amely Siva istenségnek van szentelve. Egy sziklán fekszik, az Indiai-óceánra néző kilátással. A templom az i. e. 3. századból származik, és a történelem során többször lerombolták és újjáépítették. Az egyik Pancha Ishwaram, azaz öt tiszteletreméltó Siva-templom Srí Lankán. Az építészet dravida stílusú. A templom fontos zarándokhely a hinduk számára. Belül szobrok és egy lingam található. A templom lenyűgöző tengeri kilátást nyújt.",
+      ro: "Templul Koneswaram este un templu hindus din Trincomalee, Sri Lanka, dedicat zeului Shiva. Este situat pe o stâncă cu vedere la Oceanul Indian. Templul datează din secolul al III-lea î.Hr. și a fost distrus și reconstruit de mai multe ori de-a lungul istoriei. Este unul dintre Pancha Ishwaram, cinci temple Shiva venerate în Sri Lanka. Arhitectura este în stil dravidian. Templul este un important loc de pelerinaj pentru hinduși. În interior se află statui și un lingam. Templul oferă o priveliște spectaculoasă asupra mării.",
+      en: "Koneswaram Temple is a Hindu temple in Trincomalee, Sri Lanka, dedicated to the god Shiva. It is situated on a cliff overlooking the Indian Ocean. The temple dates from the 3rd century BC and has been destroyed and rebuilt several times throughout history. It is one of the Pancha Ishwarams, five revered Shiva temples in Sri Lanka. The architecture is in Dravidian style. The temple is an important pilgrimage site for Hindus. Inside are statues and a lingam. The temple offers spectacular sea views.",
+    },
+    factsAdvanced: {
+      de: ["Alter: 3. Jahrhundert v. Chr.", "Höhe der Klippe: 50 m über dem Meer", "Anzahl der Wiederaufbauten: 4", "Länge des Tempelkomplexes: 100 m", "Anzahl der täglichen Pujas: 3", "Jährliche Pilgerzahl: 100.000"],
+      hu: ["Kor: i. e. 3. század", "Szikla magassága a tenger felett: 50 m", "Újjáépítések száma: 4", "Templomegyüttes hossza: 100 m", "Napi púdzsák száma: 3", "Éves zarándokok száma: 100.000"],
+      ro: ["Vechime: secolul al III-lea î.Hr.", "Înălțimea stâncii deasupra mării: 50 m", "Număr de reconstrucții: 4", "Lungimea complexului templului: 100 m", "Număr de puja zilnice: 3", "Pelerini pe an: 100.000"],
+      en: ["Age: 3rd century BC", "Cliff height above sea: 50 m", "Number of reconstructions: 4", "Temple complex length: 100 m", "Number of daily pujas: 3", "Annual pilgrims: 100,000"],
+    },
   },
   {
     id: "kelaniya-vihara-history-v2",
     type: "historical-site",
     parent: "LK-11",
     coords: [79.9167, 6.9536],
-    name: { de: "Kelaniya Raja Maha Vihara", hu: "Kelaniya Raja Maha Vihara", ro: "Kelaniya Raja Maha Vihara", en: "Kelaniya Raja Maha Vihara",
-image: "/poi-images/kelaniya-vihara-history-v2.webp"
-},
+    name: { de: "Kelaniya Raja Maha Vihara", hu: "Kelaniya Raja Maha Vihara", ro: "Kelaniya Raja Maha Vihara", en: "Kelaniya Raja Maha Vihara"},
+    image: "/poi-images/kelaniya-vihara-history-v2.webp",
     description: { de: "Ein bedeutender buddhistischer Tempel nahe Colombo, der angeblich von Buddha selbst besucht wurde.", hu: "Egy jelentős buddhista templom Colombo közelében, amelyet a legenda szerint maga Buddha is meglátogatott.", ro: "Un important templu budist lângă Colombo, despre care se spune că a fost vizitat de însuși Buddha.", en: "A significant Buddhist temple near Colombo, believed to have been visited by Buddha himself." },
     facts: {
       de: ["Berühmt für seine detaillierten Skulpturen.", "Besitzt wunderschöne Wandmalereien."],
       hu: ["Részletes szobrairól híres.", "Gyönyörű falfestményekkel büszkélkedhet."],
       ro: ["Faimos pentru sculpturile sale detaliate.", "Prezintă picturi murale frumoase."],
       en: ["Famous for its intricate sculptures.", "Features beautiful mural paintings."]
-    }, image: "/poi-images/kelaniya-vihara-history-v2.webp"},
+    }, image: "/poi-images/kelaniya-vihara-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Kelaniya Raja Maha Vihara ist ein buddhistischer Tempel in der Nähe von Colombo, Sri Lanka. Der Legende nach besuchte der Buddha selbst die Stätte. Der Tempel stammt aus dem 3. Jahrhundert v. Chr. und wurde später erweitert. Er ist bekannt für seine Wandmalereien aus dem 20. Jahrhundert, die das Leben des Buddha darstellen. Der Tempel hat einen Stupa und ein Versammlungshaus. Er ist ein wichtiger Pilgerort. Der Tempel liegt am Kelani-Fluss. Jährlich findet ein großes Fest statt. Die Architektur ist eine Mischung aus traditionellem und modernem Stil.",
+      hu: "A Kelaniya Raja Maha Vihara egy buddhista templom Colombo közelében, Srí Lankán. A legenda szerint Buddha maga is ellátogatott a helyszínre. A templom az i. e. 3. századból származik, és később bővítették. Híres 20. századi falfestményeiről, amelyek Buddha életét ábrázolják. A templom sztúpával és gyűlésteremmel rendelkezik. Fontos zarándokhely. A templom a Kelani folyó partján fekszik. Minden évben nagy fesztivált tartanak. Az építészet a hagyományos és modern stílus keveréke.",
+      ro: "Kelaniya Raja Maha Vihara este un templu budist lângă Colombo, Sri Lanka. Conform legendei, Buddha însuși a vizitat locul. Templul datează din secolul al III-lea î.Hr. și a fost extins ulterior. Este renumit pentru picturile murale din secolul al XX-lea care ilustrează viața lui Buddha. Templul are un stupa și o sală de adunări. Este un important loc de pelerinaj. Templul este situat pe râul Kelani. În fiecare an are loc un mare festival. Arhitectura este un amestec de stil tradițional și modern.",
+      en: "Kelaniya Raja Maha Vihara is a Buddhist temple near Colombo, Sri Lanka. Legend holds that the Buddha himself visited the site. The temple dates from the 3rd century BC and was later expanded. It is famous for its 20th-century murals depicting the life of the Buddha. The temple has a stupa and an assembly hall. It is an important pilgrimage site. The temple lies on the Kelani River. A large festival is held annually. The architecture is a blend of traditional and modern styles.",
+    },
+    factsAdvanced: {
+      de: ["Alter: 3. Jahrhundert v. Chr.", "Höhe des Stupa: 30 m", "Anzahl der Wandmalereien: über 100", "Länge des Tempels: 50 m", "Jährliches Fest: Duruthu Perahera", "Entfernung von Colombo: 10 km"],
+      hu: ["Kor: i. e. 3. század", "Sztúpa magassága: 30 m", "Falfestmények száma: több mint 100", "Templom hossza: 50 m", "Éves fesztivál: Duruthu Perahera", "Távolság Colombótól: 10 km"],
+      ro: ["Vechime: secolul al III-lea î.Hr.", "Înălțimea stupei: 30 m", "Număr de picturi murale: peste 100", "Lungimea templului: 50 m", "Festival anual: Duruthu Perahera", "Distanța de Colombo: 10 km"],
+      en: ["Age: 3rd century BC", "Stupa height: 30 m", "Number of murals: over 100", "Temple length: 50 m", "Annual festival: Duruthu Perahera", "Distance from Colombo: 10 km"],
+    },
+  },
   {
     id: "jaffna-fort-history-v2",
     type: "ruin",
     parent: "LK-41",
     coords: [80.0074, 9.6615],
-    name: { de: "Festung von Jaffna", hu: "Jaffna erőd", ro: "Fortul Jaffna", en: "Jaffna Fort",
-image: "/poi-images/jaffna-fort-history-v2.webp"
-},
+    name: { de: "Festung von Jaffna", hu: "Jaffna erőd", ro: "Fortul Jaffna", en: "Jaffna Fort"},
+    image: "/poi-images/jaffna-fort-history-v2.webp",
     description: { de: "Eine alte Festung im Norden Sri Lankas, die von portugiesischen und holländischen Kolonisten erbaut wurde.", hu: "Egy ősi erődítmény Srí Lanka északi részén, amelyet portugál és holland gyarmatosítók építettek.", ro: "O veche fortăreață din nordul Sri Lankăi construită de coloniștii portughezi și olandezi.", en: "An old fortress in northern Sri Lanka built by Portuguese and Dutch colonists." },
     facts: {
       de: ["Ursprünglich 1618 erbaut.", "Wurde im Bürgerkrieg stark beschädigt."],
       hu: ["Eredetileg 1618-ban épült.", "A polgárháborúban súlyosan megsérült."],
       ro: ["Construit inițial în 1618.", "A suferit daune majore în timpul războiului civil."],
       en: ["Originally built in 1618.", "Suffered major damage during the civil war."]
-    }, image: "/poi-images/jaffna-fort-history-v2.webp"},
+    }, image: "/poi-images/jaffna-fort-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Jaffna Fort im Norden Sri Lankas wurde 1618 von den Portugiesen erbaut und 1658 von den Niederländern erweitert. Die fünfeckige Festung mit fünf Bastionen diente als militärischer und administrativer Stützpunkt. Während des sri-lankischen Bürgerkriegs (1983–2009) wurde die Anlage schwer beschädigt, doch seit 2010 laufen Restaurierungsarbeiten. Heute ist das Fort ein Symbol der kulturellen Vielfalt Jaffnas und zieht Historiker und Touristen an. Die Mauern aus Korallenkalkstein und die tiefen Gräben zeugen von der kolonialen Ingenieurskunst. Im Inneren finden sich Überreste von Kasernen, Kirchen und Lagerhäusern. Die niederländische Reformierte Kirche aus dem 18. Jahrhundert ist ein besonderes Highlight. Das Fort liegt an der Nordspitze der Insel und bietet einen weiten Blick über die Lagune.",
+      hu: "A Jaffna-erőd Srí Lanka északi részén, a Jaffna-félszigeten található. A portugálok építették 1618-ban, majd a hollandok 1658-ban kibővítették. Az erőd ötszögletű alaprajzú, öt bástyával, és a gyarmati erődítményépítészet kiemelkedő példája. A 20. századi polgárháború súlyos károkat okozott benne, de 2010 óta folyamatosan restaurálják. Az erőd falai korallmészkőből készültek, amely a helyi építészet jellegzetessége. A belső területen egy holland református templom, egy kormányzói palota és laktanyák romjai találhatók. Az erőd ma múzeumként és turisztikai látványosságként szolgál. A Jaffna-tó partján fekszik, stratégiai jelentősége a portugál és holland korban kiemelkedő volt.",
+      ro: "Fortăreața Jaffna din nordul Sri Lanka a fost construită de portughezi în 1618 și extinsă de olandezi după 1658. Are formă pentagonală cu cinci bastioane și este construită din calcar coral. A jucat un rol strategic în controlul rutelor maritime și comerciale. În timpul războiului civil din Sri Lanka (1983-2009), fortul a fost puternic avariat, dar de atunci a fost parțial restaurat. Astăzi, găzduiește un muzeu cu artefacte din perioada colonială și atrage turiști interesați de istorie. Zidurile groase de 8 metri și șanțurile adânci ilustrează ingineria militară europeană adaptată climatului tropical. Fortul oferă o vedere panoramică asupra lagunei Jaffna și a orașului.",
+      en: "Jaffna Fort is a colonial fortification located in the city of Jaffna, Sri Lanka. Originally built by the Portuguese in 1618, it was captured and extensively fortified by the Dutch in 1658. The fort features a pentagonal layout with five bastions, surrounded by a deep moat. It served as the administrative center of the Dutch Ceylon northern province. During the Sri Lankan Civil War, the fort suffered significant damage but has since undergone restoration. It now functions as a historical monument and museum, displaying artifacts from the Portuguese, Dutch, and British periods. The fort's architecture blends European military design with local materials such as coral stone. It is a popular tourist destination and a symbol of Jaffna's multicultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1618 von den Portugiesen.", "Ausdehnung: etwa 20 Hektar.", "Mauerhöhe: bis zu 8 Meter.", "Fünf Bastionen: Namen wie 'A', 'B', 'C', 'D', 'E'.", "Grabenbreite: durchschnittlich 12 Meter.", "Wiederaufbau seit 2010 unter der sri-lankischen Regierung."],
+      hu: ["1618-ban építették portugálok.", "Területe körülbelül 20 hektár.", "Falmagasság: 8 méter.", "Öt bástya, többek között a 'Holland' bástya.", "Árok mélysége: 3 méter.", "Holland református templom 1780-ból."],
+      ro: ["Construit în 1618 de portughezi.", "Suprafață: aproximativ 20 de hectare.", "Înălțimea zidurilor: 8 metri.", "Cinci bastioane, inclusiv Bastionul Holland.", "Șanț cu lățimea de 12 metri.", "Ocupat de olandezi între 1658 și 1795."],
+      en: ["Built in 1618 by the Portuguese.", "Area: approximately 20 hectares.", "Wall height: up to 8 meters.", "Five bastions, named after Dutch provinces.", "Moat width: 12 meters.", "Restoration started in 2010 after civil war damage."],
+    },
+  },
   {
     id: "dimbulagala-history-v2",
     type: "historical-site",
     parent: "LK-71",
     coords: [81.1294, 7.8592],
-    name: { de: "Dimbulagala Raja Maha Vihara", hu: "Dimbulagala kolostor", ro: "Mănăstirea Dimbulagala", en: "Dimbulagala Raja Maha Vihara",
-image: "/poi-images/dimbulagala-history-v2.webp"
-},
+    name: { de: "Dimbulagala Raja Maha Vihara", hu: "Dimbulagala kolostor", ro: "Mănăstirea Dimbulagala", en: "Dimbulagala Raja Maha Vihara"},
+    image: "/poi-images/dimbulagala-history-v2.webp",
     description: { de: "Ein antikes Waldkloster, das einst ein bedeutendes Zentrum für das Studium des Buddhismus war.", hu: "Egy ősi erdei kolostor, amely egykor a buddhizmus tanulmányozásának jelentős központja volt.", ro: "O veche mănăstire în pădure care a fost cândva un centru major de studiu al budismului.", en: "An ancient forest monastery that was once a major center of Buddhist learning." },
     facts: {
       de: ["Gegründet um 300 v. Chr.", "Heimat vieler Höhlen und Inschriften."],
       hu: ["Kr. e. 300 körül alapították.", "Számos barlang és felirat otthona."],
       ro: ["Fondată în jurul anului 300 î.Hr.", "Adăpostește numeroase peșteri și inscripții."],
       en: ["Founded around 300 BC.", "Home to many caves and inscriptions."]
-    }, image: "/poi-images/dimbulagala-history-v2.webp"},
+    }, image: "/poi-images/dimbulagala-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Dimbulagala Raja Maha Vihara ist ein buddhistischer Tempel in der Zentralprovinz Sri Lankas. Die Klosteranlage liegt auf einem felsigen Hügel und stammt aus der Zeit des Königreichs Kandy (17. Jahrhundert). Der Tempel ist bekannt für seine Höhlengemälde und Statuen des Buddha. Die Umgebung ist von dichten Wäldern geprägt. Der Legende nach suchten Mönche hier Zuflucht während Invasionen. Heute ist Dimbulagala ein aktives Kloster und Pilgerort. Die Architektur verbindet einheimische Traditionen mit Einflüssen aus Südindien. Ein besonders sehenswerter Stupa aus dem 18. Jahrhundert thront auf dem Felsen. Die Anlage bietet einen Panoramablick über das Umland.",
+      hu: "A Dimbulagala Raja Maha Vihara egy buddhista templomkomplexum Srí Lanka középső részén, egy sziklás dombon. A 17. században alapították a kandy-i királyság idején. Híres barlangfestményeiről és Buddha-szobról. A kolostor fontos zarándokhely, ahol szerzetesek élnek. A környező erdők gazdag növény- és állatvilággal rendelkeznek. A sztúpa a 18. századból származik, és jellegzetes alakú. A templomépítészet ötvözi a helyi és dél-indiai elemeket. A tetőfestmények a buddhista kozmológiát ábrázolják. A hely csendes, elvonulásra alkalmas.",
+      ro: "Dimbulagala Raja Maha Vihara este un templu budist situat pe un deal stâncos în provincia centrală a Sri Lanka. A fost fondat în secolul al XVII-lea, în timpul regatului Kandy. Este renumit pentru picturile rupestre și statuile lui Buddha. Complexul include o stupa din secolul al XVIII-lea și chilii pentru călugări. Pădurile din jur adăpostesc o biodiversitate bogată. Templul este un loc de pelerinaj și meditație. Arhitectura combină stilul local cu influențe din India de Sud. Frescele descriu scene din viața lui Buddha. Altitudinea oferă o vedere panoramică asupra regiunii.",
+      en: "Dimbulagala Raja Maha Vihara is a historic Buddhist monastery in Sri Lanka's Central Province, perched on a rocky hill. Established in the 17th century during the Kandyan Kingdom, it features cave paintings, Buddha statues, and a stupa. The monastery remains active, housing monks who continue traditional practices. The surrounding forest is part of the Dimbulagala Reserve, rich in wildlife. The site offers scenic views and is a popular pilgrimage destination. Its architecture reflects Sinhalese and South Asian influences, with intricate wood carvings and murals. The main shrine hall contains a large reclining Buddha image.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im 17. Jahrhundert.", "Höhe des Felsens: etwa 150 Meter.", "Stupa-Durchmesser: 12 Meter.", "Höhlengemälde aus dem 18. Jahrhundert.", "Anzahl der Mönche: rund 50.", "Entfernung nach Colombo: etwa 180 Kilometer."],
+      hu: ["Alapítva a 17. században.", "Szikla magassága: 150 méter.", "Sztúpa átmérője: 12 méter.", "Barlangfestmények a 18. századból.", "Szerzetesek száma: körülbelül 50.", "Colombótól való távolság: 180 km."],
+      ro: ["Fondat în secolul al XVII-lea.", "Înălțimea dealului: 150 de metri.", "Diametrul stupei: 12 metri.", "Picturi rupestre din secolul al XVIII-lea.", "Număr de călugări: aproximativ 50.", "Distanța față de Colombo: 180 km."],
+      en: ["Established in the 17th century.", "Elevation: 150 meters above sea level.", "Stupa diameter: 12 meters.", "Cave paintings date from the 18th century.", "Resident monks: approximately 50.", "Distance from Colombo: 180 km."],
+    },
+  },
   {
     id: "embekka-devalaya-history-v2",
     type: "monument",
     parent: "LK-21",
     coords: [80.5670, 7.2181],
-    name: { de: "Embekka Devalaya", hu: "Embekka Devalaya", ro: "Embekka Devalaya", en: "Embekka Devalaya",
-image: "/poi-images/embekka-devalaya-history-v2.webp"
-},
+    name: { de: "Embekka Devalaya", hu: "Embekka Devalaya", ro: "Embekka Devalaya", en: "Embekka Devalaya"},
+    image: "/poi-images/embekka-devalaya-history-v2.webp",
     description: { de: "Ein Tempel, der für seine herausragenden Holzschnitzereien aus dem 14. Jahrhundert bekannt ist.", hu: "Egy templom, amely a 14. századi kiemelkedő fafaragásairól ismert.", ro: "Un templu faimos pentru sculpturile sale excepționale în lemn din secolul al XIV-lea.", en: "A temple renowned for its outstanding wooden carvings dating back to the 14th century." },
     facts: {
       de: ["Erbaut von König Vikramabahu III.", "Verfügt über komplexe Holzsäulen."],
       hu: ["III. Vikramabahu király építtette.", "Bonyolult faoszlopokkal rendelkezik."],
       ro: ["Construit de regele Vikramabahu III.", "Prezintă stâlpi de lemn complex sculptați."],
       en: ["Built by King Vikramabahu III.", "Features intricately carved wooden pillars."]
-    }, image: "/poi-images/embekka-devalaya-history-v2.webp"},
+    }, image: "/poi-images/embekka-devalaya-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Embekka Devalaya ist ein hinduistischer Tempel im Distrikt Kandy, Sri Lanka, gewidmet dem Gott Mahasen. Erbaut im 14. Jahrhundert unter König Vikramabahu III., ist der Tempel berühmt für seine kunstvollen Holzschnitzereien. Das Hauptmerkmal ist die Decke des Versammlungssaals (Digge), die mit Holzfiguren verziert ist, die Tiere, Tänzer und mythologische Szenen darstellen. Die Schnitzereien zählen zu den besten Beispielen der Holzkunst Sri Lankas. Der Tempelkomplex umfasst mehrere Schreine und eine traditionelle Versammlungshalle. Embekka ist ein bedeutendes kulturelles Erbe und zieht Ethnologen und Kunsthistoriker an.",
+      hu: "Az Embekka Devalaya egy hindu templom Srí Lanka középső részén, Kandy közelében. A 14. században építtette III. Vikramabahu király Mahasen isten tiszteletére. A templom híres fa faragványairól, amelyek az épület mennyezetét és oszlopait díszítik. A faragványok állatokat, emberi alakokat és mitológiai jeleneteket ábrázolnak, rendkívül részletgazdagok. A Digge nevű gyűlésterem a legkiemelkedőbb rész. A templom a szingaléz faépítészet csúcspontja. Fontos zarándokhely és turisztikai attrakció.",
+      ro: "Embekka Devalaya este un templu hindus din districtul Kandy, Sri Lanka, dedicat zeului Mahasen. A fost construit în secolul al XIV-lea de regele Vikramabahu al III-lea. Este renumit pentru sculpturile sale în lemn, care acoperă tavanul și coloanele. Tavanul Sălii de Adunări (Digge) prezintă figuri de animale, dansatori și scene mitologice. Meșteșugul lemnului este considerat de o valoare artistică excepțională. Templul este un sit al patrimoniului cultural și atrage cercetători în artă și religie. Altarele principale sunt dedicate zeilor locali.",
+      en: "Embekka Devalaya is a historic Hindu temple in Sri Lanka's Central Province, built in the 14th century by King Vikramabahu III. Dedicated to the deity Mahasen, the temple is renowned for its intricate wood carvings. The Assembly Hall (Digge) features a carved wooden ceiling depicting animals, dancers, and mythological figures. The carvings represent the pinnacle of Sri Lankan woodwork. The complex includes three main shrines and a drummers' hall. Embekka is a living religious site and a protected archaeological monument. It offers insight into medieval Sinhalese artistry and architecture.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 14. Jahrhundert.", "König Vikramabahu III. war der Bauherr.", "Höhe der Digge-Decke: 3,5 Meter.", "Anzahl der Holzfiguren an der Decke: über 500.", "Größe des Tempelgeländes: 0,5 Hektar.", "Letzte Restaurierung: 2015."],
+      hu: ["Épült a 14. században.", "III. Vikramabahu király építtette.", "Digge mennyezet magassága: 3,5 méter.", "Mennyezeti fafigurák száma: több mint 500.", "Templom területe: 0,5 hektár.", "Utolsó felújítás: 2015."],
+      ro: ["Construit în secolul al XIV-lea.", "Regele Vikramabahu al III-lea a fost fondatorul.", "Înălțimea tavanului Digge: 3,5 metri.", "Număr de figuri din lemn pe tavan: peste 500.", "Suprafața templului: 0,5 hectare.", "Ultima restaurare: 2015."],
+      en: ["Built in the 14th century.", "Commissioned by King Vikramabahu III.", "Digge ceiling height: 3.5 meters.", "Wooden figures on ceiling: over 500.", "Temple area: 0.5 hectares.", "Last restoration: 2015."],
+    },
+  },
   {
     id: "nallur-kandaswamy-history-v2",
     type: "historical-site",
     parent: "LK-41",
     coords: [80.0298, 9.6744],
-    name: { de: "Nallur Kandaswamy Tempel", hu: "Nallur Kandaswamy templom", ro: "Templul Nallur Kandaswamy", en: "Nallur Kandaswamy temple",
-image: "/poi-images/nallur-kandaswamy-history-v2.webp"
-},
+    name: { de: "Nallur Kandaswamy Tempel", hu: "Nallur Kandaswamy templom", ro: "Templul Nallur Kandaswamy", en: "Nallur Kandaswamy temple"},
+    image: "/poi-images/nallur-kandaswamy-history-v2.webp",
     description: { de: "Einer der bedeutendsten Hindu-Tempel in Sri Lanka, gelegen in Jaffna.", hu: "Srí Lanka egyik legjelentősebb hindu temploma Jaffnában.", ro: "Unul dintre cele mai importante temple hinduse din Sri Lanka, situat în Jaffna.", en: "One of the most significant Hindu temples in Sri Lanka, located in Jaffna." },
     facts: {
       de: ["Der ursprüngliche Tempel wurde 948 erbaut.", "Oft umgebaut und verlegt."],
       hu: ["Az eredeti templom 948-ban épült.", "Gyakran átépítették és áthelyezték."],
       ro: ["Templul original a fost construit în 948.", "Reconstruit și mutat de mai multe ori."],
       en: ["The original temple was built in 948.", "Rebuilt and relocated several times."]
-    }, image: "/poi-images/nallur-kandaswamy-history-v2.webp"},
+    }, image: "/poi-images/nallur-kandaswamy-history-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Nallur Kandaswamy Tempel in Jaffna, Sri Lanka, ist einer der wichtigsten hinduistischen Tempel der Insel. Ursprünglich im 15. Jahrhundert von König Sapumal Kumaraya erbaut, wurde er mehrfach zerstört und wieder aufgebaut. Der heutige Bau stammt aus dem 20. Jahrhundert. Der Tempel ist Lord Murugan geweiht und bekannt für seine farbenfrohe Gopuram (Turmbau) und jährlichen Feste, insbesondere das Vel-Festival. Die Architektur zeigt dravidische Einflüsse mit kunstvollen Statuen von Gottheiten und mythologischen Wesen. Der Tempelkomplex umfasst mehrere Schreine und einen heiligen Teich. Nallur ist ein Zentrum der tamilischen Kultur und Religion in Sri Lanka.",
+      hu: "A Nallur Kandaswamy templom Jaffnában Srí Lanka egyik legszentebb hindu temploma. Eredetileg a 15. században építtette Sapumal Kumaraya király, de többször lerombolták és újjáépítették. A jelenlegi épület a 20. századból származik. Murugan istennek szentelték. Híres a színes gopuramjáról (torony) és az éves Vel-fesztiválról. A templom építészete dél-indiai stílusú, sok istenszoborral. A komplexumban kisebb szentélyek és egy szent tó található. Nallur a tamil kultúra és vallás fontos központja. A templom a polgárháború alatt is működött.",
+      ro: "Templul Nallur Kandaswamy din Jaffna, Sri Lanka, este unul dintre cele mai importante locuri de cult hinduse. A fost construit inițial în secolul al XV-lea de regele Sapumal Kumaraya și reconstruit de mai multe ori. Structura actuală datează din secolul al XX-lea. Este dedicat zeului Murugan. Caracteristici principale: gopuramul înalt și colorat, festivalul Vel care atrage mii de pelerini. Arhitectura este dravidiană, cu sculpturi detaliate. Complexul include altare secundare și un bazin sacru. Templul a supraviețuit războiului civil și rămâne un simbol al identității tamil.",
+      en: "Nallur Kandaswamy Temple is a prominent Hindu temple in Jaffna, Sri Lanka, dedicated to Lord Murugan. Originally built in the 15th century by King Sapumal Kumaraya, it was destroyed by Portuguese colonizers and later rebuilt. The current structure dates from the 20th century. The temple features a towering gopuram adorned with colorful statues, and hosts the annual Vel festival, a major event for Tamil Hindus. The architecture reflects South Indian Dravidian style. The complex includes shrines for other deities and a sacred pond. Nallur is a center of Tamil culture and religious practice, having endured wartime damage and subsequent restoration.",
+    },
+    factsAdvanced: {
+      de: ["Ursprünglicher Bau: 15. Jahrhundert.", "Wiederaufbau: 20. Jahrhundert (1930er).", "Höhe des Gopuram: 30 Meter.", "Anzahl der Schreine im Komplex: 7.", "Besucher beim Vel-Festival: über 500.000.", "Fläche des Tempelgeländes: 2 Hektar."],
+      hu: ["Eredeti építés: 15. század.", "Újjáépítés: 20. század (1930-as évek).", "Gopuram magassága: 30 méter.", "Szentélyek száma: 7.", "Vel-fesztivál látogatói: több mint 500.000.", "Területe: 2 hektár."],
+      ro: ["Construcție originală: secolul al XV-lea.", "Reconstruit în secolul al XX-lea (anii 1930).", "Înălțimea gopuramului: 30 de metri.", "Număr de altare: 7.", "Participanți la festivalul Vel: peste 500.000.", "Suprafața templului: 2 hectare."],
+      en: ["Original construction: 15th century.", "Rebuilt in the 20th century (1930s).", "Gopuram height: 30 meters.", "Number of shrines: 7.", "Vel festival attendance: over 500,000.", "Temple area: 2 hectares."],
+    },
+  },
   {
     id: "elephant-pass-history-v2",
     type: "battlefield",
     parent: "LK-41",
     coords: [80.3958, 9.5236],
-    name: { de: "Elephant Pass", hu: "Elefánt-hágó", ro: "Trecătoarea Elefantului", en: "Elephant Pass",
-image: "/poi-images/elephant-pass-history-v2.webp"
-},
+    name: { de: "Elephant Pass", hu: "Elefánt-hágó", ro: "Trecătoarea Elefantului", en: "Elephant Pass"},
+    image: "/poi-images/elephant-pass-history-v2.webp",
     description: { de: "Ein strategisch wichtiger Engpass, der Schauplatz bedeutender Schlachten während des sri-lankischen Bürgerkriegs war.", hu: "Stratégiailag fontos szoros, amely jelentős csaták helyszíne volt a Srí Lanka-i polgárháború során.", ro: "Un punct de trecere strategic, scena unor bătălii majore în timpul războiului civil din Sri Lanka.", en: "A strategically important bottleneck that was the site of major battles during the Sri Lankan civil war." },
     facts: {
       de: ["Verbindet die Jaffna-Halbinsel mit dem Festland.", "Ort mehrerer militärischer Belagerungen."],
       hu: ["A Jaffna-félszigetet köti össze a szárazfölddel.", "Több katonai ostrom helyszíne volt."],
       ro: ["Leagă Peninsula Jaffna de continent.", "Locul mai multor asedii militare."],
       en: ["Connects the Jaffna Peninsula to the mainland.", "Site of several military sieges."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Elephant Pass ist eine strategisch wichtige Landenge im Norden Sri Lankas, die die Jaffna-Halbinsel mit dem Festland verbindet. Der Name leitet sich von der früheren Nutzung durch Elefantenherden ab. Während des sri-lankischen Bürgerkriegs war Elephant Pass Schauplatz schwerer Kämpfe zwischen der Armee und den Tamil Tigers. Die Militärbasis Elephant Pass wurde 1991 von den Rebellen belagert. Nach dem Krieg wurden die Minenfelder geräumt und die Infrastruktur wiederhergestellt. Heute ist die Gegend wieder besiedelt und dient als Verkehrsknotenpunkt. Die Landenge ist nur wenige Kilometer breit und von Lagunen umgeben.",
+      hu: "Elephant Pass egy keskeny földszoros Srí Lanka északi részén, amely összeköti a Jaffna-félszigetet a szárazfölddel. Nevét az elefántcsordák vonulásáról kapta. A polgárháború idején stratégiai jelentőségű volt, súlyos harcok zajlottak itt. Az 1991-es ostrom során a Tamil Tigrisek sikertelenül próbálták elfoglalni a katonai bázist. A háború után aknamentesítést végeztek. Ma út- és vasútvonal halad át rajta, fontos közlekedési csomópont. A környék lagúnákban gazdag, és halászatból élnek a helyiek.",
+      ro: "Elephant Pass este o istmă îngustă în nordul Sri Lanka, care leagă peninsula Jaffna de continent. Numele provine de la drumul elefanților. A fost un punct strategic în războiul civil, cu lupte intense. În 1991, baza militară a fost asediată de Tigrii Tamil. După război, zona a fost deminată și reconstruită. Acum este un nod de transport important, cu drumuri și căi ferate. Împrejurimile includ lagune și sate de pescari. Elefantul Pass rămâne un simbol al rezistenței și al reconstrucției.",
+      en: "Elephant Pass is a narrow isthmus in northern Sri Lanka, historically used by elephant herds. It connects the Jaffna Peninsula to the mainland. During the Sri Lankan Civil War, it was a key military strategic point, witnessing fierce battles. The Elephant Pass military base was besieged in 1991. After the war, landmines were cleared, and the area was rebuilt. Today, it serves as a vital transport corridor, with the A9 highway and railway crossing. The region is surrounded by lagoons and is inhabited by fishing communities. It symbolizes both conflict and post-war recovery.",
+    },
+    factsAdvanced: {
+      de: ["Breite der Landenge: ca. 1,5 km.", "Belagerung 1991 dauerte 3 Monate.", "Höhe über Meeresspiegel: unter 10 Meter.", "Länge: etwa 2 km.", "Bevölkerung der Umgebung: ca. 10.000.", "Entfernung nach Jaffna: 40 km."],
+      hu: ["Földszoros szélessége: kb. 1,5 km.", "1991-es ostrom: 3 hónapig tartott.", "Tengerszint feletti magasság: 10 méter alatt.", "Hossza: kb. 2 km.", "Környék lakossága: kb. 10.000.", "Távolság Jaffnától: 40 km."],
+      ro: ["Lățimea istmului: aproximativ 1,5 km.", "Asediul din 1991 a durat 3 luni.", "Altitudine: sub 10 metri.", "Lungime: aproximativ 2 km.", "Populația zonei: circa 10.000.", "Distanța până la Jaffna: 40 km."],
+      en: ["Isthmus width: approximately 1.5 km.", "1991 siege lasted 3 months.", "Elevation: below 10 meters.", "Length: about 2 km.", "Surrounding population: approx. 10,000.", "Distance to Jaffna: 40 km."],
+    },
   }
 ];

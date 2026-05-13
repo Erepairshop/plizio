@@ -6,9 +6,8 @@ export const poiExtraIranLifeV2: POI[] = [
     type: "park",
     parent: "IR-07",
     coords: [51.410, 35.777],
-    name: { de: "Mellat-Park", hu: "Mellat Park", ro: "Parcul Mellat", en: "Mellat Park",
-image: "/poi-images/mellat-park-tehran-life-v2.webp"
-},
+    name: { de: "Mellat-Park", hu: "Mellat Park", ro: "Parcul Mellat", en: "Mellat Park"},
+    image: "/poi-images/mellat-park-tehran-life-v2.webp",
     description: {
       de: "Einer der größten und beliebtesten Stadtparks in Teheran mit einem künstlichen See, Skulpturen und schattigen Wegen.",
       hu: "Teherán egyik legnagyobb és legnépszerűbb városi parkja mesterséges tóval, szobrokkal és árnyékos sétányokkal.",
@@ -38,9 +37,8 @@ image: "/poi-images/mellat-park-tehran-life-v2.webp"
     type: "park",
     parent: "IR-07",
     coords: [51.396, 35.715],
-    name: { de: "Laleh-Park", hu: "Laleh Park", ro: "Parcul Laleh", en: "Laleh Park",
-image: "/poi-images/laleh-park-tehran-life-v2.webp"
-},
+    name: { de: "Laleh-Park", hu: "Laleh Park", ro: "Parcul Laleh", en: "Laleh Park"},
+    image: "/poi-images/laleh-park-tehran-life-v2.webp",
     description: {
       de: "Ein weitläufiger Park im Zentrum Teherans, der für seine grünen Rasenflächen, Springbrunnen und kulturellen Einrichtungen bekannt ist.",
       hu: "Egy tágas park Teherán központjában, amely zöld pázsitjairól, szökőkútjairól és kulturális intézményeiről ismert.",
@@ -70,9 +68,8 @@ image: "/poi-images/laleh-park-tehran-life-v2.webp"
     type: "kid-friendly",
     parent: "IR-07",
     coords: [51.272, 35.717],
-    name: { de: "Eram-Freizeitpark", hu: "Eram Vidámpark", ro: "Parcul de Distracții Eram", en: "Eram Amusement Park",
-image: "/poi-images/eram-amusement-park-life-v2.webp"
-},
+    name: { de: "Eram-Freizeitpark", hu: "Eram Vidámpark", ro: "Parcul de Distracții Eram", en: "Eram Amusement Park"},
+    image: "/poi-images/eram-amusement-park-life-v2.webp",
     description: {
       de: "Der größte Freizeitpark Irans bietet Fahrgeschäfte für Familien, einen Bootssee und verschiedene Unterhaltungsmöglichkeiten für Kinder.",
       hu: "Irán legnagyobb vidámparkja családi túrákat, csónakázótavat és különféle szórakozási lehetőségeket kínál gyerekeknek.",
@@ -102,9 +99,8 @@ image: "/poi-images/eram-amusement-park-life-v2.webp"
     type: "park",
     parent: "IR-04",
     coords: [51.602, 32.630],
-    name: { de: "Vogelgarten Isfahan", hu: "Iszfaháni Madárpark", ro: "Parcul Păsărilor din Isfahan", en: "Isfahan Birds Garden",
-image: "/poi-images/isfahan-birds-garden-life-v2.webp"
-},
+    name: { de: "Vogelgarten Isfahan", hu: "Iszfaháni Madárpark", ro: "Parcul Păsărilor din Isfahan", en: "Isfahan Birds Garden"},
+    image: "/poi-images/isfahan-birds-garden-life-v2.webp",
     description: {
       de: "Ein wunderschön angelegter Garten am Ufer des Zayandeh Rud, der Hunderte von Vogelarten aus aller Welt in natürlichen Gehegen präsentiert.",
       hu: "Gyönyörűen parkosított kert a Zajande-rud partján, amely a világ minden tájáról származó madárfajok százait mutatja be természetes élőhelyükön.",
@@ -134,9 +130,8 @@ image: "/poi-images/isfahan-birds-garden-life-v2.webp"
     type: "kid-friendly",
     parent: "IR-07",
     coords: [51.264, 35.716],
-    name: { de: "Zoo Teheran", hu: "Teheráni Állatkert", ro: "Grădina Zoologică din Teheran", en: "Tehran Zoo",
-image: "/poi-images/tehran-zoo-life-v2.webp"
-},
+    name: { de: "Zoo Teheran", hu: "Teheráni Állatkert", ro: "Grădina Zoologică din Teheran", en: "Tehran Zoo"},
+    image: "/poi-images/tehran-zoo-life-v2.webp",
     description: {
       de: "Der Hauptzoo der Hauptstadt bietet Familien die Möglichkeit, einheimische persische Tierarten sowie exotische Tiere zu beobachten.",
       hu: "A főváros fő állatkertje lehetőséget kínál a családoknak az őshonos perzsa állatfajok és egzotikus állatok megfigyelésére.",
@@ -166,9 +161,8 @@ image: "/poi-images/tehran-zoo-life-v2.webp"
     type: "agriculture",
     parent: "IR-29",
     coords: [55.998, 30.406],
-    name: { de: "Pistazienplantagen von Rafsandschan", hu: "Rafszandzsáni pisztáciaültetvények", ro: "Livezile de Fistic din Rafsanjan", en: "Rafsanjan Pistachio Orchards",
-image: "/poi-images/rafsanjan-pistachio-life-v2.webp"
-},
+    name: { de: "Pistazienplantagen von Rafsandschan", hu: "Rafszandzsáni pisztáciaültetvények", ro: "Livezile de Fistic din Rafsanjan", en: "Rafsanjan Pistachio Orchards"},
+    image: "/poi-images/rafsanjan-pistachio-life-v2.webp",
     description: {
       de: "Riesige landwirtschaftliche Flächen in der Provinz Kerman, die weltweit für die Produktion einiger der hochwertigsten Pistazien bekannt sind.",
       hu: "Hatalmas mezőgazdasági területek Kermán tartományban, amelyek a világ legkiválóbb minőségű pisztáciáinak termeléséről híresek.",
@@ -198,9 +192,8 @@ image: "/poi-images/rafsanjan-pistachio-life-v2.webp"
     type: "agriculture",
     parent: "IR-09",
     coords: [59.220, 35.275],
-    name: { de: "Safranfelder von Chorasan", hu: "Horászáni sáfránymezők", ro: "Câmpurile de Șofran din Khorasan", en: "Khorasan Saffron Fields",
-image: "/poi-images/khorasan-saffron-life-v2.webp"
-},
+    name: { de: "Safranfelder von Chorasan", hu: "Horászáni sáfránymezők", ro: "Câmpurile de Șofran din Khorasan", en: "Khorasan Saffron Fields"},
+    image: "/poi-images/khorasan-saffron-life-v2.webp",
     description: {
       de: "Die ausgedehnten Krokusfelder in Chorasan produzieren den Großteil des weltweit gehandelten Safrans, dem teuersten Gewürz der Welt.",
       hu: "A kiterjedt krókuszmezők Horászánban termelik a világon forgalmazott sáfrány legnagyobb részét, amely a világ legdrágább fűszere.",
@@ -230,9 +223,8 @@ image: "/poi-images/khorasan-saffron-life-v2.webp"
     type: "agriculture",
     parent: "IR-01",
     coords: [50.012, 37.199],
-    name: { de: "Teeplantagen von Lahidschan", hu: "Láhidzsáni teaültetvények", ro: "Plantațiile de Ceai din Lahijan", en: "Lahijan Tea Plantations",
-image: "/poi-images/lahijan-tea-plantations-life-v2.webp"
-},
+    name: { de: "Teeplantagen von Lahidschan", hu: "Láhidzsáni teaültetvények", ro: "Plantațiile de Ceai din Lahijan", en: "Lahijan Tea Plantations"},
+    image: "/poi-images/lahijan-tea-plantations-life-v2.webp",
     description: {
       de: "Die grünen, terrassierten Hügel rund um Lahidschan bilden das Zentrum der iranischen Teeproduktion am Kaspischen Meer.",
       hu: "A zöld, teraszos dombok Láhidzsán körül a Kaszpi-tenger menti iráni teatermelés központját alkotják.",
@@ -262,9 +254,8 @@ image: "/poi-images/lahijan-tea-plantations-life-v2.webp"
     type: "park",
     parent: "IR-07",
     coords: [51.463, 35.824],
-    name: { de: "Dschamschidieh-Park", hu: "Dzsamzsidieh Park", ro: "Parcul Jamshidieh", en: "Jamshidieh Park",
-image: "/poi-images/jamshidieh-park-life-v2.webp"
-},
+    name: { de: "Dschamschidieh-Park", hu: "Dzsamzsidieh Park", ro: "Parcul Jamshidieh", en: "Jamshidieh Park"},
+    image: "/poi-images/jamshidieh-park-life-v2.webp",
     description: {
       de: "Ein malerischer Steinpark an den Hängen des Elburs-Gebirges in Nord-Teheran, der fantastische Ausblicke und frische Bergluft bietet.",
       hu: "Festői kőpark az Elburz-hegység lejtőin Észak-Teheránban, amely fantasztikus kilátást és friss hegyi levegőt kínál.",
@@ -294,9 +285,8 @@ image: "/poi-images/jamshidieh-park-life-v2.webp"
     type: "park",
     parent: "IR-04",
     coords: [51.691, 32.639],
-    name: { de: "Blumengarten von Isfahan", hu: "Iszfaháni Virágoskert", ro: "Grădina de Flori din Isfahan", en: "Flowers Garden of Isfahan",
-image: "/poi-images/isfahan-flowers-garden-life-v2.webp"
-},
+    name: { de: "Blumengarten von Isfahan", hu: "Iszfaháni Virágoskert", ro: "Grădina de Flori din Isfahan", en: "Flowers Garden of Isfahan"},
+    image: "/poi-images/isfahan-flowers-garden-life-v2.webp",
     description: {
       de: "Ein farbenfroher Gartenkomplex, der traditionelle persische Landschaftsgestaltung mit einer großen Vielfalt an Blumen- und Pflanzenarten vereint.",
       hu: "Színes kertkomplexum, amely a hagyományos perzsa tájépítészetet ötvözi a virág- és növényfajok széles választékával.",
@@ -326,9 +316,8 @@ image: "/poi-images/isfahan-flowers-garden-life-v2.webp"
     type: "agriculture",
     parent: "IR-02",
     coords: [53.058, 36.565],
-    name: { de: "Reisfelder von Masandaran", hu: "Mázandaráni rizsföldek", ro: "Orezăriile din Mazandaran", en: "Mazandaran Rice Paddies",
-image: "/poi-images/mazandaran-rice-paddies-life-v2.webp"
-},
+    name: { de: "Reisfelder von Masandaran", hu: "Mázandaráni rizsföldek", ro: "Orezăriile din Mazandaran", en: "Mazandaran Rice Paddies"},
+    image: "/poi-images/mazandaran-rice-paddies-life-v2.webp",
     description: {
       de: "Die fruchtbaren Ebenen entlang des Kaspischen Meeres sind von üppigen grünen Reisfeldern geprägt, die das wichtigste landwirtschaftliche Gut der Region liefern.",
       hu: "A Kaszpi-tenger menti termékeny síkságokat buja zöld rizsföldek jellemzik, amelyek a régió legfontosabb mezőgazdasági termékét adják.",
@@ -359,9 +348,8 @@ image: "/poi-images/mazandaran-rice-paddies-life-v2.webp"
     type: "park",
     parent: "IR-07",
     coords: [51.419, 35.753],
-    name: { de: "Ab-o-Atasch Park", hu: "Ab-o-Atas Park", ro: "Parcul Ab-o-Atash", en: "Ab-o-Atash Park",
-image: "/poi-images/ab-o-atash-park-life-v2.webp"
-},
+    name: { de: "Ab-o-Atasch Park", hu: "Ab-o-Atas Park", ro: "Parcul Ab-o-Atash", en: "Ab-o-Atash Park"},
+    image: "/poi-images/ab-o-atash-park-life-v2.webp",
     description: {
       de: "Ein moderner Stadtpark in Teheran, dessen Name Wasser und Feuer bedeutet und der für seine beeindruckenden Feuer- und Wassertürme bekannt ist.",
       hu: "Egy modern városi park Teheránban, melynek neve Víz és Tűz, és lenyűgöző tűz- és víztornyairól ismert.",
@@ -391,9 +379,8 @@ image: "/poi-images/ab-o-atash-park-life-v2.webp"
     type: "agriculture",
     parent: "IR-04",
     coords: [51.442, 33.744],
-    name: { de: "Rosenfelder von Qamsar", hu: "Gamszári rózsamezők", ro: "Grădinile de Trandafiri din Qamsar", en: "Qamsar Rose Gardens",
-image: "/poi-images/qamsar-rose-gardens-life-v2.webp"
-},
+    name: { de: "Rosenfelder von Qamsar", hu: "Gamszári rózsamezők", ro: "Grădinile de Trandafiri din Qamsar", en: "Qamsar Rose Gardens"},
+    image: "/poi-images/qamsar-rose-gardens-life-v2.webp",
     description: {
       de: "Im Frühling erblühen in dieser Region unzählige Damaszenerrosen, die zur Herstellung des berühmten iranischen Rosenwassers geerntet werden.",
       hu: "Tavasszal számtalan damaszkuszi rózsa nyílik ebben a régióban, amelyeket a híres iráni rózsavíz készítéséhez takarítanak be.",
@@ -423,9 +410,8 @@ image: "/poi-images/qamsar-rose-gardens-life-v2.webp"
     type: "park",
     parent: "IR-04",
     coords: [51.608, 32.628],
-    name: { de: "Nazchwan-Waldpark", hu: "Nazsván Erdőpark", ro: "Parcul Forestier Nazhvan", en: "Nazhvan Forest Park",
-image: "/poi-images/nazhvan-forest-park-life-v2.webp"
-},
+    name: { de: "Nazchwan-Waldpark", hu: "Nazsván Erdőpark", ro: "Parcul Forestier Nazhvan", en: "Nazhvan Forest Park"},
+    image: "/poi-images/nazhvan-forest-park-life-v2.webp",
     description: {
       de: "Ein dicht bewaldeter Erholungspark am Zayandeh Rud, der zahlreiche Freizeitaktivitäten für Familien und Naturliebhaber bietet.",
       hu: "Sűrűn erdősített szabadidőpark a Zajande-rud mentén, amely számos szabadidős tevékenységet kínál családoknak és a természet kedvelőinek.",
@@ -455,9 +441,8 @@ image: "/poi-images/nazhvan-forest-park-life-v2.webp"
     type: "agriculture",
     parent: "IR-29",
     coords: [58.358, 29.098],
-    name: { de: "Dattelpalmenhaine von Bam", hu: "Bami datolyapálma-ligetek", ro: "Livezile de Palmieri din Bam", en: "Bam Date Palm Groves",
-image: "/poi-images/bam-date-palm-groves-life-v2.webp"
-},
+    name: { de: "Dattelpalmenhaine von Bam", hu: "Bami datolyapálma-ligetek", ro: "Livezile de Palmieri din Bam", en: "Bam Date Palm Groves"},
+    image: "/poi-images/bam-date-palm-groves-life-v2.webp",
     description: {
       de: "Ausgedehnte Palmenhaine umgeben die Wüstenstadt Bam und bringen einige der süßesten und begehrtesten Datteln der Welt hervor.",
       hu: "Kiterjedt pálmaligetek veszik körül Bam sivatagi városát, amelyek a világ legédesebb és legkeresettebb datolyáit teremik.",
@@ -487,9 +472,8 @@ image: "/poi-images/bam-date-palm-groves-life-v2.webp"
     type: "agriculture",
     parent: "IR-00",
     coords: [50.362, 35.016],
-    name: { de: "Granatapfelgärten von Saveh", hu: "Szávehi gránátalma-kertek", ro: "Livezile de Rodii din Saveh", en: "Saveh Pomegranate Orchards",
-image: "/poi-images/saveh-pomegranate-orchards-life-v2.webp"
-},
+    name: { de: "Granatapfelgärten von Saveh", hu: "Szávehi gránátalma-kertek", ro: "Livezile de Rodii din Saveh", en: "Saveh Pomegranate Orchards"},
+    image: "/poi-images/saveh-pomegranate-orchards-life-v2.webp",
     description: {
       de: "Die traditionellen Obstgärten von Saveh sind berühmt für die Zucht außergewöhnlich großer und süßer Granatäpfel.",
       hu: "Száveh hagyományos gyümölcsöskertjei híresek a kivételesen nagy és édes gránátalmák termesztéséről.",
@@ -519,9 +503,8 @@ image: "/poi-images/saveh-pomegranate-orchards-life-v2.webp"
     type: "park",
     parent: "IR-07",
     coords: [51.182, 35.736],
-    name: { de: "Nationaler Botanischer Garten Irans", hu: "Iráni Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională a Iranului", en: "National Botanical Garden of Iran",
-image: "/poi-images/national-botanical-garden-iran-life-v2.webp"
-},
+    name: { de: "Nationaler Botanischer Garten Irans", hu: "Iráni Nemzeti Botanikus Kert", ro: "Grădina Botanică Națională a Iranului", en: "National Botanical Garden of Iran"},
+    image: "/poi-images/national-botanical-garden-iran-life-v2.webp",
     description: {
       de: "Einer der größten botanischen Gärten im Nahen Osten, der eine beeindruckende Sammlung der iranischen und weltweiten Flora bewahrt.",
       hu: "A Közel-Kelet egyik legnagyobb botanikus kertje, amely az iráni és a globális flóra lenyűgöző gyűjteményét őrzi.",
@@ -551,9 +534,8 @@ image: "/poi-images/national-botanical-garden-iran-life-v2.webp"
     type: "park",
     parent: "IR-03",
     coords: [46.366, 38.024],
-    name: { de: "Elgoli-Park", hu: "El-Goli Park", ro: "Parcul Elgoli", en: "El Goli Park",
-image: "/poi-images/el-goli-park-life-v2.webp"
-},
+    name: { de: "Elgoli-Park", hu: "El-Goli Park", ro: "Parcul Elgoli", en: "El Goli Park"},
+    image: "/poi-images/el-goli-park-life-v2.webp",
     description: {
       de: "Ein historischer Parkkomplex in Täbris mit einem großen quadratischen See und einem eleganten Pavillon in der Mitte, der von Bäumen gesäumt ist.",
       hu: "Történelmi parkkomplexum Tebrizben egy nagy négyzet alakú tóval és a közepén egy elegáns pavilonnal, fákkal szegélyezve.",
@@ -583,9 +565,8 @@ image: "/poi-images/el-goli-park-life-v2.webp"
     type: "wildlife-area",
     parent: "IR-17",
     coords: [51.416, 30.933],
-    name: { de: "Dena-Schutzgebiet", hu: "Dena Védett Terület", ro: "Aria Protejată Dena", en: "Dena Protected Area",
-image: "/poi-images/dena-protected-area-life-v2.webp"
-},
+    name: { de: "Dena-Schutzgebiet", hu: "Dena Védett Terület", ro: "Aria Protejată Dena", en: "Dena Protected Area"},
+    image: "/poi-images/dena-protected-area-life-v2.webp",
     description: {
       de: "Dieses UNESCO-Biosphärenreservat im Zagros-Gebirge schützt eine unberührte Berglandschaft und ist Heimat zahlreicher bedrohter Tierarten.",
       hu: "Ez az UNESCO bioszféra-rezervátum a Zagrosz-hegységben egy érintetlen hegyvidéki tájat véd, és számos veszélyeztetett állatfajnak ad otthont.",
@@ -615,9 +596,8 @@ image: "/poi-images/dena-protected-area-life-v2.webp"
     type: "wildlife-area",
     parent: "IR-10",
     coords: [48.650, 30.650],
-    name: { de: "Schadegan-Wildschutzgebiet", hu: "Sádegán Vadonrezervátum", ro: "Refugiul Faunei Sălbatice Shadegan", en: "Shadegan Wildlife Refuge",
-image: "/poi-images/shadegan-wildlife-refuge-life-v2.webp"
-},
+    name: { de: "Schadegan-Wildschutzgebiet", hu: "Sádegán Vadonrezervátum", ro: "Refugiul Faunei Sălbatice Shadegan", en: "Shadegan Wildlife Refuge"},
+    image: "/poi-images/shadegan-wildlife-refuge-life-v2.webp",
     description: {
       de: "Ein weitreichendes Feuchtgebiet im Südwesten Irans, das als wichtiges Überwinterungsgebiet für Zugvögel aus Sibirien und Europa dient.",
       hu: "Kiterjedt vizes élőhely Délnyugat-Iránban, amely a Szibériából és Európából érkező vándormadarak fontos telelőhelyeként szolgál.",

@@ -775,7 +775,7 @@ export const InteractiveMap = ({
               {(() => {
                 // De-cluster orszagterkepen is: szetlokjuk az atfedo POI-kat (~30 screen px)
                 const minDistC = 30 / view.scale;
-                const positionsC: Array<[number, number]> = visiblePOIs.map(p => projectCoords(p.coords[0], p.coords[1]));
+                const positionsC: Array<[number, number]> = visiblePOIs.map(p => projectCoords(p.coords![0], p.coords![1]));
                 for (let i = 0; i < positionsC.length; i++) {
                   for (let j = 0; j < i; j++) {
                     let dx = positionsC[i][0] - positionsC[j][0];
@@ -1430,7 +1430,7 @@ function SubRegionView({
                     // De-cluster: screen-pixel-szinten kb 30 px (label is olvashato)
                     const minDist = 30 / pz.view.scale;
                     const positions: Array<[number, number]> = filtered.map(p =>
-                      projectInState(detail.projection, p.coords[0], p.coords[1])
+                      projectInState(detail.projection, p.coords![0], p.coords![1])
                     );
                     for (let i = 0; i < positions.length; i++) {
                       for (let j = 0; j < i; j++) {

@@ -12,9 +12,8 @@ export const poiExtraIndiaHistoryV2: POI[] = [
       de: "Hampi Ruinen",
       hu: "Hampi romjai",
       ro: "Ruinele Hampi",
-      en: "Hampi Ruins",
-image: "/poi-images/in-hampi-history-v2.webp"
-},
+      en: "Hampi Ruins"},
+    image: "/poi-images/in-hampi-history-v2.webp",
     description: {
       de: "Die Ruinen von Hampi, einst die Hauptstadt des Vijayanagara-Reiches, sind eine weitläufige Stätte von Tempeln, Palästen und Märkten.",
       hu: "Hampi romjai, egykor a Vidzsajánagar Birodalom fővárosa, egy kiterjedt területet foglalnak el templomokkal, palotákkal és piacokkal.",
@@ -49,9 +48,8 @@ image: "/poi-images/in-hampi-history-v2.webp"
       de: "Ajanta-Höhlen",
       hu: "Adzsantai-barlangok",
       ro: "Peșterile Ajanta",
-      en: "Ajanta Caves",
-image: "/poi-images/in-ajanta-caves-history-v2.webp"
-},
+      en: "Ajanta Caves"},
+    image: "/poi-images/in-ajanta-caves-history-v2.webp",
     description: {
       de: "Die Ajanta-Höhlen sind 30 in den Fels gehauene buddhistische Höhlenmonumente, die vom 2. Jahrhundert v. Chr. bis etwa 480 n. Chr. datieren.",
       hu: "Az Adzsantai-barlangok 30 sziklába vájt buddhista barlangműemlék, amelyek az i.e. 2. századtól i.sz. 480-ig datálódnak.",
@@ -86,9 +84,8 @@ image: "/poi-images/in-ajanta-caves-history-v2.webp"
       de: "Ellora-Höhlen",
       hu: "Ellórai-barlangok",
       ro: "Peșterile Ellora",
-      en: "Ellora Caves",
-image: "/poi-images/in-ellora-caves-history-v2.webp"
-},
+      en: "Ellora Caves"},
+    image: "/poi-images/in-ellora-caves-history-v2.webp",
     description: {
       de: "Ellora ist eine archäologische Stätte, bekannt für ihre monumentalen Höhlen, mit über 100 Höhlen, von denen 34 für die Öffentlichkeit zugänglich sind.",
       hu: "Ellóra egy régészeti lelőhely, amely monumentális barlangjairól ismert, több mint 100 barlanggal, amelyekből 34 látogatható.",
@@ -123,9 +120,8 @@ image: "/poi-images/in-ellora-caves-history-v2.webp"
       de: "Qutb Minar",
       hu: "Kutub Minár",
       ro: "Qutb Minar",
-      en: "Qutb Minar",
-image: "/poi-images/in-qutb-minar-history-v2.webp"
-},
+      en: "Qutb Minar"},
+    image: "/poi-images/in-qutb-minar-history-v2.webp",
     description: {
       de: "Qutb Minar ist ein Minarett und ein Siegesturm, der Teil des Qutb-Komplexes ist, einem UNESCO-Weltkulturerbe in Delhi.",
       hu: "A Kutub Minár egy minaret és győzelmi torony, amely a delhi Kutub-komplexum része, és az UNESCO Világörökség része.",
@@ -160,9 +156,8 @@ image: "/poi-images/in-qutb-minar-history-v2.webp"
       de: "Mahabodhi-Tempel",
       hu: "Mahábódhi-templom",
       ro: "Templul Mahabodhi",
-      en: "Mahabodhi Temple",
-image: "/poi-images/in-mahabodhi-temple-history-v2.webp"
-},
+      en: "Mahabodhi Temple"},
+    image: "/poi-images/in-mahabodhi-temple-history-v2.webp",
     description: {
       de: "Ein buddhistischer Tempel in Bodh Gaya, der den Ort markiert, an dem Buddha die Erleuchtung erlangt haben soll.",
       hu: "Egy buddhista templom Bódh Gájában, amely azt a helyet jelöli, ahol a hagyomány szerint Buddha megvilágosodott.",
@@ -197,9 +192,8 @@ image: "/poi-images/in-mahabodhi-temple-history-v2.webp"
       de: "Fatehpur Sikri",
       hu: "Fatehpur Szíkri",
       ro: "Fatehpur Sikri",
-      en: "Fatehpur Sikri",
-image: "/poi-images/in-fatehpur-sikri-history-v2.webp"
-},
+      en: "Fatehpur Sikri"},
+    image: "/poi-images/in-fatehpur-sikri-history-v2.webp",
     description: {
       de: "Eine befestigte Stadt, die vom Mogulkaiser Akbar gegründet wurde und für kurze Zeit die Hauptstadt seines Reiches war.",
       hu: "Egy erődített város, amelyet Akbar mogul császár alapított, és rövid ideig birodalmának fővárosa volt.",
@@ -234,9 +228,8 @@ image: "/poi-images/in-fatehpur-sikri-history-v2.webp"
       de: "Großer Stupa von Sanchi",
       hu: "Száncsi nagy sztúpája",
       ro: "Marea Stupa de la Sanchi",
-      en: "Great Stupa at Sanchi",
-image: "/poi-images/in-sanchi-stupa-history-v2.webp"
-},
+      en: "Great Stupa at Sanchi"},
+    image: "/poi-images/in-sanchi-stupa-history-v2.webp",
     description: {
       de: "Einer der ältesten Steinstrukturen in Indien und ein wichtiges Monument der indischen Architektur.",
       hu: "India egyik legrégebbi kőépítménye és az indiai építészet fontos emlékműve.",
@@ -271,9 +264,8 @@ image: "/poi-images/in-sanchi-stupa-history-v2.webp"
       de: "Konark Sonnentempel",
       hu: "Kónáraki naptemplom",
       ro: "Templul Soarelui din Konark",
-      en: "Konark Sun Temple",
-image: "/poi-images/in-konark-sun-temple-history-v2.webp"
-},
+      en: "Konark Sun Temple"},
+    image: "/poi-images/in-konark-sun-temple-history-v2.webp",
     description: {
       de: "Ein Tempel aus dem 13. Jahrhundert, der dem Sonnengott Surya gewidmet ist und in Form eines riesigen Wagens konzipiert wurde.",
       hu: "Egy 13. századi templom, amelyet Szúrjának, a napistennek szenteltek, és egy hatalmas szekér formájára tervezték.",
@@ -308,9 +300,8 @@ image: "/poi-images/in-konark-sun-temple-history-v2.webp"
       de: "Khajuraho-Tempel",
       hu: "Khadzsuráhói templomok",
       ro: "Templele Khajuraho",
-      en: "Khajuraho Temples",
-image: "/poi-images/in-khajuraho-temples-history-v2.webp"
-},
+      en: "Khajuraho Temples"},
+    image: "/poi-images/in-khajuraho-temples-history-v2.webp",
     description: {
       de: "Eine Gruppe von Hindu- und Jain-Tempeln, berühmt für ihre Nagara-Architektur und erotischen Skulpturen.",
       hu: "Hindu és dzsainista templomok csoportja, amelyek Nagara-stílusú építészetükről és erotikus szobraikról híresek.",
@@ -345,9 +336,8 @@ image: "/poi-images/in-khajuraho-temples-history-v2.webp"
       de: "Ruinen der Nalanda Universität",
       hu: "A Nálandai Egyetem romjai",
       ro: "Ruinele Universității Nalanda",
-      en: "Nalanda University Ruins",
-image: "/poi-images/in-nalanda-university-history-v2.webp"
-},
+      en: "Nalanda University Ruins"},
+    image: "/poi-images/in-nalanda-university-history-v2.webp",
     description: {
       de: "Die archäologischen Überreste eines Klosters und Gelehrtenzentrums aus dem 5. bis 12. Jahrhundert.",
       hu: "Egy 5-12. századi kolostor és tudományos központ régészeti maradványai.",
@@ -382,9 +372,8 @@ image: "/poi-images/in-nalanda-university-history-v2.webp"
       de: "Jallianwala Bagh",
       hu: "Dzsallianvála Bág",
       ro: "Jallianwala Bagh",
-      en: "Jallianwala Bagh",
-image: "/poi-images/in-jallianwala-bagh-history-v2.webp"
-},
+      en: "Jallianwala Bagh"},
+    image: "/poi-images/in-jallianwala-bagh-history-v2.webp",
     description: {
       de: "Ein öffentlicher Garten in Amritsar und ein nationales Denkmal von nationaler Bedeutung, Schauplatz des Massakers von Amritsar im Jahr 1919.",
       hu: "Egy amritsari nyilvános kert és nemzeti jelentőségű emlékmű, az 1919-es amritsari mészárlás helyszíne.",
@@ -419,9 +408,8 @@ image: "/poi-images/in-jallianwala-bagh-history-v2.webp"
       de: "Cellular Jail",
       hu: "Cellular börtön",
       ro: "Închisoarea Cellular",
-      en: "Cellular Jail",
-image: "/poi-images/in-cellular-jail-history-v2.webp"
-},
+      en: "Cellular Jail"},
+    image: "/poi-images/in-cellular-jail-history-v2.webp",
     description: {
       de: "Ein Kolonialgefängnis auf den Andamanen- und Nikobareninseln, das von den Briten zur Verbannung politischer Gefangener genutzt wurde.",
       hu: "Egy gyarmati börtön az Andamán- és Nikobár-szigeteken, amelyet a britek politikai foglyok száműzésére használtak.",
@@ -456,9 +444,8 @@ image: "/poi-images/in-cellular-jail-history-v2.webp"
       de: "Gateway of India",
       hu: "India kapuja",
       ro: "Poarta Indiei",
-      en: "Gateway of India",
-image: "/poi-images/in-gateway-of-india-history-v2.webp"
-},
+      en: "Gateway of India"},
+    image: "/poi-images/in-gateway-of-india-history-v2.webp",
     description: {
       de: "Ein Bogenmonument, das im frühen 20. Jahrhundert in Mumbai (ehemals Bombay) errichtet wurde, um an den Besuch von König Georg V. und Königin Mary zu erinnern.",
       hu: "Egy diadalív emlékmű, amelyet a 20. század elején építettek Mumbaiban (korábban Bombay), V. György király és Mária királynő látogatásának emlékére.",
@@ -493,9 +480,8 @@ image: "/poi-images/in-gateway-of-india-history-v2.webp"
       de: "Dholavira",
       hu: "Dholavira",
       ro: "Dholavira",
-      en: "Dholavira",
-image: "/poi-images/in-dholavira-history-v2.webp"
-},
+      en: "Dholavira"},
+    image: "/poi-images/in-dholavira-history-v2.webp",
     description: {
       de: "Eine archäologische Stätte, die die Ruinen einer antiken Stadt der Indus-Kultur enthält.",
       hu: "Egy régészeti lelőhely, amely az Indus-völgyi civilizáció egyik ősi városának romjait tartalmazza.",
@@ -530,9 +516,8 @@ image: "/poi-images/in-dholavira-history-v2.webp"
       de: "Schlachtfelder von Panipat",
       hu: "A pánipati csataterek",
       ro: "Câmpurile de luptă de la Panipat",
-      en: "Panipat Battlefields",
-image: "/poi-images/in-panipat-battlefield-history-v2.webp"
-},
+      en: "Panipat Battlefields"},
+    image: "/poi-images/in-panipat-battlefield-history-v2.webp",
     description: {
       de: "Der Schauplatz von drei entscheidenden Schlachten in der indischen Geschichte, die den Lauf des Mogulreiches und der Maratha-Macht geprägt haben.",
       hu: "Három sorsdöntő csata helyszíne az indiai történelemben, amelyek alakították a Mogul Birodalom és a Marátha hatalom sorsát.",
@@ -567,9 +552,8 @@ image: "/poi-images/in-panipat-battlefield-history-v2.webp"
       de: "Schlachtfeld von Haldighati",
       hu: "A haldighati csatatér",
       ro: "Câmpul de luptă de la Haldighati",
-      en: "Haldighati Battlefield",
-image: "/poi-images/in-haldighati-battlefield-history-v2.webp"
-},
+      en: "Haldighati Battlefield"},
+    image: "/poi-images/in-haldighati-battlefield-history-v2.webp",
     description: {
       de: "Der Schauplatz der Schlacht von Haldighati im Jahr 1576 zwischen dem Mogulreich und den Streitkräften von Mewar unter Maharana Pratap.",
       hu: "Az 1576-os haldighati csata helyszíne a Mogul Birodalom és a Maharana Pratap vezette mevári erők között.",
@@ -604,9 +588,8 @@ image: "/poi-images/in-haldighati-battlefield-history-v2.webp"
       de: "Charminar",
       hu: "Csárminár",
       ro: "Charminar",
-      en: "Charminar",
-image: "/poi-images/in-charminar-history-v2.webp"
-},
+      en: "Charminar"},
+    image: "/poi-images/in-charminar-history-v2.webp",
     description: {
       de: "Ein Monument und eine Moschee in Hyderabad, das 1591 erbaut wurde. Es ist zu einem globalen Symbol von Hyderabad geworden.",
       hu: "Egy emlékmű és mecset Haidarábádban, amelyet 1591-ben építettek. Haidarábád globális szimbólumává vált.",
@@ -641,9 +624,8 @@ image: "/poi-images/in-charminar-history-v2.webp"
       de: "Golconda Fort",
       hu: "Golkondai erőd",
       ro: "Fortul Golconda",
-      en: "Golconda Fort",
-image: "/poi-images/in-golconda-fort-history-v2.webp"
-},
+      en: "Golconda Fort"},
+    image: "/poi-images/in-golconda-fort-history-v2.webp",
     description: {
       de: "Eine befestigte Zitadelle und frühe Hauptstadt der Qutb-Shahi-Dynastie, bekannt für ihre Minen, die einige der berühmtesten Diamanten der Welt hervorbrachten.",
       hu: "Egy erődített citadella és a Kutb Sáhi-dinasztia korai fővárosa, amely bányáiról ismert, ahonnan a világ leghíresebb gyémántjai közül néhány származott.",
@@ -678,9 +660,8 @@ image: "/poi-images/in-golconda-fort-history-v2.webp"
       de: "Victoria Memorial",
       hu: "Viktória-emlékmű",
       ro: "Memorialul Victoria",
-      en: "Victoria Memorial",
-image: "/poi-images/in-victoria-memorial-history-v2.webp"
-},
+      en: "Victoria Memorial"},
+    image: "/poi-images/in-victoria-memorial-history-v2.webp",
     description: {
       de: "Ein großes Marmorgebäude in Kolkata, das dem Andenken an Königin Victoria gewidmet ist und heute ein Museum und eine Touristenattraktion ist.",
       hu: "Egy nagy márványépület Kolkatában, amelyet Viktória királynő emlékének szenteltek, és ma múzeumként és turisztikai látványosságként működik.",
@@ -715,9 +696,8 @@ image: "/poi-images/in-victoria-memorial-history-v2.webp"
       de: "Lothal",
       hu: "Lothal",
       ro: "Lothal",
-      en: "Lothal",
-image: "/poi-images/in-lothal-history-v2.webp"
-},
+      en: "Lothal"},
+    image: "/poi-images/in-lothal-history-v2.webp",
     description: {
       de: "Eine der bekanntesten Städte der antiken Indus-Kultur, deren Ruinen das früheste bekannte Dock der Welt beherbergen.",
       hu: "Az ókori Indus-völgyi civilizáció egyik legjelentősebb városa, amelynek romjai között található a világ legkorábbi ismert dokkja.",

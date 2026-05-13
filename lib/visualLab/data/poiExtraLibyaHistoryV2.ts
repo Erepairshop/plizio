@@ -11,9 +11,8 @@ export const poiExtraLibyaHistoryV2: POI[] = [
       de: "Leptis Magna",
       hu: "Leptis Magna",
       ro: "Leptis Magna",
-      en: "Leptis Magna",
-image: "/poi-images/ly-leptis-magna-history-v2.webp"
-},
+      en: "Leptis Magna"},
+    image: "/poi-images/ly-leptis-magna-history-v2.webp",
     descriptionAdvanced: {
       en: "Leptis Magna stands as one of the most spectacular and best-preserved Roman cities in the world, dramatically overlooking the Mediterranean Sea. Originally a Phoenician settlement, it was vastly expanded by the Roman Emperor Septimius Severus, who was born there. The site features an incredibly intact amphitheater, massive public baths, and the towering Severan Arch. Walking through its ancient, colonnaded streets offers an unparalleled glimpse into the immense wealth and scale of the Roman Empire in North Africa. History K6 — Roman imperial architecture.",
       de: "Leptis Magna ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine der besterhaltenen antiken r\\u00f6mischen St\\u00e4dte, bekannt f\\u00fcr ihre monumentalen Bogen und das gro\\u00dfe Amphitheater. Gegr\\u00fcndet von den Ph\\u00f6niziern. Ausbau unter Kaiser Septimius Severus. UNESCO-Weltkulturerbe. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -50,9 +49,8 @@ image: "/poi-images/ly-leptis-magna-history-v2.webp"
       de: "Sabratha",
       hu: "Sabratha",
       ro: "Sabratha",
-      en: "Sabratha",
-image: "/poi-images/ly-sabratha-history-v2.webp"
-},
+      en: "Sabratha"},
+    image: "/poi-images/ly-sabratha-history-v2.webp",
     descriptionAdvanced: {
       en: "Sabratha was the westernmost of the ancient 'Three Cities' of Tripolitania, acting as a crucial trading post for goods brought across the Sahara. The crown jewel of the ruins is its breathtaking, three-story Roman theater, which was meticulously reconstructed by archaeologists in the 20th century. Beyond the theater, the site contains beautiful mosaic floors, ancient temples, and public baths right on the shoreline. Its history reflects a blend of Phoenician origins and later Roman monumental expansion. History K6 — ancient theater and coastal trade.",
       de: "Sabratha ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine antike Stadt an der Mittelmeerk\\u00fcste mit einem beeindruckenden r\\u00f6mischen Theater und wundersch\\u00f6nen Mosaiken. Teil der antiken Tripolis. Das Theater fasste 5000 Zuschauer. Handelsposten f\\u00fcr afrikanische Waren. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -89,9 +87,8 @@ image: "/poi-images/ly-sabratha-history-v2.webp"
       de: "Kyrene",
       hu: "K\\u00fcr\\u00e9n\\u00e9",
       ro: "Cyrene",
-      en: "Cyrene",
-image: "/poi-images/ly-cyrene-history-v2.webp"
-},
+      en: "Cyrene"},
+    image: "/poi-images/ly-cyrene-history-v2.webp",
     descriptionAdvanced: {
       en: "Cyrene was one of the principal cities of the Hellenic world, founded by Greek colonists from Thera in 631 BC. Located in the lush Jabal al Akhdar mountains, it features sweeping views, ancient temples dedicated to Apollo and Zeus, and a massive necropolis. The city was famous across the ancient world for its export of 'silphium', a medicinal plant that was harvested to extinction. The site perfectly blends Greek architectural elegance with later Roman additions. History K6 — ancient Greek colonization.",
       de: "Kyrene ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine bedeutende antike griechische und sp\\u00e4ter r\\u00f6mische Stadt, die der Region Kyrenaika ihren Namen gab. Gegr\\u00fcndet 630 v. Chr. Heiligtum des Apollon. Zentrum klassischer Philosophie. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -128,9 +125,8 @@ image: "/poi-images/ly-cyrene-history-v2.webp"
       de: "Apollonia",
       hu: "Apoll\\u00f3nia",
       ro: "Apollonia",
-      en: "Apollonia",
-image: "/poi-images/ly-apollonia-history-v2.webp"
-},
+      en: "Apollonia"},
+    image: "/poi-images/ly-apollonia-history-v2.webp",
     descriptionAdvanced: {
       en: "Apollonia served as the bustling maritime port for the inland city of Cyrene, evolving into a major urban center in its own right. Today, significant portions of the ancient harbor and waterfront structures lie submerged beneath the clear Mediterranean waters, offering unique underwater archaeology opportunities. On land, the ruins feature well-preserved Byzantine churches and a picturesque Greek theater set against the sea. It highlights the critical importance of naval trade to the ancient Cyrenaican economy. History K7 — underwater archaeology and ancient ports.",
       de: "Apollonia ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der antike Hafen von Kyrene, der wichtige byzantinische Kirchenruinen und einen versunkenen Hafen umfasst. Diente als Hafen von Kyrene. Besitzt drei byzantinische Basiliken. Teile der Stadt liegen unter Wasser. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -167,9 +163,8 @@ image: "/poi-images/ly-apollonia-history-v2.webp"
       de: "Ptolemais",
       hu: "Ptolemaisz",
       ro: "Ptolemais",
-      en: "Ptolemais",
-image: "/poi-images/ly-ptolemais-history-v2.webp"
-},
+      en: "Ptolemais"},
+    image: "/poi-images/ly-ptolemais-history-v2.webp",
     descriptionAdvanced: {
       en: "Ptolemais was a major city of the Cyrenaican Pentapolis, serving as the provincial capital during the late Roman and Byzantine periods. The site is massive and largely unexcavated, featuring a unique 'Palace of the Columns' and incredibly intricate, sprawling underground water cisterns. The city grid is clearly visible, showcasing brilliant ancient urban planning designed to capture and store every drop of mountain rainfall. It offers a quieter, less commercialized archaeological experience compared to Cyrene. History K8 — ancient urban water management.",
       de: "Ptolemais ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine antike Stadt, die von den \\u00e4gyptischen Ptolem\\u00e4ern gegr\\u00fcndet wurde und reich an gro\\u00dfen hellenistischen Pal\\u00e4sten ist. Gegr\\u00fcndet im 3. Jahrhundert v. Chr. Besitzt den Palast der S\\u00e4ulen. War eine Zeit lang Hauptstadt der Kyrenaika. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -206,9 +201,8 @@ image: "/poi-images/ly-ptolemais-history-v2.webp"
       de: "Taucheira",
       hu: "Taucheira",
       ro: "Taucheira",
-      en: "Taucheira (Tocra)",
-image: "/poi-images/ly-tocra-history-v2.webp"
-},
+      en: "Taucheira (Tocra)"},
+    image: "/poi-images/ly-tocra-history-v2.webp",
     descriptionAdvanced: {
       en: "Taucheira, known today as Tocra, was a fortified coastal city of the ancient Pentapolis, heavily utilized during the Byzantine era. The site is notable for its massive, imposing defensive walls that were constructed to repel nomadic incursions from the desert. Inside the walls, archaeologists have uncovered early Christian basilica ruins and a wealth of ancient Greek pottery. The site demonstrates the militarization of coastal cities during the decline of the Roman Empire. History K7 — Byzantine fortifications.",
       de: "Taucheira ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine der f\\u00fcnf antiken St\\u00e4dte der Kyrenaika, die von starken byzantinischen Mauern umgeben war. Auch bekannt als Kleopatra. Starke Befestigungsanlagen. Viel Keramik gefunden. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -245,9 +239,8 @@ image: "/poi-images/ly-tocra-history-v2.webp"
       de: "Altstadt von Ghadames",
       hu: "Ghadam\\u00e9sz \\u00f3v\\u00e1rosa",
       ro: "Ora\\u0219ul vechi Ghadames",
-      en: "Ghadames Old Town",
-image: "/poi-images/ly-ghadames-old-town-history-v2.webp"
-},
+      en: "Ghadames Old Town"},
+    image: "/poi-images/ly-ghadames-old-town-history-v2.webp",
     descriptionAdvanced: {
       en: "The Old Town of Ghadames is a masterclass in desert architectural engineering, built entirely of mud-brick, lime, and palm wood to combat extreme Saharan temperatures. The labyrinthine, covered streets provide perpetual shade for the ground-level walkways, while a separate, interconnected network of rooftop terraces was traditionally used by women. The interiors of the homes are often beautifully decorated with bright white lime and red geometric patterns. It stands as a profound monument to human adaptation in harsh environments. History K7 — extreme environment architecture.",
       de: "Altstadt von Ghadames ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die als Perle der W\\u00fcste bekannte Stadt zeichnet sich durch ihre traditionelle Lehmziegelarchitektur und \\u00fcberdachten Gassen aus. Oase in der Sahara. Einzigartiges Wasserverteilungssystem. UNESCO-Weltkulturerbe. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -284,9 +277,8 @@ image: "/poi-images/ly-ghadames-old-town-history-v2.webp"
       de: "Markus-Aurelius-Bogen",
       hu: "Marcus Aurelius diadal\\u00edve",
       ro: "Arcul lui Marcus Aurelius",
-      en: "Arch of Marcus Aurelius",
-image: "/poi-images/ly-marcus-aurelius-arch-history-v2.webp"
-},
+      en: "Arch of Marcus Aurelius"},
+    image: "/poi-images/ly-marcus-aurelius-arch-history-v2.webp",
     descriptionAdvanced: {
       en: "The Arch of Marcus Aurelius is the most significant surviving Roman monument within the modern city of Tripoli. Erected in 165 AD, this quadrifrons (four-sided) triumphal arch marks the intersection of the ancient city's two main streets, the cardo and the decumanus. It is built entirely of solid marble and features intricate carvings of Apollo and Minerva. Surviving centuries of urban build-up, it now stands proudly near the entrance to the Old Medina. History K6 — Roman urban monuments.",
       de: "Markus-Aurelius-Bogen ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein r\\u00f6mischer Triumphbogen in Tripolis, das einzige erhaltene r\\u00f6mische Monument in der Stadt. Erbaut im Jahr 165 n. Chr. Aus Marmor gefertigt. Markierte die Kreuzung zweier r\\u00f6mischer Stra\\u00dfen. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -323,9 +315,8 @@ image: "/poi-images/ly-marcus-aurelius-arch-history-v2.webp"
       de: "Rote Burg (Assaraya al-Hamra)",
       hu: "V\\u00f6r\\u00f6s Er\\u0151d (Assaraya al-Hamra)",
       ro: "Castelul Ro\\u0219u (Assaraya al-Hamra)",
-      en: "Red Castle (Assaraya al-Hamra)",
-image: "/poi-images/ly-red-castle-history-v2.webp"
-},
+      en: "Red Castle (Assaraya al-Hamra)"},
+    image: "/poi-images/ly-red-castle-history-v2.webp",
     descriptionAdvanced: {
       en: "The Red Castle, or Assaraya al-Hamra, is a massive fortress dominating the waterfront of Tripoli, serving as the seat of power for centuries of rulers. Its labyrinthine complex of courtyards, armories, and palaces reflects additions by the Spanish, the Knights of St. John, the Ottomans, and the Karamanli dynasty. Today, it houses Libya's premier national museum, showcasing artifacts from the prehistoric era through to the modern day. The imposing red walls are a defining symbol of the capital. History K7 — Ottoman fortifications and museums.",
       de: "Rote Burg (Assaraya al-Hamra) ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine massive Festung in Tripolis mit einer reichen Geschichte aus osmanischer und spanischer Zeit. Sitz der Karamanli-Dynastie. Beherbergt heute ein Museum. Direkt am M\\u00e4rtyrerplatz gelegen. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -362,9 +353,8 @@ image: "/poi-images/ly-red-castle-history-v2.webp"
       de: "Tadrart Akakus",
       hu: "Tadrart Akakusz",
       ro: "Tadrart Acacus",
-      en: "Tadrart Acacus",
-image: "/poi-images/ly-tadrart-acacus-history-v2.webp"
-},
+      en: "Tadrart Acacus"},
+    image: "/poi-images/ly-tadrart-acacus-history-v2.webp",
     descriptionAdvanced: {
       en: "The Tadrart Acacus is a remote mountain range in the deep southwest of Libya, famous for housing thousands of prehistoric cave paintings and carvings. These incredibly preserved artworks depict a vastly different Sahara—one filled with lakes, giraffes, elephants, and early human hunter-gatherers. The art spans thousands of years, documenting the drastic climate shift that turned a fertile savanna into a hyper-arid desert. The jagged, wind-carved sandstone formations of the Acacus are themselves visually breathtaking. History K8 — prehistoric climate change and rock art.",
       de: "Tadrart Akakus ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein W\\u00fcstengebiet mit pr\\u00e4historischen Felsmalereien, die die Ver\\u00e4nderungen von Umwelt und Lebensweise zeigen. Kunst von 12.000 v. Chr. bis 100 n. Chr. Zeigt Giraffen und Elefanten. Ein UNESCO-Weltkulturerbe. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -401,9 +391,8 @@ image: "/poi-images/ly-tadrart-acacus-history-v2.webp"
       de: "Germa (Garama)",
       hu: "Germa (Garama)",
       ro: "Germa (Garama)",
-      en: "Germa (Garama)",
-image: "/poi-images/ly-germa-history-v2.webp"
-},
+      en: "Germa (Garama)"},
+    image: "/poi-images/ly-germa-history-v2.webp",
     descriptionAdvanced: {
       en: "Germa, known historically as Garama, was the ancient capital of the Garamantes, a powerful Saharan civilization that thrived long before the Romans arrived. The Garamantes were master engineers, building thousands of miles of underground irrigation channels (foggaras) to tap into ancient fossil water, allowing them to farm the desert. The ruins today include a massive mud-brick fortress and extensive necropolises. This site proves that advanced, indigenous urban civilizations existed in the deep Sahara. History K8 — ancient Saharan civilizations and hydrology.",
       de: "Germa (Garama) ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Die antike Hauptstadt der Garamanten, einem Volk, das die Handelsrouten der Sahara in der Antike kontrollierte. Zentrum eines W\\u00fcstenreiches. Nutze unterirdische Wasserkan\\u00e4le (Foggaras). Bl\\u00fchte im 2. Jahrhundert n. Chr. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -440,9 +429,8 @@ image: "/poi-images/ly-germa-history-v2.webp"
       de: "Heiligtum von Slonta",
       hu: "Slonta szent\\u00e9lye",
       ro: "Sanctuarul de la Slonta",
-      en: "Sanctuary of Slonta",
-image: "/poi-images/ly-slonta-history-v2.webp"
-},
+      en: "Sanctuary of Slonta"},
+    image: "/poi-images/ly-slonta-history-v2.webp",
     descriptionAdvanced: {
       en: "The Sanctuary of Slonta is one of Libya's most enigmatic and least understood archaeological sites, hidden away in the Jabal al Akhdar. Unlike the classical Greek or Roman ruins nearby, Slonta features bizarre, almost grotesque stone carvings of human faces and animals that seem entirely indigenous or pre-Hellenic. Scholars debate its origins, with some suggesting it was a local Libyan cult site or a shrine dedicated to underworld deities. The eerie, macabre carvings make it a highly unique historical destination. History K8 — indigenous pre-classical cults.",
       de: "Heiligtum von Slonta ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein mysteri\\u00f6ser, vorislamischer Tempel mit einzigartigen, grotesken in den Fels gehauenen Skulpturen. Verwendet libysche indigene Kunst. In eine kleine H\\u00f6hle gehauen. Zeigt menschliche und tierische Gesichter. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -479,9 +467,8 @@ image: "/poi-images/ly-slonta-history-v2.webp"
       de: "Villa Silin",
       hu: "Villa Silin",
       ro: "Villa Silin",
-      en: "Villa Silin",
-image: "/poi-images/ly-villa-silin-history-v2.webp"
-},
+      en: "Villa Silin"},
+    image: "/poi-images/ly-villa-silin-history-v2.webp",
     descriptionAdvanced: {
       en: "Villa Silin is a remarkably luxurious Roman maritime villa located on the coast near Leptis Magna, showcasing the immense wealth of the North African elite. The villa is famous for its stunning, near-perfect mosaic floors depicting gladiatorial combat, chariot races, and marine life. It features a sophisticated private bath complex and terraced gardens leading directly down to the Mediterranean Sea. The site was preserved under shifting sand dunes, keeping the vivid colors of the mosaics intact for centuries. History K7 — Roman elite domestic architecture.",
       de: "Villa Silin ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine luxuri\\u00f6se r\\u00f6mische K\\u00fcstenvilla in der N\\u00e4he von Leptis Magna mit gut erhaltenen Mosaiken und Fresken. Stammt aus dem 2. Jahrhundert n. Chr. Besitzt eine eigene Thermenanlage. Mosaike zeigen Gladiatorenk\\u00e4mpfe. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -518,9 +505,8 @@ image: "/poi-images/ly-villa-silin-history-v2.webp"
       de: "Qasr Libya",
       hu: "Qasr Libya",
       ro: "Qasr Libya",
-      en: "Qasr Libya",
-image: "/poi-images/ly-qasr-libya-history-v2.webp"
-},
+      en: "Qasr Libya"},
+    image: "/poi-images/ly-qasr-libya-history-v2.webp",
     descriptionAdvanced: {
       en: "Qasr Libya, known in antiquity as Theodorias, is a small town in Cyrenaica renowned for housing one of the finest collections of Byzantine mosaics in the world. Originally flooring an ancient Christian basilica, the 50 mosaic panels depict vibrant, highly stylized animals, mythological creatures, and representations of famous cities like Alexandria. The mosaics were discovered accidentally in the 1950s and are now housed in a dedicated local museum. They represent the artistic pinnacle of the Byzantine era in North Africa. History K7 — Byzantine art and early Christianity.",
       de: "Qasr Libya ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ort byzantinischer Ruinen, der f\\u00fcr eine byzantinische Kirche mit fantastischen Bodenmosaiken bekannt ist. Hie\\u00df fr\\u00fcher Theodorias. 50 Mosaikpaneele gefunden. Zeigt das Leuchtturm von Pharos. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -557,9 +543,8 @@ image: "/poi-images/ly-qasr-libya-history-v2.webp"
       de: "Medina von Tripolis",
       hu: "Tripoli medin\\u00e1ja",
       ro: "Medina din Tripoli",
-      en: "Medina of Tripoli",
-image: "/poi-images/ly-tripoli-medina-history-v2.webp"
-},
+      en: "Medina of Tripoli"},
+    image: "/poi-images/ly-tripoli-medina-history-v2.webp",
     descriptionAdvanced: {
       en: "The Medina of Tripoli is the ancient, walled heart of the Libyan capital, a dense labyrinth of narrow alleys, historic mosques, and traditional souks (markets). Unlike many historic centers, the Medina remains a living, breathing neighborhood where artisans craft copper, leather, and gold using centuries-old techniques. It features stunning Ottoman-era architecture, including the Gurgi and Karamanli mosques with their intricate tile work. The Medina represents the uninterrupted cultural soul of Tripolitania. Sociology K7 — traditional urban markets and Islamic architecture.",
       de: "Medina von Tripolis ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Das ummauerte historische Herz von Tripolis mit traditionellen Souks, alten Moscheen und engen Gassen. Gegr\\u00fcndet in der Antike. Beeinflusst von osmanischer Architektur. Zentrum des traditionellen Handwerks. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -596,9 +581,8 @@ image: "/poi-images/ly-tripoli-medina-history-v2.webp"
       de: "Troglodytenh\\u00e4user von Gharyan",
       hu: "Gharyan barlanglak\\u00e1sai",
       ro: "Casele troglodite din Gharyan",
-      en: "Gharyan Troglodyte Caves",
-image: "/poi-images/ly-gharyan-troglodyte-history-v2.webp"
-},
+      en: "Gharyan Troglodyte Caves"},
+    image: "/poi-images/ly-gharyan-troglodyte-history-v2.webp",
     descriptionAdvanced: {
       en: "The troglodyte caves of Gharyan are a marvel of traditional, functional architecture, dug vertically into the earth of the Nafusa Mountains. A large central crater is excavated first, serving as an open-air courtyard, with individual living rooms, kitchens, and animal pens tunneled horizontally into the walls. This ingenious design provides perfect natural insulation, remaining cool in the blistering summer and warm during the freezing mountain winters. Several of these historic homes are still maintained and visited today. Sociology K7 — functional subterranean architecture.",
       de: "Troglodytenh\\u00e4user von Gharyan ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Unterirdische H\\u00e4user in den Bergen, die seit Jahrhunderten zum Schutz vor extremer W\\u00fcstenhitze genutzt werden. Tief in den Fels gehauen. Bietet nat\\u00fcrliche Isolierung. Einige sind heute noch bewohnt. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -635,9 +619,8 @@ image: "/poi-images/ly-gharyan-troglodyte-history-v2.webp"
       de: "Zawiya von Al-Jaghbub",
       hu: "Al-Dzsagb\\u00fab Z\\u00e1wija",
       ro: "Zawiya din Al Jaghbub",
-      en: "Zawiya of Al Jaghbub",
-image: "/poi-images/ly-zawiya-jaghbub-history-v2.webp"
-},
+      en: "Zawiya of Al Jaghbub"},
+    image: "/poi-images/ly-zawiya-jaghbub-history-v2.webp",
     descriptionAdvanced: {
       en: "The Zawiya of Al Jaghbub stands as a monumental religious and educational center deep within the eastern desert. Founded in 1856, it was the principal headquarters of the Senussi movement, a powerful Islamic revivalist order. The complex included a grand mosque, a massive library holding thousands of manuscripts, and a university that drew scholars from across the Sahara. Though significantly damaged by colonial forces and shifting politics, it remains a profound symbol of Libyan spiritual heritage. History K8 — religious orders and desert scholarship.",
       de: "Zawiya von Al-Jaghbub ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ehemaliges Zentrum des Sanussiya-Ordens in der W\\u00fcste, ein wichtiger historischer und religi\\u00f6ser Ort. Gegr\\u00fcndet im 19. Jahrhundert. Zentrum der islamischen Lehre. Die Bibliothek wurde stark besch\\u00e4digt. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -674,9 +657,8 @@ image: "/poi-images/ly-zawiya-jaghbub-history-v2.webp"
       de: "Fort Capuzzo",
       hu: "Capuzzo er\\u0151d",
       ro: "Fort Capuzzo",
-      en: "Fort Capuzzo",
-image: "/poi-images/ly-fort-capuzzo-history-v2.webp"
-},
+      en: "Fort Capuzzo"},
+    image: "/poi-images/ly-fort-capuzzo-history-v2.webp",
     descriptionAdvanced: {
       en: "Fort Capuzzo was a vital frontier fortification built by Italian colonial forces on the border between Libya and British-controlled Egypt. During the early stages of World War II, it became a focal point of intense, back-and-forth mechanized warfare. The fort was captured and recaptured multiple times by Axis and Allied forces due to its strategic position controlling the coastal highway. Today, very little of the original structure remains, but the site retains massive historical significance for military historians. History K8 — World War II border conflicts.",
       de: "Fort Capuzzo ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine italienische Festung aus dem Zweiten Weltkrieg an der Grenze zu \\u00c4gypten, Schauplatz zahlreicher Gefechte. Erbaut w\\u00e4hrend der italienischen Herrschaft. Mehrmals den Besitzer gewechselt. Schl\\u00fcsselfigur in den W\\u00fcstenkriegen. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -713,9 +695,8 @@ image: "/poi-images/ly-fort-capuzzo-history-v2.webp"
       de: "Kriegsfriedhof von Tobruk",
       hu: "Tobruki h\\u00e1bor\\u00fas temet\\u0151",
       ro: "Cimitirul de R\\u0103zboi din Tobruk",
-      en: "Tobruk War Cemetery",
-image: "/poi-images/ly-tobruk-war-cemetery-history-v2.webp"
-},
+      en: "Tobruk War Cemetery"},
+    image: "/poi-images/ly-tobruk-war-cemetery-history-v2.webp",
     descriptionAdvanced: {
       en: "The Tobruk War Cemetery is a somber, impeccably maintained memorial dedicated to the Allied soldiers who fell during the brutal North African campaigns of World War II. It holds the graves of over 2,000 Commonwealth servicemen, many of whom perished during the infamous Siege of Tobruk. The neat rows of white headstones stand in stark contrast to the surrounding arid desert. A separate, massive, castle-like structure nearby houses the remains of over 6,000 fallen German soldiers. History K8 — military memorials and the Siege of Tobruk.",
       de: "Kriegsfriedhof von Tobruk ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine Gedenkst\\u00e4tte f\\u00fcr die Soldaten der Alliierten, die w\\u00e4hrend der Belagerung von Tobruk im Zweiten Weltkrieg fielen. \\u00dcber 2000 Gr\\u00e4ber. Erinnert an die W\\u00fcstenratten. Gepflegt von der Commonwealth War Graves Commission. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -752,9 +733,8 @@ image: "/poi-images/ly-tobruk-war-cemetery-history-v2.webp"
       de: "Schloss der Malteserritter",
       hu: "A M\\u00e1ltai Lovagok kast\\u00e9lya",
       ro: "Castelul Cavalerilor de Malta",
-      en: "Knights of Malta Castle",
-image: "/poi-images/ly-malta-castle-history-v2.webp"
-},
+      en: "Knights of Malta Castle"},
+    image: "/poi-images/ly-malta-castle-history-v2.webp",
     descriptionAdvanced: {
       en: "The Knights of Malta Castle, located in Tripoli, is a fascinating remnant of the brief period when the Order of St. John controlled the city in the 16th century. Bestowed upon them by the Holy Roman Emperor Charles V in 1530, the knights fortified the existing coastal defenses to protect against Ottoman expansion. Their rule was short-lived, ending when the Ottomans captured the city in 1551. Elements of their distinct military architecture can still be seen integrated into the broader Red Castle complex. History K7 — the Knights Hospitaller in North Africa.",
       de: "Schloss der Malteserritter ist ein bemerkenswertes Element der libyschen Geografie und Kultur. \\u00dcberreste der kurzlebigen Festungsanlagen der Johanniter in Tripolis vor der osmanischen Eroberung. Genutzt im fr\\u00fchen 16. Jahrhundert. 1551 an die Osmanen verloren. Teil der Rote Burg-Komplexe. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -791,9 +771,8 @@ image: "/poi-images/ly-malta-castle-history-v2.webp"
       de: "Altes Fort von Murzuq",
       hu: "Murzuq r\\u00e9gi er\\u0151dje",
       ro: "Vechiul Fort din Murzuq",
-      en: "Murzuq Old Fort",
-image: "/poi-images/ly-murzuq-fort-history-v2.webp"
-},
+      en: "Murzuq Old Fort"},
+    image: "/poi-images/ly-murzuq-fort-history-v2.webp",
     descriptionAdvanced: {
       en: "The Murzuq Old Fort is a massive, towering structure built from mud-brick that dominates the historic center of the Fezzan region's capital. Originally established by local rulers to protect vital trans-Saharan trade routes, it was later vastly expanded by Ottoman forces to assert dominance over the deep desert. The fort's thick walls provided critical defense and thermal insulation against the brutal Saharan heat. It stands as a testament to the strategic importance of Murzuq in the ancient gold and slave trades. History K7 — Saharan trade and Ottoman expansion.",
       de: "Altes Fort von Murzuq ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine Ruine eines massiven osmanischen Forts im Fessan, einst eine wichtige Bastion f\\u00fcr Transsahara-Karawanen. Aus Lehm und Stein gebaut. Dominierte den Sklavenhandel. Kontrollierte den S\\u00fcden Libyens. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -830,9 +809,8 @@ image: "/poi-images/ly-murzuq-fort-history-v2.webp"
       de: "Alte Moschee von Awjila",
       hu: "Awjila r\\u00e9gi mecsetje",
       ro: "Marea Moschee din Awjila",
-      en: "Awjila Old Mosque",
-image: "/poi-images/ly-awjila-mosque-history-v2.webp"
-},
+      en: "Awjila Old Mosque"},
+    image: "/poi-images/ly-awjila-mosque-history-v2.webp",
     descriptionAdvanced: {
       en: "The Great Atik Mosque of Awjila is one of the most uniquely designed Islamic structures in North Africa, located deep in the eastern desert. Built in the 12th century, it is famous for its roof, which consists of 21 distinct, conical mud-brick domes. These domes are specifically engineered to provide structural stability and to allow hot air to escape, naturally cooling the interior. The mosque is a brilliant example of vernacular architecture adapting perfectly to a hyper-arid, isolated environment. Sociology K8 — indigenous desert architecture.",
       de: "Alte Moschee von Awjila ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine der \\u00e4ltesten Moscheen in der Sahara, ber\\u00fchmt f\\u00fcr ihre ungew\\u00f6hnlichen kegelf\\u00f6rmigen Kuppeln. Ursprung im 12. Jahrhundert. Hat 21 konische Kuppeln. Besteht aus Lehmziegeln. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -869,9 +847,8 @@ image: "/poi-images/ly-awjila-mosque-history-v2.webp"
       de: "Gurgi-Moschee",
       hu: "Gurgi mecset",
       ro: "Moscheea Gurgi",
-      en: "Gurgi Mosque",
-image: "/poi-images/ly-gurgi-mosque-history-v2.webp"
-},
+      en: "Gurgi Mosque"},
+    image: "/poi-images/ly-gurgi-mosque-history-v2.webp",
     descriptionAdvanced: {
       en: "The Gurgi Mosque, built in 1834, is often considered the most elegant and beautifully decorated mosque in Tripoli's Old Medina. Commissioned by a wealthy naval captain of Georgian descent, the mosque reflects a stunning blend of European and Ottoman artistic influences. Its interior features exquisite Italian marble columns, Moroccan tile work, and intricate stucco carvings. Positioned near the Arch of Marcus Aurelius, it represents the cosmopolitan wealth of 19th-century Tripolitania. History K7 — Ottoman-era art and architecture.",
       de: "Gurgi-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine wundersch\\u00f6n verzierte Moschee im Herzen von Tripolis, ber\\u00fchmt f\\u00fcr ihre Kacheln und Marmorarbeiten. Erbaut im Jahr 1834. Gegr\\u00fcndet von Mustafa Gurgi. Im maurischen Stil dekoriert. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -908,9 +885,8 @@ image: "/poi-images/ly-gurgi-mosque-history-v2.webp"
       de: "Karamanli-Moschee",
       hu: "Karamanli mecset",
       ro: "Moscheea Karamanli",
-      en: "Karamanli Mosque",
-image: "/poi-images/ly-karamanli-mosque-history-v2.webp"
-},
+      en: "Karamanli Mosque"},
+    image: "/poi-images/ly-karamanli-mosque-history-v2.webp",
     descriptionAdvanced: {
       en: "The Karamanli Mosque is a grand, historically significant structure built in 1736 by Ahmed Karamanli, the founder of the semi-independent Karamanli dynasty. Located prominently in Tripoli, it features a massive, multi-domed roof and a highly distinctive octagonal minaret. The mosque's courtyard is serene, surrounded by intricately tiled arcades that offer a quiet refuge from the bustling city. It serves not only as a place of worship but also as the grand mausoleum for the Karamanli ruling family. History K7 — the Karamanli dynasty in Libya.",
       de: "Karamanli-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine osmanische Moschee in Tripolis mit feinen Stuckdekorationen, erbaut von Ahmed Karamanli. Erbaut 1738. Hat einen achteckigen Minarettturm. Enth\\u00e4lt die Gr\\u00e4ber der Karamanli-Familie. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -947,9 +923,8 @@ image: "/poi-images/ly-karamanli-mosque-history-v2.webp"
       de: "Al-Naga-Moschee",
       hu: "Al-Naga mecset",
       ro: "Moscheea Al-Naga",
-      en: "Al-Naga Mosque",
-image: "/poi-images/ly-al-naga-mosque-history-v2.webp"
-},
+      en: "Al-Naga Mosque"},
+    image: "/poi-images/ly-al-naga-mosque-history-v2.webp",
     descriptionAdvanced: {
       en: "Al-Naga Mosque is one of the oldest Islamic sites in Tripoli, with local legends suggesting its origins date back to the earliest Arab conquests of North Africa in the 7th century. The current structure, extensively rebuilt in the 17th century, is famous for its deeply traditional, unpretentious architecture and its interior forest of recycled Roman columns. The name 'Al-Naga' (The She-Camel) supposedly refers to a legendary camel that carried funds used to build the original structure. Sociology K6 — early Islamic history and local legends.",
       de: "Al-Naga-Moschee ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine der \\u00e4ltesten Moscheen in Nordafrika, die 1610 nach einem Brand wieder aufgebaut wurde. Gegr\\u00fcndet im 10. Jahrhundert. Bekannt als die Moschee des Kamels. Verwendet alte r\\u00f6mische S\\u00e4ulen. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -986,9 +961,8 @@ image: "/poi-images/ly-al-naga-mosque-history-v2.webp"
       de: "Schlachtfeld von Bir Hakeim",
       hu: "Bir Hakeim csatat\\u00e9r",
       ro: "C\\u00e2mpul de lupt\\u0103 de la Bir Hakeim",
-      en: "Bir Hakeim Battlefield",
-image: "/poi-images/ly-bir-hakeim-history-v2.webp"
-},
+      en: "Bir Hakeim Battlefield"},
+    image: "/poi-images/ly-bir-hakeim-history-v2.webp",
     descriptionAdvanced: {
       en: "The remote desert outpost of Bir Hakeim is etched into military history as the site of a heroic 16-day stand by Free French forces against Rommel's Afrika Korps in 1942. Located far south of Tobruk, the harsh, waterless terrain made the defense incredibly brutal. The French resistance here successfully delayed the Axis advance, allowing British forces crucial time to regroup before the First Battle of El Alamein. Today, the isolated site is marked by scattered debris and a poignant memorial to the fallen. History K8 — World War II desert warfare.",
       de: "Schlachtfeld von Bir Hakeim ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Der Ort einer bedeutenden Schlacht im Zweiten Weltkrieg, wo freie franz\\u00f6sische Truppen heldenhaft Widerstand leisteten. Schlacht im Jahr 1942. Verteidigt gegen Rommels Truppen. Wichtiger moralischer Sieg f\\u00fcr Frankreich. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1025,9 +999,8 @@ image: "/poi-images/ly-bir-hakeim-history-v2.webp"
       de: "Fort der Johanniter (Benghazi)",
       hu: "Johannita er\\u0151d (Beng\\u00e1zi)",
       ro: "Fortul Ioani\\u021bilor (Benghazi)",
-      en: "Hospitaller Fort (Benghazi)",
-image: "/poi-images/ly-hospitaller-fort-benghazi-history-v2.webp"
-},
+      en: "Hospitaller Fort (Benghazi)"},
+    image: "/poi-images/ly-hospitaller-fort-benghazi-history-v2.webp",
     descriptionAdvanced: {
       en: "The Hospitaller Fort in Benghazi, though much of its historical presence has been obscured by modern development, represents a critical period of naval fortification. Originally established to protect the Cyrenaican coast from piracy and Ottoman naval raids, it showcases robust, functional military architecture. Like its counterpart in Tripoli, it reflects the intense struggle for control of the Mediterranean trade routes during the 16th century. Remaining elements of the fortifications can occasionally be identified near the city's historic harbor area. History K7 — Mediterranean naval conflict.",
       de: "Fort der Johanniter (Benghazi) ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Historische Festungsreste in Benghazi, die mit den Ritterorden und der osmanischen Herrschaft in Verbindung stehen. Strategische K\\u00fcstenfestung. Oft umk\\u00e4mpft in der Geschichte. Gro\\u00dfteils modern \\u00fcberbaut. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1064,9 +1037,8 @@ image: "/poi-images/ly-hospitaller-fort-benghazi-history-v2.webp"
       de: "Kathedrale von Bengasi",
       hu: "Beng\\u00e1zi katedr\\u00e1lis",
       ro: "Catedrala din Benghazi",
-      en: "Benghazi Cathedral",
-image: "/poi-images/ly-benghazi-cathedral-history-v2.webp"
-},
+      en: "Benghazi Cathedral"},
+    image: "/poi-images/ly-benghazi-cathedral-history-v2.webp",
     descriptionAdvanced: {
       en: "The Benghazi Cathedral is a massive, visually stunning ruin that dominates the city's skyline, standing as the largest Catholic church ever built in North Africa. Designed by Italian architects during the colonial era and completed in the 1930s, it features imposing twin domes and a grand neoclassical facade. After the 1969 revolution, it ceased functioning as a church and fell into severe disrepair, suffering further damage during the 2014 civil war. Despite its ruined state, it remains a profound architectural landmark. History K8 — colonial architecture and urban ruins.",
       de: "Kathedrale von Bengasi ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein monumentales verlassenes Geb\\u00e4ude aus der italienischen Kolonialzeit, ehemals die gr\\u00f6\\u00dfte Kirche in Nordafrika. Erbaut zwischen 1929 und 1939. Im neoklassizistischen Stil gestaltet. Diente als Parteizentrale und verf\\u00e4llt nun. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1103,9 +1075,8 @@ image: "/poi-images/ly-benghazi-cathedral-history-v2.webp"
       de: "Altes Fort Jalu",
       hu: "Jalu r\\u00e9gi er\\u0151dje",
       ro: "Vechiul Fort Jalu",
-      en: "Jalu Old Fort",
-image: "/poi-images/ly-jalu-old-fort-history-v2.webp"
-},
+      en: "Jalu Old Fort"},
+    image: "/poi-images/ly-jalu-old-fort-history-v2.webp",
     descriptionAdvanced: {
       en: "The Jalu Old Fort is a stark, functional military structure situated in the deep eastern desert, originally built to control the strategic Jalu oasis. It served as a critical garrison for Ottoman and later Italian colonial forces attempting to project power southward towards Kufra. The fort's mud and stone construction offered significant protection from both hostile forces and extreme sandstorms. Today, it stands as a quiet monument to the difficulties of establishing military dominance in the vast, unforgiving Sahara. Geography K7 — desert garrisons and colonial expansion.",
       de: "Altes Fort Jalu ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Eine traditionelle W\\u00fcstenbastion, die den wichtigen Handelsknotenpunkt von Jalu sch\\u00fctzte. Bewachte Karawanenrouten. Aus lokalen Materialien gebaut. Stark in der Neuzeit erodiert. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",
@@ -1142,9 +1113,8 @@ image: "/poi-images/ly-jalu-old-fort-history-v2.webp"
       de: "Qasr Al-Haj",
       hu: "Qasr Al-Haj",
       ro: "Qasr Al-Haj",
-      en: "Qasr Al-Haj",
-image: "/poi-images/ly-qasr-al-haj-history-v2.webp"
-},
+      en: "Qasr Al-Haj"},
+    image: "/poi-images/ly-qasr-al-haj-history-v2.webp",
     descriptionAdvanced: {
       en: "Qasr Al-Haj is perhaps the most visually striking and best-preserved ancient fortified granary in the entirety of North Africa. Built into the foothills of the Nafusa Mountains in the 12th century, it is a massive circular structure containing over 100 individual storage rooms (ghorfas). Local Berber families would securely store their olive oil, grain, and valuables here behind thick walls that offered protection from raiders. The unique circular, multi-level design makes it a masterpiece of indigenous functional architecture. Sociology K8 — Berber heritage and communal storage.",
       de: "Qasr Al-Haj ist ein bemerkenswertes Element der libyschen Geografie und Kultur. Ein riesiger kreisf\\u00f6rmiger befestigter Berber-Kornspeicher, der zur Lagerung der Ernten von Nomadenfamilien diente. Vermutlich im 12. Jahrhundert erbaut. Enth\\u00e4lt 114 Lagerkammern. Ein Meisterwerk der Berberarchitektur. Dieser Ort hat eine besondere Bedeutung in der Geschichte Libyens, von den phönizischen und römischen Siedlungen wie Leptis Magna bis zur osmanischen und modernen Epoche. Wie viele bedeutende Orte in Libyen vereint dieser Ort punisch-römisches und berberisches Erbe mit mediterranen und saharischen Einflüssen. Damit trägt dieser Ort zum vielseitigen Profil Libyens bei, zwischen antiken Ruinen, Wüstenoasen und der Küste am Mittelmeer.",

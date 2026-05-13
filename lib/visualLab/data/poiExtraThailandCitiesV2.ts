@@ -11,9 +11,8 @@ export const poiExtraThailandCitiesV2: POI[] = [
       de: "Bangkok",
       hu: "Bangkok",
       ro: "Bangkok",
-      en: "Bangkok",
-image: "/poi-images/bangkok-cities-v2.webp"
-},
+      en: "Bangkok"},
+    image: "/poi-images/bangkok-cities-v2.webp",
     description: {
       de: "Bangkok ist die Hauptstadt und größte Stadt Thailands, bekannt für ihre verzierten Schreine und das pulsierende Straßenleben.",
       hu: "Bangkok Thaiföld fővárosa és legnagyobb városa, amely díszes szentélyeiről és nyüzsgő utcai életéről ismert.",
@@ -47,9 +46,8 @@ image: "/poi-images/bangkok-cities-v2.webp"
       de: "Chiang Mai",
       hu: "Csiangmaj",
       ro: "Chiang Mai",
-      en: "Chiang Mai",
-image: "/poi-images/chiang-mai-cities-v2.webp"
-},
+      en: "Chiang Mai"},
+    image: "/poi-images/chiang-mai-cities-v2.webp",
     description: {
       de: "Chiang Mai ist eine Stadt im bergigen Norden Thailands, die für ihre Altstadt mit Mauern und Hunderten von buddhistischen Tempeln bekannt ist.",
       hu: "Csiangmaj egy város Thaiföld hegyvidéki északi részén, amely fallal körülvett óvárosáról és több száz buddhista templomáról ismert.",
@@ -83,9 +81,8 @@ image: "/poi-images/chiang-mai-cities-v2.webp"
       de: "Phuket-Stadt",
       hu: "Phuket város",
       ro: "Orașul Phuket",
-      en: "Phuket City",
-image: "/poi-images/phuket-city-cities-v2.webp"
-},
+      en: "Phuket City"},
+    image: "/poi-images/phuket-city-cities-v2.webp",
     description: {
       de: "Phuket-Stadt ist die Hauptstadt der Inselprovinz Phuket, bekannt für ihre Altstadt mit sino-portugiesischer Architektur.",
       hu: "Phuket város Phuket sziget-tartomány fővárosa, amely a kínai-portugál építészetéről ismert óvárosáról nevezetes.",
@@ -119,9 +116,8 @@ image: "/poi-images/phuket-city-cities-v2.webp"
       de: "Pattaya",
       hu: "Pattaja",
       ro: "Pattaya",
-      en: "Pattaya",
-image: "/poi-images/pattaya-cities-v2.webp"
-},
+      en: "Pattaya"},
+    image: "/poi-images/pattaya-cities-v2.webp",
     description: {
       de: "Pattaya ist eine Stadt an der Ostküste des Golfs von Thailand, die für ihre Strände und ihr Nachtleben bekannt ist.",
       hu: "Pattaja egy város a Thai-öböl keleti partján, amely strandjairól és éjszakai életéről ismert.",
@@ -155,9 +151,8 @@ image: "/poi-images/pattaya-cities-v2.webp"
       de: "Nonthaburi",
       hu: "Nonthaburi",
       ro: "Nonthaburi",
-      en: "Nonthaburi",
-image: "/poi-images/nonthaburi-cities-v2.webp"
-},
+      en: "Nonthaburi"},
+    image: "/poi-images/nonthaburi-cities-v2.webp",
     description: {
       de: "Nonthaburi ist eine Stadt und Provinz nördlich von Bangkok, die Teil der Metropolregion Bangkok ist.",
       hu: "Nonthaburi egy város és tartomány Bangkoktól északra, a bangkoki metropolisz régió része.",
@@ -191,9 +186,8 @@ image: "/poi-images/nonthaburi-cities-v2.webp"
       de: "Udon Thani",
       hu: "Udonthani",
       ro: "Udon Thani",
-      en: "Udon Thani",
-image: "/poi-images/udon-thani-cities-v2.webp"
-},
+      en: "Udon Thani"},
+    image: "/poi-images/udon-thani-cities-v2.webp",
     description: {
       de: "Udon Thani ist ein wichtiges regionales Zentrum im Nordosten Thailands, das als Tor nach Laos dient.",
       hu: "Udonthani egy fontos regionális központ Thaiföld északkeleti részén, amely kapuként szolgál Laosz felé.",
@@ -227,9 +221,8 @@ image: "/poi-images/udon-thani-cities-v2.webp"
       de: "Nakhon Ratchasima",
       hu: "Nakhonratcsaszima",
       ro: "Nakhon Ratchasima",
-      en: "Nakhon Ratchasima",
-image: "/poi-images/nakhon-ratchasima-cities-v2.webp"
-},
+      en: "Nakhon Ratchasima"},
+    image: "/poi-images/nakhon-ratchasima-cities-v2.webp",
     description: {
       de: "Nakhon Ratchasima, oft Korat genannt, ist eine der größten Städte in der nordöstlichen Region Isan.",
       hu: "Nakhonratcsaszima, gyakran Koratnak nevezik, az egyik legnagyobb város az északkeleti Isan régióban.",
@@ -263,9 +256,8 @@ image: "/poi-images/nakhon-ratchasima-cities-v2.webp"
       de: "Hat Yai",
       hu: "Hatjaj",
       ro: "Hat Yai",
-      en: "Hat Yai",
-image: "/poi-images/hat-yai-cities-v2.webp"
-},
+      en: "Hat Yai"},
+    image: "/poi-images/hat-yai-cities-v2.webp",
     description: {
       de: "Hat Yai ist die größte Stadt in der Provinz Songkhla und ein wichtiges Handels-, Logistik- und Kommunikationszentrum im Süden Thailands.",
       hu: "Hatjaj a Songkhla tartomány legnagyobb városa, és Dél-Thaiföld fontos kereskedelmi, logisztikai és kommunikációs központja.",
@@ -299,9 +291,8 @@ image: "/poi-images/hat-yai-cities-v2.webp"
       de: "Ayutthaya",
       hu: "Ajutthaja",
       ro: "Ayutthaya",
-      en: "Ayutthaya",
-image: "/poi-images/ayutthaya-cities-v2.webp"
-},
+      en: "Ayutthaya"},
+    image: "/poi-images/ayutthaya-cities-v2.webp",
     description: {
       de: "Phra Nakhon Si Ayutthaya ist eine Stadt, die die Ruinen der ehemaligen Hauptstadt des Königreichs Siam beherbergt.",
       hu: "Phra Nakhon Si Ayutthaya egy város, amely a Sziámi Királyság egykori fővárosának romjait őrzi.",
@@ -335,9 +326,8 @@ image: "/poi-images/ayutthaya-cities-v2.webp"
       de: "Khon Kaen",
       hu: "Khonken",
       ro: "Khon Kaen",
-      en: "Khon Kaen",
-image: "/poi-images/khon-kaen-cities-v2.webp"
-},
+      en: "Khon Kaen"},
+    image: "/poi-images/khon-kaen-cities-v2.webp",
     description: {
       de: "Khon Kaen ist eines der vier Hauptzentren von Isan, dem Nordosten Thailands, und ein wichtiges Bildungszentrum.",
       hu: "Khonken egyike Isan, Thaiföld északkeleti részének négy fő központjának, és fontos oktatási központ.",
@@ -371,9 +361,8 @@ image: "/poi-images/khon-kaen-cities-v2.webp"
       de: "Surat Thani",
       hu: "Suratthani",
       ro: "Surat Thani",
-      en: "Surat Thani",
-image: "/poi-images/surat-thani-cities-v2.webp"
-},
+      en: "Surat Thani"},
+    image: "/poi-images/surat-thani-cities-v2.webp",
     description: {
       de: "Surat Thani ist eine Stadt am Golf von Thailand und das Tor zu den beliebten Inseln Ko Samui, Ko Pha-ngan und Ko Tao.",
       hu: "Suratthani egy város a Thai-öböl partján, és kapuja a népszerű Ko Samui, Ko Pha-ngan és Ko Tao szigeteknek.",
@@ -407,9 +396,8 @@ image: "/poi-images/surat-thani-cities-v2.webp"
       de: "Chiang Rai",
       hu: "Csiangraj",
       ro: "Chiang Rai",
-      en: "Chiang Rai",
-image: "/poi-images/chiang-rai-cities-v2.webp"
-},
+      en: "Chiang Rai"},
+    image: "/poi-images/chiang-rai-cities-v2.webp",
     description: {
       de: "Chiang Rai ist die nördlichste Großstadt Thailands und diente als Hauptstadt des Königreichs Lan Na.",
       hu: "Csiangraj Thaiföld legészakibb nagyvárosa, és a Lan Na Királyság fővárosaként szolgált.",
@@ -443,9 +431,8 @@ image: "/poi-images/chiang-rai-cities-v2.webp"
       de: "Rayong",
       hu: "Rajong",
       ro: "Rayong",
-      en: "Rayong",
-image: "/poi-images/rayong-cities-v2.webp"
-},
+      en: "Rayong"},
+    image: "/poi-images/rayong-cities-v2.webp",
     description: {
       de: "Rayong ist eine Stadt an der Küste des Golfs von Thailand, die für ihre Strände und als Zentrum der Petrochemieindustrie bekannt ist.",
       hu: "Rajong egy város a Thai-öböl partján, amely strandjairól és petrolkémiai iparának központjaként ismert.",
@@ -479,9 +466,8 @@ image: "/poi-images/rayong-cities-v2.webp"
       de: "Ubon Ratchathani",
       hu: "Ubonratcsathani",
       ro: "Ubon Ratchathani",
-      en: "Ubon Ratchathani",
-image: "/poi-images/ubon-ratchathani-cities-v2.webp"
-},
+      en: "Ubon Ratchathani"},
+    image: "/poi-images/ubon-ratchathani-cities-v2.webp",
     description: {
       de: "Ubon Ratchathani ist eine der vier großen Städte von Isan und bekannt für sein jährliches Kerzenfest.",
       hu: "Ubonratcsathani egyike Isan négy nagyvárosának, és éves gyertyafesztiváljáról ismert.",
@@ -515,9 +501,8 @@ image: "/poi-images/ubon-ratchathani-cities-v2.webp"
       de: "Nakhon Sawan",
       hu: "Nakhonszavan",
       ro: "Nakhon Sawan",
-      en: "Nakhon Sawan",
-image: "/poi-images/nakhon-sawan-cities-v2.webp"
-},
+      en: "Nakhon Sawan"},
+    image: "/poi-images/nakhon-sawan-cities-v2.webp",
     description: {
       de: "Nakhon Sawan, auch 'Pak Nam Pho' genannt, ist die Stadt, in der die Flüsse Ping und Nan zusammenfließen und den Fluss Chao Phraya bilden.",
       hu: "Nakhonszavan, más néven 'Pak Nam Pho', az a város, ahol a Ping és a Nan folyók összefolynak, és a Chao Phraya folyót alkotják.",
@@ -551,9 +536,8 @@ image: "/poi-images/nakhon-sawan-cities-v2.webp"
       de: "Nakhon Si Thammarat",
       hu: "Nakhonszithammarat",
       ro: "Nakhon Si Thammarat",
-      en: "Nakhon Si Thammarat",
-image: "/poi-images/nakhon-si-thammarat-cities-v2.webp"
-},
+      en: "Nakhon Si Thammarat"},
+    image: "/poi-images/nakhon-si-thammarat-cities-v2.webp",
     description: {
       de: "Nakhon Si Thammarat ist eine der ältesten Städte Thailands und ein wichtiges Zentrum des Buddhismus in der südlichen Region.",
       hu: "Nakhonszithammarat Thaiföld egyik legrégebbi városa és a buddhizmus fontos központja a déli régióban.",
@@ -587,9 +571,8 @@ image: "/poi-images/nakhon-si-thammarat-cities-v2.webp"
       de: "Phitsanulok",
       hu: "Phitszanulok",
       ro: "Phitsanulok",
-      en: "Phitsanulok",
-image: "/poi-images/phitsanulok-cities-v2.webp"
-},
+      en: "Phitsanulok"},
+    image: "/poi-images/phitsanulok-cities-v2.webp",
     description: {
       de: "Phitsanulok ist eine historisch wichtige Stadt im unteren Norden Thailands, Geburtsort von König Naresuan dem Großen.",
       hu: "Phitszanulok egy történelmileg fontos város Thaiföld északi alsó részén, Nagy Naresuan király szülőhelye.",
@@ -623,9 +606,8 @@ image: "/poi-images/phitsanulok-cities-v2.webp"
       de: "Kanchanaburi",
       hu: "Kancsanaburi",
       ro: "Kanchanaburi",
-      en: "Kanchanaburi",
-image: "/poi-images/kanchanaburi-cities-v2.webp"
-},
+      en: "Kanchanaburi"},
+    image: "/poi-images/kanchanaburi-cities-v2.webp",
     description: {
       de: "Kanchanaburi ist eine Stadt im Westen Thailands, die für ihre Verbindung zur Todeseisenbahn während des Zweiten Weltkriegs bekannt ist.",
       hu: "Kancsanaburi egy város Nyugat-Thaiföldön, amely a második világháború alatti Halálvasúttal való kapcsolatáról ismert.",
@@ -659,9 +641,8 @@ image: "/poi-images/kanchanaburi-cities-v2.webp"
       de: "Songkhla",
       hu: "Songkhla",
       ro: "Songkhla",
-      en: "Songkhla",
-image: "/poi-images/songkhla-cities-v2.webp"
-},
+      en: "Songkhla"},
+    image: "/poi-images/songkhla-cities-v2.webp",
     description: {
       de: "Songkhla ist eine Hafenstadt am Golf von Thailand und die Hauptstadt der Provinz Songkhla.",
       hu: "Songkhla egy kikötőváros a Thai-öböl partján, és Songkhla tartomány fővárosa.",
@@ -695,9 +676,8 @@ image: "/poi-images/songkhla-cities-v2.webp"
       de: "Chonburi",
       hu: "Csonburi",
       ro: "Chonburi",
-      en: "Chonburi",
-image: "/poi-images/chonburi-cities-v2.webp"
-},
+      en: "Chonburi"},
+    image: "/poi-images/chonburi-cities-v2.webp",
     description: {
       de: "Chonburi ist die Hauptstadt der Provinz Chonburi und ein Zentrum des Eastern Seaboard Entwicklungsplans.",
       hu: "Csonburi Csonburi tartomány fővárosa és a Keleti Parti Fejlesztési Terv központja.",
@@ -731,9 +711,8 @@ image: "/poi-images/chonburi-cities-v2.webp"
       de: "Trang",
       hu: "Trang",
       ro: "Trang",
-      en: "Trang",
-image: "/poi-images/trang-cities-v2.webp"
-},
+      en: "Trang"},
+    image: "/poi-images/trang-cities-v2.webp",
     descriptionAdvanced: {
       en: "Trang is a hidden gem in Southern Thailand, located on the mainland near the Andaman Sea. Historically a significant port for international trade, it was the first place in Thailand where rubber trees were planted, a legacy of the visionary governor Phraya Ratsadanupradit. Today, Trang is most famous for its vibrant culinary scene, often called the 'food capital of the South.' The city is renowned for its unique breakfast culture, where residents and visitors feast on dim sum and the legendary Trang roasted pork (moo yang). Beyond its streets, Trang serves as a gateway to several breathtaking and relatively untouched islands, such as Koh Kradan and Koh Mook, famous for the Emerald Cave. The city's charm lies in its slow pace, well-preserved colonial-style architecture, and its iconic three-wheeled 'frog' tuk-tuks, which are found only in this province.",
       de: "Trang ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Trang ist eine Stadt in Südthailand nahe der Andamanenseeküste, bekannt für ihre kulinarische Szene. Berühmt für sein gebratenes Schweinefleisch und seinen Kuchen. Tor zu vielen unberührten Inseln. Hat einen charmanten Bahnhof im Kolonialstil. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -767,9 +746,8 @@ image: "/poi-images/trang-cities-v2.webp"
       de: "Lampang",
       hu: "Lampang",
       ro: "Lampang",
-      en: "Lampang",
-image: "/poi-images/lampang-cities-v2.webp"
-},
+      en: "Lampang"},
+    image: "/poi-images/lampang-cities-v2.webp",
     descriptionAdvanced: {
       en: "Lampang, often referred to as 'Mueang Rot Ma' or the Horse Carriage City, is a peaceful provincial capital in Northern Thailand that feels like a journey back in time. It is the only city in the country where horse-drawn carriages are still used as a regular form of local transportation, a tradition preserved from the era of King Rama V. Situated in the fertile valley of the Wang River, Lampang was once an important center for the Lanna Kingdom and a major hub for the teak timber industry. The city is famous for its exquisite teakwood temples, such as Wat Phra That Lampang Luang, which is considered one of the most perfectly preserved Lanna-style temples in existence. Lampang is also the ceramic capital of Thailand, renowned for its 'Rooster Brand' bowls. The city offers a relaxed, authentic atmosphere, far from the mass tourism of its neighbor Chiang Mai.",
       de: "Lampang ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Lampang ist eine Stadt im Norden Thailands, die für ihre Pferdekutschen und die traditionelle Lanna-Kultur bekannt ist. Die einzige Stadt in Thailand, in der noch Pferdekutschen verkehren. Berühmt für seine Keramik. Hat viele gut erhaltene Holzhäuser. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -803,9 +781,8 @@ image: "/poi-images/lampang-cities-v2.webp"
       de: "Samut Prakan",
       hu: "Szamutprakan",
       ro: "Samut Prakan",
-      en: "Samut Prakan",
-image: "/poi-images/samut-prakan-cities-v2.webp"
-},
+      en: "Samut Prakan"},
+    image: "/poi-images/samut-prakan-cities-v2.webp",
     descriptionAdvanced: {
       en: "Samut Prakan, located at the mouth of the Chao Phraya River where it meets the Gulf of Thailand, is a vital industrial and historical gateway to Bangkok. Historically known as 'Pak Nam' (River Mouth), it served as a primary naval defense for the capital, evidenced by the numerous forts and the iconic Phra Samut Chedi temple located on the riverbank. Today, Samut Prakan is a major manufacturing hub and home to the Suvarnabhumi International Airport. Despite its industrial nature, the city boasts significant cultural attractions. The Ancient City (Muang Boran) is the world's largest outdoor museum, featuring scaled-down replicas of Thailand's most famous monuments. Another highlight is the Erawan Museum, housed inside a colossal three-headed bronze elephant. The city's Bang Pu Recreation Center is a popular spot for watching thousands of migrating seagulls during the winter months.",
       de: "Samut Prakan ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Samut Prakan ist eine Stadt an der Mündung des Flusses Chao Phraya in den Golf von Thailand, bekannt für ihre Industrie und historischen Stätten. Historisch bekannt als Pak Nam. Heimat des Erawan-Museums. Wichtiges Industrie- und Fischereizentrum. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -839,9 +816,8 @@ image: "/poi-images/samut-prakan-cities-v2.webp"
       de: "Sakon Nakhon",
       hu: "Szakonnakhon",
       ro: "Sakon Nakhon",
-      en: "Sakon Nakhon",
-image: "/poi-images/sakon-nakhon-cities-v2.webp"
-},
+      en: "Sakon Nakhon"},
+    image: "/poi-images/sakon-nakhon-cities-v2.webp",
     descriptionAdvanced: {
       en: "Sakon Nakhon is a culturally rich city in the upper Northeast of Thailand, situated on the shores of Nong Han, the country's largest freshwater lake. It is a major center for the 'Forest Tradition' of Theravada Buddhism, having been the home of several highly revered monks, including Ajahn Mun Bhuridatta. The city's spiritual landmark is Wat Phra That Choeng Chum, an ancient stupa built over a site believed to contain footprints of four Buddhas. Sakon Nakhon is famous for its unique 'Wax Castle' festival, where intricately carved wax models of temples are paraded through the city. The region is also renowned for its traditional indigo-dyed fabrics (Kram), which are hand-woven by local communities. The city serves as a gateway to the Phu Phan Mountains, which offer lush forests and historical significance as a former stronghold for the Free Thai Movement during World War II.",
       de: "Sakon Nakhon ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Sakon Nakhon ist eine Stadt im Nordosten Thailands am Nong Han See, dem größten Süßwassersee Thailands. Ein wichtiges Zentrum für den Waldmönchs-Buddhismus. Veranstaltet ein berühmtes Wachsschlossfest. Der See ist ein wichtiger Bestandteil des lokalen Lebens. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -875,9 +851,8 @@ image: "/poi-images/sakon-nakhon-cities-v2.webp"
       de: "Lopburi",
       hu: "Lopburi",
       ro: "Lopburi",
-      en: "Lopburi",
-image: "/poi-images/lopburi-cities-v2.webp"
-},
+      en: "Lopburi"},
+    image: "/poi-images/lopburi-cities-v2.webp",
     descriptionAdvanced: {
       en: "Lopburi is one of Thailand's oldest continuously inhabited cities, offering a fascinating blend of ancient history and modern urban life. Located in the central plains, it rose to prominence during the Dvaravati period and later became a secondary capital for the Ayutthaya Kingdom under King Narai the Great. The city is famous for its Khmer-influenced ruins, such as the three-spired Prang Sam Yod, which reflects the architectural style of Angkor. However, Lopburi is most widely known for its massive population of crab-eating macaque monkeys that roam freely through the historic district. These monkeys are considered a local blessing and are the stars of the annual Monkey Buffet Festival, where tons of food are laid out for them. The city's 'King Narai's Palace' is now a museum, showcasing a unique mix of Thai and European architectural styles from the 17th century, when Lopburi was a hub for international diplomacy.",
       de: "Lopburi ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Lopburi ist eine der ältesten Städte Thailands, die für ihre große Population an Makaken bekannt ist, die in der Mitte der Stadt leben. Berühmt für seine Affen. Hat viele alte Tempelruinen. War eine zweite Hauptstadt unter König Narai. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -911,9 +886,8 @@ image: "/poi-images/lopburi-cities-v2.webp"
       de: "Nong Khai",
       hu: "Nongkhaj",
       ro: "Nong Khai",
-      en: "Nong Khai",
-image: "/poi-images/nong-khai-cities-v2.webp"
-},
+      en: "Nong Khai"},
+    image: "/poi-images/nong-khai-cities-v2.webp",
     descriptionAdvanced: {
       en: "Nong Khai is a serene and atmospheric city stretched along the southern bank of the mighty Mekong River. It serves as a primary gateway between Thailand and Laos, connected to the Laotian capital, Vientiane, by the First Thai-Lao Friendship Bridge. The city is famous for its riverside promenade, where locals and visitors enjoy stunning views of the river at sunset. Nong Khai's most unusual attraction is Sala Keoku, a surreal sculpture park featuring massive, fantastical statues depicting Buddhist and Hindu mythologies, created by a mystic in the 1970s. The city is also a focal point for the 'Naga Fireballs' phenomenon, where mysterious glowing orbs are said to rise from the river during the end of Buddhist Lent. Nong Khai offers a peaceful, multicultural environment with a mix of Thai, Lao, and Vietnamese influences, making it a popular destination for those seeking a slower pace of life.",
       de: "Nong Khai ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Nong Khai ist eine Stadt am Ufer des Mekong-Flusses, gegenüber der laotischen Hauptstadt Vientiane. Ein wichtiges Tor nach Laos über die Erste Thailändisch-Laotische Freundschaftsbrücke. Bekannt für das Phänomen der Naga-Feuerbälle. Hat eine entspannte Atmosphäre am Flussufer. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -947,9 +921,8 @@ image: "/poi-images/nong-khai-cities-v2.webp"
       de: "Hua Hin",
       hu: "Huahin",
       ro: "Hua Hin",
-      en: "Hua Hin",
-image: "/poi-images/hua-hin-cities-v2.webp"
-},
+      en: "Hua Hin"},
+    image: "/poi-images/hua-hin-cities-v2.webp",
     descriptionAdvanced: {
       en: "Hua Hin is Thailand's oldest and most prestigious beach resort, located on the western coast of the Gulf of Thailand. Once a quiet fishing village, it gained royal favor in the 1920s when King Rama VII built a summer palace there, transforming it into a getaway for the Thai elite. Today, Hua Hin maintains a refined and family-friendly atmosphere, distinct from the more boisterous beach towns in the south. The city is famous for its long, white-sand beach, world-class golf courses, and its iconic red-and-white railway station, which is considered the most beautiful in the country. Hua Hin is also a culinary destination, renowned for its fresh seafood and vibrant night markets like Cicada Market. Despite its growth, the city retains its royal charm, centered around the Klai Kangwon Palace ('Far from Worries'), which remains a residence for the Thai royal family.",
       de: "Hua Hin ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Hua Hin ist ein Seebad am Golf von Thailand, das als königlicher Ferienort beliebt wurde. Beliebter Ferienort für die thailändische Königsfamilie. Hat einen berühmten Bahnhof im thailändischen Stil. Bekannt für seine Nachtmärkte und Meeresfrüchte. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -983,9 +956,8 @@ image: "/poi-images/hua-hin-cities-v2.webp"
       de: "Krabi",
       hu: "Krabi",
       ro: "Krabi",
-      en: "Krabi",
-image: "/poi-images/krabi-cities-v2.webp"
-},
+      en: "Krabi"},
+    image: "/poi-images/krabi-cities-v2.webp",
     descriptionAdvanced: {
       en: "Krabi is a stunning coastal town that serves as the administrative capital and main gateway to one of Thailand's most beautiful provinces. Situated at the mouth of the Krabi River on the Andaman Sea, the town is characterized by its dramatic limestone karsts that rise vertically from the surrounding plains and sea. While often treated as a stopover for the world-famous Phi Phi Islands and Railay Beach, Krabi Town itself has a charming, local feel with a lively riverfront and authentic markets. Notable attractions include Wat Tham Suea (Tiger Cave Temple), where visitors can climb 1,237 steps for a panoramic view of the province. The town is also famous for its prehistoric theme, seen in the 'Khao Khanab Nam' mountains that frame the river mouth and the unique caveman-themed traffic lights in the town center, celebrating the ancient human remains found in the area.",
       de: "Krabi ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Krabi ist eine Stadt an der Westküste Südthailands an der Andamanensee, die als Basis für die Erkundung der Provinz dient. Tor zu den Inseln Phi Phi und Railay Beach. Geprägt von markanten Kalksteinfelsen. Der Tigerhöhlentempel ist eine Hauptattraktion. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -1019,9 +991,8 @@ image: "/poi-images/krabi-cities-v2.webp"
       de: "Tak",
       hu: "Tak",
       ro: "Tak",
-      en: "Tak",
-image: "/poi-images/tak-cities-v2.webp"
-},
+      en: "Tak"},
+    image: "/poi-images/tak-cities-v2.webp",
     descriptionAdvanced: {
       en: "Tak is a historic and mountainous province in Western Thailand that borders Myanmar. The city of Tak, situated on the banks of the Ping River, has historically served as a vital strategic outpost and trading post between the central Thai kingdoms and the Burmese empires. It is famously associated with King Taksin the Great, who was the governor of Tak before liberating the country and becoming king after the fall of Ayutthaya. Today, the city is a quiet administrative center known for its traditional wooden architecture and the beautiful 'Loi Krathong Sai' festival, where thousands of coconut shells containing candles are floated down the Ping River in a single line. Tak is the gateway to some of Thailand's most rugged and untouched wilderness, including the massive Bhumibol Dam and the remote, mist-shrouded peaks of Umphang, home to the spectacular Thi Lo Su Waterfall.",
       de: "Tak ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Tak ist eine Stadt im Westen Thailands, die an Myanmar grenzt und als wichtiger Handelsposten dient. Historisch wichtig für den Handel mit Burma. Veranstaltet das Loi-Krathong-Sai-Festival. Umgeben von Berglandschaften. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",
@@ -1055,9 +1026,8 @@ image: "/poi-images/tak-cities-v2.webp"
       de: "Ratchaburi",
       hu: "Ratcsaburi",
       ro: "Ratchaburi",
-      en: "Ratchaburi",
-image: "/poi-images/ratchaburi-cities-v2.webp"
-},
+      en: "Ratchaburi"},
+    image: "/poi-images/ratchaburi-cities-v2.webp",
     descriptionAdvanced: {
       en: "Ratchaburi is a culturally diverse province located just 80 kilometers west of Bangkok, offering a rich tapestry of history, agriculture, and art. The city of Ratchaburi is situated on the banks of the Mae Klong River and has been a significant settlement since the Dvaravati period over a thousand years ago. Ratchaburi is most famous for its 'Damnoen Saduak' Floating Market, an iconic symbol of traditional Thai life on the water. The city is also the heart of Thailand's ceramic production, renowned for its 'Dragon Jars' (Ong Mongkorn)—massive terracotta water jars decorated with hand-painted dragons. In recent years, Ratchaburi has reinvented itself as a center for contemporary art and eco-tourism, with trendy galleries, scenic vineyards in the Suan Phueng highlands, and the surreal 'Khao Bin' limestone cave. The province's name, meaning 'The Land of the King,' reflects its long-standing importance to the Thai monarchy.",
       de: "Ratchaburi ist ein bemerkenswertes Element der thailändischen Geografie und Kultur. Ratchaburi ist eine Stadt westlich von Bangkok, die für ihre schwimmenden Märkte und Keramikprodukte bekannt ist. Berühmt für den schwimmenden Markt Damnoen Saduak. Ein Zentrum der Keramikproduktion. Der Name bedeutet 'Die Stadt des Königs'. Diese Stadt zählt zu den charakteristischen Siedlungen Thailands, oft entlang des Chao Phraya oder an der Andamanenküste gelegen. Wie viele bedeutende Orte in Thailand vereint dieser Ort regionale Eigenheiten mit dem Erbe von Chao Phraya, Mekong und buddhistischer Tradition. Damit trägt dieser Ort zum vielseitigen Profil Thailands zwischen Andamanenküste, Reisfeldern und tropischen Wäldern bei.",

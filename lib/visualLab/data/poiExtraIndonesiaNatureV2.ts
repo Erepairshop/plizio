@@ -11,9 +11,8 @@ export const poiExtraIndonesiaNatureV2: POI[] = [
       de: "Nationalpark Bromo-Tengger-Semeru",
       hu: "Bromo Tengger Semeru Nemzeti Park",
       ro: "Parcul Național Bromo Tengger Semeru",
-      en: "Bromo Tengger Semeru National Park",
-image: "/poi-images/bromo-tengger-semeru-national-park-nature-v2.webp"
-},
+      en: "Bromo Tengger Semeru National Park"},
+    image: "/poi-images/bromo-tengger-semeru-national-park-nature-v2.webp",
     description: {
       de: "Ein atemberaubender Nationalpark in Ost-Java, der eine riesige Sandwüste und die aktiven Vulkane Bromo und Semeru umfasst.",
       hu: "Lenyűgöző nemzeti park Kelet-Jáván, amely egy hatalmas homoksivatagot, valamint a Bromo és Semeru aktív vulkánokat foglalja magában.",
@@ -48,9 +47,8 @@ image: "/poi-images/bromo-tengger-semeru-national-park-nature-v2.webp"
       de: "Nationalpark Ujung Kulon",
       hu: "Ujung Kulon Nemzeti Park",
       ro: "Parcul Național Ujung Kulon",
-      en: "Ujung Kulon National Park",
-image: "/poi-images/ujung-kulon-national-park-nature-v2.webp"
-},
+      en: "Ujung Kulon National Park"},
+    image: "/poi-images/ujung-kulon-national-park-nature-v2.webp",
     description: {
       de: "Ein UNESCO-Weltnaturerbe an der Westspitze Javas, das letzte Refugium für das vom Aussterben bedrohte Java-Nashorn.",
       hu: "UNESCO Világörökségi helyszín Jáva nyugati csücskén, a kritikusan veszélyeztetett jávai orrszarvú utolsó menedéke.",
@@ -85,9 +83,8 @@ image: "/poi-images/ujung-kulon-national-park-nature-v2.webp"
       de: "Nationalpark Kerinci Seblat",
       hu: "Kerinci Seblat Nemzeti Park",
       ro: "Parcul Național Kerinci Seblat",
-      en: "Kerinci Seblat National Park",
-image: "/poi-images/kerinci-seblat-national-park-nature-v2.webp"
-},
+      en: "Kerinci Seblat National Park"},
+    image: "/poi-images/kerinci-seblat-national-park-nature-v2.webp",
     description: {
       de: "Der größte Nationalpark auf Sumatra, Heimat des Mount Kerinci und einer unglaublichen Vielfalt an Flora und Fauna.",
       hu: "Szumátra legnagyobb nemzeti parkja, a Kerinci-hegy otthona, és hihetetlenül változatos növény- és állatvilággal rendelkezik.",
@@ -122,9 +119,8 @@ image: "/poi-images/kerinci-seblat-national-park-nature-v2.webp"
       de: "Nationalpark Lorentz",
       hu: "Lorentz Nemzeti Park",
       ro: "Parcul Național Lorentz",
-      en: "Lorentz National Park",
-image: "/poi-images/lorentz-national-park-nature-v2.webp"
-},
+      en: "Lorentz National Park"},
+    image: "/poi-images/lorentz-national-park-nature-v2.webp",
     description: {
       de: "Der größte Nationalpark Südostasiens in Papua, der eine kontinuierliche, unberührte Transekte von schneebedeckten Gipfeln bis zu einem tropischen Meeresumfeld bietet.",
       hu: "Délkelet-Ázsia legnagyobb nemzeti parkja Pápua tartományban, amely egy folyamatos, érintetlen keresztmetszetet kínál a hófödte csúcsoktól a trópusi tengeri környezetig.",
@@ -159,9 +155,8 @@ image: "/poi-images/lorentz-national-park-nature-v2.webp"
       de: "Mount Rinjani",
       hu: "Rinjani-hegy",
       ro: "Muntele Rinjani",
-      en: "Mount Rinjani",
-image: "/poi-images/mount-rinjani-nature-v2.webp"
-},
+      en: "Mount Rinjani"},
+    image: "/poi-images/mount-rinjani-nature-v2.webp",
     description: {
       de: "Ein aktiver Vulkan auf der Insel Lombok, der zweithöchste Vulkan Indonesiens. Er ist berühmt für seinen Kratersee Segara Anak.",
       hu: "Aktív vulkán Lombok szigetén, Indonézia második legmagasabb vulkánja. Híres a Segara Anak nevű krátertaváról.",
@@ -196,9 +191,8 @@ image: "/poi-images/mount-rinjani-nature-v2.webp"
       de: "Puncak Jaya (Carstensz-Pyramide)",
       hu: "Puncak Jaya (Carstensz-piramis)",
       ro: "Puncak Jaya (Piramida Carstensz)",
-      en: "Puncak Jaya (Carstensz Pyramid)",
-image: "/poi-images/puncak-jaya-carstensz-pyramid-nature-v2.webp"
-},
+      en: "Puncak Jaya (Carstensz Pyramid)"},
+    image: "/poi-images/puncak-jaya-carstensz-pyramid-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel Indonesiens und Ozeaniens, Teil der Seven Summits. Ein einzigartiger Berg mit Gletschern in der Nähe des Äquators.",
       hu: "Indonézia és Óceánia legmagasabb csúcsa, a Hét Csúcs egyike. Egyedülálló hegy gleccserekkel az Egyenlítő közelében.",
@@ -233,9 +227,8 @@ image: "/poi-images/puncak-jaya-carstensz-pyramid-nature-v2.webp"
       de: "Mount Semeru",
       hu: "Semeru-hegy",
       ro: "Muntele Semeru",
-      en: "Mount Semeru",
-image: "/poi-images/mount-semeru-nature-v2.webp"
-},
+      en: "Mount Semeru"},
+    image: "/poi-images/mount-semeru-nature-v2.webp",
     description: {
       de: "Der höchste Vulkan auf der Insel Java, auch bekannt als Mahameru (Der Große Berg). Er ist einer der aktivsten Vulkane Indonesiens.",
       hu: "Jáva szigetének legmagasabb vulkánja, más néven Mahameru (A Nagy Hegy). Indonézia egyik legaktívabb vulkánja.",
@@ -270,9 +263,8 @@ image: "/poi-images/mount-semeru-nature-v2.webp"
       de: "Nationalpark Tanjung Puting",
       hu: "Tanjung Puting Nemzeti Park",
       ro: "Parcul Național Tanjung Puting",
-      en: "Tanjung Puting National Park",
-image: "/poi-images/tanjung-puting-national-park-nature-v2.webp"
-},
+      en: "Tanjung Puting National Park"},
+    image: "/poi-images/tanjung-puting-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in Zentralkalimantan, weltberühmt für seine Orang-Utan-Schutzprogramme und die Möglichkeit, sie in ihrem natürlichen Lebensraum zu sehen.",
       hu: "Nemzeti park Közép-Kalimantanban, világhírű az orángutánvédelmi programjairól és a lehetőségről, hogy természetes élőhelyükön láthassuk őket.",
@@ -307,9 +299,8 @@ image: "/poi-images/tanjung-puting-national-park-nature-v2.webp"
       de: "Sentani-See",
       hu: "Sentani-tó",
       ro: "Lacul Sentani",
-      en: "Lake Sentani",
-image: "/poi-images/lake-sentani-nature-v2.webp"
-},
+      en: "Lake Sentani"},
+    image: "/poi-images/lake-sentani-nature-v2.webp",
     description: {
       de: "Ein großer, wunderschöner See in der Nähe von Jayapura, Papua, bekannt für seine Inseln, Pfahlbauten und reiche Kultur.",
       hu: "Nagy, gyönyörű tó Jayapura közelében, Pápua tartományban, szigeteiről, cölöpházairól és gazdag kultúrájáról ismert.",
@@ -344,9 +335,8 @@ image: "/poi-images/lake-sentani-nature-v2.webp"
       de: "Kapuas-Fluss",
       hu: "Kapuas-folyó",
       ro: "Râul Kapuas",
-      en: "Kapuas River",
-image: "/poi-images/kapuas-river-nature-v2.webp"
-},
+      en: "Kapuas River"},
+    image: "/poi-images/kapuas-river-nature-v2.webp",
     description: {
       de: "Der längste Fluss Indonesiens, der durch die Provinz West-Kalimantan fließt. Er ist eine wichtige Lebensader für Transport und Handel.",
       hu: "Indonézia leghosszabb folyója, amely Nyugat-Kalimantan tartományon folyik keresztül. Fontos közlekedési és kereskedelmi ütőér.",
@@ -381,9 +371,8 @@ image: "/poi-images/kapuas-river-nature-v2.webp"
       de: "Mahakam-Fluss",
       hu: "Mahakam-folyó",
       ro: "Râul Mahakam",
-      en: "Mahakam River",
-image: "/poi-images/mahakam-river-nature-v2.webp"
-},
+      en: "Mahakam River"},
+    image: "/poi-images/mahakam-river-nature-v2.webp",
     description: {
       de: "Der zweitlängste Fluss Indonesiens in Ost-Kalimantan. Er ist bekannt für seine Süßwasser-Irawadi-Delfine.",
       hu: "Indonézia második leghosszabb folyója Kelet-Kalimantanban. Híres édesvízi iravádi delfinjeiről.",
@@ -418,9 +407,8 @@ image: "/poi-images/mahakam-river-nature-v2.webp"
       de: "Nationaler Meerespark Bunaken",
       hu: "Bunaken Tengeri Nemzeti Park",
       ro: "Parcul Național Marin Bunaken",
-      en: "Bunaken National Marine Park",
-image: "/poi-images/bunaken-national-marine-park-nature-v2.webp"
-},
+      en: "Bunaken National Marine Park"},
+    image: "/poi-images/bunaken-national-marine-park-nature-v2.webp",
     description: {
       de: "Ein weltberühmter Meerespark in der Nähe von Manado, Nord-Sulawesi, der für seine außergewöhnliche Korallen- und Fischvielfalt bekannt ist.",
       hu: "Világhírű tengeri park Manado közelében, Észak-Celebeszen, amely rendkívüli korall- és halfaj-gazdagságáról ismert.",
@@ -455,9 +443,8 @@ image: "/poi-images/bunaken-national-marine-park-nature-v2.webp"
       de: "Nationalpark Wakatobi",
       hu: "Wakatobi Nemzeti Park",
       ro: "Parcul Național Wakatobi",
-      en: "Wakatobi National Park",
-image: "/poi-images/wakatobi-national-park-nature-v2.webp"
-},
+      en: "Wakatobi National Park"},
+    image: "/poi-images/wakatobi-national-park-nature-v2.webp",
     description: {
       de: "Ein Meeresnationalpark in Südost-Sulawesi, der als einer der artenreichsten Meeresorte der Welt gilt.",
       hu: "Tengeri nemzeti park Délkelet-Celebeszen, amelyet a világ egyik leginkább fajgazdag tengeri helyszínének tartanak.",
@@ -492,9 +479,8 @@ image: "/poi-images/wakatobi-national-park-nature-v2.webp"
       de: "Nationalpark Baluran",
       hu: "Baluran Nemzeti Park",
       ro: "Parcul Național Baluran",
-      en: "Baluran National Park",
-image: "/poi-images/baluran-national-park-nature-v2.webp"
-},
+      en: "Baluran National Park"},
+    image: "/poi-images/baluran-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in Ost-Java, der wegen seiner weiten Savanne oft als 'Afrikas kleines Stück in Java' bezeichnet wird.",
       hu: "Nemzeti park Kelet-Jáván, amelyet széles szavannája miatt gyakran 'Afrika kis darabjának Jáván' neveznek.",
@@ -529,9 +515,8 @@ image: "/poi-images/baluran-national-park-nature-v2.webp"
       de: "Nationalpark Way Kambas",
       hu: "Way Kambas Nemzeti Park",
       ro: "Parcul Național Way Kambas",
-      en: "Way Kambas National Park",
-image: "/poi-images/way-kambas-national-park-nature-v2.webp"
-},
+      en: "Way Kambas National Park"},
+    image: "/poi-images/way-kambas-national-park-nature-v2.webp",
     description: {
       de: "Ein Nationalpark in Lampung, Sumatra, der sich dem Schutz des Sumatra-Elefanten widmet. Beherbergt ein Elefantenschutzzentrum.",
       hu: "Nemzeti park Lampungban, Szumátrán, amely a szumátrai elefánt védelmének szenteli magát. Otthont ad egy elefántvédelmi központnak.",
@@ -566,9 +551,8 @@ image: "/poi-images/way-kambas-national-park-nature-v2.webp"
       de: "Maninjau-See",
       hu: "Maninjau-tó",
       ro: "Lacul Maninjau",
-      en: "Lake Maninjau",
-image: "/poi-images/danau-maninjau-nature-v2.webp"
-},
+      en: "Lake Maninjau"},
+    image: "/poi-images/danau-maninjau-nature-v2.webp",
     description: {
       de: "Ein großer Kratersee in West-Sumatra, der für seine landschaftliche Schönheit und die 44 Haarnadelkurven (Kelok 44) bekannt ist, die zu ihm hinabführen.",
       hu: "Nagy krátertó Nyugat-Szumátrán, amely festői szépségéről és a hozzá levezető 44 hajtűkanyarról (Kelok 44) ismert.",
@@ -603,9 +587,8 @@ image: "/poi-images/danau-maninjau-nature-v2.webp"
       de: "Nationalpark Gunung Gede Pangrango",
       hu: "Gunung Gede Pangrango Nemzeti Park",
       ro: "Parcul Național Gunung Gede Pangrango",
-      en: "Mount Gede Pangrango National Park",
-image: "/poi-images/gunung-gede-pangarango-national-park-nature-v2.webp"
-},
+      en: "Mount Gede Pangrango National Park"},
+    image: "/poi-images/gunung-gede-pangarango-national-park-nature-v2.webp",
     description: {
       de: "Ein beliebter Nationalpark in West-Java, der die Zwillingsvulkane Mount Gede und Mount Pangrango umfasst. Bekannt für seine Wanderwege und reiche Vogelwelt.",
       hu: "Népszerű nemzeti park Nyugat-Jáván, amely a Gunung Gede és a Gunung Pangrango ikervulkánokat foglalja magában. Túraútvonalairól és gazdag madárvilágáról ismert.",
@@ -640,9 +623,8 @@ image: "/poi-images/gunung-gede-pangarango-national-park-nature-v2.webp"
       de: "Nationalpark Sentarum-See",
       hu: "Sentarum-tó Nemzeti Park",
       ro: "Parcul Național Lacul Sentarum",
-      en: "Lake Sentarum National Park",
-image: "/poi-images/sentarum-lake-national-park-nature-v2.webp"
-},
+      en: "Lake Sentarum National Park"},
+    image: "/poi-images/sentarum-lake-national-park-nature-v2.webp",
     description: {
       de: "Ein einzigartiges Feuchtgebiet aus saisonalen Seen und Sumpfwäldern in West-Kalimantan, das für seine enorme Fischvielfalt bekannt ist.",
       hu: "Egyedülálló vizes élőhely, amely szezonális tavakból és mocsárerdőkből áll Nyugat-Kalimantanban, és hatalmas halgazdagságáról ismert.",
@@ -677,9 +659,8 @@ image: "/poi-images/sentarum-lake-national-park-nature-v2.webp"
       de: "Nationalpark Karimunjawa",
       hu: "Karimunjawa Nemzeti Park",
       ro: "Parcul Național Karimunjawa",
-      en: "Karimunjawa National Park",
-image: "/poi-images/karimunjawa-national-park-nature-v2.webp"
-},
+      en: "Karimunjawa National Park"},
+    image: "/poi-images/karimunjawa-national-park-nature-v2.webp",
     description: {
       de: "Ein Archipel aus 27 Inseln in der Java-See, bekannt für seine unberührten weißen Sandstrände, klaren Gewässer und Korallenriffe.",
       hu: "27 szigetből álló szigetcsoport a Jáva-tengerben, érintetlen fehér homokos strandjairól, tiszta vizéről és korallzátonyairól ismert.",
@@ -714,9 +695,8 @@ image: "/poi-images/karimunjawa-national-park-nature-v2.webp"
       de: "Vulkan Merapi",
       hu: "Merapi vulkán",
       ro: "Vulcanul Merapi",
-      en: "Mount Merapi",
-image: "/poi-images/merapi-volcano-nature-v2.webp"
-},
+      en: "Mount Merapi"},
+    image: "/poi-images/merapi-volcano-nature-v2.webp",
     description: {
       de: "Einer der aktivsten und gefährlichsten Vulkane Indonesiens, der sich zwischen Zentral-Java und Yogyakarta befindet. Sein Name bedeutet 'Feuerberg'.",
       hu: "Indonézia egyik legaktívabb és legveszélyesebb vulkánja, Közép-Jáva és Yogyakarta között található. Neve azt jelenti, 'Tűzhegy'.",

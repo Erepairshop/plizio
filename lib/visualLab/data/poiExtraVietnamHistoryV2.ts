@@ -11,9 +11,8 @@ export const poiExtraVietnamHistoryV2: POI[] = [
       de: "Tunnel von Củ Chi",
       hu: "Củ Chi alagutak",
       ro: "Tunelurile de la Củ Chi",
-      en: "Củ Chi Tunnels",
-image: "/poi-images/cu-chi-tunnels-history-v2.webp"
-},
+      en: "Củ Chi Tunnels"},
+    image: "/poi-images/cu-chi-tunnels-history-v2.webp",
     description: {
       de: "Ein riesiges Netzwerk von unterirdischen Tunneln, die während des Vietnamkriegs vom Vietcong genutzt wurden.",
       hu: "Hatalmas földalatti alagútrendszer, amelyet a Vietkong használt a vietnámi háború alatt.",
@@ -48,9 +47,8 @@ image: "/poi-images/cu-chi-tunnels-history-v2.webp"
       de: "Kaiserliche Zitadelle von Huế",
       hu: "Huế császári citadellája",
       ro: "Cetatea Imperială din Huế",
-      en: "Imperial Citadel of Huế",
-image: "/poi-images/imperial-citadel-hue-history-v2.webp"
-},
+      en: "Imperial Citadel of Huế"},
+    image: "/poi-images/imperial-citadel-hue-history-v2.webp",
     description: {
       de: "Eine befestigte Anlage innerhalb der Stadt Huế, der ehemaligen Kaiserhauptstadt Vietnams.",
       hu: "Erődített komplexum Huế városában, Vietnám egykori császári fővárosában.",
@@ -85,9 +83,8 @@ image: "/poi-images/imperial-citadel-hue-history-v2.webp"
       de: "Heiligtum von Mỹ Sơn",
       hu: "Mỹ Sơn szentély",
       ro: "Sanctuarul Mỹ Sơn",
-      en: "Mỹ Sơn Sanctuary",
-image: "/poi-images/my-son-sanctuary-history-v2.webp"
-},
+      en: "Mỹ Sơn Sanctuary"},
+    image: "/poi-images/my-son-sanctuary-history-v2.webp",
     description: {
       de: "Eine Ansammlung von verlassenen und teilweise zerstörten Hindu-Tempeln, die zwischen dem 4. und 14. Jahrhundert erbaut wurden.",
       hu: "Elhagyatott és részben lerombolt hindu templomok együttese, amelyeket a 4. és 14. század között építettek.",
@@ -122,9 +119,8 @@ image: "/poi-images/my-son-sanctuary-history-v2.webp"
       de: "Alte Hauptstadt Hoa Lư",
       hu: "Hoa Lư ősi főváros",
       ro: "Vechea Capitală Hoa Lư",
-      en: "Hoa Lư Ancient Capital",
-image: "/poi-images/hoa-lu-ancient-capital-history-v2.webp"
-},
+      en: "Hoa Lư Ancient Capital"},
+    image: "/poi-images/hoa-lu-ancient-capital-history-v2.webp",
     description: {
       de: "Die Hauptstadt Vietnams im 10. und 11. Jahrhundert, heute eine Stätte mit alten Tempeln und Pagoden.",
       hu: "Vietnám fővárosa a 10. és 11. században, ma ősi templomok és pagodák helyszíne.",
@@ -159,9 +155,8 @@ image: "/poi-images/hoa-lu-ancient-capital-history-v2.webp"
       de: "Kampfbasis Khe Sanh",
       hu: "Khe Sanh harci bázis",
       ro: "Baza de luptă Khe Sanh",
-      en: "Khe Sanh Combat Base",
-image: "/poi-images/khe-sanh-combat-base-history-v2.webp"
-},
+      en: "Khe Sanh Combat Base"},
+    image: "/poi-images/khe-sanh-combat-base-history-v2.webp",
     description: {
       de: "Der Schauplatz einer langen und blutigen Belagerung während des Vietnamkriegs, bei der US-Marines und südvietnamesische Truppen gegen die Nordvietnamesische Armee kämpften.",
       hu: "Egy hosszú és véres ostrom helyszíne a vietnámi háború alatt, ahol az amerikai tengerészgyalogosok és a dél-vietnámi csapatok harcoltak az észak-vietnámi hadsereg ellen.",
@@ -196,9 +191,8 @@ image: "/poi-images/khe-sanh-combat-base-history-v2.webp"
       de: "Tunnel von Vịnh Mốc",
       hu: "Vịnh Mốc alagutak",
       ro: "Tunelurile de la Vịnh Mốc",
-      en: "Vịnh Mốc Tunnels",
-image: "/poi-images/vinh-moc-tunnels-history-v2.webp"
-},
+      en: "Vịnh Mốc Tunnels"},
+    image: "/poi-images/vinh-moc-tunnels-history-v2.webp",
     description: {
       de: "Ein Tunnelkomplex, der gebaut wurde, um ein ganzes Dorf während der Bombardierungen im Vietnamkrieg zu schützen.",
       hu: "Egy alagútkomplexum, amelyet egy egész falu védelmére építettek a vietnámi háború bombázásai alatt.",
@@ -233,9 +227,8 @@ image: "/poi-images/vinh-moc-tunnels-history-v2.webp"
       de: "Gefängnis von Côn Đảo",
       hu: "Côn Đảo börtön",
       ro: "Închisoarea Côn Đảo",
-      en: "Côn Đảo Prison",
-image: "/poi-images/con-dao-prison-history-v2.webp"
-},
+      en: "Côn Đảo Prison"},
+    image: "/poi-images/con-dao-prison-history-v2.webp",
     description: {
       de: "Ein berüchtigtes Gefängnis, das von den Franzosen und später von den Südvietnamesen und Amerikanern zur Inhaftierung politischer Gefangener genutzt wurde.",
       hu: "Hírhedt börtön, amelyet a franciák, majd később a dél-vietnámiak és az amerikaiak használtak politikai foglyok bebörtönzésére.",
@@ -270,9 +263,8 @@ image: "/poi-images/con-dao-prison-history-v2.webp"
       de: "Po Nagar Cham Türme",
       hu: "Po Nagar Cham tornyok",
       ro: "Turnurile Po Nagar Cham",
-      en: "Po Nagar Cham Towers",
-image: "/poi-images/po-nagar-cham-towers-history-v2.webp"
-},
+      en: "Po Nagar Cham Towers"},
+    image: "/poi-images/po-nagar-cham-towers-history-v2.webp",
     description: {
       de: "Ein alter Tempelkomplex, der vom Volk der Champa erbaut wurde und der Göttin Yan Po Nagar gewidmet ist.",
       hu: "Ősi templomkomplexum, amelyet a Champa nép épített és Yan Po Nagar istennőnek szentelt.",
@@ -307,9 +299,8 @@ image: "/poi-images/po-nagar-cham-towers-history-v2.webp"
       de: "Kreuz von Long Tan",
       hu: "Long Tan-i kereszt",
       ro: "Crucea de la Long Tan",
-      en: "Long Tan Cross",
-image: "/poi-images/long-tan-cross-history-v2.webp"
-},
+      en: "Long Tan Cross"},
+    image: "/poi-images/long-tan-cross-history-v2.webp",
     description: {
       de: "Ein Denkmal, das an die Schlacht von Long Tan erinnert, eine der bekanntesten Auseinandersetzungen, an denen australische Truppen im Vietnamkrieg beteiligt waren.",
       hu: "Emlékmű a Long Tan-i csatának, amely az ausztrál csapatok egyik legismertebb összecsapása volt a vietnámi háborúban.",
@@ -344,9 +335,8 @@ image: "/poi-images/long-tan-cross-history-v2.webp"
       de: "Kaiserliche Zitadelle von Thăng Long",
       hu: "Thăng Long császári citadellája",
       ro: "Cetatea Imperială Thăng Long",
-      en: "Imperial Citadel of Thăng Long",
-image: "/poi-images/thang-long-imperial-citadel-history-v2.webp"
-},
+      en: "Imperial Citadel of Thăng Long"},
+    image: "/poi-images/thang-long-imperial-citadel-history-v2.webp",
     description: {
       de: "Das politische Zentrum Vietnams über 13 aufeinanderfolgende Jahrhunderte und ein UNESCO-Weltkulturerbe.",
       hu: "Vietnám politikai központja 13 egymást követő évszázadon keresztül, az UNESCO Világörökség része.",
@@ -381,9 +371,8 @@ image: "/poi-images/thang-long-imperial-citadel-history-v2.webp"
       de: "Pác Bó Höhle",
       hu: "Pác Bó-barlang",
       ro: "Peștera Pác Bó",
-      en: "Pác Bó Cave",
-image: "/poi-images/pac-bo-cave-history-v2.webp"
-},
+      en: "Pác Bó Cave"},
+    image: "/poi-images/pac-bo-cave-history-v2.webp",
     description: {
       de: "Ein wichtiger historischer Ort, an dem Ho Chi Minh 1941 nach 30 Jahren im Exil nach Vietnam zurückkehrte.",
       hu: "Fontos történelmi hely, ahol Ho Si Minh 1941-ben, 30 év száműzetés után visszatért Vietnámba.",
@@ -417,9 +406,8 @@ image: "/poi-images/pac-bo-cave-history-v2.webp"
       de: "Schlachtfeld von Ap Bac",
       hu: "Ap Bac-i csatatér",
       ro: "Câmpul de luptă de la Ap Bac",
-      en: "Ap Bac Battlefield",
-image: "/poi-images/ap-bac-battlefield-history-v2.webp"
-},
+      en: "Ap Bac Battlefield"},
+    image: "/poi-images/ap-bac-battlefield-history-v2.webp",
     description: {
       de: "Schauplatz einer der ersten großen Schlachten des Vietnamkriegs im Jahr 1963, bei der der Vietcong einen großen Sieg errang.",
       hu: "A vietnámi háború egyik első nagy csatájának helyszíne 1963-ban, ahol a Vietkong nagy győzelmet aratott.",
@@ -453,9 +441,8 @@ image: "/poi-images/ap-bac-battlefield-history-v2.webp"
       de: "Zitadelle der Ho-Dynastie",
       hu: "A Ho-dinasztia fellegvára",
       ro: "Cetatea dinastiei Ho",
-      en: "Citadel of the Ho Dynasty",
-image: "/poi-images/citadel-of-the-ho-dynasty-history-v2.webp"
-},
+      en: "Citadel of the Ho Dynasty"},
+    image: "/poi-images/citadel-of-the-ho-dynasty-history-v2.webp",
     description: {
       de: "Eine Zitadelle aus dem 14. Jahrhundert, die nach den Prinzipien des Feng Shui erbaut wurde und für ihre massiven Steinmauern bekannt ist.",
       hu: "Egy 14. századi fellegvár, amelyet a feng shui elvei szerint építettek, és masszív kőfalairól ismert.",
@@ -489,9 +476,8 @@ image: "/poi-images/citadel-of-the-ho-dynasty-history-v2.webp"
       de: "Hamburger Hill",
       hu: "Hamburger-domb",
       ro: "Hamburger Hill",
-      en: "Hamburger Hill",
-image: "/poi-images/hamburger-hill-history-v2.webp"
-},
+      en: "Hamburger Hill"},
+    image: "/poi-images/hamburger-hill-history-v2.webp",
     description: {
       de: "Der Schauplatz einer brutalen zehntägigen Schlacht im Jahr 1969, bekannt für ihre hohen Verluste und die Kontroverse, die sie in den USA auslöste.",
       hu: "Egy brutális tíznapos csata helyszíne 1969-ben, amely magas veszteségeiről és az Egyesült Államokban kiváltott vitákról ismert.",
@@ -525,9 +511,8 @@ image: "/poi-images/hamburger-hill-history-v2.webp"
       de: "Trường Sơn Friedhof",
       hu: "Trường Sơn temető",
       ro: "Cimitirul Trường Sơn",
-      en: "Trường Sơn Cemetery",
-image: "/poi-images/truong-son-cemetery-history-v2.webp"
-},
+      en: "Trường Sơn Cemetery"},
+    image: "/poi-images/truong-son-cemetery-history-v2.webp",
     description: {
       de: "Ein nationaler Friedhof, der den Soldaten der Nordvietnamesischen Armee gewidmet ist, die auf dem Ho-Chi-Minh-Pfad starben.",
       hu: "Nemzeti temető, amelyet a Ho Si Minh-ösvényen elhunyt észak-vietnámi hadsereg katonáinak szenteltek.",
@@ -561,9 +546,8 @@ image: "/poi-images/truong-son-cemetery-history-v2.webp"
       de: "Gedenkstätte für das Massaker von Mỹ Lai",
       hu: "Mỹ Lai-i mészárlás emlékműve",
       ro: "Memorialul masacrului de la Mỹ Lai",
-      en: "Mỹ Lai Massacre Memorial",
-image: "/poi-images/my-lai-massacre-memorial-history-v2.webp"
-},
+      en: "Mỹ Lai Massacre Memorial"},
+    image: "/poi-images/my-lai-massacre-memorial-history-v2.webp",
     description: {
       de: "Eine Gedenkstätte, die an das Massaker unbewaffneter südvietnamesischer Zivilisten durch US-Truppen im Jahr 1968 erinnert.",
       hu: "Emlékmű, amely az amerikai csapatok által 1968-ban elkövetett fegyvertelen dél-vietnámi civilek lemészárlásának állít emléket.",
@@ -597,9 +581,8 @@ image: "/poi-images/my-lai-massacre-memorial-history-v2.webp"
       de: "Pre Rup Tempel",
       hu: "Pre Rup templom",
       ro: "Templul Pre Rup",
-      en: "Pre Rup Temple",
-image: "/poi-images/pre-rup-temple-history-v2.webp"
-},
+      en: "Pre Rup Temple"},
+    image: "/poi-images/pre-rup-temple-history-v2.webp",
     description: {
       de: "Ein Hindu-Tempel in Angkor, Kambodscha, der dem Gott Shiva gewidmet ist. Obwohl er nicht in Vietnam liegt, ist er ein wichtiges Beispiel für die historische Architektur der Khmer in der Region.",
       hu: "Hindu templom Angkorban, Kambodzsában, amelyet Siva istennek szenteltek. Bár nem Vietnámban található, fontos példája a khmer történelmi építészetnek a régióban.",
@@ -633,9 +616,8 @@ image: "/poi-images/pre-rup-temple-history-v2.webp"
       de: "Schlacht in der Bucht von Lăng Cô",
       hu: "Lăng Cô-öbölbeli csata",
       ro: "Bătălia din golful Lăng Cô",
-      en: "Battle of Lăng Cô Bay",
-image: "/poi-images/lang-co-bay-battle-history-v2.webp"
-},
+      en: "Battle of Lăng Cô Bay"},
+    image: "/poi-images/lang-co-bay-battle-history-v2.webp",
     description: {
       de: "Ein Schauplatz von Marine- und Küstenkonflikten während der Indochinakriege, strategisch gelegen am Hai-Van-Pass.",
       hu: "Tengeri és part menti konfliktusok helyszíne az indokínai háborúk alatt, stratégiailag a Hai Van-hágónál található.",
@@ -670,9 +652,8 @@ image: "/poi-images/lang-co-bay-battle-history-v2.webp"
       de: "Grabmal von Khải Định",
       hu: "Khải Định sírja",
       ro: "Mormântul lui Khải Định",
-      en: "Tomb of Khải Định",
-image: "/poi-images/tomb-of-khai-dinh-history-v2.webp"
-},
+      en: "Tomb of Khải Định"},
+    image: "/poi-images/tomb-of-khai-dinh-history-v2.webp",
     description: {
       de: "Ein aufwendiges Grabmal, das für den vorletzten Kaiser der Nguyễn-Dynastie erbaut wurde und eine Mischung aus vietnamesischer und europäischer Architektur aufweist.",
       hu: "Pompás síremlék, amelyet a Nguyễn-dinasztia utolsó előtti császárának építettek, vietnámi és európai építészeti stílusok keverékével.",
@@ -706,9 +687,8 @@ image: "/poi-images/tomb-of-khai-dinh-history-v2.webp"
       de: "Kriegsopfermuseum",
       hu: "Háborús Emlékek Múzeuma",
       ro: "Muzeul Vestigiilor Războiului",
-      en: "War Remnants Museum",
-image: "/poi-images/war-remnants-museum-history-v2.webp"
-},
+      en: "War Remnants Museum"},
+    image: "/poi-images/war-remnants-museum-history-v2.webp",
     description: {
       de: "Ein Museum in Ho-Chi-Minh-Stadt, das Exponate zum Ersten Indochinakrieg und zum Vietnamkrieg ausstellt.",
       hu: "Múzeum Ho Si Minh-városban, amely az első indokínai háborúval és a vietnámi háborúval kapcsolatos kiállításokat mutat be.",

@@ -196,9 +196,8 @@ image: "/poi-images/kaa-iya-nationalpark-life-v2.webp"
       de: "Otuquis-Nationalpark",
       hu: "Otuquis Nemzeti Park",
       ro: "Parcul Național Otuquis",
-      en: "Otuquis National Park",
-image: "/poi-images/otuquis-pantanal-life-v2.webp"
-},
+      en: "Otuquis National Park"},
+    image: "/poi-images/otuquis-pantanal-life-v2.webp",
     description: {
       de: "Teil des bolivianischen Pantanals, bietet dieses ausgedehnte Feuchtgebiet Lebensraum für Wasserschweine, Kaimane und eine enorme Vielfalt an Sumpfvögeln.",
       hu: "A bolíviai Pantanal része, ez a hatalmas vizenyős terület kapibarák, kajmánok és a mocsári madarak hatalmas változatosságának ad otthont.",
@@ -252,9 +251,8 @@ image: "/poi-images/otuquis-pantanal-life-v2.webp"
       de: "Biosphärenreservat Pilón Lajas",
       hu: "Pilón Lajas Bioszféra-rezervátum",
       ro: "Rezervația Biosferei Pilón Lajas",
-      en: "Pilón Lajas Biosphere Reserve",
-image: "/poi-images/pilon-lajas-reservat-life-v2.webp"
-},
+      en: "Pilón Lajas Biosphere Reserve"},
+    image: "/poi-images/pilon-lajas-reservat-life-v2.webp",
     description: {
       de: "Eine Übergangszone zwischen den Anden und dem Amazonas, die in ihren dichten Nebelwäldern Brillenbären und Klammeraffen schützt.",
       hu: "Az Andok és az Amazonas közötti átmeneti övezet, amely sűrű köderdeiben pápaszemes medvéket és pókmajomféléket véd.",
@@ -308,9 +306,8 @@ image: "/poi-images/pilon-lajas-reservat-life-v2.webp"
       de: "Manuripi-Heath-Reservat",
       hu: "Manuripi-Heath Rezervátum",
       ro: "Rezervația Manuripi-Heath",
-      en: "Manuripi-Heath Reserve",
-image: "/poi-images/manuripi-heath-reservat-life-v2.webp"
-},
+      en: "Manuripi-Heath Reserve"},
+    image: "/poi-images/manuripi-heath-reservat-life-v2.webp",
     description: {
       de: "Ein abgelegenes Amazonas-Schutzgebiet, das unberührte Regenwälder, Flussdelfine, Riesenotter und Harpyien schützt.",
       hu: "Egy elszigetelt amazóniai rezervátum, amely érintetlen esőerdőket, folyami delfineket, óriásvidrákat és hárpiákat véd.",
@@ -364,9 +361,8 @@ image: "/poi-images/manuripi-heath-reservat-life-v2.webp"
       de: "San Miguelito Jaguar-Ranch",
       hu: "San Miguelito Jaguár Farm",
       ro: "Ferma de Jaguari San Miguelito",
-      en: "San Miguelito Jaguar Ranch",
-image: "/poi-images/san-miguelito-jaguar-ranch-life-v2.webp"
-},
+      en: "San Miguelito Jaguar Ranch"},
+    image: "/poi-images/san-miguelito-jaguar-ranch-life-v2.webp",
     description: {
       de: "Eine funktionierende Rinderfarm, die Pionierarbeit im Naturschutz leistet, indem sie Großkatzen schützt und Ökotourismus-Safaris anbietet.",
       hu: "Egy működő szarvasmarha-farm, amely úttörő szerepet játszik a természetvédelemben azáltal, hogy védi a nagymacskákat és ökoturisztikai szafarikat kínál.",
@@ -420,9 +416,8 @@ image: "/poi-images/san-miguelito-jaguar-ranch-life-v2.webp"
       de: "La Senda Verde",
       hu: "La Senda Verde",
       ro: "La Senda Verde",
-      en: "La Senda Verde",
-image: "/poi-images/la-senda-verde-life-v2.webp"
-},
+      en: "La Senda Verde"},
+    image: "/poi-images/la-senda-verde-life-v2.webp",
     description: {
       de: "Ein wichtiges Wildtierreservat, das gehandelte Tiere wie Affen, Bären und exotische Vögel rettet und rehabilitiert.",
       hu: "Egy fontos vadvédelmi terület, amely megmenti és rehabilitálja az illegálisan forgalmazott állatokat, például majmokat, medvéket és egzotikus madarakat.",
@@ -476,9 +471,8 @@ image: "/poi-images/la-senda-verde-life-v2.webp"
       de: "Zoo Vesty Pakos",
       hu: "Vesty Pakos Állatkert",
       ro: "Grădina Zoologică Vesty Pakos",
-      en: "Vesty Pakos Zoo",
-image: "/poi-images/zoo-vesty-pakos-life-v2.webp"
-},
+      en: "Vesty Pakos Zoo"},
+    image: "/poi-images/zoo-vesty-pakos-life-v2.webp",
     description: {
       de: "Der höchstgelegene Zoo der Welt in La Paz, der sich auf die Rettung und Rehabilitation einheimischer andiner Wildtiere konzentriert.",
       hu: "A világ legmagasabban fekvő állatkertje La Pazban, amely a helyi andoki vadon élő állatok megmentésére és rehabilitációjára összpontosít.",
@@ -532,9 +526,8 @@ image: "/poi-images/zoo-vesty-pakos-life-v2.webp"
       de: "Vogelpark Agroflori",
       hu: "Agroflori Madárpark",
       ro: "Parcul de Păsări Agroflori",
-      en: "Agroflori Bird Park",
-image: "/poi-images/agroflori-vogelpark-life-v2.webp"
-},
+      en: "Agroflori Bird Park"},
+    image: "/poi-images/agroflori-vogelpark-life-v2.webp",
     description: {
       de: "Ein Rettungszentrum bei Cochabamba, das Hunderte von Vögeln, insbesondere Aras und Papageien, beherbergt und ein Bildungserlebnis bietet.",
       hu: "Egy Cochabamba melletti mentőközpont, amely több száz madárnek, különösen arapapagájoknak és papagájoknak ad otthont, oktatási élményt nyújtva.",
@@ -588,9 +581,8 @@ image: "/poi-images/agroflori-vogelpark-life-v2.webp"
       de: "Biologische Station Beni",
       hu: "Beni Biológiai Állomás",
       ro: "Stațiunea Biologică Beni",
-      en: "Beni Biological Station",
-image: "/poi-images/beni-biostation-life-v2.webp"
-},
+      en: "Beni Biological Station"},
+    image: "/poi-images/beni-biostation-life-v2.webp",
     description: {
       de: "Ein UNESCO-Biosphärenreservat mit tropischen Savannen, das Heimat seltener Flussdelfine und vielfältiger Wasservögel ist.",
       hu: "Egy UNESCO bioszféra-rezervátum trópusi szavannákkal, amely ritka folyami delfinek és változatos vízimadarak otthona.",
@@ -644,9 +636,8 @@ image: "/poi-images/beni-biostation-life-v2.webp"
       de: "Carrasco-Nationalpark",
       hu: "Carrasco Nemzeti Park",
       ro: "Parcul Național Carrasco",
-      en: "Carrasco National Park",
-image: "/poi-images/carrasco-nationalpark-life-v2.webp"
-},
+      en: "Carrasco National Park"},
+    image: "/poi-images/carrasco-nationalpark-life-v2.webp",
     description: {
       de: "Bekannt für seine tiefen Schluchten und feuchten Nebelwälder, die Arten wie den Andenfelsenhahn und den Brillenbären schützen.",
       hu: "Mély szurdokairól és nedves köderdeiről ismert, amelyek olyan fajokat védenek, mint az andoki sziklakakas és a pápaszemes medve.",
@@ -700,9 +691,8 @@ image: "/poi-images/carrasco-nationalpark-life-v2.webp"
       de: "Tariquía-Naturreservat",
       hu: "Tariquía Természetvédelmi Terület",
       ro: "Rezervația Naturală Tariquía",
-      en: "Tariquía Nature Reserve",
-image: "/poi-images/tariquia-reservat-life-v2.webp"
-},
+      en: "Tariquía Nature Reserve"},
+    image: "/poi-images/tariquia-reservat-life-v2.webp",
     description: {
       de: "Schützt ein einzigartiges Ökosystem des Tucumano-Bolivianischen Waldes, das Lebensraum für Jaguare, Tapire und viele endemische Vögel bietet.",
       hu: "A Tucumano-Bolíviai erdő egyedülálló ökoszisztémáját védi, amely jaguárok, tapírok és számos endemikus madár élőhelyét biztosítja.",
@@ -756,9 +746,8 @@ image: "/poi-images/tariquia-reservat-life-v2.webp"
       de: "Kaffeeregion der Yungas",
       hu: "Yungas Kávérégió",
       ro: "Regiunea de Cafea Yungas",
-      en: "Yungas Coffee Region",
-image: "/poi-images/yungas-kaffeeregion-life-v2.webp"
-},
+      en: "Yungas Coffee Region"},
+    image: "/poi-images/yungas-kaffeeregion-life-v2.webp",
     description: {
       de: "Die steilen, wolkenverhangenen Hänge der Yungas sind ideal für den Anbau von hochwertigem, im Schatten wachsendem Arabica-Kaffee.",
       hu: "A Yungas meredek, felhők borította lejtői ideálisak a kiváló minőségű, árnyékban termesztett Arabica kávé termesztésére.",
@@ -812,9 +801,8 @@ image: "/poi-images/yungas-kaffeeregion-life-v2.webp"
       de: "Weinbauregion Valle de la Concepción",
       hu: "Valle de la Concepción Borvidék",
       ro: "Regiunea Viticolă Valle de la Concepción",
-      en: "Valle de la Concepción Wine Region",
-image: "/poi-images/valle-de-la-concepcion-wein-life-v2.webp"
-},
+      en: "Valle de la Concepción Wine Region"},
+    image: "/poi-images/valle-de-la-concepcion-wein-life-v2.webp",
     description: {
       de: "Berühmt für seine hochgelegenen Weinberge, produziert dieses sonnige Tal einige der besten Weine Boliviens und den traditionellen Singani.",
       hu: "Magasan fekvő szőlőskertjeiről híres, ez a napsütötte völgy termeli Bolívia legjobb borait és a hagyományos singanit.",
@@ -868,9 +856,8 @@ image: "/poi-images/valle-de-la-concepcion-wein-life-v2.webp"
       de: "Quinoa-Felder von Lípez",
       hu: "Lípez Kinoa Földjei",
       ro: "Câmpurile de Quinoa din Lípez",
-      en: "Lípez Quinoa Fields",
-image: "/poi-images/lipez-quinoa-felder-life-v2.webp"
-},
+      en: "Lípez Quinoa Fields"},
+    image: "/poi-images/lipez-quinoa-felder-life-v2.webp",
     description: {
       de: "Auf der rauen Hochebene im Südwesten Boliviens bauen indigene Bauern die königliche Quinoa an, ein einzigartiges Pseudogetreide.",
       hu: "Délnyugat-Bolívia zord fennsíkján az őslakos gazdák királyi kinoát, egy egyedülálló álgabonát termesztenek.",
@@ -924,9 +911,8 @@ image: "/poi-images/lipez-quinoa-felder-life-v2.webp"
       de: "Sojafelder von Santa Cruz",
       hu: "Santa Cruz-i Szójaföldek",
       ro: "Câmpurile de Soia din Santa Cruz",
-      en: "Santa Cruz Soy Fields",
-image: "/poi-images/santa-cruz-sojafelder-life-v2.webp"
-},
+      en: "Santa Cruz Soy Fields"},
+    image: "/poi-images/santa-cruz-sojafelder-life-v2.webp",
     description: {
       de: "Das fruchtbare Tiefland um Santa Cruz ist das landwirtschaftliche Kraftzentrum Boliviens, dominiert von riesigen mechanisierten Sojafeldern.",
       hu: "Santa Cruz körüli termékeny alföld Bolívia mezőgazdasági központja, amelyet a hatalmas gépesített szójaföldek uralnak.",
@@ -981,9 +967,8 @@ image: "/poi-images/santa-cruz-sojafelder-life-v2.webp"
       de: "Kakaoplantagen von Alto Beni",
       hu: "Alto Beni Kakaóültetvények",
       ro: "Plantațiile de Cacao din Alto Beni",
-      en: "Alto Beni Cacao Plantations",
-image: "/poi-images/alto-beni-kakao-life-v2.webp"
-},
+      en: "Alto Beni Cacao Plantations"},
+    image: "/poi-images/alto-beni-kakao-life-v2.webp",
     description: {
       de: "Tief im Amazonasbecken bauen Kleinbauernkooperativen hochwertigen Bio-Kakao an und unterstützen so die nachhaltige Agroforstwirtschaft.",
       hu: "Mélyen az Amazonas-medencében kisgazda szövetkezetek prémium minőségű bio kakaót termesztenek, támogatva a fenntartható agrár-erdészetet.",
@@ -1037,9 +1022,8 @@ image: "/poi-images/alto-beni-kakao-life-v2.webp"
       de: "Bananenplantagen des Chapare",
       hu: "Chapare Banánültetvényei",
       ro: "Plantațiile de Banane din Chapare",
-      en: "Chapare Banana Plantations",
-image: "/poi-images/chapare-bananen-life-v2.webp"
-},
+      en: "Chapare Banana Plantations"},
+    image: "/poi-images/chapare-bananen-life-v2.webp",
     description: {
       de: "Die tropische Hitze und der hohe Niederschlag der Chapare-Region machen sie zu einem idealen Gebiet für den kommerziellen Bananenanbau.",
       hu: "A Chapare régió trópusi hősége és bőséges csapadéka ideális területté teszi a kereskedelmi banántermesztés számára.",
@@ -1093,9 +1077,8 @@ image: "/poi-images/chapare-bananen-life-v2.webp"
       de: "Zuckerrohrfelder von Santa Cruz",
       hu: "Santa Cruz-i Cukornádföldek",
       ro: "Câmpurile de Trestie de Zahăr din Santa Cruz",
-      en: "Santa Cruz Sugarcane Fields",
-image: "/poi-images/zuckerrohr-santa-cruz-life-v2.webp"
-},
+      en: "Santa Cruz Sugarcane Fields"},
+    image: "/poi-images/zuckerrohr-santa-cruz-life-v2.webp",
     description: {
       de: "Weitläufige Ländereien im östlichen Tiefland bauen Zuckerrohr an, eine wichtige Pflanze, die die regionale Agrarindustrie antreibt.",
       hu: "Kiterjedt birtokokon a keleti alföldön cukornádat termesztenek, amely kulcsfontosságú növény a regionális agráripar számára.",
@@ -1149,9 +1132,8 @@ image: "/poi-images/zuckerrohr-santa-cruz-life-v2.webp"
       de: "Paranuss-Erntegebiet Pando",
       hu: "Pando Brazilidió-régió",
       ro: "Zona de Recoltare a Nucilor de Brazilia Pando",
-      en: "Pando Brazil Nut Region",
-image: "/poi-images/pando-paranuss-life-v2.webp"
-},
+      en: "Pando Brazil Nut Region"},
+    image: "/poi-images/pando-paranuss-life-v2.webp",
     description: {
       de: "Die dichten Amazonaswälder in Pando sind die weltweit führende Quelle für wild geerntete Paranüsse, wichtig für die indigene Wirtschaft.",
       hu: "A Pando megyei sűrű amazóniai erdők a világ vezető forrásai a vadon gyűjtött brazilidiónak, ami létfontosságú az őslakos gazdaság számára.",
@@ -1205,9 +1187,8 @@ image: "/poi-images/pando-paranuss-life-v2.webp"
       de: "Alpakazucht im Altiplano",
       hu: "Altiplano Alpaka Tenyészet",
       ro: "Creșterea Alpaca în Altiplano",
-      en: "Altiplano Alpaca Breeding",
-image: "/poi-images/altiplano-alpakazucht-life-v2.webp"
-},
+      en: "Altiplano Alpaca Breeding"},
+    image: "/poi-images/altiplano-alpakazucht-life-v2.webp",
     description: {
       de: "In extremen Höhenlagen züchten indigene Hirten Alpakas und Lamas und setzen eine alte tradition fort, die Wolle und Fleisch liefert.",
       hu: "Extrém magasságokban az őslakos pásztorok alpakákat és lámákat tenyésztenek, folytatva a gyapjút és húst biztosító ősi hagyományt.",
@@ -1261,9 +1242,8 @@ image: "/poi-images/altiplano-alpakazucht-life-v2.webp"
       de: "Coca-Terrassen der Yungas",
       hu: "Yungas Koka-teraszok",
       ro: "Terasele de Coca din Yungas",
-      en: "Yungas Coca Terraces",
-image: "/poi-images/yungas-coca-life-v2.webp"
-},
+      en: "Yungas Coca Terraces"},
+    image: "/poi-images/yungas-coca-life-v2.webp",
     description: {
       de: "Steile, akribisch gepflegte Terrassen in den Yungas bauen Kokablätter an, eine heilige und kulturell wichtige Pflanze der Andenvölker.",
       hu: "A Yungas meredek, gondosan karbantartott teraszain kokaleveleket termesztenek, amely az andoki népek számára szent és kulturálisan fontos növény.",
@@ -1317,9 +1297,8 @@ image: "/poi-images/yungas-coca-life-v2.webp"
       de: "Parque Machía",
       hu: "Machía Park",
       ro: "Parcul Machía",
-      en: "Machía Park",
-image: "/poi-images/parque-machia-life-v2.webp"
-},
+      en: "Machía Park"},
+    image: "/poi-images/parque-machia-life-v2.webp",
     description: {
       de: "Dieses von der Gemeinde Inti Wara Yassi geführte Dschungelreservat rehabilitiert misshandelte Affen und lässt sie frei im Wald streifen.",
       hu: "Az Inti Wara Yassi közösség által fenntartott dzsungelrezervátum bántalmazott majmokat rehabilitál, és hagyja őket szabadon kóborolni az erdőben.",
@@ -1373,9 +1352,8 @@ image: "/poi-images/parque-machia-life-v2.webp"
       de: "Zoo Noel Kempff Mercado",
       hu: "Noel Kempff Mercado Állatkert",
       ro: "Grădina Zoologică Noel Kempff Mercado",
-      en: "Noel Kempff Mercado Zoo",
-image: "/poi-images/zoo-noel-kempff-life-v2.webp"
-},
+      en: "Noel Kempff Mercado Zoo"},
+    image: "/poi-images/zoo-noel-kempff-life-v2.webp",
     description: {
       de: "Ein weitläufiger Stadtzoo in Santa Cruz, der sich fast ausschließlich auf die einheimische südamerikanische Fauna konzentriert.",
       hu: "Egy kiterjedt városi állatkert Santa Cruzban, amely szinte kizárólag a helyi dél-amerikai faunára összpontosít.",
@@ -1429,9 +1407,8 @@ image: "/poi-images/zoo-noel-kempff-life-v2.webp"
       de: "Tucabaca-Tal-Reservat",
       hu: "Tucabaca-völgy Rezervátum",
       ro: "Rezervația Văii Tucabaca",
-      en: "Tucabaca Valley Reserve",
-image: "/poi-images/tucabaca-reservat-life-v2.webp"
-},
+      en: "Tucabaca Valley Reserve"},
+    image: "/poi-images/tucabaca-reservat-life-v2.webp",
     description: {
       de: "Schützt einen der am besten erhaltenen trockenen Chiquitano-Wälder der Welt, bekannt für seine endemische Tierwelt.",
       hu: "A világ egyik legjobb állapotban fennmaradt száraz Chiquitano erdejét védi, amely az endemikus vadvilágáról ismert.",
@@ -1485,9 +1462,8 @@ image: "/poi-images/tucabaca-reservat-life-v2.webp"
       de: "Tal der Seelen",
       hu: "Lelkek Völgye",
       ro: "Valea Sufletelor",
-      en: "Valley of the Souls",
-image: "/poi-images/tal-der-seelen-life-v2.webp"
-},
+      en: "Valley of the Souls"},
+    image: "/poi-images/tal-der-seelen-life-v2.webp",
     description: {
       de: "Eine faszinierende geologische Stätte nahe La Paz mit hoch aufragenden, nadelartigen Felsformationen, die junge Entdecker anziehen.",
       hu: "Egy lenyűgöző geológiai helyszín La Paz közelében, amelynek tornyosuló, tűszerű sziklaképződményei vonzzák a fiatal felfedezőket.",
@@ -1541,9 +1517,8 @@ image: "/poi-images/tal-der-seelen-life-v2.webp"
       de: "Bolivianisches Pantanal",
       hu: "Bolíviai Pantanal",
       ro: "Pantanalul Bolivian",
-      en: "Bolivian Pantanal",
-image: "/poi-images/bolivianisches-pantanal-life-v2.webp"
-},
+      en: "Bolivian Pantanal"},
+    image: "/poi-images/bolivianisches-pantanal-life-v2.webp",
     description: {
       de: "Einer der unberührtesten Abschnitte des größten Feuchtgebiets der Welt, das riesige Populationen von Wasservögeln, Anakondas und Ottern unterstützt.",
       hu: "A világ legnagyobb vizes élőhelyének egyik legérintetlenebb része, amely vízimadarak, anakondák és vidrák hatalmas populációit tartja fenn.",

@@ -5,9 +5,8 @@ export const ukraineCitiesV2: POI[] = [
     id: "ukraine-kyiv-cities-v2",
     parent: "UA",
     type: "capital",
-    name: { de: "Kiew", hu: "Kijev", ro: "Kiev", en: "Kyiv",
-image: "/poi-images/ukraine-kyiv-cities-v2.webp"
-},
+    name: { de: "Kiew", hu: "Kijev", ro: "Kiev", en: "Kyiv"},
+    image: "/poi-images/ukraine-kyiv-cities-v2.webp",
     coords: [30.5234, 50.4501],
     coordinates: { lat: 50.4501, lng: 30.5234 },
     description: {
@@ -40,9 +39,8 @@ imageHint: "Aerial view of Kyiv city center and Dnieper river",
     id: "ukraine-kharkiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Charkiw", hu: "Harkiv", ro: "Harkov", en: "Kharkiv",
-image: "/poi-images/ukraine-kharkiv-cities-v2.webp"
-},
+    name: { de: "Charkiw", hu: "Harkiv", ro: "Harkov", en: "Kharkiv"},
+    image: "/poi-images/ukraine-kharkiv-cities-v2.webp",
     coords: [36.2304, 49.9935],
     coordinates: { lat: 49.9935, lng: 36.2304 },
     description: {
@@ -75,9 +73,8 @@ imageHint: "Freedom Square and Derzhprom building in Kharkiv",
     id: "ukraine-odesa-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Odessa", hu: "Odessza", ro: "Odesa", en: "Odesa",
-image: "/poi-images/ukraine-odesa-cities-v2.webp"
-},
+    name: { de: "Odessa", hu: "Odessza", ro: "Odesa", en: "Odesa"},
+    image: "/poi-images/ukraine-odesa-cities-v2.webp",
     coords: [30.7233, 46.4825],
     coordinates: { lat: 46.4825, lng: 30.7233 },
     description: {
@@ -110,9 +107,8 @@ imageHint: "Odesa Opera House and city streets",
     id: "ukraine-dnipro-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Dnipro", hu: "Dnipro", ro: "Dnipro", en: "Dnipro",
-image: "/poi-images/ukraine-dnipro-cities-v2.webp"
-},
+    name: { de: "Dnipro", hu: "Dnipro", ro: "Dnipro", en: "Dnipro"},
+    image: "/poi-images/ukraine-dnipro-cities-v2.webp",
     coords: [35.0462, 48.4647],
     coordinates: { lat: 48.4647, lng: 35.0462 },
     description: {
@@ -145,9 +141,8 @@ imageHint: "Dnipro skyline and the Dnieper river",
     id: "ukraine-donetsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Donezk", hu: "Doneck", ro: "Donețk", en: "Donetsk",
-image: "/poi-images/ukraine-donetsk-cities-v2.webp"
-},
+    name: { de: "Donezk", hu: "Doneck", ro: "Donețk", en: "Donetsk"},
+    image: "/poi-images/ukraine-donetsk-cities-v2.webp",
     coords: [37.8028, 48.0159],
     coordinates: { lat: 48.0159, lng: 37.8028 },
     description: {
@@ -180,9 +175,8 @@ imageHint: "Donetsk city skyline and roses in park",
     id: "ukraine-zaporizhzhia-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Saporischschja", hu: "Zaporizzsja", ro: "Zaporijjea", en: "Zaporizhzhia",
-image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp"
-},
+    name: { de: "Saporischschja", hu: "Zaporizzsja", ro: "Zaporijjea", en: "Zaporizhzhia"},
+    image: "/poi-images/ukraine-zaporizhzhia-cities-v2.webp",
     coords: [35.1396, 47.8388],
     coordinates: { lat: 47.8388, lng: 35.1396 },
     description: {
@@ -215,9 +209,8 @@ imageHint: "Zaporizhzhia hydroelectric dam and Dnieper river",
     id: "ukraine-lviv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Lwiw", hu: "Lviv", ro: "Liov", en: "Lviv",
-image: "/poi-images/ukraine-lviv-cities-v2.webp"
-},
+    name: { de: "Lwiw", hu: "Lviv", ro: "Liov", en: "Lviv"},
+    image: "/poi-images/ukraine-lviv-cities-v2.webp",
     coords: [24.0297, 49.8397],
     coordinates: { lat: 49.8397, lng: 24.0297 },
     description: {
@@ -250,9 +243,8 @@ imageHint: "Lviv Rynok Square and historical architecture",
     id: "ukraine-kryvyi-rih-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Krywyj Rih", hu: "Krivij Rih", ro: "Krîvîi Rih", en: "Kryvyi Rih",
-image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp"
-},
+    name: { de: "Krywyj Rih", hu: "Krivij Rih", ro: "Krîvîi Rih", en: "Kryvyi Rih"},
+    image: "/poi-images/ukraine-kryvyi-rih-cities-v2.webp",
     coords: [33.3918, 47.9105],
     coordinates: { lat: 47.9105, lng: 33.3918 },
     description: {
@@ -285,9 +277,8 @@ imageHint: "Kryvyi Rih iron ore quarry and industrial landscape",
     id: "ukraine-mykolaiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Mykolajiw", hu: "Mikolajiv", ro: "Nikolaev", en: "Mykolaiv",
-image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"
-},
+    name: { de: "Mykolajiw", hu: "Mikolajiv", ro: "Nikolaev", en: "Mykolaiv"},
+    image: "/poi-images/ukraine-mykolaiv-cities-v2.webp",
     coords: [31.9946, 46.975],
     coordinates: { lat: 46.975, lng: 31.9946 },
     description: {
@@ -303,14 +294,26 @@ image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"
       en: ["Home to three major shipyards", "Founded in the year 1789", "Key naval and military base", "Famous for the Mykolaiv Zoo"],
     },
     imageHint: "Mykolaiv city view and shipyard cranes",
-    image: "/poi-images/ukraine-mykolaiv-cities-v2.webp"},
+    image: "/poi-images/ukraine-mykolaiv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mykolajiw ist ein bedeutendes maritimes Zentrum an der Mündung des Südlichen Bug, bekannt für seine jahrhundertealte Tradition im Schiffbau und strategische Lage.",
+      hu: "Mikolajiv a Déli-Bug torkolatánál fekvő jelentős kikötőváros, amely évszázados hajóépítő múltjáról és stratégiai tengeri elhelyezkedéséről híres.",
+      ro: "Mîkolaiv este un centru maritim major situat la gura de vărsare a Bugului de Sud, renumit pentru tradiția sa în construcția de nave și locația strategică.",
+      en: "Mykolaiv is a major maritime hub at the mouth of the Southern Bug, known for its centuries-old shipbuilding tradition and strategic coastal location.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im Jahr 1789", "Liegt am Zusammenfluss von Bug und Inhulet", "Beherbergt drei große Schiffswerften", "Fläche von etwa 260 Quadratkilometern"],
+      hu: ["Alapítási éve 1789", "A Bug és az Inhulet folyók találkozásánál fekszik", "Három nagy hajógyárnak ad otthont", "Területe körülbelül 260 négyzetkilométer"],
+      ro: ["Fondat în anul 1789", "Situat la confluența râurilor Bug și Inhulet", "Găzduiește trei șantiere navale mari", "Suprafață de aproximativ 260 km pătrați"],
+      en: ["Founded in 1789", "Located at the confluence of Bug and Inhulet", "Home to three major shipyards", "Area of approximately 260 square kilometers"],
+    },
+  },
   {
     id: "ukraine-mariupol-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Mariupol", hu: "Mariupol", ro: "Mariupol", en: "Mariupol",
-image: "/poi-images/ukraine-mariupol-cities-v2.webp"
-},
+    name: { de: "Mariupol", hu: "Mariupol", ro: "Mariupol", en: "Mariupol"},
+    image: "/poi-images/ukraine-mariupol-cities-v2.webp",
     coords: [37.5413, 47.0951],
     coordinates: { lat: 47.0951, lng: 37.5413 },
     description: {
@@ -326,14 +329,26 @@ image: "/poi-images/ukraine-mariupol-cities-v2.webp"
       en: ["Founded by Crimean Greeks in 1778", "Crucial port for grain exports", "Formerly named Zhdanov", "Site of the massive Azovstal steelworks"],
     },
     imageHint: "Mariupol port and industrial skyline",
-    image: "/poi-images/ukraine-mariupol-cities-v2.webp"},
+    image: "/poi-images/ukraine-mariupol-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Mariupol liegt am Asowschen Meer und war historisch ein industrielles Kraftzentrum der Ukraine, geprägt durch massive Stahlwerke und einen großen Seehafen.",
+      hu: "Mariupol az Azovi-tenger partján fekvő város, amely történelmileg Ukrajna ipari központja volt, hatalmas acélművekkel és jelentős tengeri kikötővel.",
+      ro: "Mariupol este un oraș la Marea Azov, fiind istoric un centru industrial al Ucrainei, dominat de oțelării masive și un port maritim important.",
+      en: "Mariupol is a city on the Sea of Azov, historically an industrial powerhouse of Ukraine, characterized by massive steelworks and a major seaport.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1778", "Heimat des Azovstal-Stahlwerks", "Größter Hafen am Asowschen Meer", "Etwa 430.000 Einwohner vor 2022"],
+      hu: ["Alapítva 1778-ban", "Az Azovsztal acélmű otthona", "Az Azovi-tenger legnagyobb kikötője", "Körülbelül 430 ezer lakos 2022 előtt"],
+      ro: ["Fondat în anul 1778", "Sediul combinatului siderurgic Azovstal", "Cel mai mare port de la Marea Azov", "Circa 430.000 de locuitori înainte de 2022"],
+      en: ["Founded in 1778", "Home to the Azovstal steelworks", "Largest port on the Sea of Azov", "About 430,000 residents before 2022"],
+    },
+  },
   {
     id: "ukraine-luhansk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Luhansk", hu: "Luhanszk", ro: "Lugansk", en: "Luhansk",
-image: "/poi-images/ukraine-luhansk-cities-v2.webp"
-},
+    name: { de: "Luhansk", hu: "Luhanszk", ro: "Lugansk", en: "Luhansk"},
+    image: "/poi-images/ukraine-luhansk-cities-v2.webp",
     coords: [39.3078, 48.574],
     coordinates: { lat: 48.574, lng: 39.3078 },
     description: {
@@ -349,14 +364,26 @@ image: "/poi-images/ukraine-luhansk-cities-v2.webp"
       en: ["Founded by Charles Gascoigne in 1795", "Major locomotive manufacturing hub", "Formerly named Voroshilovgrad", "Home to a significant university"],
     },
     imageHint: "Luhansk city center and monuments",
-    image: "/poi-images/ukraine-luhansk-cities-v2.webp"},
+    image: "/poi-images/ukraine-luhansk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Luhansk im Osten der Ukraine entwickelte sich um eine Eisengießerei herum zu einem industriellen Zentrum, das für Maschinenbau und Metallurgie bekannt ist.",
+      hu: "Luhanszk Kelet-Ukrajna egyik ipari központja, amely egy vasöntöde köré épült, és gépgyártásáról, valamint kohászatáról vált ismertté.",
+      ro: "Luhansk, în estul Ucrainei, s-a dezvoltat în jurul unei turnătorii de fier, devenind un centru industrial cunoscut pentru inginerie și metalurgie.",
+      en: "Luhansk in eastern Ukraine developed around an iron foundry into an industrial center known for machinery manufacturing and metallurgy.",
+    },
+    factsAdvanced: {
+      de: ["Gründung durch Charles Gascoigne 1795", "Liegt am Fluss Luhan", "Zentrum der Oblast Luhansk", "Wichtiger Eisenbahnknotenpunkt"],
+      hu: ["Charles Gascoigne alapította 1795-ben", "A Luhan-folyó partján fekszik", "A Luhanszki terület központja", "Fontos vasúti csomópont"],
+      ro: ["Fondat de Charles Gascoigne în 1795", "Situat pe râul Luhan", "Centrul regiunii Luhansk", "Nod feroviar important"],
+      en: ["Founded by Charles Gascoigne in 1795", "Located on the Luhan River", "Center of the Luhansk Oblast", "Important railway junction"],
+    },
+  },
   {
     id: "ukraine-vinnytsia-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Winnyzja", hu: "Vinnicja", ro: "Vinița", en: "Vinnytsia",
-image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"
-},
+    name: { de: "Winnyzja", hu: "Vinnicja", ro: "Vinița", en: "Vinnytsia"},
+    image: "/poi-images/ukraine-vinnytsia-cities-v2.webp",
     coords: [28.4682, 49.2331],
     coordinates: { lat: 49.2331, lng: 28.4682 },
     description: {
@@ -372,14 +399,26 @@ image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"
       en: ["Home to Europe's largest floating fountain", "Major confectionery industry hub", "Site of the Pirogov estate and museum", "Founded in the year 1363"],
     },
     imageHint: "Vinnytsia Roshen fountain show at night",
-    image: "/poi-images/ukraine-vinnytsia-cities-v2.webp"},
+    image: "/poi-images/ukraine-vinnytsia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Winnyzja liegt am Ufer des Südlichen Bug und ist für seine medizinische Universität sowie den spektakulären multimedialen Roshen-Brunnen bekannt.",
+      hu: "Vinnicja a Déli-Bug partján fekszik, híres orvosi egyeteméről és Európa legnagyobb úszó multimédiás szökőkútjáról, a Roshen-kútról.",
+      ro: "Vinnița este situată pe malul Bugului de Sud, fiind cunoscută pentru universitatea sa medicală și spectaculoasa fântână multimedia Roshen.",
+      en: "Vinnytsia sits on the banks of the Southern Bug, known for its medical university and the spectacular Roshen multimedia floating fountain.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals 1363 erwähnt", "Heimat des Pirogow-Museums", "Liegt in der historischen Region Podolien", "Bevölkerung ca. 370.000"],
+      hu: ["Első említése 1363-ban", "A Pirogov-múzeum otthona", "A történelmi Podólia régióban található", "Lakossága kb. 370 ezer fő"],
+      ro: ["Menționat prima dată în 1363", "Găzduiește Muzeul Pirogov", "Situat în regiunea istorică Podolia", "Populație de aproximativ 370.000"],
+      en: ["First mentioned in 1363", "Home to the Pirogov Estate Museum", "Located in the historic Podolia region", "Population approx. 370,000"],
+    },
+  },
   {
     id: "ukraine-makiivka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Makijiwka", hu: "Makijivka", ro: "Makievka", en: "Makiivka",
-image: "/poi-images/ukraine-makiivka-cities-v2.webp"
-},
+    name: { de: "Makijiwka", hu: "Makijivka", ro: "Makievka", en: "Makiivka"},
+    image: "/poi-images/ukraine-makiivka-cities-v2.webp",
     coords: [37.9611, 48.0556],
     coordinates: { lat: 48.0556, lng: 37.9611 },
     description: {
@@ -395,14 +434,26 @@ image: "/poi-images/ukraine-makiivka-cities-v2.webp"
       en: ["Major center for coke production", "Founded as a Cossack settlement in 1690", "Formerly named Dmitriyevsk", "Key railway transportation hub"],
     },
     imageHint: "Industrial plants in Makiivka",
-    image: "/poi-images/ukraine-makiivka-cities-v2.webp"},
+    image: "/poi-images/ukraine-makiivka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Makijiwka ist eine bedeutende Industriestadt im Donezbecken, die eng mit Donezk verwachsen ist und eine lange Tradition im Kohlebergbau besitzt.",
+      hu: "Makijivka a Donyec-medence jelentős ipari városa, amely szorosan összenőtt Doneckkel, és hosszú múltra tekint vissza a szénbányászat terén.",
+      ro: "Makivka este un oraș industrial important din bazinul Doneț, strâns legat de Donețk, având o lungă tradiție în mineritul cărbunelui.",
+      en: "Makiivka is a major industrial city in the Donets Basin, closely integrated with Donetsk and holding a long tradition in coal mining.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1690", "Zentrum der Metallurgie und Chemie", "Teil der Metropolregion Donezk", "Fläche von 426 Quadratkilometern"],
+      hu: ["Alapítva 1690-ben", "A kohászat és vegyipar központja", "A Donecki agglomeráció része", "Területe 426 négyzetkilométer"],
+      ro: ["Fondat în anul 1690", "Centru al metalurgiei și chimiei", "Parte a zonei metropolitane Donețk", "Suprafață de 426 km pătrați"],
+      en: ["Founded in 1690", "Center of metallurgy and chemicals", "Part of the Donetsk metropolitan area", "Area of 426 square kilometers"],
+    },
+  },
   {
     id: "ukraine-sevastopol-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Sewastopol", hu: "Szevasztopol", ro: "Sevastopol", en: "Sevastopol",
-image: "/poi-images/ukraine-sevastopol-cities-v2.webp"
-},
+    name: { de: "Sewastopol", hu: "Szevasztopol", ro: "Sevastopol", en: "Sevastopol"},
+    image: "/poi-images/ukraine-sevastopol-cities-v2.webp",
     coords: [33.525, 44.6167],
     coordinates: { lat: 44.6167, lng: 33.525 },
     description: {
@@ -418,14 +469,26 @@ image: "/poi-images/ukraine-sevastopol-cities-v2.webp"
       en: ["Located near the ancient ruins of Chersonesus", "Founded in 1783", "Features an ice-free natural harbor", "Famous for the 1854-1855 Siege"],
     },
     imageHint: "Sevastopol harbor and monument to sunken ships",
-    image: "/poi-images/ukraine-sevastopol-cities-v2.webp"},
+    image: "/poi-images/ukraine-sevastopol-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sewastopol auf der Krim ist ein strategischer Tiefwasserhafen mit antiken griechischen Wurzeln und dient als historischer Stützpunkt der Schwarzmeerflotte.",
+      hu: "Szevasztopol a Krím-félsziget stratégiai fontosságú mélyvízi kikötője, antik görög gyökerekkel és a Fekete-tengeri Flotta bázisával.",
+      ro: "Sevastopol, în Crimeea, este un port strategic de mare adâncime cu rădăcini grecești antice, servind ca bază a Flotei Mării Negre.",
+      en: "Sevastopol in Crimea is a strategic deep-water port with ancient Greek roots, serving as a historic base for the Black Sea Fleet.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1783 von Potjomkin", "Antike Stadt Chersones liegt hier", "Besitzt den Status einer Heldenstadt", "Über 480.000 Einwohner"],
+      hu: ["Potjomkin alapította 1783-ban", "Itt található az antik Herszonészosz", "Hős Város címmel rendelkezik", "Több mint 480 ezer lakos"],
+      ro: ["Fondat în 1783 de Potemkin", "Orașul antic Chersones se află aici", "Deține statutul de Oraș Erou", "Peste 480.000 de locuitori"],
+      en: ["Founded in 1783 by Potemkin", "Ancient Chersonesus is located here", "Holds the status of a Hero City", "Over 480,000 residents"],
+    },
+  },
   {
     id: "ukraine-simferopol-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Simferopol", hu: "Szimferopol", ro: "Simferopol", en: "Simferopol",
-image: "/poi-images/ukraine-simferopol-cities-v2.webp"
-},
+    name: { de: "Simferopol", hu: "Szimferopol", ro: "Simferopol", en: "Simferopol"},
+    image: "/poi-images/ukraine-simferopol-cities-v2.webp",
     coords: [34.1024, 44.9521],
     coordinates: { lat: 44.9521, lng: 34.1024 },
     description: {
@@ -441,14 +504,26 @@ image: "/poi-images/ukraine-simferopol-cities-v2.webp"
       en: ["Major railway and transit hub", "Founded in 1784 on the site of Akmechet", "Center of Crimean Tatar culture", "Start of the world's longest trolleybus line"],
     },
     imageHint: "Simferopol railway station tower",
-    image: "/poi-images/ukraine-simferopol-cities-v2.webp"},
+    image: "/poi-images/ukraine-simferopol-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Simferopol ist das administrative Herz der Krim und ein wichtiger Verkehrsknotenpunkt, der das Innere der Halbinsel mit der Schwarzmeerküste verbindet.",
+      hu: "Szimferopol a Krím adminisztratív központja és fontos közlekedési csomópontja, amely összeköti a félsziget belsejét a fekete-tengeri partvidékkel.",
+      ro: "Simferopol este inima administrativă a Crimeei și un nod de transport vital, conectând interiorul peninsulei cu coasta Mării Negre.",
+      en: "Simferopol is the administrative heart of Crimea and a vital transport hub, connecting the peninsula's interior with the Black Sea coast.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1784", "Liegt am Fluss Salhir", "Sitz der Taurischen Universität", "Bevölkerung ca. 340.000"],
+      hu: ["Alapítva 1784-ben", "A Szalgir-folyó partján fekszik", "A Taurida Egyetem székhelye", "Lakossága kb. 340 ezer fő"],
+      ro: ["Fondat în anul 1784", "Situat pe râul Salhir", "Sediul Universității Taurida", "Populație de aproximativ 340.000"],
+      en: ["Founded in 1784", "Located on the Salhir River", "Seat of the Taurida University", "Population approx. 340,000"],
+    },
+  },
   {
     id: "ukraine-kherson-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Cherson", hu: "Herszon", ro: "Herson", en: "Kherson",
-image: "/poi-images/ukraine-kherson-cities-v2.webp"
-},
+    name: { de: "Cherson", hu: "Herszon", ro: "Herson", en: "Kherson"},
+    image: "/poi-images/ukraine-kherson-cities-v2.webp",
     coords: [32.6169, 46.6354],
     coordinates: { lat: 46.6354, lng: 32.6169 },
     description: {
@@ -464,14 +539,26 @@ image: "/poi-images/ukraine-kherson-cities-v2.webp"
       en: ["Founded by Grigory Potemkin in 1778", "Major shipbuilding and repair center", "Strategic gateway to the Crimean Peninsula", "Home to a significant maritime port"],
     },
     imageHint: "Kherson port and Dnieper river view",
-    image: "/poi-images/ukraine-kherson-cities-v2.webp"},
+    image: "/poi-images/ukraine-kherson-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Cherson ist ein bedeutender See- und Flusshafen an der Dnjepr-Mündung, bekannt als Tor zum Schwarzen Meer und wichtiges landwirtschaftliches Zentrum.",
+      hu: "Herszon jelentős tengeri és folyami kikötő a Dnyeper torkolatánál, amely a Fekete-tenger kapujaként és fontos mezőgazdasági központként ismert.",
+      ro: "Herson este un port maritim și fluvial major la gura de vărsare a Niprului, cunoscut ca poartă către Marea Neagră și centru agricol.",
+      en: "Kherson is a major sea and river port at the Dnieper estuary, known as a gateway to the Black Sea and a key agricultural center.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1778 von Potjomkin", "Erster Stützpunkt der Schwarzmeerflotte", "Berühmt für Melonen und Getreide", "Hafentiefgang bis zu 7,6 Meter"],
+      hu: ["Potjomkin alapította 1778-ban", "A Fekete-tengeri Flotta első bázisa", "Híres dinnyéiről és gabonájáról", "Kikötői merülés akár 7,6 méter"],
+      ro: ["Fondat în 1778 de Potemkin", "Prima bază a Flotei Mării Negre", "Faimos pentru pepeni și cereale", "Pescaj portuar de până la 7,6 m"],
+      en: ["Founded in 1778 by Potemkin", "First Black Sea Fleet base", "Famous for melons and grain", "Port draft up to 7.6 meters"],
+    },
+  },
   {
     id: "ukraine-poltava-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Poltawa", hu: "Poltava", ro: "Poltava", en: "Poltava",
-image: "/poi-images/ukraine-poltava-cities-v2.webp"
-},
+    name: { de: "Poltawa", hu: "Poltava", ro: "Poltava", en: "Poltava"},
+    image: "/poi-images/ukraine-poltava-cities-v2.webp",
     coords: [34.5514, 49.5883],
     coordinates: { lat: 49.5883, lng: 34.5514 },
     description: {
@@ -487,14 +574,26 @@ image: "/poi-images/ukraine-poltava-cities-v2.webp"
       en: ["Spiritual and cultural hub of Ukraine", "Birthplace of poet Ivan Kotliarevsky", "Famous for local Poltava dumplings", "Founded in the year 899 AD"],
     },
     imageHint: "Poltava city center and rotunda",
-    image: "/poi-images/ukraine-poltava-cities-v2.webp"},
+    image: "/poi-images/ukraine-poltava-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Poltawa ist eine Stadt mit reicher Geschichte am Fluss Worskla, berühmt für die entscheidende Schlacht von 1709 und als Wiege der ukrainischen Literatur.",
+      hu: "Poltava gazdag történelmű város a Vorszkla-folyó partján, amely az 1709-es döntő csatáról és az ukrán irodalom bölcsőjeként vált híressé.",
+      ro: "Poltava este un oraș cu o istorie bogată pe râul Vorskla, faimos pentru bătălia decisivă din 1709 și ca leagăn al literaturii ucrainene.",
+      en: "Poltava is a city with a rich history on the Vorskla River, famous for the decisive 1709 battle and as a cradle of Ukrainian literature.",
+    },
+    factsAdvanced: {
+      de: ["Schlacht von Poltawa (1709)", "Heimat von Iwan Kotljarewskyj", "Erstmals 1174 urkundlich erwähnt", "Berühmt für Poltawer Knödel"],
+      hu: ["Poltavai csata helyszíne (1709)", "Ivan Kotljarevszkij szülővárosa", "Első írásos említése 1174-ben", "Híres a poltavai galuskáról"],
+      ro: ["Bătălia de la Poltava (1709)", "Locul natal al lui Ivan Kotlyarevsky", "Menționat documentar în 1174", "Faimos pentru găluștele de Poltava"],
+      en: ["Battle of Poltava (1709)", "Home of Ivan Kotlyarevsky", "First mentioned in 1174", "Famous for Poltava dumplings"],
+    },
+  },
   {
     id: "ukraine-chernihiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tschernihiw", hu: "Csernyihiv", ro: "Cernigău", en: "Chernihiv",
-image: "/poi-images/ukraine-chernihiv-cities-v2.webp"
-},
+    name: { de: "Tschernihiw", hu: "Csernyihiv", ro: "Cernigău", en: "Chernihiv"},
+    image: "/poi-images/ukraine-chernihiv-cities-v2.webp",
     coords: [31.2893, 51.4982],
     coordinates: { lat: 51.4982, lng: 31.2893 },
     description: {
@@ -510,14 +609,26 @@ image: "/poi-images/ukraine-chernihiv-cities-v2.webp"
       en: ["Home to 11th-century architectural monuments", "Capital of the Chernihiv region", "Former capital of the Principality of Chernihiv", "Famous for its local brewing traditions"],
     },
     imageHint: "Chernihiv ancient cathedrals and park",
-    image: "/poi-images/ukraine-chernihiv-cities-v2.webp"},
+    image: "/poi-images/ukraine-chernihiv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tschernihiw ist eine der ältesten Städte der Ukraine und beherbergt prächtige Kathedralen aus der Zeit der Kiewer Rus sowie mysteriöse Höhlenklöster.",
+      hu: "Csernyihiv Ukrajna egyik legrégebbi városa, amely a Kijevi Rusz korából származó pompás katedrálisoknak és barlangkolostoroknak ad otthont.",
+      ro: "Cernihiv este unul dintre cele mai vechi orașe din Ucraina, găzduind catedrale magnifice din epoca Rusiei Kievene și mănăstiri rupestre.",
+      en: "Chernihiv is one of Ukraine's oldest cities, home to magnificent cathedrals from the Kyivan Rus era and mysterious cave monasteries.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals im Jahr 907 erwähnt", "Verklärungs-Kathedrale aus 1030", "Liegt am malerischen Fluss Desna", "Besitzt den Status einer Heldenstadt"],
+      hu: ["Először 907-ben említik", "Színeváltozás-székesegyház (1030)", "A festői Gyeszna-folyó partján fekszik", "Hős Város címet kapott"],
+      ro: ["Menționat prima dată în 907", "Catedrala Schimbarea la Față (1030)", "Situat pe malul râului Desna", "Deține statutul de Oraș Erou"],
+      en: ["First mentioned in 907", "Transfiguration Cathedral (1030)", "Located on the scenic Desna River", "Holds the status of a Hero City"],
+    },
+  },
   {
     id: "ukraine-cherkasy-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tscherkassy", hu: "Cserkaszi", ro: "Cerkasî", en: "Cherkasy",
-image: "/poi-images/ukraine-cherkasy-cities-v2.webp"
-},
+    name: { de: "Tscherkassy", hu: "Cserkaszi", ro: "Cerkasî", en: "Cherkasy"},
+    image: "/poi-images/ukraine-cherkasy-cities-v2.webp",
     coords: [32.0597, 49.4444],
     coordinates: { lat: 49.4444, lng: 32.0597 },
     description: {
@@ -533,14 +644,26 @@ image: "/poi-images/ukraine-cherkasy-cities-v2.webp"
       en: ["Founded in the 13th century", "Hub of the Ukrainian chemical industry", "Features one of the longest dams in Ukraine", "Cossacks played a vital role in its history"],
     },
     imageHint: "Cherkasy bridge over the Dnieper river",
-    image: "/poi-images/ukraine-cherkasy-cities-v2.webp"},
+    image: "/poi-images/ukraine-cherkasy-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tscherkassy erstreckt sich entlang des riesigen Krementschuker Stausees am Dnjepr und ist ein lebendiges kulturelles und industrielles Zentrum Zentralukrainas.",
+      hu: "Cserkaszi a Dnyeper mentén, a hatalmas Kremencsuki-víztározó partján fekszik, Közép-Ukrajna egyik pezsgő kulturális és ipari központja.",
+      ro: "Cerkasî se întinde de-a lungul uriașului rezervor Kremenciuk de pe Nipru, fiind un centru cultural și industrial vibrant al Ucrainei centrale.",
+      en: "Cherkasy stretches along the vast Kremenchuk Reservoir on the Dnieper, serving as a vibrant cultural and industrial hub of central Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Gründung im 13. Jahrhundert", "Längste Dammbrücke der Ukraine", "Heimat des Hügel des Ruhmes", "Wichtiges Zentrum der Lebensmittelindustrie"],
+      hu: ["Alapítva a 13. században", "Ukrajna leghosszabb gát-hídja", "A Dicsőség-domb helyszíne", "Fontos élelmiszeripari központ"],
+      ro: ["Fondat în secolul al XIII-lea", "Cel mai lung dig-pod din Ucraina", "Găzduiește Dealul Gloriei", "Centru important al industriei alimentare"],
+      en: ["Founded in the 13th century", "Longest dam-bridge in Ukraine", "Home to the Hill of Glory", "Key center of food industry"],
+    },
+  },
   {
     id: "ukraine-sumy-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Sumy", hu: "Szumi", ro: "Sumî", en: "Sumy",
-image: "/poi-images/ukraine-sumy-cities-v2.webp"
-},
+    name: { de: "Sumy", hu: "Szumi", ro: "Sumî", en: "Sumy"},
+    image: "/poi-images/ukraine-sumy-cities-v2.webp",
     coords: [34.7981, 50.9077],
     coordinates: { lat: 50.9077, lng: 34.7981 },
     description: {
@@ -556,14 +679,26 @@ image: "/poi-images/ukraine-sumy-cities-v2.webp"
       en: ["Name derives from the word for 'pouches'", "Founded in the year 1652", "Major educational and research center", "Known for its classic 19th-century architecture"],
     },
     imageHint: "Sumy city center and Altanka gazebo",
-    image: "/poi-images/ukraine-sumy-cities-v2.webp"},
+    image: "/poi-images/ukraine-sumy-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sumy im Nordosten der Ukraine ist eine charmante Stadt am Fluss Psel, geprägt durch klassizistische Architektur und eine starke Tradition in der Zuckerindustrie.",
+      hu: "Szumi Északkelet-Ukrajna egyik bájos városa a Pszel-folyó partján, amelyet klasszicista építészet és erős cukoripari hagyományok jellemeznek.",
+      ro: "Sumî, în nord-estul Ucrainei, este un oraș fermecător pe râul Psel, caracterizat prin arhitectură clasicistă și o tradiție puternică în industria zahărului.",
+      en: "Sumy in northeastern Ukraine is a charming city on the Psel River, defined by classicist architecture and a strong sugar industry tradition.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1652 als Festung", "Berühmt für die Auferstehungskirche", "Liegt nahe der russischen Grenze", "Besitzt den Status einer Heldenstadt"],
+      hu: ["1652-ben alapították erődként", "Híres a Feltámadás-templomról", "Közel fekszik az orosz határhoz", "Hős Város címet kapott"],
+      ro: ["Fondat în 1652 ca cetate", "Faimos pentru Biserica Învierii", "Situat aproape de granița rusă", "Deține statutul de Oraș Erou"],
+      en: ["Founded in 1652 as a fortress", "Famous for the Resurrection Church", "Located near the Russian border", "Holds the status of a Hero City"],
+    },
+  },
   {
     id: "ukraine-zhytomyr-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schytomyr", hu: "Zsitomir", ro: "Jitomir", en: "Zhytomyr",
-image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"
-},
+    name: { de: "Schytomyr", hu: "Zsitomir", ro: "Jitomir", en: "Zhytomyr"},
+    image: "/poi-images/ukraine-zhytomyr-cities-v2.webp",
     coords: [28.6587, 50.2547],
     coordinates: { lat: 50.2547, lng: 28.6587 },
     description: {
@@ -579,14 +714,26 @@ image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"
       en: ["Home to the National Museum of Cosmonautics", "Founded in the year 884 AD", "Center of Ukrainian granite quarrying", "Birthplace of space pioneer Sergei Korolev"],
     },
     imageHint: "Zhytomyr city park and Teteriv river canyon",
-    image: "/poi-images/ukraine-zhytomyr-cities-v2.webp"},
+    image: "/poi-images/ukraine-zhytomyr-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Schytomyr ist eine geschichtsträchtige Stadt in Polesien, bekannt als Geburtsort von Sergej Koroljow und Zentrum für Granitabbau und Raumfahrtgeschichte.",
+      hu: "Zsitomir egy történelmi város Poléziában, amely Szergej Koroljov szülőhelyeként, valamint gránitbányászatáról és űrkutatási múltjáról ismert.",
+      ro: "Jîtomîr este un oraș istoric în Polesie, cunoscut ca locul de naștere al lui Serghei Koroliov și centru pentru extracția granitului și istoria spațială.",
+      en: "Zhytomyr is a historic city in Polesia, known as the birthplace of Sergei Korolev and a center for granite mining and space exploration history.",
+    },
+    factsAdvanced: {
+      de: ["Legendäre Gründung im Jahr 884", "Heimat des Kosmonautik-Museums", "Liegt am felsigen Fluss Teteriw", "Zentrum der ukrainischen Holzwirtschaft"],
+      hu: ["Legendás alapítása 884-ben", "Az Űrhajózási Múzeum otthona", "A sziklás Teteriv-folyó partján fekszik", "Az ukrán faipar központja"],
+      ro: ["Fondare legendară în anul 884", "Găzduiește Muzeul de Cosmonautică", "Situat pe malul stâncos al râului Teteriv", "Centru al industriei lemnului"],
+      en: ["Legendary founding in 884", "Home to the Cosmonautics Museum", "Located on the rocky Teteriv River", "Center of the Ukrainian timber industry"],
+    },
+  },
   {
     id: "ukraine-horlivka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Horliwka", hu: "Horlivka", ro: "Gorlovka", en: "Horlivka",
-image: "/poi-images/ukraine-horlivka-cities-v2.webp"
-},
+    name: { de: "Horliwka", hu: "Horlivka", ro: "Gorlovka", en: "Horlivka"},
+    image: "/poi-images/ukraine-horlivka-cities-v2.webp",
     coords: [38.0163, 48.306],
     coordinates: { lat: 48.306, lng: 38.0163 },
     description: {
@@ -602,14 +749,26 @@ image: "/poi-images/ukraine-horlivka-cities-v2.webp"
       en: ["Founded by mining engineer Pyotr Gorlov", "Home to a massive chemical plant (Stirol)", "Key regional railway junction", "Major center for heavy machinery"],
     },
     imageHint: "Industrial facilities in Horlivka",
-    image: "/poi-images/ukraine-horlivka-cities-v2.webp"},
+    image: "/poi-images/ukraine-horlivka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Horliwka ist eine bedeutende Industriestadt im Donezbecken, deren Entwicklung eng mit dem Kohlebergbau und der chemischen Produktion verknüpft ist.",
+      hu: "Horlivka a Donyec-medence jelentős ipari városa, amelynek fejlődése szorosan összefonódott a szénbányászattal és a vegyipari termeléssel.",
+      ro: "Horlivka este un oraș industrial major din bazinul Doneț, a cărui dezvoltare este strâns legată de mineritul cărbunelui și producția chimică.",
+      en: "Horlivka is a major industrial city in the Donets Basin, with development closely tied to coal mining and chemical manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Benannt nach Nikita Gorlow", "Gegründet im Jahr 1779", "Besitzt tiefe Steinkohleschächte", "Einwohnerzahl ca. 240.000"],
+      hu: ["Nyikita Gorlovról kapta a nevét", "Alapítva 1779-ben", "Mély kőszénbányákkal rendelkezik", "Lakossága kb. 240 ezer fő"],
+      ro: ["Numit după Nikita Gorlov", "Fondat în anul 1779", "Deține puțuri adânci de cărbune", "Populație de aproximativ 240.000"],
+      en: ["Named after Nikita Gorlov", "Founded in 1779", "Possesses deep coal shafts", "Population approx. 240,000"],
+    },
+  },
   {
     id: "ukraine-rivne-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Riwne", hu: "Rivne", ro: "Rivne", en: "Rivne",
-image: "/poi-images/ukraine-rivne-cities-v2.webp"
-},
+    name: { de: "Riwne", hu: "Rivne", ro: "Rivne", en: "Rivne"},
+    image: "/poi-images/ukraine-rivne-cities-v2.webp",
     coords: [26.2516, 50.6199],
     coordinates: { lat: 50.6199, lng: 26.2516 },
     description: {
@@ -625,14 +784,26 @@ image: "/poi-images/ukraine-rivne-cities-v2.webp"
       en: ["Capital of the Ukrainian amber industry", "First mentioned in the year 1283", "Former headquarters of the Reichskommissariat", "Home to the unique 'Amber Museum'"],
     },
     imageHint: "Rivne city center and amber museum",
-    image: "/poi-images/ukraine-rivne-cities-v2.webp"},
+    image: "/poi-images/ukraine-rivne-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Riwne ist ein kulturelles Zentrum in Wolhynien, das für seine Bernsteinvorkommen, den Tunnel der Liebe in der Nähe und eine dynamische Industriegeschichte bekannt ist.",
+      hu: "Rivne Volhínia kulturális központja, amely borostyánlelőhelyeiről, a közeli Szerelmesek alagútjáról és dinamikus ipari múltjáról ismert.",
+      ro: "Rivne este un centru cultural din Volînia, cunoscut pentru zăcămintele de chihlimbar, Tunelul Iubirii din apropiere și o istorie industrială dinamică.",
+      en: "Rivne is a cultural hub in Volhynia, known for its amber deposits, the nearby Tunnel of Love, and a dynamic industrial history.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals 1283 erwähnt", "Heimat des Bernsteinmuseums", "Wichtiger Verkehrsknotenpunkt", "Besitzt zwei Kernkraftwerke in der Region"],
+      hu: ["Első említése 1283-ban", "A Borostyánmúzeum otthona", "Fontos közlekedési csomópont", "Két atomerőmű található a régiójában"],
+      ro: ["Menționat prima dată în 1283", "Găzduiește Muzeul Chihlimbarului", "Nod de transport important", "Regiunea are două centrale nucleare"],
+      en: ["First mentioned in 1283", "Home to the Amber Museum", "Key transportation hub", "Region hosts two nuclear power plants"],
+    },
+  },
   {
     id: "ukraine-kamianske-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kamjanske", hu: "Kamjanszke", ro: "Kamianske", en: "Kamianske",
-image: "/poi-images/ukraine-kamianske-cities-v2.webp"
-},
+    name: { de: "Kamjanske", hu: "Kamjanszke", ro: "Kamianske", en: "Kamianske"},
+    image: "/poi-images/ukraine-kamianske-cities-v2.webp",
     coords: [34.6128, 48.5147],
     coordinates: { lat: 48.5147, lng: 34.6128 },
     description: {
@@ -648,14 +819,26 @@ image: "/poi-images/ukraine-kamianske-cities-v2.webp"
       en: ["Birthplace of Soviet leader Leonid Brezhnev", "Home to a massive metallurgical combine", "First mentioned as a settlement in 1750", "Renamed back to Kamianske in 2016"],
     },
     imageHint: "Industrial plants in Kamianske along the river",
-    image: "/poi-images/ukraine-kamianske-cities-v2.webp"},
+    image: "/poi-images/ukraine-kamianske-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kamjanske ist ein bedeutendes Schwerindustriezentrum am Dnjepr, das für seine riesigen Stahlwerke und die Produktion von Chemikalien und Energie bekannt ist.",
+      hu: "Kamjanszke a Dnyeper mentén fekvő jelentős nehézipari központ, amely hatalmas acélműveiről, vegyipari és energiatermeléséről ismert.",
+      ro: "Kamianske este un centru major de industrie grea pe Nipru, cunoscut pentru oțelăriile sale uriașe și producția de chimicale și energie.",
+      en: "Kamianske is a major heavy industry center on the Dnieper, known for its massive steelworks and production of chemicals and energy.",
+    },
+    factsAdvanced: {
+      de: ["Hieß früher Dniprodserschynsk", "Gegründet um 1750", "Besitzt ein großes Wasserkraftwerk", "Geburtsort von Leonid Breschnew"],
+      hu: ["Korábbi neve Dnyiprodzerzsinszk", "1750 körül alapították", "Nagy vízerőművel rendelkezik", "Leonyid Brezsnyev szülőhelye"],
+      ro: ["Fostul nume Dniprodzerjînsk", "Fondat în jurul anului 1750", "Deține o mare hidrocentrală", "Locul de naștere al lui Leonid Brejnev"],
+      en: ["Formerly named Dniprodzerzhynsk", "Founded around 1750", "Hosts a large hydroelectric station", "Birthplace of Leonid Brezhnev"],
+    },
+  },
   {
     id: "ukraine-kropyvnytskyi-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kropywnyzkyj", hu: "Kropivnickij", ro: "Kropîvnîțkîi", en: "Kropyvnytskyi",
-image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"
-},
+    name: { de: "Kropywnyzkyj", hu: "Kropivnickij", ro: "Kropîvnîțkîi", en: "Kropyvnytskyi"},
+    image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp",
     coords: [32.2623, 48.5076],
     coordinates: { lat: 48.5076, lng: 32.2623 },
     description: {
@@ -671,14 +854,26 @@ image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"
       en: ["Formerly known as Kirovohrad", "The cradle of Ukrainian professional theater", "Founded in 1754 as Elisavetgrad", "Major center for agricultural machinery"],
     },
     imageHint: "Kropyvnytskyi city center and theater",
-    image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp"},
+    image: "/poi-images/ukraine-kropyvnytskyi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kropywnyzkyj, im geografischen Zentrum der Ukraine, ist als Geburtsort des professionellen ukrainischen Theaters und wichtiges Agrarzentrum bekannt.",
+      hu: "Kropivnyickij Ukrajna földrajzi középpontjában fekszik, és a professzionális ukrán színház szülőhelyeként, valamint agrárközpontként ismert.",
+      ro: "Kropîvnîțkîi, în centrul geografic al Ucrainei, este cunoscut ca locul de naștere al teatrului profesionist ucrainean și un centru agricol vital.",
+      en: "Kropyvnytskyi, in the geographic center of Ukraine, is known as the birthplace of professional Ukrainian theater and a key agricultural hub.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1754 als Elisawetgrad", "Benannt nach Marko Kropywnyzkyj", "Wichtigster Erzeuger von Landmaschinen", "Liegt am Fluss Inhul"],
+      hu: ["1754-ben alapították Jeliszavetgrad néven", "Marko Kropivnyickijről nevezték el", "Mezőgazdasági gépek fő gyártója", "Az Inhul-folyó partján fekszik"],
+      ro: ["Fondat în 1754 ca Elisavetgrad", "Numit după Marko Kropîvnîțkîi", "Principal producător de utilaje agricole", "Situat pe râul Inhul"],
+      en: ["Founded in 1754 as Elisavetgrad", "Named after Marko Kropyvnytskyi", "Major producer of agricultural machinery", "Located on the Inhul River"],
+    },
+  },
   {
     id: "ukraine-chernivtsi-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tscherniwzi", hu: "Csernyivci", ro: "Cernăuți", en: "Chernivtsi",
-image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"
-},
+    name: { de: "Tscherniwzi", hu: "Csernyivci", ro: "Cernăuți", en: "Chernivtsi"},
+    image: "/poi-images/ukraine-chernivtsi-cities-v2.webp",
     coords: [25.9352, 48.2917],
     coordinates: { lat: 48.2917, lng: 25.9352 },
     description: {
@@ -694,14 +889,26 @@ image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"
       en: ["Home to a UNESCO World Heritage university", "Formerly part of the Austro-Hungarian Empire", "Significant center for Jewish culture", "First mentioned in the 12th century"],
     },
     imageHint: "Chernivtsi University and city hall",
-    image: "/poi-images/ukraine-chernivtsi-cities-v2.webp"},
+    image: "/poi-images/ukraine-chernivtsi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Czernowitz, die Perle der Bukowina, besticht durch seine multikulturelle Geschichte und die prachtvolle Residenz der bukowinischen Metropoliten.",
+      hu: "Csernyivci Bukovina gyöngyszeme, amely multikulturális történelmével és a bukovinai metropoliták pompás rezidenciájával bűvöli el a látogatókat.",
+      ro: "Cernăuți, perla Bucovinei, impresionează prin istoria sa multiculturală și splendida Reședință a Mitropoliților Bucovinei.",
+      en: "Chernivtsi, the pearl of Bukovina, captivates with its multicultural history and the magnificent Residence of Bukovinian Metropolitans.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals im Jahr 1408 erwähnt", "UNESCO-Weltkulturerbe Universität", "Wird oft Klein-Wien genannt", "Liegt am malerischen Fluss Pruth"],
+      hu: ["Első írásos említése 1408-ban", "UNESCO Világörökség része az egyetem", "Gyakran Kis Bécsnek nevezik", "A festői Prut-folyó partján fekszik"],
+      ro: ["Menționat documentar în 1408", "Universitate inclusă în UNESCO", "Adesea numit Mică Vienă", "Situat pe malul râului Prut"],
+      en: ["First mentioned in 1408", "UNESCO World Heritage University", "Often called Little Vienna", "Located on the scenic Prut River"],
+    },
+  },
   {
     id: "ukraine-kremenchuk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Krementschuk", hu: "Kremencsuk", ro: "Kremenciuk", en: "Kremenchuk",
-image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"
-},
+    name: { de: "Krementschuk", hu: "Kremencsuk", ro: "Kremenciuk", en: "Kremenchuk"},
+    image: "/poi-images/ukraine-kremenchuk-cities-v2.webp",
     coords: [33.4131, 49.0658],
     coordinates: { lat: 49.0658, lng: 33.4131 },
     description: {
@@ -717,14 +924,26 @@ image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"
       en: ["Headquarters of the KrAZ truck plant", "Home to Ukraine's largest oil refinery", "Founded in the year 1571", "Features a strategic dual-level bridge"],
     },
     imageHint: "Kremenchuk bridge and Dnieper river",
-    image: "/poi-images/ukraine-kremenchuk-cities-v2.webp"},
+    image: "/poi-images/ukraine-kremenchuk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Krementschuk ist eine bedeutende Industriestadt am Dnjepr, die für ihre Lkw-Produktion, Ölraffinerien und den gewaltigen Stausee bekannt ist.",
+      hu: "Kremencsuk a Dnyeper mentén fekvő fontos ipari város, amely teherautó-gyártásáról, olajfinomítóiról és hatalmas víztározójáról híres.",
+      ro: "Kremenciuk este un oraș industrial important pe Nipru, cunoscut pentru producția de camioane, rafinăriile de petrol și imensul său rezervor.",
+      en: "Kremenchuk is a significant industrial city on the Dnieper, known for its truck manufacturing, oil refineries, and massive reservoir.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1571", "Heimat des KrAZ-Lkw-Werks", "Wichtigster Binnenhafen am Dnjepr", "Besitzt eine große Ölraffinerie"],
+      hu: ["Alapítva 1571-ben", "A KrAZ teherautógyár otthona", "A Dnyeper legfontosabb folyami kikötője", "Nagy olajfinomítóval rendelkezik"],
+      ro: ["Fondat în anul 1571", "Sediul fabricii de camioane KrAZ", "Cel mai important port fluvial de pe Nipru", "Deține o mare rafinărie de petrol"],
+      en: ["Founded in 1571", "Home to the KrAZ truck plant", "Key river port on the Dnieper", "Hosts a major oil refinery"],
+    },
+  },
   {
     id: "ukraine-ternopil-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Ternopil", hu: "Ternopil", ro: "Ternopil", en: "Ternopil",
-image: "/poi-images/ukraine-ternopil-cities-v2.webp"
-},
+    name: { de: "Ternopil", hu: "Ternopil", ro: "Ternopil", en: "Ternopil"},
+    image: "/poi-images/ukraine-ternopil-cities-v2.webp",
     coords: [25.5948, 49.5535],
     coordinates: { lat: 49.5535, lng: 25.5948 },
     description: {
@@ -740,14 +959,26 @@ image: "/poi-images/ukraine-ternopil-cities-v2.webp"
       en: ["Features a massive lake in the city center", "Founded in the year 1540", "Major railway junction for Western Ukraine", "Home to a prominent medical university"],
     },
     imageHint: "Ternopil lake and city center park",
-    image: "/poi-images/ukraine-ternopil-cities-v2.webp"},
+    image: "/poi-images/ukraine-ternopil-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ternopil ist eine malerische Stadt im Westen der Ukraine, deren Zentrum von einem großen künstlichen See und historischen Kirchen geprägt wird.",
+      hu: "Ternopil Nyugat-Ukrajna egyik festői városa, amelynek központját egy hatalmas mesterséges tó és történelmi templomok határozzák meg.",
+      ro: "Ternopil este un oraș pitoresc din vestul Ucrainei, al cărui centru este dominat de un lac artificial mare și biserici istorice.",
+      en: "Ternopil is a scenic city in western Ukraine, with a center defined by a large artificial lake and historic religious architecture.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1540 von Jan Tarnowski", "Zentrum der historischen Region Galizien", "Besitzt ein Schloss aus dem 16. Jh.", "Bevölkerung ca. 225.000"],
+      hu: ["Jan Tarnowski alapította 1540-ben", "A történelmi Galícia régió központja", "16. századi kastéllyal rendelkezik", "Lakossága kb. 225 ezer fő"],
+      ro: ["Fondat în 1540 de Jan Tarnowski", "Centru al regiunii istorice Galiția", "Deține un castel din secolul XVI", "Populație de aproximativ 225.000"],
+      en: ["Founded in 1540 by Jan Tarnowski", "Center of the historic Galicia region", "Features a 16th-century castle", "Population approx. 225,000"],
+    },
+  },
   {
     id: "ukraine-lutsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Luzk", hu: "Luck", ro: "Luțk", en: "Lutsk",
-image: "/poi-images/ukraine-lutsk-cities-v2.webp"
-},
+    name: { de: "Luzk", hu: "Luck", ro: "Luțk", en: "Lutsk"},
+    image: "/poi-images/ukraine-lutsk-cities-v2.webp",
     coords: [25.3254, 50.7472],
     coordinates: { lat: 50.7472, lng: 25.3254 },
     description: {
@@ -763,14 +994,26 @@ image: "/poi-images/ukraine-lutsk-cities-v2.webp"
       en: ["Lutsk Castle is the city's main landmark", "First mentioned in the year 1085", "Hosted the Congress of Monarchs in 1429", "Significant center for the automotive industry"],
     },
     imageHint: "Lutsk Castle tower and old city walls",
-    image: "/poi-images/ukraine-lutsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-lutsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Luzk ist eine der ältesten Städte Wolhyniens und berühmt für das Lubart-Schloss, eines der am besten erhaltenen mittelalterlichen Bauwerke der Ukraine.",
+      hu: "Luck Volhínia egyik legrégebbi városa, amely a Lubart-várról, Ukrajna egyik legjobb állapotban fennmaradt középkori építményéről híres.",
+      ro: "Luțk este unul dintre cele mai vechi orașe din Volînia, renumit pentru Castelul Lubart, una dintre cele mai bine conservate structuri medievale din Ucraina.",
+      en: "Lutsk is one of Volhynia's oldest cities, famous for Lubart's Castle, one of the best-preserved medieval structures in Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Erstmals im Jahr 1085 erwähnt", "Sitz des Kongresses europäischer Monarchen 1429", "Wichtiges Zentrum der Autoindustrie", "Fläche ca. 42 Quadratkilometer"],
+      hu: ["Először 1085-ben említik", "Az 1429-es európai uralkodói kongresszus helyszíne", "Fontos autóipari központ", "Területe kb. 42 négyzetkilométer"],
+      ro: ["Menționat prima dată în 1085", "Gazda Congresului monarhilor europeni în 1429", "Centru important al industriei auto", "Suprafață de aprox. 42 km pătrați"],
+      en: ["First mentioned in 1085", "Hosted the 1429 Congress of European Monarchs", "Key automotive industry center", "Area approx. 42 square kilometers"],
+    },
+  },
   {
     id: "ukraine-bila-tserkva-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Bila Zerkwa", hu: "Bila Cerkva", ro: "Bila Țerkva", en: "Bila Tserkva",
-image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"
-},
+    name: { de: "Bila Zerkwa", hu: "Bila Cerkva", ro: "Bila Țerkva", en: "Bila Tserkva"},
+    image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp",
     coords: [30.1153, 49.7989],
     coordinates: { lat: 49.7989, lng: 30.1153 },
     description: {
@@ -786,14 +1029,26 @@ image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"
       en: ["Founded by Yaroslav the Wise in 1032", "Home to the vast Oleksandriya Dendropark", "Major center for the tire industry (Rosava)", "The name literally translates to 'White Church'"],
     },
     imageHint: "Oleksandrija Dendropark in Bila Tserkva",
-    image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp"},
+    image: "/poi-images/ukraine-bila-tserkva-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bila Zerkwa ist eine historische Stadt am Fluss Ros, die für ihren prachtvollen dendrologischen Park Oleksandrija aus dem 18. Jahrhundert bekannt ist.",
+      hu: "Bila Cerkva történelmi város a Rosz-folyó partján, amely a 18. századi pompás Olekszandrija dendrológiai parkjáról ismert.",
+      ro: "Bila Țerkva este un oraș istoric pe râul Ros, cunoscut pentru parcul său dendrologic magnific Oleksandriia din secolul al XVIII-lea.",
+      en: "Bila Tserkva is a historic city on the Ros River, renowned for its magnificent 18th-century Oleksandriia dendrological park.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1032 von Jaroslaw dem Weisen", "Park Oleksandrija ist der größte der Ukraine", "Bedeutendes Zentrum für Gummiwaren", "Einwohnerzahl ca. 205.000"],
+      hu: ["Bölcs Jaroszláv alapította 1032-ben", "Az Olekszandrija Ukrajna legnagyobb parkja", "Jelentős gumigyártó központ", "Lakossága kb. 205 ezer fő"],
+      ro: ["Fondat în 1032 de Iaroslav cel Înțelept", "Parcul Oleksandriia este cel mai mare din Ucraina", "Centru important pentru produse din cauciuc", "Populație de aproximativ 205.000"],
+      en: ["Founded in 1032 by Yaroslav the Wise", "Oleksandriia Park is Ukraine's largest", "Major center for rubber products", "Population approx. 205,000"],
+    },
+  },
   {
     id: "ukraine-kramatorsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kramatorsk", hu: "Kramatorszk", ro: "Kramatorsk", en: "Kramatorsk",
-image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"
-},
+    name: { de: "Kramatorsk", hu: "Kramatorszk", ro: "Kramatorsk", en: "Kramatorsk"},
+    image: "/poi-images/ukraine-kramatorsk-cities-v2.webp",
     coords: [37.5838, 48.739],
     coordinates: { lat: 48.739, lng: 37.5838 },
     description: {
@@ -809,14 +1064,26 @@ image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"
       en: ["Headquarters of major heavy machinery plants", "Founded in 1868 around a railway station", "Vital regional industrial powerhouse", "Current administrative center of Donetsk Oblast"],
     },
     imageHint: "City center of Kramatorsk and industrial plants",
-    image: "/poi-images/ukraine-kramatorsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-kramatorsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kramatorsk ist ein bedeutendes Zentrum des Schwermaschinenbaus im Norden der Oblast Donezk und spielt eine zentrale Rolle in der ukrainischen Industrie.",
+      hu: "Kramatorszk a nehézgépgyártás fontos központja a Donecki terület északi részén, amely központi szerepet játszik az ukrán iparban.",
+      ro: "Kramatorsk este un centru major al ingineriei grele în nordul regiunii Donețk, jucând un rol central în industria ucraineană.",
+      en: "Kramatorsk is a major heavy machinery engineering center in northern Donetsk Oblast, playing a central role in Ukrainian industry.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1868", "Sitz großer Maschinenbauunternehmen", "Liegt am Fluss Kasennyj Torez", "Wichtiger Eisenbahnknotenpunkt"],
+      hu: ["Alapítva 1868-ban", "Nagy gépgyártó vállalatok székhelye", "A Kazennyi Torec-folyó partján fekszik", "Fontos vasúti csomópont"],
+      ro: ["Fondat în anul 1868", "Sediul unor mari companii de inginerie", "Situat pe râul Kazennyi Toreț", "Nod feroviar important"],
+      en: ["Founded in 1868", "Headquarters of major engineering firms", "Located on the Kazennyi Torets River", "Important railway junction"],
+    },
+  },
   {
     id: "ukraine-melitopol-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Melitopol", hu: "Melitopol", ro: "Melitopol", en: "Melitopol",
-image: "/poi-images/ukraine-melitopol-cities-v2.webp"
-},
+    name: { de: "Melitopol", hu: "Melitopol", ro: "Melitopol", en: "Melitopol"},
+    image: "/poi-images/ukraine-melitopol-cities-v2.webp",
     coords: [35.3702, 46.8551],
     coordinates: { lat: 46.8551, lng: 35.3702 },
     description: {
@@ -832,14 +1099,26 @@ image: "/poi-images/ukraine-melitopol-cities-v2.webp"
       en: ["Famous for its extensive cherry orchards", "Major transit hub for southern Ukraine", "Founded in the year 1784", "Key center for automotive engine production"],
     },
     imageHint: "Melitopol city streets and cherry trees",
-    image: "/poi-images/ukraine-melitopol-cities-v2.webp"},
+    image: "/poi-images/ukraine-melitopol-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Melitopol ist als Tor zur Krim bekannt und gilt aufgrund seiner ausgedehnten Obstgärten als die Kirschenhauptstadt der Ukraine.",
+      hu: "Melitopol a Krím kapujaként ismert, és hatalmas gyümölcsöskertjei miatt Ukrajna cseresznyefővárosaként tartják számon.",
+      ro: "Melitopol este cunoscut ca poarta către Crimeea și este considerat capitala cireșelor a Ucrainei datorită livezilor sale vaste.",
+      en: "Melitopol is known as the gateway to Crimea and is regarded as the cherry capital of Ukraine due to its extensive orchards.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1784", "Liegt am Fluss Molotschna", "Zentrum für Motorenbau", "Berühmt für süße Honigkirschen"],
+      hu: ["Alapítva 1784-ben", "A Molocsna-folyó partján fekszik", "Motorgyártási központ", "Híres az édes mézcseresznyéjéről"],
+      ro: ["Fondat în anul 1784", "Situat pe râul Molochna", "Centru pentru construcția de motoare", "Faimos pentru cireșele dulci"],
+      en: ["Founded in 1784", "Located on the Molochna River", "Center for engine manufacturing", "Famous for sweet honey cherries"],
+    },
+  },
   {
     id: "ukraine-kerch-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kertsch", hu: "Kercs", ro: "Kerci", en: "Kerch",
-image: "/poi-images/ukraine-kerch-cities-v2.webp"
-},
+    name: { de: "Kertsch", hu: "Kercs", ro: "Kerci", en: "Kerch"},
+    image: "/poi-images/ukraine-kerch-cities-v2.webp",
     coords: [36.4711, 45.3611],
     coordinates: { lat: 45.3611, lng: 36.4711 },
     description: {
@@ -855,14 +1134,26 @@ image: "/poi-images/ukraine-kerch-cities-v2.webp"
       en: ["Founded as Panticapaeum around 600 BC", "Significant center for the fishing industry", "Home to the Royal Kurgan burial mound", "Strategic bridge between the Black and Azov seas"],
     },
     imageHint: "Kerch city and the Mithridat hill",
-    image: "/poi-images/ukraine-kerch-cities-v2.webp"},
+    image: "/poi-images/ukraine-kerch-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kertsch ist eine der ältesten Städte der Welt, an der strategischen Meerenge zwischen Schwarzem und Asowschem Meer gelegen, reich an antiken Ruinen.",
+      hu: "Kercs a világ egyik legrégebbi városa, a Fekete- és az Azovi-tenger közötti stratégiai szorosnál, gazdag antik romokban.",
+      ro: "Kerci este unul dintre cele mai vechi orașe din lume, situat la strâmtoarea strategică dintre Marea Neagră și Marea Azov, bogat în ruine antice.",
+      en: "Kerch is one of the world's oldest cities, situated at the strategic strait between the Black and Azov Seas, rich in ancient ruins.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet als Pantikaipaion (ca. 600 v. Chr.)", "Liegt am Berg Mithridat", "Besitzt den Status einer Heldenstadt", "Berühmt für die Kertscher Brücke"],
+      hu: ["Alapítva Pantikaipaion néven (i.e. 600 körül)", "A Mithridat-hegy lábánál fekszik", "Hős Város címmel rendelkezik", "Híres a Kercsi-hídról"],
+      ro: ["Fondat ca Panticapaeum (aprox. 600 î.Hr.)", "Situat pe muntele Mithridat", "Deține statutul de Oraș Erou", "Faimos pentru Podul Kerci"],
+      en: ["Founded as Panticapaeum (c. 600 BC)", "Located on Mount Mithridat", "Holds the status of a Hero City", "Famous for the Kerch Bridge"],
+    },
+  },
   {
     id: "ukraine-nikopol-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Nikopol", hu: "Nyikopol", ro: "Nikopol", en: "Nikopol",
-image: "/poi-images/ukraine-nikopol-cities-v2.webp"
-},
+    name: { de: "Nikopol", hu: "Nyikopol", ro: "Nikopol", en: "Nikopol"},
+    image: "/poi-images/ukraine-nikopol-cities-v2.webp",
     coords: [34.3948, 47.5661],
     coordinates: { lat: 47.5661, lng: 34.3948 },
     description: {
@@ -878,14 +1169,26 @@ image: "/poi-images/ukraine-nikopol-cities-v2.webp"
       en: ["Home to one of the world's largest ferroalloy plants", "Former site of a Zaporozhian Cossack Sich", "Founded in the year 1782", "Key river port on the Dnieper"],
     },
     imageHint: "Nikopol shoreline and industrial area",
-    image: "/poi-images/ukraine-nikopol-cities-v2.webp"},
+    image: "/poi-images/ukraine-nikopol-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Nikopol liegt am Kachowkaer Stausee und ist historisch mit den Saporoger Kosaken sowie reichen skythischen Goldfunden in der Region verbunden.",
+      hu: "Nyikopol a Kahovkai-víztározó partján fekszik, történelmileg a zaporozsjei kozákokhoz és gazdag szkíta aranyleletekhez kötődik.",
+      ro: "Nikopol este situat pe rezervorul Kahovka și este legat istoric de cazacii zaporojeni și de bogatele descoperiri de aur scitic din regiune.",
+      en: "Nikopol sits on the Kakhovka Reservoir and is historically linked to the Zaporozhian Cossacks and rich Scythian gold finds in the region.",
+    },
+    factsAdvanced: {
+      de: ["Bedeutendes Zentrum für Ferrolegierungen", "Liegt nahe der Festung Nikitinskaja", "Reich an skythischen Grabhügeln", "Fläche ca. 50 Quadratkilometer"],
+      hu: ["Jelentős ferroötvözet-központ", "A Nyikitinszkaja erőd közelében fekszik", "Szkíta kurgánokban gazdag vidék", "Területe kb. 50 négyzetkilométer"],
+      ro: ["Centru important de feroaliaje", "Situat lângă cetatea Nikitinskaia", "Bogat în tumuli scitici", "Suprafață de aprox. 50 km pătrați"],
+      en: ["Major center for ferroalloys", "Located near Nikitinskaya fortress", "Rich in Scythian burial mounds", "Area approx. 50 square kilometers"],
+    },
+  },
   {
     id: "ukraine-sloviansk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Slowjansk", hu: "Szlovjanszk", ro: "Sloviansk", en: "Sloviansk",
-image: "/poi-images/ukraine-sloviansk-cities-v2.webp"
-},
+    name: { de: "Slowjansk", hu: "Szlovjanszk", ro: "Sloviansk", en: "Sloviansk"},
+    image: "/poi-images/ukraine-sloviansk-cities-v2.webp",
     coords: [37.6186, 48.8522],
     coordinates: { lat: 48.8522, lng: 37.6186 },
     description: {
@@ -901,14 +1204,26 @@ image: "/poi-images/ukraine-sloviansk-cities-v2.webp"
       en: ["Founded as a salt-mining fortress named Tor", "Features unique therapeutic salt lakes", "Major center for porcelain and ceramics", "Established in the year 1676"],
     },
     imageHint: "Sloviansk salt lakes and health resort",
-    image: "/poi-images/ukraine-sloviansk-cities-v2.webp"},
+    image: "/poi-images/ukraine-sloviansk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Slowjansk ist bekannt für seine heilenden Salzseen und Schlammbäder sowie als historisches Zentrum der Keramikproduktion in der Ostukraine.",
+      hu: "Szlovjanszk gyógyhatású sós tavairól és iszapfürdőiről, valamint Kelet-Ukrajna történelmi kerámiagyártó központjaként ismert.",
+      ro: "Sloviansk este cunoscut pentru lacurile sale sărate curatice și băile de nămol, fiind și un centru istoric al producției de ceramică din estul Ucrainei.",
+      en: "Sloviansk is known for its healing salt lakes and mud baths, as well as being a historic center for ceramic production in eastern Ukraine.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1676 als Festung Tor", "Besitzt drei balneologische Seen", "Wichtigstes Zentrum für Steingut", "Einwohnerzahl ca. 105.000"],
+      hu: ["1676-ban alapították Tor erődként", "Három gyógyvizes tóval rendelkezik", "A kőedénygyártás fő központja", "Lakossága kb. 105 ezer fő"],
+      ro: ["Fondat în 1676 ca cetatea Tor", "Deține trei lacuri balneologice", "Principal centru pentru faianță", "Populație de aproximativ 105.000"],
+      en: ["Founded in 1676 as Tor fortress", "Hosts three balneological lakes", "Key center for earthenware", "Population approx. 105,000"],
+    },
+  },
   {
     id: "ukraine-berdiansk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Berdjansk", hu: "Bergyanszk", ro: "Berdiansk", en: "Berdiansk",
-image: "/poi-images/ukraine-berdiansk-cities-v2.webp"
-},
+    name: { de: "Berdjansk", hu: "Bergyanszk", ro: "Berdiansk", en: "Berdiansk"},
+    image: "/poi-images/ukraine-berdiansk-cities-v2.webp",
     coords: [36.785, 46.7558],
     coordinates: { lat: 46.7558, lng: 36.785 },
     description: {
@@ -924,14 +1239,26 @@ image: "/poi-images/ukraine-berdiansk-cities-v2.webp"
       en: ["Renowned for its therapeutic mud clinics", "Major maritime port on the Sea of Azov", "Founded in the year 1827", "Home to a long sand spit and lighthouse"],
     },
     imageHint: "Berdiansk lighthouse and sea spit",
-    image: "/poi-images/ukraine-berdiansk-cities-v2.webp"},
+    image: "/poi-images/ukraine-berdiansk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Berdjansk ist ein beliebter Kurort und Hafen am Asowschen Meer, berühmt für seine Sandstrände, Schlammbehandlungen und die markante Berdjansk-Nehrung.",
+      hu: "Bergyanszk népszerű üdülőváros és kikötő az Azovi-tenger partján, híres homokos strandjairól, iszapkezeléseiről és a Bergyanszki-homokpadról.",
+      ro: "Berdiansk este o stațiune populară și port la Marea Azov, faimos pentru plajele sale cu nisip, tratamentele cu nămol și grindul Berdiansk.",
+      en: "Berdiansk is a popular resort and port on the Sea of Azov, famous for its sandy beaches, mud treatments, and the distinctive Berdiansk Spit.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1827", "Liegt am Golf von Berdjansk", "Besitzt einen historischen Leuchtturm", "Wichtiges Zentrum für Landmaschinen"],
+      hu: ["Alapítva 1827-ben", "A Bergyanszki-öbölben fekszik", "Történelmi világítótoronnyal rendelkezik", "Fontos mezőgazdasági gépgyártó központ"],
+      ro: ["Fondat în anul 1827", "Situat în golful Berdiansk", "Deține un far istoric", "Centru important de utilaje agricole"],
+      en: ["Founded in 1827", "Located on the Berdiansk Gulf", "Features a historic lighthouse", "Key agricultural machinery center"],
+    },
+  },
   {
     id: "ukraine-sieverodonetsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Sjewjerodonezk", hu: "Szjevjerodoneck", ro: "Severodonețk", en: "Sievierodonetsk",
-image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"
-},
+    name: { de: "Sjewjerodonezk", hu: "Szjevjerodoneck", ro: "Severodonețk", en: "Sievierodonetsk"},
+    image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp",
     coords: [38.4872, 48.9486],
     coordinates: { lat: 48.9486, lng: 38.4872 },
     description: {
@@ -947,14 +1274,26 @@ image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"
       en: ["Home to the massive Azot chemical plant", "A planned industrial city", "Founded in the year 1934", "Served as temporary capital of Luhansk Oblast"],
     },
     imageHint: "Industrial skyline of Sievierodonetsk",
-    image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-sieverodonetsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sjewjerodonezk entwickelte sich im 20. Jahrhundert zu einem der größten Zentren der chemischen Industrie der Ukraine, dominiert durch das Azot-Werk.",
+      hu: "Szjevjerodoneck a 20. században Ukrajna egyik legnagyobb vegyipari központjává fejlődött, amelyet az Azot-gyár dominál.",
+      ro: "Sievierodonețk s-a dezvoltat în secolul XX ca unul dintre cele mai mari centre ale industriei chimice din Ucraina, dominat de uzina Azot.",
+      en: "Sievierodonetsk developed in the 20th century into one of Ukraine's largest chemical industry centers, dominated by the Azot plant.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1934", "Heimat des Chemiegiganten Azot", "Liegt am Fluss Siwerskyj Donez", "Moderner Planstadt-Charakter"],
+      hu: ["Alapítva 1934-ben", "Az Azot vegyipari óriás otthona", "A Sziverszkij-Donyec folyó partján fekszik", "Modern, tervezett városi jelleg"],
+      ro: ["Fondat în anul 1934", "Sediul gigantului chimic Azot", "Situat pe râul Siverski Doneț", "Caracter modern de oraș planificat"],
+      en: ["Founded in 1934", "Home to the Azot chemical giant", "Located on the Siverskyi Donets River", "Modern planned city character"],
+    },
+  },
   {
     id: "ukraine-alchevsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Altschewsk", hu: "Alcsevszk", ro: "Alcevsk", en: "Alchevsk",
-image: "/poi-images/ukraine-alchevsk-cities-v2.webp"
-},
+    name: { de: "Altschewsk", hu: "Alcsevszk", ro: "Alcevsk", en: "Alchevsk"},
+    image: "/poi-images/ukraine-alchevsk-cities-v2.webp",
     coords: [38.7983, 48.4772],
     coordinates: { lat: 48.4772, lng: 38.7983 },
     description: {
@@ -970,14 +1309,26 @@ image: "/poi-images/ukraine-alchevsk-cities-v2.webp"
       en: ["Home to a massive metallurgical combine", "Founded in the year 1895", "Known as Kommunarsk from 1961 to 1991", "Key center for regional heavy industry"],
     },
     imageHint: "Iron and steel works in Alchevsk",
-    image: "/poi-images/ukraine-alchevsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-alchevsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Altschewsk ist eine bedeutende Industriestadt im Donbass, die für ihre massiven Eisen- und Stahlwerke sowie ihre metallurgische Geschichte bekannt ist.",
+      hu: "Alcsevszk a Donyec-medence jelentős ipari városa, amely hatalmas vas- és acélműveiről, valamint kohászati múltjáról ismert.",
+      ro: "Alcevsk este un oraș industrial major din Donbas, cunoscut pentru oțelăriile sale masive și istoria sa metalurgică.",
+      en: "Alchevsk is a major industrial city in the Donbass, known for its massive iron and steel works and metallurgical history.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet 1895 von Alexei Altschewski", "Besitzt ein großes Eisenhüttenkombinat", "Früherer Name war Kommunarsk", "Einwohnerzahl ca. 105.000"],
+      hu: ["Alekszej Alcsevszkij alapította 1895-ben", "Nagy vaskohászati kombináttal rendelkezik", "Korábbi neve Kommunarszk volt", "Lakossága kb. 105 ezer fő"],
+      ro: ["Fondat în 1895 de Aleksei Alcevski", "Deține un mare combinat siderurgic", "Numele anterior a fost Kommunarsk", "Populație de aproximativ 105.000"],
+      en: ["Founded in 1895 by Aleksei Alchevsky", "Hosts a large iron and steel plant", "Former name was Kommunarsk", "Population approx. 105,000"],
+    },
+  },
   {
     id: "ukraine-pavlohrad-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Pawlohrad", hu: "Pavlohrad", ro: "Pavlohrad", en: "Pavlohrad",
-image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"
-},
+    name: { de: "Pawlohrad", hu: "Pavlohrad", ro: "Pavlohrad", en: "Pavlohrad"},
+    image: "/poi-images/ukraine-pavlohrad-cities-v2.webp",
     coords: [35.8703, 48.5244],
     coordinates: { lat: 48.5244, lng: 35.8703 },
     description: {
@@ -993,14 +1344,26 @@ image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"
       en: ["Hub of the Western Donbas coal basin", "Founded in 1779 by the Russian Empire", "Significant center for rocket engine production", "Known for its 19th-century architecture"],
     },
     imageHint: "Pavlohrad coal mines and city skyline",
-    image: "/poi-images/ukraine-pavlohrad-cities-v2.webp"},
+    image: "/poi-images/ukraine-pavlohrad-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pawlohrad ist eine Stadt in der Oblast Dnipropetrowsk in der Ostukraine. Gegründet 1779 als Kosakensiedlung, entwickelte sie sich im 19. Jahrhundert zu einem Zentrum der Kohle- und Maschinenbauindustrie. Die Stadt liegt am Fluss Wowtscha und hat eine reiche Bergbautradition. In der Sowjetzeit wuchs die Bevölkerung stark an, heute leben etwa 100.000 Menschen hier. Pawlohrad ist bekannt für seine chemische Industrie und das Werk zur Herstellung von Eisenbahngüterwagen. Die Stadt wurde mehrfach durch Kriege zerstört, zuletzt im Zweiten Weltkrieg. Kulturell bietet sie ein historisches Museum und mehrere orthodoxe Kirchen. Die Verkehrsanbindung ist gut, da die Stadt an der wichtigen Eisenbahnstrecke Kiew-Donezk liegt.",
+      hu: "Pavlohrad a Dnyipropetrovszki területen, Kelet-Ukrajnában található. 1779-ben kozák településként alapították, a 19. században a szénbányászat és a gépgyártás központjává vált. A város a Vovcsa folyó mentén fekszik, gazdag bányászati hagyományokkal. A szovjet időkben a lakosság jelentősen megnőtt, ma mintegy 100 000 ember él itt. Pavlohrad híres vegyiparáról és vasúti teherkocsikat gyártó üzeméről. A város többször elpusztult a háborúk során, legutóbb a második világháborúban. Kulturális szempontból történeti múzeummal és több ortodox templommal rendelkezik. Közlekedési kapcsolatai jók, mivel a Kijev–Donyeck vasútvonal mentén fekszik.",
+      ro: "Pavlohrad este un oraș în regiunea Dnipropetrovsk, estul Ucrainei. Fondat în 1779 ca o așezare cazacă, s-a dezvoltat în secolul al XIX-lea ca centru al mineritului de cărbune și al construcțiilor de mașini. Orașul este situat pe râul Vovcea și are o tradiție minieră bogată. În perioada sovietică, populația a crescut semnificativ, astăzi trăind aproximativ 100.000 de oameni. Pavlohrad este cunoscut pentru industria chimică și uzina de vagoane de marfă. A fost distrus de mai multe ori în războaie, ultima oară în al Doilea Război Mondial. Cultural, oferă un muzeu istoric și mai multe biserici ortodoxe. Conexiunile de transport sunt bune, orașul fiind situat pe linia feroviară Kiev–Donețk.",
+      en: "Pavlohrad is an industrial city in Dnipropetrovsk Oblast, eastern Ukraine. Founded in 1779 as a Cossack settlement, it grew rapidly with the development of coal mining in the Donbas region. The city lies on the Vovcha River and has a population of around 100,000. Its economy is dominated by machine building, chemical production, and the manufacture of railway freight cars. During World War II, it was occupied by Nazi Germany from 1941 to 1943 and suffered heavy damage. In recent years, the city has faced economic challenges due to the decline of heavy industry. Noteworthy landmarks include the Transfiguration Cathedral and the local history museum. The city is a major railway junction on the line connecting Kyiv with the industrial east.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1779.", "Bevölkerung: ca. 100.000 (2024).", "Höhe über dem Meeresspiegel: 60 Meter.", "Fluss: Wowtscha (Nebenfluss des Dnepr).", "Entfernung zu Dnipro: 75 km.", "Industrie: Maschinenbau, Chemie, Kohle."],
+      hu: ["Alapítás éve: 1779.", "Népesség: kb. 100 000 (2024).", "Tengerszint feletti magasság: 60 méter.", "Folyó: Vovcsa (a Dnyeper mellékfolyója).", "Távolság Dnyiprótól: 75 km.", "Ipar: gépgyártás, vegyipar, szénbányászat."],
+      ro: ["Anul fondării: 1779.", "Populație: aproximativ 100.000 (2024).", "Altitudinea: 60 de metri.", "Râul: Vovcea (afluent al Niprului).", "Distanța față de Dnipro: 75 km.", "Industrie: construcții de mașini, chimie, cărbune."],
+      en: ["Founded: 1779.", "Population: approx. 100,000 (2024).", "Elevation: 60 metres (197 ft).", "River: Vovcha (tributary of Dnieper).", "Distance to Dnipro: 75 km (47 mi).", "Industry: machine building, chemicals, coal."],
+    },
+  },
   {
     id: "ukraine-uzhhorod-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Uschhorod", hu: "Ungvár", ro: "Ujhorod", en: "Uzhhorod",
-image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"
-},
+    name: { de: "Uschhorod", hu: "Ungvár", ro: "Ujhorod", en: "Uzhhorod"},
+    image: "/poi-images/ukraine-uzhhorod-cities-v2.webp",
     coords: [22.2879, 48.6208],
     coordinates: { lat: 48.6208, lng: 22.2879 },
     description: {
@@ -1016,14 +1379,26 @@ image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"
       en: ["Founded in the late 9th century", "Features the longest linden alley in Europe", "Long historical connection with Hungary", "Famous for spectacular cherry blossoms"],
     },
     imageHint: "Uzhhorod Castle and cherry blossom trees",
-    image: "/poi-images/ukraine-uzhhorod-cities-v2.webp"},
+    image: "/poi-images/ukraine-uzhhorod-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Uschhorod liegt im Westen der Ukraine, nahe der slowakischen Grenze, und ist das Verwaltungszentrum der Oblast Transkarpatien. Die Stadt hat eine bewegte Geschichte: Sie war Teil von Ungarn, Österreich-Ungarn, der Tschechoslowakei und der Sowjetunion. Gegründet im 9. Jahrhundert, entwickelte sie sich zu einem multikulturellen Zentrum. Wahrzeichen ist die Burg von Uschhorod, die aus dem 12. Jahrhundert stammt. Die Stadt ist bekannt für ihre Architektur mit ungarischen, slowakischen und ukrainischen Einflüssen. Der Fluss Usch durchfließt die Stadt. Uschhorod beherbergt eine Universität und ist ein wichtiger Verkehrsknotenpunkt. Die Bevölkerungszahl liegt bei etwa 110.000. Die Stadt ist auch für ihr Weinanbaugebiet berühmt.",
+      hu: "Ungvár (Uzhhorod) Ukrajna nyugati részén, a szlovák határ közelében található, Kárpátalja közigazgatási központja. A város története során Magyarország, az Osztrák–Magyar Monarchia, Csehszlovákia és a Szovjetunió része volt. A 9. században alapították, multikulturális központtá fejlődött. Nevezetessége a 12. századi Ungvári vár. A város építészetében magyar, szlovák és ukrán hatások érvényesülnek. Az Ung folyó keresztülfolyik a városon. Ungvár egyetemének és fontos közlekedési csomópontnak ad otthont. Lakossága kb. 110 000. Híres borvidékéről is.",
+      ro: "Ujhorod (Uzhhorod) este situat în vestul Ucrainei, aproape de granița cu Slovacia, fiind centrul administrativ al regiunii Transcarpatia. Orașul are o istorie complexă: a făcut parte din Ungaria, Austro-Ungaria, Cehoslovacia și Uniunea Sovietică. Fondat în secolul al IX-lea, s-a dezvoltat ca un centru multicultural. Punctul său de reper este castelul din Ujhorod, datând din secolul al XII-lea. Arhitectura reflectă influențe maghiare, slovace și ucrainene. Râul Uj străbate orașul. Aici se află o universitate și un important nod de transport. Populația este de aproximativ 110.000 de locuitori. Este renumit și pentru podgoriile sale.",
+      en: "Uzhhorod, the administrative center of Zakarpattia Oblast in western Ukraine, lies near the border with Slovakia. Founded in the 9th century, it has been under Hungarian, Austro-Hungarian, Czechoslovak, and Soviet rule. The city's landmark is the Uzhhorod Castle, a 12th-century fortress that houses a museum of local history. Uzhhorod is known for its diverse architecture, blending Hungarian Secession, Czech Functionalism, and Ukrainian styles. The Uzh River divides the city into two parts. The population is around 110,000. The city has a renowned university and is a gateway to the Carpathian Mountains. It also lies in a wine-producing region, known for its sweet white wines. The city's ethnic composition includes Ukrainians, Hungarians, Slovaks, and Romanians.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 110.000 (2024).", "Gründungsdatum: 9. Jahrhundert (erste Erwähnung 1150).", "Höhe: 120 m über dem Meeresspiegel.", "Fluss: Usch (92 km lang).", "Fläche: 40 km².", "Anzahl der Hochschulen: 6."],
+      hu: ["Népesség: kb. 110 000 (2024).", "Alapítás: 9. század (első említés 1150).", "Tengerszint feletti magasság: 120 m.", "Folyó: Ung (92 km hosszú).", "Terület: 40 km².", "Felsőoktatási intézmények száma: 6."],
+      ro: ["Populație: aproximativ 110.000 (2024).", "Fondare: secolul al IX-lea (prima mențiune 1150).", "Altitudine: 120 m deasupra nivelului mării.", "Râul: Uj (92 km lungime).", "Suprafață: 40 km².", "Numărul universităților: 6."],
+      en: ["Population: approx. 110,000 (2024).", "Founded: 9th century (first mentioned 1150).", "Elevation: 120 m (394 ft) above sea level.", "River: Uzh (92 km long).", "Area: 40 km² (15.4 sq mi).", "Number of higher education institutions: 6."],
+    },
+  },
   {
     id: "ukraine-lysychansk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Lyssytschansk", hu: "Liszicsanszk", ro: "Lisiciansk", en: "Lysychansk",
-image: "/poi-images/ukraine-lysychansk-cities-v2.webp"
-},
+    name: { de: "Lyssytschansk", hu: "Liszicsanszk", ro: "Lisiciansk", en: "Lysychansk"},
+    image: "/poi-images/ukraine-lysychansk-cities-v2.webp",
     coords: [38.4239, 48.9114],
     coordinates: { lat: 48.9114, lng: 38.4239 },
     description: {
@@ -1039,14 +1414,26 @@ image: "/poi-images/ukraine-lysychansk-cities-v2.webp"
       en: ["Site of the first coal mine in Donbas", "Established in 1710", "Significant center for glass and oil refining", "Uniquely located on elevated river hills"],
     },
     imageHint: "Industrial plants in Lysychansk near the river",
-    image: "/poi-images/ukraine-lysychansk-cities-v2.webp"},
+    image: "/poi-images/ukraine-lysychansk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Lyssytschansk liegt in der Oblast Luhansk im Osten der Ukraine und ist eine wichtige Stadt des Donbass-Kohlebeckens. Gegründet 1710 als Siedlung, entwickelte sie sich im 19. Jahrhundert zum Zentrum des Steinkohlebergbaus und der Chemieindustrie. Die Stadt liegt am Ufer des Siwerskyj Donez. Während des Zweiten Weltkriegs war sie von 1942 bis 1943 besetzt. In den letzten Jahren wurde die Stadt durch den Russisch-Ukrainischen Krieg schwer beschädigt. Vor dem Krieg hatte sie etwa 100.000 Einwohner. Die Industrie umfasst Kohlebergbau, Maschinenbau und die Herstellung von Glas. Lyssytschansk ist ein wichtiger Eisenbahnknotenpunkt. Die Stadt hat eine dramatische Bevölkerungsabnahme erlebt.",
+      hu: "Lisicsanszk a Luhanszki területen, Kelet-Ukrajnában található, a Donyec-medence szénbányászati központja. 1710-ben alapították, a 19. században a kőszénbányászat és a vegyipar központja lett. A város a Sziverszkij-Donyec folyó partján fekszik. A második világháború idején 1942–1943-ban megszállták. Az utóbbi években az orosz–ukrán háború súlyosan károsította. A háború előtt lakossága kb. 100 000 fő volt. Ipara szénbányászat, gépgyártás és üveggyártás. Lisicsanszk fontos vasúti csomópont. A város lakossága drámaian csökkent.",
+      ro: "Lîsîceansk (Lysychansk) este un oraș în regiunea Luhansk, estul Ucrainei, centru al bazinului carbonifer Doneț. Fondat în 1710, s-a dezvoltat în secolul al XIX-lea ca centru al mineritului de cărbune și al industriei chimice. Orașul este situat pe malul râului Siverskîi Doneț. În al Doilea Război Mondial a fost ocupat între 1942 și 1943. În ultimii ani, a fost grav avariat de războiul ruso-ucrainean. Înainte de război, populația era de aproximativ 100.000 de locuitori. Industria include minerit de cărbune, construcții de mașini și fabricarea sticlei. Lîsîceansk este un important nod feroviar. Orașul a suferit o scădere dramatică a populației.",
+      en: "Lysychansk is a city in Luhansk Oblast, eastern Ukraine, located on the Siverskyi Donets River. Founded in 1710, it grew into a major coal mining and chemical industrial centre. Its economy historically relied on coal extraction, machinery production, and glass manufacturing. During World War II, it was occupied by Nazi Germany from July 1942 to February 1943 and suffered severe destruction. In the 2022 Russian invasion of Ukraine, Lysychansk came under heavy fighting and was occupied by Russian forces after intense battles. The pre-war population of about 100,000 has dramatically declined due to displacement. The city has been largely destroyed. It is a key railway junction connecting the Donbas region. The name means 'fox' in Ukrainian, reflecting the area's wildlife.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1710.", "Bevölkerung vor dem Krieg: ca. 100.000 (2021).", "Höhe: 70 m über dem Meeresspiegel.", "Fluss: Siwerskyj Donez.", "Industrie: Kohle, Maschinenbau, Chemie.", "Entfernung zu Luhansk: 95 km."],
+      hu: ["Alapítás éve: 1710.", "Háború előtti népesség: kb. 100 000 (2021).", "Tengerszint feletti magasság: 70 méter.", "Folyó: Sziverszkij-Donyec.", "Ipar: szén, gépgyártás, vegyipar.", "Távolság Luhanszktól: 95 km."],
+      ro: ["Anul fondării: 1710.", "Populația de dinainte de război: aproximativ 100.000 (2021).", "Altitudine: 70 m deasupra nivelului mării.", "Râul: Siverskîi Doneț.", "Industrie: cărbune, construcții de mașini, chimie.", "Distanța față de Luhansk: 95 km."],
+      en: ["Founded: 1710.", "Pre-war population: approx. 100,000 (2021).", "Elevation: 70 m (230 ft) above sea level.", "River: Siverskyi Donets.", "Industry: coal, machinery, chemicals.", "Distance to Luhansk: 95 km (59 mi)."],
+    },
+  },
   {
     id: "ukraine-yevpatoria-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Jewpatorija", hu: "Jevpatorija", ro: "Eupatoria", en: "Yevpatoria",
-image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"
-},
+    name: { de: "Jewpatorija", hu: "Jevpatorija", ro: "Eupatoria", en: "Yevpatoria"},
+    image: "/poi-images/ukraine-yevpatoria-cities-v2.webp",
     coords: [33.3681, 45.1939],
     coordinates: { lat: 45.1939, lng: 33.3681 },
     description: {
@@ -1062,14 +1449,26 @@ image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"
       en: ["Founded as Kerkinitis in the 5th century BC", "Renowned center for children's balneotherapy", "Home to the magnificent Juma-Jami Mosque", "Features unique Karaite kenesas"],
     },
     imageHint: "Yevpatoria mosque and old town",
-    image: "/poi-images/ukraine-yevpatoria-cities-v2.webp"},
+    image: "/poi-images/ukraine-yevpatoria-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jewpatorija liegt an der Westküste der Krim, am Schwarzen Meer. Die Stadt wurde vermutlich im 6. Jahrhundert v. Chr. von Griechen gegründet und hieß Kerkinitis. Im 16. Jahrhundert wurde sie eine Festung des Krimkhanats. 1783 wurde die Krim von Russland annektiert. Jewpatorija ist ein bedeutender Kurort mit Sandstränden und Heilstätten. Die Altstadt bewahrt ein mittelalterliches tatarisches Viertel mit Moscheen und osmanischen Bädern. Die Stadt hat eine multikulturelle Geschichte, geprägt von Griechen, Tataren, Russen und Karäern. Heute ist Jewpatorija eine der beliebtesten Touristenziele auf der Krim. Die Bevölkerungszahl liegt bei etwa 110.000. Die Stadt beherbergt mehrere Institute für Balneologie.",
+      hu: "Jevpatorija a Krím nyugati partján, a Fekete-tenger partján fekszik. A várost valószínűleg az i.e. 6. században görögök alapították, eredeti neve Kerkinitis. A 16. században a Krími Kánság erődítménye lett. 1783-ban a Krímet Oroszország annektálta. Jevpatorija jelentős üdülőhely homokos strandokkal és gyógyintézményekkel. Az óváros megőrizte a tatár negyedet mecsetekkel és oszmán fürdőkkel. A város multikulturális múltját görögök, tatárok, oroszok és karaiták formálták. Ma a Krím egyik legnépszerűbb turisztikai célpontja. Lakossága kb. 110 000. Több balneológiai intézetnek ad otthont.",
+      ro: "Evpatoria (Yevpatoria) este situată pe coasta de vest a Crimeei, la Marea Neagră. A fost fondată probabil în secolul al VI-lea î.Hr. de greci, sub numele de Kerkinitis. În secolul al XVI-lea a devenit fortăreață a Hanatului Crimeii. În 1783, Crimeea a fost anexată de Rusia. Evpatoria este o importantă stațiune balneară, cu plaje nisipoase și sanatorii. Orașul vechi păstrează un cartier tătar medieval cu moschei și băi otomane. Orașul are o istorie multiculturală, marcată de greci, tătari, ruși și carați. Astăzi, este una dintre cele mai populare destinații turistice din Crimeea. Populația este de aproximativ 110.000 de locuitori. Orașul găzduiește mai multe institute de balneologie.",
+      en: "Yevpatoria is a resort city on the western coast of Crimea, on the Black Sea. It was founded as Kerkinitis by Greek colonists around the 6th century BC. Later, it became part of the Bosporan Kingdom and then the Roman Empire. In the medieval period, it was controlled by the Crimean Khanate and was known as Gezlev. After Russian annexation in 1783, it was renamed Evpatoria. The city is famous for its sandy beaches, mud baths, and mineral springs. Its Old Town features a mix of Crimean Tatar architecture, including the Juma-Jami Mosque, and Karaite Kenassas. During World War II, it was occupied by German forces. Today, it is a major health resort, attracting millions of visitors annually. The population is around 110,000.",
+    },
+    factsAdvanced: {
+      de: ["Bevölkerung: ca. 110.000 (2024).", "Gründung: 6. Jh. v. Chr. (griechisch).", "Fläche: 65 km².", "Durchschnittstemperatur im Juli: 24 °C.", "Anzahl der Strände: über 20.", "Höhe: 10 m über dem Meeresspiegel."],
+      hu: ["Népesség: kb. 110 000 (2024).", "Alapítás: i.e. 6. század (görög).", "Terület: 65 km².", "Átlagos júliusi hőmérséklet: 24 °C.", "Strandok száma: több mint 20.", "Tengerszint feletti magasság: 10 m."],
+      ro: ["Populație: aproximativ 110.000 (2024).", "Fondare: sec. VI î.Hr. (greacă).", "Suprafață: 65 km².", "Temperatura medie iulie: 24 °C.", "Număr de plaje: peste 20.", "Altitudine: 10 m deasupra nivelului mării."],
+      en: ["Population: approx. 110,000 (2024).", "Founded: 6th century BC (Greek).", "Area: 65 km² (25.1 sq mi).", "Average July temperature: 24 °C (75 °F).", "Number of beaches: over 20.", "Elevation: 10 m (33 ft) above sea level."],
+    },
+  },
   {
     id: "ukraine-yenakiieve-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Jenakijewe", hu: "Jenakijeve", ro: "Enakievo", en: "Yenakiieve",
-image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"
-},
+    name: { de: "Jenakijewe", hu: "Jenakijeve", ro: "Enakievo", en: "Yenakiieve"},
+    image: "/poi-images/ukraine-yenakiieve-cities-v2.webp",
     coords: [38.2053, 48.2211],
     coordinates: { lat: 48.2211, lng: 38.2053 },
     description: {
@@ -1085,14 +1484,26 @@ image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"
       en: ["Founded by engineer Fyodor Yenakiyev", "Home to one of Ukraine's oldest steel plants", "Formally incorporated in 1925", "Key metallurgical hub in the east"],
     },
     imageHint: "Yenakiieve steel plant and industrial area",
-    image: "/poi-images/ukraine-yenakiieve-cities-v2.webp"},
+    image: "/poi-images/ukraine-yenakiieve-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Jenakijewe liegt in der Oblast Donezk in der Ostukraine. Gegründet 1782 als Siedlung, benannt nach dem Industriellen Fjodor Jenakijew. Im 19. Jahrhundert entwickelte sich die Stadt zu einem Zentrum der Kohle- und Stahlindustrie. Hier befindet sich ein großes Hüttenwerk. Die Stadt liegt am Fluss Krynka. Während des Zweiten Weltkriegs war sie besetzt. In den letzten Jahren wurde sie durch den Russisch-Ukrainischen Krieg schwer in Mitleidenschaft gezogen. Vor dem Krieg hatte sie etwa 80.000 Einwohner. Die Industrie umfasst Kokschemie, Maschinenbau und Baustoffe. Jenakijewe ist ein wichtiger Knotenpunkt im Donbass. Die Bevölkerung ist aufgrund der Kämpfe stark zurückgegangen.",
+      hu: "Jenakijeve a Donecki területen, Kelet-Ukrajnában található. 1782-ben alapították, Fjodor Jenakijev iparmágnásról nevezték el. A 19. században a szén- és acélipar központjává vált. Itt található egy nagy kohászati üzem. A város a Krinika folyó mentén fekszik. A második világháború alatt megszállták. Az utóbbi években az orosz–ukrán háború súlyosan érintette. A háború előtt lakossága kb. 80 000 fő volt. Ipara kokszvegyipar, gépgyártás és építőanyagok. Jenakijeve fontos csomópont a Donyec-medencében. A lakosság a harcok miatt jelentősen csökkent.",
+      ro: "Ienakiieve (Yenakiieve) este un oraș în regiunea Donețk, estul Ucrainei. Fondat în 1782 ca așezare, numit după industriașul Fiodor Ienakiev. În secolul al XIX-lea s-a dezvoltat ca centru al industriei cărbunelui și oțelului. Aici se află o mare uzină siderurgică. Orașul este situat pe râul Krînka. În al Doilea Război Mondial a fost ocupat. În ultimii ani, a fost grav afectat de războiul ruso-ucrainean. Înainte de război, populația era de aproximativ 80.000 de locuitori. Industria include cocso-chimie, construcții de mașini și materiale de construcții. Ienakiieve este un nod important în Donbas. Populația a scăzut dramatic din cauza luptelor.",
+      en: "Yenakiieve is a city in Donetsk Oblast, eastern Ukraine, founded in 1782 as a settlement for workers of a local ironworks. It was named after Fyodor Yenakiyev, a Russian industrialist. It grew into a major centre of coal mining and steel production. The city's economy was dominated by the Yenakiieve Iron and Steel Works, one of the largest in the region. The city lies on the Krynka River. During World War II, it was occupied by German forces from October 1941 to September 1943. In the ongoing Russo-Ukrainian war, Yenakiieve has been under the control of the Donetsk People's Republic since 2014 and has experienced significant destruction and depopulation. The pre-war population was about 80,000; current estimates are much lower. The city is also known for its coke-chemical production.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1782.", "Bevölkerung vor dem Krieg: ca. 80.000 (2021).", "Höhe: 100 m über dem Meeresspiegel.", "Fluss: Krynka.", "Industrie: Stahl, Kohle, Kokschemie.", "Entfernung zu Donezk: 50 km."],
+      hu: ["Alapítás éve: 1782.", "Háború előtti népesség: kb. 80 000 (2021).", "Tengerszint feletti magasság: 100 m.", "Folyó: Krinika.", "Ipar: acél, szén, kokszvegyipar.", "Távolság Donecktől: 50 km."],
+      ro: ["Anul fondării: 1782.", "Populația de dinainte de război: aproximativ 80.000 (2021).", "Altitudine: 100 m deasupra nivelului mării.", "Râul: Krînka.", "Industrie: oțel, cărbune, cocso-chimie.", "Distanța față de Donețk: 50 km."],
+      en: ["Founded: 1782.", "Pre-war population: approx. 80,000 (2021).", "Elevation: 100 m (328 ft) above sea level.", "River: Krynka.", "Industry: steel, coal, coke chemicals.", "Distance to Donetsk: 50 km (31 mi)."],
+    },
+  },
   {
     id: "ukraine-kamianets-podilskyi-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kamjanez-Podilskyj", hu: "Kamjanec-Pogyilszkij", ro: "Kameneț-Podolsk", en: "Kamianets-Podilskyi",
-image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"
-},
+    name: { de: "Kamjanez-Podilskyj", hu: "Kamjanec-Pogyilszkij", ro: "Kameneț-Podolsk", en: "Kamianets-Podilskyi"},
+    image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp",
     coords: [26.585, 48.6781],
     coordinates: { lat: 48.6781, lng: 26.585 },
     description: {
@@ -1113,9 +1524,8 @@ image: "/poi-images/ukraine-kamianets-podilskyi-cities-v2.webp"
     id: "ukraine-kostiantynivka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kostjantyniwka", hu: "Kosztyantinyivka", ro: "Kostiantînivka", en: "Kostiantynivka",
-image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"
-},
+    name: { de: "Kostjantyniwka", hu: "Kosztyantinyivka", ro: "Kostiantînivka", en: "Kostiantynivka"},
+    image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp",
     coords: [37.7056, 48.5303],
     coordinates: { lat: 48.5303, lng: 37.7056 },
     description: {
@@ -1131,14 +1541,26 @@ image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"
       en: ["Hub of the Ukrainian glass industry", "Founded in the year 1870", "Key railway transportation junction", "Major center for non-ferrous metallurgy"],
     },
     imageHint: "Industrial area of Kostiantynivka",
-    image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp"},
+    image: "/poi-images/ukraine-kostiantynivka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kostjantyniwka ist eine Stadt in der Oblast Donezk im Osten der Ukraine. Sie wurde 1870 als Arbeitersiedlung an einer Eisenbahnlinie gegründet und nach dem Großfürsten Konstantin benannt. Die Stadt entwickelte sich zu einem Zentrum der Glas- und Metallindustrie. Im 20. Jahrhundert wurden dort große Glasfabriken und Hüttenwerke errichtet. Während des Zweiten Weltkriegs war sie besetzt. In den letzten Jahren wurde Kostjantyniwka durch den Krieg schwer beschädigt. Vor dem Krieg lebten etwa 70.000 Menschen in der Stadt. Die Industrie umfasst heute noch Glasproduktion, Metallverarbeitung und Maschinenbau. Die Stadt liegt am Fluss Krywyj Torez. Die Bevölkerungszahl ist durch den Krieg drastisch gesunken.",
+      hu: "Kosztjantinyivka a Donecki területen, Kelet-Ukrajnában található. 1870-ben alapították munkástelepülésként egy vasútvonal mentén, és Konsztantyin nagyhercegről nevezték el. A város az üveg- és fémipar központjává vált. A 20. században nagy üveggyárak és kohászati üzemek épültek. A második világháború alatt megszállták. Az utóbbi években a háború súlyosan károsította. A háború előtt kb. 70 000 ember élt itt. Az ipar ma is üveggyártást, fémfeldolgozást és gépgyártást foglal magában. A város a Krivij Torec folyó mentén fekszik. A lakosság a háború miatt drámaian csökkent.",
+      ro: "Kostiantînivka este un oraș în regiunea Donețk, estul Ucrainei. A fost fondat în 1870 ca așezare muncitorească de-a lungul unei căi ferate, numită după marele duce Constantin. S-a dezvoltat ca centru al industriei sticlei și metalelor. În secolul al XX-lea, au fost construite fabrici mari de sticlă și uzine siderurgice. În al Doilea Război Mondial a fost ocupat. În ultimii ani, Kostiantînivka a fost grav avariată de război. Înainte de război, populația era de aproximativ 70.000 de locuitori. Industria include în continuare producția de sticlă, prelucrarea metalelor și construcții de mașini. Orașul este situat pe râul Krîvîi Toreț. Populația a scăzut dramatic din cauza războiului.",
+      en: "Kostiantynivka is a city in Donetsk Oblast, eastern Ukraine, founded in 1870 as a railway settlement named after Grand Prince Konstantin. It became a major industrial centre, especially for glass manufacturing, with the Kostiantynivka Glass Works being one of the largest in the USSR. The city also had a large steel plant and a machinery factory. During World War II, it was occupied by German forces from 1941 to 1943 and heavily destroyed. In the current Russo-Ukrainian war, Kostiantynivka has been on the front line, suffering extensive damage and depopulation. The pre-war population of about 70,000 has dropped significantly. The city lies on the Kryvyi Torets River. It remains a key railway hub despite the destruction.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1870.", "Bevölkerung vor dem Krieg: ca. 70.000 (2021).", "Höhe: 150 m über dem Meeresspiegel.", "Fluss: Krywyj Torez.", "Industrie: Glas, Metall, Maschinenbau.", "Entfernung zu Donezk: 70 km."],
+      hu: ["Alapítás éve: 1870.", "Háború előtti népesség: kb. 70 000 (2021).", "Tengerszint feletti magasság: 150 m.", "Folyó: Krivij Torec.", "Ipar: üveg, fém, gépgyártás.", "Távolság Donecktől: 70 km."],
+      ro: ["Anul fondării: 1870.", "Populația de dinainte de război: aproximativ 70.000 (2021).", "Altitudine: 150 m deasupra nivelului mării.", "Râul: Krîvîi Toreț.", "Industrie: sticlă, metal, mașini.", "Distanța față de Donețk: 70 km."],
+      en: ["Founded: 1870.", "Pre-war population: approx. 70,000 (2021).", "Elevation: 150 m (492 ft) above sea level.", "River: Kryvyi Torets.", "Industry: glass, metal, machinery.", "Distance to Donetsk: 70 km (43 mi)."],
+    },
+  },
   {
     id: "ukraine-krasnyi-luch-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Chrustalnyj", hu: "Hrusztalnij", ro: "Hrustalnîi", en: "Khrustalnyi",
-image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"
-},
+    name: { de: "Chrustalnyj", hu: "Hrusztalnij", ro: "Hrustalnîi", en: "Khrustalnyi"},
+    image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp",
     coords: [38.9372, 48.1386],
     coordinates: { lat: 48.1386, lng: 38.9372 },
     description: {
@@ -1154,14 +1576,26 @@ image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"
       en: ["Significant center for anthracite coal mining", "Founded in the year 1895", "Renamed to Khrustalnyi in 2016", "Economic pillar of the Luhansk region"],
     },
     imageHint: "Coal mines near Khrustalnyi",
-    image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp"},
+    image: "/poi-images/ukraine-krasnyi-luch-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Krasnyj Lutsch (offiziell 2016 umbenannt in Chrustalnyj) liegt in der Oblast Luhansk im Osten der Ukraine. Die Stadt wurde 1895 als Bergbausiedlung gegründet und wuchs im 20. Jahrhundert zu einem wichtigen Zentrum der Kohleförderung heran. Sie liegt im Donezbecken. Während des Zweiten Weltkriegs war sie besetzt. Seit 2014 ist die Stadt unter Kontrolle der prorussischen Separatisten. Die Kohlevorkommen sind weitgehend erschöpft. Vor dem Krieg hatte sie etwa 80.000 Einwohner. Die Infrastruktur ist stark heruntergekommen. Chrustalnyj leidet unter wirtschaftlichem Niedergang. Die Stadt ist nach dem Edelstein Bergkristall benannt.",
+      hu: "Krasznij Luh (2016-ban hivatalosan Hrusztalnijra nevezték át) a Luhanszki területen, Kelet-Ukrajnában található. 1895-ben bányásztelepülésként alapították, a 20. században a széntermelés fontos központja lett. A Donyec-medencében fekszik. A második világháború alatt megszállták. 2014 óta az oroszbarát szeparatisták ellenőrzése alatt áll. A szénkészletek nagyrészt kimerültek. A háború előtt kb. 80 000 lakosa volt. Az infrastruktúra erősen leromlott. Hrusztalnij gazdasági hanyatlástól szenved. A város a hegyikristályról kapta a nevét.",
+      ro: "Krasnîi Luh (redenumit oficial Hrustalnîi în 2016) este un oraș în regiunea Luhansk, estul Ucrainei. A fost fondat în 1895 ca așezare minieră, devenind în secolul al XX-lea un centru important al producției de cărbune. Este situat în bazinul Doneț. În al Doilea Război Mondial a fost ocupat. Din 2014, orașul se află sub controlul separatiștilor proruși. Rezervele de cărbune sunt în mare parte epuizate. Înainte de război, populația era de aproximativ 80.000 de locuitori. Infrastructura este puternic degradată. Hrustalnîi suferă de declin economic. Numele provine de la cristalul de rocă.",
+      en: "Krasnyi Luch (officially renamed Khrustalnyi in 2016) is a city in Luhansk Oblast, eastern Ukraine. Founded in 1895 as a mining settlement, it grew into a significant coal-mining centre in the Donbas. The city's name means 'red ray' in Russian, but was changed to 'crystal' due to decommunization laws. During World War II, it was occupied by German forces from 1941 to 1943. Since 2014, it has been controlled by the Luhansk People's Republic. The coal reserves are mostly depleted, leading to economic decline. The pre-war population of around 80,000 has decreased due to conflict and emigration. The city is located on the Mius River. It is a railway junction on the Debaltseve line.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1895.", "Bevölkerung vor dem Krieg: ca. 80.000 (2021).", "Höhe: 180 m über dem Meeresspiegel.", "Fluss: Mius.", "Kohleförderung: Spitzenproduktion 1960er Jahre.", "Umbenennung: 2016 in Chrustalnyj."],
+      hu: ["Alapítás éve: 1895.", "Háború előtti népesség: kb. 80 000 (2021).", "Tengerszint feletti magasság: 180 m.", "Folyó: Miusz.", "Széntermelés: csúcs az 1960-as években.", "Átnevezés: 2016-ban Hrusztalnijra."],
+      ro: ["Anul fondării: 1895.", "Populația de dinainte de război: aproximativ 80.000 (2021).", "Altitudine: 180 m deasupra nivelului mării.", "Râul: Mius.", "Producția de cărbune: vârf în anii 1960.", "Redenumire: 2016 în Hrustalnîi."],
+      en: ["Founded: 1895.", "Pre-war population: approx. 80,000 (2021).", "Elevation: 180 m (591 ft) above sea level.", "River: Mius.", "Coal production peaked in 1960s.", "Renamed: 2016 to Khrustalnyi."],
+    },
+  },
   {
     id: "ukraine-oleksandriia-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Oleksandrija", hu: "Olekszandrija", ro: "Oleksandria", en: "Oleksandriia",
-image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"
-},
+    name: { de: "Oleksandrija", hu: "Olekszandrija", ro: "Oleksandria", en: "Oleksandriia"},
+    image: "/poi-images/ukraine-oleksandriia-cities-v2.webp",
     coords: [33.1111, 48.6692],
     coordinates: { lat: 48.6692, lng: 33.1111 },
     description: {
@@ -1182,9 +1616,8 @@ image: "/poi-images/ukraine-oleksandriia-cities-v2.webp"
     id: "ukraine-konotop-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Konotop", hu: "Konotop", ro: "Konotop", en: "Konotop",
-image: "/poi-images/ukraine-konotop-cities-v2.webp"
-},
+    name: { de: "Konotop", hu: "Konotop", ro: "Konotop", en: "Konotop"},
+    image: "/poi-images/ukraine-konotop-cities-v2.webp",
     coords: [33.2047, 51.2411],
     coordinates: { lat: 51.2411, lng: 33.2047 },
     description: {
@@ -1205,9 +1638,8 @@ image: "/poi-images/ukraine-konotop-cities-v2.webp"
     id: "ukraine-kadiivka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kadijiwka", hu: "Kagyiivka", ro: "Kadiivka", en: "Kadiivka",
-image: "/poi-images/ukraine-kadiivka-cities-v2.webp"
-},
+    name: { de: "Kadijiwka", hu: "Kagyiivka", ro: "Kadiivka", en: "Kadiivka"},
+    image: "/poi-images/ukraine-kadiivka-cities-v2.webp",
     coords: [38.6517, 48.5678],
     coordinates: { lat: 48.5678, lng: 38.6517 },
     description: {
@@ -1223,14 +1655,26 @@ image: "/poi-images/ukraine-kadiivka-cities-v2.webp"
       en: ["Birthplace of the Stakhanovite movement", "Founded in the year 1898", "Center for railcar manufacturing", "Officially renamed back to Kadiivka in 2016"],
     },
     imageHint: "Mining industry buildings in Kadiivka",
-    image: "/poi-images/ukraine-kadiivka-cities-v2.webp"},
+    image: "/poi-images/ukraine-kadiivka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kadiivka (früher Stachanow) ist eine Stadt in der Oblast Luhansk im Osten der Ukraine. Die Stadt entstand in den 1820er Jahren als kleine Siedlung und erlebte im 20. Jahrhundert ein rasches Wachstum durch den Kohlebergbau im Donezbecken. Während der Sowjetzeit war Kadiivka ein wichtiges Zentrum des Steinkohleabbaus und der Schwerindustrie, mit mehreren Bergwerken und einer Kokerei. Die Bevölkerungszahl erreichte in den 1970er Jahren etwa 100.000 Einwohner, ist aber durch wirtschaftliche Umstrukturierung und Konflikte stark gesunken. Seit 2014 untersteht die Stadt de facto der Kontrolle der selbsternannten Volksrepublik Lugansk. Die Infrastruktur wurde durch den Krieg stark beschädigt. Kadiivka liegt strategisch an der Bahnstrecke Debalzewe-Millerowo. Die Stadt ist von landwirtschaftlich genutzten Steppen umgeben. Trotz der industriellen Vergangenheit sind viele Betriebe stillgelegt oder arbeiten stark reduziert. Das Klima ist kontinental mit heißen Sommern und kalten Wintern.",
+      hu: "Kadiivka (korábban Sztahanov) város a kelet-ukrajnai Luhanszki területen. Az 1820-as években alapították, és a 20. században a szénbányászatnak köszönhetően gyorsan növekedett. A szovjet korszakban a Donyec-medence egyik fontos ipari központja volt, szénbányákkal, kokszolóművel és gépipari üzemekkel. Lakossága az 1970-es években elérte a 100 000 főt, de a gazdasági hanyatlás és a 2014 óta tartó konfliktus miatt drasztikusan csökkent. A város jelenleg orosz ellenőrzés alatt áll. Kadiivka vasúti csomópont, fontos a szállítási útvonalak szempontjából. A település területén több szénmedence található, de a kitermelés visszaesett. Az épített örökség között szovjet stílusú lakótelepek és ipari létesítmények szerepelnek. A város környéke sztyeppei táj, mezőgazdasági termeléssel.",
+      ro: "Kadiivka (fostul Stahanov) este un oraș în regiunea Luhansk din estul Ucrainei. Fondat în anii 1820, orașul s-a dezvoltat rapid în secolul XX datorită mineritului de cărbune din bazinul Doneț. În perioada sovietică, Kadiivka a fost un centru industrial major, cu mine de cărbune, o cocserie și fabrici de utilaje. Populația a atins un vârf de circa 100.000 de locuitori în anii 1970, dar a scăzut semnificativ din cauza declinului economic și a conflictului armat. Din 2014, orașul se află sub controlul autoproclamatei Republici Populare Lugansk. Infrastructura a fost grav afectată de război. Kadiivka este un nod feroviar important pe linia Debalțeve-Millerovo. Clima este continentală, cu veri calde și ierni reci. Economia locală se bazează în principal pe industria extractivă și pe sectorul serviciilor.",
+      en: "Kadiivka, formerly known as Stakhanov, is a city in Luhansk Oblast, eastern Ukraine. Founded in the 1820s, it grew rapidly in the 20th century as a coal mining hub in the Donbas region. During Soviet times, the city housed several coal mines, a coking plant, and machinery factories, making it a major industrial center. Its population peaked at around 100,000 in the 1970s but has since declined due to economic restructuring and the conflict that began in 2014. Kadiivka is currently under de facto control of the Luhansk People's Republic. The city lies on the railway line connecting Debaltseve and Millerovo, facilitating transport of coal and goods. The surrounding landscape is predominantly steppe, used for agriculture. The war has caused significant damage to housing and infrastructure. Many industrial enterprises are now idle or operating at reduced capacity.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1825 erstmals urkundlich erwähnt.", "Die Einwohnerzahl betrug 2020 etwa 75.000.", "Die höchste Bevölkerungszahl wurde 1977 mit 108.000 erreicht.", "Kadiivka liegt auf einer Höhe von etwa 200 m über dem Meeresspiegel.", "Das Bergwerk ‚Kadiivskaya' förderte zeitweise 1,5 Millionen Tonnen Kohle pro Jahr.", "Die Kokerei Kadiivka wurde 1932 in Betrieb genommen."],
+      hu: ["Kadiivka 1962-ig a Sztahanov nevet viselte.", "A város területe 91 km².", "A 2021-es becslés szerint a lakosság 72 000 fő volt.", "A legközelebbi nagyobb város Alchevsk, 15 km-re északra.", "A vasútállomás 1878-ban épült.", "A városban 3 szénbánya működött a szovjet időkben."],
+      ro: ["Orașul a fost fondat în 1825.", "Suprafața localității este de 91 km².", "Populația estimată în 2021 era de 72.000 de locuitori.", "Cea mai apropiată gară feroviară este Kadiivka, deschisă în 1878.", "În perioada sovietică, orașul producea anual peste 2 milioane de tone de cărbune.", "Altitudinea medie a orașului este de 200 m."],
+      en: ["Kadiivka was first mentioned in historical records in 1825.", "The city covers an area of 91 square kilometers.", "As of 2021, the estimated population was 72,000.", "The highest population recorded was 108,000 in 1977.", "Kadiivka is located at an elevation of 200 meters above sea level.", "The Kadiivka coking plant was opened in 1932."],
+    },
+  },
   {
     id: "ukraine-uman-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Uman", hu: "Umany", ro: "Uman", en: "Uman",
-image: "/poi-images/ukraine-uman-cities-v2.webp"
-},
+    name: { de: "Uman", hu: "Umany", ro: "Uman", en: "Uman"},
+    image: "/poi-images/ukraine-uman-cities-v2.webp",
     coords: [30.2222, 48.7511],
     coordinates: { lat: 48.7511, lng: 30.2222 },
     description: {
@@ -1246,14 +1690,26 @@ image: "/poi-images/ukraine-uman-cities-v2.webp"
       en: ["Burial site of Rebbe Nachman of Breslov", "First mentioned in the year 1616", "Hosts over 30,000 pilgrims annually", "Home to the historic Sofiyivka Park"],
     },
     imageHint: "Sofiyivka Park in Uman and Jewish quarter",
-    image: "/poi-images/ukraine-uman-cities-v2.webp"},
+    image: "/poi-images/ukraine-uman-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Uman ist eine Stadt in der Oblast Tscherkassy in der zentralen Ukraine. Sie wurde 1616 gegründet und entwickelte sich zu einem wichtigen Handels- und Kulturzentrum. Bekannt ist Uman vor allem für den Sofijiwka-Park, einen dendrologischen Park aus dem 19. Jahrhundert, der zu den schönsten Landschaftsparks Europas zählt. Die Stadt war ein Zentrum der jüdischen Kultur, insbesondere als Wallfahrtsort für Breslow-Chassiden, die jährlich zum Grab von Rabbi Nachman kommen. Uman liegt am Fluss Umanka und hat eine vielfältige Wirtschaft mit Maschinenbau, Lebensmittelverarbeitung und Leichtindustrie. Während des Zweiten Weltkriegs wurde die Stadt von deutschen Truppen besetzt und erlitt schwere Zerstörungen. Heute ist Uman ein bedeutendes Touristenziel mit zahlreichen historischen Gebäuden, darunter die Basilianerkirche und das Rathaus. Die Bevölkerung beträgt etwa 85.000 (2021).",
+      hu: "Uman város a közép-ukrajnai Cserkaszi területen. 1616-ban alapították, és a 18-19. században fontos kereskedelmi központtá vált. A város leghíresebb látnivalója a Szofijivka park, egy 1796-ban alapított angol tájpark, amely romantikus építményeiről és tavairól ismert. Uman a zsidó kultúra egyik központja volt, és ma is zarándokhely: minden évben több ezer breszli haszid érkezik Rabbi Nachman sírjához. A város gazdaságát a gépgyártás, az élelmiszeripar és a turizmus jellemzi. A második világháborúban súlyos károkat szenvedett. Nevezetes épületei közé tartozik a Szent Bazil-templom és a városháza. Uman a Törökország felé vezető egykori kereskedelmi útvonalak mentén fekszik. Lakossága 2021-ben körülbelül 85 000 fő.",
+      ro: "Uman este un oraș în regiunea Cerkasî, Ucraina centrală. Fondat în 1616, a devenit un important centru comercial și cultural. Este renumit pentru Parcul Sofiyivka, un parc dendrologic întins pe 180 de hectare, creat la sfârșitul secolului al XVIII-lea. Uman a fost un centru major al culturii evreiești, fiind locul de pelerinaj anual al hasidimilor Breslov la mormântul rabinului Nahman. Orașul este situat pe râul Umanka. Economia locală include construcții de mașini, industria alimentară și turismul. În timpul celui de-al Doilea Război Mondial, Uman a fost ocupată de Germania și a suferit distrugeri grave. Printre monumentele istorice se numără Biserica Sfântul Vasile și primăria. Populația era de aproximativ 85.000 de locuitori în 2021.",
+      en: "Uman is a city in Cherkasy Oblast, central Ukraine. Founded in 1616, it grew as a trade center due to its location on the Umanka River. The city is famous for the Sofiyivka Park, a 180-hectare English-style landscape park established in 1796, featuring ponds, waterfalls, and classical sculptures. Uman holds great significance for the Breslov Hasidic community, as the tomb of Rabbi Nachman of Breslov is located there, attracting thousands of pilgrims annually, especially during Rosh Hashanah. The city's economy includes machinery manufacturing, food processing, and tourism. During World War II, Uman was occupied by Nazi Germany and was the site of the Uman massacre in 1941. Notable landmarks include the Basilian Monastery and the city hall. The population is about 85,000 (2021).",
+    },
+    factsAdvanced: {
+      de: ["Die Stadt wurde 1616 gegründet.", "Der Sofijiwka-Park erstreckt sich über 180 Hektar.", "Die Einwohnerzahl beträgt etwa 85.000 (2021).", "Der Park wurde 1796 von Graf Stanisław Szczęsny Potocki angelegt.", "Uman liegt am Fluss Umanka, etwa 80 km südwestlich von Tscherkassy.", "Die maximale Temperatur im Sommer beträgt durchschnittlich 24 °C."],
+      hu: ["Uman területe 41 km².", "A Sophijivka parkot 1796 és 1802 között építették.", "A város tengerszint feletti magassága 166 m.", "Évente több mint 30 000 zarándok látogat Rabbi Nachman sírjához.", "A legrégebbi épület a Szent Bazil-templom, 1740-ből.", "Uman 1941. július 30-án került német megszállás alá."],
+      ro: ["Parcul Sofiyivka a fost fondat în 1796.", "Suprafața parcului este de 180 ha.", "Orașul a fost menționat pentru prima dată în 1616.", "Populația estimată în 2021: 85.000 locuitori.", "Râul Umanka are o lungime de 42 km.", "Pelerinajul anual atrage peste 30.000 de vizitatori."],
+      en: ["Uman was founded in 1616.", "The Sofiyivka Park covers 180 hectares.", "Population: approximately 85,000 (2021).", "The park was designed by Ludwik Metzel in 1796.", "Uman is located on the Umanka River, a tributary of the Southern Bug.", "The average annual temperature is 8.5 °C."],
+    },
+  },
   {
     id: "ukraine-berdychiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Berdytschiw", hu: "Bergyicsiv", ro: "Berdicev", en: "Berdychiv",
-image: "/poi-images/ukraine-berdychiv-cities-v2.webp"
-},
+    name: { de: "Berdytschiw", hu: "Bergyicsiv", ro: "Berdicev", en: "Berdychiv"},
+    image: "/poi-images/ukraine-berdychiv-cities-v2.webp",
     coords: [28.5833, 49.8961],
     coordinates: { lat: 49.8961, lng: 28.5833 },
     description: {
@@ -1269,14 +1725,26 @@ image: "/poi-images/ukraine-berdychiv-cities-v2.webp"
       en: ["Once known as the 'Jerusalem of Volhynia'", "First mentioned in the year 1430", "Honoré de Balzac married here in 1850", "Home to the Monastery of Discalced Carmelites"],
     },
     imageHint: "Fortified Carmelite monastery in Berdychiv",
-    image: "/poi-images/ukraine-berdychiv-cities-v2.webp"},
+    image: "/poi-images/ukraine-berdychiv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Berdychiv ist eine Stadt in der Oblast Schytomyr im Nordwesten der Ukraine. Die erste schriftliche Erwähnung stammt aus dem Jahr 1430. Im 18. und 19. Jahrhundert entwickelte sich Berdychiv zu einem bedeutenden Handels- und Finanzzentrum, insbesondere durch die jüdische Gemeinde, die zeitweise über 80% der Bevölkerung ausmachte. Die Stadt war bekannt für ihre großen Messen und die Karmeliterkirche, die zu den schönsten Barockkirchen der Ukraine zählt. Berdychiv ist auch als Geburtsort des Schriftstellers Joseph Conrad bekannt. Während des Zweiten Weltkriegs wurde die jüdische Bevölkerung nahezu vollständig ausgelöscht. Heute ist die Wirtschaft von Maschinenbau, Lebensmittelindustrie und Bekleidungsherstellung geprägt. Die Bevölkerungszahl ist von über 100.000 im Jahr 1989 auf etwa 75.000 (2021) gesunken. Die Stadt liegt am Fluss Hnylopjat.",
+      hu: "Berdicsiv (Berdychiv) város a nyugat-ukrajnai Zsitomiri területen. Első írásos említése 1430-ból származik. A 18-19. században a lengyel nemesség és a zsidó közösség révén fontos kereskedelmi központ volt. A városban volt az egyik legnagyobb vásár Ukrajnában. Nevezetes épülete a Karmelita kolostor és templom, a barokk építészet kiemelkedő példája. Berdicsiv szülötte Joseph Conrad író. A második világháború alatt a német megszállás és a holokauszt súlyos veszteségeket okozott. A város gazdasága gépgyártásra, élelmiszeriparra és textilgyártásra épül. Lakossága 2021-ben mintegy 75 000 fő. A város a Hnyilopjaty folyó partján fekszik, a főbb közlekedési útvonalak mentén.",
+      ro: "Berdychiv este un oraș în regiunea Jîtomîr, nord-vestul Ucrainei. Prima atestare documentară datează din 1430. În secolele XVIII-XIX, a devenit un important centru comercial și financiar, datorită comunității evreiești care reprezenta majoritatea populației. Berdychiv a fost cunoscut pentru târgurile sale anuale și pentru Biserica Carmelită, un exemplu remarcabil de arhitectură barocă. Orașul este locul de naștere al scriitorului Joseph Conrad. În timpul celui de-al Doilea Război Mondial, populația evreiască a fost aproape complet exterminată. Economia actuală se bazează pe construcții de mașini, industria alimentară și confecții. Populația a scăzut de la peste 100.000 în 1989 la aproximativ 75.000 în 2021. Orașul este situat pe râul Hnylopiat.",
+      en: "Berdychiv is a city in Zhytomyr Oblast, northwestern Ukraine. First mentioned in 1430, it grew as a major trade and financial center in the 18th and 19th centuries, largely due to its large Jewish population, which once constituted over 80% of the city's inhabitants. The city hosted one of the largest fairs in the region. Notable landmarks include the Carmelite Church, a fine example of Baroque architecture, and the Berdychiv Fortress. Joseph Conrad, the renowned Polish-British writer, was born here in 1857. During World War II, the German occupation led to the near-total destruction of the Jewish community. The modern economy includes machine building, food processing, and textile production. The city's population declined from 105,000 in 1989 to around 75,000 in 2021.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung 1430.", "Die Karmeliterkirche wurde 1754 fertiggestellt.", "Einwohner 2021: ca. 75.000.", "Joseph Conrad wurde am 3. Dezember 1857 in Berdychiv geboren.", "Die Stadt liegt am Fluss Hnylopjat, 42 km südwestlich von Schytomyr.", "Im 19. Jahrhundert war Berdychiv der zweitgrößte Markt in der Ukraine nach Kiew."],
+      hu: ["A város területe 34 km².", "A Karmelita templom barokk stílusú, 1740-1754 között épült.", "Lakosság 1989-ben 105 000 fő volt.", "Berdicsiv 1793-ig a Lengyel–Litván Unió része volt.", "A vasútállomást 1896-ban nyitották meg.", "A városban 25 műemléképület található."],
+      ro: ["Prima mențiune documentară: 1430.", "Biserica Carmelită a fost construită între 1740 și 1754.", "Populația în 2021: 75.000 locuitori.", "Joseph Conrad s-a născut aici în 1857.", "Orașul este situat la 42 km de Jîtomîr.", "Târgul anual atrăgea peste 30.000 de comercianți în secolul XIX."],
+      en: ["Berdychiv was first mentioned in 1430.", "The Carmelite Church was built between 1740 and 1754.", "Population in 2021: approximately 75,000.", "Joseph Conrad was born in Berdychiv on December 3, 1857.", "The city is located on the Hnylopiat River, a tributary of the Teteriv.", "Berdychiv's population peaked at 105,000 in 1989."],
+    },
+  },
   {
     id: "ukraine-shostka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schostka", hu: "Szosztka", ro: "Șostka", en: "Shostka",
-image: "/poi-images/ukraine-shostka-cities-v2.webp"
-},
+    name: { de: "Schostka", hu: "Szosztka", ro: "Șostka", en: "Shostka"},
+    image: "/poi-images/ukraine-shostka-cities-v2.webp",
     coords: [33.4864, 51.8617],
     coordinates: { lat: 51.8617, lng: 33.4864 },
     description: {
@@ -1292,14 +1760,26 @@ image: "/poi-images/ukraine-shostka-cities-v2.webp"
       en: ["Former home of the Svema film factory", "Founded in the early 18th century", "Major center for the defense industry", "Famous for its dairy and cheese production"],
     },
     imageHint: "Industrial plants in Shostka",
-    image: "/poi-images/ukraine-shostka-cities-v2.webp"},
+    image: "/poi-images/ukraine-shostka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Shostka ist eine Stadt in der Oblast Sumy im Nordosten der Ukraine. Sie wurde im 18. Jahrhundert gegründet und entwickelte sich zu einem Zentrum der chemischen Industrie, insbesondere durch die Produktion von Fotofilmen und -materialien. Die Stadt beherbergte das Swema-Werk, das zu den größten Filmherstellern der Sowjetunion gehörte. Shostka liegt am Fluss Shostka, einem Nebenfluss der Desna. Die Wirtschaft ist nach wie vor von der chemischen Industrie geprägt, aber auch von Maschinenbau und Lebensmittelverarbeitung. Während des Zweiten Weltkriegs war die Stadt von 1941 bis 1943 besetzt. Die Bevölkerungszahl ist seit dem Zusammenbruch der Sowjetunion von über 90.000 auf etwa 75.000 (2021) gesunken. Die Stadt verfügt über mehrere Bildungseinrichtungen, darunter eine technische Hochschule. Die Umgebung ist von Wäldern und landwirtschaftlichen Flächen geprägt.",
+      hu: "Sosztka (Shostka) város az északkelet-ukrajnai Szumi területen. A 18. században alapították, és a szovjet korszakban a fotófilmgyártás egyik központja lett. A Swema gyár a Szovjetunió legnagyobb filmgyártói közé tartozott. A város a Sosztka folyó partján fekszik. Gazdasága ma is a vegyiparra épül, emellett gépgyártás és élelmiszeripar is jelen van. A második világháborúban 1941 és 1943 között német megszállás alatt volt. A lakosság száma a rendszerváltás után csökkent, 2021-ben kb. 75 000 fő. A városban található egy műszaki főiskola. A környező táj erdős és mezőgazdasági területekből áll.",
+      ro: "Șostka este un oraș în regiunea Sumî, nord-estul Ucrainei. Fondat în secolul al XVIII-lea, a devenit un centru al industriei chimice, în special producția de filme fotografice prin fabrica Svema. Orașul este situat pe râul Șostka, afluent al Desnei. Economia include industria chimică, construcții de mașini și procesarea alimentelor. În timpul celui de-al Doilea Război Mondial, a fost ocupat de Germania între 1941 și 1943. Populația a scăzut de la peste 90.000 în 1989 la aproximativ 75.000 în 2021. Orașul are o instituție de învățământ tehnic. Peisajul este format din păduri și terenuri agricole.",
+      en: "Shostka is a city in Sumy Oblast, northeastern Ukraine. Founded in the 18th century, it grew into a major center for the chemical industry, particularly known for the Svema plant, which produced photographic film and materials for the Soviet Union. The city lies on the Shostka River, a tributary of the Desna. The economy still relies on chemical production, along with machinery and food processing. During World War II, Shostka was under German occupation from 1941 to 1943. The population declined from 90,000 in 1989 to about 75,000 in 2021. The city is home to a technical college. The surrounding area is forested and agricultural.",
+    },
+    factsAdvanced: {
+      de: ["Shostka wurde 1739 gegründet.", "Die Stadtfläche beträgt 36 km².", "Das Swema-Werk wurde 1931 in Betrieb genommen.", "Einwohner 2021: ca. 75.000.", "Die maximale Tagesproduktion von Filmmaterial betrug 10.000 Meter.", "Shostka liegt 90 km nordöstlich von Sumy."],
+      hu: ["Sosztka területe 36 km².", "A Swema gyár 1994-ben leállította a filmgyártást.", "A város tengerszint feletti magassága 155 m.", "A lakosság 1989-ben 90 000 fő volt.", "A Sosztka folyó hossza 29 km.", "A városban 6 iskola működik."],
+      ro: ["Orașul a fost fondat în 1739.", "Suprafața localității: 36 km².", "Fabrica Svema a fost deschisă în 1931.", "Populația în 2021: 75.000 locuitori.", "Altitudinea: 155 m deasupra nivelului mării.", "Șostka se află la 90 km de Sumî."],
+      en: ["Shostka was founded in 1739.", "The city covers an area of 36 square kilometers.", "The Svema plant started production in 1931.", "Population in 2021: approximately 75,000.", "Shostka is located at an elevation of 155 meters.", "The Shostka River is 29 kilometers long."],
+    },
+  },
   {
     id: "ukraine-brovary-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Browary", hu: "Brovari", ro: "Brovarî", en: "Brovary",
-image: "/poi-images/ukraine-brovary-cities-v2.webp"
-},
+    name: { de: "Browary", hu: "Brovari", ro: "Brovarî", en: "Brovary"},
+    image: "/poi-images/ukraine-brovary-cities-v2.webp",
     coords: [30.7917, 50.5108],
     coordinates: { lat: 50.5108, lng: 30.7917 },
     description: {
@@ -1315,14 +1795,26 @@ image: "/poi-images/ukraine-brovary-cities-v2.webp"
       en: ["Major training center for Olympic athletes", "Founded in the year 1630", "Hub for food processing and logistics", "Located just east of the capital Kyiv"],
     },
     imageHint: "Brovary city center and modern apartments",
-    image: "/poi-images/ukraine-brovary-cities-v2.webp"},
+    image: "/poi-images/ukraine-brovary-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Brovary ist eine Stadt in der Oblast Kiew in der nördlichen Ukraine. Sie wurde 1630 erstmals erwähnt und entwickelte sich von einem kleinen Dorf zu einer wichtigen Vorstadt von Kiew. Die Stadt liegt etwa 20 km nordöstlich der Hauptstadt und ist ein bedeutender Verkehrsknotenpunkt mit der Bahnstrecke Kiew-Tschernihiw und der Autobahn M01. Brovary ist bekannt für seine Industrie, insbesondere den Maschinenbau, die chemische Industrie und die Metallverarbeitung. Während des Zweiten Weltkriegs war die Stadt von 1941 bis 1943 besetzt. Nach dem Krieg erlebte sie ein schnelles Bevölkerungswachstum, von etwa 30.000 im Jahr 1959 auf über 100.000 im Jahr 2021. Die Stadt hat mehrere Parks und Grünflächen. Brovary ist auch für sein Eishockeyteam bekannt, den HK Brovary. Die Bevölkerungszusammensetzung ist überwiegend ukrainisch, mit einer kleinen russischen Minderheit.",
+      hu: "Brovari (Brovary) város a Kijevi terület északi részén, Ukrajnában. Először 1630-ban említik. A 20. században Kijev elővárosává nőtte ki magát, mintegy 20 km-re északkeletre a fővárostól. Fontos közlekedési csomópont: vasútvonal és autópálya is érinti. Gazdaságát a gépgyártás, a vegyipar és a fémfeldolgozás jellemzi. A második világháborúban 1941-1943 között német megszállás alatt volt. A lakosság az 1959-es 30 000-ről 2021-re 100 000 fölé nőtt. A városban több park található, és ismert a jégkorongcsapatáról is. Brovari lakosságának többsége ukrán, kisebb orosz közösséggel.",
+      ro: "Brovary este un oraș în regiunea Kiev, nordul Ucrainei. Prima atestare documentară datează din 1630. Situat la 20 km nord-est de Kiev, este un important nod de transport, având legături feroviare și rutiere. Economia include construcții de mașini, industria chimică și prelucrarea metalelor. În timpul celui de-al Doilea Război Mondial, a fost ocupat de Germania între 1941 și 1943. Populația a crescut de la 30.000 în 1959 la peste 100.000 în 2021. Orașul are mai multe parcuri și este cunoscut pentru echipa sa de hochei pe gheață. Majoritatea populației este ucraineană, cu o minoritate rusă.",
+      en: "Brovary is a city in Kyiv Oblast, northern Ukraine. First mentioned in 1630, it has grown into a major suburb of Kyiv, located about 20 km northeast of the capital. The city is a key transport hub, with railway connections to Chernihiv and the M01 highway. Brovary's economy is based on machinery, chemicals, and metalworking. During World War II, it was occupied by Nazi Germany from 1941 to 1943. The population increased rapidly after the war, from 30,000 in 1959 to over 100,000 in 2021. The city features several parks and is home to the Brovary hockey team. The ethnic composition is predominantly Ukrainian, with a Russian minority.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung 1630.", "Brovary liegt 20 km nordöstlich von Kiew.", "Einwohner 2021: ca. 110.000.", "Die Stadtfläche beträgt 34 km².", "Die höchste Bevölkerungszahl wurde 2020 mit 112.000 erreicht.", "Die Eisenbahnstrecke Kiew-Tschernihiw durchquert die Stadt seit 1868."],
+      hu: ["Brovari területe 34 km².", "A város tengerszint feletti magassága 115 m.", "A lakosság 2021-ben 110 000 fő volt.", "A Brovari jégkorongcsapatot 2004-ben alapították.", "A városon áthalad az M01-es autópálya.", "Brovari 1956-ban kapott városi rangot."],
+      ro: ["Orașul a fost menționat în 1630.", "Suprafața: 34 km².", "Populația în 2021: 110.000 locuitori.", "Altitudinea: 115 m.", "Brovary se află la 20 km de Kiev.", "Calea ferată a ajuns în oraș în 1868."],
+      en: ["Brovary was first mentioned in 1630.", "The city covers an area of 34 square kilometers.", "Population in 2021: approximately 110,000.", "Brovary is located at an elevation of 115 meters.", "The city's hockey team was founded in 2004.", "Brovary became a city in 1956."],
+    },
+  },
   {
     id: "ukraine-izmail-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Ismajil", hu: "Izmajil", ro: "Ismail", en: "Izmail",
-image: "/poi-images/ukraine-izmail-cities-v2.webp"
-},
+    name: { de: "Ismajil", hu: "Izmajil", ro: "Ismail", en: "Izmail"},
+    image: "/poi-images/ukraine-izmail-cities-v2.webp",
     coords: [28.8392, 45.3508],
     coordinates: { lat: 45.3508, lng: 28.8392 },
     description: {
@@ -1338,14 +1830,26 @@ image: "/poi-images/ukraine-izmail-cities-v2.webp"
       en: ["Primary Ukrainian hub for Danube trade", "Famous site of Suvorov's 1790 siege", "Founded by the Ottomans in the 16th century", "Home to a major naval base and museum"],
     },
     imageHint: "Izmail port and Danube river",
-    image: "/poi-images/ukraine-izmail-cities-v2.webp"},
+    image: "/poi-images/ukraine-izmail-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Ismail (ukrainisch: Izmail) ist eine Stadt in der Oblast Odessa im Südwesten der Ukraine. Sie liegt am nördlichen Ufer des Donaudeltas, nahe der Grenze zu Rumänien und Moldawien. Die Stadt hat eine lange Geschichte, die bis ins 16. Jahrhundert zurückreicht, als sie eine osmanische Festung war. 1790 wurde Ismail von russischen Truppen unter Alexander Suworow eingenommen. Die Stadt war Teil des Russischen Reiches, dann Rumäniens (1918-1940 und 1941-1944) und schließlich der Ukraine. Ismail ist ein wichtiger Binnenhafen an der Donau, der den Zugang zum Schwarzen Meer ermöglicht. Die Wirtschaft umfasst Schiffbau, Lebensmittelverarbeitung und Leichtindustrie. Die Stadt hat eine multiethnische Bevölkerung, darunter Ukrainer, Russen, Bulgaren und Gagausen. Sehenswürdigkeiten sind die Fürbitte-Kathedrale und die Festungsanlagen. Die Bevölkerung beträgt etwa 70.000 (2021).",
+      hu: "Izmail város a délnyugat-ukrajnai Odesszai területen, a Duna-delta északi partján, Románia és Moldova határa közelében. Története a 16. századig nyúlik vissza, amikor oszmán erőd volt. 1790-ben Szuvorov vezetésével orosz csapatok foglalták el. A város az Orosz Birodalom, majd Románia (1918-1940, 1941-1944) része volt, végül Ukrajnáé. Izmail fontos dunai kikötő, a Fekete-tenger felé biztosít kapcsolatot. Gazdasága hajógyártásra, élelmiszeriparra és könnyűiparra épül. A lakosság soknemzetiségű: ukránok, oroszok, bolgárok és gagauzok. Nevezetességei közé tartozik a Közbenjárás-székesegyház és az erődítmények. Lakossága 2021-ben kb. 70 000 fő.",
+      ro: "Izmail este un oraș în regiunea Odesa, sud-vestul Ucrainei. Este situat pe malul de nord al Deltei Dunării, aproape de granița cu România și Moldova. Are o istorie lungă, începând din secolul al XVI-lea ca fortăreață otomană. În 1790, a fost cucerit de trupele ruse conduse de Aleksandr Suvorov. Orașul a făcut parte din Imperiul Rus, apoi din România (1918-1940 și 1941-1944) și în final Ucraina. Izmail este un port important pe Dunăre, oferind acces la Marea Neagră. Economia include construcții navale, procesarea alimentelor și industria ușoară. Populația este multi-etnică: ucraineni, ruși, bulgari și găgăuzi. Atracțiile includ Catedrala Acoperământul Maicii Domnului și fortificațiile. Populația era de aproximativ 70.000 de locuitori în 2021.",
+      en: "Izmail is a city in Odesa Oblast, southwestern Ukraine, located on the northern bank of the Danube Delta, near the borders with Romania and Moldova. Its history dates back to the 16th century when it was an Ottoman fortress. In 1790, the fortress was stormed by Russian forces under Alexander Suvorov. The city changed hands multiple times, being part of the Russian Empire, Romania (1918-1940 and 1941-1944), and finally Ukraine. Izmail is a major inland port on the Danube, connecting to the Black Sea. The economy relies on shipbuilding, food processing, and light industry. The population is ethnically diverse, including Ukrainians, Russians, Bulgarians, and Gagauz. Key landmarks include the Intercession Cathedral and remnants of the fortress. The population is about 70,000 (2021).",
+    },
+    factsAdvanced: {
+      de: ["Die osmanische Festung wurde 1790 von Suworow erobert.", "Izmail liegt 80 km von der Mündung der Donau entfernt.", "Einwohner 2021: ca. 70.000.", "Die Stadtfläche beträgt 22 km².", "Der Hafen von Izmail wurde 1813 eröffnet.", "Die jährliche Niederschlagsmenge beträgt etwa 450 mm."],
+      hu: ["Izmail területe 22 km².", "A város tengerszint feletti magassága 30 m.", "A lakosság 1989-ben 85 000 fő volt.", "A Közbenjárás-székesegyház 1840-ben épült.", "Izmail 1944-ben szabadult fel a német megszállás alól.", "A Duna hajózható szélessége Izmailnál kb. 600 m."],
+      ro: ["Fortăreața otomană a fost cucerită în 1790.", "Suprafața orașului: 22 km².", "Populația în 2021: 70.000 locuitori.", "Altitudinea: 30 m.", "Portul a fost deschis în 1813.", "Catedrala a fost construită între 1823 și 1840."],
+      en: ["The Ottoman fortress was stormed in 1790.", "Izmail covers an area of 22 square kilometers.", "Population in 2021: approximately 70,000.", "The city is at an elevation of 30 meters.", "The port of Izmail was established in 1813.", "Intercession Cathedral was built between 1823 and 1840."],
+    },
+  },
   {
     id: "ukraine-bakhmut-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Bachmut", hu: "Bahmut", ro: "Bahmut", en: "Bakhmut",
-image: "/poi-images/ukraine-bakhmut-cities-v2.webp"
-},
+    name: { de: "Bachmut", hu: "Bahmut", ro: "Bahmut", en: "Bakhmut"},
+    image: "/poi-images/ukraine-bakhmut-cities-v2.webp",
     coords: [37.998, 48.595],
     coordinates: { lat: 48.595, lng: 37.998 },
     description: {
@@ -1366,9 +1870,8 @@ image: "/poi-images/ukraine-bakhmut-cities-v2.webp"
     id: "ukraine-mukachevo-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Mukatschewo", hu: "Munkács", ro: "Mukacevo", en: "Mukachevo",
-image: "/poi-images/ukraine-mukachevo-cities-v2.webp"
-},
+    name: { de: "Mukatschewo", hu: "Munkács", ro: "Mukacevo", en: "Mukachevo"},
+    image: "/poi-images/ukraine-mukachevo-cities-v2.webp",
     coords: [22.7189, 48.4411],
     coordinates: { lat: 48.4411, lng: 22.7189 },
     description: {
@@ -1389,9 +1892,8 @@ image: "/poi-images/ukraine-mukachevo-cities-v2.webp"
     id: "ukraine-drohobych-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Drohobytsch", hu: "Drohobics", ro: "Drogobîci", en: "Drohobych",
-image: "/poi-images/ukraine-drohobych-cities-v2.webp"
-},
+    name: { de: "Drohobytsch", hu: "Drohobics", ro: "Drogobîci", en: "Drohobych"},
+    image: "/poi-images/ukraine-drohobych-cities-v2.webp",
     coords: [23.5042, 49.3514],
     coordinates: { lat: 49.3514, lng: 23.5042 },
     description: {
@@ -1412,9 +1914,8 @@ image: "/poi-images/ukraine-drohobych-cities-v2.webp"
     id: "ukraine-yalta-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Jalta", hu: "Jalta", ro: "Ialta", en: "Yalta",
-image: "/poi-images/ukraine-yalta-cities-v2.webp"
-},
+    name: { de: "Jalta", hu: "Jalta", ro: "Ialta", en: "Yalta"},
+    image: "/poi-images/ukraine-yalta-cities-v2.webp",
     coords: [34.1661, 44.4951],
     coordinates: { lat: 44.4951, lng: 34.1661 },
     description: {
@@ -1435,9 +1936,8 @@ image: "/poi-images/ukraine-yalta-cities-v2.webp"
     id: "ukraine-nizhyn-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Nischyn", hu: "Nyizsin", ro: "Nijîn", en: "Nizhyn",
-image: "/poi-images/ukraine-nizhyn-cities-v2.webp"
-},
+    name: { de: "Nischyn", hu: "Nyizsin", ro: "Nijîn", en: "Nizhyn"},
+    image: "/poi-images/ukraine-nizhyn-cities-v2.webp",
     coords: [31.8814, 51.0475],
     coordinates: { lat: 51.0475, lng: 31.8814 },
     description: {
@@ -1458,9 +1958,8 @@ image: "/poi-images/ukraine-nizhyn-cities-v2.webp"
     id: "ukraine-fastiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Fastiw", hu: "Fasztiv", ro: "Fastiv", en: "Fastiv",
-image: "/poi-images/ukraine-fastiv-cities-v2.webp"
-},
+    name: { de: "Fastiw", hu: "Fasztiv", ro: "Fastiv", en: "Fastiv"},
+    image: "/poi-images/ukraine-fastiv-cities-v2.webp",
     coords: [29.9153, 50.0789],
     coordinates: { lat: 50.0789, lng: 29.9153 },
     description: {
@@ -1481,9 +1980,8 @@ image: "/poi-images/ukraine-fastiv-cities-v2.webp"
     id: "ukraine-smila-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Smila", hu: "Szmila", ro: "Smila", en: "Smila",
-image: "/poi-images/ukraine-smila-cities-v2.webp"
-},
+    name: { de: "Smila", hu: "Szmila", ro: "Smila", en: "Smila"},
+    image: "/poi-images/ukraine-smila-cities-v2.webp",
     coords: [31.875, 49.2272],
     coordinates: { lat: 49.2272, lng: 31.875 },
     description: {
@@ -1504,9 +2002,8 @@ image: "/poi-images/ukraine-smila-cities-v2.webp"
     id: "ukraine-izium-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Isjum", hu: "Izjum", ro: "Izium", en: "Izium",
-image: "/poi-images/ukraine-izium-cities-v2.webp"
-},
+    name: { de: "Isjum", hu: "Izjum", ro: "Izium", en: "Izium"},
+    image: "/poi-images/ukraine-izium-cities-v2.webp",
     coords: [37.2639, 49.1919],
     coordinates: { lat: 49.1919, lng: 37.2639 },
     description: {
@@ -1527,9 +2024,8 @@ image: "/poi-images/ukraine-izium-cities-v2.webp"
     id: "ukraine-kalush-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kalusch", hu: "Kalus", ro: "Kaluș", en: "Kalush",
-image: "/poi-images/ukraine-kalush-cities-v2.webp"
-},
+    name: { de: "Kalusch", hu: "Kalus", ro: "Kaluș", en: "Kalush"},
+    image: "/poi-images/ukraine-kalush-cities-v2.webp",
     coords: [24.3669, 49.0275],
     coordinates: { lat: 49.0275, lng: 24.3669 },
     description: {
@@ -1550,9 +2046,8 @@ image: "/poi-images/ukraine-kalush-cities-v2.webp"
     id: "ukraine-lubny-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Lubny", hu: "Lubni", ro: "Lubnî", en: "Lubny",
-image: "/poi-images/ukraine-lubny-cities-v2.webp"
-},
+    name: { de: "Lubny", hu: "Lubni", ro: "Lubnî", en: "Lubny"},
+    image: "/poi-images/ukraine-lubny-cities-v2.webp",
     coords: [32.9917, 50.0169],
     coordinates: { lat: 50.0169, lng: 32.9917 },
     description: {
@@ -1573,9 +2068,8 @@ image: "/poi-images/ukraine-lubny-cities-v2.webp"
     id: "ukraine-shovti-vody-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schowti Wody", hu: "Zsovti Vogyi", ro: "Jovti Vodî", en: "Zhovti Vody",
-image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"
-},
+    name: { de: "Schowti Wody", hu: "Zsovti Vogyi", ro: "Jovti Vodî", en: "Zhovti Vody"},
+    image: "/poi-images/ukraine-shovti-vody-cities-v2.webp",
     coords: [33.5047, 48.3514],
     coordinates: { lat: 48.3514, lng: 33.5047 },
     description: {
@@ -1596,9 +2090,8 @@ image: "/poi-images/ukraine-shovti-vody-cities-v2.webp"
     id: "ukraine-pryluky-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Pryluky", hu: "Priluki", ro: "Prîlukî", en: "Pryluky",
-image: "/poi-images/ukraine-pryluky-cities-v2.webp"
-},
+    name: { de: "Pryluky", hu: "Priluki", ro: "Prîlukî", en: "Pryluky"},
+    image: "/poi-images/ukraine-pryluky-cities-v2.webp",
     coords: [32.3917, 50.5897],
     coordinates: { lat: 50.5897, lng: 32.3917 },
     description: {
@@ -1619,9 +2112,8 @@ image: "/poi-images/ukraine-pryluky-cities-v2.webp"
     id: "ukraine-korsun-shevchenkivskyi-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Korsun-Schewtschenkiwskyj", hu: "Korszun-Sevcsenkivszkij", ro: "Korsun-Șevcenkivskîi", en: "Korsun-Shevchenkivskyi",
-image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"
-},
+    name: { de: "Korsun-Schewtschenkiwskyj", hu: "Korszun-Sevcsenkivszkij", ro: "Korsun-Șevcenkivskîi", en: "Korsun-Shevchenkivskyi"},
+    image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp",
     coords: [31.2725, 49.4217],
     coordinates: { lat: 49.4217, lng: 31.2725 },
     description: {
@@ -1642,9 +2134,8 @@ image: "/poi-images/ukraine-korsun-shevchenkivskyi-cities-v2.webp"
     id: "ukraine-lozvaya-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Losowa", hu: "Lozova", ro: "Lozova", en: "Lozova",
-image: "/poi-images/ukraine-lozvaya-cities-v2.webp"
-},
+    name: { de: "Losowa", hu: "Lozova", ro: "Lozova", en: "Lozova"},
+    image: "/poi-images/ukraine-lozvaya-cities-v2.webp",
     coords: [36.3153, 48.8911],
     coordinates: { lat: 48.8911, lng: 36.3153 },
     description: {
@@ -1665,9 +2156,8 @@ image: "/poi-images/ukraine-lozvaya-cities-v2.webp"
     id: "ukraine-novomoskovsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Nowomoskowsk", hu: "Novomoszkivszk", ro: "Novomoskovsk", en: "Novomoskovsk",
-image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"
-},
+    name: { de: "Nowomoskowsk", hu: "Novomoszkivszk", ro: "Novomoskovsk", en: "Novomoskovsk"},
+    image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp",
     coords: [35.265, 48.6297],
     coordinates: { lat: 48.6297, lng: 35.265 },
     description: {
@@ -1683,14 +2173,26 @@ image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"
       en: ["Home to a unique nine-domed wooden cathedral", "Former headquarters of the Samara Cossacks", "Founded in the 17th century", "Significant regional metallurgical center"],
     },
     imageHint: "Wooden Trinity Cathedral in Novomoskovsk",
-    image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-novomoskovsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Novomoskovsk, eine Stadt in der Oblast Dnipropetrowsk, ist bekannt für ihre einzigartige Holzkirche, die Dreifaltigkeitskathedrale, die 1778 ohne einen einzigen Nagel erbaut wurde. Die Stadt liegt am Ufer des Flusses Samara und ist ein wichtiges Zentrum der ukrainischen Holzarchitektur. Die Wirtschaft Novomoskovsks basiert auf dem Maschinenbau, der Lebensmittelverarbeitung und der Leichtindustrie. Die Bevölkerung beträgt etwa 60.000 Menschen. Historisch gesehen war Novomoskovsk Teil der Saporoger Kosaken und diente als Handels- und Handwerkszentrum. Die Stadt hat eine reiche kulturelle Szene mit Museen und Theatern. Die Dreifaltigkeitskathedrale, ein Meisterwerk der Volksarchitektur, zieht viele Besucher an und ist ein Symbol der kosakischen Baukunst. Neben der historischen Kirche bietet Novomoskovsk auch moderne Einrichtungen und eine freundliche Atmosphäre.",
+      hu: "Novomoszkvszk a Dnyipropetrovszki terület egyik városa, híres az 1778-ban épült Szentháromság-székesegyházról, amely egyetlen szög nélkül készült. A város a Szamara folyó partján fekszik, és a faépítészet egyik kiemelkedő központja Ukrajnában. Gazdasága a gépgyártásra, élelmiszer-feldolgozásra és könnyűiparra épül. A lakosságszám körülbelül 60 000 fő. Novomoszkvszk a zaporozsjei kozákok idejében kereskedelmi és kézműves központ volt. A város kulturális élete gazdag, múzeumokkal és színházakkal. A Szentháromság-székesegyház a népi építészet remekműve, és a kozák építészet szimbóluma. A történelmi templom mellett modern létesítmények is várják a látogatókat.",
+      ro: "Novomoskovsk, un oraș în regiunea Dnipropetrovsk, este cunoscut pentru Catedrala Sfintei Treimi, construită în 1778 fără niciun cui. Situat pe malul râului Samara, orașul este un centru al arhitecturii lemnului ucrainean. Economia se bazează pe construcția de mașini, procesarea alimentelor și industria ușoară. Populația este de aproximativ 60.000 de locuitori. Din punct de vedere istoric, Novomoskovsk a făcut parte din cazacii zaporojeni, fiind un centru comercial și meșteșugăresc. Catedrala, o capodoperă a arhitecturii populare, atrage numeroși vizitatori și simbolizează arta cazacilor. Pe lângă biserica istorică, orașul oferă facilități moderne și o atmosferă prietenoasă.",
+      en: "Novomoskovsk, located in Dnipropetrovsk Oblast, is renowned for its Holy Trinity Cathedral, a wooden church built in 1778 without a single nail. The city lies on the Samara River and is a key center of Ukrainian wooden architecture. Its economy is driven by machinery, food processing, and light industry, with a population of around 60,000. Historically, Novomoskovsk was part of the Zaporozhian Cossack territory, serving as a trade and craft hub. The cathedral, a masterpiece of folk architecture, symbolizes Cossack building tradition. Beyond the historic church, the city offers modern amenities and a welcoming atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Die Dreifaltigkeitskathedrale wurde 1778 ohne Verwendung eines einzigen Nagels erbaut.", "Die Stadt Novomoskovsk hat eine Fläche von etwa 36 km².", "Die Bevölkerungszahl beträgt rund 60.000 Einwohner (Schätzung 2021).", "Novomoskovsk liegt am Fluss Samara, einem Nebenfluss des Dnjepr.", "Die Wirtschaft der Stadt umfasst den Maschinenbau, die Lebensmittelverarbeitung und die Leichtindustrie.", "Die Stadt wurde 1672 gegründet und erhielt 1784 Stadtrecht."],
+      hu: ["A Szentháromság-székesegyház 1778-ban épült, egyetlen szög felhasználása nélkül.", "Novomoszkvszk területe körülbelül 36 km².", "A város lakossága hozzávetőlegesen 60 000 fő (2021-es becslés).", "Novomoszkvszk a Szamara folyó partján fekszik, amely a Dnyeper mellékfolyója.", "A gazdaság fő ágai a gépgyártás, élelmiszer-feldolgozás és könnyűipar.", "A várost 1672-ben alapították, és 1784-ben kapott városi jogokat."],
+      ro: ["Catedrala Sfintei Treimi a fost construită în 1778 fără niciun cui.", "Orașul Novomoskovsk are o suprafață de aproximativ 36 km².", "Populația este de circa 60.000 de locuitori (estimare 2021).", "Novomoskovsk se află pe malul râului Samara, un afluent al Niprului.", "Economia orașului include construcții de mașini, procesarea alimentelor și industria ușoară.", "Orașul a fost fondat în 1672 și a primit drepturi de oraș în 1784."],
+      en: ["The Holy Trinity Cathedral was built in 1778 without using a single nail.", "Novomoskovsk covers an area of about 36 km².", "The population is approximately 60,000 (2021 estimate).", "The city is situated on the Samara River, a tributary of the Dnieper.", "Key industries include machinery manufacturing, food processing, and light industry.", "The city was founded in 1672 and granted city rights in 1784."],
+    },
+  },
   {
     id: "ukraine-pokrovsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Pokrowsk", hu: "Pokrovszk", ro: "Pokrovsk", en: "Pokrovsk",
-image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"
-},
+    name: { de: "Pokrowsk", hu: "Pokrovszk", ro: "Pokrovsk", en: "Pokrovsk"},
+    image: "/poi-images/ukraine-pokrovsk-cities-v2.webp",
     coords: [37.1764, 48.2811],
     coordinates: { lat: 48.2811, lng: 37.1764 },
     description: {
@@ -1706,14 +2208,26 @@ image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"
       en: ["Primary supplier of coking coal in Ukraine", "Established in 1875 near a rail station", "Renamed to Pokrovsk in May 2016", "Vital strategic and logistical rail hub"],
     },
     imageHint: "Pokrovsk railway station and industrial view",
-    image: "/poi-images/ukraine-pokrovsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-pokrovsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pokrovsk ist eine Stadt in der Oblast Donezk und ein wichtiges Industriestandort, bekannt für den Kohlebergbau und den Maschinenbau. Die Stadt liegt im Donbass und hat eine bewegte Geschichte, die bis ins 19. Jahrhundert zurückreicht. Ursprünglich als Siedlung für Eisenbahner gegründet, entwickelte sich Pokrovsk schnell zu einem Zentrum des Kohleabbaus. Die Bevölkerung beträgt etwa 60.000 Menschen. In den letzten Jahren wurde die Stadt durch den Konflikt in der Ostukraine stark beeinträchtigt, bleibt aber ein wichtiger Knotenpunkt für Verkehr und Industrie. Pokrovsk beherbergt mehrere Bildungseinrichtungen und kulturelle Stätten. Die Architektur spiegelt die sowjetische Ära wider, mit breiten Alleen und Plattenbauten.",
+      hu: "Pokrovszk a Donecki terület egyik városa, fontos ipari központ, amely a szénbányászatról és gépgyártásról ismert. A város a Donbászban fekszik, és a 19. századig visszanyúló történelemmel rendelkezik. Eredetileg vasúti munkások településeként alapították, gyorsan a szénbányászat központjává vált. A lakosság körülbelül 60 000 fő. Az elmúlt években a kelet-ukrajnai konfliktus erősen érintette, de továbbra is fontos közlekedési és ipari csomópont. Számos oktatási intézmény és kulturális helyszín található itt. Az építészet a szovjet korszakot tükrözi, széles sugárutakkal és panelházakkal.",
+      ro: "Pokrovsk este un oraș în regiunea Donețk, un important centru industrial cunoscut pentru mineritul cărbunelui și construcțiile de mașini. Orașul este situat în Donbas și are o istorie care datează din secolul al XIX-lea. Fondat inițial ca așezare pentru muncitorii feroviari, Pokrovsk a devenit rapid un centru al mineritului de cărbune. Populația este de aproximativ 60.000 de locuitori. În ultimii ani, orașul a fost puternic afectat de conflictul din estul Ucrainei, dar rămâne un nod important de transport și industrie. Pokrovsk găzduiește mai multe instituții de învățământ și situri culturale. Arhitectura reflectă epoca sovietică, cu bulevarde largi și blocuri prefabricate.",
+      en: "Pokrovsk is a city in Donetsk Oblast, a major industrial center known for coal mining and machinery manufacturing. Located in the Donbas region, its history dates back to the 19th century. Originally founded as a settlement for railway workers, it quickly became a hub for coal extraction. The population is around 60,000. In recent years, the city has been heavily impacted by the conflict in Eastern Ukraine but remains an important transport and industrial node. Pokrovsk houses several educational institutions and cultural sites. The architecture reflects the Soviet era, with wide avenues and panel housing.",
+    },
+    factsAdvanced: {
+      de: ["Pokrovsk wurde 1881 als Bahnstation gegründet.", "Die Stadt erhielt 1962 den Status einer Stadt.", "Die Kohleförderung ist der wichtigste Wirtschaftszweig.", "Die Fläche der Stadt beträgt etwa 29 km².", "Die Bevölkerungsdichte liegt bei etwa 2.070 Einwohnern pro km².", "Pokrovsk liegt an der Eisenbahnlinie Charkiw–Rostow."],
+      hu: ["Pokrovszkot 1881-ben vasúti állomásként alapították.", "A város 1962-ben kapott városi rangot.", "A szénbányászat a legfontosabb gazdasági ágazat.", "A város területe körülbelül 29 km².", "A népsűrűség körülbelül 2 070 fő/km².", "Pokrovszk a Harkiv–Rosztov vasútvonalon fekszik."],
+      ro: ["Pokrovsk a fost fondată în 1881 ca stație de cale ferată.", "Orașul a primit statutul de oraș în 1962.", "Mineritul cărbunelui este principala ramură economică.", "Suprafața orașului este de aproximativ 29 km².", "Densitatea populației este de circa 2.070 locuitori pe km².", "Pokrovsk este situat pe linia de cale ferată Harkiv–Rostov."],
+      en: ["Pokrovsk was founded in 1881 as a railway station.", "The city was granted city status in 1962.", "Coal mining is the primary economic sector.", "The city covers an area of about 29 km².", "Population density is approximately 2,070 inhabitants per km².", "Pokrovsk lies on the Kharkiv–Rostov railway line."],
+    },
+  },
   {
     id: "ukraine-rubizhne-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Rubischne", hu: "Rubizsne", ro: "Rubijne", en: "Rubizhne",
-image: "/poi-images/ukraine-rubizhne-cities-v2.webp"
-},
+    name: { de: "Rubischne", hu: "Rubizsne", ro: "Rubijne", en: "Rubizhne"},
+    image: "/poi-images/ukraine-rubizhne-cities-v2.webp",
     coords: [38.375, 49.0069],
     coordinates: { lat: 49.0069, lng: 38.375 },
     description: {
@@ -1729,14 +2243,26 @@ image: "/poi-images/ukraine-rubizhne-cities-v2.webp"
       en: ["Historically famous for dye production", "Established in 1895 during rail construction", "Home to chemical and plastic factories", "Key component of the Luhansk industrial area"],
     },
     imageHint: "Chemical plants in Rubizhne",
-    image: "/poi-images/ukraine-rubizhne-cities-v2.webp"},
+    image: "/poi-images/ukraine-rubizhne-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Rubizhne ist eine Stadt in der Oblast Luhansk am Ufer des Siwerskyj Donez. Die Stadt ist ein wichtiges Zentrum der chemischen Industrie, insbesondere der Produktion von Düngemitteln und Kunststoffen. Rubizhne wurde 1895 als Arbeitersiedlung gegründet und entwickelte sich im 20. Jahrhundert zu einer Industriestadt. Die Bevölkerung beträgt etwa 15.000 Menschen, was einen deutlichen Rückgang aufgrund des Krieges in der Ostukraine widerspiegelt. Die Architektur der Stadt ist geprägt von sowjetischen Wohnblöcken und Industrieanlagen. Trotz der Zerstörungen gibt es noch funktionierende Fabriken und eine kleine lokale Wirtschaft. Die Stadt liegt in der Nähe des Flusses und hat einige Grünflächen.",
+      hu: "Rubizsne a Luhanszki terület városa a Sziverszkij-Donyec folyó partján. A város a vegyipar fontos központja, különösen műtrágyák és műanyagok gyártásáról ismert. 1895-ben munkástelepülésként alapították, és a 20. században ipari várossá fejlődött. A lakosság körülbelül 15 000 fő, ami a kelet-ukrajnai háború miatti jelentős csökkenést tükrözi. Az építészetet szovjet lakótelepek és ipari létesítmények jellemzik. A pusztítás ellenére még mindig működő gyárak és egy kis helyi gazdaság van. A város a folyó közelében fekszik, és néhány zöldterülettel rendelkezik.",
+      ro: "Rubizhne este un oraș în regiunea Luhansk, pe malul râului Siverskîi Doneț. Este un important centru al industriei chimice, în special producția de îngrășăminte și materiale plastice. Rubizhne a fost fondată în 1895 ca așezare muncitorească și s-a dezvoltat într-un oraș industrial în secolul XX. Populația este de aproximativ 15.000 de locuitori, reflectând o scădere semnificativă din cauza războiului din estul Ucrainei. Arhitectura orașului este dominată de blocuri sovietice și instalații industriale. În ciuda distrugerilor, există încă fabrici funcționale și o economie locală mică. Orașul este situat lângă râu și are câteva spații verzi.",
+      en: "Rubizhne is a city in Luhansk Oblast on the Siverskyi Donets River. It is a major center of the chemical industry, particularly fertilizers and plastics. Founded in 1895 as a workers' settlement, it grew into an industrial city during the 20th century. The population is about 15,000, a significant decline due to the war in Eastern Ukraine. The city's architecture is dominated by Soviet-era apartment blocks and industrial facilities. Despite destruction, some factories remain operational, supporting a small local economy. The city is near the river and has some green spaces.",
+    },
+    factsAdvanced: {
+      de: ["Rubizhne wurde 1895 gegründet.", "Die Stadt hat eine Fläche von etwa 18 km².", "Die chemische Industrie begann in den 1930er Jahren.", "Das örtliche Werk Produziert über 1 Million Tonnen Düngemittel pro Jahr (vor dem Krieg).", "Die Bevölkerungszahl sank von 60.000 (1989) auf 15.000 (2021).", "Rubizhne liegt am Fluss Siwerskyj Donez, 40 km nördlich von Luhansk."],
+      hu: ["Rubizsnét 1895-ben alapították.", "A város területe körülbelül 18 km².", "A vegyipar az 1930-as években indult.", "A helyi üzem évente több mint 1 millió tonna műtrágyát termelt (a háború előtt).", "A lakosságszám 60 000-ről (1989) 15 000-re (2021) csökkent.", "Rubizsne a Sziverszkij-Donyec folyónál fekszik, 40 km-re északra Luhanszk városától."],
+      ro: ["Rubizhne a fost fondată în 1895.", "Orașul are o suprafață de aproximativ 18 km².", "Industria chimică a început în anii 1930.", "Fabrica locală producea peste 1 milion de tone de îngrășăminte pe an (înainte de război).", "Populația a scăzut de la 60.000 (1989) la 15.000 (2021).", "Rubizhne este situat pe râul Siverskîi Doneț, la 40 km nord de Luhansk."],
+      en: ["Rubizhne was founded in 1895.", "The city covers an area of about 18 km².", "The chemical industry started in the 1930s.", "The local plant produced over 1 million tons of fertilizer annually (pre-war).", "Population declined from 60,000 (1989) to 15,000 (2021).", "Rubizhne is located on the Siverskyi Donets River, 40 km north of Luhansk."],
+    },
+  },
   {
     id: "ukraine-drogobych-salt-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Drohobytsch-Salzstadt", hu: "Drohobics-sóváros", ro: "Drogobîci-Săreni", en: "Drohobych Salt-Town",
-image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"
-},
+    name: { de: "Drohobytsch-Salzstadt", hu: "Drohobics-sóváros", ro: "Drogobîci-Săreni", en: "Drohobych Salt-Town"},
+    image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp",
     coords: [23.5042, 49.3514],
     coordinates: { lat: 49.3514, lng: 23.5042 },
     description: {
@@ -1752,14 +2278,26 @@ image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"
       en: ["Salt refinery active since around 1250", "Salt cones are depicted on city coat of arms", "Historic economic hub of Galicia", "Features unique 15th-century architecture"],
     },
     imageHint: "Ancient salt works in Drohobych",
-    image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp"},
+    image: "/poi-images/ukraine-drogobych-salt-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Drohobytsch, bekannt als Salzstadt, liegt in der Oblast Lwiw und ist ein historisches Zentrum der Salzproduktion. Die Salzminen von Drohobytsch waren seit dem Mittelalter in Betrieb und lieferten hochwertiges Steinsalz. Im 19. Jahrhundert boomte die Ölindustrie, was die Stadt zu einem bedeutenden Wirtschaftsstandort machte. Heute ist Drohobytsch ein kulturelles Zentrum mit einer gut erhaltenen Altstadt, Kirchen und Museen. Die Stadt hat etwa 77.000 Einwohner und beherbergt die Nationale Ivan-Franko-Universität. Die Architektur zeigt Einflüsse der österreichisch-ungarischen Monarchie und des polnischen Erbes. Das Salzmuseum und das historische Zentrum ziehen viele Touristen an.",
+      hu: "Drohobics, a Sóváros néven ismert, a Lvivi területen fekszik, és a sótermelés történelmi központja. A drohobicsi sóbányák a középkor óta működtek és kiváló minőségű kősót szolgáltattak. A 19. században az olajipar fellendült, ami jelentős gazdasági központtá tette a várost. Ma Drohobics kulturális központ, jól megőrzött óvárossal, templomokkal és múzeumokkal. Lakossága körülbelül 77 000 fő, és itt található a Nemzeti Ivan Franko Egyetem is. Az építészet az osztrák-magyar monarchia és a lengyel örökség hatásait mutatja. A Sómúzeum és a történelmi központ sok turistát vonz.",
+      ro: "Drohobîci, cunoscut ca Orașul Sării, este situat în regiunea Liov și este un centru istoric al producției de sare. Minele de sare din Drohobîci au funcționat din Evul Mediu, producând sare gemă de înaltă calitate. În secolul al XIX-lea, industria petrolieră a înflorit, făcând orașul un important centru economic. Astăzi, Drohobîci este un centru cultural, cu un centru vechi bine conservat, biserici și muzee. Populația este de aproximativ 77.000 de locuitori, iar aici se află Universitatea Națională Ivan Franko. Arhitectura prezintă influențe ale monarhiei austro-ungare și ale moștenirii poloneze. Muzeul Sării și centrul istoric atrag mulți turiști.",
+      en: "Drohobych, known as the Salt Town, is located in Lviv Oblast and is a historical center of salt production. The salt mines have been operating since the Middle Ages, producing high-quality rock salt. In the 19th century, the oil industry boomed, making the city a significant economic hub. Today, Drohobych is a cultural center with a well-preserved old town, churches, and museums. The population is about 77,000, and it hosts the Ivan Franko National University. The architecture shows influences of the Austro-Hungarian Empire and Polish heritage. The Salt Museum and historic center attract many tourists.",
+    },
+    factsAdvanced: {
+      de: ["Die Salzproduktion in Drohobytsch begann im 14. Jahrhundert.", "Die Stadt hat eine Fläche von etwa 21 km².", "Im 19. Jahrhundert gab es hier über 100 Ölquellen.", "Die Einwohnerzahl beträgt rund 77.000 (2021).", "Die Altstadt umfasst über 200 historische Gebäude.", "Die Nationale Ivan-Franko-Universität wurde 1940 gegründet."],
+      hu: ["A sótermelés Drohobicsban a 14. században kezdődött.", "A város területe körülbelül 21 km².", "A 19. században több mint 100 olajkút működött itt.", "A lakosságszám körülbelül 77 000 fő (2021).", "Az óváros több mint 200 történelmi épületet számlál.", "A Nemzeti Ivan Franko Egyetemet 1940-ben alapították."],
+      ro: ["Producția de sare în Drohobîci a început în secolul al XIV-lea.", "Orașul are o suprafață de aproximativ 21 km².", "În secolul al XIX-lea, aici existau peste 100 de puțuri de petrol.", "Populația este de circa 77.000 de locuitori (2021).", "Centrul vechi cuprinde peste 200 de clădiri istorice.", "Universitatea Națională Ivan Franko a fost fondată în 1940."],
+      en: ["Salt production in Drohobych began in the 14th century.", "The city covers an area of about 21 km².", "In the 19th century, there were over 100 oil wells here.", "Population is approximately 77,000 (2021).", "The old town includes over 200 historical buildings.", "Ivan Franko National University was founded in 1940."],
+    },
+  },
   {
     id: "ukraine-stryi-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Stryj", hu: "Sztrij", ro: "Strîi", en: "Stryi",
-image: "/poi-images/ukraine-stryi-cities-v2.webp"
-},
+    name: { de: "Stryj", hu: "Sztrij", ro: "Strîi", en: "Stryi"},
+    image: "/poi-images/ukraine-stryi-cities-v2.webp",
     coords: [23.8517, 49.2558],
     coordinates: { lat: 49.2558, lng: 23.8517 },
     description: {
@@ -1775,14 +2313,26 @@ image: "/poi-images/ukraine-stryi-cities-v2.webp"
       en: ["Strategic natural gas storage facility", "First mentioned in the year 1385", "Major railway junction in the west", "Center for woodworking and food industry"],
     },
     imageHint: "Stryi city center and river view",
-    image: "/poi-images/ukraine-stryi-cities-v2.webp"},
+    image: "/poi-images/ukraine-stryi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Stryj ist eine Stadt in der Oblast Lwiw und ein wichtiges Eisenbahn- und Straßenkreuz. Die Stadt liegt am Fluss Stryj und hat eine reiche Geschichte, die bis ins 14. Jahrhundert zurückreicht. Stryj war ein Zentrum des galizischen Handels und der Industrie, insbesondere der Textil- und Möbelproduktion. Die Architektur zeigt Einflüsse der österreichisch-ungarischen Zeit mit vielen Jugendstilgebäuden. Die Stadt hat etwa 60.000 Einwohner. Stryj ist bekannt für seine griechisch-katholische Kathedrale und das historische Zentrum. In den letzten Jahren hat sich die Stadt zu einem regionalen Wirtschafts- und Bildungsstandort entwickelt. Die Nähe zu den Karpaten macht sie zu einem Ausgangspunkt für Touristen.",
+      hu: "Sztrij a Lvivi terület városa, fontos vasúti és közúti csomópont. A város a Sztrij folyó partján fekszik, és a 14. századig visszanyúló gazdag történelemmel rendelkezik. Sztrij a galíciai kereskedelem és ipar központja volt, különösen textil- és bútorgyártás terén. Az építészet az osztrák-magyar időszak hatását mutatja, számos szecessziós épülettel. A lakosság körülbelül 60 000 fő. Sztrij híres görögkatolikus székesegyházáról és történelmi központjáról. Az elmúlt években a város regionális gazdasági és oktatási központtá fejlődött. A Kárpátokhoz való közelsége turisztikai kiindulóponttá teszi.",
+      ro: "Strîi este un oraș în regiunea Liov, un important nod feroviar și rutier. Orașul este situat pe râul Strîi și are o istorie bogată care datează din secolul al XIV-lea. Strîi a fost un centru al comerțului și industriei galițiene, în special al textilelor și mobilei. Arhitectura prezintă influențe ale perioadei austro-ungare, cu multe clădiri Art Nouveau. Populația este de aproximativ 60.000 de locuitori. Strîi este cunoscut pentru catedrala greco-catolică și centrul istoric. În ultimii ani, orașul a devenit un centru economic și educațional regional. Apropierea de Carpați îl face un punct de plecare pentru turiști.",
+      en: "Stryi is a city in Lviv Oblast and a major railway and road junction. Located on the Stryi River, it has a rich history dating back to the 14th century. Stryi was a center of Galician trade and industry, especially textiles and furniture. The architecture shows Austro-Hungarian influences with many Art Nouveau buildings. The population is about 60,000. Stryi is known for its Greek Catholic Cathedral and historic center. In recent years, the city has become a regional economic and educational hub. Its proximity to the Carpathians makes it a starting point for tourists.",
+    },
+    factsAdvanced: {
+      de: ["Stryj wurde 1385 erstmals urkundlich erwähnt.", "Die Stadt hat eine Fläche von etwa 16 km².", "Der Hauptbahnhof Stryj wurde 1880 eröffnet.", "Die Bevölkerung beträgt rund 60.000 (2021).", "Die griechisch-katholische Kathedrale wurde 1903 geweiht.", "Stryj liegt 70 km südlich von Lwiw."],
+      hu: ["Sztrijt 1385-ben említik először írásban.", "A város területe körülbelül 16 km².", "A főpályaudvart 1880-ban nyitották meg.", "A lakosságszám körülbelül 60 000 fő (2021).", "A görögkatolikus székesegyházat 1903-ban szentelték fel.", "Sztrij 70 km-re délre fekszik Lvivtől."],
+      ro: ["Strîi a fost menționat pentru prima dată în 1385.", "Orașul are o suprafață de aproximativ 16 km².", "Gara principală a fost deschisă în 1880.", "Populația este de circa 60.000 de locuitori (2021).", "Catedrala greco-catolică a fost sfințită în 1903.", "Strîi este situat la 70 km sud de Liov."],
+      en: ["Stryi was first mentioned in 1385.", "The city covers an area of about 16 km².", "The main railway station opened in 1880.", "Population is approximately 60,000 (2021).", "The Greek Catholic Cathedral was consecrated in 1903.", "Stryi is located 70 km south of Lviv."],
+    },
+  },
   {
     id: "ukraine-kolomyia-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kolomyja", hu: "Kolomija", ro: "Colomeea", en: "Kolomyia",
-image: "/poi-images/ukraine-kolomyia-cities-v2.webp"
-},
+    name: { de: "Kolomyja", hu: "Kolomija", ro: "Colomeea", en: "Kolomyia"},
+    image: "/poi-images/ukraine-kolomyia-cities-v2.webp",
     coords: [25.0392, 48.5308],
     coordinates: { lat: 48.5308, lng: 25.0392 },
     description: {
@@ -1798,14 +2348,26 @@ image: "/poi-images/ukraine-kolomyia-cities-v2.webp"
       en: ["Features a museum shaped like a giant egg", "Center of Hutsul folk art and music", "First mentioned in the year 1241", "Significant center for embroidery and crafts"],
     },
     imageHint: "Pysanka Museum building in Kolomyia",
-    image: "/poi-images/ukraine-kolomyia-cities-v2.webp"},
+    image: "/poi-images/ukraine-kolomyia-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kolomyja ist eine Stadt in der Oblast Iwano-Frankiwsk und ein kulturelles Zentrum der Huzulen-Region. Die Stadt liegt am Fluss Pruth und ist bekannt für ihre reiche Volkskunst, insbesondere die bemalten Ostereier (Pysanky). Das Museum für Huzulen-Volkskunst beherbergt eine der größten Sammlungen von Pysanky. Kolomyja hat eine bewegte Geschichte unter polnischer, österreichischer und sowjetischer Herrschaft. Die Architektur zeigt eine Mischung aus Jugendstil und traditioneller huzulischer Bauweise. Die Stadt hat etwa 61.000 Einwohner. Die Landwirtschaft und der Tourismus sind wichtige Wirtschaftszweige. Jährlich findet das Pysanky-Festival statt. Kolomyja ist auch ein Tor zu den Karpaten.",
+      hu: "Kolomija az Ivano-Frankivszki terület városa és a hucul régió kulturális központja. A város a Prut folyó partján fekszik, és gazdag népművészetéről híres, különösen a festett húsvéti tojásokról (pisankák). A Hucul Népművészeti Múzeumban található az egyik legnagyobb pisankagyűjtemény. Kolomija változatos történelemmel rendelkezik lengyel, osztrák és szovjet uralom alatt. Az építészet a szecesszió és a hagyományos hucul stílus keveréke. A lakosság körülbelül 61 000 fő. A mezőgazdaság és a turizmus fontos gazdasági ágazatok. Évente megrendezik a Pisanka Fesztivált. Kolomija a Kárpátok kapuja is.",
+      ro: "Colomeea este un oraș în regiunea Ivano-Frankivsk și un centru cultural al regiunii Huțulilor. Orașul este situat pe râul Prut și este cunoscut pentru arta populară bogată, în special ouăle decorate (pysanky). Muzeul de Artă Populară Huțulă deține una dintre cele mai mari colecții de pysanky. Colomeea are o istorie variată sub stăpânire poloneză, austriacă și sovietică. Arhitectura combină Art Nouveau cu stilul huțul tradițional. Populația este de aproximativ 61.000 de locuitori. Agricultura și turismul sunt sectoare economice importante. Festivalul Pysanky are loc anual. Colomeea este, de asemenea, o poartă către Carpați.",
+      en: "Kolomyia is a city in Ivano-Frankivsk Oblast and a cultural center of the Hutsul region. Located on the Prut River, it is famous for its rich folk art, especially painted Easter eggs (pysanky). The Hutsul Folk Art Museum houses one of the largest collections of pysanky. Kolomyia has a varied history under Polish, Austrian, and Soviet rule. The architecture blends Art Nouveau with traditional Hutsul styles. The population is about 61,000. Agriculture and tourism are important economic sectors. The Pysanky Festival is held annually. Kolomyia is also a gateway to the Carpathians.",
+    },
+    factsAdvanced: {
+      de: ["Kolomyja wurde 1240 erstmals erwähnt.", "Das Museum für Huzulen-Volkskunst beherbergt über 10.000 Pysanky.", "Die Stadt hat eine Fläche von etwa 41 km².", "Die Bevölkerungszahl beträgt 61.000 (2021).", "Das Pysanky-Festival findet seit 1987 statt.", "Kolomyja liegt auf einer Höhe von 300 m über dem Meeresspiegel."],
+      hu: ["Kolomiját 1240-ben említik először.", "A Hucul Népművészeti Múzeum több mint 10 000 pisankát őriz.", "A város területe körülbelül 41 km².", "A lakosságszám 61 000 fő (2021).", "A Pisanka Fesztivált 1987 óta rendezik meg.", "Kolomija 300 m tengerszint feletti magasságban fekszik."],
+      ro: ["Colomeea a fost menționată pentru prima dată în 1240.", "Muzeul de Artă Populară Huțulă deține peste 10.000 de pysanky.", "Orașul are o suprafață de aproximativ 41 km².", "Populația este de 61.000 de locuitori (2021).", "Festivalul Pysanky are loc din 1987.", "Colomeea este situată la o altitudine de 300 m."],
+      en: ["Kolomyia was first mentioned in 1240.", "The Hutsul Folk Art Museum houses over 10,000 pysanky.", "The city covers an area of about 41 km².", "Population is 61,000 (2021).", "The Pysanky Festival has been held since 1987.", "Kolomyia is located at an elevation of 300 m above sea level."],
+    },
+  },
   {
     id: "ukraine-poryv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Warasch", hu: "Varas", ro: "Varaș", en: "Varash",
-image: "/poi-images/ukraine-poryv-cities-v2.webp"
-},
+    name: { de: "Warasch", hu: "Varas", ro: "Varaș", en: "Varash"},
+    image: "/poi-images/ukraine-poryv-cities-v2.webp",
     coords: [25.8517, 51.3411],
     coordinates: { lat: 51.3411, lng: 25.8517 },
     description: {
@@ -1821,14 +2383,26 @@ image: "/poi-images/ukraine-poryv-cities-v2.webp"
       en: ["Formerly known as Kuznetsovsk", "Satellite city of the Rivne NPP", "Established in 1973 on the site of a village", "Highly specialized energy-sector workforce"],
     },
     imageHint: "Rivne nuclear power plant near Varash",
-    image: "/poi-images/ukraine-poryv-cities-v2.webp"},
+    image: "/poi-images/ukraine-poryv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Varash, früher bekannt als Kuznetsovsk, ist eine Stadt in der Oblast Riwne und Standort des Kernkraftwerks Riwne. Die Stadt wurde 1973 als Wohnsiedlung für die Arbeiter des Kraftwerks gegründet. Das Kernkraftwerk mit vier Reaktoren liefert einen bedeutenden Teil des ukrainischen Stroms. Varash hat etwa 42.000 Einwohner. Die Stadt ist modern geplant mit breiten Straßen und viel Grün. Die Wirtschaft ist stark vom Kraftwerk abhängig. In den letzten Jahren gab es Diskussionen über die Sicherheit und die Zukunft der Kernenergie. Varash bietet gute Lebensbedingungen mit Schulen, Krankenhäusern und Freizeiteinrichtungen.",
+      hu: "Varash, korábban Kuznyecovszk, a Rivnei terület városa, és a Rivnei Atomerőmű helyszíne. A várost 1973-ban alapították az erőmű dolgozóinak lakóhelyeként. Az atomerőmű négy reaktorral jelentős részt termel Ukrajna áramából. Varasnak körülbelül 42 000 lakosa van. A város modern tervezésű, széles utcákkal és sok zöldterülettel. A gazdaság erősen függ az erőműtől. Az utóbbi években viták folytak a nukleáris energia biztonságáról és jövőjéről. Varash jó életkörülményeket kínál iskolákkal, kórházakkal és szabadidős létesítményekkel.",
+      ro: "Varaș, cunoscut anterior ca Kuznețovsk, este un oraș în regiunea Rivne și locația Centralei Nucleare Rivne. Orașul a fost fondat în 1973 ca așezare pentru muncitorii centralei. Centrala nucleară, cu patru reactoare, produce o parte semnificativă din electricitatea Ucrainei. Varaș are aproximativ 42.000 de locuitori. Orașul este planificat modern, cu străzi largi și mult spațiu verde. Economia depinde puternic de centrală. În ultimii ani, au existat discuții despre siguranța și viitorul energiei nucleare. Varaș oferă condiții bune de trai, cu școli, spitale și facilități de agrement.",
+      en: "Varash, formerly known as Kuznetsovsk, is a city in Rivne Oblast and the location of the Rivne Nuclear Power Plant. The city was founded in 1973 as a residential settlement for plant workers. The power plant, with four reactors, supplies a significant portion of Ukraine's electricity. Varash has about 42,000 inhabitants. The city is modernly planned with wide streets and abundant greenery. The economy is heavily dependent on the power plant. Recent years have seen discussions on nuclear safety and energy future. Varash offers good living conditions with schools, hospitals, and recreational facilities.",
+    },
+    factsAdvanced: {
+      de: ["Das Kernkraftwerk Riwne wurde 1980 in Betrieb genommen.", "Die Stadt Varash hat eine Fläche von etwa 15 km².", "Die Bevölkerungsdichte beträgt etwa 2.800 Einwohner pro km².", "Der erste Reaktor des Kraftwerks hat eine Leistung von 440 MW.", "Der Bau der Stadt begann 1973.", "Varash liegt 70 km nördlich von Riwne."],
+      hu: ["A Rivnei Atomerőművet 1980-ban helyezték üzembe.", "Varash területe körülbelül 15 km².", "A népsűrűség körülbelül 2 800 fő/km².", "Az erőmű első reaktorának teljesítménye 440 MW.", "A város építése 1973-ban kezdődött.", "Varash 70 km-re északra fekszik Rivne városától."],
+      ro: ["Centrala Nucleară Rivne a fost pusă în funcțiune în 1980.", "Orașul Varaș are o suprafață de aproximativ 15 km².", "Densitatea populației este de circa 2.800 locuitori pe km².", "Primul reactor al centralei are o capacitate de 440 MW.", "Construcția orașului a început în 1973.", "Varaș este situat la 70 km nord de Rivne."],
+      en: ["Rivne Nuclear Power Plant was commissioned in 1980.", "Varash covers an area of about 15 km².", "Population density is about 2,800 inhabitants per km².", "The first reactor of the plant has a capacity of 440 MW.", "Construction of the city began in 1973.", "Varash is located 70 km north of Rivne."],
+    },
+  },
   {
     id: "ukraine-shostka-powder-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schostka-Industriestadt", hu: "Szosztka-iparváros", ro: "Șostka-Industrial", en: "Shostka-Industrial",
-image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"
-},
+    name: { de: "Schostka-Industriestadt", hu: "Szosztka-iparváros", ro: "Șostka-Industrial", en: "Shostka-Industrial"},
+    image: "/poi-images/ukraine-shostka-powder-cities-v2.webp",
     coords: [33.4864, 51.8617],
     coordinates: { lat: 51.8617, lng: 33.4864 },
     description: {
@@ -1844,14 +2418,26 @@ image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"
       en: ["Gunpowder factory established in 1739", "Center for chemical and material science", "Key strategic military industrial site", "Home to the unique Svema Film Museum"],
     },
     imageHint: "Old industrial buildings in Shostka",
-    image: "/poi-images/ukraine-shostka-powder-cities-v2.webp"},
+    image: "/poi-images/ukraine-shostka-powder-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Schostka ist eine Industriestadt in der Oblast Sumy, bekannt für ihre Produktion von Filmmaterial und Schießpulver. Die Stadt wurde 1739 gegründet und entwickelte sich im 19. Jahrhundert zu einem Zentrum der chemischen Industrie. Die Schostka-Filmfabrik war eine der größten in der Sowjetunion und produzierte Kino- und Fotofilme. Die Schießpulverfabrik ist ein wichtiger Arbeitgeber. Die Stadt hat etwa 70.000 Einwohner. Die Wirtschaft ist diversifiziert mit Maschinenbau und Lebensmittelverarbeitung. Die Architektur spiegelt die sowjetische Ära wider, mit weiten Plätzen und monumentalen Gebäuden. In den letzten Jahren gab es wirtschaftliche Herausforderungen, aber die Stadt bleibt ein wichtiges Industriezentrum.",
+      hu: "Sosztka ipari város a Szumi területen, híres filmanyag- és lőporgyártásáról. A várost 1739-ben alapították, és a 19. században a vegyipar központjává fejlődött. A Sosztkai Filmgyár az egyik legnagyobb volt a Szovjetunióban, mozi- és fotófilmeket gyártott. A lőporgyár fontos munkaadó. A lakosság körülbelül 70 000 fő. A gazdaság diverzifikált, gépgyártással és élelmiszer-feldolgozással. Az építészet a szovjet korszakot tükrözi, széles terekkel és monumentális épületekkel. Az utóbbi években gazdasági kihívások voltak, de a város fontos ipari központ marad.",
+      ro: "Șostka este un oraș industrial în regiunea Sumî, cunoscut pentru producția de material cinematografic și praf de pușcă. Orașul a fost fondat în 1739 și s-a dezvoltat în secolul al XIX-lea ca centru al industriei chimice. Fabrica de film Șostka a fost una dintre cele mai mari din Uniunea Sovietică, producând filme de cinema și fotografice. Fabrica de praf de pușcă este un important angajator. Populația este de aproximativ 70.000 de locuitori. Economia este diversificată, incluzând construcții de mașini și procesarea alimentelor. Arhitectura reflectă epoca sovietică, cu piețe largi și clădiri monumentale. În ultimii ani, au existat provocări economice, dar orașul rămâne un important centru industrial.",
+      en: "Shostka is an industrial city in Sumy Oblast, known for its production of film materials and gunpowder. Founded in 1739, it developed into a chemical industry center in the 19th century. The Shostka Film Factory was one of the largest in the Soviet Union, producing cinema and photographic films. The gunpowder factory is a major employer. The population is about 70,000. The economy is diversified with machinery and food processing. The architecture reflects the Soviet era with wide squares and monumental buildings. Recent years have brought economic challenges, but the city remains an important industrial center.",
+    },
+    factsAdvanced: {
+      de: ["Schostka wurde 1739 von Kosaken gegründet.", "Die Filmfabrik produzierte über 1 Milliarde Filme pro Jahr.", "Die Stadt hat eine Fläche von etwa 35 km².", "Die Bevölkerung beträgt rund 70.000 (2021).", "Die Schießpulverfabrik wurde im 19. Jahrhundert gebaut.", "Schostka liegt am Fluss Desna, 150 km nordöstlich von Kiew."],
+      hu: ["Sosztkát 1739-ben kozákok alapították.", "A filmgyár évente több mint 1 milliárd filmet gyártott.", "A város területe körülbelül 35 km².", "A lakosságszám körülbelül 70 000 fő (2021).", "A lőporgyár a 19. században épült.", "Sosztka a Deszna folyónál fekszik, 150 km-re északkeletre Kijevtől."],
+      ro: ["Șostka a fost fondată în 1739 de cazaci.", "Fabrica de film producea peste 1 miliard de filme pe an.", "Orașul are o suprafață de aproximativ 35 km².", "Populația este de circa 70.000 de locuitori (2021).", "Fabrica de praf de pușcă a fost construită în secolul al XIX-lea.", "Șostka este situată pe râul Desna, la 150 km nord-est de Kiev."],
+      en: ["Shostka was founded in 1739 by Cossacks.", "The film factory produced over 1 billion films per year.", "The city covers an area of about 35 km².", "Population is approximately 70,000 (2021).", "The gunpowder factory was built in the 19th century.", "Shostka is located on the Desna River, 150 km northeast of Kyiv."],
+    },
+  },
   {
     id: "ukraine-netishyn-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Netischyn", hu: "Netisin", ro: "Netișîn", en: "Netishyn",
-image: "/poi-images/ukraine-netishyn-cities-v2.webp"
-},
+    name: { de: "Netischyn", hu: "Netisin", ro: "Netișîn", en: "Netishyn"},
+    image: "/poi-images/ukraine-netishyn-cities-v2.webp",
     coords: [26.6517, 50.3297],
     coordinates: { lat: 50.3297, lng: 26.6517 },
     description: {
@@ -1867,14 +2453,26 @@ image: "/poi-images/ukraine-netishyn-cities-v2.webp"
       en: ["Satellite city for the Khmelnytskyi NPP", "Modern town founded in 1981", "Highly educated workforce specialized in energy", "Located near the historic town of Ostroh"],
     },
     imageHint: "Khmelnytskyi nuclear power plant and Netishyn",
-    image: "/poi-images/ukraine-netishyn-cities-v2.webp"},
+    image: "/poi-images/ukraine-netishyn-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Netischyn ist eine Stadt in der Oblast Chmelnyzkyj und Standort des Kernkraftwerks Chmelnyzkyj. Die Stadt wurde 1981 als Arbeitersiedlung für das Kraftwerk gegründet. Das Kernkraftwerk mit zwei Reaktoren ist eine wichtige Stromquelle für die Ukraine. Netischyn hat etwa 34.000 Einwohner. Die Stadt ist modern gestaltet mit Parks und Wohnvierteln. Die Wirtschaft ist stark vom Kraftwerk abhängig. Es gibt Diskussionen über den Bau zusätzlicher Reaktoren. Netischyn bietet gute Infrastruktur mit Schulen, einem Krankenhaus und kulturellen Einrichtungen. Die Umgebung ist ländlich geprägt.",
+      hu: "Netyisin a Hmelnickiji terület városa, a Hmelnickiji Atomerőmű helyszíne. A várost 1981-ben alapították az erőmű dolgozóinak településeként. Az atomerőmű két reaktorral fontos áramforrás Ukrajna számára. Netyisinnek körülbelül 34 000 lakosa van. A város modern kialakítású, parkokkal és lakónegyedekkel. A gazdaság erősen függ az erőműtől. Vita folyik további reaktorok építéséről. Netyisin jó infrastruktúrát kínál iskolákkal, kórházzal és kulturális létesítményekkel. A környék vidéki jellegű.",
+      ro: "Netișîn este un oraș în regiunea Hmelnîțkîi și locația Centralei Nucleare Hmelnîțkîi. Orașul a fost fondat în 1981 ca așezare pentru muncitorii centralei. Centrala nucleară, cu două reactoare, este o sursă importantă de electricitate pentru Ucraina. Netișîn are aproximativ 34.000 de locuitori. Orașul este proiectat modern, cu parcuri și cartiere rezidențiale. Economia depinde puternic de centrală. Există discuții despre construirea de reactoare suplimentare. Netișîn oferă o infrastructură bună, cu școli, un spital și facilități culturale. Zona înconjurătoare este rurală.",
+      en: "Netishyn is a city in Khmelnytskyi Oblast and the location of the Khmelnytskyi Nuclear Power Plant. The city was founded in 1981 as a workers' settlement for the plant. The power plant, with two reactors, is an important electricity source for Ukraine. Netishyn has about 34,000 inhabitants. The city is modernly designed with parks and residential areas. The economy is heavily dependent on the power plant. There are discussions about building additional reactors. Netishyn offers good infrastructure with schools, a hospital, and cultural facilities. The surrounding area is rural.",
+    },
+    factsAdvanced: {
+      de: ["Das Kernkraftwerk Chmelnyzkyj wurde 1987 in Betrieb genommen.", "Netischyn hat eine Fläche von etwa 12 km².", "Die Bevölkerungszahl beträgt rund 34.000 (2021).", "Der erste Reaktor hat eine Leistung von 1.000 MW.", "Die Stadt wurde 1981 gegründet.", "Netischyn liegt am Fluss Horyn, 100 km nördlich von Chmelnyzkyj."],
+      hu: ["A Hmelnickiji Atomerőművet 1987-ben helyezték üzembe.", "Netyisin területe körülbelül 12 km².", "A lakosságszám körülbelül 34 000 fő (2021).", "Az első reaktor teljesítménye 1 000 MW.", "A várost 1981-ben alapították.", "Netyisin a Horyn folyónál fekszik, 100 km-re északra Hmelnickij városától."],
+      ro: ["Centrala Nucleară Hmelnîțkîi a fost pusă în funcțiune în 1987.", "Netișîn are o suprafață de aproximativ 12 km².", "Populația este de circa 34.000 de locuitori (2021).", "Primul reactor are o capacitate de 1.000 MW.", "Orașul a fost fondat în 1981.", "Netișîn este situat pe râul Horyn, la 100 km nord de Hmelnîțkîi."],
+      en: ["Khmelnytskyi Nuclear Power Plant was commissioned in 1987.", "Netishyn covers an area of about 12 km².", "Population is approximately 34,000 (2021).", "The first reactor has a capacity of 1,000 MW.", "The city was founded in 1981.", "Netishyn is located on the Horyn River, 100 km north of Khmelnytskyi."],
+    },
+  },
   {
     id: "ukraine-enerhodar-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Enerhodar", hu: "Enerhodar", ro: "Enerhodar", en: "Enerhodar",
-image: "/poi-images/ukraine-enerhodar-cities-v2.webp"
-},
+    name: { de: "Enerhodar", hu: "Enerhodar", ro: "Enerhodar", en: "Enerhodar"},
+    image: "/poi-images/ukraine-enerhodar-cities-v2.webp",
     coords: [34.655, 47.4989],
     coordinates: { lat: 47.4989, lng: 34.655 },
     description: {
@@ -1890,14 +2488,26 @@ image: "/poi-images/ukraine-enerhodar-cities-v2.webp"
       en: ["Base for the Zaporizhzhia Nuclear Power Plant", "The name translates to 'Energy Giver'", "Founded specifically as an energy hub in 1970", "Located on the left bank of the Dnieper"],
     },
     imageHint: "Zaporizhzhia Nuclear Power Plant in Enerhodar",
-    image: "/poi-images/ukraine-enerhodar-cities-v2.webp"},
+    image: "/poi-images/ukraine-enerhodar-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Enerhodar ist eine Stadt in der Oblast Saporischschja und Standort des Kernkraftwerks Saporischschja, dem größten Kernkraftwerk Europas. Die Stadt wurde 1970 als Siedlung für die Bauarbeiter des Kraftwerks gegründet. Das Kraftwerk hat sechs Reaktoren mit einer Gesamtleistung von 6.000 MW. Enerhodar hat etwa 53.000 Einwohner. Die Stadt ist modern geplant mit breiten Alleen und viel Grün. Die Wirtschaft ist vollständig vom Kraftwerk abhängig. In den letzten Jahren war das Kraftwerk aufgrund des Krieges in der Ukraine stark betroffen. Enerhodar liegt am Ufer des Kachowka-Stausees. Die Stadt bietet Bildungseinrichtungen und kulturelle Angebote.",
+      hu: "Enerhodar a Zaporizzsjai terület városa és a Zaporizzsjai Atomerőmű helyszíne, Európa legnagyobb atomerőművéé. A várost 1970-ben alapították az erőmű építőmunkásainak településeként. Az erőmű hat reaktorral rendelkezik, összteljesítménye 6 000 MW. Enerhodarnak körülbelül 53 000 lakosa van. A város modern tervezésű, széles sugárutakkal és sok zöldterülettel. A gazdaság teljes mértékben az erőműtől függ. Az elmúlt években az erőmű súlyosan érintett volt az ukrajnai háború miatt. Enerhodar a Kahovkai-víztározó partján fekszik. A város oktatási intézményeket és kulturális lehetőségeket kínál.",
+      ro: "Enerhodar este un oraș în regiunea Zaporijjea și locația Centralei Nucleare Zaporijjea, cea mai mare centrală nucleară din Europa. Orașul a fost fondat în 1970 ca așezare pentru muncitorii care construiau centrala. Centrala are șase reactoare cu o capacitate totală de 6.000 MW. Enerhodar are aproximativ 53.000 de locuitori. Orașul este planificat modern, cu bulevarde largi și mult spațiu verde. Economia depinde în totalitate de centrală. În ultimii ani, centrala a fost grav afectată de războiul din Ucraina. Enerhodar este situat pe malul lacului de acumulare Kahovka. Orașul oferă instituții de învățământ și facilități culturale.",
+      en: "Enerhodar is a city in Zaporizhzhia Oblast and the location of the Zaporizhzhia Nuclear Power Plant, the largest nuclear power plant in Europe. The city was founded in 1970 as a settlement for plant construction workers. The plant has six reactors with a total capacity of 6,000 MW. Enerhodar has about 53,000 inhabitants. The city is modernly planned with wide boulevards and abundant greenery. The economy is entirely dependent on the power plant. In recent years, the plant has been heavily affected by the war in Ukraine. Enerhodar sits on the shore of the Kakhovka Reservoir. The city offers educational institutions and cultural amenities.",
+    },
+    factsAdvanced: {
+      de: ["Das Kernkraftwerk Saporischschja wurde 1984 in Betrieb genommen.", "Enerhodar hat eine Fläche von etwa 20 km².", "Die Bevölkerung beträgt rund 53.000 (2021).", "Der Kachowka-Stausee hat eine Fläche von 2.155 km².", "Der Bau der Stadt begann 1970.", "Enerhodar liegt 60 km südwestlich von Saporischschja."],
+      hu: ["A Zaporizzsjai Atomerőművet 1984-ben helyezték üzembe.", "Enerhodar területe körülbelül 20 km².", "A lakosságszám körülbelül 53 000 fő (2021).", "A Kahovkai-víztározó területe 2 155 km².", "A város építése 1970-ben kezdődött.", "Enerhodar 60 km-re délnyugatra fekszik Zaporizzsjától."],
+      ro: ["Centrala Nucleară Zaporijjea a fost pusă în funcțiune în 1984.", "Enerhodar are o suprafață de aproximativ 20 km².", "Populația este de circa 53.000 de locuitori (2021).", "Lacul de acumulare Kahovka are o suprafață de 2.155 km².", "Construcția orașului a început în 1970.", "Enerhodar este situat la 60 km sud-vest de Zaporijjea."],
+      en: ["Zaporizhzhia Nuclear Power Plant was commissioned in 1984.", "Enerhodar covers an area of about 20 km².", "Population is approximately 53,000 (2021).", "Kakhovka Reservoir has an area of 2,155 km².", "Construction of the city began in 1970.", "Enerhodar is located 60 km southwest of Zaporizhzhia."],
+    },
+  },
   {
     id: "ukraine-shuzhhorod-sakura-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Uschhorod-Sakurastadt", hu: "Ungvár-szakuraváros", ro: "Ujhorod-Sakura", en: "Uzhhorod Sakura-Town",
-image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"
-},
+    name: { de: "Uschhorod-Sakurastadt", hu: "Ungvár-szakuraváros", ro: "Ujhorod-Sakura", en: "Uzhhorod Sakura-Town"},
+    image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp",
     coords: [22.2879, 48.6208],
     coordinates: { lat: 48.6208, lng: 22.2879 },
     description: {
@@ -1913,14 +2523,26 @@ image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"
       en: ["Largest Sakura plantation in Europe", "Trees originally planted in 1923", "Attracts thousands of visitors annually", "Hosts a unique Sakura festival each spring"],
     },
     imageHint: "Cherry blossoms in Uzhhorod streets",
-    image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp"},
+    image: "/poi-images/ukraine-shuzhhorod-sakura-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Uschhorod ist eine Stadt im Westen der Ukraine und das administrative Zentrum der Oblast Transkarpatien. Bekannt für seine Sakura-Blüte, beherbergt die Stadt den größten Sakura-Hain Europas. Uschhorod hat eine reiche Geschichte unter ungarischer, österreichischer und tschechoslowakischer Herrschaft. Die Architektur zeigt eine Mischung aus Jugendstil und ungarischen Einflüssen. Die Stadt hat etwa 115.000 Einwohner. Die Universität Uschhorod ist ein wichtiges Bildungszentrum. Die Wirtschaft basiert auf Handel, Tourismus und Dienstleistungen. Jedes Jahr im Frühling zieht die Sakura-Blüte viele Besucher an. Uschhorod liegt an der Grenze zur Slowakei und Ungarn.",
+      hu: "Ungvár Nyugat-Ukrajna városa és a Kárpátaljai terület közigazgatási központja. Híres a cseresznyevirágzásáról, a városban található Európa legnagyobb szakurá ligete. Ungvár gazdag történelemmel rendelkezik magyar, osztrák és csehszlovák uralom alatt. Az építészet a szecesszió és a magyar hatások keveréke. A városnak körülbelül 115 000 lakosa van. Az Ungvári Egyetem fontos oktatási központ. A gazdaság a kereskedelemre, turizmusra és szolgáltatásokra épül. Minden tavasszal a cseresznyevirágzás sok látogatót vonz. Ungvár a szlovák és magyar határon fekszik.",
+      ro: "Ujhorod este un oraș în vestul Ucrainei și centrul administrativ al regiunii Transcarpatia. Cunoscut pentru înflorirea sa sakura, orașul găzduiește cea mai mare pădure de sakura din Europa. Ujhorod are o istorie bogată sub stăpânire maghiară, austriacă și cehoslovacă. Arhitectura combină Art Nouveau cu influențe maghiare. Populația este de aproximativ 115.000 de locuitori. Universitatea din Ujhorod este un important centru educațional. Economia se bazează pe comerț, turism și servicii. În fiecare primăvară, înflorirea sakura atrage mulți vizitatori. Ujhorod este situat la granița cu Slovacia și Ungaria.",
+      en: "Uzhhorod is a city in western Ukraine and the administrative center of Zakarpattia Oblast. Known for its sakura blossoms, the city hosts the largest sakura grove in Europe. Uzhhorod has a rich history under Hungarian, Austrian, and Czechoslovak rule. The architecture blends Art Nouveau with Hungarian influences. The population is about 115,000. Uzhhorod University is an important educational center. The economy is based on trade, tourism, and services. Every spring, the sakura bloom attracts many visitors. Uzhhorod lies on the border with Slovakia and Hungary.",
+    },
+    factsAdvanced: {
+      de: ["Uschhorod wurde 872 erstmals erwähnt.", "Der Sakura-Hain hat über 2.000 Bäume.", "Die Stadt hat eine Fläche von etwa 40 km².", "Die Bevölkerungszahl beträgt rund 115.000 (2021).", "Die Universität Uschhorod wurde 1945 gegründet.", "Uschhorod liegt auf einer Höhe von 120 m über dem Meeresspiegel."],
+      hu: ["Ungvárt 872-ben említik először.", "A szakurá liget több mint 2 000 fát számlál.", "A város területe körülbelül 40 km².", "A lakosságszám körülbelül 115 000 fő (2021).", "Az Ungvári Egyetemet 1945-ben alapították.", "Ungvár 120 m tengerszint feletti magasságban fekszik."],
+      ro: ["Ujhorod a fost menționat pentru prima dată în 872.", "Pădurea de sakura are peste 2.000 de copaci.", "Orașul are o suprafață de aproximativ 40 km².", "Populația este de circa 115.000 de locuitori (2021).", "Universitatea din Ujhorod a fost fondată în 1945.", "Ujhorod este situat la o altitudine de 120 m."],
+      en: ["Uzhhorod was first mentioned in 872.", "The sakura grove contains over 2,000 trees.", "The city covers an area of about 40 km².", "Population is approximately 115,000 (2021).", "Uzhhorod University was founded in 1945.", "Uzhhorod is located at an elevation of 120 m above sea level."],
+    },
+  },
   {
     id: "ukraine-morshyn-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Morschyn", hu: "Morsin", ro: "Morșîn", en: "Morshyn",
-image: "/poi-images/ukraine-morshyn-cities-v2.webp"
-},
+    name: { de: "Morschyn", hu: "Morsin", ro: "Morșîn", en: "Morshyn"},
+    image: "/poi-images/ukraine-morshyn-cities-v2.webp",
     coords: [23.8717, 49.155],
     coordinates: { lat: 49.155, lng: 23.8717 },
     description: {
@@ -1936,14 +2558,26 @@ image: "/poi-images/ukraine-morshyn-cities-v2.webp"
       en: ["Source of the famous 'Morshynska' water", "First mentioned in the year 1469", "Major destination for digestive therapy", "Home to numerous historic sanatoriums"],
     },
     imageHint: "Morshyn mineral water pump room and park",
-    image: "/poi-images/ukraine-morshyn-cities-v2.webp"},
+    image: "/poi-images/ukraine-morshyn-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Morschyn ist ein Kurort in der Oblast Lwiw, bekannt für seine Mineralwasserquellen und Heilanwendungen. Die Stadt liegt in den Karpaten und ist ein beliebtes Ziel für Gesundheits- und Wellnesstourismus. Die Mineralwässer von Morschyn werden zur Behandlung von Magen-Darm-, Nieren- und Stoffwechselerkrankungen eingesetzt. Der Kurort hat eine lange Tradition, die bis ins 19. Jahrhundert zurückreicht. Morschyn hat etwa 6.000 Einwohner. Die Infrastruktur umfasst Sanatorien, Kurhäuser und Parks. Die Umgebung bietet Wander- und Erholungsmöglichkeiten. Die Architektur der Sanatorien ist im Stil der Sowjetmoderne gehalten. Jährlich besuchen tausende Gäste den Ort.",
+      hu: "Morsin üdülőhely a Lvivi területen, híres ásványvízforrásairól és gyógykezeléseiről. A város a Kárpátokban fekszik, és népszerű célpont az egészség- és wellnessturizmus számára. A morsini ásványvizeket gyomor-bélrendszeri, vesebetegségek és anyagcserezavarok kezelésére használják. Az üdülőhely hagyománya a 19. századig nyúlik vissza. Morsinnak körülbelül 6 000 lakosa van. Az infrastruktúra szanatóriumokat, gyógyházakat és parkokat foglal magában. A környék túrázási és pihenési lehetőségeket kínál. A szanatóriumok építészete szovjet modern stílusú. Évente több ezer vendég látogat ide.",
+      ro: "Morșîn este o stațiune balneară în regiunea Liov, cunoscută pentru izvoarele sale de apă minerală și tratamentele medicale. Orașul este situat în Carpați și este o destinație populară pentru turismul de sănătate și wellness. Apele minerale din Morșîn sunt folosite pentru tratarea afecțiunilor gastrointestinale, renale și metabolice. Stațiunea are o tradiție lungă care datează din secolul al XIX-lea. Morșîn are aproximativ 6.000 de locuitori. Infrastructura include sanatorii, case de odihnă și parcuri. Zona oferă posibilități de drumeții și recreere. Arhitectura sanatoriilor este în stil modernist sovietic. Mii de oaspeți vizitează anual stațiunea.",
+      en: "Morshyn is a spa town in Lviv Oblast, known for its mineral water springs and health treatments. Located in the Carpathians, it is a popular destination for health and wellness tourism. The mineral waters of Morshyn are used to treat gastrointestinal, kidney, and metabolic disorders. The spa tradition dates back to the 19th century. Morshyn has about 6,000 inhabitants. The infrastructure includes sanatoriums, health resorts, and parks. The surroundings offer hiking and recreation opportunities. The architecture of the sanatoriums is in Soviet modernist style. Thousands of guests visit annually.",
+    },
+    factsAdvanced: {
+      de: ["Morschyn erhielt 1867 den Status eines Kurorts.", "Die Mineralwasserquellen haben eine Gesamtförderung von 500.000 Litern pro Tag.", "Die Stadt hat eine Fläche von etwa 5 km².", "Die Einwohnerzahl beträgt rund 6.000 (2021).", "Die höchste Quelle liegt auf 350 m Meereshöhe.", "Morschyn liegt 10 km östlich von Truskawez."],
+      hu: ["Morsin 1867-ben kapott üdülőhelyi státuszt.", "Az ásványvízforrások napi összhozama 500 000 liter.", "A város területe körülbelül 5 km².", "A lakosságszám körülbelül 6 000 fő (2021).", "A legmagasabb forrás 350 m tengerszint feletti magasságban van.", "Morsin 10 km-re keletre fekszik Truszkavectől."],
+      ro: ["Morșîn a primit statutul de stațiune balneară în 1867.", "Izvoarele de apă minerală au o producție totală de 500.000 de litri pe zi.", "Orașul are o suprafață de aproximativ 5 km².", "Populația este de circa 6.000 de locuitori (2021).", "Cel mai înalt izvor este la o altitudine de 350 m.", "Morșîn este situat la 10 km est de Truskaveț."],
+      en: ["Morshyn was granted spa status in 1867.", "Mineral water springs have a total output of 500,000 liters per day.", "The city covers an area of about 5 km².", "Population is approximately 6,000 (2021).", "The highest spring is at an altitude of 350 m.", "Morshyn is located 10 km east of Truskavets."],
+    },
+  },
   {
     id: "ukraine-truskavets-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Truskawez", hu: "Truszkavec", ro: "Truskaveț", en: "Truskavets",
-image: "/poi-images/ukraine-truskavets-cities-v2.webp"
-},
+    name: { de: "Truskawez", hu: "Truszkavec", ro: "Truskaveț", en: "Truskavets"},
+    image: "/poi-images/ukraine-truskavets-cities-v2.webp",
     coords: [23.5047, 49.2789],
     coordinates: { lat: 49.2789, lng: 23.5047 },
     description: {
@@ -1959,14 +2593,26 @@ image: "/poi-images/ukraine-truskavets-cities-v2.webp"
       en: ["Unique source of Naftusia mineral water", "Official resort status since 1827", "Features over 20 major sanatoriums", "Set in a valley of the Carpathian foothills"],
     },
     imageHint: "Truskavets pump room and landscape",
-    image: "/poi-images/ukraine-truskavets-cities-v2.webp"},
+    image: "/poi-images/ukraine-truskavets-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Truskawez ist ein renommierter Kurort in der Oblast Lwiw, bekannt für seine Mineralwässer und Schlammbäder. Die Stadt liegt in den Karpaten, umgeben von Wäldern. Die Mineralwässer von Truskawez, insbesondere Naftusya und Truskavetska, werden zur Behandlung von Nieren-, Leber- und Stoffwechselerkrankungen genutzt. Der Kurort hat eine über 150-jährige Geschichte. Truskawez hat etwa 30.000 Einwohner. Die Infrastruktur umfasst zahlreiche Sanatorien, Hotels und Parks. Die Architektur ist eine Mischung aus Jugendstil und sowjetischer Moderne. Jährlich besuchen Hunderttausende Gäste den Ort. Die Umgebung bietet vielfältige Freizeitmöglichkeiten.",
+      hu: "Truszkavec neves üdülőhely a Lvivi területen, híres ásványvizeiről és iszapfürdőiről. A város a Kárpátokban, erdők által övezve fekszik. A truszkaveci ásványvizeket, különösen a Naftuszját és Truszkaveckát, vesebetegségek, májbetegségek és anyagcserezavarok kezelésére használják. Az üdülőhely több mint 150 éves múltra tekint vissza. Truszkavecnek körülbelül 30 000 lakosa van. Az infrastruktúra számos szanatóriumot, szállodát és parkot foglal magában. Az építészet a szecesszió és a szovjet modernizmus keveréke. Évente több százezer vendég látogat ide. A környék sokféle szabadidős lehetőséget kínál.",
+      ro: "Truskaveț este o renumită stațiune balneară în regiunea Liov, cunoscută pentru apele sale minerale și băile cu noroi. Orașul este situat în Carpați, înconjurat de păduri. Apele minerale din Truskaveț, în special Naftusia și Truskavețka, sunt folosite pentru tratarea afecțiunilor renale, hepatice și metabolice. Stațiunea are o istorie de peste 150 de ani. Truskaveț are aproximativ 30.000 de locuitori. Infrastructura include numeroase sanatorii, hoteluri și parcuri. Arhitectura este un amestec de Art Nouveau și modernism sovietic. Sute de mii de oaspeți vizitează anual. Zona oferă diverse opțiuni de agrement.",
+      en: "Truskavets is a renowned spa town in Lviv Oblast, known for its mineral waters and mud baths. Located in the Carpathians, surrounded by forests. The mineral waters, especially Naftusya and Truskavetska, are used for treating kidney, liver, and metabolic disorders. The spa has over 150 years of history. Truskavets has about 30,000 inhabitants. The infrastructure includes numerous sanatoriums, hotels, and parks. The architecture is a mix of Art Nouveau and Soviet modernism. Hundreds of thousands of guests visit annually. The surroundings offer diverse recreational activities.",
+    },
+    factsAdvanced: {
+      de: ["Truskawez erhielt 1827 Kurortstatus.", "Die Hauptquelle Naftusya fördert 300.000 Liter pro Tag.", "Die Stadt hat eine Fläche von etwa 11 km².", "Die Einwohnerzahl beträgt rund 30.000 (2021).", "Der Kurpark umfasst 50 Hektar.", "Truskawez liegt auf einer Höhe von 350-500 m."],
+      hu: ["Truszkavec 1827-ben kapott üdülőhelyi státuszt.", "A Naftuszja fő forrás napi 300 000 litert termel.", "A város területe körülbelül 11 km².", "A lakosságszám körülbelül 30 000 fő (2021).", "A gyógypark 50 hektáron terül el.", "Truszkavec 350-500 m tengerszint feletti magasságban fekszik."],
+      ro: ["Truskaveț a primit statut de stațiune balneară în 1827.", "Izvorul principal Naftusia produce 300.000 de litri pe zi.", "Orașul are o suprafață de aproximativ 11 km².", "Populația este de circa 30.000 de locuitori (2021).", "Parcul balnear se întinde pe 50 de hectare.", "Truskaveț este situat la o altitudine de 350-500 m."],
+      en: ["Truskavets was granted spa status in 1827.", "The main spring Naftusya produces 300,000 liters per day.", "The city covers an area of about 11 km².", "Population is approximately 30,000 (2021).", "The spa park covers 50 hectares.", "Truskavets is located at an altitude of 350-500 m."],
+    },
+  },
   {
     id: "ukraine-chornomorsk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tschornomorsk", hu: "Csornomorszk", ro: "Ciornomorsk", en: "Chornomorsk",
-image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"
-},
+    name: { de: "Tschornomorsk", hu: "Csornomorszk", ro: "Ciornomorsk", en: "Chornomorsk"},
+    image: "/poi-images/ukraine-chornomorsk-cities-v2.webp",
     coords: [30.6517, 46.2989],
     coordinates: { lat: 46.2989, lng: 30.6517 },
     description: {
@@ -1982,14 +2628,26 @@ image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"
       en: ["Renamed from Illichivsk in 2016", "Home to a major deep-water trade port", "Founded as a port town in 1952", "Awarded Blue Flag status for its beaches"],
     },
     imageHint: "Chornomorsk port and lighthouse",
-    image: "/poi-images/ukraine-chornomorsk-cities-v2.webp"},
+    image: "/poi-images/ukraine-chornomorsk-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Chornomorsk (früher Illitschiwsk) ist eine Hafenstadt in der Oblast Odessa am Schwarzen Meer. Die Stadt wurde 1952 gegründet und entwickelte sich zu einem wichtigen Seehafen für Fracht und Container. Der Hafen ist einer der größten in der Ukraine und ein wichtiges Tor für den internationalen Handel. Chornomorsk hat etwa 60.000 Einwohner. Die Wirtschaft basiert auf Hafenaktivitäten, Schifffahrt und Logistik. Die Stadt hat einen langen Sandstrand und ist ein beliebtes Urlaubsziel. Die Architektur ist überwiegend sowjetisch-modern. In den letzten Jahren wurden Investitionen in die Hafeninfrastruktur getätigt. Chornomorsk liegt 20 km südlich von Odessa.",
+      hu: "Csornomorszk (korábban Illicsovszk) kikötőváros az Odesszai területen, a Fekete-tenger partján. A várost 1952-ben alapították, és fontos tengeri kikötővé fejlődött a teher- és konténerforgalom számára. A kikötő az egyik legnagyobb Ukrajnában, és fontos kapu a nemzetközi kereskedelemhez. Csornomorsz knak körülbelül 60 000 lakosa van. A gazdaság a kikötői tevékenységekre, hajózásra és logisztikára épül. A város hosszú homokos stranddal rendelkezik, és népszerű üdülőhely. Az építészet túlnyomórészt szovjet modern. Az elmúlt években beruházások történtek a kikötői infrastruktúrába. Csornomorszk 20 km-re délre fekszik Odesszától.",
+      ro: "Ciornomorsk (fostul Ilicevsk) este un oraș port în regiunea Odesa, pe malul Mării Negre. Orașul a fost fondat în 1952 și s-a dezvoltat într-un port maritim important pentru mărfuri și containere. Portul este unul dintre cele mai mari din Ucraina și o poartă importantă pentru comerțul internațional. Ciornomorsk are aproximativ 60.000 de locuitori. Economia se bazează pe activitățile portuare, navigație și logistică. Orașul are o plajă lungă cu nisip și este o destinație populară de vacanță. Arhitectura este în mare parte modernistă sovietică. În ultimii ani, s-au făcut investiții în infrastructura portuară. Ciornomorsk este situat la 20 km sud de Odesa.",
+      en: "Chornomorsk (formerly Illichivsk) is a port city in Odesa Oblast on the Black Sea. Founded in 1952, it grew into a major seaport for cargo and containers. The port is one of the largest in Ukraine and a key gateway for international trade. Chornomorsk has about 60,000 inhabitants. The economy is based on port activities, shipping, and logistics. The city has a long sandy beach and is a popular vacation destination. The architecture is predominantly Soviet modern. Recent years have seen investments in port infrastructure. Chornomorsk is located 20 km south of Odesa.",
+    },
+    factsAdvanced: {
+      de: ["Chornomorsk wurde 1952 gegründet.", "Der Hafen hat eine Umschlagkapazität von 40 Millionen Tonnen pro Jahr.", "Die Stadt hat eine Fläche von etwa 25 km².", "Die Bevölkerung beträgt rund 60.000 (2021).", "Der Strand erstreckt sich über 5 km.", "Chornomorsk liegt 20 km südlich von Odessa."],
+      hu: ["Csornomorszkot 1952-ben alapították.", "A kikötő éves kapacitása 40 millió tonna.", "A város területe körülbelül 25 km².", "A lakosságszám körülbelül 60 000 fő (2021).", "A strand 5 km hosszan nyúlik.", "Csornomorszk 20 km-re délre fekszik Odesszától."],
+      ro: ["Ciornomorsk a fost fondat în 1952.", "Portul are o capacitate anuală de manipulare de 40 de milioane de tone.", "Orașul are o suprafață de aproximativ 25 km².", "Populația este de circa 60.000 de locuitori (2021).", "Plaja se întinde pe 5 km.", "Ciornomorsk este situat la 20 km sud de Odesa."],
+      en: ["Chornomorsk was founded in 1952.", "The port has an annual handling capacity of 40 million tons.", "The city covers an area of about 25 km².", "Population is approximately 60,000 (2021).", "The beach stretches for 5 km.", "Chornomorsk is located 20 km south of Odesa."],
+    },
+  },
   {
     id: "ukraine-bilhorod-dnistrovskyi-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Bilhorod-Dnistrowskyj", hu: "Bilhorod-Dnyisztrovszkij", ro: "Cetatea Albă", en: "Bilhorod-Dnistrovskyi",
-image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"
-},
+    name: { de: "Bilhorod-Dnistrowskyj", hu: "Bilhorod-Dnyisztrovszkij", ro: "Cetatea Albă", en: "Bilhorod-Dnistrovskyi"},
+    image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp",
     coords: [30.35, 46.1833],
     coordinates: { lat: 46.1833, lng: 30.35 },
     description: {
@@ -2005,14 +2663,26 @@ image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"
       en: ["Home to the vast Akkerman Fortress", "Founded as Tyras in the 6th century BC", "A strategic point for over 2,500 years", "Located on the shore of the Dniester Estuary"],
     },
     imageHint: "Akkerman Fortress walls in Bilhorod-Dnistrovskyi",
-    image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp"},
+    image: "/poi-images/ukraine-bilhorod-dnistrovskyi-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bilhorod-Dnistrowskyj ist eine Stadt in der Oblast Odessa, bekannt für die Festung Akkerman, eine der größten mittelalterlichen Festungen der Ukraine. Die Stadt liegt am Ufer des Dnister-Limans und hat eine lange Geschichte, die bis in die griechische Antike zurückreicht. Die Festung wurde im 13. Jahrhundert von den Genuesen erbaut und später von den Osmanen erweitert. Bilhorod-Dnistrowskyj hat etwa 50.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft, Fischerei und Tourismus. Die Festung ist ein bedeutendes Touristenziel. Die Stadt hat eine vielfältige Architektur, die verschiedene Epochen widerspiegelt. Der Hafen am Liman ist für die lokale Wirtschaft wichtig.",
+      hu: "Bilhorod-Dnyisztrovszkij város az Odesszai területen, híres az Akkerman-erődről, amely Ukrajna egyik legnagyobb középkori erődje. A város a Dnyeszter-limán partján fekszik, és hosszú múltra tekint vissza, egészen a görög ókorig. Az erődöt a 13. században a genovaiak építették, később az oszmánok bővítették. Bilhorod-Dnyisztrovszkijnak körülbelül 50 000 lakosa van. A gazdaság a mezőgazdaságra, halászatra és turizmusra épül. Az erőd jelentős turisztikai célpont. A város építészete sokféle, különböző korszakokat tükröz. A limánon lévő kikötő fontos a helyi gazdaság számára.",
+      ro: "Bilhorod-Dnistrovskîi este un oraș în regiunea Odesa, cunoscut pentru cetatea Akkerman, una dintre cele mai mari fortărețe medievale din Ucraina. Orașul este situat pe malul limanului Nistrului și are o istorie lungă care datează din antichitatea greacă. Cetatea a fost construită în secolul al XIII-lea de genovezi și extinsă ulterior de otomani. Bilhorod-Dnistrovskîi are aproximativ 50.000 de locuitori. Economia se bazează pe agricultură, pescuit și turism. Cetatea este o importantă atracție turistică. Arhitectura orașului este diversă, reflectând diferite epoci. Portul de pe liman este important pentru economia locală.",
+      en: "Bilhorod-Dnistrovskyi is a city in Odesa Oblast, known for the Akkerman Fortress, one of the largest medieval fortresses in Ukraine. The city lies on the shore of the Dnister Estuary and has a long history dating back to Greek antiquity. The fortress was built by Genoese in the 13th century and later expanded by Ottomans. Bilhorod-Dnistrovskyi has about 50,000 inhabitants. The economy is based on agriculture, fishing, and tourism. The fortress is a major tourist attraction. The city has diverse architecture reflecting different eras. The port on the estuary is important for the local economy.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung Akkerman erstreckt sich über 9 Hektar.", "Bilhorod-Dnistrowskyj wurde 1502 erstmals urkundlich erwähnt.", "Die Stadt hat eine Fläche von etwa 31 km².", "Die Einwohnerzahl beträgt rund 50.000 (2021).", "Das Dnister-Liman hat eine Fläche von 360 km².", "Die Festungsmauern sind bis zu 15 m hoch."],
+      hu: ["Az Akkerman-erőd 9 hektáron terül el.", "Bilhorod-Dnyisztrovszkijt 1502-ben említik először.", "A város területe körülbelül 31 km².", "A lakosságszám körülbelül 50 000 fő (2021).", "A Dnyeszter-limán területe 360 km².", "Az erőd falai 15 m magasak."],
+      ro: ["Cetatea Akkerman se întinde pe 9 hectare.", "Bilhorod-Dnistrovskîi a fost menționat pentru prima dată în 1502.", "Orașul are o suprafață de aproximativ 31 km².", "Populația este de circa 50.000 de locuitori (2021).", "Limanul Nistrului are o suprafață de 360 km².", "Zidurile cetății au până la 15 m înălțime."],
+      en: ["Akkerman Fortress covers 9 hectares.", "Bilhorod-Dnistrovskyi was first mentioned in 1502.", "The city covers an area of about 31 km².", "Population is approximately 50,000 (2021).", "The Dnister Estuary has an area of 360 km².", "The fortress walls are up to 15 m high."],
+    },
+  },
   {
     id: "ukraine-kaniv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kaniw", hu: "Kanyiv", ro: "Kaniv", en: "Kaniv",
-image: "/poi-images/ukraine-kaniv-cities-v2.webp"
-},
+    name: { de: "Kaniw", hu: "Kanyiv", ro: "Kaniv", en: "Kaniv"},
+    image: "/poi-images/ukraine-kaniv-cities-v2.webp",
     coords: [31.4667, 49.75],
     coordinates: { lat: 49.75, lng: 31.4667 },
     description: {
@@ -2028,14 +2698,26 @@ image: "/poi-images/ukraine-kaniv-cities-v2.webp"
       en: ["Home to Taras Hill (Chernecha Hora)", "First mentioned in the 11th century", "Site of the Kaniv Hydroelectric Station", "Center of the Kaniv Nature Reserve"],
     },
     imageHint: "Taras Shevchenko memorial in Kaniv",
-    image: "/poi-images/ukraine-kaniv-cities-v2.webp"},
+    image: "/poi-images/ukraine-kaniv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kaniw ist eine Stadt in der Oblast Tscherkassy, bekannt als Ruhestätte des ukrainischen Dichters Taras Schewtschenko. Das Grab von Schewtschenko auf dem Tschernecha-Hora-Hügel ist eine nationale Pilgerstätte. Die Stadt liegt am Ufer des Dnjepr und hat eine reiche Geschichte, die bis in die Kiewer Rus zurückreicht. Kaniw hat etwa 25.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft, Tourismus und Dienstleistungen. Das Schewtschenko-Museum und der Nationalpark sind wichtige Attraktionen. Die Stadt hat eine malerische Lage am Fluss. Der Dnjepr ist auch für Wassersport und Erholung bekannt.",
+      hu: "Kanyiv város a Cserkaszi területen, ismert mint Tarasz Sevcsenko ukrán költő nyughelye. Sevcsenko sírja a Csernecsa Hora dombon nemzeti zarándokhely. A város a Dnyeper partján fekszik, és gazdag történelemmel rendelkezik, egészen a Kijevi Ruszig. Kanyivnak körülbelül 25 000 lakosa van. A gazdaság a mezőgazdaságra, turizmusra és szolgáltatásokra épül. A Sevcsenko Múzeum és a Nemzeti Park fontos látnivalók. A város festői fekvéssel rendelkezik a folyó mellett. A Dnyeper vízi sportokhoz és pihenéshez is alkalmas.",
+      ro: "Kaniv este un oraș în regiunea Cerkasî, cunoscut ca locul de odihnă al poetului ucrainean Taras Șevcenko. Mormântul lui Șevcenko pe dealul Cernicea Hora este un loc de pelerinaj național. Orașul este situat pe malul Niprului și are o istorie bogată care datează din Rusia Kieveană. Kaniv are aproximativ 25.000 de locuitori. Economia se bazează pe agricultură, turism și servicii. Muzeul Șevcenko și Parcul Național sunt atracții importante. Orașul are o poziție pitorească pe râu. Niprul este cunoscut pentru sporturi nautice și recreere.",
+      en: "Kaniv is a city in Cherkasy Oblast, known as the burial place of Ukrainian poet Taras Shevchenko. His grave on the Chernecha Hora hill is a national pilgrimage site. The city lies on the Dnieper River and has a rich history dating back to Kyivan Rus. Kaniv has about 25,000 inhabitants. The economy is based on agriculture, tourism, and services. The Shevchenko Museum and National Park are key attractions. The city has a scenic riverside location. The Dnieper is also known for water sports and recreation.",
+    },
+    factsAdvanced: {
+      de: ["Taras Schewtschenko wurde 1861 in Kaniw beigesetzt.", "Der Tschernecha-Hora-Hügel ist 150 m hoch.", "Die Stadt hat eine Fläche von etwa 17 km².", "Die Bevölkerungszahl beträgt rund 25.000 (2021).", "Der Nationalkaniw-Nationalpark umfasst 1.200 Hektar.", "Kaniw liegt 150 km südöstlich von Kiew."],
+      hu: ["Tarasz Sevcsenkót 1861-ben temették el Kanyivban.", "A Csernecsa Hora domb 150 m magas.", "A város területe körülbelül 17 km².", "A lakosságszám körülbelül 25 000 fő (2021).", "A Kanyivi Nemzeti Park 1 200 hektáron terül el.", "Kanyiv 150 km-re délkeletre fekszik Kijevtől."],
+      ro: ["Taras Șevcenko a fost înmormântat în Kaniv în 1861.", "Dealul Cernicea Hora are 150 m înălțime.", "Orașul are o suprafață de aproximativ 17 km².", "Populația este de circa 25.000 de locuitori (2021).", "Parcul Național Kaniv se întinde pe 1.200 de hectare.", "Kaniv este situat la 150 km sud-est de Kiev."],
+      en: ["Taras Shevchenko was buried in Kaniv in 1861.", "Chernecha Hora hill is 150 m high.", "The city covers an area of about 17 km².", "Population is approximately 25,000 (2021).", "Kaniv National Park covers 1,200 hectares.", "Kaniv is located 150 km southeast of Kyiv."],
+    },
+  },
   {
     id: "ukraine-hlukhiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Hluchiw", hu: "Hluhiv", ro: "Hluhiv", en: "Hlukhiv",
-image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"
-},
+    name: { de: "Hluchiw", hu: "Hluhiv", ro: "Hluhiv", en: "Hlukhiv"},
+    image: "/poi-images/ukraine-hlukhiv-cities-v2.webp",
     coords: [33.9153, 51.6789],
     coordinates: { lat: 51.6789, lng: 33.9153 },
     description: {
@@ -2051,14 +2733,26 @@ image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"
       en: ["Former capital of the Cossack Hetmanate", "First mentioned in the year 1152", "World center for industrial hemp research", "Home to the Hlukhiv Teachers Institute"],
     },
     imageHint: "Hlukhiv historical gate and buildings",
-    image: "/poi-images/ukraine-hlukhiv-cities-v2.webp"},
+    image: "/poi-images/ukraine-hlukhiv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Hluchiw ist eine Stadt in der Oblast Sumy und eine der ältesten Städte der Ukraine. Sie war im 18. Jahrhundert die Hauptstadt des Hetmanats der linksufrigen Ukraine. Die Stadt hat eine reiche kosakische Geschichte und beherbergt mehrere historische Kirchen und Klöster. Hluchiw hat etwa 35.000 Einwohner. Die Wirtschaft basiert auf Landwirtschaft und Leichtindustrie. Die Architektur umfasst barocke und klassizistische Gebäude. Das Nationale Historisch-Kulturelle Schutzgebiet Hluchiw ist eine wichtige kulturelle Einrichtung. Die Stadt liegt im Nordosten der Ukraine nahe der russischen Grenze. In den letzten Jahren gab es Bemühungen, das kulturelle Erbe zu bewahren.",
+      hu: "Hluhiv város a Szumi területen, Ukrajna egyik legrégebbi városa. A 18. században a balparti Ukrajna Hetmanátusának fővárosa volt. A város gazdag kozák történelemmel rendelkezik, és számos történelmi templomot és kolostort őriz. Hluhivnak körülbelül 35 000 lakosa van. A gazdaság a mezőgazdaságra és könnyűiparra épül. Az építészet barokk és klasszicista épületeket foglal magában. A Hluhivi Nemzeti Történelmi-Kulturális Rezervátum fontos kulturális intézmény. A város Ukrajna északkeleti részén, az orosz határ közelében fekszik. Az elmúlt években erőfeszítések történtek a kulturális örökség megőrzésére.",
+      ro: "Hluhiv este un oraș în regiunea Sumî, unul dintre cele mai vechi orașe ale Ucrainei. A fost capitala Hetmanatului Ucrainei de pe malul stâng în secolul al XVIII-lea. Orașul are o bogată istorie cazacă și găzduiește mai multe biserici și mănăstiri istorice. Hluhiv are aproximativ 35.000 de locuitori. Economia se bazează pe agricultură și industria ușoară. Arhitectura include clădiri baroce și neoclasice. Rezervația Națională Istorico-Culturală Hluhiv este o importantă instituție culturală. Orașul este situat în nord-estul Ucrainei, aproape de granița cu Rusia. În ultimii ani, s-au făcut eforturi pentru conservarea patrimoniului cultural.",
+      en: "Hlukhiv is a city in Sumy Oblast, one of the oldest cities in Ukraine. It served as the capital of the Left-bank Ukraine Hetmanate in the 18th century. The city has a rich Cossack history and houses several historic churches and monasteries. Hlukhiv has about 35,000 inhabitants. The economy is based on agriculture and light industry. The architecture includes Baroque and Neoclassical buildings. The Hlukhiv National Historical and Cultural Reserve is an important cultural institution. The city is located in northeastern Ukraine near the Russian border. Recent years have seen efforts to preserve cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Hluchiw wurde 992 erstmals erwähnt.", "Die Stadt war von 1708 bis 1764 Hauptstadt des Hetmanats.", "Hluchiw hat eine Fläche von etwa 12 km².", "Die Bevölkerung beträgt rund 35.000 (2021).", "Das Kloster Hluchiw wurde im 17. Jahrhundert erbaut.", "Hluchiw liegt 30 km von der russischen Grenze entfernt."],
+      hu: ["Hluhivot 992-ben említik először.", "A város 1708-tól 1764-ig a Hetmanátus fővárosa volt.", "Hluhiv területe körülbelül 12 km².", "A lakosságszám körülbelül 35 000 fő (2021).", "A Hluhivi kolostort a 17. században építették.", "Hluhiv 30 km-re fekszik az orosz határtól."],
+      ro: ["Hluhiv a fost menționat pentru prima dată în 992.", "Orașul a fost capitala Hetmanatului între 1708 și 1764.", "Hluhiv are o suprafață de aproximativ 12 km².", "Populația este de circa 35.000 de locuitori (2021).", "Mănăstirea din Hluhiv a fost construită în secolul al XVII-lea.", "Hluhiv este situat la 30 km de granița cu Rusia."],
+      en: ["Hlukhiv was first mentioned in 992.", "The city was the capital of the Hetmanate from 1708 to 1764.", "Hlukhiv covers an area of about 12 km².", "Population is approximately 35,000 (2021).", "The Hlukhiv Monastery was built in the 17th century.", "Hlukhiv is located 30 km from the Russian border."],
+    },
+  },
   {
     id: "ukraine-vylkove-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Wylkowe", hu: "Vilkovo", ro: "Vâlcov", en: "Vylkove",
-image: "/poi-images/ukraine-vylkove-cities-v2.webp"
-},
+    name: { de: "Wylkowe", hu: "Vilkovo", ro: "Vâlcov", en: "Vylkove"},
+    image: "/poi-images/ukraine-vylkove-cities-v2.webp",
     coords: [29.585, 45.4011],
     coordinates: { lat: 45.4011, lng: 29.585 },
     description: {
@@ -2079,9 +2773,8 @@ image: "/poi-images/ukraine-vylkove-cities-v2.webp"
     id: "ukraine-shhovkva-ideal-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schowkwa-Idealstadt", hu: "Zsovkva-ideális város", ro: "Jovkva-Ideal", en: "Zhovkva Ideal-City",
-image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"
-},
+    name: { de: "Schowkwa-Idealstadt", hu: "Zsovkva-ideális város", ro: "Jovkva-Ideal", en: "Zhovkva Ideal-City"},
+    image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp",
     coords: [23.9717, 50.0558],
     coordinates: { lat: 50.0558, lng: 23.9717 },
     description: {
@@ -2102,9 +2795,8 @@ image: "/poi-images/ukraine-shhovkva-ideal-cities-v2.webp"
     id: "ukraine-chuhuiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tschuhujiw", hu: "Csuhujiv", ro: "Ciuhuiv", en: "Chuhuiv",
-image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"
-},
+    name: { de: "Tschuhujiw", hu: "Csuhujiv", ro: "Ciuhuiv", en: "Chuhuiv"},
+    image: "/poi-images/ukraine-chuhuiv-cities-v2.webp",
     coords: [36.685, 49.835],
     coordinates: { lat: 49.835, lng: 36.685 },
     description: {
@@ -2125,9 +2817,8 @@ image: "/poi-images/ukraine-chuhuiv-cities-v2.webp"
     id: "ukraine-pereiaslav-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Perejaslaw", hu: "Perejaszlav", ro: "Pereiaslav", en: "Pereiaslav",
-image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"
-},
+    name: { de: "Perejaslaw", hu: "Perejaszlav", ro: "Pereiaslav", en: "Pereiaslav"},
+    image: "/poi-images/ukraine-pereiaslav-cities-v2.webp",
     coords: [31.4639, 50.0711],
     coordinates: { lat: 50.0711, lng: 31.4639 },
     description: {
@@ -2143,14 +2834,26 @@ image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"
       en: ["Home to over 20 diverse museums", "Site of the 1654 Pereiaslav Council", "First mentioned in the year 907 AD", "Features a vast Open-Air Museum of Folk Life"],
     },
     imageHint: "Open air museum in Pereiaslav",
-    image: "/poi-images/ukraine-pereiaslav-cities-v2.webp"},
+    image: "/poi-images/ukraine-pereiaslav-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Pereiaslaw, eine der ältesten Städte der Kiewer Rus, wurde erstmals 907 in der Nestorchronik erwähnt. Die Stadt war Sitz eines Fürstentums und ein bedeutendes kirchliches Zentrum mit dem Himmelfahrtskloster. Im 11. Jahrhundert wurde hier die erste steinerne Kirche der Rus, die St.-Michael-Kathedrale, erbaut. Heute beherbergt Pereiaslaw das Freilichtmuseum für Volksarchitektur und Leben des mittleren Dniprogebiets mit über 300 Exponaten. Die Stadt liegt am linken Ufer des Dnipro und hat etwa 30.000 Einwohner. In der Sowjetzeit war sie ein Zentrum der Textilindustrie, heute dominiert der Tourismus.",
+      hu: "Perejaszlav történelme több mint ezer évre nyúlik vissza. 907-ben említik először a Kijevi Rusz részeként. A város a 11. században a Perejaszlavi Fejedelemség központja volt, és itt épült az egyik legrégebbi kőtemplom, a Szent Mihály-székesegyház. Perejaszlav ma a Skansen múzeumáról ismert, ahol a közép-dnyeperi vidék népi építészetét mutatják be. Lakossága körülbelül 30 ezer fő. A város gazdaságában a turizmus és a mezőgazdaság dominál, de a szovjet időszakban a könnyűipar is jelen volt. A Dnyeper bal partján fekszik, és fontos közlekedési csomópont.",
+      ro: "Pereiaslav este unul dintre cele mai vechi orașe ale Rusiei Kievene, menționat pentru prima dată în 907. A fost reședința unui principat și un important centru religios, cu Mănăstirea Înălțarea Domnului. În secolul al XI-lea, a fost construită aici prima catedrală de piatră, Catedrala Sfântul Mihail. Astăzi, orașul găzduiește Muzeul în Aer Liber al Arhitecturii Populare și Modului de Viață din regiunea Niprului Mijlociu, cu peste 300 de exponate. Pereiaslav se află pe malul stâng al Niprului și are aproximativ 30.000 de locuitori. Economia se bazează pe turism și agricultură.",
+      en: "Pereiaslav is one of the oldest cities in Ukraine, first mentioned in the Primary Chronicle under 907. It served as the capital of the Pereiaslav Principality and was a major ecclesiastical center with the Ascension Monastery. The 11th-century St. Michael's Cathedral is one of the earliest stone churches in Eastern Europe. Today, the city is famous for its open-air museum of folk architecture, featuring over 300 buildings. Located on the Dnipro River's left bank, its population is around 30,000. The local economy relies on tourism, agriculture, and light manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung im Jahr 907 in der Nestorchronik.", "Bevölkerung: 30.000 (Schätzung 2021).", "Fläche: 32 km².", "Höhe über dem Meeresspiegel: 107 m.", "Anzahl der Exponate im Freilichtmuseum: über 300.", "Entfernung zu Kiew: etwa 85 km östlich."],
+      hu: ["Első írásos említése: 907.", "Lakossága kb. 30.000 fő (2021).", "Területe 32 km².", "Tengerszint feletti magassága 107 m.", "A skanzenben 300-nál több épület található.", "Kijevtől 85 km-re keletre található."],
+      ro: ["Prima atestare documentară: 907.", "Populație: aproximativ 30.000 (2021).", "Suprafață: 32 km².", "Altitudine: 107 m deasupra nivelului mării.", "Număr de exponate în muzeul în aer liber: peste 300.", "Distanța față de Kiev: 85 km est."],
+      en: ["First mentioned in 907 in the Primary Chronicle.", "Population: approx. 30,000 (2021 estimate).", "Area: 32 km².", "Elevation: 107 m above sea level.", "Open-air museum has over 300 exhibits.", "Distance from Kyiv: 85 km east."],
+    },
+  },
   {
     id: "ukraine-shytomyr-space-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schytomyr-Raumfahrtstadt", hu: "Zsitomir-űrűrváros", ro: "Jitomir-Cosmos", en: "Zhytomyr Space-Town",
-image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"
-},
+    name: { de: "Schytomyr-Raumfahrtstadt", hu: "Zsitomir-űrűrváros", ro: "Jitomir-Cosmos", en: "Zhytomyr Space-Town"},
+    image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp",
     coords: [28.6587, 50.2547],
     coordinates: { lat: 50.2547, lng: 28.6587 },
     description: {
@@ -2166,14 +2869,26 @@ image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"
       en: ["Birthplace of Sergei Korolev", "Home to the National Cosmonautics Museum", "Exhibits authentic space capsules", "Focus on high-tech and aerospace engineering"],
     },
     imageHint: "Korolev space museum in Zhytomyr",
-    image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp"},
+    image: "/poi-images/ukraine-shytomyr-space-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Schytomyr, eine der ältesten Städte der Ukraine, wurde 884 gegründet. Sie ist bekannt als Geburtsort des Luft- und Raumfahrtingenieurs Sergei Koroljow, der den ersten Sputnik und den ersten bemannten Weltraumflug ermöglichte. Die Stadt beherbergt ein Kosmonautikmuseum und ein Denkmal für Koroljow. Schytomyr war im 19. Jahrhundert ein bedeutendes jüdisches Kulturzentrum. Heute hat die Stadt rund 260.000 Einwohner und ist ein wichtiges Industrie- und Verkehrszentrum. Die Architektur vereint sowjetische Moderne mit historischen Kirchen.",
+      hu: "Zsitomir 884-ben alapított város, Ukrajna egyik legrégebbi települése. Híres arról, hogy itt született Szergej Koroljov rakétatervező, aki az első műhold és az első emberes űrrepülés atyja. A városban Űrhajózási Múzeum és Koroljov-emlékmű található. A 19. században Zsitomir a zsidó kultúra egyik központja volt. Ma kb. 260 ezer lakosa van, és fontos ipari és közlekedési csomópont. Építészetében a szovjet modernizmus és történelmi templomok keverednek.",
+      ro: "Jîtomîrul a fost fondat în 884 și este unul dintre cele mai vechi orașe ale Ucrainei. Este cunoscut ca locul de naștere al inginerului spațial Serghei Koroliov, pionier al astronauticii, care a conceput primul satelit Sputnik și zborul lui Gagarin. Orașul găzduiește un Muzeu de Cosmonautică și un monument dedicat lui Koroliov. În secolul al XIX-lea, a fost un important centru cultural evreiesc. Astăzi, populația sa este de aproximativ 260.000 de locuitori, iar economia se bazează pe industrie și transport.",
+      en: "Zhytomyr, founded in 884, is one of Ukraine's oldest cities. It is renowned as the birthplace of rocket engineer Sergei Korolev, who pioneered the Soviet space program, launching Sputnik and Yuri Gagarin. The city features a Cosmonautics Museum and a Korolev monument. In the 19th century, it was a major center of Jewish culture. Today, its population is about 260,000. The city blends Soviet modernist architecture with historic churches and is a key industrial and transport hub.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 884.", "Einwohnerzahl: 260.000 (2021).", "Fläche: 65 km².", "Geburtsort von Sergei Koroljow (1907–1966).", "Anzahl der Exponate im Kosmonautikmuseum: über 10.000.", "Höhe über dem Meeresspiegel: 221 m."],
+      hu: ["Alapítás éve: 884.", "Lakosság: 260.000 (2021).", "Terület: 65 km².", "Szergej Koroljov születési helye (1907–1966).", "A Kozmonautikai Múzeum kiállítási darabjainak száma: több mint 10.000.", "Tengerszint feletti magasság: 221 m."],
+      ro: ["Anul fondării: 884.", "Populație: 260.000 (2021).", "Suprafață: 65 km².", "Locul nașterii lui Serghei Koroliov (1907–1966).", "Numărul exponatelor Muzeului de Cosmonautică: peste 10.000.", "Altitudine: 221 m deasupra nivelului mării."],
+      en: ["Founded in 884.", "Population: 260,000 (2021).", "Area: 65 km².", "Birthplace of Sergei Korolev (1907–1966).", "Cosmonautics Museum holds over 10,000 artifacts.", "Elevation: 221 m above sea level."],
+    },
+  },
   {
     id: "ukraine-boyarka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Bojarka", hu: "Bojarka", ro: "Boiarka", en: "Boyarka",
-image: "/poi-images/ukraine-boyarka-cities-v2.webp"
-},
+    name: { de: "Bojarka", hu: "Bojarka", ro: "Boiarka", en: "Boyarka"},
+    image: "/poi-images/ukraine-boyarka-cities-v2.webp",
     coords: [30.2917, 50.3292],
     coordinates: { lat: 50.3292, lng: 30.2917 },
     description: {
@@ -2189,14 +2904,26 @@ image: "/poi-images/ukraine-boyarka-cities-v2.webp"
       en: ["Setting for Nikolai Ostrovsky's famous novel", "First mentioned in the 16th century", "Home to major medical and cardiac centers", "Surrounded by vast pine forests"],
     },
     imageHint: "Forest and park in Boyarka",
-    image: "/poi-images/ukraine-boyarka-cities-v2.webp"},
+    image: "/poi-images/ukraine-boyarka-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Bojarka ist eine Stadt in der Oblast Kiew, gegründet im späten 19. Jahrhundert als Eisenbahnsiedlung. Sie liegt etwa 20 km südwestlich von Kiew und hat rund 35.000 Einwohner. Während des Zweiten Weltkriegs war Bojarka Schauplatz von Partisanenaktivitäten. Heute ist die Stadt ein Vorort von Kiew mit überwiegend Wohnfunktion, aber auch etwas Leichtindustrie. Die Grünanlagen und der Waldgürtel machen sie zu einem Erholungsort für die Hauptstadtbewohner. Bekannt ist auch die Sternwarte der Nationalen Akademie der Wissenschaften.",
+      hu: "Bojarka Kijev megyében található, a 19. század végén alapították vasúti településként. Kijevtől kb. 20 km-re délnyugatra fekszik, lakossága kb. 35 ezer fő. A második világháborúban partizán tevékenység színhelye volt. Ma Kijev elővárosa, főként lakóövezet, némi könnyűiparral. Zöld területei és erdei miatt a fővárosiak kedvelt pihenőhelye. Ismert a Ukrán Tudományos Akadémia csillagvizsgálója is.",
+      ro: "Boiarka este un oraș din regiunea Kiev, fondat la sfârșitul secolului al XIX-lea ca așezare feroviară. Se află la aproximativ 20 km sud-vest de Kiev și are circa 35.000 de locuitori. În timpul celui de-al Doilea Război Mondial, a fost un centru al activităților partizane. Astăzi, este o suburbie a Kievului, predominant rezidențială, cu unele industrii ușoare. Zonele verzi și pădurile din jur o fac o destinație populară de recreere pentru locuitorii capitalei. De asemenea, găzduiește un observator astronomic al Academiei Naționale de Științe.",
+      en: "Boyarka is a city in Kyiv Oblast, founded in the late 19th century as a railway settlement. Located about 20 km southwest of Kyiv, its population is around 35,000. During WWII, it was a site of partisan activity. Today, it serves as a residential suburb of Kyiv, with light industry. Its green spaces and forest belt make it a recreational area for Kyiv residents. The town also hosts an astronomical observatory of the National Academy of Sciences.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: Ende des 19. Jahrhunderts (1886 als Bahnhof).", "Einwohner: 35.000 (2021).", "Fläche: 12 km².", "Entfernung zu Kiew: 20 km südwestlich.", "Höhe über dem Meeresspiegel: 186 m.", "Sternwarte der Nationalen Akademie der Wissenschaften: 1944 gegründet."],
+      hu: ["Alapítás: 19. század vége (1886-ban vasútállomás).", "Lakosság: 35.000 (2021).", "Terület: 12 km².", "Kijevtől való távolság: 20 km délnyugatra.", "Tengerszint feletti magasság: 186 m.", "A Nemzeti Tudományos Akadémia csillagvizsgálója: 1944-ben alapították."],
+      ro: ["Fondare: sfârșitul secolului al XIX-lea (1886 ca gară).", "Populație: 35.000 (2021).", "Suprafață: 12 km².", "Distanța față de Kiev: 20 km sud-vest.", "Altitudine: 186 m deasupra nivelului mării.", "Observatorul astronomic al Academiei Naționale: fondat în 1944."],
+      en: ["Founded: late 19th century (1886 as railway station).", "Population: 35,000 (2021).", "Area: 12 km².", "Distance from Kyiv: 20 km southwest.", "Elevation: 186 m above sea level.", "Astronomical observatory established in 1944."],
+    },
+  },
   {
     id: "ukraine-vasylkiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Wasylkiw", hu: "Vaszilkiv", ro: "Vasîlkiv", en: "Vasylkiv",
-image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"
-},
+    name: { de: "Wasylkiw", hu: "Vaszilkiv", ro: "Vasîlkiv", en: "Vasylkiv"},
+    image: "/poi-images/ukraine-vasylkiv-cities-v2.webp",
     coords: [30.3153, 50.1789],
     coordinates: { lat: 50.1789, lng: 30.3153 },
     description: {
@@ -2212,14 +2939,26 @@ image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"
       en: ["Founded by Vladimir the Great in 988 AD", "Home to a major Ukrainian air base", "Features the 18th-century St. Anthony Cathedral", "Historically known for its pottery crafts"],
     },
     imageHint: "Vasylkiv city views and cathedral",
-    image: "/poi-images/ukraine-vasylkiv-cities-v2.webp"},
+    image: "/poi-images/ukraine-vasylkiv-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Wassylkiw ist eine Stadt in der Oblast Kiew mit einer Geschichte, die bis ins 10. Jahrhundert zurückreicht. Sie war ein wichtiger Handelsplatz an der Route von Kiew nach Süden. Im Mittelalter war sie Sitz eines Fürstentums. Heute hat Wassylkiw etwa 35.000 Einwohner und ist bekannt für seine Luftwaffenbasis und das Militärflugzeugwerk. Die Stadt besitzt eine gut erhaltene orthodoxe Kirche aus dem 18. Jahrhundert. Wirtschaftlich dominiert die Luftfahrtindustrie, aber auch die Landwirtschaft spielt eine Rolle.",
+      hu: "Vaszilkov Kijev megyében található, történelme a 10. századig nyúlik vissza. Fontos kereskedelmi állomás volt a Kijevből délre vezető úton. A középkorban egy fejedelemség központja volt. Ma kb. 35 ezer lakosa van, és híres légibázisáról és repülőgépgyáráról. A városban található egy 18. századi ortodox templom. Gazdaságában a repülőgépipar dominál, de a mezőgazdaság is jelentős.",
+      ro: "Vasîlkiv este un oraș din regiunea Kiev, cu o istorie care datează din secolul al X-lea. A fost un important punct comercial pe ruta de la Kiev spre sud. În Evul Mediu, a fost reședința unui principat. Astăzi are aproximativ 35.000 de locuitori și este cunoscut pentru baza sa aeriană și pentru fabrica de avioane. Orașul păstrează o biserică ortodoxă din secolul al XVIII-lea. Economia este dominată de industria aeronautică și de agricultură.",
+      en: "Vasylkiv is a city in Kyiv Oblast, with history dating back to the 10th century. It was an important trading post on the route from Kyiv southwards. In medieval times, it was the seat of a principality. Today, its population is about 35,000. It is known for its airbase and aircraft repair plant. The city features an 18th-century Orthodox church. The economy is dominated by aviation industry and agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Ersterwähnung: 988.", "Einwohner: 35.000 (2021).", "Fläche: 21 km².", "Höhe über dem Meeresspiegel: 164 m.", "Luftwaffenbasis: gegründet 1953.", "Flugzeugwerk: seit 1958 in Betrieb."],
+      hu: ["Első említés: 988.", "Lakosság: 35.000 (2021).", "Terület: 21 km².", "Tengerszint feletti magasság: 164 m.", "Légibázis: 1953-ban alapították.", "Repülőgépgyár: 1958 óta üzemel."],
+      ro: ["Prima atestare: 988.", "Populație: 35.000 (2021).", "Suprafață: 21 km².", "Altitudine: 164 m deasupra nivelului mării.", "Baza aeriană: fondată în 1953.", "Fabrica de avioane: în funcțiune din 1958."],
+      en: ["First mentioned in 988.", "Population: 35,000 (2021).", "Area: 21 km².", "Elevation: 164 m above sea level.", "Airbase established in 1953.", "Aircraft plant operational since 1958."],
+    },
+  },
   {
     id: "ukraine-izmail-danube-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Ismajil-Donaustadt", hu: "Izmajil-dunaváros", ro: "Ismail-Dunăre", en: "Izmail Danube-City",
-image: "/poi-images/ukraine-izmail-danube-cities-v2.webp"
-},
+    name: { de: "Ismajil-Donaustadt", hu: "Izmajil-dunaváros", ro: "Ismail-Dunăre", en: "Izmail Danube-City"},
+    image: "/poi-images/ukraine-izmail-danube-cities-v2.webp",
     coords: [28.8392, 45.3508],
     coordinates: { lat: 45.3508, lng: 28.8392 },
     description: {
@@ -2241,9 +2980,8 @@ image: "/poi-images/ukraine-izmail-danube-cities-v2.webp"
     id: "ukraine-irpin-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Irpin", hu: "Irpiny", ro: "Irpin", en: "Irpin",
-image: "/poi-images/ukraine-irpin-cities-v2.webp"
-},
+    name: { de: "Irpin", hu: "Irpiny", ro: "Irpin", en: "Irpin"},
+    image: "/poi-images/ukraine-irpin-cities-v2.webp",
     coordinates: { lat: 50.5164, lng: 30.2403 },
     description: {
       de: "Irpin ist eine grüne Stadt in der Oblast Kiew am gleichnamigen Fluss. Sie dient als wichtiger Vorort und Erholungsgebiet.",
@@ -2263,9 +3001,8 @@ image: "/poi-images/ukraine-irpin-cities-v2.webp"
     id: "ukraine-bucha-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Butscha", hu: "Bucsa", ro: "Bucea", en: "Bucha",
-image: "/poi-images/ukraine-bucha-cities-v2.webp"
-},
+    name: { de: "Butscha", hu: "Bucsa", ro: "Bucea", en: "Bucha"},
+    image: "/poi-images/ukraine-bucha-cities-v2.webp",
     coordinates: { lat: 50.5489, lng: 30.2208 },
     description: {
       de: "Butscha ist eine Stadt in der Nähe von Kiew, die für ihre Parks und die Glasindustrie bekannt ist. Sie liegt an den Flüssen Butscha und Rokatsch.",
@@ -2285,9 +3022,8 @@ image: "/poi-images/ukraine-bucha-cities-v2.webp"
     id: "ukraine-boryspil-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Boryspil", hu: "Boriszpil", ro: "Borispil", en: "Boryspil",
-image: "/poi-images/ukraine-boryspil-cities-v2.webp"
-},
+    name: { de: "Boryspil", hu: "Boriszpil", ro: "Borispil", en: "Boryspil"},
+    image: "/poi-images/ukraine-boryspil-cities-v2.webp",
     coordinates: { lat: 50.3508, lng: 30.9525 },
     description: {
       de: "Boryspil ist eine historische Stadt östlich von Kiew, die heute vor allem für den größten internationalen Flughafen der Ukraine bekannt ist.",
@@ -2307,9 +3043,8 @@ image: "/poi-images/ukraine-boryspil-cities-v2.webp"
     id: "ukraine-zviahel-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Zviahel", hu: "Zviahel", ro: "Zviahel", en: "Zviahel",
-image: "/poi-images/ukraine-zviahel-cities-v2.webp"
-},
+    name: { de: "Zviahel", hu: "Zviahel", ro: "Zviahel", en: "Zviahel"},
+    image: "/poi-images/ukraine-zviahel-cities-v2.webp",
     coordinates: { lat: 50.5936, lng: 27.6258 },
     description: {
       de: "Zviahel (früher Nowohrad-Wolynskyj) ist eine historische Stadt am Fluss Slutsch, bekannt als Geburtsort der Dichterin Lesja Ukrajinka.",
@@ -2324,14 +3059,25 @@ image: "/poi-images/ukraine-zviahel-cities-v2.webp"
       en: ["First mentioned: 1257", "Population: ~55,000", "Region: Zhytomyr Oblast", "Name restoration: 2022"],
     },
     imageHint: "Zviahel fortress ruins on the river bank",
+    descriptionAdvanced: {
+      de: "Swiahel (früher Nowohrad-Wolynskyj) ist eine Stadt in der Oblast Schytomyr, am Fluss Slutsch gelegen. Sie wurde 1257 gegründet und war Teil des Fürstentums Wolhynien. Im 19. Jahrhundert war sie ein wichtiges jüdisches Zentrum. Heute hat Swiahel rund 55.000 Einwohner. Die Stadt ist ein bedeutender Standort der holzverarbeitenden Industrie und des Maschinenbaus. Sehenswert ist die Festungsruine aus dem 16. Jahrhundert. Der Name wurde 2022 im Rahmen der Dekommunisierung geändert.",
+      hu: "Zvjagel (korábban Novohrad-Volinszkij) Zsitomir megyében, a Szlucs folyó mellett található. 1257-ben alapították, a Volhíniai Fejedelemség része volt. A 19. században fontos zsidó központ volt. Ma kb. 55 ezer lakosa van. Jelentős faipari és gépgyártó központ. Látványosság a 16. századi erőd romja. A város nevét 2022-ben változtatták meg a kommunista múlt eltávolítása részeként.",
+      ro: "Zviahil (fostul Novohrad-Volînskîi) este un oraș din regiunea Jîtomîr, pe râul Sluci. A fost fondat în 1257 și a făcut parte din Principatul Volînia. În secolul al XIX-lea, a fost un important centru evreiesc. Astăzi are circa 55.000 de locuitori. Este un important centru de prelucrare a lemnului și de inginerie mecanică. Ruinele cetății din secolul al XVI-lea sunt o atracție. Numele a fost schimbat în 2022 ca parte a decomunizării.",
+      en: "Zviahel (formerly Novohrad-Volynskyi) is a city in Zhytomyr Oblast, on the Sluch River. It was founded in 1257 and was part of the Volhynian Principality. In the 19th century, it was a major Jewish center. Today, its population is about 55,000. The city is a major center for woodworking and machinery. The ruins of a 16th-century fortress are notable. Its name was changed in 2022 as part of decommunization.",
+    },
+    factsAdvanced: {
+      de: ["Gründung: 1257.", "Einwohner: 55.000 (2021).", "Fläche: 28 km².", "Höhe über dem Meeresspiegel: 220 m.", "Name bis 2022: Nowohrad-Wolynskyj.", "Länge des Flusses Slutsch: 451 km."],
+      hu: ["Alapítás: 1257.", "Lakosság: 55.000 (2021).", "Terület: 28 km².", "Tengerszint feletti magasság: 220 m.", "Név 2022-ig: Novohrad-Volinszkij.", "A Szlucs folyó hossza: 451 km."],
+      ro: ["Fondare: 1257.", "Populație: 55.000 (2021).", "Suprafață: 28 km².", "Altitudine: 220 m deasupra nivelului mării.", "Nume până în 2022: Novohrad-Volînskîi.", "Lungimea râului Sluci: 451 km."],
+      en: ["Founded in 1257.", "Population: 55,000 (2021).", "Area: 28 km².", "Elevation: 220 m above sea level.", "Name until 2022: Novohrad-Volynskyi.", "Length of the Sluch River: 451 km."],
+    },
   },
   {
     id: "ukraine-korosten-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Korosten", hu: "Koroszteny", ro: "Korosten", en: "Korosten",
-image: "/poi-images/ukraine-korosten-cities-v2.webp"
-},
+    name: { de: "Korosten", hu: "Koroszteny", ro: "Korosten", en: "Korosten"},
+    image: "/poi-images/ukraine-korosten-cities-v2.webp",
     coordinates: { lat: 50.9542, lng: 28.6483 },
     description: {
       de: "Korosten ist eine historische Stadt in Polesien am Fluss Usch. Sie war einst die Hauptstadt des slawischen Stammes der Drewljanen.",
@@ -2351,9 +3097,8 @@ image: "/poi-images/ukraine-korosten-cities-v2.webp"
     id: "ukraine-shepetivka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Schepetiwka", hu: "Sepetivka", ro: "Șepetivka", en: "Shepetivka",
-image: "/poi-images/ukraine-shepetivka-cities-v2.webp"
-},
+    name: { de: "Schepetiwka", hu: "Sepetivka", ro: "Șepetivka", en: "Shepetivka"},
+    image: "/poi-images/ukraine-shepetivka-cities-v2.webp",
     coordinates: { lat: 50.1856, lng: 27.0622 },
     description: {
       de: "Schepetiwka ist ein bedeutender Eisenbahnknotenpunkt in der Oblast Chmelnyzkyj mit einer starken industriellen Basis.",
@@ -2373,9 +3118,8 @@ image: "/poi-images/ukraine-shepetivka-cities-v2.webp"
     id: "ukraine-kovel-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kowel", hu: "Kovel", ro: "Kovel", en: "Kovel",
-image: "/poi-images/ukraine-kovel-cities-v2.webp"
-},
+    name: { de: "Kowel", hu: "Kovel", ro: "Kovel", en: "Kovel"},
+    image: "/poi-images/ukraine-kovel-cities-v2.webp",
     coordinates: { lat: 51.2167, lng: 24.7167 },
     description: {
       de: "Kowel ist eine strategische Stadt im Nordwesten der Ukraine und ein zentraler Verkehrsknotenpunkt für den Handel mit Polen.",
@@ -2395,9 +3139,8 @@ image: "/poi-images/ukraine-kovel-cities-v2.webp"
     id: "ukraine-volodymyr-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Wolodymyr", hu: "Volodimir", ro: "Volodîmir", en: "Volodymyr",
-image: "/poi-images/ukraine-volodymyr-cities-v2.webp"
-},
+    name: { de: "Wolodymyr", hu: "Volodimir", ro: "Volodîmir", en: "Volodymyr"},
+    image: "/poi-images/ukraine-volodymyr-cities-v2.webp",
     coordinates: { lat: 50.8481, lng: 24.3222 },
     description: {
       de: "Wolodymyr ist eine der ältesten Städte der Ukraine und war einst die Hauptstadt des Fürstentums Halytsch-Wolhynien.",
@@ -2417,9 +3160,8 @@ image: "/poi-images/ukraine-volodymyr-cities-v2.webp"
     id: "ukraine-chervonohrad-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tscherwonohrad", hu: "Cservonohrad", ro: "Cervonohrad", en: "Chervonohrad",
-image: "/poi-images/ukraine-chervonohrad-cities-v2.webp"
-},
+    name: { de: "Tscherwonohrad", hu: "Cservonohrad", ro: "Cervonohrad", en: "Chervonohrad"},
+    image: "/poi-images/ukraine-chervonohrad-cities-v2.webp",
     coordinates: { lat: 50.3833, lng: 24.2333 },
     description: {
       de: "Tscherwonohrad ist das Zentrum des Kohlebergbaus in der Westukraine, gelegen am Fluss Westlicher Bug.",
@@ -2439,9 +3181,8 @@ image: "/poi-images/ukraine-chervonohrad-cities-v2.webp"
     id: "ukraine-sambir-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Sambir", hu: "Szambir", ro: "Sambir", en: "Sambir",
-image: "/poi-images/ukraine-sambir-cities-v2.webp"
-},
+    name: { de: "Sambir", hu: "Szambir", ro: "Sambir", en: "Sambir"},
+    image: "/poi-images/ukraine-sambir-cities-v2.webp",
     coordinates: { lat: 49.5167, lng: 23.2 },
     description: {
       de: "Sambir ist eine malerische Stadt in den Ausläufern der Karpaten am Ufer des Dnjestr, bekannt für ihren historischen Marktplatz.",
@@ -2461,9 +3202,8 @@ image: "/poi-images/ukraine-sambir-cities-v2.webp"
     id: "ukraine-boryslav-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Boryslaw", hu: "Boriszlav", ro: "Borîslav", en: "Boryslav",
-image: "/poi-images/ukraine-boryslav-cities-v2.webp"
-},
+    name: { de: "Boryslaw", hu: "Boriszlav", ro: "Borîslav", en: "Boryslav"},
+    image: "/poi-images/ukraine-boryslav-cities-v2.webp",
     coordinates: { lat: 49.2833, lng: 23.4167 },
     description: {
       de: "Boryslaw ist eine Industriestadt in der Oblast Lemberg, die historisch als Zentrum der Erdöl- und Ozokeritgewinnung bekannt wurde.",
@@ -2483,9 +3223,8 @@ image: "/poi-images/ukraine-boryslav-cities-v2.webp"
     id: "ukraine-dubno-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Dubno", hu: "Dubno", ro: "Dubno", en: "Dubno",
-image: "/poi-images/ukraine-dubno-cities-v2.webp"
-},
+    name: { de: "Dubno", hu: "Dubno", ro: "Dubno", en: "Dubno"},
+    image: "/poi-images/ukraine-dubno-cities-v2.webp",
     coordinates: { lat: 50.4111, lng: 25.75 },
     description: {
       de: "Dubno ist eine historische Stadt am Fluss Ikwa, berühmt für ihre mächtige Festung der Familie Ostrogski.",
@@ -2505,9 +3244,8 @@ image: "/poi-images/ukraine-dubno-cities-v2.webp"
     id: "ukraine-khust-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Chust", hu: "Huszt", ro: "Hust", en: "Khust",
-image: "/poi-images/ukraine-khust-cities-v2.webp"
-},
+    name: { de: "Chust", hu: "Huszt", ro: "Hust", en: "Khust"},
+    image: "/poi-images/ukraine-khust-cities-v2.webp",
     coordinates: { lat: 48.1744, lng: 23.2989 },
     description: {
       de: "Chust ist eine historische Stadt in Transkarpatien, am Fuße eines Berges mit den Ruinen einer mittelalterlichen Burg.",
@@ -2527,9 +3265,8 @@ image: "/poi-images/ukraine-khust-cities-v2.webp"
     id: "ukraine-berehove-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Berehowe", hu: "Beregszász", ro: "Beregovo", en: "Berehove",
-image: "/poi-images/ukraine-berehove-cities-v2.webp"
-},
+    name: { de: "Berehowe", hu: "Beregszász", ro: "Beregovo", en: "Berehove"},
+    image: "/poi-images/ukraine-berehove-cities-v2.webp",
     coordinates: { lat: 48.2058, lng: 22.645 },
     description: {
       de: "Berehowe ist das kulturelle Zentrum der ungarischen Minderheit in Transkarpatien, berühmt für seine Thermalbäder und Weine.",
@@ -2549,9 +3286,8 @@ image: "/poi-images/ukraine-berehove-cities-v2.webp"
     id: "ukraine-vynohradiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Wynohradiw", hu: "Nagyszőlős", ro: "Vinogradiv", en: "Vynohradiv",
-image: "/poi-images/ukraine-vynohradiv-cities-v2.webp"
-},
+    name: { de: "Wynohradiw", hu: "Nagyszőlős", ro: "Vinogradiv", en: "Vynohradiv"},
+    image: "/poi-images/ukraine-vynohradiv-cities-v2.webp",
     coordinates: { lat: 48.1436, lng: 23.0333 },
     description: {
       de: "Wynohradiw ist eine sonnige Stadt in Transkarpatien, bekannt für ihren Weinanbau und die Ruinen der Kankiw-Burg am Schwarzen Berg.",
@@ -2571,9 +3307,8 @@ image: "/poi-images/ukraine-vynohradiv-cities-v2.webp"
     id: "ukraine-chortkiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tschortkiw", hu: "Csortkiv", ro: "Ciortkiv", en: "Chortkiv",
-image: "/poi-images/ukraine-chortkiv-cities-v2.webp"
-},
+    name: { de: "Tschortkiw", hu: "Csortkiv", ro: "Ciortkiv", en: "Chortkiv"},
+    image: "/poi-images/ukraine-chortkiv-cities-v2.webp",
     coordinates: { lat: 49.0167, lng: 25.8 },
     description: {
       de: "Tschortkiw ist eine historische Stadt in der Oblast Ternopil, bekannt für ihre monumentale Dominikanerkirche und die Burgruine.",
@@ -2588,14 +3323,25 @@ image: "/poi-images/ukraine-chortkiv-cities-v2.webp"
       en: ["First mentioned: 1422", "Population: ~28,000", "Dominican Church", "River: Seret"],
     },
     imageHint: "Chortkiv Dominican Church Neo-Gothic architecture",
+    descriptionAdvanced: {
+      de: "Chortkiv liegt in der Oblast Ternopil im Westen der Ukraine. Die Stadt wurde 1427 erstmals erwähnt und war Teil der polnisch-litauischen Adelsrepublik sowie später Österreich-Ungarns. Die Chortkiver Burg aus dem 16. Jahrhundert ist ein bedeutendes Renaissance-Bauwerk. Im 19. Jahrhundert entwickelte sich die Stadt zu einem Zentrum der jüdischen Kultur. Heute hat Chortkiv etwa 28.000 Einwohner und ist ein lokales Agrar- und Industriezentrum mit Betrieben der Lebensmittel- und Leichtindustrie.",
+      hu: "Csortkiv Ukrajna nyugati részén, Ternopil megyében található. A települést 1427-ben említik először, és a Lengyel–Litván Unió, majd az Osztrák–Magyar Monarchia része volt. A 16. században épült vár a reneszánsz építészet kiemelkedő példája. A város a 19. században a zsidó kultúra egyik fontos központja volt. Napjainkban mintegy 28 000 lakosú mezőgazdasági és ipari központ, ahol élelmiszer- és könnyűipari vállalkozások működnek.",
+      ro: "Ciorcău (Chortkiv) este un oraș în vestul Ucrainei, în regiunea Ternopil. Prima mențiune documentară datează din 1427. A făcut parte din Uniunea Polono-Lituaniană și ulterior din Imperiul Austro-Ungar. Castelul din secolul al XVI-lea este un monument arhitectonic renascentist. În secolul al XIX-lea, orașul a fost un centru important al culturii evreiești. Astăzi are aproximativ 28.000 de locuitori și este un centru agricol și industrial, cu fabrici de prelucrare a alimentelor și industrie ușoară.",
+      en: "Chortkiv is a city in Ternopil Oblast, western Ukraine, first mentioned in 1427. It was part of the Polish–Lithuanian Commonwealth and later the Austro-Hungarian Empire. The Chortkiv Castle, a Renaissance fortress built in the 16th century, dominates the townscape. In the 19th century, Chortkiv became a notable center of Jewish cultural and religious life. The current population is around 28,000. The economy is based on agriculture, food processing, and light manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Erste urkundliche Erwähnung: 1427", "Einwohnerzahl: 28.000 (2021)", "Fläche: 30 km²", "Höhe: 220 m über dem Meeresspiegel", "Bau der Burg: 16. Jahrhundert", "Anzahl der Kirchen: 5 (darunter eine griechisch-katholische)"],
+      hu: ["Első írásos említés: 1427", "Lakosság: 28 000 fő (2021)", "Terület: 30 km²", "Tengerszint feletti magasság: 220 m", "Vár építése: 16. század", "Templomok száma: 5 (köztük egy görögkatolikus)"],
+      ro: ["Prima mențiune documentară: 1427", "Populație: 28.000 locuitori (2021)", "Suprafață: 30 km²", "Altitudine: 220 m deasupra nivelului mării", "Construcția castelului: secolul al XVI-lea", "Număr de biserici: 5 (inclusiv una greco-catolică)"],
+      en: ["First mentioned in 1427", "Population: 28,000 (2021)", "Area: 30 km²", "Elevation: 220 m above sea level", "Construction of the castle: 16th century", "Number of churches: 5 (including a Greek Catholic one)"],
+    },
   },
   {
     id: "ukraine-berezhany-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Bereschany", hu: "Berezsany", ro: "Berejanî", en: "Berezhany",
-image: "/poi-images/ukraine-berezhany-cities-v2.webp"
-},
+    name: { de: "Bereschany", hu: "Berezsany", ro: "Berejanî", en: "Berezhany"},
+    image: "/poi-images/ukraine-berezhany-cities-v2.webp",
     coordinates: { lat: 49.4444, lng: 24.9389 },
     description: {
       de: "Bereschany ist eine historische Stadt am Fluss Solota Lypa, bekannt für ihre Renaissance-Burg und den Marktplatz.",
@@ -2610,14 +3356,25 @@ image: "/poi-images/ukraine-berezhany-cities-v2.webp"
       en: ["First mentioned: 1375", "Population: ~17,000", "Renaissance Castle", "Region: Ternopil Oblast"],
     },
     imageHint: "Berezhany Castle Renaissance courtyard",
+    descriptionAdvanced: {
+      de: "Berezhany liegt in der Oblast Ternopil und wurde 1375 erstmals erwähnt. Die Stadt war ein wichtiges Zentrum der jüdischen Gemeinde in Galizien. Das Berezhanyer Schloss, erbaut im 16. Jahrhundert, ist ein Renaissancebau. Im 19. Jahrhundert war die Stadt für ihre Holzschnitzereien bekannt. Heute hat Berezhany etwa 18.000 Einwohner. Die Wirtschaft umfasst Lebensmittelverarbeitung und Möbelherstellung.",
+      hu: "Berezhany (Berezsány) Ternopil megyében található, első említése 1375-ből származik. A város a galíciai zsidó közösség egyik fontos központja volt. A 16. században épült vár reneszánsz stílusú. A 19. században híres volt fafaragásairól. Ma mintegy 18 000 lakosa van, gazdaságát az élelmiszeripar és a bútorgyártás jellemzi.",
+      ro: "Berezhany (Berejani) este un oraș în regiunea Ternopil, menționat pentru prima dată în 1375. A fost un centru important al comunității evreiești din Galiția. Castelul din secolul al XVI-lea este o construcție renascentistă. În secolul al XIX-lea, orașul era renumit pentru sculpturile în lemn. Astăzi are aproximativ 18.000 de locuitori, iar economia se bazează pe prelucrarea alimentelor și producția de mobilă.",
+      en: "Berezhany is a city in Ternopil Oblast, first mentioned in 1375. It was a prominent center of Jewish life in Galicia. The Berezhany Castle, a Renaissance structure built in the 16th century, is a key landmark. In the 19th century, the town was known for its woodcarving craft. Today, its population is about 18,000. The economy relies on food processing and furniture manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1375", "Einwohner: 18.000 (2021)", "Fläche: 25 km²", "Höhe: 280 m", "Bau des Schlosses: 16. Jahrhundert", "Anzahl der Synagogen vor dem Zweiten Weltkrieg: 6"],
+      hu: ["Első említés: 1375", "Lakosság: 18 000 fő (2021)", "Terület: 25 km²", "Tengerszint feletti magasság: 280 m", "Vár építése: 16. század", "A második világháború előtti zsinagógák száma: 6"],
+      ro: ["Prima mențiune: 1375", "Populație: 18.000 locuitori (2021)", "Suprafață: 25 km²", "Altitudine: 280 m", "Construcția castelului: secolul al XVI-lea", "Număr de sinagogi înainte de al Doilea Război Mondial: 6"],
+      en: ["First mentioned in 1375", "Population: 18,000 (2021)", "Area: 25 km²", "Elevation: 280 m", "Construction of the castle: 16th century", "Number of synagogues before WWII: 6"],
+    },
   },
   {
     id: "ukraine-kremenets-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kremenez", hu: "Kremenyec", ro: "Kremeneț", en: "Kremenets",
-image: "/poi-images/ukraine-kremenets-cities-v2.webp"
-},
+    name: { de: "Kremenez", hu: "Kremenyec", ro: "Kremeneț", en: "Kremenets"},
+    image: "/poi-images/ukraine-kremenets-cities-v2.webp",
     coordinates: { lat: 50.1, lng: 25.7333 },
     description: {
       de: "Kremenez ist eine malerische Stadt in Wolhynien, dominiert von der Ruine der Burg Bona Sforza auf einem hohen Hügel.",
@@ -2632,14 +3389,25 @@ image: "/poi-images/ukraine-kremenets-cities-v2.webp"
       en: ["First mentioned: 1227", "Population: ~20,000", "Bona Sforza Castle", "Jesuit Collegium"],
     },
     imageHint: "Kremenets Jesuit Collegium and church complex",
+    descriptionAdvanced: {
+      de: "Kremenets liegt in der Oblast Ternopil und wurde 1226 erstmals erwähnt. Die Stadt beherbergt die Ruinen einer Burg aus dem 12. Jahrhundert. Im 16. Jahrhundert war Kremenets ein bedeutendes Bildungszentrum mit einer bekannten Jesuitenschule. Der Botanische Garten von Kremenets wurde 1809 gegründet. Die heutige Bevölkerung beträgt etwa 21.000. Die Wirtschaft ist von Landwirtschaft und Tourismus geprägt.",
+      hu: "Kremenets (Kremenyec) Ternopil megyében található, első említése 1226-ból származik. A városban található egy 12. századi vár romja. A 16. században a város fontos oktatási központ volt egy jezsuita iskolával. A Kremenetsi Botanikus Kertet 1809-ben alapították. Ma mintegy 21 000 lakosa van, gazdaságát a mezőgazdaság és a turizmus jellemzi.",
+      ro: "Kremenets (Cremenița) este un oraș în regiunea Ternopil, menționat pentru prima dată în 1226. Orașul adăpostește ruinele unui castel din secolul al XII-lea. În secolul al XVI-lea, a fost un important centru educațional cu o școală iezuită renumită. Grădina Botanică Kremenets a fost fondată în 1809. Populația actuală este de aproximativ 21.000. Economia se bazează pe agricultură și turism.",
+      en: "Kremenets is a city in Ternopil Oblast, first mentioned in 1226. It features the ruins of a 12th-century castle. In the 16th century, it became a major educational hub with a Jesuit academy. The Kremenets Botanical Garden, founded in 1809, is a notable attraction. The current population is around 21,000. The economy relies on agriculture and tourism.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1226", "Einwohner: 21.000 (2021)", "Fläche: 35 km²", "Höhe: 250 m", "Gründung des Botanischen Gartens: 1809", "Höhe der Burgruine: 50 m über der Stadt"],
+      hu: ["Első említés: 1226", "Lakosság: 21 000 fő (2021)", "Terület: 35 km²", "Tengerszint feletti magasság: 250 m", "Botanikus kert alapítása: 1809", "Várrom magassága: 50 m a város felett"],
+      ro: ["Prima mențiune: 1226", "Populație: 21.000 locuitori (2021)", "Suprafață: 35 km²", "Altitudine: 250 m", "Fondarea Grădinii Botanice: 1809", "Înălțimea ruinelor castelului: 50 m deasupra orașului"],
+      en: ["First mentioned in 1226", "Population: 21,000 (2021)", "Area: 35 km²", "Elevation: 250 m", "Foundation of the Botanical Garden: 1809", "Height of castle ruins: 50 m above the city"],
+    },
   },
   {
     id: "ukraine-zolochiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Solotschiw", hu: "Zolocsiv", ro: "Zolociv", en: "Zolochiv",
-image: "/poi-images/ukraine-zolochiv-cities-v2.webp"
-},
+    name: { de: "Solotschiw", hu: "Zolocsiv", ro: "Zolociv", en: "Zolochiv"},
+    image: "/poi-images/ukraine-zolochiv-cities-v2.webp",
     coordinates: { lat: 49.8058, lng: 24.9042 },
     description: {
       de: "Solotschiw ist eine historische Stadt in der Oblast Lemberg, bekannt für ihre gut erhaltene Burg mit einem einzigartigen Chinesischen Palast.",
@@ -2654,14 +3422,25 @@ image: "/poi-images/ukraine-zolochiv-cities-v2.webp"
       en: ["First mentioned: 1423", "Population: ~24,000", "Zolochiv Castle", "Chinese Palace"],
     },
     imageHint: "Zolochiv Castle Chinese Palace pink building",
+    descriptionAdvanced: {
+      de: "Zolochiv liegt in der Oblast Lwiw und wurde 1443 erstmals erwähnt. Das Zolochiver Schloss, ein Renaissancebau aus dem 16. Jahrhundert, war die Residenz des polnischen Königs Johann III. Sobieski. Die Stadt war ein Zentrum des Handels und Handwerks. Heute hat Zolochiv etwa 24.000 Einwohner. Die Wirtschaft umfasst Maschinenbau und Lebensmittelindustrie.",
+      hu: "Zolochiv (Zolocsiv) Lviv megyében található, első említése 1443-ból származik. A Zolocsivi vár, egy 16. századi reneszánsz épület, III. János lengyel király rezidenciája volt. A város kereskedelmi és kézműves központ volt. Ma mintegy 24 000 lakosa van, gazdaságában a gépgyártás és az élelmiszeripar dominál.",
+      ro: "Zolochiv (Zolociv) este un oraș în regiunea Liov, menționat pentru prima dată în 1443. Castelul Zolochiv, o construcție renascentistă din secolul al XVI-lea, a fost reședința regelui polonez Ioan al III-lea Sobieski. Orașul a fost un centru comercial și meșteșugăresc. Astăzi are aproximativ 24.000 de locuitori, economia bazându-se pe construcția de mașini și industria alimentară.",
+      en: "Zolochiv is a city in Lviv Oblast, first mentioned in 1443. The Zolochiv Castle, a Renaissance palace built in the 16th century, served as a residence for King John III Sobieski of Poland. The town was a hub for trade and crafts. Today, its population is about 24,000. The economy includes machine building and food processing.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1443", "Einwohner: 24.000 (2021)", "Fläche: 28 km²", "Höhe: 270 m", "Bau des Schlosses: 16. Jahrhundert", "Anzahl der Parks: 3"],
+      hu: ["Első említés: 1443", "Lakosság: 24 000 fő (2021)", "Terület: 28 km²", "Tengerszint feletti magasság: 270 m", "Vár építése: 16. század", "Parkok száma: 3"],
+      ro: ["Prima mențiune: 1443", "Populație: 24.000 locuitori (2021)", "Suprafață: 28 km²", "Altitudine: 270 m", "Construcția castelului: secolul al XVI-lea", "Număr de parcuri: 3"],
+      en: ["First mentioned in 1443", "Population: 24,000 (2021)", "Area: 28 km²", "Elevation: 270 m", "Construction of the castle: 16th century", "Number of parks: 3"],
+    },
   },
   {
     id: "ukraine-brody-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Brody", hu: "Brodi", ro: "Brody", en: "Brody",
-image: "/poi-images/ukraine-brody-cities-v2.webp"
-},
+    name: { de: "Brody", hu: "Brodi", ro: "Brody", en: "Brody"},
+    image: "/poi-images/ukraine-brody-cities-v2.webp",
     coordinates: { lat: 50.0833, lng: 25.15 },
     description: {
       de: "Brody ist eine historische Stadt an der Grenze zwischen Galizien und Wolhynien, einst ein bedeutendes Handelszentrum.",
@@ -2676,14 +3455,25 @@ image: "/poi-images/ukraine-brody-cities-v2.webp"
       en: ["First mentioned: 1084", "Population: ~23,000", "Brody Castle", "Merchant city"],
     },
     imageHint: "Brody Great Synagogue ruins",
+    descriptionAdvanced: {
+      de: "Brody liegt in der Oblast Lwiw und wurde 1084 erstmals erwähnt. Die Stadt war ein bedeutender Handelsplatz an der Route von Krakau nach Kiew. Im 17. Jahrhundert erhielt Brody das Magdeburger Stadtrecht. Das Brodyer Schloss aus dem 16. Jahrhundert ist ein Renaissancebau. Die jüdische Gemeinde spielte eine große Rolle. Heute hat Brody etwa 23.000 Einwohner. Die Wirtschaft ist von Landwirtschaft und Textilindustrie geprägt.",
+      hu: "Brody Lviv megyében található, első említése 1084-ből származik. A város fontos kereskedelmi központ volt a Krakkó–Kijev útvonalon. A 17. században Magdeburgi jogot kapott. A 16. századi vár reneszánsz stílusú. A zsidó közösség jelentős szerepet játszott. Ma mintegy 23 000 lakosa van, gazdaságát a mezőgazdaság és a textilipar jellemzi.",
+      ro: "Brody este un oraș în regiunea Liov, menționat pentru prima dată în 1084. A fost un important centru comercial pe ruta Cracovia–Kiev. În secolul al XVII-lea a primit dreptul Magdeburg. Castelul din secolul al XVI-lea este renascentist. Comunitatea evreiască a avut un rol major. Astăzi are aproximativ 23.000 de locuitori, economia fiind dominată de agricultură și industria textilă.",
+      en: "Brody is a city in Lviv Oblast, first mentioned in 1084. It was a key trading hub on the Kraków–Kyiv route. In the 17th century, it was granted Magdeburg rights. The Brody Castle, built in the 16th century, is a Renaissance structure. The Jewish community was historically significant. Today, the population is about 23,000. The economy is based on agriculture and textiles.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1084", "Einwohner: 23.000 (2021)", "Fläche: 20 km²", "Höhe: 200 m", "Magdeburger Stadtrecht: 17. Jahrhundert", "Anzahl der historischen Kirchen: 4"],
+      hu: ["Első említés: 1084", "Lakosság: 23 000 fő (2021)", "Terület: 20 km²", "Tengerszint feletti magasság: 200 m", "Magdeburgi jog: 17. század", "Történelmi templomok száma: 4"],
+      ro: ["Prima mențiune: 1084", "Populație: 23.000 locuitori (2021)", "Suprafață: 20 km²", "Altitudine: 200 m", "Dreptul Magdeburg: secolul al XVII-lea", "Număr de biserici istorice: 4"],
+      en: ["First mentioned in 1084", "Population: 23,000 (2021)", "Area: 20 km²", "Elevation: 200 m", "Magdeburg rights: 17th century", "Number of historic churches: 4"],
+    },
   },
   {
     id: "ukraine-myrhorod-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Myrhorod", hu: "Mirhorod", ro: "Mirhorod", en: "Myrhorod",
-image: "/poi-images/ukraine-myrhorod-cities-v2.webp"
-},
+    name: { de: "Myrhorod", hu: "Mirhorod", ro: "Mirhorod", en: "Myrhorod"},
+    image: "/poi-images/ukraine-myrhorod-cities-v2.webp",
     coordinates: { lat: 49.965, lng: 33.6117 },
     description: {
       de: "Myrhorod ist einer der bekanntesten Kurorte der Ukraine, berühmt für sein Mineralwasser und die literarischen Bezüge zu Nikolai Gogol.",
@@ -2698,14 +3488,25 @@ image: "/poi-images/ukraine-myrhorod-cities-v2.webp"
       en: ["Founded: 1575", "Population: ~38,000", "Mineral water resort", "River: Khorol"],
     },
     imageHint: "Myrhorod spa resort park with Gogol sculptures",
+    descriptionAdvanced: {
+      de: "Myrhorod liegt in der Oblast Poltawa und wurde 1575 erstmals erwähnt. Die Stadt ist bekannt für ihr Radon-Mineralwasser und das Myrhorod-Kurort. Im 19. Jahrhundert wurde sie durch das gleichnamige Gemälde von Nikolai Gogol berühmt. Die Bevölkerung beträgt etwa 40.000. Die Wirtschaft basiert auf Tourismus, Lebensmittelverarbeitung und der Herstellung von Mineralwasser.",
+      hu: "Myrhorod (Mirhorod) Poltava megyében található, első említése 1575-ből származik. A város híres radonos ásványvizéről és a Myrhorod gyógyfürdőről. A 19. században Nyikolaj Gogol azonos című festménye tette híressé. Lakossága mintegy 40 000 fő. Gazdasága a turizmusra, az élelmiszer-feldolgozásra és az ásványvízgyártásra épül.",
+      ro: "Myrhorod (Mirhorod) este un oraș în regiunea Poltava, menționat pentru prima dată în 1575. Este renumit pentru apa minerală cu radon și stațiunea balneară Myrhorod. În secolul al XIX-lea, a devenit celebru datorită picturii omonime a lui Nikolai Gogol. Populația este de aproximativ 40.000. Economia se bazează pe turism, procesarea alimentelor și producția de apă minerală.",
+      en: "Myrhorod is a city in Poltava Oblast, first mentioned in 1575. It is famous for its radon-rich mineral water and the Myrhorod spa resort. In the 19th century, it gained fame through Nikolai Gogol's painting of the same name. The population is about 40,000. The economy revolves around tourism, food processing, and mineral water production.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1575", "Einwohner: 40.000 (2021)", "Fläche: 42 km²", "Höhe: 100 m", "Radon-Gehalt des Wassers: 40 nCi/l", "Anzahl der Sanatorien: 5"],
+      hu: ["Első említés: 1575", "Lakosság: 40 000 fő (2021)", "Terület: 42 km²", "Tengerszint feletti magasság: 100 m", "Radon tartalom: 40 nCi/l", "Szanatóriumok száma: 5"],
+      ro: ["Prima mențiune: 1575", "Populație: 40.000 locuitori (2021)", "Suprafață: 42 km²", "Altitudine: 100 m", "Conținutul de radon: 40 nCi/l", "Număr de sanatorii: 5"],
+      en: ["First mentioned in 1575", "Population: 40,000 (2021)", "Area: 42 km²", "Elevation: 100 m", "Radon content: 40 nCi/l", "Number of sanatoriums: 5"],
+    },
   },
   {
     id: "ukraine-hadiach-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Hadjatsch", hu: "Hagyics", ro: "Hadiaci", en: "Hadiach",
-image: "/poi-images/ukraine-hadiach-cities-v2.webp"
-},
+    name: { de: "Hadjatsch", hu: "Hagyics", ro: "Hadiaci", en: "Hadiach"},
+    image: "/poi-images/ukraine-hadiach-cities-v2.webp",
     coordinates: { lat: 50.3667, lng: 33.9833 },
     description: {
       de: "Hadjatsch ist eine historische Kosakenstadt in der Oblast Poltawa und ein bedeutendes Zentrum des Chassidismus.",
@@ -2720,14 +3521,25 @@ image: "/poi-images/ukraine-hadiach-cities-v2.webp"
       en: ["Founded: 1533", "Population: ~23,000", "Hetman residence", "Tomb of Shneur Zalman"],
     },
     imageHint: "Hadiach tomb of Shneur Zalman and synagogue",
+    descriptionAdvanced: {
+      de: "Hadiach liegt in der Oblast Poltawa und wurde 1620 erstmals erwähnt. Die Stadt war ein Zentrum der Kosaken und wurde 1658 Schauplatz des Vertrags von Hadiach. Der Vertrag sollte eine polnisch-litauisch-ruthenische Union schaffen. Heute hat Hadiach etwa 16.000 Einwohner. Die Wirtschaft umfasst Landwirtschaft und Maschinenbau.",
+      hu: "Hadiach (Hagyács) Poltava megyében található, első említése 1620-ból származik. A város kozák központ volt, és 1658-ban itt kötötték meg a hadyácsii szerződést. A megállapodás egy lengyel-litán-rutén uniót hozott volna létre. Ma mintegy 16 000 lakosa van, gazdaságában a mezőgazdaság és a gépgyártás dominál.",
+      ro: "Hadiach (Hadeaci) este un oraș în regiunea Poltava, menționat pentru prima dată în 1620. A fost un centru cazac și locul semnării Tratatului de la Hadiach din 1658. Tratatul viza crearea unei uniuni polono-lituano-rutene. Astăzi are aproximativ 16.000 de locuitori. Economia include agricultura și construcția de mașini.",
+      en: "Hadiach is a city in Poltava Oblast, first mentioned in 1620. It was a Cossack center and the site of the 1658 Treaty of Hadiach, which aimed to create a Polish–Lithuanian–Ruthenian Commonwealth. Today, its population is about 16,000. The economy is based on agriculture and machine building.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1620", "Einwohner: 16.000 (2021)", "Fläche: 18 km²", "Höhe: 150 m", "Vertrag von Hadiach: 1658", "Anzahl der Kosaken-Denkmäler: 2"],
+      hu: ["Első említés: 1620", "Lakosság: 16 000 fő (2021)", "Terület: 18 km²", "Tengerszint feletti magasság: 150 m", "Hadyácsii szerződés: 1658", "Kozák emlékművek száma: 2"],
+      ro: ["Prima mențiune: 1620", "Populație: 16.000 locuitori (2021)", "Suprafață: 18 km²", "Altitudine: 150 m", "Tratatul de la Hadiach: 1658", "Număr de monumente cazace: 2"],
+      en: ["First mentioned in 1620", "Population: 16,000 (2021)", "Area: 18 km²", "Elevation: 150 m", "Treaty of Hadiach: 1658", "Number of Cossack monuments: 2"],
+    },
   },
   {
     id: "ukraine-okhtyrka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Ochtyrka", hu: "Ohtirka", ro: "Ohtîrka", en: "Okhtyrka",
-image: "/poi-images/ukraine-okhtyrka-cities-v2.webp"
-},
+    name: { de: "Ochtyrka", hu: "Ohtirka", ro: "Ohtîrka", en: "Okhtyrka"},
+    image: "/poi-images/ukraine-okhtyrka-cities-v2.webp",
     coordinates: { lat: 50.3117, lng: 34.8989 },
     description: {
       de: "Ochtyrka ist eine historische Stadt in der Oblast Sumy, bekannt für ihre prächtige Mariä-Schutz-Kathedrale und ihre militärische Tradition.",
@@ -2742,14 +3554,25 @@ image: "/poi-images/ukraine-okhtyrka-cities-v2.webp"
       en: ["Founded: 1641", "Population: ~47,000", "Pokrova Cathedral", "Region: Sumy Oblast"],
     },
     imageHint: "Okhtyrka Pokrova Cathedral blue architecture",
+    descriptionAdvanced: {
+      de: "Okhtyrka liegt in der Oblast Sumy und wurde 1641 als Festung gegründet. Die Stadt war ein wichtiges Kosakenzentrum. Die Verklärungskathedrale aus dem 18. Jahrhundert ist ein Barockbau. Okhtyrka ist auch für seine Öl- und Erdgasförderung bekannt. Die Bevölkerung beträgt etwa 48.000. Die Wirtschaft umfasst Maschinenbau und Lebensmittelindustrie.",
+      hu: "Okhtyrka (Ohtirka) Szumi megyében található, 1641-ben alapították erődként. A város fontos kozák központ volt. A 18. századi Színeváltozás székesegyház barokk épület. Ohtirka híres olaj- és gázkitermeléséről is. Lakossága mintegy 48 000 fő. Gazdaságában a gépgyártás és az élelmiszeripar dominál.",
+      ro: "Okhtyrka (Ohtirka) este un oraș în regiunea Sumî, fondat în 1641 ca fortăreață. A fost un important centru cazac. Catedrala Schimbarea la Față din secolul al XVIII-lea este în stil baroc. Okhtyrka este cunoscută și pentru extracția de petrol și gaze. Populația este de aproximativ 48.000. Economia include construcția de mașini și industria alimentară.",
+      en: "Okhtyrka is a city in Sumy Oblast, founded in 1641 as a fortress. It was a major Cossack center. The Transfiguration Cathedral, built in the 18th century, is a Baroque masterpiece. Okhtyrka is also known for oil and natural gas extraction. The population is about 48,000. The economy features machine building and food processing.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1641", "Einwohner: 48.000 (2021)", "Fläche: 38 km²", "Höhe: 130 m", "Ölförderung: seit 1950er Jahren", "Höhe der Kathedrale: 45 m"],
+      hu: ["Alapítás éve: 1641", "Lakosság: 48 000 fő (2021)", "Terület: 38 km²", "Tengerszint feletti magasság: 130 m", "Olajkitermelés: 1950-es évektől", "Székesegyház magassága: 45 m"],
+      ro: ["Anul fondării: 1641", "Populație: 48.000 locuitori (2021)", "Suprafață: 38 km²", "Altitudine: 130 m", "Extracție petrolieră: din anii 1950", "Înălțimea catedralei: 45 m"],
+      en: ["Year founded: 1641", "Population: 48,000 (2021)", "Area: 38 km²", "Elevation: 130 m", "Oil extraction: since the 1950s", "Height of the cathedral: 45 m"],
+    },
   },
   {
     id: "ukraine-romny-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Romny", hu: "Romni", ro: "Romnî", en: "Romny",
-image: "/poi-images/ukraine-romny-cities-v2.webp"
-},
+    name: { de: "Romny", hu: "Romni", ro: "Romnî", en: "Romny"},
+    image: "/poi-images/ukraine-romny-cities-v2.webp",
     coordinates: { lat: 50.75, lng: 33.4833 },
     description: {
       de: "Romny ist eine alte Stadt am Fluss Sula, die bereits in der Chronik von Wladimir Monomach erwähnt wurde.",
@@ -2764,14 +3587,25 @@ image: "/poi-images/ukraine-romny-cities-v2.webp"
       en: ["First mentioned: 1096", "Population: ~38,000", "Region: Sumy Oblast", "History of trade"],
     },
     imageHint: "Romny Taras Shevchenko monument 1918",
+    descriptionAdvanced: {
+      de: "Romny liegt in der Oblast Sumy und wurde 1096 erstmals erwähnt. Die Stadt war Teil des Kiewer Rus. Im 17. Jahrhundert wurde sie ein Kosakenzentrum. Romny ist bekannt für seine Tabakindustrie und Lebensmittelverarbeitung. Die Bevölkerung beträgt etwa 40.000. Die Wirtschaft umfasst Maschinenbau und Möbelherstellung.",
+      hu: "Romny (Romni) Szumi megyében található, első említése 1096-ból származik. A város a Kijevi Rusz része volt. A 17. században kozák központtá vált. Romny híres dohányiparáról és élelmiszer-feldolgozásáról. Lakossága mintegy 40 000 fő. Gazdaságában a gépgyártás és a bútorgyártás dominál.",
+      ro: "Romny (Romnî) este un oraș în regiunea Sumî, menționat pentru prima dată în 1096. A făcut parte din Rusia Kieveană. În secolul al XVII-lea a devenit un centru cazac. Romny este cunoscut pentru industria tutunului și prelucrarea alimentelor. Populația este de aproximativ 40.000. Economia include construcția de mașini și producția de mobilă.",
+      en: "Romny is a city in Sumy Oblast, first mentioned in 1096. It was part of Kyivan Rus'. In the 17th century, it became a Cossack center. Romny is known for its tobacco industry and food processing. The population is about 40,000. The economy features machine building and furniture manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Erste Erwähnung: 1096", "Einwohner: 40.000 (2021)", "Fläche: 35 km²", "Höhe: 140 m", "Tabakfabrik gegründet: 19. Jahrhundert", "Anzahl der Schulen: 12"],
+      hu: ["Első említés: 1096", "Lakosság: 40 000 fő (2021)", "Terület: 35 km²", "Tengerszint feletti magasság: 140 m", "Dohánygyár alapítása: 19. század", "Iskolák száma: 12"],
+      ro: ["Prima mențiune: 1096", "Populație: 40.000 locuitori (2021)", "Suprafață: 35 km²", "Altitudine: 140 m", "Fabrică de tutun fondată: secolul al XIX-lea", "Număr de școli: 12"],
+      en: ["First mentioned in 1096", "Population: 40,000 (2021)", "Area: 35 km²", "Elevation: 140 m", "Tobacco factory founded: 19th century", "Number of schools: 12"],
+    },
   },
   {
     id: "ukraine-kupiansk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Kupjansk", hu: "Kupjanszk", ro: "Kupeansk", en: "Kupiansk",
-image: "/poi-images/ukraine-kupiansk-cities-v2.webp"
-},
+    name: { de: "Kupjansk", hu: "Kupjanszk", ro: "Kupeansk", en: "Kupiansk"},
+    image: "/poi-images/ukraine-kupiansk-cities-v2.webp",
     coordinates: { lat: 49.7117, lng: 37.6167 },
     description: {
       de: "Kupjansk ist eine wichtige Eisenbahnstadt am Fluss Oskil im Osten der Oblast Charkiw.",
@@ -2786,14 +3620,25 @@ image: "/poi-images/ukraine-kupiansk-cities-v2.webp"
       en: ["Founded: 1655", "Population: ~27,000", "Railway junction", "River: Oskil"],
     },
     imageHint: "Kupiansk railway station aerial view",
+    descriptionAdvanced: {
+      de: "Kupiansk liegt in der Oblast Charkiw und wurde 1655 als Kosakensiedlung gegründet. Die Stadt ist ein wichtiger Eisenbahnknotenpunkt an der Strecke Moskau–Charkiw. Im 19. Jahrhundert entwickelte sie sich zu einem Handelszentrum. Heute hat Kupiansk etwa 27.000 Einwohner. Die Wirtschaft umfasst Lebensmittelverarbeitung und Schienenverkehr.",
+      hu: "Kupianszk Harkiv megyében található, 1655-ben alapították kozák településként. A város fontos vasúti csomópont a Moszkva–Harkiv vonalon. A 19. században kereskedelmi központtá fejlődött. Ma mintegy 27 000 lakosa van. Gazdaságában az élelmiszer-feldolgozás és a vasúti közlekedés dominál.",
+      ro: "Kupiansk (Kupiansk) este un oraș în regiunea Harkov, fondat în 1655 ca așezare cazacă. Este un important nod feroviar pe ruta Moscova–Harkov. În secolul al XIX-lea s-a dezvoltat ca centru comercial. Astăzi are aproximativ 27.000 de locuitori. Economia include prelucrarea alimentelor și transportul feroviar.",
+      en: "Kupiansk is a city in Kharkiv Oblast, founded in 1655 as a Cossack settlement. It is a key railway junction on the Moscow–Kharkiv line. In the 19th century, it grew as a trading center. Today, its population is about 27,000. The economy relies on food processing and rail transport.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1655", "Einwohner: 27.000 (2021)", "Fläche: 25 km²", "Höhe: 80 m", "Eisenbahnknotenpunkt seit: 1895", "Anzahl der Bahnsteige: 4"],
+      hu: ["Alapítás éve: 1655", "Lakosság: 27 000 fő (2021)", "Terület: 25 km²", "Tengerszint feletti magasság: 80 m", "Vasúti csomópont: 1895 óta", "Peronok száma: 4"],
+      ro: ["Anul fondării: 1655", "Populație: 27.000 locuitori (2021)", "Suprafață: 25 km²", "Altitudine: 80 m", "Nod feroviar din: 1895", "Număr de peroane: 4"],
+      en: ["Year founded: 1655", "Population: 27,000 (2021)", "Area: 25 km²", "Elevation: 80 m", "Railway junction since: 1895", "Number of platforms: 4"],
+    },
   },
   {
     id: "ukraine-balakliia-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Balaklija", hu: "Balaklija", ro: "Balakliia", en: "Balakliia",
-image: "/poi-images/ukraine-balakliia-cities-v2.webp"
-},
+    name: { de: "Balaklija", hu: "Balaklija", ro: "Balakliia", en: "Balakliia"},
+    image: "/poi-images/ukraine-balakliia-cities-v2.webp",
     coordinates: { lat: 49.45, lng: 36.85 },
     description: {
       de: "Balaklija ist eine Industriestadt in der Oblast Charkiw am Zusammenfluss der Flüsse Donez und Balaklijka.",
@@ -2808,14 +3653,25 @@ image: "/poi-images/ukraine-balakliia-cities-v2.webp"
       en: ["Founded: 1663", "Population: ~26,000", "Region: Kharkiv Oblast", "Cement industry center"],
     },
     imageHint: "Balakliia city center administration building",
+    descriptionAdvanced: {
+      de: "Balakliia liegt in der Oblast Charkiw und wurde 1663 als Festung gegründet. Die Stadt war ein Kosakenzentrum. Im 18. Jahrhundert wurde sie Teil des Russischen Reiches. Heute hat Balakliia etwa 27.000 Einwohner. Die Wirtschaft umfasst Maschinenbau und Landwirtschaft.",
+      hu: "Balakliia (Balakléja) Harkiv megyében található, 1663-ban alapították erődként. A város kozák központ volt. A 18. században az Orosz Birodalom része lett. Ma mintegy 27 000 lakosa van. Gazdaságában a gépgyártás és a mezőgazdaság dominál.",
+      ro: "Balakliia (Balaklia) este un oraș în regiunea Harkov, fondat în 1663 ca fortăreață. A fost un centru cazac. În secolul al XVIII-lea a intrat în Imperiul Rus. Astăzi are aproximativ 27.000 de locuitori. Economia include construcția de mașini și agricultura.",
+      en: "Balakliia is a city in Kharkiv Oblast, founded in 1663 as a fortress. It was a Cossack stronghold. In the 18th century, it became part of the Russian Empire. Today, its population is about 27,000. The economy features machine building and agriculture.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1663", "Einwohner: 27.000 (2021)", "Fläche: 22 km²", "Höhe: 90 m", "Anzahl der Seen in der Umgebung: 3", "Entfernung zu Charkiw: 95 km"],
+      hu: ["Alapítás éve: 1663", "Lakosság: 27 000 fő (2021)", "Terület: 22 km²", "Tengerszint feletti magasság: 90 m", "Környéki tavak száma: 3", "Távolság Harkovtól: 95 km"],
+      ro: ["Anul fondării: 1663", "Populație: 27.000 locuitori (2021)", "Suprafață: 22 km²", "Altitudine: 90 m", "Număr de lacuri în zonă: 3", "Distanța față de Harkov: 95 km"],
+      en: ["Year founded: 1663", "Population: 27,000 (2021)", "Area: 22 km²", "Elevation: 90 m", "Number of lakes nearby: 3", "Distance to Kharkiv: 95 km"],
+    },
   },
   {
     id: "ukraine-volnovakha-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Wolnowacha", hu: "Volnovaha", ro: "Volnovaha", en: "Volnovakha",
-image: "/poi-images/ukraine-volnovakha-cities-v2.webp"
-},
+    name: { de: "Wolnowacha", hu: "Volnovaha", ro: "Volnovaha", en: "Volnovakha"},
+    image: "/poi-images/ukraine-volnovakha-cities-v2.webp",
     coordinates: { lat: 47.5983, lng: 37.4917 },
     description: {
       de: "Wolnowacha ist eine strategische Stadt in der Oblast Donezk, bekannt als wichtiger Eisenbahnknotenpunkt auf einer Anhöhe.",
@@ -2830,14 +3686,25 @@ image: "/poi-images/ukraine-volnovakha-cities-v2.webp"
       en: ["Founded: 1881", "Population: ~21,000", "Major railway hub", "Highest point in the Donbas region"],
     },
     imageHint: "Volnovakha railway station building and square",
+    descriptionAdvanced: {
+      de: "Volnovakha liegt in der Oblast Donezk und wurde 1881 im Zuge des Eisenbahnbaus gegründet. Die Stadt ist ein Eisenbahnknotenpunkt. Sie war ein wichtiges Industriezentrum mit Maschinenbau und Lebensmittelindustrie. Die Bevölkerung vor dem Krieg betrug etwa 21.000. Die Stadt wurde im Russisch-Ukrainischen Krieg schwer beschädigt.",
+      hu: "Volnovakha (Volnováha) Doneck megyében található, 1881-ben alapították a vasútépítés kapcsán. A város vasúti csomópont. Fontos ipari központ volt gépgyártással és élelmiszeriparral. A háború előtti lakosság mintegy 21 000 fő volt. A város súlyos károkat szenvedett az orosz–ukrán háborúban.",
+      ro: "Volnovakha (Volnovaha) este un oraș în regiunea Donețk, fondat în 1881 în timpul construirii căii ferate. Este un nod feroviar. A fost un important centru industrial cu construcții de mașini și industria alimentară. Populația de dinainte de război era de aproximativ 21.000. Orașul a fost grav avariat în războiul ruso-ucrainean.",
+      en: "Volnovakha is a city in Donetsk Oblast, founded in 1881 during railway construction. It is a railway junction. It was a major industrial center with machine building and food processing. The pre-war population was about 21,000. The city suffered severe damage during the Russo-Ukrainian War.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1881", "Einwohner vor dem Krieg: 21.000 (2021)", "Fläche: 28 km²", "Höhe: 120 m", "Länge des Bahnhofsgebäudes: 150 m", "Anzahl der Gleise: 8"],
+      hu: ["Alapítás éve: 1881", "Háború előtti lakosság: 21 000 fő (2021)", "Terület: 28 km²", "Tengerszint feletti magasság: 120 m", "Pályaudvar épületének hossza: 150 m", "Vágányok száma: 8"],
+      ro: ["Anul fondării: 1881", "Populația de dinainte de război: 21.000 locuitori (2021)", "Suprafață: 28 km²", "Altitudine: 120 m", "Lungimea clădirii gării: 150 m", "Număr de linii ferate: 8"],
+      en: ["Year founded: 1881", "Pre-war population: 21,000 (2021)", "Area: 28 km²", "Elevation: 120 m", "Length of station building: 150 m", "Number of railway tracks: 8"],
+    },
   },
   {
     id: "ukraine-lyman-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Lyman", hu: "Liman", ro: "Lîman", en: "Lyman",
-image: "/poi-images/ukraine-lyman-cities-v2.webp"
-},
+    name: { de: "Lyman", hu: "Liman", ro: "Lîman", en: "Lyman"},
+    image: "/poi-images/ukraine-lyman-cities-v2.webp",
     coordinates: { lat: 48.9856, lng: 37.8106 },
     description: {
       de: "Lyman ist eine Stadt in der Oblast Donezk, umgeben von dichten Nadelwäldern und zahlreichen Seen.",
@@ -2852,14 +3719,25 @@ image: "/poi-images/ukraine-lyman-cities-v2.webp"
       en: ["Founded: 1667", "Population: ~20,000", "Railway junction", "Blue Lakes nearby"],
     },
     imageHint: "Lyman pine forests and lakes aerial",
+    descriptionAdvanced: {
+      de: "Lyman (früher Krasnyj Lyman) liegt in der Oblast Donezk und wurde 1667 als Kosakensiedlung gegründet. Die Stadt war ein Eisenbahnknotenpunkt und Industriezentrum mit Maschinenbau und Lebensmittelindustrie. Die Bevölkerung betrug etwa 20.000 vor dem Krieg. Lyman war Schauplatz schwerer Kämpfe im Russisch-Ukrainischen Krieg.",
+      hu: "Lyman (korábban Krasznij Lyman) Doneck megyében található, 1667-ben alapították kozák településként. A város vasúti csomópont és ipari központ volt gépgyártással és élelmiszeriparral. A háború előtti lakosság mintegy 20 000 fő volt. Lyman súlyos harcok színhelye volt az orosz–ukrán háborúban.",
+      ro: "Lyman (fost Krasnyi Lyman) este un oraș în regiunea Donețk, fondat în 1667 ca așezare cazacă. A fost un nod feroviar și un centru industrial cu construcții de mașini și industria alimentară. Populația de dinainte de război era de aproximativ 20.000. Lyman a fost scena unor lupte grele în războiul ruso-ucrainean.",
+      en: "Lyman (formerly Krasnyi Lyman) is a city in Donetsk Oblast, founded in 1667 as a Cossack settlement. It was a railway hub and industrial center with machine building and food processing. The pre-war population was about 20,000. Lyman saw heavy fighting during the Russo-Ukrainian War.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1667", "Einwohner vor dem Krieg: 20.000 (2021)", "Fläche: 18 km²", "Höhe: 110 m", "Anzahl der Bahnsteige: 3", "Entfernung zu Donezk: 100 km"],
+      hu: ["Alapítás éve: 1667", "Háború előtti lakosság: 20 000 fő (2021)", "Terület: 18 km²", "Tengerszint feletti magasság: 110 m", "Peronok száma: 3", "Távolság Donecktől: 100 km"],
+      ro: ["Anul fondării: 1667", "Populația de dinainte de război: 20.000 locuitori (2021)", "Suprafață: 18 km²", "Altitudine: 110 m", "Număr de peroane: 3", "Distanța față de Donețk: 100 km"],
+      en: ["Year founded: 1667", "Pre-war population: 20,000 (2021)", "Area: 18 km²", "Elevation: 110 m", "Number of platforms: 3", "Distance to Donetsk: 100 km"],
+    },
   },
   {
     id: "ukraine-avdiivka-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Awdijiwka", hu: "Avgyijivka", ro: "Avdiivka", en: "Avdiivka",
-image: "/poi-images/ukraine-avdiivka-cities-v2.webp"
-},
+    name: { de: "Awdijiwka", hu: "Avgyijivka", ro: "Avdiivka", en: "Avdiivka"},
+    image: "/poi-images/ukraine-avdiivka-cities-v2.webp",
     coordinates: { lat: 48.1367, lng: 37.75 },
     description: {
       de: "Awdijiwka ist eine Industriestadt nördlich von Donezk, Heimat einer der größten Kokereien Europas.",
@@ -2874,14 +3752,25 @@ image: "/poi-images/ukraine-avdiivka-cities-v2.webp"
       en: ["Founded: 1778", "Population: ~31,000", "Coke industry center", "Region: Donetsk Oblast"],
     },
     imageHint: "Avdiivka coke plant industrial facility",
+    descriptionAdvanced: {
+      de: "Awdijiwka liegt in der Oblast Donezk und wurde 1778 als Siedlung gegründet. Die Stadt ist bekannt für das Kokerei-Chemische Werk Awdijiwka, eines der größten in Europa. Die Bevölkerung betrug etwa 34.000 vor dem Krieg. Die Stadt war ein strategischer Punkt im Russisch-Ukrainischen Krieg und wurde weitgehend zerstört.",
+      hu: "Avdiivka (Avgyijivka) Doneck megyében található, 1778-ban alapították településként. A város híres az Avdiivkai Kokszvegyi Üzemről, amely Európa egyik legnagyobbja. A háború előtti lakosság mintegy 34 000 fő volt. A város stratégiai pont volt az orosz–ukrán háborúban és nagyrészt elpusztult.",
+      ro: "Avdiivka este un oraș în regiunea Donețk, fondat în 1778 ca așezare. Orașul este cunoscut pentru Uzina de Cocserie și Chimie de la Avdiivka, una dintre cele mai mari din Europa. Populația de dinainte de război era de aproximativ 34.000. Orașul a fost un punct strategic în războiul ruso-ucrainean și a fost în mare parte distrus.",
+      en: "Avdiivka is a city in Donetsk Oblast, founded in 1778 as a settlement. It is known for the Avdiivka Coke and Chemical Plant, one of the largest in Europe. The pre-war population was about 34,000. The city was a strategic point in the Russo-Ukrainian War and has been largely destroyed.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1778", "Einwohner vor dem Krieg: 34.000 (2021)", "Fläche: 40 km²", "Höhe: 200 m", "Kapazität des Kokswerks: 10 Mio. Tonnen pro Jahr", "Anzahl der Hochöfen: 2"],
+      hu: ["Alapítás éve: 1778", "Háború előtti lakosság: 34 000 fő (2021)", "Terület: 40 km²", "Tengerszint feletti magasság: 200 m", "Kokszüzem kapacitása: 10 millió tonna évente", "Kohók száma: 2"],
+      ro: ["Anul fondării: 1778", "Populația de dinainte de război: 34.000 locuitori (2021)", "Suprafață: 40 km²", "Altitudine: 200 m", "Capacitatea cocseriei: 10 milioane de tone pe an", "Număr de furnale: 2"],
+      en: ["Year founded: 1778", "Pre-war population: 34,000 (2021)", "Area: 40 km²", "Elevation: 200 m", "Capacity of the coke plant: 10 million tons per year", "Number of blast furnaces: 2"],
+    },
   },
   {
     id: "ukraine-popasna-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Popasna", hu: "Popaszna", ro: "Popasna", en: "Popasna",
-image: "/poi-images/ukraine-popasna-cities-v2.webp"
-},
+    name: { de: "Popasna", hu: "Popaszna", ro: "Popasna", en: "Popasna"},
+    image: "/poi-images/ukraine-popasna-cities-v2.webp",
     coordinates: { lat: 48.6333, lng: 38.3667 },
     description: {
       de: "Popasna ist eine Industriestadt in der Oblast Luhansk, die als wichtiger Eisenbahnknotenpunkt und Zentrum für Waggonbau bekannt ist.",
@@ -2896,14 +3785,25 @@ image: "/poi-images/ukraine-popasna-cities-v2.webp"
       en: ["Founded: 1878", "Population: ~20,000", "Region: Luhansk Oblast", "Railway car plant"],
     },
     imageHint: "Popasna railway station before 2022",
+    descriptionAdvanced: {
+      de: "Popasna liegt in der Oblast Luhansk und wurde 1878 durch den Eisenbahnbau gegründet. Die Stadt war ein Zentrum des Kohlebergbaus und der chemischen Industrie. Die Bevölkerung betrug etwa 19.000 vor dem Krieg. Popasna wurde im Russisch-Ukrainischen Krieg schwer zerstört.",
+      hu: "Popasna (Popaszna) Luhanszk megyében található, 1878-ban alapították a vasútépítés kapcsán. A város szénbányászatának és vegyiparának központja volt. A háború előtti lakosság mintegy 19 000 fő volt. Popasna súlyosan megsérült az orosz–ukrán háborúban.",
+      ro: "Popasna (Popasna) este un oraș în regiunea Luhansk, fondat în 1878 în timpul construirii căii ferate. A fost un centru al mineritului de cărbune și al industriei chimice. Populația de dinainte de război era de aproximativ 19.000. Popasna a fost grav distrusă în războiul ruso-ucrainean.",
+      en: "Popasna is a city in Luhansk Oblast, founded in 1878 during railway construction. It was a center for coal mining and chemical industry. The pre-war population was about 19,000. Popasna was heavily destroyed in the Russo-Ukrainian War.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1878", "Einwohner vor dem Krieg: 19.000 (2021)", "Fläche: 15 km²", "Höhe: 150 m", "Tiefe der Kohlegruben: 500 m", "Anzahl der chemischen Fabriken: 3"],
+      hu: ["Alapítás éve: 1878", "Háború előtti lakosság: 19 000 fő (2021)", "Terület: 15 km²", "Tengerszint feletti magasság: 150 m", "Szénbányák mélysége: 500 m", "Vegyi gyárak száma: 3"],
+      ro: ["Anul fondării: 1878", "Populația de dinainte de război: 19.000 locuitori (2021)", "Suprafață: 15 km²", "Altitudine: 150 m", "Adâncimea minelor de cărbune: 500 m", "Număr de fabrici chimice: 3"],
+      en: ["Year founded: 1878", "Pre-war population: 19,000 (2021)", "Area: 15 km²", "Elevation: 150 m", "Depth of coal mines: 500 m", "Number of chemical plants: 3"],
+    },
   },
   {
     id: "ukraine-merefa-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Merefa", hu: "Merefa", ro: "Merefa", en: "Merefa",
-image: "/poi-images/ukraine-merefa-cities-v2.webp"
-},
+    name: { de: "Merefa", hu: "Merefa", ro: "Merefa", en: "Merefa"},
+    image: "/poi-images/ukraine-merefa-cities-v2.webp",
     coordinates: { lat: 49.82, lng: 36.05 },
     description: {
       de: "Merefa ist eine historische Stadt südlich von Charkiw, berühmt als möglicher Geburtsort des legendären Kosakenführers Iwan Sirko.",
@@ -2918,14 +3818,25 @@ image: "/poi-images/ukraine-merefa-cities-v2.webp"
       en: ["Founded: 1595", "Population: ~21,000", "Region: Kharkiv Oblast", "Glass manufacturing"],
     },
     imageHint: "Merefa Ivan Sirko monument in city center",
+    descriptionAdvanced: {
+      de: "Merefa liegt in der Oblast Charkiw und wurde 1620 als Kosakensiedlung gegründet. Die Stadt ist ein wichtiger Eisenbahnknotenpunkt. Sie hat eine bedeutende Maschinenbauindustrie. Die Bevölkerung beträgt etwa 22.000. Merefa ist auch für seine architektonischen Sehenswürdigkeiten wie die Dreifaltigkeitskirche bekannt.",
+      hu: "Merefa Harkiv megyében található, 1620-ban alapították kozák településként. A város fontos vasúti csomópont. Jelentős gépgyártóipara van. Lakossága mintegy 22 000 fő. Merefa híres építészeti látnivalóiról, mint a Szentháromság-templom.",
+      ro: "Merefa este un oraș în regiunea Harkov, fondat în 1620 ca așezare cazacă. Este un important nod feroviar. Are o industrie semnificativă de construcții de mașini. Populația este de aproximativ 22.000. Merefa este cunoscută pentru repere arhitecturale precum Biserica Treimii.",
+      en: "Merefa is a city in Kharkiv Oblast, founded in 1620 as a Cossack settlement. It is a major railway junction. It has a significant machine-building industry. The population is about 22,000. Merefa is known for architectural landmarks such as the Trinity Church.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1620", "Einwohner: 22.000 (2021)", "Fläche: 20 km²", "Höhe: 120 m", "Anzahl der Bahngleise: 10", "Bau der Dreifaltigkeitskirche: 19. Jahrhundert"],
+      hu: ["Alapítás éve: 1620", "Lakosság: 22 000 fő (2021)", "Terület: 20 km²", "Tengerszint feletti magasság: 120 m", "Vasúti vágányok száma: 10", "Szentháromság-templom építése: 19. század"],
+      ro: ["Anul fondării: 1620", "Populație: 22.000 locuitori (2021)", "Suprafață: 20 km²", "Altitudine: 120 m", "Număr de linii ferate: 10", "Construcția Bisericii Treimii: secolul al XIX-lea"],
+      en: ["Year founded: 1620", "Population: 22,000 (2021)", "Area: 20 km²", "Elevation: 120 m", "Number of railway tracks: 10", "Construction of Trinity Church: 19th century"],
+    },
   },
   {
     id: "ukraine-vilniansk-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Wilniansk", hu: "Vilnyanszk", ro: "Vilneansk", en: "Vilniansk",
-image: "/poi-images/ukraine-vilniansk-cities-v2.webp"
-},
+    name: { de: "Wilniansk", hu: "Vilnyanszk", ro: "Vilneansk", en: "Vilniansk"},
+    image: "/poi-images/ukraine-vilniansk-cities-v2.webp",
     coordinates: { lat: 47.9408, lng: 35.4358 },
     description: {
       de: "Wilniansk ist eine Stadt in der Oblast Saporischschja, die im 19. Jahrhundert als Eisenbahnstation gegründet wurde.",
@@ -2940,14 +3851,25 @@ image: "/poi-images/ukraine-vilniansk-cities-v2.webp"
       en: ["Founded: 1840", "Population: ~14,000", "Region: Zaporizhzhia Oblast", "Machinery industry"],
     },
     imageHint: "Vilniansk town square and monument",
+    descriptionAdvanced: {
+      de: "Vilniansk liegt in der Oblast Saporischschja und wurde 1840 als Dorf gegründet. Die Stadt erhielt 1960 den Status einer Stadt. Sie ist ein Zentrum der Landwirtschaft und Lebensmittelverarbeitung. Die Bevölkerung beträgt etwa 15.000. Vilniansk war im Russisch-Ukrainischen Krieg besetzt.",
+      hu: "Vilnianszk (Vilnyanszk) Zaporizzsja megyében található, 1840-ben alapították faluként. 1960-ban kapott városi rangot. Mezőgazdasági és élelmiszer-feldolgozó központ. Lakossága mintegy 15 000 fő. Vilnianszk az orosz–ukrán háborúban megszállás alá került.",
+      ro: "Vilniansk (Vilneansk) este un oraș în regiunea Zaporojie, fondat în 1840 ca sat. A primit statutul de oraș în 1960. Este un centru agricol și de prelucrare a alimentelor. Populația este de aproximativ 15.000. Vilniansk a fost ocupată în timpul războiului ruso-ucrainean.",
+      en: "Vilniansk is a city in Zaporizhzhia Oblast, founded in 1840 as a village. It was granted city status in 1960. It is an agricultural and food processing center. The population is about 15,000. Vilniansk was occupied during the Russo-Ukrainian War.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1840", "Einwohner: 15.000 (2021)", "Fläche: 12 km²", "Höhe: 80 m", "Stadtrecht seit: 1960", "Anzahl der landwirtschaftlichen Betriebe: 20"],
+      hu: ["Alapítás éve: 1840", "Lakosság: 15 000 fő (2021)", "Terület: 12 km²", "Tengerszint feletti magasság: 80 m", "Városi rang: 1960 óta", "Mezőgazdasági üzemek száma: 20"],
+      ro: ["Anul fondării: 1840", "Populație: 15.000 locuitori (2021)", "Suprafață: 12 km²", "Altitudine: 80 m", "Statut de oraș din: 1960", "Număr de ferme agricole: 20"],
+      en: ["Year founded: 1840", "Population: 15,000 (2021)", "Area: 12 km²", "Elevation: 80 m", "City status since: 1960", "Number of agricultural farms: 20"],
+    },
   },
   {
     id: "ukraine-orikhiv-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Orichiw", hu: "Orihiv", ro: "Orihiv", en: "Orikhiv",
-image: "/poi-images/ukraine-orikhiv-cities-v2.webp"
-},
+    name: { de: "Orichiw", hu: "Orihiv", ro: "Orihiv", en: "Orikhiv"},
+    image: "/poi-images/ukraine-orikhiv-cities-v2.webp",
     coordinates: { lat: 47.5667, lng: 35.7833 },
     description: {
       de: "Orichiw ist eine Stadt in der Oblast Saporischschja, gelegen am Ufer des Flusses Kinska.",
@@ -2962,14 +3884,25 @@ image: "/poi-images/ukraine-orikhiv-cities-v2.webp"
       en: ["Founded: 1783", "Population: ~14,000", "Region: Zaporizhzhia Oblast", "Agricultural center"],
     },
     imageHint: "Orikhiv historic building and town center",
+    descriptionAdvanced: {
+      de: "Orikhiv liegt in der Oblast Saporischschja und wurde 1783 als Siedlung gegründet. Die Stadt war ein Zentrum der Landwirtschaft und des Handels. Die Bevölkerung betrug etwa 14.000 vor dem Krieg. Orikhiv war ein strategischer Punkt im Russisch-Ukrainischen Krieg und wurde stark beschädigt.",
+      hu: "Orikhiv (Orichiv) Zaporizzsja megyében található, 1783-ban alapították településként. A város mezőgazdasági és kereskedelmi központ volt. A háború előtti lakosság mintegy 14 000 fő volt. Orikhiv stratégiai pont volt az orosz–ukrán háborúban és súlyosan megsérült.",
+      ro: "Orikhiv (Orihiv) este un oraș în regiunea Zaporojie, fondat în 1783 ca așezare. A fost un centru agricol și comercial. Populația de dinainte de război era de aproximativ 14.000. Orikhiv a fost un punct strategic în războiul ruso-ucrainean și a fost grav avariat.",
+      en: "Orikhiv is a city in Zaporizhzhia Oblast, founded in 1783 as a settlement. It was a center for agriculture and trade. The pre-war population was about 14,000. Orikhiv was a strategic point in the Russo-Ukrainian War and suffered heavy damage.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1783", "Einwohner vor dem Krieg: 14.000 (2021)", "Fläche: 10 km²", "Höhe: 70 m", "Anzahl der Märkte: 2", "Entfernung zu Saporischschja: 60 km"],
+      hu: ["Alapítás éve: 1783", "Háború előtti lakosság: 14 000 fő (2021)", "Terület: 10 km²", "Tengerszint feletti magasság: 70 m", "Piaci árusítóhelyek száma: 2", "Távolság Zaporizzsjától: 60 km"],
+      ro: ["Anul fondării: 1783", "Populația de dinainte de război: 14.000 locuitori (2021)", "Suprafață: 10 km²", "Altitudine: 70 m", "Număr de piețe: 2", "Distanța față de Zaporojie: 60 km"],
+      en: ["Year founded: 1783", "Pre-war population: 14,000 (2021)", "Area: 10 km²", "Elevation: 70 m", "Number of markets: 2", "Distance to Zaporizhzhia: 60 km"],
+    },
   },
   {
     id: "ukraine-polohy-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Polohy", hu: "Polohi", ro: "Polohî", en: "Polohy",
-image: "/poi-images/ukraine-polohy-cities-v2.webp"
-},
+    name: { de: "Polohy", hu: "Polohi", ro: "Polohî", en: "Polohy"},
+    image: "/poi-images/ukraine-polohy-cities-v2.webp",
     coordinates: { lat: 47.4817, lng: 36.2525 },
     description: {
       de: "Polohy ist eine Industriestadt in der Oblast Saporischschja, bekannt für den Abbau von Kaolin und feuerfestem Ton.",
@@ -2984,14 +3917,25 @@ image: "/poi-images/ukraine-polohy-cities-v2.webp"
       en: ["Founded: 1887", "Population: ~18,000", "Railway junction", "Kaolin mining center"],
     },
     imageHint: "Polohy kaolin quarry and mining site",
+    descriptionAdvanced: {
+      de: "Polohy liegt in der Oblast Saporischschja und wurde 1887 als Siedlung gegründet. Die Stadt war ein Zentrum der Landwirtschaft und der Lebensmittelindustrie. Die Bevölkerung betrug etwa 18.000 vor dem Krieg. Polohy war im Russisch-Ukrainischen Krieg besetzt.",
+      hu: "Polohy (Polohi) Zaporizzsja megyében található, 1887-ben alapították településként. A város mezőgazdasági és élelmiszeripari központ volt. A háború előtti lakosság mintegy 18 000 fő volt. Polohi az orosz–ukrán háborúban megszállás alá került.",
+      ro: "Polohy (Polohî) este un oraș în regiunea Zaporojie, fondat în 1887 ca așezare. A fost un centru agricol și al industriei alimentare. Populația de dinainte de război era de aproximativ 18.000. Polohy a fost ocupată în războiul ruso-ucrainean.",
+      en: "Polohy is a city in Zaporizhzhia Oblast, founded in 1887 as a settlement. It was a center for agriculture and food industry. The pre-war population was about 18,000. Polohy was occupied during the Russo-Ukrainian War.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1887", "Einwohner vor dem Krieg: 18.000 (2021)", "Fläche: 14 km²", "Höhe: 90 m", "Anzahl der Lebensmittelfabriken: 4", "Entfernung zur Krim: 150 km"],
+      hu: ["Alapítás éve: 1887", "Háború előtti lakosság: 18 000 fő (2021)", "Terület: 14 km²", "Tengerszint feletti magasság: 90 m", "Élelmiszergyárak száma: 4", "Távolság a Krímtől: 150 km"],
+      ro: ["Anul fondării: 1887", "Populația de dinainte de război: 18.000 locuitori (2021)", "Suprafață: 14 km²", "Altitudine: 90 m", "Număr de fabrici alimentare: 4", "Distanța față de Crimeea: 150 km"],
+      en: ["Year founded: 1887", "Pre-war population: 18,000 (2021)", "Area: 14 km²", "Elevation: 90 m", "Number of food factories: 4", "Distance to Crimea: 150 km"],
+    },
   },
   {
     id: "ukraine-tokmak-cities-v2",
     parent: "UA",
     type: "city",
-    name: { de: "Tokmak", hu: "Tokmak", ro: "Tokmak", en: "Tokmak",
-image: "/poi-images/ukraine-tokmak-cities-v2.webp"
-},
+    name: { de: "Tokmak", hu: "Tokmak", ro: "Tokmak", en: "Tokmak"},
+    image: "/poi-images/ukraine-tokmak-cities-v2.webp",
     coordinates: { lat: 47.2483, lng: 35.7033 },
     description: {
       de: "Tokmak ist eine Industriestadt in der Oblast Saporischschja am Fluss Molotschna, ein historisches Zentrum des Maschinenbaus.",
@@ -3006,5 +3950,242 @@ image: "/poi-images/ukraine-tokmak-cities-v2.webp"
       en: ["Founded: 1784", "Population: ~30,000", "Region: Zaporizhzhia Oblast", "Diesel engine production"],
     },
     imageHint: "Tokmak city center and industrial monument",
+    descriptionAdvanced: {
+      de: "Tokmak liegt in der Oblast Saporischschja und wurde 1784 als Siedlung gegründet. Die Stadt war ein Zentrum der Landwirtschaft und des Maschinenbaus. Die Bevölkerung betrug etwa 30.000 vor dem Krieg. Tokmak war ein strategischer Punkt im Russisch-Ukrainischen Krieg.",
+      hu: "Tokmak Zaporizzsja megyében található, 1784-ben alapították településként. A város mezőgazdasági és gépgyártó központ volt. A háború előtti lakosság mintegy 30 000 fő volt. Tokmak stratégiai pont volt az orosz–ukrán háborúban.",
+      ro: "Tokmak (Tokmak) este un oraș în regiunea Zaporojie, fondat în 1784 ca așezare. A fost un centru agricol și de construcții de mașini. Populația de dinainte de război era de aproximativ 30.000. Tokmak a fost un punct strategic în războiul ruso-ucrainean.",
+      en: "Tokmak is a city in Zaporizhzhia Oblast, founded in 1784 as a settlement. It was a center for agriculture and machine building. The pre-war population was about 30,000. Tokmak was a strategic point in the Russo-Ukrainian War.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1784", "Einwohner vor dem Krieg: 30.000 (2021)", "Fläche: 25 km²", "Höhe: 100 m", "Anzahl der Industriegebiete: 3", "Entfernung zum Asowschen Meer: 80 km"],
+      hu: ["Alapítás éve: 1784", "Háború előtti lakosság: 30 000 fő (2021)", "Terület: 25 km²", "Tengerszint feletti magasság: 100 m", "Ipari övezetek száma: 3", "Távolság az Azovi-tengertől: 80 km"],
+      ro: ["Anul fondării: 1784", "Populația de dinainte de război: 30.000 locuitori (2021)", "Suprafață: 25 km²", "Altitudine: 100 m", "Număr de zone industriale: 3", "Distanța față de Marea Azov: 80 km"],
+      en: ["Year founded: 1784", "Pre-war population: 30,000 (2021)", "Area: 25 km²", "Elevation: 100 m", "Number of industrial zones: 3", "Distance to the Sea of Azov: 80 km"],
+    },
+  }
+,
+  {
+    id: "ukraine-sarny-cities-v2",
+    type: "city",
+    parent: "UA",
+    name: { de: "Sarny", hu: "Sarny", ro: "Sarnî", en: "Sarny" },
+    coordinates: { lat: 51.3386, lng: 26.6022 },
+    description: {
+      de: "Sarny ist ein wichtiger Eisenbahnknotenpunkt in der Oblast Riwne im Nordwesten der Ukraine. Die Stadt dient als zentrales Industriezentrum der Region.",
+      hu: "Sarny egy jelentős vasúti csomópont Ukrajna északnyugati részén, a Rivnei területen. Fontos ipari és közlekedési központként szolgál a régióban.",
+      ro: "Sarnî este un nod feroviar major situat în regiunea Rivne din nord-vestul Ucrainei. Orașul servește ca un centru industrial important pentru zonă.",
+      en: "Sarny is a major railway junction in the Rivne region of northwestern Ukraine. It serves as an important industrial and transport hub for the area.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1885", "Einwohnerzahl ca. 28.000", "Bedeutende Holzindustrie", "Liegt am Fluss Slutsch"],
+      hu: ["1885-ben alapították", "Lakossága kb. 28 000 fő", "Jelentős fafeldolgozó ipar", "A Szlucs-folyó partján fekszik"],
+      ro: ["Fondat în anul 1885", "Populație de aproximativ 28.000", "Industrie de prelucrare a lemnului", "Situat pe râul Sluci"],
+      en: ["Founded in 1885", "Population approx. 28,000", "Major woodworking industry", "Located on the Sluch River"],
+    },
+    imageHint: "Sarny railway station and industrial area",
+    descriptionAdvanced: {
+      de: "Sarny ist eine Stadt in der Oblast Riwne im Nordwesten der Ukraine. Die Siedlung entstand im 19. Jahrhundert als Eisenbahnknotenpunkt an der Linie Kowel–Kiew. Während des Ersten Weltkriegs war Sarny zwischen 1915 und 1918 von österreichisch-ungarischen Truppen besetzt. In der Zwischenkriegszeit gehörte die Stadt zu Polen und war ein wichtiger Garnisonsort. 1939 wurde sie von der Sowjetunion annektiert. Während des Zweiten Weltkriegs ermordeten deutsche Besatzer im September 1942 etwa 14.000 Juden aus Sarny und Umgebung. Nach dem Krieg wurde die Stadt wiederaufgebaut und industrialisiert. Heute ist Sarny ein regionales Zentrum mit Maschinenbau, Holzverarbeitung und Nahrungsmittelindustrie. Die Bevölkerung beträgt rund 28.000 Einwohner (2021).",
+      hu: "Sarny település a Rivnei területen, Ukrajna északnyugati részén. A város a 19. században jött létre, amikor a Kovel–Kijev vasútvonal csomópontjává vált. 1915 és 1918 között az Osztrák–Magyar Monarchia csapatai szállták meg. A két világháború között Lengyelországhoz tartozott, és fontos helyőrségi város volt. 1939-ben a Szovjetunió annektálta. A második világháború alatt, 1942 szeptemberében a német megszállók mintegy 14 000 zsidót gyilkoltak meg Sarnyból és környékéről. A háború után a várost újjáépítették és iparosították. Ma Sarny regionális központ, gépgyártással, fafeldolgozással és élelmiszeriparral. Lakossága 2021-ben körülbelül 28 000 fő.",
+      ro: "Sarny este un oraș în regiunea Rivne, nord-vestul Ucrainei. Așezarea a apărut în secolul al XIX-lea ca nod feroviar pe linia Kovel–Kiev. În timpul Primului Război Mondial, între 1915 și 1918, a fost ocupată de trupele austro-ungare. În perioada interbelică a aparținut Poloniei, fiind un important garnizoană. În 1939 a fost anexată de Uniunea Sovietică. În timpul celui de-al Doilea Război Mondial, în septembrie 1942, ocupanții germani au ucis aproximativ 14.000 de evrei din Sarny și din jur. După război, orașul a fost reconstruit și industrializat. Astăzi Sarny este un centru regional cu construcții de mașini, prelucrarea lemnului și industrie alimentară. Populația este de aproximativ 28.000 de locuitori (2021).",
+      en: "Sarny is a city in Rivne Oblast, northwestern Ukraine. Originating in the 19th century as a railway junction on the Kovel–Kiev line, it grew after the construction of tracks. During World War I, it was under Austro-Hungarian occupation. In the interwar period, Sarny belonged to Poland and hosted a significant military garrison. Following the Molotov–Ribbentrop Pact, the Soviet Union annexed the region in 1939. World War II brought tragedy: in September 1942, Nazi forces murdered around 14,000 Jews from Sarny and nearby villages. Post-war reconstruction focused on industry, including machine building, woodworking, and food processing. Today, Sarny serves as a local administrative and economic hub, with a population of about 28,000 (2021).",
+    },
+    factsAdvanced: {
+      de: ["Sarny liegt auf einer Höhe von 150 Metern über dem Meeresspiegel.", "Die Stadt wurde 1885 als Eisenbahnsiedlung gegründet.", "Die Fläche der Stadt beträgt 21,8 km².", "Im Jahr 1939 hatte Sarny etwa 14.000 Einwohner.", "Die durchschnittliche Jahrestemperatur beträgt 7,5 °C.", "Sarny ist in 3 Stadtbezirke unterteilt."],
+      hu: ["Sarny területe 21,8 négyzetkilométer.", "A vasútállomást 1885-ben nyitották meg.", "A város tengerszint feletti magassága 150 méter.", "2021-ben a lakosság 28 000 fő volt.", "A városban 3 ipari park található.", "Sarny 90 km-re fekszik Rivne-től."],
+      ro: ["Suprafața orașului Sarny este de 21,8 km².", "Gara a fost deschisă în anul 1885.", "Altitudinea medie este de 150 m deasupra nivelului mării.", "Populația în 2021 era de aproximativ 28.000 de locuitori.", "Orașul are 3 parcuri industriale.", "Distanța până la Rivne este de 90 km."],
+      en: ["Sarny covers an area of 21.8 km².", "The railway station opened in 1885.", "The city lies at an elevation of 150 m above sea level.", "Population in 2021: approx. 28,000.", "It has three industrial parks.", "Distance to Rivne: 90 km."],
+    },
+  },
+  {
+    id: "ukraine-lebedyn-cities-v2",
+    type: "city",
+    parent: "UA",
+    name: { de: "Lebedyn", hu: "Lebegyin", ro: "Lebedîn", en: "Lebedyn" },
+    coordinates: { lat: 50.5828, lng: 34.4842 },
+    description: {
+      de: "Lebedyn ist eine historische Stadt in der Oblast Sumy im Nordosten der Ukraine. Sie liegt am Fluss Wilschanka und ist für ihre Kunstgalerie bekannt.",
+      hu: "Lebegyin egy történelmi város Ukrajna északkeleti részén, a Szumi területen. A Vilsanka-folyó partján fekszik, és híres művészeti galériájáról.",
+      ro: "Lebedîn este un oraș istoric din regiunea Sumî, situat în nord-estul Ucrainei. Se află pe râul Vilșanka și este cunoscut pentru galeria sa de artă.",
+      en: "Lebedyn is a historical city in the Sumy region of northeastern Ukraine. It is situated on the Vilshanka River and is known for its local art gallery.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1652", "Liegt am Fluss Wilschanka", "Bedeutende Kunstgalerie", "Ehemalige Kosakenfestung"],
+      hu: ["1652-ben alapították", "A Vilsanka-folyó mentén fekszik", "Híres képzőművészeti galéria", "Egykori kozák erődítmény"],
+      ro: ["Fondat în anul 1652", "Situat pe râul Vilșanka", "Galerie de artă renumită", "Fostă fortăreață căzăcească"],
+      en: ["Founded in 1652", "Located on the Vilshanka River", "Famous local art gallery", "Former Cossack fortress"],
+    },
+    imageHint: "Lebedyn city center with historical buildings",
+    descriptionAdvanced: {
+      de: "Lebedyn ist eine Stadt in der Oblast Sumy im Nordosten der Ukraine. Sie wurde 1654 als Kosakensiedlung gegründet und erhielt 1993 den Stadtstatus. Während des Großen Nordischen Krieges war Lebedyn 1708/09 Hauptquartier von Zar Peter I., der dort die Hinrichtung von Kosaken anordnete. Im 19. Jahrhundert entwickelte sich die Stadt zu einem Handelszentrum für Landwirtschaftsprodukte. Während des Zweiten Weltkriegs war Lebedyn von Oktober 1941 bis Februar 1943 von deutschen Truppen besetzt. Nach dem Krieg wurde die Industrie ausgebaut, insbesondere eine Zuckerfabrik und ein Werk für Landmaschinen. Heute hat Lebedyn rund 26.000 Einwohner (2021) und ist bekannt für seine historischen Holzkirchen.",
+      hu: "Lebedyn város a Szumi területen, Északkelet-Ukrajnában. 1654-ben kozák településként alapították, 1993-ban kapott városi rangot. A nagy északi háború idején, 1708–1709-ben I. Péter cár főhadiszállása volt, ahol kozákok kivégzését rendelte el. A 19. században mezőgazdasági termékek kereskedelmi központjává fejlődött. A második világháború alatt 1941 októbere és 1943 februárja között német megszállás alatt állt. A háború után iparosították, cukorgyárat és mezőgazdasági gépgyárat építettek. Ma Lebedyn lakossága mintegy 26 000 fő (2021), és híres történelmi fatemplomairól.",
+      ro: "Lebedyn este un oraș în regiunea Sumî, nord-estul Ucrainei. A fost fondată în 1654 ca așezare cazacilor și a primit statutul de oraș în 1993. În timpul Marelui Război al Nordului, în 1708–1709, a fost cartierul general al țarului Petru I, care a ordonat executarea cazacilor. În secolul al XIX-lea a devenit centru comercial pentru produse agricole. În timpul celui de-al Doilea Război Mondial, a fost ocupată de germani din octombrie 1941 până în februarie 1943. După război, industria s-a dezvoltat, inclusiv o fabrică de zahăr și una de mașini agricole. Astăzi, Lebedyn are aproximativ 26.000 de locuitori (2021) și este cunoscut pentru bisericile sale istorice din lemn.",
+      en: "Lebedyn is a city in Sumy Oblast, northeastern Ukraine. Founded in 1654 as a Cossack settlement, it attained city status in 1993. During the Great Northern War, in 1708–1709, it served as the headquarters of Tsar Peter I, who ordered the execution of Cossacks there. In the 19th century, Lebedyn became a trading hub for agricultural produce. During World War II, it was under German occupation from October 1941 to February 1943. Post-war industrialization included a sugar plant and an agricultural machinery factory. The city's population is about 26,000 (2021). Lebedyn is noted for its well-preserved wooden churches, including the Church of St. Nicholas (18th century).",
+    },
+    factsAdvanced: {
+      de: ["Lebedyn liegt am Fluss Olna, einem Nebenfluss des Psel.", "Die Stadt wurde 1654 gegründet.", "Die Fläche beträgt 16,2 km².", "Die Bevölkerungsdichte liegt bei etwa 1.604 Einwohnern pro km².", "Die maximale Höhe über dem Meeresspiegel beträgt 200 Meter.", "Die Entfernung zur Oblasthauptstadt Sumy beträgt 30 km."],
+      hu: ["Lebedyn területe 16,2 négyzetkilométer.", "A város a Szumi terület székhelyétől 30 km-re fekszik.", "Az Olna folyó partján helyezkedik el.", "A lakosság 2021-ben 26 000 fő volt.", "A legmagasabb pont 200 m tengerszint feletti magasságban van.", "A városban 4 történelmi fatemplom található."],
+      ro: ["Lebedyn se află pe râul Olna, un afluent al Pselului.", "Suprafața orașului este de 16,2 km².", "Distanța până la Sumî este de 30 km.", "Populația în 2021: 26.000 locuitori.", "Altitudinea maximă în oraș este de 200 m.", "Orașul are 4 biserici istorice din lemn."],
+      en: ["Lebedyn lies on the Olna River, a tributary of the Psel.", "City area: 16.2 km².", "Distance to Sumy: 30 km.", "Population (2021): 26,000.", "Maximum elevation: 200 m above sea level.", "Number of historic wooden churches: 4."],
+    },
+  },
+  {
+    id: "ukraine-skadovsk-cities-v2",
+    type: "port",
+    parent: "UA",
+    name: { de: "Skadowsk", hu: "Szkadovszk", ro: "Skadovsk", en: "Skadovsk" },
+    coordinates: { lat: 46.1215, lng: 32.9128 },
+    description: {
+      de: "Skadowsk ist eine Hafenstadt am Schwarzen Meer in der Oblast Cherson. Sie ist ein bekanntes Kurzentrum und Tor zur Insel Dzharylhach.",
+      hu: "Szkadovszk egy kikötőváros a Fekete-tenger partján, a Herszoni területen. Híres gyógyüdülőhely és a Dzsarilgacs-sziget kapuja.",
+      ro: "Skadovsk este un oraș port la Marea Neagră, situat în regiunea Herson. Este un cunoscut centru balnear și poarta de acces către insula Djarîlgaci.",
+      en: "Skadovsk is a port city on the Black Sea coast in the Kherson region. It is a well-known health resort and the gateway to Dzharylhach Island.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1894", "Wichtiger Seehafen", "Bekannter Kinderkurort", "Liegt am Schwarzen Meer"],
+      hu: ["1894-ben alapították", "Fontos tengeri kikötő", "Híres gyermeküdülőhely", "A Fekete-tenger partján fekszik"],
+      ro: ["Fondat în anul 1894", "Port maritim important", "Stațiune renumită pentru copii", "Situat la Marea Neagră"],
+      en: ["Founded in 1894", "Important sea port", "Famous children's health resort", "Located on the Black Sea coast"],
+    },
+    imageHint: "Skadovsk beach and Black Sea port",
+    descriptionAdvanced: {
+      de: "Skadovsk ist eine Stadt in der Oblast Cherson im Süden der Ukraine und ein wichtiger Hafen am Schwarzen Meer. Sie wurde 1894 von Serhiy Skadovsky gegründet, einem Gutsbesitzer und Unternehmer, der einen Hafen für den Getreideexport errichtete. In der Sowjetzeit entwickelte sich Skadovsk zu einem Kurort mit zahlreichen Sanatorien und Erholungsheimen. Der Strand aus feinem Sand zieht viele Touristen an. Während des Zweiten Weltkriegs war die Stadt von September 1941 bis Oktober 1943 von rumänischen und deutschen Truppen besetzt. Nach dem Krieg wurde die Hafeninfrastruktur modernisiert. Heute hat Skadovsk etwa 18.000 Einwohner (2021) und ist ein Zentrum für Fischerei, Schiffsreparatur und Tourismus. Der Nationalpark Dscharylhatsch liegt in der Nähe.",
+      hu: "Skadovsk város a Herszoni területen, Dél-Ukrajnában, fontos kikötő a Fekete-tengeren. 1894-ben alapította Serhiy Skadovsky földbirtokos és üzletember, aki gabonaexport kikötőt épített. A szovjet időkben üdülőhellyé fejlődött, számos szanatóriummal és pihenőotthonnal. A finom homokos strand sok turistát vonz. A második világháború alatt 1941 szeptemberétől 1943 októberéig román és német csapatok szállták meg. A háború után a kikötő infrastruktúráját korszerűsítették. Ma Skadovsk lakossága mintegy 18 000 fő (2021), és halászatról, hajójavításról és turizmusról ismert. Közelében található a Dzsarylhatsz Nemzeti Park.",
+      ro: "Skadovsk este un oraș în regiunea Herson, sudul Ucrainei, un port important la Marea Neagră. A fost fondat în 1894 de Serhiy Skadovsky, un moșier și om de afaceri care a construit un port pentru exportul de cereale. În perioada sovietică, Skadovsk a devenit o stațiune cu numeroase sanatorii și case de odihnă. Plaja cu nisip fin atrage mulți turiști. În timpul celui de-al Doilea Război Mondial, orașul a fost ocupat de trupele române și germane din septembrie 1941 până în octombrie 1943. După război, infrastructura portului a fost modernizată. Astăzi, Skadovsk are aproximativ 18.000 de locuitori (2021) și este cunoscut pentru pescuit, reparații navale și turism. Parcul Național Dzharylhats se află în apropiere.",
+      en: "Skadovsk is a city in Kherson Oblast, southern Ukraine, and a key Black Sea port. Founded in 1894 by landowner Serhiy Skadovsky, who built a harbor for grain export. During the Soviet era, it developed into a resort town with numerous sanatoriums and rest homes. Its fine sandy beach attracts tourists. In World War II, from September 1941 to October 1943, it was occupied by Romanian and German forces. Post-war port modernization included dredging and new cargo terminals. Today, Skadovsk has a population of about 18,000 (2021) and supports fishing, ship repair, and tourism. The nearby Dzharylhats National Park protects a unique island ecosystem.",
+    },
+    factsAdvanced: {
+      de: ["Skadovsk liegt auf einer Höhe von 5 Metern über dem Meeresspiegel.", "Die Stadtfläche beträgt 14,3 km².", "Der Hafen wurde 1894 eröffnet.", "Die durchschnittliche Jahrestemperatur beträgt 10,5 °C.", "Die Bevölkerungszahl von 2021 beträgt 18.000.", "Die Länge der Sandstrände beträgt etwa 3 km."],
+      hu: ["Skadovsk tengerszint feletti magassága 5 méter.", "A város területe 14,3 négyzetkilométer.", "A kikötőt 1894-ben nyitották meg.", "Az éves átlaghőmérséklet 10,5 °C.", "2021-es lakossága 18 000 fő.", "A homokos strand hossza körülbelül 3 km."],
+      ro: ["Skadovsk este la o altitudine de 5 m deasupra nivelului mării.", "Suprafața orașului: 14,3 km².", "Portul a fost deschis în 1894.", "Temperatura medie anuală este de 10,5 °C.", "Populația în 2021: 18.000 de locuitori.", "Lungimea plajelor cu nisip este de aproximativ 3 km."],
+      en: ["Skadovsk is located at 5 m above sea level.", "City area: 14.3 km².", "The port opened in 1894.", "Average annual temperature: 10.5 °C.", "Population (2021): 18,000.", "Length of sandy beaches: approx. 3 km."],
+    },
+  },
+  {
+    id: "ukraine-putyvl-cities-v2",
+    type: "city",
+    parent: "UA",
+    name: { de: "Putywl", hu: "Putyivl", ro: "Putîvl", en: "Putyvl" },
+    coordinates: { lat: 51.3315, lng: 33.8642 },
+    description: {
+      de: "Putywl ist eine der ältesten Städte der Ukraine in der Oblast Sumy. Sie ist berühmt für ihre Rolle im mittelalterlichen Igorlied und ihre Klöster.",
+      hu: "Putyivl Ukrajna egyik legősibb városa a Szumi területen. Híres az Igor-énekben betöltött szerepéről és történelmi kolostorairól.",
+      ro: "Putîvl este unul dintre cele mai vechi orașe din Ucraina, situat în regiunea Sumî. Este faimos pentru rolul său în 'Cântecul oştirii lui Igor' și mănăstirile sale.",
+      en: "Putyvl is one of the oldest cities in Ukraine, located in the Sumy region. It is famous for its role in the medieval 'Lay of Igor's Campaign' and its monasteries.",
+    },
+    facts: {
+      de: ["Erstmals erwähnt 1146", "Liegt am Fluss Seim", "Bedeutendes Moltschansky-Kloster", "Zentrum des Partisanenwiderstands"],
+      hu: ["Első említése 1146-ból", "A Szejm-folyó partján fekszik", "Jelentős Molcsanszkij-kolostor", "A partizánmozgalom központja volt"],
+      ro: ["Menționat pentru prima dată în 1146", "Situat pe râul Seim", "Mănăstirea Molceanski renumită", "Centru al rezistenței partizanilor"],
+      en: ["First mentioned in 1146", "Located on the Seim River", "Famous Molchansky Monastery", "Center of partisan resistance in WWII"],
+    },
+    imageHint: "Molchansky Monastery in Putyvl",
+    descriptionAdvanced: {
+      de: "Putyvl ist eine historische Stadt in der Oblast Sumy im Nordosten der Ukraine. Sie wurde erstmals 1146 in der Hypatiuschronik erwähnt. Die Stadt war im Mittelalter Teil des Fürstentums Tschernigow und später des Großfürstentums Litauen. Bekannt wurde Putyvl durch das Igor-Lied, ein mittelalterliches Epos, das die gescheiterte Kampagne von Fürst Igor Swjatoslawitsch gegen die Kumanen im Jahr 1185 beschreibt. In der Stadt befindet sich das Moltschan-Kloster (16. Jahrhundert). Während des Zweiten Weltkriegs war Putyvl von September 1941 bis September 1943 von deutschen Truppen besetzt. Heute hat die Stadt rund 16.000 Einwohner (2021) und ist ein Zentrum für Maschinenbau und Lebensmittelproduktion. Putyvl ist auch bekannt für seine archäologischen Stätten.",
+      hu: "Putyvl történelmi város a Szumi területen, Északkelet-Ukrajnában. Első írásos említése 1146-ból származik a Hypatius-krónikában. A középkorban a Csernyihivi Fejedelemség, majd a Litván Nagyfejedelemség része volt. Putyvl híres az Igor-énekről, egy középkori eposzról, amely Igor Szvjatoszlavics fejedelem 1185-ös sikertelen kunok elleni hadjáratát írja le. A városban található a Molcsan-kolostor (16. század). A második világháború alatt 1941 szeptemberétől 1943 szeptemberéig német megszállás alatt volt. Ma Putyvl lakossága mintegy 16 000 fő (2021), és gépgyártásáról, élelmiszertermeléséről ismert. A város híres régészeti lelőhelyeiről is.",
+      ro: "Putyvl este un oraș istoric în regiunea Sumî, nord-estul Ucrainei. Este menționat pentru prima dată în 1146 în Cronica lui Hipatie. În Evul Mediu, a făcut parte din Principatul Cernihiv și mai târziu din Marele Ducat al Lituaniei. Putyvl este faimos pentru Cântecul lui Igor, un poem epic medieval care descrie campania eșuată a prințului Igor Sviatoslavici împotriva cumanilor în 1185. Orașul găzduiește Mănăstirea Molchan (sec. XVI). În timpul celui de-al Doilea Război Mondial, Putyvl a fost ocupată de germani din septembrie 1941 până în septembrie 1943. Astăzi, populația este de aproximativ 16.000 (2021) și este un centru de construcții de mașini și producție alimentară. Putyvl este cunoscut și pentru siturile sale arheologice.",
+      en: "Putyvl is a historic city in Sumy Oblast, northeastern Ukraine. First mentioned in 1146 in the Hypatian Codex. In medieval times, it was part of the Principality of Chernihiv and later the Grand Duchy of Lithuania. Putyvl gained fame from The Tale of Igor's Campaign, a 12th-century epic describing Prince Igor's failed raid against the Cumans in 1185. The city features the Molchan Monastery (16th century). During World War II, Putyvl was occupied by German forces from September 1941 to September 1943. Today, the population is about 16,000 (2021). The economy includes machine building and food processing. Putyvl also has significant archaeological sites, including remnants of a medieval fortress.",
+    },
+    factsAdvanced: {
+      de: ["Putyvl wurde 1146 erstmals erwähnt.", "Die Stadtfläche beträgt 11,5 km².", "Die Höhe über dem Meeresspiegel beträgt 178 Meter.", "Im Jahr 2001 hatte Putyvl 17.354 Einwohner.", "Das Moltschan-Kloster wurde 1577 gegründet.", "Die Entfernung zur Oblasthauptstadt Sumy beträgt 80 km."],
+      hu: ["Putyvl első említése 1146-ból való.", "A város területe 11,5 négyzetkilométer.", "Tengerszint feletti magassága 178 méter.", "2001-ben a lakosság 17 354 fő volt.", "A Molcsan-kolostort 1577-ben alapították.", "Távolság Szumitól: 80 km."],
+      ro: ["Putyvl este menționat pentru prima dată în 1146.", "Suprafața orașului: 11,5 km².", "Altitudinea: 178 m deasupra nivelului mării.", "Populația în 2001: 17.354 locuitori.", "Mănăstirea Molchan a fost fondată în 1577.", "Distanța până la Sumî: 80 km."],
+      en: ["Putyvl first mentioned in 1146.", "City area: 11.5 km².", "Elevation: 178 m above sea level.", "Population in 2001: 17,354.", "Molchan Monastery founded in 1577.", "Distance to Sumy: 80 km."],
+    },
+  },
+  {
+    id: "ukraine-iziaslav-cities-v2",
+    type: "city",
+    parent: "UA",
+    name: { de: "Isjaslaw", hu: "Izjaszlav", ro: "Iziaslav", en: "Iziaslav" },
+    coordinates: { lat: 50.1205, lng: 26.8242 },
+    description: {
+      de: "Isjaslaw ist eine historische Stadt am Fluss Horyn in der Oblast Chmelnyzkyj. Sie war der Stammsitz der mächtigen Fürstenfamilien Sanguszko und Saslawski.",
+      hu: "Izjaszlav egy történelmi város a Horiny-folyó partján, a Hmelnickiji területen. A hatalmas Szanguszko és Szaszlavszkij hercegi családok székhelye volt.",
+      ro: "Iziaslav este un oraș istoric situat pe râul Horîn, în regiunea Hmelnîțkîi. A fost reședința puternicelor familii nobiliare Sanguszko și Zaslawski.",
+      en: "Iziaslav is a historical city on the Horyn River in the Khmelnytskyi region. It was the ancestral seat of the powerful Sanguszko and Zaslawski princely families.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1046", "Liegt am Fluss Horyn", "Ruinen des Sanguszko-Palastes", "Bedeutende barocke Kirchen"],
+      hu: ["1046-ban alapították", "A Horiny-folyó partján fekszik", "Szanguszko-palota romjai", "Jelentős barokk templomok"],
+      ro: ["Fondat în anul 1046", "Situat pe râul Horîn", "Ruinele Palatului Sanguszko", "Biserici baroce importante"],
+      en: ["Founded in 1046", "Located on the Horyn River", "Ruins of the Sanguszko Palace", "Significant Baroque churches"],
+    },
+    imageHint: "Ruins of the Sanguszko Palace in Iziaslav",
+    descriptionAdvanced: {
+      de: "Iziaslav ist eine Stadt in der Oblast Chmelnyzkyj im Westen der Ukraine. Sie wurde erstmals 1390 urkundlich erwähnt und war im 15. Jahrhundert Teil des Königreichs Polen. Die Stadt erhielt 1588 das Magdeburger Stadtrecht. Iziaslav war ein wichtiges Handelszentrum an der Handelsstraße von Kiew nach Lemberg. Im 17. Jahrhundert litt die Stadt unter den Khmelnyzkyj-Aufständen und russisch-polnischen Kriegen. 1793 fiel Iziaslav an das Russische Reich. Während des Zweiten Weltkriegs waren hier ab Juli 1941 deutsche Besatzer. Nach dem Krieg wurde die Stadt industrialisiert, insbesondere mit einer Zuckerfabrik und einem Schuhwerk. Heute hat Iziaslav etwa 17.000 Einwohner (2021). Sehenswert sind die barocke St.-Johannes-Kirche (1768) und das Rathaus aus dem 19. Jahrhundert.",
+      hu: "Izjaszláv város a Hmelnickiji területen, Nyugat-Ukrajnában. Első írásos említése 1390-ből származik, a 15. században a Lengyel Királyság része volt. 1588-ban kapott magdeburgi városjogot. Izjaszláv fontos kereskedelmi központ volt a Kijevből Lembergbe vezető úton. A 17. században szenvedett a Hmelnickij-felkelésektől és az orosz-lengyel háborúktól. 1793-ban az Orosz Birodalom része lett. A második világháború alatt 1941 júliusától német megszállás alatt állt. A háború után iparosították, cukorgyárat és cipőgyárat építettek. Ma Izjaszláv lakossága mintegy 17 000 fő (2021). Nevezetességei a barokk Szent János-templom (1768) és a 19. századi városháza.",
+      ro: "Iziaslav este un oraș în regiunea Hmelnițki, vestul Ucrainei. Prima mențiune documentară datează din 1390, iar în secolul al XV-lea a făcut parte din Regatul Poloniei. A primit dreptul magdeburghez în 1588. Iziaslav a fost un important centru comercial pe drumul de la Kiev la Liov. În secolul al XVII-lea a suferit din cauza răscoalelor lui Hmelnițki și a războaielor ruso-polone. În 1793 a trecut la Imperiul Rus. În al Doilea Război Mondial, din iulie 1941, a fost ocupată de germani. După război, orașul a fost industrializat, cu o fabrică de zahăr și una de încălțăminte. Astăzi, Iziaslav are aproximativ 17.000 de locuitori (2021). Atracțiile includ biserica barocă Sf. Ioan (1768) și primăria din secolul al XIX-lea.",
+      en: "Iziaslav is a city in Khmelnytskyi Oblast, western Ukraine. First mentioned in 1390, it was part of the Kingdom of Poland in the 15th century. Granted Magdeburg rights in 1588, it became a trading center on the route from Kyiv to Lviv. The city suffered during the Khmelnytsky Uprising and subsequent Russo-Polish wars. Annexed by the Russian Empire in 1793. During World War II, it was under German occupation from July 1941. Post-war industrialization brought a sugar plant and a shoe factory. The population today is about 17,000 (2021). Notable landmarks: St. John the Baptist Church (Baroque, 1768) and the 19th-century town hall. The city also has remains of a 17th-century fortress.",
+    },
+    factsAdvanced: {
+      de: ["Iziaslav wurde 1390 erstmals erwähnt.", "Die Stadtfläche beträgt 12,3 km².", "Die Höhe über dem Meeresspiegel beträgt 240 Meter.", "Die Einwohnerzahl betrug 2001: 18.444.", "Die St.-Johannes-Kirche wurde 1768 erbaut.", "Iziaslav liegt am Fluss Horyn."],
+      hu: ["Izjaszláv első említése 1390-ből való.", "A város területe 12,3 négyzetkilométer.", "Tengerszint feletti magassága 240 méter.", "2001-ben a lakosság 18 444 fő volt.", "A Szent János-templom 1768-ban épült.", "Izjaszláv a Horyn folyó partján fekszik."],
+      ro: ["Iziaslav menționat în 1390.", "Suprafața orașului: 12,3 km².", "Altitudinea: 240 m deasupra nivelului mării.", "Populația în 2001: 18.444 locuitori.", "Biserica Sf. Ioan construită în 1768.", "Orașul este situat pe râul Horyn."],
+      en: ["Iziaslav first mentioned in 1390.", "City area: 12.3 km².", "Elevation: 240 m above sea level.", "Population in 2001: 18,444.", "St. John's Church built in 1768.", "City lies on the Horyn River."],
+    },
+  },
+  {
+    id: "ukraine-chop-cities-v2",
+    type: "town",
+    parent: "UA",
+    name: { de: "Tschop", hu: "Csap", ro: "Ciop", en: "Chop" },
+    coordinates: { lat: 48.4312, lng: 22.2038 },
+    description: {
+      de: "Tschop ist eine strategisch wichtige Grenzstadt in Transkarpatien am Dreiländereck Ukraine-Ungarn-Slowakei. Sie ist der wichtigste internationale Eisenbahnknotenpunkt des Landes.",
+      hu: "Csap egy stratégiai fontosságú határváros Kárpátalján, az ukrán-magyar-szlovák hármashatárnál. Az ország legfontosabb nemzetközi vasúti csomópontja.",
+      ro: "Ciop este un oraș de frontieră strategic din Transcarpatia, situat la granița triplă dintre Ucraina, Ungaria și Slovacia. Este cel mai important nod feroviar internațional.",
+      en: "Chop is a strategic border town in Zakarpattia at the triple junction of Ukraine, Hungary, and Slovakia. It is the country's most important international railway hub.",
+    },
+    facts: {
+      de: ["Wichtiger Grenzbahnhof", "Liegt am Fluss Latorica", "Einwohnerzahl ca. 9.000", "Bedeutende Zollstation"],
+      hu: ["Fontos határállomás", "A Latorca-folyó partján fekszik", "Lakossága kb. 9 000 fő", "Jelentős vámhivatal"],
+      ro: ["Gara de frontieră majoră", "Situat pe râul Latorița", "Populație de aproximativ 9.000", "Stație vamală importantă"],
+      en: ["Major border railway station", "Located on the Latorica River", "Population approx. 9,000", "Key customs and transit point"],
+    },
+    imageHint: "Chop international railway station",
+    descriptionAdvanced: {
+      de: "Chop ist eine Stadt in der Oblast Transkarpatien im äußersten Westen der Ukraine, direkt an der Grenze zu Ungarn und der Slowakei. Die Siedlung entstand im 13. Jahrhundert als Teil des Königreichs Ungarn. Chop wurde 1882 ein wichtiger Eisenbahnknotenpunkt an der Strecke Budapest–Lemberg. Nach dem Ersten Weltkrieg kam die Stadt zur Tschechoslowakei und wurde 1938 von Ungarn annektiert. 1945 fiel sie an die Sowjetunion und wurde Teil der Ukrainischen SSR. Heute ist Chop ein Grenzübergang mit einer Zollabfertigung. Die Stadt hat rund 8.800 Einwohner (2021). Wirtschaftlich bedeutend sind der grenzüberschreitende Handel, der Verkehr und die Logistik. Chop ist auch für seine gemischte ethnische Bevölkerung bekannt: Ukrainer, Ungarn, Roma und Slowaken.",
+      hu: "Csap város a Kárpátontúli területen, Ukrajna legnyugatibb részén, közvetlenül a magyar és szlovák határ mellett. A település a 13. században keletkezett a Magyar Királyság részeként. Csap 1882-ben vált fontos vasúti csomóponttá a Budapest–Lemberg vonalon. Az első világháború után Csehszlovákiához került, 1938-ban Magyarország annektálta. 1945-ben a Szovjetunióhoz csatolták, és az Ukrán SZSZK része lett. Ma Csap határátkelőhely vámvizsgálattal. A városnak mintegy 8 800 lakosa van (2021). Gazdaságilag jelentős a határon átnyúló kereskedelem, a közlekedés és a logisztika. Csap híres vegyes etnikai összetételéről: ukránok, magyarok, romák és szlovákok.",
+      ro: "Chop este un oraș în regiunea Transcarpatia, extremul vestic al Ucrainei, chiar la granița cu Ungaria și Slovacia. Așezarea a apărut în secolul al XIII-lea ca parte a Regatului Ungariei. Chop a devenit un nod feroviar important în 1882 pe linia Budapesta–Liov. După Primul Război Mondial, orașul a aparținut Cehoslovaciei, iar în 1938 a fost anexat de Ungaria. În 1945 a trecut la Uniunea Sovietică, devenind parte a RSS Ucrainene. Astăzi, Chop este un punct de trecere a frontierei cu vamă. Populația este de aproximativ 8.800 (2021). Din punct de vedere economic, sunt importante comerțul transfrontalier, transportul și logistica. Chop este cunoscut pentru populația sa mixtă: ucraineni, maghiari, romi și slovaci.",
+      en: "Chop is a city in Zakarpattia Oblast, far western Ukraine, located directly on the border with Hungary and Slovakia. Originating in the 13th century within the Kingdom of Hungary, Chop became a major railway junction in 1882 on the Budapest–Lviv line. After World War I, it belonged to Czechoslovakia and was annexed by Hungary in 1938. In 1945, it was ceded to the Soviet Union and incorporated into the Ukrainian SSR. Today, Chop serves as a key border crossing with customs facilities. The population is about 8,800 (2021). The local economy relies on cross-border trade, transportation, and logistics. The city has a diverse ethnic composition, including Ukrainians, Hungarians, Roma, and Slovaks.",
+    },
+    factsAdvanced: {
+      de: ["Chop liegt auf einer Höhe von 106 Metern über dem Meeresspiegel.", "Die Fläche der Stadt beträgt 6,3 km².", "Der Bahnhof wurde 1882 erbaut.", "Die Bevölkerung betrug 2001: 8.919.", "Die Grenzübergänge zu Ungarn und zur Slowakei befinden sich in der Stadt.", "Chop hat eine ungarische Minderheit von etwa 30%."],
+      hu: ["Csap tengerszint feletti magassága 106 méter.", "A város területe 6,3 négyzetkilométer.", "A vasútállomást 1882-ben építették.", "2001-ben a lakosság 8 919 fő volt.", "A városban magyar és szlovák határátkelő található.", "A lakosság körülbelül 30%-a magyar nemzetiségű."],
+      ro: ["Chop este la altitudinea de 106 m deasupra nivelului mării.", "Suprafața orașului: 6,3 km².", "Gara a fost construită în 1882.", "Populația în 2001: 8.919 locuitori.", "Orașul are puncte de trecere a frontierei cu Ungaria și Slovacia.", "Aproximativ 30% din populație este maghiară."],
+      en: ["Chop lies at 106 m above sea level.", "City area: 6.3 km².", "Train station built in 1882.", "Population in 2001: 8,919.", "Has border crossings to Hungary and Slovakia.", "About 30% of the population is Hungarian."],
+    },
+  },
+  {
+    id: "ukraine-ochakiv-cities-v2",
+    type: "port",
+    parent: "UA",
+    name: { de: "Otschakiw", hu: "Ocsakiv", ro: "Oceakov", en: "Ochakiv" },
+    coordinates: { lat: 46.6138, lng: 31.5412 },
+    description: {
+      de: "Otschakiw ist eine historische Hafenstadt und ein Marinestützpunkt an der Mündung des Dnepr-Bug-Limans in das Schwarze Meer. Sie hat eine strategisch bedeutende militärische Geschichte.",
+      hu: "Ocsakiv egy történelmi kikötőváros és tengerészeti bázis a Dnyeper-Bug tölcsértorkolatánál, a Fekete-tenger partján. Stratégiailag jelentős katonai múlttal rendelkezik.",
+      ro: "Oceakov este un oraș port istoric și bază navală situată la vărsarea estuarului Nipru-Bug în Marea Neagră. Are o istorie militară de importanță strategică.",
+      en: "Ochakiv is a historical port city and naval base at the mouth of the Dnieper-Bug Estuary on the Black Sea. It has a strategically significant military history.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1492", "Wichtiger Marinestützpunkt", "Ehemalige osmanische Festung", "Liegt am Schwarzen Meer"],
+      hu: ["1492-ben alapították", "Fontos tengerészeti bázis", "Egykori oszmán erődítmény", "A Fekete-tenger partján fekszik"],
+      ro: ["Fondat în anul 1492", "Bază navală importantă", "Fostă cetate otomană", "Situat la Marea Neagră"],
+      en: ["Founded in 1492", "Important naval base", "Former Ottoman fortress", "Located on the Black Sea coast"],
+    },
+    imageHint: "Ochakiv harbor and lighthouse on the Black Sea",
+    descriptionAdvanced: {
+      de: "Ochakiv ist eine Stadt in der Oblast Mykolajiw im Süden der Ukraine, strategisch gelegen an der Mündung des Dnipro-Bug-Limans ins Schwarze Meer. Die Stadt wurde 1492 als türkische Festung Özi gegründet. Sie war ein wichtiger Stützpunkt des Osmanischen Reiches an der nördlichen Schwarzmeerküste. Im 18. Jahrhundert war Ochakiv Schauplatz mehrerer russisch-türkischer Kriege. 1788 eroberte die russische Armee die Festung im Sturm. Danach wurde die Stadt ausgebaut und erhielt 1792 den Status einer Stadt. Im 19. Jahrhundert war Ochakiv ein bedeutender Hafen für Getreideexport. Während des Zweiten Weltkriegs war die Stadt von August 1941 bis März 1944 von rumänischen Truppen besetzt. Heute hat Ochakiv etwa 14.000 Einwohner (2021) und ist ein Fischerei- und Erholungsort. Das Historische Museum Ochakiv zeigt die osmanische Vergangenheit.",
+      hu: "Ocsakiv város a Mikolajivi területen, Dél-Ukrajnában, stratégiai helyen a Dnyeper-Bug torkolati tó és a Fekete-tenger találkozásánál. A várost 1492-ben alapították Özi néven török erődként. Fontos oszmán támaszpont volt a Fekete-tenger északi partján. A 18. században több orosz–török háború színhelye volt. 1788-ban az orosz hadsereg rohammal foglalta el az erődöt. Ezt követően a várost fejlesztették, 1792-ben kapott városi rangot. A 19. században Ocsakiv jelentős gabonaexport kikötő volt. A második világháború alatt 1941 augusztusától 1944 márciusáig román csapatok szállták meg. Ma Ocsakiv lakossága mintegy 14 000 fő (2021), és halászatáról, üdülésről ismert. Az Ocsakivi Történeti Múzeum bemutatja az oszmán múltat.",
+      ro: "Ochakiv este un oraș în regiunea Mîkolaiv, sudul Ucrainei, situat strategic la gura limanului Nipru-Bug, la Marea Neagră. Orașul a fost fondat în 1492 ca fortăreață turcească numită Özi. A fost o bază importantă a Imperiului Otoman pe coasta de nord a Mării Negre. În secolul al XVIII-lea, a fost scena mai multor războaie ruso-turce. În 1788, armata rusă a cucerit fortăreața prin asalt. Apoi orașul a fost dezvoltat, primind statutul de oraș în 1792. În secolul al XIX-lea, Ochakiv a fost un port important pentru exportul de cereale. În al Doilea Război Mondial, din august 1941 până în martie 1944, a fost ocupată de trupele române. Astăzi, Ochakiv are aproximativ 14.000 de locuitori (2021) și este un centru de pescuit și odihnă. Muzeul Istoric Ochakiv prezintă trecutul otoman.",
+      en: "Ochakiv is a city in Mykolaiv Oblast, southern Ukraine, strategically located at the mouth of the Dnieper-Bug Estuary on the Black Sea. Founded in 1492 as the Turkish fortress Özi, it was a key Ottoman stronghold on the northern Black Sea coast. During the 18th century, Ochakiv was the site of several Russo-Turkish wars. In 1788, the Russian army captured the fortress by storm. Subsequently, the city was developed, receiving city status in 1792. In the 19th century, Ochakiv became a major grain export port. During World War II, from August 1941 to March 1944, it was occupied by Romanian forces. Today, the population is about 14,000 (2021). The economy relies on fishing, ship repair, and tourism. The Ochakiv Historical Museum exhibits artifacts from the Ottoman period.",
+    },
+    factsAdvanced: {
+      de: ["Ochakiv liegt auf einer Höhe von 3 Metern über dem Meeresspiegel.", "Die Stadt wurde 1492 gegründet.", "Die Fläche beträgt 12,2 km².", "Die Bevölkerungsdichte beträgt etwa 1.148 Einwohner pro km².", "Die durchschnittliche Wassertemperatur im Meer beträgt im Sommer 22 °C.", "Die Festung Ochakiv wurde 1788 von russischen Truppen erobert."],
+      hu: ["Ocsakiv tengerszint feletti magassága 3 méter.", "A várost 1492-ben alapították.", "Területe 12,2 négyzetkilométer.", "A népsűrűség kb. 1 148 fő négyzetkilométerenként.", "A tenger nyári átlaghőmérséklete 22 °C.", "Az Ocsakivi erődöt 1788-ban foglalták el az oroszok."],
+      ro: ["Ochakiv este la altitudinea de 3 m deasupra nivelului mării.", "Orașul a fost fondat în 1492.", "Suprafața: 12,2 km².", "Densitatea populației: aproximativ 1.148 locuitori/km².", "Temperatura medie a apei mării vara: 22 °C.", "Fortăreața Ochakiv a fost capturată de ruși în 1788."],
+      en: ["Ochakiv lies at 3 m above sea level.", "City founded in 1492.", "Area: 12.2 km².", "Population density: approx. 1,148 per km².", "Average sea temperature in summer: 22 °C.", "Ochakiv fortress captured by Russians in 1788."],
+    },
   }
 ];

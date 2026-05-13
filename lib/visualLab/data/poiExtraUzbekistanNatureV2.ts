@@ -6,84 +6,143 @@ export const poiExtraUzbekistanNatureV2: POI[] = [
     type: "lake",
     parent: "UZ-QR",
     coords: [59.6133, 44.8888],
-    name: { de: "Aralsee", hu: "Aral-tó", ro: "Marea Aral", en: "Aral Sea",
-image: "/poi-images/aral-sea-nature-v2.webp"
-},
+    name: { de: "Aralsee", hu: "Aral-tó", ro: "Marea Aral", en: "Aral Sea"},
+    image: "/poi-images/aral-sea-nature-v2.webp",
     description: { de: "Einst einer der größten Seen der Welt, der aufgrund von Bewässerungsprojekten stark ausgetrocknet ist.", hu: "Egykor a világ egyik legnagyobb tava, amely az öntözési projektek miatt súlyosan kiszáradt.", ro: "Cândva unul dintre cele mai mari lacuri din lume, care s-a micșorat drastic din cauza proiectelor de irigații.", en: "Once one of the largest lakes in the world, which has drastically shrunk due to irrigation projects." },
     facts: {
       de: ["Galt früher als der viertgrößte Binnensee der Erde.", "Sein Austrocknen ist eine der größten Umweltkatastrophen."],
       hu: ["Korábban a Föld negyedik legnagyobb beltengereként tartották számon.", "Kiszáradása az egyik legnagyobb környezeti katasztrófa."],
       ro: ["A fost considerat anterior al patrulea cel mai mare lac interior de pe Pământ.", "Secarea sa este una dintre cele mai mari catastrofe ecologice."],
       en: ["Formerly considered the fourth largest inland lake on Earth.", "Its drying up is one of the greatest environmental disasters."]
-    }, image: "/poi-images/aral-sea-nature-v2.webp"},
+    }, image: "/poi-images/aral-sea-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aralsee war einst der viertgrößte See der Welt, hat aber aufgrund von Bewässerungsprojekten seit den 1960er Jahren dramatisch an Größe verloren. Heute ist er in den nördlichen und südlichen Aralsee geteilt. Der See ist ein Beispiel für eine Umweltkatastrophe. Die verbleibende Wasserfläche beträgt weniger als 10% der ursprünglichen Größe. Das Gebiet ist von Salz- und Staubstürmen betroffen.",
+      hu: "Az Aral-tó egykor a világ negyedik legnagyobb tava volt, de a 20. század második felében a vízszint drámaian csökkent. A tó két részre szakadt: Északi- és Déli-Aral. A víz sótartalma extrém magas. A kiszáradás következtében sóviharok keletkeztek. A tó jelenlegi területe kevesebb mint 10%-a az eredetinek.",
+      ro: "Marea Aral a fost cel de-al patrulea lac ca mărime din lume, dar suprafața sa s-a redus cu peste 90% din cauza proiectelor de irigații. Acum este împărțit în Aralul de Nord și cel de Sud. Salinitatea apei este foarte ridicată. Zona este afectată de furtuni de praf care transportă sare. Eforturile de refacere sunt în desfășurare.",
+      en: "The Aral Sea, once the world's fourth-largest lake, has shrunk to less than 10% of its original surface area due to irrigation diversion since the 1960s. It is now split into the North Aral Sea (Kazakhstan) and South Aral Sea (Uzbekistan). The disaster caused desertification, dust storms, and loss of biodiversity. Restoration projects, such as the Kokaral Dam, have partially revived the northern part.",
+    },
+    factsAdvanced: {
+      de: ["Ursprüngliche Fläche: 68.000 km².", "Aktuelle Fläche (2023): ca. 8.000 km².", "Der Wasserspiegel fiel um über 20 Meter.", "Die Salinität stieg auf über 100 g/l.", "Die Fischerei brach von 40.000 Tonnen auf nahezu Null zusammen.", "Der Kokaral-Damm wurde 2005 fertiggestellt."],
+      hu: ["Eredeti terület: 68 000 km².", "Jelenlegi terület: 8 000 km².", "Vízzintcsökkenés: 20 méter felett.", "Sótartalom: 100 g/l fölött.", "Halászat: 0 tonnára csökkent.", "Kokaral-gát: 2005-ben készült el."],
+      ro: ["Suprafața inițială: 68.000 km².", "Suprafața actuală: 8.000 km².", "Scăderea nivelului apei: peste 20 m.", "Salinitate: peste 100 g/l.", "Pescuitul a scăzut de la 40.000 de tone la aproape zero.", "Barajul Kokaral a fost finalizat în 2005."],
+      en: ["Original area: 68,000 km².", "Current area (2023): approx. 8,000 km².", "Water level dropped by over 20 meters.", "Salinity exceeds 100 g/l.", "Fishery collapsed from 40,000 tons to near zero.", "Kokaral Dam completed in 2005."],
+    },
+  },
   {
     id: "aydar-lake-nature-v2",
     type: "lake",
     parent: "UZ-JI",
     coords: [66.5218, 40.8354],
-    name: { de: "Aydarsee", hu: "Aydar-tó", ro: "Lacul Aydar", en: "Aydar Lake",
-image: "/poi-images/aydar-lake-nature-v2.webp"
-},
+    name: { de: "Aydarsee", hu: "Aydar-tó", ro: "Lacul Aydar", en: "Aydar Lake"},
+    image: "/poi-images/aydar-lake-nature-v2.webp",
     description: { de: "Ein künstlicher See in der Kysylkum-Wüste, der durch die Umleitung von Flutwasser entstand.", hu: "Mesterséges tó a Kizil-kum sivatagban, amely az árvizek elterelésével jött létre.", ro: "Un lac artificial în deșertul Kyzylkum, creat prin devierea apelor de inundație.", en: "An artificial lake in the Kyzylkum Desert, created by the diversion of floodwaters." },
     facts: {
       de: ["Bildet zusammen mit anderen Seen das Arnasay-Seensystem.", "Ein wichtiges Gebiet für Zugvögel und Fischfang."],
       hu: ["Más tavakkal együtt alkotja az Arnasay-tórendszert.", "Fontos terület a vándormadarak és a halászat számára."],
       ro: ["Împreună cu alte lacuri formează sistemul de lacuri Arnasay.", "O zonă importantă pentru păsările migratoare și pescuit."],
       en: ["Together with other lakes it forms the Arnasay lake system.", "An important area for migratory birds and fishing."]
-    }, image: "/poi-images/aydar-lake-nature-v2.webp"},
+    }, image: "/poi-images/aydar-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Aydarsee ist ein großer künstlicher See in der Wüste Kysylkum, der in den 1960er Jahren durch die Ableitung des Syrdarya entstand. Er erstreckt sich über etwa 3.000 km² und ist bis zu 15 Meter tief. Der See hat eine hohe Salinität. Er beherbergt zahlreiche Fischarten und ist ein wichtiges Vogelgebiet. Der See wird für die Fischerei und den Tourismus genutzt.",
+      hu: "A Ajdar-tó egy mesterséges tó a Kizilkum-sivatagban, amely a Szir-darja vizének elterelésével jött létre az 1960-as években. Területe körülbelül 3 000 km², legnagyobb mélysége 15 m. Sótartalma magas. Halfajokban gazdag, és számos madárfajnak ad otthont. Halászatra és turizmusra használják.",
+      ro: "Lacul Aydar este un lac artificial din deșertul Kyzylkum, format în anii 1960 prin devierea râului Syr Darya. Se întinde pe aproximativ 3.000 km² și are o adâncime maximă de 15 m. Salinitatea este ridicată. Găzduiește multe specii de pești și păsări. Este utilizat pentru pescuit și turism.",
+      en: "Lake Aydar is a large artificial lake in the Kyzylkum Desert, created in the 1960s from Syr Darya overflow. Covering about 3,000 km², it has a maximum depth of 15 m. Salinity is high but supports fish species like bream and pike. The lake is a key stopover for migratory birds, including flamingos. It supports local fisheries and has become a tourist destination for camping and birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 3.000 km².", "Maximale Tiefe: 15 Meter.", "Salinität: 5-8 g/l.", "Wichtige Fischarten: Brasse, Hecht, Karpfen.", "Jährlicher Fischfang: ca. 5.000 Tonnen.", "Touristenankünfte: 20.000 pro Jahr."],
+      hu: ["Terület: 3 000 km².", "Maximális mélység: 15 m.", "Sótartalom: 5-8 g/l.", "Halfajok: keszeg, csuka, ponty.", "Éves halfogás: 5 000 tonna.", "Évente 20 000 turista látogatja."],
+      ro: ["Suprafață: 3.000 km².", "Adâncime maximă: 15 m.", "Salinitate: 5-8 g/l.", "Pești: plătică, știucă, crap.", "Captură anuală de pește: 5.000 tone.", "20.000 de turiști pe an."],
+      en: ["Area: 3,000 km².", "Maximum depth: 15 m.", "Salinity: 5-8 g/l.", "Fish species: bream, pike, carp.", "Annual fish catch: 5,000 tons.", "Annual tourists: 20,000."],
+    },
+  },
   {
     id: "charvak-reservoir-nature-v2",
     type: "lake",
     parent: "UZ-TO",
     coords: [70.0401, 41.6210],
-    name: { de: "Tscharwak-Stausee", hu: "Csarvak-víztározó", ro: "Lacul de acumulare Charvak", en: "Charvak Reservoir",
-image: "/poi-images/charvak-reservoir-nature-v2.webp"
-},
+    name: { de: "Tscharwak-Stausee", hu: "Csarvak-víztározó", ro: "Lacul de acumulare Charvak", en: "Charvak Reservoir"},
+    image: "/poi-images/charvak-reservoir-nature-v2.webp",
     description: { de: "Ein beliebtes Erholungsgebiet nahe Taschkent, das durch den Tscharwak-Staudamm am Tschatkal-Fluss gebildet wird.", hu: "Népszerű üdülőövezet Taskent közelében, amelyet a Csatkal-folyón lévő gát hozott létre.", ro: "O zonă de agrement populară lângă Tașkent, formată de barajul Charvak pe râul Chatkal.", en: "A popular recreation area near Tashkent, formed by the Charvak Dam on the Chatkal River." },
     facts: {
       de: ["Wurde 1970 nach dem Bau des Staudamms gefüllt.", "Bietet Strände und Wassersportmöglichkeiten für Touristen."],
       hu: ["1970-ben töltötték fel a gát megépítése után.", "Strandokat és vízi sportolási lehetőségeket kínál a turistáknak."],
       ro: ["A fost umplut în 1970 după construcția barajului.", "Oferă plaje și sporturi nautice pentru turiști."],
       en: ["Was filled in 1970 after the construction of the dam.", "Offers beaches and water sports for tourists."]
-    }, image: "/poi-images/charvak-reservoir-nature-v2.webp"},
+    }, image: "/poi-images/charvak-reservoir-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Stausee Charvak liegt im Tian-Shan-Gebirge, etwa 80 km nordöstlich von Taschkent. Er wurde 1970 durch die Talsperre am Chirchiq-Fluss geschaffen. Der See ist ein beliebtes Erholungsgebiet mit einer Fläche von 40 km² und einer Tiefe von bis zu 100 Metern. Umgeben von Bergen, bietet er Möglichkeiten zum Schwimmen und Bootfahren.",
+      hu: "A Cservatk-víztározó a Tien-san hegységben található, Taskentől 80 km-re északkeletre. 1970-ben épült a Chirchiq folyón. Területe 40 km², legnagyobb mélysége 100 m. A környező hegyek festői hátteret biztosítanak. Népszerű a horgászat és a vízi sportok kedvelői körében.",
+      ro: "Rezervorul Charvak este situat în Munții Tian Shan, la 80 km nord-est de Tașkent. A fost creat în 1970 prin bararea râului Chirchiq. Are o suprafață de 40 km² și o adâncime maximă de 100 m. Este o destinație populară pentru agrement, cu plaje și facilități nautice.",
+      en: "Charvak Reservoir, located in the Tian Shan mountains 80 km from Tashkent, was created in 1970 by damming the Chirchiq River. It covers 40 km² with a maximum depth of 100 m. The reservoir is surrounded by scenic mountains and offers recreational activities like swimming, boating, and fishing. It also supplies hydroelectric power and irrigation water.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr: 1970.", "Fläche: 40 km².", "Maximale Tiefe: 100 Meter.", "Länge der Staumauer: 250 Meter.", "Wasserkapazität: 2,5 Milliarden m³.", "Wassertemperatur im Sommer: bis 25°C."],
+      hu: ["1970-ben épült.", "Terület: 40 km².", "Maximális mélység: 100 m.", "A gát hossza: 250 m.", "Vízkapacitás: 2,5 milliárd m³.", "Nyári vízhőmérséklet: 25°C-ig."],
+      ro: ["Construit în 1970.", "Suprafață: 40 km².", "Adâncime maximă: 100 m.", "Lungimea barajului: 250 m.", "Capacitate: 2,5 miliarde m³.", "Temperatura apei vara: până la 25°C."],
+      en: ["Constructed in 1970.", "Area: 40 km².", "Maximum depth: 100 m.", "Dam length: 250 m.", "Capacity: 2.5 billion m³.", "Summer water temperature: up to 25°C."],
+    },
+  },
   {
     id: "sarykamysh-lake-nature-v2",
     type: "lake",
     parent: "UZ-QR",
     coords: [57.4815, 41.9794],
-    name: { de: "Sarykamyschsee", hu: "Szarikamis-tó", ro: "Lacul Sarykamysh", en: "Sarykamysh Lake",
-image: "/poi-images/sarykamysh-lake-nature-v2.webp"
-},
+    name: { de: "Sarykamyschsee", hu: "Szarikamis-tó", ro: "Lacul Sarykamysh", en: "Sarykamysh Lake"},
+    image: "/poi-images/sarykamysh-lake-nature-v2.webp",
     description: { de: "Ein salziger See an der Grenze zu Turkmenistan, der hauptsächlich durch abfließendes Bewässerungswasser gespeist wird.", hu: "Sós tó Türkmenisztán határán, amelyet főként a lefolyó öntözővizek táplálnak.", ro: "Un lac sărat la granița cu Turkmenistan, alimentat în principal de apele de irigație reziduale.", en: "A salty lake on the border with Turkmenistan, fed mainly by agricultural runoff." },
     facts: {
       de: ["Sein Name bedeutet auf Turksprachen 'Gelbes Schilf'.", "Ist nach dem Schrumpfen des Aralsees stark gewachsen."],
       hu: ["Neve a türk nyelveken 'sárga nádat' jelent.", "Az Aral-tó zsugorodása után jelentősen megnőtt a mérete."],
       ro: ["Numele său înseamnă 'stuf galben' în limbile turcice.", "A crescut semnificativ după micșorarea Mării Aral."],
       en: ["Its name means 'yellow reed' in Turkic languages.", "Has grown significantly after the shrinking of the Aral Sea."]
-    }, image: "/poi-images/sarykamysh-lake-nature-v2.webp"},
+    }, image: "/poi-images/sarykamysh-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sarykamyschsee liegt im Nordwesten Usbekistans und erstreckt sich teilweise nach Turkmenistan. Es ist ein abflussloser Salzsee, der durch Drainagewasser aus der Landwirtschaft gespeist wird. Seine Fläche variiert stark, beträgt aber etwa 5.000 km². Der See ist flach, mit einer maximalen Tiefe von 5 Metern. Er ist ein wichtiges Vogelschutzgebiet.",
+      hu: "A Szarikamisz-tó Üzbegisztán északnyugati részén található, Turkisztánba is átnyúlik. Levezetés nélküli sós tó, amelyet mezőgazdasági lefolyás táplál. Területe nagyjából 5 000 km², de változó. Átlagos mélysége 3 m. Madárrezervátumként szolgál.",
+      ro: "Lacul Sarykamysh este situat în nord-vestul Uzbekistanului, extinzându-se și în Turkmenistan. Este un lac salin endoreic, alimentat de apele de drenaj agricol. Suprafața sa este de aproximativ 5.000 km², dar variază. Este foarte puțin adânc, cu o adâncime maximă de 5 m. Este un sanctuar important pentru păsări.",
+      en: "Lake Sarykamysh is a saline endorheic lake in northwestern Uzbekistan, with a portion extending into Turkmenistan. It is fed by agricultural drainage water and has a highly variable surface area, typically around 5,000 km². The lake is shallow, averaging 3 m depth with a maximum of 5 m. It hosts significant bird populations, especially waterfowl, and is used for fishing.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: ca. 5.000 km² (variabel).", "Maximale Tiefe: 5 Meter.", "Salinität: 10-20 g/l.", "Die Uferlänge beträgt etwa 1.000 km.", "Es gibt mehr als 100 Vogelarten.", "Der See wird hauptsächlich aus landwirtschaftlichen Abflüssen gespeist."],
+      hu: ["Terület: kb. 5 000 km² (változó).", "Maximális mélység: 5 m.", "Sótartalom: 10-20 g/l.", "Partvonal hossza: 1 000 km.", "Több mint 100 madárfaj található.", "Tápláló forrás: mezőgazdasági lefolyás."],
+      ro: ["Suprafață: aprox. 5.000 km² (variabil).", "Adâncime maximă: 5 m.", "Salinitate: 10-20 g/l.", "Lungimea țărmului: 1.000 km.", "Peste 100 de specii de păsări.", "Alimentat de apele de drenaj agricol."],
+      en: ["Area: approx. 5,000 km² (variable).", "Maximum depth: 5 m.", "Salinity: 10-20 g/l.", "Shoreline length: about 1,000 km.", "Over 100 bird species documented.", "Water source: agricultural drainage."],
+    },
+  },
   {
     id: "tudakul-lake-nature-v2",
     type: "lake",
     parent: "UZ-NW",
     coords: [64.8322, 39.8147],
-    name: { de: "Tudakulsee", hu: "Tudakul-tó", ro: "Lacul Tudakul", en: "Lake Tudakul",
-image: "/poi-images/tudakul-lake-nature-v2.webp"
-},
+    name: { de: "Tudakulsee", hu: "Tudakul-tó", ro: "Lacul Tudakul", en: "Lake Tudakul"},
+    image: "/poi-images/tudakul-lake-nature-v2.webp",
     description: { de: "Ein Oasensee in der Wüste nahe Buchara, der für seine reiche Vogelwelt und als Erholungsort bekannt ist.", hu: "Oázistó a sivatagban Buhara közelében, amely gazdag madárvilágáról és üdülőhelyként ismert.", ro: "Un lac oază în deșert lângă Buhara, cunoscut pentru viața sa bogată a păsărilor și ca stațiune.", en: "An oasis lake in the desert near Bukhara, known for its rich birdlife and as a resort." },
     facts: {
       de: ["Das Wasser des Sees ist leicht salzig.", "Dient als wichtiger Rastplatz für Zugvögel auf ihrer Route."],
       hu: ["A tó vize enyhén sós.", "Fontos pihenőhely a vándorló madarak számára."],
       ro: ["Apa lacului este ușor sărată.", "Servește ca loc important de odihnă pentru păsările migratoare."],
       en: ["The water of the lake is slightly salty.", "Serves as an important resting place for migratory birds."]
-    }, image: "/poi-images/tudakul-lake-nature-v2.webp"},
+    }, image: "/poi-images/tudakul-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tudakulsee ist ein künstlicher See in der Region Navoi, Usbekistan, der in den 1970er Jahren als Wasserreservoir für die Landwirtschaft angelegt wurde. Er erstreckt sich über etwa 100 km² und ist bis zu 10 Meter tief. Der See ist salzhaltig und beherbergt Fischarten wie Karpfen und Wels. Er ist ein beliebter Ort zum Angeln und für Vogelbeobachtungen.",
+      hu: "A Tudakul-tó egy mesterséges tó Navoi régióban, amelyet az 1970-es években hoztak létre öntözési célból. Területe kb. 100 km², mélysége 10 m. Sós vizű, halfajokban gazdag. Jó horgászhely. Madármegfigyelésre is alkalmas.",
+      ro: "Lacul Tudakul este un lac artificial din regiunea Navoi, creat în anii 1970 pentru irigații. Suprafața sa este de aproximativ 100 km², cu o adâncime maximă de 10 m. Este un lac salin, populat cu crap și somn. Este o destinație populară pentru pescuit și observarea păsărilor.",
+      en: "Lake Tudakul is an artificial lake in Navoi region, Uzbekistan, built in the 1970s for irrigation. It covers around 100 km² and reaches depths of 10 m. The lake's salinity supports fish such as carp and catfish. It is a popular recreational spot for fishing and birdwatching. Surrounding areas feature desert landscapes and small settlements.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 100 km².", "Maximale Tiefe: 10 Meter.", "Erbaut in den 1970er Jahren.", "Salinität: 3-5 g/l.", "Jährlicher Fischfang: etwa 2.000 Tonnen.", "Vogelarten: über 50."],
+      hu: ["Terület: 100 km².", "Maximális mélység: 10 m.", "Az 1970-es években épült.", "Sótartalom: 3-5 g/l.", "Éves halfogás: 2 000 tonna.", "Madárfajok: 50 fölött."],
+      ro: ["Suprafață: 100 km².", "Adâncime maximă: 10 m.", "Construit în anii 1970.", "Salinitate: 3-5 g/l.", "Captură anuală de pește: 2.000 tone.", "Specii de păsări: peste 50."],
+      en: ["Area: 100 km².", "Maximum depth: 10 m.", "Built in the 1970s.", "Salinity: 3-5 g/l.", "Annual fish catch: 2,000 tons.", "Bird species: over 50."],
+    },
+  },
   {
     id: "amu-darya-nature-v2",
     type: "river",
     parent: "UZ-QR",
     coords: [60.1037, 42.0673],
-    name: { de: "Amudarja", hu: "Amu-darja", ro: "Amu Daria", en: "Amu Darya",
-image: "/poi-images/amu-darya-nature-v2.webp"
-},
+    name: { de: "Amudarja", hu: "Amu-darja", ro: "Amu Daria", en: "Amu Darya"},
+    image: "/poi-images/amu-darya-nature-v2.webp",
     description: { de: "Der wasserreichste Fluss Zentralasiens, der historisch als Oxus bekannt war und einst in den Aralsee mündete.", hu: "Közép-Ázsia legbővizűbb folyója, amely történelmileg Oxus néven volt ismert, és egykor az Aral-tóba ömlött.", ro: "Cel mai voluminos râu din Asia Centrală, cunoscut istoric sub numele de Oxus, care curgea cândva în Marea Aral.", en: "The most voluminous river in Central Asia, historically known as the Oxus, which once flowed into the Aral Sea." },
     facts: {
       de: ["Bildet einen großen Teil der Grenze zu Afghanistan.", "Sein Wasser wird intensiv für den Baumwollanbau genutzt."],
@@ -96,9 +155,8 @@ image: "/poi-images/amu-darya-nature-v2.webp"
     type: "river",
     parent: "UZ-SI",
     coords: [68.6672, 40.8521],
-    name: { de: "Syrdarja", hu: "Szir-darja", ro: "Sîr Daria", en: "Syr Darya",
-image: "/poi-images/syr-darya-nature-v2.webp"
-},
+    name: { de: "Syrdarja", hu: "Szir-darja", ro: "Sîr Daria", en: "Syr Darya"},
+    image: "/poi-images/syr-darya-nature-v2.webp",
     description: { de: "Einer der längsten Flüsse Zentralasiens, der das Ferghanatal durchquert und wichtige landwirtschaftliche Regionen bewässert.", hu: "Közép-Ázsia egyik leghosszabb folyója, amely átszeli a Fergana-völgyet és fontos mezőgazdasági régiókat öntöz.", ro: "Unul dintre cele mai lungi râuri din Asia Centrală, care traversează Valea Fergana și irigă regiuni agricole importante.", en: "One of the longest rivers in Central Asia, crossing the Fergana Valley and irrigating important agricultural regions." },
     facts: {
       de: ["War in der Antike unter dem Namen Jaxartes bekannt.", "Staut sich im Norden in mehreren großen Reservoirs."],
@@ -111,196 +169,350 @@ image: "/poi-images/syr-darya-nature-v2.webp"
     type: "river",
     parent: "UZ-SA",
     coords: [65.0441, 39.8510],
-    name: { de: "Sarafschon", hu: "Zarafson-folyó", ro: "Râul Zarafșan", en: "Zarafshan River",
-image: "/poi-images/zarafshan-river-nature-v2.webp"
-},
+    name: { de: "Sarafschon", hu: "Zarafson-folyó", ro: "Râul Zarafșan", en: "Zarafshan River"},
+    image: "/poi-images/zarafshan-river-nature-v2.webp",
     description: { de: "Ein bedeutender Fluss, der durch Samarkand und Buchara fließt und das Lebenselixier dieser historischen Oasenstädte ist.", hu: "Jelentős folyó, amely Szamarkandot és Buharát szeli át, és e történelmi oázisvárosok éltető eleme.", ro: "Un râu important care curge prin Samarkand și Buhara, fiind sursa de viață a acestor orașe-oază istorice.", en: "An important river that flows through Samarkand and Bukhara, acting as the lifeblood of these historic oasis cities." },
     facts: {
       de: ["Der Name bedeutet auf Persisch 'Goldstreuer'.", "Erreicht den Amudarja nicht mehr, da er in der Wüste versickert."],
       hu: ["Neve perzsául 'aranyhintőt' jelent.", "Már nem éri el az Amu-darját, mert a sivatagban elszivárog."],
       ro: ["Numele înseamnă 'răspânditor de aur' în persană.", "Nu mai ajunge în Amu Daria, deoarece seacă în deșert."],
       en: ["The name means 'gold-spreader' in Persian.", "No longer reaches the Amu Darya as it soaks into the desert."]
-    }, image: "/poi-images/zarafshan-river-nature-v2.webp"},
+    }, image: "/poi-images/zarafshan-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sarafschan fließt über 877 km durch Tadschikistan, Usbekistan und Turkmenistan. Er entspringt im Pamir-Gebirge und versorgt die Oasen von Samarkand und Buchara mit Wasser. Der Fluss ist stark durch Bewässerung reguliert; sein Wasser wird für den Baumwollanbau genutzt. In den letzten Jahrzehnten ist die Wasserführung um etwa 40 % zurückgegangen. Der Unterlauf trocknet oft aus, bevor er den Amudarja erreicht. Das Einzugsgebiet beträgt rund 177.000 km².",
+      hu: "A Zeravsan-folyó Közép-Ázsia egyik legjelentősebb folyója, mely 877 km hosszan szeli át Üzbegisztánt. A folyó a Pamír hegységből ered, és történelmi jelentősége óriási volt a Selyemút mentén. Vizéből táplálkoznak Szamarkand és Buhara oázisai. A folyó vízhozama az intenzív öntözés miatt az utóbbi 50 évben 30%-kal csökkent. A Zeravsan-völgyben található a világ egyik legrégebbi öntözőrendszere, amely még a 8. századból származik.",
+      ro: "Râul Zeravshan (Zarafșan) are 877 km lungime și traversează Tadjikistan, Uzbekistan și Turkmenistan. Izvorăște din Munții Pamir, iar debitul său mediu este de 162 m³/s. Apele sale sunt esențiale pentru irigațiile din oazele Samarkand și Bukhara. Din cauza consumului excesiv, râul nu mai ajunge în Amudarya în mod constant. Bazinul hidrografic acoperă 177.000 km². În trecut, Zeravshan era un afluent major al Amudariei, dar astăzi se pierde în deșert.",
+      en: "The Zarafshan River extends 877 km across Tajikistan, Uzbekistan, and Turkmenistan, originating in the Pamir Mountains. It historically supplied water to the ancient cities of Samarkand and Bukhara. With a basin area of 177,000 km², the river is heavily diverted for cotton irrigation, reducing its flow by nearly 40% over the past 50 years. The river usually dries up before reaching the Amu Darya. The name 'Zarafshan' means 'gold spreader' in Persian, reflecting its fertile sediments.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 877 km", "Einzugsgebiet: 177.000 km²", "Wasserführung Rückgang: rund 40 % seit 1960", "Höchste Quelle: 2.800 m über dem Meeresspiegel", "Mittlere Abflussmenge: 162 m³/s", "Anzahl der Staudämme: über 30"],
+      hu: ["Hossz: 877 km", "Vízgyűjtő terület: 177.000 km²", "Átlagos vízhozam: 162 m³/s", "Vízhozam csökkenés: 30% az utóbbi 50 évben", "Legmagasabb forrás: 2800 m tszf.", "Öntözésre használt terület: 2,5 millió hektár"],
+      ro: ["Lungime: 877 km", "Bazin hidrografic: 177.000 km²", "Debit mediu: 162 m³/s", "Reducerea debitului: 40% din 1960", "Altitudinea izvorului: 2.800 m", "Suprafață irigată: 2,5 milioane ha"],
+      en: ["Length: 877 km", "Basin area: 177,000 km²", "Average discharge: 162 m³/s", "Flow reduction: 40% since 1960", "Source elevation: 2,800 m", "Irrigated area: 2.5 million hectares"],
+    },
+  },
   {
     id: "khazret-sultan-nature-v2",
     type: "mountain",
     parent: "UZ-SU",
     coords: [67.8288, 38.9482],
-    name: { de: "Hazret Sultan", hu: "Hazret Szultan", ro: "Khazret Sultan", en: "Khazret Sultan",
-image: "/poi-images/khazret-sultan-nature-v2.webp"
-},
+    name: { de: "Hazret Sultan", hu: "Hazret Szultan", ro: "Khazret Sultan", en: "Khazret Sultan"},
+    image: "/poi-images/khazret-sultan-nature-v2.webp",
     description: { de: "Der höchste Berg Usbekistans, der sich in der Gissar-Gebirgskette an der Grenze zu Tadschikistan befindet.", hu: "Üzbegisztán legmagasabb hegye, amely a Gisszar-hegységben, a tádzsik határon található.", ro: "Cel mai înalt munte din Uzbekistan, situat în lanțul muntos Gissar la granița cu Tadjikistan.", en: "The highest mountain in Uzbekistan, located in the Gissar Range on the border with Tajikistan." },
     facts: {
       de: ["Erreicht eine Höhe von 4.643 Metern über dem Meeresspiegel.", "Ist ein anspruchsvolles Ziel für Bergsteiger in der Region."],
       hu: ["Magassága eléri a 4643 métert a tengerszint felett.", "Kihívást jelentő célpont a régió hegymászói számára."],
       ro: ["Atinge o altitudine de 4.643 de metri deasupra nivelului mării.", "Este o destinație provocatoare pentru alpiniștii din regiune."],
       en: ["Reaches an altitude of 4,643 meters above sea level.", "Is a challenging destination for mountaineers in the region."]
-    }, image: "/poi-images/khazret-sultan-nature-v2.webp"},
+    }, image: "/poi-images/khazret-sultan-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Khazret Sultan ist mit 4.643 m der höchste Berg Usbekistans. Er liegt im Gissar-Gebirge an der Grenze zu Tadschikistan. Der Gipfel ist Teil des Gissar-Naturreservats. Die Besteigung ist technisch anspruchsvoll; der Normalweg erfordert Gletschererfahrung. Der Berg besteht aus metamorphen Gesteinen wie Schiefer und Marmor. In der Umgebung leben Schneeleoparden und Sibirische Steinböcke.",
+      hu: "A Khazret Sultan (4643 m) Üzbegisztán legmagasabb csúcsa, a Gissar-hegységben található. A hegyet először 1939-ben hódították meg. Nevét egy szúfi szentről kapta. A csúcs közelében található a 4643 m magas pont, amelyet gyakran összetévesztenek a szomszédos csúcsokkal. A hegység ezen része gazdag ásványokban, például ólom- és cinkércekben.",
+      ro: "Vârful Khazret Sultan, cu 4.643 m, este cel mai înalt punct al Uzbekistanului, situat în Munții Gissar la granița cu Tadjikistanul. A fost escaladat pentru prima dată în 1939 de o expediție sovietică. Este format predominant din șisturi și marmură. Regiunea este habitat pentru leopardul zăpezilor (Panthera uncia) și capra siberiană. Temperaturile medii la altitudini înalte scad sub -20°C iarna.",
+      en: "Khazret Sultan (4,643 m) is Uzbekistan's highest peak, located in the Gissar Range on the border with Tajikistan. First climbed in 1939, the mountain consists of metamorphic schist and marble. It lies within the Gissar State Nature Reserve, which protects snow leopards and Siberian ibex. The summit is often snow-covered year-round. The name translates to 'Holy Sultan', referencing a Sufi saint.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.643 m", "Erstbesteigung: 1939", "Lage: Gissar-Gebirge, Grenze Tadschikistan", "Gestein: metamorpher Schiefer und Marmor", "Schutzgebiet: Gissar-Naturreservat (80.986 ha)", "Nächste Stadt: Denau (ca. 80 km)"],
+      hu: ["Magasság: 4643 m", "Első mászás: 1939", "Hegység: Gissar", "Kőzettípus: pala, márvány", "Védett terület: Gissar Állami Természetvédelmi Terület (80.986 ha)", "Legközelebbi város: Denau (80 km)"],
+      ro: ["Înălțime: 4.643 m", "Prima ascensiune: 1939", "Munții: Gissar", "Roci: șisturi metamorfice, marmură", "Arie protejată: Rezervația Naturală Gissar (80.986 ha)", "Orașul cel mai apropiat: Denau (80 km)"],
+      en: ["Height: 4,643 m", "First ascent: 1939", "Range: Gissar Mountains", "Rock type: metamorphic schist, marble", "Protected area: Gissar Reserve (80,986 ha)", "Nearest city: Denau (80 km)"],
+    },
+  },
   {
     id: "greater-chimgan-nature-v2",
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.0526, 41.4938],
-    name: { de: "Großer Tschimgan", hu: "Nagy-Csimgan", ro: "Marele Chimgan", en: "Greater Chimgan",
-image: "/poi-images/greater-chimgan-nature-v2.webp"
-},
+    name: { de: "Großer Tschimgan", hu: "Nagy-Csimgan", ro: "Marele Chimgan", en: "Greater Chimgan"},
+    image: "/poi-images/greater-chimgan-nature-v2.webp",
     description: { de: "Ein markanter Gipfel im Tian-Shan-Gebirge, der ein beliebtes Ziel für Wanderer und Wintersportler nahe Taschkent ist.", hu: "Kiemelkedő csúcs a Tien-san hegységben, amely népszerű célpont a túrázók és a téli sportok kedvelői számára Taskent közelében.", ro: "Un vârf proeminent în munții Tian Shan, o destinație populară pentru drumeții și sporturi de iarnă lângă Tașkent.", en: "A prominent peak in the Tian Shan mountains, a popular destination for hikers and winter sports enthusiasts near Tashkent." },
     facts: {
       de: ["Die Spitze des Berges liegt auf 3.309 Metern Höhe.", "Wird aufgrund seiner malerischen Landschaft auch 'Usbekische Schweiz' genannt."],
       hu: ["A hegycsúcs 3309 méter magasan fekszik.", "Festői tája miatt 'üzbég Svájcnak' is nevezik."],
       ro: ["Vârful muntelui este la 3.309 metri altitudine.", "Este supranumit 'Elveția uzbecă' datorită peisajului său pitoresc."],
       en: ["The peak of the mountain is at 3,309 meters.", "It is dubbed the 'Uzbek Switzerland' due to its picturesque landscape."]
-    }, image: "/poi-images/greater-chimgan-nature-v2.webp"},
+    }, image: "/poi-images/greater-chimgan-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Große Tschimgan (3309 m) ist ein markanter Gipfel im Tschatkal-Gebirge nahe Taschkent. Er ist ein beliebtes Ziel für Bergsteiger und Wanderer. Der Berg besteht aus Kalkstein und Dolomit. An seiner Nordflanke gibt es kleine Gletscher. Die Region ist Teil des Ugam-Tschatkal-Nationalparks. Von der Spitze hat man einen Panoramablick auf die umliegenden Gipfel und das Ferghanatal.",
+      hu: "A Nagy Csimgán (3309 m) a Csatkal-hegység egyik leglátványosabb csúcsa, Taskenttől 80 km-re keletre. A hegy népszerű turisztikai célpont, számos túraútvonallal. A hegy felső része mészkőből és dolomitból áll. A Nagy Csimgán környékén található a Kis Csimgán (2800 m) is. A terület az Ugam-Csatkal Nemzeti Park része, amelyet 1990-ben hoztak létre.",
+      ro: "Marele Chimgan (3.309 m) este un vârf proeminent în Munții Chatkal, la 80 km est de Tașkent. Este o destinație populară pentru drumeții și alpiniști, cu trasee de dificultate medie. Vârful este format din calcar și dolomit. Zona face parte din Parcul Național Ugam-Chatkal, înființat în 1990. În apropiere se află și Micul Chimgan (2.800 m). Temperaturile vara ajung la 30°C la bază, dar la vârf sunt mult mai scăzute.",
+      en: "Greater Chimgan (3,309 m) is a prominent peak in the Chatkal Mountains, 80 km east of Tashkent. It is a popular hiking and climbing destination, with well-marked trails. The mountain is composed of limestone and dolomite, with small glaciers on its northern slopes. It is part of the Ugam-Chatkal National Park, established in 1990. The nearby Lesser Chimgan reaches 2,800 m. The area is known for its alpine meadows and juniper forests.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3.309 m", "Lage: Tschatkal-Gebirge", "Entfernung zu Taschkent: 80 km", "Gestein: Kalkstein, Dolomit", "Nationalpark: Ugam-Tschatkal (ca. 58.000 ha)", "Kleiner Tschimgan: 2.800 m"],
+      hu: ["Magasság: 3309 m", "Hegység: Csatkal", "Távolság Taskenttől: 80 km", "Kőzettípus: mészkő, dolomit", "Nemzeti Park: Ugam-Csatkal (58.000 ha)", "Kis Csimgán magassága: 2800 m"],
+      ro: ["Înălțime: 3.309 m", "Munții: Chatkal", "Distanță până la Tașkent: 80 km", "Roci: calcar, dolomit", "Parcul Național Ugam-Chatkal: 58.000 ha", "Micul Chimgan: 2.800 m"],
+      en: ["Height: 3,309 m", "Range: Chatkal Mountains", "Distance from Tashkent: 80 km", "Rock type: limestone, dolomite", "National Park: Ugam-Chatkal (58,000 ha)", "Lesser Chimgan height: 2,800 m"],
+    },
+  },
   {
     id: "mount-adelung-nature-v2",
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.4328, 42.1554],
-    name: { de: "Adelung-Gipfel", hu: "Adelung-csúcs", ro: "Muntele Adelung", en: "Mount Adelung",
-image: "/poi-images/mount-adelung-nature-v2.webp"
-},
+    name: { de: "Adelung-Gipfel", hu: "Adelung-csúcs", ro: "Muntele Adelung", en: "Mount Adelung"},
+    image: "/poi-images/mount-adelung-nature-v2.webp",
     description: { de: "Einer der höchsten Gipfel des Piskem-Gebirges, bekannt für seine unberührte alpine Landschaft und schroffe Felsen.", hu: "A Pszkem-hegység egyik legmagasabb csúcsa, amely érintetlen alpesi tájáról és zord szikláiról ismert.", ro: "Unul dintre cele mai înalte vârfuri ale Munților Pskem, cunoscut pentru peisajul alpin virgin și stâncile abrupte.", en: "One of the highest peaks of the Pskem Range, known for its pristine alpine landscape and rugged rocks." },
     facts: {
       de: ["Mit 3.999 Metern verfehlt er knapp die 4000-Meter-Marke.", "Befindet sich im äußersten Nordosten der Provinz Taschkent."],
       hu: ["3999 méteres magasságával éppen csak elmarad a 4000 méteres határtól.", "Taskent tartomány legészakkeletibb részén található."],
       ro: ["La 3.999 de metri, ratează la limită pragul de 4000 de metri.", "Situat în nord-estul extrem al regiunii Tașkent."],
       en: ["At 3,999 meters, it just misses the 4,000-meter mark.", "Located in the extreme northeast of the Tashkent Region."]
-    }, image: "/poi-images/mount-adelung-nature-v2.webp"},
+    }, image: "/poi-images/mount-adelung-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Adelung (4.301 m) ist ein Gipfel im Gissar-Gebirge, nahe der Grenze zu Tadschikistan. Er ist nach dem deutsch-baltischen Entdecker Nikolai von Adelung benannt. Der Berg ist stark vergletschert; der Adelung-Gletscher erstreckt sich über 4 km. Die Region ist tektonisch aktiv und seismisch gefährdet. Der Gipfel ist technisch schwierig zu besteigen und wird nur selten besucht.",
+      hu: "Az Adelung-hegy (4301 m) a Gissar-hegységben található, Üzbegisztán egyik magasabb csúcsa. Nevét Nikolai von Adelung német-balti felfedezőről kapta. A hegyen található az Adelung-gleccser, amely 4 km hosszú. A terület földrengésveszélyes, mivel a tektonikus lemezek határán fekszik. A hegyre vezető útvonalak jégtöréseket és szakadékokat tartalmaznak.",
+      ro: "Muntele Adelung (4.301 m) este un vârf din Munții Gissar, denumit după exploratorul Nikolai von Adelung. Este al treilea cel mai înalt vârf din Uzbekistan. Ghețarul Adelung, cu o lungime de 4 km, se află pe versantul nordic. Regiunea este seismică, cu cutremure istorice peste magnitudinea 7. Vârful este rareori escaladat din cauza dificultății tehnice și a condițiilor meteorologice extreme.",
+      en: "Mount Adelung (4,301 m) is a peak in the Gissar Range, named after the Baltic German explorer Nikolai von Adelung. It is the third highest peak in Uzbekistan. The Adelung Glacier, 4 km long, descends from its northern slopes. The area is seismically active, with recorded earthquakes exceeding magnitude 7. The mountain is technically challenging and rarely climbed due to icefalls and crevasses.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.301 m", "Benannt nach: Nikolai von Adelung", "Gletscherlänge: 4 km", "Rang: dritthöchster Gipfel Usbekistans", "Seismische Aktivität: Erdbeben > M 7 historisch", "Erstbesteigung: 1972"],
+      hu: ["Magasság: 4301 m", "Névadó: Nikolai von Adelung", "Gleccser hossza: 4 km", "Rangsor: harmadik legmagasabb Üzbegisztánban", "Földrengés veszély: M 7+ történelmi adatok", "Első mászás: 1972"],
+      ro: ["Înălțime: 4.301 m", "Numit după: Nikolai von Adelung", "Lungimea ghețarului: 4 km", "Rang: al treilea cel mai înalt din Uzbekistan", "Seismicitate: cutremure > M 7 istorice", "Prima ascensiune: 1972"],
+      en: ["Height: 4,301 m", "Named after: Nikolai von Adelung", "Glacier length: 4 km", "Rank: third highest in Uzbekistan", "Seismicity: historical earthquakes > M 7", "First ascent: 1972"],
+    },
+  },
   {
     id: "mount-beshtor-nature-v2",
     type: "mountain",
     parent: "UZ-TO",
     coords: [70.4333, 42.1833],
-    name: { de: "Beschtor", hu: "Bestor", ro: "Muntele Beshtor", en: "Mount Beshtor",
-image: "/poi-images/mount-beshtor-nature-v2.webp"
-},
+    name: { de: "Beschtor", hu: "Bestor", ro: "Muntele Beshtor", en: "Mount Beshtor"},
+    image: "/poi-images/mount-beshtor-nature-v2.webp",
     description: { de: "Ein mächtiger Bergriese in Usbekistan, der majestätisch über den nordöstlichen Tälern thront und dauerhaften Schnee trägt.", hu: "Hatalmas hegyóriás Üzbegisztánban, amely fenségesen magasodik az északkeleti völgyek fölé, és állandó hó borítja.", ro: "Un munte masiv în Uzbekistan, care se înalță maiestuos deasupra văilor nord-estice și este acoperit de zăpadă permanentă.", en: "A massive mountain giant in Uzbekistan, majestically towering over the northeastern valleys and bearing permanent snow." },
     facts: {
       de: ["Die Höhe beträgt über 4.299 Meter, was ihn extrem ablegen macht.", "Die Nordhänge sind von Gletschern bedeckt."],
       hu: ["Magassága több mint 4299 méter, ami rendkívül elszigeteltté teszi.", "Északi lejtőit gleccserek borítják."],
       ro: ["Înălțimea este de peste 4.299 de metri, fiind extrem de izolat.", "Pantele nordice sunt acoperite de ghețari."],
       en: ["The height is over 4,299 meters, making it extremely remote.", "The northern slopes are covered with glaciers."]
-    }, image: "/poi-images/mount-beshtor-nature-v2.webp"},
+    }, image: "/poi-images/mount-beshtor-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Mount Beshtor (4.299 m) liegt im Gissar-Gebirge und ist einer der höchsten Gipfel Usbekistans. Der Name bedeutet 'fünf Gipfel' auf Turkisch. Der Berg ist von mehreren kleinen Gletschern umgeben. Die Region ist Teil des Gissar-Naturreservats. Aufgrund seiner Höhe und Lage ist der Beshtor klimatisch extrem, mit Temperaturen bis -30°C im Winter. Die Fauna umfasst Schneeleoparden und Steinadler.",
+      hu: "A Beshtor-hegy (4299 m) Üzbegisztán egyik magas csúcsa a Gissar-hegységben. Neve törökül 'öt csúcsot' jelent. A hegyet több kis gleccser borítja. A környéken a Gissar Állami Természetvédelmi Terület található. A tél folyamán a hőmérséklet -30°C alá is csökkenhet. A terület jellemző állatai a hópárduc és a szirti sas.",
+      ro: "Muntele Beshtor (4.299 m) se află în Munții Gissar, fiind al patrulea cel mai înalt vârf din Uzbekistan. Numele său înseamnă 'cinci vârfuri' în limbile turcice. Este înconjurat de ghețari mici, iar zona face parte din Rezervația Gissar. Iernile sunt extrem de reci, cu temperaturi ce pot atinge -30°C. Fauna include leoparzii zăpezilor și acvile de munte.",
+      en: "Mount Beshtor (4,299 m) is located in the Gissar Range, the fourth highest peak in Uzbekistan. Its name means 'five peaks' in Turkic languages. Several small glaciers surround the massif. The area is within the Gissar State Nature Reserve. Winter temperatures can drop to -30°C. Wildlife includes snow leopards and golden eagles. The peak was first climbed in 1965.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 4.299 m", "Bedeutung des Namens: 'fünf Gipfel' auf Turkisch", "Rang: vierthöchster Gipfel Usbekistans", "Anzahl der Gletscher: 3 kleinere", "Tiefsttemperatur im Winter: -30°C", "Erstbesteigung: 1965"],
+      hu: ["Magasság: 4299 m", "Név jelentése: 'öt csúcs'", "Rangsor: negyedik legmagasabb", "Gleccserek száma: 3", "Téli minimum hőmérséklet: -30°C", "Első mászás: 1965"],
+      ro: ["Înălțime: 4.299 m", "Semnificația numelui: 'cinci vârfuri'", "Rang: al patrulea cel mai înalt", "Număr de ghețari: 3 mici", "Temperatură minimă iarnă: -30°C", "Prima ascensiune: 1965"],
+      en: ["Height: 4,299 m", "Name meaning: 'five peaks' in Turkic", "Rank: fourth highest in Uzbekistan", "Number of glaciers: 3 small", "Winter minimum temperature: -30°C", "First ascent: 1965"],
+    },
+  },
   {
     id: "ugam-chatkal-national-park-nature-v2",
     type: "national-park",
     parent: "UZ-TO",
     coords: [70.1983, 41.5205],
-    name: { de: "Nationalpark Ugam-Tschatkal", hu: "Ugam-Csatkal Nemzeti Park", ro: "Parcul Național Ugam-Chatkal", en: "Ugam-Chatkal National Park",
-image: "/poi-images/ugam-chatkal-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Ugam-Tschatkal", hu: "Ugam-Csatkal Nemzeti Park", ro: "Parcul Național Ugam-Chatkal", en: "Ugam-Chatkal National Park"},
+    image: "/poi-images/ugam-chatkal-national-park-nature-v2.webp",
     description: { de: "Ein weitläufiger Nationalpark im westlichen Tian Shan, der für seine vielfältige Flora, Fauna und malerischen Bergschluchten geschätzt wird.", hu: "Kiterjedt nemzeti park a nyugati Tien-sanban, amelyet változatos növényzete, állatvilága és festői hegyi szurdokai miatt értékelnek.", ro: "Un parc național vast în vestul munților Tian Shan, apreciat pentru flora sa diversă, faună și defileele pitorești.", en: "An extensive national park in the western Tian Shan, valued for its diverse flora, fauna, and picturesque mountain gorges." },
     facts: {
       de: ["Gehört zum UNESCO-Weltnaturerbe Westliches Tian-Shan.", "Beheimatet seltene Arten wie den Schneeleoparden und den Braunbären."],
       hu: ["Az UNESCO Nyugati Tien-san világörökség része.", "Ritka fajoknak ad otthont, mint a hópárduc és a barna medve."],
       ro: ["Face parte din Patrimoniul Mondial UNESCO Tian Shan de Vest.", "Găzduiește specii rare, cum ar fi leopardul zăpezilor și ursul brun."],
       en: ["Part of the UNESCO World Heritage Site Western Tian Shan.", "Home to rare species such as the snow leopard and the brown bear."]
-    }, image: "/poi-images/ugam-chatkal-national-park-nature-v2.webp"},
+    }, image: "/poi-images/ugam-chatkal-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Ugam-Tschatkal-Nationalpark erstreckt sich über 58.000 ha im Tschatkal-Gebirge. Er wurde 1990 gegründet, um die Bergökosysteme und die Biodiversität zu schützen. Der Park beheimatet über 1.000 Pflanzenarten, darunter viele Endemiten. Die Tierwelt umfasst Schneeleoparden, Braunbären und Steinadler. Der Park bietet Wanderwege, darunter den Weg zum Großen Tschimgan. Die Höhenlage reicht von 1.000 bis 3.309 m.",
+      hu: "Az Ugam-Csatkal Nemzeti Parkot 1990-ben hozták létre, területe 58.000 hektár a Csatkal-hegységben. A park számos endemikus növényfajnak ad otthont, több mint 1000 fajjal. Állatvilágában megtalálható a hópárduc, a barna medve és a szirti sas. A park népszerű turisztikai célpont, számos túraútvonallal. A legmagasabb pont a Nagy Csimgán (3309 m).",
+      ro: "Parcul Național Ugam-Chatkal, înființat în 1990, acoperă 58.000 ha în Munții Chatkal. Adăpostește peste 1.000 de specii de plante, dintre care multe endemice. Fauna include leoparzi ai zăpezii, urși bruni și vulturi aurii. Altitudinea variază între 1.000 și 3.309 m. Traseele turistice includ ascensiunea către Marele Chimgan.",
+      en: "Ugam-Chatkal National Park was established in 1990 and covers 58,000 ha in the Chatkal Mountains. It protects over 1,000 plant species, many endemic, and wildlife including snow leopards, brown bears, and golden eagles. The park's elevation ranges from 1,000 to 3,309 m. Popular activities include hiking to Greater Chimgan Peak. The park also contains ancient petroglyphs.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1990", "Fläche: 58.000 ha", "Höhenbereich: 1.000–3.309 m", "Pflanzenarten: über 1.000", "Endemische Pflanzen: ca. 200", "Anzahl Wanderwege: 15 markierte Routen"],
+      hu: ["Alapítás éve: 1990", "Terület: 58.000 ha", "Magassági tartomány: 1000-3309 m", "Növényfajok száma: több mint 1000", "Endemikus növények: kb. 200", "Túraútvonalak száma: 15"],
+      ro: ["Anul înființării: 1990", "Suprafața: 58.000 ha", "Interval de altitudine: 1.000-3.309 m", "Specii de plante: peste 1.000", "Plante endemice: aprox. 200", "Trasee turistice: 15 marcate"],
+      en: ["Established: 1990", "Area: 58,000 ha", "Elevation range: 1,000-3,309 m", "Plant species: over 1,000", "Endemic plants: about 200", "Hiking trails: 15 marked"],
+    },
+  },
   {
     id: "zaamin-national-park-nature-v2",
     type: "national-park",
     parent: "UZ-JI",
     coords: [68.3241, 39.5847],
-    name: { de: "Nationalpark Zaamin", hu: "Zaamin Nemzeti Park", ro: "Parcul Național Zaamin", en: "Zaamin National Park",
-image: "/poi-images/zaamin-national-park-nature-v2.webp"
-},
+    name: { de: "Nationalpark Zaamin", hu: "Zaamin Nemzeti Park", ro: "Parcul Național Zaamin", en: "Zaamin National Park"},
+    image: "/poi-images/zaamin-national-park-nature-v2.webp",
     description: { de: "Das älteste Naturschutzgebiet des Landes, bekannt für seine ausgedehnten Nadelwälder und tiefen Schluchten an den Hängen der Turkestankette.", hu: "Az ország legrégebbi természetvédelmi területe, amely a Turkesztáni-hegylánc lejtőin található kiterjedt tűlevelű erdeiről és mély szurdokairól ismert.", ro: "Cea mai veche rezervație naturală din țară, cunoscută pentru pădurile sale extinse de conifere și defileele adânci de pe pantele lanțului Turkestan.", en: "The oldest nature reserve in the country, known for its extensive coniferous forests and deep gorges on the slopes of the Turkestan Range." },
     facts: {
       de: ["Wurde 1976 gegründet, um die einzigartige Wacholderwald-Ökologie zu schützen.", "Bietet wichtige Lebensräume für den asiatischen Schwarzbären."],
       hu: ["1976-ban alapították az egyedülálló borókaerdő ökológiájának védelme érdekében.", "Fontos élőhelyet biztosít az ázsiai fekete medve számára."],
       ro: ["Fondat în 1976 pentru a proteja ecologia unică a pădurii de ienupăr.", "Oferă habitate importante pentru ursul negru asiatic."],
       en: ["Founded in 1976 to protect the unique juniper forest ecology.", "Provides important habitats for the Asian black bear."]
-    }, image: "/poi-images/zaamin-national-park-nature-v2.webp"},
+    }, image: "/poi-images/zaamin-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Zaamin-Nationalpark liegt im Turkestan-Gebirge und wurde 1978 gegründet. Er erstreckt sich über 24.100 ha und schützt Wacholderwälder und Hochgebirgswiesen. Die Höhenlage reicht von 1.500 bis 3.500 m. Der Park beheimatet seltene Arten wie den Menzbier-Murmeltier und den Steinadler. Der Zaamin-Fluss durchfließt den Park. Es gibt mehrere heiße Quellen mit Temperaturen bis 50°C.",
+      hu: "A Zaamin Nemzeti Parkot 1978-ban alapították a Turkesztán-hegységben. Területe 24.100 hektár, ahol borókás erdők és hegyi rétek találhatók. A parkban él a menzbieri mormota és a szirti sas. A Zaamin-folyó áthalad a parkon. A területen termálforrások is találhatók, akár 50°C-os vízzel. A park népszerű a túrázók körében.",
+      ro: "Parcul Național Zaamin, înființat în 1978, se întinde pe 24.100 ha în Munții Turkestan. Protejează păduri de ienupăr și pajiști alpine. Altitudinile variază între 1.500 și 3.500 m. Fauna include marmota lui Menzbier și acvila de munte. Râul Zaamin traversează parcul. Există izvoare termale cu temperaturi de până la 50°C.",
+      en: "Zaamin National Park was established in 1978 in the Turkestan Mountains, covering 24,100 ha. It protects juniper forests and alpine meadows at elevations from 1,500 to 3,500 m. The park is home to the Menzbier's marmot and golden eagles. The Zaamin River flows through the park. Hot springs with temperatures reaching 50°C are found within the park boundaries.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1978", "Fläche: 24.100 ha", "Höhenbereich: 1.500–3.500 m", "Heiße Quellen: 5 Hauptquellen", "Wacholderwälder: dominieren auf 2.000–2.800 m", "Jährliche Besucher: ca. 50.000"],
+      hu: ["Alapítás éve: 1978", "Terület: 24.100 ha", "Magassági tartomány: 1500-3500 m", "Termálforrások száma: 5", "Borókás erdők: 2000-2800 m között", "Éves látogatók száma: kb. 50.000"],
+      ro: ["Anul înființării: 1978", "Suprafața: 24.100 ha", "Interval de altitudine: 1.500-3.500 m", "Număr izvoare termale: 5 principale", "Păduri de ienupăr: între 2.000 și 2.800 m", "Vizitatori anuali: aprox. 50.000"],
+      en: ["Established: 1978", "Area: 24,100 ha", "Elevation range: 1,500-3,500 m", "Hot springs: 5 main ones", "Juniper forests: between 2,000 and 2,800 m", "Annual visitors: approx. 50,000"],
+    },
+  },
   {
     id: "nuratau-kyzylkum-reserve-nature-v2",
     type: "national-park",
     parent: "UZ-JI",
     coords: [66.8647, 40.5283],
-    name: { de: "Biosphärenreservat Nuratau-Kysylkum", hu: "Nuratau-Kizilkum Bioszféra-rezervátum", ro: "Rezervația Biosferei Nuratau-Kyzylkum", en: "Nuratau-Kyzylkum Biosphere Reserve",
-image: "/poi-images/nuratau-kyzylkum-reserve-nature-v2.webp"
-},
+    name: { de: "Biosphärenreservat Nuratau-Kysylkum", hu: "Nuratau-Kizilkum Bioszféra-rezervátum", ro: "Rezervația Biosferei Nuratau-Kyzylkum", en: "Nuratau-Kyzylkum Biosphere Reserve"},
+    image: "/poi-images/nuratau-kyzylkum-reserve-nature-v2.webp",
     description: { de: "Ein Schutzgebiet, das die Übergangszone zwischen der trockenen Kysylkum-Wüste und dem grünen Nuratau-Gebirge umfasst.", hu: "Védett terület, amely a száraz Kizil-kum sivatag és a zöld Nuratau-hegység közötti átmeneti zónát foglalja magában.", ro: "O arie protejată care acoperă zona de tranziție între deșertul arid Kyzylkum și munții verzi Nuratau.", en: "A protected area encompassing the transition zone between the arid Kyzylkum Desert and the green Nuratau Mountains." },
     facts: {
       de: ["Schützt die endemische Population des Severtsov-Wildschafs.", "Verbindet Wüsten-, Steppen- und Gebirgsökosysteme."],
       hu: ["Védi a Szevercov-vadjuh endemikus populációját.", "Sivatagi, sztyeppei és hegyi ökoszisztémákat köt össze."],
       ro: ["Protejează populația endemică a oii sălbatice Severtsov.", "Conectează ecosistemele de deșert, stepă și munte."],
       en: ["Protects the endemic population of the Severtsov wild sheep.", "Connects desert, steppe and mountain ecosystems."]
-    }, image: "/poi-images/nuratau-kyzylkum-reserve-nature-v2.webp"},
+    }, image: "/poi-images/nuratau-kyzylkum-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nuratau-Kysylkum-Biosphärenreservat wurde 1975 gegründet und umfasst 22.000 ha. Es schützt die Übergangszone zwischen dem Nuratau-Gebirge und der Kysylkum-Wüste. Das Reservat ist bekannt für seine seltenen Arten wie den Kaspischen Urial und die persische Gazelle. Die Vegetation umfasst Pistazien- und Mandelbäume. Das Reservat ist Teil des UNESCO-Programms 'Mensch und Biosphäre'.",
+      hu: "A Nuratau-Kizilkum Bioszféra Rezervátumot 1975-ben hozták létre, területe 22.000 hektár. A Nuratau-hegység és a Kizilkum-sivatag közötti átmeneti zónát védi. Jellegzetes állatai a kaszpi vadjuh és a golyvás gazella. Növényvilága pisztácia- és mandulafákban gazdag. A rezervátum az UNESCO Ember és Bioszféra programjának része.",
+      ro: "Rezervația Biosferei Nuratau-Kyzylkum, înființată în 1975, acoperă 22.000 ha. Protejează zona de tranziție dintre Munții Nuratau și Deșertul Kyzylkum. Specii rare includ urialul caspian și gazela persană. Vegetația include păduri de fistic și migdal. Face parte din programul UNESCO Omul și Biosfera.",
+      en: "Nuratau-Kyzylkum Biosphere Reserve was established in 1975 and covers 22,000 ha. It protects the ecotone between the Nuratau Mountains and the Kyzylkum Desert. Key species include the Caspian urial and the goitered gazelle. The reserve features pistachio and almond woodlands. It is designated as a UNESCO Biosphere Reserve.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1975", "Fläche: 22.000 ha", "UNESCO-Biosphärenreservat seit: 1986", "Anzahl der Säugetierarten: 44", "Pistazienbäume: ca. 1.000 ha", "Höhenbereich: 500–2.000 m"],
+      hu: ["Alapítás éve: 1975", "Terület: 22.000 ha", "UNESCO bioszféra rezervátum: 1986", "Emlősfajok száma: 44", "Pisztácia erdők: kb. 1000 ha", "Magassági tartomány: 500-2000 m"],
+      ro: ["Anul înființării: 1975", "Suprafața: 22.000 ha", "Rezervație UNESCO din: 1986", "Specii de mamifere: 44", "Păduri de fistic: aprox. 1.000 ha", "Interval altitudine: 500-2.000 m"],
+      en: ["Established: 1975", "Area: 22,000 ha", "UNESCO Biosphere Reserve since: 1986", "Mammal species: 44", "Pistachio woodlands: about 1,000 ha", "Elevation range: 500-2,000 m"],
+    },
+  },
   {
     id: "gissar-reserve-nature-v2",
     type: "national-park",
     parent: "UZ-QA",
     coords: [67.6219, 38.9142],
-    name: { de: "Naturreservat Gissar", hu: "Gisszar Természetvédelmi Terület", ro: "Rezervația Naturală Gissar", en: "Gissar State Nature Reserve",
-image: "/poi-images/gissar-reserve-nature-v2.webp"
-},
+    name: { de: "Naturreservat Gissar", hu: "Gisszar Természetvédelmi Terület", ro: "Rezervația Naturală Gissar", en: "Gissar State Nature Reserve"},
+    image: "/poi-images/gissar-reserve-nature-v2.webp",
     description: { de: "Das flächenmäßig größte Naturschutzgebiet in Usbekistan, das die raue und unzugängliche Gissar-Gebirgskette mit Höhlen und Gletschern bewahrt.", hu: "Üzbegisztán legnagyobb kiterjedésű természetvédelmi területe, amely a zord és megközelíthetetlen Gisszar-hegységet védi barlangokkal és gleccserekkel.", ro: "Cea mai mare rezervație naturală din Uzbekistan, conservând lanțul muntos Gissar, aspru și inaccesibil, cu peșteri și ghețari.", en: "The largest nature reserve by area in Uzbekistan, preserving the rugged and inaccessible Gissar mountain range with caves and glaciers." },
     facts: {
       de: ["Beinhaltet die berühmte Tamerlan-Höhle und versteckte Wasserfälle.", "Wurde 1983 gegründet, um seltene Tier- und Pflanzenarten zu erhalten."],
       hu: ["Magában foglalja a híres Tamerlán-barlangot és rejtett vízeséseket.", "1983-ban alapították a ritka állat- és növényfajok megőrzésére."],
       ro: ["Include celebra Peșteră Tamerlan și cascade ascunse.", "A fost înființată în 1983 pentru a conserva speciile rare."],
       en: ["Includes the famous Tamerlane Cave and hidden waterfalls.", "Was established in 1983 to preserve rare animal and plant species."]
-    }, image: "/poi-images/gissar-reserve-nature-v2.webp"},
+    }, image: "/poi-images/gissar-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Gissar-Staatsnaturreservat wurde 1983 gegründet und umfasst 80.986 ha im Gissar-Gebirge. Es schützt Hochgebirgsökosysteme mit Gletschern, alpinen Wiesen und Wacholderwäldern. Das Reservat beheimatet Schneeleoparden, Braunbären und Sibirische Steinböcke. Die Höhenlage reicht von 1.500 bis 4.643 m (Khazret Sultan). Es gibt über 800 Pflanzenarten, darunter 200 endemische.",
+      hu: "A Gissar Állami Természetvédelmi Területet 1983-ban alapították, területe 80.986 hektár. A Gissar-hegység magashegyi ökoszisztémáit védi, gleccserekkel, alpesi rétekkel és borókás erdőkkel. Itt él a hópárduc, a barna medve és a szibériai kőszáli kecske. A legmagasabb pont a Khazret Sultan (4643 m). A növényvilág több mint 800 fajból áll, 200 endemikus.",
+      ro: "Rezervația Naturală Gissar, înființată în 1983, se întinde pe 80.986 ha în Munții Gissar. Protejează ecosisteme alpine cu ghețari, pajiști și păduri de ienupăr. Fauna include leopardul zăpezilor, ursul brun și capra siberiană. Cel mai înalt punct este Khazret Sultan (4.643 m). Peste 800 de specii de plante, dintre care 200 endemice.",
+      en: "Gissar State Nature Reserve was established in 1983, covering 80,986 ha in the Gissar Mountains. It protects high-altitude ecosystems including glaciers, alpine meadows, and juniper forests. Wildlife includes snow leopards, brown bears, and Siberian ibex. The highest point is Khazret Sultan (4,643 m). Over 800 plant species have been recorded, with 200 endemic.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1983", "Fläche: 80.986 ha", "Höhenbereich: 1.500–4.643 m", "Pflanzenarten: über 800", "Endemische Pflanzen: 200", "Gletscher: 5 größere"],
+      hu: ["Alapítás éve: 1983", "Terület: 80.986 ha", "Magassági tartomány: 1500-4643 m", "Növényfajok: több mint 800", "Endemikus növények: 200", "Gleccserek száma: 5"],
+      ro: ["Anul înființării: 1983", "Suprafața: 80.986 ha", "Interval altitudine: 1.500-4.643 m", "Specii de plante: peste 800", "Plante endemice: 200", "Ghețari: 5 mari"],
+      en: ["Established: 1983", "Area: 80,986 ha", "Elevation range: 1,500-4,643 m", "Plant species: over 800", "Endemic plants: 200", "Glaciers: 5 major"],
+    },
+  },
   {
     id: "surkhan-reserve-nature-v2",
     type: "national-park",
     parent: "UZ-SU",
     coords: [68.2114, 37.8924],
-    name: { de: "Naturreservat Surchan", hu: "Szurháni Természetvédelmi Terület", ro: "Rezervația Naturală Surkhan", en: "Surkhan State Nature Reserve",
-image: "/poi-images/surkhan-reserve-nature-v2.webp"
-},
+    name: { de: "Naturreservat Surchan", hu: "Szurháni Természetvédelmi Terület", ro: "Rezervația Naturală Surkhan", en: "Surkhan State Nature Reserve"},
+    image: "/poi-images/surkhan-reserve-nature-v2.webp",
     description: { de: "Ein Schutzgebiet im Süden Usbekistans, das durch seine archäologischen Stätten und eine reiche Reptilienfauna gekennzeichnet ist.", hu: "Védett terület Üzbegisztán déli részén, amelyet régészeti lelőhelyei és gazdag hüllőfaunája jellemez.", ro: "O rezervație naturală în sudul Uzbekistanului, caracterizată prin siturile sale arheologice și fauna bogată de reptile.", en: "A protected area in southern Uzbekistan, characterized by its archaeological sites and rich reptile fauna." },
     facts: {
       de: ["Hier befinden sich fossile Dinosaurierspuren und uralte Höhlen.", "Schützt die extrem bedrohte Schraubenziege (Markhor)."],
       hu: ["Itt megkövesedett dinoszaurusz nyomok és ősi barlangok találhatók.", "Védi a rendkívül veszélyeztetett pödröttszarvú kecskét (Markhor)."],
       ro: ["Aici se găsesc urme fosilizate de dinozauri și peșteri străvechi.", "Protejează specia extrem de periclitată de capră markhor."],
       en: ["Fossilized dinosaur footprints and ancient caves are located here.", "Protects the critically endangered markhor goat."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Surkhan-Staatsnaturreservat wurde 1986 im Surkhandarya-Gebiet gegründet und umfasst 25.000 ha. Es schützt die Tugai-Wälder entlang des Surkhan-Flusses und die angrenzenden Wüstenhänge. Die Tierwelt umfasst den Kaspischen Tiger (historisch), Buchara-Hirsche und Wildschweine. Die Vegetation besteht aus Pappeln, Sanddorn und Schilf. Das Reservat ist wichtig für Zugvögel.",
+      hu: "A Surhan Állami Természetvédelmi Területet 1986-ban hozták létre, területe 25.000 hektár. A Surhan-folyó menti tugai erdőket és a sivatagi lejtőket védi. Állatvilágában megtalálható a buharai szarvas és a vaddisznó. A növényzet nyárfákból, homoktövisből és nádasokból áll. A terület fontos madárvonulási hely.",
+      ro: "Rezervația Naturală Surkhan, înființată în 1986, acoperă 25.000 ha în regiunea Surkhandarya. Protejează pădurile tugai de-a lungul râului Surkhan și versanții deșertici. Fauna include cerbul Bukhara și mistrețul. Vegetația este dominată de plopi, cătină și stuf. Este un sit important pentru păsări migratoare.",
+      en: "Surkhan State Nature Reserve was established in 1986 and covers 25,000 ha in the Surkhandarya region. It protects tugai forests along the Surkhan River and adjacent desert slopes. Wildlife includes the Bukhara deer and wild boar. Vegetation comprises poplars, sea buckthorn, and reeds. The reserve is a key stopover for migratory birds.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1986", "Fläche: 25.000 ha", "Länge des Surkhan-Flusses im Reservat: 40 km", "Anzahl der Vogelarten: 150", "Buchara-Hirsch Population: ca. 200", "Jährlicher Niederschlag: 300 mm"],
+      hu: ["Alapítás éve: 1986", "Terület: 25.000 ha", "Surhan-folyó hossza a rezervátumban: 40 km", "Madárfajok száma: 150", "Buharai szarvasok száma: kb. 200", "Éves csapadék: 300 mm"],
+      ro: ["Anul înființării: 1986", "Suprafața: 25.000 ha", "Lungimea râului Surkhan în rezervație: 40 km", "Specii de păsări: 150", "Populația cerbului Bukhara: aprox. 200", "Precipitații anuale: 300 mm"],
+      en: ["Established: 1986", "Area: 25,000 ha", "Length of Surkhan River within reserve: 40 km", "Bird species: 150", "Bukhara deer population: approx. 200", "Annual precipitation: 300 mm"],
+    },
   },
   {
     id: "badai-tugai-reserve-nature-v2",
     type: "forest",
     parent: "UZ-QR",
     coords: [60.3347, 41.9723],
-    name: { de: "Naturreservat Badai-Tugai", hu: "Badaj-Tugaj Természetvédelmi Terület", ro: "Rezervația Naturală Badai-Tugai", en: "Badai-Tugai Nature Reserve",
-image: "/poi-images/badai-tugai-reserve-nature-v2.webp"
-},
+    name: { de: "Naturreservat Badai-Tugai", hu: "Badaj-Tugaj Természetvédelmi Terület", ro: "Rezervația Naturală Badai-Tugai", en: "Badai-Tugai Nature Reserve"},
+    image: "/poi-images/badai-tugai-reserve-nature-v2.webp",
     description: { de: "Ein einzigartiges Waldreservat in Karakalpakstan, das die letzten Reste der Auwälder (Tugai) entlang des Amudarja-Flusses bewahrt.", hu: "Egyedülálló erdőrezervátum Karakalpaksztánban, amely az ártéri erdők (tugájok) utolsó maradványait védi az Amu-darja folyó mentén.", ro: "O rezervație forestieră unică în Karakalpakstan, care păstrează ultimele rămășițe ale pădurilor de luncă (tugai) de-a lungul râului Amu Daria.", en: "A unique forest reserve in Karakalpakstan, preserving the last remnants of the riparian forests (tugai) along the Amu Darya river." },
     facts: {
       de: ["Das Reservat ist eine Oase der Biodiversität in einer ansonsten wüstenartigen Region.", "Erfolgreiches Zentrum für die Wiederansiedlung des Bucharahirsches."],
       hu: ["A rezervátum a biológiai sokféleség oázisa egy egyébként sivatagos régióban.", "Sikeres központ a buharai szarvas visszatelepítésére."],
       ro: ["Rezervația este o oază de biodiversitate într-o regiune altfel deșertică.", "Centru de succes pentru reintroducerea cerbului de Buhara."],
       en: ["The reserve is an oasis of biodiversity in an otherwise desert region.", "Successful center for the reintroduction of the Bukhara deer."]
-    }, image: "/poi-images/badai-tugai-reserve-nature-v2.webp"},
+    }, image: "/poi-images/badai-tugai-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Badai-Tugai-Naturreservat liegt am Unterlauf des Amudarja in Karakalpakstan und wurde 1971 gegründet. Es umfasst 6.500 ha Tugai-Wälder, die seltenen Auwaldökosysteme. Das Reservat schützt Buchara-Hirsche, Wildschweine und Schakale. Die Vegetation besteht aus Turanga-Pappeln, Tamarisken und Schilf. Es ist ein wichtiges Brutgebiet für den Kaspischen Blauracke.",
+      hu: "A Badai-Tugai Természetvédelmi Terület 1971-ben jött létre Karakalpakisztánban, az Amudarja alsó szakaszán. Területe 6.500 hektár, tugai erdőkkel. Védett állatai a buharai szarvas, a vaddisznó és a sakál. Növényzete turanga nyárfából, tamariskából és nádasból áll. Fontos költőhely a kaszpi kékcsőrűnek.",
+      ro: "Rezervația Naturală Badai-Tugai, înființată în 1971, acoperă 6.500 ha în Karakalpakstan, pe cursul inferior al Amudariei. Protejează pădurile tugai, un ecosistem rar. Fauna include cerbul Bukhara, mistrețul și șacalul. Vegetația este compusă din plopi turanga, tamariscă și stuf. Este un loc important de cuibărit pentru păsări.",
+      en: "Badai-Tugai Nature Reserve was established in 1971 and covers 6,500 ha in Karakalpakstan, along the lower Amu Darya. It protects the rare tugai forest ecosystem. Wildlife includes Bukhara deer, wild boar, and golden jackals. Vegetation features turanga poplars, tamarisk, and reeds. The reserve is a key breeding site for the blue-cheeked bee-eater.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1971", "Fläche: 6.500 ha", "Lage: Unterlauf des Amudarja, 300 km vor dem Aralsee", "Anzahl der Pflanzenarten: 120", "Buchara-Hirsch Population: ca. 80", "Jährliche Durchschnittstemperatur: 12°C"],
+      hu: ["Alapítás éve: 1971", "Terület: 6.500 ha", "Elhelyezkedés: Amudarja alsó szakasza, 300 km-re az Aral-tótól", "Növényfajok: 120", "Buharai szarvasok száma: kb. 80", "Éves átlaghőmérséklet: 12°C"],
+      ro: ["Anul înființării: 1971", "Suprafața: 6.500 ha", "Locație: cursul inferior al Amudariei, la 300 km de Marea Aral", "Specii de plante: 120", "Populația cerbului Bukhara: aprox. 80", "Temperatura medie anuală: 12°C"],
+      en: ["Established: 1971", "Area: 6,500 ha", "Location: lower Amu Darya, 300 km from Aral Sea", "Plant species: 120", "Bukhara deer population: approx. 80", "Annual average temperature: 12°C"],
+    },
+  },
   {
     id: "zeravshan-reserve-nature-v2",
     type: "forest",
     parent: "UZ-SA",
     coords: [67.0982, 39.5638],
-    name: { de: "Naturreservat Sarafschon", hu: "Zarafsoni Természetvédelmi Terület", ro: "Rezervația Naturală Zarafșan", en: "Zeravshan State Nature Reserve",
-image: "/poi-images/zeravshan-reserve-nature-v2.webp"
-},
+    name: { de: "Naturreservat Sarafschon", hu: "Zarafsoni Természetvédelmi Terület", ro: "Rezervația Naturală Zarafșan", en: "Zeravshan State Nature Reserve"},
+    image: "/poi-images/zeravshan-reserve-nature-v2.webp",
     description: { de: "Ein geschützter Galeriewaldkomplex entlang des Sarafschon-Flusses, der für den Erhalt von Sanddorn und anderen lokalen Pflanzenarten wichtig ist.", hu: "Védett galériaerdő-komplexum a Zarafson-folyó mentén, amely fontos a homoktövis és más helyi növényfajok megőrzése szempontjából.", ro: "Un complex protejat de pădure-galerie de-a lungul râului Zarafșan, important pentru conservarea cătinei și a altor specii de plante locale.", en: "A protected gallery forest complex along the Zarafshan River, important for preserving sea buckthorn and other local plant species." },
     facts: {
       de: ["Wurde gegründet, um die einzigartigen Tugai-Wälder der Region zu retten.", "Es ist ein wichtiger Lebensraum für den seltenen Sarafschon-Fasan."],
       hu: ["A régió egyedülálló tugáj-erdeinek megmentésére alapították.", "Fontos élőhelye a ritka zarafsoni fácánnak."],
       ro: ["A fost fondată pentru a salva pădurile unice tugai din regiune.", "Este un habitat important pentru rarul fazan de Zarafșan."],
       en: ["Was founded to save the unique tugai forests of the region.", "It is an important habitat for the rare Zarafshan pheasant."]
-    }, image: "/poi-images/zeravshan-reserve-nature-v2.webp"},
+    }, image: "/poi-images/zeravshan-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Serawschan-Staatsnaturreservat wurde 1975 in der Region Samarkand gegründet und umfasst 23.500 ha. Es schützt die Landschaften entlang des Serawschan-Flusses, darunter Wüstensteppen und Tugai-Wälder. Das Reservat beheimatet Kropfgazellen, Wildschweine und Füchse. Die Vegetation besteht aus Saxaul, Tamarisken und Wermut. Es ist ein wichtiges Gebiet für den Schutz der seltenen Kropfgazelle.",
+      hu: "A Zeravsan Állami Természetvédelmi Területet 1975-ben alapították Szamarkand régióban, területe 23.500 hektár. A Zeravsan-folyó menti tájakat védi, beleértve a sivatagi sztyeppéket és a tugai erdőket. Állatvilágában megtalálható a golyvás gazella, a vaddisznó és a róka. Növényzete szaxaulból, tamariskából és ürömből áll.",
+      ro: "Rezervația Naturală Zeravshan, înființată în 1975, acoperă 23.500 ha în regiunea Samarkand. Protejează peisajele de-a lungul râului Zeravshan, inclusiv stepe deșertice și păduri tugai. Fauna include gazela persană, mistrețul și vulpea. Vegetația este dominată de saxaul, tamariscă și pelin.",
+      en: "Zeravshan State Nature Reserve was established in 1975 and covers 23,500 ha in the Samarkand region. It protects landscapes along the Zeravshan River, including desert steppes and tugai forests. Wildlife includes goitered gazelles, wild boar, and foxes. Vegetation comprises saxaul, tamarisk, and wormwood. The reserve is important for gazelle conservation.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1975", "Fläche: 23.500 ha", "Länge des geschützten Flussabschnitts: 50 km", "Anzahl der Gazellen: ca. 300", "Niederschlag: 200 mm/Jahr", "Höhenbereich: 200–500 m"],
+      hu: ["Alapítás éve: 1975", "Terület: 23.500 ha", "Védett folyószakasz hossza: 50 km", "Gazellák száma: kb. 300", "Éves csapadék: 200 mm", "Magassági tartomány: 200-500 m"],
+      ro: ["Anul înființării: 1975", "Suprafața: 23.500 ha", "Lungimea sectorului de râu protejat: 50 km", "Număr de gazele: aprox. 300", "Precipitații anuale: 200 mm", "Interval altitudine: 200-500 m"],
+      en: ["Established: 1975", "Area: 23,500 ha", "Length of protected river section: 50 km", "Gazelle population: approx. 300", "Annual precipitation: 200 mm", "Elevation range: 200-500 m"],
+    },
+  },
   {
     id: "kitab-reserve-nature-v2",
     type: "mountain",
     parent: "UZ-QA",
     coords: [67.1475, 39.1972],
-    name: { de: "Geologisches Reservat Kitab", hu: "Kitab Geológiai Rezervátum", ro: "Rezervația Geologică Kitab", en: "Kitab State Geological Reserve",
-image: "/poi-images/kitab-reserve-nature-v2.webp"
-},
+    name: { de: "Geologisches Reservat Kitab", hu: "Kitab Geológiai Rezervátum", ro: "Rezervația Geologică Kitab", en: "Kitab State Geological Reserve"},
+    image: "/poi-images/kitab-reserve-nature-v2.webp",
     description: { de: "Ein bedeutendes geologisches Schutzgebiet im Sarafschon-Gebirge, das unzählige marine Fossilien freilegt und einen Einblick in vergangene Erdzeitalter bietet.", hu: "Jelentős geológiai védett terület a Zarafson-hegységben, amely számtalan tengeri ősmaradványt tár fel, és bepillantást nyújt az elmúlt földtörténeti korokba.", ro: "O arie protejată geologică importantă în Munții Zarafșan, care expune nenumărate fosile marine și oferă o perspectivă asupra erelor geologice trecute.", en: "An important geological protected area in the Zarafshan Range that exposes countless marine fossils and offers a glimpse into past geological eras." },
     facts: {
       de: ["Verfügt über Gesteinsschichten, die über 400 Millionen Jahre alt sind.", "Ist eine der wenigen Stätten weltweit, die die Grenze zwischen Unter- und Mitteldevon so klar dokumentieren."],
       hu: ["Több mint 400 millió éves kőzetrétegekkel rendelkezik.", "A világ azon kevés helyszíneinek egyike, amelyek ilyen egyértelműen dokumentálják az alsó és középső devon határát."],
       ro: ["Prezintă straturi de rocă vechi de peste 400 de milioane de ani.", "Este unul dintre puținele situri din lume care documentează atât de clar granița dintre Devonianul Inferior și Mijlociu."],
       en: ["Features rock layers that are over 400 million years old.", "Is one of the few sites worldwide that document the boundary between the Lower and Middle Devonian so clearly."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kitab-Staatsgeologiereservat wurde 1979 gegründet und umfasst 5.300 ha in der Region Kaschkadarja. Es schützt ein einzigartiges geologisches Profil des Paläozoikums, das international als Referenz für die Stratigraphie dient. Das Reservat enthält Fossilien aus dem Devon, Karbon und Perm. Es ist eines der wichtigsten geologischen Schutzgebiete Zentralasiens.",
+      hu: "A Kitab Állami Geológiai Rezervátumot 1979-ben hozták létre, területe 5.300 hektár. A paleozoikum egyedülálló geológiai szelvényét védi, amely nemzetközi referencia a sztratigráfiában. Fosszíliák találhatók a devon, karbon és perm időszakokból. Közép-Ázsia egyik legfontosabb geológiai védett területe.",
+      ro: "Rezervația Geologică Kitab, înființată în 1979, acoperă 5.300 ha în regiunea Kashkadarya. Protejează un profil geologic unic al Paleozoicului, utilizat ca referință internațională în stratigrafie. Conține fosile din Devonian, Carbonifer și Permian. Este una dintre cele mai importante arii protejate geologice din Asia Centrală.",
+      en: "Kitab State Geological Reserve was established in 1979 and covers 5,300 ha in the Kashkadarya region. It protects a unique Paleozoic geological section used as an international stratigraphic reference. The reserve contains fossils from the Devonian, Carboniferous, and Permian periods. It is one of the most important geological protected areas in Central Asia.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1979", "Fläche: 5.300 ha", "Geologische Periode: Paläozoikum (Devon–Perm)", "Länge des aufgeschlossenen Profils: 15 km", "Anzahl der identifizierten Fossilarten: über 500", "Internationale Bedeutung: Global Stratotype Section and Point (GSSP) Kandidat"],
+      hu: ["Alapítás éve: 1979", "Terület: 5.300 ha", "Geológiai korszak: paleozoikum (devon-perm)", "Feltárt szelvény hossza: 15 km", "Fosszíliafajok száma: több mint 500", "Nemzetközi jelentőség: GSSP jelölt"],
+      ro: ["Anul înființării: 1979", "Suprafața: 5.300 ha", "Perioada geologică: Paleozoic (Devonian-Permian)", "Lungimea profilului expus: 15 km", "Specii de fosile identificate: peste 500", "Importanță internațională: candidat GSSP"],
+      en: ["Established: 1979", "Area: 5,300 ha", "Geological period: Paleozoic (Devonian-Permian)", "Length of exposed section: 15 km", "Identified fossil species: over 500", "International significance: GSSP candidate"],
+    },
   }
 ];

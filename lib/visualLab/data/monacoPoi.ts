@@ -128,24 +128,6 @@ export const monacoDistricts: POI[] = [
 
 export const monacoLandmarks: POI[] = [
   {
-    id: "landmark-princes-palace",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4201, 43.7312],
-    name: { de: "Fürstenpalast", hu: "Hercegi palota", ro: "Palatul Princiar", en: "Prince's Palace" },
-    description: {
-      de: "Die offizielle Residenz des Fürsten von Monaco, ursprünglich im Jahr 1191 erbaut.",
-      hu: "Monaco hercegének hivatalos rezidenciája, eredetileg 1191-ben épült.",
-      ro: "Reședința oficială a Prințului de Monaco, construită inițial în 1191.",
-      en: "The official residence of the Prince of Monaco, originally built in 1191."
-    },
-    facts: {
-      de: ["Wachablösung täglich um 11:55 Uhr", "Frühere Festung der Genuesen", "Staatsgemächer sind für Besucher geöffnet", "Sitz der Familie Grimaldi"],
-      hu: ["Őrségváltás naponta 11:55-kor", "Egykori genovai erőd", "Az állami termek látogathatók", "A Grimaldi-család székhelye"],
-      ro: ["Schimbarea gărzii zilnic la 11:55", "Fostă fortăreață genoveză", "Apartamentele de stat sunt deschise vizitatorilor", "Sediul familiei Grimaldi"],
-      en: ["Changing of the Guard daily at 11:55", "Former Genoese fortress", "State apartments are open to visitors", "Seat of the Grimaldi family"]
-    }, image: "/poi-images/landmark-princes-palace.webp"},
-  {
     id: "landmark-casino-monte-carlo",
     type: "landmark",
     parent: "country-monaco",
@@ -183,24 +165,6 @@ export const monacoLandmarks: POI[] = [
       en: ["Founded by Prince Albert I", "Jacques-Yves Cousteau was director for a long time", "Large aquarium in the basement", "Baroque architecture"]
     }, image: "/poi-images/landmark-oceanographic-museum.webp"},
   {
-    id: "landmark-monaco-cathedral",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4226, 43.7301],
-    name: { de: "Kathedrale von Monaco", hu: "Monacói katedrális", ro: "Catedrala din Monaco", en: "Monaco Cathedral" },
-    description: {
-      de: "Die Kathedrale des Heiligen Nikolaus, in der viele Mitglieder der Grimaldi-Familie begraben sind.",
-      hu: "Szent Miklós-katedrális, ahol a Grimaldi-család számos tagja nyugszik.",
-      ro: "Catedrala Sfântul Nicolae, unde sunt înmormântați mulți membri ai familiei Grimaldi.",
-      en: "Saint Nicholas Cathedral, where many members of the Grimaldi family are buried."
-    },
-    facts: {
-      de: ["Grabstätte von Fürstin Gracia Patricia", "Erbaut im neoromanischen Stil", "Enthält Retabel von Ludovico Brea", "Ort für große kirchliche Zeremonien"],
-      hu: ["Grace Kelly nyughelye", "Neoromán stílusban épült", "Ludovico Brea szárnyasoltárát őrzi", "Nagy egyházi ceremóniák helyszíne"],
-      ro: ["Locul de odihnă al Prințesei Grace", "Construită în stil neoromanic", "Conține un retablu de Ludovico Brea", "Locul ceremoniilor religioase majore"],
-      en: ["Resting place of Princess Grace", "Built in Neo-Romanesque style", "Contains retable by Ludovico Brea", "Location for major religious ceremonies"]
-    }, image: "/poi-images/landmark-monaco-cathedral.webp"},
-  {
     id: "landmark-jardin-exotique",
     type: "landmark",
     parent: "country-monaco",
@@ -218,24 +182,6 @@ export const monacoLandmarks: POI[] = [
       ro: ["Deschisă în 1933", "Oferă vedere panoramică asupra principatului", "Grotte de l'Observatoire se află aici", "Colecție de plante rare de deșert"],
       en: ["Opened in 1933", "Offers panoramic views of the Principality", "Grotte de l'Observatoire is located here", "Collection of rare desert plants"]
     }, image: "/poi-images/landmark-jardin-exotique.webp"},
-  {
-    id: "landmark-port-hercules",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4243, 43.7347],
-    name: { de: "Port Hercules", hu: "Port Hercules", ro: "Port Hercules", en: "Port Hercules" },
-    description: {
-      de: "Der Haupthafen von Monaco, bekannt für seine beeindruckenden Superyachten.",
-      hu: "Monaco fő kikötője, lenyűgöző szuperjachtjairól ismert.",
-      ro: "Portul principal din Monaco, cunoscut pentru super-iahturile sale impresionante.",
-      en: "The main harbor of Monaco, famous for its impressive superyachts."
-    },
-    facts: {
-      de: ["Einziger Tiefwasserhafen Monacos", "Seit der Antike genutzt", "Schauplatz der Monaco Yacht Show", "Zentrum des Grand-Prix-Geschehens"],
-      hu: ["Monaco egyetlen mélyvízi kikötője", "Az ókor óta használják", "A Monaco Yacht Show helyszíne", "A nagydíj eseményeinek központja"],
-      ro: ["Singurul port cu apă adâncă din Monaco", "Folosit încă din antichitate", "Locul de desfășurare a Monaco Yacht Show", "Centrul activităților Marelui Premiu"],
-      en: ["Monaco's only deep-water port", "Used since ancient times", "Site of the Monaco Yacht Show", "Center of Grand Prix activity"]
-    }, image: "/poi-images/landmark-port-hercules.webp"},
   {
     id: "landmark-larvotto-beach",
     type: "landmark",
@@ -291,42 +237,6 @@ export const monacoLandmarks: POI[] = [
       ro: ["Locul desfășurării tragerilor la sorți UEFA", "Mari expoziții de artă vara", "Clădire ecologică", "Construită în mare parte subteran"],
       en: ["Venue for UEFA draws", "Large art exhibitions in summer", "Eco-friendly building", "Mostly built underground"]
     }, image: "/poi-images/landmark-grimaldi-forum.webp"},
-  {
-    id: "landmark-saint-devote-chapel",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4195, 43.7371],
-    name: { de: "Sainte-Dévote Kapelle", hu: "Szent Dévote kápolna", ro: "Capela Sainte-Dévote", en: "Sainte-Dévote Chapel" },
-    description: {
-      de: "Eine kleine Kapelle gewidmet der Schutzpatronin von Monaco.",
-      hu: "Kis kápolna Monaco védőszentjének szentelve.",
-      ro: "O mică chapelă dedicată patroanei spirituale a Monaco.",
-      en: "A small chapel dedicated to the patron saint of Monaco."
-    },
-    facts: {
-      de: ["Liegt in einer Senke des Grand Prix Kurses", "Sainte-Dévote ist die Schutzpatronin", "Ort der traditionellen Verbrennung eines Bootes am 26. Januar", "Erste Kurve der F1-Rennstrecke"],
-      hu: ["A nagydíj pálya egyik mélyedésében fekszik", "Szent Dévote a védőszent", "Január 26-án itt égetnek el hagyományosan egy csónakot", "A Forma-1-es pálya első kanyarja"],
-      ro: ["Situată într-o depresiune a circuitului de Mare Premiu", "Sainte-Dévote este patroana spirituală", "Locul tradiționalei arderi a unei bărci pe 26 ianuarie", "Prima curbă a circuitului de F1"],
-      en: ["Located in a dip of the Grand Prix course", "Sainte-Dévote is the patron saint", "Site of traditional boat burning on Jan 26", "First corner of the F1 circuit"]
-    }, image: "/poi-images/landmark-saint-devote-chapel.webp"},
-  {
-    id: "landmark-fort-antoine",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4271, 43.7311],
-    name: { de: "Fort Antoine", hu: "Fort Antoine", ro: "Fort Antoine", en: "Fort Antoine" },
-    description: {
-      de: "Eine Festung aus dem 18. Jahrhundert, die heute als Freilichttheater genutzt wird.",
-      hu: "18. századi erődítmény, amelyet ma szabadtéri színházként használnak.",
-      ro: "O fortăreață din secolul al XVIII-lea, folosită astăzi ca teatru în aer liber.",
-      en: "An 18th-century fortress now used as an open-air theater."
-    },
-    facts: {
-      de: ["Erbaut von Fürst Antoine I.", "Blick auf das Mittelmeer", "Im Zweiten Weltkrieg zerstört und später wieder aufgebaut", "Bietet Platz für 350 Zuschauer"],
-      hu: ["I. Antoine herceg építtette", "Kilátás a Földközi-tengerre", "A második világháborúban elpusztult, később újjáépítették", "350 néző befogadására alkalmas"],
-      ro: ["Construit de Prințul Antoine I", "Vedere spre Marea Mediterană", "Distrus în al Doilea Război Mondial și reconstruit ulterior", "Capacitate de 350 de spectatori"],
-      en: ["Built by Prince Antoine I", "Overlooks the Mediterranean", "Destroyed in WWII and later rebuilt", "Accommodates 350 spectators"]
-    }, image: "/poi-images/landmark-fort-antoine.webp"},
   {
     id: "landmark-louis-ii-stadium",
     type: "landmark",
@@ -510,24 +420,6 @@ export const monacoLandmarks: POI[] = [
       en: ["Founded in 1954 by Prince Rainier III", "Houses animals rescued from illegal trade or donations", "Overlooks Fontvieille harbor", "Specializes in exotic birds and primates"]
     }, image: "/poi-images/landmark-zoological-garden.webp"},
   {
-    id: "landmark-museum-prehistoric",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4141, 43.7331],
-    name: { de: "Museum für prähistorische Anthropologie", hu: "Őstörténeti Antropológiai Múzeum", ro: "Muzeul de Antropologie Preistorică", en: "Museum of Prehistoric Anthropology" },
-    description: {
-      de: "Ein Museum, das die prähistorische Geschichte der Region dokumentiert.",
-      hu: "A régió őstörténetét dokumentáló múzeum.",
-      ro: "Un muzeu care documentează istoria preistorică a regiunii.",
-      en: "A museum documenting the prehistoric history of the region."
-    },
-    facts: {
-      de: ["Gegründet 1902", "Beinhaltet Funde aus lokalen Höhlen", "Čltestes Forschungsinstitut des Fürstentums", "Befindet sich im Exotischen Garten"],
-      hu: ["1902-ben alapították", "Helyi barlangokból származó leletek", "A hercegség legrégebbi kutatóintézete", "Az Egzotikus kertben található"],
-      ro: ["Fondat în 1902", "Conține descoperiri din peșterile locale", "Cea mai veche instituție de cercetare a principatului", "Situat în Grădina Exotică"],
-      en: ["Founded in 1902", "Includes finds from local caves", "Principality's oldest research institute", "Located in the Exotic Garden"]
-    }, image: "/poi-images/landmark-museum-prehistoric.webp"},
-  {
     id: "landmark-place-du-casino",
     type: "landmark",
     parent: "country-monaco",
@@ -637,24 +529,6 @@ export const monacoLandmarks: POI[] = [
       ro: ["Construită în secolul al XVII-lea", "Situată în Place de la Mairie", "Procesiuni religioase importante", "Interior baroc"],
       en: ["Built in the 17th century", "Located on Place de la Mairie", "Important religious processions", "Baroque interior"]
     }, image: "/poi-images/landmark-chapelle-misericorde.webp"},
-  {
-    id: "landmark-heliport",
-    type: "landmark",
-    parent: "country-monaco",
-    coords: [7.4168, 43.7258],
-    name: { de: "Heliport von Monaco", hu: "Monacói heliport", ro: "Heliportul Monaco", en: "Monaco Heliport" },
-    description: {
-      de: "Der Hubschrauberlandeplatz von Monaco, der eine schnelle Verbindung zum Flughafen Nizza bietet.",
-      hu: "Monaco helikopter-repülőtere, amely gyors összeköttetést biztosít a nizzai repülőtérrel.",
-      ro: "Heliportul din Monaco, care oferă o conexiune rapidă cu aeroportul din Nisa.",
-      en: "Monaco's heliport providing a quick link to Nice Airport."
-    },
-    facts: {
-      de: ["Direkt am Meer in Fontvieille", "Flugzeit nach Nizza ca. 7 Minuten", "Einziger 'Flughafen' Monacos", "Regelmäßiger Linienverkehr"],
-      hu: ["Közvetlenül a tengerparton Fontvieille-ben", "Repülési idő Nizzába kb. 7 perc", "Monaco egyetlen 'repülőtere'", "Rendszeres menetrend szerinti járatok"],
-      ro: ["Direct pe malul mării în Fontvieille", "Timp de zbor spre Nisa aprox. 7 minute", "Singurul 'aeroport' din Monaco", "Zboruri regulate de linie"],
-      en: ["Directly on the seafront in Fontvieille", "Flight time to Nice approx. 7 mins", "Monaco's only 'airport'", "Regular scheduled flights"]
-    }, image: "/poi-images/landmark-heliport.webp"}
 ];
 
 export const monacoRegionsPoi: POI[] = [

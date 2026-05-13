@@ -7,54 +7,89 @@ export const poiExtraUgandaLifeV2: POI[] = [
     type: "animal-habitat",
     parent: "UG-TO",
     coords: [29.9333, -0.2167],
-    name: { de: "Queen-Elizabeth-Nationalpark", hu: "Queen Elizabeth Nemzeti Park", ro: "Parcul Național Queen Elizabeth", en: "Queen Elizabeth National Park",
-image: "/poi-images/queen-elizabeth-park-life-v2.webp"
-},
+    name: { de: "Queen-Elizabeth-Nationalpark", hu: "Queen Elizabeth Nemzeti Park", ro: "Parcul Național Queen Elizabeth", en: "Queen Elizabeth National Park"},
+    image: "/poi-images/queen-elizabeth-park-life-v2.webp",
     description: { de: "Ein bedeutendes Wildtiergebiet mit Löwen und Elefanten.", hu: "Jelentős vadrezervátum oroszlánokkal és elefántokkal.", ro: "O arie protejată importantă cu lei și elefanți.", en: "A significant wildlife area with lions and elephants." },
     facts: {
       de: ["Heimat der berühmten kletternden Löwen.", "Bietet Bootsfahrten auf dem Kazinga-Kanal."],
       hu: ["A híres fára mászó oroszlánok otthona.", "Csónakázási lehetőség a Kazinga-csatornán."],
       ro: ["Acasă pentru faimoșii lei cățărători.", "Oferă plimbări cu barca pe canalul Kazinga."],
       en: ["Home to the famous tree-climbing lions.", "Offers boat cruises on the Kazinga Channel."]
-    }, image: "/poi-images/queen-elizabeth-park-life-v2.webp"},
+    }, image: "/poi-images/queen-elizabeth-park-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Queen-Elizabeth-Nationalpark liegt im Westen Ugandas an den Ufern des Edwardsees und des Georgsees. Der 1978 eingerichtete Park umfasst Savannen, Feuchtgebiete und tropische Wälder. Bekannt ist er für seine vielfältige Vogelwelt mit über 600 Arten, darunter der seltene Schuhschnabel. Die Kazinga-Kanalfähre bietet Beobachtungsmöglichkeiten von Flusspferden, Krokodilen und Elefanten. Der Park grenzt an den Demokratischen Republik Kongo und ist Teil des Virunga-Naturschutzgebiets. Er beherbergt 22 Säugetierarten, darunter Löwen, Leoparden und Schimpansen. Die Fläche beträgt 1.978 km².",
+      hu: "A Queen Elizabeth Nemzeti Park Uganda nyugati részén található, az Edward- és a George-tó partján. 1978-ban alapították, területe szavannát, vizes élőhelyeket és trópusi erdőket foglal magában. Több mint 600 madárfajnak ad otthont, köztük a ritka papucscsőrűmadárnak. A Kazinga-csatorna hajóútról vízilovak, krokodilok és elefántok figyelhetők meg. A park a Kongói Demokratikus Köztársasággal határos, és a Virunga Természetvédelmi Terület része. 22 emlősfaj él itt, például oroszlán, leopárd és csimpánz. Területe 1978 km².",
+      ro: "Parcul Național Queen Elizabeth se află în vestul Ugandei, pe malurile lacurilor Edward și George. Înființat în 1978, parcul cuprinde savane, zone umede și păduri tropicale. Este renumit pentru peste 600 de specii de păsări, inclusiv rarul bec-în-cușcă. Plimbarea cu barca pe Canalul Kazinga oferă observarea hipopotamilor, crocodililor și elefanților. Parcul se învecinează cu Republica Democratică Congo și face parte din aria protejată Virunga. Adăpostește 22 de specii de mamifere, cum ar fi lei, leoparzi și cimpanzei. Suprafața sa este de 1.978 km².",
+      en: "Queen Elizabeth National Park in western Uganda spans 1,978 km² between Lake Edward and Lake George. Established in 1978, it features diverse ecosystems: savanna, wetlands, and forests. It is famous for its high biodiversity, including over 600 bird species and 22 mammal species. The park's Kazinga Channel boat tour offers close encounters with hippos, crocodiles, and elephants. It is also home to tree-climbing lions, a rare behavior seen in the Ishasha sector. The park lies within the Virunga Conservation Area and shares a border with the Democratic Republic of Congo.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1978", "Fläche: 1.978 km²", "Vogelarten: über 600", "Säugetierarten: 22", "Länge des Kazinga-Kanals: 32 km", "Durchschnittliche jährliche Besucherzahl: ca. 150.000"],
+      hu: ["Alapítás éve: 1978", "Terület: 1978 km²", "Madárfajok: több mint 600", "Emlősfajok: 22", "Kazinga-csatorna hossza: 32 km", "Éves látogatószám: kb. 150 000"],
+      ro: ["Anul înființării: 1978", "Suprafață: 1.978 km²", "Specii de păsări: peste 600", "Specii de mamifere: 22", "Lungimea Canalului Kazinga: 32 km", "Vizitatori anuali: aproximativ 150.000"],
+      en: ["Year established: 1978", "Area: 1,978 km²", "Bird species: >600", "Mammal species: 22", "Kazinga Channel length: 32 km", "Average annual visitors: ~150,000"],
+    },
+  },
   {
     id: "murchison-falls-life-v2",
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [31.6833, 2.275],
-    name: { de: "Murchison-Falls-Nationalpark", hu: "Murchison-vízesés Nemzeti Park", ro: "Parcul Național Murchison Falls", en: "Murchison Falls National Park",
-image: "/poi-images/murchison-falls-life-v2.webp"
-},
+    name: { de: "Murchison-Falls-Nationalpark", hu: "Murchison-vízesés Nemzeti Park", ro: "Parcul Național Murchison Falls", en: "Murchison Falls National Park"},
+    image: "/poi-images/murchison-falls-life-v2.webp",
     description: { de: "Ugandas größter Nationalpark mit spektakulären Wasserfällen.", hu: "Uganda legnagyobb nemzeti parkja látványos vízesésekkel.", ro: "Cel mai mare parc național din Uganda cu cascade spectaculoase.", en: "Uganda's largest national park with spectacular waterfalls." },
     facts: {
       de: ["Der Nil zwängt sich hier durch eine enge Schlucht.", "Beheimatet viele Flusspferde und Krokodile."],
       hu: ["A Nílus egy szűk szurdokon keresztül tör át.", "Sok víziló és krokodil otthona."],
       ro: ["Nilul trece printr-o defileu îngust.", "Găzduiește mulți hipopotami și crocodili."],
       en: ["The Nile forces through a narrow gorge here.", "Home to many hippos and crocodiles."]
-    }, image: "/poi-images/murchison-falls-life-v2.webp"},
+    }, image: "/poi-images/murchison-falls-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Murchison-Falls-Nationalpark ist das größte Schutzgebiet Ugandas mit 3.893 km². Er wurde 1952 gegründet und umfasst den Victoriasee-Abfluss des Nils. Die Murchison-Fälle, bei denen der Nil durch eine nur 7 Meter breite Schlucht stürzt, sind die Hauptattraktion. Der Park beherbergt Giraffen, Elefanten, Büffel, Löwen und Leoparden. Die Vogelwelt umfasst über 450 Arten. Der Park wurde 2012 von Rebellenangriffen betroffen, erholt sich aber. Die Fälle fallen 43 Meter tief und erzeugen einen Gischt, der Regenbögen bildet.",
+      hu: "A Murchison-vízesés Nemzeti Park Uganda legnagyobb védett területe, 3893 km²-en terül el. 1952-ben alapították, és magában foglalja a Nílus Viktória-tóból való kifolyását. A Murchison-vízesés, ahol a Nílus egy mindössze 7 méter széles szurdokon zúdul át, a fő látványosság. A parkban zsiráfok, elefántok, bivalyok, oroszlánok és leopárdok élnek. Több mint 450 madárfajt tart nyilván. A parkot 2012-ben lázadók támadták meg, de mára helyreállt. A vízesés magassága 43 méter, és a permet gyakran szivárványt hoz létre.",
+      ro: "Parcul Național Murchison Falls este cea mai mare arie protejată din Uganda, cu o suprafață de 3.893 km². Înființat în 1952, cuprinde sectorul Nilului care iese din Lacul Victoria. Căderea Murchison, unde Nilul se îngustează la 7 metri, este principala atracție. Parcul găzduiește girafe, elefanți, bivoli, lei și leoparzi. Sunt înregistrate peste 450 de specii de păsări. Parcul a fost afectat de atacuri ale rebelilor în 2012, dar se reface. Căderea are o înălțime de 43 de metri, iar stropii creează curcubee.",
+      en: "Murchison Falls National Park, Uganda's largest protected area, covers 3,893 km² in the northwestern part of the country. Established in 1952, it encompasses the Victoria Nile as it plunges through a 7m gorge creating the magnificent Murchison Falls, which drops 43 m. The park is famous for its wildlife: elephants, giraffes, lions, leopards, and the rare shoebill stork. The Albert Nile section offers boat trips to the base of the falls. The park's diverse habitats include savanna, woodland, and riverine forest. It suffered from poaching and conflict in the 1970s-80s but has since recovered substantially.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1952", "Fläche: 3.893 km²", "Höhe der Fälle: 43 Meter", "Breite der Schlucht: 7 Meter", "Vogelarten: über 450", "Nil-Wasserfall-Volumen: ca. 300 m³/s"],
+      hu: ["Alapítás éve: 1952", "Terület: 3893 km²", "Vízesés magasság: 43 méter", "Szurdok szélessége: 7 méter", "Madárfajok: több mint 450", "Víztömeg: kb. 300 m³/s"],
+      ro: ["Anul înființării: 1952", "Suprafață: 3.893 km²", "Înălțimea căderii: 43 m", "Lățimea defileului: 7 m", "Specii de păsări: >450", "Debit mediu: ~300 m³/s"],
+      en: ["Year established: 1952", "Area: 3,893 km²", "Falls height: 43 m", "Gorge width: 7 m", "Bird species: >450", "River flow: ~300 m³/s"],
+    },
+  },
   {
     id: "kibale-forest-life-v2",
     type: "animal-habitat",
     parent: "UG-KO",
     coords: [30.342, 0.491],
-    name: { de: "Kibale-Forest-Nationalpark", hu: "Kibale Forest Nemzeti Park", ro: "Parcul Național Kibale Forest", en: "Kibale Forest National Park",
-image: "/poi-images/kibale-forest-life-v2.webp"
-},
+    name: { de: "Kibale-Forest-Nationalpark", hu: "Kibale Forest Nemzeti Park", ro: "Parcul Național Kibale Forest", en: "Kibale Forest National Park"},
+    image: "/poi-images/kibale-forest-life-v2.webp",
     description: { de: "Weltberühmt für die höchste Dichte an Primaten.", hu: "Világhírű a főemlősök legmagasabb sűrűségéről.", ro: "Faimos pentru cea mai mare densitate de primate.", en: "World-famous for having the highest density of primates." },
     facts: {
       de: ["Ein Hotspot für Schimpansen-Tracking.", "Mehr als 1.500 Schimpansen leben hier."],
       hu: ["Csimpánzfigyelés központja.", "Több mint 1500 csimpánz él itt."],
       ro: ["Un centru pentru urmărirea cimpanzeilor.", "Peste 1.500 de cimpanzei trăiesc aici."],
       en: ["A hotspot for chimpanzee tracking.", "Over 1,500 chimpanzees live here."]
-    }, image: "/poi-images/kibale-forest-life-v2.webp"},
+    }, image: "/poi-images/kibale-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kibale-Wald-Nationalpark im Westen Ugandas ist bekannt für seine hohe Schimpansenpopulation. Auf 795 km² beherbergt er 13 Primatenarten, darunter Schimpansen, Rote Stummelaffen und Meerkatzen. Der Park wurde 1993 gegründet und schützt einen der letzten verbliebenen tropischen Regenwälder Ostafrikas. Die Schimpansenpopulation wird auf etwa 1.500 Individuen geschätzt. Geführte Wanderungen ermöglichen Begegnungen mit diesen Menschenaffen. Die Tierwelt umfasst auch Waldelefanten, Büffel und mehr als 370 Vogelarten. Der Park liegt auf einer Höhe von 1.100 bis 1.600 Metern.",
+      hu: "A Kibale-erdő Nemzeti Park Uganda nyugati részén található, és magas csimpánzpopulációjáról híres. 795 km²-en 13 főemlősfaj él, köztük csimpánz, vörös colobusz és cerkóf. A parkot 1993-ban alapították, és Kelet-Afrika egyik utolsó esőerdőit védi. A csimpánzok számát körülbelül 1500 egyedre becsülik. Vezetett túrákon lehet megfigyelni az emberszabásúakat. Az állatvilágban erdei elefánt, bivaly és több mint 370 madárfaj is megtalálható. A park tengerszint feletti magassága 1100-1600 méter.",
+      ro: "Parcul Național Pădurea Kibale, din vestul Ugandei, este renumit pentru populația sa mare de cimpanzei. Pe 795 km² adăpostește 13 specii de primate, inclusiv cimpanzei, colobi roșii și maimuțe vervet. Înființat în 1993, parcul protejează una dintre ultimele păduri tropicale din Africa de Est. Populația de cimpanzei este estimată la aproximativ 1.500 de indivizi. Drumețiile ghidate permit întâlniri cu aceste maimuțe. Fauna include elefanți de pădure, bivoli și peste 370 de specii de păsări. Altitudinea parcului variază între 1.100 și 1.600 m.",
+      en: "Kibale Forest National Park in western Uganda is a premier destination for chimpanzee tracking. Covering 795 km², it was established in 1993 to protect one of East Africa's last remaining tropical rainforests. The park hosts 13 primate species, with an estimated 1,500 chimpanzees making it one of Africa's highest densities. Other wildlife includes forest elephants, buffaloes, and over 370 bird species. The park's altitude ranges from 1,100 to 1,600 m. The Kanyanchu chimpanzee community, habituated for tourism, consists of about 140 individuals. The park also features crater lakes and diverse flora.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1993", "Fläche: 795 km²", "Primatenarten: 13", "Schimpansenpopulation: ca. 1.500", "Vogelarten: über 370", "Höhenlage: 1.100 - 1.600 m"],
+      hu: ["Alapítás éve: 1993", "Terület: 795 km²", "Főemlősfajok: 13", "Csimpánzpopuláció: kb. 1500", "Madárfajok: több mint 370", "Magassági tartomány: 1100-1600 m"],
+      ro: ["Anul înființării: 1993", "Suprafață: 795 km²", "Specii de primate: 13", "Estimare chimpanzei: ~1.500", "Specii de păsări: >370", "Altitudine: 1.100-1.600 m"],
+      en: ["Year established: 1993", "Area: 795 km²", "Primate species: 13", "Chimpanzee population: ~1,500", "Bird species: >370", "Altitude range: 1,100-1,600 m"],
+    },
+  },
   {
     id: "bwindi-impenetrable-life-v2",
     type: "animal-habitat",
     parent: "UG-KS",
     coords: [29.6833, -1.0333],
-    name: { de: "Bwindi-Impenetrable-Nationalpark", hu: "Bwindi Impenetrable Nemzeti Park", ro: "Parcul Național Bwindi Impenetrable", en: "Bwindi Impenetrable National Park",
-image: "/poi-images/bwindi-impenetrable-life-v2.webp"
-},
+    name: { de: "Bwindi-Impenetrable-Nationalpark", hu: "Bwindi Impenetrable Nemzeti Park", ro: "Parcul Național Bwindi Impenetrable", en: "Bwindi Impenetrable National Park"},
+    image: "/poi-images/bwindi-impenetrable-life-v2.webp",
     description: { de: "Ein UNESCO-Welterbe und Zufluchtsort für Berggorillas.", hu: "UNESCO világörökségi helyszín és a hegyi gorillák menedéke.", ro: "Un sit al patrimoniului UNESCO și refugiu pentru gorilele de munte.", en: "A UNESCO World Heritage site and sanctuary for mountain gorillas." },
     facts: {
       de: ["Beherbergt etwa die Hälfte der weltweiten Berggorilla-Population.", "Extrem dichter Bergregenwald."],
@@ -67,380 +102,675 @@ image: "/poi-images/bwindi-impenetrable-life-v2.webp"
     type: "animal-habitat",
     parent: "UG-KI",
     coords: [30.9333, -0.6],
-    name: { de: "Lake-Mburo-Nationalpark", hu: "Lake Mburo Nemzeti Park", ro: "Parcul Național Lake Mburo", en: "Lake Mburo National Park",
-image: "/poi-images/lake-mburo-life-v2.webp"
-},
+    name: { de: "Lake-Mburo-Nationalpark", hu: "Lake Mburo Nemzeti Park", ro: "Parcul Național Lake Mburo", en: "Lake Mburo National Park"},
+    image: "/poi-images/lake-mburo-life-v2.webp",
     description: { de: "Ein kleiner Park bekannt für seine vielen Antilopenarten.", hu: "Egy kisebb park, amely sok antilopfajáról ismert.", ro: "Un parc mai mic cunoscut pentru numeroasele specii de antilope.", en: "A smaller park known for its many antelope species." },
     facts: {
       de: ["Einziger Park mit Zebras in großer Zahl im Südwesten.", "Bekannt für Walking-Safaris."],
       hu: ["Az egyetlen park sok zebrával a délnyugati régióban.", "Ismert a gyalogos szafarikról."],
       ro: ["Singurul parc cu zebre în număr mare în sud-vest.", "Cunoscut pentru safari-urile pe jos."],
       en: ["Only park with zebras in large numbers in the southwest.", "Known for walking safaris."]
-    }, image: "/poi-images/lake-mburo-life-v2.webp"},
+    }, image: "/poi-images/lake-mburo-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Lake-Mburo-Nationalpark im Westen Ugandas ist mit 370 km² der kleinste Savannenpark des Landes. Er wurde 1983 gegründet und schützt fünf Seen, darunter den Lake Mburo. Der Park beherbergt Zebras, Impalas, Elenantilopen und Büffel. Er ist Teil des Lake-Mburo-Systems und beheimatet Krokodile und Flusspferde. Der Park wird von einer großen Anzahl von Warzenschweinen bewohnt. Es gibt über 300 Vogelarten. Der Park liegt auf einer Höhe von etwa 1.500 Metern. Er grenzt an landwirtschaftliche Flächen, was zu Konflikten mit Bauern führt.",
+      hu: "A Lake Mburo Nemzeti Park Uganda nyugati részén található, 370 km²-es területével a legkisebb szavannapark az országban. 1983-ban alapították, és öt tavat foglal magában, köztük a Mburo-tavat. A parkban zebrák, impalák, jávorantilopok és bivalyok élnek. A Mburo-tórendszer része, krokodilokkal és vízilovakkal. Nagyszámú varacskosdisznó is él itt. Több mint 300 madárfaj található. A park kb. 1500 méter tengerszint feletti magasságban fekszik. Mezőgazdasági területekkel határos, ami konfliktusokhoz vezet a gazdákkal.",
+      ro: "Parcul Național Lacul Mburo, în vestul Ugandei, este cel mai mic parc de savană din țară, cu 370 km². Înființat în 1983, cuprinde cinci lacuri, inclusiv Lacul Mburo. Parcul găzduiește zebre, impala, eland și bivoli. Face parte din sistemul lacustru Mburo, cu crocodili și hipopotami. Parcul are o populație mare de porci mistreți. Peste 300 de specii de păsări sunt prezente. Altitudinea medie este de aproximativ 1.500 m. Se învecinează cu terenuri agricole, generând conflicte cu fermierii. Este singurul parc din Uganda cu zebrele lui Grant.",
+      en: "Lake Mburo National Park in western Uganda is the country's smallest savanna park, covering 370 km². Established in 1983, it features five lakes, with Lake Mburo being the largest. The park is notable for hosting the only population of impala in Uganda and large herds of zebra. Other wildlife includes eland, buffalo, hippos, and crocodiles. It is part of the Lake Mburo-Byaro-Kakyera wetland system. The park has over 300 bird species. Its altitude of about 1,500 m creates a unique microclimate. Human-wildlife conflict exists due to surrounding agricultural communities. The park is a popular weekend destination from Kampala.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1983", "Fläche: 370 km²", "Seen: 5", "Vogelarten: über 300", "Höhe: ca. 1.500 m", "Impalapopulation: einzige in Uganda"],
+      hu: ["Alapítás éve: 1983", "Terület: 370 km²", "Tavak: 5", "Madárfajok: több mint 300", "Tengerszint feletti magasság: kb. 1500 m", "Impala előfordulás: egyedül itt Ugandában"],
+      ro: ["Anul înființării: 1983", "Suprafață: 370 km²", "Lacuri: 5", "Specii de păsări: >300", "Altitudine: ~1.500 m", "Singurul parc cu impala în Uganda"],
+      en: ["Year established: 1983", "Area: 370 km²", "Lakes: 5", "Bird species: >300", "Average altitude: 1,500 m", "Unique: only park in Uganda with impala"],
+    },
+  },
   {
     id: "kidepo-valley-life-v2",
     type: "animal-habitat",
     parent: "UG-KA",
     coords: [33.7833, 3.7333],
-    name: { de: "Kidepo-Valley-Nationalpark", hu: "Kidepo Valley Nemzeti Park", ro: "Parcul Național Kidepo Valley", en: "Kidepo Valley National Park",
-image: "/poi-images/kidepo-valley-life-v2.webp"
-},
+    name: { de: "Kidepo-Valley-Nationalpark", hu: "Kidepo Valley Nemzeti Park", ro: "Parcul Național Kidepo Valley", en: "Kidepo Valley National Park"},
+    image: "/poi-images/kidepo-valley-life-v2.webp",
     description: { de: "Ein abgelegener und ursprünglicher Nationalpark.", hu: "Egy távoli és érintetlen nemzeti park.", ro: "Un parc național izolat și virgin.", en: "A remote and unspoiled national park." },
     facts: {
       de: ["Wilde Landschaften mit vielen Geparden.", "Einer der besten Orte für die Tierbeobachtung."],
       hu: ["Vad tájak sok gepárral.", "Az egyik legjobb hely állatmegfigyelésre."],
       ro: ["Peisaje sălbatice cu mulți gheparzi.", "Unul dintre cele mai bune locuri pentru observarea animalelor."],
       en: ["Wild landscapes with many cheetahs.", "One of the best places for animal viewing."]
-    }, image: "/poi-images/kidepo-valley-life-v2.webp"},
+    }, image: "/poi-images/kidepo-valley-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Kidepo-Valley-Nationalpark liegt im Nordosten Ugandas an der Grenze zu Kenia und Südsudan. Mit 1.442 km² bietet er abgelegene Savannenlandschaften. Der Park wurde 1962 gegründet und ist bekannt für seine großen Herden von Büffeln, Zebras und Elefanten. Raubtiere wie Löwen, Geparden und Hyänen sind häufig zu sehen. Es gibt über 475 Vogelarten. Der Park ist auch von kulturellem Interesse mit Karamojong-Gemeinschaften in der Umgebung. Die Niederschläge sind gering, der Park liegt in der semi-ariden Zone. Der Kidepo-Fluss fließt saisonal.",
+      hu: "A Kidepo-völgy Nemzeti Park Uganda északkeleti részén, Kenya és Dél-Szudán határán található. 1442 km²-en elterülő távoli szavanna. 1962-ben alapították, és nagy bivaly-, zebra- és elefántcsordáiról híres. Ragadozók közül oroszlán, gepárd és hiéna gyakran látható. Több mint 475 madárfaj él itt. A park kulturális jelentőségű is, a környékbeli karamoja közösségekkel. A csapadék kevés, a park fél-száraz övezetben fekszik. A Kidepo folyó időszakos.",
+      ro: "Parcul Național Valea Kidepo, în nord-estul Ugandei, la granița cu Kenya și Sudanul de Sud, se întinde pe 1.442 km² de savană izolată. Înființat în 1962, este cunoscut pentru turmele mari de bivoli, zebre și elefanți. Prădătorii includ lei, gheparzi și hiene. Peste 475 de specii de păsări sunt înregistrate. Parcul are importanță culturală datorită comunităților Karamojong din apropiere. Precipitațiile sunt scăzute, parcul aflându-se într-o zonă semi-aridă. Râul Kidepo este sezonier. Parcul este unul dintre cele mai sălbatice și mai puțin vizitate din Uganda.",
+      en: "Kidepo Valley National Park in northeastern Uganda, bordering Kenya and South Sudan, covers 1,442 km² of remote savanna. Established in 1962, it is known for large herds of buffalo, zebra, and elephants. Predators include lions, cheetahs, and spotted hyenas. The park hosts over 475 bird species, including the ostrich and Abyssinian ground hornbill. The Karamojong people live around the park, preserving traditional pastoralist culture. The semi-arid climate results in sparse vegetation and seasonal rivers. Kidepo is considered one of Africa's finest wildernesses, yet receives few visitors due to its remoteness.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1962", "Fläche: 1.442 km²", "Vogelarten: über 475", "Säugetierarten: über 80", "Niederschlag: ca. 500 mm/Jahr", "Höchster Punkt: 2.750 m (Mount Morungole)"],
+      hu: ["Alapítás éve: 1962", "Terület: 1442 km²", "Madárfajok: több mint 475", "Emlősfajok: több mint 80", "Évi csapadék: kb. 500 mm", "Legmagasabb pont: 2750 m (Morungole-hegy)"],
+      ro: ["Anul înființării: 1962", "Suprafață: 1.442 km²", "Specii de păsări: >475", "Specii de mamifere: >80", "Precipitații anuale: ~500 mm", "Altitudine maximă: 2.750 m (Muntele Morungole)"],
+      en: ["Year established: 1962", "Area: 1,442 km²", "Bird species: >475", "Mammal species: >80", "Annual rainfall: ~500 mm", "Highest point: 2,750 m (Mount Morungole)"],
+    },
+  },
   {
     id: "ngamba-island-life-v2",
     type: "animal-habitat",
     parent: "UG-KI",
     coords: [32.65, 0.05],
-    name: { de: "Ngamba-Insel-Schimpansen-Reservat", hu: "Ngamba-szigeti Csimpánz Rezervátum", ro: "Rezervația de Cimpanzei de pe Insula Ngamba", en: "Ngamba Island Chimpanzee Sanctuary",
-image: "/poi-images/ngamba-island-life-v2.webp"
-},
+    name: { de: "Ngamba-Insel-Schimpansen-Reservat", hu: "Ngamba-szigeti Csimpánz Rezervátum", ro: "Rezervația de Cimpanzei de pe Insula Ngamba", en: "Ngamba Island Chimpanzee Sanctuary"},
+    image: "/poi-images/ngamba-island-life-v2.webp",
     description: { de: "Ein Schutzgebiet für gerettete Schimpansen.", hu: "Védett terület a megmentett csimpánzok számára.", ro: "O arie protejată pentru cimpanzeii salvați.", en: "A sanctuary for rescued chimpanzees." },
     facts: {
       de: ["Liegt im Victoriasee.", "Die Tiere werden hier rehabilitiert."],
       hu: ["A Viktória-tóban található.", "Az állatokat itt rehabilitálják."],
       ro: ["Situată în lacul Victoria.", "Animalele sunt reabilitate aici."],
       en: ["Located in Lake Victoria.", "Animals are rehabilitated here."]
-    }, image: "/poi-images/ngamba-island-life-v2.webp"},
+    }, image: "/poi-images/ngamba-island-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ngamba-Insel im Victoriasee ist ein Schimpansen-Schutzgebiet auf 40 Hektar. Sie wurde 1998 eröffnet und beherbergt etwa 30 Schimpansen, die aus illegalem Wildtierhandel gerettet wurden. Die Insel ist Teil des Koala-Netzwerks und dient der Rehabilitation der Tiere. Besucher können geführte Touren zur Fütterung und Beobachtung unternehmen. Die Insel ist mit dem Boot von Entebbe aus erreichbar. Die Schimpansen leben in natürlicher Umgebung mit Wald und Grasland. Ziel ist die Auswilderung in geschützte Wälder. Die Insel wird vom Chimpanzee Sanctuary & Wildlife Conservation Trust betrieben.",
+      hu: "A Ngamba-sziget a Viktória-tavon egy csimpánzmenhely 40 hektáron. 1998-ban nyílt meg, és körülbelül 30 csimpánznak ad otthont, amelyeket illegális vadkereskedelemből mentettek. A sziget a Koala hálózat része, és a fogságból kimentett csimpánzok rehabilitációját szolgálja. Látogatók etetéseket és megfigyelő túrákat tehetnek. A sziget hajóval érhető el Entebbéből. A csimpánzok természetes erdei és füves környezetben élnek. Céljuk, hogy visszavadítsák őket védett erdőkbe. A szigetet a Csimpánzmenhely és Vadvédelmi Alapítvány üzemelteti.",
+      ro: "Insula Ngamba, pe Lacul Victoria, este un sanctuar pentru cimpanzei pe 40 de hectare. Deschis în 1998, găzduiește aproximativ 30 de cimpanzei salvați din comerțul ilegal cu animale sălbatice. Insula face parte din rețeaua Koala și reabilitează animalele. Vizitatorii pot face tururi ghidate de hrănire și observare. Insula este accesibilă cu barca din Entebbe. Cimpanzeii trăiesc într-un mediu natural cu pădure și pajiști. Scopul este eliberarea în păduri protejate. Sanctuarul este administrat de Chimpanzee Sanctuary & Wildlife Conservation Trust.",
+      en: "Ngamba Island, on Lake Victoria, is a 40-hectare chimpanzee sanctuary established in 1998. It currently hosts around 30 chimpanzees rescued from illegal wildlife trade and poaching. The sanctuary provides a semi-wild habitat with forest and grassland. Visitors can join guided tours for feeding sessions and close observations. The island is a 45-minute boat ride from Entebbe. The chimpanzees are organized into social groups and receive veterinary care. The ultimate goal is to reintroduce them into protected forests. The sanctuary is run by the Chimpanzee Sanctuary & Wildlife Conservation Trust (CSWCT).",
+    },
+    factsAdvanced: {
+      de: ["Eröffnungsjahr: 1998", "Fläche: 40 Hektar", "Schimpansenanzahl: ca. 30", "Entfernung von Entebbe: 45 Minuten mit dem Boot", "Träger: Chimpanzee Sanctuary & Wildlife Conservation Trust", "Seehöhe: 1.133 m"],
+      hu: ["Megnyitás éve: 1998", "Terület: 40 hektár", "Csimpánzok száma: kb. 30", "Távolság Entebbétől: 45 perc hajóval", "Üzemeltető: Csimpánzmenhely és Vadvédelmi Alapítvány", "Tengerszint feletti magasság: 1133 m"],
+      ro: ["Anul deschiderii: 1998", "Suprafață: 40 ha", "Număr de cimpanzei: ~30", "Distanță de Entebbe: 45 min cu barca", "Administrator: CSWCT", "Altitudine: 1.133 m"],
+      en: ["Year opened: 1998", "Area: 40 ha", "Chimpanzee residents: ~30", "Boat trip from Entebbe: 45 min", "Operator: CSWCT", "Lake elevation: 1,133 m"],
+    },
+  },
   {
     id: "ziwa-rhino-life-v2",
     type: "animal-habitat",
     parent: "UG-NA",
     coords: [32.06, 1.33],
-    name: { de: "Ziwa-Nashorn-Schutzgebiet", hu: "Ziwa Orrszarvú Rezervátum", ro: "Rezervația de Rinoceri Ziwa", en: "Ziwa Rhino Sanctuary",
-image: "/poi-images/ziwa-rhino-life-v2.webp"
-},
+    name: { de: "Ziwa-Nashorn-Schutzgebiet", hu: "Ziwa Orrszarvú Rezervátum", ro: "Rezervația de Rinoceri Ziwa", en: "Ziwa Rhino Sanctuary"},
+    image: "/poi-images/ziwa-rhino-life-v2.webp",
     description: { de: "Der einzige Ort in Uganda, wo Nashörner gezüchtet werden.", hu: "Az egyetlen hely Ugandában, ahol orrszarvúkat tenyésztenek.", ro: "Singurul loc din Uganda unde rinocerii sunt crescuți.", en: "The only place in Uganda where rhinos are bred." },
     facts: {
       de: ["Erfolgreiche Wiedereinführung der Nashörner.", "Schutz vor Wilderei."],
       hu: ["Sikeres orrszarvú-visszatelepítés.", "Védelem az orvvadászat ellen."],
       ro: ["Reintroducerea cu succes a rinocerilor.", "Protecție împotriva braconajului."],
       en: ["Successful rhino reintroduction.", "Protection against poaching."]
-    }, image: "/poi-images/ziwa-rhino-life-v2.webp"},
+    }, image: "/poi-images/ziwa-rhino-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ziwa-Rhino-Schutzgebiet in Zentraluganda ist ein 70 km² großes Wildreservat, das 2005 gegründet wurde. Es beherbergt derzeit etwa 30 Breitmaulnashörner, die seit 2005 wieder eingeführt wurden. Das Gebiet schützt Nashörner vor Wilderern mit patrouillierenden Rangern. Besucher können die Tiere zu Fuß oder mit dem Auto beobachten. Das Reservat liegt zwischen den Städten Gulu und Kampala. Ziel ist die Wiederansiedlung einer sich selbst tragenden Population. Das Gebiet ist auch Heimat von Büffeln, Buschböcken und über 300 Vogelarten.",
+      hu: "A Ziwa Orrszarvú-menedék Közép-Ugandában egy 70 km²-es rezervátum, amelyet 2005-ben alapítottak. Jelenleg körülbelül 30 szélesszájú orrszarvúnak ad otthont, amelyeket 2005 óta telepítettek vissza. A területet vadőrök járőrözésével védik az orvvadászoktól. Látogatók gyalog vagy autóval figyelhetik meg az állatokat. A rezervátum Gulu és Kampala városai között található. Cél egy önfenntartó populáció létrehozása. A területen bivalyok, buck antilopok és több mint 300 madárfaj is él.",
+      ro: "Sanctuarul de rinoceri Ziwa, în Uganda centrală, este o rezervație de 70 km² înființată în 2005. Adăpostește aproximativ 30 de rinoceri albi, reintroduși începând cu 2005. Sanctuarul este păzit de rangeri pentru a preveni braconajul. Vizitatorii pot observa animalele pe jos sau cu mașina. Rezervația se află între orașele Gulu și Kampala. Scopul este stabilirea unei populații viabile. Zona găzduiește și bivoli, antilope și peste 300 de specii de păsări.",
+      en: "Ziwa Rhino Sanctuary in central Uganda is a 70 km² private reserve established in 2005 to reintroduce white rhinos to the wild. It currently holds about 30 individuals, all offspring of founder animals. The sanctuary is guarded by armed rangers to deter poachers. Visitors can track rhinos on foot or by vehicle. Located between Kampala and Gulu, the sanctuary is a success story in conservation. Besides rhinos, the reserve hosts buffalo, bushbuck, and over 300 bird species. The ultimate aim is to eventually reintroduce rhinos into national parks like Murchison Falls.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 2005", "Fläche: 70 km²", "Nashornbestand: ca. 30", "Nashornart: Breitmaulnashorn", "Personal: über 40 Ranger", "Vogelarten: über 300"],
+      hu: ["Alapítás éve: 2005", "Terület: 70 km²", "Orrszarvúak száma: kb. 30", "Faj: szélesszájú orrszarvú", "Vadőrök: több mint 40", "Madárfajok: több mint 300"],
+      ro: ["Anul înființării: 2005", "Suprafață: 70 km²", "Număr de rinoceri: ~30", "Specie: rinocer alb", "Paznici: peste 40 de rangeri", "Specii de păsări: >300"],
+      en: ["Year established: 2005", "Area: 70 km²", "Rhino population: ~30", "Species: Southern white rhino", "Rangers: >40", "Bird species: >300"],
+    },
+  },
   {
     id: "rwenzori-mountains-life-v2",
     type: "animal-habitat",
     parent: "UG-KA",
     coords: [29.8833, 0.3833],
-    name: { de: "Rwenzori-Mountains-Nationalpark", hu: "Rwenzori-hegység Nemzeti Park", ro: "Parcul Național Munții Rwenzori", en: "Rwenzori Mountains National Park",
-image: "/poi-images/rwenzori-mountains-life-v2.webp"
-},
+    name: { de: "Rwenzori-Mountains-Nationalpark", hu: "Rwenzori-hegység Nemzeti Park", ro: "Parcul Național Munții Rwenzori", en: "Rwenzori Mountains National Park"},
+    image: "/poi-images/rwenzori-mountains-life-v2.webp",
     description: { de: "Bekannt als die 'Mondberge' mit einzigartiger Flora.", hu: "A 'Hold hegyeiként' ismert, egyedülálló növényvilággal.", ro: "Cunoscuți sub numele de 'Munții Lunii', cu o floră unică.", en: "Known as the 'Mountains of the Moon' with unique flora." },
     facts: {
       de: ["Gletscherbedeckte Gipfel.", "Heimat seltener Bergtierarten."],
       hu: ["Gleccserekkel borított csúcsok.", "Ritka hegyi állatfajok otthona."],
       ro: ["Vârfuri acoperite de ghețari.", "Acasă pentru specii rare de animale montane."],
       en: ["Glacier-capped peaks.", "Home to rare mountain animal species."]
-    }, image: "/poi-images/rwenzori-mountains-life-v2.webp"},
+    }, image: "/poi-images/rwenzori-mountains-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Rwenzori-Gebirge, auch Mondberge genannt, erstreckt sich über 996 km² im Westen Ugandas. Der höchste Gipfel, der Mount Stanley mit dem Margherita Peak, erreicht 5.109 Meter. Der Nationalpark wurde 1991 gegründet und ist UNESCO-Weltnaturerbe. Die Berge sind bekannt für ihre einzigartige Vegetation mit Riesenlobelien und Kreuzkraut. Das Gebirge ist das höchste in Afrika südlich des Kilimandscharo. Es gibt sechs Hauptgipfel. Die Regenfälle sind ergiebig, die Berge sind oft nebelverhangen. Der Park beherbergt Leoparden und verschiedene Affenarten.",
+      hu: "A Rwenzori-hegység, más néven Hold-hegység, Uganda nyugati részén terül el 996 km²-en. A legmagasabb csúcs a Mount Stanley, ezen belül a Margherita-csúcs 5109 méter. A nemzeti parkot 1991-ben alapították, UNESCO világörökség. A hegyek híresek egyedi növényzetükről, például óriás lobéliákról és keresztfűről. A hegység a Kilimandzsáró után a legmagasabb Afrikában. Hat főcsúcs található itt. A csapadék bőséges, a hegyek gyakran ködösek. A parkban leopárdok és különféle majomfajok élnek.",
+      ro: "Munții Rwenzori, cunoscuți și ca Munții Lunii, se întind pe 996 km² în vestul Ugandei. Cel mai înalt vârf, Mount Stanley cu Margherita Peak, atinge 5.109 m. Parcul național a fost înființat în 1991 și este patrimoniu UNESCO. Munții sunt faimoși pentru vegetația unică, cu lobelii uriași și senecio. Este cel mai înalt lanț muntos din Africa la sud de Kilimanjaro. Există șase vârfuri principale. Precipitațiile sunt abundente, iar munții sunt adesea cețoși. Parcul adăpostește leoparzi și diferite specii de maimuțe. Ghețarii s-au redus semnificativ din cauza schimbărilor climatice.",
+      en: "The Rwenzori Mountains, also known as the Mountains of the Moon, span 996 km² in western Uganda. The highest peak, Margherita Peak on Mount Stanley, reaches 5,109 m. The Rwenzori Mountains National Park, established in 1991, is a UNESCO World Heritage Site. It is renowned for its unique alpine flora, including giant lobelias and groundsels. The range is the third highest in Africa, after Kilimanjaro and Mount Kenya. The park has six major peaks. The glaciers have retreated by over 50% since the 1960s due to climate change. Wildlife includes forest elephants, chimpanzees, and the endemic Rwenzori duiker.",
+    },
+    factsAdvanced: {
+      de: ["Höchster Gipfel: 5.109 m (Margherita Peak)", "Fläche: 996 km²", "Gründungsjahr des Parks: 1991", "Gletscherrückgang: über 50% seit 1960", "Anzahl Hauptgipfel: 6", "Jährliche Besucher: ca. 5.000"],
+      hu: ["Legmagasabb csúcs: 5109 m (Margherita-csúcs)", "Terület: 996 km²", "Park alapításának éve: 1991", "Gleccserek visszahúzódása: több mint 50% 1960 óta", "Főcsúcsok száma: 6", "Éves látogatók: kb. 5000"],
+      ro: ["Cel mai înalt vârf: 5.109 m (Margherita Peak)", "Suprafață: 996 km²", "Anul înființării parcului: 1991", "Retragerea ghețarilor: >50% din 1960", "Număr de vârfuri principale: 6", "Vizitatori anuali: ~5.000"],
+      en: ["Highest peak: 5,109 m (Margherita Peak)", "Park area: 996 km²", "Year established: 1991", "Glacier retreat: >50% since 1960", "Major peaks: 6", "Annual visitors: ~5,000"],
+    },
+  },
   {
     id: "semuliki-life-v2",
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [30.1333, 0.7833],
-    name: { de: "Semuliki-Nationalpark", hu: "Semuliki Nemzeti Park", ro: "Parcul Național Semuliki", en: "Semuliki National Park",
-image: "/poi-images/semuliki-life-v2.webp"
-},
+    name: { de: "Semuliki-Nationalpark", hu: "Semuliki Nemzeti Park", ro: "Parcul Național Semuliki", en: "Semuliki National Park"},
+    image: "/poi-images/semuliki-life-v2.webp",
     description: { de: "Ein Tieflandregenwald, der zentralafrikanische Arten beherbergt.", hu: "Alföldi esőerdő, amely közép-afrikai fajoknak ad otthont.", ro: "O pădure tropicală de câmpie care găzduiește specii central-africane.", en: "A lowland rainforest that hosts Central African species." },
     facts: {
       de: ["Bekannt für die heißen Quellen.", "Reiche Vogelwelt."],
       hu: ["Híres a hévforrásairól.", "Gazdag madárvilág."],
       ro: ["Cunoscut pentru izvoarele termale.", "Faună aviară bogată."],
       en: ["Known for the hot springs.", "Rich birdlife."]
-    }, image: "/poi-images/semuliki-life-v2.webp"},
+    }, image: "/poi-images/semuliki-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Semuliki-Nationalpark im Westen Ugandas umfasst 220 km². Er wurde 1993 gegründet und liegt im Albertineriftal. Der Park schützt einen Teil des Ituri-Waldes, der typisch für das Kongobecken ist. Er beherbergt viele Vogelarten, darunter den seltenen Lappenhopf und den Kongo-Pfau. Es gibt 435 Vogelarten. Der Park ist auch für seine Thermalquellen bekannt, die heiße Quellen und Schlammbecken umfassen. Die Semuliki-Flüsse bieten Lebensraum für Flusspferde und Krokodile. Der Park grenzt an den Virunga-Nationalpark im Kongo.",
+      hu: "A Semuliki Nemzeti Park Uganda nyugati részén 220 km²-en terül el. 1993-ban alapították, és az Albert-hasadékvölgyben fekszik. A park az Ituri-erdő egy részét védi, amely a Kongó-medencére jellemző. Számos madárfajnak ad otthont, köztük a ritka sisakos selyemkakasnak és a kongói pávának. 435 madárfaj él itt. A park híres termálforrásairól is, amelyek forró forrásokat és iszapmedencéket tartalmaznak. A Semuliki folyók vízilovak és krokodilok élőhelyei. A park a kongói Virunga Nemzeti Parkkal határos.",
+      ro: "Parcul Național Semuliki, în vestul Ugandei, se întinde pe 220 km². Înființat în 1993, este situat în Valea Riftului Albert. Parcul protejează o parte din Pădurea Ituri, specifică bazinului Congo. Este bogat în păsări, inclusiv rara pasăre cu cioc de pânză și păunul congolez. Sunt înregistrate 435 de specii de păsări. Parcul este cunoscut și pentru izvoarele termale, cu bazine de noroi și ape fierbinți. Râurile Semuliki adăpostesc hipopotami și crocodili. Parcul se învecinează cu Parcul Național Virunga din Congo.",
+      en: "Semuliki National Park in western Uganda covers 220 km², established in 1993. It lies in the Albertine Rift Valley and protects a portion of the Ituri Forest, a central African rainforest. The park is renowned for its exceptional bird diversity: 435 species, including the shoebill, Congo peafowl, and Sassi's greenbul. It also features hot springs such as the Sempaya Hot Springs, which reach temperatures over 100°C. The park's vegetation is a mix of forest, swamp, and savanna. Wildlife includes forest elephants, buffaloes, and various monkeys. The park is contiguous with Virunga National Park in DR Congo.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1993", "Fläche: 220 km²", "Vogelarten: 435", "Temperatur der heißen Quellen: über 100°C", "Pflanzenarten: über 300", "Jährlicher Niederschlag: ca. 1.500 mm"],
+      hu: ["Alapítás éve: 1993", "Terület: 220 km²", "Madárfajok: 435", "Hőforrások hőmérséklete: 100 °C felett", "Növényfajok: több mint 300", "Évi csapadék: kb. 1500 mm"],
+      ro: ["Anul înființării: 1993", "Suprafață: 220 km²", "Specii de păsări: 435", "Temperatura izvoarelor termale: >100°C", "Specii de plante: >300", "Precipitații anuale: ~1.500 mm"],
+      en: ["Year established: 1993", "Area: 220 km²", "Bird species: 435", "Hot spring temperature: >100°C", "Plant species: >300", "Annual rainfall: ~1,500 mm"],
+    },
+  },
   {
     id: "tororo-rock-kid-life-v2",
     type: "kid-landmark",
     parent: "UG-TO",
     coords: [34.18, 0.69],
-    name: { de: "Tororo-Fels", hu: "Tororo-szikla", ro: "Stânca Tororo", en: "Tororo Rock",
-image: "/poi-images/tororo-rock-kid-life-v2.webp"
-},
+    name: { de: "Tororo-Fels", hu: "Tororo-szikla", ro: "Stânca Tororo", en: "Tororo Rock"},
+    image: "/poi-images/tororo-rock-kid-life-v2.webp",
     description: { de: "Ein markanter Felsen, der bei Familien beliebt ist.", hu: "Egy markáns szikla, amely népszerű a családok körében.", ro: "O stâncă proeminentă, populară în rândul familiilor.", en: "A prominent rock popular with families." },
     facts: {
       de: ["Herausfordernde Klettertour.", "Tolle Aussicht auf die Stadt."],
       hu: ["Kihívást jelentő mászás.", "Kiváló kilátás a városra."],
       ro: ["O ascensiune provocatoare.", "Vedere minunată asupra orașului."],
       en: ["Challenging climb.", "Great view of the city."]
-    }, image: "/poi-images/tororo-rock-kid-life-v2.webp"},
+    }, image: "/poi-images/tororo-rock-kid-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Tororo-Fels ist eine markante Inselberg-Formation in Ostuganda nahe der Stadt Tororo. Er erhebt sich etwa 2.000 Meter über dem Meeresspiegel und 300 Meter über die umliegende Ebene. Der Fels ist ein Überbleibsel vulkanischer Aktivität aus dem Präkambrium. Er besteht aus Granit und Gneis. Der Tororo-Fels ist ein Wahrzeichen der Region und wird für Freizeitaktivitäten wie Wandern genutzt. Der Aufstieg bietet einen Panoramablick auf Uganda und Kenia. In der Nähe befinden sich Phospatminen. Er ist Teil des Tororo County.",
+      hu: "A Tororo-szikla feltűnő szigethegy-formáció Kelet-Ugandában, Tororo városa közelében. Körülbelül 2000 méterrel emelkedik a tengerszint fölé, és 300 méterrel a környező síkság fölé. A szikla a prekambriumi vulkáni tevékenység maradványa. Gránitból és gneiszből áll. A Tororo-szikla a régió jelképe, és szabadidős tevékenységekre, például túrázásra használják. A feljutás panorámaképet nyújt Ugandára és Kenyára. A közelben foszfátbányák találhatók. Tororo megye része.",
+      ro: "Stânca Tororo este o formațiune de inselberg proeminentă în estul Ugandei, lângă orașul Tororo. Se ridică la aproximativ 2.000 m deasupra nivelului mării și 300 m deasupra câmpiei din jur. Stânca este un rest al activității vulcanice din precambrian. Este compusă din granit și gnais. Stânca Tororo este un simbol al regiunii și este folosită pentru drumeții și cățărare. De pe vârf se vede un panorama către Uganda și Kenya. În apropiere se află mine de fosfat. Face parte din districtul Tororo.",
+      en: "Tororo Rock is a prominent inselberg in eastern Uganda, rising 2,000 m above sea level and 300 m above the surrounding plain. It is a remnant of Precambrian volcanic activity, composed of granite and gneiss. The rock is a landmark for the city of Tororo and is a popular hiking destination. The summit offers panoramic views extending into Kenya. Tororo Rock is also significant for its phosphate mining nearby, as the area is rich in phosphate deposits. The rock measures roughly 1 km in diameter at its base. It has cultural significance for the local Iteso and Japadhola communities.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.000 m ü. M.", "Relative Höhe: 300 m", "Durchmesser Basis: ca. 1 km", "Gestein: Granit, Gneis", "Alter: Präkambrium", "Phosphatvorkommen: bedeutend"],
+      hu: ["Magasság: 2000 m tszf.", "Relatív magasság: 300 m", "Alap átmérő: kb. 1 km", "Kőzet: gránit, gneisz", "Kor: prekambrium", "Foszfátlelőhely: jelentős"],
+      ro: ["Altitudine: 2.000 m", "Înălțime relativă: 300 m", "Diametru bază: ~1 km", "Roci: granit, gnais", "Vârstă: Precambrian", "Resurse de fosfat: semnificative"],
+      en: ["Elevation: 2,000 m above sea level", "Relative height: 300 m", "Base diameter: ~1 km", "Rock type: Granite, gneiss", "Geological age: Precambrian", "Phosphate deposits: significant"],
+    },
+  },
   {
     id: "uganda-wildlife-edu-life-v2",
     type: "kid-landmark",
     parent: "UG-KL",
     coords: [32.57, 0.3],
-    name: { de: "Uganda-Wildlife-Bildungszentrum", hu: "Ugandai Vadvédelmi Oktatóközpont", ro: "Centrul Educațional de Faună din Uganda", en: "Uganda Wildlife Education Centre",
-image: "/poi-images/uganda-wildlife-edu-life-v2.webp"
-},
+    name: { de: "Uganda-Wildlife-Bildungszentrum", hu: "Ugandai Vadvédelmi Oktatóközpont", ro: "Centrul Educațional de Faună din Uganda", en: "Uganda Wildlife Education Centre"},
+    image: "/poi-images/uganda-wildlife-edu-life-v2.webp",
     description: { de: "Ein Zoo in Entebbe für Bildungszwecke.", hu: "Egy állatkert Entebbében oktatási célokra.", ro: "O grădină zoologică în Entebbe pentru educație.", en: "A zoo in Entebbe for educational purposes." },
     facts: {
       de: ["Ideal für Kinder.", "Viele Tiere können aus nächster Nähe gesehen werden."],
       hu: ["Ideális gyerekeknek.", "Sok állat megtekinthető közelről."],
       ro: ["Ideal pentru copii.", "Multe animale pot fi văzute de aproape."],
       en: ["Ideal for children.", "Many animals can be seen up close."]
-    }, image: "/poi-images/uganda-wildlife-edu-life-v2.webp"},
+    }, image: "/poi-images/uganda-wildlife-edu-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Uganda Wildlife Education Centre (UWEC) in Entebbe wurde 1994 als Zoologischer Garten und Bildungseinrichtung gegründet. Es erstreckt sich über 72 Hektar und beherbergt über 200 Tiere, darunter Löwen, Giraffen, Schimpansen und verschiedene Vogelarten. Das Zentrum dient der Rehabilitation geretteter Wildtiere und der Umweltbildung. Es bietet Führungen und Bildungsprogramme für Schulklassen. UWEC beherbergt auch eine Schlafmöglichkeit für Übernachtungsgäste. Ziel ist es, das Bewusstsein für den Artenschutz zu stärken. Das Zentrum arbeitet mit der Uganda Wildlife Authority zusammen.",
+      hu: "Az Uganda Wildlife Education Centre (UWEC) Entebbében 1994-ben alapított állatkert és oktatási központ. 72 hektáron terül el, és több mint 200 állatnak ad otthont, köztük oroszlánoknak, zsiráfoknak, csimpánzoknak és különféle madaraknak. A központ a mentett vadállatok rehabilitációjával és környezeti neveléssel foglalkozik. Vezetett túrákat és iskolai programokat kínál. Az UWEC szálláslehetőséget is biztosít. Célja a természetvédelem tudatosítása. A központ együttműködik az Uganda Vadvédelmi Hatósággal.",
+      ro: "Centrul Educațional pentru Faună Sălbatică din Uganda (UWEC) din Entebbe a fost înființat în 1994 ca grădină zoologică și centru educațional. Se întinde pe 72 de hectare și adăpostește peste 200 de animale, inclusiv lei, girafe, cimpanzei și diverse păsări. Centrul reabilitează animale sălbatice salvate și oferă educație ecologică. Oferă tururi ghidate și programe școlare. UWEC oferă și cazare pentru oaspeți peste noapte. Scopul este conștientizarea conservării speciilor. Colaborează cu Autoritatea pentru Faună Sălbatică din Uganda.",
+      en: "The Uganda Wildlife Education Centre (UWEC) in Entebbe, established in 1994, is a zoo and conservation education facility covering 72 hectares. It houses over 200 animals, including lions, giraffes, chimpanzees, and numerous bird species. UWEC focuses on rehabilitating injured or orphaned wildlife and educating the public about conservation. It offers guided tours, school programs, and overnight stays in cottages. The centre also participates in breeding programs for endangered species like the Rothschild's giraffe. UWEC is a key partner of the Uganda Wildlife Authority in wildlife rescue operations.",
+    },
+    factsAdvanced: {
+      de: ["Gründungsjahr: 1994", "Fläche: 72 Hektar", "Tierbestand: über 200 Tiere", "Besucher pro Jahr: ca. 200.000", "Mitarbeiter: ca. 100", "Programme: Bildungsprogramme für 50.000 Schüler jährlich"],
+      hu: ["Alapítás éve: 1994", "Terület: 72 hektár", "Állatállomány: több mint 200 állat", "Éves látogatók: kb. 200 000", "Dolgozók: kb. 100", "Oktatási programok: 50 000 diák évente"],
+      ro: ["Anul înființării: 1994", "Suprafață: 72 ha", "Număr de animale: >200", "Vizitatori anuali: ~200.000", "Angajați: ~100", "Elevi educați anual: 50.000"],
+      en: ["Year founded: 1994", "Area: 72 ha", "Animal stock: >200 animals", "Annual visitors: ~200,000", "Staff: ~100", "Students educated per year: 50,000"],
+    },
+  },
   {
     id: "coffee-region-elgon-life-v2",
     type: "agriculture",
     parent: "UG-MA",
     coords: [34.4, 1.1],
-    name: { de: "Kaffeeregion-Mount-Elgon", hu: "Mount Elgon Kávévidék", ro: "Regiunea de cafea Mount Elgon", en: "Mount Elgon Coffee Region",
-image: "/poi-images/coffee-region-elgon-life-v2.webp"
-},
+    name: { de: "Kaffeeregion-Mount-Elgon", hu: "Mount Elgon Kávévidék", ro: "Regiunea de cafea Mount Elgon", en: "Mount Elgon Coffee Region"},
+    image: "/poi-images/coffee-region-elgon-life-v2.webp",
     description: { de: "Berühmt für die Produktion von hochwertigem Arabica-Kaffee.", hu: "Híres a kiváló minőségű arabica kávé termeléséről.", ro: "Faimoasă pentru producția de cafea Arabica de înaltă calitate.", en: "Famous for producing high-quality Arabica coffee." },
     facts: {
       de: ["Günstiges Klima durch hohe Lage.", "Besuch von Kaffeefarmen möglich."],
       hu: ["Kedvező éghajlat a nagy magasság miatt.", "Kávéfarmok látogatása lehetséges."],
       ro: ["Climă favorabilă datorită altitudinii ridicate.", "Vizitarea plantațiilor de cafea este posibilă."],
       en: ["Favorable climate due to high altitude.", "Visits to coffee farms possible."]
-    }, image: "/poi-images/coffee-region-elgon-life-v2.webp"},
+    }, image: "/poi-images/coffee-region-elgon-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Mount-Elgon-Kaffeeregion im Osten Ugandas ist bekannt für den Anbau von Arabica-Kaffee. Die Kaffeeplantagen liegen an den Hängen des Mount Elgon auf Höhen zwischen 1.500 und 2.000 Metern. Das vulkanische Boden- und Mikroklima fördert den Anbau hochwertiger Bohnen. Die Region umfasst die Distrikte Kapchorwa, Sironko und Mbale. Der Kaffee wird oft in Kooperativen von Kleinbauern produziert. Die Erntezeit erstreckt sich von Oktober bis Dezember. Der Mount-Elgon-Kaffee wird international geschätzt. Die Region trägt erheblich zur ugandischen Kaffeeexportwirtschaft bei.",
+      hu: "A Mount Elgon kávé régió Kelet-Ugandában híres arabica kávé termesztéséről. A kávéültetvények a Mount Elgon lejtőin, 1500-2000 méter közötti magasságban találhatók. A vulkanikus talaj és mikroklíma elősegíti a kiváló minőségű babok termelését. A régió magában foglalja Kapchorwa, Sironko és Mbale kerületeket. A kávét gyakran kistermelők szövetkezetei állítják elő. A betakarítási időszak októbertől decemberig tart. A Mount Elgon kávét nemzetközileg elismerik. A régió jelentősen hozzájárul Uganda kávéexportjához.",
+      ro: "Regiunea cafelei Muntele Elgon din estul Ugandei este renumită pentru cultivarea cafelei Arabica. Plantațiile sunt situate pe versanții Muntelui Elgon, la altitudini între 1.500 și 2.000 m. Solul vulcanic și microclimatul favorizează producția de boabe de înaltă calitate. Regiunea include districtele Kapchorwa, Sironko și Mbale. Cafeaua este adesea produsă de cooperative de fermieri mici. Recolta are loc din octombrie până în decembrie. Cafeaua de pe Muntele Elgon este apreciată internațional. Regiunea contribuie semnificativ la exportul de cafea al Ugandei.",
+      en: "The Mount Elgon coffee region in eastern Uganda is a prime area for Arabica coffee cultivation. Plantations are situated on the slopes of Mount Elgon at elevations of 1,500-2,000 m. The volcanic soils and consistent rainfall provide ideal growing conditions. The region spans the districts of Kapchorwa, Sironko, and Mbale. Coffee is mostly grown by smallholder farmers organized into cooperatives. The harvest season runs from October to December. Mount Elgon coffee is known for its bright acidity and floral notes. Uganda is Africa's leading exporter of Arabica coffee, with this region producing a significant portion.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1.500-2.000 m", "Kaffeesorte: Arabica", "Anbaufläche: ca. 30.000 Hektar", "Erntezeit: Oktober-Dezember", "Produktion pro Jahr: ca. 10.000 Tonnen", "Kleinbauern: über 50.000"],
+      hu: ["Magasság: 1500-2000 m", "Kávéfajta: arabica", "Termőterület: kb. 30 000 hektár", "Betakarítás: október-december", "Éves termelés: kb. 10 000 tonna", "Kistermelők: több mint 50 000"],
+      ro: ["Altitudine: 1.500-2.000 m", "Soi de cafea: Arabica", "Suprafață cultivată: ~30.000 ha", "Perioadă recoltare: octombrie-decembrie", "Producție anuală: ~10.000 tone", "Fermieri mici: >50.000"],
+      en: ["Elevation range: 1,500-2,000 m", "Coffee type: Arabica", "Cultivated area: ~30,000 ha", "Harvest season: Oct-Dec", "Annual production: ~10,000 tons", "Smallholder farmers: >50,000"],
+    },
+  },
   {
     id: "tea-plantations-tooro-life-v2",
     type: "agriculture",
     parent: "UG-TO",
     coords: [30.2, 0.6],
-    name: { de: "Teeplantagen-Tooro", hu: "Tooro Teákültetvények", ro: "Plantațiile de ceai din Tooro", en: "Tooro Tea Plantations",
-image: "/poi-images/tea-plantations-tooro-life-v2.webp"
-},
+    name: { de: "Teeplantagen-Tooro", hu: "Tooro Teákültetvények", ro: "Plantațiile de ceai din Tooro", en: "Tooro Tea Plantations"},
+    image: "/poi-images/tea-plantations-tooro-life-v2.webp",
     description: { de: "Wunderschöne, grüne Teeplantagen in der Region Tooro.", hu: "Gyönyörű, zöld teákültetvények Tooro régióban.", ro: "Plantații de ceai verzi, frumoase în regiunea Tooro.", en: "Beautiful, green tea plantations in the Tooro region." },
     facts: {
       de: ["Die Region ist berühmt für die Teeernte.", "Die Felder prägen das Landschaftsbild."],
       hu: ["A régió híres a teaszüretről.", "A mezők meghatározzák a tájat."],
       ro: ["Regiunea este faimoasă pentru recoltarea ceaiului.", "Câmpurile definesc peisajul."],
       en: ["The region is famous for the tea harvest.", "The fields shape the landscape."]
-    }, image: "/poi-images/tea-plantations-tooro-life-v2.webp"},
+    }, image: "/poi-images/tea-plantations-tooro-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Tooro-Teeplantagen in Westuganda erstrecken sich über die Hänge des Ruwenzori-Gebirges in den Distrikten Kabarole, Kyenjojo und Kyegegwa. Der Teeanbau begann in den 1920er Jahren unter britischer Kolonialverwaltung. Die Plantagen liegen auf Höhen von 1.500 bis 2.000 Metern, was ideal für die Teepflanze Camellia sinensis ist. Der Tee wird von Kleinbauern und großen Plantagenunternehmen produziert. Die Ernte erfolgt das ganze Jahr über, wobei die Haupternte in den Regenzeiten liegt. Der Tooro-Tee wird für seinen vollen Geschmack geschätzt. Uganda ist ein bedeutender Teeexporteur.",
+      hu: "A Tooro teaültetvények Nyugat-Ugandában, a Ruwenzori-hegység lejtőin terülnek el, Kabarole, Kyenjojo és Kyegegwa kerületekben. A teacserje termesztése az 1920-as években kezdődött a brit gyarmati időkben. Az ültetvények 1500-2000 méter tengerszint feletti magasságban vannak, ami ideális a Camellia sinensis számára. A teát kistermelők és nagy ültetvénycégek egyaránt termesztik. A szüret egész évben zajlik, a fő termés az esős évszakokban. A Tooro tea telt ízéről ismert. Uganda jelentős teaexportőr.",
+      ro: "Plantațiile de ceai Tooro din vestul Ugandei se întind pe versanții Munților Rwenzori în districtele Kabarole, Kyenjojo și Kyegegwa. Cultivarea ceaiului a început în anii 1920, sub administrația colonială britanică. Plantațiile sunt situate la altitudini de 1.500-2.000 m, ideale pentru Camellia sinensis. Ceaiul este produs de fermieri mici și companii mari. Recoltarea are loc pe tot parcursul anului, cu vârfuri în sezoanele ploioase. Ceaiul Tooro este apreciat pentru aroma sa robustă. Uganda este un exportator important de ceai.",
+      en: "The Tooro tea plantations in western Uganda are located on the slopes of the Rwenzori Mountains, covering the districts of Kabarole, Kyenjojo, and Kyegegwa. Tea cultivation began in the 1920s during British colonial rule. The plantations are situated at elevations between 1,500 and 2,000 m, providing ideal conditions for Camellia sinensis. Both smallholder farmers and large estates produce tea. Harvesting occurs year-round, with peak seasons during the rainy periods. Tooro tea is known for its bright color and strong flavor. Uganda is one of Africa's largest tea exporters, with this region contributing significantly.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 1.500-2.000 m", "Beginn des Teeanbaus: 1920er Jahre", "Anbaufläche: ca. 20.000 Hektar", "Jahresproduktion: ca. 30.000 Tonnen", "Erntezyklen: alle 7-14 Tage während der Saison", "Teesorte: Schwarztee (CTC)"],
+      hu: ["Magasság: 1500-2000 m", "Teatermesztés kezdete: 1920-as évek", "Termőterület: kb. 20 000 hektár", "Éves termelés: kb. 30 000 tonna", "Betakarítási ciklus: 7-14 nap a szezonban", "Teafajta: fekete tea (CTC)"],
+      ro: ["Altitudine: 1.500-2.000 m", "Începutul cultivării: anii 1920", "Suprafață cultivată: ~20.000 ha", "Producție anuală: ~30.000 tone", "Ciclul de recoltare: la 7-14 zile în sezon", "Tip de ceai: negru (CTC)"],
+      en: ["Elevation: 1,500-2,000 m", "Tea cultivation started: 1920s", "Cultivated area: ~20,000 ha", "Annual production: ~30,000 tons", "Harvest cycle: every 7-14 days in season", "Tea type: Black CTC (Crush, Tear, Curl)"],
+    },
+  },
   {
     id: "sugar-plantations-jinja-life-v2",
     type: "agriculture",
     parent: "UG-BU",
     coords: [33.2, 0.45],
-    name: { de: "Zuckerrohrplantagen-Jinja", hu: "Jinja Cukornádültetvények", ro: "Plantațiile de trestie de zahăr din Jinja", en: "Jinja Sugar Cane Plantations",
-image: "/poi-images/sugar-plantations-jinja-life-v2.webp"
-},
+    name: { de: "Zuckerrohrplantagen-Jinja", hu: "Jinja Cukornádültetvények", ro: "Plantațiile de trestie de zahăr din Jinja", en: "Jinja Sugar Cane Plantations"},
+    image: "/poi-images/sugar-plantations-jinja-life-v2.webp",
     description: { de: "Großflächige Zuckerrohrfelder in der Nähe von Jinja.", hu: "Nagy kiterjedésű cukornádmezők Jinja közelében.", ro: "Câmpuri vaste de trestie de zahăr lângă Jinja.", en: "Extensive sugar cane fields near Jinja." },
     facts: {
       de: ["Wichtiger Wirtschaftsfaktor der Region.", "Die Verarbeitung findet lokal statt."],
       hu: ["Fontos gazdasági tényező a régióban.", "A feldolgozás helyben történik."],
       ro: ["Factor economic important în regiune.", "Procesarea are loc local."],
       en: ["Important economic factor in the region.", "Processing takes place locally."]
-    }, image: "/poi-images/sugar-plantations-jinja-life-v2.webp"},
+    }, image: "/poi-images/sugar-plantations-jinja-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Zuckerrohrplantagen von Jinja liegen in Ostuganda am Ufer des Victoriasees. Die Region ist das Zentrum der ugandischen Zuckerindustrie. Die Kakira Sugar Works, 1930 gegründet, ist die größte Zuckermühle. Weitere Plantagen umfassen die Sugar Corporation of Uganda (SCOUL). Auf über 40.000 Hektar wird Zuckerrohr angebaut. Die Ernte erfolgt maschinell und manuell. Die Plantagen beschäftigen Zehntausende Arbeiter. Der Zucker wird im Inland und in der Region vertrieben. Die Produktion beträgt jährlich über 300.000 Tonnen.",
+      hu: "A jinjai cukornádültetvények Kelet-Ugandában, a Viktória-tó partján találhatók. A régió Uganda cukoriparának központja. A Kakira Sugar Works, amelyet 1930-ban alapítottak, a legnagyobb cukormalom. További ültetvények a Sugar Corporation of Uganda (SCOUL). Több mint 40 000 hektáron termesztenek cukornádat. A betakarítás gépi és kézi erővel történik. Az ültetvények tízezreket foglalkoztatnak. A cukrot belföldön és a régióban értékesítik. Az éves termelés meghaladja a 300 000 tonnát.",
+      ro: "Plantațiile de trestie de zahăr din Jinja sunt situate în estul Ugandei, pe malul Lacului Victoria. Regiunea este centrul industriei zahărului din Uganda. Kakira Sugar Works, fondată în 1930, este cea mai mare fabrică de zahăr. Alte plantații includ Sugar Corporation of Uganda (SCOUL). Trestia de zahăr este cultivată pe peste 40.000 ha. Recoltarea este mecanică și manuală. Plantațiile angajează zeci de mii de muncitori. Zahărul este distribuit pe piața internă și regională. Producția anuală depășește 300.000 de tone.",
+      en: "The Jinja sugar cane plantations in eastern Uganda, along the shores of Lake Victoria, form the backbone of the country's sugar industry. Kakira Sugar Works, established in 1930, is the largest mill, processing cane from over 40,000 ha. Other estates include SCOUL. Sugarcane is planted in rotation with maize and beans. Harvesting occurs year-round, peaking from June to September. The industry employs about 50,000 workers directly. Uganda produces roughly 450,000 tons of sugar annually, with Jinja accounting for over half. The plantations have invested in irrigation and renewable energy (bagasse power plants).",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: über 40.000 Hektar", "Gründung Kakira Sugar Works: 1930", "Jahresproduktion: über 300.000 Tonnen", "Beschäftigte: ca. 50.000", "Hauptsaison: Juni-September", "Energie: Bagasse-Kraftwerk produziert 40 MW"],
+      hu: ["Termőterület: több mint 40 000 hektár", "Kakira cukormalom alapítás: 1930", "Éves termelés: több mint 300 000 tonna", "Foglalkoztatottak: kb. 50 000", "Főszezon: június-szeptember", "Energia: bagasse erőmű 40 MW"],
+      ro: ["Suprafață cultivată: >40.000 ha", "Fondarea Kakira Sugar Works: 1930", "Producție anuală: >300.000 tone", "Angajați: ~50.000", "Sezon principal: iunie-septembrie", "Energie: centrală pe bagasse de 40 MW"],
+      en: ["Cultivated area: >40,000 ha", "Kakira Sugar Works founded: 1930", "Annual production: >300,000 tons", "Workforce: ~50,000", "Peak harvest: June-September", "Bagasse power plant capacity: 40 MW"],
+    },
+  },
   {
     id: "cotton-growing-areas-life-v2",
     type: "agriculture",
     parent: "UG-NA",
     coords: [33.0, 1.5],
-    name: { de: "Baumwollanbaugebiete", hu: "Gyapottermesztő vidékek", ro: "Zone de cultivare a bumbacului", en: "Cotton Growing Areas",
-image: "/poi-images/cotton-growing-areas-life-v2.webp"
-},
+    name: { de: "Baumwollanbaugebiete", hu: "Gyapottermesztő vidékek", ro: "Zone de cultivare a bumbacului", en: "Cotton Growing Areas"},
+    image: "/poi-images/cotton-growing-areas-life-v2.webp",
     description: { de: "Große Flächen für den Anbau von Baumwolle im Norden.", hu: "Nagy területek a gyapottermesztéshez északon.", ro: "Zone vaste pentru cultivarea bumbacului în nord.", en: "Large areas for the cultivation of cotton in the north." },
     facts: {
       de: ["Wichtige Einnahmequelle für Kleinbauern.", "Die Ernte ist ein bedeutendes Ereignis."],
       hu: ["Fontos bevételi forrás a kistermelők számára.", "A szüret jelentős esemény."],
       ro: ["Sursă importantă de venit pentru micii fermieri.", "Recoltarea este un eveniment important."],
       en: ["Important source of income for smallholders.", "Harvest is a significant event."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Baumwollanbaugebiete Ugandas erstrecken sich über die nördlichen und östlichen Regionen, insbesondere die Distrikte Lira, Gulu und Soroti. Baumwolle ist eine wichtige Exportpflanze für Uganda. Der Anbau erfolgt hauptsächlich von Kleinbauern auf Parzellen von etwa 1-2 Hektar. Die Pflanzung erfolgt zu Beginn der Regenzeit im Mai, die Ernte von September bis November. Die ugandische Baumwolle ist für ihre Qualität bekannt und wird in der Textilindustrie in der Region verarbeitet. Die Regierung fördert den Baumwollanbau durch Saatgut- und Düngemittelprogramme. Die jährliche Produktion beträgt rund 60.000 Tonnen.",
+      hu: "Uganda gyapottermesztő területei az északi és keleti régiókban találhatók, különösen Lira, Gulu és Soroti kerületekben. A gyapot fontos exportnövény. A termesztést főként kistermelők végzik, körülbelül 1-2 hektáros parcellákon. Vetés az esős évszak elején, májusban, betakarítás szeptembertől novemberig. Az ugandai gyapot minőségéről ismert, és a regionális textiliparban dolgozzák fel. A kormány támogatja a gyapottermesztést vetőmag- és műtrágyaprogramokkal. Az éves termelés körülbelül 60 000 tonna.",
+      ro: "Zonele de cultivare a bumbacului din Uganda se extind în regiunile nordice și estice, în special districtele Lira, Gulu și Soroti. Bumbacul este o cultură importantă de export. Cultivarea este realizată în principal de fermieri mici pe parcele de 1-2 ha. Plantarea are loc la începutul sezonului ploios, în mai, iar recoltarea din septembrie până în noiembrie. Bumbacul ugandez este cunoscut pentru calitatea sa și este procesat în industria textilă regională. Guvernul sprijină cultura prin programe de semințe și îngrășăminte. Producția anuală este de aproximativ 60.000 de tone.",
+      en: "Cotton growing areas in Uganda are concentrated in the northern and eastern regions, including Lira, Gulu, and Soroti districts. Cotton is a key cash crop, with over 200,000 smallholder farmers involved. Planting occurs in May with the onset of rains, and harvesting from September to November. Ugandan cotton is valued for its long staple length, used in high-quality textiles. The government and NGOs provide input support. Annual production averages 60,000 tons, though it fluctuates with weather. The cotton is ginned locally and exported or used by domestic textile mills.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: ca. 100.000 Hektar", "Kleinbauern: über 200.000", "Jahresproduktion: ca. 60.000 Tonnen", "Aussaat: Mai", "Ernte: September-November", "Stapellänge: 28-30 mm"],
+      hu: ["Termőterület: kb. 100 000 hektár", "Kistermelők: több mint 200 000", "Éves termelés: kb. 60 000 tonna", "Vetés: május", "Betakarítás: szeptember-november", "Szálhossz: 28-30 mm"],
+      ro: ["Suprafață cultivată: ~100.000 ha", "Fermieri mici: >200.000", "Producție anuală: ~60.000 tone", "Semănat: mai", "Recoltat: septembrie-noiembrie", "Lungimea fibrei: 28-30 mm"],
+      en: ["Cultivated area: ~100,000 ha", "Smallholder farmers: >200,000", "Annual production: ~60,000 tons", "Planting month: May", "Harvest period: Sep-Nov", "Staple length: 28-30 mm"],
+    },
   },
   {
     id: "cocoa-plantations-life-v2",
     type: "agriculture",
     parent: "UG-BU",
     coords: [30.25, 0.8],
-    name: { de: "Kakaoplantagen", hu: "Kakaóültetvények", ro: "Plantații de cacao", en: "Cocoa Plantations",
-image: "/poi-images/cocoa-plantations-life-v2.webp"
-},
+    name: { de: "Kakaoplantagen", hu: "Kakaóültetvények", ro: "Plantații de cacao", en: "Cocoa Plantations"},
+    image: "/poi-images/cocoa-plantations-life-v2.webp",
     description: { de: "Wachsendes Anbaugebiet für hochwertigen Kakao.", hu: "Növekvő termőterület kiváló minőségű kakaó számára.", ro: "Zonă de cultivare în creștere pentru cacao de înaltă calitate.", en: "Growing area for high-quality cocoa." },
     facts: {
       de: ["Das feuchte Klima ist ideal.", "Ugandischer Kakao gewinnt an Bedeutung."],
       hu: ["A párás éghajlat ideális.", "Az ugandai kakaó egyre jelentősebb."],
       ro: ["Clima umedă este ideală.", "Cacaoul ugandez devine tot mai important."],
       en: ["The humid climate is ideal.", "Ugandan cocoa is gaining importance."]
-    }, image: "/poi-images/cocoa-plantations-life-v2.webp"},
+    }, image: "/poi-images/cocoa-plantations-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kakaoplantagen Ugandas befinden sich hauptsächlich in den zentralen und westlichen Regionen, insbesondere in den Distrikten Mukono, Kayunga und Bundibugyo. Der Kakaoanbau ist eine relativ neue Landwirtschaft für Uganda, hat aber in den letzten Jahrzehnten zugenommen. Der Kakaobaum profitiert vom tropischen Klima und gut verteilten Niederschlägen. Die Ernte erfolgt zweimal im Jahr, von April bis Juni und von Oktober bis Dezember. Ugandas Kakaobohnen sind wegen ihres Geschmacks geschätzt. Die Produktion stieg von 5.000 Tonnen im Jahr 2000 auf über 30.000 Tonnen heute. Die Regierung fördert den Anbau durch Schädlingsbekämpfung.",
+      hu: "Uganda kakaóültetvényei főként a középső és nyugati régiókban találhatók, különösen Mukono, Kayunga és Bundibugyo kerületekben. A kakaótermesztés viszonylag új ágazat, de az elmúlt évtizedekben növekedett. A kakaófa a trópusi éghajlatból és az egyenletes csapadékból profitál. Évente kétszer szüretelnek: áprilistól júniusig és októbertől decemberig. Uganda kakaóbabját ízük miatt értékelik. A termelés 2000-ben 5000 tonnáról mára több mint 30 000 tonnára nőtt. A kormány kártevőirtási programokkal segíti a termesztést.",
+      ro: "Plantațiile de cacao din Uganda sunt situate în principal în regiunile centrale și de vest, în special în districtele Mukono, Kayunga și Bundibugyo. Cultivarea cacaoului este relativ nouă, dar a crescut în ultimele decenii. Arborele de cacao beneficiază de climatul tropical și precipitațiile bine distribuite. Recoltarea are loc de două ori pe an: aprilie-iunie și octombrie-decembrie. Boabele de cacao ugandeze sunt apreciate pentru aroma lor. Producția a crescut de la 5.000 de tone în 2000 la peste 30.000 de tone în prezent. Guvernul sprijină cultivarea prin combaterea dăunătorilor.",
+      en: "Cocoa plantations in Uganda are concentrated in central and western districts such as Mukono, Kayunga, and Bundibugyo. Cocoa cultivation has grown significantly since the 1990s, driven by global demand and government support. The trees thrive in the humid tropical conditions. Harvesting occurs biannually: main crop October-December and mid crop April-June. Ugandan cocoa is of fine flavor, used in premium chocolate. Production rose from 5,000 tons in 2000 to over 30,000 tons recently. The Uganda Cocoa Development Program provides extension services and disease control. Most cocoa is exported to Europe and the US.",
+    },
+    factsAdvanced: {
+      de: ["Produktion: über 30.000 Tonnen (2023)", "Wachstum seit 2000: 500%", "Ernten pro Jahr: 2", "Hauptsaison: Oktober-Dezember", "Nebensaison: April-Juni", "Exportanteil: ca. 90%"],
+      hu: ["Termelés: több mint 30 000 tonna (2023)", "Növekedés 2000 óta: 500%", "Éves betakarítások: 2", "Főszezon: október-december", "Mellékszezon: április-június", "Export aránya: kb. 90%"],
+      ro: ["Producție: >30.000 tone (2023)", "Creștere din 2000: 500%", "Recolte pe an: 2", "Sezon principal: octombrie-decembrie", "Sezon secundar: aprilie-iunie", "Export: ~90%"],
+      en: ["Production: >30,000 tons (2023)", "Growth since 2000: 500%", "Harvests per year: 2", "Main season: Oct-Dec", "Secondary season: Apr-Jun", "Export share: ~90%"],
+    },
+  },
   {
     id: "fish-farming-lake-life-v2",
     type: "agriculture",
     parent: "UG-KI",
     coords: [32.8, 0.1],
-    name: { de: "Aquakulturen-Viktoriasee", hu: "Viktória-tavi Haltenyészet", ro: "Avacultură în lacul Victoria", en: "Lake Victoria Fish Farming",
-image: "/poi-images/fish-farming-lake-life-v2.webp"
-},
+    name: { de: "Aquakulturen-Viktoriasee", hu: "Viktória-tavi Haltenyészet", ro: "Avacultură în lacul Victoria", en: "Lake Victoria Fish Farming"},
+    image: "/poi-images/fish-farming-lake-life-v2.webp",
     description: { de: "Moderne Fischzuchtbetriebe am Rande des Victoriasees.", hu: "Modern haltenyésztő gazdaságok a Viktória-tó partján.", ro: "Ferme moderne de pește la marginea lacului Victoria.", en: "Modern fish farming operations on the edge of Lake Victoria." },
     facts: {
       de: ["Tilapia ist die wichtigste Art.", "Wichtige Proteinquelle für die Bevölkerung."],
       hu: ["A tilápia a legfontosabb faj.", "Fontos fehérjeforrás a lakosság számára."],
       ro: ["Tilapia este specia principală.", "Sursă importantă de proteine pentru populație."],
       en: ["Tilapia is the main species.", "Important protein source for the population."]
-    }, image: "/poi-images/fish-farming-lake-life-v2.webp"},
+    }, image: "/poi-images/fish-farming-lake-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Fischerei im Victoriasee ist eine wichtige Wirtschaftsaktivität in Uganda. Der See erstreckt sich über 68.800 km² und ist der größte See Afrikas. Die Hauptfischarten sind Nilbarsch, Tilapia und Viktoria-Sardine (Mukene). Die Fischerei beschäftigt über 200.000 Menschen direkt. Der Fang wird in Städten wie Entebbe, Jinja und Kampala vermarktet. Die ugandische Fischereiproduktion beträgt jährlich über 300.000 Tonnen. Der Victoriasee liefert etwa 80% des ugandischen Fischfangs. Die Regierung reguliert die Fischerei durch Quoten und Schonzeiten.",
+      hu: "A Viktória-tó halászata fontos gazdasági tevékenység Ugandában. A tó 68 800 km²-en terül el, Afrika legnagyobb tava. A fő halfajok a nílusi sügér, tilápia és a viktoriánus szardella (mukene). A halászat közvetlenül több mint 200 000 embert foglalkoztat. A fogást Entebbe, Jinja és Kampala városaiban értékesítik. Uganda halászati termelése évente meghaladja a 300 000 tonnát. A Viktória-tó adja Uganda halfogásának körülbelül 80%-át. A kormány kvótákkal és tilalmi időszakokkal szabályozza a halászatot.",
+      ro: "Pescuitul în Lacul Victoria este o activitate economică majoră în Uganda. Lacul se întinde pe 68.800 km², fiind cel mai mare lac din Africa. Speciile principale sunt bibanul de Nil, tilapia și sardina Victoria (mukene). Pescuitul angajează direct peste 200.000 de persoane. Captura este comercializată în orașe precum Entebbe, Jinja și Kampala. Producția piscicolă a Ugandei depășește 300.000 de tone anual. Lacul Victoria asigură aproximativ 80% din captura totală a Ugandei. Guvernul reglementează pescuitul prin cote și perioade de interdicție.",
+      en: "Fish farming in Lake Victoria is central to Uganda's economy. Lake Victoria, covering 68,800 km², is Africa's largest lake by area and hosts a major fishery. Key species include Nile perch, tilapia, and the freshwater sardine (mukene). The fishing industry employs over 200,000 people directly. Annual fish production exceeds 300,000 tons, with Lake Victoria contributing about 80%. The lake also supports cage aquaculture, particularly for tilapia. Concerns over overfishing and invasive species like water hyacinth have led to management measures. Uganda exports fish to Europe and the Middle East.",
+    },
+    factsAdvanced: {
+      de: ["See Fläche: 68.800 km²", "Jährlicher Fang: über 300.000 Tonnen", "Anteil des Sees an UG Fisch: 80%", "Fischarten: Nilbarsch, Tilapia, Mukene", "Direkt Beschäftigte: über 200.000", "Export: 40% in die EU und Naher Osten"],
+      hu: ["Tó területe: 68 800 km²", "Éves fogás: több mint 300 000 tonna", "A tó részesedése UG halászatában: 80%", "Halfajok: nílusi sügér, tilápia, mukene", "Közvetlenül foglalkoztatottak: több mint 200 000", "Export: 40% az EU-ba és Közel-Keletre"],
+      ro: ["Suprafața lacului: 68.800 km²", "Captură anuală: >300.000 tone", "Contribuția lacului la pescuitul UG: 80%", "Specii: biban de Nil, tilapia, mukene", "Angajați direcți: >200.000", "Export: 40% către UE și Orientul Mijlociu"],
+      en: ["Lake area: 68,800 km²", "Annual catch: >300,000 tons", "Lake's share of UG fish: 80%", "Key species: Nile perch, tilapia, mukene", "Direct employment: >200,000", "Export ratio: 40% to EU & Middle East"],
+    },
+  },
   {
     id: "pineapple-farms-life-v2",
     type: "agriculture",
     parent: "UG-LU",
     coords: [32.4, 0.6],
-    name: { de: "Ananasfarmen", hu: "Ananászfarmok", ro: "Plantații de ananas", en: "Pineapple Farms",
-image: "/poi-images/pineapple-farms-life-v2.webp"
-},
+    name: { de: "Ananasfarmen", hu: "Ananászfarmok", ro: "Plantații de ananas", en: "Pineapple Farms"},
+    image: "/poi-images/pineapple-farms-life-v2.webp",
     description: { de: "Große Ananasplantagen, die das ganze Jahr liefern.", hu: "Nagy ananászültetvények, amelyek egész évben szállítanak.", ro: "Plantații mari de ananas care aprovizionează tot anul.", en: "Large pineapple plantations that supply year-round." },
     facts: {
       de: ["Bekannt für die Süße der Früchte.", "Export in andere Regionen."],
       hu: ["Híresek a gyümölcsök édességéről.", "Export más régiókba."],
       ro: ["Faimoase pentru dulceața fructelor.", "Export în alte regiuni."],
       en: ["Known for the sweetness of the fruit.", "Export to other regions."]
-    }, image: "/poi-images/pineapple-farms-life-v2.webp"},
+    }, image: "/poi-images/pineapple-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ananasplantagen in Uganda, insbesondere in der Region Luwero und Kayunga, haben seit den 1990er Jahren eine wirtschaftliche Renaissance erlebt. Ananas (Ananas comosus) wird auf etwa 4.500 Hektar angebaut, mit einem jährlichen Ertrag von rund 100.000 Tonnen. Der Großteil der Ernte wird frisch verzehrt, aber auch zu Saft, Marmelade und Trockenfrüchten verarbeitet. Die Einführung von Bewässerungssystemen und verbesserten Sorten wie 'Smooth Cayenne' hat die Produktivität gesteigert. Kleinbauern kooperieren in Genossenschaften, um den Zugang zu Märkten in Kampala und für den Export in die Nachbarländer zu sichern. Die Plantagen bieten saisonale Beschäftigung für Tausende von Landarbeitern, obwohl Herausforderungen wie Schädlingsbefall und schwankende Preise bestehen.",
+      hu: "Az ugandai ananászültetvények trópusi éghajlaton, 800-1500 méteres tengerszint feletti magasságban találhatók, ahol az évi csapadékmennyiség eléri az 1500 mm-t. A termesztés során a talaj előkészítése, az ananászdugványok (suckers) ültetése, valamint a gyomirtás és a műtrágyázás kiemelt fontosságú. Az ananász érési ideje 12-18 hónap, a betakarítás kézzel történik. A legnagyobb termőterületek Kayunga, Mukono és Luwero kerületekben vannak. Az öntözéses rendszerek lehetővé teszik a termelést a száraz évszakban is. A termésátlag hektáronként 25-30 tonna között mozog. A növényvédő szerek használata növekvő tendenciát mutat, bár az organikus termesztés is terjedőben van.",
+      ro: "Plantațiile de ananas din Uganda se întind pe aproximativ 4.500 de hectare, concentrate în districtele Luwero, Kayunga și Mukono. Solul bine drenat, nisipos-lutos și precipitațiile anuale de 1.200-1.500 mm creează condiții optime. Ananasul se cultivă prin metode tradiționale, cu plantarea lăstarilor în rânduri duble pentru a maximiza spațiul. Recoltarea se face manual, deoarece fructele se coc neuniform. Odată tăiați, ananasul se păstrează maximum 48 de ore înainte de procesare. Aproximativ 70% din producție se vinde pe piețele locale, restul fiind exportat în Kenya, Sudanul de Sud și Republica Democrată Congo. Procesarea include producția de suc și ananas deshidratat, contribuind la reducerea risipei alimentare.",
+      en: "Uganda's pineapple farms, primarily in the central region, benefit from fertile volcanic soils and a bimodal rainfall pattern. The crop cycle spans 12 to 18 months from planting to harvest. Over 20,000 smallholder farmers depend on pineapple cultivation for their livelihoods. The industry is supported by the National Agricultural Advisory Services (NAADS), which provides improved suckers and training on pest management. Pineapple production has grown by 15% annually over the past decade, driven by demand from Kampala's burgeoning population and regional exports. However, post-harvest losses remain high, estimated at 25%, due to inadequate cold storage facilities. The government has initiated programs to establish processing plants to add value and stabilize prices.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: ca. 4.500 Hektar", "Jahresproduktion: rund 100.000 Tonnen", "Wichtige Anbaugebiete: Luwero, Kayunga, Mukono", "Haupterntezeit: November bis Februar", "Arbeitskräfte: über 20.000 Kleinbauern", "Durchschnittlicher Ertrag: 25-30 Tonnen pro Hektar"],
+      hu: ["Tengerszint feletti magasság: 800-1500 m", "Éves csapadék: 1500 mm", "Érési idő: 12-18 hónap", "Legnagyobb termőterület: Kayunga körzet", "Öntözött terület aránya: 30%", "Bio-termesztés aránya: 5%"],
+      ro: ["Suprafață totală: 4.500 ha", "Recoltă manuală: 100%", "Export: 30% din producție", "Piere post-recoltare: 25%", "Distanța medie până la piață: 150 km", "Capacitate de procesare: 10.000 tone/an"],
+      en: ["Annual growth rate: 15%", "Number of smallholders: 20,000+", "Harvest season: Nov-Feb", "Post-harvest loss: 25%", "Ripe fruit shelf life: 48 hours", "Processing plants: 3 major facilities"],
+    },
+  },
   {
     id: "vanilla-farms-life-v2",
     type: "agriculture",
     parent: "UG-MK",
     coords: [32.2, 0.4],
-    name: { de: "Vanille-Farmen", hu: "Vaníliafarmok", ro: "Plantații de vanilie", en: "Vanilla Farms",
-image: "/poi-images/vanilla-farms-life-v2.webp"
-},
+    name: { de: "Vanille-Farmen", hu: "Vaníliafarmok", ro: "Plantații de vanilie", en: "Vanilla Farms"},
+    image: "/poi-images/vanilla-farms-life-v2.webp",
     description: { de: "Uganda ist ein wichtiger Produzent von Vanille.", hu: "Uganda a vanília fontos termelője.", ro: "Uganda este un producător important de vanilie.", en: "Uganda is an important producer of vanilla." },
     facts: {
       de: ["Aufwendige Handbestäubung erforderlich.", "Sehr wertvolles Exportprodukt."],
       hu: ["Bonyolult kézi megporzást igényel.", "Nagyon értékes exporttermék."],
       ro: ["Necesită polenizare manuală elaborată.", "Produs de export foarte valoros."],
       en: ["Requires elaborate hand pollination.", "Very valuable export product."]
-    }, image: "/poi-images/vanilla-farms-life-v2.webp"},
+    }, image: "/poi-images/vanilla-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Vanille (Vanilla planifolia) wird in Uganda vorwiegend in den Regionen Mukono, Kayunga und Masaka angebaut. Die Orchidee benötigt Schatten von Bananen- oder Kaffeepflanzen sowie hohe Luftfeuchtigkeit. Die Bestäubung erfolgt von Hand, was die Vanille zu einer der arbeitsintensivsten Kulturen macht. Uganda ist der viertgrößte Vanilleproduzent Afrikas mit einer Jahresproduktion von rund 150 Tonnen getrockneter Vanilleschoten. Der Anbau begann in den 1990er Jahren aufgrund hoher Weltmarktpreise. Nach der Ernte werden die grünen Schoten durch einen mehrwöchigen Fermentationsprozess („Schwitzen“) in die schwarzen, aromatischen Schoten verwandelt. Die Qualität wird durch den Vanillingehalt bestimmt, der in Uganda zwischen 1,5 % und 2,5 % liegt.",
+      hu: "A vanília termesztése Ugandában árnyékolt körülmények között történik, általában banán vagy kávé növények társításával. A növény két év után kezd termést hozni, és akár 10 évig is produkál. A virágok mesterséges beporzása reggelente történik, mivel a virág csak egy napig nyitva. A hüvelyek 8-9 hónap alatt érnek be. A legfontosabb termőterületek Közép- és Kelet-Ugandában találhatók. A vanília ára jelentősen ingadozik: 2018-ban 600 USD/kg, 2020-ban 50 USD/kg volt. A termelők szövetkezeteket hoztak létre a jobb áralku érdekében. A kiváló minőségű ugandai vanília 2-2,5% vanillint tartalmaz.",
+      ro: "Cultivarea vaniliei în Uganda se concentrează în zonele umede, cu precipitații de 1.500-2.000 mm anual. Planta se agață de copaci sau suporți artificiali, atingând 10-15 metri înălțime. Polenizarea manuală este efectuată de lucrători calificați, fiecare polenizând 1.000-1.500 de flori pe zi. Procesul de vindecare durează 3-6 luni, inclusiv uscarea la soare și depozitarea în cutii ermetice. Uganda exportă vanilie în principal către Statele Unite, Europa și Japonia. În 2021, producția a fost de 150 de tone metrice. Prețul mediu de export a fost de 200 USD/kg. Provocările includ furturile și bolile fungice.",
+      en: "Vanilla farming in Uganda is a high-value, labor-intensive activity. The vines are cultivated under shade trees, with manual pollination the norm since natural pollinators (Melipona bees) are absent. The beans are harvested after 8-9 months and undergo a curing process of blanching, sweating, and drying over several months to develop the characteristic aroma. Ugandan vanilla is prized for its creamy, sweet profile. The sector is organized through cooperatives that provide training on organic certification and quality control. The vanilla industry faces challenges from price volatility and weather extremes, but efforts are underway to improve resilience through intercropping and irrigation.",
+    },
+    factsAdvanced: {
+      de: ["Produktionsmenge: ca. 150 Tonnen pro Jahr", "Vanillingehalt: 1,5 % bis 2,5 %", "Wichtige Anbaugebiete: Mukono, Kayunga, Masaka", "Bestäubung: 100 % von Hand", "Erstes Anbaujahr: 1990er Jahre", "Reifezeit der Schoten: 8-9 Monate"],
+      hu: ["Vanília ára 2018-ban: 600 USD/kg", "Vanília ára 2020-ban: 50 USD/kg", "Termő időszak: 2. évtől 10. évig", "Napi beporzási kapacitás: 1000-1500 virág", "Vanillintartalom: 2-2,5%", "Fő termőterületek: Közép- és Kelet-Uganda"],
+      ro: ["Producție 2021: 150 tone metrice", "Preț mediu export: 200 USD/kg", "Umiditate necesară: 1500-2000 mm/an", "Înălțimea plantei: 10-15 m", "Durata procesării: 3-6 luni", "Export principal: SUA, Europa, Japonia"],
+      en: ["Pollination rate: 100% manual", "Curing time: 3-6 months", "Organic share: 30%", "Harvest season: June-September", "Average yield: 200 kg/ha", "Number of cooperatives: 15"],
+    },
+  },
   {
     id: "groundnut-fields-life-v2",
     type: "agriculture",
     parent: "UG-NA",
     coords: [33.5, 1.8],
-    name: { de: "Erdnussfelder", hu: "Földimogyoró-földek", ro: "Câmpuri de arahide", en: "Groundnut Fields",
-image: "/poi-images/groundnut-fields-life-v2.webp"
-},
+    name: { de: "Erdnussfelder", hu: "Földimogyoró-földek", ro: "Câmpuri de arahide", en: "Groundnut Fields"},
+    image: "/poi-images/groundnut-fields-life-v2.webp",
     description: { de: "Weite Felder, in denen Erdnüsse angebaut werden.", hu: "Kiterjedt mezők, ahol földimogyorót termesztenek.", ro: "Câmpuri întinse unde se cultivă arahide.", en: "Vast fields where groundnuts are cultivated." },
     facts: {
       de: ["Wichtiges Grundnahrungsmittel.", "Erdnusssauce ist ein Klassiker."],
       hu: ["Fontos alapélelmiszer.", "A mogyorószósz klasszikus."],
       ro: ["Aliment de bază important.", "Sosul de arahide este un clasic."],
       en: ["Important staple food.", "Groundnut sauce is a classic."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Erdnüsse (Arachis hypogaea) sind eine wichtige Ölsaat und Eiweißquelle in Uganda. Sie werden hauptsächlich in den Regionen Eastern (Soroti, Kumi), Northern (Lira, Gulu) und Central (Masaka) angebaut. Die Anbaufläche beträgt etwa 250.000 Hektar mit einer Jahresproduktion von 250.000 Tonnen. Erdnüsse gedeihen in gut durchlässigen Sandböden und benötigen 450-550 mm Niederschlag während der Wachstumsperiode. Die Aussaat erfolgt zu Beginn der Regenzeit. Die Hülsen reifen unter der Erde und werden nach 120-150 Tagen geerntet. Ugandische Erdnüsse werden meist zu Paste (Erdnussbutter) verarbeitet und sind Grundlage vieler traditioneller Gerichte. Der Anbau erfolgt überwiegend von Kleinbauern auf Flächen unter 0,5 Hektar.",
+      hu: "A földimogyoró (Arachis hypogaea) Uganda egyik legfontosabb olajos magvú növénye. A termesztés hüvelyes növényként javítja a talaj nitrogéntartalmát. A vetésforgóban gyakran kukorica vagy manióka után következik. Az átlagos termés hektáronként 600-900 kg, ami alacsony a genetikai potenciálhoz (1500 kg/ha) képest. A betakarítás kézzel történik, a növények kihúzásával és a hüvelyek leválasztásával. A szárítás napon történik, majd a földimogyorót zsákokban tárolják. A legfőbb kártevők a tripszek és a levéltetvek. A vetőmag minősége javult a NARO (Nemzeti Mezőgazdasági Kutatási Szervezet) által nemesített fajtáknak köszönhetően.",
+      ro: "Câmpurile de arahide din Uganda ocupă aproximativ 250.000 de hectare, cu o producție anuală de 250.000 de tone. Arahidele sunt cultivate în principal în districtele Soroti, Kumi și Masaka. Solul nisipos-lutos este ideal, iar precipitațiile anuale de 500-600 mm sunt suficiente. Semănatul se face manual, în rânduri, la o adâncime de 3-5 cm. Recoltarea are loc la 120-150 de zile de la plantare. Arahidele sunt o sursă importantă de ulei (45-50% conținut de ulei) și proteine (25-30%). Procesarea include fabricarea untului de arahide și a uleiului, dar și consumul direct. Exporturile se îndreaptă către Sudanul de Sud și Republica Democrată Congo.",
+      en: "Groundnut fields in Uganda are predominantly smallholder-managed, with average plot sizes of 0.5 hectares. The crop is grown both for domestic consumption and sale. Serenut, a high-yielding variety developed by NARO, has increased yields by 30%. The crop requires minimal inputs but is susceptible to rosette disease, which can cause up to 100% loss. Farmers often intercropping groundnuts with cassava or pigeon peas to intensify land use. Post-harvest challenges include aflatoxin contamination due to improper drying. The government promotes pre-harvest and post-harvest handling techniques to reduce aflatoxin levels and improve market access.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 250.000 Hektar", "Jahresproduktion: 250.000 Tonnen", "Durchschnittsertrag: 600-900 kg/ha", "Reifezeit: 120-150 Tage", "Ölgehalt: 45-50 %", "Anbaugebiete: Soroti, Kumi, Masaka"],
+      hu: ["Genetikai potenciál: 1500 kg/ha", "Átlagos termés: 600-900 kg/ha", "Nitrogénmegkötés: fontos vetésforgóban", "Fő kártevők: tripszek, levéltetvek", "Nemesített fajta: Serenut", "Vetési mélység: 3-5 cm"],
+      ro: ["Suprafață: 250.000 ha", "Producție anuală: 250.000 tone", "Conținut ulei: 45-50%", "Conținut proteine: 25-30%", "Export: Sudanul de Sud, RD Congo", "Distanță semănat: 3-5 cm"],
+      en: ["Average plot size: 0.5 ha", "Yield increase with Serenut: 30%", "Rosette disease loss potential: 100%", "Aflatoxin contamination risk: high", "Intercropping partners: cassava, pigeon pea", "Number of farmers involved: 500,000+"],
+    },
   },
   {
     id: "banana-plantations-life-v2",
     type: "agriculture",
     parent: "UG-MB",
     coords: [30.6, 0.5],
-    name: { de: "Bananenplantagen", hu: "Banánültetvények", ro: "Plantații de banani", en: "Banana Plantations",
-image: "/poi-images/banana-plantations-life-v2.webp"
-},
+    name: { de: "Bananenplantagen", hu: "Banánültetvények", ro: "Plantații de banani", en: "Banana Plantations"},
+    image: "/poi-images/banana-plantations-life-v2.webp",
     description: { de: "Die Basis der ugandischen Ernährung.", hu: "Az ugandai étrend alapja.", ro: "Baza dietei ugandeze.", en: "The foundation of the Ugandan diet." },
     facts: {
       de: ["Matooke ist ein berühmtes Gericht daraus.", "Wächst fast überall."],
       hu: ["A Matooke egy híres étel belőle.", "Szinte mindenhol megterem."],
       ro: ["Matooke este un fel de mâncare faimos făcut din ele.", "Crește aproape peste tot."],
       en: ["Matooke is a famous dish made from it.", "Grows almost everywhere."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Bananen sind das wichtigste Grundnahrungsmittel in Uganda, mit einem jährlichen Pro-Kopf-Verbrauch von etwa 250 kg. Die Anbaufläche beträgt über 1,5 Millionen Hektar. Es werden über 100 Sorten angebaut, darunter Ostafrikanische Hochlandbananen (AAA-Genom) und Bierbananen. Die Plantagen liegen in den Höhenlagen des Lake Victoria Basin und der zentralen Region mit Niederschlägen von 1.000-1.500 mm pro Jahr. Die Pflanzen sind mehrjährig, die erste Ernte erfolgt nach 12-18 Monaten. Bananen liefern wichtige Nährstoffe und sind eine Einkommensquelle für Millionen von Kleinbauern. Die Erträge liegen bei 5-10 Tonnen pro Hektar, weit unter dem Potenzial von 30 Tonnen, aufgrund von Schädlingen und Bodenerschöpfung.",
+      hu: "A banánültetvények Ugandában a mezőgazdaság gerincét képezik. A növények vegetatív szaporítását sarjakkal (suckers) végzik. A talaj mulcsozása elengedhetetlen a nedvesség megtartásához. A legelterjedtebb fajták a 'Gonja' (főzőbanán) és a 'Kampala' (gyümölcsbanán). A banán termesztésében a legnagyobb kihívást a banánfürtlevél-betegség (BXW) jelenti, amely 50-100% veszteséget is okozhat. A növényeket 3x3 méteres távolságra ültetik, így hektáronként 1111 tő fér el. A betakarítás egész évben folyamatos. A banánból készült termékek közé tartozik a banánsör és a banánliszt.",
+      ro: "Plantațiile de banane din Uganda acoperă peste 1,5 milioane de hectare, concentrate în zonele de altitudine medie din sud și centru. Soiurile predominante sunt bananele de gătit (matooke) și bananele de desert. Recoltarea se face la 3-4 luni după înflorire, când fructele sunt încă verzi. Bananele se coc artificial cu etilenă. Producția medie este de 6 tone per hectar, dar cu tehnologii îmbunătățite poate ajunge la 20 de tone. Bananele sunt o sursă importantă de potasiu și vitamina C. Exporturile sunt limitate datorită distanțelor mari și infrastructurii deficitare. Piața principală este Kampala și orașele mari. Fermierii se confruntă cu dăunători precum nematozii și gărgărițele.",
+      en: "Banana plantations in Uganda are a staple of both diet and economy. The crop is perennial with sequential harvesting, allowing year-round production. The major growing areas include Masaka, Rakai, and Luwero. The banana weevil (Cosmopolites sordidus) and nematodes can reduce yields by up to 40%. Integrated pest management (IPM) practices are being promoted. Tissue culture plantlets have been introduced to provide disease-free planting material. The banana sector employs an estimated 1.5 million households. Value addition includes processing into chips, flour, and wine. The government supports the banana industry through research on disease resistance and soil fertility management.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 1,5 Millionen Hektar", "Pro-Kopf-Verbrauch: 250 kg/Jahr", "Sortenvielfalt: über 100 Sorten", "Erstertrag: nach 12-18 Monaten", "Durchschnittsertrag: 5-10 t/ha", "Potentieller Ertrag: 30 t/ha"],
+      hu: ["Ültetési távolság: 3x3 m", "Tőszám: 1111 tő/ha", "BXW betegség vesztesége: 50-100%", "Szaporítás: sarjakkal (suckers)", "Fő fajták: Gonja, Kampala", "Folyamatos betakarítás: egész évben"],
+      ro: ["Suprafață: 1,5 milioane ha", "Producție medie: 6 t/ha", "Coacere artificială: cu etilenă", "Recoltare: la 3-4 luni după înflorire", "Dăunători principali: nematozi, gărgărițe", "Exporturi: limitate"],
+      en: ["Households involved: 1.5 million", "Weevil yield loss: up to 40%", "Tissue culture adoption: increasing", "Year-round production: yes", "Value-added products: chips, flour, wine", "Major regions: Masaka, Rakai, Luwero"],
+    },
   },
   {
     id: "maize-fields-life-v2",
     type: "agriculture",
     parent: "UG-KI",
     coords: [32.3, 0.5],
-    name: { de: "Maisfelder", hu: "Kukoricaföldek", ro: "Câmpuri de porumb", en: "Maize Fields",
-image: "/poi-images/maize-fields-life-v2.webp"
-},
+    name: { de: "Maisfelder", hu: "Kukoricaföldek", ro: "Câmpuri de porumb", en: "Maize Fields"},
+    image: "/poi-images/maize-fields-life-v2.webp",
     description: { de: "Der am weitesten verbreitete Anbau von Mais.", hu: "A legelterjedtebb kukoricatermesztés.", ro: "Cea mai răspândită cultivare a porumbului.", en: "The most widespread cultivation of maize." },
     facts: {
       de: ["Hauptnahrungsmittel in vielen Haushalten.", "Zwei Ernten pro Jahr möglich."],
       hu: ["Fő élelmiszer sok háztartásban.", "Két aratás lehetséges évente."],
       ro: ["Aliment de bază în multe gospodării.", "Două recolte pe an sunt posibile."],
       en: ["Staple food in many households.", "Two harvests per year possible."]
-    }, image: "/poi-images/maize-fields-life-v2.webp"},
+    }, image: "/poi-images/maize-fields-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Mais (Zea mays) ist nach Bananen das zweitwichtigste Grundnahrungsmittel in Uganda. Die Anbaufläche beträgt rund 1,2 Millionen Hektar mit einer jährlichen Produktion von 3,5 Millionen Tonnen. Mais wird in allen Regionen angebaut, die Hauptanbaugebiete sind Eastern (Tororo, Busia) und Central (Kayunga). Die Aussaat erfolgt zu Beginn der zwei Regenzeiten (März-Mai und September-November). Die meisten Betriebe haben weniger als zwei Hektar. Die Erträge liegen bei 1,5-3 Tonnen pro Hektar, wobei verbesserte Hybridsorten bis zu 6 Tonnen erreichen. Ein großes Problem ist der Lagerkäfer (Prostephanus truncatus), der bis zu 30 % Verlust verursachen kann. Die Regierung fördert die Nutzung von verbessertem Saatgut und Düngemitteln durch Subventionsprogramme.",
+      hu: "A kukorica (Zea mays) Uganda egyik legfontosabb kalászos növénye, nagy mennyiségben használják emberi fogyasztásra (kukoricaliszt, főtt kukorica) és takarmányként. A legtöbb gazda esős évszakban termeszti, öntözés nélkül. A vetést kézzel, kapával végzik. A gyomirtás vegyszerrel vagy mechanikusan történik. A betakarítás után a csöveket napon szárítják, majd kézzel morzsolják. A Post-harvest veszteség eléri a 30%-ot, főként a kártevők és a nem megfelelő tárolás miatt. A kukorica ára erősen ingadozik a szezon végén. A NARO által kifejlesztett hibridek, mint például a 'Longe 5', ellenállóbbak a betegségekkel szemben.",
+      ro: "Culturile de porumb din Uganda acoperă 1,2 milioane de hectare, cu o producție medie de 2,5 tone per hectar. Porumbul este cultivat atât pentru consumul uman (mălai, porumb fiert) cât și pentru furaje. Cele mai productive regiuni sunt Tororo, Busia și Iganga. Semănatul se face manual, la o densitate de 50.000-60.000 plante per ha. Producția totală anuală de circa 3,5 milioane de tone este insuficientă pentru a acoperi cererea, necesitând importuri din Tanzania și Kenya. Porumbul este afectat de mucegaiul de tulpină și de viermii de sârmă. Depozitarea în silozuri metalice reduce pierderile post-recoltare. Programele guvernamentale oferă inputuri subvenționate.",
+      en: "Maize fields are a common sight across Uganda's agricultural landscape. The crop is grown both under rainfed and, to a lesser extent, irrigated conditions. Planting density averages 55,000 plants per hectare. The main varieties are hybrid 'Longe 5', 'Longe 7', and 'DH10'. The maize sector faces challenges from climate variability, soil fertility decline, and aflatoxin contamination. To combat these, the government and NGOs promote conservation agriculture practices, such as minimum tillage and crop rotation. The maize value chain includes small-scale millers who produce flour for local markets. The Ugandan Maize Development Association works to improve market linkages and quality standards.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 1,2 Millionen Hektar", "Jahresproduktion: 3,5 Millionen Tonnen", "Durchschnittsertrag: 1,5-3 t/ha", "Hauptanbaugebiete: Tororo, Busia, Kayunga", "Verlust durch Lagerkäfer: bis zu 30%", "Hybridsorten: Longe 5, Longe 7"],
+      hu: ["Vetés sűrűsége: 50.000-60.000 tő/ha", "Kártevő okozta veszteség: 30%", "Hibridek: Longe 5, Longe 7", "Öntözés aránya: alacsony", "Betakarítás: kézi", "Ár ingadozása: szezonális"],
+      ro: ["Suprafață: 1,2 milioane ha", "Producție totală: 3,5 milioane tone", "Producție medie: 2,5 t/ha", "Densitate: 50.000-60.000 plante/ha", "Importuri: din Tanzania, Kenya", "Depozitare: silozuri metalice"],
+      en: ["Average yield: 2.5 t/ha", "Major varieties: Longe 5, 7, DH10", "Aflatoxin prevalence: high", "Conservation agriculture adoption: growing", "Number of smallholder farmers: 2 million", "Maize millers: 3,000 small-scale units"],
+    },
+  },
   {
     id: "potato-farms-life-v2",
     type: "agriculture",
     parent: "UG-KS",
     coords: [29.7, -1.0],
-    name: { de: "Kartoffelfarmen-Hochland", hu: "Felföldi Krumplifarmok", ro: "Ferme de cartofi în zonele înalte", en: "Highland Potato Farms",
-image: "/poi-images/potato-farms-life-v2.webp"
-},
+    name: { de: "Kartoffelfarmen-Hochland", hu: "Felföldi Krumplifarmok", ro: "Ferme de cartofi în zonele înalte", en: "Highland Potato Farms"},
+    image: "/poi-images/potato-farms-life-v2.webp",
     description: { de: "Anbau von Kartoffeln in den kühlen Hochlandregionen.", hu: "Burgonyatermesztés a hűvös felföldi régiókban.", ro: "Cultivarea cartofilor în regiunile montane răcoroase.", en: "Cultivation of potatoes in the cool highland regions." },
     facts: {
       de: ["Gedeihen besonders gut im Bwindi-Gebiet.", "Wichtige Einnahmequelle."],
       hu: ["Különösen jól terem a Bwindi környékén.", "Fontos bevételi forrás."],
       ro: ["Prosperă în special în zona Bwindi.", "Sursă importantă de venit."],
       en: ["Thrive especially well in the Bwindi area.", "Important source of income."]
-    }, image: "/poi-images/potato-farms-life-v2.webp"},
+    }, image: "/poi-images/potato-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Kartoffeln (Solanum tuberosum) werden im Hochland Ugandas angebaut, hauptsächlich in den Regionen Southwestern (Kabale, Kisoro) und Eastern (Mount Elgon). Die Höhenlagen von 1.500 bis 3.000 Meter über dem Meeresspiegel bieten kühle Temperaturen, die für den Kartoffelanbau ideal sind. Die Anbaufläche beträgt etwa 150.000 Hektar. Die Saison erstreckt sich über das ganze Jahr, mit zwei Pflanzzeiten. Verwendet werden Zertifizierte Saatknollen, meist Sorten wie 'Victoria' und 'Cruza'. Die Erträge liegen bei 10-15 Tonnen pro Hektar. Kartoffeln sind ein wichtiges Nahrungsmittel für die wachsende städtische Bevölkerung und werden für Pommes frites und Chips verarbeitet. Probleme sind die Kartoffelfäule (Phytophthora infestans) und unzureichende Kühllagerung.",
+      hu: "A burgonya termesztése Uganda délnyugati részén koncentrálódik, ahol a vulkáni talaj és a hűvös éghajlat ideális feltételeket biztosít. A legfontosabb termőterület a Kigezi régió (Kabale, Kisoro). A burgonyát dombokon, teraszokon termesztik, gyakran a kukoricával vagy babbal vetésforgóban. A szaporítás kiváló minőségű, ellenálló fajtákkal történik, mint a 'Kinigi' és 'Rwantobo'. A betakarítás után a burgonyát sötét, hűvös helyen tárolják, bár a tárolási kapacitás korlátozott. A mezőgazdasági kutatóintézetek (NARO) folyamatosan dolgoznak a késői vész (Phytophthora) elleni rezisztencia javításán. A burgonya termésátlaga 10-15 t/ha, ami messze elmarad a genetikai potenciáltól (40 t/ha).",
+      ro: "Fermele de cartofi din Uganda sunt situate în zonele muntoase, la altitudini de 1.500-3.000 m. Principalele districte sunt Kabale, Kisoro și Mbale. Solurile vulcanice fertile și precipitațiile anuale de 1.000-1.500 mm sunt favorabile. Sezonul de plantare principal este martie-aprilie, iar recoltarea are loc în iulie-august. Soiurile populare includ 'Victoria', 'Cruza' și 'Kinigi'. Cartofii sunt consumați local proaspeți sau transformați în chipsuri și piure. Producția anuală totală este de aproximativ 500.000 de tone. Exporturile sunt limitate, dar există potențial pentru piețele regionale. Bolile majore sunt mana cartofului și ofilirea bacteriană. Se folosesc fungicide pentru combatere.",
+      en: "Highland potato farms in Uganda benefit from volcanic soils and cool temperatures, enabling two growing seasons per year. The crop is a vital source of income for farmers in the southwestern highlands. Seed potato production is a specialized sub-sector, with disease-free minitubers produced in screenhouses. The National Potato Program has introduced late blight resistant varieties like 'Mpologoma' and 'Nkumba'. Post-harvest losses are estimated at 20% due to bruising and sprouting. Improved storage technologies, such as diffused light storage, are being promoted. The potato value chain is growing, with fast-food restaurants driving demand for processing-grade potatoes.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 150.000 Hektar", "Jahresproduktion: 500.000 Tonnen", "Durchschnittsertrag: 10-15 t/ha", "Anbauhöhe: 1.500-3.000 m ü. M.", "Hauptsorten: Victoria, Cruza", "Hauptanbaugebiete: Kabale, Kisoro"],
+      hu: ["Genetikai potenciál: 40 t/ha", "Fajták: Kinigi, Rwantobo", "Vetésforgó: kukorica, bab", "Tárolási mód: sötét, hűvös", "Késői vész elleni rezisztencia: nemesítés alatt", "Fő termőterület: Kigezi régió"],
+      ro: ["Altitudine: 1.500-3.000 m", "Producție anuală: 500.000 tone", "Soiuri: Victoria, Cruza, Kinigi", "Sezon plantare: martie-aprilie", "Recoltare: iulie-august", "Export: limitat"],
+      en: ["Growing seasons: 2 per year", "Post-harvest loss: 20%", "Screenhouse production: minitubers", "Resistant varieties: Mpologoma, Nkumba", "Processing demand: fast-food sector", "Storage technology: diffused light storage"],
+    },
+  },
   {
     id: "sunflower-farms-life-v2",
     type: "agriculture",
     parent: "UG-NA",
     coords: [33.1, 1.4],
-    name: { de: "Sonnenblumenfelder", hu: "Napraforgómezők", ro: "Câmpuri de floarea-soarelui", en: "Sunflower Fields",
-image: "/poi-images/sunflower-farms-life-v2.webp"
-},
+    name: { de: "Sonnenblumenfelder", hu: "Napraforgómezők", ro: "Câmpuri de floarea-soarelui", en: "Sunflower Fields"},
+    image: "/poi-images/sunflower-farms-life-v2.webp",
     description: { de: "Anbau von Sonnenblumen für die Ölproduktion.", hu: "Napraforgótermesztés olajgyártáshoz.", ro: "Cultivarea florii-soarelui pentru producția de ulei.", en: "Cultivation of sunflowers for oil production." },
     facts: {
       de: ["Sonnenblumenöl ist ein lokales Produkt.", "Bunte Felder im Sommer."],
       hu: ["A napraforgóolaj helyi termék.", "Színes mezők nyáron."],
       ro: ["Uleiul de floarea-soarelui este un produs local.", "Câmpuri colorate vara."],
       en: ["Sunflower oil is a local product.", "Colorful fields in summer."]
-    }, image: "/poi-images/sunflower-farms-life-v2.webp"},
+    }, image: "/poi-images/sunflower-farms-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Sonnenblumen (Helianthus annuus) werden in Uganda vor allem in den nördlichen und östlichen Regionen angebaut, wie Gulu, Lira und Soroti. Die Anbaufläche beträgt etwa 200.000 Hektar mit einer Jahresproduktion von 150.000 Tonnen Saatgut. Sonnenblumen sind trockenheitsresistent und gedeihen in halbtrockenen Gebieten mit 500-800 mm Niederschlag. Die Aussaat erfolgt zu Beginn der Regenzeit, die Ernte nach 90-120 Tagen. Das Öl wird zum Kochen verwendet, der Presskuchen als Viehfutter. Der Ölgehalt der Kerne liegt zwischen 35% und 40%. Die Regierung fördert den Anbau, um Importe von Speiseöl zu reduzieren. Die meisten Betriebe sind kleinbäuerlich, über 1 Hektar. Schädlinge wie Vögel und Insekten können erhebliche Schäden verursachen.",
+      hu: "A napraforgó (Helianthus annuus) Uganda szárazabb régióiban népszerű növény, mert kevés vizet igényel. A növények magassága 1,5-3 méter között változik. A virágfejek napfény felé fordulnak (heliotropizmus). A legjobb talajok a jól vízelvezető homokos vályogtalajok. A vetést követően 10-14 nap alatt kel ki. A növényeket ritkítani kell, hogy 30-40 cm távolság legyen közöttük. A betakarított fejeket napon szárítják, majd a magvakat kicséplik. A napraforgóolaj finomítása kisebb malmokban történik. Az olaj minősége magas, E-vitaminban gazdag. A termelők szövetkezetekbe tömörülnek a jobb piaci juss érdekében.",
+      ro: "Culturile de floarea-soarelui din Uganda se întind pe aproximativ 200.000 de hectare, cu producția concentrată în nord (Gulu, Lira) și est (Soroti). Floarea-soarelui este o cultură de ulei, folosită pentru producția de ulei comestibil. Semănatul se face în aprilie-mai, la o adâncime de 4-6 cm. Densitatea recomandată este de 40.000-50.000 plante per ha. Producția medie de semințe este de 1-1,5 tone per ha. Uleiul extras reprezintă 35-40% din greutatea semințelor. Turta rămasă este folosită ca hrană pentru animale. Principala provocare este atacul păsărilor care consumă semințele coapte. Se folosesc sperietori și plase pentru protecție.",
+      en: "Sunflower fields in Uganda are a key source of edible oil. The crop is resilient and requires minimal inputs, making it suitable for smallholders. The main variety is 'Hysun 33', a hybrid with high oil content. Planting is done in rows, with a spacing of 75 cm between rows and 30 cm within rows. The flowering period attracts bees, supporting local apiculture. Harvesting is manual, with heads cut and dried for 3-5 days before threshing. The government has established oil extraction plants in Gulu and Soroti to add value. Sunflower oil is increasingly replacing imported palm oil. The sector faces challenges from price competition and aging seed varieties.",
+    },
+    factsAdvanced: {
+      de: ["Anbaufläche: 200.000 Hektar", "Jahresproduktion: 150.000 Tonnen", "Ölgehalt: 35-40 %", "Wuchsdauer: 90-120 Tage", "Anbaugebiete: Gulu, Lira, Soroti", "Niederschlagsbedarf: 500-800 mm"],
+      hu: ["Növény magasság: 1,5-3 m", "Tőtávolság: 30-40 cm", "Csírázás: 10-14 nap", "Heliotropizmus: virágfejek napszakos mozgása", "E-vitamin tartalom: magas", "Olajfinomítás: kisebb malmokban"],
+      ro: ["Suprafață: 200.000 ha", "Producție semințe: 1-1,5 t/ha", "Densitate: 40.000-50.000 plante/ha", "Adâncime semănat: 4-6 cm", "Conținut ulei: 35-40%", "Protecție păsări: sperietori, plase"],
+      en: ["Main variety: Hysun 33", "Row spacing: 75 cm inter-row, 30 cm intra-row", "Harvest period: August-September", "Processing plants: 2 major (Gulu, Soroti)", "Substitution of palm oil: increasing", "Bee attraction: supports honey production"],
+    },
+  },
   {
     id: "chikwawa-sanctuary-life-v2",
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [33.3, 0.4],
-    name: { de: "Wildtierreservat-Jinja", hu: "Jinja Vadvédelmi Terület", ro: "Rezervația Jinja", en: "Jinja Wildlife Sanctuary",
-image: "/poi-images/chikwawa-sanctuary-life-v2.webp"
-},
+    name: { de: "Wildtierreservat-Jinja", hu: "Jinja Vadvédelmi Terület", ro: "Rezervația Jinja", en: "Jinja Wildlife Sanctuary"},
+    image: "/poi-images/chikwawa-sanctuary-life-v2.webp",
     description: { de: "Ein kleines Schutzgebiet am Nilufer.", hu: "Egy kisebb védett terület a Nílus partján.", ro: "O arie protejată mică pe malul Nilului.", en: "A small sanctuary on the banks of the Nile." },
     facts: {
       de: ["Schutz von Wasservögeln.", "Schöne Uferlandschaft."],
       hu: ["Vízi madarak védelme.", "Szép folyóparti táj."],
       ro: ["Protecția păsărilor de apă.", "Peisaj frumos de mal al râului."],
       en: ["Protection of water birds.", "Beautiful riverbank landscape."]
-    }, image: "/poi-images/chikwawa-sanctuary-life-v2.webp"},
+    }, image: "/poi-images/chikwawa-sanctuary-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Jinja Wildlife Sanctuary liegt in der Nähe der Quelle des Nils am Viktoriasee. Es erstreckt sich über 3.000 Hektar und beherbergt eine Vielzahl von Wildtieren, darunter Zebras, Wasserböcke, Warzenschweine und über 200 Vogelarten. Das Schutzgebiet wurde 1950 gegründet, um die Tierpopulation in der Region zu schützen. Es dient auch als Korridor für Wildtiere zwischen dem Viktoriasee und den angrenzenden Gebieten. Besucher können Pirschfahrten und Bootsfahrten auf dem Nil unternehmen. Die Parkverwaltung legt großen Wert auf Umwelterziehung und Gemeindebeteiligung. In den letzten Jahren wurden Programme zur Wiederansiedlung einheimischer Arten durchgeführt. Die Finanzierung erfolgt durch Eintrittsgelder und Spenden.",
+      hu: "A Jinja Wildlife Sanctuary Uganda egyik kevésbé ismert vadvédelmi területe, mely közvetlenül a Viktória-tó partján fekszik. A rezervátumot 1950-ben hozták létre, hogy megőrizzék a tó körüli élővilágot. Az állatvilágban megtalálhatóak a nagyobb antilopok, például a pukuk (Kobus kob) és a víziantilop (Kobus ellipsiprymnus). A rezervátum fontos szerepet játszik a madárvonulásban, hiszen a Kelet-afrikai hasadékvölgy madárútján fekszik. Az itt élő madarak közé tartozik a gólyatöcs (Himantopus himantopus) és a vízirigó (Ceryle rudis). A területet a kenyai határ közelsége miatt különösen óvni kell az orvvadászattól. A park bevételeiből közösségi projekteket finanszíroznak.",
+      ro: "Sanctuarul Jinja Wildlife este situat pe malul vestic al Lacului Victoria, aproape de izvorul Nilului. Cu o suprafață de 30 km², oferă habitat pentru mamifere precum antilopa de apă și hienă pătată. Rezervația a fost înființată în 1950 și este administrată de Uganda Wildlife Authority (UWA). Suportă o populație stabilă de crocodili (Crocodylus niloticus) și hipopotami (Hippopotamus amphibius în perioadele de apă înaltă). Pădurile riverane găzduiesc specii rare de păsări, cum ar fi ciocănitorul lui Nubia (Campethera nubica). Turiștii pot explora trasee de drumeție și observa păsări. Proiectele de conservare implică comunitățile locale pentru a reduce braconajul.",
+      en: "Jinja Wildlife Sanctuary is a protected area on the northern shore of Lake Victoria. Spanning 30 km², it was established to conserve savannah and wetland ecosystems. The sanctuary is home to over 200 bird species, including the papyrus gonolek and the African fish eagle. Mammals include zebras, impalas, and vervet monkeys. The sanctuary acts as a buffer zone for the more well-known national parks. Its proximity to Jinja city makes it accessible for day trips. Conservation efforts focus on habitat restoration and invasive species control. Community outreach programs provide alternative livelihoods to reduce pressure on resources.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 3.000 Hektar", "Gründungsjahr: 1950", "Vogelarten: über 200", "Höhe über dem Meeresspiegel: 1.100 m", "Salzgehalt des Wassers: Süßwasser", "Nächstgelegene Stadt: Jinja (10 km)"],
+      hu: ["Terület: 30 km²", "Alapítás éve: 1950", "Főbb antilopfajok: puku, víziantilop", "Madárvonulási útvonal: Kelet-afrikai hasadékvölgy", "Távolság Jinjától: 10 km", "Költségvetés: közösségi projektek"],
+      ro: ["Suprafață: 30 km²", "Anul înființării: 1950", "Crocodili: populație stabilă", "Hipopotami: sezonieri", "Specii rare: ciocănitorul lui Nubia", "Administrare: UWA"],
+      en: ["Area: 30 km²", "Bird species: 200+", "Mammals: zebras, impalas, monkeys", "Management: Uganda Wildlife Authority", "Access: 10 km from Jinja", "Habitat: savannah and wetlands"],
+    },
+  },
   {
     id: "budongo-forest-life-v2",
     type: "animal-habitat",
     parent: "UG-BU",
     coords: [31.5, 1.7],
-    name: { de: "Budongo-Waldreservat", hu: "Budongo Erdőrezervátum", ro: "Rezervația forestieră Budongo", en: "Budongo Forest Reserve",
-image: "/poi-images/budongo-forest-life-v2.webp"
-},
+    name: { de: "Budongo-Waldreservat", hu: "Budongo Erdőrezervátum", ro: "Rezervația forestieră Budongo", en: "Budongo Forest Reserve"},
+    image: "/poi-images/budongo-forest-life-v2.webp",
     description: { de: "Ein bedeutendes Waldgebiet mit hoher Artenvielfalt.", hu: "Jelentős erdőterület nagy biológiai sokféleséggel.", ro: "O zonă forestieră importantă cu biodiversitate ridicată.", en: "A significant forest area with high biodiversity." },
     facts: {
       de: ["Viele Schimpansen.", "Beheimatet seltene Mahagonibäume."],
       hu: ["Sok csimpánz.", "Ritka mahagónifák otthona."],
       ro: ["Mulți cimpanzei.", "Găzduiește arbori de mahon rari."],
       en: ["Many chimpanzees.", "Home to rare mahogany trees."]
-    }, image: "/poi-images/budongo-forest-life-v2.webp"},
+    }, image: "/poi-images/budongo-forest-life-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Budongo-Wald im Nordwesten Ugandas ist ein tropischer Regenwald auf einer Fläche von 825 Quadratkilometern. Er ist berühmt für seine Schimpansenpopulation von etwa 700 Tieren. Der Wald besteht aus Mahagoni- und anderen Hartholzarten. Er wurde 1932 als Waldreservat ausgewiesen. Die Budongo Conservation Field Station betreibt Forschung zum Schutz der Primaten. Touristen können geführte Schimpansen-Tracking-Touren unternehmen. Der Wald beherbergt auch über 360 Vogelarten und zahlreiche Affenarten wie rote Stummelaffen und Blaumangaben. Die Abholzung ist eine anhaltende Bedrohung durch illegale Holzeinschlag und Landwirtschaft.",
+      hu: "A Budongo-erdő Uganda legnagyobb, folyamatosan fennmaradt erdőtömbje, körülbelül 825 km² kiterjedésben. A trópusi esőerdő 90 méter magas fákból áll, és híres a csimpánz (Pan troglodytes) populációjáról. Az erdőben található a Budongo Conservation Field Station, ahol a primatológiai kutatások mellett a fakitermelés és a mezőgazdaság hatásait is vizsgálják. A területen él a veszélyeztetett erdei elefánt (Loxodonta cyclotis) és a bóbitás cerkófmajom (Cercopithecus ascanius). Az erdőt a helyi közösségek használják nem faipari termékek gyűjtésére is. A turizmus fontos bevételi forrás, de a klímaváltozás és az orvvadászat kihívást jelent.",
+      ro: "Pădurea Budongo este o pădure tropicală umedă situată în nord-vestul Ugandei, lângă orașul Masindi. Cu o suprafață de 825 km², este unul dintre cele mai mari blocuri forestiere din estul Africii. Pădurea găzduiește aproximativ 700 de cimpanzei, cea mai mare populație protejată din Uganda. Pe lângă cimpanzei, trăiesc aici și maimuțe colobus roșii (Piliocolobus badius) și mangabe (Lophocebus albigena). Au fost înregistrate peste 360 de specii de păsări, inclusiv tăutul african (Bucorvus) și păunul congolez. Pădurea este importantă și pentru producția de lemn de mahon. Proiectele de conservare implică ecoturismul și educația ecologică.",
+      en: "Budongo Forest Reserve is a tropical rainforest ecosystem in the Albertine Rift Valley. It covers 825 km² and is a key habitat for chimpanzees, with an estimated population of 700 individuals. The forest is classified as a medium-altitude moist evergreen forest with trees reaching up to 50 meters. It provides valuable ecosystem services, including water catchment and climate regulation. Research conducted by the Budongo Conservation Field Station has contributed to understanding primate behavior and conservation. The forest is part of the Murchison Falls Conservation Area, attracting visitors for primate tracking and guided walks.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 825 km²", "Schimpansenpopulation: ca. 700 Tiere", "Vogelarten: über 360", "Ausweisung als Waldreservat: 1932", "Höchste Baumart: Mahagoni, bis 50 m", "Lage: im Nordwesten Ugandas"],
+      hu: ["Kiterjedés: 825 km²", "Fő kutatási állomás: Budongo Conservation Field Station", "Veszélyeztetett fajok: erdei elefánt", "Fafajták: mahagóni, keményfa", "Népesség: csimpánz 700 egyed", "Nem faipari termékek: méz, gyógynövények"],
+      ro: ["Suprafață: 825 km²", "Cimpanzei: 700 de indivizi", "Specii de păsări: 360+", "Altitudine medie: 1.000-1.200 m", "Situare: lângă Masindi", "Mahon: specie importantă de lemn"],
+      en: ["Area: 825 km²", "Chimpanzee population: 700", "Bird species: 360+", "Research station: Budongo Conservation Field Station", "Forest type: moist evergreen", "Part of: Murchison Falls Conservation Area"],
+    },
+  },
   {
     id: "katonga-wildlife-life-v2",
     type: "animal-habitat",
     parent: "UG-GO",
     coords: [31.5, -0.1],
-    name: { de: "Katonga-Wildtierreservat", hu: "Katonga Vadvédelmi Terület", ro: "Rezervația de faună Katonga", en: "Katonga Wildlife Reserve",
-image: "/poi-images/katonga-wildlife-life-v2.webp"
-},
+    name: { de: "Katonga-Wildtierreservat", hu: "Katonga Vadvédelmi Terület", ro: "Rezervația de faună Katonga", en: "Katonga Wildlife Reserve"},
+    image: "/poi-images/katonga-wildlife-life-v2.webp",
     description: { de: "Ein Rückzugsort für Sitatungas und Elefanten.", hu: "Menedék a szitatungák és elefántok számára.", ro: "Un refugiu pentru sitatunga și elefanți.", en: "A sanctuary for sitatungas and elephants." },
     facts: {
       de: ["Vielfältige Feuchtgebietslandschaft.", "Sehr ruhig und wenig besucht."],
       hu: ["Változatos vizes élőhely.", "Nagyon csendes és kevésbé látogatott."],
       ro: ["Peisaj divers de zone umede.", "Foarte liniștit și puțin vizitat."],
       en: ["Diverse wetland landscape.", "Very quiet and less visited."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Katonga Wildlife Reserve liegt im Süden Ugandas entlang des Katonga-Flusses. Es erstreckt sich über 211 Quadratkilometer und umfasst Feuchtgebiete, Wälder und Grasland. Das Reservat wurde 1964 gegründet. Es beherbergt eine vielfältige Tierwelt, darunter Elefanten, Büffel, Wasserböcke und über 300 Vogelarten. Der Katonga-Fluss ist ein wichtiger Korridor für Wildtiere zwischen dem Viktoriasee und den Wäldern im Westen. Besucher können Kanufahrten und Wanderungen unternehmen. Die Population der Afrikanischen Elefanten liegt bei etwa 100 Tieren. Das Reservat leidet unter Wilderei und Lebensraumverlust durch landwirtschaftliche Expansion. Es gibt Programme zur Wiederaufforstung und zum Schutz der Feuchtgebiete.",
+      hu: "A Katonga Wildlife Reserve Uganda egyedülálló vizes élőhelye, mely a Katonga folyó mentén, 211 km² kiterjedésben terül el. A rezervátum 1964 óta védett, és fontos szerepet játszik a madárvonulásban: több mint 300 madárfajt regisztráltak, köztük a gólyák (Ciconia ciconia) és a darvak (Balearica regulorum). Az emlősök közül kiemelkedik a nílusi víziló (Hippopotamus amphibius) és a szitutunga (Tragelaphus spekii), egy vízi antilop. A terület mocsarai gazdagok papirusznádban (Cyperus papyrus). A rezervátum a turisták számára csónakázást és madármegfigyelést kínál. A környező közösségek részt vesznek a védelmi munkában a konfliktusok csökkentése érdekében.",
+      ro: "Rezervația Katonga se află în sudul Ugandei, acoperind 211 km² de zone umede, păduri și pajiști. A fost înființată în 1964 pentru a proteja fauna sălbatică de-a lungul râului Katonga. Este habitat pentru elefanți (Loxodonta africana), bivoli (Syncerus caffer) și diverse antilope. Populația de elefanți este estimată la 100 de indivizi. Râul găzduiește hipopotami și crocodili (Crocodylus niloticus). Rezervația are peste 300 de specii de păsări, inclusiv pescărușul african (Sterna) și ibisul sacru (Threskiornis aethiopicus). Activitățile permise includ safari cu barca și drumeții. Presiunile principale sunt braconajul și extinderea agricolă. Eforturile de conservare se concentrează pe refacerea habitatelor.",
+      en: "Katonga Wildlife Reserve is a protected area in south-central Uganda, straddling the Katonga River. Its 211 km² encompass diverse habitats, from wetlands to woodlands. The reserve is an important biodiversity hotspot, hosting over 300 bird species and significant mammal populations. The Katonga River serves as a vital water source and wildlife corridor. The reserve was established in 1964 and is managed by the Uganda Wildlife Authority. Tourism activities include bird watching, boat rides, and nature walks. Challenges include poaching and encroachment, mitigated by community-based conservation programs. The reserve is a key area for wetland conservation in Uganda.",
+    },
+    factsAdvanced: {
+      de: ["Reservatsfläche: 211 km²", "Gründungsjahr: 1964", "Elefantenpopulation: ca. 100 Tiere", "Vogelarten: über 300", "Flusslänge im Reservat: 20 km", "Höchste Erhebung: 1.200 m ü. M."],
+      hu: ["Terület: 211 km²", "Alapítás éve: 1964", "Madárfajok: 300+", "Jellegzetes növény: papirusznád", "Fő emlősök: nílusi víziló, szitutunga", "Tevékenység: csónakázás, madármegfigyelés"],
+      ro: ["Suprafață: 211 km²", "Anul înființării: 1964", "Populație elefanți: 100", "Specii păsări: 300+", "Lungime râu: 20 km", "Crocodili: prezenți"],
+      en: ["Area: 211 km²", "Established: 1964", "Elephant population: 100", "Bird species: 300+", "Habitat: wetlands, woodlands", "Management: Uganda Wildlife Authority"],
+    },
   },
   {
     id: "pian-upe-life-v2",
     type: "animal-habitat",
     parent: "UG-NA",
     coords: [34.5, 1.8],
-    name: { de: "Pian-Upe-Wildtierreservat", hu: "Pian Upe Vadvédelmi Terület", ro: "Rezervația de faună Pian Upe", en: "Pian Upe Wildlife Reserve",
-image: "/poi-images/pian-upe-life-v2.webp"
-},
+    name: { de: "Pian-Upe-Wildtierreservat", hu: "Pian Upe Vadvédelmi Terület", ro: "Rezervația de faună Pian Upe", en: "Pian Upe Wildlife Reserve"},
+    image: "/poi-images/pian-upe-life-v2.webp",
     description: { de: "Ein weitläufiges Reservat mit Steppenbewohnern.", hu: "Kiterjedt rezervátum sztyeppei lakókkal.", ro: "O rezervație vastă cu locuitori de stepă.", en: "A vast reserve with steppe inhabitants." },
     facts: {
       de: ["Bekannt für Strauße.", "Spektakuläre Savannenlandschaften."],
       hu: ["Ismert a struccokról.", "Látványos szavannai tájak."],
       ro: ["Cunoscută pentru struți.", "Peisaje spectaculoase de savană."],
       en: ["Known for ostriches.", "Spectacular savanna landscapes."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Pian Upe Wildlife Reserve liegt im Nordosten Ugandas, nahe der Grenze zu Kenia. Es erstreckt sich über 2.275 Quadratkilometer und umfasst halbtrockene Savanne, Akazienwälder und felsige Hügel. Das Reservat wurde 1964 gegründet. Es beherbergt eine artenreiche Tierwelt, darunter Zebras, Giraffen, Leoparden und über 200 Vogelarten. Zu den größeren Tieren zählen auch Elenantilopen und Oryxantilopen. Leider hat die Wilderei die Bestände vieler Arten stark dezimiert. In den letzten Jahren gab es jedoch Wiederansiedlungsprogramme, insbesondere für Spitzmaulnashörner und Afrikanische Wildhunde. Der Berg Moroto im Osten ist mit 3.083 Metern die höchste Erhebung in der Region.",
+      hu: "A Pian Upe Wildlife Reserve Uganda második legnagyobb védett területe (a Kidepo Valley után), 2.275 km²-en terül el. Az 1964-ben alapított rezervátum száraz szavannájáról és sziklás hegyeiről híres. Itt él a veszélyeztetett strucc (Struthio camelus) egyik populációja, valamint a gerezna (Canis adustus) és a sakál (Canis aureus). A terület fontos a nagy emlősök, mint a grevy-zebra (Equus grevyi) és a beisa-nyársas antilop (Oryx beisa) számára, bár ezek száma erősen lecsökkent. A rezervátumban végeznek kutatásokat az éghajlatváltozás hatásairól. A turizmus fejletlen, de a helyi közösségek részt vesznek a természetvédelemben.",
+      ro: "Rezervația Pian Upe este situată în nord-estul Ugandei, întinsă pe 2.275 km² de savană semiaridă, cu coline stâncoase și păduri de salcâm. Creată în 1964, este un habitat pentru animale adaptate la secetă, cum ar fi zebra lui Grevy (Equus grevyi), antilopa oryx (Oryx beisa) și girafa reticulată (Giraffa reticulata). Populațiile de prădători includ leul (Panthera leo) și hiena pătată (Crocuta crocuta), dar numărul lor este mic. Regiunea este puțin populată, cu comunități pastorale Karamojong. Turismul este limitat din cauza infrastructurii slabe și a riscurilor de securitate. Proiecte de conservare vizează reintroducerea speciei de rinocer negru (Diceros bicornis).",
+      en: "Pian Upe Wildlife Reserve is a vast protected area covering 2,275 km² in northeastern Uganda. Established in 1964, it protects dry savannah habitats and is home to species such as eland, zebra, and ostrich. The reserve is one of the few remaining strongholds for the critically endangered eastern black rhino, which has been reintroduced in recent years. Birdlife includes the Somali bee-eater and the vulturine guineafowl. The reserve faces challenges from poaching and illegal grazing by pastoralists. Collaborative management with local communities has improved conservation outcomes. Remoteness limits tourism but offers authentic wilderness experiences.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 2.275 km²", "Gründungsjahr: 1964", "Höchster Berg: Moroto (3.083 m)", "Vogelarten: über 200", "Wiederansiedlung: Spitzmaulnashörner, Afrikanische Wildhunde", "Lage: Nordosten Ugandas, an der Grenze zu Kenia"],
+      hu: ["Terület: 2.275 km² (2. legnagyobb)", "Alapítás éve: 1964", "Emblémás faj: grevy-zebra, beisa-nyársas antilop", "Struccpopuláció: veszélyeztetett", "Kutatás: klímaváltozás hatásai", "Helyi közösség: Karamojong pásztorok"],
+      ro: ["Suprafață: 2.275 km²", "Anul înființării: 1964", "Specii: zebra lui Grevy, antilopa oryx, girafa reticulată", "Prădători: lei, hiene", "Reintroducere: rinocer negru", "Comunități: Karamojong"],
+      en: ["Area: 2,275 km²", "Established: 1964", "Reintroduced species: black rhino, African wild dog", "Habitat: dry savannah", "Bird species: over 200", "Major threat: poaching, overgrazing"],
+    },
   }
 ];
 

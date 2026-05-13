@@ -6,9 +6,8 @@ export const poiExtraSaudiarabiaHistoryV2: POI[] = [
     type: "ruin",
     parent: "SA-03",
     coords: [37.9496, 26.7915],
-    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra",
-image: "/poi-images/hegra-history-v2.webp"
-},
+    name: { de: "Hegra", hu: "Hegra", ro: "Hegra", en: "Hegra"},
+    image: "/poi-images/hegra-history-v2.webp",
     description: { de: "Eine antike Stadt der Nabatäer mit beeindruckenden Felsengräbern.", hu: "Egy ősi nabateus város lenyűgöző sziklasírokkal.", ro: "Un oraș antic nabateean cu morminte impresionante săpate în stâncă.", en: "An ancient Nabataean city with impressive rock-cut tombs." },
     facts: {
       de: ["Erstes UNESCO-Welterbe Saudi-Arabiens.", "Im 1. Jahrhundert erbaut."],
@@ -31,9 +30,8 @@ image: "/poi-images/hegra-history-v2.webp"
     type: "historical-site",
     parent: "SA-01",
     coords: [46.7133, 24.6311],
-    name: { de: "Masmak-Festung", hu: "Masmak erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress",
-image: "/poi-images/masmak-fortress-history-v2.webp"
-},
+    name: { de: "Masmak-Festung", hu: "Masmak erőd", ro: "Fortăreața Masmak", en: "Masmak Fortress"},
+    image: "/poi-images/masmak-fortress-history-v2.webp",
     description: { de: "Eine historische Lehm- und Ziegelsteinfestung im Zentrum von Riad.", hu: "Egy történelmi agyag- és téglaerőd Rijád központjában.", ro: "O fortăreață istorică din lut și cărămidă în centrul orașului Riad.", en: "A historical clay and mud-brick fort in the center of Riyadh." },
     facts: {
       de: ["Wurde 1865 erbaut.", "Wichtig für die Gründung Saudi-Arabiens."],
@@ -56,9 +54,8 @@ image: "/poi-images/masmak-fortress-history-v2.webp"
     type: "historical-site",
     parent: "SA-01",
     coords: [46.5744, 24.7347],
-    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Diríja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah",
-image: "/poi-images/at-turaif-diriyah-history-v2.webp"
-},
+    name: { de: "At-Turaif in Diriyya", hu: "At-Turaif (Diríja)", ro: "At-Turaif (Diriyah)", en: "At-Turaif in Diriyah"},
+    image: "/poi-images/at-turaif-diriyah-history-v2.webp",
     description: { de: "Die ursprüngliche Heimat der königlichen Familie Saudi-Arabiens.", hu: "A szaúdi királyi család eredeti otthona.", ro: "Casa originală a familiei regale din Arabia Saudită.", en: "The original home of the Saudi royal family." },
     facts: {
       de: ["Gegründet im 15. Jahrhundert.", "UNESCO-Welterbe seit 2010."],
@@ -81,9 +78,8 @@ image: "/poi-images/at-turaif-diriyah-history-v2.webp"
     type: "ruin",
     parent: "SA-03",
     coords: [37.9294, 26.6166],
-    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town",
-image: "/poi-images/al-ula-old-town-history-v2.webp"
-},
+    name: { de: "Altstadt von Al-Ula", hu: "Al-Ula óvárosa", ro: "Orașul vechi Al-Ula", en: "Al-Ula Old Town"},
+    image: "/poi-images/al-ula-old-town-history-v2.webp",
     description: { de: "Eine alte Oasenstadt mit verlassenen Lehmziegelhäusern.", hu: "Egy régi oázisváros elhagyatott vályogtéglás házakkal.", ro: "Un vechi oraș oază cu case de cărămidă din lut abandonate.", en: "An ancient oasis town with abandoned mud-brick houses." },
     facts: {
       de: ["Bewohnt vom 12. bis zum 20. Jahrhundert.", "Wichtiger Halt auf der Weihrauchstraße."],
@@ -106,9 +102,8 @@ image: "/poi-images/al-ula-old-town-history-v2.webp"
     type: "historical-site",
     parent: "SA-03",
     coords: [39.6175, 24.4391],
-    name: { de: "Qubāʾ-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque",
-image: "/poi-images/quba-mosque-history-v2.webp"
-},
+    name: { de: "Qubāʾ-Moschee", hu: "Kuba-mecset", ro: "Moscheea Quba", en: "Quba Mosque"},
+    image: "/poi-images/quba-mosque-history-v2.webp",
     description: { de: "Die erste jemals erbaute Moschee, gegründet vom Propheten Mohammed.", hu: "A valaha épült első mecset, amelyet Mohamed próféta alapított.", ro: "Prima moschee construită vreodată, fondată de profetul Mahomed.", en: "The first mosque ever built, founded by the Prophet Muhammad." },
     facts: {
       de: ["Erbaut im Jahr 622.", "Befindet sich in Medina."],
@@ -131,9 +126,8 @@ image: "/poi-images/quba-mosque-history-v2.webp"
     type: "battlefield",
     parent: "SA-03",
     coords: [39.6105, 24.5025],
-    name: { de: "Schlachtfeld von Uhud", hu: "Uhudi csatatér", ro: "Câmpul de luptă de la Uhud", en: "Uhud Battlefield",
-image: "/poi-images/uhud-battlefield-history-v2.webp"
-},
+    name: { de: "Schlachtfeld von Uhud", hu: "Uhudi csatatér", ro: "Câmpul de luptă de la Uhud", en: "Uhud Battlefield"},
+    image: "/poi-images/uhud-battlefield-history-v2.webp",
     description: { de: "Der Ort der berühmten Schlacht von Uhud zwischen frühen Muslimen und den Quraisch.", hu: "A híres uhudi csata helyszíne a korai muszlimok és a kurajs törzs között.", ro: "Locul faimoasei bătălii de la Uhud dintre primii musulmani și tribul Quraysh.", en: "The site of the famous Battle of Uhud between early Muslims and the Quraysh." },
     facts: {
       de: ["Die Schlacht fand 625 statt.", "Ein wichtiger historischer Ort im Islam."],
@@ -156,9 +150,8 @@ image: "/poi-images/uhud-battlefield-history-v2.webp"
     type: "historical-site",
     parent: "SA-02",
     coords: [39.1833, 21.4833],
-    name: { de: "Historisches Dschidda (Al-Balad)", hu: "Történelmi Dzsidda (Al-Balad)", ro: "Jeddah Istoric (Al-Balad)", en: "Historic Jeddah (Al-Balad)",
-image: "/poi-images/al-balad-jeddah-history-v2.webp"
-},
+    name: { de: "Historisches Dschidda (Al-Balad)", hu: "Történelmi Dzsidda (Al-Balad)", ro: "Jeddah Istoric (Al-Balad)", en: "Historic Jeddah (Al-Balad)"},
+    image: "/poi-images/al-balad-jeddah-history-v2.webp",
     description: { de: "Das historische Zentrum von Dschidda, bekannt für traditionelle Korallenhäuser.", hu: "Dzsidda történelmi központja, amely hagyományos korallházairól ismert.", ro: "Centrul istoric al orașului Jeddah, cunoscut pentru casele tradiționale din corali.", en: "The historical center of Jeddah, known for traditional coral houses." },
     facts: {
       de: ["Gegründet im 7. Jahrhundert.", "UNESCO-Welterbe seit 2014."],
@@ -181,9 +174,8 @@ image: "/poi-images/al-balad-jeddah-history-v2.webp"
     type: "ruin",
     parent: "SA-04",
     coords: [50.0075, 26.5647],
-    name: { de: "Burg von Qatif", hu: "Katif vára", ro: "Castelul Qatif", en: "Qatif Castle",
-image: "/poi-images/qatif-castle-history-v2.webp"
-},
+    name: { de: "Burg von Qatif", hu: "Katif vára", ro: "Castelul Qatif", en: "Qatif Castle"},
+    image: "/poi-images/qatif-castle-history-v2.webp",
     description: { de: "Die Überreste einer riesigen Burg in der Oase von Qatif.", hu: "Egy hatalmas vár romjai a katifi oázisban.", ro: "Ruinele unui castel uriaș în oaza Qatif.", en: "The remains of a massive castle in the Qatif oasis." },
     facts: {
       de: ["Erbaut im 3. Jahrhundert.", "Zerstört in den 1980er Jahren, nur Reste existieren."],
@@ -206,9 +198,8 @@ image: "/poi-images/qatif-castle-history-v2.webp"
     type: "historical-site",
     parent: "SA-04",
     coords: [50.0544, 26.5727],
-    name: { de: "Burg Tarut", hu: "Tárút vára", ro: "Castelul Tarut", en: "Tarout Castle",
-image: "/poi-images/tarout-castle-history-v2.webp"
-},
+    name: { de: "Burg Tarut", hu: "Tárút vára", ro: "Castelul Tarut", en: "Tarout Castle"},
+    image: "/poi-images/tarout-castle-history-v2.webp",
     description: { de: "Eine alte Festung auf der Insel Tarut, die auf phönizischen Ruinen erbaut wurde.", hu: "Egy ősi erőd a Tárút-szigeten, amelyet föníciai romokra építettek.", ro: "O veche fortăreață pe insula Tarut, construită pe ruine feniciene.", en: "An ancient fortress on Tarout Island built over Phoenician ruins." },
     facts: {
       de: ["Erbaut im 16. Jahrhundert durch die Portugiesen.", "Auf über 5000 Jahre alten Fundamenten."],
@@ -231,9 +222,8 @@ image: "/poi-images/tarout-castle-history-v2.webp"
     type: "historical-site",
     parent: "SA-06",
     coords: [41.6883, 27.5147],
-    name: { de: "A'arif-Festung", hu: "A'arif erőd", ro: "Fortăreața A'arif", en: "A'arif Fort",
-image: "/poi-images/aarif-fort-history-v2.webp"
-},
+    name: { de: "A'arif-Festung", hu: "A'arif erőd", ro: "Fortăreața A'arif", en: "A'arif Fort"},
+    image: "/poi-images/aarif-fort-history-v2.webp",
     description: { de: "Die älteste historische Burg in der Stadt Ha'il, die zur Verteidigung genutzt wurde.", hu: "A legrégebbi történelmi vár Háíl városában, amelyet védekezésre használtak.", ro: "Cel mai vechi castel istoric din orașul Ha'il, folosit pentru apărare.", en: "The oldest historical castle in the city of Ha'il, used for defense." },
     facts: {
       de: ["Erbaut vor etwa 200 Jahren.", "Diente früher als Beobachtungsposten."],
@@ -256,9 +246,8 @@ image: "/poi-images/aarif-fort-history-v2.webp"
     type: "ruin",
     parent: "SA-06",
     coords: [41.6917, 27.5258],
-    name: { de: "Barzan-Palast", hu: "Barzan-palota", ro: "Palatul Barzan", en: "Barzan Palace",
-image: "/poi-images/barzan-palace-history-v2.webp"
-},
+    name: { de: "Barzan-Palast", hu: "Barzan-palota", ro: "Palatul Barzan", en: "Barzan Palace"},
+    image: "/poi-images/barzan-palace-history-v2.webp",
     description: { de: "Ein historischer Palast, der der Familie Al Rashid gehörte.", hu: "Egy történelmi palota, amely az Al Rasíd családé volt.", ro: "Un palat istoric care a aparținut familiei Al Rashid.", en: "A historic palace that belonged to the Al Rashid family." },
     facts: {
       de: ["Erbaut im Jahr 1808.", "Fast vollständig in den 1920er Jahren zerstört."],
@@ -281,9 +270,8 @@ image: "/poi-images/barzan-palace-history-v2.webp"
     type: "historical-site",
     parent: "SA-06",
     coords: [40.9238, 28.0263],
-    name: { de: "Felszeichnungen von Jubbah", hu: "Jubbah sziklarajzai", ro: "Arta rupestră din Jubbah", en: "Jubbah Rock Art",
-image: "/poi-images/jubbah-rock-art-history-v2.webp"
-},
+    name: { de: "Felszeichnungen von Jubbah", hu: "Jubbah sziklarajzai", ro: "Arta rupestră din Jubbah", en: "Jubbah Rock Art"},
+    image: "/poi-images/jubbah-rock-art-history-v2.webp",
     description: { de: "Eine der größten Sammlungen prä-islamischer Felskunst im Nahen Osten.", hu: "A Közel-Kelet egyik legnagyobb iszlám előtti sziklaművészeti gyűjteménye.", ro: "Una dintre cele mai mari colecții de artă rupestră pre-islamică din Orientul Mijlociu.", en: "One of the largest collections of pre-Islamic rock art in the Middle East." },
     facts: {
       de: ["UNESCO-Welterbe seit 2015.", "Stammt aus der Zeit um 5500 v. Chr."],
@@ -306,9 +294,8 @@ image: "/poi-images/jubbah-rock-art-history-v2.webp"
     type: "ruin",
     parent: "SA-12",
     coords: [39.8667, 29.8167],
-    name: { de: "Burg Marid", hu: "Márid vára", ro: "Castelul Marid", en: "Marid Castle",
-image: "/poi-images/marid-castle-history-v2.webp"
-},
+    name: { de: "Burg Marid", hu: "Márid vára", ro: "Castelul Marid", en: "Marid Castle"},
+    image: "/poi-images/marid-castle-history-v2.webp",
     description: { de: "Eine antike Festung, die über der Oase von Dumat al-Jandal thront.", hu: "Egy ősi erőd, amely Dúmat al-Dzsandal oázisa fölé magasodik.", ro: "O fortăreață antică care se înalță deasupra oazei Dumat al-Jandal.", en: "An ancient military fortress commanding the oasis of Dumat al-Jandal." },
     facts: {
       de: ["Wurde erstmals im 1. Jahrhundert v. Chr. erwähnt.", "Besitzt konische Wachtürme."],
@@ -332,9 +319,8 @@ image: "/poi-images/marid-castle-history-v2.webp"
     type: "historical-site",
     parent: "SA-12",
     coords: [39.8661, 29.8130],
-    name: { de: "Omar-ibn-al-Chattab-Moschee", hu: "Omár ibn al-Hattáb mecset", ro: "Moscheea Omar ibn al-Khattab", en: "Omar ibn al-Khattab Mosque",
-image: "/poi-images/omar-mosque-dumat-history-v2.webp"
-},
+    name: { de: "Omar-ibn-al-Chattab-Moschee", hu: "Omár ibn al-Hattáb mecset", ro: "Moscheea Omar ibn al-Khattab", en: "Omar ibn al-Khattab Mosque"},
+    image: "/poi-images/omar-mosque-dumat-history-v2.webp",
     description: { de: "Eine der ältesten noch stehenden historischen Moscheen auf der Arabischen Halbinsel.", hu: "Az egyik legrégebbi máig fennmaradt történelmi mecset az Arab-félszigeten.", ro: "Una dintre cele mai vechi moschei istorice încă în picioare din Peninsula Arabică.", en: "One of the oldest historical mosques still standing in the Arabian Peninsula." },
     facts: {
       de: ["Erbaut im Jahr 638.", "Das Minarett ist fast 13 Meter hoch."],
@@ -357,9 +343,8 @@ image: "/poi-images/omar-mosque-dumat-history-v2.webp"
     type: "ruin",
     parent: "SA-10",
     coords: [44.1533, 17.4727],
-    name: { de: "Archäologische Stätte Al-Ukhdud", hu: "Al-Uhdúd régészeti lelőhely", ro: "Situl arheologic Al-Ukhdud", en: "Al-Ukhdud Archaeological Site",
-image: "/poi-images/al-ukhdud-history-v2.webp"
-},
+    name: { de: "Archäologische Stätte Al-Ukhdud", hu: "Al-Uhdúd régészeti lelőhely", ro: "Situl arheologic Al-Ukhdud", en: "Al-Ukhdud Archaeological Site"},
+    image: "/poi-images/al-ukhdud-history-v2.webp",
     description: { de: "Ruinen einer alten himjaritischen Stadt mit einer tragischen Geschichte von christlichen Märtyrern.", hu: "Egy ősi himjarita város romjai keresztény vértanúk tragikus történetével.", ro: "Ruinele unui antic oraș himyarit, cu o poveste tragică a martirilor creștini.", en: "Ruins of an ancient Himyarite city with a tragic history of Christian martyrs." },
     facts: {
       de: ["Bewohnt vom 6. Jahrhundert v. Chr.", "Der Ort ist im Koran erwähnt."],
@@ -382,9 +367,8 @@ image: "/poi-images/al-ukhdud-history-v2.webp"
     type: "historical-site",
     parent: "SA-07",
     coords: [37.4911, 27.5308],
-    name: { de: "Burg von Al-Muazzam", hu: "Al-Muazzam vára", ro: "Castelul Al-Muazzam", en: "Qal'at al-Muazzam",
-image: "/poi-images/al-muazzam-fort-history-v2.webp"
-},
+    name: { de: "Burg von Al-Muazzam", hu: "Al-Muazzam vára", ro: "Castelul Al-Muazzam", en: "Qal'at al-Muazzam"},
+    image: "/poi-images/al-muazzam-fort-history-v2.webp",
     description: { de: "Eine wichtige osmanische Festung entlang der historischen Hajj-Pilgerroute.", hu: "Fontos oszmán erőd a történelmi Hajj zarándokút mentén.", ro: "O importantă fortăreață otomană de-a lungul rutei istorice de pelerinaj Hajj.", en: "An important Ottoman fort along the historical Hajj pilgrimage route." },
     facts: {
       de: ["Erbaut im Jahr 1622.", "Diente zum Schutz der Pilger und Wasserquellen."],
@@ -407,9 +391,8 @@ image: "/poi-images/al-muazzam-fort-history-v2.webp"
     type: "historical-site",
     parent: "SA-07",
     coords: [36.5714, 28.3844],
-    name: { de: "Burg von Tabuk", hu: "Tabúk vára", ro: "Castelul Tabuk", en: "Tabuk Castle",
-image: "/poi-images/tabuk-castle-history-v2.webp"
-},
+    name: { de: "Burg von Tabuk", hu: "Tabúk vára", ro: "Castelul Tabuk", en: "Tabuk Castle"},
+    image: "/poi-images/tabuk-castle-history-v2.webp",
     description: { de: "Eine alte Burg aus dem 16. Jahrhundert, jetzt ein archäologisches Museum.", hu: "Egy 16. századi régi vár, amely ma régészeti múzeumként működik.", ro: "Un castel vechi din secolul al XVI-lea, acum muzeu arheologic.", en: "An ancient 16th-century castle, now functioning as an archaeological museum." },
     facts: {
       de: ["Erbaut im Jahr 1559.", "Hat eine eigene Moschee im Inneren."],
@@ -432,9 +415,8 @@ image: "/poi-images/tabuk-castle-history-v2.webp"
     type: "historical-site",
     parent: "SA-02",
     coords: [40.5986, 21.4328],
-    name: { de: "Souq Okaz", hu: "Szúk Okáz", ro: "Souq Okaz", en: "Souq Okaz",
-image: "/poi-images/souq-okaz-history-v2.webp"
-},
+    name: { de: "Souq Okaz", hu: "Szúk Okáz", ro: "Souq Okaz", en: "Souq Okaz"},
+    image: "/poi-images/souq-okaz-history-v2.webp",
     description: { de: "Einer der berühmtesten Märkte im vorislamischen Arabien, wo sich Dichter trafen.", hu: "Az iszlám előtti Arábia egyik leghíresebb piaca, ahol a költők találkoztak.", ro: "Una dintre cele mai faimoase piețe din Arabia pre-islamică, unde se întâlneau poeții.", en: "One of the most famous markets in pre-Islamic Arabia where poets gathered." },
     facts: {
       de: ["War im 6. Jahrhundert aktiv.", "Jährlich fand ein Poesiewettbewerb statt."],
@@ -457,9 +439,8 @@ image: "/poi-images/souq-okaz-history-v2.webp"
     type: "monument",
     parent: "SA-12",
     coords: [40.1256, 29.8055],
-    name: { de: "Stehende Steine von Al Rajajil", hu: "Al Radzsádzsíl álló kövei", ro: "Pietrele stătătoare de la Al Rajajil", en: "Al Rajajil Standing Stones",
-image: "/poi-images/al-rajajil-history-v2.webp"
-},
+    name: { de: "Stehende Steine von Al Rajajil", hu: "Al Radzsádzsíl álló kövei", ro: "Pietrele stătătoare de la Al Rajajil", en: "Al Rajajil Standing Stones"},
+    image: "/poi-images/al-rajajil-history-v2.webp",
     description: { de: "Eine rätselhafte Ansammlung von Menhiren, die als das Stonehenge Saudi-Arabiens bekannt sind.", hu: "Egy rejtélyes menhír-csoport, amelyet Szaúd-Arábia Stonehenge-ként ismernek.", ro: "O colecție enigmatică de menhire, cunoscută sub numele de Stonehenge din Arabia Saudită.", en: "An enigmatic collection of menhirs known as the Stonehenge of Saudi Arabia." },
     facts: {
       de: ["Stammen aus dem 4. Jahrtausend v. Chr.", "Bestehen aus 54 Steinsäulen."],
@@ -483,9 +464,8 @@ image: "/poi-images/al-rajajil-history-v2.webp"
     type: "ruin",
     parent: "SA-02",
     coords: [39.8261, 21.4225],
-    name: { de: "Ain Zubaydah", hu: "Ajn Zubajda", ro: "Ain Zubaydah", en: "Ain Zubaydah",
-image: "/poi-images/ain-zubaydah-history-v2.webp"
-},
+    name: { de: "Ain Zubaydah", hu: "Ajn Zubajda", ro: "Ain Zubaydah", en: "Ain Zubaydah"},
+    image: "/poi-images/ain-zubaydah-history-v2.webp",
     description: { de: "Ein historisches Aquäduktsystem, das gebaut wurde, um Mekka und Pilger mit Wasser zu versorgen.", hu: "Történelmi vízvezetékrendszer, amelyet Mekka és a zarándokok vízellátására építettek.", ro: "Un sistem istoric de apeducte construit pentru a furniza apă Meccăi și pelerinilor.", en: "A historical aqueduct system built to provide water to Mecca and pilgrims." },
     facts: {
       de: ["Erbaut im 9. Jahrhundert.", "Beauftragt von Prinzessin Zubaida."],

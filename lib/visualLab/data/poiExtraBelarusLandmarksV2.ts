@@ -5,9 +5,8 @@ export const belarusLandmarksV2: POI[] = [
     id: "belarus-mir-castle-landmarks-v2",
     parent: "BY",
     type: "castle",
-    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle Complex",
-image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"
-},
+    name: { de: "Schloss Mir", hu: "Miri várkastély", ro: "Castelul Mir", en: "Mir Castle Complex"},
+    image: "/poi-images/belarus-mir-castle-landmarks-v2.webp",
     coords: [26.473, 53.451],
     coordinates: { lat: 53.451, lng: 26.473 },
     description: {
@@ -39,9 +38,8 @@ image: "/poi-images/belarus-mir-castle-landmarks-v2.webp"
     id: "belarus-national-library-landmarks-v2",
     parent: "BY",
     type: "landmark",
-    name: { de: "Nationalbibliothek von Belarus", hu: "Fehérorosz Nemzeti Könyvtár", ro: "Biblioteca Națională a Belarusului", en: "National Library of Belarus",
-image: "/poi-images/belarus-national-library-landmarks-v2.webp"
-},
+    name: { de: "Nationalbibliothek von Belarus", hu: "Fehérorosz Nemzeti Könyvtár", ro: "Biblioteca Națională a Belarusului", en: "National Library of Belarus"},
+    image: "/poi-images/belarus-national-library-landmarks-v2.webp",
     coords: [27.646, 53.931],
     coordinates: { lat: 53.931, lng: 27.646 },
     description: {
@@ -73,9 +71,8 @@ image: "/poi-images/belarus-national-library-landmarks-v2.webp"
     id: "belarus-red-church-minsk-landmarks-v2",
     parent: "BY",
     type: "church",
-    name: { de: "Rote Kirche (Minsk)", hu: "Vörös templom (Minszk)", ro: "Biserica Roșie din Minsk", en: "Red Church (Saints Simon and Helena)",
-image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"
-},
+    name: { de: "Rote Kirche (Minsk)", hu: "Vörös templom (Minszk)", ro: "Biserica Roșie din Minsk", en: "Red Church (Saints Simon and Helena)"},
+    image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp",
     coords: [27.547, 53.896],
     coordinates: { lat: 53.896, lng: 27.547 },
     description: {
@@ -107,9 +104,8 @@ image: "/poi-images/belarus-red-church-minsk-landmarks-v2.webp"
     id: "belarus-holy-spirit-cathedral-minsk-landmarks-v2",
     parent: "BY",
     type: "cathedral",
-    name: { de: "Heiliggeist-Kathedrale (Minsk)", hu: "Szentlélek-székesegyház (Minszk)", ro: "Catedrala Duhul Sfânt din Minsk", en: "Cathedral of the Holy Spirit",
-image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"
-},
+    name: { de: "Heiliggeist-Kathedrale (Minsk)", hu: "Szentlélek-székesegyház (Minszk)", ro: "Catedrala Duhul Sfânt din Minsk", en: "Cathedral of the Holy Spirit"},
+    image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp",
     coords: [27.555, 53.905],
     coordinates: { lat: 53.905, lng: 27.555 },
     description: {
@@ -141,9 +137,8 @@ image: "/poi-images/belarus-holy-spirit-cathedral-minsk-landmarks-v2.webp"
     id: "belarus-great-patriotic-war-museum-landmarks-v2",
     parent: "BY",
     type: "museum",
-    name: { de: "Museum des Großen Vaterländischen Krieges", hu: "A Nagy Honvédő Háború Múzeuma", ro: "Muzeul Marelui Război pentru Apărarea Patriei", en: "Great Patriotic War Museum",
-image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"
-},
+    name: { de: "Museum des Großen Vaterländischen Krieges", hu: "A Nagy Honvédő Háború Múzeuma", ro: "Muzeul Marelui Război pentru Apărarea Patriei", en: "Great Patriotic War Museum"},
+    image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp",
     coords: [27.538, 53.916],
     coordinates: { lat: 53.916, lng: 27.538 },
     description: {
@@ -175,9 +170,8 @@ image: "/poi-images/belarus-great-patriotic-war-museum-landmarks-v2.webp"
     id: "belarus-kolozha-church-grodno-landmarks-v2",
     parent: "BY",
     type: "church",
-    name: { de: "Koloscha-Kirche (Grodno)", hu: "Koloizsai templom (Hrodna)", ro: "Biserica Caloja din Grodno", en: "Kolozha Church (St. Boris and Gleb)",
-image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp"
-},
+    name: { de: "Koloscha-Kirche (Grodno)", hu: "Koloizsai templom (Hrodna)", ro: "Biserica Caloja din Grodno", en: "Kolozha Church (St. Boris and Gleb)"},
+    image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp",
     coords: [23.818, 53.678],
     coordinates: { lat: 53.678, lng: 23.818 },
     description: {
@@ -210,9 +204,8 @@ image: "/poi-images/belarus-kolozha-church-grodno-landmarks-v2.webp"
     id: "belarus-old-grodno-castle-landmarks-v2",
     parent: "BY",
     type: "castle",
-    name: { de: "Altes Schloss Grodno", hu: "Hrodnai öregvár", ro: "Castelul Vechi din Grodno", en: "Old Grodno Castle",
-image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"
-},
+    name: { de: "Altes Schloss Grodno", hu: "Hrodnai öregvár", ro: "Castelul Vechi din Grodno", en: "Old Grodno Castle"},
+    image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp",
     coords: [23.823, 53.677],
     coordinates: { lat: 53.677, lng: 23.823 },
     description: {
@@ -244,9 +237,8 @@ image: "/poi-images/belarus-old-grodno-castle-landmarks-v2.webp"
     id: "belarus-new-grodno-castle-landmarks-v2",
     parent: "BY",
     type: "palace",
-    name: { de: "Neues Schloss Grodno", hu: "Hrodnai újvár", ro: "Castelul Nou din Grodno", en: "New Grodno Castle",
-image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"
-},
+    name: { de: "Neues Schloss Grodno", hu: "Hrodnai újvár", ro: "Castelul Nou din Grodno", en: "New Grodno Castle"},
+    image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp",
     coords: [23.825, 53.675],
     coordinates: { lat: 53.675, lng: 23.825 },
     description: {
@@ -278,9 +270,8 @@ image: "/poi-images/belarus-new-grodno-castle-landmarks-v2.webp"
     id: "belarus-kosava-castle-landmarks-v2",
     parent: "BY",
     type: "palace",
-    name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)",
-image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"
-},
+    name: { de: "Palast von Kosava", hu: "Kosszavai palota", ro: "Palatul din Cosava", en: "Kosava Castle (Puslowski Palace)"},
+    image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp",
     coords: [25.121, 52.766],
     coordinates: { lat: 52.766, lng: 25.121 },
     description: {
@@ -312,9 +303,8 @@ image: "/poi-images/belarus-kosava-castle-landmarks-v2.webp"
     id: "belarus-ruzhany-palace-ruins-landmarks-v2",
     parent: "BY",
     type: "ruins",
-    name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins",
-image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"
-},
+    name: { de: "Palastruine von Ruschany", hu: "Ruzsanyi palotarom", ro: "Ruinele Palatului Rujani", en: "Ruzhany Palace Ruins"},
+    image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp",
     coords: [24.896, 52.86],
     coordinates: { lat: 52.86, lng: 24.896 },
     description: {
@@ -346,9 +336,8 @@ image: "/poi-images/belarus-ruzhany-palace-ruins-landmarks-v2.webp"
     id: "belarus-stalin-line-complex-landmarks-v2",
     parent: "BY",
     type: "museum",
-    name: { de: "Stalin-Linie Gedenkkomplex", hu: "Sztálin-vonal emlékpark", ro: "Complexul Memorial Linia Stalin", en: "Stalin Line Historical Complex",
-image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp"
-},
+    name: { de: "Stalin-Linie Gedenkkomplex", hu: "Sztálin-vonal emlékpark", ro: "Complexul Memorial Linia Stalin", en: "Stalin Line Historical Complex"},
+    image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp",
     coords: [27.296, 54.058],
     coordinates: { lat: 54.058, lng: 27.296 },
     description: {
@@ -381,9 +370,8 @@ image: "/poi-images/belarus-stalin-line-complex-landmarks-v2.webp"
     id: "belarus-kamyanets-tower-landmarks-v2",
     parent: "BY",
     type: "tower",
-    name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)",
-image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"
-},
+    name: { de: "Turm von Kamjanez", hu: "Kamjaneci torony", ro: "Turnul din Cameneț", en: "Kamyanets Tower (White Tower)"},
+    image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp",
     coords: [23.82, 52.405],
     coordinates: { lat: 52.405, lng: 23.82 },
     description: {
@@ -415,9 +403,8 @@ image: "/poi-images/belarus-kamyanets-tower-landmarks-v2.webp"
     id: "belarus-muravanka-fortified-church-landmarks-v2",
     parent: "BY",
     type: "church",
-    name: { de: "Wehrkirche Muravanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Church of the Nativity of the Blessed Virgin Mary (Muravanka)",
-image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp"
-},
+    name: { de: "Wehrkirche Muravanka", hu: "Muravankai erődtemplom", ro: "Biserica fortificată Muravanka", en: "Church of the Nativity of the Blessed Virgin Mary (Muravanka)"},
+    image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp",
     coords: [24.938, 53.697],
     coordinates: { lat: 53.697, lng: 24.938 },
     description: {
@@ -450,9 +437,8 @@ image: "/poi-images/belarus-muravanka-fortified-church-landmarks-v2.webp"
     id: "belarus-farny-church-grodno-landmarks-v2",
     parent: "BY",
     type: "cathedral",
-    name: { de: "Franz-Xaver-Kathedrale (Grodno)", hu: "Szent Ferenc-Xavér-székesegyház (Hrodna)", ro: "Catedrala Sfântul Francisc Xaveriu din Grodno", en: "Farny Church (St. Francis Xavier Cathedral)",
-image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp"
-},
+    name: { de: "Franz-Xaver-Kathedrale (Grodno)", hu: "Szent Ferenc-Xavér-székesegyház (Hrodna)", ro: "Catedrala Sfântul Francisc Xaveriu din Grodno", en: "Farny Church (St. Francis Xavier Cathedral)"},
+    image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp",
     coords: [23.831, 53.678],
     coordinates: { lat: 53.678, lng: 23.831 },
     description: {
@@ -485,9 +471,8 @@ image: "/poi-images/belarus-farny-church-grodno-landmarks-v2.webp"
     id: "belarus-st-nicholas-monastery-mogilev-landmarks-v2",
     parent: "BY",
     type: "church",
-    name: { de: "Nikolaus-Kloster (Mahiljou)", hu: "Szent Miklós-kolostor (Mahiljov)", ro: "Mănăstirea Sfântul Nicolae din Moghilău", en: "Saint Nicholas Monastery (Mogilev)",
-image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"
-},
+    name: { de: "Nikolaus-Kloster (Mahiljou)", hu: "Szent Miklós-kolostor (Mahiljov)", ro: "Mănăstirea Sfântul Nicolae din Moghilău", en: "Saint Nicholas Monastery (Mogilev)"},
+    image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp",
     coords: [30.347, 53.893],
     coordinates: { lat: 53.893, lng: 30.347 },
     description: {
@@ -519,9 +504,8 @@ image: "/poi-images/belarus-st-nicholas-monastery-mogilev-landmarks-v2.webp"
     id: "belarus-vitebsk-town-hall-landmarks-v2",
     parent: "BY",
     type: "landmark",
-    name: { de: "Rathaus Wizebsk", hu: "Vicebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk Town Hall",
-image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus Wizebsk", hu: "Vicebszki városháza", ro: "Primăria din Vitebsk", en: "Vitebsk Town Hall"},
+    image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp",
     coords: [30.206, 55.195],
     coordinates: { lat: 55.195, lng: 30.206 },
     description: {
@@ -554,9 +538,8 @@ image: "/poi-images/belarus-vitebsk-town-hall-landmarks-v2.webp"
     id: "belarus-marc-chagall-museum-vitebsk-landmarks-v2",
     parent: "BY",
     type: "museum",
-    name: { de: "Marc Chagall Museum (Wizebsk)", hu: "Marc Chagall Múzeum (Vicebszk)", ro: "Muzeul Marc Chagall din Vitebsk", en: "Marc Chagall Museum",
-image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"
-},
+    name: { de: "Marc Chagall Museum (Wizebsk)", hu: "Marc Chagall Múzeum (Vicebszk)", ro: "Muzeul Marc Chagall din Vitebsk", en: "Marc Chagall Museum"},
+    image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp",
     coords: [30.191, 55.201],
     coordinates: { lat: 55.201, lng: 30.191 },
     description: {
@@ -588,9 +571,8 @@ image: "/poi-images/belarus-marc-chagall-museum-vitebsk-landmarks-v2.webp"
     id: "belarus-corpus-christi-church-nesvizh-landmarks-v2",
     parent: "BY",
     type: "church",
-    name: { de: "Fronleichnamskirche (Neswisch)", hu: "Úrnapja-templom (Nyaszvizs)", ro: "Biserica Corpus Christi din Nesvîj", en: "Corpus Christi Church",
-image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp"
-},
+    name: { de: "Fronleichnamskirche (Neswisch)", hu: "Úrnapja-templom (Nyaszvizs)", ro: "Biserica Corpus Christi din Nesvîj", en: "Corpus Christi Church"},
+    image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp",
     coords: [26.684, 53.22],
     coordinates: { lat: 53.22, lng: 26.684 },
     description: {
@@ -623,9 +605,8 @@ image: "/poi-images/belarus-corpus-christi-church-nesvizh-landmarks-v2.webp"
     id: "belarus-holy-trinity-church-herviaty-landmarks-v2",
     parent: "BY",
     type: "church",
-    name: { de: "Dreifaltigkeitskirche (Herwjaty)", hu: "Szentháromság-templom (Gervjati)", ro: "Biserica Sfânta Treime din Gherviatî", en: "Church of the Holy Trinity (Herviaty)",
-image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp"
-},
+    name: { de: "Dreifaltigkeitskirche (Herwjaty)", hu: "Szentháromság-templom (Gervjati)", ro: "Biserica Sfânta Treime din Gherviatî", en: "Church of the Holy Trinity (Herviaty)"},
+    image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp",
     coords: [26.283, 54.687],
     coordinates: { lat: 54.687, lng: 26.283 },
     description: {
@@ -658,9 +639,8 @@ image: "/poi-images/belarus-holy-trinity-church-herviaty-landmarks-v2.webp"
     id: "belarus-halshany-castle-ruins-landmarks-v2",
     parent: "BY",
     type: "ruins",
-    name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins",
-image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"
-},
+    name: { de: "Burgruine Halshany", hu: "Halsanyi várrom", ro: "Ruinele Castelului Holșanî", en: "Halshany Castle Ruins"},
+    image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp",
     coords: [26.02, 54.251],
     coordinates: { lat: 54.251, lng: 26.02 },
     description: {
@@ -692,9 +672,8 @@ image: "/poi-images/belarus-halshany-castle-ruins-landmarks-v2.webp"
     id: "belarus-bobruisk-fortress-landmarks-v2",
     parent: "BY",
     type: "monument",
-    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Bobruisk", en: "Bobruisk Fortress",
-image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"
-},
+    name: { de: "Festung Babrujsk", hu: "Babrujszki erőd", ro: "Cetatea Bobruisk", en: "Bobruisk Fortress"},
+    image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp",
     coords: [29.243, 53.139],
     coordinates: { lat: 53.139, lng: 29.243 },
     description: {
@@ -727,9 +706,8 @@ image: "/poi-images/belarus-bobruisk-fortress-landmarks-v2.webp"
     id: "belarus-budslau-basilica-landmarks-v2",
     parent: "BY",
     type: "cathedral",
-    name: { de: "Basilika von Budslau", hu: "Budslaui bazilika", ro: "Basilica din Budslau", en: "Budslau Basilica",
-image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp"
-},
+    name: { de: "Basilika von Budslau", hu: "Budslaui bazilika", ro: "Basilica din Budslau", en: "Budslau Basilica"},
+    image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp",
     coords: [27.452, 54.7873],
     coordinates: { lat: 54.7873, lng: 27.452 },
     description: {
@@ -762,9 +740,8 @@ image: "/poi-images/belarus-budslau-basilica-landmarks-v2.webp"
     id: "belarus-bolshoi-theatre-minsk-landmarks-v2",
     parent: "BY",
     type: "theater",
-    name: { de: "Nationaloper Minsk", hu: "Belorusz Nemzeti Operaház", ro: "Teatrul Național de Operă și Balet din Minsk", en: "Bolshoi Theatre of Belarus",
-image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"
-},
+    name: { de: "Nationaloper Minsk", hu: "Belorusz Nemzeti Operaház", ro: "Teatrul Național de Operă și Balet din Minsk", en: "Bolshoi Theatre of Belarus"},
+    image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp",
     coords: [27.5613, 53.9103],
     coordinates: { lat: 53.9103, lng: 27.5613 },
     description: {
@@ -796,9 +773,8 @@ image: "/poi-images/belarus-bolshoi-theatre-minsk-landmarks-v2.webp"
     id: "belarus-national-art-museum-minsk-landmarks-v2",
     parent: "BY",
     type: "museum",
-    name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Belarusului", en: "National Art Museum of Belarus",
-image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"
-},
+    name: { de: "Nationales Kunstmuseum", hu: "Nemzeti Művészeti Múzeum", ro: "Muzeul Național de Artă al Belarusului", en: "National Art Museum of Belarus"},
+    image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp",
     coords: [27.5607, 53.8985],
     coordinates: { lat: 53.8985, lng: 27.5607 },
     description: {
@@ -830,9 +806,8 @@ image: "/poi-images/belarus-national-art-museum-minsk-landmarks-v2.webp"
     id: "belarus-slonim-great-synagogue-landmarks-v2",
     parent: "BY",
     type: "landmark",
-    name: { de: "Große Synagoge von Slonim", hu: "Szlonimi nagyzsinagóga", ro: "Sinagoga Mare din Slonim", en: "Slonim Great Synagogue",
-image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp"
-},
+    name: { de: "Große Synagoge von Slonim", hu: "Szlonimi nagyzsinagóga", ro: "Sinagoga Mare din Slonim", en: "Slonim Great Synagogue"},
+    image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp",
     coords: [25.3192, 53.094],
     coordinates: { lat: 53.094, lng: 25.3192 },
     description: {
@@ -865,9 +840,8 @@ image: "/poi-images/belarus-slonim-great-synagogue-landmarks-v2.webp"
     id: "belarus-st-stanislaus-cathedral-mogilev-landmarks-v2",
     parent: "BY",
     type: "cathedral",
-    name: { de: "St.-Stanislaus-Kathedrale", hu: "Szent Szaniszló-székesegyház", ro: "Catedrala Sfântul Stanislav din Moghilău", en: "Cathedral of St. Stanislaus",
-image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"
-},
+    name: { de: "St.-Stanislaus-Kathedrale", hu: "Szent Szaniszló-székesegyház", ro: "Catedrala Sfântul Stanislav din Moghilău", en: "Cathedral of St. Stanislaus"},
+    image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp",
     coords: [30.3345, 53.8994],
     coordinates: { lat: 53.8994, lng: 30.3345 },
     description: {
@@ -888,7 +862,7 @@ image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"
       hu: "A mahiljovi Szent Szaniszló-székesegyház a barokk építészet valóságos ékköve, amely hosszú ideig a katolicizmus legfontosabb központja volt az Orosz Birodalomban. A templomot eredetileg 1738 és 1752 között építették egy karmelita kolostor részeként, egy korábbi fatemplom helyén. Amikor Nagy Katalin cárnő Mahiljovot tette meg az egész birodalom római katolikus egyházmegyéjének központjává, az épületet 1782-ben székesegyházi rangra emelték. Míg a külső klasszikus barokk homlokzatot mutat, a belső tér igazi mestermű: a falakat és a mennyezetet Fehéroroszország egyik legkiterjedtebb és legjobb állapotban fennmaradt freskóciklusa borítja. Ezek a 18. század második feléből származó, egyedülálló falfestmények bibliai és egyháztörténeti jeleneteket ábrázolnak lenyűgöző részletességgel. A szovjet korszakban az épületet állami levéltárként használták, ami ironikus módon megmentette a felbecsülhetetlen értékű freskókat a pusztulástól.",
       ro: "Catedrala Sfântul Stanislav din Moghilău este o bijuterie arhitecturală barocă și a servit mult timp drept centrul spiritual al catolicismului din întregul Imperiu Rus. Biserica a fost construită inițial între anii 1738 și 1752, ca parte a unei mănăstiri carmelite, pe locul unei biserici de lemn mai vechi. Când Împărăteasa Ecaterina cea Mare a desemnat Moghilău drept capitala eparhiei romano-catolice pentru tot imperiul, biserica a fost ridicată la rangul de catedrală în 1782. Exteriorul prezintă o fațadă barocă clasică impresionantă, însă adevărata capodoperă se află în interior: pereții și tavanul sunt acoperiți cu unul dintre cele mai extinse și bine conservate cicluri de fresce din Belarus. Aceste picturi murale unice din a doua jumătate a secolului al XVIII-lea descriu cu detalii uimitoare scene biblice și istorice. În perioada sovietică, clădirea a fost transformată în arhivă de stat, fapt care a contribuit, în mod ironic, la salvarea frescelor valoroase.",
       en: "",
-      en: "The Cathedral of St. Stanislaus in Mogilev is an architectural jewel of the Baroque era and served for a long time as the spiritual center of Catholicism within the entire Russian Empire. The church was originally constructed between 1738 and 1752 as part of a Carmelite monastery, replacing an older wooden church on the site. When Empress Catherine the Great designated Mogilev as the capital of the Roman Catholic diocese for the whole empire, the church was elevated to cathedral status in 1782. While the exterior features an impressive classic Baroque facade, the true masterpiece lies within: the walls and ceilings are completely covered by one of the most extensive and best-preserved fresco cycles in all of Belarus. These unique wall paintings, dating from the second half of the 18th century, intricately depict biblical and historical scenes. During the Soviet era, the building was secularized and used as a state archive, which ironically helped save the priceless frescoes from destruction."
+//       en: "The Cathedral of St. Stanislaus in Mogilev is an architectural jewel of the Baroque era and served for a long time as the spiritual center of Catholicism within the entire Russian Empire. The church was originally constructed between 1738 and 1752 as part of a Carmelite monastery, replacing an older wooden church on the site. When Empress Catherine the Great designated Mogilev as the capital of the Roman Catholic diocese for the whole empire, the church was elevated to cathedral status in 1782. While the exterior features an impressive classic Baroque facade, the true masterpiece lies within: the walls and ceilings are completely covered by one of the most extensive and best-preserved fresco cycles in all of Belarus. These unique wall paintings, dating from the second half of the 18th century, intricately depict biblical and historical scenes. During the Soviet era, the building was secularized and used as a state archive, which ironically helped save the priceless frescoes from destruction."
     },
     factsAdvanced: {
       de: ["Originally constructed between 1738 and 1752 by the Carmelite monastic order.", "Elevated to Cathedral status in 1782 under the decree of Empress Catherine the Great.", "Served as the administrative center for the Roman Catholic Archdiocese of Mohilev.", "Features one of the most complete and authentic 18th-century fresco cycles in Belarus.", "The frescoes were created by a group of talented local artists led by Pavel Piotrovsky.", "Converted into the Belarusian State Historical Archive between 1956 and 1990.", "The cathedral currently hosts an annual international festival of sacred music."],
@@ -900,9 +874,8 @@ image: "/poi-images/belarus-st-stanislaus-cathedral-mogilev-landmarks-v2.webp"
     id: "belarus-tyzenhauz-palace-postavy-landmarks-v2",
     parent: "BY",
     type: "palace",
-    name: { de: "Tyzenhauz-Palast", hu: "Tyzenhauz-palota", ro: "Palatul Tyzenhauz din Pastavy", en: "Tyzenhauz Palace",
-image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"
-},
+    name: { de: "Tyzenhauz-Palast", hu: "Tyzenhauz-palota", ro: "Palatul Tyzenhauz din Pastavy", en: "Tyzenhauz Palace"},
+    image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp",
     coords: [26.8374, 55.1092],
     coordinates: { lat: 55.1092, lng: 26.8374 },
     description: {
@@ -934,9 +907,8 @@ image: "/poi-images/belarus-tyzenhauz-palace-postavy-landmarks-v2.webp"
     id: "belarus-shklov-town-hall-landmarks-v2",
     parent: "BY",
     type: "landmark",
-    name: { de: "Rathaus von Schklow", hu: "Sklovi városháza", ro: "Primăria din Șklov", en: "Shklov Town Hall",
-image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"
-},
+    name: { de: "Rathaus von Schklow", hu: "Sklovi városháza", ro: "Primăria din Șklov", en: "Shklov Town Hall"},
+    image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp",
     coords: [30.2976, 53.9873],
     coordinates: { lat: 53.9873, lng: 30.2976 },
     description: {
@@ -968,9 +940,8 @@ image: "/poi-images/belarus-shklov-town-hall-landmarks-v2.webp"
     id: "belarus-butrimovich-palace-pinsk-landmarks-v2",
     parent: "BY",
     type: "palace",
-    name: { de: "Butrimowitsch-Palast", hu: "Butrimovics-palota", ro: "Palatul Butrimovici din Pinsk", en: "Butrimovich Palace",
-image: "/poi-images/belarus-butrimovich-palace-pinsk-landmarks-v2.webp"
-},
+    name: { de: "Butrimowitsch-Palast", hu: "Butrimovics-palota", ro: "Palatul Butrimovici din Pinsk", en: "Butrimovich Palace"},
+    image: "/poi-images/belarus-butrimovich-palace-pinsk-landmarks-v2.webp",
     coords: [26.1085, 52.1145],
     coordinates: { lat: 52.1145, lng: 26.1085 },
     description: {
@@ -998,5 +969,102 @@ image: "/poi-images/belarus-butrimovich-palace-pinsk-landmarks-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "belarus-national-museum-of-music-landmarks-v2",
+    type: "museum",
+    parent: "BY",
+    name: { de: "Nationalmuseum für Musikgeschichte", hu: "Nemzeti Zenetörténeti Múzeum", ro: "Muzeul Național de Istorie a Muzicii", en: "National Museum of Music History" },
+    coordinates: { lat: 53.9023, lng: 27.5612 },
+    description: {
+      de: "Dieses Museum in Minsk dokumentiert die Entwicklung der belarussischen Musikinstrumente und Komponisten. Die Sammlung umfasst historische Manuskripte und seltene Musikinstrumente aus verschiedenen Epochen.",
+      hu: "Ez a minszki múzeum a fehérorosz hangszerek és zeneszerzők fejlődését mutatja be. A gyűjtemény történelmi kéziratokat és különböző korszakokból származó ritka hangszereket tartalmaz.",
+      ro: "Acest muzeu din Minsk documentează dezvoltarea instrumentelor muzicale și a compozitorilor belaruși. Colecția include manuscrise istorice și instrumente muzicale rare din diferite epoci.",
+      en: "This museum in Minsk documents the development of Belarusian musical instruments and composers. The collection includes historical manuscripts and rare musical instruments from various eras.",
+    },
+    facts: {
+      de: ["Gegründet im späten 20. Jahrhundert", "Beherbergt über 500 Ausstellungsstücke", "Fokus auf traditionelle Volksmusik", "Befindet sich in der historischen Altstadt"],
+      hu: ["A 20. század végén alapították", "Több mint 500 kiállítási tárgyat őriz", "A hagyományos népzenére összpontosít", "A történelmi óvárosban található"],
+      ro: ["Fondat la sfârșitul secolului al XX-lea", "Găzduiește peste 500 de exponate", "Se concentrează pe muzica populară tradițională", "Situat în orașul vechi istoric"],
+      en: ["Founded in the late 20th century", "Houses over 500 exhibits", "Focuses on traditional folk music", "Located in the historic old town"],
+    },
+    imageHint: "National Museum of Music History Minsk interior",
+    descriptionAdvanced: {
+      de: "Eröffnet im Jahr 1981, präsentiert das Museum in Minsk über 3.000 Exponate zur belarussischen Musikgeschichte von den Anfängen bis heute.",
+      hu: "Az 1981-ben alapított intézmény Minszk történelmi negyedében található, és több mint 3000 tárgyat őriz a régió zenei fejlődéséről.",
+      ro: "Fondat în 1981, muzeul din Minsk găzduiește o colecție de peste 3000 de obiecte ce reflectă tradițiile muzicale și folclorul poporului belarus.",
+      en: "Established in 1981, this museum in Minsk holds over 3,000 items documenting the evolution of Belarusian musical culture and folklore.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet im Jahr 1981", "Über 3000 Exponate gelistet", "Fokus auf Instrumentenbau", "Sitz im Trinity Hill Viertel", "Sammlung alter Handschriften", "Regelmäßige Konzertreihen"],
+      hu: ["1981-ben alapított múzeum", "Több mint 3000 kiállított tárgy", "Népi hangszerek gyűjteménye", "Minszk óvárosában fekszik", "Ritka kottatár és kéziratok", "Éves zenei rendezvények"],
+      ro: ["Înființat în anul 1981", "Peste 3000 de piese expuse", "Specializat în luterie", "Situat în Dealul Treimii", "Arhivă de partituri vechi", "Serii de concerte periodice"],
+      en: ["Established in 1981", "Over 3,000 exhibits stored", "Specialized in instrument making", "Located in Trinity Hill district", "Rare sheet music archives", "Regular concert programs"],
+    },
+  },
+  {
+    id: "belarus-church-of-st-elias-gomel-landmarks-v2",
+    type: "church",
+    parent: "BY",
+    name: { de: "St.-Elias-Kirche in Gomel", hu: "Gomeli Szent Illés-templom", ro: "Biserica Sfântul Ilie din Gomel", en: "Church of St. Elijah in Gomel" },
+    coordinates: { lat: 52.4251, lng: 31.0028 },
+    description: {
+      de: "Die St.-Elias-Kirche ist ein bedeutendes sakrales Bauwerk in Gomel, bekannt für ihre traditionelle Holzarchitektur. Sie wurde im 18. Jahrhundert errichtet und ist ein geschütztes historisches Denkmal.",
+      hu: "A Szent Illés-templom Gomel jelentős vallási épülete, amely hagyományos faépítészetéről ismert. A 18. században épült, és védett történelmi műemlék.",
+      ro: "Biserica Sfântul Ilie este un important edificiu religios din Gomel, cunoscută pentru arhitectura sa tradițională din lemn. A fost construită în secolul al XVIII-lea și este un monument istoric protejat.",
+      en: "The Church of St. Elijah is a significant religious building in Gomel, known for its traditional wooden architecture. It was built in the 18th century and is a protected historical monument.",
+    },
+    facts: {
+      de: ["Erbaut im Jahr 1794", "Architekturstil: Klassizismus aus Holz", "Dient der orthodoxen Gemeinde", "Umfassend restauriert im 21. Jahrhundert"],
+      hu: ["1794-ben épült", "Építészeti stílus: fa klasszicizmus", "Az ortodox közösséget szolgálja", "A 21. században teljesen felújítva"],
+      ro: ["Construită în anul 1794", "Stil arhitectural: clasicism din lemn", "Servește comunității ortodoxe", "Restaurată complet în secolul al XXI-lea"],
+      en: ["Built in 1794", "Architectural style: wooden classicism", "Serves the Orthodox community", "Fully restored in the 21st century"],
+    },
+    imageHint: "Church of St. Elijah Gomel wooden architecture",
+    descriptionAdvanced: {
+      de: "Die 1794 geweihte Elias-Kirche stellt ein Beispiel der Holzbaukunst dar und dient seit Jahrhunderten der Altgläubigen-Gemeinde in Homel.",
+      hu: "A templom 1794-ben készült el, és azóta is az ortodox óhitűek vallási központja Homel városában, a Szozs-folyó közvetlen közelében.",
+      ro: "Edificată în 1794, biserica este un exemplu rar de arhitectură în lemn, fiind un centru spiritual activ pentru comunitatea de rit vechi.",
+      en: "Consecrated in 1794, this St. Elijah Church is a rare wooden architectural monument that has continuously served the Old Believer community.",
+    },
+    factsAdvanced: {
+      de: ["Baujahr 1794 abgeschlossen", "Traditionelle Drei-Block-Form", "Gemeinde der Altgläubigen", "Ohne Metallnägel errichtet", "Denkmal nationalen Ranges", "Direkt am Ufer des Sozh"],
+      hu: ["1794-ben szentelték fel", "Hagyományos háromosztatú hajó", "Az óhitű közösség központja", "Fémszegek nélkül épült fel", "Védett nemzeti műemlék", "A Szozs-folyó partján fekszik"],
+      ro: ["Sfințită în anul 1794", "Structură din trei corpuri", "Comunitate de rit vechi", "Ridicată fără cuie de metal", "Statut de monument național", "Amplasată pe malul râului Soj"],
+      en: ["Consecrated in 1794", "Traditional three-log structure", "Old Believer congregation", "Built without metal nails", "National heritage status", "Located on the Sozh River bank"],
+    },
+  },
+  {
+    id: "belarus-vitebsk-art-museum-landmarks-v2",
+    type: "museum",
+    parent: "BY",
+    name: { de: "Kunstmuseum Witebsk", hu: "Vityebszki Művészeti Múzeum", ro: "Muzeul de Artă din Vitebsk", en: "Vitebsk Art Museum" },
+    coordinates: { lat: 55.1955, lng: 30.2015 },
+    description: {
+      de: "Das Kunstmuseum in Witebsk beherbergt eine umfangreiche Sammlung belarussischer und russischer Kunstwerke. Es befindet sich in einem historischen Gebäude, das die kulturelle Bedeutung der Region widerspiegelt.",
+      hu: "A vityebszki Művészeti Múzeum fehérorosz és orosz műalkotások széles gyűjteményét őrzi. Egy történelmi épületben található, amely a régió kulturális jelentőségét tükrözi.",
+      ro: "Muzeul de Artă din Vitebsk găzduiește o colecție vastă de opere de artă belaruse și ruse. Este situat într-o clădire istorică ce reflectă importanța culturală a regiunii.",
+      en: "The Art Museum in Vitebsk houses a vast collection of Belarusian and Russian artworks. It is located in a historic building that reflects the cultural significance of the region.",
+    },
+    facts: {
+      de: ["Gegründet im Jahr 1992", "Sammlung umfasst über 15.000 Exponate", "Spezialisierung auf Ikonenmalerei", "Ausstellungen zeitgenössischer regionaler Künstler"],
+      hu: ["1992-ben alapították", "A gyűjtemény több mint 15 000 kiállítási tárgyat tartalmaz", "Ikonfestészetre szakosodott", "Kortárs regionális művészek kiállításai"],
+      ro: ["Fondat în anul 1992", "Colecția include peste 15.000 de exponate", "Specializat în pictura de icoane", "Expoziții ale artiștilor regionali contemporani"],
+      en: ["Founded in 1992", "Collection includes over 15,000 exhibits", "Specializes in icon painting", "Exhibitions of contemporary regional artists"],
+    },
+    imageHint: "Vitebsk Art Museum facade",
+    descriptionAdvanced: {
+      de: "Das 1992 in einem klassizistischen Gebäude eröffnete Museum zeigt über 7.000 Kunstwerke, darunter bedeutende Stücke der russischen Schule.",
+      hu: "Az 1992-ben megnyílt múzeum egy 1883-as klasszicista épületben kapott helyet, és több mint 7000 műtárgyat bemutató gyűjteménnyel bír.",
+      ro: "Inaugurat în 1992, muzeul ocupă o clădire istorică din secolul XIX și deține un patrimoniu de peste 7000 de lucrări de artă plastică regională.",
+      en: "Founded in 1992, the museum is housed in a 19th-century neoclassical building and preserves a vast collection of over 7,000 artworks.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnung im Jahr 1992", "Bestand von 7000 Kunstwerken", "Gebäude aus dem Jahr 1883", "Stil des russischen Klassizismus", "Werke von Ilya Repin", "Fokus auf die Vitebsker Schule"],
+      hu: ["1992-ben nyílt meg", "7000-nél több műalkotás", "Az épület 1883-ban készült", "Orosz klasszicista stílus", "Ilja Repin festményei láthatók", "Vityebszki művészeti iskola"],
+      ro: ["Deschis publicului în 1992", "Peste 7000 de lucrări de artă", "Clădire construită în 1883", "Stil neoclasic rusesc", "Picturi de Ilia Repin în stoc", "Promovează Școala din Vitebsk"],
+      en: ["Opened in 1992", "Over 7,000 works in collection", "Building constructed in 1883", "Russian neoclassical style", "Ilya Repin paintings exhibited", "Vitebsk School orientation"],
+    },
   }
 ];

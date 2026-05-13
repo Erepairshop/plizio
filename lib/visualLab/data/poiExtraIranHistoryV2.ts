@@ -10,9 +10,8 @@ export const poiExtraIranHistoryV2: POI[] = [
       de: "Persepolis",
       hu: "Perszepolisz",
       ro: "Persepolis",
-      en: "Persepolis",
-image: "/poi-images/iran-persepolis-history-v2.webp"
-},
+      en: "Persepolis"},
+    image: "/poi-images/iran-persepolis-history-v2.webp",
     description: {
       de: "Zeremonielle Hauptstadt des Achämenidenreichs, gegründet von Dareios I.",
       hu: "Az Óperzsa Birodalom szakrális fővárosa, amelyet I. Dárajavaus alapított.",
@@ -66,9 +65,8 @@ image: "/poi-images/iran-persepolis-history-v2.webp"
       de: "Pasargadae",
       hu: "Paszargadai",
       ro: "Pasargadae",
-      en: "Pasargadae",
-image: "/poi-images/iran-pasargadae-history-v2.webp"
-},
+      en: "Pasargadae"},
+    image: "/poi-images/iran-pasargadae-history-v2.webp",
     description: {
       de: "Erste dynastische Hauptstadt des Achämenidenreichs, gegründet von Kyros dem Großen.",
       hu: "Az Óperzsa Birodalom első dinasztikus fővárosa, Nagy Círusz alapította.",
@@ -122,9 +120,8 @@ image: "/poi-images/iran-pasargadae-history-v2.webp"
       de: "Golestanpalast",
       hu: "Golesztán-palota",
       ro: "Palatul Golestan",
-      en: "Golestan Palace",
-image: "/poi-images/iran-golestan-palace-history-v2.webp"
-},
+      en: "Golestan Palace"},
+    image: "/poi-images/iran-golestan-palace-history-v2.webp",
     description: {
       de: "Ein Meisterwerk der Kadscharen-Ära in Teheran, das persisches Handwerk mit westlicher Architektur verbindet.",
       hu: "A Kádzsár-korszak remekműve Teheránban, amely a perzsa kézművességet ötvözi a nyugati építészettel.",
@@ -178,9 +175,8 @@ image: "/poi-images/iran-golestan-palace-history-v2.webp"
       de: "Arg-e Bam",
       hu: "Bami citadella",
       ro: "Citadela Bam",
-      en: "Arg-e Bam",
-image: "/poi-images/iran-arg-e-bam-history-v2.webp"
-},
+      en: "Arg-e Bam"},
+    image: "/poi-images/iran-arg-e-bam-history-v2.webp",
     description: {
       de: "Einst die größte Lehmziegelstruktur der Welt, ein wichtiges Zentrum an der Seidenstraße.",
       hu: "Valaha a világ legnagyobb vályogtéglából épült építménye volt, fontos központ a Selyemúton.",
@@ -234,9 +230,8 @@ image: "/poi-images/iran-arg-e-bam-history-v2.webp"
       de: "Behistun-Inschrift",
       hu: "Behisztuni felirat",
       ro: "Inscripția de la Behistun",
-      en: "Behistun Inscription",
-image: "/poi-images/iran-bisotun-history-v2.webp"
-},
+      en: "Behistun Inscription"},
+    image: "/poi-images/iran-bisotun-history-v2.webp",
     description: {
       de: "Eine mehrsprachige Felsinschrift von Dareios dem Großen, entscheidend für die Entzifferung der Keilschrift.",
       hu: "I. Dárajavaus perzsa király többnyelvű sziklafelirata, amely kulcsfontosságú volt az ékírás megfejtésében.",
@@ -290,9 +285,8 @@ image: "/poi-images/iran-bisotun-history-v2.webp"
       de: "Tschogha Zanbil",
       hu: "Csogá Zanbíl",
       ro: "Chogha Zanbil",
-      en: "Tchogha Zanbil",
-image: "/poi-images/iran-tchogha-zanbil-history-v2.webp"
-},
+      en: "Tchogha Zanbil"},
+    image: "/poi-images/iran-tchogha-zanbil-history-v2.webp",
     description: {
       de: "Ein antiker elamitischer Zikkurat-Komplex, einer der wenigen außerhalb von Mesopotamien.",
       hu: "Ősi elámi zikkurat-komplexum, a kevés Mezopotámián kívüli példák egyike.",
@@ -346,9 +340,8 @@ image: "/poi-images/iran-tchogha-zanbil-history-v2.webp"
       de: "Historisches Bewässerungssystem von Schuschtar",
       hu: "Sustari történelmi hidraulikus rendszer",
       ro: "Sistemul hidraulic istoric de la Shushtar",
-      en: "Shushtar Historical Hydraulic System",
-image: "/poi-images/iran-shushtar-hydraulic-history-v2.webp"
-},
+      en: "Shushtar Historical Hydraulic System"},
+    image: "/poi-images/iran-shushtar-hydraulic-history-v2.webp",
     description: {
       de: "Ein komplexes, meisterhaftes antikes Bewässerungssystem aus der Sassanidenzeit.",
       hu: "Egy összetett, zseniális ókori öntözőrendszer a Szászánida-korszakból.",
@@ -402,9 +395,8 @@ image: "/poi-images/iran-shushtar-hydraulic-history-v2.webp"
       de: "Öldscheitü-Mausoleum in Soltaniyeh",
       hu: "Szoltánije-kupola",
       ro: "Domul Soltaniyeh",
-      en: "Soltaniyeh Dome",
-image: "/poi-images/iran-soltaniyeh-dome-history-v2.webp"
-},
+      en: "Soltaniyeh Dome"},
+    image: "/poi-images/iran-soltaniyeh-dome-history-v2.webp",
     description: {
       de: "Ein Ilchaniden-Mausoleum mit einer der größten Backsteinkuppeln der Welt.",
       hu: "Egy ilhánida mauzóleum, amely a világ egyik legnagyobb téglakupolájával büszkélkedhet.",
@@ -458,9 +450,8 @@ image: "/poi-images/iran-soltaniyeh-dome-history-v2.webp"
       de: "Tacht-e Soleiman",
       hu: "Taht-e Szolejmán",
       ro: "Takht-e Soleyman",
-      en: "Takht-e Soleyman",
-image: "/poi-images/iran-takht-e-soleyman-history-v2.webp"
-},
+      en: "Takht-e Soleyman"},
+    image: "/poi-images/iran-takht-e-soleyman-history-v2.webp",
     description: {
       de: "Antike zoroastrische Kultstätte und sassanidisches Heiligtum mit einem Vulkankratersee.",
       hu: "Ősi zoroasztriánus kultuszhely és szászánida szentély egy vulkáni krátertóval.",
@@ -514,9 +505,8 @@ image: "/poi-images/iran-takht-e-soleyman-history-v2.webp"
       de: "Scheich-Safi-Mausoleum",
       hu: "Szafi ad-Dín sejk mauzóleuma",
       ro: "Mausoleul șeicului Safi al-Din",
-      en: "Sheikh Safi al-din Shrine",
-image: "/poi-images/iran-sheikh-safi-shrine-history-v2.webp"
-},
+      en: "Sheikh Safi al-din Shrine"},
+    image: "/poi-images/iran-sheikh-safi-shrine-history-v2.webp",
     description: {
       de: "Ein architektonisches Meisterwerk in Ardabil, das Sufi-Traditionen und safawidische Kunst vereint.",
       hu: "Építészeti remekmű Ardabilban, amely a szúfi hagyományokat és a szafavida művészetet ötvözi.",
@@ -570,9 +560,8 @@ image: "/poi-images/iran-sheikh-safi-shrine-history-v2.webp"
       de: "Susa",
       hu: "Szúza",
       ro: "Susa",
-      en: "Susa",
-image: "/poi-images/iran-susa-history-v2.webp"
-},
+      en: "Susa"},
+    image: "/poi-images/iran-susa-history-v2.webp",
     description: {
       de: "Eine der ältesten Städte der Welt, eine antike Metropole der Elamiter, Perser und Parther.",
       hu: "A világ egyik legrégebbi városa, az elámiak, perzsák és pártusok ókori metropolisza.",
@@ -626,9 +615,8 @@ image: "/poi-images/iran-susa-history-v2.webp"
       de: "Naqsch-e Rostam",
       hu: "Naks-e Rosztam",
       ro: "Naqsh-e Rustam",
-      en: "Naqsh-e Rustam",
-image: "/poi-images/iran-naqsh-e-rustam-history-v2.webp"
-},
+      en: "Naqsh-e Rustam"},
+    image: "/poi-images/iran-naqsh-e-rustam-history-v2.webp",
     description: {
       de: "Eine altpersische Nekropole mit monumentalen Felsengräbern achämenidischer Könige.",
       hu: "Óperzsa nekropolisz, amely akhaimenida királyok monumentális sziklasírjait rejti.",
@@ -682,9 +670,8 @@ image: "/poi-images/iran-naqsh-e-rustam-history-v2.webp"
       de: "Festung Alamut",
       hu: "Alamut vára",
       ro: "Castelul Alamut",
-      en: "Alamut Castle",
-image: "/poi-images/iran-alamut-castle-history-v2.webp"
-},
+      en: "Alamut Castle"},
+    image: "/poi-images/iran-alamut-castle-history-v2.webp",
     description: {
       de: "Eine historische Bergfestung, die einst als Hauptquartier der Assassinen-Sekte diente.",
       hu: "Történelmi hegyi erőd, amely egykor az asszaszinok szektájának főhadiszállásaként szolgált.",
@@ -738,9 +725,8 @@ image: "/poi-images/iran-alamut-castle-history-v2.webp"
       de: "Gonbad-e Qabus",
       hu: "Gonbad-e Kávúsz-torony",
       ro: "Turnul Gonbad-e Qabus",
-      en: "Gonbad-e Qabus Tower",
-image: "/poi-images/iran-qabus-tower-history-v2.webp"
-},
+      en: "Gonbad-e Qabus Tower"},
+    image: "/poi-images/iran-qabus-tower-history-v2.webp",
     description: {
       de: "Ein massiver Ziegelturm aus dem 11. Jahrhundert, ein Meisterwerk frühislamischer Architektur.",
       hu: "Egy hatalmas 11. századi téglatorony, a korai iszlám építészet remekműve.",
@@ -794,9 +780,8 @@ image: "/poi-images/iran-qabus-tower-history-v2.webp"
       de: "Falak-ol-Aflak",
       hu: "Falak-ol-Aflak erőd",
       ro: "Castelul Falak-ol-Aflak",
-      en: "Falak-ol-Aflak Castle",
-image: "/poi-images/iran-falak-ol-aflak-history-v2.webp"
-},
+      en: "Falak-ol-Aflak Castle"},
+    image: "/poi-images/iran-falak-ol-aflak-history-v2.webp",
     description: {
       de: "Eine beeindruckende sassanidische Burg, die hoch oben auf einem großen Hügel in Khorramabad thront.",
       hu: "Egy lenyűgöző szászánida vár, amely egy nagy domb tetején trónol Horramábádban.",
@@ -850,9 +835,8 @@ image: "/poi-images/iran-falak-ol-aflak-history-v2.webp"
       de: "Taq-e Bostan",
       hu: "Ták-e Bosztán",
       ro: "Taq-e Bostan",
-      en: "Taq-e Bostan",
-image: "/poi-images/iran-taq-e-bostan-history-v2.webp"
-},
+      en: "Taq-e Bostan"},
+    image: "/poi-images/iran-taq-e-bostan-history-v2.webp",
     description: {
       de: "Eine Reihe von großen Felsreliefs aus der Sassanidenzeit inmitten des Zagros-Gebirges.",
       hu: "A Zagrosz-hegység szívében található, a Szászánida Birodalom idejéből származó szikladomborművek.",
@@ -906,9 +890,8 @@ image: "/poi-images/iran-taq-e-bostan-history-v2.webp"
       de: "Freitagsmoschee von Isfahan",
       hu: "Iszfaháni Péntek-mecset",
       ro: "Moscheea Jameh din Isfahan",
-      en: "Jameh Mosque of Isfahan",
-image: "/poi-images/iran-jameh-mosque-isfahan-history-v2.webp"
-},
+      en: "Jameh Mosque of Isfahan"},
+    image: "/poi-images/iran-jameh-mosque-isfahan-history-v2.webp",
     description: {
       de: "Ein beeindruckender Moscheekomplex, der über 1200 Jahre iranischer Architekturgeschichte widerspiegelt.",
       hu: "Egy lenyűgöző mecsetkomplexum, amely a perzsa építészet 1200 éves fejlődését tükrözi.",
@@ -962,9 +945,8 @@ image: "/poi-images/iran-jameh-mosque-isfahan-history-v2.webp"
       de: "Fin-Garten",
       hu: "Fin-kert",
       ro: "Grădina Fin",
-      en: "Fin Garden",
-image: "/poi-images/iran-fin-garden-history-v2.webp"
-},
+      en: "Fin Garden"},
+    image: "/poi-images/iran-fin-garden-history-v2.webp",
     description: {
       de: "Ein historischer persischer Garten in Kaschan, der das perfekte Zusammenspiel von Natur und Architektur zeigt.",
       hu: "Történelmi perzsa kert Kásánban, amely a természet és az építészet tökéletes harmóniáját mutatja be.",
@@ -1018,9 +1000,8 @@ image: "/poi-images/iran-fin-garden-history-v2.webp"
       de: "Grabmal des Kyros",
       hu: "Nagy Círusz sírja",
       ro: "Mormântul lui Cirus cel Mare",
-      en: "Tomb of Cyrus the Great",
-image: "/poi-images/iran-cyrus-tomb-history-v2.webp"
-},
+      en: "Tomb of Cyrus the Great"},
+    image: "/poi-images/iran-cyrus-tomb-history-v2.webp",
     description: {
       de: "Das schlichte, aber majestätische Grabmal des Begründers des Achämenidenreichs.",
       hu: "Az Óperzsa Birodalom alapítójának egyszerű, de fenséges síremléke Paszargadaiban.",
@@ -1074,9 +1055,8 @@ image: "/poi-images/iran-cyrus-tomb-history-v2.webp"
       de: "Meidan-e Emam",
       hu: "Naks-e Dzsahán tér",
       ro: "Piața Naqsh-e Jahan",
-      en: "Naqsh-e Jahan Square",
-image: "/poi-images/iran-naqsh-e-jahan-history-v2.webp"
-},
+      en: "Naqsh-e Jahan Square"},
+    image: "/poi-images/iran-naqsh-e-jahan-history-v2.webp",
     description: {
       de: "Einer der größten Stadtplätze der Welt, umgeben von architektonischen Wundern der Safawiden.",
       hu: "A világ egyik legnagyobb városi tere, amelyet szafavida építészeti csodák vesznek körül.",

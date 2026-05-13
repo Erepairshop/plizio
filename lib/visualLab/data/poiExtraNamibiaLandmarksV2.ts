@@ -11,9 +11,8 @@ export const poiExtraNamibiaLandmarksV2: POI[] = [
       de: "Christuskirche Windhoek",
       hu: "Krisztus-templom (Windhoek)",
       ro: "Biserica lui Hristos (Windhoek)",
-      en: "Christ Church (Windhoek)",
-image: "/poi-images/christuskirche-windhoek-landmarks-v2.webp"
-},
+      en: "Christ Church (Windhoek)"},
+    image: "/poi-images/christuskirche-windhoek-landmarks-v2.webp",
     description: {
       de: "Eine historische lutherische Kirche in Windhoek, erbaut 1910 aus Quarzsandstein, die als bekanntestes Wahrzeichen der Stadt gilt.",
       hu: "Windhoek történelmi evangélikus temploma, amely 1910-ben épült kvarc homokkőből, és a város leghíresebb jelképe.",
@@ -48,9 +47,8 @@ image: "/poi-images/christuskirche-windhoek-landmarks-v2.webp"
       de: "Tintenpalast",
       hu: "Tintapalota (Tintenpalast)",
       ro: "Palatul Cernelii (Tintenpalast)",
-      en: "Tintenpalast",
-image: "/poi-images/tintenpalast-landmarks-v2.webp"
-},
+      en: "Tintenpalast"},
+    image: "/poi-images/tintenpalast-landmarks-v2.webp",
     description: {
       de: "Der Sitz des namibischen Parlaments in Windhoek, umgeben von wunderschönen Gärten und benannt nach dem enormen Tintenverbrauch der damaligen Verwaltung.",
       hu: "A namíbiai parlament székhelye Windhoekban, amelyet gyönyörű kertek vesznek körül. Nevét az egykori közigazgatás hatalmas tintafogyasztásáról kapta.",
@@ -85,9 +83,8 @@ image: "/poi-images/tintenpalast-landmarks-v2.webp"
       de: "Unabhängigkeits-Gedenkmuseum",
       hu: "Függetlenségi Emlékmúzeum",
       ro: "Muzeul Memorial al Independenței",
-      en: "Independence Memorial Museum",
-image: "/poi-images/independence-memorial-museum-landmarks-v2.webp"
-},
+      en: "Independence Memorial Museum"},
+    image: "/poi-images/independence-memorial-museum-landmarks-v2.webp",
     description: {
       de: "Ein auffälliges Gebäude in Windhoek, das der Geschichte des antikolonialen Widerstands und dem nationalen Befreiungskampf Namibias gewidmet ist.",
       hu: "Egy feltűnő épület Windhoekban, amelyet Namíbia gyarmatosítás elleni ellenállásának és nemzeti felszabadító küzdelmének szenteltek.",
@@ -122,9 +119,8 @@ image: "/poi-images/independence-memorial-museum-landmarks-v2.webp"
       de: "Heldenacker (Heroes' Acre)",
       hu: "Hősök tere (Heroes' Acre)",
       ro: "Câmpul Eroilor (Heroes' Acre)",
-      en: "Heroes' Acre",
-image: "/poi-images/heroes-acre-windhoek-landmarks-v2.webp"
-},
+      en: "Heroes' Acre"},
+    image: "/poi-images/heroes-acre-windhoek-landmarks-v2.webp",
     description: {
       de: "Ein nationales Kriegsdenkmal etwas außerhalb von Windhoek, das mit einem riesigen Obelisken die gefallenen Helden Namibias ehrt.",
       hu: "Windhoek határában található nemzeti háborús emlékmű, amely egy hatalmas obeliszkkel tiszteleg Namíbia elesett hősei előtt.",
@@ -159,9 +155,8 @@ image: "/poi-images/heroes-acre-windhoek-landmarks-v2.webp"
       de: "Woermannhaus",
       hu: "Woermannhaus (Swakopmund)",
       ro: "Casa Woermann (Swakopmund)",
-      en: "Woermannhaus",
-image: "/poi-images/woermannhaus-landmarks-v2.webp"
-},
+      en: "Woermannhaus"},
+    image: "/poi-images/woermannhaus-landmarks-v2.webp",
     description: {
       de: "Ein historisches Fachwerkgebäude in Swakopmund, einst das Hauptquartier der Damara und Namaqua Handelsgesellschaft, bekannt für seinen Damara-Turm.",
       hu: "Történelmi favázas épület Swakopmundban, egykor a Damara és Namaqua Kereskedelmi Társaság központja, amely Damara-tornyáról híres.",
@@ -196,9 +191,8 @@ image: "/poi-images/woermannhaus-landmarks-v2.webp"
       de: "Leuchtturm Swakopmund",
       hu: "Swakopmundi világítótorony",
       ro: "Farul din Swakopmund",
-      en: "Swakopmund Lighthouse",
-image: "/poi-images/swakopmund-lighthouse-landmarks-v2.webp"
-},
+      en: "Swakopmund Lighthouse"},
+    image: "/poi-images/swakopmund-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein ikonischer, rot-weiß gestreifter Leuchtturm in Swakopmund, der eine wichtige Rolle in der Kolonialgeschichte und der Seefahrt der Küstenstadt spielte.",
       hu: "Egy ikonikus, piros-fehér csíkos világítótorony Swakopmundban, amely fontos szerepet játszott a tengerparti város gyarmati történetében és tengerészetében.",
@@ -233,9 +227,8 @@ image: "/poi-images/swakopmund-lighthouse-landmarks-v2.webp"
       de: "Hohenzollernhaus",
       hu: "Hohenzollernhaus (Swakopmund)",
       ro: "Hohenzollernhaus (Swakopmund)",
-      en: "Hohenzollern Building",
-image: "/poi-images/hohenzollernhaus-swakopmund-landmarks-v2.webp"
-},
+      en: "Hohenzollern Building"},
+    image: "/poi-images/hohenzollernhaus-swakopmund-landmarks-v2.webp",
     description: {
       de: "Eines der prächtigsten Kolonialgebäude in Swakopmund im Stil des Neobarock, das von der Figur des Atlas gekrönt wird, der die Weltkugel trägt.",
       hu: "Swakopmund egyik legpompásabb neobarokk gyarmati épülete, melyet egy földgömböt tartó Atlasz-szobor koronáz.",
@@ -270,9 +263,8 @@ image: "/poi-images/hohenzollernhaus-swakopmund-landmarks-v2.webp"
       de: "Felsenkirche Lüderitz",
       hu: "Sziklatemplom (Lüderitz)",
       ro: "Felsenkirche (Lüderitz)",
-      en: "Felsenkirche Lüderitz",
-image: "/poi-images/felsenkirche-luderitz-landmarks-v2.webp"
-},
+      en: "Felsenkirche Lüderitz"},
+    image: "/poi-images/felsenkirche-luderitz-landmarks-v2.webp",
     description: {
       de: "Eine beeindruckende lutherische Kirche im neugotischen Stil, die hoch auf dem Diamantberg in Lüderitz thront und die Stadt überblickt.",
       hu: "Lenyűgöző neogótikus evangélikus templom, amely a lüderitzi Gyémánt-hegyen magasodva tekint le a városra.",
@@ -307,9 +299,8 @@ image: "/poi-images/felsenkirche-luderitz-landmarks-v2.webp"
       de: "Goerke-Haus",
       hu: "Goerke-ház",
       ro: "Casa Goerke",
-      en: "Goerke House",
-image: "/poi-images/goerke-haus-luderitz-landmarks-v2.webp"
-},
+      en: "Goerke House"},
+    image: "/poi-images/goerke-haus-luderitz-landmarks-v2.webp",
     description: {
       de: "Eine elegante Villa auf dem Diamantberg in Lüderitz, die 1910 für den Mineninspektor Hans Goerke erbaut wurde und den Reichtum des Diamantenbooms widerspiegelt.",
       hu: "Elegáns villa a lüderitzi Gyémánt-hegyen, amelyet 1910-ben építettek Hans Goerke bányaellenőr számára, és a gyémántláz gazdagságát tükrözi.",
@@ -344,9 +335,8 @@ image: "/poi-images/goerke-haus-luderitz-landmarks-v2.webp"
       de: "Leuchtturm am Diaz Point",
       hu: "Diaz Point világítótorony",
       ro: "Farul Diaz Point",
-      en: "Diaz Point Lighthouse",
-image: "/poi-images/diaz-point-lighthouse-landmarks-v2.webp"
-},
+      en: "Diaz Point Lighthouse"},
+    image: "/poi-images/diaz-point-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein historischer Leuchtturm nahe Lüderitz, der Seeleute vor der rauen, windgepeitschten Küste warnt, nahe dem Ort, wo Bartolomeu Dias ein Steinkreuz aufstellte.",
       hu: "Történelmi világítótorony Lüderitz közelében, amely a tengerészeket figyelmezteti a zord, szélfútta partra. Ott áll, ahol Bartolomeu Dias egy kőkeresztet emelt.",
@@ -381,9 +371,8 @@ image: "/poi-images/diaz-point-lighthouse-landmarks-v2.webp"
       de: "Turnhalle-Gebäude",
       hu: "Turnhalle-épület (Windhoek)",
       ro: "Clădirea Turnhalle (Windhoek)",
-      en: "Turnhalle Building",
-image: "/poi-images/turnhalle-windhoek-landmarks-v2.webp"
-},
+      en: "Turnhalle Building"},
+    image: "/poi-images/turnhalle-windhoek-landmarks-v2.webp",
     description: {
       de: "Ursprünglich als Turnhalle für Sportvereine erbaut, erlangte das Gebäude historische Bedeutung durch die Turnhalle-Konferenz, die den Weg zur Unabhängigkeit vorbereitete.",
       hu: "Eredetileg sportklubok számára épült tornacsarnok, amely a függetlenséget előkészítő Turnhalle-konferencia révén kapott történelmi jelentőséget.",
@@ -418,9 +407,8 @@ image: "/poi-images/turnhalle-windhoek-landmarks-v2.webp"
       de: "Alte Feste",
       hu: "Öreg erőd (Alte Feste)",
       ro: "Alte Feste (Vechea Fortăreață)",
-      en: "Alte Feste",
-image: "/poi-images/alte-feste-windhoek-landmarks-v2.webp"
-},
+      en: "Alte Feste"},
+    image: "/poi-images/alte-feste-windhoek-landmarks-v2.webp",
     description: {
       de: "Das älteste erhaltene Gebäude in Windhoek, eine ehemalige Festung der Schutztruppe, die heute Teile des namibischen Nationalmuseums beherbergt.",
       hu: "Windhoek legrégebbi fennmaradt épülete, a Schutztruppe egykori erődje, amely ma a Namíbiai Nemzeti Múzeum részeinek ad otthont.",
@@ -455,9 +443,8 @@ image: "/poi-images/alte-feste-windhoek-landmarks-v2.webp"
       de: "Schwerinsburg",
       hu: "Schwerinsburg (Windhoek)",
       ro: "Schwerinsburg",
-      en: "Schwerinsburg",
-image: "/poi-images/schwerinsburg-landmarks-v2.webp"
-},
+      en: "Schwerinsburg"},
+    image: "/poi-images/schwerinsburg-landmarks-v2.webp",
     description: {
       de: "Die größte der drei Burgen in Windhoek, die hoch über der Stadt liegt und heute als private Residenz des italienischen Botschafters dient.",
       hu: "A három windhoeki kastély legnagyobbika, amely magasan a város felett helyezkedik el, és ma az olasz nagykövet magánrezidenciájaként szolgál.",
@@ -492,9 +479,8 @@ image: "/poi-images/schwerinsburg-landmarks-v2.webp"
       de: "Heinitzburg",
       hu: "Heinitzburg (Windhoek)",
       ro: "Heinitzburg",
-      en: "Heinitzburg",
-image: "/poi-images/heinitzburg-landmarks-v2.webp"
-},
+      en: "Heinitzburg"},
+    image: "/poi-images/heinitzburg-landmarks-v2.webp",
     description: {
       de: "Eine elegante Burg in Windhoek, erbaut von Graf von Schwerin für seine Verlobte Margarethe von Heinitz, die heute ein luxuriöses Hotel ist.",
       hu: "Egy elegáns kastély Windhoekban, melyet Schwerin gróf építtetett menyasszonyának, Margarethe von Heinitznek. Ma luxusszálloda.",
@@ -529,9 +515,8 @@ image: "/poi-images/heinitzburg-landmarks-v2.webp"
       de: "Sanderburg",
       hu: "Sanderburg",
       ro: "Sanderburg",
-      en: "Sanderburg",
-image: "/poi-images/sanderburg-landmarks-v2.webp"
-},
+      en: "Sanderburg"},
+    image: "/poi-images/sanderburg-landmarks-v2.webp",
     description: {
       de: "Die kleinste der drei historischen Burgen in Windhoek, entworfen von dem Architekten Wilhelm Sander als seine eigene Residenz.",
       hu: "A három történelmi windhoeki kastély legkisebbike, amelyet Wilhelm Sander építész tervezett saját rezidenciájaként.",
@@ -566,9 +551,8 @@ image: "/poi-images/sanderburg-landmarks-v2.webp"
       de: "Dampftraktor Martin Luther",
       hu: "Martin Luther gőztraktor",
       ro: "Tractorul cu aburi Martin Luther",
-      en: "Martin Luther Steam Tractor",
-image: "/poi-images/martin-luther-steam-tractor-landmarks-v2.webp"
-},
+      en: "Martin Luther Steam Tractor"},
+    image: "/poi-images/martin-luther-steam-tractor-landmarks-v2.webp",
     description: {
       de: "Ein historischer Dampftraktor vor den Toren Swakopmunds, der 1896 im Sand stecken blieb und scherzhaft nach Martin Luthers Zitat benannt wurde.",
       hu: "Egy történelmi gőztraktor Swakopmund határában, amely 1896-ban elakadt a homokban, és tréfásan Martin Luther idézete után nevezték el.",
@@ -603,9 +587,8 @@ image: "/poi-images/martin-luther-steam-tractor-landmarks-v2.webp"
       de: "Franketurm",
       hu: "Franke-torony",
       ro: "Turnul Franke",
-      en: "Franke Tower",
-image: "/poi-images/franke-tower-omaruru-landmarks-v2.webp"
-},
+      en: "Franke Tower"},
+    image: "/poi-images/franke-tower-omaruru-landmarks-v2.webp",
     description: {
       de: "Ein steinerner Wachturm in Omaruru, der an die Entsetzung der Stadt durch Hauptmann Victor Franke im Jahr 1904 erinnert.",
       hu: "Kőből épült őrtorony Omaruruban, amely a város 1904-es felszabadítására emlékeztet, melyet Victor Franke százados vezetett.",
@@ -640,9 +623,8 @@ image: "/poi-images/franke-tower-omaruru-landmarks-v2.webp"
       de: "Fort Namutoni",
       hu: "Namutoni Erőd",
       ro: "Fortul Namutoni",
-      en: "Fort Namutoni",
-image: "/poi-images/fort-namutoni-landmarks-v2.webp"
-},
+      en: "Fort Namutoni"},
+    image: "/poi-images/fort-namutoni-landmarks-v2.webp",
     description: {
       de: "Ein strahlend weißes ehemaliges Polizeifort am östlichen Rand des Etosha-Nationalparks, das heute als Rastlager für Safari-Gäste dient.",
       hu: "Ragyogó fehér, egykori rendőrerőd az Etosha Nemzeti Park keleti szélén, amely ma szafari-vendégek pihenőhelyeként szolgál.",
@@ -677,9 +659,8 @@ image: "/poi-images/fort-namutoni-landmarks-v2.webp"
       de: "Okaukuejo Wasserturm",
       hu: "Okaukuejo víztorony",
       ro: "Turnul de apă Okaukuejo",
-      en: "Okaukuejo Water Tower",
-image: "/poi-images/okaukuejo-waterhole-tower-landmarks-v2.webp"
-},
+      en: "Okaukuejo Water Tower"},
+    image: "/poi-images/okaukuejo-waterhole-tower-landmarks-v2.webp",
     description: {
       de: "Ein markanter steinerner Wasserturm im Okaukuejo-Camp im Etosha-Nationalpark, der als Aussichtspunkt über das berühmte Wasserloch dient.",
       hu: "Jellegzetes kőből épült víztorony az Etosha Nemzeti Park Okaukuejo táborában, amely kilátóként szolgál a híres itató felett.",
@@ -714,9 +695,8 @@ image: "/poi-images/okaukuejo-waterhole-tower-landmarks-v2.webp"
       de: "Herero Heldendenkmal",
       hu: "Herero Hősök Emlékműve",
       ro: "Monumentul Eroilor Herero",
-      en: "Herero Heroes Memorial",
-image: "/poi-images/oorlog-memorial-okahandja-landmarks-v2.webp"
-},
+      en: "Herero Heroes Memorial"},
+    image: "/poi-images/oorlog-memorial-okahandja-landmarks-v2.webp",
     description: {
       de: "Eine bedeutende Gedenkstätte in Okahandja, wo die traditionellen Anführer der Herero begraben sind und jährlich der Herero-Tag gefeiert wird.",
       hu: "Jelentős emlékhely Okahandjában, ahol a herero nép hagyományos vezetői nyugszanak, és ahol évente megünneplik a Herero-napot.",
@@ -751,9 +731,8 @@ image: "/poi-images/oorlog-memorial-okahandja-landmarks-v2.webp"
       de: "Altes Minenkommissariat (Tsumeb Museum)",
       hu: "Régi Bányabiztosság (Tsumeb Múzeum)",
       ro: "Fostul Comisariat Minier (Muzeul Tsumeb)",
-      en: "Old Mine Commissariat (Tsumeb Museum)",
-image: "/poi-images/tsumeb-museum-alte-minenkommissariat-landmarks-v2.webp"
-},
+      en: "Old Mine Commissariat (Tsumeb Museum)"},
+    image: "/poi-images/tsumeb-museum-alte-minenkommissariat-landmarks-v2.webp",
     description: {
       de: "Ein historisches Gebäude aus der deutschen Kolonialzeit in Tsumeb, das heute ein Museum beherbergt, welches die reiche Bergbaugeschichte der Stadt zeigt.",
       hu: "Egy történelmi épület a német gyarmati időkből Tsumeb városában, amely ma múzeumnak ad otthont, és a város gazdag bányászati múltját mutatja be.",
@@ -788,9 +767,8 @@ image: "/poi-images/tsumeb-museum-alte-minenkommissariat-landmarks-v2.webp"
       de: "Altes Fort Grootfontein",
       hu: "Grootfontein Öreg Erőd",
       ro: "Vechiul Fort Grootfontein",
-      en: "Grootfontein Old Fort",
-image: "/poi-images/grootfontein-old-fort-landmarks-v2.webp"
-},
+      en: "Grootfontein Old Fort"},
+    image: "/poi-images/grootfontein-old-fort-landmarks-v2.webp",
     description: {
       de: "Ein altes Fort aus der Schutztruppen-Zeit in Grootfontein, das heute das Stadtmuseum mit Ausstellungen zur lokalen Geschichte beherbergt.",
       hu: "Egy régi Schutztruppe-erőd Grootfonteinben, amely ma a helyi történelmet bemutató városi múzeumnak ad otthont.",
@@ -825,9 +803,8 @@ image: "/poi-images/grootfontein-old-fort-landmarks-v2.webp"
       de: "Sam-Nujoma-Stadion",
       hu: "Sam Nujoma Stadion",
       ro: "Stadionul Sam Nujoma",
-      en: "Sam Nujoma Stadium",
-image: "/poi-images/sam-nujoma-stadium-landmarks-v2.webp"
-},
+      en: "Sam Nujoma Stadium"},
+    image: "/poi-images/sam-nujoma-stadium-landmarks-v2.webp",
     description: {
       de: "Ein modernes Sportstadion im Stadtteil Katutura in Windhoek, das nach dem ersten Präsidenten Namibias benannt ist und für große Fußballspiele genutzt wird.",
       hu: "Modern sportstadion Windhoek Katutura negyedében, amelyet Namíbia első elnökéről neveztek el, és nagy labdarúgó-mérkőzéseknek ad otthont.",
@@ -862,9 +839,8 @@ image: "/poi-images/sam-nujoma-stadium-landmarks-v2.webp"
       de: "Owambo-Feldzug-Denkmal",
       hu: "Owambo-hadjárat emlékműve",
       ro: "Monumentul Campaniei Owambo",
-      en: "Owambo Campaign Memorial",
-image: "/poi-images/owambo-campaign-memorial-landmarks-v2.webp"
-},
+      en: "Owambo Campaign Memorial"},
+    image: "/poi-images/owambo-campaign-memorial-landmarks-v2.webp",
     description: {
       de: "Ein steinernes Denkmal neben der Christuskirche in Windhoek, das an britische und südafrikanische Soldaten erinnert, die während des Ersten Weltkriegs starben.",
       hu: "Kőemlékmű a windhoeki Krisztus-templom mellett, amely az első világháború során elesett brit és dél-afrikai katonáknak állít emléket.",
@@ -899,9 +875,8 @@ image: "/poi-images/owambo-campaign-memorial-landmarks-v2.webp"
       de: "Kapps-Hotel Gebäude",
       hu: "Kapps-hotel épülete",
       ro: "Clădirea Hotelului Kapps",
-      en: "Kapps Hotel Building",
-image: "/poi-images/kapps-hotel-luderitz-landmarks-v2.webp"
-},
+      en: "Kapps Hotel Building"},
+    image: "/poi-images/kapps-hotel-luderitz-landmarks-v2.webp",
     description: {
       de: "Eines der ältesten noch stehenden Gebäude in Lüderitz, das einst als wichtiger sozialer Treffpunkt während des ersten Diamantenbooms diente.",
       hu: "Lüderitz egyik legrégebbi fennmaradt épülete, amely az első gyarmati gyémántláz idején fontos társadalmi találkozóhelyként szolgált.",
@@ -936,9 +911,8 @@ image: "/poi-images/kapps-hotel-luderitz-landmarks-v2.webp"
       de: "Leuchtturm Pelican Point",
       hu: "Pelican Point világítótorony",
       ro: "Farul Pelican Point",
-      en: "Pelican Point Lighthouse",
-image: "/poi-images/walvis-bay-pelican-point-lighthouse-landmarks-v2.webp"
-},
+      en: "Pelican Point Lighthouse"},
+    image: "/poi-images/walvis-bay-pelican-point-lighthouse-landmarks-v2.webp",
     description: {
       de: "Ein gusseiserner Leuchtturm auf einer abgelegenen Sandbank bei Walvis Bay, der Schiffe sicher in die strategisch wichtige Bucht navigiert.",
       hu: "Öntöttvas világítótorony egy eldugott homokpadon Walvis Bay közelében, amely biztonságosan vezeti a hajókat a stratégiai fontosságú öbölbe.",
@@ -973,9 +947,8 @@ image: "/poi-images/walvis-bay-pelican-point-lighthouse-landmarks-v2.webp"
       de: "Bahnhof Keetmanshoop",
       hu: "Keetmanshoop vasútállomás",
       ro: "Gara Keetmanshoop",
-      en: "Keetmanshoop Railway Station",
-image: "/poi-images/keetmanshoop-railway-station-landmarks-v2.webp"
-},
+      en: "Keetmanshoop Railway Station"},
+    image: "/poi-images/keetmanshoop-railway-station-landmarks-v2.webp",
     description: {
       de: "Ein architektonisch reizvolles historisches Bahnhofsgebäude, das einst ein wichtiger Verkehrsknotenpunkt für den südlichen Teil Namibias war.",
       hu: "Építészetileg vonzó történelmi vasútállomás épület, amely egykor Namíbia déli részének fontos közlekedési csomópontja volt.",
@@ -1010,9 +983,8 @@ image: "/poi-images/keetmanshoop-railway-station-landmarks-v2.webp"
       de: "Rheinische Missionskirche Walvis Bay",
       hu: "Rajnai missziós templom (Walvis Bay)",
       ro: "Biserica Misiunii Renane (Walvis Bay)",
-      en: "Rhenish Mission Church Walvis Bay",
-image: "/poi-images/rhenish-mission-church-walvis-bay-landmarks-v2.webp"
-},
+      en: "Rhenish Mission Church Walvis Bay"},
+    image: "/poi-images/rhenish-mission-church-walvis-bay-landmarks-v2.webp",
     description: {
       de: "Ein historisches Holzgebäude in Walvis Bay, das in Hamburg vorgefertigt und per Schiff nach Namibia transportiert wurde.",
       hu: "Egy történelmi faépület Walvis Bay-ben, amelyet Hamburgban előre gyártottak, és hajóval szállítottak Namíbiába.",
@@ -1047,9 +1019,8 @@ image: "/poi-images/rhenish-mission-church-walvis-bay-landmarks-v2.webp"
       de: "Katutura-Staatskrankenhaus",
       hu: "Katutura Állami Kórház",
       ro: "Spitalul de Stat Katutura",
-      en: "Katutura State Hospital",
-image: "/poi-images/katutura-state-hospital-landmarks-v2.webp"
-},
+      en: "Katutura State Hospital"},
+    image: "/poi-images/katutura-state-hospital-landmarks-v2.webp",
     description: {
       de: "Ein riesiger und markanter Gesundheitskomplex im Township Katutura, der eine entscheidende Rolle in der medizinischen Versorgung der Einwohner Windhoeks spielt.",
       hu: "Egy hatalmas és markáns egészségügyi komplexum a Katutura negyedben, amely kulcsfontosságú szerepet játszik Windhoek lakosainak orvosi ellátásában.",
@@ -1084,9 +1055,8 @@ image: "/poi-images/katutura-state-hospital-landmarks-v2.webp"
       de: "Trans-Namib Transportmuseum",
       hu: "Trans-Namib Közlekedési Múzeum",
       ro: "Muzeul Transporturilor Trans-Namib",
-      en: "Trans-Namib Transport Museum",
-image: "/poi-images/trans-namib-transport-museum-landmarks-v2.webp"
-},
+      en: "Trans-Namib Transport Museum"},
+    image: "/poi-images/trans-namib-transport-museum-landmarks-v2.webp",
     description: {
       de: "Ein historisches Gebäude des Bahnhofs in Windhoek im kap-holländischen Stil, das heute die Geschichte der namibischen Eisenbahn ausstellt.",
       hu: "A windhoeki vasútállomás fokvárosi holland stílusú történelmi épülete, amely ma a namíbiai vasút történetét mutatja be.",

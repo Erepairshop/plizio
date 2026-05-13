@@ -11,9 +11,8 @@ export const poiExtraArgentinaLifeV2: POI[] = [
       de: "Biopark Temaikèn",
       hu: "Temaikèn Biopark",
       ro: "Bioparcul Temaikèn",
-      en: "Temaikèn Biopark",
-image: "/poi-images/ar-temaiken-life-v2.webp"
-},
+      en: "Temaikèn Biopark"},
+    image: "/poi-images/ar-temaiken-life-v2.webp",
     description: {
       de: "Ein grosser Biopark nahe Buenos Aires, der auf den Erhalt der biologischen Vielfalt und Familienausflüge ausgerichtet ist.",
       hu: "Hatalmas állat- és növénykert Buenos Aires közelében, amely a biológiai sokféleség megőrzésére és családi programokra fókuszál.",
@@ -68,9 +67,8 @@ image: "/poi-images/ar-temaiken-life-v2.webp"
       de: "Parque de la Costa",
       hu: "Parque de la Costa",
       ro: "Parque de la Costa",
-      en: "Parque de la Costa",
-image: "/poi-images/ar-parque-de-la-costa-life-v2.webp"
-},
+      en: "Parque de la Costa"},
+    image: "/poi-images/ar-parque-de-la-costa-life-v2.webp",
     description: {
       de: "Der grösste Vergnügungspark Argentiniens liegt im Tigre-Delta und bietet zahlreiche Fahrgeschäfte für Kinder.",
       hu: "Argentína legnagyobb vidámparkja a Tigre-deltában található, számos gyerekbarát játékkal és hullámvasúttal.",
@@ -133,9 +131,8 @@ image: "/poi-images/ar-parque-de-la-costa-life-v2.webp"
       de: "Kinderrepublik",
       hu: "Gyermekköztársaság",
       ro: "Republica Copiilor",
-      en: "Republic of the Children",
-image: "/poi-images/ar-republica-ninos-life-v2.webp"
-},
+      en: "Republic of the Children"},
+    image: "/poi-images/ar-republica-ninos-life-v2.webp",
     description: {
       de: "Ein thematischer Park, der eine kleine Stadt für Kinder im Massstab nachbildet, mit eigenen öffentlichen Gebäuden.",
       hu: "Tematikus park La Platában, amely egy miniatűr várost mintáz gyerekeknek, saját középületekkel.",
@@ -190,9 +187,8 @@ image: "/poi-images/ar-republica-ninos-life-v2.webp"
       de: "Themenpark Tierra Santa",
       hu: "Tierra Santa Élménypark",
       ro: "Parcul Tematic Tierra Santa",
-      en: "Tierra Santa Theme Park",
-image: "/poi-images/ar-tierra-santa-life-v2.webp"
-},
+      en: "Tierra Santa Theme Park"},
+    image: "/poi-images/ar-tierra-santa-life-v2.webp",
     description: {
       de: "Ein religiöser Themenpark in Buenos Aires, der das alte Jerusalem detailgetreu nachbildet.",
       hu: "Vallási élménypark Buenos Airesben, amely az ősi Jeruzsálemet és a bibliai időket eleveníti fel.",
@@ -247,9 +243,8 @@ image: "/poi-images/ar-tierra-santa-life-v2.webp"
       de: "Kindermuseum Abasto",
       hu: "Abasto Gyerekmúzeum",
       ro: "Muzeul Copiilor Abasto",
-      en: "Abasto Children's Museum",
-image: "/poi-images/ar-museo-ninos-abasto-life-v2.webp"
-},
+      en: "Abasto Children's Museum"},
+    image: "/poi-images/ar-museo-ninos-abasto-life-v2.webp",
     description: {
       de: "Ein interaktives Museum im Abasto-Einkaufszentrum, wo Kinder spielerisch verschiedene Berufe ausprobieren können.",
       hu: "Interaktív múzeum az Abasto bevásárlóközpontban, ahol a gyerekek játékosan próbálhatnak ki különböző szakmákat.",
@@ -304,9 +299,8 @@ image: "/poi-images/ar-museo-ninos-abasto-life-v2.webp"
       de: "Ecopark Buenos Aires",
       hu: "Buenos Aires-i Ökopark",
       ro: "Ecoparcul Buenos Aires",
-      en: "Buenos Aires Ecopark",
-image: "/poi-images/ar-ecoparque-buenos-aires-life-v2.webp"
-},
+      en: "Buenos Aires Ecopark"},
+    image: "/poi-images/ar-ecoparque-buenos-aires-life-v2.webp",
     description: {
       de: "Der ehemalige Zoo von Buenos Aires wurde in einen interaktiven Ökopark zur Umwelterziehung umgewandelt.",
       hu: "A korábbi Buenos Aires-i állatkert, amelyet a környezeti nevelést szolgáló interaktív ökoparkká alakítottak át.",
@@ -361,9 +355,8 @@ image: "/poi-images/ar-ecoparque-buenos-aires-life-v2.webp"
       de: "Wasserpark Aquasol",
       hu: "Aquasol Vízipark",
       ro: "Parcul Acvatic Aquasol",
-      en: "Aquasol Water Park",
-image: "/poi-images/ar-aquasol-life-v2.webp"
-},
+      en: "Aquasol Water Park"},
+    image: "/poi-images/ar-aquasol-life-v2.webp",
     description: {
       de: "Einer der grössten Wasserparks in Argentinien, der besonders in den Sommermonaten viele Familien anzieht.",
       hu: "Argentína egyik legnagyobb víziparkja, amely különösen a nyári hónapokban vonz sok családot Mar del Plata közelében.",
@@ -418,9 +411,8 @@ image: "/poi-images/ar-aquasol-life-v2.webp"
       de: "Mundo Marino",
       hu: "Mundo Marino",
       ro: "Mundo Marino",
-      en: "Mundo Marino",
-image: "/poi-images/ar-mundo-marino-life-v2.webp"
-},
+      en: "Mundo Marino"},
+    image: "/poi-images/ar-mundo-marino-life-v2.webp",
     description: {
       de: "Das grösste Ozeanarium Südamerikas bietet Bildungs- und Unterhaltungsprogramme für Kinder an der Atlantikküste.",
       hu: "Dél-Amerika legnagyobb óceanáriuma, amely oktatási és szórakoztató programokat kínál az Atlanti-óceán partján.",
@@ -475,9 +467,8 @@ image: "/poi-images/ar-mundo-marino-life-v2.webp"
       de: "Pekos Multiparque",
       hu: "Pekos Szórakoztatópark",
       ro: "Pekos Multiparque",
-      en: "Pekos Multiparque",
-image: "/poi-images/ar-pekos-multiparque-life-v2.webp"
-},
+      en: "Pekos Multiparque"},
+    image: "/poi-images/ar-pekos-multiparque-life-v2.webp",
     description: {
       de: "Ein Familien-Vergnügungspark in der Provinz Córdoba mit Attraktionen, Labyrinthen und kleinen Tiergehegen.",
       hu: "Családi vidámpark Córdoba tartományban, különféle játékokkal, útvesztőkkel és apró állatkifutókkal.",
@@ -532,9 +523,8 @@ image: "/poi-images/ar-pekos-multiparque-life-v2.webp"
       de: "Parque Temático de la Cruz",
       hu: "Kereszt Élménypark",
       ro: "Parcul Tematic al Crucii",
-      en: "Cross Theme Park",
-image: "/poi-images/ar-parque-tematico-cruz-life-v2.webp"
-},
+      en: "Cross Theme Park"},
+    image: "/poi-images/ar-parque-tematico-cruz-life-v2.webp",
     description: {
       de: "Ein Natur- und Themenpark im Regenwald von Misiones mit einem Schmetterlingshaus und Wegen für Familien.",
       hu: "Természet- és élménypark a misiones-i esőerdőben, ahol lepkeház és családi túraútvonalak is találhatók.",
@@ -589,9 +579,8 @@ image: "/poi-images/ar-parque-tematico-cruz-life-v2.webp"
       de: "Halbinsel Valdés",
       hu: "Valdés-félsziget",
       ro: "Peninsula Valdés",
-      en: "Valdés Peninsula",
-image: "/poi-images/ar-peninsula-valdes-life-v2.webp"
-},
+      en: "Valdés Peninsula"},
+    image: "/poi-images/ar-peninsula-valdes-life-v2.webp",
     description: {
       de: "Ein weltweit bedeutendes Naturschutzgebiet und Lebensraum für Südkaper-Wale, Seeelefanten und Magellan-Pinguine.",
       hu: "Világszinten jelentős természetvédelmi terület, amely déli simabálnák, elefántfókák és Magellán-pingvinek élőhelye.",
@@ -646,9 +635,8 @@ image: "/poi-images/ar-peninsula-valdes-life-v2.webp"
       de: "Punta Tombo",
       hu: "Punta Tombo",
       ro: "Punta Tombo",
-      en: "Punta Tombo",
-image: "/poi-images/ar-punta-tombo-life-v2.webp"
-},
+      en: "Punta Tombo"},
+    image: "/poi-images/ar-punta-tombo-life-v2.webp",
     description: {
       de: "Die grösste Brutkolonie von Magellan-Pinguinen auf dem südamerikanischen Kontinent mit hunderttausenden Tieren.",
       hu: "A dél-amerikai kontinens legnagyobb Magellán-pingvin költőkolóniája, ahol százezernyi madár fészkel.",
@@ -703,9 +691,8 @@ image: "/poi-images/ar-punta-tombo-life-v2.webp"
       de: "Iberá-Sümpfe",
       hu: "Iberá-mocsárvidék",
       ro: "Mlaștinile Iberá",
-      en: "Iberá Wetlands",
-image: "/poi-images/ar-esteros-ibera-life-v2.webp"
-},
+      en: "Iberá Wetlands"},
+    image: "/poi-images/ar-esteros-ibera-life-v2.webp",
     description: {
       de: "Ein riesiges Sumpfgebiet, das Lebensraum für Kaimane, Wasserschweine, Brüllaffen und Hunderte Vogelarten bietet.",
       hu: "Hatalmas mocsárvidék, amely kajmánok, vízidisznók, bőgőmajmok és több száz madárfaj menedéke.",
@@ -760,9 +747,8 @@ image: "/poi-images/ar-esteros-ibera-life-v2.webp"
       de: "Nationalpark Monte León",
       hu: "Monte León Nemzeti Park",
       ro: "Parcul Național Monte León",
-      en: "Monte León National Park",
-image: "/poi-images/ar-monte-leon-life-v2.webp"
-},
+      en: "Monte León National Park"},
+    image: "/poi-images/ar-monte-leon-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet an der patagonischen Küste, bekannt für Seelöwen, Kormorane und reiche Meeresfauna.",
       hu: "Védett terület a patagóniai tengerparton, amely oroszlánfókáiról, kárókatonáiról és gazdag tengeri élővilágáról ismert.",
@@ -817,9 +803,8 @@ image: "/poi-images/ar-monte-leon-life-v2.webp"
       de: "Naturschutzgebiet Cabo Dos Bahías",
       hu: "Cabo Dos Bahías Rezervátum",
       ro: "Rezervația Cabo Dos Bahías",
-      en: "Cabo Dos Bahías Reserve",
-image: "/poi-images/ar-cabo-dos-bahias-life-v2.webp"
-},
+      en: "Cabo Dos Bahías Reserve"},
+    image: "/poi-images/ar-cabo-dos-bahias-life-v2.webp",
     description: {
       de: "Ein geschütztes Gebiet mit einer grossen Pinguinkolonie und Guanakos, das landschaftlich sehr reizvoll ist.",
       hu: "Festői szépségű védett terület jelentős pingvinkolóniával és rengeteg szabadon élő guanakóval.",
@@ -874,9 +859,8 @@ image: "/poi-images/ar-cabo-dos-bahias-life-v2.webp"
       de: "Naturschutzgebiet Parque Luro",
       hu: "Parque Luro Rezervátum",
       ro: "Rezervația Parque Luro",
-      en: "Parque Luro Reserve",
-image: "/poi-images/ar-parque-luro-life-v2.webp"
-},
+      en: "Parque Luro Reserve"},
+    image: "/poi-images/ar-parque-luro-life-v2.webp",
     description: {
       de: "Ein Naturreservat, das vor allem für seine Population an Rothirschen und Pumas sowie für Vogelbeobachtung bekannt ist.",
       hu: "Különleges rezervátum, amely főként gímszarvas- és pumapopulációjáról, valamint madármegfigyelési lehetőségeiről híres.",
@@ -931,9 +915,8 @@ image: "/poi-images/ar-parque-luro-life-v2.webp"
       de: "Pinguinkolonie Cabo Vírgenes",
       hu: "Cabo Vírgenes Pingvinkolónia",
       ro: "Colonia de Pinguini Cabo Vírgenes",
-      en: "Cabo Vírgenes Penguin Colony",
-image: "/poi-images/ar-cabo-virgenes-life-v2.webp"
-},
+      en: "Cabo Vírgenes Penguin Colony"},
+    image: "/poi-images/ar-cabo-virgenes-life-v2.webp",
     description: {
       de: "Eine der südlichsten Kolonien von Magellan-Pinguinen am Festland, direkt an der Magellanstrasse.",
       hu: "Az egyik legdélebbi Magellán-pingvin kolónia a kontinensen, közvetlenül a Magellán-szoros mentén.",
@@ -988,9 +971,8 @@ image: "/poi-images/ar-cabo-virgenes-life-v2.webp"
       de: "Seelöwenreservat Punta Bermeja",
       hu: "Punta Bermeja Oroszlánfóka-rezervátum",
       ro: "Rezervația de Lei de Mare Punta Bermeja",
-      en: "Punta Bermeja Sea Lion Reserve",
-image: "/poi-images/ar-punta-bermeja-life-v2.webp"
-},
+      en: "Punta Bermeja Sea Lion Reserve"},
+    image: "/poi-images/ar-punta-bermeja-life-v2.webp",
     description: {
       de: "Das grösste ständige Reservat für patagonische Seelöwen, wo sie sich auf hohen Klippen sicher sonnen können.",
       hu: "A patagóniai oroszlánfókák legnagyobb állandó rezervátuma, ahol magas sziklák lábánál biztonságban napozhatnak.",
@@ -1045,9 +1027,8 @@ image: "/poi-images/ar-punta-bermeja-life-v2.webp"
       de: "Nationalpark Ciervo de los Pantanos",
       hu: "Mocsári Szarvas Nemzeti Park",
       ro: "Parcul Național Ciervo de los Pantanos",
-      en: "Marsh Deer National Park",
-image: "/poi-images/ar-ciervo-pantanos-life-v2.webp"
-},
+      en: "Marsh Deer National Park"},
+    image: "/poi-images/ar-ciervo-pantanos-life-v2.webp",
     description: {
       de: "Ein Schutzgebiet, das speziell für den Erhalt des bedrohten Sumpfhirschs in den Feuchtgebieten des Paraná geschaffen wurde.",
       hu: "Egy természetvédelmi terület, amelyet kifejezetten a veszélyeztetett mocsári szarvas védelmére hoztak létre a Paraná vidékén.",
@@ -1102,9 +1083,8 @@ image: "/poi-images/ar-ciervo-pantanos-life-v2.webp"
       de: "Wildtierreservat Urugua-í",
       hu: "Urugua-í Vadvédelmi Rezervátum",
       ro: "Rezervația de Viață Sălbatică Urugua-í",
-      en: "Urugua-í Wildlife Reserve",
-image: "/poi-images/ar-reserva-uruguai-life-v2.webp"
-},
+      en: "Urugua-í Wildlife Reserve"},
+    image: "/poi-images/ar-reserva-uruguai-life-v2.webp",
     description: {
       de: "Ein dichter Dschungelkorridor, der den Jaguaren und Tapiren Schutz bietet und den Atlantischen Regenwald bewahrt.",
       hu: "Sűrű dzsungelkorridor, amely menedéket nyújt a jaguároknak és tapíroknak, miközben megőrzi az atlanti esőerdőt.",
@@ -1159,9 +1139,8 @@ image: "/poi-images/ar-reserva-uruguai-life-v2.webp"
       de: "Weinregion Valle de Uco",
       hu: "Valle de Uco Borvidék",
       ro: "Regiunea Viticolă Valle de Uco",
-      en: "Valle de Uco Wine Region",
-image: "/poi-images/ar-valle-de-uco-life-v2.webp"
-},
+      en: "Valle de Uco Wine Region"},
+    image: "/poi-images/ar-valle-de-uco-life-v2.webp",
     description: {
       de: "Eines der besten Weinanbaugebiete Argentiniens, berühmt für seine hochgelegenen Malbec-Weinberge am Fuss der Anden.",
       hu: "Argentína egyik legjobb borvidéke, amely az Andok lábánál fekvő magaslati Malbec-szőlőültetvényeiről híres.",
@@ -1216,9 +1195,8 @@ image: "/poi-images/ar-valle-de-uco-life-v2.webp"
       de: "Yerba-Mate-Route",
       hu: "Yerba Mate Út",
       ro: "Ruta Yerba Mate",
-      en: "Yerba Mate Route",
-image: "/poi-images/ar-ruta-yerba-mate-life-v2.webp"
-},
+      en: "Yerba Mate Route"},
+    image: "/poi-images/ar-ruta-yerba-mate-life-v2.webp",
     description: {
       de: "Eine landwirtschaftliche und kulturelle Reiseroute durch Plantagen in Misiones, wo das argentinische Nationalgetränk angebaut wird.",
       hu: "Mezőgazdasági és kulturális útvonal Misiones ültetvényein, ahol az argentin nemzeti italt, a matét termesztik.",
@@ -1273,9 +1251,8 @@ image: "/poi-images/ar-ruta-yerba-mate-life-v2.webp"
       de: "Apfelregion Alto Valle",
       hu: "Alto Valle Alma Régió",
       ro: "Regiunea Merelor Alto Valle",
-      en: "Alto Valle Apple Region",
-image: "/poi-images/ar-alto-valle-rio-negro-life-v2.webp"
-},
+      en: "Alto Valle Apple Region"},
+    image: "/poi-images/ar-alto-valle-rio-negro-life-v2.webp",
     description: {
       de: "Ein fruchtbares Tal am Río Negro, das das Herz der argentinischen Apfel- und Birnenproduktion bildet.",
       hu: "Termékeny völgy a Río Negro mentén, amely az argentin alma- és körtetermesztés központja.",
@@ -1330,9 +1307,8 @@ image: "/poi-images/ar-alto-valle-rio-negro-life-v2.webp"
       de: "Weingut Catena Zapata",
       hu: "Catena Zapata Borászat",
       ro: "Crama Catena Zapata",
-      en: "Catena Zapata Winery",
-image: "/poi-images/ar-catena-zapata-life-v2.webp"
-},
+      en: "Catena Zapata Winery"},
+    image: "/poi-images/ar-catena-zapata-life-v2.webp",
     description: {
       de: "Eines der renommiertesten Weingüter in Mendoza, dessen Hauptgebäude einer Maya-Pyramide nachempfunden ist.",
       hu: "Mendoza egyik legrangosabb borászata, amelynek főépülete egy maja piramist formáz.",
@@ -1387,9 +1363,8 @@ image: "/poi-images/ar-catena-zapata-life-v2.webp"
       de: "Estancia Harberton",
       hu: "Estancia Harberton",
       ro: "Estancia Harberton",
-      en: "Estancia Harberton",
-image: "/poi-images/ar-estancia-harberton-life-v2.webp"
-},
+      en: "Estancia Harberton"},
+    image: "/poi-images/ar-estancia-harberton-life-v2.webp",
     description: {
       de: "Die älteste noch funktionierende Schaffarm in Feuerland, die tiefe Einblicke in die historische Landwirtschaft Patagoniens gibt.",
       hu: "Tűzföld legrégebbi, ma is működő juhfarmja, amely mély bepillantást enged Patagónia történelmi mezőgazdaságába.",
@@ -1444,9 +1419,8 @@ image: "/poi-images/ar-estancia-harberton-life-v2.webp"
       de: "Weingut Salentein",
       hu: "Salentein Borászat",
       ro: "Crama Salentein",
-      en: "Salentein Winery",
-image: "/poi-images/ar-bodega-salentein-life-v2.webp"
-},
+      en: "Salentein Winery"},
+    image: "/poi-images/ar-bodega-salentein-life-v2.webp",
     description: {
       de: "Ein architektonisch beeindruckendes Weingut, dessen unterirdischer Weinkeller wie ein Amphitheater gestaltet ist.",
       hu: "Építészetileg lenyűgöző borászat, amelynek földalatti borospincéje egy amfiteátrumot mintáz.",
@@ -1501,9 +1475,8 @@ image: "/poi-images/ar-bodega-salentein-life-v2.webp"
       de: "Zuckerfabrik Ingenio Ledesma",
       hu: "Ingenio Ledesma Cukorgyár",
       ro: "Fabrica de Zahăr Ingenio Ledesma",
-      en: "Ingenio Ledesma Sugar Mill",
-image: "/poi-images/ar-ingenio-ledesma-life-v2.webp"
-},
+      en: "Ingenio Ledesma Sugar Mill"},
+    image: "/poi-images/ar-ingenio-ledesma-life-v2.webp",
     description: {
       de: "Einer der grössten Zuckerrohrverarbeiter Südamerikas, umgeben von riesigen Zuckerrohrplantagen im Norden.",
       hu: "Dél-Amerika egyik legnagyobb cukornádfeldolgozója, amelyet hatalmas cukornádültetvények vesznek körül északon.",
@@ -1558,9 +1531,8 @@ image: "/poi-images/ar-ingenio-ledesma-life-v2.webp"
       de: "Tabakanbaugebiet Valle de Lerma",
       hu: "Valle de Lerma Dohányvidék",
       ro: "Regiunea de Tutun Valle de Lerma",
-      en: "Valle de Lerma Tobacco Region",
-image: "/poi-images/ar-valle-de-lerma-life-v2.webp"
-},
+      en: "Valle de Lerma Tobacco Region"},
+    image: "/poi-images/ar-valle-de-lerma-life-v2.webp",
     description: {
       de: "Ein fruchtbares Tal in der Provinz Salta, das traditionell vom Tabakanbau und kleinen landwirtschaftlichen Betrieben geprägt ist.",
       hu: "Termékeny völgy Salta tartományban, amelyet hagyományosan a dohánytermesztés és kis gazdaságok határoznak meg.",
@@ -1615,9 +1587,8 @@ image: "/poi-images/ar-valle-de-lerma-life-v2.webp"
       de: "Olivenhaine von San Juan",
       hu: "San Juan-i Olajfaligetek",
       ro: "Livezile de Măslini din San Juan",
-      en: "San Juan Olive Groves",
-image: "/poi-images/ar-olivos-san-juan-life-v2.webp"
-},
+      en: "San Juan Olive Groves"},
+    image: "/poi-images/ar-olivos-san-juan-life-v2.webp",
     description: {
       de: "Ein trockenes, aber bewässertes Gebiet, das für die Produktion von hochwertigem Olivenöl in Argentinien bekannt ist.",
       hu: "Száraz, de öntözött terület, amely a kiváló minőségű argentin olívaolaj termeléséről híres.",
@@ -1672,9 +1643,8 @@ image: "/poi-images/ar-olivos-san-juan-life-v2.webp"
       de: "Weingut Colomé",
       hu: "Colomé Borászat",
       ro: "Crama Colomé",
-      en: "Colomé Winery",
-image: "/poi-images/ar-bodega-colome-life-v2.webp"
-},
+      en: "Colomé Winery"},
+    image: "/poi-images/ar-bodega-colome-life-v2.webp",
     description: {
       de: "Das älteste durchgehend betriebene Weingut in Argentinien, das einige der höchstgelegenen Weinberge der Welt besitzt.",
       hu: "Argentína legrégebbi folyamatosan működő borászata, amely a világ legmagasabban fekvő szőlőültetvényeinek is otthont ad.",

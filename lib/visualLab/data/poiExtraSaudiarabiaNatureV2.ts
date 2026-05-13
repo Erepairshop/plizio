@@ -6,102 +6,170 @@ export const poiExtraSaudiarabiaNatureV2: POI[] = [
     type: "mountain",
     parent: "SA-14",
     coords: [42.3670, 18.2670],
-    name: { de: "Dschabal Sauda", hu: "Dzsebel Szavda", ro: "Jabal Sawda", en: "Jabal Sawda",
-image: "/poi-images/jabal-sawda-nature-v2.webp"
-},
+    name: { de: "Dschabal Sauda", hu: "Dzsebel Szavda", ro: "Jabal Sawda", en: "Jabal Sawda"},
+    image: "/poi-images/jabal-sawda-nature-v2.webp",
     description: { de: "Der höchste Berggipfel in Saudi-Arabien, bekannt für sein kühleres Klima und dichte Wacholderwälder.", hu: "Szaúd-Arábia legmagasabb hegycsúcsa, amely hűvösebb éghajlatáról és sűrű borókaerdeiről ismert.", ro: "Cel mai înalt vârf muntos din Arabia Saudită, cunoscut pentru climatul său mai răcoros și pădurile dese de ienupăr.", en: "The highest mountain peak in Saudi Arabia, known for its cooler climate and dense juniper forests." },
     facts: {
       de: ["Erreicht eine Höhe von rund 3.000 Metern.", "Beliebtes Ziel für Wanderer und Naturliebhaber."],
       hu: ["Magassága eléri a mintegy 3000 métert.", "Népszerű úti cél a túrázók és a természet szerelmesei körében."],
       ro: ["Atinge o altitudine de aproximativ 3.000 de metri.", "O destinație populară pentru drumeții și iubitorii de natură."],
       en: ["Reaches an elevation of around 3,000 meters.", "A popular destination for hikers and nature lovers."]
-    }, image: "/poi-images/jabal-sawda-nature-v2.webp"},
+    }, image: "/poi-images/jabal-sawda-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Sawda ist mit 3.133 m der höchste Berg Saudi-Arabiens und Teil des Asir-Gebirges. Er liegt in der Provinz Asir nahe der Stadt Abha. Der Berg besteht aus Granit und ist von Nebelwäldern umgeben, die eine einzigartige Flora und Fauna beherbergen. Das kühle Klima zieht viele Touristen an, die wandern oder die Aussicht genießen. In den höheren Lagen gibt es endemische Pflanzenarten. Der Berg ist auch kulturell bedeutsam, da er von den einheimischen Stämmen als heilig angesehen wird.",
+      hu: "A Jabal Sawda 3.133 méterével Szaúd-Arábia legmagasabb hegye, az Asir-hegység része. Abha város közelében található. A hegy gránitból áll, és ködös erdők veszik körül, amelyek egyedülálló növény- és állatvilágnak adnak otthont. A hűvös klíma sok turistát vonz, akik túráznak vagy a kilátást élvezik. A magasabb területeken endemikus növényfajok élnek. A hegy kulturális jelentőséggel is bír, a helyi törzsek szentként tisztelik.",
+      ro: "Jabal Sawda, cu 3.133 m, este cel mai înalt munte din Arabia Saudită, parte a Munților Asir. Se află în provincia Asir, lângă orașul Abha. Muntele este format din granit și este înconjurat de păduri de ceață, care adăpostesc o floră și faună unică. Clima răcoroasă atrage mulți turiști, care fac drumeții sau se bucură de priveliști. La altitudini înalte există specii endemice de plante. Muntele are și semnificație culturală, fiind considerat sacru de triburile locale.",
+      en: "Jabal Sawda, at 3,133 m, is the highest peak in Saudi Arabia, part of the Asir Mountains. Located in Asir Province near Abha, the mountain is composed of granite and surrounded by fog forests with unique biodiversity. The cool climate attracts tourists for hiking and sightseeing. Endemic plant species thrive at higher elevations. The mountain holds cultural significance, revered by local tribes as sacred.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 3.133 m", "Gebirge: Asir", "Provinz: Asir", "Gestein: Granit", "Nächste Stadt: Abha (40 km)", "Endemische Pflanzen: mehrere Arten"],
+      hu: ["Magasság: 3.133 m", "Hegység: Asir", "Tartomány: Asir", "Kőzet: gránit", "Legközelebbi város: Abha (40 km)", "Endemikus növények: több faj"],
+      ro: ["Altitudine: 3.133 m", "Munți: Asir", "Provincie: Asir", "Rocă: granit", "Orașul cel mai apropiat: Abha (40 km)", "Plante endemice: mai multe specii"],
+      en: ["Height: 3,133 m", "Mountain range: Asir", "Province: Asir", "Rock type: granite", "Nearest city: Abha (40 km)", "Endemic plants: several species"],
+    },
+  },
   {
     id: "asir-national-park-nature-v2",
     type: "national-park",
     parent: "SA-14",
     coords: [42.4938, 18.1764],
-    name: { de: "Asir-Nationalpark", hu: "Aszír Nemzeti Park", ro: "Parcul Național Asir", en: "Asir National Park",
-image: "/poi-images/asir-national-park-nature-v2.webp"
-},
+    name: { de: "Asir-Nationalpark", hu: "Aszír Nemzeti Park", ro: "Parcul Național Asir", en: "Asir National Park"},
+    image: "/poi-images/asir-national-park-nature-v2.webp",
     description: { de: "Der erste Nationalpark Saudi-Arabiens, der eine unberührte Berglandschaft und eine reiche Flora und Fauna schützt.", hu: "Szaúd-Arábia első nemzeti parkja, amely érintetlen hegyvidéki tájat, valamint gazdag növény- és állatvilágot véd.", ro: "Primul parc național din Arabia Saudită, care protejează un peisaj montan virgin și o floră și faună bogate.", en: "The first national park in Saudi Arabia, protecting a pristine mountainous landscape and rich flora and fauna." },
     facts: {
       de: ["Wurde 1981 gegründet.", "Beherbergt den gefährdeten Arabischen Leoparden."],
       hu: ["1981-ben alapították.", "A veszélyeztetett arab leopárd otthona."],
       ro: ["A fost înființat în 1981.", "Găzduiește leopardul arab, o specie pe cale de dispariție."],
       en: ["It was established in 1981.", "Home to the endangered Arabian leopard."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Asir-Nationalpark liegt in der Provinz Asir und erstreckt sich über 650 km². Er wurde 1981 gegründet, um die einzigartige Nebelwaldökologie zu schützen. Der Park umfasst Höhenlagen von 600 bis 3.133 m und beherbergt über 300 Pflanzenarten, darunter Wacholderbäume. Die Tierwelt umfasst den Arabischen Leoparden und verschiedene Vogelarten. Der Park bietet Wanderwege, Aussichtspunkte und Besucherzentren. Er ist ein wichtiges Forschungsgebiet für Biodiversität und Klimawandel.",
+      hu: "Az Asir Nemzeti Park Asir tartományban található, területe 650 km². 1981-ben alapították az egyedülálló ködös erdő ökoszisztéma védelmére. A park tengerszint feletti magassága 600 és 3.133 m között változik, és több mint 300 növényfajnak ad otthont, köztük borókafáknak. Az állatvilágba tartozik az arab leopárd és számos madárfaj. A park túraútvonalakat, kilátópontokat és látogatóközpontokat kínál. Fontos kutatási terület a biodiverzitás és az éghajlatváltozás szempontjából.",
+      ro: "Parcul Național Asir se află în provincia Asir, pe o suprafață de 650 km². A fost înființat în 1981 pentru a proteja ecosistemul unic al pădurii de ceață. Parcul acoperă altitudini de la 600 la 3.133 m și găzduiește peste 300 de specii de plante, inclusiv ienupări. Fauna include leopardul arab și diverse specii de păsări. Parcul oferă trasee de drumeție, puncte de belvedere și centre de vizitare. Este o zonă importantă de cercetare pentru biodiversitate și schimbări climatice.",
+      en: "Asir National Park, located in Asir Province, covers 650 km². Established in 1981, it protects the unique fog forest ecosystem. Elevations range from 600 to 3,133 m, hosting over 300 plant species including junipers. Wildlife includes the Arabian leopard and numerous birds. The park features hiking trails, viewpoints, and visitor centers. It is a key research area for biodiversity and climate change.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 650 km²", "Gründung: 1981", "Höhenbereich: 600-3.133 m", "Pflanzenarten: über 300", "Geschützte Tierart: Arabischer Leopard", "Anzahl Besucherzentren: 3"],
+      hu: ["Terület: 650 km²", "Alapítás: 1981", "Magassági tartomány: 600-3.133 m", "Növényfajok: több mint 300", "Védett állatfaj: arab leopárd", "Látogatóközpontok száma: 3"],
+      ro: ["Suprafață: 650 km²", "Înființare: 1981", "Interval altitudinal: 600-3.133 m", "Specii de plante: peste 300", "Specie animală protejată: leopardul arab", "Număr de centre de vizitare: 3"],
+      en: ["Area: 650 km²", "Established: 1981", "Elevation range: 600-3,133 m", "Plant species: over 300", "Protected animal: Arabian leopard", "Number of visitor centers: 3"],
+    },
   },
   {
     id: "wadi-hanifa-nature-v2",
     type: "river",
     parent: "SA-01",
     coords: [46.7369, 24.5714],
-    name: { de: "Wadi Hanifa", hu: "Vádi Hanifa", ro: "Wadi Hanifa", en: "Wadi Hanifa",
-image: "/poi-images/wadi-hanifa-nature-v2.webp"
-},
+    name: { de: "Wadi Hanifa", hu: "Vádi Hanifa", ro: "Wadi Hanifa", en: "Wadi Hanifa"},
+    image: "/poi-images/wadi-hanifa-nature-v2.webp",
     description: { de: "Ein historisches Flusstal, das sich durch Riad schlängelt und zu einem wichtigen ökologischen Erholungsgebiet ausgebaut wurde.", hu: "Rijádon kanyargó történelmi folyóvölgy, amelyet fontos ökológiai rekreációs területté alakítottak.", ro: "O vale istorică a unui râu care șerpuiește prin Riad și a fost transformată într-o importantă zonă de recreere ecologică.", en: "A historic river valley meandering through Riyadh that has been developed into a major ecological recreation area." },
     facts: {
       de: ["Erstreckt sich über eine Länge von 120 Kilometern.", "Dient der natürlichen Wasseraufbereitung der Hauptstadt."],
       hu: ["120 kilométer hosszan terül el.", "A főváros természetes víztisztítását szolgálja."],
       ro: ["Se întinde pe o lungime de 120 de kilometri.", "Servește la tratarea naturală a apei din capitală."],
       en: ["Stretches over a length of 120 kilometers.", "Serves as a natural water treatment system for the capital."]
-    }, image: "/poi-images/wadi-hanifa-nature-v2.webp"},
+    }, image: "/poi-images/wadi-hanifa-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Hanifa ist ein 120 km langes Trockental südwestlich von Riad. Es wurde ab 2000 zu einem Naturpark umgestaltet, der Hochwasserschutz und Erholung vereint. Das Tal enthält künstliche Seen, Grünflächen und Wanderwege. Es ist ein wichtiger Teil des grünen Gürtels von Riad. Die Tierwelt umfasst Vögel und kleine Säugetiere. Der Park ist bei Radfahrern und Spaziergängern beliebt. Jährlich besuchen über eine Million Menschen das Tal.",
+      hu: "A Wadi Hanifa egy 120 km hosszú időszakos vízfolyás Rijádtól délnyugatra. 2000-től kezdve természeti parkká alakították, amely árvizek elleni védelmet és kikapcsolódást nyújt. A vádiban mesterséges tavak, zöldterületek és túraútvonalak találhatók. Fontos része Rijád zöldövezetének. Állatvilága madarakat és kisemlősöket foglal magában. A park népszerű a kerékpárosok és sétálók körében. Évente több mint egymillió ember látogatja.",
+      ro: "Wadi Hanifa este o vale secată de 120 km lungime, la sud-vest de Riyadh. Din anul 2000, a fost transformată într-un parc natural care combină protecția împotriva inundațiilor cu recreerea. Valea conține lacuri artificiale, spații verzi și trasee de drumeție. Este o parte importantă a centurii verzi a Riyadh-ului. Fauna include păsări și mamifere mici. Parcul este popular printre bicicliști și pietoni. Peste un milion de persoane îl vizitează anual.",
+      en: "Wadi Hanifa is a 120 km dry valley southwest of Riyadh. Since 2000, it has been developed into a natural park combining flood control and recreation. The valley features artificial lakes, green spaces, and walking trails. It is a key part of Riyadh's green belt. Wildlife includes birds and small mammals. The park is popular for cycling and walking. Over one million people visit annually.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 120 km", "Umgestaltung ab: 2000", "Anzahl künstlicher Seen: 3", "Jährliche Besucher: über 1 Million", "Länge Wanderwege: 50 km", "Anzahl Pflanzenarten: 200+"],
+      hu: ["Hosszúság: 120 km", "Átalakítás kezdete: 2000", "Mesterséges tavak száma: 3", "Éves látogatók: több mint 1 millió", "Túraútvonalak hossza: 50 km", "Növényfajok száma: 200+"],
+      ro: ["Lungime: 120 km", "Transformare începută: 2000", "Număr de lacuri artificiale: 3", "Vizitatori anual: peste 1 milion", "Lungime trasee de drumeție: 50 km", "Număr de specii de plante: 200+"],
+      en: ["Length: 120 km", "Development started: 2000", "Number of artificial lakes: 3", "Annual visitors: over 1 million", "Length of walking trails: 50 km", "Number of plant species: 200+"],
+    },
+  },
   {
     id: "jabal-tuwaiq-nature-v2",
     type: "mountain",
     parent: "SA-01",
     coords: [46.1950, 24.5880],
-    name: { de: "Dschabal Tuwaiq", hu: "Dzsebel Tuvajk", ro: "Jabal Tuwaiq", en: "Jabal Tuwaiq",
-image: "/poi-images/jabal-tuwaiq-nature-v2.webp"
-},
+    name: { de: "Dschabal Tuwaiq", hu: "Dzsebel Tuvajk", ro: "Jabal Tuwaiq", en: "Jabal Tuwaiq"},
+    image: "/poi-images/jabal-tuwaiq-nature-v2.webp",
     description: { de: "Ein markanter Kalksteinrücken, der sich wie ein gewaltiges Rückgrat durch die Region Nadschd zieht.", hu: "Egy feltűnő mészkőgerinc, amely hatalmas gerincként húzódik végig a Nadzsd régión.", ro: "O creastă de calcar proeminentă care străbate regiunea Najd ca o coloană vertebrală masivă.", en: "A striking limestone escarpment that cuts through the Najd region like a massive backbone." },
     facts: {
       de: ["Erstreckt sich über 800 Kilometer.", "Die steilen Klippen werden oft als 'Rand der Welt' bezeichnet."],
       hu: ["Több mint 800 kilométer hosszan húzódik.", "Meredek szikláit gyakran 'a világ peremének' nevezik."],
       ro: ["Se întinde pe o lungime de 800 de kilometri.", "Stâncile sale abrupte sunt adesea numite 'Marginea Lumii'."],
       en: ["Stretches for 800 kilometers.", "Its steep cliffs are often referred to as the 'Edge of the World'."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Jabal Tuwaiq ist ein 800 km langer Kalkstein-Steilabfall, der sich von Nord nach Süd durch Zentralarabien zieht. Er erreicht Höhen von bis zu 500 m. Die Klippen sind reich an Fossilien und bieten Einblicke in die geologische Geschichte. An der Ostseite liegt die Hauptstadt Riad. Das Gebiet ist ein beliebtes Ziel für Geologen und Wanderer. An der Spitze gibt es endemische Pflanzenarten. Der Jabal Tuwaiq ist ein Symbol für die zentrale Region.",
+      hu: "A Jabal Tuwaiq egy 800 km hosszú mészkőszikla-fal, amely észak-déli irányban húzódik Közép-Arábián keresztül. Magassága eléri az 500 métert. A sziklák fosszíliákban gazdagok, és bepillantást nyújtanak a geológiai múltba. A keleti oldalon található Rijád. A terület népszerű a geológusok és túrázók körében. A tetején endemikus növényfajok élnek. A Jabal Tuwaiq a központi régió szimbóluma.",
+      ro: "Jabal Tuwaiq este o escarpă de calcar lungă de 800 km, care traversează Arabia Centrală de la nord la sud. Atinge înălțimi de până la 500 m. Stâncile sunt bogate în fosile și oferă perspective asupra istoriei geologice. La est se află capitala Riyadh. Zona este populară printre geologi și drumeți. Pe culmi există specii endemice de plante. Jabal Tuwaiq este un simbol al regiunii centrale.",
+      en: "Jabal Tuwaiq is an 800 km long limestone escarpment running north-south through central Arabia. It reaches heights of up to 500 m. The cliffs are rich in fossils, offering geological insights. Riyadh lies to its east. The area is popular for geologists and hikers. Endemic plant species grow on the top. Jabal Tuwaiq is a symbol of the central region.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 800 km", "Höhe: bis 500 m", "Gestein: Kalkstein", "Fossilien: reichhaltig", "Nächste große Stadt: Riad", "Endemische Pflanzen: vorhanden"],
+      hu: ["Hosszúság: 800 km", "Magasság: akár 500 m", "Kőzet: mészkő", "Fosszíliák: gazdagok", "Legközelebbi nagyváros: Rijád", "Endemikus növények: vannak"],
+      ro: ["Lungime: 800 km", "Înălțime: până la 500 m", "Rocă: calcar", "Fosile: bogate", "Cel mai apropiat oraș mare: Riyadh", "Plante endemice: prezente"],
+      en: ["Length: 800 km", "Height: up to 500 m", "Rock type: limestone", "Fossils: abundant", "Nearest major city: Riyadh", "Endemic plants: present"],
+    },
   },
   {
     id: "al-asfar-lake-nature-v2",
     type: "lake",
     parent: "SA-04",
     coords: [49.7180, 25.5180],
-    name: { de: "Al-Asfar-See", hu: "Al-Aszfar-tó", ro: "Lacul Al-Asfar", en: "Al-Asfar Lake",
-image: "/poi-images/al-asfar-lake-nature-v2.webp"
-},
+    name: { de: "Al-Asfar-See", hu: "Al-Aszfar-tó", ro: "Lacul Al-Asfar", en: "Al-Asfar Lake"},
+    image: "/poi-images/al-asfar-lake-nature-v2.webp",
     description: { de: "Ein ausgedehnter Feuchtgebietssee in der Oase Al-Ahsa, der Tausenden von Zugvögeln als Zufluchtsort dient.", hu: "Egy kiterjedt vizes élőhely az Al-Ahsza oázisban, amely vándormadarak ezreinek nyújt menedéket.", ro: "Un lac extins de zonă umedă din oaza Al-Ahsa, care servește drept refugiu pentru mii de păsări migratoare.", en: "An expansive wetland lake in the Al-Ahsa Oasis that serves as a sanctuary for thousands of migratory birds." },
     facts: {
       de: ["Ist ein von der UNESCO anerkanntes Welterbe.", "Umgeben von Sanddünen und üppiger Vegetation."],
       hu: ["Az UNESCO által elismert világörökségi helyszín.", "Homokdűnék és buja növényzet veszi körül."],
       ro: ["Este un sit recunoscut ca Patrimoniu Mondial UNESCO.", "Înconjurat de dune de nisip și vegetație luxuriantă."],
       en: ["It is a UNESCO-recognized World Heritage site.", "Surrounded by sand dunes and lush vegetation."]
-    }, image: "/poi-images/al-asfar-lake-nature-v2.webp"},
+    }, image: "/poi-images/al-asfar-lake-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Asfar-See ist ein saisonaler Salzsee in der Al-Ahsa-Oase, etwa 10 km von Hofuf entfernt. Er erstreckt sich über 20 km² und wird durch Grundwasser gespeist. Der See ist ein wichtiger Rastplatz für Zugvögel, darunter Flamingos und Pelikane. Das Wasser hat einen hohen Salzgehalt. In der Umgebung gibt es Landwirtschaft mit Dattelpalmen. Der See ist ein beliebtes Ziel für Vogelbeobachtung und Fotografie.",
+      hu: "Az Al-Asfar-tó egy időszakos sós tó az Al-Ahsa-oázisban, Hofuftól kb. 10 km-re. Területe 20 km², és talajvíz táplálja. A tó fontos pihenőhely a vándormadarak számára, például flamingók és pelikánok számára. A víz sótartalma magas. A környéken datolyapálma-ültetvények találhatók. A tó népszerű a madármegfigyelők és fotósok körében.",
+      ro: "Lacul Al-Asfar este un lac sărat sezonier în oaza Al-Ahsa, la aproximativ 10 km de Hofuf. Se întinde pe 20 km² și este alimentat de ape subterane. Lacul este un loc important de popas pentru păsările migratoare, inclusiv flamingo și pelicani. Apa are un conținut ridicat de sare. Împrejurimile sunt cultivate cu palmieri de curmale. Lacul este popular pentru observarea păsărilor și fotografie.",
+      en: "Al-Asfar Lake is a seasonal salt lake in the Al-Ahsa Oasis, about 10 km from Hofuf. It covers 20 km² and is fed by groundwater. The lake is a key stopover for migratory birds, including flamingos and pelicans. The water has high salinity. Surrounding areas feature date palm farms. The lake is popular for birdwatching and photography.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 20 km²", "Entfernung zu Hofuf: 10 km", "Wassertyp: salzig", "Zugvögel: Flamingos, Pelikane", "Grundwassergespeist: ja", "Saisonale Austrocknung: im Sommer"],
+      hu: ["Terület: 20 km²", "Távolság Hofuftól: 10 km", "Víztípus: sós", "Vándormadarak: flamingók, pelikánok", "Talajvíz táplálja: igen", "Időszakos kiszáradás: nyáron"],
+      ro: ["Suprafață: 20 km²", "Distanța față de Hofuf: 10 km", "Tip apă: sărat", "Păsări migratoare: flamingo, pelicani", "Alimentat de ape subterane: da", "Uscare sezonieră: vara"],
+      en: ["Area: 20 km²", "Distance from Hofuf: 10 km", "Water type: saline", "Migratory birds: flamingos, pelicans", "Groundwater fed: yes", "Seasonal drying: summer"],
+    },
+  },
   {
     id: "farasan-islands-nature-v2",
     type: "national-park",
     parent: "SA-09",
     coords: [41.9000, 16.6500],
-    name: { de: "Farasan-Inseln Meeresschutzgebiet", hu: "Faraszán-szigetek Tengeri Rezervátum", ro: "Sanctuarul Marin al Insulelor Farasan", en: "Farasan Islands Marine Sanctuary",
-image: "/poi-images/farasan-islands-nature-v2.webp"
-},
+    name: { de: "Farasan-Inseln Meeresschutzgebiet", hu: "Faraszán-szigetek Tengeri Rezervátum", ro: "Sanctuarul Marin al Insulelor Farasan", en: "Farasan Islands Marine Sanctuary"},
+    image: "/poi-images/farasan-islands-nature-v2.webp",
     description: { de: "Ein bedeutendes Meeresschutzgebiet im Roten Meer mit unberührten Korallenriffen und seltenen Tierarten.", hu: "Jelentős tengeri természetvédelmi terület a Vörös-tengerben, érintetlen korallzátonyokkal és ritka állatfajokkal.", ro: "O importantă rezervație marină din Marea Roșie, cu recife de corali virgine și specii rare de animale.", en: "A significant marine sanctuary in the Red Sea featuring pristine coral reefs and rare animal species." },
     facts: {
       de: ["Schützt die einheimische Dugong-Population.", "Ein wichtiges Brutgebiet für Meeresschildkröten."],
       hu: ["Védi a helyi dugongpopulációt.", "Fontos költőhely a tengeri teknősök számára."],
       ro: ["Protejează populația indigenă de dugongi.", "Un important loc de cuibărit pentru țestoasele marine."],
       en: ["Protects the native dugong population.", "An important nesting ground for sea turtles."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Farasan-Inseln liegen im Roten Meer vor der Küste von Dschaizan. Das Meeresschutzgebiet umfasst 84 Inseln und erstreckt sich über 5.000 km². Es wurde 1996 ausgewiesen und schützt Korallenriffe, Mangroven und Seegraswiesen. Die Tierwelt umfasst Dugongs, Delfine und Meeresschildkröten. Die Inseln sind ein wichtiges Brutgebiet für Seevögel. Touristen können tauchen und schnorcheln. Die lokale Kultur ist von Fischerei und Perlentauchen geprägt.",
+      hu: "A Farasan-szigetek a Vörös-tengerben fekszenek Dzsijzán partjainál. A tengeri rezervátum 84 szigetet foglal magában, területe 5.000 km². 1996-ban hozták létre a korallzátonyok, mangroveerdők és tengerifüves rétek védelmére. Állatvilága dugongokat, delfineket és tengeri teknősöket foglal magában. A szigetek fontos fészkelőhelyek tengeri madarak számára. A turisták búvárkodhatnak és snorkelezhetnek. A helyi kultúra halászaton és gyöngyhalászaton alapul.",
+      ro: "Insulele Farasan sunt situate în Marea Roșie, în largul coastei Jazan. Rezervația marină cuprinde 84 de insule și se întinde pe 5.000 km². A fost desemnată în 1996 pentru protejarea recifelor de corali, mangrovei și pajiștilor marine. Fauna include dugongi, delfini și țestoase marine. Insulele sunt zone importante de cuibărit pentru păsări marine. Turiștii pot face scufundări și snorkeling. Cultura locală este bazată pe pescuit și pescuitul de perle.",
+      en: "The Farasan Islands lie in the Red Sea off the coast of Jazan. The marine sanctuary encompasses 84 islands and covers 5,000 km². Established in 1996, it protects coral reefs, mangroves, and seagrass beds. Wildlife includes dugongs, dolphins, and sea turtles. The islands are important seabird breeding grounds. Tourists enjoy diving and snorkeling. Local culture is centered on fishing and pearl diving.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Inseln: 84", "Schutzgebietsfläche: 5.000 km²", "Ausweisung: 1996", "Geschützte Lebensräume: Korallenriffe, Mangroven", "Meeressäuger: Dugongs, Delfine", "Brutvögel: Seevögel"],
+      hu: ["Szigetek száma: 84", "Védett terület nagysága: 5.000 km²", "Kijelölés: 1996", "Védett élőhelyek: korallzátonyok, mangroveerdők", "Tengeri emlősök: dugongok, delfinek", "Fészkelő madarak: tengeri madarak"],
+      ro: ["Număr de insule: 84", "Suprafața rezervației: 5.000 km²", "Desemnare: 1996", "Habitate protejate: recife de corali, mangrove", "Mamifere marine: dugongi, delfini", "Păsări cuibăritoare: păsări marine"],
+      en: ["Number of islands: 84", "Sanctuary area: 5,000 km²", "Established: 1996", "Protected habitats: coral reefs, mangroves", "Marine mammals: dugongs, dolphins", "Breeding birds: seabirds"],
+    },
   },
   {
     id: "jabal-al-lawz-nature-v2",
     type: "mountain",
     parent: "SA-07",
     coords: [35.3130, 28.6536],
-    name: { de: "Dschabal al-Lauz", hu: "Dzsebel al-Lauz", ro: "Jabal Al-Lawz", en: "Jabal Al-Lawz",
-image: "/poi-images/jabal-al-lawz-nature-v2.webp"
-},
+    name: { de: "Dschabal al-Lauz", hu: "Dzsebel al-Lauz", ro: "Jabal Al-Lawz", en: "Jabal Al-Lawz"},
+    image: "/poi-images/jabal-al-lawz-nature-v2.webp",
     description: { de: "Der 'Mandelberg' im Nordwesten Saudi-Arabiens ist einer der wenigen Orte des Landes, an denen es im Winter schneit.", hu: "A Szaúd-Arábia északnyugati részén fekvő 'Mandula-hegy' az ország azon kevés helyeinek egyike, ahol télen havazik.", ro: "Muntele Migdalului din nord-vestul Arabiei Saudite este unul dintre puținele locuri din țară unde ninge iarna.", en: "The 'Almond Mountain' in northwestern Saudi Arabia is one of the few places in the country that experiences winter snowfall." },
     facts: {
       de: ["Erreicht eine Höhe von 2.580 Metern.", "Der Name stammt von den Mandelbäumen, die einst hier wuchsen."],
@@ -114,196 +182,350 @@ image: "/poi-images/jabal-al-lawz-nature-v2.webp"
     type: "river",
     parent: "SA-02",
     coords: [41.2222, 19.3444],
-    name: { de: "Wadi Qanuna", hu: "Vádi Kanuna", ro: "Wadi Qanuna", en: "Wadi Qanuna",
-image: "/poi-images/wadi-qanuna-nature-v2.webp"
-},
+    name: { de: "Wadi Qanuna", hu: "Vádi Kanuna", ro: "Wadi Qanuna", en: "Wadi Qanuna"},
+    image: "/poi-images/wadi-qanuna-nature-v2.webp",
     description: { de: "Eines der größten und schönsten Täler der Region, durch das fast das ganze Jahr über Wasser fließt.", hu: "A régió egyik legnagyobb és legszebb völgye, amelyen szinte egész évben víz folyik keresztül.", ro: "Una dintre cele mai mari și mai frumoase văi din regiune, prin care apa curge aproape tot anul.", en: "One of the largest and most beautiful valleys in the region, with water flowing through it almost all year round." },
     facts: {
       de: ["Die Länge des Flusstals beträgt über 100 Kilometer.", "Umgeben von Palmen und üppiger lokaler Vegetation."],
       hu: ["A folyóvölgy hossza több mint 100 kilométer.", "Pálmafák és buja helyi növényzet veszi körül."],
       ro: ["Lungimea văii râului depășește 100 de kilometri.", "Înconjurată de palmieri și vegetație locală luxuriantă."],
       en: ["The length of the river valley is over 100 kilometers.", "Surrounded by palm trees and lush local vegetation."]
-    }, image: "/poi-images/wadi-qanuna-nature-v2.webp"},
+    }, image: "/poi-images/wadi-qanuna-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Qanuna liegt in der Provinz Mekka und ist etwa 50 km lang. Es ist bekannt für seine üppigen Palmenhaine und natürlichen Wasserbecken. Das Tal wird von saisonalen Regenfällen gespeist und beherbergt eine vielfältige Vogelwelt. In der Umgebung gibt es landwirtschaftliche Terrassen. Das Wadi ist ein beliebtes Ziel zum Wandern und Picknicken. Die Region ist für ihre traditionelle Architektur aus Lehmziegeln bekannt.",
+      hu: "A Wadi Qanuna Mekka tartományban található, hossza körülbelül 50 km. Híres buja pálmaligeteiről és természetes medencéiről. A vádit időszakos esők táplálják, és változatos madárvilágnak ad otthont. A környéken mezőgazdasági teraszok találhatók. A vádi népszerű túrázási és piknikezési célpont. A régió híres hagyományos vályogépítészetéről.",
+      ro: "Wadi Qanuna se află în provincia Mecca și are aproximativ 50 km lungime. Este cunoscut pentru palmierii săi luxurianți și bazinele naturale de apă. Valea este alimentată de ploi sezoniere și găzduiește o varietate de păsări. Împrejurimile au terase agricole. Wadi-ul este o destinație populară pentru drumeții și picnicuri. Regiunea este renumită pentru arhitectura tradițională din cărămidă de noroi.",
+      en: "Wadi Qanuna, located in Mecca Province, is about 50 km long. Known for its lush palm groves and natural water pools, the valley is fed by seasonal rains and hosts diverse birdlife. Agricultural terraces line the area. The wadi is a popular destination for hiking and picnicking. The region is famous for its traditional mud-brick architecture.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 50 km", "Provinz: Mekka", "Natürliche Wasserbecken: mehrere", "Landwirtschaft: Terrassen", "Vogelarten: vielfältig", "Architektur: Lehmziegel"],
+      hu: ["Hosszúság: 50 km", "Tartomány: Mekka", "Természetes medencék: több", "Mezőgazdaság: teraszos", "Madárfajok: változatos", "Építészet: vályog"],
+      ro: ["Lungime: 50 km", "Provincie: Mecca", "Bazine naturale de apă: mai multe", "Agricultură: terase", "Specii de păsări: diverse", "Arhitectură: cărămidă de noroi"],
+      en: ["Length: 50 km", "Province: Mecca", "Natural water pools: several", "Agriculture: terraces", "Bird species: diverse", "Architecture: mud-brick"],
+    },
+  },
   {
     id: "raghadan-forest-nature-v2",
     type: "forest",
     parent: "SA-11",
     coords: [41.4552, 20.0355],
-    name: { de: "Raghadan-Wald", hu: "Ragadán-erdő", ro: "Pădurea Raghadan", en: "Raghadan Forest",
-image: "/poi-images/raghadan-forest-nature-v2.webp"
-},
+    name: { de: "Raghadan-Wald", hu: "Ragadán-erdő", ro: "Pădurea Raghadan", en: "Raghadan Forest"},
+    image: "/poi-images/raghadan-forest-nature-v2.webp",
     description: { de: "Ein dichter Waldpark in der Nähe von Al Baha, der für seine alten Bäume und atemberaubenden Ausblicke auf die Berge bekannt ist.", hu: "Sűrű erdőpark Al Baha közelében, amely ősi fáiról és a hegyekre nyíló lélegzetelállító kilátásáról ismert.", ro: "Un parc forestier dens lângă Al Baha, cunoscut pentru copacii săi bătrâni și priveliștile uimitoare asupra munților.", en: "A dense forest park near Al Baha, known for its ancient trees and breathtaking mountain views." },
     facts: {
       de: ["Berühmt für verspielte Paviane, die den Park bewohnen.", "Bietet Hängebrücken für Besucher."],
       hu: ["Híres a parkban élő játékos páviánokról.", "Függőhidakat kínál a látogatóknak."],
       ro: ["Faimos pentru babuinii jucăuși care locuiesc în parc.", "Oferă poduri suspendate pentru vizitatori."],
       en: ["Famous for the playful baboons that inhabit the park.", "Features suspension bridges for visitors."]
-    }, image: "/poi-images/raghadan-forest-nature-v2.webp"},
+    }, image: "/poi-images/raghadan-forest-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Raghadan-Wald liegt in der Provinz Al-Baha auf einer Höhe von 1.500 m. Er besteht hauptsächlich aus Wacholderbäumen, die zum Teil über 100 Jahre alt sind. Der Wald erstreckt sich über 30 km² und ist ein wichtiges Naherholungsgebiet. Er bietet Wanderwege und Picknickplätze. Das kühle Klima zieht viele Besucher an. Die Tierwelt umfasst Vögel und Kleinsäuger. Der Wald ist auch für seine Nebelstimmung bekannt.",
+      hu: "A Raghadan-erdő Al-Baha tartományban található, 1.500 m tengerszint feletti magasságban. Főleg borókafák alkotják, amelyek némelyike több mint 100 éves. Az erdő 30 km²-en terül el, és fontos helyi rekreációs terület. Túraútvonalakat és piknikezőhelyeket kínál. A hűvös klíma sok látogatót vonz. Állatvilága madarakat és kisemlősöket foglal magában. Az erdő ködös hangulatáról ismert.",
+      ro: "Pădurea Raghadan se află în provincia Al-Baha, la o altitudine de 1.500 m. Este compusă în principal din ienupări, unii cu vârsta de peste 100 de ani. Pădurea se întinde pe 30 km² și este o zonă importantă de recreere. Oferă trasee de drumeție și zone de picnic. Clima răcoroasă atrage mulți vizitatori. Fauna include păsări și mamifere mici. Pădurea este cunoscută pentru atmosfera sa de ceață.",
+      en: "Raghadan Forest, in Al-Baha Province, sits at an elevation of 1,500 m. It is primarily composed of juniper trees, some over 100 years old. The forest covers 30 km² and is a key recreational area. It offers hiking trails and picnic spots. The cool climate attracts many visitors. Wildlife includes birds and small mammals. The forest is known for its misty atmosphere.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 30 km²", "Höhe: 1.500 m", "Baumart: Wacholder", "Alter der Bäume: bis 100+ Jahre", "Provinz: Al-Baha", "Wanderwege: vorhanden"],
+      hu: ["Terület: 30 km²", "Tengerszint feletti magasság: 1.500 m", "Fafajta: boróka", "Fák kora: akár 100+ év", "Tartomány: Al-Baha", "Túraútvonalak: vannak"],
+      ro: ["Suprafață: 30 km²", "Altitudine: 1.500 m", "Specie de copaci: ienupăr", "Vârsta copacilor: până la 100+ ani", "Provincie: Al-Baha", "Trasee de drumeție: prezente"],
+      en: ["Area: 30 km²", "Elevation: 1,500 m", "Tree species: juniper", "Tree age: up to 100+ years", "Province: Al-Baha", "Hiking trails: present"],
+    },
+  },
   {
     id: "al-kharrarah-nature-v2",
     type: "national-park",
     parent: "SA-01",
     coords: [46.1554, 24.3980],
-    name: { de: "Al-Kharrarah-Nationalpark", hu: "Al-Harrára Nemzeti Park", ro: "Parcul Național Al Kharrarah", en: "Al Kharrarah National Park",
-image: "/poi-images/al-kharrarah-nature-v2.webp"
-},
+    name: { de: "Al-Kharrarah-Nationalpark", hu: "Al-Harrára Nemzeti Park", ro: "Parcul Național Al Kharrarah", en: "Al Kharrarah National Park"},
+    image: "/poi-images/al-kharrarah-nature-v2.webp",
     description: { de: "Ein faszinierender Nationalpark mit tiefroten Sanddünen, die nach Regenfällen einen temporären See bilden.", hu: "Lenyűgöző nemzeti park mélyvörös homokdűnékkel, amelyek esőzések után ideiglenes tavat hoznak létre.", ro: "Un parc național fascinant, cu dune de nisip roșu intens, care formează un lac temporar după ploi.", en: "A fascinating national park featuring deep red sand dunes that form a temporary lake after rainfall." },
     facts: {
       de: ["Der nach Regen entstehende See wird auch 'See des flüssigen Lichts' genannt.", "Liegt in der Nähe des Tuwaiq-Gebirges."],
       hu: ["Az eső után kialakuló tavat a 'Folyékony fény tavának' is nevezik.", "A Tuvajk-hegység közelében található."],
       ro: ["Lacul care se formează după ploaie este numit și 'Lacul Luminii Lichide'.", "Situat în apropierea Munților Tuwaiq."],
       en: ["The lake formed after rain is also called the 'Lake of Liquid Light'.", "Located near the Tuwaiq Mountains."]
-    }, image: "/poi-images/al-kharrarah-nature-v2.webp"},
+    }, image: "/poi-images/al-kharrarah-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Al-Kharrarah-Nationalpark liegt in der Region Riad, etwa 100 km südlich der Hauptstadt. Er erstreckt sich über 200 km² und schützt ein Wüstenökosystem mit Sanddünen und Kalksteinaufschlüssen. Der Park ist bekannt für seine fossilreichen Böden und bietet Lebensraum für Wüstenfüchse, Gazellen und Reptilien. Es gibt markierte Wanderwege. Der Park ist ein beliebtes Ziel für Naturliebhaber und Forscher.",
+      hu: "Az Al-Kharrarah Nemzeti Park Rijád régióban, a fővárostól 100 km-re délre található. Területe 200 km², és sivatagi ökoszisztémát véd, homokdűnékkel és mészkőkibúvásokkal. A park fosszíliákban gazdag talajáról ismert, és élőhelyet biztosít sivatagi rókáknak, gazelláknak és hüllőknek. Kijelölt túraútvonalak vannak. A park népszerű a természetkedvelők és kutatók körében.",
+      ro: "Parcul Național Al-Kharrarah se află în regiunea Riyadh, la aproximativ 100 km sud de capitală. Se întinde pe 200 km² și protejează un ecosistem deșertic cu dune de nisip și aflorimente de calcar. Parcul este cunoscut pentru solurile sale bogate în fosile și oferă habitat pentru vulpi de deșert, gazele și reptile. Există trasee de drumeție marcate. Parcul este popular printre iubitorii de natură și cercetători.",
+      en: "Al-Kharrarah National Park, located in Riyadh Region about 100 km south of the capital, covers 200 km². It protects a desert ecosystem featuring sand dunes and limestone outcrops. The park is known for its fossil-rich soils and provides habitat for desert foxes, gazelles, and reptiles. Marked hiking trails are available. It is popular among nature enthusiasts and researchers.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 200 km²", "Entfernung zu Riad: 100 km", "Ökosystem: Wüste", "Fossilien: reichhaltig", "Tierarten: Wüstenfuchs, Gazelle, Reptilien", "Wanderwege: markiert"],
+      hu: ["Terület: 200 km²", "Távolság Rijádtól: 100 km", "Ökoszisztéma: sivatag", "Fosszíliák: gazdagok", "Állatfajok: sivatagi róka, gazella, hüllők", "Túraútvonalak: kijelöltek"],
+      ro: ["Suprafață: 200 km²", "Distanța față de Riyadh: 100 km", "Ecosistem: deșert", "Fosile: bogate", "Specii animale: vulpe de deșert, gazelă, reptile", "Trasee de drumeție: marcate"],
+      en: ["Area: 200 km²", "Distance from Riyadh: 100 km", "Ecosystem: desert", "Fossils: abundant", "Animal species: desert fox, gazelle, reptiles", "Hiking trails: marked"],
+    },
+  },
   {
     id: "sharaan-nature-reserve-nature-v2",
     type: "national-park",
     parent: "SA-03",
     coords: [38.2500, 26.8500],
-    name: { de: "Sharaan-Naturreservat", hu: "Sarán Természetvédelmi Terület", ro: "Rezervația Naturală Sharaan", en: "Sharaan Nature Reserve",
-image: "/poi-images/sharaan-nature-reserve-nature-v2.webp"
-},
+    name: { de: "Sharaan-Naturreservat", hu: "Sarán Természetvédelmi Terület", ro: "Rezervația Naturală Sharaan", en: "Sharaan Nature Reserve"},
+    image: "/poi-images/sharaan-nature-reserve-nature-v2.webp",
     description: { de: "Ein geschütztes Gebiet in der Region Al Ula, das sich der Wiederherstellung der natürlichen Lebensräume und Tierarten der Wüste widmet.", hu: "Védett terület az Al Ula régióban, amely a sivatag természetes élőhelyeinek és állatfajainak helyreállítására összpontosít.", ro: "O zonă protejată în regiunea Al Ula dedicată restaurării habitatelor naturale și speciilor de animale din deșert.", en: "A protected area in the Al Ula region dedicated to restoring the natural desert habitats and wildlife species." },
     facts: {
       de: ["Soll ein sicherer Hafen für den Arabischen Leoparden werden.", "Besteht aus dramatischen Sandsteinformationen."],
       hu: ["A cél az, hogy biztonságos menedékké váljon az arab leopárd számára.", "Drámai homokkő formációkból áll."],
       ro: ["Se dorește a fi un refugiu sigur pentru leopardul arab.", "Este format din formațiuni dramatice de gresie."],
       en: ["Aims to become a safe haven for the Arabian leopard.", "Consists of dramatic sandstone rock formations."]
-    }, image: "/poi-images/sharaan-nature-reserve-nature-v2.webp"},
+    }, image: "/poi-images/sharaan-nature-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Sharaan-Naturschutzgebiet liegt in der Provinz Riad, nahe der Stadt Ushayqir. Es erstreckt sich über 1.500 km² und wurde zum Schutz der Wüstenbiodiversität eingerichtet. Das Gebiet umfasst Sanddünen, Wadis und Felsformationen. Es beherbergt die Arabische Oryx, die Sandgazelle und verschiedene Vogelarten. Besucher können an Safaris teilnehmen. Das Reservat ist Teil des Crown Prince's Program for Environmental Protection.",
+      hu: "A Sharaan Természetvédelmi Terület Rijád tartományban, Ushayqir városa közelében található. Területe 1.500 km², és a sivatagi biodiverzitás védelmére hozták létre. A terület homokdűnéket, vádikat és sziklás képződményeket foglal magában. Itt él az arab bejza, a homoki gazella és számos madárfaj. A látogatók szafarikon vehetnek részt. A rezervátum a Koronaherceg Környezetvédelmi Programjának része.",
+      ro: "Rezervația Naturală Sharaan se află în provincia Riyadh, lângă orașul Ushayqir. Se întinde pe 1.500 km² și a fost înființată pentru protejarea biodiversității deșertice. Zona include dune de nisip, văi și formațiuni stâncoase. Adăpostește oryxul arab, gazela de nisip și diverse specii de păsări. Vizitatorii pot participa la safari. Rezervația face parte din Programul Prințului Moștenitor pentru Protecția Mediului.",
+      en: "Sharaan Nature Reserve, located in Riyadh Province near Ushayqir, covers 1,500 km². Established to protect desert biodiversity, the area comprises sand dunes, wadis, and rock formations. It hosts the Arabian oryx, sand gazelle, and numerous bird species. Visitors can join safaris. The reserve is part of the Crown Prince's Program for Environmental Protection.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1.500 km²", "Lage: Provinz Riad", "Geschützte Arten: Arabische Oryx, Sandgazelle", "Vegetation: Wüste", "Safaris: verfügbar", "Teil von: Kronprinz-Programm"],
+      hu: ["Terület: 1.500 km²", "Elhelyezkedés: Rijád tartomány", "Védett fajok: arab bejza, homoki gazella", "Növényzet: sivatagi", "Szafarik: elérhetők", "Része: Koronaherceg program"],
+      ro: ["Suprafață: 1.500 km²", "Locație: provincia Riyadh", "Specii protejate: oryx arab, gazelă de nisip", "Vegetație: deșertică", "Safari: disponibile", "Parte din: Programul Prințului Moștenitor"],
+      en: ["Area: 1,500 km²", "Location: Riyadh Province", "Protected species: Arabian oryx, sand gazelle", "Vegetation: desert", "Safaris: available", "Part of: Crown Prince's Program"],
+    },
+  },
   {
     id: "thumamah-national-park-nature-v2",
     type: "national-park",
     parent: "SA-01",
     coords: [46.7330, 25.2133],
-    name: { de: "Thumamah-Nationalpark", hu: "Tumáma Nemzeti Park", ro: "Parcul Național Thumamah", en: "Thumamah National Park",
-image: "/poi-images/thumamah-national-park-nature-v2.webp"
-},
+    name: { de: "Thumamah-Nationalpark", hu: "Tumáma Nemzeti Park", ro: "Parcul Național Thumamah", en: "Thumamah National Park"},
+    image: "/poi-images/thumamah-national-park-nature-v2.webp",
     description: { de: "Ein weitläufiger Wüstenpark nördlich von Riad, der für Offroad-Abenteuer und Wüstencamping beliebt ist.", hu: "Egy kiterjedt sivatagi park Rijádtól északra, amely népszerű a terepjárós kalandok és a sivatagi kempingezés szerelmesei körében.", ro: "Un vast parc deșertic la nord de Riad, popular pentru aventuri off-road și camping în deșert.", en: "An expansive desert park north of Riyadh, popular for off-road adventures and desert camping." },
     facts: {
       de: ["Umfasst zahlreiche Dünen, die für das Sandboarding ideal sind.", "Beherbergt traditionelle Beduinenzelte für Touristen."],
       hu: ["Számos dűnével rendelkezik, amelyek ideálisak a homokdeszkázáshoz.", "Hagyományos beduin sátrakat kínál a turistáknak."],
       ro: ["Include numeroase dune ideale pentru sandboarding.", "Găzduiește corturi tradiționale de beduini pentru turiști."],
       en: ["Includes numerous dunes ideal for sandboarding.", "Hosts traditional Bedouin tents for tourists."]
-    }, image: "/poi-images/thumamah-national-park-nature-v2.webp"},
+    }, image: "/poi-images/thumamah-national-park-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Thumamah-Nationalpark liegt nördlich von Riad und erstreckt sich über 170 km². Er wurde 2004 gegründet und schützt ein Wüstenökosystem mit Akazienwäldern und Sanddünen. Der Park ist ein Refugium für die Arabische Oryx und bietet Vogelbeobachtungsmöglichkeiten. Es gibt Campingplätze und Wanderwege. Der Park ist ein beliebtes Ausflugsziel für Familien und Naturfreunde. Jährlich besuchen etwa 300.000 Menschen den Park.",
+      hu: "A Thumamah Nemzeti Park Rijádtól északra található, területe 170 km². 2004-ben alapították, és sivatagi ökoszisztémát véd akácerdőkkel és homokdűnékkel. A park az arab bejza menedéke, és madármegfigyelési lehetőséget kínál. Kempingezőhelyek és túraútvonalak vannak. A park népszerű kirándulóhely családok és természetkedvelők számára. Évente körülbelül 300.000 ember látogatja.",
+      ro: "Parcul Național Thumamah se află la nord de Riyadh, pe o suprafață de 170 km². A fost înființat în 2004 și protejează un ecosistem deșertic cu păduri de salcâm și dune de nisip. Parcul este un refugiu pentru oryxul arab și oferă oportunități de observare a păsărilor. Există locuri de campare și trasee de drumeție. Parcul este o destinație populară pentru familii și iubitorii de natură. Aproximativ 300.000 de persoane îl vizitează anual.",
+      en: "Thumamah National Park, north of Riyadh, covers 170 km². Established in 2004, it protects a desert ecosystem with acacia woodlands and sand dunes. The park is a refuge for the Arabian oryx and offers birdwatching. Camping grounds and hiking trails are available. It is a popular destination for families and nature lovers. About 300,000 people visit annually.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 170 km²", "Gründung: 2004", "Schutzgebiet: Wüstenökosystem", "Geschützte Art: Arabische Oryx", "Jährliche Besucher: ca. 300.000", "Campingplätze: vorhanden"],
+      hu: ["Terület: 170 km²", "Alapítás: 2004", "Védett terület: sivatagi ökoszisztéma", "Védett faj: arab bejza", "Éves látogatók: kb. 300.000", "Kemping: van"],
+      ro: ["Suprafață: 170 km²", "Înființare: 2004", "Arie protejată: ecosistem deșertic", "Specie protejată: oryx arab", "Vizitatori anual: circa 300.000", "Locuri de campare: disponibile"],
+      en: ["Area: 170 km²", "Established: 2004", "Protected area: desert ecosystem", "Protected species: Arabian oryx", "Annual visitors: approx. 300,000", "Camping grounds: available"],
+    },
+  },
   {
     id: "jabal-daka-nature-v2",
     type: "mountain",
     parent: "SA-02",
     coords: [40.2483, 21.0505],
-    name: { de: "Dschabal Daka", hu: "Dzsebel Daka", ro: "Jabal Daka", en: "Jabal Daka",
-image: "/poi-images/jabal-daka-nature-v2.webp"
-},
+    name: { de: "Dschabal Daka", hu: "Dzsebel Daka", ro: "Jabal Daka", en: "Jabal Daka"},
+    image: "/poi-images/jabal-daka-nature-v2.webp",
     description: { de: "Der höchste Berg in der Region Ta'if, der für seine atemberaubenden Sonnenuntergänge und steilen Klippen bekannt ist.", hu: "A Taif régió legmagasabb hegye, amely lélegzetelállító naplementéiről és meredek szikláiról ismert.", ro: "Cel mai înalt munte din regiunea Ta'if, cunoscut pentru apusurile sale uluitoare și stâncile abrupte.", en: "The highest mountain in the Ta'if region, known for its breathtaking sunsets and steep cliffs." },
     facts: {
       de: ["Der Berg ist oft in dichten Nebel gehüllt.", "Ein beliebter Ort für Sternenbeobachtungen."],
       hu: ["A hegyet gyakran sűrű köd borítja.", "Népszerű helyszín a csillagvizsgálók számára."],
       ro: ["Muntele este adesea învăluit într-o ceață densă.", "Un loc popular pentru observarea stelelor."],
       en: ["The mountain is often shrouded in thick fog.", "A popular spot for stargazing."]
-    }, image: "/poi-images/jabal-daka-nature-v2.webp"},
+    }, image: "/poi-images/jabal-daka-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Jabal Daka ist ein 2.100 m hoher Berg in der Provinz Asir, nahe der Stadt Muhayil. Er ist Teil des Asir-Gebirges und besteht aus Granit. Der Berg ist von dichten Wacholderwäldern bedeckt und bietet einen Panoramablick. Es gibt Wanderwege für erfahrene Wanderer. Die Region ist bekannt für ihre Artenvielfalt, darunter der Arabische Leopard. Der Berg ist ein beliebtes Ziel für Ökotourismus.",
+      hu: "A Jabal Daka egy 2.100 m magas hegy Asir tartományban, Muhayil város közelében. Az Asir-hegység része, gránitból áll. A hegyet sűrű borókaerdők borítják, és panorámás kilátást nyújt. Tapasztalt túrázók számára vannak utak. A régió biológiai sokféleségéről ismert, beleértve az arab leopárdot. A hegy népszerű ökoturisztikai célpont.",
+      ro: "Jabal Daka este un munte de 2.100 m în provincia Asir, lângă orașul Muhayil. Face parte din Munții Asir și este format din granit. Muntele este acoperit de păduri dese de ienupăr și oferă vederi panoramice. Există trasee pentru drumeți experimentați. Regiunea este cunoscută pentru biodiversitatea sa, inclusiv leopardul arab. Muntele este o destinație populară pentru ecoturism.",
+      en: "Jabal Daka is a 2,100 m high mountain in Asir Province, near Muhayil. Part of the Asir Mountains, it is composed of granite. The mountain is covered by dense juniper forests and offers panoramic views. There are trails for experienced hikers. The region is known for its biodiversity, including the Arabian leopard. The mountain is a popular ecotourism destination.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 2.100 m", "Provinz: Asir", "Gestein: Granit", "Bewaldung: Wacholderwälder", "Nächste Stadt: Muhayil (30 km)", "Geschützte Tierart: Arabischer Leopard"],
+      hu: ["Magasság: 2.100 m", "Tartomány: Asir", "Kőzet: gránit", "Erdőborítás: borókaerdők", "Legközelebbi város: Muhayil (30 km)", "Védett állatfaj: arab leopárd"],
+      ro: ["Altitudine: 2.100 m", "Provincie: Asir", "Rocă: granit", "Acoperire forestieră: păduri de ienupăr", "Cel mai apropiat oraș: Muhayil (30 km)", "Specie animală protejată: leopardul arab"],
+      en: ["Height: 2,100 m", "Province: Asir", "Rock type: granite", "Forest cover: juniper forests", "Nearest city: Muhayil (30 km)", "Protected animal: Arabian leopard"],
+    },
+  },
   {
     id: "wadi-namar-nature-v2",
     type: "river",
     parent: "SA-01",
     coords: [46.6669, 24.5800],
-    name: { de: "Wadi Namar", hu: "Vádi Namar", ro: "Wadi Namar", en: "Wadi Namar",
-image: "/poi-images/wadi-namar-nature-v2.webp"
-},
+    name: { de: "Wadi Namar", hu: "Vádi Namar", ro: "Wadi Namar", en: "Wadi Namar"},
+    image: "/poi-images/wadi-namar-nature-v2.webp",
     description: { de: "Ein wunderschönes Tal mit einem künstlichen See und einem Wasserfall in Riad, das ein idealer Ort für Familienausflüge ist.", hu: "Egy gyönyörű völgy mesterséges tóval és vízeséssel Rijádban, amely ideális hely a családi kirándulásokhoz.", ro: "O vale frumoasă cu un lac artificial și o cascadă în Riad, care este un loc ideal pentru excursii în familie.", en: "A beautiful valley featuring an artificial lake and a waterfall in Riyadh, an ideal spot for family outings." },
     facts: {
       de: ["Der Seehafen verfügt über eine 2 Kilometer lange Promenade.", "Beliebter Picknickplatz für Einheimische."],
       hu: ["A tó partján egy 2 kilométer hosszú sétány található.", "Népszerű piknikezőhely a helyiek körében."],
       ro: ["Malul lacului are o promenadă lungă de 2 kilometri.", "Un loc de picnic popular pentru localnici."],
       en: ["The lakefront features a 2-kilometer-long promenade.", "A popular picnic spot for locals."]
-    }, image: "/poi-images/wadi-namar-nature-v2.webp"},
+    }, image: "/poi-images/wadi-namar-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Wadi Namar liegt am südlichen Stadtrand von Riad und ist ein 10 km langes Tal. Es wurde in einen Park umgewandelt, der einen Staudamm und einen künstlichen See umfasst. Der Park bietet Grünflächen, Spielplätze und Wanderwege. Er ist ein beliebtes Naherholungsgebiet für die Bewohner von Riad. Der See ist Lebensraum für Wasservögel. Der Park wurde 2015 eröffnet.",
+      hu: "A Wadi Namar Rijád déli külvárosában található, egy 10 km hosszú völgy. Parkká alakították, amely gátat és mesterséges tavat foglal magában. A park zöldterületeket, játszótereket és túraútvonalakat kínál. Népszerű rekreációs terület a rijádi lakosok számára. A tó vízimadarak élőhelye. A parkot 2015-ben nyitották meg.",
+      ro: "Wadi Namar se află la periferia sudică a Riyadh-ului, o vale de 10 km lungime. A fost transformat într-un parc care include un baraj și un lac artificial. Parcul oferă spații verzi, locuri de joacă și trasee de drumeție. Este o zonă populară de agrement pentru locuitorii din Riyadh. Lacul este habitat pentru păsări acvatice. Parcul a fost deschis în 2015.",
+      en: "Wadi Namar, located on the southern outskirts of Riyadh, is a 10 km long valley. It has been developed into a park featuring a dam and an artificial lake. The park offers green spaces, playgrounds, and walking trails. It is a popular recreation area for Riyadh residents. The lake hosts water birds. The park opened in 2015.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 10 km", "Lage: südlicher Stadtrand von Riad", "See: künstlich, gestaut", "Eröffnung: 2015", "Spielplätze: vorhanden", "Wasservögel: Lebensraum"],
+      hu: ["Hosszúság: 10 km", "Elhelyezkedés: Rijád déli külvárosa", "Tó: mesterséges, gátas", "Megnyitás: 2015", "Játszóterek: vannak", "Vízimadarak: élőhely"],
+      ro: ["Lungime: 10 km", "Locație: periferia sudică a Riyadh-ului", "Lac: artificial, barat", "Deschidere: 2015", "Locuri de joacă: prezente", "Păsări acvatice: habitat"],
+      en: ["Length: 10 km", "Location: southern outskirts of Riyadh", "Lake: artificial, dammed", "Opened: 2015", "Playgrounds: present", "Water birds: habitat"],
+    },
+  },
   {
     id: "raydah-escarpment-reserve-nature-v2",
     type: "national-park",
     parent: "SA-14",
     coords: [42.4172, 18.2325],
-    name: { de: "Raydah-Schutzgebiet", hu: "Rajda Természetvédelmi Terület", ro: "Rezervația Escarpamentului Raydah", en: "Raydah Escarpment Reserve",
-image: "/poi-images/raydah-escarpment-reserve-nature-v2.webp"
-},
+    name: { de: "Raydah-Schutzgebiet", hu: "Rajda Természetvédelmi Terület", ro: "Rezervația Escarpamentului Raydah", en: "Raydah Escarpment Reserve"},
+    image: "/poi-images/raydah-escarpment-reserve-nature-v2.webp",
     description: { de: "Ein steil abfallendes Schutzgebiet in den Asir-Bergen, das dichte Wälder und seltene Vogelarten beherbergt.", hu: "Meredeken lejtő természetvédelmi terület az Aszír-hegységben, amely sűrű erdőknek és ritka madárfajoknak ad otthont.", ro: "O rezervație cu pante abrupte în Munții Asir, care găzduiește păduri dese și specii rare de păsări.", en: "A steeply sloping reserve in the Asir Mountains that is home to dense forests and rare bird species." },
     facts: {
       de: ["Eine der letzten verbliebenen Zufluchtsorte für den Asir-Elster.", "Charakterisiert durch tiefe Schluchten und hohe Klippen."],
       hu: ["Az aszíri szarka egyik utolsó megmaradt menedéke.", "Mély szurdokok és magas sziklák jellemzik."],
       ro: ["Unul dintre ultimele refugii rămase pentru coțofana de Asir.", "Caracterizat prin defileuri adânci și stânci înalte."],
       en: ["One of the last remaining refuges for the Asir magpie.", "Characterized by deep gorges and high cliffs."]
-    }, image: "/poi-images/raydah-escarpment-reserve-nature-v2.webp"},
+    }, image: "/poi-images/raydah-escarpment-reserve-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Raydah Escarpment Reserve liegt im Südwesten Saudi-Arabiens, in der Provinz Asir, und erstreckt sich über eine Höhenlage von 300 bis 2.500 Metern. Die Steilküste bildet eine markante geologische Grenze zwischen der Tihama-Küstenebene und dem Hochland von Asir. Das Reservat wurde 1989 als Schutzgebiet ausgewiesen und umfasst etwa 9 Quadratkilometer. Es beherbergt eine vielfältige Flora, darunter endemische Arten wie Juniperus procera und verschiedene Akazien. Die Fauna umfasst den Arabischen Leoparden, der hier selten vorkommt, sowie Paviane und Vogelarten wie den Jemen-Specht. Das Gebiet ist auch für seine Nebelwälder bekannt, die durch die feuchte Luft aus dem Roten Meer gespeist werden.",
+      hu: "A Raydah Escarpment Rezervátum Szaúd-Arábia délnyugati részén, Asir tartományban található, ahol a Tihama part menti síksága hirtelen emelkedik a magas hegyvidékbe. A szurdokvölgy 300 és 2500 méter közötti tengerszint feletti magasságban húzódik, és fontos ökológiai folyosó. A területet 1989-ben nyilvánították védetté, és 9 négyzetkilométeren terül el. A növényzetet a Juniperus procera és az Acacia fajok jellemzik, de megtalálható itt a ritka arab leopárd is. A rezervátum madárvilága gazdag, beleértve a jemeni harkályt és a fogolyféléket. A magas páratartalom miatt a terület ködös erdői egyedülálló mikroklímát teremtenek.",
+      ro: "Rezervația Raydah Escarpment este situată în sud-vestul Arabiei Saudite, în provincia Asir, și se întinde pe o diferență de altitudine de la 300 la 2.500 de metri. Escarpamentul reprezintă o tranziție geologică bruscă între câmpia costieră Tihama și podișul Asir. A fost desemnată rezervație naturală în 1989 și acoperă aproximativ 9 kilometri pătrați. Flora include specii endemice precum Juniperus procera și salcâm, iar fauna este reprezentată de leopardul arab, babuini și păsări precum ciocănitoarea yemenită. Pădurile de ceață sunt o caracteristică distinctivă, datorită umidității aduse de vânturile din Marea Roșie.",
+      en: "Raydah Escarpment Reserve in southwestern Saudi Arabia spans a dramatic elevation gradient from 300 to 2,500 meters, forming a natural boundary between the Tihama coastal plain and the Asir highlands. Established as a protected area in 1989, the reserve covers 9 square kilometers and hosts diverse ecosystems, from arid lowlands to misty juniper forests. The escarpment's unique microclimate supports endemic flora like Juniperus procera and Acacia species. Wildlife includes the critically endangered Arabian leopard, baboons, and the Yemeni woodpecker. The reserve is a key site for conservation of the Arabian Peninsula's mountain biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Höhenlage: 300–2.500 m über dem Meeresspiegel", "Schutzgebietsgröße: ca. 9 km²", "Ausweisung als Reservat: 1989", "Endemische Pflanzenart: Juniperus procera", "Seltene Tierart: Arabischer Leopard (Panthera pardus nimr)", "Jährlicher Niederschlag: bis zu 500 mm in den Hochlagen"],
+      hu: ["Terület: 9 km²", "Magasságtartomány: 300–2500 m tszf.", "Védetté nyilvánítás éve: 1989", "Fontos növény: Juniperus procera (boróka)", "Állatfaj: arab leopárd (Panthera pardus nimr)", "Ködös erdők: magas páratartalom miatt évente több mint 100 nap"],
+      ro: ["Altitudine: 300–2.500 m", "Suprafață: 9 km²", "Anul înființării: 1989", "Specie endemică: Juniperus procera", "Faună: leopard arab (Panthera pardus nimr)", "Precipitații anuale: 200–500 mm"],
+      en: ["Elevation range: 300 to 2,500 meters", "Area: 9 km²", "Established: 1989", "Key tree species: Juniperus procera", "Critically endangered mammal: Arabian leopard", "Annual fog days: up to 50 in upper elevations"],
+    },
+  },
   {
     id: "jabal-shada-nature-v2",
     type: "mountain",
     parent: "SA-11",
     coords: [41.3150, 19.7891],
-    name: { de: "Dschabal Shada", hu: "Dzsebel Sada", ro: "Jabal Shada", en: "Jabal Shada",
-image: "/poi-images/jabal-shada-nature-v2.webp"
-},
+    name: { de: "Dschabal Shada", hu: "Dzsebel Sada", ro: "Jabal Shada", en: "Jabal Shada"},
+    image: "/poi-images/jabal-shada-nature-v2.webp",
     description: { de: "Ein Bergmassiv, das für seine ungewöhnlichen Felsformationen und alten Höhlenwohnungen berühmt ist.", hu: "Hegymasszívum, amely szokatlan sziklaalakzatairól és ősi barlanglakásairól híres.", ro: "Un masiv muntos renumit pentru formațiunile sale stâncoase neobișnuite și locuințele rupestre antice.", en: "A mountain massif famous for its unusual rock formations and ancient cave dwellings." },
     facts: {
       de: ["Die Höhlen wurden seit Jahrtausenden von Menschen bewohnt.", "Die Granitblöcke wurden durch Wind und Wetter geformt."],
       hu: ["A barlangokat évezredek óta lakták emberek.", "A gránittömböket a szél és az időjárás formálta."],
       ro: ["Peșterile au fost locuite de oameni de milenii.", "Blocurile de granit au fost sculptate de vânt și vreme."],
       en: ["The caves have been inhabited by humans for millennia.", "The granite boulders were sculpted by wind and weather."]
-    }, image: "/poi-images/jabal-shada-nature-v2.webp"},
+    }, image: "/poi-images/jabal-shada-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Jabal Shada ist ein Bergmassiv in der Provinz Al Bahah in Saudi-Arabien, das sich bis auf 2.200 Meter erhebt. Das Gebiet ist bekannt für seine reiche Biodiversität und wurde 2012 als Naturreservat ausgewiesen. Die Vegetation umfasst Wacholderwälder und Dickichte der Euphorbia-Art. Der Gipfel bietet einen Panoramablick über die umliegende Landschaft. Das Reservat beherbergt Populationen von Arabischen Wölfen, Rotfüchsen und zahlreichen Vogelarten, darunter den Steinadler. Die Region ist auch kulturell bedeutsam, mit traditionellen Dörfern, die Terrassenlandwirtschaft betreiben.",
+      hu: "Jabal Shada egy hegyvidéki terület Szaúd-Arábiában, Al Bahah tartományban, amely 2200 méter magasra nyúlik. A régió 2012-ben kapott védett státuszt, és gazdag élővilágáról ismert. A növényzetet borókafélék és Euphorbia cserjék alkotják. Az állatvilág része az arab farkas, a vörös róka és a szirti sas. A terület hagyományos falvai és mezőgazdasági teraszai fontos kulturális örökséget őriznek. A rezervátum célja a helyi biodiverzitás megőrzése és a fenntartható turizmus előmozdítása.",
+      ro: "Jabal Shada este un masiv montan din provincia Al Bahah, Arabia Saudită, cu o altitudine maximă de 2.200 de metri. A fost declarat rezervație naturală în 2012 și se remarcă prin biodiversitatea sa. Pădurile de ienupăr și tufișurile de Euphorbia domină peisajul. Fauna include lupul arab, vulpea roșie și acvila de stâncă. Satele tradiționale cu terase agricole reflectă adaptarea umană la mediu. Rezervația este importantă pentru conservarea speciilor endemice din Peninsula Arabică.",
+      en: "Jabal Shada is a mountain massif in Al Bahah Province, Saudi Arabia, rising to 2,200 meters. Designated a nature reserve in 2012, it covers a rugged landscape of juniper forests and Euphorbia scrub. The area supports diverse wildlife including the Arabian wolf, red fox, and golden eagle. Traditional terraced agriculture practiced by local communities has shaped the cultural landscape for centuries. The reserve aims to protect endemic species and promote eco-tourism in the Sarawat Mountains.",
+    },
+    factsAdvanced: {
+      de: ["Höchste Erhebung: 2.200 m", "Schutzgebietsgröße: ca. 100 km² (Schätzung)", "Ausweisung: 2012", "Wichtige Pflanzengattung: Euphorbia", "Vogelart: Steinadler (Aquila chrysaetos)", "Anzahl der traditionellen Dörfer: über 20"],
+      hu: ["Legmagasabb pont: 2200 m", "Védett terület nagysága: kb. 100 km²", "Védetté nyilvánítás éve: 2012", "Jellemző növény: boróka (Juniperus)", "Állatfaj: arab farkas (Canis lupus arabs)", "Tradicionális teraszok: több száz éves múlt"],
+      ro: ["Altitudine maximă: 2.200 m", "Suprafață: ~100 km²", "Anul desemnării: 2012", "Vegetație: păduri de ienupăr și Euphorbia", "Mamifer: lup arab (Canis lupus arabs)", "Nr. de sate tradiționale: peste 20"],
+      en: ["Maximum elevation: 2,200 meters", "Area: approximately 100 km²", "Established: 2012", "Dominant vegetation: Juniperus and Euphorbia", "Mammal: Arabian wolf (Canis lupus arabs)", "Number of traditional villages: >20"],
+    },
+  },
   {
     id: "uruq-bani-maarid-nature-v2",
     type: "national-park",
     parent: "SA-10",
     coords: [45.5000, 19.3333],
-    name: { de: "Uruq Bani Ma'arid", hu: "Uruk Bani Maarid", ro: "Uruq Bani Ma'arid", en: "Uruq Bani Ma'arid",
-image: "/poi-images/uruq-bani-maarid-nature-v2.webp"
-},
+    name: { de: "Uruq Bani Ma'arid", hu: "Uruk Bani Maarid", ro: "Uruq Bani Ma'arid", en: "Uruq Bani Ma'arid"},
+    image: "/poi-images/uruq-bani-maarid-nature-v2.webp",
     description: { de: "Ein Naturschutzgebiet am westlichen Rand des Leeren Viertels (Rub al-Chali), in dem die Arabische Oryx erfolgreich ausgewildert wurde.", hu: "Természetvédelmi terület az Üres Negyed (Rub al-Háli) nyugati peremén, ahol sikeresen visszatelepítették az arab bejzát.", ro: "O rezervație naturală la marginea vestică a Pătrarului Gol (Rub' al Khali), unde orixul arab a fost reintrodus cu succes.", en: "A nature reserve on the western edge of the Empty Quarter (Rub' al Khali) where the Arabian oryx has been successfully reintroduced." },
     facts: {
       de: ["Ist ein von der UNESCO anerkanntes Weltnaturerbe.", "Die Landschaft besteht aus gewaltigen linearen Sanddünen."],
       hu: ["Az UNESCO által elismert természeti világörökség.", "A táj hatalmas, egyenes homokdűnékből áll."],
       ro: ["Este un sit al Patrimoniului Natural Mondial recunoscut de UNESCO.", "Peisajul este alcătuit din dune de nisip liniare masive."],
       en: ["It is a UNESCO-recognized World Natural Heritage site.", "The landscape consists of massive linear sand dunes."]
-    }, image: "/poi-images/uruq-bani-maarid-nature-v2.webp"},
+    }, image: "/poi-images/uruq-bani-maarid-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Uruq Bani Ma'arid Schutzgebiet liegt im Süden Saudi-Arabiens, in der Provinz Najran, und erstreckt sich über 1.200 Quadratkilometer. Es wurde 1995 gegründet, um die Wüstenökosysteme der Rub al-Khali zu schützen. Die Landschaft besteht aus Sanddünen, die bis zu 150 Meter hoch werden können, sowie Kiesebenen und Wadis. Die Flora umfasst Sträucher wie Calligonum und Haloxylon, die an Trockenheit angepasst sind. Die Fauna ist typisch für die arabische Wüste: arabische Oryxantilopen, Sandgazellen und Rebhühner. Das Gebiet ist auch ein wichtiger Rastplatz für Zugvögel.",
+      hu: "Uruq Bani Ma'arid természetvédelmi terület Szaúd-Arábia déli részén, Nadzsrán tartományban található, és 1200 négyzetkilométeren terül el. 1995-ben hozták létre a Rub al-Khali sivatagi ökoszisztémájának védelmére. A tájat akár 150 méter magas homokdűnék, kavicsos síkságok és vádik jellemzik. A növényzet között Calligonum és Haloxylon cserjék találhatók. Az állatvilág része az arab oryx, a homoki gazella és a sivatagi fogoly. A terület fontos pihenőhely a vonuló madarak számára.",
+      ro: "Rezervația Uruq Bani Ma'arid este situată în sudul Arabiei Saudite, în provincia Najran, și se întinde pe 1.200 km². A fost înființată în 1995 pentru a proteja ecosistemele deșertice din Rub al-Khali. Relieful include dune de nisip de până la 150 de metri, platouri pietroase și văi uscate. Vegetația este formată din arbuști xerofili precum Calligonum și Haloxylon. Fauna cuprinde oryx arabi, gazele de nisip și potârnichi. Zona este un punct de popas pentru păsări migratoare.",
+      en: "Uruq Bani Ma'arid Reserve in southern Saudi Arabia covers 1,200 km² of the Rub' al Khali desert. Established in 1995, it protects a landscape of towering sand dunes up to 150 meters high, gravel plains, and wadis. The vegetation is sparse, dominated by Calligonum and Haloxylon shrubs. Notable wildlife includes the reintroduced Arabian oryx, sand gazelle, and houbara bustard. The reserve is crucial for desert biodiversity conservation and serves as a stopover for migratory birds crossing the Arabian Peninsula.",
+    },
+    factsAdvanced: {
+      de: ["Schutzgebietsgröße: 1.200 km²", "Gründungsjahr: 1995", "Maximale Dünenhöhe: 150 m", "Charakteristische Pflanze: Calligonum (Wüstendorn)", "Tierart: Arabische Oryxantilope (Oryx leucoryx)", "Zugvögel: über 100 Arten nachgewiesen"],
+      hu: ["Terület: 1200 km²", "Alapítás éve: 1995", "Legmagasabb dűne: 150 m", "Növény: Calligonum", "Állat: arab oryx (Oryx leucoryx)", "Madárfajok: több mint 100"],
+      ro: ["Suprafață: 1.200 km²", "Anul înființării: 1995", "Înălțimea maximă a dunelor: 150 m", "Plantă tipică: Calligonum", "Mamifer: oryx arab (Oryx leucoryx)", "Păsări migratoare: >100 specii"],
+      en: ["Area: 1,200 km²", "Established: 1995", "Maximum dune height: 150 m", "Dominant shrub: Calligonum", "Flagship species: Arabian oryx (Oryx leucoryx)", "Migratory bird species recorded: 100+"],
+    },
+  },
   {
     id: "king-salman-nature-v2",
     type: "national-park",
     parent: "SA-07",
     coords: [38.8351, 28.7712],
-    name: { de: "König-Salman-Naturreservat", hu: "Szalmán Király Természetvédelmi Terület", ro: "Rezervația Naturală Regele Salman", en: "King Salman Nature Reserve",
-image: "/poi-images/king-salman-nature-v2.webp"
-},
+    name: { de: "König-Salman-Naturreservat", hu: "Szalmán Király Természetvédelmi Terület", ro: "Rezervația Naturală Regele Salman", en: "King Salman Nature Reserve"},
+    image: "/poi-images/king-salman-nature-v2.webp",
     description: { de: "Eines der größten Schutzgebiete im Nahen Osten, das die historische Landschaft und Artenvielfalt Nordarabiens bewahrt.", hu: "A Közel-Kelet egyik legnagyobb védett területe, amely Észak-Arábia történelmi tájait és biológiai sokféleségét őrzi.", ro: "Una dintre cele mai mari zone protejate din Orientul Mijlociu, conservând peisajul istoric și biodiversitatea Arabiei de Nord.", en: "One of the largest protected areas in the Middle East, preserving the historical landscape and biodiversity of Northern Arabia." },
     facts: {
       de: ["Umfasst eine Fläche, die größer ist als viele Länder.", "Schützt Tiere wie den Arabischen Wolf und Sandgazellen."],
       hu: ["Olyan területet foglal magába, amely nagyobb, mint sok ország.", "Olyan állatokat véd, mint az arab farkas és a homoki gazella."],
       ro: ["Acoperă o zonă mai mare decât multe țări.", "Protejează animale precum lupul arab și gazelele de nisip."],
       en: ["Covers an area larger than many countries.", "Protects animals such as the Arabian wolf and sand gazelles."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das King Salman Nature Reserve ist eines der größten Schutzgebiete Saudi-Arabiens und erstreckt sich über rund 130.000 Quadratkilometer in den nördlichen Grenzregionen. Es wurde 2018 per königlichem Erlass eingerichtet, um die Biodiversität der arabischen Wüste zu bewahren. Das Reservat umfasst Teile der Nafud-Wüste, Vulkanfelder und Sandsteinformationen. Schätzungen zufolge leben hier über 120 Vogelarten, darunter der bedrohte Arabische Strauß, sowie Säugetiere wie der Arabische Wolf und die Sandgazelle. Die Landschaft variiert von weiten Sandflächen bis zu felsigen Hochplateaus. Wissenschaftliche Forschungsstationen untersuchen die Auswirkungen des Klimawandels auf das Ökosystem. Besucher können an geführten Touren teilnehmen, jedoch ist der Zugang aus Naturschutzgründen stark reguliert.",
+      hu: "A King Salman Természetvédelmi Terület Szaúd-Arábia északi határvidékén, mintegy 130 000 négyzetkilométeren terül el. 2018-ban hozták létre, hogy megőrizzék a sivatagi ökoszisztémák gazdagságát. A rezervátum magában foglalja a Nagy-Nafud egy részét, vulkanikus mezőket és homokkő képződményeket. Több mint 120 madárfaj él itt, például a kihalással fenyegetett arab strucc, valamint emlősök, mint az arab farkas és a homoki gazella. A táj változatos: homoksíkságok, sziklás fennsíkok és kanyonok váltakoznak. A terület fontos szerepet játszik a klímaváltozás kutatásában. A turisták csak korlátozottan látogathatják, a természetvédelmi előírások szigorúak.",
+      ro: "Rezervația Naturală King Salman este una dintre cele mai mari arii protejate din Arabia Saudită, întinzându-se pe aproximativ 130.000 de kilometri pătrați în regiunile de frontieră nordice. A fost înființată în 2018 printr-un decret regal pentru a conserva biodiversitatea deșertului arab. Rezervația include părți din deșertul Nafud, câmpuri vulcanice și formațiuni de gresie. Aici trăiesc peste 120 de specii de păsări, inclusiv struțul arab pe cale de dispariție, și mamifere precum lupul arab și gazela de nisip. Peisajul variază de la întinderi nisipoase la platouri stâncoase. Stațiile de cercetare științifică studiază impactul schimbărilor climatice asupra ecosistemului. Accesul vizitatorilor este strict reglementat în scopuri de conservare.",
+      en: "King Salman Nature Reserve, established in 2018, spans approximately 130,000 square kilometers in northern Saudi Arabia. It is one of the largest protected areas in the region, covering parts of the Nafud Desert, volcanic fields, and sandstone formations. The reserve hosts over 120 bird species, including the endangered Arabian ostrich, and mammals like the Arabian wolf and sand gazelle. Its landscape ranges from vast sand dunes to rocky plateaus and canyons. The reserve is a key site for climate change research, with multiple scientific stations monitoring desert ecosystems. Tourism is permitted but strictly regulated to minimize human impact on the fragile environment.",
+    },
+    factsAdvanced: {
+      de: ["Das Reservat umfasst 130.000 Quadratkilometer, mehr als die Fläche von Griechenland.", "Es wurde am 30. Mai 2018 durch königlichen Erlass gegründet.", "Das Schutzgebiet beherbergt über 120 Vogelarten.", "Die Höchsttemperatur in der Region kann 50°C überschreiten.", "Das Gebiet liegt zwischen 500 und 1.200 Metern über dem Meeresspiegel.", "Jährlich fallen weniger als 100 Millimeter Niederschlag."],
+      hu: ["A rezervátum területe 130 000 négyzetkilométer, ami Görögországénál is nagyobb.", "2018. május 30-án alapították királyi rendelettel.", "Több mint 120 madárfaj él itt.", "A nyári hőmérséklet meghaladhatja az 50 Celsius-fokot.", "A terület 500-1200 méteres tengerszint feletti magasságban fekszik.", "Az éves csapadék kevesebb mint 100 milliméter."],
+      ro: ["Rezervația se întinde pe 130.000 de kilometri pătrați, mai mare decât Grecia.", "A fost fondată pe 30 mai 2018 printr-un decret regal.", "Adăpostește peste 120 de specii de păsări.", "Temperatura maximă poate depăși 50°C.", "Altitudinea variază între 500 și 1.200 de metri.", "Precipitațiile anuale sunt sub 100 de milimetri."],
+      en: ["Covering 130,000 square kilometers, it is larger than Greece.", "Established by royal decree on May 30, 2018.", "Hosts over 120 bird species, including the Arabian ostrich.", "Summer temperatures often exceed 50°C (122°F).", "Elevation ranges from 500 to 1,200 meters above sea level.", "Annual rainfall is less than 100 millimeters (4 inches)."],
+    },
   },
   {
     id: "rawdat-khuraim-nature-v2",
     type: "forest",
     parent: "SA-01",
     coords: [47.2882, 25.3789],
-    name: { de: "Rawdat Khuraim", hu: "Raudat Huraim", ro: "Rawdat Khuraim", en: "Rawdat Khuraim",
-image: "/poi-images/rawdat-khuraim-nature-v2.webp"
-},
+    name: { de: "Rawdat Khuraim", hu: "Raudat Huraim", ro: "Rawdat Khuraim", en: "Rawdat Khuraim"},
+    image: "/poi-images/rawdat-khuraim-nature-v2.webp",
     description: { de: "Eine grüne Oase und ein Waldgebiet inmitten der Wüste, oft als der 'Wald des Königs' bezeichnet.", hu: "Egy zöld oázis és erdőterület a sivatag közepén, amelyet gyakran 'a király erdejének' is neveznek.", ro: "O oază verde și o zonă împădurită în mijlocul deșertului, adesea numită 'Pădurea Regelui'.", en: "A green oasis and forested area in the middle of the desert, often referred to as the 'King's Forest'." },
     facts: {
       de: ["Im Frühling blüht die Region mit unzähligen Wildblumen.", "Ein beliebtes Rückzugsgebiet für die königliche Familie."],
       hu: ["Tavasszal a régió számtalan vadvirággal virágzik.", "A királyi család kedvelt elvonulási helye."],
       ro: ["Primăvara, regiunea înflorește cu nenumărate flori sălbatice.", "Un loc de refugiu popular pentru familia regală."],
       en: ["In spring, the region blooms with countless wildflowers.", "A popular retreat for the royal family."]
-    }, image: "/poi-images/rawdat-khuraim-nature-v2.webp"},
+    }, image: "/poi-images/rawdat-khuraim-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Rawdat Khuraim ist ein saudi-arabisches Schutzgebiet nordöstlich von Riad, bekannt für seine saisonale Vegetation. Die Senke (Rawda) sammelt Regenwasser und verwandelt sich in den Frühlingsmonaten in eine grüne Oase mit Wildblumen und Gräsern. Das Gebiet ist ein beliebtes Ziel für Naturforscher und Familien, die die seltene Flora der arabischen Wüste erleben möchten. Es umfasst etwa 50 Quadratkilometer und wird von der saudi-arabischen Wildtierbehörde verwaltet. Typische Pflanzenarten sind Akazien und Wüstensträucher. Die Gegend ist auch ein wichtiger Rastplatz für Zugvögel. Seit 2015 wurden Wiederansiedlungsprogramme für die Arabische Oryx-Antilope durchgeführt.",
+      hu: "A Rawdat Khuraim egy természetvédelmi terület Rijádtól északkeletre, amely évszakos növényzetéről híres. A mélyedés összegyűjti az esővizet, és tavasszal zöld oázissá válik vadon élő virágokkal és füvekkel. A terület népszerű a természetkedvelők és családok körében, akik ritka sivatagi növényeket szeretnének látni. Mintegy 50 négyzetkilométer területű, és a Szaúd-arábiai Vadvédelmi Hatóság kezeli. Jellemző növények az akácia és sivatagi bokrok. Fontos pihenőhely a vonuló madarak számára. 2015 óta arab oryx-antilop visszatelepítési programok folynak.",
+      ro: "Rawdat Khuraim este o arie protejată din Arabia Saudită, situată la nord-est de Riad, renumită pentru vegetația sa sezonieră. Depresiunea (rawda) colectează apa de ploaie, transformându-se primăvara într-o oază verde cu flori sălbatice și ierburi. Este o destinație populară pentru naturaliști și familii care doresc să experimenteze flora rară a deșertului arab. Se întinde pe aproximativ 50 de kilometri pătrați și este administrată de Autoritatea pentru Faună Sălbatică din Arabia Saudită. Plantele tipice includ salcâmi și arbuști de deșert. Zona este și un loc important de popas pentru păsările migratoare. Din 2015, au fost implementate programe de reintroducere a antilopei oryx arab.",
+      en: "Rawdat Khuraim is a protected area northeast of Riyadh, characterized by its seasonal greenery. This depression (rawda) captures rainwater, blooming in spring with wildflowers and grasses. It covers roughly 50 square kilometers and is managed by the Saudi Wildlife Authority. The site is a haven for desert flora such as acacia and various shrubs, and serves as a stopover for migratory birds. Reintroduction programs for the Arabian oryx began here in 2015, aiming to restore native wildlife. It is a popular spot for ecotourism, offering a glimpse of the region's natural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Rawdat Khuraim erstreckt sich über etwa 50 Quadratkilometer.", "Die Senke liegt 40 Kilometer nordöstlich von Riad.", "Das Gebiet ist ein wichtiger Rastplatz für über 30 Zugvogelarten.", "Die Frühlingsblüte dauert von März bis April.", "Seit 2015 wurden über 50 Arabische Oryxe ausgewildert.", "Die durchschnittliche jährliche Niederschlagsmenge beträgt 80 Millimeter."],
+      hu: ["Rawdat Khuraim körülbelül 50 négyzetkilométer területű.", "Rijádtól 40 kilométerre északkeletre található.", "Több mint 30 vonuló madárfaj pihenőhelye.", "A tavaszi virágzás márciustól áprilisig tart.", "2015 óta több mint 50 arab oryxot telepítettek vissza.", "Az éves csapadék átlagosan 80 milliméter."],
+      ro: ["Rawdat Khuraim se întinde pe aproximativ 50 de kilometri pătrați.", "Este situat la 40 de kilometri nord-est de Riad.", "Este un loc de popas pentru peste 30 de specii de păsări migratoare.", "Înflorirea de primăvară are loc din martie până în aprilie.", "Peste 50 de oryx arabi au fost reintroduși din 2015.", "Precipitațiile medii anuale sunt de 80 de milimetri."],
+      en: ["Covers approximately 50 square kilometers (19 sq mi).", "Located 40 kilometers northeast of Riyadh.", "Serves as a stopover for over 30 migratory bird species.", "Spring bloom occurs from March to April.", "Over 50 Arabian oryx have been reintroduced since 2015.", "Average annual rainfall is 80 millimeters (3.1 inches)."],
+    },
+  },
   {
     id: "jabal-qidr-nature-v2",
     type: "mountain",
     parent: "SA-03",
     coords: [39.9575, 25.7175],
-    name: { de: "Dschabal Qidr", hu: "Dzsebel Kidr", ro: "Jabal Qidr", en: "Jabal Qidr",
-image: "/poi-images/jabal-qidr-nature-v2.webp"
-},
+    name: { de: "Dschabal Qidr", hu: "Dzsebel Kidr", ro: "Jabal Qidr", en: "Jabal Qidr"},
+    image: "/poi-images/jabal-qidr-nature-v2.webp",
     description: { de: "Ein markanter Vulkankegel im vulkanischen Feld von Harrat Khaybar mit pechschwarzer Lava.", hu: "Egy feltűnő vulkáni kúp a Harrat Hajbar vulkáni mezőn, szurokfekete lávával.", ro: "Un con vulcanic proeminent în câmpul vulcanic Harrat Khaybar, cu lavă neagră ca smoala.", en: "A prominent volcanic cone in the Harrat Khaybar volcanic field, featuring pitch-black lava." },
     facts: {
       de: ["Gilt als einer der höchsten Vulkane in Saudi-Arabien.", "Die Landschaft gleicht eher einem fremden Planeten als einer Wüste."],
       hu: ["Szaúd-Arábia egyik legmagasabb vulkánjaként tartják számon.", "A táj inkább egy idegen bolygóra hasonlít, mint egy sivatagra."],
       ro: ["Este considerat unul dintre cei mai înalți vulcani din Arabia Saudită.", "Peisajul seamănă mai mult cu o planetă extraterestră decât cu un deșert."],
       en: ["Considered one of the highest volcanoes in Saudi Arabia.", "The landscape resembles an alien planet more than a desert."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Jabal Qidr ist ein markanter Berg im Nordwesten Saudi-Arabiens, nahe der jordanischen Grenze. Er ragt etwa 1.500 Meter aus der umliegenden Wüstenlandschaft auf und besteht hauptsächlich aus Granit und Vulkangestein. Die Region ist Teil des Harrat al-Uwayrid Vulkanfelds. Der Berg ist bekannt für seine steilen Klippen und tiefen Schluchten. In der Antike diente er als Orientierungspunkt für Karawanen. Die Umgebung beherbergt archäologische Stätten mit Felszeichnungen, die bis zu 5.000 Jahre alt sind. Die Biodiversität umfasst Steinböcke, Wüstenfüchse und Greifvögel. Besteigungen sind anspruchsvoll und erfordern technische Kletterkenntnisse.",
+      hu: "A Jabal Qidr egy jellegzetes hegy Szaúd-Arábia északnyugati részén, a jordán határ közelében. Mintegy 1500 méter magasra emelkedik a sivatagi tájból, főleg gránitból és vulkáni kőzetekből áll. A terület a Harrat al-Uwayrid vulkanikus mező része. A hegy meredek sziklafalairól és mély szurdokairól ismert. Az ókorban karavánok tájékozódási pontja volt. A környék régészeti lelőhelyeken gazdag, akár 5000 éves sziklarajzokkal. Gyakori állatok a kőszáli kecske, sivatagi róka és ragadozó madarak. A megmászása nehéz, technikai mászási ismereteket igényel.",
+      ro: "Jabal Qidr este un munte proeminent din nord-vestul Arabiei Saudite, aproape de granița iordaniană. Se ridică la aproximativ 1.500 de metri deasupra peisajului deșertic, fiind compus în principal din granit și roci vulcanice. Zona face parte din câmpul vulcanic Harrat al-Uwayrid. Muntele este cunoscut pentru stâncile sale abrupte și canioanele adânci. În antichitate, a servit ca reper pentru caravane. Împrejurimile conțin situri arheologice cu petroglife vechi de până la 5.000 de ani. Fauna include capre sălbatice, vulpi de deșert și păsări de pradă. Ascensiunea este dificilă și necesită abilități tehnice de alpinism.",
+      en: "Jabal Qidr is a prominent mountain in northwestern Saudi Arabia, rising about 1,500 meters from the desert plain. Composed of granite and volcanic rock, it is part of the Harrat al-Uwayrid volcanic field. The mountain features steep cliffs and deep gorges, and served as a landmark for ancient trade caravans. Archaeological sites in the area contain rock art dating back 5,000 years. Wildlife includes ibex, desert foxes, and raptors. Climbing Jabal Qidr is challenging and requires technical mountaineering skills.",
+    },
+    factsAdvanced: {
+      de: ["Jabal Qidr erreicht eine Höhe von 1.500 Metern.", "Der Berg liegt 100 Kilometer südwestlich von Tabuk.", "Die Felszeichnungen stammen aus dem 3. Jahrtausend v. Chr.", "Das Vulkanfeld Harrat al-Uwayrid bedeckt 12.000 Quadratkilometer.", "Die jährliche Niederschlagsmenge beträgt weniger als 50 Millimeter.", "Die Granitformationen sind rund 500 Millionen Jahre alt."],
+      hu: ["A Jabal Qidr magassága 1500 méter.", "Tabuktól 100 kilométerre délnyugatra található.", "A sziklarajzok a Kr. e. 3. évezredből származnak.", "A Harrat al-Uwayrid vulkanikus mező 12 000 négyzetkilométert fed le.", "Az éves csapadék kevesebb mint 50 milliméter.", "A gránitképződmények körülbelül 500 millió évesek."],
+      ro: ["Jabal Qidr are o altitudine de 1.500 de metri.", "Se află la 100 de kilometri sud-vest de Tabuk.", "Petroglifele datează din mileniul III î.Hr.", "Câmpul vulcanic Harrat al-Uwayrid acoperă 12.000 de kilometri pătrați.", "Precipitațiile anuale sunt sub 50 de milimetri.", "Formațiunile de granit au aproximativ 500 de milioane de ani."],
+      en: ["Height: 1,500 meters (4,921 feet).", "Located 100 kilometers southwest of Tabuk.", "Rock art dates to the 3rd millennium BCE.", "Harrat al-Uwayrid volcanic field covers 12,000 km².", "Annual rainfall is less than 50 mm (2 inches).", "Granite formations are about 500 million years old."],
+    },
   }
 ];

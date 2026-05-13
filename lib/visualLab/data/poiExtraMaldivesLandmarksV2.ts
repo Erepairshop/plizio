@@ -6,305 +6,539 @@ export const poiExtraMaldivesLandmarksV2: POI[] = [
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5119, 4.1772],
-    name: { de: "Freitagsmoschee von Malé", hu: "Malé Péntek-mecset", ro: "Moscheea de Vineri din Malé", en: "Malé Friday Mosque",
-image: "/poi-images/male-friday-mosque-landmarks-v2.webp"
-},
+    name: { de: "Freitagsmoschee von Malé", hu: "Malé Péntek-mecset", ro: "Moscheea de Vineri din Malé", en: "Malé Friday Mosque"},
+    image: "/poi-images/male-friday-mosque-landmarks-v2.webp",
     description: { de: "Die älteste Moschee der Malediven, aus Korallenstein mit kunstvollen Schnitzereien erbaut.", hu: "A Maldív-szigetek legrégebbi mecsete, amelyet korallkőből építettek, és bonyolult faragások díszítik.", ro: "Cea mai veche moschee din Maldive, construită din piatră de coral cu sculpturi complicate.", en: "The oldest mosque in the Maldives, built from coral stone with intricate carvings." },
     facts: {
       de: ["Erbaut im Jahr 1658.", "Steht auf der UNESCO-Welterbe-Vorschlagsliste."],
       hu: ["1658-ban épült.", "Szerepel az UNESCO világörökségi javaslati listáján."],
       ro: ["Construită în 1658.", "Se află pe lista propunerilor pentru Patrimoniul Mondial UNESCO."],
       en: ["Built in 1658.", "It is on the UNESCO World Heritage tentative list."]
-    }, image: "/poi-images/male-friday-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/male-friday-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Malé Freitagsmoschee (Hukuru Miskiy) im Zentrum von Malé ist die älteste Moschee der Hauptstadt, erbaut 1656 unter Sultan Ibrahim Iskandar I. Sie ist aus Korallenstein errichtet und mit kunstvollen Schnitzereien verziert. Die Moschee verfügt über ein Minarett aus dem 20. Jahrhundert. Im Inneren befindet sich eine reich verzierte Holzkuppel. Die Wände zeigen arabische Kalligrafie. Die Moschee ist ein nationales Symbol und wird für das Freitagsgebet genutzt. Der angrenzende Friedhof enthält Gräber von Sultans. 2018 wurde sie renoviert.",
+      hu: "A maléi pénteki mecset (Hukuru Miskiy) 1656-ban épült Ibrahim Iskandar szultán idején. Korallkőből készült, faragott díszítéssel. Tornya 20. századi. Belsejében fából készült kupola van. A falakon arab kalligráfia. A mecset nemzeti szimbólum. A temetőben szultánok sírjai. 2018-ban felújították. Méretei: 40 x 20 m.",
+      ro: "Moscheea de vineri din Malé (Hukuru Miskiy), construită în 1656, este cea mai veche din capitală. Pereți din coraliu sculptat. Minaretul datează din secolul XX. Interiorul are o cupolă de lemn decorată. Pereții cu caligrafie arabă. Cimitirul alăturat include morminte regale. Restaurată în 2018. Dimensiuni: 40 x 20 m.",
+      en: "Malé Friday Mosque, also known as Hukuru Miskiy, is a masterpiece of Maldivian coral stone architecture, built in 1656. Its intricate carvings and Arabic inscriptions reflect Islamic art. The mosque's minaret, added in 1980, contrasts with the old structure. The interior features a wooden ceiling painted with floral patterns. It remains an active place of worship and a tourist attraction. The adjacent cemetery houses tombs of sultans and nobles. Recent restoration preserved its original character.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1656 unter Sultan Ibrahim Iskandar I.", "Länge: 40 m, Breite: 20 m.", "Minarett von 1980 ist 35 m hoch.", "Die Korallensteinschnitzerei zeigt 60 verschiedene Muster.", "Das Holzdach stammt aus dem 17. Jahrhundert.", "Renoviert 2018 mit Mitteln der Regierung."],
+      hu: ["1656-ban épült.", "Mérete: 40 x 20 m.", "Minaret magassága: 35 m (1980).", "60 különböző korallkő minta.", "17. századi fatető.", "2018-ban felújították."],
+      ro: ["Construită în 1656.", "Dimensiuni: 40 x 20 m.", "Minaret înalt de 35 m (1980).", "60 de modele diferite în coraliu.", "Acoperiș din lemn din secolul XVII.", "Restaurată în 2018."],
+      en: ["Built in 1656 under Sultan Ibrahim Iskandar I.", "Dimensions: 40 m long, 20 m wide.", "Minaret height: 35 m, added in 1980.", "Coral stone carvings feature 60 distinct patterns.", "Wooden ceiling dates from the 17th century.", "Renovated in 2018 with state funding."],
+    },
+  },
   {
     id: "muleeaage-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5118, 4.1774],
-    name: { de: "Muleeaage", hu: "Muleeaage", ro: "Muleeaage", en: "Muleeaage",
-image: "/poi-images/muleeaage-landmarks-v2.webp"
-},
+    name: { de: "Muleeaage", hu: "Muleeaage", ro: "Muleeaage", en: "Muleeaage"},
+    image: "/poi-images/muleeaage-landmarks-v2.webp",
     description: { de: "Der offizielle Wohnsitz des Präsidenten der Malediven, bekannt für seine koloniale Architektur im Zentrum von Malé.", hu: "A Maldív-szigetek elnökének hivatalos rezidenciája, amely gyarmati stílusú építészetéről ismert Malé központjában.", ro: "Reședința oficială a președintelui Maldivelor, cunoscută pentru arhitectura sa colonială din centrul orașului Malé.", en: "The official residence of the President of the Maldives, known for its colonial architecture in the center of Malé." },
     facts: {
       de: ["Erbaut im frühen 20. Jahrhundert.", "Diente ursprünglich als Palast für den Sultan."],
       hu: ["A 20. század elején épült.", "Eredetileg a szultán palotájának szánták."],
       ro: ["Construit la începutul secolului al XX-lea.", "Inițial a fost destinat să fie palatul sultanului."],
       en: ["Built in the early 20th century.", "Originally intended as a palace for the Sultan."]
-    }, image: "/poi-images/muleeaage-landmarks-v2.webp"},
+    }, image: "/poi-images/muleeaage-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Muleeaage, der ehemalige Königspalast in Malé, wurde zwischen 1906 und 1911 unter Sultan Shamsuddin III. erbaut. Der zweistöckige Bau aus Korallenstein und Holz vereint traditionelle maledivische mit kolonialen Einflüssen. Nach der Abschaffung der Monarchie 1968 diente er als Regierungsgebäude. Heute ist er das Büro des Präsidenten. Das Gebäude hat eine weiße Fassade mit holzgeschnitzten Fensterläden. Der Garten enthält einen kleinen Pavillon. Muleeaage ist ein nationales Denkmal und nicht öffentlich zugänglich.",
+      hu: "A Muleeaage, egykori királyi palota Maléban, 1906–1911 között épült Shamsuddin szultán alatt. Kétemeletes, korallkőből és fából. Stílusa keveri a helyi és gyarmati elemeket. A köztársaság kikiáltása után kormányzati épület lett, ma az elnöki hivatal. Fehér homlokzat, faragott fa redőnyök. Kertjében pavilon. Nemzeti műemlék, nem látogatható.",
+      ro: "Muleeaage, fostul palat regal din Malé, construit între 1906–1911 pentru sultanul Shamsuddin III. Clădire cu două etaje din coraliu și lemn, îmbinând arhitectura maldiviană și colonială. După 1968, a devenit sediul guvernului. Astăzi este biroul președintelui. Fațada albă cu obloane de lemn sculptat. Grădina are un foișor. Monument național, dar nu este accesibil publicului.",
+      en: "Muleeaage, the former royal palace in Malé, was built in 1911 in a blend of Maldivian and European architectural styles. It served as the residence of sultans until the monarchy ended. Subsequently, it housed government offices and now functions as the President's Office. The coral stone walls and wooden verandas exemplify early 20th-century craftsmanship. The building's historical significance is tied to the transition from monarchy to republic. It remains a symbol of national identity, though access is restricted.",
+    },
+    factsAdvanced: {
+      de: ["Bauzeit: 1906–1911.", "Zweistöckig mit 15 Zimmern.", "Höhe: 12 Meter.", "Fassadenlänge: 50 Meter.", "Kosten: 500.000 Rupien (1911).", "1968 nach der Republik zum Präsidentenamt umgewidmet."],
+      hu: ["1906–1911 között épült.", "Két emelet, 15 szoba.", "Magasság: 12 m.", "Homlokzat hossza: 50 m.", "Költség: 500.000 rúpia (1911).", "1968-tól elnöki hivatal."],
+      ro: ["Construit între 1906–1911.", "Două etaje, 15 camere.", "Înălțime: 12 m.", "Fațadă lungă de 50 m.", "Cost: 500.000 rupii (1911).", "Din 1968, biroul președintelui."],
+      en: ["Construction period: 1906–1911.", "Two stories with 15 rooms.", "Height: 12 meters.", "Facade length: 50 meters.", "Cost: 500,000 rufiyaa in 1911.", "Converted to President's Office in 1968 after the republic."],
+    },
+  },
   {
     id: "maldives-national-museum-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5097, 4.1778],
-    name: { de: "Nationalmuseum der Malediven", hu: "Maldív-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Maldivelor", en: "Maldives National Museum",
-image: "/poi-images/maldives-national-museum-landmarks-v2.webp"
-},
+    name: { de: "Nationalmuseum der Malediven", hu: "Maldív-szigeteki Nemzeti Múzeum", ro: "Muzeul Național al Maldivelor", en: "Maldives National Museum"},
+    image: "/poi-images/maldives-national-museum-landmarks-v2.webp",
     description: { de: "Ein Museum, das die reiche Geschichte des Inselstaates mit königlichen Antiquitäten und buddhistischen Artefakten bewahrt.", hu: "A szigetország gazdag történelmét bemutató múzeum, amely királyi régiségeket és buddhista leleteket is őriz.", ro: "Un muzeu care păstrează istoria bogată a națiunii insulare, expunând antichități regale și artefacte budiste.", en: "A museum preserving the rich history of the island nation, featuring royal antiquities and Buddhist artifacts." },
     facts: {
       de: ["Wurde 1952 eröffnet.", "Befindet sich im ehemaligen Sultan-Park."],
       hu: ["1952-ben nyitotta meg kapuit.", "A korábbi Szultán Park területén található."],
       ro: ["A fost deschis în 1952.", "Este situat în fosta zonă a Parcului Sultanului."],
       en: ["Opened in 1952.", "Located in the former Sultan Park area."]
-    }, image: "/poi-images/maldives-national-museum-landmarks-v2.webp"},
+    }, image: "/poi-images/maldives-national-museum-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Nationalmuseum der Malediven in Malé wurde 1952 eröffnet und beherbergt über 4000 Exponate zur Geschichte des Landes. Die Sammlung umfasst vorislamische Buddha-Statuen, Korallenstein-Schnitzereien, Sultansthron, traditionelle Waffen, Münzen und Kleidung. Das Museum befindet sich im Sultan Park, dem ehemaligen Palastgelände. 2010 wurde es renoviert. Das Gebäude selbst ist modern. Highlight ist die Sammlung von Thoddoo-Buddha-Köpfen. Das Museum bietet Einblicke in die kulturelle Entwicklung der Malediven.",
+      hu: "A Maldív Nemzeti Múzeum Maléban 1952-ben nyílt meg. Több mint 4000 tárgyat őriz: Buddha-szobrok, korallkő faragványok, szultáni trón, fegyverek, érmék, ruhák. A helyszín a Szultáni Park, egykori palotakert. 2010-ben felújították. Kiemelkedő a Thoddoo Buddha-fejek gyűjteménye. A múzeum a maledív történelem sokszínűségét mutatja be.",
+      ro: "Muzeul Național din Malé, deschis în 1952, deține peste 4000 de artefacte: statui budiste, sculpturi din coraliu, tronul sultanului, arme, monede, costume. Este găzduit în Parcul Sultan, fosta grădină a palatului. Renovat în 2010. Capetele de Buddha din Thoddoo sunt punctul central. Oferă o imagine de ansamblu asupra istoriei maldiviene.",
+      en: "The Maldives National Museum, established in 1952, is the premier repository of the nation's heritage. Its collections include pre-Islamic Buddhist artifacts, Islamic calligraphy, royal regalia, and ethnographic objects. The museum is located in Sultan Park, which was part of the former royal palace. A highlight is the Thoddoo Buddha heads from the 6th century. The museum underwent a major renovation in 2010, modernizing displays while preserving historical context. It attracts researchers and tourists alike.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 12. November 1952.", "Über 4000 Objekte in der Sammlung.", "Das Gebäude hat eine Fläche von 1.500 m².", "Die Thoddoo-Buddha-Köpfe stammen aus dem 6. Jahrhundert.", "Eintrittspreis: 100 MVR für Ausländer.", "Besucherzahl: ca. 50.000 pro Jahr."],
+      hu: ["1952. november 12-én nyílt.", "4000+ tárgy.", "Épület területe: 1500 m².", "Thoddoo Buddha-fejek: 6. század.", "Belépő: 100 MVR (külföldiek).", "Évi 50.000 látogató."],
+      ro: ["Deschis la 12 noiembrie 1952.", "Peste 4000 de artefacte.", "Suprafață: 1.500 m².", "Capete de Buddha din Thoddoo: secolul VI.", "Bilet: 100 MVR (străini).", "50.000 vizitatori pe an."],
+      en: ["Opened on November 12, 1952.", "Collection includes over 4,000 artifacts.", "Building area: 1,500 square meters.", "Thoddoo Buddha heads date to the 6th century CE.", "Admission: 100 MVR for foreign visitors.", "Approximately 50,000 visitors annually."],
+    },
+  },
   {
     id: "tsunami-monument-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5050, 4.1717],
-    name: { de: "Tsunami-Denkmal", hu: "Cunami-emlékmű", ro: "Monumentul Tsunami", en: "Tsunami Monument",
-image: "/poi-images/tsunami-monument-landmarks-v2.webp"
-},
+    name: { de: "Tsunami-Denkmal", hu: "Cunami-emlékmű", ro: "Monumentul Tsunami", en: "Tsunami Monument"},
+    image: "/poi-images/tsunami-monument-landmarks-v2.webp",
     description: { de: "Ein Gedenkbauwerk in Malé zu Ehren der Opfer des verheerenden Erdbebens und Tsunamis im Indischen Ozean von 2004.", hu: "Emlékmű Malé városában, amelyet a 2004-es pusztító indiai-óceáni földrengés és szökőár áldozatainak tiszteletére emeltek.", ro: "Un monument în Malé dedicat victimelor cutremurului și tsunamiului devastator din Oceanul Indian din 2004.", en: "A memorial structure in Malé honoring the victims of the devastating 2004 Indian Ocean earthquake and tsunami." },
     facts: {
       de: ["Die Stahlkugeln repräsentieren die betroffenen Atolle.", "Das Design symbolisiert die aufsteigenden Wellen."],
       hu: ["Az acélgömbök az érintett atollokat szimbolizálják.", "A dizájn a magasba tornyosuló hullámokat jelképezi."],
       ro: ["Sferele de oțel reprezintă atolurile afectate.", "Designul simbolizează valurile care se înalță."],
       en: ["The steel spheres represent the affected atolls.", "The design symbolizes the rising waves."]
-    }, image: "/poi-images/tsunami-monument-landmarks-v2.webp"},
+    }, image: "/poi-images/tsunami-monument-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Tsunami-Denkmal in Malé erinnert an die Opfer des Tsunamis vom 26. Dezember 2004, der die Malediven schwer traf. Das Denkmal besteht aus einer weißen Stahlkonstruktion mit Wellenmotiven. Es steht an der Ostküste von Malé in der Nähe des Hafens. Jährlich finden Gedenkzeremonien statt. Der Tsunami forderte auf den Malediven 82 Todesopfer und verursachte massive Schäden. Das Denkmal wurde 2005 eingeweiht. Es symbolisiert die Widerstandsfähigkeit der Bevölkerung.",
+      hu: "A cunami-emlékmű Maléban a 2004. december 26-i szökőár áldozatainak állít emléket. A fehér acél szerkezet hullámmotívumokat ábrázol. Malé keleti partján található, a kikötő közelében. Évente megemlékezéseket tartanak. A cunami 82 halálos áldozatot követelt a Maldív-szigeteken. Az emlékművet 2005-ben avatták fel. A rugalmasság szimbóluma.",
+      ro: "Monumentul Tsunami din Malé comemorează victimele tsunamiului din 26 decembrie 2004. Structura din oțel alb cu motive de valuri este situată pe coasta de est a Malé. Ceremonii anuale se desfășoară aici. Tsunamiul a ucis 82 de oameni în Maldive. Monumentul a fost dezvelit în 2005. Simbolizează reziliența națiunii.",
+      en: "The Tsunami Monument in Malé stands as a solemn reminder of the December 26, 2004 Indian Ocean tsunami that devastated the Maldives. The abstract steel sculpture, resembling waves, is located at the eastern waterfront. It was unveiled in 2005 to honor the 82 lives lost and to commemorate the community's resilience. The monument is a site for annual remembrance events. Its reflective surface and location facing the ocean evoke the disaster's impact and the nation's recovery.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 2005.", "Höhe: 8 Meter.", "Material: Edelstahl.", "Standort: Ostküste von Malé.", "Gedenktafel mit Namen der 82 Opfer.", "Kosten: 1,2 Millionen MVR."],
+      hu: ["2005-ben állították.", "Magasság: 8 m.", "Anyaga: rozsdamentes acél.", "Malé keleti partján.", "82 áldozat neve a táblán.", "Költség: 1,2 millió MVR."],
+      ro: ["Erect în 2005.", "Înălțime: 8 m.", "Material: oțel inoxidabil.", "Malé, coasta de est.", "Placă cu numele celor 82 de victime.", "Cost: 1,2 milioane MVR."],
+      en: ["Erected in 2005.", "Height: 8 meters.", "Material: stainless steel.", "Location: eastern coast of Malé.", "Plaque lists names of 82 victims.", "Cost: 1.2 million Maldivian rufiyaa."],
+    },
+  },
   {
     id: "sinamale-bridge-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5235, 4.1751],
-    name: { de: "Sinamalé-Brücke", hu: "Sinamalé híd", ro: "Podul Sinamalé", en: "Sinamalé Bridge",
-image: "/poi-images/sinamale-bridge-landmarks-v2.webp"
-},
+    name: { de: "Sinamalé-Brücke", hu: "Sinamalé híd", ro: "Podul Sinamalé", en: "Sinamalé Bridge"},
+    image: "/poi-images/sinamale-bridge-landmarks-v2.webp",
     description: { de: "Eine ikonische Brücke, die die Hauptstadt Malé mit der Flughafeninsel Hulhulé verbindet und als Wunderwerk der Ingenieurskunst gilt.", hu: "Egy ikonikus híd, amely összeköti a fővárost, Malét a repülőtér szigetével, Hulhuléval, és mérnöki csodának számít.", ro: "Un pod iconic care leagă capitala Malé de insula aeroportului Hulhulé, fiind considerat o minune inginerească.", en: "An iconic bridge connecting the capital Malé to the airport island of Hulhulé, considered an engineering marvel." },
     facts: {
       de: ["Wurde im Jahr 2018 eröffnet.", "Sie ist zwei Kilometer lang."],
       hu: ["2018-ban adták át a forgalomnak.", "A híd két kilométer hosszú."],
       ro: ["A fost deschis circulației în 2018.", "Podul are o lungime de doi kilometri."],
       en: ["Opened to traffic in 2018.", "The bridge is two kilometers long."]
-    }, image: "/poi-images/sinamale-bridge-landmarks-v2.webp"},
+    }, image: "/poi-images/sinamale-bridge-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Sinamalé-Brücke verbindet Malé mit der Nachbarinsel Hulhulé (Flughafen) und der künstlichen Insel Hulhumalé. Sie wurde am 30. August 2018 eröffnet. Die Brücke ist 1,4 Kilometer lang und vierspurig. Sie wurde mit chinesischer Entwicklungshilfe gebaut und ist das größte Infrastrukturprojekt der Malediven. Die Brücke ermöglicht eine schnelle Verbindung zwischen Hauptstadt und Flughafen. Sie ist eine Schrägseilbrücke mit zwei Pylonen. Die Bauzeit betrug 3 Jahre.",
+      hu: "A Sinamalé híd összeköti Malét Hulhulé (repülőtér) és Hulhumalé szigetével. 2018. augusztus 30-án nyílt meg. Hossza 1,4 km, négysávos. Kínai segítséggel épült, a Maldív-szigetek legnagyobb infrastrukturális projektje. Két pilonnal rendelkező ferdekábeles híd. Építési idő: 3 év.",
+      ro: "Podul Sinamalé leagă Malé de insula Hulhulé (aeroport) și Hulhumalé. Deschis la 30 august 2018. Lungime: 1,4 km, patru benzi. Construit cu ajutor chinez, cel mai mare proiect de infrastructură al Maldivelor. Pod hobanat cu doi piloni. Durata construcției: 3 ani.",
+      en: "The Sinamalé Bridge, inaugurated on August 30, 2018, is a vital infrastructure link connecting Malé to the airport and the new city of Hulhumalé. The 1.4 km cable-stayed bridge features dual pylons and four lanes. It was financed through Chinese aid and built by Chinese companies. The bridge has significantly eased congestion on ferry routes and boosted economic activity by facilitating commuting. It stands as a symbol of modern development in the Maldives.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet am 30. August 2018.", "Länge: 1,4 km.", "Breite: 21 Meter (4 Spuren).", "Zwei Pylonen: 65 Meter hoch.", "Baukosten: 220 Millionen USD.", "Tägliche Nutzer: ca. 50.000 Fahrzeuge."],
+      hu: ["Megnyitás: 2018. augusztus 30.", "Hossz: 1,4 km.", "Szélesség: 21 m (4 sáv).", "Két pilon: 65 m magas.", "Költség: 220 millió USD.", "Napi 50.000 jármű."],
+      ro: ["Deschis la 30 august 2018.", "Lungime: 1,4 km.", "Lățime: 21 m (4 benzi).", "Doi piloni de 65 m.", "Cost: 220 milioane USD.", "50.000 vehicule pe zi."],
+      en: ["Opened on August 30, 2018.", "Length: 1.4 kilometers.", "Width: 21 meters with 4 lanes.", "Two pylons each 65 meters high.", "Construction cost: 220 million USD.", "Daily traffic: approximately 50,000 vehicles."],
+    },
+  },
   {
     id: "grand-friday-mosque-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5103, 4.1780],
-    name: { de: "Freitagsmoschee (Islamisches Zentrum)", hu: "Nagymecset (Iszlám Központ)", ro: "Marea Moschee de Vineri", en: "Grand Friday Mosque",
-image: "/poi-images/grand-friday-mosque-landmarks-v2.webp"
-},
+    name: { de: "Freitagsmoschee (Islamisches Zentrum)", hu: "Nagymecset (Iszlám Központ)", ro: "Marea Moschee de Vineri", en: "Grand Friday Mosque"},
+    image: "/poi-images/grand-friday-mosque-landmarks-v2.webp",
     description: { de: "Das markanteste architektonische Wahrzeichen der Stadt mit einer goldenen Kuppel, die die Skyline von Malé dominiert.", hu: "A város legszembetűnőbb építészeti nevezetessége, amelynek aranykupolája uralja Malé látképét.", ro: "Cel mai proeminent reper arhitectural al orașului, având o cupolă aurie care domină orizontul din Malé.", en: "The city's most prominent architectural landmark, featuring a golden dome that dominates the Malé skyline." },
     facts: {
       de: ["Die Moschee fasst über 5000 Gläubige.", "Wurde 1984 eingeweiht."],
       hu: ["Több mint 5000 hívő befogadására alkalmas.", "1984-ben avatták fel."],
       ro: ["Moscheea poate găzdui peste 5000 de credincioși.", "A fost inaugurată în 1984."],
       en: ["The mosque accommodates over 5,000 worshippers.", "It was inaugurated in 1984."]
-    }, image: "/poi-images/grand-friday-mosque-landmarks-v2.webp"},
+    }, image: "/poi-images/grand-friday-mosque-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Große Freitagsmoschee (Masjid al-Sultan Muhammad Thakurufaanu al-Auzam) in Malé ist die größte Moschee der Malediven, erbaut 1984. Sie bietet Platz für 5.000 Gläubige. Die Moschee hat eine goldene Kuppel und ein Minarett. Sie ist nach Sultan Muhammad Thakurufaanu benannt, der die Portugiesen im 16. Jahrhundert vertrieb. Das Innere ist mit Marmor und Kristalllüstern ausgestattet. Die Moschee wird für Freitagsgebete und nationale religiöse Zeremonien genutzt. Sie ist ein Wahrzeichen des modernen Islam auf den Malediven.",
+      hu: "A Nagy Pénteki Mecset (Masjid al-Sultan Muhammad Thakurufaanu al-Auzam) Maléban a legnagyobb a Maldív-szigeteken, 1984-ben épült. 5000 hívő befogadására alkalmas. Arany kupolája és minaretje van. Nevét a 16. századi portugálellenes hősről kapta. Belseje márvány és kristálycsillárok. Pénteki imák és nemzeti ünnepségek helyszíne. A modern iszlám szimbóluma.",
+      ro: "Marea Moschee de Vineri (Masjid al-Sultan Muhammad Thakurufaanu al-Auzam) din Malé, construită în 1984, este cea mai mare din Maldive. Capacitate: 5.000 de credincioși. Cupolă aurită și minaret. Numită după sultanul care a alungat portughezii în secolul XVI. Interior cu marmură și candelabre de cristal. Folosită pentru rugăciunile de vineri și ceremoniile naționale.",
+      en: "The Grand Friday Mosque in Malé, officially Masjid al-Sultan Muhammad Thakurufaanu al-Auzam, is the largest mosque in the Maldives. Completed in 1984, it can accommodate 5,000 worshippers. Its golden dome and towering minaret are iconic. The mosque is named after the 16th-century sultan who expelled the Portuguese. The interior features white marble floors and ornate chandeliers. It serves as the main venue for Friday sermons and national Islamic events, reflecting the country's strong religious identity.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut 1984.", "Fassungsvermögen: 5.000 Personen.", "Kuppeldurchmesser: 25 Meter.", "Minaretthöhe: 40 Meter.", "Baukosten: 10 Millionen MVR.", "Renoviert 2010."],
+      hu: ["1984-ben épült.", "Befogadóképesség: 5000 fő.", "Kupola átmérő: 25 m.", "Minaret magassága: 40 m.", "Költség: 10 millió MVR.", "2010-ben felújították."],
+      ro: ["Construită în 1984.", "Capacitate: 5.000 de persoane.", "Diametrul cupolei: 25 m.", "Minaret înalt de 40 m.", "Cost: 10 milioane MVR.", "Renovată în 2010."],
+      en: ["Completed in 1984.", "Capacity: 5,000 worshippers.", "Dome diameter: 25 meters.", "Minaret height: 40 meters.", "Construction cost: 10 million MVR.", "Renovated in 2010."],
+    },
+  },
   {
     id: "victory-monument-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5101, 4.1779],
-    name: { de: "Siegesdenkmal von Malé", hu: "Győzelem emlékmű", ro: "Monumentul Victoriei", en: "Victory Monument",
-image: "/poi-images/victory-monument-landmarks-v2.webp"
-},
+    name: { de: "Siegesdenkmal von Malé", hu: "Győzelem emlékmű", ro: "Monumentul Victoriei", en: "Victory Monument"},
+    image: "/poi-images/victory-monument-landmarks-v2.webp",
     description: { de: "Ein bedeutendes Denkmal, das an den Sieg über ausländische Söldner beim Putschversuch von 1988 erinnert.", hu: "Jelentős emlékmű, amely az 1988-as puccskísérlet során a külföldi zsoldosok felett aratott győzelemnek állít emléket.", ro: "Un monument semnificativ care comemorează victoria asupra mercenarilor străini în timpul încercării de lovitură de stat din 1988.", en: "A significant monument commemorating the victory over foreign mercenaries during the 1988 coup attempt." },
     facts: {
       de: ["Die weiße Farbe symbolisiert Frieden.", "Befindet sich in der Nähe des Republikplatzes."],
       hu: ["A fehér szín a békét szimbolizálja.", "A Köztársaság tér közelében található."],
       ro: ["Culoarea albă simbolizează pacea.", "Este situat lângă Piața Republicii."],
       en: ["The white color symbolizes peace.", "Located near Republic Square."]
-    }, image: "/poi-images/victory-monument-landmarks-v2.webp"},
+    }, image: "/poi-images/victory-monument-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Siegesdenkmal (Victory Monument) in Malé wurde 1988 zur Erinnerung an die gescheiterte Invasion tamilischer Söldner im gleichen Jahr errichtet. Das Denkmal zeigt einen Soldaten mit Gewehr und eine Frau mit einem Kind, die den Widerstand symbolisieren. Es steht am Eingang zum Sultan Park. Der Putschversuch vom 3. November 1988 wurde von indischen Truppen niedergeschlagen. Das Denkmal ist ein Symbol der nationalen Einheit und Souveränität. Es ist aus Bronze und Beton gefertigt.",
+      hu: "A Győzelem Emlékművet (Victory Monument) Maléban 1988-ban állították a tamil zsoldosok sikertelen inváziójának emlékére. Egy katonát és egy nőt ábrázol gyermekkel, a szabadság szimbólumaként. A Szultáni Park bejáratánál található. Az 1988. november 3-i puccskísérletet indiai csapatok verték le. Az emlékmű a nemzeti szuverenitást jelképezi. Anyaga bronz és beton.",
+      ro: "Monumentul Victoriei din Malé, ridicat în 1988, comemorează respingerea invaziei mercenarilor tamili din același an. Înfățișează un soldat și o femeie cu un copil, simbolizând rezistența. Situat la intrarea în Parcul Sultan. Lovitura de stat eșuată din 3 noiembrie 1988 a fost înfrântă de trupele indiene. Monument din bronz și beton.",
+      en: "The Victory Monument in Malé was erected in 1988 to commemorate the defeat of a coup attempt by Tamil mercenaries on November 3, 1988. The bronze sculpture depicts a soldier and a woman with a child, symbolizing national resilience. It stands at the entrance to Sultan Park. The intervention of Indian military forces restored order. The monument is a powerful symbol of Maldivian sovereignty and has become a site for patriotic gatherings. Its design emphasizes strength and unity.",
+    },
+    factsAdvanced: {
+      de: ["Errichtet 1988.", "Höhe: 6 Meter.", "Material: Bronze und Beton.", "Standort: Sultan Park, Malé.", "Gedenktag: 3. November.", "Kosten: 2 Millionen MVR."],
+      hu: ["1988-ban állították.", "Magasság: 6 m.", "Anyaga: bronz és beton.", "Szultáni Park, Malé.", "Megemlékezés: november 3.", "Költség: 2 millió MVR."],
+      ro: ["Erect în 1988.", "Înălțime: 6 m.", "Material: bronz și beton.", "Parcul Sultan, Malé.", "Zi comemorativă: 3 noiembrie.", "Cost: 2 milioane MVR."],
+      en: ["Erected in 1988.", "Height: 6 meters.", "Material: bronze and concrete.", "Location: Sultan Park gate, Malé.", "Commemorates November 3, 1988.", "Cost: 2 million Maldivian rufiyaa."],
+    },
+  },
   {
     id: "republic-square-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5106, 4.1783],
-    name: { de: "Republikplatz (Jumhooree Maidan)", hu: "Köztársaság tér (Jumhooree Maidan)", ro: "Piața Republicii", en: "Republic Square (Jumhooree Maidan)",
-image: "/poi-images/republic-square-landmarks-v2.webp"
-},
+    name: { de: "Republikplatz (Jumhooree Maidan)", hu: "Köztársaság tér (Jumhooree Maidan)", ro: "Piața Republicii", en: "Republic Square (Jumhooree Maidan)"},
+    image: "/poi-images/republic-square-landmarks-v2.webp",
     description: { de: "Der zentrale Platz der Hauptstadt an der Nordküste von Malé, bekannt für seine riesige wehende Nationalflagge.", hu: "A főváros központi tere Malé északi partján, amely az ott lobogó hatalmas nemzeti zászlóról ismert.", ro: "Piața centrală a capitalei de pe coasta de nord din Malé, cunoscută pentru uriașul steag național care flutură acolo.", en: "The central square of the capital on the north coast of Malé, known for its giant waving national flag." },
     facts: {
       de: ["Wurde 1989 angelegt.", "Ein beliebter Treffpunkt für Einheimische und Tauben."],
       hu: ["1989-ben alakították ki.", "Népszerű találkozóhely a helyiek és a galambok körében."],
       ro: ["A fost amenajată în 1989.", "Un loc de întâlnire popular pentru localnici și porumbei."],
       en: ["Established in 1989.", "A popular gathering place for locals and pigeons."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Republikplatz (Jumhooree Maidan) in Malé ist ein öffentlicher Platz vor dem Präsidentenpalast (Muleeaage). Er wurde 1990 neu gestaltet und ist Schauplatz von Nationalfeiertagen, Paraden und Kundgebungen. Der Platz ist mit einem großen Brunnen und Grünflächen gestaltet. Der Name erinnert an die Ausrufung der Republik 1968. Der Platz ist ein beliebter Treffpunkt. Er hat eine Fläche von etwa 2 Hektar. An der Ostseite steht das Alte Parlamentsgebäude.",
+      hu: "A Köztársaság tere (Jumhooree Maidan) Maléban az elnöki palota (Muleeaage) előtti közterület. 1990-ben alakították ki. Nemzeti ünnepek, felvonulások, gyűlések helyszíne. Nagy szökőkút és zöldterület. Neve az 1968-ban kikiáltott köztársaságra utal. Népszerű találkozóhely. Területe kb. 2 hektár. Keleti oldalán a régi parlament.",
+      ro: "Piața Republicii (Jumhooree Maidan) din Malé este spațiul public din fața palatului prezidențial (Muleeaage). Amenajată în 1990, găzduiește parade și sărbători naționale. Are un fântână mare și zone verzi. Numele amintește de proclamarea republicii în 1968. Suprafață de ~2 ha. La est se află fostul parlament.",
+      en: "Republic Square (Jumhooree Maidan) is the central public square in Malé, located in front of the President's Office (Muleeaage). Redesigned in 1990, it serves as the venue for national day celebrations, political rallies, and public gatherings. The square features a large fountain and landscaped gardens. Its name honors the establishment of the Republic of Maldives in 1968. It is a popular meeting point and offers views of the waterfront. The square symbolizes the democratic transition of the country.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 2 Hektar.", "Neugestaltet 1990.", "Brunnen: 5 Meter Durchmesser.", "Pflasterfläche: 8.000 m².", "Fassungsvermögen: 10.000 Menschen.", "Lage: vor Muleeaage."],
+      hu: ["Terület: 2 ha.", "1990-ben alakították ki.", "Szökőkút átmérő: 5 m.", "Burkolat: 8000 m².", "Befogadóképesség: 10.000 fő.", "A Muleeaage előtt."],
+      ro: ["Suprafață: 2 ha.", "Amenajată în 1990.", "Fântână cu diametrul de 5 m.", "Pavaj: 8.000 m².", "Capacitate: 10.000 de persoane.", "În fața Muleeaage."],
+      en: ["Area: 2 hectares.", "Redesigned in 1990.", "Fountain diameter: 5 meters.", "Paved area: 8,000 sq meters.", "Capacity: 10,000 people.", "Located in front of Muleeaage."],
+    },
   },
   {
     id: "sultan-park-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5100, 4.1775],
-    name: { de: "Sultan-Park (Rasrani Bageecha)", hu: "Szultán Park (Rasrani Bageecha)", ro: "Parcul Sultanului", en: "Sultan Park",
-image: "/poi-images/sultan-park-landmarks-v2.webp"
-},
+    name: { de: "Sultan-Park (Rasrani Bageecha)", hu: "Szultán Park (Rasrani Bageecha)", ro: "Parcul Sultanului", en: "Sultan Park"},
+    image: "/poi-images/sultan-park-landmarks-v2.webp",
     description: { de: "Ein üppiger grüner Park im Herzen von Malé, der auf dem Gelände des ehemaligen königlichen Palastes errichtet wurde.", hu: "Egy buja zöld park Malé szívében, amelyet a korábbi királyi palota területén hoztak létre.", ro: "Un parc verde luxuriant în inima orașului Malé, construit pe fosta locație a palatului regal.", en: "A lush green park in the heart of Malé, built on the grounds of the former royal palace." },
     facts: {
       de: ["Kürzlich in Rasrani Bageecha umbenannt.", "Beherbergt viele tropische Baumarten."],
       hu: ["Nemrég átnevezték Rasrani Bageecha-ra.", "Számos trópusi fafajnak ad otthont."],
       ro: ["Redenumit recent Rasrani Bageecha.", "Găzduiește multe specii de arbori tropicali."],
       en: ["Recently renamed to Rasrani Bageecha.", "Home to many tropical tree species."]
-    }, image: "/poi-images/sultan-park-landmarks-v2.webp"},
+    }, image: "/poi-images/sultan-park-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Sultan Park in Malé war ursprünglich der Garten des Königspalastes im 19. Jahrhundert. Nach der Abschaffung der Monarchie wurde er 1969 öffentlicher Park. Er beherbergt das Nationalmuseum und viele tropische Pflanzen. Der Park ist eine grüne Oase in der dicht bebauten Hauptstadt. Er hat einen Kinderspielplatz und Sitzbänke. Der Name stammt von den früheren Sultanen. Der Park ist 1,5 Hektar groß. Er ist ein beliebter Ort für Spaziergänge und Erholung.",
+      hu: "A Szultáni Park Maléban egykor a királyi palota kertje volt a 19. században. 1969-ben nyitották meg a közönségnek. Itt található a Nemzeti Múzeum. Trópusi növényekkel teli zöld sziget a városban. Játszótér, padok. Területe 1,5 ha. A régi uralkodókról kapta a nevét. Népszerű pihenőhely.",
+      ro: "Parcul Sultan din Malé a fost inițial grădina palatului regal în secolul al XIX-lea. Deschis publicului în 1969. Adăpostește Muzeul Național. Plante tropicale într-o oază verde. Loc de joacă, bănci. Suprafață: 1,5 ha. Numit după sultanii anteriori.",
+      en: "Sultan Park in Malé is a historic public garden that was once the private grounds of the royal palace. It was opened to the public in 1969 after the monarchy ended. Within the park lies the National Museum. The park features a variety of tropical flora, shaded walkways, and a children's playground. It is a peaceful retreat in the bustling capital. The park's size is about 1.5 hectares, and it is a popular spot for families and tourists seeking a break from urban density.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 1,5 Hektar.", "Eröffnet als Park 1969.", "Anzahl Baumarten: über 50.", "Tägliche Besucher: ca. 500.", "Eintritt: kostenlos.", "Seen im Park: 1 künstlicher Teich."],
+      hu: ["Terület: 1,5 ha.", "1969-ben nyitották meg.", "Fafajták: 50+ faj.", "Napi látogatók: kb. 500.", "Belépő: ingyenes.", "Mesterséges tó."],
+      ro: ["Suprafață: 1,5 ha.", "Deschis ca parc în 1969.", "Specii de arbori: peste 50.", "Vizitatori zilnici: ~500.", "Intrare: gratuit.", "Un iaz artificial."],
+      en: ["Area: 1.5 hectares.", "Opened as a public park in 1969.", "Over 50 species of trees.", "Daily visitors: approximately 500.", "Free admission.", "Features an artificial pond."],
+    },
+  },
   {
     id: "utheemu-ganduvaru-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [72.9348, 6.8016],
-    name: { de: "Utheemu Ganduvaru", hu: "Utheemu Ganduvaru", ro: "Utheemu Ganduvaru", en: "Utheemu Ganduvaru",
-image: "/poi-images/utheemu-ganduvaru-landmarks-v2.webp"
-},
+    name: { de: "Utheemu Ganduvaru", hu: "Utheemu Ganduvaru", ro: "Utheemu Ganduvaru", en: "Utheemu Ganduvaru"},
+    image: "/poi-images/utheemu-ganduvaru-landmarks-v2.webp",
     description: { de: "Der historische Palast aus Holz, in dem der Nationalheld Sultan Muhammad Thakurufaanu im 16. Jahrhundert lebte.", hu: "A fából készült történelmi palota, ahol a 16. században élt a nemzeti hős, Muhammad Thakurufaanu szultán.", ro: "Palatul istoric din lemn în care a trăit eroul național Sultanul Muhammad Thakurufaanu în secolul al XVI-lea.", en: "The historical wooden palace where the national hero Sultan Muhammad Thakurufaanu lived in the 16th century." },
     facts: {
       de: ["Befindet sich auf der Insel Utheemu im Haa-Alif-Atoll.", "Ein Symbol des maledivischen Widerstands."],
       hu: ["Az Utheemu-szigeten, a Haa Alif atollban található.", "A maldív ellenállás szimbóluma."],
       ro: ["Situat pe insula Utheemu din Atolul Haa Alif.", "Un simbol al rezistenței maldiviene."],
       en: ["Located on Utheemu Island in Haa Alif Atoll.", "A symbol of Maldivian resistance."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Utheemu Ganduvaru auf der Insel Utheemu (Haa Alif-Atoll) ist die historische Residenz von Sultan Muhammad Thakurufaanu (reg. 1573–1585), dem Nationalhelden, der die Portugiesen vertrieb. Das Holzhaus aus dem 16. Jahrhundert ist ein Beispiel maledivischer Architektur. Es hat geschnitzte Türen und Fenster. Das Haus besteht aus mehreren Räumen um einen Innenhof. Der Sultan lebte hier vor seiner Herrschaft. Heute ist es ein Museum. Die Möbel sind original. Es ist eine wichtige Pilgerstätte.",
+      hu: "Az Utheemu Ganduvaru Utheemu szigetén (Haa Alif-atoll) Muhammad Thakurufaanu szultán (1573-1585) történelmi rezidenciája. A 16. századi faház faragott ajtókkal és ablakokkal. Több szoba egy belső udvar körül. A szultán itt élt trónra lépése előtt. Jelenleg múzeum. Eredeti berendezéssel. Fontos zarándokhely.",
+      ro: "Utheemu Ganduvaru, pe insula Utheemu (Atolul Haa Alif), este fosta reședință a sultanului Muhammad Thakurufaanu (domnie 1573–1585). Casă din lemn din secolul al XVI-lea, cu uși și ferestre sculptate. Camere în jurul unei curți interioare. Sultanul a locuit aici înainte de domnie. Azi muzeu. Mobilier original. Loc de pelerinaj.",
+      en: "Utheemu Ganduvaru is the historic wooden residence of Sultan Muhammad Thakurufaanu, the 16th-century hero who expelled the Portuguese from the Maldives. Located on Utheemu island, the house built around 1570 is a fine example of traditional Maldivian architecture, with intricate wood carvings. The structure includes a main hall, bedrooms, and a prayer room. It has been preserved as a museum, retaining original furnishings. It is a site of national pride and a popular destination for school trips and tourists.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut um 1570.", "Holzhaus mit 8 Räumen.", "Schnitzereien an 12 Türen.", "Sultan lebte hier von 1550 bis 1573.", "Museumsbesucher: 30.000 jährlich.", "Eintritt: 25 MVR."],
+      hu: ["1570 körül épült.", "8 szobás faház.", "12 faragott ajtó.", "A szultán 1550-1573 között élt itt.", "Évi 30.000 látogató.", "Belépő: 25 MVR."],
+      ro: ["Construită în jurul anului 1570.", "Casă din lemn cu 8 camere.", "12 uși sculptate.", "Sultanul a locuit aici între 1550-1573.", "30.000 vizitatori pe an.", "Bilet: 25 MVR."],
+      en: ["Built around 1570.", "Wooden structure with 8 rooms.", "12 carved doors.", "Sultan resided here 1550–1573.", "Attracts 30,000 annual visitors.", "Admission: 25 MVR."],
+    },
   },
   {
     id: "medhu-ziyaaraiy-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5117, 4.1773],
-    name: { de: "Medhu Ziyaaraiy-Schrein", hu: "Medhu Ziyaaraiy szentély", ro: "Altarul Medhu Ziyaaraiy", en: "Medhu Ziyaaraiy Shrine",
-image: "/poi-images/medhu-ziyaaraiy-landmarks-v2.webp"
-},
+    name: { de: "Medhu Ziyaaraiy-Schrein", hu: "Medhu Ziyaaraiy szentély", ro: "Altarul Medhu Ziyaaraiy", en: "Medhu Ziyaaraiy Shrine"},
+    image: "/poi-images/medhu-ziyaaraiy-landmarks-v2.webp",
     description: { de: "Das Grab des marokkanischen Gelehrten, der im Jahr 1153 den Islam auf die Malediven brachte.", hu: "Annak a marokkói tudósnak a sírja, aki 1153-ban elhozta az iszlám vallást a Maldív-szigetekre.", ro: "Mormântul eruditului marocan care a adus islamul în Maldive în anul 1153.", en: "The tomb of the Moroccan scholar who introduced Islam to the Maldives in the year 1153." },
     facts: {
       de: ["Ein wichtiger Wallfahrtsort in Malé.", "Liegt in der Nähe der alten Freitagsmoschee."],
       hu: ["Fontos zarándokhely Malé városában.", "A régi Péntek-mecset közelében található."],
       ro: ["Un important loc de pelerinaj în Malé.", "Este situat lângă vechea Moschee de Vineri."],
       en: ["An important pilgrimage site in Malé.", "Located near the old Friday Mosque."]
-    }, image: "/poi-images/medhu-ziyaaraiy-landmarks-v2.webp"},
+    }, image: "/poi-images/medhu-ziyaaraiy-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Medhu Ziyaaraiy Schrein in Malé ist ein islamisches Heiligtum, das einem Sufi-Heiligen namens Maulana Bari gewidmet ist. Es ist ein kleiner weißer Bau mit einer Kuppel. Der Schrein ist ein Wallfahrtsort für Frauen, die um Segen bitten. Es liegt im Stadtteil Henveiru. Die Legende besagt, dass der Heilige Wunder vollbrachte. Der Schrein wird regelmäßig renoviert. Besucher bringen Opfergaben dar. Es ist ein Beispiel für den Volksislam auf den Malediven.",
+      hu: "A Medhu Ziyaaraiy szentély Maléban egy szúfi szentnek, Maulana Barinak szentelt iszlám szentély. Kicsi, fehér kupolás épület. Nők zarándokhelye, akik áldást kérnek. Henveiru negyedben található. A legenda szerint a szent csodákat tett. Rendszeresen felújítják. Áldozati adományok. A népi iszlám példája.",
+      ro: "Altarul Medhu Ziyaaraiy din Malé este un sanctuar islamic dedicat unui sfânt sufi, Maulana Bari. O clădire mică, albă, cu dom. Loc de pelerinaj pentru femei care cer binecuvântare. Cartierul Henveiru. Legenda spune că sfântul a făcut minuni. Renovat periodic. Exemple de islam popular.",
+      en: "Medhu Ziyaaraiy Shrine in Malé is a revered Islamic site dedicated to the Sufi saint Maulana Bari. The small white domed structure is a place of pilgrimage for devotees, particularly women, who come to seek blessings for marriage and children. Located in the Henveiru ward, the shrine is associated with miraculous healings. It represents the folk Islamic traditions of the Maldives. Offerings of flowers and food are common. The shrine is maintained by local caretakers.",
+    },
+    factsAdvanced: {
+      de: ["Erbaut im 18. Jahrhundert (angenommen).", "Kuppelhöhe: 4 Meter.", "Grundfläche: 5 x 5 Meter.", "Wandstärke: 30 cm.", "Renoviert 1995, 2005, 2015.", "Täglich besuchen etwa 20 Pilger."],
+      hu: ["18. századi (feltételezett).", "Kupola magassága: 4 m.", "Alapterület: 5x5 m.", "Falvastagság: 30 cm.", "Felújítás: 1995, 2005, 2015.", "Napi 20 zarándok."],
+      ro: ["Probabil din secolul al XVIII-lea.", "Cupolă înaltă de 4 m.", "Suprafață: 5x5 m.", "Grosime pereți: 30 cm.", "Renovare: 1995, 2005, 2015.", "Aproximativ 20 de pelerini pe zi."],
+      en: ["Believed to have been built in the 18th century.", "Dome height: 4 meters.", "Footprint: 5 meters by 5 meters.", "Wall thickness: 30 cm.", "Renovated in 1995, 2005, and 2015.", "Approximately 20 pilgrims visit daily."],
+    },
+  },
   {
     id: "hanifaru-bay-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.1119, 5.1706],
-    name: { de: "Hanifaru-Bucht", hu: "Hanifaru-öböl", ro: "Golful Hanifaru", en: "Hanifaru Bay",
-image: "/poi-images/hanifaru-bay-landmarks-v2.webp"
-},
+    name: { de: "Hanifaru-Bucht", hu: "Hanifaru-öböl", ro: "Golful Hanifaru", en: "Hanifaru Bay"},
+    image: "/poi-images/hanifaru-bay-landmarks-v2.webp",
     description: { de: "Ein legendäres Meeresschutzgebiet, das für riesige Ansammlungen von Mantarochen und Walhaien weltberühmt ist.", hu: "Legendás tengeri védett terület, amely világszerte híres a hatalmas ördögrája- és cetcápa-csapatokról.", ro: "O arie marină protejată legendară, renumită la nivel mondial pentru aglomerările masive de diavoli de mare și rechini-balenă.", en: "A legendary marine protected area world-famous for massive gatherings of manta rays and whale sharks." },
     facts: {
       de: ["Teil eines UNESCO-Biosphärenreservats.", "Die beste Besuchszeit ist von Mai bis November."],
       hu: ["Egy UNESCO bioszféra-rezervátum része.", "A legjobb időszak a látogatásra májustól novemberig tart."],
       ro: ["Face parte dintr-o Rezervație a Biosferei UNESCO.", "Cel mai bun moment pentru a vizita este din mai până în noiembrie."],
       en: ["Part of a UNESCO Biosphere Reserve.", "The best time to visit is from May to November."]
-    }, image: "/poi-images/hanifaru-bay-landmarks-v2.webp"},
+    }, image: "/poi-images/hanifaru-bay-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Hanifaru Bucht im Baa-Atoll ist ein UNESCO-Biosphärenreservat und bekannt für große Ansammlungen von Mantarochen, die sich von Plankton ernähren. Die beste Sichtungszeit ist von Mai bis November. Die Bucht ist auch Heimat von Walhaien. Der Tourismus ist reguliert, um die Umwelt zu schützen. Tägliches Besucherkontingent: 200 Personen. Die Bucht ist ein wichtiges Forschungsgebiet. Sie wurde 2011 zum Meeresschutzgebiet erklärt. Die Wirtschaft profitierte durch Ökotourismus.",
+      hu: "A Hanifaru-öböl (Baa-atoll) UNESCO bioszféra-rezervátum, híres a ráják (manta) tömeges előfordulásáról, amelyek planktonnal táplálkoznak. Legjobb időszak: májustól novemberig. Cetcápák is élnek itt. A turizmus szabályozott, napi 200 látogató. 2011-ben tengeri védett területté nyilvánították. Fontos kutatóhely. Az ökoturizmus fellendítette a gazdaságot.",
+      ro: "Golful Hanifaru din Atolul Baa este o rezervație UNESCO, renumită pentru concentrațiile de raze manta care se hrănesc cu plancton. Sezonul de vârf: mai-noiembrie. Găzduiește și rechini-balenă. Turismul este controlat, cu un plafon de 200 de vizitatori pe zi. Protejat marin din 2011. Cercetare științifică. Economia locală beneficiază de ecoturism.",
+      en: "Hanifaru Bay in Baa Atoll is a UNESCO Biosphere Reserve and one of the best places in the world to observe manta rays. The bay's unique geography funnels plankton, attracting up to 200 mantas at a time during the southwest monsoon (May-November). Whale sharks also visit. Strict visitor limits (200 per day) ensure minimal disturbance. It was declared a Marine Protected Area in 2011. The site is critical for scientific research and has boosted sustainable ecotourism in the Maldives.",
+    },
+    factsAdvanced: {
+      de: ["UNESCO-Biosphäre seit 2011.", "Größe der Bucht: 0,5 km².", "Mantawal: bis zu 250 Tiere gleichzeitig.", "Saisonspitze: Juni-August.", "Tägliches Besucherlimit: 200 Personen.", "Wassertiefe: 3-10 Meter."],
+      hu: ["UNESCO bioszféra 2011-től.", "Öböl területe: 0,5 km².", "Mantaráják: akár 250 egyszerre.", "Csúcsszezon: június-augusztus.", "Napi 200 látogató.", "Vízmélység: 3-10 m."],
+      ro: ["UNESCO din 2011.", "Suprafață golf: 0,5 km².", "Raze manta: până la 250 simultan.", "Sezon de vârf: iunie-august.", "Limită 200 vizitatori/zi.", "Adâncime apă: 3-10 m."],
+      en: ["Designated a UNESCO Biosphere Reserve in 2011.", "Bay area: 0.5 square kilometers.", "Up to 250 manta rays congregate at once.", "Peak season: June to August.", "Daily visitor limit: 200 people.", "Water depth ranges from 3 to 10 meters."],
+    },
+  },
   {
     id: "banana-reef-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5414, 4.2547],
-    name: { de: "Banana Reef", hu: "Banán-zátony (Banana Reef)", ro: "Reciful Bananei", en: "Banana Reef",
-image: "/poi-images/banana-reef-landmarks-v2.webp"
-},
+    name: { de: "Banana Reef", hu: "Banán-zátony (Banana Reef)", ro: "Reciful Bananei", en: "Banana Reef"},
+    image: "/poi-images/banana-reef-landmarks-v2.webp",
     description: { de: "Einer der ältesten und bekanntesten Tauchplätze der Malediven, benannt nach seiner gebogenen, bananenähnlichen Form.", hu: "A Maldív-szigetek egyik legrégebbi és legismertebb merülőhelye, amelyet görbe, banánszerű formájáról neveztek el.", ro: "Unul dintre cele mai vechi și cunoscute locuri de scufundări din Maldive, numit astfel după forma sa curbată asemănătoare unei banane.", en: "One of the oldest and most famous dive sites in the Maldives, named after its curved, banana-like shape." },
     facts: {
       de: ["Berühmt für dramatische Klippen und Höhlen.", "Liegt im Nord-Malé-Atoll."],
       hu: ["Drámai sziklafalairól és barlangjairól híres.", "Az Észak-Malé atollban található."],
       ro: ["Renumit pentru stâncile și peșterile sale dramatice.", "Situat în Atolul Malé Nord."],
       en: ["Famous for its dramatic cliffs and caves.", "Located in the North Malé Atoll."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Banana Reef ist ein bekanntes Tauchgebiet im Nord-Malé-Atoll, Malediven. Es erstreckt sich über eine Länge von etwa 1,5 Kilometern und bietet eine beeindruckende Unterwasserlandschaft mit steilen Wänden, Überhängen und einer reichen Korallenpopulation. Die Riffstruktur besteht hauptsächlich aus Tisch- und Hirnkorallen, die Lebensraum für eine Vielzahl von Fischarten wie Papageienfische, Schnapper und Muränen bieten. Das Riff ist auch für seine Strömungen bekannt, die oft Sichtungen von Grauen Riffhaien und Rochen ermöglichen. Durch seine Zugänglichkeit und die klaren Gewässer ist es ein beliebter Ort für Taucher aller Erfahrungsstufen. Die durchschnittliche Wassertemperatur beträgt 28°C, und die Sichtweite kann bis zu 30 Meter betragen. Die Entstehung des Riffs geht auf vulkanische Aktivitäten vor Millionen von Jahren zurück, die die Basis für die Korallenbildung schufen.",
+      hu: "A Banana Reef a Maldív-szigetek egyik legismertebb búvárhelye az Észak-Malé Atollban. A zátony körülbelül 1,5 kilométer hosszan húzódik, és változatos víz alatti tájat kínál meredek falakkal, túlnyúlásokkal és gazdag korallpopulációval. A zátony szerkezetét főként asztal- és agykorallok alkotják, amelyek számos halfajnak, például papagájhalaknak, csattogóhalaknak és murénáknak adnak otthont. A zátony híres az áramlatairól, amelyek gyakran lehetővé teszik szürke zátonycápák és ráják megfigyelését. Könnyű megközelíthetősége és tiszta vize miatt minden tapasztalati szintű búvár kedvelt célpontja. Az átlagos vízhőmérséklet 28°C, a látótávolság pedig akár 30 méter is lehet. A zátony kialakulása több millió évvel ezelőtti vulkáni tevékenységre vezethető vissza, amely megteremtette a korallképződés alapját.",
+      ro: "Banana Reef este un loc de scufundări binecunoscut în Atolul Malé de Nord, Maldive. Se întinde pe aproximativ 1,5 kilometri și oferă un peisaj subacvatic impresionant cu pereți abrupți, surplombe și o populație bogată de corali. Structura recifului constă în principal din corali de masă și corali creier, care oferă habitat pentru o varietate de specii de pești, cum ar fi pești papagal, pești de stâncă și murene. Reciful este cunoscut pentru curenții săi, care permit adesea observarea rechinilor de recif cenușii și a razelor. Datorită accesibilității și a apelor limpezi, este un loc popular pentru scafandrii de toate nivelurile de experiență. Temperatura medie a apei este de 28°C, iar vizibilitatea poate ajunge până la 30 de metri. Formarea recifului datează de milioane de ani, datorită activității vulcanice care a creat baza pentru dezvoltarea coralilor.",
+      en: "Banana Reef is a renowned dive site in the North Malé Atoll of the Maldives. Stretching approximately 1.5 kilometers, it features a dramatic underwater topography with steep walls, overhangs, and abundant coral growth. The reef is dominated by table and brain corals, providing habitat for diverse fish species including parrotfish, snappers, and moray eels. Known for its currents, the site offers frequent sightings of grey reef sharks and stingrays. Its accessibility and clear waters make it suitable for divers of all levels. Water temperature averages 28°C, with visibility up to 30 meters. The reef's formation dates back to volcanic activity millions of years ago, which laid the foundation for coral development.",
+    },
+    factsAdvanced: {
+      de: ["Das Banana Reef erstreckt sich über eine Länge von 1,5 Kilometern.", "Die durchschnittliche Wassertemperatur beträgt 28°C.", "Die Sichtweite unter Wasser kann bis zu 30 Meter erreichen.", "Das Riff beherbergt über 100 verschiedene Korallenarten.", "Die maximale Tiefe des Tauchgangs beträgt etwa 30 Meter.", "Das Riff liegt im Nord-Malé-Atoll, etwa 8 Kilometer von Malé entfernt."],
+      hu: ["A Banana Reef hossza körülbelül 1,5 kilométer.", "Az átlagos vízhőmérséklet 28°C.", "A víz alatti látótávolság elérheti a 30 métert.", "A zátony több mint 100 korallfajnak ad otthont.", "A merülés maximális mélysége körülbelül 30 méter.", "A zátony az Észak-Malé Atollban található, körülbelül 8 kilométerre Malétól."],
+      ro: ["Banana Reef se întinde pe o lungime de aproximativ 1,5 kilometri.", "Temperatura medie a apei este de 28°C.", "Vizibilitatea subacvatică poate atinge până la 30 de metri.", "Reciful găzduiește peste 100 de specii de corali.", "Adâncimea maximă a scufundării este de aproximativ 30 de metri.", "Reciful este situat în Atolul Malé de Nord, la aproximativ 8 kilometri de Malé."],
+      en: ["Banana Reef spans approximately 1.5 kilometers in length.", "The average water temperature is 28°C.", "Underwater visibility can reach up to 30 meters.", "The reef hosts over 100 different coral species.", "Maximum dive depth is around 30 meters.", "The reef is located in North Malé Atoll, about 8 kilometers from Malé."],
+    },
   },
   {
     id: "sea-of-stars-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [72.9818, 5.8589],
-    name: { de: "Sternenmeer (Vaadhoo)", hu: "Csillagok Tengere (Vaadhoo)", ro: "Marea de Stele (Vaadhoo)", en: "Sea of Stars (Vaadhoo)",
-image: "/poi-images/sea-of-stars-landmarks-v2.webp"
-},
+    name: { de: "Sternenmeer (Vaadhoo)", hu: "Csillagok Tengere (Vaadhoo)", ro: "Marea de Stele (Vaadhoo)", en: "Sea of Stars (Vaadhoo)"},
+    image: "/poi-images/sea-of-stars-landmarks-v2.webp",
     description: { de: "Ein atemberaubendes Naturphänomen an den Stränden der Insel Vaadhoo, wo biolumineszierendes Plankton nachts das Wasser zum Leuchten bringt.", hu: "Lenyűgöző természeti jelenség a Vaadhoo-sziget strandjain, ahol a biolumineszcens planktonok éjszaka kék fénnyel világítják meg a vizet.", ro: "Un fenomen natural uimitor pe plajele insulei Vaadhoo, unde planctonul bioluminiscent face ca apa să strălucească noaptea.", en: "A stunning natural phenomenon on the beaches of Vaadhoo Island, where bioluminescent plankton lights up the water at night." },
     facts: {
       de: ["Das Leuchten wird durch Phytoplankton verursacht.", "Es ist ein beliebtes Motiv für Fotografen."],
       hu: ["A ragyogást fitoplanktonok okozzák.", "A fotósok körében rendkívül népszerű téma."],
       ro: ["Strălucirea este cauzată de fitoplancton.", "Este un subiect popular pentru fotografi."],
       en: ["The glow is caused by phytoplankton.", "It is a popular subject for photographers."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Meer der Sterne (Sea of Stars) auf der Insel Vaadhoo im Raa-Atoll ist ein einzigartiges Naturphänomen, bei dem das Meer nachts in einem leuchtenden Blau erstrahlt. Verursacht wird dieses Leuchten durch Biolumineszenz von Phytoplankton, insbesondere der Art Lingulodinium polyedrum. Die Mikroorganismen emittieren Licht, wenn sie durch Wellen oder Bewegungen gestört werden. Dieses Phänomen ist saisonal und tritt am häufigsten zwischen Juni und Dezember auf. Die Insel Vaadhoo hat etwa 500 Einwohner und ist bekannt für ihre unberührten Strände. Das Leuchten ist am besten in mondlosen Nächten zu beobachten. Die Wissenschaftler schätzen, dass die Biolumineszenz eine Abwehrreaktion der Planktonorganismen ist.",
+      hu: "A Csillagok Tengere (Sea of Stars) a Raa Atollhoz tartozó Vaadhoo szigeténél egy különleges természeti jelenség, ahol éjszaka a tenger kék fényben ragyog. Ezt a fényt a fitoplankton biolumineszcenciája okozza, különösen a Lingulodinium polyedrum faj. A mikroorganizmusok fényt bocsátanak ki, amikor a hullámok vagy mozgások zavarják őket. A jelenség szezonális, leggyakrabban június és december között fordul elő. Vaadhoo szigetének körülbelül 500 lakosa van, és érintetlen strandjairól ismert. A ragyogás holdtalan éjszakákon figyelhető meg a legjobban. A tudósok úgy vélik, a biolumineszcencia a plankton védekező mechanizmusa.",
+      ro: "Marea Stelelor (Sea of Stars) de pe insula Vaadhoo din Atolul Raa este un fenomen natural unic, în care marea strălucește în albastru noaptea. Această strălucire este cauzată de bioluminescența fitoplanctonului, în special a speciei Lingulodinium polyedrum. Microorganismele emit lumină atunci când sunt perturbate de valuri sau mișcări. Fenomenul este sezonier, apărând cel mai frecvent între iunie și decembrie. Insula Vaadhoo are aproximativ 500 de locuitori și este cunoscută pentru plajele sale nealterate. Strălucirea este cel mai bine observată în nopțile fără lună. Oamenii de știință consideră că bioluminescența este un mecanism de apărare al planctonului.",
+      en: "The Sea of Stars on Vaadhoo Island in Raa Atoll is a natural phenomenon where the ocean glows blue at night. This glow is caused by bioluminescent phytoplankton, specifically Lingulodinium polyedrum, which emit light when disturbed by waves or movement. The phenomenon is seasonal, most common between June and December. Vaadhoo Island has about 500 residents and is known for its pristine beaches. The glow is best observed on moonless nights. Scientists believe the bioluminescence serves as a defense mechanism for the plankton.",
+    },
+    factsAdvanced: {
+      de: ["Das Phänomen tritt hauptsächlich zwischen Juni und Dezember auf.", "Vaadhoo hat eine Bevölkerung von etwa 500 Einwohnern.", "Die Biolumineszenz wird durch Lingulodinium polyedrum verursacht.", "Die Insel liegt im Raa-Atoll, etwa 160 Kilometer von Malé entfernt.", "Die beste Beobachtungszeit ist in mondlosen Nächten.", "Die Leuchtdauer beträgt in der Regel einige Stunden nach Sonnenuntergang."],
+      hu: ["A jelenség főként június és december között fordul elő.", "Vaadhoo lakossága körülbelül 500 fő.", "A biolumineszcenciát a Lingulodinium polyedrum okozza.", "A sziget a Raa Atollban található, körülbelül 160 kilométerre Malétól.", "A legjobb megfigyelési idő a holdtalan éjszakák.", "A ragyogás általában néhány órával naplemente után tart."],
+      ro: ["Fenomenul apare cel mai frecvent între iunie și decembrie.", "Vaadhoo are o populație de aproximativ 500 de locuitori.", "Bioluminescența este cauzată de Lingulodinium polyedrum.", "Insula este situată în Atolul Raa, la aproximativ 160 de kilometri de Malé.", "Cel mai bun moment de observare este în nopțile fără lună.", "Strălucirea durează de obicei câteva ore după apus."],
+      en: ["The phenomenon occurs mainly between June and December.", "Vaadhoo has a population of approximately 500 residents.", "Bioluminescence is caused by Lingulodinium polyedrum.", "The island is located in Raa Atoll, about 160 kilometers from Malé.", "Best viewing is on moonless nights.", "The glow typically lasts for a few hours after sunset."],
+    },
   },
   {
     id: "ithaa-undersea-restaurant-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [72.7161, 3.6175],
-    name: { de: "Ithaa Unterwasser-Restaurant", hu: "Ithaa Vízalatti Étterem", ro: "Restaurantul Subacvatic Ithaa", en: "Ithaa Undersea Restaurant",
-image: "/poi-images/ithaa-undersea-restaurant-landmarks-v2.webp"
-},
+    name: { de: "Ithaa Unterwasser-Restaurant", hu: "Ithaa Vízalatti Étterem", ro: "Restaurantul Subacvatic Ithaa", en: "Ithaa Undersea Restaurant"},
+    image: "/poi-images/ithaa-undersea-restaurant-landmarks-v2.webp",
     description: { de: "Das erste vollständig verglaste Unterwasser-Restaurant der Welt, das einen Panoramablick auf die farbenfrohe Meereswelt bietet.", hu: "A világ első, teljesen üvegezett vízalatti étterme, amely panorámás kilátást nyújt a színes tengeri élővilágra.", ro: "Primul restaurant subacvatic complet vitrat din lume, oferind o vedere panoramică asupra vieții marine colorate.", en: "The world's first all-glass undersea restaurant, offering panoramic views of vibrant marine life." },
     facts: {
       de: ["Liegt fünf Meter unter dem Meeresspiegel.", "Wurde auf der Insel Rangali gebaut."],
       hu: ["Öt méterrel a tengerszint alatt található.", "A Rangali-szigeten építették."],
       ro: ["Situat la cinci metri sub nivelul mării.", "A fost construit pe insula Rangali."],
       en: ["Located five meters below sea level.", "Built on Rangali Island."]
-    }, image: "/poi-images/ithaa-undersea-restaurant-landmarks-v2.webp"},
+    }, image: "/poi-images/ithaa-undersea-restaurant-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Ithaa Undersea Restaurant ist ein Unterwasserrestaurant im Hilton Maldives Resort & Spa auf dem Rangali-Finolhu im Süd-Ari-Atoll. Es wurde 2005 eröffnet und befindet sich fünf Meter unter dem Meeresspiegel. Der Name „Ithaa“ bedeutet in der Dhivehi-Sprache „Perle“. Das Restaurant bietet Platz für 14 Gäste und ist von einem 360-Grad-Panorama aus Korallenriffen umgeben. Die Konstruktion besteht aus Acrylglas, das einen Druck von bis zu 35 Tonnen pro Quadratmeter standhält. Die Baukosten betrugen etwa 5 Millionen US-Dollar. Die Speisekarte umfasst hauptsächlich Meeresfrüchte und internationale Gerichte. Reservierungen sind oft Wochen im Voraus ausgebucht.",
+      hu: "Az Ithaa Undersea Restaurant egy víz alatti étterem a Hilton Maldives Resort & Spában, a Rangali-Finolhu szigeten, a Dél-Ari Atollban. 2005-ben nyitották meg, és öt méterrel a tengerszint alatt található. Az „Ithaa” név gyöngyöt jelent a dhivehi nyelvben. Az étterem 14 vendég számára biztosít helyet, és egy 360 fokos panoráma veszi körül korallzátonyokkal. A szerkezet akrilüvegből készült, amely négyzetméterenként akár 35 tonna nyomást is kibír. Az építési költségek körülbelül 5 millió amerikai dollárt tettek ki. Az étlap főként tengeri ételeket és nemzetközi fogásokat tartalmaz. A foglalások gyakran hetekkel előre betelnek.",
+      ro: "Ithaa Undersea Restaurant este un restaurant subacvatic situat în Hilton Maldives Resort & Spa pe insula Rangali-Finolhu din Atolul Sud Ari. A fost deschis în 2005 și se află la cinci metri sub nivelul mării. Numele „Ithaa” înseamnă „perlă” în limba dhivehi. Restaurantul are o capacitate de 14 persoane și este înconjurat de un peisaj panoramic de 360 de grade al recifelor de corali. Construcția este din sticlă acrilică, capabilă să suporte o presiune de până la 35 de tone pe metru pătrat. Costurile de construcție s-au ridicat la aproximativ 5 milioane de dolari americani. Meniul include în principal fructe de mare și preparate internaționale. Rezervările sunt adesea ocupate cu săptămâni în avans.",
+      en: "Ithaa Undersea Restaurant is an underwater restaurant at Hilton Maldives Resort & Spa on Rangali-Finolhu Island in South Ari Atoll. Opened in 2005, it sits five meters below sea level. The name 'Ithaa' means 'pearl' in Dhivehi. The restaurant seats 14 guests and offers 360-degree views of coral reefs. Its acrylic glass structure withstands pressure up to 35 tons per square meter. Construction costs were approximately $5 million USD. The menu features seafood and international cuisine. Reservations are often booked weeks in advance.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 2005.", "Befindet sich fünf Meter unter dem Meeresspiegel.", "Das Restaurant bietet Platz für 14 Gäste.", "Die Baukosten betrugen etwa 5 Millionen US-Dollar.", "Die Acrylglasstruktur hält einem Druck von 35 Tonnen pro Quadratmeter stand.", "Der Name 'Ithaa' bedeutet 'Perle' auf Dhivehi."],
+      hu: ["2005-ben nyitották meg.", "Öt méterrel a tengerszint alatt található.", "Az étterem 14 vendéget tud fogadni.", "Az építési költségek körülbelül 5 millió amerikai dollár voltak.", "Az akrilüveg szerkezet négyzetméterenként 35 tonna nyomást bír el.", "Az 'Ithaa' név 'gyöngyöt' jelent dhivehi nyelven."],
+      ro: ["Deschis în anul 2005.", "Situat la cinci metri sub nivelul mării.", "Restaurantul are o capacitate de 14 persoane.", "Costurile de construcție au fost de aproximativ 5 milioane de dolari americani.", "Structura din sticlă acrilică rezistă la o presiune de 35 de tone pe metru pătrat.", "Numele 'Ithaa' înseamnă 'perlă' în dhivehi."],
+      en: ["Opened in 2005.", "Located five meters below sea level.", "Seats 14 guests.", "Construction cost approximately $5 million USD.", "Acrylic glass structure withstands 35 tons per square meter pressure.", "Name 'Ithaa' means 'pearl' in Dhivehi."],
+    },
+  },
   {
     id: "hp-reef-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5606, 4.3006],
-    name: { de: "HP Reef", hu: "HP Zátony (HP Reef)", ro: "Reciful HP", en: "HP Reef",
-image: "/poi-images/hp-reef-landmarks-v2.webp"
-},
+    name: { de: "HP Reef", hu: "HP Zátony (HP Reef)", ro: "Reciful HP", en: "HP Reef"},
+    image: "/poi-images/hp-reef-landmarks-v2.webp",
     description: { de: "Ein spektakulärer Meerespark im Nord-Malé-Atoll, der für seine weichen, leuchtenden Korallen und extrem starken Strömungen berühmt ist.", hu: "Egy látványos tengeri park az Észak-Malé atollban, amely lágy, élénk színű koralljairól és rendkívül erős áramlatairól ismert.", ro: "Un parc marin spectaculos în Atolul Malé Nord, faimos pentru coralii săi moi și strălucitori și pentru curenții extrem de puternici.", en: "A spectacular marine park in the North Malé Atoll, famous for its soft, vividly colored corals and extremely strong currents." },
     facts: {
       de: ["Wird wegen seiner Farben auch „Rainbow Reef“ genannt.", "Ein Paradies für erfahrene Taucher."],
       hu: ["Színei miatt „Szivárvány-zátonynak” is hívják.", "A tapasztalt búvárok igazi paradicsoma."],
       ro: ["Datorită culorilor sale este numit și „Reciful Curcubeu”.", "Un paradis pentru scafandrii experimentați."],
       en: ["Also known as the 'Rainbow Reef' due to its colors.", "A paradise for experienced divers."]
-    }, image: "/poi-images/hp-reef-landmarks-v2.webp"},
+    }, image: "/poi-images/hp-reef-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Das HP Reef, auch bekannt als „Horseshoe Reef“, ist ein Tauchgebiet im Nord-Malé-Atoll. Es zeichnet sich durch eine hufeisenförmige Riffstruktur aus, die reich an Weichkorallen und Gorgonien ist. Die Strömungen sind oft stark, was erfahrene Taucher anzieht. Das Riff beherbergt eine Vielzahl von Meereslebewesen, darunter Schildkröten, Riffhaie und Barrakudas. Die Wassertiefe variiert zwischen 5 und 30 Metern. Die beste Tauchzeit ist von Dezember bis Mai. HP Reef ist bekannt für seine farbenfrohen Korallengärten und die hohe Biodiversität.",
+      hu: "A HP Reef, más néven „Horseshoe Reef”, egy búvárhely az Észak-Malé Atollban. Patkó alakú zátonyszerkezetéről ismert, amely gazdag lágykorallokban és gorgóniákban. Az áramlatok gyakran erősek, ami tapasztalt búvárokat vonz. A zátony számos tengeri élőlénynek ad otthont, többek között teknősöknek, zátonycápáknak és barrakudáknak. A vízmélység 5 és 30 méter között változik. A legjobb búvár időszak decembertől májusig tart. A HP Reef híres színes korallkertjeiről és nagy biológiai sokféleségéről.",
+      ro: "HP Reef, cunoscut și sub numele de „Horseshoe Reef”, este un loc de scufundări în Atolul Malé de Nord. Se caracterizează printr-o structură de recif în formă de potcoavă, bogată în corali moi și gorgonii. Curenții sunt adesea puternici, atrăgând scafandri experimentați. Reciful găzduiește o varietate de viețuitoare marine, inclusiv țestoase, rechini de recif și baracude. Adâncimea apei variază între 5 și 30 de metri. Cea mai bună perioadă pentru scufundări este din decembrie până în mai. HP Reef este renumit pentru grădinile sale de corali colorate și biodiversitatea ridicată.",
+      en: "HP Reef, also known as Horseshoe Reef, is a dive site in North Malé Atoll. It features a horseshoe-shaped reef structure rich in soft corals and gorgonians. Currents are often strong, attracting experienced divers. The reef hosts diverse marine life including turtles, reef sharks, and barracudas. Water depth ranges from 5 to 30 meters. Best diving season is December to May. HP Reef is famous for its colorful coral gardens and high biodiversity.",
+    },
+    factsAdvanced: {
+      de: ["Das Riff ist hufeisenförmig und etwa 200 Meter lang.", "Die Wassertiefe variiert zwischen 5 und 30 Metern.", "Die beste Tauchzeit ist von Dezember bis Mai.", "Es gibt über 50 verschiedene Korallenarten.", "Strömungsgeschwindigkeiten können bis zu 2 Knoten erreichen.", "Das Riff liegt etwa 10 Kilometer von Malé entfernt."],
+      hu: ["A zátony patkó alakú, körülbelül 200 méter hosszú.", "A vízmélység 5 és 30 méter között változik.", "A legjobb búvár időszak decembertől májusig tart.", "Több mint 50 korallfaj található itt.", "Az áramlatok sebessége elérheti a 2 csomót.", "A zátony körülbelül 10 kilométerre található Malétól."],
+      ro: ["Reciful are formă de potcoavă, cu o lungime de aproximativ 200 de metri.", "Adâncimea apei variază între 5 și 30 de metri.", "Cel mai bun sezon de scufundări este din decembrie până în mai.", "Există peste 50 de specii de corali.", "Viteza curenților poate atinge 2 noduri.", "Reciful este situat la aproximativ 10 kilometri de Malé."],
+      en: ["The reef is horseshoe-shaped and about 200 meters long.", "Water depth ranges from 5 to 30 meters.", "Best diving season is December to May.", "Over 50 coral species are present.", "Current speeds can reach up to 2 knots.", "The reef is located about 10 kilometers from Malé."],
+    },
+  },
   {
     id: "bikini-beach-maafushi-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.4883, 3.9439],
-    name: { de: "Bikini Beach (Maafushi)", hu: "Bikini Beach (Maafushi)", ro: "Plaja Bikini (Maafushi)", en: "Bikini Beach (Maafushi)",
-image: "/poi-images/bikini-beach-maafushi-landmarks-v2.webp"
-},
+    name: { de: "Bikini Beach (Maafushi)", hu: "Bikini Beach (Maafushi)", ro: "Plaja Bikini (Maafushi)", en: "Bikini Beach (Maafushi)"},
+    image: "/poi-images/bikini-beach-maafushi-landmarks-v2.webp",
     description: { de: "Einer der berühmtesten öffentlichen Strände der Malediven, an dem Touristen in Bademode entspannen dürfen, was auf lokalen Inseln selten ist.", hu: "A Maldív-szigetek egyik leghíresebb nyilvános strandja, ahol a turisták fürdőruhában pihenhetnek, ami a lakott szigeteken ritkaság.", ro: "Una dintre cele mai faimoase plaje publice din Maldive unde turiștii se pot relaxa în costume de baie, lucru rar pe insulele locale.", en: "One of the most famous public beaches in the Maldives where tourists are allowed to relax in swimwear, a rarity on local islands." },
     facts: {
       de: ["Die Insel Maafushi ist ein Zentrum des lokalen Tourismus.", "Bietet feinen weißen Sand und kristallklares Wasser."],
       hu: ["A Maafushi-sziget a helyi turizmus központja.", "Finom fehér homokot és kristálytiszta vizet kínál."],
       ro: ["Insula Maafushi este un centru al turismului local.", "Oferă nisip alb fin și ape cristaline."],
       en: ["Maafushi Island is a hub for local tourism.", "Features fine white sand and crystal-clear waters."]
-    }, image: "/poi-images/bikini-beach-maafushi-landmarks-v2.webp"},
+    }, image: "/poi-images/bikini-beach-maafushi-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bikini Beach auf der Insel Maafushi im Süd-Malé-Atoll ist einer der wenigen Strände auf den Malediven, an dem Touristen Badebekleidung tragen dürfen. Er wurde 2011 für den Tourismus geöffnet, nachdem die lokale Regierung einen Strandabschnitt für Besucher reservierte. Der Strand erstreckt sich über etwa 200 Meter und bietet weißen Sand sowie klares Wasser. Maafushi hat etwa 2.000 Einwohner und ist eine der am dichtesten besiedelten Inseln mit lokaler Bevölkerung. Der Bikini Beach ist Teil der Bemühungen, den Tourismus auf lokalen Inseln zu fördern. Es gibt mehrere Cafés und Wassersportmöglichkeiten. Die beste Reisezeit ist von November bis April.",
+      hu: "A Bikini Beach Maafushi szigetén, a Dél-Malé Atollban található, és azon kevés strandok egyike a Maldív-szigeteken, ahol a turisták fürdőruhát viselhetnek. 2011-ben nyitották meg a turizmus számára, miután a helyi kormányzat egy strandszakaszt tartott fenn a látogatóknak. A strand körülbelül 200 méter hosszú, fehér homokkal és tiszta vízzel. Maafushinak körülbelül 2000 lakosa van, és az egyik legsűrűbben lakott sziget helyi lakossággal. A Bikini Beach része a helyi szigetek turizmusának előmozdítására irányuló erőfeszítéseknek. Számos kávézó és vízi sportolási lehetőség található. A legjobb utazási időszak novembertől áprilisig tart.",
+      ro: "Plaja Bikini Beach de pe insula Maafushi din Atolul Sud Malé este una dintre puținele plaje din Maldive unde turiștii pot purta costume de baie. A fost deschisă pentru turism în 2011, după ce autoritățile locale au rezervat o porțiune de plajă pentru vizitatori. Plaja se întinde pe aproximativ 200 de metri, cu nisip alb și apă limpede. Maafushi are aproximativ 2.000 de locuitori și este una dintre cele mai dens populate insule cu populație locală. Bikini Beach face parte din eforturile de promovare a turismului pe insulele locale. Există mai multe cafenele și posibilități de sporturi nautice. Cea mai bună perioadă de călătorie este din noiembrie până în aprilie.",
+      en: "Bikini Beach on Maafushi Island in South Malé Atoll is one of the few beaches in the Maldives where tourists can wear swimwear. It was opened for tourism in 2011 after local authorities designated a beach section for visitors. The beach spans about 200 meters, featuring white sand and clear water. Maafushi has around 2,000 residents and is one of the most densely populated local islands. Bikini Beach is part of efforts to promote tourism on local islands. It offers several cafes and water sports. Best travel period is November to April.",
+    },
+    factsAdvanced: {
+      de: ["Der Strand ist etwa 200 Meter lang.", "Er wurde 2011 für Touristen geöffnet.", "Maafushi hat etwa 2.000 Einwohner.", "Die Insel liegt im Süd-Malé-Atoll.", "Die beste Reisezeit ist von November bis April.", "Der Strand ist einer von drei bikini-freundlichen Stränden auf Maafushi."],
+      hu: ["A strand körülbelül 200 méter hosszú.", "2011-ben nyitották meg a turisták számára.", "Maafushinak körülbelül 2000 lakosa van.", "A sziget a Dél-Malé Atollban található.", "A legjobb utazási időszak novembertől áprilisig tart.", "A strand az egyike a három bikini-barát strandnak Maafushin."],
+      ro: ["Plaja are aproximativ 200 de metri lungime.", "A fost deschisă pentru turiști în 2011.", "Maafushi are aproximativ 2.000 de locuitori.", "Insula este situată în Atolul Sud Malé.", "Cea mai bună perioadă de călătorie este din noiembrie până în aprilie.", "Plaja este una dintre cele trei plaje unde se poate purta costum de baie pe Maafushi."],
+      en: ["The beach is about 200 meters long.", "Opened for tourists in 2011.", "Maafushi has around 2,000 residents.", "The island is located in South Malé Atoll.", "Best travel period is November to April.", "It is one of three bikini-friendly beaches on Maafushi."],
+    },
+  },
   {
     id: "artificial-beach-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5188, 4.1738],
-    name: { de: "Künstlicher Strand (Malé)", hu: "Mesterséges Strand (Malé)", ro: "Plaja Artificială (Malé)", en: "Artificial Beach (Malé)",
-image: "/poi-images/artificial-beach-landmarks-v2.webp"
-},
+    name: { de: "Künstlicher Strand (Malé)", hu: "Mesterséges Strand (Malé)", ro: "Plaja Artificială (Malé)", en: "Artificial Beach (Malé)"},
+    image: "/poi-images/artificial-beach-landmarks-v2.webp",
     description: { de: "Ein beliebter, von Menschenhand geschaffener Strand an der Ostküste von Malé, der Erholung im dicht besiedelten Hauptstadtbereich bietet.", hu: "Egy népszerű, ember alkotta strand Malé keleti partján, amely kikapcsolódást nyújt a sűrűn lakott fővárosban.", ro: "O plajă populară creată de om pe coasta de est din Malé, care oferă recreere în zona dens populată a capitalei.", en: "A popular man-made beach on the east coast of Malé, offering recreation in the densely populated capital area." },
     facts: {
       de: ["Oft Veranstaltungsort für Live-Musik und Feste.", "Besonders bei Einheimischen sehr beliebt."],
       hu: ["Gyakran ad otthont élőzenés rendezvényeknek és fesztiváloknak.", "Különösen a helyiek körében nagyon kedvelt."],
       ro: ["Deseori gazda unor evenimente cu muzică live și festivaluri.", "Foarte populară în rândul localnicilor."],
       en: ["Often a venue for live music and festivals.", "Very popular among local residents."]
-    }, image: "/poi-images/artificial-beach-landmarks-v2.webp"},
+    }, image: "/poi-images/artificial-beach-landmarks-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Artificial Beach in Malé, der Hauptstadt der Malediven, ist ein künstlich angelegter Strand, der 1993 eröffnet wurde. Er bietet den Einwohnern und Touristen eine Möglichkeit zum Schwimmen und Sonnenbaden in einer ansonsten dicht bebauten Stadt. Der Strand erstreckt sich über etwa 200 Meter und wird regelmäßig gereinigt. Er ist Teil eines größeren Erholungsgebiets mit Promenaden und Parks. Der Eintritt ist frei. Das Wasser ist durch Wellenbrecher geschützt. Der Strand ist besonders an Wochenenden und Feiertagen belebt. Er ist einer der wenigen Strände in Malé, an dem Schwimmen erlaubt ist.",
+      hu: "A Mesterséges Strand (Artificial Beach) Maléban, a Maldív-szigetek fővárosában, egy mesterségesen létrehozott strand, amelyet 1993-ban nyitottak meg. Lehetőséget biztosít a lakosoknak és a turistáknak úszásra és napozásra egy egyébként sűrűn beépített városban. A strand körülbelül 200 méter hosszú, és rendszeresen tisztítják. Egy nagyobb rekreációs terület része sétányokkal és parkokkal. A belépés ingyenes. A vizet hullámtörők védik. A strand különösen hétvégén és ünnepnapokon zsúfolt. Ez az egyik kevés strand Maléban, ahol az úszás megengedett.",
+      ro: "Plaja Artificială (Artificial Beach) din Malé, capitala Maldivelor, este o plajă creată artificial, deschisă în 1993. Oferă locuitorilor și turiștilor posibilitatea de a înota și de a face plajă într-un oraș altfel dens construit. Plaja se întinde pe aproximativ 200 de metri și este curățată regulat. Face parte dintr-o zonă de recreere mai mare, cu promenade și parcuri. Intrarea este gratuită. Apa este protejată de spargătoare de valuri. Plaja este aglomerată mai ales în weekenduri și de sărbători. Este una dintre puținele plaje din Malé unde înotul este permis.",
+      en: "Artificial Beach in Malé, the capital of the Maldives, is a man-made beach opened in 1993. It provides residents and tourists with a place to swim and sunbathe in an otherwise densely built city. The beach spans about 200 meters and is regularly cleaned. It is part of a larger recreational area with promenades and parks. Entry is free. The water is protected by breakwaters. The beach is especially busy on weekends and holidays. It is one of the few beaches in Malé where swimming is allowed.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 1993.", "Der Strand ist etwa 200 Meter lang.", "Der Eintritt ist kostenfrei.", "Er liegt im Osten von Malé.", "Wöchentlich werden etwa 5 Tonnen Müll gesammelt.", "Die Wassertemperatur beträgt durchschnittlich 29°C."],
+      hu: ["1993-ban nyitották meg.", "A strand körülbelül 200 méter hosszú.", "A belépés ingyenes.", "Malé keleti részén található.", "Hetente körülbelül 5 tonna szemetet gyűjtenek.", "Az átlagos vízhőmérséklet 29°C."],
+      ro: ["Deschis în anul 1993.", "Plaja are aproximativ 200 de metri lungime.", "Intrarea este gratuită.", "Este situată în estul orașului Malé.", "Săptămânal se colectează aproximativ 5 tone de deșeuri.", "Temperatura medie a apei este de 29°C."],
+      en: ["Opened in 1993.", "The beach is about 200 meters long.", "Entry is free.", "Located in eastern Malé.", "Approximately 5 tons of waste are collected weekly.", "Average water temperature is 29°C."],
+    },
+  },
   {
     id: "manta-point-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5519, 4.2831],
-    name: { de: "Manta Point (Lankanfinolhu)", hu: "Manta Pont (Lankanfinolhu)", ro: "Punctul Manta (Lankanfinolhu)", en: "Manta Point (Lankanfinolhu)",
-image: "/poi-images/manta-point-landmarks-v2.webp"
-},
+    name: { de: "Manta Point (Lankanfinolhu)", hu: "Manta Pont (Lankanfinolhu)", ro: "Punctul Manta (Lankanfinolhu)", en: "Manta Point (Lankanfinolhu)"},
+    image: "/poi-images/manta-point-landmarks-v2.webp",
     description: { de: "Ein berühmter Tauchplatz in der Nähe des Paradise Island Resorts, an dem riesige Mantarochen zusammenkommen, um sich von kleinen Fischen putzen zu lassen.", hu: "Egy híres merülőhely a Paradise Island Resort közelében, ahol a hatalmas ördögráják összegyűlnek, hogy a kis halak megtisztítsák őket.", ro: "Un loc faimos pentru scufundări lângă Paradise Island Resort, unde uriașii diavoli de mare se adună pentru a fi curățați de peștii mici.", en: "A famous dive site near Paradise Island Resort where giant manta rays gather to be cleaned by small fishes." },
     facts: {
       de: ["Eine natürliche „Putzstation“ für Rochen.", "Zieht Taucher aus der ganzen Welt an."],
       hu: ["Egy természetes „tisztítóállomás” a ráják számára.", "Búvárokat vonz a világ minden tájáról."],
       ro: ["O „stație de curățare” naturală pentru raze.", "Atrage scafandri din toată lumea."],
       en: ["A natural 'cleaning station' for rays.", "Attracts divers from all over the world."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Manta Point, auch bekannt als Lankanfinolhu, ist ein berühmter Tauch- und Schnorchelplatz im Nord-Malé-Atoll. Er ist bekannt für regelmäßige Begegnungen mit Mantarochen, die hier zur Reinigung kommen. Die Reinigungsstationen befinden sich in etwa 10 bis 15 Metern Tiefe. Die Mantarochen haben eine Flügelspannweite von bis zu 5 Metern. Die beste Zeit für Begegnungen ist von Mai bis November. Der Ort ist auch für seine Korallen und andere Fische bekannt. Die Strömungen sind moderat. Taucher müssen eine Mindestqualifikation haben, da die Tiefe und Strömungen anspruchsvoll sein können.",
+      hu: "A Manta Point, más néven Lankanfinolhu, egy híres búvár- és snorkelezőhely az Észak-Malé Atollban. Rendszeres mantarája-találkozásokról ismert, amelyek tisztítóállomásokon gyűlnek össze. A tisztítóállomások körülbelül 10-15 méter mélyen találhatók. A mantaráják szárnyfesztávolsága elérheti az 5 métert. A legjobb idő a találkozásokra májustól novemberig tart. A hely korallokról és más halakról is ismert. Az áramlatok mérsékeltek. A búvároknak megfelelő képesítéssel kell rendelkezniük, mivel a mélység és az áramlatok kihívást jelenthetnek.",
+      ro: "Manta Point, cunoscut și sub numele de Lankanfinolhu, este un celebru loc de scufundări și snorkeling în Atolul Malé de Nord. Este renumit pentru întâlnirile regulate cu raze manta, care vin aici pentru curățare. Stațiile de curățare sunt situate la adâncimi de 10 până la 15 metri. Anvergura aripilor razelor manta poate ajunge până la 5 metri. Cel mai bun timp pentru întâlniri este din mai până în noiembrie. Locul este cunoscut și pentru coralii și alți pești. Curenții sunt modești. Scafandrii trebuie să aibă o calificare minimă, deoarece adâncimea și curenții pot fi provocatori.",
+      en: "Manta Point, also known as Lankanfinolhu, is a famous dive and snorkel site in North Malé Atoll. It is known for regular manta ray encounters where rays visit cleaning stations at depths of 10 to 15 meters. Manta rays have a wingspan of up to 5 meters. Best time for sightings is May to November. The site also features corals and other fish. Currents are moderate. Divers require minimum qualification due to depth and currents.",
+    },
+    factsAdvanced: {
+      de: ["Die Reinigungsstationen befinden sich in 10-15 Metern Tiefe.", "Mantarochen erreichen eine Flügelspannweite von bis zu 5 Metern.", "Die beste Sichtungszeit ist von Mai bis November.", "Die Wassertiefe beträgt etwa 10 bis 25 Meter.", "Der Ort liegt etwa 35 Kilometer von Malé entfernt.", "Jährlich werden über 200 Mantarochen gesichtet."],
+      hu: ["A tisztítóállomások 10-15 méter mélyen vannak.", "A mantaráják szárnyfesztávolsága elérheti az 5 métert.", "A legjobb idő a megfigyelésre májustól novemberig tart.", "A vízmélység körülbelül 10-25 méter.", "A hely körülbelül 35 kilométerre található Malétól.", "Évente több mint 200 mantaráját figyelnek meg."],
+      ro: ["Stațiile de curățare sunt la adâncimi de 10-15 metri.", "Razele manta au o anvergură a aripilor de până la 5 metri.", "Cel mai bun timp pentru observare este din mai până în noiembrie.", "Adâncimea apei este de aproximativ 10 până la 25 de metri.", "Locul este situat la aproximativ 35 de kilometri de Malé.", "Peste 200 de raze manta sunt observate anual."],
+      en: ["Cleaning stations are at depths of 10-15 meters.", "Manta rays have a wingspan of up to 5 meters.", "Best sighting time is May to November.", "Water depth ranges from 10 to 25 meters.", "The site is about 35 kilometers from Malé.", "Over 200 manta rays are sighted annually."],
+    },
   },
   {
     id: "velana-international-airport-landmarks-v2",
     type: "landmark",
     parent: "MV-XX",
     coords: [73.5291, 4.1884],
-    name: { de: "Velana Internationaler Flughafen", hu: "Velana Nemzetközi Repülőtér", ro: "Aeroportul Internațional Velana", en: "Velana International Airport",
-image: "/poi-images/velana-international-airport-landmarks-v2.webp"
-},
+    name: { de: "Velana Internationaler Flughafen", hu: "Velana Nemzetközi Repülőtér", ro: "Aeroportul Internațional Velana", en: "Velana International Airport"},
+    image: "/poi-images/velana-international-airport-landmarks-v2.webp",
     description: { de: "Das wichtigste internationale Tor zu den Malediven, ein bemerkenswerter Flughafen, der eine gesamte Insel namens Hulhulé einnimmt.", hu: "A Maldív-szigetek legfőbb nemzetközi kapuja, egy figyelemre méltó repülőtér, amely egy teljes szigetet, Hulhulét foglal el.", ro: "Principala poartă internațională către Maldive, un aeroport remarcabil care ocupă o întreagă insulă numită Hulhulé.", en: "The main international gateway to the Maldives, a remarkable airport occupying an entire island named Hulhulé." },
     facts: {
       de: ["Hieß früher Malé International Airport.", "Verfügt über Landebahnen direkt am Wasser."],
       hu: ["Korábban Malé Nemzetközi Repülőtérként ismerték.", "A leszállópályák közvetlenül a víz mellett helyezkednek el."],
       ro: ["Fostul Aeroport Internațional Malé.", "Dispune de piste situate chiar lângă apă."],
       en: ["Formerly known as Malé International Airport.", "Features runways located right next to the water."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Der Velana International Airport (IATA: MLE) ist der wichtigste Flughafen der Malediven, gelegen auf der Insel Hulhulé im Nord-Malé-Atoll. Er wurde 1966 eröffnet und dient als Drehkreuz für internationale und nationale Flüge. Das Passagieraufkommen beträgt jährlich etwa 3,5 Millionen. Die einzige Landebahn ist 3.200 Meter lang. Der Flughafen bietet Direktverbindungen zu über 30 internationalen Zielen. 2021 wurde ein neues Terminal eröffnet, das die Kapazität erhöht. Der Flughafen ist nach dem ehemaligen Präsidenten Maumoon Abdul Gayoom benannt.",
+      hu: "A Velana nemzetközi repülőtér (IATA: MLE) a Maldív-szigetek legfontosabb repülőtere, a Hulhulé szigeten található az Észak-Malé Atollban. 1966-ban nyitották meg, és nemzetközi és belföldi járatok csomópontjaként szolgál. Az éves utasforgalom körülbelül 3,5 millió fő. Az egyetlen kifutópálya hossza 3200 méter. A repülőtér több mint 30 nemzetközi célállomásra kínál közvetlen járatokat. 2021-ben új terminált nyitottak, ami növelte a kapacitást. A repülőtér Maumoon Abdul Gayoom volt elnökről kapta a nevét.",
+      ro: "Aeroportul Internațional Velana (IATA: MLE) este principalul aeroport din Maldive, situat pe insula Hulhulé în Atolul Malé de Nord. A fost deschis în 1966 și servește ca hub pentru zboruri internaționale și interne. Traficul anual de pasageri este de aproximativ 3,5 milioane. Singura pistă are o lungime de 3.200 de metri. Aeroportul oferă zboruri directe către peste 30 de destinații internaționale. În 2021 a fost deschis un nou terminal, crescând capacitatea. Aeroportul este numit după fostul președinte Maumoon Abdul Gayoom.",
+      en: "Velana International Airport (IATA: MLE) is the main airport of the Maldives, located on Hulhulé Island in North Malé Atoll. Opened in 1966, it serves as a hub for international and domestic flights. Annual passenger traffic is around 3.5 million. The single runway is 3,200 meters long. The airport offers direct flights to over 30 international destinations. A new terminal opened in 2021, increasing capacity. The airport is named after former President Maumoon Abdul Gayoom.",
+    },
+    factsAdvanced: {
+      de: ["Eröffnet im Jahr 1966.", "Die Landebahn ist 3.200 Meter lang.", "Jährliches Passagieraufkommen: etwa 3,5 Millionen.", "Direktverbindungen zu über 30 internationalen Zielen.", "Das neue Terminal wurde 2021 eröffnet.", "Der Flughafen liegt auf der Insel Hulhulé."],
+      hu: ["1966-ban nyitották meg.", "A kifutópálya hossza 3200 méter.", "Éves utasforgalom: körülbelül 3,5 millió fő.", "Több mint 30 nemzetközi célállomásra van közvetlen járat.", "Az új terminált 2021-ben nyitották meg.", "A repülőtér a Hulhulé szigeten található."],
+      ro: ["Deschis în anul 1966.", "Pista are o lungime de 3.200 de metri.", "Trafic anual de pasageri: aproximativ 3,5 milioane.", "Zboruri directe către peste 30 de destinații internaționale.", "Noul terminal a fost deschis în 2021.", "Aeroportul este situat pe insula Hulhulé."],
+      en: ["Opened in 1966.", "Runway is 3,200 meters long.", "Annual passenger traffic: about 3.5 million.", "Direct flights to over 30 international destinations.", "New terminal opened in 2021.", "Airport located on Hulhulé Island."],
+    },
   }
 ];

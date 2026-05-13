@@ -11,9 +11,8 @@ export const poiExtraBrazilNatureV2: POI[] = [
       de: "Amazonas",
       hu: "Amazonas",
       ro: "Fluviul Amazon",
-      en: "Amazon River",
-image: "/poi-images/br-amazon-river-nature-v2.webp"
-},
+      en: "Amazon River"},
+    image: "/poi-images/br-amazon-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Amazonas ist der wasserreichste Fluss der Erde und bildet das Herzstück des größten Regenwaldgebiets unseres Planeten. Sein komplexes System aus Nebenflüssen durchzieht den gesamten Norden Brasiliens und beherbergt eine unübertroffene Artenvielfalt. Der Fluss ist eine Lebensader für Millionen Menschen und spielt eine entscheidende Rolle für das Weltklima. Sachkunde K4 – tropische Ökosysteme.",
       hu: "Az Amazonas a világ legnagyobb vízhozamú folyója, amely az esőerdők szívében kanyarog és táplálja a földkerekség legnagyobb biodiverzitását. A folyó rendszere Brazília és egész Dél-Amerika ökológiai egyensúlyának alapja. Az Amazonas mentén élő közösségek és az egyedülálló vízi élővilág a tudomány számára is folyamatos felfedeznivalót kínál. Földrajz K6 – folyórendszerek.",
@@ -43,9 +42,8 @@ image: "/poi-images/br-amazon-river-nature-v2.webp"
       de: "Rio São Francisco",
       hu: "São Francisco-folyó",
       ro: "Râul São Francisco",
-      en: "São Francisco River",
-image: "/poi-images/br-sao-francisco-river-nature-v2.webp"
-},
+      en: "São Francisco River"},
+    image: "/poi-images/br-sao-francisco-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A São Francisco folyó, amelyet a 'nemzeti egység folyójának' is neveznek, Brazília belsejében folyik, összekötve a száraz és a termékeny régiókat. Jelentős szerepet játszik az öntözésben, az energiaellátásban és a közlekedésben, így a brazil gazdaság egyik fontos ütőere. A folyó mentén található történelmi városok és vízierőművek tükrözik a jelentőségét. Földrajz K7 – folyók és energia.",
       en: "The São Francisco River is the longest river that runs entirely within Brazilian territory, stretching from the state of Minas Gerais to the Atlantic Ocean. Often called the 'River of National Unity', it has historically played a vital role in connecting the interior of the country with the coast, supporting agriculture and power generation along its banks. Geography K7 – major river basins and regional development."
@@ -75,9 +73,8 @@ image: "/poi-images/br-sao-francisco-river-nature-v2.webp"
       de: "Rio Paraná",
       hu: "Paraná-folyó",
       ro: "Râul Paraná",
-      en: "Paraná River",
-image: "/poi-images/br-parana-river-nature-v2.webp"
-},
+      en: "Paraná River"},
+    image: "/poi-images/br-parana-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A Paraná folyó Dél-Amerika második leghosszabb folyója, amely fontos szerepet játszik a vízenergia-termelésben, többek között az Itaipu-gát révén. A folyó a brazil iparvidékek energiellátását biztosítja, miközben természeti értékeivel is kiemelkedik. A régió mezőgazdasági és energetikai fejlődésének nélkülözhetetlen eleme. Földrajz K7 – vízenergia.",
       en: "The Paraná River is one of the most significant rivers in South America, forming part of the border between Brazil, Paraguay, and Argentina. It is a major source of hydroelectric power, most notably powering the colossal Itaipu Dam. The river system is crucial for trade, transportation, and regional economic stability in the southern part of the continent. Geography K7 – transboundary river basins and energy production."
@@ -107,9 +104,8 @@ image: "/poi-images/br-parana-river-nature-v2.webp"
       de: "Rio Tocantins",
       hu: "Tocantins-folyó",
       ro: "Râul Tocantins",
-      en: "Tocantins River",
-image: "/poi-images/br-tocantins-river-nature-v2.webp"
-},
+      en: "Tocantins River"},
+    image: "/poi-images/br-tocantins-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A Tocantins folyó Brazília központi részén folyik, jelentős szerepet játszik a középnyugati és északi régiók kereskedelmében és közlekedésében. A folyó mentén található vízierőművek fontos energiaforrást biztosítanak az ország számára. A Tocantins-medence gazdag ökológiai diverzitása és a folyami közlekedés révén fontos gazdasági tényező. Földrajz K6 – folyórendszerek.",
       en: "The Tocantins River flows northward through the Brazilian interior, eventually merging with the Amazon delta region. It is a major waterway that traverses several states, including Goiás and Tocantins, serving as an important route for regional trade and energy generation. The river basin is characterized by diverse landscapes and is central to the development of the country's central and northern regions. Geography K7 – river systems and inland navigation."
@@ -138,9 +134,8 @@ image: "/poi-images/br-tocantins-river-nature-v2.webp"
       de: "Rio Araguaia",
       hu: "Araguaia-folyó",
       ro: "Râul Araguaia",
-      en: "Araguaia River",
-image: "/poi-images/br-araguaia-river-nature-v2.webp"
-},
+      en: "Araguaia River"},
+    image: "/poi-images/br-araguaia-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "Az Araguaia folyó a természet szerelmeseinek paradicsoma, amely a közép-brazíliai szavannák (cerrado) között kanyarog, híres fehér homokos folyópartjairól és gazdag állatvilágáról. A horgászok és a természetjárók kedvelt célpontja, különösen az esős évszak utáni időszakban. A folyó mentén számos rezervátum található, amelyek a régió ökológiai értékeit védik. Földrajz K6 – szavannák élővilága.",
       en: "The Araguaia River is a prominent waterway in central Brazil, known for its extensive beaches and diverse ecosystems, particularly during the dry season. It flows through a significant portion of the cerrado biome, providing a crucial corridor for wildlife and a popular destination for eco-tourism. The river is beloved for its natural beauty and remains a vital ecological resource for the region. Geography K7 – river ecosystems and regional biodiversity."
@@ -170,9 +165,8 @@ image: "/poi-images/br-araguaia-river-nature-v2.webp"
       de: "Rio Negro",
       hu: "Rio Negro",
       ro: "Rio Negro",
-      en: "Negro River",
-image: "/poi-images/br-negro-river-nature-v2.webp"
-},
+      en: "Negro River"},
+    image: "/poi-images/br-negro-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A Rio Negro (Fekete folyó) az Amazonas legnagyobb bal oldali mellékfolyója, nevét a sötét, huminsavakban gazdag vizéről kapta. A folyó összefolyása az Amazonassal, a 'vizek találkozása', az egyik leglátványosabb természeti jelenség Brazíliában. A folyó mentén elhelyezkedő erdőségek érintetlen természetet mutatnak be. Földrajz K6 – folyók."
     },
@@ -201,9 +195,8 @@ image: "/poi-images/br-negro-river-nature-v2.webp"
       de: "Rio Madeira",
       hu: "Madeira-folyó",
       ro: "Râul Madeira",
-      en: "Madeira River",
-image: "/poi-images/br-madeira-river-nature-v2.webp"
-},
+      en: "Madeira River"},
+    image: "/poi-images/br-madeira-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A Madeira folyó az Amazonas-medence egyik fontos vízi útja, amely a mezőgazdasági termékek és az ásványi kincsek szállításában játszik kulcsszerepet. A folyó mentén megvalósult vízierőművek fontos szerepet töltenek be az északi régió energiaellátásában. A folyó gazdag élővilága és tájképe az amazóniai régió természeti kincsei közé tartozik. Földrajz K6 – logisztika."
     },
@@ -231,9 +224,8 @@ image: "/poi-images/br-madeira-river-nature-v2.webp"
       de: "Rio Tapajós",
       hu: "Tapajós",
       ro: "Râul Tapajós",
-      en: "Tapajós River",
-image: "/poi-images/br-tapajos-river-nature-v2.webp"
-},
+      en: "Tapajós River"},
+    image: "/poi-images/br-tapajos-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A Tapajós folyó a kristálytiszta vizéről és az Amazonas menti legszebb homokos folyópartjairól ismert, az Alter do Chão környéke népszerű trópusi üdülőhely. A folyó az amazóniai régió egyik legfontosabb közlekedési és ökológiai tengelye. A folyami utak és a különleges természeti adottságok miatt kiemelkedő szerepe van a régió idegenforgalmában. Földrajz K6 – üdülőhelyek."
     },
@@ -261,9 +253,8 @@ image: "/poi-images/br-tapajos-river-nature-v2.webp"
       de: "Rio Xingu",
       hu: "Xingu-folyó",
       ro: "Râul Xingu",
-      en: "Xingu River",
-image: "/poi-images/br-xingu-river-nature-v2.webp"
-},
+      en: "Xingu River"},
+    image: "/poi-images/br-xingu-river-nature-v2.webp",
     descriptionAdvanced: {
       hu: "A Xingu folyó az Amazonas-medence egyik különleges vízrendszere, amely az őslakosok területén és a Xingu Nemzeti Parkban halad át. A folyó és környéke védett természeti terület, amely fontos szerepet játszik a brazil őslakosok kultúrájának és az amazóniai biodiverzitásnak a megőrzésében. A nagy vízierőművek mellett is az amazóniai természet egyik fontos bástyája. Földrajz K6 – őslakosok."
     },
@@ -291,9 +282,8 @@ image: "/poi-images/br-xingu-river-nature-v2.webp"
       de: "Rio Iguaçu",
       hu: "Iguaçu-folyó",
       ro: "Râul Iguaçu",
-      en: "Iguazu River",
-image: "/poi-images/br-iguazu-river-nature-v2.webp"
-},
+      en: "Iguazu River"},
+    image: "/poi-images/br-iguazu-river-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Iguaçu-Fluss ist weltbekannt für die spektakulären Wasserfälle an der Grenze zwischen Brasilien und Argentinien, die zu den größten der Welt gehören. Das Flusssystem schlängelt sich durch subtropischen Wald und bildet eine der beeindruckendsten Naturschönheiten Südamerikas. Die Wasserfälle sind seit 1984 Teil des UNESCO-Welterbes. Erdkunde K7 – Flusssysteme und Naturmonumente.",
       hu: "Az Iguaçu folyó a világ egyik leglátványosabb természeti csodájának, az Iguaçu-vízesésnek a helyszíne, amely Brazília és Argentína határán található. A vízesésrendszer lenyűgöző természeti erő, amely az esőerdők szívében fekszik, az UNESCO világörökség része. A folyó és környéke Brazília egyik legfontosabb idegenforgalmi központja. Földrajz K6 – természeti csodák."
@@ -322,9 +312,8 @@ image: "/poi-images/br-iguazu-river-nature-v2.webp"
       de: "Pico da Neblina",
       hu: "Pico da Neblina",
       ro: "Pico da Neblina",
-      en: "Pico da Neblina",
-image: "/poi-images/br-pico-da-neblina-nature-v2.webp"
-},
+      en: "Pico da Neblina"},
+    image: "/poi-images/br-pico-da-neblina-nature-v2.webp",
     description: {
       de: "Der höchste Berg Brasiliens, oft in dichten Nebel gehüllt, nahe der Grenze zu Venezuela.",
       hu: "Brazília legmagasabb hegye, amelyet gyakran sűrű köd borít a venezuelai határ közelében.",
@@ -358,9 +347,8 @@ image: "/poi-images/br-pico-da-neblina-nature-v2.webp"
       de: "Pico das Agulhas Negras",
       hu: "Pico das Agulhas Negras",
       ro: "Pico das Agulhas Negras",
-      en: "Pico das Agulhas Negras",
-image: "/poi-images/br-pico-das-agulhas-negras-nature-v2.webp"
-},
+      en: "Pico das Agulhas Negras"},
+    image: "/poi-images/br-pico-das-agulhas-negras-nature-v2.webp",
     description: {
       de: "Der höchste Gipfel im Bundesstaat Rio de Janeiro mit markanten schwarzen Felsnadeln.",
       hu: "Rio de Janeiro állam legmagasabb csúcsa, jellegzetes fekete sziklacsúcsokkal.",
@@ -394,9 +382,8 @@ image: "/poi-images/br-pico-das-agulhas-negras-nature-v2.webp"
       de: "Monte Roraima",
       hu: "Roraima-hegy",
       ro: "Muntele Roraima",
-      en: "Mount Roraima",
-image: "/poi-images/br-mount-roraima-nature-v2.webp"
-},
+      en: "Mount Roraima"},
+    image: "/poi-images/br-mount-roraima-nature-v2.webp",
     descriptionAdvanced: {
       de: "Der Berg Roraima ist ein Tafelberg an der Grenze von Brasilien, Venezuela und Guyana und gehört zu den ältesten geologischen Formationen der Erde. Seine markante, flache Gipfelform und steilen Felswände beherbergen eine Vielzahl an endemischen Pflanzenarten, die es nirgendwo sonst gibt. Er ist ein geologisches Wunder und eine wichtige Forschungsstätte. Erdkunde K7 – Geologie und Gebirgsbildung."
     },
@@ -425,9 +412,8 @@ image: "/poi-images/br-mount-roraima-nature-v2.webp"
       de: "Pico da Bandeira",
       hu: "Pico da Bandeira",
       ro: "Pico da Bandeira",
-      en: "Pico da Bandeira",
-image: "/poi-images/br-pico-da-bandeira-nature-v2.webp"
-},
+      en: "Pico da Bandeira"},
+    image: "/poi-images/br-pico-da-bandeira-nature-v2.webp",
     description: {
       de: "Der dritthöchste Berg Brasiliens, ein beliebtes Ziel für Bergsteiger zum Sonnenaufgang.",
       hu: "Brazília harmadik legmagasabb hegye, népszerű célpont a hegymászók körében a napfelkelte megtekintésére.",
@@ -461,9 +447,8 @@ image: "/poi-images/br-pico-da-bandeira-nature-v2.webp"
       de: "Zuckerhut",
       hu: "Cukorsüveg-hegy",
       ro: "Muntele Căpățâna de Zahăr",
-      en: "Sugarloaf Mountain",
-image: "/poi-images/br-sugarloaf-mountain-nature-v2.webp"
-},
+      en: "Sugarloaf Mountain"},
+    image: "/poi-images/br-sugarloaf-mountain-nature-v2.webp",
     description: {
       de: "Ein markanter Granitfelsen an der Mündung der Guanabara-Bucht, eines der Wahrzeichen Rios.",
       hu: "Jellegzetes gránitszikla a Guanabara-öböl torkolatánál, Rio egyik jelképe.",
@@ -497,9 +482,8 @@ image: "/poi-images/br-sugarloaf-mountain-nature-v2.webp"
       de: "Corcovado",
       hu: "Corcovado",
       ro: "Corcovado",
-      en: "Corcovado",
-image: "/poi-images/br-corcovado-nature-v2.webp"
-},
+      en: "Corcovado"},
+    image: "/poi-images/br-corcovado-nature-v2.webp",
     description: {
       de: "Ein Berg in Rio de Janeiro, weltberühmt für die massive Christusstatue auf seinem Gipfel.",
       hu: "Hegy Rio de Janeiróban, amely világhírű a csúcsán álló hatalmas Krisztus-szoborról.",
@@ -533,9 +517,8 @@ image: "/poi-images/br-corcovado-nature-v2.webp"
       de: "Pedra da Gávea",
       hu: "Pedra da Gávea",
       ro: "Pedra da Gávea",
-      en: "Pedra da Gávea",
-image: "/poi-images/br-pedra-da-gavea-nature-v2.webp"
-},
+      en: "Pedra da Gávea"},
+    image: "/poi-images/br-pedra-da-gavea-nature-v2.webp",
     description: {
       de: "Ein riesiger Monolith, der sich direkt aus dem Ozean in Rio de Janeiro erhebt.",
       hu: "Hatalmas monolit, amely egyenesen az óceánból emelkedik ki Rio de Janeiróban.",
@@ -569,9 +552,8 @@ image: "/poi-images/br-pedra-da-gavea-nature-v2.webp"
       de: "Monte Pascoal",
       hu: "Monte Pascoal",
       ro: "Monte Pascoal",
-      en: "Monte Pascoal",
-image: "/poi-images/br-monte-pascoal-nature-v2.webp"
-},
+      en: "Monte Pascoal"},
+    image: "/poi-images/br-monte-pascoal-nature-v2.webp",
     description: {
       de: "Historisch bedeutender Berg, das erste Land, das die portugiesischen Entdecker 1500 sahen.",
       hu: "Történelmi jelentőségű hegy, az első szárazföld, amelyet a portugál felfedezők megpillantottak 1500-ban.",
@@ -605,9 +587,8 @@ image: "/poi-images/br-monte-pascoal-nature-v2.webp"
       de: "Lagoa dos Patos",
       hu: "Lagoa dos Patos",
       ro: "Lagoa dos Patos",
-      en: "Lagoa dos Patos",
-image: "/poi-images/br-lagoa-dos-patos-nature-v2.webp"
-},
+      en: "Lagoa dos Patos"},
+    image: "/poi-images/br-lagoa-dos-patos-nature-v2.webp",
     description: {
       de: "Die größte Lagune Brasiliens und Südamerikas, parallel zum Atlantischen Ozean gelegen.",
       hu: "Brazília és Dél-Amerika legnagyobb lagúnája, amely párhuzamosan fekszik az Atlanti-óceánnal.",
@@ -641,9 +622,8 @@ image: "/poi-images/br-lagoa-dos-patos-nature-v2.webp"
       de: "Lagoa Mirim",
       hu: "Lagoa Mirim",
       ro: "Lagoa Mirim",
-      en: "Mirim Lagoon",
-image: "/poi-images/br-lagoa-mirim-nature-v2.webp"
-},
+      en: "Mirim Lagoon"},
+    image: "/poi-images/br-lagoa-mirim-nature-v2.webp",
     description: {
       de: "Eine große Küstenlagune, die Brasilien mit Uruguay teilt und für ihre biologische Vielfalt bekannt ist.",
       hu: "Brazília és Uruguay által megosztott nagy tengerparti lagúna, amely biológiai sokféleségéről ismert.",
@@ -677,9 +657,8 @@ image: "/poi-images/br-lagoa-mirim-nature-v2.webp"
       de: "Lagoa da Conceição",
       hu: "Lagoa da Conceição",
       ro: "Lagoa da Conceição",
-      en: "Lagoa da Conceição",
-image: "/poi-images/br-lagoa-da-conceicao-nature-v2.webp"
-},
+      en: "Lagoa da Conceição"},
+    image: "/poi-images/br-lagoa-da-conceicao-nature-v2.webp",
     description: {
       de: "Eine malerische Salzwasserlagune auf der Insel Santa Catarina, umgeben von grünen Hügeln.",
       hu: "Festői sósvízű lagúna a Santa Catarina-szigeten, zöldellő dombokkal körülvéve.",
@@ -713,9 +692,8 @@ image: "/poi-images/br-lagoa-da-conceicao-nature-v2.webp"
       de: "Fernando de Noronha",
       hu: "Fernando de Noronha",
       ro: "Fernando de Noronha",
-      en: "Fernando de Noronha",
-image: "/poi-images/br-fernando-de-noronha-nature-v2.webp"
-},
+      en: "Fernando de Noronha"},
+    image: "/poi-images/br-fernando-de-noronha-nature-v2.webp",
     description: {
       de: "Ein geschütztes vulkanisches Archipel im Atlantik, berühmt für seine unberührten Strände und Meeresbewohner.",
       hu: "Védett vulkáni szigetcsoport az Atlanti-óceánban, amely érintetlen strandjairól és tengeri élővilágáról híres.",
@@ -749,9 +727,8 @@ image: "/poi-images/br-fernando-de-noronha-nature-v2.webp"
       de: "Ilha Grande",
       hu: "Ilha Grande",
       ro: "Ilha Grande",
-      en: "Ilha Grande",
-image: "/poi-images/br-ilha-grande-nature-v2.webp"
-},
+      en: "Ilha Grande"},
+    image: "/poi-images/br-ilha-grande-nature-v2.webp",
     description: {
       de: "Eine autofreie tropische Insel vor der Küste von Rio de Janeiro, bekannt für ihre Dschungelpfade.",
       hu: "Autómentes trópusi sziget Rio de Janeiro partjainál, amely dzsungelösvényeiről ismert.",
@@ -785,9 +762,8 @@ image: "/poi-images/br-ilha-grande-nature-v2.webp"
       de: "Ilha do Bananal",
       hu: "Bananal-sziget",
       ro: "Insula Bananal",
-      en: "Bananal Island",
-image: "/poi-images/br-ilha-do-bananal-nature-v2.webp"
-},
+      en: "Bananal Island"},
+    image: "/poi-images/br-ilha-do-bananal-nature-v2.webp",
     description: {
       de: "Die größte Flussinsel der Welt, eingebettet zwischen zwei Armen des Rio Araguaia.",
       hu: "A világ legnagyobb folyami szigete, az Araguaia-folyó két ága közé ékelődve.",
@@ -821,9 +797,8 @@ image: "/poi-images/br-ilha-do-bananal-nature-v2.webp"
       de: "Ilha de Marajó",
       hu: "Marajó-sziget",
       ro: "Insula Marajó",
-      en: "Marajó Island",
-image: "/poi-images/br-ilha-de-marajo-nature-v2.webp"
-},
+      en: "Marajó Island"},
+    image: "/poi-images/br-ilha-de-marajo-nature-v2.webp",
     description: {
       de: "Eine massive Küsteninsel in der Amazonasmündung, bekannt für ihre Wasserbüffel.",
       hu: "Hatalmas tengerparti sziget az Amazonas torkolatánál, amely a vízibivalyairól ismert.",
@@ -857,9 +832,8 @@ image: "/poi-images/br-ilha-de-marajo-nature-v2.webp"
       de: "Ilhabela",
       hu: "Ilhabela",
       ro: "Ilhabela",
-      en: "Ilhabela",
-image: "/poi-images/br-ilhabela-nature-v2.webp"
-},
+      en: "Ilhabela"},
+    image: "/poi-images/br-ilhabela-nature-v2.webp",
     description: {
       de: "Die schöne Insel ist ein beliebtes Urlaubsziel mit üppigen Wäldern und zahlreichen Wasserfällen.",
       hu: "A gyönyörű sziget népszerű nyaralóhely buja erdőkkel és számos vízeséssel.",
@@ -893,9 +867,8 @@ image: "/poi-images/br-ilhabela-nature-v2.webp"
       de: "Amazonas-Regenwald",
       hu: "Amazonasi esőerdő",
       ro: "Pădurea Amazoniană",
-      en: "Amazon Rainforest",
-image: "/poi-images/br-amazon-rainforest-nature-v2.webp"
-},
+      en: "Amazon Rainforest"},
+    image: "/poi-images/br-amazon-rainforest-nature-v2.webp",
     description: {
       de: "Der größte tropische Regenwald der Erde, entscheidend für die Regulierung des Weltklimas.",
       hu: "A Föld legnagyobb trópusi esőerdeje, amely kulcsfontosságú a globális éghajlat szabályozásában.",
@@ -929,9 +902,8 @@ image: "/poi-images/br-amazon-rainforest-nature-v2.webp"
       de: "Mata Atlântica",
       hu: "Mata Atlântica",
       ro: "Mata Atlântica",
-      en: "Atlantic Forest",
-image: "/poi-images/br-atlantic-forest-nature-v2.webp"
-},
+      en: "Atlantic Forest"},
+    image: "/poi-images/br-atlantic-forest-nature-v2.webp",
     description: {
       de: "Ein stark bedrohtes, aber extrem biodiverses Biom entlang der Ostküste Brasiliens.",
       hu: "Erősen veszélyeztetett, de rendkívül biodiverz biom Brazília keleti partja mentén.",
@@ -965,9 +937,8 @@ image: "/poi-images/br-atlantic-forest-nature-v2.webp"
       de: "Tijuca-Wald",
       hu: "Tijuca-erdő",
       ro: "Pădurea Tijuca",
-      en: "Tijuca Forest",
-image: "/poi-images/br-tijuca-forest-nature-v2.webp"
-},
+      en: "Tijuca Forest"},
+    image: "/poi-images/br-tijuca-forest-nature-v2.webp",
     description: {
       de: "Der größte städtische Regenwald der Welt, der von Hand im Herzen von Rio de Janeiro wieder aufgeforstet wurde.",
       hu: "A világ legnagyobb városi esőerdeje, amelyet kézzel telepítettek újra Rio de Janeiro szívében.",
@@ -1001,9 +972,8 @@ image: "/poi-images/br-tijuca-forest-nature-v2.webp"
       de: "Pantanal",
       hu: "Pantanal",
       ro: "Pantanal",
-      en: "Pantanal",
-image: "/poi-images/br-pantanal-wetlands-nature-v2.webp"
-},
+      en: "Pantanal"},
+    image: "/poi-images/br-pantanal-wetlands-nature-v2.webp",
     description: {
       de: "Das größte tropische Feuchtgebiet der Welt, das einen unvergleichlichen Zugang zur Tierwelt bietet.",
       hu: "A világ legnagyobb trópusi vizes élőhelye, amely páratlan hozzáférést biztosít a vadvilághoz.",

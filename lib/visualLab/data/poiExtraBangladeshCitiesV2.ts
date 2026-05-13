@@ -7,9 +7,8 @@ export const poiExtraBangladeshCitiesV2: POI[] = [
     type: "state-capital",
     parent: "BD-C",
     coords: [90.4125, 23.8103],
-    name: { de: "Dhaka", hu: "Dakka", ro: "Dhaka", en: "Dhaka",
-image: "/poi-images/dhaka-cities-v2.webp"
-},
+    name: { de: "Dhaka", hu: "Dakka", ro: "Dhaka", en: "Dhaka"},
+    image: "/poi-images/dhaka-cities-v2.webp",
     description: {
       de: "Die Hauptstadt von Bangladesch ist das wirtschaftliche und kulturelle Zentrum des Landes, bekannt für ihre unzähligen Rikschas.",
       hu: "Bangladesh lüktető fővárosa a Buriganga folyó partján fekszik, és az ország politikai, gazdasági és kulturális szíve. Világszerte a riksák fővárosaként ismert, ahol millió számra közlekednek ezek a színes járművek.",
@@ -48,9 +47,8 @@ image: "/poi-images/dhaka-cities-v2.webp"
     type: "state-capital",
     parent: "BD-B",
     coords: [91.8315, 22.3569],
-    name: { de: "Chittagong", hu: "Csittagong", ro: "Chittagong", en: "Chittagong",
-image: "/poi-images/chittagong-cities-v2.webp"
-},
+    name: { de: "Chittagong", hu: "Csittagong", ro: "Chittagong", en: "Chittagong"},
+    image: "/poi-images/chittagong-cities-v2.webp",
     description: {
       de: "Die wichtigste Hafenstadt des Landes liegt am Golf von Bengalen und ist das Herzstück des internationalen Seehandels.",
       hu: "Az ország legnagyobb kikötővárosa a Bengáli-öböl partján fekszik, és stratégiai kapuként szolgál a nemzetközi kereskedelem számára. A várost festői dombok és a Karnaphuli folyó határozza meg.",
@@ -88,9 +86,8 @@ image: "/poi-images/chittagong-cities-v2.webp"
     type: "state-capital",
     parent: "BD-D",
     coords: [89.5403, 22.8456],
-    name: { de: "Khulna", hu: "Khulna", ro: "Khulna", en: "Khulna",
-image: "/poi-images/khulna-cities-v2.webp"
-},
+    name: { de: "Khulna", hu: "Khulna", ro: "Khulna", en: "Khulna"},
+    image: "/poi-images/khulna-cities-v2.webp",
     description: {
       de: "Ein bedeutendes Industrie- und Handelszentrum im Südwesten, das als Tor zu den berühmten Sundarbans-Mangrovenwäldern dient.",
       hu: "Ipari központ délnyugaton, amely a világ legnagyobb mangroveerdőjének, a Szundarbansznak a legfontosabb kapuja. A várost sűrű víziúthálózat és jelentős jutafeldolgozó ipar jellemzi.",
@@ -128,9 +125,8 @@ image: "/poi-images/khulna-cities-v2.webp"
     type: "state-capital",
     parent: "BD-E",
     coords: [88.6011, 24.3745],
-    name: { de: "Rajshahi", hu: "Rádzssahi", ro: "Rajshahi", en: "Rajshahi",
-image: "/poi-images/rajshahi-cities-v2.webp"
-},
+    name: { de: "Rajshahi", hu: "Rádzssahi", ro: "Rajshahi", en: "Rajshahi"},
+    image: "/poi-images/rajshahi-cities-v2.webp",
     description: {
       de: "Die Stadt am Ufer des Padma-Flusses ist als Zentrum der Seidenproduktion und für ihre hochwertigen Mangos bekannt.",
       hu: "A 'selyemvárosként' ismert település a Padma folyó partján fekszik, és híres kiváló minőségű textiliparáról. Banglades egyik legtisztább és legzöldebb városa, amely jelentős oktatási központ is.",
@@ -168,9 +164,8 @@ image: "/poi-images/rajshahi-cities-v2.webp"
     type: "state-capital",
     parent: "BD-G",
     coords: [91.8687, 24.8949],
-    name: { de: "Sylhet", hu: "Szilhet", ro: "Sylhet", en: "Sylhet",
-image: "/poi-images/sylhet-cities-v2.webp"
-},
+    name: { de: "Sylhet", hu: "Szilhet", ro: "Sylhet", en: "Sylhet"},
+    image: "/poi-images/sylhet-cities-v2.webp",
     description: {
       de: "Eine malerische Stadt im Nordosten, die für ihre ausgedehnten Teegärten und spirituellen Schreine berühmt ist.",
       hu: "Északkelet-Banglades legszebb városa, amely végtelen teaültetvényeiről és spirituális jelentőségéről híres. A Surma-völgyben fekvő település az ország egyik leggazdagabb és legzöldebb régiója.",
@@ -208,9 +203,8 @@ image: "/poi-images/sylhet-cities-v2.webp"
     type: "state-capital",
     parent: "BD-A",
     coords: [90.3667, 22.7010],
-    name: { de: "Barisal", hu: "Barisal", ro: "Barisal", en: "Barisal",
-image: "/poi-images/barisal-cities-v2.webp"
-},
+    name: { de: "Barisal", hu: "Barisal", ro: "Barisal", en: "Barisal"},
+    image: "/poi-images/barisal-cities-v2.webp",
     description: {
       de: "Die Stadt im Ganges-Delta wird wegen ihrer vielen Kanäle und Flüsse oft als das Venedig des Ostens bezeichnet.",
       hu: "A Gangesz-delta szívében fekvő várost sűrű csatornahálózata miatt gyakran a 'Kelet Velencéjeként' emlegetik. A régió az ország legfontosabb agrárbázisa, híres lebegő piacairól és rizstermeléséről.",
@@ -248,9 +242,8 @@ image: "/poi-images/barisal-cities-v2.webp"
     type: "state-capital",
     parent: "BD-F",
     coords: [89.2447, 25.7439],
-    name: { de: "Rangpur", hu: "Rangpur", ro: "Rangpur", en: "Rangpur",
-image: "/poi-images/rangpur-cities-v2.webp"
-},
+    name: { de: "Rangpur", hu: "Rangpur", ro: "Rangpur", en: "Rangpur"},
+    image: "/poi-images/rangpur-cities-v2.webp",
     description: {
       de: "Ein historisches Handelszentrum im Norden des Landes, das für seine Tabakproduktion und den prächtigen Tajhat-Palast bekannt ist.",
       hu: "Északnyugat-Banglades történelmi városa, amely gazdag kulturális örökséggel és pazar gyarmati kori épületekkel rendelkezik. A régió az ország egyik legfontosabb dohány- és mezőgazdasági központja.",
@@ -288,9 +281,8 @@ image: "/poi-images/rangpur-cities-v2.webp"
     type: "state-capital",
     parent: "BD-H",
     coords: [90.4000, 24.7471],
-    name: { de: "Mymensingh", hu: "Mymensingh", ro: "Mymensingh", en: "Mymensingh",
-image: "/poi-images/mymensingh-cities-v2.webp"
-},
+    name: { de: "Mymensingh", hu: "Mymensingh", ro: "Mymensingh", en: "Mymensingh"},
+    image: "/poi-images/mymensingh-cities-v2.webp",
     description: {
       de: "Eine bedeutende Stadt am Brahmaputra-Fluss, die für ihr reiches kulturelles Erbe und als Bildungsstandort bekannt ist.",
       hu: "A régi Brahmaputra folyó partján fekvő város mély kulturális és irodalmi gyökerekkel rendelkezik. Az ország mezőgazdasági kutatásának központja, híres népi balladáiról és gyarmati kúriáiról.",
@@ -328,9 +320,8 @@ image: "/poi-images/mymensingh-cities-v2.webp"
     type: "city",
     parent: "BD-B",
     coords: [91.1802, 23.4607],
-    name: { de: "Comilla", hu: "Comilla", ro: "Comilla", en: "Comilla",
-image: "/poi-images/comilla-cities-v2.webp"
-},
+    name: { de: "Comilla", hu: "Comilla", ro: "Comilla", en: "Comilla"},
+    image: "/poi-images/comilla-cities-v2.webp",
     description: {
       de: "Eine geschichtsträchtige Stadt im Osten, bekannt für ihre archäologischen Stätten aus der buddhistischen Ära und köstliche Süßwaren.",
       hu: "Történelmi város Kelet-Bangladesben, amely antik buddhista romjairól és a Mainamati-hegy régészeti kincseiről ismert. Fontos kereskedelmi csomópont a főváros és a tengerpart között.",
@@ -368,9 +359,8 @@ image: "/poi-images/comilla-cities-v2.webp"
     type: "city",
     parent: "BD-C",
     coords: [90.5000, 23.6238],
-    name: { de: "Narayanganj", hu: "Narayanganj", ro: "Narayanganj", en: "Narayanganj",
-image: "/poi-images/narayanganj-cities-v2.webp"
-},
+    name: { de: "Narayanganj", hu: "Narayanganj", ro: "Narayanganj", en: "Narayanganj"},
+    image: "/poi-images/narayanganj-cities-v2.webp",
     description: {
       de: "Ein geschäftiges Industriezentrum nahe Dhaka, das historisch als das Dundee des Ostens für seinen Jutehandel bekannt war.",
       hu: "A Shitalakshya folyó partján fekvő iparváros a textil- és jutakereskedelem fellegvára. Stratégiai elhelyezkedése és forgalmas folyami kikötője miatt az ország gazdaságának egyik motorja.",
@@ -408,9 +398,8 @@ image: "/poi-images/narayanganj-cities-v2.webp"
     type: "city",
     parent: "BD-C",
     coords: [90.4125, 23.9999],
-    name: { de: "Gazipur", hu: "Gazipur", ro: "Gazipur", en: "Gazipur",
-image: "/poi-images/gazipur-cities-v2.webp"
-},
+    name: { de: "Gazipur", hu: "Gazipur", ro: "Gazipur", en: "Gazipur"},
+    image: "/poi-images/gazipur-cities-v2.webp",
     description: {
       de: "Ein schnell wachsendes Industriegebiet nördlich von Dhaka, das für seine Nationalparks und Textilfabriken bekannt ist.",
       hu: "Dinamikusan fejlődő ipari metropolisz Dakkától északra, amely gyárak ezreinek és jelentős kutatóintézeteknek ad otthont. Itt található az ország legnagyobb szafari parkja és nemzeti parkja is.",
@@ -448,9 +437,8 @@ image: "/poi-images/gazipur-cities-v2.webp"
     type: "city",
     parent: "BD-E",
     coords: [89.3750, 24.8481],
-    name: { de: "Bogra", hu: "Bogra", ro: "Bogra", en: "Bogra",
-image: "/poi-images/bogra-cities-v2.webp"
-},
+    name: { de: "Bogra", hu: "Bogra", ro: "Bogra", en: "Bogra"},
+    image: "/poi-images/bogra-cities-v2.webp",
     description: {
       de: "Die Stadt gilt als das Tor zu Nordbengalen und ist berühmt für die antike Ausgrabungsstätte Mahasthangarh.",
       hu: "Észak-Banglades kapuja, az ország egyik legrégebbi és legjelentősebb történelmi városa. A közeli Mahasthangarh romjai egy több mint kétezer éves ősi civilizációról tanúskodnak.",
@@ -488,9 +476,8 @@ image: "/poi-images/bogra-cities-v2.webp"
     type: "city",
     parent: "BD-D",
     coords: [89.1220, 23.9013],
-    name: { de: "Kushtia", hu: "Kushtia", ro: "Kushtia", en: "Kushtia",
-image: "/poi-images/kushtia-cities-v2.webp"
-},
+    name: { de: "Kushtia", hu: "Kushtia", ro: "Kushtia", en: "Kushtia"},
+    image: "/poi-images/kushtia-cities-v2.webp",
     description: {
       de: "Das kulturelle Zentrum des Landes, bekannt als Heimat des Dichters Rabindranath Tagore und des Mystikers Lalon Shah.",
       hu: "Banglades kulturális fővárosa, amely mélyen összefonódott Rabindranáth Tagore irodalmi munkásságával és Lalon Shah misztikus filozófiájával. A város a művészetek és a spirituális zene fellegvára.",
@@ -528,9 +515,8 @@ image: "/poi-images/kushtia-cities-v2.webp"
     type: "city",
     parent: "BD-D",
     coords: [89.2205, 23.1634],
-    name: { de: "Jessore", hu: "Jessore", ro: "Jessore", en: "Jessore",
-image: "/poi-images/jessore-cities-v2.webp"
-},
+    name: { de: "Jessore", hu: "Jessore", ro: "Jessore", en: "Jessore"},
+    image: "/poi-images/jessore-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im Südwesten, bekannt für ihre frühe Unabhängigkeit und als wichtiger Verkehrsknotenpunkt nach Indien.",
       hu: "Stratégiai határváros délnyugaton, amely az India felé irányuló szárazföldi kereskedelem legfontosabb kapuja. A régió híres kertészetéről, virágexportjáról és történelmi gyarmati emlékeiről.",
@@ -568,9 +554,8 @@ image: "/poi-images/jessore-cities-v2.webp"
     type: "city",
     parent: "BD-B",
     coords: [91.9772, 21.4272],
-    name: { de: "Cox's Bazar", hu: "Cox's Bazar", ro: "Cox's Bazar", en: "Cox's Bazar",
-image: "/poi-images/coxs-bazar-cities-v2.webp"
-},
+    name: { de: "Cox's Bazar", hu: "Cox's Bazar", ro: "Cox's Bazar", en: "Cox's Bazar"},
+    image: "/poi-images/coxs-bazar-cities-v2.webp",
     description: {
       de: "Die Stadt ist weltberühmt für ihren ununterbrochenen natürlichen Sandstrand, den längsten der Welt.",
       hu: "A világ leghosszabb természetes homokos strandjának otthont adó Cox's Bazar Banglades legnépszerűbb turisztikai célpontja. A Bengáli-öböl partján elterülő város híres tengeri halászatáról is.",
@@ -608,9 +593,8 @@ image: "/poi-images/coxs-bazar-cities-v2.webp"
     type: "city",
     parent: "BD-B",
     coords: [91.1119, 23.9571],
-    name: { de: "Brahmanbaria", hu: "Brahmanbaria", ro: "Brahmanbaria", en: "Brahmanbaria",
-image: "/poi-images/brahmanbaria-cities-v2.webp"
-},
+    name: { de: "Brahmanbaria", hu: "Brahmanbaria", ro: "Brahmanbaria", en: "Brahmanbaria"},
+    image: "/poi-images/brahmanbaria-cities-v2.webp",
     description: {
       de: "Ein bedeutendes kulturelles Zentrum im Osten, bekannt für seine Beiträge zu Musik, Literatur und Bildung.",
       hu: "Kelet-Banglades kulturális központja, amely a Titas folyó partján fekszik, és híres a bengáli klasszikus zene nagy alakjairól. A város emellett az ország egyik legfontosabb földgázkitermelő helyszíne.",
@@ -648,9 +632,8 @@ image: "/poi-images/brahmanbaria-cities-v2.webp"
     type: "city",
     parent: "BD-F",
     coords: [88.6258, 25.6217],
-    name: { de: "Dinajpur", hu: "Dinajpur", ro: "Dinajpur", en: "Dinajpur",
-image: "/poi-images/dinajpur-cities-v2.webp"
-},
+    name: { de: "Dinajpur", hu: "Dinajpur", ro: "Dinajpur", en: "Dinajpur"},
+    image: "/poi-images/dinajpur-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im Norden, bekannt für ihre Reismühlen, Kohleminen und den prächtigen Kantajew-Tempel.",
       hu: "Az északi régió történelmi városa, amely pazar terrakotta templomairól és mezőgazdasági bőségéről híres. Itt található az ország egyetlen aktív szénbányája és legszebb licsiültetvényei.",
@@ -688,9 +671,8 @@ image: "/poi-images/dinajpur-cities-v2.webp"
     type: "city",
     parent: "BD-E",
     coords: [89.2467, 24.0049],
-    name: { de: "Pabna", hu: "Pabna", ro: "Pabna", en: "Pabna",
-image: "/poi-images/pabna-cities-v2.webp"
-},
+    name: { de: "Pabna", hu: "Pabna", ro: "Pabna", en: "Pabna"},
+    image: "/poi-images/pabna-cities-v2.webp",
     description: {
       de: "Eine wichtige Stadt am Padma-Fluss, bekannt für ihre Textilindustrie und als Standort des ersten Kernkraftwerks des Landes.",
       hu: "A Padma folyó északi partján fekvő város az ország egyik legfontosabb ipari és tudományos bázisa. Itt épül Banglades első atomerőműve, és jelentős gyógyszeripari központnak is otthont ad.",
@@ -728,9 +710,8 @@ image: "/poi-images/pabna-cities-v2.webp"
     type: "city",
     parent: "BD-C",
     coords: [89.9231, 24.2513],
-    name: { de: "Tangail", hu: "Tangail", ro: "Tangail", en: "Tangail",
-image: "/poi-images/tangail-cities-v2.webp"
-},
+    name: { de: "Tangail", hu: "Tangail", ro: "Tangail", en: "Tangail"},
+    image: "/poi-images/tangail-cities-v2.webp",
     description: {
       de: "Berühmt für seine einzigartigen handgewebten Saris und köstlichen traditionellen Süßigkeiten.",
       hu: "Dakkától északra fekvő város, amely világhírű a tradicionális 'Tangail szárik' készítéséről. A régió emellett híres mezőgazdasági termékeiről, különösen a Madhupur dombos vidékein termő ananászról.",
@@ -768,9 +749,8 @@ image: "/poi-images/tangail-cities-v2.webp"
     type: "city",
     parent: "BD-E",
     coords: [89.7000, 24.4534],
-    name: { de: "Sirajganj", hu: "Sirajganj", ro: "Sirajganj", en: "Sirajganj",
-image: "/poi-images/sirajganj-cities-v2.webp"
-},
+    name: { de: "Sirajganj", hu: "Sirajganj", ro: "Sirajganj", en: "Sirajganj"},
+    image: "/poi-images/sirajganj-cities-v2.webp",
     description: {
       de: "Eine strategisch wichtige Stadt am Jamuna-Fluss, die als Tor zum Norden von Bangladesch gilt.",
       hu: "A hatalmas Jamuna folyó partján fekvő város Észak-Banglades legfontosabb közlekedési kapuja. Strategiai elhelyezkedése és virágzó textilipara révén a régió meghatározó gazdasági csomópontja.",
@@ -808,9 +788,8 @@ image: "/poi-images/sirajganj-cities-v2.webp"
     type: "city",
     parent: "BD-B",
     coords: [91.4000, 23.0159],
-    name: { de: "Feni", hu: "Feni", ro: "Feni", en: "Feni",
-image: "/poi-images/feni-cities-v2.webp"
-},
+    name: { de: "Feni", hu: "Feni", ro: "Feni", en: "Feni"},
+    image: "/poi-images/feni-cities-v2.webp",
     description: {
       de: "Eine geschäftige Stadt im Südosten, die als wichtiger Verbindungspunkt zwischen Dhaka und Chittagong dient.",
       hu: "Strategiai elhelyezkedésű város a Dakka-Csittagong főút mentén, amely fontos kereskedelmi és tranzitcsomópont. A régió híres magas írástudási arányáról és pezsgő gazdasági életéről.",
@@ -848,9 +827,8 @@ image: "/poi-images/feni-cities-v2.webp"
     type: "city",
     parent: "BD-H",
     coords: [89.9400, 24.9300],
-    name: { de: "Jamalpur", hu: "Jamalpur", ro: "Jamalpur", en: "Jamalpur",
-image: "/poi-images/jamalpur-cities-v2.webp"
-},
+    name: { de: "Jamalpur", hu: "Jamalpur", ro: "Jamalpur", en: "Jamalpur"},
+    image: "/poi-images/jamalpur-cities-v2.webp",
     description: {
       de: "Eine Stadt im Norden, die für ihre handwerklichen Stickereien und die Produktion von landwirtschaftlichen Erzeugnissen bekannt ist.",
       hu: "A Brahmaputra folyó partján elterülő város híres kézműves hagyományairól, különösen a hímzett hálóingekről és takarókról. A régió fontos mezőgazdasági központ, különösen juta- és dohánytermelése jelentős.",
@@ -888,9 +866,8 @@ image: "/poi-images/jamalpur-cities-v2.webp"
     type: "city",
     parent: "BD-E",
     coords: [88.9400, 24.8100],
-    name: { de: "Naogaon", hu: "Naogaon", ro: "Naogaon", en: "Naogaon",
-image: "/poi-images/naogaon-cities-v2.webp"
-},
+    name: { de: "Naogaon", hu: "Naogaon", ro: "Naogaon", en: "Naogaon"},
+    image: "/poi-images/naogaon-cities-v2.webp",
     description: {
       de: "Eine historische Stadt im Nordwesten, bekannt für ihre Reismühlen und die Nähe zur Weltkulturerbestätte Paharpur.",
       hu: "Észak-Banglades 'magtára', amely az ország egyik legfontosabb rizstermelő területe. A város közelében található Paharpur, Dél-Ázsia egyik legjelentősebb buddhista kolostorromja és világörökségi helyszíne.",
@@ -928,9 +905,8 @@ image: "/poi-images/naogaon-cities-v2.webp"
     type: "city",
     parent: "BD-B",
     coords: [91.1000, 22.8300],
-    name: { de: "Noakhali", hu: "Noakhali", ro: "Noakhali", en: "Noakhali",
-image: "/poi-images/noakhali-cities-v2.webp"
-},
+    name: { de: "Noakhali", hu: "Noakhali", ro: "Noakhali", en: "Noakhali"},
+    image: "/poi-images/noakhali-cities-v2.webp",
     description: {
       de: "Eine Küstenstadt im Süden, die für ihre Widerstandsfähigkeit gegenüber Naturkatastrophen und ihre reiche Geschichte bekannt ist.",
       hu: "Délkeleti tengerparti régió, amely erős kulturális identitásáról és a természeti erőkkel szembeni ellenálló képességéről ismert. Lakói híresek sajátos dialektusukról és sikeres vállalkozói szellemükről.",
@@ -968,9 +944,8 @@ image: "/poi-images/noakhali-cities-v2.webp"
     type: "city",
     parent: "BD-C",
     coords: [89.8400, 23.6000],
-    name: { de: "Faridpur", hu: "Faridpur", ro: "Faridpur", en: "Faridpur",
-image: "/poi-images/faridpur-cities-v2.webp"
-},
+    name: { de: "Faridpur", hu: "Faridpur", ro: "Faridpur", en: "Faridpur"},
+    image: "/poi-images/faridpur-cities-v2.webp",
     description: {
       de: "Eine bedeutende Stadt in Zentralbangladesch, die für ihren Jutehandel und als Geburtsort wichtiger politischer Persönlichkeiten bekannt ist.",
       hu: "A Padma folyó partján fekvő nagy múltú város, amely spirituális hagyományairól és irodalmi nagyságairól ismert. A régió a 'juta fővárosaként' is híres, és központi szerepet játszik az ország agráréletében.",
@@ -1008,9 +983,8 @@ image: "/poi-images/faridpur-cities-v2.webp"
     type: "city",
     parent: "BD-F",
     coords: [88.8917, 25.7778],
-    name: { de: "Saidpur", hu: "Saidpur", ro: "Saidpur", en: "Saidpur",
-image: "/poi-images/saidpur-cities-v2.webp"
-},
+    name: { de: "Saidpur", hu: "Saidpur", ro: "Saidpur", en: "Saidpur"},
+    image: "/poi-images/saidpur-cities-v2.webp",
     description: {
       de: "Ein wichtiges Industrie- und Verkehrszentrum im Norden, bekannt für seine Eisenbahnwerkstätten und seinen Flughafen.",
       hu: "Egyedülálló ipari város északon, amelynek identitását a vasút határozza meg. Itt található Dél-Ázsia egyik legrégebbi vasúti javítóműhelye, és a város az északi régió fontos légi és kereskedelmi csomópontja.",
@@ -1048,9 +1022,8 @@ image: "/poi-images/saidpur-cities-v2.webp"
     type: "city",
     parent: "BD-C",
     coords: [90.7333, 23.9167],
-    name: { de: "Narsingdi", hu: "Narsingdi", ro: "Narsingdi", en: "Narsingdi",
-image: "/poi-images/narsingdi-cities-v2.webp"
-},
+    name: { de: "Narsingdi", hu: "Narsingdi", ro: "Narsingdi", en: "Narsingdi"},
+    image: "/poi-images/narsingdi-cities-v2.webp",
     description: {
       de: "Ein wichtiges Industriezentrum in der Nähe von Dhaka, das für seine florierende Textilindustrie und den Handel mit landwirtschaftlichen Erzeugnissen bekannt ist.",
       hu: "A textilipar lüktető központja Dakkától keletre, amely Ázsia egyik legnagyobb textilpiacának ad otthont. A régió régészeti jelentősége is óriási, köszönhetően a több ezer éves Wari-Bateshwar leleteknek.",
@@ -1088,9 +1061,8 @@ image: "/poi-images/narsingdi-cities-v2.webp"
     type: "city",
     parent: "BD-B",
     coords: [90.6500, 23.2333],
-    name: { de: "Chandpur", hu: "Chandpur", ro: "Chandpur", en: "Chandpur",
-image: "/poi-images/chandpur-cities-v2.webp"
-},
+    name: { de: "Chandpur", hu: "Chandpur", ro: "Chandpur", en: "Chandpur"},
+    image: "/poi-images/chandpur-cities-v2.webp",
     description: {
       de: "Die Stadt liegt am Zusammenfluss der großen Ströme Padma und Meghna und ist berühmt für ihren Hilsa-Fisch.",
       hu: "A Padma és Meghna folyók látványos összefolyásánál fekvő város, amelyet a 'Hilsa hal fővárosaként' ismernek. Strategiai folyami kikötője révén a belföldi vízi közlekedés elengedhetetlen csomópontja.",
@@ -1128,9 +1100,8 @@ image: "/poi-images/chandpur-cities-v2.webp"
     type: "city",
     parent: "BD-A",
     coords: [90.6500, 22.6833],
-    name: { de: "Bhola", hu: "Bhola", ro: "Bhola", en: "Bhola",
-image: "/poi-images/bhola-cities-v2.webp"
-},
+    name: { de: "Bhola", hu: "Bhola", ro: "Bhola", en: "Bhola"},
+    image: "/poi-images/bhola-cities-v2.webp",
     description: {
       de: "Die einzige Insel-Distrikthauptstadt des Landes, gelegen an der Mündung des Meghna-Flusses in den Golf von Bengalen.",
       hu: "Banglades legnagyobb szigetvárosa a torkolatvidéken, amelyet gazdag vízi élővilág és termékeny földek jellemeznek. A sziget óriási földgázkészletei révén kulcsszerepet játszik az ország energiaellátásában.",
@@ -1168,9 +1139,8 @@ image: "/poi-images/bhola-cities-v2.webp"
     type: "city",
     parent: "BD-D",
     coords: [89.1833, 23.5500],
-    name: { de: "Jhenaidah", hu: "Jhenaidah", ro: "Jhenaidah", en: "Jhenaidah",
-image: "/poi-images/jhenaidah-cities-v2.webp"
-},
+    name: { de: "Jhenaidah", hu: "Jhenaidah", ro: "Jhenaidah", en: "Jhenaidah"},
+    image: "/poi-images/jhenaidah-cities-v2.webp",
     description: {
       de: "Eine landwirtschaftlich geprägte Stadt im Westen, bekannt für ihre Bananenplantagen und historischen Moscheen.",
       hu: "Délnyugat-Banglades történelmi és mezőgazdasági központja, amely számos antik mecsetet és építészeti emléket őriz a szultanátus korából. A város híres agrárinnovációiról és békés, zöld tájairól.",

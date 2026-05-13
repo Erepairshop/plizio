@@ -426,26 +426,6 @@ export const irelandNature: POI[] = [
     image: "/geo-images/ireland/giants-causeway.webp",
   },
   {
-    id: "nat-cliffs-moher",
-    type: "landmark",
-    parent: "ireland",
-    coords: [-9.4309, 52.9711],
-    name: { de: "Cliffs of Moher", hu: "Cliffs of Moher", ro: "Cliffs of Moher", en: "Cliffs of Moher" },
-    description: {
-      en: "The Cliffs of Moher are a spectacular Atlantic coastline in County Clare, rising steeply above the sea.",
-      de: "Die Cliffs of Moher sind eine spektakuläre Atlantikküste in County Clare, die steil über dem Meer aufragt.",
-      hu: "A Cliffs of Moher Clare megyében található látványos atlanti partszakasz, amely meredeken emelkedik a tenger fölé.",
-      ro: "Cliffs of Moher sunt o coastă atlantică spectaculoasă din comitatul Clare, ridicându-se abrupt deasupra mării."
-    },
-    facts: {
-      en: ["They rise to 214 meters above sea level.", "They stretch for about 8 kilometers.", "They are a UNESCO Global Geopark site.", "They are home to many seabirds."],
-      de: ["Sie ragen bis zu 214 Meter über den Meeresspiegel auf.", "Sie erstrecken sich über etwa 8 Kilometer.", "Sie sind ein UNESCO-Global-Geopark.", "Sie sind die Heimat vieler Seevögel."],
-      hu: ["Akár 214 méterre magasodnak a tengerszint fölé.", "Körülbelül 8 kilométer hosszan húzódnak.", "UNESCO Global Geopark helyszín.", "Sok tengeri madár él itt."],
-      ro: ["Se ridică până la 214 metri deasupra nivelului mării.", "Se întind pe aproximativ 8 kilometri.", "Sunt un sit UNESCO Global Geopark.", "Adăpostesc multe păsări marine."]
-    },
-    image: "/geo-images/ireland/cliffs-moher.webp",
-  },
-  {
     id: "nat-ring-kerry",
     type: "landmark",
     parent: "ireland",
@@ -750,26 +730,6 @@ export const irelandCulture: POI[] = [
     image: "/geo-images/ireland/newgrange.webp",
   },
   {
-    id: "cult-blarney",
-    type: "landmark",
-    parent: "city-cork",
-    coords: [-8.5706, 51.9297],
-    name: { de: "Blarney Castle", hu: "Blarney Castle", ro: "Blarney Castle", en: "Blarney Castle" },
-    description: {
-      en: "Blarney Castle is a medieval fortress near Cork, famous for the Blarney Stone and its gardens.",
-      de: "Blarney Castle ist eine mittelalterliche Festung nahe Cork, berühmt für den Blarney Stone und seine Gärten.",
-      hu: "A Blarney Castle egy középkori erőd Cork közelében, híres a Blarney-kőről és kertjeiről.",
-      ro: "Blarney Castle este o fortăreață medievală lângă Cork, faimoasă pentru Piatra Blarney și grădinile sale."
-    },
-    facts: {
-      en: ["The Blarney Stone is said to grant eloquence.", "The current castle dates from the 15th century.", "Visitors kiss the stone by leaning backward.", "The gardens are a major attraction."],
-      de: ["Dem Blarney Stone wird Beredsamkeit nachgesagt.", "Die heutige Burg stammt aus dem 15. Jahrhundert.", "Besucher küssen den Stein, indem sie sich zurücklehnen.", "Die Gärten sind eine Hauptattraktion."],
-      hu: ["A Blarney-kőnek ékesszólást tulajdonítanak.", "A jelenlegi vár a 15. századból származik.", "A követ hátradőlve csókolják meg.", "A kertek fő látványosságok."],
-      ro: ["Piatra Blarney este considerată aducătoare de elocvență.", "Castelul actual datează din secolul al XV-lea.", "Vizitatorii sărută piatra aplecându-se pe spate.", "Grădinile sunt o atracție majoră."]
-    },
-    image: "/geo-images/ireland/blarney.webp",
-  },
-  {
     id: "cult-kilkenny",
     type: "landmark",
     parent: "ireland",
@@ -810,26 +770,6 @@ export const irelandCulture: POI[] = [
     },
     image: "/geo-images/ireland/trim-castle.webp",
   },
-  {
-    id: "hist-newgrange",
-    type: "historical",
-    parent: "ireland",
-    coords: [-6.4754, 53.6947],
-    name: { de: "Newgrange", hu: "Newgrange", ro: "Newgrange", en: "Newgrange" },
-    description: {
-      en: "Newgrange is a prehistoric passage tomb in the Boyne Valley and one of Ireland's most searched archaeological sites. Older than Stonehenge and the Egyptian pyramids, it delivers huge SEO value for ancient history and world heritage travel. The monument is famous for its winter solstice alignment and carefully reconstructed mound. Newgrange offers a rare mix of mystery, science, and ancient Irish storytelling.",
-      de: "Newgrange ist ein prähistorisches Ganggrab im Boyne Valley und eine der meistgesuchten archäologischen Stätten Irlands. Člter als Stonehenge und die ägyptischen Pyramiden, liefert es großen SEO-Wert für Antike und Weltkulturerbe. Das Monument ist berühmt für seine Ausrichtung auf die Wintersonnenwende und seinen sorgfältig rekonstruierten Hügel. Newgrange verbindet Geheimnis, Wissenschaft und uraltes irisches Erzählen.",
-      hu: "A Newgrange egy őskori átjárósír a Boyne-völgyben, és Írország egyik legkeresettebb régészeti helyszíne. Idősebb Stonehenge-nél és az egyiptomi piramisoknál, így óriási SEO-értéket jelent az ókori történelem és világörökségi utazás témájában. Az emlékmű a téli napfordulóhoz igazított bejáratáról és gondosan rekonstruált dombjáról híres. Newgrange ritka keveréke a misztikumnak, a tudománynak és az ősi ír történetmesélésnek.",
-      ro: "Newgrange este un mormânt preistoric de tip passage în Boyne Valley și unul dintre cele mai căutate situri arheologice din Irlanda. Mai vechi decât Stonehenge și piramidele egiptene, oferă valoare SEO uriașă pentru istorie antică și turism de patrimoniu mondial. Monumentul este faimos pentru alinierea la solstițiul de iarnă și pentru tumulul său reconstruit cu grijă. Newgrange oferă un amestec rar de mister, știință și poveste irlandeză străveche."
-    },
-    facts: {
-      en: ["Newgrange dates to around 3200 BC.", "It is older than Stonehenge.", "The passage aligns with the winter solstice sunrise.", "It is in the Boyne Valley UNESCO landscape.", "Newgrange is one of Europe's great prehistoric monuments."],
-      de: ["Newgrange stammt ungefähr aus dem Jahr 3200 v. Chr.", "Es ist älter als Stonehenge.", "Der Gang ist auf den Sonnenaufgang der Wintersonnenwende ausgerichtet.", "Es liegt in der UNESCO-Landschaft des Boyne Valley.", "Newgrange zählt zu Europas großen prähistorischen Monumenten."],
-      hu: ["Newgrange körülbelül Kr. e. 3200-ból származik.", "Idősebb Stonehenge-nél.", "A folyosó a téli napforduló napfelkeltéjéhez igazodik.", "A Boyne-völgy UNESCO tájának része.", "Newgrange Európa nagy őskori emlékművei közé tartozik."],
-      ro: ["Newgrange datează din jurul anului 3200 î.Hr.", "Este mai vechi decât Stonehenge.", "Coridorul este aliniat cu răsăritul de la solstițiul de iarnă.", "Se află în peisajul UNESCO Boyne Valley.", "Newgrange este unul dintre marile monumente preistorice ale Europei."]
-    },
-    image: "/geo-images/ireland/newgrange.webp",
-  }
   ,
   {
     id: "hist-kilmainham-gaol",
@@ -850,26 +790,6 @@ export const irelandCulture: POI[] = [
       ro: ["Kilmainham Gaol s-a deschis în 1796.", "A avut un rol major în istoria independenței irlandeze.", "Mulți lideri rebeli au fost închiși aici.", "Clădirea este acum muzeu.", "Este unul dintre cele mai importante situri istorice din Dublin."]
     },
     image: "/geo-images/ireland/kilmainham-gaol.webp",
-  },
-  {
-    id: "hist-rock-of-cashel",
-    type: "historical",
-    parent: "ireland",
-    coords: [-7.8892, 52.5200],
-    name: { de: "Rock of Cashel", hu: "Rock of Cashel", ro: "Rock of Cashel", en: "Rock of Cashel" },
-    description: {
-      en: "The Rock of Cashel rises dramatically above the plains of Tipperary and is one of Ireland's iconic medieval sites. Its cathedral ruins, round tower, and royal associations make it essential for history-focused travel content. The location delivers strong search appeal because it combines scenic drama with deep ecclesiastical heritage. Cashel is a classic stop for anyone tracing early Irish kingship and church power.",
-      de: "Der Rock of Cashel erhebt sich dramatisch über die Ebenen von Tipperary und ist eine der ikonischen mittelalterlichen Stätten Irlands. Seine Kathedralruinen, der Rundturm und die königlichen Bezüge machen ihn für geschichtsorientierte Reiseseiten unverzichtbar. Der Ort besitzt starke Suchattraktivität, weil er landschaftliche Dramatik mit tiefer kirchlicher Geschichte verbindet. Cashel ist ein klassischer Halt für alle, die frühe irische Königsmacht und Kirchenmacht nachvollziehen wollen.",
-      hu: "A Rock of Cashel drámaian emelkedik Tipperary síksága fölé, és Írország egyik ikonikus középkori helyszíne. Katedrálisromjai, kerek tornya és királyi kapcsolatai miatt a történelemközpontú utazási tartalmak nélkülözhetetlen eleme. A hely erős keresési vonzerőt jelent, mert a táji látványt mély egyházi örökséggel köti össze. Cashel klasszikus megálló mindazoknak, akik az ír királyság és egyházi hatalom korai történetét követik.",
-      ro: "Rock of Cashel se ridică spectaculos deasupra câmpiilor din Tipperary și este unul dintre siturile medievale emblematice ale Irlandei. Ruinele catedralei, turnul rotund și legăturile regale îl fac esențial pentru conținutul de călătorie axat pe istorie. Locația are un puternic atractiv pentru căutări, deoarece combină dramatismul peisajului cu patrimoniul ecleziastic profund. Cashel este o oprire clasică pentru cei care urmăresc începuturile regalității și puterii bisericești irlandeze."
-    },
-    facts: {
-      en: ["The Rock of Cashel was associated with the kings of Munster.", "It includes a round tower and cathedral ruins.", "It is one of Ireland's best-known medieval landmarks.", "The site sits on a limestone outcrop.", "Cashel is a major heritage stop in Tipperary."],
-      de: ["Der Rock of Cashel war mit den Königen von Munster verbunden.", "Er umfasst einen Rundturm und Kathedralruinen.", "Er ist eines der bekanntesten mittelalterlichen Wahrzeichen Irlands.", "Der Ort liegt auf einem Kalksteinfelsen.", "Cashel ist ein wichtiger Kulturerbe-Stopp in Tipperary."],
-      hu: ["A Rock of Cashel a munsteri királyokhoz kötődött.", "Kerek tornyot és katedrálisromokat is magában foglal.", "Írország egyik legismertebb középkori látványossága.", "A hely mészkőszirten fekszik.", "Cashel fontos örökségi megálló Tipperaryben."],
-      ro: ["Rock of Cashel a fost asociat cu regii din Munster.", "Include un turn rotund și ruine de catedrală.", "Este unul dintre cele mai cunoscute repere medievale ale Irlandei.", "Situl se află pe un afloriment de calcar.", "Cashel este o oprire majoră de patrimoniu în Tipperary."]
-    },
-    image: "/geo-images/ireland/rock-of-cashel.webp",
   },
   {
     id: "hist-clonmacnoise",
@@ -1133,26 +1053,6 @@ export const irelandCulture: POI[] = [
       ro: ["Este un muzeu important din Dublin.", "Secția de arheologie este deosebit de celebră.", "Colecția include Ardagh Chalice.", "Intrarea este gratuită.", "Este central pentru vizite școlare și de familie în Irlanda."]
     },
     image: "/geo-images/ireland/national-museum-archaeology.webp",
-  },
-  {
-    id: "landmark-the-custom-house",
-    type: "landmark",
-    parent: "ireland",
-    coords: [-6.2487, 53.3498],
-    name: { de: "The Custom House", hu: "Custom House", ro: "The Custom House", en: "The Custom House" },
-    description: {
-      en: "The Custom House is one of Dublin's finest neoclassical landmarks and a symbol of the city's riverfront. Designed by James Gandon, it remains central to Irish architectural tourism and cityscape photography. The building also carries strong historical meaning through fire, reconstruction, and state administration. It is a classic keyword for Dublin architecture, Georgian design, and waterfront heritage.",
-      de: "The Custom House ist eines der besten neoklassizistischen Wahrzeichen Dublins und ein Symbol der Flussfront der Stadt. Von James Gandon entworfen, bleibt es zentral für irischen Architekturtourismus und Stadtfotografie. Das Gebäude hat auch durch Feuer, Wiederaufbau und staatliche Verwaltung starke historische Bedeutung. Es ist ein klassisches Keyword für Dubliner Architektur, georgianisches Design und Ufererbe.",
-      hu: "A Custom House Dublin egyik legszebb neoklasszicista nevezetessége és a folyópart egyik jelképe. James Gandon tervezte, és ma is központi szerepet játszik az ír építészeti turizmusban és városképi fotózásban. Az épület a tűz, az újjáépítés és az államigazgatás miatt történelmileg is fontos. Klasszikus kulcsszó Dublin építészetére, georgiánus stílusára és vízparti örökségére.",
-      ro: "The Custom House este unul dintre cele mai frumoase repere neoclasice ale Dublinului și un simbol al malului râului. Proiectată de James Gandon, rămâne centrală pentru turismul arhitectural irlandez și fotografia de cityscape. Clădirea are și o puternică semnificație istorică prin incendiu, reconstrucție și administrarea statului. Este un cuvânt-cheie clasic pentru arhitectura Dublinului, designul georgian și patrimoniul de pe malul apei."
-    },
-    facts: {
-      en: ["The Custom House stands on the River Liffey.", "It was designed by James Gandon.", "It is a major neoclassical building.", "The structure has a dramatic fire history.", "It is one of Dublin's most photographed riverfront sites."],
-      de: ["The Custom House steht am River Liffey.", "Es wurde von James Gandon entworfen.", "Es ist ein bedeutendes neoklassizistisches Gebäude.", "Das Gebäude hat eine dramatische Brandgeschichte.", "Es ist einer der meistfotografierten Orte an Dublins Flussufer."],
-      hu: ["A Custom House a Liffey folyónál áll.", "James Gandon tervezte.", "Jelentős neoklasszicista épület.", "Dramatikus tűz története van.", "Dublin egyik legtöbbet fotózott folyóparti helye."],
-      ro: ["The Custom House se află pe râul Liffey.", "A fost proiectată de James Gandon.", "Este o clădire neoclasică majoră.", "Structura are o istorie dramatică a incendiului.", "Este unul dintre cele mai fotografiate situri de pe malul râului din Dublin."]
-    },
-    image: "/geo-images/ireland/the-custom-house.webp",
   },
   {
     id: "landmark-belfast-harbour",
@@ -1953,46 +1853,6 @@ export const irelandCulture: POI[] = [
       ro: ["Brand major irlandez de whiskey.", "Cuvant-cheie industrial puternic pentru Offaly.", "Legat de istoria exportului.", "Bun pentru cautari in Midlands.", "Cunoscut la nivel national."]
     },
     image: "/geo-images/ireland/tullamore-dew.webp",
-  },
-  {
-    id: "kid-landmark-dublin-zoo",
-    type: "kid-landmark",
-    parent: "ireland",
-    coords: [-6.3006, 53.3554],
-    name: { de: "Dublin Zoo", hu: "Dublin Zoo", ro: "Dublin Zoo", en: "Dublin Zoo" },
-    description: {
-      en: "Dublin Zoo is one of the country's best-known family attractions. It sits in Phoenix Park and offers a classic day-out for visitors of all ages. The zoo is central to Dublin family planning and school-holiday searches. Dublin Zoo is a strong child-focused landmark in the capital.",
-      de: "Dublin Zoo ist eine der bekanntesten Familienattraktionen des Landes. Es liegt im Phoenix Park und bietet einen klassischen Tagesausflug fuer Besucher aller Altersgruppen. Der Zoo ist zentral fuer Dublin-Familienplanung und Suchanfragen in den Schulferien. Dublin Zoo ist ein starkes kindorientiertes Wahrzeichen der Hauptstadt.",
-      hu: "A Dublin Zoo az orszag egyik legismertebb csaladi attrakcioja. A Phoenix Parkban talalhato, es klasszikus egesznapos programot ad minden korosztalynak. A zoo kozponti szerepet kap a dublini csaladi tervezesben es az iskolaszüneti keresésekben. A Dublin Zoo eros gyerekfokuszu nevezetesseg a fo varosban.",
-      ro: "Dublin Zoo este una dintre cele mai cunoscute atractii pentru familii din tara. Se afla in Phoenix Park si ofera o zi clasica pentru vizitatori de toate varstele. Gradina zoologica este centrala pentru planificarea in familie in Dublin si pentru cautarile din vacantele scolare. Dublin Zoo este un reper puternic orientat spre copii in capitala."
-    },
-    facts: {
-      en: ["Top family attraction in Dublin.", "Located in Phoenix Park.", "Popular for school-holiday visits.", "Classic day-out for all ages.", "Strong kid-friendly keyword."],
-      de: ["Top-Familienattraktion in Dublin.", "Im Phoenix Park gelegen.", "Beliebt in den Schulferien.", "Klassischer Tagesausflug fuer alle.", "Starkes kinderfreundliches Keyword."],
-      hu: ["Top csaladi attrakcio Dublinban.", "A Phoenix Parkban van.", "Népszeru iskolaszüneti latogatasra.", "Klasszikus egesznapos program.", "Eros gyerekbarat kulcsszo."],
-      ro: ["Atractie de top pentru familii in Dublin.", "Situata in Phoenix Park.", "Populara in vacantele scolare.", "O zi clasica pentru toate varstele.", "Cuvant-cheie puternic pentru copii."]
-    },
-    image: "/geo-images/ireland/dublin-zoo.webp",
-  },
-  {
-    id: "kid-landmark-fota-wildlife-park",
-    type: "kid-landmark",
-    parent: "ireland",
-    coords: [-8.3169, 51.8955],
-    name: { de: "Fota Wildlife Park", hu: "Fota Wildlife Park", ro: "Fota Wildlife Park", en: "Fota Wildlife Park" },
-    description: {
-      en: "Fota Wildlife Park is a major family attraction near Cork. It gives visitors open-space wildlife viewing in a relaxed island setting. The park works well for holiday itineraries and kid days out. Fota Wildlife Park is one of the top child-friendly landmarks in Ireland.",
-      de: "Fota Wildlife Park ist eine grosse Familienattraktion nahe Cork. Er bietet offene Tierbeobachtung in entspannter Inselumgebung. Der Park eignet sich gut fuer Urlaubsrouten und Kindertage. Fota Wildlife Park ist eines der besten kinderfreundlichen Wahrzeichen Irlands.",
-      hu: "A Fota Wildlife Park fontos csaladi attrakcio Cork kozeleben. Nyitott teru vadvilag-nezest ad nyugodt szigeti kornyezetben. A park jo nyaralasi utvonalakhoz es gyerekprogramokhoz. A Fota Wildlife Park Irorszag egyik legjobb gyerekbarat nevezetessege.",
-      ro: "Fota Wildlife Park este o atractie majora pentru familii langa Cork. Ofera observarea faunei in spatiu deschis, intr-un cadru relaxat de insula. Parcul functioneaza bine pentru itinerarii de vacanta si zile pentru copii. Fota Wildlife Park este unul dintre cele mai bune repere prietenoase cu copiii din Irlanda."
-    },
-    facts: {
-      en: ["Major family attraction near Cork.", "Open-space wildlife viewing.", "Relaxed island setting.", "Great for holiday itineraries.", "Top southeast kid keyword."],
-      de: ["Grosse Familienattraktion nahe Cork.", "Tierbeobachtung im offenen Raum.", "Entspannte Inselumgebung.", "Gut fuer Urlaubsrouten.", "Top-Keyword fuer Kinder im Suedosten."],
-      hu: ["Fontos csaladi attrakcio Cork mellett.", "Nyitott teru vadvilag-nezes.", "Nyugodt szigeti kornyezet.", "Jo nyaralasi utvonalakhoz.", "Top delkeleti gyerek kulcsszo."],
-      ro: ["Atractie majora pentru familii langa Cork.", "Observare a faunei in spatiu deschis.", "Cadru relaxat pe insula.", "Excelent pentru itinerarii de vacanta.", "Cuvant de top pentru copii in sud-est."]
-    },
-    image: "/geo-images/ireland/fota-wildlife-park.webp",
   },
   {
     id: "kid-landmark-emerald-park",

@@ -6,9 +6,8 @@ export const poiExtraArmeniaCitiesV2: POI[] = [
     type: "state-capital",
     parent: "AM-ER",
     coords: [44.5136, 40.1811],
-    name: { de: "Erivan", hu: "Jereván", ro: "Erevan", en: "Yerevan",
-image: "/poi-images/armenia-yerevan-cities-v2.webp"
-},
+    name: { de: "Erivan", hu: "Jereván", ro: "Erevan", en: "Yerevan"},
+    image: "/poi-images/armenia-yerevan-cities-v2.webp",
     description: {
       de: "Erivan ist die Hauptstadt und größte Stadt Armeniens, bekannt als die rosa Stadt wegen ihrer Gebäude aus vulkanischem Tuffstein.",
       hu: "Jereván Örményország fővárosa és legnagyobb városa, melyet a vulkáni tufa épületei miatt rózsaszín városként is ismernek.",
@@ -44,9 +43,8 @@ image: "/poi-images/armenia-yerevan-cities-v2.webp"
     type: "city",
     parent: "AM-SH",
     coords: [43.8416, 40.7942],
-    name: { de: "Gjumri", hu: "Gjümri", ro: "Gyumri", en: "Gyumri",
-image: "/poi-images/armenia-gyumri-cities-v2.webp"
-},
+    name: { de: "Gjumri", hu: "Gjümri", ro: "Gyumri", en: "Gyumri"},
+    image: "/poi-images/armenia-gyumri-cities-v2.webp",
     description: {
       de: "Gjumri ist die zweitgrößte Stadt in Armenien, berühmt für ihre historische Architektur und ihr reiches kulturelles Erbe.",
       hu: "Gjümri Örményország második legnagyobb városa, amely híres történelmi építészetéről és gazdag kulturális örökségéről.",
@@ -82,9 +80,8 @@ image: "/poi-images/armenia-gyumri-cities-v2.webp"
     type: "city",
     parent: "AM-LO",
     coords: [44.4886, 40.8074],
-    name: { de: "Wanadsor", hu: "Vanadzor", ro: "Vanadzor", en: "Vanadzor",
-image: "/poi-images/armenia-vanadzor-cities-v2.webp"
-},
+    name: { de: "Wanadsor", hu: "Vanadzor", ro: "Vanadzor", en: "Vanadzor"},
+    image: "/poi-images/armenia-vanadzor-cities-v2.webp",
     description: {
       de: "Wanadsor ist eine Industrie- und Kurstadt im Norden Armeniens, umgeben von malerischen Bergen und Wäldern.",
       hu: "Vanadzor egy ipari és üdülőváros Észak-Örményországban, melyet festői hegyek és erdők vesznek körül.",
@@ -120,9 +117,8 @@ image: "/poi-images/armenia-vanadzor-cities-v2.webp"
     type: "city",
     parent: "AM-AV",
     coords: [44.2939, 40.1669],
-    name: { de: "Wagharschapat", hu: "Vagarsapat", ro: "Vagharshapat", en: "Vagharshapat",
-image: "/poi-images/armenia-vagharshapat-cities-v2.webp"
-},
+    name: { de: "Wagharschapat", hu: "Vagarsapat", ro: "Vagharshapat", en: "Vagharshapat"},
+    image: "/poi-images/armenia-vagharshapat-cities-v2.webp",
     description: {
       de: "Oft als Etschmiadsin bezeichnet, ist diese Stadt das spirituelle Zentrum der armenisch-apostolischen Kirche.",
       hu: "Gyakran Ecsmiadzin néven is említik, ez a város az örmény apostoli egyház spirituális központja.",
@@ -158,9 +154,8 @@ image: "/poi-images/armenia-vagharshapat-cities-v2.webp"
     type: "city",
     parent: "AM-KT",
     coords: [44.6264, 40.2747],
-    name: { de: "Abowjan", hu: "Abovjan", ro: "Abovian", en: "Abovyan",
-image: "/poi-images/armenia-abovyan-cities-v2.webp"
-},
+    name: { de: "Abowjan", hu: "Abovjan", ro: "Abovian", en: "Abovyan"},
+    image: "/poi-images/armenia-abovyan-cities-v2.webp",
     description: {
       de: "Abowjan ist eine moderne Industriestadt nördlich von Erivan, die als wichtige Satellitenstadt dient.",
       hu: "Abovjan egy modern iparváros Jerevántól északra, amely fontos szatellitvárosként szolgál.",
@@ -196,9 +191,8 @@ image: "/poi-images/armenia-abovyan-cities-v2.webp"
     type: "city",
     parent: "AM-SU",
     coords: [46.4058, 39.2075],
-    name: { de: "Kapan", hu: "Kapan", ro: "Kapan", en: "Kapan",
-image: "/poi-images/armenia-kapan-cities-v2.webp"
-},
+    name: { de: "Kapan", hu: "Kapan", ro: "Kapan", en: "Kapan"},
+    image: "/poi-images/armenia-kapan-cities-v2.webp",
     description: {
       de: "Kapan ist die Hauptstadt der Provinz Sjunik und liegt in einem üppigen Tal, das von hohen Bergen umgeben ist.",
       hu: "Kapan a Szjunik tartomány fővárosa, amely egy buja völgyben fekszik, magas hegyekkel körülvéve.",
@@ -234,9 +228,8 @@ image: "/poi-images/armenia-kapan-cities-v2.webp"
     type: "city",
     parent: "AM-KT",
     coords: [44.7644, 40.5008],
-    name: { de: "Hrasdan", hu: "Hrazdan", ro: "Hrazdan", en: "Hrazdan",
-image: "/poi-images/armenia-hrazdan-cities-v2.webp"
-},
+    name: { de: "Hrasdan", hu: "Hrazdan", ro: "Hrazdan", en: "Hrazdan"},
+    image: "/poi-images/armenia-hrazdan-cities-v2.webp",
     description: {
       de: "Hrasdan ist ein wichtiges Industriezentrum in der Provinz Kotajk, gelegen an den Ufern des Flusses Hrasdan.",
       hu: "Hrazdan fontos ipari központ a Kotajk tartományban, a Hrazdan folyó partján fekszik.",
@@ -272,9 +265,8 @@ image: "/poi-images/armenia-hrazdan-cities-v2.webp"
     type: "city",
     parent: "AM-AV",
     coords: [44.0375, 40.1558],
-    name: { de: "Armawir", hu: "Armavir", ro: "Armavir", en: "Armavir",
-image: "/poi-images/armenia-armavir-cities-v2.webp"
-},
+    name: { de: "Armawir", hu: "Armavir", ro: "Armavir", en: "Armavir"},
+    image: "/poi-images/armenia-armavir-cities-v2.webp",
     description: {
       de: "Armawir ist eine alte Stadt, die einst eine der historischen Hauptstädte Armeniens war und heute ein modernes Verwaltungszentrum ist.",
       hu: "Armavir egy ősi város, amely egykor Örményország egyik történelmi fővárosa volt, ma pedig modern közigazgatási központ.",
@@ -310,9 +302,8 @@ image: "/poi-images/armenia-armavir-cities-v2.webp"
     type: "city",
     parent: "AM-AR",
     coords: [44.5458, 39.9614],
-    name: { de: "Artaschat", hu: "Artasat", ro: "Artașat", en: "Artashat",
-image: "/poi-images/armenia-artashat-cities-v2.webp"
-},
+    name: { de: "Artaschat", hu: "Artasat", ro: "Artașat", en: "Artashat"},
+    image: "/poi-images/armenia-artashat-cities-v2.webp",
     description: {
       de: "Artaschat ist die Hauptstadt der Provinz Ararat, erbaut in der Nähe der Ruinen der gleichnamigen antiken armenischen Hauptstadt.",
       hu: "Artasat az Ararát tartomány fővárosa, amelyet az azonos nevű ősi örmény főváros romjai közelében építettek.",
@@ -348,9 +339,8 @@ image: "/poi-images/armenia-artashat-cities-v2.webp"
     type: "city",
     parent: "AM-TA",
     coords: [45.1472, 40.8753],
-    name: { de: "Idschewan", hu: "Idzsevan", ro: "Ijevan", en: "Ijevan",
-image: "/poi-images/armenia-ijevan-cities-v2.webp"
-},
+    name: { de: "Idschewan", hu: "Idzsevan", ro: "Ijevan", en: "Ijevan"},
+    image: "/poi-images/armenia-ijevan-cities-v2.webp",
     description: {
       de: "Idschewan ist eine waldreiche Stadt im Nordosten Armeniens, berühmt für ihre Teppiche, Weine und malerischen Landschaften.",
       hu: "Idzsevan egy erdős város Északkelet-Örményországban, amely híres szőnyegeiről, borairól és festői tájairól.",
@@ -386,9 +376,8 @@ image: "/poi-images/armenia-ijevan-cities-v2.webp"
     type: "city",
     parent: "AM-GR",
     coords: [45.1278, 40.3544],
-    name: { de: "Gawar", hu: "Gavar", ro: "Gavar", en: "Gavar",
-image: "/poi-images/armenia-gavar-cities-v2.webp"
-},
+    name: { de: "Gawar", hu: "Gavar", ro: "Gavar", en: "Gavar"},
+    image: "/poi-images/armenia-gavar-cities-v2.webp",
     description: {
       de: "Gawar ist eine Bergstadt in der Nähe des Sewansees, bekannt für ihre kalten Winter und historischen Denkmäler.",
       hu: "Gavar egy hegyvidéki város a Szeván-tó közelében, mely hideg teleiről és történelmi műemlékeiről ismert.",
@@ -424,9 +413,8 @@ image: "/poi-images/armenia-gavar-cities-v2.webp"
     type: "city",
     parent: "AM-SU",
     coords: [46.3353, 39.5100],
-    name: { de: "Goris", hu: "Goris", ro: "Goris", en: "Goris",
-image: "/poi-images/armenia-goris-cities-v2.webp"
-},
+    name: { de: "Goris", hu: "Goris", ro: "Goris", en: "Goris"},
+    image: "/poi-images/armenia-goris-cities-v2.webp",
     description: {
       de: "Goris ist berühmt für seinen gitterförmigen Straßenplan und die umliegenden Höhlenwohnungen, die in den weichen Fels gehauen wurden.",
       hu: "Goris híres rácsos utcaszerkezetéről és a puha sziklákba vájt környező barlanglakásairól.",
@@ -462,9 +450,8 @@ image: "/poi-images/armenia-goris-cities-v2.webp"
     type: "city",
     parent: "AM-KT",
     coords: [44.6469, 40.4078],
-    name: { de: "Tscharenzawan", hu: "Csarencavan", ro: "Ciarențavan", en: "Charentsavan",
-image: "/poi-images/armenia-charentsavan-cities-v2.webp"
-},
+    name: { de: "Tscharenzawan", hu: "Csarencavan", ro: "Ciarențavan", en: "Charentsavan"},
+    image: "/poi-images/armenia-charentsavan-cities-v2.webp",
     description: {
       de: "Tscharenzawan wurde Mitte des 20. Jahrhunderts als industrielles Zentrum für Maschinen- und Werkzeugbau gegründet.",
       hu: "Csarencavan a 20. század közepén jött létre, mint gépipari és szerszámgyártási központ.",
@@ -500,9 +487,8 @@ image: "/poi-images/armenia-charentsavan-cities-v2.webp"
     type: "city",
     parent: "AM-AR",
     coords: [44.6192, 39.8322],
-    name: { de: "Ararat", hu: "Ararát", ro: "Ararat", en: "Ararat",
-image: "/poi-images/armenia-ararat-cities-v2.webp"
-},
+    name: { de: "Ararat", hu: "Ararát", ro: "Ararat", en: "Ararat"},
+    image: "/poi-images/armenia-ararat-cities-v2.webp",
     description: {
       de: "Die Stadt Ararat ist eine Industriestadt in der Ararat-Ebene, die vor allem für ihre große Zementfabrik bekannt ist.",
       hu: "Ararát egy iparváros az Ararát-síkságon, amely elsősorban hatalmas cementgyáráról ismert.",
@@ -538,9 +524,8 @@ image: "/poi-images/armenia-ararat-cities-v2.webp"
     type: "city",
     parent: "AM-AR",
     coords: [44.4444, 40.0681],
-    name: { de: "Masis", hu: "Maszisz", ro: "Masis", en: "Masis",
-image: "/poi-images/armenia-masis-cities-v2.webp"
-},
+    name: { de: "Masis", hu: "Maszisz", ro: "Masis", en: "Masis"},
+    image: "/poi-images/armenia-masis-cities-v2.webp",
     description: {
       de: "Masis ist ein wichtiger Eisenbahnknotenpunkt und Industriezentrum in der landwirtschaftlichen Provinz Ararat.",
       hu: "Maszisz jelentős vasúti csomópont és ipari központ a mezőgazdasági Ararát tartományban.",
@@ -576,9 +561,8 @@ image: "/poi-images/armenia-masis-cities-v2.webp"
     type: "city",
     parent: "AM-AG",
     coords: [44.3619, 40.2989],
-    name: { de: "Aschtarak", hu: "Astarak", ro: "Aștarak", en: "Ashtarak",
-image: "/poi-images/armenia-ashtarak-cities-v2.webp"
-},
+    name: { de: "Aschtarak", hu: "Astarak", ro: "Aștarak", en: "Ashtarak"},
+    image: "/poi-images/armenia-ashtarak-cities-v2.webp",
     description: {
       de: "Aschtarak ist eine alte Stadt, die sich über die Schlucht des Flusses Kasagh erstreckt und reich an mittelalterlichen Brücken und alten Kirchen ist.",
       hu: "Astarak egy ősi város, amely a Kaszagh folyó szurdokán ível át, és gazdag középkori hidakban, valamint régi templomokban.",
@@ -614,9 +598,8 @@ image: "/poi-images/armenia-ashtarak-cities-v2.webp"
     type: "city",
     parent: "AM-GR",
     coords: [44.9542, 40.5511],
-    name: { de: "Sewan", hu: "Szeván", ro: "Sevan", en: "Sevan",
-image: "/poi-images/armenia-sevan-cities-v2.webp"
-},
+    name: { de: "Sewan", hu: "Szeván", ro: "Sevan", en: "Sevan"},
+    image: "/poi-images/armenia-sevan-cities-v2.webp",
     description: {
       de: "Sewan ist ein beliebter Urlaubsort an den Ufern des Sewansees, dem größten Gewässer Armeniens.",
       hu: "Szeván egy népszerű üdülőváros a Szeván-tó, Örményország legnagyobb vízfelületének partján.",
@@ -652,9 +635,8 @@ image: "/poi-images/armenia-sevan-cities-v2.webp"
     type: "city",
     parent: "AM-SH",
     coords: [43.9725, 40.6158],
-    name: { de: "Artik", hu: "Artik", ro: "Artik", en: "Artik",
-image: "/poi-images/armenia-artik-cities-v2.webp"
-},
+    name: { de: "Artik", hu: "Artik", ro: "Artik", en: "Artik"},
+    image: "/poi-images/armenia-artik-cities-v2.webp",
     description: {
       de: "Artik ist weithin bekannt für seine ausgedehnten Tuffsteinbrüche, die Baumaterialien für das ganze Land geliefert haben.",
       hu: "Artik széles körben ismert kiterjedt tufabányáiról, amelyek az egész ország számára biztosítottak építőanyagot.",
@@ -690,9 +672,8 @@ image: "/poi-images/armenia-artik-cities-v2.webp"
     type: "city",
     parent: "AM-TA",
     coords: [45.0833, 40.7417],
-    name: { de: "Dilidschan", hu: "Dilidzsan", ro: "Dilijan", en: "Dilijan",
-image: "/poi-images/armenia-dilijan-cities-v2.webp"
-},
+    name: { de: "Dilidschan", hu: "Dilidzsan", ro: "Dilijan", en: "Dilijan"},
+    image: "/poi-images/armenia-dilijan-cities-v2.webp",
     description: {
       de: "Oft als 'Armenische Schweiz' bezeichnet, ist Dilidschan ein Kurort, der von dichten Wäldern und Nationalparks umgeben ist.",
       hu: "Gyakran 'örmény Svájcként' emlegetik, Dilidzsan egy sűrű erdőkkel és nemzeti parkokkal körülvett fürdőváros.",
@@ -728,9 +709,8 @@ image: "/poi-images/armenia-dilijan-cities-v2.webp"
     type: "city",
     parent: "AM-SU",
     coords: [46.3314, 39.5256],
-    name: { de: "Sisian", hu: "Sziszian", ro: "Sisian", en: "Sisian",
-image: "/poi-images/armenia-sisian-cities-v2.webp"
-},
+    name: { de: "Sisian", hu: "Sziszian", ro: "Sisian", en: "Sisian"},
+    image: "/poi-images/armenia-sisian-cities-v2.webp",
     description: {
       de: "Sisian ist eine historische Stadt am Fluss Worotan, umgeben von alten megalithischen Denkmälern und Wasserfällen.",
       hu: "Sziszian történelmi város a Vorotan folyó partján, amelyet ősi megalitikus műemlékek és vízesések vesznek körül.",
@@ -766,9 +746,8 @@ image: "/poi-images/armenia-sisian-cities-v2.webp"
     type: "city",
     parent: "AM-LO",
     coords: [44.6547, 41.1006],
-    name: { de: "Alawerdi", hu: "Alaverdi", ro: "Alaverdi", en: "Alaverdi",
-image: "/poi-images/armenia-alaverdi-cities-v2.webp"
-},
+    name: { de: "Alawerdi", hu: "Alaverdi", ro: "Alaverdi", en: "Alaverdi"},
+    image: "/poi-images/armenia-alaverdi-cities-v2.webp",
     description: {
       de: "Alawerdi ist eine Stadt in der Debed-Schlucht, historisch bekannt für ihre umfangreichen Kupferbergbaubetriebe.",
       hu: "Alaverdi a Debed folyó szurdokában fekvő város, amely történelmileg kiterjedt rézbányászati tevékenységéről ismert.",
@@ -804,9 +783,8 @@ image: "/poi-images/armenia-alaverdi-cities-v2.webp"
     type: "city",
     parent: "AM-LO",
     coords: [44.3853, 41.0064],
-    name: { de: "Stepanawan", hu: "Sztepanavan", ro: "Stepanavan", en: "Stepanavan",
-image: "/poi-images/armenia-stepanavan-cities-v2.webp"
-},
+    name: { de: "Stepanawan", hu: "Sztepanavan", ro: "Stepanavan", en: "Stepanavan"},
+    image: "/poi-images/armenia-stepanavan-cities-v2.webp",
     description: {
       de: "Stepanawan ist eine nördliche Ferienstadt, geschätzt für ihre Kiefernwälder, ihr kühles Klima und die nahe gelegenen Lori-Berd-Ruinen.",
       hu: "Sztepanavan egy északi üdülőváros, amelyet fenyvesei, hűvös éghajlata és a közeli Lori Berd romjai tesznek népszerűvé.",
@@ -842,9 +820,8 @@ image: "/poi-images/armenia-stepanavan-cities-v2.webp"
     type: "city",
     parent: "AM-LO",
     coords: [44.2694, 40.8358],
-    name: { de: "Spitak", hu: "Szpitak", ro: "Spitak", en: "Spitak",
-image: "/poi-images/armenia-spitak-cities-v2.webp"
-},
+    name: { de: "Spitak", hu: "Szpitak", ro: "Spitak", en: "Spitak"},
+    image: "/poi-images/armenia-spitak-cities-v2.webp",
     description: {
       de: "Spitak ist eine wiederaufgebaute Stadt, die durch ein katastrophales Erdbeben im Jahr 1988 fast vollständig zerstört wurde.",
       hu: "Szpitak egy újjáépített város, amelyet az 1988-as katasztrofális földrengés szinte teljesen elpusztított.",
@@ -880,9 +857,8 @@ image: "/poi-images/armenia-spitak-cities-v2.webp"
     type: "city",
     parent: "AM-GR",
     coords: [45.7231, 40.1808],
-    name: { de: "Wardenis", hu: "Vardenisz", ro: "Vardenis", en: "Vardenis",
-image: "/poi-images/armenia-vardenis-cities-v2.webp"
-},
+    name: { de: "Wardenis", hu: "Vardenisz", ro: "Vardenis", en: "Vardenis"},
+    image: "/poi-images/armenia-vardenis-cities-v2.webp",
     description: {
       de: "Wardenis ist eine Stadt in der Nähe des südöstlichen Ufers des Sewansees und fungiert als landwirtschaftliches Zentrum.",
       hu: "Vardenisz a Szeván-tó délkeleti partjának közelében található város, amely mezőgazdasági központként működik.",
@@ -918,9 +894,8 @@ image: "/poi-images/armenia-vardenis-cities-v2.webp"
     type: "city",
     parent: "AM-VD",
     coords: [45.3325, 39.7611],
-    name: { de: "Jeghegnadsor", hu: "Jehegnadzor", ro: "Eghegnadzor", en: "Yeghegnadzor",
-image: "/poi-images/armenia-yeghegnadzor-cities-v2.webp"
-},
+    name: { de: "Jeghegnadsor", hu: "Jehegnadzor", ro: "Eghegnadzor", en: "Yeghegnadzor"},
+    image: "/poi-images/armenia-yeghegnadzor-cities-v2.webp",
     description: {
       de: "Jeghegnadsor ist die Hauptstadt der Provinz Wajoz Dsor, in einer Region gelegen, die für ihre alten Weinbautraditionen bekannt ist.",
       hu: "Jehegnadzor a Vajoc Dzor tartomány fővárosa, mely az ősi borkészítési hagyományairól híres régióban található.",
@@ -956,9 +931,8 @@ image: "/poi-images/armenia-yeghegnadzor-cities-v2.webp"
     type: "city",
     parent: "AM-KT",
     coords: [44.4800, 40.3208],
-    name: { de: "Jeghward", hu: "Jehvard", ro: "Eghvard", en: "Yeghvard",
-image: "/poi-images/armenia-yeghvard-cities-v2.webp"
-},
+    name: { de: "Jeghward", hu: "Jehvard", ro: "Eghvard", en: "Yeghvard"},
+    image: "/poi-images/armenia-yeghvard-cities-v2.webp",
     description: {
       de: "Jeghward ist eine kleine historische Stadt in der Region Kotajk, die mittelalterliche Ruinen und alte Kirchen aufweist.",
       hu: "Jehvard egy kis történelmi város a Kotajk régióban, ahol középkori romok és ősi templomok találhatók.",
@@ -994,9 +968,8 @@ image: "/poi-images/armenia-yeghvard-cities-v2.webp"
     type: "city",
     parent: "AM-GR",
     coords: [45.3056, 40.1408],
-    name: { de: "Martuni", hu: "Martuni", ro: "Martuni", en: "Martuni",
-image: "/poi-images/armenia-martuni-cities-v2.webp"
-},
+    name: { de: "Martuni", hu: "Martuni", ro: "Martuni", en: "Martuni"},
+    image: "/poi-images/armenia-martuni-cities-v2.webp",
     description: {
       de: "Martuni ist eine Stadt am Südufer des Sewansees, bekannt für Fischfang und Landwirtschaft.",
       hu: "Martuni a Szeván-tó déli partján fekvő város, amely a halászatról és a mezőgazdaságról ismert.",
@@ -1032,9 +1005,8 @@ image: "/poi-images/armenia-martuni-cities-v2.webp"
     type: "city",
     parent: "AM-AR",
     coords: [44.2869, 40.1436],
-    name: { de: "Mezamor", hu: "Mecamor", ro: "Mețamor", en: "Metsamor",
-image: "/poi-images/armenia-metsamor-cities-v2.webp"
-},
+    name: { de: "Mezamor", hu: "Mecamor", ro: "Mețamor", en: "Metsamor"},
+    image: "/poi-images/armenia-metsamor-cities-v2.webp",
     description: {
       de: "Mezamor ist eine moderne Stadt, die gebaut wurde, um die Arbeiter des einzigen armenischen Kernkraftwerks zu beherbergen.",
       hu: "Mecamor egy modern város, amelyet Örményország egyetlen atomerőművének dolgozói számára építettek.",
@@ -1070,9 +1042,8 @@ image: "/poi-images/armenia-metsamor-cities-v2.webp"
     type: "city",
     parent: "AM-LO",
     coords: [44.2825, 41.1122],
-    name: { de: "Taschir", hu: "Tasir", ro: "Tașir", en: "Tashir",
-image: "/poi-images/armenia-tashir-cities-v2.webp"
-},
+    name: { de: "Taschir", hu: "Tasir", ro: "Tașir", en: "Tashir"},
+    image: "/poi-images/armenia-tashir-cities-v2.webp",
     description: {
       de: "Taschir ist eine Stadt in der Provinz Lori, die für ihre Milchprodukte und ihr kühles alpines Klima bekannt ist.",
       hu: "Tasir egy város a Lori tartományban, amely tejtermékeiről és hűvös alpesi éghajlatáról ismert.",
@@ -1108,9 +1079,8 @@ image: "/poi-images/armenia-tashir-cities-v2.webp"
     type: "city",
     parent: "AM-VD",
     coords: [45.4667, 39.6897],
-    name: { de: "Wajk", hu: "Vajk", ro: "Vaik", en: "Vayk",
-image: "/poi-images/armenia-vayk-cities-v2.webp"
-},
+    name: { de: "Wajk", hu: "Vajk", ro: "Vaik", en: "Vayk"},
+    image: "/poi-images/armenia-vayk-cities-v2.webp",
     description: {
       de: "Wajk ist eine kleine Stadt im Süden Armeniens, eingebettet in ein Tal und umgeben von schroffem Berggelände.",
       hu: "Vajk egy kisváros Dél-Örményországban, amely egy völgyben fekszik, és zord hegyi domborzat veszi körül.",

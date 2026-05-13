@@ -5,9 +5,8 @@ export const belarusNatureV2: POI[] = [
     id: "belarus-belovezhskaya-pushcha-nature-v2",
     parent: "BY",
     type: "forest",
-    name: { de: "Belowescher Heide (Belarus)", hu: "Belavezsai-erdő", ro: "Pădurea Bialowieza (Belarus)", en: "Belovezhskaya Pushcha",
-image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"
-},
+    name: { de: "Belowescher Heide (Belarus)", hu: "Belavezsai-erdő", ro: "Pădurea Bialowieza (Belarus)", en: "Belovezhskaya Pushcha"},
+    image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp",
     coords: [23.87, 52.73],
     coordinates: { lat: 52.73, lng: 23.87 },
     description: {
@@ -39,9 +38,8 @@ image: "/poi-images/belarus-belovezhskaya-pushcha-nature-v2.webp"
     id: "belarus-narach-lake-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Naratsch-See", hu: "Naracs-tó", ro: "Lacul Naraci", en: "Lake Narach",
-image: "/poi-images/belarus-narach-lake-nature-v2.webp"
-},
+    name: { de: "Naratsch-See", hu: "Naracs-tó", ro: "Lacul Naraci", en: "Lake Narach"},
+    image: "/poi-images/belarus-narach-lake-nature-v2.webp",
     coords: [26.78, 54.85],
     coordinates: { lat: 54.85, lng: 26.78 },
     description: {
@@ -73,9 +71,8 @@ image: "/poi-images/belarus-narach-lake-nature-v2.webp"
     id: "belarus-braslav-lakes-nature-v2",
     parent: "BY",
     type: "park",
-    name: { de: "Braslauer Seen", hu: "Braszlavi-tavak", ro: "Lacurile Braslav", en: "Braslav Lakes",
-image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"
-},
+    name: { de: "Braslauer Seen", hu: "Braszlavi-tavak", ro: "Lacurile Braslav", en: "Braslav Lakes"},
+    image: "/poi-images/belarus-braslav-lakes-nature-v2.webp",
     coords: [27.05, 55.6],
     coordinates: { lat: 55.6, lng: 27.05 },
     description: {
@@ -107,9 +104,8 @@ image: "/poi-images/belarus-braslav-lakes-nature-v2.webp"
     id: "belarus-pripyat-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Pripjat (Fluss)", hu: "Pripjaty (folyó)", ro: "Râul Pripeat", en: "Pripyat River",
-image: "/poi-images/belarus-pripyat-river-nature-v2.webp"
-},
+    name: { de: "Pripjat (Fluss)", hu: "Pripjaty (folyó)", ro: "Râul Pripeat", en: "Pripyat River"},
+    image: "/poi-images/belarus-pripyat-river-nature-v2.webp",
     coords: [28.15, 52.13],
     coordinates: { lat: 52.13, lng: 28.15 },
     description: {
@@ -141,9 +137,8 @@ image: "/poi-images/belarus-pripyat-river-nature-v2.webp"
     id: "belarus-berezina-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Beresina (Fluss)", hu: "Berezina (folyó)", ro: "Râul Berezina", en: "Berezina River",
-image: "/poi-images/belarus-berezina-river-nature-v2.webp"
-},
+    name: { de: "Beresina (Fluss)", hu: "Berezina (folyó)", ro: "Râul Berezina", en: "Berezina River"},
+    image: "/poi-images/belarus-berezina-river-nature-v2.webp",
     coords: [28.3, 54.1],
     coordinates: { lat: 54.1, lng: 28.3 },
     description: {
@@ -175,9 +170,8 @@ image: "/poi-images/belarus-berezina-river-nature-v2.webp"
     id: "belarus-dzyarzhynskaya-hara-nature-v2",
     parent: "BY",
     type: "peak",
-    name: { de: "Dsjarshynskaja Hara", hu: "Dzerzsinszkaja-hegy", ro: "Dealul Dzerjinskaia", en: "Dzyarzhynskaya Hara",
-image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"
-},
+    name: { de: "Dsjarshynskaja Hara", hu: "Dzerzsinszkaja-hegy", ro: "Dealul Dzerjinskaia", en: "Dzyarzhynskaya Hara"},
+    image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp",
     coords: [27.06, 53.84],
     coordinates: { lat: 53.84, lng: 27.06 },
     description: {
@@ -209,9 +203,8 @@ image: "/poi-images/belarus-dzyarzhynskaya-hara-nature-v2.webp"
     id: "belarus-yelnya-bog-nature-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Jelnja-Moor", hu: "Jelnya-láp", ro: "Mlaștina Elnia", en: "Yelnya Bog",
-image: "/poi-images/belarus-yelnya-bog-nature-v2.webp"
-},
+    name: { de: "Jelnja-Moor", hu: "Jelnya-láp", ro: "Mlaștina Elnia", en: "Yelnya Bog"},
+    image: "/poi-images/belarus-yelnya-bog-nature-v2.webp",
     coords: [27.85, 55.55],
     coordinates: { lat: 55.55, lng: 27.85 },
     description: {
@@ -244,9 +237,8 @@ image: "/poi-images/belarus-yelnya-bog-nature-v2.webp"
     id: "belarus-neman-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Memel (Fluss)", hu: "Nyeman (folyó)", ro: "Râul Neman", en: "Neman River",
-image: "/poi-images/belarus-neman-river-nature-v2.webp"
-},
+    name: { de: "Memel (Fluss)", hu: "Nyeman (folyó)", ro: "Râul Neman", en: "Neman River"},
+    image: "/poi-images/belarus-neman-river-nature-v2.webp",
     coords: [24.3, 53.8],
     coordinates: { lat: 53.8, lng: 24.3 },
     description: {
@@ -278,9 +270,8 @@ image: "/poi-images/belarus-neman-river-nature-v2.webp"
     id: "belarus-sozh-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Sosch (Fluss)", hu: "Szozs (folyó)", ro: "Râul Soj", en: "Sozh River",
-image: "/poi-images/belarus-sozh-river-nature-v2.webp"
-},
+    name: { de: "Sosch (Fluss)", hu: "Szozs (folyó)", ro: "Râul Soj", en: "Sozh River"},
+    image: "/poi-images/belarus-sozh-river-nature-v2.webp",
     coords: [31.0, 52.4],
     coordinates: { lat: 52.4, lng: 31.0 },
     description: {
@@ -312,9 +303,8 @@ image: "/poi-images/belarus-sozh-river-nature-v2.webp"
     id: "belarus-dnieper-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Dnepr (belarussischer Abschnitt)", hu: "Dnyeper (fehérorosz szakasz)", ro: "Nipru (secțiunea bielorusă)", en: "Dnieper River (Belarus section)",
-image: "/poi-images/belarus-dnieper-river-nature-v2.webp"
-},
+    name: { de: "Dnepr (belarussischer Abschnitt)", hu: "Dnyeper (fehérorosz szakasz)", ro: "Nipru (secțiunea bielorusă)", en: "Dnieper River (Belarus section)"},
+    image: "/poi-images/belarus-dnieper-river-nature-v2.webp",
     coords: [30.33, 53.9],
     coordinates: { lat: 53.9, lng: 30.33 },
     description: {
@@ -346,9 +336,8 @@ image: "/poi-images/belarus-dnieper-river-nature-v2.webp"
     id: "belarus-osveya-lake-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Osweja-See", hu: "Oszveja-tó", ro: "Lacul Osveia", en: "Lake Osveya",
-image: "/poi-images/belarus-osveya-lake-nature-v2.webp"
-},
+    name: { de: "Osweja-See", hu: "Oszveja-tó", ro: "Lacul Osveia", en: "Lake Osveya"},
+    image: "/poi-images/belarus-osveya-lake-nature-v2.webp",
     coords: [28.18, 56.05],
     coordinates: { lat: 56.05, lng: 28.18 },
     description: {
@@ -380,9 +369,8 @@ image: "/poi-images/belarus-osveya-lake-nature-v2.webp"
     id: "belarus-chyrvonaye-lake-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Chyrvonaye-See", hu: "Csirvonoje-tó", ro: "Lacul Cirvonaie", en: "Lake Chyrvonaye",
-image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"
-},
+    name: { de: "Chyrvonaye-See", hu: "Csirvonoje-tó", ro: "Lacul Cirvonaie", en: "Lake Chyrvonaye"},
+    image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp",
     coords: [28.0, 52.4],
     coordinates: { lat: 52.4, lng: 28.0 },
     description: {
@@ -414,9 +402,8 @@ image: "/poi-images/belarus-chyrvonaye-lake-nature-v2.webp"
     id: "belarus-naliboki-forest-nature-v2",
     parent: "BY",
     type: "forest",
-    name: { de: "Naliboki-Wald", hu: "Naliboki-erdő", ro: "Pădurea Naliboki", en: "Naliboki Forest",
-image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"
-},
+    name: { de: "Naliboki-Wald", hu: "Naliboki-erdő", ro: "Pădurea Naliboki", en: "Naliboki Forest"},
+    image: "/poi-images/belarus-naliboki-forest-nature-v2.webp",
     coords: [26.5, 53.9],
     coordinates: { lat: 53.9, lng: 26.5 },
     description: {
@@ -448,9 +435,8 @@ image: "/poi-images/belarus-naliboki-forest-nature-v2.webp"
     id: "belarus-western-dvina-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Düna (Fluss)", hu: "Nyugati-Dvina (folyó)", ro: "Daugava (Râul Dvina de Vest)", en: "Western Dvina River",
-image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"
-},
+    name: { de: "Düna (Fluss)", hu: "Nyugati-Dvina (folyó)", ro: "Daugava (Râul Dvina de Vest)", en: "Western Dvina River"},
+    image: "/poi-images/belarus-western-dvina-river-nature-v2.webp",
     coords: [30.2, 55.5],
     coordinates: { lat: 55.5, lng: 30.2 },
     description: {
@@ -482,9 +468,8 @@ image: "/poi-images/belarus-western-dvina-river-nature-v2.webp"
     id: "belarus-viliya-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Wilija (Fluss)", hu: "Vilija (folyó)", ro: "Râul Vilia", en: "Viliya River",
-image: "/poi-images/belarus-viliya-river-nature-v2.webp"
-},
+    name: { de: "Wilija (Fluss)", hu: "Vilija (folyó)", ro: "Râul Vilia", en: "Viliya River"},
+    image: "/poi-images/belarus-viliya-river-nature-v2.webp",
     coords: [27.0, 54.4],
     coordinates: { lat: 54.4, lng: 27.0 },
     description: {
@@ -516,9 +501,8 @@ image: "/poi-images/belarus-viliya-river-nature-v2.webp"
     id: "belarus-dryvyaty-lake-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Drywjaty-See", hu: "Drivjati-tó", ro: "Lacul Drivyati", en: "Lake Dryvyaty",
-image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"
-},
+    name: { de: "Drywjaty-See", hu: "Drivjati-tó", ro: "Lacul Drivyati", en: "Lake Dryvyaty"},
+    image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp",
     coords: [27.02, 55.61],
     coordinates: { lat: 55.61, lng: 27.02 },
     description: {
@@ -550,9 +534,8 @@ image: "/poi-images/belarus-dryvyaty-lake-nature-v2.webp"
     id: "belarus-shchara-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Schtschara (Fluss)", hu: "Scsara (folyó)", ro: "Râul Șceara", en: "Shchara River",
-image: "/poi-images/belarus-shchara-river-nature-v2.webp"
-},
+    name: { de: "Schtschara (Fluss)", hu: "Scsara (folyó)", ro: "Râul Șceara", en: "Shchara River"},
+    image: "/poi-images/belarus-shchara-river-nature-v2.webp",
     coords: [25.3, 53.2],
     coordinates: { lat: 53.2, lng: 25.3 },
     description: {
@@ -585,9 +568,8 @@ imageHint: "Narrow river with overgrown banks and a quiet current",
     id: "belarus-olmany-mires-nature-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Olmany-Sümpfe", hu: "Olmanyi-mocsarak", ro: "Mlaștinile Olmanî", en: "Olmany Mires",
-image: "/poi-images/belarus-olmany-mires-nature-v2.webp"
-},
+    name: { de: "Olmany-Sümpfe", hu: "Olmanyi-mocsarak", ro: "Mlaștinile Olmanî", en: "Olmany Mires"},
+    image: "/poi-images/belarus-olmany-mires-nature-v2.webp",
     coords: [27.2, 51.85],
     coordinates: { lat: 51.85, lng: 27.2 },
     description: {
@@ -603,14 +585,26 @@ image: "/poi-images/belarus-olmany-mires-nature-v2.webp"
       en: ["Area of approximately 94,000 hectares", "Critical nesting site for the Greater Spotted Eagle", "Formerly used as a military testing ground", "Part of the Ramsar list of wetlands"],
     },
     imageHint: "Vast swampy area with sparse trees and water channels",
-    image: "/poi-images/belarus-olmany-mires-nature-v2.webp"},
+    image: "/poi-images/belarus-olmany-mires-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Riesiges Sumpfgebiet an der Grenze zur Ukraine, das als eines der größten unberührten Übergangsmoore Europas gilt und ein wichtiges Refugium für den seltenen Schelladler bietet.",
+      hu: "Európa egyik legnagyobb érintetlen mocsárvidéke a Poléziai-alföldön, amely nemzetközi jelentőségű vizes élőhelyként számos ritka madárfaj számára nyújt háborítatlan fészkelőhelyet.",
+      ro: "Vast complex de mlaștini situat în sudul Belarusului, protejat prin Convenția Ramsar, reprezentând un ecosistem critic pentru conservarea biodiversității specifice zonelor de turbărie.",
+      en: "Massive mire complex in the Pripyat basin, serving as a critical breeding ground for rare raptor species and maintaining a vast, undisturbed peatland ecosystem across the border region.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 942 km²", "Status: Ramsar-Gebiet seit 2001", "Höhe: 110 m ü. NN", "Distrikt: Stolin", "Vogelwelt: 151 Arten", "Klima: Gemäßigt-kontinental"],
+      hu: ["Terület: 94 219 hektár", "Alapítás: 1998", "Határ: Ukrán-fehérorosz határvidék", "Tőzegmélység: Átlag 1,5 méter", "Város: Stolin közelében", "Élőhely: Átmeneti lápok"],
+      ro: ["Suprafață: 94.200 ha", "Clasificare: Rezervație peisagistică", "Fauna: Ursul brun și râsul", "Distanța: 250 km de Minsk", "Râuri: Stviga și Lva", "Sol: Predominant turbă"],
+      en: ["Area: 942 sq km", "Ramsar ID: 1091", "Established: 1998", "Bird species: 151 documented", "Max peat depth: 5.6 meters", "River basins: Stviga and Lva"],
+    },
+  },
   {
     id: "belarus-sporovskoye-marsh-nature-v2",
     parent: "BY",
     type: "wildlife",
-    name: { de: "Sporowskoje-Moor", hu: "Sporovszkoje-mocsár", ro: "Mlaștina Sporovskoe", en: "Sporovskoye Marsh",
-image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"
-},
+    name: { de: "Sporowskoje-Moor", hu: "Sporovszkoje-mocsár", ro: "Mlaștina Sporovskoe", en: "Sporovskoye Marsh"},
+    image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp",
     coords: [25.3, 52.43],
     coordinates: { lat: 52.43, lng: 25.3 },
     description: {
@@ -626,14 +620,26 @@ image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"
       en: ["Home to 9% of the world's Aquatic Warbler population", "Includes the Lake Sporovskoye", "First Ramsar site designated in Belarus", "Unique vegetation of sedges and reeds"],
     },
     imageHint: "Wetland with tall yellow sedge grass and small birds",
-    image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp"},
+    image: "/poi-images/belarus-sporovskoye-marsh-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Bedeutendes Niedermoor im Becken der Jasselda, bekannt für die weltweit größte Population des Seggenrohrsängers und seine einzigartige Flora in den feuchten Niederungen von Brest.",
+      hu: "Kiterjedt síkláp a Jaszolda-folyó völgyében, amely a ritka csíkosfejű nádiposzáta legfőbb európai fészkelőhelye és a térség egyik legfontosabb biodiverzitási forrópontja.",
+      ro: "Rezervație naturală de tip mlaștină joasă în lunca râului Yaselda, esențială pentru conservarea ecosistemelor de turbărie și a speciilor de păsări periclitate la nivel global.",
+      en: "Unique fen mire ecosystem in the Yaselda floodplain, supporting half of the global population of Aquatic Warblers and preserving post-glacial landscape features in western Belarus.",
+    },
+    factsAdvanced: {
+      de: ["Größe: 19.384 ha", "Fluss: Jasselda-Becken", "Vogel: Seggenrohrsänger (9% Weltbestand)", "Tierwelt: 20 Säugetierarten", "Schutz: Seit 1991", "Vegetation: Schilf und Seggen"],
+      hu: ["Kiterjedés: 190 km²", "Fő folyó: Jaszolda", "Madárfajok: 123 típus", "Növényvilág: 600 edényes faj", "Vízmélység: 0,5 - 1,5 méter", "Régió: Breszti terület"],
+      ro: ["Suprafață: 19.300 ha", "Râul: Yaselda", "Importanță: Zonă IBA (BirdLife)", "Fondat: 1991", "Pești: 25 specii identificate", "Comunități: Mlaștini mezotrofe"],
+      en: ["Total area: 194 sq km", "River system: Yaselda basin", "Global share: 9% of Aquatic Warblers", "Plant species: 600+", "Established: 1991", "Type: Lowland fen"],
+    },
+  },
   {
     id: "belarus-vyhanoishchanskoye-lake-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Wychanoischtschanske-See", hu: "Viganoscsanszkoje-tó", ro: "Lacul Vîganoișceanskoe", en: "Lake Vyhanoishchanskoye",
-image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"
-},
+    name: { de: "Wychanoischtschanske-See", hu: "Viganoscsanszkoje-tó", ro: "Lacul Vîganoișceanskoe", en: "Lake Vyhanoishchanskoye"},
+    image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp",
     coords: [25.92, 52.68],
     coordinates: { lat: 52.68, lng: 25.92 },
     description: {
@@ -666,9 +672,8 @@ image: "/poi-images/belarus-vyhanoishchanskoye-lake-nature-v2.webp"
     id: "belarus-svisloch-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Swislatsch (Fluss)", hu: "Szviszlocs (folyó)", ro: "Râul Svisloci", en: "Svisloch River",
-image: "/poi-images/belarus-svisloch-river-nature-v2.webp"
-},
+    name: { de: "Swislatsch (Fluss)", hu: "Szviszlocs (folyó)", ro: "Râul Svisloci", en: "Svisloch River"},
+    image: "/poi-images/belarus-svisloch-river-nature-v2.webp",
     coords: [27.8, 53.5],
     coordinates: { lat: 53.5, lng: 27.8 },
     description: {
@@ -684,14 +689,26 @@ image: "/poi-images/belarus-svisloch-river-nature-v2.webp"
       en: ["Total length of the river is 327 kilometers", "Originates in the Minsk Upland", "Feeds the Zaslavye reservoir (Minsk Sea)", "Highly regulated course within Minsk city limits"],
     },
     imageHint: "River with stone embankments and parks in a city",
-    image: "/poi-images/belarus-svisloch-river-nature-v2.webp"},
+    image: "/poi-images/belarus-svisloch-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Rechter Nebenfluss der Beresina, der das Stadtbild von Minsk prägt und durch das Wilejka-Minsk-System reguliert wird, um die Wasserversorgung der Hauptstadt zu sichern.",
+      hu: "A Berezina mellékfolyója, mely Minszk központi vízfelületeit táplálja; hossza 327 kilométer, és fontos szerepet játszik Fehéroroszország központi régiójának vízgazdálkodásában.",
+      ro: "Râu principal ce traversează capitala Minsk, având un curs de 327 km și un bazin hidrografic extins, fiind vital pentru ecosistemul urban și industrial al regiunii centrale.",
+      en: "Vital waterway flowing through central Belarus, featuring several reservoirs and serving as the hydrological backbone of the Minsk metropolitan area and its surrounding plains.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 327 km", "Einzugsgebiet: 5.160 km²", "Quelle: Minsker Hochland", "Mündung: Beresina", "Gefälle: 0,5 m pro km", "Nebenflüsse: Nemiga und Loschiza"],
+      hu: ["Hosszúság: 327 km", "Vízgyűjtő: 5160 km²", "Forrásmagasság: 252 m", "Torkolat: Berezina-folyó", "Főváros: Minszk központja", "Víztározók: Zaslavskoye (Minszki-tenger)"],
+      ro: ["Lungime: 327 km", "Bazin: 5.160 km²", "Izvor: Dealurile Minskului", "Vărsare: Râul Berezina", "Debit mediu: 24,3 m³/s", "Orașe: Minsk și Osipovichi"],
+      en: ["Length: 327 km", "Basin area: 5,160 sq km", "Source: Minsk Upland", "Mouth: Berezina River", "Reservoirs: 3 major dams", "Flow rate: 24.3 cubic m/s"],
+    },
+  },
   {
     id: "belarus-lyuban-blue-lakes-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Blaue Seen von Ljuban", hu: "Ljubanyi kék tavak", ro: "Lacurile Albastre din Liuban", en: "Blue Lakes of Lyuban",
-image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"
-},
+    name: { de: "Blaue Seen von Ljuban", hu: "Ljubanyi kék tavak", ro: "Lacurile Albastre din Liuban", en: "Blue Lakes of Lyuban"},
+    image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp",
     coords: [28.1, 52.85],
     coordinates: { lat: 52.85, lng: 28.1 },
     description: {
@@ -707,14 +724,26 @@ image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"
       en: ["Water depth exceeds 30 meters in some places", "Popular unofficial recreational spot", "Banks often consist of light-colored chalk sand", "The water color tends to fade over decades"],
     },
     imageHint: "Turquoise water in a deep pit with steep white banks",
-    image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp"},
+    image: "/poi-images/belarus-lyuban-blue-lakes-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Ehemalige Kreidegruben bei Ljuban, die heute durch ihre markante türkisfarbene Wasserfärbung und große Tiefe beeindrucken und ein beliebtes Ziel für Naturfotografen sind.",
+      hu: "Felhagyott krétabányák helyén kialakult tórendszer Ljuban mellett, amely az intenzív kalcium-karbonát tartalom miatti különleges azúr színével tűnik ki a környező tájból.",
+      ro: "Lacuri antropice formate în cariere de cretă abandonate, renumite pentru nuanța azurie a apei și peisajul industrial regenerat, supranumite simbolic Maldivele Belaruse.",
+      en: "Man-made lakes located in the Lyuban district, characterized by high mineral concentration and depths reaching 30 meters, creating a striking contrast with the nearby forests.",
+    },
+    factsAdvanced: {
+      de: ["Entstehung: Ehemaliger Kreideabbau", "Tiefe: Bis zu 30 Meter", "Lage: Rajon Ljuban", "Wasserfarbe: Azurblau", "pH-Wert: Leicht alkalisch", "Sichtweite: Bis 4 Meter"],
+      hu: ["Típus: Elárasztott krétabánya", "Mélység: Max. 30 méter", "Elhelyezkedés: Ljuban-i járás", "Kémhatás: Magas kalciumtartalom", "Kialakulás: 1970-es évek", "Partvonal: Meredek rézsűk"],
+      ro: ["Origine: Cariere de cretă", "Adâncime: 25-30 metri", "Județ: Raionul Lyuban", "Peisaj: Maldivele Belaruse", "Apa: Bogată în minerale", "Acces: Drumuri forestiere"],
+      en: ["Type: Chalk pit lakes", "Max depth: 30 meters", "Location: Lyuban district", "Water tint: Turquoise/Azure", "Mineral content: Calcium carbonate", "Era: Late 20th century"],
+    },
+  },
   {
     id: "belarus-lisnaya-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Lisnaja (Fluss)", hu: "Lisznaja (folyó)", ro: "Râul Lesnaia", en: "Lisnaya River",
-image: "/poi-images/belarus-lisnaya-river-nature-v2.webp"
-},
+    name: { de: "Lisnaja (Fluss)", hu: "Lisznaja (folyó)", ro: "Râul Lesnaia", en: "Lisnaya River"},
+    image: "/poi-images/belarus-lisnaya-river-nature-v2.webp",
     coords: [23.9, 52.4],
     coordinates: { lat: 52.4, lng: 23.9 },
     description: {
@@ -747,9 +776,8 @@ imageHint: "Small river winding through ancient broadleaf forest",
     id: "belarus-sorochanskiye-lakes-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Sorotschanskie-Seen", hu: "Szorocsanszkije-tavak", ro: "Lacurile Soroceanskie", en: "Sorochanskiye Lakes",
-image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"
-},
+    name: { de: "Sorotschanskie-Seen", hu: "Szorocsanszkije-tavak", ro: "Lacurile Soroceanskie", en: "Sorochanskiye Lakes"},
+    image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp",
     coords: [26.25, 54.88],
     coordinates: { lat: 54.88, lng: 26.25 },
     description: {
@@ -765,14 +793,26 @@ image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"
       en: ["Part of a namesake landscape reserve", "Formed by the melting of the Valdai glacier", "Two of the lakes have extremely soft water", "Popular destination for eco-tourism"],
     },
     imageHint: "A string of small lakes connected by streams in a forest",
-    image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp"},
+    image: "/poi-images/belarus-sorochanskiye-lakes-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Seenkette im Rajon Astrawez, bestehend aus 14 Gewässern glazialen Ursprungs, die sich durch ihre hohe Wasserreinheit und die Vielfalt der ufernahen Pflanzengemeinschaften auszeichnen.",
+      hu: "Tizennégy tóból álló füzér az Osztroveci járásban, melyek a legutóbbi jégkorszak végén jöttek létre, és máig megőrizték kristálytiszta vizüket és érintetlen természeti környezetüket.",
+      ro: "Complex lacustru situat în nord-vestul țării, incluzând 14 ochiuri de apă conectate prin bazinul râului Stracha, fiind o destinație majoră pentru ecoturism și conservarea speciilor.",
+      en: "Glacial lake system comprising 14 interconnected bodies of water, designated as a landscape reserve for its pristine state and unique aquatic ecosystems in the Ostrovets region.",
+    },
+    factsAdvanced: {
+      de: ["Anzahl Seen: 14 Becken", "Gesamtfläche: 13,4 km²", "Tiefe: Bis 21 m (See Kajlo)", "Schutzstatus: Naturschutzgebiet seit 2006", "Rajon: Astrawez", "Flora: Über 500 Arten"],
+      hu: ["Tavak száma: 14 egység", "Összterület: 13,4 km²,", "Legmélyebb pont: 21 méter", "Tájvédelmi körzet: 2006 óta", "Folyó: Sztracsa-medence", "Keletkezés: Valdaj-jégkorszak"],
+      ro: ["Număr lacuri: 14", "Suprafață totală: 13,4 km²", "Adâncime maximă: 21 m", "Rezervație: Din anul 2006", "District: Ostrovets", "Origine: Post-glaciară"],
+      en: ["Lake count: 14 lakes", "Total area: 13.4 sq km", "Max depth: 21 meters", "Status: Landscape reserve", "Established: 2006", "River basin: Stracha"],
+    },
+  },
   {
     id: "belarus-horyn-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Horyn (Fluss)", hu: "Horyn (folyó)", ro: "Râul Horîn", en: "Horyn River",
-image: "/poi-images/belarus-horyn-river-nature-v2.webp"
-},
+    name: { de: "Horyn (Fluss)", hu: "Horyn (folyó)", ro: "Râul Horîn", en: "Horyn River"},
+    image: "/poi-images/belarus-horyn-river-nature-v2.webp",
     coords: [26.7, 52.0],
     coordinates: { lat: 52.0, lng: 26.7 },
     description: {
@@ -788,14 +828,26 @@ image: "/poi-images/belarus-horyn-river-nature-v2.webp"
       en: ["Total length is 659 kilometers", "Flows through the town of Stolin", "Important for agricultural irrigation", "Rich in various species of fish"],
     },
     imageHint: "River with high sandy banks and nearby farm fields",
-    image: "/poi-images/belarus-horyn-river-nature-v2.webp"},
+    image: "/poi-images/belarus-horyn-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Rechter Nebenfluss der Pripjat, der in der Ukraine entspringt und das belarussische Polesien durch gewundene Mäander formt, die eine dynamische Flusslandschaft erschaffen.",
+      hu: "A Pripjaty mellékfolyója, mely Ukrajnából érkezve a fehérorosz Polézia déli részén kanyarog; gazdag halállományáról és a tavaszi áradások során kialakuló kiterjedt árteréről ismert.",
+      ro: "Râu transfrontalier care alimentează zonele joase din regiunea Stolin, având un curs sinuos ce susține numeroase habitate ripariene esențiale pentru păsările migratoare.",
+      en: "Significant tributary of the Pripyat River, traversing the Volyn Upland and creating fertile floodplains and intricate meanders throughout its course in southern Belarus.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 659 km", "Belarus-Anteil: 82 km", "Einzugsgebiet: 27.700 km²", "Quelle: Podolische Platte", "Mündung: Pripjat", "Sedimente: Hoher Sandanteil"],
+      hu: ["Teljes hossz: 659 km", "Belarusz szakasz: 82 km", "Vízgyűjtő: 27 700 km²", "Torkolat: Pripjaty-mocsarak", "Város: Sztolin", "Halfauna: Harcsa és csuka"],
+      ro: ["Lungime totală: 659 km", "Porțiune Belarus: 82 km", "Bazin: 27.700 km²", "Izvor: Podișul Volîniei", "Gura de vărsare: Râul Pripeat", "Debit: 90 m³/s (medie)"],
+      en: ["Total length: 659 km", "Belarus segment: 82 km", "Basin area: 27,700 sq km", "Source: Podolian Upland", "Mouth: Pripyat River", "Average width: 40-80 meters"],
+    },
+  },
   {
     id: "belarus-ptich-river-nature-v2",
     parent: "BY",
     type: "river",
-    name: { de: "Ptitsch (Fluss)", hu: "Ptyics (folyó)", ro: "Râul Ptici", en: "Ptich River",
-image: "/poi-images/belarus-ptich-river-nature-v2.webp"
-},
+    name: { de: "Ptitsch (Fluss)", hu: "Ptyics (folyó)", ro: "Râul Ptici", en: "Ptich River"},
+    image: "/poi-images/belarus-ptich-river-nature-v2.webp",
     coords: [28.0, 53.0],
     coordinates: { lat: 53.0, lng: 28.0 },
     description: {
@@ -811,14 +863,26 @@ image: "/poi-images/belarus-ptich-river-nature-v2.webp"
       en: ["Total length is 421 kilometers", "Largest left tributary of the Pripyat", "Features a flat and wide valley", "Popular with anglers for pike and perch"],
     },
     imageHint: "River flowing through rural countryside with wooden bridges",
-    image: "/poi-images/belarus-ptich-river-nature-v2.webp"},
+    image: "/poi-images/belarus-ptich-river-nature-v2.webp",
+    descriptionAdvanced: {
+      de: "Linker Nebenfluss der Pripjat, entspringt im Minsker Hochland und dient der Wasserregulierung sowie als Erholungsgebiet am Woltschkowitschi-Reservoir nahe der Hauptstadt.",
+      hu: "A Pripjaty bal oldali mellékfolyója, melynek forrásvidéke a Minszki-hátságon található; 421 kilométeres hossza mentén számos víztározó és rekreációs övezet fekszik.",
+      ro: "Curs de apă lung de 421 km, izvorând de pe colinele Minskului, fiind cunoscut pentru curentul lent și zonele pitorești de agrement din regiunile Moghilău și Gomel.",
+      en: "River originating near Dzerzhinskaya Hill, known for its slow current and the popular recreation areas along its banks, including the significant Volchkovichi Reservoir.",
+    },
+    factsAdvanced: {
+      de: ["Gesamtlänge: 421 km", "Einzugsgebiet: 9.470 km²", "Quelle: Dsjarschynskaja-Hügel", "Mündung: Pripjat", "Gefälle: 0,2 m pro km", "Bauwerke: Woltschkowitschi-Damm"],
+      hu: ["Folyó hossza: 421 km", "Vízgyűjtő terület: 9470 km²", "Eredet: Minszki-felvidék", "Torkolat: Pripjaty-folyó", "Átlagos hozam: 48 m³/s", "Mellékfolyók: Orella és Sapa"],
+      ro: ["Lungime: 421 km", "Suprafață bazin: 9.470 km²", "Izvor: Dealul Dzerjinskaia", "Vărsare: Râul Pripeat", "Debit: 48 m³/s", "Baraje: Rezervorul Volchkovichi"],
+      en: ["Total length: 421 km", "Basin area: 9,470 sq km", "Highest point source: 345 m", "Mouth: Pripyat River", "Average discharge: 48 cubic m/s", "Dams: Volchkovichi Reservoir"],
+    },
+  },
   {
     id: "belarus-svitiaz-lake-nature-v2",
     parent: "BY",
     type: "lake",
-    name: { de: "Switjas-See", hu: "Szvitjaz-tó", ro: "Lacul Svitiaz", en: "Svitiaz Lake",
-image: "/poi-images/belarus-svitiaz-lake-nature-v2.webp"
-},
+    name: { de: "Switjas-See", hu: "Szvitjaz-tó", ro: "Lacul Svitiaz", en: "Svitiaz Lake"},
+    image: "/poi-images/belarus-svitiaz-lake-nature-v2.webp",
     coords: [25.92, 53.43],
     coordinates: { lat: 53.43, lng: 25.92 },
     description: {

@@ -6,9 +6,8 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     type: "state-capital",
     parent: "TR-06",
     coords: [32.8597, 39.9334],
-    name: { de: "Ankara", hu: "Ankara", ro: "Ankara", en: "Ankara",
-image: "/poi-images/ankara-cities-v2.webp"
-},
+    name: { de: "Ankara", hu: "Ankara", ro: "Ankara", en: "Ankara"},
+    image: "/poi-images/ankara-cities-v2.webp",
     description: { de: "Ankara ist die Hauptstadt der Türkei und nach Istanbul die zweitgrößte Stadt des Landes.", hu: "Ankara Törökország fővárosa és Isztambul után az ország második legnagyobb városa.", ro: "Ankara este capitala Turciei și a doua recunoscută ca mărime a țării, după Istanbul.", en: "Ankara is the capital of Turkey and the country's second-largest city after Istanbul." },
     facts: {
       de: ["Wurde 1923 zur Hauptstadt", "Beherbergt das Anıtkabir"],
@@ -34,9 +33,8 @@ image: "/poi-images/ankara-cities-v2.webp"
     type: "city",
     parent: "TR-34",
     coords: [28.9784, 41.0082],
-    name: { de: "Istanbul", hu: "Isztambul", ro: "Istanbul", en: "Istanbul",
-image: "/poi-images/istanbul-cities-v2.webp"
-},
+    name: { de: "Istanbul", hu: "Isztambul", ro: "Istanbul", en: "Istanbul"},
+    image: "/poi-images/istanbul-cities-v2.webp",
     description: { de: "Istanbul ist die größte Stadt der Türkei und erstreckt sich über zwei Kontinente, Europa und Asien.", hu: "Isztambul Törökország legnagyobb városa, amely két kontinensen, Európán és Ázsián ível át.", ro: "Istanbul este cel mai mare oraș din Turcia, întinzându-se pe două continente, Europa și Asia.", en: "Istanbul is the largest city in Turkey, spanning across two continents, Europe and Asia." },
     facts: {
       de: ["Früher als Byzanz und Konstantinopel bekannt", "Der Bosporus teilt die Stadt"],
@@ -62,9 +60,8 @@ image: "/poi-images/istanbul-cities-v2.webp"
     type: "city",
     parent: "TR-35",
     coords: [27.1428, 38.4237],
-    name: { de: "Izmir", hu: "İzmir", ro: "Izmir", en: "Izmir",
-image: "/poi-images/izmir-cities-v2.webp"
-},
+    name: { de: "Izmir", hu: "İzmir", ro: "Izmir", en: "Izmir"},
+    image: "/poi-images/izmir-cities-v2.webp",
     description: { de: "Izmir ist eine Metropole an der Ägäisküste und besitzt den zweitgrößten Hafen der Türkei.", hu: "İzmir az Égei-tenger partján fekvő metropolisz, itt található Törökország második legnagyobb kikötője.", ro: "Izmir este o metropolă pe coasta Mării Egee și are al doilea port ca mărime din Turcia.", en: "Izmir is a metropolis on the Aegean coast, featuring Turkey's second-largest port." },
     facts: {
       de: ["In der Antike als Smyrna bekannt", "Der Uhrturm am Konak-Platz wurde 1901 erbaut"],
@@ -90,9 +87,8 @@ image: "/poi-images/izmir-cities-v2.webp"
     type: "city",
     parent: "TR-16",
     coords: [29.0610, 40.1826],
-    name: { de: "Bursa", hu: "Bursa", ro: "Bursa", en: "Bursa",
-image: "/poi-images/bursa-cities-v2.webp"
-},
+    name: { de: "Bursa", hu: "Bursa", ro: "Bursa", en: "Bursa"},
+    image: "/poi-images/bursa-cities-v2.webp",
     description: { de: "Bursa war die erste große Hauptstadt des Osmanischen Reiches zwischen 1326 und 1365.", hu: "Bursa volt az Oszmán Birodalom első jelentős fővárosa 1326 és 1365 között.", ro: "Bursa a fost prima capitală majoră a Imperiului Otoman între anii 1326 și 1365.", en: "Bursa was the first major capital of the Ottoman Empire between 1326 and 1365." },
     facts: {
       de: ["Wird wegen ihrer Parks oft als \"Grünes Bursa\" bezeichnet", "Liegt am Fuße des Berges Uludağ"],
@@ -118,9 +114,8 @@ image: "/poi-images/bursa-cities-v2.webp"
     type: "city",
     parent: "TR-01",
     coords: [35.3213, 37.0000],
-    name: { de: "Adana", hu: "Adana", ro: "Adana", en: "Adana",
-image: "/poi-images/adana-cities-v2.webp"
-},
+    name: { de: "Adana", hu: "Adana", ro: "Adana", en: "Adana"},
+    image: "/poi-images/adana-cities-v2.webp",
     description: { de: "Adana ist das landwirtschaftliche Zentrum der fruchtbaren Çukurova-Ebene im Süden der Türkei.", hu: "Adana a termékeny Çukurova-síkság mezőgazdasági központja Törökország déli részén.", ro: "Adana este centrul agricol al câmpiei fertile Çukurova din sudul Turciei.", en: "Adana is the agricultural center of the fertile Çukurova plain in southern Turkey." },
     facts: {
       de: ["Die Taşköprü-Brücke stammt aus der Römerzeit", "Die Sabancı-Zentralmoschee bietet Platz für 28.500 Gläubige"],
@@ -146,9 +141,8 @@ image: "/poi-images/adana-cities-v2.webp"
     type: "city",
     parent: "TR-27",
     coords: [37.3833, 37.0662],
-    name: { de: "Gaziantep", hu: "Gaziantep", ro: "Gaziantep", en: "Gaziantep",
-image: "/poi-images/gaziantep-cities-v2.webp"
-},
+    name: { de: "Gaziantep", hu: "Gaziantep", ro: "Gaziantep", en: "Gaziantep"},
+    image: "/poi-images/gaziantep-cities-v2.webp",
     description: { de: "Gaziantep ist eine bedeutende Industriestadt und berühmt für die Produktion von Baklava und Pistazien.", hu: "Gaziantep jelentős iparváros, amely a baklava és a pisztácia termeléséről híres.", ro: "Gaziantep este un important oraș industrial, faimos pentru producția de baclava și fistic.", en: "Gaziantep is a major industrial city famous for the production of baklava and pistachios." },
     facts: {
       de: ["Zählt zu den ältesten durchgehend bewohnten Städten", "Das Zeugma-Mosaik-Museum wurde 2011 eröffnet"],
@@ -174,9 +168,8 @@ image: "/poi-images/gaziantep-cities-v2.webp"
     type: "city",
     parent: "TR-42",
     coords: [32.4833, 37.8667],
-    name: { de: "Konya", hu: "Konya", ro: "Konya", en: "Konya",
-image: "/poi-images/konya-cities-v2.webp"
-},
+    name: { de: "Konya", hu: "Konya", ro: "Konya", en: "Konya"},
+    image: "/poi-images/konya-cities-v2.webp",
     description: { de: "Konya war die Hauptstadt des Sultanats der Rum-Seldschuken und ist das spirituelle Zentrum der Mevlevi-Derwische.", hu: "Konya a Rúm Szeldzsuk Szultanátus fővárosa volt, ma pedig a mevlevi dervisek spirituális központja.", ro: "Konya a fost capitala Sultanatului Selgiucid de Rum și este centrul spiritual al dervișilor Mevlevi.", en: "Konya was the capital of the Sultanate of Rum and is the spiritual center of the Mevlevi dervishes." },
     facts: {
       de: ["Die Stadt liegt auf einer Höhe von über 1000 Metern", "Hier befindet sich das Grab des persischen Dichters Rumi"],
@@ -202,9 +195,8 @@ image: "/poi-images/konya-cities-v2.webp"
     type: "city",
     parent: "TR-07",
     coords: [30.7133, 36.8969],
-    name: { de: "Antalya", hu: "Antalya", ro: "Antalya", en: "Antalya",
-image: "/poi-images/antalya-cities-v2.webp"
-},
+    name: { de: "Antalya", hu: "Antalya", ro: "Antalya", en: "Antalya"},
+    image: "/poi-images/antalya-cities-v2.webp",
     description: { de: "Antalya ist ein Zentrum des Tourismus an der türkischen Riviera und verzeichnete 2019 über 13 Millionen Besucher.", hu: "Antalya a török Riviéra turisztikai központja, 2019-ben több mint 13 millió látogatót fogadott.", ro: "Antalya este un centru turistic pe Riviera Turcească, cu peste 13 milioane de vizitatori în 2019.", en: "Antalya is a tourism hub on the Turkish Riviera, receiving over 13 million visitors in 2019." },
     facts: {
       de: ["Das Hadrianstor wurde im Jahr 130 n. Chr. erbaut", "Die historische Altstadt heißt Kaleiçi"],
@@ -230,9 +222,8 @@ image: "/poi-images/antalya-cities-v2.webp"
     type: "city",
     parent: "TR-38",
     coords: [35.4833, 38.7333],
-    name: { de: "Kayseri", hu: "Kayseri", ro: "Kayseri", en: "Kayseri",
-image: "/poi-images/kayseri-cities-v2.webp"
-},
+    name: { de: "Kayseri", hu: "Kayseri", ro: "Kayseri", en: "Kayseri"},
+    image: "/poi-images/kayseri-cities-v2.webp",
     description: { de: "Kayseri liegt im Zentrum Anatoliens und hat eine starke Industriebasis, die ihr den Namen \"Anatolischer Tiger\" einbrachte.", hu: "Kayseri Anatólia központjában található, erős ipari bázisa miatt az \"anatóliai tigris\" nevet kapta.", ro: "Kayseri este situat în centrul Anatoliei și are o bază industrială puternică, supranumită \"Tigrul Anatolian\".", en: "Kayseri is located in central Anatolia and has a strong industrial base, earning the nickname \"Anatolian Tiger\"." },
     facts: {
       de: ["Die Stadt hieß in der Antike Caesarea Mazaca", "Der Vulkan Erciyes Dağı prägt die Landschaft"],
@@ -258,9 +249,8 @@ image: "/poi-images/kayseri-cities-v2.webp"
     type: "city",
     parent: "TR-33",
     coords: [34.6167, 36.8000],
-    name: { de: "Mersin", hu: "Mersin", ro: "Mersin", en: "Mersin",
-image: "/poi-images/mersin-cities-v2.webp"
-},
+    name: { de: "Mersin", hu: "Mersin", ro: "Mersin", en: "Mersin"},
+    image: "/poi-images/mersin-cities-v2.webp",
     description: { de: "Mersin beherbergt den größten Seehafen der Türkei und ist ein bedeutender Wirtschaftsknotenpunkt am Mittelmeer.", hu: "Mersin ad otthont Törökország legnagyobb tengeri kikötőjének, jelentős gazdasági csomópont a Földközi-tenger partján.", ro: "Mersin găzduiește cel mai mare port maritim din Turcia și este un centru economic major la Marea Mediterană.", en: "Mersin hosts Turkey's largest seaport and is a major economic hub on the Mediterranean coast." },
     facts: {
       de: ["Die Küstenlinie der Provinz ist 321 Kilometer lang", "Das 52-stöckige Mertim-Gebäude war lange das höchste des Landes"],
@@ -286,301 +276,539 @@ image: "/poi-images/mersin-cities-v2.webp"
     type: "city",
     parent: "TR-26",
     coords: [30.5256, 39.7767],
-    name: { de: "Eskişehir", hu: "Eskişehir", ro: "Eskişehir", en: "Eskişehir",
-image: "/poi-images/eskisehir-cities-v2.webp"
-},
+    name: { de: "Eskişehir", hu: "Eskişehir", ro: "Eskişehir", en: "Eskişehir"},
+    image: "/poi-images/eskisehir-cities-v2.webp",
     description: { de: "Eskişehir ist eine Universitätsstadt, die am Fluss Porsuk liegt und für ihre Produktion von Meerschaumpfeifen bekannt ist.", hu: "Eskişehir a Porsuk folyó partján fekvő egyetemváros, amely a tajtékpipák gyártásáról ismert.", ro: "Eskişehir este un oraș universitar situat pe râul Porsuk, cunoscut pentru producția sa de pipe din spumă de mare.", en: "Eskişehir is a university city on the Porsuk River, known for its production of meerschaum pipes." },
     facts: {
       de: ["Der Name der Stadt bedeutet wörtlich \"alte Stadt\"", "Hier befinden sich die Anadolu-Universität und die Osmangazi-Universität"],
       hu: ["A város nevének szó szerinti jelentése \"öreg város\"", "Itt található az Anadolu Egyetem és az Osmangazi Egyetem"],
       ro: ["Numele orașului înseamnă literal \"oraș vechi\"", "Aici se află Universitatea Anadolu și Universitatea Osmangazi"],
       en: ["The city's name literally translates to \"old city\"", "It is home to Anadolu University and Osmangazi University"]
-    }, image: "/poi-images/eskisehir-cities-v2.webp"},
+    }, image: "/poi-images/eskisehir-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Eskişehir am Fluss Porsuk ist ein führendes Bildungszentrum mit zwei großen Universitäten. Die Stadt kombiniert moderne Stadtplanung mit historischen Vierteln wie Odunpazarı.",
+      hu: "A Porsuk-folyó partján fekvő Eskişehir modern egyetemi város, amely parkjairól ismert. Az Odunpazarı negyed oszmán házai a város gazdag történelmi múltját idézik fel.",
+      ro: "Eskişehir este un centru universitar modern situat pe râul Porsuk. Orașul este faimos pentru cartierul istoric Odunpazarı și pentru parcurile sale tematice inovatoare.",
+      en: "Eskişehir is a dynamic university city situated on the Porsuk River. It is celebrated for its modern urban parks and the well-preserved Ottoman houses of Odunpazarı.",
+    },
+    factsAdvanced: {
+      de: ["Gegründet um 1000 v. Chr. von Phrygern", "Sitz der Anadolu Universität (über 1 Mio. Studenten)", "Zentrum für den Abbau von Meerschaum (Lüle taşı)", "Das erste türkische Auto 'Devrim' wurde hier 1961 gebaut"],
+      hu: ["A phrügiaiak alapították i. e. 1000 körül", "Az Anadolu Egyetem székhelye, távoktatási központ", "A tajtékkő (Lüle taşı) bányászatának világközpontja", "Itt készült 1961-ben az első török autó, a Devrim"],
+      ro: ["Fondat de frigieni în jurul anului 1000 î.Hr.", "Găzduiește Universitatea Anadolu, una dintre cele mai mari", "Centru mondial pentru extracția de sepiolit (spumă de mare)", "Prima mașină turcească, Devrim, a fost produsă aici în 1961"],
+      en: ["Founded by Phrygians around 1000 BC", "Home to Anadolu University, a major education hub", "Global center for meerschaum (sepiolite) mining", "The first Turkish car, Devrim, was built here in 1961"],
+    },
+  },
   {
     id: "diyarbakir-cities-v2",
     type: "city",
     parent: "TR-21",
     coords: [40.2306, 37.9144],
-    name: { de: "Diyarbakır", hu: "Diyarbakır", ro: "Diyarbakır", en: "Diyarbakır",
-image: "/poi-images/diyarbakir-cities-v2.webp"
-},
+    name: { de: "Diyarbakır", hu: "Diyarbakır", ro: "Diyarbakır", en: "Diyarbakır"},
+    image: "/poi-images/diyarbakir-cities-v2.webp",
     description: { de: "Diyarbakır liegt am Ufer des Tigris und ist berühmt für seine aus schwarzem Basaltstein erbauten Stadtmauern.", hu: "Diyarbakır a Tigris folyó partján fekszik, fekete bazaltkőből épült városfalairól híres.", ro: "Diyarbakır este situat pe malurile râului Tigru și este faimos pentru zidurile orașului construite din bazalt negru.", en: "Diyarbakır is located on the banks of the Tigris River and is famous for its city walls built of black basalt." },
     facts: {
       de: ["Die Stadtmauern gehören zum UNESCO-Weltkulturerbe", "Die Festung hat eine Länge von 5,5 Kilometern"],
       hu: ["A városfalak az UNESCO Világörökség részét képezik", "Az erődítmény 5,5 kilométer hosszú"],
       ro: ["Zidurile orașului fac parte din Patrimoniul Mondial UNESCO", "Fortăreața are o lungime de 5,5 kilometri"],
       en: ["The city walls are a UNESCO World Heritage site", "The fortress has a length of 5.5 kilometers"]
-    }, image: "/poi-images/diyarbakir-cities-v2.webp"},
+    }, image: "/poi-images/diyarbakir-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Diyarbakır ist bekannt für seine monumentalen Stadtmauern aus schwarzem Basalt, die zum UNESCO-Welterbe gehören. Die Stadt am Tigris war über Jahrtausende ein strategisches Zentrum.",
+      hu: "Diyarbakır monumentális bazalt városfalairól és az UNESCO listás Hevsel-kertekről híres. A Tigris-folyó partján fekvő település évezredek óta fontos kereskedelmi csomópont.",
+      ro: "Diyarbakır este renumit pentru zidurile sale masive din bazalt negru, incluse în patrimoniul UNESCO. Orașul de pe malul Tigrului este un sit istoric de o importanță rară.",
+      en: "Diyarbakır is distinguished by its massive black basalt city walls and the UNESCO-listed Hevsel Gardens. It has been a strategic hub on the Tigris River for millennia.",
+    },
+    factsAdvanced: {
+      de: ["Die Stadtmauern sind fast 6 Kilometer lang", "Die Große Moschee (Ulu Cami) stammt aus dem Jahr 1091", "Die Hevsel-Gärten werden seit 8000 Jahren bewirtschaftet", "Die Malabadi-Brücke hat eine Spannweite von 40 Metern"],
+      hu: ["A városfalak hossza megközelíti a 6 kilométert", "Az Ulu Cami (Nagymecset) 1091-ben épült", "A Hevsel-kerteket már 8000 éve művelik folyamatosan", "A közeli Malabadi-híd fesztávolsága 40 méter"],
+      ro: ["Zidurile cetății au o lungime de aproape 6 kilometri", "Marea Moschee (Ulu Cami) a fost construită în 1091", "Grădinile Hevsel sunt cultivate de peste 8000 de ani", "Podul Malabadi din apropiere are o deschidere de 40 metri"],
+      en: ["City walls extend for nearly 6 kilometers", "The Great Mosque (Ulu Cami) dates back to 1091", "Hevsel Gardens have been farmed for 8000 years", "The Malabadi Bridge features a 40-meter arch span"],
+    },
+  },
   {
     id: "samsun-cities-v2",
     type: "city",
     parent: "TR-55",
     coords: [36.3300, 41.2867],
-    name: { de: "Samsun", hu: "Samsun", ro: "Samsun", en: "Samsun",
-image: "/poi-images/samsun-cities-v2.webp"
-},
+    name: { de: "Samsun", hu: "Samsun", ro: "Samsun", en: "Samsun"},
+    image: "/poi-images/samsun-cities-v2.webp",
     description: { de: "Samsun ist eine der wichtigsten Hafenstädte an der türkischen Schwarzmeerküste.", hu: "Samsun a török Fekete-tenger partvidékének egyik legfontosabb kikötővárosa.", ro: "Samsun este unul dintre cele mai importante orașe-port de pe coasta Mării Negre din Turcia.", en: "Samsun is one of the most important port cities on the Turkish Black Sea coast." },
     facts: {
       de: ["Atatürk landete hier 1919, was den Beginn des Unabhängigkeitskrieges markiert", "In der Antike hieß die Siedlung Amisos"],
       hu: ["Atatürk 1919-ben szállt itt partra, ami a függetlenségi háború kezdetét jelentette", "Az ókorban a települést Amiszosznak hívták"],
       ro: ["Atatürk a debarcat aici în 1919, marcând începutul Războiului de Independență", "În antichitate, așezarea se numea Amisos"],
       en: ["Atatürk landed here in 1919, marking the start of the War of Independence", "In antiquity, the settlement was called Amisos"]
-    }, image: "/poi-images/samsun-cities-v2.webp"},
+    }, image: "/poi-images/samsun-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Samsun ist die größte Hafenstadt an der türkischen Schwarzmeerküste. Sie erlangte historische Bedeutung als Ausgangspunkt des türkischen Befreiungskrieges im Jahr 1919.",
+      hu: "Samsun a török fekete-tengeri partvidék legnagyobb kikötővárosa. Történelmi jelentőségét a török függetlenségi háború 1919-es elindítása adja.",
+      ro: "Samsun este cel mai mare port de la Marea Neagră din Turcia. Orașul are o semnificație istorică majoră, fiind locul unde a început Războiul de Independență în 1919.",
+      en: "Samsun is the largest port city on Turkey's Black Sea coast. It holds great historical importance as the starting point of the Turkish War of Independence in 1919.",
+    },
+    factsAdvanced: {
+      de: ["Atatürk landete hier am 19. Mai 1919", "Das Bandırma-Schiff ist als Museum erhalten", "Die Stadt ist ein Zentrum für den Tabakanbau", "Amisos-Hügel beherbergt Gräber aus dem 3. Jh. v. Chr."],
+      hu: ["Atatürk 1919. május 19-én szállt itt partra", "A Bandırma hajó ma múzeumként látogatható", "A régió a dohánytermesztés egyik központja", "Az Amisos-domb i. e. 3. századi sírokat rejt"],
+      ro: ["Atatürk a debarcat aici la 19 mai 1919", "Nava Bandırma este păstrată ca muzeu istoric", "Orașul este un centru major pentru producția de tutun", "Dealul Amisos conține morminte din secolul III î.Hr."],
+      en: ["Atatürk landed here on May 19, 1919", "The Bandırma ship serves as a historical museum", "A major hub for tobacco production in the region", "Amisos Hill contains tombs dating to the 3rd century BC"],
+    },
+  },
   {
     id: "denizli-cities-v2",
     type: "city",
     parent: "TR-20",
     coords: [29.0886, 37.7765],
-    name: { de: "Denizli", hu: "Denizli", ro: "Denizli", en: "Denizli",
-image: "/poi-images/denizli-cities-v2.webp"
-},
+    name: { de: "Denizli", hu: "Denizli", ro: "Denizli", en: "Denizli"},
+    image: "/poi-images/denizli-cities-v2.webp",
     description: { de: "Denizli ist ein Zentrum der Textilindustrie und liegt nahe der berühmten Thermalquellen von Pamukkale.", hu: "Denizli a textilipar központja, Pamukkale híres hőforrásainak közelében helyezkedik el.", ro: "Denizli este un centru al industriei textile și se află aproape de faimoasele izvoare termale din Pamukkale.", en: "Denizli is a center of the textile industry and is located near the famous thermal springs of Pamukkale." },
     facts: {
       de: ["Die antike Stadt Laodizea am Lykos liegt nur wenige Kilometer entfernt", "Der lokale Denizli-Hahn ist das Symbol der Stadt"],
       hu: ["Az ókori Laodicea a Lükosz folyó mentén csak néhány kilométerre található", "A helyi Denizli kakas a város szimbóluma"],
       ro: ["Orașul antic Laodiceea pe Lycus se află la doar câțiva kilometri distanță", "Cocoșul local Denizli este simbolul orașului"],
       en: ["The ancient city of Laodicea on the Lycus is just a few kilometers away", "The local Denizli rooster is the symbol of the city"]
-    }, image: "/poi-images/denizli-cities-v2.webp"},
+    }, image: "/poi-images/denizli-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Denizli ist das Tor zu den berühmten Sinterterrassen von Pamukkale. Die Stadt ist zudem ein bedeutendes industrielles Zentrum für Textilherstellung und Export.",
+      hu: "Denizli a kapu a világhírű Pamukkale mészkőteraszaihoz. A város egyben jelentős ipari központ, különösen a textilgyártás és az export terén meghatározó.",
+      ro: "Denizli este poarta de acces către faimoasele terase de travertin de la Pamukkale. Orașul este și un centru industrial vital pentru industria textilă.",
+      en: "Denizli serves as the gateway to the world-famous travertine terraces of Pamukkale. It is also a significant industrial hub specializing in textile manufacturing.",
+    },
+    factsAdvanced: {
+      de: ["Die antike Stadt Hierapolis liegt direkt bei Pamukkale", "Berühmt für die Denizli-Hähne mit langem Krähen", "Textilexporte erreichen über 170 Länder weltweit", "Die Seilbahn Bağbaşı erreicht eine Höhe von 1500 Metern"],
+      hu: ["Hierapolisz ókori városa közvetlenül Pamukkale mellett fekszik", "Híres a hosszan kukorékoló denizli-i kakasokról", "A textiltermékeket a világ több mint 170 országába exportálják", "A Bağbaşı felvonó 1500 méteres magasságba visz fel"],
+      ro: ["Orașul antic Hierapolis este situat lângă Pamukkale", "Faimos pentru cocoșii de Denizli care cântă foarte lung", "Exporturile textile ajung în peste 170 de țări", "Telecabina Bağbaşı urcă la o altitudine de 1500 de metri"],
+      en: ["Ancient Hierapolis is located adjacent to Pamukkale", "Famous for the Denizli rooster with its long crow", "Textile exports reach more than 170 countries", "The Bağbaşı cable car rises to 1500 meters altitude"],
+    },
+  },
   {
     id: "sanliurfa-cities-v2",
     type: "city",
     parent: "TR-63",
     coords: [38.7969, 37.1674],
-    name: { de: "Şanlıurfa", hu: "Şanlıurfa", ro: "Șanlıurfa", en: "Şanlıurfa",
-image: "/poi-images/sanliurfa-cities-v2.webp"
-},
+    name: { de: "Şanlıurfa", hu: "Şanlıurfa", ro: "Șanlıurfa", en: "Şanlıurfa"},
+    image: "/poi-images/sanliurfa-cities-v2.webp",
     description: { de: "Şanlıurfa, oft einfach Urfa genannt, ist eine historische Stadt im Südosten der Türkei mit einer 12.000-jährigen Besiedlungsgeschichte.", hu: "Şanlıurfa, amelyet gyakran egyszerűen Urfának hívnak, történelmi város Délkelet-Törökországban, 12 000 éves településtörténettel.", ro: "Șanlıurfa, adesea numită pur și simplu Urfa, este un oraș istoric din sud-estul Turciei cu o istorie de așezare de 12.000 de ani.", en: "Şanlıurfa, often simply called Urfa, is a historical city in southeastern Turkey with a 12,000-year history of settlement." },
     facts: {
       de: ["In der Nähe befindet sich die archäologische Stätte Göbekli Tepe", "Nach islamischer Tradition gilt sie als Geburtsstadt des Propheten Abraham"],
       hu: ["A közelben található a Göbekli Tepe régészeti lelőhely", "Az iszlám hagyomány szerint Ábrahám próféta szülővárosa"],
       ro: ["Sit-ul arheologic Göbekli Tepe se află în apropiere", "Conform tradiției islamice, este locul de naștere al profetului Avraam"],
       en: ["The archaeological site of Göbekli Tepe is located nearby", "According to Islamic tradition, it is the birthplace of the prophet Abraham"]
-    }, image: "/poi-images/sanliurfa-cities-v2.webp"},
+    }, image: "/poi-images/sanliurfa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Şanlıurfa, oft als Stadt der Propheten bezeichnet, ist ein spirituelles Zentrum. In der Nähe befindet sich Göbeklitepe, der älteste bekannte Tempelkomplex der Menschheit.",
+      hu: "Şanlıurfa, a 'Próféták városa', fontos spirituális központ. A közelben található Göbeklitepe, az emberiség legrégebbi ismert templomegyüttese.",
+      ro: "Şanlıurfa, supranumit Orașul Profeților, este un centru spiritual major. În apropiere se află Göbeklitepe, cel mai vechi templu din lume.",
+      en: "Şanlıurfa, known as the City of Prophets, is a profound spiritual center. Nearby Göbeklitepe hosts the world's oldest known temple complex.",
+    },
+    factsAdvanced: {
+      de: ["Göbeklitepe ist etwa 11.500 Jahre alt", "Der Balıklıgöl ist ein heiliger See mit Karpfen", "Gilt als Geburtsort des Propheten Abraham", "Die Stadt hieß in der Antike Edessa"],
+      hu: ["Göbeklitepe körülbelül 11 500 éves", "A Balıklıgöl egy szent tó, amelyben védett pontyok élnek", "Ábrahám próféta hagyomány szerinti születési helye", "Az ókorban Edessza néven volt ismert"],
+      ro: ["Göbeklitepe are o vechime de circa 11.500 de ani", "Balıklıgöl este un lac sacru plin cu crapi", "Considerat locul de naștere al profetului Avraam", "Orașul era cunoscut în antichitate sub numele de Edessa"],
+      en: ["Göbeklitepe is approximately 11,500 years old", "Balıklıgöl is a sacred pool filled with carp", "Revered as the birthplace of the Prophet Abraham", "Known as Edessa during the classical antiquity"],
+    },
+  },
   {
     id: "adapazari-cities-v2",
     type: "city",
     parent: "TR-54",
     coords: [30.4056, 40.7811],
-    name: { de: "Adapazarı", hu: "Adapazarı", ro: "Adapazarı", en: "Adapazarı",
-image: "/poi-images/adapazari-cities-v2.webp"
-},
+    name: { de: "Adapazarı", hu: "Adapazarı", ro: "Adapazarı", en: "Adapazarı"},
+    image: "/poi-images/adapazari-cities-v2.webp",
     description: { de: "Adapazarı, die Hauptstadt der Provinz Sakarya, ist ein bedeutender Industriestandort mit dem Fokus auf den Fahrzeugbau.", hu: "Adapazarı, Sakarya tartomány fővárosa egy jelentős ipari központ, amelynek fókuszában a járműgyártás áll.", ro: "Adapazarı, capitala provinciei Sakarya, este o locație industrială majoră axată pe fabricarea vehiculelor.", en: "Adapazarı, the capital of Sakarya province, is a major industrial location focused on vehicle manufacturing." },
     facts: {
       de: ["Wurde beim Erdbeben von 1999 schwer beschädigt", "Hier befindet sich ein großes Werk von Toyota Europe"],
       hu: ["Az 1999-es földrengésben súlyosan megrongálódott", "Itt található a Toyota Europe egyik nagy gyára"],
       ro: ["A fost grav avariat în timpul cutremurului din 1999", "Aici se află o mare fabrică a Toyota Europe"],
       en: ["Was severely damaged in the 1999 earthquake", "Home to a major Toyota Europe manufacturing plant"]
-    }, image: "/poi-images/adapazari-cities-v2.webp"},
+    }, image: "/poi-images/adapazari-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Adapazarı ist das administrative Zentrum der Provinz Sakarya und ein wichtiger Industriestandort. Die Stadt liegt verkehrsgünstig auf der Achse zwischen Istanbul und Ankara.",
+      hu: "Adapazarı Sakarya tartomány székhelye és kiemelkedő ipari központ. Stratégiai elhelyezkedése az Isztambul és Ankara közötti útvonalon kulcsfontosságú.",
+      ro: "Adapazarı este centrul administrativ al provinciei Sakarya și un pol industrial major. Orașul este situat strategic pe ruta dintre Istanbul și Ankara.",
+      en: "Adapazarı is the administrative heart of Sakarya Province and a key industrial site. It is strategically located on the main corridor between Istanbul and Ankara.",
+    },
+    factsAdvanced: {
+      de: ["Sitz großer Automobilwerke wie Toyota", "Die Justinian-Brücke stammt aus dem 6. Jahrhundert", "Schwerer Wiederaufbau nach dem Erdbeben von 1999", "Berühmt für Islama Köfte (traditionelles Fleischgericht)"],
+      hu: ["Hatalmas autógyáraknak ad otthont (pl. Toyota)", "A Justinianus-híd a 6. századból maradt ránk", "Jelentős újjáépítésen ment keresztül az 1999-es földrengés után", "Híres az Islama Köfte nevű hagyományos ételéről"],
+      ro: ["Găzduiește fabrici auto mari, precum Toyota", "Podul lui Justinian datează din secolul al VI-lea", "Reconstruit masiv după cutremurul devastator din 1999", "Faimos pentru preparatul tradițional Islama Köfte"],
+      en: ["Home to major automotive plants like Toyota", "The Sangarius Bridge dates back to the 6th century", "Extensively rebuilt after the 1999 earthquake", "Famous for the traditional dish Islama Köfte"],
+    },
+  },
   {
     id: "malatya-cities-v2",
     type: "city",
     parent: "TR-44",
     coords: [38.3167, 38.3500],
-    name: { de: "Malatya", hu: "Malatya", ro: "Malatya", en: "Malatya",
-image: "/poi-images/malatya-cities-v2.webp"
-},
+    name: { de: "Malatya", hu: "Malatya", ro: "Malatya", en: "Malatya"},
+    image: "/poi-images/malatya-cities-v2.webp",
     description: { de: "Malatya ist weltweit bekannt als die Hauptstadt der Aprikosen, da sie bis zu 80 Prozent der getrockneten Aprikosen weltweit produziert.", hu: "Malatya világszerte a sárgabarack fővárosaként ismert, mivel a világ aszaltsárgabarack-termelésének akár 80 százalékát is adja.", ro: "Malatya este cunoscută la nivel mondial ca fiind capitala caiselor, producând până la 80% din caisele uscate din lume.", en: "Malatya is known globally as the capital of apricots, producing up to 80 percent of the world's dried apricots." },
     facts: {
       de: ["Die römische Siedlung am gleichen Ort hieß Melitene", "Der Arslantepe-Hügel ist ein UNESCO-Weltkulturerbe"],
       hu: ["A helyén lévő római települést Melitene-nek hívták", "Az Arslantepe-halom az UNESCO Világörökség része"],
       ro: ["Așezarea romană din aceeași locație se numea Melitene", "Movila Arslantepe este un sit al Patrimoniului Mondial UNESCO"],
       en: ["The Roman settlement at the same location was called Melitene", "The Arslantepe mound is a UNESCO World Heritage site"]
-    }, image: "/poi-images/malatya-cities-v2.webp"},
+    }, image: "/poi-images/malatya-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Malatya liegt am Fuße des Taurusgebirges und ist weltweit als Hauptstadt der Aprikosen bekannt. Die Stadt blickt auf eine Siedlungsgeschichte zurück, die bis in die Kupferzeit reicht.",
+      hu: "A Toros-hegység lábánál fekvő Malatya a világ kajszibarack-fővárosaként ismert. A település történelme egészen a kalkolitikumig nyúlik vissza.",
+      ro: "Malatya, situat la poalele Munților Taurus, este recunoscut mondial drept capitala caiselor. Istoria sa începe încă din epoca cuprului.",
+      en: "Malatya, nestled at the foot of the Taurus Mountains, is globally renowned as the apricot capital. Its settlement history dates back to the Chalcolithic era.",
+    },
+    factsAdvanced: {
+      de: ["Produziert ca. 80% der weltweiten getrockneten Aprikosen", "Arslantepe ist ein UNESCO-Weltkulturerbe", "Die Ausgrabungen zeigen Palaststrukturen von 3300 v. Chr.", "Hatte in der Antike den Namen Melitene"],
+      hu: ["A világ aszalt sárgabarack-termelésének kb. 80%-át adja", "Arslantepe dombja az UNESCO Világörökség része", "Az ásatások i. e. 3300-ból származó palotát tártak fel", "Az ókorban Meliténé néven volt ismert"],
+      ro: ["Produce circa 80% din caisele uscate la nivel mondial", "Arslantepe este inclus în patrimoniul UNESCO", "Săpăturile au scos la iveală un palat din 3300 î.Hr.", "Cunoscut sub numele de Melitene în perioada antică"],
+      en: ["Produces about 80% of the world's dried apricots", "Arslantepe Mound is a UNESCO World Heritage site", "Excavations revealed palace structures from 3300 BC", "Known as Melitene in the ancient Roman period"],
+    },
+  },
   {
     id: "kahramanmaras-cities-v2",
     type: "city",
     parent: "TR-46",
     coords: [36.9372, 37.5847],
-    name: { de: "Kahramanmaraş", hu: "Kahramanmaraş", ro: "Kahramanmaraş", en: "Kahramanmaraş",
-image: "/poi-images/kahramanmaras-cities-v2.webp"
-},
+    name: { de: "Kahramanmaraş", hu: "Kahramanmaraş", ro: "Kahramanmaraş", en: "Kahramanmaraş"},
+    image: "/poi-images/kahramanmaras-cities-v2.webp",
     description: { de: "Kahramanmaraş liegt am Rande der Taurusgebirge und ist besonders berühmt für ihr traditionelles Eis, das Maraş dondurması.", hu: "Kahramanmaraş a Torosz-hegység szélén fekszik, és különösen híres hagyományos fagylaltjáról, a Maraş dondurması-ról.", ro: "Kahramanmaraş se află la marginea Munților Taurus și este faimos în special pentru înghețata sa tradițională, Maraş dondurması.", en: "Kahramanmaraş is located on the edge of the Taurus Mountains and is especially famous for its traditional ice cream, Maraş dondurması." },
     facts: {
       de: ["Die Stadt erhielt 1973 den Zusatztitel \"Kahraman\" (heldenhaft)", "Eines der Epizentren der Erdbeben von 2023"],
       hu: ["A város 1973-ban kapta meg a \"Kahraman\" (hősies) előtagot", "A 2023-as földrengések egyik epicentruma volt"],
       ro: ["Orașul a primit prefixul \"Kahraman\" (eroic) în 1973", "Unul dintre epicentrele cutremurelor din 2023"],
       en: ["The city received the prefix \"Kahraman\" (heroic) in 1973", "One of the epicenters of the 2023 earthquakes"]
-    }, image: "/poi-images/kahramanmaras-cities-v2.webp"},
+    }, image: "/poi-images/kahramanmaras-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Kahramanmaraş ist berühmt für sein einzigartiges Speiseeis und seine heroische Rolle im Befreiungskrieg. Die Stadt liegt am Übergang zwischen Zentralanatolien und Mesopotamien.",
+      hu: "Kahramanmaraş különleges fagylaltjáról és a függetlenségi háborúban betöltött hősies szerepéről nevezetes. Közép-Anatólia és Mezopotámia találkozásánál fekszik.",
+      ro: "Kahramanmaraş este faimos pentru înghețata sa unică și rolul eroic în Războiul de Independență. Orașul se află la granița cu Mesopotamia.",
+      en: "Kahramanmaraş is celebrated for its unique goat-milk ice cream and its heroic role in the independence war. It sits at the edge of Mesopotamia.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für Maraş Dondurma (festes Speiseeis)", "Er erhielt 1973 den Beinamen 'Kahraman' (heldenhaft)", "Wichtiger Standort für Goldverarbeitung und Textilien", "Die Burg von Maraş stammt aus hethitischer Zeit"],
+      hu: ["Híres a Maraş Dondurma nevű kemény fagylaltról", "1973-ban kapta meg a 'Kahraman' (hős) előnevet", "Jelentős aranyfeldolgozó és textilipari központ", "A Maraş-vár alapjai a hettita korig nyúlnak vissza"],
+      ro: ["Renumit pentru Maraş Dondurma, o înghețată elastică", "A primit titlul 'Kahraman' (Eroul) în anul 1973", "Centru major pentru bijuterii din aur și textile", "Cetatea din Maraş datează din perioada hitită"],
+      en: ["Famous for Maraş Dondurma, a stretchy ice cream", "Awarded the prefix 'Kahraman' (Heroic) in 1973", "A major center for gold jewelry and textile production", "The Citadel of Maraş has foundations from Hittite times"],
+    },
+  },
   {
     id: "erzurum-cities-v2",
     type: "city",
     parent: "TR-25",
     coords: [41.2689, 39.9043],
-    name: { de: "Erzurum", hu: "Erzurum", ro: "Erzurum", en: "Erzurum",
-image: "/poi-images/erzurum-cities-v2.webp"
-},
+    name: { de: "Erzurum", hu: "Erzurum", ro: "Erzurum", en: "Erzurum"},
+    image: "/poi-images/erzurum-cities-v2.webp",
     description: { de: "Erzurum ist mit über 1900 Metern über dem Meeresspiegel die höchstgelegene Großstadt der Türkei.", hu: "Erzurum a több mint 1900 méteres tengerszint feletti magasságával Törökország legmagasabban fekvő nagyvárosa.", ro: "La peste 1900 de metri deasupra nivelului mării, Erzurum este cel mai înalt oraș mare din Turcia.", en: "At over 1900 meters above sea level, Erzurum is the highest major city in Turkey." },
     facts: {
       de: ["Die Stadt veranstaltete die Winter-Universiade 2011", "Die Çifte-Minareli-Medrese ist ein Wahrzeichen der Stadt"],
       hu: ["A város rendezte a 2011-es Téli Universiadét", "A Çifte Minareli Medresze a város egyik szimbóluma"],
       ro: ["Orașul a găzduit Universiada de Iarnă din 2011", "Medresa Çifte Minareli este un punct de reper al orașului"],
       en: ["The city hosted the 2011 Winter Universiade", "The Çifte Minareli Medrese is a landmark of the city"]
-    }, image: "/poi-images/erzurum-cities-v2.webp"},
+    }, image: "/poi-images/erzurum-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Erzurum ist die höchstgelegene Großstadt der Türkei und ein bedeutendes Wintersportzentrum. Die Stadt besticht durch imposante Bauwerke aus der Zeit der Seldschuken.",
+      hu: "Erzurum Törökország legmagasabban fekvő nagyvárosa és kiemelkedő téli sportközpont. A városképet lenyűgöző szeldzsuk építészeti emlékek határozzák meg.",
+      ro: "Erzurum este cel mai înalt oraș mare din Turcia și un centru major de sporturi de iarnă. Orașul impresionează prin monumentele sale selgiucide.",
+      en: "Erzurum is the highest major city in Turkey and a premier winter sports destination. It features magnificent architectural works from the Seljuk era.",
+    },
+    factsAdvanced: {
+      de: ["Liegt auf einer Höhe von ca. 1900 Metern", "Palandöken bietet eine der längsten Skipisten Europas", "Die Çifte Minareli Medrese wurde im 13. Jh. erbaut", "Berühmt für den Oltu-Stein (schwarzer Bernstein)"],
+      hu: ["Körülbelül 1900 méteres tengerszint feletti magasságban fekszik", "Palandöken Európa egyik leghosszabb sípályájával rendelkezik", "A Çifte Minareli Medrese a 13. században épült", "Híres az oltu-kőről (fekete borostyán)"],
+      ro: ["Situat la o altitudine de aproximativ 1900 de metri", "Palandöken are una dintre cele mai lungi pârtii din Europa", "Madrasa Çifte Minareli a fost construită în secolul XIII", "Faimos pentru piatra de Oltu (chihlimbar negru)"],
+      en: ["Situated at an altitude of about 1900 meters", "Palandöken hosts one of Europe's longest ski runs", "The Twin Minaret Madrasa was built in the 13th century", "Famous for Oltu stone (black amber) jewelry"],
+    },
+  },
   {
     id: "van-cities-v2",
     type: "city",
     parent: "TR-65",
     coords: [43.3764, 38.4946],
-    name: { de: "Van", hu: "Van", ro: "Van", en: "Van",
-image: "/poi-images/van-cities-v2.webp"
-},
+    name: { de: "Van", hu: "Van", ro: "Van", en: "Van"},
+    image: "/poi-images/van-cities-v2.webp",
     description: { de: "Die Stadt Van liegt am Ostufer des Vansees, dem größten See der Türkei, und blickt auf eine alte Geschichte zurück.", hu: "Van városa a Van-tó, Törökország legnagyobb tavának keleti partján fekszik, és ősi történelemmel büszkélkedhet.", ro: "Orașul Van se află pe malul estic al lacului Van, cel mai mare lac din Turcia, și se mândrește cu o istorie străveche.", en: "The city of Van is located on the eastern shore of Lake Van, Turkey's largest lake, and boasts an ancient history." },
     facts: {
       de: ["War unter dem Namen Tuschpa die Hauptstadt des Königreichs Urartu", "Die Van-Katze mit ihren verschiedenfarbigen Augen stammt von hier"],
       hu: ["Tuspának nevezve az Urartu Királyság fővárosa volt", "A különböző színű szemekkel rendelkező van-macska innen származik"],
       ro: ["Sub numele Tushpa a fost capitala Regatului Urartu", "Pisica Van, cu ochii săi de culori diferite, provine de aici"],
       en: ["Under the name Tushpa, it was the capital of the Kingdom of Urartu", "The Van cat, with its odd-colored eyes, originates from here"]
-    }, image: "/poi-images/van-cities-v2.webp"},
+    }, image: "/poi-images/van-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Van liegt am Ufer des größten Sees der Türkei und war einst die Hauptstadt des Urartu-Reiches. Die Stadt ist berühmt für ihre Geschichte, Katzen und das Frühstück.",
+      hu: "Van Törökország legnagyobb tavának partján fekszik, és egykor az Urartu Birodalom fővárosa volt. Híres történelméről, különleges macskáiról és reggelijéről.",
+      ro: "Van este situat pe malul celui mai mare lac din Turcia și a fost capitala regatului Urartu. Orașul este celebru pentru pisicile sale și micul dejun bogat.",
+      en: "Van is located on the shores of Turkey's largest lake and was once the capital of the Urartu Kingdom. It is famous for its history, cats, and breakfast.",
+    },
+    factsAdvanced: {
+      de: ["Die Festung von Van stammt aus dem 9. Jh. v. Chr.", "Der Van-See ist ein alkalischer Sodasee", "Die Van-Katzen haben oft zwei verschiedene Augenfarben", "Die armenische Heilig-Kreuz-Kirche liegt auf der Insel Akdamar"],
+      hu: ["A Van-erőd az i. e. 9. században épült", "A Van-tó vize erősen lúgos (szódás víz)", "A Van-macskák gyakran felemás szeműek", "Az örmény Szent Kereszt-templom Akdamar szigetén áll"],
+      ro: ["Cetatea Van datează din secolul al IX-lea î.Hr.", "Lacul Van este un lac alcalin, bogat în carbonat de sodiu", "Pisicile de Van au adesea ochi de culori diferite", "Biserica armeană Sfânta Cruce se află pe insula Akdamar"],
+      en: ["Van Fortress dates back to the 9th century BC", "Lake Van is a highly alkaline soda lake", "Van cats are known for having odd-colored eyes", "The Armenian Holy Cross Church is located on Akdamar Island"],
+    },
+  },
   {
     id: "batman-cities-v2",
     type: "city",
     parent: "TR-72",
     coords: [41.1322, 37.8812],
-    name: { de: "Batman", hu: "Batman", ro: "Batman", en: "Batman",
-image: "/poi-images/batman-cities-v2.webp"
-},
+    name: { de: "Batman", hu: "Batman", ro: "Batman", en: "Batman"},
+    image: "/poi-images/batman-cities-v2.webp",
     description: { de: "Batman ist das wichtigste Ölförderungszentrum der Türkei und verzeichnete in den letzten Jahrzehnten ein starkes Wachstum.", hu: "Batman Törökország legfontosabb kőolaj-kitermelési központja, az elmúlt évtizedekben jelentős növekedést mutatott.", ro: "Batman este cel mai important centru de extracție a petrolului din Turcia și a înregistrat o creștere semnificativă în ultimele decenii.", en: "Batman is Turkey's most important oil production center and has experienced significant growth in recent decades." },
     facts: {
       de: ["Wurde nach dem nahegelegenen Fluss Batman benannt", "Der Bau der ersten Ölraffinerie begann 1955"],
       hu: ["A közeli Batman folyóról kapta a nevét", "Az első olajfinomító építése 1955-ben kezdődött"],
       ro: ["A fost numit după râul din apropiere, Batman", "Construcția primei rafinării de petrol a început în 1955"],
       en: ["Was named after the nearby Batman River", "Construction of the first oil refinery began in 1955"]
-    }, image: "/poi-images/batman-cities-v2.webp"},
+    }, image: "/poi-images/batman-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Batman ist ein bedeutendes Zentrum der türkischen Erdölindustrie. In der Nähe befindet sich das historische Hasankeyf, ein Ort mit jahrtausendealter Siedlungsgeschichte am Tigris.",
+      hu: "Batman a török kőolajipar egyik legfontosabb központja. A közelben található a történelmi Hasankeyf, egy évezredes múltú település a Tigris partján.",
+      ro: "Batman este un centru vital al industriei petroliere din Turcia. În apropiere se află situl istoric Hasankeyf, cu o istorie milenară pe malul Tigrului.",
+      en: "Batman is a major center for the Turkish petroleum industry. Nearby Hasankeyf boasts a history of human settlement dating back thousands of years on the Tigris.",
+    },
+    factsAdvanced: {
+      de: ["Die erste Erdölraffinerie der Türkei wurde hier 1955 gebaut", "Hasankeyf beherbergt Relikte aus 12.000 Jahren Geschichte", "Die Malabadi-Brücke verbindet Batman mit Diyarbakır", "Der Name leitet sich vom Fluss Batman ab"],
+      hu: ["Törökország első kőolajfinomítója itt épült 1955-ben", "Hasankeyf 12 000 éves történelmi emlékeket őriz", "A Malabadi-híd összeköti Batmant Diyarbakırral", "A város a Batman-folyóról kapta a nevét"],
+      ro: ["Prima rafinărie de petrol din Turcia a fost construită în 1955", "Hasankeyf deține vestigii vechi de 12.000 de ani", "Podul Malabadi leagă Batman de Diyarbakır", "Numele orașului provine de la râul Batman"],
+      en: ["Turkey's first oil refinery was built here in 1955", "Hasankeyf contains relics from 12,000 years of history", "The Malabadi Bridge connects Batman to Diyarbakır", "The city name is derived from the Batman River"],
+    },
+  },
   {
     id: "elazig-cities-v2",
     type: "city",
     parent: "TR-23",
     coords: [39.2230, 38.6743],
-    name: { de: "Elazığ", hu: "Elazığ", ro: "Elazığ", en: "Elazığ",
-image: "/poi-images/elazig-cities-v2.webp"
-},
+    name: { de: "Elazığ", hu: "Elazığ", ro: "Elazığ", en: "Elazığ"},
+    image: "/poi-images/elazig-cities-v2.webp",
     description: { de: "Elazığ liegt im ostanatolischen Hochland nahe der Euphrat-Talsperre und entwickelte sich aus der historischen Siedlung Harput.", hu: "Elazığ a kelet-anatóliai felvidéken, az Eufrátesz-gát közelében fekszik, és a történelmi Harput településből alakult ki.", ro: "Elazığ se află pe podișul Anatoliei de Est, lângă barajul Eufrat, și s-a dezvoltat din așezarea istorică Harput.", en: "Elazığ is located in the Eastern Anatolian highland near the Euphrates dam and developed from the historical settlement of Harput." },
     facts: {
       de: ["Wurde 1834 unter osmanischer Herrschaft gegründet", "Der Keban-Staudamm liegt nordwestlich der Stadt"],
       hu: ["1834-ben oszmán uralom alatt alapították", "A Keban-gát a várostól északnyugatra található"],
       ro: ["A fost fondat în 1834 sub dominație otomană", "Barajul Keban este situat la nord-vest de oraș"],
       en: ["Was founded in 1834 under Ottoman rule", "The Keban Dam is located northwest of the city"]
-    }, image: "/poi-images/elazig-cities-v2.webp"},
+    }, image: "/poi-images/elazig-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Elazığ liegt im Osten Anatoliens und ist bekannt für seine fruchtbaren Täler und die historische Siedlung Harput, die auf einem Hügel über der modernen Stadt thront.",
+      hu: "Elazığ Kelet-Anatóliában fekszik, híres termékeny völgyeiről és a történelmi Harput településről, amely egy dombtetőn magasodik a modern város felett.",
+      ro: "Elazığ este situat în estul Anatoliei, fiind cunoscut pentru văile sale fertile și situl istoric Harput, care domină orașul modern de pe un deal.",
+      en: "Elazığ is located in Eastern Anatolia, known for its fertile valleys and the historic settlement of Harput, which overlooks the modern city from a hill.",
+    },
+    factsAdvanced: {
+      de: ["Die Burg von Harput stammt aus der Urartu-Zeit", "Der Hazar-See ist ein beliebtes Erholungsgebiet", "Reich an Mineralvorkommen, insbesondere Kupfer", "Berühmt für den traditionellen Çayda Çıra Tanz"],
+      hu: ["A Harput-vár alapjai az Urartu-korból származnak", "A Hazar-tó népszerű üdülőhely a régióban", "Ásványkincsekben, különösen rézben gazdag vidék", "Híres a hagyományos Çayda Çıra táncról"],
+      ro: ["Cetatea Harput datează din perioada Urartu", "Lacul Hazar este o destinație populară de vacanță", "Bogat în resurse minerale, în special cupru", "Faimos pentru dansul tradițional Çayda Çıra"],
+      en: ["Harput Castle dates back to the Urartian period", "Lake Hazar is a popular recreational area in the region", "Rich in mineral deposits, especially copper", "Famous for the traditional Çayda Çıra folk dance"],
+    },
+  },
   {
     id: "izmit-cities-v2",
     type: "city",
     parent: "TR-41",
     coords: [29.9397, 40.7656],
-    name: { de: "İzmit", hu: "İzmit", ro: "Izmit", en: "İzmit",
-image: "/poi-images/izmit-cities-v2.webp"
-},
+    name: { de: "İzmit", hu: "İzmit", ro: "Izmit", en: "İzmit"},
+    image: "/poi-images/izmit-cities-v2.webp",
     description: { de: "İzmit ist ein stark industrialisiertes Zentrum am Marmarameer, das im römischen Reich als Nikomedia bekannt war.", hu: "İzmit egy erősen iparosodott központ a Márvány-tenger mellett, amelyet a Római Birodalomban Nikomédiaként ismertek.", ro: "Izmit este un centru puternic industrializat la Marea Marmara, cunoscut în Imperiul Roman ca Nicomedia.", en: "İzmit is a heavily industrialized center on the Sea of Marmara, known in the Roman Empire as Nicomedia." },
     facts: {
       de: ["War 286 unter Diokletian die östliche Hauptstadt des Römischen Reiches", "Verfügt über eine der größten Papierfabriken der Türkei"],
       hu: ["286-ban Diocletianus alatt a Római Birodalom keleti fővárosa volt", "Törökország egyik legnagyobb papírgyárával rendelkezik"],
       ro: ["A fost capitala estică a Imperiului Roman în 286 sub Dioclețian", "Are una dintre cele mai mari fabrici de hârtie din Turcia"],
       en: ["Was the eastern capital of the Roman Empire in 286 under Diocletian", "Has one of the largest paper mills in Turkey"]
-    }, image: "/poi-images/izmit-cities-v2.webp"},
+    }, image: "/poi-images/izmit-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "İzmit, das antike Nikomedia, ist heute ein Kraftzentrum der türkischen Industrie. Die Stadt am Marmarameer verbindet Istanbul mit dem anatolischen Kernland.",
+      hu: "İzmit, az ókori Nikomédia, ma a török ipar egyik motorja. A Márvány-tenger partján fekvő város összeköti Isztambult Anatólia belső területeivel.",
+      ro: "İzmit, vechiul Nicomedia, este astăzi un motor al industriei turcești. Orașul de la Marea Marmara leagă Istanbulul de inima Anatoliei.",
+      en: "İzmit, ancient Nicomedia, is a powerhouse of Turkish industry today. Situated on the Sea of Marmara, it links Istanbul to the Anatolian heartland.",
+    },
+    factsAdvanced: {
+      de: ["War einst die Hauptstadt des Römischen Reiches im Osten", "Zentrum der türkischen Papier- und Ölindustrie", "Der Uhrturm von İzmit wurde 1901 erbaut", "Heimat der traditionellen Süßspeise Pişmaniye"],
+      hu: ["Egykor a Római Birodalom keleti fővárosa volt", "A török papír- és olajipar egyik központja", "Az izmiti óratorony 1901-ben épült", "A Pişmaniye nevű hagyományos édesség hazája"],
+      ro: ["A fost capitala de est a Imperiului Roman", "Centru major pentru industria hârtiei și a petrolului", "Turnul cu Ceas din İzmit a fost construit în 1901", "Locul de origine al desertului tradițional Pişmaniye"],
+      en: ["Once served as the eastern capital of the Roman Empire", "A major hub for the paper and petroleum industries", "The İzmit Clock Tower was completed in 1901", "Home to the famous traditional sweet called Pişmaniye"],
+    },
+  },
   {
     id: "manisa-cities-v2",
     type: "city",
     parent: "TR-45",
     coords: [27.4269, 38.6140],
-    name: { de: "Manisa", hu: "Manisa", ro: "Manisa", en: "Manisa",
-image: "/poi-images/manisa-cities-v2.webp"
-},
+    name: { de: "Manisa", hu: "Manisa", ro: "Manisa", en: "Manisa"},
+    image: "/poi-images/manisa-cities-v2.webp",
     description: { de: "Manisa ist eine bedeutende Stadt in der Ägäisregion und traditionell als Ausbildungsort der osmanischen Prinzen bekannt.", hu: "Manisa jelentős város az égei-tengeri régióban, amely hagyományosan az oszmán hercegek képzési helyeként ismert.", ro: "Manisa este un oraș major în regiunea Mării Egee și cunoscut tradițional ca loc de antrenament pentru prinții otomani.", en: "Manisa is a major city in the Aegean region and traditionally known as a training ground for Ottoman princes." },
     facts: {
       de: ["Die Stadt am Berg Spil hieß in der Antike Magnesia ad Sipylum", "Austragungsort des jährlichen Mesir-Macunu-Festivals"],
       hu: ["A Spil-hegy melletti várost az ókorban Magnesia ad Sipylum-nak hívták", "Az éves Mesir Macunu Fesztivál helyszíne"],
       ro: ["Orașul de pe Muntele Spil a fost numit Magnesia ad Sipylum în antichitate", "Locul festivalului anual Mesir Macunu"],
       en: ["The city on Mount Spil was called Magnesia ad Sipylum in antiquity", "Host of the annual Mesir Macunu Festival"]
-    }, image: "/poi-images/manisa-cities-v2.webp"},
+    }, image: "/poi-images/manisa-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Manisa, am Fuße des Berges Spil gelegen, war eine bedeutende Ausbildungsstätte für osmanische Prinzen. Die Stadt ist für ihre Landwirtschaft und antike Stätten wie Sardes bekannt.",
+      hu: "A Spil-hegy lábánál fekvő Manisa az oszmán hercegek fontos képzőhelye volt. A város mezőgazdaságáról és az ókori Szardisz romjairól nevezetes.",
+      ro: "Manisa, situat la poalele Muntelui Spil, a fost un centru de educație pentru prinții otomani. Orașul este cunoscut pentru agricultură și situl Sardis.",
+      en: "Manisa, nestled at the foot of Mount Spil, was a key training ground for Ottoman princes. It is known for its agriculture and the ancient site of Sardis.",
+    },
+    factsAdvanced: {
+      de: ["Sardes war die Hauptstadt des antiken Lydien", "Das Mesir-Pasten-Festival ist UNESCO-Kulturerbe", "Der Berg Spil ist bekannt für seine Wildpferde", "Wichtigster Produzent von Sultana-Rosinen"],
+      hu: ["Szardisz az ókori Lüdia fővárosa volt", "A Mesir-paszta fesztivál az UNESCO szellemi öröksége", "A Spil-hegy híres a vadlovairól", "A szultánmazsola egyik legfontosabb termőhelye"],
+      ro: ["Sardis a fost capitala vechiului regat Lidia", "Festivalul Pastei Mesir este patrimoniu UNESCO", "Muntele Spil este renumit pentru caii săi sălbatici", "Principalul producător de stafide Sultana din regiune"],
+      en: ["Sardis was the capital of the ancient Kingdom of Lydia", "The Mesir Paste Festival is a UNESCO Heritage event", "Mount Spil is famous for its wild horses", "A leading producer of Sultana raisins globally"],
+    },
+  },
   {
     id: "sivas-cities-v2",
     type: "city",
     parent: "TR-58",
     coords: [37.0167, 39.7500],
-    name: { de: "Sivas", hu: "Sivas", ro: "Sivas", en: "Sivas",
-image: "/poi-images/sivas-cities-v2.webp"
-},
+    name: { de: "Sivas", hu: "Sivas", ro: "Sivas", en: "Sivas"},
+    image: "/poi-images/sivas-cities-v2.webp",
     description: { de: "Sivas ist ein historischer Verkehrsknotenpunkt in Zentralanatolien und berühmt für seine seldschukische Architektur aus dem 13. Jahrhundert.", hu: "Sivas egy történelmi közlekedési csomópont Közép-Anatóliában, és híres a 13. századi szeldzsuk építészetéről.", ro: "Sivas este un nod istoric de transport în Anatolia Centrală și este faimos pentru arhitectura sa selgiucidă din secolul al XIII-lea.", en: "Sivas is a historical transport hub in Central Anatolia and is famous for its 13th-century Seljuk architecture." },
     facts: {
       de: ["Hieß in der Römerzeit Sebasteia", "Hier fand 1919 der wichtige Sivas-Kongress statt"],
       hu: ["A római korban a Sebasteia nevet viselte", "Itt rendezték meg a fontos sivasi kongresszust 1919-ben"],
       ro: ["S-a numit Sebasteia în perioada romană", "Aici a avut loc importantul Congres de la Sivas în 1919"],
       en: ["Was called Sebasteia in Roman times", "The important Sivas Congress took place here in 1919"]
-    }, image: "/poi-images/sivas-cities-v2.webp"},
+    }, image: "/poi-images/sivas-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Sivas ist ein historisches Zentrum an der Seidenstraße mit herausragender seldschukischer Architektur. Die Stadt spielte 1919 eine Schlüsselrolle bei der Gründung der Republik.",
+      hu: "Sivas a Selyemút egyik történelmi állomása, kiemelkedő szeldzsuk építészeti emlékekkel. 1919-ben kulcsszerepet játszott a Török Köztársaság megalapításában.",
+      ro: "Sivas este un centru istoric de pe Drumul Mătăsii, cu o arhitectură selgiucidă remarcabilă. Orașul a fost crucial pentru fondarea Republicii în 1919.",
+      en: "Sivas is a historic Silk Road hub featuring outstanding Seljuk architecture. It played a pivotal role in 1919 during the formation of the Turkish Republic.",
+    },
+    factsAdvanced: {
+      de: ["Gök Medrese wurde im Jahr 1271 erbaut", "Der Sivas-Kongress von 1919 festigte den Widerstand", "Die Divriği-Moschee (UNESCO) liegt in der Provinz Sivas", "Bekannt für die Kangal-Hunderasse"],
+      hu: ["A Gök Medrese 1271-ben épült", "Az 1919-es Sivasi Kongresszus alapozta meg az ellenállást", "A divriği nagymecset (UNESCO) Sivas tartományban található", "A Kangal kutyafajta származási helye"],
+      ro: ["Madrasa Gök a fost construită în anul 1271", "Congresul de la Sivas din 1919 a unit rezistența", "Marea Moschee din Divriği (UNESCO) se află în această provincie", "Locul de origine al rasei de câini Kangal"],
+      en: ["Gök Medrese was constructed in 1271", "The 1919 Sivas Congress was vital for national unity", "The Divriği Great Mosque (UNESCO) is in Sivas province", "Origin of the world-famous Kangal dog breed"],
+    },
+  },
   {
     id: "balikesir-cities-v2",
     type: "city",
     parent: "TR-10",
     coords: [27.8833, 39.6500],
-    name: { de: "Balıkesir", hu: "Balıkesir", ro: "Balıkesir", en: "Balıkesir",
-image: "/poi-images/balikesir-cities-v2.webp"
-},
+    name: { de: "Balıkesir", hu: "Balıkesir", ro: "Balıkesir", en: "Balıkesir"},
+    image: "/poi-images/balikesir-cities-v2.webp",
     description: { de: "Balıkesir ist das Zentrum einer landwirtschaftlich geprägten Provinz, die sowohl an die Ägäis als auch an das Marmarameer grenzt.", hu: "Balıkesir egy mezőgazdasági jellegű tartomány központja, amely az Égei-tengerrel és a Márvány-tengerrel is határos.", ro: "Balıkesir este centrul unei provincii agricole care se învecinează atât cu Marea Egee, cât și cu Marea Marmara.", en: "Balıkesir is the center of an agricultural province that borders both the Aegean and the Sea of Marmara." },
     facts: {
       de: ["Die Stadtgrenzen umfassen 14.292 Quadratkilometer", "Bekannt für seine Yağcıbedir-Teppiche"],
       hu: ["A város határai 14 292 négyzetkilométert foglalnak magukba", "A Yağcıbedir-szőnyegekről ismert"],
       ro: ["Limitele orașului acoperă 14.292 de kilometri pătrați", "Cunoscut pentru covoarele sale Yağcıbedir"],
       en: ["The city limits cover 14,292 square kilometers", "Known for its Yağcıbedir carpets"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Balıkesir verbindet das Marmarameer mit der Ägäis und ist ein Zentrum für Landwirtschaft und Tourismus. Die Stadt bietet Zugang zu schönen Küstenorten und Thermalquellen.",
+      hu: "Balıkesir összeköti a Márvány-tengert az Égei-tengerrel, a mezőgazdaság és a turizmus központja. A város kaput nyit a tengerparti üdülőhelyekre és termálforrásokra.",
+      ro: "Balıkesir leagă Marea Marmara de Marea Egee, fiind un centru pentru agricultură și turism. Orașul oferă acces la stațiuni litorale și ape termale.",
+      en: "Balıkesir bridges the Sea of Marmara and the Aegean, serving as a hub for agriculture and tourism. It offers access to coastal resorts and thermal springs.",
+    },
+    factsAdvanced: {
+      de: ["Liegt in zwei geografischen Regionen gleichzeitig", "Der Manyas-See ist ein wichtiges Vogelschutzgebiet", "Wichtiger Produzent von Olivenöl und Milchprodukten", "Die antike Stadt Kyzikos liegt in der Nähe"],
+      hu: ["Egyszerre két földrajzi régióban is fekszik", "A Manyas-tó jelentős madárrezervátum", "Az olívaolaj és tejtermékek egyik fő előállítója", "Kyzikos ókori városa a közelben található"],
+      ro: ["Situat simultan în două regiuni geografice", "Lacul Manyas este o rezervație de păsări importantă", "Producător major de ulei de măsline și lactate", "Orașul antic Kyzikos se află în apropiere"],
+      en: ["Situated within two geographical regions", "Lake Manyas is a significant bird sanctuary", "A major producer of olive oil and dairy products", "The ancient city of Kyzikos is located nearby"],
+    },
   },
   {
     id: "trabzon-cities-v2",
     type: "city",
     parent: "TR-61",
     coords: [39.7167, 41.0000],
-    name: { de: "Trabzon", hu: "Trabzon", ro: "Trabzon", en: "Trabzon",
-image: "/poi-images/trabzon-cities-v2.webp"
-},
+    name: { de: "Trabzon", hu: "Trabzon", ro: "Trabzon", en: "Trabzon"},
+    image: "/poi-images/trabzon-cities-v2.webp",
     description: { de: "Trabzon ist eine historische Küstenstadt am Schwarzen Meer und war das Zentrum des Kaiserreichs Trapezunt.", hu: "Trabzon egy történelmi tengerparti város a Fekete-tenger mentén, amely egykor a Trapezunti Császárság központja volt.", ro: "Trabzon este un oraș de coastă istoric la Marea Neagră și a fost centrul Imperiului din Trebizonda.", en: "Trabzon is a historic coastal city on the Black Sea and was the center of the Empire of Trebizond." },
     facts: {
       de: ["Das Sumela-Kloster liegt südlich der Stadt in den Bergen", "Berühmt für die Produktion von Haselnüssen"],
       hu: ["A Sumela-kolostor a várostól délre, a hegyekben található", "Híres a mogyorótermesztésről"],
       ro: ["Mănăstirea Sumela se află la sud de oraș, în munți", "Faimos pentru producția de alune de pădure"],
       en: ["The Sumela Monastery is located south of the city in the mountains", "Famous for the production of hazelnuts"]
-    }, image: "/poi-images/trabzon-cities-v2.webp"},
+    }, image: "/poi-images/trabzon-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Trabzon ist das historische Juwel an der östlichen Schwarzmeerküste. Die Stadt war einst die Hauptstadt des Kaiserreichs Trapezunt und ist von grünen Bergen umgeben.",
+      hu: "Trabzon a keleti fekete-tengeri partvidék történelmi ékköve. Egykor a Trapezunti Császárság fővárosa volt, és lenyűgöző zöld hegyek veszik körül.",
+      ro: "Trabzon este bijuteria istorică a coastei de est a Marii Negre. Orașul a fost capitala Imperiului din Trapezunt și este înconjurat de munți verzi.",
+      en: "Trabzon is the historical gem of the eastern Black Sea coast. Once the capital of the Empire of Trebizond, it is framed by lush, green mountains.",
+    },
+    factsAdvanced: {
+      de: ["Das Sumela-Kloster klebt spektakulär an einer Felswand", "War ein wichtiger Endpunkt der Seidenstraße", "Die Hagia Sophia von Trabzon stammt aus dem 13. Jh.", "Größter Produzent von Haselnüssen in der Türkei"],
+      hu: ["A Sümela-kolostor látványosan tapad a sziklafalhoz", "A Selyemút egyik fontos végállomása volt", "A trabzoni Hagia Szophia a 13. században épült", "Törökország legnagyobb mogyorótermelő vidéke"],
+      ro: ["Mănăstirea Sumela este construită direct pe o stâncă", "A fost un punct terminal important al Drumului Mătăsii", "Hagia Sophia din Trabzon datează din secolul XIII", "Cel mai mare producător de alune de pădure din Turcia"],
+      en: ["Sumela Monastery is spectacularly built into a cliff face", "Served as a major terminal on the Silk Road", "Trabzon's Hagia Sophia was built in the 13th century", "The largest hazelnut-producing region in Turkey"],
+    },
+  },
   {
     id: "tekirdag-cities-v2",
     type: "city",
     parent: "TR-59",
     coords: [27.5167, 40.9833],
-    name: { de: "Tekirdağ", hu: "Tekirdağ", ro: "Tekirdağ", en: "Tekirdağ",
-image: "/poi-images/tekirdag-cities-v2.webp"
-},
+    name: { de: "Tekirdağ", hu: "Tekirdağ", ro: "Tekirdağ", en: "Tekirdağ"},
+    image: "/poi-images/tekirdag-cities-v2.webp",
     description: { de: "Tekirdağ ist eine schnell wachsende Hafenstadt in Ostthrakien an der Nordküste des Marmarameeres.", hu: "Tekirdağ egy gyorsan növekvő kikötőváros Kelet-Trákiában, a Márvány-tenger északi partján.", ro: "Tekirdağ este un oraș portuar cu creștere rapidă în Tracia de Est, pe coasta de nord a Mării Marmara.", en: "Tekirdağ is a rapidly growing port city in East Thrace on the northern coast of the Sea of Marmara." },
     facts: {
       de: ["Rákóczi Ferenc verbrachte hier seine letzten Jahre im Exil", "Bekannt für den lokalen Rakı, einen Anisschnaps"],
       hu: ["II. Rákóczi Ferenc itt töltötte száműzetésének utolsó éveit", "A helyi ánizsos párlatról, a rakıról ismert"],
       ro: ["Francisc Rákóczi al II-lea și-a petrecut ultimii ani de exil aici", "Cunoscut pentru rakı-ul local, o băutură cu aromă de anason"],
       en: ["Francis II Rákóczi spent his last years in exile here", "Known for the local rakı, an anise-flavored spirit"]
-    }, image: "/poi-images/tekirdag-cities-v2.webp"},
+    }, image: "/poi-images/tekirdag-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Tekirdağ liegt am Nordufer des Marmarameeres und ist bekannt für seinen Weinanbau und die Rakı-Produktion. Die Stadt ist ein beliebtes Ziel für Wochenendausflüge aus Istanbul.",
+      hu: "Tekirdağ a Márvány-tenger északi partján fekszik, híres borászatáról és rakı-gyártásáról. Kedvelt célpont az Isztambulból érkező hétvégi kirándulók körében.",
+      ro: "Tekirdağ se află pe coasta de nord a Marii Marmara, fiind renumit pentru podgoriile sale și producția de Rakı. Este o destinație populară lângă Istanbul.",
+      en: "Tekirdağ is located on the northern shore of the Sea of Marmara, famous for its vineyards and Rakı production. it is a popular getaway from nearby Istanbul.",
+    },
+    factsAdvanced: {
+      de: ["Berühmt für Tekirdağ Köftesi (Würzfleischbällchen)", "Wichtiges Zentrum für Sonnenblumen- und Weinanbau", "Das Namık-Kemal-Haus ist ein bedeutendes Museum", "Hatte in der byzantinischen Zeit den Namen Rodosto"],
+      hu: ["Híres a Tekirdağ Köftesi nevű fűszeres húsgombócról", "A napraforgó- és szőlőtermesztés fontos központja", "A Namık Kemal-ház jelentős kulturális múzeum", "A bizánci időkben Rodostó néven volt ismert"],
+      ro: ["Faimos pentru Tekirdağ Köftesi, chiftele picante", "Centru major pentru cultura florii-soarelui și viței-de-vie", "Casa Namık Kemal este un muzeu istoric important", "Cunoscut sub numele de Rodosto în perioada bizantină"],
+      en: ["Famous for its specialty dish, Tekirdağ Köftesi", "A major hub for sunflower and grape cultivation", "Namık Kemal House is a significant local museum", "Known as Rodosto during the Byzantine era"],
+    },
+  },
   {
     id: "osmaniye-cities-v2",
     type: "city",
     parent: "TR-80",
     coords: [36.2500, 37.0667],
-    name: { de: "Osmaniye", hu: "Osmaniye", ro: "Osmaniye", en: "Osmaniye",
-image: "/poi-images/osmaniye-cities-v2.webp"
-},
+    name: { de: "Osmaniye", hu: "Osmaniye", ro: "Osmaniye", en: "Osmaniye"},
+    image: "/poi-images/osmaniye-cities-v2.webp",
     description: { de: "Osmaniye ist eine relativ neue Provinzstadt im Übergang von der Çukurova-Ebene zum Amanos-Gebirge.", hu: "Osmaniye egy viszonylag új tartományi város a Çukurova-síkság és az Amanos-hegység találkozásánál.", ro: "Osmaniye este un oraș de provincie relativ nou la trecerea de la câmpia Çukurova la Munții Amanus.", en: "Osmaniye is a relatively new provincial city at the transition from the Çukurova plain to the Amanus Mountains." },
     facts: {
       de: ["Die Region produziert eine große Menge an Erdnüssen", "Das archäologische Freilichtmuseum Karatepe-Aslantaş liegt in der Nähe"],
       hu: ["A régió nagy mennyiségű földimogyorót termel", "A Karatepe-Aslantaş régészeti szabadtéri múzeum a közelben található"],
       ro: ["Regiunea produce o cantitate mare de arahide", "Muzeul arheologic în aer liber Karatepe-Aslantaş se află în apropiere"],
       en: ["The region produces a large amount of peanuts", "The Karatepe-Aslantaş archaeological open-air museum is nearby"]
-    }, image: "/poi-images/osmaniye-cities-v2.webp"},
+    }, image: "/poi-images/osmaniye-cities-v2.webp",
+    descriptionAdvanced: {
+      de: "Osmaniye liegt am östlichen Rand der fruchtbaren Çukurova-Ebene. Die Stadt ist ein wichtiger Verkehrsknotenpunkt und bekannt für ihre Landwirtschaft und antike Festungen.",
+      hu: "Osmaniye a termékeny Çukurova-alföld keleti szélén fekszik. Fontos közlekedési csomópont, amely mezőgazdaságáról és ősi erődítményeiről ismert.",
+      ro: "Osmaniye este situat la marginea estică a câmpiei fertile Çukurova. Orașul este un nod de transport și este cunoscut pentru cetățile sale antice.",
+      en: "Osmaniye is situated at the eastern edge of the fertile Çukurova plain. It is a key transportation node known for agriculture and ancient fortresses.",
+    },
+    factsAdvanced: {
+      de: ["Zentrum der türkischen Erdnussproduktion", "Die antike Stadt Kastabala liegt in der Provinz", "Die Burg Toprakkale stammt aus der abbasidischen Zeit", "Liegt am Fuße des Amanos-Gebirges"],
+      hu: ["A török földimogyoró-termelés központja", "Kastabala ókori városa a tartomány területén fekszik", "Toprakkale vára az abbászida korból származik", "Az Amanos-hegység lábánál helyezkedik el"],
+      ro: ["Centrul producției de arahide din Turcia", "Orașul antic Kastabala se află în această provincie", "Cetatea Toprakkale datează din perioada abasidă", "Situat la poalele Munților Amanos"],
+      en: ["The heart of peanut production in Turkey", "The ancient city of Kastabala is located in the province", "Toprakkale Castle dates back to the Abbasid era", "Nestled at the foothills of the Amanos Mountains"],
+    },
+  },
   {
     id: "kutahya-cities-v2",
     type: "city",
     parent: "TR-43",
     coords: [29.9833, 39.4167],
-    name: { de: "Kütahya", hu: "Kütahya", ro: "Kütahya", en: "Kütahya",
-image: "/poi-images/kutahya-cities-v2.webp"
-},
+    name: { de: "Kütahya", hu: "Kütahya", ro: "Kütahya", en: "Kütahya"},
+    image: "/poi-images/kutahya-cities-v2.webp",
     description: { de: "Kütahya ist eine westanatolische Stadt, die besonders für ihre farbenfrohe und kunstvolle Keramikproduktion berühmt ist.", hu: "Kütahya egy nyugat-anatóliai város, amely különösen a színes és díszes kerámiagyártásáról híres.", ro: "Kütahya este un oraș din vestul Anatoliei, faimos în special pentru producția de ceramică colorată și ornamentată.", en: "Kütahya is a western Anatolian city, especially famous for its colorful and ornate ceramics production." },
     facts: {
       de: ["Die osmanischen Fliesen stammen oft aus Werkstätten in Kütahya", "Der ungarische Freiheitskämpfer Lajos Kossuth lebte hier im Exil"],
       hu: ["Az oszmán csempék gyakran kütahyai műhelyekből származnak", "Kossuth Lajos magyar szabadságharcos itt élt száműzetésben"],
       ro: ["Plăcile otomane provin adesea din atelierele din Kütahya", "Luptătorul maghiar pentru libertate Lajos Kossuth a trăit aici în exil"],
       en: ["Ottoman tiles often originated from workshops in Kütahya", "Hungarian freedom fighter Lajos Kossuth lived here in exile"]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Kütahya ist weltberühmt für seine feine Keramik und Porzellanherstellung. Die Stadt liegt in Westanatolien und ist reich an phrygischen und osmanischen Kulturschätzen.",
+      hu: "Kütahya világhírű a finom kerámia- és porcelángyártásáról. Nyugat-Anatóliában fekszik, gazdag phrügiai és oszmán kulturális kincsekben.",
+      ro: "Kütahya este renumit mondial pentru porțelanul și ceramica sa fină. Orașul din vestul Anatoliei este bogat în vestigii frigiene și otomane.",
+      en: "Kütahya is world-renowned for its fine ceramics and porcelain production. Located in Western Anatolia, it is rich in Phrygian and Ottoman cultural heritage.",
+    },
+    factsAdvanced: {
+      de: ["Aizanoi beherbergt den besterhaltenen Zeustempel der Welt", "Zentrum der Keramikkunst seit dem 14. Jahrhundert", "Die Burg von Kütahya hat 72 Bastionen", "Berühmt für seine heilenden Thermalquellen"],
+      hu: ["Aizanoi-ban található a világ legjobb állapotú Zeusz-temploma", "A 14. század óta a kerámiaművészet központja", "A kütahyai várnak összesen 72 bástyája van", "Híres gyógyító hatású termálforrásairól"],
+      ro: ["Aizanoi deține cel mai bine conservat templu al lui Zeus", "Centru al artei ceramice încă din secolul al XIV-lea", "Cetatea din Kütahya are un număr de 72 de bastioane", "Renumit pentru izvoarele sale termale curative"],
+      en: ["Aizanoi hosts the world's best-preserved Temple of Zeus", "A center for ceramic art since the 14th century", "Kütahya Castle features a total of 72 bastions", "Famous for its therapeutic thermal hot springs"],
+    },
   }
 ];

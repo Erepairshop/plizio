@@ -5,9 +5,8 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     id: "bosniaherzegovina-zenica-steelworks-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Stahlwerk Zenica", hu: "Zenicai Acélmű", ro: "Combinatul Siderurgic Zenica", en: "Zenica Steelworks",
-image: "/poi-images/bosniaherzegovina-zenica-steelworks-economic-v2.webp"
-},
+    name: { de: "Stahlwerk Zenica", hu: "Zenicai Acélmű", ro: "Combinatul Siderurgic Zenica", en: "Zenica Steelworks"},
+    image: "/poi-images/bosniaherzegovina-zenica-steelworks-economic-v2.webp",
     coords: [17.9048, 44.2252],
     coordinates: { lat: 44.2252, lng: 17.9048 },
     description: {
@@ -40,9 +39,8 @@ image: "/poi-images/bosniaherzegovina-zenica-steelworks-economic-v2.webp"
     id: "bosniaherzegovina-tuzla-power-plant-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Kraftwerk Tuzla", hu: "Tuzlai Hőerőmű", ro: "Termocentrala Tuzla", en: "Tuzla Thermal Power Plant",
-image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Tuzla", hu: "Tuzlai Hőerőmű", ro: "Termocentrala Tuzla", en: "Tuzla Thermal Power Plant"},
+    image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp",
     coords: [18.6014, 44.5211],
     coordinates: { lat: 44.5211, lng: 18.6014 },
     description: {
@@ -76,9 +74,8 @@ image: "/poi-images/bosniaherzegovina-tuzla-power-plant-economic-v2.webp"
     id: "bosniaherzegovina-kakanj-coal-power-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Industriezentrum Kakanj", hu: "Kakanji Ipari Központ", ro: "Centrul Industrial Kakanj", en: "Kakanj Industrial Hub",
-image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp"
-},
+    name: { de: "Industriezentrum Kakanj", hu: "Kakanji Ipari Központ", ro: "Centrul Industrial Kakanj", en: "Kakanj Industrial Hub"},
+    image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp",
     coords: [18.1558, 44.1264],
     coordinates: { lat: 44.1264, lng: 18.1558 },
     description: {
@@ -112,9 +109,8 @@ image: "/poi-images/bosniaherzegovina-kakanj-coal-power-economic-v2.webp"
     id: "bosniaherzegovina-mostar-aluminium-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Aluminiumwerk Mostar", hu: "Mostari Alumíniumgyár", ro: "Combinatul de Aluminiu Mostar", en: "Aluminij Mostar",
-image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp"
-},
+    name: { de: "Aluminiumwerk Mostar", hu: "Mostari Alumíniumgyár", ro: "Combinatul de Aluminiu Mostar", en: "Aluminij Mostar"},
+    image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp",
     coords: [17.8225, 43.2847],
     coordinates: { lat: 43.2847, lng: 17.8225 },
     description: {
@@ -148,9 +144,8 @@ image: "/poi-images/bosniaherzegovina-mostar-aluminium-economic-v2.webp"
     id: "bosniaherzegovina-modrica-oil-refinery-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Ölraffinerie Modriča", hu: "Modričai Olajfinomító", ro: "Rafinăria de Petrol Modriča", en: "Modriča Oil Refinery",
-image: "/poi-images/bosniaherzegovina-modrica-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Ölraffinerie Modriča", hu: "Modričai Olajfinomító", ro: "Rafinăria de Petrol Modriča", en: "Modriča Oil Refinery"},
+    image: "/poi-images/bosniaherzegovina-modrica-oil-refinery-economic-v2.webp",
     coords: [18.2914, 44.9622],
     coordinates: { lat: 44.9622, lng: 18.2914 },
     description: {
@@ -183,9 +178,8 @@ image: "/poi-images/bosniaherzegovina-modrica-oil-refinery-economic-v2.webp"
     id: "bosniaherzegovina-brod-oil-refinery-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Raffinerie Brod", hu: "Brodi Olajfinomító", ro: "Rafinăria Brod", en: "Brod Oil Refinery",
-image: "/poi-images/bosniaherzegovina-brod-oil-refinery-economic-v2.webp"
-},
+    name: { de: "Raffinerie Brod", hu: "Brodi Olajfinomító", ro: "Rafinăria Brod", en: "Brod Oil Refinery"},
+    image: "/poi-images/bosniaherzegovina-brod-oil-refinery-economic-v2.webp",
     coords: [17.9942, 45.1436],
     coordinates: { lat: 45.1436, lng: 17.9942 },
     description: {
@@ -218,9 +212,8 @@ image: "/poi-images/bosniaherzegovina-brod-oil-refinery-economic-v2.webp"
     id: "bosniaherzegovina-zvornik-alumina-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Alumina Fabrik Zvornik", hu: "Zvorniki Timföldgyár", ro: "Fabrica de Alumină Zvornik", en: "Alumina Zvornik",
-image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp"
-},
+    name: { de: "Alumina Fabrik Zvornik", hu: "Zvorniki Timföldgyár", ro: "Fabrica de Alumină Zvornik", en: "Alumina Zvornik"},
+    image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp",
     coords: [19.1086, 44.4064],
     coordinates: { lat: 44.4064, lng: 19.1086 },
     description: {
@@ -254,9 +247,8 @@ image: "/poi-images/bosniaherzegovina-zvornik-alumina-economic-v2.webp"
     id: "bosniaherzegovina-jablanica-hydro-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Wasserkraftwerk Jablanica", hu: "Jablanicai Vízerőmű", ro: "Hidrocentrala Jablanica", en: "Jablanica Hydroelectric Power Plant",
-image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp"
-},
+    name: { de: "Wasserkraftwerk Jablanica", hu: "Jablanicai Vízerőmű", ro: "Hidrocentrala Jablanica", en: "Jablanica Hydroelectric Power Plant"},
+    image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp",
     coords: [17.7558, 43.6744],
     coordinates: { lat: 43.6744, lng: 17.7558 },
     description: {
@@ -290,9 +282,8 @@ image: "/poi-images/bosniaherzegovina-jablanica-hydro-economic-v2.webp"
     id: "bosniaherzegovina-lukavac-cement-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Zementwerk Lukavac", hu: "Lukavaci Cementgyár", ro: "Fabrica de Ciment Lukavac", en: "Lukavac Cement Factory",
-image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp"
-},
+    name: { de: "Zementwerk Lukavac", hu: "Lukavaci Cementgyár", ro: "Fabrica de Ciment Lukavac", en: "Lukavac Cement Factory"},
+    image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp",
     coords: [18.5258, 44.5364],
     coordinates: { lat: 44.5364, lng: 18.5258 },
     description: {
@@ -326,9 +317,8 @@ image: "/poi-images/bosniaherzegovina-lukavac-cement-economic-v2.webp"
     id: "bosniaherzegovina-gacko-power-plant-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Kraftwerk Gacko", hu: "Gackói Hőerőmű", ro: "Termocentrala Gacko", en: "Gacko Thermal Power Plant",
-image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Gacko", hu: "Gackói Hőerőmű", ro: "Termocentrala Gacko", en: "Gacko Thermal Power Plant"},
+    image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp",
     coords: [18.5144, 43.1672],
     coordinates: { lat: 43.1672, lng: 18.5144 },
     description: {
@@ -362,9 +352,8 @@ image: "/poi-images/bosniaherzegovina-gacko-power-plant-economic-v2.webp"
     id: "bosniaherzegovina-ugljevik-power-plant-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Kraftwerk Ugljevik", hu: "Ugljeviki Hőerőmű", ro: "Termocentrala Ugljevik", en: "Ugljevik Thermal Power Plant",
-image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp"
-},
+    name: { de: "Kraftwerk Ugljevik", hu: "Ugljeviki Hőerőmű", ro: "Termocentrala Ugljevik", en: "Ugljevik Thermal Power Plant"},
+    image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp",
     coords: [18.9664, 44.6861],
     coordinates: { lat: 44.6861, lng: 18.9664 },
     description: {
@@ -398,9 +387,8 @@ image: "/poi-images/bosniaherzegovina-ugljevik-power-plant-economic-v2.webp"
     id: "bosniaherzegovina-stanari-power-plant-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "EFT Kraftwerk Stanari", hu: "Stanari Hőerőmű", ro: "Termocentrala Stanari", en: "Stanari Thermal Power Plant",
-image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp"
-},
+    name: { de: "EFT Kraftwerk Stanari", hu: "Stanari Hőerőmű", ro: "Termocentrala Stanari", en: "Stanari Thermal Power Plant"},
+    image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp",
     coords: [17.8186, 44.7472],
     coordinates: { lat: 44.7472, lng: 17.8186 },
     description: {
@@ -434,9 +422,8 @@ image: "/poi-images/bosniaherzegovina-stanari-power-plant-economic-v2.webp"
     id: "bosniaherzegovina-vares-silver-mine-economic-v2",
     parent: "BA",
     type: "mine",
-    name: { de: "Silber- und Zinkmine Vareš", hu: "Vareši Ezüst- és Cinkbánya", ro: "Mina de Argint și Zinc Vareș", en: "Vareš Silver and Zinc Mine",
-image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp"
-},
+    name: { de: "Silber- und Zinkmine Vareš", hu: "Vareši Ezüst- és Cinkbánya", ro: "Mina de Argint și Zinc Vareș", en: "Vareš Silver and Zinc Mine"},
+    image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp",
     coords: [18.3364, 44.1752],
     coordinates: { lat: 44.1752, lng: 18.3364 },
     description: {
@@ -470,9 +457,8 @@ image: "/poi-images/bosniaherzegovina-vares-silver-mine-economic-v2.webp"
     id: "bosniaherzegovina-omarska-iron-mine-economic-v2",
     parent: "BA",
     type: "mine",
-    name: { de: "Eisenerzmine Omarska", hu: "Omarskai Vasércbánya", ro: "Mina de Fier Omarska", en: "Omarska Iron Ore Mine",
-image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp"
-},
+    name: { de: "Eisenerzmine Omarska", hu: "Omarskai Vasércbánya", ro: "Mina de Fier Omarska", en: "Omarska Iron Ore Mine"},
+    image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp",
     coords: [16.8942, 44.8864],
     coordinates: { lat: 44.8864, lng: 16.8942 },
     description: {
@@ -506,9 +492,8 @@ image: "/poi-images/bosniaherzegovina-omarska-iron-mine-economic-v2.webp"
     id: "bosniaherzegovina-konjic-igman-factory-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Munitionsfabrik Igman", hu: "Igman Muníciógyár", ro: "Fabrica de Muniție Igman", en: "Igman Konjic Factory",
-image: "/poi-images/bosniaherzegovina-konjic-igman-factory-economic-v2.webp"
-},
+    name: { de: "Munitionsfabrik Igman", hu: "Igman Muníciógyár", ro: "Fabrica de Muniție Igman", en: "Igman Konjic Factory"},
+    image: "/poi-images/bosniaherzegovina-konjic-igman-factory-economic-v2.webp",
     coords: [17.9644, 43.6622],
     coordinates: { lat: 43.6622, lng: 17.9644 },
     description: {
@@ -541,9 +526,8 @@ image: "/poi-images/bosniaherzegovina-konjic-igman-factory-economic-v2.webp"
     id: "bosniaherzegovina-brcko-bimal-factory-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Speiseölfabrik Bimal", hu: "Bimal Étovajgyár", ro: "Fabrica de Ulei Comestibil Bimal", en: "Bimal Brčko Factory",
-image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp"
-},
+    name: { de: "Speiseölfabrik Bimal", hu: "Bimal Étovajgyár", ro: "Fabrica de Ulei Comestibil Bimal", en: "Bimal Brčko Factory"},
+    image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp",
     coords: [18.8242, 44.8664],
     coordinates: { lat: 44.8664, lng: 18.8242 },
     description: {
@@ -577,9 +561,8 @@ image: "/poi-images/bosniaherzegovina-brcko-bimal-factory-economic-v2.webp"
     id: "bosniaherzegovina-visoko-prevent-factory-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Prevent Lederfabrik Visoko", hu: "Visokói Prevent Bőrgyár", ro: "Fabrica de Piele Prevent Visoko", en: "Prevent Visoko Factory",
-image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp"
-},
+    name: { de: "Prevent Lederfabrik Visoko", hu: "Visokói Prevent Bőrgyár", ro: "Fabrica de Piele Prevent Visoko", en: "Prevent Visoko Factory"},
+    image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp",
     coords: [18.1758, 44.0042],
     coordinates: { lat: 44.0042, lng: 18.1758 },
     description: {
@@ -613,9 +596,8 @@ image: "/poi-images/bosniaherzegovina-visoko-prevent-factory-economic-v2.webp"
     id: "bosniaherzegovina-gorazde-bekto-precisa-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Bekto Precisa Goražde", hu: "Bekto Precisa Goražde", ro: "Bekto Precisa Goražde", en: "Bekto Precisa Goražde",
-image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp"
-},
+    name: { de: "Bekto Precisa Goražde", hu: "Bekto Precisa Goražde", ro: "Bekto Precisa Goražde", en: "Bekto Precisa Goražde"},
+    image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp",
     coords: [18.9814, 43.6764],
     coordinates: { lat: 43.6764, lng: 18.9814 },
     description: {
@@ -649,9 +631,8 @@ image: "/poi-images/bosniaherzegovina-gorazde-bekto-precisa-economic-v2.webp"
     id: "bosniaherzegovina-hadzici-coca-cola-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Coca-Cola Abfüllanlage Hadžići", hu: "Hadžići Coca-Cola Palackozó", ro: "Unitatea de Îmbuteliere Coca-Cola Hadžići", en: "Coca-Cola HBC Hadžići",
-image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp"
-},
+    name: { de: "Coca-Cola Abfüllanlage Hadžići", hu: "Hadžići Coca-Cola Palackozó", ro: "Unitatea de Îmbuteliere Coca-Cola Hadžići", en: "Coca-Cola HBC Hadžići"},
+    image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp",
     coords: [18.2258, 43.8342],
     coordinates: { lat: 43.8342, lng: 18.2258 },
     description: {
@@ -685,9 +666,8 @@ image: "/poi-images/bosniaherzegovina-hadzici-coca-cola-economic-v2.webp"
     id: "bosniaherzegovina-grude-violeta-factory-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Violeta Fabrik Grude", hu: "Grudei Violeta Gyár", ro: "Fabrica Violeta Grude", en: "Violeta Grude Factory",
-image: "/poi-images/bosniaherzegovina-grude-violeta-factory-economic-v2.webp"
-},
+    name: { de: "Violeta Fabrik Grude", hu: "Grudei Violeta Gyár", ro: "Fabrica Violeta Grude", en: "Violeta Grude Factory"},
+    image: "/poi-images/bosniaherzegovina-grude-violeta-factory-economic-v2.webp",
     coords: [17.4144, 43.3661],
     coordinates: { lat: 43.3661, lng: 17.4144 },
     description: {
@@ -720,9 +700,8 @@ image: "/poi-images/bosniaherzegovina-grude-violeta-factory-economic-v2.webp"
     id: "bosniaherzegovina-siroki-brijeg-feal-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "FEAL Široki Brijeg", hu: "Široki Brijeg-i FEAL", ro: "FEAL Široki Brijeg", en: "FEAL Široki Brijeg",
-image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp"
-},
+    name: { de: "FEAL Široki Brijeg", hu: "Široki Brijeg-i FEAL", ro: "FEAL Široki Brijeg", en: "FEAL Široki Brijeg"},
+    image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp",
     coords: [17.5942, 43.3852],
     coordinates: { lat: 43.3852, lng: 17.5942 },
     description: {
@@ -756,9 +735,8 @@ image: "/poi-images/bosniaherzegovina-siroki-brijeg-feal-economic-v2.webp"
     id: "bosniaherzegovina-brcko-river-port-economic-v2",
     parent: "BA",
     type: "port",
-    name: { de: "Hafen Brčko", hu: "Brčkói Kikötő", ro: "Portul Brčko", en: "Port of Brčko",
-image: "/poi-images/bosniaherzegovina-brcko-river-port-economic-v2.webp"
-},
+    name: { de: "Hafen Brčko", hu: "Brčkói Kikötő", ro: "Portul Brčko", en: "Port of Brčko"},
+    image: "/poi-images/bosniaherzegovina-brcko-river-port-economic-v2.webp",
     coords: [18.8211, 44.8744],
     coordinates: { lat: 44.8744, lng: 18.8211 },
     description: {
@@ -791,9 +769,8 @@ image: "/poi-images/bosniaherzegovina-brcko-river-port-economic-v2.webp"
     id: "bosniaherzegovina-semberija-agriculture-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Agrarregion Semberija", hu: "Semberija Mezőgazdasági Régió", ro: "Regiunea Agricolă Semberija", en: "Semberija Agricultural Region",
-image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp"
-},
+    name: { de: "Agrarregion Semberija", hu: "Semberija Mezőgazdasági Régió", ro: "Regiunea Agricolă Semberija", en: "Semberija Agricultural Region"},
+    image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp",
     coords: [19.2158, 44.7542],
     coordinates: { lat: 44.7542, lng: 19.2158 },
     description: {
@@ -827,9 +804,8 @@ image: "/poi-images/bosniaherzegovina-semberija-agriculture-economic-v2.webp"
     id: "bosniaherzegovina-vitez-business-zone-economic-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Gewerbezone PC-96 Vitez", hu: "Vitezi PC-96 Üzleti Zóna", ro: "Zona de Afaceri PC-96 Vitez", en: "Vitez PC-96 Business Zone",
-image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp"
-},
+    name: { de: "Gewerbezone PC-96 Vitez", hu: "Vitezi PC-96 Üzleti Zóna", ro: "Zona de Afaceri PC-96 Vitez", en: "Vitez PC-96 Business Zone"},
+    image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp",
     coords: [17.7911, 44.1544],
     coordinates: { lat: 44.1544, lng: 17.7911 },
     description: {
@@ -863,9 +839,8 @@ image: "/poi-images/bosniaherzegovina-vitez-business-zone-economic-v2.webp"
     id: "bosniaherzegovina-visegrad-hydro-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Wasserkraftwerk Višegrad", hu: "Višegradi Vízerőmű", ro: "Hidrocentrala Višegrad", en: "Višegrad Hydroelectric Power Plant",
-image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp"
-},
+    name: { de: "Wasserkraftwerk Višegrad", hu: "Višegradi Vízerőmű", ro: "Hidrocentrala Višegrad", en: "Višegrad Hydroelectric Power Plant"},
+    image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp",
     coords: [19.2942, 43.7664],
     coordinates: { lat: 43.7664, lng: 19.2942 },
     description: {
@@ -899,9 +874,8 @@ image: "/poi-images/bosniaherzegovina-visegrad-hydro-economic-v2.webp"
     id: "bosniaherzegovina-rama-hydro-economic-v2",
     parent: "BA",
     type: "industry",
-    name: { de: "Wasserkraftwerk Rama", hu: "Ramai Vízerőmű", ro: "Hidrocentrala Rama", en: "Rama Hydroelectric Power Plant",
-image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp"
-},
+    name: { de: "Wasserkraftwerk Rama", hu: "Ramai Vízerőmű", ro: "Hidrocentrala Rama", en: "Rama Hydroelectric Power Plant"},
+    image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp",
     coords: [17.5311, 43.7464],
     coordinates: { lat: 43.7464, lng: 17.5311 },
     description: {
@@ -935,9 +909,8 @@ image: "/poi-images/bosniaherzegovina-rama-hydro-economic-v2.webp"
     id: "bosniaherzegovina-maglaj-natron-hayat-economic-v2",
     parent: "BA",
     type: "factory",
-    name: { de: "Natron-Hayat Maglaj", hu: "Natron-Hayat Maglaj", ro: "Natron-Hayat Maglaj", en: "Natron-Hayat Maglaj",
-image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp"
-},
+    name: { de: "Natron-Hayat Maglaj", hu: "Natron-Hayat Maglaj", ro: "Natron-Hayat Maglaj", en: "Natron-Hayat Maglaj"},
+    image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp",
     coords: [18.1064, 44.5552],
     coordinates: { lat: 44.5552, lng: 18.1064 },
     description: {
@@ -971,9 +944,8 @@ image: "/poi-images/bosniaherzegovina-maglaj-natron-hayat-economic-v2.webp"
     id: "bosniaherzegovina-tuzla-salt-works-economic-v2",
     parent: "BA",
     type: "mine",
-    name: { de: "Salzwerk Tuzla", hu: "Tuzlai Sóbánya és Lepárló", ro: "Salina și Fabrica de Sare Tuzla", en: "Tuzla Salt Works",
-image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp"
-},
+    name: { de: "Salzwerk Tuzla", hu: "Tuzlai Sóbánya és Lepárló", ro: "Salina și Fabrica de Sare Tuzla", en: "Tuzla Salt Works"},
+    image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp",
     coords: [18.6811, 44.5452],
     coordinates: { lat: 44.5452, lng: 18.6811 },
     description: {
@@ -1007,9 +979,8 @@ image: "/poi-images/bosniaherzegovina-tuzla-salt-works-economic-v2.webp"
     id: "bosniaherzegovina-banja-luka-business-district-economic-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Geschäftsviertel Banja Luka", hu: "Banja Luka-i Üzleti Negyed", ro: "Districtul de Afaceri Banja Luka", en: "Banja Luka Business District",
-image: "/poi-images/bosniaherzegovina-banja-luka-business-district-economic-v2.webp"
-},
+    name: { de: "Geschäftsviertel Banja Luka", hu: "Banja Luka-i Üzleti Negyed", ro: "Districtul de Afaceri Banja Luka", en: "Banja Luka Business District"},
+    image: "/poi-images/bosniaherzegovina-banja-luka-business-district-economic-v2.webp",
     coords: [17.1942, 44.7764],
     coordinates: { lat: 44.7764, lng: 17.1942 },
     description: {
@@ -1042,9 +1013,8 @@ image: "/poi-images/bosniaherzegovina-banja-luka-business-district-economic-v2.w
     id: "bosniaherzegovina-sarajevo-stock-exchange-economic-v2",
     parent: "BA",
     type: "city",
-    name: { de: "Börse Sarajevo (SASE)", hu: "Szarajevói Tőzsde (SASE)", ro: "Bursa de Valori Sarajevo (SASE)", en: "Sarajevo Stock Exchange (SASE)",
-image: "/poi-images/bosniaherzegovina-sarajevo-stock-exchange-economic-v2.webp"
-},
+    name: { de: "Börse Sarajevo (SASE)", hu: "Szarajevói Tőzsde (SASE)", ro: "Bursa de Valori Sarajevo (SASE)", en: "Sarajevo Stock Exchange (SASE)"},
+    image: "/poi-images/bosniaherzegovina-sarajevo-stock-exchange-economic-v2.webp",
     coords: [18.4111, 43.8564],
     coordinates: { lat: 43.8564, lng: 18.4111 },
     description: {
@@ -1072,5 +1042,102 @@ image: "/poi-images/bosniaherzegovina-sarajevo-stock-exchange-economic-v2.webp"
       ro: [],
       en: []
     }
+  }
+,
+  {
+    id: "bosniaherzegovina-gracanica-industrial-park-economic-v2",
+    type: "industry",
+    parent: "BA",
+    name: { de: "Industriezone Gračanica", hu: "Gračanica Ipari Övezet", ro: "Zona Industrială Gračanica", en: "Gračanica Industrial Zone" },
+    coordinates: { lat: 44.7176, lng: 18.3075 },
+    description: {
+      de: "Die Industriezone in Gračanica ist ein Zentrum für metallverarbeitende Betriebe und Kunststoffproduktion. Sie trägt signifikant zur lokalen Beschäftigung und regionalen Exportleistung bei.",
+      hu: "A gračanicai ipari övezet fémfeldolgozó és műanyagipari vállalkozások központja. Jelentősen hozzájárul a helyi foglalkoztatottsághoz és a regionális exportteljesítményhez.",
+      ro: "Zona industrială din Gračanica este un centru pentru întreprinderile de prelucrare a metalelor și producția de mase plastice. Aceasta contribuie semnificativ la ocuparea forței de muncă locale și la performanța exportului regional.",
+      en: "The industrial zone in Gračanica is a hub for metal processing and plastic production companies. It contributes significantly to local employment and regional export performance.",
+    },
+    facts: {
+      de: ["Schwerpunkt Metallverarbeitung", "Wichtiger Exportstandort", "Starke mittelständische Präsenz", "Lokaler Wirtschaftsfaktor"],
+      hu: ["Fémfeldolgozási központ", "Fontos exporthelyszín", "Erős KKV jelenlét", "Helyi gazdasági tényező"],
+      ro: ["Centru de prelucrare a metalelor", "Locație importantă de export", "Prezență puternică a IMM-urilor", "Factor economic local"],
+      en: ["Metal processing focus", "Important export location", "Strong SME presence", "Local economic factor"],
+    },
+    imageHint: "industrial warehouses and factory buildings in Bosnia",
+    descriptionAdvanced: {
+      de: "Die Industriezone Gračanica ist einer der dynamischsten Wirtschaftsmotoren in Nordbosnien. Mit Fokus auf Metallverarbeitung und Kunststofftechnik beherbergt das Areal zahlreiche kleine und mittelständische Unternehmen, die maßgeblich zur lokalen Exportleistung beitragen.",
+      hu: "Gračanica ipari övezete Észak-Bosznia egyik meghatározó gazdasági központja. A fémfeldolgozásra és műanyagiparra szakosodott területen számos kis- és középvállalkozás működik, amelyek jelentős szerepet játszanak a régió növekvő exportkapacitásában.",
+      ro: "Zona industrială Gračanica reprezintă un hub economic vital în nordul Bosniei. Specializată în prelucrarea metalelor și industria maselor plastice, zona găzduiește numeroase întreprinderi ce susțin creșterea capacității de export a regiunii.",
+      en: "Gračanica Industrial Zone is a primary economic engine in northern Bosnia. Focused on metal processing and plastics engineering, the area houses numerous SMEs that contribute significantly to the local economy and regional export performance.",
+    },
+    factsAdvanced: {
+      de: ["Kernfokus: Metallverarbeitung", "Wichtiger Standort für KMU", "Exportorientiertes Wirtschaftszentrum", "Starke regionale Anbindung"],
+      hu: ["Fő iparág: fémfeldolgozás", "Kkv-központú gazdaság", "Exportvezérelt működés", "Regionális gazdasági motor"],
+      ro: ["Sector principal: prelucrarea metalelor", "Concentrare de IMM-uri", "Hub orientat către export", "Motor economic regional"],
+      en: ["Core sector: metal processing", "SME-focused infrastructure", "Export-driven operations", "Regional economic pillar"],
+    },
+  },
+  {
+    id: "bosniaherzegovina-sokolac-timber-industry-economic-v2",
+    type: "industry",
+    parent: "BA",
+    name: { de: "Holzindustrie Sokolac", hu: "Sokolac Faipar", ro: "Industria Lemnului Sokolac", en: "Sokolac Timber Industry" },
+    coordinates: { lat: 43.9472, lng: 18.8044 },
+    description: {
+      de: "Die Holzindustrie rund um Sokolac nutzt die umliegenden Waldressourcen zur Produktion von Schnittholz und Möbelkomponenten. Sie bildet das Rückgrat der lokalen Wirtschaft in dieser Region.",
+      hu: "A sokolaci faipar a környező erdőgazdálkodási forrásokat használja fűrészáru és bútoralkatrészek gyártására. Ez képezi a régió helyi gazdaságának gerincét.",
+      ro: "Industria lemnului din jurul orașului Sokolac utilizează resursele forestiere din împrejurimi pentru producția de cherestea și componente de mobilier. Aceasta constituie coloana vertebrală a economiei locale în această regiune.",
+      en: "The timber industry around Sokolac utilizes surrounding forest resources for the production of sawn wood and furniture components. It forms the backbone of the local economy in this region.",
+    },
+    facts: {
+      de: ["Verarbeitung lokaler Nadelhölzer", "Traditionelle Holzproduktion", "Exportorientierte Möbelzulieferung", "Wichtiger Arbeitgeber"],
+      hu: ["Helyi tűlevelűek feldolgozása", "Hagyományos fatermelés", "Exportorientált bútoralkatrész-ellátás", "Fontos munkaadó"],
+      ro: ["Procesarea coniferelor locale", "Producție tradițională de lemn", "Furnizare de mobilier orientată spre export", "Angajator important"],
+      en: ["Processing local conifers", "Traditional timber production", "Export-oriented furniture supply", "Important employer"],
+    },
+    imageHint: "lumber mill and forestry equipment in Bosnia",
+    descriptionAdvanced: {
+      de: "Die Holzindustrie in Sokolac ist ein zentraler Wirtschaftszweig, der auf den dichten Wäldern der Romanija-Region basiert und primäre Verarbeitung sowie Möbelproduktion umfasst.",
+      hu: "Sokolac faipara a Glasinac-fennsík és a Romanija-hegység erdőségeire épül, amely történelmileg a régió legfőbb gazdasági motorja és a helyi lakosság jelentős foglalkoztatója.",
+      ro: "Industria lemnului din Sokolac exploatează resursele masive ale munților Romanija, fiind pilonul economiei locale ce furnizează materiale de construcții și mobilier.",
+      en: "Sokolac's timber sector serves as the cornerstone of the local economy, relying on the abundant conifer and deciduous forests covering the expansive Romanija mountain region.",
+    },
+    factsAdvanced: {
+      de: ["Sokolac liegt auf über 870 Metern Höhe, umgeben von Nadel- und Laubwäldern.", "Die Region Romanija ist bekannt für ihre dichten Kiefern- und Fichtenbestände.", "Die Holzverarbeitung stellt eine der wichtigsten Exportbranchen der Gemeinde dar.", "Sägewerke in der Region produzieren jährlich tausende Kubikmeter Schnittholz.", "Nach dem Krieg wurde die Holzindustrie stark privatisiert und modernisiert.", "Ein Großteil der Waldflächen wird vom staatlichen Forstbetrieb Srpske šume verwaltet."],
+      hu: ["A település a 870 méter magasan fekvő Glasinac-fennsíkon terül el, sűrű erdőkkel övezve.", "A fakitermelés a helyi GDP jelentős részét adja az elmúlt évtizedekben.", "Főként fenyő, lucfenyő és bükk feldolgozása zajlik a helyi fűrészüzemekben.", "A nyersanyag és félkész termékek jelentős részét Szerbiába és az EU-ba exportálják.", "A Romanija-hegység nagy kiterjedésű erdőborítást biztosít a fakitermelés számára.", "A fafeldolgozó szektor több száz helyi család számára biztosít közvetlen megélhetést."],
+      ro: ["Pădurile ocupă peste 60% din suprafața totală a municipalității Sokolac.", "Sectorul forestier este administrat parțial de compania de stat Srpske šume.", "Exploatarea se concentrează pe molid, brad și fag din regiunea montană Romanija.", "Exporturile de produse din lemn procesat sunt direcționate majoritar către Uniunea Europeană.", "Zeci de fabrici de cherestea și unități de procesare a lemnului funcționează în zonă.", "Altitudinea de peste 800 de metri favorizează creșterea coniferelor de înaltă calitate."],
+      en: ["The municipality spans 693 square kilometers, with forests covering the majority of the terrain.", "State-owned enterprise Srpske šume manages the vast forestry resources of the Romanija plateau.", "Timber extraction focuses predominantly on high-altitude spruce, fir, and beech trees.", "The local industry is transitioning from raw timber export to finished furniture manufacturing.", "Forestry and related processing industries employ a significant percentage of the local workforce.", "Historical infrastructure development in Sokolac centered largely around timber transport routes."],
+    },
+  },
+  {
+    id: "bosniaherzegovina-sarajevo-logistic-center-economic-v2",
+    type: "port",
+    parent: "BA",
+    name: { de: "Logistikzentrum Rajlovac", hu: "Rajlovac Logisztikai Központ", ro: "Centrul Logistic Rajlovac", en: "Rajlovac Logistics Center" },
+    coordinates: { lat: 43.8767, lng: 18.3308 },
+    description: {
+      de: "Das Logistikzentrum in Rajlovac bei Sarajevo dient als zentraler Umschlagplatz für den Warenverkehr zwischen Zentraleuropa und dem Balkan. Es ist verkehrstechnisch optimal an das Schienen- und Straßennetz angebunden.",
+      hu: "A szarajevói Rajlovac logisztikai központja központi átrakodóhelyként szolgál a Közép-Európa és a Balkán közötti áruforgalom számára. Közlekedésileg optimálisan kapcsolódik a vasúti és közúti hálózathoz.",
+      ro: "Centrul logistic din Rajlovac, lângă Sarajevo, servește drept punct central de transbordare pentru traficul de mărfuri între Europa Centrală și Balcani. Este conectat optim din punct de vedere logistic la rețeaua feroviară și rutieră.",
+      en: "The logistics center in Rajlovac near Sarajevo serves as a central transshipment point for goods traffic between Central Europe and the Balkans. It is optimally connected to the rail and road network.",
+    },
+    facts: {
+      de: ["Zentraler Frachtknotenpunkt", "Multimodale Anbindung", "Direkter Eisenbahnanschluss", "Großlagerkapazitäten"],
+      hu: ["Központi árufuvarozási csomópont", "Multimodális összeköttetés", "Közvetlen vasúti csatlakozás", "Nagy raktárkapacitás"],
+      ro: ["Nod central de transport", "Conexiune multimodală", "Acces feroviar direct", "Capacități mari de depozitare"],
+      en: ["Central freight hub", "Multimodal connection", "Direct rail access", "Large warehouse capacities"],
+    },
+    imageHint: "logistics warehouse and distribution center in Sarajevo",
+    descriptionAdvanced: {
+      de: "Das Rajlovac Logistikzentrum bei Sarajevo dient als zentraler Knotenpunkt für den Güterverkehr im Raum Sarajevo. Die strategische Lage an wichtigen Transportwegen begünstigt die Umschlagkapazitäten für nationale und internationale Handelsrouten.",
+      hu: "A szarajevói Rajlovac logisztikai központ a főváros térségének legfontosabb teherforgalmi csomópontja. A stratégiai elhelyezkedés a közlekedési útvonalak metszéspontjában lehetővé teszi a hatékony áruforgalmat a hazai és nemzetközi kereskedelem számára.",
+      ro: "Centrul logistic Rajlovac de lângă Sarajevo funcționează ca un nod central de transport pentru capitala Bosniei. Poziționarea strategică pe arterele principale facilitează gestionarea fluxurilor de mărfuri pentru rutele comerciale regionale.",
+      en: "The Rajlovac logistics center near Sarajevo serves as a major freight hub for the Sarajevo region. Its strategic location on critical transport arteries optimizes cargo handling capacity for both domestic and international trade routes.",
+    },
+    factsAdvanced: {
+      de: ["Strategische Verkehrsanbindung", "Zentraler Güterumschlagplatz", "Multimodale Transportkapazitäten", "Wichtiger Knotenpunkt der Region"],
+      hu: ["Stratégiai közlekedési kapcsolat", "Központi áruforgalmi központ", "Multimodális kapacitások", "Régiós logisztikai csomópont"],
+      ro: ["Conectivitate strategică", "Hub central de mărfuri", "Capacități multimodale", "Nod logistic regional"],
+      en: ["Strategic transport connectivity", "Centralized freight hub", "Multimodal handling capacity", "Regional logistics node"],
+    },
   }
 ];

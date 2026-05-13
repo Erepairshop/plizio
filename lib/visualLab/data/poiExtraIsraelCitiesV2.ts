@@ -6,9 +6,8 @@ export const poiExtraIsraelCitiesV2: POI[] = [
     type: "state-capital",
     parent: "IL-JM",
     coords: [35.2137, 31.7683],
-    name: { de: "Jerusalem", hu: "Jeruzsálem", ro: "Ierusalim", en: "Jerusalem",
-image: "/poi-images/jerusalem-cities-v2.webp"
-},
+    name: { de: "Jerusalem", hu: "Jeruzsálem", ro: "Ierusalim", en: "Jerusalem"},
+    image: "/poi-images/jerusalem-cities-v2.webp",
     description: {
       de: "Jerusalem ist die Hauptstadt von Israel und eine der ältesten Städte der Welt, heilig für drei Weltreligionen.",
       hu: "Jeruzsálem Izrael fővárosa és a világ egyik legrégebbi városa, amely három világvallás számára is szent hely.",
@@ -32,9 +31,8 @@ image: "/poi-images/jerusalem-cities-v2.webp"
     type: "city",
     parent: "IL-TA",
     coords: [34.7818, 32.0853],
-    name: { de: "Tel Aviv-Jaffa", hu: "Tel-Aviv", ro: "Tel Aviv", en: "Tel Aviv",
-image: "/poi-images/tel-aviv-cities-v2.webp"
-},
+    name: { de: "Tel Aviv-Jaffa", hu: "Tel-Aviv", ro: "Tel Aviv", en: "Tel Aviv"},
+    image: "/poi-images/tel-aviv-cities-v2.webp",
     description: {
       de: "Tel Aviv ist das wirtschaftliche und technologische Zentrum Israels, bekannt für sein pulsierendes Nachtleben.",
       hu: "Tel-Aviv Izrael gazdasági és technológiai központja, amely pezsgő éjszakai életéről és tengerpartjairól híres.",
@@ -58,9 +56,8 @@ image: "/poi-images/tel-aviv-cities-v2.webp"
     type: "city",
     parent: "IL-HA",
     coords: [34.9892, 32.7940],
-    name: { de: "Haifa", hu: "Haifa", ro: "Haifa", en: "Haifa",
-image: "/poi-images/haifa-cities-v2.webp"
-},
+    name: { de: "Haifa", hu: "Haifa", ro: "Haifa", en: "Haifa"},
+    image: "/poi-images/haifa-cities-v2.webp",
     description: {
       de: "Haifa ist die drittgrößte Stadt Israels und liegt wunderschön an den Hängen des Berges Karmel am Mittelmeer.",
       hu: "Haifa Izrael harmadik legnagyobb városa, amely gyönyörűen fekszik a Kármel-hegy lejtőin, a Földközi-tenger partján.",
@@ -84,9 +81,8 @@ image: "/poi-images/haifa-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8019, 31.9730],
-    name: { de: "Rischon LeZion", hu: "Risón Lecijón", ro: "Rishon LeZion", en: "Rishon LeZion",
-image: "/poi-images/rishon-lezion-cities-v2.webp"
-},
+    name: { de: "Rischon LeZion", hu: "Risón Lecijón", ro: "Rishon LeZion", en: "Rishon LeZion"},
+    image: "/poi-images/rishon-lezion-cities-v2.webp",
     description: {
       de: "Rischon LeZion ist die viertgrößte Stadt Israels und liegt in der zentralen Küstenebene südlich von Tel Aviv.",
       hu: "Risón Lecijón Izrael negyedik legnagyobb városa, amely a központi tengerparti síkságon, Tel-Avivtól délre található.",
@@ -110,9 +106,8 @@ image: "/poi-images/rishon-lezion-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8878, 32.0840],
-    name: { de: "Petach Tikwa", hu: "Petah Tikva", ro: "Petah Tikva", en: "Petah Tikva",
-image: "/poi-images/petah-tikva-cities-v2.webp"
-},
+    name: { de: "Petach Tikwa", hu: "Petah Tikva", ro: "Petah Tikva", en: "Petah Tikva"},
+    image: "/poi-images/petah-tikva-cities-v2.webp",
     description: {
       de: "Petach Tikwa, bekannt als die Mutter der Moschawot, ist eine wichtige Industriestadt östlich von Tel Aviv.",
       hu: "Petah Tikva, a Mosávok Anyjaként ismert nagyváros, jelentős ipari központ Tel-Avivtól keletre.",
@@ -136,9 +131,8 @@ image: "/poi-images/petah-tikva-cities-v2.webp"
     type: "city",
     parent: "IL-D",
     coords: [34.6553, 31.7915],
-    name: { de: "Aschdod", hu: "Asdod", ro: "Așdod", en: "Ashdod",
-image: "/poi-images/ashdod-cities-v2.webp"
-},
+    name: { de: "Aschdod", hu: "Asdod", ro: "Așdod", en: "Ashdod"},
+    image: "/poi-images/ashdod-cities-v2.webp",
     description: {
       de: "Aschdod ist eine bedeutende Küstenstadt und beherbergt den größten Hafen Israels, der den Großteil der Fracht abwickelt.",
       hu: "Asdod jelentős tengerparti város, amely Izrael legnagyobb kikötőjének ad otthont, és a teherforgalom nagy részét bonyolítja.",
@@ -162,9 +156,8 @@ image: "/poi-images/ashdod-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8516, 32.3215],
-    name: { de: "Netanja", hu: "Netánja", ro: "Netanya", en: "Netanya",
-image: "/poi-images/netanya-cities-v2.webp"
-},
+    name: { de: "Netanja", hu: "Netánja", ro: "Netanya", en: "Netanya"},
+    image: "/poi-images/netanya-cities-v2.webp",
     description: {
       de: "Netanja ist ein beliebter Ferienort an der Mittelmeerküste, der für seine langen, schönen Sandstrände bekannt ist.",
       hu: "Netánja egy népszerű üdülőváros a Földközi-tenger partján, amely hosszú, gyönyörű homokos strandjairól ismert.",
@@ -188,9 +181,8 @@ image: "/poi-images/netanya-cities-v2.webp"
     type: "city",
     parent: "IL-D",
     coords: [34.7915, 31.2518],
-    name: { de: "Be'er Scheva", hu: "Beér-Seva", ro: "Beer Șeva", en: "Beersheba",
-image: "/poi-images/beersheba-cities-v2.webp"
-},
+    name: { de: "Be'er Scheva", hu: "Beér-Seva", ro: "Beer Șeva", en: "Beersheba"},
+    image: "/poi-images/beersheba-cities-v2.webp",
     description: {
       de: "Be'er Scheva ist die größte Stadt in der Wüste Negev und wird oft als die Hauptstadt des Südens bezeichnet.",
       hu: "Beér-Seva a Negev-sivatag legnagyobb városa, amelyet gyakran a déli régió fővárosának is neveznek.",
@@ -214,9 +206,8 @@ image: "/poi-images/beersheba-cities-v2.webp"
     type: "city",
     parent: "IL-TA",
     coords: [34.8327, 32.0849],
-    name: { de: "Bnei Brak", hu: "Bnei Brak", ro: "Bnei Brak", en: "Bnei Brak",
-image: "/poi-images/bnei-brak-cities-v2.webp"
-},
+    name: { de: "Bnei Brak", hu: "Bnei Brak", ro: "Bnei Brak", en: "Bnei Brak"},
+    image: "/poi-images/bnei-brak-cities-v2.webp",
     description: {
       de: "Bnei Brak ist eine dicht besiedelte Stadt östlich von Tel Aviv, die als wichtiges Zentrum des ultraorthodoxen Judentums gilt.",
       hu: "Bnei Brak egy sűrűn lakott város Tel-Avivtól keletre, amely az ultraortodox zsidóság egyik legfontosabb központja.",
@@ -240,9 +231,8 @@ image: "/poi-images/bnei-brak-cities-v2.webp"
     type: "city",
     parent: "IL-TA",
     coords: [34.7712, 32.0158],
-    name: { de: "Cholon", hu: "Holon", ro: "Holon", en: "Holon",
-image: "/poi-images/holon-cities-v2.webp"
-},
+    name: { de: "Cholon", hu: "Holon", ro: "Holon", en: "Holon"},
+    image: "/poi-images/holon-cities-v2.webp",
     description: {
       de: "Cholon ist eine Stadt am zentralen Küstenstreifen, die für ihren starken Fokus auf Museen und Familienaktivitäten bekannt ist.",
       hu: "Holon a központi tengerparti sávban fekvő város, amely a múzeumokra és a családi tevékenységekre helyezett hangsúlyról ismert.",
@@ -266,9 +256,8 @@ image: "/poi-images/holon-cities-v2.webp"
     type: "city",
     parent: "IL-TA",
     coords: [34.8106, 32.0823],
-    name: { de: "Ramat Gan", hu: "Ramat Gan", ro: "Ramat Gan", en: "Ramat Gan",
-image: "/poi-images/ramat-gan-cities-v2.webp"
-},
+    name: { de: "Ramat Gan", hu: "Ramat Gan", ro: "Ramat Gan", en: "Ramat Gan"},
+    image: "/poi-images/ramat-gan-cities-v2.webp",
     description: {
       de: "Ramat Gan ist eine Nachbarstadt von Tel Aviv, in der sich die israelische Diamantenbörse und hohe Wolkenkratzer befinden.",
       hu: "Ramat Gan egy Tel-Avivval határos város, ahol az izraeli gyémánttőzsde és számos magas felhőkarcoló található.",
@@ -292,9 +281,8 @@ image: "/poi-images/ramat-gan-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8113, 31.8928],
-    name: { de: "Rechovot", hu: "Rehovot", ro: "Rehovot", en: "Rehovot",
-image: "/poi-images/rehovot-cities-v2.webp"
-},
+    name: { de: "Rechovot", hu: "Rehovot", ro: "Rehovot", en: "Rehovot"},
+    image: "/poi-images/rehovot-cities-v2.webp",
     description: {
       de: "Rechovot ist ein wichtiges Wissenschafts- und Technologiezentrum im Zentralbezirk, das für seine akademischen Institutionen bekannt ist.",
       hu: "Rehovot egy fontos tudományos és technológiai központ a Központi körzetben, amely akadémiai intézményeiről híres.",
@@ -318,9 +306,8 @@ image: "/poi-images/rehovot-cities-v2.webp"
     type: "city",
     parent: "IL-D",
     coords: [34.5715, 31.6693],
-    name: { de: "Aschkelon", hu: "Askelón", ro: "Așkelon", en: "Ashkelon",
-image: "/poi-images/ashkelon-cities-v2.webp"
-},
+    name: { de: "Aschkelon", hu: "Askelón", ro: "Așkelon", en: "Ashkelon"},
+    image: "/poi-images/ashkelon-cities-v2.webp",
     description: {
       de: "Aschkelon ist eine Küstenstadt im Südbezirk, die sich durch eine reiche, jahrtausendealte Geschichte auszeichnet.",
       hu: "Askelón egy déli tengerparti város, amely évezredekre visszanyúló, gazdag történelemmel büszkélkedhet.",
@@ -344,9 +331,8 @@ image: "/poi-images/ashkelon-cities-v2.webp"
     type: "city",
     parent: "IL-TA",
     coords: [34.7425, 32.0281],
-    name: { de: "Bat Jam", hu: "Bat Yam", ro: "Bat Yam", en: "Bat Yam",
-image: "/poi-images/bat-yam-cities-v2.webp"
-},
+    name: { de: "Bat Jam", hu: "Bat Yam", ro: "Bat Yam", en: "Bat Yam"},
+    image: "/poi-images/bat-yam-cities-v2.webp",
     description: {
       de: "Bat Jam ist eine Stadt direkt am Mittelmeer, die unmittelbar südlich von Tel Aviv liegt und für ihre Strandpromenade bekannt ist.",
       hu: "Bat Yam a Földközi-tenger partján, közvetlenül Tel-Avivtól délre fekvő város, amely tengerparti sétányáról híres.",
@@ -370,9 +356,8 @@ image: "/poi-images/bat-yam-cities-v2.webp"
     type: "city",
     parent: "IL-JM",
     coords: [34.9888, 31.7470],
-    name: { de: "Bet Schemesch", hu: "Bét-Semes", ro: "Beit Șemeș", en: "Beit Shemesh",
-image: "/poi-images/beit-shemesh-cities-v2.webp"
-},
+    name: { de: "Bet Schemesch", hu: "Bét-Semes", ro: "Beit Șemeș", en: "Beit Shemesh"},
+    image: "/poi-images/beit-shemesh-cities-v2.webp",
     description: {
       de: "Bet Schemesch ist eine schnell wachsende Stadt westlich von Jerusalem, gelegen im historischen Elah-Tal.",
       hu: "Bét-Semes egy gyorsan terjeszkedő város Jeruzsálemtől nyugatra, a történelmi Elah-völgyben.",
@@ -396,9 +381,8 @@ image: "/poi-images/beit-shemesh-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.9070, 32.1713],
-    name: { de: "Kfar Saba", hu: "Kfar Szaba", ro: "Kfar Saba", en: "Kfar Saba",
-image: "/poi-images/kfar-saba-cities-v2.webp"
-},
+    name: { de: "Kfar Saba", hu: "Kfar Szaba", ro: "Kfar Saba", en: "Kfar Saba"},
+    image: "/poi-images/kfar-saba-cities-v2.webp",
     description: {
       de: "Kfar Saba ist eine lebendige Stadt in der Scharon-Ebene, die für ihre hohe Lebensqualität und Grünflächen bekannt ist.",
       hu: "Kfar Szaba egy nyüzsgő város a Saron-síkságon, amely magas életminőségéről és zöldterületeiről ismert.",
@@ -422,9 +406,8 @@ image: "/poi-images/kfar-saba-cities-v2.webp"
     type: "city",
     parent: "IL-TA",
     coords: [34.8415, 32.1624],
-    name: { de: "Herzlia", hu: "Herzlija", ro: "Herzliya", en: "Herzliya",
-image: "/poi-images/herzliya-cities-v2.webp"
-},
+    name: { de: "Herzlia", hu: "Herzlija", ro: "Herzliya", en: "Herzliya"},
+    image: "/poi-images/herzliya-cities-v2.webp",
     description: {
       de: "Herzlia ist eine wohlhabende Stadt an der Zentralküste, berühmt für ihren Jachthafen und den florierenden High-Tech-Sektor.",
       hu: "Herzlija egy jómódú város a központi partvidéken, amely jachtkikötőjéről és virágzó csúcstechnológiai szektoráról híres.",
@@ -448,9 +431,8 @@ image: "/poi-images/herzliya-cities-v2.webp"
     type: "city",
     parent: "IL-HA",
     coords: [34.9197, 32.4340],
-    name: { de: "Chadera", hu: "Hadera", ro: "Hadera", en: "Hadera",
-image: "/poi-images/hadera-cities-v2.webp"
-},
+    name: { de: "Chadera", hu: "Hadera", ro: "Hadera", en: "Hadera"},
+    image: "/poi-images/hadera-cities-v2.webp",
     description: {
       de: "Chadera ist eine Stadt im Bezirk Haifa, die die Küstenebene mit mehreren vielfältigen Naturschutzgebieten verbindet.",
       hu: "Hadera a Haifai körzetben fekvő város, amely a tengerparti síkságot változatos természetvédelmi területekkel köti össze.",
@@ -474,9 +456,8 @@ image: "/poi-images/hadera-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [35.0069, 31.8903],
-    name: { de: "Modi’in", hu: "Modiin", ro: "Modi'in", en: "Modi'in",
-image: "/poi-images/modiin-cities-v2.webp"
-},
+    name: { de: "Modi’in", hu: "Modiin", ro: "Modi'in", en: "Modi'in"},
+    image: "/poi-images/modiin-cities-v2.webp",
     description: {
       de: "Modi’in ist eine sorgfältig geplante, moderne Stadt, die sich genau auf halbem Weg zwischen Tel Aviv und Jerusalem befindet.",
       hu: "Modiin egy gondosan megtervezett, modern város, amely pontosan félúton fekszik Tel-Aviv és Jeruzsálem között.",
@@ -500,9 +481,8 @@ image: "/poi-images/modiin-cities-v2.webp"
     type: "city",
     parent: "IL-Z",
     coords: [35.2973, 32.7019],
-    name: { de: "Nazareth", hu: "Názáret", ro: "Nazaret", en: "Nazareth",
-image: "/poi-images/nazareth-cities-v2.webp"
-},
+    name: { de: "Nazareth", hu: "Názáret", ro: "Nazaret", en: "Nazareth"},
+    image: "/poi-images/nazareth-cities-v2.webp",
     description: {
       de: "Nazareth ist die größte arabische Stadt in Israel und von immenser Bedeutung als christlicher Pilgerort.",
       hu: "Názáret Izrael legnagyobb arab városa, amely keresztény zarándokhelyként is hatalmas jelentőséggel bír.",
@@ -526,9 +506,8 @@ image: "/poi-images/nazareth-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8953, 31.9510],
-    name: { de: "Lod", hu: "Lod", ro: "Lod", en: "Lod",
-image: "/poi-images/lod-cities-v2.webp"
-},
+    name: { de: "Lod", hu: "Lod", ro: "Lod", en: "Lod"},
+    image: "/poi-images/lod-cities-v2.webp",
     description: {
       de: "Lod ist eine Stadt südöstlich von Tel Aviv, die als wichtiger Verkehrsknotenpunkt für das ganze Land dient.",
       hu: "Lod egy Tel-Avivtól délkeletre fekvő város, amely az egész ország egyik legfontosabb közlekedési csomópontjaként szolgál.",
@@ -552,9 +531,8 @@ image: "/poi-images/lod-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8728, 31.9271],
-    name: { de: "Ramla", hu: "Ramla", ro: "Ramla", en: "Ramla",
-image: "/poi-images/ramla-cities-v2.webp"
-},
+    name: { de: "Ramla", hu: "Ramla", ro: "Ramla", en: "Ramla"},
+    image: "/poi-images/ramla-cities-v2.webp",
     description: {
       de: "Ramla ist eine historische Stadt in Zentralisrael, die während der frühen islamischen Periode gegründet wurde.",
       hu: "Ramla egy történelmi város Közép-Izraelben, amelyet egyedülálló módon a kora iszlám időszakban alapítottak.",
@@ -578,9 +556,8 @@ image: "/poi-images/ramla-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8712, 32.1848],
-    name: { de: "Ra’anana", hu: "Raanana", ro: "Ra'anana", en: "Ra'anana",
-image: "/poi-images/raanana-cities-v2.webp"
-},
+    name: { de: "Ra’anana", hu: "Raanana", ro: "Ra'anana", en: "Ra'anana"},
+    image: "/poi-images/raanana-cities-v2.webp",
     description: {
       de: "Ra’anana ist eine Stadt in der südlichen Scharon-Ebene, die für ihre grüne Umgebung und die große Einwanderergemeinde geschätzt wird.",
       hu: "Raanana a déli Saron-síkságon fekvő város, amelyet zöld környezete és nagy bevándorló közössége miatt értékelnek.",
@@ -604,9 +581,8 @@ image: "/poi-images/raanana-cities-v2.webp"
     type: "city",
     parent: "IL-D",
     coords: [34.7570, 31.3921],
-    name: { de: "Rahat", hu: "Rahat", ro: "Rahat", en: "Rahat",
-image: "/poi-images/rahat-cities-v2.webp"
-},
+    name: { de: "Rahat", hu: "Rahat", ro: "Rahat", en: "Rahat"},
+    image: "/poi-images/rahat-cities-v2.webp",
     description: {
       de: "Rahat ist eine mehrheitlich von Beduinen bewohnte Stadt im nördlichen Negev und die größte beduinische Siedlung der Welt.",
       hu: "Rahat egy túlnyomórészt beduinok lakta város az északi Negevben, és a világ legnagyobb beduin települése.",
@@ -630,9 +606,8 @@ image: "/poi-images/rahat-cities-v2.webp"
     type: "city",
     parent: "IL-M",
     coords: [34.8961, 32.1521],
-    name: { de: "Hod haScharon", hu: "Hod HaSaron", ro: "Hod HaSharon", en: "Hod HaSharon",
-image: "/poi-images/hod-hasharon-cities-v2.webp"
-},
+    name: { de: "Hod haScharon", hu: "Hod HaSaron", ro: "Hod HaSharon", en: "Hod HaSharon"},
+    image: "/poi-images/hod-hasharon-cities-v2.webp",
     description: {
       de: "Hod haScharon ist eine sich schnell entwickelnde Stadt im Zentralbezirk, die sich durch eine ländliche Atmosphäre inmitten von städtischem Wachstum auszeichnet.",
       hu: "Hod HaSaron egy gyorsan fejlődő város a Központi körzetben, amelyet a városi növekedés közepette megőrzött vidékies hangulat jellemez.",
@@ -656,9 +631,8 @@ image: "/poi-images/hod-hasharon-cities-v2.webp"
     type: "city",
     parent: "IL-HA",
     coords: [35.1023, 32.8021],
-    name: { de: "Kirjat Ata", hu: "Kirjat Ata", ro: "Kiryat Ata", en: "Kiryat Ata",
-image: "/poi-images/kiryat-ata-cities-v2.webp"
-},
+    name: { de: "Kirjat Ata", hu: "Kirjat Ata", ro: "Kiryat Ata", en: "Kiryat Ata"},
+    image: "/poi-images/kiryat-ata-cities-v2.webp",
     description: {
       de: "Kirjat Ata ist eine bedeutende Stadt im Bezirk Haifa, die ursprünglich von einer polnisch-jüdischen Organisation gegründet wurde.",
       hu: "Kirjat Ata egy jelentős város a Haifai körzetben, amelyet eredetileg egy lengyel zsidó szervezet alapított.",
@@ -682,9 +656,8 @@ image: "/poi-images/kiryat-ata-cities-v2.webp"
     type: "city",
     parent: "IL-Z",
     coords: [35.0941, 33.0114],
-    name: { de: "Naharija", hu: "Naharija", ro: "Nahariya", en: "Nahariya",
-image: "/poi-images/nahariya-cities-v2.webp"
-},
+    name: { de: "Naharija", hu: "Naharija", ro: "Nahariya", en: "Nahariya"},
+    image: "/poi-images/nahariya-cities-v2.webp",
     description: {
       de: "Naharija ist die nördlichste Küstenstadt Israels und dient als beliebtes Ziel für Sommerurlauber.",
       hu: "Naharija Izrael legészakibb tengerparti városa, és népszerű nyári üdülőhelyként szolgál.",
@@ -708,9 +681,8 @@ image: "/poi-images/nahariya-cities-v2.webp"
     type: "city",
     parent: "IL-D",
     coords: [34.9519, 29.5577],
-    name: { de: "Eilat", hu: "Eilat", ro: "Eilat", en: "Eilat",
-image: "/poi-images/eilat-cities-v2.webp"
-},
+    name: { de: "Eilat", hu: "Eilat", ro: "Eilat", en: "Eilat"},
+    image: "/poi-images/eilat-cities-v2.webp",
     description: {
       de: "Eilat ist die südlichste Stadt Israels, ein geschäftiger Hafen und ein beliebter Ferienort an der Nordspitze des Roten Meeres.",
       hu: "Eilat Izrael legdélebbi városa, forgalmas kikötő és népszerű üdülőhely a Vörös-tenger északi csücskén.",
@@ -734,9 +706,8 @@ image: "/poi-images/eilat-cities-v2.webp"
     type: "city",
     parent: "IL-Z",
     coords: [35.2897, 32.6063],
-    name: { de: "Afula", hu: "Afula", ro: "Afula", en: "Afula",
-image: "/poi-images/afula-cities-v2.webp"
-},
+    name: { de: "Afula", hu: "Afula", ro: "Afula", en: "Afula"},
+    image: "/poi-images/afula-cities-v2.webp",
     description: {
       de: "Afula ist oft als die Hauptstadt der Jesreelebene bekannt und befindet sich im Nordbezirk Israels.",
       hu: "Afula, amelyet gyakran a Jezréel-völgy fővárosaként emlegetnek, Izrael Északi körzetében található.",
@@ -760,9 +731,8 @@ image: "/poi-images/afula-cities-v2.webp"
     type: "city",
     parent: "IL-Z",
     coords: [35.5312, 32.7897],
-    name: { de: "Tiberias", hu: "Tibériás", ro: "Tiberias", en: "Tiberias",
-image: "/poi-images/tiberias-cities-v2.webp"
-},
+    name: { de: "Tiberias", hu: "Tibériás", ro: "Tiberias", en: "Tiberias"},
+    image: "/poi-images/tiberias-cities-v2.webp",
     description: {
       de: "Tiberias ist eine antike Stadt am Westufer des Sees Genezareth und gilt als eine der vier heiligen Städte des Judentums.",
       hu: "Tibériás egy ősi város a Galileai-tenger nyugati partján, amelyet a zsidóság négy szent városának egyikeként tartanak számon.",

@@ -6,307 +6,539 @@ export const poiExtraCambodiaReliefV2: POI[] = [
     type: "mountain",
     parent: "KH-15",
     coords: [103.2000, 12.0000],
-    name: { de: "Kardamomberge", hu: "Kardamom-hegység", ro: "Munții Cardamom", en: "Cardamom Mountains",
-image: "/poi-images/cardamom-mountains-relief-v2.webp"
-},
+    name: { de: "Kardamomberge", hu: "Kardamom-hegység", ro: "Munții Cardamom", en: "Cardamom Mountains"},
+    image: "/poi-images/cardamom-mountains-relief-v2.webp",
     description: { de: "Eine der größten noch intakten Waldregionen Südostasiens im Südwesten Kambodschas.", hu: "Délkelet-Ázsia egyik legnagyobb egybefüggő, érintetlen erdősége Kambodzsa délnyugati részén.", ro: "Una dintre cele mai mari zone forestiere intacte din Asia de Sud-Est, în sud-vestul Cambodgiei.", en: "One of the largest intact forest regions in Southeast Asia, located in southwestern Cambodia." },
     facts: {
       de: ["Höchster Punkt ist der Phnom Aural.", "Heimat seltener Tierarten wie dem Indochinesischen Tiger."],
       hu: ["Legmagasabb pontja a Phnom Aural.", "Olyan ritka fajok otthona, mint az indokínai tigris."],
       ro: ["Cel mai înalt punct este Phnom Aural.", "Găzduiește specii rare, cum ar fi tigrul indochinez."],
       en: ["Highest point is Phnom Aural.", "Home to rare species such as the Indochinese tiger."]
-    }, image: "/poi-images/cardamom-mountains-relief-v2.webp"},
+    }, image: "/poi-images/cardamom-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Cardamom-Berge erstrecken sich über 10.000 Quadratkilometer entlang der thailändischen Grenze im Südwesten Kambodschas. Sie bestehen aus einer Kette von Granit- und Sandsteinbergen, deren höchster Gipfel der Phnom Aural mit 1.813 Metern ist. Das Gebirge ist von dichten Regenwäldern bedeckt und beherbergt eine außergewöhnliche Biodiversität. Die Region ist abgelegen und war während der Roten Khmer ein Rückzugsort. Heute sind die Berge ein wichtiger Wasserspeicher und werden durch mehrere Schutzgebiete bewahrt. Die durchschnittliche Höhe liegt bei 500 bis 1.000 Metern.",
+      hu: "A Kardamom-hegység Kambodzsa délnyugati részén húzódik, mintegy 10.000 km² területen. A hegylánc geológiai szerkezete gránitból és homokkőből áll. A csapadékos klíma (évi 4.000 mm) miatt sűrű esőerdők borítják, amelyek a világ egyik legmagasabb biodiverzitású területét alkotják. A hegyekben számos folyó ered, amelyek a Thai-öbölbe ömlenek. A történelem során a térség menedékül szolgált a konfliktusok elől. A 20. században a tigrispopuláció drasztikusan csökkent, de a védelmi erőfeszítéseknek köszönhetően lassan stabilizálódik.",
+      ro: "Munții Cardamom se întind pe 10.000 km² în sud-vestul Cambodgiei, formând o barieră naturală între Cambodgia și Tailanda. Cel mai înalt vârf este Phnom Aural (1.813 m). Geologic, sunt formați din granit și gresie. Pădurile tropicale umede adăpostesc elefanți, tigri și giboni. Regiunea a fost puternic împădurită, dar defrișările au redus suprafața cu 20% în ultimii 20 de ani. Apele care coboară de pe versanți alimentează culturile de orez din câmpiile joase. Turismul ecologic este în creștere.",
+      en: "The Cardamom Mountains stretch over 10,000 km² across southwestern Cambodia, forming a rugged landscape with peaks up to 1,813 meters (Phnom Aural). This ancient mountain range is composed of granite and sandstone, shaped by millions of years of erosion. Its rainforests are among the most biodiverse in Asia, hosting Asian elephants, tigers, and over 400 bird species. The mountains serve as a critical water tower, with many rivers originating here. Despite past logging, large tracts remain intact due to conservation efforts.",
+    },
+    factsAdvanced: {
+      de: ["Die Cardamom-Berge erstrecken sich über 10.000 km².", "Höchster Gipfel: Phnom Aural mit 1.813 Metern.", "Die Berge bestehen hauptsächlich aus Granit und Sandstein.", "Jährlicher Niederschlag: 4.000–5.000 mm.", "Über 400 Vogelarten wurden hier beobachtet.", "Etwa 20 % der Waldfläche gingen in den letzten 20 Jahren verloren."],
+      hu: ["A Kardamom-hegység területe 10.000 km².", "Legmagasabb csúcs a Phnom Aural (1.813 m).", "Gránitból és homokkőből áll.", "Éves csapadék: 4.000-5.000 mm.", "Több mint 400 madárfaj figyelhető meg.", "Az erdőborítás 20%-kal csökkent az elmúlt 20 évben."],
+      ro: ["Suprafață: 10.000 km².", "Cel mai înalt vârf: Phnom Aural (1.813 m).", "Compuși din granit și gresie.", "Precipitații anuale: 4.000-5.000 mm.", "Peste 400 de specii de păsări.", "Pierderea pădurilor: 20% în ultimele două decenii."],
+      en: ["Area: 10,000 km².", "Highest peak: Phnom Aural (1,813 m).", "Composed of granite and sandstone.", "Annual rainfall: 4,000-5,000 mm.", "Over 400 bird species.", "Forest loss: 20% in 20 years."],
+    },
+  },
   {
     id: "damrei-mountains-relief-v2",
     type: "mountain",
     parent: "KH-07",
     coords: [104.0500, 10.6333],
-    name: { de: "Elefantenberge", hu: "Elefánt-hegység", ro: "Munții Elefant", en: "Dâmrei Mountains",
-image: "/poi-images/damrei-mountains-relief-v2.webp"
-},
+    name: { de: "Elefantenberge", hu: "Elefánt-hegység", ro: "Munții Elefant", en: "Dâmrei Mountains"},
+    image: "/poi-images/damrei-mountains-relief-v2.webp",
     description: { de: "Ein Gebirgszug im Süden Kambodschas, der historisch für seinen Pfefferanbau bekannt ist.", hu: "Dél-Kambodzsa egyik hegysége, amely történelmileg a bors termesztéséről híres.", ro: "Un lanț muntos din sudul Cambodgiei, cunoscut istoric pentru cultivarea piperului.", en: "A mountain range in southern Cambodia, historically known for its pepper cultivation." },
     facts: {
       de: ["Der Phnom Bokor ist einer der bekanntesten Gipfel.", "Dichte tropische Wälder bedecken die Hänge."],
       hu: ["A Phnom Bokor az egyik legismertebb csúcsa.", "Sűrű trópusi erdők borítják a lejtőit."],
       ro: ["Phnom Bokor este unul dintre cele mai cunoscute vârfuri.", "Pădurile tropicale dense acoperă versanții."],
       en: ["Phnom Bokor is one of the best-known peaks.", "Dense tropical forests cover the slopes."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Dâmrei-Berge (Elefantenberge) liegen im Südwesten Kambodschas, in der Provinz Kampot. Sie sind ein Teil der Cardamom-Berge und erstrecken sich über 70 km. Der höchste Gipfel ist der Phnom Aural mit 1.813 m. Die Berge bestehen aus Sandstein und Schiefer. Sie sind bekannt für ihre steilen Hänge und dichten Regenwälder. Die Region ist reich an Biodiversität, darunter der seltene Elefant, Tiger und Gibbons. Die Berge speisen mehrere Flüsse, die in den Golf von Thailand münden. Der Name leitet sich von den Elefantenherden ab, die hier einst lebten. Heute sind sie stark dezimiert.",
+      hu: "A Dâmrei-hegység (Elefánt-hegység) Kambodzsa délnyugati részén található. A hegység hossza körülbelül 70 km. Legmagasabb csúcsa a Phnom Aural (1813 m), amely egyben Kambodzsa legmagasabb hegye. A hegység geológiailag régi, főként homokkőből áll. A terület fontos vízválasztó. Az esőerdők veszélyeztetett fajoknak adnak otthont, mint a maláj medve. A hegységben bányásznak zafírt és rubint is. A vidék népszerű a trekking turisták körében. A közeli Kampot városából indítanak túrákat. Az infrastruktúra fejletlen, nehezen járható utakkal.",
+      ro: "Munții Damrei (Munții Elefant) sunt o ramură a Munților Cardamom din Cambodgia. Se întind pe 70 km în provincia Kampot. Cel mai înalt vârf este Phnom Aural, cu 1813 m, cel mai înalt punct al Cambodgiei. Munții sunt acoperiți cu păduri tropicale virgine. Fauna include elefanți asiatici, tigri și urși. Regiunea este importantă pentru resursele de apă, alimentând râurile locale. Se găsesc și pietre prețioase, în special safire. Drumurile de acces sunt limitate. Turismul ecologic se dezvoltă, cu sate de eco-lodge. Zona este vulnerabilă la exploatări forestiere ilegale.",
+      en: "The Damrei Mountains (Elephant Mountains) are a southern extension of the Cardamom Mountains in Cambodia. They run roughly parallel to the Gulf of Thailand. The highest peak, Phnom Aural, at 1,813 m, is the tallest in Cambodia. The range is composed of sedimentary rocks, mainly sandstone. It is a biodiversity hotspot, with endangered species like the Asian elephant and clouded leopard. The mountains receive high rainfall, up to 5,000 mm annually in some areas. They are the source of the Preaek Tuek Chhu River. Mining for gemstones such as sapphire and ruby has occurred. The area is protected within the Phnom Aural Wildlife Sanctuary.",
+    },
+    factsAdvanced: {
+      de: ["Länge: 70 km", "Höchster Gipfel: Phnom Aural (1.813 m)", "Gestein: Sandstein, Schiefer", "Jährlicher Niederschlag: bis 5.000 mm", "Schutzgebiet: Phnom Aural Wildlife Sanctuary", "Bekannte Edelsteine: Saphir, Rubin"],
+      hu: ["Hegység hossza: 70 km", "Legmagasabb pont: 1813 m", "Csapadék: 5000 mm/év", "Edelstein vorkommen: zafír, rubin", "Természetvédelmi terület: Phnom Aural Vadvédelmi Terület", "Folyók: Preaek Tuek Chhu"],
+      ro: ["Lungime: 70 km", "Cel mai înalt vârf: 1813 m", "Precipitații: 5000 mm/an", "Pietre prețioase: safir, rubin", "Rezervație: Phnom Aural", "Râul principal: Preaek Tuek Chhu"],
+      en: ["Length: 70 km", "Highest point: 1,813 m", "Annual rainfall: up to 5,000 mm", "Gemstones: sapphire, ruby", "Protected area: Phnom Aural Wildlife Sanctuary", "Peak name: Phnom Aural"],
+    },
   },
   {
     id: "dangrek-mountains-relief-v2",
     type: "mountain",
     parent: "KH-13",
     coords: [104.0000, 14.3333],
-    name: { de: "Dangrek-Gebirge", hu: "Dangrek-hegység", ro: "Munții Dangrek", en: "Dangrek Mountains",
-image: "/poi-images/dangrek-mountains-relief-v2.webp"
-},
+    name: { de: "Dangrek-Gebirge", hu: "Dangrek-hegység", ro: "Munții Dangrek", en: "Dangrek Mountains"},
+    image: "/poi-images/dangrek-mountains-relief-v2.webp",
     description: { de: "Ein Sandsteingebirge, das die natürliche Grenze zwischen Kambodscha und Thailand bildet.", hu: "Kambodzsa és Thaiföld természetes határát alkotó homokkő hegység.", ro: "Un lanț muntos din gresie care formează granița naturală dintre Cambodgia și Thailanda.", en: "A sandstone mountain range forming the natural border between Cambodia and Thailand." },
     facts: {
       de: ["Hier befindet sich der berühmte Preah-Vihear-Tempel.", "Die Durchschnittshöhe beträgt etwa 500 Meter."],
       hu: ["Itt található a híres Preah Vihear templom.", "Átlagos magassága körülbelül 500 méter."],
       ro: ["Aici se află faimosul templu Preah Vihear.", "Înălțimea medie este de aproximativ 500 de metri."],
       en: ["The famous Preah Vihear temple is located here.", "The average elevation is about 500 meters."]
-    }, image: "/poi-images/dangrek-mountains-relief-v2.webp"},
+    }, image: "/poi-images/dangrek-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Dangrek-Berge bilden die nordwestliche Grenze Kambodschas zu Thailand und erstrecken sich über 300 Kilometer von Ost nach West. Die durchschnittliche Höhe beträgt 400 bis 700 Meter, mit dem höchsten Punkt Preah Vihear (805 Meter). Die Bergkette besteht aus Sandstein und ist bekannt für die gleichnamige Tempelanlage Preah Vihear, die zum UNESCO-Weltkulturerbe gehört. Die Wälder sind laubabwerfend und von Savannen durchsetzt. Die Region ist dünn besiedelt und war Schauplatz von Grenzkonflikten. Die Biodiversität umfasst Wildrinder und asiatische Elefanten.",
+      hu: "A Dangrek-hegység Kambodzsa északnyugati határán húzódik, mintegy 300 km hosszan. Átlagos magassága 400-700 m, legmagasabb pontja a Preah Vihear (805 m). A homokkőből álló lánc híres a Preah Vihear templomról, amely a khmer építészet remeke. A száraz erdőkben gaúrok, bantengok és elefántok élnek. A vidéket mezőgazdasági területek tarkítják. A határ közelsége miatt a terület érzékeny a konfliktusokra, ugyanakkor fontos ökológiai folyosó szerepét tölti be.",
+      ro: "Munții Dangrek se întind 300 km de-a lungul frontierei nordice a Cambodgiei cu Tailanda. Altitudinea medie este de 400-700 m, iar vârful Preah Vihear atinge 805 m. Sunt formați din gresie. Pădurile uscate și pajiștile găzduiesc gauri (bivoli sălbatici), bantengi și elefanți. Templul Preah Vihear, sit UNESCO, se află pe creastă. Regiunea este rar populată și a fost teatrul conflictelor de frontieră. Ecoturismul este în curs de dezvoltare, cu trasee de drumeție.",
+      en: "The Dangrek Mountains form a 300-km escarpment along Cambodia's northern border with Thailand. Their sandstone cliffs rise 400-700 meters, culminating at Preah Vihear peak (805 m). These mountains are famous for the 11th-century Khmer temple Preah Vihear, a UNESCO World Heritage site. Dry dipterocarp forests and grasslands support wild cattle like gaur and banteng, as well as Asian elephants. The escarpment creates a rain shadow, with relatively low annual rainfall of 1,500 mm. Despite historical conflicts, the area is now a focus for cross-border conservation initiatives.",
+    },
+    factsAdvanced: {
+      de: ["Länge der Bergkette: 300 Kilometer.", "Höchster Punkt: Preah Vihear mit 805 Metern.", "Besteht hauptsächlich aus Sandstein.", "Jährlicher Niederschlag: etwa 1.500 mm.", "Lebensraum für Gaur und Banteng.", "UNESCO-Welterbestätte Preah Vihear liegt auf dem Kamm."],
+      hu: ["A hegylánc hossza 300 km.", "Legmagasabb pont: Preah Vihear (805 m).", "Homokkőből áll.", "Éves csapadék: kb. 1.500 mm.", "Gaur és banteng élőhelye.", "A Preah Vihear templom az UNESCO-listán szerepel."],
+      ro: ["Lungime: 300 km.", "Vârf: Preah Vihear (805 m).", "Compus din gresie.", "Precipitații anuale: ~1.500 mm.", "Habitat pentru gaur și banteng.", "Templul Preah Vihear, sit UNESCO."],
+      en: ["Length: 300 km.", "Highest point: Preah Vihear (805 m).", "Composed of sandstone.", "Annual rainfall: ~1,500 mm.", "Habitat for gaur and banteng.", "UNESCO site Preah Vihear temple."],
+    },
+  },
   {
     id: "phnom-aural-relief-v2",
     type: "mountain",
     parent: "KH-05",
     coords: [104.2889, 12.0319],
-    name: { de: "Phnom Aural", hu: "Phnom Aural", ro: "Phnom Aural", en: "Phnom Aural",
-image: "/poi-images/phnom-aural-relief-v2.webp"
-},
+    name: { de: "Phnom Aural", hu: "Phnom Aural", ro: "Phnom Aural", en: "Phnom Aural"},
+    image: "/poi-images/phnom-aural-relief-v2.webp",
     description: { de: "Mit über 1800 Metern der höchste Berg Kambodschas, gelegen im östlichen Teil der Kardamomberge.", hu: "Több mint 1800 méteres magasságával Kambodzsa legmagasabb hegye, a Kardamom-hegység keleti részén.", ro: "Cu peste 1800 de metri, este cel mai înalt munte din Cambodgia, situat în partea de est a Munților Cardamom.", en: "At over 1800 meters, it is the highest mountain in Cambodia, located in the eastern Cardamom Mountains." },
     facts: {
       de: ["Erreicht eine Höhe von 1813 Metern.", "Liegt in einem geschützten Wildtierreservat."],
       hu: ["Magassága eléri az 1813 métert.", "Egy védett vadvédelmi rezervátumban található."],
       ro: ["Atinge o înălțime de 1813 metri.", "Este situat într-o rezervație naturală protejată."],
       en: ["Reaches an elevation of 1813 meters.", "Located within a protected wildlife sanctuary."]
-    }, image: "/poi-images/phnom-aural-relief-v2.webp"},
+    }, image: "/poi-images/phnom-aural-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Phnom Aural ist mit 1.813 Metern der höchste Berg Kambodschas und liegt im zentralen Cardamom-Gebirge. Er besteht aus Granit und ist von dichtem Nebelwald bedeckt, der in den tieferen Lagen in tropischen Regenwald übergeht. Der Berg ist ein wichtiges Wassereinzugsgebiet. Trotz seiner Höhe ist der Phnom Aural relativ unzugänglich, da er in einer abgelegenen Region liegt. Die Besteigung erfordert mehrtägige Wanderungen. Die Flora umfasst zahlreiche Orchideenarten und fleischfressende Pflanzen. Die Fauna umfasst Gibbons, Hornvögel und Schlangen.",
+      hu: "A Phnom Aural Kambodzsa legmagasabb hegye, 1.813 méterrel. A Cardamom-hegységben található, és gránit alkotja. A tengerszint feletti magasság miatt a csúcson hűvös, párás klíma uralkodik, a hőmérséklet ritkán haladja meg a 20 °C-ot. A hegyet sűrű esőerdő borítja, amely számos endemikus növényfajnak ad otthont. A terület nehezen megközelíthető, ami hozzájárult érintetlenségéhez. Expedíciók során új kétéltűfajokat fedeztek fel. A hegyet a helyi közösségek szentként tisztelik.",
+      ro: "Phnom Aural este cel mai înalt munte din Cambodgia, cu 1.813 m. Situat în Munții Cardamom, este un masiv de granit. Pădurile de ceață de la altitudini înalte adăpostesc specii rare de orhidee și ferigi. Temperaturile sunt scăzute, cu minime de 10 °C iarna. A fost explorat abia recent; o expediție din 2015 a descoperit trei specii noi de broaște. Accesul dificil îl face rar vizitat. Muntele este considerat sacru de către comunitățile locale, care cred că spiritele strămoșilor locuiesc acolo.",
+      en: "Phnom Aural, rising 1,813 meters, is Cambodia's highest peak. Located deep in the Cardamom Mountains, it is a granite massif cloaked in cloud forest. Temperatures can drop to 10°C at the summit. The mountain's isolation has preserved a unique ecosystem with many endemic plants and animals. A 2015 expedition discovered three new frog species. Phnom Aural is revered by indigenous communities and serves as a critical watershed. Climbing the peak is a multi-day trek through dense jungle, rewarding adventurers with panoramic views.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.813 Meter (höchster Berg Kambodschas).", "Gestein: Granit.", "Durchschnittstemperatur auf dem Gipfel: 15-20 °C.", "2015 wurden drei neue Froscharten entdeckt.", "Der Berg ist Teil des Cardamom-Gebirges.", "Er ist ein wichtiges Wassereinzugsgebiet für mehrere Flüsse."],
+      hu: ["Magasság: 1.813 m (Kambodzsa legmagasabb pontja).", "Gránitból áll.", "Csúcshőmérséklet: 15-20 °C.", "2015-ben három új békafajt fedeztek fel.", "A Cardamom-hegység része.", "Számos folyó vízgyűjtő területe."],
+      ro: ["Altitudine: 1.813 m (cel mai înalt).", "Granit.", "Temperatura medie la vârf: 15-20 °C.", "Trei specii de broaște descoperite în 2015.", "Parte a Munților Cardamom.", "Bazin de captare pentru mai multe râuri."],
+      en: ["Elevation: 1,813 m (highest in Cambodia).", "Rock type: granite.", "Summit temperature: 15-20 °C.", "Three new frog species discovered in 2015.", "Part of Cardamom Mountains.", "Watershed for multiple rivers."],
+    },
+  },
   {
     id: "phnom-kulen-plateau-relief-v2",
     type: "plateau",
     parent: "KH-17",
     coords: [104.1000, 13.6000],
-    name: { de: "Phnom Kulen-Plateau", hu: "Phnom Kulen-fennsík", ro: "Platoul Phnom Kulen", en: "Phnom Kulen Plateau",
-image: "/poi-images/phnom-kulen-plateau-relief-v2.webp"
-},
+    name: { de: "Phnom Kulen-Plateau", hu: "Phnom Kulen-fennsík", ro: "Platoul Phnom Kulen", en: "Phnom Kulen Plateau"},
+    image: "/poi-images/phnom-kulen-plateau-relief-v2.webp",
     description: { de: "Ein heiliges Bergplateau, das als Geburtsort des Khmer-Reiches gilt.", hu: "Egy szent hegyi fennsík, amelyet a Khmer Birodalom szülőhelyének tartanak.", ro: "Un platou montan sacru, considerat locul de naștere al Imperiului Khmer.", en: "A sacred mountain plateau considered the birthplace of the Khmer Empire." },
     facts: {
       de: ["Beliebtes Ziel für Pilger und Touristen.", "Bekannt für seine Wasserfälle und historischen Ruinen."],
       hu: ["Népszerű zarándok- és turistacélpont.", "Vízeséseiről és történelmi romjairól ismert."],
       ro: ["Destinație populară pentru pelerini și turiști.", "Cunoscut pentru cascadele și ruinele sale istorice."],
       en: ["Popular destination for pilgrims and tourists.", "Known for its waterfalls and historical ruins."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Phnom-Kulen-Plateau in Kambodscha ist eine bedeutende archäologische Stätte mit dem Fluss der tausend Lingas. Der Sandsteinboden wurde im 11. Jahrhundert für den Bau von Angkor Wat genutzt. Der 40 km² große Berg ist von dichtem Dschungel bedeckt und beherbergt Wasserfälle sowie versteinerte Flussbette mit hinduistischen Symbolen. Die Region diente als erste Hauptstadt des Khmer-Reiches unter Jayavarman II. im Jahr 802 n. Chr. Die Höhe beträgt bis zu 487 Meter. Der Ort ist ein wichtiges Pilgerziel für Buddhisten.",
+      hu: "A Phnom Kulen-fennsík Kambodzsa fontos régészeti lelőhelye, ahol az „ezer linga folyója” található. A homokkő talajt a 11. században használták Angkor Wat építéséhez. A 40 km²-es hegyet sűrű dzsungel borítja, vízesésekkel és megkövesedett folyómedrekkel, amelyek hindu szimbólumokat tartalmaznak. A terület a Khmer Birodalom első fővárosa volt II. Dzsajavarman király uralma alatt, i.sz. 802-ben. A magasság eléri a 487 métert. A hely fontos buddhista zarándokhely.",
+      ro: "Podisul Phnom Kulen din Cambodgia este un sit arheologic major, cunoscut pentru „râul celor o mie de linga”. Piatra de gresie a fost folosită în secolul al XI-lea pentru construcția templului Angkor Wat. Cu o suprafață de 40 km², muntele este acoperit de junglă deasă și adăpostește cascade și albii pietrificate cu simboluri hinduse. Regiunea a fost prima capitală a Imperiului Khmer sub regele Jayavarman al II-lea în anul 802 d.Hr. Altitudinea atinge 487 de metri. Locul este un important loc de pelerinaj budist.",
+      en: "Phnom Kulen Plateau in Cambodia is a major archaeological site featuring the River of a Thousand Lingas. The sandstone bedrock was quarried in the 11th century for constructing Angkor Wat. Covering 40 km², the plateau rises to 487 meters and is covered in dense jungle. It served as the first capital of the Khmer Empire under Jayavarman II in 802 AD. The site includes waterfalls and ancient riverbeds carved with Hindu motifs. It remains a sacred pilgrimage destination for Buddhists.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 487 m über dem Meeresspiegel", "Fläche: etwa 40 km²", "Erste Hauptstadt des Khmer-Reiches im Jahr 802", "Sandstein von hier wurde für Angkor Wat verwendet (11. Jh.)", "Enthält den Fluss der tausend Lingas mit über 1.000 Skulpturen", "Durchschnittliche jährliche Niederschlagsmenge: 2.200 mm"],
+      hu: ["Magasság: 487 m tengerszint felett", "Terület: kb. 40 km²", "A Khmer Birodalom első fővárosa 802-ben", "A homokkövet Angkor Wat építéséhez bányászták (11. sz.)", "Az 'ezer linga folyója' több mint 1000 faragványt tartalmaz", "Éves csapadékátlag: 2200 mm"],
+      ro: ["Altitudine: 487 m deasupra nivelului mării", "Suprafață: aproximativ 40 km²", "Prima capitală a Imperiului Khmer în anul 802", "Piatra de gresie a fost extrasă pentru Angkor Wat (sec. XI)", "Conține „râul celor o mie de linga” cu peste 1.000 de sculpturi", "Precipitații medii anuale: 2.200 mm"],
+      en: ["Elevation: 487 m above sea level", "Area: approximately 40 km²", "First capital of the Khmer Empire in 802 AD", "Sandstone quarried for Angkor Wat construction (11th century)", "Contains the River of a Thousand Lingas with over 1,000 carvings", "Average annual rainfall: 2,200 mm"],
+    },
   },
   {
     id: "kirirom-plateau-relief-v2",
     type: "plateau",
     parent: "KH-05",
     coords: [104.0500, 11.3167],
-    name: { de: "Kirirom-Plateau", hu: "Kirirom-fennsík", ro: "Platoul Kirirom", en: "Kirirom Plateau",
-image: "/poi-images/kirirom-plateau-relief-v2.webp"
-},
+    name: { de: "Kirirom-Plateau", hu: "Kirirom-fennsík", ro: "Platoul Kirirom", en: "Kirirom Plateau"},
+    image: "/poi-images/kirirom-plateau-relief-v2.webp",
     description: { de: "Ein hochgelegenes Kiefernwaldgebiet, das eine kühlere Klimazone in Kambodscha bietet.", hu: "Magasan fekvő fenyőerdős terület, amely hűvösebb klímát kínál Kambodzsában.", ro: "O zonă înaltă cu păduri de pini, care oferă un climat mai răcoros în Cambodgia.", en: "An elevated pine forest area that provides a cooler climate zone in Cambodia." },
     facts: {
       de: ["Heimat des Kirirom-Nationalparks.", "Das Wort Kirirom bedeutet Berg der Freude."],
       hu: ["A Kirirom Nemzeti Park otthona.", "A Kirirom szó jelentése Az öröm hegye."],
       ro: ["Găzduiește Parcul Național Kirirom.", "Cuvântul Kirirom înseamnă Muntele bucuriei."],
       en: ["Home to Kirirom National Park.", "The word Kirirom means Mountain of Joy."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Kirirom Plateau liegt in der Provinz Kampong Speu und ist Teil des Cardamom-Gebirges. Es erhebt sich auf etwa 675 Meter über dem Meeresspiegel und ist bekannt für seine Kiefernwälder, die in Kambodscha selten sind. Das Plateau wurde 1993 zum Nationalpark erklärt. Es bietet ein kühleres Klima als die umliegenden Tiefländer. Die Region ist ein beliebtes Ziel für Wanderer und Picknicker. Von den Aussichtspunkten hat man einen Blick auf den Golf von Thailand. Die Fauna umfasst Gibbons, Mungos und zahlreiche Vogelarten.",
+      hu: "A Kirirom-fennsík a Cardamom-hegység része, Kampong Speu tartományban. Magassága 675 m. Különlegessége a fenyőerdő, ami ritka ebben a trópusi országban. A terület 1993-ban nemzeti park lett, és népszerű kirándulóhely. A hűvös klíma és a tavak kellemes kikapcsolódást nyújtanak. A fennsíkról látni lehet a Thai-öblöt. Állatvilága változatos: gibbonok, mongúzok, valamint több mint 100 madárfaj. A történelem során a királyi család üdülőhelye volt.",
+      ro: "Podișul Kirirom, parte a Munților Cardamom, atinge 675 m altitudine. Este remarcabil pentru pădurile de pini, un habitat rar în Cambodgia. A fost declarat parc național în 1993. Clima răcoroasă atrage turiști din câmpiile calde. Lacurile și pâraiele oferă locuri de picnic. Fauna include giboni, manguste și peste 100 de specii de păsări. În trecut, a fost o stațiune de vacanță pentru regele Norodom Sihanouk. Drumețiile până la vârf oferă vederi panoramice.",
+      en: "Kirirom Plateau, rising to 675 meters, is part of the Cardamom Mountains in Kampong Speu province. Uniquely for Cambodia, it features pine forests interspersed with grasslands. Established as a national park in 1993, it offers a cool climate and panoramic views of the Gulf of Thailand. The plateau's lakes and streams support diverse wildlife, including gibbons, mongooses, and over 100 bird species. It was once a royal retreat for King Norodom Sihanouk. Hiking trails lead to scenic viewpoints and waterfalls.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 675 Meter über dem Meeresspiegel.", "Nationalpark seit 1993.", "Bekannt für seine seltenen Kiefernwälder.", "Über 100 Vogelarten sind hier heimisch.", "Ehemaliger königlicher Rückzugsort.", "Bietet Blick auf den Golf von Thailand."],
+      hu: ["Magasság: 675 m.", "1993 óta nemzeti park.", "Ritka fenyőerdő található itt.", "Több mint 100 madárfaj él itt.", "Korábban királyi üdülőhely volt.", "Kilátás a Thai-öbölre."],
+      ro: ["Altitudine: 675 m.", "Parc național din 1993.", "Păduri rare de pini.", "Peste 100 de specii de păsări.", "Fost refugiu regal.", "Vedere la Golful Thailandei."],
+      en: ["Elevation: 675 m.", "National park since 1993.", "Rare pine forests.", "Over 100 bird species.", "Former royal retreat.", "Views of Gulf of Thailand."],
+    },
   },
   {
     id: "kep-coast-relief-v2",
     type: "coast",
     parent: "KH-23",
     coords: [104.3167, 10.4833],
-    name: { de: "Küste von Kep", hu: "Kep partvidéke", ro: "Coasta Kep", en: "Kep Coast",
-image: "/poi-images/kep-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Kep", hu: "Kep partvidéke", ro: "Coasta Kep", en: "Kep Coast"},
+    image: "/poi-images/kep-coast-relief-v2.webp",
     description: { de: "Ein malerischer Küstenabschnitt am Golf von Thailand, berühmt für seine entspannte Atmosphäre.", hu: "Festői partvidék a Thai-öböl mentén, amely nyugodt légköréről híres.", ro: "O zonă de coastă pitorească la Golful Thailandei, faimoasă pentru atmosfera sa relaxată.", en: "A picturesque coastal stretch on the Gulf of Thailand, famous for its relaxed atmosphere." },
     facts: {
       de: ["Bekannt für den frischen Krabbenmarkt.", "Ehemaliger Rückzugsort der französischen Kolonialelite."],
       hu: ["Friss rákpiacáról híres.", "A francia gyarmati elit egykori menedékhelye volt."],
       ro: ["Cunoscută pentru piața de crabi proaspeți.", "Fostă destinație de retragere pentru elita colonială franceză."],
       en: ["Known for the fresh crab market.", "Former retreat for the French colonial elite."]
-    }, image: "/poi-images/kep-coast-relief-v2.webp"},
+    }, image: "/poi-images/kep-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Kep-Küste liegt im Süden Kambodschas am Golf von Thailand. Die Stadt Kep ist bekannt für ihre französische Kolonialarchitektur und die berühmten Krabbenmärkte. Die Küste ist geprägt von felsigen Klippen und kleinen Buchten. Der Kep-Nationalpark erstreckt sich über die Hügel hinter der Stadt und bietet Wanderwege mit Meerblick. Die Küste war früher ein exklusiver Badeort für die französische Elite. Heute ist Kep ein ruhiger Erholungsort mit einer Mischung aus Natur und Kultur. Die Küstenlinie ist etwa 10 Kilometer lang.",
+      hu: "A Kep-partvidék Kambodzsa déli részén, a Thai-öböl partján fekszik. Kep városa a gyarmati építészetéről és a híres rákpiacáról ismert. A part sziklás szakaszokból és öblökből áll. A Kep Nemzeti Park a város mögötti dombokon húzódik, túraútvonalakkal és panorámával. A 20. század elején a francia gyarmatosítók kedvelt üdülőhelye volt. Napjainkban csendes turisztikai célpont, ahol a tenger gyümölcsei és a természeti szépségek vonzzák a látogatókat.",
+      ro: "Coasta Kep se află în sudul Cambodgiei, pe Golful Thailandei. Orașul Kep este renumit pentru arhitectura colonială franceză și piața de crabi. Linia țărmului este alcătuită din stânci și golfuri mici. Parcul Național Kep acoperă dealurile din spate, oferind trasee de drumeție cu vedere la mare. În trecut, a fost o stațiune de lux pentru coloniștii francezi. Astăzi, este o destinație liniștită pentru iubitorii de natură și gastronomie. Plaja principală are nisip fin și ape calme.",
+      en: "The Kep coast in southern Cambodia offers a 10 km coastline along the Gulf of Thailand. The town of Kep is famous for its French colonial villas and crab market. The coastline alternates between rocky headlands and sandy coves. Behind the town, Kep National Park covers hills with trails through secondary forest. Historically a seaside resort for French colonists, Kep today is a quiet getaway known for seafood and sunset views. The coast faces Rabbit Island (Koh Tonsay), a popular day trip destination.",
+    },
+    factsAdvanced: {
+      de: ["Die Küstenlinie erstreckt sich über 10 Kilometer.", "Der Kep-Nationalpark umfasst 50 km².", "Bekannt für den Krabbenmarkt am Wasser.", "Französische Kolonialvillen aus den 1900er Jahren.", "Koh Tonsay (Kanincheninsel) liegt 4 km vor der Küste.", "Die Wassertemperatur beträgt ganzjährig 27-30 °C."],
+      hu: ["A part hossza 10 km.", "A Kep Nemzeti Park 50 km².", "Híres a tengeri rákpiac.", "Francia gyarmati villák az 1900-as évekből.", "Koh Tonsay-sziget 4 km-re található.", "A víz hőmérséklete 27-30 °C."],
+      ro: ["Lungimea coastei: 10 km.", "Parcul Național Kep: 50 km².", "Faimos pentru piața de crabi.", "Vile coloniale franceze din anii 1900.", "Insula Koh Tonsay la 4 km.", "Temperatura apei: 27-30 °C."],
+      en: ["Coastline length: 10 km.", "Kep National Park: 50 km².", "Famous crab market.", "French colonial villas from 1900s.", "Koh Tonsay (Rabbit Island) 4 km offshore.", "Water temperature: 27-30 °C year-round."],
+    },
+  },
   {
     id: "koh-rong-coast-relief-v2",
     type: "coast",
     parent: "KH-18",
     coords: [103.2667, 10.7333],
-    name: { de: "Küste von Koh Rong", hu: "Koh Rong partvidéke", ro: "Coasta Koh Rong", en: "Koh Rong Coast",
-image: "/poi-images/koh-rong-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Koh Rong", hu: "Koh Rong partvidéke", ro: "Coasta Koh Rong", en: "Koh Rong Coast"},
+    image: "/poi-images/koh-rong-coast-relief-v2.webp",
     description: { de: "Die Strände und Küsten der Insel Koh Rong bieten weißen Sand und kristallklares Wasser.", hu: "Koh Rong szigetének strandjai és partjai fehér homokot és kristálytiszta vizet kínálnak.", ro: "Plajele și coastele insulei Koh Rong oferă nisip alb și ape cristaline.", en: "The beaches and coasts of Koh Rong island offer white sand and crystal-clear waters." },
     facts: {
       de: ["Beliebt bei Tauchern und Schnorchlern.", "Verfügt über biolumineszentes Plankton bei Nacht."],
       hu: ["Népszerű a búvárok és sznorkelezők körében.", "Éjszaka biolumineszcens planktonok világítanak itt."],
       ro: ["Populară printre scafandri și iubitorii de snorkeling.", "Dispune de plancton bioluminescent noaptea."],
       en: ["Popular with divers and snorkelers.", "Features bioluminescent plankton at night."]
-    }, image: "/poi-images/koh-rong-coast-relief-v2.webp"},
+    }, image: "/poi-images/koh-rong-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste von Koh Rong liegt an der Südküste Kambodschas und umfasst die Insel Koh Rong, die zweitgrößte Insel des Landes. Die Küstenlinie ist geprägt von weißen Sandstränden, türkisfarbenem Wasser und Korallenriffen. Die Insel ist 78 Quadratkilometer groß und hat eine Küstenlänge von etwa 40 Kilometern. Sie ist ein beliebtes Ziel für Taucher und Schnorchler. Die Westküste ist stärker touristisch erschlossen, während der Osten noch weitgehend unberührt ist. Die Insel ist Teil eines Meeresschutzgebiets.",
+      hu: "Koh Rong partvidéke Kambodzsa déli részén fekvő nagy mészkőszigetet öleli fel. A sziget 78 km² területű, partvonala 40 km hosszú. Híres fehér homokos tengerpartjairól és kristálytiszta vizéről. A nyugati oldalon nyüzsgő üdülőhelyek találhatók, míg a keleti rész érintetlen. A korallzátonyok gazdag tengeri élővilágnak adnak otthont. A sziget sűrűn erdős, belsejében túraútvonalak vezetnek. A világítás nélküli éjszakák lehetővé teszik a plankton fényjelenségének megfigyelését.",
+      ro: "Coasta Koh Rong înconjoară a doua insulă ca mărime a Cambodgiei, cu o suprafață de 78 km² și o linie de coastă de 40 km. Plajele cu nisip alb și apele turcoaz atrag turiști. Recifele de corali găzduiesc pești tropicali. Partea de vest este dezvoltată, cu stațiuni, în timp ce estul rămâne sălbatic. Pe insulă se găsesc păduri tropicale și trasee de drumeție. Noaptea, fitoplanctonul bioluminiscent creează un spectacol pe plajă.",
+      en: "Koh Rong island, 78 km², boasts 40 km of coastline with powdery white sand and clear turquoise waters. The west coast features developed resorts and nightlife, while the east coast remains pristine with dense jungle. Coral reefs fringe the island, supporting diverse marine life. Bioluminescent plankton often lights up the waves at night. The island's interior is covered in tropical forest, home to monkeys and birds. Koh Rong is part of a marine protected area, and efforts are underway to regulate tourism and preserve its natural beauty.",
+    },
+    factsAdvanced: {
+      de: ["Fläche der Insel: 78 km².", "Küstenlänge: 40 Kilometer.", "Bekanntes biolumineszierendes Plankton.", "Korallenriffe umgeben die Insel.", "Westküste ist touristisch erschlossen.", "Teil eines Meeresschutzgebiets."],
+      hu: ["A sziget területe 78 km².", "Partvonal hossza 40 km.", "Biolumineszcens plankton figyelhető meg.", "Korallzátonyok veszik körül.", "A nyugati part fejlett turisztikával.", "Tengeri védett terület része."],
+      ro: ["Suprafață: 78 km².", "Coastă: 40 km.", "Plankton bioluminescent.", "Recife de corali.", "Coasta de vest dezvoltată.", "Parte a ariei marine protejate."],
+      en: ["Island area: 78 km².", "Coastline: 40 km.", "Bioluminescent plankton.", "Coral reefs.", "West coast developed.", "Marine protected area."],
+    },
+  },
   {
     id: "ream-coast-relief-v2",
     type: "coast",
     parent: "KH-18",
     coords: [103.6500, 10.5333],
-    name: { de: "Ream-Küste", hu: "Ream partvidék", ro: "Coasta Ream", en: "Ream Coast",
-image: "/poi-images/ream-coast-relief-v2.webp"
-},
+    name: { de: "Ream-Küste", hu: "Ream partvidék", ro: "Coasta Ream", en: "Ream Coast"},
+    image: "/poi-images/ream-coast-relief-v2.webp",
     description: { de: "Eine von Mangrovenwäldern und ruhigen Stränden geprägte Küstenlinie im Süden.", hu: "Mangroveerdőkkel és csendes strandokkal tarkított partvonal délen.", ro: "O linie de coastă caracterizată de păduri de mangrove și plaje liniștite în sud.", en: "A coastline characterized by mangrove forests and quiet beaches in the south." },
     facts: {
       de: ["Teil des Ream-Nationalparks.", "Ein wichtiger Lebensraum für Meeresvögel."],
       hu: ["A Ream Nemzeti Park része.", "Fontos élőhelye a tengeri madaraknak."],
       ro: ["Face parte din Parcul Național Ream.", "Un habitat important pentru păsările marine."],
       en: ["Part of the Ream National Park.", "An important habitat for marine birds."]
-    }, image: "/poi-images/ream-coast-relief-v2.webp"},
+    }, image: "/poi-images/ream-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Ream-Küste liegt in der Provinz Preah Sihanouk und umfasst den Ream-Nationalpark. Die Küste ist geprägt von Mangrovenwäldern, Seegraswiesen und Sandstränden. Der Park erstreckt sich über 210 Quadratkilometer, davon 120 km² Land und 90 km² Meeresfläche. Die Region ist ein wichtiges Rückzugsgebiet für Vögel und Meeresschildkröten. Die Küste bietet Lebensraum für Delfine und Dugongs. Der Park wurde 1993 gegründet. In der Umgebung gibt es Fischerdörfer, die traditionelle Lebensweisen bewahren.",
+      hu: "A Ream-part Preah Sihanouk tartományban található, és a Ream Nemzeti Park része. A part mentén mangroveerdők, tengerifű-mezők és homokos strandok váltják egymást. A park 210 km²-t ölel fel (120 km² szárazföld, 90 km² tenger). A terület fontos madár- és teknős élőhely. Delfinek és dugongok is előfordulnak. A parkot 1993-ban alapították. A környező halászfalvakban hagyományos technikákkal dolgoznak. Az ökoturizmus egyre népszerűbb.",
+      ro: "Coasta Ream, situată în provincia Preah Sihanouk, include Parcul Național Ream. Linia țărmului are mangrove, pajiști submarine și plaje nisipoase. Parcul acoperă 210 km² (120 km² uscat, 90 km² marin). Este habitat pentru păsări migratoare, țestoase marine și delfini. Dugongii, specii pe cale de dispariție, sunt prezenți. Fondat în 1993, parcul protejează ecosistemele de coastă. Satele de pescari din apropiere oferă ospitalitate. Pădurile de mangrove sunt esențiale pentru reproducerea peștilor.",
+      en: "Ream coast in Preah Sihanouk province is part of Ream National Park, covering 210 km² of land and sea. The coastline features mangrove forests, seagrass beds, and sandy beaches. The park is a vital habitat for migratory birds, sea turtles, and the endangered dugong. Dolphins are frequently spotted offshore. Established in 1993, the park protects coastal ecosystems that support local fisheries. Nearby fishing villages maintain traditional livelihoods. Ecotourism activities include boat tours and birdwatching.",
+    },
+    factsAdvanced: {
+      de: ["Ream-Nationalpark: 210 km² (120 Land, 90 Meer).", "Gegründet 1993.", "Lebensraum für Dugongs (Seekühe).", "Delfinpopulation in den Küstengewässern.", "Mangrovenwälder bedecken 30 km².", "Über 150 Vogelarten wurden gezählt."],
+      hu: ["Ream Nemzeti Park: 210 km² (120 szárazföld, 90 tenger).", "Alapítás: 1993.", "Dugong populáció.", "Delfinek a part mentén.", "Mangrove erdők: 30 km².", "Több mint 150 madárfaj."],
+      ro: ["Parcul Național Ream: 210 km² (120 uscat, 90 marin).", "Fondat în 1993.", "Habitat pentru dugong.", "Delfini în larg.", "Mangrove: 30 km².", "Peste 150 de specii de păsări."],
+      en: ["Ream National Park: 210 km² (120 land, 90 sea).", "Established 1993.", "Dugong habitat.", "Dolphins offshore.", "Mangroves: 30 km².", "Over 150 bird species."],
+    },
+  },
   {
     id: "mekong-valley-cambodia-relief-v2",
     type: "valley",
     parent: "KH-10",
     coords: [106.0167, 12.4833],
-    name: { de: "Mekong-Tal", hu: "Mekong-völgy", ro: "Valea Mekongului", en: "Mekong Valley",
-image: "/poi-images/mekong-valley-cambodia-relief-v2.webp"
-},
+    name: { de: "Mekong-Tal", hu: "Mekong-völgy", ro: "Valea Mekongului", en: "Mekong Valley"},
+    image: "/poi-images/mekong-valley-cambodia-relief-v2.webp",
     description: { de: "Das fruchtbare Flusstal, das sich durch Kambodscha zieht und die Landwirtschaft des Landes stützt.", hu: "A termékeny folyóvölgy, amely átszeli Kambodzsát és az ország mezőgazdaságának alapja.", ro: "Valea fertilă a râului care traversează Cambodgia și susține agricultura țării.", en: "The fertile river valley that runs through Cambodia and supports the country's agriculture." },
     facts: {
       de: ["Zentrale Lebensader für Millionen von Menschen.", "Reich an Flussdelfinen in bestimmten Abschnitten."],
       hu: ["Emberek millióinak központi életvonala.", "Bizonyos szakaszokon gazdag folyami delfinekben."],
       ro: ["Sursă centrală de viață pentru milioane de oameni.", "Bogată în delfini de râu în anumite secțiuni."],
       en: ["Central lifeline for millions of people.", "Rich in river dolphins in certain sections."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Mekong-Tal in Kambodscha erstreckt sich vom Norden bis zum Süden des Landes und ist die Lebensader der Nation. Der Fluss ist in Kambodscha etwa 500 Kilometer lang und durchfließt Städte wie Phnom Penh und Kratie. Das Tal ist ein wichtiges landwirtschaftliches Gebiet, in dem Reis, Mais und Gemüse angebaut werden. Die Überschwemmungszonen sind reich an Fischen. Der Mekong beherbergt den seltenen Irrawaddy-Delfin. Das Tal ist dicht besiedelt und kulturell bedeutsam. Die Breite des Tals variiert zwischen 5 und 50 Kilometern.",
+      hu: "A Mekong-völgy Kambodzsa gerincét alkotja, a folyó országon belüli hossza 500 km. A völgy termékeny talaja lehetővé teszi a rizs- és gyümölcstermesztést. A folyó mentén számos történelmi város található, mint Phnom Penh és Kampong Cham. A völgyben él a legtöbb kambodzsai lakos. A halászat fontos gazdasági ág. A folyó éves áradása termékeny iszapot hagy maga után. Az Irrawaddy delfin egyik utolsó populációja itt él. A turizmus a vízi tevékenységekre összpontosít.",
+      ro: "Valea Mekongului traversează Cambodgia pe o lungime de 500 km, de la granița cu Laos până în Delta Mekongului în Vietnam. Este principala arteră de transport și agricultură. Câmpiile aluvionare sunt extrem de fertile, producând orez și fructe. Orașe importante precum Phnom Penh și Kratie se află pe maluri. Valea găzduiește delfinul Irrawaddy, o specie amenințată. Pescuitul este intens. Inundațiile anuale aduc sedimente bogate. Turismul fluvial este în dezvoltare.",
+      en: "The Mekong Valley in Cambodia forms a 500 km corridor from the north to the southern delta. The river's fertile floodplains support intensive rice cultivation and rich fisheries. Major cities like Phnom Penh and Kratie line its banks. The valley is the most populous region, hosting over 80% of Cambodia's population. The Mekong is home to the critically endangered Irrawaddy dolphin. Seasonal floods deposit nutrient-rich silt, enabling multiple harvests annually. The valley's cultural heritage includes ancient temples and floating villages.",
+    },
+    factsAdvanced: {
+      de: ["Der Mekong in Kambodscha ist 500 km lang.", "Das Tal beheimatet über 80 % der Landesbevölkerung.", "Wichtiger Lebensraum für den Irrawaddy-Delfin.", "Die jährliche Reisproduktion im Tal beträgt mehrere Millionen Tonnen.", "Die Breite des Tals variiert zwischen 5 und 50 km.", "Phnom Penh liegt an der Mündung des Tonle Sap in den Mekong."],
+      hu: ["A Mekong hossza Kambodzsában 500 km.", "A lakosság 80%-a a völgyben él.", "Az Irrawaddy delfin fontos élőhelye.", "Az éves rizstermelés több millió tonna.", "A völgy szélessége 5-50 km.", "Phnom Penh a Tonle Sap torkolatánál fekszik."],
+      ro: ["Lungimea Mekongului în Cambodgia: 500 km.", "Peste 80% din populație trăiește în vale.", "Habitat pentru delfinul Irrawaddy.", "Producția anuală de orez: milioane de tone.", "Lățimea văii: 5-50 km.", "Phnom Penh la confluența cu Tonle Sap."],
+      en: ["Mekong length in Cambodia: 500 km.", "Over 80% of population in the valley.", "Irrawaddy dolphin habitat.", "Annual rice production: millions of tonnes.", "Valley width: 5-50 km.", "Phnom Penh at Tonle Sap confluence."],
+    },
   },
   {
     id: "phnom-samkos-relief-v2",
     type: "mountain",
     parent: "KH-15",
     coords: [103.0333, 12.1500],
-    name: { de: "Phnom Samkos", hu: "Phnom Samkos", ro: "Phnom Samkos", en: "Phnom Samkos",
-image: "/poi-images/phnom-samkos-relief-v2.webp"
-},
+    name: { de: "Phnom Samkos", hu: "Phnom Samkos", ro: "Phnom Samkos", en: "Phnom Samkos"},
+    image: "/poi-images/phnom-samkos-relief-v2.webp",
     description: { de: "Der zweithöchste Berg Kambodschas, gelegen im westlichen Teil der Kardamomberge.", hu: "Kambodzsa második legmagasabb hegye, a Kardamom-hegység nyugati részén fekszik.", ro: "Al doilea cel mai înalt munte din Cambodgia, situat în partea de vest a Munților Cardamom.", en: "The second highest mountain in Cambodia, located in the western part of the Cardamom Mountains." },
     facts: {
       de: ["Erreicht eine Höhe von 1717 Metern.", "Ein wichtiger Hotspot für die Artenvielfalt."],
       hu: ["Magassága eléri az 1717 métert.", "Fontos biológiai sokféleség központ."],
       ro: ["Atinge o înălțime de 1717 metri.", "Un hotspot important pentru biodiversitate."],
       en: ["Reaches an elevation of 1717 meters.", "An important biodiversity hotspot."]
-    }, image: "/poi-images/phnom-samkos-relief-v2.webp"},
+    }, image: "/poi-images/phnom-samkos-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Phnom Samkos (1.717 m) ist der dritthöchste Berg Kambodschas und liegt im Cardamom-Gebirge. Der Berg ist aus Sandstein und Granit aufgebaut. Seine Hänge sind von dichten Regenwäldern bedeckt, die in höheren Lagen in Nebelwald übergehen. Die Region ist reich an endemischen Pflanzenarten. Der Berg ist ein wichtiger Wasserspeicher. Wegen seiner Abgeschiedenheit ist er schwer zugänglich. Forschungsexpeditionen haben hier neue Orchideenarten entdeckt. Der Schutzstatus besteht seit 2010. Die Tierwelt umfasst Elefanten und Gibbons.",
+      hu: "A Phnom Samkos (1.717 m) Kambodzsa harmadik legmagasabb hegye, a Cardamom-hegységben. Geológiailag homokkőből és gránitból áll. A hegyet esőerdő borítja, a magasabb részeken köderdővel. Számos endemikus növényfaj otthona, főleg orchideák. A terület vízgyűjtő szerepet tölt be. Nehezen megközelíthető. 2010-ben védetté nyilvánították. Faunájában megtalálható az ázsiai elefánt és a gibbon. A hegy a helyi közösségek számára szent hely.",
+      ro: "Phnom Samkos (1.717 m) este al treilea munte ca înălțime din Cambodgia, parte a Munților Cardamom. Format din gresie și granit. Pădurile tropicale dense acoperă versanții, iar la altitudine apare pădurea de ceață. Este un centru de endemism pentru plante, cu multe orhidee. A fost declarat arie protejată în 2010. Fauna include elefanți, giboni și urși. Accesul dificil a păstrat sălbăticia. Cercetătorii au descoperit specii noi de broaște.",
+      en: "Phnom Samkos (1,717 m) is Cambodia's third highest peak, located in the Cardamom Mountains. Composed of sandstone and granite, its slopes are cloaked in pristine rainforest and cloud forest at higher elevations. The mountain is a biodiversity hotspot with many endemic orchids. It serves as a critical watershed for regional rivers. Protected since 2010, the area remains largely unexplored. Wildlife includes Asian elephants, gibbons, and sun bears. Recent surveys have documented several new amphibian species.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.717 Meter (dritthöchster Berg).", "Gestein: Sandstein und Granit.", "Schutzstatus seit 2010.", "Endemische Orchideenarten.", "Lebensraum für Sun Bear (Malaiischer Bär).", "Wichtiges Wassereinzugsgebiet."],
+      hu: ["Magasság: 1.717 m (harmadik legmagasabb).", "Homokkő és gránit.", "2010 óta védett.", "Endemikus orchideák.", "Napmedve élőhelye.", "Vízgyűjtő terület."],
+      ro: ["Altitudine: 1.717 m (al treilea).", "Gresie și granit.", "Protejat din 2010.", "Orhidee endemice.", "Habitat pentru ursul malaiez.", "Bazin de captare."],
+      en: ["Elevation: 1,717 m (third highest).", "Rock: sandstone and granite.", "Protected since 2010.", "Endemic orchids.", "Sun bear habitat.", "Watershed."],
+    },
+  },
   {
     id: "mondulkiri-plateau-relief-v2",
     type: "plateau",
     parent: "KH-11",
     coords: [107.2000, 12.4500],
-    name: { de: "Mondulkiri-Plateau", hu: "Mondulkiri-fennsík", ro: "Platoul Mondulkiri", en: "Mondulkiri Plateau",
-image: "/poi-images/mondulkiri-plateau-relief-v2.webp"
-},
+    name: { de: "Mondulkiri-Plateau", hu: "Mondulkiri-fennsík", ro: "Platoul Mondulkiri", en: "Mondulkiri Plateau"},
+    image: "/poi-images/mondulkiri-plateau-relief-v2.webp",
     description: { de: "Eine hügelige Hochebene im Osten, bekannt für ihre grasbewachsenen Landschaften und Wasserfälle.", hu: "Dombos fennsík keleten, amely füves tájairól és vízeséseiről ismert.", ro: "Un platou deluros în est, cunoscut pentru peisajele sale acoperite de iarbă și cascade.", en: "A hilly plateau in the east, known for its grassy landscapes and waterfalls." },
     facts: {
       de: ["Die Durchschnittstemperatur ist hier kühler als im Rest des Landes.", "Heimat vieler indigener Minderheiten."],
       hu: ["Az átlaghőmérséklet itt hűvösebb, mint az ország többi részén.", "Sok őslakos kisebbség otthona."],
       ro: ["Temperatura medie este mai rece aici decât în restul țării.", "Găzduiește multe minorități indigene."],
       en: ["The average temperature here is cooler than in the rest of the country.", "Home to many indigenous minorities."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Mondulkiri-Plateau liegt im Osten Kambodschas und ist Teil der Annamitischen Kordillere. Es erhebt sich auf 600 bis 900 Meter über dem Meeresspiegel und ist bekannt für seine roten Lateritböden und weiten Hügellandschaften. Die Region ist die Heimat der indigenen Bunong-Gemeinschaft. Hier gibt es mehrere Schutzgebiete, darunter den Keo Seima Wildlife Sanctuary. Das Plateau ist landwirtschaftlich für Kaffee- und Gummibaumplantagen genutzt. Die Durchschnittstemperatur ist mit 25 °C angenehm kühl. Die Regenzeit dauert von Mai bis Oktober.",
+      hu: "A Mondulkiri-fennsík Kambodzsa keleti részén található, magassága 600-900 m. Jellegzetes vörös laterittalaja van. Itt él a bunong nép. A táj dombos, erdős. A Keo Seima Vadvédelmi Terület itt található. A régió híres kávé- és gumiültetvényeiről. Az évi középhőmérséklet 25 °C. Az esős évszak májustól októberig tart. A vízesések, mint a Bou Sra, turistalátványosságok. Az ökoturizmus egyre fontosabb.",
+      ro: "Podisul Mondulkiri, situat în estul Cambodgiei, are altitudini de 600-900 m. Solurile lateritice roșii sunt caracteristice. Populația indigenă Bunong trăiește aici. Peisajul este deluros, cu păduri și plantații de cafea și cauciuc. Sanctuarul Keo Seima se află în apropiere. Temperatura medie anuală este de 25 °C. Sezonul ploios durează din mai până în octombrie. Cascade celebre, cum ar fi Bou Sra, atrag turiști. Ecoturismul este în creștere.",
+      en: "Mondulkiri Plateau in eastern Cambodia ranges from 600 to 900 meters in elevation. It features rolling hills covered in red laterite soils, supporting coffee and rubber plantations. The plateau is home to the Bunong indigenous people and includes protected areas like Keo Seima Wildlife Sanctuary. The climate is cooler than the lowlands, with an average temperature of 25°C. Notable attractions include Bou Sra Waterfall. Deforestation for agriculture is a concern, but conservation efforts are expanding. The plateau's biodiversity includes gibbons and hornbills.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 600-900 Meter über dem Meeresspiegel.", "Rote Lateritböden sind typisch.", "Heimat der indigenen Bunong.", "Bou Sra Wasserfall: 15 Meter Höhe auf zwei Stufen.", "Durchschnittstemperatur: 25 °C.", "Kaffeeplantagen bedecken rund 10 % der Fläche."],
+      hu: ["Magasság: 600-900 m.", "Vörös laterittalaj jellemző.", "Bunong nép lakóhelye.", "Bou Sra vízesés: 15 m, két lépcsőben.", "Átlaghőmérséklet: 25 °C.", "A terület 10%-át kávéültetvények borítják."],
+      ro: ["Altitudine: 600-900 m.", "Soluri lateritice roșii.", "Populația Bunong.", "Cascada Bou Sra: 15 m, două trepte.", "Temperatura medie: 25 °C.", "Plantațiile de cafea acoperă 10%."],
+      en: ["Elevation: 600-900 m.", "Red laterite soils.", "Home to Bunong people.", "Bou Sra Waterfall: 15 m (two tiers).", "Average temperature: 25°C.", "Coffee plantations cover 10% of area."],
+    },
   },
   {
     id: "ratanakiri-plateau-relief-v2",
     type: "plateau",
     parent: "KH-16",
     coords: [106.9833, 13.7333],
-    name: { de: "Ratanakiri-Plateau", hu: "Ratanakiri-fennsík", ro: "Platoul Ratanakiri", en: "Ratanakiri Plateau",
-image: "/poi-images/ratanakiri-plateau-relief-v2.webp"
-},
+    name: { de: "Ratanakiri-Plateau", hu: "Ratanakiri-fennsík", ro: "Platoul Ratanakiri", en: "Ratanakiri Plateau"},
+    image: "/poi-images/ratanakiri-plateau-relief-v2.webp",
     description: { de: "Ein von roter Erde und dichten Wäldern geprägtes Hochlandgebiet im Nordosten.", hu: "Vörös földdel és sűrű erdőkkel borított felvidéki terület északkeleten.", ro: "O zonă de munte înalt caracterizată de sol roșu și păduri dese în nord-est.", en: "A highland area characterized by red earth and dense forests in the northeast." },
     facts: {
       de: ["Beherbergt den vulkanischen Yeak Laom Kratersee.", "Reich an natürlichen Ressourcen."],
       hu: ["Itt található a vulkanikus Yeak Laom krátertó.", "Gazdag természeti erőforrásokban."],
       ro: ["Găzduiește lacul vulcanic din craterul Yeak Laom.", "Bogată în resurse naturale."],
       en: ["Home to the volcanic Yeak Laom crater lake.", "Rich in natural resources."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Das Ratanakiri-Plateau liegt im äußersten Nordosten Kambodschas und ist Teil der Annamitischen Kordillere. Es hat eine durchschnittliche Höhe von 500 bis 800 Metern und ist vulkanischen Ursprungs, was zu einer ungewöhnlich fruchtbaren roten Erde führt. Die Region ist bekannt für Edelsteinvorkommen (Rubine, Saphire) und tropische Wälder. Die indigene Bevölkerung besteht aus den Kreung, Tampuan und Jarai. Der Yak-Lom-Kratersee ist eine beliebte Attraktion. Die Wirtschaft basiert auf Landwirtschaft, Bergbau und Ökotourismus.",
+      hu: "A Ratanakiri-fennsík Kambodzsa északkeleti csücskében található, 500-800 m magas. Vulkáni talaja vörös színű. Híres drágaköveiről (rubin, zafír) és sűrű erdeiről. Itt élnek a Kreung, Tampuan és Jarai népek. A Yak Lom-tó vulkáni kráterben képződött. A mezőgazdaságban rizst, kukoricát és kesudiót termesztenek. A bányászat jelentős, de környezeti kihívásokkal jár. Az ökoturizmus fejlődik. A vadság és a kulturális sokszínűség vonzza a látogatókat.",
+      ro: "Podisul Ratanakiri, în nord-estul Cambodgiei, are o altitudine medie de 500-800 m. Solul vulcanic roșu este fertil. Este cunoscut pentru pietre prețioase (rubine, safire) și păduri tropicale. Populația indigenă include Kreung, Tampuan și Jarai. Lacul Yak Lom este un crater vulcanic plin cu apă, adânc de 45 m. Activitățile economice includ agricultura (orez, caju), mineritul și ecoturismul. Biodiversitatea este ridicată, cu elefanți și giboni.",
+      en: "Ratanakiri Plateau, in northeastern Cambodia, rises 500-800 meters. Its volcanic red soils are rich in minerals, including rubies and sapphires. The region is forested and home to indigenous Kreung, Tampuan, and Jarai communities. Yak Lom Lake, a volcanic crater lake, is a scenic spot. The economy relies on agriculture, gem mining, and ecotourism. Biodiversity is high, with Asian elephants and gibbons. Deforestation for mining and agriculture poses environmental challenges.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 500-800 Meter durchschnittlich.", "Vulkanische rote Böden.", "Bekannt für Rubin- und Saphirvorkommen.", "Yak-Lom-See: 45 Meter tief, vulkanischer Krater.", "Bevölkerung: indigene Gruppen Kreung, Tampuan, Jarai.", "Anbau von Cashewnüssen auf 15 % der landwirtschaftlichen Fläche."],
+      hu: ["Magasság: 500-800 m.", "Vulkáni vörös talaj.", "Rubin- és zafírlelőhelyek.", "Yak Lom-tó: 45 m mély vulkáni kráter.", "Kreung, Tampuan, Jarai népek.", "A kasumandula a termőterület 15%-át teszi ki."],
+      ro: ["Altitudine: 500-800 m.", "Soluri vulcanice roșii.", "Zăcăminte de rubine și safire.", "Lacul Yak Lom: 45 m adâncime, crater vulcanic.", "Grupuri indigene: Kreung, Tampuan, Jarai.", "Caju cultivat pe 15% din terenul agricol."],
+      en: ["Elevation: 500-800 m.", "Volcanic red soils.", "Ruby and sapphire deposits.", "Yak Lom Lake: 45 m deep volcanic crater.", "Indigenous groups: Kreung, Tampuan, Jarai.", "Cashew cultivation on 15% of farmland."],
+    },
   },
   {
     id: "virachey-mountains-relief-v2",
     type: "mountain",
     parent: "KH-16",
     coords: [106.5833, 14.1833],
-    name: { de: "Virachey-Berge", hu: "Virachey-hegység", ro: "Munții Virachey", en: "Virachey Mountains",
-image: "/poi-images/virachey-mountains-relief-v2.webp"
-},
+    name: { de: "Virachey-Berge", hu: "Virachey-hegység", ro: "Munții Virachey", en: "Virachey Mountains"},
+    image: "/poi-images/virachey-mountains-relief-v2.webp",
     description: { de: "Eine unzugängliche Bergregion an der Grenze zu Laos und Vietnam.", hu: "Nehezen megközelíthető hegyvidéki régió a laoszi és vietnámi határ mentén.", ro: "O regiune muntoasă inaccesibilă la granița cu Laos și Vietnam.", en: "An inaccessible mountain region on the border with Laos and Vietnam." },
     facts: {
       de: ["Teil des riesigen Virachey-Nationalparks.", "Viele Gebiete sind noch immer unerforscht."],
       hu: ["A hatalmas Virachey Nemzeti Park része.", "Számos területe még mindig feltáratlan."],
       ro: ["Face parte din uriașul Parc Național Virachey.", "Multe zone sunt încă neexplorate."],
       en: ["Part of the vast Virachey National Park.", "Many areas are still unexplored."]
-    }, image: "/poi-images/virachey-mountains-relief-v2.webp"},
+    }, image: "/poi-images/virachey-mountains-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Das Virachey-Gebirge im Nordosten Kambodschas erstreckt sich über eine Fläche von etwa 3.325 km² und ist Teil des Virachey-Nationalparks, einem der größten Schutzgebiete des Landes. Die Höhenlagen variieren zwischen 150 und 1.500 Metern, wobei der höchste Gipfel der Phnom Virachey mit 1.513 Metern ist. Die Region ist bekannt für ihre abgeschiedenen Regenwälder, die Heimat seltener Tierarten wie des Indochinesischen Tigers und des Asiatischen Elefanten sind. Geologisch besteht das Gebirge aus Sandstein und Basaltformationen aus dem Mesozoikum. Die jährliche Niederschlagsmenge erreicht bis zu 5.000 mm, was zu einer dichten Vegetation führt. Ethnische Minderheiten wie die Brao und Kreung bewohnen die Randgebiete und praktizieren traditionelle Landwirtschaft.",
+      hu: "A Virachey-hegység Kambodzsa északkeleti részén található, a Virachey Nemzeti Park része, amely az ország egyik legnagyobb védett területe, mintegy 3 325 km² kiterjedéssel. A terület geológiai felépítése változatos: homokkő, bazalt és vulkáni kőzetek alkotják, amelyek a mezozoikumból és a kainozoikumból származnak. A hegység legmagasabb pontja a Phnom Virachey (1 513 m). Az itt élő őslakos népek, mint a Brao és a Kreung, évszázadok óta fenntartható módon használják az erdőket. A park fontos szerepet játszik a vízgyűjtő területek védelmében, mivel számos folyó forrása itt található, beleértve a Szekongot és a Szeszant. Az éves csapadékmennyiség meghaladja a 4 000 mm-t, ami trópusi esőerdőt táplál. A biodiverzitás kiemelkedő: több mint 60 emlősfaj és 500 madárfaj él itt.",
+      ro: "Munții Virachey din nord-estul Cambodgiei fac parte din Parcul Național Virachey, una dintre cele mai mari arii protejate din țară, cu o suprafață de aproximativ 3.325 km². Altitudinile variază între 150 și 1.500 de metri, cel mai înalt vârf fiind Phnom Virachey (1.513 m). Geologic, munții sunt formați din gresie, bazalt și roci vulcanice din Mezozoic și Cenozoic. Regiunea găzduiește specii rare precum tigrul indochinez și elefantul asiatic. Pădurile tropicale dense beneficiază de precipitații anuale de până la 5.000 mm. Comunitățile indigene Brao și Kreung practică agricultura prin tăiere și ardere. Parcul este o sursă importantă de apă pentru râurile Sekong și Ses san. Biodiversitatea include peste 60 de specii de mamifere și 500 de păsări.",
+      en: "The Virachey Mountains in northeastern Cambodia form the core of Virachey National Park, the country's largest protected area at 3,325 km². The range features elevations from 150 to 1,513 meters, with Phnom Virachey as the highest peak. Geologically, the mountains comprise Mesozoic sandstone and basalt formations. The region receives 4,000–5,000 mm of rainfall annually, sustaining dense tropical rainforests. It is home to endangered species such as the Indochinese tiger and Asian elephant. Indigenous Brao and Kreung communities inhabit the periphery, practicing swidden agriculture. The park serves as a crucial watershed for the Mekong tributaries Sekong and Sesan. Over 60 mammal and 500 bird species have been recorded.",
+    },
+    factsAdvanced: {
+      de: ["Fläche: 3.325 km²", "Höchster Gipfel: Phnom Virachey (1.513 m)", "Jährlicher Niederschlag: bis zu 5.000 mm", "Anzahl Säugetierarten: über 60", "Anzahl Vogelarten: über 500", "Gründungsjahr des Nationalparks: 1993"],
+      hu: ["Terület: 3 325 km²", "Legmagasabb pont: Phnom Virachey (1 513 m)", "Éves csapadék: 4 000–5 000 mm", "Emlősfajok száma: több mint 60", "Madárfajok száma: több mint 500", "Nemzeti park alapításának éve: 1993"],
+      ro: ["Suprafață: 3.325 km²", "Altitudine maximă: Phnom Virachey (1.513 m)", "Precipitații anuale: până la 5.000 mm", "Specii de mamifere: peste 60", "Specii de păsări: peste 500", "Anul înființării parcului: 1993"],
+      en: ["Area: 3,325 km²", "Highest peak: Phnom Virachey (1,513 m)", "Annual rainfall: up to 5,000 mm", "Mammal species: over 60", "Bird species: over 500", "Park established: 1993"],
+    },
+  },
   {
     id: "phnom-santuk-relief-v2",
     type: "mountain",
     parent: "KH-06",
     coords: [105.0000, 12.7167],
-    name: { de: "Phnom Santuk", hu: "Phnom Santuk", ro: "Phnom Santuk", en: "Phnom Santuk",
-image: "/poi-images/phnom-santuk-relief-v2.webp"
-},
+    name: { de: "Phnom Santuk", hu: "Phnom Santuk", ro: "Phnom Santuk", en: "Phnom Santuk"},
+    image: "/poi-images/phnom-santuk-relief-v2.webp",
     description: { de: "Ein bewaldeter Hügel, der eine bedeutende religiöse Stätte in Zentralkambodscha darstellt.", hu: "Erdős domb, amely jelentős vallási helyszín Közép-Kambodzsában.", ro: "Un deal împădurit care reprezintă un sit religios important în centrul Cambodgiei.", en: "A wooded hill that represents a significant religious site in central Cambodia." },
     facts: {
       de: ["Über 800 Stufen führen zum Gipfel.", "Berühmt für seine liegenden Buddha-Statuen."],
       hu: ["Több mint 800 lépcsőfok vezet a csúcsra.", "Híres fekvő Buddha szobrairól."],
       ro: ["Peste 800 de trepte duc spre vârf.", "Faimos pentru statuile lui Buddha culcat."],
       en: ["Over 800 steps lead to the summit.", "Famous for its reclining Buddha statues."]
-    }, image: "/poi-images/phnom-santuk-relief-v2.webp"},
+    }, image: "/poi-images/phnom-santuk-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Phnom Santuk ist ein Hügel in der Provinz Kampong Thom, Kambodscha, der sich etwa 150 Meter über die umliegende Ebene erhebt. Bekannt ist er für die prächtige Buddha-Statue, die 2010 errichtet wurde und 27 Meter hoch ist. Der Hügel dient als wichtiger Pilgerort für Buddhisten, die die 809 Stufen zur Spitze erklimmen. Historisch war Phnom Santuk ein strategischer Aussichtspunkt während der Angkor-Periode. Archäologische Funde belegen Siedlungsspuren aus dem 7. Jahrhundert. Die umliegenden Reisfelder und Palmenhaine prägen die landwirtschaftlich genutzte Region. Der Hügel besteht hauptsächlich aus Sandstein und Laterit. Jährlich besuchen etwa 200.000 Pilger und Touristen den Ort.",
+      hu: "A Phnom Santuk egy domb Kambodzsa Kampong Thom tartományában, amely mintegy 150 méterrel emelkedik a környező síkság fölé. A helyszín híres a 2010-ben felállított 27 méteres Buddha-szoborról, amely Délkelet-Ázsia egyik legnagyobb ilyen alkotása. A domb tetejére 809 lépcsőfok vezet, és a zarándokok gyakran felmásznak, hogy részt vegyenek a vallási szertartásokon. A környék régészeti leletei között vannak Angkor-kori kerámiák és szentélymaradványok. A domb geológiai alapja homokkő és laterit. A terület mezőgazdaságát a rizstermesztés és a pálmaültetvények jellemzik. Évente hozzávetőlegesen 200 000 látogató érkezik.",
+      ro: "Phnom Santuk este un deal din provincia Kampong Thom, Cambodgia, cu o înălțime de aproximativ 150 de metri deasupra câmpiei. Este renumit pentru statuia Buddha de 27 de metri, construită în 2010. Dealul are 809 de trepte pe care pelerinii le urcă pentru a se închina. Situl a fost folosit ca punct de observație în perioada Angkor. Săpăturile arheologice au scos la lumină artefacte din secolul al VII-lea. Formațiunile geologice includ gresie și laterit. Zona este înconjurată de orezării și plantații de palmieri. Atrage anual aproximativ 200.000 de vizitatori.",
+      en: "Phnom Santuk is a hill in Kampong Thom province, Cambodia, rising 150 meters above the plains. It features a 27-meter Buddha statue erected in 2010, reachable by 809 steps. The site served as a strategic lookout during the Angkor period. Archaeological excavations have uncovered 7th-century artifacts. The hill is composed of sandstone and laterite. Surrounding agriculture includes rice paddies and palm groves. Approximately 200,000 pilgrims and tourists visit annually.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 150 m über der Ebene", "Buddha-Statue Höhe: 27 m", "Anzahl Stufen: 809", "Baujahr der Statue: 2010", "Jährliche Besucher: ca. 200.000", "Früheste Siedlungsspuren: 7. Jahrhundert"],
+      hu: ["Magasság: 150 m a síkság felett", "Buddha-szobor magassága: 27 m", "Lépcsők száma: 809", "Szobor építésének éve: 2010", "Éves látogatók száma: kb. 200 000", "Legkorábbi településnyomok: 7. század"],
+      ro: ["Înălțimea dealului: 150 m deasupra câmpiei", "Înălțimea statuii Buddha: 27 m", "Număr de trepte: 809", "Anul construcției statuii: 2010", "Vizitatori anual: cca. 200.000", "Vestigii arheologice: secolul al VII-lea"],
+      en: ["Height: 150 m above plains", "Buddha statue height: 27 m", "Number of steps: 809", "Year statue built: 2010", "Annual visitors: approx. 200,000", "Earliest settlement traces: 7th century"],
+    },
+  },
   {
     id: "bokor-mountain-relief-v2",
     type: "mountain",
     parent: "KH-07",
     coords: [104.0167, 10.6167],
-    name: { de: "Bokor-Berg", hu: "Bokor-hegy", ro: "Muntele Bokor", en: "Bokor Mountain",
-image: "/poi-images/bokor-mountain-relief-v2.webp"
-},
+    name: { de: "Bokor-Berg", hu: "Bokor-hegy", ro: "Muntele Bokor", en: "Bokor Mountain"},
+    image: "/poi-images/bokor-mountain-relief-v2.webp",
     description: { de: "Ein prominenter Berg in den Elefantenbergen, bekannt für seine kühle Luft und historische Ruinen.", hu: "Az Elefánt-hegység kiemelkedő hegye, amely hűvös levegőjéről és történelmi romjairól ismert.", ro: "Un munte proeminent din Munții Elefant, cunoscut pentru aerul său rece și ruinele istorice.", en: "A prominent mountain in the Elephant Mountains, known for its cool air and historical ruins." },
     facts: {
       de: ["Erreicht eine Höhe von 1081 Metern.", "Einst ein luxuriöser französischer Rückzugsort in den 1920er Jahren."],
       hu: ["Magassága eléri az 1081 métert.", "Egykor luxus francia menedékhely volt az 1920-as években."],
       ro: ["Atinge o înălțime de 1081 metri.", "Cândva o destinație de lux pentru francezi în anii 1920."],
       en: ["Reaches an elevation of 1081 meters.", "Once a luxurious French retreat in the 1920s."]
-    }, image: "/poi-images/bokor-mountain-relief-v2.webp"},
+    }, image: "/poi-images/bokor-mountain-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Der Bokor Mountain in der Provinz Kampot, Kambodscha, ist ein 1.081 Meter hoher Gipfel des Damrei-Gebirges. Er war ein beliebter Rückzugsort für die französische Kolonialverwaltung, die hier 1921 eine Bergstation errichtete. Heute sind die verfallenen Gebäude eine Touristenattraktion. Das Plateau ist von immergrünen Nebelwäldern bedeckt, in denen Gibbons und Hornvögel leben. Der Bokor-Nationalpark wurde 1993 ausgewiesen und umfasst 1.580 km². Die jährliche Durchschnittstemperatur beträgt 20 °C, deutlich kühler als das Tiefland. In den 2010er Jahren entstanden ein Casino und ein Hotel, die jedoch teils wieder aufgegeben wurden. Der Berg bietet einen weiten Blick auf den Golf von Thailand.",
+      hu: "A Bokor-hegy Kambodzsa Kampot tartományában található, a Damrei-hegység része, 1 081 méteres magassággal. A francia gyarmati időkben (1921-ben) üdülőhelyet építettek itt, melynek romjai ma is láthatók. A környező erdők ködös örökzöld erdők, élővilágukban gibbonok és szarvascsőrű madarak találhatók. A Bokor Nemzeti Parkot 1993-ban hozták létre, területe 1 580 km². Az átlaghőmérséklet 20 °C, ami hűvösebb a síkságnál. A 2010-es években kaszinó és szálloda épült, de részben elhagyták. A hegyről kilátás nyílik a Thai-öbölre.",
+      ro: "Muntele Bokor din provincia Kampot, Cambodgia, face parte din Munții Damrei, cu o altitudine de 1.081 m. A fost o stațiune montană colonială franceză construită în 1921, ale cărei ruine sunt acum atracții turistice. Pădurile de ceață veșnic verzi adăpostesc giboni și păsări rinocer. Parcul Național Bokor, înființat în 1993, acoperă 1.580 km². Temperatura medie anuală este de 20°C. În anii 2010, au fost construite un cazinou și un hotel, parțial abandonate. Muntele oferă o vedere panoramică asupra Golfului Thailandei.",
+      en: "Bokor Mountain in Kampot province, Cambodia, is a 1,081-meter peak in the Damrei Mountains. It features a former French hill station established in 1921, now in ruins. The surrounding evergreen cloud forests host gibbons and hornbills. Bokor National Park, established in 1993, covers 1,580 km². The average annual temperature is 20°C. A casino and hotel built in the 2010s have been partially abandoned. The summit provides panoramic views of the Gulf of Thailand.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 1.081 m", "Gründung der Bergstation: 1921", "Nationalpark gegründet: 1993", "Nationalparkfläche: 1.580 km²", "Durchschnittstemperatur: 20 °C", "Bau des Casinos: 2012"],
+      hu: ["Magasság: 1 081 m", "Üdülőhely építése: 1921", "Nemzeti park alapítása: 1993", "Nemzeti park területe: 1 580 km²", "Átlaghőmérséklet: 20 °C", "Kaszinó építése: 2012"],
+      ro: ["Altitudine: 1.081 m", "Construcția stațiunii: 1921", "Înființarea parcului național: 1993", "Suprafața parcului: 1.580 km²", "Temperatura medie: 20°C", "Construcția cazinoului: 2012"],
+      en: ["Height: 1,081 m", "Hill station founded: 1921", "National park established: 1993", "Park area: 1,580 km²", "Average temperature: 20°C", "Casino construction: 2012"],
+    },
+  },
   {
     id: "koh-kong-coast-relief-v2",
     type: "coast",
     parent: "KH-09",
     coords: [103.0000, 11.6167],
-    name: { de: "Küste von Koh Kong", hu: "Koh Kong partvidéke", ro: "Coasta Koh Kong", en: "Koh Kong Coast",
-image: "/poi-images/koh-kong-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Koh Kong", hu: "Koh Kong partvidéke", ro: "Coasta Koh Kong", en: "Koh Kong Coast"},
+    image: "/poi-images/koh-kong-coast-relief-v2.webp",
     description: { de: "Ein rauer und abgelegener Küstenabschnitt im Westen, reich an Mangroven und Inseln.", hu: "Vad és távoli partvidék nyugaton, amely gazdag mangrovékban és szigetekben.", ro: "O secțiune de coastă aspră și izolată în vest, bogată în mangrove și insule.", en: "A rugged and remote coastal stretch in the west, rich in mangroves and islands." },
     facts: {
       de: ["Besitzt einige der größten zusammenhängenden Mangrovenwälder Asiens.", "Wenig touristisch erschlossen im Vergleich zu anderen Regionen."],
       hu: ["Ázsia egyik legnagyobb egybefüggő mangroveerdejével rendelkezik.", "Más régiókhoz képest kevésbé turisztikai célpont."],
       ro: ["Deține unele dintre cele mai mari păduri de mangrove continue din Asia.", "Mai puțin dezvoltată turistic în comparație cu alte regiuni."],
       en: ["Possesses some of the largest continuous mangrove forests in Asia.", "Less touristically developed compared to other regions."]
-    }, image: "/poi-images/koh-kong-coast-relief-v2.webp"},
+    }, image: "/poi-images/koh-kong-coast-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Die Küste von Koh Kong erstreckt sich über etwa 100 km entlang des Golfs von Thailand im Südwesten Kambodschas. Sie ist geprägt von Mangrovenwäldern, die eine wichtige Rolle im Küstenschutz spielen. Die Region umfasst den Koh Kong Nationalpark, der 1993 ausgewiesen wurde und eine Fläche von 1.176 km² bedeckt. Die Küstenlinie besteht aus Sandstränden und felsigen Abschnitten. Der Fluss Tatai mündet hier ins Meer und bildet einen Ästuar. Die Gezeitenamplitude beträgt bis zu 3 Meter. Die Wassertemperatur liegt ganzjährig zwischen 26 und 30 °C. Fischerei und Tourismus sind die Haupterwerbszweige. Die Stadt Koh Kong ist das wirtschaftliche Zentrum.",
+      hu: "Koh Kong partvidéke Kambodzsa délnyugati részén, a Thai-öböl mentén húzódik mintegy 100 km hosszan. Jellemzői a mangroveerdők, amelyek védik a partot. A Koh Kong Nemzeti Parkot 1993-ban hozták létre, területe 1 176 km². A partvonal homokos és sziklás szakaszokból áll. A Tatai folyó itt ömlik a tengerbe, torkolati környezetet alkotva. Az árapály mértéke elérheti a 3 métert. A vízhőmérséklet 26-30 °C között mozog. A fő gazdasági ágak a halászat és a turizmus. Koh Kong városa a régió központja.",
+      ro: "Coasta Koh Kong se întinde pe aproximativ 100 km de-a lungul Golfului Thailandei, în sud-vestul Cambodgiei. Este caracterizată de păduri de mangrove care protejează țărmul. Parcul Național Koh Kong, înființat în 1993, acoperă 1.176 km². Linia țărmului include plaje nisipoase și zone stâncoase. Râul Tatai se varsă aici, formând un estuar. Diferența de maree atinge 3 metri. Temperatura apei variază între 26 și 30°C. Pescuitul și turismul sunt principalele activități economice. Orașul Koh Kong este centrul regional.",
+      en: "Koh Kong Coast stretches about 100 km along the Gulf of Thailand in southwestern Cambodia. It features extensive mangrove forests crucial for coastal protection. Koh Kong National Park, established in 1993, covers 1,176 km². The coastline consists of sandy beaches and rocky outcrops. The Tatai River forms an estuary here. Tidal range reaches up to 3 meters. Water temperatures range from 26 to 30°C year-round. Fishing and tourism are the main economic activities. Koh Kong town serves as the regional hub.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: ca. 100 km", "Nationalpark gegründet: 1993", "Nationalparkfläche: 1.176 km²", "Gezeitenamplitude: bis 3 m", "Wassertemperatur: 26–30 °C", "Hauptstadt: Koh Kong"],
+      hu: ["Partvonal hossza: kb. 100 km", "Nemzeti park alapítása: 1993", "Nemzeti park területe: 1 176 km²", "Árapály mértéke: 3 m-ig", "Vízhőmérséklet: 26–30 °C", "Központi város: Koh Kong"],
+      ro: ["Lungimea coastei: aprox. 100 km", "Înființarea parcului național: 1993", "Suprafața parcului: 1.176 km²", "Amplitudinea mareelor: până la 3 m", "Temperatura apei: 26–30°C", "Oraș principal: Koh Kong"],
+      en: ["Coast length: approx. 100 km", "National park established: 1993", "Park area: 1,176 km²", "Tidal range: up to 3 m", "Water temperature: 26–30°C", "Main town: Koh Kong"],
+    },
+  },
   {
     id: "kampot-coast-relief-v2",
     type: "coast",
     parent: "KH-07",
     coords: [104.1833, 10.5833],
-    name: { de: "Küste von Kampot", hu: "Kampot partvidéke", ro: "Coasta Kampot", en: "Kampot Coast",
-image: "/poi-images/kampot-coast-relief-v2.webp"
-},
+    name: { de: "Küste von Kampot", hu: "Kampot partvidéke", ro: "Coasta Kampot", en: "Kampot Coast"},
+    image: "/poi-images/kampot-coast-relief-v2.webp",
     description: { de: "Eine friedliche Küstenlinie nahe der Mündung des Teuk Chhou Flusses, geprägt von Salzfeldern.", hu: "Békés partvonal a Teuk Chhou folyó torkolata közelében, amelyet sóföldek jellemeznek.", ro: "O linie de coastă pașnică aproape de gura râului Teuk Chhou, caracterizată de câmpuri de sare.", en: "A peaceful coastline near the mouth of the Teuk Chhou river, characterized by salt fields." },
     facts: {
       de: ["Die Salzproduktion ist hier ein wichtiger Wirtschaftszweig.", "Bietet spektakuläre Ausblicke auf den Sonnenuntergang am Meer."],
       hu: ["A sótermelés fontos gazdasági ágazat itt.", "Látványos tengeri naplementéket kínál."],
       ro: ["Producția de sare este o industrie importantă aici.", "Oferă priveliști spectaculoase ale apusului de soare pe mare."],
       en: ["Salt production is an important industry here.", "Offers spectacular sunset views over the sea."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Küste von Kampot liegt im Süden Kambodschas am Golf von Thailand und erstreckt sich über etwa 80 km. Sie ist bekannt für ihre ruhigen Strände und den Bokor-Nationalpark im Hinterland. Der Fluss Kampot mündet hier ins Meer und schafft ein fruchtbares Delta. Die Küste ist von Kasuarinenbäumen gesäumt. Die Region ist ein Zentrum des Pfefferanbaus; Kampot-Pfeffer ist eine geschützte Ursprungsbezeichnung. Die Gezeiten beeinflussen die Flussmündungen. Wichtige Siedlungen sind Kampot Stadt und Kep. Der Tourismus konzentriert sich auf Strandurlaub und Ökotourismus. Das Klima ist tropisch mit einer Regenzeit von Mai bis Oktober.",
+      hu: "Kampot partvidéke Kambodzsa déli részén, a Thai-öböl mentén, mintegy 80 km hosszú. Híres csendes strandjairól és a háttérben húzódó Bokor-hegységről. A Kampot folyó itt ömlik a tengerbe, termékeny deltát képezve. A partot kazuárfák szegélyezik. A régió a híres Kampot-i bors termesztésének központja, amely oltalom alatt álló földrajzi jelzés. Az árapály befolyásolja a folyótorkolatokat. Fontos települések Kampot város és Kep. A turizmus a strandolásra és az ökoturizmusra összpontosul. Az éghajlat trópusi, a monszun májustól októberig tart.",
+      ro: "Coasta Kampot se întinde pe aproximativ 80 km în sudul Cambodgiei, de-a lungul Golfului Thailandei. Este cunoscută pentru plajele sale liniștite și Parcul Național Bokor din apropiere. Râul Kampot se varsă aici, formând o deltă fertilă. Țărmul este mărginit de copaci de cazuarina. Regiunea este centrul cultivării piperului Kampot, o denumire de origine protejată. Mareele influențează estuarele. Principalele localități sunt Kampot și Kep. Turismul se concentrează pe plajă și ecoturism. Clima este tropicală, cu sezonul ploios din mai până în octombrie.",
+      en: "Kampot Coast extends about 80 km along the Gulf of Thailand in southern Cambodia. It is known for its tranquil beaches and the Bokor National Park hinterland. The Kampot River creates a fertile delta. The coastline is lined with casuarina trees. The region is a center for Kampot pepper cultivation, a protected geographical indication. Tides impact river mouths. Key towns include Kampot and Kep. Tourism focuses on beach vacations and ecotourism. Climate is tropical, with a rainy season from May to October.",
+    },
+    factsAdvanced: {
+      de: ["Küstenlänge: ca. 80 km", "Hauptstadt: Kampot", "Pfeffer geschützte Ursprungsbezeichnung seit: 2010", "Regenzeit: Mai–Oktober", "Wichtige Siedlungen: Kampot, Kep", "Nationalpark: Bokor"],
+      hu: ["Partvonal hossza: kb. 80 km", "Központi város: Kampot", "Bors oltalom alatt álló földrajzi jelzés: 2010", "Esős évszak: május–október", "Fontos települések: Kampot, Kep", "Nemzeti park: Bokor"],
+      ro: ["Lungimea coastei: cca. 80 km", "Oraș principal: Kampot", "Piper Kampot denumire protejată din: 2010", "Sezon ploios: mai–octombrie", "Localități importante: Kampot, Kep", "Parcul național: Bokor"],
+      en: ["Coast length: approx. 80 km", "Main town: Kampot", "Kampot pepper PGI since: 2010", "Rainy season: May–October", "Major settlements: Kampot, Kep", "National park: Bokor"],
+    },
   },
   {
     id: "phnom-chisor-relief-v2",
     type: "mountain",
     parent: "KH-21",
     coords: [104.7833, 11.1167],
-    name: { de: "Phnom Chisor", hu: "Phnom Chisor", ro: "Phnom Chisor", en: "Phnom Chisor",
-image: "/poi-images/phnom-chisor-relief-v2.webp"
-},
+    name: { de: "Phnom Chisor", hu: "Phnom Chisor", ro: "Phnom Chisor", en: "Phnom Chisor"},
+    image: "/poi-images/phnom-chisor-relief-v2.webp",
     description: { de: "Ein einsamer Berg in der Takeo-Ebene, gekrönt von einem alten Angkor-Tempel.", hu: "Magányos hegy a Takeo-síkságon, amelyet egy ősi angkori templom koronáz.", ro: "Un munte singuratic din câmpia Takeo, încununat de un vechi templu Angkor.", en: "A solitary mountain in the Takeo plain, crowned by an ancient Angkorian temple." },
     facts: {
       de: ["Der Tempel stammt aus dem 11. Jahrhundert.", "Bietet einen weiten Blick über die flache Landschaft."],
       hu: ["A templom a 11. századból származik.", "Széles kilátást nyújt a sík tájra."],
       ro: ["Templul datează din secolul al XI-lea.", "Oferă o vedere largă asupra peisajului plat."],
       en: ["The temple dates back to the 11th century.", "Offers a wide view over the flat landscape."]
-    }, image: "/poi-images/phnom-chisor-relief-v2.webp"},
+    }, image: "/poi-images/phnom-chisor-relief-v2.webp",
+    descriptionAdvanced: {
+      de: "Phnom Chisor ist ein 132 Meter hoher Hügel in der Provinz Takeo, Kambodscha, bekannt für den gleichnamigen Tempel aus dem 11. Jahrhundert. Der Tempel wurde unter König Suryavarman I. erbaut und ist dem Hindu-Gott Vishnu geweiht. Die Anlage besteht aus einem zentralen Heiligtum und mehreren Nebengebäuden, die aus Laterit und Sandstein errichtet wurden. Die Stätte bietet einen Panoramablick über die umliegenden Reisfelder. Archäologische Ausgrabungen haben Inschriften in Khmer und Sanskrit zutage gefördert. Der Hügel ist ein wichtiges religiöses Zentrum für lokale Buddhisten. Jährlich finden hier Feste statt, die tausende Besucher anziehen.",
+      hu: "A Phnom Chisor egy 132 méter magas domb Kambodzsa Takeo tartományában, híres a 11. századi templomáról, amelyet I. Suryavarman király építtetett a hindu Visnu isten tiszteletére. A templom lateritből és homokkőből készült, egy központi szentéllyel és több melléképülettel. A dombról lenyűgöző kilátás nyílik a rizsföldekre. Ásatások során khmer és szanszkrit feliratok kerültek elő. A helyszín fontos buddhista zarándokhely. Évente fesztiválokat tartanak, amelyek több ezer látogatót vonzanak.",
+      ro: "Phnom Chisor este un deal de 132 de metri în provincia Takeo, Cambodgia, renumit pentru templul din secolul al XI-lea construit de regele Suryavarman I, dedicat zeului hindus Vishnu. Templul este construit din laterit și gresie, cu un sanctuar central și clădiri anexe. Dealul oferă o vedere panoramică asupra orezăriilor. Săpăturile arheologice au scos la lumină inscripții în khmeră și sanscrită. Situl este un important loc de pelerinaj budist. Festivalurile anuale atrag mii de vizitatori.",
+      en: "Phnom Chisor is a 132-meter hill in Takeo province, Cambodia, featuring an 11th-century temple built by King Suryavarman I, dedicated to the Hindu god Vishnu. The temple complex is constructed of laterite and sandstone, with a central sanctuary and auxiliary buildings. The hill offers panoramic views of surrounding rice paddies. Excavations have yielded inscriptions in Khmer and Sanskrit. The site is an important Buddhist pilgrimage destination. Annual festivals draw thousands of visitors.",
+    },
+    factsAdvanced: {
+      de: ["Höhe: 132 m", "Erbaut: 11. Jahrhundert (ca. 1020)", "Baumaterial: Laterit und Sandstein", "Gottheit: Vishnu", "König: Suryavarman I.", "Inschriften: Khmer und Sanskrit"],
+      hu: ["Magasság: 132 m", "Építés: 11. század (kb. 1020)", "Építőanyag: laterit és homokkő", "Istenség: Visnu", "Király: I. Suryavarman", "Feliratok: khmer és szanszkrit"],
+      ro: ["Înălțime: 132 m", "Construit: secolul al XI-lea (c. 1020)", "Material: laterit și gresie", "Divinitate: Vishnu", "Rege: Suryavarman I", "Inscripții: khmeră și sanscrită"],
+      en: ["Height: 132 m", "Built: 11th century (c. 1020)", "Construction material: laterite and sandstone", "Deity: Vishnu", "King: Suryavarman I", "Inscriptions: Khmer and Sanskrit"],
+    },
+  },
   {
     id: "botum-sakor-peninsula-relief-v2",
     type: "coast",
     parent: "KH-09",
     coords: [103.2000, 11.0000],
-    name: { de: "Botum-Sakor-Halbinsel", hu: "Botum Sakor-félsziget", ro: "Peninsula Botum Sakor", en: "Botum Sakor Peninsula",
-image: "/poi-images/botum-sakor-peninsula-relief-v2.webp"
-},
+    name: { de: "Botum-Sakor-Halbinsel", hu: "Botum Sakor-félsziget", ro: "Peninsula Botum Sakor", en: "Botum Sakor Peninsula"},
+    image: "/poi-images/botum-sakor-peninsula-relief-v2.webp",
     description: { de: "Eine große Halbinsel, die in den Golf von Thailand ragt und von dichten Wäldern bedeckt ist.", hu: "Nagy félsziget, amely a Thai-öbölbe nyúlik, és sűrű erdők borítják.", ro: "O peninsulă mare care pătrunde în Golful Thailandei, acoperită de păduri dese.", en: "A large peninsula projecting into the Gulf of Thailand, covered by dense forests." },
     facts: {
       de: ["Größtenteils vom Botum-Sakor-Nationalpark geschützt.", "Die Küstenlinie ist von Mangroven und Stränden gesäumt."],
       hu: ["Nagyrészt a Botum Sakor Nemzeti Park védi.", "A partvonalat mangrovék és strandok szegélyezik."],
       ro: ["Protejată în mare parte de Parcul Național Botum Sakor.", "Linia de coastă este mărginită de mangrove și plaje."],
       en: ["Largely protected by the Botum Sakor National Park.", "The coastline is fringed with mangroves and beaches."]
-    }
+    },
+    descriptionAdvanced: {
+      de: "Die Botum-Sakor-Halbinsel liegt an der Südwestküste Kambodschas und trennt den Golf von Thailand vom Landesinneren. Sie ist Teil des Botum-Sakor-Nationalparks, der 1993 eingerichtet wurde und eine Fläche von 1.711 km² umfasst. Die Halbinsel besteht aus hügeligem Gelände und Küstenebenen, bedeckt von tropischen Regenwäldern und Mangroven. Sie ist Lebensraum für bedrohte Arten wie den Sonnenbär und den Schuppentier. Die jährliche Niederschlagsmenge beträgt etwa 3.500 mm. Die Region ist dünn besiedelt, die Hauptwirtschaftszweige sind Fischerei und Tourismus. Der Strand von Koh Sdach ist ein beliebtes Ziel.",
+      hu: "A Botum-Sakor-félsziget Kambodzsa délnyugati partján található, elválasztva a Thai-öblöt a belső területektől. Része a Botum-Sakor Nemzeti Parknak, amelyet 1993-ban hoztak létre, területe 1 711 km². A félsziget dombos és lapos területekből áll, trópusi esőerdőkkel és mangroveerdőkkel borítva. Veszélyeztetett fajok élnek itt, mint a maláj medve és a tobzoska. Az éves csapadékmennyiség kb. 3 500 mm. A régió ritkán lakott, fő gazdasági ágai a halászat és a turizmus. Koh Sdach strandja népszerű célpont.",
+      ro: "Peninsula Botum Sakor se află pe coasta de sud-vest a Cambodgiei, separând Golful Thailandei de interior. Face parte din Parcul Național Botum Sakor, înființat în 1993, cu o suprafață de 1.711 km². Peninsula are teren deluros și câmpii de coastă, acoperite de păduri tropicale umede și mangrove. Adăpostește specii amenințate precum ursul soarelui și pangolinul. Precipitațiile anuale sunt de aproximativ 3.500 mm. Regiunea este slab populată, principalele activități fiind pescuitul și turismul. Plaja Koh Sdach este o destinație populară.",
+      en: "Botum Sakor Peninsula lies on Cambodia's southwest coast, separating the Gulf of Thailand from the interior. It is part of Botum Sakor National Park, established in 1993, covering 1,711 km². The peninsula features hilly terrain and coastal plains, covered by tropical rainforests and mangroves. It hosts endangered species such as the sun bear and pangolin. Annual rainfall is about 3,500 mm. The region is sparsely populated, with fishing and tourism as main economic activities. Koh Sdach beach is a popular destination.",
+    },
+    factsAdvanced: {
+      de: ["Nationalpark gegründet: 1993", "Nationalparkfläche: 1.711 km²", "Jährlicher Niederschlag: 3.500 mm", "Bedrohte Arten: Sonnenbär, Schuppentier", "Hauptstrand: Koh Sdach", "Lage: Südwestküste Kambodschas"],
+      hu: ["Nemzeti park alapítása: 1993", "Nemzeti park területe: 1 711 km²", "Éves csapadék: 3 500 mm", "Veszélyeztetett fajok: maláj medve, tobzoska", "Fő strand: Koh Sdach", "Elhelyezkedés: Kambodzsa délnyugati partja"],
+      ro: ["Înființarea parcului național: 1993", "Suprafața parcului: 1.711 km²", "Precipitații anuale: 3.500 mm", "Specii amenințate: ursul soarelui, pangolinul", "Plaja principală: Koh Sdach", "Amplasare: coasta de sud-vest a Cambodgiei"],
+      en: ["National park established: 1993", "Park area: 1,711 km²", "Annual rainfall: 3,500 mm", "Endangered species: sun bear, pangolin", "Main beach: Koh Sdach", "Location: southwest coast of Cambodia"],
+    },
   }
 ];

@@ -11,9 +11,8 @@ export const poiExtraMalaysiaReliefV2: POI[] = [
       de: "Berg Jerai",
       hu: "Jerai-hegy",
       ro: "Muntele Jerai",
-      en: "Mount Jerai",
-image: "/poi-images/jerai-mountain-kedah-relief-v2.webp"
-},
+      en: "Mount Jerai"},
+    image: "/poi-images/jerai-mountain-kedah-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg in Kedah, der sich dramatisch von den umliegenden Reisfeldern erhebt und historisch als Navigationspunkt für Seefahrer diente.",
       hu: "Egy elszigetelt hegy Kedahban, amely drámaian emelkedik ki a környező rizsföldek közül, és történelmileg navigációs pontként szolgált a tengerészek számára.",
@@ -48,9 +47,8 @@ image: "/poi-images/jerai-mountain-kedah-relief-v2.webp"
       de: "Berg Santubong",
       hu: "Santubong-hegy",
       ro: "Muntele Santubong",
-      en: "Mount Santubong",
-image: "/poi-images/santubong-mountain-sarawak-relief-v2.webp"
-},
+      en: "Mount Santubong"},
+    image: "/poi-images/santubong-mountain-sarawak-relief-v2.webp",
     description: {
       de: "Ein markanter Berg auf einer Halbinsel in der Nähe von Kuching, umgeben von Legenden einer himmlischen Prinzessin.",
       hu: "Egy jellegzetes hegy egy félszigeten Kuching közelében, amelyet egy égi hercegnő legendái öveznek.",
@@ -85,9 +83,8 @@ image: "/poi-images/santubong-mountain-sarawak-relief-v2.webp"
       de: "Harau-Tal",
       hu: "Harau-völgy",
       ro: "Valea Harau",
-      en: "Harau Valley",
-image: "/poi-images/harau-valley-pahang-relief-v2.webp"
-},
+      en: "Harau Valley"},
+    image: "/poi-images/harau-valley-pahang-relief-v2.webp",
     description: {
       de: "Ein malerisches Tal, das von steilen Klippen und üppigem Grün umgeben ist und oft mit Yosemite verglichen wird.",
       hu: "Festői völgy, amelyet meredek sziklák és buja zöld növényzet vesz körül, gyakran hasonlítják a Yosemite-völgyhöz.",
@@ -122,9 +119,8 @@ image: "/poi-images/harau-valley-pahang-relief-v2.webp"
       de: "Küste der Insel Kapas",
       hu: "Kapas-sziget partvidéke",
       ro: "Coasta Insulei Kapas",
-      en: "Kapas Island Coast",
-image: "/poi-images/kapas-island-coast-relief-v2.webp"
-},
+      en: "Kapas Island Coast"},
+    image: "/poi-images/kapas-island-coast-relief-v2.webp",
     description: {
       de: "Die Küste einer kleinen Insel vor Terengganu, berühmt für ihre weißen Sandstrände und das kristallklare Wasser.",
       hu: "Egy kis sziget partvidéke Terengganu partjainál, híres fehér homokos strandjairól és kristálytiszta vizéről.",
@@ -159,9 +155,8 @@ image: "/poi-images/kapas-island-coast-relief-v2.webp"
       de: "Fraser's Hill",
       hu: "Fraser's Hill",
       ro: "Dealul Fraser",
-      en: "Fraser's Hill",
-image: "/poi-images/fraser-hill-plateau-relief-v2.webp"
-},
+      en: "Fraser's Hill"},
+    image: "/poi-images/fraser-hill-plateau-relief-v2.webp",
     description: {
       de: "Ein ruhiges Hochlandresort in den Titiwangsa-Bergen, das für sein kühles Klima und seine erhaltene Kolonialarchitektur bekannt ist.",
       hu: "Egy csendes hegyvidéki üdülőhely a Titiwangsa-hegységben, amely hűvös éghajlatáról és megőrzött gyarmati építészetéről ismert.",
@@ -196,9 +191,8 @@ image: "/poi-images/fraser-hill-plateau-relief-v2.webp"
       de: "Berg Murud",
       hu: "Murud-hegy",
       ro: "Muntele Murud",
-      en: "Mount Murud",
-image: "/poi-images/murud-mountain-sarawak-relief-v2.webp"
-},
+      en: "Mount Murud"},
+    image: "/poi-images/murud-mountain-sarawak-relief-v2.webp",
     description: {
       de: "Der höchste Berg in Sarawak, gelegen im Kelabit-Hochland. Ein heiliger Berg für das Lun Bawang Volk.",
       hu: "Sarawak legmagasabb hegye, a Kelabit-felföldön található. A Lun Bawang nép szent hegye.",
@@ -233,9 +227,8 @@ image: "/poi-images/murud-mountain-sarawak-relief-v2.webp"
       de: "Küste von Teluk Cempedak",
       hu: "Teluk Cempedak partvidéke",
       ro: "Coasta Teluk Cempedak",
-      en: "Teluk Cempedak Coast",
-image: "/poi-images/teluk-cempedak-coast-relief-v2.webp"
-},
+      en: "Teluk Cempedak Coast"},
+    image: "/poi-images/teluk-cempedak-coast-relief-v2.webp",
     description: {
       de: "Ein beliebter Strand in Kuantan, Pahang, bekannt für seine malerische Küste und die Promenade entlang der Felsen.",
       hu: "Népszerű strand Kuantanban, Pahangban, amely festői partjáról és a sziklák mentén húzódó sétányáról ismert.",
@@ -270,9 +263,8 @@ image: "/poi-images/teluk-cempedak-coast-relief-v2.webp"
       de: "Tambunan-Tal",
       hu: "Tambunan-völgy",
       ro: "Valea Tambunan",
-      en: "Tambunan Valley",
-image: "/poi-images/tambunan-valley-sabah-relief-v2.webp"
-},
+      en: "Tambunan Valley"},
+    image: "/poi-images/tambunan-valley-sabah-relief-v2.webp",
     description: {
       de: "Ein fruchtbares Tal, das von der Crocker Range umgeben ist und als eines der schönsten Täler in Sabah gilt.",
       hu: "A Crocker-hegység által körülvett termékeny völgy, amelyet Sabah egyik legszebb völgyének tartanak.",
@@ -307,9 +299,8 @@ image: "/poi-images/tambunan-valley-sabah-relief-v2.webp"
       de: "Berg Berembun",
       hu: "Berembun-hegy",
       ro: "Muntele Berembun",
-      en: "Mount Berembun",
-image: "/poi-images/berembun-mountain-pahang-relief-v2.webp"
-},
+      en: "Mount Berembun"},
+    image: "/poi-images/berembun-mountain-pahang-relief-v2.webp",
     description: {
       de: "Ein Berg in den Cameron Highlands, bekannt für seine moosigen Wälder und die Überreste eines Flugzeugwracks aus dem Zweiten Weltkrieg.",
       hu: "Hegy a Cameron-felföldön, amely mohás erdőiről és egy második világháborús repülőgéproncs maradványairól ismert.",
@@ -344,9 +335,8 @@ image: "/poi-images/berembun-mountain-pahang-relief-v2.webp"
       de: "Kenong Rimba Park",
       hu: "Kenong Rimba Park",
       ro: "Parcul Kenong Rimba",
-      en: "Kenong Rimba Park",
-image: "/poi-images/kenong-rimba-park-coast-relief-v2.webp"
-},
+      en: "Kenong Rimba Park"},
+    image: "/poi-images/kenong-rimba-park-coast-relief-v2.webp",
     description: {
       de: "Ein von Kalksteinhügeln und Höhlen durchzogenes Flusstal, das ein atemberaubendes Naturerlebnis bietet.",
       hu: "Mészkődombokkal és barlangokkal tarkított folyóvölgy, amely lélegzetelállító természeti élményt nyújt.",
@@ -381,9 +371,8 @@ image: "/poi-images/kenong-rimba-park-coast-relief-v2.webp"
       de: "Küste des Tanjung-Datu-Nationalparks",
       hu: "Tanjung Datu Nemzeti Park partvidéke",
       ro: "Coasta Parcului Național Tanjung Datu",
-      en: "Tanjung Datu National Park Coast",
-image: "/poi-images/tanjung-datu-national-park-coast-relief-v2.webp"
-},
+      en: "Tanjung Datu National Park Coast"},
+    image: "/poi-images/tanjung-datu-national-park-coast-relief-v2.webp",
     description: {
       de: "Die Küste des kleinsten Nationalparks von Sarawak, bekannt für ihre unberührten Strände und Korallenriffe an der äußersten Westspitze Borneos.",
       hu: "Sarawak legkisebb nemzeti parkjának partvidéke, amely Borneó legnyugatibb csücskén érintetlen strandjairól és korallzátonyairól ismert.",
@@ -418,9 +407,8 @@ image: "/poi-images/tanjung-datu-national-park-coast-relief-v2.webp"
       de: "Berg Datu",
       hu: "Datu-hegy",
       ro: "Muntele Datu",
-      en: "Mount Datu",
-image: "/poi-images/datu-mountain-sarawak-relief-v2.webp"
-},
+      en: "Mount Datu"},
+    image: "/poi-images/datu-mountain-sarawak-relief-v2.webp",
     description: {
       de: "Ein Berg innerhalb des Samunsam Wildlife Sanctuary, der einen anspruchsvollen Aufstieg durch unberührten Regenwald bietet.",
       hu: "Egy hegy a Samunsam Vadvédelmi Területen belül, amely kihívást jelentő mászást kínál érintetlen esőerdőn keresztül.",
@@ -455,9 +443,8 @@ image: "/poi-images/datu-mountain-sarawak-relief-v2.webp"
       de: "Küste von Cherating",
       hu: "Cherating partvidéke",
       ro: "Coasta Cherating",
-      en: "Cherating Coast",
-image: "/poi-images/cherating-coast-pahang-relief-v2.webp"
-},
+      en: "Cherating Coast"},
+    image: "/poi-images/cherating-coast-pahang-relief-v2.webp",
     description: {
       de: "Ein bekannter Strandort an der Ostküste Malaysias, berühmt für seine entspannte Atmosphäre und als Surfspot während der Monsunzeit.",
       hu: "Ismert tengerparti üdülőhely Malajzia keleti partján, amely nyugodt légköréről és a monszun idején szörfözési lehetőségeiről híres.",
@@ -492,9 +479,8 @@ image: "/poi-images/cherating-coast-pahang-relief-v2.webp"
       de: "Jelebu-Tal",
       hu: "Jelebu-völgy",
       ro: "Valea Jelebu",
-      en: "Jelebu Valley",
-image: "/poi-images/jelebu-valley-negeri-sembilan-relief-v2.webp"
-},
+      en: "Jelebu Valley"},
+    image: "/poi-images/jelebu-valley-negeri-sembilan-relief-v2.webp",
     description: {
       de: "Ein landwirtschaftliches Tal in Negeri Sembilan, bekannt für den Anbau von Früchten, insbesondere Ananas.",
       hu: "Egy mezőgazdasági völgy Negeri Sembilanban, amely gyümölcstermesztéséről, különösen az ananászról ismert.",
@@ -529,9 +515,8 @@ image: "/poi-images/jelebu-valley-negeri-sembilan-relief-v2.webp"
       de: "Berg Korbu",
       hu: "Korbu-hegy",
       ro: "Muntele Korbu",
-      en: "Mount Korbu",
-image: "/poi-images/korbu-mountain-perak-relief-v2.webp"
-},
+      en: "Mount Korbu"},
+    image: "/poi-images/korbu-mountain-perak-relief-v2.webp",
     description: {
       de: "Der höchste Berg im Titiwangsa-Gebirge und der zweithöchste auf der malaiischen Halbinsel.",
       hu: "A Titiwangsa-hegység legmagasabb hegye és a Maláj-félsziget második legmagasabbja.",
@@ -566,9 +551,8 @@ image: "/poi-images/korbu-mountain-perak-relief-v2.webp"
       de: "Sahabat-Umsiedlungs-Plateau",
       hu: "Sahabat Áttelepítési Fennsík",
       ro: "Platoul de Relocare Sahabat",
-      en: "Sahabat Resettlement Plateau",
-image: "/poi-images/rancangan-penempatan-semula-sahabat-plateau-relief-v2.webp"
-},
+      en: "Sahabat Resettlement Plateau"},
+    image: "/poi-images/rancangan-penempatan-semula-sahabat-plateau-relief-v2.webp",
     description: {
       de: "Ein großes Landentwicklungsgebiet, das von FELDA verwaltet wird und sich auf den Anbau von Ölpalmen konzentriert.",
       hu: "A FELDA által kezelt nagy földfejlesztési terület, amely a pálmaolaj-termesztésre összpontosít.",
@@ -603,9 +587,8 @@ image: "/poi-images/rancangan-penempatan-semula-sahabat-plateau-relief-v2.webp"
       de: "Küste von Papar",
       hu: "Papar partvidéke",
       ro: "Coasta Papar",
-      en: "Papar Coast",
-image: "/poi-images/papar-sabah-coast-relief-v2.webp"
-},
+      en: "Papar Coast"},
+    image: "/poi-images/papar-sabah-coast-relief-v2.webp",
     description: {
       de: "Eine Küstenregion in Sabah, bekannt für ihre langen Sandstrände und Sonnenuntergänge über dem Südchinesischen Meer.",
       hu: "Tengerparti régió Sabahban, amely hosszú homokos strandjairól és a Dél-kínai-tenger feletti naplementéiről ismert.",
@@ -640,9 +623,8 @@ image: "/poi-images/papar-sabah-coast-relief-v2.webp"
       de: "Seri-Menanti-Tal",
       hu: "Seri Menanti-völgy",
       ro: "Valea Seri Menanti",
-      en: "Seri Menanti Valley",
-image: "/poi-images/seri-menanti-valley-negeri-sembilan-relief-v2.webp"
-},
+      en: "Seri Menanti Valley"},
+    image: "/poi-images/seri-menanti-valley-negeri-sembilan-relief-v2.webp",
     description: {
       de: "Das königliche Tal von Negeri Sembilan, Heimat des Istana Lama Seri Menanti, einem beeindruckenden Holzpalast.",
       hu: "Negeri Sembilan királyi völgye, otthona az Istana Lama Seri Menantinak, egy lenyűgöző fapalotának.",
@@ -677,9 +659,8 @@ image: "/poi-images/seri-menanti-valley-negeri-sembilan-relief-v2.webp"
       de: "Westküste der Insel Penang",
       hu: "Penang-sziget nyugati partvidéke",
       ro: "Coasta de Vest a Insulei Penang",
-      en: "Penang Island West Coast",
-image: "/poi-images/penang-island-west-coast-relief-v2.webp"
-},
+      en: "Penang Island West Coast"},
+    image: "/poi-images/penang-island-west-coast-relief-v2.webp",
     description: {
       de: "Die weniger entwickelte und ländlichere Seite der Insel Penang mit unberührten Stränden, Fischerdörfern und landwirtschaftlichen Flächen.",
       hu: "Penang-sziget kevésbé fejlett és vidéki oldala, érintetlen strandokkal, halászfalvakkal és mezőgazdasági területekkel.",
@@ -714,9 +695,8 @@ image: "/poi-images/penang-island-west-coast-relief-v2.webp"
       de: "Ulu-Gombak-Waldreservat-Tal",
       hu: "Ulu Gombak Erdőrezervátum völgye",
       ro: "Valea Rezervației Forestiere Ulu Gombak",
-      en: "Ulu Gombak Forest Reserve Valley",
-image: "/poi-images/ulu-gombak-forest-reserve-valley-relief-v2.webp"
-},
+      en: "Ulu Gombak Forest Reserve Valley"},
+    image: "/poi-images/ulu-gombak-forest-reserve-valley-relief-v2.webp",
     description: {
       de: "Ein Waldtal in der Nähe von Kuala Lumpur, das als wichtiges Forschungsgebiet für Forstwirtschaft und Ökologie dient.",
       hu: "Egy erdős völgy Kuala Lumpur közelében, amely fontos kutatási terület az erdészet és az ökológia számára.",

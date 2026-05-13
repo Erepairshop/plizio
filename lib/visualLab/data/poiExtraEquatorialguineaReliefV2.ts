@@ -11,9 +11,8 @@ export const poiExtraEquatorialguineaReliefV2: POI[] = [
       de: "Pico Quioveo",
       hu: "Pico Quioveo",
       ro: "Pico Quioveo",
-      en: "Pico Quioveo",
-image: "/poi-images/pico-quioveo-relief-v2.webp"
-},
+      en: "Pico Quioveo"},
+    image: "/poi-images/pico-quioveo-relief-v2.webp",
     description: {
       de: "Der Pico Quioveo ist der höchste Gipfel der Vulkaninsel Annobón und bietet einen weiten Blick über den Südatlantik.",
       hu: "A Pico Quioveo az Annobón vulkáni sziget legmagasabb csúcsa, ahonnan pazar kilátás nyílik a Dél-Atlanti-óceánra.",
@@ -48,9 +47,8 @@ image: "/poi-images/pico-quioveo-relief-v2.webp"
       de: "Pico do Fogo",
       hu: "Pico do Fogo",
       ro: "Pico do Fogo",
-      en: "Pico do Fogo",
-image: "/poi-images/pico-do-fogo-relief-v2.webp"
-},
+      en: "Pico do Fogo"},
+    image: "/poi-images/pico-do-fogo-relief-v2.webp",
     description: {
       de: "Ein markanter vulkanischer Gipfel im Süden der Insel Annobón, der die raue maritime Landschaft prägt.",
       hu: "Egy jellegzetes vulkáni csúcs Annobón szigetének déli részén, amely meghatározza a vad tengeri tájat.",
@@ -85,9 +83,8 @@ image: "/poi-images/pico-do-fogo-relief-v2.webp"
       de: "Pico Malabo",
       hu: "Pico Malabo",
       ro: "Pico Malabo",
-      en: "Pico Malabo",
-image: "/poi-images/pico-malabo-relief-v2.webp"
-},
+      en: "Pico Malabo"},
+    image: "/poi-images/pico-malabo-relief-v2.webp",
     description: {
       de: "Der Pico Malabo ist ein erloschener Vulkan im Norden der Insel Bioko, der die gleichnamige Hauptstadt überragt.",
       hu: "A Pico Malabo egy kialudt vulkán Bioko szigetének északi részén, amely az azonos nevű főváros fölé magasodik.",
@@ -122,9 +119,8 @@ image: "/poi-images/pico-malabo-relief-v2.webp"
       de: "Monte San Carlos",
       hu: "Monte San Carlos",
       ro: "Monte San Carlos",
-      en: "Monte San Carlos",
-image: "/poi-images/monte-san-carlos-relief-v2.webp"
-},
+      en: "Monte San Carlos"},
+    image: "/poi-images/monte-san-carlos-relief-v2.webp",
     description: {
       de: "Mit über 2.200 Metern ist der Monte San Carlos einer der höchsten Gipfel im Süden der Insel Bioko.",
       hu: "A több mint 2200 méter magas Monte San Carlos Bioko szigetének egyik legmagasabb csúcsa a déli részen.",
@@ -159,9 +155,8 @@ image: "/poi-images/monte-san-carlos-relief-v2.webp"
       de: "Pico de la Concepción",
       hu: "Pico de la Concepción",
       ro: "Pico de la Concepción",
-      en: "Pico de la Concepción",
-image: "/poi-images/pico-de-la-concepcion-relief-v2.webp"
-},
+      en: "Pico de la Concepción"},
+    image: "/poi-images/pico-de-la-concepcion-relief-v2.webp",
     description: {
       de: "Ein bedeutender Gipfel im Osten von Bioko, der steil zum Atlantischen Ozean hin abfällt.",
       hu: "Bioko keleti részének jelentős csúcsa, amely meredeken szakad le az Atlanti-óceán felé.",
@@ -196,9 +191,8 @@ image: "/poi-images/pico-de-la-concepcion-relief-v2.webp"
       de: "Moka-Plateau",
       hu: "Moka-fennsík",
       ro: "Platoul Moka",
-      en: "Moka Plateau",
-image: "/poi-images/moka-plateau-relief-v2.webp"
-},
+      en: "Moka Plateau"},
+    image: "/poi-images/moka-plateau-relief-v2.webp",
     description: {
       de: "Ein fruchtbares vulkanisches Hochplateau auf der Insel Bioko, bekannt für sein kühleres Klima und grüne Wiesen.",
       hu: "Termékeny vulkáni fennsík Bioko szigetén, amely hűvösebb klímájáról és zöld mezőiről ismert.",
@@ -233,9 +227,8 @@ image: "/poi-images/moka-plateau-relief-v2.webp"
       de: "Lago Loreto Kraterlandschaft",
       hu: "Lago Loreto krátervidék",
       ro: "Peisajul craterului Lago Loreto",
-      en: "Lago Loreto Crater Landscape",
-image: "/poi-images/lago-loreto-krater-relief-v2.webp"
-},
+      en: "Lago Loreto Crater Landscape"},
+    image: "/poi-images/lago-loreto-krater-relief-v2.webp",
     description: {
       de: "Eine beeindruckende geologische Formation im Hochland von Bioko, bestehend aus einem vulkanischen Kratersee.",
       hu: "Lenyűgöző geológiai képződmény Bioko felföldjén, amely egy vulkáni krátertóból áll.",
@@ -270,9 +263,8 @@ image: "/poi-images/lago-loreto-krater-relief-v2.webp"
       de: "Niefang-Bergland",
       hu: "Niefang-hegyvidék",
       ro: "Zona montană Niefang",
-      en: "Niefang Highlands",
-image: "/poi-images/niefang-bergland-relief-v2.webp"
-},
+      en: "Niefang Highlands"},
+    image: "/poi-images/niefang-bergland-relief-v2.webp",
     description: {
       de: "Die zentrale Gebirgskette im kontinentalen Teil Äquatorialguineas, die das Land in Nord-Süd-Richtung teilt.",
       hu: "Központi hegylánc az ország szárazföldi részén, amely észak-déli irányban osztja ketté a területet.",
@@ -307,9 +299,8 @@ image: "/poi-images/niefang-bergland-relief-v2.webp"
       de: "Río Muni Becken",
       hu: "Río Muni-medence",
       ro: "Bazinul Río Muni",
-      en: "Río Muni Basin",
-image: "/poi-images/rio-muni-becken-relief-v2.webp"
-},
+      en: "Río Muni Basin"},
+    image: "/poi-images/rio-muni-becken-relief-v2.webp",
     description: {
       de: "Ein weitläufiges sedimentäres Becken, das den kontinentalen Teil des Landes geologisch prägt.",
       hu: "Kiterjedt üledékes medence, amely geológiailag meghatározza az ország szárazföldi részét.",
@@ -344,9 +335,8 @@ image: "/poi-images/rio-muni-becken-relief-v2.webp"
       de: "Litoral-Küstenebene",
       hu: "Litoral-partvidéki síkság",
       ro: "Câmpia de coastă Litoral",
-      en: "Litoral Coastal Plain",
-image: "/poi-images/litoral-kuestenebene-relief-v2.webp"
-},
+      en: "Litoral Coastal Plain"},
+    image: "/poi-images/litoral-kuestenebene-relief-v2.webp",
     description: {
       de: "Die flache Küstenzone entlang des Atlantischen Ozeans, geprägt durch sandige Strände und Mangrovensümpfe.",
       hu: "Az Atlanti-óceán menti lapos parti zóna, amelyet homokos strandok és mangrove mocsarak jellemeznek.",
@@ -381,9 +371,8 @@ image: "/poi-images/litoral-kuestenebene-relief-v2.webp"
       de: "Altos de Nsork Hügelland",
       hu: "Altos de Nsork dombvidék",
       ro: "Dealurile Altos de Nsork",
-      en: "Altos de Nsork Highlands",
-image: "/poi-images/altos-de-nsork-huegelland-relief-v2.webp"
-},
+      en: "Altos de Nsork Highlands"},
+    image: "/poi-images/altos-de-nsork-huegelland-relief-v2.webp",
     description: {
       de: "Eine hügelige Landschaft im äußersten Südosten von Río Muni, bekannt für ihre unberührten Waldformationen.",
       hu: "Dombvidéki táj Río Muni délkeleti csücskében, amely érintetlen erdőiről ismert.",
@@ -418,9 +407,8 @@ image: "/poi-images/altos-de-nsork-huegelland-relief-v2.webp"
       de: "Piedra Nzas Formation",
       hu: "Piedra Nzas sziklaalakzat",
       ro: "Formațiunea Piedra Nzas",
-      en: "Piedra Nzas Formation",
-image: "/poi-images/piedra-nzas-formation-relief-v2.webp"
-},
+      en: "Piedra Nzas Formation"},
+    image: "/poi-images/piedra-nzas-formation-relief-v2.webp",
     description: {
       de: "Markante Felsformationen im Osten des Landes, die als Inselberge aus dem tropischen Regenwald herausragen.",
       hu: "Jellegzetes sziklaképződmények az ország keleti részén, amelyek szigethegyként emelkednek ki a trópusi esőerdőből.",
@@ -455,9 +443,8 @@ image: "/poi-images/piedra-nzas-formation-relief-v2.webp"
       de: "Monte Chocolate",
       hu: "Monte Chocolate",
       ro: "Monte Chocolate",
-      en: "Monte Chocolate",
-image: "/poi-images/monte-chocolate-relief-v2.webp"
-},
+      en: "Monte Chocolate"},
+    image: "/poi-images/monte-chocolate-relief-v2.webp",
     description: {
       de: "Ein isolierter Berg mit einer charakteristischen Kegelform im Herzen des kontinentalen Äquatorialguinea.",
       hu: "Egy elkülönült hegy jellegzetes kúp alakjával a szárazföldi Egyenlítői-Guinea szívében.",
@@ -492,9 +479,8 @@ image: "/poi-images/monte-chocolate-relief-v2.webp"
       de: "Siete Cerros Gebirge",
       hu: "Siete Cerros-hegység",
       ro: "Munții Siete Cerros",
-      en: "Siete Cerros Mountains",
-image: "/poi-images/siete-cerros-gebirge-relief-v2.webp"
-},
+      en: "Siete Cerros Mountains"},
+    image: "/poi-images/siete-cerros-gebirge-relief-v2.webp",
     description: {
       de: "Eine Kette von sieben markanten Hügeln, die eine natürliche Barriere im zentralen Río Muni bilden.",
       hu: "Hét jellegzetes dombból álló láncolat, amely természetes gátat alkot Río Muni központjában.",
@@ -529,9 +515,8 @@ image: "/poi-images/siete-cerros-gebirge-relief-v2.webp"
       de: "Benito-Tal",
       hu: "Benito-völgy",
       ro: "Valea Benito",
-      en: "Benito Valley",
-image: "/poi-images/benito-tal-relief-v2.webp"
-},
+      en: "Benito Valley"},
+    image: "/poi-images/benito-tal-relief-v2.webp",
     description: {
       de: "Das tief eingeschnittene Tal des Benito-Flusses, das sich durch den tropischen Regenwald von Río Muni windet.",
       hu: "A Benito-folyó mélyen bevágott völgye, amely Río Muni trópusi esőerdőin kanyarog keresztül.",
@@ -566,9 +551,8 @@ image: "/poi-images/benito-tal-relief-v2.webp"
       de: "Wele-Durchbruchstal",
       hu: "Wele-áttöréses völgy",
       ro: "Valea de străpungere Wele",
-      en: "Wele Gorge Valley",
-image: "/poi-images/wele-durchbruchstal-relief-v2.webp"
-},
+      en: "Wele Gorge Valley"},
+    image: "/poi-images/wele-durchbruchstal-relief-v2.webp",
     description: {
       de: "Ein dramatisches Tal im Osten, wo der Wele-Fluss die Gebirgsketten durchbricht und tiefe Schluchten bildet.",
       hu: "Drámai völgy keleten, ahol a Wele-folyó áttöri a hegyláncokat, mély szurdokokat alkotva.",
@@ -603,9 +587,8 @@ image: "/poi-images/wele-durchbruchstal-relief-v2.webp"
       de: "Corisco-Riff",
       hu: "Corisco-zátony",
       ro: "Reciful Corisco",
-      en: "Corisco Reef",
-image: "/poi-images/corisco-riff-relief-v2.webp"
-},
+      en: "Corisco Reef"},
+    image: "/poi-images/corisco-riff-relief-v2.webp",
     description: {
       de: "Ein marines Reliefmerkmal vor der Insel Corisco, bestehend aus ausgedehnten Sandbänken und Korallenriffen.",
       hu: "Tengeri domborzati forma Corisco szigete előtt, amely kiterjedt homokpadokból és korallzátonyokból áll.",
@@ -640,9 +623,8 @@ image: "/poi-images/corisco-riff-relief-v2.webp"
       de: "Monte Bong",
       hu: "Monte Bong",
       ro: "Monte Bong",
-      en: "Monte Bong",
-image: "/poi-images/monte-bong-relief-v2.webp"
-},
+      en: "Monte Bong"},
+    image: "/poi-images/monte-bong-relief-v2.webp",
     description: {
       de: "Ein markanter Gipfel im östlichen Grenzgebiet, der Teil des kristallinen Plateaus von Zentralafrika ist.",
       hu: "Jellegzetes csúcs a keleti határvidéken, amely a közép-afrikai kristályos fennsík része.",
@@ -677,9 +659,8 @@ image: "/poi-images/monte-bong-relief-v2.webp"
       de: "Monte Medum",
       hu: "Monte Medum",
       ro: "Monte Medum",
-      en: "Monte Medum",
-image: "/poi-images/monte-medum-relief-v2.webp"
-},
+      en: "Monte Medum"},
+    image: "/poi-images/monte-medum-relief-v2.webp",
     description: {
       de: "Ein hoher Berg im Südosten von Río Muni, der eine wichtige Rolle für das lokale Klima und die Wolkenbildung spielt.",
       hu: "Magas hegy Río Muni délkeleti részén, amely fontos szerepet játszik a helyi éghajlatban és a felhőképződésben.",
@@ -714,9 +695,8 @@ image: "/poi-images/monte-medum-relief-v2.webp"
       de: "Monte Bilat",
       hu: "Monte Bilat",
       ro: "Monte Bilat",
-      en: "Monte Bilat",
-image: "/poi-images/monte-bilat-relief-v2.webp"
-},
+      en: "Monte Bilat"},
+    image: "/poi-images/monte-bilat-relief-v2.webp",
     description: {
       de: "Ein küstennaher Berg in der Provinz Litoral, der aus der flachen Küstenebene markant emporragt.",
       hu: "Partközeli hegy Litoral tartományban, amely jellegzetesen emelkedik ki a lapos parti síkságból.",
